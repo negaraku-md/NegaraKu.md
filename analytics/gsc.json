@@ -1,155 +1,535 @@
 {
-  "updatedAt": "2026-09-10T13:10:03.942Z",
+  "updatedAt": "2026-09-14T10:10:10.796Z",
   "property": "sc-domain:negaraku.md",
   "byMonth": {
     "2026-09": {
-      "clicks": 0,
-      "impressions": 261
+      "clicks": 73,
+      "impressions": 14521
     }
   },
   "latest": {
     "window": {
-      "start": "2026-06-12",
-      "end": "2026-09-07"
+      "start": "2026-06-16",
+      "end": "2026-09-11"
     },
     "totals": {
-      "clicks": 0,
-      "impressions": 261,
-      "ctr": 0,
-      "position": 9.8
+      "clicks": 73,
+      "impressions": 14521,
+      "ctr": 0.5,
+      "position": 16.6
     },
     "byCategory": {
-      "agriculture": {
-        "clicks": 0,
-        "impressions": 12
-      },
-      "business": {
-        "clicks": 0,
-        "impressions": 45
+      "taxation": {
+        "clicks": 14,
+        "impressions": 109
       },
       "company-secretary": {
+        "clicks": 11,
+        "impressions": 787
+      },
+      "employment": {
+        "clicks": 3,
+        "impressions": 312
+      },
+      "sports": {
+        "clicks": 3,
+        "impressions": 28
+      },
+      "agriculture": {
+        "clicks": 1,
+        "impressions": 1014
+      },
+      "accounting": {
+        "clicks": 1,
+        "impressions": 237
+      },
+      "arts-culture": {
+        "clicks": 4,
+        "impressions": 427
+      },
+      "business": {
+        "clicks": 5,
+        "impressions": 1513
+      },
+      "cost-of-living": {
+        "clicks": 1,
+        "impressions": 138
+      },
+      "education": {
+        "clicks": 1,
+        "impressions": 328
+      },
+      "energy": {
+        "clicks": 1,
+        "impressions": 579
+      },
+      "food-lifestyle": {
+        "clicks": 3,
+        "impressions": 175
+      },
+      "government": {
+        "clicks": 5,
+        "impressions": 699
+      },
+      "healthcare": {
+        "clicks": 2,
+        "impressions": 267
+      },
+      "money-daily-life": {
+        "clicks": 3,
+        "impressions": 68
+      },
+      "public-safety": {
+        "clicks": 6,
+        "impressions": 120
+      },
+      "settling-in": {
+        "clicks": 4,
+        "impressions": 25
+      },
+      "industries": {
+        "clicks": 1,
+        "impressions": 52
+      },
+      "law": {
+        "clicks": 1,
+        "impressions": 730
+      },
+      "malaysia": {
+        "clicks": 2,
+        "impressions": 823
+      },
+      "property": {
+        "clicks": 1,
+        "impressions": 1
+      },
+      "transport": {
+        "clicks": 1,
+        "impressions": 1
+      },
+      "audit": {
         "clicks": 0,
-        "impressions": 23
+        "impressions": 60
+      },
+      "companies": {
+        "clicks": 0,
+        "impressions": 204
       },
       "doing-business": {
         "clicks": 0,
         "impressions": 5
       },
-      "employment": {
+      "economy": {
         "clicks": 0,
-        "impressions": 6
+        "impressions": 167
       },
-      "accounting": {
-        "clicks": 0,
-        "impressions": 5
-      },
-      "arts-culture": {
-        "clicks": 0,
-        "impressions": 3
-      },
-      "audit": {
-        "clicks": 0,
-        "impressions": 1
-      },
-      "companies": {
-        "clicks": 0,
-        "impressions": 1
-      },
-      "cost-of-living": {
+      "articles": {
         "clicks": 0,
         "impressions": 2
       },
-      "economy": {
+      "cookies": {
         "clicks": 0,
-        "impressions": 5
+        "impressions": 1
       },
-      "education": {
+      "environment": {
         "clicks": 0,
-        "impressions": 4
+        "impressions": 121
       },
-      "energy": {
+      "explore": {
         "clicks": 0,
-        "impressions": 5
+        "impressions": 1
+      },
+      "faq": {
+        "clicks": 0,
+        "impressions": 2
       },
       "finance": {
         "clicks": 0,
-        "impressions": 4
-      },
-      "food-lifestyle": {
-        "clicks": 0,
-        "impressions": 3
+        "impressions": 248
       },
       "glossary": {
         "clicks": 0,
-        "impressions": 4
+        "impressions": 257
       },
-      "government": {
-        "clicks": 0,
-        "impressions": 12
-      },
-      "healthcare": {
+      "graph": {
         "clicks": 0,
         "impressions": 1
       },
       "international": {
         "clicks": 0,
-        "impressions": 1
+        "impressions": 72
+      }
+    },
+    "byLang": {
+      "en": {
+        "byCategory": {
+          "taxation": {
+            "clicks": 4,
+            "impressions": 32
+          },
+          "company-secretary": {
+            "clicks": 9,
+            "impressions": 689
+          },
+          "employment": {
+            "clicks": 3,
+            "impressions": 239
+          },
+          "accounting": {
+            "clicks": 1,
+            "impressions": 208
+          },
+          "arts-culture": {
+            "clicks": 4,
+            "impressions": 364
+          },
+          "business": {
+            "clicks": 4,
+            "impressions": 1099
+          },
+          "cost-of-living": {
+            "clicks": 1,
+            "impressions": 123
+          },
+          "education": {
+            "clicks": 1,
+            "impressions": 271
+          },
+          "energy": {
+            "clicks": 1,
+            "impressions": 579
+          },
+          "food-lifestyle": {
+            "clicks": 2,
+            "impressions": 160
+          },
+          "government": {
+            "clicks": 2,
+            "impressions": 693
+          },
+          "healthcare": {
+            "clicks": 2,
+            "impressions": 267
+          },
+          "money-daily-life": {
+            "clicks": 2,
+            "impressions": 40
+          },
+          "public-safety": {
+            "clicks": 1,
+            "impressions": 18
+          },
+          "settling-in": {
+            "clicks": 1,
+            "impressions": 15
+          },
+          "sports": {
+            "clicks": 1,
+            "impressions": 3
+          },
+          "agriculture": {
+            "clicks": 0,
+            "impressions": 954
+          },
+          "articles": {
+            "clicks": 0,
+            "impressions": 2
+          },
+          "audit": {
+            "clicks": 0,
+            "impressions": 49
+          },
+          "companies": {
+            "clicks": 0,
+            "impressions": 181
+          },
+          "cookies": {
+            "clicks": 0,
+            "impressions": 1
+          },
+          "doing-business": {
+            "clicks": 0,
+            "impressions": 1
+          },
+          "economy": {
+            "clicks": 0,
+            "impressions": 152
+          },
+          "environment": {
+            "clicks": 0,
+            "impressions": 121
+          },
+          "explore": {
+            "clicks": 0,
+            "impressions": 1
+          },
+          "faq": {
+            "clicks": 0,
+            "impressions": 2
+          },
+          "finance": {
+            "clicks": 0,
+            "impressions": 248
+          },
+          "glossary": {
+            "clicks": 0,
+            "impressions": 257
+          },
+          "graph": {
+            "clicks": 0,
+            "impressions": 1
+          },
+          "industries": {
+            "clicks": 0,
+            "impressions": 51
+          },
+          "international": {
+            "clicks": 0,
+            "impressions": 72
+          },
+          "law": {
+            "clicks": 0,
+            "impressions": 728
+          },
+          "malaysia": {
+            "clicks": 0,
+            "impressions": 816
+          }
+        }
       },
-      "law": {
-        "clicks": 0,
-        "impressions": 23
+      "ms": {
+        "byCategory": {
+          "sports": {
+            "clicks": 2,
+            "impressions": 25
+          },
+          "agriculture": {
+            "clicks": 1,
+            "impressions": 60
+          },
+          "company-secretary": {
+            "clicks": 1,
+            "impressions": 96
+          },
+          "government": {
+            "clicks": 2,
+            "impressions": 2
+          },
+          "industries": {
+            "clicks": 1,
+            "impressions": 1
+          },
+          "law": {
+            "clicks": 1,
+            "impressions": 2
+          },
+          "malaysia": {
+            "clicks": 2,
+            "impressions": 7
+          },
+          "money-daily-life": {
+            "clicks": 1,
+            "impressions": 28
+          },
+          "settling-in": {
+            "clicks": 1,
+            "impressions": 4
+          },
+          "taxation": {
+            "clicks": 4,
+            "impressions": 50
+          },
+          "accounting": {
+            "clicks": 0,
+            "impressions": 29
+          },
+          "arts-culture": {
+            "clicks": 0,
+            "impressions": 63
+          },
+          "audit": {
+            "clicks": 0,
+            "impressions": 11
+          },
+          "business": {
+            "clicks": 0,
+            "impressions": 413
+          },
+          "companies": {
+            "clicks": 0,
+            "impressions": 23
+          },
+          "cost-of-living": {
+            "clicks": 0,
+            "impressions": 15
+          },
+          "doing-business": {
+            "clicks": 0,
+            "impressions": 4
+          },
+          "economy": {
+            "clicks": 0,
+            "impressions": 15
+          },
+          "education": {
+            "clicks": 0,
+            "impressions": 57
+          },
+          "employment": {
+            "clicks": 0,
+            "impressions": 73
+          }
+        }
       },
-      "malaysia": {
-        "clicks": 0,
-        "impressions": 17
-      },
-      "money-daily-life": {
-        "clicks": 0,
-        "impressions": 13
-      },
-      "property": {
-        "clicks": 0,
-        "impressions": 8
-      },
-      "public-safety": {
-        "clicks": 0,
-        "impressions": 13
-      },
-      "settling-in": {
-        "clicks": 0,
-        "impressions": 8
-      },
-      "states": {
-        "clicks": 0,
-        "impressions": 6
-      },
-      "taxation": {
-        "clicks": 0,
-        "impressions": 21
-      },
-      "technology": {
-        "clicks": 0,
-        "impressions": 3
-      },
-      "tourism": {
-        "clicks": 0,
-        "impressions": 5
-      },
-      "environment": {
-        "clicks": 0,
-        "impressions": 2
-      },
-      "transport": {
-        "clicks": 0,
-        "impressions": 2
+      "zh": {
+        "byCategory": {
+          "business": {
+            "clicks": 1,
+            "impressions": 1
+          },
+          "company-secretary": {
+            "clicks": 1,
+            "impressions": 2
+          },
+          "food-lifestyle": {
+            "clicks": 1,
+            "impressions": 15
+          },
+          "government": {
+            "clicks": 1,
+            "impressions": 4
+          },
+          "property": {
+            "clicks": 1,
+            "impressions": 1
+          },
+          "public-safety": {
+            "clicks": 5,
+            "impressions": 102
+          },
+          "settling-in": {
+            "clicks": 2,
+            "impressions": 6
+          },
+          "taxation": {
+            "clicks": 6,
+            "impressions": 27
+          },
+          "transport": {
+            "clicks": 1,
+            "impressions": 1
+          }
+        }
       }
     },
     "topQueries": [
+      {
+        "query": "p.u. (a) 252/2026",
+        "clicks": 1,
+        "impressions": 1,
+        "position": 11
+      },
+      {
+        "query": "sijil taraf mastautin",
+        "clicks": 1,
+        "impressions": 1,
+        "position": 8
+      },
+      {
+        "query": "ssm extension of time 2026",
+        "clicks": 1,
+        "impressions": 6,
+        "position": 9.3
+      },
+      {
+        "query": "wang yang tidak dituntut di bank",
+        "clicks": 1,
+        "impressions": 1,
+        "position": 38
+      },
+      {
+        "query": "遺產稅 馬來西亞",
+        "clicks": 1,
+        "impressions": 1,
+        "position": 10
+      },
+      {
+        "query": "\"approved business\" \"division 1 of part 1 of schedule 1\" \"financial services act 2013\"",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 7.8
+      },
+      {
+        "query": "\"bank negara malaysia\" -site:bnm.gov.my -site:facebook.com -site:instagram.com -site:threads.com -site:threads.net -site:linkedin.com -site:x.com -site:twitter.com -site:tiktok.com -site:youtube.com -site:youtu.be -site:reddit.com -site:t.me -site:telegram.me -site:telegram.org -site:pinterest.com -site:vimeo.com",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 95
+      },
+      {
+        "query": "\"current population estimates, malaysia, 2024\" \"johor\" \"kedah\" \"melaka\"",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 5
+      },
+      {
+        "query": "\"gdp_state_real_supply\" \"construction\"",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 7
+      },
+      {
+        "query": "\"gdp_state_real_supply\" \"johor\" \"construction\"",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 4
+      },
+      {
+        "query": "\"gdp_state_real_supply\" github",
+        "clicks": 0,
+        "impressions": 3,
+        "position": 3
+      },
+      {
+        "query": "\"kaedah-kaedah mahkamah (pindaan) 2025\"",
+        "clicks": 0,
+        "impressions": 3,
+        "position": 5.7
+      },
       {
         "query": "\"mdec\" -\"mdec:ln\" -\"ufc\" -\"emulation\" -\"fish\" -\"fishing\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
         "clicks": 0,
         "impressions": 1,
         "position": 4
+      },
+      {
+        "query": "\"p.u. (a) 170/2025\" pdf",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 9
+      },
+      {
+        "query": "\"p.u. (a)\" \"rules of court (amendment) 2025\" malaysia",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 5
+      },
+      {
+        "query": "\"peraturan-peraturan kebersihan makanan (pindaan) 2026\"",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 10
+      },
+      {
+        "query": "\"rules of court (amendment) 2025\" malaysia",
+        "clicks": 0,
+        "impressions": 2,
+        "position": 9.5
+      },
+      {
+        "query": "\"section 8\" \"approved business\" \"financial services act 2013\"",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 7
       },
       {
         "query": "%sime darby plantation renamed sd guthrie berhad 2023 2024",
@@ -158,136 +538,40 @@
         "position": 1
       },
       {
+        "query": "%sime darby plantation renamed sd guthrie berhad 2024",
+        "clicks": 0,
+        "impressions": 2,
+        "position": 1.5
+      },
+      {
+        "query": "+ministry of agriculture and food security malaysia official website kpkm",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 6
+      },
+      {
+        "query": "+sime darby plantation renamed sd guthrie berhad 2023 2024",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 2
+      },
+      {
         "query": "109b",
         "clicks": 0,
         "impressions": 1,
         "position": 8
       },
       {
-        "query": "akta in english",
+        "query": "13 may incident",
         "clicks": 0,
         "impressions": 1,
-        "position": 7
+        "position": 25
       },
       {
-        "query": "audit exemption malaysia",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 89
-      },
-      {
-        "query": "bunga raya reason",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 4
-      },
-      {
-        "query": "dewan undangan negeri in english",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 9
-      },
-      {
-        "query": "gasing",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 60
-      },
-      {
-        "query": "investment holding company",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 66
-      },
-      {
-        "query": "malaysia official languages",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 50
-      },
-      {
-        "query": "malaysia timeline",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 54
-      },
-      {
-        "query": "pdrm是什么",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 11
-      },
-      {
-        "query": "project funding malaysia",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 64
-      },
-      {
-        "query": "real property gains tax malaysia",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 100
-      },
-      {
-        "query": "royal malaysia police emergency number 999",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 1
-      },
-      {
-        "query": "sdn bhd registration malaysia",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 99
-      },
-      {
-        "query": "skim jaminan pembiayaan perniagaan",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 5.5
-      },
-      {
-        "query": "statutory declaration",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 79
-      },
-      {
-        "query": "statutory declaration act malaysia",
-        "clicks": 0,
-        "impressions": 2,
-        "position": 19
-      },
-      {
-        "query": "statutory declaration form malaysia",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 47
-      },
-      {
-        "query": "subsidiary in malaysia",
+        "query": "13 may incident malaysia",
         "clicks": 0,
         "impressions": 1,
         "position": 45
-      },
-      {
-        "query": "suruhanjaya syarikat malaysia",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 30
-      },
-      {
-        "query": "what language do they speak in malaysia",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 49
-      },
-      {
-        "query": "马来西亚报案纸",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 10
       }
     ]
   }
