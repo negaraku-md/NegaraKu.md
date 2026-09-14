@@ -138,6 +138,28 @@ function currentWindow(now = Date.now()) {
   return 'evening';
 }
 
+// How many articles to post at THIS tick, allocating the day's target PEAK-FIRST:
+// evening gets filled before lunch before morning (Malaysia FB engagement peaks
+// evening > lunch > morning; a Page's reach is earned by engagement, so the day's
+// posts should land where the audience is). Returns the cumulative allocation up to
+// the current window minus what already went out today — so a skipped tick self-
+// heals (its share rolls to the next window) and the evening tick catches up all.
+const WINDOW_PEAK_RANK = { evening: 0, lunch: 1, morning: 2 }; // best first
+function windowBudget(target, already, win, langWindows) {
+  const active = WINDOWS.filter((w) => langWindows.includes(w)); // chronological order
+  if (!active.length) return Math.max(0, target - already);
+  const base = Math.floor(target / active.length);
+  const rem = target % active.length;
+  const byPeak = [...active].sort((a, b) => WINDOW_PEAK_RANK[a] - WINDOW_PEAK_RANK[b]);
+  const alloc = {};
+  for (const w of active) alloc[w] = base;
+  for (let i = 0; i < rem; i++) alloc[byPeak[i]] += 1; // remainder to the best windows
+  let cum = 0;
+  for (const w of active) { cum += alloc[w]; if (w === win) break; }
+  if (win === 'evening') cum = target; // last tick of the day catches up everything left
+  return Math.max(0, cum - already);
+}
+
 // The targets for this run. Two paths:
 //   • files named (CLI / CHANGED_FILES): post exactly those, to every language.
 //   • queue mode (cron): each language drains its OWN demand-ranked queue up to
@@ -171,12 +193,14 @@ function resolveTargets(files, manifest, { scheduled }) {
         console.log(`[fb-backlog] [${lang}] not its window (${win}; wants ${langWindows.join('/')}) — waits.`);
         continue;
       }
-      // Spread `remaining` across the language's windows still to come (incl. now);
-      // the evening catch-up posts all that is left.
-      const idx = WINDOWS.indexOf(win);
-      const windowsLeft = langWindows.filter((w) => WINDOWS.indexOf(w) >= idx).length;
-      const denom = isEvening ? 1 : Math.max(1, windowsLeft);
-      budget = Math.min(remaining, Math.max(1, Math.ceil(remaining / denom)));
+      // Growth-first: allocate the day's target PEAK-FIRST (evening > lunch > morning),
+      // because a Page's reach is earned by engagement and engagement is highest at
+      // peak audience times — so a single daily post lands in the evening, not 8am.
+      budget = windowBudget(dayTarget, already, win, langWindows);
+      if (budget <= 0) {
+        console.log(`[fb-backlog] [${lang}] nothing due this window (${win}) — waits for a later peak.`);
+        continue;
+      }
     }
     const picks = nextForLang(manifest, lang, budget, bases);
     for (const b of picks) {
