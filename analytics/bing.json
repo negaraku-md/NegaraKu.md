@@ -1,17 +1,30 @@
 {
-  "updatedAt": "2026-09-10T14:41:15.088Z",
+  "updatedAt": "2026-09-14T11:18:44.198Z",
   "site": "https://www.negaraku.md/",
   "byMonth": {
     "2026-09": {
-      "clicks": 0,
-      "impressions": 0
+      "clicks": 1,
+      "impressions": 8
     }
   },
   "latest": {
     "totals": {
-      "clicks": 0,
-      "impressions": 0
+      "clicks": 1,
+      "impressions": 8
     },
-    "topQueries": []
+    "topQueries": [
+      {
+        "query": "malaysia federal constitution yang di-pertua negeri powers sultan state constitution conference of rulers",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 5
+      },
+      {
+        "query": "retrenchment notification requirement in malaysia",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 9
+      }
+    ]
   }
 }
