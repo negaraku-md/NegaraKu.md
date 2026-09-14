@@ -55,6 +55,8 @@ jobs:
           fi
           # Overwrites the four data files + README (stable names), so removed
           # articles drop out on the full rewrite; no --delete needed.
-          huggingface-cli upload "$HF_REPO" ./dataset . \
+          # `hf` is the current CLI (huggingface-cli is deprecated). It reads the
+          # HF_TOKEN env var for auth automatically.
+          hf upload "$HF_REPO" ./dataset . \
             --repo-type dataset \
             --commit-message "Refresh from negaraku.md ($(date -u +%Y-%m-%d))"
