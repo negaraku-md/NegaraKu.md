@@ -31,11 +31,16 @@ export const WINDOWS = ['morning', 'lunch', 'evening'];
 //    GitHub-skipped tick never makes a language miss the day.
 // Every Page is only days old, so all currently post ~1/day and climb over the
 // coming weeks. Add a row (and to LANGS) when a new language launches.
+// DECIDED 2026-09-14: all languages post at the SAME times (morning/lunch/evening),
+// so the daily 1/3/5 distributes identically across every Page. Per-language
+// differentiation is in QUEUE ORDER (own demand), not timing. (The `windows`
+// mechanism stays per-language so a single language can be retimed later if wanted.)
+const ALL_WINDOWS = ['morning', 'lunch', 'evening'];
 export const LANG_POLICY = {
-  ms: { enabled: true, perDay: 5, since: '2026-09-09', windows: ['morning', 'lunch', 'evening'] },
-  en: { enabled: true, perDay: 5, since: '2026-09-09', windows: ['morning', 'lunch', 'evening'] },
-  zh: { enabled: true, perDay: 5, since: '2026-09-10', windows: ['lunch', 'evening'] },
-  ta: { enabled: true, perDay: 5, since: '2026-09-11', windows: ['evening'] },
+  ms: { enabled: true, perDay: 5, since: '2026-09-09', windows: ALL_WINDOWS },
+  en: { enabled: true, perDay: 5, since: '2026-09-09', windows: ALL_WINDOWS },
+  zh: { enabled: true, perDay: 5, since: '2026-09-10', windows: ALL_WINDOWS },
+  ta: { enabled: true, perDay: 5, since: '2026-09-11', windows: ALL_WINDOWS },
   // ja/ko: not in LANGS yet (no corpus); add here + to LANGS when they launch.
 };
 
