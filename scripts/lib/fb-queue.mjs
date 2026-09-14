@@ -11,7 +11,7 @@ import { readFileSync, writeFileSync, existsSync, readdirSync, mkdirSync } from 
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
-import { LANGS, pillarOf } from './facebook.mjs';
+import { LANGS, LANG_POLICY, pillarOf } from './facebook.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const KNOWLEDGE = path.join(ROOT, 'knowledge');
@@ -58,31 +58,52 @@ export function listPublishedBases() {
 
 // --- ranking ---------------------------------------------------------------
 
+// Minimum per-language impressions before a language's OWN search demand is
+// trusted to rank its queue. Below this a newly-launched language (ta/ja/ko has
+// ~0 GSC history at first) COLD-STARTS on the aggregate demand as a proxy, then
+// switches to its own signal automatically once it has accumulated enough.
+const COLD_START_MIN = 30;
+
 // Per-category search demand from the committed GSC snapshot (impressions over
 // the trailing window). Used to front-load articles in categories people are
 // already finding on Google — proven demand, no live call needed.
-function categoryDemand() {
-  const demand = {};
+//   categoryDemand()      → aggregate across all languages (back-compat / proxy)
+//   categoryDemand(lang)  → THAT language's own demand (latest.byLang[lang]),
+//                           falling back to the aggregate when the language has
+//                           too little history (cold-start).
+function categoryDemand(lang) {
   try {
     const gsc = JSON.parse(readFileSync(GSC, 'utf8'));
-    const byCat = gsc?.latest?.byCategory ?? {};
-    for (const [cat, v] of Object.entries(byCat)) demand[cat] = Number(v?.impressions) || 0;
-  } catch { /* no snapshot yet → all zero, falls back to recency + rotation */ }
-  return demand;
+    const latest = gsc?.latest ?? {};
+    const agg = {};
+    for (const [cat, v] of Object.entries(latest.byCategory ?? {})) agg[cat] = Number(v?.impressions) || 0;
+    if (!lang) return agg;
+    const lc = latest.byLang?.[lang]?.byCategory;
+    if (!lc) return agg; // no per-language data captured yet → aggregate proxy
+    const own = {};
+    let total = 0;
+    for (const [cat, v] of Object.entries(lc)) {
+      const imp = Number(v?.impressions) || 0;
+      own[cat] = imp;
+      total += imp;
+    }
+    return total >= COLD_START_MIN ? own : agg; // cold-start until the language has real signal
+  } catch {
+    return {}; // no snapshot → all zero, falls back to recency + rotation
+  }
 }
 
 // Order the backlog: within each pillar, sort by category search-demand then by
 // recency (newest first); then interleave the three pillars round-robin so no
-// single pillar floods the feed. Seasonal/timely injection can prepend later.
-export function rankBases(bases) {
-  const demand = categoryDemand();
+// single pillar floods the feed. `demand` is the (possibly language-specific)
+// category→impressions map; the ranking shape is identical either way.
+function rankWith(bases, demand) {
   const score = (b) => demand[b.category] ?? 0;
   const byPillar = { 'doing-business': [], living: [], understand: [] };
   for (const b of bases) (byPillar[b.pillar] ??= []).push(b);
   for (const list of Object.values(byPillar)) {
     list.sort((x, y) => (score(y) - score(x)) || (String(y.updated).localeCompare(String(x.updated))));
   }
-  // Round-robin the pillars (business, living, understand) so the feed rotates.
   const order = ['doing-business', 'living', 'understand'];
   const ranked = [];
   for (let i = 0; ; i++) {
@@ -94,6 +115,19 @@ export function rankBases(bases) {
     if (!added) break;
   }
   return ranked;
+}
+
+// Aggregate ranking (all languages share one order) — kept for back-compat.
+export function rankBases(bases) {
+  return rankWith(bases, categoryDemand());
+}
+
+// PER-LANGUAGE ranking: order a language's queue by ITS OWN search demand, so the
+// Tamil feed and the English feed front-load different articles for their
+// different audiences (the whole point). Cold-starts on aggregate demand until
+// the language has its own GSC history.
+export function rankBasesForLang(lang, bases) {
+  return rankWith(bases, categoryDemand(lang));
 }
 
 // --- manifest --------------------------------------------------------------
@@ -168,6 +202,17 @@ export function perRunArticles(manifest, now = Date.now()) {
   return 5;
 }
 
+// Whether a language is currently posting at all (LANG_POLICY.enabled, default on
+// for anything in LANGS). A disabled language is skipped without touching others.
+export const isLangEnabled = (lang) => LANG_POLICY?.[lang]?.enabled !== false;
+
+// A language's DAILY article target: its explicit LANG_POLICY.perDay (so mature
+// languages can post more and a young Page less), else the global warm-up ramp.
+export function perLangPerDay(lang, manifest, now = Date.now()) {
+  const p = LANG_POLICY?.[lang]?.perDay;
+  return Number.isFinite(p) ? p : perRunArticles(manifest, now);
+}
+
 // How many DISTINCT articles the backlog already posted "today" in Malaysia time
 // (UTC+8). Each article posts to 3 language Pages in one run (3 manifest entries
 // sharing a base), so we count distinct bases, not entries. This is what lets the
@@ -188,6 +233,20 @@ export function postedTodayCountMYT(manifest, now = Date.now()) {
 // True if any article already posted today (MYT) — the boolean form.
 export const postedTodayMYT = (manifest, now = Date.now()) => postedTodayCountMYT(manifest, now) > 0;
 
+// Distinct articles posted TODAY (MYT) in ONE language — the per-language form,
+// so each language's daily target and cron-tick drip are tracked independently.
+export function postedTodayCountMYTForLang(manifest, lang, now = Date.now()) {
+  const MYT_OFFSET = 8 * 3600000;
+  const mytDay = (ms) => new Date(ms + MYT_OFFSET).toISOString().slice(0, 10);
+  const today = mytDay(now);
+  const bases = new Set();
+  for (const [k, e] of Object.entries(manifest.posted || {})) {
+    const [base, l] = [k.slice(0, k.lastIndexOf('#')), k.slice(k.lastIndexOf('#') + 1)];
+    if (l === lang && e?.at && mytDay(Date.parse(e.at)) === today) bases.add(base);
+  }
+  return bases.size;
+}
+
 // The next batch of article bases to act on: ranked order, dropping any base
 // that is fully done in every language (post + comment), capped at `count`. A
 // base with a failed/pending comment is still included so the poster retries the
@@ -201,4 +260,19 @@ export function nextBatch(manifest, count) {
     if (batch.length >= count) break;
   }
   return batch;
+}
+
+// The next `count` article bases to post IN ONE LANGUAGE: that language's own
+// demand-ranked order (rankBasesForLang), dropping any base already done in this
+// language. This is the per-language queue — each language drains independently,
+// so on a given day different Pages post different articles for their audiences.
+export function nextForLang(manifest, lang, count, bases = listPublishedBases()) {
+  const ranked = rankBasesForLang(lang, bases);
+  const out = [];
+  for (const b of ranked) {
+    if (isDone(manifest, b.base, lang)) continue;
+    out.push(b);
+    if (out.length >= count) break;
+  }
+  return out;
 }

@@ -13,6 +13,21 @@ import matter from 'gray-matter';
 export const GRAPH = 'https://graph.facebook.com/v21.0';
 export const LANGS = ['ms', 'en', 'zh', 'ta']; // ms at "/", en at "/en", zh at "/zh", ta at "/ta"
 
+// Per-language posting policy. Each language drains its OWN priority-ranked queue
+// (ordered by that language's OWN search demand — see fb-queue.mjs), because the
+// most-wanted article differs by audience: an English reader and a Tamil reader
+// do not click the same things. `perDay` is that language's daily article target
+// (it overrides the global warm-up ramp in perRunArticles); `enabled:false` skips
+// a language entirely. Tune per language; add a row when a new language launches.
+// Kept conservative while the Pages are young — raise as they build an audience.
+export const LANG_POLICY = {
+  ms: { enabled: true, perDay: 3 },
+  en: { enabled: true, perDay: 3 },
+  zh: { enabled: true, perDay: 2 },
+  ta: { enabled: true, perDay: 1 }, // brand-new Page — gentle ramp
+  // ja/ko: not in LANGS yet (no corpus); add here + to LANGS when they launch.
+};
+
 // One Facebook Page PER language. Page IDs are PUBLIC (they appear in each Page's
 // URL), so they live here rather than in secrets; override with FB_PAGE_ID_<LANG>
 // if ever needed. The one secret is FB_PAGE_ACCESS_TOKEN. A language with a blank

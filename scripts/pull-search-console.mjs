@@ -64,13 +64,25 @@ async function query(token, body) {
   return j.rows || [];
 }
 
+// Non-default locale prefixes the site serves (ms is the default at "/"). Keep in
+// sync with i18n LOCALES. `ta` was missing here, so Tamil URLs mis-parsed.
+const URL_LOCALES = ['en', 'zh', 'ta', 'ja', 'ko'];
+
 // Category = first path segment after any locale prefix (matches the site).
 function categoryOf(pageUrl) {
   try {
     const seg = new URL(pageUrl).pathname.replace(/^\/+|\/+$/g, '').split('/');
-    if (['en', 'zh', 'ms'].includes(seg[0])) seg.shift();
+    if (URL_LOCALES.includes(seg[0])) seg.shift();
     return seg[0] || 'home';
   } catch { return 'home'; }
+}
+
+// Language of a result URL: the locale prefix, or 'ms' (the default at "/").
+function langOf(pageUrl) {
+  try {
+    const seg = new URL(pageUrl).pathname.replace(/^\/+|\/+$/g, '').split('/');
+    return URL_LOCALES.includes(seg[0]) ? seg[0] : 'ms';
+  } catch { return 'ms'; }
 }
 
 async function loadPrev() {
@@ -126,14 +138,26 @@ async function main() {
   }
   Object.assign(byMonth, fresh);
 
-  // latest — per-category split + top queries over the trailing 90 days.
+  // latest — per-category split (aggregate) AND per-language×category split, over
+  // the trailing 90 days. The per-language split (byLang) lets the FB backlog
+  // poster rank each language's queue by ITS OWN audience demand — an English and
+  // a Tamil reader don't want the same articles (see scripts/lib/fb-queue.mjs).
   const byCategory = {};
+  const byLang = {};
   for (const r of byPage) {
-    const cat = categoryOf(r.keys?.[0] || '');
+    const url = r.keys?.[0] || '';
+    const cat = categoryOf(url);
     if (cat === 'home') continue;
+    const clicks = Math.round(r.clicks || 0);
+    const impressions = Math.round(r.impressions || 0);
     const e = (byCategory[cat] ||= { clicks: 0, impressions: 0 });
-    e.clicks += Math.round(r.clicks || 0);
-    e.impressions += Math.round(r.impressions || 0);
+    e.clicks += clicks;
+    e.impressions += impressions;
+    const lang = langOf(url);
+    const lc = (byLang[lang] ||= { byCategory: {} });
+    const le = (lc.byCategory[cat] ||= { clicks: 0, impressions: 0 });
+    le.clicks += clicks;
+    le.impressions += impressions;
   }
   const topQueries = byQuery.map((r) => ({
     query: r.keys?.[0] || '',
@@ -153,7 +177,7 @@ async function main() {
     updatedAt: new Date().toISOString(),
     property: SITE,
     byMonth,
-    latest: { window: { start: start90, end }, totals, byCategory, topQueries },
+    latest: { window: { start: start90, end }, totals, byCategory, byLang, topQueries },
   };
   await mkdir(path.dirname(OUT), { recursive: true });
   await writeFile(OUT, JSON.stringify(snapshot, null, 2) + '\n', 'utf8');

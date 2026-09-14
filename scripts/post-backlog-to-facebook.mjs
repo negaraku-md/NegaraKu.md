@@ -33,7 +33,7 @@ import {
 } from './lib/facebook.mjs';
 import {
   loadManifest, saveManifest, isDone, hasPost, entryFor, markPost, markComment,
-  nextBatch, perRunArticles, postedTodayCountMYT,
+  listPublishedBases, nextForLang, perLangPerDay, postedTodayCountMYTForLang, isLangEnabled,
 } from './lib/fb-queue.mjs';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
@@ -129,13 +129,44 @@ function targetsForBases(bases, manifest) {
   return out;
 }
 
-// The targets for this run: exactly the files named on the CLI / CHANGED_FILES
-// (manual path), or the next `count` ranked queue articles (cron path).
-function resolveTargets(files, manifest, count) {
+// The targets for this run. Two paths:
+//   • files named (CLI / CHANGED_FILES): post exactly those, to every language.
+//   • queue mode (cron): each language drains its OWN demand-ranked queue up to
+//     its own daily target — so on a given day different Pages post different
+//     articles, ordered by each audience's own search demand.
+function resolveTargets(files, manifest, { scheduled }) {
   if (files.length) return targetsForBases(articleBases(files), manifest);
-  const batch = nextBatch(manifest, count).map((b) => b.base);
-  console.log(`[fb-backlog] queue: posting ${batch.length} article(s) this run.`);
-  return targetsForBases(batch, manifest);
+
+  const bases = listPublishedBases();
+  const out = [];
+  const seen = new Set();
+  for (const lang of LANGS) {
+    if (!isLangEnabled(lang) || !PAGES[lang]) continue;
+    const dayTarget = perLangPerDay(lang, manifest);
+    let budget = dayTarget;
+    if (scheduled) {
+      // Drip the language's daily target across the cron ticks; a skipped tick is
+      // self-healed by a later one, and each language is tracked independently.
+      const already = postedTodayCountMYTForLang(manifest, lang);
+      const remaining = dayTarget - already;
+      if (remaining <= 0) {
+        console.log(`[fb-backlog] [${lang}] daily target met (${already}/${dayTarget} today, MYT) — skip.`);
+        continue;
+      }
+      budget = Math.min(remaining, Math.max(1, Math.ceil(dayTarget / DAILY_TICKS)));
+    }
+    const picks = nextForLang(manifest, lang, budget, bases);
+    for (const b of picks) {
+      const file = langFile(b.base, lang);
+      const k = `${b.base}#${lang}`;
+      if (existsSync(file) && !isDone(manifest, b.base, lang) && !seen.has(k)) {
+        seen.add(k);
+        out.push({ base: b.base, file, lang, prefix: localePrefix(lang) });
+      }
+    }
+    if (picks.length) console.log(`[fb-backlog] queue [${lang}]: ${picks.length} article(s) (target ${dayTarget}/day).`);
+  }
+  return out;
 }
 
 // Build the native-photo post for a target: the OG-card image URL, the
@@ -311,24 +342,9 @@ async function main() {
     return;
   }
   const manifest = loadManifest();
-  // How many articles to post this run (queue mode only; the files path ignores it).
-  let count = perRunArticles(manifest);
-  if (SCHEDULED && !files.length) {
-    // Spread the daily target across the day's cron ticks: each tick tops up
-    // toward the target, so a skipped tick is self-healed by a later one and the
-    // articles drip through the day rather than flooding the feed in one burst.
-    const target = count;
-    const already = postedTodayCountMYT(manifest);
-    const remaining = target - already;
-    if (remaining <= 0) {
-      console.log(`[fb-backlog] daily target met (${already}/${target} today, MYT) — scheduled tick skipped.`);
-      return;
-    }
-    const share = Math.max(1, Math.ceil(target / DAILY_TICKS));
-    count = Math.min(remaining, share);
-    console.log(`[fb-backlog] scheduled tick: ${already}/${target} posted today; posting up to ${count} more (share ${share}).`);
-  }
-  const ts = resolveTargets(files, manifest, count);
+  // Each language drains its own demand-ranked queue up to its own daily target;
+  // on scheduled runs the target drips across the day's cron ticks (per language).
+  const ts = resolveTargets(files, manifest, { scheduled: SCHEDULED && !files.length });
   if (!ts.length) { console.log('[fb-backlog] nothing to do (all caught up).'); return; }
 
   // Dry run / no token: log what would be posted, never call the API, exit 0.
