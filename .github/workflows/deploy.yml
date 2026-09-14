@@ -35,6 +35,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        # Full history (not the default shallow depth:1) so build-changelog.mjs can
+        # read the real commit log — otherwise the deployed /changelog shows 1 entry.
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v5
         with:
