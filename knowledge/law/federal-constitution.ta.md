@@ -42,6 +42,7 @@ sources:
     publisher: "Attorney General's Chambers of Malaysia"
 
 entity: "Federal Constitution"
+wikidata: "Q1003080"
 relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["parliament"]

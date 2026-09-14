@@ -67,6 +67,7 @@ sources:
     publisher: "Jabatan Imigresen Malaysia"
 
 entity: "Jabatan Imigresen Malaysia"
+wikidata: "Q5260346"
 relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "governs", to: "work-passes-malaysia" }

@@ -61,6 +61,7 @@ sources:
     url: "https://www.miti.gov.my/index.php"
     publisher: "Ministry of Investment, Trade and Industry (MITI)"
 entity: "Ministry of Investment, Trade and Industry (Malaysia)"
+wikidata: "Q14933204"
 relations: []
 related: []
 keywords: ["MITI", "Ministry of Investment Trade and Industry", "MITI Malaysia", "Kementerian Pelaburan Perdagangan dan Industri", "MITI agencies", "MIDA", "MATRADE", "MPC", "MITI minister", "NIMP 2030", "Ministry of International Trade and Industry", "KPDN"]

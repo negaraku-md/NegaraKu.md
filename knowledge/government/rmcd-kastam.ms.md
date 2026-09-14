@@ -100,6 +100,7 @@ sources:
     date: "1999-01-01"
 
 entity: "RMCD"
+wikidata: "Q7374434"
 relations:
   - { rel: "compares-with", to: "lhdn" }
   - { rel: "governs", to: "sst-explained" }

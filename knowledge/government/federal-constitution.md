@@ -60,6 +60,7 @@ sources:
     publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
 
 entity: "Perlembagaan Persekutuan Malaysia"
+wikidata: "Q1003080"
 relations:
   - { rel: "related-to", to: "parliament" }
   - { rel: "related-to", to: "majlis-raja-raja" }

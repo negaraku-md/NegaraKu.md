@@ -70,6 +70,7 @@ sources:
     publisher: "Eversheds Sutherland"
 
 entity: "Anti-Money Laundering, Anti-Terrorism Financing, Anti-Restricted Activity Financing and Proceeds of Unlawful Activities Act 2001"
+wikidata: "Q26910843"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "financial-intelligence-unit" }

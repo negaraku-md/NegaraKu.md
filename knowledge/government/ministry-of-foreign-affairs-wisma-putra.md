@@ -83,6 +83,7 @@ sources:
     publisher: "The Star"
 
 entity: "Ministry of Foreign Affairs (Wisma Putra)"
+wikidata: "Q3527309"
 relations:
   - { rel: "related-to", to: "miti" }
   - { rel: "related-to", to: "matrade" }

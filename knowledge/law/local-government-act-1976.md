@@ -61,6 +61,7 @@ sources:
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Attorney General's Chambers of Malaysia (AGC)"
 entity: "Local Government Act 1976 (Act 171)"
+wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]

@@ -97,6 +97,7 @@ sources:
     publisher: "EY (summarising MDEC criteria)"
 
 entity: "Immigration Act 1959/63 (Act 155)"
+wikidata: "Q27962088"
 relations: []
 related: []
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]

@@ -89,6 +89,7 @@ sources:
     publisher: "Wikipedia"
 
 entity: "MITI"
+wikidata: "Q14933204"
 relations:
   - { rel: "related-to", to: "mida" }
   - { rel: "related-to", to: "matrade" }

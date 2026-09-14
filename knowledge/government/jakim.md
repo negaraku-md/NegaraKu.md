@@ -68,6 +68,7 @@ sources:
     publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
 
 entity: "JAKIM"
+wikidata: "Q7354383"
 relations:
   - { rel: "part-of", to: "kabinet-perdana-menteri" }
   - { rel: "explained-in", to: "article-3-religion" }

@@ -92,6 +92,7 @@ sources:
     publisher: "Suruhanjaya Integriti Agensi Penguatkuasaan (EAIC)"
 
 entity: "PDRM"
+wikidata: "Q1664804"
 relations:
   - { rel: "related-to", to: "federal-constitution" }
   - { rel: "related-to", to: "kabinet-perdana-menteri" }

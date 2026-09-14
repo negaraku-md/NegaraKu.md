@@ -118,6 +118,7 @@ sources:
     publisher: "Kementerian Kewangan Malaysia"
 
 entity: "Kementerian Kewangan Malaysia"
+wikidata: "Q7361911"
 relations:
   - { rel: "related-to", to: "lhdn" }
   - { rel: "related-to", to: "rmcd-kastam" }

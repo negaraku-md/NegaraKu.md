@@ -59,6 +59,7 @@ sources:
     publisher: "LHDN"
 
 entity: "Income Tax Act 1967"
+wikidata: "Q12682321"
 relations:
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "corporate-tax-rates" }

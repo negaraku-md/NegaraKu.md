@@ -76,6 +76,7 @@ sources:
     url: "https://www.mywilayah.com/2020/03/sejarah-kementerian-kesihatan-malaysia.html"
     publisher: "MyWilayah (citing MOH brief history)"
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)"
+wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]

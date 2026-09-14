@@ -84,6 +84,7 @@ sources:
     publisher: "Allen & Gledhill"
 
 entity: "Communications and Multimedia Act 1998"
+wikidata: "Q7304627"
 relations:
   - { rel: "administered-by", to: "malaysian-communications-and-multimedia-commission" }
   - { rel: "related-to", to: "sedition-act-1948" }

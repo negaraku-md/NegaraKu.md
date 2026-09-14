@@ -66,6 +66,7 @@ sources:
     publisher: "Malaysia External Trade Development Corporation"
 
 entity: "MATRADE"
+wikidata: "Q62059199"
 relations:
   - { rel: "part-of", to: "miti" }
   - { rel: "compares-with", to: "mida" }

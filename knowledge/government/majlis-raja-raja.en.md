@@ -55,6 +55,7 @@ sources:
     publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
 
 entity: "Majlis Raja-Raja"
+wikidata: "Q5159925"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "federal-constitution" }

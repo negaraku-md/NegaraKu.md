@@ -66,6 +66,7 @@ sources:
     url: "https://www.eperolehan.gov.my/en/online-registration"
     publisher: "ePerolehan / Ministry of Finance Malaysia"
 entity: "Ministry of Finance (Malaysia)"
+wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]

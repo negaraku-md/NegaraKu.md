@@ -96,6 +96,7 @@ sources:
     publisher: "EY (summarising MDEC criteria)"
 
 entity: "Immigration Act 1959/63 (Act 155)"
+wikidata: "Q27962088"
 relations:
   - { rel: "administered-by", to: "immigration-department-malaysia" }
   - { rel: "related-to", to: "employment-pass-malaysia" }

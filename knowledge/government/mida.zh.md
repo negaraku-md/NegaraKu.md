@@ -90,6 +90,7 @@ sources:
     publisher: "Malaysian Investment Development Authority"
 
 entity: "MIDA"
+wikidata: "Q1433720"
 relations:
   - { rel: "part-of", to: "miti" }
   - { rel: "compares-with", to: "mdec-digital-status" }

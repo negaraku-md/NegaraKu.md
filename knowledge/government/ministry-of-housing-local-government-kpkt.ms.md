@@ -72,6 +72,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Solid_Waste_and_Public_Cleansing_Management_Act_2007"
     publisher: "Wikipedia"
 entity: "Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT)"
+wikidata: "Q6867161"
 relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]

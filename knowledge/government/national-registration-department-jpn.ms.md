@@ -79,6 +79,7 @@ sources:
     publisher: "Malay Mail"
     date: "2026-07-23"
 entity: "National Registration Department (Jabatan Pendaftaran Negara, JPN)"
+wikidata: "Q7354404"
 relations: []
 related: []
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "kad pengenalan", "NRIC", "IC Malaysia", "MyKid", "birth certificate Malaysia", "JPN online services", "MyKad replacement", "apply MyKad 12", "lost IC fee"]

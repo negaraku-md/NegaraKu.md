@@ -67,6 +67,7 @@ sources:
     publisher: "MOHR"
 
 entity: "Employment Act 1955"
+wikidata: "Q117829236"
 relations:
   - { rel: "administered-by", to: "jtksm" }
   - { rel: "explained-in", to: "employment-act-1955-guide" }

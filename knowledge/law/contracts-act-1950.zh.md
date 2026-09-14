@@ -72,6 +72,7 @@ sources:
     publisher: "Attorney General's Chambers of Malaysia"
 
 entity: "Contracts Act 1950"
+wikidata: "Q123977368"
 relations:
   - { rel: "related-to", to: "federal-constitution" }
   - { rel: "related-to", to: "court-hierarchy" }

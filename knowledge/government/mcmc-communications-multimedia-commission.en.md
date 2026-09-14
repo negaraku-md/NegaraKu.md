@@ -89,6 +89,7 @@ sources:
     publisher: "The Edge Malaysia"
 
 entity: "MCMC"
+wikidata: "Q4263019"
 relations:
   - { rel: "related-to", to: "communications-multimedia-act-1998" }
 related: ["communications-and-multimedia-act-1998"]

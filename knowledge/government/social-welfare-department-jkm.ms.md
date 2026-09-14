@@ -72,6 +72,7 @@ sources:
     url: "https://simple.wikipedia.org/wiki/Department_of_Social_Welfare_(Malaysia)"
     publisher: "Simple English Wikipedia"
 entity: "Jabatan Kebajikan Masyarakat (Department of Social Welfare, JKM)"
+wikidata: "Q7354381"
 relations: []
 related: []
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]

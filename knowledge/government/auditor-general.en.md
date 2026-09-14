@@ -57,6 +57,7 @@ sources:
     publisher: "Jabatan Audit Negara Malaysia"
 
 entity: "Jabatan Audit Negara Malaysia"
+wikidata: "Q12688330"
 relations:
   - { rel: "administered-by", to: "kabinet-perdana-menteri" }
   - { rel: "explained-in", to: "federal-constitution" }

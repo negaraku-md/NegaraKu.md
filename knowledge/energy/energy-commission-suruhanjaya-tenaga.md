@@ -82,6 +82,7 @@ sources:
     publisher: "Pejabat Peguam Negara Malaysia (Attorney General's Chambers)"
 
 entity: "Suruhanjaya Tenaga (Energy Commission of Malaysia)"
+wikidata: "Q2913205"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "administered-by", to: "petra-energy-transition-water" }

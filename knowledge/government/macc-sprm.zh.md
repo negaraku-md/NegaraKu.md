@@ -75,6 +75,7 @@ sources:
     date: "2020-06-01"
 
 entity: "MACC"
+wikidata: "Q6741935"
 relations:
   - { rel: "related-to", to: "parliament" }
   - { rel: "related-to", to: "federal-constitution" }

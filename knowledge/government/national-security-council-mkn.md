@@ -67,6 +67,7 @@ sources:
     publisher: "Rahmat Lim & Partners"
 
 entity: "Majlis Keselamatan Negara (MKN)"
+wikidata: "Q7382378"
 relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
   - { rel: "related-to", to: "yang-di-pertuan-agong" }

@@ -80,6 +80,7 @@ sources:
     publisher: "Jabatan Peguam Negara / Laws of Malaysia (lom.agc.gov.my)"
 
 entity: "Jabatan Peguam Negara"
+wikidata: "Q25491685"
 relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]

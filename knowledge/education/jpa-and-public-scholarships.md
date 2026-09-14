@@ -78,6 +78,7 @@ sources:
     publisher: "Malaysiakini"
 
 entity: "Jabatan Perkhidmatan Awam (JPA)"
+wikidata: "Q7354435"
 relations:
   - { rel: "related-to", to: "ptptn-education-loan" }
   - { rel: "administered-by", to: "public-service-department" }

@@ -77,6 +77,7 @@ sources:
     publisher: "The Edge Malaysia"
 
 entity: "Suruhanjaya Tenaga"
+wikidata: "Q2913205"
 relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }

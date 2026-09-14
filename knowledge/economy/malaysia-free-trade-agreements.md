@@ -79,6 +79,7 @@ sources:
     publisher: "European Free Trade Association (EFTA)"
 
 entity: "Ministry of Investment, Trade and Industry (MITI)"
+wikidata: "Q14933204"
 relations:
   - { rel: "administered-by", to: "malaysia-miti" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
