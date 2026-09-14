@@ -100,6 +100,7 @@ sources:
     publisher: "Department of Statistics Malaysia"
 
 entity: "Bayan Lepas Free Industrial Zone"
+wikidata: "Q50315832"
 relations:
   - { rel: "governs", to: "free-zones-act-1990" }
   - { rel: "administered-by", to: "royal-malaysian-customs" }

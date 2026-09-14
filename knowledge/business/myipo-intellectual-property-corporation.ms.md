@@ -75,6 +75,7 @@ sources:
     url: "https://asiaiplaw.com/section/ip-analysts/geographical-indications-in-malaysia-recent-developments-and-progress"
     publisher: "Asia IP Law"
 entity: "Intellectual Property Corporation of Malaysia (MyIPO)"
+wikidata: "Q12698635"
 relations: []
 related: []
 keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Perbadanan Harta Intelek Malaysia", "trademark registration Malaysia", "patent registration Malaysia", "MyIPO trademark fees", "Trademarks Act 2019", "copyright Malaysia", "industrial design Malaysia", "geographical indication Malaysia", "IP registration Malaysia", "MyIPO online filing"]

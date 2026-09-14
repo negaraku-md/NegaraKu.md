@@ -85,6 +85,7 @@ sources:
     publisher: "Selangor Journal (citing DOSM)"
 
 entity: "Department of Statistics Malaysia (DOSM)"
+wikidata: "Q7354425"
 relations:
   - { rel: "related-to", to: "cost-of-living-malaysia" }
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }

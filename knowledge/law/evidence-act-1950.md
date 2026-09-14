@@ -63,6 +63,7 @@ sources:
     publisher: "Salinan teks penuh cetakan semula rasmi yang dihoskan oleh Polis Diraja Malaysia (Jabatan Siasatan Jenayah Komersial)"
 
 entity: "Evidence Act 1950"
+wikidata: "Q12682327"
 relations:
   - { rel: "related-to", to: "criminal-procedure-code" }
   - { rel: "related-to", to: "federal-constitution-malaysia" }

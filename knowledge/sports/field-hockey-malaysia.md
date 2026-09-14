@@ -75,6 +75,7 @@ sources:
     publisher: "International Hockey Federation (FIH)"
 
 entity: "Konfederasi Hoki Malaysia (MHC)"
+wikidata: "Q6741969"
 relations:
   - { rel: "related-to", to: "doing-business-ipoh-perak" }
 related: ["doing-business-ipoh-perak"]

@@ -49,6 +49,7 @@ sources:
   - title: "Sejarah Melayu (Sulalatus Salatin)"
     publisher: "Arkib Negara Malaysia"
 entity: "Kesultanan Johor-Riau"
+wikidata: "Q1150344"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "supersedes", to: "melaka-sultanate" }

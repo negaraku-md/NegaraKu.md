@@ -85,6 +85,7 @@ sources:
     publisher: "ASEAN Football Federation"
 
 entity: "Football Association of Malaysia"
+wikidata: "Q622250"
 relations:
   - { rel: "administered-by", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "harimau-malaya" }

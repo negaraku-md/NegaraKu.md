@@ -62,6 +62,7 @@ sources:
     url: "https://lom.agc.gov.my/"
     publisher: "Attorney General's Chambers of Malaysia"
 entity: "The Alliance (Malaya)"
+wikidata: "Q456403"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "independence-1957" }

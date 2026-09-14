@@ -58,6 +58,7 @@ sources:
     publisher: "Aaron Mathews Advocates & Solicitors"
 
 entity: "Kanun Keseksaan (Akta 574)"
+wikidata: "Q7360292"
 relations:
   - { rel: "governs", to: "penal-code-malaysia" }
 related: ["penal-code"]

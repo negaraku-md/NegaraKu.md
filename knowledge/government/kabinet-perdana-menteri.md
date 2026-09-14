@@ -66,6 +66,7 @@ sources:
     publisher: "Parlimen Malaysia"
 
 entity: "Jemaah Menteri Malaysia"
+wikidata: "Q846488"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }

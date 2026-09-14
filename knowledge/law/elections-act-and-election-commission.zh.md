@@ -69,6 +69,7 @@ sources:
     publisher: "Parlimen Malaysia"
 
 entity: "Suruhanjaya Pilihan Raya (SPR)"
+wikidata: "Q5354512"
 relations:
   - { rel: "part-of", to: "federal-constitution" }
   - { rel: "governs", to: "malaysian-general-elections" }

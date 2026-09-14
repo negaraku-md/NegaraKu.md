@@ -67,6 +67,7 @@ sources:
     url: "https://eakta.mohr.gov.my/assets/pdf/akta_kemahiran/Akta%20pembangunan%20sumber%20manusia%20berhad%202001%20Akta612.pdf"
     publisher: "Ministry of Human Resources Malaysia (eAkta)"
 entity: "HRD Corp (Pembangunan Sumber Manusia Berhad)"
+wikidata: "Q113541603"
 relations: []
 related: []
 keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]

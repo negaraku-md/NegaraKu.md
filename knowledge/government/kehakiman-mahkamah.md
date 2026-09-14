@@ -89,6 +89,7 @@ sources:
     publisher: "Judicial Appointments Commission Malaysia"
 
 entity: "Judiciary of Malaysia"
+wikidata: "Q6303122"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "federal-constitution" }

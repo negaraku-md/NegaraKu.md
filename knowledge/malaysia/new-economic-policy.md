@@ -54,6 +54,7 @@ sources:
     url: "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/malaysias-new-economic-policy-and-the-30-bumiputera-equity-target-time-for-a-revisit-and-a-reset-by-lee-hwok-aun/"
     publisher: "ISEAS – Yusof Ishak Institute"
 entity: "New Economic Policy"
+wikidata: "Q138211"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "rukun-negara" }

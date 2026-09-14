@@ -70,6 +70,7 @@ sources:
     publisher: "Free Malaysia Today"
 
 entity: "Barisan Nasional"
+wikidata: "Q808210"
 relations:
   - { rel: "related-to", to: "umno" }
   - { rel: "related-to", to: "pakatan-harapan" }

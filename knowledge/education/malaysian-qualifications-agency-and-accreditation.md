@@ -72,6 +72,7 @@ sources:
     publisher: "Malaysian Qualifications Agency"
 
 entity: "Malaysian Qualifications Agency"
+wikidata: "Q6742012"
 relations:
   - { rel: "governs", to: "malaysian-qualifications-framework" }
   - { rel: "related-to", to: "higher-education-in-malaysia" }

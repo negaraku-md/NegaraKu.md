@@ -97,6 +97,7 @@ sources:
     publisher: "Bernama"
 
 entity: "Malaysian Sustainable Palm Oil (MSPO)"
+wikidata: "Q136090072"
 relations:
   - { rel: "administered-by", to: "malaysian-palm-oil-certification-council" }
   - { rel: "related-to", to: "palm-oil-industry-malaysia" }

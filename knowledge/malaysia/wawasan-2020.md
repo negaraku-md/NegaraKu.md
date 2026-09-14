@@ -76,6 +76,7 @@ sources:
     publisher: "Kementerian Ekonomi Malaysia"
 
 entity: "Wawasan 2020"
+wikidata: "Q1568587"
 relations:
   - { rel: "related-to", to: "wawasan-kemakmuran-bersama-2030" }
   - { rel: "related-to", to: "new-economic-policy" }

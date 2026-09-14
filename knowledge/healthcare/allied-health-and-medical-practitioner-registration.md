@@ -57,6 +57,7 @@ sources:
     publisher: "Bernama"
 
 entity: "Majlis Perubatan Malaysia"
+wikidata: "Q12696644"
 relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
 related: []

@@ -108,6 +108,7 @@ sources:
     date: "2025-12-16"
 
 entity: "Sepang International Circuit"
+wikidata: "Q172738"
 relations:
   - { rel: "located-in", to: "doing-business-selangor" }
   - { rel: "related-to", to: "petronas" }

@@ -47,6 +47,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Gangga_Negara"
     publisher: "Wikipedia"
 entity: "Gangga Negara"
+wikidata: "Q5255285"
 relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "srivijaya" }

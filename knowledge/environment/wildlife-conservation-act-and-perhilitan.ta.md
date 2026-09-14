@@ -74,6 +74,7 @@ sources:
     publisher: "TRAFFIC"
 
 entity: "Department of Wildlife and National Parks Peninsular Malaysia (PERHILITAN)"
+wikidata: "Q5260533"
 relations:
   - { rel: "related-to", to: "international-trade-in-endangered-species-act" }
   - { rel: "related-to", to: "taman-negara" }

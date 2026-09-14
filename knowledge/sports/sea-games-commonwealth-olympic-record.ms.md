@@ -80,6 +80,7 @@ sources:
     publisher: "The ASEAN Post"
 
 entity: "Malaysia"
+wikidata: "Q833"
 relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["negaraku-anthem"]

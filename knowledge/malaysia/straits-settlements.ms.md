@@ -83,6 +83,7 @@ sources:
     url: "https://www.legislation.gov.uk/ukpga/Vict/29-30/115/enacted"
     publisher: "The National Archives (legislation.gov.uk)"
 entity: "Straits Settlements"
+wikidata: "Q376178"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "melaka-sultanate" }

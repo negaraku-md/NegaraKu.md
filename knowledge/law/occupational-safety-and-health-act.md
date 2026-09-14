@@ -73,6 +73,7 @@ sources:
     publisher: "GET Foundation"
 
 entity: "Occupational Safety and Health Act 1994"
+wikidata: "Q7075788"
 relations:
   - { rel: "administered-by", to: "department-of-occupational-safety-and-health" }
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }

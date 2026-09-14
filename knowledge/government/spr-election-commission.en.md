@@ -62,6 +62,7 @@ sources:
     publisher: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
 
 entity: "Suruhanjaya Pilihan Raya"
+wikidata: "Q5354512"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "federal-constitution" }

@@ -58,6 +58,7 @@ sources:
     publisher: "LHDN"
 
 entity: "LHDN"
+wikidata: "Q7377230"
 relations:
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "governs", to: "corporate-tax-rates" }

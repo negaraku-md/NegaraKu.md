@@ -85,6 +85,7 @@ sources:
     publisher: "WorldFirst"
 
 entity: "Royal Malaysian Customs Department"
+wikidata: "Q7374434"
 relations:
   - { rel: "governs", to: "customs-act-1967" }
   - { rel: "related-to", to: "sales-service-tax" }

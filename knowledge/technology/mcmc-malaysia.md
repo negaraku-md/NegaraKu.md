@@ -78,6 +78,7 @@ sources:
     publisher: "Digital Nasional Berhad"
 
 entity: "Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC/SKMM)"
+wikidata: "Q4263019"
 relations:
   - { rel: "related-to", to: "online-safety-act-malaysia" }
   - { rel: "governs", to: "digital-nasional-berhad" }

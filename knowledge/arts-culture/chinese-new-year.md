@@ -58,6 +58,7 @@ sources:
     url: "https://www.tourism.gov.my/media/view/chinese-new-year"
     publisher: "Tourism Malaysia (Kementerian Pelancongan, Seni dan Budaya Malaysia)"
 entity: "农历新年（马来西亚）"
+wikidata: "Q131772"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "population-composition" }

@@ -68,6 +68,7 @@ sources:
     publisher: "MyGovernment (Portal Rasmi Kerajaan Malaysia)"
 
 entity: "Jabatan Imigresen Malaysia"
+wikidata: "Q5260346"
 relations:
   - { rel: "governs", to: "immigration-act-1959-63" }
   - { rel: "related-to", to: "mykad-guide" }

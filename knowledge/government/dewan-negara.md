@@ -54,6 +54,7 @@ sources:
     date: "2022"
 
 entity: "Dewan Negara"
+wikidata: "Q1207095"
 relations:
   - { rel: "part-of", to: "parliament" }
   - { rel: "explained-in", to: "federal-constitution" }

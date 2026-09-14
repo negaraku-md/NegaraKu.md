@@ -56,6 +56,7 @@ sources:
     publisher: "Department of Statistics Malaysia (DOSM)"
     date: "2022-02-14"
 entity: "Malaysia"
+wikidata: "Q833"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "what-malaysia-is" }

@@ -69,6 +69,7 @@ sources:
     url: "https://www.royal.uk/queen-victoria"
     publisher: "The Royal Family (royal.uk)"
 entity: "Negaraku"
+wikidata: "Q648596"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "independence-1957" }

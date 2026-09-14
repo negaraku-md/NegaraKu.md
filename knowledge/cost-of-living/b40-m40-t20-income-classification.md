@@ -57,6 +57,7 @@ sources:
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
 
 entity: "Jabatan Perangkaan Malaysia (DOSM)"
+wikidata: "Q7354425"
 relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []

@@ -65,6 +65,7 @@ sources:
     publisher: "Bank Negara Malaysia"
 
 entity: "Export-Import Bank of Malaysia Berhad"
+wikidata: "Q113537372"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "bank-pembangunan-malaysia" }

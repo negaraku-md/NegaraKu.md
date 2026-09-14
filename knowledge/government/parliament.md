@@ -61,6 +61,7 @@ sources:
     publisher: "Attorney General's Chambers of Malaysia"
 
 entity: "Parliament of Malaysia"
+wikidata: "Q2986392"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "governs", to: "federal-constitution" }

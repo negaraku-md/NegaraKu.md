@@ -71,6 +71,7 @@ sources:
     publisher: "JAKIM (Department of Islamic Development Malaysia)"
 
 entity: "JAKIM (Department of Islamic Development Malaysia)"
+wikidata: "Q7354383"
 relations:
   - { rel: "administered-by", to: "jakim" }
   - { rel: "governs", to: "trade-descriptions-act-malaysia" }

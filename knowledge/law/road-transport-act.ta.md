@@ -60,6 +60,7 @@ sources:
     publisher: "Road Transport Department Malaysia (JPJ)"
 
 entity: "Road Transport Act 1987"
+wikidata: "Q27962026"
 relations:
   - { rel: "administered-by", to: "jpj" }
   - { rel: "related-to", to: "court-hierarchy" }

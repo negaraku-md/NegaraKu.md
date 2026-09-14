@@ -65,6 +65,7 @@ sources:
     publisher: "mStar (Media Prima)"
 
 entity: "Angkatan Pertahanan Awam Malaysia (APM)"
+wikidata: "Q6741950"
 relations:
   - { rel: "related-to", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }

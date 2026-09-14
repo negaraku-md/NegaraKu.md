@@ -74,6 +74,7 @@ sources:
     publisher: "Free Malaysia Today"
 
 entity: "Persatuan Bolasepak Malaysia (FAM)"
+wikidata: "Q622250"
 relations:
   - { rel: "related-to", to: "harimau-malaya-national-team" }
   - { rel: "related-to", to: "fifa-eligibility-rules" }

@@ -89,6 +89,7 @@ sources:
     publisher: "Free Malaysia Today"
 
 entity: "Sabah sovereignty dispute"
+wikidata: "Q4438024"
 relations:
   - { rel: "related-to", to: "federation-of-malaysia-1963" }
   - { rel: "located-in", to: "sabah" }

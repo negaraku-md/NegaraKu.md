@@ -77,6 +77,7 @@ sources:
     date: "2017-03"
 
 entity: "Jabatan Perkhidmatan Veterinar (JPV)"
+wikidata: "Q110129951"
 relations:
   - { rel: "administered-by", to: "ministry-of-agriculture-food-security" }
   - { rel: "related-to", to: "palm-oil-industry" }

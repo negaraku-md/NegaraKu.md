@@ -67,6 +67,7 @@ sources:
     publisher: "Prasarana Malaysia Berhad"
 
 entity: "Rapid Bus Sdn Bhd"
+wikidata: "Q7294127"
 relations:
   - { rel: "part-of", to: "prasarana-malaysia" }
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }

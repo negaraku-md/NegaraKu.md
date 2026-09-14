@@ -86,6 +86,7 @@ sources:
     publisher: "MIDA"
 
 entity: "Northern Corridor Economic Region"
+wikidata: "Q20466205"
 relations:
   - { rel: "administered-by", to: "ncia" }
   - { rel: "governs", to: "northern-corridor-implementation-authority-act-2008" }

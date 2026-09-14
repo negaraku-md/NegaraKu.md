@@ -73,6 +73,7 @@ sources:
     publisher: "Majlis Peguam Malaysia (Malaysian Bar)"
 
 entity: "Majlis Raja-Raja"
+wikidata: "Q5159925"
 relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
   - { rel: "governs", to: "yang-di-pertuan-agong" }

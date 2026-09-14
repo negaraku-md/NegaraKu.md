@@ -76,6 +76,7 @@ sources:
     publisher: "Conventus Law"
 
 entity: "Immigration Department of Malaysia"
+wikidata: "Q5260346"
 relations:
   - { rel: "governs", to: "employment-pass" }
   - { rel: "related-to", to: "dependant-social-visit-passes" }

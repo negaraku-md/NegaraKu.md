@@ -70,6 +70,7 @@ sources:
     publisher: "Parlimen Malaysia"
 
 entity: "Dewan Rakyat"
+wikidata: "Q1207092"
 relations:
   - { rel: "part-of", to: "parliament" }
   - { rel: "governs", to: "federal-constitution" }

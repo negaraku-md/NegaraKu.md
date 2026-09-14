@@ -68,6 +68,7 @@ sources:
     publisher: "South China Morning Post"
 
 entity: "Malaysia"
+wikidata: "Q833"
 relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
   - { rel: "related-to", to: "malaysia-asean-membership" }

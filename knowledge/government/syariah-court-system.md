@@ -77,6 +77,7 @@ sources:
     publisher: "Jabatan Kehakiman Syariah Malaysia"
 
 entity: "Mahkamah Syariah Malaysia"
+wikidata: "Q7659477"
 relations:
   - { rel: "compares-with", to: "civil-and-syariah-courts" }
   - { rel: "related-to", to: "kehakiman-mahkamah" }

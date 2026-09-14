@@ -68,6 +68,7 @@ sources:
     date: "2026-02-10"
 
 entity: "Malaysia My Second Home (MM2H) Programme"
+wikidata: "Q17053379"
 relations:
   - { rel: "administered-by", to: "motac" }
   - { rel: "requires", to: "imigresen" }

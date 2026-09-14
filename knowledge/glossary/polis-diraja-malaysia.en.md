@@ -77,6 +77,7 @@ sources:
     publisher: "Bernama"
 
 entity: "Polis Diraja Malaysia"
+wikidata: "Q1664804"
 relations:
   - { rel: "governs", to: "akta-polis-1967" }
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }

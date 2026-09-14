@@ -66,6 +66,7 @@ sources:
     publisher: "JY Ko Advocates & Solicitors"
 
 entity: "Akta Pengurusan Strata 2013"
+wikidata: "Q28163587"
 relations:
   - { rel: "related-to", to: "national-land-code" }
   - { rel: "related-to", to: "house-buyers-act" }

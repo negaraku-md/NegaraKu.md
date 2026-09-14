@@ -77,6 +77,7 @@ sources:
     publisher: "The Star"
 
 entity: "Jabatan Pendaftaran Negara (JPN)"
+wikidata: "Q7354404"
 relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "governs", to: "federal-constitution-citizenship" }

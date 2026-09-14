@@ -79,6 +79,7 @@ sources:
     date: "2009-02-23"
 
 entity: "Kristang"
+wikidata: "Q3502583"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "peranakan" }

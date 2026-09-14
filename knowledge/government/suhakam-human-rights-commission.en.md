@@ -71,6 +71,7 @@ sources:
     publisher: "Suruhanjaya Hak Asasi Manusia Malaysia (SUHAKAM)"
 
 entity: "SUHAKAM"
+wikidata: "Q12710097"
 relations:
   - { rel: "related-to", to: "federal-constitution" }
   - { rel: "related-to", to: "parliament" }

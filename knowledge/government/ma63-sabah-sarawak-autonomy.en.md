@@ -91,6 +91,7 @@ sources:
     publisher: "Bernama"
 
 entity: "Perjanjian Malaysia 1963 (MA63)"
+wikidata: "Q6741681"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "federal-constitution" }

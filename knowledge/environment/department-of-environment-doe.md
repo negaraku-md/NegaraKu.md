@@ -86,6 +86,7 @@ sources:
     date: "2007-08-29"
 
 entity: "Department of Environment (DOE) / Jabatan Alam Sekitar (JAS)"
+wikidata: "Q12688329"
 relations:
   - { rel: "governs", to: "environmental-impact-assessment-eia" }
   - { rel: "administered-by", to: "nres-ministry" }

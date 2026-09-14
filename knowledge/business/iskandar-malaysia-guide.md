@@ -105,6 +105,7 @@ sources:
     publisher: "MIDA"
 
 entity: "Iskandar Malaysia"
+wikidata: "Q13403482"
 relations:
   - { rel: "related-to", to: "economic-corridors-compared" }
   - { rel: "administered-by", to: "irda" }

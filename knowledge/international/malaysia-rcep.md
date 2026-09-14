@@ -70,6 +70,7 @@ sources:
     publisher: "Allianz Trade"
 
 entity: "Regional Comprehensive Economic Partnership (RCEP)"
+wikidata: "Q11523819"
 relations:
   - { rel: "administered-by", to: "miti" }
   - { rel: "related-to", to: "malaysia-cptpp" }

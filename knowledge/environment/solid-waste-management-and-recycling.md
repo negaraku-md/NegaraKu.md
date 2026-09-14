@@ -98,6 +98,7 @@ sources:
     publisher: "The Star"
 
 entity: "SWCorp (Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam)"
+wikidata: "Q85976374"
 relations:
   - { rel: "governs", to: "solid-waste-management-and-recycling" }
   - { rel: "related-to", to: "circular-economy-blueprint" }

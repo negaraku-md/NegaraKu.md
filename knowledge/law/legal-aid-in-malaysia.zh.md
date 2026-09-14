@@ -76,6 +76,7 @@ sources:
     publisher: "The Malaysian Bar"
 
 entity: "Jabatan Bantuan Guaman"
+wikidata: "Q7314697"
 relations:
   - { rel: "governs", to: "legal-aid-act-1971" }
   - { rel: "related-to", to: "malaysian-court-system" }

@@ -94,6 +94,7 @@ sources:
     date: "2025-07-25"
 
 entity: "MyDigital ID"
+wikidata: "Q136206531"
 relations:
   - { rel: "related-to", to: "mykad" }
   - { rel: "related-to", to: "jpn" }

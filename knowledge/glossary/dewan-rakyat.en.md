@@ -68,6 +68,7 @@ sources:
     publisher: "Jabatan Peguam Negara Malaysia"
 
 entity: "Dewan Rakyat"
+wikidata: "Q1207092"
 relations:
   - { rel: "part-of", to: "parliament" }
   - { rel: "compares-with", to: "dewan-negara" }

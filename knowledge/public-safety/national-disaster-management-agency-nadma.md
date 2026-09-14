@@ -71,6 +71,7 @@ sources:
     publisher: "Agensi Pengurusan Bencana Negara (NADMA)"
 
 entity: "Agensi Pengurusan Bencana Negara (NADMA)"
+wikidata: "Q97203211"
 relations:
   - { rel: "part-of", to: "prime-ministers-department" }
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }

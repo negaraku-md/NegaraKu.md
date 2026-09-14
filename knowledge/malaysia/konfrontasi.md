@@ -60,6 +60,7 @@ sources:
     publisher: "United Nations Treaty Series"
     date: "1963-07-31"
 entity: "Konfrontasi Indonesia–Malaysia"
+wikidata: "Q1361929"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "formation-of-malaysia-1963" }

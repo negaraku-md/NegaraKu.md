@@ -66,6 +66,7 @@ sources:
     publisher: "Kementerian Dalam Negeri (KDN)"
 
 entity: "Polis Diraja Malaysia (PDRM)"
+wikidata: "Q1664804"
 relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "governs", to: "police-act-1967" }

@@ -79,6 +79,7 @@ sources:
     publisher: "BiblioAsia, National Library Board Singapore"
 
 entity: "Hubungan Malaysia–Singapura"
+wikidata: "Q6742090"
 relations:
   - { rel: "related-to", to: "johor-singapore-causeway" }
   - { rel: "related-to", to: "js-sez-johor-singapore-special-economic-zone" }

@@ -53,6 +53,7 @@ sources:
     publisher: "Majlis Keselamatan Negara"
     date: "2022"
 entity: "Rukun Negara"
+wikidata: "Q4251721"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "federal-constitution" }

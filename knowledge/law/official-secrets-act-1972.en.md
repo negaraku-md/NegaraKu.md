@@ -71,6 +71,7 @@ sources:
     publisher: "The Star"
 
 entity: "Akta Rahsia Rasmi 1972"
+wikidata: "Q7079566"
 relations:
   - { rel: "related-to", to: "sedition-act-1948" }
   - { rel: "related-to", to: "freedom-of-information-malaysia" }

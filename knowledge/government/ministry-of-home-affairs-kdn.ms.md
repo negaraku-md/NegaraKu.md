@@ -70,6 +70,7 @@ sources:
     url: "https://www.moha.gov.my/utama/index.php/ms/maklumat-korporat/misi-visi-dan-teras"
     publisher: "Ministry of Home Affairs Malaysia (moha.gov.my)"
 entity: "Ministry of Home Affairs (Malaysia) / Kementerian Dalam Negeri (KDN)"
+wikidata: "Q4294304"
 relations: []
 related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "Ministry of Home Affairs Malaysia", "MOHA", "KDN agencies", "KDN departments", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]

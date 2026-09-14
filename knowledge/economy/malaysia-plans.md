@@ -69,6 +69,7 @@ sources:
     date: "2023-09-11"
 
 entity: "Rancangan Malaysia"
+wikidata: "Q7415174"
 relations:
   - { rel: "related-to", to: "federal-budget" }
   - { rel: "related-to", to: "gdp-overview" }

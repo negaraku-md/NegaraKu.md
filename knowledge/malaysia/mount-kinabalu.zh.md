@@ -48,6 +48,7 @@ sources:
     url: "https://www.sabahparks.org.my/kinabalu-park/mount-kinabalu"
     publisher: "Sabah Parks"
 entity: "Mount Kinabalu"
+wikidata: "Q60967"
 relations:
   - { rel: "located-in", to: "sabah" }
   - { rel: "part-of", to: "kinabalu-park" }

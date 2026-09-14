@@ -82,6 +82,7 @@ sources:
     publisher: "Agensi Anti-Doping Malaysia"
 
 entity: "Majlis Sukan Negara"
+wikidata: "Q97208190"
 relations:
   - { rel: "governs", to: "malaysian-sport-associations" }
   - { rel: "related-to", to: "malaysia-olympic-history" }

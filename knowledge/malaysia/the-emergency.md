@@ -74,6 +74,7 @@ sources:
     url: "https://jkt.kpkt.gov.my/en/new-chinese-village-division/"
     publisher: "Jabatan Kerajaan Tempatan, Kementerian Perumahan dan Kerajaan Tempatan"
 entity: "Malayan Emergency"
+wikidata: "Q2354629"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "independence-1957" }

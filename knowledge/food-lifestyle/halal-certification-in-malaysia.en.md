@@ -76,6 +76,7 @@ sources:
     publisher: "Verify Halal (diiktiraf JAKIM)"
 
 entity: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+wikidata: "Q7354383"
 relations:
   - { rel: "administered-by", to: "premise-licence-malaysia" }
   - { rel: "related-to", to: "fnb-licence-malaysia" }

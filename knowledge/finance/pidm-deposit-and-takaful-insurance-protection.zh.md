@@ -86,6 +86,7 @@ sources:
     publisher: "The Edge Malaysia"
 
 entity: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+wikidata: "Q97211646"
 relations: []
 related: []
 keywords: ["PIDM", "deposit insurance", "RM250000", "takaful protection", "TIPS", "Perbadanan Insurans Deposit Malaysia", "Malaysia Deposit Insurance Corporation Act 2011", "insurance benefits protection"]

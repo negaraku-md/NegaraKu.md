@@ -70,6 +70,7 @@ sources:
     url: "https://www.mof.gov.my/portal/ms/berita/siaran-media/peranan-pegawai-penguatkuasa-kastam-sebagai-benteng-memerangi-penyeludupan"
     publisher: "Ministry of Finance Malaysia (mof.gov.my)"
 entity: "Royal Malaysian Customs Department"
+wikidata: "Q7374434"
 relations: []
 related: []
 keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]

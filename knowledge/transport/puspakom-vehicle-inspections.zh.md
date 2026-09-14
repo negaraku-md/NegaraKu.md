@@ -72,6 +72,7 @@ sources:
     publisher: "Grab Malaysia"
 
 entity: "PUSPAKOM"
+wikidata: "Q7261909"
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }

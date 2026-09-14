@@ -69,6 +69,7 @@ sources:
     publisher: "Agensi Penguatkuasaan Maritim Malaysia (APMM)"
 
 entity: "Agensi Penguatkuasaan Maritim Malaysia (APMM)"
+wikidata: "Q6741986"
 relations:
   - { rel: "related-to", to: "pdrm" }
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }

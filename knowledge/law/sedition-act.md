@@ -66,6 +66,7 @@ sources:
     publisher: "Attorney General's Chambers of Malaysia"
 
 entity: "Sedition Act 1948"
+wikidata: "Q7445340"
 relations:
   - { rel: "related-to", to: "federal-constitution" }
   - { rel: "related-to", to: "penal-code" }

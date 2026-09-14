@@ -84,6 +84,7 @@ sources:
     publisher: "Kementerian Luar Negeri Malaysia (Wisma Putra)"
 
 entity: "Kementerian Luar Negeri Malaysia (Wisma Putra)"
+wikidata: "Q3527309"
 relations:
   - { rel: "related-to", to: "konfrontasi" }
   - { rel: "related-to", to: "miti" }

@@ -65,6 +65,7 @@ sources:
     publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
 
 entity: "Bunga raya (Hibiscus rosa-sinensis)"
+wikidata: "Q159534"
 relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]

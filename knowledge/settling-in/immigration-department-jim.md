@@ -71,6 +71,7 @@ sources:
     url: "https://imigresen-online.imi.gov.my/eservices/main"
     publisher: "Immigration Department of Malaysia (imi.gov.my)"
 entity: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
+wikidata: "Q5260346"
 relations: []
 related: []
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]

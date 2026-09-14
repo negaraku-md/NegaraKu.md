@@ -77,6 +77,7 @@ sources:
     publisher: "MahWengKwai & Associates"
 
 entity: "Labuan Financial Services Authority"
+wikidata: "Q113539364"
 relations:
   - { rel: "governs", to: "labuan-companies-act-1990" }
   - { rel: "related-to", to: "foreign-company-registration-ssm" }

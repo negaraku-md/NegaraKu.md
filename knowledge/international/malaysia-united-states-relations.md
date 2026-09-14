@@ -102,6 +102,7 @@ sources:
     publisher: "Malay Mail"
 
 entity: "Malaysia-United States relations"
+wikidata: "Q6742105"
 relations:
   - { rel: "related-to", to: "malaysia-china-relations" }
   - { rel: "related-to", to: "malaysia-asean-membership" }

@@ -52,6 +52,7 @@ sources:
     url: "https://zh.wikipedia.org/zh-hans/%E9%85%AC%E7%A5%9E%E6%88%B2"
     publisher: "维基百科"
 entity: "华人大戏（酬神戏）"
+wikidata: "Q737994"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "wayang-kulit" }

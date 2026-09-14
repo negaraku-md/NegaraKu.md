@@ -58,6 +58,7 @@ sources:
     publisher: "Journal of the Royal Asiatic Society (Cambridge University Press)"
     date: "2018"
 entity: "Lembah Bujang"
+wikidata: "Q3181128"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "langkasuka" }

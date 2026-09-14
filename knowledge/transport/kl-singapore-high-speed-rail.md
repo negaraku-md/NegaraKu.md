@@ -70,6 +70,7 @@ sources:
     publisher: "paultan.org"
 
 entity: "Kuala Lumpur-Singapore High-Speed Rail"
+wikidata: "Q7162252"
 relations:
   - { rel: "administered-by", to: "myhsr-corporation" }
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }

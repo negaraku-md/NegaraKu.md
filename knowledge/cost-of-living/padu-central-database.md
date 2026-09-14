@@ -64,6 +64,7 @@ sources:
     publisher: "Free Malaysia Today"
 
 entity: "Pangkalan Data Utama (PADU)"
+wikidata: "Q124170682"
 relations:
   - { rel: "administered-by", to: "kementerian-ekonomi" }
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }

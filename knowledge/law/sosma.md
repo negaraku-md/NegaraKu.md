@@ -56,6 +56,7 @@ sources:
     publisher: "Attorney General's Chambers of Malaysia"
 
 entity: "Security Offences (Special Measures) Act 2012"
+wikidata: "Q7444976"
 relations:
   - { rel: "related-to", to: "penal-code" }
   - { rel: "related-to", to: "federal-constitution" }

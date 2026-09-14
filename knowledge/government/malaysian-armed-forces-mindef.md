@@ -71,6 +71,7 @@ sources:
     publisher: "Kementerian Pertahanan Malaysia (MINDEF)"
 
 entity: "Angkatan Tentera Malaysia"
+wikidata: "Q1073939"
 relations:
   - { rel: "part-of", to: "government-of-malaysia" }
   - { rel: "related-to", to: "federal-constitution-malaysia" }

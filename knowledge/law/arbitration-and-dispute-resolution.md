@@ -77,6 +77,7 @@ sources:
     publisher: "GK Legal"
 
 entity: "Asian International Arbitration Centre"
+wikidata: "Q7413295"
 relations:
   - { rel: "governs", to: "arbitration-and-dispute-resolution" }
   - { rel: "related-to", to: "contract-law" }

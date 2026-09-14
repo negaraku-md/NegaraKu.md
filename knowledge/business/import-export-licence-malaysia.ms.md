@@ -87,6 +87,7 @@ sources:
     publisher: "DNE Logistics (industry/vendor guide — used only for practitioner-reported planning lead times)"
 
 entity: "Royal Malaysian Customs Department"
+wikidata: "Q7374434"
 relations:
   - { rel: "administered-by", to: "royal-malaysian-customs-department" }
   - { rel: "requires", to: "ssm-company-registration-malaysia" }

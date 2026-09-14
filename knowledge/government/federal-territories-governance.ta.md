@@ -71,6 +71,7 @@ sources:
     publisher: "Dewan Bandaraya Kuala Lumpur"
 
 entity: "Wilayah Persekutuan (Malaysia)"
+wikidata: "Q1008803"
 relations:
   - { rel: "administered-by", to: "prime-ministers-department" }
   - { rel: "related-to", to: "federal-state-division" }

@@ -72,6 +72,7 @@ sources:
     publisher: "RTM (memetik Jabatan Perangkaan Malaysia)"
 
 entity: "Jabatan Kebajikan Masyarakat (JKM)"
+wikidata: "Q7354381"
 relations:
   - { rel: "administered-by", to: "jabatan-kebajikan-masyarakat" }
   - { rel: "related-to", to: "public-healthcare-system" }

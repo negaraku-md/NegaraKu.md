@@ -57,6 +57,7 @@ sources:
     publisher: "Malaysian Bar"
 
 entity: "National Land Code 1965 (Act 828)"
+wikidata: "Q12689486"
 relations:
   - { rel: "part-of", to: "federal-constitution" }
   - { rel: "governs", to: "malay-reservation-land" }

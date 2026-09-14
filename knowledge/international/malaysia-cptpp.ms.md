@@ -72,6 +72,7 @@ sources:
     publisher: "ACCCIM Socio-Economic Research Centre (SERC)"
 
 entity: "CPTPP"
+wikidata: "Q48852287"
 relations:
   - { rel: "related-to", to: "external-trade" }
   - { rel: "related-to", to: "matrade" }

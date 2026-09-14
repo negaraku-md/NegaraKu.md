@@ -71,6 +71,7 @@ sources:
     publisher: "The Edge Malaysia"
 
 entity: "Tenaga Nasional Berhad"
+wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "sabah-electricity" }
   - { rel: "related-to", to: "khazanah-nasional" }

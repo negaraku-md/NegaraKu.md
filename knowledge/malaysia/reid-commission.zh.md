@@ -53,6 +53,7 @@ sources:
     url: "https://www.malaysianbar.org.my/news_features/constitutional_landmarks_in_malaysia_the_first_50_years_1957_2007_alliance_the_force_behind_merdeka.html"
     publisher: "Malaysian Bar"
 entity: "Reid Commission"
+wikidata: "Q7309946"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "independence-1957" }

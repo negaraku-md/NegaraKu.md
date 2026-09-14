@@ -59,6 +59,7 @@ sources:
     url: "https://www.touchngo.com.my/consumer/toll/card/touchngo-charm"
     publisher: "Touch 'n Go Sdn Bhd"
 entity: "Touch 'n Go"
+wikidata: "Q4383995"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "administered-by", to: "bank-negara-malaysia" }

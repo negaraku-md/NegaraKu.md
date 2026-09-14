@@ -66,6 +66,7 @@ sources:
     publisher: "Kementerian Kesihatan Malaysia"
 
 entity: "Pusat Darah Negara"
+wikidata: "Q12701460"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
 related: []

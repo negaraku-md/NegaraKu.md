@@ -71,6 +71,7 @@ sources:
     publisher: "Global Legal Insights"
 
 entity: "Suruhanjaya Pencegahan Rasuah Malaysia"
+wikidata: "Q6741935"
 relations:
   - { rel: "governs", to: "akta" }
   - { rel: "part-of", to: "malaysia" }

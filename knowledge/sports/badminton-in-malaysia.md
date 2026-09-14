@@ -85,6 +85,7 @@ sources:
     publisher: "Bernama"
 
 entity: "Badminton Association of Malaysia"
+wikidata: "Q799603"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
   - { rel: "related-to", to: "olympic-council-of-malaysia" }

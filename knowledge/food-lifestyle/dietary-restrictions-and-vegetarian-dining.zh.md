@@ -70,6 +70,7 @@ sources:
     publisher: "Islamic Tourism Centre of Malaysia (ITC), Ministry of Tourism, Arts and Culture"
 
 entity: "JAKIM"
+wikidata: "Q7354383"
 relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]

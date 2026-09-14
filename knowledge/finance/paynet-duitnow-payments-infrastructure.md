@@ -74,6 +74,7 @@ sources:
     publisher: "The Star"
 
 entity: "Payments Network Malaysia (PayNet)"
+wikidata: "Q117354781"
 relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "malaysia-e-wallets" }

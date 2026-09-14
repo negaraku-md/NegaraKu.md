@@ -56,6 +56,7 @@ sources:
     date: "2020-09-22"
 
 entity: "Jalur Gemilang"
+wikidata: "Q168935"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "formation-of-malaysia-1963" }

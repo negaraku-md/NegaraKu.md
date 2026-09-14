@@ -92,6 +92,7 @@ sources:
     publisher: "United Nations Interim Force in Lebanon (UNIFIL)"
 
 entity: "Malaysia"
+wikidata: "Q833"
 relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
   - { rel: "related-to", to: "malaysia-asean-membership" }

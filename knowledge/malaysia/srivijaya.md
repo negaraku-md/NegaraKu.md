@@ -46,6 +46,7 @@ sources:
     url: "https://www.melaka.gov.my/en/government/state-info/melaka-history.html"
     publisher: "Portal Rasmi Kerajaan Negeri Melaka"
 entity: "Srivijaya"
+wikidata: "Q234197"
 relations:
   - { rel: "related-to", to: "melaka-sultanate" }
   - { rel: "related-to", to: "langkasuka" }

@@ -95,6 +95,7 @@ sources:
     date: "2024-09-01"
 
 entity: "Sepak takraw"
+wikidata: "Q188818"
 relations:
   - { rel: "administered-by", to: "persekutuan-sepaktakraw-malaysia" }
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }

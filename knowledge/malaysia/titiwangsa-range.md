@@ -47,6 +47,7 @@ sources:
     url: "https://www.mybis.gov.my/pa/209"
     publisher: "Malaysia Biodiversity Information System (MyBIS)"
 entity: "Titiwangsa Range"
+wikidata: "Q581621"
 relations:
   - { rel: "located-in", to: "peninsular-and-borneo" }
   - { rel: "part-of", to: "geography-overview" }

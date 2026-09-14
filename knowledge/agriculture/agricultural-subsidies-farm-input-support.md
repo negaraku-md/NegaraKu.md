@@ -95,6 +95,7 @@ sources:
     publisher: "Lembaga Kemajuan Pertanian Kemubu (KADA)"
 
 entity: "Kementerian Pertanian dan Keterjaminan Makanan (KPKM)"
+wikidata: "Q22222773"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }

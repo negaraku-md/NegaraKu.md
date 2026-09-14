@@ -70,6 +70,7 @@ sources:
     publisher: "Malaysian Government Official Portal (MyGovernment)"
 
 entity: "Ministry of Foreign Affairs, Malaysia (Wisma Putra)"
+wikidata: "Q3527309"
 relations:
   - { rel: "related-to", to: "matrade" }
   - { rel: "related-to", to: "imigresen" }

@@ -70,6 +70,7 @@ sources:
     publisher: "Free Malaysia Today"
 
 entity: "Prevention of Crime Act 1959"
+wikidata: "Q20451256"
 relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "compares-with", to: "sosma" }

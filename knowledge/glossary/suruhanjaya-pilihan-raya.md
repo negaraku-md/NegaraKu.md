@@ -67,6 +67,7 @@ sources:
     publisher: "Suruhanjaya Pilihan Raya Malaysia"
 
 entity: "Suruhanjaya Pilihan Raya"
+wikidata: "Q5354512"
 relations:
   - { rel: "explained-in", to: "federal-constitution" }
   - { rel: "related-to", to: "dewan-rakyat" }

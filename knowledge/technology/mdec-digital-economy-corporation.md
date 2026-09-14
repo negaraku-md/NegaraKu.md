@@ -61,6 +61,7 @@ sources:
     url: "https://www.mdec.my/malaysiadigital/tax-incentive"
     publisher: "Malaysia Digital Economy Corporation (MDEC)"
 entity: "Malaysia Digital Economy Corporation (MDEC)"
+wikidata: "Q279453"
 relations: []
 related: []
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]

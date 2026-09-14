@@ -77,6 +77,7 @@ sources:
     publisher: "Government of Timor-Leste"
 
 entity: "ASEAN"
+wikidata: "Q7768"
 relations:
   - { rel: "related-to", to: "asean-overview" }
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }

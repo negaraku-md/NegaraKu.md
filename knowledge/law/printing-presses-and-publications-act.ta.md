@@ -69,6 +69,7 @@ sources:
     publisher: "Malaysian Bar"
 
 entity: "Printing Presses and Publications Act 1984"
+wikidata: "Q7245316"
 relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "related-to", to: "malaysian-media-council-act" }

@@ -70,6 +70,7 @@ sources:
     publisher: "Institut Sukan Negara"
 
 entity: "Sukan Malaysia (SUKMA)"
+wikidata: "Q137161"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "program-podium" }

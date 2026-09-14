@@ -55,6 +55,7 @@ sources:
     publisher: "Constitute Project"
 
 entity: "Attorney General of Malaysia"
+wikidata: "Q4818645"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }

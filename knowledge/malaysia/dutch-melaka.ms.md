@@ -56,6 +56,7 @@ sources:
     url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=8b54be13-5b70-44d0-abf6-f9781247686f"
     publisher: "National Library Board, Singapore"
 entity: "Dutch Melaka (VOC rule, 1641-1824)"
+wikidata: "Q949314"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "located-in", to: "melaka" }

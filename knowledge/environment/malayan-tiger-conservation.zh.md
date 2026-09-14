@@ -72,6 +72,7 @@ sources:
     publisher: "Malaysia Biodiversity Information System (MyBIS)"
 
 entity: "Malayan tiger (Panthera tigris jacksoni)"
+wikidata: "Q215836"
 relations:
   - { rel: "administered-by", to: "perhilitan" }
   - { rel: "located-in", to: "taman-negara" }

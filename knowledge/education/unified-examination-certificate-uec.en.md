@@ -73,6 +73,7 @@ sources:
     publisher: "Dong Zong"
 
 entity: "Sijil Peperiksaan Bersama (UEC)"
+wikidata: "Q10408827"
 relations:
   - { rel: "administered-by", to: "dong-zong" }
   - { rel: "related-to", to: "sistem-pendidikan-malaysia" }

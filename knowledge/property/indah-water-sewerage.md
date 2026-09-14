@@ -62,6 +62,7 @@ sources:
     publisher: "Suruhanjaya Perkhidmatan Air Negara (SPAN)"
 
 entity: "Indah Water Konsortium Sdn Bhd"
+wikidata: "Q6015650"
 relations:
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "local-councils" }

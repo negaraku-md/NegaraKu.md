@@ -87,6 +87,7 @@ sources:
     date: "2026-07-23"
 
 entity: "JPN"
+wikidata: "Q7354404"
 relations:
   - { rel: "governs", to: "mykad" }
   - { rel: "governs", to: "birth-registration" }

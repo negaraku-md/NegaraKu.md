@@ -76,6 +76,7 @@ sources:
     publisher: "Asia IP"
 
 entity: "Durian"
+wikidata: "Q134185"
 relations:
   - { rel: "related-to", to: "agriculture-in-malaysia" }
   - { rel: "related-to", to: "malaysia-china-trade" }

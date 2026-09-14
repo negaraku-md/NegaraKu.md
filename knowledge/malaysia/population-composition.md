@@ -62,6 +62,7 @@ sources:
     url: "https://open.dosm.gov.my/data-catalogue/population_malaysia"
     publisher: "OpenDOSM, Department of Statistics Malaysia"
 entity: "Malaysia (population)"
+wikidata: "Q833"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "rukun-negara" }

@@ -49,6 +49,7 @@ sources:
     date: "2022-08-11"
 
 entity: "Jata Negara"
+wikidata: "Q209608"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "jalur-gemilang" }

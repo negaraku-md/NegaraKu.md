@@ -106,6 +106,7 @@ sources:
     publisher: "Kementerian Digital (Ministry of Digital) / MDEC"
 
 entity: "Cyberjaya"
+wikidata: "Q1147163"
 relations:
   - { rel: "explained-in", to: "mdec-digital-status" }
   - { rel: "administered-by", to: "mdec" }

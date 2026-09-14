@@ -123,6 +123,7 @@ sources:
     date: "2025-02-06"
 
 entity: "ASEAN"
+wikidata: "Q7768"
 relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
   - { rel: "related-to", to: "rcep-malaysia" }

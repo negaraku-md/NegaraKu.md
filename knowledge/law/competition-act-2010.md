@@ -77,6 +77,7 @@ sources:
     publisher: "Media Selangor (Selangor Journal)"
 
 entity: "Malaysia Competition Commission"
+wikidata: "Q110133506"
 relations:
   - { rel: "related-to", to: "consumer-protection-act" }
   - { rel: "related-to", to: "companies-act-2016" }

@@ -66,6 +66,7 @@ sources:
     url: "https://www.roots.gov.sg/stories-landing/stories/world-war-ii/story"
     publisher: "Roots, National Heritage Board Singapore"
 entity: "Pendudukan Jepun di Tanah Melayu"
+wikidata: "Q713768"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "independence-1957" }

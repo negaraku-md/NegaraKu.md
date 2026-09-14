@@ -49,6 +49,7 @@ sources:
     publisher: "Bank Negara Malaysia"
 
 entity: "Malaysian ringgit"
+wikidata: "Q163712"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "affects", to: "external-trade" }

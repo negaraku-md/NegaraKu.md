@@ -62,6 +62,7 @@ sources:
     url: "https://blog.ppj.gov.my/2014/05/background-of-putrajaya.html"
     publisher: "Perbadanan Putrajaya (Putrajaya Corporation)"
 entity: "Malaysia"
+wikidata: "Q833"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "population-composition" }

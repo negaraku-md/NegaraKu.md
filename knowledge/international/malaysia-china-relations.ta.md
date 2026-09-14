@@ -70,6 +70,7 @@ sources:
     publisher: "FULCRUM / ISEAS – Yusof Ishak Institute"
 
 entity: "Malaysia–China relations"
+wikidata: "Q5100245"
 relations:
   - { rel: "related-to", to: "malaysia-asean" }
   - { rel: "related-to", to: "south-china-sea" }

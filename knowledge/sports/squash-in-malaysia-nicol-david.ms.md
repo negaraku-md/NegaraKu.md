@@ -85,6 +85,7 @@ sources:
     publisher: "PSA Squash Tour"
 
 entity: "Nicol David"
+wikidata: "Q867189"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
 related: []

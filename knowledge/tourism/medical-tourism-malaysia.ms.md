@@ -73,6 +73,7 @@ sources:
     publisher: "Malaysia Healthcare Travel Council"
 
 entity: "Malaysia Healthcare Travel Council"
+wikidata: "Q122451901"
 relations:
   - { rel: "related-to", to: "healthcare-system-malaysia" }
   - { rel: "related-to", to: "tourism-malaysia" }

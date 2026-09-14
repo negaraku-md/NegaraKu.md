@@ -78,6 +78,7 @@ sources:
     date: "2023-04-06"
 
 entity: "JBPM"
+wikidata: "Q13646141"
 relations:
   - { rel: "governs", to: "fire-services-act-1988" }
   - { rel: "administered-by", to: "kpkt" }

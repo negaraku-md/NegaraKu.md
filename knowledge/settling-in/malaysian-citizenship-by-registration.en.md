@@ -77,6 +77,7 @@ sources:
     publisher: "ConstitutionNet (International IDEA)"
 
 entity: "Jabatan Pendaftaran Negara"
+wikidata: "Q7354404"
 relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "governs", to: "federal-constitution-part-iii-citizenship" }

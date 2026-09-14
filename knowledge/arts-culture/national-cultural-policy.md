@@ -68,6 +68,7 @@ sources:
     date: "2019-09-02"
 
 entity: "Dasar Kebudayaan Kebangsaan 1971"
+wikidata: "Q6972026"
 relations:
   - { rel: "administered-by", to: "jabatan-kebudayaan-dan-kesenian-negara" }
   - { rel: "related-to", to: "rukun-negara" }

@@ -86,6 +86,7 @@ sources:
     publisher: "The Edge Malaysia"
 
 entity: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+wikidata: "Q97211646"
 relations:
   - { rel: "governs", to: "malaysia-deposit-insurance-corporation-act-2011" }
   - { rel: "related-to", to: "bank-negara-malaysia" }

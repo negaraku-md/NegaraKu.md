@@ -75,6 +75,7 @@ sources:
     publisher: "The Star"
 
 entity: "Gas Malaysia Berhad"
+wikidata: "Q5526301"
 relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
 related: []

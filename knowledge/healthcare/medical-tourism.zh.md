@@ -64,6 +64,7 @@ sources:
     publisher: "BERNAMA"
 
 entity: "Malaysia Healthcare Travel Council (MHTC)"
+wikidata: "Q122451901"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
   - { rel: "part-of", to: "healthcare" }

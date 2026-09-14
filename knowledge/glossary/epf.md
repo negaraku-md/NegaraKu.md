@@ -37,6 +37,7 @@ sources:
     publisher: "EPF/KWSP"
 
 entity: "EPF"
+wikidata: "Q5374309"
 relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955"]

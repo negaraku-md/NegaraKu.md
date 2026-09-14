@@ -69,6 +69,7 @@ sources:
     publisher: "NACSA (Agensi Keselamatan Siber Negara)"
 
 entity: "Kementerian Digital (Ministry of Digital, Malaysia)"
+wikidata: "Q124289531"
 relations:
   - { rel: "related-to", to: "mdec-malaysia-digital-economy-corporation" }
   - { rel: "related-to", to: "cybersecurity-malaysia" }

@@ -63,6 +63,7 @@ sources:
     publisher: "Jabatan Imigresen Malaysia"
 
 entity: "Pasukan Sukarelawan Malaysia (RELA)"
+wikidata: "Q2750770"
 relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }

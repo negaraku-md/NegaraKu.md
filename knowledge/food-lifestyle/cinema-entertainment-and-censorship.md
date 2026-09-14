@@ -74,6 +74,7 @@ sources:
     publisher: "MISHU"
 
 entity: "Lembaga Penapisan Filem"
+wikidata: "Q5448918"
 relations:
   - { rel: "related-to", to: "sedition-act" }
   - { rel: "related-to", to: "consumer-protection-act" }

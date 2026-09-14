@@ -71,6 +71,7 @@ sources:
     date: "1989"
 
 entity: "Penal Code"
+wikidata: "Q7360292"
 relations:
   - { rel: "related-to", to: "federal-constitution" }
   - { rel: "related-to", to: "court-hierarchy" }

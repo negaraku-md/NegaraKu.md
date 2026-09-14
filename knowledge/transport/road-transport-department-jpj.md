@@ -67,6 +67,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Road_Transport_Department_Malaysia"
     publisher: "Wikipedia"
 entity: "Road Transport Department (Jabatan Pengangkutan Jalan, JPJ)"
+wikidata: "Q6742016"
 relations: []
 related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malaysia", "MyJPJ", "road tax renewal", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "KEJARA demerit points", "cukai jalan", "lesen memandu"]

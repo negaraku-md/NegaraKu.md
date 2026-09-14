@@ -78,6 +78,7 @@ sources:
     publisher: "pv magazine"
 
 entity: "Sustainable Energy Development Authority (SEDA) Malaysia"
+wikidata: "Q113542962"
 relations:
   - { rel: "related-to", to: "net-energy-metering-malaysia" }
   - { rel: "related-to", to: "solar-atap-malaysia" }

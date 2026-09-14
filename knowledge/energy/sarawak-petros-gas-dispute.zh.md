@@ -79,6 +79,7 @@ sources:
     publisher: "Free Malaysia Today"
 
 entity: "Petroleum Sarawak Berhad (Petros)"
+wikidata: "Q48728762"
 relations:
   - { rel: "governs", to: "distribution-of-gas-ordinance-2016" }
   - { rel: "related-to", to: "petroleum-development-act-1974" }

@@ -69,6 +69,7 @@ sources:
     publisher: "ISEAS – Yusof Ishak Institute"
 
 entity: "Dasar Ekonomi Baru"
+wikidata: "Q138211"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "bumiputera" }

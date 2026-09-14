@@ -77,6 +77,7 @@ sources:
     publisher: "Industrial Malaysia"
 
 entity: "Halal Development Corporation (HDC)"
+wikidata: "Q17051135"
 relations:
   - { rel: "related-to", to: "islamic-finance" }
   - { rel: "related-to", to: "external-trade" }

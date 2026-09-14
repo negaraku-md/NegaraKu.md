@@ -71,6 +71,7 @@ sources:
     url: "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2025.1545263/full"
     publisher: "Frontiers in Sustainable Food Systems"
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
+wikidata: "Q113542338"
 relations: []
 related: []
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]

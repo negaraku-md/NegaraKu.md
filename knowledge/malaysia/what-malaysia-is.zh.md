@@ -44,6 +44,7 @@ sources:
     url: "https://www.malaysia.gov.my/portal/index"
     publisher: "Government of Malaysia (MAMPU)"
 entity: "Malaysia"
+wikidata: "Q833"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }

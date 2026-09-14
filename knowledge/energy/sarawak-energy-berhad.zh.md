@@ -70,6 +70,7 @@ sources:
     publisher: "RAM Rating Services Berhad"
 
 entity: "Sarawak Energy Berhad"
+wikidata: "Q7659479"
 relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
   - { rel: "related-to", to: "bakun-dam" }

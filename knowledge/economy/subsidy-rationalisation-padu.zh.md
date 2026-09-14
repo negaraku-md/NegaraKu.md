@@ -102,6 +102,7 @@ sources:
     publisher: "SoyaCincau"
 
 entity: "PADU (Pangkalan Data Utama)"
+wikidata: "Q124170682"
 relations:
   - { rel: "related-to", to: "budi-madani-fuel-subsidy" }
   - { rel: "related-to", to: "sumbangan-tunai-rahmah-str" }

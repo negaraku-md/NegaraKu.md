@@ -122,6 +122,7 @@ sources:
     publisher: "Indonesia Business Post"
 
 entity: "Hubungan dua hala Malaysia–Indonesia"
+wikidata: "Q12485907"
 relations:
   - { rel: "related-to", to: "malaysia-asean" }
   - { rel: "related-to", to: "malaysia-foreign-workers" }

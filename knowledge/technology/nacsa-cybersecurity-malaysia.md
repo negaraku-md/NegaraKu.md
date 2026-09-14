@@ -68,6 +68,7 @@ sources:
     publisher: "MyCERT, CyberSecurity Malaysia"
 
 entity: "National Cyber Security Agency (NACSA)"
+wikidata: "Q113460523"
 relations:
   - { rel: "administered-by", to: "prime-ministers-department" }
   - { rel: "related-to", to: "cyber-security-act-2024" }

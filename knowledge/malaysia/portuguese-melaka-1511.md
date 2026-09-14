@@ -57,6 +57,7 @@ sources:
     url: "https://royal.johor.my/timeline/sultan-aladdin-riayat-shah-ii/"
     publisher: "Portal Kesultanan Johor"
 entity: "Penaklukan Melaka 1511"
+wikidata: "Q4110453"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "located-in", to: "melaka" }

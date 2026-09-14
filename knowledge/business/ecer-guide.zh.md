@@ -119,6 +119,7 @@ sources:
     publisher: "Wikipedia"
 
 entity: "East Coast Economic Region"
+wikidata: "Q5328112"
 relations:
   - { rel: "administered-by", to: "ecerdc" }
   - { rel: "governs", to: "east-coast-economic-region-development-council-act-2008" }

@@ -79,6 +79,7 @@ sources:
     publisher: "WIPO Lex"
 
 entity: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+wikidata: "Q7354383"
 relations:
   - { rel: "administered-by", to: "jakim" }
   - { rel: "governs", to: "akta-perihal-dagangan-2011" }

@@ -72,6 +72,7 @@ sources:
     publisher: "International Pencak Silat Federation (PERSILAT)"
 
 entity: "Silat"
+wikidata: "Q569801"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "mak-yong" }

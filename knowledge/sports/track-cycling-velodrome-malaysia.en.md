@@ -74,6 +74,7 @@ sources:
     publisher: "The Star"
 
 entity: "Velodrom Nasional Malaysia"
+wikidata: "Q120467697"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "azizulhasni-awang" }

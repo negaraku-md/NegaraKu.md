@@ -65,6 +65,7 @@ sources:
     publisher: "Teh Kim Poo & Co (TKP Law)"
 
 entity: "Criminal Procedure Code (Act 593)"
+wikidata: "Q25184392"
 relations:
   - { rel: "related-to", to: "penal-code" }
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }

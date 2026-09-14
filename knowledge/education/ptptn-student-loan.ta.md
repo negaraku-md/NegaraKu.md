@@ -57,6 +57,7 @@ sources:
     publisher: "Wikipedia"
 
 entity: "PTPTN (Perbadanan Tabung Pendidikan Tinggi Nasional)"
+wikidata: "Q7166974"
 relations:
   - { rel: "administered-by", to: "ptptn" }
   - { rel: "part-of", to: "ministry-of-higher-education" }

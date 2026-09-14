@@ -54,6 +54,7 @@ sources:
     publisher: "Jabatan Perdana Menteri Malaysia"
 
 entity: "Jabatan Perdana Menteri (Prime Minister's Department)"
+wikidata: "Q7243278"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kabinet-perdana-menteri" }

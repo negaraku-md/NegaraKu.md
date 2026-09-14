@@ -83,6 +83,7 @@ sources:
     publisher: "Bank Negara Malaysia"
 
 entity: "Jabatan Insolvensi Malaysia (MDI)"
+wikidata: "Q63923285"
 relations:
   - { rel: "administered-by", to: "jabatan-insolvensi-malaysia" }
   - { rel: "governs", to: "insolvency-act-1967" }

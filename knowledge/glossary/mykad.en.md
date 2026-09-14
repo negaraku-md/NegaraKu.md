@@ -50,6 +50,7 @@ sources:
     publisher: "Kerajaan Malaysia"
 
 entity: "MyKad"
+wikidata: "Q985846"
 relations:
   - { rel: "administered-by", to: "jpn" }
 related: []

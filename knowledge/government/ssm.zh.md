@@ -60,6 +60,7 @@ sources:
     publisher: "SSM"
 
 entity: "SSM"
+wikidata: "Q1121232"
 relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "governs", to: "register-sdn-bhd" }

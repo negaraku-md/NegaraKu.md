@@ -106,6 +106,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Deputy_Minister_of_Foreign_Affairs_(Malaysia)"
     publisher: "Wikipedia"
 entity: "Malaysia's foreign policy (Ministry of Foreign Affairs / Wisma Putra)"
+wikidata: "Q3527309"
 relations: []
 related: []
 keywords: ["Malaysia foreign policy", "dasar luar negara Malaysia", "Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Malaysia ASEAN", "Malaysia non-alignment", "ZOPFAN", "Malaysia Israel policy", "Malaysia China relations", "MADANI foreign policy", "Malaysia neutrality doctrine", "Malaysia UN Security Council"]

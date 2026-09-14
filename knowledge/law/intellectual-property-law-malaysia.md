@@ -90,6 +90,7 @@ sources:
     publisher: "ASEAN IP Portal"
 
 entity: "Intellectual Property Corporation of Malaysia (MyIPO)"
+wikidata: "Q12698635"
 relations:
   - { rel: "administered-by", to: "myipo" }
   - { rel: "governs", to: "trademark-registration-malaysia" }

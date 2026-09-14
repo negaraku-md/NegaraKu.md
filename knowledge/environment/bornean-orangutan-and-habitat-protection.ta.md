@@ -81,6 +81,7 @@ sources:
     publisher: "Orangutan Appeal UK"
 
 entity: "Bornean orangutan (Pongo pygmaeus)"
+wikidata: "Q599672"
 relations:
   - { rel: "governs", to: "wildlife-conservation-enactment-1997" }
   - { rel: "located-in", to: "sabah" }

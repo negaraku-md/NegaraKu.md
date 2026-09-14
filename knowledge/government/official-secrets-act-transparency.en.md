@@ -82,6 +82,7 @@ sources:
     date: "2016-02-01"
 
 entity: "Official Secrets Act 1972"
+wikidata: "Q7079566"
 relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
   - { rel: "administered-by", to: "attorney-general" }

@@ -77,6 +77,7 @@ sources:
     publisher: "Coconuts KL"
 
 entity: "Kesatuan Melayu Muda"
+wikidata: "Q6394888"
 relations:
   - { rel: "related-to", to: "malayan-union" }
   - { rel: "related-to", to: "umno" }

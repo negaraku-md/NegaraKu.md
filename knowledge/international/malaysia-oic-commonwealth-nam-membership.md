@@ -81,6 +81,7 @@ sources:
     publisher: "Kementerian Luar Negeri, Malaysia (dihoskan di pmo.gov.my)"
 
 entity: "Malaysia"
+wikidata: "Q833"
 relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
   - { rel: "related-to", to: "malaysia-united-nations-membership" }

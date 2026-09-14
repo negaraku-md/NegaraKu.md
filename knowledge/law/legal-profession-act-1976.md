@@ -69,6 +69,7 @@ sources:
     publisher: "Free Malaysia Today"
 
 entity: "Majlis Peguam Malaysia"
+wikidata: "Q6741941"
 relations:
   - { rel: "governs", to: "advocates-and-solicitors-disciplinary-board" }
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }

@@ -69,6 +69,7 @@ sources:
     publisher: "Global Alliance of National Human Rights Institutions (GANHRI)"
 
 entity: "Suruhanjaya Hak Asasi Manusia Malaysia (SUHAKAM)"
+wikidata: "Q12710097"
 relations:
   - { rel: "related-to", to: "civil-and-syariah-courts" }
   - { rel: "explained-in", to: "article-3-religion" }

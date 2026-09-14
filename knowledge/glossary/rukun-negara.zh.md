@@ -72,6 +72,7 @@ sources:
     date: "2022-08-03"
 
 entity: "Rukun Negara"
+wikidata: "Q4251721"
 relations:
   - { rel: "related-to", to: "merdeka" }
   - { rel: "related-to", to: "yang-di-pertuan-agong" }

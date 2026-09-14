@@ -80,6 +80,7 @@ sources:
     publisher: "Asco Law"
 
 entity: "Strata Management Act 2013"
+wikidata: "Q28163587"
 relations:
   - { rel: "related-to", to: "property-buying-guide" }
 related: []

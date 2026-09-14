@@ -65,6 +65,7 @@ sources:
     publisher: "iProperty.com Malaysia"
 
 entity: "Strata Management Act 2013 (Malaysia)"
+wikidata: "Q28163587"
 relations:
   - { rel: "administered-by", to: "commissioner-of-buildings" }
   - { rel: "part-of", to: "strata-titles-act-1985" }

@@ -85,6 +85,7 @@ sources:
     publisher: "The Rakyat Post"
 
 entity: "Communist Party of Malaya"
+wikidata: "Q2448312"
 relations:
   - { rel: "related-to", to: "malayan-emergency-1948-1960" }
   - { rel: "related-to", to: "formation-of-malaysia-1963" }

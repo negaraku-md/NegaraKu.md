@@ -83,6 +83,7 @@ sources:
     publisher: "OpenDOSM, Department of Statistics Malaysia"
 
 entity: "DOSM"
+wikidata: "Q7354425"
 relations:
   - { rel: "explained-in", to: "gdp-overview" }
   - { rel: "explained-in", to: "inflation-cpi" }

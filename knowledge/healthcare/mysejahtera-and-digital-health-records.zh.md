@@ -71,6 +71,7 @@ sources:
     publisher: "Jabatan Perlindungan Data Peribadi (PDP)"
 
 entity: "MySejahtera"
+wikidata: "Q99537753"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "peka-b40-health-screening" }

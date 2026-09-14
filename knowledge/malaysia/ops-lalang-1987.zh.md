@@ -87,6 +87,7 @@ sources:
     publisher: "The Malaysian Bar"
 
 entity: "Operation Lalang"
+wikidata: "Q1015909"
 relations:
   - { rel: "related-to", to: "internal-security-act-1960" }
 related: []

@@ -66,6 +66,7 @@ sources:
     publisher: "Jabatan Peguam Negara Malaysia (AGC)"
 
 entity: "Perlembagaan Persekutuan"
+wikidata: "Q1003080"
 relations:
   - { rel: "explained-in", to: "federal-constitution" }
   - { rel: "related-to", to: "akta" }

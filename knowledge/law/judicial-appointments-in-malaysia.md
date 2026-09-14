@@ -72,6 +72,7 @@ sources:
     publisher: "ISEAS – Yusof Ishak Institute"
 
 entity: "Suruhanjaya Pelantikan Kehakiman"
+wikidata: "Q113460493"
 relations:
   - { rel: "related-to", to: "court-hierarchy" }
   - { rel: "governs", to: "constitutional-amendment" }

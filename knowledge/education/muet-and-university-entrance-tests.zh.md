@@ -79,6 +79,7 @@ sources:
     publisher: "EduAdvisor"
 
 entity: "Malaysian University English Test (MUET)"
+wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }

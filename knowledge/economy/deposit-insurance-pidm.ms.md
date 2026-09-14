@@ -65,6 +65,7 @@ sources:
     publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
 
 entity: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+wikidata: "Q97211646"
 relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]

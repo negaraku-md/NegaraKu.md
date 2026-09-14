@@ -83,6 +83,7 @@ sources:
     publisher: "DR ISO Consultancy"
 
 entity: "Malaysian Sustainable Palm Oil (MSPO)"
+wikidata: "Q136090072"
 relations:
   - { rel: "governs", to: "malaysia-palm-oil-industry" }
   - { rel: "administered-by", to: "malaysian-palm-oil-board-mpob" }

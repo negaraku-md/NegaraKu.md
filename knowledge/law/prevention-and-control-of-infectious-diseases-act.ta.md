@@ -65,6 +65,7 @@ sources:
     publisher: "Review of Law and Social Equity (RLSE)"
 
 entity: "Akta Pencegahan dan Pengawalan Penyakit Berjangkit 1988 (Akta 342)"
+wikidata: "Q87897624"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "movement-control-order-covid-19" }

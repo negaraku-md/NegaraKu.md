@@ -76,6 +76,7 @@ sources:
     date: "2026-07-13"
 
 entity: "Kementerian Pertanian dan Keterjaminan Makanan (KPKM)"
+wikidata: "Q22222773"
 relations:
   - { rel: "governs", to: "control-of-padi-and-rice-act-1994" }
   - { rel: "related-to", to: "bernas-padiberas-nasional" }
