@@ -59,6 +59,7 @@ export const NAV: NavMenu[] = [
       { label: 'nav.grpAbout', href: '', heading: true },
       { label: 'nav.startHere', href: '/start' },
       { label: 'nav.aboutPage', href: '/about' },
+      { label: 'nav.milestones', href: '/milestones' },
       { label: 'nav.faq', href: '/faq' },
       { label: 'nav.contributors', href: '/contributors' },
       { label: 'nav.grpThisSite', href: '', heading: true },
@@ -129,6 +130,7 @@ export const CONTRIBUTOR_NAV: NavMenu[] = [
     items: [
       { label: 'nav.grpAbout', href: '', heading: true },
       { label: 'nav.aboutPage', href: '/about' },
+      { label: 'nav.milestones', href: '/milestones' },
       { label: 'nav.faq', href: '/faq' },
       { label: 'nav.contributors', href: '/contributors' },
       { label: 'nav.grpThisSite', href: '', heading: true },
