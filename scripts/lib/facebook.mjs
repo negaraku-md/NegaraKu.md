@@ -21,20 +21,21 @@ export const WINDOWS = ['morning', 'lunch', 'evening'];
 //  • drains its OWN priority-ranked queue (ordered by that language's OWN search
 //    demand — see fb-queue.mjs), because the most-wanted article differs by
 //    audience: an English and a Tamil reader do not click the same things;
-//  • RAMPS its daily volume by how NEW its Page is (`since` = Page launch date):
-//    1/day for the first 2 weeks, 3/day weeks 3-4, then up to `perDay`. A young
-//    Page posts fewer to protect per-post reach; `perDay` is the steady-state cap;
+//  • RAMPS its daily volume by how NEW its Page is (`since` = Page launch date).
+//    The AGREED ramp is 1/3/5 (perRunArticles): 1/day the first 2 weeks, 3/day
+//    weeks 3-4, then 5/day — same for every language. `perDay` is just the ceiling
+//    and is set to 5 so the ramp is the pure 1/3/5 schedule; raising to 10 is ON
+//    HOLD (decided 2026-09-11) — monitor 1/3/5 first, then adjust if it helps growth;
 //  • posts only in its preferred `windows` (its audience's peak times), EXCEPT the
 //    evening tick is a catch-up: any language behind target posts there too, so a
 //    GitHub-skipped tick never makes a language miss the day.
-// Because every Page here is only days old, all currently ramp to ~1/day and climb
-// over the coming weeks. Tune per language; add a row (and to LANGS) when a new
-// language launches. Retune `windows` to observed FB engagement once insights land.
+// Every Page is only days old, so all currently post ~1/day and climb over the
+// coming weeks. Add a row (and to LANGS) when a new language launches.
 export const LANG_POLICY = {
-  ms: { enabled: true, perDay: 3, since: '2026-09-09', windows: ['morning', 'lunch', 'evening'] },
-  en: { enabled: true, perDay: 3, since: '2026-09-09', windows: ['morning', 'lunch', 'evening'] },
-  zh: { enabled: true, perDay: 2, since: '2026-09-10', windows: ['lunch', 'evening'] },
-  ta: { enabled: true, perDay: 1, since: '2026-09-11', windows: ['evening'] }, // newest Page + Tamil peaks evening
+  ms: { enabled: true, perDay: 5, since: '2026-09-09', windows: ['morning', 'lunch', 'evening'] },
+  en: { enabled: true, perDay: 5, since: '2026-09-09', windows: ['morning', 'lunch', 'evening'] },
+  zh: { enabled: true, perDay: 5, since: '2026-09-10', windows: ['lunch', 'evening'] },
+  ta: { enabled: true, perDay: 5, since: '2026-09-11', windows: ['evening'] },
   // ja/ko: not in LANGS yet (no corpus); add here + to LANGS when they launch.
 };
 
