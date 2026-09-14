@@ -77,6 +77,7 @@ sources:
     publisher: "Grant Thornton Malaysia"
 
 entity: "Berhad"
+wikidata: "Q63439515"
 relations:
   - { rel: "compares-with", to: "sdn-bhd" }
   - { rel: "governs", to: "companies-act-2016" }

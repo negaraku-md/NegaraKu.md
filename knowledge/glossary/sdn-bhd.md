@@ -37,6 +37,7 @@ sources:
     publisher: "SSM"
 
 entity: "Sdn Bhd"
+wikidata: "Q63439508"
 relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "register-sdn-bhd", "ssm", "paid-up-capital"]

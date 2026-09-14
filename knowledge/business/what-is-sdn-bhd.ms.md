@@ -50,6 +50,7 @@ sources:
     publisher: "SSM"
 
 entity: "Sdn Bhd (Sendirian Berhad)"
+wikidata: "Q63439508"
 relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "administered-by", to: "ssm" }
