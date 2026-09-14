@@ -68,6 +68,7 @@ sources:
     publisher: "Sunway Medical Centre Damansara"
 
 entity: "Sunway Berhad"
+wikidata: "Q139388139"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
 related: []

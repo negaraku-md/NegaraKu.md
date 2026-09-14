@@ -90,6 +90,7 @@ sources:
     publisher: "Immigration Department of Malaysia"
 
 entity: "Kuala Lumpur"
+wikidata: "Q1865"
 relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }

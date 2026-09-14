@@ -65,6 +65,7 @@ sources:
     date: "2024-09-15"
 
 entity: "MISC Berhad"
+wikidata: "Q1886831"
 relations:
   - { rel: "related-to", to: "petronas" }
 related: ["petronas"]

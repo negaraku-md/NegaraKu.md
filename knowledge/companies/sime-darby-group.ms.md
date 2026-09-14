@@ -85,6 +85,7 @@ sources:
     date: "2026-07-28"
 
 entity: "Sime Darby"
+wikidata: "Q1146772"
 relations:
   - { rel: "supersedes", to: "sime-darby-plantation" }
   - { rel: "related-to", to: "permodalan-nasional-berhad" }

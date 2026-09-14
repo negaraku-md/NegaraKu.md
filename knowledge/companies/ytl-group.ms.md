@@ -74,6 +74,7 @@ sources:
     publisher: "YTL Power International Berhad"
 
 entity: "YTL Corporation Berhad"
+wikidata: "Q842437"
 relations:
   - { rel: "related-to", to: "malayan-cement" }
   - { rel: "related-to", to: "bursa-malaysia" }

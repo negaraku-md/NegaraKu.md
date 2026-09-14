@@ -96,6 +96,7 @@ sources:
     publisher: "Malaysia Traveller"
 
 entity: "Langkawi"
+wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }

@@ -68,6 +68,7 @@ sources:
     publisher: "The Star"
 
 entity: "Yang di-Pertuan Agong"
+wikidata: "Q174156"
 relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }

@@ -84,6 +84,7 @@ sources:
     publisher: "Semenggoh Wildlife Centre"
 
 entity: "Sarawak"
+wikidata: "Q170462"
 relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }

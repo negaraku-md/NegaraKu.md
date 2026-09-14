@@ -78,6 +78,7 @@ sources:
     publisher: "Malaysian Investment Development Authority (MIDA)"
 
 entity: "Tenaga Nasional Berhad"
+wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }

@@ -81,6 +81,7 @@ sources:
     publisher: "MyGovernment (Portal Rasmi Kerajaan Malaysia)"
 
 entity: "Perdana Menteri Malaysia"
+wikidata: "Q862559"
 relations:
   - { rel: "governs", to: "jemaah-menteri" }
   - { rel: "part-of", to: "kerajaan-persekutuan" }

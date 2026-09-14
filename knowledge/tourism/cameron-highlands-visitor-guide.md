@@ -77,6 +77,7 @@ sources:
     publisher: "Cameron Highlands District Council (MDCH)"
 
 entity: "Cameron Highlands"
+wikidata: "Q1028741"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }

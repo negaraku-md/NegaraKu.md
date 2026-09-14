@@ -76,6 +76,7 @@ sources:
     publisher: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
 
 entity: "George Town, Penang"
+wikidata: "Q61092"
 relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }

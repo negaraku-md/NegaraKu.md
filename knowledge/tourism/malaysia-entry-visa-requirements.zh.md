@@ -91,6 +91,7 @@ sources:
     publisher: "Malay Mail"
 
 entity: "Immigration Department of Malaysia"
+wikidata: "Q5260346"
 relations:
   - { rel: "administered-by", to: "immigration-department-of-malaysia" }
   - { rel: "related-to", to: "malaysia-mm2h-program" }

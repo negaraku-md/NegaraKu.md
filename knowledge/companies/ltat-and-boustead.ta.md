@@ -79,6 +79,7 @@ sources:
     publisher: "The Edge Malaysia"
 
 entity: "Lembaga Tabung Angkatan Tentera (LTAT)"
+wikidata: "Q12695818"
 relations:
   - { rel: "related-to", to: "boustead-holdings" }
   - { rel: "related-to", to: "government-linked-companies" }

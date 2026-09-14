@@ -73,6 +73,7 @@ sources:
     publisher: "The Edge Malaysia"
 
 entity: "IOI Corporation Berhad"
+wikidata: "Q1654264"
 relations:
   - { rel: "related-to", to: "palm-oil-industry" }
   - { rel: "related-to", to: "bursa-malaysia" }

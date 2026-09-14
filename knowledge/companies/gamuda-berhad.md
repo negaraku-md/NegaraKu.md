@@ -74,6 +74,7 @@ sources:
     publisher: "Gamuda Berhad"
 
 entity: "Gamuda Berhad"
+wikidata: "Q5520412"
 relations:
   - { rel: "located-in", to: "malaysia" }
   - { rel: "related-to", to: "bursa-malaysia" }

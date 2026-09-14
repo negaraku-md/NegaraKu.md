@@ -73,6 +73,7 @@ sources:
     publisher: "Sarawak Tourism Board"
 
 entity: "Tourism Malaysia (Malaysia Tourism Promotion Board)"
+wikidata: "Q7829094"
 relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-and-culture-motac" }
   - { rel: "governs", to: "tourism-industry-act-1992" }

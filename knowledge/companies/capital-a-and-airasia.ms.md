@@ -77,6 +77,7 @@ sources:
     publisher: "The Star"
 
 entity: "Capital A Berhad"
+wikidata: "Q139387570"
 relations:
   - { rel: "related-to", to: "airasia-group-berhad" }
   - { rel: "related-to", to: "bursa-malaysia-pn17" }

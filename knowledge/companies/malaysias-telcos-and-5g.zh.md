@@ -106,6 +106,7 @@ sources:
     publisher: "BERNAMA"
 
 entity: "Digital Nasional Berhad"
+wikidata: "Q109536479"
 relations:
   - { rel: "administered-by", to: "malaysian-communications-and-multimedia-commission" }
   - { rel: "related-to", to: "bursa-malaysia" }

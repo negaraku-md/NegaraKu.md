@@ -70,6 +70,7 @@ sources:
     publisher: "Tourism Pahang Official Portal"
 
 entity: "Taman Negara"
+wikidata: "Q728141"
 relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }

@@ -59,6 +59,7 @@ sources:
     publisher: "Portal Rasmi Parlimen Malaysia"
 
 entity: "Yang di-Pertuan Agong"
+wikidata: "Q174156"
 relations:
   - { rel: "explained-in", to: "federal-constitution" }
   - { rel: "related-to", to: "parliament" }

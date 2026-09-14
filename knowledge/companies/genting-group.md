@@ -69,6 +69,7 @@ sources:
     publisher: "BJPsych International (Cambridge University Press)"
 
 entity: "Genting Group"
+wikidata: "Q1190323"
 relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]

@@ -85,6 +85,7 @@ sources:
     publisher: "Ecotour Malaysia"
 
 entity: "Sabah"
+wikidata: "Q179029"
 relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }

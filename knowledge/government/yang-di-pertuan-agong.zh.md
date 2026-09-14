@@ -70,6 +70,7 @@ sources:
     date: "2024-07-20"
 
 entity: "Yang di-Pertuan Agong"
+wikidata: "Q174156"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }
