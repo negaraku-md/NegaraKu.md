@@ -40,7 +40,11 @@ export function organizationJsonLd(locale: Locale = 'en'): Record<string, unknow
       height: 1024,
     },
     description,
-    sameAs: ['https://www.facebook.com/negaraku.md', 'https://github.com/negaraku-md'],
+    sameAs: [
+      'https://www.wikidata.org/wiki/Q141449495', // NegaraKu.md's Wikidata item — ties the brand to the global knowledge graph
+      'https://www.facebook.com/negaraku.md',
+      'https://github.com/negaraku-md',
+    ],
     sponsor: {
       '@type': 'Organization',
       name: '1company',
