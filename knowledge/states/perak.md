@@ -102,6 +102,7 @@ sources:
     date: "2024-12-02"
 
 entity: "Perak"
+wikidata: "Q188953"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "melaka-sultanate" }

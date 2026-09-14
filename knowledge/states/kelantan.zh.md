@@ -91,6 +91,7 @@ sources:
     publisher: "Kerajaan Negeri Kelantan"
 
 entity: "Kelantan"
+wikidata: "Q185944"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "langkasuka" }

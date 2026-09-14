@@ -175,6 +175,20 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
       ...(s.date ? { datePublished: s.date } : {}),
     })),
     articleSection: d.category,
+    // Entity linking: tie this article to the canonical Wikidata entity it is
+    // ABOUT, so Google's Knowledge Graph and LLMs recognise NegaraKu.md as an
+    // authoritative source on it (the compounding SEO + AI amplification — no
+    // Wikipedia editing needed). Only when a confident QID is set on the article.
+    ...(d.wikidata
+      ? {
+          about: {
+            '@type': 'Thing',
+            name: d.entity ?? d.title,
+            '@id': `https://www.wikidata.org/wiki/${d.wikidata}`,
+            sameAs: `https://www.wikidata.org/wiki/${d.wikidata}`,
+          },
+        }
+      : {}),
   };
 }
 

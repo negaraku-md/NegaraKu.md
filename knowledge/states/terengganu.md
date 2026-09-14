@@ -92,6 +92,7 @@ sources:
     publisher: "Pejabat KDYMM Sultan Terengganu"
 
 entity: "Terengganu"
+wikidata: "Q189701"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "oil-gas-petronas" }

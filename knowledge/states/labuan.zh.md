@@ -60,6 +60,7 @@ sources:
     publisher: "Majlis Keselamatan Negara"
 
 entity: "Labuan"
+wikidata: "Q214504"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "labuan-tax-regime" }

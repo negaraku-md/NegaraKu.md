@@ -88,6 +88,7 @@ sources:
     publisher: "PLANMalaysia@Melaka"
 
 entity: "Melaka"
+wikidata: "Q185221"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "federal-constitution" }

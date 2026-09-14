@@ -84,6 +84,7 @@ sources:
     date: "2026-04-20"
 
 entity: "Negeri Sembilan"
+wikidata: "Q213893"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "federal-constitution" }

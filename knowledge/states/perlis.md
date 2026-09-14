@@ -96,6 +96,7 @@ sources:
     date: "2024-05-01"
 
 entity: "Perlis"
+wikidata: "Q213467"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "penang" }

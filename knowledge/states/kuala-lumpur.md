@@ -62,6 +62,7 @@ sources:
     publisher: "DBKL"
 
 entity: "Kuala Lumpur"
+wikidata: "Q1865"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }

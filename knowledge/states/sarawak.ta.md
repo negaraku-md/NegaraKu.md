@@ -67,6 +67,7 @@ sources:
     publisher: "Attorney General's Chambers of Malaysia"
 
 entity: "Sarawak"
+wikidata: "Q170462"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }

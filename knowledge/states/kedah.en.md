@@ -100,6 +100,7 @@ sources:
     publisher: "UNESCO"
 
 entity: "Kedah"
+wikidata: "Q188947"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "compares-with", to: "penang" }

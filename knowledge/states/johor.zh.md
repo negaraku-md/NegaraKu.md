@@ -64,6 +64,7 @@ sources:
     publisher: "Johor State Government"
 
 entity: "Johor"
+wikidata: "Q183032"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }

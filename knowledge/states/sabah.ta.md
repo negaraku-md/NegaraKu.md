@@ -67,6 +67,7 @@ sources:
     date: "2022-02-10"
 
 entity: "Sabah"
+wikidata: "Q179029"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "ma63" }

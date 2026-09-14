@@ -66,6 +66,7 @@ sources:
     publisher: "InvestPenang"
 
 entity: "Penang"
+wikidata: "Q188096"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }

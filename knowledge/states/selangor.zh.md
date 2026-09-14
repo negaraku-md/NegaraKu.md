@@ -64,6 +64,7 @@ sources:
     publisher: "Selangor State Government"
 
 entity: "Selangor"
+wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }

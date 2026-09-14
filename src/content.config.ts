@@ -306,6 +306,13 @@ const knowledge = defineCollection({
     relations: z.array(relationSchema).default([]),
     /** Primary entity this page is about, e.g. "Sdn Bhd", "SSM". */
     entity: z.string().optional(),
+    /** Wikidata QID of the entity this page is about, e.g. "Q1863" (Selangor).
+     *  Emitted as schema.org `about.sameAs` (see src/lib/seo.ts) so Google's
+     *  Knowledge Graph and LLMs link this article to the canonical global entity —
+     *  making NegaraKu.md a recognised authoritative source on it. Language-neutral
+     *  (lives on the master; translations inherit via the shared schema). Optional;
+     *  set only where a confident, correct Wikidata item exists. */
+    wikidata: z.string().regex(/^Q\d+$/).optional(),
     keywords: z.array(z.string()).default([]),
     /** Social-media metadata. `hashtags` are curated, English, WITHOUT the "#"
      *  (e.g. ["HoldingCompany","MalaysiaTax"]); the Facebook auto-poster

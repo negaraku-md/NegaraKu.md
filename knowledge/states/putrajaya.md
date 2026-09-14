@@ -84,6 +84,7 @@ sources:
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
 
 entity: "Wilayah Persekutuan Putrajaya"
+wikidata: "Q182378"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "compares-with", to: "kuala-lumpur" }
