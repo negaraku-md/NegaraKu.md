@@ -103,6 +103,14 @@ short form after: e.g. `企業委員会（SSM）` … then `SSM`.
 | company constitution | 会社定款 | member vs shareholder = 社員／株主 |
 | financial penalty (regulatory) | 課徴金 | competition/regulatory; criminal fine = 罰金 |
 | consideration / void / voidable | 約因／無効／取消可能 | contract law |
+| MDEC | マレーシアデジタル経済公社（MDEC） | NOT ...エコノミー公社; Malaysia Digital Economy Corp |
+| MD Status (Malaysia Digital) | マレーシア・デジタル認定（MD Status） | keep "MD Status" after first use |
+| PDPA / personal data | 個人データ保護法（PDPA）／個人データ | Act 709 |
+| data controller / processor / subject | データ管理者／データ処理者／データ主体 | |
+| PDP Commissioner (JPDP) | 個人データ保護委員（JPDP） | use for the standalone "Commissioner" too |
+| data protection officer (DPO) | データ保護責任者（DPO） | |
+| Chief Minister (Sabah/Sarawak) | 首席大臣 | vs 州首相 for Menteri Besar states |
+| Yang di-Pertua Negeri | 州元首（Yang di-Pertua Negeri） | parallels 国王（Yang di-Pertuan Agong） |
 | MFRS / MPERS / MASB | (untranslated) | MASB gloss: マレーシア会計基準審議会（MASB） |
 | approved company auditor | 認可会社監査人 | audit-licensing term |
 | audit fee | 監査報酬 | |
