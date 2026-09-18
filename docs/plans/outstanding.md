@@ -57,10 +57,10 @@ The 4 discovery modes and where we stand:
 ---
 
 ## 🌏 Japanese (`ja`) language launch — IN PROGRESS
-- [x] **Phase 0** — foundation + fonts + `/ja` routes (soft launch, noindex). Build 8,151 pages, verified. Commit `eb8fa19c` (local)
-- [ ] **Phase 1** — pilot ~8 cross-pillar articles → verify real Japanese renders (page + OG)
-- [ ] **Phase 2** — chrome: i18n STRINGS ja, ~1001 `L()` call sites across 41 files, typed `Record<Locale>` objects, dashboard/enumerating components, half-done `ta` spots
-- [ ] **Phase 3** — full corpus (~1,073) via multi-agent Workflow batches
+- [x] **Phase 0** — foundation + fonts + `/ja` routes (soft launch, noindex). Build 8,151 pages, verified. Pushed (`eb8fa19c`)
+- [x] **Phase 1** — pilot 8 cross-pillar articles → Japanese verified (page + OG in Noto Sans JP). Commit `3c8bda27` (local)
+- [x] **Phase 2** — chrome: i18n 113 keys, ~1000 `L()` calls (41 files), taxonomy (82), typed objects, plumbing. Build green, 0 leakage. Commit `f202ccdd` (local)
+- [ ] **Phase 3** — full corpus (~1,073) via multi-agent Workflow batches (JA money = zh 億/万 convention)
 - [ ] **Phase 4** — review + OPEN LAUNCH (add `ja` to LOCALES, drop sitemap filter, wire FB Page)
 - [ ] Then **Korean (`ko`)** — reuses everything above
 
