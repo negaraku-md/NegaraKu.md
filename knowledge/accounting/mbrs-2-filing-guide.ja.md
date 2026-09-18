@@ -150,7 +150,7 @@ SSMxT は SSM がゼロから発明したものではない。**IFRS 会計タ�
 
 **財務諸表及び報告書**
 
-FS-MFRS と FS-MPERS は、適用する会計基準によって分かれる。FS-CLBG は保証有限会社、FS-EPC は免除私会社（exempt private company）、FS-FC は外国会社、FS-BNM はマレーシア国民銀行（Bank Negara Malaysia）の規制を受ける会社向けである。それぞれに Companies Act 1965 に対応する版がある。
+FS-MFRS と FS-MPERS は、適用する会計基準によって分かれる。FS-CLBG は保証有限責任会社、FS-EPC は免除私会社（exempt private company）、FS-FC は外国会社、FS-BNM はマレーシア国民銀行（Bank Negara Malaysia）の規制を受ける会社向けである。それぞれに Companies Act 1965 に対応する版がある。
 
 **主要財務指標**
 
