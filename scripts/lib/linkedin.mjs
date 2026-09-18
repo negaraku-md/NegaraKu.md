@@ -25,9 +25,19 @@ export const LINKEDIN_VERSION = process.env.LINKEDIN_VERSION || '202506';
 export const ORG_ID = process.env.LINKEDIN_ORG_ID || '146607540';
 export const ORG_URN = process.env.LINKEDIN_ORG_URN || `urn:li:organization:${ORG_ID}`;
 
-// LinkedIn is English-led (its audience is professional/B2B and English-dominant,
-// and the business/compliance corpus is its natural fit).
-export const LANG = 'en';
+// LinkedIn is a SINGLE Company Page, but it serves a Malaysian audience, so the
+// poster posts in three languages to the one feed: English (lead), Bahasa Melayu
+// and 中文 — each drawn from its own demand-ranked, business-first queue and
+// rotated so the single feed stays a balanced trilingual mix. (Tamil is omitted:
+// LinkedIn has no ta Page locale and the ta professional audience there is thin.)
+export const LANGS = ['en', 'ms', 'zh'];
+
+// Per-language call-to-action preceding the link (mirrors the FB posters' copy).
+const CTA = {
+  en: '🔗 Read the full guide:',
+  ms: '🔗 Baca panduan penuh:',
+  zh: '🔗 阅读完整指南：',
+};
 
 export function headers(token) {
   return {
@@ -46,27 +56,24 @@ export function headers(token) {
 const LI_RESERVED = /[\\|{}@\[\]()<>#*_~]/g;
 export const escapeLI = (s) => String(s).replace(LI_RESERVED, (c) => `\\${c}`);
 
-// A short, professional call-to-action for the LinkedIn audience.
-const CTA = '🔗 Read the full guide:';
-
-// Build the /rest/posts body for a published article: an ARTICLE share (a
-// clickable link card — LinkedIn scrapes the page's OG title/image) plus a
-// commentary hook + hashtags. `data` is the English article's frontmatter.
-export function buildPost(data, { siteUrl }) {
+// Build the /rest/posts body for a published article IN ONE LANGUAGE: an ARTICLE
+// share (a clickable link card — LinkedIn scrapes the page's OG title/image) plus a
+// commentary hook + hashtags. `data` is that language's article frontmatter.
+export function buildPost(data, { siteUrl, lang = 'en' }) {
   if (!data.slug || !data.category) return null;
   const link = withUtm(
-    articleUrl(siteUrl, localePrefix(LANG), data.category, data.slug),
+    articleUrl(siteUrl, localePrefix(lang), data.category, data.slug),
     'linkedin',
     'social',
   );
-  const tags = hashtags(data, LANG); // reuse the FB hashtag builder (English)
+  const tags = hashtags(data, lang); // FB hashtag builder is language-aware (en/ms/zh)
   // Commentary: escaped hook (title + summary + CTA+link), then the raw tag line.
   const hook = [
     escapeLI(data.title),
     '',
     escapeLI(data.summary || ''),
     '',
-    `${CTA} ${escapeLI(link)}`,
+    `${(CTA[lang] || CTA.en)} ${escapeLI(link)}`,
   ].join('\n');
   const commentary = tags ? `${hook}\n\n${tags}` : hook;
   return {

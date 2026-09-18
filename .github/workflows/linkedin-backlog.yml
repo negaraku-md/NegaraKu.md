@@ -1,7 +1,8 @@
 name: Post backlog to LinkedIn
 
 # Drains the published corpus to the NegaraKu.md LinkedIn Company Page as ARTICLE
-# shares (clickable link cards), business/compliance pillar first, in English
+# shares (clickable link cards), business/compliance pillar first, in three
+# languages (en/ms/zh) rotated into the one feed
 # (scripts/post-backlog-to-linkedin.mjs, queue mode). Its own ranked queue +
 # manifest (analytics/posted-linkedin.json) drain the backlog in priority order
 # without double-posting, on a warm-up ramp (1/day for two weeks, then 3, then 5).

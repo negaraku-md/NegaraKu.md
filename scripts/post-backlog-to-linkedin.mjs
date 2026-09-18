@@ -1,11 +1,12 @@
 // post-backlog-to-linkedin.mjs — post the published corpus to the NegaraKu.md
 // LinkedIn Company Page as ARTICLE shares (clickable link cards), business/
-// compliance pillar first, in English. The LinkedIn twin of
-// post-backlog-to-facebook.mjs, but single-page/single-language and simpler:
-// one demand-ranked English queue, its own manifest, a warm-up ramp.
+// compliance pillar first, in three languages (en/ms/zh) ROTATED into the one
+// feed. The LinkedIn twin of post-backlog-to-facebook.mjs, but single-page:
+// per-language demand-ranked queues drain into a shared daily target, its own
+// manifest (analytics/posted-linkedin.json), a warm-up ramp.
 //
-// Invoked with article files/bases (post exactly those), or in queue mode (the
-// cron path: drain the next ranked batch up to the day's ramped target).
+// Invoked with article files/bases (post exactly those, in every language), or in
+// queue mode (the cron path: drain the next rotated batch up to the day's target).
 //
 // Env:
 //   LINKEDIN_ACCESS_TOKEN — Community-Management token (w_organization_social),
@@ -18,8 +19,8 @@
 import { readFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import matter from 'gray-matter';
-import { articleBases, langFile, isPublishedBase, localePrefix } from './lib/facebook.mjs';
-import { buildPost, postArticle, ORG_URN, LANG } from './lib/linkedin.mjs';
+import { articleBases, langFile, isPublishedBase } from './lib/facebook.mjs';
+import { buildPost, postArticle, ORG_URN, LANGS } from './lib/linkedin.mjs';
 import {
   loadManifest, saveManifest, isDone, markPost,
   listPublishedBases, nextBatch, perDay, postedTodayCountMYT,
@@ -38,13 +39,22 @@ function fileList() {
     .split(/\r?\n/).map((s) => s.trim()).filter(Boolean);
 }
 
-// Resolve this run's article bases. Files named → post exactly those (published,
-// not-yet-posted). Queue mode → the next ranked batch up to today's remaining
-// target; on scheduled runs the per-MYT-day guard makes repeat cron ticks top up
-// toward the target rather than double-post.
-function resolveBases(files, manifest, { scheduled }) {
+// Resolve this run's targets as { base, lang }. Files named → every language of
+// each published, not-yet-posted base. Queue mode → the next rotated batch up to
+// today's remaining target; on scheduled runs the per-MYT-day guard makes repeat
+// cron ticks top up toward the target rather than double-post.
+function resolveTargets(files, manifest, { scheduled }) {
   if (files.length) {
-    return articleBases(files).filter((b) => isPublishedBase(b) && !isDone(manifest, b));
+    const out = [];
+    for (const base of articleBases(files)) {
+      if (!isPublishedBase(base)) continue;
+      for (const lang of LANGS) {
+        if (!isDone(manifest, base, lang) && existsSync(langFile(base, lang))) {
+          out.push({ base, lang });
+        }
+      }
+    }
+    return out;
   }
   const target = perDay();
   let budget = target;
@@ -57,14 +67,17 @@ function resolveBases(files, manifest, { scheduled }) {
     }
   }
   const picks = nextBatch(manifest, budget);
-  if (picks.length) console.log(`[li-backlog] queue: ${picks.length} article(s) (target ${target}/day).`);
-  return picks.map((b) => b.base);
+  if (picks.length) {
+    const mix = picks.reduce((a, p) => ((a[p.lang] = (a[p.lang] || 0) + 1), a), {});
+    console.log(`[li-backlog] queue: ${picks.length} post(s) (target ${target}/day) — ${Object.entries(mix).map(([l, n]) => `${l}:${n}`).join(' ')}.`);
+  }
+  return picks;
 }
 
-// The English file for a base (base.en.md, or the master base.md when it's the
-// English one), parsed to frontmatter. Null if it has no usable file/frontmatter.
-async function readArticle(base) {
-  const file = langFile(base, LANG);
+// The article frontmatter for one { base, lang }: langFile(base, lang) = base.<lang>.md,
+// or the master base.md when it is that language. Null if missing/unparseable.
+async function readArticle(base, lang) {
+  const file = langFile(base, lang);
   if (!existsSync(file)) return null;
   try {
     return { file, data: matter(await readFile(file, 'utf8')).data };
@@ -83,15 +96,15 @@ async function isLive(url) {
   }
 }
 
-async function preview(base) {
-  const art = await readArticle(base);
-  if (!art) { console.warn(`[li-backlog] skip ${base}: no English file`); return; }
-  const body = buildPost(art.data, { siteUrl: SITE_URL });
-  if (!body) { console.warn(`[li-backlog] skip ${base}: missing slug/category`); return; }
+async function preview({ base, lang }) {
+  const art = await readArticle(base, lang);
+  if (!art) { console.warn(`[li-backlog] skip ${base} [${lang}]: no file`); return; }
+  const body = buildPost(art.data, { siteUrl: SITE_URL, lang });
+  if (!body) { console.warn(`[li-backlog] skip ${base} [${lang}]: missing slug/category`); return; }
   const link = body.content.article.source;
   const live = await isLive(link);
   console.log(
-    `[li-backlog] ${DRY_RUN ? 'DRY_RUN' : 'no token'} — would post → ${ORG_URN}` +
+    `[li-backlog] ${DRY_RUN ? 'DRY_RUN' : 'no token'} — would post [${lang}] → ${ORG_URN}` +
     `${live ? '' : '  ⚠️ URL NOT LIVE — would be SKIPPED'}\n` +
     `  link:  ${link}\n` +
     `  card:  ${body.content.article.title}\n` +
@@ -99,27 +112,27 @@ async function preview(base) {
   );
 }
 
-// Post one base. Persists to the manifest the instant the post returns so an id is
-// never lost. Returns 'full' | 'skip' | 'error'.
-async function handle(base, manifest) {
-  const art = await readArticle(base);
+// Post one { base, lang }. Persists to the manifest the instant the post returns so
+// an id is never lost. Returns 'full' | 'skip' | 'error'.
+async function handle({ base, lang }, manifest) {
+  const art = await readArticle(base, lang);
   if (!art) return 'skip';
-  const body = buildPost(art.data, { siteUrl: SITE_URL });
+  const body = buildPost(art.data, { siteUrl: SITE_URL, lang });
   if (!body) return 'skip';
   const link = body.content.article.source;
   if (!(await isLive(link))) {
-    console.error(`[li-backlog] SKIP page not live (not HTTP 200): ${link}`);
+    console.error(`[li-backlog] SKIP [${lang}] page not live (not HTTP 200): ${link}`);
     return 'error';
   }
   try {
     const urn = await postArticle(body, TOKEN);
-    markPost(manifest, base, urn);
+    markPost(manifest, base, lang, urn);
     manifest.meta.startedAt ??= new Date().toISOString();
     saveManifest(manifest);
-    console.log(`[li-backlog] posted ${base} → ${urn}`);
+    console.log(`[li-backlog] posted [${lang}] ${base} → ${urn}`);
     return 'full';
   } catch (err) {
-    console.error(`[li-backlog] FAILED ${base}:`, err.message);
+    console.error(`[li-backlog] FAILED [${lang}] ${base}:`, err.message);
     return 'error';
   }
 }
@@ -131,14 +144,14 @@ async function main() {
     return;
   }
   const manifest = loadManifest();
-  const bases = resolveBases(files, manifest, { scheduled: SCHEDULED && !files.length });
-  if (!bases.length) { console.log('[li-backlog] nothing to do (all caught up).'); return; }
+  const targets = resolveTargets(files, manifest, { scheduled: SCHEDULED && !files.length });
+  if (!targets.length) { console.log('[li-backlog] nothing to do (all caught up).'); return; }
 
   // Dry run / no token: preview only, never call the API, exit 0.
-  if (DRY_RUN || !TOKEN) { for (const b of bases) await preview(b); return; }
+  if (DRY_RUN || !TOKEN) { for (const t of targets) await preview(t); return; }
 
   const tally = { full: 0, error: 0, skip: 0 };
-  for (const b of bases) tally[await handle(b, manifest)] += 1;
+  for (const t of targets) tally[await handle(t, manifest)] += 1;
   console.log(`[li-backlog] done — posted ${tally.full}, error ${tally.error}, skip ${tally.skip}; ${Object.keys(manifest.posted).length} in manifest.`);
   if (tally.error > 0) {
     console.error(`[li-backlog] FAILED — ${tally.error} post error(s).`);
