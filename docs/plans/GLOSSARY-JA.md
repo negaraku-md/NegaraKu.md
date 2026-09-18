@@ -119,6 +119,13 @@ short form after: e.g. `企業委員会（SSM）` … then `SSM`.
 | industrial design / patent / trademark | 意匠／特許／商標 | MyIPO IP terms |
 | MyIPO | マレーシア知的財産公社（MyIPO） | |
 | High Court / Sessions / Magistrates / Court of Appeal / Federal Court | 高等法院／セッションズ裁判所／治安判事裁判所／控訴院／マレーシア連邦裁判所 | |
+| to license / licensing authority | 発行する／発行機関・発行当局 | NEVER 発照 (照 for licence is Chinese 执照); licence itself = 免許／許可／ライセンス |
+| composite licence | 総合免許 | NOT 複合ライセンス／複合許可 |
+| MCMC | マレーシア通信・マルチメディア委員会（MCMC） | keep the ・; CMA 1998 = 通信・マルチメディア法 |
+| jointly / severally / jointly and severally | 共同／個別／連帯 | keep the three distinct (Partnership Act) |
+| patent claim / utility innovation | 請求項／実用新案 | NOT 权利要求／实用新型 (Chinese) |
+| MSME / SME | 中小零細企業（MSME）／中小企業（SME） | |
+| financial penalty vs fine | 課徴金（regulatory）／罰金（criminal） | keep distinct |
 | MFRS / MPERS / MASB | (untranslated) | MASB gloss: マレーシア会計基準審議会（MASB） |
 | approved company auditor | 認可会社監査人 | audit-licensing term |
 | audit fee | 監査報酬 | |

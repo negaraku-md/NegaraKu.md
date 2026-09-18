@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0108
 title: "イポーとペラでのビジネス：コストの観点から"
-seoTitle: "イポーでのビジネス：MBI の発照とコスト"
+seoTitle: "イポーでのビジネス：MBI の発行とコスト"
 slug: "doing-business-ipoh-perak"
 category: "business"
 subcategory: ["locations"]
@@ -12,9 +12,9 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "イポーは Undang-Undang Kecil Pelesenan Tred, Perniagaan dan Perindustrian (Majlis Bandaraya Ipoh) 2017 に基づいて発照し、この細則は2017年2月15日に Pk. P.U. 13 として官報に告示されました。総合免許は処理手数料 RM30、有効期間は最低12か月・最長36か月です。ペラは2025年に 5.7% 成長して RM91.5 billion となり、10年余りで最も力強い成長で、製造業は 15.2% 成長しました。工業用地は1平方フィートあたり RM18～RM38 で、スランゴールの RM65～RM200 と対比されます。"
+answer: "イポーは Undang-Undang Kecil Pelesenan Tred, Perniagaan dan Perindustrian (Majlis Bandaraya Ipoh) 2017 に基づいて発行し、この細則は2017年2月15日に Pk. P.U. 13 として官報に告示されました。総合免許は処理手数料 RM30、有効期間は最低12か月・最長36か月です。ペラは2025年に 5.7% 成長して RM91.5 billion となり、10年余りで最も力強い成長で、製造業は 15.2% 成長しました。工業用地は1平方フィートあたり RM18～RM38 で、スランゴールの RM65～RM200 と対比されます。"
 keyTakeaways:
-  - "MBI は2017年の細則 Pk. P.U. 13 に基づいて発照する——自身の免許種別ページは、いまなお既に取って代わられた1987年の法文書を引用している"
+  - "MBI は2017年の細則 Pk. P.U. 13 に基づいて発行する——自身の免許種別ページは、いまなお既に取って代わられた1987年の法文書を引用している"
   - "細則第6条は最低12か月の期間を与え、最長36か月まで認める；更新は満了日またはそれ以前に行う"
   - "総合免許の処理手数料は RM30、店舗看板は RM50、免許譲渡は年間料金の20%"
   - "ペラの GDP は2025年に RM91.5 billion に達し、5.7% 増、製造業は運輸機器の 162.9% の急増を受けて 15.2% 増"
@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "ペラを、コスト面でクラン・バレー（Klang Valley）やペナンと比較検討している製造業者およびバックオフィス運営者。"
 
 faq:
-  - q: "Majlis Bandaraya Ipoh はどの細則に基づいて発照しますか？"
+  - q: "Majlis Bandaraya Ipoh はどの細則に基づいて発行しますか？"
     a: "Undang-Undang Kecil Pelesenan Tred, Perniagaan dan Perindustrian (Majlis Bandaraya Ipoh) 2017 です。これは Local Government Act 1976 に基づき、2017年2月15日に Pk. P.U. 13 としてペラ州官報に告示されました。MBI 自身の免許種別ページは、いまなお Undang-Undang Kecil Pelesenan Perdagangan dan Perusahaan (Majlis Perbandaran Ipoh) (Pindaan) 1987 を引用していますが、これは既に取って代わられています。広告は、別途の2013年および2016年の広告細則に基づきます。"
   - q: "最低賃金はペラの方が低いですか？"
     a: "いいえ。Minimum Wage Order 2024, P.U.(A) 376 は、月額 RM1,700、時給 RM8.72 を単一の全国料率として定め、2025年8月1日からすべての雇用主に完全適用されています。州別の表は存在しません。ペラの労働コスト上の優位は市場賃金上の優位であって、法定のものではなく、これと反対の含意を持つガイドはいずれも誤りです。"
@@ -103,10 +103,10 @@ keywords:
 公表する情報は少なく、ペラの正直な話は2,000語ではなく800語で収まります。本当に地域
 固有なのはコスト構造であり、それがあなたにいくら掛かるかということです。
 
-## 誰があなたに発照するか
+## 誰があなたに発行するか
 
 イポーは **Undang-Undang Kecil Pelesenan Tred, Perniagaan dan Perindustrian (Majlis
-Bandaraya Ipoh) 2017** に基づいて発照し、この細則は Local Government Act 1976 に基づき
+Bandaraya Ipoh) 2017** に基づいて発行し、この細則は Local Government Act 1976 に基づき
 **2017年2月15日に Pk. P.U. 13** として官報に告示されました。**MBI 自身の免許種別ページは、
 いまなお1987年の Majlis Perbandaran Ipoh 改正細則を引用しています**——これは既に取って
 代わられており、官報を引用すべき格好の理由です。この官報は、**イポー、Taiping、Teluk
@@ -121,7 +121,7 @@ RM530、それ以上で RM650；広告代理店は RM230 と RM410；輸出入�
 は RM50、そして**免許の譲渡は年間料金の20%**です。処理手数料は**営業免許 RM30、店舗看板
 RM50、総合免許 RM30**で、**e-Lesen MBI** を通じて手続きします。
 
-ペラには **15の地方自治体があり、州全体の発照ポータルは存在しません**——スランゴールと
+ペラには **15の地方自治体があり、州全体の発行ポータルは存在しません**——スランゴールと
 同じ断片化が、より小さな規模で起きています。
 
 ## コストの観点、その出典とともに
