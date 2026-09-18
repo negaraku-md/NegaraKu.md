@@ -24,7 +24,7 @@ faq:
   - q: "LTATへの拠出率はどれくらいですか。"
     a: "強制拠出者（下士官兵、Lain-Lain Pangkat）は月給の10%を拠出し、政府がさらに15%を上乗せする——合計で月25%となる。任意拠出者は月額RM25からRM2,000の範囲で拠出できる。"
   - q: "Boustead Holdingsは現在もBursa Malaysiaに上場していますか。"
-    a: "いいえ。LTATが約97.63%の持株を取得して非公開会社化した後、Boustead HoldingsはBursa Malaysiaのメインマーケット（Pasaran Utama）から2023年6月28日に上場廃止された。"
+    a: "いいえ。LTATが約97.63%の持株を取得して私会社化した後、Boustead HoldingsはBursa Malaysiaのメインマーケット（Pasaran Utama）から2023年6月28日に上場廃止された。"
   - q: "Project Earthとは何ですか。"
     a: "これはLTATおよびBoustead集団の再編計画であり、LTAT理事会が2024年8月9日に承認し、2024年12月13日に内閣へ報告された。3年以内に戦略資産保有比率を35%まで引き下げつつ、強制売却を回避することを目的としている。"
 
