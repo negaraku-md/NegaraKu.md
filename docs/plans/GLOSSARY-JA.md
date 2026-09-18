@@ -214,6 +214,11 @@ the "never invent an institution name" rule.
 | UNESCO ICH Representative List | 人類の無形文化遺産代表一覧表 | pre-2008 program = 人類の口承及び無形遺産の傑作 |
 | UNESCO Memory of the World | UNESCO世界の記憶（Memory of the World） | |
 
+**Malaysian state/FT names (katakana) — use these majority forms:** ジョホール／
+ケダ（NOT クダ）／クランタン／マラッカ／ヌグリ・スンビラン／パハン／ペナン／ペラ／
+パーリス（NOT プルリス）／セランゴール／トレンガヌ／サバ／サラワク／クアラルンプール／
+プトラジャヤ／ラブアン。（A few early files use クダ/プルリス — reconcile in the final sweep.）
+
 **Constitution vs statute references:** the *Federal Constitution*'s Articles
 (Malay `Perkara`) convert to `第X条` (e.g. `第152条(1)(a)`), matching the zh
 precedent — this is DISTINCT from statute pinpoint sections (`Seksyen`/`s.`), which
