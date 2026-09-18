@@ -64,3 +64,29 @@ short form after: e.g. `企業委員会（SSM）` … then `SSM`.
 | Knowledge base | ナレッジベース | |
 | Open-source | オープンソース | |
 | AI-friendly | AIフレンドリー | |
+
+## Settled conventions (from the Phase 3 accounting batch)
+
+- **Section / paragraph references stay abbreviated and inline** — `s.245(2)`, `s.68`, `para 5`, `First Schedule`. Do NOT convert to `第245条` / `第5項`; keep the `s.` form embedded directly in the Japanese sentence (matches the spec's never-translate list and the `.ja` pilot: companies-act-2016, digital-free-trade-zone).
+- **Statute titles:** Japanese descriptor + canonical English name/number in brackets, Japanese-comma separator — `2016年会社法（Companies Act 2016、Act 777）`. Standard/PD titles may use `『…』` for the work title.
+- **Money scale words** (bilion/juta/million/billion) → Japanese `億/万`, exact value preserved; digit-form figures (`RM500,000`, `10%`) unchanged.
+
+## Recurring terms (accounting / company-law) — use consistently
+
+| English / source | Japanese | Notes |
+| --- | --- | --- |
+| Registrar (of Companies) | 登記官 | NOT 登録官 |
+| member (of a company) | 社員 | NOT メンバー; shareholder = 株主 |
+| officer / director | 役員 / 取締役 | |
+| private / public company | 私会社（private company）/ 公開会社（public company） | gloss once |
+| accounting records | 会計帳簿 | |
+| financial statements | 財務諸表 | |
+| financial year / year-end | 会計年度 / 会計年度末（FYE） | |
+| audit exemption | 監査免除 | |
+| auditor's report | 監査報告書 | |
+| true and fair view | 真実かつ公正な概観 | |
+| annual return | 年次報告書（annual return） | keep English gloss once |
+| trial balance / chart of accounts | 試算表 / 勘定科目表 | |
+| LLP | LLP（有限責任事業組合） | keep "LLP" after first use; partner = 組合員 |
+| imprisonment / fine | 禁錮 / 罰金 | |
+| MFRS / MPERS / MASB | (untranslated) | MASB gloss: マレーシア会計基準審議会（MASB） |
