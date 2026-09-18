@@ -111,6 +111,14 @@ short form after: e.g. `企業委員会（SSM）` … then `SSM`.
 | data protection officer (DPO) | データ保護責任者（DPO） | |
 | Chief Minister (Sabah/Sarawak) | 首席大臣 | vs 州首相 for Menteri Besar states |
 | Yang di-Pertua Negeri | 州元首（Yang di-Pertua Negeri） | parallels 国王（Yang di-Pertuan Agong） |
+| Promotion of Investments Act 1986 | 1986年投資奨励法令（Promotion of Investments Act 1986） | NOT 投資促進法令 |
+| Labuan FSA | ラブアン金融監督庁（Labuan FSA） | NOT ラブアン金融サービス機構 |
+| Ministry of Domestic Trade & Cost of Living (KPDN) | 国内取引・生活費省（KPDN） | "domestic trade"=取引 not 貿易 |
+| Ministry of Transport | 運輸省 | NOT 交通省 |
+| contract of service / for services | サービス契約（contract of service）／請負契約 | employment vs independent contractor; never 服務契約 (Chinese) |
+| industrial design / patent / trademark | 意匠／特許／商標 | MyIPO IP terms |
+| MyIPO | マレーシア知的財産公社（MyIPO） | |
+| High Court / Sessions / Magistrates / Court of Appeal / Federal Court | 高等法院／セッションズ裁判所／治安判事裁判所／控訴院／マレーシア連邦裁判所 | |
 | MFRS / MPERS / MASB | (untranslated) | MASB gloss: マレーシア会計基準審議会（MASB） |
 | approved company auditor | 認可会社監査人 | audit-licensing term |
 | audit fee | 監査報酬 | |
