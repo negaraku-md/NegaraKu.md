@@ -22,20 +22,24 @@ const BRAND = `${REPO}/public/brand`;
 const OUT = `${BRAND}/NegaraKu.md.LinkedIn-Cover.png`;
 const FONT = 'Segoe UI, Nirmala UI, Malgun Gothic, Yu Gothic UI, Yu Gothic, Meiryo, Microsoft YaHei, Noto Sans SC, sans-serif';
 
-const W = 1584, H = 396;
+// LinkedIn's Cover Image editor crops to a box TALLER than 4:1, so a short banner
+// letterboxes. We use a taller 2:1 canvas with the content block centred vertically and
+// a full-bleed near-black gradient — it fills the editor box edge-to-edge, and because
+// the whole background is near-black, any residual crop on another surface blends away.
+const W = 1584, H = 792;
 const TAGLINE = 'Let the world know about Malaysia';
 const SUBTITLE = 'Open-source, AI-friendly knowledge base about Malaysia';
 const LANGS = ['Bahasa Melayu', 'English', '中文', 'தமிழ்'];
 
-// Layout knobs
+// Layout knobs — content block centred around H/2 (crop-proof)
 const GOLD_LINE = 7;          // top hairline thickness
 const LOGO_W = 470;           // wordmark lockup width (asset is 3:1 → h = LOGO_W/3)
-const LOGO_CY = 118;          // lockup vertical centre
-const Y_TAG = 255;            // tagline baseline
-const Y_SUB = 300;            // subtitle baseline
-const Y_LANG = 348;           // language row baseline
+const LOGO_CY = 300;          // lockup vertical centre
+const Y_TAG = 470;            // tagline baseline
+const Y_SUB = 515;            // subtitle baseline
+const Y_LANG = 565;           // language row baseline
 // Flower watermark (matches FB flower transform math: cx/cy are the path's anchor centre)
-const FL_SC = 0.46, FL_OP = 0.08, FL_CX = 381, FL_CY = 420, FL_BY = 172, FL_INSET = 172;
+const FL_SC = 0.95, FL_OP = 0.07, FL_CX = 381, FL_CY = 420, FL_BY = 396, FL_INSET = 200;
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
