@@ -1,6 +1,6 @@
 ---
 topicId: MY-ACC-0034
-title: "Sdn Bhd（私会社）はいつ監査が必要か：2016年会社法における基本原則"
+title: "Sdn Bhd（非公開有限会社）はいつ監査が必要か：2016年会社法における基本原則"
 seoTitle: "Sdn Bhd法定監査要件 ― マレーシア2016年会社法"
 slug: "statutory-audit-requirement"
 category: "accounting"
