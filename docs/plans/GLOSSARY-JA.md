@@ -90,6 +90,19 @@ short form after: e.g. `企業委員会（SSM）` … then `SSM`.
 | trial balance / chart of accounts | 試算表 / 勘定科目表 | |
 | LLP | LLP（有限責任事業組合） | keep "LLP" after first use; partner = 組合員 |
 | imprisonment / fine | 禁錮 / 罰金 | |
+| winding up / liquidation | 清算 | liquidator = 清算人 |
+| striking off | 抹消 | |
+| corporate rescue | 企業再生 | NOT 企業救済 |
+| judicial management | 司法管理 | |
+| scheme of arrangement | 整理計画 | NOT アレンジメントスキーム |
+| corporate voluntary arrangement (CVA) | 会社任意整理（CVA） | |
+| resident director | 居住取締役 | |
+| nominee director | ノミニー取締役 | |
+| disqualification (of director) | 資格喪失 | |
+| company secretary | 会社秘書役 | |
+| company constitution | 会社定款 | member vs shareholder = 社員／株主 |
+| financial penalty (regulatory) | 課徴金 | competition/regulatory; criminal fine = 罰金 |
+| consideration / void / voidable | 約因／無効／取消可能 | contract law |
 | MFRS / MPERS / MASB | (untranslated) | MASB gloss: マレーシア会計基準審議会（MASB） |
 | approved company auditor | 認可会社監査人 | audit-licensing term |
 | audit fee | 監査報酬 | |
