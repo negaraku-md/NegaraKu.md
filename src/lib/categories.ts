@@ -21,14 +21,14 @@ export type ContentLocale = 'ms' | 'en' | 'zh';
 // with no authored content for a given field falls back to `ms` via `loc()` — so
 // a new UI language (e.g. `ta`) can ship its routes and chrome before the corpus
 // and taxonomy are translated, without rendering `undefined`.
-export type Locale = ContentLocale | 'ta';
+export type Locale = ContentLocale | 'ta' | 'ja';
 
 /**
  * A localized taxonomy string. `ms`/`en`/`zh` are always authored; `ta` (and any
  * future viewing-only locale) is OPTIONAL — added as the Tamil rollout translates
  * the taxonomy. `loc()` returns the viewing locale's value when present, else Malay.
  */
-export type Localized = Record<ContentLocale, string> & Partial<Record<'ta', string>>;
+export type Localized = Record<ContentLocale, string> & Partial<Record<'ta' | 'ja', string>>;
 
 /**
  * Read a localized field for a viewing locale, falling back to Malay when that

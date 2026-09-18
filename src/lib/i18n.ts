@@ -12,6 +12,7 @@ export const LOCALE_NAMES: Record<Locale, string> = {
   en: 'English',
   zh: '中文',
   ta: 'தமிழ்',
+  ja: '日本語',
 };
 
 /** UI string table. Keep keys stable; fall back to `ms` if a value is missing. */
@@ -229,6 +230,6 @@ export function withTrailingSlash(pathname: string): string {
 /** Extract the active locale from an Astro URL pathname. */
 export function localeFromPath(pathname: string): Locale {
   const seg = pathname.split('/').filter(Boolean)[0];
-  if (seg === 'en' || seg === 'zh' || seg === 'ta') return seg;
+  if (seg === 'en' || seg === 'zh' || seg === 'ta' || seg === 'ja') return seg;
   return DEFAULT_LOCALE;
 }

@@ -82,7 +82,7 @@ const fullTitle = title.includes('NegaraKu.md')
 // canonical/og:url/hreflang all point at the resolved URL rather than the one
 // that 301-redirects to it.
 const canonical = new URL(withTrailingSlash(localePath(path, locale)), site).toString();
-const htmlLang = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : 'en';
+const htmlLang = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : 'en';
 // A locale whose routes exist but which is NOT yet publicly launched (not in
 // LOCALES — the switcher/hreflang set) is soft-launched: its pages render (as a
 // Malay-content fallback) for preview, but are `noindex` so search engines don't
@@ -120,7 +120,7 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
       LOCALES.map((l) => (
         <link
           rel="alternate"
-          hreflang={l === 'zh' ? 'zh-Hans' : l === 'ms' ? 'ms-MY' : 'en'}
+          hreflang={l === 'zh' ? 'zh-Hans' : l === 'ms' ? 'ms-MY' : l === 'ta' ? 'ta' : l === 'ja' ? 'ja' : 'en'}
           href={new URL(withTrailingSlash(localePath(path, l)), site).toString()}
         />
       ))
@@ -216,6 +216,32 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
           <link
             rel="stylesheet"
             href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@400;500;700&display=swap"
+          />
+        </noscript>
+      </>
+    )}
+
+    {/* Japanese (kana U+3040–30FF + kanji) — soft-launched /ja pages load Noto
+        Sans JP, only on ja pages so ms/en/zh/ta keep their font budget. */}
+    {locale === 'ja' && (
+      <>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+          rel="preload"
+          as="style"
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap"
+        />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap"
+          media="print"
+          onload="this.media='all'"
+        />
+        <noscript>
+          <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap"
           />
         </noscript>
       </>

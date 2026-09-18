@@ -118,6 +118,10 @@ jobs:
 
       - name: Build (sync + graph + astro + pagefind)
         env:
+          # Raise Node's heap: astro build renders every locale's pages (8k+ with
+          # ms/en/zh/ta/ja) and OOMs at the default old-space. 6 GB stays under the
+          # GitHub runner's 7 GB RAM (avoid the OS OOM-killer) with room to spare.
+          NODE_OPTIONS: --max-old-space-size=6144
           # Visitors analytics — build-analytics.mjs reads these to pull counts
           # from Analytics Engine. Absent → it no-ops ("not tracked yet").
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}

@@ -34,7 +34,7 @@ function lastmodFor(url) {
   let p = url.replace(SITE, '').replace(/^\/+|\/+$/g, ''); // e.g. "en/malaysia/slug"
   if (!p) return undefined; // homepage
   const seg = p.split('/');
-  const lang = seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ta' ? seg.shift() : 'ms';
+  const lang = seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ta' || seg[0] === 'ja' ? seg.shift() : 'ms';
   if (seg.length < 2) return undefined; // category/list page, not an article
   return lastmodByPath.get(`${lang}/${seg.join('/')}`);
 }
@@ -141,9 +141,9 @@ export default defineConfig({
   },
   i18n: {
     defaultLocale: 'ms',
-    locales: ['ms', 'en', 'zh', 'ta'],
+    locales: ['ms', 'en', 'zh', 'ta', 'ja'],
     routing: {
-      prefixDefaultLocale: false, // ms lives at "/", en at "/en", zh at "/zh", ta at "/ta"
+      prefixDefaultLocale: false, // ms lives at "/", en at "/en", zh at "/zh", ta at "/ta", ja at "/ja"
     },
   },
   integrations: [
@@ -154,6 +154,14 @@ export default defineConfig({
       i18n: {
         defaultLocale: 'ms',
         locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta' },
+      },
+      // Soft-launched locales — routes exist but the locale is NOT yet in LOCALES
+      // (i18n.ts), so its pages are `noindex` and must also be kept OUT of the
+      // sitemap until open launch. `ja` is soft-launched (Japanese corpus landing);
+      // drop this filter + add `ja: 'ja'` to the i18n map above to go public.
+      filter: (page) => {
+        const p = page.replace(SITE, '');
+        return !(p === '/ja' || p === '/ja/' || p.startsWith('/ja/'));
       },
       serialize(item) {
         const lastmod = lastmodFor(item.url);

@@ -31,7 +31,7 @@ import matter from 'gray-matter';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const KNOWLEDGE = path.join(ROOT, 'knowledge');
 const DOCS = path.join(ROOT, 'docs');
-const LOCALES = ['ms', 'en', 'zh', 'ta'];
+const LOCALES = ['ms', 'en', 'zh', 'ta', 'ja'];
 
 const arg = (name) =>
   process.argv.includes(name) ? process.argv[process.argv.indexOf(name) + 1] : null;
@@ -49,7 +49,7 @@ const PROSE_KEYS = [
   'seoTitle', 'socialTitle', 'appliesTo', 'verificationNeeded', 'obligations',
 ];
 
-const LANG_NAME = { ms: 'Bahasa Malaysia', en: 'English', zh: 'Simplified Chinese (Malaysian usage)', ta: 'Tamil (Malaysian usage)' };
+const LANG_NAME = { ms: 'Bahasa Malaysia', en: 'English', zh: 'Simplified Chinese (Malaysian usage)', ta: 'Tamil (Malaysian usage)', ja: 'Japanese (Malaysian usage)' };
 
 async function walk(dir) {
   const out = [];
@@ -57,7 +57,7 @@ async function walk(dir) {
     const full = path.join(dir, e.name);
     if (e.isDirectory()) out.push(...(await walk(full)));
     // Master files are the bare `<slug>.md` (no `.en`/`.zh`/`.ms` locale suffix).
-    else if (e.name.endsWith('.md') && !/\.(ms|en|zh)\.md$/.test(e.name)) out.push(full);
+    else if (e.name.endsWith('.md') && !/\.(ms|en|zh|ta|ja)\.md$/.test(e.name)) out.push(full);
   }
   return out;
 }
@@ -75,6 +75,7 @@ async function loadContext() {
   GLOSSARY.zh = await readIfExists(path.join(DOCS, 'plans', 'GLOSSARY-ZH.md'));
   GLOSSARY.ms = await readIfExists(path.join(DOCS, 'plans', 'GLOSSARY-MS.md'));
   GLOSSARY.ta = await readIfExists(path.join(DOCS, 'plans', 'GLOSSARY-TA.md'));
+  GLOSSARY.ja = await readIfExists(path.join(DOCS, 'plans', 'GLOSSARY-JA.md'));
 }
 
 function systemPrompt(target) {
