@@ -11,7 +11,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const stats = await siteStats(locale);
 const articles = await articlesForLocale(locale);
 
@@ -35,36 +35,39 @@ const paths = [
     id: 'report',
     icon: '🚩',
     open: true,
-    title: L('Laporkan isu', 'Report an issue', '报告问题', 'ஒரு சிக்கலைப் புகாரளியுங்கள்'),
+    title: L('Laporkan isu', 'Report an issue', '报告问题', 'ஒரு சிக்கலைப் புகாரளியுங்கள்', '問題を報告'),
     desc: L(
       'Ada yang salah pada halaman sedia ada? Fakta silap, pautan rosak, maklumat lapuk, atau kebimbangan kandungan sensitif.',
       'Something wrong on an existing page? A wrong fact, broken link, outdated info, or a sensitive-content concern.',
       '现有页面有误？事实错误、链接失效、信息过时，或涉及敏感内容的顾虑。',
       'ஏற்கனவே உள்ள பக்கத்தில் ஏதேனும் தவறா? தவறான தகவல், உடைந்த இணைப்பு, காலாவதியான தகவல், அல்லது உணர்திறன் மிக்க உள்ளடக்கம் தொடர்பான கவலை.',
+      '既存のページに誤りがありますか。事実の誤り、リンク切れ、古い情報、または扱いに注意が必要な内容に関する懸念など。',
     ),
   },
   {
     id: 'suggest',
     icon: '💡',
     open: true,
-    title: L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进', 'ஒரு மேம்பாட்டைப் பரிந்துரையுங்கள்'),
+    title: L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进', 'ஒரு மேம்பாட்டைப் பரிந்துரையுங்கள்', '改善を提案'),
     desc: L(
       'Cadangkan topik yang belum ada. Pilih tempatnya dalam tonggak dan kategori kami — atau cadangkan yang baharu.',
       'Propose a topic we’re missing. Pick where it fits in our pillars and categories — or propose a new one.',
       '建议我们尚未涵盖的主题。选择它在我们支柱与分类中的位置——或提议新增。',
       'நாங்கள் இன்னும் சேர்க்காத ஒரு தலைப்பைப் பரிந்துரையுங்கள். எங்கள் தூண்கள் மற்றும் வகைகளில் அது எங்கு பொருந்துகிறது என்பதைத் தேர்ந்தெடுங்கள் — அல்லது புதிதாக ஒன்றைப் பரிந்துரையுங்கள்.',
+      'まだ扱っていないトピックを提案しましょう。柱とカテゴリーのどこに当てはまるかを選ぶか、新しいものを提案してください。',
     ),
   },
   {
     id: 'contribute',
     icon: '✍️',
     open: true,
-    title: L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்'),
+    title: L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献する'),
     desc: L(
       'Menulis atau menterjemah artikel melalui fork + pull request. Tiada jemputan diperlukan untuk bermula.',
       'Author or translate articles via fork + pull request. No invitation needed to start.',
       '通过 fork + pull request 撰写或翻译文章。无需邀请即可开始。',
       'fork + pull request மூலம் கட்டுரைகளை எழுதுங்கள் அல்லது மொழிபெயருங்கள். தொடங்க எந்த அழைப்பும் தேவையில்லை.',
+      'fork + pull request で記事を執筆または翻訳します。始めるのに招待は不要です。',
     ),
   },
 ];
@@ -73,23 +76,23 @@ const paths = [
 const stages = [
   {
     n: 1,
-    title: L('Triaj & backlog', 'Triage & backlog', '分流与待办', 'வகைப்படுத்தல் & நிலுவைப்பட்டியல்'),
-    body: L('Laporan disahkan; cadangan disemak kesesuaian dan pertindihan.', 'Reports are verified; suggestions are checked for fit and de-duplicated.', '核实报告；对建议进行适配性检查与去重。', 'புகார்கள் சரிபார்க்கப்படுகின்றன; பரிந்துரைகள் பொருத்தத்திற்காகச் சரிபார்க்கப்பட்டு நகல்கள் நீக்கப்படுகின்றன.'),
+    title: L('Triaj & backlog', 'Triage & backlog', '分流与待办', 'வகைப்படுத்தல் & நிலுவைப்பட்டியல்', 'トリアージとバックログ'),
+    body: L('Laporan disahkan; cadangan disemak kesesuaian dan pertindihan.', 'Reports are verified; suggestions are checked for fit and de-duplicated.', '核实报告；对建议进行适配性检查与去重。', 'புகார்கள் சரிபார்க்கப்படுகின்றன; பரிந்துரைகள் பொருத்தத்திற்காகச் சரிபார்க்கப்பட்டு நகல்கள் நீக்கப்படுகின்றன.', '報告は検証され、提案は適合性を確認して重複が除かれます。'),
   },
   {
     n: 2,
-    title: L('Draf', 'Draft', '起草', 'வரைவு'),
-    body: L('Seorang penyumbang menulisnya — dipandu AI, mengikut piawai kami.', 'A contributor writes it — AI-guided, to our standard.', '一位贡献者撰写——AI 引导，遵循我们的标准。', 'ஒரு பங்களிப்பாளர் அதை எழுதுகிறார் — AI வழிகாட்டுதலுடன், எங்கள் தரத்திற்கு ஏற்ப.'),
+    title: L('Draf', 'Draft', '起草', 'வரைவு', '起草'),
+    body: L('Seorang penyumbang menulisnya — dipandu AI, mengikut piawai kami.', 'A contributor writes it — AI-guided, to our standard.', '一位贡献者撰写——AI 引导，遵循我们的标准。', 'ஒரு பங்களிப்பாளர் அதை எழுதுகிறார் — AI வழிகாட்டுதலுடன், எங்கள் தரத்திற்கு ஏற்ப.', '貢献者が執筆します — AIの支援を受け、当サイトの基準に沿って。'),
   },
   {
     n: 3,
-    title: L('Semakan', 'Review', '审阅', 'மதிப்பாய்வு'),
-    body: L('Bersumber, neutral, dan kandungan sensitif disemak manusia.', 'Sourced, neutral, and sensitive content is human-reviewed.', '注明来源、保持中立，敏感内容经人工审阅。', 'ஆதாரத்துடன், நடுநிலையாக, மேலும் உணர்திறன் மிக்க உள்ளடக்கம் மனிதரால் மதிப்பாய்வு செய்யப்படுகிறது.'),
+    title: L('Semakan', 'Review', '审阅', 'மதிப்பாய்வு', 'レビュー'),
+    body: L('Bersumber, neutral, dan kandungan sensitif disemak manusia.', 'Sourced, neutral, and sensitive content is human-reviewed.', '注明来源、保持中立，敏感内容经人工审阅。', 'ஆதாரத்துடன், நடுநிலையாக, மேலும் உணர்திறன் மிக்க உள்ளடக்கம் மனிதரால் மதிப்பாய்வு செய்யப்படுகிறது.', '出典付きで中立、扱いに注意が必要な内容は人によるレビューを受けます。'),
   },
   {
     n: 4,
-    title: L('Terbit', 'Publish', '发布', 'வெளியீடு'),
-    body: L('Disiarkan dalam Bahasa Melayu, Inggeris dan Cina.', 'Goes live in Malay, English and Chinese.', '以马来文、英文和中文上线。', 'மலாய், ஆங்கிலம் மற்றும் சீன மொழிகளில் நேரலையாகிறது.'),
+    title: L('Terbit', 'Publish', '发布', 'வெளியீடு', '公開'),
+    body: L('Disiarkan dalam Bahasa Melayu, Inggeris dan Cina.', 'Goes live in Malay, English and Chinese.', '以马来文、英文和中文上线。', 'மலாய், ஆங்கிலம் மற்றும் சீன மொழிகளில் நேரலையாகிறது.', 'マレー語、英語、中国語で公開されます。'),
   },
 ];
 
@@ -98,6 +101,7 @@ const aiPrompt = L(
   'Help me write an article for NegaraKu.md about [TOPIC]. Use Markdown, a neutral tone, include verifiable sources, and follow the frontmatter schema in CONTRIBUTING.md.',
   '帮我为 NegaraKu.md 撰写一篇关于[主题]的文章。使用 Markdown、中立语气、附上可核实的来源，并遵循 CONTRIBUTING.md 的 frontmatter 规范。',
   'NegaraKu.md-க்காக [TOPIK] பற்றி ஒரு கட்டுரை எழுத எனக்கு உதவுங்கள். Markdown-ஐப் பயன்படுத்துங்கள், நடுநிலையான தொனியைக் கடைப்பிடியுங்கள், சரிபார்க்கக்கூடிய ஆதாரங்களைச் சேர்க்கவும், மேலும் CONTRIBUTING.md-இல் உள்ள frontmatter திட்டத்தைப் பின்பற்றவும்.',
+  'NegaraKu.md 向けに[TOPIC]についての記事を書くのを手伝ってください。Markdownを使い、中立的な語調で、検証可能な出典を含め、CONTRIBUTING.md のフロントマター・スキーマに従ってください。',
 );
 
 // Requesting to contribute goes to GitHub Discussions (a friendly "introduce
@@ -128,21 +132,22 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு'), href: localePath('/', locale) },
-    { label: L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
+    { label: L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献') },
   ]}
-  title={L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献', 'NegaraKu.md-க்குப் பங்களியுங்கள்')}
+  title={L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献', 'NegaraKu.md-க்குப் பங்களியுங்கள்', 'NegaraKu.md に貢献する')}
   desc={L(
     'Tiga cara untuk mengambil bahagian — semuanya terbuka. Lapor, cadang, atau tulis dan terjemah artikel melalui fork + pull request.',
     'Three ways to take part — all open. Report, suggest, or author and translate articles via fork + pull request.',
     '三种参与方式——全部开放。通过 fork + pull request 报告、建议，或撰写与翻译文章。',
     'பங்கேற்க மூன்று வழிகள் — அனைத்தும் திறந்திருக்கின்றன. fork + pull request மூலம் புகாரளியுங்கள், பரிந்துரையுங்கள், அல்லது கட்டுரைகளை எழுதி மொழிபெயருங்கள்.',
+    '参加する方法は3つ — すべて開かれています。fork + pull request で報告、提案、または記事の執筆と翻訳を行えます。',
   )}
   stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்') },
-    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー') },
+    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー') },
+    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック') },
   ]}
 />
 
@@ -152,7 +157,7 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
     {paths.map((p) => (
       <a class="pathcard" href={`#${p.id}`}>
         <span class="pi" aria-hidden="true">{p.icon}</span>
-        <span class={`ptag ${p.open ? 'open' : 'invite'}`}>{p.open ? L('Terbuka untuk semua', 'Open to all', '人人可参与', 'அனைவருக்கும் திறந்தது') : L('Secara jemputan', 'By invitation', '邀请制', 'அழைப்பின் பேரில்')}</span>
+        <span class={`ptag ${p.open ? 'open' : 'invite'}`}>{p.open ? L('Terbuka untuk semua', 'Open to all', '人人可参与', 'அனைவருக்கும் திறந்தது', '誰でも参加可能') : L('Secara jemputan', 'By invitation', '邀请制', 'அழைப்பின் பேரில்', '招待制')}</span>
         <b>{p.title}</b>
         <p>{p.desc}</p>
       </a>
@@ -163,12 +168,12 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
 <!-- Lifecycle -->
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Kitaran hayat sumbangan', 'The contribution lifecycle', '贡献的生命周期', 'பங்களிப்பின் வாழ்க்கைச் சுழற்சி')}</span></header>
+    <header><span>{L('Kitaran hayat sumbangan', 'The contribution lifecycle', '贡献的生命周期', 'பங்களிப்பின் வாழ்க்கைச் சுழற்சி', '貢献のライフサイクル')}</span></header>
     <div class="psec-body">
       <div class="lc-enters" aria-hidden="true">
-        <span class="lc-enter">🚩 {L('Lapor', 'Report', '报告', 'புகாரளி')}</span>
-        <span class="lc-enter">💡 {L('Cadang', 'Suggest', '建议', 'பரிந்துரை')}</span>
-        <span class="lc-enter">✍️ {L('Sumbang', 'Contribute', '贡献', 'பங்களி')}</span>
+        <span class="lc-enter">🚩 {L('Lapor', 'Report', '报告', 'புகாரளி', '報告')}</span>
+        <span class="lc-enter">💡 {L('Cadang', 'Suggest', '建议', 'பரிந்துரை', '提案')}</span>
+        <span class="lc-enter">✍️ {L('Sumbang', 'Contribute', '贡献', 'பங்களி', '貢献')}</span>
         <span class="lc-join">→</span>
       </div>
       <ol class="lc-stages">
@@ -187,48 +192,48 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
 <!-- SUGGEST -->
 <section class="container block" id="suggest">
   <div class="psec">
-    <header><span>💡 {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进', 'ஒரு மேம்பாட்டைப் பரிந்துரையுங்கள்')}</span></header>
+    <header><span>💡 {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进', 'ஒரு மேம்பாட்டைப் பரிந்துரையுங்கள்', '改善を提案')}</span></header>
     <div class="psec-body">
-      <p class="lead">{L('Pilih di mana topik anda sesuai. Jika kategori atau topik belum ada, cadangkan yang baharu.', 'Choose where your topic fits. If the category or topic doesn’t exist yet, propose a new one.', '选择你的主题所属位置。若分类或主题尚不存在，可提议新增。', 'உங்கள் தலைப்பு எங்கு பொருந்துகிறது என்பதைத் தேர்ந்தெடுங்கள். வகை அல்லது தலைப்பு இன்னும் இல்லையென்றால், புதிதாக ஒன்றைப் பரிந்துரையுங்கள்.')}</p>
+      <p class="lead">{L('Pilih di mana topik anda sesuai. Jika kategori atau topik belum ada, cadangkan yang baharu.', 'Choose where your topic fits. If the category or topic doesn’t exist yet, propose a new one.', '选择你的主题所属位置。若分类或主题尚不存在，可提议新增。', 'உங்கள் தலைப்பு எங்கு பொருந்துகிறது என்பதைத் தேர்ந்தெடுங்கள். வகை அல்லது தலைப்பு இன்னும் இல்லையென்றால், புதிதாக ஒன்றைப் பரிந்துரையுங்கள்.', 'トピックが当てはまる場所を選んでください。カテゴリーやトピックがまだ存在しない場合は、新しいものを提案してください。')}</p>
       <div class="form-grid">
       <form class="cform sform" data-repo={REPO} data-labels={SUGGEST_LABELS}>
-        <label>{L('Tonggak', 'Pillar', '支柱', 'தூண்')}
+        <label>{L('Tonggak', 'Pillar', '支柱', 'தூண்', '柱')}
           <select name="section" required>
-            <option value="" disabled selected>{L('Pilih tonggak…', 'Choose a pillar…', '选择支柱……', 'ஒரு தூணைத் தேர்ந்தெடுக்கவும்…')}</option>
+            <option value="" disabled selected>{L('Pilih tonggak…', 'Choose a pillar…', '选择支柱……', 'ஒரு தூணைத் தேர்ந்தெடுக்கவும்…', '柱を選択…')}</option>
             {taxonomy.map((s) => <option value={s.id}>{s.name}</option>)}
           </select>
         </label>
-        <label>{L('Kategori', 'Category', '分类', 'வகை')}
+        <label>{L('Kategori', 'Category', '分类', 'வகை', 'カテゴリー')}
           <select name="category" required disabled>
-            <option value="" disabled selected>{L('Pilih tonggak dahulu…', 'Choose a pillar first…', '请先选择支柱……', 'முதலில் ஒரு தூணைத் தேர்ந்தெடுக்கவும்…')}</option>
+            <option value="" disabled selected>{L('Pilih tonggak dahulu…', 'Choose a pillar first…', '请先选择支柱……', 'முதலில் ஒரு தூணைத் தேர்ந்தெடுக்கவும்…', '先に柱を選択…')}</option>
           </select>
         </label>
-        <label class="newcat-wrap" hidden>{L('Nama kategori baharu', 'New category name', '新分类名称', 'புதிய வகையின் பெயர்')}
-          <input name="newcategory" placeholder={L('cth. Insurans', 'e.g. Insurance', '例如：保险', 'எ.கா. காப்பீடு')} />
+        <label class="newcat-wrap" hidden>{L('Nama kategori baharu', 'New category name', '新分类名称', 'புதிய வகையின் பெயர்', '新しいカテゴリー名')}
+          <input name="newcategory" placeholder={L('cth. Insurans', 'e.g. Insurance', '例如：保险', 'எ.கா. காப்பீடு', '例：保険')} />
         </label>
-        <label>{L('Topik', 'Topic', '主题', 'தலைப்பு')}
-          <input name="topic" list="topics" required autocomplete="off" placeholder={L('cth. Cukai jualan untuk PKS', 'e.g. Sales tax for SMEs', '例如：中小企业销售税', 'எ.கா. சிறு-நடுத்தர நிறுவனங்களுக்கான விற்பனை வரி')} />
+        <label>{L('Topik', 'Topic', '主题', 'தலைப்பு', 'トピック')}
+          <input name="topic" list="topics" required autocomplete="off" placeholder={L('cth. Cukai jualan untuk PKS', 'e.g. Sales tax for SMEs', '例如：中小企业销售税', 'எ.கா. சிறு-நடுத்தர நிறுவனங்களுக்கான விற்பனை வரி', '例：中小企業向けの売上税')} />
           <datalist id="topics"></datalist>
           <small class="dupe-hint" hidden></small>
         </label>
-        <label>{L('Kenapa ia penting?', 'Why it matters', '为何重要', 'ஏன் இது முக்கியம்')}<textarea name="why" rows="3" placeholder={L('Siapa yang memerlukannya dan mengapa…', 'Who needs it and why…', '谁需要它、为什么……', 'யாருக்கு இது தேவை, ஏன்…')}></textarea></label>
-        <label>{L('Sumber (pilihan)', 'Sources (optional)', '来源（可选）', 'ஆதாரங்கள் (விருப்பத்தேர்வு)')}<input name="source" placeholder="https://…" /></label>
-        <button type="submit" class="btn btn-primary">{L('Hantar cadangan', 'Send suggestion', '提交建议', 'பரிந்துரையை அனுப்பு')}</button>
-        <p class="muted">{L('Membuka isu GitHub yang telah diisi. Tiada jemputan diperlukan untuk mencadang.', 'Opens a pre-filled GitHub issue. No invitation needed to suggest.', '打开一个预填的 GitHub issue。提交建议无需邀请。', 'முன்பே நிரப்பப்பட்ட GitHub issue-ஐத் திறக்கிறது. பரிந்துரைக்க எந்த அழைப்பும் தேவையில்லை.')}</p>
+        <label>{L('Kenapa ia penting?', 'Why it matters', '为何重要', 'ஏன் இது முக்கியம்', 'なぜ重要か')}<textarea name="why" rows="3" placeholder={L('Siapa yang memerlukannya dan mengapa…', 'Who needs it and why…', '谁需要它、为什么……', 'யாருக்கு இது தேவை, ஏன்…', '誰が必要とし、なぜか…')}></textarea></label>
+        <label>{L('Sumber (pilihan)', 'Sources (optional)', '来源（可选）', 'ஆதாரங்கள் (விருப்பத்தேர்வு)', '出典（任意）')}<input name="source" placeholder="https://…" /></label>
+        <button type="submit" class="btn btn-primary">{L('Hantar cadangan', 'Send suggestion', '提交建议', 'பரிந்துரையை அனுப்பு', '提案を送信')}</button>
+        <p class="muted">{L('Membuka isu GitHub yang telah diisi. Tiada jemputan diperlukan untuk mencadang.', 'Opens a pre-filled GitHub issue. No invitation needed to suggest.', '打开一个预填的 GitHub issue。提交建议无需邀请。', 'முன்பே நிரப்பப்பட்ட GitHub issue-ஐத் திறக்கிறது. பரிந்துரைக்க எந்த அழைப்பும் தேவையில்லை.', '入力済みの GitHub issue を開きます。提案に招待は不要です。')}</p>
       </form>
       <aside class="form-help">
-        <b>{L('Cadangan yang baik', 'A good suggestion', '好的建议', 'ஒரு நல்ல பரிந்துரை')}</b>
+        <b>{L('Cadangan yang baik', 'A good suggestion', '好的建议', 'ஒரு நல்ல பரிந்துரை', '良い提案とは')}</b>
         <ul>
-          <li>{L('Namakan topik yang jelas dan khusus', 'Names a clear, specific topic', '给出清晰、具体的主题', 'தெளிவான, குறிப்பிட்ட தலைப்பைப் பெயரிடுகிறது')}</li>
-          <li>{L('Nyatakan siapa memerlukannya dan mengapa', 'Says who needs it and why', '说明谁需要它、为什么', 'யாருக்கு இது தேவை, ஏன் என்பதைக் கூறுகிறது')}</li>
-          <li>{L('Sertakan sumber jika ada', 'Adds a source if you have one', '如有来源请附上', 'உங்களிடம் ஆதாரம் இருந்தால் சேர்க்கிறது')}</li>
+          <li>{L('Namakan topik yang jelas dan khusus', 'Names a clear, specific topic', '给出清晰、具体的主题', 'தெளிவான, குறிப்பிட்ட தலைப்பைப் பெயரிடுகிறது', '明確で具体的なトピックを挙げている')}</li>
+          <li>{L('Nyatakan siapa memerlukannya dan mengapa', 'Says who needs it and why', '说明谁需要它、为什么', 'யாருக்கு இது தேவை, ஏன் என்பதைக் கூறுகிறது', '誰が必要とし、なぜかを述べている')}</li>
+          <li>{L('Sertakan sumber jika ada', 'Adds a source if you have one', '如有来源请附上', 'உங்களிடம் ஆதாரம் இருந்தால் சேர்க்கிறது', '出典があれば添えている')}</li>
         </ul>
-        <b>{L('Apa yang berlaku seterusnya', 'What happens next', '接下来会怎样', 'அடுத்து என்ன நடக்கும்')}</b>
+        <b>{L('Apa yang berlaku seterusnya', 'What happens next', '接下来会怎样', 'அடுத்து என்ன நடக்கும்', '次に起こること')}</b>
         <ol>
-          <li>{L('Disemak untuk kesesuaian & pertindihan', 'Checked for fit and duplicates', '检查适配性与去重', 'பொருத்தம் & நகல்களுக்காகச் சரிபார்க்கப்படுகிறது')}</li>
-          <li>{L('Ditambah ke backlog', 'Added to the backlog', '加入待办', 'நிலுவைப்பட்டியலில் சேர்க்கப்படுகிறது')}</li>
-          <li>{L('Didraf oleh seorang penyumbang', 'Drafted by a contributor', '由贡献者起草', 'ஒரு பங்களிப்பாளரால் வரையப்படுகிறது')}</li>
-          <li>{L('Diterbitkan dalam empat bahasa', 'Published in four languages', '以四语发布', 'நான்கு மொழிகளில் வெளியிடப்படுகிறது')}</li>
+          <li>{L('Disemak untuk kesesuaian & pertindihan', 'Checked for fit and duplicates', '检查适配性与去重', 'பொருத்தம் & நகல்களுக்காகச் சரிபார்க்கப்படுகிறது', '適合性と重複を確認')}</li>
+          <li>{L('Ditambah ke backlog', 'Added to the backlog', '加入待办', 'நிலுவைப்பட்டியலில் சேர்க்கப்படுகிறது', 'バックログに追加')}</li>
+          <li>{L('Didraf oleh seorang penyumbang', 'Drafted by a contributor', '由贡献者起草', 'ஒரு பங்களிப்பாளரால் வரையப்படுகிறது', '貢献者が起草')}</li>
+          <li>{L('Diterbitkan dalam empat bahasa', 'Published in four languages', '以四语发布', 'நான்கு மொழிகளில் வெளியிடப்படுகிறது', '4言語で公開')}</li>
         </ol>
       </aside>
       </div>
@@ -239,43 +244,43 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
 <!-- REPORT -->
 <section class="container block" id="report">
   <div class="psec">
-    <header><span>🚩 {L('Laporkan isu', 'Report an issue', '报告问题', 'ஒரு சிக்கலைப் புகாரளியுங்கள்')}</span></header>
+    <header><span>🚩 {L('Laporkan isu', 'Report an issue', '报告问题', 'ஒரு சிக்கலைப் புகாரளியுங்கள்', '問題を報告')}</span></header>
     <div class="psec-body">
-      <p class="lead">{L('Laporan berkaitan halaman tertentu. Cara terpantas: guna pautan “Laporkan isu” di bahagian bawah mana-mana artikel — ia telah mengisi tajuk dan URL untuk anda.', 'A report is about a specific page. The fastest way: use the “Report an issue” link at the bottom of any article — it pre-fills the title and URL for you.', '报告针对具体页面。最快方式：使用任意文章底部的"报告问题"链接——它已为你预填标题和网址。', 'ஒரு புகார் ஒரு குறிப்பிட்ட பக்கத்தைப் பற்றியது. விரைவான வழி: எந்தக் கட்டுரையின் அடிப்பகுதியிலும் உள்ள “ஒரு சிக்கலைப் புகாரளியுங்கள்” இணைப்பைப் பயன்படுத்துங்கள் — அது உங்களுக்காகத் தலைப்பையும் URL-ஐயும் முன்பே நிரப்புகிறது.')}</p>
+      <p class="lead">{L('Laporan berkaitan halaman tertentu. Cara terpantas: guna pautan “Laporkan isu” di bahagian bawah mana-mana artikel — ia telah mengisi tajuk dan URL untuk anda.', 'A report is about a specific page. The fastest way: use the “Report an issue” link at the bottom of any article — it pre-fills the title and URL for you.', '报告针对具体页面。最快方式：使用任意文章底部的"报告问题"链接——它已为你预填标题和网址。', 'ஒரு புகார் ஒரு குறிப்பிட்ட பக்கத்தைப் பற்றியது. விரைவான வழி: எந்தக் கட்டுரையின் அடிப்பகுதியிலும் உள்ள “ஒரு சிக்கலைப் புகாரளியுங்கள்” இணைப்பைப் பயன்படுத்துங்கள் — அது உங்களுக்காகத் தலைப்பையும் URL-ஐயும் முன்பே நிரப்புகிறது.', '報告は特定のページに関するものです。最も速い方法は、記事の下部にある「問題を報告」リンクを使うことです — タイトルと URL があらかじめ入力されます。')}</p>
       <div class="form-grid">
       <form class="cform rform" data-repo={REPO} data-labels={REPORT_LABELS}>
-        <label>{L('URL halaman', 'Page URL', '页面网址', 'பக்கத்தின் URL')}<input name="url" required placeholder="https://negaraku.md/…" /></label>
-        <label>{L('Jenis', 'Type', '类型', 'வகை')}
+        <label>{L('URL halaman', 'Page URL', '页面网址', 'பக்கத்தின் URL', 'ページ URL')}<input name="url" required placeholder="https://negaraku.md/…" /></label>
+        <label>{L('Jenis', 'Type', '类型', 'வகை', '種類')}
           <select name="type" required>
-            <option value="" disabled selected>{L('Pilih jenis…', 'Choose a type…', '选择类型……', 'ஒரு வகையைத் தேர்ந்தெடுக்கவும்…')}</option>
-            <option value="factual">{L('Fakta silap', 'Factual error', '事实错误', 'தகவல் பிழை')}</option>
-            <option value="outdated">{L('Maklumat lapuk', 'Outdated', '信息过时', 'காலாவதியானது')}</option>
-            <option value="link">{L('Pautan rosak', 'Broken link', '链接失效', 'உடைந்த இணைப்பு')}</option>
-            <option value="typo">{L('Salah taip / bahasa', 'Typo / wording', '错别字 / 措辞', 'எழுத்துப் பிழை / சொற்பிரயோகம்')}</option>
-            <option value="sensitive">{L('Kebimbangan sensitif', 'Sensitive-content concern', '敏感内容顾虑', 'உணர்திறன் மிக்க உள்ளடக்கம் தொடர்பான கவலை')}</option>
-            <option value="other">{L('Lain-lain', 'Other', '其他', 'மற்றவை')}</option>
+            <option value="" disabled selected>{L('Pilih jenis…', 'Choose a type…', '选择类型……', 'ஒரு வகையைத் தேர்ந்தெடுக்கவும்…', '種類を選択…')}</option>
+            <option value="factual">{L('Fakta silap', 'Factual error', '事实错误', 'தகவல் பிழை', '事実の誤り')}</option>
+            <option value="outdated">{L('Maklumat lapuk', 'Outdated', '信息过时', 'காலாவதியானது', '情報が古い')}</option>
+            <option value="link">{L('Pautan rosak', 'Broken link', '链接失效', 'உடைந்த இணைப்பு', 'リンク切れ')}</option>
+            <option value="typo">{L('Salah taip / bahasa', 'Typo / wording', '错别字 / 措辞', 'எழுத்துப் பிழை / சொற்பிரயோகம்', '誤字 / 表現')}</option>
+            <option value="sensitive">{L('Kebimbangan sensitif', 'Sensitive-content concern', '敏感内容顾虑', 'உணர்திறன் மிக்க உள்ளடக்கம் தொடர்பான கவலை', '扱いに注意が必要な内容の懸念')}</option>
+            <option value="other">{L('Lain-lain', 'Other', '其他', 'மற்றவை', 'その他')}</option>
           </select>
         </label>
-        <label class="type-other-wrap" hidden>{L('Nyatakan jenis', 'Specify the type', '请说明类型', 'வகையைக் குறிப்பிடவும்')}
-          <input name="typeOther" placeholder={L('cth. Imej rosak', 'e.g. Broken image', '例如：图片损坏', 'எ.கா. உடைந்த படம்')} />
+        <label class="type-other-wrap" hidden>{L('Nyatakan jenis', 'Specify the type', '请说明类型', 'வகையைக் குறிப்பிடவும்', '種類を指定')}
+          <input name="typeOther" placeholder={L('cth. Imej rosak', 'e.g. Broken image', '例如：图片损坏', 'எ.கா. உடைந்த படம்', '例：画像の破損')} />
         </label>
-        <label>{L('Apa yang salah?', 'What’s wrong?', '哪里有问题？', 'என்ன தவறு?')}<textarea name="detail" rows="4" required placeholder={L('Terangkan isu, dan versi yang betul jika tahu…', 'Describe the issue, and the correct version if you know it…', '描述问题，若知道正确内容也请写出……', 'சிக்கலை விவரியுங்கள், தெரிந்தால் சரியான பதிப்பையும் குறிப்பிடுங்கள்…')}></textarea></label>
-        <label>{L('Sumber (pilihan)', 'Source (optional)', '来源（可选）', 'ஆதாரம் (விருப்பத்தேர்வு)')}<input name="source" placeholder="https://…" /></label>
-        <button type="submit" class="btn btn-primary">{L('Hantar laporan', 'Send report', '提交报告', 'புகாரை அனுப்பு')}</button>
-        <p class="muted">{L('Membuka isu GitHub yang telah diisi. Penyerahan tanpa nama dibenarkan.', 'Opens a pre-filled GitHub issue. Anonymous submissions allowed.', '打开一个预填的 GitHub issue。允许匿名提交。', 'முன்பே நிரப்பப்பட்ட GitHub issue-ஐத் திறக்கிறது. பெயர் தெரிவிக்காத சமர்ப்பிப்புகள் அனுமதிக்கப்படுகின்றன.')}</p>
+        <label>{L('Apa yang salah?', 'What’s wrong?', '哪里有问题？', 'என்ன தவறு?', 'どこが問題ですか')}<textarea name="detail" rows="4" required placeholder={L('Terangkan isu, dan versi yang betul jika tahu…', 'Describe the issue, and the correct version if you know it…', '描述问题，若知道正确内容也请写出……', 'சிக்கலை விவரியுங்கள், தெரிந்தால் சரியான பதிப்பையும் குறிப்பிடுங்கள்…', '問題を説明し、分かれば正しい内容も記してください…')}></textarea></label>
+        <label>{L('Sumber (pilihan)', 'Source (optional)', '来源（可选）', 'ஆதாரம் (விருப்பத்தேர்வு)', '出典（任意）')}<input name="source" placeholder="https://…" /></label>
+        <button type="submit" class="btn btn-primary">{L('Hantar laporan', 'Send report', '提交报告', 'புகாரை அனுப்பு', '報告を送信')}</button>
+        <p class="muted">{L('Membuka isu GitHub yang telah diisi. Penyerahan tanpa nama dibenarkan.', 'Opens a pre-filled GitHub issue. Anonymous submissions allowed.', '打开一个预填的 GitHub issue。允许匿名提交。', 'முன்பே நிரப்பப்பட்ட GitHub issue-ஐத் திறக்கிறது. பெயர் தெரிவிக்காத சமர்ப்பிப்புகள் அனுமதிக்கப்படுகின்றன.', '入力済みの GitHub issue を開きます。匿名での送信も可能です。')}</p>
       </form>
       <aside class="form-help">
-        <b>{L('Laporan yang baik', 'A good report', '好的报告', 'ஒரு நல்ல புகார்')}</b>
+        <b>{L('Laporan yang baik', 'A good report', '好的报告', 'ஒரு நல்ல புகார்', '良い報告とは')}</b>
         <ul>
-          <li>{L('Petik teks yang salah dengan tepat', 'Quotes the exact wrong text', '准确引用出错的文字', 'தவறான உரையைச் சரியாக மேற்கோள் காட்டுகிறது')}</li>
-          <li>{L('Berikan versi yang betul', 'Gives the correct version', '给出正确的版本', 'சரியான பதிப்பைத் தருகிறது')}</li>
-          <li>{L('Pautkan sumber jika boleh', 'Links a source if you can', '尽量附上来源', 'முடிந்தால் ஒரு ஆதாரத்தை இணைக்கிறது')}</li>
+          <li>{L('Petik teks yang salah dengan tepat', 'Quotes the exact wrong text', '准确引用出错的文字', 'தவறான உரையைச் சரியாக மேற்கோள் காட்டுகிறது', '誤っている箇所を正確に引用している')}</li>
+          <li>{L('Berikan versi yang betul', 'Gives the correct version', '给出正确的版本', 'சரியான பதிப்பைத் தருகிறது', '正しい内容を示している')}</li>
+          <li>{L('Pautkan sumber jika boleh', 'Links a source if you can', '尽量附上来源', 'முடிந்தால் ஒரு ஆதாரத்தை இணைக்கிறது', '可能なら出典をリンクしている')}</li>
         </ul>
-        <b>{L('Apa yang berlaku seterusnya', 'What happens next', '接下来会怎样', 'அடுத்து என்ன நடக்கும்')}</b>
+        <b>{L('Apa yang berlaku seterusnya', 'What happens next', '接下来会怎样', 'அடுத்து என்ன நடக்கும்', '次に起こること')}</b>
         <ol>
-          <li>{L('Ditriaj dan disahkan dengan sumber', 'Triaged and verified against the source', '分流并对照来源核实', 'வகைப்படுத்தப்பட்டு ஆதாரத்துடன் ஒப்பிட்டுச் சரிபார்க்கப்படுகிறது')}</li>
-          <li>{L('Dibetulkan oleh seorang penyumbang', 'Fixed by a contributor', '由贡献者修正', 'ஒரு பங்களிப்பாளரால் சரிசெய்யப்படுகிறது')}</li>
-          <li>{L('Diterbitkan semula dalam empat bahasa', 'Republished in all four languages', '以四语重新发布', 'நான்கு மொழிகளிலும் மீண்டும் வெளியிடப்படுகிறது')}</li>
+          <li>{L('Ditriaj dan disahkan dengan sumber', 'Triaged and verified against the source', '分流并对照来源核实', 'வகைப்படுத்தப்பட்டு ஆதாரத்துடன் ஒப்பிட்டுச் சரிபார்க்கப்படுகிறது', 'トリアージし出典と照合して検証')}</li>
+          <li>{L('Dibetulkan oleh seorang penyumbang', 'Fixed by a contributor', '由贡献者修正', 'ஒரு பங்களிப்பாளரால் சரிசெய்யப்படுகிறது', '貢献者が修正')}</li>
+          <li>{L('Diterbitkan semula dalam empat bahasa', 'Republished in all four languages', '以四语重新发布', 'நான்கு மொழிகளிலும் மீண்டும் வெளியிடப்படுகிறது', '4言語で再公開')}</li>
         </ol>
       </aside>
       </div>
@@ -286,14 +291,14 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
 <!-- SITE FEEDBACK (the website itself, not article content) -->
 <section class="container block" id="site">
   <div class="psec">
-    <header><span>🛠️ {L('Tentang laman ini', 'About the website itself', '关于本网站', 'இந்த வலைத்தளத்தைப் பற்றி')}</span></header>
+    <header><span>🛠️ {L('Tentang laman ini', 'About the website itself', '关于本网站', 'இந்த வலைத்தளத்தைப் பற்றி', 'このサイトについて')}</span></header>
     <div class="psec-body">
-      <p class="lead">{L('Bukan tentang kandungan artikel, tetapi laman web ini — pepijat paparan, atau idea untuk menjadikannya lebih baik.', 'Not about an article’s content, but the website — a display bug, or an idea to make it better.', '与文章内容无关，而是关于网站本身——显示故障，或让它更好的想法。', 'ஒரு கட்டுரையின் உள்ளடக்கத்தைப் பற்றியது அல்ல, மாறாக வலைத்தளத்தைப் பற்றியது — காட்சிப் பிழை, அல்லது அதை மேம்படுத்தும் ஒரு யோசனை.')}</p>
+      <p class="lead">{L('Bukan tentang kandungan artikel, tetapi laman web ini — pepijat paparan, atau idea untuk menjadikannya lebih baik.', 'Not about an article’s content, but the website — a display bug, or an idea to make it better.', '与文章内容无关，而是关于网站本身——显示故障，或让它更好的想法。', 'ஒரு கட்டுரையின் உள்ளடக்கத்தைப் பற்றியது அல்ல, மாறாக வலைத்தளத்தைப் பற்றியது — காட்சிப் பிழை, அல்லது அதை மேம்படுத்தும் ஒரு யோசனை.', '記事の内容ではなく、このサイト自体について — 表示の不具合や、より良くするためのアイデアなど。')}</p>
       <div class="site-acts">
-        <a class="btn btn-primary" href={siteBugUrl} rel="noopener">🐞 {L('Laporkan pepijat laman', 'Report a website bug', '报告网站故障', 'வலைத்தளப் பிழையைப் புகாரளியுங்கள்')} ↗</a>
-        <a class="btn btn-ghost" href={siteImproveUrl} rel="noopener">✨ {L('Cadangkan penambahbaikan laman', 'Suggest a site improvement', '建议网站改进', 'வலைத்தள மேம்பாட்டைப் பரிந்துரையுங்கள்')} ↗</a>
+        <a class="btn btn-primary" href={siteBugUrl} rel="noopener">🐞 {L('Laporkan pepijat laman', 'Report a website bug', '报告网站故障', 'வலைத்தளப் பிழையைப் புகாரளியுங்கள்', 'サイトの不具合を報告')} ↗</a>
+        <a class="btn btn-ghost" href={siteImproveUrl} rel="noopener">✨ {L('Cadangkan penambahbaikan laman', 'Suggest a site improvement', '建议网站改进', 'வலைத்தள மேம்பாட்டைப் பரிந்துரையுங்கள்', 'サイトの改善を提案')} ↗</a>
       </div>
-      <p class="muted">{L('Membuka isu GitHub yang telah diisi.', 'Opens a pre-filled GitHub issue.', '打开一个预填的 GitHub issue。', 'முன்பே நிரப்பப்பட்ட GitHub issue-ஐத் திறக்கிறது.')}</p>
+      <p class="muted">{L('Membuka isu GitHub yang telah diisi.', 'Opens a pre-filled GitHub issue.', '打开一个预填的 GitHub issue。', 'முன்பே நிரப்பப்பட்ட GitHub issue-ஐத் திறக்கிறது.', '入力済みの GitHub issue を開きます。')}</p>
     </div>
   </div>
 </section>
@@ -301,39 +306,39 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
 <!-- CONTRIBUTE (open via GitHub) -->
 <section class="container block two" id="contribute">
   <div class="psec">
-    <header><span>✍️ {L('Sumbang — terbuka melalui GitHub', 'Contribute — open via GitHub', '贡献 — 通过 GitHub 开放', 'பங்களியுங்கள் — GitHub மூலம் திறந்தது')}</span></header>
+    <header><span>✍️ {L('Sumbang — terbuka melalui GitHub', 'Contribute — open via GitHub', '贡献 — 通过 GitHub 开放', 'பங்களியுங்கள் — GitHub மூலம் திறந்தது', '貢献 — GitHub で誰でも参加可能')}</span></header>
     <div class="psec-body">
-      <p class="lead">{L('Penulisan dan terjemahan terbuka untuk semua melalui fork + pull request — tiada jemputan diperlukan. Topik sensitif disemak manusia sebelum terbit.', 'Authoring and translation are open to all via fork + pull request — no invitation needed. Sensitive topics get a human review before publishing.', '撰写与翻译通过 fork + pull request 向所有人开放——无需邀请。敏感主题在发布前经人工审阅。', 'எழுதுதல் மற்றும் மொழிபெயர்ப்பு fork + pull request மூலம் அனைவருக்கும் திறந்திருக்கின்றன — எந்த அழைப்பும் தேவையில்லை. உணர்திறன் மிக்க தலைப்புகள் வெளியிடுவதற்கு முன் மனிதரால் மதிப்பாய்வு செய்யப்படுகின்றன.')}</p>
+      <p class="lead">{L('Penulisan dan terjemahan terbuka untuk semua melalui fork + pull request — tiada jemputan diperlukan. Topik sensitif disemak manusia sebelum terbit.', 'Authoring and translation are open to all via fork + pull request — no invitation needed. Sensitive topics get a human review before publishing.', '撰写与翻译通过 fork + pull request 向所有人开放——无需邀请。敏感主题在发布前经人工审阅。', 'எழுதுதல் மற்றும் மொழிபெயர்ப்பு fork + pull request மூலம் அனைவருக்கும் திறந்திருக்கின்றன — எந்த அழைப்பும் தேவையில்லை. உணர்திறன் மிக்க தலைப்புகள் வெளியிடுவதற்கு முன் மனிதரால் மதிப்பாய்வு செய்யப்படுகின்றன.', '執筆と翻訳は fork + pull request で誰でも参加できます — 招待は不要です。扱いに注意が必要なトピックは公開前に人によるレビューを受けます。')}</p>
       <ol class="steps">
-        <li><b>{L('Fork & draf', 'Fork & draft', 'Fork 并起草', 'Fork & வரைவு')}</b><span>{L('Fork repo dan tulis artikel anda dalam Markdown — gunakan gesaan AI di sebelah, ikut CONTRIBUTING.md.', 'Fork the repo and write your article in Markdown — use the AI prompt on the right, following CONTRIBUTING.md.', 'Fork 仓库并用 Markdown 撰写文章——使用右侧的 AI 提示，遵循 CONTRIBUTING.md。', 'repo-ஐ fork செய்து உங்கள் கட்டுரையை Markdown-இல் எழுதுங்கள் — வலதுபுறத்தில் உள்ள AI கட்டளையைப் பயன்படுத்தி, CONTRIBUTING.md-ஐப் பின்பற்றுங்கள்.')}</span></li>
-        <li><b>{L('Buka pull request', 'Open a pull request', '发起 pull request', 'ஒரு pull request-ஐத் திறங்கள்')}</b><span>{L('Hantar — sesiapa boleh, tiada jemputan diperlukan.', 'Submit it — anyone can, no invitation needed.', '提交——任何人都可以，无需邀请。', 'சமர்ப்பியுங்கள் — யார் வேண்டுமானாலும் செய்யலாம், எந்த அழைப்பும் தேவையில்லை.')}</span></li>
-        <li><b>{L('Semakan', 'Review', '审阅', 'மதிப்பாய்வு')}</b><span>{L('Seorang penyemak menyemaknya; kandungan sensitif mendapat tandatangan manusia.', 'A reviewer checks it; sensitive content gets a human sign-off.', '审阅者进行检查；敏感内容需人工签署。', 'ஒரு மதிப்பாய்வாளர் அதைச் சரிபார்க்கிறார்; உணர்திறன் மிக்க உள்ளடக்கம் மனிதரின் ஒப்புதலைப் பெறுகிறது.')}</span></li>
-        <li><b>{L('Terbit', 'Publish', '发布', 'வெளியீடு')}</b><span>{L('Digabung dan disiarkan empat bahasa — anda ditambah ke sejarah perubahan.', 'Merged and live in four languages — you’re added to the change history.', '合并并以四语上线——你会被加入修改历史。', 'இணைக்கப்பட்டு நான்கு மொழிகளில் நேரலையாகிறது — நீங்கள் மாற்ற வரலாற்றில் சேர்க்கப்படுகிறீர்கள்.')}</span></li>
+        <li><b>{L('Fork & draf', 'Fork & draft', 'Fork 并起草', 'Fork & வரைவு', 'Fork して起草')}</b><span>{L('Fork repo dan tulis artikel anda dalam Markdown — gunakan gesaan AI di sebelah, ikut CONTRIBUTING.md.', 'Fork the repo and write your article in Markdown — use the AI prompt on the right, following CONTRIBUTING.md.', 'Fork 仓库并用 Markdown 撰写文章——使用右侧的 AI 提示，遵循 CONTRIBUTING.md。', 'repo-ஐ fork செய்து உங்கள் கட்டுரையை Markdown-இல் எழுதுங்கள் — வலதுபுறத்தில் உள்ள AI கட்டளையைப் பயன்படுத்தி, CONTRIBUTING.md-ஐப் பின்பற்றுங்கள்.', 'リポジトリを fork し、Markdown で記事を書きます — 右側の AI プロンプトを使い、CONTRIBUTING.md に従ってください。')}</span></li>
+        <li><b>{L('Buka pull request', 'Open a pull request', '发起 pull request', 'ஒரு pull request-ஐத் திறங்கள்', 'pull request を開く')}</b><span>{L('Hantar — sesiapa boleh, tiada jemputan diperlukan.', 'Submit it — anyone can, no invitation needed.', '提交——任何人都可以，无需邀请。', 'சமர்ப்பியுங்கள் — யார் வேண்டுமானாலும் செய்யலாம், எந்த அழைப்பும் தேவையில்லை.', '送信します — 誰でも可能で、招待は不要です。')}</span></li>
+        <li><b>{L('Semakan', 'Review', '审阅', 'மதிப்பாய்வு', 'レビュー')}</b><span>{L('Seorang penyemak menyemaknya; kandungan sensitif mendapat tandatangan manusia.', 'A reviewer checks it; sensitive content gets a human sign-off.', '审阅者进行检查；敏感内容需人工签署。', 'ஒரு மதிப்பாய்வாளர் அதைச் சரிபார்க்கிறார்; உணர்திறன் மிக்க உள்ளடக்கம் மனிதரின் ஒப்புதலைப் பெறுகிறது.', 'レビュアーが確認します。扱いに注意が必要な内容は人による承認を受けます。')}</span></li>
+        <li><b>{L('Terbit', 'Publish', '发布', 'வெளியீடு', '公開')}</b><span>{L('Digabung dan disiarkan empat bahasa — anda ditambah ke sejarah perubahan.', 'Merged and live in four languages — you’re added to the change history.', '合并并以四语上线——你会被加入修改历史。', 'இணைக்கப்பட்டு நான்கு மொழிகளில் நேரலையாகிறது — நீங்கள் மாற்ற வரலாற்றில் சேர்க்கப்படுகிறீர்கள்.', 'マージされ4言語で公開されます — あなたは変更履歴に加えられます。')}</span></li>
       </ol>
       <div class="cbtns">
-        <a class="btn btn-primary" href={`${REPO}/blob/main/CONTRIBUTING.md`} rel="noopener">{L('Mula di GitHub', 'Start on GitHub', '在 GitHub 开始', 'GitHub-இல் தொடங்குங்கள்')} ↗</a>
-        <a class="btn btn-ghost" href={localePath('/roles', locale)}>{L('Peranan & akses', 'Roles & access', '角色与权限', 'பங்குகள் & அணுகல்')} →</a>
+        <a class="btn btn-primary" href={`${REPO}/blob/main/CONTRIBUTING.md`} rel="noopener">{L('Mula di GitHub', 'Start on GitHub', '在 GitHub 开始', 'GitHub-இல் தொடங்குங்கள்', 'GitHub で始める')} ↗</a>
+        <a class="btn btn-ghost" href={localePath('/roles', locale)}>{L('Peranan & akses', 'Roles & access', '角色与权限', 'பங்குகள் & அணுகல்', '役割とアクセス')} →</a>
       </div>
-      <p class="muted small">{L('Mahu menuntut item Senarai Kerja atau menolak cabang tanpa fork? Keahlian org diberi atas permintaan.', 'Want to claim Worklist items or push branches without a fork? Org membership is granted on request.', '想认领工作清单条目或无需 fork 直接推送分支？组织成员资格经申请授予。', 'fork இல்லாமல் பணிப்பட்டியல் உருப்படிகளை உரிமை கோர அல்லது கிளைகளைத் தள்ள விரும்புகிறீர்களா? கோரிக்கையின் பேரில் org உறுப்புரிமை வழங்கப்படுகிறது.')} <a href={REQUEST_INVITE} rel="noopener">{L('Sapa kami', 'Say hello', '打个招呼', 'வணக்கம் சொல்லுங்கள்')} ↗</a></p>
+      <p class="muted small">{L('Mahu menuntut item Senarai Kerja atau menolak cabang tanpa fork? Keahlian org diberi atas permintaan.', 'Want to claim Worklist items or push branches without a fork? Org membership is granted on request.', '想认领工作清单条目或无需 fork 直接推送分支？组织成员资格经申请授予。', 'fork இல்லாமல் பணிப்பட்டியல் உருப்படிகளை உரிமை கோர அல்லது கிளைகளைத் தள்ள விரும்புகிறீர்களா? கோரிக்கையின் பேரில் org உறுப்புரிமை வழங்கப்படுகிறது.', 'fork なしで作業リストの項目を担当したり、ブランチをプッシュしたいですか。組織メンバーシップは申請に応じて付与されます。')} <a href={REQUEST_INVITE} rel="noopener">{L('Sapa kami', 'Say hello', '打个招呼', 'வணக்கம் சொல்லுங்கள்', '挨拶する')} ↗</a></p>
     </div>
   </div>
 
   <div class="side">
     <div class="psec">
-      <header><span>🤖 {L('Draf berpandukan AI', 'AI-guided drafting', 'AI 引导起草', 'AI வழிகாட்டுதலுடன் வரைவு')}</span></header>
+      <header><span>🤖 {L('Draf berpandukan AI', 'AI-guided drafting', 'AI 引导起草', 'AI வழிகாட்டுதலுடன் வரைவு', 'AI 支援による起草')}</span></header>
       <div class="psec-body">
-        <p class="hint">{L('Salin, tampal ke dalam AI kegemaran anda, dan tukar [TOPIK].', 'Copy, paste into your favourite AI, and swap in [TOPIC].', '复制并粘贴到你常用的 AI 中，替换 [主题]。', 'நகலெடுத்து, உங்களுக்குப் பிடித்த AI-இல் ஒட்டி, [TOPIK]-ஐ மாற்றவும்.')}</p>
+        <p class="hint">{L('Salin, tampal ke dalam AI kegemaran anda, dan tukar [TOPIK].', 'Copy, paste into your favourite AI, and swap in [TOPIC].', '复制并粘贴到你常用的 AI 中，替换 [主题]。', 'நகலெடுத்து, உங்களுக்குப் பிடித்த AI-இல் ஒட்டி, [TOPIK]-ஐ மாற்றவும்.', 'コピーしてお好みの AI に貼り付け、[TOPIC] を置き換えてください。')}</p>
         <pre class="prompt"><code>{aiPrompt}</code></pre>
-        <button type="button" class="btn btn-ghost copy-prompt" data-prompt={aiPrompt}>{L('Salin gesaan', 'Copy prompt', '复制提示词', 'கட்டளையை நகலெடு')}</button>
+        <button type="button" class="btn btn-ghost copy-prompt" data-prompt={aiPrompt}>{L('Salin gesaan', 'Copy prompt', '复制提示词', 'கட்டளையை நகலெடு', 'プロンプトをコピー')}</button>
       </div>
     </div>
     <div class="psec">
-      <header><span>{L('Panduan', 'Guides', '指南', 'வழிகாட்டிகள்')}</span></header>
+      <header><span>{L('Panduan', 'Guides', '指南', 'வழிகாட்டிகள்', 'ガイド')}</span></header>
       <div class="psec-body links">
-        <a href={`${REPO}/blob/main/CONTRIBUTING.md`} rel="noopener">{L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南', 'முழுப் பங்களிப்பு வழிகாட்டி')} ↗</a>
-        <a href="https://skills.github.com/" rel="noopener">{L('Baru dengan GitHub? Belajar asasnya', 'New to GitHub? Learn the basics', 'GitHub 新手？学习基础', 'GitHub-இல் புதியவரா? அடிப்படைகளைக் கற்றுக்கொள்ளுங்கள்')} ↗</a>
-        <a href={REPO} rel="noopener">{L('Repositori GitHub', 'GitHub repository', 'GitHub 仓库', 'GitHub களஞ்சியம்')} ↗</a>
-        <p class="muted small">{L('Topik sensitif (kaum, agama, institusi diraja, perlembagaan) mesti bersumber, neutral, dan disemak manusia sebelum terbit.', 'Sensitive topics (race, religion, royalty, the constitution) must be sourced, neutral, and human-reviewed before publishing.', '敏感话题（种族、宗教、王室、宪法）必须注明来源、保持中立，并在发布前经人工审阅。', 'உணர்திறன் மிக்க தலைப்புகள் (இனம், மதம், அரச நிறுவனங்கள், அரசியலமைப்பு) வெளியிடுவதற்கு முன் ஆதாரத்துடன், நடுநிலையாக, மேலும் மனிதரால் மதிப்பாய்வு செய்யப்பட வேண்டும்.')}</p>
+        <a href={`${REPO}/blob/main/CONTRIBUTING.md`} rel="noopener">{L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南', 'முழுப் பங்களிப்பு வழிகாட்டி', '貢献ガイド全文')} ↗</a>
+        <a href="https://skills.github.com/" rel="noopener">{L('Baru dengan GitHub? Belajar asasnya', 'New to GitHub? Learn the basics', 'GitHub 新手？学习基础', 'GitHub-இல் புதியவரா? அடிப்படைகளைக் கற்றுக்கொள்ளுங்கள்', 'GitHub は初めてですか。基本を学ぶ')} ↗</a>
+        <a href={REPO} rel="noopener">{L('Repositori GitHub', 'GitHub repository', 'GitHub 仓库', 'GitHub களஞ்சியம்', 'GitHub リポジトリ')} ↗</a>
+        <p class="muted small">{L('Topik sensitif (kaum, agama, institusi diraja, perlembagaan) mesti bersumber, neutral, dan disemak manusia sebelum terbit.', 'Sensitive topics (race, religion, royalty, the constitution) must be sourced, neutral, and human-reviewed before publishing.', '敏感话题（种族、宗教、王室、宪法）必须注明来源、保持中立，并在发布前经人工审阅。', 'உணர்திறன் மிக்க தலைப்புகள் (இனம், மதம், அரச நிறுவனங்கள், அரசியலமைப்பு) வெளியிடுவதற்கு முன் ஆதாரத்துடன், நடுநிலையாக, மேலும் மனிதரால் மதிப்பாய்வு செய்யப்பட வேண்டும்.', '扱いに注意が必要なトピック（人種、宗教、王室、憲法）は、公開前に出典付きで中立とし、人によるレビューを受ける必要があります。')}</p>
       </div>
     </div>
   </div>

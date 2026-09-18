@@ -9,7 +9,7 @@ interface Props {
   title: string;
 }
 const { locale, title } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const shareText = encodeURIComponent(title);
 
@@ -39,7 +39,7 @@ const BRAND: Record<string, string> = {
 const copyApps = [
   { key: 'tiktok', label: 'TikTok' },
   { key: 'instagram', label: 'Instagram' },
-  { key: 'redbook', label: L('RedBook', 'RedBook', '小红书', 'RedBook') },
+  { key: 'redbook', label: L('RedBook', 'RedBook', '小红书', 'RedBook', 'RedBook') },
 ];
 // Each href ends where the runtime page URL is appended (see the client script).
 const shares = [
@@ -56,12 +56,12 @@ const shares = [
 
 <div class="fb" data-pagefind-ignore>
   <section class="fb-sec">
-    <header><span>{L('Kongsi', 'Share', '分享', 'பகிர்')}</span></header>
+    <header><span>{L('Kongsi', 'Share', '分享', 'பகிர்', '共有')}</span></header>
     <div class="fb-body">
       <div class="share-row">
         <button type="button" class="share-native" data-native hidden>
           <span class="sv" set:html={SVG.native} />
-          {L('Kongsi', 'Share', '分享', 'பகிர்')}
+          {L('Kongsi', 'Share', '分享', 'பகிர்', '共有')}
         </button>
         {shares.map((s) => (
           <a
@@ -84,13 +84,13 @@ const shares = [
             data-copyapp
             data-app={s.label}
             style={`--brand:${BRAND[s.key]}`}
-            aria-label={L(`Salin pautan untuk ${s.label}`, `Copy link for ${s.label}`, `复制链接以分享到${s.label}`, `${s.label}-க்கான இணைப்பை நகலெடு`)}
+            aria-label={L(`Salin pautan untuk ${s.label}`, `Copy link for ${s.label}`, `复制链接以分享到${s.label}`, `${s.label}-க்கான இணைப்பை நகலெடு`, `${s.label} 用にリンクをコピー`)}
             title={s.label}
           >
             <span class="sv" set:html={SVG[s.key]} />
           </button>
         ))}
-        <button type="button" class="share-ico copy" data-copy aria-label={L('Salin pautan', 'Copy link', '复制链接', 'இணைப்பை நகலெடு')} title={L('Salin pautan', 'Copy link', '复制链接', 'இணைப்பை நகலெடு')}>
+        <button type="button" class="share-ico copy" data-copy aria-label={L('Salin pautan', 'Copy link', '复制链接', 'இணைப்பை நகலெடு', 'リンクをコピー')} title={L('Salin pautan', 'Copy link', '复制链接', 'இணைப்பை நகலெடு', 'リンクをコピー')}>
           <span class="sv sv-copy" set:html={SVG.copy} />
           <span class="sv sv-check" set:html={SVG.check} />
         </button>

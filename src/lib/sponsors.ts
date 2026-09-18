@@ -31,14 +31,16 @@ export const SPONSORS: Record<string, Sponsor> = {
       en: 'Need professional help?',
       zh: '需要专业协助？',
       ta: 'தொழில்முறை உதவி தேவையா?',
+      ja: '専門家のサポートが必要ですか？',
     },
     blurb: {
       ms: ' menyediakan perkhidmatan penubuhan syarikat, setiausaha syarikat, perakaunan, audit dan cukai di Malaysia.',
       en: ' provides incorporation, company secretarial, accounting, audit and tax services in Malaysia.',
       zh: ' 提供马来西亚公司注册、公司秘书、会计、审计与税务服务。',
       ta: ' மலேசியாவில் நிறுவனப் பதிவு, நிறுவனச் செயலாளர், கணக்கியல், தணிக்கை மற்றும் வரி சேவைகளை வழங்குகிறது.',
+      ja: ' はマレーシアにおける会社設立、カンパニーセクレタリー、会計、監査、税務のサービスを提供しています。',
     },
-    cta: { ms: 'Ketahui lebih lanjut', en: 'Learn more', zh: '了解更多', ta: 'மேலும் அறிக' },
+    cta: { ms: 'Ketahui lebih lanjut', en: 'Learn more', zh: '了解更多', ta: 'மேலும் அறிக', ja: '詳しく見る' },
   },
 };
 

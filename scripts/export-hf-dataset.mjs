@@ -27,7 +27,7 @@ const DATA = join(OUT, 'data');
 const SITE = 'https://negaraku.md';
 const LICENSE = 'CC-BY-SA-4.0';
 const LICENSE_URL = 'https://creativecommons.org/licenses/by-sa/4.0/';
-const LANGS = ['ms', 'en', 'zh', 'ta'];
+const LANGS = ['ms', 'en', 'zh', 'ta', 'ja'];
 // The Hugging Face dataset repo id. Override with HF_REPO when publishing.
 const HF_REPO = process.env.HF_REPO || 'negaraku-md/negaraku-md';
 
@@ -48,7 +48,7 @@ function urlFor(lang, category, slug) {
   return `${SITE}${prefix}/${category}/${slug}/`;
 }
 
-const rows = { ms: [], en: [], zh: [], ta: [] };
+const rows = { ms: [], en: [], zh: [], ta: [], ja: [] };
 let scanned = 0, skipped = 0;
 
 for (const file of walk(KNOWLEDGE)) {
@@ -117,6 +117,7 @@ language:
 - en
 - zh
 - ta
+- ja
 multilinguality:
 - multilingual
 pretty_name: NegaraKu.md — Malaysia Knowledge Base
@@ -144,7 +145,7 @@ ${perLangConfigs}
 
 # NegaraKu.md — an open, AI-friendly knowledge base about Malaysia
 
-**${total.toLocaleString()} articles** across four languages (${counts}), covering
+**${total.toLocaleString()} articles** across five languages (${counts}), covering
 government, law, taxation, business, companies, culture, geography, history,
 healthcare, education, and daily life in Malaysia. Every article is
 human-reviewable, cited, and released under a permissive licence so it can be
@@ -167,7 +168,7 @@ about Malaysia**, from primary and authoritative sources.
 | \`category\` / \`subcategory\` | taxonomy |
 | \`tier\` | editorial importance tier |
 | \`content_type\` | e.g. guide, place, concept |
-| \`language\` | \`ms\` · \`en\` · \`zh\` · \`ta\` |
+| \`language\` | \`ms\` · \`en\` · \`zh\` · \`ta\` · \`ja\` |
 | \`url\` | canonical URL on negaraku.md |
 | \`entity\` | the primary entity the article is about |
 | \`wikidata\` | the entity's Wikidata QID, when known (${withQid} rows) — links each article to the global knowledge graph |
@@ -190,7 +191,7 @@ en = load_dataset("${HF_REPO}", "en", split="train")
 
 ## Languages
 
-\`ms\` Bahasa Melayu (default) · \`en\` English · \`zh\` 中文 · \`ta\` தமிழ்.
+\`ms\` Bahasa Melayu (default) · \`en\` English · \`zh\` 中文 · \`ta\` தமிழ் · \`ja\` 日本語.
 Language versions of the same article share a \`topic_id\`.
 
 ## Licence & attribution

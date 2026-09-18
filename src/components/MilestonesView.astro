@@ -7,13 +7,13 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) =>
-  (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) =>
+  (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Newest first.
 const items = [...MILESTONES].sort((a, b) => (a.date < b.date ? 1 : -1));
 const dateFmt = (d: string) =>
-  new Date(d).toLocaleDateString(locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta-MY' : 'en-GB', {
+  new Date(d).toLocaleDateString(locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta-MY' : locale === 'ja' ? 'ja-JP' : 'en-GB', {
     day: 'numeric',
     month: 'short',
     year: 'numeric',
@@ -21,14 +21,15 @@ const dateFmt = (d: string) =>
 ---
 
 <section class="container block">
-  <p class="eyebrow">{L('Projek', 'Project', '项目', 'திட்டம்')}</p>
-  <h1>{L('Pencapaian Penting', 'Milestones', '里程碑', 'மைல்கற்கள்')}</h1>
+  <p class="eyebrow">{L('Projek', 'Project', '项目', 'திட்டம்', 'プロジェクト')}</p>
+  <h1>{L('Pencapaian Penting', 'Milestones', '里程碑', 'மைல்கற்கள்', 'マイルストーン')}</h1>
   <p class="lede">
     {L(
       'Perjalanan NegaraKu.md setakat ini — detik-detik penting yang menandakan sejauh mana pangkalan pengetahuan ini telah berkembang.',
       'The journey of NegaraKu.md so far — the moments that mark how far this knowledge base has come.',
       'NegaraKu.md 至今的历程——标记这个知识库走了多远的重要时刻。',
       'NegaraKu.md-இன் இதுவரையிலான பயணம் — இந்த அறிவுத் தளம் எவ்வளவு தூரம் வளர்ந்துள்ளது என்பதைக் குறிக்கும் தருணங்கள்.',
+      'NegaraKu.md のこれまでの歩み — この知識ベースがどこまで来たかを刻む節目の数々。',
     )}
   </p>
 
@@ -53,6 +54,7 @@ const dateFmt = (d: string) =>
       'For the full history of every change, see the Changelog.',
       '如需查看每一次变更的完整历史，请参阅更新日志。',
       'ஒவ்வொரு மாற்றத்தின் முழு வரலாற்றுக்கும், மாற்ற பதிவைப் பார்க்கவும்.',
+      'すべての変更の完全な履歴は、変更ログをご覧ください。',
     )}
   </p>
 </section>

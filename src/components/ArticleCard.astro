@@ -30,8 +30,9 @@ const topLabel = topic ? subcatLabel(topic, locale) : null;
 const ogSrc = `/og/${locale}/${category}/${slug}.png`;
 const mins = readingTime(article);
 const nSrc = article.data.sources.length;
-const citeLabel = locale === 'zh' ? '引用' : locale === 'en' ? 'cites' : 'rujukan';
-const minLabel = locale === 'zh' ? '分钟' : 'min';
+const citeLabel =
+  locale === 'zh' ? '引用' : locale === 'en' ? 'cites' : locale === 'ta' ? 'மேற்கோள்கள்' : locale === 'ja' ? '出典' : 'rujukan';
+const minLabel = locale === 'zh' ? '分钟' : locale === 'ta' ? 'நிமிடம்' : locale === 'ja' ? '分' : 'min';
 ---
 
 <a class:list={['card article-card', { row }]} href={href} style={`--c:${color}`}>

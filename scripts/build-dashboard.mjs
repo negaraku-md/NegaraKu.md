@@ -10,7 +10,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const API = path.join(ROOT, 'public', 'api');
 const IN = path.join(API, 'articles.json');
 const OUT = path.join(API, 'dashboard.json');
-const SITE_LANGS = ['ms', 'en', 'zh', 'ta']; // every locale the site serves
+const SITE_LANGS = ['ms', 'en', 'zh', 'ta', 'ja']; // every locale the site serves
 const HEART_TARGET = 60; // articles considered a "healthy" corpus size
 
 async function main() {
@@ -170,15 +170,15 @@ async function main() {
 
   const vitals = {
     heart: {
-      label: { ms: 'Jantung', en: 'Heartbeat', zh: '心跳', ta: 'இதயத்துடிப்பு' },
+      label: { ms: 'Jantung', en: 'Heartbeat', zh: '心跳', ta: 'இதயத்துடிப்பு', ja: '心拍' },
       score: Math.min(100, Math.round((masterArticles / HEART_TARGET) * 100)),
-      detail: { ms: `${masterArticles} artikel induk`, en: `${masterArticles} master articles`, zh: `${masterArticles} 篇主文章`, ta: `${masterArticles} தலைமைக் கட்டுரைகள்` },
+      detail: { ms: `${masterArticles} artikel induk`, en: `${masterArticles} master articles`, zh: `${masterArticles} 篇主文章`, ta: `${masterArticles} தலைமைக் கட்டுரைகள்`, ja: `${masterArticles} 件のマスター記事` },
     },
     // Was "Immunity — N reviewed". Nothing in the corpus has a genuine human
     // review (statuses were set in bulk), so that number asserted something it
     // could not back up. Report what actually cleared the publish gate instead.
     published: {
-      label: { ms: 'Diterbitkan', en: 'Published', zh: '已发布', ta: 'வெளியிடப்பட்டது' },
+      label: { ms: 'Diterbitkan', en: 'Published', zh: '已发布', ta: 'வெளியிடப்பட்டது', ja: '公開済み' },
       // Live topics over the whole pipeline (live + in-review). This is the one
       // vital that intentionally references the backlog: it answers "how much of
       // the work in flight is actually live?" — 1015 live of 1051 in the pipeline.
@@ -188,22 +188,23 @@ async function main() {
         en: `${masterArticles} live · ${pendingTopics} not yet published`,
         zh: `${masterArticles} 已上线 · ${pendingTopics} 尚未发布`,
         ta: `${masterArticles} நேரலை · ${pendingTopics} இன்னும் வெளியிடப்படவில்லை`,
+        ja: `${masterArticles} 件公開 · ${pendingTopics} 件未公開`,
       },
     },
     dna: {
-      label: { ms: 'DNA', en: 'DNA / Languages', zh: 'DNA·语言', ta: 'DNA · மொழிகள்' },
+      label: { ms: 'DNA', en: 'DNA / Languages', zh: 'DNA·语言', ta: 'DNA · மொழிகள்', ja: 'DNA · 言語' },
       score: pct(filled, slots),
-      detail: { ms: `${filled}/${slots} terjemahan`, en: `${filled}/${slots} translations`, zh: `${filled}/${slots} 翻译`, ta: `${filled}/${slots} மொழிபெயர்ப்புகள்` },
+      detail: { ms: `${filled}/${slots} terjemahan`, en: `${filled}/${slots} translations`, zh: `${filled}/${slots} 翻译`, ta: `${filled}/${slots} மொழிபெயர்ப்புகள்`, ja: `${filled}/${slots} 件の翻訳` },
     },
     citations: {
-      label: { ms: 'Rujukan', en: 'Citations', zh: '引用', ta: 'மேற்கோள்கள்' },
+      label: { ms: 'Rujukan', en: 'Citations', zh: '引用', ta: 'மேற்கோள்கள்', ja: '出典' },
       score: pct(citedOk, citedNeed || 1),
-      detail: { ms: `${citedOk}/${citedNeed} dipetik`, en: `${citedOk}/${citedNeed} cited`, zh: `${citedOk}/${citedNeed} 已引用`, ta: `${citedOk}/${citedNeed} மேற்கோள் காட்டப்பட்டது` },
+      detail: { ms: `${citedOk}/${citedNeed} dipetik`, en: `${citedOk}/${citedNeed} cited`, zh: `${citedOk}/${citedNeed} 已引用`, ta: `${citedOk}/${citedNeed} மேற்கோள் காட்டப்பட்டது`, ja: `${citedOk}/${citedNeed} 件引用` },
     },
     diversity: {
-      label: { ms: 'Kepelbagaian', en: 'Diversity', zh: '多样性', ta: 'பன்முகத்தன்மை' },
+      label: { ms: 'Kepelbagaian', en: 'Diversity', zh: '多样性', ta: 'பன்முகத்தன்மை', ja: '多様性' },
       score: pct(categoriesCovered, 15),
-      detail: { ms: `${categoriesCovered} kategori`, en: `${categoriesCovered} categories`, zh: `${categoriesCovered} 个类别`, ta: `${categoriesCovered} வகைகள்` },
+      detail: { ms: `${categoriesCovered} kategori`, en: `${categoriesCovered} categories`, zh: `${categoriesCovered} 个类别`, ta: `${categoriesCovered} வகைகள்`, ja: `${categoriesCovered} カテゴリー` },
     },
   };
 
@@ -341,7 +342,7 @@ async function main() {
       publishedByLang,       // { en, ms, zh } published file counts (== filesByLang)
       publishedTotal,        // total published files across all languages
       pendingTopics,         // master topics in the editorial pipeline, NOT yet live
-      languages: 3,
+      languages: SITE_LANGS.length,
       categories: categoriesCovered,
       reviewedPct: pct(reviewed, topics),
     },
@@ -363,7 +364,7 @@ async function main() {
         return {
           slug: a.slug,
           category: a.category,
-          title: { ms: a.title, en: ttl.en ?? a.title, zh: ttl.zh ?? a.title, ta: ttl.ta ?? a.title },
+          title: { ms: a.title, en: ttl.en ?? a.title, zh: ttl.zh ?? a.title, ta: ttl.ta ?? a.title, ja: ttl.ja ?? a.title },
           updated: a.updated,
         };
       }),
@@ -394,7 +395,7 @@ async function main() {
         const ttl = titlesByKey.get(a.key) ?? {};
         return {
           slug: a.slug,
-          title: { ms: a.title, en: ttl.en ?? a.title, zh: ttl.zh ?? a.title, ta: ttl.ta ?? a.title },
+          title: { ms: a.title, en: ttl.en ?? a.title, zh: ttl.zh ?? a.title, ta: ttl.ta ?? a.title, ja: ttl.ja ?? a.title },
           category: a.category,
           status: a.status,
           words: a.words,

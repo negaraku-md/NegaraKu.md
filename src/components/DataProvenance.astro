@@ -12,13 +12,13 @@ interface Props {
   dataset: string;
 }
 const { locale, dataset } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const p = getProvenance(dataset);
 
 const badge = {
-  sourced: { cls: 'ok', icon: '✓', text: L('Bersumber', 'Sourced', '已注明来源', 'மூலம் குறிப்பிடப்பட்டது') },
-  unverified: { cls: 'warn', icon: '⚠', text: L('Belum disahkan', 'Unverified', '未经核实', 'சரிபார்க்கப்படவில்லை') },
-  schematic: { cls: 'info', icon: '◇', text: L('Skematik', 'Schematic', '示意', 'திட்டவரைவு') },
+  sourced: { cls: 'ok', icon: '✓', text: L('Bersumber', 'Sourced', '已注明来源', 'மூலம் குறிப்பிடப்பட்டது', '出典あり') },
+  unverified: { cls: 'warn', icon: '⚠', text: L('Belum disahkan', 'Unverified', '未经核实', 'சரிபார்க்கப்படவில்லை', '未検証') },
+  schematic: { cls: 'info', icon: '◇', text: L('Skematik', 'Schematic', '示意', 'திட்டவரைவு', '概略') },
 }[p?.verification ?? 'unverified'];
 ---
 
@@ -35,7 +35,7 @@ const badge = {
       <p class="prov-meta">
         {p.source ? (
           <>
-            <span>{L('Sumber', 'Source', '来源', 'மூலம்')}: </span>
+            <span>{L('Sumber', 'Source', '来源', 'மூலம்', '出典')}: </span>
             {p.source.url ? (
               <a href={p.source.url} rel="noopener">
                 {p.source.title}
@@ -46,19 +46,19 @@ const badge = {
             {p.source.publisher && <span> — {p.source.publisher}</span>}
           </>
         ) : (
-          <span>{L('Tiada sumber dinyatakan.', 'No source cited.', '未注明来源。', 'எந்த மூலமும் குறிப்பிடப்படவில்லை.')}</span>
+          <span>{L('Tiada sumber dinyatakan.', 'No source cited.', '未注明来源。', 'எந்த மூலமும் குறிப்பிடப்படவில்லை.', '出典の記載なし。')}</span>
         )}
         {p.asOf && (
           <span>
             {' · '}
-            {L('Setakat', 'As at', '截至', 'நிலவரப்படி')} {p.asOf}
+            {L('Setakat', 'As at', '截至', 'நிலவரப்படி', '時点')} {p.asOf}
           </span>
         )}
         <span>
           {' · '}
           {p.reviewer
-            ? `${L('Disemak oleh', 'Reviewed by', '审阅人', 'மறுஆய்வு செய்தவர்')} ${p.reviewer}`
-            : L('Belum disemak manusia', 'Not human-reviewed', '未经人工审阅', 'மனிதரால் மறுஆய்வு செய்யப்படவில்லை')}
+            ? `${L('Disemak oleh', 'Reviewed by', '审阅人', 'மறுஆய்வு செய்தவர்', '査読者')} ${p.reviewer}`
+            : L('Belum disemak manusia', 'Not human-reviewed', '未经人工审阅', 'மனிதரால் மறுஆய்வு செய்யப்படவில்லை', '人手による査読なし')}
         </span>
       </p>
     </aside>

@@ -22,7 +22,7 @@ interface Props {
   topSeparator?: boolean;
 }
 const { locale, pillar, activeCategory, categoryId, activeTopic, topSeparator } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const cats = categoriesInPillar(pillar);
 const items = await articlesForLocale(locale);
@@ -49,7 +49,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
         <header>
           <span>
             <span class="pi" aria-hidden="true">🧭</span>
-            {L('Topik', 'Topics', '主题', 'தலைப்புகள்')}
+            {L('Topik', 'Topics', '主题', 'தலைப்புகள்', 'トピック')}
           </span>
           <span>{topics.length}</span>
         </header>
@@ -64,7 +64,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
               >
                 <span class="bar" aria-hidden="true" />
                 <b>{subcatLabel(t, locale)}</b>
-                <span class="tc-count">{topicCount(t)} {L('artikel', 'articles', '篇', 'கட்டுரைகள்')} →</span>
+                <span class="tc-count">{topicCount(t)} {L('artikel', 'articles', '篇', 'கட்டுரைகள்', '記事')} →</span>
               </a>
             ))}
           </div>
@@ -79,7 +79,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
     <header>
       <span>
         <span class="pi" aria-hidden="true">🗂️</span>
-        {L('Kategori', 'Categories', '分类', 'வகைகள்')}
+        {L('Kategori', 'Categories', '分类', 'வகைகள்', 'カテゴリー')}
       </span>
       <span>{cats.length}</span>
     </header>
@@ -113,7 +113,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
     <header>
       <span>
         <span class="pi" aria-hidden="true">🗺️</span>
-        {L('Tonggak', 'Pillars', '支柱', 'தூண்கள்')}
+        {L('Tonggak', 'Pillars', '支柱', 'தூண்கள்', '柱')}
       </span>
       <span>{PILLARS.length}</span>
     </header>

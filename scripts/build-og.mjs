@@ -92,7 +92,8 @@ const L = (lang, ms, en, zh) => (lang === 'zh' ? zh : lang === 'ms' ? ms : en);
 const fmtDate = (iso, lang) => {
   if (!iso) return null;
   try {
-    return new Date(iso).toLocaleDateString(lang === 'zh' ? 'zh-CN' : lang === 'ms' ? 'ms-MY' : 'en-GB',
+    return new Date(iso).toLocaleDateString(
+      lang === 'zh' ? 'zh-CN' : lang === 'ms' ? 'ms-MY' : lang === 'ta' ? 'ta-MY' : lang === 'ja' ? 'ja-JP' : 'en-GB',
       { day: 'numeric', month: 'short', year: 'numeric' });
   } catch { return iso; }
 };

@@ -7,45 +7,47 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு'), href: localePath('/', locale) },
-    { label: L('Sumbang', 'Contribute', '贡献', 'பங்களி'), href: localePath('/contribute', locale) },
-    { label: L('Sokong', 'Support', '支持', 'ஆதரவு') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
+    { label: L('Sumbang', 'Contribute', '贡献', 'பங்களி', '貢献'), href: localePath('/contribute', locale) },
+    { label: L('Sokong', 'Support', '支持', 'ஆதரவு', '支援') },
   ]}
-  title={L('Sokong NegaraKu.md', 'Support NegaraKu.md', '支持 NegaraKu.md', 'NegaraKu.md ஐ ஆதரியுங்கள்')}
+  title={L('Sokong NegaraKu.md', 'Support NegaraKu.md', '支持 NegaraKu.md', 'NegaraKu.md ஐ ஆதரியுங்கள்', 'NegaraKu.md を支援する')}
   desc={L(
     'Sumbangan wang akan datang. Buat masa ini, cara paling berkesan untuk membantu ialah menyumbang kandungan atau token AI anda.',
     'Money donations are coming. For now, the most effective way to help is to contribute content or your AI tokens.',
     '资金捐赠即将推出。目前，最有效的帮助方式是贡献内容或你的 AI token。',
     'பண நன்கொடைகள் விரைவில் வரும். இப்போதைக்கு, உதவுவதற்கான மிகவும் பயனுள்ள வழி உள்ளடக்கத்தை அல்லது உங்கள் AI டோக்கன்களைப் பங்களிப்பதே.',
+    '資金による寄付は近日対応予定です。今のところ、最も効果的な支援方法は、コンテンツまたはあなたの AI トークンを提供することです。',
   )}
 />
 
 <section class="container block">
   <div class="psec">
-    <header><span>💛 {L('Akan datang', 'Coming soon', '即将推出', 'விரைவில் வருகிறது')}</span></header>
+    <header><span>💛 {L('Akan datang', 'Coming soon', '即将推出', 'விரைவில் வருகிறது', '近日公開')}</span></header>
     <div class="psec-body">
       <p class="lead">{L(
         'Kami sedang menyediakan cara yang selamat dan telus untuk menerima sumbangan wang. Sehingga itu, dua cara ini membantu paling banyak:',
         'We’re setting up a safe, transparent way to accept money donations. Until then, these two help the most:',
         '我们正在搭建一种安全、透明的资金捐赠方式。在此之前，以下两种方式帮助最大：',
         'பண நன்கொடைகளை ஏற்க பாதுகாப்பான, வெளிப்படையான வழியை நாங்கள் அமைத்து வருகிறோம். அதுவரை, இந்த இரண்டும் மிகவும் உதவுகின்றன:',
+        '安全で透明性のある資金寄付の受付方法を準備中です。それまでの間、次の 2 つが最も役立ちます：',
       )}</p>
       <div class="cards">
         <a class="card" href={localePath('/donate', locale)}>
           <span class="ci" aria-hidden="true">🌐</span>
-          <b>{L('Derma Token AI Anda', 'Donate Your AI Token', '捐赠你的 AI Token', 'உங்கள் AI டோக்கனை நன்கொடையளியுங்கள்')}</b>
-          <p>{L('Terjemah artikel dengan kunci Claude anda sendiri.', 'Translate articles with your own Claude key.', '用你自己的 Claude 密钥翻译文章。', 'உங்கள் சொந்த Claude கீயுடன் கட்டுரைகளை மொழிபெயருங்கள்.')}</p>
+          <b>{L('Derma Token AI Anda', 'Donate Your AI Token', '捐赠你的 AI Token', 'உங்கள் AI டோக்கனை நன்கொடையளியுங்கள்', 'あなたの AI トークンを寄付')}</b>
+          <p>{L('Terjemah artikel dengan kunci Claude anda sendiri.', 'Translate articles with your own Claude key.', '用你自己的 Claude 密钥翻译文章。', 'உங்கள் சொந்த Claude கீயுடன் கட்டுரைகளை மொழிபெயருங்கள்.', '自分の Claude キーで記事を翻訳できます。')}</p>
         </a>
         <a class="card" href={localePath('/contribute', locale)}>
           <span class="ci" aria-hidden="true">✍️</span>
-          <b>{L('Sumbang kandungan', 'Contribute content', '贡献内容', 'உள்ளடக்கத்தைப் பங்களியுங்கள்')}</b>
-          <p>{L('Lapor, cadang atau tulis artikel.', 'Report, suggest, or author articles.', '报告、建议或撰写文章。', 'கட்டுரைகளைப் புகாரளியுங்கள், பரிந்துரையுங்கள் அல்லது எழுதுங்கள்.')}</p>
+          <b>{L('Sumbang kandungan', 'Contribute content', '贡献内容', 'உள்ளடக்கத்தைப் பங்களியுங்கள்', 'コンテンツを貢献')}</b>
+          <p>{L('Lapor, cadang atau tulis artikel.', 'Report, suggest, or author articles.', '报告、建议或撰写文章。', 'கட்டுரைகளைப் புகாரளியுங்கள், பரிந்துரையுங்கள் அல்லது எழுதுங்கள்.', '記事の報告・提案・執筆ができます。')}</p>
         </a>
       </div>
     </div>

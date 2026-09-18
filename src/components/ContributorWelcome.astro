@@ -6,23 +6,24 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 ---
 
-<aside class="cv-welcome" data-pagefind-ignore aria-label={L('Orientasi penyumbang', 'Contributor orientation', '贡献者引导', 'பங்களிப்பாளர் அறிமுகம்')}>
+<aside class="cv-welcome" data-pagefind-ignore aria-label={L('Orientasi penyumbang', 'Contributor orientation', '贡献者引导', 'பங்களிப்பாளர் அறிமுகம்', '貢献者オリエンテーション')}>
   <div class="container cv-inner">
     <span class="cv-ico" aria-hidden="true">🚀</span>
     <div class="cv-text">
-      <b>{L('Selamat datang ke Paparan Penyumbang', 'Welcome to Contributor View', '欢迎来到贡献者视图', 'பங்களிப்பாளர் காட்சிக்கு வரவேற்கிறோம்')}</b>
+      <b>{L('Selamat datang ke Paparan Penyumbang', 'Welcome to Contributor View', '欢迎来到贡献者视图', 'பங்களிப்பாளர் காட்சிக்கு வரவேற்கிறோம்', '貢献者ビューへようこそ')}</b>
       <p>{L(
         'Ini pelancar anda — barisan semakan, draf, senarai kerja, papan pemuka dan deploy, kebanyakannya terus ke GitHub.',
         'This is your launchpad — review queue, drafts, worklist, dashboard and deploy, mostly straight into GitHub.',
         '这是你的启动台——审核队列、草稿、工作清单、仪表板与部署，多数直达 GitHub。',
         'இது உங்கள் தொடக்கத் தளம் — மதிப்பாய்வு வரிசை, வரைவுகள், பணிப்பட்டியல், டாஷ்போர்டு மற்றும் deploy, பெரும்பாலும் நேரடியாக GitHub-க்கு.',
+        'ここはあなたの発射台です — レビュー待ち、下書き、作業リスト、ダッシュボード、デプロイ。多くは GitHub へ直接つながっています。',
       )}</p>
     </div>
-    <a class="btn btn-ghost cv-go" href={localePath('/contributor-guide', locale)}>{L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி')} →</a>
-    <button type="button" class="cv-x" data-cv-dismiss aria-label={L('Tutup', 'Dismiss', '关闭', 'மூடு')}>✕</button>
+    <a class="btn btn-ghost cv-go" href={localePath('/contributor-guide', locale)}>{L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி', '貢献者ガイド')} →</a>
+    <button type="button" class="cv-x" data-cv-dismiss aria-label={L('Tutup', 'Dismiss', '关闭', 'மூடு', '閉じる')}>✕</button>
   </div>
 </aside>
 

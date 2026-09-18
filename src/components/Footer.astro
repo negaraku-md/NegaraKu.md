@@ -7,12 +7,12 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const year = 2026;
 
 const cols = [
   {
-    title: L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்'),
+    title: L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探索'),
     links: [
       { label: t('nav.understand', locale), href: localePath('/understand', locale) },
       { label: t('nav.living', locale), href: localePath('/living', locale) },
@@ -21,17 +21,17 @@ const cols = [
     ],
   },
   {
-    title: L('Projek', 'Project', '项目', 'திட்டம்'),
+    title: L('Projek', 'Project', '项目', 'திட்டம்', 'プロジェクト'),
     links: [
       { label: t('nav.aboutPage', locale), href: localePath('/about', locale) },
       { label: t('nav.dashboard', locale), href: localePath('/dashboard', locale) },
       { label: t('nav.changelog', locale), href: localePath('/changelog', locale) },
       { label: t('nav.contribute', locale), href: localePath('/contribute', locale) },
-      { label: L('Tetapan', 'Settings', '设置', 'அமைப்புகள்'), href: localePath('/settings', locale) },
+      { label: L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定'), href: localePath('/settings', locale) },
     ],
   },
   {
-    title: L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு'),
+    title: L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け'),
     links: [
       { label: 'llms.txt', href: '/llms.txt' },
       { label: 'GitHub', href: REPO, ext: true },
@@ -66,10 +66,10 @@ const cols = [
 
   <div class="container legal">
     <p>© {year} <span class="wm">NegaraKu<span class="dot">.md</span></span> · {t('footer.license', locale)}</p>
-    <nav class="legal-links" aria-label={L('Undang-undang', 'Legal', '法律', 'சட்டம்')}>
-      <a href={localePath('/terms', locale)}>{L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்')}</a>
-      <a href={localePath('/privacy', locale)}>{L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை')}</a>
-      <a href={localePath('/cookies', locale)}>{L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை')}</a>
+    <nav class="legal-links" aria-label={L('Undang-undang', 'Legal', '法律', 'சட்டம்', '法務')}>
+      <a href={localePath('/terms', locale)}>{L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்', '利用規約')}</a>
+      <a href={localePath('/privacy', locale)}>{L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை', 'プライバシーポリシー')}</a>
+      <a href={localePath('/cookies', locale)}>{L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை', 'クッキーポリシー')}</a>
     </nav>
   </div>
 </footer>

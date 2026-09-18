@@ -16,7 +16,7 @@ interface Props {
   doc: 'terms' | 'privacy' | 'cookies';
 }
 const { locale, doc } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const UPDATED = '2026-08-20';
 type Section = { h: string; p?: string[]; list?: string[] };
@@ -26,6 +26,7 @@ const contactP = L(
   `Questions about this policy? Open an issue or discussion in our GitHub repository (${REPO}). The project operator should add a legal entity and an official contact email here.`,
   `对本政策有疑问？请在我们的 GitHub 仓库（${REPO}）中提交 issue 或讨论。项目运营方应在此补充法律主体与官方联系邮箱。`,
   `இந்தக் கொள்கை பற்றிய கேள்விகளா? எங்கள் GitHub களஞ்சியத்தில் (${REPO}) ஒரு issue அல்லது கலந்துரையாடலைத் தொடங்குங்கள். திட்ட இயக்குநர் இங்கே ஒரு சட்டப்பூர்வ நிறுவனத்தையும் அதிகாரப்பூர்வ தொடர்பு மின்னஞ்சலையும் சேர்க்க வேண்டும்.`,
+  `本ポリシーに関するご質問は、GitHub リポジトリ（${REPO}）で issue またはディスカッションを開いてください。プロジェクト運営者は、ここに法人名と公式連絡先メールを追記してください。`,
 );
 
 const changesP = L(
@@ -33,241 +34,264 @@ const changesP = L(
   'We may update this policy from time to time. Material changes are recorded in the project’s GitHub history and the "Updated" date above will change. Continued use after a change means you accept it.',
   '我们可能会不时更新本政策。重大变更会记录在项目的 GitHub 历史中，上方的"更新"日期也会随之变化。变更后继续使用即表示您接受该变更。',
   'இந்தக் கொள்கையை நாங்கள் அவ்வப்போது புதுப்பிக்கலாம். முக்கியமான மாற்றங்கள் திட்டத்தின் GitHub வரலாற்றில் பதிவு செய்யப்படும், மேலே உள்ள "புதுப்பிக்கப்பட்டது" தேதியும் மாறும். மாற்றத்திற்குப் பிறகு தொடர்ந்து பயன்படுத்துவது நீங்கள் அதை ஏற்றுக்கொள்வதைக் குறிக்கிறது.',
+  '本ポリシーは随時更新されることがあります。重要な変更はプロジェクトの GitHub 履歴に記録され、上記の「更新日」も変わります。変更後も利用を続ける場合、その変更に同意したものとみなされます。',
 );
 
 const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Section[] }> = {
   terms: {
-    title: L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்'),
+    title: L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்', '利用規約'),
     tagline: L(
       'Syarat penggunaan NegaraKu.md — sila baca sebelum bergantung pada kandungannya.',
       'The terms for using NegaraKu.md — please read before relying on its content.',
       '使用 NegaraKu.md 的条款——在依赖其内容之前请先阅读。',
       'NegaraKu.md-ஐப் பயன்படுத்துவதற்கான விதிமுறைகள் — அதன் உள்ளடக்கத்தை நம்பிச் செயல்படுவதற்கு முன் தயவுசெய்து படியுங்கள்.',
+      'NegaraKu.md をご利用いただくための規約です。内容に依拠する前にお読みください。',
     ),
     sections: [
       {
-        h: L('Penerimaan', 'Acceptance', '接受条款', 'ஏற்றுக்கொள்ளல்'),
+        h: L('Penerimaan', 'Acceptance', '接受条款', 'ஏற்றுக்கொள்ளல்', '同意'),
         p: [L(
           'Dengan mengakses atau menggunakan NegaraKu.md ("laman ini"), anda bersetuju dengan terma ini. Jika anda tidak bersetuju, sila jangan gunakan laman ini.',
           'By accessing or using NegaraKu.md (the "site"), you agree to these terms. If you do not agree, please do not use the site.',
           '访问或使用 NegaraKu.md（"本网站"）即表示您同意这些条款。若您不同意，请勿使用本网站。',
           'NegaraKu.md-ஐ ("இந்த தளம்") அணுகுவதன் அல்லது பயன்படுத்துவதன் மூலம், இந்த விதிமுறைகளுக்கு நீங்கள் ஒப்புக்கொள்கிறீர்கள். நீங்கள் ஒப்புக்கொள்ளவில்லை என்றால், தயவுசெய்து இந்தத் தளத்தைப் பயன்படுத்த வேண்டாம்.',
+          'NegaraKu.md（以下「本サイト」）にアクセスまたは利用することで、本規約に同意したものとみなされます。同意されない場合は、本サイトを利用しないでください。',
         )],
       },
       {
-        h: L('Apa itu laman ini', 'What this site is', '本网站是什么', 'இந்த தளம் என்ன'),
+        h: L('Apa itu laman ini', 'What this site is', '本网站是什么', 'இந்த தளம் என்ன', '本サイトについて'),
         p: [L(
           'NegaraKu.md ialah pangkalan pengetahuan sumber terbuka tentang Malaysia untuk tujuan maklumat am dan pendidikan. Ia diselenggara secara terbuka dan kandungannya berkembang.',
           'NegaraKu.md is an open-source knowledge base about Malaysia for general information and educational purposes. It is maintained openly and its content evolves.',
           'NegaraKu.md 是一个关于马来西亚的开源知识库，用于一般信息和教育目的。它以开放方式维护，内容会不断更新。',
           'NegaraKu.md என்பது பொது தகவல் மற்றும் கல்வி நோக்கங்களுக்கான மலேசியா பற்றிய ஒரு திறந்த மூல அறிவுத் தளமாகும். இது வெளிப்படையாகப் பராமரிக்கப்படுகிறது, அதன் உள்ளடக்கம் தொடர்ந்து வளர்கிறது.',
+          'NegaraKu.md は、一般的な情報提供および教育を目的とした、マレーシアに関するオープンソースの知識ベースです。オープンに整備され、内容は随時更新されます。',
         )],
       },
       {
-        h: L('Bukan nasihat profesional', 'Not professional advice', '并非专业建议', 'தொழில்முறை ஆலோசனை அல்ல'),
+        h: L('Bukan nasihat profesional', 'Not professional advice', '并非专业建议', 'தொழில்முறை ஆலோசனை அல்ல', '専門的助言ではありません'),
         p: [L(
           'Kandungan di sini — termasuk topik undang-undang, cukai, perakaunan dan perniagaan — adalah maklumat am sahaja dan BUKAN nasihat undang-undang, cukai, kewangan atau profesional lain. Undang-undang dan peraturan berubah, dan kes anda mungkin berbeza. Sahkan sebelum bertindak dengan sumber rasmi (cth. AGC, LHDN, SSM) atau seorang profesional bertauliah.',
           'The content here — including law, tax, accounting and business topics — is general information only and is NOT legal, tax, financial or other professional advice. Laws and rules change, and your situation may differ. Before acting, verify with official sources (e.g. AGC, LHDN, SSM) or a qualified professional.',
           '此处内容——包括法律、税务、会计和商业主题——仅为一般信息，并非法律、税务、财务或其他专业建议。法律与规则会变化，您的情况也可能不同。采取行动前，请通过官方来源（如 AGC、LHDN、SSM）或合资格的专业人士核实。',
           'இங்குள்ள உள்ளடக்கம் — சட்டம், வரி, கணக்கியல் மற்றும் வணிகத் தலைப்புகள் உட்பட — பொது தகவல் மட்டுமே, இது சட்ட, வரி, நிதி அல்லது பிற தொழில்முறை ஆலோசனை அல்ல. சட்டங்களும் விதிகளும் மாறுகின்றன, உங்கள் நிலைமையும் வேறுபடலாம். செயல்படுவதற்கு முன், அதிகாரப்பூர்வ ஆதாரங்களுடன் (எ.கா. AGC, LHDN, SSM) அல்லது தகுதிவாய்ந்த ஒரு நிபுணருடன் சரிபார்க்கவும்.',
+          '本サイトの内容（法律・税務・会計・ビジネスの話題を含む）は一般的な情報にすぎず、法律・税務・財務その他の専門的助言ではありません。法律や規則は変わり、状況も人それぞれ異なります。行動する前に、公式情報源（例：AGC、LHDN、SSM）または有資格の専門家に確認してください。',
         )],
       },
       {
-        h: L('Ketepatan & tiada jaminan', 'Accuracy & no warranty', '准确性与免责', 'துல்லியம் & உத்தரவாதம் இல்லை'),
+        h: L('Ketepatan & tiada jaminan', 'Accuracy & no warranty', '准确性与免责', 'துல்லியம் & உத்தரவாதம் இல்லை', '正確性および無保証'),
         p: [L(
           'Kami berusaha memetik sumber utama dan memastikan ketepatan, tetapi laman ini disediakan "sebagaimana adanya" tanpa sebarang jaminan. Kami tidak bertanggungjawab atas kerugian yang timbul daripada pergantungan pada kandungannya, setakat yang dibenarkan undang-undang.',
           'We strive to cite primary sources and be accurate, but the site is provided "as is" without warranties of any kind. To the extent permitted by law, we are not liable for any loss arising from reliance on its content.',
           '我们力求引用一手来源并保持准确，但本网站按"现状"提供，不作任何形式的保证。在法律允许的范围内，我们不对因依赖其内容而产生的任何损失负责。',
           'நாங்கள் முதன்மை ஆதாரங்களை மேற்கோள் காட்டவும் துல்லியமாக இருக்கவும் முயற்சிக்கிறோம், ஆனால் இந்த தளம் எந்தவிதமான உத்தரவாதமும் இல்லாமல் "உள்ளபடி" வழங்கப்படுகிறது. சட்டம் அனுமதிக்கும் அளவிற்கு, அதன் உள்ளடக்கத்தை நம்பியதால் ஏற்படும் எந்த இழப்பிற்கும் நாங்கள் பொறுப்பல்ல.',
+          '私たちは一次情報源の引用と正確性に努めていますが、本サイトはいかなる保証もなく「現状のまま」提供されます。法律で認められる範囲において、その内容に依拠したことで生じたいかなる損失についても、私たちは責任を負いません。',
         )],
       },
       {
-        h: L('Lesen & penggunaan kandungan', 'Licence & use of content', '许可与内容使用', 'உரிமம் & உள்ளடக்கப் பயன்பாடு'),
+        h: L('Lesen & penggunaan kandungan', 'Licence & use of content', '许可与内容使用', 'உரிமம் & உள்ளடக்கப் பயன்பாடு', 'ライセンスおよびコンテンツの利用'),
         p: [L(
           'Kandungan artikel dilesenkan di bawah Creative Commons BY-SA 4.0: anda boleh berkongsi dan menyesuaikannya, dengan syarat memberi pengiktirafan dan berkongsi di bawah lesen yang sama. Kod sumber laman ini di bawah lesen MIT. Nama dan tanda dagangan "NegaraKu.md" dan "1company" tidak termasuk dalam lesen ini.',
           'Article content is licensed under Creative Commons BY-SA 4.0: you may share and adapt it, provided you give attribution and share under the same licence. The site’s source code is under the MIT licence. The "NegaraKu.md" and "1company" names and marks are not covered by these licences.',
           '文章内容采用 Creative Commons BY-SA 4.0 许可：您可以分享和改编，前提是注明出处并以相同许可分享。本网站的源代码采用 MIT 许可。"NegaraKu.md" 与 "1company" 名称及标志不在上述许可范围内。',
           'கட்டுரை உள்ளடக்கம் Creative Commons BY-SA 4.0 உரிமத்தின் கீழ் வழங்கப்படுகிறது: நீங்கள் அதைப் பகிரலாம் மற்றும் தழுவலாம், ஆனால் பங்களிப்பை அங்கீகரித்து அதே உரிமத்தின் கீழ் பகிர வேண்டும். தளத்தின் மூலக் குறியீடு MIT உரிமத்தின் கீழ் உள்ளது. "NegaraKu.md" மற்றும் "1company" பெயர்களும் அடையாளங்களும் இந்த உரிமங்களில் அடங்காது.',
+          '記事コンテンツは Creative Commons BY-SA 4.0 のもとで提供されます。出典を明示し同一ライセンスで共有することを条件に、共有・改変が可能です。本サイトのソースコードは MIT ライセンスです。「NegaraKu.md」および「1company」の名称・標章はこれらのライセンスの対象外です。',
         )],
       },
       {
-        h: L('Penggunaan yang boleh diterima', 'Acceptable use', '可接受的使用', 'ஏற்கத்தக்க பயன்பாடு'),
+        h: L('Penggunaan yang boleh diterima', 'Acceptable use', '可接受的使用', 'ஏற்கத்தக்க பயன்பாடு', '許容される利用'),
         list: [
-          L('Jangan gunakan laman ini untuk tujuan menyalahi undang-undang atau memudaratkan.', 'Don’t use the site for unlawful or harmful purposes.', '请勿将本网站用于非法或有害目的。', 'சட்டவிரோதமான அல்லது தீங்கு விளைவிக்கும் நோக்கங்களுக்கு இந்தத் தளத்தைப் பயன்படுத்த வேண்டாம்.'),
-          L('Jangan cuba mengganggu, merosakkan atau mengakses laman ini secara tidak dibenarkan.', 'Don’t attempt to disrupt, damage, or gain unauthorised access to the site.', '请勿试图干扰、破坏或未经授权访问本网站。', 'இந்தத் தளத்தை சீர்குலைக்கவோ, சேதப்படுத்தவோ அல்லது அனுமதியின்றி அணுகவோ முயற்சிக்க வேண்டாம்.'),
-          L('Automasi/pengaisan yang munasabah dialu-alukan — Markdown mentah dan llms.txt disediakan untuk itu — tetapi jangan bebankan perkhidmatan.', 'Reasonable automation/scraping is welcome — raw Markdown and llms.txt are provided for it — but don’t overload the service.', '欢迎合理的自动化/抓取——我们为此提供原始 Markdown 和 llms.txt——但请勿使服务过载。', 'நியாயமான தன்னியக்கம்/ஸ்கிராப்பிங் வரவேற்கப்படுகிறது — அதற்காக raw Markdown மற்றும் llms.txt வழங்கப்பட்டுள்ளன — ஆனால் சேவையை அதிக சுமையாக்க வேண்டாம்.'),
+          L('Jangan gunakan laman ini untuk tujuan menyalahi undang-undang atau memudaratkan.', 'Don’t use the site for unlawful or harmful purposes.', '请勿将本网站用于非法或有害目的。', 'சட்டவிரோதமான அல்லது தீங்கு விளைவிக்கும் நோக்கங்களுக்கு இந்தத் தளத்தைப் பயன்படுத்த வேண்டாம்.', '違法または有害な目的で本サイトを利用しないでください。'),
+          L('Jangan cuba mengganggu, merosakkan atau mengakses laman ini secara tidak dibenarkan.', 'Don’t attempt to disrupt, damage, or gain unauthorised access to the site.', '请勿试图干扰、破坏或未经授权访问本网站。', 'இந்தத் தளத்தை சீர்குலைக்கவோ, சேதப்படுத்தவோ அல்லது அனுமதியின்றி அணுகவோ முயற்சிக்க வேண்டாம்.', '本サイトを妨害・破壊したり、無断でアクセスしたりしないでください。'),
+          L('Automasi/pengaisan yang munasabah dialu-alukan — Markdown mentah dan llms.txt disediakan untuk itu — tetapi jangan bebankan perkhidmatan.', 'Reasonable automation/scraping is welcome — raw Markdown and llms.txt are provided for it — but don’t overload the service.', '欢迎合理的自动化/抓取——我们为此提供原始 Markdown 和 llms.txt——但请勿使服务过载。', 'நியாயமான தன்னியக்கம்/ஸ்கிராப்பிங் வரவேற்கப்படுகிறது — அதற்காக raw Markdown மற்றும் llms.txt வழங்கப்பட்டுள்ளன — ஆனால் சேவையை அதிக சுமையாக்க வேண்டாம்.', '適度な自動化・スクレイピングは歓迎します（そのために生の Markdown と llms.txt を用意しています）が、サービスに過度な負荷をかけないでください。'),
         ],
       },
       {
-        h: L('Pautan luar', 'External links', '外部链接', 'வெளிப் புற இணைப்புகள்'),
+        h: L('Pautan luar', 'External links', '外部链接', 'வெளிப் புற இணைப்புகள்', '外部リンク'),
         p: [L(
           'Laman ini memaut ke laman pihak ketiga (cth. sumber rasmi, GitHub). Kami tidak mengawal dan tidak bertanggungjawab atas kandungan atau amalan mereka.',
           'The site links to third-party sites (e.g. official sources, GitHub). We don’t control and aren’t responsible for their content or practices.',
           '本网站链接到第三方网站（如官方来源、GitHub）。我们不控制也不对其内容或做法负责。',
           'இந்த தளம் மூன்றாம் தரப்பு தளங்களுக்கு (எ.கா. அதிகாரப்பூர்வ ஆதாரங்கள், GitHub) இணைக்கிறது. அவற்றின் உள்ளடக்கம் அல்லது நடைமுறைகளை நாங்கள் கட்டுப்படுத்துவதில்லை, அவற்றுக்கு நாங்கள் பொறுப்பல்ல.',
+          '本サイトは第三者のサイト（例：公式情報源、GitHub）へリンクしています。私たちはそれらを管理しておらず、その内容や運用について責任を負いません。',
         )],
       },
       {
-        h: L('Perubahan pada terma', 'Changes to these terms', '条款变更', 'இந்த விதிமுறைகளில் மாற்றங்கள்'),
+        h: L('Perubahan pada terma', 'Changes to these terms', '条款变更', 'இந்த விதிமுறைகளில் மாற்றங்கள்', '本規約の変更'),
         p: [changesP],
       },
       {
-        h: L('Undang-undang yang mentadbir', 'Governing law', '适用法律', 'ஆளும் சட்டம்'),
+        h: L('Undang-undang yang mentadbir', 'Governing law', '适用法律', 'ஆளும் சட்டம்', '準拠法'),
         p: [L(
           'Terma ini ditadbir oleh undang-undang Malaysia, tanpa mengambil kira peruntukan percanggahan undang-undangnya.',
           'These terms are governed by the laws of Malaysia, without regard to its conflict-of-laws provisions.',
           '本条款受马来西亚法律管辖，不考虑其法律冲突条款。',
           'இந்த விதிமுறைகள் மலேசிய சட்டங்களால் ஆளப்படுகின்றன, அதன் சட்ட முரண்பாட்டு விதிகளைக் கருத்தில் கொள்ளாமல்.',
+          '本規約はマレーシアの法律に準拠し、その抵触法規定は適用されません。',
         )],
       },
       {
-        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு'),
+        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு', 'お問い合わせ'),
         p: [contactP],
       },
     ],
   },
   privacy: {
-    title: L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை'),
+    title: L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை', 'プライバシーポリシー'),
     tagline: L(
       'Kami mengumpul sesedikit mungkin — tiada akaun, tiada kuki penjejak.',
       'We collect as little as possible — no accounts, no tracking cookies.',
       '我们尽可能少地收集信息——无账户，无跟踪 cookie。',
       'நாங்கள் முடிந்தவரை குறைவாகவே சேகரிக்கிறோம் — கணக்குகள் இல்லை, கண்காணிப்பு குக்கீகள் இல்லை.',
+      '収集は最小限に — アカウントも追跡クッキーもありません。',
     ),
     sections: [
       {
-        h: L('Ringkasnya', 'In short', '简而言之', 'சுருக்கமாக'),
+        h: L('Ringkasnya', 'In short', '简而言之', 'சுருக்கமாக', '要点'),
         p: [L(
           'NegaraKu.md ialah laman statik untuk dibaca. Ia tidak mempunyai akaun pengguna, borang log masuk, atau borang yang mengumpul data peribadi anda di laman ini. Ia tidak menetapkan kuki penjejak atau pengiklanan.',
           'NegaraKu.md is a static site you read. It has no user accounts, no login, and no forms that collect your personal data on the site. It sets no tracking or advertising cookies.',
           'NegaraKu.md 是一个供阅读的静态网站。它没有用户账户、没有登录，也没有在本网站收集您个人数据的表单。它不设置跟踪或广告 cookie。',
           'NegaraKu.md என்பது நீங்கள் படிக்கும் ஒரு நிலையான தளம். இதில் பயனர் கணக்குகள் இல்லை, உள்நுழைவு இல்லை, இந்தத் தளத்தில் உங்கள் தனிப்பட்ட தரவைச் சேகரிக்கும் படிவங்களும் இல்லை. இது கண்காணிப்பு அல்லது விளம்பரக் குக்கீகளை அமைக்காது.',
+          'NegaraKu.md は閲覧用の静的サイトです。ユーザーアカウントもログインもなく、本サイト上であなたの個人データを収集するフォームもありません。追跡や広告のクッキーも設定しません。',
         )],
       },
       {
-        h: L('Simpanan setempat (keutamaan anda)', 'Local storage (your preferences)', '本地存储（您的偏好）', 'உள்ளூர் சேமிப்பு (உங்கள் விருப்பங்கள்)'),
+        h: L('Simpanan setempat (keutamaan anda)', 'Local storage (your preferences)', '本地存储（您的偏好）', 'உள்ளூர் சேமிப்பு (உங்கள் விருப்பங்கள்)', 'ローカルストレージ（あなたの設定）'),
         p: [L(
           'Keutamaan bacaan anda — tema (nk-theme), saiz teks (nk-text-size) dan bahasa lalai (nk-default-lang) — disimpan dalam pelayar anda menggunakan localStorage. Ia kekal di peranti anda, tidak pernah dihantar kepada kami, dan boleh dikosongkan bila-bila masa melalui tetapan pelayar anda.',
           'Your reading preferences — theme (nk-theme), text size (nk-text-size) and default language (nk-default-lang) — are stored in your browser using localStorage. They stay on your device, are never sent to us, and can be cleared anytime via your browser settings.',
           '您的阅读偏好——主题 (nk-theme)、文字大小 (nk-text-size) 和默认语言 (nk-default-lang)——通过 localStorage 存储在您的浏览器中。它们保留在您的设备上，绝不会发送给我们，并可随时通过浏览器设置清除。',
           'உங்கள் வாசிப்பு விருப்பங்கள் — தீம் (nk-theme), உரை அளவு (nk-text-size) மற்றும் இயல்பு மொழி (nk-default-lang) — localStorage ஐப் பயன்படுத்தி உங்கள் உலாவியில் சேமிக்கப்படுகின்றன. அவை உங்கள் சாதனத்திலேயே இருக்கும், எங்களுக்கு ஒருபோதும் அனுப்பப்படுவதில்லை, உங்கள் உலாவி அமைப்புகள் மூலம் எப்போது வேண்டுமானாலும் அழிக்கலாம்.',
+          'あなたの閲覧設定 — テーマ（nk-theme）、文字サイズ（nk-text-size）、既定言語（nk-default-lang） — は localStorage を使ってブラウザに保存されます。これらは端末にとどまり、私たちに送信されることは一切なく、ブラウザ設定からいつでも消去できます。',
         )],
       },
       {
-        h: L('Analitik', 'Analytics', '分析统计', 'பகுப்பாய்வு'),
+        h: L('Analitik', 'Analytics', '分析统计', 'பகுப்பாய்வு', 'アクセス解析'),
         p: [L(
           'Kami menyimpan kiraan pelawat agregat (cth. bilangan bacaan) melalui analitik di peringkat edge, tanpa kuki dan tanpa menjejaki anda merentas laman. Kami tidak membina profil individu atau menjual data.',
           'We keep aggregate visitor counts (e.g. read counts) via edge-level analytics, without cookies and without tracking you across sites. We do not build individual profiles or sell data.',
           '我们通过边缘层面的分析保留汇总的访客计数（如阅读数），不使用 cookie，也不跨站点跟踪您。我们不建立个人档案，也不出售数据。',
           'நாங்கள் மொத்த பார்வையாளர் எண்ணிக்கைகளை (எ.கா. வாசிப்பு எண்ணிக்கை) edge-நிலை பகுப்பாய்வு மூலம் வைத்திருக்கிறோம், குக்கீகள் இல்லாமல், தளங்களுக்கு இடையே உங்களைக் கண்காணிக்காமல். நாங்கள் தனிநபர் சுயவிவரங்களை உருவாக்குவதில்லை அல்லது தரவை விற்பதில்லை.',
+          '私たちは、クッキーを使わず、サイトをまたいで追跡することもなく、エッジレベルの解析によって集計的な訪問者数（例：閲覧数）を保持します。個人プロファイルの作成やデータの販売は行いません。',
         )],
       },
       {
-        h: L('Pengehosan & penghantaran', 'Hosting & delivery', '托管与分发', 'ஹோஸ்டிங் & வழங்கல்'),
+        h: L('Pengehosan & penghantaran', 'Hosting & delivery', '托管与分发', 'ஹோஸ்டிங் & வழங்கல்', 'ホスティングと配信'),
         p: [L(
           'Laman ini dihoskan di GitHub Pages dan dihantar melalui Cloudflare. Untuk menghantar halaman dengan selamat, penyedia ini memproses data teknikal seperti alamat IP anda bagi tujuan penyampaian, keselamatan dan pencegahan penyalahgunaan. Amalan mereka dilindungi oleh dasar privasi GitHub dan Cloudflare masing-masing.',
           'The site is hosted on GitHub Pages and delivered through Cloudflare. To serve pages securely, these providers process technical data such as your IP address for delivery, security and abuse prevention. Their practices are covered by GitHub’s and Cloudflare’s respective privacy policies.',
           '本网站托管于 GitHub Pages，并通过 Cloudflare 分发。为安全地提供页面，这些服务商会处理诸如您的 IP 地址等技术数据，用于分发、安全和防滥用。其做法分别受 GitHub 和 Cloudflare 各自的隐私政策约束。',
           'இந்த தளம் GitHub Pages இல் ஹோஸ்ட் செய்யப்பட்டு Cloudflare மூலம் வழங்கப்படுகிறது. பக்கங்களைப் பாதுகாப்பாக வழங்குவதற்கு, இந்த வழங்குநர்கள் வழங்கல், பாதுகாப்பு மற்றும் தவறான பயன்பாட்டைத் தடுப்பதற்காக உங்கள் IP முகவரி போன்ற தொழில்நுட்பத் தரவைச் செயலாக்குகிறார்கள். அவர்களின் நடைமுறைகள் GitHub மற்றும் Cloudflare இன் அந்தந்த தனியுரிமைக் கொள்கைகளால் மூடப்பட்டுள்ளன.',
+          '本サイトは GitHub Pages でホストされ、Cloudflare を通じて配信されます。ページを安全に配信するため、これらのプロバイダーは配信・セキュリティ・不正防止の目的で、IP アドレスなどの技術的データを処理します。その取り扱いは、それぞれ GitHub と Cloudflare のプライバシーポリシーに従います。',
         )],
       },
       {
-        h: L('Maklum balas & sumbangan', 'Feedback & contributions', '反馈与贡献', 'கருத்து & பங்களிப்புகள்'),
+        h: L('Maklum balas & sumbangan', 'Feedback & contributions', '反馈与贡献', 'கருத்து & பங்களிப்புகள்', 'フィードバックと貢献'),
         p: [L(
           'Butang "Laporkan isu" dan "Cadang" membuka isu di GitHub. Apa sahaja yang anda taip di sana diuruskan oleh GitHub (di bawah dasar privasi mereka) dan biasanya boleh dilihat umum. Jangan sertakan maklumat sensitif dalam isu awam.',
           'The "Report an issue" and "Suggest" buttons open an issue on GitHub. Anything you type there is handled by GitHub (under their privacy policy) and is usually publicly visible. Don’t include sensitive information in a public issue.',
           '"报告问题"和"建议"按钮会在 GitHub 上创建 issue。您在其中输入的任何内容都由 GitHub 处理（受其隐私政策约束），且通常公开可见。请勿在公开 issue 中包含敏感信息。',
           '"சிக்கலைப் புகாரளி" மற்றும் "பரிந்துரை" பொத்தான்கள் GitHub இல் ஒரு issue ஐத் திறக்கின்றன. நீங்கள் அங்கே தட்டச்சு செய்யும் எதுவும் GitHub ஆல் (அவர்களின் தனியுரிமைக் கொள்கையின் கீழ்) கையாளப்படுகிறது, பொதுவாக பொதுவில் காணக்கூடியதாக இருக்கும். பொது issue இல் முக்கியமான தகவல்களைச் சேர்க்க வேண்டாம்.',
+          '「問題を報告」および「提案」ボタンは GitHub 上に issue を開きます。そこに入力した内容は GitHub によって（同社のプライバシーポリシーのもとで）扱われ、通常は一般に公開されます。公開 issue に機微な情報を含めないでください。',
         )],
       },
       {
-        h: L('Pautan luar & perkongsian', 'External links & sharing', '外部链接与分享', 'வெளிப் புற இணைப்புகள் & பகிர்வு'),
+        h: L('Pautan luar & perkongsian', 'External links & sharing', '外部链接与分享', 'வெளிப் புற இணைப்புகள் & பகிர்வு', '外部リンクと共有'),
         p: [L(
           'Butang kongsi memaut ke perkhidmatan pihak ketiga (WhatsApp, Telegram, X, dll.). Apabila anda menggunakannya, dasar privasi perkhidmatan tersebut terpakai.',
           'Share buttons link out to third-party services (WhatsApp, Telegram, X, etc.). When you use them, those services’ privacy policies apply.',
           '分享按钮链接到第三方服务（WhatsApp、Telegram、X 等）。当您使用它们时，适用这些服务的隐私政策。',
           'பகிர்வுப் பொத்தான்கள் மூன்றாம் தரப்பு சேவைகளுக்கு (WhatsApp, Telegram, X, முதலியன) இணைக்கின்றன. நீங்கள் அவற்றைப் பயன்படுத்தும்போது, அந்தச் சேவைகளின் தனியுரிமைக் கொள்கைகள் பொருந்தும்.',
+          '共有ボタンは第三者のサービス（WhatsApp、Telegram、X など）へリンクします。それらを利用する際は、各サービスのプライバシーポリシーが適用されます。',
         )],
       },
       {
-        h: L('Kanak-kanak', 'Children', '儿童', 'குழந்தைகள்'),
+        h: L('Kanak-kanak', 'Children', '儿童', 'குழந்தைகள்', '子どもについて'),
         p: [L(
           'Laman ini untuk khalayak umum dan tidak ditujukan untuk mengumpul data daripada kanak-kanak. Kerana kami tidak mengumpul data peribadi di laman ini, tiada data khusus kanak-kanak dikumpul.',
           'The site is for a general audience and is not aimed at collecting data from children. Because we don’t collect personal data on the site, no child-specific data is collected.',
           '本网站面向普通受众，并非旨在收集儿童数据。由于我们不在本网站收集个人数据，因此不会收集任何针对儿童的数据。',
           'இந்த தளம் பொது பார்வையாளர்களுக்கானது, குழந்தைகளிடமிருந்து தரவைச் சேகரிக்க நோக்கம் கொண்டதல்ல. இந்தத் தளத்தில் நாங்கள் தனிப்பட்ட தரவைச் சேகரிப்பதில்லை என்பதால், குழந்தைகள் சார்ந்த எந்தத் தரவும் சேகரிக்கப்படுவதில்லை.',
+          '本サイトは一般の利用者を対象としており、子どもからのデータ収集を目的としていません。本サイトでは個人データを収集しないため、子どもに固有のデータも収集されません。',
         )],
       },
       {
-        h: L('Perubahan', 'Changes', '变更', 'மாற்றங்கள்'),
+        h: L('Perubahan', 'Changes', '变更', 'மாற்றங்கள்', '変更'),
         p: [changesP],
       },
       {
-        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு'),
+        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு', 'お問い合わせ'),
         p: [contactP],
       },
     ],
   },
   cookies: {
-    title: L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை'),
+    title: L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை', 'クッキーポリシー'),
     tagline: L(
       'Versi pendek: laman ini tidak menetapkan kuki penjejak atau pengiklanan.',
       'The short version: this site sets no tracking or advertising cookies.',
       '简短版：本网站不设置任何跟踪或广告 cookie。',
       'சுருக்கமாக: இந்த தளம் எந்தக் கண்காணிப்பு அல்லது விளம்பரக் குக்கீகளையும் அமைக்காது.',
+      '要するに、本サイトは追跡や広告のクッキーを一切設定しません。',
     ),
     sections: [
       {
-        h: L('Versi pendek', 'The short version', '简短版', 'சுருக்கமான பதிப்பு'),
+        h: L('Versi pendek', 'The short version', '简短版', 'சுருக்கமான பதிப்பு', '要点'),
         p: [L(
           'NegaraKu.md tidak menetapkan kuki penjejak, analitik atau pengiklanan. Kami tidak menggunakan kuki untuk memprofil anda.',
           'NegaraKu.md does not set tracking, analytics or advertising cookies. We do not use cookies to profile you.',
           'NegaraKu.md 不设置跟踪、分析或广告 cookie。我们不使用 cookie 来分析您的个人画像。',
           'NegaraKu.md கண்காணிப்பு, பகுப்பாய்வு அல்லது விளம்பரக் குக்கீகளை அமைக்காது. உங்களை சுயவிவரப்படுத்த நாங்கள் குக்கீகளைப் பயன்படுத்துவதில்லை.',
+          'NegaraKu.md は追跡・解析・広告のクッキーを設定しません。あなたをプロファイリングするためにクッキーを使うことはありません。',
         )],
       },
       {
-        h: L('Apa yang kami guna sebaliknya', 'What we use instead', '我们改用什么', 'அதற்குப் பதிலாக நாங்கள் எதைப் பயன்படுத்துகிறோம்'),
+        h: L('Apa yang kami guna sebaliknya', 'What we use instead', '我们改用什么', 'அதற்குப் பதிலாக நாங்கள் எதைப் பயன்படுத்துகிறோம்', '代わりに使っているもの'),
         p: [L(
           'Untuk mengingati keutamaan anda (tema, saiz teks, bahasa), kami menggunakan localStorage pelayar — bukan kuki. Data ini kekal di peranti anda dan tidak pernah dihantar kepada kami. Lihat Dasar Privasi kami untuk butiran.',
           'To remember your preferences (theme, text size, language), we use the browser’s localStorage — not cookies. This data stays on your device and is never sent to us. See our Privacy Policy for details.',
           '为记住您的偏好（主题、文字大小、语言），我们使用浏览器的 localStorage——而非 cookie。这些数据保留在您的设备上，绝不会发送给我们。详见我们的隐私政策。',
           'உங்கள் விருப்பங்களை (தீம், உரை அளவு, மொழி) நினைவில் வைத்திருக்க, நாங்கள் உலாவியின் localStorage ஐப் பயன்படுத்துகிறோம் — குக்கீகள் அல்ல. இந்தத் தரவு உங்கள் சாதனத்திலேயே இருக்கும், எங்களுக்கு ஒருபோதும் அனுப்பப்படுவதில்லை. விவரங்களுக்கு எங்கள் தனியுரிமைக் கொள்கையைப் பார்க்கவும்.',
+          '設定（テーマ、文字サイズ、言語）を記憶するために、私たちはクッキーではなくブラウザの localStorage を使用します。このデータは端末にとどまり、私たちに送信されることはありません。詳しくはプライバシーポリシーをご覧ください。',
         )],
       },
       {
-        h: L('Kuki yang benar-benar perlu', 'Strictly necessary cookies', '严格必要的 cookie', 'கண்டிப்பாக அவசியமான குக்கீகள்'),
+        h: L('Kuki yang benar-benar perlu', 'Strictly necessary cookies', '严格必要的 cookie', 'கண்டிப்பாக அவசியமான குக்கீகள்', '必須クッキー'),
         p: [L(
           'Penyedia infrastruktur kami (Cloudflare) mungkin menetapkan kuki yang benar-benar perlu untuk keselamatan dan prestasi (cth. mengurangkan serangan). Kuki jenis ini tidak menjejaki anda untuk pengiklanan dan biasanya tidak memerlukan persetujuan di bawah undang-undang privasi.',
           'Our infrastructure provider (Cloudflare) may set strictly necessary cookies for security and performance (e.g. mitigating attacks). These do not track you for advertising and generally do not require consent under privacy law.',
           '我们的基础设施服务商（Cloudflare）可能会设置用于安全和性能的严格必要 cookie（如缓解攻击）。这些 cookie 不会为广告目的跟踪您，且通常无需根据隐私法获得同意。',
           'எங்கள் உள்கட்டமைப்பு வழங்குநர் (Cloudflare) பாதுகாப்பு மற்றும் செயல்திறனுக்காக (எ.கா. தாக்குதல்களைத் தணித்தல்) கண்டிப்பாக அவசியமான குக்கீகளை அமைக்கலாம். இவை விளம்பரத்திற்காக உங்களைக் கண்காணிப்பதில்லை, பொதுவாக தனியுரிமைச் சட்டத்தின் கீழ் ஒப்புதல் தேவைப்படுவதில்லை.',
+          '私たちのインフラ提供者（Cloudflare）は、セキュリティと性能のため（例：攻撃の緩和）に必須クッキーを設定することがあります。これらは広告目的で追跡するものではなく、通常プライバシー法上の同意を必要としません。',
         )],
       },
       {
-        h: L('Tiada kuki pihak ketiga penjejak', 'No third-party tracking cookies', '无第三方跟踪 cookie', 'மூன்றாம் தரப்பு கண்காணிப்பு குக்கீகள் இல்லை'),
+        h: L('Tiada kuki pihak ketiga penjejak', 'No third-party tracking cookies', '无第三方跟踪 cookie', 'மூன்றாம் தரப்பு கண்காணிப்பு குக்கீகள் இல்லை', '第三者の追跡クッキーはありません'),
         p: [L(
           'Kami tidak memuatkan skrip analitik atau pengiklanan pihak ketiga yang menetapkan kuki. Butang kongsi hanya memaut keluar; ia tidak menetapkan kuki melainkan anda melawat perkhidmatan tersebut.',
           'We don’t load third-party analytics or advertising scripts that set cookies. Share buttons only link out; they don’t set cookies unless you visit those services.',
           '我们不加载会设置 cookie 的第三方分析或广告脚本。分享按钮仅链接外部；除非您访问这些服务，否则它们不会设置 cookie。',
           'குக்கீகளை அமைக்கும் மூன்றாம் தரப்பு பகுப்பாய்வு அல்லது விளம்பர ஸ்கிரிப்ட்களை நாங்கள் ஏற்றுவதில்லை. பகிர்வுப் பொத்தான்கள் வெளியே இணைக்கின்றன மட்டுமே; அந்தச் சேவைகளை நீங்கள் பார்வையிடாத வரை அவை குக்கீகளை அமைக்காது.',
+          'クッキーを設定する第三者の解析・広告スクリプトを読み込むことはありません。共有ボタンは外部へリンクするだけで、それらのサービスを訪れない限りクッキーを設定しません。',
         )],
       },
       {
-        h: L('Mengurus simpanan', 'Managing storage', '管理存储', 'சேமிப்பை நிர்வகித்தல்'),
+        h: L('Mengurus simpanan', 'Managing storage', '管理存储', 'சேமிப்பை நிர்வகித்தல்', 'ストレージの管理'),
         p: [L(
           'Anda boleh mengosongkan localStorage dan sebarang kuki melalui tetapan pelayar anda pada bila-bila masa. Mengosongkannya hanya menetapkan semula keutamaan anda; ia tidak menjejaskan keupayaan membaca laman ini.',
           'You can clear localStorage and any cookies through your browser settings at any time. Clearing them simply resets your preferences; it doesn’t affect your ability to read the site.',
           '您可以随时通过浏览器设置清除 localStorage 和任何 cookie。清除它们只会重置您的偏好，不会影响您阅读本网站的能力。',
           'உங்கள் உலாவி அமைப்புகள் மூலம் localStorage மற்றும் எந்தக் குக்கீகளையும் எப்போது வேண்டுமானாலும் அழிக்கலாம். அவற்றை அழிப்பது உங்கள் விருப்பங்களை மீட்டமைக்கிறது மட்டுமே; இது இந்தத் தளத்தைப் படிக்கும் உங்கள் திறனைப் பாதிக்காது.',
+          'localStorage やクッキーは、ブラウザ設定からいつでも消去できます。消去しても設定がリセットされるだけで、本サイトを閲覧する機能には影響しません。',
         )],
       },
       {
-        h: L('Perubahan', 'Changes', '变更', 'மாற்றங்கள்'),
+        h: L('Perubahan', 'Changes', '变更', 'மாற்றங்கள்', '変更'),
         p: [changesP],
       },
       {
-        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு'),
+        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு', 'お問い合わせ'),
         p: [contactP],
       },
     ],
@@ -275,13 +299,13 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
 };
 
 const d = DOCS[doc];
-const crumbLabel = L('Undang-undang', 'Legal', '法律', 'சட்டம்');
+const crumbLabel = L('Undang-undang', 'Legal', '法律', 'சட்டம்', '法務');
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
     { label: d.title },
   ]}
   title={d.title}
@@ -289,7 +313,7 @@ const crumbLabel = L('Undang-undang', 'Legal', '法律', 'சட்டம்');
 />
 
 <section class="container legal-doc">
-  <p class="updated">{L('Dikemas kini', 'Updated', '更新', 'புதுப்பிக்கப்பட்டது')}: {UPDATED}</p>
+  <p class="updated">{L('Dikemas kini', 'Updated', '更新', 'புதுப்பிக்கப்பட்டது', '更新日')}: {UPDATED}</p>
 
   <div class="disclaimer">
     {L(
@@ -297,6 +321,7 @@ const crumbLabel = L('Undang-undang', 'Legal', '法律', 'சட்டம்');
       'This document is provided as an honest general template based on how the site works. It is not legal advice. The operator should have it reviewed by a lawyer and fill in legal-entity and contact details before relying on it.',
       '本文件是基于本网站运作方式提供的诚实通用模板。它不构成法律建议。运营方应在依赖之前请律师审阅，并补充法律主体与联系方式。',
       'இந்த ஆவணம் தளம் எவ்வாறு செயல்படுகிறது என்பதன் அடிப்படையில் ஒரு நேர்மையான பொது வார்ப்புருவாக வழங்கப்படுகிறது. இது சட்ட ஆலோசனை அல்ல. இயக்குநர் இதை நம்பியிருப்பதற்கு முன் ஒரு வழக்கறிஞரால் மதிப்பாய்வு செய்து, சட்டப்பூர்வ நிறுவனம் மற்றும் தொடர்பு விவரங்களை நிரப்ப வேண்டும்.',
+      '本書面は、本サイトの動作に基づく誠実な一般的テンプレートとして提供されます。法的助言ではありません。運営者は、依拠する前に弁護士に確認し、法人および連絡先の情報を記入してください。',
     )}
   </div>
 
@@ -311,9 +336,9 @@ const crumbLabel = L('Undang-undang', 'Legal', '法律', 'சட்டம்');
   ))}
 
   <nav class="cross" aria-label={crumbLabel}>
-    <a href={localePath('/terms', locale)} class={doc === 'terms' ? 'on' : ''}>{L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்')}</a>
-    <a href={localePath('/privacy', locale)} class={doc === 'privacy' ? 'on' : ''}>{L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை')}</a>
-    <a href={localePath('/cookies', locale)} class={doc === 'cookies' ? 'on' : ''}>{L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை')}</a>
+    <a href={localePath('/terms', locale)} class={doc === 'terms' ? 'on' : ''}>{L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்', '利用規約')}</a>
+    <a href={localePath('/privacy', locale)} class={doc === 'privacy' ? 'on' : ''}>{L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை', 'プライバシーポリシー')}</a>
+    <a href={localePath('/cookies', locale)} class={doc === 'cookies' ? 'on' : ''}>{L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை', 'クッキーポリシー')}</a>
   </nav>
 </section>
 

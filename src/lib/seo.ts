@@ -25,6 +25,7 @@ export function organizationJsonLd(locale: Locale = 'en'): Record<string, unknow
     en: 'An open-source, AI-friendly knowledge base about Malaysia — Bahasa Melayu, English, 中文 and தமிழ்.',
     zh: '关于马来西亚的开源、AI 友好知识库——Bahasa Melayu、English、中文与தமிழ்。',
     ta: 'மலேசியா பற்றிய திறந்த-மூல, AI-நட்பு அறிவுத் தளம் — Bahasa Melayu, English, 中文 மற்றும் தமிழ்.',
+    ja: 'マレーシアに関するオープンソースで AI フレンドリーな知識ベース — Bahasa Melayu、English、中文、தமிழ்。',
   }[locale] ?? '';
   return {
     '@context': 'https://schema.org',
@@ -135,7 +136,7 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
     // liftable answer AI assistants and answer engines quote — previously it
     // only existed as on-page text, invisible to structured-data consumers.
     ...(d.answer ? { abstract: d.answer } : {}),
-    inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : 'en',
+    inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : 'en',
     datePublished: (d.created ?? d.updated).toISOString(),
     dateModified: d.updated.toISOString(),
     mainEntityOfPage: url,
@@ -262,6 +263,7 @@ export function websiteJsonLd(locale: Locale = 'en'): Record<string, unknown> {
     en: 'An open-source, AI-friendly knowledge base about Malaysia.',
     zh: '关于马来西亚的开源、AI 友好知识库。',
     ta: 'மலேசியா பற்றிய திறந்த-மூல, AI-நட்பு அறிவுத் தளம்.',
+    ja: 'マレーシアに関するオープンソースで AI フレンドリーな知識ベース。',
   }[locale] ?? '';
   return {
     '@context': 'https://schema.org',

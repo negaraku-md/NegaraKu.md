@@ -12,11 +12,11 @@ interface Props {
 }
 const { locale } = Astro.props;
 const d = getDashboard();
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Per-language coverage rows for the language bars (master ms first).
-const LANG_NAMES: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்' };
-const langBars = (['ms', 'en', 'zh', 'ta'] as const).map((l) => ({
+const LANG_NAMES: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語' };
+const langBars = (['ms', 'en', 'zh', 'ta', 'ja'] as const).map((l) => ({
   code: l.toUpperCase(),
   name: LANG_NAMES[l],
   ...d.perLangCoverage[l],
@@ -78,15 +78,15 @@ const sections = PILLARS.map((pd) => {
 
 // Classification mix — the site's handling of Malaysia's sensitive domains.
 const SENS_META: Record<string, { label: string; color: string }> = {
-  none: { label: L('Umum', 'General', '一般', 'பொது'), color: 'var(--muted)' },
-  royalty: { label: L('Institusi diraja', 'Royalty', '王室', 'அரச நிறுவனம்'), color: '#c084fc' },
-  religion: { label: L('Agama', 'Religion', '宗教', 'மதம்'), color: '#60a5fa' },
-  race: { label: L('Kaum', 'Race', '种族', 'இனம்'), color: '#f59e0b' },
-  constitution: { label: L('Perlembagaan', 'Constitution', '宪法', 'அரசியலமைப்பு'), color: '#2dd4bf' },
-  elections: { label: L('Pilihan raya', 'Elections', '选举', 'தேர்தல்'), color: '#818cf8' },
-  security: { label: L('Keselamatan', 'Security', '安全', 'பாதுகாப்பு'), color: '#fb7185' },
-  health: { label: L('Kesihatan', 'Health', '健康', 'சுகாதாரம்'), color: '#4ade80' },
-  'legal-proceedings': { label: L('Perundangan', 'Legal', '法律', 'சட்டம்'), color: '#a3a3a3' },
+  none: { label: L('Umum', 'General', '一般', 'பொது', '一般'), color: 'var(--muted)' },
+  royalty: { label: L('Institusi diraja', 'Royalty', '王室', 'அரச நிறுவனம்', '王室'), color: '#c084fc' },
+  religion: { label: L('Agama', 'Religion', '宗教', 'மதம்', '宗教'), color: '#60a5fa' },
+  race: { label: L('Kaum', 'Race', '种族', 'இனம்', '人種'), color: '#f59e0b' },
+  constitution: { label: L('Perlembagaan', 'Constitution', '宪法', 'அரசியலமைப்பு', '憲法'), color: '#2dd4bf' },
+  elections: { label: L('Pilihan raya', 'Elections', '选举', 'தேர்தல்', '選挙'), color: '#818cf8' },
+  security: { label: L('Keselamatan', 'Security', '安全', 'பாதுகாப்பு', '安全保障'), color: '#fb7185' },
+  health: { label: L('Kesihatan', 'Health', '健康', 'சுகாதாரம்', '健康'), color: '#4ade80' },
+  'legal-proceedings': { label: L('Perundangan', 'Legal', '法律', 'சட்டம்', '法律'), color: '#a3a3a3' },
 };
 const sensOrder = ['none', 'royalty', 'religion', 'race', 'constitution', 'elections', 'security', 'health', 'legal-proceedings'];
 const sensRows = sensOrder
@@ -134,12 +134,12 @@ const aiTopMax = Math.max(1, ...aiTop.map((x) => x.total));
 // messaging / other / direct), classified from the referrer + UTM at the edge
 // and folded per page. Same all-time snapshot machinery as the buckets above.
 const CHANNEL_META: Record<string, { label: string; icon: string }> = {
-  search: { label: L('Carian', 'Search', '搜索', 'தேடல்'), icon: '🔍' },
-  ai: { label: L('Pembantu AI', 'AI assistants', 'AI 助手', 'AI உதவியாளர்கள்'), icon: '✨' },
-  social: { label: L('Media sosial', 'Social', '社交媒体', 'சமூக ஊடகம்'), icon: '💬' },
-  messaging: { label: L('Pemesejan', 'Messaging', '即时通讯', 'செய்தியிடல்'), icon: '📨' },
-  other: { label: L('Laman lain', 'Other sites', '其他网站', 'பிற தளங்கள்'), icon: '🌐' },
-  direct: { label: L('Terus', 'Direct', '直接访问', 'நேரடி'), icon: '⤵' },
+  search: { label: L('Carian', 'Search', '搜索', 'தேடல்', '検索'), icon: '🔍' },
+  ai: { label: L('Pembantu AI', 'AI assistants', 'AI 助手', 'AI உதவியாளர்கள்', 'AI アシスタント'), icon: '✨' },
+  social: { label: L('Media sosial', 'Social', '社交媒体', 'சமூக ஊடகம்', 'ソーシャル'), icon: '💬' },
+  messaging: { label: L('Pemesejan', 'Messaging', '即时通讯', 'செய்தியிடல்', 'メッセージング'), icon: '📨' },
+  other: { label: L('Laman lain', 'Other sites', '其他网站', 'பிற தளங்கள்', 'その他のサイト'), icon: '🌐' },
+  direct: { label: L('Terus', 'Direct', '直接访问', 'நேரடி', '直接'), icon: '⤵' },
 };
 const CH_ORDER = ['search', 'ai', 'social', 'messaging', 'other', 'direct'];
 const refByChannel = new Map<string, number>();
@@ -182,7 +182,7 @@ const gscMonths = Object.keys(gsc.byMonth ?? {}).length;
 // Facebook engagement (archive: analytics/facebook.json) — per-language Page numbers.
 // Empty until the archive workflow has run and posts exist.
 const fb = getFacebook();
-const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்' };
+const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語' };
 const fbRows = (['ms', 'en', 'zh'] as const)
   .map((l) => {
     const p = fb.pages?.[l] ?? {};
@@ -234,7 +234,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
     { label: t('nav.dashboard', locale) },
   ]}
   title={t('nav.dashboard', locale)}
@@ -243,12 +243,13 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
     'The state of the NegaraKu.md knowledge base — recomputed on every build.',
     'NegaraKu.md 知识库的现状——每次构建时重新计算。',
     'NegaraKu.md அறிவுத் தளத்தின் நிலை — ஒவ்வொரு பதிப்பிலும் மீள்கணிக்கப்படுகிறது.',
+    'NegaraKu.md 知識ベースの現状 — ビルドのたびに再計算されます。',
   )}
   stats={[
-    { value: sections.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்') },
-    { value: catSet.size, label: L('kategori', 'categories', '分类', 'வகைகள்') },
-    { value: subcatSet.size, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்') },
-    { value: totalTopics, label: L('topik', 'topics', '主题', 'தலைப்புகள்') },
+    { value: sections.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱') },
+    { value: catSet.size, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー') },
+    { value: subcatSet.size, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー') },
+    { value: totalTopics, label: L('topik', 'topics', '主题', 'தலைப்புகள்', '主題') },
   ]}
 />
 
@@ -256,30 +257,30 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
   <div class="counters">
     <div>
       <b>{d.totals.masterArticles ?? d.totals.articles}</b>
-      <span>{L('artikel induk', 'master articles', '主文章', 'முதன்மைக் கட்டுரைகள்')}</span>
-      <small>{L('satu setiap subjek', 'one per subject', '每个主题一篇', 'ஒவ்வொரு தலைப்புக்கும் ஒன்று')}</small>
+      <span>{L('artikel induk', 'master articles', '主文章', 'முதன்மைக் கட்டுரைகள்', 'マスター記事')}</span>
+      <small>{L('satu setiap subjek', 'one per subject', '每个主题一篇', 'ஒவ்வொரு தலைப்புக்கும் ஒன்று', '主題ごとに1つ')}</small>
     </div>
     <div>
       <b>{d.totals.files}</b>
-      <span>{L('fail bahasa', 'language files', '语言文件', 'மொழி கோப்புகள்')}</span>
+      <span>{L('fail bahasa', 'language files', '语言文件', 'மொழி கோப்புகள்', '言語ファイル')}</span>
       <small>MS {d.totals.filesByLang.ms} · EN {d.totals.filesByLang.en} · ZH {d.totals.filesByLang.zh}</small>
     </div>
     <div>
       <b>{d.trilingual.fullPct}%</b>
-      <span>{L('semua bahasa penuh', 'fully localized', '各语言齐全', 'அனைத்து மொழிகளும்')}</span>
-      <small>{d.trilingual.full}/{d.trilingual.topics} {L('subjek', 'subjects', '主题', 'தலைப்புகள்')}</small>
+      <span>{L('semua bahasa penuh', 'fully localized', '各语言齐全', 'அனைத்து மொழிகளும்', '全言語対応')}</span>
+      <small>{d.trilingual.full}/{d.trilingual.topics} {L('subjek', 'subjects', '主题', 'தலைப்புகள்', '主題')}</small>
     </div>
     <div>
       <b>{Math.round(((d.statusDist.published ?? 0) / (d.totals.masterArticles || 1)) * 100)}%</b>
-      <span>{L('diterbitkan', 'published', '已发布', 'வெளியிடப்பட்டது')}</span>
-      <small>{d.statusDist.published}/{d.totals.masterArticles} {L('subjek terbit', 'subjects live', '主题已上线', 'தலைப்புகள் நேரலையில்')}</small>
+      <span>{L('diterbitkan', 'published', '已发布', 'வெளியிடப்பட்டது', '公開済み')}</span>
+      <small>{d.statusDist.published}/{d.totals.masterArticles} {L('subjek terbit', 'subjects live', '主题已上线', 'தலைப்புகள் நேரலையில்', '公開中の主題')}</small>
     </div>
   </div>
 </section>
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Liputan bahasa', 'Language coverage', '语言覆盖', 'மொழி பரப்பு')}</span></header>
+    <header><span>{L('Liputan bahasa', 'Language coverage', '语言覆盖', 'மொழி பரப்பு', '言語カバレッジ')}</span></header>
     <div class="psec-body">
       {d.trilingual.one === 0 && d.trilingual.two === 0 ? (
         <p class="hint">
@@ -288,6 +289,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
             `All ${d.trilingual.topics} published subjects exist in all ${d.trilingual.langCount} languages — full parity.`,
             `全部 ${d.trilingual.topics} 个已发布主题均具备全部 ${d.trilingual.langCount} 种语言——完整语言对等。`,
             `வெளியிடப்பட்ட ${d.trilingual.topics} தலைப்புகளும் அனைத்து ${d.trilingual.langCount} மொழிகளிலும் உள்ளன — முழு மொழி இணைநிலை.`,
+            `公開済みの ${d.trilingual.topics} 主題すべてが ${d.trilingual.langCount} 言語すべてに存在します — 完全な言語対等。`,
           )}
         </p>
       ) : (
@@ -298,20 +300,21 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
               `Of ${d.trilingual.topics} subjects, ${d.trilingual.full} (${d.trilingual.fullPct}%) exist in all ${d.trilingual.langCount} languages. The other ${d.trilingual.one + d.trilingual.two} still await full translation.`,
               `在 ${d.trilingual.topics} 个主题中，${d.trilingual.full} 个（${d.trilingual.fullPct}%）已具备全部 ${d.trilingual.langCount} 种语言。其余 ${d.trilingual.one + d.trilingual.two} 个仍待完整翻译。`,
               `${d.trilingual.topics} தலைப்புகளில், ${d.trilingual.full} (${d.trilingual.fullPct}%) அனைத்து ${d.trilingual.langCount} மொழிகளிலும் உள்ளன. மீதமுள்ள ${d.trilingual.one + d.trilingual.two} இன்னும் முழு மொழிபெயர்ப்புக்குக் காத்திருக்கின்றன.`,
+              `${d.trilingual.topics} 主題のうち、${d.trilingual.full} 件（${d.trilingual.fullPct}%）が ${d.trilingual.langCount} 言語すべてに存在します。残りの ${d.trilingual.one + d.trilingual.two} 件はまだ完全な翻訳待ちです。`,
             )}
           </p>
           <div class="tri-sum">
-            <div class="tri-stat"><b>{d.trilingual.full}</b><span>{L('semua bahasa', 'all languages', '全部语言', 'எல்லா மொழியும்')}</span></div>
-            <div class="tri-stat"><b>{d.trilingual.two}</b><span>{L('dua bahasa', 'two languages', '两种语言', 'இரு மொழிகள்')}</span></div>
-            <div class="tri-stat"><b>{d.trilingual.one}</b><span>{L('satu bahasa', 'one language', '单一语言', 'ஒரு மொழி')}</span></div>
+            <div class="tri-stat"><b>{d.trilingual.full}</b><span>{L('semua bahasa', 'all languages', '全部语言', 'எல்லா மொழியும்', '全言語')}</span></div>
+            <div class="tri-stat"><b>{d.trilingual.two}</b><span>{L('dua bahasa', 'two languages', '两种语言', 'இரு மொழிகள்', '2言語')}</span></div>
+            <div class="tri-stat"><b>{d.trilingual.one}</b><span>{L('satu bahasa', 'one language', '单一语言', 'ஒரு மொழி', '1言語')}</span></div>
           </div>
         </>
       )}
 
       <p class="legend">
-        <span class="key"><i class="sw src" /> {L('Ditulis asal (induk)', 'Authored here (master)', '原创（主语言）', 'இங்கு எழுதப்பட்டது (முதன்மை)')}</span>
-        <span class="key"><i class="sw tr" /> {L('Diterjemah', 'Translated', '翻译', 'மொழிபெயர்க்கப்பட்டது')}</span>
-        <span class="key"><i class="sw miss" /> {L('Belum ada', 'Not yet', '尚缺', 'இன்னும் இல்லை')}</span>
+        <span class="key"><i class="sw src" /> {L('Ditulis asal (induk)', 'Authored here (master)', '原创（主语言）', 'இங்கு எழுதப்பட்டது (முதன்மை)', 'ここで執筆（マスター）')}</span>
+        <span class="key"><i class="sw tr" /> {L('Diterjemah', 'Translated', '翻译', 'மொழிபெயர்க்கப்பட்டது', '翻訳済み')}</span>
+        <span class="key"><i class="sw miss" /> {L('Belum ada', 'Not yet', '尚缺', 'இன்னும் இல்லை', '未対応')}</span>
       </p>
 
       <div class="langbars">
@@ -328,9 +331,9 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
               {b.missing > 0 && <span class="seg miss" style={`width:${(b.missing / b.total) * 100}%`} />}
             </div>
             <div class="lb-nums">
-              <span class="src-t">{b.source} {L('asal', 'authored', '原创', 'எழுதப்பட்டது')}</span>
-              <span class="tr-t">{b.translated} {L('terjemah', 'translated', '翻译', 'மொழிபெயர்ப்பு')}</span>
-              <span class="miss-t">{b.missing} {L('belum', 'missing', '尚缺', 'இல்லை')}</span>
+              <span class="src-t">{b.source} {L('asal', 'authored', '原创', 'எழுதப்பட்டது', '執筆')}</span>
+              <span class="tr-t">{b.translated} {L('terjemah', 'translated', '翻译', 'மொழிபெயர்ப்பு', '翻訳')}</span>
+              <span class="miss-t">{b.missing} {L('belum', 'missing', '尚缺', 'இல்லை', '未対応')}</span>
             </div>
           </div>
         ))}
@@ -341,7 +344,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Klasifikasi kandungan', 'Content classification', '内容分类', 'உள்ளடக்க வகைப்பாடு')}</span></header>
+    <header><span>{L('Klasifikasi kandungan', 'Content classification', '内容分类', 'உள்ளடக்க வகைப்பாடு', 'コンテンツ分類')}</span></header>
     <div class="psec-body">
       <p class="hint">
         {L(
@@ -349,6 +352,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
           `${sensitiveCount} of ${totalTopics} subjects touch Malaysia's sensitive domains (such as race, religion, royalty and the constitution) and are labelled for careful review.`,
           `${totalTopics} 个主题中有 ${sensitiveCount} 个涉及马来西亚的敏感领域（如种族、宗教、王室与宪法），已标注以便审慎审阅。`,
           `${totalTopics} தலைப்புகளில் ${sensitiveCount} மலேசியாவின் உணர்வுபூர்வமான துறைகளைத் (இனம், மதம், அரச நிறுவனம், அரசியலமைப்பு போன்றவை) தொடுகின்றன, மேலும் கவனமான மறுஆய்வுக்காக அடையாளமிடப்பட்டுள்ளன.`,
+          `${totalTopics} 主題のうち ${sensitiveCount} 件がマレーシアのデリケートな領域（人種、宗教、王室、憲法など）に触れており、慎重なレビューのため区分されています。`,
         )}
       </p>
       <div class="sens">
@@ -366,7 +370,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Liputan mengikut kategori', 'Coverage by category', '各分类覆盖', 'வகை வாரியான பரப்பு')}</span></header>
+    <header><span>{L('Liputan mengikut kategori', 'Coverage by category', '各分类覆盖', 'வகை வாரியான பரப்பு', 'カテゴリー別カバレッジ')}</span></header>
     <div class="psec-body cov">
       {sections.map((s) => (
         <div class="cov-sec">
@@ -382,17 +386,17 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
           </div>
         </div>
       ))}
-      <p class="cov-more"><a href={localePath('/categories', locale)}>{L('Layari semua kategori', 'Browse all categories', '浏览所有分类', 'அனைத்து வகைகளையும் உலாவுக')} →</a></p>
+      <p class="cov-more"><a href={localePath('/categories', locale)}>{L('Layari semua kategori', 'Browse all categories', '浏览所有分类', 'அனைத்து வகைகளையும் உலாவுக', 'すべてのカテゴリーを閲覧')} →</a></p>
     </div>
   </div>
 </section>
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்')}</span></header>
+    <header><span>{L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー')}</span></header>
     <div class="psec-body">
       {aiTotal === 0 ? (
-        <p class="hint">{L('Belum ada lawatan perayap AI direkodkan lagi.', 'No AI-crawler visits recorded yet.', '尚未记录到 AI 爬虫访问。', 'இதுவரை AI கிராலர் வருகைகள் எதுவும் பதிவாகவில்லை.')}</p>
+        <p class="hint">{L('Belum ada lawatan perayap AI direkodkan lagi.', 'No AI-crawler visits recorded yet.', '尚未记录到 AI 爬虫访问。', 'இதுவரை AI கிராலர் வருகைகள் எதுவும் பதிவாகவில்லை.', 'AI クローラーの訪問はまだ記録されていません。')}</p>
       ) : (
         <>
           <p class="hint">
@@ -401,11 +405,12 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
               `AI/LLM crawlers have fetched this site ${aiTotal.toLocaleString()} times across ${aiPages.toLocaleString()} articles, from ${aiBots.length} distinct crawlers — all-time.`,
               `AI/LLM 爬虫已抓取本站 ${aiTotal.toLocaleString()} 次，覆盖 ${aiPages.toLocaleString()} 篇文章，来自 ${aiBots.length} 个不同的爬虫——累计。`,
               `AI/LLM கிராலர்கள் இந்தத் தளத்தை ${aiTotal.toLocaleString()} முறை ${aiPages.toLocaleString()} கட்டுரைகளில், ${aiBots.length} வெவ்வேறு கிராலர்களிடமிருந்து பெற்றுள்ளன — எல்லா காலமும்.`,
+              `AI/LLM クローラーはこのサイトを ${aiPages.toLocaleString()} 記事にわたり ${aiTotal.toLocaleString()} 回、${aiBots.length} 種類のクローラーから取得しました — 累計。`,
             )}
           </p>
           <div class="ai-grid">
             <div>
-              <p class="ai-h">{L('Mengikut perayap', 'By crawler', '按爬虫', 'கிராலர் வாரியாக')}</p>
+              <p class="ai-h">{L('Mengikut perayap', 'By crawler', '按爬虫', 'கிராலர் வாரியாக', 'クローラー別')}</p>
               <div class="cov-cats">
                 {aiBots.map((b) => (
                   <div class="cov-row ai-row">
@@ -417,7 +422,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
               </div>
             </div>
             <div>
-              <p class="ai-h">{L('Mengikut tunjang', 'By pillar', '按支柱', 'தூண் வாரியாக')}</p>
+              <p class="ai-h">{L('Mengikut tunjang', 'By pillar', '按支柱', 'தூண் வாரியாக', '柱別')}</p>
               <div class="cov-cats">
                 {aiPillars.map((p) => (
                   <div class="cov-row ai-row">
@@ -429,7 +434,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
               </div>
             </div>
           </div>
-          <p class="ai-h ai-h-top">{L('Artikel paling banyak dirayapi', 'Most-crawled articles', '被抓取最多的文章', 'அதிகம் கிராலர் பெற்ற கட்டுரைகள்')}</p>
+          <p class="ai-h ai-h-top">{L('Artikel paling banyak dirayapi', 'Most-crawled articles', '被抓取最多的文章', 'அதிகம் கிராலர் பெற்ற கட்டுரைகள்', '最も多くクロールされた記事')}</p>
           <div class="cov-cats ai-top">
             {aiTop.map((a) => (
               <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
@@ -447,7 +452,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Trafik mengikut saluran', 'Traffic by channel', '各渠道流量', 'சேனல் வாரியான போக்குவரத்து')}</span></header>
+    <header><span>{L('Trafik mengikut saluran', 'Traffic by channel', '各渠道流量', 'சேனல் வாரியான போக்குவரத்து', 'チャネル別トラフィック')}</span></header>
     <div class="psec-body">
       {refTotal === 0 ? (
         <p class="hint">{L(
@@ -455,6 +460,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
           'No referral data yet — recording begins once the channel classifier is live at the edge.',
           '暂无来源数据——渠道分类器在边缘上线后开始记录。',
           'இதுவரை பரிந்துரை தரவு இல்லை — சேனல் வகைப்படுத்தி எட்ஜில் செயலில் வந்தவுடன் பதிவு தொடங்கும்.',
+          'まだ参照元データはありません — チャネル分類器がエッジで稼働すると記録が始まります。',
         )}</p>
       ) : (
         <>
@@ -463,10 +469,11 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
             `${refTotal.toLocaleString()} reader visits classified by where they arrived from — all-time.`,
             `${refTotal.toLocaleString()} 次读者访问按来源渠道分类——累计。`,
             `${refTotal.toLocaleString()} வாசகர் வருகைகள் அவர்கள் வந்த மூலத்தின் அடிப்படையில் வகைப்படுத்தப்பட்டுள்ளன — எல்லா காலமும்.`,
+            `${refTotal.toLocaleString()} 件の読者訪問を流入元別に分類しました — 累計。`,
           )}</p>
           <div class="ai-grid">
             <div>
-              <p class="ai-h">{L('Mengikut saluran', 'By channel', '按渠道', 'சேனல் வாரியாக')}</p>
+              <p class="ai-h">{L('Mengikut saluran', 'By channel', '按渠道', 'சேனல் வாரியாக', 'チャネル別')}</p>
               <div class="cov-cats">
                 {refChannels.map((c) => (
                   <div class="cov-row ai-row">
@@ -478,9 +485,9 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
               </div>
             </div>
             <div>
-              <p class="ai-h">{L('Sumber teratas', 'Top sources', '主要来源', 'முதன்மை மூலங்கள்')}</p>
+              <p class="ai-h">{L('Sumber teratas', 'Top sources', '主要来源', 'முதன்மை மூலங்கள்', '主な流入元')}</p>
               {refSources.length === 0 ? (
-                <p class="hint" style="margin:0">{L('Kebanyakannya trafik terus.', 'Mostly direct traffic.', '大多为直接访问。', 'பெரும்பாலும் நேரடி போக்குவரத்து.')}</p>
+                <p class="hint" style="margin:0">{L('Kebanyakannya trafik terus.', 'Mostly direct traffic.', '大多为直接访问。', 'பெரும்பாலும் நேரடி போக்குவரத்து.', 'ほとんどが直接トラフィックです。')}</p>
               ) : (
                 <div class="cov-cats">
                   {refSources.map((s) => (
@@ -502,7 +509,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Prestasi carian Google', 'Google Search performance', 'Google 搜索表现', 'Google தேடல் செயல்திறன்')}</span></header>
+    <header><span>{L('Prestasi carian Google', 'Google Search performance', 'Google 搜索表现', 'Google தேடல் செயல்திறன்', 'Google 検索パフォーマンス')}</span></header>
     <div class="psec-body">
       {!gscHas ? (
         <p class="hint">{L(
@@ -510,6 +517,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
           'No Search Console data yet — appears after the archive workflow runs.',
           '暂无 Search Console 数据——归档工作流运行后显示。',
           'இதுவரை Search Console தரவு இல்லை — காப்பக பணிப்பாய்வு இயங்கிய பிறகு தோன்றும்.',
+          'まだ Search Console のデータはありません — アーカイブのワークフロー実行後に表示されます。',
         )}</p>
       ) : (
         <>
@@ -518,10 +526,11 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
             `Last 90 days: ${gscTotals.impressions.toLocaleString()} impressions · ${gscTotals.clicks.toLocaleString()} clicks · ${gscTotals.ctr}% CTR · avg position ${gscTotals.position}. ${gscMonths} months archived.`,
             `近 90 天：${gscTotals.impressions.toLocaleString()} 次展示 · ${gscTotals.clicks.toLocaleString()} 次点击 · 点击率 ${gscTotals.ctr}% · 平均排名 ${gscTotals.position}。已归档 ${gscMonths} 个月。`,
             `கடந்த 90 நாட்கள்: ${gscTotals.impressions.toLocaleString()} காட்சிகள் · ${gscTotals.clicks.toLocaleString()} கிளிக்குகள் · CTR ${gscTotals.ctr}% · சராசரி தரவரிசை ${gscTotals.position}. ${gscMonths} மாதங்கள் காப்பகப்படுத்தப்பட்டன.`,
+            `過去90日: ${gscTotals.impressions.toLocaleString()} 表示 · ${gscTotals.clicks.toLocaleString()} クリック · CTR ${gscTotals.ctr}% · 平均掲載順位 ${gscTotals.position}。${gscMonths} か月分をアーカイブ。`,
           )}</p>
           <div class="ai-grid">
             <div>
-              <p class="ai-h">{L('Tera mengikut tunjang', 'Impressions by pillar', '各支柱展示', 'தூண் வாரியான காட்சிகள்')}</p>
+              <p class="ai-h">{L('Tera mengikut tunjang', 'Impressions by pillar', '各支柱展示', 'தூண் வாரியான காட்சிகள்', '柱別の表示回数')}</p>
               {gscPillars.length === 0 ? <p class="hint" style="margin:0">—</p> : (
                 <div class="cov-cats">
                   {gscPillars.map((p) => (
@@ -535,7 +544,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
               )}
             </div>
             <div>
-              <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索', 'முதன்மை வினவல்கள்')}</p>
+              <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索', 'முதன்மை வினவல்கள்', '上位クエリ')}</p>
               {gscQueries.length === 0 ? <p class="hint" style="margin:0">—</p> : (
                 <div class="cov-cats">
                   {gscQueries.map((q) => (
@@ -557,7 +566,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Penglibatan Facebook', 'Facebook engagement', 'Facebook 互动', 'Facebook ஈடுபாடு')}</span></header>
+    <header><span>{L('Penglibatan Facebook', 'Facebook engagement', 'Facebook 互动', 'Facebook ஈடுபாடு', 'Facebook エンゲージメント')}</span></header>
     <div class="psec-body">
       {!fbHas ? (
         <p class="hint">{L(
@@ -565,18 +574,19 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
           'No Facebook data yet — appears after the archive workflow runs and articles are published.',
           '暂无 Facebook 数据——归档工作流运行且文章发布后显示。',
           'இதுவரை Facebook தரவு இல்லை — காப்பக பணிப்பாய்வு இயங்கி கட்டுரைகள் வெளியிடப்பட்ட பிறகு தோன்றும்.',
+          'まだ Facebook のデータはありません — アーカイブのワークフローが実行され、記事が公開された後に表示されます。',
         )}</p>
       ) : (
         <div class="matrix-scroll" style="margin-top:.3rem">
           <table class="fbtable">
             <thead>
               <tr>
-                <th class="chan" style="width:auto">{L('Halaman', 'Page', '页面', 'பக்கம்')}</th>
-                <th>{L('Pengikut', 'Followers', '粉丝', 'பின்தொடர்பவர்கள்')}</th>
-                <th>{L('Siaran', 'Posts', '帖子', 'இடுகைகள்')}</th>
-                <th>{L('Reaksi', 'Reactions', '互动', 'எதிர்வினைகள்')}</th>
-                <th>{L('Komen', 'Comments', '评论', 'கருத்துகள்')}</th>
-                <th>{L('Kongsi', 'Shares', '分享', 'பகிர்வுகள்')}</th>
+                <th class="chan" style="width:auto">{L('Halaman', 'Page', '页面', 'பக்கம்', 'ページ')}</th>
+                <th>{L('Pengikut', 'Followers', '粉丝', 'பின்தொடர்பவர்கள்', 'フォロワー')}</th>
+                <th>{L('Siaran', 'Posts', '帖子', 'இடுகைகள்', '投稿')}</th>
+                <th>{L('Reaksi', 'Reactions', '互动', 'எதிர்வினைகள்', 'リアクション')}</th>
+                <th>{L('Komen', 'Comments', '评论', 'கருத்துகள்', 'コメント')}</th>
+                <th>{L('Kongsi', 'Shares', '分享', 'பகிர்வுகள்', 'シェア')}</th>
               </tr>
             </thead>
             <tbody>
@@ -600,7 +610,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Penglibatan di laman', 'On-site engagement', '站内参与', 'தளத்தில் ஈடுபாடு')}</span></header>
+    <header><span>{L('Penglibatan di laman', 'On-site engagement', '站内参与', 'தளத்தில் ஈடுபாடு', 'サイト内エンゲージメント')}</span></header>
     <div class="psec-body">
       {!engHas ? (
         <p class="hint">{L(
@@ -608,6 +618,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
           'No engagement data yet — recording begins after the beacon ships (Worker deploy) and visitors arrive.',
           '暂无参与数据——beacon 上线（部署 Worker）且有访客后开始记录。',
           'இதுவரை ஈடுபாட்டுத் தரவு இல்லை — beacon வெளியான (Worker deploy) பிறகு பார்வையாளர்கள் வந்தவுடன் பதிவு தொடங்கும்.',
+          'まだエンゲージメントのデータはありません — beacon が配信され（Worker をデプロイ）、訪問者が来てから記録が始まります。',
         )}</p>
       ) : (
         <>
@@ -616,10 +627,11 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
             `Average time on page ${fmtDur(engAvgSecs)} · average scroll ${engAvgScroll}% · from ${engSamples.toLocaleString()} measured visits.`,
             `平均停留 ${fmtDur(engAvgSecs)} · 平均滚动 ${engAvgScroll}% · 来自 ${engSamples.toLocaleString()} 次测量访问。`,
             `பக்கத்தில் சராசரி நேரம் ${fmtDur(engAvgSecs)} · சராசரி உருள்வு ${engAvgScroll}% · அளக்கப்பட்ட ${engSamples.toLocaleString()} வருகைகளிலிருந்து.`,
+            `ページ滞在時間の平均 ${fmtDur(engAvgSecs)} · 平均スクロール ${engAvgScroll}% · 計測された ${engSamples.toLocaleString()} 件の訪問から。`,
           )}</p>
           <div class="ai-grid">
             <div>
-              <p class="ai-h">{L('Masa mengikut tunjang', 'Avg time by pillar', '各支柱平均时长', 'தூண் வாரியான சராசரி நேரம்')}</p>
+              <p class="ai-h">{L('Masa mengikut tunjang', 'Avg time by pillar', '各支柱平均时长', 'தூண் வாரியான சராசரி நேரம்', '柱別の平均時間')}</p>
               <div class="cov-cats">
                 {engPillars.map((p) => (
                   <div class="cov-row ai-row">
@@ -631,7 +643,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
               </div>
             </div>
             <div>
-              <p class="ai-h">{L('Paling melibatkan', 'Most engaging', '最吸引', 'அதிகம் ஈடுபடுத்தும்')}</p>
+              <p class="ai-h">{L('Paling melibatkan', 'Most engaging', '最吸引', 'அதிகம் ஈடுபடுத்தும்', '最も惹きつける')}</p>
               <div class="cov-cats">
                 {engTop.map((a) => (
                   <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
@@ -651,7 +663,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Bing & Copilot', 'Bing & Copilot', 'Bing 与 Copilot', 'Bing & Copilot')}</span></header>
+    <header><span>{L('Bing & Copilot', 'Bing & Copilot', 'Bing 与 Copilot', 'Bing & Copilot', 'Bing & Copilot')}</span></header>
     <div class="psec-body">
       {!bingHas ? (
         <p class="hint">{L(
@@ -659,6 +671,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
           'No Bing data yet — appears after the site is added to Bing Webmaster Tools (import from Google) and the archive runs.',
           '暂无 Bing 数据——将网站加入 Bing 网站管理员工具（从 Google 导入）并运行归档后显示。',
           'இதுவரை Bing தரவு இல்லை — தளம் Bing Webmaster Tools-இல் சேர்க்கப்பட்டு (Google-இலிருந்து இறக்குமதி) காப்பகம் இயங்கிய பிறகு தோன்றும்.',
+          'まだ Bing のデータはありません — サイトを Bing Webmaster Tools に追加し（Google からインポート）、アーカイブが実行された後に表示されます。',
         )}</p>
       ) : (
         <>
@@ -667,8 +680,9 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
             `Bing (also the Copilot / ChatGPT-search index): ${bingT.impressions.toLocaleString()} impressions · ${bingT.clicks.toLocaleString()} clicks. ${bingMonths} months archived.`,
             `Bing（也是 Copilot / ChatGPT-search 的索引）：${bingT.impressions.toLocaleString()} 次展示 · ${bingT.clicks.toLocaleString()} 次点击。已归档 ${bingMonths} 个月。`,
             `Bing (Copilot / ChatGPT-search அட்டவணையும் கூட): ${bingT.impressions.toLocaleString()} காட்சிகள் · ${bingT.clicks.toLocaleString()} கிளிக்குகள். ${bingMonths} மாதங்கள் காப்பகப்படுத்தப்பட்டன.`,
+            `Bing（Copilot / ChatGPT-search のインデックスも兼ねる）: ${bingT.impressions.toLocaleString()} 表示 · ${bingT.clicks.toLocaleString()} クリック。${bingMonths} か月分をアーカイブ。`,
           )}</p>
-          <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索', 'முதன்மை வினவல்கள்')}</p>
+          <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索', 'முதன்மை வினவல்கள்', '上位クエリ')}</p>
           {bingQueries.length === 0 ? <p class="hint" style="margin:0">—</p> : (
             <div class="cov-cats ai-top">
               {bingQueries.map((q) => (
@@ -688,7 +702,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
 
 <section class="container block two-col">
   <div class="psec">
-    <header><span>{L('Kitaran hayat', 'Lifecycle', '生命周期', 'வாழ்க்கைச் சுழற்சி')}</span></header>
+    <header><span>{L('Kitaran hayat', 'Lifecycle', '生命周期', 'வாழ்க்கைச் சுழற்சி', 'ライフサイクル')}</span></header>
     <div class="psec-body">
       <p class="hint">
         {L(
@@ -696,6 +710,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
           'Every article moves along this ladder. Only published ones appear on the public site.',
           '每篇文章都沿此阶梯推进。只有已发布的内容才会出现在公开网站上。',
           'ஒவ்வொரு கட்டுரையும் இந்த ஏணி வழியாக நகர்கிறது. வெளியிடப்பட்டவை மட்டுமே பொது தளத்தில் தோன்றும்.',
+          'すべての記事はこの段階を進みます。公開されたものだけが公開サイトに表示されます。',
         )}
       </p>
       <ol class="ladder">
@@ -711,10 +726,10 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
   </div>
 
   <div class="psec">
-    <header><span>{L('Kemas kini terkini', 'Recently updated', '最近更新', 'சமீபத்தில் புதுப்பிக்கப்பட்டவை')}</span></header>
+    <header><span>{L('Kemas kini terkini', 'Recently updated', '最近更新', 'சமீபத்தில் புதுப்பிக்கப்பட்டவை', '最近の更新')}</span></header>
     <div class="psec-body">
       {d.recentlyUpdated.length === 0 ? (
-        <p class="hint">{L('Tiada kemas kini terkini direkodkan.', 'No recent updates recorded.', '暂无最近更新记录。', 'சமீபத்திய புதுப்பிப்புகள் எதுவும் பதிவாகவில்லை.')}</p>
+        <p class="hint">{L('Tiada kemas kini terkini direkodkan.', 'No recent updates recorded.', '暂无最近更新记录。', 'சமீபத்திய புதுப்பிப்புகள் எதுவும் பதிவாகவில்லை.', '最近の更新は記録されていません。')}</p>
       ) : (
         <ul class="recent">
           {d.recentlyUpdated.map((a) => (
@@ -725,7 +740,7 @@ const bingMonths = Object.keys(bing.byMonth ?? {}).length;
           ))}
         </ul>
       )}
-      <p class="more"><a href={localePath('/changelog', locale)}>{L('Lihat log perubahan penuh →', 'See the full changelog →', '查看完整更新日志 →', 'முழு மாற்ற பதிவைப் பார்க்க →')}</a></p>
+      <p class="more"><a href={localePath('/changelog', locale)}>{L('Lihat log perubahan penuh →', 'See the full changelog →', '查看完整更新日志 →', 'முழு மாற்ற பதிவைப் பார்க்க →', '完全な変更履歴を見る →')}</a></p>
     </div>
   </div>
 </section>

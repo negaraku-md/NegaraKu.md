@@ -9,7 +9,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const g = getGraph();
 
@@ -34,31 +34,32 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
 
 <PageHero
   locale={locale}
-  crumb={[{ label: L('Laman Utama', 'Home', '首页', 'முகப்பு'), href: localePath('/', locale) }, { label: L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱', 'அறிவு வரைபடம்') }]}
-  title={L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱', 'அறிவு வரைபடம்')}
+  crumb={[{ label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) }, { label: L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱', 'அறிவு வரைபடம்', 'ナレッジグラフ') }]}
+  title={L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱', 'அறிவு வரைபடம்', 'ナレッジグラフ')}
   desc={L(
     'Setiap topik dan cara ia berkait — dijana daripada rujukan silang sebenar dalam korpus.',
     'Every topic and how it connects — generated from the real cross-references in the corpus.',
     '每个主题及其关联——由语料库中真实的交叉引用生成。',
     'ஒவ்வொரு தலைப்பும் அது எவ்வாறு தொடர்பு கொள்கிறது என்பதும் — தொகுப்பில் உள்ள உண்மையான குறுக்குக் குறிப்புகளில் இருந்து உருவாக்கப்பட்டது.',
+    'すべてのトピックとそのつながり — コーパス内の実際の相互参照から生成されています。',
   )}
   stats={[
-    { value: g.nodeCount, label: L('nod', 'nodes', '节点', 'கணுக்கள்') },
-    { value: g.linkCount, label: L('pautan', 'links', '连接', 'இணைப்புகள்') },
+    { value: g.nodeCount, label: L('nod', 'nodes', '节点', 'கணுக்கள்', 'ノード') },
+    { value: g.linkCount, label: L('pautan', 'links', '连接', 'இணைப்புகள்', 'リンク') },
   ]}
 />
 
 <section class="container gwrap">
   {
     nodes.length === 0 ? (
-      <p class="gempty">{L('Graf belum dijana lagi.', 'The graph has not been generated yet.', '图谱尚未生成。', 'வரைபடம் இன்னும் உருவாக்கப்படவில்லை.')}</p>
+      <p class="gempty">{L('Graf belum dijana lagi.', 'The graph has not been generated yet.', '图谱尚未生成。', 'வரைபடம் இன்னும் உருவாக்கப்படவில்லை.', 'グラフはまだ生成されていません。')}</p>
     ) : (
       <>
         <div class="gbar">
           <p class="ghint">
-            {L('Tatal/dua jari untuk zum · seret untuk gerak · tuding atau ketik untuk sorot · klik/ketik dua kali untuk buka.', 'Scroll or two fingers to zoom · drag to pan · hover or tap to highlight · click / double-tap to open.', '滚动或双指缩放 · 拖动平移 · 悬停或轻点高亮 · 点击/双击打开。', 'பெரிதாக்க ஸ்க்ரோல் செய்யவும் அல்லது இரண்டு விரல்களைப் பயன்படுத்தவும் · நகர்த்த இழுக்கவும் · சிறப்பிக்க மேலே கொண்டு செல்லவும் அல்லது தட்டவும் · திறக்க கிளிக் / இருமுறை தட்டவும்.')}
+            {L('Tatal/dua jari untuk zum · seret untuk gerak · tuding atau ketik untuk sorot · klik/ketik dua kali untuk buka.', 'Scroll or two fingers to zoom · drag to pan · hover or tap to highlight · click / double-tap to open.', '滚动或双指缩放 · 拖动平移 · 悬停或轻点高亮 · 点击/双击打开。', 'பெரிதாக்க ஸ்க்ரோல் செய்யவும் அல்லது இரண்டு விரல்களைப் பயன்படுத்தவும் · நகர்த்த இழுக்கவும் · சிறப்பிக்க மேலே கொண்டு செல்லவும் அல்லது தட்டவும் · திறக்க கிளிக் / இருமுறை தட்டவும்.', 'スクロールまたは2本指でズーム · ドラッグで移動 · ホバーまたはタップでハイライト · クリック／ダブルタップで開く。')}
           </p>
-          <button id="greset" type="button" class="greset">{L('Set semula', 'Reset view', '重置视图', 'காட்சியை மீட்டமை')}</button>
+          <button id="greset" type="button" class="greset">{L('Set semula', 'Reset view', '重置视图', 'காட்சியை மீட்டமை', 'ビューをリセット')}</button>
         </div>
         <div class="gsearch">
           <span class="gs-ico" aria-hidden="true">
@@ -68,14 +69,14 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
             id="gsearch"
             type="search"
             autocomplete="off"
-            placeholder={L('Tapis topik…', 'Filter topics…', '筛选主题…', 'தலைப்புகளை வடிகட்டு…')}
-            aria-label={L('Tapis topik dalam graf', 'Filter topics in the graph', '在图谱中筛选主题', 'வரைபடத்தில் தலைப்புகளை வடிகட்டு')}
-            data-lbl-matches={L('padanan', 'matches', '个匹配', 'பொருத்தங்கள்')}
-            data-lbl-none={L('tiada padanan', 'no matches', '无匹配', 'பொருத்தம் இல்லை')}
+            placeholder={L('Tapis topik…', 'Filter topics…', '筛选主题…', 'தலைப்புகளை வடிகட்டு…', 'トピックを絞り込む…')}
+            aria-label={L('Tapis topik dalam graf', 'Filter topics in the graph', '在图谱中筛选主题', 'வரைபடத்தில் தலைப்புகளை வடிகட்டு', 'グラフ内のトピックを絞り込む')}
+            data-lbl-matches={L('padanan', 'matches', '个匹配', 'பொருத்தங்கள்', '件一致')}
+            data-lbl-none={L('tiada padanan', 'no matches', '无匹配', 'பொருத்தம் இல்லை', '一致なし')}
           />
           <span id="gsearch-count" class="gs-count" aria-live="polite" />
         </div>
-        <div class="legend" aria-label={L('Tapis mengikut kategori', 'Filter by category', '按分类筛选', 'வகைப்படி வடிகட்டு')}>
+        <div class="legend" aria-label={L('Tapis mengikut kategori', 'Filter by category', '按分类筛选', 'வகைப்படி வடிகட்டு', 'カテゴリーで絞り込む')}>
           {legend.map((c) => (
             <button class="lg" type="button" data-cat={c.id} aria-pressed="true">
               <i style={`background:${c.color}`} />

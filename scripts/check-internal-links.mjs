@@ -67,7 +67,8 @@ const isPublic = (p) =>
   !p.hidden && LIVE.has(p.status) && (!p.sensitivity || p.sensitivity === 'none' || !!p.reviewer);
 
 const rel = (f) => path.relative(ROOT, f).replace(/\\/g, '/');
-const stripLocale = (segs) => (segs[0] === 'en' || segs[0] === 'zh' ? segs.slice(1) : segs);
+const stripLocale = (segs) =>
+  segs[0] === 'en' || segs[0] === 'zh' || segs[0] === 'ta' || segs[0] === 'ja' ? segs.slice(1) : segs;
 
 const files = await walk(KNOWLEDGE);
 const parsed = await Promise.all(files.map(parse));

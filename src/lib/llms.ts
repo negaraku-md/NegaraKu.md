@@ -62,6 +62,7 @@ const CORPUS_HEADER: Record<Locale, string> = {
   en: 'An open-source knowledge base about Malaysia. License: CC BY-SA 4.0.',
   zh: '关于马来西亚的开源知识库。许可证：CC BY-SA 4.0。',
   ta: 'மலேசியா பற்றிய திறந்த-மூல அறிவுத் தளம். உரிமம்: CC BY-SA 4.0.',
+  ja: 'マレーシアに関するオープンソースの知識ベース。ライセンス：CC BY-SA 4.0。',
 };
 
 export async function buildLlmsFull(locale: Locale): Promise<string> {

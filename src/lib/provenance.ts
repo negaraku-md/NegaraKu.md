@@ -38,6 +38,7 @@ export const DATASETS: Record<string, Provenance> = {
       en: 'Bursa Malaysia listed companies',
       zh: '马交所上市公司',
       ta: 'பர்சா மலேசியாவில் பட்டியலிடப்பட்ட நிறுவனங்கள்',
+      ja: 'ブルサ・マレーシア上場企業',
     },
     verification: 'unverified',
     reviewer: null,
@@ -46,6 +47,7 @@ export const DATASETS: Record<string, Provenance> = {
       en: 'Market-capitalisation and revenue figures are approximate seed values for illustration only — not yet verified against Bursa Malaysia. Do not rely on them for any decision.',
       zh: '市值与营收数字仅为示意性初始数据，尚未对照马交所核实。请勿作为任何决策依据。',
       ta: 'சந்தை மூலதனம் மற்றும் வருவாய் எண்கள் விளக்கத்திற்காக மட்டுமே தோராயமான தொடக்க மதிப்புகள் — பர்சா மலேசியாவுடன் இன்னும் சரிபார்க்கப்படவில்லை. எந்த முடிவுக்கும் இவற்றை நம்பாதீர்கள்.',
+      ja: '時価総額と売上高の数値は説明のための概算のシード値にすぎず、ブルサ・マレーシアとの照合はまだ行われていません。いかなる意思決定の根拠にもしないでください。',
     },
   },
 };

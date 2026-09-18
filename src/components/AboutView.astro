@@ -10,49 +10,53 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const stats = await siteStats(locale);
 
 // How the knowledge base actually works — four load-bearing ideas, each a card.
 const pillars = [
   {
     icon: '📄',
-    title: L('Satu sumber kebenaran', 'One source of truth', '单一事实来源', 'ஒரே உண்மை மூலம்'),
+    title: L('Satu sumber kebenaran', 'One source of truth', '单一事实来源', 'ஒரே உண்மை மூலம்', '唯一の信頼できる情報源'),
     body: L(
       'Setiap artikel ialah satu fail Markdown di GitHub. Tiada pangkalan data tersembunyi — apa yang anda baca ialah fail itu sendiri, boleh dibaca manusia dan mesin.',
       'Every article is a single Markdown file on GitHub. No hidden database — what you read is the file itself, legible to both people and machines.',
       '每篇文章都是 GitHub 上的一个 Markdown 文件。没有隐藏的数据库——你所读到的就是文件本身，人与机器皆可读。',
       'ஒவ்வொரு கட்டுரையும் GitHub-இல் உள்ள ஒரே ஒரு Markdown கோப்பு. மறைந்திருக்கும் தரவுத்தளம் எதுவும் இல்லை — நீங்கள் படிப்பது அந்தக் கோப்பே, மனிதர்களாலும் இயந்திரங்களாலும் படிக்கக்கூடியது.',
+      '各記事は GitHub 上の一つの Markdown ファイルです。隠れたデータベースはなく、あなたが読むのはファイルそのもの — 人にも機械にも読み取れます。',
     ),
   },
   {
     icon: '🌏',
-    title: L('Empat bahasa, satu paras', 'Four languages, one parity', '四种语言，完全对等', 'நான்கு மொழிகள், ஒரே சமநிலை'),
+    title: L('Empat bahasa, satu paras', 'Four languages, one parity', '四种语言，完全对等', 'நான்கு மொழிகள், ஒரே சமநிலை', '四つの言語、一つの対等性'),
     body: L(
       'Setiap topik wujud dalam Bahasa Melayu, Inggeris, Cina dan Tamil. Setiap artikel mempunyai bahasa induknya sendiri — asal usul yang mengarang, dan tiga terjemahan yang setia kepadanya.',
       'Every topic exists in Malay, English, Chinese and Tamil. Each article has its own master language — the origin it was authored in — and three translations kept faithful to it.',
       '每个主题都以马来文、英文、中文和泰米尔文呈现。每篇文章都有自己的主语言（撰写的源头），以及三个忠于它的译本。',
       'ஒவ்வொரு தலைப்பும் மலாய், ஆங்கிலம், சீனம் மற்றும் தமிழ் மொழிகளில் உள்ளது. ஒவ்வொரு கட்டுரைக்கும் அதற்கே உரிய மூல மொழி உண்டு — எழுதப்பட்ட தோற்றுவாய் — மேலும் அதற்கு உண்மையாக இருக்கும் மூன்று மொழிபெயர்ப்புகள்.',
+      '各トピックはマレー語・英語・中国語・タミル語で存在します。各記事にはそれぞれの原語（執筆された起源）があり、それに忠実な三つの翻訳が付きます。',
     ),
   },
   {
     icon: '🔗',
-    title: L('Dipetik, bukan didakwa', 'Cited, not asserted', '有据可查，而非空谈', 'மேற்கோள் காட்டப்படுகிறது, வெறுமனே கூறப்படவில்லை'),
+    title: L('Dipetik, bukan didakwa', 'Cited, not asserted', '有据可查，而非空谈', 'மேற்கோள் காட்டப்படுகிறது, வெறுமனே கூறப்படவில்லை', '主張ではなく、出典を'),
     body: L(
       'Setiap dakwaan yang boleh disemak membawa sumbernya. Artikel bergerak melalui tangga draf → disemak → diterbitkan, dan hanya yang diterbitkan muncul di laman awam.',
       'Every checkable claim carries its source. Articles move through a draft → reviewed → published ladder, and only published ones appear on the public site.',
       '每一条可核查的陈述都附有来源。文章经过草稿→审阅→发布的流程，且只有已发布的内容才出现在公开网站上。',
       'சரிபார்க்கக்கூடிய ஒவ்வொரு கூற்றும் அதன் மூலத்தைக் கொண்டுள்ளது. கட்டுரைகள் வரைவு → மதிப்பாய்வு → வெளியீடு என்ற படிநிலை வழியே நகர்கின்றன, வெளியிடப்பட்டவை மட்டுமே பொது தளத்தில் தோன்றுகின்றன.',
+      '検証可能な主張にはすべて出典があります。記事は下書き → 査読 → 公開という段階を経て、公開されたものだけが公開サイトに表示されます。',
     ),
   },
   {
     icon: '🤝',
-    title: L('Kandungan sensitif, dikendalikan berhati-hati', 'Sensitive content, handled with care', '敏感内容，审慎处理', 'உணர்திறன் வாய்ந்த உள்ளடக்கம், கவனத்துடன் கையாளப்படுகிறது'),
+    title: L('Kandungan sensitif, dikendalikan berhati-hati', 'Sensitive content, handled with care', '敏感内容，审慎处理', 'உணர்திறன் வாய்ந்த உள்ளடக்கம், கவனத்துடன் கையாளப்படுகிறது', '機微な内容は慎重に'),
     body: L(
       'Topik yang menyentuh kaum, agama, institusi diraja atau perlembagaan dilabel dan disemak seorang manusia sebelum terbit — ditulis neutral dan bersumber.',
       'Topics touching race, religion, royalty or the constitution are labelled and human-reviewed before publishing — written neutrally and sourced.',
       '涉及种族、宗教、王室或宪法的话题会被标注，并在发布前经人工审阅——保持中立、注明来源。',
       'இனம், மதம், அரச நிறுவனங்கள் அல்லது அரசியலமைப்பைத் தொடும் தலைப்புகள் குறிக்கப்பட்டு, வெளியிடுவதற்கு முன் ஒரு மனிதரால் மதிப்பாய்வு செய்யப்படுகின்றன — நடுநிலையாக எழுதப்பட்டு மூலம் காட்டப்படுகின்றன.',
+      '人種、宗教、王室、憲法に関わるトピックはラベル付けされ、公開前に人手で査読されます — 中立に書かれ、出典が示されます。',
     ),
   },
 ];
@@ -60,39 +64,43 @@ const pillars = [
 // Core values — short principles (distinct from the mechanical "How it works").
 const values = [
   {
-    title: L('Terbuka secara lalai', 'Open by default', '默认开放', 'இயல்பாகவே திறந்தது'),
+    title: L('Terbuka secara lalai', 'Open by default', '默认开放', 'இயல்பாகவே திறந்தது', '既定で公開'),
     body: L(
       'Semuanya boleh dilihat sumbernya di GitHub; setiap halaman menyediakan Markdown mentahnya.',
       'Everything is source-visible on GitHub; every page offers its raw Markdown.',
       '一切源码公开于 GitHub；每个页面都提供其原始 Markdown。',
       'அனைத்தின் மூலமும் GitHub-இல் காணக்கூடியது; ஒவ்வொரு பக்கமும் அதன் மூல Markdown-ஐ வழங்குகிறது.',
+      'すべて GitHub でソースを閲覧でき、各ページは生の Markdown を提供します。',
     ),
   },
   {
-    title: L('Dipetik, bukan didakwa', 'Cited, not claimed', '有据可查，而非空谈', 'மேற்கோள் காட்டப்படுகிறது, வெறுமனே உரிமை கோரப்படவில்லை'),
+    title: L('Dipetik, bukan didakwa', 'Cited, not claimed', '有据可查，而非空谈', 'மேற்கோள் காட்டப்படுகிறது, வெறுமனே உரிமை கோரப்படவில்லை', '主張ではなく、出典を'),
     body: L(
       'Setiap fakta yang boleh disemak membawa sumbernya.',
       'Every checkable fact carries its source.',
       '每一条可核查的事实都附有来源。',
       'சரிபார்க்கக்கூடிய ஒவ்வொரு உண்மையும் அதன் மூலத்தைக் கொண்டுள்ளது.',
+      '検証可能な事実にはすべて出典があります。',
     ),
   },
   {
-    title: L('Berbilang bahasa setara', 'Multilingual parity', '多语对等', 'பன்மொழிச் சமநிலை'),
+    title: L('Berbilang bahasa setara', 'Multilingual parity', '多语对等', 'பன்மொழிச் சமநிலை', '多言語の対等性'),
     body: L(
       'Bahasa Melayu, Inggeris, Cina dan Tamil dilayan setara — tiada bahasa “utama”.',
       'Malay, English, Chinese and Tamil are treated as equals — no “main” language.',
       '马来文、英文、中文与泰米尔文一视同仁——没有“主”语言。',
       'மலாய், ஆங்கிலம், சீனம் மற்றும் தமிழ் மொழிகள் சமமாக நடத்தப்படுகின்றன — “முதன்மை” மொழி என்று எதுவும் இல்லை.',
+      'マレー語・英語・中国語・タミル語は対等に扱われ、「主」言語はありません。',
     ),
   },
   {
-    title: L('Neutral pada isu sensitif', 'Neutral on sensitive ground', '敏感议题保持中立', 'உணர்திறன் வாய்ந்த விடயங்களில் நடுநிலை'),
+    title: L('Neutral pada isu sensitif', 'Neutral on sensitive ground', '敏感议题保持中立', 'உணர்திறன் வாய்ந்த விடயங்களில் நடுநிலை', '機微な領域では中立'),
     body: L(
       'Kaum, agama, institusi diraja dan perlembagaan — bersumber, berhati-hati, disemak manusia.',
       'Race, religion, royalty, and the constitution — sourced, careful, human-reviewed.',
       '种族、宗教、王室与宪法——注明来源、审慎处理、人工审阅。',
       'இனம், மதம், அரச நிறுவனங்கள் மற்றும் அரசியலமைப்பு — மூலம் காட்டப்பட்டு, கவனத்துடன், மனிதரால் மதிப்பாய்வு செய்யப்பட்டவை.',
+      '人種、宗教、王室、憲法 — 出典を示し、慎重に、人手で査読します。',
     ),
   },
 ];
@@ -102,20 +110,20 @@ const values = [
 const more = [
   {
     icon: '❓',
-    title: L('Soalan Lazim', 'FAQ', '常见问题', 'அடிக்கடி கேட்கப்படும் கேள்விகள்'),
-    desc: L('Jawapan kepada soalan yang paling kerap ditanya.', 'Answers to the most common questions.', '最常见问题的解答。', 'அதிகம் கேட்கப்படும் கேள்விகளுக்கான பதில்கள்.'),
+    title: L('Soalan Lazim', 'FAQ', '常见问题', 'அடிக்கடி கேட்கப்படும் கேள்விகள்', 'よくある質問'),
+    desc: L('Jawapan kepada soalan yang paling kerap ditanya.', 'Answers to the most common questions.', '最常见问题的解答。', 'அதிகம் கேட்கப்படும் கேள்விகளுக்கான பதில்கள்.', '最もよくある質問への回答。'),
     href: localePath('/faq', locale),
   },
   {
     icon: '📝',
-    title: L('Log Perubahan', 'Changelog', '更新日志', 'மாற்றப் பதிவேடு'),
-    desc: L('Apa yang berubah — terus daripada sejarah GitHub.', 'What’s changed — straight from the GitHub history.', '有何变化——直接来自 GitHub 历史。', 'என்ன மாறியது — நேரடியாக GitHub வரலாற்றிலிருந்து.'),
+    title: L('Log Perubahan', 'Changelog', '更新日志', 'மாற்றப் பதிவேடு', '変更履歴'),
+    desc: L('Apa yang berubah — terus daripada sejarah GitHub.', 'What’s changed — straight from the GitHub history.', '有何变化——直接来自 GitHub 历史。', 'என்ன மாறியது — நேரடியாக GitHub வரலாற்றிலிருந்து.', '何が変わったか — GitHub の履歴から直接。'),
     href: localePath('/changelog', locale),
   },
   {
     icon: '👥',
-    title: L('Penyumbang', 'Contributors', '贡献者', 'பங்களிப்பாளர்கள்'),
-    desc: L('Orang yang menulis dan menyemak korpus ini.', 'The people who write and review this corpus.', '撰写和审阅本语料库的人。', 'இந்தத் தொகுப்பை எழுதி மதிப்பாய்வு செய்யும் மக்கள்.'),
+    title: L('Penyumbang', 'Contributors', '贡献者', 'பங்களிப்பாளர்கள்', '貢献者'),
+    desc: L('Orang yang menulis dan menyemak korpus ini.', 'The people who write and review this corpus.', '撰写和审阅本语料库的人。', 'இந்தத் தொகுப்பை எழுதி மதிப்பாய்வு செய்யும் மக்கள்.', 'このコーパスを書き、査読する人々。'),
     href: localePath('/contributors', locale),
   },
 ];
@@ -124,58 +132,61 @@ const more = [
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு'), href: localePath('/', locale) },
-    { label: L('Tentang', 'About', '关于', 'பற்றி') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
+    { label: L('Tentang', 'About', '关于', 'பற்றி', '概要') },
   ]}
-  title={L('Tentang NegaraKu.md', 'About NegaraKu.md', '关于 NegaraKu.md', 'NegaraKu.md பற்றி')}
+  title={L('Tentang NegaraKu.md', 'About NegaraKu.md', '关于 NegaraKu.md', 'NegaraKu.md பற்றி', 'NegaraKu.md について')}
   desc={L(
     'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — satu sumber kebenaran yang dikurasi, dipetik, dan disemak komuniti.',
     'An open-source, AI-friendly knowledge base about Malaysia — a curated, cited, community-reviewed single source of truth.',
     '关于马来西亚的开源、AI 友好知识库——经策展、注明来源、由社区审阅的单一事实来源。',
     'மலேசியா பற்றிய திறந்த மூல, AI-நட்பு அறிவுத் தளம் — கவனமாகத் தொகுக்கப்பட்ட, மேற்கோள் காட்டப்பட்ட, சமூகத்தால் மதிப்பாய்வு செய்யப்பட்ட ஒரே உண்மை மூலம்.',
+    'マレーシアに関する、オープンソースでAIフレンドリーな知識ベース — 丁寧に編纂され、出典が示され、コミュニティが査読した唯一の信頼できる情報源。',
   )}
   stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்') },
-    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ') },
+    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ') },
+    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック') },
   ]}
 />
 
 <section class="container block">
   <div class="psec story">
-    <header><span>{L('Kisah kami', 'Our story', '我们的故事', 'எங்கள் கதை')}</span></header>
+    <header><span>{L('Kisah kami', 'Our story', '我们的故事', 'எங்கள் கதை', '私たちの物語')}</span></header>
     <svg class="story-bloom" viewBox="0 0 776 776" aria-hidden="true">
       <path fill="currentColor" fill-rule="evenodd" d={FLOWER_D} />
     </svg>
     <div class="psec-body prose">
-      <p>{L('NegaraKu.md dibina atas satu idea: pengetahuan tentang Malaysia patut mudah dibaca — oleh manusia dan oleh model bahasa besar. Namanya diambil daripada lagu kebangsaan Malaysia.', 'NegaraKu.md is built on one idea: knowledge about Malaysia should be easy to read — by people and by large language models alike. Its name comes from Malaysia\'s national anthem.', 'NegaraKu.md 建立在一个理念之上：关于马来西亚的知识应当便于阅读——无论是人，还是大型语言模型。它的名字取自马来西亚国歌。', 'NegaraKu.md ஒரே ஒரு எண்ணத்தின் அடிப்படையில் கட்டமைக்கப்பட்டது: மலேசியா பற்றிய அறிவு படிக்க எளிதாக இருக்க வேண்டும் — மனிதர்களாலும் பெரிய மொழி மாதிரிகளாலும் ஒருங்கே. அதன் பெயர் மலேசியாவின் தேசிய கீதத்திலிருந்து வந்தது.')}</p>
-      <p>{L('Kandungan awal dijana AI dan disemak, kemudian dikembangkan menjadi korpus empat bahasa yang lengkap. Hari ini setiap topik hidup sebagai fail di GitHub, terbuka untuk sesiapa membaca, memetik, atau memperbaiki.', 'Initial content was AI-drafted and reviewed, then grown into a complete four-language corpus. Today every topic lives as a file on GitHub, open for anyone to read, cite, or improve.', '初始内容由 AI 起草并审阅，随后发展为完整的四语语料库。如今每个主题都以 GitHub 上的文件形式存在，任何人都可阅读、引用或改进。', 'ஆரம்ப உள்ளடக்கம் AI-ஆல் வரையப்பட்டு மதிப்பாய்வு செய்யப்பட்டது, பின்னர் முழுமையான நான்கு மொழித் தொகுப்பாக வளர்க்கப்பட்டது. இன்று ஒவ்வொரு தலைப்பும் GitHub-இல் ஒரு கோப்பாக வாழ்கிறது, யாரும் படிக்க, மேற்கோள் காட்ட, அல்லது மேம்படுத்த திறந்திருக்கிறது.')}</p>
+      <p>{L('NegaraKu.md dibina atas satu idea: pengetahuan tentang Malaysia patut mudah dibaca — oleh manusia dan oleh model bahasa besar. Namanya diambil daripada lagu kebangsaan Malaysia.', 'NegaraKu.md is built on one idea: knowledge about Malaysia should be easy to read — by people and by large language models alike. Its name comes from Malaysia\'s national anthem.', 'NegaraKu.md 建立在一个理念之上：关于马来西亚的知识应当便于阅读——无论是人，还是大型语言模型。它的名字取自马来西亚国歌。', 'NegaraKu.md ஒரே ஒரு எண்ணத்தின் அடிப்படையில் கட்டமைக்கப்பட்டது: மலேசியா பற்றிய அறிவு படிக்க எளிதாக இருக்க வேண்டும் — மனிதர்களாலும் பெரிய மொழி மாதிரிகளாலும் ஒருங்கே. அதன் பெயர் மலேசியாவின் தேசிய கீதத்திலிருந்து வந்தது.', 'NegaraKu.md は一つの理念に基づいています。マレーシアに関する知識は、人にも大規模言語モデルにも読みやすくあるべきだ、ということです。その名はマレーシアの国歌に由来します。')}</p>
+      <p>{L('Kandungan awal dijana AI dan disemak, kemudian dikembangkan menjadi korpus empat bahasa yang lengkap. Hari ini setiap topik hidup sebagai fail di GitHub, terbuka untuk sesiapa membaca, memetik, atau memperbaiki.', 'Initial content was AI-drafted and reviewed, then grown into a complete four-language corpus. Today every topic lives as a file on GitHub, open for anyone to read, cite, or improve.', '初始内容由 AI 起草并审阅，随后发展为完整的四语语料库。如今每个主题都以 GitHub 上的文件形式存在，任何人都可阅读、引用或改进。', 'ஆரம்ப உள்ளடக்கம் AI-ஆல் வரையப்பட்டு மதிப்பாய்வு செய்யப்பட்டது, பின்னர் முழுமையான நான்கு மொழித் தொகுப்பாக வளர்க்கப்பட்டது. இன்று ஒவ்வொரு தலைப்பும் GitHub-இல் ஒரு கோப்பாக வாழ்கிறது, யாரும் படிக்க, மேற்கோள் காட்ட, அல்லது மேம்படுத்த திறந்திருக்கிறது.', '当初の内容は AI が下書きし査読され、その後、完全な四言語コーパスへと成長しました。今日、各トピックは GitHub 上のファイルとして存在し、誰でも読み、引用し、改善できるよう開かれています。')}</p>
     </div>
   </div>
 </section>
 
 <section class="container block two">
   <div class="psec">
-    <header><span>{L('Visi', 'Vision', '愿景', 'நோக்கு')}</span></header>
+    <header><span>{L('Visi', 'Vision', '愿景', 'நோக்கு', 'ビジョン')}</span></header>
     <div class="psec-body">
       <p class="vm-lead">{L(
         'Sebuah Malaysia yang pengetahuannya terbuka, boleh dipercayai, dan mudah dibaca — oleh manusia dan oleh AI yang mereka gunakan.',
         'A Malaysia whose knowledge is open, trustworthy, and equally readable — by people and by the AI they rely on.',
         '一个知识开放、可信、并能被人类及其所依赖的 AI 同样读懂的马来西亚。',
         'அறிவு திறந்ததாகவும், நம்பகமானதாகவும், சமமாகப் படிக்கக்கூடியதாகவும் இருக்கும் ஒரு மலேசியா — மனிதர்களாலும் அவர்கள் நம்பியிருக்கும் AI-ஆலும்.',
+        '知識が開かれ、信頼でき、等しく読める — 人にも、人が頼る AI にも読める、そんなマレーシア。',
       )}</p>
     </div>
   </div>
   <div class="psec">
-    <header><span>{L('Misi', 'Mission', '使命', 'பணி')}</span></header>
+    <header><span>{L('Misi', 'Mission', '使命', 'பணி', 'ミッション')}</span></header>
     <div class="psec-body">
-      <p class="vm-lead">{L('Biar dunia mengenali Malaysia.', 'Let the world know about Malaysia.', '让世界认识马来西亚。', 'உலகம் மலேசியாவை அறியட்டும்.')}</p>
+      <p class="vm-lead">{L('Biar dunia mengenali Malaysia.', 'Let the world know about Malaysia.', '让世界认识马来西亚。', 'உலகம் மலேசியாவை அறியட்டும்.', '世界にマレーシアを知ってもらう。')}</p>
       <p>{L(
         'Menyusun pengetahuan Malaysia menjadi perpustakaan terbuka, bersumber dan empat bahasa yang boleh dibaca, disahkan dan dikembangkan oleh sesiapa sahaja — dan mana-mana AI.',
         'To curate Malaysia’s knowledge into an open, cited, four-language library that anyone — and any AI — can read, verify, and build on.',
         '将马来西亚的知识整理成一个开放、有据可查、四语的知识库，让任何人——以及任何 AI——都能阅读、查证并在其之上继续建构。',
         'மலேசியாவின் அறிவை, யாரும் — மற்றும் எந்த AI-உம் — படிக்கவும், சரிபார்க்கவும், அதன் மேல் கட்டமைக்கவும் கூடிய திறந்த, மேற்கோள் காட்டப்பட்ட, நான்கு மொழி நூலகமாகத் தொகுப்பது.',
+        'マレーシアの知識を、誰でも — そしてどんな AI でも — 読み、検証し、その上に築ける、開かれた出典付きの四言語ライブラリへと編纂すること。',
       )}</p>
     </div>
   </div>
@@ -183,16 +194,16 @@ const more = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Slogan', 'Tagline', '标语', 'குறிக்கோள் வாசகம்')}</span></header>
+    <header><span>{L('Slogan', 'Tagline', '标语', 'குறிக்கோள் வாசகம்', 'タグライン')}</span></header>
     <div class="psec-body">
-      <p class="tagline-line">{L('Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚', 'AI-நட்பு மலேசியா')}</p>
+      <p class="tagline-line">{L('Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚', 'AI-நட்பு மலேசியா', 'AIフレンドリーなマレーシア')}</p>
     </div>
   </div>
 </section>
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Nilai teras', 'Core values', '核心价值', 'மைய விழுமியங்கள்')}</span></header>
+    <header><span>{L('Nilai teras', 'Core values', '核心价值', 'மைய விழுமியங்கள்', '中核となる価値観')}</span></header>
     <div class="psec-body">
       <div class="values">
         {values.map((v) => (
@@ -208,7 +219,7 @@ const more = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式', 'இது எப்படி இயங்குகிறது')}</span></header>
+    <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式', 'இது எப்படி இயங்குகிறது', '仕組み')}</span></header>
     <div class="psec-body">
       <div class="pcards">
         {pillars.map((p) => (
@@ -225,31 +236,32 @@ const more = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('NegaraKu.md di GitHub', 'NegaraKu.md on GitHub', 'NegaraKu.md 与 GitHub', 'GitHub-இல் NegaraKu.md')}</span></header>
+    <header><span>{L('NegaraKu.md di GitHub', 'NegaraKu.md on GitHub', 'NegaraKu.md 与 GitHub', 'GitHub-இல் NegaraKu.md', 'GitHub 上の NegaraKu.md')}</span></header>
     <div class="psec-body gh-body">
       <p class="lead">{L(
         'Seluruh pangkalan pengetahuan NegaraKu.md disimpan di GitHub — platform awam percuma tempat jutaan orang membina sesuatu secara terbuka. Inilah sebabnya, dan apa maknanya untuk anda.',
         'NegaraKu.md’s entire knowledge base lives on GitHub — a free, public platform where millions of people build things in the open. Here’s why, and what it means for you.',
         'NegaraKu.md 的整个知识库都存放在 GitHub 上——一个免费的公开平台，全球数百万人在此公开协作。以下是原因，以及它对你的意义。',
         'NegaraKu.md-இன் முழு அறிவுத் தளமும் GitHub-இல் உள்ளது — கோடிக்கணக்கான மக்கள் திறந்த வெளியில் பொருட்களை உருவாக்கும் இலவச, பொது தளம். இதற்கான காரணமும், இது உங்களுக்கு என்ன அர்த்தம் என்பதும் இங்கே.',
+        'NegaraKu.md の知識ベース全体は GitHub 上にあります — 数百万人が公開の場でものづくりをする、無料の公開プラットフォームです。その理由と、それがあなたにとって何を意味するかをご紹介します。',
       )}</p>
       <div class="gh-grid">
         <div>
-          <b>{L('Kenapa kami pilih GitHub', 'Why we chose GitHub', '为什么选择 GitHub', 'ஏன் நாங்கள் GitHub-ஐத் தேர்ந்தெடுத்தோம்')}</b>
+          <b>{L('Kenapa kami pilih GitHub', 'Why we chose GitHub', '为什么选择 GitHub', 'ஏன் நாங்கள் GitHub-ஐத் தேர்ந்தெடுத்தோம்', 'GitHub を選んだ理由')}</b>
           <ul>
-            <li>{L('Terbuka secara semula jadi — seluruh perpustakaan bersifat awam, bukan terkurung dalam sistem tertutup.', 'Open by nature — the whole library is public, not locked in a private system.', '天然开放——整个知识库都公开，不锁在封闭系统里。', 'இயல்பாகவே திறந்தது — முழு நூலகமும் பொதுவானது, மூடிய அமைப்பில் அடைபடவில்லை.')}</li>
-            <li>{L('Sejarah penuh — setiap suntingan merekod siapa mengubah apa, dan bila.', 'Full history — every edit records who changed what, and when.', '完整历史——每次编辑都记录谁改了什么、何时改的。', 'முழு வரலாறு — ஒவ்வொரு திருத்தமும் யார் எதை எப்போது மாற்றினார் என்பதைப் பதிவு செய்கிறது.')}</li>
-            <li>{L('Percuma dan tahan lama — tiada kos hos, dan ia tidak lenyap begitu sahaja.', 'Free and durable — nothing to host or pay for, and it won’t quietly disappear.', '免费且持久——无需托管或付费，也不会悄然消失。', 'இலவசம் மற்றும் நீடித்தது — ஹோஸ்ட் செய்யவோ கட்டணம் செலுத்தவோ எதுவும் இல்லை, அது அமைதியாக மறைந்துவிடாது.')}</li>
-            <li>{L('Rumah yang terbukti — platform standard untuk projek komuniti terbuka.', 'A proven home — the standard platform for open, community projects.', '成熟平台——开放社区项目的标准之选。', 'நிரூபிக்கப்பட்ட இல்லம் — திறந்த, சமூகத் திட்டங்களுக்கான தரநிலைத் தளம்.')}</li>
+            <li>{L('Terbuka secara semula jadi — seluruh perpustakaan bersifat awam, bukan terkurung dalam sistem tertutup.', 'Open by nature — the whole library is public, not locked in a private system.', '天然开放——整个知识库都公开，不锁在封闭系统里。', 'இயல்பாகவே திறந்தது — முழு நூலகமும் பொதுவானது, மூடிய அமைப்பில் அடைபடவில்லை.', '本来的に開かれている — ライブラリ全体が公開されており、閉じたシステムに閉じ込められていません。')}</li>
+            <li>{L('Sejarah penuh — setiap suntingan merekod siapa mengubah apa, dan bila.', 'Full history — every edit records who changed what, and when.', '完整历史——每次编辑都记录谁改了什么、何时改的。', 'முழு வரலாறு — ஒவ்வொரு திருத்தமும் யார் எதை எப்போது மாற்றினார் என்பதைப் பதிவு செய்கிறது.', '完全な履歴 — すべての編集が、誰が何をいつ変更したかを記録します。')}</li>
+            <li>{L('Percuma dan tahan lama — tiada kos hos, dan ia tidak lenyap begitu sahaja.', 'Free and durable — nothing to host or pay for, and it won’t quietly disappear.', '免费且持久——无需托管或付费，也不会悄然消失。', 'இலவசம் மற்றும் நீடித்தது — ஹோஸ்ட் செய்யவோ கட்டணம் செலுத்தவோ எதுவும் இல்லை, அது அமைதியாக மறைந்துவிடாது.', '無料で長続き — ホスティングも支払いも不要で、ひっそり消えることもありません。')}</li>
+            <li>{L('Rumah yang terbukti — platform standard untuk projek komuniti terbuka.', 'A proven home — the standard platform for open, community projects.', '成熟平台——开放社区项目的标准之选。', 'நிரூபிக்கப்பட்ட இல்லம் — திறந்த, சமூகத் திட்டங்களுக்கான தரநிலைத் தளம்.', '実績ある拠点 — 開かれたコミュニティ・プロジェクトの標準プラットフォームです。')}</li>
           </ul>
         </div>
         <div>
-          <b>{L('Manfaatnya', 'The benefits', '带来的好处', 'நன்மைகள்')}</b>
+          <b>{L('Manfaatnya', 'The benefits', '带来的好处', 'நன்மைகள்', '利点')}</b>
           <ul>
-            <li>{L('Boleh dipercayai — kerana setiap perubahan awam dan direkod, tiada apa boleh diubah secara rahsia.', 'Trustworthy — because every change is public and tracked, nothing can be altered in secret.', '值得信赖——每处改动都公开且被记录，无法暗中篡改。', 'நம்பகமானது — ஒவ்வொரு மாற்றமும் பொதுவானது மற்றும் கண்காணிக்கப்படுவதால், எதையும் ரகசியமாக மாற்ற முடியாது.')}</li>
-            <li>{L('Terbuka untuk semua — cadangkan pembetulan atau topik baharu; ia disemak secara terbuka.', 'Open to everyone — suggest a fix or a new topic; it’s reviewed in the open.', '人人可参与——提出更正或新主题，公开审阅。', 'அனைவருக்கும் திறந்தது — திருத்தமோ புதிய தலைப்போ பரிந்துரைக்கலாம்; அது வெளிப்படையாக மதிப்பாய்வு செய்யப்படுகிறது.')}</li>
-            <li>{L('Sedia untuk AI — kandungannya teks biasa yang boleh dibaca manusia dan AI secara terus.', 'AI-ready — the content is plain text that people and AI can read directly.', '面向 AI——内容是纯文本，人与 AI 都能直接读取。', 'AI-க்குத் தயார் — உள்ளடக்கம் மனிதர்களும் AI-உம் நேரடியாகப் படிக்கக்கூடிய எளிய உரை.')}</li>
-            <li>{L('Sentiasa milik anda — lesen dan format terbuka bermakna ia boleh disalin dan tidak terkurung.', 'Always yours — an open licence and open format mean it can be copied and never trapped.', '永远属于你——开放许可与开放格式，可自由复制，绝不被锁定。', 'எப்போதும் உங்களுடையது — திறந்த உரிமமும் திறந்த வடிவமும் இது நகலெடுக்கப்படலாம், ஒருபோதும் அடைபடாது என்பதைக் குறிக்கிறது.')}</li>
+            <li>{L('Boleh dipercayai — kerana setiap perubahan awam dan direkod, tiada apa boleh diubah secara rahsia.', 'Trustworthy — because every change is public and tracked, nothing can be altered in secret.', '值得信赖——每处改动都公开且被记录，无法暗中篡改。', 'நம்பகமானது — ஒவ்வொரு மாற்றமும் பொதுவானது மற்றும் கண்காணிக்கப்படுவதால், எதையும் ரகசியமாக மாற்ற முடியாது.', '信頼できる — すべての変更が公開・追跡されるため、秘密裏に改変することはできません。')}</li>
+            <li>{L('Terbuka untuk semua — cadangkan pembetulan atau topik baharu; ia disemak secara terbuka.', 'Open to everyone — suggest a fix or a new topic; it’s reviewed in the open.', '人人可参与——提出更正或新主题，公开审阅。', 'அனைவருக்கும் திறந்தது — திருத்தமோ புதிய தலைப்போ பரிந்துரைக்கலாம்; அது வெளிப்படையாக மதிப்பாய்வு செய்யப்படுகிறது.', '誰にでも開かれている — 修正や新しいトピックを提案でき、公開の場で査読されます。')}</li>
+            <li>{L('Sedia untuk AI — kandungannya teks biasa yang boleh dibaca manusia dan AI secara terus.', 'AI-ready — the content is plain text that people and AI can read directly.', '面向 AI——内容是纯文本，人与 AI 都能直接读取。', 'AI-க்குத் தயார் — உள்ளடக்கம் மனிதர்களும் AI-உம் நேரடியாகப் படிக்கக்கூடிய எளிய உரை.', 'AI 対応 — コンテンツは人も AI も直接読めるプレーンテキストです。')}</li>
+            <li>{L('Sentiasa milik anda — lesen dan format terbuka bermakna ia boleh disalin dan tidak terkurung.', 'Always yours — an open licence and open format mean it can be copied and never trapped.', '永远属于你——开放许可与开放格式，可自由复制，绝不被锁定。', 'எப்போதும் உங்களுடையது — திறந்த உரிமமும் திறந்த வடிவமும் இது நகலெடுக்கப்படலாம், ஒருபோதும் அடைபடாது என்பதைக் குறிக்கிறது.', 'いつでもあなたのもの — 開かれたライセンスと形式により、複製でき、決して閉じ込められません。')}</li>
           </ul>
         </div>
       </div>
@@ -258,15 +270,16 @@ const more = [
         'You don’t need to code — or even have a GitHub account — to read NegaraKu.md. GitHub only comes in when you choose to help improve it.',
         '阅读 NegaraKu.md 无需编程，甚至无需 GitHub 账户。只有当你选择帮助改进它时，才会用到 GitHub。',
         'NegaraKu.md-ஐப் படிக்க நீங்கள் நிரலாக்கம் அறிய வேண்டியதில்லை — GitHub கணக்கு கூட வேண்டியதில்லை. அதை மேம்படுத்த உதவ நீங்கள் தேர்ந்தெடுக்கும்போது மட்டுமே GitHub தேவைப்படுகிறது.',
+        'NegaraKu.md を読むのにプログラミングの知識は不要です — GitHub アカウントさえ要りません。GitHub が関わるのは、あなたが改善に手を貸そうと決めたときだけです。',
       )}</p>
-      <p class="gh-cta"><a class="btn btn-ghost" href={REPO} rel="noopener">{L('Lihat projek di GitHub', 'View the project on GitHub', '在 GitHub 上查看项目', 'GitHub-இல் திட்டத்தைப் பார்க்க')} ↗</a></p>
+      <p class="gh-cta"><a class="btn btn-ghost" href={REPO} rel="noopener">{L('Lihat projek di GitHub', 'View the project on GitHub', '在 GitHub 上查看项目', 'GitHub-இல் திட்டத்தைப் பார்க்க', 'GitHub でプロジェクトを見る')} ↗</a></p>
     </div>
   </div>
 </section>
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Ketahui lebih lanjut', 'Explore more', '了解更多', 'மேலும் அறிக')}</span></header>
+    <header><span>{L('Ketahui lebih lanjut', 'Explore more', '了解更多', 'மேலும் அறிக', 'もっと見る')}</span></header>
     <div class="psec-body">
       <div class="morecards">
         {more.map((m) => (
@@ -283,24 +296,24 @@ const more = [
 
 <section class="container block" data-pre-contributor>
   <div class="psec">
-    <header><span>{L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்')}</span></header>
+    <header><span>{L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献')}</span></header>
     <div class="psec-body split-body">
       <div>
-        <b class="cta-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md', 'NegaraKu.md-ஐக் கட்டமைக்க உதவுங்கள்')}</b>
-        <p class="muted">{L('Terjumpa kesilapan? Buka isu di GitHub — sesiapa boleh. Penulisan kandungan adalah secara jemputan pada fasa awal kami.', 'Spotted an error? Open a GitHub issue — anyone can. Authoring content is by invitation during our early phase.', '发现错误？任何人都可在 GitHub 提交问题。内容撰写在我们的早期阶段采用邀请制。', 'பிழையைக் கண்டீர்களா? GitHub-இல் ஒரு issue திறக்கவும் — யாரும் செய்யலாம். உள்ளடக்கம் எழுதுதல் எங்கள் ஆரம்ப கட்டத்தில் அழைப்பின் பேரில் மட்டுமே.')}</p>
+        <b class="cta-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md', 'NegaraKu.md-ஐக் கட்டமைக்க உதவுங்கள்', 'NegaraKu.md づくりに参加')}</b>
+        <p class="muted">{L('Terjumpa kesilapan? Buka isu di GitHub — sesiapa boleh. Penulisan kandungan adalah secara jemputan pada fasa awal kami.', 'Spotted an error? Open a GitHub issue — anyone can. Authoring content is by invitation during our early phase.', '发现错误？任何人都可在 GitHub 提交问题。内容撰写在我们的早期阶段采用邀请制。', 'பிழையைக் கண்டீர்களா? GitHub-இல் ஒரு issue திறக்கவும் — யாரும் செய்யலாம். உள்ளடக்கம் எழுதுதல் எங்கள் ஆரம்ப கட்டத்தில் அழைப்பின் பேரில் மட்டுமே.', '誤りを見つけましたか？GitHub で issue を開いてください — 誰でもできます。コンテンツの執筆は、初期段階では招待制です。')}</p>
       </div>
-      <a class="btn btn-primary" href={localePath('/contribute', locale)}>{L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献', 'NegaraKu.md-க்குப் பங்களியுங்கள்')}</a>
+      <a class="btn btn-primary" href={localePath('/contribute', locale)}>{L('Sumbang kepada NegaraKu.md', 'Contribute to NegaraKu.md', '为 NegaraKu.md 做贡献', 'NegaraKu.md-க்குப் பங்களியுங்கள்', 'NegaraKu.md に貢献する')}</a>
     </div>
   </div>
 </section>
 
 <section class="container block sponsor-block">
   <div class="psec">
-    <header><span>{L('Ditaja oleh', 'Sponsored by', '赞助单位', 'நிதியுதவி வழங்குபவர்')}</span></header>
+    <header><span>{L('Ditaja oleh', 'Sponsored by', '赞助单位', 'நிதியுதவி வழங்குபவர்', '提供')}</span></header>
     <div class="psec-body">
-      <p class="sbody">{L('NegaraKu.md ditaja oleh', 'NegaraKu.md is sponsored by', 'NegaraKu.md 由', 'NegaraKu.md-க்கு நிதியுதவி வழங்குவது')}
-        <a href="https://www.1company.com" rel="noopener"><span class="oneco">1company.com</span></a>{L('.', '.', ' 赞助。', '.')}</p>
-      <p class="muted">{L('Sokongan mereka memastikan projek ini kekal terbuka dan percuma.', 'Their support keeps this project open and free.', '他们的支持让本项目保持开放与免费。', 'அவர்களின் ஆதரவு இந்தத் திட்டத்தைத் திறந்ததாகவும் இலவசமாகவும் வைத்திருக்கிறது.')}</p>
+      <p class="sbody">{L('NegaraKu.md ditaja oleh', 'NegaraKu.md is sponsored by', 'NegaraKu.md 由', 'NegaraKu.md-க்கு நிதியுதவி வழங்குவது', 'NegaraKu.md のスポンサーは')}
+        <a href="https://www.1company.com" rel="noopener"><span class="oneco">1company.com</span></a>{L('.', '.', ' 赞助。', '.', 'です。')}</p>
+      <p class="muted">{L('Sokongan mereka memastikan projek ini kekal terbuka dan percuma.', 'Their support keeps this project open and free.', '他们的支持让本项目保持开放与免费。', 'அவர்களின் ஆதரவு இந்தத் திட்டத்தைத் திறந்ததாகவும் இலவசமாகவும் வைத்திருக்கிறது.', '彼らの支援により、このプロジェクトは開かれた無料のものであり続けます。')}</p>
     </div>
   </div>
 </section>

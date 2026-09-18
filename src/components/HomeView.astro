@@ -11,7 +11,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Latest + Most-read strips on the home page (same pairing as /explore and the
 // section hubs). Latest excludes what Most-read shows so the two don't overlap.
@@ -24,10 +24,10 @@ const mrKeys = mostReadKeys(items, STRIP);
 // one of Conservation International's 17 megadiverse nations; and the world's only
 // rotating elective monarchy — 9 hereditary rulers, a new Agong every 5 years.
 const stats = [
-  { icon: '🗺️', value: '2', unit: { ms: 'daratan, satu negara', en: 'lands, one nation', zh: '两地一国', ta: 'நிலப்பகுதிகள், ஒரே நாடு' } },
-  { icon: '🌳', value: '130M', unit: { ms: 'tahun usia hutan hujan', en: 'yr-old rainforest', zh: '年古老雨林', ta: 'ஆண்டு பழமையான மழைக்காடு' } },
-  { icon: '🐅', value: '1 / 17', unit: { ms: 'negara megadiversiti', en: 'megadiverse nations', zh: '超级生物多样国', ta: 'உயிர்ப் பன்முக நாடுகள்' } },
-  { icon: '👑', value: '9 → 1', unit: { ms: 'sultan, satu raja bergilir', en: 'sultans, one rotating king', zh: '位苏丹轮任元首', ta: 'சுல்தான்கள், ஒரே சுழல்முறை மன்னர்' } },
+  { icon: '🗺️', value: '2', unit: { ms: 'daratan, satu negara', en: 'lands, one nation', zh: '两地一国', ta: 'நிலப்பகுதிகள், ஒரே நாடு', ja: '国土、一つの国' } },
+  { icon: '🌳', value: '130M', unit: { ms: 'tahun usia hutan hujan', en: 'yr-old rainforest', zh: '年古老雨林', ta: 'ஆண்டு பழமையான மழைக்காடு', ja: '年前からの熱帯雨林' } },
+  { icon: '🐅', value: '1 / 17', unit: { ms: 'negara megadiversiti', en: 'megadiverse nations', zh: '超级生物多样国', ta: 'உயிர்ப் பன்முக நாடுகள்', ja: '生物多様性大国' } },
+  { icon: '👑', value: '9 → 1', unit: { ms: 'sultan, satu raja bergilir', en: 'sultans, one rotating king', zh: '位苏丹轮任元首', ta: 'சுல்தான்கள், ஒரே சுழல்முறை மன்னர்', ja: 'スルタン、輪番の国王' } },
 ];
 ---
 
@@ -42,6 +42,7 @@ const stats = [
           'The open-source, AI-friendly knowledge base about Malaysia',
           '开源、AI 友好的马来西亚完整知识库',
           'மலேசியா பற்றிய திறந்த மூல, AI-நட்பு அறிவுத் தளம்',
+          'マレーシアに関する、オープンソースでAIフレンドリーな知識ベース',
         )}
       </p>
       <p class="pitch pitch-sub">
@@ -50,6 +51,7 @@ const stats = [
           'Built from diverse perspectives — to let the world know about Malaysia',
           '从多元观点建构——让世界认识马来西亚',
           'பல்வேறு கண்ணோட்டங்களில் இருந்து கட்டமைக்கப்பட்டது — உலகம் மலேசியாவை அறியட்டும்',
+          '多様な視点から構築 — 世界にマレーシアを知ってもらうために',
         )}
       </p>
       <form class="hsearch" action={localePath('/search', locale)} method="get" role="search">
@@ -58,16 +60,16 @@ const stats = [
           type="search"
           name="q"
           placeholder={t('search.placeholder', locale)}
-          aria-label={L('Cari', 'Search', '搜索', 'தேடு')}
+          aria-label={L('Cari', 'Search', '搜索', 'தேடு', '検索')}
         />
-        <button type="submit">{L('Cari', 'Search', '搜索', 'தேடு')}</button>
+        <button type="submit">{L('Cari', 'Search', '搜索', 'தேடு', '検索')}</button>
       </form>
       <div class="cta">
-        <a class="btn btn-primary" href={localePath('/explore', locale)}>{L('Mula Terokai', 'Start exploring', '开始探索', 'ஆராயத் தொடங்குங்கள்')} →</a>
+        <a class="btn btn-primary" href={localePath('/explore', locale)}>{L('Mula Terokai', 'Start exploring', '开始探索', 'ஆராயத் தொடங்குங்கள்', '探索を始める')} →</a>
       </div>
     </div>
 
-    <dl class="stats" aria-label={L('Malaysia sepintas lalu', 'Malaysia at a glance', '马来西亚概览', 'மலேசியா ஒரு பார்வையில்')}>
+    <dl class="stats" aria-label={L('Malaysia sepintas lalu', 'Malaysia at a glance', '马来西亚概览', 'மலேசியா ஒரு பார்வையில்', 'マレーシアの概要')}>
       {stats.map((s) => (
         <div class="stat">
           <span class="sicon" aria-hidden="true">{s.icon}</span>
@@ -82,14 +84,14 @@ const stats = [
 <WelcomeCard locale={locale} />
 
 <section class="container block">
-  <h2 class="ways-title">{L('Apa yang membawa anda ke sini?', 'What brings you here?', '您为何而来？', 'உங்களை இங்கே கொண்டுவந்தது எது?')}</h2>
+  <h2 class="ways-title">{L('Apa yang membawa anda ke sini?', 'What brings you here?', '您为何而来？', 'உங்களை இங்கே கொண்டுவந்தது எது?', 'どんな目的でお越しですか？')}</h2>
   <div class="pillars">
     {PILLARS.map((p) => (
       <a class="card pillar" href={localePath(`/${p.id}`, locale)} style={`--c:${getPillarColor(p.id)}`}>
         <span class="picon" aria-hidden="true">{p.icon}</span>
         <b>{loc(p.name, locale)}</b>
         <span class="pdesc">{loc(p.tagline, locale)}</span>
-        <span class="pgo">{L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்')} →</span>
+        <span class="pgo">{L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探索')} →</span>
       </a>
     ))}
   </div>

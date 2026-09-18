@@ -92,7 +92,7 @@ export function pathKey(pathname) {
   p = p.replace(/^\/+/, '').replace(/\/+$/, ''); // trim slashes
   if (!p) return 'home';
   const seg = p.split('/');
-  if (seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ms') seg.shift();
+  if (seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ms' || seg[0] === 'ta' || seg[0] === 'ja') seg.shift();
   return seg.join('/') || 'home';
 }
 

@@ -14,7 +14,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string) => (locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Newest-first, and only articles that actually exist in this locale (not master
 // fallbacks) — same rule as All Articles. Prefer the last 30 days, but if the
@@ -39,7 +39,7 @@ const stats = await siteStats(locale);
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
     { label: t('nav.latest', locale) },
   ]}
   title={t('nav.latest', locale)}
@@ -48,12 +48,13 @@ const stats = await siteStats(locale);
     'The most recently updated articles (up to 100), grouped by date.',
     '最近更新的文章（最多 100 篇），按日期分组。',
     'சமீபத்தில் புதுப்பிக்கப்பட்ட கட்டுரைகள் (100 வரை), தேதி வாரியாகத் தொகுக்கப்பட்டவை.',
+    '最近更新された記事（最大100件）を、日付ごとにまとめています。',
   )}
   stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்') },
-    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ') },
+    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ') },
+    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック') },
   ]}
 />
 
