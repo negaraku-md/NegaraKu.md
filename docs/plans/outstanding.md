@@ -56,8 +56,15 @@ The 4 discovery modes and where we stand:
 
 ---
 
+## 🌏 Japanese (`ja`) language launch — IN PROGRESS
+- [x] **Phase 0** — foundation + fonts + `/ja` routes (soft launch, noindex). Build 8,151 pages, verified. Commit `eb8fa19c` (local)
+- [ ] **Phase 1** — pilot ~8 cross-pillar articles → verify real Japanese renders (page + OG)
+- [ ] **Phase 2** — chrome: i18n STRINGS ja, ~1001 `L()` call sites across 41 files, typed `Record<Locale>` objects, dashboard/enumerating components, half-done `ta` spots
+- [ ] **Phase 3** — full corpus (~1,073) via multi-agent Workflow batches
+- [ ] **Phase 4** — review + OPEN LAUNCH (add `ja` to LOCALES, drop sitemap filter, wire FB Page)
+- [ ] Then **Korean (`ko`)** — reuses everything above
+
 ## 🛠 Other standing project items
-- [ ] **Japanese → Korean** language launch — plus the full "chrome" localization (page-copy strings, language badge, N-lang dashboard) so ja/ko don't repeat Tamil's half-launch
 - [ ] **Facebook comment-mode** — blocked by App Review / Advanced Access (parked; caption-mode is live)
 - [ ] **Compliance calendar** — planned further redesign
 - [ ] **FB fetch-timeout hardening** (reliability follow-up)
