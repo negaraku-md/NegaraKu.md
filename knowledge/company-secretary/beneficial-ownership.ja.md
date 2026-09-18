@@ -82,7 +82,6 @@ sourceContentHash: "5960cbcc31d84c2e"
 status: "in-review"
 aiAssisted: true
 reviewer: null
-publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
 revision: 0

@@ -65,7 +65,6 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-publishedBy: "ashton-tan"
 revision: 0
 revisions:
   - revision: 0
