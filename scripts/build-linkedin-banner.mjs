@@ -22,24 +22,25 @@ const BRAND = `${REPO}/public/brand`;
 const OUT = `${BRAND}/NegaraKu.md.LinkedIn-Cover.png`;
 const FONT = 'Segoe UI, Nirmala UI, Malgun Gothic, Yu Gothic UI, Yu Gothic, Meiryo, Microsoft YaHei, Noto Sans SC, sans-serif';
 
-// LinkedIn's "Cover Image" editor crops to a FIXED ~3:1 box. Measured empirically:
-// a 4:1 banner letterboxes (box is taller than 4:1) and a 2:1 banner gets its top/bottom
-// clipped (box is shorter than 2:1) → the box is ≈3:1. So render at exactly 3:1 (1584x528):
-// at the editor's default zoom the image fills the box edge-to-edge with nothing cropped.
-const W = 1584, H = 528;
+// LinkedIn's "Cover Image" editor crops to a FIXED, very wide/short box — LinkedIn's
+// documented Company-Page cover ratio 1128x191 (≈5.9:1). Measured empirically by the crop
+// rectangle: 4:1 / 2:1 / 3:1 all sat TALLER than the box so it grabbed only a thin centre
+// band and clipped the language row (the dark top/bottom was the editor's DIM overlay, not
+// letterbox). So render at that ratio, 2x for sharpness = 2256x382, with a COMPACT layout
+// (lockup + tagline + language row; subtitle dropped — too tall for the short band).
+const W = 2256, H = 382;
 const TAGLINE = 'Let the world know about Malaysia';
-const SUBTITLE = 'Open-source, AI-friendly knowledge base about Malaysia';
 const LANGS = ['Bahasa Melayu', 'English', '中文', 'தமிழ்'];
 
-// Layout knobs — content block centred around H/2
-const GOLD_LINE = 7;          // top hairline thickness
-const LOGO_W = 470;           // wordmark lockup width (asset is 3:1 → h = LOGO_W/3)
-const LOGO_CY = 165;          // lockup vertical centre
-const Y_TAG = 315;            // tagline baseline
-const Y_SUB = 358;            // subtitle baseline
-const Y_LANG = 405;           // language row baseline
+// Layout knobs — compact stack, centred around H/2
+const GOLD_LINE = 8;          // top hairline thickness
+const LOGO_W = 560;           // wordmark lockup width (asset is 3:1 → h = LOGO_W/3 ≈ 187)
+const LOGO_CY = 120;          // lockup vertical centre
+const Y_TAG = 278;            // tagline baseline
+const Y_LANG = 338;           // language row baseline
+const TAG_SIZE = 48, LANG_SIZE = 27;
 // Flower watermark (matches FB flower transform math: cx/cy are the path's anchor centre)
-const FL_SC = 0.63, FL_OP = 0.07, FL_CX = 381, FL_CY = 420, FL_BY = 264, FL_INSET = 190;
+const FL_SC = 0.46, FL_OP = 0.07, FL_CX = 381, FL_CY = 420, FL_BY = 191, FL_INSET = 265;
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
@@ -54,7 +55,7 @@ function langRow(y) {
     const dx = i ? ` dx="${GAP}"` : '';
     spans += `<tspan${dx} fill="#e9e9e9" font-weight="500">${esc(l)}</tspan>`;
   });
-  return `<text x="${W / 2}" y="${y}" text-anchor="middle" font-family="${FONT}" font-size="24">${spans}</text>`;
+  return `<text x="${W / 2}" y="${y}" text-anchor="middle" font-family="${FONT}" font-size="${LANG_SIZE}">${spans}</text>`;
 }
 
 async function main() {
@@ -67,8 +68,7 @@ async function main() {
     ${flower(FL_INSET, 1)}
     ${flower(W - FL_INSET, -1)}
     <rect x="0" y="0" width="${W}" height="${GOLD_LINE}" fill="${GOLD}"/>
-    <text x="${W / 2}" y="${Y_TAG}" text-anchor="middle" font-family="${FONT}" font-weight="700" font-size="40" fill="#ffffff">${esc(TAGLINE)}</text>
-    <text x="${W / 2}" y="${Y_SUB}" text-anchor="middle" font-family="${FONT}" font-size="23" fill="#c9c9c9">${esc(SUBTITLE)}</text>
+    <text x="${W / 2}" y="${Y_TAG}" text-anchor="middle" font-family="${FONT}" font-weight="700" font-size="${TAG_SIZE}" fill="#ffffff">${esc(TAGLINE)}</text>
     ${langRow(Y_LANG)}
   </svg>`;
   const base = await sharp(Buffer.from(svg)).png().toBuffer();
