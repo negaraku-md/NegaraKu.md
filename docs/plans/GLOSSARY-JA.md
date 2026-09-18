@@ -69,6 +69,7 @@ short form after: e.g. `企業委員会（SSM）` … then `SSM`.
 
 - **Section / paragraph references stay abbreviated and inline** — `s.245(2)`, `s.68`, `para 5`, `First Schedule`. Do NOT convert to `第245条` / `第5項`; keep the `s.` form embedded directly in the Japanese sentence (matches the spec's never-translate list and the `.ja` pilot: companies-act-2016, digital-free-trade-zone).
 - **Statute titles:** Japanese descriptor + canonical English name/number in brackets, Japanese-comma separator — `2016年会社法（Companies Act 2016、Act 777）`. Standard/PD titles may use `『…』` for the work title.
+- **Practice Directive titles:** same pattern — `実務指針10/2024号（Practice Directive 10/2024、PD 10/2024）`, then `PD 10/2024` after first use. `Practice Directive N/YYYY` counts as a never-translate instrument name (like a gazette citation).
 - **Money scale words** (bilion/juta/million/billion) → Japanese `億/万`, exact value preserved; digit-form figures (`RM500,000`, `10%`) unchanged.
 
 ## Recurring terms (accounting / company-law) — use consistently
@@ -90,6 +91,14 @@ short form after: e.g. `企業委員会（SSM）` … then `SSM`.
 | LLP | LLP（有限責任事業組合） | keep "LLP" after first use; partner = 組合員 |
 | imprisonment / fine | 禁錮 / 罰金 | |
 | MFRS / MPERS / MASB | (untranslated) | MASB gloss: マレーシア会計基準審議会（MASB） |
+| approved company auditor | 認可会社監査人 | audit-licensing term |
+| audit fee | 監査報酬 | |
+| chartered accountant | 勅許会計士 | |
+| practising certificate | 開業証明書 | recurs across the audit pillar |
+| Accountant General / JANM | 会計総監（Accountant General）／会計総署（JANM） | |
+| Minister of Finance | 財務大臣 | |
+| undischarged bankrupt | 復権していない破産者 | |
+| engagement letter | 委嘱状 | audit engagement |
 
 ## Recurring terms (agriculture pillar) — use consistently
 
