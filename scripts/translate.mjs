@@ -38,6 +38,10 @@ const arg = (name) =>
 const argLang = arg('--lang');
 const argFile = arg('--file');
 const FORCE = process.argv.includes('--force');
+// Cap how many translations one run writes — lets a CI job drip the ~1,000-article
+// corpus in bounded batches (resumable: existing translations are skipped, so each
+// run picks up where the last left off). Default: no cap.
+const LIMIT = Number(arg('--limit')) || Infinity;
 
 const API_KEY = process.env.ANTHROPIC_API_KEY || '';
 const MODEL = process.env.ANTHROPIC_MODEL || 'claude-sonnet-5';
@@ -104,7 +108,7 @@ async function callClaude(rawMaster, target) {
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 16000,
+      max_tokens: 32000,
       system: systemPrompt(target),
       messages: [{ role: 'user', content: rawMaster }],
     }),
@@ -163,6 +167,7 @@ async function main() {
   let failed = 0;
 
   for (const src of masters) {
+    if (created >= LIMIT) break; // batch cap reached — a later run resumes the rest
     const raw = await readFile(src, 'utf8');
     const master = matter(raw);
     const masterLang = master.data.lang ?? master.data.masterLanguage ?? 'ms';
@@ -197,10 +202,11 @@ async function main() {
       }
 
       const { data, body } = assemble(master, modelData, modelBody, target, masterLang);
-      // LF only (spec). gray-matter emits \n; ensure no stray \r survives.
+      // LF only (spec). gray-matter emits \n; ensure no stray \r survives. (No banner
+      // before the frontmatter — a leading comment would break the `---` YAML parse;
+      // `status: draft` + `aiAssisted: true` already mark it a machine draft to review.)
       const file = matter.stringify('\n' + body + '\n', data).replace(/\r\n/g, '\n');
-      const banner = `<!-- MACHINE DRAFT (${target}, ${mode}): review against docs/TRANSLATION-SPEC.md before publishing. -->\n`;
-      await writeFile(dest, banner + file);
+      await writeFile(dest, file);
       console.log(`[translate] ${mode === 'claude' ? 'drafted' : 'scaffolded'} ${path.relative(ROOT, dest).replace(/\\/g, '/')}`);
       created++;
     }

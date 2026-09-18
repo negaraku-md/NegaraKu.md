@@ -1,0 +1,80 @@
+name: Translate corpus → Japanese
+
+# Phase 3 of the Japanese launch: drip-translate the ~1,000-article corpus to
+# `.ja.md` (status: draft, hidden in prod) using scripts/translate.mjs (one
+# Anthropic API call per article). Runs are BATCHED (`--limit`) and RESUMABLE
+# (translate.mjs skips articles that already have a .ja.md), so repeated
+# dispatches march through the corpus without re-doing work. Each run only
+# commits after a full `npm run build` passes, so a malformed draft can never
+# break the site. Compute + billing are the ANTHROPIC_API_KEY account's, not a
+# local session's.
+#
+# TO RUN: set the repo secret `ANTHROPIC_API_KEY`, then dispatch this workflow
+# (Actions ▸ "Translate corpus → Japanese" ▸ Run workflow) — repeat until the
+# corpus is done, or uncomment the schedule to drip automatically.
+on:
+  # Uncomment to auto-drip a batch a few times a day once ANTHROPIC_API_KEY is set.
+  # schedule:
+  #   - cron: '23 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max articles to translate this run'
+        required: false
+        default: '40'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-ja
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Translate a batch to Japanese
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: claude-sonnet-5
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::warning::no ANTHROPIC_API_KEY secret set — nothing to translate."
+            exit 0
+          fi
+          node scripts/translate.mjs --lang ja --limit "${{ github.event.inputs.limit || '40' }}"
+
+      - name: Build gate (a bad draft must never reach main)
+        env:
+          NODE_OPTIONS: --max-old-space-size=6144
+        run: npm run build
+
+      - name: Stamp translation freshness
+        run: |
+          node scripts/sync.mjs
+          node scripts/translation-sync.mjs --stamp
+
+      - name: Commit the Japanese batch
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Stage ONLY .ja.md files — never other languages' files that --stamp may
+          # have re-touched (avoids masking a genuinely-stale ta/zh translation).
+          mapfile -t JA < <(git status --porcelain knowledge | awk '{print $2}' | grep '\.ja\.md$' || true)
+          if [ ${#JA[@]} -eq 0 ]; then
+            echo "no new .ja.md this run — corpus may be complete."
+            exit 0
+          fi
+          git add "${JA[@]}"
+          git commit -m "feat(ja): translate corpus batch (${#JA[@]} articles) [ja]"
+          git push
