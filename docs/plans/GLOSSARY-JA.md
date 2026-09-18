@@ -120,3 +120,34 @@ coined near-identical renderings. Lock these so the rest of the pillar converges
 EXACT value (`RM103.2 bilion` → `RM1,032億`, `5.65 juta hektar` → `565万ヘクタール`).
 Digit-form figures (`RM100,000`, `980,000 tan`, `40.46`, percentages) stay
 digit-form — do NOT regroup them into 万 (that's a zh-sibling artifact, not the JA rule).
+
+## Recurring terms (arts & culture pillar) — use consistently
+
+Settled from the Phase 3 arts-culture batch. Proper nouns (art forms, festivals,
+communities) transliterate to katakana on first use with the local Roman form
+glossed once, then run bare — transliteration is standard JA practice and is NOT
+the "never invent an institution name" rule.
+
+| English / source | Japanese | Notes |
+| --- | --- | --- |
+| Dewan Bahasa dan Pustaka (DBP) | 国語・文学局（Dewan Bahasa dan Pustaka、DBP） | NOT 国語院; keep DBP after first use |
+| Sasterawan Negara / Anugerah Sastera Negara | 国家文学家 / 国家文学賞 | laureate title / the award |
+| Peranakan | プラナカン | Baba-Nyonya context; gloss once |
+| open house (rumah terbuka) | オープンハウス | keep Malay `rumah terbuka` where the source names it |
+| Chinese New Year | 旧正月 | gloss once as 旧正月（春節） |
+| ang pow / angpau (red packet) | アンパウ（紅包） | Malaysian-English spelling kept |
+| yee sang / lo hei | イーサン（魚生） | keep local-form base |
+| Chap Goh Meh | チャップゴーメー（Chap Goh Meh） | 15th-day lantern festival |
+| Deepavali | ディーパバリ | |
+| Thaipusam | タイプーサム | |
+| Hari Raya Aidilfitri | ハリラヤ・アイディルフィトリ | |
+| Christmas / Christmas Eve / Midnight Mass | クリスマス／クリスマスイブ／深夜ミサ | |
+| batik / silat / wayang kulit / mak yong | バティック／シラット／ワヤン・クリット／マッ・ヨン | art-form names, gloss once |
+| Chinese dialect groups | 福建語（閩南語）／客家語／広東語（粤語）／潮州語／海南語／福州語（閩東語） | standard Sino-Japanese names |
+| Kesultanan Melaka (Melaka Sultanate) | マラッカ王国 | Melaka = マラッカ |
+| UNESCO ICH Representative List | 人類の無形文化遺産代表一覧表 | |
+
+**Constitution vs statute references:** the *Federal Constitution*'s Articles
+(Malay `Perkara`) convert to `第X条` (e.g. `第152条(1)(a)`), matching the zh
+precedent — this is DISTINCT from statute pinpoint sections (`Seksyen`/`s.`), which
+stay abbreviated inline (`s.2`) and are never converted to `第X条`.
