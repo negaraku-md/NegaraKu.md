@@ -99,6 +99,23 @@ short form after: e.g. `企業委員会（SSM）` … then `SSM`.
 | Minister of Finance | 財務大臣 | |
 | undischarged bankrupt | 復権していない破産者 | |
 | engagement letter | 委嘱状 | audit engagement |
+| unmodified/unqualified opinion | 無限定意見 | ISA 700 |
+| qualified opinion | 限定意見 | ISA 705 |
+| adverse opinion | 不適正意見 | ISA 705 — JICPA-standard, NOT 否定的意見 |
+| disclaimer of opinion | 意見不表明 | ISA 705 |
+| modified opinion | 除外事項付意見 | umbrella for qualified/adverse/disclaimer |
+| key audit matters (KAM) | 監査上の主要な検討事項（KAM） | ISA 701 |
+| emphasis of matter / other matter | 強調事項（区分）／その他の事項（区分） | ISA 706 |
+| going concern | 継続企業（ゴーイング・コンサーン） | ISA 570; material uncertainty = 重要な不確実性 |
+| those charged with governance | 統治責任者 | |
+| performance materiality | 手続実施上の重要性 | ISA 320 |
+| management representation letter | 経営者確認書 | ISA 580 |
+| audit assertions | 実在性／網羅性／評価／権利と義務／期間帰属／表示及び開示 | the six assertions |
+| public interest entity (PIE) | 公共利益事業体（PIE） | reuse this form; AOB = 監査監督委員会（AOB） |
+
+ISA standard identifiers (`ISA 700`, `ISA 570 (Revised)`, `ISQM 1`) and ISA
+paragraph pinpoints stay in the original — keep the ISA name in English (like a
+statute short title) and leave `para N` / `R540.5` inline, unconverted.
 
 ## Recurring terms (agriculture pillar) — use consistently
 
