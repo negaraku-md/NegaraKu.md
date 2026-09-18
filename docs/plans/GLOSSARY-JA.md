@@ -145,7 +145,12 @@ the "never invent an institution name" rule.
 | batik / silat / wayang kulit / mak yong | バティック／シラット／ワヤン・クリット／マッ・ヨン | art-form names, gloss once |
 | Chinese dialect groups | 福建語（閩南語）／客家語／広東語（粤語）／潮州語／海南語／福州語（閩東語） | standard Sino-Japanese names |
 | Kesultanan Melaka (Melaka Sultanate) | マラッカ王国 | Melaka = マラッカ |
-| UNESCO ICH Representative List | 人類の無形文化遺産代表一覧表 | |
+| Jabatan Warisan Negara (Dept. of National Heritage) | 国家遺産局（Jabatan Warisan Negara） | recurs across heritage articles |
+| Akta Warisan Kebangsaan 2005 (Akta 645) | 2005年国家遺産法（Akta Warisan Kebangsaan 2005、Akta 645） | National Heritage Act |
+| JAKIM (Jabatan Kemajuan Islam Malaysia) | マレーシア・イスラム開発局（JAKIM） | keep JAKIM after first use |
+| JKKN (Dept. of Culture & Arts) | 国家文化芸術局（JKKN） | |
+| UNESCO ICH Representative List | 人類の無形文化遺産代表一覧表 | pre-2008 program = 人類の口承及び無形遺産の傑作 |
+| UNESCO Memory of the World | UNESCO世界の記憶（Memory of the World） | |
 
 **Constitution vs statute references:** the *Federal Constitution*'s Articles
 (Malay `Perkara`) convert to `第X条` (e.g. `第152条(1)(a)`), matching the zh
