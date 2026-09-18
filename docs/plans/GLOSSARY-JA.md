@@ -90,3 +90,33 @@ short form after: e.g. `企業委員会（SSM）` … then `SSM`.
 | LLP | LLP（有限責任事業組合） | keep "LLP" after first use; partner = 組合員 |
 | imprisonment / fine | 禁錮 / 罰金 | |
 | MFRS / MPERS / MASB | (untranslated) | MASB gloss: マレーシア会計基準審議会（MASB） |
+
+## Recurring terms (agriculture pillar) — use consistently
+
+Settled from the Phase 3 agriculture batch, where several agents independently
+coined near-identical renderings. Lock these so the rest of the pillar converges.
+
+| English / source | Japanese | Notes |
+| --- | --- | --- |
+| Ministry of Agriculture & Food Security | 農業・食料安全保障省（KPKM） | keep the **KPKM** acronym (current Malay), NOT "MAFS" |
+| Department of Agriculture (DOA) | 農業局（DOA） | |
+| Department of Veterinary Services (DVS/JPV) | 獣医サービス局（DVS） | |
+| Department of Fisheries (DOF) | 漁業局（DOF） | matches the dedicated DOF article |
+| FAMA (Lembaga Pemasaran Pertanian Persekutuan) | 連邦農業マーケティング庁（FAMA） | |
+| LKIM | マレーシア漁業開発庁（LKIM） | |
+| MPOB | マレーシア・パーム油庁（MPOB） | palm-oil board |
+| FELDA / FELCRA / RISDA | 連邦土地開発庁（FELDA）／FELCRA／RISDA | gloss FELDA once; keep FELCRA/RISDA as acronyms |
+| BERNAS / Padiberas Nasional | BERNAS | keep local form (never-translate) |
+| smallholder (pekebun kecil) | 小規模農家 | |
+| settler (peneroka) | 入植者 | |
+| padi / beras | 稲 / 米 | paddy crop = 稲; milled rice = 米 (pair as 稲・米) |
+| oil palm / palm oil | アブラヤシ（作物）／パーム油（製品） | keep tree-vs-product distinction |
+| agromakanan (agro-food) | 食料 / 農産食品 | |
+| badan berkanun (statutory body) | 法定機関 | |
+| Rancangan Malaysia Ke-N | 第N次マレーシア計画 | e.g. 第12次マレーシア計画 |
+
+**Money scale (agriculture reaffirms the locked rule):** 1 bilion = 10億, 1 juta =
+100万, 1 trilion = 1兆 — convert word-form scale figures to 億/万/兆 preserving the
+EXACT value (`RM103.2 bilion` → `RM1,032億`, `5.65 juta hektar` → `565万ヘクタール`).
+Digit-form figures (`RM100,000`, `980,000 tan`, `40.46`, percentages) stay
+digit-form — do NOT regroup them into 万 (that's a zh-sibling artifact, not the JA rule).
