@@ -22,24 +22,24 @@ const BRAND = `${REPO}/public/brand`;
 const OUT = `${BRAND}/NegaraKu.md.LinkedIn-Cover.png`;
 const FONT = 'Segoe UI, Nirmala UI, Malgun Gothic, Yu Gothic UI, Yu Gothic, Meiryo, Microsoft YaHei, Noto Sans SC, sans-serif';
 
-// LinkedIn's Cover Image editor crops to a box TALLER than 4:1, so a short banner
-// letterboxes. We use a taller 2:1 canvas with the content block centred vertically and
-// a full-bleed near-black gradient — it fills the editor box edge-to-edge, and because
-// the whole background is near-black, any residual crop on another surface blends away.
-const W = 1584, H = 792;
+// LinkedIn's "Cover Image" editor crops to a FIXED ~3:1 box. Measured empirically:
+// a 4:1 banner letterboxes (box is taller than 4:1) and a 2:1 banner gets its top/bottom
+// clipped (box is shorter than 2:1) → the box is ≈3:1. So render at exactly 3:1 (1584x528):
+// at the editor's default zoom the image fills the box edge-to-edge with nothing cropped.
+const W = 1584, H = 528;
 const TAGLINE = 'Let the world know about Malaysia';
 const SUBTITLE = 'Open-source, AI-friendly knowledge base about Malaysia';
 const LANGS = ['Bahasa Melayu', 'English', '中文', 'தமிழ்'];
 
-// Layout knobs — content block centred around H/2 (crop-proof)
+// Layout knobs — content block centred around H/2
 const GOLD_LINE = 7;          // top hairline thickness
 const LOGO_W = 470;           // wordmark lockup width (asset is 3:1 → h = LOGO_W/3)
-const LOGO_CY = 300;          // lockup vertical centre
-const Y_TAG = 470;            // tagline baseline
-const Y_SUB = 515;            // subtitle baseline
-const Y_LANG = 565;           // language row baseline
+const LOGO_CY = 165;          // lockup vertical centre
+const Y_TAG = 315;            // tagline baseline
+const Y_SUB = 358;            // subtitle baseline
+const Y_LANG = 405;           // language row baseline
 // Flower watermark (matches FB flower transform math: cx/cy are the path's anchor centre)
-const FL_SC = 0.95, FL_OP = 0.07, FL_CX = 381, FL_CY = 420, FL_BY = 396, FL_INSET = 200;
+const FL_SC = 0.63, FL_OP = 0.07, FL_CX = 381, FL_CY = 420, FL_BY = 264, FL_INSET = 190;
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
