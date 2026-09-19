@@ -130,7 +130,7 @@ NEPは、単一の法令ではなく、**国家開発計画を通じて表明さ
 
 ## 次のステップ
 
-同じ1969年以降の時期に起草された国民統合のイデオロギーについては、[ルクンヌガラ](/ja/malaysia/rukun-negara)を参照のこと。この時代の行政機構を形づくった、それ以前の緊急事態については、[マラヤ危機（Malayan Emergency）](/ja/malaysia/the-emergency)を参照のこと。NEPの起草者たちが基盤とした建国の出来事については、[1957年の独立](/ja/malaysia/independence-1957)及び[1963年のマレーシア成立](/ja/malaysia/formation-of-malaysia-1963)を参照のこと。社会再編の目標の背景にある人口動態については、マレーシアの[人口構成](/ja/malaysia/population-composition)を参照のこと。
+同じ1969年以降の時期に起草された国民統合のイデオロギーについては、[ルクンヌガラ](/ja/malaysia/rukun-negara)を参照のこと。この時代の行政機構を形づくった、それ以前の緊急事態については、[マラヤ非常事態（Malayan Emergency）](/ja/malaysia/the-emergency)を参照のこと。NEPの起草者たちが基盤とした建国の出来事については、[1957年の独立](/ja/malaysia/independence-1957)及び[1963年のマレーシア成立](/ja/malaysia/formation-of-malaysia-1963)を参照のこと。社会再編の目標の背景にある人口動態については、マレーシアの[人口構成](/ja/malaysia/population-composition)を参照のこと。
 
 一次資料から出発したい読者は、第2次マレーシア計画（1971-1975年）でその目標自体を読み、経済計画ユニットの長期展望大綱で回顧的な数字を確認することができる。いずれも上記の出典欄に記載されている。
 

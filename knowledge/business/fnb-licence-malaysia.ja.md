@@ -205,7 +205,7 @@ s.35(1)は四つの区分を定めている。
 
 二つの独立した事柄であり、しばしば混同される。
 
-**施設のライセンスは州又は連邦直轄区の法律である。** 劇場、映画館及び公共娯楽施設の発給は、**Ninth Schedule（第九附則）item 5(f)**のもとで州リスト（State List）の事項である。連邦直轄区では、その法文書は**1992年娯楽（クアラルンプール連邦直轄区）法（Entertainment (Federal Territory of Kuala Lumpur) Act 1992、Act 493）**であり、P.U.(A) 395/2010によりラブアンにも拡張されている。各州はそれぞれ独自の法文書を持つ。スランゴールは**1995年娯楽及び娯楽場所（スランゴール）法令（Entertainment and Places of Entertainment (Selangor) Enactment 1995）**を運用しており（ライセンスなしの営業はs.6のもとで最高RM25,000又は禁錮五年）、サラワクは**2000年娯楽条例（Entertainment Ordinance 2000、Cap. 33）**を運用している。サバの対応法は**1958年公共娯楽条例（Public Entertainment Ordinance 1958）**である。1976年地方政府法**s.102(p)**は別途、地方自治体が娯楽施設、公共レクリエーション施設又は公共の行楽施設にライセンスを発給することを認めている。いずれも、**1953年娯楽税法（Entertainments Duty Act 1953、Act 103）**と混同しないこと——これはライセンスではなく税である。
+**施設のライセンスは州又は連邦直轄区の法律である。** 劇場、映画館及び公共娯楽施設の発給は、**Ninth Schedule（第九附則）item 5(f)**のもとで州リスト（State List）の事項である。連邦直轄区では、その法文書は**1992年娯楽（クアラルンプール連邦直轄区）法（Entertainment (Federal Territory of Kuala Lumpur) Act 1992、Act 493）**であり、P.U.(A) 395/2010によりラブアンにも拡張されている。各州はそれぞれ独自の法文書を持つ。セランゴールは**1995年娯楽及び娯楽場所（セランゴール）法令（Entertainment and Places of Entertainment (Selangor) Enactment 1995）**を運用しており（ライセンスなしの営業はs.6のもとで最高RM25,000又は禁錮五年）、サラワクは**2000年娯楽条例（Entertainment Ordinance 2000、Cap. 33）**を運用している。サバの対応法は**1958年公共娯楽条例（Public Entertainment Ordinance 1958）**である。1976年地方政府法**s.102(p)**は別途、地方自治体が娯楽施設、公共レクリエーション施設又は公共の行楽施設にライセンスを発給することを認めている。いずれも、**1953年娯楽税法（Entertainments Duty Act 1953、Act 103）**と混同しないこと——これはライセンスではなく税である。
 
 **音楽の再生は著作権法のもとでライセンスされ**、地方自治体が発給するいかなるものとも別個である。**1987年著作権法（Copyright Act 1987、Act 332）s.27A**のもとで、法人団体は**集中管理団体（collective management organisation）**として活動する前に**管理官（Controller）**により宣言されなければならず、保証有限責任会社（company limited by guarantee）でなければならず、宣言を受けずに活動した場合は最高RM500,000の罰金を伴う犯罪を犯すことになる。
 

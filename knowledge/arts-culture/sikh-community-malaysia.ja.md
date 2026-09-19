@@ -114,7 +114,7 @@ keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa"
 | --- | --- | --- |
 | Guru Nanak Darbar Tatt Khalsa Diwan | クアラルンプール、チョウキット | 1918年設立；現在の建物は2002年完成 |
 | Gurdwara Johor Bahru | ジョホール州ジョホールバル | 敷地は1921年に官報告示；現在の建物は1992年開設 |
-| Gurdwara Rawang | スランゴール州ラワン | 元の建物は1938年；1970年代に拡張 |
+| Gurdwara Rawang | セランゴール州ラワン | 元の建物は1938年；1970年代に拡張 |
 | Gurdwara Kuala Pilah | ヌグリ・スンビラン州クアラピラ | 1937年設立 |
 | Gurdwara Kuching | サラワク州クチン | 1982年開設 |
 

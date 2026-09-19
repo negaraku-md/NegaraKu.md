@@ -115,7 +115,7 @@ keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturin
 
 マレーシアの航空宇宙活動は専用パークに集積しており、その大半は空港や既存の工業基盤を取り囲むように立地している。この地理的配置は重要である。MROには滑走路が必要であり、航空機製造には熟練労働力の密集が必要だからだ——そしてマレーシアはその両方を共存させようとしてきた。
 
-- **スバン・エアロテック・パーク（Subang Aerotech Park）**とその周辺のスランゴール州クラスター——マレーシアMROの歴史的中心地。
+- **スバン・エアロテック・パーク（Subang Aerotech Park）**とその周辺のセランゴール州クラスター——マレーシアMROの歴史的中心地。
 - **KLIAエアロポリス（KLIA Aeropolis）**——主要国際空港を中心に据えた航空関連開発区。
 - ジョホール州の**スナイ空港航空パーク（Senai Airport Aviation Park）**と**ヌサジャヤ・テックパーク（Nusajaya Tech Park）**——エンジンシステム及び部品製造の拠点。
 - ケダ州の**クリム・ハイテクパーク（Kulim Hi-Tech Park）**——北部回廊における高付加価値製造業。
