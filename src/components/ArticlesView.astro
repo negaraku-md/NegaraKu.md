@@ -29,21 +29,22 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு'), href: localePath('/', locale) },
-    { label: L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
+    { label: L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事') },
   ]}
-  title={L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்')}
+  title={L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事')}
   desc={L(
     'Semak imbas keseluruhan pangkalan pengetahuan — isih, tapis dan cari.',
     'Browse the whole knowledge base — sort, filter and search.',
     '浏览整个知识库——排序、筛选与搜索。',
     'முழு அறிவுத் தளத்தையும் உலாவுங்கள் — வரிசைப்படுத்து, வடிகட்டு மற்றும் தேடு.',
+    'ナレッジベース全体を閲覧できます——並べ替え、絞り込み、検索が可能です。',
   )}
   stats={[
-    { value: secCount, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்') },
-    { value: catCount, label: L('kategori', 'categories', '分类', 'வகைகள்') },
-    { value: topCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்') },
-    { value: canonical.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்') },
+    { value: secCount, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱') },
+    { value: catCount, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー') },
+    { value: topCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー') },
+    { value: canonical.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック') },
   ]}
 />
 
