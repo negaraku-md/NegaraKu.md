@@ -97,7 +97,7 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 | --- | --- | --- | --- | --- |
 | 1967年労使関係法（Industrial Relations Act 1967、Act 177） | 177 | 労使関係局（JPPM）——`jpp.mohr.gov.my` | IRIS、`iris.mohr.gov.my` | 不当解雇の申立て、調停、労働争議 |
 | — | — | マレーシア労使裁判所——`mp.gov.my` | e-Filing `mp.gov.my/ef`、e-Mention `eic.gov.my/eicx` | 付託案件と裁定の審理 |
-| 1959年労働組合法（Trade Unions Act 1959） | 262 | 労働組合事務局（JHEKS）——`jheks.mohr.gov.my` | e-TUIS、`e-tuis.jheks.gov.my` | 労働組合の登録と運営 |
+| 1959年労働組合法（Trade Unions Act 1959） | 262 | 労働組合局（JHEKS）——`jheks.mohr.gov.my` | e-TUIS、`e-tuis.jheks.gov.my` | 労働組合の登録と運営 |
 
 **`jppm.mohr.gov.my`は解決しない。** JPPMの実際のドメインは2つ目のMを省く。これは
 マレーシアの人事関連の文章で最も繰り返される誤ったリンクである。
