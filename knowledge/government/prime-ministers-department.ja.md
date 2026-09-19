@@ -16,7 +16,7 @@ keyTakeaways:
   - "1957年7月に設立され、廃止された首席書記官局（Office of the Chief Secretary）に代わるものとなった——継続して運営されている連邦部局の中で最も古いものの一つ"
   - "設立目的：国家政策を計画・策定・調整し、行政、財政、人事、儀典及び会議に関する事項を政府全体にわたって標準化すること"
   - "JPM自身の公式史は、これを国家行政体系において最も重要な部局と位置づけている——政府の主要な政策を担う中枢であるという理由による"
-  - "行政上は官房長官（Chief Secretary to the Government、Ketua Setiausaha Negara）——最高位の文官——が率い、複数の副事務総長が補佐している"
+  - "行政上は国家事務総長（Chief Secretary to the Government、Ketua Setiausaha Negara）——最高位の文官——が率い、複数の副事務総長が補佐している"
   - "設立時（1957年）の3単位から1961年までに13の部局へと成長し、その後の数十年間も多機関部局として拡大を続けてきた"
   - "公共サービス委員会（1957年8月31日設立）と選挙委員会（1957年9月4日、連邦憲法第114条のもとで設立）は、いずれもJPM内の中央官庁として設立された"
   - "本部はプトラジャヤの連邦政府行政センターにあるPerdana Putra——1999年、同部局がクアラルンプールから移転して以来使用されている"
@@ -84,7 +84,7 @@ keywords: ["Jabatan Perdana Menteri", "Prime Minister's Department Malaysia", "J
 | 設立 | 1957年7月 |
 | 前身機関 | 首席書記官局（Office of the Chief Secretary、廃止済み） |
 | 種別 | 連邦政府部局 |
-| 最高位文官 | 官房長官（Chief Secretary to the Government / Ketua Setiausaha Negara、KSU） |
+| 最高位文官 | 国家事務総長（Chief Secretary to the Government / Ketua Setiausaha Negara、KSU） |
 | 設立時の規模（1957年） | 3部局 |
 | 1961年時点の規模 | 13部局 |
 | 本部 | Perdana Putra, Federal Government Administrative Centre, 62502 Putrajaya |
@@ -112,7 +112,7 @@ JPMは1957年7月、独立（Merdeka）に向けた準備期間中に、その�
 設立当初、JPMが擁していたのはわずか三つの単位——内閣局（Cabinet Division）、
 保安・情報局（Security and Intelligence Division）、そして経済顧問秘書局
 （Secretariat for the Economic Adviser）——のみであった。その日常の運営
-は、官房長官（Chief Secretary to the Government、別称Chief Secretary、
+は、国家事務総長（Chief Secretary to the Government、別称Chief Secretary、
 KSU）が率い、複数の副事務総長（Deputy Secretaries-General）が補佐してい
 た。
 
@@ -123,7 +123,7 @@ KSU）が率い、複数の副事務総長（Deputy Secretaries-General）が補
 このパターンは数十年にわたって繰り返されてきた：新たな国家的優先課題が生
 じるたびに、政府はそのために全く新しい省を創設するのではなく、担当する部
 門をJPMの内部に置く。そこでは、特定分野を担当する大臣（sectoral
-minister）を通じてではなく、内閣及び官房長官の事務局を通じて報告が行われ
+minister）を通じてではなく、内閣及び国家事務総長の事務局を通じて報告が行われ
 る。これこそが、JPM傘下の機関一覧が単一のテーマに沿って整理されたことが一
 度もない理由である。
 
