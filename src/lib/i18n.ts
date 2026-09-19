@@ -1,10 +1,12 @@
 import type { Locale } from './categories';
 
 // The languages advertised in the UI (language switcher + hreflang alternates).
-// Tamil (`ta`) is a valid Locale and its routes/chrome are being built, but it is
-// deliberately held OUT of this list until its corpus reaches a launch threshold —
-// a soft launch, so the switcher never points at a page that isn't ready.
-export const LOCALES: Locale[] = ['ms', 'en', 'zh', 'ta'];
+// A locale is added here only once its full corpus + chrome are launch-ready; before
+// that it is soft-launched (routes/chrome built, but held OUT of this list so its /
+// pages stay noindex and out of the sitemap, and the switcher never points at a page
+// that isn't ready). Japanese (`ja`) open-launched 2026-09-20: full 1,094-article corpus
+// translated + chrome localized.
+export const LOCALES: Locale[] = ['ms', 'en', 'zh', 'ta', 'ja'];
 export const DEFAULT_LOCALE: Locale = 'ms';
 
 export const LOCALE_NAMES: Record<Locale, string> = {

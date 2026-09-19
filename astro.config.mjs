@@ -149,19 +149,14 @@ export default defineConfig({
   integrations: [
     mdx(),
     sitemap({
-      // Tamil (`ta`) is public (open-launch 2026-09-13): its pages are indexed,
-      // listed as URLs, and advertised as hreflang alternates (also in LOCALES in i18n.ts).
+      // Tamil (`ta`) open-launched 2026-09-13 and Japanese (`ja`) open-launched
+      // 2026-09-20: their pages are indexed, listed as URLs, and advertised as
+      // hreflang alternates (both are also in LOCALES in i18n.ts). No locale is
+      // soft-launched at present, so no sitemap exclusion filter is needed; add one
+      // back (as ja had) when landing a future locale's corpus before open launch.
       i18n: {
         defaultLocale: 'ms',
-        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta' },
-      },
-      // Soft-launched locales — routes exist but the locale is NOT yet in LOCALES
-      // (i18n.ts), so its pages are `noindex` and must also be kept OUT of the
-      // sitemap until open launch. `ja` is soft-launched (Japanese corpus landing);
-      // drop this filter + add `ja: 'ja'` to the i18n map above to go public.
-      filter: (page) => {
-        const p = page.replace(SITE, '');
-        return !(p === '/ja' || p === '/ja/' || p.startsWith('/ja/'));
+        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja' },
       },
       serialize(item) {
         const lastmod = lastmodFor(item.url);
