@@ -117,7 +117,7 @@ keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SB
 
 マレーシアの稲作穀倉地帯の構成は次のとおりである。
 
-- **MADA**（ムダ農業開発庁、Lembaga Kemajuan Pertanian Muda）——ケダとプルリスに位置し、国内最大かつ最も生産性の高い稲作地域。
+- **MADA**（ムダ農業開発庁、Lembaga Kemajuan Pertanian Muda）——ケダとパーリスに位置し、国内最大かつ最も生産性の高い稲作地域。
 - **KADA**（クムブ農業開発庁、Lembaga Kemajuan Pertanian Kemubu）——クランタンに位置する。
 - 全国各地に複数の**IADA**（統合農業開発地域、Kawasan Pembangunan Pertanian Bersepadu）があり、セランゴール北西部（スキンチャンを含む）、ペラのケリアン・スンガイマニ（Kerian-Sungai Manik）、トレンガヌのKETARA、スバラン・ペラ（Seberang Perak）、さらにパハン、ペナン、サバ、サラワクの各地域が含まれる。
 
