@@ -70,7 +70,7 @@ Akta（法）は、**国会で可決され**、国王（Yang di-Pertuan Agong）
 | 用語 | 制定機関 | 例 |
 | --- | --- | --- |
 | **法（Akta）** | 連邦国会 | Companies Act 2016（Act 777） |
-| **条例（Enakmen）** | 州立法議会 | 各州独自の Enakmen |
+| **条例（Enakmen）** | 州議会 | 各州独自の Enakmen |
 | **規則／規程（Peraturan／Kaedah）** | Akta によって授権された大臣 | 母法（Akta）の下で定められる規則 |
 
 Peraturan（規則）は**下位法令**である——その母法（Akta）が付与した権限を超えることはできない。

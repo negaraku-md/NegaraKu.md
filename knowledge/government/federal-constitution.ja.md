@@ -71,7 +71,7 @@ related: ["parliament", "majlis-raja-raja", "federal-state-division"]
 keywords: ["Perlembagaan Persekutuan", "Federal Constitution Malaysia", "undang-undang tertinggi", "Perkara 4 Perlembagaan", "Perkara 159 pindaan", "ketertinggian perlembagaan", "Bahagian Perlembagaan Persekutuan", "prosedur pindaan perlembagaan"]
 ---
 
-マレーシアで可決されるあらゆる法律——連邦国会によるものであれ、州立法議会（Dewan Undangan Negeri）によるものであれ——は、一つの単一の文書を基準として測ることができる。その法律がこの文書に抵触する場合、その法律は抵触する限度において無効とみなされうる。その文書こそが連邦憲法（Perlembagaan Persekutuan）である。
+マレーシアで可決されるあらゆる法律——連邦国会によるものであれ、州議会（Dewan Undangan Negeri）によるものであれ——は、一つの単一の文書を基準として測ることができる。その法律がこの文書に抵触する場合、その法律は抵触する限度において無効とみなされうる。その文書こそが連邦憲法（Perlembagaan Persekutuan）である。
 
 本稿は三つの事柄を記述的に説明する。憲法が自らを「最高」と称するとき何を意味するのか、その文本がどのように編成されているのか、そしてそれを改正するために定められた手続である。
 
