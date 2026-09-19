@@ -70,7 +70,7 @@ related: ["lhdn", "individual-tax-residence", "which-tax-form", "personal-tax-ra
 keywords: ["Malaysia personal income tax", "LHDN e-Filing", "MyTax registration", "who must file tax Malaysia", "tax residency Malaysia individual", "e-Daftar TIN", "Form BE deadline", "182 day rule Malaysia tax"]
 ---
 
-ある新入社員が2年間のEmployment Pass（就業パス）でクアラルンプールに移り住み、そのパス自体が自分の税務上の身分を決めると思い込む。シンガポールで8か月働いたマレーシア人は、いずれにせよ国籍のおかげで自分は内国歳入庁（Lembaga Hasil Dalam Negeri、LHDN）のシステムの外にいられると思い込む。両者は同じ理由で間違っている——マレーシアの所得税は、あなたが誰か、あなたのパスに何と書いてあるかを問わない。数えるのは日数である。
+ある新入社員が2年間のEmployment Pass（エンプロイメントパス）でクアラルンプールに移り住み、そのパス自体が自分の税務上の身分を決めると思い込む。シンガポールで8か月働いたマレーシア人は、いずれにせよ国籍のおかげで自分は内国歳入庁（Lembaga Hasil Dalam Negeri、LHDN）のシステムの外にいられると思い込む。両者は同じ理由で間違っている——マレーシアの所得税は、あなたが誰か、あなたのパスに何と書いてあるかを問わない。数えるのは日数である。
 
 その日数——あなたのMyKadでも、ビザでも、職名でもない——こそ、マレーシアでの所得税の登録・申告・納付に関する何かが意味をなす前に、まず最初に片付けるべきことである。
 

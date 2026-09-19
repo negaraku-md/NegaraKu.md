@@ -81,8 +81,8 @@ keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", 
 | リード卿（Lord Reid、委員長） | 英国 | 常任上訴貴族（Lord of Appeal in Ordinary） |
 | アイヴァー・ジェニングス卿（Sir Ivor Jennings） | 英国 | 憲法学者；ケンブリッジ大学トリニティ・ホール学寮長 |
 | ウィリアム・マッケル卿（Sir William McKell） | オーストラリア | 前オーストラリア総督 |
-| B・マリク（B. Malik） | インド | アラハバード高等裁判所元首席判事 |
-| アブドゥル・ハミド判事（Justice Abdul Hamid） | パキスタン | 西パキスタン高等裁判所判事 |
+| B・マリク（B. Malik） | インド | アラハバード高等法院元首席判事 |
+| アブドゥル・ハミド判事（Justice Abdul Hamid） | パキスタン | 西パキスタン高等法院判事 |
 
 カナダもまた委員の指名を求められていた。その指名者は健康上の理由で辞退し、補充されなかったため、委員会は五人のまま据え置かれた。
 
