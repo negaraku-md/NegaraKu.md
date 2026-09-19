@@ -1,6 +1,6 @@
 ---
 topicId: MY-CO-0005
-title: "マレーシアの政府系企業と政府系投資会社（GLC・GLIC）"
+title: "マレーシアの政府関連企業と政府系投資会社（GLC・GLIC）"
 seoTitle: "マレーシアのGLCとGLIC：Khazanah、KWSP、PNB、KWAP、LTAT、Tabung Haji"
 slug: "glcs-and-glics-in-malaysia"
 category: "companies"
@@ -12,7 +12,7 @@ mode: "narrative"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "GLC（政府系企業）とは、商業を主目的とし、連邦政府が直接的な支配的持分を有する企業であり、通常はGLIC（政府系投資会社）を通じて支配される。六大母体GLIC——Khazanah、KWSP、PNB、KWAP、LTAT、Tabung Haji——は合計でRM1兆8,000億を超える資金を運用し、経済全体とBursa Malaysiaにわたって大きな株式を保有している。この構造は、GLC変革プログラム（2004年～2015年）、PERKUKUH（2021年）、GEAR-uP（2024年）という三波の主要な改革を経てきた。"
+answer: "GLC（政府関連企業）とは、商業を主目的とし、連邦政府が直接的な支配的持分を有する企業であり、通常はGLIC（政府系投資会社）を通じて支配される。六大母体GLIC——Khazanah、KWSP、PNB、KWAP、LTAT、Tabung Haji——は合計でRM1兆8,000億を超える資金を運用し、経済全体とBursa Malaysiaにわたって大きな株式を保有している。この構造は、GLC変革プログラム（2004年～2015年）、PERKUKUH（2021年）、GEAR-uP（2024年）という三波の主要な改革を経てきた。"
 keyTakeaways:
   - "GLCは、政府が直接的な支配的持分を有する商業目的の企業と定義される。GLICは、GLCへ資金を注入する政府系投資会社である。"
   - "今日の六大母体GLICはKhazanah、KWSP、PNB、KWAP、LTAT、Tabung Hajiであり、合計資産はRM1兆8,000億を超える——財務省によれば、これはマレーシアの名目GDPとほぼ同規模である。"
@@ -96,7 +96,7 @@ Bursa Malaysiaのインデックスファンドのポートフォリオを開い
 
 **GLIC（Government-Linked Investment Company／政府系投資会社）** は*所有者*にあたる機関である。布城GLCハイパフォーマンス委員会（Putrajaya Committee on GLC High Performance、PCG）の公式な定義によれば、GLICとは「その資金の一部又は全部をGLCへの投資に配分する、連邦政府関連の投資会社」である。GLICは、退職貯蓄、国家信託基金、軍人基金といった資金を保有し、それを株式や資産に注ぎ込む。
 
-**GLC（Government-Linked Company／政府系企業）** は*運営*会社である。PCGはこれを「商業を主たる目的とし、マレーシア政府が直接的な支配的持分を有する会社」と定義している。これには銀行、航空会社、郵便会社、公益事業会社などが含まれる。
+**GLC（Government-Linked Company／政府関連企業）** は*運営*会社である。PCGはこれを「商業を主たる目的とし、マレーシア政府が直接的な支配的持分を有する会社」と定義している。これには銀行、航空会社、郵便会社、公益事業会社などが含まれる。
 
 両者の違いはこう要約できる。**GLICが所有し、GLCが運営する。** Khazanahのようなグループは、自ら航空機を飛ばしたり発電したりするわけではない——それを行う会社の株式を保有しているのである。
 

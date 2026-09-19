@@ -155,4 +155,4 @@ KWSPの国内での存在感は、単に参加しているだけでなく実質�
 - KWSPがしばしば比較される他の政府系投資会社：[Khazanah Nasional](/ja/economy/khazanah)及び[Permodalan Nasional Berhad（PNB）](/ja/economy/pnb)
 - KWSPの株式保有が実際にどこで取引され、ベンチマーク指数がどのように構成されているか：[Bursa Malaysia](/ja/economy/bursa-malaysia)
 - KWSPがその債券市場の主要な保有者である中央銀行：[Bank Negara Malaysia](/ja/economy/bank-negara-malaysia)
-- KWSPがより広範な政府系企業（Government-Linked Company）の枠組みにどのように位置づけられるか：[GLC](/ja/glossary/glc)
+- KWSPがより広範な政府関連企業（Government-Linked Company）の枠組みにどのように位置づけられるか：[GLC](/ja/glossary/glc)
