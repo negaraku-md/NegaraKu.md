@@ -113,7 +113,7 @@ DBPはマレー語と文学において広範な使命を担っている。そ�
 
 DBPの公式デジタル参考辞典は**『Kamus Dewan Perdana』**であり、kamus.dbp.gov.myにて無料でオンライン利用できる。このポータルは、社会のあらゆる層が利用しやすい包括的なマレー語参考プラットフォームを提供するという、DBPのデジタル変革アジェンダの一環である。
 
-文学分野において、DBPは**[国家文学賞](/ja/arts-culture/malaysian-literature)（Anugerah Sastera Negara）**を主催しており、これはマレー語で執筆する作家にとって最高の栄誉である。この賞は1981年に始まり、Keris Mas（Dr. Kamaludin Muhammad）が最初の受賞者となった。受賞者には国家文学家（Sasterawan Negara）の称号が授与されるほか、現金賞金RM60,000、月額手当RM5,000、そして作品の出版・翻訳への支援など、さまざまな形の表彰が与えられる。2026年時点で16名がこの賞を受賞しており、Mana Sikana（Dr. Abdul Rahman Napiah）は2026年4月28日に第16代の受賞者として発表された。
+文学分野において、DBPは**[国家文学賞](/arts-culture/malaysian-literature)（Anugerah Sastera Negara）**を主催しており、これはマレー語で執筆する作家にとって最高の栄誉である。この賞は1981年に始まり、Keris Mas（Dr. Kamaludin Muhammad）が最初の受賞者となった。受賞者には国家文学家（Sasterawan Negara）の称号が授与されるほか、現金賞金RM60,000、月額手当RM5,000、そして作品の出版・翻訳への支援など、さまざまな形の表彰が与えられる。2026年時点で16名がこの賞を受賞しており、Mana Sikana（Dr. Abdul Rahman Napiah）は2026年4月28日に第16代の受賞者として発表された。
 
 ## 次のステップ
 

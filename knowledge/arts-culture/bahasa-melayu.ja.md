@@ -96,7 +96,7 @@ keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Keb
 
 トレンガヌ州クアラ・ブランで、マレー語の言葉が刻まれた一枚の石碑が発見された——今日わたしたちが見慣れている文字ではなく、マレー語の音に合わせて調整されたアラビア文字によってである。マレーシア国家公文書館（Arkib Negara Malaysia）によれば、この碑文の年代は西暦1303年である。
 
-このトレンガヌ碑文石（Batu Bersurat Terengganu）は、UNESCOによれば、東南アジアのマレー・イスラム世界における[ジャウィ文字](/ja/arts-culture/jawi-script)の最古の証拠であり、2009年にUNESCO世界の記憶（Memory of the World）に登録された。今日マレーシアの国語となっている言語が、七百年以上前にすでに書かれ、読まれ、統治の実務に用いられていたことを示す一つの証しである。
+このトレンガヌ碑文石（Batu Bersurat Terengganu）は、UNESCOによれば、東南アジアのマレー・イスラム世界における[ジャウィ文字](/arts-culture/jawi-script)の最古の証拠であり、2009年にUNESCO世界の記憶（Memory of the World）に登録された。今日マレーシアの国語となっている言語が、七百年以上前にすでに書かれ、読まれ、統治の実務に用いられていたことを示す一つの証しである。
 
 本稿では、密接に関連する二つの事柄を説明する。マレー語が憲法および法律上どのような地位にあるか、そしてその文字がジャウィからローマ字へどのように変化したか、である。いずれも記述的に——何が定められ、誰によって、いつ定められたかを——説明する。
 
@@ -138,13 +138,13 @@ keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Keb
 
 ## ジャウィ文字からローマ字へ——年表
 
-ジャウィ文字——マレー語の音に合わせて調整されたアラビア文字——は、西暦1303年のトレンガヌ碑文石が示すとおり、何世紀にもわたりマレー語の主要な文字であった。それはヌサンタラ（マレー諸島）におけるイスラームの伝播とともに発展し、[マラッカ王国](/ja/malaysia/melaka-sultanate)の時代を含め、マレーの王宮における行政、書簡および宗教の文字となった。
+ジャウィ文字——マレー語の音に合わせて調整されたアラビア文字——は、西暦1303年のトレンガヌ碑文石が示すとおり、何世紀にもわたりマレー語の主要な文字であった。それはヌサンタラ（マレー諸島）におけるイスラームの伝播とともに発展し、[マラッカ王国](/malaysia/melaka-sultanate)の時代を含め、マレーの王宮における行政、書簡および宗教の文字となった。
 
 ローマ字——ラテン文字——は、植民地時代にマレー語のために広く用いられるようになり、その間にさまざまなローマ字綴り字体系が編まれた。20世紀半ばまでに、ローマ字綴りの統一はマレー語運動の関心の的となった。
 
-**1956年** — [国語・文学局](/ja/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka、DBP）は、当初 Balai Pustaka という名称で、独立を目前にした国の国語および公用語としてマレー語を発展させるため、1956年6月22日にジョホールバルで設立された。1956年9月16日から21日までシンガポールとジョホールバルで開催された第3回マレー語文学会議（Kongres Bahasa dan Persuratan Melayu Ketiga）を受けて、その名称は Dewan Bahasa dan Pustaka に改められた。
+**1956年** — [国語・文学局](/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka、DBP）は、当初 Balai Pustaka という名称で、独立を目前にした国の国語および公用語としてマレー語を発展させるため、1956年6月22日にジョホールバルで設立された。1956年9月16日から21日までシンガポールとジョホールバルで開催された第3回マレー語文学会議（Kongres Bahasa dan Persuratan Melayu Ketiga）を受けて、その名称は Dewan Bahasa dan Pustaka に改められた。
 
-**1957年** — マラヤ連邦が[独立](/ja/malaysia/independence-1957)を達成した際、マレーシア国家公文書館の記録によれば、国語としてのマレー語の地位は連邦憲法第152条に明記された。
+**1957年** — マラヤ連邦が[独立](/malaysia/independence-1957)を達成した際、マレーシア国家公文書館の記録によれば、国語としてのマレー語の地位は連邦憲法第152条に明記された。
 
 **1959年** — DBPは、1959年国語・文学局条例（Ordinan Dewan Bahasa dan Pustaka 1959、現在の1959年国語・文学局法、Akta 213）により法定機関に昇格し、言語および文学の育成・発展に関する事業を編成する権限を付与された。
 
@@ -164,7 +164,7 @@ keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Keb
 
 ## 次に読むべきもの
 
-より広い枠組みを理解するには、[連邦憲法](/ja/law/federal-constitution)が第152条の位置づけられる文書全体の構成を説明している。マレー語および関連制度の歴史的背景については[マラッカ王国](/ja/malaysia/melaka-sultanate)を、国家形成の文脈については[メルデカ1957](/ja/malaysia/independence-1957)を参照されたい。
+より広い枠組みを理解するには、[連邦憲法](/law/federal-constitution)が第152条の位置づけられる文書全体の構成を説明している。マレー語および関連制度の歴史的背景については[マラッカ王国](/malaysia/melaka-sultanate)を、国家形成の文脈については[メルデカ1957](/malaysia/independence-1957)を参照されたい。
 
 ---
 

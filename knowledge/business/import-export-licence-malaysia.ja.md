@@ -157,7 +157,7 @@ keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit
 
 これらは保証ではなく、計画上のバッファーとして扱うこと。複雑な申請や初回の申請はより長くかかり、試験に多くを要する分野（特に電気製品）が通常のボトルネックとなる。
 
-**輸出**については、大半の貨物は輸出許可なしにK2申告のみで出て行くが、規制対象の輸出には依然として許可が必要であり——また輸出業者はしばしば許可ではなく貿易書類を必要とする。**マレーシア対外貿易開発公社（[MATRADE](/ja/government/matrade)）**は、**原産地証明書（Certificate of Origin）**や**自由販売証明書（Certificate of Free Sale）**（後者は申請者がMATRADEの登録会員であることを要する）といった円滑化のための書類を発行しており、買主及び外国の税関当局がしばしばこれらを求める。戦略物資は2010年戦略貿易法（Strategic Trade Act 2010）の下で別途規制されており、MITIの戦略貿易管理官（Strategic Trade Controller）の許可を要する。
+**輸出**については、大半の貨物は輸出許可なしにK2申告のみで出て行くが、規制対象の輸出には依然として許可が必要であり——また輸出業者はしばしば許可ではなく貿易書類を必要とする。**マレーシア対外貿易開発公社（[MATRADE](/government/matrade)）**は、**原産地証明書（Certificate of Origin）**や**自由販売証明書（Certificate of Free Sale）**（後者は申請者がMATRADEの登録会員であることを要する）といった円滑化のための書類を発行しており、買主及び外国の税関当局がしばしばこれらを求める。戦略物資は2010年戦略貿易法（Strategic Trade Act 2010）の下で別途規制されており、MITIの戦略貿易管理官（Strategic Trade Controller）の許可を要する。
 
 ## 次に何をすべきか
 

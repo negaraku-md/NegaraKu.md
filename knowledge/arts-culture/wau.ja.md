@@ -109,7 +109,7 @@ keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Ad
 
 ## 図案の名前、州の名前
 
-ワウの図案は、木彫りや織物と同じマレーの装飾語彙に由来する——マレーシア手工芸開発公社（Kraftangan Malaysia）の記録によれば、awan larat、lada hitam、ketam guri、daun kacang、daun jarak、daun kangkung、daun jawaなどである。[バティック（batik）](/ja/arts-culture/batik)を見たことがある人なら、そのデザインの論理に見覚えがあるだろう：人物像ではなく、花と葉である。
+ワウの図案は、木彫りや織物と同じマレーの装飾語彙に由来する——マレーシア手工芸開発公社（Kraftangan Malaysia）の記録によれば、awan larat、lada hitam、ketam guri、daun kacang、daun jarak、daun kangkung、daun jawaなどである。[バティック（batik）](/arts-culture/batik)を見たことがある人なら、そのデザインの論理に見覚えがあるだろう：人物像ではなく、花と葉である。
 
 種類は、たいてい州の名前を冠している：
 
@@ -121,15 +121,15 @@ JKKN文化地図（Peta Budaya JKKN）はまた、ワウがジョホール州、
 
 ## なぜWau Bulanが勝ち残ったのか
 
-Wau Bulanは、数ある種類の中の単なる一つではない。[国家安全保障会議](/ja/government/national-security-council-mkn)（Majlis Keselamatan Negara、MKN）のポータルは、これを最も人気のある種類として、大きなサイズと三日月に似た形を持つと説明している——そして、この二つの特徴こそがすべてを物語っている。
+Wau Bulanは、数ある種類の中の単なる一つではない。[国家安全保障会議](/government/national-security-council-mkn)（Majlis Keselamatan Negara、MKN）のポータルは、これを最も人気のある種類として、大きなサイズと三日月に似た形を持つと説明している——そして、この二つの特徴こそがすべてを物語っている。
 
 その三日月形は、一本の線にまで単純化されても、すぐにそれと分かる。それは絵として機能する前に、象徴として機能する。マレーシア航空自身の刊行物『Going Places』は、この国営航空会社のロゴがwau bulanに着想を得たものであると述べている。
 
 この結びつきは、単なる図案上のものではない。マレーシア手工芸開発公社（Kraftangan Malaysia）の記録によれば、マレーシア航空はEncik Shafieをブランド大使に任命し、オーストラリア、ドイツ、モルディブ、日本での彼のワウ実演を後援した。一方Pak Nonへの注文は、パーリス州のアラウ王宮（Istana Arau）やマレーシア航空から寄せられたこともあるという。
 
-[クランタン州](/ja/states/kelantan)では、ワウは地域社会と密接に結びついた伝統遊戯であり続けており、MKNの記録によれば、東海岸では今なお普及活動や競技会が続けられている。JKKNはその目標を率直に述べている：ワウの遊び方と制作工程は、クランタン州の継続的なアイデンティティとなるよう保存されなければならない。
+[クランタン州](/states/kelantan)では、ワウは地域社会と密接に結びついた伝統遊戯であり続けており、MKNの記録によれば、東海岸では今なお普及活動や競技会が続けられている。JKKNはその目標を率直に述べている：ワウの遊び方と制作工程は、クランタン州の継続的なアイデンティティとなるよう保存されなければならない。
 
-その規模は今や、田んぼをはるかに超えている。[ジョホール州](/ja/states/johor)では、2026年2月7日に開催された第28回パシール・グダン世界凧祭り（Festival Layang-Layang Sedunia Pasir Gudang）が、『Most Countries Participating in a Wau Flying Event』の達成についてMalaysia Book of Recordsの認定証を授与された。
+その規模は今や、田んぼをはるかに超えている。[ジョホール州](/states/johor)では、2026年2月7日に開催された第28回パシール・グダン世界凧祭り（Festival Layang-Layang Sedunia Pasir Gudang）が、『Most Countries Participating in a Wau Flying Event』の達成についてMalaysia Book of Recordsの認定証を授与された。
 
 ## よくある誤解
 
@@ -142,4 +142,4 @@ Wau Bulanは、数ある種類の中の単なる一つではない。[国家安�
 
 ## 次に読むべきもの
 
-同じ図案語彙を共有する東海岸の工芸については、[バティック](/ja/arts-culture/batik)を読んでほしい。はるかに重い保存の課題に直面しているクランタン州の舞台芸術については、[ワヤン・クリット（wayang kulit）](/ja/arts-culture/wayang-kulit)を読んでほしい。両者の背景にある州の文脈については、[クランタン州](/ja/states/kelantan)から読み始めるとよい。
+同じ図案語彙を共有する東海岸の工芸については、[バティック](/arts-culture/batik)を読んでほしい。はるかに重い保存の課題に直面しているクランタン州の舞台芸術については、[ワヤン・クリット（wayang kulit）](/arts-culture/wayang-kulit)を読んでほしい。両者の背景にある州の文脈については、[クランタン州](/states/kelantan)から読み始めるとよい。

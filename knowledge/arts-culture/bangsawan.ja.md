@@ -163,8 +163,8 @@ keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi I
 
 ## 次に読む
 
-- [mak yong（マッ・ヨン）](/ja/arts-culture/mak-yong) を読み、バンサワンをより古く儀礼を基盤とするクランタンの宮廷舞踊劇と比較する。
-- [wayang kulit（ワヤン・クリ）](/ja/arts-culture/wayang-kulit) を見て、東海岸を中心とするもう一つの伝統的なマレー劇場の形式を知る。
+- [mak yong（マッ・ヨン）](/arts-culture/mak-yong) を読み、バンサワンをより古く儀礼を基盤とするクランタンの宮廷舞踊劇と比較する。
+- [wayang kulit（ワヤン・クリ）](/arts-culture/wayang-kulit) を見て、東海岸を中心とするもう一つの伝統的なマレー劇場の形式を知る。
 - バンサワンの上演構成、劇団、劇場についてさらに詳しく知るには、JKKN の文化マッピング記録および BiblioAsia のアーカイブを参照のこと。
 
 ---

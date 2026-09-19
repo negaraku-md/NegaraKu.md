@@ -138,6 +138,6 @@ keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "ru
 
 ## 次のステップ
 
-- この年に一度の大移動の背景については、[帰省（balik kampung）](/ja/glossary/balik-kampung)と[村（kampung）](/ja/glossary/kampung)を参照のこと。
-- 公共祝日の位置づけと祝日に関する規定については、[マレーシアの公共祝日](/ja/employment/public-holidays-malaysia)を参照のこと。
-- マレーシアの宗教人口統計の背景については、[宗教別人口](/ja/malaysia/religion-statistics)を参照のこと。
+- この年に一度の大移動の背景については、[帰省（balik kampung）](/glossary/balik-kampung)と[村（kampung）](/glossary/kampung)を参照のこと。
+- 公共祝日の位置づけと祝日に関する規定については、[マレーシアの公共祝日](/employment/public-holidays-malaysia)を参照のこと。
+- マレーシアの宗教人口統計の背景については、[宗教別人口](/malaysia/religion-statistics)を参照のこと。

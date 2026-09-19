@@ -133,4 +133,4 @@ Khazanahは通常の政府機関ではなく、かといって単なる民間フ
 
 - ポートフォリオの詳細と監査済みの完全な財務諸表については、Khazanah公式サイトの年次*The Khazanah Report*を参照すること。
 - 上場企業（例えばCIMB、Telekom Malaysia、Axiata）における最新の持株状況を把握するには、Bursa Malaysiaの主要株主に関する公告を確認すること。持株比率は時間とともに変動するためである。
-- より広い文脈については、[Bursa Malaysia](/ja/bursa-malaysia)と政府関連企業のエコシステムについてさらに読むこと。
+- より広い文脈については、[Bursa Malaysia](/bursa-malaysia)と政府関連企業のエコシステムについてさらに読むこと。

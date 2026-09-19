@@ -78,7 +78,7 @@ related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 ---
 
-[キャメロンハイランド](/ja/tourism/cameron-highlands-visitor-guide)（Cameron Highlands）の野菜農家は最高の作物を育てることができても、
+[キャメロンハイランド](/tourism/cameron-highlands-visitor-guide)（Cameron Highlands）の野菜農家は最高の作物を育てることができても、
 農場で受け取る価格は、都市部の屋台での価格とはしばしば大きくかけ離れている。
 その差——農場から食卓までの間にあるギャップ——こそが、名前が語られることは
 少ないが、その成果には誰もが頻繁に触れている、ある法定機関の仕事なのである。

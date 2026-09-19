@@ -117,7 +117,7 @@ SSMはあなたの会社を登記する。出資比率条件も、最低実払�
 | **MITI** — Ministry of Investment, Trade and Industry | 省；**2023年4月**にInternational Trade and Industryから改称 | 1975年産業調整法（Industrial Coordination Act 1975）のもとでの**製造ライセンス**は、大臣の法律文書である |
 | **MIDA**——マレーシア投資開発庁 | MITIの投資誘致機関 | 製造ライセンス及び免除申請を受理・評価・執行；税務奨励措置の評価；業種別投資冊子の出版 |
 | **MDEC**——マレーシアデジタル経済公社 | **デジタル省**（2023年12月12日設立）の傘下 | Malaysia Digital認定、MD Tax Incentiveガイドライン、DE Rantau；**ICT**分野の外国人審査機関 |
-| **KPDN**——[国内貿易・生活費省](/ja/government/ministry-of-domestic-trade-kpdn) | 省 | Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysiaのもとでの**流通取引**における外資参加；直販及びフランチャイズの規制 |
+| **KPDN**——[国内貿易・生活費省](/government/ministry-of-domestic-trade-kpdn) | 省 | Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysiaのもとでの**流通取引**における外資参加；直販及びフランチャイズの規制 |
 | **ESD**——移民局外国人サービス部門 | 内務省の傘下 | 外国人雇用のための会社登録、Employment Pass、Professional Visit Pass、Dependant Pass、LTSVP |
 | **MyIPO**——マレーシア知的財産公社 | MITIの傘下 | 商標、特許、意匠、著作権任意通知 |
 | **IRDA**——イスカンダル地域開発庁 | 回廊管理局 | XPATNOVAを通じた、イスカンダル・マレーシアの郵便区内における外国人パスの審査機関 |

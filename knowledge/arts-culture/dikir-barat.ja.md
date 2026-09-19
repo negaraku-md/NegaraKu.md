@@ -115,9 +115,9 @@ keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", 
 
 ## 次に読む
 
-- [クランタン](/ja/states/kelantan)を読み、ディキール・バラットが根づいた州の背景を知る。
-- [マッ・ヨン](/ja/arts-culture/mak-yong)や[ワヤン・クリット](/ja/arts-culture/wayang-kulit)と比較する――クランタンを中心とする、他の二つの伝統演劇形式である。
-- [ワウ（wau）](/ja/arts-culture/wau)を見て、歌唱パフォーマンスではなく伝統的な遊戯の形をとったクランタン文化遺産の例を知る。
+- [クランタン](/states/kelantan)を読み、ディキール・バラットが根づいた州の背景を知る。
+- [マッ・ヨン](/arts-culture/mak-yong)や[ワヤン・クリット](/arts-culture/wayang-kulit)と比較する――クランタンを中心とする、他の二つの伝統演劇形式である。
+- [ワウ（wau）](/arts-culture/wau)を見て、歌唱パフォーマンスではなく伝統的な遊戯の形をとったクランタン文化遺産の例を知る。
 
 ---
 

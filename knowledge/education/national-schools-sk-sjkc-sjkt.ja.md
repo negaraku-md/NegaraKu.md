@@ -116,7 +116,7 @@ SKの児童は、主要な教授言語としてマレー語を用いる国民中
 
 ## 次に読むべき記事
 
-マレーシアの教育制度を就学前教育から大学まで概観するには、[マレーシアの教育制度](/ja/education/malaysian-education-system)を参照。idMeシステムでの小学1年生登録の手順については、[政府学校への子どもの登録方法](/ja/education/enrolling-in-a-government-school)を参照。中等教育段階における政府学校・私立学校・華文独立中学校の違いについては、[私立学校と華文独立中学校](/ja/education/private-and-chinese-independent-schools)を参照。マレー語が国語として位置づけられている背景については、[マレー語（Bahasa Melayu）](/ja/arts-culture/bahasa-melayu)を参照。
+マレーシアの教育制度を就学前教育から大学まで概観するには、[マレーシアの教育制度](/education/malaysian-education-system)を参照。idMeシステムでの小学1年生登録の手順については、[政府学校への子どもの登録方法](/education/enrolling-in-a-government-school)を参照。中等教育段階における政府学校・私立学校・華文独立中学校の違いについては、[私立学校と華文独立中学校](/education/private-and-chinese-independent-schools)を参照。マレー語が国語として位置づけられている背景については、[マレー語（Bahasa Melayu）](/arts-culture/bahasa-melayu)を参照。
 
 ---
 

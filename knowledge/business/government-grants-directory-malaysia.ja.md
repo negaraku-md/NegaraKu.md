@@ -89,7 +89,7 @@ keywords: ["government grants malaysia", "SME grant malaysia", "startup grant ma
 |---|---|---|
 | **真正の助成金／マッチング助成金** | 返済不要。マッチング助成金は、残りをあなたが自己資金でまかなう場合に一定の割合を負担する | MDEC MDCG、MSME Digital Grant MADANI、MRANTI SRF |
 | **条件付き／クローバック助成金** | 条件を満たせなかった場合に回収され得る助成金 | Cradle CIP Spark、CIP Sprint |
-| **払い戻し** | まず自分で支出し、その後一部を請求して取り戻す | HRD Corp 研修助成金、[MATRADE](/ja/government/matrade) MDG |
+| **払い戻し** | まず自分で支出し、その後一部を請求して取り戻す | HRD Corp 研修助成金、[MATRADE](/government/matrade) MDG |
 | **個別協議によるインセンティブ** | 直接的な助成金ではなく、交渉によって取り決められる支援 | MIDA DISF |
 | **融資／債務** | 返済を要する資金調達 | Malaysia Debt Ventures |
 | **エクイティ** | 政府が株式を取得する | MTDC Business Growth Fund、Penjana Kapital |
@@ -134,7 +134,7 @@ Cradleはまた、全国スタートアップ・プラットフォームであ�
 二つのチャネルは、広く「助成金」と誤ってラベル付けされている。
 
 - **Malaysia Debt Ventures（MDV）**は、ICT、グリーンテック及びバイオテック向けに**融資（ローン及び保証）**を提供する——これは返済を要するものであり、助成金ではない。
-- **Penjana Kapital**及び**Khazanah**傘下のファンドは**エクイティ（株式出資）**である（ファンド・オブ・ファンズ及び直接投資）。これらは[ベンチャーキャピタルとプライベートエクイティ](/ja/finance/venture-capital-private-equity-malaysia)に属する——併せてそちらのガイドを参照してほしい。
+- **Penjana Kapital**及び**Khazanah**傘下のファンドは**エクイティ（株式出資）**である（ファンド・オブ・ファンズ及び直接投資）。これらは[ベンチャーキャピタルとプライベートエクイティ](/finance/venture-capital-private-equity-malaysia)に属する——併せてそちらのガイドを参照してほしい。
 
 ## 申請は通常どのように進むか
 

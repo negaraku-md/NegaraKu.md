@@ -160,6 +160,6 @@ keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "
 ## What's next
 
 - 公式の規制構造、強制上映スキーム（Skim Wajib Tayang）、最新の興行収入データについては、FINASのウェブサイトおよび1981年マレーシア国立映画開発公社法を参照のこと。
-- 国内の主流映画の大半の核となる言語を理解するには、[マレー語](/ja/arts-culture/bahasa-melayu)を読むこと。
-- スクリーン上のマレー的な物語の想像力を形作ってきた伝統的な舞台芸術の一例として、[マッ・ヨン](/ja/arts-culture/mak-yong)を参照のこと。
+- 国内の主流映画の大半の核となる言語を理解するには、[マレー語](/arts-culture/bahasa-melayu)を読むこと。
+- スクリーン上のマレー的な物語の想像力を形作ってきた伝統的な舞台芸術の一例として、[マッ・ヨン](/arts-culture/mak-yong)を参照のこと。
 - マレーシアの独立映画が今後どこへ向かうのかを理解するには、アマンダ・ネル・エウやタン・チュイムイといった映画製作者のキャリアを追うこと。

@@ -154,7 +154,7 @@ keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakult
 管理し、信用供与や奨励金を提供し、暴風やモンスーンが収入を奪った
 ときには自然災害救済制度や漁民福祉といった支援を実施する。
 
-**[マレーシア海事法令執行庁](/ja/public-safety/maritime-enforcement-agency-mmea)（Agensi Penguatkuasaan Maritim Malaysia、
+**[マレーシア海事法令執行庁](/public-safety/maritime-enforcement-agency-mmea)（Agensi Penguatkuasaan Maritim Malaysia、
 MMEA）**は海上における執行機関である。外国漁船が侵入した場合や
 地元漁民が区画規則に違反した場合、これを迎撃し、拿捕し、起訴に
 持ち込むのはMMEAである。この3つの機関の役割は重なり合っている——

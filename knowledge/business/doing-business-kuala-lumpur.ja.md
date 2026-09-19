@@ -219,7 +219,7 @@ RM5,000を支払うのに対し、隣の100m²の小売店はRM300しか支払�
 30パーセントおよびそれに類する割合の規則は、他の議会に属するものである。Seberang
 Perai自身の広告細則は、マレー語を*より大きく*することを実際に義務づけている——
 そのため、同じ看板デザインがKLでは適合し、海峡の向こうのペナンでは不適合となる
-ことがあり得る。その仕組みと[国語・文学局（Dewan Bahasa dan Pustaka、DBP）](/ja/arts-culture/dewan-bahasa-dan-pustaka)
+ことがあり得る。その仕組みと[国語・文学局（Dewan Bahasa dan Pustaka、DBP）](/arts-culture/dewan-bahasa-dan-pustaka)
 の審査ステップについては、看板免許ガイドで扱っている。
 
 ## 経済的論拠

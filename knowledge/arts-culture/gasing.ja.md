@@ -74,7 +74,7 @@ keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Mela
 | 勝敗の焦点 | 相手のガシンが停止する、あるいは軌道からそれる | ほかが止まったあとも自分のガシンが回転し続ける |
 | 競技の性質 | 直接対決——双方が同時に競う | 撃打ではなく、耐久力と安定性を試す競技 |
 
-[国家安全保障会議](/ja/government/national-security-council-mkn)（Majlis Keselamatan Negara、MKN）のポータルは、gasing pangkahの仕組みをより詳しく説明している。回転している相手のガシンの、鉄片が取り付けられた胴体上部を撃ち当てて遊ぶというものだ。この鉄片は装飾ではない——それは打撃を受け止め、伝える部分である。
+[国家安全保障会議](/government/national-security-council-mkn)（Majlis Keselamatan Negara、MKN）のポータルは、gasing pangkahの仕組みをより詳しく説明している。回転している相手のガシンの、鉄片が取り付けられた胴体上部を撃ち当てて遊ぶというものだ。この鉄片は装飾ではない——それは打撃を受け止め、伝える部分である。
 
 同じ情報源によれば、より長く持ちこたえるガシンを決める基準は三つある——速さ、バランス、そして力強さである。速くてもバランスを欠くガシンは、打撃を与える前に軌道からそれてしまう。一方、力強くても遅いガシンは、たやすくかわされてしまう。
 
@@ -106,4 +106,4 @@ keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Mela
 
 ## 次に読むべきもの
 
-ガシンとともに国家遺産として認定された、東海岸のほかの伝統遊戯の工芸については、[ワウ](/ja/arts-culture/wau)を読んでほしい。今日のgasing pangkah競技会の背景にある州の文脈については、[トレンガヌ州](/ja/states/terengganu)と[クランタン州](/ja/states/kelantan)から読み始めるとよい。
+ガシンとともに国家遺産として認定された、東海岸のほかの伝統遊戯の工芸については、[ワウ](/arts-culture/wau)を読んでほしい。今日のgasing pangkah競技会の背景にある州の文脈については、[トレンガヌ州](/states/terengganu)と[クランタン州](/states/kelantan)から読み始めるとよい。

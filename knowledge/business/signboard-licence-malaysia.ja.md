@@ -107,7 +107,7 @@ keywords:
   - "signboard licence fee DBKL"
 ---
 
-多くのガイドは、[国語・文学局](/ja/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka、DBP）が看板の用字を承認しなければならない都市はクアラルンプールだと、あたかもKL特有の癖であるかのように説明する。
+多くのガイドは、[国語・文学局](/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka、DBP）が看板の用字を承認しなければならない都市はクアラルンプールだと、あたかもKL特有の癖であるかのように説明する。
 
 それは違う。DBKL、MBPJ、MBSA、DBKKいずれもこれを求めており、それぞれが自ら公表した言葉でそう述べている。地方自治体の間で本当に異なるのは、DBPがあなたの看板を審査する*かどうか*ではなく——地方自治体がその後に重ねる**サイズ規定**である。そしてクアラルンプールのサイズ規定は、繰り返し語られているものとは違う。
 

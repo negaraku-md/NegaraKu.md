@@ -121,6 +121,6 @@ JKKN（Jabatan Kebudayaan dan Kesenian Negara、国家文化芸術局）の文�
 
 ## 次のステップ
 
-- [マッ・ヨン（mak yong）](/ja/arts-culture/mak-yong)を読んで、クランタンを中心とし、演技と rebab 音楽を組み合わせた、もう一つのマレー舞踊劇の形式について知る。
-- [ワヤン・クリット（wayang kulit）](/ja/arts-culture/wayang-kulit)を見て、もう一つのマレー伝統舞台芸術——皮革人形による影絵芝居——について知る。
-- [songket](/ja/arts-culture/songket)を参照し、マレー文化遺産の染織・工芸としての例——公式な場でジョゲットとザピンの踊り手がしばしば身につける——について知る。
+- [マッ・ヨン（mak yong）](/arts-culture/mak-yong)を読んで、クランタンを中心とし、演技と rebab 音楽を組み合わせた、もう一つのマレー舞踊劇の形式について知る。
+- [ワヤン・クリット（wayang kulit）](/arts-culture/wayang-kulit)を見て、もう一つのマレー伝統舞台芸術——皮革人形による影絵芝居——について知る。
+- [songket](/arts-culture/songket)を参照し、マレー文化遺産の染織・工芸としての例——公式な場でジョゲットとザピンの踊り手がしばしば身につける——について知る。

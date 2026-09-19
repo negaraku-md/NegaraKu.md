@@ -158,7 +158,7 @@ KWSPはまた、Khazanah Nasional及びPermodalan Nasional Berhad（PNB）とと
 
 ## 次に読むべきもの
 
-- KWSPが株式市場及び債券市場でどのように行動しているかを知るには、[投資家としてのKWSP](/ja/economy/epf-as-investor)を読むこと。
-- その使命を、他の二つの政府系ファンド——[Khazanah Nasional](/ja/economy/khazanah)及び[PNB](/ja/economy/pnb)——と比較すること。
-- KWSPが投資を行う市場を理解するには、[Bursa Malaysia](/ja/economy/bursa-malaysia)を参照すること。
+- KWSPが株式市場及び債券市場でどのように行動しているかを知るには、[投資家としてのKWSP](/economy/epf-as-investor)を読むこと。
+- その使命を、他の二つの政府系ファンド——[Khazanah Nasional](/economy/khazanah)及び[PNB](/economy/pnb)——と比較すること。
+- KWSPが投資を行う市場を理解するには、[Bursa Malaysia](/economy/bursa-malaysia)を参照すること。
 - 資産及び配当の数値は毎年更新されるため、完全な年次報告書及び最新の配当宣言についてはkwsp.gov.myのKWSP公式サイトを確認すること。

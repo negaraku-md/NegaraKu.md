@@ -115,9 +115,9 @@ JKKNの文化マッピング記録によれば、ジョゲ・ガムラン（joge
 
 ## 次に読むべきもの
 
-- この伝統を受け継いだ二つの宮廷の背景については、[パハン](/ja/states/pahang)と[トレンガヌ](/ja/states/terengganu)を参照。
-- 伝統音楽を伴う他のマレー舞踊については、[ジョゲとザピン](/ja/arts-culture/joget-and-zapin)を参照。
-- 文化遺産として認定されているもう一つの宮廷・伝統芸能である[マッ・ヨン](/ja/arts-culture/mak-yong)とも比較を。
+- この伝統を受け継いだ二つの宮廷の背景については、[パハン](/states/pahang)と[トレンガヌ](/states/terengganu)を参照。
+- 伝統音楽を伴う他のマレー舞踊については、[ジョゲとザピン](/arts-culture/joget-and-zapin)を参照。
+- 文化遺産として認定されているもう一つの宮廷・伝統芸能である[マッ・ヨン](/arts-culture/mak-yong)とも比較を。
 
 ---
 

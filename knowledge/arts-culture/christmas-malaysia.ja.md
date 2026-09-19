@@ -86,7 +86,7 @@ keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Ch
 
 その法的根拠は地域によって異なる。マレー半島では、公共の祝日は**1951年祝日法（Holidays Act 1951、Act 369）**のFirst Schedule（第一附表）に定められており、クリスマスもその一つに含まれる。サバ州とサラワク州は、連邦加入時に独自の祝日法を保持しており、それぞれ独自の法令のもとで公共の祝日を定めている。連邦政府もまた、毎年、首相府内閣室（Cabinet Office of the Prime Minister's Department）を通じて、全国統一の祝日一覧を発表している。
 
-実際上の結果は一様である：どの法的根拠によるかにかかわらず、12月25日は全国的に休業となる公共の祝日であり、それは[ハリラヤ・アイディルフィトリ](/ja/arts-culture/hari-raya-aidilfitri)（Hari Raya Aidilfitri）、[ディーパバリ](/ja/arts-culture/deepavali)（Deepavali）、ウェサック（Wesak）、旧正月（Chinese New Year）と同様である。
+実際上の結果は一様である：どの法的根拠によるかにかかわらず、12月25日は全国的に休業となる公共の祝日であり、それは[ハリラヤ・アイディルフィトリ](/arts-culture/hari-raya-aidilfitri)（Hari Raya Aidilfitri）、[ディーパバリ](/arts-culture/deepavali)（Deepavali）、ウェサック（Wesak）、旧正月（Chinese New Year）と同様である。
 
 ## 全国的ではない唯一の日：クリスマスイブ
 

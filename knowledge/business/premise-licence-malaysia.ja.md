@@ -170,7 +170,7 @@ Kuala Lumpur) 2016, P.U.(A) 230/2016**であり、2016年8月30日に官報告�
 - **細則38**——罰金最高RM2,000、禁錮最高一年、又はその両方、加えて一日ごとにRM200。
 
 申請は**eLesen DBKL**を通じて行われる。一般的な文書一式は短い：SSM登録書類、申請者の身分証明、該当
-する場合には[国語・文学局](/ja/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka、
+する場合には[国語・文学局](/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka、
 DBP）により認証されたカラー看板の図案と設置写真、そして外観及び内部の写真である。DBKLは、許可の有
 効期間が**動的**であり、必ずしも12月31日に終了するわけではないと明言している。
 
