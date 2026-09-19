@@ -137,7 +137,7 @@ Peraturan Pendaftaran Negara 1990）規則5(3)(c)に基づき、一時的居住�
 ## 永住資格を持たない外国人：JPNカードはない
 
 これは最も誤解されやすい部分である。エンプロイメントパス（Pas Penggajian）、
-専門（訪問）パス（Pas Lawatan Ikhtisas）、または[扶養家族パス](/ja/settling-in/dependant-social-visit-passes)
+専門（訪問）パス（Pas Lawatan Ikhtisas）、または[扶養家族パス](/settling-in/dependant-social-visit-passes)
 の保有者——いずれもJPNではなく移民局が発行する——は、いかなるJPN身分証明書も
 **保有しない**。マレーシアにおける彼らの身分証明文書は、出身国のパスポートに、
 移民局のパスまたは裏書が添えられたものにとどまる。これは、そのパスが何年にも
@@ -165,8 +165,8 @@ Peraturan Pendaftaran Negara 1990）規則5(3)(c)に基づき、一時的居住�
 ## 次のステップ
 
 この部門が扱うサービスの全範囲——出生から居住資格まで——については、[国民登録
-局（JPN）](/ja/government/jpn)を参照のこと。就労パス保有者の家族で、どのパスが
-扶養家族を対象とするか知りたい場合は、[扶養家族パスか長期社会訪問パスか](/ja/settling-in/dependant-social-visit-passes)
+局（JPN）](/government/jpn)を参照のこと。就労パス保有者の家族で、どのパスが
+扶養家族を対象とするか知りたい場合は、[扶養家族パスか長期社会訪問パスか](/settling-in/dependant-social-visit-passes)
 を参照のこと。そして、子どもの出生を登録したばかりの父母にとって、次の段階
-——MyKidの登録、その後のMyKad——は、[子どもの出生登録](/ja/settling-in/registering-a-birth)
+——MyKidの登録、その後のMyKad——は、[子どもの出生登録](/settling-in/registering-a-birth)
 で詳しく述べている。
