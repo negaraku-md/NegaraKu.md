@@ -11,7 +11,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "マレーシアのSIMカードは、本人確認書類——市民はMyKad、永住者はMyPR、外国人はパスポートの原本——に登録しなければ有効化できない。これはマレーシア通信マルチメディア委員会（MCMC）が執行する強制標準（Mandatory Standard）に基づくものである。プリペイドはクレジットを使う前に支払うことを意味し、ポストペイドは事後に請求し、通常はより長期の契約を必要とする。三つの全国ネットワーク事業者はCelcomDigi、Maxis、U Mobileである。"
+answer: "マレーシアのSIMカードは、本人確認書類——市民はMyKad、永住者はMyPR、外国人はパスポートの原本——に登録しなければ有効化できない。これはマレーシア通信・マルチメディア委員会（MCMC）が執行する強制標準（Mandatory Standard）に基づくものである。プリペイドはクレジットを使う前に支払うことを意味し、ポストペイドは事後に請求し、通常はより長期の契約を必要とする。三つの全国ネットワーク事業者はCelcomDigi、Maxis、U Mobileである。"
 keyTakeaways:
   - "登録は義務であり無料——MCMCの強制標準（Mandatory Standard）がCommunications and Multimedia Act 1998に基づいて登録を求めており、いかなる通信事業者や販売業者もこれを飛ばすことはできない"
   - "マレーシア市民、永住者、一時居住者は1社の通信事業者につき最大5枚のプリペイドSIMカードを持つことができる。非市民は1社につき2枚に制限される"
@@ -101,7 +101,7 @@ keywords: ["mobile sim malaysia", "prepaid sim registration malaysia", "MCMC sim
 
 ## 登録は必須——そして無料
 
-マレーシア通信マルチメディア委員会（MCMC）は、[Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) に基づく権限のもと、すべての
+マレーシア通信・マルチメディア委員会（MCMC）は、[Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) に基づく権限のもと、すべての
 プリペイドSIMを、有効化される前に有効な本人確認書類に登録することを求めている。登
 録に費用はかからない——そのために料金を支払うよう求める者は、誰であれ規則に従って
 いない。
