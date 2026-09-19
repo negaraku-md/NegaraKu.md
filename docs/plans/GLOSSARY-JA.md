@@ -70,6 +70,7 @@ short form after: e.g. `企業委員会（SSM）` … then `SSM`.
 - **Section / paragraph references stay abbreviated and inline** — `s.245(2)`, `s.68`, `para 5`, `First Schedule`. Do NOT convert to `第245条` / `第5項`; keep the `s.` form embedded directly in the Japanese sentence (matches the spec's never-translate list and the `.ja` pilot: companies-act-2016, digital-free-trade-zone).
 - **Statute titles:** Japanese descriptor + canonical English name/number in brackets, Japanese-comma separator — `2016年会社法（Companies Act 2016、Act 777）`. Standard/PD titles may use `『…』` for the work title.
 - **Practice Directive titles:** same pattern — `実務指針10/2024号（Practice Directive 10/2024、PD 10/2024）`, then `PD 10/2024` after first use. `Practice Directive N/YYYY` counts as a never-translate instrument name (like a gazette citation).
+- **Practice Note titles:** LOCKED to `実務通知N/YYYY号（Practice Note N/YYYY）`, then `Practice Note N/YYYY` after first use — NOT 実務ノート (corpus majority 実務通知; normalized 2026-09-19). Parallels 実務指針 for Practice Directive; 通知=Note, 指針=Directive.
 - **Money scale words** (bilion/juta/million/billion) → Japanese `億/万`, exact value preserved; digit-form figures (`RM500,000`, `10%`) unchanged.
 
 ## Recurring terms (accounting / company-law) — use consistently

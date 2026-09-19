@@ -192,8 +192,8 @@ Association）に代わるものであり、s.31のもとで株式有限会社�
 **MSIC**——マレーシア標準産業分類（Malaysia Standard Industrial Classification）
 であり、事業の性質として申告する、マレーシア統計局（DOSM）の活動コードである。
 
-**実務指針（Practice Directive）／実務ノート（Practice Note）**——SSMの拘束力
-ある行政文書である。実務指針は要件を定め、実務ノートは解釈を明確にする。監査免
+**実務指針（Practice Directive）／実務通知（Practice Note）**——SSMの拘束力
+ある行政文書である。実務指針は要件を定め、実務通知は解釈を明確にする。監査免
 除の基準のような運用上の規則は実際にはここに存在しており、それこそが、法令のみ
 を引用する記事が今なお古くなっている理由である。
 
