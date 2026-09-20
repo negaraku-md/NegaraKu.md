@@ -31,7 +31,7 @@ lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "9209ca0d039c5f34"
-status: "published"
+status: "in-review"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

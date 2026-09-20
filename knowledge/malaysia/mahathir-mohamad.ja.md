@@ -35,7 +35,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "2b8cc04016656090"
 
-status: "published"
+status: "in-review"
 aiAssisted: true
 reviewer: null
 published: 2026-08-27

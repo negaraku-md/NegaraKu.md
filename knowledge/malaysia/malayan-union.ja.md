@@ -23,7 +23,7 @@ lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "f8c770a08f5a6831"
-status: "published"
+status: "in-review"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
