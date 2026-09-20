@@ -115,7 +115,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "beb77b4436b7c05c"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

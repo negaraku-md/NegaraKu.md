@@ -124,7 +124,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "72d685f5d481d7fd"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

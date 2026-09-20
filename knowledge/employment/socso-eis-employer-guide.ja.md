@@ -66,7 +66,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "4bb7e4b6c1a91f37"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

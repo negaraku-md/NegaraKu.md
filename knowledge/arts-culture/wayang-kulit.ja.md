@@ -33,7 +33,7 @@ lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "d4cb6805f330e418"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 revision: 0

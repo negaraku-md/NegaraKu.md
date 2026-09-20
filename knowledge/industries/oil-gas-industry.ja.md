@@ -42,7 +42,7 @@ masterLanguage: "en"
 translationStatus: "pending"
 sourceContentHash: null
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -18,7 +18,7 @@ appliesTo: "マレーシアの工芸の伝統、錫鉱業の歴史、あるい�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

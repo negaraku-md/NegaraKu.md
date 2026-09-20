@@ -53,7 +53,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "0f48f4bee9e4e684"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

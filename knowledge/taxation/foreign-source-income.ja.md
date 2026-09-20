@@ -46,7 +46,7 @@ masterLanguage: "en"
 translationStatus: "pending"
 sourceContentHash: null
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

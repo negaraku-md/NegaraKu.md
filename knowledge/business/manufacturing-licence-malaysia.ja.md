@@ -49,7 +49,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "37caa4da5ba10819"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

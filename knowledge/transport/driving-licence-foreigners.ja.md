@@ -26,7 +26,7 @@ lang: "ja"
 sourceContentHash: null
 masterLanguage: "en"
 translationStatus: "pending"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

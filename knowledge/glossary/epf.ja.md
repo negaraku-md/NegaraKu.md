@@ -23,7 +23,7 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "c90387d901bf5d08"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

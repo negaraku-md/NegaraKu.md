@@ -32,7 +32,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "84024caa253d8b49"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

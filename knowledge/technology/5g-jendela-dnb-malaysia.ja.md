@@ -47,7 +47,7 @@ verificationNeeded:
   - "JENDELA フェーズ 2 の「JP2」RFP は The Edge により「3 月 31 日」に発出されたと報じられている。年が 2026 年であることを MCMC／通信省の情報源と照合して確認すること。"
   - "2021 年大臣指令第 3 号の発出日（2021 年 5 月 31 日）は SoyaCincau に基づく。官報または MCMC の記録と照合して確認すること。"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

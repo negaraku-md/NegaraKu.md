@@ -35,7 +35,7 @@ lang: "ja"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 sourceContentHash: "c773c2be8c4e6544"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -30,7 +30,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "8dc6ca7c0ae8183c"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

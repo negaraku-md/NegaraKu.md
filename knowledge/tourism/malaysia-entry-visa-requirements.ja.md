@@ -44,7 +44,7 @@ sourceContentHash: "cdbee74bde6667f6"
 verificationNeeded:
   - "入国に際してパスポートの空白ページが正式に必要とされるかどうか（引用元の MIDA 資料には記載なし）。"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

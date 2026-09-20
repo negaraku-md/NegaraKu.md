@@ -33,7 +33,7 @@ lang: "ja"
 masterLanguage: "ms"
 translationStatus: "pending"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
