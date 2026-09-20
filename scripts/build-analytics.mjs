@@ -22,6 +22,7 @@ import path from 'node:path';
 import {
   loadCumulative, queryTail, addRow, clonePages, cleanPages,
   loadArticleKeys, filterToArticles, OUT_FILE, CUMULATIVE_FILE, queryEngagement,
+  SERIES_OUT_FILE, queryDailyTotals, addDayRow,
 } from './lib/analytics-store.mjs';
 
 const ACCOUNT = process.env.CF_ACCOUNT_ID;
@@ -74,6 +75,21 @@ async function main() {
   await mkdir(path.dirname(OUT_FILE), { recursive: true });
   await writeFile(OUT_FILE, JSON.stringify(clean, null, 2) + '\n', 'utf8');
   console.log(`[analytics] wrote ${OUT_FILE} — ${Object.keys(clean).length} article(s) (all-time).`);
+
+  // Per-day trend series: committed snapshot + live tail's daily rows since the
+  // cursor (so a fresh deploy shows today). Separate file from the page map.
+  const series = JSON.parse(JSON.stringify(store.series || {}));
+  if (ACCOUNT && TOKEN) {
+    try {
+      const dayRows = await queryDailyTotals({ account: ACCOUNT, token: TOKEN, dataset: DATASET, afterCursor: store.cursor, upto: null });
+      for (const r of dayRows) addDayRow(series, r);
+    } catch (err) {
+      console.warn(`[analytics] daily series tail failed, serving committed series: ${err.message}`);
+    }
+  }
+  const sortedSeries = Object.fromEntries(Object.entries(series).sort(([a], [b]) => a.localeCompare(b)));
+  await writeFile(SERIES_OUT_FILE, JSON.stringify({ updatedAt: new Date().toISOString(), days: sortedSeries }, null, 2) + '\n', 'utf8');
+  console.log(`[analytics] wrote ${SERIES_OUT_FILE} — ${Object.keys(sortedSeries).length} day(s).`);
 
   // Serve the committed archive snapshots (Facebook / Search Console), written by
   // their own scheduled workflows into analytics/. Copy each into public/api/ so

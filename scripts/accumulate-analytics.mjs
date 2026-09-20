@@ -18,11 +18,23 @@
 import {
   loadCumulative, saveCumulative, queryTail, addRow, chDateTime,
   loadArticleKeys, filterToArticles,
+  queryDailyTotals, addDayRow, replaceDays,
 } from './lib/analytics-store.mjs';
 
 const ACCOUNT = process.env.CF_ACCOUNT_ID;
 const TOKEN = process.env.CF_API_TOKEN;
 const DATASET = process.env.CF_AE_DATASET || 'negaraku_analytics';
+// One-time backfill: recompute the per-day trend series over AE's ~90-day
+// retention window and REPLACE those days (idempotent). Run once at launch so
+// the trend charts have immediate history; normal runs then fold forward daily.
+const SEED_SERIES = process.argv.includes('--seed-series');
+
+// Build a fresh per-day series from daily AE rows (used by the seed backfill).
+function seriesFromRows(rows) {
+  const s = {};
+  for (const r of rows) addDayRow(s, r);
+  return s;
+}
 
 async function main() {
   if (!ACCOUNT || !TOKEN) {
@@ -30,15 +42,33 @@ async function main() {
     return;
   }
   const store = await loadCumulative();
+
+  if (SEED_SERIES) {
+    // Backfill the last 90 days of the daily series, replacing those day buckets.
+    const from = chDateTime(Date.now() - 90 * 24 * 60 * 60 * 1000);
+    const upto = chDateTime(Date.now() - 5 * 60 * 1000);
+    try {
+      const dayRows = await queryDailyTotals({ account: ACCOUNT, token: TOKEN, dataset: DATASET, afterCursor: from, upto });
+      replaceDays((store.series ||= {}), seriesFromRows(dayRows));
+      store.updatedAt = new Date().toISOString();
+      await saveCumulative(store);
+      console.log(`[accumulate] seeded daily series over last 90d — ${Object.keys(store.series).length} day(s) now stored.`);
+    } catch (err) {
+      console.warn(`[accumulate] series seed failed, snapshot unchanged: ${err.message}`);
+    }
+    return;
+  }
+
+  const fromCursor = store.cursor; // window start for BOTH the per-page and daily folds
   const upto = chDateTime(Date.now() - 5 * 60 * 1000); // now − 5 min (ingestion margin)
-  if (upto <= store.cursor) {
+  if (upto <= fromCursor) {
     console.log('[accumulate] cursor already current — nothing to fold.');
     return;
   }
 
   let rows;
   try {
-    rows = await queryTail({ account: ACCOUNT, token: TOKEN, dataset: DATASET, afterCursor: store.cursor, upto });
+    rows = await queryTail({ account: ACCOUNT, token: TOKEN, dataset: DATASET, afterCursor: fromCursor, upto });
   } catch (err) {
     console.warn(`[accumulate] AE query failed, snapshot unchanged: ${err.message}`);
     return; // fail-safe: retry next run, no data lost
@@ -52,6 +82,18 @@ async function main() {
     added += Math.round(Number(r.n) || 0);
   }
   store.pages = filterToArticles(store.pages, keys); // prune any previously-stored noise
+
+  // Fold the daily trend series over the SAME window (site-level, isolated so a
+  // daily-query failure never blocks the per-page accumulation below).
+  try {
+    const dayRows = await queryDailyTotals({ account: ACCOUNT, token: TOKEN, dataset: DATASET, afterCursor: fromCursor, upto });
+    store.series ||= {};
+    for (const r of dayRows) addDayRow(store.series, r);
+    console.log(`[accumulate] folded ${dayRows.length} daily row(s) into the trend series.`);
+  } catch (err) {
+    console.warn(`[accumulate] daily series fold failed (per-page fold kept): ${err.message}`);
+  }
+
   store.cursor = upto;
   store.updatedAt = new Date().toISOString();
   await saveCumulative(store);

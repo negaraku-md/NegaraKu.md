@@ -19,6 +19,9 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 export const CUMULATIVE_FILE = path.join(ROOT, 'analytics', 'cumulative.json');
 export const OUT_FILE = path.join(ROOT, 'public', 'api', 'analytics.json');
+// Per-day site-level trend series (visitors/channels/AI/language over time),
+// kept in a SEPARATE file so it never mixes with analytics.json's per-page map.
+export const SERIES_OUT_FILE = path.join(ROOT, 'public', 'api', 'analytics-series.json');
 export const EPOCH = '1970-01-01 00:00:00';
 
 /** Cloudflare/ClickHouse datetime literal (UTC): "YYYY-MM-DD HH:MM:SS". */
@@ -46,6 +49,58 @@ export function addRow(pages, r) {
   }
   else if (r.bucket === 'search') { e.search.total += n; e.search.byBot[r.bot] = (e.search.byBot[r.bot] || 0) + n; }
   else if (r.bucket === 'ai') { e.ai.total += n; e.ai.byBot[r.bot] = (e.ai.byBot[r.bot] || 0) + n; }
+}
+
+// --- daily trend series -----------------------------------------------------
+// Site-level (not per-article) aggregates per calendar day, for the analytics
+// trend charts. Compact by design: category/pillar trends come from SEO (GSC
+// byMonth); this covers visitors, channels, AI and language over time.
+
+/** A fresh empty day bucket. */
+export function emptyDay() {
+  return { readers: 0, search: 0, ai: 0, byChannel: {}, byLang: {} };
+}
+
+/** Fold one daily AE row {day,bucket,channel,locale,n} into `series` (mutates). */
+export function addDayRow(series, r) {
+  const day = r.day;
+  const n = Math.round(Number(r.n) || 0);
+  if (!day || n <= 0) return;
+  const d = (series[day] ||= emptyDay());
+  if (r.bucket === 'readers') {
+    d.readers += n;
+    if (r.channel) d.byChannel[r.channel] = (d.byChannel[r.channel] || 0) + n;
+    if (r.locale) d.byLang[r.locale] = (d.byLang[r.locale] || 0) + n;
+  } else if (r.bucket === 'search') { d.search += n; }
+  else if (r.bucket === 'ai') { d.ai += n; }
+}
+
+/** Overwrite the day buckets covered by `freshDays` (used by the seed backfill). */
+export function replaceDays(series, freshDays) {
+  for (const [day, bucket] of Object.entries(freshDays)) series[day] = bucket;
+  return series;
+}
+
+/**
+ * Query AE for per-day site-level totals in (afterCursor, upto], grouped by
+ * day/bucket/channel/locale (pageviews only — engage rows excluded). Returns
+ * rows [{day,bucket,channel,locale,n}]. Throws on HTTP error (caller decides).
+ */
+export async function queryDailyTotals({ account, token, dataset, afterCursor, upto }) {
+  const bounds =
+    `WHERE timestamp > toDateTime('${afterCursor}')` +
+    (upto ? ` AND timestamp <= toDateTime('${upto}')` : '') +
+    ` AND blob2 != 'engage'`;
+  const sql =
+    `SELECT toDate(timestamp) AS day, blob2 AS bucket, blob5 AS channel, blob4 AS locale, ` +
+    `SUM(_sample_interval) AS n FROM ${dataset} ${bounds} ` +
+    `GROUP BY day, bucket, channel, locale`;
+  const res = await fetch(
+    `https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`,
+    { method: 'POST', headers: { Authorization: `Bearer ${token}` }, body: sql },
+  );
+  if (!res.ok) throw new Error(`AE SQL API ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  return (await res.json()).data || [];
 }
 
 /** Deep-ish clone of a pages map (so the live tail never mutates the snapshot). */
@@ -106,12 +161,12 @@ export async function loadCumulative() {
   if (existsSync(CUMULATIVE_FILE)) {
     try {
       const c = JSON.parse(await readFile(CUMULATIVE_FILE, 'utf8'));
-      return { schema: 1, cursor: c.cursor || EPOCH, updatedAt: c.updatedAt || null, pages: c.pages || {} };
+      return { schema: 1, cursor: c.cursor || EPOCH, updatedAt: c.updatedAt || null, pages: c.pages || {}, series: c.series || {} };
     } catch {
       /* fall through to a fresh store */
     }
   }
-  return { schema: 1, cursor: EPOCH, updatedAt: null, pages: {} };
+  return { schema: 1, cursor: EPOCH, updatedAt: null, pages: {}, series: {} };
 }
 
 export async function saveCumulative(store) {
