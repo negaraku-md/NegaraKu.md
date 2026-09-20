@@ -30,7 +30,7 @@ lang: "ja"
 sourceContentHash: "7f5fe90f36510019"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "published"
+status: "archived"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
