@@ -48,6 +48,12 @@ const QUEUE = process.env.FB_BACKLOG_QUEUE === '1';
 // spread across the ticks instead of dumped in one feed-flooding burst. Manual
 // dispatches never set it, so a manual run always posts the full day's batch.
 const SCHEDULED = process.env.FB_SCHEDULED === '1';
+// Optional allow-list to restrict a run to specific languages, comma-separated
+// (e.g. a launch smoke-test: FB_ONLY_LANGS=ja posts only the Japanese Page).
+// Empty = every enabled language (the normal behaviour).
+const ONLY_LANGS = (process.env.FB_ONLY_LANGS || '')
+  .split(',').map((s) => s.trim()).filter(Boolean);
+const langAllowed = (lang) => ONLY_LANGS.length === 0 || ONLY_LANGS.includes(lang);
 // The number of scheduled cron ticks per day (keep in sync with the `schedule:`
 // cron in .github/workflows/facebook-backlog.yml). Used to size each tick's share
 // of the daily target.
@@ -122,6 +128,7 @@ function targetsForBases(bases, manifest) {
     if (!isPublishedBase(base)) continue;
     for (const lang of LANGS) {
       if (!PAGES[lang]) continue;
+      if (!langAllowed(lang)) continue; // FB_ONLY_LANGS allow-list (empty = all)
       if (isDone(manifest, base, lang)) continue; // post + comment both up — nothing to do
       const file = langFile(base, lang);
       const k = `${base}|${lang}`;
@@ -178,6 +185,7 @@ function resolveTargets(files, manifest, { scheduled }) {
   const seen = new Set();
   for (const lang of LANGS) {
     if (!isLangEnabled(lang) || !PAGES[lang]) continue;
+    if (!langAllowed(lang)) continue; // FB_ONLY_LANGS allow-list (empty = all)
     const dayTarget = perLangPerDay(lang, manifest);
     let budget = dayTarget;
     if (scheduled) {

@@ -29,6 +29,9 @@ on:
       files:
         description: 'Space-separated knowledge/*.md paths (blank = next ranked queue batch)'
         required: false
+      only_langs:
+        description: 'Restrict to these languages, comma-separated (e.g. "ja"). Blank = all enabled.'
+        required: false
       dry_run:
         description: 'Dry run — log what would be posted, do NOT call the Facebook API'
         type: boolean
@@ -64,6 +67,7 @@ jobs:
           # scheduled ticks, but a manual dispatch always posts.
           FB_SCHEDULED: ${{ github.event_name == 'schedule' && '1' || '' }}
           FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+          FB_ONLY_LANGS: ${{ github.event.inputs.only_langs }}
         run: node scripts/post-backlog-to-facebook.mjs ${{ github.event.inputs.files }}
 
       - name: Commit the posted-manifest if it changed
