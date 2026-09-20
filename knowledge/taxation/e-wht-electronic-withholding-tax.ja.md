@@ -34,10 +34,10 @@ faq:
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "d5f0f2295ae24e78"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

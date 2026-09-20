@@ -30,11 +30,11 @@ faq:
     a: "2024年の改正より前は、第14条(1)(b)の法の作用による道は父が市民である場合に適用された。2023年8月5日の控訴院の判決（Suriani Kempe & Ors lwn Kerajaan Malaysia事件）を受けて、市民である母による様式Dの申請は、Family Frontiersのガイドに記録されているとおり、凍結された。2024年10月に可決された改正法は母と父の権利を平等にするが、それが発効した後に生まれた子にのみ適用される。それより前に生まれた18歳未満の子については、第15条(2)（様式B）の道が用いられる。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "2a31c142e3a5bd2c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

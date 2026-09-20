@@ -19,9 +19,9 @@ keyTakeaways:
 appliesTo: "マレーの伝統的なスルタン国という制度の構造と役割、そしてそれが今日の立憲君主制とどのようにつながっているかを理解したいすべての人。"
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "95bf275cb438d0b7"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

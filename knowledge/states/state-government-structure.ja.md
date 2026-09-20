@@ -24,10 +24,10 @@ appliesTo: "マレーシアの州政府がどのように組織されている�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "0eb897c5d29d626d"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

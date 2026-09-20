@@ -34,9 +34,9 @@ faq:
     a: "マレー連合州と非連合マレー諸州は、いずれも1946年4月1日にマラヤ連合へ統合され解体した。マラヤ連合自体も、その数年後にはマラヤ連邦（Federation of Malaya）に取って代わられた。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "3bcc3b32fd59d463"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

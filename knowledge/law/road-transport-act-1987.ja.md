@@ -28,9 +28,9 @@ faq:
     a: "2020年道路交通（改正）法（Road Transport (Amendment) Act 2020）は、2020年10月23日に施行された。無謀運転・危険運転及び飲酒運転（s.41からs.45Aまで）に対する罰則及び資格停止期間を引き上げ、法定アルコール濃度の上限をWHO基準まで引き下げ、「マイクロモビリティ車両（micromobility vehicle）」の定義を追加した。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "e438c79ab71a1dba"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -27,10 +27,10 @@ verificationNeeded:
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "fdaf544799e718b4"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

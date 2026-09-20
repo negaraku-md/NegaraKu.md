@@ -23,10 +23,10 @@ appliesTo: "特定の手続きや紛争に進む前に、国家土地法典を�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "ea87aadccc95af5d"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

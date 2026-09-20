@@ -20,10 +20,10 @@ appliesTo: "住み込みの外国人家事労働者、地元のパートタイ�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "1482c677a5d90d95"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

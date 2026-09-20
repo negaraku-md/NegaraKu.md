@@ -31,11 +31,11 @@ faq:
     a: "契約に署名する前に、内務省のeSIMS照会ポータルで会社と警備員の免許の状態を確認する。適法な警備会社は、有効な私設警備業免許を保有していなければならない。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "7778a33b10205faf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

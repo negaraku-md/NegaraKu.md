@@ -23,10 +23,10 @@ verificationNeeded:
   - "本記事は、私立自動車教習所のClass Dコースの正確な料金も、LDL/PDL/CDLの経路に関するJPJの正確な料金表も引用していない。検証の過程で単一の公式なJPJ料金表が見つからなかったためである——予算を組む前に、現行の料金をJPJの窓口または認可された自動車教習所で直接確認すること。"
   - "1987年道路交通法（Act 333）s.28の正確な文言は、JPJが掲載するPDFを一行ずつ直接読むのではなく（文脈使用量を抑えるためここでは避けた）、同法の二次的な要約を通じて確認した——条番号と実質的な効力は複数の独立した情報源で相互に裏付けられているが、法的依拠を伴う文書を作成する場合は、JPJが掲載するAct 333のPDF原文で正確な文言を確認すること。"
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "04842acf21e405cb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "reviewed"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

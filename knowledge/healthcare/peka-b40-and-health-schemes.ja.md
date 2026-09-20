@@ -22,9 +22,9 @@ verificationNeeded:
   - "mySalam及びPeKa B40制度の有効期間は、毎年の予算案の決定に左右される。本稿の数値及び条件は、執筆時点（2026年7月）の公式サイトに基づき確認したものであり、今後の予算案で更新される可能性がある。"
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "46290890ce15acbd"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -29,11 +29,11 @@ faq:
     a: "ありません。登録官は期限を設けていません——正当な所有者はいつでも請求でき、支払いは統合信託勘定（Akaun Amanah Disatukan）または歳入勘定（Akaun Hasil）のいずれかから行われます。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "b0fa973557593199"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

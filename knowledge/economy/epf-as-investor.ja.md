@@ -29,7 +29,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "a2dbf62e9ce69abb"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

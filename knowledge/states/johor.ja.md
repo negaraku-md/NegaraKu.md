@@ -31,11 +31,11 @@ faq:
 
 verificationNeeded: []
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "f075aca9f39a2a6a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

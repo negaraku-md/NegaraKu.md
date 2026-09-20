@@ -29,11 +29,11 @@ faq:
     a: "できる。SaveME 999アプリは、音声通話だけでなく、動画・テキスト・マルチメディアによる緊急通報を可能にしており、障害者（OKU）も999の担当者に連絡できる。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "a2e869579c3095a1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -21,10 +21,10 @@ appliesTo: "第153条が何を規定し、何を除外しているかについ�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "db5076f747cd8ba7"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

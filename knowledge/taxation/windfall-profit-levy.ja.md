@@ -31,11 +31,11 @@ faq:
     a: "いいえ。小規模農家は免除されており、2023年令は面積40.46ヘクタール（100エーカー）以上の油ヤシ保有地にのみ適用される。集団入植区内の保有地も対象から除外されている。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "90a5c1941df77b25"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

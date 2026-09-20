@@ -19,9 +19,9 @@ keyTakeaways:
 appliesTo: "キナバル山の検証済みの高度と保護区としての地位、そしてサバ州の花崗岩の山がなぜ地質学的にこれほど若いのかについての平易な説明を求める読者向け。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "9898433b2f4e9aa1"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

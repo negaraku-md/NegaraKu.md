@@ -31,11 +31,11 @@ faq:
     a: "保健省の2012年ガイドラインは、妊娠中絶を、妊娠週数が22週未満、又は週数が不明な場合は胎児の推定体重が500グラム未満である時点で行われる処置と定義している。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "58e08ea86f967964"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

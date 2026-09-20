@@ -38,11 +38,11 @@ faq:
     a: "国家スポーツ院（ISN）です。これは2011年国家スポーツ院法［Act 729］によって法定的地位を与えられ、運動科学および運動医学のサービス・助言・コンサルティングの提供、研究の実施、選手のパフォーマンスの科学的側面についての大臣への助言を職務としています。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "6410f4b09d840cf0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

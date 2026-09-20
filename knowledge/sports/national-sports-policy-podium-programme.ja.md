@@ -35,11 +35,11 @@ faq:
     a: "目標は主要大会の周期——オリンピック、アジア競技大会、コモンウェルスゲームズ——に結び付けられ、成功の可能性が高いと認められたスポーツに重点が置かれます。これは国家スポーツ政策の目標8に沿ったものです。資金は周期ごとに（例えば4年間で年間RM6,000万）配分され、国家スポーツ評議会（MSN）が調整し、国家スポーツ院（ISN）がスポーツ科学の面で支援します。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "7132b0584a8f785b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

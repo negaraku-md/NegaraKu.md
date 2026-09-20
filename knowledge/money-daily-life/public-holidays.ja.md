@@ -22,10 +22,10 @@ appliesTo: "州をまたいで旅行、事業、または日常の用務を計�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "3aa4c891e7b6b223"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

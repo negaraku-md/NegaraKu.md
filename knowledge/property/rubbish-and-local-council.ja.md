@@ -22,10 +22,10 @@ appliesTo: "マレーシアに居住し、自分の地域で誰がごみを収�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "0280d12a6ccc5b9e"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

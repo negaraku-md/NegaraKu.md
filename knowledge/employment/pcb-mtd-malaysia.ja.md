@@ -93,7 +93,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "06879d4aea0e97e3"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

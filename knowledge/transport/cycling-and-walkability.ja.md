@@ -21,10 +21,10 @@ appliesTo: "住民、都市計画者、そしてマレーシアの都市の歩�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "3d0d276aec4c1fe4"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

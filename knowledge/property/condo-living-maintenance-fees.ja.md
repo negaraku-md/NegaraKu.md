@@ -23,10 +23,10 @@ appliesTo: "マレーシア半島またはラブアン連邦直轄区におい�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "cb88d8015d2b5a82"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

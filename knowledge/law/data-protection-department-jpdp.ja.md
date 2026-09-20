@@ -25,10 +25,10 @@ faq:
   - q: "誰がJPDPへの登録義務を負うか？"
     a: "2013年個人データ保護（データ利用者の類別）命令が定める13の類別に該当するデータ利用者（現在は「データ管理者」）は、PDPA s.14に基づき登録し、有効な登録証明書を取得しなければならない。登録は daftar.pdp.gov.my のSPDPポータルを通じてオンラインで行う。"
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "a86fa7aea38102ca"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "reviewed"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -31,11 +31,11 @@ faq:
     a: "会社の場合、営業ザカートは s.44(11A) に基づく損金算入（控除）として扱われ、集計所得の40分の1（2.5%）を上限とする。個人のような1リンギット対1リンギットの税額控除ではない。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "850b3fce0e9aa149"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

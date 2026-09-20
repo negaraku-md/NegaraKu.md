@@ -29,11 +29,11 @@ faq:
     a: "いいえ。駐車の過料は地方自治体（PBT）が駐車に関する道路交通令に基づいて発行しますが、運転違反に対する交通違反切符はPDRM（警察）またはJPJ（陸運局）が発行します。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "cec9d7c50b142e19"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

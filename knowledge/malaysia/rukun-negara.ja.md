@@ -21,9 +21,9 @@ keyTakeaways:
 appliesTo: "学生、教師、公務員、そして公文書の記録に基づき、ルクンヌガラの正式文本及びその制定の年表を参照する必要のあるすべての人。"
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "b7cede975bcf8a6f"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

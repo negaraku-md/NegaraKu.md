@@ -21,10 +21,10 @@ appliesTo: "年次のForm BE／B申告を準備し、自分がどの減免を申
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "3aaef5bbc4ffdb87"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

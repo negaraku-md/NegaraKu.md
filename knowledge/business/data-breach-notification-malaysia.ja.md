@@ -69,7 +69,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "69d11280d19d99c8"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

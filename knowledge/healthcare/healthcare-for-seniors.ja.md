@@ -22,9 +22,9 @@ verificationNeeded:
   - "本記事では、民間介護施設の費用、病床数、又はRumah Seri Kenanganの待機リストの長さについては記載していない。これらは頻繁に変動し、執筆時点で公式情報源による確認が取れなかったためである——現在の費用及び空き状況については、運営者又は地区社会福祉局（Jabatan Kebajikan Masyarakat Daerah）に直接確認すること。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "7ae419cbd6a2d437"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

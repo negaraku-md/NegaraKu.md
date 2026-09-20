@@ -22,9 +22,9 @@ appliesTo: "マレーシアの国語政策の背後にある憲法上の正確�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "b994c8be544c8680"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

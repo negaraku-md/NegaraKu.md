@@ -30,11 +30,11 @@ faq:
     a: "1月1日から12月31日までの丸1暦年である。フィリピンは2026年1月1日にマレーシアから引き継いだ。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "be6127ce5cca4347"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

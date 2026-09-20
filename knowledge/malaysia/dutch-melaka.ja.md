@@ -21,9 +21,9 @@ keyTakeaways:
 appliesTo: "マラッカがポルトガルからオランダへ、そして英国へと支配者を変えていったことをすでに知っており、なぜ中間の184年間が、その前の130年間およびその後の121年間とこれほど違って見えたのか——さらに英国への移管が実際にどのように行われたのかを理解したい読者向け。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "c29f50bb16f23497"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

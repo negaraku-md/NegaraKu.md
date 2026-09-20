@@ -29,9 +29,9 @@ faq:
     a: "サービス税の範囲が拡大され、賃貸借、建設、金融サービス、民間医療及び教育を含む新たなサービスが対象となった。手数料ベースの金融サービスは8%で課税され、建設、民間医療（非公民のみ）及び教育は6%で課税される。賃貸借は2025年7月1日から8%で課税されていたが、2026年1月1日から6%に引き下げられた。美容サービスへの拡大提案は、2025年7月1日より前に撤回された。合規に向けた措置を講じている事業者に対しては、2025年12月31日まで検察及び罰則は適用されなかった。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "1a8e884731ffdc96"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

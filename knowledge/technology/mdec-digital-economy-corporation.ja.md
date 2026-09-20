@@ -28,9 +28,9 @@ faq:
     a: "いいえ。MDEC は機構であり、MSCマレーシアはその初期のプログラムであった。MSCマレーシアはマレーシア・デジタルへと改称され、MD ステータスは旧来の MSCマレーシア・ステータスを引き継ぐものである。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "4aca195eadff6ca3"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

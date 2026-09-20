@@ -19,9 +19,9 @@ keyTakeaways:
 appliesTo: "マラッカ王国以前のマレー半島に何が存在していたのか、そしてその初期の歴史のうちどこまでが真に確定しており、どこからがなお議論の的であるのかを知りたい読者向け。"
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "9a72c46b6d9e02d0"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

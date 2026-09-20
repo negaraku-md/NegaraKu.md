@@ -30,10 +30,11 @@ faq:
     a: "死亡事故、重傷又は危険事象は、最も迅速な方法で最寄りのDOSH事務所に通報しなければならず、JKKP 6様式はNADOPOD 2004のもとで7日以内に提出しなければならない。"
 
 lang: "ja"
+sourceContentHash: "e58617c97047711f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

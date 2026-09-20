@@ -35,11 +35,11 @@ faq:
     a: "s.106は、調停機関への付託が求められない例外を列挙している——例えば、s.51（改宗）及びs.52（双方の合意）にもとづく申立て、又は配偶者の所在が不明な場合、被申立人が国外に居住し6か月以内に管轄内に入る見込みがない場合、出席するよう求められながら故意に出席しなかった場合、5年以上の拘禁刑に処せられている場合、不治の精神疾患を有すると主張されている場合、若しくは裁判所が例外的な事情により付託が実行不可能であると認める場合などである。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "608158d08520f03a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -24,7 +24,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "5c03f2bbac4e0dca"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

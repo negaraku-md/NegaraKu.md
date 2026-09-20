@@ -33,11 +33,11 @@ faq:
     a: "高等法院は、s.76に基づき婚姻中に取得された財産を分配する権限を有し、経済的及び非経済的貢献、家族の利益のための債務、子の必要、そして婚姻期間を考慮する。分配は必ずしも50対50ではない。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "9844bf61f2e89ad7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

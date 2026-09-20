@@ -22,11 +22,11 @@ keyTakeaways:
 appliesTo: "マレーシアの統治者を有する九つの州を把握し、統治者の憲法上の地位を記述的に理解したい読者——学生、研究者、記者、公務員及び一般読者。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "2e19d7c57053d5f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

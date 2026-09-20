@@ -27,11 +27,11 @@ faq:
     a: "電動アシスト自転車が適用除外となるのは、スロットルがなくペダルが常時装着されている、マレーシア標準MS2514に適合するペダルアシスト式である場合に限られます。認可されていないスロットル付きの電動アシスト自転車はPMDまたはモペットに分類され、禁止されています。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "c96ca2ea918ba45a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

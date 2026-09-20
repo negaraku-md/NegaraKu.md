@@ -22,10 +22,10 @@ appliesTo: "マレーシアで人の死亡を登録し、その後の行政手�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "729859064dd35894"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

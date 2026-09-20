@@ -33,10 +33,10 @@ verificationNeeded:
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "01485efbacf83246"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 published: null

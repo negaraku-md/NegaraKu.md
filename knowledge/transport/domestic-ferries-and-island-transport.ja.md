@@ -29,11 +29,11 @@ faq:
     a: "できないことが多い。多くの東海岸のリゾートや船の運航事業者は、北東モンスーンによる荒れた海のため、10月頃から2月頃まで自主的に運航を休止する。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "baf74efaaf475bb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -29,9 +29,9 @@ faq:
     a: "政府の医療専門家による認定を受けたマレーシア国民は、医療鑑定報告書及びMyKadの写し（12歳未満の申請者は出生証明書）とともにBPPOKU登録用紙（2019年第2号修正）を提出する。これはJKMの窓口、又はMyDaftar OKUポータルを通じたオンラインのいずれでも可能である。申請が認められると、障害区分を示すOKUカードが交付される。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "f9a688b158d9b46c"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

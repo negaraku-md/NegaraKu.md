@@ -22,10 +22,10 @@ appliesTo: "マレーシア半島、サバまたはサラワクで住宅物件�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "82f3b97b7c53aec7"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

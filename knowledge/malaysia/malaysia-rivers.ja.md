@@ -20,9 +20,9 @@ appliesTo: "マレーシアの地理と歴史を学ぶ人、また、サラワ�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "c0dca023c22caa3e"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

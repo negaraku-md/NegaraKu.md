@@ -40,11 +40,11 @@ faq:
     a: "この博物館は、ジャラン・トゥン・タン・チェンロック48・50番地にあり、火曜が休館である。平日（火曜を除く）は午前10時から午後4時15分まで、週末は午前10時から午後4時45分まで開館する。開館時間や料金は変わりうるので、訪問前に博物館の公式サイトで確認すること。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "e6af87197b8f50e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

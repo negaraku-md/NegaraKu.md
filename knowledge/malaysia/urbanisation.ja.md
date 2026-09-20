@@ -22,10 +22,10 @@ appliesTo: "マレーシアの人口、労働力または不動産の統計を�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "0362cd9a8f8b4f6a"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

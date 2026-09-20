@@ -29,11 +29,11 @@ faq:
     a: "PETRONASのライセンスを申請する企業は、該当するSWECコードに従ってブミプトラ参加要件を満たす必要がある。PETRONASのベンダー育成プログラムについては、ブミプトラ保有比率最低51%が求められる（出典：Low & Partners；PETRONAS）。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "8653f4f58e0534c5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

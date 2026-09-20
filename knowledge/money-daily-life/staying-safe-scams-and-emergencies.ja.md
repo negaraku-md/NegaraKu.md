@@ -22,10 +22,10 @@ appliesTo: "マレーシアに住んでいる、あるいは訪れる人で、�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "9fc1856c9ea17a12"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

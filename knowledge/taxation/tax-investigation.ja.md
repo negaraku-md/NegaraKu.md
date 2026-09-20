@@ -32,11 +32,11 @@ faq:
     a: "詐欺、故意の脱税又は過失が関わる事案には時効がない。s.113のような特定の罪に関する刑事手続には、12年の期間が適用される。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

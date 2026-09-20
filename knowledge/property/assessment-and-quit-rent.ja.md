@@ -23,10 +23,10 @@ appliesTo: "毎年の不動産税の請求書を理解する必要がある、�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "466dc843a0553a23"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

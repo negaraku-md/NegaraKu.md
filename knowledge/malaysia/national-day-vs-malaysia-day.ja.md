@@ -30,9 +30,9 @@ faq:
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "25064de19f113798"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

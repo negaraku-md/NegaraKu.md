@@ -139,7 +139,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "11858a7deaca48ff"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -20,10 +20,10 @@ appliesTo: "サバの地理、経済及び政府に関する事実に基づく�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "d05db2b4db752c79"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

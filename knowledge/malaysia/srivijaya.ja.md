@@ -18,9 +18,9 @@ keyTakeaways:
 appliesTo: "マラッカがマラッカ海峡を支配する以前に何がその海峡を支配していたのか、そしてスマトラを拠点とする海上強国が、どのようにしてマレー半島自身の王室史へと直接つながっていったのかを理解したい読者向け。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "9c0d3b0b3dd803ef"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

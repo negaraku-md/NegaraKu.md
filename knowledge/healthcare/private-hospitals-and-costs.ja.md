@@ -22,10 +22,10 @@ appliesTo: "マレーシアで専門医の診察や私立施設への入院に�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "ae428a676e96d0c6"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

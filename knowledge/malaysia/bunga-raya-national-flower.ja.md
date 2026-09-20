@@ -28,11 +28,11 @@ faq:
     a: "それは国内全域ですでに知られており、色と形が魅力的で、名称が統一されており、容易に入手でき、そして当時他のいかなる国の国花にもなっていなかったためである。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "a06373b8a03d8ae0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -34,11 +34,11 @@ faq:
     a: "はい。この四社——TNG Digital Sdn Bhd、Axiata Digital E-code Sdn Bhd（Boost）、GPay Network (M) Sdn Bhd（GrabPay）、ShopeePay Malaysia Sdn Bhd——はいずれも、BNM の公式リストに非銀行の電子マネー発行者として掲載されている。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "3baa675be6fcede6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

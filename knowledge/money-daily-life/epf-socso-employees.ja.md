@@ -24,11 +24,11 @@ verificationNeeded:
   - "本記事の執筆時点で、公式サイトkwsp.gov.myは自動アクセスを遮断していた（403）。引用したKWSPの拠出率（被用者11%、雇用主は給与階層に応じて13%／12%）は、kwsp.gov.my自身の本文から直接抜粋を返す検索によって確認しており、同じくkwsp.gov.myを引用する当サイトのepf-employer-guideの記事とも一致する。サイトにアクセスできるようになったら、kwsp.gov.my/en/epf-act-1991-third-schedule で直接再確認してほしい。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "91cbd7d0dece19b9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

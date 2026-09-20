@@ -27,10 +27,10 @@ faq:
   - q: "データ侵害はいつまでに報告しなければならないか？"
     a: "データ管理者は、侵害発生後、実行可能な限り速やかに、遅くとも72時間以内に長官へ通知しなければならず、侵害が重大な被害を生じさせるおそれがある場合は、その通知から7日以内に影響を受けた個人にも通知しなければならない。"
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "7f5fe90f36510019"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "reviewed"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

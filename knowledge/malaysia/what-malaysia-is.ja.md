@@ -19,9 +19,9 @@ keyTakeaways:
 appliesTo: "特定の機関を深く掘り下げる前に、この国が憲法上どのような性質の国であるかを理解したい、マレーシアに初めて触れるすべての人向け。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "8088b5defbdcad1c"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

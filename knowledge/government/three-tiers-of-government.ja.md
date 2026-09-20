@@ -22,9 +22,9 @@ appliesTo: "マレーシアで特定の問題についてどの政府レベル�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "c6bdf9ccfb5d174a"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

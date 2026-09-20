@@ -24,10 +24,10 @@ appliesTo: "マレーシアで選挙を執行する機関の憲法上の位置�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "6a46ae533ead9e08"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

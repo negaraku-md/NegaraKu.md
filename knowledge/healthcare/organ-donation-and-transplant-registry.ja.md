@@ -31,11 +31,11 @@ faq:
     a: "国家ファトワ委員会（Majlis Fatwa Kebangsaan）は、1970年6月23〜24日の会議において、生命を救う緊急の状況であること、売買の要素がないこと、提供者本人またはその相続人の同意が得られていることなどの条件のもとで、臓器提供を許容（認められる）と裁定した。このファトワは、その後他の臓器や組織にも拡大された。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "55867275b6260a32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

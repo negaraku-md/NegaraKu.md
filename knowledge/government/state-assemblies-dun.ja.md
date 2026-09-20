@@ -25,10 +25,10 @@ appliesTo: "州議会が憲法上どのように構成され、どれだけの�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "2a25e82c7f7bc759"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

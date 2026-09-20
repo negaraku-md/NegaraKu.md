@@ -32,9 +32,9 @@ faq:
     a: "マレーシアはASEAN（1967年8月8日発足）の創設加盟国である。ASEANを通じて集団で行動することで、中規模で貿易依存度の高い国家は、単独で行動するよりも大国との関係管理において強い発言力を得られる——これこそが、ASEAN中心主義がこの政策の礎石として扱われる理由である。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "0119cb2bc48cc9ad"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -23,10 +23,10 @@ appliesTo: "宗教に関する憲法の正確な条文を求めるすべての�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "e8ee51ffbb017879"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

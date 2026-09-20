@@ -22,10 +22,10 @@ appliesTo: "マレーシアでの就職オファーを受けた外国籍者、�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "1684527edc9ec752"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

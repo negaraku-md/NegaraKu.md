@@ -36,11 +36,11 @@ faq:
     a: "KL20は、マレーシアのスタートアップ競争力を高めるために、政府がクアラルンプールのKL20 Summitで発表した2024年の行動計画である。資本、人材、スタートアップの質という三つの重要な重点領域にわたる取り組みを示し、2030年までにマレーシアを世界トップ20のスタートアップ拠点とし、スタートアップの評価額をRM4,000億とすることを目標に掲げる。これはMalaysia Venture Capital Roadmap 2024-2030、および2030年までにマレーシアを望ましい地域ベンチャーキャピタル拠点とする目標と整合している。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "0c6b5fee40e498df"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

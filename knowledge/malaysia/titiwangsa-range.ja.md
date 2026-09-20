@@ -19,9 +19,9 @@ keyTakeaways:
 appliesTo: "ティティワンサ山脈とは何か、それがどこを通っているか、そしてなぜそれが半島マレーシアの河川・気候・居住パターンを西海岸側と東海岸側とに分けているのかについて、平易で検証済みの説明を求める読者向け。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "c92a68e675abc2cc"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

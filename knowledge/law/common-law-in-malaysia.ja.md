@@ -24,10 +24,10 @@ appliesTo: "マレーシアの裁判所がなぜ英国判例を引用するの�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "0e25f8448644480c"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

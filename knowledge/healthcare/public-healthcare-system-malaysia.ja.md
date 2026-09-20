@@ -28,9 +28,9 @@ faq:
     a: "PeKa B40（Skim Peduli Kesihatan untuk Kumpulan B40）は、ProtectHealth Corporationが運営するMOHの制度である。対象となる40歳以上の低所得マレーシア人——Sumbangan Tunai Rahmah受給者とその配偶者——に対し、無料の健康診断、最大RM20,000の医療機器援助、RM1,000のがん治療インセンティブ、および交通費援助を提供する。2025年3月31日時点で、対象となるおよそ690万人のうち約160万人が診断を受けている。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "e44d3a318b3a6bbb"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -22,10 +22,10 @@ appliesTo: "旅行者、雇用主、学生、あるいはマレーシアの連�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "468d0412b31978aa"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

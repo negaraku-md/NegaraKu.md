@@ -23,10 +23,10 @@ appliesTo: "マレーシアで妊娠している人、妊娠を計画してい�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "8182db0933e495e5"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

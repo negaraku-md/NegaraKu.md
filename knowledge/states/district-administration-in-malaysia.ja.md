@@ -33,11 +33,11 @@ faq:
     a: "ムキムは県の下にある細分区であり、主に土地行政を目的とするものである。プングルは、県の土地行政のもとでムキムレベルの職権を行使する官吏である。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "a75e04e291488dd9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

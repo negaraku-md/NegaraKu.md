@@ -31,11 +31,11 @@ faq:
     a: "ルクン・トゥタンガは、国民団結省傘下の国民統合局（JPNIN）が監督しています。その法的根拠は2012年ルクン・トゥタンガ法（Akta 751）です。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "79fa6f589efc75aa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

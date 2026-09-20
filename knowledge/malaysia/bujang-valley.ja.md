@@ -20,9 +20,9 @@ appliesTo: "マレー半島における、マレーの諸スルタン王朝が�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "e95214b94dacf363"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

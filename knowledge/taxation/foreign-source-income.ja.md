@@ -43,10 +43,10 @@ verificationNeeded:
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "e5a0172051099281"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

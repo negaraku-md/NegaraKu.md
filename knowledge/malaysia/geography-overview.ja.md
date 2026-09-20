@@ -18,9 +18,9 @@ keyTakeaways:
 appliesTo: "マレーシアの人口、都市、そして洪水リスクがなぜ特定の場所に集中するのかを理解しようとするすべての人へ——学生、新規移住者、都市計画の担当者、あるいは「モンスーンシーズン」が海岸によって意味することが異なるのはなぜかと戸惑っているすべての人に。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "1aadf1352cd31f55"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

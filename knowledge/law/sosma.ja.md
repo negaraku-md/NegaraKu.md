@@ -25,10 +25,10 @@ appliesTo: "SOSMAが何であり、どのような特別手続きを定めてい
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "23e4a7f81f4e58a1"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

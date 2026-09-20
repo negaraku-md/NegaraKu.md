@@ -33,11 +33,11 @@ faq:
     a: "Akta 872のもとでは、プラットフォーム提供者があなたを自営業保障制度（Lindung Kendiri）に登録し、あなたの収入から拠出金を控除する責任を負います。ただし、登録が完了していることを確認し、控除が選択したプランの最低率に達しない場合は差額を支払う必要があります。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "759ef843044df58d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

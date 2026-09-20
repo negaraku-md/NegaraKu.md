@@ -29,11 +29,11 @@ faq:
     a: "特定の状況においてはあり得る。第26条(2)は、第15条(1)に基づき登録された女性の市民権について、その登録の根拠となった婚姻が、婚姻の日から2年以内に（死亡による場合を除き）解消された場合、連邦政府がこれを剥奪することを認めている。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "28365cf20f843051"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

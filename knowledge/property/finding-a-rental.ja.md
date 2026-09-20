@@ -22,10 +22,10 @@ appliesTo: "マレーシアで賃貸住宅を探しているすべての人。�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "f6c07580a3e9b049"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

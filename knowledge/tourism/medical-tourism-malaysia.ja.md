@@ -34,11 +34,11 @@ faq:
     a: "心臓治療、腫瘍科、不妊治療／体外受精、整形外科、そして総合的な健康診断は、外国人患者に最も人気の高い専門分野に含まれる——このうち最初の四つはMHTCが指定する卓越センターである。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "038cf5af7095fe8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

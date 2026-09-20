@@ -33,11 +33,11 @@ faq:
     a: "いいえ。RCEPとCPTPP（環太平洋パートナーシップに関する包括的及び先進的な協定、Comprehensive and Progressive Agreement for Trans-Pacific Partnership）は、締約国も規則も異なる別々の協定である。マレーシアはRCEPの締約国であり、両協定はいくつかの締約国が重複しているが、それぞれ独立して交渉されている。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "f7e0957c6988f3a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

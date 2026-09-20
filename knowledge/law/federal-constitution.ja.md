@@ -21,10 +21,10 @@ appliesTo: "マレーシアの憲法枠組みについて、構造的かつ記�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "3635bd9fdb569d2e"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

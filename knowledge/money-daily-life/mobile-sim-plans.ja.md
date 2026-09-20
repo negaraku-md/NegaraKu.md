@@ -23,10 +23,10 @@ appliesTo: "マレーシアにいる、現地の携帯SIMを購入または登�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "5f238099826ab02d"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

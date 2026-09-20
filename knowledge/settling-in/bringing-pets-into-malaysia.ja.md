@@ -21,10 +21,10 @@ appliesTo: "犬や猫を連れてマレーシアへ移住する人、または�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "10bc44ecb02ea814"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

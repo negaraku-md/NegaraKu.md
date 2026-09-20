@@ -28,9 +28,9 @@ faq:
     a: "いいえ。これは正式に戦争と宣言されることのなかった武力敵対行為である。両国間の正式な宣戦布告を経てではなく、主に越境襲撃、浸透、及び限定的な攻撃を通じて行われた。"
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "08c14e8e17f8ad68"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -28,9 +28,9 @@ faq:
     a: "従価印紙税は、文書の性質及びそこに関わる対価又は市場価値に応じて変動する——例えば不動産の移転や貸付がこれに当たる。定額印紙税は、記載された金額とは無関係に課され、通常は文書1通につき象徴的なRM10から始まる。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "e9d01dfeb365b31f"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

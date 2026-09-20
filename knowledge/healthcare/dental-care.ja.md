@@ -22,11 +22,11 @@ keyTakeaways:
 appliesTo: "マレーシアに居住し、公立施設と私立クリニックで歯科治療を受けることの違い——それぞれの道筋で提供される治療の種類を含む——を理解したいと考えるすべての人向け。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "4e874b9f524ab414"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-25

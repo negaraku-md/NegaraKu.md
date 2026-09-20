@@ -35,11 +35,11 @@ faq:
     a: "MyTTxポータルに登録し、四半期ごとの申告書（TTx-03様式）を提出し、各課税期間の翌月末日までにマレーシア王立関税局に税を納付する。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "90bb7645abb0046f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

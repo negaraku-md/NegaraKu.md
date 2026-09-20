@@ -29,11 +29,11 @@ faq:
     a: "私的仲裁人は2022年2月28日に約149.2億米ドルの裁定を下したが、マレーシアは複数の法域でこれを争い、パリ控訴院は2025年12月9日にこの裁定を取り消した。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "a5cefe938e99cef3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

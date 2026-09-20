@@ -18,10 +18,10 @@ keyTakeaways:
   - "1824年英蘭協約とその後の展開により、この領域は分割された——リアウ・リンガはオランダの統治下に、ジョホールは英国の勢力圏に入った"
 appliesTo: "マラッカのマレー王室制度が、現代のマレー諸州、とりわけジョホールへと途切れることなく受け継がれてきた経緯を理解したいすべての人向け。"
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "e2e07f7bcea9fc14"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "reviewed"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -28,11 +28,11 @@ faq:
     a: "公式の法定料率による賃貸手数料は、賃貸期間に応じて総賃料の1.25か月分から1.75か月分（最低1か月分の賃料の手数料）である。誰が負担するかは当事者間の合意事項である。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "d09e304bd5589019"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

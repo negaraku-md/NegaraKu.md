@@ -31,11 +31,11 @@ faq:
     a: "JBPMは住宅・地方政府省（KPKT）傘下の部門として掲載されている。マレーシアの省庁の所管は随時再編されるため、公式文書で依拠する前に、kpkt.gov.my又はbomba.gov.myで現在の編成を確認すること。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

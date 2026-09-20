@@ -22,7 +22,7 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "71652677302d5a7e"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

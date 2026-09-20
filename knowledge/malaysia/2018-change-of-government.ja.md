@@ -21,10 +21,10 @@ appliesTo: "第14回総選挙におけるマレーシア初の連邦政府交代
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "354e5f3719c345fc"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

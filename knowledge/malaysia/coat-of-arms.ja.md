@@ -23,10 +23,10 @@ appliesTo: "学生、教員、公務員、報道関係者、そしてパスポ�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "d089f6e067d44f67"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

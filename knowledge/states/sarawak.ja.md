@@ -32,11 +32,11 @@ faq:
 verificationNeeded: []
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "fe6d42d875ef660f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -28,11 +28,11 @@ faq:
     a: "合法ではない。s.102によれば、人身を防衛する権利は、合理的な危険の懸念が続いている間のみ存続する。脅威が終わった後も継続する行為は、防衛ではなく反撃とみなされ得る。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "7668765b92f13005"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

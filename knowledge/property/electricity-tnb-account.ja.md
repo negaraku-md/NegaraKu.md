@@ -21,10 +21,10 @@ appliesTo: "マレーシアの新居や新しい物件へ引っ越し、電力�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "6891503e50f70d6b"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

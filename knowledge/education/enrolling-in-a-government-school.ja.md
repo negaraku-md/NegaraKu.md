@@ -21,7 +21,7 @@ appliesTo: "子どもが公立小学校Tahun 1または公立中学校Tingkatan 
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -43,10 +43,10 @@ verificationNeeded:
   - "Goods and Services Tax Act 2014に言及するparagraph 39(1)(o)及び39(1)(p)が、同法令の廃止後もなお効力を有するか否か"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "5306816ff4b971c7"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

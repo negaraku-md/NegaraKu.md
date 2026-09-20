@@ -41,10 +41,10 @@ verificationNeeded:
   - "現在、para 16のもとでの年次控除について、300分の3以外の分数を定める官報命令が存在するかどうか"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "4788a314694d11fc"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

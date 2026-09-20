@@ -36,9 +36,9 @@ faq:
     a: "いいえ。2026 年 3 月 7 日、CelcomDigi と Maxis がそれぞれ RM327,872,640.28 で財務省の DNB 株式の買収を完了し、政府の 5G 卸売事業からの退出を示すとともに、DNB を通信各社と YTL が保有する完全な民間事業体へと転換させました。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "c56c91a9d7764362"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "2024 年 6 月 21 日の大臣指令、および正確な 700MHz（2×20MHz）／3.5GHz（100MHz）の割り当ては、現在 SoyaCincau の報道に依拠している。MCMC の一次資料であるプレスリリース PDF および FAQ と照合して確認すること。"
@@ -47,7 +47,7 @@ verificationNeeded:
   - "JENDELA フェーズ 2 の「JP2」RFP は The Edge により「3 月 31 日」に発出されたと報じられている。年が 2026 年であることを MCMC／通信省の情報源と照合して確認すること。"
   - "2021 年大臣指令第 3 号の発出日（2021 年 5 月 31 日）は SoyaCincau に基づく。官報または MCMC の記録と照合して確認すること。"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

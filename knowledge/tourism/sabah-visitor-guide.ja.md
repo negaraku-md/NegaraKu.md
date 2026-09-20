@@ -35,11 +35,11 @@ faq:
     a: "シパダンはサンゴ礁回復のため毎年11月に閉鎖されるので、ダイビング旅行は12月から10月の間に計画してください。それ以外の場所でも、雨の多い北東季節風の時期（おおよそ11月から3月）は、ボルネオにより多くの雨をもたらします。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "c9653441143f9da8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

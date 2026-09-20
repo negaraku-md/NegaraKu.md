@@ -24,10 +24,10 @@ appliesTo: "マレーシアの法制度を初めて体系的に把握しよう�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "f4b71230618caa4c"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

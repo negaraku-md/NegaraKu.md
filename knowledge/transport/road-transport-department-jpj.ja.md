@@ -26,9 +26,9 @@ faq:
     a: "e-LKMは、JPJが2023年以降に導入したデジタル自動車ライセンス（デジタル道路税）であり、実物のステッカーを置き換えるものである。MyJPJアプリ又はMySIKAPポータルからアクセスできる。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "5feaacc87ec61a6a"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

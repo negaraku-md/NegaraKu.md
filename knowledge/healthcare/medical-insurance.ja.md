@@ -21,10 +21,10 @@ appliesTo: "雇用主の医療保障と個人の医療カードを比較検討�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "5d9b4b2567c4315f"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

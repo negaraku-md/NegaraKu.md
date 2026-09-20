@@ -21,9 +21,9 @@ keyTakeaways:
 appliesTo: "新経済政策について、党派的な記述ではなく、公式のマレーシア計画文書に記載された、文書化された目標、指標及び時間枠を求める読者向け。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "6f9599be22d1ac5f"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

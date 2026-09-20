@@ -22,10 +22,10 @@ appliesTo: "IWKが実際には何者なのか、自分が支払っているも�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "b457bd9b79e09115"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

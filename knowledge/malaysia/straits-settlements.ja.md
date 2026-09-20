@@ -30,9 +30,9 @@ faq:
     a: "1946年4月1日、解体された。ペナンとマラッカは、マレー連合州および非連合マレー諸州とともにマラヤ連合へと統合され、一方でシンガポールは切り離され、独自の直轄植民地となった。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "9cb8a0574c93b0cb"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

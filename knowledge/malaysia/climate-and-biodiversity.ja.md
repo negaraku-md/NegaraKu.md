@@ -19,8 +19,8 @@ keyTakeaways:
 appliesTo: "全国"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "reviewed"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -59,7 +59,7 @@ keywords:
   - "monsoon Malaysia"
   - "MetMalaysia"
   - "MyBIS"
-sourceContentHash: null
+sourceContentHash: "9a6c3f25f0c58105"
 ---
 
 # マレーシアが世界のメガダイバーシティ国の一つである理由

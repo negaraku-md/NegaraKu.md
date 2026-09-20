@@ -23,10 +23,10 @@ appliesTo: "マレーシアで住まいを賃借、購入、または引っ越�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "651bab79a176221b"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

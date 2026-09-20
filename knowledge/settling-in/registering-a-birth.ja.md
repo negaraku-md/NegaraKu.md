@@ -23,10 +23,10 @@ appliesTo: "マレーシアで生まれた子の出生登録を行う責任を�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "02c6a3d01833544f"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

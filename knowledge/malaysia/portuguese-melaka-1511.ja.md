@@ -19,10 +19,10 @@ keyTakeaways:
   - "マラッカ王国の王統はジョホール・ラマで1528年に統治を再開し、その王朝は1699年まで存続した"
 appliesTo: "1511年のマラッカ陥落の背後にある技術的・政治的要因、そしてその都市が失われた後にマラッカの制度と王統に何が起きたのかを理解したい読者向け。"
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "b8ff8e81366e5986"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "reviewed"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -28,9 +28,9 @@ faq:
     a: "クアラルンプールのブキッ・ジャリル（Bukit Jalil）にある国立スポーツコンプレックス（Kompleks Sukan Negara）、住所 57000 Sri Petaling, Kuala Lumpur です。また、他のいくつかの州でも訓練コンプレックスを運営しています。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "d519f370c717d10a"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -34,11 +34,11 @@ faq:
     a: "存在する。水平的カルテル行為に関与した事業者向けにリニエンシー制度が用意されている。早期の協力により免除又は最大100%の課徴金減免を得られる可能性があるが、カルテルを主導し又は他者に強要した事業者が全額の減免を受けられる可能性は低い。2026年改正の下では、別途の和解制度により課徴金を最大40%減免することも可能である。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "f67186d884803b44"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

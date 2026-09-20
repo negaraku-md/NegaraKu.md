@@ -33,11 +33,11 @@ faq:
     a: "マレーシア統計局（DOSM）は毎年ICTサテライト勘定（『マレーシア・デジタル経済』刊行物）を発表し、ICTと電子商取引のGDPへの寄与を確定している。DOSMはまた、世帯および個人の普及率の数字を得るためにICT利用・アクセス報告も実施している。ブロードバンド普及率は、マレーシア通信・マルチメディア委員会（SKMM/MCMC）が別途発表している。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "9a3a89f709e2b7ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

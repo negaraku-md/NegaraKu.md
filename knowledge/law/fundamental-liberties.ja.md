@@ -22,10 +22,10 @@ appliesTo: "連邦憲法第2編が条文ごとに実際に何を保障し、ま�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "268ae1dcdac3c251"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

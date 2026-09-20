@@ -28,9 +28,9 @@ faq:
     a: "第十五編（Rating and Valuation、査定及び評価）である。s.127は地方自治体にその管轄区域内の保有物件に対し税率を賦課する権限を与えており、評価の基準はs.130に定められている。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "ef5c1db3291f9813"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -21,10 +21,10 @@ appliesTo: "マレーシアを恒久的に、または3か月を超えて離れ�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "00b0d352c02ac806"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

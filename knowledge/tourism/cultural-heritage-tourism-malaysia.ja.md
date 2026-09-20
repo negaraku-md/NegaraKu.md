@@ -31,11 +31,11 @@ faq:
     a: "すべての宗教施設で肩と膝を覆うこと。モスクではさらに、女性は髪を覆い、全員が靴を脱ぐことが求められる。ヒンドゥー教寺院と華人寺院でも、内殿に入る前に靴を脱ぐ必要がある。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "93767c9cc05e1d13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

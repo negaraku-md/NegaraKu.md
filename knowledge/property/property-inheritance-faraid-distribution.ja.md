@@ -30,11 +30,11 @@ faq:
     a: "不動産を含み、価額がRM500万未満の小規模遺産は、県土地事務所を通じて土地管理官（Pentadbir Tanah）が扱い、分配命令（Perintah Pembahagian）を発する。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "569aa98893242689"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -29,10 +29,11 @@ faq:
     a: "高リスク行為に関わっている者、妊娠中／生理中／授乳中の女性献血者、1980年から1996年の間に英国に通算6カ月以上滞在したことがある者、または1980年から現在までにヨーロッパの国に通算5年以上滞在したことがある者などが含まれる——いずれもvCJDのリスクによるものである。"
 
 lang: "ja"
+sourceContentHash: "241fb7f03a5cd3d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

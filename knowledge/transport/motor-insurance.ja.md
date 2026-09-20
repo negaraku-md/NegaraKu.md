@@ -22,10 +22,10 @@ appliesTo: "保険の保障の種類とその法的要件を理解したいと�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "d879ba5dcb3bf1ff"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -27,10 +27,10 @@ verificationNeeded:
   - "待ち時間に関する統計（例えば専門医の予約や待機手術の平均日数／時間数）は、執筆時点で確認可能な公式のKKM数値が見つからなかったため記載していない。待ち時間の実際については定性的にのみ説明している。"
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "e787862480b6ac9a"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

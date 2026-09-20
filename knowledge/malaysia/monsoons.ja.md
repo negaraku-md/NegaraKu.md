@@ -22,10 +22,10 @@ appliesTo: "マレーシアの天気と洪水リスクが季節によってな�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "d977d1d40dd0956b"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -28,9 +28,9 @@ faq:
     a: "2026年手数料（パスポート及びビザ）（改正）令（Fees (Passports and Visas) (Amendment) Order 2026）のもとで、10年期パスポートは18歳から59歳の申請者でRM350、60歳以上の高齢者でRM175であり、18歳以上のOKU（障害者）カード保有者は無料である。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "050995b2068c647c"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

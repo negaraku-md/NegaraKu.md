@@ -28,11 +28,11 @@ faq:
     a: "いいえ。セパンは2017年までフォーミュラ1グランプリを開催していました。現在このサーキットはMotoGPやその他のモータースポーツの催しに重点を置いています。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "e8c2bc7d28bb0f71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -33,11 +33,11 @@ faq:
     a: "認められている。2024年仲裁（改正）法が2026年1月1日に施行されて以降である。s.46A～46Iが法定の枠組みを創設し、s.46Cがメインテナンス及びチャンパティを禁じるコモンロー上の規則を廃止し、s.46Gが資金提供の取り決め及び資金提供者の身元の開示を義務付けている。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "dbaaa201e69ebe39"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

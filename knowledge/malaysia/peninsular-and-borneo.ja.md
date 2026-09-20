@@ -21,10 +21,10 @@ appliesTo: "旅行者、企業、そして「マレーシア」がときに、�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "da887efa0f358f15"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

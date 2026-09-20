@@ -24,10 +24,10 @@ verificationNeeded:
   - "STR 2026 公式 FAQ（PDF、bantuantunai.hasil.gov.my/FAQ/ に掲載）には資格条件と支給額に関するより詳しい説明があるが、執筆時点では当該 PDF に埋め込まれたフォントが自動テキスト抽出を妨げていた——読者はその PDF を自らダウンロードして確認するか、正確な個人情報については MySTR にログインすることが推奨される。"
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "353147e69093acce"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

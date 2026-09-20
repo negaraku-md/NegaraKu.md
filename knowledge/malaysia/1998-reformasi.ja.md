@@ -21,9 +21,9 @@ keyTakeaways:
 appliesTo: "マレーシアの1998年の経済的対応（資本規制とリンギット・ペッグ）、及び同年の政治的出来事について、資料に基づき追跡可能な記述を求める読者向け。本稿はいかなる解釈も支持することなく、中立的に提示する。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "3f82c848946b8ea4"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

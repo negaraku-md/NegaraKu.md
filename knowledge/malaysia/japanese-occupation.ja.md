@@ -20,9 +20,9 @@ keyTakeaways:
 appliesTo: "学生、教師、研究者、そして1941年から1945年にかけてのマラヤとボルネオの時期について、性格づけや苦難の比較を伴わない、出典に基づく年表と記述的概観を求める一般読者向け。"
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "8db8504e8559d165"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

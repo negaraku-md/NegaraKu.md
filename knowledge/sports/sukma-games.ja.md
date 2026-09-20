@@ -29,11 +29,11 @@ faq:
     a: "SUKMAは、青少年選手が才能を発揮するための州の舞台です。有望な選手は、MSNの人材・後継選手育成プログラムへ、さらには国際大会に向けたエリート選手を育成するISNのProgram Podiumへと引き上げられます。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "82263beab0c4a71a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

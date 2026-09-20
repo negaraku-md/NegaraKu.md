@@ -34,10 +34,11 @@ faq:
     a: "国有企業及び指定独占企業、知的財産、労働、環境、政府調達、電子商取引及び越境データ移転、並びに投資（投資家対国家の紛争解決を含む）に関する拘束力のある規則である。マレーシアは経過期間とサイドレター——例えばPETRONASの保護や自国の国有企業に対する柔軟性——を確保した。"
 
 lang: "ja"
+sourceContentHash: "9c8e25e6d3236954"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

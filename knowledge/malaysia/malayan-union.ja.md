@@ -21,9 +21,9 @@ keyTakeaways:
 appliesTo: "マレーシア憲法の起源を理解したい学生、研究者及び一般読者向け——特に、マレー統治者の地位と市民権の条件が、ムルデカ以前にどのように初めて書面の形で定められたかについて。"
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "f8c770a08f5a6831"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

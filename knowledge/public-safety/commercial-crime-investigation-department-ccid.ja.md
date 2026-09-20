@@ -32,11 +32,11 @@ faq:
     a: "NSRC（国家詐欺対応センター）は、国家金融犯罪センター（NFCC）、マレーシア王立警察、マレーシア国立銀行、MCMC、および金融機関と電気通信事業者による共同事業です。首相府が2022年10月14日に発表し、ホットライン997を通じてオンライン金融詐欺への迅速な対応拠点として機能します。CCIDはこの活動に関与するPDRMの部署の一つです。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "9fa83d15365c9fba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

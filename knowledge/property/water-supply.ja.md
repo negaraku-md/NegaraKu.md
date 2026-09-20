@@ -22,12 +22,12 @@ verificationNeeded:
   - "サバとサラワクに固有の法的枠組み（該当する州の法令／条例の名称）は、本草稿の作成時に公式の情報源で直接確認できなかった。PAAB は両州が PAAB モデルから一般に除外されていることを確認しているが、完全な法的詳細は再確認する必要がある。"
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "reviewed"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
-sourceContentHash: null
+sourceContentHash: "fb8c6f5861721815"
 revision: 0
 revisions:
   - revision: 0

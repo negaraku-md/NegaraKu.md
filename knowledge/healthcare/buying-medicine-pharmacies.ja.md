@@ -19,9 +19,9 @@ keyTakeaways:
 appliesTo: "マレーシアの官立又は民間の薬局で医薬品を購入する人で、なぜ一部の医薬品には処方箋が必要でそれ以外は不要なのか、またその過程における登録薬剤師の役割を理解したい人向け。"
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "4ae828e3e8725114"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

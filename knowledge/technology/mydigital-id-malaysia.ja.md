@@ -36,11 +36,11 @@ faq:
     a: "核心的な問題は、政府が国民のデータを保持する場合のデータ保護である。マレーシア弁護士会（Majlis Peguam）の前会長Salim Bashirは、登録を義務付けようとするいかなる試みも、連邦法を通じて国会が制定し、2010年個人データ保護法（PDPA）と整合させなければならないと強調するとともに、プライバシー侵害とデータセキュリティを重大な課題であると評した。前クラン選出国会議員Charles Santiagoとマレーシア弁護士会の前会長は、法律で登録を義務付けるのではなく、まず国民の信頼を築くよう政府に促してきた。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "45c9a9d998caed78"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

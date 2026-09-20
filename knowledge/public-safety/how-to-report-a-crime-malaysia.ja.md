@@ -41,14 +41,14 @@ faq:
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "0ae54502024bdaab"
 
 verificationNeeded:
   - "e-Reportingの資格要件（マレーシア国民、18歳以上）と届け出可能な項目の完全な一覧——公式ポータルereporting.rmp.gov.myは直接の確認のために接続できなかった；公式ポータルに照らして確認すること。"
   - "非国民が本当にe-Reportingから完全に除外されているか否か（草稿ではこの除外がもはや明示的に述べられていない）。"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

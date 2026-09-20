@@ -41,11 +41,11 @@ faq:
     a: "正確な日付には議論がある。全国統括団体の設立を1926年とする記録もあれば、シンガポールを拠点とするマラヤサッカー協会（Football Association of Malaya）がマラヤカップの運営を引き継いだ1933年を指す記録もある。明確で確認できるのは、今日における全国統括団体としての役割、AFC加盟団体としての立場、そして1984年のAFF創設団体としての地位である。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "ee9fdc30adb8894c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

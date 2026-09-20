@@ -32,11 +32,11 @@ faq:
     a: "Rapid Busは、乗客の少ない19路線——MRTフィーダー16路線と標準3路線、網全体の約7%——を、予約制のRapid KL On-Demandバン便に転換し始めました。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "ef9c4ac09cb054b2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

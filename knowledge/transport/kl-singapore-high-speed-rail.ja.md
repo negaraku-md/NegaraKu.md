@@ -29,11 +29,11 @@ faq:
     a: "いいえ。RTSリンクはジョホールバルとウッドランズを結ぶ短距離の越境シャトルで、2026年の開業を目指しています。HSRは、クアラルンプールとシンガポールの間に計画されている、約350kmの別個の高速鉄道路線です。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "b505d87f2fe5cea1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

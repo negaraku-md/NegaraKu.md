@@ -32,10 +32,11 @@ faq:
     a: "常駐する外国大使館および高等弁務官事務所の大半はクアラルンプールとプトラジャヤにあり、一部の国はペナン、ジョホールバル、コタキナバル、クチンなどの都市でも領事館を運営している。"
 
 lang: "ja"
+sourceContentHash: "7bb552ee1b28a75c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -34,11 +34,11 @@ faq:
     a: "できる。改装及び改良の費用のような、不動産の価値を増加又は保存する経費は、有効な領収書及び書類で裏付けられていれば控除できる。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "86d17a7e3d5558a5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

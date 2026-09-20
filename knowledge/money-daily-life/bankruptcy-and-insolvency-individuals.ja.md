@@ -30,11 +30,11 @@ faq:
     a: "破産は1967年破産法（Insolvency Act 1967、Act 360）のもとでの裁判所手続である。一方、AKPKのDMPは、債務を再編するために任意で参加する（裁判所命令ではない）マレーシア国立銀行の機関のもとでのプログラムである。BNMによれば、AKPKのサービスは無料で提供される。DMPは、すでに破産を宣告された個人には開かれていない。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

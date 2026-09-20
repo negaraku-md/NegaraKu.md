@@ -34,11 +34,11 @@ faq:
     a: "します。基礎フェーズ（最初の3〜5年）の間、BNMの枠組みは各デジタル銀行の総資産をRM30億を超えないよう制限します。これにより、BNMは銀行が規模を拡大する前にその実績とリスクを観察できます。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "586acae3d2012d4e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

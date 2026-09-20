@@ -20,9 +20,9 @@ keyTakeaways:
 appliesTo: "マレーシアへ移住する誰もが対象——帰国するマレーシア人、新たに採用された外国人駐在員、MM2H参加者——であり、何を運ぶか、そして自分名義の車を運ぶことが現実的かを判断しようとしている人向け。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "322f701876a3d3fe"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

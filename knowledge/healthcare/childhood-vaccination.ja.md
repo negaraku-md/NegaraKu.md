@@ -26,9 +26,9 @@ verificationNeeded:
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -40,7 +40,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: null
+sourceContentHash: "e3c51524a621f167"
 sources:
   - title: "Jadual Imunisasi Kebangsaan (Kemaskini Ogos 2023)"
     url: "https://infosihat.moh.gov.my/penerbitan-multimedia/infografik/item/jadual-imunisasi-kebangsaan-kemaskini-ogos-2023.html"

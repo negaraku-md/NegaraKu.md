@@ -29,9 +29,9 @@ faq:
     a: "2024年3月1日から8%であり、以前の6%から引き上げられた。ただし、飲食、駐車場、物流及び通信サービスは6%のまま据え置かれている。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "e4e06f1218191c40"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

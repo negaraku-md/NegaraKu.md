@@ -29,11 +29,11 @@ faq:
     a: "2020年12月3日の特別協議会議（Muzakarah Khas）は、COVID-19ワクチンの使用は許容であり、政府が指定する層にはその接種が義務であると裁定した。ただし、使用されるワクチンがハラルかつタイイブ（tayyiban）であることを条件とする。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "a63cd25d7840519b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

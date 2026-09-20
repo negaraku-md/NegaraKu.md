@@ -19,9 +19,9 @@ appliesTo: "歴史の授業やソーシャルメディアでガンガ・ヌガ�
 
 lang: "ja"
 masterLanguage: "ms"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "4947488c0b12f663"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -33,9 +33,9 @@ faq:
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "abe1f652bf3edc8b"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

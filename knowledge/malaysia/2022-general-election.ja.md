@@ -32,10 +32,10 @@ verificationNeeded:
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
+translationStatus: "in-sync"
+sourceContentHash: "acdebe065daafc2e"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 published: null

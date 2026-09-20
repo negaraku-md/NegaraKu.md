@@ -19,9 +19,9 @@ keyTakeaways:
 appliesTo: "マレーシアの立国憲法を実際に誰が、どのような指示のもとで起草したのか、そして一つの委員会報告書がいかにして独立国家の法律となったのかを理解したい学生、研究者及び一般読者。"
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "274cb6f4918d991f"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

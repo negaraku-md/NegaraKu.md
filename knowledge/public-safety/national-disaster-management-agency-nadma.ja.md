@@ -29,11 +29,11 @@ faq:
     a: "首相が議長を務める国家安全保障会議（MKN）の会合で2024年8月1日に承認されたNADMA指令第1号（Arahan NADMA No. 1）により置き換えられた。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "cb54d0894eec9ad2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

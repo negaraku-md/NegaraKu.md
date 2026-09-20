@@ -33,11 +33,11 @@ faq:
     a: "はい。DNBは1998年通信・マルチメディア法のもとで免許を受けており、MCMCの監督下にある。単一卸売ネットワークモデルは終了した。政府は2023年にデュアルネットワークモデルへの移行を決定し、U Mobileが第2の5Gネットワークとして選定された（2026年1月に開始）。MCMCは両方のネットワークを規制している。"
 
 lang: "ja"
-sourceContentHash: null
+sourceContentHash: "5e417b42cf91ed1a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -22,9 +22,9 @@ appliesTo: "連邦憲法の特定の部分を変更するために国会で実�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "pending"
-sourceContentHash: null
-status: "reviewed"
+translationStatus: "in-sync"
+sourceContentHash: "34255dffcbbb4b20"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
