@@ -4,7 +4,7 @@ Living tracker of open work toward the mission **"let the world know about Malay
 Update this file as tasks move; check items off when done. Owner tags: **[you]** = user
 action (accounts, credentials, approvals — Claude can't do these), **[me]** = Claude.
 
-_Last updated: 2026-09-18._
+_Last updated: 2026-09-20._
 
 ---
 
@@ -49,31 +49,32 @@ The 4 discovery modes and where we stand:
 
 ---
 
-## 📦 Held locally, waiting for "push"
-- [ ] LinkedIn **poster engine** (commits `46a17765`, `c9b20d98`) — inert until the token is added
-- [ ] LinkedIn **banner** + generator (commit `3fd37d80`)
-- [ ] This tracker (`docs/plans/outstanding.md`)
+## 🌏 Japanese (`ja`) — ✅ FULLY LAUNCHED 2026-09-20
+- [x] Phases 0–2 (foundation, fonts, `/ja` routes, chrome)
+- [x] **Phase 3** — full corpus: all **1,094** masters translated to `.ja.md`
+- [x] **Phase 4** — open launch: `ja` in LOCALES, indexed, sitemap, switcher/hreflang; all 1,094 **published** (890 non-sensitive + 204 sensitive signed off by reviewer `ashton-tan`); deploy green; verified live Japanese on real pages
+- [x] Post-launch chrome gaps closed (subcategory TOPICS labels, language-availability badge, FAQ count, dashboard FB panel — see [[negaraku-language-launch-checklist]])
+- [x] **Facebook** activated (in LANGS + LANG_POLICY; first ja post live; auto-posts 1/day; Page website = `negaraku.md/ja`)
 
----
-
-## 🌏 Japanese (`ja`) language launch — IN PROGRESS
-- [x] **Phase 0** — foundation + fonts + `/ja` routes (soft launch, noindex). Build 8,151 pages, verified. Pushed (`eb8fa19c`)
-- [x] **Phase 1** — pilot 8 cross-pillar articles → Japanese verified (page + OG in Noto Sans JP). Commit `3c8bda27` (local)
-- [x] **Phase 2** — chrome: i18n 113 keys, ~1000 `L()` calls (41 files), taxonomy (82), typed objects, plumbing. Build green, 0 leakage. Commit `f202ccdd` (local)
-- [ ] **Phase 3** — full corpus (~1,073) via multi-agent Workflow batches (JA money = zh 億/万 convention)
-- [ ] **Phase 4** — review + OPEN LAUNCH (add `ja` to LOCALES, drop sitemap filter, wire FB Page)
-- [ ] Then **Korean (`ko`)** — reuses everything above
+## 🇰🇷 Korean (`ko`) — NEXT LANGUAGE (not started)
+- [ ] **[me]** Corpus translation (~1,094) via multi-agent waves — reuses the ja pipeline
+- [ ] **[me]** Chrome: i18n keys, `L()` calls, taxonomy, **subcategories.ts + intros.ts** (the ja gaps — do up front), badge/FAQ/dashboard arrays
+- [ ] **[me]** Open launch: `ko` → LOCALES + sitemap + astro i18n; publish (sensitive need reviewer)
+- [ ] **[me]** FB activation: `ko` → LANGS + LANG_POLICY + facebook.mjs touchpoints (KO page id `1308994995630346` already recorded); ko Page website → `negaraku.md/ko`
+- [ ] **[you]** Nothing new — ko FB Page already exists + assigned to the system user
 
 ## 🛠 Other standing project items
 - [ ] **Facebook comment-mode** — blocked by App Review / Advanced Access (parked; caption-mode is live)
 - [ ] **Compliance calendar** — planned further redesign
 - [ ] **FB fetch-timeout hardening** (reliability follow-up)
 - [ ] Optional: switch ms IG flagship login email to `ig-ms@negaraku.md`
+- [ ] Minor ja residuals (accepted, left for ta too): OG-card pillar/sensitivity labels render EN on `/ja` & `/ta` cards (`build-og.mjs` L helper); `llms.ts` INTRO is ms/en/zh only; `intros.ts` CATEGORY_INTRO export is unwired dead code
 
 ---
 
 ## ✅ Recently completed (for context)
-- Hugging Face dataset **LIVE** (`negaraku-md/negaraku-md`, 4292 rows)
+- **Japanese fully launched + published + on Facebook** (2026-09-20)
+- Hugging Face dataset **LIVE** (`negaraku-md/negaraku-md`; now includes `ja`)
 - Wikidata QID sweep + NegaraKu.md's own item Q141449495
-- LinkedIn Company Page fully set up (incl. EN/MS/ZH localization + 6:1 banner)
+- LinkedIn Company Page fully set up (EN/MS/ZH localization + 6:1 banner); engine + banner pushed to `main` (inert until token)
 - Instagram flagship `@negaraku.md` provisioned
