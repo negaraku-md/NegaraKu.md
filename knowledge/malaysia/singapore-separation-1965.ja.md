@@ -32,9 +32,9 @@ lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "0de005f939d65ebf"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 revision: 0
 revisions:

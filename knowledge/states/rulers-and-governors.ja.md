@@ -40,9 +40,9 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "0441017d6712ffd2"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 revision: 0
 revisions:

@@ -37,9 +37,9 @@ lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "924aa904a876b274"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 revision: 0
 revisions:

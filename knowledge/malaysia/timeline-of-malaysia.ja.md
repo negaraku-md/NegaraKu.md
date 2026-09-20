@@ -39,9 +39,9 @@ sourceContentHash: "e58ff5504e70aafc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-18
 reviewed: 2026-08-18
 reviewDue: 2027-08-18

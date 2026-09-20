@@ -21,9 +21,9 @@ lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "b8424f95164f1085"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 revision: 0
 revisions:

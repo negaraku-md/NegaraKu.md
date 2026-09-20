@@ -26,9 +26,9 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "3046b79972e90a21"
 
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 revision: 0
 revisions:
