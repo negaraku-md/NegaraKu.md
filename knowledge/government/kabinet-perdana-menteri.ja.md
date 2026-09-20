@@ -41,7 +41,7 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "0f9a6fea7774269c"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"

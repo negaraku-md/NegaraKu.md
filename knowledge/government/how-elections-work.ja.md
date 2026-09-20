@@ -40,7 +40,7 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "d5825383db9e28fe"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
