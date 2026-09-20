@@ -11,7 +11,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 
 export const GRAPH = 'https://graph.facebook.com/v21.0';
-export const LANGS = ['ms', 'en', 'zh', 'ta']; // ms at "/", en at "/en", zh at "/zh", ta at "/ta"
+export const LANGS = ['ms', 'en', 'zh', 'ta', 'ja']; // ms at "/", en at "/en", zh at "/zh", ta at "/ta", ja at "/ja"
 
 // Posting WINDOWS = Malaysia's daily engagement peaks. The cron fires one tick per
 // window (see .github/workflows/facebook-backlog.yml: 08:17 / 13:17 / 20:17 MYT).
@@ -41,7 +41,10 @@ export const LANG_POLICY = {
   en: { enabled: true, perDay: 5, since: '2026-09-09', windows: ALL_WINDOWS },
   zh: { enabled: true, perDay: 5, since: '2026-09-10', windows: ALL_WINDOWS },
   ta: { enabled: true, perDay: 5, since: '2026-09-11', windows: ALL_WINDOWS },
-  // ja/ko: not in LANGS yet (no corpus); add here + to LANGS when they launch.
+  // ja ACTIVATED 2026-09-20 — Japanese is a full public language (1,094 published
+  // articles at /ja); its Page is assigned to the system user, so it's in LANGS.
+  ja: { enabled: true, perDay: 5, since: '2026-09-20', windows: ALL_WINDOWS },
+  // ko: not in LANGS yet (no corpus); add here + to LANGS when it launches.
 };
 
 // One Facebook Page PER language. Page IDs are PUBLIC (they appear in each Page's
@@ -58,9 +61,10 @@ export const PAGES = {
   // articles at /ta) and its Page is assigned to the "NegaraKu Poster" system user,
   // so it's in LANGS above and posts like ms/en/zh.
   ta: process.env.FB_PAGE_ID_TA || '1317515884777917',
-  // ja/ko Pages exist + are assigned to the system user, but are NOT in LANGS: those
-  // languages have no PUBLISHED content / no /ja /ko routes yet, so there is nothing
-  // to post. Activate each by adding it to LANGS once its corpus ships.
+  // ja ACTIVATED 2026-09-20 (full public language at /ja, Page assigned to the
+  // system user, in LANGS above). ko's Page exists + is assigned but is NOT in
+  // LANGS: no published /ko corpus yet, so there is nothing to post — activate it
+  // by adding it to LANGS + LANG_POLICY once its corpus ships.
   ja: process.env.FB_PAGE_ID_JA || '1234264816444540',
   ko: process.env.FB_PAGE_ID_KO || '1308994995630346',
 };
@@ -78,7 +82,7 @@ export function articleBases(files) {
     const p = f.replace(/\\/g, '/');
     if (!p.startsWith('knowledge/') || !p.endsWith('.md')) continue;
     if (p.startsWith('knowledge/about/')) continue;
-    bases.add(p.replace(/\.(ms|en|zh|ta)\.md$/, '').replace(/\.md$/, ''));
+    bases.add(p.replace(/\.(ms|en|zh|ta|ja|ko)\.md$/, '').replace(/\.md$/, ''));
   }
   return [...bases];
 }
@@ -140,9 +144,9 @@ function catNameMap() {
       path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../src/lib/categories.ts'),
       'utf8',
     );
-    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'(?:\s*,\s*ta:\s*'([^']*)')?/g;
+    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'(?:\s*,\s*ta:\s*'([^']*)')?(?:\s*,\s*ja:\s*'([^']*)')?/g;
     let m;
-    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4], ta: m[5] || '' };
+    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4], ta: m[5] || '', ja: m[6] || '' };
   } catch { /* graceful — no localized names, category tag is skipped */ }
   return _catNames;
 }
@@ -180,7 +184,7 @@ export function keywordTag(kw) {
   return t.length <= 25 ? t : '';
 }
 
-const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா' };
+const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா', ja: '#マレーシア' };
 // Tamil block U+0B80–U+0BFF — used so ta posts keep only Tamil-script (or numeric) tags.
 const hasTamil = (s) => /[஀-௿]/.test(String(s));
 const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));
@@ -195,7 +199,7 @@ const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));
 export function hashtags(data, lang = 'en') {
   const okForLang = (t) =>
     /\d/.test(t) || // a numeric reference (e.g. "#Act777") is language-neutral
-    (lang === 'zh' ? hasCJK(t)
+    (lang === 'zh' || lang === 'ja' ? hasCJK(t) // zh/ja posts: CJK/kana tags only
       : lang === 'ta' ? hasTamil(t) // ta posts: Tamil-script tags only
         : !hasCJK(t) && !hasTamil(t)); // ms/en: Latin only (no CJK/Tamil leak)
   const out = [COUNTRY_TAG[lang] || '#Malaysia', '#NegaraKu'];

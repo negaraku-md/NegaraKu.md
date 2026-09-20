@@ -468,7 +468,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
                 <span class="chip ${r.sens ? 'sens' : ''}">${r.sens ? '🔒 ' : ''}${r.cls}</span>
                 ${r.rev ? `<span class="chip ${r.revOverdue ? 'overdue' : 'dim'}"${r.revOverdue ? ` title="${I18N.overdue}"` : ''}>${r.revOverdue ? '⚠ ' : ''}${I18N.nextReview}: ${r.rev}</span>` : ''}
                 <span class="chip">${I18N.master}: <a class="mlink" href="${langHref(r.ml.toLowerCase(), r.p)}" title="${r.t} — ${r.ml}">${r.ml}</a></span>
-                <span class="chip langs">${['ms','en','zh','ta'].map((l) => r.langs.includes(l)
+                <span class="chip langs">${['ms','en','zh','ta','ja'].map((l) => r.langs.includes(l)
                   ? `<a class="on" href="${langHref(l, r.p)}" title="${r.t} — ${l.toUpperCase()}">${l.toUpperCase()}</a>`
                   : `<span class="off">${l.toUpperCase()}</span>`).join('')}</span>
                 <span class="chip">${r.src} ${I18N.sources}</span>

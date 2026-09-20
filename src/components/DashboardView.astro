@@ -183,7 +183,7 @@ const gscMonths = Object.keys(gsc.byMonth ?? {}).length;
 // Empty until the archive workflow has run and posts exist.
 const fb = getFacebook();
 const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語' };
-const fbRows = (['ms', 'en', 'zh'] as const)
+const fbRows = (['ms', 'en', 'zh', 'ta', 'ja'] as const)
   .map((l) => {
     const p = fb.pages?.[l] ?? {};
     return { lang: l, label: p.name || `NegaraKu.md · ${FB_LANG[l]}`, pageId: p.pageId, followers: p.followers, posts: p.posts, reactions: p.reactions, comments: p.comments, shares: p.shares };
