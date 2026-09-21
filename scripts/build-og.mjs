@@ -262,7 +262,10 @@ async function main() {
     console.warn('[og] sharp not installed — wrote default.svg only. `npm i -D sharp` to enable PNG.');
     return;
   }
-  const toPng = (svg, file) => sharp(Buffer.from(svg)).png({ compressionLevel: 9 }).toFile(file);
+  // Palette (indexed) PNG at high quality: OG cards are a flat brand palette +
+  // gold text + faint watermark, so quantisation cuts ~65% of bytes with no
+  // visible loss — and stays PNG (safe as an og:image for every platform).
+  const toPng = (svg, file) => sharp(Buffer.from(svg)).png({ compressionLevel: 9, palette: true, quality: 90, effort: 10 }).toFile(file);
   // Localized default cards: /og/default.png (ms) + /og/{en,zh}/default.png.
   await mkdir(path.join(OUT_DIR, 'en'), { recursive: true });
   await mkdir(path.join(OUT_DIR, 'zh'), { recursive: true });
