@@ -1,0 +1,526 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getPillar, PILLARS, loc } from '@/lib/categories';
+import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing } from '@/lib/apidata';
+import { t, localePath } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const d = getDashboard();
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const titleByKey = new Map<string, string>();
+for (const r of d.registry) titleByKey.set(`${r.category}/${r.slug}`, r.title[locale] ?? r.title.ms);
+
+// AI-crawler activity. The edge Worker tags every hit's bucket (readers/search/
+// ai) + the crawler's canonical name; this rolls the per-page `ai` buckets up
+// across the whole corpus — by crawler, by pillar, and the most-crawled
+// articles. All-time (snapshot + live tail).
+const analytics = getAnalytics();
+const aiTotalFor = (b: typeof analytics[string]['ai']) =>
+  b == null ? 0 : typeof b === 'number' ? b : (b.total ?? 0);
+let aiTotal = 0;
+let aiPages = 0;
+const aiByBot = new Map<string, number>();
+const aiByPillar = new Map<string, number>();
+const aiTopRaw: { key: string; total: number }[] = [];
+for (const [key, row] of Object.entries(analytics)) {
+  const total = aiTotalFor(row.ai);
+  if (total <= 0) continue;
+  aiTotal += total;
+  aiPages++;
+  aiTopRaw.push({ key, total });
+  const byBot = row.ai && typeof row.ai !== 'number' ? (row.ai.byBot ?? {}) : {};
+  for (const [bot, n] of Object.entries(byBot)) aiByBot.set(bot, (aiByBot.get(bot) ?? 0) + n);
+  const pillar = getPillar(key.split('/')[0]) ?? 'understand';
+  aiByPillar.set(pillar, (aiByPillar.get(pillar) ?? 0) + total);
+}
+const aiBots = [...aiByBot.entries()].sort((a, b) => b[1] - a[1]).map(([bot, n]) => ({ bot, n }));
+const aiBotMax = Math.max(1, ...aiBots.map((b) => b.n));
+const aiPillars = PILLARS.map((pd) => ({ id: pd.id, name: loc(pd.name, locale), icon: pd.icon, n: aiByPillar.get(pd.id) ?? 0 }))
+  .filter((p) => p.n > 0)
+  .sort((a, b) => b.n - a.n);
+const aiPillarMax = Math.max(1, ...aiPillars.map((p) => p.n));
+const aiTop = aiTopRaw.sort((a, b) => b.total - a.total).slice(0, 8)
+  .map((x) => ({ ...x, title: titleByKey.get(x.key) ?? x.key }));
+const aiTopMax = Math.max(1, ...aiTop.map((x) => x.total));
+
+// Traffic by channel — where human readers arrive from (search / AI / social /
+// messaging / other / direct), classified from the referrer + UTM at the edge
+// and folded per page. Same all-time snapshot machinery as the buckets above.
+const CHANNEL_META: Record<string, { label: string; icon: string }> = {
+  search: { label: L('Carian', 'Search', '搜索', 'தேடல்', '検索'), icon: '🔍' },
+  ai: { label: L('Pembantu AI', 'AI assistants', 'AI 助手', 'AI உதவியாளர்கள்', 'AI アシスタント'), icon: '✨' },
+  social: { label: L('Media sosial', 'Social', '社交媒体', 'சமூக ஊடகம்', 'ソーシャル'), icon: '💬' },
+  messaging: { label: L('Pemesejan', 'Messaging', '即时通讯', 'செய்தியிடல்', 'メッセージング'), icon: '📨' },
+  other: { label: L('Laman lain', 'Other sites', '其他网站', 'பிற தளங்கள்', 'その他のサイト'), icon: '🌐' },
+  direct: { label: L('Terus', 'Direct', '直接访问', 'நேரடி', '直接'), icon: '⤵' },
+};
+const CH_ORDER = ['search', 'ai', 'social', 'messaging', 'other', 'direct'];
+const refByChannel = new Map<string, number>();
+const refBySource = new Map<string, number>();
+let refTotal = 0;
+for (const row of Object.values(analytics)) {
+  const ref = row.ref;
+  if (!ref) continue;
+  for (const [ch, n] of Object.entries(ref.byChannel ?? {})) { refByChannel.set(ch, (refByChannel.get(ch) ?? 0) + n); refTotal += n; }
+  for (const [src, n] of Object.entries(ref.bySource ?? {})) refBySource.set(src, (refBySource.get(src) ?? 0) + n);
+}
+const refChannels = [...refByChannel.keys()]
+  .sort((a, b) => CH_ORDER.indexOf(a) - CH_ORDER.indexOf(b))
+  .map((id) => ({ id, label: CHANNEL_META[id]?.label ?? id, icon: CHANNEL_META[id]?.icon ?? '•', n: refByChannel.get(id) ?? 0 }));
+const refChMax = Math.max(1, ...refChannels.map((c) => c.n));
+const refSources = [...refBySource.entries()].filter(([s]) => s !== 'direct')
+  .sort((a, b) => b[1] - a[1]).slice(0, 10).map(([source, n]) => ({ source, n }));
+const refSourceMax = Math.max(1, ...refSources.map((s) => s.n));
+
+// Google Search performance (archive: analytics/gsc.json) — trailing-90-day
+// totals, impressions grouped to pillars from the per-category split, and top
+// queries. Empty until the Search Console archive workflow has run.
+const gsc = getSearchConsole();
+const gscTotals = gsc.latest?.totals;
+const gscHas = !!(gscTotals && (gscTotals.impressions || gscTotals.clicks));
+const gscByPillar = new Map<string, { clicks: number; impressions: number }>();
+for (const [cat, v] of Object.entries(gsc.latest?.byCategory ?? {})) {
+  const pid = getPillar(cat) ?? 'understand';
+  const e = gscByPillar.get(pid) ?? { clicks: 0, impressions: 0 };
+  e.clicks += v.clicks; e.impressions += v.impressions;
+  gscByPillar.set(pid, e);
+}
+const gscPillars = PILLARS.map((pd) => ({ id: pd.id, name: loc(pd.name, locale), icon: pd.icon, ...(gscByPillar.get(pd.id) ?? { clicks: 0, impressions: 0 }) }))
+  .filter((p) => p.impressions > 0).sort((a, b) => b.impressions - a.impressions);
+const gscPillarMax = Math.max(1, ...gscPillars.map((p) => p.impressions));
+const gscQueries = (gsc.latest?.topQueries ?? []).slice(0, 8);
+const gscQueryMax = Math.max(1, ...gscQueries.map((q) => q.impressions));
+const gscMonths = Object.keys(gsc.byMonth ?? {}).length;
+
+// Facebook engagement (archive: analytics/facebook.json) — per-language Page numbers.
+const fb = getFacebook();
+const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語' };
+const fbRows = (['ms', 'en', 'zh', 'ta', 'ja'] as const)
+  .map((l) => {
+    const p = fb.pages?.[l] ?? {};
+    return { lang: l, label: p.name || `NegaraKu.md · ${FB_LANG[l]}`, pageId: p.pageId, followers: p.followers, posts: p.posts, reactions: p.reactions, comments: p.comments, shares: p.shares };
+  })
+  .filter((r) => r.pageId);
+const fbTotals = fb.totals;
+const fbHas = !!(fbTotals && (fbTotals.followers || fbTotals.posts || fbTotals.reactions || fbTotals.comments || fbTotals.shares));
+
+// On-site engagement (beacon → analytics.json.engage per article): avg dwell +
+// scroll, sample-weighted overall and by pillar; most-engaging articles by dwell.
+const fmtDur = (sec: number) => (sec >= 60 ? `${Math.floor(sec / 60)}m ${sec % 60}s` : `${sec}s`);
+let engSecsW = 0, engScrollW = 0, engSamples = 0;
+const engByPillar = new Map<string, { secsW: number; n: number }>();
+const engPagesRaw: { key: string; avgSeconds: number; avgScroll: number; samples: number }[] = [];
+for (const [key, row] of Object.entries(analytics)) {
+  const e = row.engage;
+  if (!e || !e.samples) continue;
+  engSamples += e.samples;
+  engSecsW += e.avgSeconds * e.samples;
+  engScrollW += e.avgScroll * e.samples;
+  engPagesRaw.push({ key, ...e });
+  const pid = getPillar(key.split('/')[0]) ?? 'understand';
+  const pp = engByPillar.get(pid) ?? { secsW: 0, n: 0 };
+  pp.secsW += e.avgSeconds * e.samples; pp.n += e.samples;
+  engByPillar.set(pid, pp);
+}
+const engHas = engSamples > 0;
+const engAvgSecs = engHas ? Math.round(engSecsW / engSamples) : 0;
+const engAvgScroll = engHas ? Math.round(engScrollW / engSamples) : 0;
+const engPillars = PILLARS.map((pd) => {
+  const p = engByPillar.get(pd.id);
+  return { id: pd.id, name: loc(pd.name, locale), icon: pd.icon, avg: p && p.n ? Math.round(p.secsW / p.n) : 0 };
+}).filter((p) => p.avg > 0).sort((a, b) => b.avg - a.avg);
+const engPillarMax = Math.max(1, ...engPillars.map((p) => p.avg));
+const engTop = engPagesRaw.sort((a, b) => b.avgSeconds - a.avgSeconds).slice(0, 8)
+  .map((x) => ({ ...x, title: titleByKey.get(x.key) ?? x.key }));
+const engTopMax = Math.max(1, ...engTop.map((x) => x.avgSeconds));
+
+// Bing Webmaster (archive: analytics/bing.json) — also backs Copilot & ChatGPT-search.
+const bing = getBing();
+const bingT = bing.latest?.totals;
+const bingHas = !!(bingT && (bingT.impressions || bingT.clicks));
+const bingQueries = (bing.latest?.topQueries ?? []).slice(0, 8);
+const bingQueryMax = Math.max(1, ...bingQueries.map((q) => q.impressions));
+const bingMonths = Object.keys(bing.byMonth ?? {}).length;
+
+// Anything measured yet? Drives the "trends are accruing" lead note.
+const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || engHas;
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
+    { label: t('nav.analytics', locale) },
+  ]}
+  title={t('nav.analytics', locale)}
+  desc={L(
+    'Bagaimana dunia menemui NegaraKu.md — saluran, carian, AI, media sosial dan penglibatan pembaca.',
+    'How the world finds NegaraKu.md — channels, search, AI, social and reader engagement.',
+    '世界如何发现 NegaraKu.md——渠道、搜索、AI、社交媒体与读者参与。',
+    'உலகம் NegaraKu.md-ஐ எப்படிக் கண்டறிகிறது — சேனல்கள், தேடல், AI, சமூக ஊடகம் மற்றும் வாசக ஈடுபாடு.',
+    '世界が NegaraKu.md をどう見つけているか — チャネル、検索、AI、ソーシャル、読者エンゲージメント。',
+  )}
+/>
+
+{!anyTraffic && (
+  <section class="container block">
+    <p class="acc-note">{L(
+      'Pengumpulan trend baru bermula — carta akan terisi apabila lawatan, carian dan rujukan terkumpul dari semasa ke semasa.',
+      'Trend collection has just begun — charts fill in as visits, searches and referrals accumulate over time.',
+      '趋势数据刚开始采集——随着访问、搜索与来源随时间积累，图表将逐步填充。',
+      'போக்கு சேகரிப்பு இப்போது தொடங்கியது — வருகைகள், தேடல்கள் மற்றும் பரிந்துரைகள் காலப்போக்கில் சேரும்போது விளக்கப்படங்கள் நிரம்பும்.',
+      'トレンドの収集が始まったばかりです — 訪問・検索・参照が時間とともに蓄積されるにつれ、グラフが埋まります。',
+    )}</p>
+  </section>
+)}
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー')}</span></header>
+    <div class="psec-body">
+      {aiTotal === 0 ? (
+        <p class="hint">{L('Belum ada lawatan perayap AI direkodkan lagi.', 'No AI-crawler visits recorded yet.', '尚未记录到 AI 爬虫访问。', 'இதுவரை AI கிராலர் வருகைகள் எதுவும் பதிவாகவில்லை.', 'AI クローラーの訪問はまだ記録されていません。')}</p>
+      ) : (
+        <>
+          <p class="hint">
+            {L(
+              `Perayap AI/LLM telah mengambil laman ini ${aiTotal.toLocaleString()} kali merentas ${aiPages.toLocaleString()} artikel, daripada ${aiBots.length} perayap berbeza — sepanjang masa.`,
+              `AI/LLM crawlers have fetched this site ${aiTotal.toLocaleString()} times across ${aiPages.toLocaleString()} articles, from ${aiBots.length} distinct crawlers — all-time.`,
+              `AI/LLM 爬虫已抓取本站 ${aiTotal.toLocaleString()} 次，覆盖 ${aiPages.toLocaleString()} 篇文章，来自 ${aiBots.length} 个不同的爬虫——累计。`,
+              `AI/LLM கிராலர்கள் இந்தத் தளத்தை ${aiTotal.toLocaleString()} முறை ${aiPages.toLocaleString()} கட்டுரைகளில், ${aiBots.length} வெவ்வேறு கிராலர்களிடமிருந்து பெற்றுள்ளன — எல்லா காலமும்.`,
+              `AI/LLM クローラーはこのサイトを ${aiPages.toLocaleString()} 記事にわたり ${aiTotal.toLocaleString()} 回、${aiBots.length} 種類のクローラーから取得しました — 累計。`,
+            )}
+          </p>
+          <div class="ai-grid">
+            <div>
+              <p class="ai-h">{L('Mengikut perayap', 'By crawler', '按爬虫', 'கிராலர் வாரியாக', 'クローラー別')}</p>
+              <div class="cov-cats">
+                {aiBots.map((b) => (
+                  <div class="cov-row ai-row">
+                    <span class="cov-name" title={b.bot}>{b.bot}</span>
+                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((b.n / aiBotMax) * 100))}%`} /></span>
+                    <span class="cov-num">{b.n.toLocaleString()}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+            <div>
+              <p class="ai-h">{L('Mengikut tunjang', 'By pillar', '按支柱', 'தூண் வாரியாக', '柱別')}</p>
+              <div class="cov-cats">
+                {aiPillars.map((p) => (
+                  <div class="cov-row ai-row">
+                    <span class="cov-name">{p.icon} {p.name}</span>
+                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((p.n / aiPillarMax) * 100))}%`} /></span>
+                    <span class="cov-num">{p.n.toLocaleString()}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+          <p class="ai-h ai-h-top">{L('Artikel paling banyak dirayapi', 'Most-crawled articles', '被抓取最多的文章', 'அதிகம் கிராலர் பெற்ற கட்டுரைகள்', '最も多くクロールされた記事')}</p>
+          <div class="cov-cats ai-top">
+            {aiTop.map((a) => (
+              <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
+                <span class="cov-name" title={a.title}>{a.title}</span>
+                <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((a.total / aiTopMax) * 100))}%`} /></span>
+                <span class="cov-num">{a.total.toLocaleString()}</span>
+              </a>
+            ))}
+          </div>
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Trafik mengikut saluran', 'Traffic by channel', '各渠道流量', 'சேனல் வாரியான போக்குவரத்து', 'チャネル別トラフィック')}</span></header>
+    <div class="psec-body">
+      {refTotal === 0 ? (
+        <p class="hint">{L(
+          'Belum ada data rujukan — perekodan bermula setelah pengelas saluran digunakan di edge.',
+          'No referral data yet — recording begins once the channel classifier is live at the edge.',
+          '暂无来源数据——渠道分类器在边缘上线后开始记录。',
+          'இதுவரை பரிந்துரை தரவு இல்லை — சேனல் வகைப்படுத்தி எட்ஜில் செயலில் வந்தவுடன் பதிவு தொடங்கும்.',
+          'まだ参照元データはありません — チャネル分類器がエッジで稼働すると記録が始まります。',
+        )}</p>
+      ) : (
+        <>
+          <p class="hint">{L(
+            `${refTotal.toLocaleString()} lawatan pembaca dikelaskan mengikut asal rujukan — sepanjang masa.`,
+            `${refTotal.toLocaleString()} reader visits classified by where they arrived from — all-time.`,
+            `${refTotal.toLocaleString()} 次读者访问按来源渠道分类——累计。`,
+            `${refTotal.toLocaleString()} வாசகர் வருகைகள் அவர்கள் வந்த மூலத்தின் அடிப்படையில் வகைப்படுத்தப்பட்டுள்ளன — எல்லா காலமும்.`,
+            `${refTotal.toLocaleString()} 件の読者訪問を流入元別に分類しました — 累計。`,
+          )}</p>
+          <div class="ai-grid">
+            <div>
+              <p class="ai-h">{L('Mengikut saluran', 'By channel', '按渠道', 'சேனல் வாரியாக', 'チャネル別')}</p>
+              <div class="cov-cats">
+                {refChannels.map((c) => (
+                  <div class="cov-row ai-row">
+                    <span class="cov-name">{c.icon} {c.label}</span>
+                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((c.n / refChMax) * 100))}%`} /></span>
+                    <span class="cov-num">{c.n.toLocaleString()}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+            <div>
+              <p class="ai-h">{L('Sumber teratas', 'Top sources', '主要来源', 'முதன்மை மூலங்கள்', '主な流入元')}</p>
+              {refSources.length === 0 ? (
+                <p class="hint" style="margin:0">{L('Kebanyakannya trafik terus.', 'Mostly direct traffic.', '大多为直接访问。', 'பெரும்பாலும் நேரடி போக்குவரத்து.', 'ほとんどが直接トラフィックです。')}</p>
+              ) : (
+                <div class="cov-cats">
+                  {refSources.map((s) => (
+                    <div class="cov-row ai-row">
+                      <span class="cov-name" title={s.source}>{s.source}</span>
+                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((s.n / refSourceMax) * 100))}%`} /></span>
+                      <span class="cov-num">{s.n.toLocaleString()}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Prestasi carian Google', 'Google Search performance', 'Google 搜索表现', 'Google தேடல் செயல்திறன்', 'Google 検索パフォーマンス')}</span></header>
+    <div class="psec-body">
+      {!gscHas ? (
+        <p class="hint">{L(
+          'Belum ada data Search Console — muncul selepas kerja arkib dijalankan.',
+          'No Search Console data yet — appears after the archive workflow runs.',
+          '暂无 Search Console 数据——归档工作流运行后显示。',
+          'இதுவரை Search Console தரவு இல்லை — காப்பக பணிப்பாய்வு இயங்கிய பிறகு தோன்றும்.',
+          'まだ Search Console のデータはありません — アーカイブのワークフロー実行後に表示されます。',
+        )}</p>
+      ) : (
+        <>
+          <p class="hint">{L(
+            `90 hari lepas: ${gscTotals.impressions.toLocaleString()} tera · ${gscTotals.clicks.toLocaleString()} klik · CTR ${gscTotals.ctr}% · kedudukan purata ${gscTotals.position}. ${gscMonths} bulan diarkibkan.`,
+            `Last 90 days: ${gscTotals.impressions.toLocaleString()} impressions · ${gscTotals.clicks.toLocaleString()} clicks · ${gscTotals.ctr}% CTR · avg position ${gscTotals.position}. ${gscMonths} months archived.`,
+            `近 90 天：${gscTotals.impressions.toLocaleString()} 次展示 · ${gscTotals.clicks.toLocaleString()} 次点击 · 点击率 ${gscTotals.ctr}% · 平均排名 ${gscTotals.position}。已归档 ${gscMonths} 个月。`,
+            `கடந்த 90 நாட்கள்: ${gscTotals.impressions.toLocaleString()} காட்சிகள் · ${gscTotals.clicks.toLocaleString()} கிளிக்குகள் · CTR ${gscTotals.ctr}% · சராசரி தரவரிசை ${gscTotals.position}. ${gscMonths} மாதங்கள் காப்பகப்படுத்தப்பட்டன.`,
+            `過去90日: ${gscTotals.impressions.toLocaleString()} 表示 · ${gscTotals.clicks.toLocaleString()} クリック · CTR ${gscTotals.ctr}% · 平均掲載順位 ${gscTotals.position}。${gscMonths} か月分をアーカイブ。`,
+          )}</p>
+          <div class="ai-grid">
+            <div>
+              <p class="ai-h">{L('Tera mengikut tunjang', 'Impressions by pillar', '各支柱展示', 'தூண் வாரியான காட்சிகள்', '柱別の表示回数')}</p>
+              {gscPillars.length === 0 ? <p class="hint" style="margin:0">—</p> : (
+                <div class="cov-cats">
+                  {gscPillars.map((p) => (
+                    <div class="cov-row ai-row">
+                      <span class="cov-name">{p.icon} {p.name}</span>
+                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((p.impressions / gscPillarMax) * 100))}%`} /></span>
+                      <span class="cov-num">{p.impressions.toLocaleString()}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+            <div>
+              <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索', 'முதன்மை வினவல்கள்', '上位クエリ')}</p>
+              {gscQueries.length === 0 ? <p class="hint" style="margin:0">—</p> : (
+                <div class="cov-cats">
+                  {gscQueries.map((q) => (
+                    <div class="cov-row ai-row">
+                      <span class="cov-name" title={q.query}>{q.query}</span>
+                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((q.impressions / gscQueryMax) * 100))}%`} /></span>
+                      <span class="cov-num">{q.impressions.toLocaleString()}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Penglibatan Facebook', 'Facebook engagement', 'Facebook 互动', 'Facebook ஈடுபாடு', 'Facebook エンゲージメント')}</span></header>
+    <div class="psec-body">
+      {!fbHas ? (
+        <p class="hint">{L(
+          'Belum ada data Facebook — muncul selepas kerja arkib dijalankan dan artikel diterbitkan.',
+          'No Facebook data yet — appears after the archive workflow runs and articles are published.',
+          '暂无 Facebook 数据——归档工作流运行且文章发布后显示。',
+          'இதுவரை Facebook தரவு இல்லை — காப்பக பணிப்பாய்வு இயங்கி கட்டுரைகள் வெளியிடப்பட்ட பிறகு தோன்றும்.',
+          'まだ Facebook のデータはありません — アーカイブのワークフローが実行され、記事が公開された後に表示されます。',
+        )}</p>
+      ) : (
+        <div class="matrix-scroll" style="margin-top:.3rem">
+          <table class="fbtable">
+            <thead>
+              <tr>
+                <th class="chan" style="width:auto">{L('Halaman', 'Page', '页面', 'பக்கம்', 'ページ')}</th>
+                <th>{L('Pengikut', 'Followers', '粉丝', 'பின்தொடர்பவர்கள்', 'フォロワー')}</th>
+                <th>{L('Siaran', 'Posts', '帖子', 'இடுகைகள்', '投稿')}</th>
+                <th>{L('Reaksi', 'Reactions', '互动', 'எதிர்வினைகள்', 'リアクション')}</th>
+                <th>{L('Komen', 'Comments', '评论', 'கருத்துகள்', 'コメント')}</th>
+                <th>{L('Kongsi', 'Shares', '分享', 'பகிர்வுகள்', 'シェア')}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {fbRows.map((r) => (
+                <tr>
+                  <th class="chan" style="width:auto">{r.label}</th>
+                  <td>{(r.followers ?? 0).toLocaleString()}</td>
+                  <td>{(r.posts ?? 0).toLocaleString()}</td>
+                  <td>{(r.reactions ?? 0).toLocaleString()}</td>
+                  <td>{(r.comments ?? 0).toLocaleString()}</td>
+                  <td>{(r.shares ?? 0).toLocaleString()}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Penglibatan di laman', 'On-site engagement', '站内参与', 'தளத்தில் ஈடுபாடு', 'サイト内エンゲージメント')}</span></header>
+    <div class="psec-body">
+      {!engHas ? (
+        <p class="hint">{L(
+          'Belum ada data penglibatan — mula direkod setelah beacon disiarkan (deploy Worker) dan pelawat tiba.',
+          'No engagement data yet — recording begins after the beacon ships (Worker deploy) and visitors arrive.',
+          '暂无参与数据——beacon 上线（部署 Worker）且有访客后开始记录。',
+          'இதுவரை ஈடுபாட்டுத் தரவு இல்லை — beacon வெளியான (Worker deploy) பிறகு பார்வையாளர்கள் வந்தவுடன் பதிவு தொடங்கும்.',
+          'まだエンゲージメントのデータはありません — beacon が配信され（Worker をデプロイ）、訪問者が来てから記録が始まります。',
+        )}</p>
+      ) : (
+        <>
+          <p class="hint">{L(
+            `Purata masa di halaman ${fmtDur(engAvgSecs)} · purata skrol ${engAvgScroll}% · daripada ${engSamples.toLocaleString()} lawatan diukur.`,
+            `Average time on page ${fmtDur(engAvgSecs)} · average scroll ${engAvgScroll}% · from ${engSamples.toLocaleString()} measured visits.`,
+            `平均停留 ${fmtDur(engAvgSecs)} · 平均滚动 ${engAvgScroll}% · 来自 ${engSamples.toLocaleString()} 次测量访问。`,
+            `பக்கத்தில் சராசரி நேரம் ${fmtDur(engAvgSecs)} · சராசரி உருள்வு ${engAvgScroll}% · அளக்கப்பட்ட ${engSamples.toLocaleString()} வருகைகளிலிருந்து.`,
+            `ページ滞在時間の平均 ${fmtDur(engAvgSecs)} · 平均スクロール ${engAvgScroll}% · 計測された ${engSamples.toLocaleString()} 件の訪問から。`,
+          )}</p>
+          <div class="ai-grid">
+            <div>
+              <p class="ai-h">{L('Masa mengikut tunjang', 'Avg time by pillar', '各支柱平均时长', 'தூண் வாரியான சராசரி நேரம்', '柱別の平均時間')}</p>
+              <div class="cov-cats">
+                {engPillars.map((p) => (
+                  <div class="cov-row ai-row">
+                    <span class="cov-name">{p.icon} {p.name}</span>
+                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((p.avg / engPillarMax) * 100))}%`} /></span>
+                    <span class="cov-num">{fmtDur(p.avg)}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+            <div>
+              <p class="ai-h">{L('Paling melibatkan', 'Most engaging', '最吸引', 'அதிகம் ஈடுபடுத்தும்', '最も惹きつける')}</p>
+              <div class="cov-cats">
+                {engTop.map((a) => (
+                  <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
+                    <span class="cov-name" title={a.title}>{a.title}</span>
+                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((a.avgSeconds / engTopMax) * 100))}%`} /></span>
+                    <span class="cov-num">{fmtDur(a.avgSeconds)}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          </div>
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Bing & Copilot', 'Bing & Copilot', 'Bing 与 Copilot', 'Bing & Copilot', 'Bing & Copilot')}</span></header>
+    <div class="psec-body">
+      {!bingHas ? (
+        <p class="hint">{L(
+          'Belum ada data Bing — muncul selepas laman ditambah ke Bing Webmaster Tools (import dari Google) dan kerja arkib dijalankan.',
+          'No Bing data yet — appears after the site is added to Bing Webmaster Tools (import from Google) and the archive runs.',
+          '暂无 Bing 数据——将网站加入 Bing 网站管理员工具（从 Google 导入）并运行归档后显示。',
+          'இதுவரை Bing தரவு இல்லை — தளம் Bing Webmaster Tools-இல் சேர்க்கப்பட்டு (Google-இலிருந்து இறக்குமதி) காப்பகம் இயங்கிய பிறகு தோன்றும்.',
+          'まだ Bing のデータはありません — サイトを Bing Webmaster Tools に追加し（Google からインポート）、アーカイブが実行された後に表示されます。',
+        )}</p>
+      ) : (
+        <>
+          <p class="hint">{L(
+            `Bing (juga indeks Copilot / ChatGPT-search): ${bingT.impressions.toLocaleString()} tera · ${bingT.clicks.toLocaleString()} klik. ${bingMonths} bulan diarkibkan.`,
+            `Bing (also the Copilot / ChatGPT-search index): ${bingT.impressions.toLocaleString()} impressions · ${bingT.clicks.toLocaleString()} clicks. ${bingMonths} months archived.`,
+            `Bing（也是 Copilot / ChatGPT-search 的索引）：${bingT.impressions.toLocaleString()} 次展示 · ${bingT.clicks.toLocaleString()} 次点击。已归档 ${bingMonths} 个月。`,
+            `Bing (Copilot / ChatGPT-search அட்டவணையும் கூட): ${bingT.impressions.toLocaleString()} காட்சிகள் · ${bingT.clicks.toLocaleString()} கிளிக்குகள். ${bingMonths} மாதங்கள் காப்பகப்படுத்தப்பட்டன.`,
+            `Bing（Copilot / ChatGPT-search のインデックスも兼ねる）: ${bingT.impressions.toLocaleString()} 表示 · ${bingT.clicks.toLocaleString()} クリック。${bingMonths} か月分をアーカイブ。`,
+          )}</p>
+          <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索', 'முதன்மை வினவல்கள்', '上位クエリ')}</p>
+          {bingQueries.length === 0 ? <p class="hint" style="margin:0">—</p> : (
+            <div class="cov-cats ai-top">
+              {bingQueries.map((q) => (
+                <div class="cov-row ai-row">
+                  <span class="cov-name" title={q.query}>{q.query}</span>
+                  <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((q.impressions / bingQueryMax) * 100))}%`} /></span>
+                  <span class="cov-num">{q.impressions.toLocaleString()}</span>
+                </div>
+              ))}
+            </div>
+          )}
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .acc-note {
+    border: 1px solid var(--line); border-left: 3px solid var(--gold); border-radius: 10px;
+    background: var(--surface); color: var(--ink-soft); font-size: 0.85rem; line-height: 1.6;
+    padding: 0.85rem 1rem; margin: 0;
+  }
+
+  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .psec > header {
+    padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid var(--line);
+    font-family: var(--font-title);
+  }
+  .psec > header span { color: var(--gold); }
+  .psec-body { padding: 1.2rem; }
+  .hint { font-size: 0.82rem; color: var(--muted); margin: 0 0 0.9rem; line-height: 1.55; }
+
+  .track { display: block; height: 9px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
+  .track .fill { display: block; height: 100%; background: var(--gold); border-radius: 999px; }
+
+  .cov-cats { display: grid; gap: 0.35rem; }
+  .cov-row { display: grid; grid-template-columns: 8rem 1fr 2rem; gap: 0.6rem; align-items: center; text-decoration: none; color: inherit; }
+  .cov-name { font-size: 0.82rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .cov-row:hover .cov-name { color: var(--gold); }
+  .cov-num { font-size: 0.8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+
+  /* AI / channel / SEO panels — reuse .cov-row/.track, wider name + number columns */
+  .ai-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.4rem; }
+  .ai-h { margin: 0 0 0.55rem; font-size: 0.78rem; font-weight: 800; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+  .ai-h-top { margin-top: 1.15rem; }
+  .ai-grid .ai-row { grid-template-columns: 9.5rem 1fr 3.4rem; }
+  .ai-top .cov-row { grid-template-columns: minmax(0, 1fr) 5rem 3.4rem; }
+  @media (max-width: 800px) { .ai-grid { grid-template-columns: 1fr; } }
+  .fbtable td, .fbtable th:not(.chan) { text-align: right; font-variant-numeric: tabular-nums; }
+</style>

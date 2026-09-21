@@ -37,7 +37,7 @@ export default {
           const t = Math.max(0, Math.min(3600, Math.round(Number(b.t) || 0))); // cap 1h
           const s = Math.max(0, Math.min(100, Math.round(Number(b.s) || 0)));  // 0–100%
           if (env.AE && key && key !== 'home' && t > 0) {
-            const locale = p.startsWith('/en/') ? 'en' : p.startsWith('/zh/') ? 'zh' : 'ms';
+            const locale = p.startsWith('/en/') ? 'en' : p.startsWith('/zh/') ? 'zh' : p.startsWith('/ta/') ? 'ta' : p.startsWith('/ja/') ? 'ja' : 'ms';
             // blob2='engage' marks the row so the pageview aggregator ignores it;
             // doubles carry dwell seconds + scroll %, weighted per sample at query time.
             env.AE.writeDataPoint({ blobs: [key, 'engage', '', locale], doubles: [t, s], indexes: [key.slice(0, 96)] });
@@ -56,7 +56,9 @@ export default {
           // doubles[0]=1 is one hit. channel/source are the human referral
           // source (search/ai/social/…) — only for readers; '' for bots.
           const locale = url.pathname.startsWith('/en/') ? 'en'
-            : url.pathname.startsWith('/zh/') ? 'zh' : 'ms';
+            : url.pathname.startsWith('/zh/') ? 'zh'
+            : url.pathname.startsWith('/ta/') ? 'ta'
+            : url.pathname.startsWith('/ja/') ? 'ja' : 'ms';
           const { channel, source } = bucket === 'readers'
             ? classifyReferrer(request.headers.get('referer'), url)
             : { channel: '', source: '' };
