@@ -67,8 +67,8 @@ The 4 discovery modes and where we stand:
 Split `/dashboard` (content health) from a new `/analytics` (filterable growth trends: channel · SEO · AI · visitor · category · language). Data reality: only SEO has trend history; visitors/channels/AI/engagement/social are snapshot-only.
 - [x] **Phase 1a — data foundation**: daily time-series capture (`analytics-store.mjs` series + `accumulate-analytics.mjs` daily fold + `--seed-series` backfill + `build-analytics.mjs` → `public/api/analytics-series.json`); worker locale fix pending. Fail-safe; fold logic unit-tested. *(local, held for push)*
 - [ ] **[you]** Run `Accumulate Visitors snapshot` workflow once with **seed_series = true** (backfills last ~90d of trend data; needs CF token already in secrets)
-- [ ] **[me]** `worker/src/index.js` — record real `ta`/`ja` locale (currently collapse to `ms`), so language filtering sees all langs going forward
-- [ ] **[me]** Phase 1b — split + `/analytics` route + filter bar + trend charts (traffic-by-channel, SEO); move the 6 analytics panels out of DashboardView
+- [x] **Phase 1b split** — new `/analytics` route (5 locales) + AnalyticsView; moved the 6 analytics panels out of DashboardView (now content-only + cross-link); nav + `nav.analytics` i18n; **worker `ta`/`ja` locale fix**. Build green, dev-verified. *(commit 3c3a02aa, local)*
+- [ ] **[me]** Phase 1b charts — filter bar (time range) + trend charts (traffic-by-channel from the series, SEO from GSC byMonth); best done once the seed has run and data accrues
 - [ ] **[me]** Phase 2 — AI segment deep-dive, content performance, social trend (FB byMonth merge-forward), GSC byMonth × category/lang
 
 ## 🛠 Other standing project items
