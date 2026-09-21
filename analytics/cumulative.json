@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "cursor": "2026-09-20 07:57:24",
-  "updatedAt": "2026-09-20T08:02:24.761Z",
+  "updatedAt": "2026-09-21T00:22:27.207Z",
   "pages": {
     "states/how-state-governments-are-funded": {
       "readers": 97,
@@ -28687,6 +28687,464 @@
           "direct": 12,
           "google": 8
         }
+      }
+    }
+  },
+  "series": {
+    "2026-09-12": {
+      "readers": 395,
+      "search": 1609,
+      "ai": 9245,
+      "byChannel": {
+        "direct": 252,
+        "search": 37,
+        "social": 2,
+        "ai": 1
+      },
+      "byLang": {
+        "ms": 145,
+        "zh": 82,
+        "en": 168
+      }
+    },
+    "2026-09-16": {
+      "readers": 602,
+      "search": 184,
+      "ai": 552,
+      "byChannel": {
+        "social": 14,
+        "direct": 160,
+        "search": 86,
+        "ai": 6
+      },
+      "byLang": {
+        "en": 114,
+        "ms": 434,
+        "zh": 54
+      }
+    },
+    "2026-09-11": {
+      "readers": 955,
+      "search": 2014,
+      "ai": 2673,
+      "byChannel": {
+        "search": 131,
+        "direct": 638,
+        "ai": 6,
+        "social": 25
+      },
+      "byLang": {
+        "en": 291,
+        "zh": 174,
+        "ms": 490
+      }
+    },
+    "2026-09-13": {
+      "readers": 2087,
+      "search": 2438,
+      "ai": 3775,
+      "byChannel": {
+        "search": 40,
+        "direct": 1743,
+        "social": 11,
+        "ai": 1
+      },
+      "byLang": {
+        "zh": 192,
+        "en": 214,
+        "ms": 1681
+      }
+    },
+    "2026-09-04": {
+      "readers": 357,
+      "search": 0,
+      "ai": 3,
+      "byChannel": {},
+      "byLang": {
+        "zh": 3,
+        "en": 8,
+        "ms": 346
+      }
+    },
+    "2026-09-20": {
+      "readers": 1651,
+      "search": 565,
+      "ai": 6538,
+      "byChannel": {
+        "social": 23,
+        "direct": 1226,
+        "search": 99,
+        "ai": 1
+      },
+      "byLang": {
+        "en": 318,
+        "ms": 1233,
+        "zh": 100
+      }
+    },
+    "2026-09-15": {
+      "readers": 1521,
+      "search": 1725,
+      "ai": 888,
+      "byChannel": {
+        "search": 140,
+        "direct": 917,
+        "social": 12,
+        "other": 4,
+        "ai": 3
+      },
+      "byLang": {
+        "en": 244,
+        "zh": 224,
+        "ms": 1053
+      }
+    },
+    "2026-09-18": {
+      "readers": 7810,
+      "search": 315,
+      "ai": 746,
+      "byChannel": {
+        "social": 27,
+        "search": 122,
+        "other": 1,
+        "direct": 7438,
+        "ai": 4
+      },
+      "byLang": {
+        "zh": 934,
+        "ms": 4637,
+        "en": 2239
+      }
+    },
+    "2026-09-08": {
+      "readers": 9416,
+      "search": 2822,
+      "ai": 1086,
+      "byChannel": {},
+      "byLang": {
+        "en": 2786,
+        "ms": 4842,
+        "zh": 1788
+      }
+    },
+    "2026-09-03": {
+      "readers": 25,
+      "search": 0,
+      "ai": 14,
+      "byChannel": {},
+      "byLang": {
+        "ms": 25
+      }
+    },
+    "2026-08-18": {
+      "readers": 69,
+      "search": 0,
+      "ai": 0,
+      "byChannel": {},
+      "byLang": {
+        "en": 37,
+        "ms": 29,
+        "zh": 3
+      }
+    },
+    "2026-09-19": {
+      "readers": 677,
+      "search": 890,
+      "ai": 1318,
+      "byChannel": {
+        "search": 78,
+        "direct": 209,
+        "social": 8,
+        "ai": 2
+      },
+      "byLang": {
+        "en": 201,
+        "zh": 83,
+        "ms": 393
+      }
+    },
+    "2026-09-14": {
+      "readers": 9033,
+      "search": 2844,
+      "ai": 968,
+      "byChannel": {
+        "social": 40,
+        "search": 122,
+        "direct": 8594,
+        "ai": 1
+      },
+      "byLang": {
+        "zh": 1168,
+        "ms": 5858,
+        "en": 2007
+      }
+    },
+    "2026-09-21": {
+      "readers": 10,
+      "search": 11,
+      "ai": 37,
+      "byChannel": {
+        "search": 4,
+        "direct": 2
+      },
+      "byLang": {
+        "zh": 2,
+        "en": 4,
+        "ms": 4
+      }
+    },
+    "2026-08-27": {
+      "readers": 69,
+      "search": 0,
+      "ai": 0,
+      "byChannel": {},
+      "byLang": {
+        "ms": 20,
+        "en": 49
+      }
+    },
+    "2026-08-22": {
+      "readers": 15,
+      "search": 0,
+      "ai": 47,
+      "byChannel": {},
+      "byLang": {
+        "zh": 5,
+        "ms": 7,
+        "en": 3
+      }
+    },
+    "2026-09-10": {
+      "readers": 1017,
+      "search": 2161,
+      "ai": 413,
+      "byChannel": {
+        "social": 205,
+        "search": 21,
+        "ai": 3,
+        "direct": 319,
+        "other": 2
+      },
+      "byLang": {
+        "zh": 205,
+        "ms": 423,
+        "en": 389
+      }
+    },
+    "2026-09-17": {
+      "readers": 4974,
+      "search": 233,
+      "ai": 446,
+      "byChannel": {
+        "search": 161,
+        "social": 8,
+        "direct": 4412,
+        "ai": 4
+      },
+      "byLang": {
+        "zh": 1251,
+        "ms": 2471,
+        "en": 1252
+      }
+    },
+    "2026-09-07": {
+      "readers": 4258,
+      "search": 3182,
+      "ai": 224,
+      "byChannel": {},
+      "byLang": {
+        "zh": 1343,
+        "ms": 1229,
+        "en": 1686
+      }
+    },
+    "2026-09-09": {
+      "readers": 1153,
+      "search": 2269,
+      "ai": 1498,
+      "byChannel": {},
+      "byLang": {
+        "ms": 496,
+        "en": 446,
+        "zh": 211
+      }
+    },
+    "2026-08-28": {
+      "readers": 64,
+      "search": 8,
+      "ai": 165,
+      "byChannel": {},
+      "byLang": {
+        "ms": 64
+      }
+    },
+    "2026-09-02": {
+      "readers": 92,
+      "search": 4,
+      "ai": 0,
+      "byChannel": {},
+      "byLang": {
+        "ms": 40,
+        "en": 51,
+        "zh": 1
+      }
+    },
+    "2026-08-17": {
+      "readers": 326,
+      "search": 8,
+      "ai": 35,
+      "byChannel": {},
+      "byLang": {
+        "ms": 232,
+        "en": 67,
+        "zh": 27
+      }
+    },
+    "2026-08-24": {
+      "readers": 43,
+      "search": 0,
+      "ai": 18587,
+      "byChannel": {},
+      "byLang": {
+        "ms": 32,
+        "en": 11
+      }
+    },
+    "2026-08-16": {
+      "readers": 209,
+      "search": 2,
+      "ai": 2,
+      "byChannel": {},
+      "byLang": {
+        "en": 9,
+        "ms": 184,
+        "zh": 16
+      }
+    },
+    "2026-08-29": {
+      "readers": 6,
+      "search": 0,
+      "ai": 0,
+      "byChannel": {},
+      "byLang": {
+        "ms": 6
+      }
+    },
+    "2026-09-05": {
+      "readers": 26,
+      "search": 0,
+      "ai": 11,
+      "byChannel": {},
+      "byLang": {
+        "ms": 26
+      }
+    },
+    "2026-08-23": {
+      "readers": 49,
+      "search": 0,
+      "ai": 0,
+      "byChannel": {},
+      "byLang": {
+        "zh": 14,
+        "en": 17,
+        "ms": 18
+      }
+    },
+    "2026-08-31": {
+      "readers": 9,
+      "search": 0,
+      "ai": 0,
+      "byChannel": {},
+      "byLang": {
+        "ms": 9
+      }
+    },
+    "2026-08-26": {
+      "readers": 39,
+      "search": 0,
+      "ai": 2309,
+      "byChannel": {},
+      "byLang": {
+        "ms": 7,
+        "en": 32
+      }
+    },
+    "2026-08-15": {
+      "readers": 112,
+      "search": 0,
+      "ai": 0,
+      "byChannel": {},
+      "byLang": {
+        "ms": 47,
+        "en": 50,
+        "zh": 15
+      }
+    },
+    "2026-09-06": {
+      "readers": 10,
+      "search": 0,
+      "ai": 1,
+      "byChannel": {},
+      "byLang": {
+        "ms": 10
+      }
+    },
+    "2026-08-20": {
+      "readers": 262,
+      "search": 0,
+      "ai": 0,
+      "byChannel": {},
+      "byLang": {
+        "zh": 4,
+        "ms": 123,
+        "en": 135
+      }
+    },
+    "2026-08-30": {
+      "readers": 10,
+      "search": 1,
+      "ai": 1,
+      "byChannel": {},
+      "byLang": {
+        "ms": 10
+      }
+    },
+    "2026-08-25": {
+      "readers": 6,
+      "search": 0,
+      "ai": 14878,
+      "byChannel": {},
+      "byLang": {
+        "ms": 6
+      }
+    },
+    "2026-09-01": {
+      "readers": 10,
+      "search": 0,
+      "ai": 1,
+      "byChannel": {},
+      "byLang": {
+        "ms": 10
+      }
+    },
+    "2026-08-19": {
+      "readers": 457,
+      "search": 0,
+      "ai": 0,
+      "byChannel": {},
+      "byLang": {
+        "en": 87,
+        "ms": 370
+      }
+    },
+    "2026-08-21": {
+      "readers": 73,
+      "search": 0,
+      "ai": 0,
+      "byChannel": {},
+      "byLang": {
+        "en": 10,
+        "ms": 63
       }
     }
   }
