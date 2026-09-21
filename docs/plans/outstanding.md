@@ -37,7 +37,8 @@ The 4 discovery modes and where we stand:
 - [x] Branded per-language emails (Cloudflare Email Routing catch-all → brand Gmail)
 
 ### Wikipedia
-- [ ] **[you]** COI-safe citation playbook (Phase 2b) — disclose, suggest on Talk pages, cite sparingly
+- [x] **Phase 2b playbook WRITTEN** — `docs/plans/wikipedia-coi-playbook.md` (COI rules, disclosure, Talk-page edit-request workflow, §3 acceptable-source test, templates, tracker). Lowest-priority/highest-risk channel; do sparingly or skip.
+- [ ] **[you]** Execute (optional): declare COI on your user page, then propose only §3-passing citations via Talk-page edit requests. Claude drafts/assesses on request; never posts.
 - [x] Wikidata QID sweep (~343 articles) + own item Q141449495
 
 ### Not started (Tier 2–3)
