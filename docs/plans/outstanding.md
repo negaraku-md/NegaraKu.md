@@ -78,7 +78,7 @@ Decisions: **both engines** (baked public + live contributor); capture **country
 - [x] **Stage 1 — edge capture**: worker/src/device.js (UA→device/browser/os) + worker/src/index.js writes blob7-12 (country, region, city, device, browser, os). *(local, held for push)*
 - [ ] **[you]** Deploy the worker (`wrangler deploy` in worker/) so the new dimensions start recording — they CANNOT be backfilled (AE never captured them before; accrue forward only). AI never handles the CF token.
 - [ ] **[me]** Stage 2 — fold the new dimensions into the daily snapshot (marginals + key cross-tabs) / a compact cube
-- [ ] **[me]** Stage 3 — baked-cube pivot UI on /analytics (pick dimension + measure + filters), over existing dims now + new ones as they accrue
+- [x] **Stage 3 — pivot UI (baked)** on /analytics: "Explore — pivot" with Group by (Pillar/Category/Article) × Measure (Visitors/AI crawlers/Search crawlers/Avg dwell) × Channel filter (Visitors only). Client-side over a baked per-page fact table; verified with real data. Country/region/device/browser slot in once the worker capture accrues. *(local, held for push)*
 - [ ] **[me]** Stage 4 — live query Worker (contributor-only, behind sign-in): arbitrary Analytics-Engine group-by, whitelisted dims, cached
 
 ## 🛠 Other standing project items

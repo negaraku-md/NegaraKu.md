@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { getPillar, PILLARS, loc } from '@/lib/categories';
+import { getPillar, getCategory, PILLARS, loc } from '@/lib/categories';
 import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing, getAnalyticsSeries } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
@@ -187,6 +187,48 @@ const readTop = Object.entries(analytics)
   .slice(0, 8)
   .map((x) => ({ ...x, title: titleByKey.get(x.key) ?? x.key }));
 const readMax = Math.max(1, ...readTop.map((x) => x.n));
+
+// --- Pivot ("Explore") — a per-page fact table baked for a client-side pivot:
+// group by pillar/category/article × measure (visitors/AI/search/dwell), with an
+// optional channel filter on the visitors measure. Country/region/device/browser
+// join once the edge capture (worker) accrues them. ---
+const bTotal = (b: typeof analytics[string]['ai']) => (b == null ? 0 : typeof b === 'number' ? b : (b.total ?? 0));
+const catNameOf = (cid: string) => { const c = getCategory(cid); return c ? loc(c.name, locale) : cid; };
+const pillarNameOf = (pid: string) => { const pd = PILLARS.find((p) => p.id === pid); return pd ? loc(pd.name, locale) : pid; };
+const pivotRows = Object.entries(analytics).map(([key, row]) => {
+  const cat = key.split('/')[0];
+  const pillar = getPillar(cat) ?? 'understand';
+  return {
+    title: titleByKey.get(key) ?? key,
+    cat: catNameOf(cat),
+    pillar: pillarNameOf(pillar),
+    readers: typeof row.readers === 'number' ? row.readers : (row.readers?.total ?? 0),
+    ai: bTotal(row.ai),
+    search: bTotal(row.search),
+    dwellW: (row.engage?.avgSeconds ?? 0) * (row.engage?.samples ?? 0),
+    samples: row.engage?.samples ?? 0,
+    ch: row.ref?.byChannel ?? {},
+  };
+}).filter((r) => r.readers > 0 || r.ai > 0 || r.search > 0 || r.samples > 0);
+const pivotChannels = CH_ORDER.filter((c) => pivotRows.some((r) => (r.ch[c] ?? 0) > 0))
+  .map((c) => ({ id: c, label: CHANNEL_META[c]?.label ?? c }));
+const pivotJSON = JSON.stringify({
+  rows: pivotRows,
+  channels: pivotChannels,
+  dims: {
+    pillar: L('Tunjang', 'Pillar', '支柱', 'தூண்', '柱'),
+    cat: L('Kategori', 'Category', '分类', 'வகை', 'カテゴリー'),
+    title: L('Artikel', 'Article', '文章', 'கட்டுரை', '記事'),
+  },
+  measures: {
+    readers: L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者'),
+    ai: L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー'),
+    search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー'),
+    dwell: L('Purata masa', 'Avg dwell', '平均停留', 'சராசரி நேரம்', '平均滞在'),
+  },
+  allLabel: L('Semua saluran', 'All channels', '所有渠道', 'அனைத்து சேனல்கள்', '全チャネル'),
+  chOnlyNote: L('Penapis saluran hanya untuk Pelawat.', 'Channel filter applies to Visitors only.', '渠道筛选仅适用于访客。', 'சேனல் வடிகட்டி பார்வையாளர்களுக்கு மட்டும்.', 'チャネル絞り込みは訪問者のみ。'),
+});
 
 // Anything measured yet? Drives the "trends are accruing" lead note.
 const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || engHas;
@@ -386,6 +428,95 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
       ]);
       legend(document.getElementById('legend-seo'), totals);
     }
+  })();
+</script>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Terokai — jadual pangsi', 'Explore — pivot', '探索——数据透视', 'ஆய்வு — பிவோட்', 'エクスプローラ — ピボット')}</span></header>
+    <div class="psec-body">
+      {pivotRows.length === 0 ? (
+        <p class="hint">{L('Belum ada data untuk diterokai.', 'No data to explore yet.', '暂无可探索的数据。', 'ஆய்வு செய்ய தரவு இல்லை.', '探索できるデータはまだありません。')}</p>
+      ) : (
+        <>
+          <div class="pv-controls">
+            <label>{L('Kumpul ikut', 'Group by', '分组依据', 'இதன்படி தொகு', 'グループ化')}
+              <select id="pv-dim">
+                <option value="pillar">{L('Tunjang', 'Pillar', '支柱', 'தூண்', '柱')}</option>
+                <option value="cat">{L('Kategori', 'Category', '分类', 'வகை', 'カテゴリー')}</option>
+                <option value="title">{L('Artikel', 'Article', '文章', 'கட்டுரை', '記事')}</option>
+              </select>
+            </label>
+            <label>{L('Ukuran', 'Measure', '度量', 'அளவை', '指標')}
+              <select id="pv-measure">
+                <option value="readers">{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者')}</option>
+                <option value="ai">{L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー')}</option>
+                <option value="search">{L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー')}</option>
+                <option value="dwell">{L('Purata masa', 'Avg dwell', '平均停留', 'சராசரி நேரம்', '平均滞在')}</option>
+              </select>
+            </label>
+            <label id="pv-ch-wrap">{L('Saluran', 'Channel', '渠道', 'சேனல்', 'チャネル')}
+              <select id="pv-channel">
+                <option value="all">{L('Semua saluran', 'All channels', '所有渠道', 'அனைத்து சேனல்கள்', '全チャネル')}</option>
+                {pivotChannels.map((c) => <option value={c.id}>{c.label}</option>)}
+              </select>
+            </label>
+          </div>
+          <p class="hint" id="pv-note" style="margin:0.2rem 0 0.9rem; min-height:1em"></p>
+          <div id="pv-results" class="cov-cats"></div>
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
+<script type="application/json" id="pivot-data" set:html={pivotJSON}></script>
+<script>
+  (() => {
+    const el = document.getElementById('pivot-data');
+    if (!el) return;
+    let data;
+    try { data = JSON.parse(el.textContent || '{}'); } catch { return; }
+    const rows = data.rows || [];
+    const dimSel = document.getElementById('pv-dim');
+    const mSel = document.getElementById('pv-measure');
+    const chSel = document.getElementById('pv-channel');
+    const chWrap = document.getElementById('pv-ch-wrap');
+    const note = document.getElementById('pv-note');
+    const out = document.getElementById('pv-results');
+    if (!dimSel || !mSel || !chSel || !out) return;
+    const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+    const fmtDur = (s) => (s >= 60 ? `${Math.floor(s / 60)}m ${Math.round(s % 60)}s` : `${Math.round(s)}s`);
+
+    function render() {
+      const dim = dimSel.value, measure = mSel.value, ch = chSel.value;
+      const chActive = measure === 'readers';
+      chWrap.style.opacity = chActive ? '1' : '0.4';
+      chSel.disabled = !chActive;
+      note.textContent = chActive ? '' : (data.chOnlyNote || '');
+      const agg = new Map();
+      for (const r of rows) {
+        const g = dim === 'title' ? r.title : dim === 'cat' ? r.cat : r.pillar;
+        let v = 0, w = 0;
+        if (measure === 'readers') v = chActive && ch !== 'all' ? (r.ch[ch] || 0) : r.readers;
+        else if (measure === 'ai') v = r.ai;
+        else if (measure === 'search') v = r.search;
+        else { v = r.dwellW; w = r.samples; }
+        const e = agg.get(g) || { val: 0, w: 0 };
+        e.val += v; e.w += w; agg.set(g, e);
+      }
+      let entries = [...agg.entries()].map(([g, e]) => ({ g, val: measure === 'dwell' ? (e.w ? e.val / e.w : 0) : e.val, w: e.w }));
+      entries = entries.filter((e) => (measure === 'dwell' ? e.w > 0 : e.val > 0)).sort((a, b) => b.val - a.val);
+      if (dim === 'title') entries = entries.slice(0, 20);
+      if (!entries.length) { out.innerHTML = '<p class="hint" style="margin:0">—</p>'; return; }
+      const mx = Math.max(...entries.map((e) => e.val));
+      out.innerHTML = entries.map((e) => {
+        const disp = measure === 'dwell' ? fmtDur(e.val) : Math.round(e.val).toLocaleString();
+        return `<div class="cov-row ai-row"><span class="cov-name" title="${esc(e.g)}">${esc(e.g)}</span><span class="track"><span class="fill" style="width:${Math.max(3, Math.round((e.val / mx) * 100))}%"></span></span><span class="cov-num">${disp}</span></div>`;
+      }).join('');
+    }
+    [dimSel, mSel, chSel].forEach((s) => s.addEventListener('change', render));
+    render();
   })();
 </script>
 
@@ -770,6 +901,12 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   .chart-legend .lg i { width: 0.7rem; height: 0.7rem; border-radius: 3px; display: inline-block; }
   .chart-legend .lg b { color: var(--ink); font-variant-numeric: tabular-nums; }
   .chan-h { margin-top: 1.15rem; }
+
+  /* Pivot controls */
+  .pv-controls { display: flex; flex-wrap: wrap; gap: 0.7rem 1.1rem; margin: 0 0 0.2rem; }
+  .pv-controls label { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; }
+  .pv-controls select { font: inherit; font-size: 0.85rem; font-weight: 600; text-transform: none; letter-spacing: normal; color: var(--ink); background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.5rem; cursor: pointer; }
+  .pv-controls select:disabled { cursor: not-allowed; }
 </style>
 
 <!-- Global rules for CLIENT-INJECTED chart content: Astro scopes component
@@ -780,9 +917,9 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   #legend-daily .lg, #legend-seo .lg, #legend-lang .lg, #legend-aibot .lg { display: inline-flex; align-items: center; gap: 0.35rem; }
   #legend-daily .lg i, #legend-seo .lg i, #legend-lang .lg i, #legend-aibot .lg i { width: 0.7rem; height: 0.7rem; border-radius: 3px; display: inline-block; }
   #legend-daily .lg b, #legend-seo .lg b, #legend-lang .lg b, #legend-aibot .lg b { color: var(--ink); font-variant-numeric: tabular-nums; }
-  #chan-bars .cov-row { display: grid; grid-template-columns: 9.5rem 1fr 3.4rem; gap: 0.6rem; align-items: center; }
-  #chan-bars .cov-name { font-size: 0.82rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  #chan-bars .cov-num { font-size: 0.8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
-  #chan-bars .track { display: block; height: 9px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
-  #chan-bars .track .fill { display: block; height: 100%; border-radius: 999px; }
+  #chan-bars .cov-row, #pv-results .cov-row { display: grid; grid-template-columns: minmax(0, 1fr) 5rem 4rem; gap: 0.6rem; align-items: center; }
+  #chan-bars .cov-name, #pv-results .cov-name { font-size: 0.82rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #chan-bars .cov-num, #pv-results .cov-num { font-size: 0.8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+  #chan-bars .track, #pv-results .track { display: block; height: 9px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
+  #chan-bars .track .fill, #pv-results .track .fill { display: block; height: 100%; border-radius: 999px; background: var(--gold); }
 </style>
