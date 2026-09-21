@@ -1,0 +1,49 @@
+name: Ping IndexNow
+
+# Notify IndexNow (Bing, Yandex, …) when published articles change, so they
+# re-crawl within minutes. Hosted-key protocol — the key lives at
+# public/<key>.txt (served at https://negaraku.md/<key>.txt). Fail-safe: the
+# script skips if the key or URLs are missing and never fails the run.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'knowledge/**'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'changed (default) or all (bulk-submit every published URL)'
+        default: changed
+
+permissions:
+  contents: read
+
+concurrency:
+  group: indexnow
+  cancel-in-progress: false
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # need the previous commit(s) for the changed-URL diff
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # Build the article manifest so the script can map changed files → the
+      # correct published locale URLs (skips drafts/archived/missing locales).
+      - run: npm run sync
+
+      - name: Ping IndexNow
+        env:
+          SITE_URL: https://negaraku.md
+          INDEXNOW_BEFORE: ${{ github.event.before }}
+        run: node scripts/ping-indexnow.mjs ${{ github.event.inputs.mode == 'all' && '--all' || '--changed' }}
