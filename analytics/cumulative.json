@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "cursor": "2026-09-20 07:57:24",
-  "updatedAt": "2026-09-21T00:22:27.207Z",
+  "updatedAt": "2026-09-21T01:55:25.213Z",
   "pages": {
     "states/how-state-governments-are-funded": {
       "readers": 97,
@@ -28705,6 +28705,13 @@
         "ms": 145,
         "zh": 82,
         "en": 168
+      },
+      "aiByBot": {
+        "OAI-SearchBot": 1374,
+        "PerplexityBot": 7723,
+        "Bytespider": 22,
+        "ChatGPT-User": 104,
+        "Meta-ExternalAgent": 22
       }
     },
     "2026-09-16": {
@@ -28721,6 +28728,12 @@
         "en": 114,
         "ms": 434,
         "zh": 54
+      },
+      "aiByBot": {
+        "OAI-SearchBot": 329,
+        "DuckAssistBot": 1,
+        "PerplexityBot": 80,
+        "ChatGPT-User": 142
       }
     },
     "2026-09-11": {
@@ -28737,6 +28750,21 @@
         "en": 291,
         "zh": 174,
         "ms": 490
+      },
+      "aiByBot": {
+        "YouBot": 1,
+        "ClaudeBot": 20,
+        "Google-Extended": 32,
+        "Amazonbot": 44,
+        "PerplexityBot": 1510,
+        "cohere-ai": 1,
+        "OAI-SearchBot": 874,
+        "GPTBot": 35,
+        "DuckAssistBot": 3,
+        "Meta-ExternalAgent": 40,
+        "ChatGPT-User": 87,
+        "CCBot": 1,
+        "Bytespider": 25
       }
     },
     "2026-09-13": {
@@ -28753,6 +28781,15 @@
         "zh": 192,
         "en": 214,
         "ms": 1681
+      },
+      "aiByBot": {
+        "Meta-ExternalAgent": 16,
+        "YouBot": 2,
+        "OAI-SearchBot": 967,
+        "DuckAssistBot": 1,
+        "PerplexityBot": 2694,
+        "Bytespider": 23,
+        "ChatGPT-User": 72
       }
     },
     "2026-09-04": {
@@ -28764,6 +28801,9 @@
         "zh": 3,
         "en": 8,
         "ms": 346
+      },
+      "aiByBot": {
+        "Meta-ExternalAgent": 3
       }
     },
     "2026-09-20": {
@@ -28780,6 +28820,11 @@
         "en": 318,
         "ms": 1233,
         "zh": 100
+      },
+      "aiByBot": {
+        "ChatGPT-User": 63,
+        "OAI-SearchBot": 879,
+        "PerplexityBot": 5596
       }
     },
     "2026-09-15": {
@@ -28797,6 +28842,15 @@
         "en": 244,
         "zh": 224,
         "ms": 1053
+      },
+      "aiByBot": {
+        "ChatGPT-User": 132,
+        "Bytespider": 55,
+        "PerplexityBot": 14,
+        "DuckAssistBot": 1,
+        "OAI-SearchBot": 541,
+        "Meta-ExternalAgent": 70,
+        "Amazonbot": 75
       }
     },
     "2026-09-18": {
@@ -28814,6 +28868,11 @@
         "zh": 934,
         "ms": 4637,
         "en": 2239
+      },
+      "aiByBot": {
+        "ChatGPT-User": 81,
+        "PerplexityBot": 209,
+        "OAI-SearchBot": 456
       }
     },
     "2026-09-08": {
@@ -28825,6 +28884,13 @@
         "en": 2786,
         "ms": 4842,
         "zh": 1788
+      },
+      "aiByBot": {
+        "ChatGPT-User": 135,
+        "OAI-SearchBot": 934,
+        "DuckAssistBot": 2,
+        "Meta-ExternalAgent": 11,
+        "PerplexityBot": 4
       }
     },
     "2026-09-03": {
@@ -28834,6 +28900,10 @@
       "byChannel": {},
       "byLang": {
         "ms": 25
+      },
+      "aiByBot": {
+        "Meta-ExternalAgent": 9,
+        "GPTBot": 5
       }
     },
     "2026-08-18": {
@@ -28845,7 +28915,8 @@
         "en": 37,
         "ms": 29,
         "zh": 3
-      }
+      },
+      "aiByBot": {}
     },
     "2026-09-19": {
       "readers": 677,
@@ -28861,6 +28932,12 @@
         "en": 201,
         "zh": 83,
         "ms": 393
+      },
+      "aiByBot": {
+        "ChatGPT-User": 69,
+        "PerplexityBot": 767,
+        "OAI-SearchBot": 481,
+        "DuckAssistBot": 1
       }
     },
     "2026-09-14": {
@@ -28877,20 +28954,34 @@
         "zh": 1168,
         "ms": 5858,
         "en": 2007
+      },
+      "aiByBot": {
+        "Amazonbot": 1,
+        "Meta-ExternalAgent": 96,
+        "ChatGPT-User": 187,
+        "Bytespider": 21,
+        "PerplexityBot": 127,
+        "OAI-SearchBot": 535,
+        "DuckAssistBot": 1
       }
     },
     "2026-09-21": {
-      "readers": 10,
-      "search": 11,
-      "ai": 37,
+      "readers": 133,
+      "search": 47,
+      "ai": 218,
       "byChannel": {
-        "search": 4,
-        "direct": 2
+        "search": 12,
+        "direct": 86
       },
       "byLang": {
-        "zh": 2,
-        "en": 4,
-        "ms": 4
+        "zh": 11,
+        "en": 54,
+        "ms": 68
+      },
+      "aiByBot": {
+        "ChatGPT-User": 11,
+        "OAI-SearchBot": 118,
+        "PerplexityBot": 89
       }
     },
     "2026-08-27": {
@@ -28901,7 +28992,8 @@
       "byLang": {
         "ms": 20,
         "en": 49
-      }
+      },
+      "aiByBot": {}
     },
     "2026-08-22": {
       "readers": 15,
@@ -28912,6 +29004,9 @@
         "zh": 5,
         "ms": 7,
         "en": 3
+      },
+      "aiByBot": {
+        "Diffbot": 47
       }
     },
     "2026-09-10": {
@@ -28929,6 +29024,15 @@
         "zh": 205,
         "ms": 423,
         "en": 389
+      },
+      "aiByBot": {
+        "PerplexityBot": 27,
+        "DuckAssistBot": 10,
+        "GPTBot": 1,
+        "OAI-SearchBot": 255,
+        "ChatGPT-User": 76,
+        "Bytespider": 1,
+        "Meta-ExternalAgent": 43
       }
     },
     "2026-09-17": {
@@ -28945,6 +29049,12 @@
         "zh": 1251,
         "ms": 2471,
         "en": 1252
+      },
+      "aiByBot": {
+        "DuckAssistBot": 1,
+        "OAI-SearchBot": 256,
+        "PerplexityBot": 104,
+        "ChatGPT-User": 85
       }
     },
     "2026-09-07": {
@@ -28956,6 +29066,11 @@
         "zh": 1343,
         "ms": 1229,
         "en": 1686
+      },
+      "aiByBot": {
+        "ChatGPT-User": 3,
+        "OAI-SearchBot": 73,
+        "GPTBot": 148
       }
     },
     "2026-09-09": {
@@ -28967,6 +29082,13 @@
         "ms": 496,
         "en": 446,
         "zh": 211
+      },
+      "aiByBot": {
+        "Meta-ExternalAgent": 49,
+        "ChatGPT-User": 260,
+        "DuckAssistBot": 2,
+        "OAI-SearchBot": 1165,
+        "PerplexityBot": 22
       }
     },
     "2026-08-28": {
@@ -28976,6 +29098,17 @@
       "byChannel": {},
       "byLang": {
         "ms": 64
+      },
+      "aiByBot": {
+        "GPTBot": 53,
+        "ClaudeBot": 6,
+        "Meta-ExternalAgent": 11,
+        "Amazonbot": 10,
+        "ChatGPT-User": 18,
+        "Bytespider": 11,
+        "PerplexityBot": 30,
+        "Google-Extended": 12,
+        "OAI-SearchBot": 14
       }
     },
     "2026-09-02": {
@@ -28987,7 +29120,8 @@
         "ms": 40,
         "en": 51,
         "zh": 1
-      }
+      },
+      "aiByBot": {}
     },
     "2026-08-17": {
       "readers": 326,
@@ -28998,6 +29132,14 @@
         "ms": 232,
         "en": 67,
         "zh": 27
+      },
+      "aiByBot": {
+        "ChatGPT-User": 2,
+        "PerplexityBot": 5,
+        "CCBot": 9,
+        "GPTBot": 10,
+        "OAI-SearchBot": 5,
+        "ClaudeBot": 4
       }
     },
     "2026-08-24": {
@@ -29008,6 +29150,9 @@
       "byLang": {
         "ms": 32,
         "en": 11
+      },
+      "aiByBot": {
+        "Meta-ExternalAgent": 18587
       }
     },
     "2026-08-16": {
@@ -29019,6 +29164,9 @@
         "en": 9,
         "ms": 184,
         "zh": 16
+      },
+      "aiByBot": {
+        "ClaudeBot": 2
       }
     },
     "2026-08-29": {
@@ -29028,7 +29176,8 @@
       "byChannel": {},
       "byLang": {
         "ms": 6
-      }
+      },
+      "aiByBot": {}
     },
     "2026-09-05": {
       "readers": 26,
@@ -29037,6 +29186,10 @@
       "byChannel": {},
       "byLang": {
         "ms": 26
+      },
+      "aiByBot": {
+        "Meta-ExternalAgent": 8,
+        "ChatGPT-User": 3
       }
     },
     "2026-08-23": {
@@ -29048,7 +29201,8 @@
         "zh": 14,
         "en": 17,
         "ms": 18
-      }
+      },
+      "aiByBot": {}
     },
     "2026-08-31": {
       "readers": 9,
@@ -29057,7 +29211,8 @@
       "byChannel": {},
       "byLang": {
         "ms": 9
-      }
+      },
+      "aiByBot": {}
     },
     "2026-08-26": {
       "readers": 39,
@@ -29067,6 +29222,9 @@
       "byLang": {
         "ms": 7,
         "en": 32
+      },
+      "aiByBot": {
+        "Meta-ExternalAgent": 2309
       }
     },
     "2026-08-15": {
@@ -29078,7 +29236,8 @@
         "ms": 47,
         "en": 50,
         "zh": 15
-      }
+      },
+      "aiByBot": {}
     },
     "2026-09-06": {
       "readers": 10,
@@ -29087,6 +29246,9 @@
       "byChannel": {},
       "byLang": {
         "ms": 10
+      },
+      "aiByBot": {
+        "Meta-ExternalAgent": 1
       }
     },
     "2026-08-20": {
@@ -29098,7 +29260,8 @@
         "zh": 4,
         "ms": 123,
         "en": 135
-      }
+      },
+      "aiByBot": {}
     },
     "2026-08-30": {
       "readers": 10,
@@ -29107,6 +29270,9 @@
       "byChannel": {},
       "byLang": {
         "ms": 10
+      },
+      "aiByBot": {
+        "GPTBot": 1
       }
     },
     "2026-08-25": {
@@ -29116,6 +29282,10 @@
       "byChannel": {},
       "byLang": {
         "ms": 6
+      },
+      "aiByBot": {
+        "GPTBot": 196,
+        "Meta-ExternalAgent": 14682
       }
     },
     "2026-09-01": {
@@ -29125,6 +29295,9 @@
       "byChannel": {},
       "byLang": {
         "ms": 10
+      },
+      "aiByBot": {
+        "GPTBot": 1
       }
     },
     "2026-08-19": {
@@ -29135,7 +29308,8 @@
       "byLang": {
         "en": 87,
         "ms": 370
-      }
+      },
+      "aiByBot": {}
     },
     "2026-08-21": {
       "readers": 73,
@@ -29145,7 +29319,8 @@
       "byLang": {
         "en": 10,
         "ms": 63
-      }
+      },
+      "aiByBot": {}
     }
   }
 }
