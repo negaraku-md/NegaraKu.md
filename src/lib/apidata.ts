@@ -118,6 +118,16 @@ export function getAnalytics(): Analytics {
   return read<Analytics>('analytics.json', {});
 }
 
+// Per-day site-level trend series (build-analytics.mjs → analytics-series.json):
+// visitors/search/AI + channel + language over time, for the Analytics trend
+// charts. Accumulates permanently (committed snapshot), so it outlives AE's
+// ~90-day retention — see docs/plans/analytics-redesign.md.
+export type AnalyticsDay = { readers: number; search: number; ai: number; byChannel: Record<string, number>; byLang: Record<string, number> };
+export type AnalyticsSeries = { updatedAt?: string; days: Record<string, AnalyticsDay> };
+export function getAnalyticsSeries(): AnalyticsSeries {
+  return read<AnalyticsSeries>('analytics-series.json', { days: {} });
+}
+
 // Facebook reach archive (analytics/facebook.json, served into public/api at build).
 export type Facebook = {
   updatedAt?: string;

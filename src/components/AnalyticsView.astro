@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { getPillar, PILLARS, loc } from '@/lib/categories';
-import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing } from '@/lib/apidata';
+import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing, getAnalyticsSeries } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 
@@ -147,6 +147,27 @@ const bingQueries = (bing.latest?.topQueries ?? []).slice(0, 8);
 const bingQueryMax = Math.max(1, ...bingQueries.map((q) => q.impressions));
 const bingMonths = Object.keys(bing.byMonth ?? {}).length;
 
+// --- Trend series (daily) for the interactive charts. Baked as JSON below and
+// filtered/drawn client-side (SVG). Accumulates permanently, so it grows well
+// beyond AE's 90-day retention. ---
+const series = getAnalyticsSeries();
+const CHANNEL_COLORS: Record<string, string> = { search: '#FFC000', ai: '#c084fc', social: '#60a5fa', messaging: '#4ade80', other: '#94a3b8', direct: '#38bdf8' };
+const trendDays = Object.entries(series.days ?? {})
+  .sort(([a], [b]) => a.localeCompare(b))
+  .map(([day, dd]) => ({ day, readers: dd.readers ?? 0, ai: dd.ai ?? 0, search: dd.search ?? 0, byChannel: dd.byChannel ?? {} }));
+const chLabels: Record<string, string> = Object.fromEntries(CH_ORDER.map((id) => [id, CHANNEL_META[id]?.label ?? id]));
+const seoMonths = Object.entries(gsc.byMonth ?? {})
+  .sort(([a], [b]) => a.localeCompare(b))
+  .map(([month, m]) => ({ month, impressions: m.impressions ?? 0, clicks: m.clicks ?? 0 }));
+const hasTrend = trendDays.length >= 2;
+const metricLabels = {
+  visitors: L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者'),
+  ai: L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー'),
+  search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー'),
+};
+const seoLabels = { impressions: L('Tera', 'Impressions', '展示', 'காட்சிகள்', '表示'), clicks: L('Klik', 'Clicks', '点击', 'கிளிக்குகள்', 'クリック') };
+const trendJSON = JSON.stringify({ days: trendDays, chColors: CHANNEL_COLORS, chLabels, chOrder: CH_ORDER, seo: seoMonths, metricLabels, seoLabels });
+
 // Anything measured yet? Drives the "trends are accruing" lead note.
 const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || engHas;
 ---
@@ -178,6 +199,135 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     )}</p>
   </section>
 )}
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Trend dari masa ke masa', 'Trends over time', '随时间变化的趋势', 'காலப்போக்கில் போக்குகள்', '時系列トレンド')}</span></header>
+    <div class="psec-body">
+      {!hasTrend ? (
+        <p class="hint">{L(
+          'Trend harian mula terkumpul — carta muncul sebaik sekurang-kurangnya dua hari data direkodkan.',
+          'Daily trends are accumulating — the chart appears once at least two days of data are recorded.',
+          '每日趋势正在积累——记录到至少两天数据后图表即会显示。',
+          'தினசரி போக்குகள் சேர்ந்து வருகின்றன — குறைந்தது இரண்டு நாட்கள் தரவு பதிவானதும் விளக்கப்படம் தோன்றும்.',
+          '日次トレンドを蓄積中です — 2日分以上のデータが記録されるとグラフが表示されます。',
+        )}</p>
+      ) : (
+        <>
+          <div class="tr-ranges" role="group" aria-label="range">
+            <button type="button" class="tr-btn is-on" data-range="30">30{L('h', 'd', '天', 'நா', '日')}</button>
+            <button type="button" class="tr-btn" data-range="90">90{L('h', 'd', '天', 'நா', '日')}</button>
+            <button type="button" class="tr-btn" data-range="all">{L('Semua', 'All', '全部', 'அனைத்தும்', 'すべて')}</button>
+          </div>
+          <p class="ai-h">{L('Pelawat, perayap AI & carian setiap hari', 'Visitors, AI & search crawlers per day', '每日访客、AI 与搜索爬虫', 'தினசரி பார்வையாளர்கள், AI & தேடல்', '日次の訪問者・AI・検索クローラー')}</p>
+          <div id="chart-daily" class="chart"></div>
+          <div id="legend-daily" class="chart-legend"></div>
+          <p class="ai-h chan-h">{L('Trafik mengikut saluran — julat dipilih', 'Traffic by channel — selected range', '各渠道流量——所选范围', 'சேனல் வாரியான போக்குவரத்து — தேர்ந்த வரம்பு', 'チャネル別トラフィック — 選択範囲')}</p>
+          <div id="chan-bars" class="cov-cats"><p class="hint" style="margin:0">—</p></div>
+        </>
+      )}
+      <p class="ai-h chan-h">{L('Prestasi carian mengikut bulan', 'Search performance by month', '按月搜索表现', 'மாதவாரி தேடல் செயல்திறன்', '月別の検索パフォーマンス')}</p>
+      {seoMonths.length < 2 ? (
+        <p class="hint" style="margin:0">{L(
+          `Sekurang-kurangnya dua bulan diperlukan untuk lengkung — kini ${seoMonths.length} bulan diarkibkan.`,
+          `At least two months are needed for a curve — currently ${seoMonths.length} archived.`,
+          `绘制曲线至少需要两个月——目前已归档 ${seoMonths.length} 个月。`,
+          `வளைவுக்கு குறைந்தது இரண்டு மாதங்கள் தேவை — தற்போது ${seoMonths.length} மாதம் காப்பகம்.`,
+          `曲線には最低2か月必要です — 現在 ${seoMonths.length} か月分をアーカイブ。`,
+        )}</p>
+      ) : (
+        <><div id="chart-seo" class="chart"></div><div id="legend-seo" class="chart-legend"></div></>
+      )}
+    </div>
+  </div>
+</section>
+
+<script type="application/json" id="trend-data" set:html={trendJSON}></script>
+<script>
+  (() => {
+    const el = document.getElementById('trend-data');
+    if (!el) return;
+    let data;
+    try { data = JSON.parse(el.textContent || '{}'); } catch { return; }
+    const days = data.days || [];
+    const NS = 'http://www.w3.org/2000/svg';
+    const cssVar = (n, f) => (getComputedStyle(document.documentElement).getPropertyValue(n).trim() || f);
+    const muted = cssVar('--muted', '#8a8a8a');
+    const line = cssVar('--line', '#333');
+
+    // Multi-line SVG chart. rows: [{label, values:{key:num}}]; series: [{key,label,color}].
+    function lineChart(container, rows, series) {
+      container.innerHTML = '';
+      if (!rows || rows.length < 2) { container.innerHTML = '<p class="hint" style="margin:0">—</p>'; return []; }
+      const W = 720, H = 220, padL = 44, padR = 12, padT = 12, padB = 26;
+      const max = Math.max(1, ...rows.flatMap((r) => series.map((s) => r.values[s.key] || 0)));
+      const x = (i) => padL + (i * (W - padL - padR)) / (rows.length - 1);
+      const y = (v) => padT + (1 - v / max) * (H - padT - padB);
+      const svg = document.createElementNS(NS, 'svg');
+      svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+      svg.setAttribute('class', 'chart-svg');
+      const mk = (tag, attrs, text) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (text != null) e.textContent = text; return e; };
+      for (const gv of [0, max]) {
+        const gy = y(gv);
+        svg.appendChild(mk('line', { x1: padL, x2: W - padR, y1: gy, y2: gy, stroke: line, 'stroke-width': 1 }));
+        svg.appendChild(mk('text', { x: padL - 6, y: gy + 3, 'text-anchor': 'end', fill: muted, 'font-size': 10 }, gv.toLocaleString()));
+      }
+      [0, Math.floor((rows.length - 1) / 2), rows.length - 1].forEach((i) => {
+        svg.appendChild(mk('text', { x: x(i), y: H - 8, 'text-anchor': i === 0 ? 'start' : i === rows.length - 1 ? 'end' : 'middle', fill: muted, 'font-size': 10 }, rows[i].label));
+      });
+      for (const s of series) {
+        const pts = rows.map((r, i) => `${x(i).toFixed(1)},${y(r.values[s.key] || 0).toFixed(1)}`).join(' ');
+        svg.appendChild(mk('polyline', { points: pts, fill: 'none', stroke: s.color, 'stroke-width': 2, 'stroke-linejoin': 'round', 'stroke-linecap': 'round' }));
+      }
+      container.appendChild(svg);
+      return series.map((s) => ({ ...s, total: rows.reduce((a, r) => a + (r.values[s.key] || 0), 0) }));
+    }
+
+    function legend(container, items) {
+      if (!container) return;
+      container.innerHTML = items.map((it) => `<span class="lg"><i style="background:${it.color}"></i>${it.label} <b>${it.total.toLocaleString()}</b></span>`).join('');
+    }
+
+    function renderDaily(range) {
+      const rows0 = range === 'all' ? days : days.slice(-parseInt(range, 10));
+      const rows = rows0.map((d) => ({ label: (d.day || '').slice(5), values: { readers: d.readers, ai: d.ai, search: d.search } }));
+      const ml = data.metricLabels || {};
+      const totals = lineChart(document.getElementById('chart-daily'), rows, [
+        { key: 'readers', label: ml.visitors || 'Visitors', color: '#FFC000' },
+        { key: 'ai', label: ml.ai || 'AI', color: '#c084fc' },
+        { key: 'search', label: ml.search || 'Search', color: '#60a5fa' },
+      ]);
+      legend(document.getElementById('legend-daily'), totals);
+      const sums = {};
+      for (const d of rows0) for (const [c, n] of Object.entries(d.byChannel || {})) sums[c] = (sums[c] || 0) + n;
+      const order = data.chOrder || Object.keys(sums);
+      const entries = order.filter((c) => sums[c] > 0).map((c) => ({ n: sums[c], label: (data.chLabels || {})[c] || c, color: (data.chColors || {})[c] || muted }));
+      const cb = document.getElementById('chan-bars');
+      if (!cb) return;
+      if (!entries.length) { cb.innerHTML = '<p class="hint" style="margin:0">—</p>'; return; }
+      const mx = Math.max(...entries.map((e) => e.n));
+      cb.innerHTML = entries.map((e) => `<div class="cov-row ai-row"><span class="cov-name">${e.label}</span><span class="track"><span class="fill" style="width:${Math.max(3, Math.round((e.n / mx) * 100))}%;background:${e.color}"></span></span><span class="cov-num">${e.n.toLocaleString()}</span></div>`).join('');
+    }
+
+    document.querySelectorAll('.tr-btn').forEach((btn) => btn.addEventListener('click', () => {
+      document.querySelectorAll('.tr-btn').forEach((b) => b.classList.remove('is-on'));
+      btn.classList.add('is-on');
+      renderDaily(btn.getAttribute('data-range'));
+    }));
+    if (document.getElementById('chart-daily')) renderDaily('30');
+
+    const seo = data.seo || [];
+    const seoEl = document.getElementById('chart-seo');
+    if (seoEl && seo.length >= 2) {
+      const sl = data.seoLabels || {};
+      const totals = lineChart(seoEl, seo.map((m) => ({ label: m.month, values: { impressions: m.impressions, clicks: m.clicks } })), [
+        { key: 'impressions', label: sl.impressions || 'Impressions', color: '#FFC000' },
+        { key: 'clicks', label: sl.clicks || 'Clicks', color: '#4ade80' },
+      ]);
+      legend(document.getElementById('legend-seo'), totals);
+    }
+  })();
+</script>
 
 <section class="container block">
   <div class="psec">
@@ -523,4 +673,32 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   .ai-top .cov-row { grid-template-columns: minmax(0, 1fr) 5rem 3.4rem; }
   @media (max-width: 800px) { .ai-grid { grid-template-columns: 1fr; } }
   .fbtable td, .fbtable th:not(.chan) { text-align: right; font-variant-numeric: tabular-nums; }
+
+  /* Trend charts */
+  .tr-ranges { display: inline-flex; gap: 0.25rem; margin: 0 0 0.9rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.2rem; background: var(--surface-2); }
+  .tr-btn { border: 0; background: transparent; color: var(--muted); font: inherit; font-size: 0.78rem; font-weight: 700; padding: 0.25rem 0.7rem; border-radius: 999px; cursor: pointer; }
+  .tr-btn:hover { color: var(--ink-soft); }
+  .tr-btn.is-on { background: var(--gold); color: #1a1400; }
+  .chart { width: 100%; }
+  .chart-svg { width: 100%; height: auto; display: block; overflow: visible; }
+  .chart-legend { display: flex; flex-wrap: wrap; gap: 0.4rem 1.1rem; margin: 0.5rem 0 0; font-size: 0.78rem; color: var(--ink-soft); }
+  .chart-legend .lg { display: inline-flex; align-items: center; gap: 0.35rem; }
+  .chart-legend .lg i { width: 0.7rem; height: 0.7rem; border-radius: 3px; display: inline-block; }
+  .chart-legend .lg b { color: var(--ink); font-variant-numeric: tabular-nums; }
+  .chan-h { margin-top: 1.15rem; }
+</style>
+
+<!-- Global rules for CLIENT-INJECTED chart content: Astro scopes component
+     styles with a data-attr the JS-created SVG/rows don't carry, so these
+     elements need un-scoped rules. ID-prefixed so nothing leaks. -->
+<style is:global>
+  #chart-daily .chart-svg, #chart-seo .chart-svg { width: 100%; height: auto; display: block; overflow: visible; }
+  #legend-daily .lg, #legend-seo .lg { display: inline-flex; align-items: center; gap: 0.35rem; }
+  #legend-daily .lg i, #legend-seo .lg i { width: 0.7rem; height: 0.7rem; border-radius: 3px; display: inline-block; }
+  #legend-daily .lg b, #legend-seo .lg b { color: var(--ink); font-variant-numeric: tabular-nums; }
+  #chan-bars .cov-row { display: grid; grid-template-columns: 9.5rem 1fr 3.4rem; gap: 0.6rem; align-items: center; }
+  #chan-bars .cov-name { font-size: 0.82rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #chan-bars .cov-num { font-size: 0.8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+  #chan-bars .track { display: block; height: 9px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
+  #chan-bars .track .fill { display: block; height: 100%; border-radius: 999px; }
 </style>

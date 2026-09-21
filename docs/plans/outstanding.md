@@ -66,9 +66,9 @@ The 4 discovery modes and where we stand:
 ## 📊 Analytics redesign — IN PROGRESS (plan: `docs/plans/analytics-redesign.md`)
 Split `/dashboard` (content health) from a new `/analytics` (filterable growth trends: channel · SEO · AI · visitor · category · language). Data reality: only SEO has trend history; visitors/channels/AI/engagement/social are snapshot-only.
 - [x] **Phase 1a — data foundation**: daily time-series capture (`analytics-store.mjs` series + `accumulate-analytics.mjs` daily fold + `--seed-series` backfill + `build-analytics.mjs` → `public/api/analytics-series.json`); worker locale fix pending. Fail-safe; fold logic unit-tested. *(local, held for push)*
-- [ ] **[you]** Run `Accumulate Visitors snapshot` workflow once with **seed_series = true** (backfills last ~90d of trend data; needs CF token already in secrets)
+- [x] **Seed done** 2026-09-20 — ran `Accumulate Visitors snapshot` with `seed_series = true`; backfilled **38 days** of daily trend data (commit 3686fb8f). Accumulates permanently from here (outlives AE's 90d).
 - [x] **Phase 1b split** — new `/analytics` route (5 locales) + AnalyticsView; moved the 6 analytics panels out of DashboardView (now content-only + cross-link); nav + `nav.analytics` i18n; **worker `ta`/`ja` locale fix**. Build green, dev-verified. *(commit 3c3a02aa, local)*
-- [ ] **[me]** Phase 1b charts — filter bar (time range) + trend charts (traffic-by-channel from the series, SEO from GSC byMonth); best done once the seed has run and data accrues
+- [x] **Phase 1b charts** — `/analytics` "Trends over time": time-range filter (30d/90d/All) + daily multi-line chart (visitors/AI/search crawlers) + traffic-by-channel bars for the selected range + monthly SEO chart (accruing until ≥2 months). Inline SVG, no chart lib; `getAnalyticsSeries()` getter; verified in dev with the 38-day seeded data. *(local, held for push)*
 - [ ] **[me]** Phase 2 — AI segment deep-dive, content performance, social trend (FB byMonth merge-forward), GSC byMonth × category/lang
 
 ## 🛠 Other standing project items
