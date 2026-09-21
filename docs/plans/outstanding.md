@@ -38,7 +38,8 @@ The 4 discovery modes and where we stand:
 
 ### Wikipedia
 - [x] **Phase 2b playbook WRITTEN** — `docs/plans/wikipedia-coi-playbook.md` (COI rules, disclosure, Talk-page edit-request workflow, §3 acceptable-source test, templates, tracker). Lowest-priority/highest-risk channel; do sparingly or skip.
-- [ ] **[you]** Execute (optional): declare COI on your user page, then propose only §3-passing citations via Talk-page edit requests. Claude drafts/assesses on request; never posts.
+- [x] **COI disclosure published** 2026-09-21 — `User:Ai.negaraku.md` states the NegaraKu.md/1company affiliation + the Talk-page-only workflow (via edit API).
+- [ ] **[you]** Execute (optional, sparingly): propose only §3-passing citations via Talk-page `{{request edit}}`. Claude drafts/assesses on request; never posts to article space.
 - [x] Wikidata QID sweep (~343 articles) + own item Q141449495
 
 ### Not started (Tier 2–3)

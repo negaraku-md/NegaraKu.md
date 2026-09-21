@@ -23,10 +23,18 @@ _Status: **user-owned** — Claude drafts and assesses; **you** post, with discl
 ## 1. One-time setup (you, ~10 min)
 
 1. **Use a real, attributable account.** Log in as your named account (e.g. the one used for Wikidata). Do **not** create a single-purpose "promotional" account — that's a red flag.
-2. **Declare the conflict of interest on your user page.** Paste this at `User:<yourname>`:
+2. **Declare the conflict of interest on your user page** (a plain statement — `{{connected contributor}}` is for *article* Talk pages, not the user page). ✅ **DONE 2026-09-21** at `User:Ai.negaraku.md`:
    ```
-   {{connected contributor|User=<yourname>|otherlinks=I am affiliated with NegaraKu.md (negaraku.md), an open, AI-friendly knowledge base about Malaysia. I will not edit articles to add NegaraKu.md links directly; I will only propose them on Talk pages with this disclosure.}}
+   I am affiliated with [https://negaraku.md NegaraKu.md], an open, AI-friendly
+   knowledge base about Malaysia, which is sponsored by 1company. I therefore have
+   a conflict of interest on these topics.
+
+   In line with [[Wikipedia:Conflict of interest]], I do not edit related articles
+   directly to add NegaraKu.md as a source. I only propose citations on an
+   article's '''Talk page''' using {{tlx|request edit}}, disclosing this
+   connection, and leave the decision to independent editors.
    ```
+   > If you are compensated by 1company for this work, also add `{{Paid|user=Ai.negaraku.md|employer=1company|client=NegaraKu.md}}` at the top (WP:PAID). The statement above already discloses the sponsorship either way.
 3. **Know the three policies** (skim once): [WP:COI], [WP:PAID] (if you're paid/employed by 1company, you must also make a paid-contribution disclosure), and [WP:RS]/[WP:SELFPUB] for what counts as a source.
 
 > If NegaraKu.md is sponsored by 1company and you're compensated, treat this as **paid editing**: add the paid disclosure too. When in doubt, disclose more.
