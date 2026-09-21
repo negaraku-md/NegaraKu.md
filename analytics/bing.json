@@ -1,18 +1,54 @@
 {
-  "updatedAt": "2026-09-14T11:18:44.198Z",
+  "updatedAt": "2026-09-21T11:31:18.829Z",
   "site": "https://www.negaraku.md/",
   "byMonth": {
     "2026-09": {
-      "clicks": 1,
-      "impressions": 8
+      "clicks": 6,
+      "impressions": 60
     }
   },
   "latest": {
     "totals": {
-      "clicks": 1,
-      "impressions": 8
+      "clicks": 6,
+      "impressions": 60
     },
     "topQueries": [
+      {
+        "query": "parliament is not legally supreme federal constitution malaysia legislative powers",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 4
+      },
+      {
+        "query": "sekolah jenis kebangsaan cina sjkc contoh dan ciri-ciri malaysia",
+        "clicks": 0,
+        "impressions": 3,
+        "position": 6
+      },
+      {
+        "query": "3e 3r framework chinese explanation education malaysia",
+        "clicks": 0,
+        "impressions": 3,
+        "position": 6
+      },
+      {
+        "query": "and do i need to include my muet? i took it on 2017 for degree entrance and got band 4",
+        "clicks": 0,
+        "impressions": 3,
+        "position": 2
+      },
+      {
+        "query": "borang pk (employment retrenchment notification 2004)",
+        "clicks": 0,
+        "impressions": 2,
+        "position": 6
+      },
+      {
+        "query": "pk form applicable if employees resign",
+        "clicks": 0,
+        "impressions": 2,
+        "position": 10
+      },
       {
         "query": "malaysia federal constitution yang di-pertua negeri powers sultan state constitution conference of rulers",
         "clicks": 0,
@@ -24,6 +60,96 @@
         "clicks": 0,
         "impressions": 1,
         "position": 9
+      },
+      {
+        "query": "negaraku.md",
+        "clicks": 1,
+        "impressions": 1,
+        "position": 1
+      },
+      {
+        "query": "is that i can graduate from unirazak if i have band 3.5 in muet?",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 7
+      },
+      {
+        "query": "highest muet band",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 10
+      },
+      {
+        "query": "malaysia employment retrenchment notification regulations 2004 borang pk employer notification",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 4
+      },
+      {
+        "query": "malaysia retrenchment pk form 30 days penalty rm50,000 employment act 1955",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 2
+      },
+      {
+        "query": "malaysia federal constitution images",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 7
+      },
+      {
+        "query": "curtin university malaysia muet band 3 requirement",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 7
+      },
+      {
+        "query": "malaysia retrenchment form pk termination letter before submission garden leave",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 3
+      },
+      {
+        "query": "malaysia retrenchment form",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 5
+      },
+      {
+        "query": "which programs at um can be admitted for muet band 3 applicants?",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 2
+      },
+      {
+        "query": "federal constitution 13 schedules 说啥",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 10
+      },
+      {
+        "query": "malaysia industrial court retrenchment documentary evidence redundancy selection redeployment borang pk",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 2
+      },
+      {
+        "query": "muet band 3 application restrictions for university programs recognized by the malaysian ministry of education",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 3
+      },
+      {
+        "query": "malaysia retrenchment announce termination before form pk submission garden leave 30 days",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 3
+      },
+      {
+        "query": "muet 3.0 score requirements for malaysian universities' spring semester admission comparison",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 2
       }
     ]
   }
