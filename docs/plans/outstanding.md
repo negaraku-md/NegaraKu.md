@@ -4,7 +4,7 @@ Living tracker of open work toward the mission **"let the world know about Malay
 Update this file as tasks move; check items off when done. Owner tags: **[you]** = user
 action (accounts, credentials, approvals — Claude can't do these), **[me]** = Claude.
 
-_Last updated: 2026-09-20._
+_Last updated: 2026-09-21._
 
 ---
 
@@ -85,7 +85,8 @@ User pointed at Cloudflare's Domain Dashboard ("i expect this type… even can c
 - [x] **[me]** **Stage 4 — live query Worker (contributor-only)** *(local, held for push + worker deploy)*:
   - `worker/src/query.js` + `/_a/q` route in index.js: whitelisted AE SQL group-by (dims country/region/city/device/browser/os/locale/channel/source/bot/path × bucket readers/search/ai/all × 1–90d), gated by an `/api/auth/me` subrequest (contributors only, fail-closed), filter values escaped, caps + ~5-min edge cache. `CF_ACCOUNT_ID` var in wrangler.toml.
   - `AnalyticsView.astro` "Live query" panel (hidden unless `<html data-contributor>`): dim chips (max 3) × audience × range → POST /_a/q → bars. Verified in dev (renders for contributors, max-3 enforced, graceful off-worker failure).
-- [ ] **[you]** Activate Stage 4: `cd worker && npx wrangler deploy` (ships /_a/q) then `npx wrangler secret put AE_API_TOKEN` (paste an Account Analytics:Read token value — AI can't handle token values). Until then /_a/q returns 503 and the panel shows a note.
+- [x] **Stage 4 ACTIVATED + LIVE + verified 2026-09-21** — worker deployed (AUTH service binding gate + `AE_API_TOKEN` secret set), `/_a/q` returns real AE data end-to-end (US/MY/SG by country, device×browser, etc.). Naming aligned (humans = "Readers"/"Pembaca" matching the article Visitors box; CF panels keep "Requests"/"Visits"); live-query hides pre-capture "(none)" rows. See [[negaraku-cf-graphql-analytics]] for the two-login + service-binding + masked-paste gotchas.
+- [ ] **[me]** Optional Stage 4 polish (later): saved-view presets, CSV export, a second filter row, and a "hide (none)" toggle on the baked explorer to match the live query.
 
 ## 🛠 Other standing project items
 - [ ] **Facebook comment-mode** — blocked by App Review / Advanced Access (parked; caption-mode is live)
