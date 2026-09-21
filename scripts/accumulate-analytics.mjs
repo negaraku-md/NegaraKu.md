@@ -18,7 +18,7 @@
 import {
   loadCumulative, saveCumulative, queryTail, addRow, chDateTime,
   loadArticleKeys, filterToArticles,
-  queryDailyTotals, addDayRow, replaceDays,
+  queryDailyTotals, addDayRow, replaceDays, queryDailyAiBots, addAiBotRow,
 } from './lib/analytics-store.mjs';
 
 const ACCOUNT = process.env.CF_ACCOUNT_ID;
@@ -49,7 +49,12 @@ async function main() {
     const upto = chDateTime(Date.now() - 5 * 60 * 1000);
     try {
       const dayRows = await queryDailyTotals({ account: ACCOUNT, token: TOKEN, dataset: DATASET, afterCursor: from, upto });
-      replaceDays((store.series ||= {}), seriesFromRows(dayRows));
+      const fresh = seriesFromRows(dayRows);
+      try {
+        const botRows = await queryDailyAiBots({ account: ACCOUNT, token: TOKEN, dataset: DATASET, afterCursor: from, upto });
+        for (const r of botRows) addAiBotRow(fresh, r);
+      } catch (e) { console.warn(`[accumulate] seed AI-bot query failed (daily totals kept): ${e.message}`); }
+      replaceDays((store.series ||= {}), fresh);
       store.updatedAt = new Date().toISOString();
       await saveCumulative(store);
       console.log(`[accumulate] seeded daily series over last 90d — ${Object.keys(store.series).length} day(s) now stored.`);
@@ -92,6 +97,14 @@ async function main() {
     console.log(`[accumulate] folded ${dayRows.length} daily row(s) into the trend series.`);
   } catch (err) {
     console.warn(`[accumulate] daily series fold failed (per-page fold kept): ${err.message}`);
+  }
+  try {
+    const botRows = await queryDailyAiBots({ account: ACCOUNT, token: TOKEN, dataset: DATASET, afterCursor: fromCursor, upto });
+    store.series ||= {};
+    for (const r of botRows) addAiBotRow(store.series, r);
+    console.log(`[accumulate] folded ${botRows.length} AI-bot daily row(s).`);
+  } catch (err) {
+    console.warn(`[accumulate] AI-bot daily fold failed: ${err.message}`);
   }
 
   store.cursor = upto;

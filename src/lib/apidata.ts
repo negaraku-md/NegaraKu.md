@@ -122,7 +122,7 @@ export function getAnalytics(): Analytics {
 // visitors/search/AI + channel + language over time, for the Analytics trend
 // charts. Accumulates permanently (committed snapshot), so it outlives AE's
 // ~90-day retention — see docs/plans/analytics-redesign.md.
-export type AnalyticsDay = { readers: number; search: number; ai: number; byChannel: Record<string, number>; byLang: Record<string, number> };
+export type AnalyticsDay = { readers: number; search: number; ai: number; byChannel: Record<string, number>; byLang: Record<string, number>; aiByBot?: Record<string, number> };
 export type AnalyticsSeries = { updatedAt?: string; days: Record<string, AnalyticsDay> };
 export function getAnalyticsSeries(): AnalyticsSeries {
   return read<AnalyticsSeries>('analytics-series.json', { days: {} });
@@ -144,7 +144,7 @@ export function getFacebook(): Facebook {
 export type SearchConsole = {
   updatedAt?: string;
   property?: string;
-  byMonth?: Record<string, { clicks: number; impressions: number }>;
+  byMonth?: Record<string, { clicks: number; impressions: number; byCategory?: Record<string, { clicks: number; impressions: number }>; byLang?: Record<string, { clicks: number; impressions: number }> }>;
   latest?: {
     window?: { start: string; end: string };
     totals?: { clicks: number; impressions: number; ctr: number; position: number };

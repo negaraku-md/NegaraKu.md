@@ -154,7 +154,7 @@ const series = getAnalyticsSeries();
 const CHANNEL_COLORS: Record<string, string> = { search: '#FFC000', ai: '#c084fc', social: '#60a5fa', messaging: '#4ade80', other: '#94a3b8', direct: '#38bdf8' };
 const trendDays = Object.entries(series.days ?? {})
   .sort(([a], [b]) => a.localeCompare(b))
-  .map(([day, dd]) => ({ day, readers: dd.readers ?? 0, ai: dd.ai ?? 0, search: dd.search ?? 0, byChannel: dd.byChannel ?? {}, byLang: dd.byLang ?? {} }));
+  .map(([day, dd]) => ({ day, readers: dd.readers ?? 0, ai: dd.ai ?? 0, search: dd.search ?? 0, byChannel: dd.byChannel ?? {}, byLang: dd.byLang ?? {}, aiByBot: dd.aiByBot ?? {} }));
 const LANG_COLORS: Record<string, string> = { ms: '#FFC000', en: '#60a5fa', zh: '#f472b6', ta: '#4ade80', ja: '#c084fc' };
 const LANG_ORDER = ['ms', 'en', 'zh', 'ta', 'ja'];
 const langLabels: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語' };
@@ -169,7 +169,14 @@ const metricLabels = {
   search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー'),
 };
 const seoLabels = { impressions: L('Tera', 'Impressions', '展示', 'காட்சிகள்', '表示'), clicks: L('Klik', 'Clicks', '点击', 'கிளிக்குகள்', 'クリック') };
-const trendJSON = JSON.stringify({ days: trendDays, chColors: CHANNEL_COLORS, chLabels, chOrder: CH_ORDER, langColors: LANG_COLORS, langLabels, langOrder: LANG_ORDER, seo: seoMonths, metricLabels, seoLabels });
+const aiBotAccruing = L(
+  'Data setiap bot mula terkumpul — carta muncul apabila cukup hari direkodkan.',
+  'Per-bot data is accumulating — the chart appears once enough days are recorded.',
+  '各爬虫数据正在积累——记录到足够天数后图表即会显示。',
+  'ஒவ்வொரு bot தரவும் சேர்ந்து வருகிறது — போதிய நாட்கள் பதிவானதும் விளக்கப்படம் தோன்றும்.',
+  'ボット別データを蓄積中です — 十分な日数が記録されるとグラフが表示されます。',
+);
+const trendJSON = JSON.stringify({ days: trendDays, chColors: CHANNEL_COLORS, chLabels, chOrder: CH_ORDER, langColors: LANG_COLORS, langLabels, langOrder: LANG_ORDER, seo: seoMonths, metricLabels, seoLabels, aiBotAccruing });
 
 // Most-read articles (human readers, all-time from analytics.json). Fills the
 // content-performance gap alongside most-crawled + most-engaging.
@@ -240,6 +247,9 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
           <p class="ai-h chan-h">{L('Pelawat mengikut bahasa', 'Visitors by language', '各语言访客', 'மொழி வாரியான பார்வையாளர்கள்', '言語別の訪問者')}</p>
           <div id="chart-lang" class="chart"></div>
           <div id="legend-lang" class="chart-legend"></div>
+          <p class="ai-h chan-h">{L('Perayap AI mengikut bot — dari masa ke masa', 'AI crawlers by bot — over time', '各 AI 爬虫随时间变化', 'AI கிராலர்கள் bot வாரியாக — காலப்போக்கில்', 'AIクローラー別（時系列）')}</p>
+          <div id="chart-aibot" class="chart"></div>
+          <div id="legend-aibot" class="chart-legend"></div>
         </>
       )}
       <p class="ai-h chan-h">{L('Prestasi carian mengikut bulan', 'Search performance by month', '按月搜索表现', 'மாதவாரி தேடல் செயல்திறன்', '月別の検索パフォーマンス')}</p>
@@ -338,7 +348,27 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
       legend(lg, lineChart(el, rows, series));
     }
 
-    function renderAll(range) { renderDaily(range); renderLang(range); }
+    function renderAiBot(range) {
+      const rows0 = range === 'all' ? days : days.slice(-parseInt(range, 10));
+      const el = document.getElementById('chart-aibot');
+      const lg = document.getElementById('legend-aibot');
+      if (!el) return;
+      const tot = {};
+      for (const d of rows0) for (const [b, n] of Object.entries(d.aiByBot || {})) tot[b] = (tot[b] || 0) + n;
+      const bots = Object.entries(tot).sort((a, b) => b[1] - a[1]).slice(0, 5).map(([b]) => b);
+      const daysWith = rows0.filter((d) => Object.keys(d.aiByBot || {}).length).length;
+      if (!bots.length || daysWith < 2) {
+        el.innerHTML = `<p class="hint" style="margin:0">${data.aiBotAccruing || '—'}</p>`;
+        if (lg) lg.innerHTML = '';
+        return;
+      }
+      const palette = ['#c084fc', '#FFC000', '#60a5fa', '#4ade80', '#f472b6'];
+      const series = bots.map((b, i) => ({ key: b, label: b, color: palette[i % palette.length] }));
+      const rows = rows0.map((d) => ({ label: (d.day || '').slice(5), values: Object.fromEntries(bots.map((b) => [b, (d.aiByBot || {})[b] || 0])) }));
+      legend(lg, lineChart(el, rows, series));
+    }
+
+    function renderAll(range) { renderDaily(range); renderLang(range); renderAiBot(range); }
     document.querySelectorAll('.tr-btn').forEach((btn) => btn.addEventListener('click', () => {
       document.querySelectorAll('.tr-btn').forEach((b) => b.classList.remove('is-on'));
       btn.classList.add('is-on');
@@ -746,10 +776,10 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
      styles with a data-attr the JS-created SVG/rows don't carry, so these
      elements need un-scoped rules. ID-prefixed so nothing leaks. -->
 <style is:global>
-  #chart-daily .chart-svg, #chart-seo .chart-svg, #chart-lang .chart-svg { width: 100%; height: auto; display: block; overflow: visible; }
-  #legend-daily .lg, #legend-seo .lg, #legend-lang .lg { display: inline-flex; align-items: center; gap: 0.35rem; }
-  #legend-daily .lg i, #legend-seo .lg i, #legend-lang .lg i { width: 0.7rem; height: 0.7rem; border-radius: 3px; display: inline-block; }
-  #legend-daily .lg b, #legend-seo .lg b, #legend-lang .lg b { color: var(--ink); font-variant-numeric: tabular-nums; }
+  #chart-daily .chart-svg, #chart-seo .chart-svg, #chart-lang .chart-svg, #chart-aibot .chart-svg { width: 100%; height: auto; display: block; overflow: visible; }
+  #legend-daily .lg, #legend-seo .lg, #legend-lang .lg, #legend-aibot .lg { display: inline-flex; align-items: center; gap: 0.35rem; }
+  #legend-daily .lg i, #legend-seo .lg i, #legend-lang .lg i, #legend-aibot .lg i { width: 0.7rem; height: 0.7rem; border-radius: 3px; display: inline-block; }
+  #legend-daily .lg b, #legend-seo .lg b, #legend-lang .lg b, #legend-aibot .lg b { color: var(--ink); font-variant-numeric: tabular-nums; }
   #chan-bars .cov-row { display: grid; grid-template-columns: 9.5rem 1fr 3.4rem; gap: 0.6rem; align-items: center; }
   #chan-bars .cov-name { font-size: 0.82rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   #chan-bars .cov-num { font-size: 0.8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }

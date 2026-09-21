@@ -70,7 +70,8 @@ Split `/dashboard` (content health) from a new `/analytics` (filterable growth t
 - [x] **Phase 1b split** — new `/analytics` route (5 locales) + AnalyticsView; moved the 6 analytics panels out of DashboardView (now content-only + cross-link); nav + `nav.analytics` i18n; **worker `ta`/`ja` locale fix**. Build green, dev-verified. *(commit 3c3a02aa, local)*
 - [x] **Phase 1b charts** — `/analytics` "Trends over time": time-range filter (30d/90d/All) + daily multi-line chart (visitors/AI/search crawlers) + traffic-by-channel bars for the selected range + monthly SEO chart (accruing until ≥2 months). Inline SVG, no chart lib; `getAnalyticsSeries()` getter; verified in dev with the 38-day seeded data. *(local, held for push)*
 - [x] **Phase 2 (part 1)** — visitors-by-**language** trend chart (byLang daily) + **most-read articles** panel (both verified with seeded data) + **FB byMonth merge-forward** capture (social trend accrues forward once FB insights run). *(local, held for push)*
-- [ ] **[me]** Phase 2 (part 2, capture-forward) — GSC `byMonth` × category/lang (needs a `date×page` query; unblocks category/language SEO trends) + per-bot AI daily series (per-crawler trend); both accrue forward, best verified in CI with the secrets
+- [x] **Phase 2 (part 2)** — per-bot AI daily series (`aiByBot`) + "AI crawlers by bot over time" chart (re-seedable → lights up after a fresh `seed_series` run); GSC `byMonth` × category/lang enrichment via a fail-safe `date×page` query (unblocks SEO-by-category/language trends; accrues from the next GSC run + backfills 16mo). Capture unit-tested; build green. *(local, held for push)*
+- [ ] **[you]** Re-run `Accumulate Visitors snapshot` with `seed_series = true` again to backfill the per-bot AI series (the first seed predated it). Optional: it also refreshes the daily series.
 
 ## 🛠 Other standing project items
 - [ ] **Facebook comment-mode** — blocked by App Review / Advanced Access (parked; caption-mode is live)

@@ -58,7 +58,16 @@ export function addRow(pages, r) {
 
 /** A fresh empty day bucket. */
 export function emptyDay() {
-  return { readers: 0, search: 0, ai: 0, byChannel: {}, byLang: {} };
+  return { readers: 0, search: 0, ai: 0, byChannel: {}, byLang: {}, aiByBot: {} };
+}
+
+/** Fold one daily AI-crawler-by-bot row {day,bot,n} into `series` (mutates). */
+export function addAiBotRow(series, r) {
+  const day = r.day;
+  const n = Math.round(Number(r.n) || 0);
+  if (!day || !r.bot || n <= 0) return;
+  const d = (series[day] ||= emptyDay());
+  (d.aiByBot ||= {})[r.bot] = (d.aiByBot[r.bot] || 0) + n;
 }
 
 /** Fold one daily AE row {day,bucket,channel,locale,n} into `series` (mutates). */
@@ -95,6 +104,25 @@ export async function queryDailyTotals({ account, token, dataset, afterCursor, u
     `SELECT toDate(timestamp) AS day, blob2 AS bucket, blob5 AS channel, blob4 AS locale, ` +
     `SUM(_sample_interval) AS n FROM ${dataset} ${bounds} ` +
     `GROUP BY day, bucket, channel, locale`;
+  const res = await fetch(
+    `https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`,
+    { method: 'POST', headers: { Authorization: `Bearer ${token}` }, body: sql },
+  );
+  if (!res.ok) throw new Error(`AE SQL API ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  return (await res.json()).data || [];
+}
+
+/**
+ * Query AE for per-day AI-crawler hits BY BOT in (afterCursor, upto], for the
+ * per-crawler trend. Returns rows [{day,bot,n}]. Throws on HTTP error.
+ */
+export async function queryDailyAiBots({ account, token, dataset, afterCursor, upto }) {
+  const bounds =
+    `WHERE blob2 = 'ai' AND timestamp > toDateTime('${afterCursor}')` +
+    (upto ? ` AND timestamp <= toDateTime('${upto}')` : '');
+  const sql =
+    `SELECT toDate(timestamp) AS day, blob3 AS bot, SUM(_sample_interval) AS n ` +
+    `FROM ${dataset} ${bounds} GROUP BY day, bot`;
   const res = await fetch(
     `https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`,
     { method: 'POST', headers: { Authorization: `Bearer ${token}` }, body: sql },

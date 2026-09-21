@@ -138,6 +138,34 @@ async function main() {
   }
   Object.assign(byMonth, fresh);
 
+  // Enrich byMonth with a per-category and per-language split (for SEO trends by
+  // category/language), from a date×page query over the same 16-month window.
+  // Fail-safe: on error byMonth keeps its aggregate clicks/impressions only.
+  try {
+    const byDatePage = await query(token, { startDate: start16mo, endDate: end, dimensions: ['date', 'page'], rowLimit: 25000 });
+    const split = {};
+    for (const r of byDatePage) {
+      const m = (r.keys?.[0] || '').slice(0, 7);
+      const url = r.keys?.[1] || '';
+      if (!m || !url) continue;
+      const cat = categoryOf(url);
+      if (cat === 'home') continue;
+      const clicks = Math.round(r.clicks || 0);
+      const impressions = Math.round(r.impressions || 0);
+      const mm = (split[m] ||= { byCategory: {}, byLang: {} });
+      const ce = (mm.byCategory[cat] ||= { clicks: 0, impressions: 0 });
+      ce.clicks += clicks; ce.impressions += impressions;
+      const lang = langOf(url);
+      const le = (mm.byLang[lang] ||= { clicks: 0, impressions: 0 });
+      le.clicks += clicks; le.impressions += impressions;
+    }
+    for (const [m, s] of Object.entries(split)) {
+      byMonth[m] = { ...(byMonth[m] || { clicks: 0, impressions: 0 }), byCategory: s.byCategory, byLang: s.byLang };
+    }
+  } catch (err) {
+    console.warn(`[gsc] date×page category split failed, byMonth stays aggregate-only: ${err.message}`);
+  }
+
   // latest — per-category split (aggregate) AND per-language×category split, over
   // the trailing 90 days. The per-language split (byLang) lets the FB backlog
   // poster rank each language's queue by ITS OWN audience demand — an English and
