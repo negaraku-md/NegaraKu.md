@@ -71,7 +71,15 @@ Split `/dashboard` (content health) from a new `/analytics` (filterable growth t
 - [x] **Phase 1b charts** — `/analytics` "Trends over time": time-range filter (30d/90d/All) + daily multi-line chart (visitors/AI/search crawlers) + traffic-by-channel bars for the selected range + monthly SEO chart (accruing until ≥2 months). Inline SVG, no chart lib; `getAnalyticsSeries()` getter; verified in dev with the 38-day seeded data. *(local, held for push)*
 - [x] **Phase 2 (part 1)** — visitors-by-**language** trend chart (byLang daily) + **most-read articles** panel (both verified with seeded data) + **FB byMonth merge-forward** capture (social trend accrues forward once FB insights run). *(local, held for push)*
 - [x] **Phase 2 (part 2)** — per-bot AI daily series (`aiByBot`) + "AI crawlers by bot over time" chart (re-seedable → lights up after a fresh `seed_series` run); GSC `byMonth` × category/lang enrichment via a fail-safe `date×page` query (unblocks SEO-by-category/language trends; accrues from the next GSC run + backfills 16mo). Capture unit-tested; build green. *(local, held for push)*
-- [ ] **[you]** Re-run `Accumulate Visitors snapshot` with `seed_series = true` again to backfill the per-bot AI series (the first seed predated it). Optional: it also refreshes the daily series.
+- [x] Re-ran `seed_series` — per-bot AI series backfilled (28/38 days), "AI crawlers by bot" chart live (deploy 35553309155).
+
+## 🧮 Analytics pivot — IN PROGRESS (user wants Excel-pivot-style, configurable per channel/dimension)
+Decisions: **both engines** (baked public + live contributor); capture **country · region/city · device · browser/OS**. Age/gender NOT capturable (cookieless, privacy — excluded by design).
+- [x] **Stage 1 — edge capture**: worker/src/device.js (UA→device/browser/os) + worker/src/index.js writes blob7-12 (country, region, city, device, browser, os). *(local, held for push)*
+- [ ] **[you]** Deploy the worker (`wrangler deploy` in worker/) so the new dimensions start recording — they CANNOT be backfilled (AE never captured them before; accrue forward only). AI never handles the CF token.
+- [ ] **[me]** Stage 2 — fold the new dimensions into the daily snapshot (marginals + key cross-tabs) / a compact cube
+- [ ] **[me]** Stage 3 — baked-cube pivot UI on /analytics (pick dimension + measure + filters), over existing dims now + new ones as they accrue
+- [ ] **[me]** Stage 4 — live query Worker (contributor-only, behind sign-in): arbitrary Analytics-Engine group-by, whitelisted dims, cached
 
 ## 🛠 Other standing project items
 - [ ] **Facebook comment-mode** — blocked by App Review / Advanced Access (parked; caption-mode is live)

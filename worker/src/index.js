@@ -15,6 +15,7 @@
 
 import { classify, pathKey, isPageView } from './classify.js';
 import { classifyReferrer } from './referrer.js';
+import { deviceInfo } from './device.js';
 
 export default {
   /**
@@ -52,9 +53,12 @@ export default {
         if (bucket !== 'skip' && env.AE) {
           const key = pathKey(url.pathname);
           // blob1=key, blob2=bucket, blob3=bot, blob4=locale, blob5=channel,
-          // blob6=source ; index by key so the SQL API can GROUP BY it cheaply.
-          // doubles[0]=1 is one hit. channel/source are the human referral
-          // source (search/ai/social/…) — only for readers; '' for bots.
+          // blob6=source, blob7=country, blob8=region, blob9=city, blob10=device,
+          // blob11=browser, blob12=os ; index by key so the SQL API can GROUP BY
+          // it cheaply. doubles[0]=1 is one hit. channel/source are the human
+          // referral source (search/ai/social/…) — only for readers; '' for bots.
+          // country/region/city come from Cloudflare's edge geo (request.cf);
+          // device/browser/os are coarse UA buckets — the pivot dimensions.
           const locale = url.pathname.startsWith('/en/') ? 'en'
             : url.pathname.startsWith('/zh/') ? 'zh'
             : url.pathname.startsWith('/ta/') ? 'ta'
@@ -62,9 +66,14 @@ export default {
           const { channel, source } = bucket === 'readers'
             ? classifyReferrer(request.headers.get('referer'), url)
             : { channel: '', source: '' };
+          const cf = request.cf || {};
+          const country = cf.country || '';                    // ISO-2, e.g. MY
+          const region = cf.regionCode || cf.region || '';     // state/region (may be '')
+          const city = cf.city || '';                          // may be '' in some regions
+          const { device, browser, os } = deviceInfo(request.headers.get('user-agent') || '');
           ctx.waitUntil(Promise.resolve().then(() =>
             env.AE.writeDataPoint({
-              blobs: [key, bucket, bot, locale, channel, source],
+              blobs: [key, bucket, bot, locale, channel, source, country, region, city, device, browser, os],
               doubles: [1],
               indexes: [key.slice(0, 96)],
             })
