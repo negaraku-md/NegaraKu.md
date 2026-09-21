@@ -128,6 +128,42 @@ export function getAnalyticsSeries(): AnalyticsSeries {
   return read<AnalyticsSeries>('analytics-series.json', { days: {} });
 }
 
+// Cloudflare zone traffic snapshot (scripts/pull-cf-traffic.mjs → cf-traffic.json):
+// the rich, filterable current-traffic view for /analytics' "Traffic explorer".
+// Compact arrays (see the pull script). `empty` when creds/scope are missing.
+// Retention on the free plan is ~24–72h, so this is a live snapshot, not history.
+export type CfTraffic = {
+  updatedAt?: string;
+  hours?: number;
+  host?: string;
+  empty?: boolean;
+  seed?: boolean;
+  reason?: string;
+  totals?: { count: number; visits: number };
+  cube?: [string, string, string, string, number, number][]; // [country,device,browser,os,count,visits]
+  paths?: [string, string, number, number][];                  // [country,path,count,visits]
+  status?: [string, string, number][];                         // [country,statusClass,count]
+  cache?: [string, string, number][];                          // [country,cacheStatus,count]
+  proto?: [string, string, number][];                          // [country,httpProtocol,count]
+  daily?: [string, number, number][];                          // [date,count,visits]
+};
+export function getCfTraffic(): CfTraffic {
+  return read<CfTraffic>('cf-traffic.json', { empty: true });
+}
+
+// Curated reader cube (build-analytics.mjs → reader-cube.json): human page views
+// only, by country × device × browser × os (+ country × page). 90-day live window;
+// the "Readers (curated)" source of the Traffic explorer. Empty until the edge
+// geo/device capture accrues.
+export type ReaderCube = {
+  updatedAt?: string;
+  cube?: [string, string, string, string, number][]; // [country,device,browser,os,count]
+  paths?: [string, string, number][];                 // [country,pathKey,count]
+};
+export function getReaderCube(): ReaderCube {
+  return read<ReaderCube>('reader-cube.json', { cube: [], paths: [] });
+}
+
 // Facebook reach archive (analytics/facebook.json, served into public/api at build).
 export type Facebook = {
   updatedAt?: string;

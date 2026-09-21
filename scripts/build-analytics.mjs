@@ -22,8 +22,10 @@ import path from 'node:path';
 import {
   loadCumulative, queryTail, addRow, clonePages, cleanPages,
   loadArticleKeys, filterToArticles, OUT_FILE, CUMULATIVE_FILE, queryEngagement,
-  SERIES_OUT_FILE, queryDailyTotals, addDayRow,
+  SERIES_OUT_FILE, queryDailyTotals, addDayRow, queryReaderCube, queryReaderPaths,
 } from './lib/analytics-store.mjs';
+
+const CUBE_OUT_FILE = path.join(path.dirname(OUT_FILE), 'reader-cube.json');
 
 const ACCOUNT = process.env.CF_ACCOUNT_ID;
 const TOKEN = process.env.CF_API_TOKEN;
@@ -90,6 +92,29 @@ async function main() {
   const sortedSeries = Object.fromEntries(Object.entries(series).sort(([a], [b]) => a.localeCompare(b)));
   await writeFile(SERIES_OUT_FILE, JSON.stringify({ updatedAt: new Date().toISOString(), days: sortedSeries }, null, 2) + '\n', 'utf8');
   console.log(`[analytics] wrote ${SERIES_OUT_FILE} — ${Object.keys(sortedSeries).length} day(s).`);
+
+  // Reader cube (curated "Traffic explorer" source): human page views by
+  // country × device × browser × os, plus country × page — a 90-day live window
+  // (the geo/device blobs only exist since the worker gained them, so not folded
+  // into the all-time snapshot). Empty until the edge capture accrues; the panel
+  // shows a "still accruing" note. Best-effort — never fails the build.
+  const cube = { updatedAt: new Date().toISOString(), cube: [], paths: [] };
+  if (ACCOUNT && TOKEN) {
+    try {
+      const rows = await queryReaderCube({ account: ACCOUNT, token: TOKEN, dataset: DATASET, days: 90 });
+      cube.cube = rows
+        .map((r) => [r.country || '', r.device || '', r.browser || '', r.os || '', Math.round(Number(r.n) || 0)])
+        .filter((r) => r[4] > 0);
+      const pRows = await queryReaderPaths({ account: ACCOUNT, token: TOKEN, dataset: DATASET, days: 90 });
+      cube.paths = pRows
+        .map((r) => [r.country || '', r.path || '', Math.round(Number(r.n) || 0)])
+        .filter((r) => r[1] && r[1] !== 'home' && (!keys || keys.has(r[1])) && r[2] > 0);
+      console.log(`[analytics] reader cube — ${cube.cube.length} geo/device rows, ${cube.paths.length} page rows.`);
+    } catch (err) {
+      console.warn(`[analytics] reader cube query failed (non-fatal): ${err.message}`);
+    }
+  }
+  await writeFile(CUBE_OUT_FILE, JSON.stringify(cube) + '\n', 'utf8');
 
   // Serve the committed archive snapshots (Facebook / Search Console), written by
   // their own scheduled workflows into analytics/. Copy each into public/api/ so

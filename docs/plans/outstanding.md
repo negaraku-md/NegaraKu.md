@@ -73,13 +73,16 @@ Split `/dashboard` (content health) from a new `/analytics` (filterable growth t
 - [x] **Phase 2 (part 2)** — per-bot AI daily series (`aiByBot`) + "AI crawlers by bot over time" chart (re-seedable → lights up after a fresh `seed_series` run); GSC `byMonth` × category/lang enrichment via a fail-safe `date×page` query (unblocks SEO-by-category/language trends; accrues from the next GSC run + backfills 16mo). Capture unit-tested; build green. *(local, held for push)*
 - [x] Re-ran `seed_series` — per-bot AI series backfilled (28/38 days), "AI crawlers by bot" chart live (deploy 35553309155).
 
-## 🧮 Analytics pivot — IN PROGRESS (user wants Excel-pivot-style, configurable per channel/dimension)
-Decisions: **both engines** (baked public + live contributor); capture **country · region/city · device · browser/OS**. Age/gender NOT capturable (cookieless, privacy — excluded by design).
-- [x] **Stage 1 — edge capture**: worker/src/device.js (UA→device/browser/os) + worker/src/index.js writes blob7-12 (country, region, city, device, browser, os). *(local, held for push)*
-- [ ] **[you]** Deploy the worker (`wrangler deploy` in worker/) so the new dimensions start recording — they CANNOT be backfilled (AE never captured them before; accrue forward only). AI never handles the CF token.
-- [ ] **[me]** Stage 2 — fold the new dimensions into the daily snapshot (marginals + key cross-tabs) / a compact cube
-- [x] **Stage 3 — pivot UI (baked)** on /analytics: "Explore — pivot" with Group by (Pillar/Category/Article) × Measure (Visitors/AI crawlers/Search crawlers/Avg dwell) × Channel filter (Visitors only). Client-side over a baked per-page fact table; verified with real data. Country/region/device/browser slot in once the worker capture accrues. *(local, held for push)*
-- [ ] **[me]** Stage 4 — live query Worker (contributor-only, behind sign-in): arbitrary Analytics-Engine group-by, whitelisted dims, cached
+## 🧮 Analytics pivot / Traffic explorer — Cloudflare-style, IN PROGRESS
+User pointed at Cloudflare's Domain Dashboard ("i expect this type… even can configure") — filterable, configurable multi-panel traffic view. Decision: **both sources, unified** on /analytics; headline = **Visitors · Impressions · Clicks**. See [[negaraku-cf-graphql-analytics]].
+- [x] **Stage 1 — edge capture**: worker/src/device.js + index.js write blob7-12 (country, region, city, device, browser, os). **Worker DEPLOYED 2026-09-21** (`wrangler deploy`, Version 31f3d420) — dimensions now recording, accrue forward (no backfill).
+- [x] **Stage 2 — CF Traffic explorer (Cloudflare-style, configurable + filterable)** *(local, held for push)*:
+  - `scripts/pull-cf-traffic.mjs` — build-time pull of CF GraphQL `httpRequestsAdaptiveGroups` → `public/api/cf-traffic.json` (compact cube country×device×browser×os + paths/status/cache/proto + `visits`; html-only; fail-safe; keeps a local seed when no creds). Wired into predev/prebuild + deploy.yml + `npm run pull:cf`.
+  - AE curated cube: `queryReaderCube`/`queryReaderPaths` → `public/api/reader-cube.json` (human readers by country×device×browser×os, 90-day).
+  - `AnalyticsView.astro` "Traffic explorer": source toggle (Cloudflare all-traffic ↔ curated Readers) · global filter bar (click any bar/legend → filter chip; recomputes every panel) · configurable panels (⋯ → dimension · measure · view-as bars/donut · Duplicate · Remove) · + Add panel · localized (Intl.DisplayNames country names) · localStorage-sticky. Verified live with real seeded CF data (US 82%, Device donut 93/7, MY-filter → Edge top).
+- [ ] **[you]** Add repo secret **`CF_ZONE_ID` = `d815f22b0c0c941b96f9b96e14d91bd1`** AND extend `CF_API_TOKEN` with **Zone → Analytics → Read** (or a new token). Until then the explorer shows the "connect" note (CF panels empty); tiles + curated source still work.
+- [x] **Stage 3 — pivot UI (baked)** "Explore — pivot" (Group by Pillar/Category/Article × Measure × Channel). *(shipped)*
+- [ ] **[me]** Stage 4 — live query Worker (contributor-only): arbitrary AE group-by, whitelisted dims, cached (after data accrues)
 
 ## 🛠 Other standing project items
 - [ ] **Facebook comment-mode** — blocked by App Review / Advanced Access (parked; caption-mode is live)

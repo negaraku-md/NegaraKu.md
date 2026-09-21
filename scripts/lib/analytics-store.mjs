@@ -131,6 +131,44 @@ export async function queryDailyAiBots({ account, token, dataset, afterCursor, u
   return (await res.json()).data || [];
 }
 
+/**
+ * Reader cube for the /analytics "Traffic explorer" curated source: human
+ * page views (bucket='readers') grouped by the edge geo/device blobs the Worker
+ * writes — blob7 country, blob10 device, blob11 browser, blob12 os. Live 90-day
+ * window (these blobs only exist since the worker gained them; not folded into
+ * the all-time snapshot). Returns [{country,device,browser,os,n}].
+ */
+export async function queryReaderCube({ account, token, dataset, days = 90 }) {
+  const sql =
+    `SELECT blob7 AS country, blob10 AS device, blob11 AS browser, blob12 AS os, ` +
+    `SUM(_sample_interval) AS n FROM ${dataset} ` +
+    `WHERE blob2 = 'readers' AND timestamp > NOW() - INTERVAL '${days}' DAY ` +
+    `GROUP BY country, device, browser, os`;
+  const res = await fetch(
+    `https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`,
+    { method: 'POST', headers: { Authorization: `Bearer ${token}` }, body: sql },
+  );
+  if (!res.ok) throw new Error(`AE SQL API ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  return (await res.json()).data || [];
+}
+
+/**
+ * Reader page-path cube (country × article key) over the trailing `days`, for the
+ * curated Top-pages panel filtered by country. Returns [{country,path,n}].
+ */
+export async function queryReaderPaths({ account, token, dataset, days = 90 }) {
+  const sql =
+    `SELECT blob7 AS country, blob1 AS path, SUM(_sample_interval) AS n FROM ${dataset} ` +
+    `WHERE blob2 = 'readers' AND timestamp > NOW() - INTERVAL '${days}' DAY ` +
+    `GROUP BY country, path`;
+  const res = await fetch(
+    `https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`,
+    { method: 'POST', headers: { Authorization: `Bearer ${token}` }, body: sql },
+  );
+  if (!res.ok) throw new Error(`AE SQL API ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  return (await res.json()).data || [];
+}
+
 /** Deep-ish clone of a pages map (so the live tail never mutates the snapshot). */
 export function clonePages(pages) {
   const out = {};

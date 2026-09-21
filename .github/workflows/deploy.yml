@@ -126,6 +126,12 @@ jobs:
           # from Analytics Engine. Absent → it no-ops ("not tracked yet").
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          # Cloudflare zone traffic snapshot — pull-cf-traffic.mjs reads the zone's
+          # GraphQL HTTP analytics (needs CF_ZONE_ID + a token with Zone
+          # Analytics:Read). Absent/unscoped → it writes an empty stub and the
+          # "Traffic explorer" shows a connect note. Fail-safe; never breaks build.
+          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+          SITE_URL: https://negaraku.md
           # Maintenance mode — only ever on via a manual "Run workflow" with the
           # toggle. A normal push (inputs empty) always deploys the live site.
           MAINTENANCE: ${{ github.event.inputs.maintenance == 'true' && '1' || '' }}

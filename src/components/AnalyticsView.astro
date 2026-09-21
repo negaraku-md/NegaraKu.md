@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { getPillar, getCategory, PILLARS, loc } from '@/lib/categories';
-import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing, getAnalyticsSeries } from '@/lib/apidata';
+import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing, getAnalyticsSeries, getCfTraffic, getReaderCube } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 
@@ -230,6 +230,89 @@ const pivotJSON = JSON.stringify({
   chOnlyNote: L('Penapis saluran hanya untuk Pelawat.', 'Channel filter applies to Visitors only.', '渠道筛选仅适用于访客。', 'சேனல் வடிகட்டி பார்வையாளர்களுக்கு மட்டும்.', 'チャネル絞り込みは訪問者のみ。'),
 });
 
+// --- Traffic explorer (Cloudflare-style, configurable + filterable) ----------
+// Two sources shown under a toggle: CF = Cloudflare's rich current-traffic
+// snapshot (all requests incl. bots; last ~24h; country/device/browser/os/page/
+// status/cache); AE = our curated human readers (bot-filtered; 90-day). Both
+// share one compact-cube shape so one client engine drives every panel. Headline
+// tiles cover the three the user asked for: Visitors · Impressions · Clicks.
+const cf = getCfTraffic();
+const rcube = getReaderCube();
+const totalReaders = Object.values(analytics).reduce(
+  (s, row) => s + (typeof row.readers === 'number' ? row.readers : (row.readers?.total ?? 0)), 0);
+const impressionsTotal = (gscTotals?.impressions ?? 0) + (bingT?.impressions ?? 0);
+const clicksTotal = (gscTotals?.clicks ?? 0) + (bingT?.clicks ?? 0);
+// Titles only for the AE page keys actually present (keeps the payload small).
+const aeTitles: Record<string, string> = {};
+for (const [key] of (rcube.paths ?? [])) if (!(key in aeTitles)) aeTitles[key] = titleByKey.get(key) ?? key;
+const exLabels = {
+  explorer: L('Penjelajah trafik', 'Traffic explorer', '流量浏览器', 'போக்குவரத்து ஆய்வி', 'トラフィックエクスプローラ'),
+  srcCf: L('Semua trafik · Cloudflare', 'All traffic · Cloudflare', '全部流量 · Cloudflare', 'அனைத்து போக்குவரத்து · Cloudflare', '全トラフィック · Cloudflare'),
+  srcAe: L('Pembaca · terkurasi', 'Readers · curated', '读者 · 精选', 'வாசகர்கள் · தொகுக்கப்பட்டது', '読者 · 厳選'),
+  addFilter: L('Tambah penapis', 'Add filter', '添加筛选', 'வடிப்பான் சேர்', 'フィルタを追加'),
+  clear: L('Kosongkan', 'Clear', '清除', 'அழி', 'クリア'),
+  addPanel: L('Tambah panel', 'Add panel', '添加面板', 'பலகம் சேர்', 'パネルを追加'),
+  configure: L('Konfigur', 'Configure', '配置', 'கட்டமை', '設定'),
+  duplicate: L('Gandakan', 'Duplicate', '复制', 'நகல்', '複製'),
+  remove: L('Buang', 'Remove', '移除', 'நீக்கு', '削除'),
+  viewAs: L('Papar sebagai', 'View as', '显示为', 'இப்படி காட்டு', '表示形式'),
+  bars: L('Bar', 'Bars', '条形', 'பட்டைகள்', 'バー'),
+  donut: L('Donat', 'Donut', '环形', 'டோனட்', 'ドーナツ'),
+  measure: L('Ukuran', 'Measure', '度量', 'அளவை', '指標'),
+  requests: L('Permintaan', 'Requests', '请求', 'கோரிக்கைகள்', 'リクエスト'),
+  visits: L('Lawatan', 'Visits', '访问', 'வருகைகள்', '訪問'),
+  visitors: L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者'),
+  impressions: L('Tera', 'Impressions', '展示', 'காட்சிகள்', '表示'),
+  clicks: L('Klik', 'Clicks', '点击', 'கிளிக்குகள்', 'クリック'),
+  others: L('Lain-lain', 'Others', '其他', 'மற்றவை', 'その他'),
+  none: L('(tiada)', '(none)', '(无)', '(இல்லை)', '(なし)'),
+  allTime: L('sepanjang masa', 'all-time', '累计', 'எல்லா காலமும்', '累計'),
+  last90: L('90 hari', '90 days', '90 天', '90 நாட்கள்', '90日間'),
+  window24: L('tetingkap semasa', 'current window', '当前时段', 'தற்போதைய சாளரம்', '現在の期間'),
+  dims: {
+    country: L('Negara', 'Country', '国家/地区', 'நாடு', '国'),
+    device: L('Peranti', 'Device', '设备', 'சாதனம்', 'デバイス'),
+    browser: L('Pelayar', 'Browser', '浏览器', 'உலாவி', 'ブラウザ'),
+    os: L('Sistem operasi', 'OS', '操作系统', 'OS', 'OS'),
+    page: L('Halaman', 'Page', '页面', 'பக்கம்', 'ページ'),
+    status: L('Kod status', 'Status code', '状态码', 'நிலைக் குறியீடு', 'ステータス'),
+    cache: L('Cache', 'Cache', '缓存', 'கேச்', 'キャッシュ'),
+    proto: L('Protokol HTTP', 'HTTP protocol', 'HTTP 协议', 'HTTP நெறிமுறை', 'HTTPプロトコル'),
+  },
+  cfNote: L(
+    'Cloudflare mengira SEMUA permintaan (termasuk bot & aset) dalam tetingkap terkini — kaya tetapi bising.',
+    'Cloudflare counts ALL requests (bots & assets included) in the current window — rich but noisy.',
+    'Cloudflare 统计当前时段内的所有请求（含爬虫和资源）——丰富但含噪。',
+    'Cloudflare தற்போதைய சாளரத்தில் அனைத்து கோரிக்கைகளையும் (bots & assets உட்பட) எண்ணுகிறது — செழுமையானது ஆனால் இரைச்சல்.',
+    'Cloudflare は現在の期間の全リクエスト（ボット・アセット含む）を集計 — 豊富だがノイズあり。',
+  ),
+  aeNote: L(
+    'Pembaca manusia sahaja (bot ditapis) — geo/peranti mula terkumpul dari edge.',
+    'Human readers only (bots filtered) — geo/device is accruing from the edge.',
+    '仅人类读者（已过滤爬虫）——地理/设备数据正从边缘积累。',
+    'மனித வாசகர்கள் மட்டும் (bots வடிகட்டப்பட்டது) — geo/சாதனம் edge-இல் இருந்து சேர்ந்து வருகிறது.',
+    '人間の読者のみ（ボット除外）— geo/デバイスはエッジから蓄積中。',
+  ),
+  emptyCf: L(
+    'Snapshot Cloudflare belum tersambung — tetapkan CF_ZONE_ID + skop token "Zone Analytics: Read".',
+    'Cloudflare snapshot not connected yet — set CF_ZONE_ID + token scope "Zone Analytics: Read".',
+    '尚未连接 Cloudflare 快照——请设置 CF_ZONE_ID 及令牌权限 "Zone Analytics: Read"。',
+    'Cloudflare ஸ்னாப்ஷாட் இணைக்கப்படவில்லை — CF_ZONE_ID + token "Zone Analytics: Read" அமைக்கவும்.',
+    'Cloudflare スナップショット未接続 — CF_ZONE_ID とトークン権限 "Zone Analytics: Read" を設定してください。',
+  ),
+  updated: L('Dikemas kini', 'Updated', '更新于', 'புதுப்பிக்கப்பட்டது', '更新'),
+  seedNote: L('(data contoh — segar apabila CI berjalan)', '(sample data — refreshes when CI runs)', '（示例数据——CI 运行后刷新）', '(மாதிரி தரவு — CI இயங்கும்போது புதுப்பிக்கும்)', '(サンプルデータ — CI 実行時に更新)'),
+};
+const explorerJSON = JSON.stringify({
+  locale,
+  cf: cf.empty
+    ? { empty: true }
+    : { totals: cf.totals ?? { count: 0, visits: 0 }, cube: cf.cube ?? [], paths: cf.paths ?? [], status: cf.status ?? [], cache: cf.cache ?? [], proto: cf.proto ?? [], hours: cf.hours ?? 24, updatedAt: cf.updatedAt, seed: !!cf.seed },
+  ae: { cube: rcube.cube ?? [], paths: rcube.paths ?? [] },
+  aeTitles,
+  labels: exLabels,
+});
+
 // Anything measured yet? Drives the "trends are accruing" lead note.
 const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || engHas;
 ---
@@ -249,6 +332,238 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     '世界が NegaraKu.md をどう見つけているか — チャネル、検索、AI、ソーシャル、読者エンゲージメント。',
   )}
 />
+
+<section class="container block">
+  <div class="tx-tiles">
+    <div class="tx-tile">
+      <span class="tx-k">{exLabels.visitors}</span>
+      <span class="tx-v">{totalReaders > 0 ? totalReaders.toLocaleString() : '—'}</span>
+      <span class="tx-s">{exLabels.allTime} · {exLabels.srcAe.split(' · ')[0]}</span>
+    </div>
+    <div class="tx-tile">
+      <span class="tx-k">{exLabels.impressions}</span>
+      <span class="tx-v">{impressionsTotal > 0 ? impressionsTotal.toLocaleString() : '—'}</span>
+      <span class="tx-s">{exLabels.last90} · Google + Bing</span>
+    </div>
+    <div class="tx-tile">
+      <span class="tx-k">{exLabels.clicks}</span>
+      <span class="tx-v">{clicksTotal > 0 ? clicksTotal.toLocaleString() : '—'}</span>
+      <span class="tx-s">{exLabels.last90} · Google + Bing</span>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{exLabels.explorer}</span></header>
+    <div class="psec-body">
+      <div id="tx-app" class="tx-app"><p class="hint" style="margin:0">—</p></div>
+    </div>
+  </div>
+</section>
+
+<script type="application/json" id="tx-data" set:html={explorerJSON}></script>
+<script>
+  (() => {
+    const el = document.getElementById('tx-data');
+    const app = document.getElementById('tx-app');
+    if (!el || !app) return;
+    let D; try { D = JSON.parse(el.textContent || '{}'); } catch { return; }
+    const LB = D.labels || {};
+    const DIMS = LB.dims || {};
+    const locale = D.locale || 'en';
+    const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+    // --- source model --------------------------------------------------------
+    const cfOk = !!(D.cf && !D.cf.empty && (D.cf.cube || []).length);
+    const aeOk = !!(D.ae && (D.ae.cube || []).length);
+    let SRC = cfOk ? 'cf' : (aeOk ? 'ae' : 'cf');
+    // dims each source can group by
+    const DIM_KEYS = { cf: ['country', 'device', 'browser', 'os', 'page', 'status', 'cache', 'proto'], ae: ['country', 'device', 'browser', 'os', 'page'] };
+    const FILTERABLE = ['country', 'device', 'browser', 'os']; // cube dims
+    const cubeIdx = { country: 0, device: 1, browser: 2, os: 3 };
+
+    // country code → localized name
+    let regionNames = null;
+    try { regionNames = new Intl.DisplayNames([locale], { type: 'region' }); } catch { regionNames = null; }
+    const cap = (s) => (s ? s.charAt(0).toUpperCase() + s.slice(1) : s);
+    function labelFor(dim, v) {
+      if (v === '' || v == null) return LB.none || '(none)';
+      if (dim === 'country') { try { return regionNames ? (regionNames.of(v) || v) : v; } catch { return v; } }
+      if (dim === 'device') return cap(v);
+      if (dim === 'page') return (SRC === 'ae' ? (D.aeTitles?.[v] || v) : v);
+      return v;
+    }
+
+    // --- state (persisted per viewer) ---------------------------------------
+    const DEFAULT_PANELS = [
+      { dim: 'country', measure: 'requests', view: 'bars' },
+      { dim: 'device', measure: 'requests', view: 'donut' },
+      { dim: 'browser', measure: 'requests', view: 'bars' },
+      { dim: 'os', measure: 'requests', view: 'bars' },
+      { dim: 'page', measure: 'requests', view: 'bars' },
+      { dim: 'status', measure: 'requests', view: 'donut' },
+    ];
+    let state = { src: SRC, filters: {}, panels: DEFAULT_PANELS.map((p) => ({ ...p })) };
+    try { const s = JSON.parse(localStorage.getItem('tx.v1') || 'null'); if (s && s.panels) state = s; } catch { /* ignore */ }
+    SRC = (state.src === 'ae' && aeOk) || (state.src === 'cf' && cfOk) ? state.src : SRC;
+    state.src = SRC;
+    const save = () => { try { localStorage.setItem('tx.v1', JSON.stringify(state)); } catch { /* ignore */ } };
+
+    // normalise a panel's dim/measure for the active source
+    function fixPanel(p) {
+      if (!DIM_KEYS[SRC].includes(p.dim)) p.dim = 'country';
+      if (SRC === 'ae') p.measure = 'requests'; // ae has one measure
+      if (p.measure === 'visits' && SRC !== 'cf') p.measure = 'requests';
+      return p;
+    }
+
+    // --- aggregation ---------------------------------------------------------
+    // returns { rows:[{key,label,value}], total }
+    function aggregate(dim, measure) {
+      const s = D[SRC] || {};
+      let table, dimIdx, measIdx, filterCols;
+      if (['country', 'device', 'browser', 'os'].includes(dim)) {
+        table = s.cube || []; dimIdx = cubeIdx[dim];
+        measIdx = SRC === 'cf' ? (measure === 'visits' ? 5 : 4) : 4;
+        filterCols = cubeIdx; // supports all four
+      } else if (dim === 'page') {
+        table = s.paths || []; dimIdx = 1;
+        measIdx = SRC === 'cf' ? (measure === 'visits' ? 3 : 2) : 2;
+        filterCols = { country: 0 };
+      } else { // status | cache | proto (cf only)
+        table = s[dim] || []; dimIdx = 1; measIdx = 2; filterCols = { country: 0 };
+      }
+      const f = state.filters || {};
+      const agg = new Map();
+      let total = 0;
+      for (const row of table) {
+        let skip = false;
+        for (const fk in f) { const ci = filterCols[fk]; if (ci != null && row[ci] !== f[fk]) { skip = true; break; } }
+        if (skip) continue;
+        const key = row[dimIdx] ?? '';
+        const val = Number(row[measIdx]) || 0;
+        if (val <= 0) continue;
+        // hide asset/utility paths on the page panel
+        if (dim === 'page') { const p = String(key); if (/\.(png|jpe?g|gif|svg|webp|ico|css|js|mjs|json|xml|txt|map|woff2?|md)$/i.test(p) || p.includes('/cdn-cgi/') || p.includes('/_astro/') || p.includes('/.well-known/') || p === '/_a/e') continue; }
+        agg.set(key, (agg.get(key) || 0) + val);
+        total += val;
+      }
+      let rows = [...agg.entries()].map(([key, value]) => ({ key, value, label: labelFor(dim, key) })).sort((a, b) => b.value - a.value);
+      return { rows, total };
+    }
+
+    // --- renderers -----------------------------------------------------------
+    const PAL = ['#FFC000', '#60a5fa', '#c084fc', '#4ade80', '#f472b6', '#38bdf8', '#fb923c', '#a3e635'];
+    function barsHTML(dim, rows, total) {
+      const top = rows.slice(0, 12);
+      const mx = Math.max(1, ...top.map((r) => r.value));
+      const clickable = FILTERABLE.includes(dim);
+      return top.map((r) => {
+        const pct = total ? Math.round((r.value / total) * 100) : 0;
+        const cls = 'cov-row ai-row' + (clickable ? ' tx-click' : '');
+        const attr = clickable ? ` data-dim="${dim}" data-val="${esc(r.key)}" role="button" tabindex="0"` : '';
+        return `<div class="${cls}"${attr}><span class="cov-name" title="${esc(r.label)}">${esc(r.label)}</span><span class="track"><span class="fill" style="width:${Math.max(3, Math.round((r.value / mx) * 100))}%"></span></span><span class="cov-num">${r.value.toLocaleString()}<i class="tx-pct">${pct}%</i></span></div>`;
+      }).join('') || `<p class="hint" style="margin:0">—</p>`;
+    }
+    function donutHTML(dim, rows, total, measureLbl) {
+      if (!rows.length || !total) return `<p class="hint" style="margin:0">—</p>`;
+      const top = rows.slice(0, 6);
+      const rest = rows.slice(6).reduce((a, r) => a + r.value, 0);
+      const segs = top.map((r, i) => ({ label: r.label, key: r.key, value: r.value, color: PAL[i % PAL.length] }));
+      if (rest > 0) segs.push({ label: LB.others || 'Others', key: '__others', value: rest, color: '#64748b' });
+      const R = 52, C = 2 * Math.PI * R; let off = 0;
+      const arcs = segs.map((s) => { const len = (s.value / total) * C; const a = `<circle cx="70" cy="70" r="${R}" fill="none" stroke="${s.color}" stroke-width="22" stroke-dasharray="${len.toFixed(2)} ${(C - len).toFixed(2)}" stroke-dashoffset="${(-off).toFixed(2)}" transform="rotate(-90 70 70)"/>`; off += len; return a; }).join('');
+      const clickable = FILTERABLE.includes(dim);
+      const legend = segs.map((s) => { const pct = Math.round((s.value / total) * 100); const attr = clickable && s.key !== '__others' ? ` data-dim="${dim}" data-val="${esc(s.key)}" role="button" tabindex="0" class="tx-lg tx-click"` : ' class="tx-lg"'; return `<span${attr}><i style="background:${s.color}"></i>${esc(s.label)} <b>${s.value.toLocaleString()}</b> <em>${pct}%</em></span>`; }).join('');
+      return `<div class="tx-donut"><svg viewBox="0 0 140 140" class="chart-svg tx-dsvg">${arcs}<text x="70" y="67" text-anchor="middle" class="tx-dc">${total.toLocaleString()}</text><text x="70" y="83" text-anchor="middle" class="tx-dcl">${esc(measureLbl || '')}</text></svg><div class="tx-legend">${legend}</div></div>`;
+    }
+
+    // --- panel + chrome ------------------------------------------------------
+    function measureLabel(m) { return m === 'visits' ? (LB.visits || 'Visits') : (SRC === 'ae' ? (LB.visitors || 'Visitors') : (LB.requests || 'Requests')); }
+    function panelHTML(p, i) {
+      fixPanel(p);
+      const { rows, total } = aggregate(p.dim, p.measure);
+      const body = p.view === 'donut' ? donutHTML(p.dim, rows, total, measureLabel(p.measure)) : barsHTML(p.dim, rows, total);
+      const dimOpts = DIM_KEYS[SRC].map((k) => `<option value="${k}"${k === p.dim ? ' selected' : ''}>${esc(DIMS[k] || k)}</option>`).join('');
+      const measOpts = (SRC === 'cf' ? ['requests', 'visits'] : ['requests']).map((m) => `<option value="${m}"${m === p.measure ? ' selected' : ''}>${esc(measureLabel(m))}</option>`).join('');
+      const viewOpts = ['bars', 'donut'].map((v) => `<option value="${v}"${v === p.view ? ' selected' : ''}>${v === 'donut' ? (LB.donut || 'Donut') : (LB.bars || 'Bars')}</option>`).join('');
+      return `<div class="tx-panel" data-i="${i}">
+        <div class="tx-phead"><span class="tx-ptitle">${esc(DIMS[p.dim] || p.dim)} <em>· ${esc(measureLabel(p.measure))}</em></span>
+          <button class="tx-menu-btn" data-act="menu" aria-label="menu">⋯</button></div>
+        <div class="tx-cfg" hidden>
+          <label>${esc(LB.configure || 'Configure')}<select data-act="dim">${dimOpts}</select></label>
+          <label>${esc(LB.measure || 'Measure')}<select data-act="measure"${SRC !== 'cf' ? ' disabled' : ''}>${measOpts}</select></label>
+          <label>${esc(LB.viewAs || 'View as')}<select data-act="view">${viewOpts}</select></label>
+          <div class="tx-cfg-btns"><button data-act="dup">${esc(LB.duplicate || 'Duplicate')}</button><button data-act="del" class="tx-del">${esc(LB.remove || 'Remove')}</button></div>
+        </div>
+        <div class="tx-pbody">${body}</div></div>`;
+    }
+    function chipsHTML() {
+      const f = state.filters || {}; const keys = Object.keys(f);
+      const chips = keys.map((k) => `<span class="tx-chip">${esc(DIMS[k] || k)}: <b>${esc(labelFor(k, f[k]))}</b><button data-act="unchip" data-k="${k}">×</button></span>`).join('');
+      const clear = keys.length ? `<button class="tx-clear" data-act="clearf">${esc(LB.clear || 'Clear')}</button>` : '';
+      // add-filter control
+      const addSel = `<span class="tx-addf"><select data-act="addf-dim"><option value="">+ ${esc(LB.addFilter || 'Add filter')}</option>${FILTERABLE.filter((d) => !(d in f)).map((d) => `<option value="${d}">${esc(DIMS[d] || d)}</option>`).join('')}</select><select data-act="addf-val" hidden></select></span>`;
+      return `<div class="tx-chips">${chips}${addSel}${clear}</div>`;
+    }
+    function metaHTML() {
+      const s = D[SRC] || {};
+      let note = SRC === 'cf' ? (LB.cfNote || '') : (LB.aeNote || '');
+      let when = '';
+      if (SRC === 'cf' && !cfOk) note = LB.emptyCf || note;
+      if (SRC === 'cf' && s.updatedAt) when = `${LB.updated || 'Updated'} ${new Date(s.updatedAt).toLocaleString(locale)} · ${s.hours || 24}h${s.seed ? ' ' + (LB.seedNote || '') : ''}`;
+      return `<p class="hint tx-meta">${esc(note)}${when ? ' — ' + esc(when) : ''}</p>`;
+    }
+    function toolbarHTML() {
+      const srcBtn = (id, on, label, ok) => `<button class="tx-src${on ? ' is-on' : ''}" data-act="src" data-src="${id}"${ok ? '' : ' disabled'}>${esc(label)}</button>`;
+      return `<div class="tx-toolbar">
+        <div class="tx-srcs">${srcBtn('cf', SRC === 'cf', LB.srcCf || 'Cloudflare', cfOk || !aeOk)}${srcBtn('ae', SRC === 'ae', LB.srcAe || 'Readers', aeOk)}</div>
+        <button class="tx-addp" data-act="addp">+ ${esc(LB.addPanel || 'Add panel')}</button>
+      </div>`;
+    }
+
+    function render() {
+      state.src = SRC; save();
+      const panelsHTML = state.panels.map((p, i) => panelHTML(p, i)).join('');
+      app.innerHTML = toolbarHTML() + chipsHTML() + metaHTML() + `<div class="tx-grid">${panelsHTML}</div>`;
+    }
+
+    // --- interactions (event delegation) ------------------------------------
+    function addFilter(dim, val) { state.filters[dim] = val; render(); }
+    app.addEventListener('click', (e) => {
+      const t = e.target.closest('[data-act], .tx-click');
+      if (!t) return;
+      const act = t.getAttribute('data-act');
+      if (t.classList.contains('tx-click') && !act) { addFilter(t.getAttribute('data-dim'), t.getAttribute('data-val')); return; }
+      if (act === 'src') { const ns = t.getAttribute('data-src'); if ((ns === 'cf' && !cfOk && aeOk)) return; SRC = ns; render(); return; }
+      if (act === 'addp') { state.panels.push({ dim: 'browser', measure: 'requests', view: 'bars' }); render(); return; }
+      if (act === 'menu') { const cfg = t.closest('.tx-panel').querySelector('.tx-cfg'); cfg.hidden = !cfg.hidden; return; }
+      if (act === 'dup') { const i = +t.closest('.tx-panel').getAttribute('data-i'); state.panels.splice(i + 1, 0, { ...state.panels[i] }); render(); return; }
+      if (act === 'del') { const i = +t.closest('.tx-panel').getAttribute('data-i'); state.panels.splice(i, 1); render(); return; }
+      if (act === 'unchip') { delete state.filters[t.getAttribute('data-k')]; render(); return; }
+      if (act === 'clearf') { state.filters = {}; render(); return; }
+    });
+    app.addEventListener('keydown', (e) => { if ((e.key === 'Enter' || e.key === ' ') && e.target.classList && e.target.classList.contains('tx-click')) { e.preventDefault(); addFilter(e.target.getAttribute('data-dim'), e.target.getAttribute('data-val')); } });
+    app.addEventListener('change', (e) => {
+      const t = e.target; const act = t.getAttribute('data-act');
+      if (act === 'dim' || act === 'measure' || act === 'view') {
+        const i = +t.closest('.tx-panel').getAttribute('data-i');
+        state.panels[i][act] = t.value; render(); return;
+      }
+      if (act === 'addf-dim') {
+        const dim = t.value; const valSel = t.parentElement.querySelector('[data-act="addf-val"]');
+        if (!dim) { valSel.hidden = true; return; }
+        const { rows } = aggregate(dim, state.panels[0]?.measure || 'requests');
+        valSel.innerHTML = `<option value="">${esc(labelFor(dim, ''))}…</option>` + rows.slice(0, 30).map((r) => `<option value="${esc(r.key)}">${esc(r.label)}</option>`).join('');
+        valSel.hidden = false; return;
+      }
+      if (act === 'addf-val') { if (t.value) addFilter(t.closest('.tx-addf').querySelector('[data-act="addf-dim"]').value, t.value); return; }
+    });
+
+    render();
+  })();
+</script>
 
 {!anyTraffic && (
   <section class="container block">
@@ -922,4 +1237,66 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   #chan-bars .cov-num, #pv-results .cov-num { font-size: 0.8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
   #chan-bars .track, #pv-results .track { display: block; height: 9px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
   #chan-bars .track .fill, #pv-results .track .fill { display: block; height: 100%; border-radius: 999px; background: var(--gold); }
+
+  /* Traffic explorer — headline tiles (static) + everything under #tx-app (JS-injected) */
+  .tx-tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.9rem; }
+  @media (max-width: 640px) { .tx-tiles { grid-template-columns: 1fr; } }
+  .tx-tile { background: var(--surface); border: 1px solid var(--line); border-left: 3px solid var(--gold); border-radius: 12px; padding: 0.9rem 1rem; display: flex; flex-direction: column; gap: 0.15rem; }
+  .tx-tile .tx-k { font-size: 0.72rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
+  .tx-tile .tx-v { font-size: 1.7rem; font-weight: 800; color: var(--ink); font-variant-numeric: tabular-nums; font-family: var(--font-title); line-height: 1.15; }
+  .tx-tile .tx-s { font-size: 0.72rem; color: var(--muted); }
+
+  #tx-app .tx-toolbar { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; justify-content: space-between; margin-bottom: 0.7rem; }
+  #tx-app .tx-srcs { display: inline-flex; gap: 0.25rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.2rem; background: var(--surface-2); }
+  #tx-app .tx-src { border: 0; background: transparent; color: var(--muted); font: inherit; font-size: 0.78rem; font-weight: 700; padding: 0.3rem 0.8rem; border-radius: 999px; cursor: pointer; }
+  #tx-app .tx-src.is-on { background: var(--gold); color: #1a1400; }
+  #tx-app .tx-src:disabled { opacity: 0.4; cursor: not-allowed; }
+  #tx-app .tx-addp { border: 1px dashed var(--line); background: transparent; color: var(--ink-soft); font: inherit; font-size: 0.78rem; font-weight: 700; padding: 0.3rem 0.7rem; border-radius: 8px; cursor: pointer; }
+  #tx-app .tx-addp:hover { border-color: var(--gold); color: var(--gold); }
+
+  #tx-app .tx-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; margin-bottom: 0.5rem; }
+  #tx-app .tx-chip { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.76rem; background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 0.2rem 0.3rem 0.2rem 0.6rem; color: var(--ink-soft); }
+  #tx-app .tx-chip b { color: var(--ink); }
+  #tx-app .tx-chip button { border: 0; background: transparent; color: var(--muted); cursor: pointer; font-size: 0.95rem; line-height: 1; padding: 0 0.2rem; }
+  #tx-app .tx-chip button:hover { color: #f87171; }
+  #tx-app .tx-addf select, #tx-app .tx-cfg select { font: inherit; font-size: 0.8rem; color: var(--ink); background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px; padding: 0.25rem 0.4rem; cursor: pointer; }
+  #tx-app .tx-addf select { margin-right: 0.3rem; }
+  #tx-app .tx-clear { border: 0; background: transparent; color: var(--muted); font: inherit; font-size: 0.76rem; text-decoration: underline; cursor: pointer; }
+  #tx-app .tx-meta { margin: 0 0 0.9rem; }
+
+  #tx-app .tx-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.9rem; }
+  @media (max-width: 720px) { #tx-app .tx-grid { grid-template-columns: 1fr; } }
+  #tx-app .tx-panel { background: var(--surface-2); border: 1px solid var(--line); border-radius: 12px; padding: 0.75rem 0.85rem; }
+  #tx-app .tx-phead { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.6rem; }
+  #tx-app .tx-ptitle { font-size: 0.78rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.03em; color: var(--ink-soft); }
+  #tx-app .tx-ptitle em { color: var(--muted); font-style: normal; font-weight: 600; text-transform: none; letter-spacing: normal; }
+  #tx-app .tx-menu-btn { border: 0; background: transparent; color: var(--muted); font-size: 1.1rem; line-height: 1; cursor: pointer; padding: 0 0.3rem; border-radius: 6px; }
+  #tx-app .tx-menu-btn:hover { color: var(--gold); background: var(--surface); }
+  #tx-app .tx-cfg { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: end; padding: 0.5rem; margin-bottom: 0.6rem; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+  #tx-app .tx-cfg[hidden] { display: none; }
+  #tx-app .tx-cfg label { display: flex; flex-direction: column; gap: 0.2rem; font-size: 0.66rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); }
+  #tx-app .tx-cfg-btns { display: flex; gap: 0.4rem; margin-left: auto; align-self: center; }
+  #tx-app .tx-cfg-btns button { border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft); font: inherit; font-size: 0.74rem; font-weight: 700; padding: 0.35rem 0.6rem; border-radius: 8px; cursor: pointer; }
+  #tx-app .tx-cfg-btns .tx-del:hover { border-color: #f87171; color: #f87171; }
+
+  #tx-app .tx-pbody { display: grid; gap: 0.35rem; }
+  #tx-app .cov-row { display: grid; grid-template-columns: minmax(0, 1fr) 4.5rem auto; gap: 0.5rem; align-items: center; }
+  #tx-app .cov-name { font-size: 0.8rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #tx-app .cov-num { font-size: 0.78rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; display: inline-flex; gap: 0.35rem; align-items: baseline; justify-content: flex-end; }
+  #tx-app .tx-pct { color: var(--muted); font-size: 0.68rem; font-style: normal; min-width: 2.2rem; text-align: right; }
+  #tx-app .track { display: block; height: 9px; background: var(--surface); border-radius: 999px; overflow: hidden; }
+  #tx-app .track .fill { display: block; height: 100%; border-radius: 999px; background: var(--gold); }
+  #tx-app .tx-click { cursor: pointer; }
+  #tx-app .tx-click:hover .cov-name { color: var(--gold); }
+
+  #tx-app .tx-donut { display: flex; gap: 0.9rem; align-items: center; flex-wrap: wrap; }
+  #tx-app .tx-dsvg { width: 128px; height: 128px; flex: 0 0 auto; overflow: visible; }
+  #tx-app .tx-dc { fill: var(--ink); font-size: 18px; font-weight: 800; }
+  #tx-app .tx-dcl { fill: var(--muted); font-size: 8.5px; text-transform: uppercase; letter-spacing: 0.05em; }
+  #tx-app .tx-legend { display: grid; gap: 0.3rem; font-size: 0.76rem; color: var(--ink-soft); flex: 1 1 8rem; min-width: 8rem; }
+  #tx-app .tx-legend .tx-lg { display: inline-flex; align-items: center; gap: 0.4rem; }
+  #tx-app .tx-legend .tx-lg i { width: 0.7rem; height: 0.7rem; border-radius: 3px; flex: 0 0 auto; }
+  #tx-app .tx-legend .tx-lg b { color: var(--ink); font-variant-numeric: tabular-nums; margin-left: auto; }
+  #tx-app .tx-legend .tx-lg em { color: var(--muted); font-style: normal; min-width: 2.4rem; text-align: right; }
+  #tx-app .tx-legend .tx-click:hover { color: var(--gold); }
 </style>
