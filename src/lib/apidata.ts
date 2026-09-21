@@ -132,6 +132,7 @@ export function getAnalyticsSeries(): AnalyticsSeries {
 export type Facebook = {
   updatedAt?: string;
   pages?: Record<string, { pageId?: string; name?: string | null; followers?: number; posts?: number; reactions?: number; comments?: number; shares?: number }>;
+  byMonth?: Record<string, { followers?: number; posts?: number; reactions?: number; comments?: number; shares?: number }>;
   totals?: { followers?: number; posts?: number; reactions?: number; comments?: number; shares?: number };
 };
 export function getFacebook(): Facebook {

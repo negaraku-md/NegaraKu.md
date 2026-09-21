@@ -103,10 +103,18 @@ async function main() {
     }
   }
   const sum = (k) => Object.values(pages).reduce((a, p) => a + (p[k] || 0), 0);
+  const totals = { followers: sum('followers'), posts: sum('posts'), reactions: sum('reactions'), comments: sum('comments'), shares: sum('shares') };
+  // byMonth — merged forward (like gsc.json) so followers/engagement build a
+  // trend that outlives any single run. The last run of a month wins, i.e. the
+  // month's latest snapshot; older months persist untouched.
+  const month = new Date().toISOString().slice(0, 7); // YYYY-MM
+  const byMonth = { ...(prev.byMonth ?? {}) };
+  byMonth[month] = totals;
   const snapshot = {
     updatedAt: new Date().toISOString(),
     pages,
-    totals: { followers: sum('followers'), posts: sum('posts'), reactions: sum('reactions'), comments: sum('comments'), shares: sum('shares') },
+    byMonth,
+    totals,
   };
   await mkdir(path.dirname(OUT), { recursive: true });
   await writeFile(OUT, JSON.stringify(snapshot, null, 2) + '\n', 'utf8');

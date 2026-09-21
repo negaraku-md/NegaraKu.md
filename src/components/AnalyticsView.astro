@@ -154,7 +154,10 @@ const series = getAnalyticsSeries();
 const CHANNEL_COLORS: Record<string, string> = { search: '#FFC000', ai: '#c084fc', social: '#60a5fa', messaging: '#4ade80', other: '#94a3b8', direct: '#38bdf8' };
 const trendDays = Object.entries(series.days ?? {})
   .sort(([a], [b]) => a.localeCompare(b))
-  .map(([day, dd]) => ({ day, readers: dd.readers ?? 0, ai: dd.ai ?? 0, search: dd.search ?? 0, byChannel: dd.byChannel ?? {} }));
+  .map(([day, dd]) => ({ day, readers: dd.readers ?? 0, ai: dd.ai ?? 0, search: dd.search ?? 0, byChannel: dd.byChannel ?? {}, byLang: dd.byLang ?? {} }));
+const LANG_COLORS: Record<string, string> = { ms: '#FFC000', en: '#60a5fa', zh: '#f472b6', ta: '#4ade80', ja: '#c084fc' };
+const LANG_ORDER = ['ms', 'en', 'zh', 'ta', 'ja'];
+const langLabels: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語' };
 const chLabels: Record<string, string> = Object.fromEntries(CH_ORDER.map((id) => [id, CHANNEL_META[id]?.label ?? id]));
 const seoMonths = Object.entries(gsc.byMonth ?? {})
   .sort(([a], [b]) => a.localeCompare(b))
@@ -166,7 +169,17 @@ const metricLabels = {
   search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー'),
 };
 const seoLabels = { impressions: L('Tera', 'Impressions', '展示', 'காட்சிகள்', '表示'), clicks: L('Klik', 'Clicks', '点击', 'கிளிக்குகள்', 'クリック') };
-const trendJSON = JSON.stringify({ days: trendDays, chColors: CHANNEL_COLORS, chLabels, chOrder: CH_ORDER, seo: seoMonths, metricLabels, seoLabels });
+const trendJSON = JSON.stringify({ days: trendDays, chColors: CHANNEL_COLORS, chLabels, chOrder: CH_ORDER, langColors: LANG_COLORS, langLabels, langOrder: LANG_ORDER, seo: seoMonths, metricLabels, seoLabels });
+
+// Most-read articles (human readers, all-time from analytics.json). Fills the
+// content-performance gap alongside most-crawled + most-engaging.
+const readTop = Object.entries(analytics)
+  .map(([key, row]) => ({ key, n: typeof row.readers === 'number' ? row.readers : (row.readers?.total ?? 0) }))
+  .filter((x) => x.n > 0)
+  .sort((a, b) => b.n - a.n)
+  .slice(0, 8)
+  .map((x) => ({ ...x, title: titleByKey.get(x.key) ?? x.key }));
+const readMax = Math.max(1, ...readTop.map((x) => x.n));
 
 // Anything measured yet? Drives the "trends are accruing" lead note.
 const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || engHas;
@@ -224,6 +237,9 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
           <div id="legend-daily" class="chart-legend"></div>
           <p class="ai-h chan-h">{L('Trafik mengikut saluran — julat dipilih', 'Traffic by channel — selected range', '各渠道流量——所选范围', 'சேனல் வாரியான போக்குவரத்து — தேர்ந்த வரம்பு', 'チャネル別トラフィック — 選択範囲')}</p>
           <div id="chan-bars" class="cov-cats"><p class="hint" style="margin:0">—</p></div>
+          <p class="ai-h chan-h">{L('Pelawat mengikut bahasa', 'Visitors by language', '各语言访客', 'மொழி வாரியான பார்வையாளர்கள்', '言語別の訪問者')}</p>
+          <div id="chart-lang" class="chart"></div>
+          <div id="legend-lang" class="chart-legend"></div>
         </>
       )}
       <p class="ai-h chan-h">{L('Prestasi carian mengikut bulan', 'Search performance by month', '按月搜索表现', 'மாதவாரி தேடல் செயல்திறன்', '月別の検索パフォーマンス')}</p>
@@ -309,12 +325,26 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
       cb.innerHTML = entries.map((e) => `<div class="cov-row ai-row"><span class="cov-name">${e.label}</span><span class="track"><span class="fill" style="width:${Math.max(3, Math.round((e.n / mx) * 100))}%;background:${e.color}"></span></span><span class="cov-num">${e.n.toLocaleString()}</span></div>`).join('');
     }
 
+    function renderLang(range) {
+      const rows0 = range === 'all' ? days : days.slice(-parseInt(range, 10));
+      const order = data.langOrder || [];
+      const present = order.filter((l) => rows0.some((d) => ((d.byLang || {})[l] || 0) > 0));
+      const el = document.getElementById('chart-lang');
+      const lg = document.getElementById('legend-lang');
+      if (!el) return;
+      if (!present.length) { el.innerHTML = '<p class="hint" style="margin:0">—</p>'; if (lg) lg.innerHTML = ''; return; }
+      const series = present.map((l) => ({ key: l, label: (data.langLabels || {})[l] || l, color: (data.langColors || {})[l] || muted }));
+      const rows = rows0.map((d) => ({ label: (d.day || '').slice(5), values: Object.fromEntries(present.map((l) => [l, (d.byLang || {})[l] || 0])) }));
+      legend(lg, lineChart(el, rows, series));
+    }
+
+    function renderAll(range) { renderDaily(range); renderLang(range); }
     document.querySelectorAll('.tr-btn').forEach((btn) => btn.addEventListener('click', () => {
       document.querySelectorAll('.tr-btn').forEach((b) => b.classList.remove('is-on'));
       btn.classList.add('is-on');
-      renderDaily(btn.getAttribute('data-range'));
+      renderAll(btn.getAttribute('data-range'));
     }));
-    if (document.getElementById('chart-daily')) renderDaily('30');
+    if (document.getElementById('chart-daily')) renderAll('30');
 
     const seo = data.seo || [];
     const seoEl = document.getElementById('chart-seo');
@@ -438,6 +468,30 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
                 </div>
               )}
             </div>
+          </div>
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Artikel paling banyak dibaca', 'Most-read articles', '阅读最多的文章', 'அதிகம் படிக்கப்பட்ட கட்டுரைகள்', '最も読まれた記事')}</span></header>
+    <div class="psec-body">
+      {readTop.length === 0 ? (
+        <p class="hint">{L('Belum ada bacaan direkodkan lagi.', 'No reads recorded yet.', '尚未记录到阅读。', 'இதுவரை வாசிப்புகள் பதிவாகவில்லை.', 'まだ閲覧は記録されていません。')}</p>
+      ) : (
+        <>
+          <p class="hint">{L('Artikel teratas mengikut lawatan pembaca manusia — sepanjang masa.', 'Top articles by human reader visits — all-time.', '按人类读者访问排序的热门文章——累计。', 'மனித வாசகர் வருகைகளின்படி முதன்மை கட்டுரைகள் — எல்லா காலமும்.', '人間の読者訪問による上位記事 — 累計。')}</p>
+          <div class="cov-cats ai-top">
+            {readTop.map((a) => (
+              <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
+                <span class="cov-name" title={a.title}>{a.title}</span>
+                <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((a.n / readMax) * 100))}%`} /></span>
+                <span class="cov-num">{a.n.toLocaleString()}</span>
+              </a>
+            ))}
           </div>
         </>
       )}
@@ -692,10 +746,10 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
      styles with a data-attr the JS-created SVG/rows don't carry, so these
      elements need un-scoped rules. ID-prefixed so nothing leaks. -->
 <style is:global>
-  #chart-daily .chart-svg, #chart-seo .chart-svg { width: 100%; height: auto; display: block; overflow: visible; }
-  #legend-daily .lg, #legend-seo .lg { display: inline-flex; align-items: center; gap: 0.35rem; }
-  #legend-daily .lg i, #legend-seo .lg i { width: 0.7rem; height: 0.7rem; border-radius: 3px; display: inline-block; }
-  #legend-daily .lg b, #legend-seo .lg b { color: var(--ink); font-variant-numeric: tabular-nums; }
+  #chart-daily .chart-svg, #chart-seo .chart-svg, #chart-lang .chart-svg { width: 100%; height: auto; display: block; overflow: visible; }
+  #legend-daily .lg, #legend-seo .lg, #legend-lang .lg { display: inline-flex; align-items: center; gap: 0.35rem; }
+  #legend-daily .lg i, #legend-seo .lg i, #legend-lang .lg i { width: 0.7rem; height: 0.7rem; border-radius: 3px; display: inline-block; }
+  #legend-daily .lg b, #legend-seo .lg b, #legend-lang .lg b { color: var(--ink); font-variant-numeric: tabular-nums; }
   #chan-bars .cov-row { display: grid; grid-template-columns: 9.5rem 1fr 3.4rem; gap: 0.6rem; align-items: center; }
   #chan-bars .cov-name { font-size: 0.82rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   #chan-bars .cov-num { font-size: 0.8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
