@@ -56,16 +56,18 @@ export function buildSQL(spec) {
   return { sql, dims, days, limit, bucket: BUCKETS.has(spec.bucket) ? spec.bucket : 'all' };
 }
 
-// Is this visitor an approved contributor? Delegates to the auth Worker so we
-// never duplicate its cookie secret. Fail-closed.
-async function isContributor(request) {
+// Is this visitor an approved contributor? Delegates to the auth Worker via a
+// SERVICE BINDING (env.AUTH) — a plain same-zone fetch to /api/auth/me is routed
+// to the origin (GitHub Pages), never to the auth Worker, so the binding is
+// required. We forward the session cookie; the auth Worker verifies it and
+// returns { isContributor }. Fail-closed on anything unexpected.
+async function isContributor(request, env) {
   const cookie = request.headers.get('cookie');
-  if (!cookie) return false;
+  if (!cookie || !env.AUTH) return false;
   try {
-    const res = await fetch(new URL('/api/auth/me', request.url).toString(), {
+    const res = await env.AUTH.fetch(new Request('https://negaraku.md/api/auth/me', {
       headers: { cookie, accept: 'application/json' },
-      cf: { cacheTtl: 0 },
-    });
+    }));
     if (!res.ok) return false;
     const d = await res.json();
     return !!d.isContributor;
@@ -76,7 +78,7 @@ async function isContributor(request) {
 
 export async function handleQuery(request, env) {
   if (request.method !== 'POST') return json({ error: 'POST only' }, 405);
-  if (!(await isContributor(request))) return json({ error: 'contributors only' }, 403);
+  if (!(await isContributor(request, env))) return json({ error: 'contributors only' }, 403);
 
   let spec;
   try { spec = await request.json(); } catch { return json({ error: 'invalid JSON body' }, 400); }
@@ -97,7 +99,7 @@ export async function handleQuery(request, env) {
   try {
     const res = await fetch(
       `https://api.cloudflare.com/client/v4/accounts/${env.CF_ACCOUNT_ID}/analytics_engine/sql`,
-      { method: 'POST', headers: { Authorization: `Bearer ${env.AE_API_TOKEN}` }, body: q.sql },
+      { method: 'POST', headers: { Authorization: `Bearer ${(env.AE_API_TOKEN || '').trim()}` }, body: q.sql },
     );
     if (!res.ok) return json({ error: `analytics read failed (${res.status})` }, 502);
     rows = (await res.json()).data || [];
