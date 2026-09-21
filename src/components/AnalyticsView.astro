@@ -588,7 +588,16 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
       const act = t.getAttribute('data-act');
       if (t.classList.contains('tx-click') && !act) { addFilter(t.getAttribute('data-dim'), t.getAttribute('data-val')); return; }
       if (act === 'src') { const ns = t.getAttribute('data-src'); if ((ns === 'cf' && !cfOk && aeOk)) return; SRC = ns; render(); return; }
-      if (act === 'addp') { state.panels.push({ dim: 'browser', measure: 'requests', view: 'bars' }); render(); return; }
+      if (act === 'addp') {
+        state.panels.push({ dim: 'browser', measure: 'requests', view: 'bars' });
+        render();
+        // A new panel lands at the end of a (possibly long) grid — scroll it into
+        // view + briefly highlight it so the click has visible feedback.
+        const panels = app.querySelectorAll('.tx-panel');
+        const last = panels[panels.length - 1];
+        if (last) { last.scrollIntoView({ behavior: 'smooth', block: 'center' }); last.classList.add('tx-flash'); setTimeout(() => last.classList.remove('tx-flash'), 900); }
+        return;
+      }
       if (act === 'menu') { const cfg = t.closest('.tx-panel').querySelector('.tx-cfg'); cfg.hidden = !cfg.hidden; return; }
       if (act === 'dup') { const i = +t.closest('.tx-panel').getAttribute('data-i'); state.panels.splice(i + 1, 0, { ...state.panels[i] }); render(); return; }
       if (act === 'del') { const i = +t.closest('.tx-panel').getAttribute('data-i'); state.panels.splice(i, 1); render(); return; }
@@ -1397,7 +1406,8 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
   #tx-app .tx-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.9rem; }
   @media (max-width: 720px) { #tx-app .tx-grid { grid-template-columns: 1fr; } }
-  #tx-app .tx-panel { background: var(--surface-2); border: 1px solid var(--line); border-radius: 12px; padding: 0.75rem 0.85rem; }
+  #tx-app .tx-panel { background: var(--surface-2); border: 1px solid var(--line); border-radius: 12px; padding: 0.75rem 0.85rem; transition: box-shadow 0.3s, border-color 0.3s; }
+  #tx-app .tx-panel.tx-flash { border-color: var(--gold); box-shadow: 0 0 0 2px var(--gold); }
   #tx-app .tx-phead { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.6rem; }
   #tx-app .tx-ptitle { font-size: 0.78rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.03em; color: var(--ink-soft); }
   #tx-app .tx-ptitle em { color: var(--muted); font-style: normal; font-weight: 600; text-transform: none; letter-spacing: normal; }

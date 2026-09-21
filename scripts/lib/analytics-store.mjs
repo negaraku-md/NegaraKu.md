@@ -139,10 +139,14 @@ export async function queryDailyAiBots({ account, token, dataset, afterCursor, u
  * the all-time snapshot). Returns [{country,device,browser,os,n}].
  */
 export async function queryReaderCube({ account, token, dataset, days = 90 }) {
+  // blob10 (device) is only ever '' for rows written BEFORE the worker gained the
+  // geo/device blobs (2026-09-20) — device.js always returns at least 'unknown'.
+  // So `blob10 != ''` drops the pre-capture reads that would otherwise show up as
+  // "(none)" across country/device/browser/os. Post-capture reads keep real values.
   const sql =
     `SELECT blob7 AS country, blob10 AS device, blob11 AS browser, blob12 AS os, ` +
     `SUM(_sample_interval) AS n FROM ${dataset} ` +
-    `WHERE blob2 = 'readers' AND timestamp > NOW() - INTERVAL '${days}' DAY ` +
+    `WHERE blob2 = 'readers' AND blob10 != '' AND timestamp > NOW() - INTERVAL '${days}' DAY ` +
     `GROUP BY country, device, browser, os`;
   const res = await fetch(
     `https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`,
@@ -157,9 +161,11 @@ export async function queryReaderCube({ account, token, dataset, days = 90 }) {
  * curated Top-pages panel filtered by country. Returns [{country,path,n}].
  */
 export async function queryReaderPaths({ account, token, dataset, days = 90 }) {
+  // Same capture-era filter as queryReaderCube (blob10 != '') so the curated
+  // source is internally consistent — country attribution exists for these rows.
   const sql =
     `SELECT blob7 AS country, blob1 AS path, SUM(_sample_interval) AS n FROM ${dataset} ` +
-    `WHERE blob2 = 'readers' AND timestamp > NOW() - INTERVAL '${days}' DAY ` +
+    `WHERE blob2 = 'readers' AND blob10 != '' AND timestamp > NOW() - INTERVAL '${days}' DAY ` +
     `GROUP BY country, path`;
   const res = await fetch(
     `https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`,
