@@ -164,7 +164,7 @@ const seoMonths = Object.entries(gsc.byMonth ?? {})
   .map(([month, m]) => ({ month, impressions: m.impressions ?? 0, clicks: m.clicks ?? 0 }));
 const hasTrend = trendDays.length >= 2;
 const metricLabels = {
-  visitors: L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者'),
+  visitors: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者'),
   ai: L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー'),
   search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー'),
 };
@@ -221,13 +221,13 @@ const pivotJSON = JSON.stringify({
     title: L('Artikel', 'Article', '文章', 'கட்டுரை', '記事'),
   },
   measures: {
-    readers: L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者'),
+    readers: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者'),
     ai: L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー'),
     search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー'),
     dwell: L('Purata masa', 'Avg dwell', '平均停留', 'சராசரி நேரம்', '平均滞在'),
   },
   allLabel: L('Semua saluran', 'All channels', '所有渠道', 'அனைத்து சேனல்கள்', '全チャネル'),
-  chOnlyNote: L('Penapis saluran hanya untuk Pelawat.', 'Channel filter applies to Visitors only.', '渠道筛选仅适用于访客。', 'சேனல் வடிகட்டி பார்வையாளர்களுக்கு மட்டும்.', 'チャネル絞り込みは訪問者のみ。'),
+  chOnlyNote: L('Penapis saluran hanya untuk Pembaca.', 'Channel filter applies to Readers only.', '渠道筛选仅适用于读者。', 'சேனல் வடிகட்டி வாசகர்களுக்கு மட்டும்.', 'チャネル絞り込みは読者のみ。'),
 });
 
 // --- Traffic explorer (Cloudflare-style, configurable + filterable) ----------
@@ -261,7 +261,7 @@ const exLabels = {
   measure: L('Ukuran', 'Measure', '度量', 'அளவை', '指標'),
   requests: L('Permintaan', 'Requests', '请求', 'கோரிக்கைகள்', 'リクエスト'),
   visits: L('Lawatan', 'Visits', '访问', 'வருகைகள்', '訪問'),
-  visitors: L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者'),
+  visitors: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者'),
   impressions: L('Tera', 'Impressions', '展示', 'காட்சிகள்', '表示'),
   clicks: L('Klik', 'Clicks', '点击', 'கிளிக்குகள்', 'クリック'),
   others: L('Lain-lain', 'Others', '其他', 'மற்றவை', 'その他'),
@@ -389,7 +389,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     <div class="tx-tile">
       <span class="tx-k">{exLabels.visitors}</span>
       <span class="tx-v">{totalReaders > 0 ? totalReaders.toLocaleString() : '—'}</span>
-      <span class="tx-s">{exLabels.allTime} · {exLabels.srcAe.split(' · ')[0]}</span>
+      <span class="tx-s">{exLabels.allTime}</span>
     </div>
     <div class="tx-tile">
       <span class="tx-k">{exLabels.impressions}</span>
@@ -531,7 +531,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     }
 
     // --- panel + chrome ------------------------------------------------------
-    function measureLabel(m) { return m === 'visits' ? (LB.visits || 'Visits') : (SRC === 'ae' ? (LB.visitors || 'Visitors') : (LB.requests || 'Requests')); }
+    function measureLabel(m) { return m === 'visits' ? (LB.visits || 'Visits') : (SRC === 'ae' ? (LB.visitors || 'Readers') : (LB.requests || 'Requests')); }
     function panelHTML(p, i) {
       fixPanel(p);
       const { rows, total } = aggregate(p.dim, p.measure);
@@ -690,13 +690,18 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
         const rows = data.rows || [];
         if (!rows.length) { outEl.innerHTML = `<p class="hint" style="margin:0">${L.ui.empty}</p>`; metaEl.textContent = ''; runEl.disabled = false; return; }
         const dims = data.dims || selected;
-        const mx = Math.max(1, ...rows.map((r) => Number(r.n) || 0));
-        outEl.innerHTML = rows.map((r) => {
+        // Drop rows where every selected dimension is empty — those are hits from
+        // before the edge began capturing that dimension (they'd show as a giant
+        // "(none)" bucket). Rows with any real value are kept.
+        const shown = rows.filter((r) => dims.some((d) => (r[d] || '') !== ''));
+        if (!shown.length) { outEl.innerHTML = `<p class="hint" style="margin:0">${L.ui.empty}</p>`; metaEl.textContent = ''; runEl.disabled = false; return; }
+        const mx = Math.max(1, ...shown.map((r) => Number(r.n) || 0));
+        outEl.innerHTML = shown.map((r) => {
           const label = dims.map((d) => lab(d, r[d])).join(' · ');
           const n = Number(r.n) || 0;
           return `<div class="cov-row ai-row"><span class="cov-name" title="${esc(label)}">${esc(label)}</span><span class="track"><span class="fill" style="width:${Math.max(3, Math.round((n / mx) * 100))}%"></span></span><span class="cov-num">${n.toLocaleString()}</span></div>`;
         }).join('');
-        metaEl.textContent = `${L.ui.generated} ${new Date(data.generatedAt).toLocaleString()} · ${data.days}d · ${rows.length} ${rows.length === 1 ? 'row' : 'rows'}`;
+        metaEl.textContent = `${L.ui.generated} ${new Date(data.generatedAt).toLocaleString()} · ${data.days}d · ${shown.length} ${shown.length === 1 ? 'row' : 'rows'}`;
       } catch (e) {
         outEl.innerHTML = `<p class="hint" style="margin:0">${L.ui.err}</p>`; metaEl.textContent = '';
       }
@@ -736,12 +741,12 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
             <button type="button" class="tr-btn" data-range="90">90{L('h', 'd', '天', 'நா', '日')}</button>
             <button type="button" class="tr-btn" data-range="all">{L('Semua', 'All', '全部', 'அனைத்தும்', 'すべて')}</button>
           </div>
-          <p class="ai-h">{L('Pelawat, perayap AI & carian setiap hari', 'Visitors, AI & search crawlers per day', '每日访客、AI 与搜索爬虫', 'தினசரி பார்வையாளர்கள், AI & தேடல்', '日次の訪問者・AI・検索クローラー')}</p>
+          <p class="ai-h">{L('Pembaca, perayap AI & carian setiap hari', 'Readers, AI & search crawlers per day', '每日读者、AI 与搜索爬虫', 'தினசரி வாசகர்கள், AI & தேடல்', '日次の読者・AI・検索クローラー')}</p>
           <div id="chart-daily" class="chart"></div>
           <div id="legend-daily" class="chart-legend"></div>
           <p class="ai-h chan-h">{L('Trafik mengikut saluran — julat dipilih', 'Traffic by channel — selected range', '各渠道流量——所选范围', 'சேனல் வாரியான போக்குவரத்து — தேர்ந்த வரம்பு', 'チャネル別トラフィック — 選択範囲')}</p>
           <div id="chan-bars" class="cov-cats"><p class="hint" style="margin:0">—</p></div>
-          <p class="ai-h chan-h">{L('Pelawat mengikut bahasa', 'Visitors by language', '各语言访客', 'மொழி வாரியான பார்வையாளர்கள்', '言語別の訪問者')}</p>
+          <p class="ai-h chan-h">{L('Pembaca mengikut bahasa', 'Readers by language', '各语言读者', 'மொழி வாரியான வாசகர்கள்', '言語別の読者')}</p>
           <div id="chart-lang" class="chart"></div>
           <div id="legend-lang" class="chart-legend"></div>
           <p class="ai-h chan-h">{L('Perayap AI mengikut bot — dari masa ke masa', 'AI crawlers by bot — over time', '各 AI 爬虫随时间变化', 'AI கிராலர்கள் bot வாரியாக — காலப்போக்கில்', 'AIクローラー別（時系列）')}</p>
@@ -816,7 +821,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
       const rows = rows0.map((d) => ({ label: (d.day || '').slice(5), values: { readers: d.readers, ai: d.ai, search: d.search } }));
       const ml = data.metricLabels || {};
       const totals = lineChart(document.getElementById('chart-daily'), rows, [
-        { key: 'readers', label: ml.visitors || 'Visitors', color: '#FFC000' },
+        { key: 'readers', label: ml.visitors || 'Readers', color: '#FFC000' },
         { key: 'ai', label: ml.ai || 'AI', color: '#c084fc' },
         { key: 'search', label: ml.search || 'Search', color: '#60a5fa' },
       ]);
@@ -904,7 +909,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
             </label>
             <label>{L('Ukuran', 'Measure', '度量', 'அளவை', '指標')}
               <select id="pv-measure">
-                <option value="readers">{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者')}</option>
+                <option value="readers">{L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者')}</option>
                 <option value="ai">{L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー')}</option>
                 <option value="search">{L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー')}</option>
                 <option value="dwell">{L('Purata masa', 'Avg dwell', '平均停留', 'சராசரி நேரம்', '平均滞在')}</option>
