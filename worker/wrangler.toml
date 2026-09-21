@@ -7,6 +7,13 @@ main = "src/index.js"
 compatibility_date = "2025-01-01"
 workers_dev = false
 
+# Live query endpoint (POST /_a/q, contributor-only — see query.js) reads the
+# Analytics Engine SQL API. CF_ACCOUNT_ID is not secret (account id). The token
+# is a SECRET — set it once, never commit it:
+#   npx wrangler secret put AE_API_TOKEN     (Account Analytics:Read)
+[vars]
+CF_ACCOUNT_ID = "7137401369008b9b25b788ff1dbc14a2"
+
 # Analytics Engine dataset the Worker writes each page view to.
 # The name here must match CF_AE_DATASET used by scripts/build-analytics.mjs.
 [[analytics_engine_datasets]]

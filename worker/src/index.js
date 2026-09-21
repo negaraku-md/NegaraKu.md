@@ -16,6 +16,7 @@
 import { classify, pathKey, isPageView } from './classify.js';
 import { classifyReferrer } from './referrer.js';
 import { deviceInfo } from './device.js';
+import { handleQuery } from './query.js';
 
 export default {
   /**
@@ -26,6 +27,13 @@ export default {
   async fetch(request, env, ctx) {
     try {
       const url = new URL(request.url);
+
+      // Live analytics query (contributor-only): POST /_a/q runs a whitelisted
+      // Analytics Engine group-by in real time (see query.js). Short-circuits —
+      // never touches the origin or the pageview logger.
+      if (url.pathname === '/_a/q') {
+        return handleQuery(request, env);
+      }
 
       // Engagement beacon: the page sends navigator.sendBeacon('/_a/e', {p,t,s})
       // on page-leave. Record dwell (t, seconds) + max scroll (s, %) as an

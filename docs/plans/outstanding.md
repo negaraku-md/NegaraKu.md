@@ -82,7 +82,10 @@ User pointed at Cloudflare's Domain Dashboard ("i expect this type… even can c
   - `AnalyticsView.astro` "Traffic explorer": source toggle (Cloudflare all-traffic ↔ curated Readers) · global filter bar (click any bar/legend → filter chip; recomputes every panel) · configurable panels (⋯ → dimension · measure · view-as bars/donut · Duplicate · Remove) · + Add panel · localized (Intl.DisplayNames country names) · localStorage-sticky. Verified live with real seeded CF data (US 82%, Device donut 93/7, MY-filter → Edge top).
 - [x] **[you]** `CF_ZONE_ID` secret set + `CF_API_TOKEN` token (`negaraku-analytics-read`, owned by ai.negaraku.md login) extended with **Zone → Analytics → Read** (All zones). **LIVE 2026-09-21** — both sources populated: CF 229 cube rows (9,954 req/5,655 visits/24h), curated Readers 104 rows already accruing. See [[negaraku-cf-graphql-analytics]] for the two-login gotcha.
 - [x] **Stage 3 — pivot UI (baked)** "Explore — pivot" (Group by Pillar/Category/Article × Measure × Channel). *(shipped)*
-- [ ] **[me]** Stage 4 — live query Worker (contributor-only): arbitrary AE group-by, whitelisted dims, cached (after data accrues)
+- [x] **[me]** **Stage 4 — live query Worker (contributor-only)** *(local, held for push + worker deploy)*:
+  - `worker/src/query.js` + `/_a/q` route in index.js: whitelisted AE SQL group-by (dims country/region/city/device/browser/os/locale/channel/source/bot/path × bucket readers/search/ai/all × 1–90d), gated by an `/api/auth/me` subrequest (contributors only, fail-closed), filter values escaped, caps + ~5-min edge cache. `CF_ACCOUNT_ID` var in wrangler.toml.
+  - `AnalyticsView.astro` "Live query" panel (hidden unless `<html data-contributor>`): dim chips (max 3) × audience × range → POST /_a/q → bars. Verified in dev (renders for contributors, max-3 enforced, graceful off-worker failure).
+- [ ] **[you]** Activate Stage 4: `cd worker && npx wrangler deploy` (ships /_a/q) then `npx wrangler secret put AE_API_TOKEN` (paste an Account Analytics:Read token value — AI can't handle token values). Until then /_a/q returns 503 and the panel shows a note.
 
 ## 🛠 Other standing project items
 - [ ] **Facebook comment-mode** — blocked by App Review / Advanced Access (parked; caption-mode is live)

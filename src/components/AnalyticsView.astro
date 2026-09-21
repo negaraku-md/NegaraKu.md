@@ -313,6 +313,57 @@ const explorerJSON = JSON.stringify({
   labels: exLabels,
 });
 
+// --- Live query (Stage 4) — contributor-only real-time AE group-by. The panel
+// is hidden unless <html data-contributor="true"> (set by Header's /api/auth/me
+// check); it POSTs to the worker's /_a/q endpoint (query.js). ---
+const liveL = {
+  dims: {
+    country: exLabels.dims.country,
+    region: L('Negeri / Wilayah', 'State / Region', '州/地区', 'மாநிலம்', '州/地域'),
+    city: L('Bandar', 'City', '城市', 'நகரம்', '市'),
+    device: exLabels.dims.device, browser: exLabels.dims.browser, os: exLabels.dims.os,
+    locale: L('Bahasa', 'Language', '语言', 'மொழி', '言語'),
+    channel: L('Saluran', 'Channel', '渠道', 'சேனல்', 'チャネル'),
+    source: L('Sumber', 'Source', '来源', 'மூலம்', 'ソース'),
+    bot: L('Bot', 'Bot', '爬虫', 'பாட்', 'ボット'),
+    path: exLabels.dims.page,
+  },
+  buckets: {
+    all: L('Semua hit', 'All hits', '所有', 'அனைத்தும்', 'すべて'),
+    readers: exLabels.visitors,
+    search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー'),
+    ai: L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー'),
+  },
+  ui: {
+    title: L('Kueri langsung', 'Live query', '实时查询', 'நேரடி வினவல்', 'ライブクエリ'),
+    intro: L(
+      'Kumpul mengikut mana-mana dimensi, terus dari Analytics Engine (masa nyata, kontributor sahaja).',
+      'Group by any dimension, straight from Analytics Engine (real-time, contributors only).',
+      '直接从 Analytics Engine 按任意维度分组（实时，仅限贡献者）。',
+      'Analytics Engine இலிருந்து நேரடியாக எந்த பரிமாணத்திலும் தொகுக்கவும் (நிகழ்நேரம், பங்களிப்பாளர்கள் மட்டும்).',
+      'Analytics Engine から任意のディメンションでグループ化（リアルタイム・コントリビューター限定）。',
+    ),
+    dimsL: L('Dimensi (maks 3)', 'Dimensions (max 3)', '维度（最多 3）', 'பரிமாணங்கள் (அதிகபட்சம் 3)', 'ディメンション（最大3）'),
+    audience: L('Khalayak', 'Audience', '受众', 'பார்வையாளர்', '対象'),
+    range: L('Julat', 'Range', '范围', 'வரம்பு', '範囲'),
+    run: L('Jalankan', 'Run', '运行', 'இயக்கு', '実行'),
+    running: L('Menjalankan…', 'Running…', '运行中…', 'இயங்குகிறது…', '実行中…'),
+    empty: L('Tiada baris.', 'No rows.', '无数据行。', 'வரிசைகள் இல்லை.', '行がありません。'),
+    err: L(
+      'Kueri gagal — tersedia untuk kontributor di laman langsung.',
+      'Query failed — available to contributors on the live site.',
+      '查询失败——在线站点上向贡献者开放。',
+      'வினவல் தோல்வி — நேரடி தளத்தில் பங்களிப்பாளர்களுக்கு மட்டும்.',
+      'クエリ失敗 — 本番サイトでコントリビューター向けに利用可能。',
+    ),
+    days7: L('7 hari', '7 days', '7 天', '7 நாட்கள்', '7日'),
+    days30: L('30 hari', '30 days', '30 天', '30 நாட்கள்', '30日'),
+    days90: L('90 hari', '90 days', '90 天', '90 நாட்கள்', '90日'),
+    generated: L('Dijana', 'Generated', '生成于', 'உருவாக்கப்பட்டது', '生成'),
+  },
+};
+const liveJSON = JSON.stringify(liveL);
+
 // Anything measured yet? Drives the "trends are accruing" lead note.
 const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || engHas;
 ---
@@ -562,6 +613,86 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     });
 
     render();
+  })();
+</script>
+
+<section class="container block tx-live-wrap">
+  <div class="psec">
+    <header><span>{liveL.ui.title}<em class="tx-badge">contributor</em></span></header>
+    <div class="psec-body">
+      <p class="hint">{liveL.ui.intro}</p>
+      <div class="tl-controls">
+        <div class="tl-field"><label>{liveL.ui.dimsL}</label><div id="tl-dims" class="tl-chips"></div></div>
+        <label class="tl-field">{liveL.ui.audience}<select id="tl-bucket"></select></label>
+        <label class="tl-field">{liveL.ui.range}<select id="tl-days"></select></label>
+        <button type="button" id="tl-run" class="tl-run">{liveL.ui.run}</button>
+      </div>
+      <p class="hint" id="tl-meta" style="min-height:1em; margin:0.5rem 0 0.6rem"></p>
+      <div id="tl-results" class="tx-pbody"><p class="hint" style="margin:0">—</p></div>
+    </div>
+  </div>
+</section>
+
+<script type="application/json" id="tl-data" set:html={liveJSON}></script>
+<script>
+  (() => {
+    const el = document.getElementById('tl-data');
+    if (!el) return;
+    let L; try { L = JSON.parse(el.textContent || '{}'); } catch { return; }
+    const dimsEl = document.getElementById('tl-dims');
+    const bucketEl = document.getElementById('tl-bucket');
+    const daysEl = document.getElementById('tl-days');
+    const runEl = document.getElementById('tl-run');
+    const metaEl = document.getElementById('tl-meta');
+    const outEl = document.getElementById('tl-results');
+    if (!dimsEl || !bucketEl || !daysEl || !runEl || !outEl) return;
+    const DIM_ORDER = ['country', 'region', 'city', 'device', 'browser', 'os', 'locale', 'channel', 'source', 'bot', 'path'];
+    let selected = ['country'];
+    const paint = () => dimsEl.querySelectorAll('.tl-chip').forEach((c) => c.classList.toggle('is-on', selected.includes(c.getAttribute('data-d'))));
+    dimsEl.innerHTML = DIM_ORDER.map((d) => `<button type="button" class="tl-chip" data-d="${d}">${(L.dims && L.dims[d]) || d}</button>`).join('');
+    paint();
+    dimsEl.addEventListener('click', (e) => {
+      const b = e.target.closest('[data-d]'); if (!b) return;
+      const d = b.getAttribute('data-d'); const i = selected.indexOf(d);
+      if (i >= 0) { if (selected.length > 1) selected.splice(i, 1); }
+      else { if (selected.length >= 3) return; selected.push(d); }
+      paint();
+    });
+    bucketEl.innerHTML = Object.entries(L.buckets || {}).map(([k, v]) => `<option value="${k}">${v}</option>`).join('');
+    daysEl.innerHTML = [['7', L.ui.days7], ['30', L.ui.days30], ['90', L.ui.days90]].map(([k, v]) => `<option value="${k}"${k === '30' ? ' selected' : ''}>${v}</option>`).join('');
+
+    let regionNames = null;
+    try { regionNames = new Intl.DisplayNames([document.documentElement.lang || 'en'], { type: 'region' }); } catch { regionNames = null; }
+    const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+    const lab = (dim, v) => {
+      if (v === '' || v == null) return '(none)';
+      if (dim === 'country') { try { return regionNames ? (regionNames.of(v) || v) : v; } catch { return v; } }
+      if (dim === 'device') return v.charAt(0).toUpperCase() + v.slice(1);
+      return v;
+    };
+
+    runEl.addEventListener('click', async () => {
+      runEl.disabled = true; metaEl.textContent = L.ui.running; outEl.innerHTML = '';
+      try {
+        const spec = { dims: selected.slice(), bucket: bucketEl.value, days: parseInt(daysEl.value, 10), limit: 50 };
+        const res = await fetch('/_a/q', { method: 'POST', headers: { 'content-type': 'application/json' }, credentials: 'same-origin', body: JSON.stringify(spec) });
+        if (!res.ok) throw new Error('http ' + res.status);
+        const data = await res.json();
+        const rows = data.rows || [];
+        if (!rows.length) { outEl.innerHTML = `<p class="hint" style="margin:0">${L.ui.empty}</p>`; metaEl.textContent = ''; runEl.disabled = false; return; }
+        const dims = data.dims || selected;
+        const mx = Math.max(1, ...rows.map((r) => Number(r.n) || 0));
+        outEl.innerHTML = rows.map((r) => {
+          const label = dims.map((d) => lab(d, r[d])).join(' · ');
+          const n = Number(r.n) || 0;
+          return `<div class="cov-row ai-row"><span class="cov-name" title="${esc(label)}">${esc(label)}</span><span class="track"><span class="fill" style="width:${Math.max(3, Math.round((n / mx) * 100))}%"></span></span><span class="cov-num">${n.toLocaleString()}</span></div>`;
+        }).join('');
+        metaEl.textContent = `${L.ui.generated} ${new Date(data.generatedAt).toLocaleString()} · ${data.days}d · ${rows.length} ${rows.length === 1 ? 'row' : 'rows'}`;
+      } catch (e) {
+        outEl.innerHTML = `<p class="hint" style="margin:0">${L.ui.err}</p>`; metaEl.textContent = '';
+      }
+      runEl.disabled = false;
+    });
   })();
 </script>
 
@@ -1299,4 +1430,23 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   #tx-app .tx-legend .tx-lg b { color: var(--ink); font-variant-numeric: tabular-nums; margin-left: auto; }
   #tx-app .tx-legend .tx-lg em { color: var(--muted); font-style: normal; min-width: 2.4rem; text-align: right; }
   #tx-app .tx-legend .tx-click:hover { color: var(--gold); }
+
+  /* Live query (contributor-only) — hidden until <html data-contributor="true"> */
+  .tx-live-wrap { display: none; }
+  :root[data-contributor="true"] .tx-live-wrap { display: block; }
+  .tx-live-wrap .tx-badge { font-size: 0.6rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; color: #1a1400; background: var(--gold); padding: 0.1rem 0.45rem; border-radius: 999px; vertical-align: middle; margin-left: 0.5rem; font-style: normal; }
+  .tl-controls { display: flex; flex-wrap: wrap; gap: 0.8rem 1.1rem; align-items: flex-end; margin: 0.4rem 0 0.2rem; }
+  .tl-field { display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); }
+  .tl-field select { font: inherit; font-size: 0.85rem; font-weight: 600; text-transform: none; letter-spacing: normal; color: var(--ink); background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.5rem; cursor: pointer; }
+  .tl-chips { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+  .tl-chip { border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft); font: inherit; font-size: 0.76rem; font-weight: 600; text-transform: none; letter-spacing: normal; padding: 0.25rem 0.6rem; border-radius: 999px; cursor: pointer; }
+  .tl-chip.is-on { background: var(--gold); color: #1a1400; border-color: var(--gold); }
+  .tl-run { border: 0; background: var(--gold); color: #1a1400; font: inherit; font-weight: 800; font-size: 0.82rem; padding: 0.45rem 1.1rem; border-radius: 8px; cursor: pointer; }
+  .tl-run:disabled { opacity: 0.5; cursor: progress; }
+  #tl-results { display: grid; gap: 0.35rem; }
+  #tl-results .cov-row { display: grid; grid-template-columns: minmax(0, 1fr) 4.5rem auto; gap: 0.5rem; align-items: center; }
+  #tl-results .cov-name { font-size: 0.8rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #tl-results .cov-num { font-size: 0.78rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+  #tl-results .track { display: block; height: 9px; background: var(--surface); border-radius: 999px; overflow: hidden; }
+  #tl-results .track .fill { display: block; height: 100%; border-radius: 999px; background: var(--gold); }
 </style>
