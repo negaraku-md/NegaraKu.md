@@ -35,7 +35,7 @@ const inSub = (s: string) => articles.filter((a) => a.data.subcategory.includes(
     <header>
       <span>
         <span class="pi" aria-hidden="true">🧭</span>
-        {L('Topik', 'Topics', '主题', 'தலைப்புகள்', 'トピック')}
+        {L('Topik', 'Topics', '主题', 'தலைப்புகள்', 'トピック', '주제')}
       </span>
       <span>{subcats.length}</span>
     </header>
@@ -47,7 +47,7 @@ const inSub = (s: string) => articles.filter((a) => a.data.subcategory.includes(
               <span class="bar" aria-hidden="true" />
               <b>{subcatLabel(s, locale)}</b>
               <span class="tc-count">
-                {inSub(s).length} {L('artikel', 'articles', '篇', 'கட்டுரைகள்', '記事')} →
+                {inSub(s).length} {L('artikel', 'articles', '篇', 'கட்டுரைகள்', '記事', '개 기사')} →
               </span>
             </a>
           ))

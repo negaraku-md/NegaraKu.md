@@ -39,7 +39,7 @@ const stats = await siteStats(locale);
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
     { label: t('nav.latest', locale) },
   ]}
   title={t('nav.latest', locale)}
@@ -49,12 +49,13 @@ const stats = await siteStats(locale);
     '最近更新的文章（最多 100 篇），按日期分组。',
     'சமீபத்தில் புதுப்பிக்கப்பட்ட கட்டுரைகள் (100 வரை), தேதி வாரியாகத் தொகுக்கப்பட்டவை.',
     '最近更新された記事（最大100件）を、日付ごとにまとめています。',
+    '가장 최근에 업데이트된 기사(최대 100개)를 날짜별로 묶어 보여줍니다.',
   )}
   stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ') },
-    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ', '카테고리') },
+    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ', '하위 카테고리') },
+    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제') },
   ]}
 />
 

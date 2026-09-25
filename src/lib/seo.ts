@@ -26,6 +26,7 @@ export function organizationJsonLd(locale: Locale = 'en'): Record<string, unknow
     zh: '关于马来西亚的开源、AI 友好知识库——Bahasa Melayu、English、中文与தமிழ்。',
     ta: 'மலேசியா பற்றிய திறந்த-மூல, AI-நட்பு அறிவுத் தளம் — Bahasa Melayu, English, 中文 மற்றும் தமிழ்.',
     ja: 'マレーシアに関するオープンソースで AI フレンドリーな知識ベース — Bahasa Melayu、English、中文、தமிழ்。',
+    ko: '말레이시아에 관한 오픈소스이자 AI 친화적인 지식 베이스 — Bahasa Melayu, English, 中文, தமிழ்.',
   }[locale] ?? '';
   return {
     '@context': 'https://schema.org',
@@ -264,6 +265,7 @@ export function websiteJsonLd(locale: Locale = 'en'): Record<string, unknown> {
     zh: '关于马来西亚的开源、AI 友好知识库。',
     ta: 'மலேசியா பற்றிய திறந்த-மூல, AI-நட்பு அறிவுத் தளம்.',
     ja: 'マレーシアに関するオープンソースで AI フレンドリーな知識ベース。',
+    ko: '말레이시아에 관한 오픈소스이자 AI 친화적인 지식 베이스.',
   }[locale] ?? '';
   return {
     '@context': 'https://schema.org',

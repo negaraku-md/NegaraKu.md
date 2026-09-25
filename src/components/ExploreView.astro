@@ -33,31 +33,32 @@ const pillarStats = PILLARS.map((p) => {
 // Latest and Most-read are already rendered as full strips above, so this grid
 // only carries the entry points the page doesn't already show inline.
 const ways = [
-  { href: '/categories', icon: '🗂️', color: '#38BDF8', title: t('nav.categories', locale), blurb: L('Semak imbas kesemua kategori.', 'Browse the full category index.', '浏览完整分类索引。', 'முழு வகை அட்டவணையையும் உலாவுங்கள்.', 'カテゴリー一覧をすべて閲覧できます。') },
-  { href: '/malaysia/timeline-of-malaysia', icon: '📜', color: '#FFC000', title: t('nav.timeline', locale), blurb: L('Sejarah Malaysia dalam satu garis masa.', "Malaysia's history on one timeline.", '一条时间线看马来西亚历史。', 'மலேசியாவின் வரலாறு ஒரே காலவரிசையில்.', 'マレーシアの歴史を一つの年表で。') },
-  { href: '/graph', icon: '🕸️', color: '#A78BFA', title: t('nav.graph', locale), blurb: L('Setiap topik dan cara ia berhubung.', 'Every topic and how it connects.', '每个主题及其关联。', 'ஒவ்வொரு தலைப்பும் அது எவ்வாறு தொடர்பு கொள்கிறது என்பதும்.', 'すべてのトピックとそのつながり。') },
+  { href: '/categories', icon: '🗂️', color: '#38BDF8', title: t('nav.categories', locale), blurb: L('Semak imbas kesemua kategori.', 'Browse the full category index.', '浏览完整分类索引。', 'முழு வகை அட்டவணையையும் உலாவுங்கள்.', 'カテゴリー一覧をすべて閲覧できます。', '전체 카테고리 색인을 둘러보세요.') },
+  { href: '/malaysia/timeline-of-malaysia', icon: '📜', color: '#FFC000', title: t('nav.timeline', locale), blurb: L('Sejarah Malaysia dalam satu garis masa.', "Malaysia's history on one timeline.", '一条时间线看马来西亚历史。', 'மலேசியாவின் வரலாறு ஒரே காலவரிசையில்.', 'マレーシアの歴史を一つの年表で。', '하나의 연표로 보는 말레이시아 역사.') },
+  { href: '/graph', icon: '🕸️', color: '#A78BFA', title: t('nav.graph', locale), blurb: L('Setiap topik dan cara ia berhubung.', 'Every topic and how it connects.', '每个主题及其关联。', 'ஒவ்வொரு தலைப்பும் அது எவ்வாறு தொடர்பு கொள்கிறது என்பதும்.', 'すべてのトピックとそのつながり。', '모든 주제와 그 연결 관계.') },
 ];
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
-    { label: L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探す') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
+    { label: L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探す', '탐색') },
   ]}
-  title={L('Terokai NegaraKu.md', 'Explore NegaraKu.md', '探索 NegaraKu.md', 'NegaraKu.md ஐ ஆராயுங்கள்', 'NegaraKu.md を探す')}
+  title={L('Terokai NegaraKu.md', 'Explore NegaraKu.md', '探索 NegaraKu.md', 'NegaraKu.md ஐ ஆராயுங்கள்', 'NegaraKu.md を探す', 'NegaraKu.md 탐색')}
   desc={L(
     'Mula di sini — cari, terokai mengikut tonggak, atau lompat terus ke yang popular.',
     'Start here — search, browse by pillar, or jump straight to what’s popular.',
     '从这里开始——搜索、按支柱浏览，或直达热门内容。',
     'இங்கே தொடங்குங்கள் — தேடுங்கள், தூண்வாரியாக உலாவுங்கள், அல்லது பிரபலமானவற்றுக்கு நேரடியாகச் செல்லுங்கள்.',
     'ここから始めましょう — 検索する、柱ごとに閲覧する、または人気の記事へ直接進めます。',
+    '여기서 시작하세요 — 검색하거나, 기둥별로 둘러보거나, 인기 항목으로 바로 이동하세요.',
   )}
   stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー') },
-    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리') },
+    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리') },
+    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제') },
   ]}
 />
 
@@ -86,7 +87,7 @@ const ways = [
     <header>
       <span>
         <span class="pi" aria-hidden="true">🗺️</span>
-        {L('Tonggak', 'Pillars', '支柱', 'தூண்கள்', '柱')}
+        {L('Tonggak', 'Pillars', '支柱', 'தூண்கள்', '柱', '기둥')}
       </span>
       <span>{PILLARS.length}</span>
     </header>
@@ -113,7 +114,7 @@ const ways = [
     <header>
       <span>
         <span class="pi" aria-hidden="true">✨</span>
-        {L('Cara lain untuk meneroka', 'More ways to explore', '更多探索方式', 'ஆராய மேலும் வழிகள்', 'ほかの探し方')}
+        {L('Cara lain untuk meneroka', 'More ways to explore', '更多探索方式', 'ஆராய மேலும் வழிகள்', 'ほかの探し方', '더 많은 탐색 방법')}
       </span>
     </header>
     <div class="psec-body">

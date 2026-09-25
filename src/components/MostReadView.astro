@@ -44,7 +44,7 @@ const stats = await siteStats(locale);
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
     { label: t('nav.trending', locale) },
   ]}
   title={t('nav.trending', locale)}
@@ -54,12 +54,13 @@ const stats = await siteStats(locale);
     '阅读量最高的文章——按读者访问量排序；在数据仍在积累时，优先展示最新文章。',
     'அதிகம் படிக்கப்பட்ட கட்டுரைகள் — வாசகர் வருகைகளின் அடிப்படையில் தரவரிசைப்படுத்தப்பட்டவை; பகுப்பாய்வுத் தரவு இன்னும் திரண்டு வரும் நிலையில் புதியவை முதலில் காட்டப்படும்.',
     '最もよく読まれている記事 — 読者の訪問数で順位付けし、分析データが蓄積されるまでは新しいものを優先表示します。',
+    '가장 많이 읽힌 기사 — 독자 방문 수에 따라 순위를 매기며, 분석 데이터가 아직 축적되는 동안에는 최신 기사를 우선 표시합니다.',
   )}
   stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ') },
-    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ', '카테고리') },
+    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ', '하위 카테고리') },
+    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제') },
   ]}
 />
 
@@ -73,6 +74,7 @@ const stats = await siteStats(locale);
           '读者分析仍在积累中，因此目前显示的是最近更新的文章——尚非人气排名。',
           'வாசகர் பகுப்பாய்வுத் தரவு இன்னும் திரண்டு வருகிறது; எனவே தற்போது இது சமீபத்தில் புதுப்பிக்கப்பட்ட கட்டுரைகளையே காட்டுகிறது — இன்னும் மக்கள் விருப்ப தரவரிசை அல்ல.',
           '読者の分析データはまだ蓄積中のため、現時点では最近更新された記事を表示しています — まだ人気順位ではありません。',
+          '독자 분석 데이터가 아직 축적되는 중이므로, 현재는 인기 순위가 아니라 가장 최근에 업데이트된 기사를 표시합니다.',
         )
       : L(
           'Disusun mengikut lawatan pembaca dan dikemas kini setiap hari. Artikel yang belum dijejak disusun mengikut kemas kini terbaharu, jadi senarai ini terus terisi apabila data bertambah.',
@@ -80,6 +82,7 @@ const stats = await siteStats(locale);
           '按读者访问量排序，每日更新。尚未被追踪的文章按最近更新排序，随着数据积累，列表会逐渐充实。',
           'வாசகர் வருகைகளின் அடிப்படையில் தரவரிசைப்படுத்தப்பட்டு தினமும் புதுப்பிக்கப்படுகிறது. இன்னும் கண்காணிக்கப்படாத கட்டுரைகள் சமீபத்திய புதுப்பிப்பின்படி வரிசைப்படுத்தப்படுகின்றன; எனவே பகுப்பாய்வுத் தரவு வளர வளர இப்பட்டியல் நிறைவடையும்.',
           '読者の訪問数で順位付けし、毎日更新されます。まだ計測されていない記事は最新の更新順に並ぶため、分析データが増えるにつれて一覧が充実していきます。',
+          '독자 방문 수에 따라 순위를 매기며 매일 갱신됩니다. 아직 추적되지 않은 기사는 최근 업데이트 순으로 정렬되므로, 분석 데이터가 늘어남에 따라 목록이 채워집니다.',
         )}
   </p>
 </section>

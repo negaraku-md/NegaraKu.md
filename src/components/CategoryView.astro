@@ -32,10 +32,10 @@ const catCount = pillar ? categoriesInPillar(pillar).length : 0;
 // Hero stats: drop the "categories" tile for a category with no parent pillar,
 // rather than showing a meaningless "0 categories".
 const heroStats = [
-  { value: PILLARS.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱') },
-  ...(pillar ? [{ value: catCount, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ') }] : []),
-  { value: topicCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ') },
-  { value: articles.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック') },
+  { value: PILLARS.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥') },
+  ...(pillar ? [{ value: catCount, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ', '카테고리') }] : []),
+  { value: topicCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ', '하위 카테고리') },
+  { value: articles.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제') },
 ];
 
 // Every category uses the service archetype now — one uniform, scalable body.
@@ -53,7 +53,7 @@ const mrKeys = showStrips ? mostReadKeys(articles, STRIP) : [];
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
     ...(pillarDef ? [{ label: loc(pillarDef.name, locale), href: localePath(`/${pillar}`, locale) }] : []),
     { label: loc(category.name, locale) },
   ]}

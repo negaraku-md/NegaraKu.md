@@ -30,7 +30,7 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
     { label: t('nav.categories', locale) },
   ]}
   title={t('nav.categories', locale)}
@@ -40,12 +40,13 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
     '按支柱浏览每个分类——选择一个，探索其主题与文章。',
     'ஒவ்வொரு வகையையும் தூண்வாரியாக உலாவுங்கள் — அதன் தலைப்புகளையும் கட்டுரைகளையும் ஆராய ஒன்றைத் தேர்ந்தெடுங்கள்.',
     '柱ごとにすべてのカテゴリーを閲覧 — 一つ選んで、その主題や記事を探索しましょう。',
+    '카테고리를 기둥별로 둘러보고 — 하나를 선택하여 그 주제와 기사를 탐색하세요.',
   )}
   stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー') },
-    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', '主題') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리') },
+    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리') },
+    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', '主題', '주제') },
   ]}
 />
 
@@ -56,13 +57,13 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
       id="cat-filter"
       type="text"
       autocomplete="off"
-      placeholder={L('Tapis kategori…', 'Filter categories…', '筛选分类…', 'வகைகளை வடிகட்டு…', 'カテゴリーを絞り込む…')}
-      aria-label={L('Tapis kategori', 'Filter categories', '筛选分类', 'வகைகளை வடிகட்டு', 'カテゴリーを絞り込む')}
+      placeholder={L('Tapis kategori…', 'Filter categories…', '筛选分类…', 'வகைகளை வடிகட்டு…', 'カテゴリーを絞り込む…', '카테고리 필터링…')}
+      aria-label={L('Tapis kategori', 'Filter categories', '筛选分类', 'வகைகளை வடிகட்டு', 'カテゴリーを絞り込む', '카테고리 필터링')}
     />
   </div>
 
   <p id="cat-empty" class="empty" hidden>
-    {L('Tiada kategori sepadan.', 'No categories match your search.', '没有符合的分类。', 'உங்கள் தேடலுக்குப் பொருந்தும் வகைகள் இல்லை.', '検索に一致するカテゴリーはありません。')}
+    {L('Tiada kategori sepadan.', 'No categories match your search.', '没有符合的分类。', 'உங்கள் தேடலுக்குப் பொருந்தும் வகைகள் இல்லை.', '検索に一致するカテゴリーはありません。', '검색과 일치하는 카테고리가 없습니다.')}
   </p>
 
   {

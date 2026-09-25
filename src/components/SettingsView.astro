@@ -16,23 +16,24 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
-    { label: L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
+    { label: L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定', '설정') },
   ]}
-  title={L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定')}
+  title={L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定', '설정')}
   desc={L(
     'Sesuaikan cara anda membaca NegaraKu.md. Tetapan disimpan dalam pelayar anda sahaja.',
     'Tune how you read NegaraKu.md. Preferences are saved in your browser only.',
     '自定义你阅读 NegaraKu.md 的方式。设置仅保存在你的浏览器中。',
     'நீங்கள் NegaraKu.md-ஐ எப்படிப் படிக்கிறீர்கள் என்பதைச் சரிசெய்யுங்கள். விருப்பங்கள் உங்கள் உலாவியில் மட்டுமே சேமிக்கப்படுகின்றன.',
     'NegaraKu.md の読み方をお好みに調整できます。設定はお使いのブラウザにのみ保存されます。',
+    'NegaraKu.md를 읽는 방식을 조정하세요. 설정은 귀하의 브라우저에만 저장됩니다.',
   )}
 />
 
 <div class="settings" id="settings">
   <!-- Default language -->
   <section class="set-card">
-    <h2>{L('Bahasa lalai', 'Default language', '默认语言', 'இயல்பு மொழி', '既定の言語')}</h2>
+    <h2>{L('Bahasa lalai', 'Default language', '默认语言', 'இயல்பு மொழி', '既定の言語', '기본 언어')}</h2>
     <p class="note">
       {L(
         'Bahasa pilihan anda apabila melawat laman utama. Anda sentiasa boleh menukar bahasa dengan suis MS / EN / ZH.',
@@ -40,10 +41,11 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
         '你访问首页时的首选语言。你随时可以用 MS / EN / ZH 切换。',
         'முகப்புப் பக்கத்திற்கு வரும்போது உங்கள் விருப்ப மொழி. MS / EN / ZH நிலைமாற்றியால் நீங்கள் எப்போதும் மொழியை மாற்றலாம்.',
         'ホームページを開いたときの優先言語です。MS / EN / ZH の切り替えでいつでも言語を変更できます。',
+        '홈페이지에 처음 방문할 때 사용할 선호 언어입니다. MS / EN / ZH 전환으로 언제든지 언어를 바꿀 수 있습니다.',
       )}
     </p>
     <div class="opts" data-group="lang">
-      <label class="opt"><input type="radio" name="deflang" value="auto" /><span>{L('Automatik', 'Auto', '自动', 'தானியங்கி', '自動')}</span></label>
+      <label class="opt"><input type="radio" name="deflang" value="auto" /><span>{L('Automatik', 'Auto', '自动', 'தானியங்கி', '自動', '자동')}</span></label>
       <label class="opt"><input type="radio" name="deflang" value="ms" /><span>Bahasa Melayu (MS)</span></label>
       <label class="opt"><input type="radio" name="deflang" value="en" /><span>English (EN)</span></label>
       <label class="opt"><input type="radio" name="deflang" value="zh" /><span>中文 (ZH)</span></label>
@@ -52,27 +54,27 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
 
   <!-- 3. Reading -->
   <section class="set-card">
-    <h2>{L('Bacaan', 'Reading', '阅读', 'வாசிப்பு', '表示')}</h2>
+    <h2>{L('Bacaan', 'Reading', '阅读', 'வாசிப்பு', '表示', '읽기')}</h2>
     <div class="row">
-      <span class="row-label">{L('Tema', 'Theme', '主题', 'தீம்', 'テーマ')}</span>
+      <span class="row-label">{L('Tema', 'Theme', '主题', 'தீம்', 'テーマ', '테마')}</span>
       <div class="seg" data-group="theme">
-        <button type="button" data-value="black-gold"><span class="sw sw-gold" aria-hidden="true"></span>{L('Emas', 'Gold', '金色', 'தங்கம்', 'ゴールド')}</button>
-        <button type="button" data-value="black-red"><span class="sw sw-red" aria-hidden="true"></span>{L('Merah', 'Red', '红色', 'சிவப்பு', 'レッド')}</button>
+        <button type="button" data-value="black-gold"><span class="sw sw-gold" aria-hidden="true"></span>{L('Emas', 'Gold', '金色', 'தங்கம்', 'ゴールド', '골드')}</button>
+        <button type="button" data-value="black-red"><span class="sw sw-red" aria-hidden="true"></span>{L('Merah', 'Red', '红色', 'சிவப்பு', 'レッド', '레드')}</button>
       </div>
     </div>
     <div class="row">
-      <span class="row-label">{L('Saiz teks', 'Text size', '字号', 'எழுத்து அளவு', '文字サイズ')}</span>
+      <span class="row-label">{L('Saiz teks', 'Text size', '字号', 'எழுத்து அளவு', '文字サイズ', '글자 크기')}</span>
       <div class="seg" data-group="size">
-        <button type="button" data-value="standard">{L('Biasa', 'Standard', '标准', 'சாதாரண', '標準')}</button>
-        <button type="button" data-value="large">{L('Besar', 'Large', '大', 'பெரிய', '大')}</button>
-        <button type="button" data-value="xlarge">{L('Sangat besar', 'X-Large', '特大', 'மிகப் பெரிய', '特大')}</button>
+        <button type="button" data-value="standard">{L('Biasa', 'Standard', '标准', 'சாதாரண', '標準', '표준')}</button>
+        <button type="button" data-value="large">{L('Besar', 'Large', '大', 'பெரிய', '大', '크게')}</button>
+        <button type="button" data-value="xlarge">{L('Sangat besar', 'X-Large', '特大', 'மிகப் பெரிய', '特大', '아주 크게')}</button>
       </div>
     </div>
   </section>
 
   <!-- 4. Card display -->
   <section class="set-card">
-    <h2>{L('Paparan kad', 'Card display', '卡片显示', 'அட்டை காட்சி', 'カード表示')}</h2>
+    <h2>{L('Paparan kad', 'Card display', '卡片显示', 'அட்டை காட்சி', 'カード表示', '카드 표시')}</h2>
     <p class="note">
       {L(
         'Baris maklumat untuk dipaparkan pada kad artikel dalam senarai.',
@@ -80,19 +82,20 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
         '文章卡片在列表中显示哪些信息行。',
         'பட்டியல்களில் கட்டுரை அட்டைகளில் எந்தத் தகவல் வரிசைகள் காண்பிக்கப்படுகின்றன.',
         '一覧の記事カードに表示する情報行を選びます。',
+        '목록의 기사 카드에 표시할 정보 행을 선택합니다.',
       )}
     </p>
     <div class="opts" data-group="rows">
-      <label class="opt"><input type="checkbox" value="path" /><span>{L('Laluan', 'Path', '路径', 'பாதை', 'パス')}</span></label>
-      <label class="opt"><input type="checkbox" value="details" /><span>{L('Butiran', 'Details', '详情', 'விவரங்கள்', '詳細')}</span></label>
-      <label class="opt"><input type="checkbox" value="custody" /><span>{L('Status', 'Status', '状态', 'நிலை', 'ステータス')}</span></label>
-      <label class="opt"><input type="checkbox" value="visitors" /><span>{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者')}</span></label>
+      <label class="opt"><input type="checkbox" value="path" /><span>{L('Laluan', 'Path', '路径', 'பாதை', 'パス', '경로')}</span></label>
+      <label class="opt"><input type="checkbox" value="details" /><span>{L('Butiran', 'Details', '详情', 'விவரங்கள்', '詳細', '세부 정보')}</span></label>
+      <label class="opt"><input type="checkbox" value="custody" /><span>{L('Status', 'Status', '状态', 'நிலை', 'ステータス', '상태')}</span></label>
+      <label class="opt"><input type="checkbox" value="visitors" /><span>{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者', '방문자')}</span></label>
     </div>
   </section>
 
   <div class="actions">
-    <button type="button" id="set-reset" class="reset">{L('Set semula semua', 'Reset all', '全部重置', 'அனைத்தையும் மீட்டமை', 'すべてリセット')}</button>
-    <span id="set-saved" class="saved" hidden>{L('Disimpan', 'Saved', '已保存', 'சேமிக்கப்பட்டது', '保存しました')}</span>
+    <button type="button" id="set-reset" class="reset">{L('Set semula semua', 'Reset all', '全部重置', 'அனைத்தையும் மீட்டமை', 'すべてリセット', '모두 초기화')}</button>
+    <span id="set-saved" class="saved" hidden>{L('Disimpan', 'Saved', '已保存', 'சேமிக்கப்பட்டது', '保存しました', '저장됨')}</span>
   </div>
 </div>
 

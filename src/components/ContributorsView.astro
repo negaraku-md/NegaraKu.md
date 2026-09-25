@@ -14,9 +14,9 @@ const credits = getCredits();
 const { people, stats } = credits;
 
 const ROLE = {
-  author: { icon: '✍️', label: L('Penulis', 'Author', '作者', 'எழுத்தாளர்', '執筆者') },
-  contributor: { icon: '🔧', label: L('Penyumbang', 'Contributor', '贡献者', 'பங்களிப்பாளர்', '貢献者') },
-  reviewer: { icon: '✓', label: L('Penyemak', 'Reviewer', '审阅者', 'மறுஆய்வாளர்', 'レビュー担当') },
+  author: { icon: '✍️', label: L('Penulis', 'Author', '作者', 'எழுத்தாளர்', '執筆者', '집필자') },
+  contributor: { icon: '🔧', label: L('Penyumbang', 'Contributor', '贡献者', 'பங்களிப்பாளர்', '貢献者', '기여자') },
+  reviewer: { icon: '✓', label: L('Penyemak', 'Reviewer', '审阅者', 'மறுஆய்வாளர்', 'レビュー担当', '검토자') },
 } as const;
 type RoleKey = keyof typeof ROLE;
 
@@ -35,22 +35,23 @@ const num = (n: number) => n.toLocaleString(locale === 'zh' ? 'zh' : 'en');
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム'), href: localePath('/', locale) },
-    { label: L('Penyumbang', 'Contributors', '贡献者', 'பங்களிப்பாளர்கள்', '貢献者') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
+    { label: L('Penyumbang', 'Contributors', '贡献者', 'பங்களிப்பாளர்கள்', '貢献者', '기여자') },
   ]}
-  title={L('Penyumbang', 'Contributors', '贡献者', 'பங்களிப்பாளர்கள்', '貢献者')}
+  title={L('Penyumbang', 'Contributors', '贡献者', 'பங்களிப்பாளர்கள்', '貢献者', '기여자')}
   desc={L(
     'Orang yang menulis, menyunting dan menyemak NegaraKu.md. Halaman ini dijana automatik daripada sejarah perubahan setiap artikel.',
     'The people who write, edit and review NegaraKu.md. This page is generated automatically from every article’s change history.',
     '撰写、编辑和审阅 NegaraKu.md 的人。本页根据每篇文章的修改历史自动生成。',
     'NegaraKu.md-ஐ எழுதி, திருத்தி, மறுஆய்வு செய்யும் மக்கள். இந்தப் பக்கம் ஒவ்வொரு கட்டுரையின் மாற்ற வரலாற்றிலிருந்தும் தானாகவே உருவாக்கப்படுகிறது.',
     'NegaraKu.md を執筆・編集・レビューする人々。このページは各記事の変更履歴から自動生成されます。',
+    'NegaraKu.md를 집필, 편집, 검토하는 사람들입니다. 이 페이지는 각 기사의 변경 이력에서 자동으로 생성됩니다.',
   )}
   stats={[
-    { value: stats.people, label: L('orang', 'people', '人', 'பேர்', '人') },
-    { value: stats.reviews, label: L('semakan', 'reviews', '审阅', 'மறுஆய்வுகள்', 'レビュー') },
-    { value: stats.topics, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック') },
-    { value: stats.aiAssistedTopics, label: L('draf AI', 'AI-drafted', 'AI 起草', 'AI வரைவு', 'AI 下書き') },
+    { value: stats.people, label: L('orang', 'people', '人', 'பேர்', '人', '명') },
+    { value: stats.reviews, label: L('semakan', 'reviews', '审阅', 'மறுஆய்வுகள்', 'レビュー', '검토') },
+    { value: stats.topics, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제') },
+    { value: stats.aiAssistedTopics, label: L('draf AI', 'AI-drafted', 'AI 起草', 'AI வரைவு', 'AI 下書き', 'AI 초안') },
   ]}
 />
 
@@ -65,6 +66,7 @@ const num = (n: number) => n.toLocaleString(locale === 'zh' ? 'zh' : 'en');
         `大多数文章最初是 AI 引导的草稿（${num(stats.topics)} 个主题中的 ${num(stats.aiAssistedTopics)} 个），随后由下方列出的人进行编辑和审阅。我们如实标注两者。`,
         `பெரும்பாலான கட்டுரைகள் AI-வழிகாட்டப்பட்ட வரைவுகளாகத் தொடங்குகின்றன (${num(stats.topics)} தலைப்புகளில் ${num(stats.aiAssistedTopics)}), பின்னர் கீழே பட்டியலிடப்பட்ட மனிதர்களால் திருத்தப்பட்டு மறுஆய்வு செய்யப்படுகின்றன. இருவருக்கும் நாங்கள் நேர்மையாக அங்கீகாரம் அளிக்கிறோம்.`,
         `ほとんどの記事は AI 主導の下書きとして始まり（${num(stats.topics)} トピック中 ${num(stats.aiAssistedTopics)} 件）、その後、下記の人々によって編集・レビューされます。私たちは両者を誠実にクレジットします。`,
+        `대부분의 기사는 AI 안내 초안으로 시작하여(${num(stats.topics)}개 주제 중 ${num(stats.aiAssistedTopics)}개), 아래에 나열된 사람들이 편집하고 검토합니다. 우리는 두 가지 모두를 정직하게 표기합니다.`,
       )}
     </p>
   </div>
@@ -73,10 +75,10 @@ const num = (n: number) => n.toLocaleString(locale === 'zh' ? 'zh' : 'en');
 <!-- People -->
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Orang', 'People', '成员', 'மக்கள்', 'メンバー')}</span></header>
+    <header><span>{L('Orang', 'People', '成员', 'மக்கள்', 'メンバー', '사람들')}</span></header>
     <div class="psec-body">
       {people.length === 0 ? (
-        <p class="empty">{L('Belum ada penyumbang manusia direkodkan lagi.', 'No human contributors recorded yet.', '尚未记录人工贡献者。', 'இதுவரை எந்த மனித பங்களிப்பாளரும் பதிவு செய்யப்படவில்லை.', '人間の貢献者はまだ記録されていません。')}</p>
+        <p class="empty">{L('Belum ada penyumbang manusia direkodkan lagi.', 'No human contributors recorded yet.', '尚未记录人工贡献者。', 'இதுவரை எந்த மனித பங்களிப்பாளரும் பதிவு செய்யப்படவில்லை.', '人間の貢献者はまだ記録されていません。', '아직 기록된 사람 기여자가 없습니다.')}</p>
       ) : (
         <ul class="people">
           {people.map((p) => (
@@ -91,10 +93,10 @@ const num = (n: number) => n.toLocaleString(locale === 'zh' ? 'zh' : 'en');
                 </div>
               </div>
               <div class="pstats">
-                {p.authored > 0 && <span>{num(p.authored)} {L('ditulis', 'authored', '撰写', 'எழுதியவை', '執筆')}</span>}
-                {p.contributions > 0 && <span>{num(p.contributions)} {L('suntingan', 'edits', '编辑', 'திருத்தங்கள்', '編集')}</span>}
-                {p.reviews > 0 && <span>{num(p.reviews)} {L('semakan', 'reviews', '审阅', 'மறுஆய்வுகள்', 'レビュー')}</span>}
-                <span class="pdim">· {num(p.articles)} {L('artikel', 'articles', '篇文章', 'கட்டுரைகள்', '記事')}</span>
+                {p.authored > 0 && <span>{num(p.authored)} {L('ditulis', 'authored', '撰写', 'எழுதியவை', '執筆', '집필')}</span>}
+                {p.contributions > 0 && <span>{num(p.contributions)} {L('suntingan', 'edits', '编辑', 'திருத்தங்கள்', '編集', '편집')}</span>}
+                {p.reviews > 0 && <span>{num(p.reviews)} {L('semakan', 'reviews', '审阅', 'மறுஆய்வுகள்', 'レビュー', '검토')}</span>}
+                <span class="pdim">· {num(p.articles)} {L('artikel', 'articles', '篇文章', 'கட்டுரைகள்', '記事', '기사')}</span>
               </div>
             </li>
           ))}
@@ -108,12 +110,12 @@ const num = (n: number) => n.toLocaleString(locale === 'zh' ? 'zh' : 'en');
 <section class="container block">
   <div class="join">
     <div>
-      <b>{L('Mahu nama anda di sini?', 'Want your name here?', '想让你的名字出现在这里？', 'உங்கள் பெயர் இங்கே வர வேண்டுமா?', 'あなたの名前をここに載せませんか？')}</b>
-      <p>{L('Sesiapa boleh menyumbang. Ketahui peranan dan cara menyertai.', 'Anyone can contribute. Learn the roles and how to join.', '人人都能贡献。了解各角色及加入方式。', 'யார் வேண்டுமானாலும் பங்களிக்கலாம். பாத்திரங்களையும் சேரும் வழியையும் அறியுங்கள்.', 'だれでも貢献できます。役割と参加方法を知りましょう。')}</p>
+      <b>{L('Mahu nama anda di sini?', 'Want your name here?', '想让你的名字出现在这里？', 'உங்கள் பெயர் இங்கே வர வேண்டுமா?', 'あなたの名前をここに載せませんか？', '여기에 이름을 올리고 싶으신가요?')}</b>
+      <p>{L('Sesiapa boleh menyumbang. Ketahui peranan dan cara menyertai.', 'Anyone can contribute. Learn the roles and how to join.', '人人都能贡献。了解各角色及加入方式。', 'யார் வேண்டுமானாலும் பங்களிக்கலாம். பாத்திரங்களையும் சேரும் வழியையும் அறியுங்கள்.', 'だれでも貢献できます。役割と参加方法を知りましょう。', '누구나 기여할 수 있습니다. 역할과 참여 방법을 알아보세요.')}</p>
     </div>
     <div class="join-acts">
-      <a class="btn btn-primary" href={localePath('/roles', locale)}>{L('Peranan & cara ia berfungsi', 'Roles & how it works', '角色与运作方式', 'பாத்திரங்கள் & இது எப்படி வேலை செய்கிறது', '役割と仕組み')} →</a>
-      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献する')} →</a>
+      <a class="btn btn-primary" href={localePath('/roles', locale)}>{L('Peranan & cara ia berfungsi', 'Roles & how it works', '角色与运作方式', 'பாத்திரங்கள் & இது எப்படி வேலை செய்கிறது', '役割と仕組み', '역할과 작동 방식')} →</a>
+      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献する', '기여하기')} →</a>
     </div>
   </div>
 </section>

@@ -44,8 +44,8 @@ const top = [...articles]
   .slice(0, limit);
 
 const heading = sort === 'recent'
-  ? L('Terkini', 'Latest', '最新', 'சமீபத்தியவை', '最新')
-  : L('Paling banyak dibaca', 'Most read', '最多阅读', 'அதிகம் படிக்கப்பட்டவை', 'よく読まれている');
+  ? L('Terkini', 'Latest', '最新', 'சமீபத்தியவை', '最新', '최신')
+  : L('Paling banyak dibaca', 'Most read', '最多阅读', 'அதிகம் படிக்கப்பட்டவை', 'よく読まれている', '가장 많이 읽은');
 const headIcon = sort === 'recent' ? '🆕' : '🔥';
 
 // "See all" href: localise the path, keep the trailing slash GitHub Pages serves,
@@ -65,7 +65,7 @@ if (moreHref) {
         <h2><span class="mr-ico" aria-hidden="true">{headIcon}</span>{heading}</h2>
         {moreUrl && (
           <a class="mr-more" href={moreUrl}>
-            {L('Lihat semua', 'See all', '查看全部', 'அனைத்தையும் காண்க', 'すべて見る')} →
+            {L('Lihat semua', 'See all', '查看全部', 'அனைத்தையும் காண்க', 'すべて見る', '모두 보기')} →
           </a>
         )}
       </div>
