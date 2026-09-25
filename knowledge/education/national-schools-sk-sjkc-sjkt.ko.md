@@ -33,7 +33,7 @@ masterLanguage: "ms"
 translationStatus: "pending"
 status: "draft"
 aiAssisted: true
-reviewer: "ashton-tan"
+reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0
