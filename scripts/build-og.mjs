@@ -47,8 +47,8 @@ async function collectPngs(dir) {
 const esc = (s) =>
   String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const titleCase = (id) => id.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-const TITLE_FONT = "Montserrat, 'Noto Sans Tamil', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
-const BODY_FONT = "Lato, 'Noto Sans Tamil', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
+const TITLE_FONT = "Montserrat, 'Noto Sans Tamil', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
+const BODY_FONT = "Lato, 'Noto Sans Tamil', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
 
 // --- taxonomy (mirrors src/lib/categories.ts) — pillar + localized category
 // names, so the breadcrumb reads exactly like the article page. --------------
@@ -93,14 +93,14 @@ const fmtDate = (iso, lang) => {
   if (!iso) return null;
   try {
     return new Date(iso).toLocaleDateString(
-      lang === 'zh' ? 'zh-CN' : lang === 'ms' ? 'ms-MY' : lang === 'ta' ? 'ta-MY' : lang === 'ja' ? 'ja-JP' : 'en-GB',
+      lang === 'zh' ? 'zh-CN' : lang === 'ms' ? 'ms-MY' : lang === 'ta' ? 'ta-MY' : lang === 'ja' ? 'ja-JP' : lang === 'ko' ? 'ko-KR' : 'en-GB',
       { day: 'numeric', month: 'short', year: 'numeric' });
   } catch { return iso; }
 };
 // Approx text width: CJK glyphs are ~1.85× a Latin glyph at the same size.
 const textWidth = (s, size) => {
   let u = 0;
-  for (const ch of String(s)) u += /[㐀-鿿一-龥]/.test(ch) ? 1.0 : 0.54;
+  for (const ch of String(s)) u += /[㐀-鿿一-龥가-힣]/.test(ch) ? 1.0 : 0.54; // 가-힣 = Hangul syllables (wide like CJK)
   return u * size;
 };
 

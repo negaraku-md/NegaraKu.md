@@ -15,6 +15,7 @@ export const LOCALE_NAMES: Record<Locale, string> = {
   zh: '中文',
   ta: 'தமிழ்',
   ja: '日本語',
+  ko: '한국어',
 };
 
 /** UI string table. Keep keys stable; fall back to `ms` if a value is missing. */

@@ -194,11 +194,12 @@ export default defineConfig({
   integrations: [
     mdx(),
     sitemap({
-      // Tamil (`ta`) open-launched 2026-09-13 and Japanese (`ja`) open-launched
-      // 2026-09-20: their pages are indexed, listed as URLs, and advertised as
-      // hreflang alternates (both are also in LOCALES in i18n.ts). No locale is
-      // soft-launched at present, so no sitemap exclusion filter is needed; add one
-      // back (as ja had) when landing a future locale's corpus before open launch.
+      // Korean (`ko`) is SOFT-LAUNCHED (2026-09-25): its routes/chrome build for
+      // preview but it is held OUT of LOCALES (→ noindex) and out of this sitemap
+      // via the filter below, until its corpus + chrome are launch-ready. Remove
+      // the filter + add ko to the i18n.locales map here (and to LOCALES in
+      // i18n.ts) at open launch. ta/ja are fully launched (in LOCALES, indexed).
+      filter: (page) => !/\/ko(\/|$)/.test(page),
       i18n: {
         defaultLocale: 'ms',
         locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja' },
