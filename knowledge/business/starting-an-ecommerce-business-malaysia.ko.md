@@ -1,0 +1,195 @@
+---
+topicId: MY-BIZ-0126
+title: "말레이시아에서 전자상거래 또는 온라인 사업 시작하기"
+seoTitle: "말레이시아 온라인 사업 시작하는 방법: 등록, 규칙, 세금"
+slug: "starting-an-ecommerce-business-malaysia"
+category: "business"
+subcategory: ["formation"]
+summary: "말레이시아에서 온라인 또는 전자상거래 사업을 시작하는 단계별 지침 — 가정이나 마켓플레이스 판매자도 SSM에 등록해야 하는 이유, 2024년 전자거래 규정에 따른 의무 표시 규칙, 개인정보(PDPA) 의무, 저가 상품 수입세, 그리고 전자세금계산서 기준액이 현재 어디에 있는지를 다룹니다."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "말레이시아에서 온라인 판매는 여전히 SSM 등록을 요구합니다 — 가정 기반이나 마켓플레이스 전용 판매자도 개인사업자 또는 Sdn Bhd로 30일 이내에 등록해야 합니다. 별도의 '온라인 사업 면허'는 없습니다. 판매자는 그다음 소비자보호(전자거래) 규정 2024(Consumer Protection (Electronic Trade Transaction) Regulations 2024)(이름, 연락처, 주소, 전체 가격, 조건 표시)와 개인정보보호법(Personal Data Protection Act 2010)을 준수하고, 세금 — 수입 상품에 대한 10% 저가 상품세 포함 — 을 처리해야 합니다. 전자세금계산서는 현재 매출 RM3백만 초과 사업체에만 적용됩니다."
+keyTakeaways:
+  - "가정 기반이나 마켓플레이스 전용 온라인 판매자도 시작 후 30일 이내에 SSM에 등록해야 합니다 — 별도의 온라인 사업 면허는 없습니다."
+  - "소비자보호(전자거래) 규정 2024(Consumer Protection (Electronic Trade Transaction) Regulations 2024)는 옛 2012년 규칙을 대체했으며, 온라인 판매자에게 이름, 연락처, 주소, 전체 가격, 조건을 표시하도록 요구합니다 — 그러나 흔한 믿음과 달리 사업 등록번호는 아닙니다."
+  - "저가 상품(LVG)세는 온라인으로 판매되는 RM500 이하 가치의 수입 상품에 대한 10%입니다; 12개월간 LVG가 RM500,000을 초과하는 판매자는 등록해야 합니다."
+  - "전자세금계산서는 이제 매출 RM3백만 초과 사업체에만 적용됩니다(면제가 RM500,000에서 단계적으로 인상됨) — 그래서 대부분의 소규모 온라인 판매자는 현재 면제됩니다."
+appliesTo: "말레이시아에서 온라인 상점, 드롭시핑 또는 마켓플레이스 기반 사업을 시작하는 모든 사람; 등록, 소비자 보호, 세금 의무를 확인하는 기존 온라인 판매자."
+
+faq:
+  - q: "말레이시아에서 온라인 사업을 등록해야 하나요?"
+    a: "예. 온라인, 가정 기반, 마켓플레이스 전용 판매를 포함하여 영리를 위해 영위되는 모든 사업은 사업등록법(Registration of Businesses Act 1956)에 따른 개인사업자 또는 조합으로, 또는 회사법(Companies Act 2016)에 따른 Sdn Bhd로, 시작 후 30일 이내에 SSM에 등록해야 합니다. 등록 없이 거래하는 것은 범죄입니다. 별도의 '전자상거래 면허'는 없습니다; SSM 등록이 기준 요건입니다."
+  - q: "말레이시아에서 온라인 판매자는 고객에게 무엇을 표시해야 하나요?"
+    a: "소비자보호(전자거래) 규정 2024(Consumer Protection (Electronic Trade Transaction) Regulations 2024)에 따라, 온라인 판매자 또는 마켓플레이스 공급자는 이름, 이메일 주소, 전화번호, 사업 주소와 함께, 명확한 설명, 전체 가격(배송, 세금, 그 밖의 비용 포함), 결제 방법, 판매 약관을 공개해야 합니다. 특히, 공개 목록에는 사업 또는 회사 등록번호가 포함되지 않습니다 — 그것은 표시되는 것이 아니라 마켓플레이스 운영자의 기록에 보관됩니다. 이 규칙은 2024년 12월 이전의 2012년 규정을 대체했습니다."
+  - q: "말레이시아에서 온라인 판매를 위해 수입하는 상품에 세금이 있나요?"
+    a: "예, 저가 상품(LVG) 판매세입니다. 말레이시아로 수입되어 온라인으로 판매되는 RM500 이하 가치의 상품은 10%로 과세됩니다. 말레이시아로의 LVG 판매가 12개월간 RM500,000을 초과하는 온라인 판매자 — 현지든 외국이든 — 는 관세청에 등록하고 세금을 부과해야 합니다. 2024년 1월 1일 시행되었으며 주로 드롭시퍼와 국경 간 판매자에게 영향을 미칩니다."
+  - q: "소규모 온라인 사업이 말레이시아에서 전자세금계산서를 발행해야 하나요?"
+    a: "현재는 연 매출이 RM3백만을 초과하는 경우에만 그렇습니다. 전자세금계산서 면제 기준액은 단계적으로 인상되었습니다 — RM500,000에서, RM1백만으로, 그리고 2026년 9월자 LHDN e-Invoice FAQ에 따르면 RM3백만으로 — 2027년 12월 31일까지 RM5백만 이하 납세자에 대한 중간 완화와 함께, 그래서 대부분의 소규모 온라인 판매자는 지금은 면제됩니다. 이 일정이 이미 여러 번 바뀌었으므로, LHDN e-Invoice 페이지에서 현행 입장을 확인하십시오."
+  - q: "말레이시아에서 온라인 결제를 받으려면 면허가 필요한가요?"
+    a: "판매자로서는 아닙니다. 결제 게이트웨이에 온보딩하며, 이것이 사업 검증 단계를 처리합니다; 말레이시아 중앙은행(BNM)의 승인을 받아야 하는 것은 당신이 아니라 결제 게이트웨이 운영자입니다. 판매하는 것에 따라 부문별 규칙이 여전히 적용될 수 있습니다 — 예를 들어 화장품과 건강제품은 판매 채널과 무관하게 해당 규제기관에 통보가 필요합니다."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-09-07
+reviewDue: 2027-09-07
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-09-07
+    change: "Reviewed and published."
+
+verificationNeeded:
+  - "E-invoicing thresholds are highly volatile — the exemption has moved from RM500,000 to RM1 million and now to RM3 million (per the LHDN e-Invoice FAQ dated 4 September 2026), with an interim relaxation for taxpayers up to RM5 million to 31 December 2027. Re-check the current LHDN e-Invoice guideline/FAQ on hasil.gov.my before relying on any threshold or date."
+  - "The status of the Bahasa Malaysia listing-language requirement under the Consumer Protection (Electronic Trade Transaction) Regulations 2024 (enforcement reported as postponed/under review), and the PDPA 2024 amendment specifics (breach-notification effective date, DPO appointment threshold), should be confirmed against pdp.gov.my and the AGC before relying on specifics."
+  - "SSM registration fees (RM30/RM60) and the current SST/digital-service-tax rates and thresholds should be confirmed against the official ssm.com.my and RMCD pages at publish time. Warn readers that lookalike domains such as ssm-ezbiz-style resellers are not the official SSM site (ssm.com.my / ezbiz.ssm.com.my)."
+
+updated: 2026-09-07
+sources:
+  - title: "Consumer Protection (Electronic Trade Transaction) Regulations 2024 (P.U.(A) 449/2024)"
+    url: "https://lom.agc.gov.my/"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Sales Tax on Imported Low-Value Goods Sold Online (press release)"
+    url: "https://www.mof.gov.my/portal/en/news/press-release/sales-tax-on-imported-low-value-goods-sold-online"
+    publisher: "Ministry of Finance Malaysia"
+  - title: "e-Invoice"
+    url: "https://www.hasil.gov.my/en/e-invoice/"
+    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+  - title: "Registration of Business (ROB) — ezBIZ Online"
+    url: "https://ezbiz.ssm.com.my/"
+    publisher: "Companies Commission of Malaysia (SSM)"
+
+entity: "E-commerce / Online Business (Malaysia)"
+relations:
+  - { rel: "requires", to: "online-business-licence-malaysia" }
+  - { rel: "related-to", to: "consumer-protection-act" }
+  - { rel: "related-to", to: "pdpa-compliance-malaysia" }
+  - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
+related: ["online-business-licence-malaysia"]
+keywords: ["start online business malaysia", "e-commerce business malaysia", "sell online malaysia registration", "SSM online business", "low value goods tax malaysia", "electronic trade transactions regulations", "e-invoice small business malaysia"]
+---
+
+전자상거래는 비공식적으로 느껴집니다 — 저녁 시간까지 마켓플레이스에서 판매하고
+있을 수 있습니다 — 그것이 많은 사람들을 규칙이 적용되지 않는다고 착각하게 합니다.
+적용됩니다. 말레이시아는 온라인 판매자를 다른 모든 사업체와 똑같이 취급합니다:
+등록하고, 누구인지 공개하고, 고객 데이터를 보호하고, 올바른 세금을 내야 합니다.
+규칙도 최근 바뀌었으므로, 몇 년 전에 설립한 판매자조차 오래된 정보로 운영하고
+있을 수 있습니다.
+
+이 지침은 말레이시아에서 온라인 사업을 시작하는 실제 단계를 짚고, 법이 가장 최근에
+움직인 두 영역 — 전자상거래 공개와 전자세금계산서 — 을 표시합니다.
+
+## 1단계: SSM에 등록 — 그렇습니다, 온라인이라도
+
+가정 기반이나 마켓플레이스 전용 판매자는 등록할 필요가 없다는 끈질긴 통념이
+있습니다. 사실이 아닙니다. 영리를 위해 영위되는 모든 활동은 시작 후 **30일 이내에
+SSM에** 등록해야 하며, 등록 없이 거래하는 것은 범죄입니다. 두 가지 경로:
+
+- **ezBIZ** 포털을 통한 사업등록법(Registration of Businesses Act 1956)에 따른
+  **개인사업자 또는 조합** — 빠르고 저렴하며, 시민과 영주권자에게 개방; 또는
+- MyCoID를 통한 회사법(Companies Act 2016)에 따른 **Sdn Bhd** — 별개의 법인이며,
+  외국인 소유자에게 요구되는 경로.
+
+한 가지 경고: **공식 사이트, ssm.com.my**(포털 ezbiz.ssm.com.my)를 사용하십시오.
+다수의 유사 "SSM" 도메인은 위원회가 아니라 제3자 리셀러입니다. 법인 선택은
+개인사업자 대 Sdn Bhd 안내를 참조하십시오.
+
+이 단계가 *아닌* 것을 유의하십시오: 말레이시아에는 **별도의 "온라인 사업 면허"가
+없습니다**. SSM 등록이 기준선이며, 다른 의무는 특별한 전자상거래 허가가 아니라
+소비자, 데이터, 세금 법에서 나옵니다. (지방의회가 가정 사업 또는 간판 허가를 발급할
+수 있으니 당신의 Majlis를 확인하십시오.)
+
+## 2단계: 전자상거래 공개 규칙 충족 (2024년 갱신)
+
+여기가 많은 안내가 시대에 뒤진 곳입니다. 옛 소비자보호(전자거래) 규정 2012는
+[소비자보호법(Consumer Protection Act 1999)](/law/consumer-protection-act)에 따라
+**2024년 12월 25일 시행된 2024년 규정으로 대체**되었으며,
+[국내무역생활비부(KPDN)](/government/ministry-of-domestic-trade-kpdn)가 집행합니다.
+
+온라인 판매자 또는 마켓플레이스 공급자는 다음을 **표시**해야 합니다:
+
+- 판매자의 **이름**(개인, 회사 또는 상호);
+- **이메일 주소**와 **전화번호**;
+- **사업 주소**;
+- 상품 또는 서비스의 명확한 **설명**;
+- 배송, 세금, 그 밖의 모든 비용을 포함한 **전체 가격**;
+- **결제 방법**; 그리고
+- 판매의 **약관**과 예상 배송 시간.
+
+이 규칙이 표시하도록 요구하지 *않는* 한 가지: 관보의 공개 목록에는 사업 또는 회사
+등록번호가 **포함되지 않습니다**. 그 번호는 마켓플레이스 운영자가 보관해야 하는
+별도의 기록에 있지, 판매자가 고객에게 보여주는 것에 있지 않습니다 — 온라인에서 널리
+잘못 진술되는 점입니다. 2024년 규칙은 또한 상품을 **말레이어**로 등재하는 요건을
+도입했습니다 — 다만 언어 규칙의 집행이 연기되었거나 검토 중이라고 보고되었으므로,
+그 요소는 미확정으로 취급하십시오. 위반에 대한 벌칙은 초범에 대해 최대 RM50,000에
+이릅니다. 더 넓은 틀은 소비자 보호 안내를 참조하십시오.
+
+## 3단계: 고객 데이터를 합법적으로 처리 (PDPA)
+
+이름, 주소, 결제 세부 정보를 수집하는 순간, **개인정보보호법(Personal Data
+Protection Act 2010)**이 적용됩니다. 실무상 동의를 얻고, 개인정보 처리방침을
+게시하고, 데이터를 안전하게 유지하고, 과도하게 보관하지 않으며, 접근 및 정정
+요청을 존중해야 합니다.
+
+최근의 **2024년 개정**(2025년까지 단계적 시행)은 **의무 데이터 침해 통지** 의무와,
+적격 사업체에 대해 **개인정보보호책임자(DPO)** 선임을 추가했습니다. PDPA 준수
+안내를 참조하고, 이것들이 새로우므로 현행 침해 통지 및 DPO 기준을
+[개인정보보호청(JPDP)](/law/data-protection-department-jpdp)에 확인하십시오.
+
+## 4단계: 세금을 제대로 처리
+
+온라인 사업에 중요한 세 가지 세금 사항:
+
+- **저가 상품(LVG)세.** 저가 상품을 수입해 온라인으로 판매한다면, **RM500 이하**
+  가치의 상품에 **10% 판매세**가 적용됩니다. 말레이시아로의 LVG 판매가 **12개월간
+  RM500,000을 초과**하는 판매자는 관세청에 등록하고 이를 부과해야 합니다. 2024년
+  1월 1일 시행되었으며 주로 **드롭시퍼와 국경 간 판매자**에게 영향을 미칩니다.
+- **일반 SST.** 현지 상품의 국내 판매자는 통상의 판매세 규칙을 다루며, 과세인에
+  대한 통상의 **RM500,000** 등록 기준액을 따릅니다; 디지털 서비스 판매자는 말레이시아
+  소비자에 대한 공급이 RM500,000을 초과하면 8% 서비스세에 등록합니다. SST 안내를
+  참조하십시오.
+- **전자세금계산서.** LHDN의 전자세금계산서 의무는 이제 매출 **RM3백만 이하** 사업체를
+  면제합니다 — 면제가 단계적으로 인상되었습니다(RM500,000에서, RM1백만으로,
+  그리고 2026년 9월자 LHDN e-Invoice FAQ에 따르면 **RM3백만**으로), 2027년 12월
+  31일까지 RM5백만 이하 납세자에 대한 중간 완화와 함께. 그래서 **대부분의 소규모
+  온라인 판매자는 현재 면제됩니다** — 그러나 이 일정이 이미 여러 번 바뀌었으므로,
+  당신의 매출 구간은 LHDN e-Invoice 페이지에서 확인하십시오.
+
+## 마켓플레이스인가 자체 상점인가?
+
+어디서 판매하는지가 무엇을 해야 하는지를 바꿉니다. **마켓플레이스만을 통해**
+(Shopee, Lazada, TikTok Shop 등) 판매해도 SSM 등록이 필요하며, 자기 등재의 공개와
+상품 정확성에 대해 여전히 책임을 집니다 — 플랫폼의 규정 준수가 당신을 포괄하지
+않습니다. 그것이 당신에게 건네주는 것은 플랫폼의 결제 및 물류 레일이므로, 자체
+결제 게이트웨이를 마련하는 것을 피합니다.
+
+**자체 상점**을 운영하면 통제와 마진을 얻지만 규정 준수의 전체 무게를 당신에게
+지웁니다: 모든 페이지의 전자거래 공개 세부 사항, 이제 직접 수집하는 데이터에 대한
+개인정보 처리방침과 동의 흐름, 자체 결제 게이트웨이 온보딩, 그리고 자체 반품과
+배송. 많은 판매자가 둘 다 운영합니다 — 도달을 위한 마켓플레이스 존재와, 마진과
+고객 관계를 위한 자체 상점. 무엇을 고르든, 기저의 등록, 소비자 보호, 세금 의무는
+같습니다; 배관을 누가 처리하는지만 바뀝니다. 한 가지 더 실무적 사항: 판매하는 모든
+채널에서 SSM 세부 정보, 사업 주소, 연락처 정보를 일관되게 유지하십시오. 공개
+규칙은 등재별로 적용되며, 마켓플레이스 프로필과 자체 사이트 간의 불일치는 바로
+단속 점검이나 의심하는 고객이 가장 먼저 알아챌 종류의 불일치입니다.
+
+## 다음 단계
+
+간단히 배열하십시오: SSM에 먼저 등록(30일 이내, 공식 사이트에서); 의무 공개 —
+이름, 연락처, 주소, 전체 가격, 조건 — 를 당신의 상점과 모든 마켓플레이스 등재에
+반영; 주문을 하나라도 받기 전에 적절한 개인정보 처리방침과 동의 흐름을 마련; 그리고
+당신에게 적용되는 두 세금 기준액(수입한다면 RM500,000의 LVG, 매출 RM3백만의
+전자세금계산서)을 주시하십시오.
+
+전자상거래 공개 규칙이 2024년 12월에, 전자세금계산서 기준액이 2025년 12월에
+바뀌었으므로, 여기의 구체적 수치에 의존하기 전에 둘 다 AGC와 LHDN 출처에 대해
+확인하십시오. 소비자 보호, PDPA, SST에 관한 연결된 안내가 각 영역의 세부를
+담고 있습니다.

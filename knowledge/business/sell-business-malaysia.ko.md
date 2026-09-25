@@ -1,0 +1,226 @@
+---
+topicId: MY-BIZ-0060
+title: "사업 매각 — 주식 매각인가 자산 매각인가"
+seoTitle: "말레이시아에서 사업 매각 — 주식 매각 vs 자산 매각"
+slug: "sell-business-malaysia"
+category: "business"
+subcategory: ["closing"]
+summary: "말레이시아에서 주식 매각과 자산 매각이 어떻게 다른지 — 크게 달라지는 인지세 노출, 어느 세제가 매도인에게 적용되는지, 그리고 WRT 및 제조 면허 같은 면허가 왜 대개 자산과 함께 이전되지 않는지를 다룹니다."
+
+tier: "2"
+mode: "practical"
+contentType: "comparison"
+sensitivity: "none"
+
+answer: "주식 매각은 회사 자체를 이전하므로 면허, 계약, 직원이 그대로 유지되고 인지세는 주식의 가격 또는 가치 중 큰 금액의 0.3%입니다. 자산 매각은 지정된 자산을 다른 법인에게 이전하므로 부동산에는 1%~4%의 양도 누진율이 적용되고, WRT, 제조 면허, 사업장 면허 같은 면허는 자산과 함께 이전되지 않습니다 — 매수인은 자기 명의로 신규 신청해야 합니다."
+keyTakeaways:
+  - "주식 매각 인지세는 항목 32(b)에 따라 상한 없이 0.3%로, 가격 또는 가치 중 큰 금액에 부과됩니다"
+  - "자산 매각 인지세는 자산에 따라 다릅니다 — 부동산은 항목 32(a)에 따라 1%, 2%, 3%, 4% 사다리를 적용합니다"
+  - "양도 인지세는 당사자 간 합의 내용과 무관하게 제3부칙에 따라 양수인에게 부과됩니다"
+  - "면허는 법인에게 발급되므로 자산 매수인은 자기 명의의 WRT, 제조 또는 사업장 면허가 필요합니다"
+  - "주식 매각은 면허를 유지하지만, 면허 조건에 따라 지분 변동에 대해 규제기관 승인이 여전히 요구될 수 있습니다"
+  - "비상장 주식을 매각하는 회사, LLP, 신탁체 또는 협동조합은 CGT 대상이며, 개인 매도인은 아닙니다"
+  - "제15조 및 제15A조 감면은 주정부 국장에게 신청하면 재편 및 그룹 내 이전에 대한 인지세를 줄일 수 있습니다"
+appliesTo: "출구 전략을 협상하는 말레이시아 Sdn Bhd 소유자, 그리고 회사를 인수할지 사업만 인수할지 결정하는 매수인."
+
+faq:
+  - q: "인지세는 주식 매각과 자산 매각 중 어느 쪽이 더 저렴한가요?"
+    a: "대개 주식 매각이고, 흔히 큰 차이로 그렇습니다. 주식은 제1부칙 항목 32(b)에 따라 상한 없이 RM1,000당 RM3 — 0.3% — 로 인지가 붙습니다. 자산 매각에서 이전되는 부동산은 항목 32(a) 사다리를 적용합니다: 최초 RM100,000에 1%, RM500,000까지 2%, RM1,000,000까지 3%, 그 이상 4%. 가치가 대부분 토지나 건물에 있는 사업에서는 자산 경로가 인지세만으로도 자릿수가 더 많이 들 수 있습니다."
+  - q: "사업 자산을 매수하면 면허가 이전되나요?"
+    a: "원칙적으로 아닙니다. WRT 면허, 산업조정법(Industrial Co-ordination Act 1975)에 따른 제조 면허, 지방의회 사업장 면허, 간판 면허는 모두 지정된 사업장에 대해 지정된 법인에게 부여됩니다. 자산 매수인은 다른 법인이므로 외국 지분 한도를 포함해 자기 명의로 새로 신청하고 조건을 다시 충족해야 합니다. 그러한 신청의 소요 기간을 완료 후 계획이 아니라 완료 일정에 반영하십시오."
+  - q: "주식을 매수하면 세무 이력도 승계하나요?"
+    a: "예. 그것이 결정적 차이입니다. 주식 매각은 모든 자산, 계약, 직원, 면허, 청구, 미확정 세무 노출을 동일한 법인 안에 그대로 두며 — 이제 당신이 그것을 소유할 뿐입니다. 자산 매각은 계약이 지정한 것만 가져가고 이력은 매도인의 회사에 남깁니다. 이것이 매수인은 자산 거래를 밀고 매도인은 주식 거래를 미는 이유이며, 두 구조 간 가격 차이가 대개 평가가 아니라 위험 배분인 이유입니다."
+  - q: "인지세는 누가 내나요?"
+    a: "양수인입니다. 인지세법(Stamp Act 1949) 제3부칙 항목 5는 항목 32에 따른 양도에 대해 수령인 또는 양수인을 인지세 납부 의무자로 규정하며, 이는 32(b)의 주식 이전과 32(a)의 부동산 이전을 모두 포함합니다. 당사자들은 흔히 매도인이 부담하기로 상업적으로 합의하지만, 그 배분은 사적인 것이며 말레이시아 국세청(LHDN)이 추궁하는 대상을 바꾸지 않습니다."
+  - q: "인지세를 아끼려고 먼저 지주회사로 재편할 수 있나요?"
+    a: "가능할 수 있으나 일방적으로는 아닙니다. 인지세법 제15조는 회사의 재편 또는 합병에 관한 증서에 감면을 부여하고, 제15A조는 관계회사 간 재산 이전에 감면을 부여합니다. LHDN은 둘 다 신청으로 취급하여, 조건을 붙여 가장 가까운 주정부 국장 사무소에 제출해 심사받도록 합니다. 감면이 승인될 때까지 아무것도 가정하지 말고, 매각 직전에 이루어진 재편은 조사를 부른다는 점에 유의하십시오."
+
+verificationNeeded:
+  - "The detailed qualifying conditions and clawback periods for stamp duty relief under s.15 and s.15A of the Stamp Act 1949 were not read from a consolidated statutory text — there is no consolidated reprint incorporating the recent Finance Act amendments — and must be confirmed with the LHDN State Director's Office"
+  - "Whether the Industrial Co-ordination Act 1975 provides for transfer of a manufacturing licence, and MIDA's current post-licensing procedure for a change of shareholding in a licensed manufacturer, should be confirmed with MIDA before signing"
+  - "The change-of-ownership provisions in the Employment (Termination and Lay-Off Benefits) Regulations 1980 govern whether termination benefits fall due on an asset sale; the exact regulation and its conditions were not verified against the gazetted text"
+  - "Whether KPDN requires a fresh WRT application or permits variation on a change of the licensee's shareholding was not confirmed against a KPDN guideline"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Stamp Act 1949 (Act 378), First Schedule and Third Schedule, text as at 1 January 2024"
+    url: "https://lom.agc.gov.my/act-detail.php?act=378"
+    publisher: "Attorney General's Chambers"
+  - title: "Stamp Duty Exemptions and Relief — relief under section 15 and section 15A"
+    url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
+    publisher: "LHDN"
+  - title: "Companies Act 2016 (Act 777), s.105 and s.106 — transfer and registration of securities"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+  - title: "Guideline on Application for Manufacturing Licence (ML)"
+    url: "https://www.mida.gov.my/wp-content/uploads/2022/11/GD_ML_03112022.pdf"
+    publisher: "MIDA"
+    date: "2022-11-03"
+
+entity: "Sale of a business"
+relations:
+  - { rel: "compares-with", to: "close-a-company" }
+  - { rel: "requires", to: "stamp-duty-share-transfer" }
+  - { rel: "affects", to: "wrt-licence-malaysia" }
+  - { rel: "affects", to: "manufacturing-licence-malaysia" }
+  - { rel: "related-to", to: "capital-gains-tax" }
+related: ["stamp-duty-share-transfer", "stamp-duty-rates", "capital-gains-tax", "wrt-licence-malaysia", "manufacturing-licence-malaysia", "close-a-company", "share-capital-malaysia"]
+keywords: ["sell business malaysia", "share sale vs asset sale", "stamp duty business sale malaysia", "business transfer agreement malaysia", "sell sdn bhd", "jual syarikat"]
+---
+
+두 매수인이 같은 사업에 대해 같은 RM5백만을 제시합니다. 한 명은 주식을 원하고
+다른 한 명은 자산을 원합니다. 이 둘은 같은 거래가 아니며, 같은 세금을 지지도
+않고, 그중 하나에서는 면허가 남겨졌기 때문에 매수인이 첫날부터 합법적으로
+영업할 수 없습니다. 구조를 고르는 것은 말레이시아 중소기업 출구에서 가장 큰
+단일 가치 결정이며, 대개 먼저 초안을 잡는 쪽이 결정합니다.
+
+## 두 구조, 나란히 비교
+
+| | 주식 매각 | 자산 매각 |
+| --- | --- | --- |
+| 이전되는 것 | 회사 자체와 그 안의 모든 것 | 계약이 지정한 자산만 |
+| 매수인이 되는 위치 | 동일한 법인의 소유자 | 자산을 보유하는 다른 법인 |
+| 부채와 세무 이력 | 사업체에 남음 — 매수인이 승계 | 매도인 회사에 남음 |
+| 계약과 임대차 | 지배권 변경 조항에 따라 지속 | 하나하나 양도 또는 경개해야 함 |
+| 직원 | 지속, 영향 없음 | 고용이 자동으로 이전되지 않음 |
+| 면허와 허가 | 회사에 남음 | 자산과 함께 이전되지 **않음** |
+| 인지세 | 주식에 0.3% | 자산 유형별 — 부동산은 1%~4% |
+| 세무상 매도인 | 주주 | 회사 |
+| 대금 회수 | 주주에게 직접 | 회사로 들어간 뒤 두 번째 단계 |
+
+## 인지세: 숫자가 크게 갈라지는 지점
+
+**주식 매각.** 비상장 주식의 이전은 제1부칙 **항목 32(b)**에 따라 주식의 가격
+또는 가치 중 **큰 금액**에 대해 **RM1,000 또는 그 일부당 RM3** — 0.3% — 로
+인지가 붙으며 금액 상한이 없습니다. 가치는 LHDN의 주식 평가 지침으로
+정해지며, 보통 주당 순유형자산과 대가 중 큰 쪽입니다. 증서는 **회사법
+(Companies Act 2016) 제105조**에 따른 증권 이전 양식이며 — 회사법 1965와 함께
+사라진 옛 Form 32A가 아닙니다 — 제105조 제1항은 회사가 이전을 등록하기 전에
+증서가 적법하게 작성되고 **인지가 붙을** 것을 요구합니다.
+
+이 마지막 점이 순서를 정합니다: 먼저 인지, 그다음 제출, 그러면 회사는 제106조
+제1항에 따라 30일 이내에 양수인을 사원명부에 기재합니다.
+
+**자산 매각.** 단일 증서가 없으므로 단일 세율이 없습니다. 인지세는 증서별로
+부과되며, 무거운 것은 **항목 32(a)**의 부동산입니다: 최초 RM100,000에 1%,
+RM500,000까지 2%, RM1,000,000까지 3%, 그 이상 4%. 사업의 가치가 토지, 공장
+또는 상점 건물에 집중된 경우, 계산은 자산 경로에 강하게 불리하게 흐릅니다.
+RM5백만 상당의 부동산에서 종가세 양도 인지세는 여섯 자릿수 금액이며; 같은
+기초 부동산을 담은 주식에 대한 0.3%는 그렇지 않습니다.
+
+그 밖의 구성요소 — 계약의 양도, 지식재산의 이전, 사업 양도 계약 자체 — 는 각각
+자체 조건으로 평가되어야 하며, 제36CB조에 따라 거의 모든 증서에 최소 RM10이
+적용됩니다.
+
+**납부 주체.** 제3부칙 항목 5는 두 구조 모두에서 항목 32에 따른 양도에 대해
+인지세를 **수령인 또는 양수인**에게 부과합니다. 매도인에게 부담시키는 계약상
+배분은 당사자 간에는 유효하나 LHDN에게는 무관합니다.
+
+**감면.** 인지세법(Stamp Act 1949) 제15조 및 제15A조는 회사의 재편 또는 합병,
+그리고 관계회사 간 재산 이전에 감면을 부여합니다. LHDN은 둘 다 가장 가까운
+주정부 국장 사무소에 대한 신청으로 취급합니다. 감면은 자동이 아니고, 조건은
+세율표 표면에 드러나지 않으며, 제3자 매각 직전에 삽입된 그룹 재편은 바로 주목을
+끄는 사실 유형입니다.
+
+## 어느 세금이 매도인에게 적용되는가
+
+**주식 매각에서 매도인은 주주입니다.** 그 주주가 회사, LLP, 신탁체 또는
+협동조합이라면, 말레이시아 회사의 비상장 주식 처분은 **자본이득세(CGT)** —
+과세이득의 10%, 또는 2024년 1월 1일 이전에 취득한 자산에 대해서는 총처분가액의
+2%를 선택 — 에 해당하며, 신고와 납부는 처분 후 **60일** 이내에 이행해야 합니다.
+주주가 **개인**이라면 CGT 부과 대상에서 완전히 벗어나지만, 부동산회사의 주식은
+여전히 부동산이득세(RPGT) 대상이 될 수 있고, 진정으로 주식을 매매하는 사람은
+대신 사업소득으로 과세됩니다.
+
+**자산 매각에서 매도인은 회사입니다.** 이득은 회사 안에 있으며, 이는 그 자체의
+결과를 낳습니다: 부동산에는 RPGT가 부과되고, 기계장치의 처분은 이전에 청구한
+자본공제에 대한 조정과세 또는 조정공제를 발생시키며, 매매상품은 시장가치로
+반영됩니다. 그다음 대금은 주주들이 여전히 가치를 인출해야 하는 회사 안에
+있습니다 — 주식 매각에는 필요 없는 두 번째 단계입니다.
+
+이 비대칭이, 인지세가 아니라, 대개 매도인의 선호를 좌우하는 것입니다.
+
+## 거래를 깨뜨리는 부분: 면허는 자산과 함께 이전되지 않는다
+
+면허는 **지정된 법인**에게, 보통 지정된 사업장에 대해 명시된 조건으로
+부여됩니다. 자산 매수인은 다른 법인입니다. 따라서 면허 활동을 합법적으로
+영위하려면 자기 명의로 자체 심사를 거쳐 부여받은 자체 면허가 필요합니다.
+
+그것은 전 계층에 걸쳐 적용됩니다:
+
+- **WRT 면허.** 유통업을 영위하는 외국 지분 보유 회사에 요구됩니다. 지분과
+  납입자본 조건을 충족하는 회사에게 발급됩니다. 새 매수인 법인은 새 신청을
+  시작하며, 그 면허에 의존하던 취업 비자 파이프라인도 함께 멈춥니다.
+- **제조 면허.** 산업조정법(Industrial Co-ordination Act 1975)에 따라 면허
+  제조업자에게 부여되며, 조건이 그 면허권자에게 붙습니다. 공장과 설비를
+  인수하는 매수인은 기계와 함께 면허를 취득하지 않습니다.
+- **사업장 면허와 간판 면허.** 특정 사업을 위한 특정 사업장의 점유자에게
+  지방의회가 발급합니다. 운영자 변경은 의회 차원의 새 신청이며, 의회마다 처리
+  속도가 다릅니다.
+- **부문별 승인.** KPDN, KKM, DOSH, CIDB, JAKIM, MOTAC 또는 유사 규제기관이
+  발급하는 어떤 것이든 같은 논리를 따릅니다.
+
+**주식 매각은 이 모든 것을 우회합니다 — 다만 완전히는 아닙니다.** 회사가
+바뀌지 않았으므로 회사는 면허를 유지합니다. 바뀔 수 있는 것은 면허 *조건*
+입니다. MIDA의 제조 면허 조건은 주식 이전을 사후 면허 신청으로 상정하며, 면허
+사본과 그 조건, 이전의 정당화 사유를 요구합니다. 지분 연계 면허도 원칙적으로
+같은 방식으로 작동합니다: 외국 지분 비율을 바꾸는 지분 변동은 면허 자체를
+문제 삼을 수 있습니다. 주식 매각이 규제 중립적이라고 가정하기 전에 각 면허에
+배서된 조건을 확인하십시오.
+
+## 직원
+
+주식 매각에서는 고용에 아무 일도 일어나지 않습니다. 고용주가 동일한 회사이고;
+근속이 연속되며; 서명할 것이 없습니다.
+
+자산 매각에서는 고용주가 바뀌며, 고용 계약은 매각 계약의 효력으로 이전되지
+않습니다. 실무적 경로는 매도인의 해고와 매수인의 신규 채용, 또는 계약으로
+근속 연속성을 보존한 합의된 이전입니다. 고용(해고 및 정리해고 수당) 규정
+1980(Employment (Termination and Lay-Off Benefits) Regulations 1980)에 따른
+법정 해고 수당이 여기서 모델링할 노출이며, 이 규정은 특정 사실관계에 적용해야
+할 소유권 변경 조항을 담고 있습니다. 구조를 합의하기 전에 그 노출의 가격을
+매기십시오; 그것은 애초에 자산 경로를 유인한 인지세 절감액을 자주 초과합니다.
+
+## 흔한 실수
+
+- **구조를 넘나들며 표면 가격을 비교하기.** 주식에 대한 RM5백만과 자산에 대한
+  RM5백만은, 인지세, RPGT 또는 CGT, 인출 단계, 면허 소요 기간을 가격에 반영하면
+  서로 다른 경제입니다.
+- **면허가 기계를 따라간다고 가정하기.** 면허는 면허권자를 따라갑니다. 이것이
+  매수인이 합법적으로 가동할 수 없는 공장을 떠안게 되는 실패입니다.
+- **인지 전에 주식 이전을 등록하기.** 제105조 제1항은 증서가 적법하게 인지될
+  것을 요구하며; 제106조 제1항의 30일 등록 시한은 인지되지 않은 증서를
+  용서하지 않습니다.
+- **주식을 지급한 가격으로 평가하기.** 항목 32(b)는 LHDN 지침의 순유형자산
+  기준으로 가격 **또는 가치 중 큰 금액**에 부과합니다. 자산이 많은 회사에 대한
+  명목상 가격은 명목상 인지세를 낳지 않습니다.
+- **제15조 또는 제15A조 감면이 이용 가능하다고 여기기.** 둘 다 조건이 붙은
+  신청이며, 주정부 국장 사무소가 결정합니다.
+- **자산 매각 후에도 매도인이 여전히 회사를 소유한다는 점을 잊기.** 그 회사는
+  현금, 세무 노출, 지속되는 신고 의무를 보유하며, 그것을 폐쇄하는 것은 자체
+  규칙이 있는 별도의 작업입니다.
+
+## 다음 단계
+
+가격보다 구조를 먼저 결정하십시오 — 구조가 가격의 의미를 정합니다. 세 가지
+숫자를 나란히 모델링하십시오: 각 경로의 인지세, 각 경로의 매도인 세금, 그리고
+매수인 법인이 필요로 할 면허를 취득하는 데 걸리는 시간. 답이 주식 매각이라면,
+주식 이전 페이지에서 인지세와 평가 메커니즘을 살펴보십시오. 자산 매각이라면,
+면허 신청을 일찍 시작하고 폐쇄 관련 페이지를 읽으십시오. 매도인은 여전히
+정리해야 할 회사를 떠안게 되기 때문입니다.
