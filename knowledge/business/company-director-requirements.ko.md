@@ -1,0 +1,288 @@
+---
+topicId: MY-BIZ-0007
+title: "말레이시아 회사의 이사가 될 수 있는 사람 — 그리고 당신이 감수하는 것"
+seoTitle: "말레이시아 회사 이사 요건"
+socialTitle: "A directorship is not a title. It is a personal exposure with a five-year custodial ceiling."
+slug: "company-director-requirements"
+category: "business"
+subcategory: ["formation"]
+summary: "s.196의 자격 요건, s.198의 결격 사유, 그리고 회사법(Companies Act 2016)이 s.213과 s.217에 따라 이사직 보유에 부과하는 개인적 책임."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+
+answer: "말레이시아 비상장회사(private company)는 최소 1인의 이사를 두어야 하고, 상장회사(public company)는 2인을 두어야 합니다. 이사는 만 18세 이상의 자연인이어야 하며, 최소 인원은 말레이시아에 주된 거주지를 둠으로써 통상적으로 말레이시아에 거주해야 합니다. 이는 시민권 요건이 아니라 거주 요건입니다. 면책되지 않은 파산자와 특정 범죄로 유죄판결을 받은 사람은 결격됩니다. 이사는 징역과 벌금이 따르는 개인적 법정 의무를 부담합니다."
+keyTakeaways:
+  - "Minimum one director for a private company, two for a public company — Companies Act 2016, s.196(1)"
+  - "The ordinarily-resident test is residence, not nationality — a foreign national living in Malaysia can qualify (s.196(4))"
+  - "An alternate or substitute director does not count toward the resident minimum (s.196(4)(b))"
+  - "Disqualification under s.198 applies to convictions in or outside Malaysia, and contravening it risks 5 years imprisonment or a RM1 million fine"
+  - "Breach of the s.213 duties carries up to 5 years imprisonment or a fine up to RM3 million, or both"
+  - "A nominee director owes the company the same duties and cannot subordinate them to whoever appointed them (s.217)"
+  - "You cannot resign your way out if it drops the board below the statutory minimum (s.196(3))"
+appliesTo: "Anyone being asked to become a director of a Malaysian company, including founders, investors' nominees, family members and anyone offered a nominee directorship."
+
+faq:
+  - q: "Does a director have to be a Malaysian citizen?"
+    a: "No. Section 196(4) requires the minimum number of directors to ordinarily reside in Malaysia by having a principal place of residence in Malaysia. That is a residence test. A foreign national whose principal home is in Malaysia can satisfy it; a Malaysian citizen living permanently overseas may not. Contrast the company secretary, who must be a citizen or permanent resident under s.235(1)(c)."
+  - q: "Can a company be a director of another company?"
+    a: "No. Section 196(2) requires a director to be a natural person who is at least eighteen years of age. A corporate body cannot hold office as a director of a Malaysian company, although it can of course be a shareholder."
+  - q: "Is being a nominee director safe if I have no involvement in the business?"
+    a: "No. Section 217 states that a director appointed by or as a representative of a member, employer or debenture holder must act in the best interest of the company and shall not subordinate that duty to the person who nominated them. Contravention carries up to five years imprisonment or a fine up to RM3 million. Non-involvement is not a defence; it is closer to evidence of failing the s.213(2) care and diligence standard."
+  - q: "What disqualifies someone from being a director?"
+    a: "Under s.198(1): being an undischarged bankrupt; conviction of an offence relating to the promotion, formation or management of a corporation; conviction of an offence involving bribery, fraud or dishonesty; conviction under ss.213, 217, 218, 228 or 539; or disqualification by the Court under s.199. By s.198(2) these apply to circumstances in or outside Malaysia."
+  - q: "Can I just resign if things go wrong?"
+    a: "Not always. Section 196(3) makes a resignation ineffective if it would reduce the board below the statutory minimum, unless someone is appointed in your place. Section 209 deals separately with the resignation, vacation or death of a sole or last remaining director. And resigning does not erase liability for what happened while you held office."
+  - q: "Am I personally liable for the company's debts?"
+    a: "Generally no — the company is a separate legal person. But the shield is not absolute. Section 540 allows the Court to declare a person who was knowingly a party to carrying on business with intent to defraud creditors personally responsible, without limitation of liability, for the company's debts. Section 539 attaches criminal liability to officers where proper books were not kept."
+
+verificationNeeded:
+  - "Confirm what evidence SSM currently accepts as proof of a principal place of residence in Malaysia at incorporation and on a change of director"
+  - "Confirm whether any practice note or guideline currently supplements the s.196(4) ordinarily-resident test"
+
+obligations:
+  - what: "Maintain the minimum number of directors ordinarily resident in Malaysia"
+    trigger: "ongoing"
+    due: "At all times"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.196"
+  - what: "Notify SSM of a change in directors"
+    trigger: "change"
+    withinDays: 14
+    due: "Within 14 days of the change"
+    authority: "SSM"
+  - what: "Disclose an interest in a contract or proposed contract with the company"
+    trigger: "change"
+    due: "As soon as practicable after the relevant facts come to the director's knowledge"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.221"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+sensitivity: "none"
+
+updated: 2026-07-20
+sources:
+  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+  - title: "Company Directors' Responsibilities (booklet)"
+    url: "https://www.ssm.com.my/Pages/Publication/Booklet/document/Booklet%20-%20CDR%20(FINAL).pdf"
+    publisher: "SSM"
+  - title: "Companies Act 2016 — legal framework"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
+    publisher: "SSM"
+  - title: "Guidelines for the Incorporation of Local Companies"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/GUIDELINES/4.-Guidelines-For-Incorporation-Of-A-Local-Company.pdf"
+    publisher: "SSM"
+
+entity: "Company director (Malaysia)"
+relations:
+  - { rel: "administered-by", to: "ssm" }
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "part-of", to: "sdn-bhd-first-year-compliance" }
+  - { rel: "related-to", to: "resident-director-malaysia" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
+related: ["register-sdn-bhd", "what-is-sdn-bhd", "companies-act-2016"]
+keywords:
+  - "director requirements Malaysia"
+  - "syarat pengarah syarikat"
+  - "ordinarily resident director Malaysia"
+  - "section 196 Companies Act 2016"
+  - "director duties Malaysia"
+  - "nominee director Malaysia"
+  - "director disqualification Malaysia"
+---
+
+언젠가 누군가는 당신에게 "그냥 이사가 되어 달라, 서명 하나면 된다"고 부탁할 것입니다.
+
+그 서명이 무엇을 하는지 이해하십시오. 회사법(Companies Act 2016)에 따르면, s.213에 규정된
+핵심적인 이사의 의무를 위반하면 최대 5년의 징역 또는 최대 RM3 million의 벌금, 또는 그
+둘 모두가 부과됩니다. 그 처벌은 당신 개인에게 부과됩니다. 회사에 부과되는 것이 아니고,
+유한책임으로 보호되지 않으며, 당신이 사업을 운영하고 있었는지 아니면 친척을 위해 호의를
+베풀고 있었는지는 상관하지 않습니다.
+
+이것이 아래 모든 내용의 전제입니다.
+
+## 자격 요건
+
+간단하지만, 한 부분에서는 사람들이 예상하는 것보다 더 좁습니다.
+
+| 요건 | 규칙 | 조항 |
+| --- | --- | --- |
+| 최소 인원 | 비상장회사는 1인, 상장회사는 2인 | s.196(1) |
+| 자연인 | 법인은 이사가 될 수 없음 | s.196(2) |
+| 연령 | 만 18세 이상 | s.196(2) |
+| 거주 | 최소 인원은 말레이시아에 주된 거주지를 둠으로써 통상적으로 말레이시아에 거주해야 함 | s.196(4)(a) |
+| 교체이사 | 교체이사(alternate) 또는 대리이사(substitute)는 최소 인원에 산입되지 않음 | s.196(4)(b) |
+
+### 통상적 거주 요건은 시민권 요건이 아닙니다
+
+이것은 말레이시아 회사 설립에서 가장 많이 오해되는 요건이며, 그 오해는 외국인 창업자에게
+비용을 초래합니다 — 대개 필요하지도 않았던 명의이사(nominee)의 비용입니다.
+
+Section 196(4)(a)는 최소 인원의 이사가 **말레이시아에 주된 거주지를 둠으로써 통상적으로
+말레이시아에 거주**해야 한다고 규정합니다. 국적은 등장하지 않습니다. 주된 거처가 진정으로
+말레이시아에 있는 외국인은 말레이시아 회사의 단독 이사가 될 수 있습니다. 반대로, 주된
+거주지가 싱가포르나 런던에 있는 말레이시아 시민은 조문 문언상 이를 충족하지 못합니다.
+
+이 요건은 또한 *최소 인원*에만 적용됩니다. 이사가 3인인 비상장회사는 그중 1인만 거주하면
+되고, 나머지 2인은 어디에 살아도 무방합니다.
+
+s.235(1)(c)에 따라 말레이시아의 **시민 또는 영주권자**여야 하는 회사 비서(company
+secretary)와 비교해 보십시오. 두 개의 서로 다른 직위, 두 개의 서로 다른 요건이며, 이
+둘을 혼동하는 것이 대부분의 혼란의 원인입니다.
+
+## 누가 결격되는가
+
+Section 198(1)은 다섯 가지 유형의 사람을 배제합니다. 결격된 사람은 이사직을 보유할 수 없고,
+회사의 경영에 직접 또는 간접으로 관여하거나 참여할 수도 없습니다:
+
+- 면책되지 않은 파산자;
+- 법인의 설립, 형성 또는 경영과 관련된 범죄로 유죄판결을 받은 사람;
+- 뇌물, 사기 또는 부정직과 관련된 범죄로 유죄판결을 받은 사람;
+- s.213, s.217, s.218, s.228 또는 s.539에 따른 범죄로 유죄판결을 받은 사람;
+- s.199에 따라 법원에 의해 결격된 사람.
+
+놓치기 쉬운 두 가지 세부사항이 있습니다. 첫째, s.198(2): 그러한 사정은 **말레이시아 내외
+어디에서 발생하든** 적용됩니다. 외국에서의 유죄판결도 포함됩니다. 둘째, "경영에 관여하거나
+참여한다"는 문언의 범위 — 결격은 실제로 사업을 운영하면서 등기부에만 이름을 올리지 않는다고
+해서 치유되지 않습니다.
+
+구제는 가능합니다. 파산자는 공적 관재인(Official Receiver) 또는 법원의 허가를 받아 행위할
+수 있고(s.198(3)), 나머지 유형은 법원의 허가를 받아 재선임될 수 있으며(s.198(4)),
+유죄판결 또는 출소로부터 5년이 지나면 더 이상 허가가 필요하지 않습니다(s.198(6)).
+
+s.198을 위반하면 최대 5년의 징역 또는 최대 RM1 million의 벌금, 또는 그 둘 모두가
+부과됩니다(s.198(7)).
+
+## 당신이 실제로 회사에 부담하는 것
+
+### 핵심 의무 — s.213
+
+이사는 항상 그 권한을 **법에 따라, 정당한 목적으로, 회사의 최선의 이익을 위하여 신의성실로**
+행사해야 하며(s.213(1)), 동일한 책임을 지는 이사에게 합리적으로 기대되는 지식, 기술 및
+경험에, 그 이사가 실제로 가진 추가적인 지식, 기술 및 경험을 더한 수준의 **합리적인 주의,
+기술 및 근면**을 행사해야 합니다(s.213(2)).
+
+s.213(2)를 주의 깊게 읽으십시오. 그 기준은 직위에 의해 정해지는 하한과 *당신 자신*에 의해
+정해지는 상한을 가집니다. 이사회에 있는 회계사는 회계사가 아는 것에 대해 책임을 집니다.
+당신이 회계를 이해하는 부류의 사람이라면, 회계를 이해하지 못했다는 주장은 방어가 되지
+않습니다.
+
+### 보호장치 — s.214
+
+경영판단원칙(business judgment rule)은 이사가 정당한 목적으로 신의성실로 판단하고, 그
+판단에 중대한 개인적 이해관계가 없으며, 합리적으로 적절하다고 믿는 범위에서 대상 사안에
+관하여 정보를 갖추고, 그 판단이 회사의 최선의 이익에 부합한다고 합리적으로 믿는 경우, 그
+이사가 s.213(2)의 의무를 이행한 것으로 간주합니다.
+
+이것은 실질적인 보호장치이며, 나쁜 상업적 결과가 자동으로 위반이 되지 않는 이유이기도
+합니다. 그러나 이는 **결정**을 보호하는 것이지, 부작위를 보호하는 것이 아닙니다. 정보를
+전혀 갖추지 않고 아무런 결정도 하지 않은 이사에게는 s.214가 보호할 대상이 없습니다.
+
+### 신뢰와 위임 — s.215 및 s.216
+
+이사는 신뢰할 수 있고 유능하다고 합리적 근거에 따라 믿는 임원이 작성한, 또는 그 능력 범위
+내의 사안에 관하여 선임된 전문가가 작성한 정보, 조언, 의견, 보고서 및 재무제표에 의존할 수
+있습니다(s.215). Section 216은 수임인의 행위에 대해 이사가 계속 책임을 지도록 합니다.
+
+즉, 위임은 허용되지만 맹목적인 위임은 허용되지 않습니다.
+
+### 명의이사의 함정 — s.217
+
+이것은 별도의 문단을 할애할 만합니다. 명의이사직은 말레이시아에서 널리 판매되지만 비판은
+거의 없기 때문입니다.
+
+Section 217(1): 피용자로서의 지위에 의하여 선임된 이사, 또는 사원(member), 사용자
+(employer) 혹은 사채권자(debenture holder)에 의하여 또는 그 대표자로서 선임된 이사는 회사의
+최선의 이익을 위하여 행위해야 하며, 그 의무와 그를 지명한 자에 대한 의무가 충돌하는 경우
+**회사에 대한 의무를 종속시켜서는 안 됩니다**. 위반 시 최대 5년의 징역 또는 최대 RM3
+million의 벌금이 부과됩니다(s.217(2)).
+
+명의이사, 무언(silent)의 이사, "규정 준수 목적의 거주 이사", 또는 누군가의 설립을 돕기 위해
+서명한 친구에게 완화된 기준이란 없습니다. 등기부는 관여의 정도를 기록하지 않습니다.
+
+### 서명하기 전에 알아 둘 만한 그 밖의 의무
+
+- **s.218** — 회사의 재산, 정보, 지위 또는 기회를 부당하게 사용하지 않으며, 이익을 얻거나
+  회사에 손해를 입히기 위해 경쟁 사업을 하지 않을 것.
+- **s.219 및 s.221** — 일반적 공시의무, 그리고 계약, 제안된 계약, 재산 및 직위에 대한
+  이해관계의 구체적 공시.
+- **s.222** — 이해관계 있는 이사는 참여하거나 의결해서는 안 됨.
+- **s.224 및 s.225** — 이사 및 이사와 관련된 자에 대한 대여 제한. Section 197은 "관련된"의
+  의미를 배우자, 부모, 자녀, 형제자매 및 지배 회사를 포섭할 만큼 넓게 정의합니다.
+- **s.245 및 s.539** — 회계 기록. 적절한 장부를 갖추지 않은 경우, 조사 또는 청산 시 모든
+  임원이 범죄를 저지른 것이 되며, 최대 3년의 징역 또는 최대 RM500,000의 벌금이 부과됩니다.
+
+## 유한책임이 멈추는 곳
+
+유한책임은 주주를 회사의 채무로부터 보호합니다. 그것은 결코 이사를 자신의 행위로부터
+보호하는 방패가 아니었습니다.
+
+Section 540은 청산인, 채권자 또는 지분권자(contributory)의 신청에 따라, 채권자를 사취할
+의도로 회사의 사업을 수행하는 데 **고의로 가담한** 자에 대하여, 법원이 지시하는 바에 따라
+회사의 채무 전부 또는 일부에 대해 **책임의 제한 없이 개인적으로 책임을 진다**고 선언할 수
+있도록 합니다.
+
+Section 539(3)은 회사가 변제할 수 있으리라는 합리적 기대가 없는 상태에서 채무를 부담하는 데
+고의로 가담한 임원에게 미칩니다.
+
+곤경에 빠져 가는 회사의 이사에게 실질적으로 의미하는 바는, 개인적 위험이 최대가 되는 시점은
+청산 그 자체가 아니라 지급불능 상태에서 사업을 계속하는 기간이라는 것입니다.
+
+## 항상 사임할 수 있는 것은 아닙니다
+
+Section 196(3): 이사는 사임 또는 퇴임으로 인해 이사의 수가 법정 최소 인원 미만으로
+떨어지게 되는 경우 사임하거나 퇴임할 수 없으며, 이에 위반한 사임의 의사표시는 그를 대신할
+자가 선임되지 않는 한 **무효로 간주됩니다**.
+
+Section 209는 단독 이사 또는 최후로 남은 이사의 사임, 퇴임 또는 사망을 별도로 다룹니다.
+
+그리고 사임은 장래적입니다. 사임은 당신의 장래 노출을 종료시킬 뿐, 당신이 재직한 기간에
+대해서는 아무것도 하지 못합니다. 문제가 나타났을 때 서둘러 사임하는 이사들은 종종 이 문장의
+두 부분을 동시에 깨닫게 됩니다.
+
+## 흔한 실수
+
+- **"통상적 거주"가 말레이시아인을 의미한다고 믿는 것.** 이는 거주 요건입니다(s.196(4)).
+  이곳에 거주하는 외국인 창업자들은 필요하지도 않은 명의 서비스를 자주 구매합니다.
+- **법인 주주를 이사로 선임하는 것.** Section 196(2)는 자연인을 요구합니다.
+- **교체이사를 거주 최소 인원에 산입하는 것.** Section 196(4)(b)는 교체이사와 대리이사를
+  제외합니다.
+- **호의로 명의이사직을 수락하는 것.** Section 217은 당신에게 완전한 의무와 RM3 million의
+  상한을 부과합니다.
+- **외국에서의 유죄판결이 무관하다고 가정하는 것.** Section 198(2)는 그렇지 않다고 말합니다.
+- **등기부를 책임의 경계로 취급하는 것.** Section 198은 이사로 등기되었는지 여부와 관계없이
+  경영에 참여하는 모든 사람에게 미칩니다.
+- **읽지 않은 회계를 서명하는 것.** Section 213(2)는 당신이 아는 것을 기준으로 그 기준을
+  설정하며, s.215는 합리적인 의존만을 보호합니다.
+
+## 다음 단계
+
+이사직을 수락하기 전에 세 가지 질문을 하십시오. 이사회에 누가 더 있고 그들은 내가 모르는
+무엇을 아는가, 나는 그 이익이 회사의 이익과 갈라질 수 있는 누군가를 대표하도록 선임되는
+것인가, 그리고 나는 실제로 회계 기록을 볼 수 있는가.
+
+당신이 지배하지 않는 회사의 거주 이사라면, s.217과 s.539를 당신의 업무 지침으로 삼고,
+장부에 대한 접근권을 처음부터 서면으로 남기십시오.
+
+---
+
+**검증 상태.** AI 보조로 작성된 초안이며, 아직 해당 분야 전문가의 검토를 받지 않았습니다.
+법조문 인용은 SSM이 발행한 회사법(Companies Act 2016, Act 777)을 따릅니다. 여기의 어떤
+내용도 특정 이사직에 관한 법률 자문이 아니며, 인용된 처벌은 법에 규정된 법정 최고한도입니다.

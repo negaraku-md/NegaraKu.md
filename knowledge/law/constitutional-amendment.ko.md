@@ -1,0 +1,153 @@
+---
+topicId: "MY-LAW-0024"
+title: "연방헌법 개정: 제159조가 정하는 네 가지 경로"
+slug: "constitutional-amendment"
+category: "law"
+subcategory: ["constitutional"]
+summary: "연방헌법(Federal Constitution) 제159조는 하나의 개정 절차를 정하는 것이 아니라 네 가지를 정합니다. 단순 과반수부터, 3분의 2 찬성에 더해 통치자 회의(Conference of Rulers)의 동의나 사바/사라왁 주지사(Yang di-Pertua Negeri)의 동의를 요구하는 경우까지 다양합니다. 이 글은 각 경로를 조문이 정한 그대로 기술합니다."
+
+tier: "S"
+mode: "practical"
+contentType: "law"
+sensitivity: "constitution"
+
+answer: "연방헌법은 어느 조항을 바꾸느냐에 따라 네 가지 서로 다른 방식으로 개정할 수 있습니다. 대부분의 개정은 하원(Dewan Rakyat)과 상원(Dewan Negara) 양원에서 3분의 2 다수를 필요로 합니다(제159조 제3항). 기술적이거나 부수적인 개정의 짧은 목록은 단순 과반수만으로 충분합니다(제159조 제4항). 통치자의 특권, 시민권, 국어(national language), 또는 말레이인·원주민의 특별한 지위에 관한 개정은 통치자 회의(Conference of Rulers)의 동의도 필요로 합니다(제159조 제5항). 그리고 말레이시아 데이(Malaysia Day) 당시 사바(Sabah)와 사라왁(Sarawak)을 위해 유보된 특정 사항에 영향을 미치는 개정은 해당 주 주지사(Yang di-Pertua Negeri)의 동의를 필요로 합니다(제161E조 제2항)."
+keyTakeaways:
+  - "Article 159(3) sets the default rule: a two-thirds majority of the total membership of each House on Second and Third Reading"
+  - "Article 159(4) excepts a narrow set of amendments from that two-thirds requirement, letting them pass by simple majority"
+  - "Article 159(5) requires the Conference of Rulers' consent for amendments to Article 10(4), Part III, Article 38, 63(4), 70, 71(1), 72(4), 152, 153, or Clause (5) itself"
+  - "Article 161E(2) requires the concurrence of Sabah's or Sarawak's Yang di-Pertua Negeri for amendments affecting five specific matters reserved to those states at Malaysia Day"
+  - "Some subject matter — citizenship, language, native treatment — falls under both the Conference of Rulers list and the Sabah/Sarawak list, so a single amendment can need both consents"
+appliesTo: "Anyone who wants to know, provision by provision, what it actually takes in Parliament to change a given part of the Federal Constitution."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-24
+sources:
+  - title: "Federal Constitution (Reprint 2020) — Article 159 (Amendment of the Constitution), Article 161E (Safeguards for constitutional position of States of Sabah and Sarawak), and Article 38 (Conference of Rulers)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+    date: "2020"
+
+entity: "Article 159, Federal Constitution of Malaysia"
+relations:
+  - { rel: "part-of", to: "federal-constitution" }
+  - { rel: "requires", to: "majlis-raja-raja" }
+  - { rel: "related-to", to: "article-152-language" }
+  - { rel: "related-to", to: "fundamental-liberties" }
+  - { rel: "related-to", to: "ma63" }
+related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
+keywords: ["Article 159 Federal Constitution", "amending the Constitution Malaysia", "two-thirds majority Parliament", "Conference of Rulers consent", "Article 161E Sabah Sarawak", "Perkara 159", "constitutional amendment Malaysia"]
+---
+
+제159조는 스스로를 자신의 규칙에 종속시키며 시작합니다. 제5항은 통치자 회의(Conference of Rulers)의 동의 없이는 개정할 수 없는 조항들을 열거하는데 — 그 목록의 마지막 항목이 바로 "이 항(this Clause)" 자체입니다. 개정 절차가 자기 자신의 개정 절차를 보호하는 것입니다. 이 세부 사항 하나만으로도, 연방헌법이 단 하나의 단순한 규칙으로 바뀌도록 결코 설계되지 않았음을 알 수 있습니다.
+
+실제로도 그렇지 않습니다. 제159조는 제161E조와 함께 읽으면 네 가지 별개의 절차를 규정하며 — 어느 절차가 적용되는지는 헌법의 어떤 문구를 바꾸려 하느냐에 전적으로 달려 있습니다.
+
+## 한눈에 보기
+
+| | |
+| --- | --- |
+| 조항 | 제159조(헌법의 개정) 및 제161E조(사바/사라왁 보호 규정) |
+| 편(Part) | 제159조: 제12편 — 총칙 및 잡칙 · 제161E조: 제12A편 — 사바 및 사라왁 주에 대한 추가 보호 |
+| 기본 규칙 | 제3항: 각 원 총 재적의 3분의 2 다수 |
+| 완화된 경로 | 제4항: 짧은 목록의 개정은 단순 과반수만 필요 |
+| 강화된 경로 1 | 제5항: 3분의 2 다수 **더하기** 통치자 회의의 동의 |
+| 강화된 경로 2 | 제161E조 제2항: 3분의 2 다수 **더하기** 사바 또는 사라왁 주지사(Yang di-Pertua Negeri)의 동의 |
+
+## 경로 1: 기본 — 3분의 2 다수만으로
+
+제159조 제3항은 일반 규칙을 정합니다. 헌법을 개정하는 법안 — 또는 제10조 제4항에 따라 통과된 법률을 개정하는 법안 — 은 다음의 요건을 충족하지 않으면 어느 원에서도 통과될 수 없습니다.
+
+> "제2독회 및 제3독회에서 해당 원 총 의원 수의 3분의 2 이상의 찬성표로 지지될 것."
+
+여기서 두 가지 세부 사항이 중요합니다. 첫째, 그 기준은 출석하여 표결하는 의원이 아니라 원의 **총 재적**을 기준으로 산정됩니다 — 따라서 기권과 공석은 개정에 유리한 것이 아니라 불리한 것으로 계산됩니다. 둘째, 이것은 기본값입니다. 즉 제4항이 예외로 두지 않고 제5항이나 제161E조가 추가로 제한하지 않는 모든 개정에 적용됩니다.
+
+## 경로 2: 예외 — 단순 과반수
+
+제4항은 의회가 여느 법률과 동일한 기준인 일반 단순 과반수로 통과시킬 수 있는 짧고 기술적인 개정 목록을 따로 둡니다. 조문이 열거하는 대로, 이는 다음과 같은 개정입니다.
+
+- 제2부칙 제3부(Part III of the Second Schedule), 또는 제6부칙이나 제7부칙에 대한 개정;
+- 헌법의 다른 곳에서 부여된 입법권을 의회가 행사함에 부수하거나 그에 따라 이루어지는 개정(제74조 및 제76조에 따른 것은 제외);
+- 어느 주의 연방 가입 또는 연방과의 결합을 위하거나 그와 관련하여 이루어지는 개정, 또는 이미 가입한 주에 헌법이 적용되는 방식에 관한 부수적 수정 — 제161E조에 따를 것을 조건으로 함; 및
+- 위 첫 번째 항목에 따라 이루어진 개정에 부수하는 개정.
+
+이들은 설계상 헌법의 관리적 규정입니다. 즉 사항별 부칙, 기술적 후속 입안, 그리고 새로운 주를 연방에 편입하는 절차입니다. 이 중 어느 것도 헌법이 그 밖에 더 높은 기준으로 보호하는 실체적 권리나 제도적 균형을 건드리지 않습니다.
+
+## 경로 3: 3분의 2 더하기 통치자 회의
+
+제5항이 바로 더 높은 기준이 자리한 곳입니다. 이 항은 어떤 법률로도, 어떤 3분의 2 표결로도, 통치자 회의가 먼저 동의하지 않으면 개정할 수 없는 특정 조항들을 지정합니다.
+
+> "제10조 제4항, 그에 따라 통과된 법률, 제3편의 규정들, 제38조, 제63조 제4항, 제70조, 제71조 제1항, 제72조 제4항, 제152조, 또는 제153조, 또는 이 항에 대한 개정을 하는 법률은 통치자 회의의 동의 없이는 통과될 수 없다."
+
+풀어서 설명하면, 그 목록은 다음을 포괄합니다.
+
+| 조항 | 주제 |
+| --- | --- |
+| 제10조 제4항 및 그에 따라 제정된 법률 | 제3편, 제152조, 제153조 또는 제181조로 보호되는 사항에 대한 문제 제기를 제한할 수 있는 의회의 권한 |
+| 제3편 | 시민권 |
+| 제38조 | 통치자 회의 자체 — 그 구성과 기능 |
+| 제63조 제4항 | 제10조 제4항 법률상 범죄에 대한 의회 면책특권의 배제 |
+| 제70조 | 통치자들 및 주지사들(Yang di-Pertua-Yang di-Pertua Negeri)의 서열 |
+| 제71조 제1항 | 통치자가 자기 주의 왕위를 승계하고 보유할 권리에 대한 연방의 보장 |
+| 제72조 제4항 | 주 입법의회에서의 면책특권의 동등한 배제 |
+| 제152조 | 국어 |
+| 제153조 | 말레이인 및 사바·사라왁 원주민의 특별한 지위 |
+| 제5항 자체 | 자기 자신을 강화하는 동의 요건 |
+
+여기서 통치자 회의의 권한은 더 넓은 역할의 좁은 한 사례입니다. 제38조 제2항–제4항은 통치자 회의가 일반적으로 무엇을 하는지 규정합니다. 즉 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)과 부국왕(Timbalan Yang di-Pertuan Agong)의 선출, 종교적 준수 사항을 연방 전역으로 확대하는 데 대한 동의, 그것이 요구되는 법률과 임명에 대한 동의, 특별법원(Special Court) 구성원의 임명, 그리고 제42조 제12항에 따른 사면권의 행사입니다. 제4항은 제5항 목록을 넘어서는 상시 규칙을 추가합니다. "통치자들의 특권, 지위, 명예 또는 위엄에 직접 영향을 미치는 어떠한 법률도 통치자 회의의 동의 없이는 통과될 수 없다" — 이는 일부 통치자 관련 입법이 정식 헌법 개정이 아니더라도 통치자 회의의 동의를 요구할 수 있음을 의미합니다.
+
+## 경로 4: 3분의 2 더하기 사바 또는 사라왁의 동의
+
+제161E조는 사바와 사라왁이 연방에 편입되던 때로 거슬러 올라가는, 별개의 지리적으로 특정된 보호 장치를 추가합니다. 제2항은 다음과 같이 규정합니다.
+
+> "다음 사항 중 어느 하나에 관하여 헌법의 운용에 영향을 미치는 개정인 경우, 사바 또는 사라왁 주의 주지사(Yang di-Pertua Negeri), 또는 관련된 사바 및 사라왁 각 주의 주지사의 동의 없이는 헌법에 어떠한 개정도 할 수 없다..."
+
+이 조항이 보호하는 다섯 가지 사항은 다음과 같습니다.
+
+1. **말레이시아 데이(Malaysia Day) 이전에 출생하여** 사바 또는 사라왁과 연결된 자의 시민권, 및 말라야 주들과 연결된 자에 비교한 그들 시민권의 동등한 대우.
+2. **사바 및 사라왁 고등법원(High Court in Sabah and Sarawak)** — 그 구성, 관할권, 그리고 그 법관의 임명·해임·정직.
+3. 사바와 사라왁에서의 **주 대 연방의 입법권 및 행정권**, 및 연방과 주 사이의 관련 재정 조치.
+4. 주의 **종교, 언어 사용, 그리고 원주민의 특별한 대우.**
+5. **하원 의원의 주별 정원(quota)** — 1970년 8월 말 이전에 소집되는 모든 의회에서, 다른 주들의 총원 대비 비율로 볼 때 말레이시아 데이 당시 보유했던 정원보다 작지 않은 정원을 그 주에 배정하는 것. 제3항은 이 정원의 변경이 제1항의 목적상 그 주의 지위를 말라야 주들과 "동등하게 만드는(equating)" 것으로 결코 취급될 수 없음을 분명히 합니다.
+
+제1항은 구조적 논점을 추가합니다. 즉 말레이시아 데이 이후로는, 사바나 사라왁의 연방 가입과 관련하여 이루어지는 어떠한 개정도, 그 주의 헌법상 지위를 말라야 주들의 지위와 동등하게 만들거나 동화시키지 않는 한, 제159조 제4항 (bb)호의 단순 과반수 예외로 통과시킬 수 없습니다. 그리고 제4항은 사바 또는 사라왁으로의 입경 및 거주에 관한 특정 연방법상 권리에도 동일한 동의 요건을 확대하여, 이를 마치 헌법 제2항 목록에 기재된 것처럼 취급합니다.
+
+## 두 동의 목록이 겹칠 때
+
+통치자 회의 목록과 사바/사라왁 목록은 상호 배타적이지 않습니다. 제152조(국어)는 통치자 회의 목록에 있으며; 제161E조 제2항 (d)호는 사바와 사라왁에서 "그 주에서의... 어떤 언어의 사용"을 별도로 보호합니다. 제153조(말레이인 및 사바·사라왁 원주민의 특별한 지위)는 통치자 회의 목록에 있으며; 제161E조 제2항 (d)호는 "그 주 원주민의 특별한 대우"를 별도로 보호합니다. 제3편(시민권)은 통치자 회의 목록에 있으며; 제161E조 제2항 (a)호는 말레이시아 데이 이전에 출생하여 사바 또는 사라왁과 연결된 자의 시민권을 별도로 보호합니다.
+
+어떤 개정이 두 목록에 동시에 해당하는 경우, 3분의 2 표결에 더해 두 동의가 모두 필요합니다 — 제159조 제5항에 따른 통치자 회의의 동의와, 제161E조 제2항에 따른 해당 주지사의 동의입니다 — 어느 조항도 다른 조항을 배제하지 않기 때문입니다.
+
+## 흔한 오해
+
+**"3분의 2면 언제나 충분하다."** 이는 제3항에 따른 기본값이지만, 제5항과 제161E조 제2항은 특정 조항에 대해 그 위에 동의 요건을 추가하며, 제4항은 짧은 기술적 목록에 대해 3분의 2 요건을 전면 배제합니다.
+
+**"통치자들만이 개정을 저지할 수 있다."** 사바와 사라왁은 제161E조 제2항에 따라 독립적인 거부권을 가지며, 이는 제159조 제5항에 따른 통치자 회의의 역할과 병행하여 — 그것을 대체하는 것이 아니라 — 작동합니다.
+
+**"개정 절차 자체는 여느 조항처럼 바꿀 수 있다."** 제159조 제5항은 자신이 보호하는 조항들 가운데 제5항을 지정하므로, 그 동의 요건을 개정하는 것 자체가 바로 그 동일한 동의 요건의 적용을 받습니다.
+
+## 다음은 무엇인가
+
+제159조가 문서 전체에서 어디에 자리하는지는 [말레이시아 연방헌법](/ko/law/federal-constitution)을 참고하십시오. 통치자 회의가 무엇이며 어떻게 구성되는지는 [통치자 회의(Majlis Raja-Raja)](/ko/government/majlis-raja-raja)를 참고하십시오. 제161E조의 배경이 되는 사바 및 사라왁 특유의 사정은 [MA63](/ko/malaysia/ma63)을 참고하십시오. 통치자 회의 목록에 지정된 두 조항의 본문은 [제152조: 말레이시아의 국어를 규정하는 여섯 개 항](/ko/law/article-152-language) 및 [기본권(Fundamental Liberties)](/ko/law/fundamental-liberties)을 참고하십시오.
+
+---
+
+*이 글은 NegaraKu.md의 편집 방침에 따라 민감(헌법) 주제로 분류됩니다. 그 대상이
+연방헌법의 개정 절차이며, 통치자들의 특권과 말레이인·원주민의 특별한 지위에 관한
+조항을 포함하기 때문입니다. 이 글은 엄격히 기술적으로, 즉 게재된 조문 본문을 논평이나
+해석 없이 그대로 전달하도록 작성되었으며, 게시 전 인간의 검토를 기다리는 초안으로
+보류되어 있습니다.*

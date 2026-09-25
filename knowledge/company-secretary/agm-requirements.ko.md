@@ -1,0 +1,273 @@
+---
+topicId: MY-CS-0038
+title: "말레이시아의 연례총회(AGM) 요건: 여전히 개최해야 하는 곳은 어디인가"
+seoTitle: "말레이시아 연례총회(AGM) 요건: 누가 개최해야 하는가"
+slug: "agm-requirements"
+category: "company-secretary"
+subcategory: ["meetings-resolutions"]
+summary: "회사법(Companies Act 2016)은 비공개회사를 연례총회 의무에서 해방했지만, 공개회사와 정관이 연례총회를 요구하는 비공개회사는 여전히 총회를 개최해야 하며, 그에 따르는 기한·의안·기한연장 절차도 함께 적용됩니다."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "회사법(Companies Act 2016) s.340(1)에 따라 연례총회를 개최해야 하는 것은 공개회사뿐이며, 매 역년(曆年)마다 회계연도 말부터 6개월 이내이면서 직전 연례총회로부터 15개월을 넘지 않는 범위에서 개최해야 합니다. 비공개회사에는 법정 연례총회 의무가 없지만, 정관이 연례총회를 요구하는 비공개회사는 s.33(1)에 따라 정관에 구속되므로 여전히 총회를 개최해야 합니다. 동법은 공개회사의 연례총회 통지기간을 21일로 정하고 있습니다."
+keyTakeaways:
+  - "s.340 applies to public companies only — a Sdn Bhd has no statutory AGM duty"
+  - "Two deadlines run together: within 6 months of financial year end AND within 15 months of the last AGM"
+  - "A newly incorporated public company holds its first AGM within 18 months of incorporation"
+  - "A private company with a constitution requiring an AGM is bound by it under s.33(1)"
+  - "AGM business under s.340(1) is the audited financial statements, director elections and auditor appointment and remuneration"
+  - "Notice is 21 days, and short notice needs the agreement of ALL members entitled to attend and vote"
+  - "The Registrar may extend the s.340 periods on application under s.340(4)"
+appliesTo: "Directors and company secretaries of Malaysian public companies, and of private companies holding a constitution inherited from the Companies Act 1965."
+
+faq:
+  - q: "Does a Sdn Bhd need to hold an AGM in Malaysia?"
+    a: "Not as a matter of statute. Section 340(1) of the Companies Act 2016 requires only a public company to hold an annual general meeting. The Companies Act 1965 requirement for all companies did not survive. However, a private company whose constitution requires an AGM must hold one, because s.33(1) makes the constitution binding on the company and its members as if it had been signed and sealed by each member."
+  - q: "When must a public company hold its AGM?"
+    a: "Section 340(2) sets two limits that both have to be met: within six months of the company's financial year end, and not more than 15 months after the last preceding AGM. A newly incorporated company need not hold an AGM in its year of incorporation or the following year, provided it holds its first AGM within 18 months of incorporation under s.340(3)."
+  - q: "What business must be transacted at an AGM?"
+    a: "Section 340(1) lists four items: laying the audited financial statements and the reports of the directors and auditors; the election of directors in place of those retiring; the appointment and fixing of the remuneration of auditors; and any resolution or other business of which notice is given under the Act or the constitution."
+  - q: "Can the AGM deadline be extended?"
+    a: "Yes. Section 340(4) allows the company to apply to the Registrar to extend the periods in the section, and the Registrar may extend them as he considers appropriate on being satisfied with the reasons. SSM Practice Note 3/2018 asks a public company to apply at least 30 days before the last day on which the AGM must be held."
+  - q: "What if a private company still has an old constitution requiring an AGM?"
+    a: "It must hold the meeting, or amend the constitution. Many companies incorporated under the Companies Act 1965 carry a memorandum and articles that were deemed to be their constitution, and those articles routinely require an AGM. Removing the requirement takes a special resolution under s.36(1), lodged with the Registrar within 30 days under s.36(3)."
+  - q: "Do private companies still circulate financial statements if there is no AGM?"
+    a: "Yes, and that is the duty that replaced the AGM. Section 258(1)(a) requires a private company to circulate its financial statements to every member within six months of its financial year end, and s.259(1)(a) requires lodgement with the Registrar within 30 days of circulation."
+
+verificationNeeded: []
+
+obligations:
+  - what: "Hold an annual general meeting (public company)"
+    trigger: "financial-year-end"
+    withinDays: 180
+    due: "within six months of the financial year end, and not more than 15 months after the last preceding AGM"
+    authority: "Company (to its members)"
+    statute: "Companies Act 2016, s.340(1) and (2)"
+    consequence: "Fine not exceeding RM20,000 on the company and every officer in default under s.340(6)"
+  - what: "Hold the first annual general meeting of a newly incorporated public company"
+    trigger: "incorporation"
+    withinDays: 548
+    due: "within 18 months of incorporation"
+    authority: "Company (to its members)"
+    statute: "Companies Act 2016, s.340(3)"
+    consequence: "Fine not exceeding RM20,000 on the company and every officer in default under s.340(6)"
+  - what: "Give notice of the annual general meeting"
+    trigger: "financial-year-end"
+    withinDays: 21
+    due: "at least 21 days before the AGM, or longer if the constitution requires"
+    authority: "Company (to its members)"
+    statute: "Companies Act 2016, s.316(2)(a)"
+    consequence: "The meeting is not validly convened under s.309"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.31, 33, 316, 340"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+    date: "2022-08-01"
+  - title: "Practice Note No. 3/2018 — Application for Extension of Time under Sections 259, 260 and 340"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
+    publisher: "SSM"
+    date: "2018-01-01"
+  - title: "Companies Act 2016 (Act 777) — ss.258, 259 circulation and lodgement of financial statements"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+    date: "2022-08-01"
+
+entity: "Annual general meeting"
+relations:
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "administered-by", to: "ssm" }
+  - { rel: "related-to", to: "financial-statements-lodgement" }
+related: ["financial-statements-lodgement", "extension-of-time-ssm", "resolution-notice-periods", "sdn-bhd-filing-calendar", "egm-requisition"]
+keywords: ["AGM Malaysia", "annual general meeting Sdn Bhd", "section 340 Companies Act 2016", "does a private company need an AGM", "AGM deadline six months"]
+---
+
+"Sdn Bhd는 더 이상 연례총회(AGM)를 열 필요가 없다"는 말이 통설이며, 대부분의 회사에는
+맞는 이야기입니다. 그리고 거의 모든 말레이시아 안내서가 여기서 멈추는데, 그 결과
+아무도 알려주지 않은 살아 있는 의무를 진 두 부류의 회사가 남게 됩니다.
+
+첫 번째 부류는 명백합니다. 바로 공개회사입니다. 두 번째가 흥미로운데, 자기 정관이
+여전히 연례총회를 요구하는 비공개회사(Sdn Bhd)로, 대개 1965년 회사법(Companies Act
+1965) 시절의 기본정관(memorandum and articles)을 그 후로 아무도 들여다보지 않았기
+때문입니다.
+
+## 어느 회사가 연례총회를 개최해야 하는가?
+
+회사법(Companies Act 2016) s.340(1)은 오직 한 부류의 회사만을 대상으로 합니다.
+
+> 모든 공개회사는 그 기간 중에 개최되는 다른 모든 회의에 더하여 매 역년(曆年)마다
+> 연례총회를 개최하여야 한다…
+
+비공개회사는 이 조항에서 아예 빠져 있습니다. 1965년 회사법의 일반적 연례총회 요건은
+승계되지 않았고, 그 대신 동법은 연례총회의 핵심 — 사원 앞에 계산서류를 제시하는 것 —
+을 s.258의 배부 의무로 옮겨 놓았습니다.
+
+s.340이 제5편(Division 5) 제8세부(Subdivision 8), 즉 **공개회사에 대한 추가 요건**
+(Additional Requirements for Public Companies)이라는 표제 아래 위치한다는 점에
+유의하십시오. 이는 우연한 편제가 아니라 구조적 신호입니다.
+
+## 모두가 놓치는 부분: 연례총회를 요구하는 정관
+
+정관을 채택한 비공개회사는 그 정관에 구속됩니다. s.33(1)은 정관이 채택되면 각
+사원이 서명·날인하고 그 모든 규정을 준수하겠다는 약정을 담은 것과 동일한 정도로
+회사와 사원을 구속한다고 규정합니다. s.31(2)은 회사가 정관을 두고 있는 경우, 정관이
+유효하게 변경하는 범위를 제외하고는 동법상의 권리·권한·의무가 적용된다고 덧붙입니다.
+
+그 정관이 회사가 연례총회를 개최하여야 한다고 정하고 있다면, 회사는 총회를 개최해야
+합니다. 이 의무는 법정 의무가 아니라 계약적 의무이며, 이는 집행 경로를 바꿉니다 —
+등기관이 아니라 사원이 이를 집행합니다 — 그렇다고 하여 그 의무가 임의적인 것이 되는
+것은 아닙니다.
+
+이는 드문 예외적 상황이 아닙니다. 1965년 회사법에 따라 설립된 회사는 기본정관을
+가지고 있었고, s.34(c)은 이를 종전 성문법에 따라 등록된 회사의 정관으로 명시적으로
+취급합니다. 그 정관들은 옛 Table A를 바탕으로 만들어졌으며, 연례총회, 이사의 윤번
+퇴임, 계산서류의 제출 등 완전한 연례총회 체제를 흔히 포함하고 있습니다.
+
+그러한 회사에는 두 가지 결과가 따릅니다.
+
+1. 정관이 요구하는 연례총회를 개최해야 하며, 정관이 정하는 통지기간을 준수해야 합니다
+   (s.316(1)은 14일의 하한을 정하며, 정관이 이를 높일 수 있는데, 흔히 21일로 높입니다).
+2. 그렇게 하고 싶지 않다면, 해결책은 s.36(1)에 따라 해당 정관 조항을 변경 또는 삭제하는
+   **특별결의**이며, 변경된 정관을 s.36(3)에 따라 **30일** 이내에 등기관에게 제출하는
+   것입니다.
+
+당신의 Sdn Bhd에 연례총회 의무가 없다고 단정하기 전에 정관을 읽으십시오. 회사가
+2017년 1월 31일 이후에 설립되었고 정관을 채택한 적이 없다면 읽을 것이 없으며, 답은
+진정으로 "아니오"입니다.
+
+## 함께 진행되는 두 가지 기한
+
+공개회사의 경우 s.340(2)은 두 개의 별도 한도를 정하며, **둘 다** 충족되어야 합니다.
+
+| 한도 | 기간 | 조항 |
+| --- | --- | --- |
+| 회계연도 말부터 | **6개월** 이내 | s.340(2)(a) |
+| 직전 연례총회부터 | **15개월**을 넘지 않게 | s.340(2)(b) |
+
+15개월 한도는, 어느 해에 연례총회를 6개월 기한의 끝으로 미루고 그다음 해에도 같은
+방법을 시도하는 회사를 잡아냅니다. 회계연도 말이 바뀌는 경우, 대개 15개월 시계가
+구속력 있는 한도가 됩니다.
+
+신설 공개회사의 경우, s.340(3)은 **최초 연례총회가 설립일부터 18개월 이내에
+개최된다는 조건**으로 설립 연도와 그 다음 해에 대해 요건을 면제합니다.
+
+## 연례총회에서 처리해야 하는 의안은 무엇인가?
+
+s.340(1)이 이를 열거합니다.
+
+- **(a)** 감사받은 재무제표와 이사 및 감사인의 보고서의 제출
+- **(b)** 퇴임하는 이사를 대신할 이사의 선임
+- **(c)** 감사인의 선임 및 보수의 결정
+- **(d)** 동법 또는 정관에 따라 통지된 결의 또는 그 밖의 의안
+
+이 중 두 가지는 다른 곳의 규정과 상호작용합니다. (a)항은 s.248(1) 및 공개회사의
+배부 기한을 정한 s.258과 나란히 있습니다. (c)항은 s.277과 함께 읽어야 합니다 —
+임기 만료 전에 감사인을 해임하려면 s.277(1)에 따른 **특별통지**가 필요하고, 이는
+s.322(1)에 따라 28일이며, s.297(2)이 서면 방식을 금지하는 단 두 개의 결의 중
+하나입니다.
+
+(d)항은 사원이 의사일정에 의안을 추가하는 실무적 경로이며, 공개회사의 경우 s.323과
+함께 작동합니다. s.323에 따라 납입 의결권 자본의 2.5%를 보유한 사원, 또는 평균
+RM500씩을 납입한 50명 이상의 사원은 결의의 회람을 요구할 수 있는데, 이 요청은
+s.323(3)(d)(i)에 따라 회의 **28일** 전까지 회사에 도달해야 합니다.
+
+## 통지, 정족수 및 단축 통지
+
+공개회사 연례총회의 통지는 s.316(2)(a)에 따라 **최소 21일**이며, 정관이 정하면 더
+길어집니다. 그 밖의 공개회사 회의는 s.316(2)(b)에 따라 14일이고, 비공개회사 회의는
+s.316(1)에 따라 14일입니다.
+
+연례총회의 단축 통지는 다른 회의보다 현저히 어렵습니다. s.316(3)은 출석하여 의결할
+권한이 있는 **모든** 사원의 동의를 요구합니다. s.316(5)의 90% 및 95% 기준은 연례총회
+**이외의** 회의에만 적용됩니다.
+
+s.328(2)에 따른 정족수는 정관이 더 많은 수를 정하지 않는 한 본인 또는 대리인으로
+출석한 사원 2명이며 — 1인 회사의 경우 s.328(1)에 따라 사원 1명입니다. s.328(5)에
+따라 30분 이내에 정족수가 충족되지 않으면 연례총회는 다음 주 같은 요일로 연기되고,
+사원의 요구로 소집된 회의는 해산됩니다.
+
+## 기한의 연장
+
+s.340(4)은 회사가 등기관에게 해당 조항의 기간 연장을 신청할 수 있도록 하며, 등기관은
+제시된 이유에 만족하는 경우 적절하다고 판단하는 대로 이를 연장할 수 있습니다.
+
+SSM 실무지침 3/2018호(Practice Note 3/2018)가 그 절차를 규율합니다. 연례총회와 관련한
+신청의 경우, 공개회사는 회의를 개최해야 하는 마지막 날의 **최소 30일 전에** 신청해야
+합니다. 기한연장 제출 수수료는 RM100입니다. 최대 연장 기간은 공표되어 있지 않습니다.
+
+기한까지 미루지 마십시오. 늦은 신청은 늦은 연례총회와는 별개의 문제입니다.
+
+## 비공개회사에서 연례총회를 대체한 것
+
+이 의무는 사라졌다기보다 형태가 바뀌었습니다. 비공개회사는 다음을 해야 합니다.
+
+- 회계연도 말부터 **6개월** 이내에 모든 사원에게 재무제표와 보고서를 **배부** —
+  s.258(1)(a)
+- 배부일부터 **30일** 이내에 등기관에게 이를 **제출** — s.259(1)(a)
+- 설립 기념일부터 **30일** 이내에 연차신고서(annual return)를 **제출** — s.68(1),
+  다만 s.68(2)에 따라 설립 역년에는 제출 의무가 없음
+
+이것이 Sdn Bhd가 실제로 따르는 시계입니다. 사원이 회의를 원하는 경우, 그 경로는
+연례총회가 아니라 s.311에 따른 소집요구입니다.
+
+## 위반과 그 결과
+
+s.340(6)은 s.340(1), (2) 또는 (3)을 위반한 회사와 모든 임원을 유죄 확정 시 **RM20,000**
+이하의 벌금에 처하도록 합니다.
+
+이와 별도로 s.340(5)은 회사가 연례총회 소집을 하지 않은 경우 **모든 사원**의 신청에
+따라 법원이 총회 소집을 명할 수 있도록 합니다. 이는 사원의 구제수단이며, 등기관의
+어떠한 조치에도 의존하지 않습니다.
+
+## 흔한 실수
+
+**정관을 읽지 않고 모든 Sdn Bhd에 연례총회 의무가 없다고 말하는 것.** 정관을 승계한
+1965년 시대의 회사에는 그 조언이 틀렸으며, 정관을 집행하는 사원은 SSM의 도움을
+필요로 하지 않습니다.
+
+**6개월 기한만 충족하고 15개월 기한을 무시하는 것.** s.340(2)(b)은 재진술이 아니라
+별도의 한도입니다.
+
+**95% 동의로 연례총회를 단축 통지하는 것.** s.316(3)은 출석하여 의결할 권한이 있는
+모든 사원의 동의를 요구합니다. 95%라는 수치는 s.316(5)(b)이며, 다른 회의에
+적용됩니다.
+
+**특별통지 없이 연례총회에서 감사인을 해임하는 것.** s.277(1)은 특별통지를 요구하며,
+이는 s.322(1)에 따라 28일이고, 감사인은 s.277(3)부터 (5)까지에 따라 의견진술권을
+가집니다.
+
+**기한이 지난 후에 연장을 신청하는 것.** 실무지침 3/2018호는 공개회사 연례총회
+신청에 대해 30일의 사전 기간을 정하고 있습니다.
+
+**재무제표 배부를 연례총회로 여기는 것.** 이는 s.258에 따른 별개의 의무로 고유의
+기한과 고유의 벌칙을 가지며, 공개회사에도 적용됩니다.
+
+## 다음 단계
+
+비공개회사를 대리한다면, 정관을 꺼내 "general meeting"을 검색하십시오. 그 문구가
+있다면 회의를 일정에 넣거나 다음 의사일정에 변경 특별결의를 올리십시오.
+
+연례총회를 대체한 배부 및 제출 시계는 `financial-statements-lodgement`를 참조하십시오.
+기한연장은 `extension-of-time-ssm`을 참조하십시오. 통지기간을 하나의 표로 보려면
+`resolution-notice-periods`를 참조하십시오. 이사회가 소집하지 않는 회의를 원하는
+사원에 대해서는 `egm-requisition`을 참조하십시오.

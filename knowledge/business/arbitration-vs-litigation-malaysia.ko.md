@@ -1,0 +1,190 @@
+---
+topicId: MY-BIZ-0069
+title: "중재 또는 법원? 말레이시아 법상 분쟁 조항 선택"
+seoTitle: "말레이시아 중재 대 소송: AIAC와 Act 646"
+socialTitle: "Malaysia abolished the appeal on a question of law in 2018. Most clauses still assume it exists."
+slug: "arbitration-vs-litigation-malaysia"
+category: "business"
+subcategory: ["contracts-disputes"]
+summary: "중재법(Arbitration Act 2005)과 AIAC 중재규칙 2026에 따라 중재를 선택하면 실제로 무엇을 얻고 무엇을 잃는지, 그리고 말레이시아가 2018년에 삭제한 상소권에 대해 설명합니다."
+
+tier: "3"
+mode: "practical"
+contentType: "comparison"
+sensitivity: "none"
+
+answer: "말레이시아의 중재는 중재법(Arbitration Act 2005, Act 646)의 규율을 받으며, 가장 흔히 선택되는 기관 규칙은 2026년 1월 1일부터 시행된 AIAC 중재규칙 2026입니다. 그 거래 관계는 최종성과 비밀성을 비용 및 상소권 상실과 맞바꾸는 것입니다. 즉, 법률 문제에 관하여 고등법원에 회부하는 것을 허용했던 Act 646 제42조와 제43조는 2018년 Act A1569에 의해 삭제되었습니다. 이제 판정은 제37조의 좁은 사유로만, 90일 이내에 다툴 수 있습니다."
+keyTakeaways:
+  - "s.10(1) Act 646 makes a stay of court proceedings mandatory on application, unless the arbitration agreement is null and void, inoperative or incapable of being performed"
+  - "s.8 bars court intervention except where the Act provides for it"
+  - "ss.42 and 43 were deleted by Act A1569 — there is no longer an appeal to the High Court on a question of law"
+  - "s.37 setting aside is limited and must be applied for within 90 days of receipt of the award"
+  - "s.41A prohibits publication of information about the proceedings or award; s.41B hears court proceedings otherwise than in open court"
+  - "AIAC Arbitration Rules 2026 took effect 1 January 2026 and replace all previous editions unless the parties agree otherwise"
+  - "AIAC Rule 29.2 defaults the seat to Kuala Lumpur; Rule 30.2 defaults the language to English"
+appliesTo: "Anyone drafting the dispute resolution clause in a Malaysian commercial contract, or deciding what to do once a dispute has arisen under one."
+
+faq:
+  - q: "Which edition of the AIAC Arbitration Rules applies?"
+    a: "The AIAC Arbitration Rules 2026, which the Rules themselves state take effect from 1 January 2026. Paragraph C of the Guideline and Application provides that on their coming into effect all previous editions cease to apply unless the parties agree that a previous edition applies, and paragraph D preserves the earlier edition for arbitrations already commenced under it. The 2023 edition is superseded for new cases."
+  - q: "Can I still go to court if the contract has an arbitration clause?"
+    a: "You can file, but the other side can stop you. Section 10(1) of the Arbitration Act 2005 requires the court to stay proceedings and refer the parties to arbitration where a party applies before taking any other step, unless the agreement is null and void, inoperative or incapable of being performed. Taking a step in the proceedings first can forfeit that right."
+  - q: "Can an arbitration award be appealed in Malaysia?"
+    a: "Not on the merits. Sections 42 and 43, which permitted a reference to the High Court on a question of law arising out of an award, were deleted by the Arbitration (Amendment) (No. 2) Act 2018. What remains is setting aside under s.37, on grounds such as incapacity, invalidity of the agreement, lack of proper notice, excess of jurisdiction, irregular composition, non-arbitrability and conflict with public policy."
+  - q: "Is arbitration confidential in Malaysia?"
+    a: "By statute, yes. Section 41A prohibits a party from publishing, disclosing or communicating information relating to the proceedings or the award, subject to exceptions for pursuing legal rights, complying with a legal obligation to a regulator or court, and disclosure to advisers. Section 41B provides that court proceedings under the Act are heard otherwise than in open court unless the court orders otherwise."
+  - q: "Is arbitration faster than the Malaysian courts?"
+    a: "Not automatically. Under the AIAC Fast Track Procedure the award is to be made within six months of the tribunal's constitution, and the procedure is available where the parties agree, where the amount in dispute is under USD3,000,000 for international or RM2,000,000 for domestic arbitration, or where there is exceptional urgency. A full three-member arbitration on a complex construction dispute is not fast."
+
+verificationNeeded:
+  - "Confirm the current AIAC fee schedules and deposit requirements directly from AIAC before advising on cost"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Arbitration Act 2005 (Act 646), reprint as at 1 November 2018"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1700445_BI/Act%20646%20%28REPRINT%202018%29.pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "AIAC Arbitration Rules 2026"
+    url: "https://admin.aiac.world/uploads/ckupload/ckupload_20251229031919_71.pdf"
+    publisher: "Asian International Arbitration Centre"
+    date: "2026-01-01"
+  - title: "AIAC — Arbitration"
+    url: "https://www.aiac.world/Arbitration-Arbitration"
+    publisher: "Asian International Arbitration Centre"
+  - title: "Limitation Act 1953 (Act 254), online version as at 1 September 2019"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1727530_BI/ACT%20254-Online%20version%20as%20at%201%20Sept%202019%20%282%29.pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+
+entity: "Arbitration in Malaysia"
+relations:
+  - { rel: "governs", to: "business" }
+  - { rel: "compares-with", to: "malaysia-courts-business-disputes" }
+  - { rel: "related-to", to: "contracts-act-malaysia" }
+related: ["contracts-act-malaysia", "debt-recovery-malaysia"]
+keywords:
+  - "arbitration vs litigation Malaysia"
+  - "Arbitration Act 2005 Malaysia"
+  - "AIAC arbitration rules 2026"
+  - "arbitration clause Malaysia drafting"
+  - "setting aside arbitral award Malaysia section 37"
+---
+
+중재 조항은 대개 마지막으로 협상되는 조항이면서, 상황이 틀어졌을 때 가장 먼저
+중요해지는 조항입니다. 대부분의 말레이시아 계약서 양식은 2018년에 더 이상 사실이
+아니게 된 전제, 즉 패소한 당사자가 법률 문제를 고등법원으로 가져갈 수 있다는
+전제 위에서 작성된 조항을 여전히 담고 있습니다.
+
+그럴 수 없습니다. 중재법 2005의 제42조와 제43조는 중재(개정)(제2호)법 2018
+(Act A1569)에 의해 삭제되었습니다. 오늘날 말레이시아에서 중재를 선택한다는 것은,
+의도했든 하지 않았든, 최종성을 선택하는 것입니다.
+
+## 이 법이 실제로 부여하는 것
+
+**단단한 문.** 제8조는 이 법이 규정하는 경우를 제외하고는 어떤 법원도 이 법이
+규율하는 사안에 개입해서는 안 된다고 규정합니다. 그런 다음 제10조 제1항은 당사자가
+다른 절차를 밟기 전에 신청하는 경우, 중재합의가 무효이거나 효력이 없거나 이행할 수
+없는 경우가 아닌 한 법원 절차의 정지를 **강제**합니다. 시기가 중요합니다. 답변서를
+먼저 제출하면 정지를 구할 권리가 사라질 수 있습니다.
+
+**너그럽게 정의된 서면 합의.** 제9조 제3항은 서면을 요구하지만, 제9조 제4항은
+계약이 구두 또는 행위로 체결된 경우라도 그 내용이 어떤 형태로든 기록되어 있으면
+그 요건이 충족된 것으로 취급하며, 제9조 제4A항은 전자적 의사소통을 인정합니다.
+
+**준거법과 중재지에 대한 당사자 통제.** 제30조 제1항은 중재판정부가 당사자가
+선택한 법규를 적용하도록 지시하며, 제30조 제3항은 특정 법체계의 선택을 그
+실체법의 선택으로 취급하되 그 저촉규범의 선택으로는 취급하지 않습니다. 제22조는
+중재지를 당사자에게 맡기고, 합의가 없으면 중재판정부에 맡깁니다.
+
+**국내 중재와 국제 중재는 동일한 제도가 아닙니다.** 제3조 제2항에 따라 말레이시아를
+중재지로 하는 국내 중재에는 Part I, II, IV와 **더불어** Part III가 적용되며, 다만
+당사자가 배제하기로 한 경우는 예외입니다. 제3조 제3항에 따라 말레이시아를 중재지로
+하는 국제 중재에는 당사자가 선택한 경우에만 Part III가 적용됩니다. Part III에는
+병합(제40조), 예비적 법률 문제(제41조), 비밀성(제41A조), 비용(제44조)이 자리
+잡고 있으므로, 배제는 당사자가 통상 의도하는 바를 훨씬 넘어서는 결과를 가져옵니다.
+
+**법률상 비밀성.** 제41A조는 절차나 판정에 관한 정보를 공표·공개 또는 전달하는
+것을 금지하되, 법적 권리를 추구하거나 방어하는 경우, 정부·규제기관 또는 법원에
+대한 의무를 이행하는 경우, 자문가에 대한 공개의 경우는 예외로 합니다. 제41B조는
+법원이 달리 명령하지 않는 한 관련 법원 절차를 공개 법정 밖에서 진행합니다.
+
+**국경을 넘는 집행력.** 제38조는 말레이시아를 중재지로 하든 뉴욕협약 당사국인
+외국에서 내려지든 판정이 판결로 등록되어 승인·집행되도록 허용합니다. 제39조는
+거부를 협약상 사유로 한정합니다. 말레이시아 법원 판결은 그만큼 멀리 통용되지
+못합니다.
+
+## 포기하는 것
+
+최종성은 양날의 검입니다. 제37조는 무능력, 무효인 중재합의, 적절한 통지의 결여
+또는 사건을 진술할 수 없었던 경우, 부탁 범위를 벗어난 판정, 부적절한 구성 또는
+절차, 중재적격성의 결여, 또는 말레이시아 공서양속과의 충돌을 이유로만 취소를
+허용하며, 제37조 제2항은 공서양속에 사기, 부패, 자연적 정의 위반을 포함시킵니다.
+신청은 판정 수령일로부터 **90일** 이내에 이루어져야 하며(제37조 제4항), 다만 사기
+또는 부패가 주장되는 경우는 예외입니다(제37조 제5항).
+
+또한 법원의 기본 장치도 포기하게 됩니다. 무료 판사도, 자동 약식판결도, 압류
+매각영장도 없습니다. 중재판정부, 기관, 장소에 대해 비용을 지불하고도 집행을
+위해서는 여전히 고등법원으로 가야 합니다.
+
+## AIAC 규칙 2026이 추가하는 것
+
+AIAC 중재규칙 2026은 **2026년 1월 1일**부터 시행되었으며, 지침 및 적용(Guideline
+and Application)의 C항에 따라 당사자가 달리 합의하지 않는 한 모든 이전 판본을
+대체합니다. D항은 이미 개시된 중재에 대해 이전 판본을 유지합니다. 별도의 AIAC
+신속중재규칙은 이제 신속절차로 통합되었습니다.
+
+선택을 가장 자주 좌우하는 조항은 다음과 같습니다.
+
+| 특징 | 규칙 | 효과 |
+| --- | --- | --- |
+| 신속절차 | 7 | 합의에 의해, 청구액이 국제 USD3,000,000 미만 또는 국내 RM2,000,000 미만인 경우, 또는 예외적 긴급성이 있는 경우 이용 가능. 단독 중재인, 서면심리, 구성 후 6개월 이내 판정 |
+| 약식 판정 | 9 | 전면 심리 없이 청구 또는 항변의 처리 |
+| 긴급 중재인 | 12–14 | 중재판정부 성립 전 잠정적 구제 |
+| 기본 중재지 | 29.2 | 중재판정부가 달리 정하지 않는 한 쿠알라룸푸르 |
+| 기본 언어 | 30.2 | 영어 |
+| 제3자 자금 조달 | 31 | 공개 의무 |
+| 기술 검토 | 42 | 서명 전, 절차 종결 후 90일 이내에 초안 판정을 AIAC 중재재판소에 제출 |
+
+이 법의 제11조는 규칙과 함께 여전히 이용 가능합니다. 즉, 당사자는 중재 전 또는
+중에 자산 보전과 비용 담보를 포함한 잠정조치를 고등법원에 신청할 수 있습니다.
+
+## 흔한 실수
+
+**조항에 상소권을 넣어 작성하는 것.** 상소할 곳이 없습니다. 제42조와 제43조는
+사라졌습니다.
+
+**국내 계약에서 Part III를 읽어보지도 않고 배제하는 것.** 제41A조에 따른 법률상
+비밀성을 병합 및 비용 제도와 함께 상실하게 됩니다.
+
+**중재지를 명시하지 않고 그것이 중요하지 않다고 가정하는 것.** 중재지는 감독
+법원과 취소 관할을 결정합니다. AIAC 규칙 29.2에 따라 기본값은 쿠알라룸푸르인데,
+이는 정확히 맞을 수도, 정확히 틀릴 수도 있습니다.
+
+**소멸시효가 적용되지 않는다고 가정하는 것.** 소멸시효법 1953 제30조 제1항은 이
+법과 기타 소멸시효 법률을 법원 소송에 적용되는 것과 마찬가지로 중재에도
+적용합니다.
+
+**정지를 신청하기 전에 법원 소송에서 절차를 밟는 것.** 제10조 제1항은 신청이
+절차상 다른 절차를 밟기 전에 이루어져야 한다고 요구합니다.
+
+## 다음 단계
+
+분쟁 금액이 크지 않고 채무자가 말레이시아인이라면, 고정된 금액 구간을 갖춘 법원
+경로가 대개 더 저렴하며 집행 장치도 더 강력합니다. 상대방이 역외에 있다면
+뉴욕협약이 중재를 뒷받침하는 결정적 논거입니다. 어느 쪽이든 서명 전에 결정하십시오.
+제10조 제1항은 이후에 그 조항에서 벗어나기를 매우 어렵게 만듭니다.

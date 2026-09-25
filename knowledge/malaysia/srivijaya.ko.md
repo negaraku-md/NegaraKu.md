@@ -1,0 +1,106 @@
+---
+topicId: "MY-HIS-0048"
+title: "스리비자야: 말라카 창건 왕조 배후의 해상 왕국"
+slug: "srivijaya"
+category: "malaysia"
+subcategory: ["early-kingdoms"]
+summary: "팔렘방(Palembang)을 근거지로 삼은 불교 해양 국가(thalassocracy)로, 약 6세기 동안 말라카 해협을 통제하였고, 케다(Kedah)의 부장 계곡(Bujang Valley)을 그 교역망으로 끌어들였으며, 팔렘방에서 달아난 파라메스와라(Parameswara)라는 왕자를 통해 말라카 술탄국 자체의 왕조적 뿌리를 제공하였습니다."
+tier: "2"
+mode: "narrative"
+contentType: "guide"
+answer: "스리비자야는 수마트라(Sumatra) 남부 팔렘방을 근거지로 삼은 불교 해상 왕국으로, 대략 7세기 후반부터 그 세력이 11세기와 14세기 사이에 무너질 때까지 말라카 해협과 그 교역을 지배하였습니다. 이 왕국은 영토가 아니라 바다를 지배하였습니다. 말레이반도의 케다 부장 계곡에 있는 유적을 포함하여, 국경이 아니라 항로 통제로 하나로 묶인 조공 하천 항구들의 조직망이었습니다. 이것이 말레이시아에 특히 중요한 이유는, 고대 말레이어가 스리비자야의 교역 언어로서 이 지역 전역에 퍼졌기 때문이며, 또 1400년경 말라카 술탄국을 창건한 왕자 파라메스와라가 스리비자야 자체의 옛 수도인 팔렘방 출신으로 기록되어 있기 때문입니다."
+keyTakeaways:
+  - "Srivijaya was a thalassocracy: it controlled sea lanes and river-mouth ports, not large stretches of land, from its base at Palembang in southern Sumatra"
+  - "The oldest known inscription in the Old Malay language, the Kedukan Bukit inscription, is dated to 682 CE and records a Srivijayan military expedition"
+  - "Its network extended up the Malay Peninsula, and Kedah's Bujang Valley — one of Malaysia's richest archaeological sites — traded and worshipped within that Hindu-Buddhist world for centuries"
+  - "A Chola naval invasion from southern India in 1025 broke Srivijaya's grip on the strait, and Majapahit's conquest of Palembang in 1377 ended it as an independent power"
+  - "Parameswara, founder of the Melaka Sultanate around 1400, is described in Malay tradition and by Melaka's own state government as a prince from Palembang — Srivijaya's former seat"
+appliesTo: "Readers who want to understand what ruled the Strait of Melaka before Melaka did, and how a Sumatra-based sea power ended up feeding directly into the Malay Peninsula's own royal history."
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+sensitivity: "none"
+updated: "2026-07-24"
+sources:
+  - title: "Śrivijaya"
+    url: "https://www.ebsco.com/research-starters/history/srivijaya"
+    publisher: "EBSCO Research Starters"
+  - title: "Tapak Arkeologi Sungai Batu & Jeniang, Kedah"
+    url: "https://www.heritage.gov.my/en/kraf.html?view=article&id=46:arkeologi-penyelidikan-arkeologi-di-malaysia-tapak-arkeologi-sungai-batu-jeniang-kedah-abad-pertama-masihi-2-000-tahun&catid=17"
+    publisher: "Department of National Heritage Malaysia (Jabatan Warisan Negara)"
+  - title: "Lembah Bujang Archaeological Museum"
+    url: "https://www.jmm.gov.my/en/content/lembah-bujang-archaeological-museum"
+    publisher: "Jabatan Muzium Malaysia (Department of Museums Malaysia)"
+  - title: "Melaka History"
+    url: "https://www.melaka.gov.my/en/government/state-info/melaka-history.html"
+    publisher: "Portal Rasmi Kerajaan Negeri Melaka"
+entity: "Srivijaya"
+wikidata: "Q234197"
+relations:
+  - { rel: "related-to", to: "melaka-sultanate" }
+  - { rel: "related-to", to: "langkasuka" }
+  - { rel: "part-of", to: "malaysia" }
+related: ["melaka-sultanate", "langkasuka"]
+keywords: ["Srivijaya", "Bujang Valley", "Lembah Bujang", "Kedah Tua", "thalassocracy", "Old Malay", "Parameswara Palembang", "Strait of Melaka history"]
+---
+
+파라메스와라가 1396년 테마섹(Temasek)에서 달아나 훗날 말라카가 된 강기슭에 우연히 다다랐을 때, 그는 난데없이 나타난 이름 없는 인물이 아니었습니다. 말라카 주 정부는 지금도 그를 명백하게 "팔렘방 출신의 왕자"로 기록합니다. 수마트라 남부 무시강(Musi River) 유역의 팔렘방은 파라메스와라가 태어나기 전 약 600년 동안 말라카 해협을 지배한 해상 강국의 수도였습니다 — 스리비자야라는 왕국이었습니다. 파라메스와라가 반도에 이르렀을 무렵, 그 왕국의 정치적 힘은 이미 사라진 상태였습니다. 그러나 그가 창건한 말라카 술탄국은 그 혈통을, 그리고 어쩌면 말레이 교역 항구가 어떠해야 하는가에 관한 그 모델 전체를, 스리비자야의 폐허에서 곧바로 이어받았습니다.
+
+말레이 역사에 관한 대부분의 서술은 스리비자야를 "진짜" 이야기가 말라카에서 시작되기 전의 배경 소음쯤으로 취급합니다. 이는 그 관계를 거꾸로 이해한 것입니다. 스리비자야는 서막이 아닙니다. 오히려 부모에 가깝습니다.
+
+## 땅이 아니라 물을 지배한 제국
+
+스리비자야는 대부분의 사람들이 "제국"에서 기대하는 형태에 들어맞지 않습니다. 연속된 육상 국경도 없었고, 로마나 중국처럼 정복한 속주를 다스리는 단일 행정 수도도 없었습니다. 이 왕국이 통제한 것은 통행이었습니다 — 인도양과 남중국해 사이를 오가는 배들은 말라카 해협을 지나야 했고, 팔렘방을 근거지로 삼은 스리비자야는 그 통행에 세금을 매기고, 물자를 공급하고, 때로는 그것을 나포할 수 있는 위치를 차지하였습니다.
+
+역사가들은 이를 해양 국가(thalassocracy)라고 부릅니다. 영토 통제가 아니라 해상 통제 위에 세워진 국가입니다. 그 "제국"은 실제로 해협 주변과 말레이반도 양쪽을 따라 늘어선 하구 항구들의 조직망이었으며, 각 항구는 교역 의존과, 거스를 경우 그 항구를 먹여 살리는 항로 접근을 차단할 수 있는 통치자에 대한 충성으로 팔렘방에 묶여 있었습니다. 종속 항구들은 지역 통치자를 그대로 두었습니다. 그들이 포기한 것은 해협 자체의 통제를 두고 팔렘방과 경쟁할 권리였습니다.
+
+이것은 훗날 말라카를 부유하게 만든 것과 동일한 논리입니다. 해협에 자리를 잡고, 안전한 통행을 보장하며, 상인들이 실어 나르는 모든 것을 소유하려 들기보다는 상인들이 스스로 찾아오게 하는 것입니다.
+
+## 그 증거는 돌이며, 말레이어로 쓰여 있다
+
+스리비자야가 스스로에 대해 남긴 기록은 대부분 팔렘방 일대에서 발견된 석비 비문과, 그곳을 지나거나 그에 대해 기록한 중국 순례자와 사신들의 보고로 남아 있습니다. 이 비문들 가운데 가장 중요한 것은 크두칸 부킷 비문(Kedukan Bukit inscription)으로 알려져 있으며, 서기 682년으로 연대가 추정되고 스리비자야 통치자가 이끈 군사적, 의례적 원정을 기록합니다.
+
+그 돌이 수마트라 역사 너머에서 중요한 이유는, 그것이 고대 말레이어 — 현대 말레이어와 현대 인도네시아어 양쪽의 직접적 조상 — 로 쓰인, 현재까지 알려진 가장 오래된 비문이기 때문입니다. 스리비자야의 교역망이 확장되면서 그 상인과 관리들이 사업에 사용하던 언어도 함께 확장되었고, 고대 말레이어는 그것을 공식어로 삼을 술탄국이 존재하기 여러 세기 전에 이미 실질적인 공용어로서 말레이 제도 전역에 퍼졌습니다. 지금은 존재하지 않는 한 왕국이, 매우 실질적인 의미에서, 결국 이 지역이 하나의 언어를 공유하게 된 이유입니다.
+
+## 케다의 부장 계곡: 타국 조직망 속의 반도 전초기지
+
+말레이시아 땅에서 이 세계의 가장 명확한 물리적 증거는 케다의, 므르복(Merbok) 인근 [부장 계곡](/malaysia/bujang-valley)(Lembah Bujang)에 있습니다. 말레이시아 박물관국(Department of Museums)은 이 유적을 힌두-불교 예배와 국제 교역 — 중국, 인도, 아랍, 말레이 상인들을 연결하는 — 의 중심지로 서술하며, 대략 서기 3세기부터 12세기까지 번성하였고 계곡 전역에서 수십 개의 찬디(candi, 사원 유적)가 발굴되었다고 밝힙니다.
+
+인근의 숭아이 바투(Sungai Batu)에서는 말레이시아 [국가유산국(Department of National Heritage)](/government/department-of-national-heritage)이 훨씬 더 오래된 것을 기록합니다. 서기 110년경으로 연대가 추정되는 벽돌 기념물, 1세기부터 8세기까지 아라비아와 인도로 철을 수출한 제철로, 그리고 이 유적이 해상 화물을 직접 취급했음을 보여주는 부두 구조물입니다. 이는 스리비자야 자체의 흥기보다 여러 세기 앞서며 — 정확히 짚을 가치가 있는데, 이는 부장 계곡의 중요성이 스리비자야에서 비롯된 것이 아님을 뜻하기 때문입니다. 역사가들이 대체로 스리비자야의 세력권 안에 두는 것은 그 교역의 후기입니다. 스리비자야의 조직망이 7세기 후반 이후 반도 위로 확장되면서, 케다의 항구들은 그 조공 거점 중 하나로 기능하였을 개연성이 있으며, 팔렘방이 더 남쪽에서 닻을 내렸던 것과 동일한 힌두-불교의, 인도양을 향한 세계에 물자를 공급하였습니다. 말레이시아의 유산 기록은 이 유적의 교역, 종교, 산업을 상세히 기록하지만, 팔렘방과의 명시적인 행정적 연결을 스스로 밝히지는 않으며, 이 글도 그 이상의 정밀함을 주장하지 않습니다.
+
+## 격파될 수 있었고, 실제로 격파된 함대
+
+스리비자야의 힘은 전적으로 해군과 상업의 우위에 기대고 있었으며, 이는 그것을 항해에서 능가할 수 있는 자라면 누구든 그 힘을 깨뜨릴 수 있음을 뜻했습니다. 그 일이 1025년에 일어났습니다. 남인도의 촐라(Chola) 왕국이 해상 침공을 감행하여 팔렘방을 직접 타격하고 스리비자야를 조공국으로 전락시켰습니다. 왕국은 촐라의 습격에서 살아남았으나 해협에 대한 장악력은 결코 온전히 회복하지 못했습니다 — 수마트라, 반도, 자바(Java)의 경쟁 항구들이 한때 스리비자야가 독점하던 교역을 두고 점점 더 경쟁하였습니다.
+
+종말은 단일한 전투가 아니라 서서히 찾아왔습니다. 교역 교란과 지역 경쟁자들이 11세기와 12세기에 걸쳐 스리비자야의 위상을 잠식하였고, 1292년에 이르러 베네치아의 여행가 마르코 폴로(Marco Polo)는 수마트라가 더 이상 어떤 단일 통치자 아래에도 있지 않음을 발견하였습니다. 최후의 일격은 대개 1377년으로 연대가 추정되는데, 이때 자바의 마자파힛(Majapahit) 제국이 팔렘방 자체를 정복하여 크두칸 부킷 비문으로부터 약 6세기 반 뒤에 스리비자야를 독립 세력으로서 종식시켰습니다.
+
+## 팔렘방의 폐허에서 말라카의 창건으로
+
+여기서 스리비자야는 별개의 이야기이기를 멈추고 말라카 자체의 뒷이야기가 됩니다. 더 이상 강대국의 수도가 아닌 팔렘방은 실제 왕자들이 있는 실제 장소로 남아 있었으며, 그중 한 명이 파라메스와라였습니다. 말라카 주 정부는 그를 마자파힛과 연관된 계승 분쟁 후 쫓겨난 팔렘방 왕자로 기록하는데, 그는 먼저 테마섹으로 달아났다가 다시 쫓겨난 뒤, 1400년경 추종자들과 함께 말라카강 어귀에 이르러 훗날 말라카 술탄국이 될 나라를 창건하였습니다.
+
+스리비자야의 역사에 비추어 읽으면, 그 창건 이야기는 고립된 기원 신화라기보다는 근위 교대에 더 가까워 보입니다. 팔렘방을 부유하게 만들었던 것과 동일한 지리 — 중국과 인도 사이의 몬순에 실린 교역을 가로챌 수 있는 위치에 자리한 해협의 강 어귀 — 가 이제 말라카를 부유하게 만들었으며, 그 일을 이끈 통치자의 가문사는 스리비자야가 그 힘을 세운 도시를 관통하였습니다. 말라카의 븐다하라-락사마나-트믕궁-샤반다르(Bendahara-Laksamana-Temenggung-Syahbandar) 행정 체계와, 외국 상인에게 보장된 안전한 통행에 대한 그 의존은 무(無)에서 발명된 것이 아니었습니다. 그것들은 동일한 해양 국가의 방책으로, 옛 근거지가 한 세기 넘게 잠잠해진 뒤 새로운 주소에서 운용되었습니다.
+
+## 흔한 오해
+
+**스리비자야를 말레이시아의 왕국으로 취급하는 것.** 그 수도와 핵심 영토는 수마트라, 즉 오늘날의 인도네시아에 있었습니다. 그 영향력은 오늘날의 말레이시아 — 가장 구체적으로는 케다의 부장 계곡 — 까지 미쳤으나, 그 본거지가 반도에 있었던 적은 결코 없습니다.
+
+**숭아이 바투가 스리비자야가 처음부터 케다를 지배했음을 증명한다고 가정하는 것.** 숭아이 바투의 기념물과 제철 산업은 스리비자야 자체의 흥기보다 여러 세기 앞섭니다. 이 유적의 중요성은 그 어떤 스리비자야와의 연관보다 오래되었고 그와 무관합니다.
+
+**"제국"을 "영토"와 혼동하는 것.** 스리비자야의 힘은 다스린 땅의 제곱킬로미터가 아니라 통제한 배와 항구로 측정되었습니다 — 통상적인 육상 제국이라기보다는 해군을 갖춘 교역 카르텔에 더 가깝습니다.
+
+**말라카-스리비자야의 연결이 세부 사항까지 확정되었다고 가정하는 것.** 파라메스와라가 팔렘방 출신이라는 점은 잘 기록되어 있습니다. 그러나 그 혈통의 정확한 성격과 스리비자야 왕좌에 대한 공식적 왕가 계승권 주장은, 현존하는 당대 기록이 온전히 검증할 수 있는 것보다 말레이 전통이 더 확신에 차서 주장하는 사안입니다.
+
+## 다음 읽을거리
+
+팔렘방의 망명 왕자가 실제로 세운 항구 왕국에 대해서는 [말라카 술탄국](/ko/malaysia/melaka-sultanate)을 참고하십시오. 스리비자야와 나란히 존재하였고 더 북쪽에서 동일한 힌두-불교의, 중국 기록에 남은 양상을 보여주는 또 다른 초기 말레이반도 왕국에 대해서는 [랑카수카](/ko/malaysia/langkasuka)를 참고하십시오.

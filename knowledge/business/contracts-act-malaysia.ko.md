@@ -1,0 +1,268 @@
+---
+topicId: MY-BIZ-0065
+title: "1950년 계약법은 영국법이 아니다 — 말레이시아가 갈라지는 다섯 지점"
+seoTitle: "말레이시아 1950년 계약법: 무엇이 계약을 구속력 있게 만드는가"
+socialTitle: "Your non-compete clause is void. Section 28 says so in one sentence."
+slug: "contracts-act-malaysia"
+category: "business"
+subcategory: ["contracts-disputes"]
+summary: "1950년 계약법(Contracts Act 1950)이 약인, 거래 제한, 위약금 조항 및 원상회복에 관하여 영국 계약법에서 어떻게 벗어나는가 — 그리고 그 벗어남이 어떤 수입 템플릿 조항을 무효로 만드는가."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "말레이시아 계약법은 1950년 계약법(Contracts Act 1950, Act 136)에 성문화되어 있으며, 이는 영국 보통법의 재정리가 아니라 인도 계약법(Indian Contract Act)의 후예입니다. Section 10(1)은 자유로운 합의, 능력, 적법한 약인 및 적법한 목적이 있으면 합의가 계약이 되도록 합니다. 그 성문화가 가장 세게 작용하는 곳은 두 군데입니다: s.26은 약인 규칙에 대한 그 자신의 예외를 규정하고, s.28은 적법한 직업, 거래 또는 사업을 제한하는 모든 합의를 세 가지 좁은 예외만을 두고 무효로 만듭니다."
+keyTakeaways:
+  - "Contract law sits in a statute — the Contracts Act 1950 (Act 136) — and the statute governs where it speaks"
+  - "s.2(d) lets consideration move from the promisee or any other person, and lets it be past — two departures from English law"
+  - "s.26 makes agreements without consideration void, subject to three statutory exceptions, one of which revives a limitation-barred debt"
+  - "s.28 voids agreements in restraint of trade; the only reasonableness test sits in the proviso to Exception 1 (sale of goodwill)"
+  - "s.29 voids clauses that absolutely bar legal proceedings or shorten the limitation period, but expressly saves arbitration"
+  - "s.75 abolishes the English penalty and liquidated damages distinction and caps recovery at reasonable compensation not exceeding the stipulated sum"
+  - "The Act applies throughout Malaysia, unlike the Limitation Act 1953, which is Peninsular only"
+appliesTo: "Anyone drafting, signing or trying to enforce a commercial contract governed by Malaysian law, particularly where the template originated in England, Singapore or the United States."
+
+faq:
+  - q: "Is Malaysian contract law the same as English contract law?"
+    a: "No. Malaysia codified contract law in the Contracts Act 1950, which descends from the Indian Contract Act 1872. English cases remain persuasive on concepts the Act does not cover, but where the Act speaks it overrides. The clearest example is s.28, which voids restraint-of-trade agreements outright rather than testing them for reasonableness."
+  - q: "Are non-compete clauses enforceable in Malaysia?"
+    a: "Section 28 provides that every agreement by which anyone is restrained from exercising a lawful profession, trade or business of any kind is void to that extent. The section contains three exceptions — sale of goodwill, partners on dissolution, and partners during the partnership — and none of them covers an employer restraining a former employee. A reasonableness test appears only in the proviso to Exception 1."
+  - q: "Does past consideration work in Malaysia?"
+    a: "Yes. Section 2(d) defines consideration to include something the promisee has already done or abstained from doing at the desire of the promisor. Section 26(b) reinforces this by saving a promise to compensate a person who has already voluntarily done something for the promisor. Both positions differ from the orthodox English rule."
+  - q: "Can a contract require a claim to be brought within a shorter period than the limitation period?"
+    a: "Section 29 makes void any agreement that restricts a party absolutely from enforcing its rights by the usual legal proceedings, or that limits the time within which those rights may be enforced. A contractual time bar shorter than the statutory limitation period is exposed to that section."
+  - q: "Are liquidated damages clauses enforceable?"
+    a: "Section 75 replaces the English penalty rule. Where a sum is named for breach, the innocent party is entitled — whether or not actual loss is proved — to reasonable compensation not exceeding that sum. The named figure is a ceiling, not an entitlement, and the court decides what is reasonable."
+  - q: "Does the Contracts Act 1950 apply in Sabah and Sarawak?"
+    a: "Yes. It was extended nationally by the Contracts (Malay States) (Amendment and Extension) Act 1974. Do not assume the same of neighbouring statutes — the Limitation Act 1953 applies to Peninsular Malaysia only, and Sabah and Sarawak have their own limitation ordinances."
+
+verificationNeeded:
+  - "Confirm the judicial gloss on s.75 — the Federal Court has developed a legitimate-interest and proportionality analysis, but this is case law and is not stated on the face of the Act"
+  - "Confirm whether any post-2006 amendment to Act 136 exists; the AGC updated text is stated as at 1 January 2006 and its list of sections amended stops at 1974"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Contracts Act 1950 (Act 136), updated text"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20136.pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Limitation Act 1953 (Act 254), online version as at 1 September 2019"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1727530_BI/ACT%20254-Online%20version%20as%20at%201%20Sept%202019%20%282%29.pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Arbitration Act 2005 (Act 646), reprint as at 1 November 2018"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1700445_BI/Act%20646%20%28REPRINT%202018%29.pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Laws of Malaysia — principal acts search"
+    url: "https://lom.agc.gov.my/principal.php"
+    publisher: "Attorney General's Chambers of Malaysia"
+
+entity: "Contracts Act 1950 (Act 136)"
+relations:
+  - { rel: "governs", to: "business" }
+  - { rel: "related-to", to: "shareholders-agreement-malaysia" }
+  - { rel: "related-to", to: "malaysia-courts-business-disputes" }
+  - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
+related: ["shareholders-agreement-malaysia", "debt-recovery-malaysia", "non-compete-clause-malaysia"]
+keywords:
+  - "Contracts Act 1950 Malaysia"
+  - "section 28 Contracts Act non-compete"
+  - "section 26 consideration Malaysia"
+  - "is a non-compete enforceable in Malaysia"
+  - "liquidated damages Malaysia section 75"
+  - "Akta Kontrak 1950"
+---
+
+한 말레이시아 회사가 런던에서 작성된 유통 계약서에 서명합니다. 그 계약서에는 정해진 지역과
+정해진 제품군으로 신중하게 좁혀진 12개월의 계약 종료 후 경업금지 조항이 담겨 있고, 그 아래에는
+분리가능성(severability) 조항이 있습니다.
+
+영국에서라면 그 조항은 다툴 여지가 있습니다. 말레이시아에서 그것은 무효이며, 그것을 합리적으로
+만들기 위해 들인 작성 노력이 바로 그것이 실패하는 이유입니다 — 합리성이 기준이 아니기
+때문입니다.
+
+그 단 하나의 갈라짐이 1950년 계약법의 다른 어떤 특징보다 말레이시아 기업에 더 큰 비용을
+치르게 하며, 이는 이 법이 대부분의 상업 템플릿이 전제하는 영국법과 갈라지는 적어도 다섯
+지점 중 하나입니다.
+
+## 왜 말레이시아 계약법은 애초에 성문법에 담겨 있는가?
+
+이곳의 계약법은 성문화되어 있습니다. 1950년 계약법(Contracts Act 1950, Act 136)은 1872년
+인도 계약법(Indian Contract Act 1872)의 후예로, [해협식민지](/malaysia/straits-settlements)와 말레이 연방주(Federated Malay States)가 물려받았고
+말레이시아가 그 후 1974년 계약(말레이 주)(개정 및 확장)법(Contracts (Malay States)
+(Amendment and Extension) Act 1974)으로 전국으로 확장했습니다.
+
+이것은 절차적으로 중요합니다. 영국 판례는 이 법이 차지하지 않은 영역에서는 설득력을 가집니다
+— 부실표시 구제, 묵시적 조항, 모호한 문언의 해석. 이 법이 말하는 곳에서는 이 법이
+지배하고, 영국 판례는 배경 읽을거리가 됩니다.
+
+AGC 갱신 조문은 2006년 1월 1일 기준으로 명시되어 있으며, 그 자체의 개정 조항 목록은 1974년에
+끝납니다. 아래의 실효 규정들은 반세기 동안 안정적이었습니다.
+
+## 언제 합의가 계약이 되는가?
+
+Section 10(1): 모든 합의는 계약할 능력이 있는 당사자들의 자유로운 합의로, 적법한 약인과 적법한
+목적을 위해 이루어지고, 이 법에 의해 명시적으로 무효로 선언되지 않은 경우 계약이 됩니다.
+
+그 한 문장은 네 개의 별도 요건을 담고 있으며, 각각 그 뒤에 자신의 조항을 두고 있습니다:
+
+| 요소 | 어디에 있는가 | 함정 |
+| --- | --- | --- |
+| 자유로운 합의 | ss.13–23 | 강박, 부당위압, 사기, 부실표시 및 착오는 계약을 무효가 아니라 취소가능하게 만듦 — 당신이 선택해야 함 |
+| 능력 | ss.11–12 | 성년 연령 및 계약 순간의 정신적 건전성 |
+| 적법한 약인 | ss.2(d), 24–26 | 말레이시아의 정의는 영국의 것보다 두 방향으로 더 넓음 |
+| 적법한 목적 | ss.24–25 | s.25는 위법한 부분을 분리할 수 없는 경우 합의 전체를 무효로 함 |
+
+Section 10(2)는 서면, 증인 또는 등록을 요구하는 다른 법을 보존합니다. 구두 계약도 계약입니다;
+주식 양도 계약은 여전히 회사법(Companies Act 2016) s.105가 요구하는 증서를 필요로 합니다.
+
+## s.26은 약인에 관한 영국 규칙과 어떻게 다른가?
+
+Section 26은 규칙을 부정적으로 진술합니다: 약인 없이 이루어진 합의는 무효입니다, **다만** 세
+가지 중 하나가 참인 경우는 예외입니다.
+
+- **(a)** 서면으로, 현행 등록법에 따라 등록되고, 서로 가까운 관계에 있는 당사자 간의 자연적
+  애정에 기하여 이루어진 경우.
+- **(b)** 이미 자발적으로 약속자를 위해 무언가를 한 사람, 또는 약속자가 법적으로 강제될 수
+  있었던 무언가를 한 사람에게 전부 또는 일부를 보상하겠다는 약속.
+- **(c)** 시효법이 아니었다면 채권자가 강제할 수 있었을 채무를 지급하겠다는, 책임질 사람 또는
+  그 수권 대리인이 서명한 서면 약속.
+
+(c)호가 상업적으로 유용한 것인데 거의 아무도 사용하지 않습니다. 시효로 소멸한 채무는 그것을
+전부 또는 일부 지급하겠다는 서명된 서면 약속으로 되살릴 수 있습니다. 서면 승인 또는 일부
+변제 시 시계를 다시 돌리는 1953년 시효법(Limitation Act 1953) s.26과 함께 읽으면, 채권자에게
+시효 문제에서 벗어나는 두 개의 별개 경로를 줍니다.
+
+두 가지 추가적인 갈라짐이 정의 그 자체에 있습니다. Section 2(d)는 약속자의 요청에 따라
+**약속받은 자 또는 그 밖의 어떤 사람**이 무언가를 했거나, 하거나, 하기로 약속할 때 약인이
+제공된다고 말합니다. 따라서 약인은 제3자로부터 이동할 수 있고, 과거의 것일 수 있습니다. 두
+명제 모두 정통 영국 입장과 반대입니다.
+
+s.26의 설명 2(Explanation 2)가 그림을 완성합니다: 약인이 부적절하다는 이유만으로 합의가
+무효가 되지는 않지만, 부적절함은 합의가 자유롭게 이루어졌는지를 물을 때 법원이 저울질할 수
+있는 증거입니다.
+
+## s.28은 거래 제한에 관하여 정확히 무엇을 말하는가?
+
+한 문장입니다:
+
+> 누구든지 적법한 직업, 거래 또는 어떤 종류의 사업을 행사하는 것을 제한당하는 모든 합의는,
+> 그 범위에서 무효이다.
+
+그다음 세 가지 예외, 그리고 그 밖에는 아무것도 없습니다:
+
+1. **영업권의 매도.** 사업의 영업권(goodwill)을 매도하는 자는, 매수인 또는 그 권리 승계인이
+   그곳에서 유사한 사업을 영위하는 한, 특정한 지역적 한계 내에서 유사한 사업을 영위하지 않기로
+   합의할 수 있습니다 — *다만 그러한 한계가 사업의 성질에 비추어 법원에 합리적으로 보일 것을
+   조건으로 합니다.*
+2. **해산을 예상하는 파트너.** 파트너들은, 해산 시 또는 해산을 예상하여, 일부 또는 전부가
+   예외 1에 기술된 종류의 한계 내에서 유사한 사업을 영위하지 않기로 합의할 수 있습니다.
+3. **파트너십 존속 중의 파트너.** 파트너들은, 파트너십이 존속하는 동안 일부 또는 전부가
+   파트너십의 사업 외의 어떠한 사업도 영위하지 않기로 합의할 수 있습니다.
+
+그 목록을 다시 읽으십시오. **합리성은 한 번 등장하며**, 예외 1에 대한 단서(proviso)로서만
+등장합니다. 그것은 s.28 전체를 관통하는 일반적 기준이 아니며, 세 예외 모두에서 벗어나는
+제한을 구제하는 데 사용할 수도 없습니다.
+
+고용은 예외 중 하나가 아닙니다. 서비스 계약도, 유통계약도, 프랜차이즈도, 파트너십의
+파트너가 아닌 사람들 사이의 주주 간 계약도 아닙니다. 대부분의 발간된 말레이시아 안내는
+경업금지가 합리적으로 작성되면 집행 가능하다고 기술합니다; 조문은 그것을 뒷받침하지 않습니다.
+신중하게 한정된 제한과 터무니없이 과도한 제한은 같은 운명을 맞습니다, "그 범위에서 무효"는
+제한을 보는 것이지 그 폭을 보는 것이 아니기 때문입니다.
+
+s.28을 견뎌 내는 것은 거래의 행사를 제한하지 않는 모든 것입니다: 비밀유지 의무, 영업비밀의
+보호, 사용자 자신의 고객이나 직원에 대한 유인 금지 — 그리고 관계 이후가 아니라 관계
+**존속 중에** 작동하는 제한, 왜냐하면 고용된 사람은 그로써 거래를 행사하는 것이 제한되지
+않기 때문입니다.
+
+## 이 법이 조용히 죽이는 그 밖의 조항은?
+
+**Section 29 — 법적 절차의 제한.** 당사자가 통상적 법원에서 통상적 법적 절차로 자신의 권리를
+행사하는 것을 절대적으로 제한하거나, **또는 그가 그렇게 권리를 행사할 수 있는 기간을
+제한하는** 모든 합의는, 그 범위에서 무효입니다.
+
+그 두 번째 부분이 사람들이 놓치는 것입니다. 청구가 90일 이내에 제기되어야 한다는 조항은
+시효기간의 계약적 단축이며, s.29는 정확히 그것을 겨냥합니다.
+
+s.29에 대한 예외 1은 장래 분쟁에 대한 중재 합의를 보존하고; 예외 2는 이미 발생한 분쟁을
+중재하기로 하는 서면 합의를 보존합니다. 이것이 2005년 중재법(Arbitration Act 2005)이 놓여
+있는 법정 토대입니다 — 중재는 법원 관할의 배제가 아닙니다, s.29가 그렇지 않다고 말하기
+때문입니다.
+
+**Section 30 — 불확실성.** 그 의미가 확실하지 않거나 확실하게 될 수 없는 합의는 무효입니다.
+가격을 합의하기로 하는 합의를 담은 예비 조건서(heads of terms)가 여기서 실패합니다.
+
+**Section 75 — 위반에 대해 정해진 금액.** 계약이 위반 시 지급할 금액을 정하거나, 위약금
+성격의 다른 규정을 담고 있는 경우, **실제 손해나 손실이 입증되었는지 여부와 관계없이** 무고한
+당사자는 정해진 금액을 초과하지 않는 합리적 배상을 받을 권리가 있습니다.
+
+집행 가능한 손해배상액 예정 조항과 집행 불가능한 위약금 사이의 영국식 구별은 이곳에
+존재하지 않습니다. 대신 정해진 금액은 상한으로 전환되고, 법원은 그 아래에서 합리적이라고
+보는 금액을 부여합니다. 설명(Explanation)은 채무불이행일부터의 증가된 이자에 대한 규정 자체가
+위약금일 수 있다고 덧붙입니다. 말레이시아 법원은 합리성이 어떻게 평가되는지에 관하여 상당한
+해석을 발전시켜 왔으며, 그 해석은 성문법이 아니라 판례법입니다.
+
+## 집행 가능한 계약이 전혀 없다면 어떻게 되는가?
+
+두 조항이 화려하지 않은 많은 일을 합니다.
+
+**Section 66:** 합의가 무효임이 발견되거나 계약이 무효가 되었을 때, 그에 따라 이익을 받은
+사람은 누구든 그것을 반환하거나 그에 대해 보상해야 합니다. 이것은 계약이 불확실성, 위법성
+또는 요구되는 승인의 부재로 실패할 때의 원상회복 경로입니다.
+
+**Section 71:** 어떤 사람이 다른 사람을 위해 적법하게 무언가를 하고, 무상으로 할 의도가 아니며,
+그 다른 사람이 그 이익을 누린 경우, 후자는 보상하거나 반환해야 합니다. 그것은 결코 체결되지
+않은 계약 하에서 이루어진 작업에 대한 청구입니다 — 의향서(letter-of-intent) 문제, 이메일로
+진행된 거래입니다.
+
+Section 74는 계약이 *체결되고* 위반된 경우의 손해배상을 규율합니다: 사물의 통상적 경과에서
+자연스럽게 발생하는 손실, 또는 당사자들이 계약 당시 발생할 가능성이 있다고 알았던 손실에
+대한 배상 — s.74(2)는 원격적·간접적 손실을 제외하고, 설명은 손해경감 의무를 도입합니다.
+
+## 흔한 실수
+
+**s.28을 합리성 기준으로 취급하는 것.** 그렇지 않습니다. 더 좁은 경업금지를 작성한다고 해서
+그것이 어느 예외 안으로 옮겨지지 않으며, 분리가능성 조항은 그것에 적용되지 않는 예외 안으로
+합의를 분리할 수 없습니다.
+
+**싱가포르에서 통하는 템플릿이 여기서도 통한다고 가정하는 것.** 싱가포르는 거래 제한에 관하여
+영국 보통법을 유지했습니다. 말레이시아는 성문화했습니다. 두 관할은 같은 조항에 대해 정반대의
+답에 이릅니다.
+
+**계약상 시효기간에 의존하는 것.** Section 29는 권리 행사 기간을 제한하는 합의를 무효로
+합니다. 90일 청구 통지 조항은 법정 6년의 안전한 대체물이 아닙니다.
+
+**손해배상액 예정 금액을 권리로 주장하는 것.** s.75 하에서 그 금액은 최대치입니다. 그래도
+손실 증거를 가져오십시오; 조문은 입증이 필요하지 않다고 말하지만, 합리성은 여전히 법원에
+보여야 합니다.
+
+**시효가 지역적이라는 것을 잊는 것.** 1950년 계약법은 말레이시아 전역에 적용됩니다. 1953년
+시효법은 반도 말레이시아에만 적용됩니다(s.1(2)) — 사바와 사라왁은 별도의 조례를 두고 있고,
+s.4는 시효가 명시적으로 항변되어야 하며 그렇지 않으면 전혀 장애가 되지 않는다고 요구합니다.
+
+**오래된 채무를 지급하겠다는 서명되지 않은 약속을 무가치한 것으로 취급하는 것.** Section
+26(c)는 그것이 서면이고 서명된 경우 계약으로 만듭니다.
+
+## 다음 단계
+
+계약이 주주 간 계약이라면 제약이 또 다릅니다 — 회사법(Companies Act 2016)은 어떠한 사적
+약정도 회사 자체에 대해 할 수 있는 바를 제한합니다. 계약이 위반되고 돈을 지급해야 한다면,
+지급 요구서(letter of demand)부터 위로 올라가는 단계적 대응을 누군가에게 위임하기 전에 이해할
+가치가 있습니다. 그리고 분쟁 조항이 법원이 아니라 AIAC를 가리킨다면, 그 선택은 당신의 재판지만
+아니라 상소권을 결정합니다.

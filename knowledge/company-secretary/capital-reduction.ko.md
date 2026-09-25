@@ -1,0 +1,323 @@
+---
+topicId: MY-CS-0042
+title: "주식자본의 감소: 법원 경로와 지급능력 진술서 경로"
+seoTitle: "말레이시아 자본감소: s.116 대 s.117"
+slug: "capital-reduction"
+category: "company-secretary"
+subcategory: ["share-capital"]
+summary: "말레이시아 회사가 제116조에 따른 법원의 확인 또는 제117조에 따른 지급능력 진술서로 주식자본을 어떻게 감소시키는지, 6주간의 채권자 이의제기 기간, 그리고 허위 지급능력 진술서에 따르는 5년 징역의 위험."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "회사법(Companies Act 2016) 제115조에 따라 회사는 제116조에 따라 법원이 확인한 특별결의로, 또는 제117조에 따라 지급능력 진술서로 뒷받침된 특별결의로 주식자본을 감소시킬 수 있습니다. 지급능력 진술서 경로는 모든 이사의 서명, 결의로부터 7일 이내에 등록관 및 말레이시아 국세청(LHDN)에 대한 통지, 7일 이내의 신문 공고, 6주간의 채권자 이의제기 기간, 그리고 결의로부터 6주 후 8주 전 사이의 제출을 요구합니다. 합리적 근거 없이 서명한 이사는 최고 5년의 징역 또는 RM500,000의 벌금에 처해집니다."
+keyTakeaways:
+  - "Two routes only: s.116 court confirmation or s.117 solvency statement, both on a special resolution"
+  - "The solvency route needs ALL directors to make the statement — s.113(2)(a)"
+  - "Notice to the Registrar and to LHDN within 7 days of the resolution — s.117(1)(a)"
+  - "Newspaper advertisement in one Malay and one English paper within 7 days — s.117(10)"
+  - "Creditors have six weeks from the resolution to apply to Court to cancel it — s.118(2)"
+  - "Lodgement window is after six weeks and before eight weeks from the resolution — s.119(1)"
+  - "s.114 and s.121 both carry up to five years' imprisonment for false statements"
+appliesTo: "Directors, shareholders and advisers of Malaysian companies returning capital to shareholders or writing off lost paid-up capital."
+
+faq:
+  - q: "How can a Malaysian company reduce its share capital?"
+    a: "Section 115 of the Companies Act 2016 gives two routes, unless the constitution provides otherwise. The first is a special resolution confirmed by the Court under s.116. The second is a special resolution supported by a solvency statement under s.117. There is no third route and no administrative shortcut."
+  - q: "Who has to sign the solvency statement?"
+    a: "All of the directors. Section 113(2)(a) requires the solvency statement to be made by all of the directors where the transaction relates to a reduction of share capital or a redemption of preference shares. A majority suffices only for financial assistance or a share buyback under s.113(2)(b). A single dissenting or absent director blocks the s.117 route."
+  - q: "How long do creditors have to object?"
+    a: "Six weeks. Section 118(2) allows any creditor of the company to apply to the Court for the resolution to be cancelled within six weeks from the date of the resolution. Section 117(5)(c) and (6)(b) require the solvency statement to be available for creditor inspection at the registered office free of charge for the same six-week period."
+  - q: "What is the penalty for a false solvency statement?"
+    a: "Section 114 makes a director who makes a solvency statement without having reasonable grounds for the opinion expressed liable on conviction to imprisonment for up to five years, or a fine up to RM500,000, or both. Section 121 separately targets the confirmation statement under s.119(2)(a), with imprisonment up to five years or a fine up to RM3 million or both."
+  - q: "Does the reduction need a solvency statement in every case?"
+    a: "No. Section 117(4) disapplies the solvency requirements where the reduction is solely by way of cancellation of paid-up share capital which is lost or unrepresented by available assets. That is the write-off case, where no value leaves the company."
+  - q: "When does the reduction actually take effect?"
+    a: "Under the court route, s.116(6) provides that the resolution as confirmed by the order takes effect upon lodgement of the order with the Registrar. Under the solvency route, s.119(3) provides that the reduction takes effect when the Registrar has recorded the information lodged in the appropriate register."
+
+verificationNeeded:
+  - "Whether SSM prescribes a specific form or template for the solvency statement under s.113(1)(a), which requires it to be made in a manner as may be determined by the Registrar — no published template was located"
+
+obligations:
+  - what: "Send notice of the capital reduction resolution to the Registrar and to the Director General of Inland Revenue"
+    trigger: "change"
+    withinDays: 7
+    due: "within 7 days of the date of the resolution"
+    authority: "SSM and LHDN"
+    statute: "Companies Act 2016, s.117(1)(a)"
+    consequence: "The s.117 route is unavailable and the reduction cannot take effect under s.119"
+  - what: "Advertise the notice of reduction of share capital in one Malay-language and one English-language newspaper"
+    trigger: "change"
+    withinDays: 7
+    due: "not later than 7 days from the date of the passing of the special resolution"
+    authority: "Public notice"
+    statute: "Companies Act 2016, s.117(10)"
+    consequence: "Offence by the company and every officer in default under s.117(11)"
+  - what: "Make the solvency statement available at the registered office for creditor inspection"
+    trigger: "change"
+    withinDays: 42
+    due: "for a period of six weeks from the date of the resolution"
+    authority: "Company (to creditors)"
+    statute: "Companies Act 2016, s.117(5)(c) and (6)(b)"
+    consequence: "Offence by every officer in default under s.117(7); the resolution itself is not invalidated"
+  - what: "Lodge the resolution, solvency statement, directors' confirmation and notice of reduction"
+    trigger: "change"
+    due: "after the end of six weeks and before the end of eight weeks from the date of the resolution"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.119(1)"
+    consequence: "The reduction does not take effect until the Registrar records the information"
+  - what: "Lodge a Court order cancelling the resolution"
+    trigger: "change"
+    withinDays: 14
+    due: "within 14 days from the date the order is made"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.120(4)"
+    consequence: "Offence by the company and every officer in default under s.120(6)"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.112–122"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+    date: "2022-08-01"
+  - title: "Companies Act 2016 (Act 777) — ss.292 and 316 on special resolutions and notice"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+    date: "2022-08-01"
+  - title: "SSM Table of Fees — Registration of Companies"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
+    publisher: "SSM"
+    date: "2024-10-01"
+
+entity: "Reduction of share capital"
+relations:
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "administered-by", to: "ssm" }
+  - { rel: "related-to", to: "dividends-and-solvency" }
+related: ["dividends-and-solvency", "share-allotment", "share-capital-malaysia", "written-resolutions", "resolution-notice-periods"]
+keywords: ["capital reduction Malaysia", "solvency statement section 117", "reduce share capital Sdn Bhd", "section 116 court confirmation", "creditor objection six weeks"]
+---
+
+말레이시아의 회사 비서 관련 콘텐츠는 납입자본을 고정된 숫자로 취급합니다 — 설립
+시 정하고, 은행이 요청할 때 보충하며, 그 뒤로는 결코 건드리지 않는 것으로 말입니다.
+회사법(Companies Act 2016)은 그것을 다시 빼내는 두 가지 완전한 절차를 제공하며,
+그중 하나는 법원이 전혀 필요하지 않습니다. 또한 지급능력 판단을 잘못하는 것에 대해
+5년의 징역형을 부과하는데, 아마도 그것이 아무도 이에 대해 쓰지 않는 이유일 것입니다.
+
+## 두 가지 경로
+
+제115조는 짧고 완결적입니다. 정관이 달리 규정하지 않는 한, 회사는 다음의 방법으로
+주식자본을 감소시킬 수 있습니다.
+
+- **(a)** 제116조에 따른 특별결의와 법원의 확인; 또는
+- **(b)** 제117조에 따른 지급능력 진술서로 뒷받침된 특별결의.
+
+어느 쪽이든 **특별결의** — 75% — 가 필요하며, 회의에서 통과되는 경우 제292(1)조에
+따라 21일의 통지가, 사회사가 서면으로 하는 경우 제292(2)조의 표기 요건과 함께
+제292(1)(b)조에 따릅니다. 자본감소는 제297(2)조가 서면 경로에서 금지하는 두 사항에
+해당하지 **않으므로**, Sdn Bhd는 서면 특별결의로 이를 할 수 있습니다.
+
+제116(11)조는 무한회사를 법원 경로에서 제외하면서도 어떠한 방법으로든 자본을
+감소시킬 자유를 보존합니다.
+
+## 감소가 실제로 할 수 있는 것
+
+제116(1)조는 세 가지 형태를 열거하며, 이들은 개념적으로 서로 다른 거래입니다.
+
+| 형태 | 효과 | 가치가 유출되는가? |
+| --- | --- | --- |
+| 미납입 자본에 대한 책임을 소멸 또는 감소 | 주주를 납입 청구에서 해방 | 현금은 아니나 청구권이 소멸됨 |
+| **손실되었거나 이용 가능한 자산으로 표시되지 않는** 납입자본을 취소 | 대차대조표를 현실에 맞춤 | 아니오 |
+| 회사의 **필요를 초과하는** 납입자본을 반환 | 현금을 지급함 | 예 |
+
+가운데 것이 처리 방식이 전반적으로 다른 상각(write-off) 사례입니다. **제117(4)조**에
+따라 감소가 **오로지** 손실되었거나 표시되지 않는 납입자본의 취소인 경우, 회사는
+지급능력 요건을 전혀 충족할 필요가 없습니다. 아무것도 분배되지 않으므로 채권자를
+보호할 대상이 없습니다.
+
+## 첫 번째 경로: 제116조에 따른 법원의 확인
+
+법원 경로는 더 느리고 더 비쌉니다. 이는 회사가 정직하게 지급능력 진술서를 뒷받침할
+수 없거나, 채권자의 동의가 다투어지거나, 계획이 명령의 확실성을 원할 만큼 복잡한
+경우에 올바른 선택입니다.
+
+제116(2)조는 감소가 미납입 자본에 대한 책임의 축소 또는 주주에 대한 납입자본의
+지급을 수반하는 경우, 그리고 그 밖의 경우에는 법원이 그렇게 지시하는 경우에 채권자
+절차를 작동시킵니다. 법원이 정한 날에 증명으로 인정 가능한 청구권을 가진 모든
+채권자는 **이의를 제기**할 수 있습니다. 법원은 그러한 채권자가 없다는 점에 대해
+선서진술서로 만족하지 않는 한 이의를 제기할 권리가 있는 자의 **목록을 확정**합니다.
+목록에 오른 채권자가 동의를 보류하는 경우, 회사가 그 채무를 담보하면 법원은 그
+동의를 **면제**할 수 있습니다. 제116(3)조는 특별한 사정이 있으면 법원이 어떤
+종류의 채권자에 대해서든 그 절차를 적용 배제할 수 있도록 합니다.
+
+제116(4)조에 따라 법원은, 이의를 제기한 각 채권자가 동의했거나 그 청구권이
+변제·확정·담보되었다는 점에 만족하면, 적절하다고 판단하는 조건으로 감소를 확인할
+수 있습니다. 제116(5)조는 명령이 변경된 주식자본, 주식 수, 각 주식에 납입된 것으로
+간주되는 금액을 명시하도록 요구합니다.
+
+감소는 **명령을 등록관에게 제출한 때** 효력이 발생합니다 — 제116(6)조. 제116(7)조는
+등록관의 통지를 준수의 확정적 증거로 만들고, 제116(8)조는 명시된 항목이 정관의
+대응 항목을 대체하는 것으로 간주합니다.
+
+제116(9)조는 절차를 알지 못하여 목록에서 누락된 채권자를 보호합니다. 회사가 나중에
+지급할 수 없게 되면, 명령이 제출된 때 구성원이었던 모든 사람은 그 전날 청산 시
+부담했을 금액까지 출연하도록 요구될 수 있습니다.
+
+그리고 제116(12)조는 형사적 안전장치입니다 — 채권자의 이름을 고의로 은닉하거나,
+청구권의 성질 또는 금액을 고의로 허위 표시하거나, 그러한 행위를 방조·교사하는 임원은
+최고 **5년의 징역 또는 최고 RM3 million의 벌금 또는 병과**에 처해집니다.
+
+## 두 번째 경로: 제117조에 따른 지급능력 진술서
+
+이것은 대부분의 사회사가 사용할 경로이며, 심리가 아니라 엄격한 일정입니다.
+
+**1단계 — 지급능력 진술서.** 제113(2)(a)조에 따라, 주식자본 감소의 경우 진술서는
+**모든 이사**가 작성해야 합니다. 과반수는 제113(2)(b)조에 따른 재정적 지원과 자기주식
+취득에만 충분합니다. 서명하지 않으려는 이사 한 명이 제117조 경로를 끝냅니다.
+
+제113(1)조는 진술서가 등록관이 정하는 방식으로 작성되고, 그 날짜와 이를 작성하는
+각 이사의 성명을 기재하며, 이들 각자가 서명하고, 이사들이 회사의 업무를 조사했다는
+선언으로 뒷받침되도록 요구합니다. 제113(4)조는 그 조사를 정의합니다. **우발** 채무를
+포함한 **모든** 채무를 고려한, 회사의 업무 상태와 전망입니다.
+
+**2단계 — 지급능력 판정 자체.** 제112(1)조는 모두 충족되어야 하는 세 가지 항목을
+정합니다.
+
+- **(a)** 거래 직후 회사가 채무를 지급할 수 없다고 인정될 근거가 없을 것;
+- **(b)** 거래로부터 12개월 이내에 의도된 청산의 개시로부터 12개월 이내에 회사가
+  채무를 전부 지급할 수 있거나, 그 밖의 경우 거래에 **바로 이어지는 12개월** 동안
+  채무가 만기가 될 때 이를 지급할 수 있을 것; 그리고
+- **(c)** 거래일에 **자산이 부채를 초과**할 것.
+
+(c)항은 대차대조표 판정이고 (b)항은 현금흐름 판정입니다. 둘 다 통과해야 합니다.
+
+**3단계 — 시기.** 제117(3)(b)조에 따라 진술서는 사회사의 경우 결의일로 끝나는
+**14일** 이내에, 공개회사의 경우 **21일** 이내에, 그리고 제117(5) 또는 (6)을 준수할
+수 있는 시간 내에 작성되어야 합니다. 진술서는 결의보다 나중 날짜일 수 없으며,
+오래된 것일 수도 없습니다.
+
+**4단계 — 7일 이내의 통지.** 제117(1)(a)조는 결의로부터 **7일** 이내에, 소득세법
+(Income Tax Act 1967) 제134조에 따라 **국세청장(Director General of Inland
+Revenue)**에게 **그리고** 등록관에게, 결의가 통과되었다는 사실을 밝히고 그 본문과
+날짜를 담은 통지를 요구합니다. 제117(3)(c)조에 따라 지급능력 진술서 사본을 그
+통지와 함께 제출합니다. LHDN 부분은 흔히 놓칩니다 — 주주에게 자본을 반환하는
+감소는 명백한 조세적 함의를 가지며, 이 법은 그 통지를 절차에 포함해 두었습니다.
+
+**5단계 — 열람 가능성.** 사회사의 경우, 제117(5)조는 특별결의가 서면으로 통과되는
+때에는 **송달되는 모든 사본에 지급능력 진술서 사본이 첨부**되도록 요구하고, 총회에서
+통과되는 때에는 진술서가 회의 내내 구성원의 열람에 제공되도록 요구합니다. 두 경우
+모두 제117(5)(c)조는 진술서가 결의일로부터 **6주간 모든 채권자의 무료 열람**을 위해
+등록사무소에 제공되도록 요구하고, 제117(6)조는 공개회사에 그와 동등한 것을 적용합니다.
+제117(7)조는 위반을 모든 임원의 위반으로 만들지만, 제117(8)조는 결의의 유효성을
+보존합니다.
+
+**6단계 — 7일 이내의 공고.** 제117(10)조는 회사가 특별결의 통과로부터 7일 이내에
+말레이시아에서 **널리 배포되는 말레이어 신문 하나와 널리 배포되는 영어 신문 하나**에
+감소에 관한 통지를 공고하도록 요구합니다. 제117(11)조는 위반을 위반으로 만듭니다.
+
+## 6주간의 채권자 기간
+
+제118(2)조는 모든 채권자가 **결의일로부터 6주 이내에** 결의의 취소를 법원에 신청할
+수 있도록 합니다. 제118(3)조는 신청일에 증명으로 인정 가능한 청구권을 기준으로,
+그날을 청산 개시일로 취급하여 자격 있는 채권자를 정의합니다. 제118(4)조에 따라
+채권자는 가능한 한 빨리 회사에 신청서를 송달하고, 그러면 회사는 가능한 한 빨리
+등록관에게 통지해야 합니다.
+
+제120(2)조는 법원이 언제 취소해야 하는지를 알려줍니다. 결의가 유지되고, 청구권이
+미변제 상태이며, 그 청구권이 다른 적절한 안전장치 없이 무담보이고 **그리고** 감소
+후 회사가 가지게 될 자산에 비추어 담보가 불필요하지 않다는 점 양쪽에 대해 법원이
+만족하는 경우입니다. 그렇지 않으면 제120(3)조에 따라 기각됩니다.
+
+법원이 취소하는 경우, 제120(4)조는 회사가 **14일** 이내에 명령 사본을 제출하도록
+요구합니다.
+
+## 제출 기간: 6주 후, 8주 전
+
+제119(1)조는 정확하며, 가장 놓치기 쉬운 기한입니다. 취소 신청이 없었던 경우, 회사는
+결의일로부터 **6주가 끝난 후 8주가 끝나기 전에** 다음을 등록관에게 제출합니다.
+
+- **(a)** 결의 사본;
+- **(b)** 해당하는 경우 지급능력 진술서 사본;
+- **(c)** 제117(1)조와, 해당하는 경우 제117(3)조의 지급능력 요건이 준수되었으며
+  취소 신청이 없었음을 확인하는 이사의 진술서; 그리고
+- **(d)** 제117(10)조의 신문 통지 사본.
+
+이는 **기한이 아니라 2주간의 기간**입니다. 6주간의 채권자 기간이 먼저 만료되어야
+하므로, 넷째 주에 제출하는 것은 아홉째 주에 하는 것만큼이나 잘못입니다. 신청이
+있었고 모두 종결된 경우, 제119(2)조는 마지막 신청이 종결된 날로부터 **14일**의
+기간을 주어 동등한 서류 묶음과 기각 명령 사본을 제출하도록 합니다.
+
+제119(3)조에 따라 감소는 **등록관이 적절한 등록부에 정보를 기록한 때** 효력이
+발생합니다 — 결의가 통과된 때도, 문서가 제출된 때도 아닙니다. 제119(4)조는
+등록관의 확인 통지를 준수의 확정적 증거로 만듭니다.
+
+## 이중으로 부과되는 이사의 책임
+
+두 개의 별도 위반이 제117조 경로를 양쪽에서 감쌉니다.
+
+**제114조** — 표명한 의견에 대해 **합리적 근거 없이** 지급능력 진술서를 작성한 이사:
+최고 **5년**의 징역, 최고 **RM500,000**의 벌금, 또는 병과.
+
+**제121조** — 허위이거나 진실이라고 믿지 않는 제119(2)(a)조 확인 진술서를 작성한
+이사: 최고 **5년**, 최고 **RM3 million**의 벌금, 또는 병과.
+
+제114조의 문구에 유의하십시오. 그것은 “허위 진술을 했다”가 아니라 — **합리적 근거
+없이** 진술을 하는 것입니다. 제113(4)조의 조사 없이 재무팀이 괜찮다고 했다는 이유로
+서명한 이사는, 회사가 결과적으로 지급능력을 유지했더라도 정확히 그 범위 안에
+있습니다.
+
+제122조는 반대 측면을 제한합니다. 과거 또는 현재의 구성원은 감소된 주식에 대해
+발행가와 납입금액 및 감소금액의 합계 사이의 차액을 초과하여 책임을 지지 않습니다.
+
+## 흔한 실수
+
+**이사의 과반수가 지급능력 진술서에 서명하는 것.** 제113(2)(a)조는 자본감소에 대해
+이사 전원을 요구합니다. 과반수는 재정적 지원과 자기주식 취득에 대한 제113(2)(b)조입니다.
+
+**LHDN 통지를 놓치는 것.** 제117(1)(a)조는 등록관과 나란히 국세청장을 명시하며, 같은
+7일 기한입니다.
+
+**너무 일찍 제출하는 것.** 제119(1)조는 6주째에 기간을 엽니다.
+
+**신문 둘 대신 하나만 하는 것.** 제117(10)조는 국어 신문 하나와 영어 신문 하나를
+요구합니다.
+
+**지급능력 진술서를 첨부하지 않고 서면 결의를 송달하는 것.** 제117(5)(a)조는
+송달되는 모든 사본에 하나씩 담을 것을 요구합니다.
+
+**상각 사례에 대해 지급능력 진술서를 진행하는 것.** 제117(4)조는 그 요건을, 그리고
+그와 함께 제114조의 책임 노출을 제거합니다.
+
+**특별결의를 곧 감소로 취급하는 것.** 그것은 법원 명령의 제출(제116(6)조) 또는
+등록관의 정보 기록(제119(3)조)에서만 효력이 발생합니다.
+
+**대차대조표만으로 지급능력을 판정하는 것.** 제112(1)조는 향후 12개월 현금흐름
+판정을 포함한 세 항목 모두를 요구합니다.
+
+## 다음 단계
+
+경로를 먼저 결정하십시오. 일정이 완전히 다릅니다. 회사가 세 항목 모두에서 정직하게
+제112(1)조를 충족할 수 있고 모든 이사가 서명할 것이라면, 제117조가 더 빠르고 더
+저렴합니다. 그렇지 않다면 정직한 답은 제116조 — 또는 아예 감소하지 않는 것입니다.
+
+다르고 더 좁은 판정을 사용하는, 배당에 관한 병렬적 지급능력 판단은
+`dividends-and-solvency`를 참조하십시오. 자본을 반환하는 것이 아니라 발행하는
+것은 `share-allotment`를 참조하십시오.

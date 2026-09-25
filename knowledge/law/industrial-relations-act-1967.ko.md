@@ -1,0 +1,207 @@
+---
+topicId: MY-LAW-0075
+title: "노사관계법 1967: 노동조합과 부당해고"
+seoTitle: "말레이시아 노사관계법 1967: 노동조합 및 부당해고"
+slug: "industrial-relations-act-1967"
+category: "law"
+subcategory: ["buruh"]
+summary: "노사관계법 1967(Industrial Relations Act 1967)은 노동조합의 인정, 단체교섭, 그리고 산업법원(Industrial Court)에서의 정당한 사유 없는 해고 청구를 규율합니다 — 고용법 1955(Employment Act 1955)가 다루지 아니하는 노동관계의 층위입니다."
+
+tier: "1"
+mode: "practical"
+contentType: "law"
+sensitivity: "none"
+
+answer: "노사관계법 1967(Industrial Relations Act 1967, APP 1967)은 말레이시아의 집단적 노사관계를 규율하는 주된 법률입니다. 즉 노동조합이 인정을 얻는 방식(제9조), 단체교섭 및 단체협약(제13조~제14조), 그리고 제20조에 따른 '정당한 사유나 이유 없는' 해고 청구입니다. 그것은 임금 상한 없이 모든 'workman'을 보호하며, 청구는 해고일로부터 60일 이내에 제기되어야 합니다. 2021년 1월 1일부터, 노사관계국장(Ketua Pengarah Perhubungan Perusahaan)은 해결에 실패한 사건을 장관의 재량 없이 곧바로 산업법원으로 회부합니다."
+keyTakeaways:
+  - "Seksyen 20 membenarkan mana-mana workman yang dibuang kerja 'tanpa sebab atau alasan yang adil' membuat representasi; tempoh had 60 hari dari tarikh pembuangan di bawah seksyen 20(1A)."
+  - "Pindaan 2020 (berkuat kuasa 1 Januari 2021) memansuhkan budi bicara Menteri — KPPP kini merujuk kes yang gagal diselesaikan terus ke Mahkamah Perusahaan."
+  - "Remedi utama ialah pengembalian kerja (reinstatement); jika tidak sesuai, gaji tertunggak dihadkan 24 bulan (pekerja disahkan) atau 12 bulan (dalam percubaan) di bawah Jadual Kedua."
+  - "Pampasan sebagai ganti pengembalian dikira satu bulan gaji terakhir bagi setiap tahun perkhidmatan lengkap (Nota Amalan No. 1 Tahun 1987)."
+  - "APP 1967 melindungi semua workman tanpa had gaji — berbeza dengan Akta Kerja 1955 yang mempunyai skop tersendiri."
+appliesTo: "Pekerja yang dibuang kerja, majikan, wakil sumber manusia, kesatuan sekerja, dan peguam yang mengendalikan pertikaian perhubungan perusahaan di Malaysia."
+
+faq:
+  - q: "Berapa lama masa untuk memfailkan tuntutan pembuangan kerja tidak adil?"
+    a: "60 hari dari tarikh pembuangan kerja, di bawah seksyen 20(1A). Representasi difailkan di mana-mana pejabat Jabatan Perhubungan Perusahaan (JPP). Tempoh ini ketat dan kelewatan boleh menyebabkan tuntutan ditolak."
+  - q: "Adakah saya perlu ahli kesatuan atau bergaji rendah untuk membuat tuntutan seksyen 20?"
+    a: "Tidak. Seksyen 20 terpakai kepada semua 'workman' tanpa mengira gaji atau keahlian kesatuan. APP 1967 tidak mengenakan had gaji ke atas takrif workman, jadi eksekutif dan pengurus juga boleh menuntut."
+  - q: "Apakah remedi yang boleh diberikan Mahkamah Perusahaan?"
+    a: "Remedi utama ialah pengembalian kerja. Jika pengembalian tidak sesuai, mahkamah memberi gaji tertunggak (maksimum 24 bulan bagi pekerja disahkan, 12 bulan bagi pekerja percubaan) dan pampasan sebagai ganti pengembalian (satu bulan gaji setiap tahun perkhidmatan lengkap)."
+  - q: "Siapa yang merujuk kes ke Mahkamah Perusahaan sekarang?"
+    a: "Sejak 1 Januari 2021, Ketua Pengarah Perhubungan Perusahaan (KPPP) merujuk kes yang gagal diselesaikan semasa perdamaian terus ke Mahkamah Perusahaan. Budi bicara Menteri Sumber Manusia telah dimansuhkan oleh pindaan 2020."
+  - q: "Bagaimana kesatuan sekerja memperoleh pengiktirafan?"
+    a: "Kesatuan menyerahkan tuntutan pengiktirafan kepada majikan. Majikan mesti, dalam tempoh 21 hari di bawah seksyen 9(3), sama ada mengiktiraf kesatuan atau memberitahu secara bertulis alasan penolakan. Jika ditolak, perkara dirujuk kepada KPPP yang boleh mengadakan undian sulit dan menyemak kekompetenan kesatuan melalui Ketua Pengarah Kesatuan Sekerja."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+publishedBy: "ashton-tan"
+reviewer: null
+reviewed: 2026-08-14
+reviewDue: 2027-08-08
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-14
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-14
+sources:
+  - title: "Laws of Malaysia — Industrial Relations Act 1967 (Act 177), consolidated reprint (updated as at 1 November 2021)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690019_BI/010721_Act%20177_final.pdf"
+    publisher: "Attorney General's Chambers of Malaysia (lom.agc.gov.my)"
+  - title: "Malaysian Industrial Relations (Amendment) Act 2020 seeks to expedite dispute resolution process"
+    url: "https://www.allenandgledhill.com/publication/articles/15088/my_malaysian-industrial-relations-amendment-act-2020-seeks-to-expedite-dispute-resolution-process"
+    publisher: "Allen & Gledhill"
+  - title: "Amendments to the Industrial Relations Act 1967"
+    url: "http://shooklin.com.my/legal-update/amendments-to-the-industrial-relations-act-1967/"
+    publisher: "Shook Lin & Bok"
+  - title: "Unfair Dismissal Claims: What are the Available Reliefs?"
+    url: "https://www.thomasphilip.com.my/articles/unfair-dismissal-claims-what-are-the-available-reliefs/"
+    publisher: "Thomas Philip Advocates & Solicitors"
+  - title: "Case Spotlight - The Secret Ballot Process in Union Recognition"
+    url: "https://dnh.com.my/case-spotlight-the-secret-ballot-process-in-union-recognition/"
+    publisher: "Donovan & Ho"
+  - title: "Frequently Asked Questions (F.A.Q) — Industrial Court of Malaysia"
+    url: "https://www.mp.gov.my/index.php?option=com_sppagebuilder&view=page&id=23&Itemid=174&lang=en"
+    publisher: "Mahkamah Perusahaan Malaysia (Industrial Court of Malaysia)"
+
+entity: "Akta Perhubungan Perusahaan 1967"
+relations:
+  - { rel: "compares-with", to: "employment-act-1955" }
+  - { rel: "related-to", to: "trade-unions-act-1959" }
+  - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
+related: ["employment-act-1955"]
+keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
+---
+
+여러분은 오늘 아침 해고되면서 "성과 부진"이라는 말을 들었습니다 — 그러나 경고장도 없었고, 내부 조사도 없었으며, 스스로를 변호할 기회도 없었습니다. 말레이시아에서 이 상황에는 법적 명칭과 하나의 전용 심판 기구가 있습니다. 즉 노사관계법 1967(Industrial Relations Act 1967) 제20조에 따른 진정으로, 산업법원(Industrial Court)에서 심리됩니다. 이것이 고용법 1955(Employment Act 1955)가 다루지 아니하는 노동관계의 층위입니다.
+
+노사관계법 1967(APP 1967)은 사용자와 근로자 사이의 *집단적* 관계와 *분쟁*을 규율합니다. 즉 노동조합이 어떻게 인정받는지, 단체교섭이 어떻게 진행되는지, 그리고 일반인이 가장 자주 접하는 — 부당하다고 여겨지는 해고를 다툴 권리입니다. 이 안내서는 그 기제를 확인 가능한 조항 번호와 수치와 함께 단계별로 설명합니다.
+
+## APP 1967은 실제로 무엇을 규율하는가?
+
+APP 1967은 최저임금이나 연차 휴가의 목록이 아닙니다 — 그것은 고용법 1955의 소관입니다. 그 대신, APP 1967은 노사관계의 세 기둥에 집중합니다.
+
+- **노동조합의 인정**(제9조) — 어떤 노동조합이 특정 사업장에서 근로자를 대표할 권리를 얻는 절차.
+- **단체교섭 및 단체협약**(제13조~제14조) — 고용 조건이 집단적으로 교섭되어 단체협약으로 구속되는 방식.
+- **분쟁 해결 및 해고**(제20조, 제26조, 제30조) — "정당한 사유나 이유 없는" 해고 청구 및 산업법원의 판정 포함.
+
+자주 오해되는 중요한 구별이 하나 있습니다. 즉 APP 1967은 모든 **"workman"** — 제2조에서 근로 계약에 따라 고용된 자로 정의됨 — 을 **임금 상한 없이** 보호합니다. 이는 고임금의 고위 관리자나 임원이 해고되더라도, 그들이 고용법 1955의 특정 보호 범위 밖에 있을 수 있음에도 여전히 제20조 청구를 할 수 있음을 의미합니다.
+
+## 노동조합은 어떻게 인정을 얻는가?
+
+어떤 노동조합이 근로자를 대신하여 교섭할 수 있으려면, 먼저 인정받아야 합니다. 그 절차는 노동조합이 사용자에게 서면 인정 요구를 제출하는 것으로 시작됩니다.
+
+요구를 받은 사용자는 제9조 제3항에 따라 **21일** 이내에, 그 노동조합을 인정하거나 아니면 거부 사유를 노동조합에 서면으로 통지하여야 합니다. 그 후, 제9조 제4항은 노동조합에게 거부 또는 불이행을 노사관계국장(Ketua Pengarah Perhubungan Perusahaan, KPPP)에게 보고할 14일의 기간을 부여하며, 국장은 제9조에 따라 개입할 수 있습니다.
+
+이후 KPPP는 몇 가지 조사 권한을 가집니다.
+
+- 노동조합, 사용자 또는 사용자 단체에 관련 정보를 제출하도록 요구.
+- 노동조합이 해당 근로자 집단을 대표할 **자격(kekompetenan)**이 있는지 확인하기 위하여 노동조합국장에게 회부.
+- 기록을 검사하거나 **비밀 투표(secret ballot)를 실시**하기 위하여 사업장에 출입.
+
+비밀 투표는 KPPP가 노사관계규칙 2009(Peraturan-Peraturan Perhubungan Perusahaan 2009) 제6조부터 제13조까지에 따라 실시합니다. 제9조는 어떤 고정된 법정 지지 비율도 정하지 아니합니다 — 제9조 제4A항에 따라 KPPP는 비밀 투표를 통하여 노동조합을 지지하는 근로자의 비율을 확인하고, 제9조 제5항에 따라 다수를 기준으로 그 결정을 내립니다. 특정 수치는 사건마다 다릅니다. 즉 보고된 한 사건(Adabi Consumer Industries)에서는 근로자의 72% 이상이 비밀 투표를 통하여 노동조합원으로 확인되었습니다 — 이는 그 사건의 예시적 수치이며 강제적 최저 기준이 아닙니다. 인정이 부여되면, 사용자는 단체협약을 형성하기 위하여 성실히 교섭할 의무를 집니다.
+
+2020년 개정은 또한 제12A조 및 제12B조를 통하여 **"단독 교섭권"(sole bargaining rights)** 개념을 도입하였고, 경합하는 요구에 대한 차단 기간을 3년에서 1년으로 단축하였습니다.
+
+## "정당한 사유나 이유 없는 해고"란 무엇인가?
+
+이것이 일반 근로자가 가장 자주 접하는 APP 1967의 부분입니다. **제20조 제1항**에 따라, 어떤 workman이 자신이 사용자에 의해 **정당한 사유나 이유 없이**("without just cause or excuse") 해고되었다고 여기는 경우, 그는 자신의 직무로 복직시켜 달라는 진정을 할 수 있습니다.
+
+"정당한 사유나 이유 없는"이라는 문구가 핵심입니다. 사용자는 근로자가 해고되었다는 *사실*만이 아니라 *왜* 해고되었는지도 보여야 하며 — 그 사유는 정당하고 입증되어야 합니다. 정당한 사유를 입증할 부담은 사용자에게 있습니다.
+
+이 원칙은 **간주해고**(constructive dismissal)도 포함합니다. 즉 사용자가 계약의 기본 조건을 위반하여 근로자가 사직할 수밖에 없게 한 경우, 법은 그 사직을 해고로 취급할 수 있습니다.
+
+가장 명심하여야 할 결정적 사항은 **60일의 제척기간**입니다. 제20조 제1A항에 따라, 진정은 해고일로부터 **60일** 이내에 제기되어야 합니다. 그것은 사업장 인근의 어느 노사관계국(Jabatan Perhubungan Perusahaan, JPP) 사무소에든 제기됩니다. 이 기간을 놓치면 청구가 시작되기도 전에 종료될 수 있습니다.
+
+## 진정이 제기된 후에는 무슨 일이 일어나는가?
+
+제20조 절차는 몇 개의 명확한 단계를 거칩니다. 2020년 개정(**2021년 1월 1일** 시행)은 가장 중요한 단계 중 하나를 바꾸었습니다.
+
+| 단계 | 일어나는 일 | 근거 |
+|---|---|---|
+| 1. 진정 제기 | 근로자가 60일 이내에 JPP에 제기 | 제20조 제1A항 |
+| 2. 화해(conciliation) | KPPP가 사용자와 근로자의 화해를 시도 | 제20조 제2항 |
+| 3. 법원 회부 | 화해에 실패하면 KPPP가 곧바로 산업법원으로 회부 | 제20조 제3항 |
+| 4. 심리 및 판정 | 법원이 해고가 정당한지, 그리고 구제를 결정 | 제30조 |
+
+2020년 개정 이전에는, 세 번째 단계가 **인적자원부 장관의 재량**에 달려 있었습니다 — 장관이 사건을 산업법원으로 회부할지를 결정하였습니다. 이 재량은 **폐지**되었습니다. 이제 화해가 실패하면, KPPP는 판정을 위하여 진정을 곧바로 산업법원으로 회부하여야 **합니다**. 그 목적은 해결을 앞당기고 장관 단계에서의 지연을 없애는 것입니다.
+
+화해 회의 중에는, (개정된 후의) 제20조 제6항이 사용자와 근로자가 — 변호사와 사무 변호사를 제외하고 — KPPP의 서면 허가와 승인을 받아 누구에 의해서든 대리될 수 있도록 허용합니다.
+
+## 법원이 해고를 부당하다고 결정하면 어떤 구제가 있는가?
+
+산업법원이 해고가 정당한 사유 없이 이루어졌다고 인정하면, 제30조에 따라 구제를 부여할 권한을 가집니다. 세 가지 주요 형태가 있습니다.
+
+**1. 복직(reinstatement).** 이것이 제20조 제1항에 따른 주된 구제입니다 — 근로자를 원래의 직무로 돌려보내는 것입니다. 그러나 법원은 근로자가 이미 정년에 이른 경우, 노사관계가 심하게 훼손된 경우, 또는 그 직무가 더 이상 존재하지 아니하는 경우 복직을 거부할 수 있습니다.
+
+**2. 미지급 임금(backwages).** 해고일부터 판정일까지 상실한 소득에 대한 보상입니다. APP 1967 제2부칙에 따라, 미지급 임금은 다음과 같이 제한됩니다.
+
+| 근로자 범주 | 미지급 임금 최고 한도 |
+|---|---|
+| 정규 근로자(permanent) | 최종 임금의 24개월분 |
+| 수습 근로자(probationer) | 최종 임금의 12개월분 |
+
+법원은 근로자가 해고 후 소득을 얻은 경우, 또는 근로자의 행위가 분쟁에 기여한 경우 이 금액의 일부를 감액할 수 있습니다.
+
+**3. 복직에 갈음하는 보상(compensation in lieu of reinstatement).** 복직이 적절하지 아니한 경우에 부여됩니다. 그것은 1987년 실무 지침 제1호(Nota Amalan No. 1 Tahun 1987)에 따라 **완전 근속 연수마다 최종 임금 1개월분**으로 산정됩니다(이 실무 지침은 구속력 있는 법적 효력이 없으며 법원은 재량을 유지합니다). 법원은 제30조 제5항에 따라 "형평과 선량한 양심"에 근거하여 금액을 평가합니다.
+
+APP 1967 제2부칙에 따르면, 장래 소득의 상실(future earnings)에 대한 판정은 산업법원의 구제에 포함되지 아니합니다. 이 제2부칙은 2008년 2월 28일 시행된 Akta A1322(노사관계(개정)법 2007, Akta Perhubungan Perusahaan (Pindaan) 2007)에 의해 삽입되었으며, 미지급 임금을 최종 임금 기준으로 해고일로부터 24개월을 초과하지 아니하도록 제한합니다. 비용은 예외적인 경우가 아니면 좀처럼 부여되지 아니합니다.
+
+금전적 판정에 대해서는, 2020년 개정이 제30조 제1A항에 따라 **연 8%의 이자**를 도입하였으며, 이는 판정이 내려진 날로부터 31일째 되는 날부터 계산됩니다 — 사용자가 지급을 지체하지 아니하도록 하는 예방책입니다.
+
+## 산업법원의 판정을 항소할 수 있는가?
+
+가능하며, 2020년 개정이 이를 쉽게 하였습니다. 이전에는 산업법원의 판정을 다투는 유일한 방법이 고등법원에서의 사법 심사(judicial review)였으며 — 이는 본안이 아니라 법률상 또는 절차상 오류에 한정된 절차였습니다.
+
+(신설된) 제33C조는 이제 판정에 대하여 사전 허가를 요하지 아니하고 **14일** 이내에 제기하는 **고등법원으로의 직접 항소**를 허용합니다. 이는 사법 심사보다 넓은 "실질적 본안"에 대한 재심의 문을 엽니다.
+
+사용자가 판정이나 단체협약을 준수하지 아니하는 경우, (개정된 후의) 제56조는 불이행에 대한 벌금을 2천 링깃(RM2,000)에서 최고 **5만 링깃(RM50,000)**으로 인상하며, 범죄가 계속되는 매일마다 500링깃(RM500)을 초과하지 아니하는 추가 벌금을 부과합니다.
+
+## APP 1967 대 고용법 1955 — 무엇이 다른가?
+
+이 두 법은 자주 혼동됩니다. 요컨대, 고용법 1955는 개별 고용의 *최저 조건*을 정하는 반면, APP 1967은 부당해고를 포함한 *집단적 관계*와 *분쟁*을 관리합니다.
+
+| 측면 | APP 1967 | 고용법 1955 |
+|---|---|---|
+| 주된 초점 | 노동조합, 단체교섭, 분쟁, 부당해고 | 최저 조건: 임금, 휴가, 근로시간 |
+| 보호 대상 | 임금 상한 없는 모든 "workman" | 그 법에 따른 고유한 범위 |
+| 심판 기구 | 산업법원 | 노동법원 / 노동청 |
+| 해고 구제 | 복직, 미지급 임금, 보상 | 조건 관련 청구 |
+| 해고 기준 | "정당한 사유나 이유 없는" | — |
+
+대부분의 해고 청구에서 올바른 경로는 민사 청구나 노동법원이 아니라 산업법원에서의 APP 1967 제20조입니다.
+
+## 제20조 청구를 제기하여야 할까? 판단 틀
+
+여러분의 상황을 평가하기 위하여 이 간단한 틀을 사용하십시오.
+
+1. **여러분은 "workman"인가?** 근로 계약에 따라 일하고 있다면, 답은 거의 확실히 예입니다 — 임금 상한이 없습니다.
+2. **여러분은 "해고"되었는가?** 여기에는 직접 해고, 특정 상황에서의 계약 미갱신, 그리고 간주해고(사용자가 여러분을 그만두게 강요)가 포함됩니다.
+3. **사용자가 정당한 사유와 적절한 절차를 보였는가?** 내부 조사, 소명 요구서, 또는 변호 기회의 부재는 흔히 부당해고의 징표입니다.
+4. **아직 60일 이내인가?** 해고일로부터 60일이 넘었다면, 제20조 청구는 대개 차단됩니다.
+
+1, 2, 4에 대한 답이 "예"이고 3에 의문이 있다면, 제20조 청구를 진지하게 고려할 만합니다.
+
+## 피해야 할 흔한 실수
+
+- **60일 기간을 놓치는 것.** 이것이 가장 치명적인 실수입니다. 자문을 받은 날이 아니라 해고일로부터 계산하십시오.
+- **저임금 근로자만 보호된다고 여기는 것.** APP 1967은 임금 상한을 두지 아니합니다 — 임원과 관리자도 "workman"입니다.
+- **사용자가 내부 조사 없이 해고하는 것.** 비위 사건의 경우, 공정한 사내 조사의 부재는 그 비위가 사실이더라도 흔히 해고를 무효로 만듭니다.
+- **사직이 문을 닫는다고 가정하는 것.** 사용자의 위반으로 인한 사직은 간주해고로 취급될 수 있습니다.
+- **미지급 임금과 보상을 혼동하는 것.** 미지급 임금(24/12개월 한도)과 복직 갈음 보상(연 근속마다 1개월분)은 함께 부여될 수 있는 두 개의 별개 항목입니다.
+- **사용자가 판정 지급을 지연하는 것.** 이제 연 8% 이자가 31일째부터 적용되므로, 지연은 비용을 늘립니다.
+
+## 다음 단계
+
+여러분이 막 해고되었다면, 가장 시급한 조치는 달력에 **60일째의 마감일**을 표시하고 서류 — 채용 통지서, 급여 명세서, 해고 통지서, 그리고 내부 조사 기록 일체 — 를 모으는 것입니다. 제20조 진정은 어느 노사관계국 사무소에든 제기할 수 있습니다.
+
+여러분이 사용자 또는 인적자원 담당자라면, 여러분의 해고 절차에 입증 가능한 사유와 공정한 절차가 있는지 확인하십시오 — 산업법원에서 입증 부담은 여러분에게 있고, 2021년 개정이 사건의 법원행 경로를 앞당겼기 때문입니다.
+
+전체 그림을 이해하려면, **고용법 1955**(고용의 최저 조건), **노동조합법 1959(Akta Kesatuan Sekerja 1959)**(노동조합의 등록 및 지배구조), 그리고 **말레이시아 산업법원(Mahkamah Perusahaan Malaysia)**의 절차에 관한 관련 안내서를 읽으십시오. 특정 사건에 대해서는 노사관계를 다루는 변호사의 자문을 받으십시오 — 이 안내서는 일반 정보이며 법률 자문이 아닙니다.

@@ -1,0 +1,353 @@
+---
+topicId: MY-BIZ-0019
+title: "라부안 회사 대 Sdn Bhd: 라부안이 잘못된 답일 때"
+seoTitle: "라부안 회사 대 Sdn Bhd: 솔직한 비교"
+slug: "labuan-company-vs-sdn-bhd"
+category: "business"
+subcategory: ["choosing-a-structure"]
+summary: "라부안 회사가 법적 실체로서 무엇인지, LBATA 실질(substance) 요건이 실제로 무엇을 요구하는지, 어떤 온쇼어 제한이 살아남고 어떤 것이 폐지된 법인지, 그리고 Sdn Bhd가 그저 더 나은 구조인 경우를 다룹니다."
+
+tier: "1"
+mode: "practical"
+contentType: "comparison"
+sensitivity: "none"
+
+answer: "라부안 회사는 라부안회사법 1990(Labuan Companies Act 1990)에 따라 설립되며, SSM이 아니라 라부안 FSA가 규제하고, 등록 사무소와 상주 비서를 공급하는 라부안 신탁회사(trust company)를 통해 관리되어야 합니다. 제7조 (1)항은 여전히 라부안 안에서, 라부안으로부터, 또는 라부안을 통해서만 사업을 영위할 것을 요구합니다. 실질 규칙은 라부안에 실제 직원과 지출을 요구합니다. 고객, 직원, 라이선스가 반도에 있는 사업이라면, Sdn Bhd가 대개 올바른 답입니다."
+keyTakeaways:
+  - "A Labuan company is registered with Labuan FSA under the Labuan Companies Act 1990, not with SSM under the Companies Act 2016"
+  - "s.85 and s.93: the registered office must be the principal office of a Labuan trust company, and the resident secretary must come from one — you cannot self-administer"
+  - "s.7(1) survives: a Labuan company shall carry out business only in, from or through Labuan"
+  - "The ringgit ban and the 10-working-day resident-dealing notification in s.7(4)–(6) were repealed by Act A1653, deemed in force from 1 January 2019"
+  - "Act A1756 (2025) now allows share capital to be expressed in any currency — Labuan FSA's own published texts still show the old rule"
+  - "LBATA s.2B requires full-time employees and annual operating expenditure in Labuan, plus control-and-management conditions since 1 January 2021"
+  - "Since P.U.(A) 325/2025 those employees must be 'fit and proper' full-time employees — physically working in Labuan, with relevant competency and no conflicting duties"
+  - "s.109(3): the annual return is due 30 days BEFORE the incorporation anniversary — the opposite direction to a Sdn Bhd"
+appliesTo: "Founders and advisers weighing a Labuan company against a Malaysian Sdn Bhd for holding, trading, licensing or regional service businesses."
+
+faq:
+  - q: "Can a Labuan company do business with people in Malaysia?"
+    a: "Yes, and the old restrictions no longer apply. Section 7(2) of the Labuan Companies Act 1990 permits a Labuan company to carry on business with a resident, and the Labuan Companies (Amendment) Act 2022 (Act A1653) deleted subsections 7(4), (5) and (6) — the ringgit prohibition and the requirement to notify Labuan FSA within ten working days of transactions with residents. That deletion is deemed to have come into operation on 1 January 2019. What survives is s.7(1): a Labuan company shall carry out business only in, from or through Labuan. That is an operating-location requirement, and it is reinforced by the substance rules, not a customer-location one."
+  - q: "Is it true a Labuan company cannot transact in ringgit?"
+    a: "No — that is repealed law. Section 7(4) contained the ringgit restriction and was deleted by Act A1653. Labuan FSA's own consolidated text of the Act on its website, dated 23 August 2022, still prints subsections 7(4) to (6), which is why the claim keeps circulating. Read the amending Act, not the consolidation."
+  - q: "What are the Labuan substance requirements?"
+    a: "Section 2B of the Labuan Business Activity Tax Act 1990 requires a Labuan entity to have an adequate number of full-time employees in Labuan and an adequate amount of annual operating expenditure in Labuan, as prescribed by regulations, and for non-trading activity also to satisfy control-and-management conditions. The current regulations are the Labuan Business Activity Tax (Requirements for Labuan Business Activity) Regulations 2021, P.U.(A) 423/2021, effective from 1 January 2019, with the control-and-management conditions deemed in operation from 1 January 2021. Since P.U.(A) 325/2025 (gazetted 2 September 2025), the schedule headings require a minimum number of 'fit and proper full-time employees in Labuan' — the employee must perform work aligned with the entity's activity, have adequate competency, have no conflicting personal interests, be permanently or contractually employed by the entity, and physically carry out the work in Labuan; LHDN issued implementing guidelines dated 5 November 2025. Failing the substance requirements charges the entity at 24 per cent on chargeable profits under s.2B(1A)."
+  - q: "What are the control and management conditions?"
+    a: "Labuan FSA's circular on P.U.(A) 423/2021 lists four: a meeting of the board of directors convened in Labuan at least once a year; the registered office situated in Labuan; the secretary appointed under the Labuan Companies Act 1990 resident in Labuan; and accounting and business records, including board minutes, kept in Labuan. These took effect on 1 January 2021."
+  - q: "Do I need a Labuan trust company?"
+    a: "In practice, yes. Section 85(1) requires every Labuan company to have a registered office in Labuan which shall be the principal office of a Labuan trust company. Section 93(1) requires at least one resident secretary, and s.93(2) restricts who may act as one — essentially an officer of an approved Labuan trust company, a Labuan company, or a domestic company wholly owned by the trust company. There is no self-administered Labuan company."
+  - q: "Does a Labuan company need an audit?"
+    a: "Not automatically. Section 113(1) says a Labuan company is not required to appoint auditors unless another written law in Labuan on financial services requires it, its articles so provide, or it makes a public offer of securities under the Labuan Financial Services and Securities Act 2010. Section 113(1A) lets Labuan FSA compel an audit where it finds a breach of s.110 or s.111 or considers it in the public interest. Separately, the LBATA charging mechanism works off audited accounts, so most entities that want the preferential regime audit anyway."
+  - q: "Can a Labuan company hire staff on the peninsula?"
+    a: "It can employ people, but the substance regime counts employees in Labuan, not employees in Kuala Lumpur. Section 2B of the LBATA is written around full-time employees in Labuan and operating expenditure in Labuan, and the control-and-management conditions locate the board meeting, registered office, secretary and records in Labuan. A structure staffed entirely on the peninsula is the classic substance failure."
+
+verificationNeeded: []
+
+obligations:
+  - what: "Lodge the Labuan company annual return"
+    trigger: "anniversary"
+    due: "once in each calendar year, not later than 30 days prior to the anniversary of the date of incorporation"
+    authority: "Labuan FSA"
+    statute: "Labuan Companies Act 1990, s.109(3)"
+  - what: "Lay accounts before a meeting of members"
+    trigger: "financial-year-end"
+    due: "not more than nine months after the date to which the accounts are made up"
+    authority: "Labuan FSA"
+    statute: "Labuan Companies Act 1990, s.111(1)"
+  - what: "Lodge an annual director's certificate on solvency"
+    trigger: "change"
+    withinDays: 30
+    due: "within 30 days of the accounts being laid before members"
+    authority: "Labuan FSA"
+    statute: "Labuan Companies Act 1990, s.111(1A)"
+  - what: "Appoint a replacement resident secretary"
+    trigger: "change"
+    withinDays: 30
+    due: "not later than 30 days from the effective date of the resignation"
+    authority: "Labuan FSA"
+    statute: "Labuan Companies Act 1990, s.93(2A)"
+  - what: "Make accounting entries"
+    trigger: "ongoing"
+    withinDays: 90
+    due: "within 90 days of completion of the transactions to which they relate"
+    authority: "Labuan FSA"
+    statute: "Labuan Companies Act 1990, s.110(2)"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Labuan Companies Act 1990 (Act 441), updated version 23 August 2022"
+    url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Legislation/2022/Act%20441%20-%20Labuan%20Companies%20Act%201990%20-%20Updated%20Version_23082022.pdf"
+    publisher: "Labuan FSA"
+  - title: "Labuan Companies (Amendment) Act 2022 (Act A1653)"
+    url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Legislation/2022/Act%20A1653_LABUAN%20COMPANIES%20(AMENDMENT)%20ACT%202022_29062022.pdf"
+    publisher: "Labuan FSA"
+    date: "2022-06-09"
+  - title: "Labuan Companies (Amendment) Act 2025 (Act A1756)"
+    url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Legislation/2025/A1756-BI-LABUAN-COMPANIES-(AMENDMENT)-ACT-2025_24042025.pdf"
+    publisher: "Labuan FSA"
+    date: "2025-04-22"
+  - title: "Circular — Labuan Business Activity Tax (Requirements for Labuan Business Activity) Regulations 2021, P.U.(A) 423/2021"
+    url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Guidelines/tax-related/2021/Circular%20PUA%20423_Final_25112021.pdf"
+    publisher: "Labuan FSA"
+    date: "2021-11-23"
+  - title: "Labuan Business Activity Tax Act 1990 (Act 445), consolidated text"
+    url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Legislation/2022/Draft%20ACT%20445%20BI%20update%202021%20-%20Website%20purpose%2012%20DEC%202022.pdf"
+    publisher: "Labuan FSA"
+  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+  - title: "FAQ — Labuan Companies"
+    url: "https://www.labuanfsa.gov.my/areas-of-business/labuan-structures/labuan-companies/faq"
+    publisher: "Labuan FSA"
+  - title: "Labuan Business Activity Tax (Requirements for Labuan Business Activity) Regulations 2021 [P.U.(A) 423/2021] — full regulation with First and Second Schedule"
+    url: "https://moore.com.my/taxflash/PUA-423-(1)-LBAT-(Requirements-for-Labuan-Business-Activity)-Regulations-2021.pdf"
+    publisher: "Moore Malaysia (reproduction of the gazetted regulation)"
+  - title: "Update to employee and annual opex requirements for Labuan companies"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/update-to-employee-and-annual-opex-requirements-for-labuan-compa"
+    publisher: "EY Malaysia"
+  - title: "Labuan: P.U.(A) 325/2025 — Labuan Business Activity Tax (Requirements For Labuan Business Activity)(Amendment) Regulations 2025"
+    url: "https://www.kensington-trust.com/labuan-pua325-2025-lbta-requirements-for-business-activity-amendment-regulations-2025/"
+    publisher: "Kensington Trust Group (reproducing the gazetted regulation)"
+  - title: "Revised Fees Schedule (Annual, Registration and Processing Fees), effective 1 January 2026"
+    url: "https://www.labuanfsa.gov.my/areas-of-business/fee-schedule"
+    publisher: "Labuan FSA"
+  - title: "Directive on Minimum Capital Requirement by Labuan Licensed Entities"
+    url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Guidelines/directive-on-minimum-capital-requirement-by-labuan-licensed-entities.pdf"
+    publisher: "Labuan FSA"
+  - title: "Tax Structure — Labuan IBFC (treaty access and exclusions)"
+    url: "https://www.labuanibfc.com/regulatory-tax/tax/tax-structure"
+    publisher: "Labuan IBFC"
+
+entity: "Labuan company"
+relations:
+  - { rel: "governs", to: "labuan-companies-act-1990" }
+  - { rel: "administered-by", to: "labuan-fsa" }
+  - { rel: "compares-with", to: "what-is-sdn-bhd" }
+  - { rel: "compares-with", to: "business-structures-malaysia" }
+  - { rel: "explained-in", to: "labuan-tax-regime" }
+  - { rel: "located-in", to: "labuan" }
+related: ["business-structures-malaysia", "what-is-sdn-bhd", "branch-vs-subsidiary-malaysia", "corporate-tax-rates"]
+keywords:
+  - "Labuan company vs Sdn Bhd"
+  - "Labuan company Malaysia"
+  - "Labuan Companies Act 1990"
+  - "Labuan substance requirements"
+  - "LBATA"
+  - "Labuan trust company"
+  - "syarikat Labuan"
+  - "Labuan IBFC company"
+---
+
+라부안(Labuan)은 두 종류의 다룸을 받는데 둘 다 쓸모없습니다.
+
+첫째는 그것을 무시합니다. 어떤 말레이시아 "사업 구조 비교" 페이지든 펼치면 목록은 엔터프라이즈, 파트너십, LLP, Sdn Bhd, Berhad로 이어지다가 — 마치 자체 회사 법령과 자체 규제기관을 가진 연방직할구가 존재하지 않는 것처럼 멈춥니다.
+
+둘째는 그것을 팝니다. 표제 세율, 프라이버시의 약속, 며칠 내 설립하겠다는 제안, 그리고 그 실체가 라이선스 신탁회사에 의해 관리되어야 하고, 라부안 안에서 직원 및 지출 검증을 충족해야 하며, 라부안회사법 1990(Labuan Companies Act 1990) 제7조 (1)항에 의해 여전히 라부안 안에서, 라부안으로부터, 또는 라부안을 통해서만 사업을 영위하도록 구속된다는 사실에 대한 언급은 없습니다.
+
+이 페이지는 실체 결정에 관한 것입니다. 라부안 제도가 세금에서 좋은 거래인지는 자체 페이지가 있는 별개의 질문입니다. 여기서의 질문은 더 좁고 먼저 옵니다: **라부안 회사는 당신이 구축하는 것에 올바른 종류의 법인격인가?**
+
+라부안 회사를 팔리는 상당수의 사업에게, 답은 아니오입니다.
+
+## 라부안 회사가 실제로 무엇인가
+
+다른 법령, 다른 규제기관, 다른 등록부입니다.
+
+Sdn Bhd는 회사법 2016에 따라 설립되고 말레이시아 기업위원회에 등록됩니다. 라부안 회사는 **라부안회사법 1990(Labuan Companies Act 1990, Act 441)**에 따라 설립되고 **라부안 금융서비스청(Labuan Financial Services Authority)**에 등록됩니다. 두 체계는 거의 맞닿지 않습니다. 회사법 2016에 대해 아는 것 중 거의 아무것도 이전되지 않습니다.
+
+제14조 (3)항에 따라 라부안 회사는 주식 유한, 보증 유한, 또는 무한책임일 수 있습니다. 제46조 (1)항은 그 주식에 액면가 또는 명목가를 두지 않습니다. 제87조 (1)항은 최소 한 명의 이사를 요구합니다. 라부안 FSA의 공표된 입장은 최소 주주 수가 한 명이고, 한 주면 충분하며, 그 외에 최소 자본 요건이 없다는 것입니다.
+
+여기까지는 경량 Sdn Bhd처럼 읽힙니다. 그다음 관리에 도달합니다.
+
+### 스스로 운영할 수 없다
+
+두 조항이 라이선스 중개자를 선택이 아니라 구조적인 것으로 만듭니다.
+
+**제85조 (1)항** — 모든 라부안 회사는 항상 라부안에 등록 사무소를 두어야 하며, "그 사무소는 라부안 신탁회사의 주된 사무소여야 한다."
+
+**제93조 (1)~(2)항** — 모든 라부안 회사는 한 명 이상의 비서를 선임해야 하고, 그중 최소 한 명은 **상주 비서(resident secretary)**여야 하며; 승인된 라부안 신탁회사, 라부안 회사, 또는 신탁회사가 전액 소유한 국내 회사의 임원으로서 신탁회사가 선임을 위해 제공한 자 외에는 누구도 상주 비서로 활동할 수 없습니다.
+
+자가 관리 라부안 회사는 없습니다. 당신의 등록 사무소는 신탁회사의 사무소이고; 당신의 상주 비서는 신탁회사의 임원입니다. 관계가 끝나면, 제93조 (2A)항은 사임 효력 발생일로부터 30일을 주어 대체자를 선임하게 하며, 그렇게 하지 않으면 제93조 (2C)항이 제151조를 적용합니다.
+
+그 단일한 의존성이 라부안 판매 설명 전체에서 가장 과소평가되는 사실입니다. 회사비서를 자유롭게 선임하고 해임하며 등록 사무소가 말하는 곳 어디든인 Sdn Bhd와 비교하십시오.
+
+## 온쇼어 질문, 개정 법령에 대조하여 답하다
+
+여기가 대부분의 공표된 안내 — 여전히 공식 웹사이트에 있는 자료를 포함하여 — 가 그저 시대에 뒤떨어진 곳입니다.
+
+### 무엇이 폐지되었는가
+
+최근까지, 라부안회사법 1990 제7조는 오프쇼어 격리(ring-fence)를 규정하는 세 개의 항을 담고 있었습니다:
+
+- **제7조 (4)항** — 어떤 라부안 회사도 좁은 예외를 제외하고 링깃으로 사업을 영위하지 아니한다;
+- **제7조 (5)항** — 라부안 회사가 거주자와 사업을 영위하는 경우, **10 영업일 이내**에 그 거래를 라부안 FSA에 통지해야 한다;
+- **제7조 (6)항** — 그 통지에서 면제되는 거래의 목록.
+
+**세 가지 모두 삭제되었습니다.** 라부안회사(개정)법 2022(Labuan Companies (Amendment) Act 2022, Act A1653) 제4조 (b)호는 주된 법의 제7조를 "제(4)항, (5)항 및 (6)항을 삭제하여" 개정한다고 규정합니다. Act A1653은 2022년 5월 31일 국왕 재가를 받아 2022년 6월 9일 관보에 게재되었으며, 제1조 (2)항은 **제4조 (b)호가 2019년 1월 1일에 시행된 것으로 간주된다**고 규정합니다.
+
+그 폐지는 의도적이었습니다: 그 항들은 국제 조세 기준이 겨냥하는 격리 특징 — 우대 제도를 국내 시장으로부터 차단하는 규칙 — 이었습니다.
+
+그다음 2025년, 라부안회사(개정)법 2025(Labuan Companies (Amendment) Act 2025, Act A1756)는 제47조 (1)항 (a)호의 "링깃 이외의 통화로 표시되어야 한다"는 문언을 "어떤 통화로든 표시될 수 있다"는 문언으로 대체하여 개정했습니다. 주식 자본에 대한 마지막 링깃 제한이 사라졌습니다. Act A1756은 2025년 4월 8일 국왕 재가를 받아 2025년 4월 22일 관보에 게재되었습니다. 시행 규정이 없으므로, 해석법 1948 및 1967(Interpretation Acts 1948 and 1967) 제19조 (1)항에 따라 **2025년 4월 23일** — 공표 다음 날 — 에 시행되었습니다.
+
+### 왜 여전히 도처에서 옛 규칙을 읽게 되는가
+
+라부안 FSA 자체의 공표된 본문이 여전히 그것들을 담고 있기 때문입니다.
+
+라부안 FSA 법령 페이지의 통합 라부안회사법 1990은 **2022년 8월 23일** 자로 여전히 제7조 (4), (5), (6)항을 전문 인쇄합니다 — 그것들을 삭제한 개정법으로부터 3년 후, 그리고 그 간주 시행으로부터 3년 이상 후입니다. 그 라부안 회사 FAQ 페이지는 여전히 주식이 링깃으로 표시될 수 없다고 밝히는데, 이는 Act A1756이 바꾼 것입니다.
+
+통합본에 의존하고 있다면, 개정법에 대조하여 확인하십시오. 말레이시아 거주자와 거래한 후 10 영업일 이내에 라부안 FSA에 통지하라거나, 라부안 회사가 링깃으로 송장을 발행할 수 없다고 말하는 모든 안내는 더 이상 존재하지 않는 법을 인용하는 것입니다.
+
+### 실제로 무엇이 살아남는가
+
+**제7조 (1)항**, 개정되지 않은:
+
+> 라부안 회사는 적법한 목적을 위해 설립될 수 있으며, 라부안에 적용되는 금융 서비스에 관한 다른 성문법에 따를 것을 조건으로, 라부안 안에서, 라부안으로부터, 또는 라부안을 통해서만 사업을 영위한다.
+
+그것을 신중히 읽으십시오. 그 구별이 요점 전부이기 때문입니다. 그것은 **회사가 어디서 운영하는가**에 관한 요건이며, **고객이 누구인가**에 관한 것이 아닙니다. 제7조 (2)항은 라부안 회사가 거주자와 사업을 영위하는 것을 명시적으로 허용합니다. 제7조 (1)항이 허용하지 않는 것은 쿠알라룸푸르의 사무소에서 라부안 레터헤드로 사업을 운영하는 것입니다.
+
+제7조 (3)항도 살아남아, 이자 제도법 2016(Interest Schemes Act 2016)에 따른 이자 제도와 관련하여 거주자에 대한 청약 및 권유를 제한합니다.
+
+## 실질: 대부분의 사안을 결정하는 요건
+
+**라부안사업활동세법 1990(Labuan Business Activity Tax Act 1990)** 제2B조는 라부안 제도를 실제 존재에 조건 지웁니다. 라부안 사업 활동을 영위하는 라부안 실체는, 라부안 거래 활동의 경우, 규정으로 정한 대로 적정 수의 **라부안 내 전일제 직원**과 적정 금액의 **라부안 내 연간 운영 지출**을 두어야 합니다. 라부안 비거래 활동의 경우, 같은 두 가지 검증에 더하여 **라부안 내 통제 및 관리(control and management)** 조건의 준수가 적용됩니다.
+
+현재 규정은 라부안사업활동세(라부안 사업 활동 요건) 규정 2021(Labuan Business Activity Tax (Requirements for Labuan Business Activity) Regulations 2021), **P.U.(A) 423/2021**로, 2021년 11월 22일 관보에 게재되어 **2019년 1월 1일**부터 효력을 가지며, 2018년 규정을 폐지했습니다.
+
+### 통제 및 관리 조건
+
+P.U.(A) 423/2021에 관한 라부안 FSA 회람은 네 가지를 규정하며, **2021년 1월 1일**에 시행된 것으로 간주됩니다:
+
+1. 이사회 회의가 라부안에서 **연 최소 1회** 소집될 것;
+2. 라부안 실체의 등록 사무소가 **라부안에 위치**할 것;
+3. 라부안회사법 1990에 따라 선임된 비서가 **라부안에 거주**할 것; 그리고
+4. 회계 및 사업 기록이, **이사회 회의록을 포함하여**, **라부안에 보관**될 것.
+
+### 직원 및 지출 하한
+
+이는 실체 범주별로 다릅니다. 제1부속서는 라부안 거래 활동을 포괄하며 20개 항목에 이르고; 제2부속서는 비거래 활동을 포괄합니다. 항목 20은 행정, 회계, 법률, 백오피스 처리, 급여, 인재 관리, 대행, 도산 관련, 일반 관리 서비스를 포괄하는 "기타 거래 실체(Other Trading Entity)" 포괄 항목입니다: **전일제 직원 2명과 연간 운영 지출 RM50,000**, 둘 다 라부안에.
+
+두 부속서 전반에 걸쳐 하한은 **전일제 직원 1명에서 4명**, **연간 운영 지출 RM20,000에서 RM200,000**입니다. 4명 라인은 언더라이팅 매니저와 보험 매니저이고; RM200,000 상한은 라부안 보험사, 재보험사, 타카풀 운영자(직원 3명)에 적용됩니다. 대부분의 거래 라인은 직원 2~3명에 지출 RM100,000~RM120,000입니다. 비거래 측면에서, 순수 지분 지주회사 이외의 투자 지주 실체는 전일제 직원 1명과 RM20,000이 필요한 반면, **순수 지분 지주회사는** 라부안사업활동세(면제) 명령 2020(Labuan Business Activity Tax (Exemption) Order 2020, P.U.(A) 177/2020)에 따라 통제·관리 조건만을 조건으로 세금이 **면제됩니다**.
+
+실무자 요약에서 떠도는 "최대 RM300만" 수치는 P.U.(A) 423/2021에 전혀 없습니다 — 그것은 P.U.(A) 326/2025로 개정된 별개의 라부안 국제상품거래회사(GIFT) 제도에 속합니다. 모형화하기 전에 당신의 범주에 맞는 현재 규정을 확인하십시오.
+
+P.U.(A) 325/2025(2025년 9월 2일 관보 게재) 이후, 부속서 표제는 최소 수의 **"적격한(fit and proper) 라부안 내 전일제 직원"**을 요구합니다. 다섯 가지 조건이 적용됩니다: 직원이 실체의 활동에 부합하는 업무를 수행하고, 적정하고 적절한 역량을 갖추며, 그 직무를 방해하는 개인적 이해관계나 책임이 없고, 실체에 상시 또는 계약으로 고용되며, 라부안에서 물리적으로 업무를 수행할 것. LHDN은 2025년 11월 5일 자 실행 지침을 발표했습니다. 최소 수와 지출 수치 자체는 변경되지 않았고; "적격" 한정어가 그 위에 추가되었습니다.
+
+### 충족하지 못한 결과
+
+제2B조 (1A)항은 노골적입니다. 기준 기간에 규정을 준수하지 못한 라부안 실체는, 제2B조 (1B)항 (a)호에 따라, 그 과세 연도의 과세 대상 이익 — 감사받은 회계에 반영된 순이익 — 에 대해 **24%로 과세됩니다**.
+
+그것은 위에 더해지는 벌칙이 아닙니다. 그것은 그 구조가 존재한 이유 전체의 상실입니다. 직원 2명과 라부안 지출 RM50,000은 몬키아라(Mont Kiara)에서 서류로 대충 넘길 수 있는 형식이 아닙니다.
+
+세율 방식, 소득세법에 따른 선택, 그리고 말레이시아 지급인에게 적용되는 공제 제한은 별개의 라부안 세무 페이지의 주제입니다.
+
+## 규정 준수 달력은 다른 시계로 돈다
+
+Sdn Bhd에서 사고 모형을 그대로 옮기면, 기한을 놓칩니다. 이 중 셋은 낯선 방향으로 진행됩니다.
+
+| 의무 | 라부안 회사 | Sdn Bhd |
+| --- | --- | --- |
+| 연차 보고서 | 매 역년 1회, 설립 기념일 **30일 전까지**(제109조 (3)항) | 설립 기념일 **30일 후** 이내(CA 2016 제68조) |
+| 회계 기입 | 거래 완료 후 **90일** 이내(제110조 (2)항) | **60일** 이내(CA 2016 제245조 (2)항) |
+| 사원에게 제출하는 회계 | 작성 기준일 후 **9개월**을 넘지 않게(제111조 (1)항) | FYE 후 6개월 이내 회람(CA 2016 제258조 (1)항 (a)호) |
+| 이사 지급능력 증명서 | 회계 제출 후 **30일** 이내(제111조 (1A)항) | 해당 없음 |
+| 감사 | 라부안 금융 서비스법이 요구하는 경우, 정관에 의한 경우, 또는 공모 시에만(제113조 (1)항); 라부안 FSA가 강제할 수 있음(제113조 (1A)항) | PD 10/2024 기준을 충족하지 않는 한 필요 |
+| 기록 위치 | 등록 사무소 또는 라부안 내 **다른 곳**(제110조 (3)항) | 등록 사무소 또는 말레이시아 내 통지 장소 |
+
+연차 보고서가 사람들의 허를 찌르는 것입니다. Sdn Bhd의 시계는 기념일에 시작되고; 라부안 회사의 시계는 그 30일 전에 **끝납니다**.
+
+또한 제111조 (1A)항에 유의하십시오: 이사는 회계가 회사가 지급능력이 있었음을 보여주고, 그것을 진실하지 않게 만들 상황을 알지 못하며, 그 이후 회사를 지급불능으로 만들 어떤 것도 없다는 것을 매년 증명해야 합니다. 비상장 회사에 대해 회사법 2016에는 이에 상응하는 것이 없으며, 이는 개인적 진술입니다.
+
+## 실소유자(beneficial ownership)가 2025년에 도래했다
+
+Act A1756 — 2025년 4월 23일부터 시행 — 은 라부안회사법 1990에 새로운 **제Va부(Part Va)**를 삽입하여, 실소유자를 주식, 의결권 또는 기타 소유 지분의 직접 또는 간접 소유나 통제를 통해 회사를 전부 또는 일부 소유하거나 통제하는 자연인, 또는 실효적 통제와 영향력을 행사하는 자연인으로 정의합니다. 제109b조는 모든 라부안 회사와 외국 라부안 회사가 이름, 주소, 국적, 신분, 통상 거주지, 그리고 실소유자가 되고 그만두게 된 날짜를 기록하는 실소유자 등록부를 유지하도록 요구합니다.
+
+익명성을 위해 여전히 라부안을 선택하는 자는 몇 년간 정확하지 않았던 이 법역의 그림에서 작업하는 것입니다. 회사법 2016에 따른 말레이시아 온쇼어 실소유자 제도와 라부안의 새로운 제Va부는 이제 같은 방향을 가리킵니다.
+
+## 나란히
+
+| | 라부안 회사 | Sdn Bhd |
+| --- | --- | --- |
+| 법령 | 라부안회사법 1990 | 회사법 2016 |
+| 규제기관 | 라부안 FSA | SSM |
+| 주주 | 최소 1명; 공표된 최대 없음 | 최소 1명, 최대 50명(제42조) |
+| 이사 | 최소 1명(제87조 (1)항) | 최소 1명, 말레이시아 통상 거주(제196조) |
+| 비서 | 라부안 신탁회사 출신 상주 비서(제93조) | 회사비서, 시민 또는 PR, 제235조 자격 |
+| 등록 사무소 | 라부안 신탁회사의 주된 사무소여야 함(제85조) | 말레이시아 내 어디든 |
+| 주식 자본 | 액면가 없음(제46조); Act A1756 이후 어떤 통화로든 | 액면가 없음; 링깃 |
+| 운영 제한 | 라부안 안에서, 라부안으로부터, 또는 라부안을 통해서만(제7조 (1)항) | 없음 |
+| 실질 검증 | 라부안 내 직원 및 운영 지출; 라부안 내 통제 및 관리(LBATA 제2B조) | 없음 |
+| 자가 관리 | 불가능 | 가능 |
+| 실소유자 등록부 | 필요(제Va부, Act A1756 이후) | 필요(CA 2016 제II부 제8A절) |
+
+## 라부안이 잘못된 답일 때
+
+이것이 판매자들이 건너뛰는 절입니다.
+
+**고객, 직원, 운영이 반도에 있습니다.** 제7조 (1)항은 사업이 라부안 안에서, 라부안으로부터, 또는 라부안을 통해 영위될 것을 요구하고, 실질 규칙은 라부안 내 직원과 지출을 셉니다. 전체 팀이 쿠알라룸푸르에 앉아 있는 회사는, 등록 주소가 무엇이라 하든, 어떤 정직한 해석으로도 라부안 안에서 또는 라부안으로부터 사업을 영위하는 것이 아닙니다.
+
+**말레이시아 영업 라이선스가 필요합니다.** 유통업, 제조, 사업장 및 간판 라이선스, KPDN·MITI·BNM·SC·MCMC 또는 지방 당국의 부문 승인 — 이 제도들은 회사법 2016에 따라 설립된 회사와 라이선스 당국 관할 내 사업장을 중심으로 구축되어 있습니다. 라부안 회사는 흔히 그 밖에 있으며, 세무 질문을 해결한 구조가 라이선스 질문을 만듭니다.
+
+**온쇼어 은행, 신용 또는 결제 시설이 필요합니다.** 라부안 실체의 은행 온보딩은 Sdn Bhd보다 실질적으로 더 어려우며, 강화된 실사가 예외가 아니라 일반입니다. 이는 법적 장애가 아니라; 창업자가 돈이 이미 쓰인 후, 설립 후에 발견하는 실질적 장애입니다.
+
+**말레이시아 본토 팀을 위한 취업 패스가 필요합니다.** 이민 승인은 실체, 그 라이선스, 그 설립에 연계됩니다. 라부안 구조는 채용 승인을 당신이 채용하고자 하는 곳과 다른 곳에 둡니다.
+
+**실질 비용이 혜택을 초과합니다.** 라부안 기반 전일제 직원 2명에 연 RM50,000의 라부안 운영 지출, 여기에 신탁회사 수수료는 실제 연간 수치입니다. 일정 이익 수준 아래에서는, 통상 법인세율의 Sdn Bhd가 전체적으로 더 저렴하며 — 위의 어떤 구조적 마찰도 수반하지 않습니다.
+
+**유치, 매각 또는 상장을 원할 것입니다.** 투자자, 인수자 및 그 실사 법률가는 회사법 2016에 능통합니다. 자본표(cap table)의 라부안 지주회사는 실질, 조약 접근, 규제 지위에 관한 질문을 불러오며, 당신은 그 답을 위해 자문가에게 비용을 지불하게 됩니다. 나중에 이전하는 것은 가능하지만 양식이 아니라 구조 개편입니다.
+
+**조약 혜택을 기대하고 있습니다.** 라부안 실체에 대한 말레이시아 조세 조약 네트워크 접근은 균일하지 않습니다 — 여러 상대국이 의정서로 라부안 실체를 제한하거나 배제했습니다. 조약 입장을 가정하지 말고; 구조를 구축하기 전에 특정 상대 법역에 대해 확인하십시오.
+
+**프라이버시를 원합니다.** 위의 제Va부를 참조하십시오.
+
+## 라부안이 말이 되는 곳
+
+이 법역에 공정하자면: 그것은 실제 법정 틀을 갖춘 목적 지향 금융 센터이며, 그것이 올바른 선택인 경우가 있습니다.
+
+- **라이선스 금융 활동** — 라부안 은행업, 보험 및 재보험, 리스, 자금 중개, 펀드 관리, 디지털 금융 서비스는 라부안 금융서비스증권법 2010(Labuan Financial Services and Securities Act 2010) 하에서, 온쇼어와 구별되는 인가 경로와 자본 제도로 운영됩니다.
+- **지역 지주 및 재무** — 운영이 진정으로 말레이시아 밖에 있는 그룹의 경우, 실제 직원을 둔 라부안 사무소가 합리적인 지역 허브인 경우.
+- **캡티브 보험 및 위험 금융** — 다국적 그룹을 위한 구조.
+- **해운 및 국경 간 리스** — 상대방이 비말레이시아인인 경우.
+- **재단 및 신탁** — 라부안 재단법 2010(Labuan Foundations Act 2010)과 라부안 신탁법 1996(Labuan Trusts Act 1996)에 따라, 온쇼어 운영 발자국이 없는 승계 및 자산 보유 목적.
+
+공통 맥락: 사업이 진정으로 라부안에서 운영되거나, 진정으로 말레이시아 밖에서 운영됩니다. 사업이 반도에서 운영되고 라부안 실체가 라벨인 경우, 그 구조는 취약합니다.
+
+## 흔한 실수
+
+- **제7조 (4)항 또는 (5)항을 인용하기.** 그것들은 Act A1653으로 삭제되어 2019년 1월 1일부터 시행된 것으로 간주됩니다. 10 영업일 통지도 마찬가지입니다. 그것들을 반복하는 안내 — 그리고 라부안 FSA 자체의 통합 PDF — 는 폐지된 법을 인용하는 것입니다.
+- **라부안 회사가 말레이시아인과 거래할 수 없다고 믿기.** 제7조 (2)항은 이를 명시적으로 허용합니다.
+- **라부안 회사가 링깃을 사용할 수 없다고 믿기.** Act A1653 이후로는 아니며, Act A1756 이후로는 주식 자본도 어떤 통화로든 표시될 수 있습니다.
+- **실질을 서류 작업으로 취급하기.** 제2B조 (1A)항은 실패에 대해 과세 대상 이익에 24%를 부과하여, 구조의 전체 요점을 제거합니다.
+- **통제 및 관리 조건을 잊기.** 연 1회 라부안 이사회 회의, 라부안 내 등록 사무소, 라부안 거주 비서, 라부안 보관 기록은 2021년 1월 1일부터 조건입니다.
+- **연차 보고서를 Sdn Bhd처럼 일정에 잡기.** 제109조 (3)항은 설립 기념일 30일 **전**입니다.
+- **감사가 없으니 회계도 없다고 가정하기.** 제110조는 적절한 기록, 90일 이내의 기입, 그리고 라부안 보관 기록을 요구하며; 제113조 (1A)항은 라부안 FSA가 감사를 강제할 수 있게 합니다.
+- **기밀성을 위해 라부안을 선택하기.** 제Va부는 이제 실소유자 등록부를 요구합니다.
+- **그것을 통해 국내 시장에 서비스할 계획을 세우기.** 고객 제한은 사라졌지만; 제7조 (1)항의 운영 위치 요건과 실질 검증은 그렇지 않습니다.
+
+## 다음 단계
+
+네 가지 질문을 순서대로 진행하고, 첫 번째 아니오에서 멈추십시오.
+
+1. **업무가 실제로 어디서 이루어질 것인가?** 답이 라부안 또는 말레이시아 밖이 아니라면, 제7조 (1)항과 실질 규칙이 이미 당신에게 불리합니다.
+2. **실질 하한을 감당할 수 있는가?** 라부안 내 직원과 연간 라부안 운영 지출을, 매년, 증거와 함께. 설립 후가 아니라 전에 혜택에 견주어 가격을 매기십시오.
+3. **사업이 온쇼어에서 어떤 라이선스와 승인이 필요한가?** 그것들이 라부안 실체에 이용 가능한지 확인하십시오. 이곳이 구조가 가장 자주 실패하는 곳입니다.
+4. **청산은 어떤 모습인가?** 유치하거나 매각할 것으로 예상한다면, 라부안 지주회사가 실사에 무엇을 하는지 법률가에게 물으십시오.
+
+답이 유지되면, 세무 분석이 다음 단계이며 자체 페이지에 속합니다. 그렇지 않으면, Sdn Bhd를 설립하십시오. 그것은 지루한 답이며, 말레이시아에서 운영하는 사업에는 대개 올바른 답입니다.
+
+---
+
+**검증 상태.** AI 지원 초안으로, 아직 주제 전문가의 검토를 받지 않았습니다. 법령 참조는 라부안 FSA가 공표한 라부안회사법 1990(Act 441)을 라부안회사(개정)법 2022(Act A1653) 및 라부안회사(개정)법 2025(Act A1756)와 함께 읽은 것이며; 실질 요건은 라부안사업활동세법 1990 제2B조와 P.U.(A) 423/2021에 관한 라부안 FSA 회람에서 가져온 것입니다. 라부안 FSA의 통합 본문과 개정법이 충돌하는 경우, 개정법을 따랐으며 그렇게 밝혔습니다. 여기의 어떤 것도 특정 구조에 대한 법률 또는 세무 자문이 아닙니다.

@@ -31,7 +31,7 @@ import matter from 'gray-matter';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const KNOWLEDGE = path.join(ROOT, 'knowledge');
 const DOCS = path.join(ROOT, 'docs');
-const LOCALES = ['ms', 'en', 'zh', 'ta', 'ja'];
+const LOCALES = ['ms', 'en', 'zh', 'ta', 'ja', 'ko'];
 
 const arg = (name) =>
   process.argv.includes(name) ? process.argv[process.argv.indexOf(name) + 1] : null;

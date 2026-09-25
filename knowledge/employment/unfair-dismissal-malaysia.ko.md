@@ -1,0 +1,190 @@
+---
+topicId: MY-EMP-0021
+title: "노사관계법 1967 제20조에 따른 부당해고 청구"
+seoTitle: "말레이시아 부당해고 — 제20조 청구와 구제"
+slug: "unfair-dismissal-malaysia"
+category: "employment"
+subcategory: ["termination-retrenchment"]
+summary: "60일 제소 기간, JPPM에서의 조정, 2020년 개정 이후의 산업법원 경로, 그리고 소급임금과 보상금이 실제로 어떻게 계산되는지 설명합니다."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "해고된 근로자는 해고로부터 60일 이내에, 또는 예고가 주어진 경우 그 예고 만료로부터 60일 이내에 노사관계법 1967(Industrial Relations Act 1967) 제20조에 따라 진정을 제기할 수 있습니다. 노사관계총국장(Director General for Industrial Relations)이 조정하며, 화해 가능성이 없으면 사안을 곧바로 산업법원(Industrial Court)에 회부합니다. 소급임금(backwages)은 24개월, 수습 근로자는 12개월로 상한이 정해집니다."
+keyTakeaways:
+  - "The window is 60 days — s.20(1A) — and it is jurisdictional, not a guideline."
+  - "Where notice was given, the 60 days runs from expiry of the notice, and the employee may also file during it."
+  - "Since 1 January 2021 the Director General refers cases directly to the Industrial Court — the Minister's referral power was deleted by Act A1615."
+  - "Second Schedule: backwages capped at 24 months for a confirmed workman, 12 months for a probationer."
+  - "Compensation in lieu of reinstatement is one month's salary per completed year of service — Practice Note 3 of 2019."
+  - "Post-dismissal earnings are deducted from backwages only, not from compensation in lieu."
+  - "An appeal to the High Court must be filed within 14 days of receiving the award — s.33C."
+appliesTo: "Employees considering a dismissal claim, and employers assessing exposure before or after terminating someone."
+
+faq:
+  - q: "How long do I have to file an unfair dismissal claim in Malaysia?"
+    a: "Sixty days. Section 20(1A) of the Industrial Relations Act 1967 says the Director General shall not entertain representations unless filed within sixty days of the dismissal. Where the employee was dismissed with notice, the proviso allows filing at any time during the notice period and up to sixty days from its expiry. The period is jurisdictional — a late filing cannot be entertained at all."
+  - q: "Does the Minister still decide whether my case goes to the Industrial Court?"
+    a: "No. The Industrial Relations (Amendment) Act 2020 (Act A1615) came into operation on 1 January 2021 and deleted the Minister's referral power. Under the current s.20(3), where the Director General is satisfied there is no likelihood of settlement, he shall refer the representations to the Court himself. Many older guides still describe the ministerial stage."
+  - q: "What is the maximum backwages the Industrial Court can award?"
+    a: "The Second Schedule to the Industrial Relations Act 1967 caps backwages at twenty-four months from the date of dismissal, based on last-drawn salary, for a confirmed workman, and twelve months for a probationer. The Court also deducts a percentage of any post-dismissal earnings and may reduce the award for contributory misconduct."
+  - q: "Can a probationer claim unfair dismissal?"
+    a: "Yes. The Second Schedule expressly provides for backwages to a probationer dismissed without just cause or excuse, and s.20(1) draws no distinction between confirmed and unconfirmed employees. The practical difference is the remedy — a probationer's backwages are capped at twelve months rather than twenty-four."
+  - q: "Do I need a lawyer for the conciliation stage?"
+    a: "No. Conciliation at the Department of Industrial Relations is an informal, without-prejudice process aimed at settlement, and employees commonly attend unrepresented. Representation matters more once the matter is referred to the Industrial Court, where evidence is led and cross-examined."
+  - q: "Is reinstatement the normal outcome?"
+    a: "Rarely in practice. Reinstatement is the primary statutory remedy, but where the employment relationship has broken down the Court usually awards compensation in lieu of reinstatement instead, calculated at one month's salary per completed year of service under Practice Note 3 of 2019, alongside backwages."
+
+verificationNeeded:
+  - "No statutory time limit governs the conciliation stage. Section 20(2) requires only that the Director General take steps so that an expeditious settlement is arrived at. Any published figure for how long conciliation takes is administrative reporting, not law, and none was confirmed."
+  - "Section 30(3) requires the Court to make its award without delay and where practicable within thirty days from the date of reference. Actual disposal times are not published as a verified statistic and are not stated here."
+  - "Whether Industrial Court filing carries any fee — not confirmed against mp.gov.my."
+
+obligations:
+  - what: "File a s.20 representation for reinstatement after dismissal"
+    trigger: "change"
+    withinDays: 60
+    due: "within 60 days of the dismissal, or where notice was given, at any time during the notice and not later than 60 days from its expiry"
+    authority: "Jabatan Perhubungan Perusahaan Malaysia"
+    statute: "Industrial Relations Act 1967, s.20(1A)"
+    consequence: "The Director General shall not entertain representations filed out of time"
+  - what: "Appeal an Industrial Court award to the High Court"
+    trigger: "change"
+    withinDays: 14
+    due: "within 14 days from the date of receipt of the award"
+    authority: "High Court"
+    statute: "Industrial Relations Act 1967, s.33C(1)"
+    consequence: "The award stands and becomes enforceable"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Industrial Relations Act 1967 (Act 177), reprint as at 1 November 2021"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690019_BI/010721_Act%20177_final.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2021-11-01"
+  - title: "Industrial Relations (Amendment) Act 2020 (Act A1615)"
+    url: "https://www.mp.gov.my/images/doc/legislation/ActA1615.pdf"
+    publisher: "Industrial Court of Malaysia"
+    date: "2020-02-20"
+  - title: "Practice Note No. 3 of 2019 — Guidelines Governing Awards in Dismissal Cases"
+    url: "https://www.mp.gov.my/images/doc/practicenotes/PN3_2019_Guidelines_Governing_Awards_in_Dismissal_Cases.pdf"
+    publisher: "Industrial Court of Malaysia"
+    date: "2019-11-01"
+  - title: "Jabatan Perhubungan Perusahaan Malaysia — official portal"
+    url: "https://jpp.mohr.gov.my/"
+    publisher: "JPPM"
+    date: "2026-01-01"
+  - title: "Employment Act 1955 (Act 265)"
+    url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
+    publisher: "JTKSM"
+    date: "2022-01-01"
+
+entity: "Unfair dismissal claim"
+relations:
+  - { rel: "governs", to: "employment" }
+  - { rel: "administered-by", to: "jppm" }
+  - { rel: "related-to", to: "termination-of-employment-malaysia" }
+  - { rel: "related-to", to: "domestic-inquiry-malaysia" }
+related: ["termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
+keywords: ["unfair dismissal malaysia", "section 20 industrial relations act", "60 days filing dismissal", "industrial court malaysia", "backwages cap 24 months", "compensation in lieu of reinstatement"]
+---
+
+60일. 그것이 전부이며, 대부분의 말레이시아 부당해고 청구가 죽는 지점입니다 — 본안이 아니라, 근로자가 7주를 인사(HR)와 협상하고, 다시 2주를 오지 않을 답변을 기다리다가, 63일째에 제소했기 때문입니다.
+
+노사관계법 1967 제20(1A)조는 노사관계총국장이 기한을 넘겨 제출된 진정을 **접수하여서는 아니 된다**고 말합니다. 그것은 동정이 늘려줄 수 있는 느슨한 기한이 아닙니다. 고용주는 이를 압니다. 근로자는 대개 모릅니다.
+
+## 60일은 정확히 언제 시작하는가?
+
+이 조항은 이렇게 읽힙니다. 진정은 해고로부터 60일 이내에 제출되어야 하되, 근로자가 **예고를 동반하여** 해고된 경우에는 예고 기간 중 언제든 제출할 수 있으나 그 예고 **만료로부터 60일을 넘겨서는** 안 된다는 단서가 있습니다.
+
+따라서 두 개의 서로 다른 기산점이 있으며, 이를 혼동하면 비용이 큽니다.
+
+| 상황 | 기한 |
+| --- | --- |
+| 약식 해고, 예고 없음 | 해고일로부터 60일 |
+| 예고를 동반한 해고 | 예고 기간 중 언제든, 그리고 예고 만료 후 60일까지 |
+| 예고 대체 지급 | 발효일에 해고된 것으로 취급 — 단서는 지급된 배상금이 아니라 주어진 예고를 말함 |
+
+세 번째 행이 모호한 경우입니다. 고용주가 예고를 이행시키는 대신 고용법 1955 제13(1)조에 따라 배상금을 지급하는 경우, 가장 안전한 가정은 계약이 즉시 종료되었고 시계가 그때 시작되었다는 것입니다. 추가 몇 주를 얻으려고 단서에 의존하지 마십시오.
+
+의제해고(constructive dismissal)도 같은 규칙을 따르되, 근로자가 먼저 사직하고 고용주의 행위가 이를 강요했다고 주장해야 하는 추가적인 어려움이 있습니다 — 그러면 60일은 그 사직으로부터 진행됩니다.
+
+## 무엇을 입증해야 하는가?
+
+제20(1)조는 **정당한 사유나 명분 없이** 해고되었다고 여기는 근로자가, 노동조합 소속 여부와 무관하게 복직을 구할 수 있게 합니다. 그 문구는 말레이시아 해고법 전체의 부담을 담고 있습니다. 이곳에는 임의고용이 없으며, 고용주는 **실체**(진정한 사유가 있었는가?)와 **절차**(공정하게 도달했는가?) 둘 다에서 해고를 정당화해야 합니다.
+
+입증 책임은 근로자가 아니라 고용주에게 있습니다. 근로자는 해고를 입증하고, 고용주는 사유를 입증합니다.
+
+## 청구가 거치는 경로
+
+**1. JPPM에 제소.** 진정은 노사관계총국장에게 — 실무상으로는 노사관계부(Jabatan Perhubungan Perusahaan Malaysia)의 어느 주 사무소에든 — 접수됩니다.
+
+**2. 조정.** 제20(2)조는 총국장이 **신속한 화해**에 이르도록 필요하거나 적절하다고 여기는 조치를 취할 것을 요구합니다. 이는 통상 비공식적이며 흔히 여러 차례에 걸친, 불이익 없는(without-prejudice) 회의입니다. 이 단계에는 법이 정한 기한이 없습니다 — 전혀 없습니다. 대부분의 청구는 여기서 협상된 금액으로 종결됩니다.
+
+**3. 산업법원으로의 직접 회부.** 이것이 대부분의 발행된 안내서가 여전히 틀리는 부분입니다. 2021년 이전 법에서는 총국장이 **장관**에게 통지하고, 장관이 사안을 산업법원에 회부할지 결정했으며 — 그 재량적 관문 자체가 사법심사 신청의 대상이었습니다.
+
+노사관계(개정)법 2020(Industrial Relations (Amendment) Act 2020, Act A1615)이 **2021년 1월 1일 시행**되어 그 단계를 삭제했습니다. 현행 제20(3)조는 이렇게 읽힙니다. 총국장이 제(2)항에 따라 진정이 화해될 가능성이 없다고 인정하는 경우, 총국장은 그 진정을 판정을 위해 법원에 **회부하여야 한다**. 단어는 "하여야 한다"이고, 회부하는 자는 총국장이며, 장관은 이 그림에서 빠져 있습니다. 어떤 안내서가 여전히 장관 회부를 서술한다면, 그것은 2021년 이전 것입니다.
+
+**4. 판정.** 제30(3)조는 법원이 지체 없이, 실행 가능한 경우 회부일로부터 30일 이내에 판정을 내릴 것을 요구합니다.
+
+**5. 항소.** 역시 A1615로 도입된 제33C조는 기존의 사법심사 경로를 **판정 수령으로부터 14일 이내의 고등법원(High Court)에 대한 법정 항소**로 대체했으며, 이는 하급법원(Sessions Court) 항소에 관한 2012년 법원규칙(Rules of Court 2012) 절차를 따릅니다. 14일은 잔혹하게 짧으며 고용주가 가장 자주 놓치는 기한입니다. 또한 구 제33A조와 제33B조는 A1615에 의해 삭제되었음에 유의하십시오 — 판정의 종국성을 위해 제33B조를 인용하는 사람은 폐지된 규정을 인용하는 것입니다.
+
+## 구제의 산식
+
+여기에 숫자가 살아 있으며, 두 개의 핵심 수치 모두 흔히 주장되는 것처럼 단순한 사법적 관행이 아니라 공식적으로 발행된 것입니다.
+
+**소급임금.** 법의 제2부칙(제30(6A)조를 통해 작용함)은 다음을 규정합니다.
+
+- 정당한 사유나 명분 없이 해고된 근로자에 대한 소급임금은 최종 지급 급여를 기준으로 해고일로부터 **24개월을 초과하지 아니한다**;
+- **수습 근로자**의 경우 소급임금은 **12개월을 초과하지 아니한다**;
+- 해고 후 소득이 있는 경우, 법원이 정한 비율이 **공제된다**;
+- 구제에는 **장래 소득 손실에 대한 보상이 포함되지 아니한다**;
+- 구제는 **기여 과실(contributory misconduct)**을 참작한다.
+
+알아둘 만한 한 가지 유보 사항: 제30(6A)조는 이 항이 법 제4조, 제5조 또는 제7조 — 노동조합 관련 불이익 처우 규정 — 와 관련된 해고에는 적용되지 않는다는 단서를 지닙니다. 그 상한은 이 좁은 범주의 사건에서는 구속력이 없습니다.
+
+**복직 대체 보상금.** 복직이 법정 구제이지만, 관계가 파탄된 경우 법원은 그 대신 보상금을 판정합니다. 산업법원 **실무 지침 제3호(2019)**는 이를 명확히 밝힙니다. **완료된** 근무연수 1년당 한 달치 급여, 그리고 **미완의 해에 대해서는 보상 없음**. 이 실무 지침은 계산 예시를 제공합니다 — 9개월 근무는 아무것도 산출하지 않고, 4년 8개월은 4개월치 급여를, 7년 11개월 반은 7개월치를 산출합니다.
+
+**경쟁 자료가 놓치는 공제 지점.** 실무 지침 제3호(2019)는 손해 경감(mitigation) — 해고 후 근로자가 번 것 — 이 복직 대체 보상금이 아니라 **소급임금에서만** 공제된다고 규정합니다. 빠르게 새 직장을 구한 근로자는 소급임금이 크게 줄어드는 반면 보상금 부분은 온전히 유지될 수 있습니다.
+
+## 청구가 실제로 얼마의 가치가 있는가
+
+월 RM5,000, 완료된 근속 6년, 정당한 사유 없이 해고되어 8개월 후 새 일자리를 구한 정규(confirmed) 직원을 예로 들겠습니다. 24개월의 최대 소급임금은 RM120,000이며, 8개월간의 해고 후 소득의 일정 비율만큼 법원의 재량으로 감액됩니다. 완료된 근무연수 1년당 한 달치 보상금은 RM30,000을 더하며, 손해 경감으로 감액되지 않습니다.
+
+그 산수가 고용주가 조정 단계에서 화해하는 이유이자, 사내 조사를 건너뛰는 비용이 이론에 그치지 않는 이유입니다.
+
+## 흔한 실수
+
+**60일을 넘겨 협상하기.** 화해 협의는 시계를 멈추지 않으며, 연장을 허용하는 규정은 없습니다. 먼저 제소하고 나중에 협상하십시오.
+
+**장관이 여전히 회부를 통제한다고 믿기.** 2021년 1월 1일부로 제거되었습니다.
+
+**수습 근로자는 청구할 수 없다고 가정하기.** 제2부칙은 수습 근로자의 판정을 명시적으로 상정합니다. 수습은 소급임금 상한을 줄일 뿐, 권리를 제거하지 않습니다.
+
+**민사 소송도 함께 제기하기.** 제20(4)조는 일단 판정이 내려지면 부당해고에 대한 손해배상 소송을 어느 법원에서도 제기할 수 없게 합니다. 두 경로는 누적적이지 않습니다.
+
+**14일 항소 기간 놓치기.** 제33C조는 진정한 함정입니다 — 사법심사의 더 긴 기한은 더 이상 적용되지 않습니다.
+
+**상한을 예상 판정액으로 취급하기.** 24개월은 상한이지 표준이 아닙니다. 기여 과실과 해고 후 소득은 판정액을 그보다 훨씬 낮게 만드는 경우가 많습니다.
+
+## 다음 단계
+
+당신이 근로자라면: 지금 가장 가까운 JPPM 사무소에 진정을 제출하고 병행하여 계속 협상하십시오. 당신이 고용주라면: 방어는 해고 후가 아니라 해고 전에 만들어집니다 — 법원이 찾을 절차적 기록은 `domestic-inquiry-malaysia`를, 애초에 올바른 경로를 고르는 방법은 `termination-of-employment-malaysia`를 참조하십시오.

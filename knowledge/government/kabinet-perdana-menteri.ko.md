@@ -1,0 +1,227 @@
+---
+topicId: MY-GOV-0014
+title: "다수의 신임: 총리와 내각 임명에 대한 헌법적 요건"
+slug: "kabinet-perdana-menteri"
+category: "government"
+subcategory: ["institutions"]
+summary: "연방헌법(Federal Constitution) 제39조부터 제43C조까지에 대한 서술적 설명 — 총리 임명을 위한 다수 신임 심사, 다른 장관들이 조언에 따라 임명되는 방식, 내각의 의회에 대한 연대 책임, 그리고 내각과 양 디페르투안 아공(국왕) 사이의 법정 관계."
+
+tier: "S"
+mode: "practical"
+contentType: "guide"
+sensitivity: "constitution"
+
+answer: "연방헌법(Federal Constitution) 제43조 제(2)항 (a)호는 양 디페르투안 아공(국왕)이 하원(Dewan Rakyat) 의원 다수의 신임을 얻을 것으로 국왕이 판단하는 하원 의원을 총리로 임명하도록 요구합니다. 다른 장관들은 총리의 조언에 따라, 의회 어느 한 원의 의원 중에서 양 디페르투안 아공이 임명합니다. 제43조 제(3)항은 내각(Cabinet)이 의회에 연대하여 책임을 진다고 정합니다."
+keyTakeaways:
+  - "Perkara 43(2)(a) menetapkan dua syarat sahaja bagi Perdana Menteri: ahli Dewan Rakyat, dan pada hemat Yang di-Pertuan Agong mungkin mendapat kepercayaan majoriti ahli Dewan Rakyat"
+  - "Perkara 43 tidak menyebut parti, gabungan mahupun bilangan kerusi, dan tidak menetapkan kaedah bagaimana kepercayaan majoriti itu ditentukan"
+  - "Menteri lain dilantik di bawah Perkara 43(2)(b) atas nasihat Perdana Menteri, daripada ahli Dewan Rakyat atau Dewan Negara"
+  - "Tanggungjawab bersama kepada Parlimen ialah peruntukan bertulis dalam Perkara 43(3), bukan sekadar konvensyen"
+  - "Perkara 43(4): jika Perdana Menteri tidak lagi mendapat kepercayaan majoriti, beliau hendaklah meletakkan jawatan Jemaah Menteri melainkan jika atas permintaannya Parlimen dibubarkan oleh Yang di-Pertuan Agong"
+  - "Melantik Perdana Menteri dan tidak memperkenankan permintaan pembubaran Parlimen ialah antara fungsi budi bicara Yang di-Pertuan Agong di bawah Perkara 40(2)"
+  - "Meminda mana-mana peruntukan ini memerlukan sokongan dua pertiga jumlah bilangan ahli setiap Dewan di bawah Perkara 159(3)"
+appliesTo: "Sesiapa yang ingin memahami secara deskriptif apa yang sebenarnya ditetapkan oleh Perlembagaan Persekutuan tentang pelantikan Perdana Menteri, pembentukan Jemaah Menteri dan hubungannya dengan Yang di-Pertuan Agong serta Parlimen."
+
+faq:
+  - q: "Adakah rakyat mengundi Perdana Menteri secara langsung?"
+    a: "Tidak. Kertas undi pilihan raya umum menamakan calon bagi satu kawasan pilihan raya Dewan Rakyat. Perkara 46(1) Perlembagaan Persekutuan menetapkan Dewan Rakyat terdiri daripada dua ratus dua puluh dua orang ahli dipilih. Jawatan Perdana Menteri diisi selepas itu di bawah Perkara 43(2)(a), apabila Yang di-Pertuan Agong melantik seorang ahli Dewan Rakyat yang pada hemat Baginda mungkin mendapat kepercayaan majoriti ahli Dewan itu."
+  - q: "Bolehkah seorang senator dilantik menjadi Menteri?"
+    a: "Boleh. Perkara 43(2)(b) membenarkan Menteri dilantik daripada kalangan ahli mana-mana satu Majlis Parlimen, iaitu Dewan Rakyat atau Dewan Negara. Namun syarat itu lebih ketat bagi Perdana Menteri: Perkara 43(2)(a) menghendaki beliau seorang ahli Dewan Rakyat secara khusus."
+  - q: "Apakah yang berlaku jika Perdana Menteri tidak lagi mendapat kepercayaan majoriti?"
+    a: "Perkara 43(4) memperuntukkan bahawa Perdana Menteri hendaklah meletakkan jawatan Jemaah Menteri, melainkan jika atas permintaannya Parlimen dibubarkan oleh Yang di-Pertuan Agong. Permintaan pembubaran itu tidak automatik: Perkara 40(2)(b) menyenaraikan tindakan tidak memperkenankan permintaan bagi pembubaran Parlimen sebagai salah satu fungsi yang boleh dijalankan oleh Yang di-Pertuan Agong menurut budi bicara Baginda."
+  - q: "Adakah tanggungjawab bersama Jemaah Menteri hanya suatu konvensyen?"
+    a: "Di Malaysia ia tertulis. Perkara 43(3) Perlembagaan Persekutuan menyatakan secara nyata bahawa Jemaah Menteri hendaklah bertanggungjawab secara bersama kepada Parlimen. Ini menjadikannya kewajipan perlembagaan yang bertulis, bukan semata-mata amalan yang diwarisi."
+
+verificationNeeded:
+  - "Sahkan status semasa mana-mana rang undang-undang pindaan Perlembagaan berkaitan tempoh jawatan Perdana Menteri terhadap rekod rasmi Parlimen dan Warta. Cetakan semula rasmi sebagaimana pada 15 Oktober 2020 — teks yang digunakan dalam rencana ini — tidak mengandungi apa-apa had tempoh bagi Perdana Menteri, dan tiada pindaan yang berkuat kuasa dapat disahkan di sumber rasmi pada tarikh penulisan."
+  - "Sahkan jumlah keahlian Jemaah Menteri dan senarai kementerian semasa terhadap penerbitan rasmi Jabatan Perdana Menteri — Perlembagaan tidak menetapkan bilangan Menteri."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-24
+sources:
+  - title: "Perlembagaan Persekutuan (Cetakan Semula — sebagaimana pada 15 Oktober 2020)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
+    publisher: "Pesuruhjaya Penyemak Undang-Undang, Malaysia / Jabatan Peguam Negara"
+    date: "2020"
+  - title: "Laws of Malaysia — portal rasmi perundangan persekutuan (Federal Constitution)"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
+    publisher: "Jabatan Peguam Negara Malaysia"
+  - title: "Portal Rasmi Parlimen Malaysia"
+    url: "https://www.parlimen.gov.my/"
+    publisher: "Parlimen Malaysia"
+
+entity: "Jemaah Menteri Malaysia"
+wikidata: "Q846488"
+relations:
+  - { rel: "part-of", to: "malaysia" }
+  - { rel: "explained-in", to: "federal-constitution" }
+  - { rel: "related-to", to: "parliament" }
+  - { rel: "related-to", to: "yang-di-pertuan-agong" }
+  - { rel: "related-to", to: "dewan-rakyat" }
+related: ["federal-constitution", "parliament", "dewan-rakyat", "dewan-negara", "yang-di-pertuan-agong"]
+keywords: ["Jemaah Menteri", "Kabinet Malaysia", "Perdana Menteri Malaysia", "Perkara 43 Perlembagaan Persekutuan", "kepercayaan majoriti Dewan Rakyat", "tanggungjawab bersama", "Yang di-Pertuan Agong", "Perkara 40(2)"]
+---
+
+말레이시아의 어떤 유권자도 "총리"라고 쓰인 투표용지에 표시하지 않습니다. 총선의 투표용지는 하나의 하원(Dewan Rakyat) 선거구 후보만을 명기합니다.
+
+그 직위는 투표 후에, 연방헌법(Federal Constitution)의 한 문장에 명시된 하나의 심사를 통해 채워집니다 — 그리고 그 문장은 정당도, 연합도, 의석 수도 언급하지 않습니다.
+
+## 한눈에 보기
+
+| | |
+| --- | --- |
+| 헌법적 근거 | 연방헌법 제4부 제3장 제39~43C조 |
+| 총리 임명 주체 | 양 디페르투안 아공, 제43조 제(2)항 (a)호 |
+| 임명 심사 | 양 디페르투안 아공의 판단으로 하원 의원 다수의 신임을 얻을 것으로 보이는 하원 의원 |
+| 다른 장관 임명 주체 | 총리의 조언에 따라 양 디페르투안 아공, 제43조 제(2)항 (b)호 |
+| 장관을 어디서 뽑는가 | 의회 어느 한 원의 의원 — 하원 또는 상원 |
+| 책임 | 의회에 연대하여, 제43조 제(3)항 |
+| 하원 구성 | 222명의 선출 의원, 제46조 제(1)항 |
+| 선서 | 제6부칙의 취임 선서, 충성 선서, 비밀 유지 선서, 제43조 제(6)항 |
+| 개정 문턱 | 각 원 총 의원의 3분의 2, 제159조 제(3)항 |
+
+## 행정권은 실제로 어디에 있는가
+
+제39조는 연방의 행정권을 양 디페르투안 아공에게 부여합니다. 그 권한은 국왕 자신이, 또는 내각(Jemaah Menteri)이, 또는 내각이 권한을 부여한 어느 장관이 행사할 수 있으며 — 의회는 법률로 다른 사람에게 행정 기능을 부여할 수 있습니다.
+
+이어 제43조 제(1)항은 양 디페르투안 아공이 **그 기능의 수행에서 자신에게 조언할** 내각을 임명하도록 요구합니다. 그것이 헌법이 사용하는 표현입니다. 즉, 내각은 행정권 보유자에 대한 자문 기구로 존재합니다.
+
+제40조 제(1)항이 그 고리를 완성합니다. 헌법이나 연방 법률에 따른 기능을 수행함에 있어, 양 디페르투안 아공은, 헌법이 달리 규정한 경우를 제외하고, 내각의 조언 또는 내각의 일반 권한 아래에서 행동하는 어느 장관의 조언에 따라 행동해야 합니다. 같은 조문은 국왕에게, 그 요청에 따라 내각이 얻을 수 있는 연방 통치에 관한 어떤 정보든 얻을 권리를 부여합니다.
+
+Act A885에 의해 삽입되어 1994년 6월 24일부터 발효된 제40조 제(1A)항은 이를 더 단호하게 명시합니다. 즉, 양 디페르투안 아공이 조언에 따라, 조언에 근거하여, 또는 조언을 고려한 후 행동하도록 요구되는 경우, 국왕은 **그 조언을 받아들이고 그에 따라 행동해야 합니다**.
+
+## 임명 심사: 한 문장, 두 요건
+
+제43조 제(2)항 (a)호는 양 디페르투안 아공이 먼저, 내각을 주재할 총리로, 국왕의 판단으로 하원 의원 다수의 신임을 얻을 것으로 보이는 하원 의원을 임명해야 한다고 규정합니다.
+
+그 문장에는 두 요건만 있습니다.
+
+1. **후보는 하원 의원이어야 한다.** 상원이 아닙니다. 이는 제43조에서 하나의 원에 한정되는 유일한 직위입니다.
+2. **양 디페르투안 아공의 판단으로, 그 후보가 하원 의원 다수의 신임을 얻을 것으로 보여야 한다.** 그 판단은 양 디페르투안 아공에게 맡겨져 있습니다.
+
+추가적 제한 하나가 제43조 제(7)항에 있습니다. 즉, 귀화를 통해 시민이 되었거나 제17조에 따른 등록을 통해 시민이 된 사람은 총리로 임명될 수 없습니다. 재인쇄본의 공식 주석은 그 제17조 자체가 Act 14/1962에 의해 1963년 7월 1일부터 폐지되었음을 기록합니다.
+
+제46조 제(1)항은 [하원](/government/dewan-rakyat)이 222명의 선출 의원으로 구성된다고 정합니다. 222명 규모의 원에서 다수는 최소 112명을 의미합니다.
+
+### 제43조가 명시하지 않는 것
+
+이것이 대중적 요약에서 가장 자주 빠지는 부분입니다. 제43조의 문언은 다음을 **언급하지 않습니다**.
+
+- 어떤 정당이나 연합의 이름;
+- "최다 의석을 얻은 정당"이라는 개념;
+- 다수의 신임을 판정하는 어떤 특정 방법 — 선서 진술, 지지 서한, 면담, 원내 표결, 또는 그 밖의 방법 여부.
+
+헌법은 그 **심사**를 정하지, 그 **절차**를 정하지 않습니다. 하원 의원 다수의 신임이 그 척도이며, 그 척도가 어떻게 측정되는지는 제43조에 성문화되어 있지 않습니다.
+
+## 다른 장관: 조언에 따라, 양 원에서 임명
+
+총리가 임명된 후, 제43조 제(2)항 (b)호가 이어받습니다. 총리의 조언에 따라, 양 디페르투안 아공은 의회 어느 한 원의 의원 중에서 다른 장관들을 임명해야 합니다.
+
+총리 임명과의 두 가지 차이에 주목하십시오. 다른 장관의 임명은 재량이 아니라 **조언에 따라** 이루어집니다. 그리고 그 후보군이 더 넓습니다. [상원](/government/dewan-negara) 의원도 자격이 있습니다.
+
+제43조 제(2)항은 의회가 해산된 경우를 위한 단서를 담고 있습니다. 어떤 임명이 의회 해산 중에 이루어질 경우, 직전 하원 의원이었던 사람이 임명될 수 있으나, 다음 의회 회기가 시작된 후에는 계속 재임할 수 없습니다 — 다만 그가 총리로 임명된 경우에는 그가 새 하원의 의원이어야 하고, 그 밖의 어떤 경우에는 그가 하원이나 상원의 의원이어야 합니다.
+
+임명된 후, 제61조 제(1)항은 각 내각 구성원에게 자신의 원의 의원으로서의 권리에 더하여 의회의 다른 원의 절차에 참여할 권리를 부여합니다. 제61조 제(3)항은 그 한계를 밝힙니다. 즉, 그 권리는 어느 원의 의원이 아닌 사람이 그 원에서 투표하는 것을 허용하지 않습니다.
+
+## 연대 책임은 단순한 관행이 아니다
+
+제43조 제(3)항은 한 짧은 문장으로 이루어집니다. 내각은 의회에 연대하여 책임을 진다는 것입니다.
+
+다른 많은 웨스트민스터 체계에서 연대 책임은 성문화되지 않은 관행입니다. 말레이시아에서는 그것이 헌법 문언 자체에, 명시된 의무로 놓여 있습니다.
+
+그 실제적 효과는 제43조 제(4)항의 표현에서 드러나는데, 이는 내각 전체의 운명을 개별 장관의 성과가 아니라 한 총리의 지위에 묶습니다.
+
+제38조 제(3)항은 그 연대 책임을 다른 각도에서 보여 줍니다. [통치자 회의](/government/majlis-raja-raja)가 국가 정책에 관한 사항을 숙의할 때, 양 디페르투안 아공은 총리를 동반해야 하며, 그 숙의는 양 디페르투안 아공이 내각의 조언에 따라 수행하는 기능에 속합니다.
+
+## 다수의 신임이 더 이상 없을 때
+
+제43조 제(4)항은, 총리가 하원 의원 다수의 신임을 더 이상 얻지 못하면, 그 요청에 따라 양 디페르투안 아공이 의회를 해산하지 않는 한, 총리가 내각의 사임을 제출해야 한다고 규정합니다.
+
+두 갈래만 명시되어 있으며, 두 번째 갈래는 온전히 총리의 손에 있지 않습니다. 제40조 제(2)항은 양 디페르투안 아공이 **그 재량으로** 수행할 수 있는 기능을 열거합니다.
+
+| 조항 | 재량 기능 |
+| --- | --- |
+| 40(2)(a) | 총리의 임명 |
+| 40(2)(b) | 의회 해산 요청의 거부 |
+| 40(2)(c) | 오로지 통치자들의 특권·지위·명예·위엄에만 관련되는 통치자 회의 소집 요청, 그리고 그 회의에서의 어떤 조치 |
+
+제40조 제(2)항은 "그리고 이 헌법에 언급된 그 밖의 어떤 경우에든"이라는 구절로 끝나므로, 그 목록은 닫힌 목록이 아닙니다.
+
+해산이 일어나면 제55조가 시기를 이어받습니다. 더 일찍 해산되지 않는 한, 의회는 첫 회의일로부터 5년간 존속한 뒤 해산됩니다. 의회가 해산되면 그 해산일로부터 60일 이내에 총선이 실시되어야 하며, 그날로부터 120일보다 늦지 않은 날에 의회가 소집되어야 합니다.
+
+## 임기, 선서 및 보수
+
+제43조 제(5)항은, 제43조 제(4)항을 조건으로, 총리 외의 장관이 양 디페르투안 아공이 허용하는 동안 재임한다고 규정합니다 — 다만 어느 장관의 임명이 총리의 조언에 따라 양 디페르투안 아공에 의해 취소된 경우는 예외입니다. 어느 장관이든 사임할 수도 있습니다. 총리의 조언에 따른 취소에 관한 구절은 Act 10/1960에 의해 삽입되어 1960년 5월 31일부터 발효되었습니다.
+
+"제(4)항을 조건으로"라는 표현이 중요합니다. 즉, 제43조 제(4)항이 작동되면, 사임은 하나의 기구로서의 내각에 미칩니다.
+
+제43조 제(6)항은 각 장관이 그 직위의 기능을 수행하기 전에 양 디페르투안 아공 앞에서 제6부칙에 명시된 세 가지 선서 — 취임 선서, 충성 선서, 비밀 유지 선서 — 를 하고 서명하도록 요구합니다.
+
+제43조 제(9)항은 의회가 내각 구성원의 보수에 관한 규정을 법률로 마련하도록 요구합니다. 재인쇄본의 공식 주석은 독자를 국회의원(보수)법 1980(Act 237)으로 안내합니다. 제43조 제(8)항은 Act A857에 의해 1993년 8월 20일부터 폐지되었습니다.
+
+## 자주 혼동되는 다른 세 직위
+
+제43A조, 제43B조, 제43C조는 내각 구성원 자격과 자주 동일시되는 세 개의 별개 역할을 만듭니다.
+
+| 직위 | 조항 | 임명 주체 | 국회의원이어야 하는가? |
+| --- | --- | --- | --- |
+| 부장관(Timbalan Menteri) | 43A | 총리의 조언에 따라 양 디페르투안 아공 | 예 — 어느 한 원 |
+| 의회 비서(Setiausaha Parlimen) | 43B | 총리 | 예 — 어느 한 원 |
+| 정무 비서(Setiausaha Politik) | 43C | 총리 | 아니오 |
+
+부장관은 장관이 그 임무와 기능을 수행하는 것을 돕고, 그 목적을 위해 장관의 모든 권한을 가집니다. 제43A조 제(3)항은 제43조 제(5)항과 제(6)항을 그들에게 적용하므로, 임기와 선서 의무가 동일합니다.
+
+의회 비서는 장관과 부장관을 돕고, 그 목적을 위해 장관과 부장관의 모든 권한을 가집니다. 그들의 임명은 총리가 언제든 종료할 수 있으며, 그들의 비밀 유지 선서는 양 디페르투안 아공이 아니라 총리 앞에서 이루어집니다.
+
+정무 비서가 두드러지는 것은 제43C조 제(2)항 (a)호가 그들이 의회 어느 한 원의 의원일 **필요가 없다**고 명시하기 때문입니다. 그들의 임무, 기능, 보수는 제43C조 제(4)항에 따라 내각이 정합니다.
+
+오직 제61조의 목적상, 제61조 제(4)항의 "내각 구성원" 정의에는 부장관과 의회 비서가 포함됩니다.
+
+## 흔한 오해
+
+**"국민이 총리를 뽑는다."** 투표용지는 하원 선거구의 투표용지입니다. 총리의 임명은 선거 결과가 알려진 후 제43조 제(2)항 (a)호에 따라 이루어집니다.
+
+**"최다 의석을 얻은 정당의 대표가 자동으로 총리가 된다."** 제43조 제(2)항 (a)호의 심사는 하원 의원 다수의 신임입니다. 그 문언은 정당도, 최다 의석 수도 언급하지 않습니다.
+
+**"장관은 의회 밖에서 임명될 수 있다."** 제43조 제(2)항 (b)호는 장관을 의회 어느 한 원의 의원 중에서 뽑도록 요구합니다. 제43C조에 따른 정무 비서만이 의원 자격 요건에서 제외됩니다.
+
+**"상원의원은 장관이 될 수 없다."** 될 수 있습니다 — 제43조 제(2)항 (b)호는 의회 어느 한 원을 언급합니다. 하원에 한정되는 제한은 총리에게만 적용됩니다.
+
+**"다수를 잃으면 곧 선거를 의미한다."** 제43조 제(4)항은 사임을 기본 상태로 명시합니다. 해산은 양 디페르투안 아공이 그 요청을 재가할 때만 일어나며, 제40조 제(2)항 (b)호는 그 요청의 거부를 재량 기능으로 열거합니다.
+
+**"연대 책임은 단지 관행일 뿐이다."** 제43조 제(3)항이 그것을 헌법 문언에 명시합니다.
+
+## 이 규정들을 개정하기
+
+제43조의 규정은 일반 법률로 개정될 수 없습니다. 제62조 제(3)항은 의회 각 원이 투표하는 의원의 단순 다수로 결정을 내리도록 허용하지만, 그 항 자체가, 여러 규정 가운데, 제159조 제(3)항을 조건으로 함을 명시합니다.
+
+제159조 제(3)항은 헌법에 어떤 개정을 하는 법안이 의회 어느 한 원에서, 제2독회와 제3독회에서 그 원 **총 의원의 3분의 2 이상**의 지지를 받지 않는 한 통과되지 않도록 요구합니다.
+
+그 문턱은 출석하여 투표한 인원이 아니라 총 의원 수를 기준으로 계산됩니다.
+
+## 다음으로 볼 것
+
+- 제39조부터 제43C조까지를 담은 문서의 전체 구조는 [연방헌법](/law/federal-constitution)을 읽으십시오.
+- 이 관계의 다른 한쪽 — 제40조에 따른 조언에 따른 기능과 재량 기능 — 은 [양 디페르투안 아공](/government/yang-di-pertuan-agong)을 읽으십시오.
+- 내각이 구성되는 두 원을 이해하려면 [하원](/government/dewan-rakyat)과 [상원](/government/dewan-negara)을, 그리고 내각이 연대하여 책임을 지는 제도는 [말레이시아 의회](/government/parliament)를 읽으십시오.
+- 행정부가 주도하여 양 원을 거치는 입법 경로는 [법안이 어떻게 법률이 되는가](/law/how-a-bill-becomes-law)를 읽으십시오.
+- 발효 중인 문언은 말레이시아 법령 포털 `lom.agc.gov.my`의 연방헌법 재인쇄본을 참고하십시오. 그 말레이어 재인쇄본 표지의 주석에 유의하십시오. 즉, 그 문언은 법무장관실의 번역이며, 제160B조에 따라 정본으로 지정되지 않는 한 그리고 그때까지는 법령이 아닙니다. 또한 더 새로운 재인쇄본이 발간되었는지도 확인하십시오.
+
+---
+
+*이 글은 NegaraKu.md의 편집 정책상 민감(3R+1: 헌법 사항)으로 분류됩니다. 이 글은 순전히 서술적이도록 — 헌법의 문언과 구조만을 다루고, 어떤 개인·정당·정부도 언급하지 않도록 — 작성되었으며, 공개에 앞서 인간 검토를 기다리는 초안으로 보류되어 있습니다. 공식 자료에 비추어 확인할 수 없는 사항은 `verificationNeeded`에 열거되며 공개되지 않습니다.*

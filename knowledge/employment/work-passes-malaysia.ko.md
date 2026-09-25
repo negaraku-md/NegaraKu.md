@@ -1,0 +1,188 @@
+---
+topicId: MY-EMP-0042
+title: "말레이시아 취업 패스 비교"
+seoTitle: "말레이시아 취업 패스: EP, PVP, RP-T, DE Rantau"
+slug: "work-passes-malaysia"
+category: "employment"
+subcategory: ["foreign-workers-expatriates"]
+summary: "외국인이 말레이시아에서 일할 수 있게 하는 모든 패스를, 스폰서·기간·급여 하한·부양가족·이동성·발급 기관을 기준으로 나란히 비교합니다."
+
+tier: "4"
+mode: "practical"
+contentType: "comparison"
+
+answer: "말레이시아에는 단일 취업 비자가 없습니다. 고용주가 스폰서하는 외국 전문인력은 외국인전문인력국(Expatriate Services Division)을 통해 취업 패스(Employment Pass)를 받고, 단기 프로젝트는 12개월로 상한이 정해진 전문방문패스(Professional Visit Pass)를, 외국 고용주를 둔 원격 근로자는 MDEC의 DE Rantau 노마드 패스(DE Rantau Nomad Pass)를, 기본급 RM15,000의 장기 근속 외국 전문인력은 TalentCorp의 10년짜리 거주패스-탤런트(Residence Pass-Talent)를, 육체노동자는 전혀 별개의 쿼터 체제에 따른 PLKS를 받습니다. 어느 것이 적용되는지는 직함이 아니라 스폰서가 결정합니다."
+keyTakeaways:
+  - "Employment Pass — employer-sponsored, RM5,000 to RM20,000 basic depending on category, 5 or 10 years, issued by Immigration through MYXpats"
+  - "Professional Visit Pass-Expert — capped at 12 months with no extension beyond it, non-salaried, one contract at a time, changing employer requires cancellation and exit"
+  - "DE Rantau Nomad Pass — a Professional Visit Pass for remote workers, 3 to 12 months renewable once, USD24,000 or USD60,000 annual income depending on whether the work is tech"
+  - "Residence Pass-Talent — 10 years, RM15,000 basic monthly and RM180,000 a year, three consecutive years on an Employment Pass, portable between employers"
+  - "Dependant Pass carries no work right at all — the holder must convert to an Employment Pass to be employed"
+  - "The Investor Pass is a 6-month multiple-entry facility, extendable once, with no dependants and no coverage in Sabah or Sarawak"
+appliesTo: "Employers choosing the right pass, mobility advisers, and foreign nationals comparing routes into Malaysia."
+
+faq:
+  - q: "Which pass lets a foreign national work for a Malaysian employer?"
+    a: "The Employment Pass. It is sponsored by a company registered and activated with the Expatriate Services Division, and from 1 June 2026 it requires a basic monthly salary of at least RM5,000 for Category III, RM10,000 for Category II and RM20,000 for Category I. The Professional Visit Pass allows work in Malaysia but the position is non-salaried and the holder remains paid by an overseas employer."
+  - q: "Can a Dependant Pass holder take a job?"
+    a: "No. The ESD guidebook states that employment is not allowed on a Dependant Pass and that it requires conversion to an Employment Pass. For social and welfare activities the holder may request special permission from the Immigration Department, but that is not employment."
+  - q: "Is the DE Rantau Nomad Pass a work permit?"
+    a: "It is a Professional Visit Pass issued through MDEC for foreign digital nomads. It permits a stay of three to twelve months, renewable for a further twelve, and the holder may bring a spouse and children, with parents allowed for the main pass holder only. The employer or clients must be foreign — the pass does not authorise employment by a Malaysian company."
+  - q: "Which pass is portable between employers?"
+    a: "The Residence Pass-Talent. It is approved for ten years and is not tied to a single sponsor, though the holder must keep meeting the criteria throughout, including residing in Malaysia under a valid employment contract on RM15,000 basic. An Employment Pass is tied to the sponsoring company, and from 1 June 2026 changing employer restarts the duration clock."
+  - q: "How long can a Professional Visit Pass holder stay?"
+    a: "Twelve months in total. ESD states that no extensions are allowed beyond twelve months, and the contract is restricted to one contract or project at a time. Extensions within the twelve months must be applied for at least one month before the pass expires, and the applicant need not leave the country while it is processed."
+
+verificationNeeded:
+  - "Confirm current Immigration pass and visa fees for each pass type — the schedule varies by nationality and is not published as a single consolidated table"
+  - "Confirm whether the DE Rantau Sarawak variant carries different income floors or duration from the federal DE Rantau Nomad Pass"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+sensitivity: "none"
+
+updated: 2026-07-20
+sources:
+  - title: "ESD Online Guidebook V6 2025"
+    url: "https://esd.imi.gov.my/portal/pdf/ESD_Online_Guidebook_V6_2025_(14042025).pdf"
+    publisher: "Expatriate Services Division, Immigration Department of Malaysia"
+    date: "2025-04-14"
+  - title: "Revised Employment Pass Salary Policy Effective 1 June 2026"
+    url: "https://esd.imi.gov.my/portal/latest-news/announcement/announcement-266-ep-salary-policy-2026/"
+    publisher: "Expatriate Services Division"
+    date: "2026-01-15"
+  - title: "DE Rantau — Malaysia Digital Nomad Pass"
+    url: "https://mdec.my/derantau"
+    publisher: "Malaysia Digital Economy Corporation"
+  - title: "Residence Pass-Talent — Eligibility"
+    url: "https://rpt.talentcorp.com.my/eligibility/"
+    publisher: "TalentCorp Malaysia"
+  - title: "Residence Pass-Talent — Fees"
+    url: "https://rpt.talentcorp.com.my/fees/"
+    publisher: "TalentCorp Malaysia"
+  - title: "Revision to Type of Investor Category for Investor Pass Applications Effective 13 March 2026"
+    url: "https://esd.imi.gov.my/portal/latest-news/announcement/announcement-271/"
+    publisher: "MYXpats Centre"
+    date: "2026-03-11"
+
+entity: "Malaysian work passes"
+relations:
+  - { rel: "administered-by", to: "immigration-department-malaysia" }
+  - { rel: "compares-with", to: "employment-pass-malaysia" }
+  - { rel: "related-to", to: "employment" }
+related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
+keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
+---
+
+말레이시아 취업 비자는 없습니다. 여덟아홉 가지의 서로 다른 제도가 있으며, 네 개의 서로 다른 기관이 운영하고, 당신에게 필요한 것은 직무가 무엇으로 불리는지가 아니라 **누가 급여를 지급하는지**로 결정됩니다.
+
+말레이시아의 고용주가 당신에게 급여를 지급한다면: 취업 패스. 해외 회사가 당신에게 급여를 지급하고 당신이 프로젝트로 이곳에 있다면: 전문방문패스. 해외 회사가 당신에게 급여를 지급하고 당신이 커피가 좋아서 이곳에 있다면: DE Rantau. 당신이 배우자라는 이유로 누구도 급여를 지급하지 않는다면: 부양가족패스(Dependant Pass), 그리고 그것으로는 일할 수 없습니다.
+
+## 한눈에 보는 패스
+
+| 패스 | 스폰서 | 기간 | 급여 또는 소득 하한 | 부양가족 | 발급 기관 |
+| --- | --- | --- | --- | --- | --- |
+| **취업 패스 I(Employment Pass I)** | ESD 등록 고용주 | 최대 10년 | 월 기본급 RM20,000 | 가능 | 이민국, MYXpats 경유 |
+| **취업 패스 II** | ESD 등록 고용주 | 최대 10년 | 기본급 RM10,000 – RM19,999 | 가능 | 이민국, MYXpats 경유 |
+| **취업 패스 III** | ESD 등록 고용주 | 최대 5년 | 기본급 RM5,000 – RM9,999 | 2026년 6월 1일 이후 발급 패스는 가능; 그 이전 발급 패스는 부양가족을 허용하지 않던 구 정책 유지 | 이민국, MYXpats 경유 |
+| **전문방문패스-전문가(Professional Visit Pass-Expert)** | ESD 등록 호스트 회사; 급여는 해외에 유지 | 최대 12개월, 그 이상 연장 불가 | 무급 직위 | 불가 | 이민국, MYXpats 경유 |
+| **DE Rantau 노마드 패스** | 본인, 외국 고객 또는 외국 고용주 | 3–12개월, 12개월 1회 갱신 | 기술직 연 USD24,000; 비기술직 연 USD60,000 | 배우자와 자녀; 주 소지자에 한해 부모 | MDEC |
+| **거주패스-탤런트(Residence Pass-Talent)** | 본인, 취업 패스 3년 후 | 10년, 5년 배서 후 5년 | 월 기본급 RM15,000, 연 RM180,000 | 가능, 부모는 LTSVP 추가 | TalentCorp, MOHA 및 이민국과 함께 |
+| **부양가족패스(Dependant Pass)** | 취업 패스 소지자 | 주 패스를 따름 | 없음 | 해당 없음 | 이민국, MYXpats 경유 |
+| **투자자패스(Investor Pass)** | 본인, MIDA 및 Xpats Gateway 경유 | 6개월, 6개월 연장 가능 | 급여 기준 미공개 | 불가 | 이민국, Xpats Gateway 경유 |
+| **PLKS(방문패스, 임시 고용)** | 승인된 쿼터를 보유한 고용주 | 12개월, 갱신 가능 | 최저임금 적용 | 불가 | 이민국, 외국인 근로자 체제하 |
+
+위 급여 구간은 **2026년 6월 1일** 발효분입니다. 이전 취업 패스 구간 — RM10,000, RM5,000–RM9,999, RM3,000–RM4,999 — 은 2026년 5월 31일까지 접수된 신청에 적용되었으며 대부분의 발행된 비교 자료에 여전히 등장합니다.
+
+## 취업 패스
+
+기본 경로입니다. 고용주는 먼저 외국인전문인력국(Expatriate Services Division)에 등록되고 *활성화*되어야 하며, 이는 완전 국내 회사는 납입자본 RM250,000, 30% 이상 외국 지분의 합작회사는 RM350,000, 완전 외국 소유 회사는 RM500,000, 도소매·무역 분야의 다수 외국 소유 회사는 RM1,000,000을 의미합니다.
+
+기본급만이 구간에 산입됩니다. 처리 기준은 서류가 완비되면 근무일 5일이며, 승인된 패스는 말레이시아 국내에서는 승인 후 30일 이내에, 국외 도착 시에는 도착 후 30일 이내에 배서되어야 합니다. 2026년 6월 1일부터 고용 기간은 고용 회사를 기준으로 계산되므로, 고용주를 바꾸면 누적 연수가 이월되지 않고 시계가 다시 시작됩니다.
+
+## 전문방문패스-전문가
+
+이 세트에서 가장 오해받는 패스인데, 사람들이 "방문"이라고 읽고 이를 상용 비자로 가정하기 때문입니다. 그렇지 않습니다. 이는 소지자가 해외 급여 대상자로 남으면서 ESD 등록 호스트를 위해 말레이시아에서 계약된 활동을 수행할 수 있게 합니다. 직위는 말레이시아에서 **무급**입니다.
+
+여섯 가지 자격 범주: 전문지식 이전, 연구, ESD 등록 회사에서의 훈련, 자원봉사자, 말레이시아 컨벤션 및 전시국(Malaysia Convention and Exhibition Bureau)의 규제를 받는 전시 참가자, 그리고 외국 대사관·ESD 등록 회사·호텔에서의 학생 인턴십.
+
+중요한 것은 엄격한 한도입니다. 최대 12개월이며, ESD는 12개월을 넘는 연장이 허용되지 않는다고 분명히 밝힙니다. 한 번에 하나의 계약 또는 프로젝트. 패스가 아직 유효한 동안 고용주를 바꾸려면 소지자는 새로 신청하기 전에 **패스를 취소하고 말레이시아를 떠나야** 합니다. 12개월 내의 연장은 만료 최소 1개월 전에 신청해야 하며, 처리되는 동안 신청인은 떠나지 않아도 됩니다.
+
+지원서(support letter)는 두 개 부문에만 필요합니다 — 항공은 CAAM, 광업은 JMG — 그리고 이는 Xpats Gateway를 거치지 않고 해당 기관에서 직접 받아 업로드합니다.
+
+호텔 연수생에게는 자체 규칙이 있습니다. 4성급 이상 호텔, 3성급은 인도네시아 연수생에 한정, 어느 때든 최대 25명의 연수생, 6개월 비갱신, 그리고 말레이시아의 어느 호텔에서든 1인당 평생 한 번의 훈련 배치.
+
+## DE Rantau 노마드 패스
+
+기술적으로는 전문방문패스로서, ESD가 아니라 MDEC가 운영하며, 소득이 말레이시아 밖에서 들어오는 사람들을 대상으로 합니다.
+
+- **기간:** 3개월에서 12개월, 추가 12개월 갱신 — 최대 총 24개월.
+- **소득:** 기술직은 연 **USD24,000** 초과; 비기술직은 연 **USD60,000** 초과.
+- **업무 증빙:** 3개월을 초과해 진행되는 유효한 프로젝트 계약 또는 고용 계약. 원격 근로자의 고용주는 말레이시아 회사가 아닌 외국 회사여야 합니다. 프리랜서는 국내 및 외국 고객 모두를 둘 수 있습니다.
+- **가족:** 배우자와 자녀, 그리고 주 소지자에 한해 부모.
+- **수수료:** 주 신청인 MYR1,000, 부양가족 1인당 MYR500.
+- **국적:** 이스라엘을 제외한 모든 국적에 개방되며, 신청인은 신청을 위해 말레이시아에 있을 필요가 없습니다.
+
+이후 동일 프로그램하에 DE Rantau Sarawak 변형이 추가되었습니다.
+
+## 거주패스-탤런트
+
+유일하게 진정으로 이동 가능한 장기 패스이자, 경험 많은 외국 전문인력이 취업 패스 갱신을 멈추는 이유입니다. 10년으로 승인되어 최초 5년으로 배서되고 갱신 시 추가 5년으로 배서됩니다. 갱신은 첫 5년 배서가 소멸하기 전에 신청해야 하며, 6개월 앞서 제출할 수 있습니다.
+
+신청 시점에 자격을 갖추려면:
+
+- 취업 패스로 말레이시아에서 연속 3년 근무;
+- 3개월 이상 남은 유효한 취업 패스;
+- 수당과 상여를 제외한 월 기본급 **RM15,000**;
+- 말레이시아 세무 파일, 최근 2년 이상 납세 완료 및 신고된 연 기본급 최소 **RM180,000**;
+- 인정된 대학의 박사·석사·학사 학위 또는 디플로마, 혹은 전문·역량 인증서; 그리고
+- 총 5년 이상의 경력.
+
+자격 요건 충족이 승인을 보장하지는 않으며 — RP-T 패널이 결정합니다 — TalentCorp은 대리인이 아니라 신청인 본인의 제출만 받습니다. 10년 승인 종료에 이른 소지자를 위한 별도의 RP-T Post-10-Years 경로가 있으며, 이는 납세 증빙 요건을 5년으로 높입니다.
+
+수수료는 Talent Corporation Malaysia Berhad에 지급되며 결정에 걸쳐 나뉩니다. 승인 전 신청 수수료 RM500, 승인 시 주 신청인과 법적 배우자에 대해 처리 수수료 RM5,000(부양가족패스의 18세 미만 자녀, 그리고 사실혼 배우자·18세에서 25세 자녀·부모나 장인장모의 장기사회방문패스(Long-Term Social Visit Pass)는 RM4,500). 모두 8% SST 별도로 표시됩니다. 갱신은 RM300. 이민 수수료는 주 신청인과 부양가족패스 소지자 RM500, LTSVP 소지자 RM90이며 비자는 별도입니다. 배서 이전, 취소, 특별 패스는 무료입니다.
+
+## 부양가족패스와 장기사회방문패스
+
+부양가족패스는 법적 배우자, 18세 미만 자녀 — 친자·의붓자녀·법적 입양 자녀 — 그리고 연령 무관한 장애 자녀를 포괄합니다. 소지자가 서말레이시아에 체류할 수 있게 하되 **고용을 허용하지 않으며**, 취업하려면 취업 패스로 전환해야 합니다. 사회·복지 활동에 대해서는 이민국에 특별 허가를 구할 수 있습니다. 처리 기준은 근무일 14일입니다.
+
+그 범주 밖에 있는 친족은 대신 장기사회방문패스를 받습니다. 사실혼 배우자, 18세에서 25세 자녀, 그리고 부모와 장인장모입니다.
+
+취업 패스 소지자는 급여에 연동하여 가사 도우미도 스폰서할 수 있습니다. RM5,000 이상은 외국인 가정부 1명, RM10,000 이상은 2명, RM15,000 이상은 3명이며, 그 이상은 이민국에 회부됩니다.
+
+## 투자자패스
+
+취업 패스가 아니라 상용 방문자와 외국 투자자를 위한 복수 입국 편의입니다. 6개월이며, 사유가 있으면 추가 6개월 연장됩니다. 신청인은 신청 시 **말레이시아 밖에** 있어야 하고, 기업 이메일 도메인을 사용해야 하며 — 공개 웹메일은 즉시 거부됩니다 — **부양가족을 데려올 수 없습니다**. 반도 말레이시아와 라부안(Labuan)에서만 운영되고 사바나 사라왁에서는 운영되지 않습니다. 신청은 MIDA와 함께 Xpats Gateway를 통하며 근무일 5일 내에 처리됩니다.
+
+2026년 3월 13일에 "기존 투자자(Existing Investor)" 범주가 **폐지**되었습니다. 이미 말레이시아 회사를 소유하거나 그 이사직을 보유한 투자자는 더 이상 자격이 없으며, 취업 패스나 전문방문패스로 안내됩니다. 그 범주의 초안 신청은 같은 날 시스템에서 삭제되었습니다.
+
+## 흔한 실수
+
+**전문방문패스를 연장 가능한 것으로 취급하기.** 그렇지 않습니다. 12개월은 갱신 주기가 아니라 상한이며, 그것으로 18개월 파견을 계획하면 실패합니다.
+
+**배우자가 일할 수 있다고 가정하기.** 부양가족패스에는 근로권이 없습니다. 배우자에게는 고용주, 그것도 ESD 등록 고용주와 전환이 필요합니다.
+
+**말레이시아 회사에서 급여를 받으면서 DE Rantau를 사용하기.** 이 패스는 외국 원천 소득에 기반합니다. 말레이시아 고용주라면 취업 패스입니다.
+
+**취업 패스 연수가 새 고용주로 이월된다고 가정하기.** 2026년 6월 1일부터 기간은 고용 회사를 기준으로 계산되며 이직 시 다시 시작됩니다.
+
+**이미 말레이시아 이사이면서 투자자패스를 신청하기.** 그 범주는 2026년 3월 13일에 폐지되었습니다.
+
+**투자자패스를 사바나 사라왁 적용과 혼동하기.** 두 주 모두 자체 이민 통제를 운영하며, 투자자패스는 그 주들에 미치지 않습니다.
+
+## 다음 단계
+
+먼저 스폰서를 정한 뒤 패스를 정하십시오. 말레이시아 법인이 급여를 지급한다면, 문제 전체는 기본급이 어느 취업 패스 범주에 속하는지로 압축됩니다 — 그리고 그 구간은 2026년 6월 1일에 바뀌었습니다. 돈이 해외에서 온다면, 선택은 하나의 프로젝트에 묶인 12개월 전문방문패스와 어디에도 묶이지 않은 DE Rantau 패스 사이입니다.

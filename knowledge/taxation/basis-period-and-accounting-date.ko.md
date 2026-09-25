@@ -1,0 +1,125 @@
+---
+topicId: MY-TAX-0013
+title: "기준기간과 회계 결산일 변경"
+seoTitle: "말레이시아 기준기간: 첫 연도와 회계 결산일"
+slug: "basis-period-and-accounting-date"
+category: "taxation"
+subcategory: ["corporate-tax"]
+summary: "제21A조가 회사의 첫 기준기간을 어떻게 정하는지, 왜 첫 연도의 유한책임회사(Sdn Bhd)에는 과세연도가 전혀 없을 수 있는지, 그리고 회계 결산일이 이동할 때 무엇을 신고해야 하는지."
+
+tier: "3"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "회사의 기준기간은 소득세법 1967(Income Tax Act 1967) 제21A조에 의해 정해집니다. 첫 회계가 영업이 시작된 같은 역년에 종료되면 그 기간이 첫 기준기간입니다. 첫 회계가 그다음 해에 종료되면 첫 과세연도에는 기준기간이 전혀 없습니다. 이후 회계 결산일이 이동하면, 변경이 있는 해가 실패 연도(failure year)가 되며 국세청장이 그 해와 그다음 해의 기준기간을 지정합니다."
+keyTakeaways:
+  - "The first accounting period is the first basis period only if it closes in the same calendar year"
+  - "First accounts closing in year two mean there is no basis period, and no Form C, for year one"
+  - "First accounts running past 12 months into a third year push the first assessment to that third year"
+  - "A change of accounting date creates a failure year under s.21A(3), directed by the Director General"
+  - "Form CP204B must be lodged 30 days before the new accounts end, or 30 days before the old corresponding day"
+  - "Accounts spanning more than one year of assessment are split, with any fraction of a month falling in the first period"
+appliesTo: "Newly incorporated Sdn Bhd, LLPs, trust bodies and co-operative societies, and any company changing its financial year end."
+
+verificationNeeded:
+  - "Confirm the current CP204B submission address and whether e-filing of CP204B is available; the LHDN page states deadlines are printed on the reverse of the form"
+
+obligations:
+  - what: "Notify a change of accounting date on Form CP204B"
+    trigger: "change"
+    withinDays: 30
+    due: "30 days before the end of the new accounts where they close before the corresponding day, or 30 days before the corresponding day where they close after it"
+    authority: "LHDN"
+    statute: "Income Tax Act 1967, s.21A(3A)"
+    consequence: "Penalties and instalment increases based on the old accounting period remain recoverable under s.112(3A) and s.107C(11B)"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_8_2014.pdf"
+    publisher: "LHDN"
+    date: "2014-12-01"
+  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 21A, 77A, 107C and 112"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "LHDN"
+    date: "2024-05-21"
+  - title: "Change In Accounting Period"
+    url: "https://www.hasil.gov.my/en/syarikat/pertukaran-tarikh-penutupan-akaun-syarikat/"
+    publisher: "LHDN"
+
+entity: "Basis period"
+relations:
+  - { rel: "governs", to: "income-tax-act-1967" }
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "affects", to: "form-c-and-cp204" }
+related: ["form-c-and-cp204", "corporate-tax-rates", "income-tax-act-1967"]
+keywords: ["basis period Malaysia", "section 21A", "failure year", "CP204B", "change accounting date Malaysia", "tempoh asas"]
+---
+
+3월에 설립되어 첫 회계를 그다음 해 6월 30일에 종료하는 유한책임회사(Sdn Bhd)는 **첫 역년에 대한 과세연도가 없습니다**. 기준기간도, 양식 C(Form C)도, 과세소득도 없습니다. 회사가 매년 신고한다고 들어온 이사들은 이를 놀랍게 여기지만, 이는 단지 제21A조가 작동하는 방식일 뿐입니다.
+
+## 첫 기준기간은 어떻게 정해지는가?
+
+제21A(4)조는 세 가지 결과를 제시하며, 공개 예규(Public Ruling) 8/2014에서 실례와 함께 다시 설명됩니다.
+
+| 첫 회계 | 근거 조문 | 결과 |
+| --- | --- | --- |
+| 12개월 미만, 영업이 시작된 같은 역년에 종료 | 제21A(4)(a)조 | 그 기간이 첫 과세연도의 기준기간 |
+| 기간에 관계없이 그다음 역년의 어느 날에 종료 | 제21A(4)(b)조 | 그 기간이 **두 번째** 과세연도의 기준기간이 되며, **첫 번째에는 기준기간이 없음** |
+| 12개월 초과, 세 번째 역년에 종료 | 제21A(4)(c)조 | 그 기간이 **세 번째** 과세연도의 기준기간이 되며, 처음 두 해에는 기준기간이 없음 |
+
+예규의 예시 4는 2013년 11월 1일부터 2015년 4월 30일까지의 첫 회계를 가진 유한책임조합(LLP)에게 **2013년도 또는 2014년도의 기준기간을 부여하지 않으며**, 2015년도에 18개월 기준기간을 부여합니다.
+
+이것이 중첩되는 기준기간이 대체로 사라진 이유입니다. 2014년에 종료되는 첫 회계에 대해 현행 제21A(4)조가 시행되기 전에는, 회사가 같은 달들을 포괄하는 두 개의 기준기간을 가질 수 있었고 제42(2)조에 따라 안분되었습니다. 오늘날에는 중첩 대신 **과세연도가 누락**되므로, 건너뛴 해에 대해 신고할 것이 없습니다 — 그리고 LHDN의 신고 프로그램은 영업을 개시하지 않은 회사가 양식 CP204도 제출할 필요가 없음을 확인합니다.
+
+## 회계 결산일이 변경되면 어떻게 되는가?
+
+제21A(3)조는 회사가 어느 기준연도의 어느 날에 종료되는 12개월 회계를 작성한 후, 그다음 해에 **대응하는 날에 종료되는 회계를 작성하지 못하는** 경우에 적용됩니다. 그 해가 **실패 연도**이며, 국세청장은 실패 연도, 또는 그 해와 그다음 해의 기준기간을 임의의 길이로 지정할 수 있습니다.
+
+제5.2항은 **과세연도 누락이 없고** **같은 과세연도에 종료되는 두 개의 회계가 없는** 한, 납세자가 실제로 작성한 기간이 일반적으로 인정된다고 규정합니다. 네 가지 유형이 이어집니다.
+
+| 결산일 변경 | 실패 연도의 기준기간 |
+| --- | --- |
+| 단축되어 같은 해에 종료(2월 28일 → 12월 31일) | **22개월** — 단축분과 그다음 전체 연도가 결합되는데, 단축분만으로는 한 과세연도에 두 개의 종료가 남게 되기 때문 |
+| 단축되어 그다음 해에 종료(12월 31일 → 4월 30일) | 4개월 기간이 그 자체로 한 해에 종료되므로 그대로 유지됨 |
+| 그다음 해로 연장(7월 31일 → 10월 31일) | 15개월 기간이 그대로 유지됨 |
+| 두 과세연도에 걸쳐 연장(2014년 1월 1일 → 2015년 1월 31일) | 2014년도에 7개월, 2015년도에 6개월로 **분할** |
+
+그 마지막 유형에서 예규는 우선 판정 기준을 정합니다. 분할이 고르지 않은 경우 **1개월 미만의 소수 부분은 첫 기준기간에 귀속됩니다**.
+
+## 무엇을, 언제 신고해야 하는가?
+
+통지는 **양식 CP204B**이며, 그 시기는 행정적인 것이 아니라 법정입니다. 제21A(3A)조는 다음을 요구합니다.
+
+- 새 회계가 옛 대응일 *이전*에 종료되는 경우, **새 회계 종료 30일 전**; 또는
+- 새 회계가 그 *이후*에 종료되는 경우, **대응일 30일 전**.
+
+이를 놓치는 것은 서류상의 실수가 아닙니다. 제112(3A)조는 옛 회계기간을 근거로 제112(3)조에 따라 이미 부과된 벌금이 **여전히 징수 가능**하다고 규정하며, 제107C(11B)조는 제107C조에 따른 증액에 대해서도 동일하게 규정합니다. 통지하지 않는다고 해서, 이제 폐기한 마감일을 기준으로 산정된 벌금이 초기화되지는 않습니다.
+
+## 흔한 실수
+
+- **모든 회사가 첫 역년에 신고한다고 가정하는 것.** 첫 회계가 두 번째 해에 종료되는 경우, 첫 번째 해에는 기준기간이 전혀 없습니다. 존재하지 않는 해에 대한 영(nil) 양식 C는 LHDN이 되돌려야 하는 기록을 만듭니다.
+- **회계연도 종료일을 변경하고 감사인에게만 알리는 것.** CP204B는 제21A(3A)조에 자체 30일 기산을 가진 별개의 법정 통지입니다.
+- **단축 기간이 항상 단독으로 존재한다고 가정하는 것.** 단축 기간이 한 과세연도에 두 개의 종료를 두게 될 경우, 예규는 이를 결합합니다 — 이것이 22개월 기준기간이 발생하는 경위입니다.
+- **긴 기간을 균등하게 분할하는 것.** 고르지 않은 개월 수는 두 번째가 아니라 첫 기준기간에 귀속됩니다.
+
+## 다음 단계
+
+다른 모든 법인 마감일은 기준기간에서 비롯됩니다 — 기준기간 시작 30일 전의 CP204 추정, 두 번째 달부터의 분납, 그리고 종료 7개월 후의 양식 C입니다. 변경으로 길거나 짧은 기준기간이 발생했다면 CP204 추정도 재검토하십시오. 분납은 기준기간의 개월 수로 나누어지기 때문입니다.

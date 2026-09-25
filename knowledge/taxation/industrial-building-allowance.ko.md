@@ -1,0 +1,195 @@
+---
+topicId: MY-TAX-0053
+title: "산업용 건물 공제: 실제로 자격이 되는 것"
+seoTitle: "말레이시아 산업용 건물 공제: IBA 규칙"
+slug: "industrial-building-allowance"
+category: "taxation"
+subcategory: ["deductions-and-allowances"]
+summary: "제63항 정의와 확장에 의해 산업용으로 간주되는 건물, 2016년에 시행된 임대 제한, 그리고 매입 건물에 대한 적격 지출 함정."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "산업용 건물 공제는 소득세법 1967(Income Tax Act 1967) 부칙 3(Schedule 3) 제63항에 따라 산업용 건물로 사용되는 건물, 또는 그 정의를 병원, 연구 건물, 수출 창고, 호텔, 공항, 학교, 직원 숙소로 확장하는 항 중 하나에 따른 건물에 대한 자본지출을 상각합니다. 초기공제는 적격 건물 지출의 10퍼센트이고 연간공제는 3퍼센트이므로, 단순한 산업용 건물은 상각에 30개 과세연도가 걸립니다."
+keyTakeaways:
+  - "Paragraph 63 lists only six uses — factory, dock or wharf, public storage warehouse, water electricity or telecommunications undertaking, farm and mine"
+  - "Paragraph 65(3) excludes a dwelling house, retail shop, showroom or office outright"
+  - "Paragraphs 37A to 37H and 42 to 42C extend the treatment to hospitals, research buildings, export warehouses, approved service projects, registered hotels, airports, motor racing circuits, staff accommodation, childcare, schools and training buildings"
+  - "From the year of assessment 2016, paragraph 16B denies allowances on those extended categories where the building is used for letting of property, with a one-tenth floor area tolerance"
+  - "For a purchased building the qualifying expenditure is the purchase price, which includes legal fees, stamp duty and incidental costs but excludes land"
+  - "Where the sale and purchase agreement does not split land and building, a valuation is needed and the legal fees must be apportioned"
+  - "Paragraph 13(d) claws back the initial allowance as a balancing charge if the building is not in use as an industrial building in the following year of assessment"
+appliesTo: "Malaysian companies that build, buy or convert commercial and industrial premises, and their tax agents computing qualifying building expenditure."
+
+faq:
+  - q: "What are the industrial building allowance rates in Malaysia?"
+    a: "Paragraph 12 of Schedule 3 gives an initial allowance of one-tenth of the qualifying building expenditure, and paragraph 16 gives an annual allowance of three-hundredths, that is 3 per cent. Public Ruling No. 3/2018 confirms 10 per cent and 3 per cent as the standard rates unless a specific paragraph states otherwise. Several of the extended categories instead give 10 per cent a year over ten years."
+  - q: "Is an office block an industrial building?"
+    a: "No. Paragraph 65(3) of Schedule 3 provides that a building used as a dwelling house, retail shop, showroom or office is not and shall not be treated as an industrial building. The exception is a building used for those purposes within an industrial building complex and falling under paragraph 66, where the non-qualifying part costs no more than one-tenth of the whole."
+  - q: "Can I claim industrial building allowance on a factory I rent out?"
+    a: "Not on the extended categories. From the year of assessment 2016 subparagraph 16B(1) denies allowances under paragraphs 12 and 16 in respect of expenditure relating to paragraphs 37A, 37B, 37C, 37E, 37F, 37G, 37H, 42A, 42B and 42C where the building or part of it is used for the letting of property. If the let part is not more than one-tenth of the floor area the whole building still qualifies; above that, the allowance is restricted to the floor area not let."
+  - q: "What is the qualifying expenditure when I buy an existing building?"
+    a: "Subparagraph 3(2) of Schedule 3 makes it the purchase price of the building. Paragraph 70 includes legal fees, stamp duty and other incidental expenditure incurred by the purchaser, but excludes the price of the land or any interest in the land purchased with it. This has been the rule since the year of assessment 2005, when the earlier restrictions in paragraphs 3A, 4 and 5 were repealed."
+  - q: "What if the agreement does not separate the land price from the building price?"
+    a: "Public Ruling No. 3/2018 requires a valuation from the Valuation and Property Services Department or a professional valuer to establish the two figures. The incidental costs then have to be apportioned between land and building on the same ratio, since only the portion relating to the building forms part of qualifying building expenditure."
+  - q: "Does the seller's tax written down value matter to the buyer?"
+    a: "Not in an ordinary arm's length sale — the buyer's qualifying expenditure is its own purchase price, regardless of what the seller had written down. It does matter where the transaction falls within paragraphs 38 to 40, which deem a controlled transfer to take place at the disposer's residual expenditure and pass that figure to the acquirer."
+
+verificationNeeded:
+  - "Whether any gazetted order currently prescribes a fraction other than three-hundredths for the annual allowance under paragraph 16"
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Finance Act 2025 (Act 874), arrangement of sections — Chapter II amends ITA ss.2, 6, 7, 12, 15C, 21, 24, 46, 49, 50, 65C-65F, 107C and 111 and Schedules 1 and 6; it does not amend s.39 or Schedule 3 (nor did Act 862)"
+    url: "https://494075.fs1.hubspotusercontent-na1.net/hubfs/494075/compliance-portal/act-874-finance-act-2025.pdf"
+    publisher: "Attorney General's Chambers (gazette)"
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms PR 3/2018, PR 8/2016 and PR 10/2016 on industrial buildings remain current (not reissued)"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
+  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "LHDN"
+    date: "2024-05-21"
+  - title: "Public Ruling No. 3/2018 — Qualifying Expenditure And Computation Of Industrial Building Allowance"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_03_2018.pdf"
+    publisher: "LHDN"
+    date: "2018-09-12"
+  - title: "Public Ruling No. 8/2016 — Industrial Buildings Part I"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_08_2016.pdf"
+    publisher: "LHDN"
+    date: "2016-11-23"
+  - title: "Public Ruling No. 10/2016 — Industrial Buildings Part II"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2016.pdf"
+    publisher: "LHDN"
+    date: "2016-12-05"
+  - title: "Director General of Inland Revenue v Classic Japan (M) Sdn Bhd — Court of Appeal case report on paragraph 63"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20210309-revenews-classic-japan.pdf"
+    publisher: "LHDN"
+    date: "2021-03-09"
+
+entity: "Industrial building allowance under Schedule 3 of the Income Tax Act 1967"
+relations:
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "part-of", to: "income-tax-act-1967" }
+  - { rel: "related-to", to: "capital-allowances" }
+  - { rel: "related-to", to: "section-33-deductibility" }
+related: ["capital-allowances", "losses-and-group-relief"]
+keywords: ["industrial building allowance malaysia", "IBA schedule 3", "paragraph 63 schedule 3", "qualifying building expenditure", "factory tax allowance malaysia", "IBA rate 10% 3%"]
+---
+
+한 회사가 공장을 RM1,200,000에 매입하고 RM1,200,000에 대해 산업용 건물 공제를 청구합니다. 2년 후 세무조사가 청구를 50만 링깃 남짓으로 조정하고, 그 이후 모든 해의 초과분을 가산 조정하며, 벌금을 부과합니다. 건물에 관해 바뀐 것은 아무것도 없습니다. 회사는 단지 법이 결코 사용을 허용하지 않은 수치로 청구했을 뿐입니다.
+
+산업용 건물 공제는 부칙 3에서 가장 인색한 세제 혜택입니다 — 연 3퍼센트, 완전 상각에 30년 — 그리고 또한 가장 자주 과다 청구되는 것인데, 두 개의 어려운 질문이 잘못된 시점에 제기되기 때문입니다.
+
+## 어느 건물이 자격이 되는가?
+
+부칙 3 제63항은 짧고 폐쇄적입니다. 건물은 사업 목적으로 사용되고 다음의 경우 산업용 건물입니다.
+
+- **(a)** 공장으로 사용;
+- **(b)** 부두, 안벽, 잔교 또는 그 밖의 유사 건물로 사용;
+- **(c)** 창고로 사용되며, **사업이 대중에게 저장 공간을 대여하는 것으로 구성되거나 주로 구성됨**;
+- **(d)** 사업이 대중에게 공급하는 수도나 전기 사업, 또는 대중에게 서비스를 제공하는 통신 사업;
+- **(e)** 농장 경영과 관련하여 사용되며, 사업이 주로 농장 경영으로 구성됨; 또는
+- **(f)** 광산 경영과 관련하여 사용되며, 같은 기준.
+
+제64항은 *공장*을 제조, 가공, 또는 그 공정을 위한 동력 생성용 기계나 설비를 수용하는 방앗간, 작업장 또는 그 밖의 건물을 포함하도록 확장하지만 — 재화의 판매와 함께 또는 그에 부수하여 이루어지는 재화의 수리나 정비용 작업장은 명시적으로 제외합니다. 또한 공장과 **같은 부지 내에** 있으면서 판매 전 원자재, 연료, 저장품 또는 가공 제품을 보관하는 저장 건물을 포함합니다.
+
+제65(1)항은 사업의 근로자를 위해 제공되는 구내식당, 휴게실, 오락실, 화장실, 목욕탕 또는 세면실을 산업용 건물로 취급합니다. 이어 제65(3)항은 반대 방향의 의문을 제거합니다. **주택, 소매점, 전시실 또는 사무실**은 산업용 건물이 아니며 그렇게 취급되지 않습니다.
+
+제66항이 허용치를 제공합니다. 건물의 일부는 산업용 건물로 사용되고 일부는 그렇지 않은 경우, 비자격 부분의 건축 비용이 전체의 **10분의 1을 초과하지 않으면** 전체가 자격이 됩니다. 그 초과 시에는 지출이 바닥 면적으로 또는 국세청장이 지시하는 대로 안분됩니다.
+
+정의는 엄격하게 적용되나 좁게는 아닙니다. *DGIR v Classic Japan (M) Sdn Bhd*에서 항소법원은 별도의 수출 인센티브에 대해 납세자에게 불리하게 뒤집으면서도, 납세자의 공장이 제63항 내의 산업용 건물이며 산업용 건물 공제가 적절히 청구되었음을 확인했습니다.
+
+## 확장에 의해 자격이 되는 건물
+
+실무상 대부분의 산업용 건물 공제 청구는 제63항이 아니라 산업용 건물 규정을 *준용하여(mutatis mutandis)* 다른 것에 적용하는 항에 근거합니다.
+
+| 항 | 건물 | 공제 |
+| --- | --- | --- |
+| 37A | 면허 민간 병원, 산부인과, 요양원 | 표준; 임차 시설의 개조 포함 |
+| 37B | 승인 연구개발에 사용되는 건물 | 표준; 임차 시설의 개조 포함 |
+| 37C | **오로지** 수출용 재화 저장, 또는 가공 후 재수출할 수입품 저장에 사용되는 창고 | 10년간 연 10분의 1 |
+| 37E | 부칙 7B에 따른 승인 서비스 프로젝트용 건물 | 표준 |
+| 37F | **관광부에 등록된** 호텔 | 표준 |
+| 37G | 활주로와 부속 구조물을 포함한 공항 | 표준 |
+| 37H | 장관이 승인한 자동차 경주 트랙 | 표준 |
+| 42 | 산업용 건물이 사용 중인 경우 근로자를 위한 주거 숙소 | 초기공제 **5분의 2** |
+| 42A(1) | 제조, 호텔, 관광 또는 승인 서비스 프로젝트 사업의 직원 숙소 | 10년간 연 10분의 1 |
+| 42A(2) | 근로자를 위한 보육 시설 | 10년간 연 10분의 1 |
+| 42B | 학교나 승인 교육기관 | 10년간 연 10분의 1 |
+| 42C | 산업·기술·직업 훈련 건물 | 10년간 연 10분의 1 |
+
+제42(2)항과 제42A(4)항에 기재된 제외에 유의하십시오. 직원 숙소의 경우 *근로자*에는 이사, 사업을 지배하는 개인, 또는 경영·행정·사무직 구성원이 포함되지 않습니다. 재무 관리자를 위한 숙소는 산업용 건물이 아닙니다.
+
+## 대부분의 안내서가 여전히 놓치는 임대 제한
+
+2016년 과세연도부터, 제16B(1)항은 건물이나 그 일부가 그 사람에 의해 **부동산 임대**(임대업 포함)에 사용되는 경우, 제37A, 37B, 37C, 37E, 37F, 37G, 37H, 42A, 42B, 42C항과 관련된 지출에 대해 **제12항과 제16항에 따른 공제가 이루어지지 않는다**고 규정합니다.
+
+청구하는 자는 소유자이자 사업 운영자여야 합니다. 제16B(2)항은 10분의 1 허용치를 보존합니다. 임대 부분이 전체 건물 바닥 면적의 10분의 1을 초과하지 않으면 전체 건물이 여전히 자격이 됩니다. 제16B(3)항은 허용치를 초과하는 경우 공제를 임대하지 않은 바닥 면적으로 제한합니다.
+
+공개 예규(Public Ruling) 3/2018은 이를 예시로 풀어냅니다 — 약국과 카페테리아를 임대하는 병원, 소매 구획을 임대하는 호텔입니다. 산식은 전체 적격 건물 지출에 적용되는 바닥 면적 백분율이며, 임대가 계속되는 매년 반복됩니다.
+
+## 매입 건물 함정
+
+제3(1)항은 적격 건물 지출을 산업용 건물로 사용되는 건물의 **건축 또는 매입**에 대한 자본지출로 정합니다. 이어 제3(2)항은 매입에 대해 이를 정의합니다. 그 건물의 매입 가격입니다.
+
+두 가지 조정이 그것을 실제로 청구할 수 있는 수치로 바꿉니다.
+
+**제70항은 부수 비용을 포함하고 토지를 제외합니다.** 산업용 건물과 관련한 매입 가격은 매입자가 매입과 관련하여 발생시킨 법무 비용, 인지세, 또는 그 밖의 부수 지출을 포함하지만 — 토지나 그와 함께 매입한 토지 지분에 귀속되는 가격 부분은 포함하지 **않습니다**. 건물과 토지는 별개의 자산으로 취급됩니다.
+
+**계약이 이를 나누지 않는 경우, 누군가 나누어야 합니다.** 공개 예규 3/2018은 감정평가·부동산서비스국이나 전문 감정인의 평가를 요구하고, 그다음 부수 비용을 같은 비율로 안분합니다.
+
+법무 비용과 인지세 RM36,000이 있고, 매매계약이 하나의 수치를 제시하는 RM1,200,000의 매입을 예로 듭니다. 평가가 이를 나눕니다. 토지 RM700,000, 건물 RM500,000.
+
+| 항목 | RM |
+| --- | --- |
+| 평가에 따른 건물 원가 | 500,000 |
+| 건물에 귀속되는 법무 비용과 인지세 (500,000 ÷ 1,200,000 × 36,000) | 15,000 |
+| **적격 건물 지출** | **515,000** |
+
+10퍼센트 초기공제는 RM51,500이고, 3퍼센트 연간공제는 RM15,450입니다. 첫해 공제는 RM120만 지출에 대해 RM66,950이며 — 나머지 지출은 이후 29개 과세연도에 걸쳐 연 RM15,450으로 상각됩니다.
+
+그것이 함정입니다. 청구가 부인되는 것이 아니라, 청구 가능한 기준이 지급액의 약 43퍼센트이고 공제 프로필이 30년에 이른다는 것입니다. 표시 가격으로 세금 효과를 모델링하는 매입자는 첫해 공제를 두 배 이상 과대평가합니다.
+
+부칙 3의 제3A항, 제4항, 제5항 — 매입 건물의 적격 지출을 매도인이 지출한 것을 기준으로 제한하곤 했던 — 은 2005년 과세연도부터 폐지되었습니다. 공개 예규 3/2018은 이들이 그 해 이전에 매입한 건물에만 여전히 관련됨을 확인합니다.
+
+## 초기공제는 회수될 수 있습니다
+
+제13(c)항은 기준기간 종료 시점에 그 사람이 소유자가 아니었거나 건물이 산업용 건물로 사용 중이거나 사용 예정이 아니었던 경우 초기공제를 부인합니다. 제13(d)항은 더 나아갑니다. 초기공제가 **부여되었고** 건물이 **다음** 과세연도의 기준기간 중 어느 시점에 산업용 건물로 사용 중이거나 사용 예정이 아니었던 경우, 그 공제와 동일한 정산부과가 그것이 부여된 해에 부과됩니다.
+
+12월에 건물을 매입하여 초기공제를 청구하고, 다음 해에 걸쳐서야 시설을 갖추는 것만으로 이를 발동시키기에 충분합니다.
+
+## 흔한 실수
+
+**전체 매입 가격에 대해 청구하는 것.** 토지는 제70항에 의해 제외되고, 부수 비용은 안분되어야 합니다.
+
+**모든 창고를 산업용 건물로 취급하는 것.** 제63(c)항은 사업이 **대중에게** 저장 공간을 대여하는 것으로 구성되거나 주로 구성될 것을 요구합니다. 자기 재고를 보관하는 창고는 공장과 같은 부지 내의 제64(b)항, 또는 수출 저장의 제37C항에 따라서만 자격이 됩니다.
+
+**상가나 사무실에 대해 청구하는 것.** 제65(3)항은 제66항의 10분의 1 규칙만을 조건으로 하는 완전한 제외입니다.
+
+**혼용 건물에서 제16B항을 무시하는 것.** 바닥 면적의 10분의 1을 초과하여 임대하는 병원, 호텔, 학교는 임대 부분에 대한 공제를 잃으며, 제한은 매년 반복됩니다.
+
+**초기공제가 일단 청구되면 안전하다고 가정하는 것.** 제13(d)항은 건물이 다음 해에 산업 용도가 아니면 이를 되돌립니다.
+
+**매도인의 세무상 상각가액을 넘겨 읽는 것.** 정상가격 매각에서 매입자의 적격 지출은 매입자의 가격입니다. 제38항부터 제40항에 따른 지배 이전만이 잔여 지출로 대체됩니다.
+
+## 다음 단계
+
+상업 시설의 매매계약에 서명하기 전에, 토지와 건물 가치를 계약서 자체에 별도로 명시하십시오 — 이는 3년 후 세무조사 압박 하에 얻는 평가 보고서보다 훨씬 저렴합니다. 의도된 용도가 제63항 목록에 있는지, 아니면 확장 항 중 하나를 통해서만 산업용 건물 취급에 이르는지 확인하십시오. 임대 제한은 확장 범주에 적용되고 제63항 건물에는 적용되지 않기 때문입니다. 그리고 비용을 나누기 전에 무엇이 건물이 아니라 진정한 설비인지 확인하십시오. 설비는 건물의 3퍼센트에 비해 연 14 또는 20퍼센트로 상각되기 때문입니다.

@@ -1,0 +1,241 @@
+---
+topicId: MY-LAW-0011
+title: "제1독회에서 관보까지: 법안이 법률이 되는 과정"
+slug: "how-a-bill-becomes-law"
+category: "law"
+subcategory: ["legal-system"]
+summary: "말레이시아에서 법안의 전 과정 — 통지와 제1독회, 제2독회 토론, 위원회 단계, 제3독회, 상원(Dewan Negara)으로의 송부, 30일 이내 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)의 재가, 그리고 어떤 법률이 관보(Warta)에 게재될 때까지 여전히 발효되지 않는 이유를 다룹니다."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+
+answer: "법안은 세 번의 독회와 위원회 단계를 거쳐 의회의 두 원 — 하원(Dewan Rakyat)과 상원(Dewan Negara) — 에서 통과된 후, 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)에게 제출되어야 합니다. 연방헌법(Federal Constitution) 제66조 제4항에 따르면, 재가는 30일 이내에 국새(Mohor Besar)를 날인함으로써 이루어져야 합니다. 그렇지 않으면 제66조 제4A항이 그 기간이 끝날 때 이를 법률로 만듭니다. 다만 제66조 제5항은 어떠한 법률도 관보(Warta)에 게재될 때까지 발효될 수 없다고 정합니다."
+keyTakeaways:
+  - "Perkara 44 meletakkan kuasa perundangan persekutuan pada Parlimen, yang terdiri daripada Yang di-Pertuan Agong dan dua Majlis: Dewan Negara dan Dewan Rakyat"
+  - "Perkara 66(2) membenarkan rang undang-undang bermula di mana-mana satu Majlis, tetapi Perkara 67(1) melarang rang undang-undang bercirikan kewangan dimulakan di Dewan Negara"
+  - "Perkara 66(4) memberi Yang di-Pertuan Agong tempoh 30 hari untuk memperkenankan sesuatu rang undang-undang dengan mencapkan Mohor Besar"
+  - "Perkara 66(4A): jika perkenan tidak diberikan dalam tempoh itu, rang undang-undang itu menjadi undang-undang apabila tempoh itu habis, seolah-olah ia telah diperkenankan"
+  - "Perkara 66(5): sesuatu rang undang-undang menjadi undang-undang apabila diperkenankan, tetapi tiada undang-undang boleh berkuat kuasa sehingga disiarkan"
+  - "Perkara 68 membenarkan rang undang-undang wang dikemukakan kepada Yang di-Pertuan Agong jika Dewan Negara tidak meluluskannya dalam tempoh sebulan; bagi rang undang-undang lain, tempohnya sekurang-kurangnya setahun dan satu penggal berikutnya"
+  - "Pindaan perlembagaan di bawah Perkara 159(3) memerlukan undi dua pertiga daripada jumlah bilangan ahli setiap Majlis pada Bacaan Kali Kedua dan Kali Ketiga"
+appliesTo: "Pelajar undang-undang dan sains politik, wartawan, pegawai penggubalan dasar, peguam, dan sesiapa yang perlu mengetahui bila sesuatu Akta sebenarnya mula mengikat."
+
+seoTitle: "말레이시아에서 법안이 법률이 되는 과정"
+
+faq:
+  - q: "Berapa lama Yang di-Pertuan Agong ada untuk memperkenankan sesuatu rang undang-undang?"
+    a: "Perkara 66(4) Perlembagaan Persekutuan menetapkan tempoh tiga puluh hari selepas sesuatu rang undang-undang dikemukakan kepada baginda. Perkenan diberikan dengan menyebabkan Mohor Besar dicapkan pada rang undang-undang itu."
+  - q: "Apa berlaku jika perkenan tidak diberikan dalam tempoh 30 hari?"
+    a: "Perkara 66(4A) memperuntukkan bahawa rang undang-undang itu hendaklah menjadi undang-undang apabila habis tempoh yang ditentukan dalam Perkara 66(4), mengikut cara yang sama seolah-olah ia telah diperkenankan."
+  - q: "Adakah sesuatu Akta berkuat kuasa sebaik sahaja diperkenankan?"
+    a: "Tidak semestinya. Perkara 66(5) menyatakan sesuatu rang undang-undang menjadi undang-undang apabila diperkenankan, tetapi tiada undang-undang boleh berkuat kuasa sehingga ia disiarkan. Seksyen 19(1) Akta Tafsiran 1948 dan 1967 pula menetapkan tarikh permulaan kuat kuasa ialah tarikh yang diperuntukkan dalam Akta itu, atau jika tiada tarikh diperuntukkan, hari sejurus selepas tarikh penyiarannya."
+  - q: "Bolehkah Dewan Negara menghalang sesuatu rang undang-undang selama-lamanya?"
+    a: "Tidak. Perkara 68 memperuntukkan mekanisme masa. Bagi rang undang-undang wang yang tidak diluluskan tanpa pindaan dalam tempoh sebulan, rang undang-undang itu boleh dikemukakan kepada Yang di-Pertuan Agong. Bagi rang undang-undang bukan wang, Dewan Rakyat boleh meluluskannya semula dalam penggal berikutnya, tidak lebih awal daripada setahun selepas ia mula-mula diluluskan."
+  - q: "Adakah rang undang-undang mati apabila Parlimen diprorog?"
+    a: "Perkara 55(5) memperuntukkan bahawa sesuatu rang undang-undang yang belum diputuskan di dalam Parlimen tidak terluput disebabkan oleh pemprorogan Parlimen. Perkara 55(7) pula melindungi rang undang-undang yang menantikan perkenan daripada terluput disebabkan pemprorogan atau pembubaran Parlimen."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+sensitivity: "none"
+
+updated: 2026-07-24
+sources:
+  - title: "Perlembagaan Persekutuan / Federal Constitution"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
+    publisher: "Jabatan Peguam Negara Malaysia"
+  - title: "Federal Constitution — Reprint as at 15 October 2020"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Jabatan Peguam Negara Malaysia"
+    date: "2020-10-15"
+  - title: "Peraturan-Peraturan Majlis Mesyuarat Dewan Rakyat"
+    url: "https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf"
+    publisher: "Parlimen Malaysia"
+  - title: "Glosari Parlimen"
+    url: "https://www.parlimen.gov.my/glosari1.html"
+    publisher: "Parlimen Malaysia"
+  - title: "Interpretation Acts 1948 and 1967 (Akta 388) — cetakan semula"
+    url: "https://www.jkptg.gov.my/images/pdf/perundangan-tanah/Act_388-intepret.pdf"
+    publisher: "Undang-Undang Malaysia, Jabatan Peguam Negara"
+  - title: "Portal Perundangan Persekutuan Malaysia (Laws of Malaysia)"
+    url: "https://lom.agc.gov.my/"
+    publisher: "Jabatan Peguam Negara Malaysia"
+
+entity: "Proses penggubalan undang-undang Parlimen Malaysia"
+relations:
+  - { rel: "governs", to: "federal-constitution" }
+  - { rel: "part-of", to: "malaysia" }
+  - { rel: "related-to", to: "parliament" }
+  - { rel: "explained-in", to: "akta" }
+related: ["federal-constitution", "parliament", "dewan-negara", "warta-kerajaan"]
+keywords: ["rang undang-undang menjadi akta", "proses penggubalan undang-undang Malaysia", "bacaan pertama kedua ketiga", "perkenan diraja Yang di-Pertuan Agong", "Perkara 66 Perlembagaan Persekutuan", "Dewan Negara rang undang-undang", "pewartaan akta", "Perkara 68 rang undang-undang wang"]
+---
+
+어떤 법안은 하원(Dewan Rakyat)에서 통과되고, 상원(Dewan Negara)에서 동의되며, 국새(Mohor Besar)가 날인될 수 있습니다 — 그럼에도 여전히 그 누구도 구속하지 못할 수 있습니다.
+
+그 이유는 연방헌법(Federal Constitution) 제66조 제5항의 한 문장에 있습니다. 법안은 재가될 때 법률이 되지만, **어떠한 법률도 게재될 때까지는 발효될 수 없습니다**.
+
+그래서 법안의 여정은 원(院)에서 끝나지 않습니다. 그것은 관보(Warta)에서 끝납니다.
+
+## 간단한 답
+
+연방의 입법 권한은 의회(Parlimen)에 있으며, 제44조에 따르면 의회는 **양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)과 두 개의 원** — 상원(Dewan Negara)과 하원(Dewan Rakyat) — 으로 구성됩니다.
+
+제66조 제1항은 그 권한이 두 원에서 통과되고(또는 제68조에 언급된 경우 하원만으로) 양 디페르투안 아공이 재가한 법안을 통해 행사된다고 정합니다.
+
+## 여정 지도
+
+| 단계 | 장소 | 근거 |
+| --- | --- | --- |
+| 법안의 통지와 상정 | 법안이 시작되는 원 | P.M. 제48조, 제66조 제2항 |
+| 제1독회 | 같은 원 | P.M. 제48조 |
+| 제2독회(정책 토론) | 같은 원 | P.M. 제53조 |
+| 위원회 단계(조항별) | 전원위원회 또는 특별위원회 | P.M. 제54조, 제55조 |
+| 제3독회 | 같은 원 | P.M. 제61조 |
+| 다른 원으로 송부 | 의장의 전달 | P.M. 제70조, 제66조 제3항 |
+| 세 독회 재차 | 두 번째 원 | P.M. 제72조 |
+| 양 디페르투안 아공의 재가 | 국가궁전(Istana Negara) | 제66조 제4항, 제4A항 |
+| 관보 게재 | 연방 관보(Warta Kerajaan Persekutuan) | 제66조 제5항, Akta 388 제18조~제19조 |
+
+## 제1독회 이전
+
+제66조 제2항은 법안이 **어느 한** 의회의 원에서든 시작될 수 있게 합니다 — 다만 제67조의 적용을 받습니다.
+
+제67조 제1항은 중요한 예외입니다. 특정 재정 사항 — 조세의 부과 또는 인상, 연방의 자금 차입, 통합기금(Kumpulan Wang Disatukan)에의 부담 지움 또는 그로부터의 인출, 연방에 대한 채무 면제 등 — 을 규정하는 법안이나 개정안은 **장관만이 상정하거나 제안할 수 있으며**, 그러한 법안은 **상원에서 시작될 수 없습니다**.
+
+통상적인 관행에서는 대부분의 정부 법안이 하원에서 시작됩니다.
+
+## 제1독회: 토론 없음
+
+하원 회의규칙(Peraturan Mesyuarat, P.M.) 제48조는 장관이 적어도 하루 전에 통지를 낸 후, 원의 명령을 받을 필요 없이 법안을 회의에 상정할 수 있다고 정합니다.
+
+사무처장이 회의 탁자에서 그 법안의 명칭을 읽습니다. 그 후 그것은 제1독회를 마친 것으로 간주되어 다음 회기일 또는 그 이후의 제2독회를 위해 접수됩니다. 예산법안(Rang Undang-Undang Perbekalan)의 경우, 제2독회 통지가 당일에 나올 수 있습니다.
+
+의회의 공식 용어집은 이 단계를 아무 토론 없이 격식을 갖추어 간략히 이루어지는 공식적 도입으로 규정합니다.
+
+**의원발의 법안(rang undang-undang ahli persendirian)**은 다른 경로를 따릅니다. P.M. 제49조에 따라, 정부 소속이 아닌 의원은 동의를 통해 원의 허가를 구해야 합니다. 그 동의가 가결되면 법안은 제1독회를 마친 것으로 간주되어 날인이 명해집니다 — 그러나 그 후 그것은 소관 장관에게 맡겨지며, **원이 그 장관으로부터 진술을 받을 때까지 어떠한 조치도 진행될 수 없습니다**.
+
+## 제2독회: 정책의 격전
+
+P.M. 제53조 제1항은 제1독회 직후에 제2독회 통지를 내도록 요구합니다. P.M. 제53조 제2항은 법안 사본이 의원들에게 전달될 때까지 제2독회를 금합니다.
+
+상정되는 동의는 "이 법안을 지금 제2독회한다"이며, 토론은 **법안의 근거와 그 전반적인 장단점**에 미칠 수 있습니다.
+
+바로 이 단계에서 야당은 고전적인 개정을 제안할 수 있습니다. "지금"이라는 단어를 삭제하고 "오늘로부터 6개월"을 추가하는 것입니다. 원이 그 개정에 동의하면, 제2독회는 **부결된** 것으로 간주됩니다 — 법안은 거기서 멈춥니다.
+
+## 위원회 단계: 조항별
+
+제2독회를 마친 후, P.M. 제54조 제2항은 법안을 **전원위원회** — 즉 위원회로서 개회한 원 자체 — 에 회부합니다. 다만 원이 이를 특별위원회(Jawatankuasa Pilihan)에 회부하는 동의를 낸 경우는 예외입니다.
+
+제2독회 전후의 위원회의 차이는 명확합니다.
+
+- 제2독회 **이전에** 법안을 받은 위원회는 세부 사항 **및** 정책의 장단점을 논의할 수 있습니다(P.M. 제55조 제1항).
+- 제2독회 **이후에** 이를 받은 위원회는 **정책을 논의할 수 없으며** — 오직 그 세부 사항만 논의할 수 있습니다(P.M. 제55조 제2항).
+
+위원회는 법안의 내용에 관련되는 한, 그리고 헌법 제67조의 조건을 따르는 한, 적절하다고 여기는 어떠한 개정도 할 수 있습니다. 개정으로 인해 법안의 명칭과 더 이상 부합하지 않게 되면, 위원회는 그 명칭을 개정하고 이를 원에 통보하여야 합니다.
+
+좀처럼 언급되지 않는 한 규정이 있습니다. P.M. 제52조는 어떤 법안으로 인해 권리나 이익이 침해되는 당사자가, 직접 또는 자문가를 통해, 그 법안을 심의하는 위원회에서 자신의 청원을 진술할 수 있게 합니다.
+
+## 제3독회: 문이 닫히다
+
+P.M. 제61조 제1항에 따르면, 제3독회에서의 심의는 **법안의 내용에 한정됩니다**. 그 안에 포함되지 않는 사항을 제기하는 개정은 규칙 위반입니다. P.M. 제61조 제2항은 하원의장(Tuan Yang di-Pertua)의 허가를 받아 오류나 누락된 사항을 정정하는 것만을 허용합니다 — 중대한 사항에 대한 개정은 허용하지 않습니다.
+
+제3독회 동의가 제안되기 전에, 어떠한 의원이든 여전히 그 법안을 **다시** 전원위원회에 회부하도록 제안할 수 있습니다(P.M. 제59조).
+
+## 상원: 시계를 가진 두 번째 원
+
+제3독회와 통과 후, P.M. 제70조는 하원의장이 상원의장(Yang di-Pertua Dewan Negara)에게 전달을 보내면서, 사무처장이 서명한 법안의 정본 사본을 첨부하여 상원의 동의를 구하도록 요구합니다.
+
+상원에서 그 법안은 자체의 독회와 위원회 단계를 거칩니다. 반면 상원**에서** 온 법안은 제2독회일이 정해질 때까지 하원의 탁자 위에 상정됩니다(P.M. 제72조).
+
+상원은 하원의 거울이 아닙니다. 제45조 제1항에 따르면, 그 구성원은 제7부칙에 따라 선출되는 각 주별 2명; 쿠알라룸푸르(Kuala Lumpur) 연방직할구 2명, 라부안(Labuan) 1명, 푸트라자야(Putrajaya) 1명으로 양 디페르투안 아공이 임명하는 자; 그리고 **양 디페르투안 아공이 임명하는 40명**으로 이루어집니다. 제45조 제2항은 임명되는 자가 탁월한 공공 봉사를 했거나 전문직, 상업, 산업, 농업, 문화 활동 또는 사회 봉사에서 두각을 나타냈거나, 소수 인종을 대표하거나 원주민의 이익을 대표할 수 있는 자여야 한다고 정합니다.
+
+상원 의원의 임기는 3년이며 **의회의 해산에 영향받지 않습니다**(제45조 제3항). 한 의원은 두 임기를 초과하여 직을 맡을 수 없습니다(제45조 제3A항).
+
+### 두 원이 합의하지 못할 때
+
+제68조는 영구적 교착이 아니라 시간을 둔 출구를 제공합니다.
+
+| 법안 종류 | 요건 | 효과 |
+| --- | --- | --- |
+| 재정법안 | 하원에서 통과되어 회기 종료 적어도 한 달 전에 상원에 송부되고, 한 달 이내에 개정 없이 통과되지 않은 경우 | 하원이 달리 지시하지 않는 한 양 디페르투안 아공에게 제출 — 제68조 제1항 |
+| 재정법안이 아닌 법안 | 상원에서 통과되지 않거나 하원의 동의 없이 개정된 후, 다음 회기에 하원이 재차 통과시키되 최초 통과 후 1년보다 이르지 않으며, 다시 상원에서 통과되지 않은 경우 | 양 디페르투안 아공에게 제출 — 제68조 제2항 |
+
+제68조의 규정이 준수되었다는 하원의장의 증명은 **모든 목적상 확정적이며 어떠한 법원에서도 다툴 수 없습니다**(제68조 제4항).
+
+두 가지 중요한 한계가 있습니다. 제68조 제5항은 이 조가 헌법 개정 법안(제159조 제3항에서 제외되는 개정을 제외)에는 **적용되지 않는다**고 정합니다. 그리고 제68조 제6항은 "재정법안"을 **하원의장이** 그렇게 **증명하는** 법안으로 정의합니다. P.M. 제69조는 그 증명이 법안과 함께 상원에 전달되는 방식을 정합니다.
+
+## 양 디페르투안 아공의 재가
+
+제66조 제3항은 법안이 다른 원에서 통과되고 어떠한 개정에 관하여 두 원 간에 합의가 이루어졌을 때, 또는 제68조에 따라 제출이 요구될 때 양 디페르투안 아공에게 제출되도록 요구합니다.
+
+제66조 제4항은 양 디페르투안 아공이 법안이 제출된 후 **30일 이내에** **국새(Mohor Besar)를 날인**함으로써 이를 재가하여야 한다고 정합니다.
+
+제66조 제4A항은 그 메커니즘을 완성합니다. 그 기간 내에 재가가 이루어지지 않으면, 그 법안은 **그 기간이 끝날 때 법률이 되어야 하며**, 마치 재가된 것과 동일한 방식으로 그렇게 됩니다.
+
+재가를 기다리는 법안 역시 정치적 일정으로부터 보호됩니다. 제55조 제7항은 제66조 제4항 또는 제4A항에 따라 재가를 기다리는 법안이 의회의 정회나 해산으로 인해 **소멸되지 않는다**고 정합니다. 제55조 제5항은 미결 법안이 정회로 인해 소멸되는 것을 방지합니다.
+
+## 관보 게재가 모든 것을 결정하는 이유
+
+바로 여기서 많은 사람이 오해합니다.
+
+제66조 제5항은 흔히 하나로 여겨지는 두 가지를 분리합니다.
+
+1. **법률이 되는 것** — 재가될 때, 또는 제66조 제4A항에 규정된 대로 발생.
+2. **발효되는 것** — 그 법률이 게재될 때까지는 발생할 수 없음.
+
+같은 조는 의회가 어떠한 법률의 발효를 연기하거나 소급 발효하는 법률을 제정할 권한을 유지합니다.
+
+1948년 및 1967년 해석법(Akta 388) 제18조 제1항은 관보를 여러 부분으로 편성하는데, 여기에는 양 디페르투안 아공이 공포한 모든 의회 제정법과 조례를 담는 **Acts Supplement(법률 부록)**, 모든 법안을 담는 **Bills Supplement(법안 부록)**, 그리고 부속 입법을 위한 Legislative Supplement A 및 B가 포함됩니다. 제18조 제2항은 말레이시아 공식 관보 게재를 연방법상 게재가 요구되는 어떠한 사항에 대해서도 **충분한 통지**로 만듭니다.
+
+제19조 제1항은 일자 산식을 정합니다. 어떤 법률의 발효 시점은 그 법률 안에서 또는 그에 따라 규정된 일자이며, **일자가 규정되지 않은 경우 그 게재일 바로 다음 날**입니다. 제19조 제2항은 그것이 발효일 전날이 끝나는 즉시 발효된다고 정합니다.
+
+그 실무적 효과는 이렇습니다. 많은 말레이시아 법률이 관보에 게재되면서도, 장관이 관보 고시를 통해 정하는 날에 발효된다고 규정합니다. 그 고시는 P.U.(B)로 발행되며 몇 달 — 또는 몇 년 — 후에, 때로는 조 단위로 나올 수 있습니다. [말레이시아 연방 입법](https://lom.agc.gov.my/) 포털이 바로 이러한 법률, 개정, P.U.(A) 및 P.U.(B)를 열거합니다.
+
+용어집 항목 [관보(Warta Kerajaan)](/glossary/warta-kerajaan)와 [법률(Akta)](/glossary/akta)도 참조하십시오.
+
+## 헌법 개정 법안인 경우
+
+제159조 제1항은 그 조 자체와 제161E조를 따르는 것을 조건으로, 연방법을 통해 헌법을 개정할 수 있게 합니다.
+
+제159조 제3항은 더 높은 문턱을 더합니다. 헌법 개정 법안(제외되는 개정을 제외)은 **제2독회와 제3독회에서 그 원 총 의원 수의 3분의 2 이상의 찬성**으로 지지되지 않는 한 어느 한 원에서도 통과될 수 없습니다. 이를 통상적인 결정이 투표하는 의원의 단순 다수결로 이루어진다고 정하는 제62조 제3항과 비교해 보십시오.
+
+두 겹의 추가 동의 절차도 존재합니다.
+
+- **제159조 제5항** — 제10조 제4항, 제3부, 제38조, 제63조 제4항, 제70조, 제71조 제1항, 제72조 제4항, 제152조 또는 제153조를 비롯한 특정 규정의 개정은 **통치자 회의(Majlis Raja-Raja)**의 동의 없이 통과될 수 없습니다.
+- **제161E조 제2항** — 사바(Sabah)나 사라왁(Sarawak)의 주와 관련된 시민권, 그 주의 고등법원 구성과 관할, 그리고 그 주의 입법 권한과 재정 조정과 같은 열거된 사항을 건드리는 경우, **사바 또는 사라왁 주지사(Yang di-Pertua Negeri)**의 동의 없이는 어떠한 개정도 할 수 없습니다.
+
+이 틀의 전체 배경은 [연방헌법(Federal Constitution)](/law/federal-constitution)과 [말레이시아 의회](/government/parliament) 문서에 있습니다.
+
+## 흔한 오해
+
+**"의회가 통과시켰으니 법률이 이미 발효되었다."** 제66조 제5항은 통과, 재가, 발효를 분리합니다. 통과일이 아니라 발효 시점을 확인하십시오.
+
+**"그 법률이 관보에 게재되었으니 오늘부터 적용된다."** 반드시 그렇지는 않습니다. Akta 388 제19조 제1항은 그 법률 자체에 규정된 일자를 우선하며, 일자가 규정되지 않은 경우에만 게재 다음 날이 적용됩니다.
+
+**"상원은 무엇이든 부결시킬 수 있다."** 제68조는 이견을 우회하는 일정에 따른 경로를 제공합니다 — 재정법안은 한 달, 그 밖의 법안은 최소 1년과 다음 회기입니다.
+
+**"재정법안은 어디서든 시작될 수 있다."** 제67조 제1항은 그것이 상원에서 시작되는 것을 금하며 장관이 상정하도록 요구합니다.
+
+**"의회가 정회되면 법안은 소멸한다."** 제55조 제5항과 제55조 제7항은 미결 법안과 재가를 기다리는 법안에 대해 그 반대로 규정합니다.
+
+**"헌법의 말레이어 본문이 정본이다."** 법무장관실이 발행한 말레이어 재발행본은 그 자체가 *Federal Constitution*의 **번역일 뿐**이며, 제160B조에 따라 정본으로 정해지지 않는 한 그리고 그럴 때까지 입법이 아니라고 스스로 밝히고 있습니다.
+
+## 다음 단계
+
+특정 법안을 추적하고 있다면, 세 문서를 순서대로 따라가십시오. 상정된 그대로의 법안 본문, 위원회 단계 후 통과된 그대로의 판본, 그리고 관보에 게재된 그대로의 법률입니다. 이 셋 사이의 차이가 바로 실제 변화가 일어난 곳입니다.
+
+더 읽으려면, 전체 틀에 대해서는 [연방헌법(Federal Constitution)](/law/federal-constitution)에서 시작한 다음, 이 과정을 수행하는 기관에 대해서는 [말레이시아 의회](/government/parliament)를 참조하십시오.

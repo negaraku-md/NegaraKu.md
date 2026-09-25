@@ -1,0 +1,147 @@
+---
+topicId: MY-BIZ-0144
+title: "말레이시아에서 사회단체 등록국(ROS)을 통해 사회단체(Persatuan)를 등록하는 방법"
+seoTitle: "말레이시아 사회단체 등록: ROS, 사회단체법 1966 및 eROSES"
+slug: "register-society-ros-malaysia"
+category: "business"
+subcategory: ["formation"]
+summary: "사회단체법(Societies Act 1966)에 따라 비영리 사회단체를 등록하는 방법 — 7인 규정, 발기위원회와 3인의 임원, 사회단체 등록국(JPPM)에 제출하는 eROSES 온라인 신청, 부속서 1(First Schedule)이 요구하는 정관, 명칭 승인, 연차 보고, 미등록 사회단체가 불법인 이유, 그리고 ROS 경로가 보증유한회사 및 자선신탁과 어떻게 비교되는지를 다룹니다."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "사회단체(persatuan)란 영리 목적으로 운영되는 사업이 아닌 적법한 목적을 위해 결성된, 7인 이상의 클럽, 회사, 조합 또는 결사체를 말합니다 — 사회단체법 1966 제2조. 7인 이상의 발기인이 발기 회의를 열어 3인의 임원(회장, 총무, 재무)을 선출하고 법의 부속서 1에 규정된 사항을 담은 정관을 채택한 뒤, 총무가 eROSES 포털을 통해 사회단체 등록국(JPPM)에 신청합니다. 제7조에 따라 등록되기 전까지 사회단체는 불법이며, 일단 등록되면 등록국에 연차 보고서를 제출해야 합니다. 소득세법 1967 제44조 제6항에 따른 면세 지위는 별개이며 말레이시아 국세청(LHDN)에 별도로 신청합니다."
+keyTakeaways:
+  - "A 'society' under section 2 of the Societies Act 1966 is an association of seven or more persons for any lawful object — but NOT a company, co-operative, trade union, or a body formed for the sole purpose of carrying on a business for profit."
+  - "Seven founders form a pro-tem committee, elect a president, secretary and treasurer, and adopt a constitution covering every matter in the First Schedule; the secretary then applies through eROSES to the Registrar of Societies (JPPM)."
+  - "An unregistered local society is an unlawful society under section 41 — and until it is registered no one may run its activities without the Registrar's written permission (section 6(2))."
+  - "The Society (ROS) route is the cheapest and most common non-profit vehicle; a company limited by guarantee (SSM) and a charitable trust/foundation are the alternatives, each more formal. Tax exemption under subsection 44(6) is a separate LHDN application."
+appliesTo: "Founders of associations, clubs, NGOs, alumni groups, residents' associations, religious and welfare bodies, and community organisations in Malaysia; and advisers comparing the society, CLBG and trust routes."
+
+faq:
+  - q: "How many people do you need to register a society in Malaysia?"
+    a: "At least seven. Section 2 of the Societies Act 1966 defines a 'society' as any club, company, partnership or association of seven or more persons. In practice those seven founders hold a pro-tem (provisional) meeting, adopt the constitution and elect the committee, and the three main office-bearers register on eROSES to lodge the application. The Registrar may require office-bearers to be Malaysian citizens (First Schedule, paragraph 1(gg))."
+  - q: "Can a society be run for profit?"
+    a: "No. The Societies Act 1966 specifically excludes from the definition of 'society' any company, association or partnership formed for the sole purpose of carrying on a lawful business that has for its object the acquisition of gain (section 2). A society is a non-profit membership body; if the aim is to distribute profit to members, you need a company under the Companies Act 2016, not a society."
+  - q: "What has to be in a society's constitution?"
+    a: "The First Schedule to the Act (referenced by section 7(3)(e)) lists the mandatory contents: the name and registered address; aims and objects; membership qualifications; how the committee is appointed and the office-bearers' powers; sources of income and subscriptions; who may authorise spending; keeping and annual publication of accounts; appointment of auditors; the quorum for meetings; and how the constitution may be amended. The Registrar can refuse registration if any of these are missing. JPPM publishes model constitutions you can adopt."
+  - q: "What happens if a society is not registered?"
+    a: "It is unlawful. Section 41(1)(b) makes any local society that is not registered under section 7 an unlawful society, and section 6(2) says that until a society is registered no person may organise or take part in its activities — beyond corresponding with the Registrar — without the Registrar's written permission. Office-bearers of an unlawful society commit an offence under section 42."
+  - q: "Does a registered society have to file anything each year?"
+    a: "Yes. Under section 14, every registered society must, within sixty days after its annual general meeting (or within sixty days after the end of the calendar year if no AGM is held), send the Registrar an updated list of office-bearers and member numbers, any rule amendments, its address, and its accounts and balance sheet for the last financial year. Failure to file can lead to cancellation of registration."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-09-10
+published: null
+reviewDue: 2027-09-10
+revision: null
+revisions: []
+
+updated: 2026-09-10
+sources:
+  - title: "Societies Act 1966 (Act 832, Revised 2021)"
+    url: "https://www.mdi.gov.my/wp-content/uploads/2025/06/Akta-832-Akta-Pertubuhan-1966.pdf"
+    publisher: "Laws of Malaysia / Attorney General's Chambers of Malaysia"
+  - title: "Registrar of Societies (JPPM) — Portal and eROSES online system"
+    url: "https://www.ros.gov.my/portal-main/faq"
+    publisher: "Jabatan Pendaftaran Pertubuhan Malaysia (Registrar of Societies)"
+  - title: "Income Tax Act 1967 (Act 53) — subsection 44(6)"
+    url: "https://www.hasil.gov.my/media/znonhmuj/20231101-income-tax-act-1967-act-53.pdf"
+    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+
+entity: "Society (Persatuan, Registrar of Societies)"
+relations:
+  - { rel: "related-to", to: "company-limited-by-guarantee-malaysia" }
+related: ["company-limited-by-guarantee-malaysia"]
+keywords: ["register society malaysia", "persatuan registration malaysia", "Registrar of Societies", "Societies Act 1966", "eROSES", "JPPM", "how to register NGO malaysia", "pro-tem committee"]
+social:
+  hashtags:
+    - Malaysia
+    - NonProfit
+    - Society
+    - ROS
+    - NGO
+    - Persatuan
+    - CivilSociety
+---
+
+주민 협의회, 동문회, 스포츠 클럽, 종교 단체 또는 복지 NGO를 운영하고자 하는 일곱 명의 친구들은 말레이시아에서 모두 동일한 법적 수단에 손을 뻗습니다: 바로 **사회단체**, 즉 *persatuan*입니다. 이는 말레이시아의 기본적인 비영리 회원제 구조로 — 설립 비용이 저렴하고 자본 요건도 낮지만 — 자체 법령인 사회단체법 1966과 자체 규제기관 아래에 있으며, 서류를 잘못 처리하면 자신도 모르는 사이에 *불법* 단체를 운영하게 될 수 있습니다.
+
+여기서는 사회단체 등록이 실제로 어떻게 이루어지는지, 그리고 보증유한회사(company limited by guarantee)나 신탁이 더 나은 수단인 경우는 언제인지 살펴봅니다.
+
+## 법에서 "사회단체"로 간주되는 것은 무엇인가?
+
+사회단체는 매우 폭넓게 정의됩니다. **사회단체법 1966 제2조**에 따르면 *사회단체*란 "그 성격이나 목적이 무엇이든, 일시적이든 영구적이든, 7인 이상의 클럽, 회사, 조합 또는 결사체를 포함한다"고 규정됩니다. 핵심 기준은 공통의 목적을 위해 결합한 **7인 이상**입니다.
+
+똑같이 중요한 것은 사회단체가 **아닌** 것입니다. 동일한 조항은 다른 법률에 속하는 단체들 — 회사법에 따라 등록된 회사, 협동조합, 노동조합, 학교 단체, 그리고 결정적으로 **이익 취득을 목적으로 하는 적법한 사업을 영위할 유일한 목적으로 결성된 회사, 결사체 또는 조합** — 을 제외합니다. 쉽게 말해, 사회단체는 *비영리* 회원제 결사체입니다. 이익을 벌어 분배하는 것이 목적이라면 사회단체가 아니라 회사가 필요합니다.
+
+규제기관은 **사회단체 등록국(Registrar of Societies, ROS)** — 즉 *Jabatan Pendaftaran Pertubuhan Malaysia*(JPPM) — 으로, 회사를 감독하는 부처와는 다른 내무부(Ministry of Home Affairs) 소속입니다.
+
+## 등록해야 하는 이유 — 그리고 제때 등록해야 하는 이유
+
+등록은 선택 사항이 아닙니다. **제6조 제1항**은 모든 지역 사회단체가 규정된 방식으로 등록국에 등록을 신청하도록 요구합니다. 이를 건너뛰면 두 가지 결과가 따릅니다:
+
+- **제6조 제2항**에 따라, 사회단체가 등록되기 전까지는 그 누구도 — 등록국과의 서신 왕래를 제외하고 — **등록국의 서면 허가 없이** 사회단체의 어떠한 활동도 조직하거나 참여할 수 없습니다.
+- **제41조 제1항 (b)호**에 따라, 제7조에 따라 등록되지 않은 사회단체는 **불법 사회단체**이며, 그 임원은 제42조에 따른 위법 행위를 범하게 됩니다.
+
+따라서 순서가 중요합니다: 발기위원회를 구성한 뒤 신속히 신청하고, 증명서가 발급되기 전까지는 행사를 개최하거나 사회단체 명의의 계좌를 개설하거나 회비를 징수하는 것을 삼가야 합니다. (사회단체 규칙 1984(Societies Regulations 1984)는 신청 양식과 사회단체 설립 후 제출까지의 짧은 기간을 규정합니다.)
+
+## 발기위원회와 3인의 임원
+
+창립 단계는 최소 7인으로 구성된 **발기(임시) 회의**입니다. 그 회의에서 실질적인 작업이 이루어집니다: 사회단체의 명칭을 정하고, **정관**을 채택하며, 위원회를 선출합니다 — 여기에는 이 제도가 중심으로 삼는 3인의 주요 임원, 즉 **회장, 총무, 재무**(*Yang Dipertua, Setiausaha, Bendahari*)가 포함됩니다.
+
+신청 자체는 JPPM의 전자 등록 시스템인 **eROSES**(`eroses.gov.my`)를 통해 온라인으로 제출됩니다. **총무**가 eROSES 사용자로 등록하여 신청서를 제출하며, 3인의 주요 임원이 시스템에서 본인 신원을 확인합니다. 소액의 등록 수수료가 부과되며(JPPM은 신규 사회단체에 대해 **RM30**으로 정함), eROSES를 통해 납부합니다. 등록국은 임원이 말레이시아 시민일 것을 요구할 수 있다는 점에 유의하십시오 — 부속서 1 제1조 (gg)항은 등록국이 임원과 집행부가 시민일 것을 요구할 수 있도록 허용합니다.
+
+## 법이 요구하는 정관
+
+사회단체는 명칭과 소망만으로는 등록될 수 없습니다 — 반드시 정해진 점검 목록을 담은 정관(규칙)을 채택해야 합니다. 법의 **부속서 1**(**제7조 제3항 (e)호**에서 참조)은 정관이 무엇보다도 다음 사항들을 규정하도록 요구합니다:
+
+- **명칭**과 등록된 영업소 또는 우편 주소;
+- 사회단체가 결성된 목적 및 그 자금이 사용될 수 있는 **취지 또는 목적**;
+- **회원 자격 요건**과 회원이 가입되는 방식;
+- **위원회의 구성 및 임명**과 임원의 권한;
+- **수입원**, 입회비 및 회비;
+- 누가 **지출을 승인**할 수 있는지, **회계장부**의 유지 및 회원에 대한 연차 공개, 그리고 **감사(auditors)**의 임명;
+- 회의의 **정족수**; 그리고
+- **정관을 개정하는 방법**.
+
+요구되는 사항 중 어느 하나라도 누락되면 **제7조 제3항 (e)호**에 따라 등록국이 등록을 거부할 수 있습니다. 이를 쉽게 하기 위해 JPPM은 신규 사회단체가 채택할 수 있는 **표준 정관**(비지부형, 지부형, 상호부조형 사회단체용)을 공개하고 있습니다 — 템플릿을 사용하는 것이 승인에 이르는 가장 빠른 길입니다.
+
+## 명칭 승인 및 거부 사유
+
+명칭은 등록 시 점검됩니다. **제7조 제3항 (d)호**에 따라 등록국은 사회단체의 성격에 대해 오인을 줄 수 있는 명칭, 다른 사회단체의 명칭과 지나치게 유사하여 기만할 수 있는 명칭, 기존 지역 사회단체의 명칭과 **동일한** 명칭, 또는 등록국의 판단으로 바람직하지 않은 명칭을 **반드시 거부해야** 합니다. JPPM은 또한 명칭이 **말레이어(Bahasa Melayu)**로 되어 있을 것을 요구합니다(영어 버전을 사용하는 경우 괄호 안에 병기). 명칭 외에도, 제7조 제3항은 등록국이 **불법이거나 평화, 안보, 공공질서 또는 도덕에 해로운 것으로 보이는** 사회단체, 또는 실제로 존재하지 않는 사회단체를 거부할 수 있도록 합니다.
+
+## 등록 이후: 연차 보고
+
+등록에는 지속적인 의무가 따릅니다. **제14조**에 따라 모든 등록 사회단체는 **정기 총회 후 60일 이내** — 또는 정기 총회를 개최하지 않는 경우 역년 종료 후 60일 이내 — 에 임원 및 회원 수의 최신 목록, 규칙 개정 사항, 주소, 그리고 최근 회계연도의 **회계장부와 대차대조표**를 등록국에 제출해야 합니다. 이러한 제출을 소홀히 하는 것이 등록이 취소되는 흔한 이유입니다.
+
+## 사회단체 vs 보증유한회사 vs 신탁
+
+사회단체는 말레이시아의 세 가지 비영리 경로 중 하나이며, 이들은 각기 다른 법률과 규제기관의 규율을 받습니다:
+
+| 특징 | 사회단체 / *persatuan* (ROS) | 보증유한회사 (SSM) | 자선신탁 / 재단 |
+|---|---|---|---|
+| 관할 법률 | 사회단체법 1966 | 회사법 2016 제45조 | 신탁법; 법인격은 수탁자(법인화)법 1952 |
+| 규제기관 | 사회단체 등록국(JPPM), 내무부 | 기업위원회(SSM) | 법무부(Legal Affairs Division) / 법원 |
+| 설립자 | 7인 이상의 회원 | 사원(공개회사) | 위탁자 + 수탁자; 회원 없음 |
+| 법인격 | 법에 따라 등록된 단체 | 완전한 별개의 법적 실체(회사) | 수탁자가 법인화된 경우에만 |
+| 비용 및 형식성 | 가장 낮음; 소액 수수료, 표준 정관 | 더 높음; 회사 준법의무, 적격성 심사 | 중간; 정식 신탁증서 |
+| 전형적 용도 | 클럽, 결사체, 지역 및 종교 NGO | 재단, 전문가 단체, 상공회의소 | 기금, 가족 또는 보조금 지급 재단 |
+
+**[보증유한회사](/en/business/company-limited-by-guarantee-malaysia)**는 보다 정식적인 회사법 경로입니다 — 주식자본이 없는 공개회사로, 이사 심사와 (명칭에서 "Berhad"를 뺄 경우) RM100만의 기금을 요건으로 합니다. **신탁**은 회원제가 아니라 수탁자가 운영하는 기금에 적합합니다: 수탁자는 수탁자(법인화)법 1952에 따라 법인화하여 기금에 영속적 존속성을 부여할 수 있습니다. 대부분의 풀뿌리 단체에게는 회원제 기반이고, 저렴하며, 결사체를 위해 특별히 만들어졌기 때문에 **사회단체가 자연스러운 선택**입니다.
+
+## 면세는 별도의 단계이다
+
+사회단체를 등록하는 것만으로는 그 자체로 면세가 되거나 그에 대한 기부가 세액 공제 대상이 되지 **않습니다**. 그러한 지위는 **소득세법 1967 제44조 제6항**에 따른 기관 또는 단체로서의 승인을 위한 **LHDN에 대한 별도 신청**에서 비롯됩니다. 승인을 받으면 단체의 소득이 면제되고 기부자가 기부금에 대한 공제를 청구할 수 있게 됩니다 — 그러나 이는 ROS 등록과는 전혀 별개로, 세무당국이 자체 기준에 따라 부여합니다. 사회단체가 운영되기 시작하여 그 목적과 회계를 제시할 수 있게 된 후, 두 번째의 나중 단계로 계획하십시오.
+
+## 다음 단계
+
+사회단체가 여러분의 목적에 부합한다면 실무적 경로는 짧습니다: 일곱 명의 발기인을 모아 발기 회의를 열어 명칭을 정하고 JPPM의 표준 정관을 채택하며, 회장, 총무, 재무를 선출한 뒤, 총무가 eROSES를 통해 신청서를 제출하십시오 — 그리고 미등록 사회단체는 불법이므로 증명서가 발급되기 전까지는 활동과 모금을 삼가십시오. 일단 등록되면 등록이 결코 위태로워지지 않도록 제14조에 따른 연차 보고를 달력에 표시하고, LHDN의 제44조 제6항 면세는 자동적인 혜택이 아니라 의도적인 후속 조치로 다루십시오. 단체가 상당한 자산을 보유하거나, 상업적 성격의 활동을 운영하거나, 회사 지위의 신뢰성이 필요하다면, 결정하기 전에 [보증유한회사](/en/business/company-limited-by-guarantee-malaysia)와 비교해 보십시오.

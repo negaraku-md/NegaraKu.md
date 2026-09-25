@@ -1,0 +1,229 @@
+---
+topicId: MY-EMP-0047
+title: "말레이시아의 아동 및 연소자 고용"
+seoTitle: "아동 및 연소자 고용: 말레이시아 법률 제350호(Akta 350)"
+slug: "children-young-persons-employment-malaysia"
+category: "employment"
+subcategory: ["kanak-kanak"]
+summary: "아동 및 연소자(고용)법 1966(Children and Young Persons (Employment) Act 1966, Akta 350)에 관한 안내 — 최저 취업 연령, 허용되는 근로의 종류, 근로시간 한도, 금지되는 위험 작업, 공연 근로 허가, 그리고 고용주에 대한 벌칙."
+
+tier: "2"
+mode: "practical"
+contentType: "law"
+sensitivity: "none"
+
+answer: "말레이시아 반도에서의 아동 및 연소자 고용은 고용법 1955(Employment Act 1955)와 별도로 아동 및 연소자(고용)법 1966(Children and Young Persons (Employment) Act 1966, Akta 350)에 의해 규율됩니다. 아동(15세 미만)은 만 13세 이상부터 제한된 경노동만 할 수 있으며, 연소자(15세 이상 18세 미만)는 더 넓게 근로할 수 있으나 여전히 근로시간 한도와 위험 작업 금지의 보호를 받습니다. 이 법을 위반하면 최대 RM50,000의 벌금 또는 최대 2년의 징역, 또는 둘 다에 처해질 수 있습니다."
+keyTakeaways:
+  - "Akta 350 mentakrif 'kanak-kanak' sebagai orang bawah 15 tahun dan 'orang muda' sebagai orang berumur 15 hingga bawah 18 tahun (seksyen 1A)."
+  - "Umur minimum untuk kerja ringan ialah tidak kurang daripada 13 tahun (seksyen 2(2A))."
+  - "Tiada kanak-kanak atau orang muda boleh melakukan kerja berbahaya dalam Jadual Keempat; larangan mutlak dalam Jadual Kelima meliputi pelacuran, judi, alkohol, dan dadah."
+  - "Kanak-kanak tidak boleh bekerja antara 8 malam hingga 7 pagi; orang muda antara 8 malam hingga 6 pagi (seksyen 5 dan 6)."
+  - "Kerja hiburan awam memerlukan lesen daripada Ketua Pengarah Buruh (seksyen 7)."
+  - "Denda maksimum RM50,000 atau penjara dua tahun bagi kesalahan pertama; RM100,000 atau lima tahun bagi kesalahan berulang (seksyen 14)."
+appliesTo: "Majikan, ibu bapa dan penjaga, pengurus firma hiburan, serta pelajar undang-undang buruh di Semenanjung Malaysia."
+
+faq:
+  - q: "Berapakah umur minimum untuk seorang kanak-kanak mula bekerja di Malaysia?"
+    a: "Umur minimum untuk kerja ringan yang sesuai ialah tidak kurang daripada 13 tahun, seperti diperuntukkan dalam seksyen 2(2A) Akta 350. Kerja itu mestilah kerja ringan dalam usaha yang dijalankan oleh keluarganya, kerja hiburan awam berlesen, kerja tajaan kerajaan, atau sebagai perantis di bawah kontrak bertulis."
+  - q: "Apakah perbezaan antara 'kanak-kanak' dan 'orang muda'?"
+    a: "Di bawah seksyen 1A, 'kanak-kanak' bermaksud orang bawah 15 tahun, manakala 'orang muda' bermaksud orang yang telah mencapai umur 15 tahun tetapi bawah 18 tahun. Orang muda dibenarkan menyertai lebih banyak jenis pekerjaan berbanding kanak-kanak."
+  - q: "Bolehkah kanak-kanak bekerja pada waktu malam?"
+    a: "Tidak. Seksyen 5 melarang kanak-kanak bekerja antara 8 malam hingga 7 pagi, dan seksyen 6 melarang orang muda bekerja antara 8 malam hingga 6 pagi. Pengecualian larangan malam untuk kanak-kanak hanya diberi bagi kerja dalam hiburan awam."
+  - q: "Adakah Akta 350 terpakai di Sabah dan Sarawak?"
+    a: "Tidak. Seksyen 1(2) menetapkan Akta ini hanya terpakai di negeri-negeri Semenanjung Malaysia. Sabah dan Sarawak mempunyai Ordinan Buruh masing-masing yang mengawal pekerjaan kanak-kanak dan orang muda."
+  - q: "Apakah hukuman jika majikan melanggar Akta ini?"
+    a: "Seksyen 14 memperuntukkan penjara sehingga dua tahun atau denda sehingga RM50,000 atau kedua-duanya bagi kesalahan pertama, dan sehingga lima tahun penjara atau denda RM100,000 bagi kesalahan kedua atau berikutnya. Ibu bapa atau penjaga yang membiarkan pelanggaran itu berlaku secara sedar juga boleh dikenakan hukuman."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-08
+    change: "Approved and published."
+    reviewer: null
+
+verificationNeeded:
+  - "Tarikh kuat kuasa pindaan 2019 (Akta A1586) dilaporkan 1 Februari 2019 melalui pemberitahuan Menteri dalam Warta (P.U.(B)) — sahkan nombor P.U.(B) dan tarikh terhadap Warta Persekutuan rasmi (Akta A1586 sendiri hanya menyebut 'tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta')."
+  - "Butiran ringkasan Jadual Keempat (kerja berbahaya) dan Jadual Kelima (larangan mutlak) hendaklah disemak semula terhadap teks penuh Jadual semasa Akta 350 yang telah dipinda."
+  - "Butiran Jadual Ketiga (pemeriksaan perubatan tidak kurang sekali setiap tiga bulan; had persembahan empat jam) hendaklah disahkan masih terkini."
+  - "Semak sama ada terdapat pindaan atau cetakan semula Akta 350 yang lebih baru selepas cetakan semula 'setakat 1 Oktober 2019'."
+
+updated: 2026-08-08
+sources:
+  - title: "Children and Young Persons (Employment) Act 1966 (Act 350), Reprint as at 1 October 2019"
+    url: "https://jtksm.mohr.gov.my/sites/default/files/2023-03/5.%20Children%20and%20Young%20Persons%20(Employment)%20Act%201966_0.pdf"
+    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM), Kementerian Sumber Manusia"
+  - title: "Children and Young Persons (Employment) Act 1966 (Act 350)"
+    url: "https://eakta.mohr.gov.my/assets/pdf/akta_perburuhan/Act%20350%20-%20Children%20and%20Young%20Persons%20(Employment)%20Act%201966.pdf"
+    publisher: "Portal e-Akta, Kementerian Sumber Manusia"
+  - title: "Children and Young Persons (Employment) (Amendment) Act 2019 (Act A1586)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/A1586%20BI%20(1).pdf"
+    publisher: "Laws of Malaysia, Pejabat Peguam Negara Malaysia (Attorney General's Chambers)"
+  - title: "Children and Young Persons (Employment) (Amendment) Act 2019 — nota kuat kuasa 1 Februari 2019"
+    url: "https://ccs-co.com/post/ccslibrary38-2021-11/"
+    publisher: "CCS & Co PLT (Chartered Accountants)"
+  - title: "'Dilarang ambil pekerja bawah 15 tahun atau penjara 5 tahun'"
+    url: "https://www.freemalaysiatoday.com/category/bahasa/2018/10/17/dilarang-ambil-pekerja-bawah-15-tahun-atau-penjara-5-tahun"
+    publisher: "Free Malaysia Today"
+
+entity: "Children and Young Persons (Employment) Act 1966"
+relations:
+  - { rel: "related-to", to: "employment-act-1955-malaysia" }
+  - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }
+related: ["employment-act-1955", "minimum-wage-malaysia"]
+keywords: ["Akta 350", "kanak-kanak dan orang muda", "buruh kanak-kanak", "umur minimum bekerja", "kerja hiburan awam", "kerja berbahaya", "Akta Kanak-Kanak dan Orang Muda Pekerjaan 1966"]
+---
+
+가족 식당에서 일손을 돕는 14세 학생과 텔레비전 광고에 출연하는 다섯 살 아동은 동일한 법률의
+규율을 받으며, 이는 고용주가 흔히 참조하는 고용법 1955(Employment Act 1955)가 아닙니다. 그
+법률은 아동 및 연소자(고용)법 1966(Children and Young Persons (Employment) Act 1966), 즉 법률
+제350호(Akta 350)입니다.
+
+법률 제350호는 누가 아동 및 연소자를 고용할 수 있는지, 허용되는 근로의 종류, 그리고 이들이
+얼마나 오래 일할 수 있는지를 규율하는 특별법입니다. 이 법의 긴 제목은 시행일을 1966년 10월 1일
+(P.U. 356/1966)로 기록하고 있으며, 여러 차례 개정되었습니다. 가장 최근의 주요 개정은 아동 및
+연소자(고용)(개정)법 2019(Children and Young Persons (Employment) (Amendment) Act 2019, Akta
+A1586)로, 장관의 관보 고시를 통해 2019년 2월 1일부터 시행된 것으로 보고되었습니다.
+
+## 누가 "아동"이고 누가 "연소자"인가?
+
+이 법은 제1A조에서 두 범주를 구분합니다.
+
+- **아동** — **15세 미만**인 사람.
+- **연소자** — **15세에 이르렀으나 아직 18세 미만**인 사람.
+
+이 구분은 중요합니다. 연소자는 아동보다 더 많은 종류의 직업에 종사할 수 있고, 근로시간 한도도
+다소 다르기 때문입니다.
+
+유의할 점: 제1(2)조는 법률 제350호가 **말레이시아 반도의 주들에만 적용된다**고 규정합니다. 사바
+(Sabah)와 사라왁(Sarawak)은 각자의 노동법을 통해 아동 고용을 규율합니다.
+
+## 아동은 몇 살부터 일을 시작할 수 있는가?
+
+아동의 모든 형태의 근로에 대한 절대적 금지는 없으나, 그 진입구는 좁습니다. 제2(2A)조는 **경노동
+진입 연령이 13세 미만이어서는 안 된다**고 규정합니다.
+
+"경노동"은 제1A조에서 아동의 건강이나 정신적·신체적 능력을 해칠 우려가 없고, 학교 출석,
+훈련 프로그램 참여, 또는 교육을 받을 능력에 지장을 주지 않는 근로로 정의됩니다.
+
+제2(2)조에 따라 아동은 다음의 근로에만 종사할 수 있습니다.
+
+- 그 **가족**이 운영하는 사업에서 능력에 맞는 **경노동**;
+- 이 법에 따라 발급된 허가의 조건에 따른 **공개 오락(공연)**에서의 근로;
+- 학교, 훈련 기관 또는 훈련선에서 수행되며 연방정부 또는 주정부가 승인하거나 후원하는 근로;
+  그리고
+- 노동총국장(Director General)이 승인한 서면 도제 계약에 따른 **도제**로서의 근로.
+
+## 연소자는 무엇을 할 수 있는가?
+
+연소자(15세 이상 18세 미만)는 아동에게 허용되는 모든 것과 그 이상을 할 수 있습니다. 제2(3)조에
+따라 이들은 다음에서도 근로할 수 있습니다.
+
+- **사무실, 상점**(호텔, 음식점 및 노점 포함), 창고, 공장, 작업장, 저장소, 여관, 극장, 영화관 또는
+  협회;
+- 능력에 맞는 **산업 활동**; 그리고
+- 부모 또는 후견인의 개인적 보호 아래 있는 **선박**.
+
+아동과 달리, 연소자는 **그 사업이 가족에 의해 운영되는지 여부와 관계없이** 능력에 맞는 근로를 할
+수 있습니다.
+
+## 어떤 근로가 완전히 금지되는가?
+
+여기서 법률 제350호가 가장 엄격합니다. 두 개의 목록이 보호를 제공합니다.
+
+**제4부칙 — 위험 작업.** 제2(1A)조는 아동 또는 연소자가 제4부칙에 열거된 위험 작업에 종사하는
+것을 금지합니다. 여기에는 고위험 기계를 사용하는 작업, 고소 또는 지하 작업, 수중 또는 밀폐
+공간 작업, 화학물질 또는 방사성 물질을 다루는 작업, 그리고 기타 물리적 위험에 노출되는 작업이
+포함됩니다. 유일한 예외: 제2(1B)조는 **연소자**가 도제이거나 직업 훈련을 받는 중인 경우에**만**
+개인적 감독 아래 위험 작업을 하도록 허용합니다.
+
+**제5부칙 — 절대적 금지.** 제2(2B)조는 아동 및 연소자가 제5부칙에 열거된 직업에 종사하는 것을
+어떠한 예외도 없이 완전히 금지합니다.
+
+- 성매매;
+- 사교 동반(*social escort*), 호스트 또는 관련 활동으로서의 근로;
+- 주류의 제조 또는 거래;
+- 도박 및 복권 활동;
+- 마사지 또는 발반사 서비스;
+- 음란물; 그리고
+- 마약 및 중독성 물질의 제조 또는 거래.
+
+이에 더하여, 제2(5)조는 공장기계법 1967(Factories and Machinery Act 1967) [법률 제139호],
+산업안전보건법 1994(Occupational Safety and Health Act 1994) [법률 제514호], 또는 전력공급법
+1990(Electricity Supply Act 1990) [법률 제447호]에 위배되는 근로를 금지합니다.
+
+## 이들은 하루에 얼마나 일할 수 있는가?
+
+제4조는 아동 또는 연소자가 연속된 7일의 기간 중 **6일**을 초과하여 일할 수 없다고 규정합니다.
+일일 근로시간 한도는 범주에 따라 다릅니다.
+
+| 항목 | 아동 (제5조) | 연소자 (제6조) |
+| --- | --- | --- |
+| 야간 근로 금지 | 오후 8시 – 오전 7시 | 오후 8시 – 오전 6시 |
+| 의무 휴식 | 연속 3시간마다 최소 30분 | 연속 4시간마다 최소 30분 |
+| 일일 최대 근로시간 | 하루 6시간(취학 중인 경우 수업 시간 포함 7시간) | 하루 7시간(취학 중인 경우 수업 시간 포함 8시간; 도제 최대 8시간) |
+| 근로 시작 전 휴식 | 연속 14시간 이상의 근로 없는 시간 | 연속 12시간 이상의 근로 없는 시간 |
+
+아동에 대한 야간 근로 금지는 공개 오락(공연)에서의 근로에는 적용되지 않습니다. 연소자의 경우,
+야간 금지는 농업, 공개 오락, 또는 부모의 보호 아래 있는 선박에서의 근로에는 적용되지 않습니다.
+
+## 아동은 어떻게 연기하거나 공연할 수 있는가?
+
+오락 산업에는 특별한 통로가 주어지지만 엄격하게 규율됩니다. 제7조에 따라, 아동 또는 연소자는
+그 고용주에게 노동총국장이 발급한 **허가**가 있지 않는 한 공개 오락에 참여할 수 없습니다.
+노동총국장은 그 근로가 해당 아동의 생명, 신체, 건강, 안전 또는 도덕에 위험하다고 판단하는 경우
+허가를 발급하지 않으며, 조건 위반 시 허가를 취소할 수 있습니다.
+
+제3부칙의 규정은 보호를 더합니다. 공개 오락에 참여하는 모든 아동 및 연소자는 처음에 그리고
+**3개월마다 최소 1회** 정부 의무관의 검진을 받아야 하며, 어떠한 공연도 **4시간**을 초과할 수
+없습니다. 노동총국장의 결정에 불복하는 자는 14일 이내에 장관에게 이의를 제기할 수 있습니다.
+
+## 위반한 고용주에 대한 벌칙은 무엇인가?
+
+제14조는 2019년 개정(Akta A1586)을 통해 강화되었습니다. 그 개정 전에는 제14(1)조가 초범에 대해
+최대 RM5,000의 벌금과 1년의 징역을 규정하였습니다. A1586 개정은 "1년"을 "2년"으로, "5천"을
+"5만"으로, "3년"을 "5년"으로, "1만"을 "10만"으로 대체하였습니다.
+
+| 위반 | 최대 징역 | 최대 벌금 |
+| --- | --- | --- |
+| 초범 | 2년 | RM50,000 |
+| 재범 또는 그 이후의 위반 | 5년 | RM100,000 |
+
+처벌은 징역, 벌금, 또는 **둘 다** 부과될 수 있습니다. 중요한 것은, 책임이 고용주에게만 한정되지
+않는다는 점입니다. 제14(1)조는 자신의 아동 또는 연소자에 대한 위반이 발생하도록 고의로 방치한
+**부모 또는 후견인**에게도 처벌을 부과합니다. 제9A조에 따라 법인의 이사, 관리자 또는 임원도
+개인적으로 책임을 질 수 있습니다.
+
+이 법의 집행은 고용법 1955에 따라 임명된 노동총국장 및 관리에 의해 수행되며(제9조), 소추는
+검찰총장(Public Prosecutor)에 의하여 또는 그 대리로만 개시될 수 있습니다(제11조).
+
+## 고용주가 더 알아두어야 할 것은?
+
+자주 간과되는 조항 하나는 제13조입니다. 계약법 1950(Contracts Act 1950)이 일반적으로 아동의
+계약 능력을 제한하지만, 제13조는 아동 또는 연소자가 (고용주로서가 아닌) 근로계약을 체결하고
+성인 대리인 없이 소를 제기하거나 방어할 수 있도록 허용합니다. 다만, 근로계약 위반을 이유로
+아동 또는 연소자에게 손해배상을 청구할 수는 없습니다.
+
+제16조는 법률 제350호를 고용법 1955와 결합합니다. 즉, 고용법 1955의 규정은 마치 법률 제350호의
+일부인 것처럼 아동 및 연소자의 고용에 적용됩니다. 이는 고용주가 여전히 고용법 1955에 따른 임금,
+휴가 및 근로조건 의무에 구속됨을 의미합니다.
+
+## 다음 단계
+
+- 어떠한 근로를 제안하기 전에 젊은 근로자의 연령을 확인하고 제1A조의 범주와 대조하십시오.
+- 사업이 공개 오락과 관련된 경우, 아동이 참여하기 전에 노동국(JTKSM)으로부터 허가를 신청하십시오.
+- 부여된 어떠한 업무도 위험 작업이나 금지 작업에 해당하지 않도록 제4부칙과 제5부칙을 다시
+  확인하십시오.
+- 인적자원부 e-Akta 포털에서 법률 제350호의 전문을 참조하고, 구체적인 상황에 대해서는 법률
+  자문을 받으십시오.
+
+*이 글은 일반적인 정보 제공을 목적으로 AI의 도움을 받아 작성된 초안이며, 법률 자문이 아닙니다.
+구속력 있는 결정을 위해서는 법률 제350호의 공식 원문과 법률 실무가를 참조하십시오.*

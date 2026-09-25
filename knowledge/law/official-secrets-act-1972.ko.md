@@ -1,0 +1,147 @@
+---
+topicId: MY-LAW-0084
+title: "국가기밀법 1972"
+seoTitle: "국가기밀법 1972(Act 88): 등급 분류, 처벌 및 논쟁"
+slug: "official-secrets-act-1972"
+category: "law"
+subcategory: ["keselamatan"]
+summary: "국가기밀법 1972(Official Secrets Act 1972, Act 88)은 정부 문서가 공적 기밀로 분류되는 방식을 규율하고, 필수적 최소 징역형을 포함하여 무단 공개에 대한 처벌을 규정합니다. 이 법은 국가 안보와 투명성 및 언론 자유 사이의 논쟁의 초점으로 남아 있습니다."
+
+tier: "S"
+mode: "narrative"
+contentType: "law"
+sensitivity: "security"
+
+answer: "국가기밀법 1972(Official Secrets Act 1972, Act 88)은 말레이시아 정부의 공적 정보의 등급 분류와 보호를 규율하는 연방 법률입니다. 이 법은 장관, 주 총리(Menteri Besar) 또는 주 수석장관(Ketua Menteri), 그리고 임명된 공무원이 문서를 '극비(Rahsia Besar)', '기밀(Rahsia)', '대외비(Sulit)' 또는 '제한(Terhad)'으로 분류할 수 있도록 하며, 그 분류 증명서는 '어느 법원에서도 다툴 수 없는' 확정적 증거로 규정됩니다. 현행 형태에서 다수의 범죄는 1년의 필수적 최소 징역형을 수반하며, 간첩 행위는 종신형에 처해질 수 있습니다. 이 법은 국가 안보의 필요와 투명성 및 언론 자유의 요구 사이에서 계속되는 논쟁의 대상이 되고 있습니다."
+keyTakeaways:
+  - "Akta 88 mula berkuat kuasa pada 1 Oktober 1972 dan memansuhkan beberapa undang-undang rahsia rasmi terdahulu — Ordinan Rahsia Rasmi 1950 Negeri-Negeri Tanah Melayu dan Ordinan Rahsia Rasmi Sabah [Cap. 90] di bawah seksyen 31(1), serta Akta Rahsia Rasmi UK 1911 dan 1920 setakat ia berkuat kuasa di Sarawak atau mana-mana bahagian lain Malaysia di bawah seksyen 31(2)."
+  - "Jadual kepada akta menetapkan tiga kategori dokumen yang sentiasa dianggap rahsia rasmi: dokumen Kabinet, dokumen Majlis Mesyuarat Kerajaan Negeri, dan dokumen berkaitan keselamatan negara, pertahanan serta hubungan antarabangsa."
+  - "Seksyen 16A memperuntukkan sijil pengelasan sebagai keterangan muktamad yang tidak boleh dipersoalkan di mahkamah atas apa-apa alasan."
+  - "Pindaan pada 1980-an (Akta A573, berkuat kuasa 20 Januari 1984, dan Akta A660, berkuat kuasa 1 Januari 1987) meminda banyak peruntukan hukuman; dalam bentuk terkininya, banyak kesalahan membawa penjara minimum wajib satu tahun, manakala pengintipan di bawah seksyen 3 boleh membawa penjara seumur hidup."
+  - "Kerajaan telah menyatakan hasrat menggubal Akta Kebebasan Maklumat dan meminda Akta Rahsia Rasmi sejajar dengannya."
+appliesTo: "Penjawat awam, wartawan, peguam, penyelidik dan orang awam yang ingin memahami cara maklumat kerajaan dikelaskan serta implikasi undang-undangnya di Malaysia."
+
+faq:
+  - q: "Siapa yang boleh mengelaskan dokumen sebagai rahsia rasmi?"
+    a: "Di bawah definisi 'rahsia rasmi' dalam seksyen 2 dan peruntukan seksyen 2B, seseorang Menteri, Menteri Besar atau Ketua Menteri sesebuah negeri, atau pegawai awam yang dilantik melalui sijil untuk berbuat demikian, boleh mengelaskan dokumen sebagai 'Rahsia Besar', 'Rahsia', 'Sulit' atau 'Terhad'."
+  - q: "Bolehkah pengelasan sesuatu dokumen dicabar di mahkamah?"
+    a: "Seksyen 16A memperuntukkan bahawa sijil yang mengesahkan sesuatu dokumen sebagai rahsia rasmi ialah keterangan muktamad dan 'tidak boleh dipersoalkan di dalam mana-mana mahkamah atas apa-apa alasan jua pun'. Peruntukan ini merupakan antara aspek akta yang paling banyak diperdebatkan."
+  - q: "Apakah hukuman di bawah Akta Rahsia Rasmi 1972?"
+    a: "Hukuman berbeza mengikut kesalahan. Pengintipan (seksyen 3) boleh dihukum penjara seumur hidup; perhubungan salah rahsia rasmi (seksyen 8) membawa penjara satu hingga tujuh tahun; manakala mengambil dokumen atau ukuran di tempat larangan (seksyen 4) membawa penjara satu hingga empat belas tahun. Banyak kesalahan mempunyai tempoh penjara minimum wajib satu tahun."
+  - q: "Adakah wartawan atau pemberi maklumat awam terlindung jika mendedahkan salah laku?"
+    a: "Akta ini tidak mengandungi pembelaan 'kepentingan awam' atau perlindungan khusus bagi pemberi maklumat (whistleblower). Seksyen 17A menyediakan pembelaan hanya bagi seseorang yang membuktikan bahawa ia bertindak dalam menjalankan tugas rasmi atau dengan kuasa yang sepatutnya. Ketiadaan pembelaan kepentingan awam ialah antara isu yang dibangkitkan oleh pengkritik akta."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-07
+    change: "Approved and published."
+    reviewer: null
+
+verificationNeeded:
+  - "Tarikh dan status tepat pembebasan Mohammad Ezam bin Mohd Nor oleh Mahkamah Tinggi (dilaporkan 2004; nombor kes 42-22-2002) — perlu disahkan terhadap rekod/laporan mahkamah kerana sumber yang dipetik hanya mengesahkan sabitan dan hukuman, bukan pembebasan."
+  - "Perincian bahawa kes Ezam berkaitan pendedahan 'laporan Badan Pencegah Rasuah (ACA)' — bersandar pada laporan media sekunder, perlu disahkan."
+  - "Sama ada pindaan A573 (1984) dan A660 (1987) benar-benar memperkenalkan penjara minimum wajib buat kali pertama, berbanding meminda peruntukan hukuman sedia ada — perlu rujukan sejarah perundangan."
+  - "Sebutan 'keharmonian nasional' dalam laporan The Star disuarakan oleh seorang penganalisis, bukan kenyataan rasmi kerajaan — sahkan terhadap teks penuh."
+  - "Status semasa cadangan Akta Kebebasan Maklumat persekutuan dan sebarang pindaan OSA — perlu semakan berkala kerana keadaan boleh berubah selepas draf ini."
+
+updated: 2026-08-07
+sources:
+  - title: "Laws of Malaysia — Act 88, Official Secrets Act 1972 (Reprint incorporating all amendments up to 1 January 2006)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%2088.pdf"
+    publisher: "Pejabat Peguam Negara Malaysia (Commissioner of Law Revision)"
+  - title: "Memorandum on the Malaysian Official Secrets Act 1972"
+    url: "https://www.article19.org/data/files/pdfs/analysis/malaysia-official-secrets-act-sept-2004.pdf"
+    publisher: "ARTICLE 19 — Global Campaign for Free Expression"
+  - title: "Ezam slapped with two-year jail term for violating OSA"
+    url: "https://www.malaysiakini.com/news/12480"
+    publisher: "Malaysiakini"
+  - title: "Freedom of Information Act must factor 'national harmony'"
+    url: "https://www.thestar.com.my/news/nation/2025/03/30/freedom-of-information-act-must-factor-national-harmony"
+    publisher: "The Star"
+
+entity: "Akta Rahsia Rasmi 1972"
+wikidata: "Q7079566"
+relations:
+  - { rel: "related-to", to: "sedition-act-1948" }
+  - { rel: "related-to", to: "freedom-of-information-malaysia" }
+related: []
+keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+---
+
+내각 회의록 사본을 받은 기자, 군 부대 인근에서 측량을 한 연구자, 그리고 '대외비(Sulit)'로 표시된 파일을 보관한 공무원 — 이 셋 모두 동일한 하나의 법률에 저촉될 수 있습니다. 국가기밀법 1972(Official Secrets Act 1972), 즉 Act 88은 말레이시아 공적 기밀 제도의 근간이며, 그 적용 범위는 단순한 간첩 사안을 훨씬 넘어섭니다.
+
+이 법은 "공적 기밀의 보호에 관한 법률을 개정하고 통합하기 위한 법률"로서 1972년 10월 1일에 시행되었습니다. 이 법은 이전의 여러 공적 기밀 법률을 폐지하였습니다. 제31조(1)은 말레이 제주 공적기밀령 1950(Official Secrets Ordinance 1950, Negeri-Negeri Tanah Melayu) [F.M. 15 of 1950]과 사바 공적기밀령(Sabah Official Secrets Ordinance) [Cap. 90]을 폐지하였고, 제31조(2)는 영국 국가기밀법 1911 및 1920(United Kingdom Official Secrets Act 1911 and 1920)을 "사라왁 또는 말레이시아의 다른 어느 지역에서 효력을 가지는 한도에서" 폐지하였습니다. 그 이후 이 법은 여러 차례 개정되었으며, 여기에는 Act A573(국가기밀(개정)법 1984, Official Secrets (Amendment) Act 1984, 1984년 1월 20일 시행)과 Act A660(국가기밀(개정)법 1986, Official Secrets (Amendment) Act 1986, 1987년 1월 1일 시행)이 포함됩니다.
+
+## 무엇이 문서를 "공적 기밀"로 만드는가?
+
+제2조에 따르면 "공적 기밀"이란 이 법의 부칙(Jadual)에 명시된 문서와 그에 관련된 정보 및 자료를 뜻하며, '극비(Rahsia Besar)', '기밀(Rahsia)', '대외비(Sulit)' 또는 '제한(Terhad)'으로 분류된 기타 공적 문서, 정보 또는 자료를 포함합니다.
+
+어떤 사항이 공적 기밀이 되는 데에는 두 가지 경로가 있습니다. 첫 번째 경로는 부칙을 통한 것으로, 부칙은 항상 기밀로 간주되는 세 가지 문서 범주를 열거합니다:
+
+- 내각 문서, 결정 및 논의의 기록(내각 위원회 포함);
+- 주 정부 행정회의(Majlis Mesyuarat Kerajaan Negeri) 문서, 결정 및 논의의 기록(그 위원회 포함);
+- 국가 안보, 국방 및 국제 관계에 관한 문서.
+
+두 번째 경로는 행정적 분류를 통한 것입니다. 제2B조는 장관, 주 총리 또는 주 수석장관이 증명서를 통하여 임의의 공무원을 문서 분류 권한자로 임명할 수 있도록 허용합니다. 한편 제2A조는 장관이 관보(Warta)에 게재하는 명령을 통하여 부칙을 수시로 추가, 삭제 또는 개정할 수 있도록 합니다. 반대로 제2C조는 등급 해제(declassification)를 허용하며, 문서의 등급이 해제되면 그 문서는 공적 기밀이기를 그칩니다.
+
+네 가지 분류 단계가 사용됩니다:
+
+| 등급 분류 단계 | 법률상의 용어 |
+| --- | --- |
+| 극비 | "Top Secret" |
+| 기밀 | "Secret" |
+| 대외비 | "Confidential" |
+| 제한 | "Restricted" |
+
+## 왜 분류 증명서는 법원에서 다투기 어려운가?
+
+이 법에서 가장 두드러진 특징 중 하나는 제16A조입니다. 이 조항은 장관, 책임을 위임받은 공무원, 주 총리 또는 주 수석장관이 어떤 문서를 공적 기밀로 확인하는 증명서는 그 문서가 공적 기밀이라는 데 대한 "확정적 증거가 되어야 하며", "어떠한 이유로도 어느 법원에서든 다툴 수 없다"고 규정합니다.
+
+인권 단체 ARTICLE 19은 2004년 각서에서 이 조항을 기밀성 판단을 "사법적 심사의 범위 밖에" 두는 것으로 규정하였으며, 이 법에 따른 기소의 맥락에서 야당 정치인 모하마드 에잠 빈 모흐드 노르(Mohammad Ezam bin Mohd Nor, 사건 번호 42-22-2002)의 사건을 언급하였습니다. 언론 보도에 따르면 에잠은 문서를 언론에 공개한 것과 관련하여 2002년 8월 7일 프탈링자야 지방법원(Sessions Court)에서 유죄 판결을 받고 2년의 징역형을 선고받았으며, 그 유죄 판결은 이후 2004년 고등법원에서 그가 석방되면서 파기된 것으로 보도되었습니다. ARTICLE 19의 견해는 논쟁의 한 측면을 대표합니다. 이 조항을 지지하는 측은 민감한 정보를 공개된 절차에서 노출하지 않고 보호하기 위하여 확정적 증거가 필요하다고 주장합니다.
+
+## 이 법에 따른 처벌은 얼마나 무거운가?
+
+처벌은 범죄에 따라 다르지만, 반복되는 한 가지 특징은 필수적 최소 징역형입니다. 다수의 범죄는 "1년 이상"의 형을 규정하는데, 이는 법원이 그 하한보다 가벼운 형을 선고할 수 없음을 의미합니다.
+
+| 범죄 | 조항 | 처벌 |
+| --- | --- | --- |
+| 간첩 행위 | 3 | 종신형 |
+| 금지 장소에서 문서, 측량, 스케치 또는 측정치를 취득/작성 | 4 | 1년 이상 14년 이하의 징역 |
+| 금지 장소에서 사진 장비 소지 | 7 | RM2,000 이하의 벌금 또는 1년 이하의 징역, 또는 두 가지 병과 |
+| 정보 요청 사실의 보고 실패 | 7A | 1년 이상 5년 이하의 징역 |
+| 외국 첩자의 신임을 받는 위치에 자신을 둠 | 7B | 1년 이상 5년 이하의 징역 |
+| 공적 기밀의 부당한 소통 | 8(1) | 1년 이상 7년 이하의 징역 |
+| 이 법을 위반하여 공적 기밀을 수령 | 8(2) | 1년 이상 7년 이하의 징역 |
+| 안보를 해칠 목적으로 공적 문서를 보유 | 9(2) | 1년 이상 7년 이하의 징역 |
+
+이 법에 따른 범죄의 기소는 검찰총장(Pendakwa Raya)에 의하여 또는 그 동의를 받아서만 개시될 수 있습니다(제15조). 한편 제16조는 몇 가지 추정(presumption)을 규정합니다. 즉 피고인이 말레이시아의 안보를 해칠 목적을 드러내는 특정 행위를 하였음을 입증할 필요가 없으며, 피고인은 사건의 정황, 그의 행위, 또는 알려진 그의 성행에 근거하여 유죄로 인정될 수 있습니다.
+
+## 왜 이 법은 언론 자유와 충돌하는가?
+
+이 법과 언론 자유 사이의 긴장은 몇 가지 특징의 결합에서 비롯됩니다. 즉 "공적 기밀"의 광범위한 정의, 공개가 실제로 안보를 해쳐야 한다는 요건의 부재, 그리고 제16조에 따른 추정들입니다.
+
+ARTICLE 19은 분류될 수 있는 정보의 양이 "잠재적으로 무제한"이라고 봅니다. 임명된 공무원이라면 누구든 해악의 위험을 입증할 요건 없이 어떤 사항을 분류할 수 있고, 분류에는 자동 만료 기한이 없기 때문입니다. 이 단체는 또한 공익 항변이나 제보자 보호의 부재를 부각합니다. 이 법은 실제로 제17A조에서 제한된 항변을 마련하고 있으나, 이는 오직 자신이 공무를 수행하는 과정에서 또는 정당한 권한을 가지고 행동하였음을 입증하는 사람에게만 적용됩니다.
+
+이에 반대되는 측면은 국가 안보의 보호가 정당한 목적이며, 내각 문서와 국방 사안은 정부가 기능할 수 있도록 기밀성을 필요로 한다는 점을 강조합니다. 이 법의 긴 제목 자체가 그 목적을 "공적 기밀의 보호"로 규정하고 있으며, 제30A조는 공적 문서의 취급, 보관 및 폐기 방식에 관한 규칙을 제정할 권한을 부여합니다. 이 두 측면 — 기밀성의 필요와 투명성의 필요 — 이 계속되는 논쟁의 핵심을 이룹니다.
+
+## 이 법의 미래에 대한 서로 다른 입장은 무엇인가?
+
+최근 수년간의 정책 논의는 국가기밀법과 연방 차원에서 제안된 정보자유법(Freedom of Information) 사이의 관계에 초점을 맞추어 왔습니다. 정부는 정보 자유의 틀을 제정하고 그에 맞추어 국가기밀법을 개정할 의향을 표명한 바 있습니다.
+
+총리실 소속 장관(법률 및 제도 개혁)인 다툭 스리 아잘리나 오트만 사이드(Datuk Seri Azalina Othman Said)는 정부가 국민이 정부 자료로부터 더 개방적이고 투명한 정보에 접근할 수 있도록 정보자유법을 추진하고 있다고 밝힌 것으로 보도되었습니다. 같은 보도에서 한 변호사는 국가기밀법이 계속 효력을 유지하는 한 정보 접근을 계속 제한하므로, 의미 있는 정보 자유 개혁에는 기밀 관련 법률의 개혁이 수반되어야 한다고 강조하였습니다. 한편 한 분석가는 그러한 틀이 그가 "국가적 화합(national harmony)"이라고 지칭한 다른 고려 사항과 투명성 사이에서 균형을 이루어야 한다는 견해를 밝혔습니다.
+
+이 초안을 작성하는 시점에서 국가기밀법 1972는 현행 형태로 계속 효력을 유지하고 있으며, 향후 개정의 형태는 아직 확정되지 않았습니다.
+
+## 다음 단계
+
+주시할 만한 후속 사항으로는 연방 정보자유법안의 제정과 국가기밀법 1972에 대하여 제안되는 개정, 특히 "공적 기밀"의 정의, 분류 권한, 제16A조의 지위에 관한 사항이 포함됩니다. 전문 및 최신 텍스트의 참조를 위한 권위 있는 자료는 검찰청 법령 포털의 Act 88 공식 인쇄본입니다. 이 문서는 AI의 도움으로 생성된 초안이며 게시 전에 사람의 검토가 필요합니다.

@@ -1,0 +1,235 @@
+---
+topicId: MY-CS-0026
+title: "말레이시아에서 누가 실질 소유자에 해당합니까?"
+slug: "who-is-a-beneficial-owner"
+category: "company-secretary"
+subcategory: ["beneficial-ownership"]
+summary: "실질 소유자를 식별하는 말레이시아 기업위원회(SSM)의 여섯 가지 기준을, 실제 말레이시아의 소유 형태 — 지주 사슬, 가족 명의자, 신탁 보유 주식, 주식 없는 지배 — 를 통해 짚어 봅니다."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+
+answer: "실질 소유자란 회사법(Companies Act 2016) s.60A에 따라 회사를 궁극적으로 소유하거나 지배하는 자연인입니다. SSM은 여섯 가지 기준을 정합니다. 즉 직접 또는 간접으로 주식의 20% 이상을 보유하는 것; 직접 또는 간접으로 의결권 주식의 20% 이상을 보유하는 것; 궁극적인 실효 지배를 행사하는 것; 이사의 과반수를 선임하거나 해임할 권한을 가지는 것; 다른 사원과의 합의로 의결권의 과반수를 지배하는 것; 또는 20% 미만을 보유하면서도 여전히 유의미한 지배나 영향력을 행사하는 것입니다. 어느 하나라도 충족하면 실질 소유자가 됩니다."
+keyTakeaways:
+  - "A beneficial owner is always a natural person — a corporate shareholder can never be named"
+  - "Meeting any one of the six criteria is enough; each criterion met must be recorded separately"
+  - "Indirect holdings are traced by effective interest through the ownership chain"
+  - "A nominee is never the beneficial owner — the person behind the nominee is"
+  - "Criteria F catches individuals with under 20% who still exercise significant influence"
+  - "Advice given in a professional capacity does not make an adviser a beneficial owner"
+  - "For a company limited by guarantee, only criteria C, D and E apply"
+appliesTo: "Company secretaries and directors who have to decide, on real facts, whose name goes into the register of beneficial owners."
+
+faq:
+  - q: "Our Sdn Bhd is wholly owned by a Singapore holding company. Who do we name?"
+    a: "Not the Singapore company. You trace through it to the natural persons who ultimately own or control it, applying the 20% effective interest test through the chain. If the Singapore company is itself widely held with no individual reaching 20% and no one exercising ultimate effective control, you may end up naming senior management in place of a beneficial owner — but only after documenting the attempt."
+  - q: "Do preference shares count towards the 20%?"
+    a: "No. SSM has confirmed that in determining whether an individual is a beneficial owner, the shares to be considered are ordinary shares. Criteria A looks at ordinary shareholding as reflected in the register of members and Criteria B looks at the voting rights attaching to those shares, which may differ under the constitution."
+  - q: "Can a company have more than one beneficial owner?"
+    a: "Yes. SSM has confirmed a company may have several, and there is no cap. An individual who meets more than one criterion is still one beneficial owner, but each criterion they meet must be recorded against them in the register."
+  - q: "My shares are held by a nominee. Is the nominee the beneficial owner?"
+    a: "No. The Companies Act 2016 definition of beneficial owner in relation to shares expressly excludes a nominee of any description. The nominee appears in the register of members; the person for whom they hold appears in the register of beneficial owners."
+  - q: "Is our majority shareholder automatically the beneficial owner?"
+    a: "Only if they are a natural person. If they are an individual holding 20% or more of the ordinary shares, they meet Criteria A. But holding a majority does not exhaust the analysis — you must still assess all six criteria, because someone else may separately meet Criteria C, D, E or F."
+
+verificationNeeded:
+  - "Confirm SSM's treatment of discretionary trusts where no beneficiary has a vested interest, against the separate guidelines on beneficial ownership of legal arrangements which SSM has indicated will be issued for trust arrangements"
+  - "Whether a trust company registered under the Trust Companies Act 1949 is necessarily a public company subject to the full beneficial ownership framework — asserted in some commentary but not pinned to a provision of that Act"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+sensitivity: "none"
+
+updated: 2026-07-20
+sources:
+  - title: "Guidelines for the Reporting Framework for Beneficial Ownership of Companies (Revised 10 January 2025)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guideline%20BO%20(Revised)%202025%20fair.pdf"
+    publisher: "SSM"
+    date: "2025-01-10"
+  - title: "Companies (Amendment) Act 2024 [Act A1701]"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
+    publisher: "SSM"
+    date: "2024-02-02"
+  - title: "FAQ — Beneficial Ownership Reporting Framework of Companies"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQs%20on%20BO%20(English).pdf"
+    publisher: "SSM"
+  - title: "Case Studies and Illustrations of the Guidelines for the Reporting Framework for Beneficial Ownership of Companies"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/02_Case%20Studies%20&%20Illustrations%20(Post%20T&P)%20Final%20Uploaded%20Version.pdf"
+    publisher: "SSM"
+
+entity: "Beneficial Owner"
+relations:
+  - { rel: "part-of", to: "beneficial-ownership" }
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "administered-by", to: "ssm" }
+  - { rel: "explained-in", to: "bo-register" }
+related: ["beneficial-ownership", "bo-register", "ebos-filing", "bo-non-cooperation"]
+keywords: ["who is a beneficial owner Malaysia", "beneficial owner criteria SSM", "20% shareholding beneficial owner", "ultimate effective control Malaysia", "nominee shareholder beneficial owner"]
+---
+
+실질 소유권 보고에서 어려운 부분은 제출이 아닙니다. 그것은 어떤 주식 보유 구조 앞에 서서
+누구의 이름을 그 칸에 넣을지 결정하는 것입니다.
+
+SSM은 여섯 가지 기준을 게시합니다. SSM이 게시하지 않는 것 — 그리고 어떤 말레이시아 경쟁
+페이지도 게시하지 않는 것 — 은 그 기준들이 실제로 여기에 존재하는 소유 형태에 적용될 때
+무엇을 하는지입니다. 즉 지주회사 사슬, 배우자 명의로 옮겨 둔 주식, 가족 신탁, 그리고
+서류상 모든 것을 넘겨주고도 여전히 모든 것을 결정하는 가장(家長)입니다.
+
+## 예시에 앞선 규칙
+
+s.60A는 실질 소유자를 회사를 궁극적으로 소유하거나 지배하는 자연인으로 정의하며, 회사에
+대한 궁극적인 실효 지배를 행사하는 자를 포함합니다.
+
+주식으로 유한책임을 지는 회사의 경우, SSM 지침은 여섯 가지 기준을 규정합니다. 어떤 개인이
+다음 **하나 이상**을 충족하면 실질 소유자입니다.
+
+| | 기준 |
+| --- | --- |
+| **A** | 직접 또는 간접으로 주식의 20% 이상을 보유 |
+| **B** | 직접 또는 간접으로 의결권 주식의 20% 이상을 보유 |
+| **C** | 회사, 그 이사 또는 경영진에 대하여 공식·비공식의 궁극적 실효 지배를 행사할 권리를 가짐 |
+| **D** | 이사회에서 의결권의 과반수를 가진 이사를 직접 또는 간접으로 선임하거나 해임할 권리나 권한을 가짐 |
+| **E** | 다른 사원과의 합의에 따라 단독으로 의결권의 과반수를 지배하는 사원 |
+| **F** | 주식 또는 의결권 주식의 20% 미만을 보유하나 회사에 대하여 유의미한 지배나 영향력을 행사 |
+
+주식은 보통주를 의미합니다. 여섯 가지 모두 평가해야 합니다 — 첫 번째 해당에서 멈추지
+않습니다. 보증으로 유한책임을 지는 회사의 경우 C, D, E만 적용됩니다.
+
+두 가지 절대 원칙이 아래의 모든 것을 규정합니다. 실질 소유자는 언제나 자연인이므로, 법인은
+결코 지명될 수 없습니다. 그리고 명의자(nominee)는 결코 실질 소유자가 아닙니다. 즉 주식에
+관한 실질 소유자의 이 법상 정의는 어떠한 종류의 명의자도 명시적으로 제외합니다.
+
+## 형태 1: 지주회사 사슬
+
+*Maju Teknologi Sdn Bhd는 Maju Holdings Sdn Bhd이 전부 소유합니다. Maju Holdings는 Encik
+Rahman이 60%, Puan Aminah가 25%, Mr Lim이 15%를 소유합니다.*
+
+Maju Holdings를 지명하지 않습니다. 그것을 관통하여 추적해 각 개인의 Maju Teknologi에 대한
+**실효 이익(effective interest)**을 계산합니다.
+
+| 사람 | Holdings에 대한 이익 | Teknologi에 대한 실효 이익 | 실질 소유자? |
+| --- | --- | --- | --- |
+| Encik Rahman | 60% | 60% × 100% = 60% | 예 — 기준 A와 B |
+| Puan Aminah | 25% | 25% | 예 — 기준 A와 B |
+| Mr Lim | 15% | 15% | A나 B로는 아님 — C부터 F까지 평가 |
+
+Mr Lim은 소유에서 기준점 아래입니다. 그것으로 그의 분석이 끝나는 것은 아닙니다. 만약 Maju
+이사회가 언제나 그의 권고를 따르는 사람이라면, 기준 F가 그를 다시 포함시킵니다.
+
+이제 더 어렵게 해 봅시다. Maju Holdings가 Maju Teknologi의 30%만을 소유한다고 가정합시다.
+Encik Rahman의 실효 이익은 60% × 30% = 18%가 되어 — 기준점 아래입니다. 모든 층을 곱하여
+계산하십시오. 모회사의 지배가 곧 자회사의 20%를 의미한다고 가정하지 마십시오.
+
+## 형태 2: 가족 구성원 명의의 주식
+
+*Datin Sarah는 사원 등록부상 Sarah Enterprise Sdn Bhd 주식의 100%를 보유합니다. 실질적으로는
+그 주식은 그녀의 남편이 대금을 지급했고, 그가 은행 위임장에 서명하고, 계약을 협상하며, 그녀에게
+어떻게 의결할지 지시합니다.*
+
+사원 등록부는 Datin Sarah라고 말합니다. 실질 소유자 등록부는 그녀의 남편 — 그리고 사실관계에
+따라 두 사람 모두 — 라고 말합니다.
+
+이것이 명의자 제외가 도달하기 위해 존재하는 약정입니다. 어떤 개인이 다른 사람을 위하여 주식을
+보유하는 경우, 실질 소유자는 그 보유 뒤에 있는 사람입니다. 지침은 기준 A와 B가 공동 이익, 공동
+합의, 명의자를 포함한다고 명시합니다.
+
+두 가지 실질적 요점이 있습니다. 첫째, 그 약정은 실재하기 위해 문서화될 필요가 없습니다 —
+기준 C는 비공식적인 지배에도 도달합니다. 둘째, 회사는 추론만으로 이를 해결할 수 없습니다.
+즉 s.60C(1) 통지를 Datin Sarah에게 발송해야 하며, 그녀가 자신이 실질 소유자가 아니라고
+답하면, 그녀는 실질 소유자인 사람을 지명해야 합니다.
+
+## 형태 3: 신탁 보유 주식
+
+*Warisan Sdn Bhd의 20%를 성년 자녀 세 명의 이익을 위한 가족 신탁의 수탁자가 보유합니다.*
+
+누가 진정으로 그 주식을 지배하고 누가 궁극적으로 이익을 얻는지를 보십시오. 수탁자가
+명의자와 유사한 중개자로서 보유하는 경우 수익적 권리를 가진 개인들이 드러나고, 수탁자가
+의결에 대해 실질적 재량을 행사하는 경우 그 수탁자를 지배하는 개인들이 기준 C를 충족할 수
+있습니다.
+
+수탁자가 신탁회사법(Trust Companies Act 1949)에 따라 등록된 신탁회사인 경우, 그 신탁회사는
+그 자체로 실질 소유권 체계의 대상이 되는 회사입니다. SSM은 법률적 약정(legal arrangements)의
+실질 소유권을 규율할 별도의 지침 세트가 있을 것이라고 밝혔으므로, 신탁회사는 결국 두 개의
+체계 아래에 놓이게 됩니다. 그것이 게시되기 전까지, 수익권이 확정되지 않은 재량 신탁의 입장은
+현행 지침에서 가장 취약한 지점이며, 추측하기보다 이 페이지의 `verificationNeeded`에
+표시되어 있습니다.
+
+지금 할 수 있는 것은 분석을 문서화하고, s.60C(2) 통지를 수탁자에게 발송하며, 그 답변을 보관하는
+것입니다. 이 체계가 요구하는 것은 이유 있는 시도의 증거입니다.
+
+## 형태 4: 주식을 전혀 보유하지 않는 사람
+
+*Encik Faisal은 Bina Jaya Sdn Bhd를 창업했습니다. 2019년에 그는 모든 주식을 두 자녀에게
+양도했습니다. 그는 주식을 보유하지 않으며 이사도 아닙니다. 그는 모든 이사회에 참석하고,
+이사회는 단 한 번도 그의 견해에 반하여 결정한 적이 없습니다.*
+
+Encik Faisal은 기준 C에 따른 실질 소유자입니다.
+
+지침은 어떤 개인이 한 권고가 의결권의 과반수를 가진 사원들에 의해 — 그리고 2025년 1월 개정
+이후에는 이사회의 과반수에 의해 — 언제나 따라지는 경우 그가 궁극적 실효 지배를 행사한다고
+말합니다. 그 개인은 사원이나 이사일 필요가 없으나, 지배적 영향력을 지속적으로 행사하거나
+이사회의 결정을 위해 정기적으로 자문받습니다.
+
+제26항은 이를 의심의 여지 없이 밝힙니다. 즉 궁극적 실효 지배를 가진 개인이 반드시 회사에
+주식을 보유하거나 그 안에서 어떤 직위를 보유하는 자는 아닙니다.
+
+이것이 말레이시아 가족 기업이 실패하는 요건입니다. 주식은 상속이나 세금상의 이유로 옮겨졌으나,
+권한은 결코 옮겨지지 않았습니다. "실제로 누가 결정하는가?"에 대한 정직한 답이 귀사의 법정
+등록부 어디에도 나타나지 않는 이름이라면, 그 이름은 실질 소유자 등록부에 들어가야 합니다.
+
+## 선이 멈추는 곳: 전문가의 자문
+
+제34항은 **전문가의 자격으로** 자문·권고 또는 제안을 하는 개인은 유의미한 영향력이나 지배적
+지배를 행사할 권리를 가진 것으로 취급되지 않는다고 규정합니다.
+
+귀사의 회사 비서, 감사인, 세무 대리인, 변호사는 이사회가 그들의 자문을 따른다고 해서 실질
+소유자가 되지 않습니다. 그 구별은 빈도가 아니라 자격입니다.
+
+## 답의 기록
+
+일단 식별되면, 각 실질 소유자에 대하여 열세 가지 명세를 취득해야 하며, 성명 전부, 통상 주거지
+주소, 국적, 생년월일, 종족, 성별, NRIC 또는 여권 번호, 실질 소유자의 유형과 기준, 그리고 그가
+실질 소유자가 된 날짜를 포함합니다.
+
+어떤 개인이 하나 이상의 기준을 충족하는 경우, **각 기준을 기록해야 합니다**. 이사 선임도
+지배하는 60% 개인 주주는 A만이 아니라 A, B, D에 대하여 기록됩니다.
+
+분석이 진정으로 식별 가능한 실질 소유자를 산출하지 못하는 경우, 회사는 실질 소유자를 대신하여
+고위 경영진의 자연인을 지명하고, 식별 작업을 계속합니다.
+
+## 흔한 실수
+
+- **법인 주주를 지명하는 것.** 이 체계 전체에서 가장 흔한 오류입니다. 사람에게까지 관통하여
+  추적하십시오.
+- **기준 A에서 멈추는 것.** 여섯 가지 모두 평가해야 합니다. 소유와 지배는 답이 다른 다른
+  질문입니다.
+- **사원 등록부를 답으로 취급하는 것.** 그것은 결론이 아니라 출발 문서이며 — 그것이 Division
+  8A의 전체 요지입니다.
+- **20%에 우선주를 계산하는 것.** 보통주만 계산됩니다.
+- **주식을 넘겨준 창업자를 무시하는 것.** 기준 C와 F는 바로 그 사람을 위해 존재합니다.
+- **여럿을 충족하는데 한 기준만 기록하는 것.**
+- **사슬을 잘못 곱하는 것** — 자회사의 30%를 보유한 모회사의 60%는 60%가 아니라 18%입니다.
+
+## 다음 단계
+
+이름을 확보하고 나면, 절차가 이어받습니다. 즉 명세는
+[BO 등록부 비치](/ko/company-secretary/bo-register)에 따라 수령으로부터 14일 이내에 등록부에
+들어가고, 제출은 식별이 아니라 등록부 기재로부터 진행됩니다 —
+[e-BOS를 통한 BO 정보 제출](/ko/company-secretary/ebos-filing)을 참조하십시오.
+
+주주가 답하지 않아 분석이 멈추는 경우, 그 단계적 대응(escalation) 경로는
+[실질 소유자가 응답하지 않을 때](/ko/company-secretary/bo-non-cooperation)에 규정되어 있습니다.

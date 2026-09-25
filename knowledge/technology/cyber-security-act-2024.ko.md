@@ -1,0 +1,243 @@
+---
+topicId: MY-TEC-0002
+title: "2024년 사이버보안법: 말레이시아의 국가핵심정보인프라 법률"
+seoTitle: "2024년 사이버보안법(Act 854): NCII, 보고, 면허"
+slug: "cyber-security-act-2024"
+category: "technology"
+subcategory: ["cybersecurity"]
+alsoIn: ["business"]
+summary: "말레이시아의 2024년 사이버보안법(Cyber Security Act 2024, Act 854)은 2024년 8월 26일 발효되었습니다. 이 법은 11개 국가핵심정보인프라(NCII) 부문을 지정하고, 의무적 침해사고 보고 및 감사 의무를 부과하며, 국가사이버보안청(NACSA) 아래 두 범주의 사이버보안 서비스 제공자에게 면허를 부여합니다."
+
+tier: "1"
+mode: "practical"
+contentType: "law"
+sensitivity: "security"
+
+answer: "2024년 사이버보안법(Cyber Security Act 2024, Act 854)은 말레이시아 최초의 독립 사이버보안 법률로, 2024년 8월 26일부터 시행되고 있습니다. 이 법은 국가사이버보안청(NACSA)과 그 최고책임자(Chief Executive)에게 11개 부문에 걸쳐 국가핵심정보인프라(NCII) 주체를 지정할 권한을 부여하고, 해당 주체가 실무 지침(code of practice)을 준수하며 사이버 침해사고를 신속히 보고하고 정기적 위험 평가와 감사를 받도록 요구하며, 두 범주의 사이버보안 서비스 제공자에 대한 면허 제도를 도입합니다. 이 법은 역외 적용 범위를 갖는 국가 안보 법률로, 처벌은 50만 링깃과 최대 10년의 징역에 이릅니다."
+keyTakeaways:
+  - "Act 854 and its four subsidiary regulations came into force on 26 August 2024; the Act received Royal Assent on 18 June 2024 and was published in the gazette on 26 June 2024."
+  - "The Act names 11 NCII sectors, from government and banking to energy and healthcare; obligations fall only on entities NACSA designates, not on all private companies."
+  - "Designated NCII entities must report a cyber incident immediately, then supply particulars within 6 hours and supplementary information within 14 days."
+  - "NCII entities must run a cyber security risk assessment at least once a year and be audited at least once every two years."
+  - "Providing managed security operation centre (SOC) monitoring or penetration testing services in or from Malaysia requires a NACSA licence."
+  - "Serious offences carry fines up to RM500,000 and imprisonment up to 10 years; lesser breaches carry fines of RM200,000 or RM100,000 with shorter jail terms."
+appliesTo: "Operators in critical sectors, compliance and IT-security leaders, cybersecurity vendors, and lawyers advising on Malaysian technology regulation."
+
+faq:
+  - q: "When did the Cyber Security Act 2024 come into force?"
+    a: "The Act (Act 854) received Royal Assent on 18 June 2024, was published in the gazette on 26 June 2024, and — together with its four subsidiary regulations — came into operation on 26 August 2024."
+  - q: "Does the Act apply to every company in Malaysia?"
+    a: "No. Substantive obligations apply only to entities that NACSA's Chief Executive formally designates as National Critical Information Infrastructure (NCII) entities. A business that is not designated has no compliance duties under the Act, though the separate licensing rules can still apply if it sells regulated cybersecurity services."
+  - q: "Which cybersecurity services need a licence?"
+    a: "Two prescribed services require a NACSA licence: managed security operation centre (SOC) monitoring services and penetration testing services. Providing either in or from Malaysia without a licence is an offence."
+  - q: "How fast must an NCII entity report a cyber incident?"
+    a: "The Notification of Cyber Security Incident Regulations 2024 require an authorised person to notify immediately by electronic means, then submit further particulars within 6 hours of becoming aware of the incident and supplementary information within 14 days, both through the National Cyber Coordination and Command Centre System (NC4S)."
+  - q: "What are the penalties for non-compliance?"
+    a: "Penalties scale with the offence. Failing to comply with a code of practice, failing to notify an incident, or operating without a licence can each attract a fine up to RM500,000 or imprisonment up to 10 years, or both. Lesser breaches carry fines of RM200,000 or RM100,000 with shorter jail terms."
+  - q: "Is this the same as Malaysia's data protection law?"
+    a: "No. The Cyber Security Act governs the security and resilience of critical infrastructure. Personal-data privacy is governed separately by the Personal Data Protection Act 2010. An organisation can be subject to both."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+revision: 0
+verificationNeeded: []
+revisions:
+  - revision: 0
+    date: 2026-08-14
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-14
+sources:
+  - title: "Cyber Security Act 2024 [Act 854]"
+    url: "https://www.nacsa.gov.my/act854.php"
+    publisher: "National Cyber Security Agency (NACSA)"
+  - title: "Cyber Security Act 2024 — Federal Legislation Portal"
+    url: "https://lom.agc.gov.my/act-detail.php?language=BI&act=854"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Laws of Malaysia — Act 854 Cyber Security Act 2024 (full gazetted text)"
+    url: "https://premierdept.sarawak.gov.my/web/attachment/show/?docid=ZE56WkhiZTYrNnZRU3JabEFKbnhVZz09OjrkBGKRzXrM5ERtnk5pB3_3"
+    publisher: "Premier's Department of Sarawak (reproducing Laws of Malaysia Act 854)"
+  - title: "Malaysia Cyber Security Act 2024 and subsidiary regulations — in force on 26 August 2024"
+    url: "https://www.globalcompliancenews.com/2024/09/03/malaysia-cyber-security-act-2024-and-subsidiary-regulations-in-force-on-26-august-2024/"
+    publisher: "Global Compliance News (Baker McKenzie)"
+  - title: "Malaysia's New Cyber Security Act 2024 – A Summary and Brief Comparative Analysis"
+    url: "https://www.mayerbrown.com/en/insights/publications/2024/12/malaysias-new-cyber-security-act-2024-a-summary-and-brief-comparative-analysis"
+    publisher: "Mayer Brown"
+  - title: "Unveiling Malaysia's Cyber Security Act 2024: Strengthening Our Digital Fortress"
+    url: "https://taypartners.com.my/unveiling-malaysias-cyber-security-act-2024-strengthening-our-digital-fortress/"
+    publisher: "Tay & Partners"
+
+entity: "Cyber Security Act 2024 (Act 854)"
+relations:
+  - { rel: "administered-by", to: "nacsa" }
+  - { rel: "compares-with", to: "pdpa-malaysia" }
+  - { rel: "related-to", to: "pdpa-malaysia" }
+related: []
+keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity licensing Malaysia", "incident reporting Malaysia", "national critical information infrastructure"]
+---
+
+여러 해 동안 말레이시아는 빌려 온 도구로 사이버 공격에 대응했습니다 — 컴퓨터범죄법(Computer Crimes Act), 통신멀티미디어법(Communications and Multimedia Act), 그리고 중앙은행과 그 동류 기관들의 부문별 회람. 그중 어느 것도 누가 이 나라의 핵심 시스템을 보호해야 하는지, 침해가 얼마나 빨리 보고되어야 하는지, 심지어 누가 침투 테스트를 판매할 수 있는지를 한곳에 명시하지 않았습니다. 2024년 사이버보안법은 그것을 명시합니다. 이는 말레이시아 최초의 독립 사이버보안 법률이며, 특정 네트워크를 과거의 법률이 댐과 발전소를 다루던 방식으로 — 국가가 규제할 권리를 갖는 국가 인프라로 — 다룹니다.
+
+이는 국가 안보 법률입니다. 이 법은 정부 기관에 민간 및 공공 시스템을 "핵심"으로 지정하고, 그 운영자에게 감사에 응하도록 강제하며, 그 시스템을 시험하는 기업에 면허를 부여할 권한을 줍니다. 그 관점이 중요합니다 — 이 법은 주로 소비자나 그들의 데이터를 보호하는 것이 아니라 국가를 보호하는 관점에서 작성되었습니다. 이 안내서는 이 법이 실제로 무엇을 요구하는지, 누구를 구속하는지, 그리고 그 엄격한 경계선이 어디에 있는지를 설명합니다.
+
+## 2024년 사이버보안법이란 무엇인가?
+
+2024년 사이버보안법은 **Act 854**로 제정되었습니다. 이 법은 **2024년 6월 18일** 국왕 재가(Royal Assent)를 받았고 **2024년 6월 26일** 관보에 고시되었으며, 이어 네 개의 하위 규정과 함께 **2024년 8월 26일** 시행에 들어갔습니다. 총리는 이 법 제1조 제2항의 권한에 따라 그 시행일을 지정했습니다. (국왕 재가, 관보 고시, 시행은 세 개의 별개 사건입니다 — 법무장관실(Attorney General's Chambers) 포털을 교차 확인하는 독자는 6월 26일의 관보 일자가 아니라 6월 18일의 재가 일자를 보게 됩니다.)
+
+이 법률은 여러 가지를 동시에 수행합니다.
+
+- 국가 사이버 정책을 위한 거버넌스 기구로 **국가사이버보안위원회(National Cyber Security Committee)**를 설치합니다.
+- **[국가사이버보안청](/technology/nacsa-cybersecurity-malaysia)(NACSA)**과, 이 법에 따른 일상 규제자인 그 **최고책임자(Chief Executive)**의 임무와 권한을 규정합니다.
+- **국가핵심정보인프라(National Critical Information Infrastructure, NCII)** 개념과, 그것을 소유하거나 운영하는 주체를 지정하는 메커니즘을 만듭니다.
+- 그러한 주체에게 실무 지침, 침해사고 보고, 위험 평가, 감사 의무를 부과합니다.
+- 특정 사이버보안 서비스 제공자를 위한 **면허 제도**를 도입합니다.
+- 이 모든 것을 형사 처벌과 행정적 화해(compounding) 선택지로 뒷받침합니다.
+
+무엇보다, 이 법은 일반적인 데이터 프라이버시 법률이 아닙니다. 말레이시아의 개인정보 보호는 별개의 법률인 개인정보보호법 2010(Personal Data Protection Act 2010)에 담겨 있습니다. 사이버보안법은 **핵심 시스템의 보안과 회복력** — 가용성, 무결성, 그리고 그 시스템이 공격받을 때 국가가 대응을 조율할 수 있는 능력 — 에 관한 것입니다.
+
+## 이 법은 실제로 누구를 구속하는가?
+
+이것이 이 법에서 가장 많이 오독되는 부분입니다. 사이버보안법은 말레이시아의 모든 기업에 의무를 부과하는 것이 **아닙니다**. 그 핵심 의무는 NACSA의 최고책임자가 NCII 주체로 **공식 지정**한 주체에만 결부됩니다.
+
+따라서 조직은 세 가지 위치 중 하나에 놓입니다.
+
+| 위치 | 대상 | 이 법의 요구 사항 |
+| --- | --- | --- |
+| **지정된 NCII 주체** | 최고책임자가 지명한 핵심 인프라의 소유자/운영자 | 전면 의무: 실무 지침, 침해사고 보고, 위험 평가, 감사 |
+| **사이버보안 서비스 제공자** | 규제 대상 서비스(SOC 모니터링, 침투 테스트)를 판매하는 기업 | NCII 지위와 무관하게 NACSA 면허 보유 필수 |
+| **그 외 모두** | 지정되지 않았고 규제 대상 서비스를 판매하지 않는 일반 민간 기업 | 이 법에 따른 의무 없음 |
+
+따라서 핵심 역할도 없고 보안 서비스 사업도 하지 않는 중견 소매업체는 Act 854에 따라 제출할 것이 없습니다. NCII 주체로 지정된 은행은 이 법의 무게를 온전히 짊어집니다. 침투 테스트만 수행하는 소규모 기업은 자체 핵심 인프라를 운영하지 않더라도 면허를 받아야 합니다.
+
+이 법은 또한 **역외 적용**을 갖습니다. 행위의 일부 요소가 해외에서 발생하더라도, 전부 또는 일부가 말레이시아에 있는 국가핵심정보인프라와 관련된 범죄에 미칠 수 있습니다.
+
+**적용 대상:** 11개 핵심 부문의 운영자, 그들의 컴플라이언스 및 IT 보안 책임자, 사이버보안 벤더, 그리고 말레이시아 기술 규제를 자문하는 변호사.
+
+## 11개 NCII 부문은 무엇인가?
+
+국가핵심정보인프라는 본질적으로, 중단되거나 파괴될 경우 말레이시아의 안보, 국방, 대외 관계, 경제, 공중보건, 공공안전 또는 공공질서에 해를 끼칠 컴퓨터 시스템과 네트워크입니다. 이 법은 이 핵심 지형을 **11개 부문**으로 조직하며, 각 부문에는 해당 영역을 담당하는 지정된 NCII 부문 책임기관(Sector Lead)이 있습니다.
+
+1. 정부
+2. 은행 및 금융
+3. 교통
+4. 국방 및 국가 안보
+5. 정보, 통신 및 디지털
+6. 의료 서비스
+7. 수도, 하수 및 폐기물 관리
+8. 에너지
+9. 농업 및 플랜테이션
+10. 무역, 산업 및 경제
+11. 과학, 기술 및 혁신
+
+이 부문 중 하나에 *속해 있다는 것*만으로 조직이 NCII 주체가 되지는 않습니다. 지정은 구체적인 행위입니다. 해당 부문 책임기관이 후보를 추천하고, 최고책임자가 지정 여부를 결정해 등록부에 등재합니다. 지정 이후에야 비로소 컴플라이언스 의무가 물립니다.
+
+부문 구조는 운영상 중요한데, 지정된 주체는 보고와 조율에 있어 **두** 당국 — NACSA의 최고책임자와 자체 부문 책임기관 — 에 응해야 하기 때문입니다.
+
+## 지정된 NCII 주체는 무엇을 해야 하는가?
+
+일단 지정되면 NCII 주체는 지속적인 의무 세트를 물려받습니다. 이는 네 개의 범주로 나뉩니다.
+
+**1. 실무 지침 준수.** 각 NCII 주체는 자기 부문에 적용되는 실무 지침(code of practice)에 규정된 조치, 표준, 절차를 이행해야 합니다. 이것이 기본 보안 통제 의무입니다.
+
+**2. 침해사고 보고 — 신속하게.** 사이버보안(사이버보안 침해사고 통지) 규정 2024에 따라, 주체의 권한 있는 자는 발생했거나 발생했을 수 있는 침해사고를 인지하는 즉시 다음을 해야 합니다.
+
+- 최고책임자와 관련 부문 책임기관에 **즉시** 전자적 수단으로 통지;
+- 침해사고 인지로부터 **6시간 이내에 추가 상세 제출**; 그리고
+- **14일 이내에 보완 정보** 제공.
+
+6시간 및 14일 제출 모두 규정에 명시된 전자 채널인 **국가사이버조정지휘센터시스템(National Cyber Coordination and Command Centre System, NC4S)**을 통해 이루어지며, 두 시한 모두 최초의 즉시 통지와 동일한 기준 — 침해사고가 주체의 인지에 이른 시점 — 에서 시작됩니다.
+
+촉박한 초기 창구는 의도적입니다. 이 법의 전제는 국가적 조율입니다 — NACSA는 침해사고를 몇 주 뒤 사후 분석에서가 아니라 거의 실시간으로 들어야만 부문 간 대응을 조율할 수 있습니다.
+
+**3. 위험 평가 및 감사 수용.** 사이버보안(사이버보안 위험 평가 및 감사 주기) 규정 2024에 따라, 지정된 주체는 다음을 해야 합니다.
+
+- **최소 연 1회 사이버보안 위험 평가** 실시; 그리고
+- **최소 2년에 1회 승인된 감사인의 감사** 수용.
+
+이는 상한이 아니라 하한입니다. 최고책임자는 상황이 정당화될 때 — 예컨대 인프라에 중대한 변경이 있은 후 — 주체에게 더 잦은 위험 평가나 감사를 수행하도록 지시할 수 있습니다.
+
+**4. 기록 보관 및 협조.** 주체는 이 법과 규정이 요구하는 기록을 유지하고, 최고책임자의 지시에 응하며, 규제자가 명령하는 훈련 및 시정에 참여해야 합니다.
+
+새로 지정된 주체를 위한 실무적 흐름은 다음과 같습니다.
+
+| 계기 | 의무 | 시점 |
+| --- | --- | --- |
+| NCII 주체로 지정 | 부문 실무 지침 이행 | 지정 시 및 이후 |
+| 침해사고가 주체의 인지에 이름 | 최고책임자 + 부문 책임기관에 통지 | 즉시(전자적) |
+| 침해사고 인지 | 추가 상세 제출(NC4S 경유) | 6시간 이내 |
+| 침해사고 인지 | 보완 정보 제출(NC4S 경유) | 14일 이내 |
+| 상시 | 사이버보안 위험 평가 | 최소 연 1회 |
+| 상시 | 승인된 감사인의 독립 감사 | 최소 2년에 1회 |
+
+## 누가 사이버보안 면허가 필요한가?
+
+NCII 제도와는 별개로, 이 법은 특정 보안 서비스를 판매하는 사람에게 면허를 부여합니다. 이 법 제27조와 사이버보안(사이버보안 서비스 제공자의 면허) 규정 2024에 따라, **두 개의 규정 서비스**가 면허를 요구합니다.
+
+- **관리형 보안 운영 센터(SOC) 모니터링 서비스** — 데이터 수집과 위협 식별을 통해 조직의 보안 태세를 지속적으로 모니터링하는 것.
+- **침투 테스트 서비스** — 취약점을 찾고 공격을 시뮬레이션해 보안을 평가하는 것.
+
+말레이시아 내에서 또는 말레이시아로부터 이 두 서비스 중 하나를 제공한다면 — 회사든 개인이든 — NACSA 면허가 필요합니다. 최고책임자는 면허를 승인·거부하고 조건을 부과하며, 면허 소지자 등록부를 유지합니다. 면허는 자유롭게 양도할 수 없으며, 면허 소지자는 규정된 기록을 보관해야 합니다.
+
+흔한 함정: 면허 의무는 NCII 지위와 독립적입니다. 어떤 핵심 인프라도 아닌 일반 상업 고객을 위해 침투 테스트를 수행하는 소규모 컨설팅 회사도 여전히 면허가 필요합니다. 반대로, 자체 내부 시스템에 대해서만 SOC 모니터링을 수행하는 NCII 주체는 일반적으로 서비스를 판매하는 것이 아니라 소비하는 것이며, 면허 문제는 그 서비스를 타인에게 제공하는지 여부에 달려 있습니다.
+
+## 처벌은 무엇인가?
+
+이 법은 형사 범죄를 통해 집행되며, 그 수치는 이사회의 주의를 집중시키기 위한 것입니다. 아래 표의 모든 조항 번호, 벌금, 징역 기간은 Act 854의 관보 고시 본문과 한 줄 한 줄 대조 검증되었습니다.
+
+| 위반 | 조항 | 최대 벌금 | 최대 징역 |
+| --- | --- | --- | --- |
+| 실무 지침 미준수 | s.21(5) | 50만 링깃 | 10년 |
+| 사이버보안 침해사고 미통지 | s.23(2) | 50만 링깃 | 10년 |
+| 면허 없이 규제 서비스 제공 | s.27(5) | 50만 링깃 | 10년 |
+| 위험 평가 / 감사 미수행 | s.22(7) | 20만 링깃 | 3년 |
+| 면허의 무단 양도 | s.34(2) | 20만 링깃 | 3년 |
+| 요구된 기록 미유지 | s.32(3) | 10만 링깃 | 2년 |
+
+이는 대표적인 예시입니다. 이 법은 비슷한 하위 수준의 추가 범죄도 담고 있습니다 — 예컨대 NCII 주체가 자신의 NCII에 관한 정보를 제공하지 않는 경우(s.20(6), 10만 링깃 / 2년), 침해사고 복구 지시에 응하지 않는 경우(s.35(5), 20만 링깃 / 3년), 최고책임자의 지시나 사이버보안 훈련에 대한 불응(s.22(8), s.24(4)) 등입니다. 대부분의 범죄는 표준 말레이시아 입법 방식 — 벌금 **또는** 징역 **또는 둘 다**, 법원 재량 — 을 따르지만, s.22(8)과 s.24(4)을 포함한 일부는 징역 없이 벌금만 부과됩니다. 가장 무거운 노출 — 50만 링깃과 10년 징역 — 은 국가 회복력에 가장 큰 손상을 준다고 국가가 보는 범죄, 즉 보안 기준선을 무시하는 것, 침해사고에 침묵하는 것, 그리고 권한 없이 면허 영역에서 활동하는 것에 결부됩니다.
+
+이 법은 **사이버보안(범죄의 화해) 규정 2024**와 짝을 이루며, 이는 특정 범죄를 기소로 진행하는 대신 화해금(compound)을 납부해 행정적으로 해결할 수 있게 합니다 — 덜 심각한 위반을 위한 압력 해소 밸브입니다.
+
+## 이것은 말레이시아의 다른 법률과 어떻게 맞물리는가?
+
+사이버보안법은 단독으로 서 있지 않으며, 조직은 흔히 여러 체제에 따른 의무를 동시에 집니다.
+
+- **개인정보보호법 2010(PDPA).** 개인정보가 어떻게 수집·사용·보호되는지를 규율합니다. 개인정보와 관련된 침해는 PDPA 의무를 유발할 수 있으며, 피해자가 NCII 주체라면 사이버보안법 보고도 유발할 수 있습니다.
+- **[통신멀티미디어법 1998](/law/communications-and-multimedia-act-1998).** 통신·멀티미디어 산업을 규제하며 그 부문 면허의 근간으로 남아 있습니다.
+- **컴퓨터범죄법 1997.** 무단 접근과 관련 행위를 범죄화합니다 — 사이버보안법의 운영자 대상 의무에 대응하는 가해자 대상 짝입니다.
+- **부문 규제.** 금융기관에 대한 말레이시아 중앙은행(Bank Negara Malaysia)의 기술 위험 요건과 다른 규제기관의 동등한 규칙은 Act 854 위에 계속 적용됩니다.
+
+머릿속 모델은 이렇습니다. 사이버보안법은 **핵심 인프라의 회복력과 조율을 위한 국가적 하한**을 설정하고, PDPA는 **개인의 데이터**를 보호하며, 부문 규제기관은 그 둘 위에 **산업별 통제**를 얹습니다.
+
+## 판단 프레임워크: Act 854는 나에게 적용되는가?
+
+다음 질문을 순서대로 풀어 보십시오.
+
+1. **NACSA의 최고책임자가 귀하의 조직을 NCII 주체로 지정했는가?** 그렇다면 전면적인 실무 지침·침해사고 보고·위험 평가·감사 의무를 집니다. 아니라면 계속하십시오.
+2. **말레이시아 내에서 또는 말레이시아로부터 관리형 SOC 모니터링이나 침투 테스트 서비스를 제공하는가?** 그렇다면 NCII 지위와 무관하게 NACSA 면허가 필요합니다. 아니라면 계속하십시오.
+3. **11개 부문 중 하나에서 운영하지만 지정되지 않았는가?** 아직 능동적 의무는 없으나, 지정 후보입니다. NACSA 지침을 추적하고 대비하십시오. 지정은 도래할 수 있습니다.
+4. **위 어느 것에도 해당하지 않는가?** 오늘날 이 법은 귀하에게 직접적 의무를 부과하지 않지만, 귀하의 핵심 공급자가 계약을 통해 요건을 전가할 수 있습니다.
+
+## 흔한 실수와 오해
+
+- **"이제 모든 말레이시아 기업이 준수해야 한다."** 틀렸습니다. 핵심 의무는 지정된 NCII 주체에만 적용됩니다. 혼동은 이 법의 광범위한 *부문*을 실제 *지정*과 뒤섞는 데서 옵니다.
+- **"우리는 핵심 인프라가 아니니 면허 규칙은 우리와 무관하다."** SOC 모니터링이나 침투 테스트를 판매한다면 틀렸습니다. 면허는 핵심 시스템 소유 여부가 아니라 *서비스*에 의해 발동됩니다.
+- **"포렌식이 끝나면 침해를 보고하겠다."** 위험합니다. 시계는 인지 시점에 시작됩니다 — 즉시 통지, 6시간 이내 상세, 14일 이내 보완. 완전한 사후 분석을 기다리는 것은 시한을 위반합니다.
+- **"PDPA를 준수하면 우리는 커버된다."** 아닙니다. 데이터 보호 준수가 사이버보안법 의무를 면제하지 않으며, 그 반대도 마찬가지입니다. 둘은 규제기관도 다른 별개의 법률입니다.
+- **"조항 번호와 벌금은 느슨한 권고다."** 이는 형사 조항입니다. 50만 링깃 / 10년의 노출을 IT 각주가 아니라 이사회 수준의 위험으로 취급하십시오.
+- **"해외 침해사고는 적용 범위 밖이다."** 반드시 그렇지는 않습니다 — 이 법은 외국적 요소가 있더라도 전부 또는 일부가 말레이시아에 있는 NCII와 관련된 범죄에 미칩니다.
+
+## 다음은 무엇인가
+
+귀하의 조직이 지정될 개연성이 있다면 — 11개 부문에서 의미 있는 시스템을 운영하는 누구든 — 합리적 조치는 지금 핵심 자산을 매핑하고, 즉시/6시간/14일 흐름을 충족할 수 있는 침해사고 통지 절차를 세우며, 지정 통보가 속도를 강요하기 전에 연례 위험 평가와 격년 감사를 예정하는 것입니다. SOC 모니터링이나 침투 테스트를 판매한다면, 다음 계약 전에 NACSA 면허 상태를 확인하십시오.
+
+제도가 성숙함에 따라 세 가지를 지켜보십시오. 일반 의무 뒤에 구체적 통제를 두는 부문별 **실무 지침**, **누가 지정되는지**와 등록부가 어떻게 유지되는지에 관한 NACSA 지침, 그리고 화해 경로가 표준이 될지 완전 기소가 표준이 될지를 보여줄 집행 관행입니다. 이는 국가 안보 법률이므로, 세부 사항은 법 자체의 잦은 개정보다는 지시와 하위 법령으로 강화될 것으로 예상하십시오.
+
+컴플라이언스 결정을 내리기 전에 언제나 1차 출처 — 법무장관실이 발행한 법률과 NACSA의 공식 지침 — 에 대해 현행 요건을 확인하십시오. 규정과 실무 지침은 계속 진화하기 때문입니다.

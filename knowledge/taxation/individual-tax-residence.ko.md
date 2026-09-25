@@ -1,0 +1,166 @@
+---
+topicId: MY-TAX-0056
+title: "개인의 세무 거주지: 제7(1)조의 네 가지 판정"
+seoTitle: "말레이시아 세무 거주지: 제7(1)조의 네 가지 판정"
+slug: "individual-tax-residence"
+category: "taxation"
+subcategory: ["personal-tax"]
+summary: "말레이시아가 개인의 세무 거주 여부를 어떻게 결정하는지, 짧은 체류를 거주 연도로 바꾸는 연결 기간 및 일시 부재 규칙을 포함하여."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "개인은 소득세법 1967(Income Tax Act 1967) 제7(1)조의 네 가지 판정 중 하나가 충족되면 어느 기준연도에 말레이시아 거주자입니다. 그 해에 182일 이상; 인접 연도의 연속 182일 기간에 연결된 더 짧은 기간; 앞선 4개 연도 중 3개 연도에 거주 또는 90일 재류가 있는 상태에서 90일 이상; 또는 다음 해와 앞선 3개 연도 각각에 거주입니다. 시민권과 비자 유형은 무관합니다."
+keyTakeaways:
+  - "Four independent tests — failing the 182-day count decides nothing on its own"
+  - "s.7(1)(b) links a short stay to a consecutive 182-day block in the year before or after"
+  - "Temporary absence for work travel, ill-health, or social visits up to 14 days in total counts as presence"
+  - "s.7(1)(c) needs 90 days in the year plus a qualifying history in three of the previous four years"
+  - "s.7(1)(d) can make you resident for a year you spent no days in Malaysia at all"
+  - "Part of a day counts as a full day under s.7(1A)"
+  - "Residence is determined year by year, and it is not a nationality or Employment Pass question"
+appliesTo: "Expatriates, Malaysians working abroad, frequent business travellers and their payroll teams."
+
+faq:
+  - q: "How many days do you need to be a tax resident in Malaysia?"
+    a: "182 days in the basis year satisfies s.7(1)(a), and the days need not be consecutive. But three other tests can produce residence on fewer days, including one that requires no presence at all. Never conclude non-residence from a day count alone."
+  - q: "Does part of a day count towards the 182 days?"
+    a: "Yes. Section 7(1A) deems an individual to be in Malaysia for a day if he is present for part of that day. Arrival and departure days each count in full for the purposes of paragraphs 7(1)(a) and (c)."
+  - q: "I arrived in Malaysia in October — am I non-resident for that year?"
+    a: "Not necessarily. If your stay from October runs into the following basis year and is linked to a period of 182 or more consecutive days in that following year, s.7(1)(b) makes you resident for the arrival year too. This is the single most commonly missed provision in expatriate tax."
+  - q: "Do holidays outside Malaysia break my residence?"
+    a: "Only beyond the limits in the proviso to s.7(1)(b). Absence connected with your service in Malaysia, absence for ill-health of you or an immediate family member, and social visits not exceeding fourteen days in the aggregate are all treated as part of the period, provided you are in Malaysia immediately before and after the absence."
+  - q: "Can I be tax resident in a year I never set foot in Malaysia?"
+    a: "Yes, under s.7(1)(d). If you are resident for the following basis year and were resident for each of the three immediately preceding basis years, you are resident for the year in between even with zero days of presence. Public Ruling 11/2017 Examples 16 and 17 both illustrate this."
+
+verificationNeeded: []
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+    url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+    publisher: "LHDN"
+  - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — s.7"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2024-05-21"
+  - title: "Ketetapan Umum No. 11/2017 — Taraf Mastautin Individu"
+    url: "https://www.hasil.gov.my/wp-content/uploads/KU_11_2017.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    date: "2017-12-22"
+  - title: "Taraf Mastautin — Individu"
+    url: "https://www.hasil.gov.my/individu/taraf-mastautin/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    date: "2026-06-18"
+
+entity: "Individual tax residence in Malaysia"
+relations:
+  - { rel: "governs", to: "income-tax-act-1967" }
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "affects", to: "personal-tax-rates" }
+  - { rel: "compares-with", to: "company-tax-residence" }
+related: ["personal-tax-rates", "company-tax-residence", "personal-tax-reliefs"]
+keywords: ["tax residence Malaysia individual", "182 days Malaysia tax", "section 7(1) Income Tax Act", "taraf mastautin individu", "am I tax resident Malaysia", "non-resident 30 percent Malaysia"]
+---
+
+한 외국인 주재원이 10월 1일 쿠알라룸푸르(Kuala Lumpur)에 도착하여 연말까지 일하고, 그의 급여팀은 그가 그 나라에 92일 있었다는 이유로 일률 비거주 30%로 세금을 원천징수합니다. 그는 다음 해 6월까지 머무릅니다. 그는 두 해 모두 거주자였고 — 고용주는 결코 읽지 않은 규칙에 근거해 3개월간 과다 공제했습니다.
+
+거주지는 개인 세금 제도 전체를 등에 지고 있습니다. 거주 지위는 0%에서 시작하는 누진세율, 제46조와 제48조의 모든 공제, 그리고 제6A조 세액감면을 가져옵니다. 비거주는 그중 아무것도 없이 첫 링깃(RM)부터 일률 30%를 의미합니다. RM120,000 패키지에서 그 차이는 수만 링깃입니다.
+
+그리고 거주지는 소득세법 1967(Income Tax Act 1967) 제7(1)조의 **네 가지 독립적 판정**으로 결정됩니다. 그중 어느 하나를 충족하면 충분합니다. 소비자 안내서는 첫 번째를 공표하고 멈춥니다.
+
+## 판정 1: 182일 이상
+
+제7(1)(a)조에 따라, 개인은 그 기준연도에 말레이시아에 **합계** 182일 이상 있으면 거주자입니다.
+
+두 가지 세부 사항이 중요합니다. 일수는 연속일 필요가 없습니다 — 공개 예규(Public Ruling) 11/2017 예시 3은 122일 체류에 61일 체류를 더해 183일에 이릅니다. 그리고 제7(1A)조에 따라 개인은 **하루의 일부라도 재류하면 그날 말레이시아에 있었던 것으로 간주**되므로, 도착일과 출발일 모두 온전한 하루입니다.
+
+## 판정 2: 182일 블록에 연결된 짧은 기간
+
+이것이 대부분의 외국인 주재원 도착·출국 연도를 결정하는 규정이며, 전문직 밖에서는 거의 아무도 적용하지 않는 것입니다.
+
+제7(1)(b)조에 따라, 개인은 기준연도에 말레이시아에 **182일 미만** 있으면서 그 기간이 바로 앞선 또는 바로 다음 과세연도의 기준연도에 말레이시아에 있는 **182일 이상의 연속** 기간에 의해 또는 그에 연결되면 거주자입니다.
+
+따라서 짧은 해가 옆의 긴 해로부터 거주를 빌려옵니다. 연결은 양방향으로 진행됩니다 — 도착한 해로 거꾸로, 떠나는 해로 앞으로입니다.
+
+**인접 연도의 182일은 연속이어야 하며**, 판정 1의 182일과 다릅니다. 그 비대칭은 의도된 것이며, 이 판정이 대개 실패하는 곳입니다.
+
+### 일시 부재 단서
+
+블록 중간의 휴가는 그렇지 않으면 연속을 깰 것입니다. 제7(1)(b)조 단서가 이를 막습니다. 다음의 말레이시아로부터의 일시 부재는:
+
+1. 말레이시아 근무와 관련되고 근무 사항이나 회의·세미나 참석 또는 해외 유학 때문인 경우;
+2. 자신이나 직계 가족의 질병 때문인 경우; 그리고
+3. **합계 14일을 초과하지 않는** 사교 방문에 대한 경우,
+
+그 기간의 일부를 이루는 것으로 취급됩니다 — **그 일시 부재 직전과 직후에 말레이시아에 있는 경우**.
+
+공개 예규 11/2017 제6.2.3항은 "직계 가족"을 부모, 배우자, 자녀로 읽으며, 사교 방문을 본국 방문을 포함한 모든 형태의 말레이시아 밖 휴가로 취급합니다. 14일은 여행당 14일이 아니라 모든 사교 부재에 걸친 연간 합계입니다.
+
+전후 요건은 절대적입니다. 복귀 없이 연말까지 이어지는 부재는 일시 부재가 아니라 출국입니다. 공개 예규 11/2017 예시 6은 개인이 12월 23일에 떠나 결코 돌아오지 않은 경우 12월의 마지막 8일을 연결 기간의 일부로 취급하기를 거부합니다.
+
+## 판정 3: 90일에 자격 이력을 더함
+
+제7(1)(c)조에 따라, 개인은 기준연도에 말레이시아에 합계 **90일 이상** 있으면서, **그 해 바로 앞선 4개 과세연도의 기준연도 중 어느 3개** 각각에 대해 다음 중 하나였던 경우 거주자입니다.
+
+- 그 해에 법의 의미상 말레이시아에 거주; 또는
+- 말레이시아에 합계 90일 이상 재류.
+
+두 항목은 대안이며 세 자격 연도에 걸쳐 혼합할 수 있습니다. 네 가지 판정 중 어느 것으로든 거주자였던 해가 계산되고, 거주자가 아니면서 단지 90일 재류한 해도 계산됩니다.
+
+되돌아보기는 4개 연도이며 그중 3개가 필요합니다 — 마지막 3개 연속이 아닙니다. 이 판정에 대한 LHDN 자체의 웹 요약은 느슨하여, 첫 항목을 "제7조에 정의된 대로" 거주라고 기술합니다. 법을 읽으십시오.
+
+## 판정 4: 샌드위치 연도
+
+제7(1)(d)조에 따라, 개인은 **다음** 과세연도의 기준연도에 거주하면서 바로 앞선 3개 과세연도의 기준연도 **각각**에 거주했던 경우 어느 기준연도에 거주자입니다.
+
+재류 요건이 전혀 없습니다. 공개 예규 11/2017 제6.4항은 이를 명백히 진술합니다. 개인은 그 기준연도에 말레이시아에 전혀 있지 않았더라도 제7(1)(d)조에 따라 거주자일 수 있습니다. 예시 17은 2013~2015년과 2017년을 근거로, 말레이시아 재류 일수가 영인 해인 2016년에 홍콩 회계사를 거주자로 만듭니다.
+
+판정 4는 다리이지 진입 경로가 아닙니다. 거주 사슬을 시작할 수 없습니다 — 뒤에 세 개의 거주 연도와 앞에 하나가 필요합니다.
+
+## 공무원 우선 적용
+
+제7(1B)조는 네 가지 판정 밖에 있습니다. 말레이시아 밖에서 고용을 수행하거나 고용주가 전액 후원하는 해외 유학 과정에 참석하기 때문에 기준연도의 어느 날에도 말레이시아에 있지 않은, 공직이나 법정기관에 고용된 **말레이시아 시민**은 그 해와 말레이시아에 있지 않은 모든 후속 기준연도에 거주자로 간주됩니다. 외교관과 파견 공무원은 무기한 거주자로 남습니다.
+
+## 판정을 순서대로 적용하기
+
+| 질문 | 조문 | 예인 경우 |
+| --- | --- | --- |
+| 올해 연속 여부와 관계없이 182일 이상? | s.7(1)(a) | 거주자 |
+| 182일 미만이나 인접 연도의 연속 182일 블록에 연결? | s.7(1)(b) | 거주자 |
+| 90일 이상, 그리고 지난 4개 연도 중 3개에 거주 또는 90일 재류? | s.7(1)(c) | 거주자 |
+| 내년과 앞선 3개 연도 각각에 거주? | s.7(1)(d) | 거주자 |
+| 공직 시민, 임무로 연중 부재? | s.7(1B) | 거주자로 간주 |
+| 위 어느 것도 아님 | 부칙 1 제1부 제1A항 | 비거주자, 일률 30% |
+
+판정 4는 다음 해에 달려 있으며, 그 해가 마감되기 전까지는 알 수 없습니다. 실무상 가진 입장으로 신고하고 수정하거나, 신고 시 제7(1)(b)조에 따라 청구하고 여행 기록으로 뒷받침합니다.
+
+## 흔한 실수
+
+- **온전한 날만 세는 것.** 제7(1A)조는 하루의 일부를 하루로 간주합니다. 7월 3일 심야 도착과 12월 31일 출발은 180일이 아니라 182일입니다.
+- **연결 연도의 182일을 비연속으로 취급하는 것.** 판정 1은 합산하고, 판정 2는 인접 연도에 182일 **연속**을 요구합니다. 단일 182일 규칙을 명시하는 안내서는 그 둘을 뭉갭니다.
+- **취업 패스(Employment Pass)가 거주지를 결정한다고 가정하는 것.** 2년 패스는 도착 연도에 아무 거주도 부여하지 않습니다. 거주지는 제7(1)조에 따라 일수로 계산되고 매 기준연도에 재평가됩니다.
+- **휴가로 15일을 보내는 것.** 사교 방문 허용치는 그 해에 **합계** 14일입니다. 15일째가 연속 블록을 깨고 전체 연결 청구를 잃게 할 수 있습니다.
+- **90일 수치에서 멈추는 것.** 판정 3에는 이력 요건이 있습니다. 자격 있는 이전 연도가 없는 해의 90일은 비거주를 낳습니다.
+- **증명서에서 거주지를 읽는 것.** 조약 목적으로 발급된 거주증명서는 이미 제7조에 따라 내려진 판단을 입증합니다. 그것이 판단을 내리지는 않습니다.
+
+## 다음 단계
+
+거주지가 정해지면, 그것이 납부하는 세율, 청구할 수 있는 공제, 제출하는 신고 양식을 좌우합니다. 귀하의 과세연도에 대한 세율표를 확인하고, 취업 패스로 이곳에 있다면 고용주가 귀하의 PCB를 정하기 전에 비거주 및 지식근로자 세율을 검토하십시오.

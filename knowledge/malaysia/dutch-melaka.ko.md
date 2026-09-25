@@ -1,0 +1,156 @@
+---
+topicId: "MY-HIS-0067"
+title: "네덜란드령 말라카: VOC는 왜 정복한 항구를 이후 발전시키기를 거부했는가"
+seoTitle: "네덜란드령 말라카(1641~1824): VOC의 마지못한 식민지"
+slug: "dutch-melaka"
+category: "malaysia"
+subcategory: ["colonial"]
+summary: "네덜란드 동인도회사는 1641년 포르투갈로부터 말라카를 빼앗기 위해 7개월과 조호르와의 전시 동맹을 쏟아부었으며 — 그런 다음 이후 한 세기 반 동안 그 항구가 다시는 부유해지지 않도록 애썼습니다. 그 이유는 VOC 자신이 세운 경쟁 수도인 바타비아였으며, 이는 영국이 마침내 1825년 네덜란드로부터 말라카를 넘겨받을 때까지 말라카에 일어난 거의 모든 일을 설명합니다."
+tier: "2"
+mode: "narrative"
+contentType: "guide"
+answer: "네덜란드 동인도회사(VOC)는 조호르 술탄국과 나란히 싸우며 7개월간의 포위 끝에 1641년 포르투갈로부터 말라카를 빼앗았습니다. 그러나 VOC는 이미 바타비아(자카르타)에 목적에 맞게 세운 지역 수도를 두고 있었고 말라카가 그와 경쟁하도록 할 의도가 전혀 없었습니다 — 회사는 교역과 주석 할당량을 바타비아 쪽으로 돌렸고, 말라카를 경쟁 항구로 발전시키기보다 행정적으로 그에 종속시켰습니다. 네덜란드 통치는 나폴레옹 전쟁 중이던 1795년 영국이 말라카를 점령하면서 중단되었고, 1818년 잠시 네덜란드에 복원되었다가, 1824년 영국-네덜란드 조약(1825년 3월 1일 발효)에 따라 수마트라의 벤쿨렌에 있던 영국 정착지와 교환되어 영구히 영국에 양도되었습니다."
+keyTakeaways:
+  - "The VOC and the Johor Sultanate besieged Portuguese Melaka together for seven months before the Portuguese surrendered in 1641; Dutch rule then lasted 154 years"
+  - "The VOC never intended Melaka to prosper — Batavia (Jakarta) was the company's real regional capital, and Dutch policy actively diverted trade and tin quotas there instead of developing Melaka"
+  - "Under the VOC, Melaka was kept administratively subordinate to Batavia and was never developed as a rival trading port; the company had no interest in helping it compete with its own headquarters"
+  - "Even Melaka's own hinterland trade, such as the Perak tin monopoly, was run from Batavia: the 1670 tin warehouse on Pangkor Island was built on an order issued from the VOC's Javanese headquarters, not from Melaka"
+  - "Britain occupied Melaka in 1795 under the Kew Letters, without a fight, to keep it out of French hands during the Napoleonic Wars; an 1806 British order then demolished most of the Portuguese-Dutch A Famosa fortress"
+  - "Melaka was restored to the Dutch in 1818, but by then Stamford Raffles was already looking for a replacement port for Britain — he founded Singapore in 1819 rather than wait for Melaka's future to be settled"
+  - "The Anglo-Dutch Treaty of 17 March 1824 permanently ceded Melaka to Britain in exchange for Bencoolen; the actual transfer took effect on 1 March 1825"
+appliesTo: "Readers who already know Melaka changed hands from the Portuguese to the Dutch to the British, and want to understand why the middle 184 years looked so different from the 130 years before and the 121 years after — plus how the transfer to Britain actually happened."
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+sensitivity: "none"
+updated: 2026-07-24
+sources:
+  - title: "Melaka History"
+    url: "https://www.melaka.gov.my/en/government/state-info/melaka-history.html"
+    publisher: "Portal Rasmi Kerajaan Negeri Melaka"
+  - title: "Sejarah Melaka"
+    url: "https://www.melaka.gov.my/ms/kerajaan/info-negeri/sejarah.html"
+    publisher: "Portal Rasmi Kerajaan Negeri Melaka"
+  - title: "Kota A' Famosa, Melaka"
+    url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/mercu-tanda/kota-a-famosa-melaka"
+    publisher: "Arkib Negara Malaysia (Pustaka Ilmu)"
+  - title: "Kota Belanda, Pulau Pangkor"
+    url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/mercu-tanda/kota-belanda-pulau-pangkor"
+    publisher: "Arkib Negara Malaysia (Pustaka Ilmu)"
+  - title: "Signing of the Anglo-Dutch Treaty (Treaty of London) of 1824"
+    url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=5005d886-9c27-421e-a22d-44fb5965350c"
+    publisher: "National Library Board, Singapore"
+  - title: "Stamford Raffles's landing in Singapore"
+    url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=8b54be13-5b70-44d0-abf6-f9781247686f"
+    publisher: "National Library Board, Singapore"
+entity: "Dutch Melaka (VOC rule, 1641-1824)"
+wikidata: "Q949314"
+relations:
+  - { rel: "part-of", to: "malaysia" }
+  - { rel: "located-in", to: "melaka" }
+  - { rel: "supersedes", to: "portuguese-melaka-1511" }
+  - { rel: "related-to", to: "melaka-sultanate" }
+  - { rel: "related-to", to: "straits-settlements" }
+  - { rel: "related-to", to: "johor-riau-sultanate" }
+related: ["portuguese-melaka-1511", "straits-settlements", "melaka-sultanate", "johor-riau-sultanate"]
+keywords: ["Dutch Melaka", "VOC Malacca", "Dutch East India Company Malacca", "Batavia versus Melaka", "Anglo-Dutch Treaty 1824", "A Famosa demolition", "Stadthuys Melaka", "Kew Letters 1795", "Straits Settlements history"]
+---
+
+한 회사가 항구 하나를 정복하기 위해 7개월과 외국 술탄국과의 동맹을 쏟아붓습니다. 그런 다음 이후 한 세기 반 동안 그 항구가 결코 부유해지지 않도록 애씁니다.
+
+그것이 말라카(Melaka)에서의 네덜란드 통치의 평이한 모습입니다. 그것은 또한 대부분의 서술이 건너뛰는 부분이기도 한데, "VOC가 넘겨받았고, 그다음 영국이 넘겨받았다"가 진실보다 훨씬 깔끔한 문장이기 때문입니다. 진실은 이렇습니다. 네덜란드 동인도회사는 말라카를 얻었고, 그런 다음 그것을 발전시킬 전리품이 아니라 관리해야 할 문젯거리로 취급하였습니다.
+
+## 획득: 단독 정복이 아니라 공동 포위
+
+네덜란드는 말라카를 혼자 빼앗지 않았습니다.
+
+말레이시아 국립문서보관소(Arkib Negara Malaysia) 자체의 서술은 그에 대해 단도직입적입니다. 말라카와 그 요새는 "바다와 육지로부터 7개월간의 포위 끝에, 조호르(Johor)와 연합한 네덜란드에게 패배하였다"는 것입니다. 말라카의 포르투갈 점령자들과 오래도록 갚아야 할 원한을 품고 있던 조호르 술탄국은, 해상 봉쇄를 실제 점령으로 바꾼 지상군과 현지 지식을 공급하였습니다.
+
+1641년 요새가 함락되었을 때, 네덜란드는 포르투갈이 그것을 지키던 수단을 발견하였습니다. 같은 문서 기록에 따르면 대포 68문과 소총 74정이었습니다. 130년간 말라카 해협(Straits of Malacca)을 지켜 온 포르투갈령 말라카(Portuguese Melaka)는 끝났습니다.
+
+뒤이은 네덜란드 통치는 154년간 — 1641년부터 1795년까지, 말라카 주 정부 자체의 역사에 따르면 — 이어졌습니다. 서류상으로 그것은 그 이전의 포르투갈이나 그 이후의 영국보다 더 긴 재임입니다. 실제로는, 셋 중 가장 조용한 것이었습니다.
+
+## 진짜 수도는 결코 말라카가 아니었다
+
+이 글의 나머지 거의 모든 것을 설명하는 세부가 여기 있습니다. VOC가 말라카를 빼앗을 무렵, 회사에는 이미 수도가 있었습니다.
+
+바타비아(Batavia) — 오늘날의 자카르타 — 는 아시아 무역 전체를 위한 행정·창고 거점으로서 1641년 훨씬 이전에 회사에 의해 구축되어 있었습니다. 20년도 더 뒤에 정복된 말라카는 결코 그것을 밀어낼 수 없었습니다. VOC 자신의 우선순위는 말라카와 그 해협을 경쟁 유럽 열강으로부터 차단하는 것이었지, 자신의 본부와 교역을 두고 경쟁하는 것이 아니었습니다.
+
+그래서 회사는 그렇게 하지 않았습니다. 말라카의 상인들이 채워야 했던 주석 할당량은 점점 더 바타비아로 우회되었습니다. 말라카의 총독들은 교역에 더 많은 재량을 달라고 압박하였으나, 바타비아는 한결같이 거절하였습니다. 그 양상은 기록에 쇠퇴로 나타나지만, 그것은 정책에 더 가까웠습니다.
+
+그 결과는 바타비아의 그늘에 의도적으로 놓인 항구였습니다. VOC가 억누를 관심이 없던 교역을 경쟁 말레이 항구들이 끌어갔는데, 이미 우선하지 않기로 결정한 항구를 떠받치는 것은 그 비용을 들일 가치가 없었기 때문입니다. 말라카는 이전의 통치자들 아래에서 그러했던 번성하는 교역항이 아니라, 수비대 도시이자 행정 중심지로 남았습니다.
+
+## 말라카의 배후지조차 바타비아를 거쳤다
+
+실제 권한이 어디에 있었는지에 대한 가장 명백한 증거는 말라카 시가지에 전혀 있지 않습니다. 그것은 페락(Perak) 해안 앞바다의 팡코르섬(Pangkor)에 있습니다.
+
+1670년 VOC는 그곳에 코타 벨란다(Kota Belanda)를 세웠습니다 — 회사가 페락의 통치자들에게 강요한 독점 아래 사들인 주석을 저장하기 위한 창고였습니다. 국립문서보관소에 따르면, 그것을 세우라는 명령은 페락의 주석을 통과시키기에 명백히 적합한 자체 항구를 둔 바로 옆의 말라카 총독이 아니라 "네덜란드 동인도회사의 행정 중심지인 바타비아에서 발해졌습니다."
+
+| 연도 | 팡코르 코타 벨란다에서의 사건 |
+| --- | --- |
+| 1651 | 독점에 반대하는 페락 지도자들에 의해 이전의 VOC 주석 초소가 파괴됨 |
+| 1670 | 바타비아의 명령으로 코타 벨란다 건설(처음에는 목재) |
+| ~1680 | 창고 벽을 벽돌로 보강 |
+| 1690 | 판글리마 쿨룹(Panglima Kulup) 휘하 병력에 의해 사상자를 내며 다시 파괴됨 |
+| 1743 | 보호를 위해 네덜란드 수비대 주둔 |
+
+말라카 바로 옆의 말레이 국가에서 뽑아낸 주석 독점이, 섬의 요새에서 관리되고, 자바 바다 건너 멀리 떨어진 본부의 명령으로 운영되며 — 말라카 자체는 그 연쇄에 거의 등장하지 않습니다. 그것이 실제로 "바타비아에 종속됨"이 어떤 모습이었는지를 보여줍니다.
+
+## 네덜란드령 말라카가 지은 것
+
+이 가운데 어떤 것도 네덜란드가 말라카를 손대지 않고 두었다는 뜻은 아닙니다. 그들은 식민지 행정 중심지가 필요로 하는 것을 지었으며, 다만 번성하는 교역항이 필요로 하는 것을 짓지는 않았습니다.
+
+스타다위스(Stadthuys) — 1650년경 완공된 네덜란드 총독의 관저이자 행정 중심지 — 는 오늘날에도 말라카의 더치 스퀘어에 여전히 서 있으며, 네덜란드 통치 한 세기를 기념하여 1753년에 완공된 크라이스트 처치, 그리고 1710년의 세인트 피터 교회도 함께 서 있습니다. 이것들은 번성하는 교역항을 위한 창고가 아니라, 통치하고 예배하기 위한 건물이었습니다.
+
+네덜란드는 또한 포위로 손상된 포르투갈 요새 아 파모사(A Famosa)를 물려받아 수리하였습니다. 그것은 뒤이은 세기를 넘기지 못하였는데 — 그러나 그 이야기는 다음 점령자에게 속합니다.
+
+## 두 번 잃다
+
+말라카에서의 네덜란드 통치는 한 번에 끝나지 않았습니다. 그것은 끝났다가, 뒤집혔다가, 다시 끝났습니다 — 30년 안에 두 번, 말라카 자체와는 아무 상관 없는 이유로 말입니다.
+
+**1795년 — 영국이 싸움 없이 들어오다.** 프랑스 혁명 전쟁이 네덜란드에 이르렀고, 잉글랜드의 큐 궁전(Kew Palace)에서 편지를 쓴 망명 중인 네덜란드 총독은, 네덜란드 내의 프랑스 편 당국이 식민지를 차지하도록 두기보다 영국군을 동맹으로 받아들이라고 네덜란드 식민지 총독들에게 지시하였습니다. 말라카의 총독은 이에 따랐습니다. 영국은 말라카를 원해서가 아니라, 그것을 프랑스의 손에서 벗어나게 하려고 그 항구를 점령하였습니다.
+
+**1806년 — 요새가 무너지다.** 네덜란드가 언젠가 말라카를 되찾아 아 파모사를 자신들에게 사용할 것을 우려하여, 영국은 그 요새를 철거하라고 명령하였습니다. 국립문서보관소는 페낭(Penang)에서 온 명령에 따라 행동한 윌리엄 파쿠하(William Farquhar)가 "그 대부분이 완전히 파괴될 때까지 요새를 폭파하였다"고 기록합니다. 오늘날에는 성문과 성벽 조각만이 남아 있으며 — 지금 말라카를 찾는 방문객들이 보는 바로 그 조각들입니다.
+
+**1818년 — 네덜란드가 잠시 돌아오다.** 나폴레옹 전쟁에 뒤이은 영국-네덜란드 조약 합의는 분쟁 중 압류된 네덜란드 식민지들을 복원하였고, 말라카는 네덜란드 행정으로 되돌아갔습니다. 그러나 그 복원은 신임의 표시가 아니라 행정적인 것이었습니다 — 이 시점에서 말라카를 싱가포르(Singapore)나 바타비아의 경쟁자로 재건하려는 이는 아무도 없었습니다.
+
+**1819년 — 영국이 더 기다리기를 그만두다.** 네덜란드에 복원된 말라카에 무슨 일이 일어날지에 걸기보다, 영국 동인도회사의 스탬퍼드 래플스(Stamford Raffles)는 대안을 찾아 나섰습니다. 그는 말라카를 대체할 새로운 영국 정착지를 찾기 위해 1818년 12월 캘커타를 떠나, 1819년 1월 싱가포르에 상륙하였고, 1819년 2월 6일 조호르 술탄국과 조약을 맺어 영국의 그곳 발판을 마련하였습니다. 싱가포르의 건설은 부분적으로 영국이 더 이상 말라카의 미래를 네덜란드의 손에 맡기지 않게 된 직접적인 결과입니다.
+
+## 완전히 넘기다
+
+최종 이전은 말라카에서 멀리 떨어진 런던에서 협상되었습니다.
+
+1824년 영국-네덜란드 조약 — 1824년 3월 17일 서명 — 은 말레이 군도 전역에 걸친 영국과 네덜란드의 겹치는 주장의 긴 목록을 정리하였습니다. 그 조건에 따라, 네덜란드는 말라카시와 요새 및 그 모든 부속지를 영국에 전면 양도하고, 말레이반도(Peninsular Malaysia)에서 더 이상의 발판을 구하지 않기로 합의하였습니다. 그 대가로 영국은 수마트라(Sumatra) 서해안의 벤쿨렌(Bencoolen)에 있던 자체 정착지를 — 그 섬의 나머지 소유지와 함께 — 네덜란드에 넘겼습니다.
+
+문서는 1824년에 서명되었습니다. 실제 인계는 조약이 양측의 재산과 시설 이전을 위해 정한 날짜인 1825년 3월 1일에 발효되었습니다.
+
+말라카는 다시는 네덜란드 통치로 돌아가지 않았습니다. 2년 안에 그것은 페낭 및 새 정착지 싱가포르와 나란히 단일한 영국 행정 단위 — 이후 해협식민지(Straits Settlements)가 될 것의 시작 — 로 편입되었습니다.
+
+## 흔한 실수
+
+**"네덜란드는 포르투갈과 영국이 그러했듯 말라카를 위대한 교역 도시로 발전시켰다."** 그 반대의 일이 일어났습니다. VOC 자신의 수도 바타비아가 같은 교역을 두고 말라카와 경쟁하였고, 회사 정책은 한결같이 바타비아를 우대하였습니다. 말라카는 그 본부에 종속된 채로 유지되었고 경쟁 교역항으로 육성되지 않았습니다.
+
+**"말라카는 한 번의 깔끔한 인계로 영국에 넘어갔다."** 그것은 30년 안에 행정적으로 네 번 주인이 바뀌었습니다. 1795년 영국 점령, 1818년 네덜란드로의 복원, 1824년 조약에 의한 영국으로의 영구 양도, 그리고 1825년의 실제 이전입니다.
+
+**"아 파모사는 포르투갈의 유적이다."** 남아 있는 것은 조각입니다. 네덜란드가 물려받아 수리한 그 요새는, 포르투갈이 아니라 네덜란드가 프랑스에 지고 있던 전쟁 중 그것을 네덜란드의 손에서 벗어나게 하려고 1806년 영국의 명령으로 철거되었습니다.
+
+**"네덜란드령 말라카와 바타비아는 대체로 대등한 동반자였다."** 그들은 결코 대등하지 않았습니다. 말라카는 페락 해안 앞 섬의 주석 창고에 관한 결정까지 자바에서 명령받은, 바타비아에 답해야 하는 VOC의 소유지였습니다.
+
+## 다음으로 볼 내용
+
+- 네덜란드 정복 이전에 있었던 130년간의 포르투갈 통치와, 왜 1511년은 열흘이 걸렸으나 1641년은 7개월이 걸렸는지를 설명하는 목조에서 석조로의 축성 이야기에 대해서는 [포르투갈령 말라카](/ko/malaysia/portuguese-melaka-1511)를 참고하십시오.
+- 말라카, 페낭, 싱가포르가 단일 단위로 운영된 뒤 무슨 일이 일어났는지 — 그리고 그 동일한 식민지 기구가 이후 어떻게 말레이 국가들 자체로 확장되었는지 — 에 대해서는 [해협식민지](/ko/malaysia/straits-settlements)를 참고하십시오.
+- 1511년의 몰락이 이 모든 것을 촉발한 말레이 왕가, 그리고 그 후손인 조호르 술탄국이 이후 포르투갈에 맞서 네덜란드와 동맹을 맺은 왕가에 대해서는 [말라카 술탄국](/ko/malaysia/melaka-sultanate)과 [조호르-리아우 술탄국](/ko/malaysia/johor-riau-sultanate)을 참고하십시오.
+
+이 글은 초안이며 아직 인간 편집자의 검토를 거치지 않았습니다. 위의 모든 날짜와 수치는 말라카 주 정부의 공식 역사 포털, 말레이시아 국립문서보관소의 Pustaka Ilmu 기록보관소, 또는 싱가포르 국립도서관위원회에서 비롯되며, 모두 위에 열거되어 있습니다. 1641년 함락의 정확한 날짜와 래플스가 개인적으로 살아남은 아 파모사 성문을 구했다는 주장은 이 자료들에서 확인할 수 없어, 추측하기보다 생략하였습니다.

@@ -1,0 +1,252 @@
+---
+topicId: MY-LAW-0074
+title: "이민법(Immigration Act 1959/63): 말레이시아의 입국, 패스 및 체류기간 초과"
+seoTitle: "말레이시아 이민법(Immigration Act 1959/63): 비자, 패스 및 체류기간 초과 처벌"
+slug: "immigration-act-1959-63"
+category: "law"
+subcategory: ["immigration"]
+summary: "말레이시아 이민법(Immigration Act 1959/63, Act 155)이 누가 입국할 수 있는지, 비자와 패스가 무엇을 허용하는지, 그리고 체류기간 초과에 뒤따르는 벌금, 징역 및 블랙리스트 등재를 어떻게 규율하는지를 다룹니다."
+
+tier: "1"
+mode: "practical"
+contentType: "law"
+sensitivity: "none"
+
+answer: "이민법(Immigration Act 1959/63, Act 155)은 말레이시아 입국과 체류를 통제하는 주요 법률입니다. 비자는 말레이시아로 이동할 수 있게 해 주고, 도착 시 날인되는 패스는 실제로 무엇을 얼마나 오래 할 수 있는지를 정합니다. 체류기간 초과는 제15조 제4항상 엄격책임 범죄로, 최소 RM10,000의 벌금, 최대 5년의 징역 또는 둘 다에 처해지며, 구금, 강제퇴거 및 재입국 블랙리스트 등재가 뒤따를 가능성이 높습니다. 미등록 외국인의 사용자와 숙소 제공자는 자신들의 별도 범죄와 더 무거운 처벌에 직면합니다."
+keyTakeaways:
+  - "A visa is permission to travel to Malaysia; the pass stamped on entry is what actually authorises your stay and its purpose — the two are legally distinct."
+  - "Overstaying is a strict-liability offence under Section 15(4): a fine of not less than RM10,000, up to five years' imprisonment, or both, with a compound option and a re-entry blacklist."
+  - "Illegal entry under Section 6(3) can additionally carry whipping of up to six strokes — a penalty overstaying alone does not attract."
+  - "Employment Pass categories are set by monthly salary; since 1 June 2026 Category I and II run up to 10 years and Category III up to 5 years."
+  - "Employers who hire undocumented workers (Section 55B) and anyone who harbours them (Section 56(1)(d)) commit separate offences with fines from RM10,000 to RM50,000 per person."
+appliesTo: "Expatriates, foreign workers, digital nomads, investors, employers and anyone hosting non-citizens in Malaysia."
+
+faq:
+  - q: "What is the difference between a visa and a pass in Malaysia?"
+    a: "A visa is an endorsement that permits a foreigner to travel to a Malaysian entry point; a pass is what the immigration officer grants on arrival and it defines the purpose and length of the actual stay. You can hold a valid visa and still be refused a pass, and it is the pass expiry — not the visa — that determines when an overstay begins."
+  - q: "What is the penalty for overstaying in Malaysia?"
+    a: "Under Section 15(4) of the Immigration Act 1959/63, overstaying is punishable by a fine of not less than RM10,000, imprisonment for up to five years, or both. Immigration may offer a compound (an out-of-court settlement) of up to RM3,000 in eligible cases, but overstayers also risk detention, deportation and being blacklisted from re-entry for a period set at the Immigration Department's discretion."
+  - q: "Does overstaying carry whipping?"
+    a: "Overstaying under Section 15(4) does not, by itself, list whipping among its penalties. Whipping of up to six strokes is attached to illegal entry under Section 6(3) and to document falsification under Section 55D, which are separate and more serious offences."
+  - q: "Can I work in Malaysia on a social visit pass?"
+    a: "No. A social visit pass (the pass most tourists and short-term visitors receive) does not permit employment. Working requires an Employment Pass, a Temporary Employment Pass, or a Professional Visit Pass. Working without the correct pass exposes both the worker and the employer to prosecution under the Act."
+  - q: "How long can an Employment Pass holder stay in Malaysia?"
+    a: "An Employment Pass is tied to the employment contract and issued by salary category. Since 1 June 2026, Category I (RM20,000+/month) and Category II (RM10,000-RM19,999) may be granted for up to 10 years with the same employer, and Category III (RM5,000-RM9,999) for up to 5 years. The duration resets on a change of employer."
+  - q: "Can my family join me on my Employment Pass?"
+    a: "Employment Pass holders can sponsor a Dependant Pass for a spouse and children under 18 (including legally adopted children). Older children, parents and certain other relatives are typically covered by a Long-Term Social Visit Pass instead. Eligibility is generally limited to pass holders earning above RM5,000 a month."
+  - q: "What happens to employers who hire undocumented workers?"
+    a: "Employing a foreigner without a valid pass is an offence under Section 55B, carrying a fine of RM10,000 to RM50,000 or imprisonment up to 12 months for each worker. Hiring five or more undocumented workers raises the exposure to imprisonment of six months to five years and possible whipping."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-14
+reviewDue: 2027-08-08
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-14
+    change: "Approved and published."
+    reviewer: null
+
+verificationNeeded:
+  - "Re-entry blacklist durations after an overstay — the cited IMI pages do not publish specific ban lengths; blacklisting is applied at the Department's discretion."
+
+updated: 2026-08-14
+sources:
+  - title: "Frequently Committed Offences"
+    url: "https://www.imi.gov.my/index.php/en/main-services/entry-requirement-into-malaysia-en/frequently-committed-offences/"
+    publisher: "Immigration Department of Malaysia (JIM)"
+  - title: "Laws of Malaysia Reprint — Act 155 Immigration Act 1959/63 (ss.6, 8, 15, 57)"
+    url: "https://toolsfortransformation.net/wp-content/uploads/2017/03/Malaysian-Law-Immigration-Act-1.pdf"
+    publisher: "Laws of Malaysia (Attorney General's Chambers consolidated reprint)"
+  - title: "Enforcement Division"
+    url: "https://www.imi.gov.my/index.php/en/enforcement/"
+    publisher: "Immigration Department of Malaysia (JIM)"
+  - title: "Employment Pass (EP)"
+    url: "https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/"
+    publisher: "Expatriate Services Division (ESD), Immigration Department of Malaysia"
+  - title: "Dependant Pass"
+    url: "https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/dependant-pass/"
+    publisher: "Expatriate Services Division (ESD), Immigration Department of Malaysia"
+  - title: "The Employment Pass (FAQ)"
+    url: "https://www.imi.gov.my/index.php/en/faq_bkejim/the-employment-pass/"
+    publisher: "Immigration Department of Malaysia (JIM)"
+  - title: "Visa Requirement by Country"
+    url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement/"
+    publisher: "Immigration Department of Malaysia (JIM)"
+  - title: "Visa Requirement by Country (India visa-exempt until 31 December 2026)"
+    url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
+    publisher: "Immigration Department of Malaysia (JIM)"
+  - title: "Malaysia Immigration: ESD updates on minimum salary and Employment Pass duration from 1 June 2026"
+    url: "https://vialtopartners.com/regional-alerts/malaysia-immigration-esd-updates-on-minimum-salary-and-employment-pass-duration-from-1-june-2026"
+    publisher: "Vialto Partners"
+  - title: "DE Rantau Nomad Pass"
+    url: "https://mdec.my/derantau/foreign"
+    publisher: "Malaysia Digital Economy Corporation (MDEC)"
+  - title: "DE Rantau Nomad Pass eligibility expanded (non-tech USD 60,000/yr or USD 5,000/mo)"
+    url: "https://www.digital.gov.my/en-GB/siaran/DE-Rantau-Nomad-Pass-eligibility-expanded"
+    publisher: "Malaysian Government Digital Department (JDN / digital.gov.my)"
+  - title: "Malaysia — new DE Rantau Nomad Pass for digital nomads (validity up to 12 months + 12-month renewal; tech >USD 24,000/yr)"
+    url: "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/technical/tax-alerts/documents/ey-malaysia-new-de-rantau-nomad-pass-for-digital-nomads.pdf"
+    publisher: "EY (summarising MDEC criteria)"
+
+entity: "Immigration Act 1959/63 (Act 155)"
+wikidata: "Q27962088"
+relations:
+  - { rel: "administered-by", to: "immigration-department-malaysia" }
+  - { rel: "related-to", to: "employment-pass-malaysia" }
+  - { rel: "related-to", to: "expatriate-services-division" }
+related: ["employment-pass-malaysia"]
+keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
+---
+
+여권에 유효한 비자가 있다고 해서 그것만으로 말레이시아에 발을 들일 수 있는 것은 아닙니다 — 그리고 그것은 너무 오래 머물렀을 때 여러분을 곤경에 빠뜨리는 문서도 아닙니다. 두 역할 모두 하나의 법률에 속합니다. 국경을 누가 넘을 수 있는지, 안에 들어온 후 무엇을 할 수 있는지, 그리고 체류 조건을 위반했을 때 무슨 일이 일어나는지를 결정하는 법령인 **이민법(Immigration Act 1959/63, Act 155)**입니다.
+
+여러분이 외국인 전문직, 외국인 근로자, 디지털 노마드, 투자자, 또는 이들 중 누군가의 사용자라면, Act 155는 여러분이 가장 부딪히기 쉬운 말레이시아 법률입니다. 이 안내서는 그 세 가지 구성 요소 — **입국, 패스, 체류기간 초과** — 와 그것들을 올바르게 지키는 것이 노력할 가치가 있게 만드는 처벌을 설명합니다.
+
+## 이민법(Immigration Act 1959/63)이란 정확히 무엇인가?
+
+이 법은 말레이시아의 기초 이민 법령입니다. "1959/63"은 그 역사를 반영합니다. 원래 1959년에 제정되어, 사바(Sabah)와 사라왁(Sarawak)이 1963년 연방에 합류할 때 개정되었으며, 이것이 사바와 사라왁이 오늘날까지 독자적인 이민 자치권을 유지하는 이유입니다. 이 법은 **말레이시아 이민국(Jabatan Imigresen Malaysia, JIM)**이 관장하며, 그 집행부는 여권법(Passports Act 1966)과 인신매매방지 및 이주자밀입국방지법(Anti-Trafficking in Persons and Anti-Smuggling of Migrants Act 2007)도 집행합니다.
+
+비국민이 국경에서 그리고 그 이후에 하는 모든 것은 이 법을 통해 흐릅니다. 비자 배서, 도착 시 날인되는 패스, 그 패스에 부착된 조건, 그리고 조건 위반 시 적용되는 범죄입니다. 그 용어를 이해하는 것이 첫 번째 방어선입니다.
+
+## 비자냐 패스냐 — 무엇이 다르고, 왜 중요한가?
+
+여행자들은 "비자"라는 말을 느슨하게 쓰지만, 말레이시아 법률상 비자와 패스는 서로 다른 두 가지로, 서로 다른 순간에 발급되어 서로 다른 역할을 합니다.
+
+| | 비자(visa) | 패스(pass) |
+|---|---|---|
+| **무엇인가** | 말레이시아 입국 지점으로 *이동할* 허가 | 정해진 목적으로 *입국하고 체류할* 허가 |
+| **언제 발급되는가** | 이동 전(또는 eVISA / eNTRI를 통해), 또는 면제 국민의 경우 면제 | 도착 시 이민 심사관에 의해, 또는 외국인전문직서비스부를 통해 |
+| **무엇을 통제하는가** | 탑승하여 국경에 이를 수 있는지 여부 | 목적(사회, 취업, 학업, 동반가족)과 체류 기간 |
+| **중요한 시계** | 체류기간 초과의 기준이 아님 | 그 만료일이 체류기간 초과의 시작점 |
+
+실무적 요점은 단호합니다. **비자가 아니라 패스가 여러분의 체류를 규율합니다.** 비자는 유효하더라도 패스는 만료되었을 수 있으며 — 여러분을 체류기간 초과자로 만드는 것은 만료된 패스입니다. 비자에 적힌 날짜가 아니라, 심사관이 여러분에게 준 도장이나 스티커를 항상 읽고 그 만료일을 확인하십시오.
+
+또한 비자가 입국을 보장하지도 않습니다. 검문소의 이민 심사관은 여전히 패스 발급을 거부할 수 있습니다 — 예컨대 여러분이 이 법상 *입국 금지자(prohibited immigrant)*로 간주되는 경우입니다.
+
+## 말레이시아 입국에 비자가 필요한가?
+
+전적으로 국적에 달려 있습니다. 말레이시아는 크게 세 계층으로 운영합니다.
+
+- **비자 면제 국민** — 많은 국가의 국민은 사전 비자 없이 사회적 또는 사업 방문 목적으로 입국하여 도착 시 사회방문패스를 받을 수 있습니다. 부여되는 기간은 심사관의 재량이며 국적별로 다르므로, 정해진 일수를 가정하지 말고 도장을 확인하십시오.
+- **비자가 필요한 국민** — 약 서른 개 국가의 국민은 이동 전에 비자를 취득해야 합니다. 이민국의 국가 목록에는 아프가니스탄, 방글라데시, 파키스탄, 스리랑카, 네팔, 콜롬비아, 몬테네그로, 세르비아 국민 등이 포함됩니다. 일부 조정은 기간 한정입니다. 예컨대 인도 국민은 2026년 12월 31일까지 비자 면제로 열거되어 있습니다.
+- **특별 편의** — eNTRI와 eVISA 같은 프로그램은 특정 국적(예: 중국(PRC) 및 인도 국민)의 입국을 간소화하며, 일부 국가는 항공편으로만 입국이 허용됩니다.
+
+이 목록은 변경되므로, 예약 전에 이민국의 현행 *국가별 비자 요건(Visa Requirement by Country)*에 대조하여 자신의 국적을 확인하십시오.
+
+비자가 *필요한* 경우, 흔한 형태로는 단수 비자(1회 이동), 복수 비자(유효 기간 내 반복 이동), 경유 비자가 있습니다. 장기 체류 및 취업 목적은 통상 **참조부 비자(Visa With Reference, VDR)**를 통하는데, 이는 비자가 해외에서 발급되기 전에 말레이시아 내 당국의 참조 — 통상 일자리나 학업 배정과 연계 — 로 승인됩니다.
+
+## 어느 패스가 체류, 취업 또는 가족 동반을 허용하는가?
+
+일단 입국이 허가되면, *패스*가 여러분이 적법하게 할 수 있는 것을 정합니다. 잘못된 패스를 사용하는 것 — 예컨대 사회방문패스로 일하는 것 — 자체가 범죄입니다. 주요 범주는 다음과 같습니다.
+
+| 패스 | 목적 | 통상적 소지자 |
+|---|---|---|
+| **사회방문패스(Social Visit Pass)** | 관광, 가족 방문, 단기 업무 회의; **취업 불가** | 관광객, 단기 방문자 |
+| **취업패스(Employment Pass, EP)** | 특정 사용자 및 계약과 연계된 숙련 취업 | 외국인 전문직 및 임원 |
+| **전문직방문패스(Professional Visit Pass, PVP)** | 외국인 고용주를 위한 임시 전문 업무 | 컨설턴트, 강사, 단기 전문가 |
+| **임시취업패스(Temporary Employment Pass)** | 승인된 부문의 반숙련 및 미숙련 취업 | 제조, 플랜테이션 등의 외국인 근로자 |
+| **동반가족패스(Dependant Pass)** | EP 소지자를 동반하는 가족 | 배우자 및 18세 미만 자녀 |
+| **장기사회방문패스(Long-Term Social Visit Pass, LTSVP)** | 동반가족패스로 다루어지지 않는 장기 가족 체류 | 부모, 성인 자녀, 특정 동반자 |
+| **DE Rantau 노마드패스(DE Rantau Nomad Pass)** | 외국인 고용주나 고객을 위한 원격 근무 | 적격 디지털 노마드 및 원격 전문가 |
+
+말레이시아 디지털경제공사(Malaysia Digital Economy Corporation, MDEC)가 관장하는 **DE Rantau 노마드패스**는 적격 원격 근무자가 최대 12개월간 말레이시아에 기반을 둘 수 있게 하며 추가 12개월 갱신이 가능합니다. 최소 소득 및 경력 기준이 적용되고 기술직과 비기술직에 따라 다르므로, 신청 전에 MDEC의 DE Rantau 포털에서 현행 갱신 조건과 자격 기준을 확인하십시오.
+
+## 취업패스로 얼마나 오래 일할 수 있는가?
+
+취업패스는 전문직의 핵심 문서이며, **월 급여**로 등급이 매겨집니다. 말레이시아는 **2026년 6월 1일**부터 이 틀을 개정하여 급여 구간과 최대 기간을 모두 변경했습니다.
+
+| 카테고리 | 최소 월 급여 | 최대 기간(동일 사용자) | 비고 |
+|---|---|---|---|
+| **카테고리 I** | RM20,000 이상 | 최대 10년 | 동반가족패스 자격 있음 |
+| **카테고리 II** | RM10,000 – RM19,999 | 최대 10년 | 승계 계획 필요 |
+| **카테고리 III** | RM5,000 – RM9,999 | 최대 5년 | 승계 계획 필요 |
+| RM5,000 미만 | — | EP 자격 없음 | 다른 패스 유형 고려 |
+
+실무에서 중요한 몇 가지가 있습니다. EP는 고용계약의 적용을 받으며, 역사적으로 한 번 부여에 약 60개월로 상한이 정해져 있었고, 이제 *최대 누적 기간*은 위의 수치로 정해져 있습니다. 이민국은 새로운 최대 기간이 **이전에 발급된 어떠한 EP도 고려하지 않고** 적용되며, 그 시계는 일반적으로 **사용자를 변경할 때 재설정된다**고 밝혔습니다. 카테고리 II와 III의 경우, 사용자는 패스 기간 내에 말레이시아인 직원이 그 역할을 인수할 수 있도록 어떻게 훈련할지를 기술하는 **승계 계획(succession plan)**을 제출해야 합니다.
+
+외국인 전문직의 취업패스는 통상 일반 이민 창구가 아니라 **외국인전문직서비스부(Expatriate Services Division, ESD)**와 그 MYXpats 서비스 센터를 통해 처리됩니다.
+
+## 체류기간을 초과하면 어떻게 되는가?
+
+바로 여기서 이 법이 가장 강하게 작동하며, 가장 값비싼 오해가 발생합니다. 말레이시아 법원은 체류기간 초과를 **엄격책임 범죄(strict-liability offence)**로 취급합니다 — 즉 초과가 고의였는지 여부와 관계없이 유죄가 될 수 있습니다. "깜빡했다", "항공편이 취소되었다", "날짜를 잘못 셌다"는 책임에 대한 항변이 되지 않습니다.
+
+핵심 규정은 패스 만료 후 말레이시아에 남아 있는 것을 금하는 **제15조 제1항(c)**이며, 범죄는 **제15조 제4항**에 규정되어 있습니다.
+
+| 요소 | 세부 내용 |
+|---|---|
+| **범죄** | 패스 만료 또는 취소 후 잔류(제15조 제1항(c) / 제15조 제4항) |
+| **벌금** | 최소 RM10,000(법정 최저) |
+| **징역** | 최대 5년 |
+| **병과** | 벌금, 징역 또는 둘 다 |
+| **즉결 벌금(compound)** | 적격 사건에서 최대 RM3,000(재판 외 화해) |
+| **태형** | 체류기간 초과 단독에는 해당 없음 |
+
+법정 처벌 외에, 대부분의 일반 여행자와 근로자에게 가장 큰 영향을 미치는 것은 행정적 결과입니다.
+
+- 사건이 처리되는 동안 이민 수용소에서의 **구금**.
+- 흔히 체류기간 초과자 본인 부담으로 이루어지는 **강제퇴거 / 송환**.
+- **블랙리스트 등재** — 이민국의 재량으로 부과되는 재입국 금지로, 실무상 향후 여행을 막을 수 있으며, 반복적이거나 중대한 사건은 더 긴 금지에 직면할 수 있습니다.
+
+짧고 의도치 않은 체류기간 초과라도 즉결 벌금과, 향후 여행을 조용히 막는 블랙리스트를 유발할 수 있습니다. 교훈은 패스 만료일을 움직일 수 없는 것으로 취급하고, 그 이후가 아니라 그 *이전*에 갱신하거나 출국하는 것입니다.
+
+## 불법 입국, 위조 문서 — 이것들은 체류기간 초과와 어떻게 다른가?
+
+체류기간 초과는 여러 범죄 중 하나일 뿐이며, 일부는 체형을 포함해 더 가혹한 처벌을 수반합니다.
+
+| 범죄 | 조 | 처벌 |
+|---|---|---|
+| **불법 입국**(진정한 여권/패스 없음, 또는 유효한 배서 없음) | 6(3) | 최대 RM10,000의 벌금 또는 최대 5년의 징역 또는 둘 다; **최대 6대의 태형**; 최대 RM3,000의 즉결 벌금 |
+| **체류기간 초과** | 15(4) | 최소 RM10,000의 벌금 또는 최대 5년의 징역 또는 둘 다; 최대 RM3,000의 즉결 벌금 |
+| **문서 위조 / 변조** | 55D | 최소 RM30,000의 벌금; 5~10년의 징역; 최대 6대의 태형 |
+
+불법 입국과 체류기간 초과의 차이는 익혀 둘 가치가 있습니다. **불법 입국은 태형을 부를 수 있지만, 체류기간 초과는 그 자체로는 그렇지 않습니다.** 그리고 이민 배서를 위조하거나 변조하는 것 — 예컨대 시간을 벌기 위해 패스를 조작하는 것 — 은 최소 RM30,000의 벌금과 필수적 징역으로 가장 중대한 구간으로 도약합니다.
+
+## 내 사용자나 숙소 제공자도 기소될 수 있는가?
+
+그렇습니다 — 이 법은 의도적으로 책임을 외국인 너머로 확대합니다. 미등록 외국인을 고용하거나, 재우거나, 그들과 함께 부지를 점유하면, 여러분 자신의 위험이 있습니다.
+
+| 범죄 | 조 | 처벌 |
+|---|---|---|
+| **불법 이민자 고용** | 55B | RM10,000~RM50,000의 벌금 또는 **근로자 1인당** 최대 12개월의 징역; 5인 이상 고용 시: 6개월~5년의 징역과 태형 가능 |
+| **불법 이민자 은닉** | 56(1)(d) | RM10,000~RM50,000의 벌금; 5인 이상 은닉 시: 6개월~5년의 징역과 태형 가능 |
+| **부지 점유자**의 불법 입국/체류 허용 | 55E | 불법 이민자 1인당 RM5,000~RM30,000의 벌금 또는 최대 12개월의 징역 또는 둘 다; 재범: 최소 RM10,000의 벌금 또는 최대 2년의 징역 또는 둘 다 |
+
+기업의 경우, 제55B조는 이민 준수가 단지 근로자만의 문제가 아님을 명확히 합니다. 처벌은 **근로자 1인당** 산정되며, 5인 이상의 미등록 인력을 고용하면 징역 영역으로 확대됩니다. 임대인과 부지 점유자는 눈감아 준 데 대해 제55E조에 직면합니다.
+
+## 어느 패스가 필요한가? 간단한 결정 틀
+
+다음 질문을 순서대로 따라가십시오.
+
+1. **말레이시아에서 대가를 받고 일하러 오는가?** 아니라면, **사회방문패스**(비자 면제 또는 비자 소지)가 통상 관광이나 단기 방문에 충분합니다. 그렇다면 계속하십시오.
+2. **말레이시아 사용자를 위한 장기 근무인가?** 그렇다면 **취업패스**가 필요합니다 — 월 급여에 맞는 카테고리(I, II 또는 III)를 고르십시오. RM5,000 미만이면 EP를 받을 수 없으므로, 임시취업패스나 부문별 경로를 알아보십시오.
+3. **업무가 단기이고 외국인 고용주를 위한 것인가?** **전문직방문패스**가 맞을 수 있습니다.
+4. **해외의 고객이나 고용주를 위해 원격으로 일하는가?** **DE Rantau 노마드패스**를 고려하십시오.
+5. **가족을 데려오는가?** 급여 기준을 넘는 EP 소지자는 **동반가족패스**(배우자, 18세 미만 자녀)와, 그 밖의 가족을 위한 **LTSVP**를 추가할 수 있습니다.
+
+의심스러울 때, 안전한 기본은 이동이나 근무를 시작한 *후*가 아니라 그 *전*에 이민국이나 ESD에 확인하는 것입니다.
+
+## 기소로 이어지는 흔한 실수
+
+- **비자 날짜와 패스 날짜를 혼동하는 것.** 체류기간 초과 시계는 비자가 아니라 입국 시 날인된 패스 만료일부터 흐릅니다.
+- **사회방문패스로 일하는 것.** 잘못된 패스로 단 하루라도 유급 근무를 하면 근로자와 사용자 모두에게 범죄입니다.
+- **체류기간 초과에 고의가 중요하다고 가정하는 것.** 그것은 엄격책임입니다. 깜빡하거나 잘못 세는 것은 항변이 되지 않습니다.
+- **갱신이 지나가 버리게 두는 것.** 만료 *전*에 갱신하거나 출국하십시오. 단 며칠의 공백도 체류기간 초과입니다.
+- **패스나 배서를 조작하는 것.** 이는 제55D조상의 문서 위조로 — 체류기간 초과보다 훨씬 중대한 범죄입니다.
+- **사용자가 근로자에게 자신의 신분을 스스로 정리하도록 맡기는 것.** 제55B조의 책임은 근로자 1인당 사용자에게 정면으로 지워집니다.
+- **대리인을 맹목적으로 신뢰하는 것.** 유효한 패스에 대한 책임은 여러분 자신에게 있습니다. 대리인이 갱신했으리라 가정하지 말고 스스로 확인하십시오.
+
+## 다음 단계
+
+- **오늘 여러분의 도장을 확인하십시오.** 여권에서 패스를 찾아 그 만료일을 확인하십시오 — 그 한 날짜가 Act 155가 여러분을 재는 기준입니다.
+- **자신의 국적에 대한 비자 규정을 확인하십시오.** 어떤 여행이든 전에 이민국의 현행 *국가별 비자 요건* 페이지에서 확인하십시오.
+- **현행 취업패스 기준을 확인하십시오.** 여러분이나 직원이 EP를 소지하고 있다면, 급여 구간과 기간이 2026년 6월 1일에 개정되었으므로 외국인전문직서비스부를 통해 확인하십시오.
+- **이미 체류기간을 초과했다면**, 잘못된 가정으로 조용히 출국하려 하지 말고 — 즉결 벌금과 출국 절차에 관해 이민국의 안내를 구하고, 이 범죄의 엄격책임적 성질을 고려하여 자격 있는 법률 자문을 고려하십시오.
+
+이 글은 이민법(Immigration Act 1959/63)에 관한 일반적 정보이며 법률 자문이 아닙니다. 이민 규정, 급여 기준 및 비자 목록은 자주 변경되므로, 행동하기 전에 항상 말레이시아 이민국이나 자격 있는 자문가에게 현행 입장을 확인하십시오.

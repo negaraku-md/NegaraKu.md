@@ -1,0 +1,174 @@
+---
+topicId: MY-TAX-0059
+title: "외국인 주재원과 비거주자 세금: 일률 30%와 탈출구"
+seoTitle: "말레이시아 주재원 세금: 비거주자 세율"
+slug: "expatriate-and-non-resident-tax"
+category: "taxation"
+subcategory: ["personal-tax"]
+summary: "일률 비거주자 세율, 60일 고용 면제, 15% 지식근로자 및 귀국 전문가 세율, 그리고 취업 패스(Employment Pass) 시점이 어느 것을 적용받는지를 어떻게 결정하는지."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "비거주 개인은 부칙 1 제1부 제1A항에 따라 과세소득에 대해 일률 30%로 과세되며, 공제도 세액감면도 없습니다. 부칙 6 제21항에 따라, 개인이 비거주자이고 말레이시아에서 60일 이하 고용을 수행하는 경우 근로소득은 전액 면제됩니다. 승인된 지식근로자와 귀국 전문가 프로그램(Returning Expert Programme) 참가자는 15%로 과세됩니다."
+keyTakeaways:
+  - "The 30% flat rate follows non-residence under s.7(1), not nationality or visa class"
+  - "Schedule 6 para 21 exempts employment income for 60 days or less of non-resident presence"
+  - "Paragraph 22 removes the exemption entirely once the 60 days are exceeded — it is a cliff, not a threshold"
+  - "Public entertainers are excluded from the 60-day exemption and taxed at 15% of gross"
+  - "Knowledge workers in a specified region and Returning Expert Programme approvals are taxed at 15%"
+  - "An arrival after 2 July cannot reach 182 days, so residence depends on the s.7(1)(b) link to the next year"
+  - "Non-residents file Form M or Form MT, not Form BE"
+appliesTo: "Expatriate employees, their employers and mobility teams, and Malaysians returning from overseas postings."
+
+faq:
+  - q: "What is the tax rate for expatriates in Malaysia?"
+    a: "It depends entirely on residence. A resident expatriate pays the same progressive 0% to 30% scale as a Malaysian, with full reliefs. A non-resident pays a flat 30% on every ringgit of chargeable income under Schedule 1 Part I paragraph 1A, with no reliefs and no rebates."
+  - q: "Is there a 60-day tax exemption in Malaysia?"
+    a: "Yes. Schedule 6 paragraph 21 exempts the income of an individual from an employment exercised in Malaysia for periods totalling 60 days or less in a basis year, or a continuous period of 60 days or less straddling two basis years, provided the individual is not resident for the relevant basis year or years."
+  - q: "Does the 60-day exemption apply if I stay 65 days?"
+    a: "No, and none of the first 60 days survives. Paragraph 22 disapplies paragraph 21 where the individual has employment income derived from Malaysia for more than 60 days in the relevant period. The whole amount becomes chargeable at the non-resident rate."
+  - q: "When does an Employment Pass make me tax resident?"
+    a: "It does not. Residence is a day count under s.7(1) reassessed for every basis year. An Employment Pass valid for two years does nothing for the arrival year if you land in November — you then depend on s.7(1)(b) linking that stub to a consecutive 182-day period in the following year."
+  - q: "What is the knowledge worker tax rate in Malaysia?"
+    a: "15% on chargeable income, under Schedule 1 Part XIV, for an individual who is a knowledge worker residing in a specified region and exercising employment with a person carrying on a qualified activity there. The definitions of knowledge worker, qualified activity and specified region are set by Ministerial rules. Approved Returning Expert Programme individuals get the same 15% under Part XV."
+
+verificationNeeded:
+  - "The Ministerial rules defining knowledge worker, qualified activity and specified region under Schedule 1 Part XIV were not retrieved — the widely quoted Iskandar Malaysia designation and the P.U.(A) instrument number should be confirmed against the gazette before publication"
+  - "The number of years of assessment for which the Returning Expert Programme 15% rate runs is set by Ministerial rules and was not verified; Schedule 1 Part XV refers only to a specified year of assessment"
+  - "Schedule 1 Part XVIII caps the rate for a resident non-citizen in a key position under an approved incentive scheme at not more than 20% — the applicable rate is prescribed scheme by scheme and was not verified"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — Schedule 1 Parts I, II, XIII, XIV, XV, XVIII and Schedule 6 paras 21 and 22"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2024-05-21"
+  - title: "Ketetapan Umum No. 11/2017 — Taraf Mastautin Individu"
+    url: "https://www.hasil.gov.my/wp-content/uploads/KU_11_2017.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    date: "2017-12-22"
+  - title: "Program Memfail Borang Nyata (BN) Bagi Tahun 2026"
+    url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    date: "2025-12-30"
+  - title: "Taraf Mastautin — Individu"
+    url: "https://www.hasil.gov.my/individu/taraf-mastautin/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    date: "2026-06-18"
+
+entity: "Non-resident and expatriate income tax in Malaysia"
+relations:
+  - { rel: "governs", to: "income-tax-act-1967" }
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "requires", to: "individual-tax-residence" }
+related: ["individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
+keywords: ["expatriate tax Malaysia", "non-resident tax rate Malaysia 30", "60 day exemption Malaysia tax", "knowledge worker tax rate 15", "Returning Expert Programme tax", "Employment Pass tax residence"]
+---
+
+외국인 주재 근무에서 가장 비싼 달은 대개 도착한 달이며, 그 당시에는 아무 비용도 들지 않습니다. 7월 15일에 도착하면 거주에 필요한 182일에서 12일이 모자랍니다. 6월 15일에 도착하면 이를 넘깁니다. 같은 패키지, 같은 고용주인데, 그 해 세부담의 약 3분의 1의 차이가 납니다 — 비거주 개인은 공제 없이 **첫 링깃(RM)부터 일률 30%**를 내기 때문입니다.
+
+## 일률 세율
+
+부칙 1 제1부 제1A항은 기준연도에 **비거주**하는 회사 이외의 자의 과세소득에 매 링깃당 30%의 소득세를 부과합니다. 영(零) 구간도, 누진도 없으며, 제46조 공제 목록이나 제6A조 세액감면으로 들어갈 방법도 없습니다 — 둘 다 **기준연도에 거주**하는 개인을 위해 작성되었습니다.
+
+다른 비거주자 부과가 이와 나란히 있습니다.
+
+| 비거주 개인의 소득 | 세율 | 근거 |
+| --- | --- | --- |
+| 고용을 포함한 일반 과세소득 | 30% | 부칙 1 제1부 제1A항 |
+| 말레이시아에서 도출된 이자 | 총액의 15% | 부칙 1 제2부 제1항목 |
+| 말레이시아에서 도출된 로열티 | 총액의 10% | 부칙 1 제2부 제2항목 |
+| 말레이시아 내 용역에 대한 공연 연예인 보수 | 총액의 15% | 부칙 1 제2부 제3항목 |
+| 말레이시아에서 도출된 제4(f)조 이득이나 이익 | 총액의 10% | 부칙 1 제XIII부 |
+
+## 60일 면제
+
+부칙 6 제21항은 개인이 **말레이시아에서 수행하는** 고용으로부터의 소득을 면제합니다.
+
+- 기준연도에 합계 **60일을 초과하지 않는** 기간; 또는
+- 연속된 두 과세연도의 기준연도에 걸치는 **60일을 초과하지 않는 연속 기간**; 또는
+- 그러한 연속 걸침 기간에 합쳐서 60일을 초과하지 않는 다른 기간을 더한 것,
+
+다만 그 기준연도에, 또는 그 각 기준연도에 **비거주**하는 경우에 한합니다.
+
+두 가지 특징이 흔히 잘못 읽힙니다.
+
+**이는 문턱이 아니라 낭떠러지입니다.** 제22(a)항은 개인이 해당 기간에 말레이시아에서 도출된 근로소득을 합계 **60일을 초과하여** 보유하는 경우 면제를 완전히 적용하지 않습니다. 61일째는 하루에 과세하는 것이 아니라 — 61일 전부에 30%로 과세합니다.
+
+**공연 연예인은 제외됩니다.** 제22(b)항은 외국 정부의 공적 자금으로 지급되지 않는 한 공연 연예인의 근로소득을 배제합니다. 방문 공연자는 첫날부터 부칙 1 제2부에 따라 총액의 15%로 과세됩니다.
+
+이 면제는 비거주도 요구합니다. 제7(1)(b)조 연결을 통해 소급적으로를 포함하여 거주자가 되는 개인은 이를 잃습니다.
+
+## 취업 패스 시점이 거주지를 어떻게 결정하는가
+
+거주는 제7(1)조에 따른 일수 계산으로, 매 기준연도에 재평가됩니다. 취업 패스는 근로할 권리를 부여하며, 소득세법 하에서는 아무것도 부여하지 않습니다.
+
+| 도착일, 12월 31일까지 연속 체류 | 재류 일수 | 입장 |
+| --- | --- | --- |
+| 7월 2일 이전 | 182일 이상 | 제7(1)(a)조에 따라 거주자 |
+| 7월 2일 이후 | 182일 미만 | 제7(1)(b)조에 달림 |
+
+연중 도착의 경우 모든 것이 두 번째 판정에 달립니다. 제7(1)(b)조는, 그 기간이 바로 다음 과세연도의 기준연도에 개인이 말레이시아에 있는 **182일 이상의 연속 기간에 의해 또는 그에 연결되는** 경우 짧은 도착 연도를 거주자로 만듭니다.
+
+따라서 2년 파견으로 11월에 도착한 사람은 대개 도착 연도에 거주자입니다 — 그러나 다음 해가 실제로 182일 연속을 채운 후에만 그렇습니다. 판정 1의 합산 계산과 달리 이 요건은 **연속**이며, 본국 휴가 여행이 이를 깰 수 있습니다. 제7(1)(b)조 단서는 말레이시아 근무와 관련된 부재, 개인이나 직계 가족의 질병으로 인한 부재, 그리고 **합계 14일을 초과하지 않는** 사교 방문을, 개인이 직전과 직후에 말레이시아에 있는 한 구제합니다.
+
+거울 이미지가 출국을 포섭합니다. 3월에 종료되는 파견은 짧은 마지막 연도를 남기는데, 이는 전년의 182일 연속으로부터 거주를 거꾸로 빌려올 수 있습니다 — 공개 예규(Public Ruling) 11/2017 예시 5가 정확히 이를 합니다. 예시 6은 개인이 12월에 떠나 다시 돌아오지 않은 경우, 부재가 일시적이지 않았기 때문에 이를 거부합니다.
+
+장기 파견에 중요한 두 경로가 더 있습니다. 제7(1)(c)조는 개인이 **앞선 4개 연도 중 3개** 연도에 90일 이상 거주하거나 재류한 경우 그 해에 **90일 이상**으로 거주를 부여합니다 — 다른 곳을 기반으로 하되 매 분기 말레이시아에 있는 지역 임원의 양상입니다. 제7(1)(d)조는 개인이 다음 해에 거주하고 앞선 3개 연도 각각에 거주한 경우 **재류가 전혀 없는** 해도 거주자로 만듭니다.
+
+## 15% 세율
+
+| 제도 | 세율 | 근거 |
+| --- | --- | --- |
+| 지정 지역에 거주하며 그곳에서 적격 활동을 영위하는 자에게 고용된 지식근로자 | 15% | 부칙 1 제XIV부 |
+| 말레이시아 내의 자에게 고용된 귀국 전문가 프로그램(Returning Expert Programme) 승인 개인 | 15% | 부칙 1 제XV부 |
+| 승인 인센티브 제도에 따라 적격 활동을 영위하는 회사에서 고용을 수행하는 거주 비시민 | **20%를 초과하지 않음** | 부칙 1 제XVIII부 |
+
+제XIV부와 제XV부 모두 정의 — 누가 지식근로자인지, 무엇이 적격 활동인지, 어느 지역이 지정되는지, 어느 과세연도가 대상인지 — 를 장관이 제정한 규칙에 맡깁니다. 세율은 법정이지만 자격은 그렇지 않으며, 요약이 아니라 그 해의 유효 규칙에 대해 확인해야 합니다.
+
+제XVIII부는 세율이 아니라 상한입니다. 승인 제도 역할의 거주 비시민에 대한 부과를 20%로 제한하며, 실제 세율은 제도별로 규정됩니다.
+
+제XIV부나 제XV부가 적용되는 경우, 제6A(2)조 단서에 유의하십시오. RM400 세액감면의 RM35,000 과세소득 상한은 우대 고용만이 아니라 개인의 **모든 원천으로부터의** 과세소득에 대해 판정됩니다.
+
+## 어느 양식
+
+| 상황 | 양식 | 마감일 |
+| --- | --- | --- |
+| 비거주 개인 | M | 4월 30일, 사업소득이 있으면 6월 30일 |
+| 비거주 지식근로자 | MT | 4월 30일, 사업소득이 있으면 6월 30일 |
+| 거주 지식근로자, 전문가, 또는 주요 직위의 비시민 | BT | 4월 30일, 사업소득이 있으면 6월 30일 |
+| 거주 주재원, 통상 사례, 사업소득 없음 | BE | 4월 30일 |
+
+이들 모두 15일의 e-Filing 연장을 받습니다. 출국 전에 고용주는 근로자가 말레이시아를 떠나기 **30일 이상 전에 CP21을 제출**해야 하며, 세금 정산이 최종 금액의 지급을 좌우합니다.
+
+## 흔한 실수
+
+- **30%를 외국인 세율로 읽는 것.** 이는 비거주 세율입니다. 거주 주재원은 공제를 포함하여 말레이시아인과 동일하게 과세됩니다.
+- **60일을 무상 허용치로 취급하는 것.** 제22항은 계산이 60을 넘으면 면제를 소급적으로 그리고 완전히 제거합니다.
+- **연결 연도 일수를 합산으로 계산하는 것.** 제7(1)(b)조는 인접 연도에 182일 **연속**을 요구합니다. 판정 1의 합산 계산은 넘어가지 않습니다.
+- **본국 휴가 15일.** 사교 방문 허용치는 그 해에 **총 14일**입니다. 15일째가 연속 블록을 깨고 그와 함께 연결 청구를 깹니다.
+- **도착 연도 전체에 PCB를 30%로 고정하는 것.** 제7(1)(b)조 연결이 충족될 경우, 근로자는 그 해에 거주자이며 과다 공제는 회수 가능합니다 — 다만 신고를 통해서만입니다.
+- **15% 지식근로자 세율이 직함을 따른다고 가정하는 것.** 이는 지역, 활동, 승인에 관한 장관 규칙을 따릅니다. 고위 기술직이라는 것 자체로는 자격이 되지 않습니다.
+
+## 다음 단계
+
+먼저 거주 문제를 정하고, 그다음 신고하는 해의 양식과 마감일을 확인하며, 결국 거주자로 밝혀진다면 공제 목록을 확인하십시오.

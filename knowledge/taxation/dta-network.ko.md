@@ -1,0 +1,200 @@
+---
+topicId: MY-TAX-0061
+title: "말레이시아의 이중과세방지협정 망 — 국가별 조약 세율"
+seoTitle: "말레이시아 DTA 세율 — 배당, 이자, 로열티"
+slug: "dta-network"
+category: "taxation"
+subcategory: ["international-tax"]
+summary: "시행 중인 모든 말레이시아 이중과세방지협정과, 이자·로열티·기술료에 대한 조약 원천징수 세율, 발효일, 그리고 관보 명령."
+
+tier: "4"
+mode: "practical"
+contentType: "data"
+sensitivity: "none"
+
+answer: "말레이시아는 75개의 포괄적 이중과세방지협정을 시행 중이며, 여기에 항공·해상 운송을 다루는 아르헨티나·미국과의 제한적 협정, 그리고 중화 타이베이와의 약정이 더해집니다. 말레이시아는 배당에 원천징수세를 부과하지 않으므로, 모든 조약에서 배당은 NIL로 표시됩니다. 이자에 대한 조약 세율은 5~15퍼센트, 로열티는 5~10퍼센트, 기술료는 NIL~10퍼센트이며, 국내 세율 15, 10, 10에 대비됩니다."
+keyTakeaways:
+  - "Dividends are NIL under every treaty because Malaysia operates a single-tier system and imposes no dividend withholding tax"
+  - "A treaty rate never increases the domestic rate — if the domestic rate is lower, the domestic rate applies"
+  - "The lowest interest rates are 5 per cent, under the Bahrain, Qatar, Saudi Arabia and United Arab Emirates treaties"
+  - "Australia and Turkmenistan carry NIL on technical fees; Namibia and South Africa carry 5 per cent on royalties"
+  - "Most treaties have been modified by the Multilateral Instrument, which entered into force for Malaysia on 1 June 2021"
+  - "The treaty text is only available to a resident who can produce a certificate of residence from its own tax authority"
+appliesTo: "Malaysian payers withholding tax on cross-border payments, and non-residents claiming treaty relief on Malaysian-source income."
+
+verificationNeeded:
+  - "Several 'Effective from' dates precede the 'Treaty in force' date — Kuwait (effective 1 January 1988, in force 29 May 2007) and Sudan are the extreme cases. These reproduce LHDN's own published DTA table verbatim (confirmed against LHDN and PwC's Malaysian Tax Booklet); the anomaly is in the source, not a transcription error. Treat any single effective date as indicative and confirm it against the relevant gazette order before relying on it"
+  - "Footnote (iv) qualifying the Belgium interest rate as 15/10 and footnote (v) qualifying the technical fee column were not retrievable as text from the LHDN rate page — read them on the page itself before relying on either column for those cases"
+  - "Rates are the general treaty ceilings published by LHDN, not article-by-article rates. Several treaties reduce interest to nil for payments to a government, central bank or approved institution; check the relevant article before applying the table rate"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Kadar Cukai Pegangan PPPDK — treaty withholding tax rates"
+    url: "https://www.hasil.gov.my/antarabangsa/perjanjian-pengelakan-pencukaian-dua-kali-pppdk/kadar-cukai-pegangan/"
+    publisher: "LHDN"
+    date: "2026-07-12"
+  - title: "PPPDK Menyeluruh — comprehensive double taxation agreements"
+    url: "https://www.hasil.gov.my/antarabangsa/perjanjian-pengelakan-pencukaian-dua-kali-pppdk/pppdk-menyeluruh/"
+    publisher: "LHDN"
+  - title: "Instrumen Multilateral (MLI)"
+    url: "https://www.hasil.gov.my/antarabangsa/instrumen-multilateral-mli/"
+    publisher: "LHDN"
+  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.132"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "LHDN"
+    date: "2024-05-21"
+
+entity: "Malaysia's double taxation agreement network"
+relations:
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "governs", to: "income-tax-act-1967" }
+  - { rel: "requires", to: "certificate-of-residence" }
+related: ["certificate-of-residence", "withholding-tax-rates", "permanent-establishment", "withholding-tax-special-classes"]
+keywords: ["Malaysia DTA list", "Malaysia double taxation agreement rates", "treaty withholding tax Malaysia", "Malaysia tax treaty countries", "DTA royalty rate Malaysia"]
+---
+
+조약은 상한이지 결코 하한이 아닙니다. 소득세법 1967(Income Tax Act 1967) 부칙 1에 따른 국내 세율이 조약 세율보다 낮으면, 국내 세율로 원천징수합니다. 말레이시아의 국내 세율은 이자 15퍼센트, 로열티 10퍼센트, 제4A조에 따른 특수 소득 종류 10퍼센트이므로, 이자 15퍼센트를 표시하는 조약은 아무것도 가져다주지 않습니다.
+
+모든 조약은 배당을 NIL로 표시합니다. 이는 협상된 양보가 아니라 — 말레이시아가 누구에게 지급하는 배당에도 원천징수세를 부과하지 않는 단일단계(single-tier) 제도에서 비롯됩니다.
+
+조약은 제132조에 따라 제정되어 연방관보에 공표되는 명령을 통해 말레이시아에서 효력이 발생합니다. 마지막 열의 관보 참조는 그 협정에 말레이시아 법률상 효력을 부여하는 문서입니다.
+
+## 국가별 세율
+
+세율은 백분율입니다. NIL은 협정에 따라 세금이 없음을 의미합니다.
+
+| 국가 | 배당 | 이자 | 로열티 | 기술료 | 조약 발효 | 시행 시작 | 관보 명령 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 알바니아 | NIL | 10 | 10 | 10 | 1995년 8월 21일 | 1996년 1월 1일 | P.U.(A) 340/1994 |
+| 호주 | NIL | 15 | 10 | NIL | 1981년 6월 26일 | 1980년 1월 1일 | P.U.(A) 347/1980 |
+| 오스트리아 | NIL | 15 | 10 | 10 | 1990년 12월 1일 | 1988년 1월 1일 | P.U.(A) 426/1989 |
+| 바레인 | NIL | 5 | 8 | 10 | 2000년 7월 31일 | 2001년 1월 1일 | P.U.(A) 439/1999 |
+| 방글라데시 | NIL | 15 | 10 | 10 | 1984년 12월 31일 | 1982년 1월 1일 | P.U.(A) 113/1984 |
+| 벨기에 | NIL | 15/10 (iv) | 10 | 10 | 1975년 8월 14일 | 1976년 1월 1일 | P.U.(A) 263/1976 |
+| 보스니아 헤르체고비나 | NIL | 10 | 8 | 10 | 2012년 7월 30일 | 2013년 1월 1일 | P.U.(A) 341/2007 |
+| 브루나이 | NIL | 10 | 10 | 10 | 2010년 6월 17일 | 2011년 1월 1일 | P.U.(A) 78/2010 |
+| 캄보디아 | NIL | 10 | 10 | 10 | 2020년 12월 28일 | 2021년 1월 1일 | P.U.(A) 377/2019 |
+| 캐나다 | NIL | 15 | 10 | 10 | 1980년 12월 18일 | 1981년 1월 1일 | P.U.(A) 69/1977 |
+| 칠레 | NIL | 15 | 10 | 5 | 2008년 8월 25일 | 2009년 1월 1일 | P.U.(A) 84/2005 |
+| 중국 | NIL | 10 | 10 | 10 | 1986년 9월 14일 | 1988년 1월 1일 | P.U.(A) 96/1986 |
+| 크로아티아 | NIL | 10 | 10 | 10 | 2004년 7월 15일 | 2005년 1월 1일 | P.U.(A) 426/2003 |
+| 체코 | NIL | 12 | 10 | 10 | 1997년 3월 31일 | 1998년 3월 9일 | P.U.(A) 393/1996 |
+| 덴마크 | NIL | 15 | 10 | 10 | 1971년 6월 4일 | 1968년 1월 1일 | P.U.(A) 86/1971 |
+| 이집트 | NIL | 15 | 10 | 10 | 2002년 7월 9일 | 2004년 1월 1일 | P.U.(A) 49/1998 |
+| 피지 | NIL | 15 | 10 | 10 | 1997년 7월 30일 | 1998년 1월 1일 | P.U.(A) 209/1996 |
+| 핀란드 | NIL | 15 | 10 | 10 | 1986년 2월 23일 | 1988년 1월 1일 | P.U.(A) 353/1984 |
+| 프랑스 | NIL | 15 | 10 | 10 | 1976년 7월 23일 | 1974년 1월 1일 | P.U.(A) 243/1975 |
+| 독일 | NIL | 10 | 7 | 7 | 2010년 10월 21일 | 2011년 1월 1일 | P.U.(A) 193/2010 |
+| 홍콩 | NIL | 10 | 8 | 5 | 2012년 12월 28일 | 2013년 1월 1일 | P.U.(A) 366/2012 |
+| 헝가리 | NIL | 15 | 10 | 10 | 1992년 12월 25일 | 1993년 1월 1일 | P.U.(A) 425/1989 |
+| 인도 | NIL | 10 | 10 | 10 | 2012년 12월 26일 | 2013년 1월 1일 | P.U.(A) 338/2012 |
+| 인도네시아 | NIL | 10 | 10 | 10 | 1992년 8월 11일 | 1987년 1월 1일 | P.U.(A) 31/1992 |
+| 이란 | NIL | 15 | 10 | 10 | 2005년 4월 15일 | 2006년 1월 1일 | P.U.(A) 59/2004 |
+| 아일랜드 | NIL | 10 | 8 | 10 | 1999년 9월 11일 | 2000년 1월 1일 | P.U.(A) 89/1999 |
+| 이탈리아 | NIL | 15 | 10 | 10 | 1986년 4월 18일 | 1977년 1월 1일 | P.U.(A) 167/1984 |
+| 일본 | NIL | 10 | 10 | 10 | 1999년 12월 31일 | 2000년 1월 1일 | P.U.(A) 167/1999 |
+| 요르단 | NIL | 15 | 10 | 10 | 2000년 5월 29일 | 2001년 1월 1일 | P.U.(A) 190/1999 |
+| 카자흐스탄 | NIL | 10 | 10 | 10 | 2010년 5월 20일 | 2011년 1월 1일 | P.U.(A) 228/2007 |
+| 대한민국 | NIL | 15 | 10 | 10 | 1983년 1월 2일 | 1983년 1월 1일 | P.U.(A) 292/1982 |
+| 쿠웨이트 | NIL | 10 | 10 | 10 | 2007년 5월 29일 | 1988년 1월 1일 | P.U.(A) 210/2006 |
+| 키르기스스탄 | NIL | 10 | 10 | 10 | 2006년 12월 26일 | 2007년 1월 1일 | P.U.(A) 449/2000 |
+| 라오스 | NIL | 10 | 10 | 10 | 2011년 2월 23일 | 2012년 1월 1일 | P.U.(A) 379/2010 |
+| 레바논 | NIL | 10 | 8 | 10 | 2004년 11월 10일 | 2005년 1월 1일 | P.U.(A) 418/2003 |
+| 룩셈부르크 | NIL | 10 | 8 | 8 | 2004년 12월 29일 | 2005년 1월 1일 | P.U.(A) 271/2003 |
+| 몰타 | NIL | 15 | 10 | 10 | 2000년 9월 1일 | 2002년 1월 1일 | P.U.(A) 61/1996 |
+| 모리셔스 | NIL | 15 | 10 | 10 | 1993년 8월 19일 | 1991년 1월 1일 | P.U.(A) 14/1993 |
+| 몽골 | NIL | 10 | 10 | 10 | 1996년 11월 7일 | 1997년 1월 1일 | P.U.(A) 397/1995 |
+| 모로코 | NIL | 10 | 10 | 10 | 2006년 12월 29일 | 2007년 1월 1일 | P.U.(A) 61/2004 |
+| 미얀마 | NIL | 10 | 10 | 10 | 2008년 7월 21일 | 2009년 1월 1일 | P.U.(A) 302/1999 |
+| 나미비아 | NIL | 10 | 5 | 5 | 2004년 12월 13일 | 2005년 1월 1일 | P.U.(A) 465/1999 |
+| 네덜란드 | NIL | 10 | 8 | 8 | 1989년 2월 2일 | 1986년 1월 1일 | P.U.(A) 214/1988 |
+| 뉴질랜드 | NIL | 15 | 10 | 10 | 1976년 9월 2일 | 1975년 1월 1일 | P.U.(A) 276/1976 |
+| 노르웨이 | NIL | 15 | 10 | 10 | 1971년 9월 9일 | 1968년 1월 1일 | P.U.(A) 182/1972 |
+| 파키스탄 | NIL | 15 | 10 | 10 | 1982년 11월 9일 | 1980년 1월 1일 | P.U.(A) 369/1982 |
+| 파푸아뉴기니 | NIL | 15 | 10 | 10 | 1999년 6월 11일 | 2000년 1월 1일 | P.U.(A) 327/1994 |
+| 필리핀 | NIL | 15 | 10 | 10 | 1984년 7월 27일 | 1985년 1월 1일 | P.U.(A) 296/1982 |
+| 폴란드 | NIL | 10 | 8 | 8 | 2023년 1월 12일 | 2024년 1월 1일 | P.U.(A) 168/2014 and P.U.(A) 78/2022 |
+| 카타르 | NIL | 5 | 8 | 8 | 2009년 1월 28일 | 2010년 1월 1일 | P.U.(A) 405/2008 |
+| 루마니아 | NIL | 15 | 10 | 10 | 1984년 4월 7일 | 1985년 1월 1일 | P.U.(A) 156/1983 |
+| 러시아 | NIL | 10 | 10 | 10 | 1988년 7월 4일 | 1989년 1월 1일 | P.U.(A) 58/1988 |
+| 산마리노 | NIL | 10 | 10 | 10 | 2010년 12월 28일 | 2011년 1월 1일 | P.U.(A) 302/2010 |
+| 사우디아라비아 | NIL | 5 | 8 | 8 | 2007년 7월 1일 | 2008년 1월 1일 | P.U.(A) 225/2006 |
+| 세네갈 | NIL | 10 | 10 | 10 | 2017년 1월 1일 | 2017년 1월 1일 | P.U.(A) 176/2010 |
+| 세이셸 | NIL | 10 | 10 | 10 | 2006년 7월 10일 | 2007년 1월 1일 | P.U.(A) 159/2004 |
+| 싱가포르 | NIL | 10 | 8 | 5 | 2006년 2월 13일 | 2007년 1월 1일 | P.U.(A) 200/2005 |
+| 슬로바키아 | NIL | 10 | 10 | 5 | 2016년 4월 11일 | 2017년 1월 1일 | P.U.(A) 256/2015 |
+| 남아프리카공화국 | NIL | 10 | 5 | 5 | 2006년 7월 6일 | 2007년 1월 1일 | P.U.(A) 385/2005 |
+| 스페인 | NIL | 10 | 7 | 5 | 2007년 12월 28일 | 2008년 1월 1일 | P.U.(A) 258/2007 |
+| 스리랑카 | NIL | 10 | 10 | 10 | 1998년 8월 13일 | 1999년 1월 1일 | P.U.(A) 491/1997 |
+| 수단 | NIL | 10 | 10 | 10 | 2002년 12월 18일 | 2002년 1월 1일 | P.U.(A) 354/1994 |
+| 스웨덴 | NIL | 10 | 8 | 8 | 2005년 1월 28일 | 2006년 1월 1일 | P.U.(A) 272/2003 |
+| 스위스 | NIL | 10 | 10 | 10 | 1975년 11월 12일 | 1974년 1월 1일 | P.U.(A) 242/1975 |
+| 시리아 아랍 공화국(시리아) | NIL | 10 | 10 | 10 | 2007년 8월 31일 | 2008년 1월 1일 | P.U.(A) 197/2007 |
+| 태국 | NIL | 15 | 10 | 10 | 1983년 2월 2일 | 1983년 1월 1일 | P.U.(A) 157/1983 |
+| 튀르키예 | NIL | 15 | 10 | 10 | 1997년 1월 28일 | 1998년 1월 1일 | P.U.(A) 489/1996 |
+| 투르크메니스탄 | NIL | 10 | 10 | NIL | 2009년 10월 6일 | 2010년 1월 1일 | P.U.(A) 218/2009 |
+| 우크라이나 | NIL | 10 | 8 | 8 | 2021년 12월 29일 | 2022년 1월 1일 | P.U.(A) 223/2021 |
+| 아랍에미리트 | NIL | 5 | 10 | 10 | 1996년 9월 18일 | 1996년 1월 1일 | P.U.(A) 127/1996 |
+| 영국 | NIL | 10 | 8 | 8 | 1998년 7월 8일 | 1999년 1월 1일 | P.U.(A) 251/1997 |
+| 우즈베키스탄 | NIL | 10 | 10 | 10 | 1999년 8월 10일 | 2000년 1월 1일 | P.U.(A) 88/1999 |
+| 베네수엘라 | NIL | 15 | 10 | 10 | 2008년 1월 8일 | 2009년 1월 1일 | P.U.(A) 175/2007 |
+| 베트남 | NIL | 10 | 10 | 10 | 1996년 8월 13일 | 1997년 1월 1일 | P.U.(A) 60/1996 |
+| 짐바브웨 | NIL | 10 | 10 | 10 | 1996년 8월 8일 | 1997년 1월 1일 | P.U.(A) 124/1995 |
+
+## 제한적 협정과 특별 약정
+
+| 상대방 | 범위 | 배당 | 이자 | 로열티 | 기술료 |
+| --- | --- | --- | --- | --- | --- |
+| 아르헨티나 | 제한적 — 항공 및 해상 운송 | NIL | 15 | 10 | 10 |
+| 미국 | 제한적 — 항공 및 해상 운송 | NIL | 15 | 10 | 10 |
+| 중화 타이베이 | 타이베이 경제문화대표부를 통한 약정 | NIL | 10 | 10 | 7.5 |
+
+제한적 협정은 그것이 명시한 소득만을 다룹니다. 아르헨티나나 미국 거주자에게 지급하는 이자, 로열티, 기술료는 아래 행의 국내 세율로 돌아가는데, 그 범주들이 협정 범위 밖에 있기 때문입니다.
+
+참고로, 모든 조약 세율을 비교해야 하는 말레이시아 국내 세율은 다음과 같습니다.
+
+| | 배당 | 이자 | 로열티 | 기술료 |
+| --- | --- | --- | --- | --- |
+| 말레이시아 국내 세율 | NIL | 15 | 10 | 10 |
+
+## 서명되었으나 아직 발효되지 않은 협정
+
+LHDN의 페이지는 서명되어 발효를 기다리는 협정도 열거하며, 벨기에(2009년 12월 18일 서명), 인도네시아(2012년 7월 19일), 쿠웨이트(2010년 8월 26일), 세이셸(2010년 8월 26일)을 포함합니다. 이들은 의정서 또는 대체 협정입니다 — 각 상대방과의 기존 조약은 새 문서가 발효될 때까지 계속 적용됩니다.
+
+## 다자간 협약(MLI) 중첩
+
+말레이시아는 2018년 1월 24일 세원잠식 및 소득이전 방지를 위한 조세조약 관련 조치 이행을 위한 다자간 협약에 서명했습니다. 이 협약은 일반적으로 2018년 7월 1일에 발효되었고, 말레이시아의 조약에 대해서는 2021년 6월 1일부터 발효되었습니다.
+
+MLI는 의정서처럼 조약을 개정하지 않습니다. 조약과 나란히 위치하며 그 적용을 수정합니다. LHDN은 각 수정된 조약에 대해 읽기 보조 자료로 **통합 본문(synthesised text)**을 공표하며, 통합 본문이 법의 원천이 아님을 명시합니다 — 정본 조약 본문과 MLI 자체가 우선합니다.
+
+조약이 수정된 경우, 양 당사자의 MLI 입장이 모두 중요합니다. 예를 들어 말레이시아-일본 통합 본문은 위탁매매 약정에 관한 MLI 제12조와, 반(反)단편화 규칙을 포함한 특정 활동 면제에 관한 MLI 제13조를 적용합니다. LHDN의 MLI 페이지에는 상대방이 서명하지 않았거나 입장이 일치하지 않아 수정되지 않은 것으로 열거된 조약이 열 개 남짓 있습니다 — 방글라데시, 브루나이, 캄보디아, 노르웨이, 필리핀, 스리랑카, 수단, 스위스 등입니다.
+
+조약이 수정 목록에 나타난다면 원본 본문만으로 조약 조문을 인용하지 마십시오. 통합 본문을, 그다음 MLI를 읽으십시오.
+
+## 이 표를 사용하는 방법
+
+1. 먼저 말레이시아 법에 따라 소득 종류를 식별하십시오 — 제109조에 따른 이자, 제2조 정의와 함께 제109조에 따른 로열티, 또는 제109B조가 부과하는 제4A조에 따른 특수 소득 종류입니다. 성격 판단은 국내적입니다.
+2. 국내 세율과 조약 세율을 비교하여 낮은 것을 적용하십시오.
+3. 조약 세율을 적용하기 전에 수취인의 세무당국이 발급한 거주증명서를 받으십시오. 그것 없이는 국내 세율로 원천징수하십시오.
+4. 조약이 MLI로 수정된 경우, 의존하는 조문에 대해, 특히 주요 목적 판정(principal purpose test)에 대해 통합 본문을 확인하십시오.
+5. 원천에서 구제가 적용되지 않은 경우, 비거주자의 구제책은 지급자에 의한 소급 조정이 아니라 환급 청구나 상호합의절차입니다.
+
+## 다음 단계
+
+귀하가 말레이시아 지급자라면, `withholding-tax-rates`가 각 지급 유형의 국내 세율, 양식, 납부 마감일을 제시합니다 — 그것이 시작점이 되는 수치입니다. 귀하가 외국 소득의 말레이시아 수령인이며 조약 상대국에 자신의 거주지를 입증해야 한다면, `certificate-of-residence`가 신청 안내입니다.

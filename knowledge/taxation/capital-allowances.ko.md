@@ -1,0 +1,275 @@
+---
+topicId: MY-TAX-0051
+title: "부칙 3에 따른 자본공제, 처음부터 끝까지 실례로"
+seoTitle: "말레이시아 자본공제: 부칙 3 해설"
+slug: "capital-allowances"
+category: "taxation"
+subcategory: ["deductions-and-allowances"]
+summary: "기계 한 대를 구입부터 처분까지 따라간 실례 — 적격 지출, 초기공제와 연간공제, 설비 대 건물의 경계, 소액 자산, 그리고 처분 시 발생하는 정산부과(balancing charge)."
+
+tier: "1"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "말레이시아에서 감가상각은 결코 공제되지 않습니다 — 소득세법 1967(Income Tax Act 1967) 제39(1)(e)항이 이를 차단합니다. 부칙 3(Schedule 3)이 이를 자본공제로 대체합니다. 적격 설비 지출에 대한 초기공제는 지출이 발생한 해에 지출액의 5분의 1이며, 연간공제는 자산 등급에 따라 20퍼센트, 14퍼센트 또는 10퍼센트입니다. 처분 시, 정산부과 또는 정산공제(balancing allowance)가 실제로 부여된 공제를 자산의 실제 원가에 맞추어 정산합니다."
+keyTakeaways:
+  - "Paragraph 39(1)(e) disallows the accounting depreciation charge; Schedule 3 capital allowances replace it entirely"
+  - "Initial allowance on plant is one-fifth of qualifying expenditure under paragraph 10; annual allowance is 20 percent for heavy machinery and motor vehicles, 14 percent for plant and machinery and 10 percent for everything else"
+  - "Since the year of assessment 2021, paragraph 70A defines plant as an apparatus used to carry on a business, excluding a building and any asset that functions as the place within which the business is carried on"
+  - "Allowances require ownership and use at the end of the basis period, so no annual allowance arises in the year of disposal"
+  - "Small value assets of RM2,000 or less get a 100 percent allowance, capped at RM20,000 a year — uncapped for a qualifying resident SME"
+  - "Disposal value is market value or net proceeds, whichever is greater, and a balancing charge can never exceed the allowances actually given"
+  - "Dispose of an asset within two years of acquiring it and paragraph 71 can claw back every allowance already claimed"
+appliesTo: "Malaysian companies, LLPs and sole proprietors preparing a tax computation, and anyone deciding whether an item of capital expenditure attracts relief and over what period."
+
+faq:
+  - q: "What are the capital allowance rates in Malaysia?"
+    a: "Initial allowance is 20 percent of qualifying plant expenditure for all three classes. Annual allowance is 20 percent for heavy machinery and motor vehicles, 14 percent for plant and machinery, and 10 percent for the category described as others, which covers office equipment, furniture and fittings. Public Ruling No. 12/2014 sets out those three classes and attributes the rates to Schedule 3 and the Income Tax (Qualifying Plant Annual Allowances) Rules 2000."
+  - q: "Can I claim capital allowances on a building?"
+    a: "Not as plant. Since the year of assessment 2021 paragraph 70A of Schedule 3 defines plant so as to exclude a building and any asset that functions as a place within which a business is carried on. Buildings are relieved only through industrial building allowance, and only where the building falls within paragraph 63 or one of the extending paragraphs."
+  - q: "What happens if I sell an asset for more than its tax written down value?"
+    a: "A balancing charge arises under paragraph 35 of Schedule 3, equal to the excess of disposal value over residual expenditure, and it is added to your adjusted income. Paragraph 37 caps the charge at the total allowances actually made on that asset, so you can never be charged on more than the relief you received."
+  - q: "Do I lose capital allowances if I have no profits?"
+    a: "No. Paragraph 75 of Schedule 3 carries unabsorbed allowances forward to the first subsequent year of assessment with adjusted income from that business, and so on until they are fully used. There is no time limit, unlike business losses. Paragraph 75A imposes a substantial shareholding continuity test on companies."
+  - q: "What is the small value asset allowance?"
+    a: "Under paragraph 19A of Schedule 3, an asset costing not more than RM2,000 attracts an allowance equal to the full expenditure in the year it is incurred, instead of the normal initial and annual allowances. The total claim is limited to RM20,000 per year of assessment, but that cap does not apply to a company resident and incorporated in Malaysia with ordinary share capital of RM2.5 million or less and gross business income not exceeding RM50 million."
+  - q: "Why was my capital allowance clawed back after I sold the machine early?"
+    a: "Paragraph 71 of Schedule 3 withdraws allowances on an asset owned for less than two years, except by reason of death or any other reason the Director General thinks appropriate, and imposes a balancing charge equal to the allowances already made. The Special Commissioners have read this strictly — commercial justification advanced after the event has not been enough."
+
+verificationNeeded: []
+
+obligations:
+  - what: "Claim capital allowances in the tax return for the year of assessment in which they arise"
+    trigger: "financial-year-end"
+    due: "in the return for the year of assessment concerned, since paragraph 69 treats an allowance as made only when it is claimed for that year"
+    authority: "LHDN"
+    statute: "Income Tax Act 1967, Schedule 3 paragraph 69"
+    consequence: "Residual expenditure is still reduced by an annual allowance that could have been claimed under paragraph 68(c), so an unclaimed year is relief lost, not deferred"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-14
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-14
+sources:
+  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "LHDN"
+    date: "2024-05-21"
+  - title: "Public Ruling No. 12/2014 — Qualifying Plant and Machinery For Claiming Capital Allowances"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_12_2014.pdf"
+    publisher: "LHDN"
+    date: "2014-12-31"
+  - title: "Public Ruling No. 6/2015 — Qualifying Expenditure And Computation Of Capital Allowances"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_6_2015.pdf"
+    publisher: "LHDN"
+    date: "2015-08-27"
+  - title: "Public Ruling No. 3/2021 — Special Allowances For Small Value Assets"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_03_2021.pdf"
+    publisher: "LHDN"
+    date: "2021-07-21"
+  - title: "Public Ruling No. 7/2017 — Disposal Of Plant Or Machinery Part I"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_7_2017.pdf"
+    publisher: "LHDN"
+    date: "2017-12-12"
+  - title: "Public Ruling No. 1/2018 — Disposal Of Plant And Machinery Part II, Controlled Sales"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_1_2018.pdf"
+    publisher: "LHDN"
+    date: "2018-02-26"
+  - title: "COSB v Director General of Inland Revenue — case report on paragraph 71 Schedule 3"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20230216-revenews-cosb.pdf"
+    publisher: "LHDN"
+    date: "2023-02-16"
+  - title: "Horizon Hills Resort Berhad v Director General of Inland Revenue — case report on Schedule 3"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20230705-revenews-horizon-hills-resort-bhd.pdf"
+    publisher: "LHDN"
+    date: "2023-07-05"
+  - title: "Finance Act 2025 (Act 874) — gazette text, arrangement of sections (Chapter II amends ITA ss.6, 15C, 46, 49, 50, 54C, 65C, 65D, 65F, 76A, 107C, 111, Schedules 1 and 6; Schedule 3 not amended)"
+    url: "https://494075.fs1.hubspotusercontent-na1.net/hubfs/494075/compliance-portal/act-874-finance-act-2025.pdf"
+    publisher: "Laws of Malaysia / Percetakan Nasional Malaysia"
+    date: "2025-12-31"
+  - title: "Finance Act 2024 (Act 862) — gazette text, arrangement of sections (Chapter II amends ITA ss.6, 15C, 34, 44, 45A, 46, 46B, 47, 48, 49, 107C, 108, Schedules 1 and 6; Schedule 3 not amended)"
+    url: "https://moore.com.my/taxflash/Finance-Act-2024.pdf"
+    publisher: "Moore Malaysia (reproducing Act 862)"
+    date: "2024-12-31"
+  - title: "Six Public Rulings updated, and two new PRs issued by the IRB (2022 batch — confirms PR 12/2014 and PR 6/2015 were not replaced)"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/six-public-rulings-prs-updated-and-two-new-prs-issued-by-the-irb"
+    publisher: "EY Malaysia"
+    date: "2022-01-01"
+  - title: "High Court affirms SCP Assets's multi-storey car parks as 'plant' (DGIR's appeal dismissed, July 2026)"
+    url: "https://www.freemalaysiatoday.com/category/nation/2026/07/29/high-court-affirms-scp-assets-s-multi-storey-car-parks-as-plant"
+    publisher: "Free Malaysia Today"
+    date: "2026-07-29"
+  - title: "Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective)"
+    url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
+    publisher: "RDS Law Partners"
+
+entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
+relations:
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "part-of", to: "income-tax-act-1967" }
+  - { rel: "related-to", to: "industrial-building-allowance" }
+  - { rel: "related-to", to: "section-33-deductibility" }
+  - { rel: "related-to", to: "non-deductible-expenses" }
+related: ["losses-and-group-relief", "form-c-and-cp204", "basis-period-and-accounting-date"]
+keywords: ["capital allowance malaysia", "schedule 3 income tax act 1967", "initial allowance annual allowance", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+---
+
+회계장부의 감가상각 항목은 LHDN에게 아무런 가치가 없습니다. 소득세법 1967(Income Tax Act 1967) 제39(1)(e)항은 부칙 3(Schedule 3)의 목적상 적격 지출인 어떤 지출도 부인합니다 — 따라서 회계상의 상각액은 전액 가산 조정되고, 부칙 3이 자체 기준으로 그 자산이 실제로 얼마의 공제를 언제 받는지 결정합니다.
+
+두 제도 사이의 간극이 바로 돈이 있는 곳입니다. 이 글은 하나의 자산을 송장에서 고철상까지 따라갑니다.
+
+## 그 자산
+
+12월 31일 회계연도를 가진 거주 제조업체 킬랑 프레시시 유한책임회사(Kilang Presisi Sdn Bhd)는 2026년 3월에 CNC 가공 센터를 구입합니다. 공급업체는 RM236,000을 청구합니다. 회사는 또한 벽을 개조하고 기계에 삼상 전원을 끌어오기 위해 도급업자에게 RM9,000을, 기계를 볼트로 고정할 수 있도록 공장 바닥 한 모퉁이를 평탄화하는 데 RM5,000을 지급합니다.
+
+아래의 모든 것이 그로부터 흘러나옵니다.
+
+## 1단계: 적격 지출은 무엇인가?
+
+부칙 3의 제2(1)항은 적격 설비 지출을 사업 목적으로 사용되는 기계 또는 설비의 제공에 대한 자본지출로 정의하며, 다음을 명시적으로 포함합니다.
+
+- **(a)** 기계를 설치하기 위해 기존 건물을 개조하는 지출, 그리고 설치에 부수되는 기타 지출; 그리고
+- **(b)** 설치를 위한 부지를 준비하기 위해 토지를 정지, 절토, 굴착 또는 평탄화하는 지출 — **다만 그 자체와 그 사업의 다른 적격 설비 지출의 합계의 10퍼센트를 초과하지 않는 경우에만**.
+
+따라서 킬랑 프레시시의 적격 설비 지출은 RM236,000 더하기 RM9,000 더하기 RM5,000 = **RM250,000**입니다. RM5,000의 부지 준비는 RM250,000 합계의 2퍼센트로, 한도 안에 넉넉히 들어옵니다.
+
+RM236,000짜리 기계에 대해 부지 작업이 RM60,000이 들었다면, 계산의 성격이 완전히 바뀝니다. 부지 비용이 10퍼센트를 초과하여 제2(1)(b)항이 적용되지 않고, 이어 제67항이 적용됩니다. 부지 준비가 합계의 **75퍼센트**를 초과하는 경우, 기계는 사업에 사용되는 동안 부칙 3의 목적상 *건물*로 취급됩니다. 10퍼센트와 75퍼센트 사이에서는, 부지 지출이 단순히 적격 설비 지출에서 완전히 제외됩니다.
+
+세 가지 다른 규칙이 흔히 그 금액을 바꿉니다.
+
+- **할부구매.** 제46항에 따라 구매자가 소유자로 취급되며, 각 기준기간의 적격 지출은 그 기간에 납부한 할부금의 *자본 부분*입니다. 이자는 자본지출이 아니며 대신 제33(1)(a)조에 따라 처리됩니다.
+- **비거주 설치자.** 제2D항은 제109B조에 따른 원천징수세가 공제·납부되지 않은 경우, 기계 설치나 운영과 관련된 용역에 대해 비거주자에게 지급된 금액을 적격 지출에서 제외합니다. 송장을 자본화하기 전에 원천징수를 처리하십시오.
+- **자동차.** 제2(2)항은 비상업용 자동차에 대한 적격 설비 지출을 **RM50,000**으로 제한하며, 차량이 구매 전 미사용이고 총 원가가 RM150,000을 초과하지 않는 경우 **RM100,000**으로 증액됩니다.
+
+## 2단계: 그것은 설비인가?
+
+이것이 실제 분쟁을 가장 자주 결정하는 질문이며, 그 답이 최근에 바뀌었습니다.
+
+2020년 과세연도까지 법에는 정의가 없었습니다. 모든 것이 판례법과 공개 예규(Public Ruling) 12/2014에 제시된 두 가지 판정 기준에 따라 운영되었습니다 — **기능 판정**(자산이 사업을 영위하는 데 *사용되는* 장치인가?)과 **부지 판정**(아니면 단지 사업이 영위되는 *배경*인가?)입니다. 예규의 예시들은 여전히 이용 가능한 가장 명확한 지침입니다. 부티크의 마네킹은 설비이고, 레스토랑으로 개조된 선박은 그렇지 않으며, 호텔의 장식 조명은 분위기가 손님을 끌기 때문에 설비이고, 골프장의 잔디는 코스 자체의 일부이기 때문에 그렇지 않습니다.
+
+그 틀은 실질적인 충돌을 낳았습니다. *SCPASB v DGIR*(특별심판관, 2023년 9월 22일)에서 주차장 운영업체 — 2013년부터 2016년 사이에 8개의 다층 주차장을 약 RM4억9,500만에 취득한 SCP Assets Sdn Bhd — 는 항소법원 판결 *KPHDN v Tropiland Sdn Bhd*에 의존하여 이를 설비로 청구하는 데 성공했습니다. DGIR이 항소했고, 2026년 7월 고등법원(Alice Loke 판사)은 항소를 기각하며 기능성 판정에 따라 주차장이 자본공제 대상 설비임을 확인했습니다. 특별심판관의 결정 4개월 전, *Horizon Hills Resort Berhad v DGIR*(고등법원, 쿠알라룸푸르, 2023년 6월 23일)에서 골프·레크리에이션 클럽은 골프 코스, 수영장, 체육관, 테니스 코트, 식음료 매장에 대해 패소했습니다 — 모두 사업이 영위되는 *데 사용된* 장치가 아니라 사업이 영위된 *부지*로 판단되었습니다.
+
+**제70A항은 이제 그 논쟁을 법률로 정리합니다.** 2021년 과세연도부터 시행되도록 삽입된 이 조항은 설비를 다음과 같이 규정합니다.
+
+> 사람이 자신의 사업을 영위하기 위해 사용하는 장치이나, 건물이나 사업이 영위되는 장소로서 사용되고 기능하는 자산은 포함하지 않음
+
+그리고 장관에게 추가 배제를 규정할 권한을 부여합니다. 사업이 이루어지는 장소가 되는 것이 기능인 구조물은, 그 건축이 아무리 전문화되었더라도 제외됩니다.
+
+대부분의 안내서가 놓치는 두 가지 결과가 있습니다. 첫째, *Tropiland*와 *SCPASB* 같은 판결은 2021년 이전 과세연도에 관한 것이며 제70A항을 확인하지 않고 현재의 청구에 그대로 적용할 수 없습니다 — *SCP Assets* 계열의 법원들은 제70A항이 소급 적용되지 않음을 확인했으므로, 그 조항은 2021년 이전 연도에는 영향을 미치지 않지만 2021년 과세연도부터의 청구에는 새로이 적용되어야 합니다. 둘째, 일부 논평은 여전히 제70A항이 *무형자산*도 배제한다고 인용합니다. 그 문언은 원래 조문에는 있었으나 **현행 본문에는 없습니다** — 2024년 5월 21일 기준 법의 재판본에는 그러한 배제가 없습니다.
+
+## 3단계: 초기공제와 연간공제
+
+두 가지 공제가 동일한 적격 지출에 대해 계산되며, 잔액체감법이 아닙니다.
+
+**초기공제** — 제10항은 지출이 발생한 해에 적격 지출의 5분의 1, 즉 **20퍼센트**를 부여합니다. 한 번만 부여됩니다.
+
+**연간공제** — 제15항은 규정되는 비율을 부여합니다. 공개 예규 12/2014은 세 가지 등급과 그 세율을 부칙 3과 적격 설비 연간공제 규칙 2000(Income Tax (Qualifying Plant Annual Allowances) Rules 2000)에 근거하여 제시합니다.
+
+| 등급 | 예시 | 초기 | 연간 |
+| --- | --- | --- | --- |
+| 중장비와 자동차 | 굴착기, 크레인, 불도저, 승용차, 밴, 선박, 항공기 | 20% | 20% |
+| 설비와 기계 | 압축기, 승강기, 의료·실험 장비 | 20% | 14% |
+| 기타 | 사무 기기, 가구와 비품 | 20% | 10% |
+
+예규는 이 세 가지 세율이 업종과 관계없이 모든 자산에 적용되며, 산업용 건물 공제, 농업 공제, 산림 공제 대상 자산이나 규정된 가속 세율이 있는 자산에는 적용되지 않음을 명시합니다.
+
+**두 공제 모두 기준기간 종료 시점의 소유와 사용에 달려 있습니다.** 제13(a)항은 기준기간 종료 시점에 그 사람이 소유자가 아니었거나 자산이 사업에 사용되지 않았다면 초기공제를 부인합니다. 제15항은 연간공제에 동일한 조건을 부과합니다. 그리고 제18항은 연간공제를 잔여 지출로 제한하여, 총 공제가 결코 원가를 초과할 수 없도록 합니다.
+
+## 연도별 계산
+
+CNC 기계는 설비·기계입니다. RM250,000에 대해 초기 20퍼센트, 연간 14퍼센트입니다.
+
+| 과세연도 | 공제 | 금액(RM) | 잔여 지출(RM) |
+| --- | --- | --- | --- |
+| 2026 | 초기 20% | 50,000 | |
+| 2026 | 연간 14% | 35,000 | 165,000 |
+| 2027 | 연간 14% | 35,000 | 130,000 |
+| 2028 | 연간 14% | 35,000 | 95,000 |
+| 2029 | 연간 14% | 35,000 | 60,000 |
+| 2030 | 연간 14% | 35,000 | 25,000 |
+| 2031 | 연간, 잔여로 제한 | 25,000 | 0 |
+
+회계가 아마도 10년에 걸쳐 상각할 기계를 상각하는 데 6개 과세연도가 걸립니다. 잔여 지출은 제68항에 원가에서 초기공제를 차감하고, 부여된 연간공제를 차감하며, **청구되었더라면 부여되었을 연간공제를 차감한** 것으로 정의됩니다. 청구되지 않은 해는 나중을 위해 적립되지 않습니다 — 사라지며, 잔여 지출은 어차피 감소합니다.
+
+## 소액 자산 지름길
+
+같은 공장이 사무용 의자 12개를 개당 RM650에, 모니터 4개를 RM1,400에 구입합니다.
+
+제19A항은 가치가 **RM2,000 이하**인 자산에 대해, 통상적인 초기공제와 연간공제 대신, 지출이 발생한 해에 적격 설비 지출 전액에 해당하는 공제를 부여합니다. 공개 예규 3/2021은 현행 두 수치를 모두 확인합니다. 자산당 RM2,000과 과세연도당 총 청구액의 **RM20,000 상한**으로, 둘 다 2020년 과세연도부터 시행되었으며 이전의 RM1,300과 RM13,000에서 인상되었습니다.
+
+이 상한은 중소기업에 대해서는 사라집니다. 제19A(3)항은 기준기간 시작 시점의 납입 보통주자본이 RM250만 이하이고 그 기준기간의 총 사업소득이 RM5,000만을 초과하지 않는, 말레이시아(Malaysia)에 거주하고 **설립된** 회사에 대해 이를 없앱니다. 이어 제19A(4)항은 어느 방향으로든 관계회사(납입자본이 RM250만을 초과하는 회사)가 보통주자본의 50퍼센트를 초과하여 보유하거나, 둘 다 제3의 회사에 의해 50퍼센트를 초과하여 보유되는 회사를 자격에서 배제합니다 — **그리고 (d)항에 따라, 말레이시아 밖에서 설립된 회사나 비시민 개인이 보통주자본의 20퍼센트를 초과하여 보유하는 경우에도 그렇습니다.**
+
+그 네 번째 항목은 짚어둘 만한데, 공개 예규 3/2021이 그보다 앞서므로 이를 언급하지 않기 때문입니다. 오직 예규만을 근거로 상한 없는 소액 자산 공제를 청구해 온 외국인 소유 말레이시아 자회사는 법률을 재확인해야 합니다.
+
+선택은 자산별로 이루어집니다. 제19A(2)항은 동일한 지출에 대해 특별공제와 통상공제를 모두 청구하는 것을 막으며, 공개 예규 3/2021은 특별 세율로 공제를 계산하는 것만으로 선택한 것으로 취급합니다.
+
+## 4단계: 처분, 그리고 뼈아픈 점
+
+4년 후 킬랑 프레시시는 기계를 교체합니다. 위 일정이 끝나기 전인 2030년 과세연도의 기준기간에 RM90,000에 매각되므로, 위 표의 2030년과 2031년 행은 발생하지 않습니다.
+
+첫째, 2030년에는 연간공제가 발생하지 않습니다 — 회사가 그 기준기간 종료 시점에 소유자가 아니었기 때문입니다. 따라서 처분일의 잔여 지출은 2029년에서 이월된 수치인 **RM60,000**이며, 총 공제 RM190,000(초기공제와 2026년부터 2029년까지의 네 차례 연간공제)에 대비됩니다.
+
+둘째, 처분 가액입니다. 제62(1)항은 처분일의 시장 가치, 또는 매각의 경우 시장 가치와 순매각대금 중 큰 값을 취합니다. 보험금이나 보상금을 받는 경우, 처분 가액은 시장 가치와 그 금액 중 큰 값입니다. 따라서 우호적인 상대방에게 저가 매각하는 것으로는 부과를 줄일 수 없습니다.
+
+셋째, 정산입니다.
+
+- 처분 가액 RM90,000이 잔여 지출 RM60,000을 초과하므로, 제35항은 **RM30,000의 정산부과**를 부과하며, 이는 2030년 과세연도의 조정소득에 가산됩니다.
+- 기계가 RM40,000밖에 받지 못했다면, 제34항은 대신 **RM20,000의 정산공제**를 부여했을 것입니다.
+
+제37항은 정산부과를 그 자산에 대해 부여된 총 공제 — 여기서는 RM190,000 — 로 제한하여, 부과가 결코 부여된 공제를 초과할 수 없도록 합니다. 또한 *처분*은 매각보다 넓다는 점에 유의하십시오. 제61항은 설비나 기계가 매각, 폐기, 파괴되거나, **사업 목적으로 사용되기를 중단하는** 경우 처분된 것으로 취급합니다. 라인을 가동 중단하고 자산을 고정자산 대장에 조용히 남겨두는 것은 처분 사건입니다.
+
+제61A항은 회계기준을 충실히 적용하는 사람에게 함정을 더합니다. 매각 예정으로 분류된 자산은 사용을 중단한 것으로 간주되며, 처분 가액은 분류일의 시장 가치나 순매각대금 중 큰 값을 기준으로 정해집니다.
+
+## 모든 것을 취소하는 2년 규칙
+
+제71항은 통상적인 처분을 부과로 바꾸는 규정입니다. **2년 미만 소유한** 자산에 대해 적격 지출을 발생시킨 경우, 그 사람의 사망이나 국세청장이 적절하다고 판단하는 그 밖의 사유를 제외하고는 공제가 부여되지 않으며 — 이미 공제가 부여된 경우, 그 공제와 동일한 정산부과가 처분 연도에 부과됩니다.
+
+*COSB v DGIR*(특별심판관, 2023년 2월 10일)에서 카메라 렌즈 위탁 제조업체가 디지털 부문을 폐쇄하고 2년 미만 전에 취득한 자산을 처분했습니다. 업체는 진정한 상업적 정당성을 주장했습니다. 자산이 남아돌고, 맞춤 제작되었으며, 회사의 다른 곳에서 사용할 수 없다는 것이었습니다. DGIR의 입장은 처분 *전에* 국세청장에게 허가를 구해야 하고, 폐쇄 결정이 납세자가 아니라 본사에 의해 내려졌으며, 납세자가 폐쇄 결정 후에도 계속 자산을 구매했다는 것이었습니다. 항소는 기각되고 제113(2)조에 따른 벌금이 유지되었습니다.
+
+제71항을 실체적 규칙이 아니라 절차적 규칙으로 읽으십시오. 재량은 존재하며, 국세청장이 이를 행사하고, 세무조사 시 제시된 설명이 아니라 신청에 따라 행사됩니다.
+
+## 그룹 내 이전
+
+제38항부터 제40항은 처분자가 취득자를 지배하거나, 취득자가 처분자를 지배하거나, 제3자가 둘 다 지배하거나, 처분이 재편이나 합병의 일부이거나, 신탁·증여·사망에 의한 경우에 적용됩니다. 그 경우 처분은 처분자의 잔여 지출로 발생한 것으로 간주되고, 취득자는 그 수치를 자신의 적격 지출로 승계하며, 이전 시 정산 조정이 발생하지 않습니다.
+
+지배는 제38(2)항에 정의되며 의도적으로 넓습니다 — 지분 보유, 의결권, 또는 정관 문서에 의해 회사의 업무가 어떤 사람의 의사에 따라 수행되도록 확보하는 권한입니다. *AHSB v DGIR*(특별심판관, 2024년 11월 22일)에서 납세자는 DGIR이 지배를 입증하지 못했으며, 제2조와 제139조의 일반 정의를 제38항에 들여올 수 없다고 주장했습니다. DGIR은 두 회사의 상무이사를 겸하면서 납세자의 90퍼센트를 보유한 개인을 지적했고, 간접 지배로 승소했습니다. 지배 이전은 선택하는 것이 아니라 빠지는 것입니다.
+
+## 소득이 충분하지 않을 때
+
+제75항은 미흡수 공제를 그 사업의 조정소득이 있는 첫 후속 과세연도로, 그리고 완전히 소진될 때까지 계속 이월합니다. **기한이 없습니다** — 이는 경쟁 콘텐츠에서 가장 흔한 오류로, 10년 사업 손실 이월 상한을 자본공제에도 자주 적용합니다.
+
+제75A항은 회사에 조건을 부과합니다. 공제가 부여되지 않은 기준기간의 마지막 날 주주는, 그렇지 않았다면 그것이 사용될 기준기간의 첫날 주주와 실질적으로 동일해야 합니다. 그 판정을 통과하지 못하면 미흡수 공제는 이후 연도에 대해 무시됩니다.
+
+## 흔한 실수
+
+**원천징수세를 확인하지 않고 비거주 설치 송장을 자본화하는 것.** 제2D항은 제109B조 세금이 공제·납부되지 않은 경우 그 금액을 적격 지출에서 완전히 제거합니다.
+
+**전문화된 구조물을 설비로 청구하는 것.** 2021년 과세연도부터 제70A항은 사업이 영위되는 장소로 기능하는 어떤 것도 배제합니다. 2021년 이전 판례는 안전한 지침이 아닙니다.
+
+**처분 연도에 연간공제를 청구하는 것.** 제15항은 기준기간 *종료* 시점의 소유와 사용을 요구합니다.
+
+**관계회사에 장부가액으로 매각하고 그것으로 끝이라고 가정하는 것.** 제38항부터 제40항은 잔여 지출로 대체하고, 그것이 적용되지 않는 경우 제62항이 시장 가치로 대체합니다.
+
+**준비 시간을 아끼려고 손실 연도에 청구를 건너뛰는 것.** 제68(c)항은 잔여 지출을 청구될 *수 있었던* 연간공제만큼 감소시킵니다. 제75항이 이미 공제를 이월하므로, 얻을 것은 없고 잃을 공제만 있습니다.
+
+**최근 구입한 자산을 국세청장에게 신청하지 않고 처분하는 것.** 제71항이 전부를 회수하며, *COSB*는 소급적 상업적 정당성이 통하지 않음을 보여줍니다.
+
+**외국인 소유 자회사에 대해 소액 자산 공제를 자동적인 것으로 취급하는 것.** 제19A(4)(d)항의 20퍼센트 외국인 소유 항목이 상한 없는 취급을 제거하며, 주요 공개 예규는 그보다 앞섭니다.
+
+## 다음 단계
+
+무엇보다 먼저 설비 판정을 하십시오 — 자산이 건물이라면 부칙 3은 매우 다른 세율로, 그리고 좁은 용도 목록에 대해서만 산업용 건물 공제를 통해 이를 상각합니다. 14퍼센트로 정하기 전에 귀사의 자산 등급에 가속 자본공제 명령이 적용되는지 확인하십시오. 자동화 장비, 정보통신기술 장비, 그리고 몇몇 다른 범주에는 자체 관보 규칙이 있기 때문입니다. 그리고 처음부터 처분 측면을 염두에 두십시오. 정산부과는 몇 년 전에 정해진 수치로 계산되며, 2년 규칙은 당시에는 순전히 상업적으로 보였던 결정을 벌합니다.

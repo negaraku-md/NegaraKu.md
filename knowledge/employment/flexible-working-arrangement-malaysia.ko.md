@@ -1,0 +1,162 @@
+---
+topicId: MY-EMP-0033
+title: "제60P조 및 제60Q조에 따른 유연근무제 신청"
+seoTitle: "말레이시아 유연근무제 — 60일 의무"
+slug: "flexible-working-arrangement-malaysia"
+category: "employment"
+subcategory: ["leave-and-welfare"]
+summary: "말레이시아의 유연근무제(FWA)는 복지 정책이 아니라, 60일의 서면 회신 기한과 거부 시 사유 명시 요건을 갖춘 절차적 의무입니다."
+
+tier: "3"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "고용법 1955(Employment Act 1955) 제60P조는 근로자가 근로시간, 근로일 또는 근로 장소의 변경을 신청할 수 있도록 합니다. 제60Q조는 그 회신을 법정 의무로 만듭니다. 신청은 노동총국장(Director General)이 정한 양식으로 서면이어야 하고, 고용주는 접수 후 60일 이내에 이를 승인하거나 거부해야 하며, 거부하는 경우 사유를 명시하여 근로자에게 서면으로 통지해야 합니다. 법정 이의 제기권은 없습니다."
+keyTakeaways:
+  - "s.60P(1) — an employee may apply to vary hours of work, days of work or place of work."
+  - "s.60Q(2) — the employer must approve or refuse within sixty days from the date the application is received."
+  - "s.60Q(3) — the decision must be communicated in writing, and a refusal must state the ground."
+  - "The Act prescribes no list of valid grounds for refusal, and gives the employee no statutory appeal."
+  - "s.60P(1) makes the right subject to Part XII and to anything contained in the contract of service."
+  - "s.60P(2) requires an application to be consistent with any applicable collective agreement."
+  - "Neither section carries a specific penalty, so s.99A applies — a fine of up to RM50,000."
+appliesTo: "Employers receiving flexible working requests, and employees making them, in Peninsular Malaysia and Labuan."
+
+verificationNeeded:
+  - "Confirm the current form and manner determined by the Director General for a s.60Q(1) application, against jtksm.mohr.gov.my"
+  - "Confirm whether JTKSM has published guidance on what constitutes an adequate ground of refusal under s.60Q(3)"
+
+obligations:
+  - what: "Approve or refuse a flexible working arrangement application"
+    trigger: "change"
+    withinDays: 60
+    due: "within 60 days from the date the application is received"
+    authority: "JTKSM"
+    statute: "Employment Act 1955, s.60Q(2)"
+    consequence: "General penalty of up to RM50,000 under s.99A"
+  - what: "Inform the employee in writing of the decision, stating the ground if refused"
+    trigger: "change"
+    due: "on deciding the application"
+    authority: "JTKSM"
+    statute: "Employment Act 1955, s.60Q(3)"
+    consequence: "General penalty of up to RM50,000 under s.99A"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+    url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
+    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    date: "2023-01-01"
+
+entity: "Flexible working arrangement under Part XIIC of the Employment Act 1955"
+relations:
+  - { rel: "part-of", to: "employment-act-1955-guide" }
+  - { rel: "administered-by", to: "jtksm" }
+related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
+keywords: ["flexible working arrangement malaysia", "fwa malaysia employment act", "section 60p 60q", "work from home request malaysia", "flexible work application malaysia"]
+---
+
+말레이시아의 유연근무에 관한 보도 대부분은 이를 고용주가 제공하기로 선택할 수 있는 혜택으로
+설명합니다. 그 해석은 제12C편의 요점을 완전히 놓칩니다. 이 법은 유연하게 근로할 권리를 창설하지
+않습니다. 이 법은 정해진 기간 내에, 서면으로, **회신할 의무**를 창설하며 — 그 의무는 답이 예이든
+아니든 집행 가능합니다.
+
+## 제60P조가 근로자에게 부여하는 것
+
+제60P(1)조: *제12편 또는 근로계약에 담긴 사항을 조건으로, 근로자는 그 고용과 관련하여 근로시간,
+근로일 또는 근로 장소를 변경하기 위한 유연근무제를 고용주에게 신청할 수 있다.*
+
+세 가지 변수, 그리고 오직 세 가지뿐입니다. **근로시간**, **근로일**, **장소**입니다. 직무 범위의
+축소, 보고 라인의 변경, 급여의 삭감을 요청하는 것은 유연근무제 신청이 아닙니다.
+
+첫머리의 문언이 중요합니다. 이 권리는 **제12편** — 휴게일, 근로시간, 공휴일 및 기타 근로조건 — 과
+근로계약에 담긴 사항을 조건으로 합니다. 제60P(2)조는 단체협약이 있는 경우 신청이 그 조건과 부합해야
+한다고 덧붙입니다.
+
+## 제60Q조가 고용주에게 요구하는 것
+
+이것이 핵심 조항이며, 세 개의 항으로 이루어져 있습니다.
+
+**제60Q(1)조** — 신청은 **서면**이어야 하며, 노동총국장이 정한 양식과 방법에 따라야 합니다.
+
+**제60Q(2)조** — 고용주는 *그 신청을 접수한 날로부터 **60일** 이내에 신청을 승인하거나 거부해야
+한다*. 접수 확인이 아닙니다. 검토가 아닙니다. 결정입니다.
+
+**제60Q(3)조** — 고용주는 승인 또는 거부를 *근로자에게 서면으로 통지해야* 하며, **거부하는 경우 그
+거부의 사유를 명시해야** 합니다.
+
+이는 날짜가 붙은 절차적 의무이며, 그래서 인사(HR) 안내서가 아니라 준수 달력에 속합니다.
+
+## 이 법이 의도적으로 하지 않는 것
+
+**유효한 사유를 열거하지 않습니다.** 고용주는 사유를 명시해야 하지만, 이 법은 어떤 사유가 수용
+가능한지 말하지 않습니다. 사업상 필요, 운영 차질, 고객 대면 요건, 감독, 보안 — 모두 법조문상
+사용 가능합니다.
+
+**이의 제기권을 부여하지 않습니다.** 거부된 유연근무제 신청에 대한 내부 재심 장치도, 법정 심판
+기관도 없습니다.
+
+**그 제도에 대한 권리를 창설하지 않습니다.** 명시된 사유에 근거하여 60일 이내에 서면으로 통지된
+거부는 완전히 준수하는 것입니다.
+
+따라서 실패의 유형은 거의 결정 그 자체가 아닙니다. 침묵이거나, 구두 거부이거나, 75일째의 결정
+입니다.
+
+## 벌칙
+
+제60P조도 제60Q조도 고유한 벌칙을 두지 않으므로 **제99A조**가 적용됩니다. 벌칙이 정해지지 않은
+이 법상의 범죄를 저지른 사람은 유죄 판결 시 **RM50,000을 초과하지 않는** 벌금에 처해집니다.
+
+## 제대로 운영하기
+
+1. **접수에 날짜 도장을 찍어라.** 60일은 신청을 접수한 날로부터 진행되므로, 접수일이 파일에서 가장
+   중요한 기록입니다.
+2. **정해진 양식을 사용하라.** 제60Q(1)조는 양식과 방법을 노동총국장의 사안으로 하므로, 자유 서식을
+   받아들이기보다 노동국(JTKSM)에 현행 요건을 확인하십시오.
+3. **45일째를 일정에 기록하라.** 관리자와 협의하고 회신을 작성할 여유를 두십시오.
+4. **결론이 아니라 사유를 기재하라.** "생산 교대 근무 중 공장 출근이 요구되는 직무이므로 거부함"은
+   사유입니다. "거부함"은 아닙니다.
+5. **서신을 보관하라.** 준수의 증거는 서면 결정과 그 날짜입니다.
+6. **단체협약이 있으면 먼저 확인하라.** 제60P(2)조가 그와의 부합을 요구하기 때문입니다.
+
+## 흔한 실수
+
+**구두 답변을 결정으로 취급하는 것.** 제60Q(3)조는 서면을 요구합니다.
+
+**비공식적으로 승인하고 문서화하지 않는 것.** 기록되지 않은 승인은 60일 의무가 이행되었다는 증거를
+남기지 못하며, 그 제도 자체에 대한 합의된 조건도 남기지 못합니다.
+
+**사유 없이 거부하는 것.** 사유는 유효한 거부의 법정 요소입니다.
+
+**접수가 아니라 관리자의 검토로부터 기간을 진행하는 것.** 제60Q(2)조는 고용주가 신청을 접수한
+날로부터라고 규정합니다.
+
+**고위 근로자가 제외된다고 가정하는 것.** 제60P조와 제60Q조는 제1부칙 제1A항에 따라 월 RM4,000을
+초과하여 배제되는 여섯 개 조항에 속하지 않습니다.
+
+**유연근무제를 정상 근로시간의 변경과 혼동하는 것.** 어떠한 제도도 여전히 제60A(1)조 한도 —
+하루 8시간, 주 45시간, 10시간의 총 구속 시간, 그리고 제60A(7)조의 절대적 12시간 상한 — 안에
+있어야 합니다.
+
+## 다음 단계
+
+유연근무제 접수에 단일 담당자를 두고, 접수일을 기록하며, 60일 법정 기한에 대비하여 45일째 알림을
+설정하십시오. 그런 다음 승인하는 어떠한 제도든 여전히 [법정 근로시간 한도](/en/employment/working-hours-overtime-malaysia)
+안에 맞는지 확인하십시오.

@@ -1,0 +1,154 @@
+---
+topicId: MY-LAW-0072
+title: "파라이드(Faraid): 말레이시아의 이슬람 상속법"
+seoTitle: "파라이드(Faraid): 말레이시아 이슬람 상속 재산 분배 안내"
+slug: "faraid-and-islamic-inheritance"
+category: "law"
+subcategory: ["pusaka"]
+summary: "파라이드(Faraid)는 샤리아(Syarak)가 정한 고정 비율에 따라 무슬림의 상속 재산을 분배하는 제도입니다. 이 안내서는 상속인의 몫, 관여하는 기관, 그리고 비무슬림에게 적용되는 1958년 분배법(Akta Pembahagian 1958)과 어떻게 다른지를 설명합니다."
+
+tier: "S"
+mode: "practical"
+contentType: "guide"
+sensitivity: "religion"
+
+answer: "파라이드(Faraid)는 장례 관리 비용, 채무 및 유증을 공제한 후, 1/2, 1/4, 1/8, 2/3, 1/3, 1/6과 같은 고정 비율(푸루드, furud)에 따라 무슬림 사망자의 재산을 분배하는 이슬람 상속법입니다. 말레이시아에서는 샤리아 법원(Mahkamah Syariah)이 파라이드 명령(Perintah Faraid)을 통해 상속인 목록과 각자의 몫을 확인하며, 분배는 재산의 가치와 종류에 따라 토지청(Pejabat Tanah, JKPTG), 아마나 라야 베르하드(Amanah Raya Berhad) 또는 고등법원(Mahkamah Tinggi)을 통해 이루어집니다. 비무슬림은 1958년 분배법(Akta Pembahagian 1958)의 적용을 받습니다."
+
+keyTakeaways:
+  - "Faraid menetapkan kadar tetap (furud): suami 1/2 tanpa anak atau 1/4 jika ada anak; isteri 1/4 tanpa anak atau 1/8 jika ada anak."
+  - "Waris asabah (contohnya anak lelaki) mengambil baki harta; anak lelaki mendapat dua kali ganda bahagian anak perempuan (nisbah 2:1)."
+  - "Harta dibahagi hanya selepas kos jenazah, hutang dan wasiat diselesaikan; wasiat kepada bukan waris umumnya terhad kepada satu pertiga."
+  - "Perintah Faraid dikeluarkan oleh Mahkamah Syariah; jika tiada waris langsung, harta diserahkan kepada Baitulmal."
+  - "Pusaka kecil bernilai tidak melebihi RM5 juta dikendalikan Pejabat Tanah (JKPTG); had ini dinaikkan daripada RM2.5 juta melalui pindaan 2022."
+
+appliesTo: "Waris, pentadbir harta dan orang awam Islam di Malaysia yang ingin memahami pembahagian pusaka; juga rujukan perbandingan bagi bukan Islam."
+
+faq:
+  - q: "Siapa yang mengeluarkan Perintah Faraid?"
+    a: "Mahkamah Syariah mengeluarkan Perintah Faraid, iaitu dokumen rasmi yang mengesahkan senarai waris yang berhak dan kadar bahagian masing-masing mengikut hukum faraid."
+  - q: "Apakah perbezaan utama antara faraid dan Akta Pembahagian 1958?"
+    a: "Faraid terpakai kepada orang Islam dengan kadar tetap yang ditetapkan Syarak, manakala Akta Pembahagian 1958 (Akta 300) mengawal pembahagian pusaka bukan Islam yang mati tanpa wasiat mengikut formula berkanun yang berbeza."
+  - q: "Adakah semua harta dibahagi terus mengikut faraid?"
+    a: "Tidak. Kos pengurusan jenazah, hutang dan wasiat diselesaikan dahulu daripada harta pusaka sebelum baki dibahagikan mengikut faraid."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-07
+    change: "Approved and published."
+    reviewer: null
+
+verificationNeeded:
+  - "Sumber utama bagi kaedah harta diserahkan kepada Baitulmal apabila tiada waris (rujukan berkanun atau enakmen negeri yang khusus)."
+  - "Tarikh sebenar had pusaka kecil RM5 juta mula berkuat kuasa melalui perintah Menteri (Skrine Mac 2022 mencatatkan pindaan belum berkuat kuasa pada tarikh itu; MyGov kini menyenaraikan RM5 juta sebagai had operasi)."
+  - "Perincian penuh takrif 'harta' yang diperluas di bawah Akta Pusaka Kecil (Pembahagian) 1955 selepas pindaan 2022."
+
+updated: 2026-08-07
+sources:
+  - title: "Pembahagian Harta Pusaka"
+    url: "https://www.malaysia.gov.my/my/categories/kematian-pusaka/pembahagian-harta-pusaka"
+    publisher: "Portal Rasmi Kerajaan Malaysia (MyGov)"
+  - title: "Kenapa Waris Perlu Mendapatkan Perintah Faraid?"
+    url: "https://efaraid.mais.gov.my/kenapa-waris-perlu-mendapatkan-perintah-faraid/"
+    publisher: "Majlis Agama Islam Selangor (MAIS) — e-Faraid"
+  - title: "Big Changes for Small Estates (Distribution) Act 1955"
+    url: "https://www.skrine.com/insights/alerts/march-2022/big-changes-for-small-estates-distribution-act-195"
+    publisher: "Skrine"
+  - title: "Apa Itu Hukum Faraid?"
+    url: "https://as-salihin.com/apa-itu-hukum-faraid/"
+    publisher: "as-Salihin Trustee Berhad"
+
+entity: "Faraid"
+relations:
+  - { rel: "related-to", to: "wills-and-estate-planning-malaysia" }
+  - { rel: "related-to", to: "syariah-courts-malaysia" }
+related: []
+keywords: ["faraid", "harta pusaka", "pusaka islam", "waris", "mahkamah syariah", "baitulmal", "akta pembahagian 1958", "pusaka kecil"]
+---
+
+말레이시아에서 무슬림이 사망하면 그의 재산이 반드시 가장 가까운 상속인이나 가장 필요로 하는 상속인에게 돌아가는 것은 아닙니다 — 그것은 샤리아(Syarak)가 정한 고정 비율에 따라 분배됩니다. 이 제도가 바로 **파라이드(Faraid)**로 알려진 것이며, 모든 상속인이 다른 방식에 합의하지 않는 한 무슬림 상속 재산의 기본 방식이 됩니다.
+
+## 파라이드(Faraid)란 무엇인가?
+
+파라이드(Faraid)는 누가 정당한 상속인이며 각자가 얼마의 몫을 받는지를 정하는 이슬람의 상속 재산 분배 제도입니다. 그것은 꾸란과 하디스가 정한 고정 비율에 근거하며, 각 주의 샤리아 법원(Mahkamah Syariah)을 통해 행정으로 옮겨집니다.
+
+파라이드의 상속인은 두 개의 주요 집단으로 나뉩니다.
+
+- **아샤불 푸루드(Ashabul furud)** — 고정된 몫(푸루드, furud)을 받는 상속인으로, 예컨대 남편, 아내, 어머니, 아버지, 딸입니다.
+- **아사바(Asabah)** — 고정된 몫이 분배된 후 남은 *잔여* 재산을 받는 상속인으로, 예컨대 아들입니다. 아샤불 푸루드가 몫을 가져간 후에도 남는 것이 있으면, 아사바가 그 나머지를 상속합니다.
+
+사망자에게 정당한 상속인이 전혀 없으면, 상속 재산은 일반적으로 수탁자로서 **바이툴말(Baitulmal)**에 넘겨집니다. (이 방식은 법령 근거의 확인이 필요합니다. *verificationNeeded* 주석을 참조하십시오.)
+
+## 각 상속인의 몫은 얼마인가?
+
+파라이드의 고정 비율은 보통 분수로 표시됩니다. 1/2, 1/4, 1/8, 2/3, 1/3, 1/6입니다. 상속인의 실제 몫은 사망자와의 관계 및 다른 상속인의 존재 여부에 따라 달라집니다. 다음 표는 면허 수탁자인 as-Salihin이 제시한 몇 가지 기본 사례를 요약합니다.
+
+| 상속인 | 자녀 있음 | 자녀 없음 |
+|---|---|---|
+| 남편 | 1/4 | 1/2 |
+| 아내 | 1/8 | 1/4 |
+| 아버지 | 1/6 | 아사바(잔여) |
+| 어머니 | 1/6 | 1/3(특정 상황에서) |
+| 딸 한 명 | — | 1/2 |
+| 딸 둘 이상 | — | 2/3(공유) |
+
+아들이 있는 경우, 그들은 딸과 함께 아사바로서 상속하며, **아들은 딸 몫의 두 배**를 받습니다(2:1 비율). 이 안내서는 법률상의 지위를 서술적으로 기술할 뿐이며 이 비율의 타당성에 대해 입장을 취하지 않습니다. 이 원칙은 여러 논의의 초점이 되어 왔습니다. 일부는 이를 이슬람 가족 체계 아래 남성이 지는 부양 책임과 연결하고, 다른 일부는 현대 사회적 맥락에서의 적용을 논의하며, 또 일부 연구자는 히바(hibah)나 유증과 같은 수단이 재산 계획에 사용되는 방식을 검토합니다. 이러한 견해들은 그것이 존재한다는 사실로서 기록될 뿐, 어느 편에 대한 지지로서 기록되는 것이 아닙니다.
+
+## 재산이 분배되기 전에 무엇이 이루어지는가?
+
+파라이드는 총재산 전체에 대해 산정되지 않습니다. 몇 가지가 먼저 처리되어야 합니다.
+
+1. **장례 관리 비용** — 사망자를 관리하고 매장하는 비용.
+2. **채무** — 알라에 대한 채무(예: 미납 자카트)와 사람에 대한 채무.
+3. **유증** — 비상속인에 대한 유증은 일반적으로 재산의 **1/3**로 제한되며, 나머지가 비로소 파라이드에 따라 분배됩니다.
+
+그런 다음에야 남은 순재산이 파라이드 비율에 따라 상속인에게 분배됩니다.
+
+## 어느 기관이 상속 재산을 처리하는가?
+
+파라이드가 *몫*을 정하기는 하지만, 분배의 실행은 재산의 가치와 종류에 따라 서로 다른 행정 기관이 관여합니다. 말레이시아 정부 공식 포털에 따르면 다음과 같습니다.
+
+- **소액 유산** — 신청일 기준 **RM500만**을 초과하지 않는 재산(동산만, 부동산만, 또는 둘 다). **토지광물총국(Jabatan Ketua Pengarah Tanah dan Galian, JKPTG)** 또는 **아마나 라야 베르하드(Amanah Raya Berhad)**가 처리.
+- **간이 유산** — **RM600,000 이하**의 동산만(예: 은행 예금, ASB, KWSP). **아마나 라야 베르하드**가 처리.
+- **고액 유산** — RM500만을 초과하는 재산(또는 유효한 유언이 관련된 경우). **민사 고등법원(Mahkamah Tinggi Sivil)**이 처리.
+
+무슬림의 경우, **샤리아 법원(Mahkamah Syariah)**이 **파라이드 명령(Perintah Faraid)**을 통해 파라이드에 따른 정당한 상속인 목록과 각자의 몫을 확인한 후에야 관련 기관으로부터 재산을 청구할 수 있습니다.
+
+소액 유산의 운영 한도는 이제 말레이시아 정부 공식 포털에 열거된 대로 **RM500만**입니다. 이 한도는 1955년 소액 유산(분배)법(Akta Pusaka Kecil (Pembahagian) 1955)의 개정을 통해 **RM250만**에서 상향되었습니다. 법무법인 Skrine에 따르면, 그 개정은 **2022년 1월 19일** 국왕 재가를 받았으며 장관이 정하는 날에 발효될 예정입니다. Skrine의 기록(2022년 3월)은 작성 시점에 그 개정이 아직 발효되지 않았다고 밝히고 있습니다. 그 개정은 또한 "재산"의 정의를 확장하여 동산만도 포함하도록 — 더 이상 부동산의 존재를 요건으로 하지 않도록 — 한 것으로 보고되었습니다.
+
+## 파라이드는 비무슬림 법과 어떻게 다른가?
+
+파라이드는 무슬림에게만 적용됩니다. 유언 없이 사망한 비무슬림의 경우, 상속 재산의 분배는 파라이드가 아니라 **1958년 분배법(Akta Pembahagian 1958, Akta 300)**의 규율을 받습니다.
+
+| 측면 | 파라이드(이슬람) | 1958년 분배법(비무슬림) |
+|---|---|---|
+| 비율의 근거 | 샤리아가 정함(고정 비율) | 법정 산식 |
+| 상속인 확인 | 파라이드 명령, 샤리아 법원 | 고등법원 / 토지청 |
+| 자녀 비율 | 남 2 : 여 1 | 자녀 간 균등 |
+| 비상속인에 대한 유증 | 일반적으로 1/3로 제한 | 유효한 유언(1959년 유언법, Akta Wasiat 1959)을 통해 자유 |
+
+이 차이는 상속인 구성이 유사한 두 가정이 단지 적용되는 법률 체계 때문에 서로 다른 분배를 받을 수 있음을 의미합니다. 추가 계획을 원하는 무슬림에게는 **히바(hibah)**(생전 증여)와 **유증**(허용되는 한도 내)과 같은 수단이 파라이드의 대체가 아니라 보완으로서 자주 논의됩니다.
+
+## 간단한 예시
+
+한 무슬림 남성이 아내 한 명, 아들 한 명, 딸 한 명을 남기고 채무나 유증 없이 사망했다고 가정합니다. 아내는 자녀가 있으므로 고정된 몫 **1/8**을 받습니다. 남은 **7/8**은 아사바로서 아들과 딸 사이에 분배되며, 아들은 딸 몫의 매 한 몫당 두 몫을 받습니다. 각 사례의 실제 계산은 다른 상속인(예: 사망자의 부모)의 존재가 비율을 바꿀 수 있으므로 여전히 샤리아 법원을 통해 확인해야 합니다.
+
+## 다음 단계
+
+파라이드는 종교와 가족을 건드리는 주제이므로, 일반적 정보가 구체적 자문을 대신하지 않습니다. 상속인을 위한 통상적인 단계는 다음과 같습니다.
+
+- **사망 증명서**를 발급받고 모든 동산과 부동산을 목록화합니다.
+- 상속인과 몫을 확인하기 위해 샤리아 법원에 **파라이드 명령**을 신청합니다.
+- 재산의 가치와 종류에 따라 **토지청(MyLand 포털)**, 아마나 라야 베르하드 또는 고등법원을 통해 분배를 신청합니다.
+- 복수의 상속인, 공동 취득 재산(harta sepencarian), 또는 히바 및 유증 계획이 관련된 사례에 대해서는 샤리아 자문가 또는 샤리아 변호사와 상의합니다.
+
+*주: 이것은 인간의 검토가 필요한 AI 지원 초안입니다. 그 내용은 일반적 정보이며 법률 자문이나 샤리아 자문이 아닙니다.*

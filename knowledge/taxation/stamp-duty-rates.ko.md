@@ -1,0 +1,227 @@
+---
+topicId: MY-TAX-0045
+title: "말레이시아 인지세율 — 별표 1 참조"
+slug: "stamp-duty-rates"
+category: "taxation"
+subcategory: ["stamp-duty"]
+summary: "별표 1(First Schedule) 항목별 인지세율 참조표 — 부동산 및 주식 이전, 대출 및 담보, 리스, 그리고 정액 RM10 증서를 다룹니다."
+
+tier: "4"
+mode: "practical"
+contentType: "data"
+sensitivity: "none"
+
+answer: "말레이시아의 인지세는 인지세법 1949(Stamp Act 1949) 별표 1에 따라 거래가 아니라 증서 단위로 부과됩니다. 부동산 이전은 항목 32(a)에 따라 1%에서 4%의 구간 사다리, 주식 이전은 항목 32(b)에 따라 0.3%, 대출 및 담보 증서는 항목 27에 따라 0.5%, 리스는 항목 49에 따라 RM250당 척도로 부과됩니다. 대부분의 다른 계약은 정액 RM10이며, 이제 거의 모든 증서에 최소 RM10이 적용됩니다."
+keyTakeaways:
+  - "Duty attaches to the instrument, not the underlying transaction"
+  - "Property transfers: 1% on the first RM100,000, 2% to RM500,000, 3% to RM1,000,000, then 4%"
+  - "From 1 January 2026 a new item 32(ab) charges 8% on residential property sold to a foreign company or non-citizen non-PR"
+  - "Share transfers are RM3 per RM1,000, being 0.3%, on price or value whichever is greater — with no cap"
+  - "Loan and charge instruments are RM5 per RM1,000, being 0.5%, with a reduced SME scale"
+  - "The lease scale was rewritten on 1 January 2025 and the RM2,400 nil band was abolished"
+  - "Section 36CB imposes a minimum RM10 of duty on any instrument, except cheques and contract notes"
+appliesTo: "Company secretaries, conveyancers, finance teams and anyone computing duty before submitting an instrument for stamping."
+
+verificationNeeded:
+  - "There is no consolidated text of the Stamp Act 1949 incorporating the 2024 and 2025 Finance Act amendments — the rates here are assembled from the AGC reprint as at 1 January 2024 read together with Act 862, Act 863 and Act 874, and any later amending Act has not been traced"
+  - "The duty on item 2, affidavits and statutory declarations, could not be read cleanly from the consolidated text due to column misalignment and is therefore omitted from the table"
+  - "Currently-in-force stamp duty exemption and remission orders were not enumerated exhaustively; LHDN's own stamp duty order index lists nothing after P.U.(A) 470/2024 and appears stale, so first-home and other current exemption thresholds should be read from the Federal Gazette"
+  - "Item 12 (assignment) was substituted by Act 862 and its revised life-insurance bands are not reproduced here"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Stamp Act 1949 (Act 378), First Schedule, text as at 1 January 2024"
+    url: "https://lom.agc.gov.my/act-detail.php?act=378"
+    publisher: "Attorney General's Chambers"
+  - title: "Finance Act 2024 (Act 862) — Chapter IV, amendments to the Stamp Act 1949"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2592589_BI/Act%20862%20-FINANCE%20ACT%202024.pdf"
+    publisher: "Attorney General's Chambers"
+  - title: "Finance Act 2025 (Act 874) — amendments to the Stamp Act 1949"
+    url: "https://lom.agc.gov.my/act-detail.php?act=874"
+    publisher: "Attorney General's Chambers"
+  - title: "Garis Panduan Pengenaan Duti Setem — Jadual Pertama Akta Setem 1949"
+    url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"
+    publisher: "LHDN"
+  - title: "Stamp Duty Orders and Exemption Orders"
+    url: "https://www.hasil.gov.my/en/duti-setem/perintah-duti-setem/"
+    publisher: "LHDN"
+  - title: "Stamp Duty Exemptions and Relief"
+    url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
+    publisher: "LHDN"
+
+entity: "Stamp duty rates"
+relations:
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "governs", to: "stamp-act-1949" }
+  - { rel: "part-of", to: "stamp-duty-self-assessment" }
+related: ["stamp-duty-self-assessment", "stamp-duty-share-transfer", "stamp-duty-employment-contracts"]
+keywords: ["stamp duty rates Malaysia", "First Schedule Stamp Act 1949", "property transfer stamp duty", "share transfer stamp duty 0.3%", "tenancy agreement stamp duty", "kadar duti setem"]
+---
+
+인지세는 **거래가 아니라 증서**에 부과됩니다. 동일한 상업 거래도 무엇에 서명했고
+어느 별표 1 항목에 속하는지에 따라 인지세가 없을 수도, RM10일 수도, 여섯 자리
+숫자일 수도 있습니다. 항목을 정확히 고르는 것이 작업의 전부이며, 자진신고 하에서는
+이제 이것이 징수관(Collector)이 아니라 납세자의 일입니다.
+
+## 종가세 증서
+
+| 항목 | 증서 | 인지세 |
+| --- | --- | --- |
+| **32(a)** | 주식, 지분, 유가증권 및 특정 장부채권을 제외한 부동산의 이전 또는 매매 | 대가 또는 시장가치 중 큰 금액에 대하여: 최초 RM100,000에 **RM100당 RM1**; RM100,000 초과 RM500,000까지 **RM100당 RM2**; RM500,000 초과 RM1,000,000까지 **RM100당 RM3**; RM1,000,000 초과 **RM100당 RM4** |
+| **32(aa)** | **외국 법인, 또는 시민권자도 영주권자도 아닌 자에게** 하는 **비주거용** 부동산 이전 | 대가 또는 시장가치 중 큰 금액에 대하여 정액 **RM100당 RM4** |
+| **32(ab)** | 2026년 1월 1일부터 **외국 법인, 또는 시민권자도 영주권자도 아닌 자에게** 하는 **주거용 부동산** 매매 | 대가 또는 시장가치 중 큰 금액에 대하여 **RM100당 RM8** — **8%** |
+| **32(b)** | 주식, 지분 또는 유가증권의 이전 | 이전일의 가격 또는 가치 중 큰 금액에 대하여 **RM1,000당(또는 그 단수) RM3** — **0.3%** |
+| **32(c)** | 팩토링 계약에 따라 인가받은 은행, 투자은행 또는 금융회사에 하는 매출채권 또는 장부채권의 완전 매각 | **RM10** |
+| **27(a)(iii)** | 금전 상환을 위한 주(主)담보인 담보권 또는 저당권, 일반적인 경우 | **RM1,000당(또는 그 단수) RM5** — **0.5%** |
+| **27(a)(i)** | 동일하되, 대출 또는 샤리아 금융이 **중소기업(SME)**에 대한 경우 | 역년 내 합산 대출의 최초 RM250,000에 대하여 **RM1,000당 RM0.50**; RM1,000,000까지의 추가 금액에 대하여 **RM1,000당 RM2.50**; 그 이후 추가 RM1,000마다 **RM5** |
+| **27(a)(ii)** | 외화 대출, 또는 링깃 이외의 통화로 하는 샤리아 금융 | **RM1,000당(또는 그 단수) RM5** |
+| **27(b)** | 주담보가 적법하게 날인된 경우의 부수, 보조, 추가 또는 대체 담보 | 주담보 인지세의 **5분의 1**, **RM10 상한** |
+| **27(c)** | 형평법상 저당(equitable mortgage) | 담보권 인지세의 **2분의 1** |
+| **22(1)(a)** | 확정 기간 동안 일정 금액을 담보하는 채권, 약정, 대출, 서비스 또는 장비 리스 계약 | 그 총액에 대해 **담보권 또는 저당권**과 동일한 종가세 |
+| **49A** | 자금 조달 또는 상환 담보를 위한 알-이자라(Al-Ijarah) 원칙에 따른 리스 또는 리스 약정 | 그 총액에 대해 **담보권 또는 저당권**과 동일한 종가세 |
+| **71** | 무기명 주식 워런트 또는 주권 | **RM100마다 RM1** |
+
+## 리스 및 임대차 — 항목 49
+
+항목 49(a)는 일시금(fine) 또는 프리미엄이 없는 경우에 적용됩니다. 인지세는 **평균 연
+임대료 및 기타 대가**와 **기간**에 따라 달라집니다.
+
+**이 세부 항목은 재정법 2024(Finance Act 2024, Act 862)에 의해 2025년 1월 1일부터
+전면 대체되었습니다.** 연 임대료의 **RM250마다(또는 그 단수)** 부과되는 현행 척도는
+다음과 같습니다:
+
+| 리스 기간 | RM250(또는 그 단수)당 인지세 |
+| --- | --- |
+| 1년 이하 | **RM1.00** |
+| 1년 초과 3년 이하 | **RM3.00** |
+| 3년 초과 5년 이하 | **RM5.00** |
+| 5년 초과, 또는 기간이 정해지지 않은 경우 | **RM7.00** |
+
+여기서 두 가지 변화가 거의 모두를 놀라게 합니다:
+
+- **RM2,400 비과세 구간이 사라졌습니다.** 대체된 세부 항목에는 면제 기준이 없으므로,
+  인지세는 임대료의 첫 링깃부터 부과됩니다. "연 임대료가 RM2,400 이하이면 인지세
+  없음"이라고 여전히 인쇄하는 안내는 폐지된 법을 설명하는 것입니다.
+- **상위 세율이 오르고 구간이 하나 추가되었습니다.** 옛 척도는 세 구간에 걸쳐 RM1 /
+  RM2 / RM4였고, 현행은 네 구간에 걸쳐 RM1 / RM3 / RM5 / RM7입니다.
+
+항목 49의 다른 갈래:
+
+- **49(b)** — 임대료 없이 일시금 또는 프리미엄을 대가로 하는 경우: 그 대가에 대해
+  **양도(conveyance)**와 동일한 인지세.
+- **49(c)** — 일시금 또는 프리미엄 **및** 임대료가 있는 경우: 일시금 또는 프리미엄에
+  대한 양도 인지세, **더하기** 임대료에 대한 리스 인지세.
+- **49(d)** — 토지 산출물의 일정 비율 또는 부분이 유보되는 경우: (a), (b) 또는 (c)에
+  따른 인지세에 더하여 **RM10**.
+- **49(e)** — 적법하게 날인된 약정에 따라 부여되고 그 약정을 제시하는 경우: **RM10**.
+- **49(f)** — 그 밖의 경우: **RM10**.
+
+**면제:** 유보 임대료가 **연 RM200**을 초과하지 않는, 3년 이하의 확정 기간 농업
+리스.
+
+## 정액세 증서
+
+| 항목 | 증서 | 인지세 |
+| --- | --- | --- |
+| **4** | 별도로 특별히 부과되지 않는, 서명만으로 체결된 계약 또는 계약각서 | **RM10** |
+| **6** | 저당에 따른 관재인(receiver) 선임 | **RM10** |
+| **7** | 새로운 수탁자 선임 | **RM10** |
+| **22(3)** | 퇴직연금(superannuation annuity)의 부여 또는 계약 | **RM10** |
+| **22(4)** | 고등교육 또는 학업 과정을 위한 금전 담보 | **RM10** |
+| **23** | 채권, 담보권, 저당권 또는 기타 증서(면책 채권) | **RM10** |
+| **24** | 유산관리장(letters of administration) 취득에 관한 채권 | **RM10** |
+| **25** | 특별히 부과되지 않는 모든 종류의 채권 | **RM10** |
+| **29** | 수표, 일괄 납부하지 않는 한 | **RM1.00** — Act 862에 의해 2025년 1월 1일부터 15센에서 인상 |
+| **29A** | **회사 정관(constitution)** | **RM200** |
+| **34(a)** | 원본의 인지세가 RM10을 초과하지 않는 경우의 부본 또는 사본 | **원본과 동일한 인지세** |
+| **34(b)** | 그 밖의 경우의 부본 또는 사본 | **RM10** |
+| **35** | 종가세가 부과되지 않는 별도의 약정증서(deed of covenant) | **RM10** |
+| **37** | 모든 용익 또는 신탁의 선언 | **RM10** |
+| **38** | 달리 기술되지 않은 모든 종류의 증서 | **RM10** |
+| **50** | 보증서(letter of guarantee) | **RM10** |
+| **50A** | 담보설정서(letter of hypothecation) | **RM10** |
+| **51** | 배정서(letter of allotment) 및 포기서(letter of renunciation) | **RM10** |
+| **59(a)** | 매매 또는 증여를 대가로, 매매 또는 증여의 방식으로 부동산을 양도하는 위임장 | **매매 양도와 동일한 인지세** |
+| **59(b)** | 그 밖의 경우의 위임장 | **RM10** |
+| **61** | 어음 거절증서(protest of note) | **RM10** |
+| **68** | 모든 용익 또는 신탁의 철회 | **RM10** |
+| **78** | 신탁증서(trust receipt) | **RM10** |
+
+## 항목 4에 내장된 면제
+
+항목 4는 포괄적 계약 항목이며, 그 RM10 세율보다 자체 면제 목록이 더 중요합니다. 다음의
+계약 또는 각서인 경우 그 증서는 과세되지 **않습니다**:
+
+- 할부구매 계약을 제외한, **재화, 물품 또는 상품의 매매**를 위한 또는 이에 관한 것;
+- **임금이 월 RM3,000을 초과하지 않는 용역 또는 개인 고용**을 위한 것, 그리고 임금에
+  관한 선박 선장과 선원 간의 모든 계약 — 이 기준은 **재정법 2025(Finance Act 2025,
+  Act 874)에 의해 2026년 1월 1일부터 RM300에서 RM3,000으로 인상**되었습니다;
+- 그 대상이 **RM300 미만의 가치**인 것;
+- **모든 사안의 중재 회부**를 위한 것;
+- 은행에 **예치된 금전에 대한 이자** 지급을 위한 것;
+- 발행이 말레이시아 중앙은행(Bank Negara Malaysia)에 의해 승인된 **양도성
+  예금증서(negotiable certificate of deposit)의 환매**를 위한 것.
+
+이 변화는 항목 4의 RM10 세율을 훨씬 넘어서는 의미를 가집니다. 2025년 말까지 RM300
+기준은 사실상 모든 고용 계약이 과세될 만큼 낮았습니다. 2026년 1월 1일부터 **월
+RM3,000 이하를 지급하는 계약은 면제**되어, 말레이시아 노동력의 상당 부분이 과세에서
+완전히 제외됩니다.
+
+## 최소 인지세 규칙
+
+Act 862에 의해 **2025년 1월 1일**부터 삽입된 제36CB조는 증서에 대한 인지세가 **RM10
+미만이 될 경우 대신 RM10의 인지세가 부과된다**고 규정합니다 — 수표와 계약서(contract
+note)는 제외입니다. 따라서 소액 종가세 계산은 몇 링깃을 산출하는 대신 RM10으로 올림
+처리됩니다.
+
+## 면제와 감면은 어디서 찾는가
+
+세 가지 별개의 방식이 있으며, 서로 대체할 수 없습니다:
+
+- **제35조에 따른 일반 면제**, 별표 1의 *General Exemptions* 표제 아래에 열거됨.
+- 개별 항목에 부속된 **개별 면제** — 특히 항목 2, 4, 23, 24, 32, 49, 58.
+- **제80조에 따른 장관 면제 또는 경감**, 재무장관이 부여하고 P.U.(A) 명령으로 공표됨.
+  이를 청구할 때는 관보 참조를 인용하거나 재무부의 면제 서한을 제시해야 합니다.
+
+별도로, **제15조 및 제15A조에 따른 감면**은 회사 재구성과 합병, 그리고 관계회사 간
+부동산 이전을 다룹니다. 신청은 일반 날인 경로가 아니라 해당 주(州) 국장
+사무소(State Director's Office)로 갑니다.
+
+## 흔한 실수
+
+- **거래에 인지세를 부과하는 것.** 인지세는 각 증서에 결부되므로, 서명된 세 개의
+  계약으로 문서화된 거래는 인지세가 세 번 부과될 수 있습니다.
+- **항목 32(aa)와 32(ab)를 놓치는 것.** 외국인 또는 비시민 양수인은 비주거용
+  부동산에 정액 4%, 2026년 1월 1일부터 주거용 부동산에 8%를 냅니다 — 1% 시작 구간이
+  아닙니다.
+- **주식 이전에 상한을 적용하는 것.** 항목 32(b)에는 금전적 상한이 없습니다 — 전체
+  가격 또는 가치에 대해 0.3%입니다. 사람들이 기억하는 RM1,000 상한은 항목 31의
+  계약서(contract note)에 속합니다.
+- **부본을 잊는 것.** 사본은 항목 34(b)에 따라 RM10이 부과됩니다.
+- **RM2,400 임대차 면제를 인용하는 것.** 2025년 1월 1일에 폐지되었습니다.
+- **옛 RM1 / RM2 / RM4 리스 척도를 인용하는 것.** 이제 네 구간에 걸쳐 RM1 / RM3 /
+  RM5 / RM7입니다.
+- **회사 정관을 간과하는 것.** 항목 29A는 RM200을 부과합니다.
+
+## 다음 단계
+
+무엇이든 계산하기 전에 별표 1 항목을 파악하십시오 — 항목 선택이 자진신고 오류가
+발생하는 지점이며, 항목이 확정되면 세율은 기계적으로 따라옵니다. 그다음 제80조 명령
+또는 제15조 감면이 적용되는지 확인하십시오. 이들은 자동으로 적용되는 것이 아니라
+청구해야 하기 때문입니다.

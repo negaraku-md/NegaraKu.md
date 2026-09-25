@@ -1,0 +1,430 @@
+---
+topicId: MY-BIZ-0039
+title: "말레이시아의 외환정책: 창업자를 위한 FEP 고시 가이드"
+seoTitle: "말레이시아 외환정책: FEP 규칙"
+slug: "foreign-exchange-policy-malaysia"
+category: "business"
+subcategory: ["banking-finance"]
+summary: "말레이시아 중앙은행(BNM)의 외환정책 고시(Foreign Exchange Policy Notices)가 운영 중인 말레이시아 회사에 실제로 어떻게 적용되는지 — 거주자 지위, 외화 계좌, 해외 투자, 차입, 그리고 수출 대금 — 를 다룹니다."
+
+tier: "1"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "말레이시아에는 옛 의미의 외환 통제가 없지만, 말레이시아 중앙은행(BNM)의 외환정책 고시(Foreign Exchange Policy Notices)는 2013년 금융서비스법(Financial Services Act 2013) 제214조에 따라 발령된 구속력 있는 법입니다. 이 고시는 정상적인 사업이 하는 대부분의 것을 사전에 승인합니다. 운영 중인 회사에 대해서는 거의 모든 것을 두 개의 변수가 결정합니다. 각 당사자가 거주자(Resident)인지 비거주자(Non-Resident)인지, 그리고 귀사에 국내 링깃 차입(Domestic Ringgit Borrowing)이 있는지입니다. 이 둘을 바로 잡으면 한도는 대부분 저절로 따라옵니다."
+keyTakeaways:
+  - "The current FEP Notices came into operation on 1 October 2025 and revoked the Notices issued on 15 November 2024 — anything citing the 2021 or 2024 version is superseded"
+  - "Residency under the FEP is about incorporation and registration, not tax residence or shareholder nationality — a 100% foreign-owned Sdn Bhd is a Resident"
+  - "All Labuan entities are declared Non-Residents for FEP purposes, which changes the rules for every transaction with them"
+  - "Domestic Ringgit Borrowing is the master switch on investing abroad: without it a Resident Entity may invest in foreign currency assets in any amount, with it the ringgit-funded limit is RM50 million equivalent per calendar year"
+  - "A Resident Entity may borrow foreign currency in any amount from a licensed onshore bank, its own group or its direct shareholder, but only RM100 million equivalent in aggregate from unrelated non-residents"
+  - "Export proceeds must be received in Malaysia into a ringgit account or Trade Foreign Currency Account with a licensed onshore bank, no later than the export contract date and not exceeding six months from shipment"
+  - "Breach is a criminal offence under s.214(9) of the Financial Services Act 2013, not an administrative slip"
+appliesTo: "Founders, finance leads and company secretaries of Malaysian-incorporated companies that hold foreign currency, invest abroad, borrow offshore, export goods, or are owned by non-residents."
+
+faq:
+  - q: "Is my foreign-owned Sdn Bhd a resident or a non-resident under the FEP?"
+    a: "A Resident. The FEP definition of Resident includes any body corporate incorporated or established, or registered with or approved by any authority, in Malaysia. Shareholder nationality is irrelevant, and so is your income tax residence under s.8 of the Income Tax Act 1967. A company incorporated in Malaysia and wholly owned from Singapore is a Resident; its Singapore parent is a Non-Resident."
+  - q: "Can my company keep a foreign currency account?"
+    a: "Yes. Under paragraph 16 of Notice 4 a Resident Entity may open and maintain a Foreign Currency Account with a licensed onshore bank or with a non-resident financial institution, subject to Part B of Notice 3. The FEP distinguishes a Trade FCA from an Investment FCA, and which one funds a transaction changes whether an investment limit applies."
+  - q: "What is Domestic Ringgit Borrowing and why does it matter so much?"
+    a: "It is any ringgit borrowing a Resident obtains from another Resident, plus anything the Notices deem to be one. It matters because it is the trigger for the investment-abroad limits in Notice 3. Three things are expressly excluded: borrowing from a Resident entity with a parent-subsidiary relationship, borrowing from your direct shareholder, and any facility used only for sundry expenses or employees' expenses."
+  - q: "Do I need Bank Negara's permission before paying a foreign supplier?"
+    a: "No. Under paragraph 5 of Notice 4 a Resident may make or receive payment in foreign currency to or from a Non-Resident for any purpose, subject to the other Notices. The carve-outs are narrow and concern derivatives, not trade. The practical constraint is your bank's own documentation, not an approval from Bank Negara."
+  - q: "What happens if I breach a limit?"
+    a: "Undertaking a Schedule 14 transaction without written approval, or failing to comply with a condition of an approval or a direction of the Bank, is an offence under s.214(9) of the Financial Services Act 2013 and s.225(9) of the Islamic Financial Services Act 2013. It is criminal exposure, and it usually surfaces when a bank refuses a transaction rather than when a regulator knocks."
+  - q: "Where do I ask Bank Negara a question about my own facts?"
+    a: "The FEP Notices name two channels: the FEP Public Portal enquiry form at fep.bnm.gov.my, and the Director, Jabatan Dasar Pertukaran Asing at Bank Negara Malaysia. Reporting obligations under Notice 7 are submitted through bnm.my/fep."
+
+verificationNeeded: []
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-14
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-14
+sources:
+  - title: "Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025"
+    url: "https://www.bnm.gov.my/documents/20124/60360/Consolidated+Foreign+Exchange+Policy+Notices_2+Oct+2025_Update.pdf"
+    publisher: "Bank Negara Malaysia"
+    date: "2025-10-01"
+  - title: "FEP Notices index"
+    url: "https://www.bnm.gov.my/fep/policies/notices"
+    publisher: "Bank Negara Malaysia"
+  - title: "Notice 2 — Borrowing, Lending and Guarantee"
+    url: "https://www.bnm.gov.my/documents/20124/60360/Notice+2_Borrowing%2C+Lending+and+Guarantee_2+Oct+2025.pdf"
+    publisher: "Bank Negara Malaysia"
+  - title: "Notice 3 — Investment in Foreign Currency Asset"
+    url: "https://www.bnm.gov.my/documents/20124/60360/Notice+3_Investment+in+Foreign+Currency+Asset.pdf"
+    publisher: "Bank Negara Malaysia"
+  - title: "Notice 4 — Payment and Receipt"
+    url: "https://www.bnm.gov.my/documents/20124/60360/Notice+4_Payment+and+Receipt.pdf"
+    publisher: "Bank Negara Malaysia"
+  - title: "Notice 7 — Export of Goods"
+    url: "https://www.bnm.gov.my/documents/20124/60360/Notice+7_Export+of+Goods.pdf"
+    publisher: "Bank Negara Malaysia"
+  - title: "Declaration on Entities Created, Incorporated, etc. in Labuan"
+    url: "https://www.bnm.gov.my/documents/20124/60360/Declaration+on+entities+created%2C+incorporated+etc+in%20labuan.pdf"
+    publisher: "Bank Negara Malaysia"
+    date: "2013-06-28"
+  - title: "Financial Services Act 2013 (Act 758)"
+    url: "https://www.investmalaysia.gov.my/media/xrnl0vfp/financial-services-act-2013.pdf"
+    publisher: "Attorney General's Chambers"
+  - title: "Direction on Dealings with Specified Person and in Restricted Currency (effective 3 January 2022)"
+    url: "https://www.bnm.gov.my/documents/20124/60360/Direction+on+Dealings+with+Specified+Person.pdf"
+    publisher: "Bank Negara Malaysia"
+    date: "2022-01-03"
+  - title: "FEP policy page: Dealing with Specified Person and in Restricted Currency"
+    url: "https://www.bnm.gov.my/fep/policies/specified-person-currency"
+    publisher: "Bank Negara Malaysia"
+
+entity: "Foreign Exchange Policy Notices"
+relations:
+  - { rel: "administered-by", to: "bank-negara-malaysia" }
+  - { rel: "governs", to: "financial-services-act-2013" }
+  - { rel: "affects", to: "business" }
+related: ["labuan-company-vs-sdn-bhd", "foreign-ownership-malaysia"]
+keywords: ["foreign exchange policy malaysia", "FEP notices", "BNM exchange control", "domestic ringgit borrowing", "foreign currency account malaysia", "investment abroad malaysia", "resident non-resident BNM"]
+---
+
+말레이시아 창업자에게 외환 통제에 대해 물으면 대개 둘 중 하나의 답을 듣게 되는데, 둘 다 틀렸습니다.
+첫 번째는 말레이시아가 1998년에 외환 통제를 폐지했으니 생각할 것이 없다는 것입니다. 두 번째는
+승인의 덤불이 있어서 무엇 하나 건드리려면 은행의 준법 부서가 필요하다는 것입니다.
+
+진실은 그 사이에 있으며, 알 수 있는 것입니다. 말레이시아 중앙은행은 일곱 개의 외환정책 고시
+(Foreign Exchange Policy Notices)를 발행합니다. 이것들은 지침이 아닙니다. 2013년 금융서비스법
+(Financial Services Act 2013) 제214(2), 214(5), 214(6) 및 261조와 2013년 이슬람금융서비스법
+(Islamic Financial Services Act 2013)의 대응 조항에 따라 발령되며, 이 두 법의 제14부칙(Schedule 14)이
+그렇지 않으면 금지했을 거래에 대해 **사전에 승인을 부여**하는 방식으로 작동합니다. 이 고시가
+승인하지 않는 것은 무엇이든 은행의 서면 승인을 필요로 하며, 그것 없이 진행하는 것은 제214(9)조에
+따른 위법 행위입니다.
+
+**여기서 시작하십시오. 현행 고시는 2025년 10월 1일에 시행되었고 2024년 11월 15일에 발행된 고시를
+명시적으로 폐지했습니다.** 온라인의 거의 모든 창업자 대상 요약은 2021년 자유화 패키지를 서술합니다.
+이 글의 숫자를 포함하여, 어떤 숫자든 의존하기 전에 버전을 확인하십시오.
+
+## FEP가 실제로 규제하는 것과 규제하지 않는 것
+
+FEP는 아무것도 과세하지 않고, 얼마의 이익이 말레이시아를 떠나는지를 제한하지 않으며, 링깃에
+상한을 두지 않습니다. FEP가 규제하는 것은 특정한 거래 유형의 목록으로, 일곱 개의 고시로 묶여 있습니다.
+
+| 고시 | 주제 | 일반 SME가 실제로 마주치는 것 |
+| --- | --- | --- |
+| 1 | 통화, 금, 귀금속 거래 | 외환 매매, 선물 헤징 |
+| 2 | 차입, 대여, 보증 | 주주 대여금, 역외 시설, 보증 |
+| 3 | 외화 자산 투자 | 해외 회사 설립 또는 자금 조달 |
+| 4 | 지급과 수취 | 공급업체 대금 지급, FCA 개설, 본국 송금 |
+| 5 | 유가증권 및 금융상품 | 비거주자에 대한 주식 또는 어음 발행 |
+| 6 | 통화의 수출입 | 국경을 넘어 현금 운반 |
+| 7 | 재화의 수출 | 수출 대금 수취 |
+
+고시 5와 6은 일반적인 운영 회사에는 거의 영향을 주지 않습니다. 고시 2, 3, 4, 7은 끊임없이
+영향을 주며, 대개 은행이 질문할 때까지 아무도 그것을 깨닫지 못합니다.
+
+전문(Preamble)과 해석(Interpretation) 문서도 있습니다. 이를 여덟 개 중 가장 중요한 것으로 다루십시오.
+그 안의 정의가 조문의 조항보다 훨씬 더 자주 답을 결정하기 때문입니다.
+
+말레이시아 중앙은행은 같은 고시 색인에서 고시와 나란히 주제별 FAQ 문서를 발행합니다 — 거주자와
+비거주자의 외환 매매, 거주자의 차입, 보증, 외화 자산 투자, 외화 지급, 재화의 수출과 같은 영역을
+다루며, 각자의 일정에 따라 개정되는 별개의 문서들입니다. 이것들은 단일 통합 FAQ가 아닙니다.
+경계선상의 거래에 대해서는 어떤 입장에 의존하기 전에 해당 고시에 맞는 현행 주제별 FAQ 문서를
+확인하십시오.
+
+## 왜 거주자 지위가 핵심 변수인가
+
+FEP의 모든 규칙은 **거주자(Resident)**가 **비거주자(Non-Resident)**와 할 수 있는 어떤 것, 또는 그 반대로
+표현됩니다. 거주자 지위를 틀리면 그 이후의 모든 결론이 틀립니다.
+
+해석 규정은 거주자를 다음과 같이 정의합니다.
+
+- 말레이시아 국민, 단 말레이시아 밖 국가에서 영주권을 취득하고 말레이시아 밖에 거주하는 국민은 제외;
+- 말레이시아에서 영주권을 취득하고 통상적으로 말레이시아에 거주하는 비국민;
+- **말레이시아에서 설립되거나 창설되거나, 또는 어떤 당국에 의해 등록되거나 승인된 법인**;
+- 말레이시아에서 어떤 당국에 의해 등록되거나 승인된 비법인 단체; 또는
+- 정부 또는 주(州) 정부.
+
+세 번째 항목을 다시 읽으십시오. 창업자들이 틀리는 바로 그 항목이기 때문입니다. **거주자 지위는
+소유가 아니라 설립에 좌우됩니다.** 델라웨어(Delaware) 법인이 100% 소유한 Sdn Bhd는 거주자입니다.
+그 델라웨어 모회사는 비거주자입니다. 따라서 Sdn Bhd가 모회사에 지급하는 배당은 거주자가 비거주자에게
+하는 지급이며, 고시 4가 이를 규율합니다.
+
+이것은 또한 세무상 거주지 판정과는 다른 기준입니다. 1967년 소득세법(Income Tax Act 1967) 제8조에
+따라 회사는 경영과 지배가 행사되는 곳에서 세무상 거주자가 되며, 이것이 바로 전적으로 해외에서
+운영되는 말레이시아 설립 회사가 FEP 목적으로는 말레이시아 거주자이면서 세무상으로는 비거주자일 수
+있는 이유입니다. 두 개의 제도, 두 개의 기준이며, 이들은 갈라집니다.
+
+비거주자 정의는 사람들이 예상하지 못하는 것들을 포섭합니다. 그것은 **거주자 회사의 해외 지점,
+자회사, 지역 사무소, 판매 사무소 또는 대표 사무소**를 명시적으로 포함합니다. 귀사 자신의
+자카르타(Jakarta) 지점은 귀사에 대한 비거주자 거래 상대방입니다.
+
+### 라부안 함정
+
+말레이시아 중앙은행은 2013년 6월 28일에 발령되어 6월 30일부터 효력을 발생한 별도의 문서로,
+FSA 제214조 및 제215조, IFSA 제225조 및 제226조, 그리고 고시의 목적상 **모든 라부안(Labuan) 법인이
+비거주자임**을 선언했습니다. 유일한 미묘한 점은, 라부안 은행업 또는 라부안 보험이나 타카풀 사업을
+영위하는 라부안 법인의 경우 이 선언이 인가 시점에 효력을 발생한다는 것입니다.
+
+그 결과는 놓치기 쉽고 비용이 큽니다. 자기 라부안 계열사에 대여하는 KL Sdn Bhd는 거주자가 비거주자에게
+대여하는 것입니다. 라부안 법인에 유지되는 외화 계좌에 예치된 돈은 **역외 외화 자산(Foreign Currency
+Asset Offshore)**이며 — 고시가 그렇게 명시합니다 — 따라서 귀사의 해외 투자 한도에 산입됩니다. 이를
+추적하지 않고 말레이시아 법인과 라부안 법인 사이에서 현금을 옮기는 그룹은 단 한 링깃도 국외로 나가지
+않은 채 연간 여유 한도를 소진할 수 있습니다.
+
+## 국내 링깃 차입: 아무도 설명하지 않는 스위치
+
+거주자 지위가 첫 번째 변수라면, **국내 링깃 차입(Domestic Ringgit Borrowing)**은 두 번째이며,
+귀사가 해외에 얼마를 투자할 수 있는지를 결정하는 것입니다.
+
+국내 링깃 차입은 거주자가 다른 거주자로부터 얻은 링깃 차입 일체에, 고시가 그것으로 간주하는 의무를
+더한 것을 뜻합니다. 거주자 법인은 또한 모자회사 관계에 있는 다른 거주자 법인이 국내 링깃 차입을 가질
+때 그것을 가진 것으로 **간주됩니다** — 그래서 자회사는 자신은 아무것도 차입하지 않고도 모회사의 지위를
+물려받을 수 있습니다.
+
+세 가지는 명시적으로 국내 링깃 차입이 **아닙니다**.
+
+1. 모자회사 관계에 있는 다른 거주자 법인으로부터 얻은 차입;
+2. 자신의 **직접 주주(Direct Shareholder)** — 거주자 법인에서 최소 10%의 실효 지분을 가진 주주로
+   정의됨 — 로부터 얻은 차입; 그리고
+3. 오직 **잡비(Sundry Expenses)나 직원 경비(Employees' Expenses)**에만 사용되는 시설.
+
+고시는 두 경비를 모두 정의합니다. 잡비는 사무용품, 소프트웨어 및 온라인 구독과 같은 부수적 서비스,
+그리고 일상적 사업 운영을 원활하게 하는 기타 소액 경비에 대한 소액이고 드문 지출입니다. 직원 경비는
+여행, 접대, 건강, 보험 및 타카풀을 포함하되 투자를 제외한 사업 관련 경비입니다.
+
+그 세 번째 제외 항목이 실무적으로 유용한 것입니다. SaaS 구독과 직원 여행에 사용되는 법인 신용카드는,
+고시의 문언상, 귀사에 국내 링깃 차입 지위를 부여하지 않습니다. 창고를 위한 기한부 대출은 부여합니다.
+
+**대부분의 공표된 요약은 국내 링깃 차입을 단순히 "은행 대출이 있느냐"로 취급합니다.** 그 정의는
+주주 및 그룹 내 자금 조달에 관해서는 그 간략한 표현보다 좁고, 간주 그룹 지위에 관해서는 더 넓으며,
+양방향 모두 중요합니다.
+
+## 외화 계좌
+
+고시 4의 제16항은 거주자 법인이 국내 인가 은행이나 비거주자 금융기관에 외화 계좌를 개설하고 유지하는
+것을, 고시 3 B부에 따라 허용합니다. 개인은 제14항에 따라 병렬적 허가를 받으며, 비거주자 개인과 공동으로
+개설하는 것도 포함됩니다.
+
+운영상 중요한 구분은 해석 규정이 이름 붙인 두 계좌 유형, 즉 **무역 FCA(Trade FCA)**와 **투자 FCA
+(Investment FCA)** 사이의 구분입니다. 고시는 어느 계좌에 돈이 있거나 어느 계좌로 옮겨지느냐에 반복적으로
+권한을 연동시킵니다. 예를 들어, 고시 4에 따라 거주자 수출업자와 글로벌 공급망(Global Supply Chain)의
+거주자 법인 사이에 허용되는 국내 외화 지급은, 그 지급이 링깃의 환전이 **아니라** 지급인의 무역 FCA나
+외화 무역 금융 시설에서 조달되고, 수취인의 무역 FCA로 입금될 것을 요구합니다.
+
+마찬가지로, 고시 3에서 RM5천만의 연간 한도는 링깃의 환전, **무역 FCA**, 국내 인가 은행으로부터의 특정
+외화 차입, 그리고 자산 스왑에서 조달된 자금에 적용됩니다. 진정으로 말레이시아 밖에서 조달된 외화는
+한도 밖에 완전히 놓입니다.
+
+따라서 "우리는 USD를 국내에 보유하고 있다"라는 문장은 완전한 답이 아닙니다. 어느 FCA인지, 그리고
+그 USD가 어디에서 왔는지가 은행이 실제로 물어볼 것입니다.
+
+## 지급과 수취
+
+고시 4의 기본 규칙은 그 평판보다 관대합니다.
+
+**거주자에서 비거주자로.** 제5항에 따라, 거주자는 다른 고시의 준수를 조건으로 비거주자에게 또는
+비거주자로부터 **어떤 목적으로든** 외화로 지급하거나 수취할 수 있습니다. 세 가지 제외는 모두 무역이
+아니라 파생상품 사안입니다. USD로 베트남 도급업체에 지급하는 데는 승인이 필요 없습니다.
+
+**거주자에서 거주자로.** 이것이 제한적인 방향입니다. 두 거주자 사이의 외화 지급은 나열된 일련의
+목적에 대해서만 허용됩니다. 직계 가족 간; 말레이시아 밖에서의 교육, 취업 또는 이주를 위한; 외화 사업을
+영위하는 국내 인가 은행 또는 인가 국제 타카풀 사업자와의 거래; 그리고 위의 글로벌 공급망 사례를 포함한
+짧은 목록의 결제입니다. 두 말레이시아 회사가 통상적 국내 거래에 대해 서로에게 USD로 청구하는 것은
+그 목록에 **없습니다**.
+
+**비거주자가 말레이시아에서 본국으로 송금.** 고시 4 E부는 비거주자가 말레이시아에서 자금을, 얻은 소득과
+링깃 자산(Ringgit Asset) 처분 대금을 포함하여, 두 가지 조건으로 본국 송금하는 것을 허용합니다. 송금이
+**외화로** 이루어질 것, 그리고 링깃의 외화 환전이 고시 1 B부에 따라 이루어질 것입니다.
+
+상한도 없고 승인도 없습니다. 다만 첫 번째 조건이 실무에서 무엇을 의미하는지에 유의하십시오. FEP는
+말레이시아를 떠나는 돈이 외화로 떠난다는 것을 상정합니다. 역외 링깃 계좌로 링깃 송금을 요구하는
+비거주자 주주는 고시가 그런 형태로 승인하지 않는 것을 요구하는 것입니다.
+
+## 해외 투자
+
+여기가 숫자들이 사는 곳이며, 국내 링깃 차입 스위치가 진가를 발휘하는 곳입니다. 고시 3 B부가 거주자
+법인을 규율합니다.
+
+**국내 링깃 차입이 없으면**, 거주자 법인은 외화 자산에 **어떤 금액이든** 투자할 수 있습니다. 상한도,
+승인도, 연간 재설정도 없습니다.
+
+**국내 링깃 차입이 있으면**, 그 법인은 다음과 같이 투자할 수 있습니다.
+
+- 재화 수출(Export of Goods) 대금을 제외하고 말레이시아 밖에서 조달된 외화 자금을 사용하여 **어떤
+  금액이든**;
+- 고시 2 B부에 따라 승인된 외화 차입에서 나온 외화 자금을 사용하여 **어떤 금액이든**;
+- **해외 직접 투자(Direct Investment Abroad)**를 위해 국내 인가 은행으로부터 차입한 외화를 사용하여
+  **어떤 금액이든**; 그리고
+- 그 외에는, 자금이 링깃의 환전, 무역 FCA, 해외 직접 투자 외의 목적으로 국내 인가 은행으로부터의 외화
+  차입, 또는 링깃 표시 금융 자산을 라부안 법인이나 말레이시아 밖의 자산과 교환하는 데서 나오는 경우,
+  해당 법인과 모자회사 관계에 있는 다른 거주자 법인 전체에 걸쳐 합산하여 **역년(曆年)당 RM5천만 상당액**.
+
+여기서 두 개의 정의가 무게를 갖습니다. **해외 직접 투자(Direct Investment Abroad)**는 비거주자 법인
+또는 라부안 법인의 지분 10% 이상의 소유나 지배를 낳는 투자, 또는 그러한 법인에 대한 그룹 내 회사 간
+대여, 또는 투자자가 프로젝트 비용의 10% 이상을 부담하거나 이익의 10% 이상에 대한 권리를 갖거나 경영
+지배권을 갖는 해외의 비법인 벤처나 프로젝트에 대한 자본 지출을 뜻합니다. **역외 외화 자산(Foreign
+Currency Asset Offshore)** — 고시가 예전에 "해외 투자(Investment Abroad)"로 불렸다고 표시한 것 — 은
+매우 넓게 규정되며, 말레이시아 밖 또는 라부안 법인에 유지되는 외화 계좌의 예금, 비거주자에게 제공된
+대여, 그리고 해외에서 사업 약정을 설정하는 데서 발생하는 운전 자본을 포함합니다.
+
+거주자 개인, 개인사업자 또는 일반 조합의 경우 A부의 해당 수치는 **역년당 RM1백만 상당액**이며, 해당
+개인과 그가 소유한 개인사업자나 일반 조합 전체에 걸쳐 합산되고, 교육, 취업 또는 이주를 위해 취득한
+해외 부동산에 대해서는 예외가 있습니다.
+
+실행할 만한 구조적 통찰은 이것입니다. **한도는 투자 규모 규칙이 아니라 자금 출처 규칙입니다.** 국내
+링깃 차입이 있는 법인이라도 진정으로 역외의 외화로, 또는 해외 직접 투자를 위해 특별히 인출한 국내 은행
+시설로 해외 자회사를 자금 조달한다면, RM5천만 수치에 전혀 제약받지 않습니다.
+
+## 차입
+
+고시 2 B부가 거주자 법인을 규율하며, 통화와 대여자가 누구인지에 따라 뚜렷하게 갈립니다.
+
+**비거주자로부터의 링깃.** 비거주자 금융기관을 제외하고, 그룹 밖에서 자금을 조달하는 데 사용되는 비거주자
+특수목적법인을 제외한, 자기 그룹 내 비거주자(**비거주자 직접 주주 포함**)로부터 말레이시아 내 **실물
+부문 활동(Real Sector Activity)**을 자금 조달하기 위해서는 어떤 금액이든 허용됩니다. 그 외에는 상한이
+해당 법인과 모자회사 관계에 있는 다른 거주자 법인 전체에 걸쳐 산정된 **총액 기준 RM1백만**입니다. 별도로,
+다자간개발은행 또는 적격개발금융기관으로부터는 어떤 금액이든 차입할 수 있으며, 명시된 조건 내에서
+상환우선주나 채권 및 수쿠크를 통해 비거주자로부터 링깃을 조달할 수 있습니다.
+
+실물 부문 활동(Real Sector Activity)은 정의되어 있습니다. 주거용 또는 상업용 부동산의 건설이나 구입
+(건설이나 생산에 사용되지 않을 토지는 제외), 또는 재화나 용역의 생산이나 소비 — 금융 서비스 활동과
+유가증권 또는 금융상품의 구입은 명시적으로 **제외**합니다.
+
+**외화.** 거주자 법인은 국내 인가 은행, 자기 그룹 내 법인, 또는 자기 직접 주주로부터 **어떤 금액이든**
+외화를 차입할 수 있으며, 다른 거주자에게 외화 채권이나 수쿠크를 발행함으로써도 가능합니다. 그 밖의
+누구로부터든 — 그룹 밖의 비거주자, 비거주자 금융기관, 또는 그룹 밖에서 자금을 조달하는 비거주자 SPV —
+상한은 다시 모자회사 그룹 기준으로 **총액 기준 RM1억 상당액**입니다.
+
+이 규칙의 형태가 핵심입니다. **주주 및 그룹 내 자금 조달은 사실상 무제한이고, 제3자 역외 레버리지는
+제한됩니다.** 말레이시아 중앙은행의 관심사는 외화 대외 익스포저 총액이지, 자기 사업에 대한 특수관계자
+자금 조달이 아닙니다. 외국 모회사가 주주 대여금을 통해 말레이시아 자회사에 자본을 대는 것은 FEP가
+한도 없이 승인하는 것입니다.
+
+해석 규정에서 "차입(Borrowing)"이 무엇을 제외하는지도 유의하십시오. 공급자가 연장한 외상 거래 기간,
+비금융 보증, 운용 리스 시설, 소구권 없는 팩토링 시설, 그리고 특정한 개인 신용카드 및 주거용 또는 차량
+시설입니다. 통상적 공급업체 대금 지급 조건은 차입이 아닙니다.
+
+## 수출 대금
+
+고시 7은 짧으며, 허가를 부여하는 것이 아니라 의무를 부과하기 때문에 가장 자주 모르는 새 위반되는
+고시입니다.
+
+거주자 수출업자는 자기 재화 수출(Export of Goods)의 대금을 말레이시아에서 **수취하여야 합니다**.
+
+- 링깃 또는 외화로, **국내 인가 은행**에 유지되는 링깃 계좌 또는 **무역 FCA**에 예치하여;
+- **전액(full value)**으로, 부록 A(Appendix A)에 나열된 승인된 공제와 부록 B(Appendix B)의 승인된
+  상계 또는 탕감 약정에 따른 금액만 제외하고; 그리고
+- 수출 계약의 지급일보다 먼저 또는 그에 따라 수취하되, **그 지급일은 선적일로부터 6개월을 초과해서는
+  안 됩니다**. 부록 C(Appendix C) 사유가 적용되는 경우, 대금은 선적으로부터 **최대 24개월**까지 수취될
+  수 있습니다.
+
+부록 A의 승인된 공제는 상업적으로 정상적인 것들입니다. 광고나 판촉을 포함한 대리점 수수료, 운임과
+보험을 포함한 취급 수수료, 행정 착오, 수출업자에 의한 할인, 품질 또는 수량 클레임, 선적 부족(short-
+shipment), 선적 배제(shut-out), 사기로 인한 탕감, 수출업자가 소유하지 않은 부가 가치 투입물, 그리고
+매수인의 청산입니다.
+
+부록 C의 연장 사유는 두 가지로 나뉩니다. 첫째, 수출업자의 통제 밖 지연 — 매수인의 재정 곤란, 매수인의
+취소·지연·분쟁·무응답, 매수인 국가의 외환 제한, 품질 또는 수량 클레임, 또는 사기입니다. 둘째, 위탁
+판매를 위해 최대 24개월의 신용 조건으로 수출된 재화, 또는 시험 및 시운전을 수반하는 재화입니다.
+
+부록 B는 알아 둘 가치가 있는 것으로, 실제 현금 관리 문제를 해결하기 때문입니다. 수출업자는 자기 수출
+대금을 자기 재화 및 용역 수입, 매수인의 보증 클레임, **자기 배당 지급**, 기타 경상 계정 거래, 또는 고시 2에
+따라 얻은 외화 차입의 상환에 상계하는 경우 **전액에 못 미치게** 수취할 수 있습니다. 외국 모회사에 대한
+배당을 그 모회사로부터의 수취채권과 상계하는 것은 고시가 상정하는 것입니다.
+
+부록 D(Appendix D)는 특정 수출을 제1항에서 완전히 제외합니다. 국경 무역 협정에 따른 재화, 그리고
+판매를 위한 것이 아닌 재화 — 선물, 기부, 개인 소지품, 견본, 가공·시험·수리·교환·전시를 위해 수출되어
+말레이시아로 돌아올 재화, 그리고 전시 후 또는 임대 종료 시 떠나는 비거주자의 재화입니다.
+
+### 두 가지 보고 의무
+
+C부는 대부분의 SME가 결코 마주치지 않지만 확인해야 하는 의무를 부과합니다.
+
+- 거주자 수출업자의 **연간 총 재화 수출이 전년도에 RM2억5천만 상당액을 초과한** 경우, 은행이
+  요구하는 대로 `bnm.my/fep`를 통해 재화 수출에 관한 보고서를 은행에 제출하여야 합니다; 그리고
+- 대금이 선적으로부터 **24개월** 이내에 수취되지 않는 경우, 수출업자는 미수 대금을 **각 역년 종료 후
+  21일 이내에** 은행에 통지하여야 하며, 다시 `bnm.my/fep`를 통해 합니다.
+
+두 번째 의무에는 매출 기준치가 없습니다. 24개월보다 오래된 부실 채권 하나가 있는 소규모 수출업자에게도
+신고 의무가 있습니다.
+
+## 헤징
+
+고시 1은 거주자가 자기 계정으로 링깃에 대해 외화를 국내 인가 은행과 **현물(spot) 기준**으로는 추가
+조건 없이 매매할 수 있게 하고, 국내 인가 은행과 **선물(forward) 기준**으로는 그 거래가 **확정 약정(Firm
+Commitment)이나 예상(Anticipatory) 기준**이며, 확정 약정이 소멸하거나 예상 거래가 실현되지 않을 때
+종료되는 것을 조건으로 허용합니다.
+
+예상(Anticipatory)은 후하게 정의됩니다 — 과거 실적이나 증빙 서류에 기초한 예상 경상 계정 거래, 또는
+서류로 뒷받침되는 예상 금융 계정 거래입니다. 수주 잔고를 가진 수출업자는 그것을 헤징할 수 있습니다.
+허용되지 않는 것은 기초 거래가 전혀 없는 선물 포지션입니다.
+
+한 외화를 다른 외화에 대해 국내 인가 은행과 매매하는 것은 제5항에 따라 현물이든 선물이든 제한이
+없습니다.
+
+## 제한 통화와 지정 대상자
+
+일곱 개의 고시와는 별개로, **2022년 1월 3일**에 효력을 발생한 말레이시아 중앙은행의 **지정 대상자와의
+거래 및 제한 통화 거래에 관한 지시(Direction on Dealings with Specified Person and in Restricted
+Currency)**는 지정 대상자(Specified Person)와의 어떤 거래 또는 제한 통화(Restricted Currency)의 어떤
+거래도 금지합니다. 이는 2013년 금융서비스법 제216(1) 및 261조와 2013년 이슬람금융서비스법 제227(1) 및
+272조에 따라, 국익상 장관의 승인을 받아 발령되었으며, 2020년 4월 30일에 발령된 이전 지시를 대체했습니다.
+
+**제한 통화(Restricted Currency)**는 이스라엘의 법정 통화이며, 그에 대한 어떤 권리, 증서 또는 디지털
+표현을 포함합니다. **지정 대상자(Specified Person)**는 이스라엘 국가, 그 시민이나 영주권자, 그리고
+이스라엘에서 설립되거나 형성된 어떤 법인 — 그 법인의 이스라엘 밖 직접 자회사나 지점 포함 — 입니다.
+이 지시는 지정 대상자와의 어떤 거래와 제한 통화의 어떤 거래도 금지하고, 은행의 사전 서면 승인 없이 그
+어느 쪽을 위한 계좌를 개설하는 것을 금지하며, 특정 국제 재화 및 용역 무역을 예외로 둡니다. 이 문서는
+고시 밖에 있기 때문에, 모든 FEP 고시 기준을 통과하는 거래 상대방이라도 여전히 이에 걸릴 수 있습니다.
+
+## 흔한 실수
+
+**외국계 Sdn Bhd가 비거주자라고 가정하기.** 그것은 거주자입니다. 이 하나의 오류가 차입, 투자,
+지급에 대한 분석을 뒤집으며, 시장에서 가장 흔한 것입니다.
+
+**세무상 거주지와 FEP 거주지를 같은 기준으로 취급하기.** 이들은 서로 다른 법령의 서로 다른 기준이며,
+같은 회사에 대해 일상적으로 다른 답을 냅니다.
+
+**라부안이 FEP상 역외라는 것을 잊기.** 라부안 법인의 외화 계좌에 예치된 현금은 역외 외화 자산입니다.
+라부안 재무 또는 지주 법인을 둔 그룹은 자신이 쓰고 있는지도 모른 채 투자 여유 한도를 소진합니다.
+
+**RM5천만과 RM1억 한도를 회사 단위로 읽기.** 둘 다 모자회사 관계에 있는 거주자 법인 전체에 걸쳐 총액으로
+산정됩니다. 여러 말레이시아 회사를 둔 그룹은 하나의 통을 공유합니다.
+
+**국내 링깃 차입이 어떤 은행 대출이든 의미한다고 가정하기.** 주주 및 그룹 내 링깃 자금 조달은 제외되고,
+잡비나 직원 경비에만 사용되는 시설도 제외됩니다 — 반면 자매회사의 차입은 간주 규칙을 통해 귀사에
+귀속될 수 있습니다.
+
+**6개월 수출 대금 시계를 놓치기.** 그것은 선적일로부터 진행되며 허가가 아니라 의무입니다. 우호적인
+해외 매수인에 대한 긴 신용 조건은 어떤 은행의 지적도 없이 귀사를 위반 상태로 몰 수 있습니다.
+
+**2021년 자유화 패키지를 인용하기.** 시행 중인 고시는 2025년 10월 1일에 시행되어 2024년 11월 15일 판을
+폐지했습니다. 오래된 글에서 반복된 수치는 사용하기 전에 현행 PDF에 비추어 다시 읽어야 합니다.
+
+## 다음 단계
+
+귀사 자신의 상황을 이 순서로 검토하십시오. 귀사 자신의 해외 지점과 라부안 법인을 포함하여 귀사가
+거래하는 모든 법인의 거주자 지위를 확정하십시오. 그런 다음 귀사의 말레이시아 법인, 또는 그와 모자회사
+관계에 있는 어떤 거주자 법인이 국내 링깃 차입을 갖고 있는지를 판단하고 — 그렇다고 결론 내리기 전에 세
+가지 제외 항목을 확인하십시오. 그 두 답이 귀사에 적용되는 거의 모든 한도를 정합니다.
+
+그런 다음 귀사의 실제 흐름을 올바른 고시에 대응시키십시오. 공급업체와 주주 지급은 고시 4로, 역외 자금
+조달은 고시 2로, 해외 자회사나 역외 예금은 고시 3으로, 그리고 수출 채권은 6개월 시계와 두 가지 보고
+의무를 가진 고시 7로 말입니다.
+
+거래가 고시에 의해 승인되지 않는 경우, 그 경로는 FEP 공개 포털 문의 양식 `fep.bnm.gov.my`를 통하거나
+외환정책국(Jabatan Dasar Pertukaran Asing) 국장에게 서면으로 요청하는 은행의 서면 승인입니다. 은행이
+처리를 거절한 후가 아니라, 거래 전에 그렇게 하십시오.

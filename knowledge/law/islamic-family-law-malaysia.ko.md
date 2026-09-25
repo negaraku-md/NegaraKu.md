@@ -1,0 +1,151 @@
+---
+topicId: MY-LAW-0078
+title: "이슬람 가족법: 혼인, 이혼 및 양육권"
+seoTitle: "말레이시아 이슬람 가족법: 혼인, 이혼, 하다나"
+slug: "islamic-family-law-malaysia"
+category: "law"
+subcategory: ["syariah"]
+summary: "말레이시아의 이슬람 가족법 — 혼인, 일부다처, 탈라크(talaq), 파사크(fasakh), 쿨루크(khuluk), 부양(nafkah) 및 하다나(hadhanah) — 에 대한 서술적 안내이며, 각 주의 법령과 연방 직할구에 대한 Act 303에 성문화된 대로 다룹니다."
+
+tier: "S"
+mode: "practical"
+contentType: "law"
+sensitivity: "religion"
+
+answer: "말레이시아 무슬림의 혼인, 이혼 및 자녀 양육은 각 주와 연방 직할구가 제정한 이슬람 가족법에 의해 규율되며 샤리아 법원(Syariah Court)이 집행합니다. 연방 직할구의 경우, 근거는 이슬람 가족법(연방 직할구)법 1984(Islamic Family Law (Federal Territories) Act 1984, Act 303)로, 혼인 요건, 탈라크(talaq)·파사크(fasakh)·쿨루크(khuluk)의 절차, 부양(nafkah) 청구 및 자녀의 하다나(hadhanah) 권리를 정합니다. 이는 주의 관할 사항이므로, 규정은 주마다 다소 다를 수 있습니다."
+keyTakeaways:
+  - "Undang-undang keluarga Islam adalah bidang kuasa negeri; setiap negeri dan Wilayah Persekutuan mempunyai enakmen atau aktanya sendiri, dan Mahkamah Syariah membicarakannya."
+  - "Di bawah Akta 303, umur minimum nikah ialah 18 tahun (lelaki) dan 16 tahun (perempuan), kecuali dengan kebenaran bertulis Hakim Syarie (seksyen 8)."
+  - "Poligami memerlukan kebenaran bertulis Mahkamah terlebih dahulu, dan Mahkamah perlu berpuas hati perkahwinan itu adil atau perlu serta tidak mendatangkan darar syarie (seksyen 23)."
+  - "Perceraian merangkumi talaq, fasakh, cerai tebus talaq (khuluk), ta'liq, dan li'an — kebanyakannya disahkan atau diperintahkan oleh Mahkamah (seksyen 47-52)."
+  - "Hak hadhanah (jagaan) tamat apabila anak lelaki mencapai 7 tahun dan anak perempuan 9 tahun, dan boleh dilanjutkan oleh Mahkamah sehingga 9 dan 11 tahun (seksyen 84)."
+appliesTo: "Orang Islam di Malaysia, pasangan yang berkahwin mengikut Hukum Syarak, pelajar undang-undang, dan sesiapa yang ingin memahami sistem Mahkamah Syariah."
+
+faq:
+  - q: "Adakah undang-undang keluarga Islam sama di seluruh Malaysia?"
+    a: "Tidak sepenuhnya. Ia adalah bidang kuasa negeri, jadi setiap negeri menggubal enakmennya sendiri dan Wilayah Persekutuan tertakluk kepada Akta 303. Rangka dan istilahnya serupa, tetapi butiran tertentu boleh berbeza antara negeri."
+  - q: "Bolehkah suami menceraikan isteri di luar mahkamah?"
+    a: "Talaq idealnya dilafazkan di hadapan Mahkamah. Jika dilafazkan di luar mahkamah, ia perlu dilaporkan kepada Mahkamah Syariah untuk pengesahan; portal Kerajaan menyatakan tempoh pelaporan tujuh hari."
+  - q: "Siapa yang paling berhak menjaga anak selepas cerai?"
+    a: "Di bawah seksyen 81 Akta 303, ibu adalah orang yang paling berhak kepada hadhanah anak kecil. Jika ibu hilang kelayakan mengikut Hukum Syarak, hak itu berpindah mengikut susunan keutamaan yang ditetapkan, dengan kebajikan anak sebagai pertimbangan utama."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+revision: 0
+verificationNeeded:
+  - "Istilah fiqh 'syiqaq' bagi seksyen 48 — tajuk Inggeris rasmi Akta 303 hanya 'Arbitration by Hakam' (timbang tara oleh Hakam); rujukan 'syiqaq' ialah huraian fiqh (teks Melayu rasmi menggunakan 'syiqaq'). Sahkan padanan istilah pada enakmen negeri berkenaan."
+  - "Nombor seksyen, umur minimum nikah, dan butiran peruntukan pada enakmen negeri masing-masing — mungkin berbeza daripada Akta 303 (Wilayah Persekutuan) dan perlu disemak terhadap teks enakmen negeri berkenaan."
+  - "Tempoh pelaporan tujuh hari bagi talaq di luar mahkamah — dinyatakan oleh portal Kerajaan (MyGovernment); sahkan terhadap peruntukan/prosedur negeri yang berkaitan."
+  - "Peruntukan pilihan anak mumaiyiz selepas tamat tempoh hadhanah (seksyen 84) — sahkan pemakaian dan tafsiran semasa Mahkamah."
+revisions:
+  - revision: 0
+    date: 2026-08-07
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-07
+sources:
+  - title: "Islamic Family Law (Federal Territories) Act 1984 (Act 303) — Online Version of Updated Text of Reprint"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20303%20(11.3.2014).pdf"
+    publisher: "Jabatan Peguam Negara (Attorney General's Chambers), Laws of Malaysia"
+  - title: "Perceraian Pasangan Islam"
+    url: "https://www.malaysia.gov.my/my/categories/institusi-keluarga/perceraian-pasangan-islam"
+    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
+  - title: "Tuntutan dan Hak Selepas Perceraian Islam"
+    url: "https://www.malaysia.gov.my/my/categories/institusi-keluarga/perceraian-pasangan-islam/tuntutan-dan-hak-selepas-perceraian-islam"
+    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
+
+entity: "Islamic Family Law (Federal Territories) Act 1984"
+relations:
+  - { rel: "administered-by", to: "syariah-courts-malaysia" }
+  - { rel: "related-to", to: "harta-sepencarian-malaysia" }
+related: []
+keywords: ["undang-undang keluarga islam", "akta 303", "mahkamah syariah", "talaq", "fasakh", "khuluk", "hadhanah", "nafkah", "poligami", "islamic family law malaysia"]
+---
+
+남편이 부양(nafkah)을 하지 아니하여 이혼을 청구하려는 아내, 이제 막 일곱 살이 된 아들의 양육을 이어가려는 아버지, 다른 혼인을 신청하는 남성 — 이 세 가지 상황은 모두 일반적인 법률사무소가 아니라, 각 주의 이슬람 가족법 아래 샤리아 법원(Syariah Court)에서 시작됩니다. 이 문서는 그 법적 틀을 어느 편에도 서지 아니하고 서술적으로 설명합니다.
+
+## 누가 이 법을 만드는가?
+
+말레이시아에서 무슬림의 가족 사무 — 혼인, 이혼, 부양 및 자녀 양육 — 는 연방이 아니라 **주의 관할 사항**입니다. 각 주는 자체의 이슬람 가족법 법령을 제정하는 한편, 연방 직할구(쿠알라룸푸르, 라부안, 푸트라자야)는 **이슬람 가족법(연방 직할구)법 1984(Islamic Family Law (Federal Territories) Act 1984)**, 즉 Act 303의 규율을 받습니다.
+
+그 결과, 전국의 법적 틀은 유사하나 완전히 획일적이지는 아니합니다. 즉 용어와 구조는 거의 같지만, 특정 세부 사항은 주마다 다를 수 있습니다. **샤리아 법원**이 이러한 사건을 심리하는 심판 기구이며, 각 주는 자체의 이슬람 종교청(Jabatan Agama Islam)을 두고 있습니다.
+
+이 문서는 Act 303을 주된 예로 참조하는데, 그것이 법무장관실(Jabatan Peguam Negara)에 의해 공식적으로 발행되기 때문입니다. 이에 상응하는 규정은 다른 주의 법령에도 존재합니다.
+
+## 혼인의 요건은 무엇인가?
+
+Act 303은 혼인이 성립될 수 있기 전에 몇 가지 기본 요건을 정합니다. 제8조는 남성이 **18세** 미만이거나 여성이 **16세** 미만인 경우, 특정 사정에서 "except where the Syariah Judge has granted his permission in writing"인 경우를 제외하고는 어떠한 혼인도 성립될 수 없다고 규정합니다. 이 최저 연령과 샤리아 판사의 허가를 통한 예외는 말레이시아의 이슬람 가족법에 관한 공적 담론에서 가장 자주 논의되는 쟁점 중 하나입니다.
+
+**일부다처**의 경우, 제23조는 남성이 기존 혼인이 여전히 유효한 동안 다른 혼인을 하기 전에 "prior permission in writing of the Court"를 받도록 요구합니다. 신청서에는 소득, 부양 대상 및 그 혼인이 정당하거나 필요한 이유에 관한 진술서(iqrar)가 첨부되어야 합니다. 법원은 다음을 인정하는 경우 허가할 수 있습니다.
+
+- 제안된 혼인이 **정당하거나 필요**할 것(예를 들어 기존 아내의 불임이나 질병으로 인하여);
+- 신청인이 샤리아 법에 따라 모든 아내와 부양 대상을 **부양할 능력**이 있을 것;
+- 신청인이 모든 아내에게 **공평하게 대할** 수 있을 것; 그리고
+- 그 혼인이 기존 아내에게 **샤리아상의 해악(darar syarie)**을 초래하지 아니할 것.
+
+## 이혼의 종류는 무엇인가?
+
+이혼이 단지 남편의 선언일 뿐이라는 일반적 인식과 달리, 말레이시아의 이슬람 가족법은 몇 가지 서로 다른 경로를 인정하며, 그 대부분은 법원을 거칩니다.
+
+| 종류 | 요약 | 근거(Act 303) |
+|---|---|---|
+| 탈라크(Talaq) | 남편의 이혼 선언; 이상적으로는 법원 앞에서 | 제47조 |
+| 하캄(Hakam) | 지속적 불화(syiqaq)가 발생한 경우 두 명의 하캄에 의한 중재 | 제48조 |
+| 쿨루크(Khuluk) / 대가 지급 이혼 | 아내가 합의된 지급으로 탈라크를 되무름 | 제49조 |
+| 탈리크(Ta'liq) | 혼인 시 작성된 탈리크 증서의 조건에 근거한 이혼 | 제50조 |
+| 리안(Li'an) | 샤리아 판사 앞에서의 리안 선서를 수반하는 이혼 | 제50A조 |
+| 파사크(Fasakh) | 특정 사유에 근거한 법원의 혼인 해소 | 제52조 |
+
+> 용어 주석: 제48조의 공식 영어 표제는 "Arbitration by Hakam"(하캄에 의한 중재)이며; "syiqaq"은 이 절차를 촉발하는 지속적 불화에 대한 피크흐(fiqh)의 서술로, 공식 말레이어 본문에서 사용됩니다. 제2조의 정의에 따르면, "탈리크(ta'liq)"란 남편이 혼인 계약 후 샤리아 법에 따라 선언하는 약속을 의미하며; 제50조는 혼인 시 작성된 탈리크 증서를 가리킵니다.
+
+**탈라크**의 경우, 제47조는 남편이나 아내가 법원에 이혼 신청을 제출하도록 요구합니다. 상대방이 동의하고 법원이 혼인이 "irretrievably broken down"되었다고 인정하면, 법원은 남편에게 법원 앞에서 **한 번의 탈라크**를 선언하도록 조언합니다. 동의가 없거나 화해의 가능성이 있으면, 법원은 6개월의 기간 안에 부부를 화해시키려 시도하는 **화해 위원회(jawatankuasa pendamai)**를 임명합니다. 되돌릴 수 있는 탈라크(talaq raj'i)는 잇다(iddah) 기간이 만료될 때까지 혼인을 해소하지 아니합니다(제47조 제16항).
+
+**파사크**(제52조)는 혼인한 당사자에게 열거된 여러 사유 중 하나 이상에 근거하여 해소를 신청할 권리를 부여하며, 그중에는 다음이 포함됩니다.
+
+- 배우자가 실종되어 1년 넘게 소재를 알 수 없는 경우;
+- **3개월간** 부양을 하지 아니한 경우;
+- **3년 이상** 수감된 경우;
+- **정당한 사유 없이** **1년간** 부부간 부양 의무를 이행하지 아니한 경우(제52조 제1항 (d)호);
+- 남편이 혼인 계약 이래 성불구인 경우;
+- **2년간** 정신 이상이거나, 한센병·백반증 또는 전염성 성병에 걸린 경우;
+- **잔인하게** 대우받은 경우(그중 상습적 구타나 종교 실천의 방해 등).
+
+## 이혼 후의 청구는 무엇인가?
+
+유효한 이혼 후, 샤리아 법원은 몇 가지 청구를 심리할 수 있습니다. 정부의 공식 포털은 전처와 자녀를 위한 다음의 권리를 열거합니다.
+
+- **잇다 부양(Nafkah iddah)** — 전처의 잇다 기간 동안의 부양;
+- **무타아(Mutaah)** — "without just cause"로 이혼당한 아내에 대한 위자적 급부(Act 303 제56조);
+- **하르타 스픈차리안(Harta sepencarian)** — 혼인 기간 동안 공동으로 취득한 재산의 몫;
+- **자녀 부양(Nafkah anak)** — 자녀의 의식주·교육 및 의료를 부양할 아버지의 책임;
+- **하다나(Hadhanah)** — 미성년 자녀를 양육할 권리.
+
+혼인 지참금(mas kahwin) 및 급부에 대한 권리는 이 법에 의해 영향을 받지 아니합니다(제57조).
+
+## 자녀 양육권(하다나)은 어떻게 정해지는가?
+
+하다나는 아직 무마이이즈(mumaiyiz, 분별 능력이 있는 나이)에 이르지 아니한 자녀를 보호하고 돌볼 권리를 가리킵니다. Act 303 제81조는 혼인 중이든 해소 후든 **어머니가 어린 자녀의 양육에 가장 큰 권리를 가진 사람**이라고 규정합니다. 법원이 어머니가 샤리아 법에 따라 자격을 상실하였다고 판단하면, 그 권리는 우선순위에 따라 — 외조모부터 시작하여, 그다음 아버지, 친조모 등의 순으로 — 이전되며, 다만 그 양육이 자녀의 복리를 해치지 아니하는 것을 조건으로 합니다.
+
+제82조는 양육자의 자격을 정합니다. 즉 이슬람교를 신봉하고, 온전한 정신이며, 애정을 줄 수 있을 만큼 나이가 충분하고, 이슬람 윤리의 관점에서 품행이 바르며, 자녀에게 위험하지 아니한 곳에 거주할 것입니다. 제83조는 여성의 하다나 권리가 **상실**될 수 있는 사유를 열거하는데, 그중에는 자녀의 마흐람(mahram)이 아닌 남성과 혼인하는 것(자녀의 복리를 해치는 경우), 공공연하게 나쁜 품행, 배교, 또는 자녀에 대한 태만과 학대가 있습니다.
+
+기간에 관하여, 제84조는 하다나 권리가 자녀가 **일곱 살(남아)** 및 **아홉 살(여아)**에 이르면 종료되나, 법원이 양육자에게 **아홉 살(남아)** 및 **열한 살(여아)**까지 양육을 유지하도록 허용할 수 있다고 규정합니다. 그 후 양육은 아버지에게 이전되며, 자녀가 이미 무마이이즈라면, 법원이 달리 명하지 아니하는 한, 부모 중 어느 한쪽과 함께 살기를 선택할 수 있습니다. 모든 경우에, 제86조는 **자녀의 복리를 최우선 고려 사항**으로 둡니다.
+
+## 논쟁은 어디에 있는가?
+
+그것이 종교, 가족 및 개인의 권리에 관련되므로, 말레이시아의 이슬람 가족법은 다양한 견해가 집중되는 분야입니다. 일부 — 개혁 단체와 일부 학자 포함 — 는 혼인 최저 연령, 법원 허가에 의한 예외, 그리고 일부다처 요건의 시행 같은 사항에 대한 재검토를 촉구합니다. 다른 이들은 기존의 틀을 샤리아 법에 부합하는 것으로 옹호하며 복리를 보호하는 데 있어 법원 재량의 역할을 강조합니다. 이 문서는 그러한 견해들 사이에서 어떠한 입장도 취하지 아니합니다; 단지 그러한 견해차가 존재하며 흔히 공개적으로 논의된다는 것을 기록할 뿐입니다.
+
+## 다음 단계
+
+- 조항 번호와 세부 사항이 Act 303(연방 직할구)과 다를 수 있으므로, 여러분 **자신의 주 법령**의 규정을 확인하십시오.
+- 실제 청구 — 이혼, 부양 또는 하다나 — 에 대해서는 자격 있는 **샤리아 변호사(Peguam Syarie)**의 자문을 받거나 주 이슬람 종교청에 문의하십시오.
+- 이 체계에 대한 더 완전한 그림을 위하여 NegaraKu.md의 **샤리아 법원** 및 **하르타 스픈차리안**에 관한 관련 문서를 확인하십시오.
+
+> 주석: 이것은 AI의 도움으로 생성된 초안이며 아직 사람 전문가의 검토를 받지 아니하였습니다. 그것은 일반 정보이며 법률 자문이 아닙니다.

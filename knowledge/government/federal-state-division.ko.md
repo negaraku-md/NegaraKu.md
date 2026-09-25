@@ -1,0 +1,180 @@
+---
+topicId: "MY-GOV-0033"
+title: "누가 무엇을 정하는가: 제9부칙의 연방 목록·주 목록·공동 목록"
+slug: "federal-state-division"
+category: "government"
+subcategory: ["institutions"]
+summary: "연방헌법(Federal Constitution)의 제9부칙(Ninth Schedule)은 입법부가 법을 제정할 수 있는 사항을 세 가지 목록 — 연방 목록, 주 목록, 공동 목록 — 으로 분류하며, 사바와 사라왁을 위한 두 개의 추가 보충 목록을 둡니다. 이 글은 각 목록에 무엇이 속하는지, 그리고 이 배분을 작동시키는 제74~77조의 규칙을 서술합니다."
+
+tier: "S"
+mode: "practical"
+contentType: "law"
+sensitivity: "constitution"
+
+answer: "연방헌법은 제9부칙을 통해 입법권을 배분합니다. 제I목록(연방 목록)은 의회(Parliament)만이 입법할 수 있는 사항을 담습니다 — 국방, 외교, 국내 안보, 시민권, 재정, 무역, 대부분의 민사·형사법, 교육, 보건. 제II목록(주 목록)은 주 입법의회(State Legislative Assembly)만이 입법할 수 있는 사항을 담습니다 — 이슬람법과 말레이 관습, 토지, 농업 및 임업, 지방 정부. 제III목록(공동 목록)은 양쪽 모두 입법할 수 있는 사항을 담습니다 — 사회복지, 도시·지방 계획, 공중보건, 배수 및 관개, 문화 및 스포츠, 주거. 제74조는 각 입법부에 그 목록을 배정하고, 제75조는 저촉되는 주법에 대해 연방법이 우선하도록 하며, 제77조는 잔여 사항 — 어느 목록에도 없는 것 — 을 주에 부여합니다. 사바와 사라왁은 제95B조에 따라 원주민법, 항만 등을 다루는 두 개의 추가 목록(IIA 및 IIIA)을 가집니다."
+keyTakeaways:
+  - "The Ninth Schedule is made under Articles 74 and 77 and contains three main lists — List I Federal, List II State, List III Concurrent — plus supplements IIA and IIIA for Sabah and Sarawak"
+  - "Article 74 lets Parliament legislate on the Federal and Concurrent Lists, and a State Legislature on the State and Concurrent Lists"
+  - "Article 75 resolves any clash on a Concurrent subject: federal law prevails and the inconsistent State law is void to the extent of the inconsistency"
+  - "Article 77 assigns residual power — any matter enumerated in no list — to the State Legislatures"
+  - "Article 76 lets Parliament legislate on State List subjects in limited cases (implementing a treaty, promoting uniformity of law, or at a State's request), usually needing State adoption before it operates there"
+  - "Article 95B adds Lists IIA and IIIA giving Sabah and Sarawak extra legislative subjects such as native law and custom, ports and harbours, and cadastral surveys"
+appliesTo: "Anyone who needs to know, subject by subject, whether the Federation or a State has the power to make a given law in Malaysia."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-24
+sources:
+  - title: "Federal Constitution (Reprint 2020) — Articles 74, 75, 76, 76A, 77, 95B and the Ninth Schedule (Legislative Lists)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+    date: "2020"
+  - title: "Federal Constitution — Ninth Schedule [Articles 74, 77]: List I Federal List, List II State List, List IIA, List III Concurrent List, List IIIA"
+    url: "https://sagc.sabah.gov.my/sites/default/files/law/NinthSchedule.pdf"
+    publisher: "State Attorney-General's Chambers, Sabah"
+    date: "2012"
+
+entity: "Ninth Schedule, Federal Constitution of Malaysia"
+relations:
+  - { rel: "part-of", to: "federal-constitution" }
+  - { rel: "governs", to: "ma63" }
+  - { rel: "related-to", to: "civil-and-syariah-courts" }
+  - { rel: "related-to", to: "constitutional-amendment" }
+  - { rel: "related-to", to: "parliament" }
+related: ["federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
+keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concurrent List", "division of legislative power Malaysia", "Article 74 Federal Constitution", "Article 77 residual power", "List I List II List III Malaysia", "Sabah Sarawak legislative supplement", "Jadual Kesembilan", "who can make law Malaysia"]
+---
+
+토지는 주(state)의 사항입니다. 국방은 연방의 사항입니다. 공중보건은 양쪽 모두 손댈 수 있는 세 번째 목록에 자리합니다. 말레이시아에서 어느 특정 법을 제정할 권한이 연방에 있는지 주에 있는지는 의견이나 협상의 문제가 아니라 — 연방헌법(Federal Constitution) 뒤편의 단일 부칙에 사항별로 기재되어 있습니다.
+
+그 부칙이 바로 **제9부칙(Ninth Schedule)**입니다. 그것은 세 가지 사항 목록 — 그리고 사바와 사라왁을 위해 유보된 두 개의 추가 목록 — 을 제시하며, 헌법의 제74조부터 제77조까지가 그 목록을 누가 무엇을 입법하는가에 관한 실효적 규칙으로 바꿉니다.
+
+## 한눈에 보기
+
+| | |
+| --- | --- |
+| 위치 | 제9부칙, 제74조 및 제77조에 따라 해석 |
+| 제I목록 | **연방 목록** — 의회(Parliament)만 |
+| 제II목록 | **주 목록** — 주 입법의회(State Legislative Assembly)만 |
+| 제III목록 | **공동 목록** — 양쪽 모두 입법 가능 |
+| 제IIA목록 | 사바 및 사라왁을 위한 주 목록 보충 (제95B조 제(1)항 (a)호) |
+| 제IIIA목록 | 사바 및 사라왁을 위한 공동 목록 보충 (제95B조 제(1)항 (b)호) |
+| 저촉 규칙 | 제75조 — 연방법이 우선; 저촉되는 한도에서 주법 무효 |
+| 잔여 사항 | 제77조 — 어느 목록에도 없는 사항은 주에 속함 |
+
+## 엔진: 제74조부터 제77조까지
+
+목록은 그 자체로는 작동하지 않습니다. 네 개의 조문이 그것에 힘을 부여합니다.
+
+**제74조**가 배정을 합니다. 의회는 **연방 목록 또는 공동 목록**의 어떤 사항에든 법을 제정할 수 있고, 주 입법부는 **주 목록 또는 공동 목록**의 어떤 사항에든 법을 제정할 수 있습니다. 어느 쪽도 상대방의 배타적 목록으로 넘어갈 수 없으며, 그 권한은 헌법 자체가 부과하는 조건을 따릅니다.
+
+**제75조**가 중복을 다룹니다. 공동 목록은 양쪽에 열려 있으므로 둘이 충돌할 수 있습니다. 충돌할 때는 "연방법이 우선하며 주법은 그 저촉되는 한도에서 무효"입니다. 주법이 완전히 없어지는 것은 아니라 — 저촉되는 부분만 떨어져 나갑니다.
+
+**제76조**는 의회가 주 목록으로 들어갈 수 있는 좁은 문입니다. 의회는 세 가지 목적 가운데 하나를 위해서만 주 사항에 입법할 수 있습니다. 즉, 조약·협정·협약(또는 연방이 속한 국제기구의 결정)의 이행, 둘 이상의 주의 법률의 **통일** 촉진, 또는 어느 주 입법의회의 **요청**이 있을 때입니다. 통일 또는 요청을 근거로 제정된 법은 해당 주 자체의 입법부가 그것을 채택하기 전에는 그 주에서 시행되지 않으며, 채택 시점에 주법으로 취급됩니다.
+
+**제77조**는 남은 모든 것을 쓸어 담습니다. "어느 목록에도 열거되지 않은" 사항 — 그리고 의회가 달리 입법할 수 없는 사항 — 은 주 입법부에 속합니다. 잔여는 연방이 아니라 주로 갑니다.
+
+## 제I목록 — 연방 목록
+
+연방 목록이 가장 깁니다. 27개의 번호 항목에 이르며 국가 정부의 기구를 아우릅니다. 부칙이 제시하는 주요 표제는 다음과 같습니다.
+
+- **대외 업무** — 조약, 외교 및 통상 대표, 범죄인 인도, 여권과 비자, 말레이시아 밖의 순례.
+- **국방** — 군대, 전쟁과 평화, 무기와 폭발물, 국가 복무, 민방위.
+- **국내 안보** — 경찰, 범죄 수사, 공공질서, 교도소, 예방적 구금, 국가 등록.
+- **민사·형사법 및 사법 행정** — 샤리아 법원(Syariah Courts)을 *제외한* 모든 법원의 구성과 관할, 계약, 불법행위, 재산과 그 이전(토지 제외), 혼인과 이혼, 상속, 파산, 그리고 증거법.
+- **연방 시민권과 귀화; 외국인.**
+- **재정** — 통화, 국민 저축, 국가 부채, 조세, 그리고 연방과 주의 회계 감사.
+- **무역·상업·산업**, **해운**, **통신**(우편, 전기통신, 방송, 텔레비전 포함), 그리고 **연방 공사 및 전력**(전기 및 주 간 용수 포함).
+- **교육**, **의료 및 보건**, **노동 및 사회보장**, **원주민(aborigines)의 복지**, **검열**, **신문 및 출판**, **협동조합**, 그리고 **관광**(항목 25A).
+- 쿠알라룸푸르·라부안·푸트라자야 **연방직할구에 관한 모든 사항**(항목 27).
+
+항목 4는 헌법의 나머지 부분이 거듭 되돌아오는 하나의 선을 긋습니다. 즉, 연방 민사·형사법은 혼인, 이혼, 후견, 부양, 입양, 적출, 가족법, 증여 및 상속에 관한 이슬람 신분법을 명시적으로 **제외**합니다. 그 사항들은 연방 목록에서 도려내어 주 목록에 대신 놓입니다.
+
+## 제II목록 — 주 목록
+
+주 목록은 짧습니다 — 12개의 번호 항목에 항목 12A를 더한 것 — 그러나 일상을 형성하는 사항을 담습니다. 항목 1과 항목 2가 가장 중대한 둘입니다.
+
+**항목 1 — 이슬람법과 말레이 관습.** 연방직할구를 제외하고, 이는 이슬람을 신봉하는 사람에 대한 이슬람 신분·가족법, 자카트(Zakat)와 바이툴말(Baitulmal), 모스크, 무슬림에 의한 이슬람 교리 위반 범죄의 창설과 처벌(연방 목록의 사항은 제외), 그리고 "샤리아 법원의 구성, 조직 및 절차"를 아우릅니다. 그 법원은 이슬람을 신봉하는 사람에 대해서만, 그리고 이 항목의 사항에 대해서만 관할을 가집니다.
+
+**항목 2 — 토지.** 토지 보유, 권원 등록, 말레이 보류지(또는 사바와 사라왁에서는 원주민 보류지), 광업 허가와 임차, 그리고 토지의 강제 수용이 모두 주 사항입니다.
+
+나머지 항목:
+
+| 항목 | 사항 |
+| --- | --- |
+| 3 | 농업 및 임업 |
+| 4 | 연방직할구 밖의 지방 정부 — 시 법인, 지방 당국, 지방세 및 지방 선거 |
+| 5 | 그 밖의 지방 서비스 — 하숙집, 매장 및 화장지, 시장과 장, 극장 및 영화관의 인허가 |
+| 6 | 주 공사 및 용수 — 주 도로·교량·나룻배; 하천과 운하(연방 목록을 따름) |
+| 7 | 주정부 기구 — 문관 급여 명부(Civil List), 주 연금, 주 차입 및 부채 |
+| 8 | 주 공휴일 |
+| 9–11 | 주 범죄, 주 목적의 조사, 그리고 주법에 따른 면책 |
+| 12 | 거북과 하천 어업 |
+| 12A | 연방으로 선포되지 않은 도서관, 박물관, 고대 기념물 및 고고학 유적 |
+
+## 제III목록 — 공동 목록
+
+공동 목록은 의회와 주 입법부 **양쪽 모두** 법을 제정할 수 있는 사항을 담으며 — 어떤 충돌이든 제75조가 연방에 유리하게 판가름합니다. 부칙이 열거하는 대로는 다음과 같습니다.
+
+1. 사회복지 및 사회 서비스; 여성·아동·청소년의 보호
+2. 장학금
+3. 야생 동물 및 조류의 보호; 국립공원
+4. 축산, 수의 서비스 및 동물 검역
+5. 도시·지방 계획(연방 수도 제외)
+6. 부랑 및 행상
+7. 공중보건, 위생 및 질병 예방
+8. 배수 및 관개
+9. 광산 부지 및 침식 토지의 복구
+9A. 건물의 건설 및 유지에서의 화재 안전 조치
+9B. 문화 및 스포츠
+9C. 주거 및 주거 시설
+9D. 상수도 및 관련 서비스(연방 목록을 따름)
+9E. 유산의 보존
+
+## 제IIA목록 및 제IIIA목록 — 사바 및 사라왁 보충
+
+사바와 사라왁이 1963년에 연방에 편입될 때, 그들은 말라야 주들이 갖지 않았던 입법 사항을 유지했습니다. **제95B조**는 이를 그 두 주에만 적용되는 제9부칙의 두 보충 목록으로 담고 있습니다.
+
+**제IIA목록 — 주 목록 보충**은 그 가운데 다음을 추가합니다.
+
+- **원주민법과 관습**(항목 13) — 원주민 신분법과 원주민 법원의 구성·조직·절차 포함;
+- **주 당국의 법인화**(항목 14);
+- 연방으로 선포되지 않은 **항만**(항목 15);
+- **지적 토지 측량**(항목 16);
+- 사바에서는 **사바 철도**(항목 18);
+- 그리고 연방 목록을 따르는 **상수도 및 관련 서비스**(항목 20).
+
+**제IIIA목록 — 공동 목록 보충**은 연방과 그 주들 모두 입법할 수 있는 사항을 추가하는데, 혼인 및 상속에 관한 신분법(항목 10), 식품의 불량 혼입(항목 11), 등록 톤수 15톤 미만의 해운 및 하구 어업(항목 12), 수력 전기(항목 13), 농업 및 임업 연구(항목 14), 그리고 주 자선(항목 15)을 포함합니다.
+
+이 보충 목록들은 해당 주의 동의 없이는 개정으로부터 헌법이 보호하는 사항에 속합니다 — [연방헌법 개정](/en/law/constitutional-amendment)과 [MA63](/en/malaysia/ma63)을 참고하십시오.
+
+## 흔한 실수
+
+**"보건은 연방 사항이므로 주는 그것과 관계가 없다."** 연방 목록 항목 14는 *의료 및 보건*을 아우르지만, *공중보건, 위생 및 질병 예방*은 **공동** 목록 항목 7입니다 — 양쪽 모두 입법할 수 있으며, 충돌 시 연방법이 우선합니다.
+
+**"어떤 사항이 주 목록에 없으면 그것은 틀림없이 연방 사항이다."** 기본값은 그 반대입니다. 제77조는 **어느** 목록에도 열거되지 않은 모든 사항을, 의회가 그에 대해 다른 권한을 갖지 않는 한, 주 입법부에 부여합니다.
+
+**"의회는 토지나 이슬람법에 절대 입법할 수 없다."** 원칙적으로 그것들은 주 사항입니다. 그러나 제76조는 조약을 위해, 통일을 위해, 또는 어느 주의 요청에 따라 주 목록으로 들어가는 제한된 경로를 열며, 통일 또는 요청에 따른 법은 대체로 그 주가 채택한 후에야 그 주에서 시행됩니다.
+
+**"세 목록은 어디서나 같은 방식으로 적용된다."** 사바와 사라왁은 제95B조에 따라 두 개의 추가 목록(IIA 및 IIIA)을 가지며, 여러 주 목록 항목은 쿠알라룸푸르·라부안·푸트라자야 연방직할구를 명시적으로 제외하는데, 그 직할구의 사항은 연방 목록 항목 27에 따라 연방 차원에서 처리됩니다.
+
+## 다음으로 볼 것
+
+제9부칙이 문서 전체 안에서 어디에 자리하는지는 [말레이시아 연방헌법](/en/law/federal-constitution)을 참고하십시오. 주 목록 항목 1과 연방 목록 항목 4에 명명된 법원에 대해서는 [민사 법원과 샤리아 법원](/en/law/civil-and-syariah-courts)을 참고하십시오. 연방 입법권을 쥔 두 원이 어떻게 구성되는지는 [의회](/en/government/parliament)를 참고하십시오. 사바 및 사라왁 보충 목록을 개정으로부터 보호하는 더 높은 문턱에 대해서는 [연방헌법 개정](/en/law/constitutional-amendment)과 [MA63](/en/malaysia/ma63)을 참고하십시오.
+
+---
+
+*이 글은 그 주제가 입법권의 헌법적 배분 — 이슬람법에 관한 주 목록 항목 1과 사바 및 사라왁을 위한 보호 장치를 포함하여 — 이기 때문에 NegaraKu.md의 편집 정책상 민감(헌법) 등급으로 분류됩니다. 이 글은 엄격히 서술적으로 — 제9부칙과 제74조부터 제77조 및 제95B조를 공표된 그대로, 논평이나 해석 없이 서술하도록 — 작성되었으며, 공개에 앞서 인간 검토를 기다리는 초안으로 보류되어 있습니다.*

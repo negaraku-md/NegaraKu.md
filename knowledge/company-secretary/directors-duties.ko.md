@@ -1,0 +1,372 @@
+---
+topicId: MY-CS-0027
+title: "회사법(Companies Act 2016)에 따른 이사의 의무와 개인적 책임"
+seoTitle: "말레이시아 이사의 의무: CA 2016 s.213과 책임"
+slug: "directors-duties"
+category: "company-secretary"
+subcategory: ["directors"]
+summary: "회사법(Companies Act 2016) ss.210부터 220까지가 말레이시아 이사에게 실제로 무엇을 요구하는지, 그 위반이 개인적으로 얼마의 대가를 치르게 하는지, 그리고 이 법이 어떤 항변을 부여하는지."
+
+tier: "1"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "회사법(Companies Act 2016) 제213조는 모든 이사에게 두 가지 의무를 부과합니다 — 제213(1)조에 따라 정당한 목적을 위해 회사의 최선의 이익을 위하여 선의로 행위할 의무, 그리고 제213(2)조에 따라 합리적인 주의, 기량 및 근면을 행사할 의무입니다. 위반은 제213(3)조에 따라 최고 5년의 징역 또는 최고 RM3 million의 벌금 또는 병과에 처해지는 형사 범죄입니다. 그 책임은 개인적이며, 면책으로 없앨 수 없습니다."
+keyTakeaways:
+  - "s.213(3) makes a breach of directors' duties a crime — 5 years, RM3 million, or both, on the individual"
+  - "s.210 extends these duties to the CEO, CFO, COO and anyone primarily responsible for management, whether or not they are on the register"
+  - "s.2 catches shadow directors — anyone whose instructions the board is accustomed to follow"
+  - "The business judgment rule in s.214 is a defence to s.213(2) only, never to s.213(1) good faith"
+  - "s.215 lets you rely on officers and experts, but only after an independent assessment of what you were told"
+  - "s.288 voids any clause in a constitution or contract that indemnifies a director against liability for breach of duty"
+  - "s.220 preserves every other written law on directors' liability — the Act adds to your exposure, it does not cap it"
+appliesTo: "Directors of Malaysian companies, including nominee and non-executive directors, and the C-suite executives caught by s.210."
+
+faq:
+  - q: "Can a director be jailed for a breach of duty in Malaysia, or is it only a fine?"
+    a: "Section 213(3) provides for imprisonment for a term not exceeding five years or a fine not exceeding RM3 million, or both. It is drafted as a criminal offence against the individual director, not as a civil claim against the company. The same ceiling applies to s.217 nominee-director breaches, s.218 improper use of position, s.221 non-disclosure of interest and s.222 interested voting."
+  - q: "I am only a non-executive or sleeping director. Do these duties apply to me?"
+    a: "Yes, in full. Section 213 draws no distinction between executive and non-executive directors. What varies is the standard, because s.213(2)(a) measures you against the knowledge, skill and experience reasonably expected of a director having the same responsibilities, and s.213(2)(b) adds any extra knowledge you personally have. A passive director is judged on what a director in that seat should have done, not on what they in fact did."
+  - q: "My name is not in the register of directors. Am I safe?"
+    a: "No. The s.2 definition of director includes any person occupying the position of director by whatever name called, and any person in accordance with whose directions or instructions the majority of the board is accustomed to act. Separately, s.210 extends ss.213 to 218, 223 and 228 to the chief executive officer, chief financial officer, chief operating officer and any other person primarily responsible for the management of the company."
+  - q: "Can the company indemnify me or buy insurance for me?"
+    a: "Only within narrow limits. Section 288 makes void any provision in the constitution or in any contract that exempts or indemnifies an officer against liability for negligence, default, breach of duty or breach of trust. Section 289 then permits a company to indemnify an officer for costs where judgment is given in his favour, he is acquitted, or relief is granted, and to indemnify against liability to third parties — but never against a fine imposed in criminal proceedings or a regulatory penalty."
+  - q: "What is the business judgment rule and when does it protect me?"
+    a: "Section 214 deems a director to have met the s.213(2) care-and-diligence duty, and the equivalent common law and equitable duties, if four conditions are all met — proper purpose and good faith, no material personal interest in the subject matter, being informed to the extent reasonably appropriate, and a reasonable belief that the judgment is in the best interest of the company. It does not touch the s.213(1) duty of good faith and proper purpose."
+  - q: "Can shareholders sue a director in Malaysia, or is enforcement only by SSM?"
+    a: "Both routes exist. SSM prosecutes the s.213(3) offence. Separately, a member may bring a statutory derivative action in the company's name under s.347 with the leave of the Court, after giving the directors thirty days' written notice under s.348(2), and must commence proceedings within thirty days of leave being granted. Section 346 oppression relief is a further, independent route."
+
+verificationNeeded: []
+
+obligations:
+  - what: "Give the Court thirty days' written notice to the directors of an intention to apply for leave to bring a statutory derivative action"
+    trigger: "change"
+    withinDays: 30
+    due: "thirty days' notice in writing to the directors before applying for leave"
+    authority: "Court"
+    statute: "Companies Act 2016, s.348(2)"
+    consequence: "Leave to bring derivative proceedings will not be entertained"
+  - what: "Initiate derivative proceedings in Court after leave has been granted"
+    trigger: "change"
+    withinDays: 30
+    due: "within thirty days from the grant of leave"
+    authority: "Court"
+    statute: "Companies Act 2016, s.348(3)"
+    consequence: "The grant of leave lapses"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+    date: "2022-08-01"
+  - title: "Companies (Amendment) Act 2024 (Act A1701)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
+    publisher: "SSM"
+    date: "2024-02-02"
+
+  - title: "Practice Directive 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
+    publisher: "SSM"
+    date: "2024-10-01"
+
+  - title: "Companies Commission of Malaysia Act 2001 (Act 614), reprint as at 1 March 2018 — s.38A compounding of offences and First Schedule (Act 777 listed as item 1)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/CCMA%20Act%20614_as%20at%201%20March%202018).pdf"
+    publisher: "SSM"
+    date: "2018-03-01"
+  - title: "MAICSA Annual Conference 2017: Three Questions Raised — confirms CA 2016 has no compounding section; the power is s.38A of the SSM Act, in force 31 January 2017 (50% cap, PP consent)"
+    url: "https://themalaysianlawyer.com/2017/09/15/maicsa-annual-conference-2017-three-questions-raised/"
+    publisher: "The Malaysian Lawyer"
+    date: "2017-09-15"
+
+entity: "Directors' duties under the Companies Act 2016"
+relations:
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "administered-by", to: "ssm" }
+  - { rel: "related-to", to: "disclosure-of-interest" }
+  - { rel: "related-to", to: "loans-to-directors" }
+  - { rel: "related-to", to: "appoint-resign-director" }
+related: ["disclosure-of-interest", "director-shareholding-notification", "appoint-resign-director", "remove-a-director", "loans-to-directors", "directors-fees-approval", "directors-report", "register-of-directors"]
+keywords: ["directors duties Malaysia", "section 213 Companies Act 2016", "director personal liability Malaysia", "business judgment rule Malaysia", "tanggungjawab pengarah syarikat", "shadow director Malaysia", "director fine RM3 million"]
+---
+
+벌금은 3백만 링깃이고 형기는 5년입니다. 회사가 아니라 — 여러분에게입니다.
+회사법(Companies Act 2016) 제213(3)조는 이사의 의무 위반을 개인이 저지르는 형사
+범죄로 만들며, 동일한 상한이 s.217, s.218, s.221, s.222, s.223, s.224, s.225,
+s.228에 다시 나타납니다.
+
+그것이 이사의 의무에 관한 대부분의 말레이시아 요약이 빠뜨리는 단 하나의 사실입니다.
+그런 요약들은 신인의무를 추상적으로 서술하고, 영국 판례법 한 단락을 빌려온 뒤,
+멈춥니다. 이 법은 훨씬 더 노골적인 일을 합니다. 의무를 범죄로 전환하고, 그 의무를
+등록부에 이름이 올라 있는 사람들 너머로 확장하며, 여러분의 정관이 아마도 담고 있을
+면책 조항을 무효로 만듭니다.
+
+이 페이지는 그 책임 노출의 지도입니다 — 누가 포섭되는지, 네 개의 의무 조항이 실제로
+무엇을 말하는지, 이 법이 여러분에게 어떤 두 가지 항변을 부여하는지, 그리고 이 의무가
+어떻게 집행되는지.
+
+## 회사법(Companies Act 2016)에서 누가 이사에 해당하는가?
+
+세 가지 정의가 그물을 넓히며, 동시에 작동합니다.
+
+| 조항 | 포섭하는 대상 |
+| --- | --- |
+| s.2 | **어떤 명칭으로 불리든** 이사의 지위를 차지하는 모든 사람; 이사의 과반수가 그 지시 또는 지침에 따라 행위하는 것이 관행인 사람; 대체이사(alternate director) 또는 대리이사(substitute director) |
+| s.57(7) | 등록부의 목적상 — 대체이사, 대리이사 또는 **현지(local)** 이사를 포함 |
+| s.210 | ss.213–218, 223, 228의 목적상만 — **최고경영자(CEO), 최고재무책임자(CFO), 최고운영책임자(COO)** 또는 회사의 경영을 주로 담당하는 그 밖의 사람을 포함 |
+
+제210조는 실무자들이 충분히 활용하지 않는 조항입니다. 이는 이사회에 앉은 적도 없고,
+s.201에 따라 임명된 적도 없으며, SSM 기록 어디에도 나타나지 않는 CFO도 그럼에도
+s.213 선의, s.213(2) 주의와 근면, s.217 명의이사의 충실, s.218 지위의 부적절한 이용,
+s.223 상당한 처분, s.228 특수관계자 거래에 구속되며 — 동일한 RM3 million 상한에
+노출됨을 의미합니다.
+
+s.2 부분은 반대편 끝을 포착합니다. 겉모습을 관리하기 위해 이사회에서 사임했지만
+남은 이사들이 여전히 그 지시를 따르는 창업자입니다. 이사회의 과반수가 그 지시에
+따라 행위하는 것이 **관행**이라면, 그 사람은 이 법의 모든 목적상 이사입니다.
+
+## s.213은 실제로 무엇을 요구하는가?
+
+제213조는 흔히 하나로 뭉뚱그려지지만 그래서는 안 되는 두 가지 의무로 나뉩니다.
+
+**s.213(1) — 정당한 목적과 선의.** 이사는 항상 이 법에 따라, 정당한 목적을 위해,
+그리고 회사의 최선의 이익을 위하여 선의로 자신의 권한을 행사해야 합니다. 그 문장에는
+세 가지 별도의 요건이 담겨 있습니다. 권한은 완전한 선의로 행사되면서도 여전히 부당한
+목적을 위해 행사될 수 있습니다 — 전형적인 사례는 정직하게 이루어졌으나 자본을
+조달하기 위해서가 아니라 경쟁 주주를 희석하기 위해 이루어진 주식 배정입니다.
+
+“회사의 최선의 이익”은 회사를 의미하며, 여러분을 임명한 주주도, 그룹도 아닙니다.
+제217조는 명의이사에 대해 이를 명시하며 아래에서 다룹니다.
+
+**s.213(2) — 합리적인 주의, 기량 및 근면.** 그 기준은 의도적으로 두 부분으로
+이루어집니다.
+
+- **s.213(2)(a)** — **동일한 책임을 지는** 이사에게 합리적으로 기대될 수 있는 지식,
+  기량 및 경험. 이는 객관적입니다. 그것은 “여러분이 알았던 것”이 아니라, 여러분의
+  자리에서 여러분의 소관 업무를 맡은 누군가가 알았어야 하는 것입니다.
+- **s.213(2)(b)** — 이사가 실제로 가진 **추가적인** 지식, 기량 및 경험. 이는
+  주관적이며 언제나 기준을 위로만 끌어올립니다. 공인회계사인 이사는 이사회가 회계를
+  검토할 때 회계사의 기준으로 판단됩니다. 객관적 최소 수준보다 적게 아는 이사에
+  대해서는 그에 상응하는 완화가 없습니다.
+
+그런 다음 제213(3)조는 이 조문의 위반을 최고 5년, 최고 RM3 million, 또는 병과에
+처해지는 범죄로 만듭니다.
+
+## 어떤 관련 의무가 동일한 처벌을 지니는가?
+
+제214조부터 제219조까지는 동일한 소분류 아래에 있으며 하나의 체계로 읽는 것이
+가장 좋습니다. 조문 번호를 주의 깊게 보십시오 — 흔히 잘못 보고됩니다.
+
+| 조문 | 의무 | 개인적 노출 |
+| --- | --- | --- |
+| s.214 | 경영판단원칙 — 의무가 아니라 **항변** | — |
+| s.215 | 타인이 제공한 정보에 대한 신뢰 — **항변** | — |
+| s.216 | 수임인의 행위에 대한 책임 | — |
+| s.217 | 명의이사는 회사의 이익을 지명자의 이익에 종속시켜서는 안 됨 | 5년 / RM3m / 병과 |
+| s.218 | 회사 재산, 정보, 지위 또는 기회의 부적절한 이용 금지, 경업 금지 | 5년 / RM3m / 병과 |
+| s.219 | 자신의 지분 및 관련 항목을 회사에 통지 | s.219(1)에 따라 5년 / RM3m; s.219(2)에 따라 RM25,000과 하루 RM1,000 |
+| s.220 | 다른 성문법을 보존 — 그 자체로 의무가 아님 | — |
+
+빈번한 두 가지 오귀속은 곧바로 바로잡을 가치가 있습니다. **타인에 대한 신뢰는
+s.214가 아니라 s.215입니다** — s.214는 경영판단원칙입니다. 그리고 **보존 조항은
+s.217이 아니라 s.220입니다.** 제220조는 ss.214부터 219까지가 이사 또는 임원의
+의무 또는 책임에 관한 다른 **성문법**에 추가되며 이를 훼손하지 않는다고 규정합니다.
+
+그 문구가 중요합니다. 제220조는 다른 성문법을 말합니다. 일반법상 의무 자체의 보존은
+다른 곳, 즉 s.214(1)에 나타나는데, 이는 적격한 경영판단이 s.213(2) **및 보통법과
+형평법상의 동등한 의무**를 충족하는 것으로 간주합니다 — 이 표현은 그 형평법상
+의무가 법률과 나란히 계속 존재하기 때문에만 의미가 통합니다. 실무적 결과는 어느
+쪽으로 보든 동일합니다. 법전화는 신인의무를 대체한 것이 아니라, 그 위에 형사적
+층을 쌓았습니다.
+
+제217조는 얼마나 많은 말레이시아 이사회가 구성되는 방식 때문에 별도의 주의를 받을
+만합니다. 고용에 의하여, 또는 사원·고용주·사채권자의 대표로 임명된 이사는 **회사**의
+최선의 이익을 위해 행위해야 하며, 회사에 대한 그의 의무가 지명자에 대한 그의 의무와
+충돌하는 경우, 그는 회사의 이익을 종속시켜서는 안 됩니다. 회사의 이익에 반하여 펀드가
+지시한 대로 표결하는 사모펀드 명의이사는 5년에 처해지는 범죄를 저지릅니다.
+
+## 두 가지 법정 항변은 무엇이며, 무엇을 포함하지 않는가?
+
+### 경영판단원칙(s.214)
+
+경영판단을 하는 이사는, **네 가지 모두**가 충족되면 s.213(2) 및 보통법과 형평법상의
+동등한 의무를 충족한 것으로 간주됩니다.
+
+1. 그 판단이 정당한 목적을 위해 선의로 이루어질 것;
+2. 이사가 그 대상 사안에 **중대한 개인적 이해관계가 없을** 것;
+3. 이사가 그 상황에서 적절하다고 합리적으로 믿는 정도로 그 대상 사안에 관하여 정보를
+   갖출 것; 그리고
+4. 이사가 그 판단이 회사의 최선의 이익에 부합한다고 합리적으로 믿을 것.
+
+“경영판단(business judgment)”은 s.214(2)에서 회사의 사업에 관련된 사안에 대해 조치를
+취할지 여부에 관한 모든 결정으로 정의되며 — 여기에는 행위하지 **않기로** 한 결정도
+명시적으로 포함됩니다.
+
+그 한계는 정확합니다. **s.214는 s.213(2)의 준수만을 간주합니다.** s.213(1)에 대해서는
+아무 말도 하지 않습니다. 부당한 목적으로 행위한 이사는 경영판단원칙에 전혀 도달할 수
+없는데, 조건 1이 그 자체의 기준에서 실패하기 때문입니다. 이 원칙은 상업적으로 잘못된
+결정을 보호합니다. 불충실한 결정을 보호하지는 않습니다.
+
+조건 2가 실무상 실패하는 조건입니다. 이사가 그 대상 사안에 어떤 중대한 개인적
+이해관계를 가지면 항변은 사라지며 — 그것이 바로 특수관계자 거래, 이사 대여, 또는
+용역 계약 갱신이 소규모 이사회에 상정되는 상황입니다.
+
+### 타인에 대한 신뢰(s.215)
+
+제215(1)조는 이사가 자신의 의무를 행사함에 있어, 다음이 작성한 정보, 전문가 자문,
+의견, 보고 또는 진술 — 재무제표와 그 밖의 재무 자료를 포함 — 에 의존할 수 있도록
+합니다.
+
+- 이사가 그 사안에 관하여 신뢰할 수 있고 유능하다고 합리적 근거로 믿는 회사의 모든
+  **임원**;
+- 이사가 그 사람의 전문적 역량 범위 내에 있다고 합리적으로 믿는 사안에 관하여 회사가
+  **선임한** 그 밖의 사람;
+- 그 이사의 권한 범위 내의 사안에 관한 **다른 이사**;
+- 이사가 참여하지 않은, 그 위원회의 권한 범위 내의 사안에 관한 이사회의 모든
+  **위원회**.
+
+그런 다음 대부분의 이사회에 대해 항변을 끝내는 조건이 나옵니다. 제215(2)조는 신뢰가
+선의로 이루어지고 **독립적인 평가를 한 후에** 이루어진 경우에만, 회사에 대한 이사의
+지식과 회사 구조 및 운영의 복잡성을 고려하여, 합리적 근거에 의한 것으로 간주합니다.
+
+독립적 평가는 보고를 받는 것과 같지 않습니다. 경영 회계 자료를 심문하지 않고 받아들인
+이사는 독립적 평가를 하지 않은 것이며, s.215는 도움이 되지 않습니다.
+
+### 위임(s.216)
+
+제216(1)조는 이사회가 그 권한 중 어느 것이든 위원회, 이사, 임원, 종업원, 전문가
+또는 그 밖의 사람에게 위임하도록 허용합니다. 그런 다음 제216(2)조는 이사들이
+수임인의 권한 행사에 대해 **자신들이 직접 행사한 것처럼** 책임을 지도록 합니다.
+
+s.216(3)의 탈출구에는 두 부분이 있으며, 둘 다 충족되어야 합니다. 이사들이 수임인이
+이사들 자신의 의무에 부합하게 권한을 행사할 것이라고 항상 합리적 근거로 믿었을 것,
+**그리고** 상황이 조사의 필요를 나타내는 경우 적절한 조사 후에, 선의로, 수임인이
+신뢰할 수 있고 유능하다고 합리적 근거로 믿었을 것.
+
+“상황이 조사의 필요를 나타내는 경우 적절한 조사”가 핵심 문구입니다. 위험 신호 —
+사임, 한정 감사의견, 설명되지 않은 편차 — 는 수동적 위임을 질문할 의무로 전환합니다.
+
+## 회사가 계약이나 보험으로 나를 보호할 수 있는가?
+
+대체로 그렇지 않으며, 설립 시 물려받은 정관에 무효인 조항이 담겨 있을 수 있습니다.
+
+**제288조**는 정관에 있든 회사와의 계약이나 그 밖의 것에 있든, 임원 또는 감사인을
+회사에 관한 과실, 채무불이행, 의무 위반 또는 신탁 위반에 대해 법률상 부과될
+책임에서 면제하거나 그에 대해 면책하는 모든 조항을 무효로 만듭니다. 포괄적 면책
+조항은 단지 일부가 집행 불가능한 것이 아니라 — 이 조문이 그것을 무효로 만듭니다.
+
+**제289조**는 그런 다음 회사가 할 수 있는 것을 떼어냅니다.
+
+- **s.289(3)** — 판결이 임원에게 유리하게 내려지거나, 무죄가 되거나, 이 법에 따라
+  구제가 부여되거나, 절차가 중단되거나 추행되지 않은 소송에서 임원의 **비용**을
+  면책;
+- **s.289(4)** — **회사가 아닌 사람에 대한** 책임과 그러한 청구를 방어하거나 화해하는
+  비용을 면책하되, 형사 소송에서 부과된 벌금과 규제적 성격의 불준수에 대해 규제
+  당국에 지급할 금액은 **제외**.
+
+함께 읽으면, s.213(3)에 따른 RM3 million 벌금은 결코 회사가 여러분을 대신하여 지급할
+수 없으며, 규제상 과징금도 마찬가지입니다. 이사 및 임원 보험은 동일한 경계 안에서
+작동합니다.
+
+## 이 의무는 실제로 어떻게 집행되는가?
+
+네 개의 독립된 경로가 있으며, 이들은 대안이 아닙니다 — 동일한 행위가 둘 이상을
+따라 진행될 수 있습니다.
+
+**1. SSM에 의한 형사 기소.** s.213(3) 범죄는 개인을 상대로 기소됩니다. ss.213,
+217, 218, 228 또는 539에 따른 유죄 판결은 그런 다음 s.198(1)(d)에 따른 자동 결격을
+촉발합니다.
+
+이사의 의무 위반에 대한 화해(compound) 금액을 정하는 관보 게재된 화해 표나 실무
+지침은 없습니다 — 회사법(Companies Act 2016) 자체에는 화해 조항이 없습니다. SSM의
+유일한 화해 권한은 말레이시아 기업위원회법(Companies Commission of Malaysia Act
+2001) (Act 614) s.38A(1)의 일반 권한으로, 이에 따라 등록관은 **검찰총장(Public
+Prosecutor)의 서면 동의를 받아**, 위반을 **최대 벌금의 50%를 초과하지 않는** 금액으로
+화해할 수 있습니다 — 따라서 RM3 million 상한에 대해 최대 RM1.5 million입니다. 그것은
+정액표가 아니라 사안별 재량입니다. SSM의 유일한 공표된 화해 문서인 실무지침
+1/2017(Practice Directive 1/2017)은 이사의 의무 위반이 아니라 지연 제출 불이행을
+다룹니다.
+
+**2. 법정 대표소송(ss.347–348).** 청구인은 법원의 허가를 받아 회사의 이름으로
+소송을 제기할 수 있습니다. 기한은 촉박하고 대칭적입니다. s.348(2)에 따라 허가
+신청 의사를 이사들에게 **서면으로 30일 전에 통지**하고, 허가가 부여되면 s.348(3)에
+따라 **30일 이내에** 소송을 개시해야 합니다. 법원은 청구인이 선의로 행위하는지, 그리고
+그것이 일응 회사의 최선의 이익에 부합하는 것으로 보이는지를 고려합니다. 일단 제기된
+소송은 s.348(5)에 따라 법원의 허가 없이는 중단, 타협 또는 화해할 수 없습니다.
+
+**3. 억압 구제(s.346).** 사원 또는 사채권자는 회사의 업무가 자신의 이익을 억압하거나
+무시하는 방식으로 수행되는 경우 신청할 수 있습니다. 이것이 실제로 대부분의 말레이시아
+주주 분쟁이 취하는 경로입니다.
+
+**4. 도산 시의 개인적 책임.** 제540(1)조는 청산인, 채권자 또는 출자자의 신청에 따라,
+채권자를 사취할 의도로 또는 어떤 사기적 목적으로 사업을 수행하는 데 알면서 가담한
+모든 사람을 회사의 채무에 대해 **아무런 책임 제한 없이 개인적으로 책임 있는** 것으로
+법원이 선언할 수 있도록 합니다. 제539조는 적절한 회계기록이 유지되지 않은 경우
+책임을 지웁니다. 유한책임은 구멍이 뚫린 방패이며, s.540이 그 구멍입니다.
+
+## 흔한 실수
+
+**s.213(1)과 s.213(2)를 하나의 의무로 취급하는 것.** 이들은 내용과 항변이 다릅니다.
+경영판단원칙은 s.213(2)에만 미칩니다. s.214를 “이사의 의무 위반에 대한 항변”으로
+서술하는 자문은 그것을 상당히 과장하는 것입니다.
+
+**s.214를 신뢰 조항으로 인용하는 것.** 그것은 s.215입니다. 이 오류는 놀라울 정도로
+많은 공표된 말레이시아 요약에 나타나며, 두 조항이 완전히 다른 조건을 가지고 있기
+때문에 중요합니다 — s.214는 중대한 개인적 이해관계의 부재를 요구하고, s.215는
+독립적 평가를 요구합니다.
+
+**최고경영진이 의무 체제 밖에 있다고 가정하는 것.** 제210조는 CEO, CFO, COO를
+ss.213–218, 223, 228 안에 정확히 넣습니다. 재무이사가 이사회에 있지 않은 비상장
+Sdn Bhd는 그 사람이 마치 이사인 것처럼 정확히 s.218 기회와 s.228 특수관계자 규칙에
+대해 그에게 설명하고 있어야 합니다.
+
+**정관의 면책 조항에 의존하는 것.** 그것이 의무 위반에 대한 책임을 면책한다면,
+s.288이 그것을 무효로 만듭니다. 많은 정관이 설립 시 범용 양식에서 채택되어 여전히
+그러한 조항을 담고 있습니다.
+
+**사임이 책임 노출을 끝낸다고 믿는 것.** 그것은 재직 중 한 행위에 대한 노출을
+끝내지 않으며, 이사회가 여전히 여러분의 지시에 따라 행위하는 것이 관행이라면, s.2
+정의는 등록부가 무엇이라고 하든 여러분을 계속 이사로 유지합니다. 제227(7)조는 별도로,
+**언제든 이사였던** 모든 사람에게 직위 상실 규칙을 확장합니다.
+
+**단독 이사이자 단독 주주는 마음대로 할 수 있다고 가정하는 것.** 그 의무는 별개의
+법인격인 회사에 대해 미칩니다. 제218(1)조는 이사가 개인적 이익을 위해 회사 재산,
+정보, 지위 또는 기회를 이용하기 전에 **총회**의 동의 또는 추인을 요구하며 — 1인
+회사에서 그것은 회의가 열렸다고 가정하는 것이 아니라 실제로 회의를 열고 의사록에
+기록하는 것을 의미합니다.
+
+## 다음 단계
+
+회사 비서가 마주치는 순서대로 구체적 의무를 검토하십시오. 계약에 대한 이해관계는
+실무상 가장 자주 실패하는 의무이며, 그 실패는 대개 누락된 의사록입니다 —
+[이해관계의 공개](/ko/company-secretary/disclosure-of-interest)를 참조하십시오.
+지분에 관한 개인적 통지 의무는 대부분의 이사가 들어본 적 없는 14일의 기한으로
+진행되며,
+[이사의 지분 통지](/ko/company-secretary/director-shareholding-notification)에서
+다룹니다.
+
+이사회 변경에 대해서는
+[이사의 임명과 사임](/ko/company-secretary/appoint-resign-director)이 동의, 최소
+인원, 직위 상실 규칙을 정하고,
+[이사의 해임](/ko/company-secretary/remove-a-director)이 대부분의 사회사를 포착하는
+서면 결의 금지를 다룹니다. 이사에게 흘러가는 돈에 대해서는
+[이사에 대한 대여](/ko/company-secretary/loans-to-directors)와
+[이사의 보수 승인](/ko/company-secretary/directors-fees-approval)을 참조하십시오.

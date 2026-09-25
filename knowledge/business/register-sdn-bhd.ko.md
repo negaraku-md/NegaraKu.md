@@ -1,0 +1,427 @@
+---
+topicId: MY-BIZ-0001
+title: "말레이시아에서 Sdn Bhd 등록하는 방법: 요건, 비용, 그리고 그다음"
+seoTitle: "말레이시아 Sdn Bhd 등록: 그다음에 오는 것"
+socialTitle: "Registering a Sdn Bhd? The hard part isn't incorporation — it's day two."
+slug: "register-sdn-bhd"
+category: "business"
+subcategory: ["formation"]
+summary: "무엇이 필요한지, SSM 절차가 어떻게 진행되는지, 비용은 얼마인지, 얼마나 걸리는지 — 그리고 회사가 존재하는 날부터 시작되는 규정 준수 의무를 다룹니다."
+
+tier: "1"
+mode: "practical"
+contentType: "guide"
+
+answer: "Sdn Bhd는 SSM4U 포털(이전의 MyCoID 포털을 대체함)을 통해 접속하는 기업등록시스템(Corporate Registry System, CRS)으로 말레이시아 기업위원회(SSM)에 신청서를 제출함으로써 설립됩니다. 말레이시아에 통상적으로 거주하는 이사 최소 1명과 주주 최소 1명(거주자일 필요는 없음), 등록 사무소, 그리고 설립 후 30일 이내에 임명되는 면허 있는 회사 비서(company secretary)가 필요합니다. SSM의 고객 헌장은 수수료가 납부된 후 완전한 신청을 등록하는 데 1영업일이지만, 명칭 승인과 질의가 실제 소요 기간을 늘릴 수 있습니다."
+keyTakeaways:
+  - "Minimum one director who ordinarily resides in Malaysia (Companies Act 2016, s.196)"
+  - "Minimum one shareholder; a private company is capped at 50 shareholders (s.42)"
+  - "No authorised capital and no par value under the Companies Act 2016 — many companies start at RM1 paid-up"
+  - "A licensed company secretary must be appointed within 30 days of incorporation (s.236)"
+  - "Your first annual return is due within 30 days of your incorporation anniversary (s.68)"
+  - "Compliance obligations begin on the date of incorporation, not at financial year end"
+appliesTo: "First-time founders, foreign investors setting up a Malaysian entity, and sole proprietors converting an existing business into a company."
+
+faq:
+  - q: "Can a foreigner own 100% of a Malaysian Sdn Bhd?"
+    a: "In most sectors yes — Malaysia permits full foreign ownership of a private limited company. Certain regulated sectors impose equity conditions or require licences, so the restriction is sector-specific rather than general. The residency requirement applies to the director, not the shareholder."
+  - q: "Can one person be the only director and only shareholder?"
+    a: "Yes. The Companies Act 2016 permits a single-member, single-director private company, provided that director ordinarily resides in Malaysia."
+  - q: "Do I need a company secretary immediately?"
+    a: "You must appoint one within 30 days of incorporation (s.236). The secretary must be licensed by SSM or a member of a prescribed professional body. This is a statutory obligation, not optional."
+  - q: "Is there a minimum paid-up capital?"
+    a: "The Companies Act 2016 sets no statutory minimum, and the concepts of authorised capital and par value were abolished. Many companies incorporate with RM1. Banks, licensing authorities and visa applications may expect substantially more."
+  - q: "Does a dormant company still have to file?"
+    a: "Yes. A dormant company still lodges an annual return and must keep accounting records. Dormancy affects audit and tax treatment, not the existence of filing duties."
+  - q: "Can I use my home address as the registered office?"
+    a: "The registered office must be in Malaysia and be a place where documents can be served and records inspected (s.46). Many companies use their company secretary's office instead."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+revision: 0
+sensitivity: "none"
+revisions:
+  - revision: 0
+    date: 2026-08-14
+    change: "Approved and published."
+    reviewer: null
+
+verificationNeeded: []
+
+obligations:
+  - what: "Appoint a licensed company secretary"
+    trigger: "incorporation"
+    withinDays: 30
+    due: "Within 30 days of incorporation"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.236"
+    consequence: "Statutory breach in your first month; penalties may apply"
+  - what: "Maintain a registered office able to receive service of documents"
+    trigger: "incorporation"
+    due: "From the date of incorporation, continuously"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.46"
+  - what: "Keep statutory registers (members, directors, secretaries, charges)"
+    trigger: "ongoing"
+    due: "From incorporation, kept current"
+    authority: "SSM"
+  - what: "Keep proper accounting records"
+    trigger: "ongoing"
+    due: "From incorporation, kept current"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.245"
+  - what: "Register the company for income tax"
+    trigger: "incorporation"
+    due: "After incorporation, before commencing operations"
+    authority: "LHDN"
+  - what: "Lodge your annual return"
+    trigger: "anniversary"
+    withinDays: 30
+    due: "Within 30 days of each incorporation anniversary"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.68"
+    consequence: "Late lodgement penalties; persistent default can lead to strike-off"
+  - what: "Notify SSM of any change to directors, secretary or registered address"
+    trigger: "change"
+    withinDays: 14
+    due: "Within 14 days of the change"
+    authority: "SSM"
+
+updated: 2026-08-14
+sources:
+  - title: "Companies Act 2016"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Companies Commission of Malaysia (SSM)"
+    url: "https://www.ssm.com.my/"
+    publisher: "SSM"
+  - title: "SSM4U — Corporate Registry System (CRS) portal"
+    url: "https://www.ssm4u.com.my/"
+    publisher: "SSM"
+  - title: "Guidelines for the Incorporation of Local Companies under Section 14 of the Companies Act 2016"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/GUIDELINES/Guidelines-For-Incorporation-of-A-Local-Company.pdf"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Table of Fees (Registration of Company)"
+    url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Frequently Asked Questions (FAQ) — Corporate Registry System (CRS)"
+    url: "https://www.ssm.com.my/Pages/Services/Other-Services/document/CRS-FAQs.pdf"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Inland Revenue Board of Malaysia (LHDN)"
+    url: "https://www.hasil.gov.my/"
+    publisher: "LHDN"
+
+entity: "Sdn Bhd"
+relations:
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "administered-by", to: "ssm" }
+  - { rel: "requires", to: "company-secretary" }
+  - { rel: "compares-with", to: "sole-prop-vs-sdn-bhd" }
+  - { rel: "affects", to: "annual-return" }
+related: ["what-is-sdn-bhd", "appoint-company-secretary", "companies-act-2016", "sole-prop-vs-sdn-bhd"]
+keywords:
+  - "register company Malaysia"
+  - "Sdn Bhd registration"
+  - "SSM incorporation"
+  - "cara daftar syarikat Sdn Bhd"
+  - "how to open company Malaysia"
+  - "CRS SSM4U registration"
+---
+
+대부분의 창업자는 설립을 걱정하며 몇 주를 보냅니다. 그것은 대개 한 해 동안 그들이 하게 될 일
+중 가장 쉬운 일입니다.
+
+서류는 정말로 간단하고, 절차는 온라인이며, 단순한 회사는 며칠이면 등록할 수 있습니다. 사람들을
+곤경에 빠뜨리는 것은 그 이후에 일어나는 일입니다. SSM이 등록 통지를 발급하는 순간, 일련의
+법정 의무가 진행되기 시작하는데 아무도 알림을 보내 주지 않기 때문입니다.
+
+이 안내서는 두 부분을 모두 다룹니다. 어떻게 등록하는지, 그리고 등록하고 나면 무엇을 떠안게
+되는지입니다.
+
+## Sdn Bhd란 실제로 무엇인가
+
+*Sendirian Berhad* — Sdn Bhd — 는 주식으로 유한책임이 제한되는 비공개회사입니다. 중요한
+단어는 **유한(limited)**입니다.
+
+Sdn Bhd는 이를 소유한 사람들과 별개의 법인격입니다. 자기 명의로 재산을 소유하고, 계약을
+체결하며, 제소하고 피소될 수 있습니다. 회사가 실패하면 주주는 일반적으로 자신이 투입한 것을
+잃을 뿐, 자신이 사는 집을 잃지는 않습니다. 그 분리가 이 구조가 존재하는 이유의 전부입니다.
+
+두 가지 결과가 뒤따르며, 둘 다 초보 소유주를 놀라게 합니다:
+
+- **회사의 돈은 귀하의 돈이 아닙니다.** 현금을 인출하는 것은 하나의 거래입니다 — 급여, 이사
+  보수, 또는 배당 — 각각 고유의 세무 처리가 따릅니다.
+- **회사는 그 구성원보다 오래 존속합니다.** 주식은 이전되고, 이사는 사임하며, 법인은
+  계속됩니다. 이것이 은행과 투자자가 이 구조를 선호하는 이유입니다.
+
+비공개회사는 특정 임직원 주주를 제외하고 주주가 50명으로 제한됩니다(회사법(Companies Act
+2016) 제42조). 그 이상이면 공개회사가 되며, 이는 전혀 다른 규율 체계입니다.
+
+## 누가 등록할 수 있는가?
+
+자격 규칙은 어떤 면에서는 대부분의 예상보다 좁고, 다른 면에서는 더 넓습니다.
+
+**이사.** 모든 비공개회사는 *말레이시아에 통상적으로 거주하는*, 즉 이곳에 주된 거주지를 둔
+이사를 최소 1명 두어야 합니다(제196조). 이사는 18세 이상이어야 하고, 면책되지 않은 파산자가
+아니어야 하며, 이 법에 따라 자격이 박탈되지 않아야 합니다. 그 기준은 국적이 아니라 거주임에
+유의하십시오. 실제로 말레이시아에 거주하는 외국 국적자도 이를 충족할 수 있습니다.
+
+**주주.** 최소 1명. 주주는 개인이거나 다른 회사일 수 있고, 내국인이든 외국인이든 상관없으며,
+이사와 동일인일 수 있습니다. 주주에게는 거주 요건이 없습니다.
+
+**외국인 소유.** 대부분의 업종에서 100% 외국인 지분 보유가 허용됩니다. 존재하는 제한은
+업종별입니다. 특정 규제 산업은 지분 조건이나 인허가 요건을 부과합니다. 일반 원칙은 개방이고,
+예외는 표적화되어 있습니다.
+
+이것이 우리가 접하는 가장 흔한 오해입니다. 사람들은 현지 파트너가 필요하다고 가정합니다.
+대개는 필요하지 않습니다. 필요한 것은 거주하는 *이사*입니다.
+
+## 승인받는 명칭 고르기
+
+명칭 거부는 설립 지연의 가장 흔한 원인이며, 거의 항상 피할 수 있습니다.
+
+명칭은 기존 회사와 동일하거나, 회사의 활동이나 지위를 오도하거나, 바람직하지 않은 경우
+거부됩니다. 별도의 범주인 **통제 단어(controlled words)**는 전면 거부되지는 않지만 관련 당국의
+승인이 필요하며, 이는 시간이 걸립니다.
+
+통제 단어에는 왕실이나 정부와의 연관, 국가적 중요성, 또는 규제 활동을 암시하는 용어가
+포함됩니다. 은행업, 보험업, 대학 지위 또는 이와 유사한 규제 분야를 시사하는 단어는 창구에서
+승인되지 않고 회부됩니다.
+
+실무적 접근:
+
+- **순위를 매긴 세 개의 명칭을 준비하십시오.** 하나에 감정적으로 집착하지 마십시오.
+- **제출 전에 검색하십시오.** 비슷하게 들리는 기존 명칭은 거부를 유발합니다.
+- **면허가 없는 규제 활동을 명칭에 묘사하지 마십시오.** 'capital'이나 'insurance'가 들어간
+  명칭은 불필요한 회부를 부릅니다.
+- **명칭은 상표가 아님을 기억하십시오.** 상호 승인은 등록된 그 명칭에 대한 권리를 부여할 뿐,
+  브랜드 권리를 부여하지 않습니다. 그것은 전적으로 별개의 등록입니다.
+
+승인되면 명칭은 제한된 기간 동안 예약됩니다. 그 기간 안에 제출하지 않으면 처음부터 다시
+시작하게 됩니다.
+
+## 정관이 필요한가?
+
+이전 회사법에서는 모든 회사가 기본정관 및 부속정관(Memorandum and Articles of
+Association)을 두었습니다. 회사법(Companies Act 2016)은 이를 바꾸었습니다. 이제 회사는
+정관 **없이** 설립될 수 있으며, 그 경우 이 법의 규정이 기본값으로 적용됩니다(제31조).
+
+대부분의 소규모 회사에는 기본 상태가 충분하고 더 저렴합니다. 맞춤형 정관은 기본값에서 벗어나야
+할 때 그 비용값을 합니다. 예를 들면:
+
+- 이전, 이탈 또는 교착 상태에 관해 정의된 권리를 원하는 복수의 주주
+- 서로 다른 권리를 가진 서로 다른 종류의 주식
+- 이사 임명 또는 이사회 통제에 관한 구체적 규칙
+- 자금 조달의 조건으로서 투자자가 요구하는 사항
+
+> **알아 둘 가치가 있는 것:** 창업자들은 설립 시 비용을 아끼려고 정관을 건너뛰었다가, 공동
+> 창업자가 합류하거나 투자자가 요구할 때 1년 안에 정관이 필요해지곤 합니다. 협상 도중 시간에
+> 쫓기며 작성하는 것은 처음에 차분히 작성하는 것보다 비용이 더 들고 균형도 덜 잡힙니다.
+
+두 명 이상이 회사를 소유하게 된다면, 주주 간 약정을 나중의 형식이 아니라 창업 단계의 결정으로
+다루십시오.
+
+## 제출 전에 필요한 것
+
+포털을 열기 전에 다음을 정해 두십시오. 모든 지연의 절반은 신청 도중에 이를 결정하는 데서
+비롯됩니다.
+
+| 요건 | 최소 | 비고 |
+| --- | --- | --- |
+| 상호 | 승인 1개 | 승인되면 제한된 기간 동안 예약됨 |
+| 이사 | 1명 | 말레이시아에 통상적으로 거주해야 함(제196조) |
+| 주주 | 1명 | 개인 또는 법인; 이사와 동일인일 수 있음 |
+| 등록 사무소 | 1곳 | 말레이시아 내에 있고 문서 송달을 받을 수 있어야 함(제46조) |
+| 회사 비서 | 1명 | SSM 면허 또는 지정 단체의 회원; 30일 이내 임명(제236조) |
+| 납입 자본금 | 법정 최소 없음 | 설립 시 통상 RM1 |
+| 사업 활동 | 코드 1~3개 | 회사가 실제로 할 일을 반영해야 함 |
+
+### 주식 자본에 관한 참고
+
+회사법(Companies Act 2016)은 **수권자본(authorised capital)**과 **액면가(par value)**를
+모두 폐지했습니다. 주식은 더 이상 명목 가치를 갖지 않으며, 언젠가 발행할 수 있는 상한을 더
+이상 선언하지 않습니다.
+
+실무적으로 이는 납입 자본 RM1로 설립하고 나중에 자본 조항을 개정하지 않고도 주식을 더 발행할
+수 있음을 뜻합니다. 그렇게 *해야 하는지*는 다른 문제입니다. 신용을 평가하는 은행, 면허를
+발급하는 당국, 취업 패스를 심사하는 이민 당국은 모두 납입 자본을 실체의 신호로 봅니다. RM1은
+합법입니다. 그러나 항상 신뢰를 주지는 않습니다.
+
+## 등록 절차, 단계별로
+
+설립은 이제 이전의 MyCoID 포털을 대체한 **SSM4U 포털**(https://www.ssm4u.com.my/)을 통해
+접속하는 SSM의 **기업등록시스템(Corporate Registry System, CRS)**으로 진행됩니다. 최초
+사용자는 SSM4U 계정을 등록한 뒤 **아무 SSM 창구에서 대면 신원 확인**을 완료해야 합니다. CRS
+접근은 그 확인이 성공하고 계정이 활성화되어야만 부여됩니다. CRS는 세 가지 설립 경로를
+제공합니다. Name Reservation, Direct Registration, Guaranteed Incorporation입니다.
+
+1. **명칭을 검색하고 (선택적으로) 예약합니다.** CRS(SSM4U 포털)를 통해 사용 가능 여부를
+   확인합니다. 기존 회사와 동일하거나, 오도하거나, 통제 단어를 사용하는 명칭은 거부됩니다.
+   명칭 예약은 선택 사항입니다. 승인된 예약은 제한된 기간 동안 보유되므로 그 안에 제출하십시오.
+
+2. **이사와 주주 정보를 확정합니다.** 신분 증명서, 거주지 주소, 그리고 정확한 지분 배분입니다.
+   지금 지분을 제대로 정하십시오. 나중에 바꾸는 것은 주식 이전이며 인지세가 따릅니다.
+
+3. **주식 구조를 정합니다.** 주식 수와 납입 금액입니다.
+
+4. **사업 활동 코드를 선택합니다.** 이는 회사가 하는 일을 설명합니다. 정확히 선택하십시오.
+   인허가 당국과 은행이 이를 읽으며, 코드와 실제 영업 간의 불일치는 몇 달 뒤에 문제를
+   일으킵니다.
+
+5. CRS(SSM4U 포털)를 통해 **SSM에 설립 신청서를 제출합니다**(제14조).
+
+6. **등록 통지를 받습니다.** 등록관이 회사를 등록하고 통지를 발급합니다(제15조). **귀하의
+   회사는 이 날짜부터 법적으로 존재합니다** — 이것이 아래의 모든 사항에 대한 기한이 시작되는
+   순간입니다.
+
+7. **30일 이내에 회사 비서를 임명합니다**(제236조). 비서는 SSM 면허를 보유하거나 지정된
+   전문직 단체에 속해야 합니다.
+
+8. **법인 은행 계좌를 개설합니다.** 은행은 (채택한 경우) 정관, 이사회 결의, 그리고 이사 신분
+   증명을 요구합니다.
+
+9. **LHDN에 소득세를 등록하고**, 활동과 매출이 요구하는 경우 SST도 등록합니다.
+
+## 소요 기간
+
+명칭이 승인되고 정보가 완비되면 설립 자체는 빠릅니다. SSM의 고객 헌장은 수수료를 납부한 완전한
+신청이 제출되면 회사를 등록하는 데 **1영업일**입니다. 명칭 승인과 SSM이 제기하는 질의는 실제
+소요 기간을 늘립니다. 질의를 받은 신청은 30일 이내에 수정해야 하며, 그렇지 않으면 자동으로
+거부됩니다. 흔히 인용되는 '1~3영업일'은 명칭 승인과 질의 지연을 흡수한 현실적 추정치이지 SSM이
+공표한 기준이 아닙니다.
+
+현실적인 일정은 SSM의 몫이 아닌 부분들이 좌우합니다:
+
+| 단계 | 지연의 전형적 원인 |
+| --- | --- |
+| 명칭 승인 | 거부된 명칭; 회부가 필요한 통제 단어 |
+| 서류 준비 | 신분 증명서나 주주 결정 대기 |
+| 설립 | 대개 가장 빠른 단계 |
+| 은행 계좌 개설 | 흔히 가장 긴 단계 — 컴플라이언스 확인을 예상하십시오 |
+
+SSM이 아니라 은행을 중심으로 계획하십시오. 창업자들은 늘 이 점에 놀랍니다.
+
+## 비용
+
+설립 비용은 세 가지로 나뉩니다:
+
+- SSM에 납부하는 **법정 수수료.** 주식으로 유한책임이 제한되는 회사를 설립하면 **RM1,000**의
+  법정 수수료가 부과됩니다(회사규정(Companies Regulations 2017) 수수료표; 제14조). 설립 시
+  SSM은 총 **RM1,010**을 징수하는데, RM1,000 수수료에 **RM10** 회사 정보 공유 수수료를 더한
+  것으로, 흔히 인용되는 'RM1,010 포함' 금액입니다. 사전에 명칭을 예약하는 것은 선택 사항이며
+  **30일당 RM50**(제27조), 최대 180일까지입니다. 직접 설립이나 보장 설립에는 RM50이 부과되지
+  않습니다.
+- **회사 비서** — 연간 고정 보수에 설립 서비스 수수료가 더해집니다.
+- **지속적 규정 준수** — 회계, 해당하는 경우 감사, 그리고 세무 신고입니다.
+
+> SSM의 법정 수수료는 수시로 개정됩니다. 위 수치는 SSM이 공표한 수수료표와 설립 지침 기준으로
+> 현재의 것입니다. 예산을 세우기 전에 SSM 사이트에서 최신 요율표를 확인하십시오.
+
+피할 가치가 있는 실수는 설립 비용만 예산에 넣는 것입니다. 회사로 존재하는 데 드는 반복적인
+연간 비용 — 비서, 회계, 세무, 그리고 면제 자격이 없다면 감사 — 은 첫해에 일회성 설립 비용을
+초과할 것입니다.
+
+## 개인사업체, LLP, 아니면 Sdn Bhd?
+
+| | 개인사업체 | LLP | Sdn Bhd |
+| --- | --- | --- | --- |
+| 책임 | 무한 — 개인 자산 노출 | 유한 | 주식 자본으로 제한 |
+| 별개 법인격 | 아니오 | 예 | 예 |
+| 세무 처리 | 개인 소득세율 | 법인 방식 | 법인세율 |
+| 투자 유치 | 매우 어려움 | 어려움 | 수월함 — 주식 발행 |
+| 영속성 | 아니오 | 예 | 예 |
+| 지속적 규정 준수 | 최소 | 중간 | 비서, 연차 보고서, 감사 |
+| 준거법 | 사업자등록법(Registration of Businesses Act 1956) | 유한책임조합법(LLP Act 2012) | 회사법(Companies Act 2016) |
+
+아이디어를 시험하고 있고, 위험이 낮으며, 가능한 한 가장 가벼운 행정 부담을 원한다면
+**개인사업체를 선택하십시오**.
+
+완전한 회사 수준의 규정 준수 없이 책임 보호를 원하는 소규모 전문직 조합이라면 **LLP를
+선택하십시오**.
+
+다음 중 어느 하나라도 해당한다면 **Sdn Bhd를 선택하십시오**. 책임 분리를 원하거나, 채용할
+계획이거나, 외부 투자를 유치할 것이거나, 더 큰 고객에게 신뢰를 얻어야 하거나, 사업이 귀하의
+관여보다 오래 지속되기를 기대하는 경우입니다.
+
+## 회계연도 종료일 정하기
+
+설립 시 아무도 이를 결정하라고 요구하지 않고 대부분의 창업자는 이를 전혀 생각하지 않지만, 첫
+회계연도 종료일이 이후 매년 회계, 감사, 세무 신고의 기한을 결정합니다.
+
+회사는 자체 회계연도 종료일을 선택할 수 있습니다. 첫 회계 기간은 법정 한도 내에서 12개월보다
+길거나 짧을 수 있으며, 이는 종료일을 우연이 아니라 의도적으로 배치할 여지를 줍니다.
+
+따져 볼 만한 두 가지 고려 사항:
+
+- **업무 부하 시점.** 회계연도 종료일이 가장 바쁜 영업 월에 걸리면, 재고 실사, 회계 작성,
+  감사가 모두 성수기 운영과 충돌합니다.
+- **첫해 기간.** 첫 기간이 매우 짧으면 거의 즉시 회계, 감사, 신고 비용의 전체 주기를 부담하게
+  됩니다. 첫 기간을 길게 잡으면 이를 미룰 수 있지만, 첫 완전한 수치 세트도 함께 늦어집니다.
+
+회계연도 종료일을 나중에 바꾸는 것은 가능하지만 신고가 따르고 비교 수치를 복잡하게 만들 수
+있습니다. 처음에 의도적으로 선택하는 것이 훨씬 저렴합니다.
+
+## 설립 다음 날
+
+이것이 대부분의 안내서가 빠뜨리는 부분이며, 회사가 벌칙을 받는 이유입니다.
+
+등록 통지에 적힌 날짜부터:
+
+- **회사 비서** — 30일 이내에 임명(제236조).
+- **등록 사무소** — 유지되어야 하며, 통지가 송달되는 곳입니다(제46조).
+- **법정 등록부** — 사원, 이사, 비서 및 담보권 등록부를 비치해야 합니다.
+- **회계 기록** — 비치하고 보관해야 합니다(제245조).
+- **연차 보고서** — 설립 주년마다 30일 이내에 제출합니다(제68조). 이는 회계연도 종료일이
+  아니라 설립일부터 진행됨에 유의하십시오.
+- **재무제표** — 법정 기한 내에 작성, 회람, 제출합니다. 회사가 면제 자격을 갖추지 않는 한
+  감사가 요구됩니다.
+- **세무** — LHDN에 등록하고, 분할 납부 제도에 따라 세금을 추정하고 납부합니다.
+
+> **감사 면제.** 비공개회사는 SSM 실무 지침 제10/2024호(PD 3/2017을 폐지함)에 따라 매출,
+> 총자산, 종업원 수라는 세 가지 기준 중 **두 가지**를 충족하면 감사인 임명이 면제됩니다.
+> 기준은 단계적으로 적용됩니다. 2025년에 시작하는 회계연도는 **RM1m / RM1m / 종업원 10명**,
+> 2026년에 시작하는 연도는 **RM2m / RM2m / 20명**, 2027년 1월 1일 이후에 시작하는 연도는
+> **RM3m / RM3m / 30명**이며, 각 수치는 당해 연도와 직전 2개 회계연도에도 적용됩니다. 휴면
+> 회사도 면제됩니다. 2026년 현재 2단계 기준(RM2m / RM2m / 20명)이 적용됩니다. 이 면제는 면제
+> 비공개회사 증명서를 제출한 회사(제260조), 공개회사, 공개회사의 비공개 자회사, 또는 외국
+> 회사에는 적용되지 않습니다.
+
+이 중 어느 것도 알림 서한으로 도착하지 않습니다. 이를 놓치면 벌칙이 따르고, 지속적인 불이행은
+등록 말소(strike-off) 조치로 이어질 수 있습니다.
+
+## 흔한 실수
+
+- **실제 사업과 일치하지 않는 사업 활동 코드.** 이는 나중에 인허가나 은행 거래의 장애물로
+  나타나며, 되돌리기가 번거롭습니다.
+- **설립을 결승선으로 여기는 것.** 그것은 규정 준수 주기의 시작입니다.
+- **30일 비서 임명 기한을 놓치는 것.** 첫 달의 법정 위반입니다.
+- **휴면 회사는 아무것도 제출하지 않는다고 가정하는 것.** 그래도 연차 보고서는 제출합니다.
+- **오로지 저렴하게 하려고 납입 자본을 정하는 것.** RM1은 합법이지만 은행과 인허가 당국에는
+  빈약하게 비칩니다.
+- **설립 시 지분 배분을 잘못 정하는 것.** 나중에 바로잡는 것은 수정이 아니라 이전입니다.
+
+## 다음 단계
+
+설립 직후에 주의를 기울일 가치가 있는 두 가지가 있습니다. 30일 기한 내에 회사 비서를 임명하는
+것, 그리고 연차 보고서와 세무 기한을 뒤늦게 발견하는 것이 아니라 미리 알 수 있도록 첫해 규정
+준수 달력을 작성하는 것입니다.
+
+아직 구조를 선택하는 중이라면, 개인사업체와 Sdn Bhd의 상세 비교가 세무와 책임의 상충 관계를
+더 깊이 다룹니다.
+
+---
+
+**검증 상태.** 이는 SSM 1차 자료에 비추어 검토한 AI 지원 안내서입니다. 법조문 참조는
+회사법(Companies Act 2016)에 대한 것입니다. 수수료 금액, SSM의 1영업일 고객 헌장, CRS/SSM4U
+플랫폼 변경, 감사 면제 기준은 각각 SSM이 공표한 수수료표, 설립 지침, CRS FAQ, 실무 지침
+제10/2024호에 근거합니다.

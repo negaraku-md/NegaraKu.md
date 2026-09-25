@@ -1,0 +1,267 @@
+---
+topicId: MY-CS-0035
+title: "Sdn Bhd의 서면 결의: 작동 방식과 할 수 없는 것"
+seoTitle: "말레이시아 서면 결의: s.297에 따른 규칙"
+slug: "written-resolutions"
+category: "company-secretary"
+subcategory: ["meetings-resolutions"]
+summary: "비공개회사가 회사법(Companies Act 2016)에 따라 사원 결의를 서면으로 가결하는 방법, 회람과 합의의 방식, 그리고 이 법이 이 방식으로 가결하는 것을 금지하는 두 가지 결의."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "비공개회사는 회사법(Companies Act 2016) s.290(1)(a)에 따라 회의를 개최하지 않고 서면 결의로 사원 결의를 가결할 수 있습니다. s.297(2)은 정확히 두 가지 예외를 만듭니다 — s.206에 따른 이사 해임과 s.276에 따른 감사인 해임입니다. 둘 다 회의에 부쳐야 합니다. 서면 결의는 요구되는 다수의 자격 있는 사원이 합의를 표시한 때 가결되며, 사원이 제안한 것은 정관에 달리 규정이 없는 한 28일 후에 실효됩니다."
+keyTakeaways:
+  - "Only private companies may use written resolutions — s.290(2) requires public company resolutions to be passed at a meeting"
+  - "s.297(2) lists exactly two carve-outs: s.206 director removal and s.276 auditor removal"
+  - "A special resolution passed in writing must state that it is a special resolution — s.292(2)"
+  - "Agreement, once signified, cannot be revoked under s.306(3)"
+  - "A member-proposed written resolution lapses 28 days after the circulation date under s.307(1)"
+  - "Members holding 5% of voting rights can force circulation of their own written resolution under s.302"
+  - "Failing to circulate properly is an offence but does not invalidate a resolution that passes"
+appliesTo: "Directors, shareholders and company secretaries of Malaysian private companies passing members' resolutions without convening a meeting."
+
+faq:
+  - q: "Can a Sdn Bhd remove a director by written resolution?"
+    a: "No. Section 297(2)(a) of the Companies Act 2016 expressly provides that a resolution under s.206 to remove a director before the expiration of his term of office shall not be passed as a written resolution. It must be put to a meeting of members. This is one of only two exclusions in the whole subdivision."
+  - q: "Can a public company use written resolutions?"
+    a: "No. Section 290(2) requires a resolution of the members or of a class of members of a public company to be passed at a meeting of the members. The written resolution subdivision, ss.297 to 308, is headed Written Resolutions of Private Companies and applies to private companies only."
+  - q: "How is a written special resolution passed?"
+    a: "By members holding not less than 75 per cent of the relevant voting entitlement signifying agreement, under s.292(1)(b). Critically, s.292(2) adds that a resolution of a private company passed as a written resolution is not a special resolution unless it is stated to be a special resolution and passed as one. Label it on the face of the document."
+  - q: "Can a member change their mind after signing?"
+    a: "No. Section 306(3) states that a member's agreement to a written resolution, once signified, shall not be revoked. Agreement is signified when the company receives an authenticated document identifying the resolution and indicating agreement, under s.306(1)."
+  - q: "How long does a written resolution stay open?"
+    a: "For a resolution made under s.302 — that is, one requisitioned by members — s.307(1) sets a lapse period of 28 days beginning with the circulation date, unless the constitution provides otherwise. Agreement signified after that period is ineffective under s.307(2)."
+  - q: "Do written resolutions need to be filed with SSM?"
+    a: "Not as a class. There is no general duty to lodge every resolution. Lodgement duties attach to specific subject matter — for example, an approval to allot shares must be lodged within 14 days under s.76(2), a constitution amendment within 30 days under s.36(3), and notice of an auditor removal within 14 days under s.278(1)."
+
+verificationNeeded:
+  - "Whether SSM has issued any practice directive or guideline on the form of authentication acceptable for electronic signification of agreement under s.306 — none was located in the SSM legal framework library"
+
+obligations:
+  - what: "Circulate a member-requisitioned written resolution to every eligible member"
+    trigger: "change"
+    withinDays: 21
+    due: "not more than 21 days from the date the company becomes subject to the requirement to circulate under s.302"
+    authority: "Company (to its members)"
+    statute: "Companies Act 2016, s.303(3)"
+    consequence: "The requisitioning member may circulate the resolution instead and recover reasonable expenses from the company"
+  - what: "Written resolution lapses if not passed"
+    trigger: "change"
+    withinDays: 28
+    due: "28 days beginning with the circulation date, unless the constitution provides otherwise"
+    authority: "Company (internal)"
+    statute: "Companies Act 2016, s.307(1)"
+    consequence: "Agreement signified after the period is ineffective and the resolution fails"
+  - what: "Lodge with the Registrar an approval given by resolution for directors to allot shares"
+    trigger: "change"
+    withinDays: 14
+    due: "within 14 days from the date of the approval"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.76(2)"
+    consequence: "Fine not exceeding RM500,000 and a further fine not exceeding RM1,000 per day for a continuing offence"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–308"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+    date: "2022-08-01"
+  - title: "Companies Act 2016 (Act 777) — s.206 removal of directors and s.276 removal of auditors"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+    date: "2022-08-01"
+  - title: "Companies (Amendment) Act 2024 (Act A1701)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
+    publisher: "SSM"
+    date: "2024-02-02"
+
+entity: "Written resolution of a private company"
+relations:
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "administered-by", to: "ssm" }
+  - { rel: "related-to", to: "remove-a-director" }
+  - { rel: "related-to", to: "minute-books-and-records" }
+related: ["remove-a-director", "minute-books-and-records", "resolution-notice-periods", "board-meetings-and-minutes"]
+keywords: ["written resolution Malaysia", "section 297 Companies Act 2016", "circular resolution Sdn Bhd", "special resolution in writing", "remove director written resolution"]
+---
+
+말레이시아의 대부분의 Sdn Bhd 주주 결정은 회의를 전혀 거치지 않습니다. 서류가 서명되고,
+비서가 이를 정리하며, 아무도 다시 생각하지 않습니다. 그것은 잘 작동합니다 — 법적으로 그
+방식으로 내릴 수 없는 유일한 결정이 그 방식으로 내려지고, 이사 해임이 나중에 무효라며
+다투어지기 전까지는 말입니다.
+
+그러한 결정은 정확히 두 가지입니다. 어느 둘인지, 그리고 왜인지를 아는 것이 s.297을
+이해하는 것의 가치 전부입니다.
+
+## 회사법(Companies Act 2016)상 서면 결의란 무엇입니까?
+
+s.290(1)은 비공개회사에 사원 결의에 이르는 두 가지 경로를 부여합니다. 즉 서면 결의, 또는
+사원 회의에서의 결의입니다. 둘 다 동등하게 유효합니다. s.290(2)은 공개회사에 대해 첫 번째
+경로를 닫습니다 — 그들의 사원 결의는 회의에서 가결되어야 하며, 예외가 없습니다.
+
+s.290(3)은 유용한 기본값을 제공합니다. 즉 이 법이 어떤 종류의 결의가 요구되는지 명시하지
+않고 정관에 규정이 없는 경우, 보통결의로 충분합니다.
+
+서면 결의는 이사회 또는 비공개회사의 어느 사원이든 제안할 수 있습니다(s.297(1)). 이를
+*제안*하는 데에는 최소 주식 보유가 없습니다 — s.302의 5% 기준은 회사가 이를 *회람하도록
+강제*하는 데에만 적용됩니다.
+
+## 서면 결의로 가결할 수 없는 것은 무엇입니까?
+
+이것이 중요한 부분이며, 이 법은 이례적으로 이에 대해 짧습니다. s.297(2)은 다음과 같습니다.
+
+> 다음은 서면 결의로 가결되어서는 아니 된다.
+> (a) 이사의 임기 만료 전에 이사를 해임하는 제206조에 따른 결의; 또는
+> (b) 감사인의 임기 만료 전에 감사인을 해임하는 제276조에 따른 결의.
+
+**두 항목입니다. 그 밖에는 없습니다.** 상당수의 말레이시아 논평은 서면 결의 경로를 명시되지
+않은 제한들로 둘러싸인 것으로 취급하지만 — 그렇지 않습니다. 비공개회사의 사원이 결의할 수
+있는 그 밖의 모든 것은 서면으로 결의할 수 있으며, 특별결의·자본 감소·정관 변경·임의 청산도
+포함됩니다.
+
+두 예외의 논리는 각 경우에 동일합니다. 즉 해임에 직면한 사람은 진술할 법정 권리를 가집니다.
+s.206에 따라 이사를 해임하는 어떠한 결의 — s.206(1)(a)에 따른 비공개회사의 해임을 포함하여 —
+에도 s.206(3)에 의해 특별 통지가 요구되며, 그런 다음 s.207은 그 이사에게 구두 또는 서면
+진술을 할 권리를 부여합니다. s.277(3)은 감사인에게 특별 통지 수령으로부터 7일을 부여하여
+서면 진술을 하게 하고, s.277(5)은 감사인이 그 진술을 회의에서 낭독하도록 요구할 수 있게
+합니다. 두 권리 어느 것도 회의가 없으면 작동할 수 없습니다. 이 예외는 표결이 아니라 청문을
+보호합니다.
+
+비공개회사에 대한 결과에 유의하십시오. s.206(1)(a)에 따라 비공개회사는 정관에 따를 것을
+조건으로 *보통*결의로 이사를 해임할 수 있습니다 — 낮은 문턱입니다. 그러나 그렇게 하려면
+여전히 회의를 소집해야 합니다. 기준은 쉽지만 절차는 선택 사항이 아닙니다.
+
+## 서면 결의는 어떻게 회람됩니까?
+
+| 단계 | 요건 | 조 |
+| --- | --- | --- |
+| 자격 있는 사원 확인 | 회람일에 의결권이 있는 사원 | s.298(1) |
+| 회람일 확정 | 사본이 발송되는 날, 또는 그 날들 중 첫날 | s.299 |
+| 매체 선택 | 서면 또는 전자적 형식 | s.300(1) |
+| 발송 | 직접 또는 우편으로 제공된 주소로, 또는 제공된 전자 주소로 | s.300(2) |
+| 진술 첨부 | 합의 절차와 실효일 | s.301(2), s.303(4) |
+
+이사회가 결의를 제안하는 경우, s.301(1)은 사본이 **실행 가능한 한 동시에** 모든 자격 있는
+사원에게 발송되도록 요구합니다. 이를 위반하는 것은 RM10,000 이하의 벌금에 처해지는
+범죄이지만(s.301(3)) — s.301(4)은 결의가 어쨌든 가결되면 그 유효성을 유지합니다. 동일한
+이분이 s.303(5)에도 나타납니다.
+
+s.298(2)은 회람 당일에 등록부가 변경되는 곤란한 경우를 다룹니다. 즉 자격은 첫 사본이 발송된
+순간에 확정됩니다.
+
+## 사원이 회사에 결의를 회람하도록 강제할 수 있습니까?
+
+그렇습니다. 이것이 이 소구분에서 잘 활용되지 않는 절반입니다. s.302(1)에 따라 **모든 자격
+있는 사원의 총 의결권의 5%**를 — 또는 정관이 정하면 그보다 낮은 비율을 — 보유하는 사원은
+서면 결의로 적법하게 제출될 수 있는 결의를 회사가 회람하도록 요구할 수 있습니다. 그들은
+**1,000단어 이내**의 진술을 첨부할 수 있습니다(s.302(3)).
+
+회사는 s.302(2)의 네 가지 사유로만 거부할 수 있습니다. 즉 결의가 성문법이나 정관과의
+불합치로 효력이 없거나, 명예훼손적이거나, 경솔하거나 남용적이거나, 회사의 최선의 이익에
+부합하지 않는 경우입니다.
+
+요구가 효력을 발휘하면, s.303(3)은 이사들에게 사본을 발송할 **21일**을 부여합니다. 그렇게
+하지 않으면 s.303(6)은 요구한 사원이 대신 이를 회람할 수 있게 하고, s.303(7)은 회사가
+합리적 비용을 상환하도록 하며 — s.303(8)은 회사가 그 금액을 해태한 이사들의 보수에서
+회수할 수 있게 합니다.
+
+기본값으로 비용은 반대 방향으로 흐릅니다. s.304에 따라 요구하는 사원이 회사의 회람 비용을
+지급하며, 의무가 발생하기 **최소 1주 전에** 충분한 금액이 예치되지 않는 한 회사는 응할
+필요가 없습니다. s.305는 s.302의 권리가 남용되는 경우 회사나 피해자가 법원에 신청할 수
+있게 합니다.
+
+## 서면 결의는 실제로 언제 가결됩니까?
+
+사원은 결의를 특정하고 합의를 표시하는 인증된 문서를 회사가 수령한 때 합의를 표시합니다
+(s.306(1)). 그것은 서면 또는 전자적 형식으로 보낼 수 있습니다(s.306(2)). 일단 표시되면
+**합의는 철회할 수 없습니다**(s.306(3)).
+
+결의는 요구되는 다수가 합의를 표시한 순간에 가결됩니다(s.306(4)) — 마지막 서명을 받아낸
+때가 아니고, 비서가 파일을 정리한 때도 아닙니다.
+
+요구되는 다수로 인정되는 것은 종류에 따라 다릅니다.
+
+- **보통결의** — 서면 결의에 의결권이 있는 사원의 절반 초과(s.291(1)(b)).
+- **특별결의** — 그러한 사원의 75% 이상(s.292(1)(b)), *그리고* 문서가 특별결의임을 명시하고
+  그렇게 가결되어야 함(s.292(2)).
+
+그 마지막 요건이 말레이시아 서면 결의에서 가장 흔한 기술적 하자입니다. 90%의 합의를
+달성했으나 "특별결의(special resolution)"라는 말을 결코 적지 않은 문서는, s.292(2)의 문면상
+특별결의가 아닙니다.
+
+## 21일의 특별결의 통지가 서면 결의에 적용됩니까?
+
+s.292(1)은 "21일 이상의 통지가 부여된 결의"라는 말로 시작합니다. 그 통지 요건은 회의를
+겨냥한 것입니다 — s.316(1)은 s.292가 자체의 더 긴 것을 정하기 때문에 바로 그 이유로
+특별결의 회의를 통상의 14일 통지 기간에서 제외합니다.
+
+서면 경로의 경우 작동하는 통제는 다릅니다. 즉 사원이 요구하는 경우의 s.303(3) 21일 회람
+의무, s.307(1)의 28일 실효 기간, 그리고 s.292(2)의 표시 요건입니다. "서면 특별결의가
+서명되기 전에 일률적으로 21일의 통지"가 필요하다고 주장하는 지침은 회의가 없는 장치에
+회의 규칙을 끌어들이는 것입니다.
+
+## 이후에는 무엇을 비치해야 합니까?
+
+s.341(1)(a)은 회사가 회의 이외의 방법으로 가결된 모든 사원 결의 — 즉 모든 서면 결의 —
+의 기록을 비치하도록 요구합니다. s.341(2)은 그 기록을 **최소 7년간** 비치하도록 요구합니다.
+
+**서면 결의를 기록에 기재할 법정 기한은 없습니다.** s.341은 작성 규정이 아니라 보존
+규정입니다. 이에 흔히 결부되는 60일 규칙은 회계 기재를 규율하는 s.245(2)입니다.
+
+s.343(1)은 이사나 비서가 서명한 서면 결의의 기록을 그것이 가결되었다는 충분한 증거로 만들고,
+s.343(2)은 반대가 입증되지 않는 한 이 법의 요건이 준수된 것으로 봅니다. 그 증거상의 추정이,
+아무도 기록하지 않은 완벽한 절차보다 깔끔하고 서명되고 날짜가 적힌 파일이 더 가치 있는
+이유입니다.
+
+## 흔한 실수
+
+**회람 결의로 이사를 해임하는 것.** 이 영역에서 가장 결과가 중대한 오류이며, s.206(1)(a)이
+비공개회사에서 해임을 너무 쉽게 만들어 절차가 건너뛰어지기 때문에 발생합니다. s.297(2)(a)은
+명백합니다. 회의를 소집하십시오.
+
+**특별결의를 표시하지 않는 것.** s.292(2)은 실질적 효력을 가진 형식입니다. 결의가 이 법이
+특별결의여야 한다고 요구하는 것 — s.36(1)에 따른 정관 변경, s.115에 따른 자본 감소 — 인
+경우, 그 표시는 결정적입니다.
+
+**공개회사가 서면 경로를 사용할 수 있다고 가정하는 것.** s.290(2)이 이를 차단합니다. 이는
+비공개에서 공개로 전환하고 옛 비서 관행을 유지한 회사를 곤경에 빠뜨립니다.
+
+**s.302의 5%를 제안 기준으로 취급하는 것.** 그렇지 않습니다. s.297(1)은 *어느* 사원이든
+서면 결의를 제안할 수 있게 합니다. s.302는 이사회의 뜻에 반하여 회사가 하나를 회람하도록
+강제하는 것에 관한 것입니다.
+
+**잘못된 명단에 회람하는 것.** 자격은 마지막 서명이 도착하는 날이 아니라 회람일의 등록부에
+의해 확정됩니다(s.298). 회람 도중 등록된 양도는 누가 자격이 있었는지를 소급하여 바꾸지
+않습니다.
+
+**요구된 결의가 28일을 넘겨 흘러가도록 두는 것.** s.307(2)은 늦은 합의를 무효로 만듭니다.
+다시 회람하는 것 외에는 치유책이 없습니다.
+
+## 다음 단계
+
+먼저 귀사의 정관을 확인하십시오 — 위 규칙 중 여럿은 정관이 변경할 수 있는 기본값으로
+표현되어 있으며, s.302의 비율과 s.307의 실효 기간을 포함합니다. 귀사의 Sdn Bhd에 정관이
+없다면, 이 법의 기본값이 귀사의 규칙집입니다.
+
+의제에 오른 결정이 이사 해임이라면, 회의 절차와 특별 통지 규칙에 대해서는
+`remove-a-director`를 읽으십시오. 모든 통지 기간을 한 표에 담은 것은 `resolution-notice-periods`를
+참조하십시오. 이사회가 병행하여 하는 일은 `board-meetings-and-minutes`를 참조하십시오.

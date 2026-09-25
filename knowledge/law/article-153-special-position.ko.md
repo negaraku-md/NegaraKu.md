@@ -1,0 +1,148 @@
+---
+topicId: MY-LAW-0022
+title: "제153조: 연방헌법이 실제로 유보하는 것, 그리고 건드릴 수 없는 것"
+slug: "article-153-special-position"
+category: "law"
+subcategory: ["constitutional"]
+summary: "연방헌법(Federal Constitution) 제153조는 양 디페르투안 아공(Yang di-Pertuan Agong)에게, 연방 공무, 장학금, 통상 허가 또는 면허에서의 재량적 할당을 통하여 말레이인 및 사바·사라왁 원주민의 특별한 지위와 다른 공동체의 정당한 이익을 보호할 책임을 부여합니다. 이 문서는 항별로, 그것이 무엇을 유보하는지, 무엇을 명시적으로 할 수 없는지, 그리고 어떻게 확고히 정착되어 있는지를 정리하며 — 그에 대한 문서화된 입장들을 그 사이에서 판단하지 아니하고 보고합니다."
+
+tier: "S"
+mode: "practical"
+contentType: "law"
+
+answer: "연방헌법(Federal Constitution) 제153조는 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)에게, 말레이인 및 사바·사라왁 원주민의 특별한 지위와 다른 공동체의 정당한 이익을 모두 보호할 책임을 부여합니다. 그것은 연방 공무 직위, 장학금 및 교육상의 특전, 그리고 통상 또는 사업 허가나 면허를 고정적이 아니라 재량적으로 유보하는 권한을 부여합니다. 한계는 동일한 조문에 규정되어 있습니다. 즉 이미 보유한 직위, 장학금, 허가 또는 면허를 박탈할 수 없으며(제4항, 제7항, 제8항); 동일 등급의 연방 피용자는 인종에 관계없이 공평하게 대우받아야 한다는 헌법상 요건을 무효화하지 아니하고(제5항, 제136조와 함께 읽음); 국회는 이를 통상이나 사업을 일반적으로 제한하는 데 사용할 수 없습니다(제9항). 이를 개정하려면 통치자 회의(Conference of Rulers)의 동의가 필요합니다(제159조 제5항)."
+keyTakeaways:
+  - "Article 153(1) charges the Yang di-Pertuan Agong with safeguarding both the special position of the Malays and natives of Sabah and Sarawak, AND the legitimate interests of other communities — the same clause states both"
+  - "The reservations cover three areas only: federal public service positions, scholarships/educational privileges, and trade or business permits/licences — quotas are 'as he may deem reasonable', not fixed percentages set out in the text itself"
+  - "Clauses 4, 7 and 8 bar depriving anyone of an office, scholarship, permit or licence they already hold, or refusing routine renewal"
+  - "Clause 5 states the Article does not derogate from Article 136, which requires federal employees of the same grade to be treated impartially regardless of race"
+  - "Clause 9 states nothing in the Article empowers Parliament to restrict trade or business generally for the purpose of these reservations"
+  - "Amending Article 153 requires the consent of the Conference of Rulers under Article 159(5), and the Conference must be consulted before any change in policy on its administration under Article 38(5)"
+appliesTo: "Anyone seeking a clause-by-clause, descriptive account of what Article 153 provides and what it excludes, without adjudicating the political debate around it."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+
+sensitivity: "race"
+updated: 2026-07-24
+sources:
+  - title: "Federal Constitution (Reprint 2020, as at 15 October 2020) — Article 153, and related Articles 10, 38, 136, 159, 160, 161A"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Attorney General's Chambers of Malaysia (AGC)"
+    date: "2020-10-15"
+  - title: "Bumiputera Statistics, 2024"
+    url: "https://www.dosm.gov.my/portal-main/release-content/bumiputera-statistics-2024"
+    publisher: "Department of Statistics Malaysia (DOSM)"
+    date: "2024-12-24"
+  - title: "Government to Continue Upholding Federal Constitution Including Article 153 – PM Anwar"
+    url: "https://www.pmo.gov.my/en/news-en/government-to-continue-upholding-federal-constitution-including-article-153-pm-anwar/"
+    publisher: "Prime Minister's Office of Malaysia"
+    date: "2024-02-20"
+  - title: "Understanding 'Special Position' of Malays (reproducing Raja Aziz Addruse & Helen Ting, New Sunday Times, 22 June 2008)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/members-opinions/understanding-special-position-of-malays"
+    publisher: "Malaysian Bar"
+    date: "2008-06-22"
+  - title: "Article 153 of the Federal Constitution: Governing Principle for Affirmative Policy Against Social Injustice, Journal of Governance and Integrity, Vol. 5(1)"
+    url: "https://journal.ump.edu.my/jgi/article/view/7130"
+    publisher: "Universiti Malaysia Pahang (UMP) / Journal of Governance and Integrity"
+    date: "2021-12-01"
+
+entity: "Article 153 of the Federal Constitution"
+relations:
+  - { rel: "part-of", to: "federal-constitution" }
+  - { rel: "explained-in", to: "fundamental-liberties" }
+  - { rel: "related-to", to: "ma63" }
+  - { rel: "related-to", to: "majlis-raja-raja" }
+  - { rel: "related-to", to: "bumiputera-equity-requirements" }
+related: ["federal-constitution", "fundamental-liberties", "ma63", "majlis-raja-raja", "bumiputera-equity-requirements"]
+keywords: ["Article 153", "special position of the Malays", "natives of Sabah and Sarawak", "Federal Constitution Malaysia", "legitimate interests of other communities", "Article 136 impartial treatment", "Conference of Rulers Article 159", "Bumiputera quotas"]
+---
+
+제153조에 대한 대부분의 요약은 한 문장에서 멈춥니다. 즉 "말레이인의 특별한 지위"를 보호한다는 것입니다. 그러나 그 문장이 나온 항을 온전히 읽어 보면, 그 문장은 다른 일을 하고 있습니다 — 동일한 항에서, 동일한 직위에 대해, 두 가지 의무를 한꺼번에 지칭하고 있습니다.
+
+연방헌법(Federal Constitution) 제153조 제1항은, 양 디페르투안 아공(Yang di-Pertuan Agong)이 "말레이인 및 사바·사라왁 주 중 어느 주의 원주민의 특별한 지위 **및** 이 조의 규정에 따른 다른 공동체의 정당한 이익"을 보호할 책임이 있다고 규정합니다. 두 부분 모두 본문에 있습니다. 어느 한쪽도 다른 쪽의 서문이 아닙니다.
+
+이 문서는 항별로, 제153조가 실제로 무엇을 유보하는지, 그 뒤의 항들이 명시적으로 무엇을 못 하게 하는지, 어떻게 통상적인 개정에 대해 확고히 정착되어 있는지, 그리고 이에 대한 문서화된 입장들 — 정부의 것과 법률 논평의 것 — 이 그 범위를 어떻게 서술하는지를 정리합니다. 그 입장들 사이에서 판단하지는 아니합니다.
+
+## 무엇을 유보하는가 — 그리고 어떻게
+
+제153조 제2항은 양 디페르투안 아공이 특별한 지위를 보호하기 위하여 조치할 수 있는 세 개의 영역을 규정합니다.
+
+| 영역 | 본문이 규정하는 내용 |
+| --- | --- |
+| 연방 공무 | "그가 합리적이라고 인정하는 비율"의 직위 유보 — 다만 주가 아니라 **연방** 공무에서만 |
+| 장학금 및 교육 | 연방 정부가 부여하는 장학금, 급비 및 이와 유사한 교육 또는 훈련상의 특전의 합리적 비율 유보 |
+| 통상/사업 허가 및 면허 | 연방 법률이 통상 또는 사업을 영위하기 위하여 허가나 면허를 요구하는 경우, 그 허가 및 면허의 합리적 비율 유보 |
+
+이 항에서 놓치기 쉬운 것이 두 가지 있습니다. 첫째, 비율은 조문 자체에 의해 고정되어 있지 아니합니다 — 그것은 양 디페르투안 아공이 "합리적이라고 인정하는" 것이며, 제3항에 따라 관련 위원회 또는 면허 당국에 대한 지시를 통하여 행사되고, 그 당국은 "정당하게 이에 따라야" 합니다. 둘째, 공무 유보는 명시적으로 연방에 한합니다. 그것은 이 항에 따라 주 자체의 공무에는 미치지 아니합니다.
+
+나중에 추가된 제8A항은 동일한 장치의 한 형태를 대학 및 단과대학 입학에까지 확장합니다. 즉 어떤 기관에 자격 있는 지원자보다 정원이 적은 경우, 양 디페르투안 아공은 그 정원의 합리적 비율의 유보를 지시할 수 있습니다.
+
+## 동일한 조문에 규정된 한계
+
+제153조 자체의 여러 항은 위의 세 가지 유보를 한정하기 위하여 존재합니다. 성격 규정 없이 있는 그대로 보고합니다.
+
+- **제4항:** 이러한 기능을 행사함에 있어, 양 디페르투안 아공은 "누구에게서도 그가 보유한 공직을, 또는 그가 누리는 장학금, 급비, 그 밖의 교육 또는 훈련상의 특전이나 특별 시설의 존속을 박탈하여서는 아니 된다." 기존 재직자의 직위나 장학금은 할당의 여지를 만들기 위하여 빼앗을 수 없습니다.
+- **제5항:** "이 조는 제136조의 규정을 훼손하지 아니한다." 제136조 자체는 다음과 같이 규정합니다. "연방의 근무에서 동일한 등급에 있는 모든 사람은, 인종을 불문하고, 그 고용의 조건에 따라 공평하게 대우받아야 한다." 제153조는 그 요건 위에 있는 것이 아니라 그와 나란히 자리합니다.
+- **제6항 및 제7항:** 통상/사업 허가 또는 면허 유보가 지시되는 경우, 어떤 것도 "누구에게서도 그에게 발생하였거나 그가 누리거나 보유하는 권리, 특전, 허가 또는 면허를 박탈하도록 작용하여서는" 아니 되며, "통상적인 사건의 진행에서 합리적으로 기대될 수 있는" 정기 갱신, 또는 허가 보유자의 상속인·승계인·양수인에 대한 부여는 거부될 수 없습니다.
+- **제8항:** 국회 자체가 면허 유보를 입법하는 경우, 동일한 보호가 법률에 의해 적용됩니다. 즉 기존 권리나 면허의 박탈 금지; 사업과 함께 면허를 갱신하거나 이전하는 것의 거부 금지; 그리고 — 새로이 허가 요건에 편입된 통상에 대하여는 — 그 이전부터 이미 선의로 그 통상을 영위하던 자에 대한 면허 부여의 거부 금지입니다.
+- **제9항:** "이 조의 어떠한 규정도 말레이인 및 사바·사라왁 원주민을 위한 유보만을 목적으로 사업 또는 통상을 제한할 권한을 국회에 부여하지 아니한다." 유보 권한은 상업을 제한하는 일반적 면허가 아닙니다.
+
+종합하면, 이 조는 앞으로 나아가는 *새로운* 기회의 몫을 유보합니다 — 그 자체의 문언으로, 이미 누군가가 보유한 것을 회수하거나, 이미 근무 중인 연방 피용자에 대한 공평한 대우 규칙을 밀어내는 것을 허용하지는 아니합니다.
+
+## 헌법 자체의 정의상, 누구를 대상으로 하는가
+
+제153조는 "말레이인"이나 "원주민"을 스스로 정의하지 아니합니다. 그 정의는 헌법의 다른 곳에 있으며 이 조에 상호 참조됩니다.
+
+**제160조 제2항**은 "말레이인"을, 이슬람교를 신봉하고, 통상적으로 말레이어를 사용하며, 말레이 관습을 따르고, 독립일(Merdeka Day) 이전에 연방 또는 싱가포르에서 출생하였거나(또는 그곳에서 출생한 부모의 자녀이거나, 그곳에 주소를 두었거나), 그러한 사람의 후손인 자로 정의합니다.
+
+**제161A조 제6항 및 제7항**은 "원주민"을, 사라왁과 사바에 대하여 별도로 정의합니다. 사라왁의 경우, 원주민이란 헌법이 그 주의 토착 종족으로 지명한 특정 목록의 종족(그중에서도 두순족, 해양 다약족, 육지 다약족, 카다얀족, 카얀족, 크냐족, 믈라나우족, 무룻족, 프난족 및 말레이인 등을 포함) 중 하나에 속하는 시민, 또는 그 종족들에서만 유래하는 혼혈인 시민입니다. 사바의 경우, 원주민이란 사바의 토착 종족에 속하는 사람의 자녀 또는 손자로서, 사바에서 출생하였거나 그곳에 주소를 둔 부에게서 태어난 시민입니다. 이는 두 개의 별개의 기준이며, 연방 전역에 획일적으로 적용되는 단일한 "부미푸트라(Bumiputera)" 정의가 아닙니다.
+
+규모의 맥락을 위하여: 말레이시아 통계청(Department of Statistics Malaysia)은 위의 두 집단과 그 밖의 집단을 포함하는 더 넓은 통계 범주인 부미푸트라 인구를, DOSM의 Bumiputera Statistics 2024 발표에 따르면, 2024년에 2,160만 명으로 기록하였으며, 이는 전년 대비 1.1% 증가한 수치입니다.
+
+## 어떻게 확고히 정착되어 있는가
+
+제153조는 헌법의 대부분보다 개정하기 어렵고, 실제로 변경하기도 어렵습니다.
+
+- **제159조 제5항**은 제152조, 제153조, 또는 그 밖의 여러 열거된 규정을 개정하는 어떠한 법률도 "통치자 회의(Conference of Rulers)의 동의 없이는 통과될 수 없다"고 요구합니다 — 이는 동 조 제3항이 헌법 개정 일반에 대해 요구하는 3분의 2 국회 다수결에 더하는 것입니다.
+- **제38조 제5항**은 이와 별도로 "제153조에 따른 행정 조치에 영향을 미치는 정책의 변경이 이루어지기 전에 통치자 회의가 자문을 받아야 한다"고 요구합니다 — 이는 정식 개정에 대한 동의 요건과는 구별되며 그보다 좁은 자문 요건입니다.
+- **제10조 제4항**은, 이 시기에 대한 Journal of Governance and Integrity의 서술에 따르면 1969년 5월 13일 인종 소요의 여파 속에서, 1971년 3월 10일부터 효력을 갖도록 Act A30에 의해 삽입되었으며, 국회가 제3편, 제152조, 제153조 또는 제181조에 따라 보호되는 "어떠한 사항, 권리, 지위, 신분, 특권, 주권 또는 대권"을 "그 시행에 관한 것"이 아닌 한 문제 삼는 것을 금지하는 법률을 통과시킬 수 있도록 허용합니다. 동일한 1971년 개정(Act A30)은 또한 제153조 자체의 범위를 보르네오 주들의 원주민에까지 확장한 것이기도 합니다.
+
+## 흔한 오해
+
+**"제153조는 말레이인에게만 관한 것이다."** 이 조의 본문은 전반에 걸쳐 "말레이인 및 사바·사라왁 주 중 어느 주의 원주민"을 모두 지칭하며, 제161A조는 사바·사라왁 원주민에게 제160조 제2항의 "말레이인"과는 별도의 정의를 부여합니다.
+
+**"제153조는 할당을 고정된 백분율로 정한다."** 본문의 표현은 "그가 합리적이라고 인정하는 비율"입니다 — 조문 자체는 숫자를 명시하지 아니하며, 비율은 제3항, 제6항 또는 제8A항에 따라 부여되는 지시를 통하여 정해집니다.
+
+**"제153조는 동일 등급의 공무원을 공평하게 대우할 요건을 무효화한다."** 제5항은 그 반대를 규정합니다. 즉 이 조는 "제136조의 규정을 훼손하지 아니한다."
+
+**"제153조는 할당을 채우기 위하여 정부가 비말레이인에게 이미 부여된 장학금, 일자리 또는 면허를 회수할 수 있게 한다."** 제4항, 제7항, 제8항 모두 바로 이것을 금지합니다 — 기존의 직위, 장학금, 허가 또는 면허는 그 현재 보유자에게서 빼앗을 수 없으며, 정기 갱신은 "그러한 유보를 확보할 목적으로" 거부될 수 없습니다.
+
+## 문서화된 입장들
+
+제153조는 여전히 공적 논평과 법률 논평의 살아 있는 주제입니다. 여기서는 지지 없이 보고합니다.
+
+말레이시아 정부는 이 규정을 공개적으로 재확인하였습니다. 2024년 2월, 근저의 적극적 우대 정책이 그 의도된 수혜자에게 여전히 이익이 되는지를 재검토하자는 한 의원의 요구에 답하여, 총리 안와르 이브라힘은 총리실의 성명에 따르면 정부가 "제153조를 포함한 헌법의 입장을 계속 지지할 것"이라고 밝혔습니다.
+
+이와 별도로, 말레이시아 변호사회(Malaysian Bar)가 재수록한 법률 논평(원래 라자 아지즈 아드루세와 헬렌 팅이 New Sunday Times 2008년 6월 22일자에 발표)에서, 저자들은 "특별한 지위"에 관한 헌법 규정이 "당시 사회경제적으로 불리하였던 말레이 공동체에 대한 보호적 조치로 더 많이 이해되었다"고 서술하며, "제153조의 12개 항 중 5개 항이 그 적용 범위를 제한하는 것을 규정하고 있다"고 지적합니다. 그들은 "신경제정책(NEP)을 폐지하는 것이 반드시 제153조의 개정이나 폐지를 요한다고 시사할 근거는 없다"고 결론짓습니다 — 이는 제153조의 헌법 문언을 신경제정책이라는 별도의 정책 틀과 구별하는 입장입니다.
+
+## 다음 단계
+
+제153조가 자리하는 문서에 대해서는 [연방헌법](/ko/law/federal-constitution)을 참조하십시오. 그것이 나란히 작동하는 기본적 자유 규정 — 평등에 관한 제8조 및 언론의 자유에 관한 제10조 포함 — 에 대해서는 [기본적 자유](/ko/law/fundamental-liberties)를 참조하십시오. 통상 및 사업 허가의 유보가 회사 소유 규칙과 어떻게 상호 작용하는지는 [부미푸트라 지분 요건](/ko/business/bumiputera-equity-requirements)을 참조하십시오. 이 조를 개정하기 위하여 제159조 제5항이 동의를 요하는 기관에 대해서는 [통치자 회의(Majlis Raja-Raja)](/ko/government/majlis-raja-raja)를 참조하십시오. 사바와 사라왁의 헌법적 지위가 더 넓게 어떻게 논쟁되는지는 [MA63](/ko/malaysia/ma63)을 참조하십시오.
+
+---
+
+*이 문서는 그 주제가 연방헌법 제153조에 따른 말레이인 및 사바·사라왁 원주민의 특별한 지위에 관한 것이라는 이유로 NegaraKu.md의 편집 정책에 따라 민감 콘텐츠(3R+1: race)로 분류됩니다. 이 문서는 서술적으로 — 무엇이, 누구에 의해, 어떤 한계 하에 규정되는지를, 근저의 정책을 평가하거나 성격 규정하지 아니하고 보고하도록 — 작성되었으며, 사람의 검토를 기다리는 잠정 초안으로 보관됩니다.*

@@ -1,0 +1,172 @@
+---
+topicId: MY-LAW-0051
+title: "SOSMA(Act 747): 말레이시아가 보안 범죄에 사용하는 특별 절차"
+slug: "sosma"
+category: "law"
+subcategory: ["key-acts"]
+summary: "보안범죄(특별조치)법 2012(Security Offences (Special Measures) Act 2012, Act 747)에 대한 법령 페이지입니다. 그것은 이 법이 무엇인지, 제1부칙을 통해 어느 범죄에 적용되는지, 그리고 어떤 특별 절차 조치를 제공하는지 — 체포와 28일 수사 구금, 통신 감청, 전자 감독, 보석, 고등법원에서의 재판, 보호 증인 및 특별 증거 규칙 — 를 문언적·서술적으로 정리합니다."
+
+tier: "S"
+mode: "practical"
+contentType: "law"
+sensitivity: "security"
+
+answer: "보안범죄(특별조치)법 2012(Security Offences (Special Measures) Act 2012, Act 747), 즉 SOSMA는 '보안 범죄'의 수사 및 재판을 위한 특별 절차 조치를 규정하는 말레이시아 연방 법률입니다. 보안 범죄란 이 법의 제1부칙에 열거된 모든 범죄로, 형법전(Penal Code) 제6장(국가에 대한 범죄) 및 제6A장(테러 관련 범죄)의 범죄를 특정합니다. 이 법은 새로운 범죄를 창설하지 아니합니다; 그것은 어떤 범죄가 그 부칙에 해당하게 된 후에만 적용되는, 통상적 형사 절차로부터의 이탈을 제공합니다. 그 주요 조치는 무영장 체포, 경정(Superintendent) 이상 계급의 경찰관이 승인하는 최대 28일의 수사 구금, 통신 감청, 전자 감독, 좁은 예외를 둔 보석의 일반적 금지, 고등법원에서의 재판, 보호 증인 절차, 그리고 특별 증거 규칙입니다. 그것은 2012년 6월 18일에 국왕의 재가를 받아 2012년 7월 31일에 시행되었습니다."
+keyTakeaways:
+  - "Act 747; long title: 'An Act to provide for special measures relating to security offences for the purpose of maintaining public order and security and for connected matters'"
+  - "Royal Assent 18 June 2012; gazetted 22 June 2012; came into operation 31 July 2012 by P.U. (B) 256/2012"
+  - "It is procedural, not offence-creating: a 'security offence' is any offence specified in the First Schedule, which lists Penal Code Chapter VI (against the State) and Chapter VIA (terrorism)"
+  - "Structure: 8 Parts, 32 sections, 2 Schedules"
+  - "Section 4 allows arrest without warrant and detention of up to 28 days for investigation, extended by an officer of or above the rank of Superintendent; section 4(3) bars detention solely for political belief or activity"
+  - "Several provisions expressly take effect 'notwithstanding anything inconsistent with Article 5 of the Federal Constitution'"
+  - "Section 13 states bail shall not be granted, with narrow exceptions for a person below eighteen, a woman, or a sick or infirm person, and not for a Chapter VIA offence"
+  - "Trial is in the High Court (section 12); Part VI provides protected-witness procedures and Part VII special evidence rules"
+appliesTo: "Readers who need a neutral, textual account of what SOSMA is and which special procedures it provides — students, researchers and anyone mapping Malaysia's security-law framework. It is a descriptive statute record, not legal advice, and does not comment on any case, prosecution or policy debate."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-24
+sources:
+  - title: "Act 747 — Security Offences (Special Measures) Act 2012 (full text)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20120622_747_BI_Act%20747%20BI.pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+    date: "2012-06-22"
+  - title: "Act 747 — Security Offences (Special Measures) Act 2012, principal Act record and timeline"
+    url: "https://lom.agc.gov.my/act-detail.php?act=747&lang=BI"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Security Offences (Special Measures) Act 2012 — reprint text (section-by-section)"
+    url: "https://en.wikisource.org/wiki/Security_Offences_(Special_Measures)_Act_2012"
+    publisher: "Wikisource (transcription of the Laws of Malaysia reprint of Act 747)"
+  - title: "Penal Code (Act 574), Chapters VI and VIA — reprint"
+    url: "https://lom.agc.gov.my/act-detail.php?act=574&lang=BI"
+    publisher: "Attorney General's Chambers of Malaysia"
+
+entity: "Security Offences (Special Measures) Act 2012"
+wikidata: "Q7444976"
+relations:
+  - { rel: "related-to", to: "penal-code" }
+  - { rel: "related-to", to: "federal-constitution" }
+  - { rel: "related-to", to: "fundamental-liberties" }
+  - { rel: "related-to", to: "court-hierarchy" }
+related: ["penal-code", "federal-constitution", "fundamental-liberties", "court-hierarchy"]
+keywords: ["SOSMA", "Security Offences Special Measures Act 2012", "Act 747", "security offence Malaysia", "28-day detention", "First Schedule Penal Code Chapter VI VIA", "protected witness"]
+---
+
+SOSMA는 어떤 범죄도 창설하지 아니합니다. Act 747을 열어 그것이 처벌하는 범죄를 찾으려 해도 하나도 발견하지 못할 것입니다 — 그것이 다루는 모든 범죄는 다른 곳에서, 주로 형법전(Penal Code)에서 정의됩니다. 이 법이 제공하는 것은 일련의 *절차*입니다. 즉 어떤 사람이 어떻게 체포·구금될 수 있는지, 통신이 어떻게 감청될 수 있는지, 보석이 어떻게 결정되는지, 재판이 어디에서 열리는지, 그리고 사건이 **보안 범죄**로 취급된 후 증거와 증인이 어떻게 다루어지는지입니다.
+
+이 페이지는 Act 747에 대한 법령 기록 — 그 정체성, 범위, 그리고 그것이 제공하는 특별 조치 — 이며, 본문이 규정하는 대로 서술합니다. 그것은 어떤 소추, 어떤 개인, 또는 이 법에 찬성 혹은 반대하는 어떠한 논거도 논하지 아니합니다.
+
+## 한눈에 보기
+
+| | |
+| --- | --- |
+| 약칭 | 보안범죄(특별조치)법 2012(Security Offences (Special Measures) Act 2012, SOSMA) |
+| 법령 번호 | Act 747 |
+| 긴 제목 | "An Act to provide for special measures relating to security offences for the purpose of maintaining public order and security and for connected matters" |
+| 국왕 재가 | 2012년 6월 18일 |
+| 관보 게재 | 2012년 6월 22일 |
+| 시행 | 2012년 7월 31일, P.U. (B) 256/2012에 의해 |
+| 구조 | 8개 편, 32개 조문, 2개 부칙 |
+| 적용 대상 | "보안 범죄" — 제1부칙에 특정된 범죄 |
+
+## 무엇이 어떤 범죄를 "보안 범죄"로 만드는가
+
+이 법 전체가 하나의 정의된 문구에 달려 있습니다. 제2조는 단순히 이 법이 보안 범죄에 적용된다고 규정하고, 제3조는 **보안 범죄**를 **제1부칙**에 특정된 범죄로 정의합니다.
+
+제1부칙은 범죄를 전문으로 다시 서술하지 아니합니다. 그것은 [형법전(Penal Code)](/ko/law/penal-code)의 기존 규정 — **제6장**(국가에 대한 범죄) 및 **제6A장**(테러 관련 범죄)의 범죄 — 을 가리킵니다. 부칙은 개정될 수 있으므로, 현재의 목록은 가정하지 아니하고 이 법의 최신 본문에서 읽어야 합니다.
+
+실무적 결과는 하나의 관문입니다. Act 747의 어떤 것도 문제의 범죄가 제1부칙이 포섭하는 것이 되기 전까지는 어떤 사람에게도 적용되지 아니합니다. 아래의 모든 것은 그 관문을 통과한 후에 따르는 것입니다.
+
+## 여덟 개의 편
+
+이 법은 여덟 개의 편으로 구성되며, 편 표제 자체가 특별 조치의 지도입니다.
+
+| 편 | 표제 |
+| --- | --- |
+| I | 총칙 |
+| II | 보안 범죄에 대한 특별 권한 |
+| III | 전자 감독 장치에 관한 특별 절차 |
+| IV | 민감 정보에 관한 특별 절차 |
+| V | 재판 |
+| VI | 보호 증인에 관한 특별 절차 |
+| VII | 증거 |
+| VIII | 잡칙 |
+
+## 제2편 — 체포, 구금 및 감청
+
+**제4조(체포 및 구금)**가 가장 많이 인용되는 규정입니다. 그 항들은 순서대로 쌓아 올립니다.
+
+- **4(1)** — 경찰관은 보안 범죄에 연루되었다고 믿을 이유가 있는 어떤 사람이든 영장 없이 체포·구금할 수 있습니다.
+- **4(2)** — 체포된 사람은 가능한 한 빨리 체포 사유를 고지받습니다.
+- **4(3)** — 누구든지 *오로지* 정치적 신념이나 정치 활동만을 이유로 이 조에 따라 체포·구금되지 아니합니다. 제4조 제12항은 정치적 신념과 정치 활동이 무엇을 의미하는지를 정의하며, 이를 등록된 정당을 통한 적법한 활동 및 정부를 향한 적법한 표현에 결부시킵니다.
+- **4(4)** — 그 사람은 수사 목적으로 **24시간** 구금될 수 있습니다.
+- **4(5)** — **경정(Superintendent of Police) 이상 계급의** 경찰관은 수사 목적으로 구금을 **28일을 넘지 아니하는** 기간 연장할 수 있습니다.
+- **4(6)–(8)** — 계속 구금 대신, 검찰관에 대한 보고를 조건으로 그 사람은 **전자 감독 장치**를 부착한 채 석방될 수 있습니다.
+
+제4조는 또한 내장된 재검토 조항을 담고 있습니다. 즉 제5항의 연장 구금 권한은 기간이 무제한이 아니라 정기적 국회 재검토의 대상입니다.
+
+**제5조(통지 및 변호인 접견)**는 수사관이 근친에게 체포를 통지하고, 제한된 예외를 조건으로 그 사람이 자신이 선택한 법률가와 상담할 수 있도록 허용할 것을 요구합니다. 제5조 제2항에 따라 경정 이상 계급의 관리는, 예를 들어 그것이 증거를 방해하거나, 위해를 초래하거나, 다른 용의자에게 경보하거나, 재산 회수를 저해할 것이라고 믿는 경우, 그 상담을 **48시간을 넘지 아니하는** 기간 지연시키도록 승인할 수 있습니다.
+
+**제6조(통신 감청)**는 검찰관이 보안 범죄에 관한 정보를 담고 있을 개연성이 있는 통신의 감청을 승인할 수 있게 하고, 긴급한 경우 경정 이상 계급의 관리가 감청하도록 허용합니다. 그렇게 획득한 정보는 나중에 제24조에 의해 증거 능력을 갖게 됩니다.
+
+이 편 전체에 반복되는 문언적 특징이 있습니다. 그중 제5조 제3항과 제6조는 그것들이 **"연방헌법 제5조와 저촉되는 어떠한 것에도 불구하고"** 효력을 가진다고 규정합니다 — 제5조는 [연방헌법](/ko/law/federal-constitution)의 [기본적 자유](/ko/law/fundamental-liberties)에 있는 신체의 자유 보장입니다. 이 법은 그 관계를 암시로 남기지 아니하고 이러한 조항을 명시적으로 규정합니다.
+
+## 제3편 및 제4편 — 감독과 민감 정보
+
+제3편은 제4조에서 이미 도입된 **전자 감독 장치**를 규율합니다. 즉 그것이 어떻게 신청·부착되고 처리되는지입니다. 제4편은 **민감 정보**를 규율하는데, 제3조는 이 용어를 내각 및 주 행정회의, 주권, 국가 안보, 국방, 공공질서 및 국제 관계에 관한 자료를, 어떤 분류 등급에서든 포함하도록 넓게 정의합니다. 그 규정은 그러한 정보가 절차에서 어떻게 제출되고 공개되는지를 제한하며, 피고인이 자신의 방어에서 민감 정보를 공개할 의도를 사전에 통지하도록 하는 요건(제9조)을 포함합니다.
+
+## 제5편 — 재판과 보석
+
+**제12조**는 모든 보안 범죄가 **고등법원에서 재판되어야 한다**고 규정합니다. 어느 법원이 어디에 앉는지는 [법원 체계](/ko/law/court-hierarchy)에 정리되어 있습니다.
+
+**제13조(보석)**는 보안 범죄로 기소된 사람에게 **보석이 부여되지 아니한다**고 규정합니다. 그런 다음 좁은 예외를 마련합니다. 즉 **18세 미만인** 사람, **여성**, 또는 **병약하거나 허약한** 사람은, 그 조가 부과하는 조건과 전자 감독 장치 신청을 조건으로 석방될 수 있습니다. 이 예외는 형법전 **제6A장**(테러 장)의 범죄로 기소된 사람에게는 미치지 아니합니다.
+
+## 제6편 — 보호 증인
+
+제6편은 **보호 증인**을 규정하며, 제3조는 이를 노출될 경우 증거나 정보의 수집을 위태롭게 하거나 그의 생명과 안녕을 위태롭게 할 증인으로 정의합니다.
+
+- **제14조**는 법원이 그 신원을 보호할 필요를 스스로 확인하기 위하여 비공개로 심문을 연 후, 증인의 증거가 **특별한 방식**으로 — 즉 증인이 피고인과 변호인에게 보이거나 들리지 아니하되 법원에는 보이도록 — 제시될 수 있게 합니다.
+- **제15조**는 증거가 비공개로 채택되는 경우의 식별을 규율합니다.
+- **제16조**는 보호 증인의 신원을 드러내는 어떠한 것을 공표하는 것을 범죄로 합니다.
+
+## 제7편 — 특별 증거 규칙
+
+제7편은 보안 범죄 재판에 적용되는 증거 규칙을 규정하며, 제17조는 이 편이 **[증거법 1950](/law/evidence-act-1950)과 저촉되는 어떠한 것에도 불구하고** 효력을 가진다고 규정합니다. 그 규정 중에는 다음이 있습니다.
+
+| 조문 | 주제 |
+| --- | --- |
+| 18 | 사망하였거나, 소재를 알 수 없거나, 증언할 수 없는 사람의 진술의 증거 능력 |
+| 19 | 어린 아동의 이해에 관하여 법원이 확인하는 경우, 그 아동의 보강되지 아니한 증거에 근거한 유죄 판결 |
+| 20–22 | 압수된 문서, 식별 증거 및 수색 목록의 증거 능력 |
+| 23 | 제8조 및 제11조에 따라 보호되는 증거물의 미제출이 소추를 해하지 아니함 |
+| 24 | 제6조에 따른 통신 감청으로 획득한 정보의 증거 능력 |
+| 25 | 컴퓨터로 생성된 문서의 증거 능력 |
+| 26 | 공범 및 함정 수사관(agent provocateur)의 증거 |
+
+## 제8편 — 잡칙
+
+마지막 편은 운영 규정을 모읍니다. **제27조**는 지방법원 판사가 재판 전에 진술이나 자백을 기록할 수 있게 하고; **제28조**는 정보원의 신원을 보호하며; **제29조**는 수사관에게 이미 다른 법에 따라 구금되거나 수감된 사람에 대한 접근을 부여합니다. **제30조**는 법원이 어떤 사람을 보안 범죄에서 무죄로 하는 경우, 검찰관이 상소 계속 중 그 사람을 수감하도록 구두로 신청할 수 있으며, 그 사람은 상소 절차가 종료될 때까지 구금된다고 규정합니다. **제31조**는 규칙 제정 권한입니다.
+
+## 올바른 문언 읽기
+
+Act 747에 대한 AGC Laws of Malaysia 기록은 2012년의 주된 법률과 함께 이후의 개정 — 포털에 2015년 및 2024년의 개정으로 기록됨 — 및 온라인 재발행판을 열거합니다. 제1부칙과 개별 조문이 개정되었으므로, 어떤 현실의 물음이든 2012년 인쇄본이나 캐시된 사본이 아니라 AGC 포털의 현행 통합 본문에 대조하여 확인하여야 합니다.
+
+## 다음 단계
+
+이 페이지는 SOSMA가 *무엇인지*와 그것이 *담고 있는* 특별 조치를 확정합니다. 개별 기제 — 수사 구금, 감청, 보호 증인 및 특별 증거 규칙 — 는 각각 [형법전(Penal Code)](/ko/law/penal-code)의 통상적 형사 절차와 [연방헌법](/ko/law/federal-constitution)의 보장과 대비되며, 거기서부터 더 상세히 추적될 수 있습니다.
+
+특정 규정에 대해서는, 제1부칙에서 시작하십시오. 즉 범죄가 거기에 열거되어 있지 아니하면, Act 747의 어떤 특별 조치도 그것에 적용되지 아니합니다.

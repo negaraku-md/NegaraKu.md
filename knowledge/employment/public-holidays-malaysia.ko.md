@@ -1,0 +1,226 @@
+---
+topicId: MY-EMP-0046
+title: "말레이시아의 공휴일과 고용법 규칙"
+seoTitle: "말레이시아 공휴일 — 연방, 주 및 고용법 규칙"
+slug: "public-holidays-malaysia"
+category: "employment"
+subcategory: ["leave-and-welfare"]
+summary: "연방 및 주 공휴일 구조, 2026년 연방 공휴일 날짜, 그리고 근로자가 실제로 며칠분을 유급으로 받는지를 결정하는 고용법 규칙을 다룹니다."
+
+tier: "4"
+mode: "practical"
+contentType: "data"
+sensitivity: "none"
+
+answer: "말레이시아에는 전국에 적용되는 연방 공휴일과 공휴일법 1951(Holidays Act 1951) 제9조에 따라 각 주 당국이 지정하는 주 공휴일이 있습니다. 이와 별도로, 고용법(Employment Act 1955) 제60D조는 근로자에게 연간 11개의 관보 게재 공휴일에 유급휴일을 부여하며, 그중 5개는 이 법으로 고정되고, 여기에 공휴일법 제8조에 따라 지정된 날이 더해집니다. 고용주는 나머지 6개를 선택하며 연초 이전에 이를 게시해야 합니다."
+keyTakeaways:
+  - "s.60D(1)(a) — eleven paid gazetted public holidays a year, of which five are compulsory."
+  - "The five compulsory holidays are National Day, the Agong's birthday, the birthday of the Ruler or Yang di-Pertua Negeri of the State where the employee mainly works or Federal Territory Day, Workers' Day and Malaysia Day."
+  - "s.60D(1A) — the employer must display a notice before each calendar year specifying the remaining six, and may substitute other days by agreement."
+  - "Where a public holiday falls on a rest day or on another public holiday, the following working day becomes the paid holiday in substitution."
+  - "The Holidays Act 1951 First Schedule sets the statutory public holidays; s.8 lets the Minister appoint additional days and s.9 lets each State Authority appoint State public holidays."
+  - "The First Schedule itself varies by state — Chinese New Year is one day in Kelantan and Terengganu and two days elsewhere, and Hari Raya Haji is two days in Kelantan and Terengganu and one day elsewhere."
+  - "Working on a paid holiday attracts two days' wages under s.60D(3)(a) regardless that the work was less than normal hours."
+appliesTo: "Payroll and HR staff building the annual holiday calendar for a Malaysian workforce."
+
+faq:
+  - q: "How many public holidays must a Malaysian employer pay for?"
+    a: "Eleven gazetted public holidays under s.60D(1)(a) of the Employment Act 1955, five of which are named by the Act itself, plus any day appointed as a public holiday for that year under s.8 of the Holidays Act 1951. The employer chooses the remaining six from the gazetted list and must exhibit a notice conspicuously at the place of employment before the calendar year begins, under s.60D(1A). Any other day may be substituted for one or more of those six by agreement between employer and employee."
+  - q: "What happens when a public holiday falls on a Sunday or on another holiday?"
+    a: "The proviso to s.60D(1) provides that where a public holiday falls on a rest day, or on another public holiday, the working day immediately following the rest day or the other public holiday becomes a paid holiday in substitution. Section 60D(1B) deals with a different case — a holiday falling during sick leave, annual leave or a period of temporary disablement — and requires the employer to grant another day as a paid holiday in substitution."
+  - q: "Are state public holidays automatically paid holidays?"
+    a: "Not automatically. Section 9(1) of the Holidays Act 1951 lets the State Authority appoint a day to be observed as a State public holiday in that State, and it is then observed there. Whether the employee is paid for it under the Employment Act depends on whether it is one of the eleven the employer has designated under s.60D — with the exception of the Ruler's or Yang di-Pertua Negeri's birthday for the State where the employee wholly or mainly works, which s.60D(1)(a)(iii) makes compulsory."
+  - q: "Which state does the Ruler's birthday follow for a remote employee?"
+    a: "Section 60D(1)(a)(iii) keys it to the State in which the employee wholly or mainly works under his contract of service, and gives Federal Territory Day where the employee wholly or mainly works in the Federal Territory. For fully remote staff the contractual place of work is the reference point, which is one reason to state it explicitly in the contract."
+
+verificationNeeded:
+  - "Confirm the state-by-state applicability of each state-level holiday in the 2026 schedule — the state columns in the Cabinet Division PDF are graphical and do not extract as text, so applicability must be read off the source document or each State gazette"
+  - "Confirm dates marked as subject to change in the Cabinet Division schedule — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan and Hari Raya Qurban second day are all flagged"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026"
+    url: "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+    publisher: "Bahagian Kabinet, Perlembagaan dan Perhubungan Antara Kerajaan, Jabatan Perdana Menteri"
+    date: "2025-08-01"
+  - title: "Holidays Act 1951 (Act 369), updated text"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20369%20-%20Holiday%20Act%201951.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "1951-01-01"
+  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+    url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
+    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    date: "2023-01-01"
+
+entity: "Public holidays in Malaysia"
+relations:
+  - { rel: "governs", to: "leave-entitlements-malaysia" }
+  - { rel: "administered-by", to: "jtksm" }
+related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
+keywords: ["public holidays malaysia 2026", "cuti umum 2026", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
+---
+
+두 개의 체계가 병행하며 서로 다른 질문에 답합니다. **공휴일법 1951(Holidays Act
+1951)**은 어느 날이 어디에서 공휴일인지를 결정합니다. **고용법 1955(Employment Act
+1955)**는 근로자가 그중 며칠분을 유급으로 받는지를 결정합니다. 말레이시아에서
+발행되는 대부분의 공휴일 달력은 첫 번째만 다루며, 그래서 고용주가 흔히 잘못된 날을
+유급 처리합니다.
+
+## 고용법 규칙
+
+제60D조(1)은 모든 근로자에게 다음의 날에 통상 임금률로 유급휴일을 부여합니다:
+
+- **관보 게재 공휴일 중 11개**, 그중 5개는 이 법으로 고정됨
+- 공휴일법 1951 제8조에 따라 해당 연도의 공휴일로 **지정된 날**
+
+제60D조(1)(a)에 따른 다섯 개의 의무 공휴일:
+
+| # | 공휴일 |
+| --- | --- |
+| 1 | 국경일(National Day) |
+| 2 | 양 디페르투안 아공(국왕)의 생일 |
+| 3 | 근로자가 전적으로 또는 주로 근무하는 주의 통치자 또는 양 디페르투아 네게리(Yang di-Pertua Negeri, 주지사)의 생일 — 또는 연방직할구에서 근무하는 근로자의 경우 **연방직할구의 날(Federal Territory Day)** |
+| 4 | 노동절(Workers' Day) |
+| 5 | 말레이시아의 날(Malaysia Day) |
+
+고용주는 **나머지 6개**를 선택하며, 제60D조(1A)는 이를 명시한 통지를 **역년이 시작되기
+전에** 근무 장소에 눈에 띄게 게시하도록 요구합니다. 합의에 따라 그 6개 중 어느 것이든
+다른 날로 대체할 수 있습니다.
+
+**대체.** (a) 또는 (b)에 따른 공휴일이 휴식일이나 다른 공휴일과 겹치는 경우, 그 바로
+다음 근무일이 대신 유급휴일이 됩니다. 병가, 연차휴가 또는 일시적 장애 기간 중에
+겹치는 경우, 제60D조(1B)는 대체로 다른 날을 부여하도록 요구합니다.
+
+**공휴일 근무.** 제60D조(3)(a)는 휴일 급여에 더하여 **통상 임금률로 2일분 임금**을
+요구하며, *그날 수행한 근무 시간이 정상 근무 시간보다 적더라도* 그러합니다. 초과
+시간에 대해서는 제60D조(3)(aa)에 따라 시간당 임금률의 3배 이상이 부과됩니다. 이러한
+요율 조항은 제1부칙 제1A항에 의해 월 RM4,000 초과 시 적용이 배제됩니다 — **제60D조(1)에
+따른 유급휴일 권리는 배제되지 않습니다**.
+
+## 공휴일법 구조
+
+| 층위 | 근거 | 선포 주체 |
+| --- | --- | --- |
+| 법정 목록 | 제1부칙, 제3조 | 의회 |
+| 추가 또는 대체일 | 제8조 | 장관, 주가 관련된 경우 주 당국과 협의 후 |
+| 주 공휴일 | 제9(1)조 | 주 당국 |
+| 연방직할구 공휴일 | 제9(2)조 | 장관 |
+
+제1부칙은 그 자체로 이미 주별로 다릅니다: **설날(Chinese New Year)은
+클란탄(Kelantan)과 트렝가누(Terengganu)에서는 하루, 다른 주에서는 이틀**이며, **하리
+라야 하지(Hari Raya Haji)는 클란탄과 트렝가누에서는 이틀, 다른 주에서는 하루**입니다.
+법정 목록을 획일적인 것으로 취급하는 달력은 주 당국이 무엇을 선포하기도 전에 이미
+틀린 것입니다.
+
+## 2026년 연방 공휴일
+
+내각처 일정에 따르면 12개 공휴일에 걸쳐 15일입니다. 별표가 표시된 날은 출처에서
+변경될 수 있다고 명시되어 있습니다.
+
+| 공휴일 | 날짜 | 요일 |
+| --- | --- | --- |
+| 설날(Chinese New Year) | 2026년 2월 17일 | 화요일 |
+| 설날 (둘째 날) | 2026년 2월 18일 | 수요일 |
+| 하리 라야 푸아사(Hari Raya Puasa) * | 2026년 3월 21일 | 토요일 |
+| 하리 라야 푸아사 (둘째 날) * | 2026년 3월 22일 | 일요일 |
+| 하리 프커르자 / 노동절(Workers' Day) | 2026년 5월 1일 | 금요일 |
+| 하리 라야 쿠르반(Hari Raya Qurban) * | 2026년 5월 27일 | 수요일 |
+| 하리 라야 쿠르반 (둘째 날) * | 2026년 5월 28일 | 목요일 |
+| 하리 웨삭(Hari Wesak) | 2026년 5월 31일 | 일요일 |
+| 양 디페르투안 아공(국왕)의 공식 생일 | 2026년 6월 1일 | 월요일 |
+| 아왈 무하람 / 마알 히즈라(Awal Muharam / Maal Hijrah) | 2026년 6월 17일 | 수요일 |
+| 마울리두르 라술(Maulidur Rasul) | 2026년 8월 25일 | 화요일 |
+| 하리 크방사안 / 국경일(National Day) | 2026년 8월 31일 | 월요일 |
+| 하리 말레이시아 / 말레이시아의 날(Malaysia Day) | 2026년 9월 16일 | 수요일 |
+| [디파발리(Deepavali)](/arts-culture/deepavali) * | 2026년 11월 8일 | 일요일 |
+| 성탄절(Christmas Day) | 2026년 12월 25일 | 금요일 |
+
+**2026년에 하리 웨삭과 디파발리가 모두 일요일**이며, 하리 라야 푸아사 둘째 날도
+일요일임에 유의하십시오. 일요일이 근로자의 휴식일인 경우, 제60D조(1)의 대체 단서에
+따라 유급휴일이 다음 근무일로 이동합니다.
+
+## 2026년 주 단위 공휴일
+
+다음은 내각처의 2026년 주 일정에 나타나는 날들입니다. **각 날을 어느 주가 준수하는지는
+여기에 재현하지 않았습니다**: 출처 PDF의 적용 여부 열은 그래픽 형태여서 안정적으로
+추출되지 않으며, 잘못 읽은 표에서 주별 표를 발행하는 것은 아무것도 발행하지 않는
+것보다 나쁩니다. 적용 여부는 출처 문서나 해당 주 관보에서 확인하십시오. 공휴일 명칭에
+주 또는 통치자가 포함된 경우, 해당 주는 자명합니다.
+
+| 공휴일 | 2026년 날짜 |
+| --- | --- |
+| 신정(New Year's Day) | 1월 1일 |
+| 네게리 슴빌란(Negeri Sembilan)의 양 디페르투안 브사르 생일 | 1월 14일 |
+| 이스락과 미크라지(Israk and Mikraj) | 1월 17일 |
+| [타이푸삼(Thaipusam)](/arts-culture/thaipusam) | 2월 1일 |
+| 연방직할구의 날(Federal Territory Day) | 2월 1일 |
+| 설날 (둘째 날) | 2월 18일 |
+| 아왈 라마단(Awal Ramadan) * | 2월 19일 |
+| 독립 선언일(Declaration of Independence Day) | 2월 20일 |
+| 트렝가누 술탄 즉위 기념일 | 3월 4일 |
+| 누줄 알쿠란(Nuzul Al-Quran) | 3월 7일 |
+| 조호르(Johor) 술탄 생일 | 3월 23일 |
+| 하리 라야 푸아사 (셋째 날) | 3월 23일 |
+| 사바(Sabah) 양 디페르투아 네게리 생일 | 3월 30일 |
+| 성금요일(Good Friday) | 4월 3일 |
+| 트렝가누 술탄 생일 | 4월 26일 |
+| 프를리스(Perlis) 라자 탄생 기념일 | 5월 17일 |
+| 하리 홀 알마르훔 술탄 아흐마드 샤(Hari Hol Almarhum Sultan Ahmad Shah) | 5월 22일 |
+| 하리 아라파(Hari Arafah) | 5월 26일 |
+| 하리 라야 쿠르반 (둘째 날) * | 5월 28일 |
+| [페스타 카아마탄(Pesta Kaamatan)](/arts-culture/kaamatan) | 5월 30일 및 31일 |
+| 하리 [가와이 다야크(Gawai Dayak)](/arts-culture/gawai-dayak) | 6월 1일 및 2일 |
+| 크다(Kedah) 술탄 생일 | 6월 21일 |
+| 세계유산 지정 기념일 | 7월 7일 |
+| 풀라우 피낭(Pulau Pinang) 양 디페르투아 네게리 생일 | 7월 11일 |
+| 하리 홀 알마르훔 술탄 이스칸다르(Hari Hol Almarhum Sultan Iskandar) | 7월 21일 |
+| 사라왁 독립일(Sarawak Independence Day) | 7월 22일 |
+| 파항(Pahang) 술탄 생일 | 7월 31일 |
+| 믈라카(Melaka) 양 디페르투아 네게리 생일 | 8월 24일 |
+| 클란탄(Kelantan) 술탄 생일 | 9월 29일 및 30일 |
+| 사라왁 양 디페르투아 네게리 생일 | 10월 10일 |
+| 페락(Perak) 술탄 생일 | 11월 6일 |
+| 슬랑오르(Selangor) 술탄 생일 | 12월 11일 |
+| 크리스마스 이브(Christmas Eve) | 12월 24일 |
+
+## 흔한 실수
+
+**주의 모든 관보 게재 공휴일을 유급 처리하고 그것을 준수라고 부르는 것.** 이 법은
+11개에 더해 제8조 지정일을 요구하며, 고용주는 재량으로 6개를 지정하고 게시해야 합니다.
+
+**제60D조(1A) 통지를 생략하는 것.** 이는 역년이 시작되기 **전에** 게시되어야 합니다.
+
+**휴일 근무를 일할 계산하는 것.** 제60D조(3)(a)는 근무가 정상 시간보다 적었더라도
+2일분 임금이 지급되어야 한다고 명시합니다.
+
+**다른 주에 있는 직원에게 본사 공휴일을 적용하는 것.** 통치자의 생일은 근로자가
+전적으로 또는 주로 근무하는 주를 따릅니다.
+
+**연방 목록을 고정된 것으로 취급하는 것.** 2026년 연방 날짜 중 5개는 출처에서 변경될
+수 있다고 표시되어 있으며, 특히 이슬람력 날짜는 달 관측에 따라 바뀝니다.
+
+**클란탄과 트렝가누의 차이를 비공식적인 것으로 가정하는 것.** 이는 공휴일법의 제1부칙
+자체에 있습니다.
+
+## 다음 단계
+
+재량 공휴일 6개를 명시한 내년도 제60D조(1A) 통지를 12월 31일 이전에 게시하고, 통치자
+생일 항목이 명확히 해결되도록 각 근로자의 계약상 근무 장소를 확인하십시오. 나머지
+휴가 전반에 대해서는 [휴가 권리](/en/employment/leave-entitlements-malaysia)를
+참조하십시오.

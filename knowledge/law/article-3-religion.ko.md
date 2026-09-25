@@ -1,0 +1,139 @@
+---
+topicId: MY-LAW-0020
+title: "제3조: 헌법이 이슬람에 관하여 규정하는 것, 그리고 그와 나란히 제11조가 규정하는 것"
+slug: "article-3-religion"
+category: "law"
+subcategory: ["constitutional"]
+summary: "연방헌법(Federal Constitution) 제3조 — 이슬람을 연방의 종교로 선언하는 한편 다른 종교도 평화롭고 조화롭게 신봉될 수 있다고 규정하는 조항 — 을 종교의 자유를 보장하는 제11조와 함께 읽으며, 두 규정을 모두 공식 재발행판에서 전문 인용하여 엄격히 문언 중심으로 서술합니다."
+
+tier: "S"
+mode: "practical"
+contentType: "law"
+
+answer: "연방헌법(Federal Constitution) 제3조 제1항은 다음과 같이 규정합니다. '이슬람은 연방의 종교이다; 다만 다른 종교도 연방의 어느 지역에서든 평화롭고 조화롭게 신봉될 수 있다.' 제3조는 또한 통치자들이 자신의 주에서 이슬람교의 수장으로서 갖는 지위, 그리고 양 디페르투안 아공(Yang di-Pertuan Agong)이 쿠알라룸푸르(Kuala Lumpur)·라부안·푸트라자야(Putrajaya) 연방 직할구에서 이슬람의 수장으로서 갖는 지위를 규정합니다. 제3조 제4항은 제3조의 어떤 규정도 헌법의 다른 규정을 훼손하지 아니한다고 규정하는데 — 이는 모든 사람에게 자신의 종교를 신봉하고 실천할 권리를 보장하는 별도의 규정인 제11조를 포함합니다."
+keyTakeaways:
+  - "Article 3(1): 'Islam is the religion of the Federation; but other religions may be practised in peace and harmony in any part of the Federation'"
+  - "Article 3(2)–(3) fix the Rulers as Heads of Islam in their own States, in the manner set out in each State Constitution"
+  - "Article 3(5) makes the Yang di-Pertuan Agong Head of Islam specifically in the Federal Territories of Kuala Lumpur, Labuan and Putrajaya"
+  - "Article 3(4) states that nothing in Article 3 derogates from any other provision of the Constitution"
+  - "Article 11(1) gives every person the right to profess and practise their religion, and, subject to Clause (4), to propagate it"
+  - "Article 11(4) allows state law (and federal law for the Federal Territories) to control or restrict the propagation of religious doctrine among persons professing Islam"
+  - "Article 121(1A) excludes the civil courts from any matter within the jurisdiction of the Syariah courts; the Ninth Schedule's State List gives states the power to legislate on Islamic law and Syariah courts"
+appliesTo: "Anyone who wants the exact constitutional text on religion — students, researchers and readers who keep encountering paraphrases of Article 3 and Article 11 and want the provisions themselves, quoted from the official reprint."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+sensitivity: "religion"
+
+updated: 2026-07-24
+sources:
+  - title: "Federal Constitution (Reprint as at 15 October 2020) — Article 3, Article 4, Article 11, Article 121, Article 159, Ninth Schedule"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Commissioner of Law Revision / Attorney General's Chambers of Malaysia"
+    date: "2020-10-15"
+  - title: "Malaysian Federal Constitution — principal document page"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Agama Rasmi (Official Religion)"
+    url: "https://www.malaysia.gov.my/en/government/kenali-malaysia/agama-rasmi"
+    publisher: "MyGovernment Portal, Government of Malaysia"
+
+entity: "Article 3, Federal Constitution of Malaysia"
+relations:
+  - { rel: "part-of", to: "federal-constitution" }
+  - { rel: "related-to", to: "yang-di-pertuan-agong" }
+  - { rel: "related-to", to: "majlis-raja-raja" }
+  - { rel: "related-to", to: "court-hierarchy" }
+  - { rel: "related-to", to: "rukun-negara" }
+related: ["federal-constitution", "yang-di-pertuan-agong", "majlis-raja-raja", "court-hierarchy", "rukun-negara"]
+keywords: ["Article 3 Federal Constitution Malaysia", "Islam religion of the Federation", "Article 11 freedom of religion Malaysia", "Perkara 3 Perlembagaan Persekutuan", "Article 121(1A)", "Syariah courts jurisdiction Malaysia", "freedom of religion Malaysia constitution"]
+---
+
+연방헌법의 두 규정은 서로 나란히 자리하며 끊임없이 인용되지만, 전문으로 인용되는 경우는 드뭅니다. 여기에 그 문언이 있습니다.
+
+제3조 제1항은 연방헌법의 공식 재발행판에서 다음과 같이 규정합니다.
+
+> "이슬람은 연방의 종교이다; 다만 다른 종교도 연방의 어느 지역에서든 평화롭고 조화롭게 신봉될 수 있다."
+
+이것이 제1항의 전부입니다 — 세미콜론으로 이어진 두 부분으로 된 한 문장입니다. 아래에 이어지는 것은 제3조의 나머지, 제11조의 나머지, 그리고 두 규정 — 및 몇몇 다른 규정 — 이 서로 상호 참조하는 본문상의 구체적인 지점입니다.
+
+## 한눈에 보기
+
+| | |
+| --- | --- |
+| 규정 | 제3조(연방의 종교) 및 제11조(종교의 자유) |
+| 위치 | 연방헌법 — 제3조는 제1편(연방의 주, 종교 및 법)에 있고, 제11조는 제2편(기본적 자유)에 있음 |
+| 제3조의 항 | 다섯 개: (1) 선언; (2)–(3) 자신의 주에서 이슬람의 수장인 통치자; (4) 비훼손; (5) 연방 직할구에서 이슬람의 수장인 양 디페르투안 아공 |
+| 제11조의 항 | 다섯 개: (1) 신봉·실천·전파의 권리; (2) 타 종교를 위한 강제 납부 금지; (3) 종교 단체의 권리; (4) 무슬림에 대한 전파의 통제; (5) 공공질서·보건·도덕에 따름 |
+| 명시적 본문상 연결 | 제3조 제4항: "이 조의 어떤 규정도 이 헌법의 다른 규정을 훼손하지 아니한다" |
+| 관련 규정 | 제121조 제1A항(민사 법원은 샤리아 법원 사항에서 제외); 제9부칙 주 목록 제1항(이슬람법 및 샤리아 법원에 관한 주의 권한) |
+| 운용 주체 | 법원이 해석·적용; 제159조 절차를 통해서만 개정됨 |
+
+## 제3조 전문
+
+총검찰청(Attorney General's Chambers)의 공식 재발행판(2020년 10월 15일 기준)은 제3조를 다음과 같이 규정합니다.
+
+**제1항.** "이슬람은 연방의 종교이다; 다만 다른 종교도 연방의 어느 지역에서든 평화롭고 조화롭게 신봉될 수 있다."
+
+**제2항.** 통치자가 없는 주를 제외한 모든 주에서, 그 주에서 이슬람교의 수장으로서 통치자가 갖는 지위는 "그 주의 헌법이 인정하고 선언하는 방식과 범위로" 정해지며, 그 주 헌법에 따를 것을 조건으로, 그 종교의 수장으로서 통치자가 누리는 모든 권리·특전·대권·권한은 "영향을 받지 아니하고 손상되지 아니한다." 통치자 회의(Conference of Rulers)가 연방 전체에 확장되어야 한다고 합의한 행위·의식 또는 예식에 대하여는, 각 통치자가 이슬람의 수장으로서의 자격으로 자신을 대표하도록 양 디페르투안 아공에게 권한을 부여합니다.
+
+**제3항.** 말라카·페낭(Penang)·사바(Sabah)·사라왁(Sarawak) — 역사적으로 자신의 통치자가 없었던 네 개 주 — 의 헌법은 각각 그 주에서 이슬람교의 수장의 지위를 양 디페르투안 아공에게 부여하는 규정을 두어야 합니다.
+
+**제4항.** "이 조의 어떤 규정도 이 헌법의 다른 규정을 훼손하지 아니한다."
+
+**제5항.** "이 헌법의 어떠한 규정에도 불구하고 양 디페르투안 아공은 쿠알라룸푸르·라부안·푸트라자야 연방 직할구에서 이슬람교의 수장이 된다"; 국회는 이 목적을 위하여 이슬람 종교 사무를 규율하고 이슬람 사항에 관하여 양 디페르투안 아공에게 자문하는 협의회를 구성하는 법률을 제정할 수 있습니다.
+
+## 제11조 전문
+
+동일한 재발행판은 "종교의 자유"라는 표제의 제11조를 다음과 같이 규정합니다.
+
+**제1항.** "모든 사람은 자신의 종교를 신봉하고 실천할 권리를 가지며, 제4항에 따를 것을 조건으로 이를 전파할 권리를 가진다."
+
+**제2항.** "누구든지 그 수익금이 전부 또는 일부 자신의 종교 외의 종교의 목적을 위하여 특별히 배정되는 어떠한 조세도 납부하도록 강요당하지 아니한다."
+
+**제3항.** 모든 종교 단체는 (a) 자신의 종교 사무를 관리하고; (b) 종교적 또는 자선적 목적을 위한 기관을 설립하고 유지하며; (c) 재산을 취득·소유하고 법에 따라 이를 보유·관리할 권리를 가진다.
+
+**제4항.** "주 법률은, 그리고 쿠알라룸푸르·라부안·푸트라자야 연방 직할구에 관하여는 연방 법률은, 이슬람교를 신봉하는 사람들 사이에서 어떠한 종교적 교리나 신념의 전파를 통제하거나 제한할 수 있다."
+
+**제5항.** "이 조는 공공질서, 공중보건 또는 도덕에 관한 일반 법률에 반하는 어떠한 행위도 허용하지 아니한다."
+
+## 두 규정의 본문이 상호 참조하는 지점
+
+각각 따로 읽으면, 제3조와 제11조는 헌법의 서로 다른 편에 자리하며 서로 다른 물음에 답합니다 — 제3조는 이슬람과 통치자의 지위를 다루는 반면, 제11조는 모든 사람과 모든 종교 단체에 속하는 권리를 규정합니다. 헌법 자체의 본문은 세 개의 구체적인 지점에서 이들을 연결합니다.
+
+- **제3조 제4항**은 일반적 연결입니다. 즉 제3조가 헌법의 다른 어떤 것도 "훼손"하지 아니한다고 명백히 규정하며, 이는 그 선언이 그 문언 자체로는 제11조를 포함한 다른 어떠한 규정도 축소하지 아니함을 의미합니다.
+- **제11조 제4항**은 반대 방향으로 작용하는 구체적 연결입니다. 즉 주 법률(또는 연방 직할구에서는 연방 법률)이 *이슬람교를 신봉하는 사람들 사이에서* 종교적 교리나 신념의 전파를 통제하거나 제한하는 것을 허용하는 것은 제3조가 아니라 제11조 자체입니다. 본문상의 제한은 무슬림을 향한 전파에 특정하여 적용됩니다; 제11조 제1항의 신봉·실천·전파에 관한 일반적 권리 자체는 제3조에 의해 한정되지 아니합니다.
+- **제4조 제1항**, 즉 최고성 조항은 두 규정 모두에 적용됩니다. 즉 헌법에 — 제3조 또는 제11조 중 어느 것과라도 — 저촉되는 어떠한 법률도 저촉되는 한도에서 무효입니다.
+
+## 본문이 가리키는 그 밖의 규정
+
+헌법의 다른 두 부분도 이슬람에 관한 자체의 명시적 문언을 담고 있으며, 그것들이 말하는 범위를 벗어나지 아니하고 제3조 및 제11조와 함께 읽을 가치가 있습니다.
+
+**제121조 제1A항.** 사법부에 관한 제9편에서, 이 항은 다음과 같이 규정합니다. "제1항에 언급된 법원은 샤리아 법원의 관할에 속하는 어떠한 사항에 대해서도 관할권을 가지지 아니한다." 제1항은 두 개의 민사 고등법원을 설치하는 규정입니다. 따라서 제121조 제1A항은 민사 법원과 샤리아 법원 사이의 본문상 경계이며, 제3조나 제11조에 대한 개정이 아니라 관할권의 배제로 규정되어 있습니다.
+
+**제9부칙, 주 목록, 제1항.** 이 항목은 주 입법부에 다른 것들 가운데 "이슬람법 및 이슬람교를 신봉하는 사람들의 인적·가족법," "이슬람교를 신봉하는 사람들에 대해서만 관할권을 가지는 샤리아 법원의 구성·조직 및 절차," 그리고 "이슬람교를 신봉하는 사람들 사이에서의 교리와 신념의 전파에 대한 통제" — 제11조 제4항이 주 법률로 다루는 것을 허용하는 것과 동일한 전파 통제의 대상 사항 — 에 관한 법률을 제정할 권한을 부여합니다. 부칙 본문은 또한 예외를 마련합니다. 즉 이 항목은 "쿠알라룸푸르·라부안·푸트라자야 연방 직할구에 관하여는" 적용되지 아니하며, 이는 제3조 제5항이 그곳에서 주 통치자가 아니라 양 디페르투안 아공을 이슬람의 수장으로 두는 것과 일관됩니다.
+
+## 흔한 오해
+
+- **제3조 제1항을 후반부 없이 인용하는 것.** 이 항은 한 문장입니다. 즉 이슬람이 연방의 종교라는 선언은 동일한 문장 안에서 즉시 "다만 다른 종교도 연방의 어느 지역에서든 평화롭고 조화롭게 신봉될 수 있다"로 이어집니다. 후반부를 빼면 그 항이 실제로 규정하는 바가 달라집니다.
+- **제3조를 마치 "말레이시아는 이슬람 국가이다"라고 규정한 것처럼 다루는 것.** 그 문구는 본문에 나오지 아니합니다. 제3조 제1항은 이슬람을 "연방의 종교"로 선언하며 — 이는 헌법 자체가 사용하고 제3조 안에서 더 이상 정의하지 아니하는 표현입니다.
+- **제11조 제4항이 전파를 일반적으로 제한한다고 가정하는 것.** 그 항 자체의 표현은 "이슬람교를 신봉하는 사람들 사이에서"만 전파를 제한합니다. 그것은 그 본문상 비무슬림 사이에서 다른 종교의 전파를 제한하지 아니합니다.
+- **양 디페르투안 아공이 어디서나 이슬람의 수장이라고 가정하는 것.** 제3조 제5항은 세 곳 — 쿠알라룸푸르·라부안·푸트라자야 연방 직할구 — 을 특정하여 지명합니다. 통치자가 있는 주에서는 제3조 제2항이 그 지위를 통치자에게 두며, 양 디페르투안 아공은 통치자 회의가 어떤 예식이나 의식이 연방 전체에 확장되어야 한다고 합의한 경우에만 행위합니다.
+- **제3조 제4항을 제3조와 제11조가 특정 사안에서 함께 어떻게 적용되는지를 해결하는 것으로 읽는 것.** 그 항은 제3조가 헌법의 다른 규정을 훼손하지 아니한다는 것만을 규정합니다; 그것 자체가 분쟁에서 법원이 두 규정을 서로 어떻게 형량하여야 하는지를 규정하지는 아니합니다. 그 물음은 법원이 사안별로 결정하며 이 페이지의 범위 밖에 있습니다.
+
+## 다음 단계
+
+제3조와 제11조가 나머지 헌법 본문 — 각 편, 기본적 자유 장, 그리고 제159조의 개정 절차 — 안에서 어떻게 자리하는지는 [연방헌법](/ko/law/federal-constitution) 개관을 참조하십시오. 제3조가 직접 지명하는 두 직위에 대해서는 [양 디페르투안 아공](/ko/government/yang-di-pertuan-agong) 및 [통치자 회의(Majlis Raja-Raja)](/ko/government/majlis-raja-raja)를 참조하십시오. 제121조 제1A항이 말레이시아의 법원들 가운데 어디에 자리하는지는 [말레이시아의 법원 체계](/ko/law/court-hierarchy)를 참조하십시오. 그 원칙 가운데 "Keluhuran Perlembagaan"(헌법의 최고성)을 별도로 지칭하는 비헌법적 국가 선언에 대해서는 [루쿤 네가라](/ko/malaysia/rukun-negara)를 참조하십시오.

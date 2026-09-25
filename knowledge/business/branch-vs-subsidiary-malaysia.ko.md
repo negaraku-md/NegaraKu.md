@@ -1,0 +1,298 @@
+---
+topicId: MY-BIZ-0018
+title: "말레이시아에서 지점, 자회사, 아니면 연락사무소?"
+seoTitle: "말레이시아 지점 대 자회사: 의사결정 프레임워크"
+slug: "branch-vs-subsidiary-malaysia"
+category: "business"
+subcategory: ["choosing-a-structure"]
+summary: "외국계 그룹이 제562조에 따른 지점 등록, 말레이시아 자회사 설립, MIDA 승인 연락사무소 설치 사이에서 어떻게 선택해야 하는지를 설명합니다."
+
+tier: "2"
+mode: "practical"
+contentType: "comparison"
+sensitivity: "none"
+
+answer: "자회사는 책임을 차단하고 독자적으로 존재하는 말레이시아 회사입니다. 지점은 회사법(Companies Act 2016) 제562조에 따라 등록된 외국 회사 그 자체로서, 책임 차단이 없고, 벌칙에 대해 개인적으로 책임지는 현지 거주 대리인이 있으며, 제575조에 따라 모회사의 감사받은 회계를 공개적으로 제출할 의무가 있습니다. 연락사무소는 수익을 얻거나 계약을 체결하는 것 자체가 허용되지 않습니다. 대부분의 영업 그룹은 자회사를 설립해야 합니다."
+keyTakeaways:
+  - "s.561(1): a foreign company may not carry on business in Malaysia unless registered as a foreign company"
+  - "The Thirteenth Schedule lists ten activities that do not count as carrying on business — read it before assuming you must register"
+  - "A branch is not a separate legal person; the parent carries every liability the branch incurs"
+  - "s.563(1)(c): the local agent is personally liable for all penalties imposed on the foreign company"
+  - "s.575(5): a branch must lodge audited head-office accounts plus an audited statement of its Malaysian assets and liabilities"
+  - "s.576(3): a branch's annual return is due within 30 days of the anniversary of its registration"
+  - "A MIDA representative or regional office is not allowed to trade, sign contracts, provide services for a fee, or manage local subsidiaries"
+appliesTo: "Foreign companies and groups planning a Malaysian presence, and their advisers choosing between registration routes."
+
+faq:
+  - q: "Do we actually have to register anything?"
+    a: "Not always. Section 561(2) of the Companies Act 2016 says a foreign company is not regarded as carrying on business in Malaysia merely because it does the things listed in the Thirteenth Schedule. That list includes maintaining a bank account, effecting a sale through an independent contractor, soliciting an order that becomes binding only on acceptance outside Malaysia, holding directors' or shareholders' meetings, investing funds or holding property, and conducting an isolated transaction completed within 31 days that is not one of a series. Section 561(3) pulls in the other direction, treating share transfer or registration offices and dealing with Malaysian property as agent or trustee as carrying on business."
+  - q: "Is a branch cheaper to run than a subsidiary?"
+    a: "Rarely, once you count the filings. Under s.575 a branch must lodge with the Registrar the head office's financial statements in the form required by its place of incorporation, and under s.575(5) also a duly audited statement showing the assets used in and liabilities arising out of its Malaysian operations. Those become public documents. A branch also cannot use the private-company audit exemption in SSM's Practice Directive 10/2024, which expressly excludes foreign companies."
+  - q: "Who is the local agent and what do they take on?"
+    a: "Section 563(1) requires a foreign company to appoint at all times an agent resident in Malaysia who is answerable for everything the foreign company must do under the Act and is personally liable for all penalties imposed on the foreign company, unless the agent satisfies the court that they should not be liable. If the agent ceases, s.563(5) gives the company 21 days to appoint another. This is a real personal exposure, not a mailbox role."
+  - q: "Can a representative office earn any income?"
+    a: "No. MIDA's guidelines for setting up a Representative Office or Regional Office prohibit engaging in any trading, business or commercial activity, leasing warehousing facilities, signing business contracts on behalf of the foreign corporation, providing services for a fee, or participating in the daily management of its Malaysian subsidiaries, affiliates or branches. The office must be financed by funds from sources outside Malaysia."
+  - q: "What does a representative office cost to maintain?"
+    a: "MIDA sets a minimum annual operational expenditure of RM300,000 for a new establishment, rising to RM600,000 for the first extension and RM1 million per annum for a further extension by a conglomerate — imposed at the minimum or as proposed by the applicant, whichever is higher. Approval runs for a minimum of two years, and extension applications must be filed at least three months before expiry."
+  - q: "How do we close a branch?"
+    a: "Section 578(1) requires the foreign company to lodge a notice within seven days of ceasing to have a place of business or to carry on business in Malaysia. From the day the notice is lodged, the obligation to lodge further documents ceases, apart from anything already overdue. The Registrar removes the name from the register twelve months after the notice."
+
+verificationNeeded:
+  - "Confirm the statutory test for corporate tax residence in Malaysia and the exact subsection of the Income Tax Act 1967, together with the current LHDN guidance on certificates of residence for branches"
+  - "Confirm whether MIDA's RE/RO guideline dated 24 March 2023 remains the current version"
+
+obligations:
+  - what: "Lodge the foreign company's annual return"
+    trigger: "anniversary"
+    withinDays: 30
+    due: "not later than 30 days from the anniversary of the date of registration"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.576(3)"
+  - what: "Lodge financial statements of the foreign company"
+    trigger: "financial-year-end"
+    due: "within two months of the foreign company's annual general meeting"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.575(1)"
+  - what: "Notify cessation of business in Malaysia"
+    trigger: "change"
+    withinDays: 7
+    due: "within seven days of ceasing"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.578(1)"
+  - what: "Appoint a replacement local agent"
+    trigger: "change"
+    withinDays: 21
+    due: "within 21 days of the previous agent ceasing"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.563(5)"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Table of Fees — Registration of Company (ROC), Companies Regulations 2017 (P.U.(A) 37)"
+    url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+  - title: "Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO)"
+    url: "https://www.mida.gov.my/wp-content/uploads/2023/05/RERO-GUIDELINE_17.05.23.pdf"
+    publisher: "MIDA"
+    date: "2023-03-24"
+  - title: "PD 10/2024 — Qualifying Criteria for Audit Exemption for Certain Categories of Private Companies"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
+    publisher: "SSM"
+  - title: "Regional Representative Office"
+    url: "https://www.mida.gov.my/industries/services/regional-establishment/regional-representative-office/"
+    publisher: "MIDA"
+
+entity: "Foreign company presence in Malaysia"
+relations:
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "administered-by", to: "ssm" }
+  - { rel: "related-to", to: "mida" }
+  - { rel: "compares-with", to: "business-structures-malaysia" }
+  - { rel: "related-to", to: "register-foreign-branch-malaysia" }
+related: ["business-structures-malaysia", "what-is-sdn-bhd", "register-sdn-bhd"]
+keywords:
+  - "branch vs subsidiary Malaysia"
+  - "foreign company registration Malaysia"
+  - "section 561 Companies Act 2016"
+  - "representative office Malaysia"
+  - "regional office MIDA"
+  - "local agent foreign company Malaysia"
+  - "set up business in Malaysia foreign company"
+---
+
+지점은 보통 가벼운 선택지로 소개됩니다. 새 회사도, 주주도, 정관도 없다는
+것입니다. 그러다 누군가 회사법 2016 제575조 제5항을 읽고서, 지점이 말레이시아
+공개 기록에 모회사의 감사받은 재무제표 **그리고** 그 말레이시아 영업의 자산 및
+부채에 관한 감사받은 명세서를 제출해야 한다는 사실을 발견합니다.
+
+상장된 모회사에게는 그것이 일상적인 일입니다. 어디에도 회계를 공표한 적이 없는
+비공개 그룹에게는 대개 그것이 대화의 끝입니다.
+
+## 첫 번째 질문: 애초에 등록을 해야 합니까?
+
+제561조 제1항이 금지 규정입니다. 즉, 외국 회사는 이 법에 따라 외국 회사로
+등록되지 않는 한 말레이시아에서 사업을 영위해서는 안 됩니다. 제561조 제4항은
+회사와 모든 임원에게 책임을 부과합니다.
+
+그러나 제561조 제2항은 **제13부칙**을 예외로 두며, 그 부칙은 대부분의 자문가가
+가정하는 것보다 훨씬 넓습니다. 외국 회사는 다음의 행위를 한다는 이유만으로는
+말레이시아에서 사업을 영위하는 것으로 간주되지 않습니다.
+
+- 소송, 중재 또는 화해의 당사자가 되는 것;
+- 이사회 또는 주주총회를 개최하거나 내부 사무를 처리하는 것;
+- 은행 계좌를 유지하는 것;
+- **독립 계약자**를 통해 판매를 실행하는 것;
+- **말레이시아 밖에서 승낙되어야만** 구속력 있는 계약이 되는 주문을 권유하거나
+  받는 것;
+- 채무의 증거 또는 재산에 대한 담보를 생성하는 것;
+- 채무를 확보 또는 회수하거나 담보를 실행하는 것;
+- 수시로 반복되는 다수의 유사 거래 중 하나가 아닌, **31일 이내에 완료되는 단발성
+  거래**를 수행하는 것;
+- 자금을 투자하거나 재산을 보유하는 것; 또는
+- 진열, 전시, 시연 또는 견본으로서, 3개월 이내에 재수출할 목적으로 관세법 1967에
+  따라 물품을 일시 수입하는 것.
+
+제561조 제3항은 반대 방향으로 밀어붙입니다. "사업 영위"에는 주식 양도 또는 주식
+등록 사무소를 설치·이용하는 것과, 대리인, 유언집행자 또는 수탁자로서 말레이시아
+재산을 관리·운영 또는 취급하는 것이 **포함됩니다**.
+
+종합하면, 독립 유통업자를 통해 본사에서 승낙되는 계약으로 말레이시아에 판매하는
+수출업체는 흔히 여기서 전혀 사업을 영위하는 것이 아닙니다. 사무소를 설치하고
+현지에서 거래를 성사시키는 것은 별개의 문제입니다.
+
+## 세 가지 경로 비교
+
+| | 자회사(Sdn Bhd) | 지점(등록 외국 회사) | 연락사무소 / 지역사무소 |
+| --- | --- | --- | --- |
+| 법적 지위 | 별개의 말레이시아 법인 | 외국 회사 그 자체 | 법인 아님; MIDA 승인 |
+| 책임 | 자회사로 차단됨 | 모회사가 모든 것을 부담 | 거래 없음, 따라서 거래 책임 없음 |
+| 준거 규칙 | 일반적으로 회사법 2016 | 회사법 2016, Part XI, Division 2 | MIDA 지침 |
+| 현지 임원 | 말레이시아에 통상 거주하는 이사(제196조 제4항) | 말레이시아 거주 대리인, 개인적 책임(제563조) | 사무소장; 주재원 직위는 MIDA 승인 |
+| 제출 회계 | 자체 재무제표 | 본사 회계 **그리고** 감사받은 말레이시아 자산·부채 명세서(제575조) | 없음 |
+| 감사 면제 | PD 10/2024 기준 충족 시 가능 | 배제 — PD 10/2024는 외국 회사에 적용되지 않음 | 해당 없음 |
+| 연차보고서 | 설립 기념일로부터 30일 이내(제68조) | 등록 기념일로부터 30일 이내(제576조 제3항) | 12개월마다 MIDA에 진행 보고 |
+| 수익 취득 가능 여부 | 예 | 예 | **아니오** |
+| 대표적 용도 | 영업 사업 | 모회사가 수행해야 하는 규제 활동; 단기 프로젝트 | 확약 전 시장 평가 |
+
+## 책임 차단이 논의의 핵심입니다
+
+지점은 별개의 법인이 아닙니다. 지점에 대한 판결은 외국 회사에 대한 판결입니다.
+공급업체의 청구, 고용 관련 배상 명령, 규제 벌칙 — 이 모두가 곧바로 모회사의
+재무상태표로, 그리고 모회사가 어디에서 보유하든 그 모든 자산으로 흘러갑니다.
+
+자회사는 말레이시아 회사를 사이에 둡니다. 모회사의 위험 노출은 그 투자액에,
+보증한 것에, 그리고 어느 관할에나 존재하는 좁은 법정 법인격 부인 경로에
+한정됩니다.
+
+그리고 대리인이 있습니다. 제563조 제1항은 외국 회사가 항상 말레이시아에 대리인을
+임명하도록 요구하며, 그 대리인은 이 법에 따라 회사가 해야 하는 모든 행위에 대해
+책임지고, 법원에 달리 납득시키지 못하는 한 **외국 회사에 부과되는 모든 벌칙에
+대해 개인적으로 책임집니다**. 지점 대리인 선임을 행정적 호의로 받아들이는 실무자는
+명의 이사직과 같은 형태의 책임을 떠안는 것입니다.
+
+## 세무상 거주지: 대부분의 사안을 결정하는 지점
+
+말레이시아 소득세 목적의 거주지는 등기를 따르지 않습니다. 그것은 사업이 관리·
+통제되는 곳을 따릅니다. 전적으로 해외 본사에서 지휘되는 지점은 일반적으로
+비거주자로 취급되고, 말레이시아 이사회가 운영하는 자회사는 일반적으로 거주자로
+취급됩니다.
+
+그 구분은 연쇄적으로 이어집니다. 거주자 지위는 말레이시아 측에서 말레이시아의
+조세조약망에 접근하고, 거주증명서를 발급받으며, 거주자 전용 우대 세율과 인센티브에
+접근할 수 있게 해주는 것입니다. 그것은 또한 지급금에 대한 원천징수세 분석도
+바꿉니다.
+
+여기서는 검증된 1차 인용 없이 세율표나 법정 기준을 공표하지 않습니다 —
+`verificationNeeded`를 참조하십시오 — 다만 이것을 기업 구조를 선택하기 전에
+말레이시아 세무 자문가와 가장 먼저 모델링해야 할 항목으로 다루십시오. 이것이
+대개 답을 결정합니다.
+
+## 지점이 실제로 제출하는 것
+
+이 부분이 저평가됩니다.
+
+- **제562조** — 등록에는 말레이시아 내 모든 주주, 말레이시아에서 선임된 모든 이사,
+  본국의 주주 또는 사원 명단(500명을 초과하는 경우 상위 20명과 대리인 증명서)의
+  세부사항, 주식 자본 세부사항, 대리인 선임이 필요합니다.
+- **제564조** — 지점은 제26조에 따른 이용 가능성을 조건으로 본국에서와 동일한
+  명칭으로 등록되어야 하며, 말레이시아에서 다른 어떤 명칭도 사용할 수 없습니다.
+- **제566조** — 지점은 항상 말레이시아에 등록 사무소를 두어야 합니다.
+- **제567조** — 등록 사항의 변경은 통보되어야 합니다.
+- **제574조** — 회계 기재는 거래로부터 60일 이내에 이루어져야 하며, 회사법의
+  보존 규칙이 적용됩니다.
+- **제575조** — 총회 후 2개월 이내에, 설립지 법이 요구하는 형식으로 재무제표를
+  제출하며, **그리고** 제575조 제5항에 따라 감사받은 본사 회계와 말레이시아 영업에
+  사용된 자산 및 그로부터 발생하는 부채에 관한 감사받은 명세서를 제출합니다.
+  제575조 제7항은 준수가 비실용적이거나, 실질적 가치가 없거나, 불균형하게 비싸거나,
+  사업에 해로운 경우 등록관이 제575조 제5항을 면제할 수 있도록 합니다.
+- **제576조** — 매 역년에 한 번, 등록일 기념일로부터 30일 이내에 제출하는
+  연차보고서입니다.
+- **제578조** — 사업 중단 시 7일 이내의 통지; 12개월 후 등기부에서 말소.
+
+이 중 두 가지는 강조할 만합니다. 첫째, 제575조 제7항의 면제는 재량적이며 자동이
+아닙니다 — 그것을 전제로 계획하지 마십시오. 둘째, 외국 회사는 SSM의 실무지침
+10/2024상 감사 면제에서 명시적으로 제외되므로, 감사는 규모로 회피할 수 없습니다.
+
+## 연락사무소가 정답인 경우
+
+정말로 아직 팔 것이 아무것도 없을 때에 한합니다.
+
+MIDA의 지침은 RE/RO가 정보를 수집·분석하고, 타당성 조사를 수행하며, 사업 활동을
+계획 또는 조정하고, 원자재 또는 부품의 공급원을 파악하며, 연구 및 제품 개발을
+수행하고, 지역 조정 센터로서 활동하며, "실제 상업 거래로 직접 귀결되지 않을" 기타
+활동을 수행하는 것을 허용합니다.
+
+금지 사항이 이 구조의 실질입니다. 승인된 RE/RO는 다음을 할 수 없습니다.
+
+- 수입 및 수출을 포함한 어떠한 거래 또는 어떠한 형태의 상업 활동에도 종사하는
+  것;
+- 창고 시설을 임차하는 것 — 선적, 환적, 보관은 현지 대리인 또는 유통업자를 통해야
+  함;
+- 외국 법인을 대리하여 사업 계약에 서명하거나, 대가를 받고 서비스를 제공하는 것;
+  또는
+- 그 말레이시아 자회사, 계열사 또는 지점의 일상적 경영에 참여하는 것.
+
+약정은 실질적입니다. 최소 운영 지출은 신규 설립의 경우 **연 RM300,000**, 첫
+연장 시 **RM600,000**, 대기업의 추가 연장 시 **연 RM1 million**이며 — 이는 최소액
+또는 신청인이 제안한 금액 중 더 높은 쪽으로 부과됩니다. 승인은 최소 2년간
+유효합니다. 사무소는 말레이시아 밖의 재원으로 자금을 조달해야 합니다. 모든
+근로자는 SOCSO와 EPF에 등록되어야 합니다. 주재원 직위는 관리직 및 기술직에
+한하며, 최소 기본급 월 RM5,000, 이상적 구성은 주재원 2명당 말레이시아인 1명입니다.
+
+MIDA 자체 지침은 조용히 숨겨진 부분을 분명히 말합니다. 승인 만료 시 신청인은
+회사법 2016에 따라 **자회사를 설립하도록 권장됩니다**. 연락사무소는 대기실로
+설계되어 있습니다.
+
+## 흔한 실수
+
+- **더 간단해 보여서 지점을 등록하는 것.** 제575조는 모회사의 회계를 말레이시아에서
+  공개하며, PD 10/2024는 감사 면제를 제거합니다.
+- **제13부칙 검토를 건너뛰는 것.** 일부 외국 회사는 필요하지도 않았던 지점을
+  등록하고, 다른 회사는 현지 판매 사무소가 독립 계약자 항목에 포함된다고 가정하지만
+  그렇지 않습니다.
+- **현지 대리인 역할을 사무적인 것으로 취급하는 것.** 제563조 제1항 (c)는 회사의
+  벌칙에 대한 개인적 책임입니다.
+- **지점이 말레이시아 조약 혜택을 받는다고 가정하는 것.** 거주지는 등록이 아니라
+  관리와 통제에 달려 있습니다.
+- **연락사무소를 이용해 거래를 성사시키는 것.** 계약에 서명하거나 대가를 청구하는
+  것은 승인 조건을 정면으로 위반합니다.
+- **기념일을 놓치는 것.** 지점의 연차보고서는 회계연도 말이 아니라 **등록**
+  기념일부터 기산됩니다(제576조 제3항).
+- **철수 기한을 잊는 것.** 제578조 제1항은 중단 통지 제출에 7일을 부여합니다.
+
+## 다음 단계
+
+세 가지를 순서대로 점검하십시오. 제13부칙이 귀하가 하는 일을 이미 포괄합니까?
+그렇지 않다면, 형태를 선택하기 전에 말레이시아 자문가와 세무상 거주지를
+모델링하십시오. 그런 다음, 귀하의 그룹이 본사의 감사받은 회계를 말레이시아 공개
+기록에 올릴 준비가 되어 있는지 물으십시오.
+
+마지막 질문에 대한 답이 "아니오"라면 — 대부분의 비공개 그룹에게는 그렇습니다 —
+자회사를 설립하고 마무리하십시오.
+
+---
+
+**검증 상태.** AI 지원 초안이며, 아직 주제 전문가의 검토를 받지 않았습니다. 조문
+인용은 SSM이 공표한 회사법 2016(Act 777)을 기준으로 합니다. 연락사무소 및 지역
+사무소 규칙은 2023년 3월 24일자 MIDA 지침에서 가져온 것이며, MIDA 정책은 별다른
+예고 없이 바뀌므로 적용 전에 확인하십시오. 여기의 어떤 내용도 특정 구조에 관한
+법률 또는 세무 자문이 아닙니다.

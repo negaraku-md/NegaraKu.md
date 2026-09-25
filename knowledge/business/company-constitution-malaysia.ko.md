@@ -1,0 +1,263 @@
+---
+topicId: MY-BIZ-0009
+title: "회사 정관인가, 회사법의 기본값인가? 정관을 건너뛰면 무엇을 물려받는가"
+seoTitle: "말레이시아 회사 정관: 필요한가?"
+socialTitle: "Skipping the constitution is a decision. Here is what you decided."
+slug: "company-constitution-malaysia"
+category: "business"
+subcategory: ["formation"]
+summary: "회사법 2016은 정관을 선택 사항으로 만들었습니다. 이것은 그 대신 조항별로 적용되는 기본 규칙집이며, 그로부터 벗어나는 것이 비용을 들일 가치가 있는 때는 언제인가입니다."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+
+answer: "회사법 2016 s.31에 따라 보증유한회사가 아닌 회사는 정관을 둘 수도 있고 두지 않을 수도 있습니다. 정관이 없으면, 회사·그 이사·그 사원의 권리·권한·의무·책무는 이 법 자체에 규정된 것입니다. 그 기본값은 일관성이 있고 단독 소유 회사에는 충분합니다. 두 사람 이상이 주식을 소유하는 순간 그것은 불충분해집니다."
+keyTakeaways:
+  - "A constitution is optional for a company limited by shares — Companies Act 2016, s.31(1)"
+  - "With no constitution, the Act supplies the rules in full (s.31(3)) — you are not unregulated, you are on defaults"
+  - "Board proceedings default to the Third Schedule under s.212"
+  - "Statutory pre-emption on new share issues applies by default under s.85 — an investor-drafted constitution often removes it"
+  - "A private company director can be removed by ordinary resolution under s.206(1)(a), subject to the constitution"
+  - "A private company must restrict the transfer of its shares (s.42(2)), but the Act does not supply the mechanism — that is the biggest gap in the default"
+  - "Adopt by special resolution and lodge within 30 days (s.32); the SSM amendment fee is RM30"
+appliesTo: "Founders deciding whether to adopt a constitution at incorporation, and companies with more than one shareholder reviewing whether the statutory default still fits."
+
+faq:
+  - q: "Is a company constitution compulsory in Malaysia?"
+    a: "Not for a company limited by shares. Section 31(1) of the Companies Act 2016 says a company, other than a company limited by guarantee, may or may not have a constitution. A company limited by guarantee must have one. If a company has no constitution, s.31(3) applies the rights, powers, duties and obligations set out in the Act."
+  - q: "What happened to the Memorandum and Articles of Association?"
+    a: "For a company registered under the previous law, the memorandum and articles as originally registered or as altered are deemed to be its constitution under s.34(c). Those companies did not become constitution-free in 2016 — they carry their old M and A forward as their constitution until they resolve to alter or repeal it."
+  - q: "How do I adopt a constitution after incorporation?"
+    a: "By special resolution under s.32(1), then lodge it with the Registrar within thirty days of the adoption (s.32(4)). Failure to lodge carries a fine up to RM50,000 and a daily fine of up to RM500 while it continues. A later alteration is also by special resolution, notified and lodged within thirty days (s.36)."
+  - q: "Does a constitution give the directors more power?"
+    a: "It can, and it can also take power away. Section 211(2) gives the Board all powers necessary to manage the company subject to any modification, exception or limitation in the Act or in the constitution. Section 212 applies the Third Schedule to Board proceedings subject to the constitution. Both directions are available."
+  - q: "Can a constitution override the Companies Act?"
+    a: "No. Section 32(2) states that a constitution has no effect to the extent that it contravenes or is inconsistent with the Act. It can only modify the provisions the Act itself permits to be modified — typically those introduced by the words subject to the constitution."
+  - q: "We already incorporated without one. Is it too late?"
+    a: "No. You can adopt one at any time by special resolution. The practical problem is timing: adopting a constitution requires 75% support, which is easy while the founders agree and hard once they do not. The cheapest moment to write the rules is before anyone needs them."
+
+verificationNeeded:
+  - "Confirm the current SSM lodgement fee for adoption of a constitution — the published table lists RM30 for constitution amendment; verify the fee applicable to first adoption"
+
+obligations:
+  - what: "Lodge the constitution with the Registrar after adoption"
+    trigger: "change"
+    withinDays: 30
+    due: "Within 30 days of the special resolution adopting the constitution"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.32(4)"
+    consequence: "Fine up to RM50,000, plus up to RM500 a day while the offence continues"
+  - what: "Notify SSM and lodge the amended constitution after any alteration"
+    trigger: "change"
+    withinDays: 30
+    due: "Within 30 days of the special resolution"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.36(3)"
+    consequence: "Fine up to RM10,000, plus up to RM500 a day while the offence continues"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+sensitivity: "none"
+
+updated: 2026-07-20
+sources:
+  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+  - title: "Table of Fees — Registration of Company (ROC)"
+    url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
+    publisher: "SSM"
+  - title: "FAQs on the Companies Act 2016 and Transitional Issues — Part B, Constitution"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20B.pdf"
+    publisher: "SSM"
+  - title: "Companies Act 2016 — legal framework"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
+    publisher: "SSM"
+
+entity: "Company constitution (Malaysia)"
+relations:
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "administered-by", to: "ssm" }
+  - { rel: "related-to", to: "share-capital-malaysia" }
+  - { rel: "related-to", to: "shareholders-agreement-malaysia" }
+  - { rel: "part-of", to: "register-sdn-bhd" }
+related: ["register-sdn-bhd", "what-is-sdn-bhd", "companies-act-2016"]
+keywords:
+  - "company constitution Malaysia"
+  - "perlembagaan syarikat"
+  - "memorandum and articles of association Malaysia"
+  - "section 31 Companies Act 2016"
+  - "do I need a constitution Sdn Bhd"
+  - "M&A replaced by constitution"
+---
+
+회사법 2016은 회사 정관을 선택 사항으로 만들었고, 업계 전체는 이를 "정관은 필요
+없다"로 번역했습니다.
+
+그것이 실제로 의미하는 바는, 여러분이 규칙을 쓰지 않으면 이 법이 여러분을 위해
+규칙을 쓴다는 것입니다. 제31(3)조는 명확합니다. 회사에 정관이 없으면, 회사·각
+이사·각 사원은 **이 법에 규정된 대로**의 권리·권한·의무·책무를 가집니다.
+
+여러분은 규제받지 않는 것이 아닙니다. 여러분은 기본값 위에 있습니다. 대부분의
+창업자는 그것을 결코 읽어 본 적이 없습니다.
+
+## 규칙 자체
+
+제31(1)조: 보증유한회사가 아닌 회사는 **정관을 둘 수도 있고 두지 않을 수도
+있습니다.** 보증유한회사는 반드시 두어야 합니다.
+
+제32(1)조: 정관은 특별결의로 채택되며, 30일 이내에 등록관에게 제출됩니다(s.32(4)).
+제출을 게을리하면 최대 RM50,000의 벌금과 계속되는 동안 하루 최대 RM500의 벌금이
+있습니다.
+
+제32(2)조는 그 경계입니다. 정관은 이 법에 위반되거나 저촉되는 범위에서 **효력이
+없습니다.** 정관은 이 법이 수정을 허용하는 것을 수정합니다. 그것은 이 법을 다시 쓸
+수 없습니다.
+
+### 회사가 2016년 이전에 등록된 경우
+
+여러분은 거의 틀림없이 정관을 가지고 있습니다. 제34(c)조는 대응하는 종전 성문법에
+따라 등록된 회사의 경우, 정관이 원래 등록되거나 변경된 대로의 기본정관 및 부속정관
+(memorandum and articles of association)이며, s.36 또는 s.37에 따른 후속 변경을
+포함한다고 규정합니다.
+
+오래된 회사는 2016년 법이 시행되었을 때 정관이 없는 상태가 되지 않았습니다. 그들은
+폐지된 법령 하에서 작성된 M&A를 지니고 있으며, 여기에는 흔히 법적으로 더 이상
+존재하지 않는 수권자본(authorised capital) 조항과 액면가(par value)가 담겨
+있습니다. 그것은 한번 읽어 볼 가치가 있습니다.
+
+## 정관을 건너뛰면 무엇을 물려받는가
+
+이것은 아무도 쓰지 않는 부분입니다. 여기 기본 규칙집이 조항별로 있습니다.
+
+| 질문 | 정관이 없을 때의 기본 규칙 | 조항 |
+| --- | --- | --- |
+| 누가 회사를 운영하는가 | 사업과 업무는 필요한 모든 권한을 가진 이사회에 의해, 또는 그 지휘 하에 관리된다 | s.211 |
+| 이사회가 어떻게 회합하고 결정하는가 | 제3부칙이 이사회 절차를 규율한다 | s.212 |
+| 이사 추가 선임 | 후임 이사는 보통결의로; 이사회는 선임 조건에 따라 추가 이사를 선임할 수 있다 | s.202 |
+| 이사 해임 | 비공개 회사 이사는 보통결의 — 단순 과반수 — 로 해임될 수 있다 | s.206(1)(a) |
+| 이사의 윤번 퇴임 | 정관 또는 선임 조건이 달리 정하지 않는 한 제205조가 적용된다; 비공개 회사는 서면결의로 이를 정할 수 있다 | s.205 |
+| 주식에 부여되는 권리 | 모든 보통주는 투표(poll)에서 1의결권, 이사회가 승인한 배당의 균등한 몫, 잔여 자산의 균등한 몫을 가진다 | s.71 |
+| 주식의 종류 | 완전한 법정 선택지가 이용 가능하다 — 상이한 종류, 상환주, 우선주, 제한된 또는 없는 의결권 | s.69 |
+| 신주 발행 | 이사는 제한된 예외를 제외하고 배정 전에 결의에 의한 사원의 사전 승인이 필요하다 | s.75 |
+| 희석 방지 | 동등한 순위의 신주는 먼저 기존 보유자에게 지분 비율대로 제공되어야 한다 | s.85 |
+| 사원이 어떻게 결정하는가 | 비공개 회사는 서면결의를 통과시킬 수 있다; 이 법이 명시하지 않는 경우 보통결의로 충분하다 | s.290 |
+| 연차 주주총회 | 불필요 — s.340은 공개 회사에만 적용된다 | s.340 |
+
+s.85 항목을 두 번 읽으십시오. **법정 우선매수권(pre-emption)은 기본적으로
+적용됩니다.** 여러분에게 정관이 없고 회사가 기존 주식과 동등한 순위의 신주를
+발행하면, 그 신주는 먼저 기존 주주에게 그들의 상대적 의결권과 분배권을 보존하는
+방식으로 제공되어야 합니다.
+
+그 아이러니는 분명히 말할 가치가 있습니다. 정관을 건너뛰는 것은 소수 주주에게,
+전문적으로 작성된 투자자 우호적 정관이 흔히 적용 배제하는 보호를 부여합니다. s.85가
+*정관에 따를 것을 조건으로*라는 말로 시작하기 때문입니다. 창업자는 흔히 정관을
+채택하면 자신이 더 안전해진다고 생각합니다. 그것은 전적으로 누가 그것을 작성했는지에
+달려 있습니다.
+
+## 기본값이 메우지 못하는 공백
+
+제42(2)조: 비공개 회사는 **자신의 주식의 양도를 제한하여야 합니다.** 그것은 이 형태의
+필수적 특성입니다.
+
+그러나 이 법은 *어떻게* 하는지 알려 주지 않습니다. 제한 메커니즘 — 양도를 거부할
+이사회의 재량, 양도 시 우선매수권, 태그얼롱(tag-along)이나 드래그얼롱(drag-along),
+청산 시 평가, 주주가 사망하거나 떠날 때 벌어지는 일 — 은 관례상 정관에 규정됩니다.
+정관이 없으면, 양도를 제한하도록 요구받는 회사에는 그것을 실행할 명시된 장치가
+없습니다.
+
+그것이 정관을 건너뛰는 진짜 비용입니다. 회사가 일상적으로 통치되지 않는다는 것이
+아니라, 누군가가 나가고 싶어 하거나, 사망하거나, 이혼하거나, 공동 창업자와 사이가
+틀어지는 순간, 합의된 절차도 합의된 가격도 없다는 것입니다.
+
+## 정관이 그 비용값을 하는 때
+
+단독 주주·단독 이사 회사에 대한 정직한 답은: 드물다입니다. 법정 기본값은 일관성이
+있으며, 맞춤 정관은 여러분을 지켜 줄 상대방이 없는 비용입니다.
+
+그것은 다음 중 어느 하나가 참일 때 그 비용값을 하기 시작합니다.
+
+- **주주가 둘 이상.** 특히 불균등한 분할, 그리고 특히 50/50인데, 여기서 기본값은
+  여러분에게 교착 상태 해소 메커니즘을 전혀 주지 않습니다.
+- **상이한 권리를 가진 주식 종류를 원함.** 가중 의결권을 가진 창업자 주식, 가족을
+  위한 무의결권 주식, 투자자를 위한 우선주.
+- **이사회 구성 방식을 제한해야 함.** 특정 주주가 이사를 선임할 권리는 명문으로
+  적혀 있어야만 존속합니다. 기본값은 s.206(1)(a)에 따른 단순 과반수에 의한 해임입니다.
+- **우선매수권을 수정하거나 배제하고 싶음.** 어느 방향으로든 — s.85는 정관에 따를
+  것을 조건으로 합니다.
+- **투자자가 요구함.** 텀시트는 관례상 완료 전에 합의된 지배 구조를 반영하는 정관을
+  요구합니다.
+- **특정 사건에 대비하고 있음.** 사망, 무능력, 창업자의 이탈, 주주의 파산.
+
+### 정관인가, 주주 간 계약인가?
+
+이 둘은 서로 다른 일을 하며, 선택은 양자택일이 아닙니다.
+
+정관은 SSM에 제출되며 공개 문서입니다. 그것은 마치 각 사원이 서명·날인한 것처럼
+회사와 그 사원을 구속합니다(s.33(1)). 그것은 회사 자체의 장치 — 결의, 양도, 주식
+권리 — 위에서 작동합니다.
+
+주주 간 계약(shareholders agreement)은 사적이고 계약적입니다. 그것은 서명한
+당사자를 구속하고, 정관이 미치지 못하는 상업적 사안을 다룰 수 있으며, SSM에서
+여러분의 파일을 읽는 경쟁사·고객·거래 상대방에게 보이지 않습니다.
+
+이 둘이 충돌하는 경우, 정관이 회사의 내부 장치를 지배하고, 계약은 서명자들에게
+서로에 대한 계약적 구제를 부여합니다. 진지한 약정은 대개 둘 다 사용하며, 같은 것을
+말하도록 함께 작성됩니다.
+
+## 나중에 마음을 바꾸는 데 드는 비용
+
+기계적으로는 매우 적습니다. 채택은 특별결의와 제출이며, SSM의 공표된 표는 정관
+수정에 대해 RM30을 표시합니다.
+
+실무적으로는 비싸며, 그 비용은 수수료가 아닙니다. 특별결의는 75%가 필요합니다. 모두가
+동의하는 동안 그것은 형식 절차입니다. 누군가가 반대할 이유가 생기면 — 대개 여러분이
+정관이 필요하다는 것을 깨닫는 바로 그 순간 — 그것은 약한 위치에서 수행되는 협상이
+됩니다.
+
+그 비대칭이 설립 시점에 결정하라는 논거의 전부입니다.
+
+## 흔한 실수
+
+- **"선택 사항"을 "불필요"로 읽기.** 제31(3)조는 대부분의 창업자가 결코 펼쳐 본 적
+  없는 완전한 기본 규칙집을 여러분에게 건넵니다.
+- **정관이 없으면 우선매수권이 없다고 가정하기.** 제85조는 기본적으로 적용됩니다.
+  그것을 없앨 수 있는 것은 정관입니다.
+- **다른 회사의 정관을 베끼기.** 이 법에 저촉되는 정관은 s.32(2)에 따라 그 범위에서
+  효력이 없으며, 물려받은 투자자 우호적 조항은 다른 누군가에게 하도록 작성된 무언가를
+  여러분에게 하고 있을 수 있습니다.
+- **오래된 회사가 자신의 M&A를 무시하기.** 그것은 수권자본 조항을 포함하여 s.34(c)에
+  따른 여러분의 정관입니다.
+- **30일 제출을 잊기.** 제32(4)조와 제36(3)조는 각각 최대 RM50,000과 RM10,000의
+  벌금에 더해 일일 금액을 부과합니다.
+- **정관을 채택하고 거기서 멈추기.** 그것은 주주 간의 상업적 사안 — 출자 의무,
+  경업 금지, 급여와 역할 — 을 다루지 않습니다. 그것은 주주 간 계약의 몫입니다.
+
+## 다음 단계
+
+여러분이 단독 소유자라면, 기본값을 새겨 두고 넘어가십시오. 주주가 둘 이상이라면,
+무언가가 작성되기 전에 답해야 할 질문은 다음과 같습니다. 우리 중 하나가 나가고 싶어
+할 때 무슨 일이 벌어지는가, 누가 가격을 정하는가, 무엇이 교착을 깨는가.
+
+그런 다음 그 답들이 정관에 속하는지, 주주 간 계약에 속하는지, 아니면 둘 다에
+속하는지를 결정하십시오.
+
+---
+
+**검증 상태.** AI 보조 초안이며, 아직 주제 전문가의 검토를 받지 않았습니다. 법령
+참조는 SSM이 공표한 회사법 2016(Act 777)에 대한 것입니다. 이것은 법정 기본값에 대한
+서술이며, 특정 주식 보유 약정에 대한 조언이 아닙니다.

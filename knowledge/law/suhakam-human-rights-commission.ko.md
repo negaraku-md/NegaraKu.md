@@ -1,0 +1,158 @@
+---
+topicId: MY-LAW-0092
+title: "SUHAKAM: 말레이시아 인권위원회"
+seoTitle: "SUHAKAM: 말레이시아 인권위원회(Act 597)"
+slug: "suhakam-human-rights-commission"
+category: "law"
+subcategory: ["hak-asasi"]
+summary: "말레이시아 인권위원회법 1999(Human Rights Commission of Malaysia Act 1999, Act 597)에 따른 SUHAKAM에 대한 안내 — 그 권한, 조사 권능, 그리고 그 판단이 왜 구속력이 아니라 권고에 그치는지를 다룹니다."
+
+tier: "2"
+mode: "practical"
+contentType: "agency"
+sensitivity: "none"
+
+answer: "SUHAKAM은 Act 597(1999)에 따라 설립된 말레이시아의 국가인권위원회입니다. 그것은 인권 침해 진정을 직권으로 또는 진정에 따라 조사하고, 증인을 소환하며, 공개 심문을 개최할 수 있습니다. 그러나 그 판단은 구속력이 없습니다. 즉 SUHAKAM은 관련 당국에 권고와 함께 사안을 회부할 수 있을 뿐이며, 법원에서 계속 중이거나 이미 판단된 사안은 조사할 수 없습니다."
+keyTakeaways:
+  - "Ditubuhkan di bawah Akta Suruhanjaya Hak Asasi Manusia Malaysia 1999 (Akta 597)"
+  - "Keahlian tidak kurang tujuh dan tidak lebih dua puluh ahli, dilantik oleh Yang di-Pertuan Agong atas syor Perdana Menteri, yang mesti berunding dahulu dengan jawatankuasa di bawah seksyen 11A"
+  - "Tempoh jawatan tiga tahun, layak dilantik semula sekali untuk tiga tahun lagi"
+  - "Boleh menyiasat atas usul sendiri (seksyen 12) dan memanggil saksi serta menerima keterangan (seksyen 14)"
+  - "Tidak boleh menyiasat perkara yang sedang dalam prosiding mahkamah atau telah diputuskan mahkamah (seksyen 12(2))"
+  - "Penemuan bersifat cadangan; SUHAKAM merujuk perkara dengan syor (seksyen 13) dan melaporkan kepada Parlimen setiap tahun (seksyen 21)"
+  - "Mengekalkan taraf 'A' GANHRI apabila disyorkan diakreditasi semula pada Jun 2021"
+appliesTo: "Rakyat dan penduduk yang ingin memahami peranan, kuasa dan had SUHAKAM, pelajar undang-undang, wartawan dan mana-mana pihak yang mempertimbangkan untuk membuat aduan hak asasi manusia."
+
+faq:
+  - q: "Adakah penemuan SUHAKAM mengikat kerajaan atau mahkamah?"
+    a: "Tidak. Akta 597 tidak memberikan penemuan SUHAKAM kuasa mengikat. Di bawah seksyen 13(2), apabila inkuiri mendedahkan pencabulan hak asasi manusia, SUHAKAM hanya boleh merujuk perkara itu kepada pihak berkuasa berkaitan dengan cadangan yang perlu. Pihak berkuasa itu wajib memaklumkan tindakan yang diambil (seksyen 13(3)), tetapi tidak diwajibkan mematuhi cadangan tersebut."
+  - q: "Bolehkah SUHAKAM menyiasat kes yang sedang dibicarakan di mahkamah?"
+    a: "Tidak. Seksyen 12(2) melarang SUHAKAM menyiasat aduan yang menjadi hal perkara prosiding yang belum selesai di mana-mana mahkamah (termasuk rayuan) atau yang telah diputuskan muktamad oleh mahkamah. Jika sesuatu perkara yang sedang disiasat kemudian menjadi hal perkara prosiding mahkamah, SUHAKAM mesti berhenti menyiasat serta-merta (seksyen 12(3))."
+  - q: "Siapa melantik ahli SUHAKAM dan berapa lama tempoh jawatan mereka?"
+    a: "Ahli dilantik oleh Yang di-Pertuan Agong atas syor Perdana Menteri; sebelum memberikan nasihatnya, Perdana Menteri mesti berunding dengan jawatankuasa yang disebut dalam seksyen 11A (seksyen 5(2)). Jawatankuasa itu terdiri daripada Ketua Setiausaha Negara (sebagai Pengerusi), Pengerusi Suruhanjaya, dan tiga orang lain daripada masyarakat sivil (seksyen 11A). Suruhanjaya terdiri daripada tidak kurang tujuh dan tidak lebih dua puluh ahli (seksyen 5(1)). Setiap ahli memegang jawatan selama tiga tahun dan layak dilantik semula sekali untuk tempoh tiga tahun lagi (seksyen 5(4))."
+  - q: "Apa maksud 'hak asasi manusia' di bawah Akta 597?"
+    a: "Seksyen 2 mentakrifkan hak asasi manusia sebagai kebebasan asasi seperti termaktub dalam Bahagian II Perlembagaan Persekutuan. Seksyen 4(4) menambah bahawa Deklarasi Hak Asasi Manusia Sejagat 1948 hendaklah diberi perhatian setakat yang tidak bercanggah dengan Perlembagaan Persekutuan."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-07
+    change: "Approved and published."
+    reviewer: null
+
+verificationNeeded:
+  - "Confirm current SUHAKAM membership count sits within the statutory 7-20 range as at publication date."
+  - "Confirm no annual reports beyond 2022 have since been tabled that would update the reporting-backlog statement."
+updated: 2026-08-07
+sources:
+  - title: "Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025"
+    url: "https://ganhri.org/wp-content/uploads/2025/12/Accreditation-Status-Chart_Dec2025.pdf"
+    publisher: "Global Alliance of National Human Rights Institutions (GANHRI)"
+  - title: "Human Rights Commission of Malaysia Act 1999 (Act 597) — English text"
+    url: "https://suhakam.org.my/wp-content/uploads/2024/04/ACT-597-1999_English.pdf"
+    publisher: "SUHAKAM"
+  - title: "Press Statement No. 9-2024: SUHAKAM Annual Report 2021 & 2022 have been Tabled and Debated"
+    url: "https://suhakam.org.my/2024/07/press-statement-no-9-2024_suhakam-annual-report-2021-2022-have-been-tabled-and-debated/"
+    publisher: "SUHAKAM"
+  - title: "GANHRI Sub-Committee on Accreditation Report — June 2021"
+    url: "https://ganhri.org/wp-content/uploads/2021/08/EN-SCA-Report-June-2021.pdf"
+    publisher: "Global Alliance of National Human Rights Institutions (GANHRI)"
+
+entity: "Suruhanjaya Hak Asasi Manusia Malaysia (SUHAKAM)"
+wikidata: "Q12710097"
+relations:
+  - { rel: "related-to", to: "civil-and-syariah-courts" }
+  - { rel: "explained-in", to: "article-3-religion" }
+related: ["civil-and-syariah-courts", "constitutional-amendment"]
+keywords: ["SUHAKAM", "hak asasi manusia", "Akta 597", "suruhanjaya hak asasi manusia Malaysia", "inkuiri awam", "Deklarasi Hak Asasi Manusia Sejagat", "Perlembagaan Persekutuan"]
+---
+
+여러분은 SUHAKAM에 진정할 수 있고, 그것은 관리에게 선서 증언을 하도록 소환할 수 있으며, 나아가 공개 심문을 개최할 수도 있습니다 — 그러나 그것이 여러분의 권리가 침해되었다고 결론짓더라도, 어느 누구도 그 결정을 법적으로 따를 의무가 없습니다. 이것이 말레이시아 국가인권위원회 이면의 역설입니다. 즉 넓은 조사 권한과 권고에 그치는 판단이 짝지어져 있습니다.
+
+SUHAKAM — 말레이시아 인권위원회(Suruhanjaya Hak Asasi Manusia Malaysia) — 는 말레이시아 인권위원회법 1999(Human Rights Commission of Malaysia Act 1999), 즉 **Act 597**에 따라 설립되었습니다. 이 문서는 그것이 무엇을 할 수 있고 할 수 없는지를, 그 법 자체의 문언의 관점에서 설명합니다.
+
+## SUHAKAM이란 무엇이며 어떻게 설립되는가?
+
+Act 597 제3조는 말레이시아 인권위원회로 알려진 위원회를 설립합니다. 그것은 영속적 존속을 가지며 자체의 이름으로 제소하고 제소당할 수 있는 법인체입니다.
+
+중요하게, 그 법은 그 업무의 범위를 정의합니다. 제2조는 "인권"이 **연방헌법(Federal Constitution) 제2편**에 규정된 기본적 자유를 가리킨다고 규정합니다. 그 법은 또한 더 넓은 지평을 엽니다. 즉 제4조 제4항은 **1948년 세계인권선언(Universal Declaration of Human Rights 1948)**에 유의하여야 하되, "연방헌법과 저촉되지 아니하는 한도에서"만이라고 정합니다. 헌법이 여전히 최고의 준거입니다.
+
+## 누가 SUHAKAM에 앉는가?
+
+SUHAKAM의 구성은 제5조에 규정되어 있습니다.
+
+| 사항 | 규정(Act 597) |
+|---|---|
+| 위원 수 | 7인 이상 20인 이하(제5조 제1항) |
+| 임명권 | 양 디페르투안 아공(Yang di-Pertuan Agong)이 총리의 제청으로; 총리는 먼저 제11A조 위원회와 협의하여야 함(제5조 제2항, 제11A조) |
+| 자격 | 말레이시아 국민 중에서(제5조 제3항) |
+| 임기 | 3년(제5조 제4항) |
+| 재임명 | 단 한 번, 추가 3년(제5조 제4항) |
+| 위원장 | 양 디페르투안 아공이 지정(제6조) |
+| 부위원장 | 위원회 위원들이 스스로 선출(제6조) |
+
+그 법은 또한 양 디페르투안 아공이 제5조에 따라 임명된 위원 중에서 아동 관련 인권 사무를 다룰 아동 수석위원 1인과 아동 위원 2인을 지정하도록 규정합니다(제6A조 제1항). 이 제6A조 규정은 Act A1714(2024)의 개정으로 삽입되었습니다.
+
+그 법이 위원이 상근인지 비상근인지를 명시하지 아니한다는 점에 유의하여야 합니다. GANHRI에 대한 답변에서, SUHAKAM은 그 위원이 비상근으로 근무한다고 보고하였는데 — 이는 제도적 독립의 관점에서 논평을 끌어낸 특징이며 SUHAKAM 스스로 제5조 제1항에 대한 개정을 제안한 바 있습니다. 위원회의 모든 회의 정족수는 위원 수의 3분의 2입니다(제7조).
+
+## 그 공식 기능은 무엇인가?
+
+제4조 제1항은 위원회의 네 가지 핵심 기능을 열거합니다.
+
+- **증진 및 교육** — 인권에 관한 인식을 함양하고 교육을 제공.
+- **정부에 자문** — 입법과 행정 지시의 성안을 돕고 취해야 할 조치를 권고.
+- **조약 권고** — 인권 분야의 조약 및 국제 문서에의 가입이나 참여에 관하여 정부에 권고.
+- **진정 조사** — 제12조에 언급된 인권 침해에 관한 진정을 조사.
+
+제4조는 또한 권고를 하기 위하여 어떠한 **구금 장소**, 기관 및 그 밖의 장소에 대한 방문을 허용합니다. 그러한 방문은 정해진 절차가 준수된 경우 그 장소를 책임지는 사람이 거부할 수 없습니다.
+
+## 그 조사 권한은 어느 정도인가?
+
+바로 여기에서 SUHAKAM은 "이빨"을 가집니다. 제12조는 그것이 인권 침해 주장을 **직권으로**("on its own motion") 또는 피해자나 그 대리인의 진정에 따라 조사할 수 있게 합니다. 그것은 행위하기 위하여 진정을 기다릴 필요가 없습니다.
+
+심문을 수행할 때, 제14조는 다음의 권한을 부여합니다.
+
+- 서면이든 구두든 모든 증거를 취득·수령하고 어떤 사람이든 증인으로 신문;
+- 법원에서처럼 증거가 선서 또는 확약으로 제공되도록 요구;
+- 말레이시아에 거주하는 어떤 사람이든 출석하여 증언하거나 문서를 제출하도록 **소환(summon)**;
+- 증거법 1950에 따라서는 받아들여질 수 없을 수 있는 증거를 수령; 그리고
+- 일반 공중의 심문 참석을 허용하거나 불허(**공개 심문**의 근거).
+
+요컨대, SUHAKAM은 증거를 수집하고, 선서한 증인을 신문하며, 공개 청문을 개최할 수 있습니다 — 조사 심판소에 유사한 권한입니다.
+
+## 왜 그 판단은 구속력이 없는가?
+
+바로 여기에 그 한계가 있습니다. Act 597은 어디에서도 SUHAKAM의 판단에 법적 구속력을 부여하지 아니합니다. 두 규정이 이 상태를 명확히 합니다.
+
+**첫째, 심문 후에 무슨 일이 일어나는가.** 제13조는 두 가지 결과를 구별합니다. 심문이 침해를 드러내지 **아니한** 경우, 위원회는 그 판단을 기록하고 진정인에게 알립니다(제13조 제1항). 심문이 침해를 **드러낸** 경우, 위원회는 "적절한 때에 그 사안을 필요한 권고와 함께 관련 당국이나 사람에게 회부할" 권한을 가집니다(제13조 제2항). 그 당국은 이후 취해진 어떠한 조치든 SUHAKAM에 알려야 합니다(제13조 제3항) — 그러나 그 법은 그들이 그 권고를 받아들이도록 의무화하지 아니합니다. 핵심어는 명령이 아니라 *권고*(recommendation)입니다.
+
+**둘째, 법원과의 경계.** 제12조 제2항은 SUHAKAM이 다음의 어떠한 진정도 조사하는 것을 금지합니다.
+
+- 상소를 포함하여 어느 법원에서 계속 중인 절차의 대상이 되는 것; 또는
+- 어느 법원에 의해 종국적으로 판단된 것.
+
+더 나아가, 조사 중인 사안이 이후 법원 절차의 대상이 되면, SUHAKAM은 "즉시 조사를 중단하여야" 합니다(제12조 제3항). 다시 말해, 사법부는 둘 다 같은 사안에 관련될 때 언제나 SUHAKAM을 능가합니다.
+
+## SUHAKAM의 작업은 어떻게 대중에게 이르는가?
+
+주된 책임 경로는 법원이 아니라 **국회**입니다. 제21조는 SUHAKAM이 그 모든 활동을 포괄하는 연차 보고서를 "다음 해 국회의 첫 회의보다 늦지 아니하게" 국회에 제출하도록 의무화합니다. 그 보고서는 그것에 회부된 모든 사안, 취해진 조치, 그리고 각 사안에 대한 위원회의 권고 목록을 포함하여야 합니다(제21조 제2항). 위원회는 또한 필요하다고 판단하면 특별 보고서를 제출할 수 있습니다(제21조 제3항).
+
+실무에서, 이 보고서의 제출은 지연된 적이 있습니다. SUHAKAM은 그 언론 성명을 통해, 2021년 및 2022년 연차 보고서가 2024년 6월 27일과 7월 1일·2일에 하원(Dewan Rakyat)에서 제출·토의되어, 그 회기에 세 개의 보고서(2020년·2021년·2022년)가 성공적으로 제출·토의되었음을 확인하였습니다.
+
+국제적 관점에서, SUHAKAM은 최고 등급의 국가인권기구로 인정됩니다. 국가인권기구 세계연맹(GANHRI) 산하 인정소위원회(SCA)는 2021년 6월 보고서에서 SUHAKAM이 **"A" 등급**으로 재인정되도록 권고하였는데 — 이는 파리 원칙에 대한 상당한 준수를 나타내는 등급입니다.
+
+## 다음 단계
+
+- **진정하고자 하십니까?** 여러분의 사안이 법원에서 계속 중이거나 이미 판단되었는지 먼저 확인하십시오 — 그렇다면 제12조 제2항이 SUHAKAM이 이를 다루는 것을 막습니다.
+- **가능한 결과를 이해하십시오.** SUHAKAM의 판단은 당국에 회부되는 권고입니다; 그것은 법원 명령이 아니며 법적 조치를 대체하지 아니합니다.
+- **원문을 읽으십시오.** Act 597의 전체 규정(개정 포함)은 SUHAKAM의 사이트에 있는 공식 본문에서 참조할 수 있습니다.
+- SUHAKAM을 능가하는 사법 구조에 관한 더 넓은 맥락을 위해서는, 말레이시아의 민사 법원과 샤리아 법원에 관한 관련 문서를 참조하십시오.

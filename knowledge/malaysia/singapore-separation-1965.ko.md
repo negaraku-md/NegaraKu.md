@@ -1,0 +1,160 @@
+---
+topicId: MY-HIS-0015
+title: "싱가포르는 어떻게 말레이시아를 떠났는가: 분리 문서가 실제로 말하는 것"
+slug: "singapore-separation-1965"
+category: "malaysia"
+subcategory: ["nation-formation"]
+summary: "싱가포르(Singapore)가 말레이시아(Malaysia)에서 이탈한 일은 세 건의 문서 — 1965년 8월 7일에 서명된 양자 협정, 126 대 0으로 가결된 헌법 개정, 그리고 선언 — 를 통해 이루어졌으며, 이 모두가 한 주말 사이에 발효되었습니다. 문서들이 무엇을 말하는지, 각 정부의 서술이 무엇을 강조하는지, 그리고 주권이 법적으로 어떻게 이전되었는지를 다룹니다."
+tier: "S"
+mode: "narrative"
+contentType: "guide"
+sensitivity: "race"
+answer: "싱가포르는 1965년 8월 9일 싱가포르 독립협정(Independence of Singapore Agreement 1965)에 따라 말레이시아에서 분리되었으며, 이 협정은 1965년 8월 7일 쿠알라룸푸르(Kuala Lumpur)에서 말레이시아 각료 5명과 싱가포르 각료 10명에 의해 서명되었습니다. 이후 말레이시아 의회는 헌법 및 말레이시아(싱가포르 개정)법(Constitution and Malaysia (Singapore Amendment) Act 1965)을 — 하원(Dewan Rakyat)에서 126 대 0으로, 긴급 처리 증명서에 따라 양원을 거쳐, 같은 날 국왕의 재가를 받아 — 통과시켜 싱가포르에 대한 말레이시아의 주권을 포기하였습니다. 두 정부 모두 그것이 왜 일어났는지에 관한 문서화된 서술을 남겼으며, 그 서술들은 서로 다른 점을 강조합니다."
+keyTakeaways:
+  - "The separation agreement was signed on 7 August 1965 and took effect on 9 August 1965, the date the agreement itself defines as 'Singapore Day'"
+  - "Its formal citation is the Independence of Singapore Agreement, 1965; Singapore registered it with the United Nations on 1 June 1966 as treaty No. 8206"
+  - "The Constitution and Malaysia (Singapore Amendment) Act 1965 passed the Dewan Rakyat 126–0 and cleared both Houses under a certificate of urgency on 9 August 1965"
+  - "On Singapore Day, Singapore's two Senators and fifteen MPs left the Malaysian Parliament and Singapore citizens ceased to be citizens of Malaysia"
+  - "The agreement obliged both sides to future defence and economic cooperation, and both governments guaranteed the 1961 and 1962 Johor water agreements"
+appliesTo: "Readers who want to know what the 1965 separation instruments actually provide, how the constitutional mechanics worked on both sides of the Causeway, and what each government's documented account says — stated without endorsing either."
+
+faq:
+  - q: "Was Singapore expelled, or did it agree to leave?"
+    a: "The legal instrument is bilateral: the Independence of Singapore Agreement 1965 was signed by both governments and records that 'it has been agreed by the parties hereto' that Singapore would separate. Accounts by participants on both sides describe negotiations conducted in secrecy among a small circle of ministers, with the initiative documented as coming from the Malaysian side. Malaysian accounts emphasise an unworkable political relationship; Singaporean accounts emphasise reluctance and anguish at the outcome. Both characterisations sit alongside the same signed text."
+  - q: "When exactly did Singapore leave Malaysia?"
+    a: "The agreement was signed on Saturday, 7 August 1965 in Kuala Lumpur. Separation took legal effect on Monday, 9 August 1965 — defined in the agreement as 'Singapore Day' — the same day the Malaysian Parliament passed the constitutional amendment and both governments issued proclamations."
+  - q: "What happened to Singaporeans' Malaysian citizenship?"
+    a: "Section 12 of the constitutional amendment annexed to the agreement provided that a citizen of Singapore would cease to be a citizen of Malaysia on Singapore Day. The change was automatic and immediate."
+  - q: "Did the separation end all legal ties?"
+    a: "No. The agreement committed both parties to a future treaty on external defence with a joint defence council, to economic cooperation, and to mutual state-to-state guarantees of the water agreements of 1 September 1961 and 29 September 1962 between the City Council of Singapore and the Government of the State of Johor. Appeals from Singapore's High Court also continued to lie to Malaysia's Federal Court as a temporary arrangement until Singapore legislated otherwise."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-24
+sources:
+  - title: "Agreement relating to the separation of Singapore from Malaysia as an independent and sovereign State (Independence of Singapore Agreement, 1965), UNTS Vol. 563, No. 8206"
+    url: "https://treaties.un.org/doc/Publication/UNTS/Volume%20563/volume-563-I-8206-English.pdf"
+    publisher: "United Nations Treaty Series"
+    date: "1966"
+  - title: "Singapore separates from Malaysia and becomes independent"
+    url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=dc1efe7a-8159-40b2-9244-cdb078755013"
+    publisher: "National Library Board, Singapore"
+  - title: "Singapore's separation from Malaysia"
+    url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=9641f35d-3ae5-41d8-9fa6-7ca8b845ea53"
+    publisher: "National Library Board, Singapore"
+  - title: "Proclamation of Singapore, 1965"
+    url: "https://corporate.nas.gov.sg/media/collections-and-research/proclamationofsingapore/"
+    publisher: "National Archives of Singapore"
+  - title: "Republic of Singapore Independence Act 1965"
+    url: "https://sso.agc.gov.sg/Act/RSIA1965"
+    publisher: "Singapore Statutes Online, Attorney-General's Chambers of Singapore"
+  - title: "Communal riots of 1964"
+    url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=3cb72867-1eec-4caa-96b2-365e1301cbb1"
+    publisher: "National Library Board, Singapore"
+  - title: "Malaysian Solidarity Convention is formed"
+    url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=86267d39-af24-45be-a49d-3c7e2906d61d"
+    publisher: "National Library Board, Singapore"
+entity: "Separation of Singapore from Malaysia"
+relations:
+  - { rel: "part-of", to: "malaysia" }
+  - { rel: "related-to", to: "formation-of-malaysia-1963" }
+  - { rel: "related-to", to: "ma63" }
+  - { rel: "related-to", to: "independence-1957" }
+related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
+keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
+---
+
+한 나라가 창립 주(州) 하나를 단 한 주말 사이에 잃었습니다. 협정은 토요일에 서명되었고, 헌법 개정은 월요일에 통과되었으며, 바로 그 월요일 오전 10시에는 라디오 싱가푸라(Radio Singapura)를 통해 독립 선언문이 낭독되고 있었습니다. 분열하는 대부분의 연방은 느리고 요란하게 그리합니다. 이 연방은 — 법적 의미에서 — 약 48시간 만에, 비밀리에 작성되어 열다섯 명의 각료가 서명한 문서들에 의해 해체되었습니다.
+
+문제의 영토는 2년이 채 되지 않는 기간 동안 말레이시아 안에 있었습니다. [1963년 9월 16일에 형성된 연방](/ko/malaysia/formation-of-malaysia-1963)에는 네 개의 새롭거나 창립적인 구성체 — 말라야(Malaya), 사바(Sabah), 사라왁(Sarawak), 싱가포르 — 가 있었습니다. 1965년 8월 9일, 그것은 셋이 되었습니다.
+
+## 23개월의 마찰
+
+1963-1965년 쿠알라룸푸르와 싱가포르 사이의 분쟁은 문서로 기록된 세 갈래를 따라 전개되었습니다.
+
+**정치적 경쟁.** 싱가포르의 집권당인 인민행동당(People's Action Party, PAP)과 쿠알라룸푸르의 [동맹당(Alliance)](/malaysia/the-alliance) 정부는 서로 상대의 정치적 기반을 두고 다투었으며, 이 다툼은 정치의 근간 자체에 관한 논쟁으로 굳어졌습니다. 1965년 5월, PAP는 다른 다섯 개 정당을 이끌고 말레이시아 연대회의(Malaysian Solidarity Convention)를 결성하였으며, 이는 1965년 5월 9일 스리 테마섹(Sri Temasek)에서 소집되었고 1965년 6월 6일 싱가포르 국립극장(National Theatre)에서 첫 공개 집회를 열었습니다. 그 공동 선언은 "말레이시안 말레이시아(Malaysian Malaysia)"라는 개념 — 선언의 표현을 빌리면 "어느 특정 공동체나 인종의 우위, 안녕, 이익으로 규정되지 않는" 국가 — 을 내세웠습니다. 이 운동은 쿠알라룸푸르의 지도자들에게 직접적인 도전으로 받아들여졌으며, 이를 둘러싼 공방은 분리의 가장 많이 인용되는 정치적 배경입니다.
+
+**공동체 간 폭력.** 1964년 싱가포르는 말레이인과 중국인 사이의 두 차례에 걸친 별개의 공동체 간 폭동을 겪었으며, 첫 번째 폭동은 1964년 7월 21일 무슬림 행렬 중에 발생하였습니다. 각 정부의 지지자들은 그 기저의 긴장을 상대편의 정치 탓으로 돌렸습니다. 폭동 자체와 그에 따른 통행금지 및 사상자는 기록된 사실이며, 이는 정치적 분쟁의 열기를 공공 안전의 문제로 만들었습니다.
+
+**경제.** 합병의 경제적 약속 — [말레이시아 협정 1963(Malaysia Agreement 1963)](/ko/malaysia/ma63)에 첨부된 공동시장 체계를 포함하여 — 은 싱가포르 정부가 원한 것보다 더 느리고 더 논쟁적으로 이행되었으며, 반대 방향으로는 싱가포르에 대한 연방의 재정 요구가 계속되는 분쟁이었습니다. 분리 협정은 이후 이 역사를 직접 다루게 됩니다. 그 제7조는 두 정부의 경제 체계를 담고 있던 부속서인, 1963년 7월 9일 말레이시아 협정의 부속서 J와 K를 명시적으로 폐지하였습니다.
+
+## 하나의 결정에 대한 두 가지 서술
+
+그다음에 일어난 일은 양측 모두로부터 기록되어 있으며, 두 서술은 서로 다른 점을 강조합니다. 어느 한쪽을 지지하지 않고 양측을 모두 진술하는 것이 이를 전하는 정직한 방식입니다.
+
+당대의 기록과 툰쿠 본인의 후일 회고에 기록된 바에 따른 말레이시아 측 서술은, 툰쿠 압둘 라만(Tunku Abdul Rahman) 총리가 — 1965년 6월 런던(London)에 있는 동안 — 정치적 관계가 회복 불가능할 정도로 무너졌으며, 연방에서 싱가포르를 분리하는 것이 갈등의 악화를 막을 남은 길이라고 결론 내렸다는 것입니다. 이 서술에 따르면, 분리는 두 영토의 안정을 위해 마지못해 내린 결정이었습니다.
+
+싱가포르 측 서술은 이를 협상한 소수 집단의 회고에 근거합니다. 1965년 7월 중순, 법무장관 E. W. 바커(E. W. Barker)는 리콴유(Lee Kuan Yew) 총리로부터 필요한 문서들을 작성하는 임무를 받았으며, 그는 세 건 — 분리 협정, 말레이시아 헌법 개정, 그리고 독립 선언문 — 을 작성하면서 다른 선례들 가운데 서인도 연방(West Indies Federation)의 해체를 연구하였습니다. 이를 아는 사람의 수는 싱가포르 측에서 최소한으로 유지되었습니다. 싱가포르 국립문서보관소(National Archives of Singapore)의 서술에 따르면, 총리, 재무장관 고켕스위(Goh Keng Swee), 공무원 수장, 특수부(Special Branch) 수장, 그리고 내각 사무처장이 그들이었습니다. 1965년 8월 9일 리콴유가 눈물을 흘린 텔레비전 기자회견은 싱가포르 측 서술을 상징하는 장면입니다. 추구된 것이 아니라 받아들여진 결과였다는 것입니다.
+
+서명된 협정 자체는 양자적 틀을 지닙니다. 그 전문(前文)은 새로운 체계가 마련되어야 한다는 데 "본 당사자들이 합의하였다"고 기록하는데 — 이는 어느 쪽의 후일 서사에도 속하지 않으면서, 동시에 양쪽 모두에 속하는 말입니다.
+
+## 협정이 말하는 것
+
+싱가포르 독립협정 1965(Independence of Singapore Agreement, 1965) — 이것이 협정 제1조에 따른 공식 명칭입니다 — 은 1965년 8월 7일 쿠알라룸푸르에서 서명되었습니다. 말레이시아 측에서는 툰쿠 압둘 라만과 툰 압둘 라작(Tun Abdul Razak) 부총리를 필두로 각료 다섯 명이 서명하였고, 싱가포르 측에서는 리콴유를 필두로 열 명이 서명하였습니다. 싱가포르는 1966년 6월 1일 이를 국제연합(United Nations)에 등록하였으며, 그곳 조약집에 제8206호로 수록되어 있습니다.
+
+협정의 여덟 개 조항은 전부 요약할 수 있을 만큼 짧습니다:
+
+| 조항 | 규정 내용 |
+|---|---|
+| I | 명칭: 싱가포르 독립협정 1965 |
+| II | 싱가포르는 1965년 8월 9일("싱가포르 데이")에 말레이시아의 주(州)임을 그치고 독립 주권국이 되며, 말레이시아가 이를 그렇게 인정함 |
+| III | 말레이시아는 싱가포르의 독립을 선언하는 선언문(부속서 A)을 발표함 |
+| IV | 말레이시아는 싱가포르에 대한 주권과 관할권을 포기하는 헌법 개정(부속서 B)을 제정함 |
+| V | 양 당사자는 공동방위위원회를 두고 말레이시아의 싱가포르 내 기지 계속 사용을 포함하는 대외방위 및 상호원조 조약을 체결함 |
+| VI | 양 당사자는 경제 문제에서 협력하며 공동위원회나 협의체를 설치할 수 있음 |
+| VII | 1963년 7월 9일 말레이시아 협정의 부속서 J와 K를 폐지함 |
+| VIII | 싱가포르는 말레이시아가 보증한 협정들을 재협상하고, 그 보증에 따른 채무에 대해 말레이시아에 배상함 |
+
+두 개의 부속서가 헌법상의 작업을 수행하였습니다. 부속서 A는 선언문이고, 부속서 B는 말레이시아 의회가 통과시키기로 한 개정법의 본문이었습니다.
+
+## 헌법상의 절차
+
+당시 말레이시아 연방헌법은 연방에 가입하는 주에 대해서는 규정하고 있었으나 — 탈퇴하는 주에 대해서는 그렇지 않았습니다. 따라서 탈퇴는 입법으로 처리되어야 했습니다. 1965년 8월 9일 월요일, 헌법 및 말레이시아(싱가포르 개정)법안이 하원(Dewan Rakyat)에 상정되어 126 대 0으로 가결되었고, 긴급 처리 증명서에 따라 양원을 통과하였으며, 같은 날 국왕의 재가를 받았습니다. 같은 날 아침, 툰쿠 압둘 라만은 — 선언문의 표현으로 "국왕 양 디페르투안 아공 폐하의 동의와 재가"를 얻어 — 싱가포르가 말레이시아의 주임을 그쳤음을 선포하였습니다. 싱가포르에서는 오전 10시 라디오 싱가푸라를 통해 독립 선언이 발표되었습니다.
+
+협정의 부속서 B로 그 본문이 미리 확정된 이 법은, 싱가포르 데이에 발효되는 일련의 정밀한 단계로 주권을 이전하였습니다:
+
+- **주권과 원수직.** 양 디페르투안 아공은 싱가포르의 최고 원수임을 그쳤으며, 싱가포르에 대한 그의 주권, 관할권, 권한은 싱가포르의 국가원수인 양 디페르투안 느가라(Yang di-Pertuan Negara)에게 귀속되었습니다.
+- **입법권.** 싱가포르에 대해 법을 제정하는 말레이시아 의회의 권한은 소멸하여 싱가포르 정부로 이전되었고, 싱가포르 정부는 기존의 행정권과 입법권을 유지하였습니다.
+- **대표.** 싱가포르의 상원의원 2명과 국회의원 15명은 말레이시아 상원과 하원의 의원임을 그쳤습니다.
+- **시민권.** 싱가포르 시민은 싱가포르 데이에 말레이시아 시민임을 그쳤습니다.
+- **법의 연속성.** 싱가포르에서 시행 중이던 모든 법은 싱가포르 입법부에 의한 개정이나 폐지를 조건으로 계속 효력을 유지하였으며 — 임시 조치로서, 싱가포르 고등법원(High Court)의 상소는 계속 말레이시아 연방법원(Federal Court)으로, 그다음 추밀원(Privy Council)으로 제기되었습니다.
+- **재산과 인력.** 말레이시아 데이에 연방정부로 넘어갔던 재산과 채무는 싱가포르로 되돌아갔으며, 연방 공무원이 되었던 관리들 — 군, 경찰, 사법부를 포함하여 — 은 다시 싱가포르 정부 관리가 되었습니다.
+- **조약.** 싱가포르에 적용되던 국제 협정들은 싱가포르와 해당 국가들 간의 협정이 되는 것으로 간주되었으며, 1957년 10월 12일 영국-말라야 대외방위 협정이 특별히 지목되어 싱가포르가 영국(United Kingdom)에 기지의 계속 사용을 제공하였습니다.
+- **물.** 싱가포르는 자국의 공공사업청(Public Utilities Board)이 조호르(Johor) 주와 맺은 1961년 9월 1일 및 1962년 9월 29일 물 협정을 준수할 것을 보증하였고, 그 대가로 말레이시아는 조호르의 이행을 보증하였습니다 — 이는 수십 년 후 양국 간 물 논의에서 여전히 인용되는 상호 보증입니다.
+
+싱가포르 측에서는 법적 정비가 몇 달 후에 이루어졌습니다. 1965년 12월 법안으로 발의된 싱가포르공화국 독립법(Republic of Singapore Independence Act 1965)은 1965년 8월 9일에 시행된 것으로 간주되어 — 이전된 권한을 소급하여 귀속시키고 말레이시아 헌법 체계의 일부를 싱가포르 자체 체계로 이어받았습니다.
+
+## 흔한 오해
+
+- **"협정은 8월 9일에 서명되었다."** 협정은 1965년 8월 7일에 서명되었습니다. 8월 9일은 협정이 발효된 날 — 본문에서 "싱가포르 데이" — 이자 선언문과 헌법 개정의 날짜입니다.
+- **"싱가포르는 일방적으로 독립을 선언했다."** 그 법적 문서들은 양자적이고 상호 인정되었습니다. 서명된 협정, 말레이시아 의회의 법률, 그리고 양자에 따라 발표된 선언문이 그것입니다.
+- **"분리는 모든 연결을 끊었다."** 협정 자체가 당사자들에게 향후 방위 및 경제 협력을 의무화하였고 조호르 물 협정에 대한 상호 보증을 확정하였습니다.
+- **"126 대 0 표결은 이견이 없었음을 보여준다."** 이 표결은 그날 긴급 처리 증명서에 따라 의회가 눈앞의 법안을 어떻게 처리했는지를 기록할 뿐입니다. 그에 앞선 이견들은 양측 모두에서 별도로 기록되어 있습니다.
+- **"말레이시아 헌법에는 탈퇴 절차가 있었다."** 그렇지 않았으며, 그렇기에 개정법이 (협정의 부속서 B로서) 작성되어 신속히 통과되어야 했습니다. 헌법은 가입을 상정하였을 뿐 탈퇴는 상정하지 않았습니다.
+
+## 다음 읽을거리
+
+- 애초에 네 영토의 연방이 어떻게 구성되었는지, 그리고 그 형성이 왜 세 방향에서 논쟁의 대상이 되었는지는 [말레이시아의 형성](/ko/malaysia/formation-of-malaysia-1963)에서 확인하십시오.
+- 1965년에 폐지된 경제 부속서들은 오늘날에도 연방 정치를 형성하는 더 큰 조약 구조의 일부였습니다. [말레이시아 협정 1963이 실제로 말하는 것](/ko/malaysia/ma63)을 참고하십시오.
+- 1965년 문서들이 조용히 차용한 그 이전의 헌법적 순간에 대해서는 [말라야의 독립](/ko/malaysia/independence-1957)을 참고하십시오.
+
+---
+
+*이 글은 NegaraKu.md의 편집 정책상 민감(3R: 인종) 등급으로 분류됩니다. 1963-1965년의
+사건들이 서로 다른 국가적 서사의 대상으로 남아 있는 공동체 정치를 포함하기
+때문입니다. 이 글은 어느 한쪽을 지지하지 않고 각 정부의 문서화된 서술을 진술하며
+엄격하게 서술적으로 작성되었고, 발행 전 사람의 승인을 기다리며 초안 상태로
+보류되어 있습니다.*

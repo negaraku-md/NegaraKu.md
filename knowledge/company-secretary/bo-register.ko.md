@@ -1,0 +1,274 @@
+---
+topicId: MY-CS-0006
+title: "실질소유자 등록부 유지하기 (s.60B)"
+slug: "bo-register"
+category: "company-secretary"
+subcategory: ["beneficial-ownership"]
+summary: "말레이시아의 모든 회사가 등록사무소에 보관해야 하는 내부 등록부 — 무엇을 기재하는지, 기재 기한은 언제인지, 기록을 얼마나 오래 보관하는지, 그리고 누가 열람할 수 있는지."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+
+answer: "회사법(Companies Act 2016) s.60B는 모든 회사가 실질소유자 등록부를 등록사무소, 또는 등록관에게 통지한 말레이시아 내 다른 장소에 보관하도록 요구합니다. 기재는 s.60C(4)에 따라 정보를 받은 날로부터 14일 이내에 이루어져야 하고, 증빙서류를 함께 보관해야 하며, 실질소유자의 지위를 상실한 사람의 기록은 7년간 보존해야 합니다. 이 등록부 유지 의무는 e-BOS 제출 의무와 별개입니다."
+keyTakeaways:
+  - "The register is kept at the registered office, or elsewhere in Malaysia if notified to SSM under s.47(2)"
+  - "Entries are due within 14 days of receiving the information — s.60C(4)"
+  - "The register must record the date the notice was issued as well as the particulars received"
+  - "Notices, replies and identity documents are kept with the register as supporting documents"
+  - "Records are retained for 7 years after a person ceases to be a beneficial owner — s.60B(5)"
+  - "The register is prima facie evidence of the matters entered in it — s.60B(8)"
+  - "Auditors have no right of access and are not required to report on it"
+appliesTo: "Company secretaries and directors responsible for the statutory registers of a Malaysian company."
+
+faq:
+  - q: "Can we keep the register of beneficial owners in the same file as the register of members?"
+    a: "They must both be available at the registered office, but the beneficial ownership framework treats the register of beneficial owners as its own record with its own supporting documents kept alongside it. Keeping them physically together is acceptable; merging them is not, because the register of members records legal ownership and the register of beneficial owners records ultimate ownership and control."
+  - q: "Is an electronic register acceptable?"
+    a: "Yes. SSM's Guidelines allow the beneficial ownership information and supporting documents to be kept in either physical or electronic form, in either Malay or English. The practical requirement is that a competent authority or law enforcement agency can access it in a timely manner when required."
+  - q: "What has to be kept besides the register itself?"
+    a: "The supporting documents on which identification and verification were based — certified copies of identity cards or passports, founding documents, agreements regulating the power to bind the company — together with every s.60C notice issued and every reply received, including the dates each was sent and received."
+  - q: "Our shareholder sold out last year. Can we delete their entry?"
+    a: "No. Section 60B(5) requires the company to retain the information of a person who has ceased to be a beneficial owner for seven years from the date of cessation. You record the cessation date; you do not remove the record."
+  - q: "Does the auditor get to inspect the register of beneficial owners?"
+    a: "No. SSM has confirmed that auditors are not required to state in their report any deficiency, failure or shortcoming in respect of the register of beneficial owners, and therefore do not need access to it for audit purposes."
+
+verificationNeeded:
+  - "Confirm whether the Minister has prescribed further persons or classes of persons with access to the register kept at the registered office under s.60B(9), beyond competent authorities, law enforcement agencies and the beneficial owner"
+
+obligations:
+  - what: "Record beneficial ownership information in the register of beneficial owners"
+    trigger: "change"
+    withinDays: 14
+    due: "Within 14 days from the date the information is received from the person given notice"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.60C(4)"
+    consequence: "Offence under s.60C(7); fine up to RM20,000 and RM500 a day for a continuing offence under s.60B(6)"
+  - what: "Keep the register of beneficial owners at the registered office"
+    trigger: "ongoing"
+    due: "At all times, or at another place in Malaysia notified to the Registrar"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.60B(2)"
+    consequence: "Fine up to RM20,000 and RM500 a day for a continuing offence"
+  - what: "Retain the records of a person who has ceased to be a beneficial owner"
+    trigger: "change"
+    due: "Seven years from the date the person ceases to be a beneficial owner"
+    authority: "SSM"
+    statute: "Companies Act 2016, s.60B(5)"
+    consequence: "Fine up to RM20,000 and RM500 a day for a continuing offence"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+sensitivity: "none"
+
+updated: 2026-07-20
+sources:
+  - title: "Companies (Amendment) Act 2024 [Act A1701]"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
+    publisher: "SSM"
+    date: "2024-02-02"
+  - title: "Guidelines for the Reporting Framework for Beneficial Ownership of Companies (Revised 10 January 2025)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guideline%20BO%20(Revised)%202025%20fair.pdf"
+    publisher: "SSM"
+    date: "2025-01-10"
+  - title: "FAQ — Beneficial Ownership Reporting Framework of Companies"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQs%20on%20BO%20(English).pdf"
+    publisher: "SSM"
+  - title: "Companies Act 2016 [Act 777]"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+
+entity: "Register of Beneficial Owners"
+relations:
+  - { rel: "part-of", to: "beneficial-ownership" }
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "administered-by", to: "ssm" }
+  - { rel: "compares-with", to: "ebos-filing" }
+  - { rel: "related-to", to: "statutory-registers" }
+related: ["beneficial-ownership", "ebos-filing", "who-is-a-beneficial-owner", "bo-non-cooperation", "statutory-registers"]
+keywords: ["register of beneficial owners Malaysia", "section 60B Companies Act", "BO register registered office", "beneficial ownership retention 7 years", "statutory register beneficial owner"]
+---
+
+말레이시아의 회사 비서에게 실질소유자 등록부(register of beneficial owners)를
+제시해 달라고 요청하면, 상당수가 e-BOS 제출 접수증을 내밀 것입니다. 그것은
+등록부가 아닙니다. 그것은 별개의 의무가 이행되었다는 증거일 뿐입니다.
+
+s.60B는 회사가 스스로, 자신의 사업장에서, 자신의 증빙 파일과 함께, 자신의
+기한에 따라 유지하는 기록을 만들어 냅니다. 말레이시아 기업위원회(SSM)는 그
+대부분을 결코 보지 못합니다. 관할 당국과 법 집행 기관이 그것을 보며, 그것도
+요청 즉시 봅니다.
+
+## 등록부가 보관되는 곳
+
+s.60B(2)는 실질소유자 등록부를 회사의 등록사무소, 또는 등록관에게 통지한
+말레이시아 내 다른 장소에 보관하도록 요구합니다. 회사가 다른 곳에 보관하는
+경우, 그 통지는 s.47(2)에 따라 이루어집니다.
+
+2024년 회사법 개정법(Companies (Amendment) Act 2024)은 또한 제68(3)(ib)항을
+신설했는데, 이는 등록부가 등록사무소가 아닌 곳에 보관되는 경우 연차보고서에
+그 보관 주소를 기재하도록 요구하게 됩니다.
+
+등록부는 물리적 형태 또는 전자적 형태로, 말레이어 또는 영어로 보관할 수
+있습니다. 어떤 형태를 선택하든, SSM이 적용하는 기준은 기능적입니다. 관할
+당국과 법 집행 기관이 필요할 때 **적시에** 접근할 수 있어야 하고, 회사는
+요청 시 사본을 제공할 수 있어야 합니다.
+
+## 등록부에 기재되는 내용
+
+s.60B(1)은 법정 최소 사항을 정합니다. 각 실질소유자에 대해 다음을 기재합니다.
+
+- 성명, 주소, 국적, 신원 확인 정보 및 통상적 거주지
+- 그 사람이 실질소유자가 된 날짜
+- 그 사람이 실질소유자의 지위를 상실한 날짜
+- 등록관이 요구할 수 있는 그 밖의 정보
+
+“신원 확인 정보(identification)”는 s.60B(10)에 정의되어 있습니다. 국민등록법
+(National Registration Act 1959)에 따라 발급된 신분증을 소지한 사람의 경우
+신분증 번호이고, 그렇지 않은 경우 여권 정보 또는 입수 가능한 유사한 증거입니다.
+
+등록관은 상당히 더 많은 것을 요구해 왔습니다. 지침(Guidelines)은 취득해야 할
+열세 가지 항목을 열거합니다.
+
+| | 항목 |
+| --- | --- |
+| 1 | 성명 |
+| 2 | 통상적 거주지 주소 |
+| 3 | 사업장 주소(있는 경우) |
+| 4 | 이메일 주소(있는 경우) |
+| 5 | 국적 |
+| 6 | 생년월일 |
+| 7 | 인종 |
+| 8 | 성별 |
+| 9 | NRIC 또는 여권 번호 |
+| 10 | 회사 내 직위(해당하는 경우) |
+| 11 | 실질소유자의 유형 및 기준 |
+| 12 | 실질소유자가 된 날짜 |
+| 13 | 실질소유자 지위 상실 날짜 |
+
+개인이 여섯 가지 기준 중 둘 이상에 해당하는 경우, 각 기준을 그 사람에 대해
+기재합니다.
+
+s.60C(4)는 간과하기 쉬운 요건을 추가합니다. 통지에 대한 응답으로 정보를 받은
+때, 회사는 정보를 요구하는 통지가 발행된 날짜 **및** 받은 항목을 **모두**
+기록합니다. 질문의 흔적 없이 답변만 기재된 등록부는 불완전합니다.
+
+회사가 실질소유자 대신 고위 경영진을 지정하는 경우, 보유 직위, 그 직위에
+임명된 날짜, 고위 경영진을 지정한 사유를 포함한 병렬적인 항목 세트가
+적용됩니다.
+
+## 14일의 기재 기한
+
+s.60C(4)는 기재가 **정보를 받은 날로부터 14일 이내에** 이루어지도록
+요구합니다.
+
+이는 이 체계에 있는 두 개의 기한 중 첫 번째이며, 외부에서 아무것도 촉발하지
+않기 때문에 놓치게 되는 기한입니다. 두 번째 기한 — s.60B(3) 및 (4)에 따라
+기재로부터 14일 이내에 등록관에게 제출하는 것 — 은
+[e-BOS를 통한 BO 정보 제출](/ko/company-secretary/ebos-filing)에서 다룹니다.
+
+| | 등록부 유지 의무 | 제출 의무 |
+| --- | --- | --- |
+| 조문 | s.60C(4), s.60B(1) | s.60B(3) 및 (4) |
+| 장소 | 회사의 등록사무소 | SSM, e-BOS를 통해 |
+| 기한 기산점 | 정보를 받은 날짜 | 기재가 기록된 날짜 |
+| 기한 | 14일 | 14일 |
+| 수수료 | 없음 | 없음, 다만 지연 제출 수수료가 적용됨 |
+
+첫 번째 없이 두 번째만 하는 것은 이 체계 전체에서 가장 흔한 준수 실패이며,
+누군가가 등록부를 보여 달라고 요청하기 전까지는 보이지 않습니다.
+
+## 증빙 파일
+
+등록부는 단독으로 존재하지 않습니다. 지침은 증빙서류를 등록부와 **함께**
+보관하도록 요구합니다 — 신원 확인 및 검증의 근거가 된 자료입니다. 여기에는
+국민 신분증 또는 여권의 인증 사본, 설립 문서, 회사를 구속할 권한을 규율하는
+계약서가 포함될 수 있습니다.
+
+s.60C에 따라 발행된 모든 통지와 받은 모든 응답은, 각각 발송된 날짜와 받은
+날짜를 기록하여 그 파일의 일부를 구성합니다. SSM의 입장은 명확합니다. 이
+문서들은 실질소유자를 식별하기 위한 합리적 조치가 취해졌다는 증거입니다.
+주주가 끝내 답하지 않았다면, 이 파일은 회사가 아무런 시도도 하지 않았다는
+주장으로부터 회사를 지켜 주는 유일한 것입니다.
+
+검증은 별개의 의무입니다. 회사는 성명을 기록하거나 항목 변경을 기록할 의무가
+발생하는 때 — 그리고 등록관이 지시하는 때 — 기록되는 자연인의 신원을
+검증하고, 그 사람이 실제로 실질소유자인지를 검증해야 합니다. 회사 비서는
+회사가 이미 검증을 수행한 경우가 아니라면, 기록 시점에서 동일한 검증 의무를
+부담합니다.
+
+## 보존: 상실 후 7년
+
+s.60B(5)는 회사가 실질소유자로 등록부에 기록되었으나 그 후 실질소유자의
+지위를 상실한 사람의 정보를 **그 사람이 지위를 상실한 날로부터 7년간**
+보존하도록 요구합니다.
+
+따라서 탈퇴에 대한 올바른 처리는 기재를 삭제하는 것이 아니라 상실 날짜를
+기록하는 것입니다. 증빙서류는 그것과 함께 남습니다.
+
+이는 실질소유자 파일을 s.245에 따른 회계기록의 7년 보존 기간과 맞춥니다 —
+두 기한이 서로 다른 촉발 사건으로부터 같은 기간 동안 진행되므로, 기록 정책을
+수립할 때 유용한 기준점이 됩니다.
+
+## 누가 열람할 수 있는가
+
+회사가 유지하는 등록부는 일반 공중에게 공개되지 않으며 구성원에게도 공개되지
+않습니다. 열람 권한은 다음에 속합니다.
+
+- 관할 당국 — 자금세탁방지, 테러자금조달방지 및 불법활동수익법
+  (Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful
+  Activities Act 2001) s.3에 따른 말레이시아 중앙은행(BNM)
+- 그 법 s.3에 정의된 법 집행 기관
+- 자신의 정보에 한하여, 이름이 기록된 실질소유자
+- 그 실질소유자가 권한을 부여한 사람
+
+s.60B(9)는 장관이 추가적인 사람, 접근의 방법과 조건, 그리고 정보 제공에 대한
+수수료를 규정할 수 있도록 합니다. e-BOS로 채워지는 등록관의 중앙 등록부는
+정부 조달을 수행하는 공공 기관을 포함하여 다소 더 넓은 접근 목록을 가집니다.
+
+감사인은 이 모든 것의 바깥에 있습니다. SSM은 감사인이 실질소유자 등록부의
+어떠한 미비 사항도 보고할 의무가 없으며 감사 목적으로 이에 접근할 필요가
+없음을 확인했습니다.
+
+등록부를 올바르게 유지할 때의 한 가지 결과가 있습니다. s.60B(8)은 등록부를
+그에 기재된 사항에 대한 **일응(一應)의 증거(prima facie evidence)**로
+만듭니다. 제대로 유지하면 소유권 분쟁에서 방어적 자산이 됩니다. 부실하게
+유지하면 회사에 불리한 증거가 됩니다.
+
+## 흔한 실수
+
+- **등록부가 아예 없는 경우** — e-BOS 제출을 기록으로 취급했기 때문입니다.
+- **답변은 기록하되 통지 날짜는 기록하지 않는 경우** — s.60C(4)(a)에
+  위반됩니다.
+- **이전 실질소유자를 삭제하는 경우** — 상실을 기록하고 7년간 보존하는 대신에
+  삭제하는 것입니다.
+- **등록부를 비서 사무실에 보관하면서** s.47(2) 통지를 제출하지 않는 경우.
+- **통지와 응답을 등록부와 별도로 보관하여**, 합리적 조치의 증거를 등록부와
+  함께 제시할 수 없는 경우.
+- 개인이 여러 기준에 해당하는데 **하나의 기준만 기록하는 경우.**
+- **감사인이나 구성원에게 요청에 따라 접근을 허용하는 경우** — 어느 쪽도 접근
+  권한이 없습니다.
+
+## 다음 단계
+
+등록부가 갖추어지면 제출 기한은 기계적인 일이 됩니다 —
+[e-BOS를 통한 BO 정보 제출](/ko/company-secretary/ebos-filing)을 참조하십시오.
+식별 분석이 아직 미해결 상태라면,
+[누가 실질소유자에 해당하는가](/ko/company-secretary/who-is-a-beneficial-owner)를
+통해 여섯 가지 기준을 검토하십시오.
+
+주주가 답하지 않아 등록부를 완성할 수 없는 경우, 구축해야 할 증거는
+[실질소유자가 응답하지 않을 때](/ko/company-secretary/bo-non-cooperation)에
+설명되어 있습니다.

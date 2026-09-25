@@ -1,0 +1,228 @@
+---
+topicId: MY-TAX-0046
+title: "말레이시아의 고용 계약 인지세"
+slug: "stamp-duty-employment-contracts"
+category: "taxation"
+subcategory: ["stamp-duty"]
+summary: "고용 계약은 별표 1 항목 4에 따라 RM10의 인지세를 부담합니다 — 누가 납부하는지, 2025년 이전 계약에 대한 면제, 그리고 2025년 12월 31일에 종료된 벌칙 면제 기간을 다룹니다."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "고용 계약은 인지세법 1949(Stamp Act 1949) 별표 1 항목 4에 따라 RM10의 인지세가 부과되는 증서로, 각 원본 사본마다 납부해야 합니다. 2025년 1월 1일 이전에 확정된 계약은 인지세 자체가 면제되었습니다. 2025년 중에 확정된 계약은 인지세는 여전히 부담했으나, 2025년 12월 31일까지 날인하면 지연 날인 벌칙이 면제되었습니다. 2026년 1월 1일부터는 인지세와 벌칙 모두 전액 적용됩니다."
+keyTakeaways:
+  - "Employment contracts attract RM10 under item 4, per original copy"
+  - "From 1 January 2026 contracts paying RM3,000 a month or less are exempt — the item 4 threshold rose from RM300"
+  - "Contracts finalised before 1 January 2025 were exempted from duty under s.80(1A), not merely from penalty"
+  - "Contracts finalised in 2025 were liable for duty, with only the penalty remitted, and only if stamped by 31 December 2025"
+  - "From 1 January 2026 there is no concession — full duty plus late-stamping penalty"
+  - "The employer normally pays, because the person who signs first bears the duty under s.33"
+  - "Every renewal is a separate instrument and must be stamped again"
+  - "An unstamped contract is inadmissible in evidence under s.52"
+appliesTo: "HR managers, business owners and company secretaries responsible for employment documentation and stamping compliance."
+
+faq:
+  - q: "Is an offer letter a dutiable employment contract?"
+    a: "It can be. LHDN's FAQ states that where the offer letter is the only document binding the employer-employee relationship, it is an employment contract instrument and is chargeable with duty. Each instrument is assessed on its contents rather than its title, so what matters is whether the document evidences a relationship of master and servant, not what it is called."
+  - q: "Do I need to stamp an intern's offer letter?"
+    a: "If it establishes an employer-employee relationship, yes. LHDN addresses this directly: where the offer letter for a trainee on a three to six month placement receiving only an allowance proves the existence of an employer-employee relationship, the instrument is chargeable with duty. The presence of an allowance rather than a salary does not by itself take it outside item 4."
+  - q: "Do I have to stamp a contract again when it is renewed?"
+    a: "Yes. LHDN's FAQ is explicit that every new employment contract agreement is treated as a separate instrument and must be stamped. Renewal does not extend the original stamping; it creates a fresh dutiable document with its own 30-day clock."
+  - q: "Who pays the RM10, the employer or the employee?"
+    a: "The employer, in practice. Under s.33 the person liable is the one specified in the Third Schedule, and for an employment contract that is the person who signs the instrument first. LHDN notes that the employer ordinarily signs the offer letter first and is therefore the party responsible for the duty."
+
+verificationNeeded:
+  - "LHDN's employment contract FAQ is dated 3 July 2025 and predates the Finance Act 2025 increase of the item 4 wage exemption to RM3,000 per month; LHDN has not reissued the FAQ to address how the raised threshold interacts with its stamping guidance, and that interaction should be confirmed before advising on contracts under RM3,000 a month"
+
+obligations:
+  - what: "Stamp an employment contract"
+    trigger: "change"
+    withinDays: 30
+    due: "within 30 days of signing in Malaysia, or 30 days after first receipt in Malaysia if signed abroad"
+    authority: "LHDN"
+    statute: "Stamp Act 1949, s.47 and First Schedule item 4"
+    consequence: "Penalty of RM50 or 10% of the deficient duty within 3 months, RM100 or 20% thereafter, under s.47A"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Soalan Lazim — Penyeteman Kontrak Penggajian Di Malaysia"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20250703-pkpe_faq-penyeteman-kontrak-penggajian-di-malaysia.pdf"
+    publisher: "LHDN"
+    date: "2025-07-03"
+  - title: "Media Release HASiL/2025/06/06 — 50, Stamp Duty Exemption for Employment Contracts Finalised Before 1 January 2025"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20250606_kenyataan-media-hasil_pengecualian-pengenaan-ds-untuk-kontrak-penggajian-yang-dimuktamadkan-sebelum-1-januari-2025.pdf"
+    publisher: "LHDN"
+    date: "2025-06-06"
+  - title: "Stamp Act 1949 (Act 378), text as at 1 January 2024"
+    url: "https://lom.agc.gov.my/act-detail.php?act=378"
+    publisher: "Attorney General's Chambers"
+  - title: "Finance Act 2025 (Act 874) — amendment of the First Schedule, item 4"
+    url: "https://lom.agc.gov.my/act-detail.php?act=874"
+    publisher: "Attorney General's Chambers"
+
+entity: "Stamp duty on employment contracts"
+relations:
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "governs", to: "stamp-act-1949" }
+  - { rel: "part-of", to: "stamp-duty-rates" }
+  - { rel: "affects", to: "employment-act-1955" }
+related: ["stamp-duty-rates", "stamp-duty-self-assessment", "employment-act-1955"]
+keywords: ["stamp duty employment contract Malaysia", "kontrak penggajian duti setem", "RM10 stamp duty offer letter", "STAMPS employment contract", "item 4 First Schedule"]
+---
+
+2025년 6월 LHDN은 고용주들이 대부분 한 번도 고려하지 않았던 사실을 알렸습니다.
+서류함에 있는 모든 고용 계약은 과세 대상 증서이며, 감사는 이미 시작되었다는
+것입니다. 뒤이은 완화 조치는 이제 만료되었고, 그것을 대체한 것은 일반적인 벌칙을
+동반한 일반적인 준수 의무입니다.
+
+## 무엇이 과세되며, 얼마인가
+
+LHDN의 입장은, 고용 계약이 고용주와 근로자 간의 관계를 창설하고, s.2상 증서이며,
+s.4(1)의 효력에 의해 별표 1에 따라 과세된다는 것입니다.
+
+세율은 계약의 **각 원본 사본**마다 **항목 4에 따라 RM10**입니다.
+
+부과는 제목이 아니라 내용을 따릅니다. LHDN은 고용 계약의 표지를 열거합니다. 특정된
+고용주와 근로자, 급여 또는 임금의 정기 지급, 고정된 근무 시간과 근무 장소, 고용주
+정책 준수, EPF 및 SOCSO 납입금과 연차 휴가 같은 혜택, 고용주의 지휘와 통제 하에
+수행되는 업무, 그리고 동의 없이 제3자를 위해 일하는 것에 대한 금지입니다.
+
+증서가 항목 4에 해당하지 **않는** 경우, LHDN은 이를 대신 **항목 22(1)(a)**에 따라
+과세되는 용역 계약으로 취급하며 — 이는 RM10이 아니라 종가세입니다. s.12에 따른
+사본은 원본이 적법하게 날인된 경우 RM10을 부담합니다.
+
+## 2026년부터 상황을 바꾸는 RM3,000 면제
+
+항목 4는 **용역 또는 개인 고용**을 위한 계약에 대한 자체 면제를 담고 있습니다. 2025년
+말까지 그 면제는 임금이 **월 RM300**을 초과하지 않는 경우에만 적용되었습니다 — 수십
+년 전에 설정된 기준으로, 사실상 모든 고용 계약이 과세될 만큼 낮았습니다.
+
+**재정법 2025(Finance Act 2025, Act 874)**는 **2026년 1월 1일**부터 RM300을 **월
+RM3,000**으로 대체했습니다.
+
+그 결과는 상당하며 거의 전혀 보도되지 않았습니다. 2026년 1월 1일부터, 월 임금 **RM3,000
+이하의 고용 계약은** 항목 4의 자체 면제에 따라 **인지세가 면제**됩니다. 노동력의 상당
+부분에 대해 RM10 부과가 아예 발생하지 않습니다.
+
+월 RM3,000을 초과하면 RM10이 계속 부과되며, 아래의 모든 내용이 적용됩니다.
+
+## 세 가지 기간
+
+이 부분이 널리 잘못 전해집니다. 두 가지 서로 다른 감면이 부여되었는데 그중 하나만이
+인지세 면제였기 때문입니다.
+
+| 계약 확정 시점 | 인지세 | 지연 날인 벌칙 |
+| --- | --- | --- |
+| **2025년 1월 1일 이전** | 재무장관이 **s.80(1A)**에 따라 **면제** | **s.47A(2)**에 따라 면제 |
+| **2025년 1월 1일 ~ 12월 31일** | **부과** — 면제 없음 | 2025년 12월 31일 이전에 날인한 *경우에만* s.47A(2)에 따라 **면제** |
+| **2026년 1월 1일부터** | **부과** | **부과** — 벌칙이 일반적인 방식으로 적용 |
+
+가운데 행을 주의 깊게 보십시오. 2025년 중에 서명된 계약은 **인지세를 결코 면제받지
+못했습니다**. 벌칙만 면제되었고, 그것도 기간 내에 날인한 경우에만 그러했습니다. 그
+기간은 2025년 12월 31일에 종료되었습니다. 면제는 기간 중 STAMPS를 통해 자동으로
+적용되었으며, 지금은 이용할 수 없습니다.
+
+## 기한과 벌칙
+
+s.47에 따라 계약은 말레이시아에서 서명 후 **30일** 이내에, 또는 해외에서 서명한 경우
+말레이시아에서 처음 수령한 후 30일 이내에 날인해야 합니다. 부과되면 인지세는 **14일**
+이내에, 또는 징수관이 허용하는 기간 내에 납부해야 합니다.
+
+30일을 놓치면 s.47A가 적용됩니다:
+
+- 기한 후 3개월 이내에 날인하면 부족 인지세의 **RM50 또는 10%** 중 큰 금액;
+- 그 이후에는 **RM100 또는 20%** 중 큰 금액.
+
+RM10 인지세에서는 백분율 부분이 무의미합니다 — 벌칙은 정액 RM50 또는 RM100으로,
+인지세 자체의 5~10배입니다. 수백 명의 근로자에 걸치면 이 계산이 이 문제를 반올림
+오차가 아니라 실질적 사안으로 만듭니다.
+
+두 가지 추가 결과: **s.52**에 따라 적법하게 날인되지 않은 증서는 **증거로 채택되지
+않으며**, 이는 경업금지 약정(restrictive covenant)을 집행해야 하는 날에 중요합니다.
+그리고 **s.63**은 날인되지 않은 증서를 작성한 데 대한 벌금을 규정합니다.
+
+## 사람들이 잊는 문서
+
+- **갱신.** 모든 새 계약은 자체 날인이 필요한 별개의 증서입니다.
+- **부속서(addenda).** 양 당사자가 서명한 IT 사용 정책이나 혜택 설명서는 구속력 있는
+  계약이며 과세 대상입니다.
+- **학업 후원 제안.** 과세 대상이지만 **항목 22(4)**에 따릅니다.
+- **다른 언어로 된 계약.** 날인을 위해, 말레이어 또는 영어 이외의 언어로 된 계약은
+  공인 번역 서비스에 의해 동일 문서 내에서 한 줄씩 번역되어야 합니다.
+
+면제된 2025년 이전 계약을 배서(endorse)하는 데는 **수수료가 없습니다**. s.37(2A)에
+따라 RM10 배서 수수료는 인지세가 RM10을 초과하고 면제되는 경우에만 적용됩니다.
+
+## 실무상의 날인
+
+신청은 stamps.hasil.gov.my의 **STAMPS**를 통해 이루어집니다. 먼저 사용자 ID를
+등록하십시오. 회사 ID는 회사와 그 고객에 속한 계약에 대해 제출할 수 있는 반면, 개인
+ID는 개인 계약에 한정됩니다.
+
+STAMPS 안에서, 날인 범주로 *Penyeteman Am* — 일반 날인 — 을 선택하고, 계약이 서명된
+날짜를 입력한 다음, 업로드 전에 문서 제목으로 **Employment Contract**를 선택하십시오.
+제출이 성공하면 판정번호(adjudication number)가 발급되어 문서와 납부 모두의 참조가
+됩니다.
+
+부동산 이전 이외의 신청에 대해, LHDN은 주(州) 인지 사무소가 완전하고 정연한 신청을
+처리하여 **영업일 5~7일** 내에 부과 통지를 발급한다고 밝힙니다. 그다음 납부는 FPX로,
+또는 금액이 FPX 거래 한도를 초과하거나 은행에 FPX 서비스가 없거나 해외에서 납부하는
+경우 가상 계좌로 할 수 있습니다 — 가상 계좌 번호는 하나의 판정번호만 커버하며,
+확인에는 최소 영업일 3일이 걸립니다.
+
+그 5~7일 부과 통지 단계는 정식 부과 절차입니다. 고용 계약의 경우 이는 자진신고에 의해
+대체되었습니다. 계약이 1단계 내의 일반 날인 증서(아래 참조)이므로, **2026년 1월
+1일**부터 제출하는 신고서가 부과 자체를 발생시키며, LHDN이 통지를 발급하기를 기다릴
+필요가 없습니다.
+
+납부되면 시스템이 **인지 증명서**를 생성합니다. 그 증명서는 인쇄하여 원본 문서에
+첨부해야 합니다. LHDN은 증명서가 문서에 첨부되지 않으면 그 문서가 날인된 것으로
+취급되지 않는다고 명시합니다.
+
+대량으로 날인하는 고용주는 이를 계약 한 건씩 해서는 안 됩니다. LHDN은 HASiL 포털의
+피드백 양식을 통해 요청하는 **일괄 날인(bulk stamping)** 경로를 운영하며, 이는 일괄
+제출을 위한 사용자 설명서와 XML 사양을 제공합니다.
+
+## 흔한 실수
+
+- **2025년 기간을 인지세 면제로 읽는 것.** 벌칙만 면제되었을 뿐, RM10은 항상
+  부과되었습니다.
+- **완화 조치가 아직 유효하다고 가정하는 것.** 2025년 12월 31일에 종료되었습니다.
+- **계약은 날인하고 부속서는 날인하지 않는 것.** 각 구속력 있는 문서는 그 자체로
+  하나의 증서입니다.
+- **갱신 시 재날인하지 않는 것.** 갱신된 계약은 새로운 증서입니다.
+- **RM10을 근로자에게 부담시키는 것.** 첫 서명자가 부담하며, 이는 통상 고용주입니다.
+- **인턴과 단기 직원을 범위 밖으로 취급하는 것.** 고용주-근로자 관계가 존재하면 그
+  문서는 과세 대상입니다 — 다만 이제 2026년부터의 월 RM3,000 임금 면제의 적용을
+  받습니다.
+- **옛 RM300 면제 기준을 적용하는 것.** 2026년 1월 1일에 월 RM3,000이 되었습니다.
+
+## 다음 단계
+
+서명일별로, 그다음 급여별로 목록을 작성하십시오. 2025년 1월 1일 이전의 것은 인지세가
+면제되며, 증명서를 보관하고 싶다면 무료로 배서할 수 있습니다. 2025년 중에
+서명되었으나 아직 날인되지 않은 것은 면제 기간이 종료되었으므로 이제 인지세와 벌칙
+모두를 부담합니다. 2026년 1월 1일부터, 월 RM3,000을 초과하는 계약은 일상적으로 30일
+이내에 STAMPS를 거치며, RM3,000 이하의 것은 항목 4 면제에 해당합니다.
+
+고용 계약은 **일반 날인** 범주에 속하며, 이는 인지세 자진신고 제도의 1단계 안에
+있습니다 — 따라서 2026년 1월 1일부터 LHDN이 알려주기를 기다리는 대신 스스로 인지세를
+산정합니다.

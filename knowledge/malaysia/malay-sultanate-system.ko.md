@@ -1,0 +1,168 @@
+---
+topicId: MY-HIS-0052
+title: "술탄, 다울랏(Daulat), 고관(Pembesar): 말레이 술탄국은 어떻게 통치되었는가"
+slug: "malay-sultanate-system"
+category: "malaysia"
+subcategory: ["sultanates"]
+summary: "말레이 전통 통치 구조 — 다울랏(daulat)의 원천으로서의 술탄의 지위, 군주와 백성 사이의 충성의 맹약(와아닷, waadat), 사회를 규율한 관습(아닷, adat), 그리고 실제 행정을 담당한 다층의 고관(pembesar) 체계 — 와, 이 제도가 오늘날 헌법에서 어떻게 이어지는지를 다룹니다."
+tier: "S"
+mode: "narrative"
+contentType: "guide"
+sensitivity: "royalty"
+answer: "고전 말레이 술탄국에서 술탄은 주(州)의 수장이자 이슬람교의 수장이며 통합의 상징으로서 정점에 있었고, 그 지위는 다울랏(daulat, 군주의 권위)이라는 관념과 군주와 백성 사이의 상호적 충성의 맹약(와아닷, waadat)에 근거했습니다. 그러나 일상의 권력은 고관(pembesar)이 행사했는데 — 말라카 모델에서는 네 명의 주요 고관(븐다하라 Bendahara, 픙훌루 븐다하리 Penghulu Bendahari, 트믱궁 Temenggung, 락사마나 Laksamana)이 다층 체계(4중 구조: 4, 8, 16, 32)를 이끌었습니다 — 한편 관습(아닷, 대부분 아닷 트믱궁 Adat Temenggung, 또는 아닷 프르파티 Adat Perpatih)이 사회 관계와 법을 규율했습니다. 말레이 통치자 제도는 통치자 회의(Majlis Raja-Raja)와 양 디페르투안 아공을 통해 연방헌법에서 이어집니다."
+keyTakeaways:
+  - "Sultan ialah ketua negeri, ketua agama Islam dan lambang penyatuan; kedudukannya bersandar pada konsep daulat"
+  - "Waadat — perjanjian taat setia timbal balik antara raja dan rakyat — ialah asas hubungan yang menjadikan derhaka satu kesalahan berat"
+  - "Kuasa pentadbiran harian dipegang pembesar; dalam model Melaka, empat pembesar utama mengetuai Sistem Pembesar Empat Lipatan (4, 8, 16, 32)"
+  - "Adat — Adat Temenggung di kebanyakan negeri, Adat Perpatih di Negeri Sembilan — mengatur susunan sosial, warisan dan undang-undang"
+  - "Institusi kesultanan diteruskan dalam Perlembagaan menerusi sembilan Raja Melayu, Majlis Raja-Raja, dan Yang di-Pertuan Agong"
+appliesTo: "Sesiapa yang ingin memahami struktur dan peranan institusi kesultanan Melayu tradisional dan bagaimana ia bersambung dengan sistem raja berperlembagaan hari ini."
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "stale"
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+updated: 2026-07-24
+sources:
+  - title: "Peranan dan Fungsi Majlis Raja-Raja"
+    url: "https://www.majlisraja-raja.gov.my/ms/peranan-majlis-raja-raja"
+    publisher: "Majlis Raja-Raja Malaysia"
+  - title: "Maklumat Majlis Raja-Raja"
+    url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
+    publisher: "Majlis Raja-Raja Malaysia"
+  - title: "Perkara 38 & Jadual Kelima, Perlembagaan Persekutuan"
+    url: "https://lom.agc.gov.my/"
+    publisher: "Pejabat Peguam Negara (AGC)"
+  - title: "Sejarah Melayu (Sulalatus Salatin)"
+    publisher: "Arkib Negara Malaysia"
+  - title: "Arkib Negara Malaysia"
+    url: "https://www.arkib.gov.my/"
+    publisher: "Arkib Negara Malaysia"
+  - title: "Jabatan Muzium Malaysia"
+    url: "https://www.jmm.gov.my/"
+    publisher: "Jabatan Muzium Malaysia"
+entity: "Sistem Kesultanan Melayu"
+relations:
+  - { rel: "part-of", to: "malaysia" }
+  - { rel: "related-to", to: "melaka-sultanate" }
+  - { rel: "related-to", to: "langkasuka" }
+  - { rel: "related-to", to: "srivijaya" }
+related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
+keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
+---
+
+서류도, 양식도, 번호가 붙은 부서도 없는 한 나라를 상상해 보십시오. 명령은 말로 전해지고, 정의는 궁정의 알현실에서 내려지며, 사회 전체의 질서가 현대어로 정확히 옮길 수 없는 한 단어에 달려 있습니다. 바로 *다울랏(daulat)*입니다. 그것이 말레이 술탄국의 세계였습니다. 수 세기 동안 해안과 강을 따라 수천의 삶을 짜 맞춘 체계이자, 그 그림자가 오늘날 말레이시아 헌법에서도 여전히 보이는 체계입니다.
+
+이 글은 그 체계가 어떻게 작동했는지를 설명합니다. 술탄의 지위, 군주와 백성을 잇는 유대, 삶을 규율한 관습, 그리고 실제로 통치를 수행한 고관들의 대열입니다. 이는 역사와 구조에 관한 서술이지 정치적 평가가 아닙니다.
+
+## 정점에 선 술탄 — 그러나 그것은 무엇을 뜻하는가
+
+말레이 술탄국에서 술탄은 질서의 정점입니다. 그는 주의 수장이며, 전쟁과 외교의 수장이고, 말레이 세계에 이슬람이 전래된 뒤로는 자신의 주에서 이슬람교의 수장이었습니다. 그는 또한 통합의 상징이기도 했습니다. 여러 마을과 강, 부족을 하나의 왕국으로 묶는 구심점이었습니다.
+
+그러나 그 지위는 단순한 직책이 아니었습니다. 그것은 **다울랏(daulat)** — 신성하게 여겨진 군주의 권위와 권능 — 이라는 관념에 근거했습니다. 바로 이 다울랏이 군주를 여느 고관과 구별 지었으며, 의례에서 외치는 *"다울랏 투안쿠(Daulat Tuanku)"*는 그에 대한 인정이었습니다.
+
+《말레이 연대기(Sejarah Melayu, Sulalatus Salatin)》의 전통에서 다울랏은 조건 없는 절대 권력이 아니었습니다. 그것은 군주의 정의(正義)에 결부되어 있었습니다. 폭정을 일삼는 군주는 그 다울랏을 잃을 수 있다고 이해되었는데 — 이는 왕좌에 권리뿐 아니라 도덕적 책임을 지우는 관념이었습니다.
+
+## 와아닷: 양측을 묶는 맹약
+
+말레이 전통에서 군주와 백성 사이 관계의 토대는 **와아닷(waadat)** — 일방적이 아니라 상호적인 충성의 맹약 — 이었습니다.
+
+그 이야기는 《말레이 연대기》에, 드망 르바르 다운(Demang Lebar Daun)이 자신의 딸을 바치기 전에 상 사푸르바(Sang Sapurba)와 맺은 서약을 통해 새겨져 있습니다. 백성은 군주에게 반역하지 않겠다고 약속하고, 그 대가로 군주는 백성을 모욕하거나 학대하지 않겠다고 약속합니다. 양측이 모두 묶입니다.
+
+바로 이 맹약에서 고전 말레이 정치 질서의 근간이 되는 두 가지 개념이 생겨났습니다.
+
+- **충성(Taat setia)** — 약속을 지키는 군주에게 백성이 순종하고 충성할 의무.
+- **반역(Derhaka)** — 군주를 저버리거나 거스르는 행위로, 고전 말레이 가치 질서에서 가장 무거운 죄로 여겨졌습니다.
+
+이 둘은 단순한 규칙이 아니었습니다. 그것은 현대적 관료제가 없는 사회가 질서를 유지하는 방식이었습니다. 곧 방대한 행정을 통해서가 아니라, 모두가 이해하는 충성의 유대를 통해서였습니다.
+
+## 아닷: 성문 법전 이전의 법
+
+군주와 고관의 층위 아래에서, 말레이 사회의 일상은 **아닷(adat)** — 대대로 물려받은 규범과 법, 절차의 총체 — 에 의해 규율되었습니다. 아닷은 재산 상속, 혼인, 분쟁 해결 방식처럼 실용적인 문제를 정했습니다.
+
+반도에서는 두 가지 주요 아닷 체계가 발전했습니다.
+
+| 측면 | 아닷 트믱궁(Adat Temenggung) | 아닷 프르파티(Adat Perpatih) |
+| --- | --- | --- |
+| 주요 지역 | 대부분의 말레이 주 | 느그리슴빌란(그리고 말라카 일부) |
+| 권력 구조 | 군주/통치자 중심 | 가장 작은 단위에서 위로 올라감 |
+| 상속 | 대체로 부계 | 모계(matrilineal) |
+| 일반적 특징 | 더 중앙집권적 | 더 합의 중심적 |
+
+아닷 트믱궁은 통치자에게 권력이 집중되는 방식으로 사회를 구성했으며, 대부분의 술탄국에서 나타난 형태였습니다. 한편 미낭카바우(Minangkabau)에 뿌리를 둔 아닷 프르파티는 사회를 아래로부터 — 프룻(perut, 가족)에서 수쿠(suku, 씨족)로, 루악(luak, 지역)으로 — 구성하고, 재산과 칭호를 모계로 상속했습니다. 그래서 느그리슴빌란은 독자적인 구조를 지녀, 대부분의 다른 주처럼 직접 세습되는 것이 아니라 운당(Undang, 루악의 수장들)이 선출하는 **양 디페르투안 브사르(Yang di-Pertuan Besar)**라는 칭호의 군주를 둡니다.
+
+이슬람이 확산되면서 샤리아법이 아닷과 융합되었고, 후쿰 카눈 믈라카(Hukum Kanun Melaka) 같은 성문 법전이 그 일부를 텍스트의 형태로 모았습니다. 이 제도의 기원에 관해서는 [말라카 술탄국](/malaysia/melaka-sultanate)을 참고하십시오.
+
+## 고관: 실제로 다스린 것은 누구인가
+
+술탄은 정점에 있었지만, 일상의 통치 — 세금 징수, 치안 유지, 재판, 항구 관리 — 는 **고관(pembesar)**이 수행했습니다. 가장 체계적이고 가장 많이 참조되는 모델이 말라카 술탄국의 행정 체계입니다.
+
+말라카에서는 네 명의 주요 고관이 행정의 근간이 되었습니다.
+
+- **븐다하라(Bendahara)** — 술탄 다음가는 최고위 고관으로, 수석 행정관이자 최고 자문관, 군 통수권자이며, 필요할 때는 섭정 역할을 했습니다.
+- **픙훌루 븐다하리(Penghulu Bendahari)** — 국고와 주의 세입을 관리했습니다.
+- **트믱궁(Temenggung)** — 궁정의 경찰과 감옥을 관장하는 것을 포함해 주 내부의 치안과 안전을 지켰습니다.
+- **락사마나(Laksamana)** — 사령관이자 해군의 수장이었습니다.
+
+이 네 고관은 홀로 존재하지 않았습니다. 이들은 **4중 고관 체계(Sistem Pembesar Empat Lipatan)**로 알려진 다층 구조를 이끌었습니다. 곧 고관 4명 아래에 고관 8명이, 그다음 고관 16명, 고관 32명이 있었습니다. 각 층은 그 위층에 대해 책임을 졌으며, 궁정에서 지방과 마을 단위까지 잇는 하나의 행정 네트워크를 이루었습니다.
+
+이 구조가 중요한 까닭은 흔히 오해되는 한 가지를 설명하기 때문입니다. 말레이 술탄국에서 권력은 결코 한 사람에게만 집중되지 않았습니다. 그것은 각자의 소관 업무와 관할 영역, 자기 추종자를 거느린 고관들을 통해 분산되어 있었습니다. 말라카의 툰 페락(Tun Perak) 같은 영향력 있는 븐다하라는 한 왕국을 안정시키는 기둥이 될 수 있었습니다.
+
+## 특별한 한 직책: 샤반다르
+
+많은 말레이 술탄국이 항구 왕국이었기 때문에, 또 하나의 직책이 두드러집니다. **샤반다르(Syahbandar)** — 항무관(港務官)입니다. 말라카에는 여러 명의 샤반다르가 있어, 각각 특정 상인 공동체(예를 들어 구자라트 상인, 또는 중국과 동방 군도의 상인)를 관할했습니다.
+
+이 구조는 각 무역 공동체에 상대할 수 있는 관리와 예측 가능한 규칙을 마련해 주었는데, 이것이 말레이 항구가 아시아 전역의 상인을 끌어들일 수 있었던 한 이유입니다. 지리적 위치만이 아니라 행정이 한 항구를 번영하게 만들었습니다.
+
+## 이 모든 것이 어떻게 맞물리는가
+
+이를 종합하면, 고전 말레이 술탄국의 질서는 서로를 떠받치는 네 개의 층위로 이해할 수 있습니다.
+
+1. **술탄** — 다울랏의 원천, 주와 종교의 수장, 통합의 상징.
+2. **와아닷** — 군주와 백성을 묶는 상호적 충성의 유대.
+3. **고관** — 실제 행정을 수행한 다층의 대열.
+4. **아닷** — 일상을 규율한 법과 규범의 총체.
+
+이 층위 가운데 어느 것도 홀로 작동하지 않았습니다. 정의 없는 다울랏은 소멸할 수 있고, 술탄 없는 고관은 권위의 원천이 없으며, 아닷은 틀을 주지만 그것을 세우는 것은 군주와 고관이었습니다.
+
+## 옛 왕좌에서 입헌군주로
+
+이 제도는 식민 통치의 도래나 독립과 함께 사라지지 않았습니다. 그것은 현대 국가의 틀 속으로 흡수되었습니다.
+
+오늘날 말레이시아에는 아홉 개의 말레이 왕정 주가 있으며, 각자의 역사에 따라 칭호가 다릅니다.
+
+| 주 | 군주의 칭호 |
+| --- | --- |
+| 조호르, 케다, 켈란탄, 파항, 페락, 슬랑오르, 트렝가누 | 술탄 |
+| 느그리슴빌란 | 양 디페르투안 브사르 |
+| 페를리스 | 라자(Raja) |
+
+나머지 네 개 주 — 말라카, 페낭, 사바, 사라왁 — 는 군주가 없으며 **양 디페르투아 느그리(Yang di-Pertua Negeri)**가 수장을 맡습니다.
+
+이 아홉 명의 말레이 군주는 **통치자 회의(Majlis Raja-Raja)**를 구성하는데, 이는 **연방헌법 제38조**를 통해 설립된 기구로 그 기능과 임무는 **제5부칙(Jadual Kelima)**에 규정되어 있습니다. 그 공식 역할로는 제3부칙에 따라 **양 디페르투안 아공**과 부(副)양 디페르투안 아공을 선출하는 것, 통치자들의 특권을 건드리는 특정 법률에 동의하는 것, 그리고 특별법원(Mahkamah Khas)의 구성원을 임명하는 것 등이 있습니다. 모든 군주와 양 디페르투아 느그리가 구성원이 되지만, 양 디페르투안 아공 선출에는 오직 아홉 명의 말레이 군주만 참여합니다.
+
+이런 방식으로 말레이 술탄국의 핵심 요소 — 주와 종교의 수장으로서의 군주의 지위, 그리고 질서의 토대로서의 충성 — 는 헌법의 형태로 이어졌으며, 여기서 군주는 성문법의 테두리 안에서 다스립니다. 독립과 국가 형성의 맥락에 관해서는 [1957년 독립](/malaysia/independence-1957)을 참고하십시오.
+
+## 이 체계를 이해할 때 흔한 오해
+
+- **술탄이 홀로 다스렸다고 여기는 것.** 실제로는 일상의 권력이 언제나 다층의 고관을 통해 분산되어 있었습니다. 술탄은 질서의 정점이지 유일한 집행자가 아니었습니다.
+- **다울랏을 절대 권력과 혼동하는 것.** 《말레이 연대기》의 전통에서 다울랏은 군주의 정의와 와아닷에 결부되어 있었습니다. 그것은 양자 간의 맹약이지 조건 없는 권리가 아니었습니다.
+- **모든 말레이 주가 같다고 여기는 것.** 느그리슴빌란은 모계 구조와 운당이 선출하는 군주를 둔 아닷 프르파티를 따르는데, 이는 대부분의 다른 주에서 나타나는 아닷 트믱궁의 형태와 다릅니다.
+- **"술탄"을 모든 군주의 칭호와 동일시하는 것.** 페를리스는 라자(Raja)가, 느그리슴빌란은 양 디페르투안 브사르가 수장을 맡습니다. 칭호는 각 주의 역사를 반영합니다.
+
+## 다음으로 읽을 거리
+
+이 행정 모델이 어디에서 시작되었고 어떻게 이후 술탄국들의 준거가 되었는지는 [말라카 술탄국](/malaysia/melaka-sultanate)을 읽어 보십시오. 이슬람 술탄국 시대에 앞선 초기 말레이 왕국에 관해서는 [랑카수카](/malaysia/langkasuka)와 [스리비자야](/malaysia/srivijaya)를 참고하십시오.
+
+---
+
+*이 글은 그 주제가 말레이 술탄국 제도이기 때문에 NegaraKu.md의 편집 정책에 따라 민감 문서(3R+1: 왕실)로 분류됩니다. 이 글은 오로지 서술적이고 역사적으로 작성되었으며, 당대의 정치적 논평 없이, 발행 전 사람의 검토를 기다리며 초안으로 보관되어 있습니다.*

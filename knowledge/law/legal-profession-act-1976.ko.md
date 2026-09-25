@@ -1,0 +1,164 @@
+---
+topicId: MY-LAW-0082
+title: "법조전문직법 1976과 변호사회"
+seoTitle: "법조전문직법 1976: 변호사회 및 징계위원회"
+slug: "legal-profession-act-1976"
+category: "law"
+subcategory: ["profesion"]
+summary: "법조전문직법 1976(Legal Profession Act 1976)은 말레이반도의 법정변호사 및 사무변호사를 규제하며, 변호사회(Malaysian Bar)를 그 운영 기관인 변호사평의회(Bar Council)와 함께 설립하고, 변호사를 벌금·정직 또는 등록부에서 이름을 삭제할 권한을 가진 징계위원회를 둡니다."
+
+tier: "2"
+mode: "practical"
+contentType: "law"
+sensitivity: "none"
+
+answer: "법조전문직법 1976(Legal Profession Act 1976, Act 166)은 말레이반도의 법조전문직을 규율하는 단일 법률입니다. 그것은 법정변호사 및 사무변호사로 받아들여질 자격 요건을 정하고, 말레이시아 변호사회(Malaysian Bar)를 그 직역의 법정 기관으로 설립하며(제41조~제42조) 변호사평의회(Bar Council)를 그 운영 기관으로 두고(제47조), 변호사를 최대 5만 링깃(RM50,000)까지 벌금, 최대 5년까지 정직, 또는 등록부에서 이름 삭제할 수 있는 징계위원회를 둡니다(제93조). 사바(Sabah)와 사라왁(Sarawak)은 이 법 밖에 있으며 각각의 변호사 조례에 의해 규율됩니다."
+keyTakeaways:
+  - "Akta Profesion Guaman 1976 (Akta 166) terpakai hanya di Semenanjung Malaysia; Sabah dan Sarawak dikawal oleh Ordinan Peguam (Advocates Ordinance) 1953 masing-masing dan badan mereka sendiri."
+  - "Badan Peguam Malaysia (Malaysian Bar) ditubuhkan di bawah seksyen 41-42; Majlis Peguam (Bar Council), badan pentadbirnya, ditubuhkan di bawah seksyen 47."
+  - "Lembaga Tatatertib (Advocates & Solicitors Disciplinary Board) yang ditubuhkan pada 1992 di bawah seksyen 93 adalah badan bebas yang mengadili aduan salah laku profesional."
+  - "Hukuman tatatertib termasuk teguran, denda tidak melebihi RM50,000, penggantungan tidak melebihi lima tahun, atau pemotongan nama daripada Daftar (seksyen 94)."
+  - "Salah laku ditakrifkan dalam seksyen 94(3) sebagai perbuatan atau keingkaran yang membawa kepada ketidakwajaran yang serius."
+appliesTo: "Pelajar undang-undang, peguam pelatih (pupil), peguam bela dan peguam cara, serta orang awam yang ingin memahami cara profesion guaman dikawal selia atau cara memfailkan aduan terhadap peguam."
+
+faq:
+  - q: "Apakah perbezaan antara peguam bela (advocate) dan peguam cara (solicitor) di Malaysia?"
+    a: "Di Malaysia, profesion guaman bersatu (fused): seseorang yang diterima masuk di bawah Akta Profesion Guaman 1976 adalah peguam bela dan peguam cara sekali gus, layak untuk mewakili klien di mahkamah dan juga memberi nasihat serta menguruskan urusan guaman."
+  - q: "Siapakah yang mengadili aduan terhadap peguam?"
+    a: "Lembaga Tatatertib Peguam Bela dan Peguam Cara (Advocates & Solicitors Disciplinary Board), sebuah badan bebas yang ditubuhkan pada 1992 di bawah seksyen 93 Akta, mengadili aduan salah laku profesional. Ia boleh membentuk Tribunal Penyiasatan dan Jawatankuasa Tatatertib untuk menyiasat."
+  - q: "Apakah hukuman maksimum yang boleh dikenakan ke atas peguam yang salah laku?"
+    a: "Lembaga Tatatertib boleh mengeluarkan teguran atau kecaman, mengenakan denda tidak melebihi RM50,000, menggantung amalan sehingga tempoh tidak melebihi lima tahun, atau memotong nama peguam itu daripada Daftar."
+  - q: "Adakah Akta Profesion Guaman 1976 terpakai di Sabah dan Sarawak?"
+    a: "Tidak. Akta ini terpakai hanya di Semenanjung Malaysia. Profesion guaman di Sabah dan Sarawak dikawal oleh Ordinan Peguam masing-masing, dengan Sabah Law Society dan Advocates Association of Sarawak sebagai badan mereka."
+  - q: "Bolehkah orang awam memfailkan aduan terhadap peguam?"
+    a: "Ya. Aduan bertulis boleh dirujuk kepada Lembaga Tatatertib di bawah seksyen 99. Jika Lembaga mendapati ada merit, ia akan membentuk Tribunal Penyiasatan di bawah seksyen 100 untuk menyiasat aduan tersebut."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-08
+reviewDue: 2027-08-08
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-07
+    change: "Approved and published."
+    reviewer: null
+
+verificationNeeded:
+  - "Jumlah tepat Jawatankuasa Peguam Negeri (State Bar Committees) di Semenanjung — senarai rasmi Majlis Peguam berkunci log masuk; angka 'dua belas' tidak dapat disahkan dan telah dibuang."
+  - "Nombor seksyen sokongan yang tidak dipetik secara langsung dalam ringkasan sumber rasmi — s.4, s.10-12, s.28, s.29/32, s.36/37, s.40J, s.103A, s.103C, s.103E — perlu disahkan terhadap teks Akta yang terkini."
+  - "Tahun dan petikan tepat Ordinan Peguam (Advocates Ordinance) 1953 bagi Sabah dan Sarawak (rujukan Cap.) — sahkan setiap satu terhadap teks ordinan."
+updated: 2026-08-07
+sources:
+  - title: "Legal Profession Act 1976 (as at 1 August 2018)"
+    url: "https://www.malaysianbar.org.my/cms/upload_files/document/Legal%20Profession%20Act%201976%20as%20at%201%20August%202018%20(English).from%20AGC%20website.pdf"
+    publisher: "Attorney General's Chambers / The Malaysian Bar"
+  - title: "About Us — Advocates & Solicitors Disciplinary Board"
+    url: "https://asdb.org.my/about-us/"
+    publisher: "Advocates & Solicitors Disciplinary Board of Malaysia"
+  - title: "Jurisdiction — Advocates & Solicitors Disciplinary Board"
+    url: "https://asdb.org.my/about-us/jurisdiction/"
+    publisher: "Advocates & Solicitors Disciplinary Board of Malaysia"
+  - title: "Let us handle our own affairs, say Sabah and Sarawak legal fraternities"
+    url: "https://www.freemalaysiatoday.com/category/nation/2019/04/28/let-us-handle-our-own-affairs-say-sabah-and-sarawak-legal-fraternities"
+    publisher: "Free Malaysia Today"
+
+entity: "Majlis Peguam Malaysia"
+wikidata: "Q6741941"
+relations:
+  - { rel: "governs", to: "advocates-and-solicitors-disciplinary-board" }
+  - { rel: "related-to", to: "federal-constitution-of-malaysia" }
+related: ["federal-constitution"]
+keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "peguam bela dan peguam cara", "Lembaga Tatatertib", "Akta 166", "profesion guaman Malaysia"]
+---
+
+쿠알라룸푸르(Kuala Lumpur), 조호르바루 또는 페낭(Penang)의 법정에 서는 모든 변호사는 동일한 한 장의 법 아래에서 그렇게 하며 — 만약 그가 궤도를 벗어나면, 바로 그 법이 그의 경력을 끝낼 수 있습니다. 그것이 법조전문직법 1976(Legal Profession Act 1976, Act 166)으로, 말레이반도의 법조전문직을 통합하고 이를 변호사회(Majlis Peguam)와 독립적인 징계위원회의 감독 아래 두는 근간입니다.
+
+## 법조전문직법 1976은 무엇을 규제하는가?
+
+이 법은 변호사의 생애 주기 전체를 규율합니다. 즉 누가 변호사가 될 수 있는지, 매년 어떻게 개업이 허용되는지, 그를 대표하는 직역 기관, 그리고 윤리를 위반할 때 어떻게 징계되는지입니다.
+
+말레이시아 법조전문직의 중요한 특징 하나는 그것이 **통합(fused)**되어 있다는 것입니다. 배리스터(barrister)와 솔리시터(solicitor)가 두 개의 별개 직역인 잉글랜드와 달리, 이 법에 따라 받아들여진 사람은 **법정변호사이자 사무변호사**가 동시에 됩니다. 그 단일한 명칭은 그가 법정에서 의뢰인을 대리하는 동시에 자문하고, 문서를 준비하며, 법률 사무를 처리할 자격이 있음을 의미합니다.
+
+이 법의 지리적 범위는 제한적입니다. 그것은 **말레이반도에서만** 적용됩니다. 사바(Sabah)와 사라왁(Sarawak)은 자체의 식민지 시대 법적 틀을 유지합니다 — 이 문서의 끝부분에서 설명되는 배치입니다.
+
+## 어떻게 법정변호사이자 사무변호사가 될 자격을 얻는가?
+
+여정은 학문적 자격으로 시작하여 그 사람의 이름이 등록부(Roll)에 기재되는 것으로 끝납니다. 제11조는 최저 연령 제한, 선량한 품성, 그리고 시민권 또는 영주권 지위를 포함하여 받아들여질 자격 요건을 정합니다. 자격 있는 후보자는 받아들여지기 전에 **수습(pupillage, 사무실 내 훈련)** 기간을 마쳐야 합니다.
+
+이 법에 따른 몇 가지 주요 단계:
+
+- **법조자격심사위원회**(Legal Profession Qualifying Board, 제4조)가 학위와 시험의 측면에서 누가 자격이 있는지를 결정합니다.
+- **입회 및 수습**(제10조~제12조) — 후보자는 입회 청원서를 제출하고 마스터 아래에서 수습 기간을 거칩니다.
+- **법정변호사 및 사무변호사 등록부**(제28조) — 고등법원에 의해 받아들여지면, 그 사람의 이름이 등록부에 기재됩니다.
+- **연간 개업 증서**(제29조 및 제32조) — 변호사는 매년 신고를 하고 그 해에 적법하게 개업하기 위하여 개업 증서를 취득하여야 합니다.
+
+등록부에 이름이 없고 유효한 개업 증서가 없으면, 개업할 수 없습니다; 제36조 및 제37조는 허가 없는 개업을 범죄로 합니다.
+
+## 변호사회란 무엇이며 어떻게 구성되는가?
+
+이 법은 제41조에 따라 **말레이시아 변호사회(Malaysian Bar)** — 말레이반도의 모든 법정변호사 및 사무변호사를 아우르는 법정 기관 — 를 설립합니다. 그 목적과 권한은 제42조에 열거되어 있으며, 그중에서도 두려움이나 편애 없이 정의를 세우고, 직역의 이익을 대표하며, 법률 사무에서 대중을 보호하는 것을 포함합니다. 모든 개업 변호사는 자동으로 말레이시아 변호사회의 회원입니다(제43조).
+
+일상적 운영의 축은 제47조에 따라 설립된 **변호사평의회(Bar Council)**가 담당합니다. 이 평의회는 전직 임원, 각 **주 변호사 위원회**(State Bar Committee)의 대표, 그리고 말레이반도 전역의 우편 투표로 선출된 회원의 조합으로 구성됩니다. 말레이반도의 각 주는 자체의 주 변호사 위원회를 두고, 각각이 평의회에 대표를 파견합니다. 평의회는 직역을 구속하는 규칙과 규율을 발할 일반 권한(제56조)과 특정 권한(제57조)을 가집니다.
+
+이 계층 구조는 다음과 같이 요약될 수 있습니다.
+
+| 층위 | 주요 조항 | 역할 |
+|---|---|---|
+| 말레이시아 변호사회(Malaysian Bar) | 41-42 | 법정 기관; 직역의 목적과 권한 |
+| 변호사평의회(Bar Council) | 47-57 | 중앙 운영 기관; 규칙과 규율 발령 |
+| 주 변호사 위원회 | 68-73 | 주 단위 대표(주마다 하나) |
+| 징계위원회 | 93-103 | 비위를 심리하는 독립 기관 |
+
+## 누가 비위를 저지른 변호사를 징계하는가?
+
+징계 권한은 조사가 독립적으로 유지되도록 의도적으로 변호사평의회 **밖에** 놓여 있습니다. 법정변호사 및 사무변호사 징계위원회(Advocates & Solicitors Disciplinary Board)는 제93조에 따라 1992년에 설립되었으며, 변호사, 수습생, 또는 제40J조에 따라 등록된 외국 변호사에 대한 직업상 비위 진정을 심리합니다.
+
+절차는 단계적이며 진정으로 시작됩니다.
+
+1. **진정** — 서면 진정이 제99조에 따라 위원회에 회부됩니다.
+2. **조사 심판소** — 위원회가 이유가 있다고 판단하면, 추가 조사할 사건이 있는지를 평가하기 위하여 제100조에 따라 조사 심판소를 구성합니다.
+3. **징계 소위원회** — 더 중대한 사항의 경우, 완전한 심리를 열고 인정 사실과 권고를 기록하기 위하여 징계 소위원회가 임명됩니다(제103A조, 제103C조).
+4. **불복** — 위원회의 최종 결정이나 명령은 제103E조에 따라 불복할 수 있습니다.
+
+비위는 제94조 제3항에서, 말레이시아에서든 다른 곳에서든, 중대한 부적절함에 이르는 행위 또는 부작위로 넓게 정의됩니다. 위원회는 몇 가지 비위 범주를 열거하는데, 그중에는 자격을 상실하게 하는 유죄 판결, 직무 수행에서의 부정직하거나 기망적인 행위, 과도한 수임료 부과, 의뢰인의 이익에 대한 중대한 과실, 그리고 직역을 훼손하는 행위가 있습니다.
+
+제94조에 따라 부과될 수 있는 형벌은 중대성에 따라 단계적입니다.
+
+| 형벌 | 범위 |
+|---|---|
+| 견책 또는 질책 | 덜 중대한 비위에 대하여 |
+| 벌금 | 5만 링깃(RM50,000)을 초과하지 아니함 |
+| 정직 | 5년을 초과하지 아니하는 기간 |
+| 등록부에서 삭제 | 이름이 삭제됨; 변호사는 개업권을 상실 |
+| 원상회복 명령 | 유용된 의뢰인의 금전을 반환 |
+
+## 왜 사바와 사라왁은 다른가?
+
+말레이시아의 법조전문직은 실제로 하나가 아니라 **세 개의 별개 법률 체계**에 의해 규율됩니다. 법조전문직법 1976은 말레이반도만을 관장하며; 사바와 사라왁은 각각 자체의 식민지 시대 변호사 조례를 유지합니다.
+
+이 세 지역 배치는 동말레이시아가 연방 안에서 유지하는 자치를 부각합니다.
+
+| 지역 | 법률 | 직역 기관 |
+|---|---|---|
+| 말레이반도 | 법조전문직법 1976(Legal Profession Act 1976, Act 166) | 말레이시아 변호사회 / 변호사평의회 |
+| 사바 | 변호사 조례(Advocates Ordinance) 1953 | 사바 법률협회(Sabah Law Society) |
+| 사라왁 | 변호사 조례(Advocates Ordinance) 1953 | 사라왁 변호사협회(Advocates Association of Sarawak) |
+
+그 결과, 말레이반도에서 받아들여진 변호사가 자동으로 사바나 사라왁에서 개업할 수 있는 것은 아닙니다; 각 지역은 거주 요건을 포함하여 자체의 입회 요건을 가집니다. 이 차이는 또한 사법 구조를 반영합니다. 즉 사바와 사라왁은 말라야 고등법원과 동등한 자체의 고등법원을 가집니다.
+
+## 다음 단계
+
+이 주제를 더 깊이 파고들려면:
+
+- 변호사에 대한 **진정을 제기하려면**, 위원회의 공식 사이트를 통하여 제99조 및 제100조에 따른 징계위원회의 절차를 참조하십시오.
+- **예비 변호사라면**, 입회 경로를 계획하기 전에 제11조의 자격 요건과 수습 요건을 면밀히 살펴보십시오.
+- **규칙 제정 권한을 이해하려면**, 변호사평의회가 제57조에 따라 발한 규율과 규칙을 읽으십시오.
+- **동말레이시아의 맥락을 위해서는**, 입회 요건의 차이를 보기 위하여 사바와 사라왁의 변호사 조례를 Act 166과 비교하십시오.
+
+주석: 이 문서는 AI의 도움으로 준비된 초안이며 아직 사람의 검토를 거치지 아니하였습니다. 주요 조항 번호는 이 법의 본문과 열거된 공식 출처에 대조하여 확인되었습니다; 그러나 일부 보조 조항 번호와 세부 사항(verificationNeeded 필드 참조)은 여전히 최신 법 본문에 대조하여 사람 검토자가 확인하여야 합니다. 이것은 법률 자문이 아닙니다. 어떠한 결정을 위해서든 최신 법 본문과 자격 있는 법률 자문가를 참조하십시오.

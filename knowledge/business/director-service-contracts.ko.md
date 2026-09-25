@@ -1,0 +1,174 @@
+---
+topicId: MY-BIZ-0067
+title: "이사 용역계약 — 직위, 고용, 그리고 제231조 공시 규칙"
+seoTitle: "말레이시아 이사 용역계약: 제231조 해설"
+socialTitle: "Section 231 is a public-company rule. Most guides apply it to Sdn Bhds."
+slug: "director-service-contracts"
+category: "business"
+subcategory: ["contracts-disputes"]
+summary: "이사의 직위가 왜 고용이 아닌지, 용역계약이 무엇을 더하는지, 그리고 회사법(Companies Act 2016) 제231조부터 제233조까지의 열람 제도가 왜 공개회사에만 적용되는지."
+
+tier: "3"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "이사직은 회사법(Companies Act 2016)이 창설한 직위이지 일자리가 아닙니다. 용역계약은 이사가 보수를 받고 개인적으로 용역을 수행하는 별개의 약정입니다. 제231조는 공개회사에 한하여 그 계약을 정의하며, 제232조와 제233조는 공개회사가 그 사본을 등록 사무소에서 열람할 수 있도록 보관할 것을 요구합니다. 사회사(private company)에는 이에 상응하는 열람 의무가 없으나, 제230조 제3항이 있어 이사회가 승인한 이사 보수를 14일 이내에 주주에게 통지하도록 요구합니다."
+keyTakeaways:
+  - "Appointment as a director is an office; any pay for work done sits in a separate service contract"
+  - "s.231 defines a director's service contract in relation to a public company only"
+  - "s.232 requires a public company to keep copies for inspection at the registered office, and for at least one year after termination or expiry — fine up to RM1 million"
+  - "s.233 gives inspection rights to members holding at least 5% of paid-up capital, or at least 10% of members where there is no share capital"
+  - "Private company directors' fees and benefits are approved by the board subject to the constitution (s.230(2)), with shareholder notification within 14 days (s.230(3))"
+  - "s.230(4) lets members with at least 10% of voting rights force a resolution within 30 days of knowledge; without it, s.230(5) makes the payment a debt due from the director"
+  - "Any payment for loss of office needs member approval under s.227, or the director holds it on trust for the company"
+appliesTo: "Boards documenting what an executive director is paid, and anyone drafting or reviewing a director service contract in a Sdn Bhd or a public company."
+
+faq:
+  - q: "Is a director an employee?"
+    a: "Not by virtue of the office. Directorship is a statutory office; being paid for it does not by itself create an employment relationship. An executive director may separately be an employee under a service contract, in which case employment law consequences follow. Whether a particular director is an employee or a workman for the purposes of s.20 of the Industrial Relations Act 1967 is fact-sensitive and depends on the substance of the arrangement, not the label."
+  - q: "Does s.231 apply to a Sdn Bhd?"
+    a: "No. Section 231(1) defines a director's service contract for the purposes of that Division in relation to a public company. The inspection obligations in ss.232 and 233 run from that definition. Guidance that applies the inspection regime to private companies is applying a public-company provision."
+  - q: "Who approves what an executive director is paid in a private company?"
+    a: "Section 230(2) allows the board, subject to the constitution, to approve directors' fees and benefits including compensation for loss of employment. The approval must be recorded in the directors' minutes and the shareholders notified within fourteen days under s.230(3). Contravening the notification duty carries a fine of up to RM250,000 on the company and every officer."
+  - q: "Can we pay a departing director a golden handshake?"
+    a: "Only with member approval. Section 227(1) makes it unlawful for a company to pay a director compensation for loss of office, or in connection with retirement, unless particulars including the amount have been disclosed to members and the proposal approved by them. Where an unlawful payment is made, s.227(1) deems the director to hold the amount on trust for the company."
+
+verificationNeeded:
+  - "Confirm the treatment of executive directors as workmen under s.20 of the Industrial Relations Act 1967 — this turns on case law, not on the face of the statute"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
+    publisher: "SSM"
+  - title: "Companies Act 2016 (Act 777), AGC updated text"
+    url: "https://lom.agc.gov.my/act-detail.php?act=777"
+    publisher: "Attorney General's Chambers of Malaysia"
+
+entity: "Director service contract (Malaysia)"
+relations:
+  - { rel: "governs", to: "companies-act-2016" }
+  - { rel: "related-to", to: "company-director-requirements" }
+  - { rel: "related-to", to: "contracts-act-malaysia" }
+related: ["company-director-requirements", "contracts-act-malaysia", "shareholders-agreement-malaysia", "employment-contract-malaysia"]
+keywords:
+  - "director service contract Malaysia"
+  - "section 231 Companies Act 2016"
+  - "is a director an employee Malaysia"
+  - "directors fees approval Sdn Bhd"
+  - "compensation for loss of office section 227"
+---
+
+말레이시아 회사에 그 상근이사(executive director)의 고용계약을 요청하면 대개 하나의 문서를
+건네받게 됩니다. 다음 달에 주주가 그 사람을 이사에서 해임하면 그의 보수가 어떻게 되는지를
+물으면, 방 안은 조용해집니다.
+
+이 둘은 별개입니다. 이사직은 사원이 부여하고 회사법(Companies Act 2016)이 규율하는
+**직위**입니다. 용역계약은 어떤 사람이 보수를 받고 회사를 위해 개인적으로 용역을 수행하는
+**계약**입니다. 어떤 사람을 그 직위에서 해임한다고 해서 계약이 자동으로 종료되지 않으며,
+계약을 해지한다고 해서 그 직위가 궐위되지도 않습니다.
+
+## 제231조가 실제로 다루는 것
+
+제231조 제1항은 해당 부(Division)의 목적상 이사의 용역계약을 **공개회사와 관련하여** 다음과
+같은 계약으로 정의합니다.
+
+- 이사가 이사로서든 그 밖의 자격으로든 공개회사 또는 그 자회사를 위하여 개인적으로 용역을
+  수행하기로 약정하는 경우; 또는
+- 이사가 개인적으로 수행하기로 약정한 용역이 **제3자에 의하여** 공개회사 또는 자회사에
+  제공되는 경우.
+
+(b)호 항목은 회피 방지 항목입니다. 상근직을 관리회사를 통해 우회시키는 것은 그 약정을 해당
+부의 적용에서 벗어나게 하지 않습니다.
+
+제231조 제2항은 두 가지 확장을 더합니다. 이 부는 어떤 사람의 이사 선임 조건에 적용되며,
+이사의 통상적 임무 이외의 용역에 국한되지 않습니다.
+
+그다음은 그 장치이며, 그 전부가 공개회사의 장치입니다.
+
+| 의무 | 조문 | 세부 사항 |
+| --- | --- | --- |
+| 회사 또는 자회사와의 모든 용역계약 사본을 열람에 제공되도록 보관 | 제232조 제1항 | 변경분 포함 — 제232조 제6항 |
+| 이를 등록 사무소에 보관 | 제232조 제2항 | 다른 장소 및 변경 사항을 등록관에게 통지 — 제232조 제4항 |
+| 해지 또는 만료 후 최소 1년간 보관 | 제232조 제3항 | 보관 기간은 계약 종료 후 진행 |
+| 벌칙 | 제232조 제5항 | 위반한 회사 및 모든 임원에게 **RM1,000,000**까지의 벌금 |
+| 사원 열람 | 제233조 제1항 | 총 납입자본의 최소 **5%**를 보유한 사원, 또는 주식자본이 없는 경우 사원의 최소 **10%** |
+
+대부분의 말레이시아 해설은 제231조부터 제233조까지를 일반 회사법으로 제시합니다. 그렇지
+않습니다. 주식으로 유한책임을 지는 사회사에는 이러한 종류의 열람 의무가 전혀 없습니다.
+
+## 사회사가 대신 지는 의무
+
+사회사에 대한 통제는 제230조와 제227조에 있습니다.
+
+**제230조 제2항:** 이사회는 정관에 따라 이사 보수 및 지급될 모든 혜택을 — 이사 또는 전
+이사의 고용 상실에 대한 보상을 포함하여 — 승인할 수 있습니다. 그것은 동일한 결정을
+주주총회로 보내는 제230조 제1항이 적용되는 공개회사와의 실질적인 차이입니다.
+
+**제230조 제3항:** 그 승인은 이사회 의사록에 기록되어야 하고 주주에게 **14일 이내에**
+통지되어야 합니다. 이를 이행하지 않는 것은 회사 및 모든 임원에게 RM250,000까지의 벌금이
+부과되는 위반입니다.
+
+**제230조 제4항~제5항:** 그 지급이 회사에 부당하다고 보는, 총 의결권의 최소 **10%**를
+보유한 사원은 **알게 된 날로부터 30일 이내에** 서면 결의 또는 주주총회에서 이를 승인하는
+결의를 통과시킬 것을 회사에 요구할 수 있습니다. 그 승인을 얻지 못하는 한, 그 지급은
+**이사가 회사에 지는 채무를 구성합니다**.
+
+**제227조 제1항:** 금액을 포함한 세부 사항이 사원에게 공시되고 그 제안이 사원의 승인을
+받지 않는 한, 회사가 이사에게 직위 상실에 대한 보상 또는 퇴임의 대가를 지급하는 것은
+적법하지 않습니다. 적법하지 않은 지급은 회사를 위한 신탁으로 수령된 것으로 간주됩니다.
+공개회사에서는 제227조 제2항이 이해관계 있는 이사와 관계인에게 의결에서 기권할 것을
+요구합니다.
+
+## 계약에 담아야 할 것
+
+- **역할을 분리하십시오.** 고용의 해지가 그 자체로 직위를 궐위시키지 않으며, 직위로부터의
+  해임이 계약상의 종료 사유임을 명시하고, 그 결과를 명확히 규정하십시오.
+- **해임을 처리하십시오.** 사회사에서 해임은 정관에 따라 보통결의로 이루어지며(제206조
+  제1항 (a)호), 공개회사 이사는 어떠한 약정에도 불구하고 해임될 수 있습니다(제206조
+  제2항). 계약은 공개회사 이사가 갖지 못하는 보호를 사들일 수 없습니다.
+- **퇴출을 미리 가격 매기십시오.** 처음에 합의된 퇴직금 산식은 직위 상실에 대한 지급이므로,
+  나중에 발견하기보다는 제227조 승인을 미리 계획하십시오.
+- **퇴직 후 경업금지를 도입하지 마십시오.** 1950년 계약법(Contracts Act 1950) 제28조는
+  적법한 직업, 거래 또는 영업의 행사를 제한하는 약정을 무효로 하며, 그 세 가지 예외 중
+  어느 것도 고용주 또는 회사가 떠나는 임원을 제한하는 것을 포함하지 않습니다.
+
+## 흔한 실수
+
+**제231조를 Sdn Bhd에 적용하는 것.** 그것은 공개회사를 기준으로 정의됩니다. 사회사의
+의무는 제230조 제3항 통지와 제227조 승인입니다.
+
+**이사회가 단순히 자신들에게 퇴직금을 표결로 줄 수 있다고 가정하는 것.** 제227조는 사원의
+승인 없이는 그것을 적법하지 않게 만들며, 제230조 제5항은 승인되지 않은 사회사의 지급을
+이사가 지는 채무로 전환합니다.
+
+**이사회 결의로 충분하다고 여기고 거기서 멈추는 것.** 제230조 제3항은 이사회 승인에 더하여
+14일 이내의 주주 통지를 요구합니다.
+
+**상근이사가 자동으로 부당해고 보호를 받는다고 가정하는 것.** 그 직위 자체는 고용이
+아닙니다. 그 개인이 1967년 노사관계법(Industrial Relations Act 1967) 제20조에 따라 구제를
+받을 수 있는 근로자(workman)인지 여부는 그 관계의 실질에 달려 있습니다.
+
+## 다음 단계
+
+이사가 주주이기도 하다면, 그 퇴출 조건은 주주간 계약 및 제346조의 억압 구제(oppression
+remedy)와 상호작용합니다 — 절차적으로 올바른 해임도 사원의 이익을 무시하는 행위로 여전히
+공격받을 수 있습니다. 그리고 회사가 공개회사라면, 제232조에 따른 열람 파일은 누군가가 그
+것을 요청하기 전에 존재해야 합니다.

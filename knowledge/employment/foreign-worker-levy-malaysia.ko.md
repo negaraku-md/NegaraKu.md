@@ -1,0 +1,232 @@
+---
+topicId: MY-EMP-0043
+title: "외국인 근로자 부담금 요율과 다단계 부담금"
+seoTitle: "말레이시아 외국인 근로자 부담금: 부문별 요율"
+slug: "foreign-worker-levy-malaysia"
+category: "employment"
+subcategory: ["foreign-workers-expatriates"]
+summary: "말레이시아 반도와 사바·사라왁의 부문별 관보 게재 부담금 요율, 법적으로 이를 납부할 책임이 있는 자, 그리고 다단계 부담금의 관보 게재 현황을 다룹니다."
+
+tier: "4"
+mode: "practical"
+contentType: "data"
+
+answer: "연간 외국인 근로자 부담금은 말레이시아 반도의 제조업·건설업·서비스업에 대해 RM1,850, 플랜테이션 및 농업에 대해 RM640입니다. 사바와 사라왁의 요율은 더 낮습니다 — 제조업 및 건설업 RM1,010, 서비스업 RM1,490, 플랜테이션 RM590, 농업 RM410. 요율은 월 단위로 관보에 게재되며 2016년 3월 18일 이래 변하지 않았습니다. 다단계 부담금은 승인·발표되었으나 이를 시행하는 어떠한 법령도 관보에 게재되지 않았습니다."
+keyTakeaways:
+  - "The levy is legally a fee under the Fees Act 1951, imposed by P.U.(A) 479/1998 — the word levy does not appear in the instrument"
+  - "Current rates come from P.U.(A) 67/2016, in force 18 March 2016, and are stated per month rather than per year"
+  - "Peninsular: RM1,850 a year for manufacturing, construction and services; RM640 for plantation and agriculture"
+  - "Sabah, Sarawak and Labuan: RM1,010 manufacturing and construction, RM1,490 services, RM590 plantation, RM410 agriculture"
+  - "A duration-tiered levy already exists — Schedule IA charges a separate rate from the 11th year of employment"
+  - "The employer, not the worker, is the liable person — and that has been gazetted since 1 January 2017, not merely a 2018 Cabinet decision"
+  - "The Multi-Tier Levy Mechanism is not gazetted and is not in force as at July 2026"
+appliesTo: "Employers budgeting foreign worker costs, finance teams pricing headcount, and anyone trying to establish whether the multi-tier levy has started."
+
+faq:
+  - q: "What is the annual foreign worker levy in Malaysia?"
+    a: "In Peninsular Malaysia, RM1,850 a year for manufacturing, construction and services, and RM640 for plantation and agriculture. In Sabah, Sarawak and Labuan the rates are RM1,010 for manufacturing and construction, RM1,490 for services, RM590 for plantation and RM410 for agriculture. Domestic helpers are charged RM410 a year for the first and RM590 for the second and subsequent. Rates are gazetted per month and multiply out to these annual figures."
+  - q: "Has the multi-tier levy started?"
+    a: "No. As at July 2026 no P.U.(A) or P.U.(B) implementing a multi-tier levy has been gazetted, and the amendment chain for the governing fees order stops at P.U.(A) 231/2023. The Thirteenth Malaysia Plan records the mechanism as approved in 2024 and states it will be implemented in 2026, but the Budget 2026 speech of 10 October 2025 does not mention it at all. It is deferred, not scrapped."
+  - q: "Who pays the levy?"
+    a: "The employer. P.U.(A) 1/2017, in force 1 January 2017, amended the fees order to substitute an employer of the pass holder for the pass holder as the liable person, and the later paragraphs 3A and 3B name the employer expressly. This is the point most guides get wrong by attributing the employer-pays rule to a 2018 Cabinet decision — 1 January 2018 is the policy announcement date, not the legal one."
+  - q: "Can the levy be deducted from a worker's wages?"
+    a: "Not lawfully. Section 24 of the Employment Act 1955 is a closed list: subsection (1) prohibits every deduction the Act does not authorise, and the permitted categories are overpayment, s.13(1) indemnity, s.22 advances and deductions authorised by other written law. The levy is not named anywhere in the Act. The prohibition works by omission rather than by an express ban, which is why no one can cite the section that forbids it."
+  - q: "Are there levy rates beyond the standard sector table?"
+    a: "Yes, two that are routinely missed. Schedule IA charges a separate rate from the 11th year of a worker's employment — RM6,000 a year generally and RM2,000 for plantation and agriculture, under P.U.(A) 122/2019 in force 30 April 2019. Schedule IB charges a flat RM1,500 per pass for employers under a special recalibration programme, under P.U.(A) 231/2023 in force 1 August 2023."
+
+verificationNeeded:
+  - "Confirm the Sabah and Sarawak rate for services (island resort) — the gazetted PDF column layout is unreliable at that row, and the figure is taken from the Immigration table"
+  - "Confirm the deadline for levy payment on a new application — Immigration states the approval letter is issued only after the employer pays within two days, while ePPAx states within 30 days of quota approval"
+  - "Confirm current levy rebate or refund rules — no official statement of eligibility, deadline or quantum could be located"
+  - "Confirm Sabah and Sarawak state immigration positions directly — applications for those states remain subject to the respective State Governments and their portals were unreachable"
+
+obligations:
+  - what: "Pay the foreign worker levy for each pass issued or extended"
+    trigger: "ongoing"
+    due: "On issuance of the pass and on each renewal, in accordance with the period of the pass issued"
+    authority: "Immigration Department of Malaysia / Ministry of Home Affairs"
+    statute: "Fees (Employment Pass, Visit Pass (Temporary Employment) and Work Pass) Order 1998, P.U.(A) 479/1998, as amended by P.U.(A) 67/2016 and P.U.(A) 1/2017"
+    consequence: "The pass is not issued or extended"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+sensitivity: "none"
+
+updated: 2026-07-20
+sources:
+  - title: "Fees (Employment Pass, Visit Pass (Temporary Employment) and Work Pass) (Amendment) Order 2016, P.U.(A) 67/2016"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20160318_P.U.%20(A)%2067.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2016-03-18"
+  - title: "Foreign Worker — levy, pass and process fees by sector"
+    url: "https://www.imi.gov.my/index.php/en/main-services/foreign-worker/"
+    publisher: "Immigration Department of Malaysia"
+  - title: "Thirteenth Malaysia Plan (RMK-13)"
+    url: "https://rmk13.ekonomi.gov.my/wp-content/uploads/2025/07/Buku_Utama_RMK13.pdf"
+    publisher: "Ministry of Economy"
+    date: "2025-07-31"
+  - title: "Employment Act 1955 (Act 265), s.24"
+    url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
+    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+
+entity: "Foreign worker levy (Malaysia)"
+relations:
+  - { rel: "administered-by", to: "immigration-department-malaysia" }
+  - { rel: "requires", to: "hiring-foreign-workers-malaysia" }
+  - { rel: "related-to", to: "employment" }
+related: ["hiring-foreign-workers-malaysia"]
+keywords: ["foreign worker levy malaysia", "levi pekerja asing", "multi tier levy", "mtlm", "levy rates by sector", "plks levy sabah sarawak"]
+---
+
+이 주제를 조사하기 어렵게 만드는 것에서 시작하겠습니다. **외국인 근로자 부담금 법령이란 존재하지
+않습니다.**
+
+연방 관보에서 "levi"나 "levy"를 검색하면 CIDB 부담금, HRD Corp 부담금, 출국세, 초과이윤 부담금이
+나올 뿐 — 외국인 근로자에 관한 것은 아무것도 없습니다. 이는 색인 오류가 아닙니다. 모두가 부담금
+이라 부르는 것은 법적으로 **수수료법 1951(Fees Act 1951) 제3조에 따른 수수료**이며, **수수료(취업
+패스, 방문 패스(임시 취업) 및 취업 패스) 명령 1998(Fees (Employment Pass, Visit Pass (Temporary
+Employment) and Work Pass) Order 1998), P.U.(A) 479/1998**에 의해 부과됩니다. 그 안에는 "levy"라는
+단어가 나오지 않습니다.
+
+실효적인 요율은 부칙 I에 있으며, **2016년 3월 18일 시행된 P.U.(A) 67/2016**에 의해 전면
+대체되었습니다. 이는 **월 단위**로 기재되어 있습니다. 유통되는 모든 "연간 부담금" 수치는 그 월
+수치에 12를 곱한 것입니다.
+
+## 부문별 부담금 요율
+
+관보 게재 및 이민국 공표 기준, 근로자 1인당 연간:
+
+| 부문 | 말레이시아 반도 | 사바·사라왁·라부안 |
+| --- | --- | --- |
+| 제조업 | **RM1,850** | RM1,010 |
+| 건설업 | **RM1,850** | RM1,010 |
+| 서비스업 | **RM1,850** | RM1,490 |
+| 서비스업(섬 리조트) | RM1,850 | RM1,010 |
+| 플랜테이션 | **RM640** | RM590 |
+| 농업 | **RM640** | RM410 |
+| 가사도우미 — 첫 번째 | RM410 | RM410 |
+| 가사도우미 — 두 번째 이후 | RM590 | RM590 |
+| 그 밖의 모든 근로 | RM1,850 | RM1,490 |
+
+두 가지 추가 비용이 함께 부과됩니다. 신청당 **RM125 처리 수수료**와 방문 패스(임시 취업)에 대한
+**RM60 패스 수수료**입니다. 입국 비자와 보증금은 다시 별개이며, 둘 다 부문이 아니라 국적에
+결부됩니다.
+
+관보가 **라부안을 반도가 아니라 사바·사라왁과 묶는다**는 점에 유의하십시오 — 라부안 사업의 예산을
+짜는 사람에게 쉽고 비싼 실수입니다.
+
+그리고 *일어나지 않은* 것에 유의하십시오. **부칙 I은 2016년 3월 18일 이래 개정되지 않았습니다.**
+P.U.(A) 479/1998에 대한 개정 명령의 사슬은 172/2011, 79/2014, 67/2016, 1/2017, 241/2018, 2/2019,
+122/2019, 145/2020, 354/2020, 258/2021, 4/2022, 231/2023으로 이어지고 — 거기서 멈춥니다. 2023년 8월
+1일 이후에는 아무것도 없습니다. 10년간 변하지 않은 부문 요율 그 자체가 하나의 이야기입니다.
+
+## 아무도 인용하지 않는 두 개의 부칙
+
+말레이시아에는 이미 단계적 부담금이 있습니다. 그것은 인력 의존도가 아니라 **고용 기간**에 따라
+단계가 나뉘어 있습니다 — 그래서 시장은 이미 한 형태로 존재하는 "단계적 부담금"을 계속 기다리고
+있는 것입니다.
+
+**부칙 IA — 11년차 이후.** P.U.(A) 241/2018에 의해 연 RM10,000으로 도입되었다가, **2019년 4월 30일
+시행 P.U.(A) 122/2019**에 의해 **월 RM500, 연 RM6,000**으로, 플랜테이션 및 농업의 경우 **월
+RM166.67, 연 RM2,000**으로 인하되었습니다. 같은 수치가 두 지역에 모두 적용됩니다. 최대 고용 기간이
+10년임을 고려하면, 이 부칙은 정확히 연장 사례를 포착합니다.
+
+**부칙 IB — 특별 프로그램.** **2023년 8월 1일 시행 P.U.(A) 231/2023**에 따라, 재조정(recalibration)
+같은 특별 프로그램에 참여하는 고용주에 대해 **패스당 정액 RM1,500**입니다.
+
+## 법적으로 책임이 있는 자
+
+고용주입니다. 그리고 날짜가 중요합니다. 거의 모든 게시된 안내가 이를 틀리기 때문입니다.
+
+**2017년 1월 1일 시행 P.U.(A) 1/2017**은 원 명령의 제3항에서 "취업 패스 보유자(An Employment Pass
+holder)"를 "**취업 패스 보유자의 고용주(An employer of** the Employment Pass holder)"로 대체하고,
+"그에게(to him)"라는 문구를 삭제하였습니다. 이후 삽입된 항들은 조금의 여지도 남기지 않습니다.
+제3A항은 "방문 패스(임시 취업)의 연장을 신청하는 **모든 고용주** … 는 수수료를 납부해야 한다"고,
+제3B항은 "방문 패스(임시 취업) 보유자의 **모든 고용주** … 는 수수료를 납부해야 한다"고 규정합니다.
+
+따라서 고용주 책임은 **2017년 1월 1일 이래 관보에 게재**되어 있습니다. 인사(HR) 안내 전반에 반복
+되는 2018년 1월 1일이라는 날짜는 인적자원부가 그 정책을 발표한 날짜이지, 법이 바뀐 날짜가 아닙니다.
+자주 인용되는 "2016년 3월 25일 내각 결정"은 어떤 공식 출처에서도 전혀 확인할 수 없었습니다.
+
+**공제에 관하여**, 그 입장은 시장이 말하는 것보다 미묘합니다. 근로자의 임금에서 부담금을 공제하는
+것에 대한 **명시적인 법적 금지는 없습니다**. 대신 있는 것은 고용법 1955 제24조로, 이는 한정 열거
+목록입니다. 제(1)항은 이 법이 허용하지 않는 모든 공제를 금지하고, 제(2)항은 과지급 회수, 제13(1)조
+보상금, 제22조 선급금, 그리고 그 밖의 성문법이 허용하는 공제만을 허용합니다. 부담금은 법률 제265호
+어디에도 나오지 않습니다. 따라서 이 공제는 명시적 금지가 아니라 **누락에 의해** 위법하며, 바로
+그래서 누구도 이를 금지하는 조항을 인용할 수 없는 것입니다.
+
+## 언제 납부하는가
+
+월 단위로, 발급 시 그리고 각 갱신 시 부과되며, 패스 기간에 안분됩니다 — 제3A항은 이를 "수수료는
+발급된 패스의 기간에 따라 납부되어야 한다"고 표현합니다. 패스는 12개월간 유효합니다.
+
+신규 신청의 시기에 관해 미해결된 충돌이 있습니다. 이민국은 고용주가 **2일 이내에** 부담금을
+납부한 후에만 승인서가 발급된다고 말합니다. ePPAx는 쿼터 승인 후 **30일 이내**라고 말합니다. 두
+공식 시스템, 두 개의 기한 — 더 짧은 쪽에 맞추십시오.
+
+갱신은 패스 연장과 함께 현금 또는 은행 어음으로 말레이시아 이민국장에게 납부됩니다.
+
+## 다단계 부담금은 관보에 게재되었는가?
+
+**아니오. 2026년 7월 기준, 다단계 부담금 제도를 시행하는 어떠한 법령도 관보에 게재되지 않았으며,
+시행 중이 아닙니다.**
+
+그 부정이 대부분의 검색자가 실제로 원하는 답이며, 이는 다른 어디에서도 분명히 진술되어 있지
+않습니다. 그 근거는 세 가지입니다. 관보를 샅샅이 검색해도 명백한 제목 형태 중 어느 것으로도
+외국인 근로자 부담금에 해당하는 P.U.(A)나 P.U.(B)가 나오지 않고; 관련 수수료 명령의 개정 사슬이
+P.U.(A) 231/2023에서 멈추며; 부칙 I이 여전히 2016년과 같이 읽힙니다.
+
+발표의 이력이 왜 그토록 많은 사람이 달리 믿는지를 설명합니다.
+
+| 시기 | 출처 | 발표 내용 |
+| --- | --- | --- |
+| 2019년 | 장관 발표 | 2020년 1월 1일부터 다단계 부담금, 요율은 내각 결정을 앞두고 보류 |
+| 2024년 | RMK-13에 기록 | 그 제도가 2024년에 **승인됨** |
+| 2024년 10월 18일 | 2025년 예산안 연설 | 정부가 이듬해 초에 시행하기를 **제안** — 요율 미제시 |
+| 2025년 7월 31일 | 제13차 말레이시아 계획 | MTLM은 **2026년에 시행될 것**; 수익은 자동화를 위한 신탁 기금으로 |
+| 2025년 10월 10일 | 2026년 예산안 연설 | **전혀 언급 없음** |
+
+승인은 관보 게재가 아니고, 계획은 시행이 아닙니다. 유통된 설계 — 전체 인력 대비 외국인 근로자
+비율에 따라 요율이 상승 — 는 결코 법적 효력이 부여되지 않은 2021년 정책 문서에서 나온 것이며, 그에
+붙은 수치는 예산 산정에 사용해서는 안 됩니다.
+
+가장 강력한 현재의 신호는 침묵입니다. 2026년의 절반이 지났고 부칙 I의 개정이 보이지 않는 가운데,
+2026년 시행에는 나타난 적 없는 법령이 필요할 것입니다.
+
+## 흔한 실수
+
+**관보에서 "levy"를 검색하는 것.** 그것은 수수료법 1951에 따른 수수료이며 그 단어는 결코 나오지
+않습니다.
+
+**연간 수치를 관보에 게재된 것처럼 인용하는 것.** 관보는 월 요율을 기재하며, 연간 수치는 산술입니다.
+
+**라부안에 반도 요율을 적용하는 것.** 관보는 이를 사바·사라왁과 묶습니다.
+
+**고용주 책임을 2018년 내각 결정에 귀속시키는 것.** 이는 2017년 1월 1일 P.U.(A) 1/2017에 의해
+관보에 게재되었습니다.
+
+**요율에 대해 ePPAx를 인용하는 것.** 그 자체의 FAQ가 관보와 이민국 양쪽과 모순되는 제조업 수치를
+게시합니다.
+
+**다단계 부담금을 시행 중인 것으로 취급하는 것.** 그것은 승인·발표되었으나 법이 아닙니다.
+
+## 다음 단계
+
+발표된 요율이 아니라 관보에 게재된 요율로 예산을 짜고, 장관 발언이 아니라 P.U.(A) 479/1998의
+부칙 I을 주시하십시오 — 실제로 여러분의 비용 기반을 바꿀 것은 개정 명령뿐입니다.
+
+11년차에 가까워지는 사람을 고용하고 있다면, 지금 부칙 IA를 확인하십시오. 그 단계는 이미 시행
+중이며 2019년 이래 그러하였습니다.

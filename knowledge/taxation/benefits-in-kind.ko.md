@@ -1,0 +1,188 @@
+---
+topicId: MY-TAX-0040
+title: "현물급여와 부가급여 — 거래의 양쪽 측면"
+seoTitle: "말레이시아 현물급여 — 고용주와 근로자의 세금"
+slug: "benefits-in-kind"
+category: "taxation"
+subcategory: ["deductions-and-allowances"]
+summary: "회사 차량, 주택, 전화가 근로자에게 세금으로 얼마의 비용이 되는지, 그리고 고용주가 실제로 무엇을 공제할 수 있는지를 한곳에 정리했습니다."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "현물급여는 소득세법 1967(Income Tax Act 1967) 제13(1)(b)항에 따라 근로자에게 과세되며, 공식 방법 또는 공개 예규(Public Ruling) 11/2019의 LHDN 규정 가액 중 하나로 평가됩니다. 사택은 제13(1)(c)항에 따라 별도로 과세되고 제32조에 따라 평가됩니다. 고용주 측면은 또 다릅니다 — 자본지출은 자본공제를 발생시키고, 특정 급여는 관보 고시 규칙에 따라 공제됩니다. 양측은 서로를 그대로 반영하는 경우가 드뭅니다."
+keyTakeaways:
+  - "Employee tax and employer deduction are governed by different provisions and different amounts"
+  - "Prescribed value for a car costing above RM500,000 is RM25,000 a year plus RM3,000 petrol"
+  - "A car over five years old halves the prescribed value, but the formula method gets no such reduction"
+  - "Accommodation is 13(1)(c), not 13(1)(b) — defined value or 30% of section 13(1)(a) income, whichever is less"
+  - "A controlled-company director gets no 30% ceiling — full defined value applies"
+  - "Employers get capital allowances on the asset, not a deduction of the benefit value"
+  - "The formula method allows a business-use abatement; the prescribed value method does not"
+appliesTo: "Employers designing remuneration packages, payroll teams computing MTD, and employees checking a Form EA."
+
+faq:
+  - q: "Is a company car taxable on the employee in Malaysia?"
+    a: "Yes. The private benefit of a company car is gross employment income under paragraph 13(1)(b) of the Income Tax Act 1967. The employer must value it using either the formula method — cost divided by the prescribed eight-year life span, times 80% — or the prescribed value table in Public Ruling 11/2019, and deduct monthly tax on it."
+  - q: "What is the prescribed value of a car costing RM280,000?"
+    a: "RM15,000 a year for the car and RM2,400 for petrol, because the cost falls in the RM250,001 to RM350,000 band of Appendix 2 to Public Ruling 11/2019. If the car is more than five years old the car element halves to RM7,500, but the petrol figure is unchanged."
+  - q: "Can the employer deduct the value of the benefit it gave the employee?"
+    a: "No, not as such. The employer claims capital allowances on the capital cost of the asset under Schedule 3, subject to the motor vehicle restriction. Certain benefits are instead deductible under the Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009, P.U.(A) 153/2009, which cover broadband, fixed line, mobile and pager bills, home-to-work travelling allowances or petrol cards, and the devices themselves."
+  - q: "How is company-provided housing taxed?"
+    a: "Under paragraph 13(1)(c), valued by section 32(2) at the defined value of the accommodation or 30% of the employee's section 13(1)(a) income, whichever is lower. Hotel, hostel, plantation, forest or non-rateable premises are valued at 3% of section 13(1)(a) income instead."
+  - q: "Which benefits are exempt from tax?"
+    a: "Public Ruling 11/2019 paragraph 8.2 lists them, including dental benefit, child care provided by the employer, free food and drink, transport between home and work, group personal accident premiums, up to three domestic leave passages a year or one overseas passage capped at RM3,000, one unit per category of phone or broadband with its bills, and up to RM1,000 of discount on the employer's own consumable products."
+  - q: "Does the employee pay tax if the car is more than five years old?"
+    a: "Still yes, but the prescribed value of the car element is reduced to half. That abatement is only available under the prescribed value method — Public Ruling 11/2019 paragraph 6.1.8 states expressly that it does not apply where the formula method is used."
+
+verificationNeeded:
+  - "The full text of the Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009, P.U.(A) 153/2009, was not retrieved from a primary source; its scope is described as cited in paragraph 12.1 of Public Ruling 11/2019."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Public Ruling No. 11/2019 — Benefits in Kind"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_11_2019.pdf"
+    publisher: "LHDN"
+    date: "2019-12-12"
+  - title: "Public Ruling No. 5/2019 — Perquisites From Employment"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
+    publisher: "LHDN"
+    date: "2019-11-19"
+  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.13(1)(b), 13(1)(c), 32, 39(1)(k), Schedule 3"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "LHDN"
+    date: "2024-05-21"
+  - title: "Public Ruling No. 6/2015 — Qualifying Expenditure and Computation of Capital Allowances"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_6_2015.pdf"
+    publisher: "LHDN"
+    date: "2015-08-27"
+  - title: "Income Tax (Deduction for Value of Benefit given to Employees) Rules 2021, P.U.(A) 31/2021"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20210126_PUA31.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2021-01-26"
+
+entity: "Benefits-in-kind"
+relations:
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "governs", to: "income-tax-act-1967" }
+  - { rel: "related-to", to: "motor-vehicle-capital-allowance" }
+  - { rel: "related-to", to: "capital-allowances" }
+related: ["motor-vehicle-capital-allowance", "personal-tax-reliefs", "corporate-tax-rates"]
+keywords: ["benefits in kind Malaysia", "BIK prescribed value table", "company car tax Malaysia employee", "paragraph 13(1)(b) 13(1)(c)", "living accommodation benefit Malaysia"]
+---
+
+현물급여에 관한 모든 안내서는 한쪽 편을 택합니다. 급여 관련 블로그는 근로자가 무엇을 납부하는지 설명합니다. 세무 블로그는 회사가 무엇을 공제하는지 설명합니다. 그 둘을 같은 페이지에 놓는 곳은 없습니다 — 이것이 이사회가 회사가 임원이 과세받는 금액과 같은 공제를 받는다고 믿으며 차량 정책을 승인하는 이유입니다. 그렇지 않습니다. 두 금액은 서로 다른 규정에 따라 산정되며 거의 결코 같지 않습니다.
+
+RM280,000짜리 세단 한 대를 양 끝에서 본 예입니다.
+
+- **근로자:** 제13(1)(b)항에 따라 연간 RM15,000의 급여, 여기에 무상 연료 RM2,400이 더해지며, 한계세율로 과세되고 월별로 세금이 원천징수됩니다.
+- **고용주:** RM17,400의 공제가 아닙니다. 대신, 차량 원가가 RM150,000을 초과하므로 부칙 3의 제2(2)항에 따라 **RM50,000**으로 제한된 적격 설비 지출로서 — 초기공제와 연간공제를 통해 상각됩니다.
+
+같은 차량, 두 개의 제도, 두 수치 사이에는 아무런 관계가 없습니다.
+
+## 무엇이 현물급여에 해당하는가
+
+소득세법 1967(Income Tax Act 1967) 제13(1)(b)항은 **현금으로 전환할 수 없는**, 고용주가 제공한 급여나 편익을 근로소득 총액에 포함시킵니다. 현금으로 전환 가능한 항목은 제13(1)(a)항의 부가급여이며 대신 공개 예규(Public Ruling) 5/2019에 속합니다. 사택은 제13(1)(c)항에 따른 세 번째 범주로, 제32조에 자체 평가 규칙을 가집니다.
+
+이 구분은 실무상 중요합니다. 공개 예규 11/2019 부록 2는 **개인** 클럽 회원권을 제13(1)(a)항에 따라 과세하는 반면 — 입회비, 월간·연간 구독료, 기간 회원권 모두 — **법인** 회원권은 입회비에 대한 과세를 완전히 면하고 구독료에만 제13(1)(b)항에 따라 규정 가액으로 과세합니다.
+
+## 급여의 평가 — 두 가지 방법, 서로 다른 답
+
+제32(1)조는 정당하고 합리적인 평가를 요구합니다. 공개 예규 11/2019은 두 가지 인정되는 방법을 제시합니다.
+
+**공식 방법.** 자산의 원가를 부록 1의 규정 평균 수명으로 나눈 값 — 승용차는 8년, 커튼과 카펫은 15년, 주방 기기는 6년, 피아노는 20년입니다. 승용차의 경우 그 결과에 80%를 적용합니다.
+
+**규정 가액 방법.** LHDN의 표입니다.
+
+| 신차 시 승용차 원가 | 승용차의 연간 규정 급여 | 연료의 연간 규정 급여 |
+| --- | --- | --- |
+| RM50,000 이하 | RM1,200 | RM600 |
+| RM50,001 – RM75,000 | RM2,400 | RM900 |
+| RM75,001 – RM100,000 | RM3,600 | RM1,200 |
+| RM100,001 – RM150,000 | RM5,000 | RM1,500 |
+| RM150,001 – RM200,000 | RM7,000 | RM1,800 |
+| RM200,001 – RM250,000 | RM9,000 | RM2,100 |
+| RM250,001 – RM350,000 | RM15,000 | RM2,400 |
+| RM350,001 – RM500,000 | RM21,250 | RM2,700 |
+| RM500,001 이상 | RM25,000 | RM3,000 |
+
+그 밖의 규정 가액: **운전기사 월 RM600**, 정원사 연 RM3,600, 가사도우미 연 RM4,800입니다. 가구·비품은 반가구형 RM840, 에어컨·커튼·카펫 포함 시 RM1,680, 주방 기기를 포함한 완전 가구형 RM3,360입니다.
+
+이 선택은 중립적이지 않으며, 예규의 예시 11이 그 이유를 보여줍니다. 신차 원가 RM280,000의 6년 된 차량을 36,000km 주행하고 그중 12,000km가 사적 사용이며, 연료 RM8,400 중 RM1,200을 근로자가 상환한 경우:
+
+| | 공식 방법 | 규정 가액 |
+| --- | --- | --- |
+| 차량 | RM6,667 | RM7,500 |
+| 연료 | RM1,600 | RM2,400 |
+
+공식 방법은 사업 사용과 근로자 부담분에 대한 감액을 허용합니다. 규정 가액 방법은 둘 다 허용하지 않지만 — **5년 초과 차량에 대한 반액 감액**은 오직 이 방법만 허용하며, 제6.1.8항은 이를 공식 방법에서 명시적으로 배제합니다. 연료 가액은 결코 절반으로 줄지 않습니다.
+
+## 사택은 다른 계산입니다
+
+제32(2)조는 제13(1)(c)항 급여를 다음 중 **낮은 금액으로** 평가합니다.
+
+- 사택의 **확정 가액** — 고용주가 임차하는 경우 정상가격의 무가구 임대료, 그렇지 않으면 과세 표준가액 또는 그도 없으면 경제적 임대료; 그리고
+- **근로자의 제13(1)(a)항 총소득의 30%**.
+
+사택이 호텔, 호스텔이나 유사 시설이거나, 플랜테이션이나 산림에 있거나, 과세 가능 지역이지만 공적 지방세 대상이 아닌 경우, 가액은 대신 **제13(1)(a)항 소득의 3%**입니다.
+
+제32(3)(a)조는 용역이사(service director)가 아닌 **지배회사(controlled company)의 이사**에 대해 30% 상한을 완전히 없앱니다. 그 사람은 사택 사용 당시 여전히 이사인지 여부와 관계없이 전체 확정 가액에 대해 과세됩니다. 소유주 경영 유한책임회사(Sdn Bhd)의 이사들은 흔히 이를 놓칩니다.
+
+## 고용주 측면
+
+공개 예규 11/2019 제12.1항이 그 입장을 제시하며, 이는 근로자 과세와 대칭적이지 않습니다.
+
+**급여를 제공하기 위해 발생한 자본지출은 자본공제를 발생시키며**, 제42A(2)항 하위 조항이 적용되는 경우 산업용 건물 공제도 발생시킵니다. 비상업용 승용차의 경우 이는 RM50,000 상한, 또는 신차이고 원가가 RM150,000 이하인 경우 RM100,000을 의미합니다. 임차 차량의 경우, 제39(1)(k)조가 임차 전체 기간에 걸쳐 합산한 임차료에 동일한 상한을 적용합니다.
+
+**특정 급여는 대신 관보 고시 규칙에 따라 공제됩니다.** 고용주가 근로자에게 제공하는 급여 및 선물 공제 규칙 2009(Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009), P.U.(A) 153/2009는 근로자 명의든 고용주 명의든 브로드밴드, 유선전화, 휴대전화, 호출기의 월별 요금, 출퇴근 교통 수당이나 연료 카드, 그리고 기기 자체를 포함합니다. 별도의 1년 규칙인 P.U.(A) 31/2021은 2020년 과세연도에 근로자에게 제공된 스마트폰, 태블릿, 개인용 컴퓨터에 대한 공제를 허용했습니다.
+
+그 밖의 모든 것에 대한 일반 입장은 변함이 없습니다. 인건비는 총소득을 창출하는 데 전적으로 그리고 배타적으로 발생한 경우 제33(1)조에 따라 공제되며, 제39조의 공제 불가 항목은 어떻게 표시되든 공제되지 않습니다.
+
+## 근로자에게 면제되는 것
+
+공개 예규 11/2019 제8.2항은 면제되거나 과세 대상으로 간주되지 않는 급여를 열거하며, 다음을 포함합니다.
+
+- 치과 급여; 고용주가 제공하는 보육 시설; 무상 식음료; 승하차 지점 간 또는 출퇴근 교통;
+- SOCSO를 대신하여 외국인 근로자에게 의무적인 보험료, 그리고 근로자를 사고로부터 보장하는 단체 보험;
+- **휴가 여행권** — 한 역년에 말레이시아(Malaysia) 내 최대 3회, 또는 **RM3,000**을 상한으로 한 해외 여행권 1회이며, 직계 가족까지 확대됨;
+- 오직 고용 업무 수행에만 사용되는 급여;
+- **할인 가액 RM1,000까지의 할인된 고용주 제품**, 그리고 할인된 고용주 용역 전액 — 다만 그룹 회사가 아니라 고용주 자체 제품에만 해당;
+- 유선전화, 휴대전화, 호출기, PDA, 브로드밴드 각 자산 범주당 **한 대**와 그 대에 대한 요금.
+
+## 흔한 실수
+
+**공식 방법 계산에 5년 반액을 적용하는 것.** 제6.1.8항이 이를 배제합니다.
+
+**차량과 함께 연료 가액을 절반으로 줄이는 것.** 연료는 전액 규정 가액으로 유지됩니다.
+
+**차량의 현재 시장 가치를 사용하는 것.** 표는 부속품을 포함하되 은행 수수료, 보험료, 도로세를 제외한 **신차 시 원가**를 기준으로 합니다.
+
+**고용주가 근로자가 과세받는 것을 공제한다고 가정하는 것.** 고용주는 급여 가액의 공제가 아니라 상한이 적용된 원가에 대한 자본공제를 받습니다.
+
+**공용 운전기사를 과세 급여로 취급하는 것.** 운전기사가 특정 개인에게 배정되지 않고 그 공용 인력이 오로지 사업 목적으로만 존재하는 경우, 급여가 발생하지 않습니다. 전담 운전기사는 월 RM600입니다.
+
+**급여에 대한 월별 세금 원천징수를 잊는 것.** 제11항은 고용주가 소득 원천징수 규칙 1994(Income Tax (Deduction from Remuneration) Rules 1994), P.U.(A) 507/1994에 따라 급여가 제공되는 달에 그 급여에 대한 세금을 원천징수하도록 요구합니다. 급여가 이를 흡수하기에 부족한 경우, 분납으로 납부하려면 LHDN의 승인을 받아야 합니다.
+
+**제품 할인 면제를 그룹 회사로 확대하는 것.** 예규의 예시 19가 이를 부인합니다 — 재화는 고용주 자체의 것이어야 합니다.
+
+## 다음 단계
+
+차량 정책을 확정하기 전에 두 가지 평가 방법을 모두 계산하십시오. 더 저렴한 쪽은 사업 주행거리와 차량 연식에 달려 있으며, 그 선택은 고용주가 양식 EA(Form EA)에서 하는 것이기 때문입니다. 그런 다음 고용주 측면을 부칙 3과 P.U.(A) 153/2009에 비추어 별도로 확인하고, 두 수치가 일치해야 한다는 가정을 버리십시오.

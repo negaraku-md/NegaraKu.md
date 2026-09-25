@@ -1,0 +1,136 @@
+---
+topicId: "MY-TAX-0138"
+title: "말레이시아의 배당소득 2% 세금(2025년도부터)"
+seoTitle: "말레이시아 배당세: RM100,000 초과 소득에 2%"
+slug: "dividend-tax-malaysia"
+category: "taxation"
+subcategory: ["personal-tax"]
+summary: "2025년 과세연도부터 시행되는 말레이시아의 개인 배당소득에 대한 새로운 2% 세금 — 누구에게 부과되는지(말레이시아 배당이 연 RM100,000을 초과하는 거주 및 비거주 개인 주주), RM100,000 초과분에 대한 2% 세율, 금융법 2024가 추가한 정확한 규정(신설 제6(1)(r)항과 부칙 1 제XXII부, 부칙 6 제12B(2)항이 처음 RM100,000을 면제), 제외되는 것(EPF/KWSP, ASNB와 단위신탁, 면세 계정 및 회사 간 배당, 라부안, 협동조합, 외국 주식), 그리고 어떻게 신고·자진 산정되는지."
+
+tier: "2"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "2025년 과세연도부터, 개인 주주는 연 RM100,000을 초과하는 말레이시아 원천 배당소득에 대해 2%의 소득세를 납부합니다. 이 부과는 금융법 2024(Finance Act 2024)가 삽입한 소득세법 1967(Income Tax Act 1967)의 신설 제6(1)(r)항과 부칙 1 제XXII부에 있으며, 부칙 6 제12B(2)항이 처음 RM100,000을 면제합니다. 이는 주식을 직접 보유하든 명의인을 통해 보유하든 거주자와 비거주자 모두에게 적용됩니다. EPF, ASNB와 단위신탁, 면세 계정 이익, 라부안, 외국 주식으로부터의 배당은 제외됩니다. 연례 신고서에서 자진 산정됩니다."
+keyTakeaways:
+  - "From YA 2025, an individual's Malaysian dividend income above RM100,000 a year is taxed at 2% — under the new paragraph 6(1)(r) and Part XXII of Schedule 1 of the Income Tax Act 1967, added by the Finance Act 2024 (Act 862)."
+  - "Only the excess above RM100,000 is taxed: paragraph 12B(2) of Schedule 6 disregards the first RM100,000 of dividends. So RM250,000 of dividends is taxed on RM150,000 — about RM3,000."
+  - "Big carve-outs: EPF/KWSP, ASNB and other unit-trust distributions, dividends paid out of exempt-account or pioneer/reinvestment-allowance profits, Labuan, cooperatives and foreign-source dividends do not count. Inter-company dividends are untouched — the charge falls only on individuals."
+  - "It is self-assessed. You declare the dividend income in your annual return (Form BE/M) and pay the 2% with your final tax; where you also have other income, a formula in the gazetted 2025 Rules apportions your chargeable income to the dividend source."
+appliesTo: "Resident and non-resident individuals who receive more than RM100,000 of Malaysian dividends a year — large equity and REIT investors, and business owners who pay themselves via dividends from their Sdn Bhd; and advisers computing the new charge."
+
+faq:
+  - q: "Who has to pay Malaysia's 2% dividend tax?"
+    a: "Any individual who is a shareholder of a company — directly or through a nominee — and whose Malaysian-sourced dividends exceed RM100,000 in a year. Under the new paragraph 6(1)(r) of the Income Tax Act 1967 (inserted by section 4 of the Finance Act 2024), the charge applies to dividends 'deemed by virtue of section 14 to be derived from Malaysia'. The gazetted Rules apply it to both residents and non-residents, and it takes effect from year of assessment 2025. It is a charge on the individual shareholder — dividends flowing between companies are not caught."
+  - q: "How is the 2% calculated if I only have dividend income?"
+    a: "Part XXII of Schedule 1 charges 2% on every ringgit of the chargeable income in respect of dividend that exceeds RM100,000, and paragraph 12B(2) of Schedule 6 exempts the first RM100,000. So if your only income is RM250,000 of Malaysian single-tier dividends, the slice above the threshold is RM150,000 and the dividend tax is 2% × RM150,000 = RM3,000 (before any reliefs that may reduce chargeable income). Dividends of RM100,000 or less in the year attract no dividend tax at all."
+  - q: "How is it worked out when I also have a salary or business income?"
+    a: "The Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025 [P.U. (A) 148/2025] set a formula: chargeable income in respect of dividend = A / B × C, where A is your statutory income from dividends, B is your aggregate income, and C is your total chargeable income for the year. The 2% then applies to that dividend chargeable income above RM100,000, and the rest of your chargeable income is taxed at the normal Part I scale rates."
+  - q: "Are EPF, ASNB and unit-trust dividends taxed?"
+    a: "No. LHDN has clarified that distributions from the Employees Provident Fund (EPF/KWSP), the Armed Forces Fund Board (LTAT), Amanah Saham Nasional Bumiputera (ASNB) and other unit trusts are excluded — they are not taxable dividend income and are not even counted towards the RM100,000 threshold, so they do not need to be declared for this purpose. Foreign-source dividends are also outside the charge, because Part XXII only reaches dividends deemed under section 14 to be derived from Malaysia."
+  - q: "How and when do I declare and pay the dividend tax?"
+    a: "It is self-assessed. You report the dividend income in your annual return (Form BE for a resident, Form M for a non-resident) for year of assessment 2025 onwards, and pay the 2% together with your final tax on assessment — there is no withholding at source. From YA 2025, companies must also issue shareholders a dividend voucher showing the gross dividend, which supports your declaration."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-09-10
+published: null
+reviewDue: 2027-09-10
+revision: null
+revisions: []
+
+updated: 2026-09-10
+sources:
+  - title: "Finance Act 2024 (Act 862)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2592589_BI/Act%20862%20-FINANCE%20ACT%202024.pdf"
+    publisher: "Attorney General's Chambers of Malaysia"
+  - title: "Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025 [P.U. (A) 148/2025]"
+    publisher: "Attorney General's Chambers of Malaysia (Federal Government Gazette)"
+  - title: "Frequently Asked Questions (Individual)"
+    url: "https://www.hasil.gov.my/en/individual/others/frequently-asked-question-individual/"
+    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+
+entity: "Dividend Tax (Malaysia)"
+relations: []
+related: []
+keywords: ["dividend tax malaysia", "2% dividend tax malaysia", "dividend tax RM100000", "tax on dividend income malaysia", "individual dividend tax YA 2025", "Finance Act 2024 dividend tax", "section 6D dividend tax malaysia"]
+social:
+  hashtags:
+    - MalaysiaTax
+    - DividendTax
+    - PersonalTax
+    - LHDN
+    - YA2025
+    - InvestingMalaysia
+---
+
+수년간 "내 말레이시아 배당은 과세되는가?"에 대한 답은 명쾌하게 아니오였습니다 — 단일단계(single-tier) 제도는 이익을 회사 단계에서 한 번 과세하고 배당은 비과세로 지급했습니다. 2025년 과세연도부터는 대주주에게 더 이상 그것이 전부가 아닙니다. 말레이시아 배당이 연 RM100,000을 넘는 개인은 이제 초과분에 대해 2% 세금을 납부합니다.
+
+누구에게 부과되는지, 어떻게 계산되는지, 그리고 이 세금이 건드리지 않는 긴 배당 목록을 정확히 설명합니다.
+
+## 이 새로운 세금은 무엇이며, 어디에서 비롯되는가
+
+이 부과는 2024년 12월 31일 관보에 고시되어 **2025년 과세연도**부터 시행되는 **금융법 2024(Finance Act 2024, Act 862)**에 의해 추가되었습니다. 소득세법 1967(Income Tax Act 1967)에 세 개의 움직이는 부분이 있습니다.
+
+- 신설 부과 항목 — **금융법 2024 제4조**가 ITA에 **제6(1)(r)항**을 삽입하여, 개인 주주의 배당소득에 "부칙 1 제XXII부에 명시된 해당 세율로" 소득세를 부과합니다.
+- 세율 — (제16조가 삽입한) **부칙 1 제XXII부**는 **10만 링깃을 초과하는** "그러한 배당에 관한 과세소득의 매 링깃에 대해 2퍼센트의 세율로" 세금을 부과합니다.
+- 하한선 — (제17조가 삽입한) **부칙 6 제12B(2)항**은 **RM100,000 이하**의 배당을 면제로 취급하여, 세금은 오직 초과분에만 적용됩니다.
+
+요컨대: 이를 수령하는 개인에 대해 **연 RM100,000을 초과하는 말레이시아 배당소득에 2%**입니다.
+
+## 누구에게 적용되는가
+
+이 부과는, 주식을 **직접 또는 명의인을 통해** 보유하든, "제14조에 의해 말레이시아에서 도출된 것으로 간주되는" 배당에 대해 **회사의 주주인 개인**에게 미칩니다. **상장 및 비상장** 회사 배당 모두 포함됩니다.
+
+이는 거주자와 비거주자에게 동일하게 적용됩니다 — 관보 고시된 2025년 규칙은 각각에 대해 별도의 계산 항목을 둡니다. 그러나 회사에는 과세하지 *않습니다*. 그룹 내 **회사 간** 이전되는 배당은 제6(1)(r)항 밖에 완전히 있으므로, 단일단계 회사 간 분배는 면세로 남습니다. 이는 개인 주주에 대한 세금이며, 큰 배당 흐름을 가진 이들을 정면으로 겨냥합니다.
+
+## 2%는 어떻게 계산되는가
+
+방식은 배당이 유일한 소득인지에 따라 다릅니다.
+
+**배당이 유일한 소득인 경우**, 계산은 간단합니다. 처음 RM100,000은 면제되고, 나머지에 2%가 적용됩니다.
+
+| 그해 귀하의 말레이시아 배당 | RM100,000 초과 금액 | 2% 배당세 |
+| --- | --- | --- |
+| RM80,000 | RM0 | RM0 |
+| RM100,000 | RM0 | RM0 |
+| RM250,000 | RM150,000 | RM3,000 |
+| RM1,000,000 | RM900,000 | RM18,000 |
+
+(과세소득을 줄이는 공제가 이 수치를 낮출 수 있습니다 — 표는 기본 산식을 보여줍니다.)
+
+**급여나 사업소득도 있는 경우**, **소득세(개인의 배당에 관한 과세소득 결정) 규칙 2025(Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025) [P.U. (A) 148/2025]**가 배당 원천에 과세소득을 산식으로 안분합니다.
+
+> 배당에 관한 과세소득 = **A ÷ B × C**
+
+여기서 **A**는 배당으로부터의 법정소득, **B**는 종합소득, **C**는 그해 총 과세소득입니다. 2%는 그 배당 과세소득 중 RM100,000을 초과하는 부분에 부과되고, 나머지 과세소득은 통상적인 제1부 누진세율로 과세됩니다. (합산 과세하는 부부의 경우, 종합소득에 배우자의 소득이 포함됩니다.)
+
+## 제외되는 것
+
+여기서 대부분의 사람들은 자신이 영향을 받지 않음을 알게 됩니다. 다음은 2% 배당세를 **부담하지 않으며**, 여럿은 RM100,000 기준에도 계산되지 않습니다.
+
+| 제외 | 이유 |
+| --- | --- |
+| **EPF / KWSP, LTAT, ASNB와 그 밖의 단위신탁 분배** | LHDN은 이들이 제외되며 이 목적으로 신고할 필요가 없음을 명확히 했습니다. |
+| **외국원천 배당** | 제XXII부는 제14조에 따라 **말레이시아에서 도출된 것으로 간주되는** 배당에만 미칩니다. |
+| 그해 **RM100,000 이하의 배당** | 부칙 6 제12B(2)항에 따라 면제. |
+| **회사 간 배당** | 제6(1)(r)항은 오직 *개인*에게만 부과합니다 — 회사 간 단일단계 배당은 면세로 남습니다. |
+| **면세 계정 / 개척자 / 재투자공제 이익, 그리고 면세 해운 이익으로부터의 배당** | 이들은 이미 면세 배당으로, 제XXII부 부과 밖에 있습니다. |
+| **협동조합과 폐쇄형 펀드의 분배** | 배당세 범위에서 제외. |
+| **라부안(Labuan) 법인으로부터의 배당** | 부과 밖. |
+
+실무적 결론: ASB/ASNB, 단위신탁, 또는 EPF 잔액을 보유한 일반 저축자는 영향을 받지 않으며, 직접 주식 투자자조차 단일 연도에 말레이시아 배당이 RM100,000을 넘기 전까지는 아무것도 내지 않습니다.
+
+## 어떻게 신고·산정되는가
+
+**원천징수는 없습니다.** 배당세는 **자진신고**로 운영됩니다. 2025년도부터 연례 신고서 — 거주자는 **양식 BE**, 비거주자는 **양식 M** — 에 말레이시아 배당소득을 보고하고, 부과 시 최종 세금과 함께 2%를 납부합니다. 이를 뒷받침하기 위해, 2025년도부터 배당을 지급하는 회사는 각 주주에게 총액을 명시한 **배당 전표(dividend voucher)**를 발급해야 하며, 이로써 무엇을 신고할지에 대한 기록을 갖게 됩니다.
+
+## 다음 단계
+
+말레이시아 배당이 연 RM100,000에 넉넉히 못 미치거나 주로 EPF, ASNB, 단위신탁에서 나온다면, 이 변화는 귀하에게 영향을 미치지 않습니다. 상당한 직접 주주이거나 — 자기 회사에서 배당으로 이익을 가져가는 사업주라면 — 그해 모든 보유분에 걸친 총 말레이시아 배당을 추적하기 시작하고, 새 배당 전표를 보관하며, RM100,000 초과분에 대한 2%를 2025년도 신고에 반영하십시오. 계산이 P.U. (A) 148/2025 산식을 통해 다른 소득과 상호작용하므로, 소득이 혼합된 경우 세무 대리인과 정확한 수치를 확인하고, 신고 전에 LHDN의 최신 지침을 확인하십시오.

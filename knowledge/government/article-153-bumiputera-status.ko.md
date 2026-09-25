@@ -1,0 +1,161 @@
+---
+topicId: MY-GOV-0073
+title: "제153조: 말레이인과 부미푸트라의 특별한 지위, 그리고 다른 종족의 정당한 이익"
+seoTitle: "연방헌법 제153조: 무엇을 규정하는가"
+slug: "article-153-bumiputera-status"
+category: "government"
+subcategory: ["constitution"]
+summary: "연방헌법(Federal Constitution) 제153조는 말레이인(Malays)과 사바(Sabah) 및 사라왁(Sarawak) 원주민의 특별한 지위, 그리고 다른 종족의 정당한 이익을 보호할 책임을 양 디페르투안 아공(국왕)에게 지웁니다. 이 글은 그 조문이 무엇을 규정하고 무엇을 규정하지 않는지를 중립적으로 서술합니다."
+
+tier: "S"
+mode: "narrative"
+contentType: "law"
+sensitivity: "race"
+
+answer: "연방헌법(Federal Constitution) 제153조는 양 디페르투안 아공(국왕)이 말레이인(Malays)과 사바(Sabah) 및 사라왁(Sarawak) 원주민의 특별한 지위를 보호하고, 동시에 다른 종족의 정당한 이익을 보호할 책임을 진다고 규정합니다. 이 조문은 연방 공직, 장학금 및 교육 편의, 그리고 연방 법률이 요구하는 사업 허가·면허에 대하여 '그가 합리적이라고 여기는 비율'의 유보를 허용합니다. 이 조문에는 또한 한계가 담겨 있습니다 — 이미 누리고 있는 권리·직위·장학금·허가·면허를 박탈할 수 없으며, 오로지 그러한 유보를 위한 목적만으로 사업을 제한할 수 없습니다. '부미푸트라(Bumiputera)'라는 표현은 제153조에 사용되지 않으며, 이 조문은 '말레이인과 사바 및 사라왁 각 주의 원주민'을 언급합니다."
+keyTakeaways:
+  - "Perkara 153(1): Yang di-Pertuan Agong bertanggungjawab melindungi kedudukan istimewa orang Melayu dan anak negeri Sabah dan Sarawak serta kepentingan sah kaum lain"
+  - "Perkara 153(2): penyimpanan 'suatu perkadaran yang difikirkan munasabah' bagi jawatan perkhidmatan awam persekutuan, biasiswa dan kemudahan pendidikan, serta permit/lesen perniagaan di bawah undang-undang persekutuan"
+  - "Perkara 153(4),(5),(7),(8),(9): had yang melindungi hak sedia ada — tiada pelucutan jawatan, biasiswa, permit atau lesen yang sudah dinikmati; tidak menjejaskan Perkara 136 (layanan saksama); dan tidak boleh menyekat perniagaan semata-mata untuk penyimpanan"
+  - "Perkataan 'Bumiputera' tidak wujud dalam teks Perkara 153; Perkara itu menyebut 'orang Melayu' (ditakrif dalam Perkara 160(2)) dan 'anak negeri' Sabah dan Sarawak (ditakrif dalam Perkara 161A(6), dengan senarai kaum peribumi Sarawak dalam Perkara 161A(7))"
+  - "Perkara 38(5): Majlis Raja-Raja hendaklah dirundingi sebelum apa-apa perubahan dasar yang menyentuh tindakan pentadbiran di bawah Perkara 153"
+  - "Perkara 159(5): pindaan kepada Perkara 153 tidak boleh diluluskan tanpa persetujuan Majlis Raja-Raja; Perkara 10(4) membenarkan Parlimen mengharamkan persoalan terhadap perkara yang dilindungi Perkara 153"
+appliesTo: "Sesiapa yang mahu memahami secara tepat apa yang diperuntukkan oleh Perkara 153 — pelajar, penyelidik, wartawan dan pembaca umum — dan bukan tafsiran ringkas yang lazim beredar."
+
+faq:
+  - q: "Adakah Perkara 153 menetapkan kuota tetap untuk orang Melayu?"
+    a: "Tidak. Perkara 153(2) menyebut penyimpanan 'suatu perkadaran yang difikirkan munasabah' (such proportion as he may deem reasonable) oleh Yang di-Pertuan Agong, bukan angka peratusan yang ditetapkan dalam Perlembagaan itu sendiri."
+  - q: "Adakah perkataan 'Bumiputera' terdapat dalam Perkara 153?"
+    a: "Tidak. Teks Perkara 153 menyebut 'orang Melayu dan anak negeri mana-mana Negeri Sabah dan Sarawak'. 'Bumiputera' ialah istilah dasar dan pentadbiran, bukan istilah perlembagaan dalam Perkara ini."
+  - q: "Adakah Perkara 153 terpakai kepada perkhidmatan awam negeri?"
+    a: "Perkara 153(2) merujuk kepada jawatan dalam perkhidmatan awam 'selain perkhidmatan awam sesuatu Negeri', iaitu perkhidmatan awam persekutuan, dan kepada biasiswa serta kemudahan yang diberikan oleh Kerajaan Persekutuan."
+  - q: "Bolehkah seseorang bukan Melayu dilucutkan jawatan atau permit kerana Perkara 153?"
+    a: "Perkara 153(4), (7) dan (8) menyatakan bahawa Perkara itu tidak boleh melucutkan seseorang daripada jawatan awam, biasiswa, hak, keistimewaan, permit atau lesen yang sudah dinikmati atau dipegangnya."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "stale"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+revision: 0
+verificationNeeded:
+  - "Sahkan status Perkara 161A(7) pada tarikh baca: pindaan Perlembagaan yang berkuat kuasa pada Februari 2022 dilaporkan meminda Perkara 161A(6) dan memansuhkan Perkara 161A(7), membenarkan Sarawak menetapkan takrif peribumi melalui undang-undang Negeri. Artikel ini memetik Cetakan Semula 15 Oktober 2020 yang masih mengandungi senarai kaum dalam fasal (7); semak sama ada rujukan perlu dikemas kini kepada teks terkini."
+  - "Sahkan padanan istilah moden: 'Sea Dayak' = Iban dan 'Land Dayak' = Bidayuh disemak sebagai padanan lazim, bukan istilah dalam teks perlembagaan itu sendiri."
+  - "Semakan manusia untuk keseluruhan artikel Tier S (sensitiviti: kaum) sebelum penerbitan, termasuk pengesahan setiap petikan fasal terhadap teks rasmi terkini."
+revisions:
+  - revision: 0
+    date: 2026-08-01
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-01
+sources:
+  - title: "Federal Constitution (Reprint — As at 15 October 2020) — Article 153; and Articles 8, 38(5), 89, 136, 159(5), 160(2), 161A, 10(4)"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
+    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    date: "2020-10-15"
+  - title: "Federal Constitution — Portal Perundangan Persekutuan (Federal Legislation Portal)"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
+    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+
+entity: "Perkara 153, Perlembagaan Persekutuan Malaysia"
+relations:
+  - { rel: "part-of", to: "federal-constitution" }
+  - { rel: "related-to", to: "majlis-raja-raja" }
+  - { rel: "related-to", to: "constitutional-amendment" }
+  - { rel: "related-to", to: "new-economic-policy" }
+  - { rel: "related-to", to: "ma63" }
+related: ["federal-constitution", "majlis-raja-raja", "constitutional-amendment", "new-economic-policy", "ma63"]
+keywords: ["Perkara 153", "Article 153", "kedudukan istimewa orang Melayu", "special position of the Malays", "Bumiputera", "anak negeri Sabah Sarawak", "kepentingan sah kaum lain", "perkadaran yang munasabah", "kuota Perlembagaan Malaysia", "Perkara 153 Perlembagaan Persekutuan", "takrif orang Melayu Perkara 160"]
+---
+
+많은 사람이 제153조를 인용하지만, 그 조항을 실제로 읽어 본 사람은 더 적습니다. 어떤 이는 이를 "말레이인의 특권"이라 부르고, 어떤 이는 "쿼터"라 부르며, 어떤 이는 "차별"이라 부릅니다 — 그러나 이 조문의 실제 문언은 그 어떤 표현도 사용하지 않습니다. 이 조문은 하나의 책임을 부과하고, 몇 가지 한계를 정하며 — 좀처럼 언급되지 않는 점으로 — 동시에 보호되어야 할 두 집단을 명명합니다.
+
+이 글은 연방헌법(Federal Constitution) 제153조에 **문언으로 기재된** 바를, 법무장관실 포털의 2020년 10월 15일 재인쇄본에 따라 서술합니다. 이 글은 서술적이며 중립적입니다. 즉, 사실과 여러 입장을 제시하되 어느 편도 들지 않습니다.
+
+## 제153조는 실제로 무엇을 규정하는가?
+
+제153조는 그 전체 설계를 정하는 하나의 문장으로 시작합니다. 제(1)항은 "이 조문의 규정에 따라, 말레이인과 사바 및 사라왁 각 주의 원주민의 특별한 지위 **그리고 다른 종족들의 정당한 이익**을 보호하는 것이 양 디페르투안 아공의 책임이다"라고 명시합니다.
+
+그 첫 문장에는 두 가지 중요한 점이 담겨 있습니다.
+
+- 그 책임은 **양방향적**입니다 — 말레이인과 원주민의 특별한 지위뿐 아니라, *다른 종족의 정당한 이익*도 같은 항에서 언급됩니다.
+- 그것은 **양 디페르투안 아공**의 책임이며, 그는 제40조에 따라 내각(Cabinet)의 조언에 따라 그 기능을 수행합니다. 제153조 제(2)항 자체가 그 기능이 제40조를 조건으로 한다고 명시합니다.
+
+## 한눈에 보기
+
+| | |
+| --- | --- |
+| 위치 | 연방헌법 제12부 제153조 |
+| 책임 주체 | 양 디페르투안 아공(제40조에 따라 행동) |
+| 보호 대상 | 말레이인; 사바 및 사라왁 원주민; **그리고** 다른 종족의 정당한 이익 |
+| 유보되는 것 | 연방 공직, 장학금 및 교육 편의, 그리고 연방 법률상의 사업 허가·면허에 대한 "그가 합리적이라고 여기는 비율" |
+| 주요 한계 | 제(4)·(5)·(7)·(8)·(9)항 — 기존 권리의 박탈 없음; 제136조를 해치지 않음; 오로지 유보만을 위한 사업 제한 없음 |
+| 보호 장치 | 제38조 제(5)항(통치자 회의 협의); 제159조 제(5)항(개정에 대한 통치자 회의 동의); 제10조 제(4)항(문제 제기 금지) |
+
+## 누가 보호받는가 — 그리고 "부미푸트라"는 이 조문에 있는가?
+
+흔한 오해 하나는 제153조를 "부미푸트라(Bumiputera)"라는 표현과 동일시하는 것입니다. 제153조의 문언은 "부미푸트라"라는 표현을 전혀 **사용하지 않습니다**. 이 조문은 헌법의 다른 곳에서 정의된 두 집단을 언급합니다.
+
+- **말레이인(orang Melayu)** — 제160조 제(2)항은 "말레이인(Malay)"을 이슬람교를 믿고, 습관적으로 말레이어를 사용하며, 말레이 관습을 따르고, 특정한 출생 또는 거주 요건을 충족하는 사람(독립일 이전에 연방 또는 싱가포르에서 출생했거나 그러한 사람의 후손)으로 정의합니다.
+- **사바 및 사라왁의 원주민(anak negeri)** — 제161A조 제(6)항은 두 주의 "원주민(native)"을 정의하며, 사라왁의 경우 그 정의는 제161A조 제(7)항에 사라왁 토착민으로 **열거된 종족들**을 가리킵니다. 제(7)항 문언에서 사용된 헌법상의 표현에는 "Sea Dayak"(오늘날 흔히 이반(Iban)으로 알려짐)과 "Land Dayak"(오늘날 비다유(Bidayuh))이 포함되며, 그 밖에 부키탄(Bukitan), 비사야(Bisayah), 두순(Dusun), 카얀(Kayan), 크냐(Kenyah), 믈라나우(Melano), 무룻(Murut), 프난(Penan) 등이 있습니다.
+
+"부미푸트라"는 신경제정책(New Economic Policy)과 같은 정책 문서에서 사용되는 **정책 및 행정** 용어이지, 제153조의 문언에 나타나는 표현이 아닙니다. 제89조(반도의 말레이 보류지)와 제161A조 제(5)항(사바 및 사라왁의 원주민 토지 보류지)은 토지에 관한 별개의 규정이며, 제153조의 일부가 아닙니다.
+
+## 이 조문 아래에서 무엇이 가능하고 무엇이 불가능한가?
+
+제153조 제(2)항은 세 가지 유보 영역을 열거하며, 제153조 제(8A)항이 하나를 더 추가합니다.
+
+- **연방 공직** — 제(2)항은 "어느 주의 공무원 조직을 제외한" 공무원 조직의 직위를 언급합니다. 이는 주 공무원 조직에는 적용되지 않습니다.
+- 연방정부가 제공하는 **장학금, 학자금 보조(exhibitions), 교육 또는 훈련 편의.**
+- 연방 법률이 그 허가나 면허를 요구하는 경우, 무역이나 사업을 영위하기 위한 **허가와 면허.**
+- **대학과 대학의 정원** — 제(8A)항은 정원이 자격을 갖춘 지원자 수보다 적을 때, 양 디페르투안 아공이 말레이시아 교육수료증(Sijil Pelajaran Malaysia) 이후 과정의 정원 가운데 일정 비율의 유보를 지시할 수 있도록 허용합니다.
+
+사용되는 척도는 고정된 수치가 아닙니다. 제(2)항은 "그가 **합리적이라고 여기는** 비율"(*such proportion as he may deem reasonable*)을 언급합니다. 헌법은 특정 백분율을 정하지 않습니다.
+
+이 조문에는 또한 명확한 한계가 담겨 있습니다.
+
+- **제(4)항:** 그 기능을 수행함에 있어 양 디페르투안 아공은 어떤 사람이 보유한 공직이나 그가 누리고 있는 장학금 또는 교육 편의의 계속을 박탈할 수 **없습니다**.
+- **제(5)항:** 이 조문은 제136조의 규정, 즉 연방 조직 내에서 동일 등급에 있는 모든 사람은 종족에 관계없이 공정하게 대우받아야 한다는 규정을 **약화시키지 않습니다**.
+- **제(7)항과 제(8)항:** 이 조문의 어떠한 내용도 어떤 사람이 이미 취득했거나 누리고 있는 권리·특권·허가·면허를 박탈하거나, 합리적으로 예상되는 갱신을 방해할 수 없습니다.
+- **제(9)항:** 이 조문은 말레이인과 사바 및 사라왁 원주민을 위한 유보만을 목적으로 사업이나 무역을 제한할 권한을 의회(Parliament)에 **부여하지 않습니다**.
+
+## 제153조는 어떻게 보호되고 점검되는가?
+
+제153조는 헌법 내의 여러 다른 장치에 의해 결속되어 있습니다.
+
+- **통치자 회의 협의.** 제38조 제(5)항은 제153조에 따른 행정 조치에 영향을 미치는 어떠한 정책 변경이 이루어지기 전에 통치자 회의(Majlis Raja-Raja, Conference of Rulers)와 협의하도록 요구합니다.
+- **개정에 대한 동의.** 제159조 제(5)항은 제153조를, 통치자 회의의 동의 없이는 그 개정이 통과될 수 없는 규정들 가운데 하나로 열거합니다 — 헌법 개정에 통상 요구되는 3분의 2 다수에 더하여 요구되는 것입니다.
+- **문제 제기 금지.** 제10조 제(4)항은 의회가 안보나 공공질서를 이유로 표현의 자유에 제한을 가할 때, (여러 대상 가운데) 제153조에 의해 정해지거나 보호되는 어떤 사안·권리·지위·직위·특권·주권에 대하여 — 그 시행에 관한 문제 제기는 예외로 하고 — 문제 제기를 금지하는 법률을 통과시킬 수 있도록 허용합니다.
+
+제153조와 제8조(평등) 사이의 관계도 자주 제기됩니다. 제8조 제(1)항은 모든 사람이 법 앞에 평등하다고 명시하고, 제8조 제(2)항은 종교·종족·혈통·출생지 또는 성별을 이유로 한 차별을 금지합니다 — **"이 헌법에 의해 명시적으로 허용된 경우를 제외하고"**. 제153조는 그렇게 명시적으로 허용된 규정 가운데 하나입니다.
+
+## 흔한 오해
+
+**"제153조는 30%(또는 다른 수치)의 쿼터를 정한다."** 이 조문의 문언에는 어떠한 수치도 담겨 있지 않으며, "그가 합리적이라고 여기는 비율"을 언급합니다. 흔히 인용되는 수치 목표는 제153조의 문언이 아니라 신경제정책(New Economic Policy)과 같은 **정책** 문서에서 나온 것입니다.
+
+**"제153조는 말레이인만을 보호한다."** 제(1)항은 같은 문장에서 말레이인, 사바 및 사라왁 원주민, **그리고** 다른 종족의 정당한 이익을 명명합니다.
+
+**"제153조는 비말레이인이 직위나 면허를 박탈당할 수 있게 한다."** 제(4)·(7)·(8)항은 이미 누리고 있거나 보유한 권리·직위·장학금·허가·면허의 박탈을 구체적으로 금지합니다.
+
+**"제153조는 개정될 수 없다."** 개정될 수 있으나, 추가 조건 — 단순한 3분의 2 표결이 아니라 제159조 제(5)항에 따른 통치자 회의의 동의 — 을 조건으로 합니다.
+
+**"'부미푸트라'는 제153조의 표현이다."** 그 표현은 제153조에 나타나지 않으며, 이 조문은 "말레이인"과 "원주민"을 사용합니다.
+
+## 서로 다른 견해
+
+제153조는 공개적으로 가장 많이 논의되는 헌법 규정 가운데 하나이며, 그에 대한 견해는 다양합니다. 일부는 이 조문이 역사적 보장과 사회경제적 균형의 토대로서 헌법이 특별히 보호하는 것이라는 점을 강조합니다. 다른 일부는 제8조의 평등 요소와 제153조 자체에 담긴 한계를 강조하며, "합리적인 비율"이 어떻게 시행되어야 하는지를 문제 삼습니다.
+
+이 글은 어느 입장도 지지하지 않습니다. 사실로 서술할 수 있는 것은, 이 조문의 설계 자체가 두 요소 — 특별한 지위와 다른 종족의 정당한 이익 — 를 하나의 규정 안에 결합하고, 그 주위에 한계와 보호 장치를 두었다는 점입니다.
+
+## 다음으로 볼 것
+
+제153조가 전체 문서 안에서 어디에 자리하는지 보려면 [말레이시아 연방헌법](/ms/law/federal-constitution)을 참고하십시오. 제38조 제(5)항에 따라 협의되고 제159조 제(5)항에 따라 동의가 요구되는 통치자 회의의 역할은 [통치자 회의(Majlis Raja-Raja)](/ms/government/majlis-raja-raja)를 참고하십시오. 제153조를 보호하는 개정 요건은 [연방헌법 개정](/ms/law/constitutional-amendment)을 참고하십시오. "부미푸트라"라는 용어와 수치 목표가 사용되는 정책 맥락은 [신경제정책](/ms/malaysia/new-economic-policy)을 참고하십시오. 사바 및 사라왁 원주민의 지위는 [MA63](/ms/malaysia/ma63)을 참고하십시오.
+
+---
+
+*이 글은 그 주제가 특별한 지위와 종족 간 관계를 다루기 때문에 NegaraKu.md의 편집 정책상 민감(종족) 등급으로 분류됩니다. 이 글은 서술적이고 중립적으로 유지되도록 — 제153조의 문언과 관련 규정을 공표된 그대로, 어느 편도 들지 않고 서술하도록 — 작성되었으며, 공개에 앞서 인간 검토를 기다리는 초안으로 보류되어 있습니다.*
