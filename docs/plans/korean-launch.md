@@ -3,7 +3,7 @@
 _6th public language, after ms · en · zh · ta · ja. Mission: "let the world know about Malaysia" — in Korean too._
 _Reuses the Japanese pipeline end-to-end. Authoritative checklist: [[negaraku-language-launch-checklist]]. Terminology pattern: [[negaraku-ja-terminology-decisions]]._
 
-_Status: **Phase 0 + Phase 1 DONE (2026-09-25)**, Phase 2 (corpus) next. Owner tags: **[me]** = Claude, **[you]** = user (accounts/approvals only)._
+_Status: **Phase 0 + 1 + 2 DONE** (Phase 2 corpus complete 2026-09-26 — 1073/1073, build green, stamped; UNPUSHED). Next: Phase 2 follow-ups (corrective field-pass + currency normalization) then Phase 3 (open launch — needs [you] reviewer name). Owner tags: **[me]** = Claude, **[you]** = user (accounts/approvals only)._
 
 ---
 
@@ -50,11 +50,21 @@ The reliable finder: any `src` file where the `ta`/`ja` token count exceeds `ko`
 - [ ] Grep sweep for any remaining `['ms','en','zh','ta','ja']` / `ms|en|zh|ta|ja` hardcodes and add `ko`.
 - [ ] **Accepted residuals** (never localized for ta/ja either — leave unless we decide otherwise): `llms.ts` INTRO, `build-og.mjs` L helper (OG labels render EN), `scan.py`/`flag-needs-update.mjs` LOCALES, `build-changelog.mjs` titleI18n. `content.config.ts` masterLanguage enum stays ms/en/zh (correct — translations are never masters).
 
-## Phase 2 — Corpus translation (the bulk)
-- [ ] Build the translate file-list = **live masters only** — EXCLUDE any master with `status: archived` (the retired-duplicate trap that made ja read 1094 vs 1073; do this up front).
-- [ ] Translate all 1,073 topics → `.ko.md` via **multi-agent waves** (reuse `translate.mjs` / `phase2-translate`), applying the Phase-0 terminology decisions for consistency.
-- [ ] Preserve frontmatter correctly: `translationStatus`/`sourceContentHash` are DERIVED — run `npm run translate:stamp` after each wave (never hand-set); `predev`/`prebuild` auto-flip stale.
-- [ ] Guard rails from past launches: no inner ASCII quotes in double-quoted frontmatter scalars (fails `astro build` though it passes validate — [[negaraku-yaml-inner-quotes-gotcha]]); run a strict js-yaml + full build before pushing a batch.
+## Phase 2 — Corpus translation (the bulk) ✅ DONE 2026-09-26 (commits …→5931bb81, local, UNPUSHED)
+**1073/1073 `.ko.md` created; 0 gaps; validate 0 errors; full build green (9787 pages, 6 langs incl ko); all 1073 stamped `in-sync`.** 21 `status: archived` masters correctly skipped (1094 total masters − 21 = 1073). Done via multi-agent waves over several runs.
+- [x] Build the translate file-list = **live masters only** — EXCLUDE `status: archived`.
+- [x] Translate all 1,073 topics → `.ko.md` via multi-agent waves, applying Phase-0 terminology decisions.
+- [x] `npm run translate:stamp` run (1074 stamped in-sync); freshness fields DERIVED not hand-set.
+- [x] Guard rails held: 0 YAML inner-quote build failures; full build passed before any push.
+
+### ⚠️ Phase 2 follow-ups still OUTSTANDING (do before/with Phase 3 publish)
+- [ ] **Corrective field-pass** — several waves got an early 5-field-only instruction and left some translatable PROSE_KEYS in the master language. Authoritative translatable set (from `translate.mjs` PROSE_KEYS): title, seoTitle, socialTitle, summary, answer, keyTakeaways, faq, appliesTo, verificationNeeded, obligations. Known-affected:
+  - **taxation** + **arts-culture** — missing keyTakeaways/faq/appliesTo/verificationNeeded/obligations.
+  - **business** — missing verificationNeeded + obligations prose.
+  - The earlier **Wave-A** categories (~522 files: business, taxation, company-secretary, malaysia, law, government, employment, arts-culture, technology) — re-audit each for the missing fields.
+  - Method: scan ko vs master for these keys still in English; re-translate in place; re-stamp.
+- [ ] **Currency-convention normalization** — inconsistent across batches: some ko files convert RM magnitudes to Korean 억/조/만 (food-lifestyle, companies, some older files), others keep "RM240 million"/"RM1.2 trillion" verbatim (business, energy, environment, cost-of-living, sports, etc.). Pick ONE convention corpus-wide and normalize. Values are faithful either way — this is style, not correctness.
+- [ ] **Reviewer spot-check** — currency magnitudes in food-lifestyle (durian, kopitiam-mamak, pasar-malam, shopping-malls) + companies where 억/조 conversion happened (scaling-slip risk, self-corrected by agents).
 
 ## Phase 3 — Open launch & publish
 - [ ] Publish the `ko` corpus (`publish-translations.mjs`). Non-sensitive publish freely; **sensitive articles (~204, mirroring ja) need a named human reviewer** — [you] confirm the reviewer (ja used `ashton-tan`); the scan blocks reviewed/published sensitive with a null reviewer.
