@@ -1,0 +1,220 @@
+---
+topicId: MY-SPT-0004
+title: "말레이시아의 축구: FAM, 하리마우 말라야, 그리고 100년의 말레이시아 컵"
+seoTitle: "말레이시아 축구: FAM, 하리마우 말라야와 말레이시아 컵"
+slug: "football-in-malaysia"
+category: "sports"
+subcategory: ["football"]
+summary: "말레이시아 축구의 역사와 구조 — 1921년에 시작되어 훗날 군함 HMS Malaya와 연결된 말레이시아 컵, 주무 기관 FAM, 국가대표팀 하리마우 말라야, 그리고 오늘날 이 종목의 위상까지."
+
+tier: "1"
+mode: "narrative"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "축구는 말레이시아에서 가장 인기 있는 스포츠이며, 그 세 기관은 서로 얽혀 있다. 말레이시아 컵 — 1921년 Piala Malaya로 시작해 1933년 군함 HMS Malaya를 기려 Piala HMS Malaya로 개칭되었고 1967년 Piala Malaysia가 됨 — 은 아시아에서 가장 오래된 대회 중 하나이다. 말레이시아 축구 협회(Football Association of Malaysia, FAM)는 이 종목을 관장하는 주무 기관으로, 아시아축구연맹(AFC) 회원이자 아세안축구연맹(AFF)의 창립 회원 중 하나이다. 국가대표팀 하리마우 말라야는 1970년대에 전성기를 맞았고 2010년 처음으로 AFF 스즈키컵을 우승했다."
+keyTakeaways:
+  - "말레이시아 컵은 1921년 Piala Malaya로 시작되었으며; 1933년 (공모금으로 건조된) 영국 군함 HMS Malaya를 기려 Piala HMS Malaya로 명명되었고, 1967년 Piala Malaysia로 개칭되었다"
+  - "1921년 첫 결승에서 싱가포르가 슬랑오르를 2-1로 꺾었다"
+  - "슬랑오르가 33회 우승으로 가장 성공한 팀이며, 싱가포르(24회), 페락(8회), 크다(5회)가 뒤를 잇는다"
+  - "대회는 제2차 세계대전 기간인 1942년부터 1947년까지 중단되었다"
+  - "FAM은 말레이시아 축구의 주무 기관으로 클라나자야 Wisma FAM에 본부를 두며, AFC 회원이자 AFF(1984년 1월 31일 자카르타에서 설립)의 창립 회원 중 하나이다"
+  - "하리마우 말라야는 1972년 뮌헨 올림픽에 진출했고 1974년 테헤란 아시안게임에서 동메달을 획득했다"
+  - "말레이시아는 K. Rajagopal 감독 아래 2010년 AFF 스즈키컵을 우승했으며, 인도네시아를 합계 4-2로 꺾었다"
+  - "2026년 6월 FIFA 갱신 기준으로 말레이시아는 세계 136위이다"
+appliesTo: "말레이시아 축구의 역사, 주무 기관, 구조를 이해하고자 하는 모든 이 — 팬, 학생, 스포츠 연구자, 문화 연구자."
+
+faq:
+  - q: "말레이시아 컵은 언제 시작되었고 그 이름은 어디에서 왔는가?"
+    a: "1921년 Piala Malaya로 시작되었으며, 첫 결승에서 싱가포르가 슬랑오르를 2-1로 꺾었다. 군함과의 연결은 그 뒤에 생겼다: 1933년 이 대회는 공모금으로 건조된 영국 군함 HMS Malaya를 기려 Piala HMS Malaya로 개칭되었다. 트로피는 1967년 Piala Malaysia로 교체되었고, 그 이름이 오늘날까지 쓰인다."
+  - q: "말레이시아 컵을 가장 많이 우승한 팀은 어디인가?"
+    a: "슬랑오르가 33회 우승으로 가장 성공한 팀이며, 싱가포르(24회), 페락(8회), 크다(5회)를 크게 앞선다. 싱가포르는 1994년 말레이시아 리그에서 탈퇴하기 전 마지막으로 말레이시아 컵 캠페인에 출전했다."
+  - q: "FAM은 무엇이며 말레이시아의 축구는 누가 관장하는가?"
+    a: "말레이시아 축구 협회(Football Association of Malaysia, FAM)가 전국 단위에서 이 종목을 관장하는 주무 기관이다. 본부는 프탈링자야 클라나자야의 Wisma FAM에 있으며, 아시아축구연맹(AFC) 회원이자 아세안축구연맹(AFF)의 창립 회원 중 하나이다."
+  - q: "하리마우 말라야의 전성기는 언제였는가?"
+    a: "일반적으로 1970년대이다. 말레이시아는 1971년 서울에서 열린 예선에서 대한민국, 일본, 필리핀, 대만을 꺾고 1972년 뮌헨 올림픽에 진출했으며, 1974년 테헤란 아시안게임에서 북한을 2-1로 이긴 뒤 동메달을 획득했다. Mokhtar Dahari, Soh Chin Aun, R. Arumugam 같은 이름들이 국가적 아이콘이 되었다."
+  - q: "말레이시아가 지역 대회를 우승한 적이 있는가?"
+    a: "그렇다. 말레이시아는 K. Rajagopal 감독 아래 2010년 처음으로 AFF 스즈키컵을 우승했으며, 2회전 결승에서 인도네시아를 합계 4-2로 꺾었다. Safee Sali가 그 캠페인의 주요 선수 중 하나였다."
+  - q: "말레이시아는 현재 FIFA 랭킹에서 몇 위인가?"
+    a: "2026년 6월 FIFA 갱신 기준으로 말레이시아는 1,086.22점으로 세계 136위이다. 동남아시아에서는 태국(94위)이 여전히 가장 높고, 베트남(99위), 인도네시아(118위), 필리핀(135위)이 뒤를 잇는다."
+  - q: "FAM은 정확히 언제 설립되었는가?"
+    a: "정확한 날짜는 논란이 있다. 일부 기록은 전국 주무 기관의 설립을 1926년으로, 다른 기록은 싱가포르에 거점을 둔 Football Association of Malaya가 Piala Malaya 운영을 넘겨받은 1933년으로 본다. 분명하고 확인 가능한 것은 오늘날 전국 주무 기관, AFC 회원, 1984년 AFF 창립 회원으로서의 역할이다."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+revision: 0
+verificationNeeded:
+  - "Exact founding date/year of FAM — sources disagree between 1926 and 1933; kept hedged in the body pending a primary source."
+  - "Exact years of Kuala Lumpur's three-in-a-row Malaysia Cup titles (given as 1987–1989) — the cited sources confirm KL is the last team to win three consecutive titles but do not clearly pin the exact years."
+  - "The precise nature of the HMS Malaya funding (public/Federated Malay States contributions to the Royal Navy warship) — confirm against a primary naval or historical source."
+revisions:
+  - revision: 0
+    date: 2026-08-01
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-01
+sources:
+  - title: "Malaysia Cup now 100 years old, country's most prestigious trophy"
+    url: "https://www.bernama.com/en/news.php?id=2007025"
+    publisher: "Bernama"
+  - title: "An empty feeling as Malaysia Cup marks a century of action"
+    url: "https://www.freemalaysiatoday.com/category/highlight/2021/09/25/an-empty-feeling-as-malaysia-cup-marks-a-century-of-action"
+    publisher: "Free Malaysia Today"
+  - title: "Harimau Malaya climb 2 spots in Fifa rankings to 136th"
+    url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
+    publisher: "Free Malaysia Today"
+  - title: "So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
+    publisher: "The Star"
+  - title: "Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup"
+    url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"
+    publisher: "ESPN"
+  - title: "Football Association of Malaysia — Organisation"
+    url: "https://inside.fifa.com/en/associations/MAS/organisation"
+    publisher: "FIFA"
+  - title: "About AFF — ASEAN Football Federation"
+    url: "https://www.aseanfootball.org/v3/about/"
+    publisher: "ASEAN Football Federation"
+
+entity: "Football Association of Malaysia"
+wikidata: "Q622250"
+relations:
+  - { rel: "administered-by", to: "football-association-of-malaysia" }
+  - { rel: "related-to", to: "harimau-malaya" }
+  - { rel: "related-to", to: "malaysia-cup" }
+related: []
+keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
+---
+
+1921년, 싱가포르가 말라야의 한 새로운 축구 대회 결승에서 슬랑오르를 2-1로 꺾었습니다. 그로부터 한 세기가 지난 지금도 그 대회는 — 이제 말레이시아 컵으로 알려진 — 나라에서 가장 사랑받는 스포츠의 가장 권위 있는 왕관으로 남아 있습니다.
+
+말레이시아에서 축구는 단순한 경기가 아닙니다. 그것은 영국 식민지 시대, 독립, 1970년대의 영광, 그리고 오늘날의 야망을 잇는 100년의 유산입니다. 이를 이해하려면 세 기관을 함께 보아야 합니다. 대회(말레이시아 컵), 주무 기관(FAM), 그리고 국가대표팀(하리마우 말라야)입니다.
+
+## Piala Malaya는 어떻게 시작되었고, 왜 군함 HMS Malaya와 연결되었는가?
+
+이 대회는 1920년대 초 Piala Malaya로 시작되어, 말라야 전역의 주와 정착지 간에 치러졌습니다. 첫 결승은 1921년에 열렸으며, 싱가포르가 슬랑오르를 2-1로 꺾고 우승했습니다.
+
+군함과의 연결은 시작이 아니라 나중에 생겼습니다. 1933년, 이 대회는 군함 HMS Malaya를 기려 Piala HMS Malaya로 개칭되었는데 — 이는 공모금으로 건조된 영국 왕립 해군 함정이었습니다. 그 이름은 1967년 트로피가 Piala Malaysia로 교체될 때까지 유지되었고, 이 이름은 오늘날까지 쓰이고 있습니다.
+
+한 세기 동안 이 대회의 이름과 형식은 여러 차례 바뀌었습니다. 간략한 연표는 다음과 같습니다.
+
+| 연도 | 사건 |
+|-------|-----------|
+| 1921 | Piala Malaya 시작; 첫 결승에서 싱가포르가 슬랑오르를 2-1로 꺾음 |
+| 1933 | 군함 HMS Malaya를 기려 Piala HMS Malaya로 개칭 |
+| 1942–1947 | 제2차 세계대전 기간 중단 |
+| 1957 | 페락이 스타디움 므르데카에서 컵을 들어 올린 첫 팀이 됨 |
+| 1964 | 첫 결승 TV 중계(싱가포르가 페락을 3-2로 꺾음) |
+| 1967 | Piala Malaysia로 개칭 — 오늘날까지 유지되는 이름 |
+| 1994 | 싱가포르의 마지막 말레이시아 컵 출전 |
+| 1998 | 부킷 잘릴 국립 스타디움에서 처음 결승 개최 |
+| 2020 | COVID-19 팬데믹으로 취소 |
+| 2021 | 100주년 기념 |
+
+말레이시아 컵을 특별하게 만드는 것은 단지 그 연륜만이 아닙니다. 이는 아시아에서 가장 오래된 축구 대회 중 하나이며 — 세계 대부분의 현대 리그가 존재하기 이전에 시작되어, 식민지 시대, 일본 점령, 독립, 프로 시대를 거치며 계속 치러져 온 대회입니다.
+
+## 말레이시아 컵에서 가장 성공한 팀은 어디인가?
+
+말레이시아 컵 역사를 지배하는 이름이 하나 있다면, 그것은 슬랑오르입니다. 이 주는 아직 깨지지 않은 기록인 33회 우승을 쌓아, 대회 역사상 가장 성공한 팀이 되었습니다.
+
+| 팀 | 우승 횟수 |
+|---------|------------------|
+| 슬랑오르 | 33 |
+| 싱가포르 | 24 |
+| 페락 | 8 |
+| 크다 | 5 |
+
+이 명단에서 싱가포르의 위치는 더 큰 역사를 말해 줍니다. 24회 우승으로 싱가포르는 한때 말레이시아 축구의 강자였으며 — 수십 년간 싱가포르 팀이 같은 시스템 안에서 경쟁했다는 것을 상기시켜 줍니다. 싱가포르는 1994년 마지막으로 말레이시아 컵 캠페인에 출전한 뒤, 결국 말레이시아 리그에서 갈라섰습니다.
+
+주(州) 지배의 정점은 1980년대 말에도 나타났는데, 이때 쿠알라룸푸르는 말레이시아 컵을 3회 연속 우승한 마지막 팀이 되었습니다(일반적으로 1987–1989년으로 기록됨).
+
+## FAM은 무엇이며 어떻게 이 종목을 관장하는가?
+
+모든 경기 뒤에는 주무 기관이 있습니다. 말레이시아 축구 협회 — Football Association of Malaysia, 즉 FAM — 는 국가대표팀에서 리그와 컵 구조에 이르기까지 전국 단위에서 이 종목을 관장하는 기관입니다.
+
+본부는 프탈링자야 클라나자야 Jalan SS5A/9의 Wisma FAM에 있습니다. 국제 축구 구조에서 FAM은 아시아축구연맹(Asian Football Confederation, AFC)에 속하며 아세안축구연맹(ASEAN Football Federation, AFF)의 창립 회원 중 하나입니다.
+
+AFF 자체는 1984년 1월 31일 자카르타에서 브루나이 다루살람, 인도네시아, 말레이시아, 필리핀, 싱가포르, 태국의 여섯 창립 회원과 함께 공식 설립되었습니다. 이 회원 자격은 FAM을 지역 축구 행정을 형성한 핵심 그룹에 위치시켰으며 — 이 기구는 훗날 동남아시아 최고의 국가대표 대회인 AFF 챔피언십을 낳았습니다.
+
+자주 논란이 되는 한 가지는 FAM의 정확한 설립 날짜입니다. 일부 기록은 설립을 1926년으로 보고, 다른 기록은 1933년 — 싱가포르에 거점을 둔 Football Association of Malaya가 Piala Malaya 운영을 넘겨받은 뒤 행정 중심이 이후 시대에 말라야로 이동한 때 — 을 언급합니다. 출처들이 일치하지 않으므로, 그 정확한 날짜는 미결로 보는 편이 낫습니다. 확인 가능한 것은 오늘날 FAM의 전국 주무 기관으로서의 역할과 AFC 및 AFF에서의 위치입니다.
+
+## 하리마우 말라야의 전성기는 언제였는가?
+
+모든 축구 국가에는 황금기가 있습니다. 말레이시아에게 그것은 1970년대 — 하리마우 말라야가 아시아에서 경쟁했을 뿐 아니라 올림픽 무대까지 진출한 10년 — 였습니다.
+
+그 상징적 정점은 1972년 뮌헨 올림픽 진출이었습니다. Dave McLaren과 Jalil Che Din 감독 아래, 말레이시아는 1971년 서울에서 열린 예선에서 대한민국, 일본, 필리핀, 대만을 꺾었습니다. 공격수 Syed Ahmad Syed Abu Bakar는 그 예선에서 5골을 넣었는데, 여기에는 1968년 올림픽 동메달팀 일본을 3-0으로 꺾은 경기의 해트트릭도 포함됩니다.
+
+성공은 아시안게임으로 이어졌습니다. 1974년 테헤란 아시안게임에서 Syed Ahmad, Mokhtar Dahari, Isa Bakar로 이루어진 공격진은 위협적인 조합을 이루었으며; 말레이시아는 북한을 2-1로 꺾은 뒤 동메달로 가는 길에서 20골을 넣었습니다.
+
+이 시대는 므르데카 대회 — 쿠알라룸푸르에서 열린 초청 대회로, 당대 팀 실력의 기준점이 된 대회 — 로도 채색됩니다. 예컨대 Syed Ahmad는 1966년, 1968년, 1974년 므르데카 대회 우승팀의 일원이었습니다.
+
+이 시대의 이름들은 나라의 기억에 새겨져 있습니다. "SuperMokh"라 불린 득점왕이자 공격수 Mokhtar Dahari; 존경받는 수비의 기둥 Soh Chin Aun; 카리스마 넘치는 골키퍼 R. Arumugam — 모두가 훗날 세대에도 회자되는 아이콘이 되었습니다.
+
+## 지금까지 국가대표팀의 가장 큰 승리는 무엇인가?
+
+1970년대 이후 큰 성공은 더 드물어졌습니다 — 2010년 말의 어느 밤이 분위기를 바꾸기 전까지는요.
+
+2010년, 말레이시아는 처음으로 AFF 스즈키컵을 우승했습니다. K. Rajagopal 감독 아래, 하리마우 말라야는 2회전 결승에서 인도네시아를 합계 4-2로 꺾었습니다. 공격수 Safee Sali가 그 캠페인의 영웅 중 하나로, 결승에서 중요한 골을 넣었습니다.
+
+그 승리는 여러 이유로 의미가 있었습니다. 이는 수십 년 만의 첫 주요 지역 타이틀이었고 — 말레이시아는 이전에 1996년 초대 대회에서 준우승에 그쳤을 뿐입니다 — 국내 선수들로 이루어진 진용이 국가대표팀에 대한 국민적 관심을 되살렸습니다. 오랜 실망 끝에 2010년 우승은 나라의 축구 희망을 재는 현대적 기준점이 되었습니다.
+
+## 말레이시아는 세계와 지역 축구에서 어디에 있는가?
+
+야망은 하나의 문제이고, 실제 위상은 또 다른 문제입니다. 2026년 6월 FIFA 세계 랭킹 갱신 기준으로 말레이시아는 1,086.22점으로 세계 136위입니다.
+
+동남아시아 맥락에서 그 순위는 말레이시아를 지역 중위권에 위치시킵니다.
+
+| 국가 | FIFA 순위(2026년 6월) |
+|--------|----------------------------|
+| 태국 | 94 |
+| 베트남 | 99 |
+| 인도네시아 | 118 |
+| 필리핀 | 135 |
+| 말레이시아 | 136 |
+| 싱가포르 | 148 |
+
+이런 랭킹은 경기 결과에 따라 오르내리며 — 때로는 말레이시아 자신의 경기력이 아니라 다른 팀의 결과에 따라 바뀌기도 합니다. 그러나 이는 솔직한 그림을 제공합니다. 말레이시아는 큰 역사를 가진 축구 국가이지만, 태국과 베트남이 지난 20년간 뚜렷한 우위를 다진, 갈수록 치열해지는 지역 경쟁에 놓여 있습니다.
+
+## 오늘날 말레이시아 축구 구조는 어떻게 짜여 있는가?
+
+새로운 팬에게는 존재하는 여러 대회를 혼동하기 쉽습니다. 사실 현대 말레이시아 축구는 서로 다르지만 상호 보완하는 세 개의 무대로 이해할 수 있습니다.
+
+| 무대 | 무엇인가 | 운영 주체 |
+|------------|---------|----------------|
+| 국가대표팀(하리마우 말라야) | 국제 무대에서 말레이시아를 대표 — 월드컵 예선, 아시안컵, AFF 챔피언십 | FAM |
+| 국내 리그(리가 수퍼) | 시즌 내내 프로 클럽 간에 치러지는 최상위 리그 대회 | FAM 산하 리그 기구 |
+| 전국 컵(말레이시아 컵, FA 컵) | 매 시즌 컵 챔피언을 가리는 토너먼트 | FAM과 리그 기구 |
+
+가장 쉽게 구별하는 법: 리가 수퍼는 리그 왕관을 위한 시즌 내내의 긴 다툼이고; 말레이시아 컵과 FA 컵은 더 짧고 극적인 토너먼트이며; 하리마우 말라야는 나라를 대표하기 위해 최고의 선수들을 모은 국가대표팀입니다. 같은 클럽이 한 시즌에 이 세 무대 모두에서 경쟁할 수 있습니다.
+
+이 구조는 대부분의 축구 국가 모델을 반영합니다 — 꾸준함을 위한 리그, 이변을 위한 컵, 그리고 모든 것을 아우르는 정점으로서의 국가대표팀입니다.
+
+## 가장 흔한 오해는 무엇인가?
+
+말레이시아 축구 역사를 이야기할 때 몇몇 오류가 자주 반복됩니다.
+
+- **말레이시아 컵이 늘 그 이름이었다고 여기는 것.** 사실 이는 1921년 Piala Malaya로 시작되었고, 말레이시아 결성 이후 1967년에야 Piala Malaysia로 개칭되었습니다.
+- **싱가포르의 역할을 잊는 것.** 24회 우승으로 싱가포르는 이 대회 역사상 가장 성공한 팀 중 하나이며 — 이는 1994년까지 싱가포르가 같은 축구 시스템 안에서 경쟁하던 시대의 일부입니다.
+- **말레이시아 컵과 리가 수퍼를 혼동하는 것.** 말레이시아 컵은 토너먼트이고, 리가 수퍼는 시즌 전체의 리그입니다. 둘은 완전히 다릅니다.
+- **FAM 설립 날짜가 확정되었다고 여기는 것.** 출처들은 1926년과 1933년 사이에서 일치하지 않으므로, 특정 연도보다 확인 가능한 FAM의 역할에 집중하는 편이 안전합니다.
+- **1970년대를 유일한 성공으로 보는 것.** 그 시대가 황금기였던 것은 맞지만, 2010년 AFF 스즈키컵 우승은 잊어서는 안 될 중요한 현대적 성취입니다.
+
+## 다음 단계
+
+오늘날 말레이시아 축구는 자랑스러운 역사와 갈수록 치열해지는 지역 경쟁 사이의 긴장 속에서 살아갑니다. 말레이시아 컵의 100년 유산과 1970년대의 기억은 탄탄한 정체성의 토대를 주고; 세계 136위라는 순위는 앞으로 가야 할 길이 꾸준한 노력을 요구함을 상기시킵니다.
+
+더 깊이 알아보고 싶다면, 유용한 방향은 다음과 같습니다.
+
+- **현재 일정을 따르십시오** — 리가 수퍼, 말레이시아 컵, 하리마우 말라야 경기를 FAM 공식 웹사이트(fam.org.my)에서 최신 정보로 확인하십시오.
+- **대회의 차이를 이해하십시오** — 리그, 토너먼트 컵, 국가대표팀 — 그러면 결과와 순위를 더 쉽게 해석할 수 있습니다.
+- **주(州) 클럽의 역사를 살펴보십시오** — 슬랑오르, 페락, 크다 같은 팀의 말레이시아 컵 기록은 한 세기에 걸친 말레이시아 축구의 세력 판도를 반영합니다.
+
+이 글의 모든 수치는 열거된 출처에서 가져온 것이며, 특히 FIFA 랭킹과 우승 횟수는 시간에 따라 바뀔 수 있습니다. 최신 결과와 통계는 FAM, AFC, FIFA의 공식 출처를 참고하십시오.

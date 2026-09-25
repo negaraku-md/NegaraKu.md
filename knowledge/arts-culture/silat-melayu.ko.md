@@ -1,0 +1,209 @@
+---
+topicId: MY-ART-0061
+title: "실랏 믈라유(silat Melayu): 세계 유산이 된 무술"
+seoTitle: "실랏 믈라유: 유네스코 유산이 된 말레이시아 무술"
+slug: "silat-melayu"
+category: "arts-culture"
+subcategory: ["martial-arts"]
+summary: "실랏(silat)은 무술이자 공연 예술로서 동시에 살아 있는, 말레이 계통의 전통 무술입니다. 유네스코(UNESCO)는 말레이시아의 지명으로 2019년 이를 인류무형문화유산 대표목록에 포함했습니다."
+
+tier: "1"
+mode: "narrative"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "실랏(silat)은 신체 수련, 영성, 관습, 음악, 전통 의상을 결합한 말레이 계통의 전통 무술입니다. 그것은 두 가지 형태로 동시에 살아 있습니다 — 호신을 위한 무술과, 행사에서 펼치는 실랏 풀룻(silat pulut, 실랏 타리silat tari) 같은 공연 예술입니다. 국가유산국(Jabatan Warisan Negara)은 2007년 말레이 실랏 예술(Seni Persilatan Melayu)을 국가유산으로 선포했고, 유네스코는 말레이시아의 지명(파일 번호 01504)으로 2019년 12월 12일 실랏을 인류무형문화유산 대표목록에 포함했습니다."
+keyTakeaways:
+  - "UNESCO memasukkan Silat ke dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan pada 12 Disember 2019 (fail No. 01504), atas nominasi Malaysia"
+  - "UNESCO menjejaki asal usulnya kepada Kerajaan Langkasuka; Jabatan Warisan Negara meletakkan garis masa dari Langkasuka hingga era Kesultanan Melaka"
+  - "UNESCO menyebut lebih 150 gaya silat yang dinamakan sempena unsur alam; Jabatan Warisan Negara pula merekodkan lebih 500 perguruan silat aktif di Malaysia"
+  - "Silat hidup dalam dua bentuk — seni tempur (pertahanan diri) dan seni persembahan seperti silat pulut atau silat tari"
+  - "Jabatan Warisan Negara mengisytiharkan Seni Persilatan Melayu sebagai Warisan Kebangsaan pada 2007"
+  - "PESAKA (Persekutuan Silat Kebangsaan Malaysia) ialah badan induk silat negara, terbentuk daripada empat persatuan silat utama"
+appliesTo: "Sesiapa yang ingin memahami sejarah, bentuk, gaya dan status pengiktirafan silat sebagai warisan budaya Malaysia dan dunia."
+
+faq:
+  - q: "Bilakah silat diiktiraf UNESCO?"
+    a: "Silat dimasukkan ke dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan pada sesi ke-14 Jawatankuasa UNESCO, dengan Jabatan Warisan Negara menyatakan tarikh pemasukan 12 Disember 2019. Nominasi dikemukakan oleh Malaysia dan fail elemennya membawa nombor 01504 dalam sistem UNESCO."
+  - q: "Apakah perbezaan silat pulut dan silat buah pukul?"
+    a: "Menurut rekod Jabatan Warisan Negara, silat pulut (juga dikenali silat tari) ialah bentuk persembahan yang dipentaskan pada majlis dan perkumpulan tradisional, diiringi muzik. Silat buah pukul atau seni tempur pula ialah bentuk pertempuran untuk pertahanan diri. Kedua-duanya termasuk dalam seni persilatan yang sama."
+  - q: "Berapa banyak gaya silat yang ada di Malaysia?"
+    a: "Angka bergantung pada apa yang dikira. UNESCO menyebut lebih 150 gaya silat yang dikenali, banyak antaranya dinamakan sempena unsur alam. Jabatan Warisan Negara pula merekodkan lebih 500 perguruan silat aktif di Malaysia, termasuk Silat Cekak, Silat Gayung, Silat Lincah, Silat Buah Pukul dan Silat Harimau."
+  - q: "Apakah itu PESAKA?"
+    a: "PESAKA (Persekutuan Silat Kebangsaan Malaysia) ialah badan induk yang menyelaras, membangun dan mempromosikan silat di peringkat kebangsaan. Menurut laman badan antarabangsa PERSILAT, ia terbentuk daripada empat persatuan silat utama — Seni Gayung Fatani Malaysia, Silat Seni Gayung Malaysia, Seni Silat Lincah Malaysia dan Seni Silat Cekak Malaysia."
+  - q: "Adakah silat olahraga sama dengan silat seni tradisional?"
+    a: "Tidak sama. Silat olahraga ialah acara sukan berperaturan dengan mata dan pemenang, ditadbir badan induk seperti PESAKA dan badan antarabangsa PERSILAT. Silat seni tradisional pula merangkumi seni tempur dan seni persembahan yang berakar pada adat dan falsafah — bentuk inilah yang diiktiraf UNESCO sebagai warisan budaya."
+  - q: "Apakah Silat Harimau?"
+    a: "UNESCO menyebut Silat Harimau sebagai contoh gaya yang meniru gerak estetik harimau dalam seni menyerang dan mempertahankan diri. Ia salah satu daripada banyak gaya yang dinamakan sempena haiwan atau unsur alam."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-01
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-01
+sources:
+  - title: "Silat — Representative List of the Intangible Cultural Heritage of Humanity"
+    url: "https://ich.unesco.org/en/RL/silat-01504"
+    publisher: "UNESCO"
+  - title: "Silat"
+    url: "https://www.heritage.gov.my/en/silat.html"
+    publisher: "Jabatan Warisan Negara"
+  - title: "Seni Pertahanan Diri (Self-Defense) — Cawangan Adat Budaya"
+    url: "https://www.heritage.gov.my/en/pengenalan-cawangan-adat-budaya/seni-pertahanan-diri.html"
+    publisher: "Jabatan Warisan Negara"
+  - title: "Bidang Seni Silat"
+    url: "https://celikbudaya.jkkn.gov.my/bidang/6"
+    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
+  - title: "Malaysia — Country Members (PESAKA)"
+    url: "https://worldpencaksilat.org/country-members/malaysiasilat/"
+    publisher: "International Pencak Silat Federation (PERSILAT)"
+
+entity: "Silat"
+wikidata: "Q569801"
+relations:
+  - { rel: "part-of", to: "malaysia" }
+  - { rel: "related-to", to: "mak-yong" }
+  - { rel: "related-to", to: "wayang-kulit" }
+related: ["mak-yong", "wayang-kulit"]
+keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
+---
+
+훌륭한 프실랏(pesilat, 실랏 수련자)은 상대의 뼈를 부러뜨릴 수도, 누구도 건드리지 않고 신랑 신부 앞에서 춤출 수도 있습니다. 둘 다 실랏입니다. 그것이 이 예술에서 가장 이해하기 어려운 점입니다. 그것은 단지 싸우는 방법도, 단지 잔치의 춤도 아닙니다. 그것은 같은 몸 안에서, 같은 스텝으로 움직이는 둘 다입니다.
+
+유네스코는 실랏을 말레이 계통에 뿌리를 둔, 자기를 지키고 살아남기 위한 무술로 설명합니다. 그러나 그 같은 예술이, 유네스코 자신에 따르면, '자기방어 예술이라는 지위를 넘어 공연 예술이 되었다'고 합니다. 이것이 하나의 전쟁 기예가 세계 유산이 된 이야기입니다.
+
+## 실랏이란 실제로 무엇인가?
+
+가장 흔한 오류는 실랏을 하나의 정의로 좁히는 것입니다. 국립문화예술부(JKKN)는 그것을 자기방어, 춤, 관습, 음악, 삶의 철학의 요소를 결합한 말레이 전통 무술로 설명합니다. 그것은 단지 신체 동작이 아니라, 정체성과 규율, 문화적 가치를 짊어지는 하나의 방식입니다.
+
+유네스코는 이 구성 요소를 더 자세히 정리합니다. 신체·영성 수련 외에도 실랏은 [전통 말레이 의상](/arts-culture/traditional-malay-attire), 실랏 악기, 그리고 갖은 관습과 의식을 아우릅니다. 다시 말해, 누군가 실랏을 배울 때 그는 단지 차고 막는 법을 배우는 것이 아니라 — 고유한 의상, 음악, 예법을 갖춘 하나의 온전한 관습 체계 안으로 들어가는 것입니다.
+
+유네스코에 따르면 많은 실랏 동작은 자연에서 영감을 얻습니다. 국가유산국은 그 기법들이 인체 해부, 식물의 움직임, 동물의 행동에서 영감을 받았다고 덧붙입니다. 그래서 실랏의 유파는 흔히 자연의 요소를 따서 이름 지어지는데 — 가장 유명한 예 가운데 하나가 실랏 하리마우(Silat Harimau)로, 유네스코에 따르면 공격과 방어의 예술에서 호랑이의 미학적 움직임을 흉내 냅니다.
+
+## 실랏은 어디에서 시작되었는가?
+
+유네스코는 실랏의 뿌리를 가장 이른 말레이 왕국 가운데 하나인 랑카수카(Langkasuka) 왕국으로 거슬러 추적합니다. 국가유산국은 그 연표를 랑카수카 시대에서 시작해 믈라카 말레이 술탄국 시대 내내 이어지는 것으로 두는데 — 이는 초기 말레이 문명사 거의 전체를 아우르는 폭입니다.
+
+유네스코는 이른 시대에 실랏이 정의의 수호자로 행세한 전사들에 의해 행해졌다고 말합니다. 그것은 무기와 책임을 짊어진 계층의 기예였습니다. 바로 이 사회적 위상이 실랏을 단순한 싸움 기술과 구별합니다. 그것은 전통 말레이 사회에서 명예, 충성, 지도력의 개념과 얽혀 있습니다.
+
+오늘날 맥락은 다릅니다. 국가유산국은 실랏을 말레이시아 사회에서 중요한 사회적 매개로 규정하는데, 말레이 결혼식과 정부 공식 행사에도 등장합니다. 전사의 기예에서, 그것은 일상 문화의 한 얼굴의 일부가 되었습니다.
+
+## 누가, 어떻게 가르치는가?
+
+실랏은 보통 교실에서 가르쳐지지 않습니다. 유네스코에 따르면 수련은 대개 저녁이나 밤에 열린 공간에서, 실랏 스승과 *주루카카(jurukaka)*라 불리는 그 조력자가 이끌어 이루어집니다.
+
+그 기예의 전수 사슬은 분명합니다. 꼭대기에 마하구루(대사범)와 구루(사범)가 있고, 가운데에 가르치는 사범이 있으며, 아래에서 배우는 제자가 있습니다. 이 구조가 중요한 것은 그것이 실랏이 왜 그토록 많은 유파로 존재하는지를 설명하기 때문입니다 — 각 문파는 고유한 스승의 계보를 지니며, 저마다의 동작과 용어와 예법을 가집니다.
+
+## 실랏 유파는 몇 개나 존재하는가?
+
+여기서 두 공식 자료가 서로 다른 수치를 제시하는데 — 둘 다 맞습니다. 서로 다른 것을 세기 때문입니다.
+
+| 자료 | 수 | 세는 대상 |
+| --- | --- | --- |
+| 유네스코 | 150가지가 넘는 실랏 유파 | 알려진 유파(아류), 상당수가 자연의 요소를 따서 이름 지어짐 |
+| 국가유산국 | 500곳이 넘는 활동 중인 실랏 문파 | 말레이시아에서 운영되는 문파(실랏 단체/학교) |
+
+'유파'는 기예의 아류이고, '문파'는 그것을 가르치는 단체입니다. 한 유파를 여러 문파가 가르칠 수 있고, 한 문파가 둘 이상의 유파를 가르칠 수 있습니다. 그래서 문파의 수가 유파의 수보다 많은 것입니다.
+
+국가유산국과 JKKN의 기록에 나열된 이름 가운데:
+
+- **실랏 체칵(Silat Cekak)** — 실용적이고 직접적인 자기방어 동작으로 알려짐
+- **실랏 가융(Silat Gayung, Silat Seni Gayong)** — 신체적 힘과 무술을 강조
+- **실랏 린차(Silat Lincah)** — 빠르고 민첩하여 현대적 전투에 어울림
+- **실랏 부아 푸쿨(Silat Buah Pukul)** — 무술 범주에 속함
+- **실랏 하리마우(Silat Harimau)** — 호랑이의 움직임을 흉내 냄
+- **실랏 풀룻(Silat Pulut) / 실랏 타리(Silat Tari)** — 행사에서의 공연 형태
+- 그 밖에 슨디 나가(Sendi Naga), 치만데(Cimande), 쿤타(Kunta) 등
+
+## 싸우기 위한 실랏인가, 무대에 올리기 위한 실랏인가?
+
+이것이 이야기 전체의 핵심입니다. 실랏은 하나의 기능을 지닌 한 가지가 아니라 — 동작의 기초를 공유하되 목적이 다른 형태들의 한 가족입니다.
+
+국가유산국은 실랏 예술을 몇 가지 주요 형태로 나눕니다.
+
+| 형태 | 목적 | 특징 |
+| --- | --- | --- |
+| 실랏 풀룻 / 실랏 타리 | 공연 | 행사와 전통 모임에서 음악 반주와 함께 무대에 올림 |
+| 실랏 부아 푸쿨 / 무술 | 자기방어 | 위협으로부터 자신을 지키기 위한 전투 형태 |
+| 실랏 올라흐라가(경기 실랏) | 스포츠 | 점수와 승자가 있는 규칙 기반 경기 |
+
+실랏 풀룻과 전투 실랏의 차이는 단지 양식이 아니라 — 의도의 차이입니다. JKKN에 따르면 실랏 타리 또는 실랏 풀룻은 결혼식과 전통 의식에서 근당의 연타와 전통 악기의 반주와 함께 공연됩니다. 두 프실랏이 붕아 실랏(bunga silat, 실랏의 꽃)을 '펼치며', 다치게 할 의도 없이 동작의 아름다움을 보입니다. 관객은 실제 대결이 아니라 즐기러 옵니다.
+
+한편 실랏 부아 푸쿨, 곧 무술은 국가유산국이 기록하듯 적의 위협으로부터 자신을 지키는 기능을 합니다. 바로 여기서 같은 동작 — 스텝, 회피, 막기 — 이 구경거리가 아니라 실제 효과를 위해 쓰입니다.
+
+이것이 유네스코가 말하는 '두 얼굴의 삶'입니다. 신랑 신부 앞에서 펼치는 붕아 실랏과, 관절을 부러뜨릴 수 있는 부아 실랏(buah silat)은 같은 나무에서 자랍니다.
+
+## 실랏은 어떻게 세계 유산이 되었는가?
+
+많은 이가 실랏이 2019년에 '유산이 되었다'고 생각합니다. 사실 그것은 두 단계로 이루어졌습니다. 먼저 국가적 인정, 그다음에야 국제적 인정입니다.
+
+| 연도 | 사건 |
+| --- | --- |
+| 2007 | 국가유산국이 **말레이 실랏 예술(Seni Persilatan Melayu)**을 **국가유산**으로 선포 |
+| 2019년 12월 12일 | 유네스코가 말레이시아의 지명으로 **실랏**을 **인류무형문화유산 대표목록**에 포함 |
+
+2007년의 국가유산 선포는 국내의 인정이었습니다 — 말레이 실랏 예술이 보존되어야 할 문화 자산이라는 공식 인정입니다. 그것은 유네스코 차원의 지명에 앞섰고, 그 바탕이 되었습니다.
+
+유네스코 등재는 2003년 협약 정부간위원회 제14차 회기에서 이루어졌습니다. 그 요소 파일은 유네스코 시스템에서 말레이시아 소속으로 01504번을 가집니다. 이해해 둘 중요한 점: 유네스코는 실랏에 '상을 주는' 것이 아닙니다. 그것은 실랏을 대표목록 — 단순한 인증서가 아니라 보존의 책임을 수반하는 살아 있는 유산의 등록부 — 에 포함하는 것입니다.
+
+## 누가 국가 차원에서 실랏을 지키는가?
+
+수백 곳의 독립 문파 뒤에는 하나의 총괄 기구가 있습니다. **PESAKA**(Persekutuan Silat Kebangsaan Malaysia, 말레이시아 국가 실랏 연맹)는 국가 차원에서 실랏을 조정하고 육성하며 홍보하는 기구입니다.
+
+국제 기구 PERSILAT(국제 펜칵 실랏 연맹)의 웹사이트에 따르면, PESAKA는 네 개의 주요 실랏 협회에서 형성되었습니다.
+
+- 스니 가융 파타니 말레이시아(Seni Gayung Fatani Malaysia)
+- 실랏 스니 가융 말레이시아(Silat Seni Gayung Malaysia)
+- 스니 실랏 린차 말레이시아(Seni Silat Lincah Malaysia)
+- 스니 실랏 체칵 말레이시아(Seni Silat Cekak Malaysia)
+
+PERSILAT 웹사이트는 설립을 향한 논의가 1978년 2월 6일에 시작되었고 PESAKA가 1983년에 설립되었다고 밝힙니다. 말레이시아는 또한 1979년에 설립된 국제 펜칵 실랏 연맹(PERSILAT)의 창설국 가운데 하나입니다.
+
+PESAKA의 역할은 스포츠로서의 실랏에 더 기웁니다 — 국가와 국제 차원의 경기 실랏 대회를 위해 선수, 심판, 기술 임원을 양성합니다. 이는 실랏을 문화유산으로 지키는 국가유산국과 JKKN의 역할과 다릅니다. 두 역할 모두 중요하지만, 서로 다른 실랏의 측면을 지킵니다.
+
+## 당신이 뜻하는 '실랏'은 어느 것인가?
+
+'실랏'이라는 낱말이 그토록 많은 것을 아우르기에 오해가 쉽게 생깁니다. 다음의 간단한 틀이 도움이 됩니다.
+
+- **문화유산을 뜻한다면** — 유네스코와 국가유산국이 인정한 형태로, 무술, 공연 예술, 관습, 음악, 의상을 아우릅니다.
+- **행사의 공연을 뜻한다면** — 그것은 음악 반주와 함께 무대에 올리는 실랏 풀룻 또는 실랏 타리입니다.
+- **자기방어를 뜻한다면** — 그것은 자신을 지키려는 실제 목적을 지닌 실랏 부아 푸쿨, 곧 무술입니다.
+- **경기 스포츠를 뜻한다면** — 그것은 규칙과 점수, 승자가 있고 PESAKA와 PERSILAT가 관장하는 경기 실랏입니다.
+
+네 가지 모두 정당하게 '실랏'이라 불립니다. 그것들을 구별하는 것은 이름이 아니라 목적과 맥락입니다.
+
+## 흔한 오해
+
+**"실랏은 그저 춤이다."** 실랏 풀룻은 분명 공연 형태이지만, 그것은 여러 형태 중 하나에 지나지 않습니다. 실랏 부아 푸쿨은 자기방어를 위한 실제 무술이고, 경기 실랏은 겨루는 스포츠입니다.
+
+**"실랏은 2019년에 유네스코에 인정되었으니 그것이 시작이다."** 국가유산으로서의 국가적 인정은 그보다 앞선 2007년에 이루어졌습니다. 2019년 12월 12일의 유네스코 등재는 그 바탕 위에 세워진 국제적 단계입니다.
+
+**"실랏과 펜칵 실랏은 서로 다른 두 가지다."** 스포츠 맥락에서 그 총괄 기구인 PESAKA는 PERSILAT(국제 펜칵 실랏 연맹)의 회원입니다 — '펜칵 실랏'이라는 용어는 말레이 계통 전역에서 같은 예술을 두루 가리키는 데 쓰이며, 다만 나라와 아류마다 고유한 이름과 양식을 지닙니다.
+
+**"모든 실랏 유파는 다 똑같다."** 유네스코는 150가지가 넘는 유파를 언급하고, 국가유산국은 500곳이 넘는 활동 문파를 기록합니다. 각 문파는 저마다의 스승 계보와 동작과 예법을 지닙니다.
+
+**"유네스코 인증서가 실랏의 존속을 보장한다."** 그 반대입니다. 대표목록은 보장이 아니라 보존의 책임입니다. 실랏을 이어 가는 것은 여전히 가르치는 스승과, 밤에 열린 공간에서 여러 해를 배울 각오가 된 제자입니다.
+
+## 왜 실랏은 여전히 중요한가
+
+실랏은 유산에 대해 좀처럼 던지지 않는 물음 하나에 답합니다. 어떤 것이 유용하면서 동시에 아름다울 수 있는가? 대부분의 유산 예술은 아름다움만 남습니다 — 무대에 오르고 감탄받지만 더는 기능하지 않습니다. 실랏은 다릅니다. 그 부아 푸쿨은 여전히 자신을 지킬 수 있고, 그 춤의 꽃은 여전히 행사를 수놓으며, 그 경기는 여전히 메달을 땁니다.
+
+그래서 유네스코는 그것을 본래의 지위를 버린 것이 아니라 '넘어선' 예술로 규정합니다. 실랏은 공연 예술이 되었다고 해서 무술이기를 멈추지 않았습니다. 그것은 얼굴을 바꾼 것이 아니라 얼굴을 더한 것입니다.
+
+## 다음으로 볼 것
+
+- 무용극 형태로 유네스코가 인정한 또 다른 말레이시아 무형문화유산은 [막용](/arts-culture/mak-yong)을 읽어 보십시오.
+- 동해안을 중심으로 한 또 다른 전통 공연 형태와 비교하려면 [와양 쿨릿](/arts-culture/wayang-kulit)을 보십시오.
+- 실랏의 형태, 유파, 역사에 관한 공식 설명은 유네스코 요소 파일 01504번과 국가유산국·JKKN의 기록을 참고하십시오.
