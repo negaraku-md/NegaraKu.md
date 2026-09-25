@@ -16,7 +16,7 @@ interface Props {
   doc: 'terms' | 'privacy' | 'cookies';
 }
 const { locale, doc } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string) => (locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const UPDATED = '2026-08-20';
 type Section = { h: string; p?: string[]; list?: string[] };

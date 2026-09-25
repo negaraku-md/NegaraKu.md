@@ -33,7 +33,7 @@ interface Props {
 }
 const { locale, article } = Astro.props;
 const d = article.data;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string) => (locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const cat = getCategory(d.category);
 const path = `/${d.category}/${d.slug}`;
@@ -125,7 +125,7 @@ const sensLabel = sensitive ? (SENS_LABEL[d.sensitivity] ?? L('Sensitif', 'Sensi
 const fmt = (dt: Date | null | undefined) =>
   dt
     ? new Date(dt).toLocaleDateString(
-        locale === 'zh' ? 'zh-CN' : locale === 'ms' ? 'ms-MY' : locale === 'ja' ? 'ja-JP' : 'en-GB',
+        locale === 'zh' ? 'zh-CN' : locale === 'ms' ? 'ms-MY' : locale === 'ja' ? 'ja-JP' : locale === 'ko' ? 'ko-KR' : 'en-GB',
         { day: 'numeric', month: 'short', year: 'numeric' },
       )
     : '—';

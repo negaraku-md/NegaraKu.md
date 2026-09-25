@@ -136,7 +136,7 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
     // liftable answer AI assistants and answer engines quote — previously it
     // only existed as on-page text, invisible to structured-data consumers.
     ...(d.answer ? { abstract: d.answer } : {}),
-    inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : 'en',
+    inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : locale === 'ko' ? 'ko' : 'en',
     datePublished: (d.created ?? d.updated).toISOString(),
     dateModified: d.updated.toISOString(),
     mainEntityOfPage: url,

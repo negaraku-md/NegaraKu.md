@@ -31,8 +31,8 @@ const ogSrc = `/og/${locale}/${category}/${slug}.png`;
 const mins = readingTime(article);
 const nSrc = article.data.sources.length;
 const citeLabel =
-  locale === 'zh' ? '引用' : locale === 'en' ? 'cites' : locale === 'ta' ? 'மேற்கோள்கள்' : locale === 'ja' ? '出典' : 'rujukan';
-const minLabel = locale === 'zh' ? '分钟' : locale === 'ta' ? 'நிமிடம்' : locale === 'ja' ? '分' : 'min';
+  locale === 'zh' ? '引用' : locale === 'en' ? 'cites' : locale === 'ta' ? 'மேற்கோள்கள்' : locale === 'ja' ? '出典' : locale === 'ko' ? '출처' : 'rujukan';
+const minLabel = locale === 'zh' ? '分钟' : locale === 'ta' ? 'நிமிடம்' : locale === 'ja' ? '分' : locale === 'ko' ? '분' : 'min';
 ---
 
 <a class:list={['card article-card', { row }]} href={href} style={`--c:${color}`}>

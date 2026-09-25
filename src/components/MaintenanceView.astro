@@ -7,14 +7,14 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string) => (locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // "Expected back by" — only when the operator set MAINTENANCE_UNTIL. Format it
 // readably for the locale; if it isn't a valid date, show the raw value.
 let untilText = '';
 if (MAINTENANCE_UNTIL) {
   const d = new Date(MAINTENANCE_UNTIL);
-  const bcp = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ja' ? 'ja-JP' : 'en-GB';
+  const bcp = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ja' ? 'ja-JP' : locale === 'ko' ? 'ko-KR' : 'en-GB';
   untilText = Number.isNaN(d.getTime())
     ? MAINTENANCE_UNTIL
     : d.toLocaleString(bcp, { dateStyle: 'medium', timeStyle: 'short' });

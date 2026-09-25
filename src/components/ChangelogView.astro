@@ -11,7 +11,7 @@ interface Props {
 }
 const { locale } = Astro.props;
 const c = getChangelog();
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string) => (locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const typeLabel: Record<string, string> = {
   feature: L('Ciri', 'Features', '功能', 'அம்சங்கள்', '機能'),

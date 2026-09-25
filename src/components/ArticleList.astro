@@ -56,8 +56,8 @@ const {
   showRank = false,
 } = Astro.props;
 const has = (f: FilterKey) => filters.includes(f);
-const dateLocale = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ja' ? 'ja-JP' : 'en-GB';
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string) => (locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const dateLocale = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ja' ? 'ja-JP' : locale === 'ko' ? 'ko-KR' : 'en-GB';
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string) => (locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Which languages each topic exists in (publishable files only).
 const langsByKey = new Map<string, Set<string>>();
