@@ -34,8 +34,9 @@ faq:
     a: "승인이 만료되고 1년 이내에 재활성화되지 않으면, 신청인은 새로운 신청을 제출하고 면접을 다시 치러야 합니다."
 
 lang: "ko"
+sourceContentHash: "e81ff5426724af5a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

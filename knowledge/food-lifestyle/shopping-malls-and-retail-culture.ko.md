@@ -30,8 +30,9 @@ faq:
     a: "파사르 말람은 야시장입니다 — 정해진 평일 밤에 한 동네에 서는 순회 노천 거리 시장으로, 조리 음식, 신선한 농산물, 저렴한 잡화를 팝니다. 낮의 파사르(재래·수산 시장), 파사르 타니(농민 시장)와 함께 말레이시아의 비(非)몰 소매 문화의 일부입니다."
 
 lang: "ko"
+sourceContentHash: "a2bc8ea503179f64"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

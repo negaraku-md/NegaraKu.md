@@ -45,8 +45,9 @@ verificationNeeded:
   - "Whether the ICA 10 confirmation letter supports bank facility applications — MIDA does not say so"
 
 lang: "ko"
+sourceContentHash: "37caa4da5ba10819"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

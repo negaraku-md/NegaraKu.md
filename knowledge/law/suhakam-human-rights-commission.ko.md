@@ -34,8 +34,9 @@ faq:
     a: "Seksyen 2 mentakrifkan hak asasi manusia sebagai kebebasan asasi seperti termaktub dalam Bahagian II Perlembagaan Persekutuan. Seksyen 4(4) menambah bahawa Deklarasi Hak Asasi Manusia Sejagat 1948 hendaklah diberi perhatian setakat yang tidak bercanggah dengan Perlembagaan Persekutuan."
 
 lang: "ko"
+sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

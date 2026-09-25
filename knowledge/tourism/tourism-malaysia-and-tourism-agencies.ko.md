@@ -29,8 +29,9 @@ faq:
     a: "네. 두 주 모두 말레이시아 관광청의 국가적 노력과 함께 주를 마케팅하는 자체 관광청을 두고 있습니다."
 
 lang: "ko"
+sourceContentHash: "353b6077a5a0f789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

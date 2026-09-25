@@ -77,8 +77,9 @@ verificationNeeded:
   - "Confirm the current particulars prescribed for the s.61 register against the Employment Regulations in force"
 
 lang: "ko"
+sourceContentHash: "84b81bd01d8b6ae2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

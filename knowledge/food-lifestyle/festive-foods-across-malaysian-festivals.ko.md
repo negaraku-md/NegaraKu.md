@@ -33,8 +33,9 @@ faq:
     a: "아닙니다. 투악, 몬토쿠, 툼풍 같은 발효 음료는 사라왁의 다약 공동체와 사바의 카다잔두순 공동체의 전통 음료이며, The Star에 따르면 가와이와 카아마탄 잔치의 핵심입니다. 이는 하리 라야처럼 할랄 음식과 음료를 지키는 공동체의 명절 식탁에는 포함되지 않습니다. 어느 오픈하우스의 음식 내용물은 주인의 식이 계율과 전통에 달려 있습니다."
 
 lang: "ko"
+sourceContentHash: "58bbad87611b5d86"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

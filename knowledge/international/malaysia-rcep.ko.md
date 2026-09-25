@@ -33,8 +33,9 @@ faq:
     a: "아닙니다. RCEP와 CPTPP는 회원국과 규정이 서로 다른 별개의 협정입니다. 말레이시아는 RCEP의 당사국입니다. 두 협정은 여러 회원국이 겹치지만 독립적으로 협상됩니다."
 
 lang: "ko"
+sourceContentHash: "f7e0957c6988f3a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Di bawah Seksyen 67(1), dokumen sah disempurnakan sebagai deed jika ia disempurnakan dengan wajar oleh syarikat DAN diserahkan (delivered) sebagai deed. Seksyen 67(2) menganggap penyerahan telah berlaku sebaik sahaja deed itu disempurnakan dengan sah, melainkan niat sebaliknya dibuktikan."
 
 lang: "ko"
+sourceContentHash: "11a3057b821bdc34"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

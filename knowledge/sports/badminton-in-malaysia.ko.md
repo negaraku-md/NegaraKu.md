@@ -37,8 +37,9 @@ faq:
     a: "Zii Jia는 13세부터 거의 10년간 소속되었던 BAM에서 2022년 1월 사임하여 독립 선수가 되었다. 그는 훈련에 집중하고 자신의 랭킹을 끌어올리고자 했으며, 국가대표 선수든 독립 선수든 모두 여전히 잘루르 그밀랑(말레이시아 국기)을 휘날린다고 강조했다."
 
 lang: "ko"
+sourceContentHash: "a0c4b7207a1ac775"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

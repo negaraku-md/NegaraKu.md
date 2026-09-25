@@ -29,8 +29,9 @@ faq:
     a: "그렇습니다. SaveME 999 앱은 음성 통화뿐 아니라 영상·문자·멀티미디어 기반 긴급 경보를 지원하므로, 장애인도 999 상담원에게 연락할 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "a2e869579c3095a1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

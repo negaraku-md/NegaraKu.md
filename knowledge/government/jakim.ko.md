@@ -34,8 +34,9 @@ faq:
     a: "MKI ialah Majlis Kebangsaan Bagi Hal Ehwal Ugama Islam Malaysia — majlis peringkat kebangsaan yang menjadi platform penyelarasan dan pertimbangan hal ehwal Islam. JAKIM bertindak sebagai urus setianya, iaitu mengurus mesyuarat jawatankuasa dan panel pakar yang membincangkan perkara syariah, akidah dan berkaitan untuk menentukan keputusan di peringkat kebangsaan."
 
 lang: "ko"
+sourceContentHash: "f6f58358eee27f91"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

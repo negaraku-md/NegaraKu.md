@@ -34,8 +34,9 @@ faq:
     a: "Yes. A leniency programme is available for businesses involved in horizontal cartel conduct. Cooperating early can earn immunity or a penalty reduction of up to 100%, though an enterprise that initiated or coerced others into the cartel is unlikely to receive the full reduction. Under the 2026 amendments, a separate settlement route can also reduce a penalty by up to 40%."
 
 lang: "ko"
+sourceContentHash: "f67186d884803b44"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

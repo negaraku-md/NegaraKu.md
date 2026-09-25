@@ -36,8 +36,9 @@ faq:
     a: "In the ITU Global Cybersecurity Index 2020 (GCIv4) Malaysia scored 98.06 and ranked joint fifth in the world. In the 2024 edition, which uses a five-tier model, Malaysia is placed in the top 'role-modelling' tier."
 
 lang: "ko"
+sourceContentHash: "7722bdc160f9e488"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

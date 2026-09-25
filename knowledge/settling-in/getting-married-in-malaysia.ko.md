@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "말레이시아에서 혼인을 계획하는 누구든 — 말레이시아 국민이든 외국 국민이든, 양 당사자가 모두 비무슬림이든, 모두 무슬림이든, 한 당사자가 무슬림 상대와 혼인하기 위해 이슬람으로 개종하든 — 자신의 혼인이 어느 법 제도와 어느 당국의 적용을 받는지 알아야 하는 사람."
 
 lang: "ko"
+sourceContentHash: "12e75b9b51367c03"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

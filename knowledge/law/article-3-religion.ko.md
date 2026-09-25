@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Anyone who wants the exact constitutional text on religion — students, researchers and readers who keep encountering paraphrases of Article 3 and Article 11 and want the provisions themselves, quoted from the official reprint."
 
 lang: "ko"
+sourceContentHash: "e8ee51ffbb017879"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

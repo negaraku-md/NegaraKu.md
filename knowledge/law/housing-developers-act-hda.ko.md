@@ -38,8 +38,9 @@ faq:
     a: "Tidak. Selepas pindaan Peraturan 2015, tiada sesiapa — termasuk peguam stakeholder — boleh mengutip apa-apa bayaran (booking fee, wang cengkeram dan seumpamanya) sebelum perjanjian jual beli ditandatangani, kecuali seperti yang ditetapkan oleh kontrak jualan (peraturan 11(2))."
 
 lang: "ko"
+sourceContentHash: "b9b4698e2a0c2539"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

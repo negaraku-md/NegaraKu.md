@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "쿠알라룸푸르나 클랑밸리로의 이주 예산을 세우는 사람, 도시 간 채용 제안을 비교하는 사람, 또는 수도가 왜 꾸준히 말레이시아 생활비 순위 정상에 오르는지 이해하려는 사람."
 
 lang: "ko"
+sourceContentHash: "5a6f8510ce30c077"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

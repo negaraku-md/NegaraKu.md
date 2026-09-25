@@ -24,8 +24,9 @@ verificationNeeded:
   - "공식 사이트 kwsp.gov.my가 이 글 집필 당시 자동 접근을 차단(403)했습니다. 인용된 KWSP 기여율(근로자 11%; 급여 구간에 따라 고용주 13/12%)은 kwsp.gov.my 자체 본문에서 직접 발췌한 검색을 통해 확인되었으며, kwsp.gov.my를 인용하는 이 사이트의 epf-employer-guide 글과도 일치합니다. 해당 사이트에 접근 가능해지면 kwsp.gov.my/en/epf-act-1991-third-schedule에서 직접 다시 확인하십시오."
 
 lang: "ko"
+sourceContentHash: "91cbd7d0dece19b9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -33,8 +33,9 @@ verificationNeeded:
   - "발행 전에 쿠알라룸푸르 및 그레이터 쿠알라룸푸르 인구 수치와 1인당 GDP 순위를 최신 DOSM 발표에 대조하여 확인."
 
 lang: "ko"
+sourceContentHash: "92f9b90511421d9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

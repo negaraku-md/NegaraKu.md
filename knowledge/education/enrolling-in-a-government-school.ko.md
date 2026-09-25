@@ -19,8 +19,9 @@ keyTakeaways:
   - "조기 입학(연령 미달)과 1학년 유예는 모두 별도의 공식 정책으로 존재합니다. 신청은 일반 idMe 시스템이 아니라 JPN을 통해 이루어지며, 유예는 자동 권리가 아니라 특전(privilege)입니다"
 appliesTo: "자녀가 공립 초등학교 1학년 또는 공립 중등학교 폼 1에 입학할 말레이시아 시민권자 학부모 또는 보호자."
 lang: "ko"
+sourceContentHash: "0c89415b8941ca0c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -30,8 +30,9 @@ faq:
     a: "항공사 처분 이후 Capital A는 다섯 개 사업, 즉 Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next, Santan을 중심으로 구성된 항공 서비스 및 디지털 그룹입니다."
 
 lang: "ko"
+sourceContentHash: "649108ce940fc47e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

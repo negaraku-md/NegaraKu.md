@@ -41,8 +41,9 @@ verificationNeeded:
   - "2021년 6월 개정된 AAPG 1 및 AAPG 2가 여전히 현행 MIA 예시 보고서이며 이후 개정으로 대체되지 않았는지 확인할 것"
 
 lang: "ko"
+sourceContentHash: "b166913dca839ae9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "이 집단이 상대적이기 때문입니다. 다른 사람의 소득이 당신보다 빠르게 오르면 B40 기준선도 오르므로, 당신의 소득이 늘어도 여전히 같은 집단에 있을 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "83d77f4a9e3c0e88"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

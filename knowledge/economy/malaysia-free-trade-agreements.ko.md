@@ -32,8 +32,9 @@ faq:
     a: "그렇습니다. 말레이시아와 EU는 2025년 1월 FTA 협상을 재개했으며, 말레이시아는 2025년 4월 11일 EFTA 국가들(아이슬란드, 리히텐슈타인, 노르웨이, 스위스)과 경제 파트너십 협정을 타결했습니다."
 
 lang: "ko"
+sourceContentHash: "7239744fcdcf2f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

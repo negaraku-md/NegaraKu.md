@@ -29,8 +29,9 @@ faq:
     a: "신청은 교육부 포털을 통해 온라인으로 이루어지며, 학생은 학업 성취와 교과외 활동과 더불어 특수학교 입학 평가(PKSK)로 선발됩니다."
 
 lang: "ko"
+sourceContentHash: "8256668a3fad86ff"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

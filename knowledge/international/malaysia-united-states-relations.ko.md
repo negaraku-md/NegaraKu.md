@@ -32,8 +32,9 @@ faq:
     a: "USTR은 2025년 총 양자 상품 교역액을 약 미화 885억 달러(미국 수출 289억 달러, 수입 597억 달러)로 추정하였습니다. 미국 통계국 자료는 2024년 양자 상품 교역액을 미화 800억 달러 가까이로 집계하였으며, 말레이시아 외교부는 2024년 총 교역액을 RM324.91 billion(미화 713억 9천만 달러)으로 인용하였습니다."
 
 lang: "ko"
+sourceContentHash: "6acdeba029dc19eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

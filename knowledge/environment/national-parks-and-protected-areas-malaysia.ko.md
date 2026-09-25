@@ -34,8 +34,9 @@ faq:
     a: "국립공원법 1980 제10조는 국립공원 내 채광과 탐사를 금지하되, 주 당국이 장관과 협의한 뒤 매우 풍부한 광물 매장이 존재한다고 판단하는 경우는 예외로 합니다."
 
 lang: "ko"
+sourceContentHash: "1f3622365daf3410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

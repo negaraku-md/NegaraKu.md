@@ -29,8 +29,9 @@ faq:
     a: "2007년 9월 28일 시행된 자본시장서비스법(Capital Markets and Services Act 2007, Act 671)이 자본시장 활동, 시장, 허가받은 중개인을 규율합니다."
 
 lang: "ko"
+sourceContentHash: "d90c41e40d0daaa1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

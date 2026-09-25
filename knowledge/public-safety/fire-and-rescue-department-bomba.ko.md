@@ -31,8 +31,9 @@ faq:
     a: "JBPM은 주택지방정부부(KPKT) 산하 부서로 등재되어 있습니다. 말레이시아의 부처 소관 업무는 수시로 재편되므로, 공식 문서에서 이에 의존하기 전에 kpkt.gov.my 또는 bomba.gov.my에서 현재 체계를 확인하십시오."
 
 lang: "ko"
+sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "Jabatan Wilayah Persekutuan (JWP) di bawah Jabatan Perdana Menteri menyelaras dasar dan pembangunan ketiga-tiga wilayah di peringkat persekutuan, manakala DBKL, Perbadanan Putrajaya dan Perbadanan Labuan ialah pihak berkuasa tempatan yang menjalankan urusan harian seperti pelesenan, perancangan bandar dan perkhidmatan perbandaran di wilayah masing-masing."
 
 lang: "ko"
+sourceContentHash: "5739f9cd1afe168b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

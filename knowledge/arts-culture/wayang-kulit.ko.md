@@ -30,8 +30,9 @@ faq:
     a: "Mostly at cultural festivals, museum and heritage programmes, and tourism performances rather than as village entertainment. The National Department for Culture and Arts and state cultural bodies are the practical starting point for finding scheduled performances."
 
 lang: "ko"
+sourceContentHash: "d4cb6805f330e418"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

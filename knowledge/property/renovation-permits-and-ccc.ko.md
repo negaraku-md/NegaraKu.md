@@ -28,8 +28,9 @@ faq:
     a: "CCC는 주택이 승인 도면에 따라 지어져 거주에 안전함을 확인합니다. CCC가 없으면 건물은 공식적으로 거주 자격이 없고 공과금 공급이 영향을 받을 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "47b5179ed98be754"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

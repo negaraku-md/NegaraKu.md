@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "말레이시아에서 현지 휴대폰 SIM을 구매하거나 등록해야 하는 모든 사람 — 시민, 거주자, 취업 패스 소지자, 학생, 관광객."
 
 lang: "ko"
+sourceContentHash: "5f238099826ab02d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -26,8 +26,9 @@ verificationNeeded:
   - "Whether RMCD has issued a dedicated guide reconciling the e-Invoice visual representation with the SST invoice particulars — none was located on mysst.customs.gov.my"
 
 lang: "ko"
+sourceContentHash: "cf809540c51ed69e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

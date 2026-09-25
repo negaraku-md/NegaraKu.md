@@ -37,8 +37,9 @@ faq:
     a: "The registered office must be in Malaysia and be a place where documents can be served and records inspected (s.46). Many companies use their company secretary's office instead."
 
 lang: "ko"
+sourceContentHash: "0220f937a06b83b7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

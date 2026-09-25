@@ -30,8 +30,9 @@ faq:
     a: "The lamps — small clay or metal lamps often called diyas — are the visual heart of a 'festival of lights'. Rows of them are lit at doorways and windows, echoing the meaning of the festival's name, 'a row of lights'."
 
 lang: "ko"
+sourceContentHash: "6b34554bb6701b65"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

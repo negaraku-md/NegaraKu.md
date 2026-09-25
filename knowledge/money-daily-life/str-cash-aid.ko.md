@@ -23,8 +23,9 @@ appliesTo: "라흐마 현금 지원(STR)을 신청, 갱신, 또는 상태 확인
 verificationNeeded:
   - "STR 2026 공식 FAQ(bantuantunai.hasil.gov.my/FAQ/의 PDF)는 자격 조건과 지급 금액에 관한 추가 세부사항을 담고 있으나, 그 PDF에 내장된 폰트가 작성 당시 자동 텍스트 추출을 막았습니다 — 독자는 그 PDF를 직접 다운로드해 확인하거나, 정확한 개인 세부사항을 위해 MySTR에 로그인할 것을 권합니다."
 lang: "ko"
+sourceContentHash: "353147e69093acce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

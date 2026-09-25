@@ -33,8 +33,9 @@ faq:
     a: "Nama itu diisytiharkan pada 31 Ogos 1997 di Dataran Merdeka, sempena sambutan 40 tahun kemerdekaan."
 
 lang: "ko"
+sourceContentHash: "f09e1191ce6cd425"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

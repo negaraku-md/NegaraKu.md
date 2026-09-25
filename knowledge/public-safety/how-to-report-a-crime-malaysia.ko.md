@@ -40,8 +40,9 @@ faq:
     a: "이미 기록된 신고는 경찰 기록에서 삭제할 수 없습니다. 새 정보, 사실 오류 또는 사건 진전이 있다면, 원 신고 번호를 참조하는 추가 신고를 하는 것이 올바른 방법이며, 원 신고를 폐기하도록 요청하는 것이 아닙니다."
 
 lang: "ko"
+sourceContentHash: "0ae54502024bdaab"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "e-Reporting 자격 요건(말레이시아 시민, 18세 이상)과 신고 가능 항목의 전체 목록 — 공식 포털 ereporting.rmp.gov.my에 직접 접속하여 확인할 수 없었음; 공식 포털과 대조하여 확인할 것."

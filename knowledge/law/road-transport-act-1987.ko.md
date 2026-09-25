@@ -27,8 +27,9 @@ faq:
   - q: "What changed with the 2020 amendment?"
     a: "The Road Transport (Amendment) Act 2020 came into force on 23 October 2020. It raised penalties and disqualification periods for reckless and dangerous driving and drink-driving (sections 41-45A), lowered the prescribed alcohol limits to WHO standards, and added a definition of 'micromobility vehicle'."
 lang: "ko"
+sourceContentHash: "e438c79ab71a1dba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

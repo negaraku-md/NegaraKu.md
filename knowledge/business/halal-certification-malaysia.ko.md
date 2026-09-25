@@ -29,8 +29,9 @@ faq:
     a: "JAKIM targets 15 to 30 working days once a complete application is received. In practice, allowing for document preparation, the on-site audit and any corrections, businesses should budget three to six months from start to certificate."
 
 lang: "ko"
+sourceContentHash: "5688169feeb631ac"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

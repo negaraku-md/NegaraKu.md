@@ -38,8 +38,9 @@ faq:
     a: "2027년이라는 날짜가 시사하는 것보다 적습니다. 소급 적용은 비교 기간이 새 기준으로 작성되어야 함을 의미하므로, 12월 결산 회사는 2026년 1월 1일부터 MPERS (2025) 데이터를 수집하고 있습니다. 수익 계약의 재분석이 필요하다면, 그 작업은 전환 연도 안이 아니라 그 전에 시작됩니다."
 
 lang: "ko"
+sourceContentHash: "016de66c249cb162"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

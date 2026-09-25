@@ -33,8 +33,9 @@ faq:
     a: "Yes, since the Arbitration (Amendment) Act 2024 came into force on 1 January 2026. Sections 46A–46I create a statutory framework, Section 46C abolishes the common-law rules against maintenance and champerty, and Section 46G requires the funding arrangement and funder's identity to be disclosed."
 
 lang: "ko"
+sourceContentHash: "dbaaa201e69ebe39"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

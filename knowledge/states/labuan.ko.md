@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "라부안 구조를 검토하는 창업자, 세무 자문가, 재무 팀, 그리고 라부안이 말레이시아의 나머지 지역과 왜 다르게 취급되는지 이해하고자 하는 독자."
 
 lang: "ko"
+sourceContentHash: "398103a0292eae47"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

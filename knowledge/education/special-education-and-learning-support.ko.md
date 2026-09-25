@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "진단받은 장애나 학습 곤란이 있는 말레이시아 아동의 학부모와 보호자로서, 어떤 학교 배치와 어떤 등록 단계가 적용되는지 파악하려는 사람."
 
 lang: "ko"
+sourceContentHash: "e0164ad51b29c01a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

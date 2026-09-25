@@ -29,8 +29,9 @@ faq:
     a: "일부 타카풀 플랜은 위험 기금의 분배 가능 잉여를 증서 조건에 따라 적격 참여자와 분배할 수 있게 합니다. 이 잉여 분배 특징은 대부분의 전통 보험에는 직접적 등가물이 없습니다."
 
 lang: "ko"
+sourceContentHash: "94509152b2b8fc7d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

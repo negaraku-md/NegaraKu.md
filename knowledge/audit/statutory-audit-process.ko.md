@@ -42,8 +42,9 @@ verificationNeeded:
   - "IAASB이 2025년 12월 15일 이후 개시하는 기간에 시행한 덜 복잡한 법인을 위한 ISA(ISA for Less Complex Entities)를 MIA가 채택했는지 확인할 것 — 말레이시아 채택 결정을 확인할 수 없었음"
 
 lang: "ko"
+sourceContentHash: "35fbbbda43a0bf04"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

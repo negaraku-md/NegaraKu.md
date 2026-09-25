@@ -29,8 +29,9 @@ faq:
     a: "Genting은 레저 및 호스피탈리티, 오일팜 플랜테이션, 발전, 석유·가스, 부동산 개발, 생명과학에 걸쳐 있습니다. Genting Plantations는 말레이시아와 인도네시아에 걸쳐 약 243,000헥타르의 토지를 운영합니다."
 
 lang: "ko"
+sourceContentHash: "1b5f1753141cba5e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

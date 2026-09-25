@@ -77,8 +77,9 @@ obligations:
     consequence: "Offence by the company and every officer in default under s.120(6)"
 
 lang: "ko"
+sourceContentHash: "6120d0d4e510c23d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

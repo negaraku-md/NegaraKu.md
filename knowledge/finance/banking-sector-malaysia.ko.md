@@ -34,8 +34,9 @@ faq:
     a: "아닙니다. 지정된 개발금융기관은 2002년 개발금융기관법(Development Financial Institutions Act 2002)에 따라 규제되며 말레이시아 중앙은행의 감독을 받는데, 이는 FSA 및 IFSA와는 별개의 체제입니다."
 
 lang: "ko"
+sourceContentHash: "a9fc5401e6cabfb3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

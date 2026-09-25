@@ -29,8 +29,9 @@ faq:
     a: "아니요. RTS Link는 조호르바루와 우드랜즈(Woodlands) 사이의 짧은 국경 간 셔틀로, 2026년 개통을 목표로 합니다. HSR은 쿠알라룸푸르와 싱가포르 사이에 계획된 별개의 약 350km 고속 노선입니다."
 
 lang: "ko"
+sourceContentHash: "b505d87f2fe5cea1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

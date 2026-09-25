@@ -33,8 +33,9 @@ faq:
     a: "아니요. 고등교육은 별도의 법 아래에 있습니다. 교육법(Education Act 1996) 제71조는 사립 고등교육기관을 그 범위에서 분리하며, 이들은 사립고등교육기관법 1996(Private Higher Educational Institutions Act 1996, Act 555)의 규율을 받고 고등교육부(MOHE)가 규제합니다. 설립을 위한 인가 서한, 그다음 사립고등교육기관 등기관에의 등록과 등록증명서, 그리고 프로그램에 대한 과정 승인과 MQA 인증이 필요합니다 — 학원이나 학교보다 무거운 제도입니다."
 
 lang: "ko"
+sourceContentHash: "d390cb119ff8a023"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

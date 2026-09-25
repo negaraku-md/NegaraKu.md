@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "말레이시아의 고용주, HR·급여팀, 그리고 법정 급여 공제를 이해하려는 민간 부문 근로자."
 
 lang: "ko"
+sourceContentHash: "9085a7b0c1f610fb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "Perkara 38(6) memberi Majlis Raja-Raja kuasa untuk memecat Agong. Menurut ulasan perundangan, kuasa ini tidak pernah digunakan sepanjang sejarah negara."
 
 lang: "ko"
+sourceContentHash: "f2d2c6ec105b4198"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

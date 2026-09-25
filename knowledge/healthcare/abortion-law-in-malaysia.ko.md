@@ -31,8 +31,9 @@ faq:
     a: "보건부의 2012년 지침은 임신 종료를 임신 22주 미만의 시점, 또는 임신 주수를 알 수 없는 경우 태아가 500그램 미만으로 추정되는 시점의 시술로 정의합니다."
 
 lang: "ko"
+sourceContentHash: "58e08ea86f967964"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

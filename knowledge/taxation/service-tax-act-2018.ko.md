@@ -28,8 +28,9 @@ faq:
   - q: "What changed on 1 July 2025?"
     a: "The scope of service tax was expanded to cover new services including leasing or rental, construction, financial services, private healthcare and education. Fee-based financial services are taxed at 8%; construction, private healthcare (non-citizens only) and education are taxed at 6%. Rental or leasing was taxed at 8% from 1 July 2025 but was reduced to 6% from 1 January 2026. The proposed expansion to beauty services was withdrawn before 1 July 2025. No prosecution or penalties applied to businesses taking steps to comply until 31 December 2025."
 lang: "ko"
+sourceContentHash: "1a8e884731ffdc96"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

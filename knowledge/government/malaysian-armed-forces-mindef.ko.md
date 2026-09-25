@@ -32,8 +32,9 @@ faq:
     a: "Ia dibentangkan di Dewan Rakyat pada 2 Disember 2019."
 
 lang: "ko"
+sourceContentHash: "3c6e38b833f827d4"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

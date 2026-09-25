@@ -18,8 +18,9 @@ keyTakeaways:
   - "Bentuk seni ini dikaitkan dengan tradisi dikir dari selatan Thailand yang disesuaikan di Kelantan dengan penambahan pantun dan dialek Kelantan"
 appliesTo: "Sesiapa yang ingin memahami bentuk persembahan Dikir Barat, peranan Tukang Karut dan Tok Juara, serta struktur sebuah kumpulan."
 lang: "ko"
+sourceContentHash: "8d1b65f59cb7dafe"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

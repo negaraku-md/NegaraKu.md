@@ -49,8 +49,9 @@ obligations:
     consequence: "An application made after the period expires cannot be granted; the document is late and attracts the Practice Directive 1/2017 penalty"
 
 lang: "ko"
+sourceContentHash: "311259c2c815e84c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

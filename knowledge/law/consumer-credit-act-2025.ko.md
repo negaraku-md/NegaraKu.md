@@ -33,8 +33,9 @@ faq:
     a: "Ya. Di bawah Akta Sewa Beli 1967, deposit minimum ialah 10% daripada harga tunai, walaupun pembiaya boleh menetapkan jumlah yang lebih tinggi."
 
 lang: "ko"
+sourceContentHash: "2d6f10d61a0f1ec1"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

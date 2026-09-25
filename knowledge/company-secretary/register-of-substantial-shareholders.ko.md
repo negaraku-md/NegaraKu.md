@@ -34,8 +34,9 @@ faq:
     a: "An offence punishable on conviction by a fine not exceeding RM1 million, and a further fine of up to RM1,000 for each day the offence continues after conviction (section 137, with parallel offences in sections 138 and 139)."
 
 lang: "ko"
+sourceContentHash: "608e7ade88de1522"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

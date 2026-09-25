@@ -48,8 +48,9 @@ obligations:
     statute: "Companies Act 2016, s.47(3)"
 
 lang: "ko"
+sourceContentHash: "7e06d764f7790869"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

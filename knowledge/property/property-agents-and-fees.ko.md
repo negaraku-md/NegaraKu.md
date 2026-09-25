@@ -28,8 +28,9 @@ faq:
     a: "공식 기준표에 따른 임대 수수료는 임대 기간에 따라 총 임대료의 1.25개월분에서 1.75개월분(최소 수수료 1개월 임대료)이며; 누가 부담하는지는 당사자 간 합의 사항입니다."
 
 lang: "ko"
+sourceContentHash: "d09e304bd5589019"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

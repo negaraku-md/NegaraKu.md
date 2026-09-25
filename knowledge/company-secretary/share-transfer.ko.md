@@ -78,8 +78,9 @@ obligations:
     consequence: "Fine not exceeding RM10,000 on the company and every officer in default"
 
 lang: "ko"
+sourceContentHash: "2eb4fd7f219b7fed"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

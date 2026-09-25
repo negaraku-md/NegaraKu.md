@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "말레이시아의 행정 구분과 왜 쿠알라룸푸르가 주가 아닌지 이해하려는 모든 이."
 
 lang: "ko"
+sourceContentHash: "451b4e1d1dcd4be4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

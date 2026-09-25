@@ -60,8 +60,9 @@ obligations:
     consequence: "Form E is treated as not furnished until CP8D arrives; offence under s.120(1) ITA 1967"
 
 lang: "ko"
+sourceContentHash: "d4c8b31804f425e6"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

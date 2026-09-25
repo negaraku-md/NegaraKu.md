@@ -46,8 +46,9 @@ obligations:
     authority: "말레이시아 이민국"
 
 lang: "ko"
+sourceContentHash: "3119f651e106c8fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

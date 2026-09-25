@@ -26,8 +26,9 @@ verificationNeeded:
   - "MFRS 139는 여전히 MASB에 등재되어 있습니다; 그 범위 내에 있는 실체에 대해서는 현재 적용 상태를 확인하십시오"
 
 lang: "ko"
+sourceContentHash: "e028c2fa0dbb47c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

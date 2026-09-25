@@ -31,8 +31,9 @@ faq:
     a: "루쿤 뜨땅가는 국민통합부 산하 국민통합청(JPNIN)이 감독합니다. 그 법적 근거는 루쿤 뜨땅가법(Akta Rukun Tetangga 2012, Akta 751)입니다."
 
 lang: "ko"
+sourceContentHash: "79fa6f589efc75aa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

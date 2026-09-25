@@ -26,8 +26,9 @@ verificationNeeded:
   - "The required particulars of a valid s.44(6) donation receipt — LHDN's receipt-usage explainer page could not be retrieved."
 
 lang: "ko"
+sourceContentHash: "5f0966be244cdbe2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "1998년 쿠알라룸푸르 대회 개최로, 금메달 10개라는 최고의 성과를 기록하며 종합 4위에 올랐습니다. 이는 아시아에서 열린 최초의 코먼웰스게임이기도 했습니다."
 
 lang: "ko"
+sourceContentHash: "d25df756ce38577d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

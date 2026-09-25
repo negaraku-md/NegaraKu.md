@@ -31,8 +31,9 @@ faq:
     a: "MITEC, 즉 말레이시아 국제무역전시센터(Malaysia International Trade & Exhibition Centre)로, 2016년에 11개의 메가 전시홀과 52,000㎡의 전시 공간으로 개장했습니다. CIDB는 이 건물 안의 12,530㎡ 무주공간을 기록합니다."
 
 lang: "ko"
+sourceContentHash: "25f7bdfa80a0bc8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

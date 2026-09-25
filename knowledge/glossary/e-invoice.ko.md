@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "전자 인보이스 준수를 준비하거나 관리하는 사업주, 회계사, 재무팀."
 
 lang: "ko"
+sourceContentHash: "12ea69b29867be13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "다섯 개 지형입니다: 라양-라양 암초(Swallow Reef), 우비 암초(Ardasier Reef), 시풋 암초(Erica Reef), 페닌자우 암초(Investigator Shoal), 몬타나니 암초(Mariveles Reef)로, 모두 사바에 가까운 군도 남부에 있습니다."
 
 lang: "ko"
+sourceContentHash: "c7460cc1783b36b6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

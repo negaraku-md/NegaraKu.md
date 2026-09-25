@@ -61,8 +61,9 @@ obligations:
     consequence: "The appeal facility closes and the appeal cannot be submitted"
 
 lang: "ko"
+sourceContentHash: "10fdb6251948c8f0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

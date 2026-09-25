@@ -31,8 +31,9 @@ faq:
     a: "Pemilik boleh terus memiliki harta itu (seksyen 69), tetapi pertukaran pemilikan Warisan Kebangsaan hanya boleh berlaku melalui pewarisan atau jualan dengan kelulusan awal Pesuruhjaya, dan Pesuruhjaya mesti diberi keutamaan untuk membeli (seksyen 70)."
 
 lang: "ko"
+sourceContentHash: "ac4e452cf7f76ecc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

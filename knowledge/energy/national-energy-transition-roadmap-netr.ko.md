@@ -38,8 +38,9 @@ faq:
     a: "2024년 4월 15일 에너지전환수자원부가 출범한 말레이시아 에너지거래소(Energy Exchange Malaysia, ENEGEM)는 이웃 아세안 국가에 재생 전력을 판매하기 위한 말레이시아 최초의 국경 간 플랫폼입니다. 그 시범 경매는 싱가포르에 100MW의 재생에너지를 제공했습니다."
 
 lang: "ko"
+sourceContentHash: "d6cf99b70fef6280"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

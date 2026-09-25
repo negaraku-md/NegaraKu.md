@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "학생, 정책 분석가, 언론인, 그리고 DEB에서 현행 계획까지 부미푸트라 경제정책 목표의 연속성을 이해하려는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "0cfaf6ebc14f819b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

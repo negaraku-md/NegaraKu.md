@@ -18,8 +18,9 @@ keyTakeaways:
   - "Lenyap daripada catatan menjelang kira-kira abad ke-15, terserap ke dalam negeri pewaris seperti lingkungan pengaruh Ayutthaya"
 appliesTo: "Pembaca yang ingin tahu apa yang wujud di Semenanjung Tanah Melayu sebelum Melaka, dan sejauh mana sejarah awal itu benar-benar muktamad berbanding masih diperdebatkan."
 lang: "ko"
+sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

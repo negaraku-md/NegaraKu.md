@@ -29,8 +29,9 @@ faq:
     a: "Seksyen 7 membenarkan Menteri, melalui perintah dalam Warta, mengharamkan penerbitan yang dianggap memudaratkan atau berkemungkinan memudaratkan ketenteraman awam, keselamatan, moraliti, hubungan dengan negara asing atau kepentingan negara."
 
 lang: "ko"
+sourceContentHash: "614accf2d6e4feba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

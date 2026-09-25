@@ -30,8 +30,9 @@ faq:
     a: "Lembaga Pencegahan Jenayah — sebuah badan yang dipengerusikan oleh individu berkelayakan undang-undang dan dilantik kerajaan — bukan mahkamah. Lembaga bertindak berdasarkan laporan Pegawai Penyiasat yang dilantik Menteri."
 
 lang: "ko"
+sourceContentHash: "a6b06f9b9fdb4839"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

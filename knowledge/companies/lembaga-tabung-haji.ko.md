@@ -30,8 +30,9 @@ faq:
     a: "TH는 역사적으로 뱅크 이슬람 말레이시아(Bank Islam Malaysia)와 샤리캇 타카풀 말레이시아 클루아르가(Syarikat Takaful Malaysia Keluarga)를 포함한 이슬람 금융 부문과 연관되어 왔으며, 기관투자자로서 여러 다른 자산군에도 지분을 보유합니다. 현재의 지분 및 지분율 세부 사항은 지분 구조(예: 2023년 BIMB 그룹 재구조화)가 변할 수 있으므로 TH 및 관련 회사의 공식 재무제표를 참고해야 합니다."
 
 lang: "ko"
+sourceContentHash: "440a6d426804d717"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

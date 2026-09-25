@@ -31,8 +31,9 @@ faq:
     a: "Because it is a descendant of the same draft. The Straits Settlements Penal Code was enacted as Ordinance No. 4 of 1871 and came into operation the following year as a local re-enactment of the Indian Penal Code, itself drafted by the first Indian Law Commission under Lord Macaulay. The Federated Malay States Penal Code of 1936 followed the same model, and Act 574 is its direct successor."
 
 lang: "ko"
+sourceContentHash: "7702e4996ec5b32e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "일반적으로 총 상장 비용은 규모와 복잡성에 따라 ACE 마켓은 약 RM300만에서 RM700만, 메인 마켓은 RM500만 이상입니다. 여기에는 인수, 배정, 중개 수수료(일반적으로 주식 가치의 1%에서 3%), 전문가 보수, 그리고 증권위원회(메인 마켓) 또는 Bursa Malaysia(ACE 마켓)에 납부하는 규제 수수료가 포함됩니다."
 
 lang: "ko"
+sourceContentHash: "4baad2385800a2d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

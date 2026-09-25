@@ -27,8 +27,9 @@ faq:
   - q: "Who leads the Ministry of Finance?"
     a: "As of August 2026, the Minister of Finance is Dato' Seri Anwar bin Ibrahim, with Datuk Seri Amir Hamzah bin Azizan as Minister of Finance II and Datuk Johan Mahmood bin Merican as Secretary-General of Treasury. Officeholders change with Cabinet reshuffles, so verify current names at mof.gov.my."
 lang: "ko"
+sourceContentHash: "d725c73359a7391e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

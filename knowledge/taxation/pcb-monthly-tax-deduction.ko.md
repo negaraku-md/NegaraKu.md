@@ -39,8 +39,9 @@ verificationNeeded:
   - "Confirm the PCB deduction rate applied to a non-resident employee is the Schedule 1 Part I para 1A flat rate as a matter of the MTD Rules, not only of the underlying charge"
 
 lang: "ko"
+sourceContentHash: "8996f0535326898f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

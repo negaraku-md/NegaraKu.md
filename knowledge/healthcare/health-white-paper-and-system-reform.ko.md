@@ -32,8 +32,9 @@ faq:
     a: "정부는 아니라고 강조합니다. Rakan KKM 같은 이니셔티브는 민영화가 아니라 전문의를 공공 부문에 붙잡아 두기 위한 모델로 제시되지만, 일부 관찰자는 그 장기적 영향에 대해 여전히 신중한 태도를 유지합니다."
 
 lang: "ko"
+sourceContentHash: "f5aff2ea91b18549"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

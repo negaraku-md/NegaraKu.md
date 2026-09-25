@@ -30,8 +30,9 @@ faq:
     a: "Aktiviti berlesen dibahagikan kepada empat kategori. Menerusi arahan 2024, penyedia media sosial dan pemesejan Internet dengan sekurang-kurangnya lapan juta pengguna di Malaysia dikehendaki memohon lesen kelas daripada SKMM, berkuat kuasa 1 Januari 2025."
 
 lang: "ko"
+sourceContentHash: "6cd84d5baa9c3ad8"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "그렇습니다, 특히 사바입니다. 2015년 라나우(Ranau) 지진은 규모 6.0으로 키나발루산에서 18명의 목숨을 앗아갔습니다. 2026년 2월 23일에는 쿠닷(Kudat) 인근 앞바다에서 규모 6.8의 지진이 깊이 678km에서 발생했으나 쓰나미 위협은 없었습니다. 반도에서의 대규모 지진 위험은 낮습니다."
 
 lang: "ko"
+sourceContentHash: "aacc807758e00d83"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

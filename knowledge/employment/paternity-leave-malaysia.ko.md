@@ -28,8 +28,9 @@ verificationNeeded:
   - "Confirm whether the twelve-month service condition tolerates a break in service, and how continuous service is computed for s.60FA"
 
 lang: "ko"
+sourceContentHash: "97900bf02693ecc5"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

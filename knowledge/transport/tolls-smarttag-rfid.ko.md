@@ -28,8 +28,9 @@ faq:
     a: "RFID는 여전히 차량이 판독 성공 후 올라가는 차단기가 있는 표시된 차로를 통과할 것을 요구합니다. JustGO PLUS 같은 ANPR은 번호판을 읽는 카메라로 차량을 인식하여, 등록된 차량이 어떤 실물 태그도 없이 어느 차로로든 통과할 수 있게 합니다 — 완전 무차단기 시스템(MLFF)을 향한 또 한 걸음입니다."
 
 lang: "ko"
+sourceContentHash: "c1392d940afe3b99"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

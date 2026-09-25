@@ -36,8 +36,9 @@ faq:
     a: "KL20 is the government's 2024 action plan, unveiled at the KL20 Summit in Kuala Lumpur, to strengthen Malaysia's startup competitiveness. It outlines initiatives across three critical focus areas — capital, talent and the quality of startups — and targets making Malaysia a top-20 global startup hub with RM400 billion in startup valuation by 2030. It is aligned with the Malaysia Venture Capital Roadmap 2024-2030 and the goal of making Malaysia a preferred regional venture-capital hub by 2030."
 
 lang: "ko"
+sourceContentHash: "0c6b5fee40e498df"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

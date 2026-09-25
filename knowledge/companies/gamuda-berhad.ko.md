@@ -32,8 +32,9 @@ faq:
     a: "주요 해외 시장은 건설의 경우 호주와 대만이며, 부동산의 경우 베트남, 영국, 싱가포르, 호주입니다."
 
 lang: "ko"
+sourceContentHash: "09f7639abce305e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

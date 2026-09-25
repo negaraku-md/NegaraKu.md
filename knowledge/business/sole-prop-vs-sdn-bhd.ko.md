@@ -24,8 +24,9 @@ appliesTo: "등록사업체와 회사 설립 사이에서 선택하는 말레이
 verificationNeeded: []
 
 lang: "ko"
+sourceContentHash: "5417c396f8f77b23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -18,8 +18,9 @@ keyTakeaways:
   - "Peninsular Malaysia and Borneo (Sabah and Sarawak) are separated by the South China Sea and host distinct assemblages of species, with Borneo holding the bulk of the country's peat swamp and mangrove forest."
 appliesTo: "national"
 lang: "ko"
+sourceContentHash: "9a6c3f25f0c58105"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

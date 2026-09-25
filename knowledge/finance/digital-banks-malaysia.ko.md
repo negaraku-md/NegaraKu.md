@@ -30,8 +30,9 @@ faq:
     a: "GXBank가 2023년에 가장 먼저 영업을 개시했습니다. AEON Bank는 2024년 5월 26일에 일반에 공개된 최초의 이슬람 디지털은행입니다."
 
 lang: "ko"
+sourceContentHash: "e7e1910cb72bc76a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

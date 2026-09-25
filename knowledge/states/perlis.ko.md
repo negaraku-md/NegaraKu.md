@@ -35,8 +35,9 @@ verificationNeeded:
   - "펄리스 내륙항(Perlis Inland Port) 배정액(기반 시설 RM3억1,800만, 민간 투자 RM12억)과 여섯 개 행정 구역을 mkn.gov.my 접속이 가능해지면 MKN에 대조하여 재확인; 최근 재확인 시 사이트가 다운되어 이 수치는 원래 2026-07-24 확인에 근거함."
 
 lang: "ko"
+sourceContentHash: "f8950ccf72fcaab1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

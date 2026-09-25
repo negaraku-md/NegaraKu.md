@@ -30,8 +30,9 @@ faq:
     a: "정부 구급차는 999 회선을 통해 무료로 출동하며, 보건부(KKM)가 세인트존 앰뷸런스(St John Ambulance), 말레이시아 적신월사(Bulan Sabit Merah Malaysia) 같은 자원봉사 단체와 함께 운영합니다. 민간 구급차는 민간 회사나 병원이 자체 핫라인을 통해 운영하며, 신고 내용에 따라 서비스 요금을 부과합니다."
 
 lang: "ko"
+sourceContentHash: "492fe31c078f6681"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

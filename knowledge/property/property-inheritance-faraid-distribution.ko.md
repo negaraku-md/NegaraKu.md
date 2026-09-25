@@ -30,8 +30,9 @@ faq:
     a: "부동산을 포함하고 RM500만 미만인 소액 유산은 지방 토지청을 통해 토지관리관이 처리하며, 분배 명령(Perintah Pembahagian)을 발급합니다."
 
 lang: "ko"
+sourceContentHash: "569aa98893242689"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

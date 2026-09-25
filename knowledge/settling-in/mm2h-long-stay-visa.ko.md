@@ -23,8 +23,9 @@ verificationNeeded:
   - "MOTAC 자체 사이트가 일부 자동 조회기에 403을 반환함. 여기 수치는 mm2h.gov.my의 범주 및 지침 페이지에 대한 직접 브라우저식 요청으로 조회하여 사이트 자체의 범주 개요 비교표와 교차 확인했지만, 프로그램은 2024년 이후 상당히 변경되었고 조건이 다시 개정될 수 있으므로 — 신청에 의존하기 전에 항상 mm2h.gov.my에서 현행 수치를 확인할 것."
 
 lang: "ko"
+sourceContentHash: "9a440d3b932f1d8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

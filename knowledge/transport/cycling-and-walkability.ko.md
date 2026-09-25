@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "말레이시아 도시의 보행 환경과 자전거 인프라를 다른 나라와 비교하려는 주민, 계획가, 그리고 관심 있는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "3d0d276aec4c1fe4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

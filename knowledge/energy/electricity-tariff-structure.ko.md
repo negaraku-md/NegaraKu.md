@@ -27,8 +27,9 @@ faq:
     a: "아닙니다. 월 RM10의 소매 요금은 월 600 kWh 이하를 사용하는 가구에는 면제됩니다."
 
 lang: "ko"
+sourceContentHash: "6f49b99389da2c61"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

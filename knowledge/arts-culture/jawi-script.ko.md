@@ -34,8 +34,9 @@ seoTitle: "자위 문자: 역사, 체계, 그리고 오늘날의 지위"
 socialTitle: "Aksara Arab yang menulis bahasa Melayu selama tujuh abad — kisah tulisan Jawi"
 
 lang: "ko"
+sourceContentHash: "227837ea67cec8a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

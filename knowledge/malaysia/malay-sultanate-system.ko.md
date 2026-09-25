@@ -18,8 +18,9 @@ keyTakeaways:
   - "Institusi kesultanan diteruskan dalam Perlembagaan menerusi sembilan Raja Melayu, Majlis Raja-Raja, dan Yang di-Pertuan Agong"
 appliesTo: "Sesiapa yang ingin memahami struktur dan peranan institusi kesultanan Melayu tradisional dan bagaimana ia bersambung dengan sistem raja berperlembagaan hari ini."
 lang: "ko"
+sourceContentHash: "95bf275cb438d0b7"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

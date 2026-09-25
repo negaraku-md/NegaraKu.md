@@ -34,8 +34,9 @@ faq:
     a: "단위당 NAV는 펀드 자산의 총 시장가치에서 부채를 뺀 뒤 발행 단위 수로 나눈 것입니다. 여러분이 단위를 사고파는 가격이며, 펀드 보유 자산의 가치에 따라 매일 움직입니다. 단위당 NAV가 상승하면 펀드의 투자가 가치를 얻었다는 의미입니다."
 
 lang: "ko"
+sourceContentHash: "a2f63906e556e7a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

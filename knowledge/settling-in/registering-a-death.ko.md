@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "말레이시아에서 누군가의 사망을 등록하고 이후 행정 업무를 위해 사망 증명서를 얻을 책임이 있는 상속인, 가까운 가족 또는 신고인."
 
 lang: "ko"
+sourceContentHash: "729859064dd35894"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

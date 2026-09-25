@@ -29,8 +29,9 @@ faq:
     a: "주된 관할권은 주 이슬람 종교부/위원회에 있습니다. 이슬람 종교 사안이 헌법상 주(州) 사안이기 때문입니다. JAKIM은 연방 차원에서 조정하며, 건물 안전 요건은 지방 당국과 소방청이 관여합니다."
 
 lang: "ko"
+sourceContentHash: "e8c71a5517740e23"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

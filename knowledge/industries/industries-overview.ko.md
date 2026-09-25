@@ -34,8 +34,9 @@ faq:
     a: "2024년, 서비스가 RM2,527억 링깃의 승인 투자(전체의 66.8%)를, 제조가 RM1,205억 링깃(31.8%)을 끌어들였으며, 이는 전체 사상 최대인 RM3,785억 링깃 중 일부입니다(MIDA)."
 
 lang: "ko"
+sourceContentHash: "fd46cc26349bd735"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

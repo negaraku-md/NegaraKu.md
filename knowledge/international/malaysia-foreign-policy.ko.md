@@ -31,8 +31,9 @@ faq:
   - q: "아세안은 왜 말레이시아 외교 정책에 그토록 중심적입니까?"
     a: "말레이시아는 아세안의 창립 회원국(1967년 8월 8일)입니다. 아세안을 통해 집단적으로 행동하는 것은, 중간 규모의 교역 의존적 국가에게 홀로일 때보다 강대국과의 관계 관리에서 더 강한 목소리를 부여합니다 — 그렇기 때문에 아세안 중심성이 이 정책의 초석으로 취급됩니다."
 lang: "ko"
+sourceContentHash: "0119cb2bc48cc9ad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

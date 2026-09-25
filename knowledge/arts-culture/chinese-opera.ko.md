@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "任何想了解马来西亚华人传统戏曲种类，以及「酬神戏」在庙会与节庆中扮演角色的人。"
 
 lang: "ko"
+sourceContentHash: "13b9c7f4fc9cc94d"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

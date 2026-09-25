@@ -22,8 +22,9 @@ verificationNeeded:
   - "말라야에 마막 가게가 처음 세워진 구체적 날짜와 장소 — 발견된 자료는 영국 식민 시대를 일반적으로 언급할 뿐, 확인된 날짜나 공식 기록이 없습니다."
 
 lang: "ko"
+sourceContentHash: "3046b79972e90a21"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

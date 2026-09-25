@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "고정된 임무를 위해 외국인 전문가, 연구자, 연수생, 자원봉사자 또는 전시 참가자를 맞이하는 말레이시아 회사, 그리고 그들을 위해 신청하는 후원 인사 또는 이동 담당 팀."
 
 lang: "ko"
+sourceContentHash: "8d251b7426f433be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

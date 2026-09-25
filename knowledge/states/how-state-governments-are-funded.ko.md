@@ -30,8 +30,9 @@ faq:
     a: "두 주(州)는 제112C조에 따른 특별 교부금과, 제10부칙 제5부에 따른 추가 세입원을 받습니다. 여기에는 석유 제품에 대한 관세, 원목 및 산림 산물 수출세, 광물 로열티, 그리고 주(州) 판매세가 포함됩니다."
 
 lang: "ko"
+sourceContentHash: "f7789909fc78f01b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

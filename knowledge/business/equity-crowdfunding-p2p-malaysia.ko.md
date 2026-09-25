@@ -44,8 +44,9 @@ verificationNeeded:
   - "The Guidelines prescribe no minimum or maximum tenure for a P2P investment note; only a 3-month minimum remaining repayment period for secondary market admission was located"
 
 lang: "ko"
+sourceContentHash: "000a7355af87eb83"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

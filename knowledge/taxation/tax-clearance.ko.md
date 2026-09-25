@@ -65,8 +65,9 @@ obligations:
     consequence: "Liability under s.107(4) for the full amount of tax due from the employee, as a debt to the Government"
 
 lang: "ko"
+sourceContentHash: "59c7042463497f7b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

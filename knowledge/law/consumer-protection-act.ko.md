@@ -30,8 +30,9 @@ faq:
     a: "An award is final and binding on the parties and is enforceable through the Magistrate's Court. There is no ordinary right of appeal; a dissatisfied party's remedy is to apply to the High Court for judicial review."
 
 lang: "ko"
+sourceContentHash: "7e827e839a62b8bc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

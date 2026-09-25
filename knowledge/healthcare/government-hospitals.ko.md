@@ -26,8 +26,9 @@ verificationNeeded:
   - "60세 이상 국민에 대한 특정 요금 면제/할인 — 전문 클리닉 등록비 RM5 면제 및 3등급 요금 50% 감면으로 널리 보고됨 — 은 공식 사이트 moh.gov.my에서 직접 확인할 수 없었으므로(접근 시도 시 403 Forbidden), 그 수치는 확인된 사실로 기재하지 않고 메커니즘만 일반적으로 설명합니다."
   - "대기 시간 통계(예: 전문의 예약이나 선택적 수술의 평균 일수/시간)는 집필 시점에 확인 가능한 공식 KKM 수치를 찾을 수 없었으므로 기재하지 않으며, 대기 시간의 현실은 정성적으로만 설명합니다."
 lang: "ko"
+sourceContentHash: "e787862480b6ac9a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "은행이나 금융회사가 대출 기간 동안 할부구매법 1967(Hire-Purchase Act 1967)에 따라 차량의 법적 소유자로 등록됩니다. 구매자는 차량을 일상적으로 사용하는 등록 점유자이며, 대출이 완전히 상환되고 금융사가 해제를 발행한 후에야 등록 소유자가 됩니다."
 
 lang: "ko"
+sourceContentHash: "fbeedb8341d7b377"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

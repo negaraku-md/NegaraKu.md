@@ -24,8 +24,9 @@ verificationNeeded:
   - "Confirm whether SSM has issued any enforcement guidance on the interval expected between the first and second s.60C notices"
 
 lang: "ko"
+sourceContentHash: "d0074a8a9e509a8c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

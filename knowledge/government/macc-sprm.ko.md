@@ -32,8 +32,9 @@ faq:
     a: "Yes. Section 17A, introduced by the 2018 amendment (Act A1567) and in force from 1 June 2020, makes a commercial organisation liable where a person associated with it corruptly gives or offers gratification to obtain or retain business. Separately, the Act's definition of 'public body' in section 3 reaches companies and subsidiaries in which a public body has controlling power or interest."
 
 lang: "ko"
+sourceContentHash: "6d18558cf5584f81"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

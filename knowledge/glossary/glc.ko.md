@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "투자자, 구직자, 사업을 입찰하는 공급업체, 그리고 말레이시아 경제 보도를 읽는 모든 이."
 
 lang: "ko"
+sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

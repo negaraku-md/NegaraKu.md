@@ -35,8 +35,9 @@ faq:
     a: "목표는 주요 대회 주기 — 올림픽, 아시안게임, 코먼웰스게임 — 와 연계되며, 국가스포츠정책의 목표 8에 따라 성공 가능성이 높다고 파악된 스포츠에 초점을 둡니다. 재정 지원은 주기별로(예컨대 4년간 연 RM60 million) 배분되며, 국가체육위원회가 조정하고 국가스포츠원이 스포츠 과학을 지원합니다."
 
 lang: "ko"
+sourceContentHash: "7132b0584a8f785b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "단계에 따라 크게 다릅니다. 초기 단계 벤처 라운드는 통상 수백만 링깃 한 자릿수 초반이고; 성장 및 사모펀드 거래는 훨씬 큽니다. 산업 수준에서, 말레이시아의 운용 중 약정 VC 및 PE 펀드는 2024년 말에 약 RM247억이었습니다 — 사모펀드 약 RM180억, 벤처캐피털 RM67억."
 
 lang: "ko"
+sourceContentHash: "fd613f83fbe57e2f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

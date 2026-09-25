@@ -33,8 +33,9 @@ faq:
     a: "Secara tradisinya wanita. UNESCO mencatatkan bahawa tenunan songket sentiasa berada di tangan wanita, manakala lelaki menyertai amalan itu dengan membuat kelengkapan menenun. Pengetahuannya diwarisi dalam keluarga dan kampung, dan sebahagian institusi turut menawarkan program latihan."
 
 lang: "ko"
+sourceContentHash: "054643f8240fb22d"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

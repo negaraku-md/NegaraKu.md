@@ -28,8 +28,9 @@ faq:
     a: "Per DOSM's Key Findings launch release, Selangor recorded the highest number of Muslims, Buddhists and Hindus among Malaysia's states, while Sarawak recorded the highest number of Christians. The release gives only the ranking, not a state-level breakdown for each religion."
 
 lang: "ko"
+sourceContentHash: "9209ca0d039c5f34"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

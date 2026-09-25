@@ -36,8 +36,9 @@ verificationNeeded:
   - "Butiran prosedur hari pengundian (waktu penamaan calon, tempoh berkempen, deposit calon) dikawal oleh Akta Pilihan Raya 1958 dan Peraturan-Peraturan Pilihan Raya (Perjalanan Pilihan Raya) 1981, yang boleh dipinda dari semasa ke semasa. Sahkan angka waktu dan jumlah deposit terkini terhadap teks peraturan dan pengumuman rasmi SPR di spr.gov.my sebelum bergantung padanya."
 
 lang: "ko"
+sourceContentHash: "d5825383db9e28fe"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

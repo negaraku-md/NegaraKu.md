@@ -32,8 +32,9 @@ faq:
     a: "그렇습니다. 2021년 출범한 PERKUKUH 이니셔티브는 무엇보다 각 GLIC에 더 명확한 권한을 부여하고, 민간 부문 참여를 늘리며(「crowding in」), 사업에서 정부의 역할을 간소화하는 한편, 더 많은 투자를 촉매적·개발적 분야로 유도하는 것을 목표로 하는 20개 이니셔티브를 제시했습니다."
 
 lang: "ko"
+sourceContentHash: "72a029d7e3ea589d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

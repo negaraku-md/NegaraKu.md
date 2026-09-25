@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "학생, 연구자, 기자, 그리고 양 디페르투안 아공의 헌법적 지위와 통치자회의의 선출 메커니즘을 기술적으로 이해하려는 모든 이."
 
 lang: "ko"
+sourceContentHash: "b3f6c2ddc1104e50"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

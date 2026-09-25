@@ -55,8 +55,9 @@ obligations:
     consequence: "제259조 제3항에 따라 모든 임원에게 최대 RM50,000의 벌금, 계속되는 범죄 매일마다 최대 RM1,000 추가"
 
 lang: "ko"
+sourceContentHash: "4e2872dc66850acf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

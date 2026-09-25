@@ -32,8 +32,9 @@ faq:
     a: "완전히는 아닙니다. 연방법원은 *Madeli bin Salleh*(2007)에서 NCR의 관습법상 인정을 확인했지만, *TR Sandah*(2016)에서는 의견이 갈린 법원이 집행 가능한 권리를 경작지로 제한하고 주변 공동체 산림에 대한 주장을 배척했습니다. NCR의 범위는 여전히 논쟁 중입니다."
 
 lang: "ko"
+sourceContentHash: "f1772b5d15bbbf86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

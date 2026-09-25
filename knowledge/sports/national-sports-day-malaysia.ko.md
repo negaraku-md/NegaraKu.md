@@ -29,8 +29,9 @@ faq:
     a: "HSN은 기념의 정점이 되는 날입니다. 2019년부터 KBS는 그 기념을 10월 한 달 내내 국가스포츠의 달(Bulan Sukan Negara, BSN)로 확대했습니다."
 
 lang: "ko"
+sourceContentHash: "51f2375791aa9f72"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "திவால்நிலை என்பது Insolvency Act 1967-இன் கீழான ஒரு நீதிமன்ற நடைமுறை. AKPK-இன் DMP என்பதோ கடன்களை மறுசீரமைக்க விருப்பப்படி இணையக்கூடிய (நீதிமன்ற ஆணை அல்ல) மலேசிய தேசிய வங்கியின் (BNM) ஒரு நிறுவனத்தின் கீழான ஒரு திட்டம்; BNM-இன் கூற்றுப்படி, AKPK-இன் சேவைகள் இலவசமாக வழங்கப்படுகின்றன. ஏற்கெனவே திவாலாக அறிவிக்கப்பட்ட தனிநபர்களுக்கு DMP திறந்திருக்கவில்லை."
 
 lang: "ta"
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

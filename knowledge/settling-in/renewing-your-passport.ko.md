@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "기존 국제 여권을 갱신하거나 분실/손상된 여권을 교체하려는 말레이시아 국민으로서, 온라인으로든 말레이시아 이민국(JIM) / UTC 창구에서든 하는 사람."
 
 lang: "ko"
+sourceContentHash: "bf73b9b94f1050d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

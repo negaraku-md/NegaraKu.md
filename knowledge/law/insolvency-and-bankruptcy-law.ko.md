@@ -34,8 +34,9 @@ faq:
     a: "Yes. The Companies Act 2016 introduced rescue mechanisms: judicial management (Sections 403-430), under which a court-appointed judicial manager runs the company under a moratorium, and the corporate voluntary arrangement (Section 395). A scheme of arrangement under Section 366 also lets a company bind creditors to a compromise with 75% approval by value and court sanction."
 
 lang: "ko"
+sourceContentHash: "a85ad7d5133bf9fc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

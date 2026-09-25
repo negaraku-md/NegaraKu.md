@@ -37,8 +37,9 @@ faq:
     a: "63개 적격 국가의 여행자는 여행 최소 3일 전에 MDAC를 제출한 경우 말레이시아의 자동 출입국 심사대를 이용할 수 있습니다. 최초 이용자는 심사대를 이용하기 전에 창구에서 등록해야 할 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "cdbee74bde6667f6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "입국을 위해 빈 여권 페이지가 공식적으로 요구되는지 여부(인용된 MIDA 출처에는 명시되어 있지 않음)."

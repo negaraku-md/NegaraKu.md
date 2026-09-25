@@ -33,8 +33,9 @@ faq:
     a: "그렇습니다. 1960년 콩고에 처음 파견한 이래, 유엔에 따르면 말레이시아는 38개가 넘는 평화유지 작전에서 29,000명이 넘는 평화유지군을 기여하였습니다. 2026년 7월 1일 기준, 말레이시아는 레바논 UNIFIL에 516명을 기여하고 있습니다(2025년 8월 830명에서 감소)."
 
 lang: "ko"
+sourceContentHash: "9173bdd2a2224732"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

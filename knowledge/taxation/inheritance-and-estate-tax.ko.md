@@ -38,8 +38,9 @@ faq:
     a: "Yes. The executor must inform LHDN of the death, file the deceased's final return and the estate's returns, and settle any outstanding tax and penalties before distributing the estate. LHDN has three years from the end of the year it is notified of the death to raise assessments."
 
 lang: "ko"
+sourceContentHash: "68ad2357941779d2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

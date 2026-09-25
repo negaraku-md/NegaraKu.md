@@ -31,8 +31,9 @@ faq:
     a: "LPG 보조금은 상업이 아니라 가정용을 대상으로 합니다. 규모가 큰 사업체는 보조금이 없고 더 비싼 업무용 통(보라색 통)을 사용해야 합니다. KPDN은 소상공인과 영세 사업자는 일정 한도 내에서 여전히 보조금 LPG를 사용할 수 있다고 밝힙니다."
 
 lang: "ko"
+sourceContentHash: "7fc238e7f93ed817"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "JPJ에 따르면, 발부일로부터 60일 이내에 해결되지 않은 AwAS 통지서는 법원 조치로 이어질 수 있으며, 유죄가 확정되면 RM300에서 RM2,000 사이의 벌금이 부과됩니다."
 
 lang: "ko"
+sourceContentHash: "b08ee8ca24ef947b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

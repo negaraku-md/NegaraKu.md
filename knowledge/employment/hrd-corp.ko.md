@@ -28,8 +28,9 @@ faq:
   - q: "How is the HRD levy calculated and when is it due?"
     a: "It is (total wages or basic salaries + fixed allowances) × 1% (or 0.5% for voluntary registrants), payable by the 15th of each month to avoid penalties."
 lang: "ko"
+sourceContentHash: "ff5d89d25eee1ca7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

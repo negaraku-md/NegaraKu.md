@@ -32,8 +32,9 @@ faq:
     a: "Tidak semua. SPR menyatakan mereka yang mempunyai alamat tidak lengkap atau umum di JPN tidak didaftarkan secara automatik kerana bahagian pilihan raya tidak dapat ditentukan, begitu juga mereka yang hilang kelayakan sebagai pemilih mengikut undang-undang. SPR membuat semakan silang dengan JPN, Jabatan Penjara Malaysia, Kementerian Kesihatan dan Kementerian Luar Negeri."
 
 lang: "ko"
+sourceContentHash: "091a7bd83f753abd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

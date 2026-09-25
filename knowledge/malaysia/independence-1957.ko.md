@@ -29,8 +29,9 @@ faq:
     a: "Both moments are real. The legal transfer of sovereignty took effect at midnight on 31 August 1957, marked by the flag ceremony at the padang in Kuala Lumpur. The public proclamation ceremony, with the seven-fold cry of Merdeka, took place later that morning at Stadium Merdeka."
 
 lang: "ko"
+sourceContentHash: "9d15ea63aee3b87b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

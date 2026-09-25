@@ -33,8 +33,9 @@ faq:
     a: "주요 원인은 호랑이 부위를 노린 밀렵과 불법 야생동물 거래, 산림 황폐화와 서식지 상실, 로드킬과 인간-호랑이 충돌, 그리고 먹이 감소입니다."
 
 lang: "ko"
+sourceContentHash: "4cb728294e2f0482"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

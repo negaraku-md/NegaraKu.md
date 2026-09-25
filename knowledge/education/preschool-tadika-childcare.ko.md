@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "1학년 전의 아동 돌봄 및 조기 교육 방안을 이해하려는 말레이시아의 학부모나 보호자, 그리고 타스카나 타디카를 설립하려 관련 당국을 알아야 하는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "5be629c8e1fa0846"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

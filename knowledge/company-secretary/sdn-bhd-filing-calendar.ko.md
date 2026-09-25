@@ -135,8 +135,9 @@ obligations:
     consequence: "Fine up to RM10,000 plus up to RM500 per day on every officer under s.341(3)"
 
 lang: "ko"
+sourceContentHash: "795508e7636dbf96"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Seksyen 29(3) mewajibkan majikan berusaha mempromosi pekerjaan stabil dengan menilai kebolehan OKU secara wajar, menyediakan tempat kerja yang sesuai dan pengurusan pekerjaan yang betul. Kos ubah suai premis untuk pekerja OKU juga layak potongan cukai di bawah perenggan 34(6)(e) Akta Cukai Pendapatan 1967."
 
 lang: "ko"
+sourceContentHash: "66843e99ec6b43d1"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

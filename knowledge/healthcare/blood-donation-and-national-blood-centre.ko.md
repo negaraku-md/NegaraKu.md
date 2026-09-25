@@ -29,8 +29,9 @@ faq:
     a: "그중에는 고위험 활동에 관여한 사람, 임신/생리 중이거나 수유 중인 여성 헌혈자, 1980~1996년에 영국에 6개월 이상(누적) 거주한 사람, 또는 1980년부터 현재까지 유럽 국가에 5년 이상(누적) 거주한 사람이 있습니다 — 두 경우 모두 vCJD 위험 때문입니다."
 
 lang: "ko"
+sourceContentHash: "241fb7f03a5cd3d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

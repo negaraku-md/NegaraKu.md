@@ -38,8 +38,9 @@ faq:
     a: "No. Intellectual property rights are territorial, so a Malaysian trademark or patent only covers Malaysia. For international protection you file abroad — for trademarks, Malaysia's accession to the Madrid Protocol lets you designate multiple countries through one international application."
 
 lang: "ko"
+sourceContentHash: "9b9e8ce352a97c10"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

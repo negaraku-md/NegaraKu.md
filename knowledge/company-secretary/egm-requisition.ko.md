@@ -60,8 +60,9 @@ obligations:
     consequence: "The right to call the meeting under s.313 lapses"
 
 lang: "ko"
+sourceContentHash: "7de2bc211affba0a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

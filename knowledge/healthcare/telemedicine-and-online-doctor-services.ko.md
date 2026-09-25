@@ -32,8 +32,9 @@ faq:
     a: "때때로 가능합니다. MMC는 기존 의사-환자 관계 후의 후속 진료로서 화상 진료를 선호하지만, 특히 1차 진료에서 의사가 이유를 기록하면 첫 온라인 진료를 허용합니다. 의사는 직접 진찰하지 않은 환자에게 처방하는 것에 주의하고, 온라인 매체가 안전한 평가에 충분하지 않을 때 대면으로 의뢰하도록 안내받습니다."
 
 lang: "ko"
+sourceContentHash: "abe1f652bf3edc8b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

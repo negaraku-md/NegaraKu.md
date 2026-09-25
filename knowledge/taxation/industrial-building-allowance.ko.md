@@ -40,8 +40,9 @@ faq:
 verificationNeeded:
   - "Whether any gazetted order currently prescribes a fraction other than three-hundredths for the annual allowance under paragraph 16"
 lang: "ko"
+sourceContentHash: "4788a314694d11fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

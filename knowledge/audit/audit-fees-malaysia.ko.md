@@ -40,8 +40,9 @@ verificationNeeded:
   - "RPG 7 폐지의 명시된 논거, 즉 경쟁법 2010(Competition Act 2010)을 MIA 회람이나 이사회 결의에 대조하여 확인할 것 — 공식 문서에서 확인할 수 있었던 것은 폐지 일자뿐임"
 
 lang: "ko"
+sourceContentHash: "ecdf13a6ded6622d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

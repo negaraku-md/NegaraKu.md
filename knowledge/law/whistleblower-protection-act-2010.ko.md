@@ -32,8 +32,9 @@ faq:
     a: "Section 2 defines improper conduct as any conduct which, if proved, constitutes a disciplinary offence or a criminal offence. A 'disciplinary offence' is separately defined to cover breaches of discipline in a public or private body under a law, code of conduct, code of ethics, circular or contract of employment, so the term reaches a wide range of wrongdoing, from corruption to workplace misconduct."
 
 lang: "ko"
+sourceContentHash: "b93871feeca0ccf6"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

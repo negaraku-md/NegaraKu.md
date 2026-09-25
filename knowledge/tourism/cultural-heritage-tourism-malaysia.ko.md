@@ -31,8 +31,9 @@ faq:
     a: "모든 종교 유적에서 어깨와 무릎을 가리십시오. 모스크에서는 추가로 여성은 머리를 가리고 모두 신발을 벗을 것이 요구됩니다. 힌두 사원과 중국 사원에서도 안쪽 성소에 들어가기 전에 신발을 벗어야 합니다."
 
 lang: "ko"
+sourceContentHash: "93767c9cc05e1d13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

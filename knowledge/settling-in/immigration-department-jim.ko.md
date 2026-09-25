@@ -27,8 +27,9 @@ faq:
   - q: "새 10년 여권은 얼마입니까?"
     a: "10년 여권은 수수료(여권 및 비자)(개정) 명령 2026(Fees (Passports and Visas) (Amendment) Order 2026)에 따라 18~59세 신청자에게 RM350, 60세 이상 고령자에게 RM175이며, 18세 이상 OKU(장애인) 카드 소지자에게는 무료입니다."
 lang: "ko"
+sourceContentHash: "050995b2068c647c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -34,8 +34,9 @@ faq:
     a: "제34A조 제4항에 따라 국장은 사유를 제시해야 하지만, 거부가 보고서를 수정하여 승인을 위해 재제출하는 것을 막지는 않습니다."
 
 lang: "ko"
+sourceContentHash: "7002da8fcfa27b67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Ia merosot pada pertengahan abad ke-20 akibat persaingan daripada radio, filem dan televisyen. Menjelang akhir 1930-an banyak panggung bangsawan ditukar menjadi panggung wayang, dan selepas perang industri itu kehilangan sumber dana."
 
 lang: "ko"
+sourceContentHash: "9acb0bf06bc5782c"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

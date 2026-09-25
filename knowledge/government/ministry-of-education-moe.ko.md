@@ -28,8 +28,9 @@ faq:
   - q: "How big is the Ministry of Education's budget?"
     a: "Under Budget 2026, KPM received RM66.2 billion — the largest allocation of any federal ministry — up from RM64.2 billion in 2025. The allocation includes nearly RM2 billion to upgrade more than 520 dilapidated schools and build 38 new ones."
 lang: "ko"
+sourceContentHash: "4f75b1390b41bfeb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -24,8 +24,9 @@ appliesTo: "Business owners, finance teams and system administrators preparing f
 verificationNeeded: []
 
 lang: "ko"
+sourceContentHash: "46533f76e2996181"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ faq:
   - q: "Is MDEC the same as MSC Malaysia?"
     a: "No. MDEC is the agency; MSC Malaysia was its earlier programme. MSC Malaysia has been rebranded to Malaysia Digital, and MD Status is the successor to the former MSC Malaysia Status."
 lang: "ko"
+sourceContentHash: "4aca195eadff6ca3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

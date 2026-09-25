@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "고정 브로드밴드를 연결해야 하는, 말레이시아에서 집을 임차·매수하거나 이사하는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "651bab79a176221b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

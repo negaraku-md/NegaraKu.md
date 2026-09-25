@@ -42,8 +42,9 @@ verificationNeeded:
   - "제29대 크다 술탄 즉위식 일자를 이스타나 아낙 부킷(Istana Anak Bukit) 공식 기록에 대조하여 확인; 주(州) 정부 공식 페이지는 선포 일자만 명시함."
 
 lang: "ko"
+sourceContentHash: "0d6884ea1dade121"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

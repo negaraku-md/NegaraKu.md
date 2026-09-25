@@ -38,8 +38,9 @@ verificationNeeded:
   - "Bank risk classification by MSIC is institution-specific and not published — treat the effect described here as a pattern, not a rule"
 
 lang: "ko"
+sourceContentHash: "353529e7e9ebf84a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

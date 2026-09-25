@@ -31,8 +31,9 @@ faq:
     a: "Ia bermaksud pihak pendakwaan telah mengemukakan keterangan yang, jika tidak dipatahkan atau tidak dijelaskan, akan mewajarkan sabitan. Jika kes prima facie dibuktikan, tertuduh diarah membela diri; jika tidak, tertuduh dibebaskan."
 
 lang: "ko"
+sourceContentHash: "5c000067f01e0ea2"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

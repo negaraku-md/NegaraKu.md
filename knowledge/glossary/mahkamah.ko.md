@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "말레이시아의 법률 문서, 뉴스, 법원 절차를 읽으며 「마카마」라는 용어의 의미와 각 심급의 상대적 지위를 이해해야 하는 모든 이."
 
 lang: "ko"
+sourceContentHash: "1a30b6920b746dad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

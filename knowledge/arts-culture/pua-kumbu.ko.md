@@ -34,8 +34,9 @@ faq:
     a: "Ia digunakan dalam ritus peralihan hidup daripada kelahiran hingga kematian, dalam upacara keramat dan ritual penyembuhan, serta secara tradisi terikat dengan tradisi pahlawan Iban. Motifnya turut ditenun menjadi kain sarung wanita, cawat lelaki dan jubah pawang."
 
 lang: "ko"
+sourceContentHash: "1d30a78fcc6cce68"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

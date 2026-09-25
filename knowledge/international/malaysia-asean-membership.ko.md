@@ -38,8 +38,9 @@ faq:
     a: "아세안 사무국은 인도네시아 자카르타에 본부를 둡니다. 그것은 아세안 사무총장이 이끌며, 현재는 캄보디아 출신의 카오 킴 호른(Kao Kim Hourn) 박사입니다."
 
 lang: "ko"
+sourceContentHash: "a6367ba8ba6baac1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

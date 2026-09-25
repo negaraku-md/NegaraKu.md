@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "Readers who need a neutral, textual account of what SOSMA is and which special procedures it provides — students, researchers and anyone mapping Malaysia's security-law framework. It is a descriptive statute record, not legal advice, and does not comment on any case, prosecution or policy debate."
 
 lang: "ko"
+sourceContentHash: "23e4a7f81f4e58a1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

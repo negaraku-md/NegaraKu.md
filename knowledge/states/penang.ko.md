@@ -33,8 +33,9 @@ verificationNeeded:
   - "발행 전에 페낭의 현재 인구를 최신 DOSM 주(州) 인구 발표에 대조하여 확인."
 
 lang: "ko"
+sourceContentHash: "a7862eb1a54ab895"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

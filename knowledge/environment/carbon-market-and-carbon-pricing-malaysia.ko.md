@@ -29,8 +29,9 @@ faq:
     a: "규제 이행 가격제 수단이 도입되기에 앞서 고신뢰성 탄소시장, 국가 탄소 등록부, 모니터링 체계를 구축하기 위해 2026년 4월 21일 NRES가 발표한 틀입니다."
 
 lang: "ko"
+sourceContentHash: "da637e665e1a9fd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

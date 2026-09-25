@@ -25,8 +25,9 @@ faq:
   - q: "Does JTKSM cover the whole of Malaysia?"
     a: "No. JTKSM covers Peninsular Malaysia. Sabah and Sarawak have their own separate labour departments."
 lang: "ko"
+sourceContentHash: "1575ce3d33c667d0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

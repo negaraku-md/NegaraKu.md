@@ -21,8 +21,9 @@ verificationNeeded:
   - "이 글은 mySalam에서 자격이 인정되는 50가지 중증질환의 전체 목록을 기재하지 않았는데, 집필 시점에 공식 사이트 mysalam.com.my에서 세부 목록을 직접 확인할 수 없었기 때문입니다. 전체 목록은 mySalam 공식 포털을 확인하십시오."
   - "mySalam과 PeKa B40 제도의 유효 기간은 연간 예산안 결정에 따릅니다. 이 글의 수치와 조건은 집필 시점(2026년 7월)의 공식 사이트에 근거하여 확인되었으며 향후 예산안에서 갱신될 수 있습니다."
 lang: "ko"
+sourceContentHash: "46290890ce15acbd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

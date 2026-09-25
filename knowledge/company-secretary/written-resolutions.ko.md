@@ -64,8 +64,9 @@ obligations:
     consequence: "Fine not exceeding RM500,000 and a further fine not exceeding RM1,000 per day for a continuing offence"
 
 lang: "ko"
+sourceContentHash: "7f112f7ee41f1d69"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

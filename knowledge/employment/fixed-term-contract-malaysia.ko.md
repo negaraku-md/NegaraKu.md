@@ -40,8 +40,9 @@ verificationNeeded:
   - "Confirm the current text and qualifying conditions of the Employment (Termination and Lay-Off Benefits) Regulations 1980 as they apply to expiry of a fixed term"
 
 lang: "ko"
+sourceContentHash: "529468bbc9f83e00"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

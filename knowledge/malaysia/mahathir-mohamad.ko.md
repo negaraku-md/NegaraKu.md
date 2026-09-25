@@ -31,8 +31,9 @@ verificationNeeded:
   - "Exact dates (premiership, resignation) to be confirmed against the Prime Minister's Office and the Perdana Leadership Foundation."
 
 lang: "ko"
+sourceContentHash: "2b8cc04016656090"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

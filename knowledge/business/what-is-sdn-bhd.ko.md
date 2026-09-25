@@ -24,8 +24,9 @@ appliesTo: "Anyone choosing a business structure, or trying to understand a Mala
 verificationNeeded: []
 
 lang: "ko"
+sourceContentHash: "152f7dfdb9b1a474"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

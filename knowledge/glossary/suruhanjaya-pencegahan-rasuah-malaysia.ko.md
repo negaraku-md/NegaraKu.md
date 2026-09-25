@@ -31,8 +31,9 @@ faq:
     a: "조직은 부패를 방지하기 위한 충분한 절차를 시행했음을 입증하면 항변할 수 있습니다. 그 지침은 2018년 12월 4일자 총리부가 발간한 충분한 절차 지침의 다섯 원칙 T.R.U.S.T.입니다."
 
 lang: "ko"
+sourceContentHash: "bba5e6b3f79a29ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

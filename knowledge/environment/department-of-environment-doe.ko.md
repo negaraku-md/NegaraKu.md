@@ -34,8 +34,9 @@ faq:
     a: "DOE는 환경 민원을 위한 민원 전화(03-8889 1972)와 무료 상담 전화(1-800-88-2727)를 공개하고 있습니다. 이를 이용하기 전에 doe.gov.my에서 현행 번호를 확인하십시오."
 
 lang: "ko"
+sourceContentHash: "03cee8394623a8f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

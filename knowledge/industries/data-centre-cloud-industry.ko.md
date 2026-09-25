@@ -34,8 +34,9 @@ faq:
     a: "MITI의 데이터센터 지속가능 개발 지침(Guidelines for Sustainable Development of Data Centre, 2024년 12월 30일)은 운영자가 설계 PUE, WUE, CUE를 ISO/IEC 30134 표준에 따라 신고하도록 하며, 지침이 입지 조건으로 표현한 대로 물 스트레스 지수(WSI)가 0.8 미만인 반도 말레이시아 부지를 고려하도록 요구합니다."
 
 lang: "ko"
+sourceContentHash: "58d8713ab3d5317e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

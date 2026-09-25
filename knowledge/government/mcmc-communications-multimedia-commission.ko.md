@@ -34,8 +34,9 @@ faq:
     a: "Seksyen 126(2) memperuntukkan bahawa sesiapa yang memiliki atau menyediakan kemudahan rangkaian, perkhidmatan rangkaian atau perkhidmatan aplikasi tanpa lesen sah melakukan kesalahan dan boleh, apabila disabitkan, dikenakan denda tidak melebihi RM500,000 atau penjara tidak melebihi lima tahun atau kedua-duanya, serta denda lanjutan RM1,000 bagi setiap hari kesalahan itu diteruskan selepas sabitan."
 
 lang: "ko"
+sourceContentHash: "f7de1e94c09f1ce3"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

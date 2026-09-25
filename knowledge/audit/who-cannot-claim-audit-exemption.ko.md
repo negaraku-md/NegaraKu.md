@@ -16,8 +16,9 @@ answer: "Practice Directive 10/2024에 따라 네 가지 유형이 감사 면제
 verificationNeeded: []
 
 lang: "ko"
+sourceContentHash: "776ac8951ed8d754"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

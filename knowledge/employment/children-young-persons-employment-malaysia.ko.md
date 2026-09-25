@@ -35,8 +35,9 @@ faq:
     a: "Seksyen 14 memperuntukkan penjara sehingga dua tahun atau denda sehingga RM50,000 atau kedua-duanya bagi kesalahan pertama, dan sehingga lima tahun penjara atau denda RM100,000 bagi kesalahan kedua atau berikutnya. Ibu bapa atau penjaga yang membiarkan pelanggaran itu berlaku secara sedar juga boleh dikenakan hukuman."
 
 lang: "ko"
+sourceContentHash: "4ad258e80f1299ae"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

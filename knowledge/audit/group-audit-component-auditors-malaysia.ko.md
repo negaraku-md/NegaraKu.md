@@ -30,8 +30,9 @@ faq:
     a: "구성요소 정보나 감사인에 대한 접근이 제한되고 그 구성요소가 유의적인 경우, 그룹 감사인은 충분하고 적합한 증거를 입수할 수 없을 수 있으며, 이는 그룹 재무제표에 대한 한정의견이나 의견거절로 이어질 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "871221203173410a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

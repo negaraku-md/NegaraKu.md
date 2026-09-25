@@ -30,8 +30,9 @@ faq:
     a: "Bagi kesalahan tanpa penalti khusus, Seksyen 24 memperuntukkan penjara sehingga dua tahun atau denda atau kedua-duanya bagi kesalahan pertama. Seksyen 25 pula membenarkan pengkompaunan sehingga RM1,000 di bawah teks asal akta. Kadar ini menjadi subjek pindaan yang diluluskan Dewan Rakyat pada 2024."
 
 lang: "ko"
+sourceContentHash: "e9a7651147874f41"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

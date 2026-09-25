@@ -31,8 +31,9 @@ faq:
     a: "계약을 체결하기 전에 KDN eSIMS 조회 포털을 통해 회사와 경비원의 면허 상태를 확인하십시오. 적법한 업체는 유효한 사설기관 면허(Lesen Agensi Persendirian)를 보유해야 합니다."
 
 lang: "ko"
+sourceContentHash: "7778a33b10205faf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

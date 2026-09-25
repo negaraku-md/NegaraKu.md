@@ -37,8 +37,9 @@ verificationNeeded:
   - "말레이시아 목적상 상장 법인이 Bursa Malaysia Main Market, ACE Market 및 LEAP Market에 걸쳐 어떻게 정의되는지, 그리고 LEAP Market 발행자가 ISA 701 요건에 해당하는지 확인할 것"
 
 lang: "ko"
+sourceContentHash: "573f87ce15adf16f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

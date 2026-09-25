@@ -29,8 +29,9 @@ faq:
     a: "JBG mengendalikan kes sivil, keluarga, syariah dan jenayah tertentu, manakala YBGK memberi tumpuan kepada bantuan guaman percuma bagi kes jenayah, termasuk di peringkat tangkapan dan reman."
 
 lang: "ko"
+sourceContentHash: "91d7cfe993126653"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

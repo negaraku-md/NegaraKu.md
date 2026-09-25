@@ -30,8 +30,9 @@ faq:
     a: "완제된 대출을 갱신하려면 대출 기관으로부터 완제 확인서를 받아 기관에 제출하십시오. 법에 따라 기관은 여러분이 면책된 날로부터 2년이 지난 후에는 파산 상태를 공개할 수 없습니다."
 
 lang: "ko"
+sourceContentHash: "0d23a5db0b086fe6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

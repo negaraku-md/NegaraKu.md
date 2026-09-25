@@ -33,8 +33,9 @@ faq:
     a: "시장 가격에 따라 변합니다. RON95와 경유 보조금 부담은 2026년 1월 약 RM7억이었고 4월에 RM75억으로 정점을 찍었다가, 6월에는 월 약 RM35억으로 전망되었습니다."
 
 lang: "ko"
+sourceContentHash: "4d77f16bdf432b0a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

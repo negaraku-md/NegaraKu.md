@@ -36,8 +36,9 @@ verificationNeeded:
   - "말레이시아 은행 약정 관행이나 Bursa Malaysia 상장 요건이 계속기업 관련 중요한 불확실성 부분에 특정 결과를 부여하는지 확인할 것 — 여기서 기술된 상업적 효과는 발행된 규칙이 아니라 실무자 관찰임"
 
 lang: "ko"
+sourceContentHash: "272fa8b449a7b590"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

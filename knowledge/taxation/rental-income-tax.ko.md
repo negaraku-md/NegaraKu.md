@@ -22,8 +22,9 @@ keyTakeaways:
 
 verificationNeeded: []
 lang: "ko"
+sourceContentHash: "6d6596933af547dc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "그중에는 2025년까지 플라스틱 포장재 재활용률 25%, 2030년까지 평균 재활용 수거율(CFR) 76%, 2030년까지 평균 재활용 함량 15%가 있습니다. 재활용률 100% 목표는 2050년까지로 설정되어 있습니다."
 
 lang: "ko"
+sourceContentHash: "a24e4c1da4f3ae42"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

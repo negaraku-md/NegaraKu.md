@@ -34,8 +34,9 @@ faq:
     a: "네. ASF는 2025년 8월 말레이시아에서 풍토병 지위로 선언되었습니다. 큰 발생이 슬랑오르(57개 농장의 돼지 76,000마리)와 페낭(Penang)에서 일어났으며, 확산을 막기 위해 감염 가축이 살처분되었습니다(CodeBlue)."
 
 lang: "ko"
+sourceContentHash: "28ee8ace3a3090da"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

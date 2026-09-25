@@ -29,8 +29,9 @@ faq:
     a: "말레이시아 국가 투자 기금 국가투자공사(PNB)가 Sime Darby 회사들 전반에 걸쳐 주요 주주이며, Sime Darby Berhad가 인수한 UMW 지분의 매도자가 PNB였습니다. 정확한 지분율은 시간에 따라 변하므로 각 회사의 최신 Bursa Malaysia 공시와 대조하여 확인해야 합니다."
 
 lang: "ko"
+sourceContentHash: "b6cfb2928f3fa4fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

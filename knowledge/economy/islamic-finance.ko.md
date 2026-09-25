@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "마케팅이 아니라 메커니즘을 이해해야 하는 모든 사람 — 학생, 언론인, 재무 담당자, 금융 옵션을 비교하는 창업자, 그리고 말레이시아 금융 시스템을 지도로 그리는 연구자."
 
 lang: "ko"
+sourceContentHash: "baeef20a51fe9ad2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

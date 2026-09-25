@@ -34,8 +34,9 @@ verificationNeeded:
   - "SSM이 PD 10/2024 이후 2단계 또는 3단계 기준을 변경하는 개정이나 추가 실무 지침을 발행했는지 확인할 것"
 
 lang: "ko"
+sourceContentHash: "0adbb423bee3af8f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

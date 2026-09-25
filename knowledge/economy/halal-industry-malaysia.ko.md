@@ -29,8 +29,9 @@ faq:
     a: "말레이시아 할랄 제품 수출은 2024년 RM617.9억에 이르러 2023년 RM537.2억 대비 15% 상승했습니다(MITI). 2024년 1~9월 수출은 RM450.4억으로, 2023년 같은 기간의 RM393.6억과 대비됩니다(MITI/MIDA)."
 
 lang: "ko"
+sourceContentHash: "1b16a223e725d8d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

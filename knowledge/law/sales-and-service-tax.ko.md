@@ -37,8 +37,9 @@ faq:
     a: "Certain B2B relief exists. For example, where both the provider and the recipient are registered and supply the same taxable service, a B2B exemption can apply, and group relief is available for rental or leasing between companies in the same corporate group. Exemptions are specific — confirm eligibility against RMCD guidance for your service group."
 
 lang: "ko"
+sourceContentHash: "4d9e9ab785dd88ab"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

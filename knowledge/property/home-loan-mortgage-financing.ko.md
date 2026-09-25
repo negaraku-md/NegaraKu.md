@@ -35,8 +35,9 @@ faq:
     a: "인지세는 인지세법(Stamp Act 1949)에 따라 대출 금액의 0.5%입니다. 예를 들어 RM450,000 대출에는 RM2,250의 인지세가 부과됩니다. 납부는 계약 서명일로부터 30일 이내에 해야 합니다."
 
 lang: "ko"
+sourceContentHash: "9739f168cee000e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

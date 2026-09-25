@@ -31,8 +31,9 @@ faq:
     a: "CIMB는 말레이시아, 인도네시아, 싱가포르, 태국을 포함한 시장에서 운영하는 아세안 중심 그룹으로 자신을 규정합니다. RHB는 일곱 개 지역 시장에서 운영합니다. Maybank는 세 개의 본국 시장 — 말레이시아, 싱가포르, 인도네시아 — 에 더해 아세안 전반과 주요 글로벌 금융 중심지에서 사업을 운영합니다."
 
 lang: "ko"
+sourceContentHash: "81a33a10e5b5e6c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -66,8 +66,9 @@ obligations:
     statute: "Companies Act 2016, s.85"
 
 lang: "ko"
+sourceContentHash: "ac9c3894e3319f9f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

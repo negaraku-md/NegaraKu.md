@@ -35,8 +35,9 @@ faq:
     a: "Tidak semestinya. Pusaka bernilai tidak melebihi RM5 juta boleh ditadbir melalui Unit Pembahagian Pusaka Kecil di pejabat tanah di bawah Akta Pusaka Kecil (Pembahagian) 1955, biasanya tanpa peguam dan tanpa fi failing pejabat tanah. Sejak pindaan berkuat kuasa 15 Julai 2024, pusaka tidak lagi perlu mengandungi harta tak alih untuk melayakkan laluan ini."
 
 lang: "ko"
+sourceContentHash: "109171c4b389867e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

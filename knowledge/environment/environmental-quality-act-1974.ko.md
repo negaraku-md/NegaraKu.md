@@ -37,8 +37,9 @@ faq:
     a: "경우에 따라 가능합니다. 제45조는 국장이 검찰총장의 서면 동의를 얻어, 장관이 화해 가능한 것으로 규정한 위반을 최고 벌금의 50%를 초과하지 않는 금액으로 화해 종결할 수 있게 합니다. 모든 위반이 화해 가능한 것은 아니며, 가장 중대한 필수 징역형 대상 위반은 통상 기소됩니다."
 
 lang: "ko"
+sourceContentHash: "c5c03f44b4db2f68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

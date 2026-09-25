@@ -38,8 +38,9 @@ verificationNeeded:
   - "주(州) 공식 포털의 민족 구성 비율(말레이 61.5%, 중국계 22.9%, 인도계 15.1%, 기타 0.5%)의 일자와 산정 근거를 확인 — 그 수치는 일자가 없고, 비시민권자를 별도로 분리하는 2020년 인구조사 내역 구조와 일치하지 않음."
 
 lang: "ko"
+sourceContentHash: "41ba175b1dc7814a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

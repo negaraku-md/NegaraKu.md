@@ -27,8 +27,9 @@ faq:
   - q: "What laws does KPDN use to control prices?"
     a: "It relies mainly on the Control of Supplies Act 1961 and the Price Control and Anti-Profiteering Act 2011, which let it set price ceilings, require price display, and act against unreasonably high profits."
 lang: "ko"
+sourceContentHash: "bc54d858f6180b54"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

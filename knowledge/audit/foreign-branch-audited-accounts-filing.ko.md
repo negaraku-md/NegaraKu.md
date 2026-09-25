@@ -30,8 +30,9 @@ faq:
     a: "회사 자체의 재무제표 사본을 제출해야 하나, s.575(5)는 아울러 승인된 회계기준에 따라 진실하고 공정한 관점을 제공하는, 말레이시아 영업에 사용된 자산과 그로부터 발생한 부채를 다루는 정당하게 감사받은 명세서를 요구합니다."
 
 lang: "ko"
+sourceContentHash: "857f2052ec7f627d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ verificationNeeded:
   - "연간 신고 마감일(수동 4월 30일 / e-Filing 5월 15일)은 LHDN 자체 날짜가 기재된 언론 성명을 통해 2025 과세연도에 대해 확인되었습니다. LHDN은 매년 새로운 신고 프로그램을 발표하므로, 다른 과세연도에 의존하기 전에 해당 연도의 날짜를 다시 확인하십시오."
 
 lang: "ko"
+sourceContentHash: "027e674e99f0cfb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

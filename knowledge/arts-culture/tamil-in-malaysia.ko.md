@@ -32,8 +32,9 @@ seoTitle: "말레이시아의 타밀어: 화자, SJKT 학교, 헌법적 지위"
 socialTitle: "How Tamil is spoken, schooled and protected in Malaysia"
 
 lang: "ko"
+sourceContentHash: "c45b4b0470d4ef3d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

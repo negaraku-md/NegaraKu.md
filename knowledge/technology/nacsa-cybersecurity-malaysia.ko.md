@@ -31,8 +31,9 @@ faq:
     a: "Under the Cyber Security Act 2024 [Act 854], an application to provide cyber security services is made to the Chief Executive of NACSA. The regulated categories are managed security operation centre (SOC) monitoring service and penetration testing service."
 
 lang: "ko"
+sourceContentHash: "a5256768a1d06815"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Bernama가 보도한 국회 답변에 따르면, 말레이시아는 2018년부터 2025년까지 중국에 RM63.7억 — 약 115,359톤 — 어치의 두리안을 수출했습니다. 2030년 수출액 목표는 69,000톤 규모로 RM18억에 이를 것으로 추정됩니다."
 
 lang: "ko"
+sourceContentHash: "c21f23e862b9d969"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

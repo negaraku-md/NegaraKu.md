@@ -30,8 +30,9 @@ faq:
     a: "No. The Cash Threshold Report for cash transactions of RM25,000 and above applies only to banking institutions, selected development financial institutions, Lembaga Tabung Haji and the licensed casino. DNFBPs still owe the STR obligation."
 
 lang: "ko"
+sourceContentHash: "ed7c9043d8d06f81"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

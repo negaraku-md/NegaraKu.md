@@ -34,8 +34,9 @@ faq:
     a: "The Sedition (Amendment) Act 2015 (Act A1485) was passed by Parliament and would have revised sections 2, 3 and 4 — among other things adding electronic publication, recasting parts of the definition, and raising penalties. On the Attorney General's Chambers Laws of Malaysia portal, the in-force text of Act 15 still incorporates amendments only up to 1 January 2006, and Act A1485 carries no commencement timeline. The operative text described here is the 1969 revision."
 
 lang: "ko"
+sourceContentHash: "8c2644ad71910b60"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

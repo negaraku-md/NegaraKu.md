@@ -29,8 +29,9 @@ verificationNeeded:
   - "전자 송장 지침(e-Invoice Guideline)과 특정 지침(Specific Guideline)은 자주 개정됩니다 — 어떤 연동 요건이든 확정된 것으로 취급하기 전에 현행 버전을 확인하십시오"
 
 lang: "ko"
+sourceContentHash: "2723b917b69eeed3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

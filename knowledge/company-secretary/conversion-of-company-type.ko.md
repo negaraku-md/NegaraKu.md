@@ -27,8 +27,9 @@ faq:
     a: "Menurut garis panduan SSM, notis penukaran kepada syarikat awam dikeluarkan dalam tempoh satu hari bekerja selepas dokumen lengkap dikemukakan dan syarat dipatuhi. Garis panduan tersebut tidak menyatakan tempoh khusus bagi penukaran syarikat awam kepada sendirian."
 
 lang: "ko"
+sourceContentHash: "63145595a33eef52"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

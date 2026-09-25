@@ -34,8 +34,9 @@ seoTitle: "말레이어: 제152조 아래의 국어"
 socialTitle: "Bagaimana bahasa Melayu menjadi bahasa kebangsaan — dan berpindah dari Jawi ke Rumi"
 
 lang: "ko"
+sourceContentHash: "1578825625379e44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

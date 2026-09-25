@@ -31,8 +31,9 @@ faq:
     a: "JPJ 전기차 LKM 지침에 따르면 50 kW 이하 EV의 경우 연 RM20입니다. 요율은 더 높은 출력에 대해 누진적으로 증가합니다."
 
 lang: "ko"
+sourceContentHash: "926c690f458094f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

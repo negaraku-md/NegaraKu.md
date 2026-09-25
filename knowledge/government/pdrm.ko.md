@@ -35,8 +35,9 @@ faq:
     a: "Ya, dari segi strukturnya. Akta Polis 1967 mewujudkan satu pasukan tunggal yang digunakan di dan di seluruh Malaysia, di bawah satu rantaian perintah yang diketuai Ketua Polis Negara. Portal rasmi kerajaan (malaysia.gov.my) turut menyatakan pengumpulan risikan keselamatan sebagai salah satu peranan pasukan ini di bawah seksyen 3(3)."
 
 lang: "ko"
+sourceContentHash: "2fcb4ae755f95546"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

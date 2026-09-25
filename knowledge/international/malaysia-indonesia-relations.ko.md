@@ -36,8 +36,9 @@ faq:
     a: "인도네시아는 아세안 내 말레이시아의 주요 교역 상대국 중 하나입니다. 2024년 말레이시아의 인도네시아 수출은 RM54.40 billion으로, 전년 대비 6.9%(약 RM3.5 billion) 증가하였으며 말레이시아의 아세안 수출의 12.4%를 차지하였습니다. 이로써 인도네시아는 싱가포르와 태국에 이어 아세안 내 말레이시아의 세 번째로 큰 수출 목적지가 되었습니다."
 
 lang: "ko"
+sourceContentHash: "42425bd622f27615"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

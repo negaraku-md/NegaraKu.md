@@ -37,8 +37,9 @@ faq:
     a: "제68조 제3항에 따라 PLT 등록일로부터 18개월 이내입니다. 그 최초 확인서 이후, 이후의 각 연례 확인서는 PLT의 회계연도 종료로부터 90일 이내에 제출해야 합니다(제68조 제2항). 등록관은 신청되고 적절하다고 판단하면 기간을 연장할 수 있습니다(제68조 제4항)."
 
 lang: "ko"
+sourceContentHash: "87f70dd57604213f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

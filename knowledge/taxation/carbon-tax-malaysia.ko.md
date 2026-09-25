@@ -30,8 +30,9 @@ faq:
     a: "It was announced for introduction by 2026, though officials have signalled the timing may be reviewed."
 
 lang: "ko"
+sourceContentHash: "1b480b649a14d8fe"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

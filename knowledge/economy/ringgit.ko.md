@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "환율에 노출된 모든 사람 — 수입업체, 수출업체, 여행자, 해외 유학생, 투자자."
 
 lang: "ko"
+sourceContentHash: "5c03f2bbac4e0dca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -25,8 +25,9 @@ faq:
   - q: "Did the 2025 late-lodgement fee waiver push back my deadline?"
     a: "No. The waiver ran from 1 June to 30 September 2025 and removed late-lodgement fees only. It did not extend any statutory lodgement deadline under the Companies Act 2016."
 lang: "ko"
+sourceContentHash: "6cce56bdb89cd914"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

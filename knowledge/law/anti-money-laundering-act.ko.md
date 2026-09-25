@@ -29,8 +29,9 @@ faq:
     a: "Under Part VI, an enforcement agency may issue a freezing order, an investigating officer may seize movable property during an investigation, and the Public Prosecutor holds further seizure and forfeiture powers."
 
 lang: "ko"
+sourceContentHash: "03583a7602b0f6ef"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

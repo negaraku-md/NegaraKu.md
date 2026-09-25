@@ -30,8 +30,9 @@ faq:
     a: "Antara jenis yang direkodkan JKKN ialah Ngajat Lesong (ditarikan lelaki sambil menggigit lesung kayu), Ngajat Indu (ditarikan wanita dengan gerakan menenun pua kumbu), Ngajat Pua Kumbu (menggunakan kain pua kumbu) dan Ngajat Ngiling Tikai yang menandakan tamatnya sambutan Gawai Dayak."
 
 lang: "ko"
+sourceContentHash: "bc3c9b377ae4eddf"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

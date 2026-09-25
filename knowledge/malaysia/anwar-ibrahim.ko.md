@@ -31,8 +31,9 @@ verificationNeeded:
   - "Exact dates (cabinet posts, dismissal, release, appointment as PM) to be confirmed against the Prime Minister's Office and court records."
 
 lang: "ko"
+sourceContentHash: "ff741a6378247554"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

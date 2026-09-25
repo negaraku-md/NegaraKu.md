@@ -33,8 +33,9 @@ faq:
     a: "No. e-WHT only changes how you submit and pay — the rates are unchanged and still come from Part V of Schedule 1 read with the charging section (for example 10 per cent royalty and 15 per cent interest under section 109, 10 per cent for special classes under section 109B). See the separate guide on withholding tax rates by payment type for the full table."
 
 lang: "ko"
+sourceContentHash: "d5f0f2295ae24e78"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "Not from the body of the Act. Rates sit in the Schedules to Act 53, principally Schedule 1, and are changed by Finance Acts. Reliefs, deductions and exemptions are largely delivered by subsidiary legislation — P.U.(A) orders and rules — which is why the statute alone never answers a rate question."
 
 lang: "ko"
+sourceContentHash: "e0dfb2c4642360c3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

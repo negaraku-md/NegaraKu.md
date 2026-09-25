@@ -42,8 +42,9 @@ verificationNeeded:
   - "The administering agency and application route for the JS-SEZ knowledge worker incentive is not stated in the MIDA guideline — Appendix B of the snapshot lists it under other incentives without naming a route. Confirm with MIDA or IRDA before advising."
 
 lang: "ko"
+sourceContentHash: "6ef63a1c757e97dc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

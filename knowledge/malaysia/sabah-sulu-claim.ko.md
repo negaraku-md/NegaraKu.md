@@ -28,8 +28,9 @@ faq:
     a: "A private arbitrator issued an award of about USD 14.92 billion on 28 February 2022, but Malaysia contested it across several jurisdictions and the Paris Court of Appeal annulled the award on 9 December 2025."
 
 lang: "ko"
+sourceContentHash: "a5cefe938e99cef3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

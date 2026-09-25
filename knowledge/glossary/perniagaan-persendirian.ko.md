@@ -33,8 +33,9 @@ faq:
     a: "사업이 별개의 법인체가 아니므로 그 이익은 여러분의 개인 소득입니다. 그것을 B 양식(Form B)으로 신고하고 개인(누진) 세율로 과세되며, MyTax e-Filing 포털을 통해 신고합니다. 법정 기한은 6월 30일이며; 사업 소득이 있는 개인의 B 양식은 2024 과세연도부터 전자로 제출해야 하므로, 실질 기한은 e-Filing 유예일인 7월 15일입니다."
 
 lang: "ko"
+sourceContentHash: "1a9f38c341cebf45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -36,8 +36,9 @@ faq:
     a: "PVIP는 MOTAC가 아니라 이민국(내무부)이 운영하고, 명시적 근로 및 학업 권리를 더하며, (주거용뿐 아니라) 상업용·산업용 부동산 매입을 허용하고, 최소 체류를 부과하지 않습니다. 신청은 MM2H 대리인이 아니라 이민국 지정 대리인을 통해 진행됩니다."
 
 lang: "ko"
+sourceContentHash: "885b7aabccb192f1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

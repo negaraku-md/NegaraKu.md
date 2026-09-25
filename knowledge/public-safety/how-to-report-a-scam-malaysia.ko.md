@@ -37,8 +37,9 @@ faq:
     a: "아닙니다. 997은 사기로 돈이 이체된 금융 사기 전용입니다. 문서 분실이나 비사기 사건은 지구대에서 또는 PDRM e-Reporting 포털을 통해 신고하십시오."
 
 lang: "ko"
+sourceContentHash: "ae9a54e76a608697"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

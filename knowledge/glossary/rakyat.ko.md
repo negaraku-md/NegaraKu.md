@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "학생, 번역가, 기자, 그리고 말레이시아 맥락에서 사회정치적 용어 「라캬트」와 법적 용어 「와르가느가라」의 차이를 이해하려는 모든 이."
 
 lang: "ko"
+sourceContentHash: "4db392730fe2ab93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

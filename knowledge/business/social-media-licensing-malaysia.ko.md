@@ -27,8 +27,9 @@ verificationNeeded:
   - "MCMC가 실무에서 800만 명이라는 사용자 수를 어떻게 측정하는지, 그리고 사용되는 기준 기간"
 
 lang: "ko"
+sourceContentHash: "4b67b928b9834e6c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

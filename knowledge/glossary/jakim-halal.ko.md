@@ -34,8 +34,9 @@ faq:
     a: "예. 해외 제조업체는 JAKIM 인증을 신청하거나, JAKIM이 인정하는 외국 할랄 인증 기관의 인증서를 사용할 수 있습니다. 인정 기관 목록은 JAKIM이 검토하고 갱신합니다."
 
 lang: "ko"
+sourceContentHash: "86854384949bcaf4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

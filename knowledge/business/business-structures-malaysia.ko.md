@@ -29,8 +29,9 @@ verificationNeeded:
   - "Confirm the registration position for businesses in Sabah and Sarawak, which operate under state ordinances rather than the Registration of Businesses Act 1956"
 
 lang: "ko"
+sourceContentHash: "aecfbddfa9393cec"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

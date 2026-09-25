@@ -41,8 +41,9 @@ verificationNeeded:
   - "The full text of the Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009, P.U.(A) 153/2009, was not retrieved from a primary source; its scope is described as cited in paragraph 12.1 of Public Ruling 11/2019."
 
 lang: "ko"
+sourceContentHash: "d4a3fc76b902795b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

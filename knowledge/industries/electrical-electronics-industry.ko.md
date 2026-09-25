@@ -34,8 +34,9 @@ faq:
     a: "인텔, AMD, 브로드컴, 보쉬, OSRAM 같은 글로벌 기업이 이곳에서 운영하며, 자빌(Jabil), 플렉스(Flex), 플렉서스(Plexus), 산미나(Sanmina), 벤치마크(Benchmark) 같은 위탁 제조사(EMS)와 이나리 아메르트론(Inari Amertron)을 포함한 토종 기업도 함께합니다."
 
 lang: "ko"
+sourceContentHash: "0fec58671ce8ac21"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

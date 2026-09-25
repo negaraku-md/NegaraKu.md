@@ -38,8 +38,9 @@ verificationNeeded:
   - "프레신트 수(20)와 면적 수치 4,931헥타르를 최신 푸트라자야공사 공식 발간물에 대조하여 확인 — 2017년 연차 보고서는 다른 면적 수치를 기록한 바 있음."
 
 lang: "ko"
+sourceContentHash: "7ed3eafee80e71c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

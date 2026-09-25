@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "단지 1957년의 날짜나 의식이 아니라 「므르데카」라는 낱말의 진정한 의미와 유래를 이해하려는 모든 이."
 
 lang: "ko"
+sourceContentHash: "194d82a69dbc1089"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

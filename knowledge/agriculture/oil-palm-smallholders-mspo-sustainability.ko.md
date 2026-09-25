@@ -32,8 +32,9 @@ faq:
     a: "EU 삼림파괴방지규정은 2020년 12월 31일 이후 삼림이 파괴되지 않은 토지에서 재배된 경우에만 제품을 '삼림파괴 없음'으로 정의합니다(Regulation (EU) 2023/1115, 제2조). 이는 필지 단위 위치 정보(폴리곤 지도)를 요구하는데, 작고 종종 고령인 외진 농가가 스스로 만들어 내기에는 기술적으로 어렵습니다."
 
 lang: "ko"
+sourceContentHash: "88d679107671675c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

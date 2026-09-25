@@ -18,8 +18,9 @@ keyTakeaways:
   - "The range's high-elevation terrain falls under the strictest tier of Malaysia's Environmentally Sensitive Area protections, which shield highland and montane ecosystems from development"
 appliesTo: "Readers who want a plain, verified explanation of what the Titiwangsa Range is, where it runs, and why it splits Peninsular Malaysia's rivers, climate and settlement pattern into a west-coast and east-coast side."
 lang: "ko"
+sourceContentHash: "c92a68e675abc2cc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

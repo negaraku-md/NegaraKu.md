@@ -29,8 +29,9 @@ faq:
     a: "일반저축은 직원공제기금법(Employees Provident Fund Act 1991)에 따라 연 최소 2.50%가 보장됩니다. 반면 샤리아저축은 최소 보장 없이 포트폴리오의 실제 성과에 전적으로 좌우됩니다."
 
 lang: "ko"
+sourceContentHash: "e680578dd6d6768e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

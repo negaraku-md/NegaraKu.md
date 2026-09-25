@@ -33,8 +33,9 @@ faq:
     a: "제872호법 하에서, 플랫폼 제공자가 여러분을 자가 보호 제도 하에 등록하고 여러분의 소득에서 기여금을 공제할 책임이 있습니다. 다만 여러분은 여전히 등록이 완전한지 확인하고, 공제가 선택한 플랜의 최저율에 미치지 못하면 차액을 납부해야 합니다."
 
 lang: "ko"
+sourceContentHash: "759ef843044df58d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

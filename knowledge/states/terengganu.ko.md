@@ -37,8 +37,9 @@ faq:
     a: "석유 수입과 관련하여 연방 정부가 트렝가누와 클란탄에 지급하는 대금입니다. 재무부의 성명은 왕 이흐산이 법률에 명시된 연방 정부의 교부금이 아니라는 점, 즉 법률에 의해 부여된 권리가 아니라는 점을 강조합니다."
 
 lang: "ko"
+sourceContentHash: "44eeeac1d9bc0d54"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

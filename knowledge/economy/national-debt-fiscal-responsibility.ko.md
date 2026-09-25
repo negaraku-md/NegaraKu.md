@@ -31,8 +31,9 @@ faq:
     a: "직접적으로는 아닙니다. 재정 보증은 우발 부채입니다. 이는 현실화될 때만 부채가 됩니다. Act 850은 재정 보증을 GDP의 25%로 제한하고, 이 노출을 공개하기 위해 연례 재정 위험 명세를 의무화합니다."
 
 lang: "ko"
+sourceContentHash: "1dc4f0df2320f2a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

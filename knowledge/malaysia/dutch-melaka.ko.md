@@ -20,8 +20,9 @@ keyTakeaways:
   - "The Anglo-Dutch Treaty of 17 March 1824 permanently ceded Melaka to Britain in exchange for Bencoolen; the actual transfer took effect on 1 March 1825"
 appliesTo: "Readers who already know Melaka changed hands from the Portuguese to the Dutch to the British, and want to understand why the middle 184 years looked so different from the 130 years before and the 121 years after — plus how the transfer to Britain actually happened."
 lang: "ko"
+sourceContentHash: "c29f50bb16f23497"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

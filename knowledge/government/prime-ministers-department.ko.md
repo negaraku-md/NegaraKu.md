@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Anyone trying to understand what the Prime Minister's Department actually is, why so many unrelated-seeming federal agencies sit under it, and how it differs from an ordinary ministry."
 
 lang: "ko"
+sourceContentHash: "e406cee4d2aa12d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

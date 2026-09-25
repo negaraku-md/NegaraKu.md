@@ -18,8 +18,9 @@ keyTakeaways:
   - "Perjanjian Inggeris-Belanda 1824 dan susulannya membahagikan wilayah ini: Riau-Lingga di bawah Belanda, Johor di bawah lingkungan British"
 appliesTo: "Sesiapa yang ingin memahami bagaimana institusi diraja Melayu Melaka bersambung tanpa putus ke negeri-negeri Melayu moden, khususnya Johor."
 lang: "ko"
+sourceContentHash: "e2e07f7bcea9fc14"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

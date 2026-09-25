@@ -47,8 +47,9 @@ verificationNeeded:
   - "Bumiputera or foreign shareholding conditions for banking, insurance and takaful licensees. No published Bank Negara document stating one was retrieved."
 
 lang: "ko"
+sourceContentHash: "da83e3eaf6cc3765"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

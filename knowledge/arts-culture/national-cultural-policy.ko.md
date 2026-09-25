@@ -30,8 +30,9 @@ faq:
     a: "Menurut JKKN, DKK 1971 menjadi asas kepada Dasar Kebudayaan Negara (DAKEN) 2021 yang berteraskan tujuh teras dengan tempoh pelaksanaan 2021-2025. JKKN turut menyatakan DKK 1971 tidak pernah diperakukan secara rasmi di peringkat Kabinet, walaupun ia memandu pentadbiran selama kira-kira 50 tahun."
 
 lang: "ko"
+sourceContentHash: "8ad5677b6225effa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

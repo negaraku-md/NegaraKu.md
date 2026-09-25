@@ -41,8 +41,9 @@ verificationNeeded:
   - "Whether an offence created by subsidiary legislation attracts the general penalty in s.145 of the Consumer Protection Act 1999 — regulation 9 creates the offence but prescribes no penalty, so this is an inference"
 
 lang: "ko"
+sourceContentHash: "b5ad7450f8460c07"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

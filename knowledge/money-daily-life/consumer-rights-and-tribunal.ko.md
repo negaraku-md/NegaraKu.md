@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "상품이나 서비스를 구매하고 자신에게 어떤 권리가 있는지, 저비용 청구를 어떻게 제기하는지 알고자 하는 말레이시아 내 소비자 — 청구를 방어하는 사업자나 심판소가 명시적으로 제외하는 분쟁은 대상이 아닙니다."
 
 lang: "ko"
+sourceContentHash: "b22efe69c2b27bab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

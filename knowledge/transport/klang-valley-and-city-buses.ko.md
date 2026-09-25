@@ -32,8 +32,9 @@ faq:
     a: "래피드 버스는 이용객이 적은 19개 노선 — MRT 지선 16개와 일반 노선 3개, 네트워크의 약 7% — 을 예약형 래피드 KL 온디맨드(Rapid KL On-Demand) 밴 서비스로 전환하기 시작했습니다."
 
 lang: "ko"
+sourceContentHash: "ef9c4ac09cb054b2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

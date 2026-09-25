@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "연령대별로 어느 카드를 반드시 소지해야 하는지 불확실한 말레이시아 시민, 입국 허가를 새로 승인받은 영주권자, 그리고 자신이 어떤 JPN 카드든 소지하게 될지 알고 싶은 외국인."
 
 lang: "ko"
+sourceContentHash: "873639e4a7149ab4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

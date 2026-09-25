@@ -33,8 +33,9 @@ faq:
     a: "형사 범죄입니다. Act 520 제29조에 따라 제25조 제1항 위반은 유죄판결 시 RM10,000 이상 RM100,000 이하의 벌금으로 처벌됩니다. 별도로, 제30조에 따라 CIDB는 공사를 중지하라는 서면 통지를 발부할 수 있으며; 그 통지를 무시하는 것은 그 자체로 최대 RM5,000의 벌금과 위반이 계속되는 날마다 최대 RM1,000을 수반하는 범죄입니다."
 
 lang: "ko"
+sourceContentHash: "d4cd90059b767133"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

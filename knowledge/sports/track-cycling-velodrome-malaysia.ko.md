@@ -29,8 +29,9 @@ faq:
     a: "두 개의 올림픽 메달리스트(2016 동메달, 2020 은메달)이자 2017년 케이린 세계 챔피언인 아지줄하스니 아왕(Azizulhasni Awang)입니다."
 
 lang: "ko"
+sourceContentHash: "490abb68b2e39c44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

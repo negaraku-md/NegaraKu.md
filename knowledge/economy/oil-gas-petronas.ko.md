@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "말레이시아 석유·가스 부문의 법적 근거, 석유에 대한 연방 재정 의존, 또는 연방-주 자원 논쟁을 이해하려는 모든 사람 — 학생, 분석가, 투자자, 언론인."
 
 lang: "ko"
+sourceContentHash: "e00cfef3a5a059c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -56,8 +56,9 @@ obligations:
     consequence: "The election is unavailable for that year; once made it can never be reversed"
 
 lang: "ko"
+sourceContentHash: "f2863a53f5f454a9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Kesatuan menyerahkan tuntutan pengiktirafan kepada majikan. Majikan mesti, dalam tempoh 21 hari di bawah seksyen 9(3), sama ada mengiktiraf kesatuan atau memberitahu secara bertulis alasan penolakan. Jika ditolak, perkara dirujuk kepada KPPP yang boleh mengadakan undian sulit dan menyemak kekompetenan kesatuan melalui Ketua Pengarah Kesatuan Sekerja."
 
 lang: "ko"
+sourceContentHash: "3e83f3a36eb3fa8f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

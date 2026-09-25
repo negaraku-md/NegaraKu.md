@@ -74,8 +74,9 @@ obligations:
     consequence: "Offence under reg 11(2)"
 
 lang: "ko"
+sourceContentHash: "2ae8b97b33a16a4f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

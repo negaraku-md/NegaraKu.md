@@ -29,8 +29,9 @@ faq:
     a: "이슬람 관련 업무에서 통치자를 보좌하고 자문하며, 주(州) 제정법에 따라 자카트(zakat), 와카프(wakaf), 모스크 및 관련 사안을 관장하는 것입니다. MAIN은 또한 주(州) 와카프 재산의 단독 수탁자가 됩니다."
 
 lang: "ko"
+sourceContentHash: "d6d15ba266fb5f4b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

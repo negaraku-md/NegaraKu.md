@@ -45,8 +45,9 @@ verificationNeeded:
   - "Confirm current court filing fees and sealing fees from the Federal Court of Malaysia or the relevant registry"
 
 lang: "ko"
+sourceContentHash: "572d5b41b321894d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

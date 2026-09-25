@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "창업자, 투자자, 그리고 말레이시아에서 사업 구조를 정하는 모든 이."
 
 lang: "ko"
+sourceContentHash: "ba35930a62b0d001"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

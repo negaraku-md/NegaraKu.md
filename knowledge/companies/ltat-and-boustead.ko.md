@@ -29,8 +29,9 @@ faq:
     a: "LTAT 이사회가 2024년 8월 9일 승인하고 2024년 12월 13일 내각에 보고한 LTAT 및 Boustead 그룹의 구조조정 계획으로, 강제 매각을 피하면서 3년 내에 전략 자산 지분을 35%로 줄이는 것을 목표로 합니다."
 
 lang: "ko"
+sourceContentHash: "bc79a003d2567110"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

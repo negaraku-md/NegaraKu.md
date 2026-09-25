@@ -31,8 +31,9 @@ faq:
     a: "JKM 산하 보조기구/보철기구 지원(BAT)은 수동 또는 전동 휠체어, 의족과 의수, 보청기, 흰지팡이, 점자 기기를 정해진 기구의 실제 가격에 따라 포함합니다."
 
 lang: "ko"
+sourceContentHash: "eb1c377cbf19305d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

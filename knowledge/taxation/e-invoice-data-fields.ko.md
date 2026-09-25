@@ -28,8 +28,9 @@ verificationNeeded:
   - "Per-endpoint API rate limits — the SDK refers to Integration Practices without stating numeric limits on the FAQ page"
 
 lang: "ko"
+sourceContentHash: "7457966f1e6638bb"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

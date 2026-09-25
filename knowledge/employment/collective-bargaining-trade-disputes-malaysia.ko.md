@@ -34,8 +34,9 @@ faq:
     a: "Ya. Di bawah Akta Kesatuan Sekerja 1959 (seksyen 25A), undi sulit diperlukan. Selepas pindaan, ambang yang diperlukan diturunkan kepada lebih separuh undi dengan sekurang-kurangnya 60 peratus ahli yang berhak mengundi turut mengundi, berbanding majoriti dua pertiga sebelum ini."
 
 lang: "ko"
+sourceContentHash: "d0b1ce6e61182113"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

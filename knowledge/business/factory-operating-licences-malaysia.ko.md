@@ -33,8 +33,9 @@ faq:
     a: "It depends on the activity. Under the Environmental Quality Act 1974, heavy or large industrial projects listed in the Environmental Quality (Prescribed Activities) (Environmental Impact Assessment) Order 2015 must have an approved EIA before the project proceeds. Certain industries — crude palm oil, raw natural rubber, scheduled-waste facilities — are 'prescribed premises' needing DOE written permission to construct and a licence to operate. An ordinary factory that discharges effluent or emits air pollutants must still comply with the DOE's effluent and clean-air regulations. Confirm your activity's status with the DOE before building."
 
 lang: "ko"
+sourceContentHash: "b9703e6c709c9e9a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

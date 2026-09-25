@@ -36,8 +36,9 @@ faq:
     a: "Perkara 55(5) memperuntukkan bahawa sesuatu rang undang-undang yang belum diputuskan di dalam Parlimen tidak terluput disebabkan oleh pemprorogan Parlimen. Perkara 55(7) pula melindungi rang undang-undang yang menantikan perkenan daripada terluput disebabkan pemprorogan atau pembubaran Parlimen."
 
 lang: "ko"
+sourceContentHash: "87bf8d58ce7f3cea"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "It creates the offences and the ceiling penalties Parliament set for each, but exact figures are frequently adjusted by subsidiary legislation and administrative notices (for example the AWAS compound system). This page does not reproduce specific fine amounts for that reason — check JPJ's own published schedules for current figures."
 
 lang: "ko"
+sourceContentHash: "082c1821680b3184"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

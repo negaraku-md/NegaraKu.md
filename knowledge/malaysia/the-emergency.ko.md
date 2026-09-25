@@ -30,8 +30,9 @@ faq:
     a: "Sources record the two processes running in parallel rather than one causing the other. Independence was negotiated and achieved on 31 August 1957 while the Emergency was still in force, and the Emergency continued for almost three more years under an independent Malayan government."
 
 lang: "ko"
+sourceContentHash: "05c196a1a00207fa"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

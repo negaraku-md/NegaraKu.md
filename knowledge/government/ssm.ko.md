@@ -30,8 +30,9 @@ faq:
     a: "SSM reports to the Ministry of Domestic Trade and Cost of Living. Ministerial portfolios in Malaysia are reorganised periodically, so confirm the current parent ministry on ssm.com.my before relying on it in a formal document."
 
 lang: "ko"
+sourceContentHash: "f9b7af93b7253c9c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

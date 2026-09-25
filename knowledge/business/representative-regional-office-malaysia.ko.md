@@ -33,8 +33,9 @@ faq:
     a: "The Malaysian Investment Development Authority (MIDA) approves applications, submitted via the Invest Malaysia portal. Applications for banking and financial services are handled by Bank Negara Malaysia (the Central Bank of Malaysia)."
 
 lang: "ko"
+sourceContentHash: "9170883af9a3f4af"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

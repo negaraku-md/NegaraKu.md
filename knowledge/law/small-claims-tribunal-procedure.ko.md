@@ -36,8 +36,9 @@ faq:
     a: "Anda memfailkan notis tunjuk sebab (Borang 208). Selepas itu mahkamah boleh mengeluarkan writ penyitaan dan penjualan (Borang 84) terhadap harta penghutang penghakiman, membenarkan bayaran ansuran, atau memerintahkan penghutang dikomitkan ke penjara."
 
 lang: "ko"
+sourceContentHash: "7f497323fdf0e52a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

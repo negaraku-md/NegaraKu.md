@@ -57,8 +57,9 @@ obligations:
     consequence: "제258조 제3항에 따라 회사와 모든 임원에게 최대 RM50,000의 벌금과 매일 최대 RM500"
 
 lang: "ko"
+sourceContentHash: "c624788a072a7927"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

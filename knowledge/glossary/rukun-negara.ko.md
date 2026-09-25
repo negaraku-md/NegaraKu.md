@@ -34,8 +34,9 @@ faq:
     a: "이상(통합과 공정한 사회 같은 다섯 국가 목표)은 이루고자 하는 목표이고, 다섯 원칙은 그 이상을 이루기 위한 삶의 토대이자 지침입니다. 둘이 함께 루쿤 느가라 전문을 이룹니다."
 
 lang: "ko"
+sourceContentHash: "d94eca92454b00e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

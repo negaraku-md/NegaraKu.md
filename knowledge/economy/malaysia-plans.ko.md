@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "학생, 정책 분석가, 언론인, 그리고 한 회계연도를 넘어 국가 개발이 어떻게 계획되는지 이해하려는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "e044f4eddcd76b63"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

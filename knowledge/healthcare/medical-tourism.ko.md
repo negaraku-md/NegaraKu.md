@@ -31,8 +31,9 @@ faq:
     a: "보건부가 민간 의료 시설을 허가하고 말레이시아 의료협의회가 의사를 등록하고 징계합니다. 많은 병원은 말레이시아 의료품질협회(MSQH)나 국제조인트커미션(JCI)의 자발적 인증도 보유합니다. MHTC는 그 규제 사슬 밖에 있습니다."
 
 lang: "ko"
+sourceContentHash: "f3db9e92168dd3e0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "2023년 2월 국회에 상정된 감사원장 보고서는 2021년 10월 28일부터 31일 사이에 MyVAS 시스템의 'Super Admin' 계정을 통해 300만 명의 백신 접종자 개인정보가 다운로드되었음을 밝혔습니다."
 
 lang: "ko"
+sourceContentHash: "1889bed64a5f738d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

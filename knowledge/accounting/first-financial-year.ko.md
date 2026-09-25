@@ -43,8 +43,9 @@ obligations:
     consequence: "PD 1/2017에 따른 지연 제출 벌금과 말소 조치에 대한 노출"
 
 lang: "ko"
+sourceContentHash: "c47e879b49e93850"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

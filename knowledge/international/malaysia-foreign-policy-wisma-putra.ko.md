@@ -37,8 +37,9 @@ faq:
     a: "아세안은 말레이시아 외교 정책의 근간 혹은 기초입니다. 말레이시아는 아세안 창립국 중 하나로 늘 아세안의 통합성과 중심성(centrality)을 우선시하면서, 국제연합(UN), 이슬람협력기구(OIC), 비동맹운동(NAM) 같은 다른 포럼에서도 능동적입니다."
 
 lang: "ko"
+sourceContentHash: "4cb0c08e4d974a16"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

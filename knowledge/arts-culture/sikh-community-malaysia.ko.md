@@ -34,8 +34,9 @@ faq:
     a: "Bahasa Punjabi masih hidup tetapi mengalami peralihan bahasa: kajian akademik terhadap komuniti Sikh di Kota Kinabalu mendapati majoriti keluarga kini menggunakan bahasa Inggeris di rumah. Untuk mengekalkan bahasa itu, gurdwara mengendalikan kelas Punjabi — contohnya Pusat Pendidikan Punjabi di Gurdwara Sahib Seremban — yang mengajar tulisan Gurmukhi kepada kanak-kanak."
 
 lang: "ko"
+sourceContentHash: "9ed6f6181f75f4d2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

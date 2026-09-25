@@ -32,8 +32,9 @@ faq:
     a: "이는 2023년 6월 15일 국회에서 승인된 정책 문서로, 말레이시아 보건 체계의 15년에 걸친 단계적 개혁을 제시합니다."
 
 lang: "ko"
+sourceContentHash: "635c9f97868b06be"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

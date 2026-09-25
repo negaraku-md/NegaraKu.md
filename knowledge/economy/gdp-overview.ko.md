@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "말레이시아 경제의 규모와 형태를 일반적·개괄적 수준에서 이해하고자 하는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "a15aa3483282907f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

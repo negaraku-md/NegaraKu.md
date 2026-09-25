@@ -32,8 +32,9 @@ faq:
     a: "의회 답변에 따르면, 말레이시아는 2018년부터 2025년 중반까지 중국에 RM6.37 billion 상당의 두리안 115,359톤을 수출했습니다. 신선 통두리안 수출은 2025년 상반기에만 773톤(거의 RM50 million)에 이르렀습니다."
 
 lang: "ko"
+sourceContentHash: "31afd040d92018fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

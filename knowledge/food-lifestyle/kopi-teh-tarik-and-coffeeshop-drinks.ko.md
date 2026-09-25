@@ -29,8 +29,9 @@ faq:
     a: "두 용기 사이에서 차를 반복해 높이 붓는 과정 — '타릭' — 은 음료를 식히고, 차와 우유를 섞으며, 위에 거품층을 만듭니다. 그 자체가 하나의 볼거리가 되어 테 타릭 대회까지 존재합니다."
 
 lang: "ko"
+sourceContentHash: "9bbd745541ea86db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

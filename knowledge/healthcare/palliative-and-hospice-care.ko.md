@@ -29,8 +29,9 @@ faq:
     a: "완화의료는 나이와 관계없이, 심지어 아동을 포함하여, 생명을 제한하는 질병을 가진 환자의 편안함과 증상 조절에 초점을 둡니다. 반면 고령자 돌봄은 말기 질환이 없을 수도 있는 노인을 위한 일반 돌봄입니다."
 
 lang: "ko"
+sourceContentHash: "ff994cbda9925abc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

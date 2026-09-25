@@ -43,8 +43,9 @@ verificationNeeded:
   - "Response periods for supplementary questionnaires are set case by case in the questionnaire itself and are not fixed by the Regulations"
 
 lang: "ko"
+sourceContentHash: "362da92334d2fc8d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

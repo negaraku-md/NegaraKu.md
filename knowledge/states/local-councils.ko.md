@@ -34,8 +34,9 @@ faq:
     a: "선출직 지방의회는 「지방정부선거법 1960(Local Government Elections Act 1960)」 및 그 이전 법령에 따라 운영되었습니다. 선거는 인도네시아와의 대치(Konfrontasi) 중 비상 규정에 의해 1965년 3월 1일에 정지되었습니다. 재임 중이던 의원들은 「지방정부(임시규정)법 1973(Local Government (Temporary Provisions) Act 1973)」 [Act 124]이 그 임기를 종료하고 임명된 관리위원회로 대체할 때까지 자리를 지켰으며, 이후 「지방정부법 1976(Local Government Act 1976)」 [Act 171]이 항구적인 임명 제도를 확립했습니다."
 
 lang: "ko"
+sourceContentHash: "d540aa978984383a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ faq:
     a: "주민회는 사단법(Societies Act 1966)에 따라 등록된 사단이지 법정 기구가 아니므로 — 공동관리기구나 관리단에 견줄 만한 납부 강제 권한이 없습니다. 법원은 주민회가 미납 주민에게 공유 차단봉을 직접 조작하도록 요구하는 것을 허용했으나, 주민의 출입을 아예 막는 것은 소송 가능한 방해행위(nuisance)가 될 위험이 있습니다."
 
 lang: "ko"
+sourceContentHash: "03cf0cac851c0421"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

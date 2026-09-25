@@ -25,8 +25,9 @@ verificationNeeded:
   - "SPIKPA의 정확한 보험료와 연간 보장 한도는 공식 1차 출처에서 확인되지 않았습니다(학술 및 보험 중개 2차 출처만 발견됨). 이 글은 확인되지 않은 보험료나 보장 금액을 명시하지 않고, 이민국 자체 사이트에서 확인된 대로 그 제도의 기능 — 취업 허가 갱신에 연동된 의무 보험 — 을 서술합니다."
 
 lang: "ko"
+sourceContentHash: "6d48887f5e7bc5dd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

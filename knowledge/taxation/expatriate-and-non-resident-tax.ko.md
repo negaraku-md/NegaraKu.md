@@ -41,8 +41,9 @@ verificationNeeded:
   - "Schedule 1 Part XVIII caps the rate for a resident non-citizen in a key position under an approved incentive scheme at not more than 20% — the applicable rate is prescribed scheme by scheme and was not verified"
 
 lang: "ko"
+sourceContentHash: "361de000de2978ca"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

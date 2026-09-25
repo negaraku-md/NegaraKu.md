@@ -34,8 +34,9 @@ faq:
     a: "둘 다 하지만, 무게중심은 서비스에 있습니다. MRO와 부품 제조가 우세합니다. 말레이시아는 구조물, 복합재, 엔진 부품을 만들고 항공기를 정비하지만, 항공기 수준의 설계 및 개발 역량은 상대적으로 약합니다."
 
 lang: "ko"
+sourceContentHash: "5b97e205090548e0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

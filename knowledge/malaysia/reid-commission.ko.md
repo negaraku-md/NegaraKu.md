@@ -18,8 +18,9 @@ keyTakeaways:
   - "A Working Party of Ruler and Alliance representatives with British officials revised the draft, which took effect as the Federal Constitution on 31 August 1957"
 appliesTo: "Students, researchers and general readers who want to understand who actually wrote Malaysia's founding constitution, on what instructions, and how a commission report turned into the law of an independent country."
 lang: "ko"
+sourceContentHash: "274cb6f4918d991f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

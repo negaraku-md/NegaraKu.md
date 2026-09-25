@@ -32,8 +32,9 @@ faq:
     a: "Akta ini tidak mengandungi pembelaan 'kepentingan awam' atau perlindungan khusus bagi pemberi maklumat (whistleblower). Seksyen 17A menyediakan pembelaan hanya bagi seseorang yang membuktikan bahawa ia bertindak dalam menjalankan tugas rasmi atau dengan kuasa yang sepatutnya. Ketiadaan pembelaan kepentingan awam ialah antara isu yang dibangkitkan oleh pengkritik akta."
 
 lang: "ko"
+sourceContentHash: "b2289aaf85dc5684"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

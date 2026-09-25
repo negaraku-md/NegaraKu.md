@@ -27,8 +27,9 @@ verificationNeeded:
   - "제46조 2항의 주별 의석 수는 선거구 재획정에 따른 헌법 개정으로 바뀔 수 있으므로, 최신 재판본과 대조해 확인하십시오."
 
 lang: "ko"
+sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

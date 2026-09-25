@@ -34,8 +34,9 @@ faq:
     a: "Ya. Seksyen 4(2)(d) memberi SUHAKAM kuasa melawat mana-mana tempat tahanan, institusi dan tempat lain, dan membuat syor yang perlu. Seksyen 4(3), yang dimasukkan oleh pindaan 2024, menyatakan lawatan itu tidak boleh ditolak oleh orang yang bertanggungjawab ke atas tempat berkenaan selagi prosedur yang ditetapkan dipatuhi."
 
 lang: "ko"
+sourceContentHash: "41da53bbfb03e372"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

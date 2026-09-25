@@ -34,8 +34,9 @@ faq:
     a: "Act(제3자) 보장은 법적 최소이며 제3자 상해나 사망에 대해서만 지급합니다. 제3자·화재·도난 보장은 자기 차량이 불타거나 도난당한 경우의 보장을 추가합니다. 종합보험은 가장 넓은 보장으로, 자기 차량의 우발적 손해에 대해서도 지급합니다."
 
 lang: "ko"
+sourceContentHash: "f3e95ab7db734acf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

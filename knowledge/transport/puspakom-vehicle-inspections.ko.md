@@ -34,8 +34,9 @@ faq:
     a: "JPJ는 유효한 검사 보고서 없이 상용차 도로세를 갱신하지 않으며, 검사 없이 운행하는 차량은 JPJ에 의해 벌칙금이 부과되거나 딱지를 받을 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "6dfb76a4e260e0c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

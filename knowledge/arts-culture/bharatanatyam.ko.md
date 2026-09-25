@@ -32,8 +32,9 @@ seoTitle: "말레이시아의 바라타나티암: 고전 무용 풀이"
 socialTitle: "How South India's classical dance took root in Malaysia"
 
 lang: "ko"
+sourceContentHash: "f61cd4f8304d521c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

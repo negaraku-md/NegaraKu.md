@@ -47,8 +47,9 @@ verificationNeeded:
   - "Confirm the count of documented foreign workers holding a PLKS, nationally and by state — DOSM publishes non-citizen population, which includes dependants, students, permanent residents and undocumented persons"
 
 lang: "ko"
+sourceContentHash: "266dea497fff19a6"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

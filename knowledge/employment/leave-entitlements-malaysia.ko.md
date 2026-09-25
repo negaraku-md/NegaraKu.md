@@ -42,8 +42,9 @@ verificationNeeded:
   - "Confirm the equivalent annual, sick and hospitalisation leave bands under the Sabah and Sarawak Labour Ordinances as amended in 2025"
 
 lang: "ko"
+sourceContentHash: "4780eb76db51665d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

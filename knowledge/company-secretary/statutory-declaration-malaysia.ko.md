@@ -31,8 +31,9 @@ faq:
     a: "No — this is a common misconception carried over from the old Companies Act 1965. Under the Companies Act 2016, incorporation is done through an application in which each director or promoter provides a statement (section 14) that they consent to act and are not disqualified. That is a statement, not a statutory declaration."
 
 lang: "ko"
+sourceContentHash: "ca496f3d42e9b712"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

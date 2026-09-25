@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "말레이시아에서 민간 시설의 전문의 진료나 병원 입원을 앞둔 모든 사람 — 환자, 보호자, 그리고 고용주가 제공한 메디컬 카드나 보험에 의존하는 직원."
 
 lang: "ko"
+sourceContentHash: "ae428a676e96d0c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "공식 학사 일정은 매년 학년도 시작 전에 Surat Siaran KPM과 moe.gov.my 포털을 통해 발표됩니다. 날짜는 매년 바뀌므로 정확한 날짜는 공식 자료를 참고하십시오."
 
 lang: "ko"
+sourceContentHash: "25b458d1ef0fef1f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

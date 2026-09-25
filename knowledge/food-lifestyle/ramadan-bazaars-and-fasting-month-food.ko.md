@@ -31,8 +31,9 @@ faq:
     a: "보건부(KKM)가 바자르 노점에서 감시와 점검을 실시하며, 식품위생규정 2009에 따라 과태료를 부과할 수 있습니다. 지방 당국, KKM, KPDN은 라마단 내내 음식 품질, 위생, 가격 관리를 위해 매일 점검을 실시합니다."
 
 lang: "ko"
+sourceContentHash: "571a086b9bbbfa81"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

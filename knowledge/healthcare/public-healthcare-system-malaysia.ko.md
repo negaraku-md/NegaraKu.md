@@ -27,8 +27,9 @@ faq:
   - q: "PeKa B40란 무엇입니까?"
     a: "PeKa B40(Skim Peduli Kesihatan untuk Kumpulan B40)는 ProtectHealth Corporation이 운영하는 MOH 제도입니다. 40세 이상 자격 있는 저소득 말레이시아 국민 — 라흐마 현금 지원(STR) 수급자와 그 배우자 — 에게 무료 건강 검진, 최대 RM20,000의 의료기기 지원, RM1,000의 암 치료 인센티브, 교통 지원을 제공합니다. 2025년 3월 31일 기준, 약 690만 명의 자격 수급자 중 약 160만 명이 검진을 받았습니다."
 lang: "ko"
+sourceContentHash: "e44d3a318b3a6bbb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -57,8 +57,9 @@ obligations:
     consequence: "Fine up to RM10,000, plus up to RM500 a day while the offence continues"
 
 lang: "ko"
+sourceContentHash: "3e949f7458d64945"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

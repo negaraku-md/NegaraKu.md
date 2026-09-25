@@ -29,8 +29,9 @@ faq:
     a: "12개월 동안 과세 매출이 RM1,500,000을 초과하는 F&B 사업자만 서비스세에 등록해야 하며, 서비스 차지는 대부분 호텔과 풀서비스 식당이 사용합니다. 노점과 작은 식당은 대개 표시된 가격만 받습니다."
 
 lang: "ko"
+sourceContentHash: "0474567c9b571270"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

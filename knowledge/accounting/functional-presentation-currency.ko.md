@@ -34,8 +34,9 @@ faq:
     a: "아닙니다. 기능통화는 기초 거래와 상황을 반영하므로, 그 사실이 변할 때에만 — 예를 들어 판매 가격과 원가를 좌우하는 통화의 실질적 전환이 있을 때 — 변경됩니다. 기간마다 선택하는 회계정책이 아닙니다."
 
 lang: "ko"
+sourceContentHash: "f9e8ad1f0c1fc778"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

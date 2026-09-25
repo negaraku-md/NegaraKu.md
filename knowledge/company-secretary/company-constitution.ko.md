@@ -34,8 +34,9 @@ faq:
     a: "Di bawah peruntukan peralihan seksyen 619(3), M&A syarikat sedia ada yang berkuat kuasa pada permulaan Akta terus berkuat kuasa seolah-olah dibuat di bawah Akta ini, melainkan syarikat memutuskan sebaliknya. M&A itu kini menjadi perlembagaan syarikat berkenaan."
 
 lang: "ko"
+sourceContentHash: "99c3208a68daac93"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

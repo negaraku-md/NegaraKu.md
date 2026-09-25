@@ -17,8 +17,9 @@ keyTakeaways:
   - "Parameswara, founder of the Melaka Sultanate around 1400, is described in Malay tradition and by Melaka's own state government as a prince from Palembang — Srivijaya's former seat"
 appliesTo: "Readers who want to understand what ruled the Strait of Melaka before Melaka did, and how a Sumatra-based sea power ended up feeding directly into the Malay Peninsula's own royal history."
 lang: "ko"
+sourceContentHash: "9c0d3b0b3dd803ef"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

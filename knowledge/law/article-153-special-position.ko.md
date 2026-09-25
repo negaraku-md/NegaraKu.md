@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Anyone seeking a clause-by-clause, descriptive account of what Article 153 provides and what it excludes, without adjudicating the political debate around it."
 
 lang: "ko"
+sourceContentHash: "db5076f747cd8ba7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

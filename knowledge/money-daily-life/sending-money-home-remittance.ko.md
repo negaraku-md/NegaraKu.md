@@ -26,8 +26,9 @@ verificationNeeded:
   - "과제 지침에 따라 이 글 어디에도 수수료, 환율, 송금 규모 수치가 기술되지 않습니다 — 그러한 수치는 모두 송금 시점에 은행이나 면허 MSB에서 직접 얻어야 합니다."
 
 lang: "ko"
+sourceContentHash: "7ef5c9d18c446cfa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

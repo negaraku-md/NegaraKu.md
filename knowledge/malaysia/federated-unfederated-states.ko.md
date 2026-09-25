@@ -33,8 +33,9 @@ faq:
   - q: "What happened to the two groupings in the end?"
     a: "Both the Federated and the Unfederated Malay States were dissolved into the Malayan Union on 1 April 1946, which was itself replaced within a few years by the Federation of Malaya."
 lang: "ko"
+sourceContentHash: "3bcc3b32fd59d463"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

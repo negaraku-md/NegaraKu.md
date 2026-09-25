@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "회사 이사, 회사 비서(company secretary), 기업 규정 준수를 담당하는 모든 이."
 
 lang: "ko"
+sourceContentHash: "4458f7c26c528c99"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

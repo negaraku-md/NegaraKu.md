@@ -21,8 +21,9 @@ appliesTo: "나이 든 부모나 친척을 위한 돌봄 선택지를 저울질�
 verificationNeeded:
   - "이 글은 민간 요양원 요금, 병상 수용력, Rumah Seri Kenangan 대기자 명단 길이를 기재하지 않는데, 이는 자주 바뀌고 집필 시점에 공식 출처에서 확인되지 않았기 때문입니다 — 현재 요금과 이용 가능 여부는 운영자나 지구 사회복지사무소(Jabatan Kebajikan Masyarakat Daerah)에 직접 확인하십시오."
 lang: "ko"
+sourceContentHash: "7ae419cbd6a2d437"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

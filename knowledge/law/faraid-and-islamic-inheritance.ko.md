@@ -32,8 +32,9 @@ faq:
     a: "Tidak. Kos pengurusan jenazah, hutang dan wasiat diselesaikan dahulu daripada harta pusaka sebelum baki dibahagikan mengikut faraid."
 
 lang: "ko"
+sourceContentHash: "8922f0a1759aa852"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "성문법에 따라 설립된 종교 당국 — 즉 여러분 주의 자카트 기관 또는 센터 — 에 내고 영수증을 보관하십시오. 개인이나 사설 기금에 낸 것은 리베이트 자격이 없습니다."
 
 lang: "ko"
+sourceContentHash: "0477b9f160c18e84"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

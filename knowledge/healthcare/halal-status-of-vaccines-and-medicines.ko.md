@@ -29,8 +29,9 @@ faq:
     a: "2020년 12월 3일 특별 무자카라는 사용되는 백신이 할랄이고 타이입(tayyiban)일 것을 조건으로, COVID-19 백신의 사용이 허용되며 정부가 정한 집단에게 접종이 의무적이라고 결정했습니다."
 
 lang: "ko"
+sourceContentHash: "a63cd25d7840519b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

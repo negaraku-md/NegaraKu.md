@@ -40,8 +40,9 @@ verificationNeeded:
   - "Tempoh sejarah setiap gabungan memerintah dan tahun penubuhan (contohnya bila Barisan Nasional memerintah di peringkat persekutuan, dan bila Perikatan Nasional ditubuhkan) tidak dinyatakan sebagai tarikh keras dalam halaman ini kerana tiada sumber utama disemak untuknya dalam pusingan ini. Tambah tarikh bersumber jika perlu."
 
 lang: "ko"
+sourceContentHash: "58782ac706653a76"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

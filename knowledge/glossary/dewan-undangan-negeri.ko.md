@@ -36,8 +36,9 @@ faq:
     a: "통치자가 없는 네 주 — 페낭, 믈라카, 사바, 사라왁 — 는 제8부칙에서 「통치자(Raja)」에 부여된 기능을 각자의 주지사(Yang di-Pertua Negeri), 즉 제160조 2항에 정의된 주의 수장을 통해 수행합니다."
 
 lang: "ko"
+sourceContentHash: "8431620b21e8ef56"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

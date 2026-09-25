@@ -30,8 +30,9 @@ faq:
     a: "Treat them as a translation, not a source. LHDN's English pages are machine-translated and contain confirmed errors that invert meaning. For anything load-bearing, read the Malay original page and quote from that."
 
 lang: "ko"
+sourceContentHash: "558a5f369fe484be"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

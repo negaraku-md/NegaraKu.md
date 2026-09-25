@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Anyone who needs to know, subject by subject, whether the Federation or a State has the power to make a given law in Malaysia."
 
 lang: "ko"
+sourceContentHash: "d234775add600d74"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

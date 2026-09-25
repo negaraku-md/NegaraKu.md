@@ -26,8 +26,9 @@ verificationNeeded:
   - "The full text of P.U.(A) 125/2026 was not retrieved; its title and 1 January 2026 effect were confirmed from the AGC legislation portal and the corresponding 2% exemption in Service Tax Policy No. 2/2025 (Amendment No. 3)"
 
 lang: "ko"
+sourceContentHash: "a8607ba4409fa9bf"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

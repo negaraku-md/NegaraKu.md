@@ -39,8 +39,9 @@ faq:
     a: "Rang Undang-Undang Perbekalan ialah ujian keyakinan kewangan terhadap kerajaan. Kerana ia rang undang-undang wang, ia mesti bermula di Dewan Rakyat dan hanya boleh dibawa oleh seorang Menteri. Jika Dewan Rakyat menolak peruntukan kerajaan, itu secara lazimnya ditafsirkan sebagai kehilangan keyakinan majoriti — lihat kuasa kewangan Dewan Rakyat di bawah Perkara 67 dan 68 Perlembagaan Persekutuan."
 
 lang: "ko"
+sourceContentHash: "40747e3f92b37352"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

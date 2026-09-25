@@ -41,8 +41,9 @@ verificationNeeded:
   - "이전에 MFRS로 이동한 실체의 MPERS 재채택에 관해 MASB가 특정 지침을 발행했는지 확인하십시오"
 
 lang: "ko"
+sourceContentHash: "621bf2dc64ee78c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

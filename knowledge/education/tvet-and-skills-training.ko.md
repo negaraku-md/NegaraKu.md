@@ -18,8 +18,9 @@ keyTakeaways:
   - "커뮤니티 칼리지는 더 유연한 입학으로 더 낮은 단계의 자격증에 중점을 두고, 폴리테크닉은 디플로마에 중점을 둡니다 — 둘 다 고등교육부 JPPKK가 감독합니다"
 appliesTo: "폼 3 또는 SPM 이후의 학생, 자녀의 진로를 계획하는 학부모, 그리고 SKM을 통해 기존 기능을 인증받으려는 성인 노동자."
 lang: "ko"
+sourceContentHash: "75531562551211f2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

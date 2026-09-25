@@ -31,8 +31,9 @@ faq:
     a: "No. Smallholders are exempt, and the 2023 Order applies only to oil palm holdings of not less than 40.46 hectares (100 acres); holdings in group settlement areas are also excluded."
 
 lang: "ko"
+sourceContentHash: "90a5c1941df77b25"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

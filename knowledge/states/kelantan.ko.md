@@ -41,8 +41,9 @@ verificationNeeded:
   - "주 의회 및 의회 의석 수는 이 초안 작성 시 SPR 공식 자료에서 확인할 수 없어 의도적으로 명시하지 않음."
 
 lang: "ko"
+sourceContentHash: "869286bde4f6fa80"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

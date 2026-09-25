@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Anyone seeking a structural, descriptive understanding of Malaysia's constitutional framework."
 
 lang: "ko"
+sourceContentHash: "3635bd9fdb569d2e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

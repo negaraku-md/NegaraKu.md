@@ -29,8 +29,9 @@ faq:
     a: "The court did. Sultan Mahmud Shah and his descendants re-established Malay rule to the south, most consequentially in the Johor Sultanate, carrying forward Melaka's court structure, legal code and language. Those institutions outlasted the city's independence by centuries."
 
 lang: "ko"
+sourceContentHash: "cf412842ff34bf8f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

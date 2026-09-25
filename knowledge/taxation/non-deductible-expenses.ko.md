@@ -42,8 +42,9 @@ verificationNeeded:
   - "Whether the s.39(1)(r) exemption in P.U.(A) 425-2021 has been extended beyond YA2025 — Labuan FSA circular 269/2021 states the effective period as YA2019 to YA2025 and no extension order was located"
   - "Whether paragraphs 39(1)(o) and 39(1)(p), which refer to the Goods and Services Tax Act 2014, remain operative following the repeal of that Act"
 lang: "ko"
+sourceContentHash: "5306816ff4b971c7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

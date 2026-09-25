@@ -25,8 +25,9 @@ verificationNeeded:
   - "KKM 병원의 치과 전문 분야의 정확한 수와 전문 치과 클리닉의 범위 세부는 집필 시점에 공식 사이트 hq.moh.gov.my/ohp에 접속할 수 없어(connection refused) 직접 확인할 수 없었으므로, 이 글의 서술은 일반적 수준을 유지하며 구체적 수치를 기재하지 않습니다."
   - "정부 치과 클리닉에서 고령자, 아동 및 특정 집단에 대한 요금 면제 정책은 2차 출처에서 널리 언급되지만, 이 글은 의도적으로 요금을 기재하지 않으므로 여기서 확인하지 않습니다 — 현재 정보는 해당 클리닉의 등록 창구에 문의하십시오."
 lang: "ko"
+sourceContentHash: "4e874b9f524ab414"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -43,8 +43,9 @@ verificationNeeded:
   - "The maximum number of rows accepted in the MyInvois Portal batch upload spreadsheet — LHDN describes a certain number without stating it"
 
 lang: "ko"
+sourceContentHash: "12fac171732261f3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

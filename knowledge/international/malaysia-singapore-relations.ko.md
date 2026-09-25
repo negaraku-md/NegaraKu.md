@@ -36,8 +36,9 @@ faq:
     a: "2008년 5월 23일, 국제사법재판소는 바투 푸테 섬(페드라 브랑카)이 싱가포르에, 미들 록스가 말레이시아에, 사우스 레지(South Ledge)는 그 영해가 이를 포함하는 국가에 속한다고 판결하였습니다."
 
 lang: "ko"
+sourceContentHash: "47c25fa8a007fc27"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

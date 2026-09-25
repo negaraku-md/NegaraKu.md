@@ -38,8 +38,9 @@ faq:
     a: "국가스포츠원(ISN)입니다. 국가스포츠원법(National Sports Institute Act 2011, Akta 729)에 의해 법정 기반 위에 놓여 있으며, 스포츠 과학 및 스포츠 의학 서비스와 자문·컨설팅을 제공하고 연구를 수행하며 선수 성과의 과학적 측면에 관해 장관에게 자문하는 기능을 합니다."
 
 lang: "ko"
+sourceContentHash: "6410f4b09d840cf0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

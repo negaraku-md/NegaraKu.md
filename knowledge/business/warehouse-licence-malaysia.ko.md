@@ -33,8 +33,9 @@ faq:
     a: "On top of the premise licence, CCC and BOMBA fire certificate, storing hazardous or dangerous goods brings in the Department of Occupational Safety and Health (DOSH) — for example the control of industrial major-accident hazards regime for bulk hazardous substances — and the Department of Environment (DOE) where scheduled wastes or controlled chemicals are involved. If the goods are also dutiable and stored under bond, the Customs licence conditions apply as well. Scope these approvals early, because they can dictate the building and location before you sign a lease."
 
 lang: "ko"
+sourceContentHash: "25fea0864e2d1d42"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

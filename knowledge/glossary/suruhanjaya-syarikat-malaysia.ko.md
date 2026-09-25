@@ -38,8 +38,9 @@ faq:
     a: "SSM는 그 규칙을 운영·집행하지만, 그것들은 법령에서 비롯됩니다. 연례 신고서는 회사법(Companies Act 2016)에 따라 요구되며, 납입 자본금 개념도 같은 법에서 나옵니다. SSM는 신고를 받고, 절차와 벌칙에 관한 실무 지침(Practice Directive)을 발하며, 위반자에 대해 집행 조치를 취합니다."
 
 lang: "ko"
+sourceContentHash: "48b70b131a01ea95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

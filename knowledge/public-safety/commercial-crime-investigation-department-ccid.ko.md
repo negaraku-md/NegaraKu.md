@@ -32,8 +32,9 @@ faq:
     a: "NSRC(국가사기대응센터)는 국가금융범죄센터(NFCC), PDRM, 말레이시아 중앙은행(BNM), MCMC와 금융기관 및 통신업계의 협력 사업입니다. 총리실이 2022년 10월 14일 온라인 금융 사기에 대한 신속 대응 센터로 997 회선을 통해 발표했습니다. CCID는 이 작전에 참여하는 PDRM 부서 중 하나입니다."
 
 lang: "ko"
+sourceContentHash: "9fa83d15365c9fba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

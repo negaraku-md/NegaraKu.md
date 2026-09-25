@@ -36,8 +36,9 @@ faq:
     a: "어깨와 무릎을 가리십시오. 복장이 너무 노출이 심하면 보통 입구에서 사롱을 빌리거나 대여할 수 있습니다. 주 사원 동굴로 올라가는 긴 계단에는 편한 신발이 도움이 됩니다."
 
 lang: "ko"
+sourceContentHash: "2716ca2d76a67d28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

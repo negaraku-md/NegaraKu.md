@@ -34,8 +34,9 @@ faq:
     a: "매수와 매도 양쪽에 세 가지 부담금이 적용됩니다: 증권사 중개수수료(증권사가 정함), 거래 가치의 0.03%로 RM1,000 상한인 청산 수수료, 그리고 가치 RM1,000(또는 그 일부)당 RM1로 RM1,000 상한인 인지세입니다. Bursa Malaysia 상장 주식의 중개수수료는 현재 서비스세가 면제됩니다."
 
 lang: "ko"
+sourceContentHash: "2aa2d9243406a229"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "Persembahan awam di Kelantan dihadkan di bawah enakmen kawalan hiburan negeri yang diluluskan pada 1998. Pada 25 September 2019, Timbalan Menteri Besar Kelantan Datuk Mohd Amar Nik Abdullah mengumumkan bahawa persembahan dibenarkan tertakluk kepada syarat patuh syariah yang ditetapkan kerajaan negeri, termasuk ketiadaan unsur pemujaan dan kewajipan menutup aurat, dengan pemantauan berterusan oleh kerajaan negeri dan pihak berkuasa agama negeri."
 
 lang: "ko"
+sourceContentHash: "fddcf6b015e88b34"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

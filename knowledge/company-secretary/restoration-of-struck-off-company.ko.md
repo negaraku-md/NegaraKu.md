@@ -28,8 +28,9 @@ faq:
     a: "Tidak. Pemulihan memerlukan perintah Mahkamah Tinggi. Pendaftar (SSM) dinamakan sebagai defendan dan menyemak permohonan sebelum perbicaraan."
 
 lang: "ko"
+sourceContentHash: "abcd7eea51de63b1"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

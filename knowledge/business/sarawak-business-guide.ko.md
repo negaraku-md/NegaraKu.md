@@ -46,8 +46,9 @@ verificationNeeded:
   - "The LawNet consolidated text of the Sarawak Labour Ordinance Cap. 76 is current only to 31 July 2006 and must be read with Act A1754 rather than instead of it."
 
 lang: "ko"
+sourceContentHash: "64142f66b268b952"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

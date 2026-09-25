@@ -33,8 +33,9 @@ faq:
     a: "Jabatan Perangkaan Malaysia (DOSM) menerbitkan Akaun Satelit ICT setiap tahun (keluaran Ekonomi Digital Malaysia), yang menetapkan sumbangan ICT dan e-dagang kepada KDNK. DOSM juga menjalankan Laporan Penggunaan dan Akses ICT bagi angka penembusan isi rumah dan individu. Kadar penembusan jalur lebar diterbitkan secara berasingan oleh Suruhanjaya Komunikasi dan Multimedia Malaysia (SKMM/MCMC)."
 
 lang: "ko"
+sourceContentHash: "9a3a89f709e2b7ae"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

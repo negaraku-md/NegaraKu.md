@@ -60,8 +60,9 @@ obligations:
     statute: "Service Tax Act 2018, First Schedule"
 
 lang: "ko"
+sourceContentHash: "7320d2549d294308"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

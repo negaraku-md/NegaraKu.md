@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Anyone trying to read Malaysian population, labour or property statistics correctly — researchers, planners, and businesses assessing where the population and workforce actually are."
 
 lang: "ko"
+sourceContentHash: "0362cd9a8f8b4f6a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

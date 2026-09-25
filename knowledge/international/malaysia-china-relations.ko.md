@@ -32,8 +32,9 @@ faq:
     a: "이는 2013년에 수립된 포괄적 전략 동반자 관계를 토대로, 양국 정부가 관계의 다음 단계를 묘사하기 위해 채택한 틀입니다. 이 개념은 2023년부터 제기되어 시진핑 주석의 2025년 4월 17일 국빈 방문 중 공동성명으로 공식화되었습니다. 이는 교역, 기술, 인프라 및 인적 교류 전반에 걸친 협력을 제시합니다."
 
 lang: "ko"
+sourceContentHash: "72782c6871b15658"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

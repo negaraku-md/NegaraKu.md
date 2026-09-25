@@ -29,8 +29,9 @@ faq:
     a: "경영진이 10문단 및 11문단이 요구하는 진술을 제공하지 않으면, 감사인은 ISA 705에 따라 재무제표에 대한 의견을 거절해야 합니다(20문단)."
 
 lang: "ko"
+sourceContentHash: "b4dce9895318e6f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

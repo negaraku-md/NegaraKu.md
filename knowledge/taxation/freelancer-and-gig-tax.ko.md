@@ -40,8 +40,9 @@ verificationNeeded:
   - "Whether platform operators are required to issue self-billed e-Invoices for payments to individual gig workers, and at which phase, should be confirmed against the current e-Invoice Specific Guideline"
 
 lang: "ko"
+sourceContentHash: "4902766a1bf0ff6f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ verificationNeeded:
   - "RTS Link의 2026년 말 목표일은 이 글 작성 시점의 운영사 자체 명시 목표이며, 국경 간 인프라 개통은 흔히 지연되므로 발행에 가까워졌을 때 다시 확인해야 함."
 
 lang: "ko"
+sourceContentHash: "cd13a733d0e3f471"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

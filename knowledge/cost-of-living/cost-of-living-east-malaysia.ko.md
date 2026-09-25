@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "사바나 사라왁으로 이주하거나 그곳 예산을 세우는 사람, 동말레이시아 가격을 반도와 비교하는 사람, 또는 같은 상품이 남중국해 양쪽에서 왜 다른 가격표를 다는지 조사하는 사람."
 
 lang: "ko"
+sourceContentHash: "327dd8ebe6d5d915"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

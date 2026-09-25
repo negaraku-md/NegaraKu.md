@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "말레이시아 법률을 읽거나 인용하는 모든 이 — 변호사, 학생, 사업주, 연구자."
 
 lang: "ko"
+sourceContentHash: "fcd52a1ed198449a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

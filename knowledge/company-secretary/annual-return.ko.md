@@ -41,8 +41,9 @@ verificationNeeded:
   - "Confirm what the Companies (Amendment) Act 2024 (Act A1701) changed in s.68, which is within its amending scope, and whether any change is yet in force"
 
 lang: "ko"
+sourceContentHash: "333c372fcdca64b9"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

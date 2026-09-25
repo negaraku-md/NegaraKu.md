@@ -29,8 +29,9 @@ faq:
     a: "Di bawah Seksyen 24(8), jumlah semua potongan tidak boleh melebihi 50% gaji yang diperoleh dalam bulan itu. Seksyen 24(9) mengecualikan indemniti Seksyen 13(1), bayaran akhir apabila tamat kerja, dan pinjaman perumahan (tambahan sehingga 25% dengan kebenaran Ketua Pengarah)."
 
 lang: "ko"
+sourceContentHash: "3388bf641e0109a3"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

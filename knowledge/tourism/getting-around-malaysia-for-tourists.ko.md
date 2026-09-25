@@ -37,8 +37,9 @@ faq:
     a: "Touch 'n Go 카드입니다. Rapid KL의 LRT, MRT, 모노레일, BRT, 버스에서 모두 사용할 수 있습니다. Rapid KL 버스는 현금을 받지 않으므로, 버스에는 카드(또는 앱)가 사실상 필수입니다."
 
 lang: "ko"
+sourceContentHash: "df3f033b8e40fec3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

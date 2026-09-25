@@ -58,8 +58,9 @@ obligations:
     consequence: "Fine up to RM1 million under regulation 5"
 
 lang: "ko"
+sourceContentHash: "9ae3464820a97814"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

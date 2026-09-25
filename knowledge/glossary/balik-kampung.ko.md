@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "명절 시즌의 고속도로 이용자, 여행·휴가 계획자, 소매·운송 사업자, 그리고 말레이시아 인구 이동 패턴을 이해하려는 모든 이."
 
 lang: "ko"
+sourceContentHash: "351c6944deba025a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

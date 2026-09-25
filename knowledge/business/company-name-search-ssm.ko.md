@@ -38,8 +38,9 @@ verificationNeeded:
   - "The list of referral authorities and controlled words in Lampiran 1 of the Guidelines on Company Names is expressly non-exhaustive — verify the current list with SSM before relying on it"
 
 lang: "ko"
+sourceContentHash: "7ac1590970b850fc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

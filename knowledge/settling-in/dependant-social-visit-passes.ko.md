@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "가족을 말레이시아로 데려오는 취업 비자 소지자, 그리고 후원 대상이 되는 배우자·자녀·부모 또는 인척."
 
 lang: "ko"
+sourceContentHash: "965187483a912200"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

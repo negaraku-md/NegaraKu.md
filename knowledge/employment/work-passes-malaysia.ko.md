@@ -38,8 +38,9 @@ verificationNeeded:
   - "Confirm whether the DE Rantau Sarawak variant carries different income floors or duration from the federal DE Rantau Nomad Pass"
 
 lang: "ko"
+sourceContentHash: "1cf0d4000ca23029"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

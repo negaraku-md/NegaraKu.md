@@ -19,8 +19,9 @@ keyTakeaways:
   - "2025년 중등 교육 개정은 의회를 통과했으나, 이 기사 작성 시점에는 아직 관보 고시로 시행되지는 않았습니다. 장관이 그 시행일을 별도로 정합니다"
 appliesTo: "초등 또는 중등 학령 자녀의 홈스쿨링을 고려하는 말레이시아 학부모, 그리고 정식 면제와 자녀를 비공식적으로 미등록하는 것 사이에서 저울질하는 가정(MM2H 또는 장기 체류 외국인 가정 포함)."
 lang: "ko"
+sourceContentHash: "f9978c9d61a0e0de"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

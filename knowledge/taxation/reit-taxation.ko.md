@@ -31,8 +31,9 @@ faq:
     a: "Generally no. When the fund is exempt under section 61A, the income has not been taxed, so the distribution does not carry a section 110 tax credit that a unit holder could set off. A credit only arises where the fund itself was taxed (for example, when it distributed less than 90%)."
 
 lang: "ko"
+sourceContentHash: "74ef95198966c611"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

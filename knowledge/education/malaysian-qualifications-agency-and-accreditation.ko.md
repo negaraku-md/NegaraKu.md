@@ -32,8 +32,9 @@ faq:
     a: "네. 외국 분교 캠퍼스를 포함해 말레이시아에서 운영되는 모든 고등교육 제공기관이 제공하는 프로그램은 MQF에 따라 품질 보증을 받고 MQR에 나타납니다. 일부 기성 대학교는 자체 인증 지위(self-accrediting status)를 보유하여 자신의 프로그램을 MQF에 인증하고 MQR에 등록할 권한을 가집니다."
 
 lang: "ko"
+sourceContentHash: "ce3f16b64b60d59b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

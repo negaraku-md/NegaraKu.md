@@ -31,8 +31,9 @@ faq:
     a: "Penerima memperoleh Warkah Penghormatan Negara, wang tunai RM60,000, peruntukan penerbitan bernilai sehingga RM500,000 (sehingga 50,000 naskhah), rawatan perubatan percuma wad kelas satu di hospital kerajaan, serta elaun RM5,000 sebulan."
 
 lang: "ko"
+sourceContentHash: "c27d87b5dbf2077e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

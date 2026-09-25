@@ -30,8 +30,9 @@ faq:
     a: "At the 14th general election on 9 May 2018, when the opposition Pakatan Harapan won 113 of 222 seats and BN won 79, its first loss of the federal government."
 
 lang: "ko"
+sourceContentHash: "991005bf0f4cffdd"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

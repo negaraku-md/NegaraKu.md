@@ -20,8 +20,9 @@ keyTakeaways:
   - "The NEP was formulated after the events of 13 May 1969 and was succeeded by the National Development Policy in 1991"
 appliesTo: "Readers who want the documented objectives, targets and timeframe of the New Economic Policy as stated in official Malaysian plan texts, rather than a partisan account of it."
 lang: "ko"
+sourceContentHash: "6f9599be22d1ac5f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "회사 창업자, 회계사, 그리고 회사 정관이나 재무제표를 읽는 모든 이."
 
 lang: "ko"
+sourceContentHash: "2025c24e85b0e3a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

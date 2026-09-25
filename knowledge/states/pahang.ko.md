@@ -41,8 +41,9 @@ verificationNeeded:
   - "주(州) 관광 포털은 면적을 35,960km²로, 주(州) 정부 포털은 35,965km²로 언급함; 단일 공식 수치를 파항 주(州) 정부 사무국에 확인."
 
 lang: "ko"
+sourceContentHash: "da77a92f707cbcd4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

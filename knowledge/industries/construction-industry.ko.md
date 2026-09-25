@@ -34,8 +34,9 @@ faq:
     a: "NCP 2030은 건설산업 전환 프로그램(CITP) 2016–2020의 기간이 끝난 후 ICW 2021에서 출범한 정책입니다. 이는 2030년까지 건설 부문을 디지털 시대로 전환하기 위한 여섯 개의 전략적 축을 제시하며, 산업 주기의 50% 디지털화 목표를 포함합니다."
 
 lang: "ko"
+sourceContentHash: "77fa6bf333c3fa74"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

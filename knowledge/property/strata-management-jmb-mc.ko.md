@@ -34,8 +34,9 @@ faq:
     a: "재정 불이행은 제123조에 따른 형사 범죄입니다 — RM250,000을 넘지 않는 벌금 또는 3년을 넘지 않는 징역 또는 두 가지 모두이며, 계속되는 위반에는 하루당 최대 RM5,000의 추가 벌금이 부과됩니다. 민원은 건물감독관(COB)에게 제기합니다."
 
 lang: "ko"
+sourceContentHash: "f0b9ecff267db2f3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

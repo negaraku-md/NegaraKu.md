@@ -34,8 +34,9 @@ faq:
     a: "네. 이의신청은 거부 서한 날짜로부터 30일 이내에 이의신청 서한, 거부 서한, 증빙 서류와 함께 내무부 장관에게 제출해야 합니다."
 
 lang: "ko"
+sourceContentHash: "d074952166cefba5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

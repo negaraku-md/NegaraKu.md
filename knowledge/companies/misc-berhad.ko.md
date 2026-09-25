@@ -29,8 +29,9 @@ faq:
     a: "MISC 그룹은 2024 회계연도 매출 RM132.375억을 보고했으며, 이는 2023 회계연도의 RM142.717억 대비 7.2% 감소한 것으로, 세후이익은 RM12.332억이었습니다."
 
 lang: "ko"
+sourceContentHash: "29aaf63ab9013b28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

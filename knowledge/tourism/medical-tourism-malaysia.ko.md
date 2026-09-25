@@ -34,8 +34,9 @@ faq:
     a: "심장 진료, 종양학, 난임/체외수정(IVF), 정형외과, 종합 건강 검진이 외국인 환자에게 가장 인기 있는 전문 분야에 속합니다 — 앞의 네 가지는 MHTC가 지정한 우수 센터(centres of excellence)입니다."
 
 lang: "ko"
+sourceContentHash: "038cf5af7095fe8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

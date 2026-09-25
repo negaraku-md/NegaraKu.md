@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "매년 부과되는 재산세 고지서를 이해해야 하는, 반도 말레이시아의 주택 소유자, 토지 소유자, 부동산 매수인."
 
 lang: "ko"
+sourceContentHash: "466dc843a0553a23"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

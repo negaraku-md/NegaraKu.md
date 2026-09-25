@@ -37,8 +37,9 @@ faq:
     a: "감사인은 회사의 등록 사무소에 서면 통지로써 사임할 수 있습니다(제281조); 직위는 통지가 주어진 후 21일 또는 명시된 날짜 중 더 늦은 때에 종료됩니다. 사원은 주주총회에서 보통 결의로 언제든지 감사인을 해임할 수 있지만(제276조), 특별 통지가 필요합니다(제277조)."
 
 lang: "ko"
+sourceContentHash: "005bacdce3786440"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "코즈웨이(Causeway)나 세컨드 링크(Second Link)를 통해 싱가포르로, 또는 북부 육상 국경을 통해 태국으로 자기 차량을 운전해 넘어가려는 말레이시아 운전자."
 
 lang: "ko"
+sourceContentHash: "4dfab6647457152e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

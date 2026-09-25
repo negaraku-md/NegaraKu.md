@@ -30,8 +30,9 @@ faq:
     a: "Melanggar Seksyen 28 adalah kesalahan yang boleh didenda tidak melebihi RM50,000 (Seksyen 28(8)). Pemfailan lewat selepas 30 hari juga dikenakan fi pemfailan lewat."
 
 lang: "ko"
+sourceContentHash: "fe0af342a9f2c24f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

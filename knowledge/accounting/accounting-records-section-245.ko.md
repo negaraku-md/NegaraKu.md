@@ -56,8 +56,9 @@ verificationNeeded:
   - "말레이시아 기업위원회(SSM)는 제245조 위반에 대한 화해금(compound) 기준표를 공표하지 않습니다 — 명시된 벌금은 제245조 제9항에 따른 유죄 판결 시의 최고액이며 행정적 화해금이 아닙니다"
 
 lang: "ko"
+sourceContentHash: "45066b2b4838e7ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

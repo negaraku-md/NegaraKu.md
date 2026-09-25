@@ -28,8 +28,9 @@ verificationNeeded:
   - "부과금 적용을 가정하기 전에 P.U.(A) 84/2021의 제1부칙 산업 분류에 대해 HRD Corp 등록 의무를 확인하십시오"
 
 lang: "ko"
+sourceContentHash: "09bddb62f9842f1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

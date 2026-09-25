@@ -36,8 +36,9 @@ faq:
     a: "아닙니다. 제2조는 연방헌법 제9부칙 목록 II와 어업법 1985(Fisheries Act 1985)에 속하는 야생동물을 명시적으로 제외하므로, 해양 및 대부분의 어업 종은 다른 곳에서 규율됩니다."
 
 lang: "ko"
+sourceContentHash: "657883a3e9a64208"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -26,8 +26,9 @@ verificationNeeded:
   - "조호르바루에 특정된 공식 임대료 지수를 찾을 수 없었습니다. 싱가포르 연계 수요에 따른 임대 압력에 관한 서술은 발표된 수치가 아니라 정성적입니다."
 
 lang: "ko"
+sourceContentHash: "8dc6ca7c0ae8183c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

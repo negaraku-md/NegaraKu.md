@@ -30,8 +30,9 @@ faq:
     a: "They are made under the Act rather than being part of it, but they carry operative force — audit exemption criteria, late lodgement penalties and extension-of-time procedure all sit in Practice Directives, not in the section text. A question answered from the Act alone will often be answered wrongly."
 
 lang: "ko"
+sourceContentHash: "d0840945570101e4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

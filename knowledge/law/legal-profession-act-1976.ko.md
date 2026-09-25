@@ -34,8 +34,9 @@ faq:
     a: "Ya. Aduan bertulis boleh dirujuk kepada Lembaga Tatatertib di bawah seksyen 99. Jika Lembaga mendapati ada merit, ia akan membentuk Tribunal Penyiasatan di bawah seksyen 100 untuk menyiasat aduan tersebut."
 
 lang: "ko"
+sourceContentHash: "b2af26646e05de04"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

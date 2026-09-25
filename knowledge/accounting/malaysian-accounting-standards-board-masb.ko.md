@@ -27,8 +27,9 @@ faq:
   - q: "MASB와 재무보고재단의 차이는 무엇입니까?"
     a: "MASB는 기준을 작성하고 발행합니다. 재무보고재단(FRF)은 MASB를 감독하고, 그 성과를 검토하며, 예산 승인을 포함한 재정을 책임집니다 — 그러나 기준 제정에 대한 직접적 책임은 없으며, 이는 전적으로 MASB에 있습니다."
 lang: "ko"
+sourceContentHash: "69128de74b5a73f9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

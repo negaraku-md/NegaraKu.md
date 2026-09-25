@@ -32,8 +32,9 @@ faq:
     a: "MyGovernment 포털은 그 결정이 영구적이며 취소할 수 없다고 명시합니다. 시민권을 포기한 사람은 말레이시아 시민으로서의 모든 권리와 특권을 영구히 상실합니다."
 
 lang: "ko"
+sourceContentHash: "350dd3e83765a9b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

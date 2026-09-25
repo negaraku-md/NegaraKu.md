@@ -29,8 +29,9 @@ faq:
     a: "특정 상황에서는 가능합니다. 제26조 (2)항은 제15조 (1)항에 따라 등록된 여성의 시민권을, 그 등록의 근거가 된 혼인이 혼인일로부터 2년 이내에 (사망 이외의 사유로) 해소된 경우 연방정부가 박탈할 수 있도록 허용합니다."
 
 lang: "ko"
+sourceContentHash: "28365cf20f843051"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

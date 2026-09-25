@@ -31,8 +31,9 @@ faq:
     a: "개인사업자의 사업 이익은 소유자의 손에서 개인 누진세율로 과세되며, 6월 30일까지 Form B로 신고됩니다. 거주 중소기업 Sdn Bhd(납입자본 RM250만 이하, 총사업소득 RM5,000만 이하)는 과세소득 최초 RM150,000에 15%, RM150,001부터 RM600,000까지 17%, 그 이상 24%로 과세됩니다. 회사의 20%를 초과하여 외국인이 소유하면 우대 중소기업 세율을 잃습니다."
 
 lang: "ko"
+sourceContentHash: "740dc0a630c55557"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "예. 말레이시아 회계사협회(MIA)는 IAASB의 선언을 수정 없이 말레이시아 승인 감사기준(Malaysian Approved Standards on Auditing)으로 채택하므로, ISA 320, 450, 530은 말레이시아 법정 감사에 적용됩니다."
 
 lang: "ko"
+sourceContentHash: "caf6b9d895d2d9ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

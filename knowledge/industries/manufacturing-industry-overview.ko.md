@@ -34,8 +34,9 @@ faq:
     a: "말레이시아 통계청(DOSM)은 월간 및 연간 제조업 통계와 GDP 데이터를 발표합니다. 말레이시아 투자개발청(MIDA)은 제조업 투자를 진흥하고 승인하며, 투자통상산업부(MITI)는 NIMP 2030을 소유합니다."
 
 lang: "ko"
+sourceContentHash: "688fcd61cdea1a88"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

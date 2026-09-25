@@ -30,8 +30,9 @@ faq:
   - q: "Why is local government a state matter and not federal?"
     a: "Because the Federal Constitution places local government on the State List (item 4 of List II, Ninth Schedule). To keep policy consistent, Article 95A establishes a National Council for Local Government to formulate national policy that both the federal and state governments must follow."
 lang: "ko"
+sourceContentHash: "78de95ae401b9cbb"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

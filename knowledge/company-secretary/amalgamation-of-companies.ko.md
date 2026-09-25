@@ -33,8 +33,9 @@ faq:
     a: "Section 366(1) contemplates a court-ordered meeting of the affected class, and a section 370 vesting order presupposes a scheme approved under section 366. Whether the court can dispense with the meeting where the outcome is not in genuine dispute is a live question that practitioners have raised, and the answer is fact-sensitive. Do not assume a meeting can be skipped; take Malaysian legal advice on the specific structure."
 
 lang: "ko"
+sourceContentHash: "c7201bb6830e2b18"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

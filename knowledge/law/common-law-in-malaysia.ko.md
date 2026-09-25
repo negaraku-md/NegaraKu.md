@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Anyone trying to understand why Malaysian courts cite English case law, law students studying the Malaysian legal system, and anyone researching why certain fields (land, family, Islamic law) sit outside the common law inheritance."
 
 lang: "ko"
+sourceContentHash: "0e25f8448644480c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

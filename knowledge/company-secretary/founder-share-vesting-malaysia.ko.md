@@ -33,8 +33,9 @@ faq:
     a: "Yes — a clawback is a transfer of shares, so the normal share-transfer flags apply. The instrument of transfer attracts ad valorem stamp duty on the higher of the price or the value of the shares, and a disposal of unlisted shares can fall within the capital gains tax regime that took effect for companies in 2024, even where the buy-back price is nominal, because both charges look to market value rather than the stated consideration. This guide does not restate the rates; see the related share-transfer and capital-gains guides for the figures, valuation basis and deadlines, and take advice before executing a clawback."
 
 lang: "ko"
+sourceContentHash: "405e988fb0b4ca4a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

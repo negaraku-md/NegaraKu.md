@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "사바와 사라왁이 보유한 헌법적 보호 장치와 각각이 어디에 기록되어 있는지에 대한 평이하고 서술적인 설명을, 그것들이 어떻게 이행되는지에 관한 논쟁에서 어느 편도 들지 않고 원하는 모든 사람 — 여행자, 고용주, 학생, 또는 말레이시아 연방주의의 독자."
 
 lang: "ko"
+sourceContentHash: "468d0412b31978aa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

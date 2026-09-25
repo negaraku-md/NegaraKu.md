@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "말레이시아 시민, 자녀 등록을 처리하는 부모, 그리고 말레이시아에서 신원을 확인해야 하는 모든 이."
 
 lang: "ko"
+sourceContentHash: "7c8af58484cf7ac0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

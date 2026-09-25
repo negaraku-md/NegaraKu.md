@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "말레이시아를 영구히, 또는 3개월 넘게 떠나는 말레이시아인과 주재원, 그리고 그들을 대신하여 서류를 제출해야 하는 인사 또는 급여 담당 팀."
 
 lang: "ko"
+sourceContentHash: "00b0d352c02ac806"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -44,8 +44,9 @@ verificationNeeded:
   - "Sabah's carve-out list under the Labour Ordinance of Sabah (Amendment) Act 2025 (Act A1753) could not be read; the hosted PDF returns a 404."
 
 lang: "ko"
+sourceContentHash: "4b43de8c2a7470d1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "이 지침은 2024년 8월 1일 총리가 주재한 국가안보회의(MKN) 회의에서 승인된 NADMA 지침 제1호(Arahan NADMA No. 1)로 대체되었습니다."
 
 lang: "ko"
+sourceContentHash: "cb54d0894eec9ad2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "OIC는 57개 회원을 둔 이슬람 세계 전체의 정치·연대 기구입니다; 반면 D-8은 무역과 개발에 더 집중된, 무슬림 다수 개발도상 8개국(현재 9개국)의 더 작고 더 초점이 좁은 경제 협력 그룹입니다."
 
 lang: "ko"
+sourceContentHash: "0bd4e9cbc79316f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

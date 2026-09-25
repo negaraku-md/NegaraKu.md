@@ -35,8 +35,9 @@ obligations:
     consequence: "Recovery action under s.106(1) and continued disallowance of the expense under s.39"
 
 lang: "ko"
+sourceContentHash: "c4d7fc178919f95f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

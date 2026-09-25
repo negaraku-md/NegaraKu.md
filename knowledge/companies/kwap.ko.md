@@ -29,8 +29,9 @@ faq:
     a: "2024년 12월 31일 기준 RM1,856억으로, 2023년 RM1,698억과 2022년 RM1,581억에서 증가했습니다."
 
 lang: "ko"
+sourceContentHash: "4489ae23d6537356"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

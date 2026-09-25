@@ -33,8 +33,9 @@ faq:
     a: "Ya. Seksyen 29A mengharamkan pembakaran terbuka di mana-mana premis dan boleh dihukum denda sehingga RM500,000 atau penjara sehingga 5 tahun atau kedua-duanya. Pemilik atau penghuni premis disifatkan bertanggungjawab melainkan dibuktikan sebaliknya (seksyen 29B)."
 
 lang: "ko"
+sourceContentHash: "cd3834c25795a67e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

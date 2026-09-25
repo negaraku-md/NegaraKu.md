@@ -18,8 +18,9 @@ keyTakeaways:
   - "The kebaya, central to Nyonya dress, was inscribed on UNESCO's intangible heritage list in 2024 in a joint nomination by Brunei, Indonesia, Malaysia, Singapore and Thailand"
 appliesTo: "Anyone seeking a factual, respectful overview of who the Peranakan (Baba-Nyonya) are, and how to recognise their cuisine, dress and material heritage in Melaka and Penang."
 lang: "ko"
+sourceContentHash: "b8424f95164f1085"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

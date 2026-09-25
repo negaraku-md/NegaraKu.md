@@ -26,8 +26,9 @@ verificationNeeded:
   - "Whether any accelerated or enhanced capital allowance specific to the purchase (as opposed to the rental) of electric vehicles has been gazetted — no such instrument was found in the AGC subsidiary-legislation database."
 
 lang: "ko"
+sourceContentHash: "9f0ef46f2f698cad"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

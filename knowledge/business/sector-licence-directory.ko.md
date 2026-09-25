@@ -31,8 +31,9 @@ verificationNeeded:
   - "JAKIM과 사단등록관(Registrar of Societies)이 사용하는 영문 약칭 — 어느 것도 해당 기관 자체 사이트에 나타나지 않음"
 
 lang: "ko"
+sourceContentHash: "de6126fff54d2ff3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

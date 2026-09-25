@@ -42,8 +42,9 @@ verificationNeeded:
   - "부르사 말레이시아(Bursa Malaysia)가 첫 MFRS 18 연도의 분기 보고에 대한 전환 지침을 발행할지 확인하십시오"
 
 lang: "ko"
+sourceContentHash: "542671cd3c464e38"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

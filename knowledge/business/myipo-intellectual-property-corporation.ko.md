@@ -27,8 +27,9 @@ faq:
   - q: "Which ministry does MyIPO sit under?"
     a: "MyIPO is a federal statutory agency under the Ministry of Domestic Trade and Cost of Living (KPDN), the ministry responsible for domestic trade and consumer affairs in Malaysia."
 lang: "ko"
+sourceContentHash: "1a13bdbeb8de806f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

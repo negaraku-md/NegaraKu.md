@@ -41,8 +41,9 @@ verificationNeeded:
   - "비상장 회사에 대한 법정 의무로 NSRF를 취급하기 전에 NSRF 제IX장에 열거된 입법 개정이 제정되었는지 확인하십시오"
 
 lang: "ko"
+sourceContentHash: "580bb89b56c953ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

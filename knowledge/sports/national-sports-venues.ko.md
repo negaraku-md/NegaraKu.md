@@ -28,8 +28,9 @@ faq:
     a: "아닙니다. 세팡은 2017년까지 포뮬러 1 그랑프리를 개최했으며, 현재 서킷은 MotoGP와 기타 모터스포츠 행사에 주력하고 있습니다."
 
 lang: "ko"
+sourceContentHash: "e8c2bc7d28bb0f71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "네, NFC 충전 기능을 사용하려면요. 등록 과정은 신원 확인(KYC)을 포함하여 그 카드의 잔액이 당신의 e월렛 계정에 연동되게 합니다 — 이는 또한 카드를 분실했을 때, 잔액을 주운 사람 누구나 쓸 수 있는 미등록 카드에 비해 추가 보호 계층을 제공합니다."
 
 lang: "ko"
+sourceContentHash: "a15af3c5fd918fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

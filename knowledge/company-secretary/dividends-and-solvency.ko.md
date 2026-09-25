@@ -49,8 +49,9 @@ obligations:
     consequence: "Liability under s.132(5) of up to five years' imprisonment or a fine up to RM3 million or both, and personal liability under s.133(2)"
 
 lang: "ko"
+sourceContentHash: "0f48f4bee9e4e684"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

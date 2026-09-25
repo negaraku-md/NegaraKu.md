@@ -36,8 +36,9 @@ obligations:
     consequence: "10 per cent increase on the unpaid amount and disallowance of the underlying expense under s.39"
 
 lang: "ko"
+sourceContentHash: "c1d4118e64c632ba"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

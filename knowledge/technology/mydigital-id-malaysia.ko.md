@@ -36,8 +36,9 @@ faq:
     a: "Persoalan utama ialah perlindungan data apabila kerajaan yang memegang data rakyat. Bekas presiden Majlis Peguam, Salim Bashir, menegaskan bahawa sebarang usaha mewajibkan pendaftaran mesti digubal oleh Parlimen melalui Akta Persekutuan dan diselaraskan dengan Akta Perlindungan Data Peribadi (PDPA) 2010, serta menyifatkan pelanggaran privasi dan keselamatan data sebagai cabaran ketara. Bekas Ahli Parlimen Klang, Charles Santiago, dan bekas presiden Majlis Peguam telah menggesa kerajaan membina keyakinan awam dahulu, dan bukan mewajibkan pendaftaran melalui undang-undang."
 
 lang: "ko"
+sourceContentHash: "45c9a9d998caed78"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

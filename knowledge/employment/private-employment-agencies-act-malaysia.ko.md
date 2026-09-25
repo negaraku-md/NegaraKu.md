@@ -29,8 +29,9 @@ faq:
     a: "Denda sehingga RM200,000 atau penjara sehingga tiga tahun, atau kedua-duanya."
 
 lang: "ko"
+sourceContentHash: "f80441a5c89e8b43"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

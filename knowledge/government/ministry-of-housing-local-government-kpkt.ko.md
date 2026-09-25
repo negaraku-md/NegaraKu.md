@@ -27,8 +27,9 @@ faq:
   - q: "What was KPKT called before, and when did the name change?"
     a: "It was the Ministry of Local Government Development; the Cabinet decided to rename it the Ministry of Housing and Local Government on 13 December 2023, announced on 26 December 2023."
 lang: "ko"
+sourceContentHash: "44a0632c979d6de6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

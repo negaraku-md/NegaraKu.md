@@ -29,8 +29,9 @@ faq:
     a: "A new CLBG can apply on incorporation but must raise an RM1 million cash fund within six months. An existing CLBG must have been incorporated for at least two years and show RM1 million cash in the bank in its latest financial statements."
 
 lang: "ko"
+sourceContentHash: "9a66cfe119dbc531"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

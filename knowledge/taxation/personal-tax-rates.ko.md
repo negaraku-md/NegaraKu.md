@@ -37,8 +37,9 @@ verificationNeeded:
   - "Confirm whether the 2% dividend layer under Schedule 1 Part XXII applies to non-resident individuals as well as residents; the rate table itself does not say"
 
 lang: "ko"
+sourceContentHash: "8166bbfff56fa0fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

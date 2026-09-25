@@ -31,8 +31,9 @@ faq:
     a: "Act 861과 에너지효율·에너지보전규정 2024의 새로운 체계는 규제 범위를 전기에만 국한하지 않고 모든 형태의 에너지로 확대합니다. 이 체계는 기존의 Efficient Management of Electrical Energy Regulations 2008(EMEER)을 대체하는 것으로 이해되지만, 그 폐지의 세부 사항은 공식 규정 원문에 대해 확인이 필요합니다."
 
 lang: "ko"
+sourceContentHash: "699d30a5f2841e54"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

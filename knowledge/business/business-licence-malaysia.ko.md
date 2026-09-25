@@ -42,8 +42,9 @@ verificationNeeded:
   - "Whether any state has consolidated its trading and premise licensing into a single instrument since the most recent Modernising Business Licensing round"
 
 lang: "ko"
+sourceContentHash: "2779e333b6f5b277"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

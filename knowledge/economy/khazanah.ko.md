@@ -26,8 +26,9 @@ verificationNeeded:
   - "EPF의 총 투자 자산과 총 회원 수치는 kwsp.gov.my를 직접 가져와 독립적으로 확인할 수 없었습니다(사이트가 자동 가져오기에 HTTP 403을 반환). 이 글은 검증되지 않은 수치를 게재하기보다 정확한 EPF AUM이나 회원 수치를 의도적으로 생략합니다 — 최초 사람 검토 시 kwsp.gov.my 출처와 함께 둘 다 추가할 것"
 
 lang: "ko"
+sourceContentHash: "bde519fccc17693d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

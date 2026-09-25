@@ -34,8 +34,9 @@ faq:
     a: "네. 네 곳 모두 — TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd(Boost), GPay Network (M) Sdn Bhd(GrabPay), ShopeePay Malaysia Sdn Bhd — 가 BNM 공식 목록에 비은행 전자화폐 발행사로 등재되어 있습니다."
 
 lang: "ko"
+sourceContentHash: "3baa675be6fcede6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

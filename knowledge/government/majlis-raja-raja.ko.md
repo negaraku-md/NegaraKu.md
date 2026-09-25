@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Sesiapa yang mahu memahami struktur perlembagaan Malaysia — pelajar, penyelidik, wartawan dan pembaca umum — serta sesiapa yang perlu tahu peruntukan mana yang memerlukan persetujuan atau rundingan Majlis Raja-Raja."
 
 lang: "ko"
+sourceContentHash: "b582d091b8a771db"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "말레이시아에서 태어난 자녀의 출생을 등록할 책임이 있는 부모, 보호자 또는 누구든, 지연 등록 사례와 출생 증명서 재신청을 포함."
 
 lang: "ko"
+sourceContentHash: "02c6a3d01833544f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

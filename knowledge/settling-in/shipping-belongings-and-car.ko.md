@@ -19,8 +19,9 @@ keyTakeaways:
   - "차량 등록은 JPJ의 세 지정 게이트웨이 제공자 중 하나를 통해 전자적으로 제출되며, 제출당 RM50의 JPJ 서비스 수수료가 붙습니다"
 appliesTo: "말레이시아로 이주하는 누구든 — 귀국하는 말레이시아인, 새로 채용된 주재원, MM2H 참가자 — 무엇을 운송할지, 그리고 개인 소유 차를 운송하는 것이 현실적인지 결정하는 사람."
 lang: "ko"
+sourceContentHash: "322f701876a3d3fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

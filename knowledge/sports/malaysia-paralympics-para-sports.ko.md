@@ -32,8 +32,9 @@ faq:
     a: "가장 두드러진 선수로는 Cheah Liek Hou(배드민턴 SU5, 2020년 도쿄 및 2024년 파리 금메달), Bonnie Bunyau Gustin(파워리프팅, 2020년 도쿄 및 2024년 파리 금메달), Abdul Latif Romly(멀리뛰기 T20, 2016년 리우 및 2020년 도쿄 금메달)를 들 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "1cf985c7e961d813"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

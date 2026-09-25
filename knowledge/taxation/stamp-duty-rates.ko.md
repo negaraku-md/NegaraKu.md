@@ -29,8 +29,9 @@ verificationNeeded:
   - "Item 12 (assignment) was substituted by Act 862 and its revised life-insurance bands are not reproduced here"
 
 lang: "ko"
+sourceContentHash: "bade86680d1436e5"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

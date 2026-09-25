@@ -32,8 +32,9 @@ faq:
     a: "그렇습니다. 둘 다 Bursa Malaysia 메인마켓에서 거래됩니다. Top Glove는 추가로 싱가포르 거래소(Singapore Exchange) 메인보드에도 상장되어 있습니다."
 
 lang: "ko"
+sourceContentHash: "a45b971c54bb5789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

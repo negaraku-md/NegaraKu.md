@@ -25,8 +25,9 @@ verificationNeeded:
   - "RM1,880억 / 국내 주식 시가총액 9% 수치는 The Edge Malaysia에 따른 2024년 말 기준입니다. EPF 자체 공시가 나오면 이와 대조 재확인할 것"
 
 lang: "ko"
+sourceContentHash: "a2dbf62e9ce69abb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "101–200(나쁨)에서는 민감군 — 고령자, 임산부, 어린이, 심장 또는 폐 질환이 있는 사람 — 이 야외 활동을 제한해야 합니다. 300을 넘으면(위험) 고령자와 고위험군은 야외 활동이 금지되며, 일반 대중도 이를 피하도록 권고됩니다."
 
 lang: "ko"
+sourceContentHash: "fc387c28a9eb09b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

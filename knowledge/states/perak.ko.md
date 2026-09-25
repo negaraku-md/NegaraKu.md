@@ -40,8 +40,9 @@ verificationNeeded:
   - "더 최신의 DOSM 발표가 나오면 인구 및 GDP 수치를 갱신."
 
 lang: "ko"
+sourceContentHash: "79feefd0c909668c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

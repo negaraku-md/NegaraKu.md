@@ -34,8 +34,9 @@ faq:
     a: "PETRA(에너지전환수자원부, Ministry of Energy Transition and Water Transformation)는 국가 에너지 및 수자원 정책을 수립하고 2050년까지 탄소 중립으로의 전환을 추진하는 부처입니다. 에너지위원회는 PETRA 산하의 규제 법정 기관으로, 전력 및 가스 공급에 관한 면허 발급, 요금 설정, 법 집행을 담당합니다."
 
 lang: "ko"
+sourceContentHash: "fc167e2fbc6949c3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

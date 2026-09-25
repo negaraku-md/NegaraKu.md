@@ -27,8 +27,9 @@ verificationNeeded:
   - "Confirm the current scope of agencies participating in BLESS and MalaysiaBiz, which is expanded periodically"
 
 lang: "ko"
+sourceContentHash: "d297b49cc580cf19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "FIFA는 선수의 자격 및 귀화 서류 위조와 관련하여 FIFA 징계규정 제22조를 언급했다."
 
 lang: "ko"
+sourceContentHash: "1434e805293f8f32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "면허 약국은 A형 독극물 면허를 보유하므로 지정 독극물 — 처방 전용 및 약국 전용 의약품 — 을 약사의 즉시적 개인 감독 아래 판매할 수 있습니다. 독극물 면허가 없는 일반 건강제품 소매업자는 일반 판매 OTC 제품, 보충제, 세면용품 같은 비독극물 품목만 판매할 수 있으며, 약국으로 자처하거나 지정 의약품을 판매해서는 안 됩니다. 독극물법(Poisons Act 1952)과 의약품판매법(Sale of Drugs Act 1952)이 그 경계를 긋는 것입니다."
 
 lang: "ko"
+sourceContentHash: "7e68872d6cc1c02e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

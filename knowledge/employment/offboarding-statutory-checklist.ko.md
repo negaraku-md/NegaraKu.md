@@ -111,8 +111,9 @@ obligations:
     consequence: "General penalty up to RM50,000 under s.99A"
 
 lang: "ko"
+sourceContentHash: "beb77b4436b7c05c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

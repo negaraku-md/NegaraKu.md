@@ -35,8 +35,9 @@ faq:
     a: "두 제도 모두 화해 단계를 두고 있습니다. 민사 쪽에서는 Act 164 제106조가 일반적으로 청원 제출 전에 사안을 조정 기구(혼인 심판원)에 회부하도록 요구하되 제한적 예외가 있습니다. 이슬람 쪽에서는 부부가 샤리아 법원에 이혼을 등록하기 전에 주 이슬람 종교국에서의 상담으로 안내됩니다."
 
 lang: "ko"
+sourceContentHash: "be15966c8bacd8fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

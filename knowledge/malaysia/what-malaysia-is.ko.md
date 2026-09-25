@@ -18,8 +18,9 @@ keyTakeaways:
   - "Law-making power is split between the federation and the states by the Ninth Schedule's Federal, State and Concurrent Lists"
 appliesTo: "Anyone new to Malaysia who wants to understand what kind of country it is constitutionally, before diving into any single institution."
 lang: "ko"
+sourceContentHash: "8088b5defbdcad1c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

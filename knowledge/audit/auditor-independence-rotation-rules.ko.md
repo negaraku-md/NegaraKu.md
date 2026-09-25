@@ -37,8 +37,9 @@ faq:
     a: "고정된 7년 시계와 역할별 냉각 기간은 공익법인에만 적용됩니다. 비PIE의 경우, R540.4는 여전히 친밀성이나 자기이익 위협이 그렇게만 다뤄질 수 있는 경우 사무소가 충분한 기간 동안 개인을 순환시키도록 요구하나 — 고정된 연수는 규정되지 않습니다."
 
 lang: "ko"
+sourceContentHash: "6264fc7fd0a2fe3d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

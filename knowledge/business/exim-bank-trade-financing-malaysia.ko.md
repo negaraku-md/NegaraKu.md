@@ -29,8 +29,9 @@ faq:
     a: "Bank Negara Malaysia regulates it as a prescribed Development Financial Institution under the Development Financial Institutions Act 2002."
 
 lang: "ko"
+sourceContentHash: "05f6bb75d143a12e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "NEM 3.0 프로그램은 2025년 6월 말에 종료되었습니다. 이는 2026년 1월 1일에 발효된 Solar ATAP으로 대체되었으며, 전체 할당량 한도가 없고 atap.seda.gov.my의 SEDA eATAP 포털을 통해 관리됩니다."
 
 lang: "ko"
+sourceContentHash: "2d635eb062db955f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

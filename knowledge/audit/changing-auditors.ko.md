@@ -41,8 +41,9 @@ verificationNeeded:
   - "현행 ROC 수수료 표에 대조하여, SSM이 s.278 해임 통지 및 s.282 사임 통지에 대한 특정 양식과 적용 제출 수수료를 규정하는지 확인할 것"
 
 lang: "ko"
+sourceContentHash: "c932d3246ad62000"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

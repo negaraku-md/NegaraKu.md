@@ -33,8 +33,9 @@ faq:
     a: "카사와리 CCS는 이르면 2027년 첫 CO2 주입을 목표로 합니다(이전의 2029~2030년 계획에서 앞당김). 사라왁의 그린수소 프로젝트는 이제 대체로 2029년경 가동 개시가 예상됩니다."
 
 lang: "ko"
+sourceContentHash: "cf65984906bccf4e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

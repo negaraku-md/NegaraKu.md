@@ -30,8 +30,9 @@ faq:
     a: "세계 지수는 주재원 또는 이동 바스켓 — 수입 재화, 주재원용 주거, 국제 학교 교육 — 에 가격을 매기며 흔히 미국 달러로 비용을 표시합니다. 말레이시아 자체 소비자물가 데이터는 국내 가계 바스켓을 추적하므로, 두 척도는 다르게 움직입니다."
 
 lang: "ko"
+sourceContentHash: "a05c3ce9b85bce7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

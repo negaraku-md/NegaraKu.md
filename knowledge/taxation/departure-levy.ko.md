@@ -29,8 +29,9 @@ faq:
     a: "Penumpang penerbangan yang tiba di mana-mana lapangan terbang antarabangsa di Malaysia dan menyambung ke destinasi luar negara dalam tempoh tidak melebihi 12 jam transit dikecualikan."
 
 lang: "ko"
+sourceContentHash: "5f586e52647f995b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

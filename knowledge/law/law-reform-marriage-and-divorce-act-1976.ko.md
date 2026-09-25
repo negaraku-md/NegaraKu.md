@@ -33,8 +33,9 @@ faq:
     a: "Mahkamah Tinggi berkuasa membahagikan harta yang diperoleh sepanjang perkahwinan di bawah seksyen 76, dengan mengambil kira sumbangan kewangan dan bukan kewangan, hutang untuk manfaat keluarga, keperluan anak, dan tempoh perkahwinan. Pembahagian tidak semestinya 50:50."
 
 lang: "ko"
+sourceContentHash: "9844bf61f2e89ad7"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

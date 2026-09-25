@@ -32,8 +32,9 @@ faq:
     a: "Tidak. Perkara 114(3) memperuntukkan bahawa anggota SPR tidak boleh dipecat daripada jawatan kecuali atas alasan dan mengikut cara yang sama seperti seorang hakim Mahkamah Persekutuan, satu perlindungan yang bertujuan menyokong kebebasan suruhanjaya."
 
 lang: "ko"
+sourceContentHash: "4ee6643ef314a576"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

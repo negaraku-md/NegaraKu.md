@@ -31,8 +31,9 @@ faq:
     a: "그 하락은 대부분 산정 방식 변경의 결과이지 단순히 생산 감소 때문이 아닙니다. 새 방식은 쌀로 가공된 순수한 벼만 계산하고, 같은 연도의 종자용 벼는 더 이상 포함하지 않습니다."
 
 lang: "ko"
+sourceContentHash: "fcd35063d281dbc6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

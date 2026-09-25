@@ -19,8 +19,9 @@ keyTakeaways:
   - "Tun Dr Mahathir Mohamad was sworn in as Malaysia's seventh Prime Minister on 10 May 2018; Dr Wan Azizah Wan Ismail became the first woman to serve as Deputy Prime Minister"
 appliesTo: "Readers who want the documented facts of Malaysia's first federal change of government at the 14th general election — the result, the seat figures, and the constitutional mechanism — stated neutrally and sourced, without partisan interpretation."
 lang: "ko"
+sourceContentHash: "354e5f3719c345fc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

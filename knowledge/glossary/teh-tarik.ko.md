@@ -26,8 +26,9 @@ verificationNeeded:
   - "말라야 인도계 무슬림 공동체에서의 테 타릭 기원 — 흔히 언급되지만, 구체적 날짜와 장소는 어떤 정부 공식 자료로도 확인되지 않음."
 
 lang: "ko"
+sourceContentHash: "445b06c48abc194e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

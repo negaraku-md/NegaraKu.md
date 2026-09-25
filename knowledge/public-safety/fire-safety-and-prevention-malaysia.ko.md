@@ -32,8 +32,9 @@ faq:
     a: "전기 관련 문제가 주거 화재에서 가장 흔한 원인 중 하나입니다 — 손상된 배선, 과부하된 콘센트, 마모된 연장 케이블. 감독 없이 방치된 조리와 LPG 가스 누출도 주요 원인입니다."
 
 lang: "ko"
+sourceContentHash: "9ccf45c843ab8ebf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

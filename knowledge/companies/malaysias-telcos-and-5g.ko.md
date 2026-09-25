@@ -32,8 +32,9 @@ faq:
     a: "U Mobile은 두 번째 5G 네트워크를 구축하도록 지명되었기에, 자체 구축에 집중하기 위해 DNB 지분을 매각하고 DNB 네트워크에서 이탈했습니다."
 
 lang: "ko"
+sourceContentHash: "c1f7f6a84e1fec97"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

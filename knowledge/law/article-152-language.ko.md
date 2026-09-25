@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Anyone who wants the exact constitutional text behind Malaysia's national-language policy, rather than a paraphrase of it."
 
 lang: "ko"
+sourceContentHash: "b994c8be544c8680"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

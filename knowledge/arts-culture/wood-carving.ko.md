@@ -33,8 +33,9 @@ faq:
     a: "Prinsip reka bentuk awan larat klasik memang mengelakkan gambaran manusia atau haiwan sebagai elemen utama corak. Namun ukiran kayu Melayu turut mempunyai kategori motif fauna yang tersendiri — seperti bentuk ayam, badak dan itik — yang digunakan berasingan daripada corak awan larat berulang."
 
 lang: "ko"
+sourceContentHash: "9f06d94e839f077d"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

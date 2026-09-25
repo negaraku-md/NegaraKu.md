@@ -29,8 +29,9 @@ faq:
     a: "없습니다. 등록관은 시한을 두지 않습니다 — 합법적 소유자는 언제든 청구할 수 있으며, 지급은 통합신탁계정 또는 세입계정에서 이루어질 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "b0fa973557593199"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

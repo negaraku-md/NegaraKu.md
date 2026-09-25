@@ -46,8 +46,9 @@ verificationNeeded:
   - "Whether any tax incentive specific to the National Semiconductor Strategy has been gazetted — none was found"
 
 lang: "ko"
+sourceContentHash: "4221d6f415c3fa4d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

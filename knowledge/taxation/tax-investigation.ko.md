@@ -32,8 +32,9 @@ faq:
     a: "Bagi kes yang melibatkan penipuan, pengelakan sengaja atau kecuaian, tiada had masa. Bagi prosiding jenayah bagi kesalahan tertentu seperti Seksyen 113, tempoh 12 tahun terpakai."
 
 lang: "ko"
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

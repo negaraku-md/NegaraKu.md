@@ -31,8 +31,9 @@ faq:
     a: "아닙니다. PPK는 파산이 아니며 법원 기록도 아닙니다. 이는 여러분, AKPK, 그리고 채권 은행 사이에서 자발적으로 협상된 상환 계획입니다."
 
 lang: "ko"
+sourceContentHash: "4311ea106e7a34dc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -35,8 +35,9 @@ faq:
     a: "둘이 서로 다른 사업으로 운영되기 때문입니다. 팜유는 적합한 토지에서 수익성 있는 대규모 수출 상품인 반면, 벼는 보조금과 관개에 의존하는 저마진 식량 작물입니다. 토지, 자본, 노동은 더 수익성 높은 상품 작물로 흘러가는 경향이 있습니다."
 
 lang: "ko"
+sourceContentHash: "c5cc2c29dde16362"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

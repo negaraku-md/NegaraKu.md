@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "국민학교, 사립 국가 교육과정 학교, 중국계 사립 중등학교 사이에서 선택하는 말레이시아의 학부모와 학생, 그리고 SMJK, 사립학교, UEC 자격증이 실제로 무엇을 뜻하는지 이해하려는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "ea334d9ab0b14453"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

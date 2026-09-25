@@ -39,8 +39,9 @@ verificationNeeded:
   - "The current list of activities approved by the Minister — Public Ruling 12/2020 gives nine high-growth and high-technology fields as at 2020 and describes them as the position at that time"
 
 lang: "ko"
+sourceContentHash: "490843a597d5164f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

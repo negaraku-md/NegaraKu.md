@@ -27,8 +27,9 @@ verificationNeeded:
   - "인용된 제66조 5항 원문은 법무부의 말레이어 번역입니다; 정본인 영어 원문과 대조해 확인하십시오."
 
 lang: "ko"
+sourceContentHash: "f029a1ff1ebfdbf1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

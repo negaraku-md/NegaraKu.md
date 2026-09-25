@@ -29,8 +29,9 @@ faq:
     a: "링깃 기준 경계는 조사 회차(약 2년)마다 갱신되며 소득 증가와 함께 상승합니다. 온라인에 도는 「최대 RMx,xxx」 같은 수치의 상당수는 사실 지난 회차의 값입니다."
 
 lang: "ko"
+sourceContentHash: "26ffee570df18e65"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

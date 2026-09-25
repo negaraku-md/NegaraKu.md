@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "말레이시아의 누구든지 — 국민, 거주자, 방문객 — 자신이나 다른 사람의 정신 건강을 걱정하며, 클리닉, 병원, 민간 시술자, NGO, 상담 전화 중 어디서 시작할지 구체적으로 알고 싶은 사람."
 
 lang: "ko"
+sourceContentHash: "4ecc5497514e228e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

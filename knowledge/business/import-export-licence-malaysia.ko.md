@@ -31,8 +31,9 @@ faq:
     a: "ePermit, a web service operated by Dagang Net Technologies under the National Single Window, lets you apply to multiple Permit Issuing Agencies online. Approved permits are transmitted electronically to Customs for validation against your declaration."
 
 lang: "ko"
+sourceContentHash: "f453f5001ae25d26"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -56,8 +56,9 @@ obligations:
     consequence: "Late lodgement penalty under Practice Directive 1/2017; offence by every officer with a fine up to RM50,000 plus up to RM1,000 per day under s.259(3)"
 
 lang: "ko"
+sourceContentHash: "031f69c170d97650"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -68,8 +68,9 @@ obligations:
     consequence: "Fine of RM2,000 or imprisonment up to 6 months or both (s.12(2))"
 
 lang: "ko"
+sourceContentHash: "b0eaf47ac1dcf35a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

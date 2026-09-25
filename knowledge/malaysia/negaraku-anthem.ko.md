@@ -32,8 +32,9 @@ faq:
     a: "Seksyen 8(1) Akta 808 menetapkan semua yang hadir hendaklah berdiri sedia. Seksyen 8(3) memperuntukkan bahawa sesiapa yang dengan disedarinya menunjukkan sikap tidak hormat terhadap Lagu Kebangsaan di tempat awam boleh, apabila disabitkan, didenda tidak melebihi RM100 atau dipenjarakan selama tempoh tidak melebihi satu bulan."
 
 lang: "ko"
+sourceContentHash: "c84bd6935adf2871"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

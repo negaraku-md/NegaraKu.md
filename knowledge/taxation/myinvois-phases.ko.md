@@ -77,8 +77,9 @@ obligations:
     statute: "Income Tax Act 1967, s.82C"
 
 lang: "ko"
+sourceContentHash: "fe5d22ede93ea4c0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Confirm whether directors fees paid to a non-executive director outside a contract of service are wages for EPF purposes; EPF confirms salaried directors contribute but does not address fees directly"
 
 lang: "ko"
+sourceContentHash: "b476e81782042301"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Padiberas Nasional Berhad(BERNAS)는 국가의 단독 쌀 수입업체 역할을 보유하며, 이는 1973년 세계 식량 위기에 뒤이어 1974년에 쌀 수입을 인수하여 단독 수입업체가 된 국가벼쌀위원회(LPN)로부터 물려받은 역할입니다. BERNAS는 또한 국가 쌀 완충 재고를 관리하고 부미푸트라 정미업자를 지원합니다. 1996년 1월 12일에 민영화되었습니다."
 
 lang: "ko"
+sourceContentHash: "fb620a1ce6fe2341"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

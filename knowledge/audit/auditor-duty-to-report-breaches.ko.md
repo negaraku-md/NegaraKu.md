@@ -30,8 +30,9 @@ faq:
     a: "s.266(9)에 따른 중대한 범죄 보고에 대해서는 아닙니다. s.266(10)은 (9)항에 언급된 사안에 관한 보고가 등기관에게 선의로 이루어지는 한, 그러한 보고만을 이유로 감사인의 어떤 의무도 위반된 것으로 간주되지 않는다고 규정합니다. 이 명시적인 법정 보호는 (9)항에 따른 보고를 구체적으로 지칭합니다."
 
 lang: "ko"
+sourceContentHash: "9561fa4bff249209"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

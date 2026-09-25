@@ -56,8 +56,9 @@ obligations:
     consequence: "The claim is unsupported on audit"
 
 lang: "ko"
+sourceContentHash: "4e8917612cf718a7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

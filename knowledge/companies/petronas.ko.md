@@ -35,8 +35,9 @@ faq:
     a: "두 주 모두 1975년 협정에 근거해 5% 로열티를 주장합니다. Terengganu는 지급을 받고 있으나(2000년경 「은혜금(wang ehsan)」으로 전환되었다가 2009년에 복원됨), Kelantan의 2010년 법원 소송은 2019년에 취하되었습니다. 핵심 쟁점은 해당 유정이 주 관할 해역(3해리 한계) 안에 있는지, 아니면 연방 관할에 속하는지입니다."
 
 lang: "ko"
+sourceContentHash: "fee9c9760c973ad8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

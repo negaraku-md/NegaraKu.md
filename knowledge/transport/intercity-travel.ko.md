@@ -34,8 +34,9 @@ verificationNeeded:
   - "에어보르네오(AirBorneo)의 현재 오지 항공 서비스 노선 수와 공항 목록은 에어보르네오나 CAAM에 직접 확인할 것. MAVCOM의 공개 RAS 페이지는 작성 시점에 노선 단위 세부 정보를 담고 있지 않았고 이 프로그램은 최근 운영자가 바뀌었음."
 
 lang: "ko"
+sourceContentHash: "a8248270057070e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

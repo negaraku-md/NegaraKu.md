@@ -35,8 +35,9 @@ faq:
     a: "Only in the states and federal territories that gazette it. It is observed as a public holiday in places including Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor and Kedah, and is not gazetted as a nationwide federal holiday. Because it is set jurisdiction by jurisdiction, the exact list can differ from year to year — always check the official holiday notice for the state concerned."
 
 lang: "ko"
+sourceContentHash: "0b3f0235d5a676f2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

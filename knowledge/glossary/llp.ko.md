@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "LLP와 Sdn Bhd 사이에서 선택하는 창업자, 전문직 종사자, 자문가, 또는 계약서에서 PLT 상호를 읽는 이."
 
 lang: "ko"
+sourceContentHash: "9e60329bba13d6ae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

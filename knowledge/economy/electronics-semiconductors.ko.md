@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "말레이시아의 경제적 노출을 평가하는 모든 사람 — 투자자, 구직자, 정책 입안자, 무역을 공부하는 학생."
 
 lang: "ko"
+sourceContentHash: "f587a0bc65cbc1af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ verificationNeeded:
   - "Confirm whether an applicable double taxation agreement alters the position of a non-resident individual under Schedule 1 Part XXII — no LHDN determination on this point was located"
 
 lang: "ko"
+sourceContentHash: "efeb2f7c70d05ed0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

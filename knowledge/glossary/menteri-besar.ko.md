@@ -28,8 +28,9 @@ verificationNeeded:
   - "각 통치자 주의 수장 칭호(술탄, 양 디페르투안 브사르, 라자)는 MyGovernment 포털과 제160조 2항의 「통치자」 정의에서 가져왔습니다. 공식 사용에 대해서는 각 주 헌법과 대조해 확인하십시오."
 
 lang: "ko"
+sourceContentHash: "56751778ff042f02"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

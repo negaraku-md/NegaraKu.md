@@ -36,8 +36,9 @@ faq:
     a: "EPF menjamin dividen minimum 2.5% setahun di bawah Akta KWSP 1991. Dividen sebenar biasanya lebih tinggi — 6.30% diisytiharkan bagi tahun 2024 dan 6.15% bagi tahun 2025 (Simpanan Konvensional)."
 
 lang: "ko"
+sourceContentHash: "002bda1ea2b2e8d9"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

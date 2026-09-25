@@ -33,8 +33,9 @@ faq:
     a: "It is self-assessed. You report the dividend income in your annual return (Form BE for a resident, Form M for a non-resident) for year of assessment 2025 onwards, and pay the 2% together with your final tax on assessment — there is no withholding at source. From YA 2025, companies must also issue shareholders a dividend voucher showing the gross dividend, which supports your declaration."
 
 lang: "ko"
+sourceContentHash: "046defae2c8d4bbf"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "Yes. The World Heritage Centre records three properties on Malaysia's Tentative List: the National Park (Taman Negara) of Peninsular Malaysia, Gombak Selangor Quartz Ridge, and Sungai Buloh Leprosarium. A tentative listing is a declaration of intent to nominate, not an inscription."
 
 lang: "ko"
+sourceContentHash: "2314ed1b6daf68a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

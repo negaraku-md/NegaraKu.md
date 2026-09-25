@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "IPO를 저울질하는 창업자와 CFO, 자문사와 스폰서, 그리고 보드 상장이 실제로 무엇을 신호하는지 읽으려는 투자자."
 
 lang: "ko"
+sourceContentHash: "8a42caae2331fbbd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

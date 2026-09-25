@@ -29,8 +29,9 @@ faq:
     a: "A joint memorandum the Alliance submitted to the Reid Commission in 1956, setting out the coalition's agreed positions on the Malay Rulers, Islam as the religion of the Federation, the Malay language, the special position of the Malays, and citizenship. The Commission's 1957 report drew on it among the memoranda it received."
 
 lang: "ko"
+sourceContentHash: "8468b6263efa9db8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

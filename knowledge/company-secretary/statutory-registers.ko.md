@@ -23,8 +23,9 @@ verificationNeeded:
   - "Confirm the current SSM late lodgement fee scale for register-related notifications against the prevailing SSM practice directive on late lodgement penalties"
 
 lang: "ko"
+sourceContentHash: "ff4434b4487bfa3d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

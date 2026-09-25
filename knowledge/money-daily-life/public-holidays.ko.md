@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "주를 넘나들며 여행, 사업, 일상 업무를 계획하고, 공휴일 목록이 말레이시아 전역에서 왜 균일하지 않은지 이해하려는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "3aa4c891e7b6b223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

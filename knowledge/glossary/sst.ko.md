@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "말레이시아의 간접세 제도를 이해하려는 사업주, 재무팀, 소비자."
 
 lang: "ko"
+sourceContentHash: "7438db08db3298e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

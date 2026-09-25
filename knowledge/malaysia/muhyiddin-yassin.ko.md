@@ -32,8 +32,9 @@ verificationNeeded:
   - "Exact dates (premiership, resignation, emergency period) to be confirmed against the Prime Minister's Office and official records."
 
 lang: "ko"
+sourceContentHash: "b981e60c4f8e26f9"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

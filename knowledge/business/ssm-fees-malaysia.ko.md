@@ -28,8 +28,9 @@ verificationNeeded:
   - "SSM publishes no general processing-time service standard for company incorporation; the figures given here come from individual guidelines of varying dates"
 
 lang: "ko"
+sourceContentHash: "30930e352d6a91ec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

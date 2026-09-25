@@ -27,8 +27,9 @@ faq:
   - q: "Who is the Minister of Home Affairs?"
     a: "As of 2026 the Home Minister is Datuk Seri Panglima Saifuddin Nasution bin Ismail, in office since 3 December 2022. Cabinet portfolios change with reshuffles, so confirm the current officeholder on moha.gov.my."
 lang: "ko"
+sourceContentHash: "84024caa253d8b49"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

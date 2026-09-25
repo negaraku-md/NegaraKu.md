@@ -31,8 +31,9 @@ faq:
     a: "Yes. The Oxford English Dictionary has added a number of Malaysian English words over successive updates, including lepak, shiok and teh tarik in 2016, several Manglish and Malaysian-food terms including mamak, kopitiam and atas later that year, and words such as boleh, agak-agak and wayang in a subsequent update — recognising established Malaysian usage rather than inventing new English."
 
 lang: "ko"
+sourceContentHash: "8f82ee70d6e9258e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

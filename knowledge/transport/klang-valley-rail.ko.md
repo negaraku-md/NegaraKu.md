@@ -34,8 +34,9 @@ verificationNeeded:
   - "현재 MRT 카장선(Kajang Line)의 길이/역 수는 발행 전에 MRT Corp 또는 라피드 레일에 직접 확인할 것 — 교통부와 라피드 레일 자체 노선 페이지가 약간 다른 수치(51km/31개 역 대 46km/29개 역)를 제시하며, 이 글은 조정될 때까지 그대로 반복하는 것을 피했음."
 
 lang: "ko"
+sourceContentHash: "8f5aa15915a64a18"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

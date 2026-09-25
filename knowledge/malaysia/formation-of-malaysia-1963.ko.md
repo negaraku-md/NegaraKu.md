@@ -29,8 +29,9 @@ faq:
     a: "Singapore separated on 9 August 1965 following a vote in the Malaysian Parliament. Political tension between the People's Action Party and the Alliance government over economic policy and the basis of political competition preceded the separation. Neither side had planned for that outcome at the 1963 merger."
 
 lang: "ko"
+sourceContentHash: "6eb2de3c5c01ceae"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

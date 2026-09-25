@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Students, researchers, journalists and anyone who wants to understand the constitutional office of the Attorney General from the text of Article 145 of the Federal Constitution itself."
 
 lang: "ko"
+sourceContentHash: "1cdb5bbdd1308bf3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

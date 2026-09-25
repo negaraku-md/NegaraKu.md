@@ -37,8 +37,9 @@ verificationNeeded:
   - "Peraturan-peraturan Majlis Mesyuarat Dewan Rakyat yang dirujuk di sini ialah Cetakan Ketiga Belas (April 2013). Peraturan Mesyuarat dipinda dari semasa ke semasa oleh Dewan Rakyat sendiri di bawah Perkara 62(1) — sahkan nombor peraturan dan angka prosedur terhadap cetakan terkini di parlimen.gov.my sebelum bergantung padanya."
 
 lang: "ko"
+sourceContentHash: "ce348e711538fac4"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

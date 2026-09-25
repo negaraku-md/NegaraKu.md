@@ -42,8 +42,9 @@ verificationNeeded:
   - "Whether KPDN requires a fresh WRT application or permits variation on a change of the licensee's shareholding was not confirmed against a KPDN guideline"
 
 lang: "ko"
+sourceContentHash: "9a4e03ec03d9397b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

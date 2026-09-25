@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Anyone who wants to know, provision by provision, what it actually takes in Parliament to change a given part of the Federal Constitution."
 
 lang: "ko"
+sourceContentHash: "34255dffcbbb4b20"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

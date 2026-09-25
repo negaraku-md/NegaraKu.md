@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Travellers, businesses and anyone trying to understand why 'Malaysia' sometimes behaves like two administrations sharing one passport and one flag."
 
 lang: "ko"
+sourceContentHash: "da887efa0f358f15"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

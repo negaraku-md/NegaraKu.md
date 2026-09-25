@@ -33,8 +33,9 @@ faq:
     a: "Operating a tourism enterprise without a valid licence is an offence under the Tourism Industry Act 1992, which MOTAC actively enforces through inspections. On conviction the penalty is a fine of up to RM500,000 or imprisonment of up to 10 years, or both. MOTAC can also prosecute, suspend or revoke licences for other breaches of the Act and regulations."
 
 lang: "ko"
+sourceContentHash: "267a25e0a7a19ed2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

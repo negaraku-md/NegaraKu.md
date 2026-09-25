@@ -40,8 +40,9 @@ verificationNeeded:
   - "Confirm the current AIAC fee schedules and deposit requirements directly from AIAC before advising on cost"
 
 lang: "ko"
+sourceContentHash: "8f87d032cb16f4b7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ faq:
   - q: "What legal basis lets a council charge assessment tax?"
     a: "Part XV (Rating and Valuation). Section 127 empowers a local authority to impose rates on holdings in its area, with the basis of assessment set out in Section 130."
 lang: "ko"
+sourceContentHash: "ef5c1db3291f9813"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

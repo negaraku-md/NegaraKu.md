@@ -31,8 +31,9 @@ faq:
     a: "Teksnya disusun kepada lima belas Bahagian (Bahagian I hingga XV, dengan Bahagian XIIA bagi Sabah dan Sarawak) dan tiga belas Jadual, sebahagiannya telah dimansuhkan mengikut senarai kandungan cetakan semula rasmi."
 
 lang: "ko"
+sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

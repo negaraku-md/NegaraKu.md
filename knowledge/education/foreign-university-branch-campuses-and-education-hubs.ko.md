@@ -34,8 +34,9 @@ faq:
     a: "아닙니다. 모나시, 노팅엄, 샤먼, 헤리엇와트가 클랑밸리(Klang Valley)와 푸트라자야 주변에 집적해 있지만, 에듀시티 이스칸다르는 싱가포르에 가까운 조호르에 여러 캠퍼스를 집중시키고 있으며, 커틴(Curtin)과 스윈번(Swinburne)은 사라왁에서 운영됩니다."
 
 lang: "ko"
+sourceContentHash: "eb5708a4ddb8ff8d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

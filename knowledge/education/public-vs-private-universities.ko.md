@@ -23,8 +23,9 @@ verificationNeeded:
   - "이 기사는 어떤 기관의 프로그램 입학 인원, 쿼터 비율, 구체적 수수료 수치를 명시하지 않음 — 이는 프로그램과 캠퍼스에 따라 다르고 입학 회차마다 바뀜; 지원 전에 UPU의 e-Panduan(공립대학) 또는 개별 기관(사립대학)에 직접 확인할 것."
   - "등록된 IPTS 제공기관의 정확한 현재 수는 여기 명시하지 않았는데, MOHE의 공표 통계표(Statistik Pendidikan Tinggi)를 이 기사에서 전부 열어 보지 못했기 때문임 — 정확한 현재 수치는 MOHE의 Statistik Pendidikan Tinggi 발행물을 직접 참고할 것."
 lang: "ko"
+sourceContentHash: "dec278a4f731f767"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

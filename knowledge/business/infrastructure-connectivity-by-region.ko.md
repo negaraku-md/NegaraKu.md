@@ -49,8 +49,9 @@ verificationNeeded:
   - "Confirm the Gemas to Johor Bahru electrified double track formal launch date and project cost — neither was located"
 
 lang: "ko"
+sourceContentHash: "300ad373430dce8b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

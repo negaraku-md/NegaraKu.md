@@ -20,8 +20,9 @@ keyTakeaways:
   - "Mesyuarat pengedaran pada 2 September 1970 memutuskan teks Bahasa Malaysia ialah teks asli; versi bahasa lain adalah terjemahan"
 appliesTo: "Pelajar, guru, penjawat awam dan sesiapa yang perlu merujuk teks rasmi Rukun Negara serta kronologi penggubalannya berdasarkan rekod arkib."
 lang: "ko"
+sourceContentHash: "b7cede975bcf8a6f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

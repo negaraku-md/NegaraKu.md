@@ -25,8 +25,9 @@ verificationNeeded:
   - "This page states no fees, rates or processing times of its own; every figure lives on the linked route pages and is sourced there"
 
 lang: "ko"
+sourceContentHash: "40a5acd6c21bafa9"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

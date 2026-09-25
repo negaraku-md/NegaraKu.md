@@ -25,8 +25,9 @@ verificationNeeded:
   - "등급별 MM2H의 구체적 소득·예금·기간 수치는 신청 시점에 공식 MM2H 포털(mm2h.gov.my)에서 직접 확인해야 함. 포털이 자동 조회를 차단하고 그 등급이 최근 몇 년간 한 번 이상 재편되었기 때문."
 
 lang: "ko"
+sourceContentHash: "dd39883661ce9f6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

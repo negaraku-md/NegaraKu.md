@@ -32,8 +32,9 @@ faq:
     a: "Tidak. Menurut seksyen 554(1)(a), tanggungan setiap pengarah, pegawai atau ahli syarikat berterusan dan boleh dikuatkuasakan seolah-olah syarikat tidak dibubarkan. Pengarah juga wajib menyimpan rekod syarikat selama tujuh tahun selepas pemotongan."
 
 lang: "ko"
+sourceContentHash: "bd012809619da49e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

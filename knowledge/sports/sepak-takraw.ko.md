@@ -34,8 +34,9 @@ faq:
     a: "말레이시아의 마지막 국왕컵 팀 레구 타이틀 우승은 1988년입니다. 2024년에 이르러 그 기다림은 약 36년에 달했으며, 말레이시아는 나콘랏차시마에서 개최국 태국에 0-2로 패했습니다."
 
 lang: "ko"
+sourceContentHash: "a468b0e147901427"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

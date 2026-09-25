@@ -31,8 +31,9 @@ faq:
     a: "Prosiding terhadap seseorang Raja atas sifat peribadinya hanya boleh dibawa di Mahkamah Khas yang ditubuhkan di bawah Perkara 182, dan tertakluk kepada perkenan Peguam Negara."
 
 lang: "ko"
+sourceContentHash: "3f9c93463dcbf28a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

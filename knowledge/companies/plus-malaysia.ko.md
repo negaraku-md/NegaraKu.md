@@ -28,8 +28,9 @@ faq:
     a: "2020년 결정에 따라 통행료는 2020년 2월 1일부터 18% 인하되었으며, 2058년까지의 연장 콘세션 기간 동안 통행료 인상은 예정되어 있지 않습니다."
 
 lang: "ko"
+sourceContentHash: "6a089759a8d1ba8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

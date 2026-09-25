@@ -40,8 +40,9 @@ faq:
 verificationNeeded: []
 
 lang: "ko"
+sourceContentHash: "3785ffffd64c7cff"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

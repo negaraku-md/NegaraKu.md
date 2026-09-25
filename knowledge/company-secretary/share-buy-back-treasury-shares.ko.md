@@ -29,8 +29,9 @@ faq:
     a: "Pembelian mesti dibiayai sepenuhnya daripada keuntungan tertahan syarikat pada asas syarikat (bukan kumpulan) — Kaedah 12.10 Bab 12 Keperluan Penyenaraian Bursa. Pinjaman boleh digunakan sebagai sumber dana asalkan pembelian disokong oleh jumlah keuntungan tertahan yang setara (Kaedah 12.11)."
 
 lang: "ko"
+sourceContentHash: "6bd8a430b49db96b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

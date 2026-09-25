@@ -49,8 +49,9 @@ obligations:
     consequence: "Assessment by the Director General, with penalties under the Income Tax Act 1967"
 
 lang: "ko"
+sourceContentHash: "16cead0c42c9de23"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

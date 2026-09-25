@@ -30,8 +30,9 @@ faq:
     a: "Kemalangan maut, kecederaan serius atau kejadian berbahaya mesti diberitahu kepada pejabat DOSH terdekat dengan cara tercepat, dan Borang JKKP 6 dihantar dalam tempoh 7 hari di bawah NADOPOD 2004."
 
 lang: "ko"
+sourceContentHash: "e58617c97047711f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

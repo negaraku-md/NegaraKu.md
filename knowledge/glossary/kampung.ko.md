@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "문자적 의미를 넘어 「캄풍」의 의미를 이해하려는 모든 이 — 연구자, 작가, 공무원, 그리고 시골 행정을 상대하는 신규 이주자."
 
 lang: "ko"
+sourceContentHash: "179d1d79aa799fca"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

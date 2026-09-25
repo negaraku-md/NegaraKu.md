@@ -29,8 +29,9 @@ faq:
     a: "SUKMA는 청소년 선수가 재능을 드러내는 주 무대입니다. 잠재력 있는 선수는 MSN의 인재·후속 선수 육성 프로그램으로, 그리고 이어서 국제 대회를 위해 엘리트 선수를 준비시키는 ISN의 포디움 프로그램으로 승격될 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "82263beab0c4a71a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ faq:
   - q: "DOF는 어떤 법을 관장합니까?"
     a: "주된 법령은 수산법 1985(Fisheries Act 1985, Act 317)로, 말레이시아 수역에서의 어로 및 수산업의 보전, 관리, 개발을 다루며, 허가, 양식, 수생 포유류와 거북을 포함합니다."
 lang: "ko"
+sourceContentHash: "28c9963369f18b79"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

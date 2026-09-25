@@ -24,8 +24,9 @@ verificationNeeded:
   - "특정 운전자 요건(예: 최소 연령)이 적용되는지 여부는 JPJ 또는 개별 전자호출 운영자에게 확인해야 합니다. 참조한 공식 페이지에서 확인 가능한 형태로 명시되지 않았기 때문입니다"
 
 lang: "ko"
+sourceContentHash: "10f57c7f87a7c675"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "벼및쌀통제법 1994(Control of Paddy and Rice Act 1994, Act 522)입니다. 쌀은 통제 상품이며; 벼·쌀 규제 사무총장이 정미, 도매, 소매, 수입, 수출, 주(州) 간 이송에 대한 허가와 인가를 발급합니다."
 
 lang: "ko"
+sourceContentHash: "88877cb8976d9b28"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

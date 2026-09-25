@@ -57,8 +57,9 @@ obligations:
     consequence: "Non-compliance with a duty under Act 709"
 
 lang: "ko"
+sourceContentHash: "25fcd95c5e3db0ce"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

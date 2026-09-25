@@ -25,8 +25,9 @@ verificationNeeded:
   - "집행 권한(예: 이행하지 않는 대출자에 대한 해외 출국 제한)에 대한 언급은 Akta 566에 따른 권한의 존재에 근거하여 일반적으로만 언급됨; 구체적 조문 번호와 그 발동 조건(예: 연체 기간)은 법 본문이나 공식 포털에서 직접 확인되지 않았으며 재확인이 필요함."
 
 lang: "ko"
+sourceContentHash: "36c7c223a86b45ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

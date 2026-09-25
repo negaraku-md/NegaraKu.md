@@ -30,8 +30,9 @@ faq:
     a: "Ya. Tempoh 6 bulan untuk edaran (syarikat persendirian, s.258) dan 30 hari untuk pemfailan kepada SSM (s.259) dikira semula dari tarikh akhir tahun kewangan yang baharu."
 
 lang: "ko"
+sourceContentHash: "518df847514632f2"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

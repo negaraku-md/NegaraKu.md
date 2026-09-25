@@ -30,8 +30,9 @@ faq:
     a: "매각 공고에 달려 있습니다. 매수인은 통상 미납 토지세, 재산평가세(cukai pintu), 관리비, 공과금을 떠안으며, POS가 은행이 매각 대금에서 이를 정산한다고 명시한 경우는 예외입니다. 응찰 전에 항상 POS를 읽으십시오."
 
 lang: "ko"
+sourceContentHash: "2fa3e76f153f5816"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

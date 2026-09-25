@@ -34,8 +34,9 @@ faq:
     a: "국가유산청의 유산 판무관이 국가유산법 2005[Act 645] 제49(1)조에 따라, 연례 유산 객체 선언을 통해 음식을 유산 객체로 관보에 게재합니다."
 
 lang: "ko"
+sourceContentHash: "bdf1c88a62d4c6ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

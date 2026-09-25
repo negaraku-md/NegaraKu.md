@@ -30,8 +30,9 @@ faq:
     a: "2024년 개정 전에는 제14조 (1)항 (b)호의 법의 효력 경로가 아버지가 시민인 경우에 적용되었습니다. 2023년 8월 5일 항소법원 판결(Suriani Kempe & Ors 대 말레이시아 정부 사건)에 따라, Family Frontiers 안내에 기록된 대로, 시민인 어머니의 양식 D 신청은 동결되었습니다. 2024년 10월에 통과된 개정법은 어머니와 아버지의 권리를 동등하게 했지만, 그 발효 이후 태어난 자녀에게만 적용됩니다. 그 전에 태어난 18세 미만 자녀에게는 제15조 (2)항 경로(양식 B)가 사용됩니다."
 
 lang: "ko"
+sourceContentHash: "2a31c142e3a5bd2c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "According to Arkib Negara Malaysia, the Hat Yai accords did not require the CPM to surrender. The party agreed to end militant activity, disband its armed units and destroy its weapons, and its members pledged loyalty to the Yang di-Pertuan Agong."
 
 lang: "ko"
+sourceContentHash: "02bbbc636e171599"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

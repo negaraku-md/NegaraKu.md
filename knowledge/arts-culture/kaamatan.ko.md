@@ -33,8 +33,9 @@ faq:
     a: "Magavau is a thanksgiving ritual to honour and 'call home' the rice spirit, Bambaazon, after the harvest. It is traditionally led by a bobohizan (also spelled bobolian), a priestess who recites ritual chants. It is one of the older ceremonial elements of Kaamatan."
 
 lang: "ko"
+sourceContentHash: "77931677eb9c36e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

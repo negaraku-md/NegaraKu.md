@@ -29,8 +29,9 @@ faq:
   - q: "What happened to the Straits Settlements in the end?"
     a: "It was dissolved on 1 April 1946. Penang and Melaka were folded into the Malayan Union alongside the Federated and Unfederated Malay States, while Singapore was carved out as a separate crown colony of its own."
 lang: "ko"
+sourceContentHash: "9cb8a0574c93b0cb"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

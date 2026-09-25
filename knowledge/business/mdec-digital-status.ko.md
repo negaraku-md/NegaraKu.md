@@ -52,8 +52,9 @@ obligations:
     consequence: "MD Status is perpetual only while conditions continue to be met"
 
 lang: "ko"
+sourceContentHash: "d30f4b105a3a1150"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

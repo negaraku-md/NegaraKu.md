@@ -35,8 +35,9 @@ faq:
     a: "They are separate festivals with a shared theme. Gawai Dayak is the Dayak harvest festival of Sarawak, held on 1 and 2 June. Kaamatan is the Kadazandusun harvest festival of Sabah, held on 30 and 31 May. Both give thanks for the rice harvest, but the communities, rituals and dates differ."
 
 lang: "ko"
+sourceContentHash: "5a38a61ecb8e6e5a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

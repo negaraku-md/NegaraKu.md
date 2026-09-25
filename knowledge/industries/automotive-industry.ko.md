@@ -36,8 +36,9 @@ faq:
     a: "네. 프로톤은 2024년 12월 첫 전기차 e.MAS 7을 RM109,800부터 출시했습니다. 페로두아는 2025년 12월 '말레이시아 최초의 자체 개발 전기차'로 불리는 QV-E를 배터리 제외 RM80,000에 출시했으며, RM8억 링깃의 비용을 들여 개발했습니다."
 
 lang: "ko"
+sourceContentHash: "67619f9b70d97b83"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

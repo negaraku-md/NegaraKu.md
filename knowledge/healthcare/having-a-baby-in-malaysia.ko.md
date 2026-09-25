@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "말레이시아에서 임신 중이거나, 임신을 계획하거나, 배우자나 가족을 임신 기간 동안 돕고 있으며, 공공 산전 체계, 민간 진료, 출생 등록이 어떻게 맞물리는지 이해하려는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "8182db0933e495e5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

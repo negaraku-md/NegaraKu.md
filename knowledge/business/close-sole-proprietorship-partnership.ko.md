@@ -35,8 +35,9 @@ faq:
     a: "No. A sole proprietorship or partnership is a business registration under the Registration of Businesses Act 1956, not a separate legal entity, so 'closing' it is simply notifying SSM that the registration has terminated — no liquidator, no strike-off application, no fee. A Sdn Bhd is a company under the Companies Act 2016 and must be exited through a strike-off or a winding up. See the separate guide on closing a company."
 
 lang: "ko"
+sourceContentHash: "b7ee74767d9d900f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

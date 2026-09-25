@@ -31,8 +31,9 @@ faq:
     a: "재무제표를 XBRL 형식으로 요구하는 말레이시아 기업보고시스템(Malaysian Business Reporting System, MBRS)을 통해 말레이시아 기업위원회(SSM)에 제출됩니다. MBRS는 MFRS와 MPERS 체계를 모두 지원하며 연결 및 별도 보고 칸을 제공합니다."
 
 lang: "ko"
+sourceContentHash: "582764d653c4df0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

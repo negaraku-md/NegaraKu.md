@@ -25,8 +25,9 @@ faq:
   - q: "Who must register with JPDP?"
     a: "Data users (now 'data controllers') falling within the 13 classes specified under the Personal Data Protection (Class of Data Users) Order 2013 must register under section 14 of the PDPA and obtain a valid certificate of registration. Registration is made online through the SPDP portal at daftar.pdp.gov.my."
 lang: "ko"
+sourceContentHash: "a86fa7aea38102ca"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

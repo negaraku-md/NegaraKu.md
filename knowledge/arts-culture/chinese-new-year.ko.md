@@ -31,8 +31,9 @@ faq:
     a: "「捞生」（鱼生、捞鱼生）是流行于马来西亚、新加坡等南洋一带的年节习俗，多在团圆饭或新年聚会时进行：众人围桌，用筷子把切丝的蔬果、生鱼片与各式配料一同高高捞起，边捞边喊「风生水起」「越捞越旺」等吉祥话。它在本地广受欢迎，但一般被视为南洋华人社群发展出的做法，而非源自古代中国的传统。"
 
 lang: "ko"
+sourceContentHash: "d2c30470773fa9b0"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

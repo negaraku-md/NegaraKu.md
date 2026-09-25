@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "특정 절차나 분쟁으로 넘어가기 전에, 국가토지법이 무엇을 하는지, 누구를 구속하는지, 그리고 사바나 사라왁의 토지 문제가 이 법률로 답해질 수 없는 이유를 정확히 자리매김할 필요가 있는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "ea87aadccc95af5d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "Yes. Under section 14, every registered society must, within sixty days after its annual general meeting (or within sixty days after the end of the calendar year if no AGM is held), send the Registrar an updated list of office-bearers and member numbers, any rule amendments, its address, and its accounts and balance sheet for the last financial year. Failure to file can lead to cancellation of registration."
 
 lang: "ko"
+sourceContentHash: "b426932dcfc299b3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

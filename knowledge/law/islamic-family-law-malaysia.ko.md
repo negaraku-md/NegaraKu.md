@@ -30,8 +30,9 @@ faq:
     a: "Di bawah seksyen 81 Akta 303, ibu adalah orang yang paling berhak kepada hadhanah anak kecil. Jika ibu hilang kelayakan mengikut Hukum Syarak, hak itu berpindah mengikut susunan keutamaan yang ditetapkan, dengan kebajikan anak sebagai pertimbangan utama."
 
 lang: "ko"
+sourceContentHash: "4f9d82016cc77fa5"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

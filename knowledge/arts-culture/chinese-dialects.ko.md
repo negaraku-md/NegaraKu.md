@@ -32,8 +32,9 @@ seoTitle: "말레이시아 화인 방언: 호키엔어, 광둥어, 하카어의 
 socialTitle: "同是华人，为何各说各话？马来西亚方言版图"
 
 lang: "ko"
+sourceContentHash: "c773c2be8c4e6544"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

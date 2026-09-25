@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "진짜 응급 상황과 금전 사기에 각각 어느 번호를 걸어야 하는지, 그리고 돈이 오가기 전에 가장 흔한 사기 유형을 알아보는 법을 알고 싶은, 말레이시아에 살거나 방문하는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "9fc1856c9ea17a12"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

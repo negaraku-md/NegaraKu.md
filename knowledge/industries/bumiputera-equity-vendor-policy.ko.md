@@ -29,8 +29,9 @@ faq:
     a: "PETRONAS 면허를 신청하는 기업은 관련 SWEC 코드에 따른 부미푸트라 참여 요건을 충족해야 합니다. PETRONAS 벤더 육성 프로그램의 경우 최소 51% 부미푸트라 소유가 요구됩니다(출처: Low & Partners; PETRONAS)."
 
 lang: "ko"
+sourceContentHash: "8653f4f58e0534c5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

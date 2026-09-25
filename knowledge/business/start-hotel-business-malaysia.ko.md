@@ -33,8 +33,9 @@ faq:
     a: "MOTAC은 공식 등급 제도를 운영합니다 — 호텔에 대한 스타 등급(고급성, 시설, 서비스 품질을 평가)과 저가 숙박에 대한 Orchid 등급(청결, 안전, 기본 편의에 초점). 등급은 백분율로 채점되며, 90~100%는 5성을 부여하고 그 아래로 낮은 구간이 이어집니다; 호텔은 또한 콘셉트(도시, 리조트, 고원, 부티크, 혁신형, 아파트)별로 분류됩니다. 등급은 광고할 수 있는 등급을 결정하며, 모든 시설이 합법적으로 운영하기 위해 갖추어야 하는 기본 등록과 구별됩니다."
 
 lang: "ko"
+sourceContentHash: "65be551a77e4ae21"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

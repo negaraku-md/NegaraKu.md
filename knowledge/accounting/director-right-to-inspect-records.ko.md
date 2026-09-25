@@ -26,8 +26,9 @@ verificationNeeded:
   - "종속기업 쟁점을 지지한 항소법원 결정은 2023년 9월 27일로 보고되었습니다; 판결 이유서는 공식 사법 출처에서 찾지 못했습니다"
 
 lang: "ko"
+sourceContentHash: "0aa2b1460e10e990"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

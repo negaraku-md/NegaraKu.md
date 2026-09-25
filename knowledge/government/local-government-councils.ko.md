@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Sesiapa yang mahu memahami struktur, rangka perundangan dan keanggotaan kerajaan tempatan di Malaysia — pelajar, penyelidik, wartawan, penduduk yang berurusan dengan majlis tempatan, dan pembaca umum yang ingin mengetahui perbezaan antara Majlis Bandaraya, Perbandaran dan Daerah serta sebab ahli majlis dilantik dan bukan dipilih."
 
 lang: "ko"
+sourceContentHash: "76abb87d5a3ed499"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

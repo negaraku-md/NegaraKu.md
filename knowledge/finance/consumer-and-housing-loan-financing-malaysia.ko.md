@@ -31,8 +31,9 @@ faq:
     a: "1967년 할부구매법(Hire Purchase Act 1967)에 따라, 금융사는 일반적으로 임차인이 연속 두 번의 할부금을 연체한 후에만 21일 통지 절차를 거쳐 회수할 수 있습니다. 현금가의 최소 75%를 지급한 후에는 금융사가 회수하려면 법원 명령이 필요합니다."
 
 lang: "ko"
+sourceContentHash: "736d6f3bf7c003b5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

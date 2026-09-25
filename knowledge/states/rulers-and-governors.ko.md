@@ -36,8 +36,9 @@ verificationNeeded:
   - "정확한 인용이 필요한 경우, 조(條) 및 항 번호를 연방 헌법 전문(2020년 재인쇄본, AGC)에 대조하여 확인할 것."
 
 lang: "ko"
+sourceContentHash: "0441017d6712ffd2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

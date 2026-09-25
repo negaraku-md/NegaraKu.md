@@ -30,8 +30,9 @@ faq:
     a: "말레이시아 증권위원회(Securities Commission Malaysia)입니다. 자본시장 혁신 — 대체 금융, 토큰화 증권, 유통시장 플랫폼 — 은 BNM이 아니라 SC 샌드박스로 갑니다."
 
 lang: "ko"
+sourceContentHash: "923d24c78b24d1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

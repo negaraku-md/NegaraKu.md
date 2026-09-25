@@ -41,8 +41,9 @@ faq:
     a: "정확한 날짜는 논란이 있다. 일부 기록은 전국 주무 기관의 설립을 1926년으로, 다른 기록은 싱가포르에 거점을 둔 Football Association of Malaya가 Piala Malaya 운영을 넘겨받은 1933년으로 본다. 분명하고 확인 가능한 것은 오늘날 전국 주무 기관, AFC 회원, 1984년 AFF 창립 회원으로서의 역할이다."
 
 lang: "ko"
+sourceContentHash: "ee9fdc30adb8894c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

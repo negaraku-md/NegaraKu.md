@@ -18,8 +18,9 @@ verificationNeeded:
   - "휴면 회사 계좌에 부과되는 은행 수수료와 입금되는 이자에 대한 SSM의 취급을 확인할 것 — 지침은 회사가 법적으로 지급해야 하는 의무만 제외함"
 
 lang: "ko"
+sourceContentHash: "71652677302d5a7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "통치자회의는 연방헌법 제38조에 명문화되어 있으며, 그 기능과 절차는 제5부칙에 상세히 규정되어 있습니다."
 
 lang: "ko"
+sourceContentHash: "145a64a2a5caf8b7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

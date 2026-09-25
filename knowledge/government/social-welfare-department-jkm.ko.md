@@ -28,8 +28,9 @@ faq:
   - q: "How do I register as an OKU (person with disability)?"
     a: "Malaysian citizens certified by a government medical expert submit the BPPOKU registration form (Amendment 2/2019) with a medical verification report and a MyKad copy (or birth certificate for applicants under 12), either at a JKM counter or online via the MyDaftar OKU portal. A successful applicant receives an OKU Card showing their disability category."
 lang: "ko"
+sourceContentHash: "f9a688b158d9b46c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

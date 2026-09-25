@@ -34,8 +34,9 @@ faq:
     a: "예. 개조 및 개량 비용처럼 부동산의 가치를 더하거나 유지하는 경비는, 유효한 영수증과 서류로 뒷받침되는 한 공제할 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "86d17a7e3d5558a5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

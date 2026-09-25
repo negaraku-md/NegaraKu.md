@@ -31,8 +31,9 @@ faq:
     a: "2025년 10월 커리어 최고인 세계 6위에 오른 시바상가리 수브라마니암(Sivasangari Subramaniam), 그리고 홈에서 2024 ACE 말레이시아 스쿼시컵에서 우승한 응에인야우(Ng Eain Yow)입니다."
 
 lang: "ko"
+sourceContentHash: "47a1ae4a8ea8c4dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

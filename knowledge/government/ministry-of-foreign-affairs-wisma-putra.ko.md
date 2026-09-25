@@ -35,8 +35,9 @@ faq:
     a: "As of 2026 the Minister of Foreign Affairs is Dato' Seri Utama Mohamad Hasan. Cabinet portfolios change with reshuffles, so confirm the current officeholder on kln.gov.my."
 
 lang: "ko"
+sourceContentHash: "e91cf1913840a424"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

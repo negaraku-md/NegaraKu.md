@@ -31,8 +31,9 @@ faq:
     a: "네. 배우자 또는 사실혼 배우자, 18세 미만 자녀, 장애 자녀, 그리고 주 소지자의 부모가 부양가족으로 신청할 수 있지만, 배우자는 이 패스로 일할 수 없습니다."
 
 lang: "ko"
+sourceContentHash: "f5c5f5f455206b06"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

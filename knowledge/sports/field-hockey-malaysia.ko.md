@@ -33,8 +33,9 @@ faq:
     a: "말레이시아 하키 연맹(Malaysian Hockey Confederation, MHC)이 남녀 필드하키 및 실내 하키 대표팀의 전국 주무 기관이다. MHC는 아시아하키연맹(AHF)과 FIH에 가맹되어 있으며, 쿠알라룸푸르 부킷 잘릴의 국립 하키 스타디움에서 운영된다."
 
 lang: "ko"
+sourceContentHash: "e3b29244d5e5d634"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

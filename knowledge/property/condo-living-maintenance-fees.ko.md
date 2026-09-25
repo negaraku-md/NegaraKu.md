@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "반도 말레이시아 또는 연방 직할지 라부안에서 콘도미니엄, 아파트, 기타 구분소유(strata) 부동산의 세대를 소유·매수·임차하는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "cb88d8015d2b5a82"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

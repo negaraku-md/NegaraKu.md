@@ -32,8 +32,9 @@ faq:
     a: "말레이시아 정부 서비스 포털은 혼인성립이 90일간 유효한 혼인 허가서에 근거하여 이루어진다고 명시합니다."
 
 lang: "ko"
+sourceContentHash: "ddd87b097dd5f44c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

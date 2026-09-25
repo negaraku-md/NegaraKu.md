@@ -56,8 +56,9 @@ obligations:
     consequence: "The patent lapses; a six-month grace applies on payment of a surcharge equal to 100% of the fee for the year concerned"
 
 lang: "ko"
+sourceContentHash: "00f4afd78d3da72e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "이스칸다르 말레이시아는 2000년대에 출범한 말레이시아 개발 회랑으로 JS-SEZ 범위 안에 자리합니다. JS-SEZ는 더 넓고 양자적입니다: 싱가포르를 공동 서명국으로 추가하고, 구역을 펜게랑까지 확장하며, 그 위에 공유 인센티브 및 지원 골격을 층으로 쌓습니다."
 
 lang: "ko"
+sourceContentHash: "91765fa012dff218"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Individual taxpayers preparing their annual Form BE/B filing and checking which reliefs they can claim."
 
 lang: "ko"
+sourceContentHash: "3aaef5bbc4ffdb87"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

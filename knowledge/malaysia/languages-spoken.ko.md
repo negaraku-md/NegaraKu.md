@@ -31,8 +31,9 @@ faq:
     a: "Yes. Malaysia's national education system includes national-type schools (Sekolah Jenis Kebangsaan) using Mandarin (SJKC) or Tamil (SJKT) as the medium of instruction, alongside national schools (SK) that use Bahasa Melayu. All three fall under the Ministry of Education and the same national curriculum."
 
 lang: "ko"
+sourceContentHash: "ab65f68bd17c67a2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

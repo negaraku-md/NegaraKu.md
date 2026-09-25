@@ -81,8 +81,9 @@ obligations:
     consequence: "Representations filed out of time cannot be entertained"
 
 lang: "ko"
+sourceContentHash: "d80998453b1bb373"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

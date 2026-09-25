@@ -31,8 +31,9 @@ faq:
     a: "No. The ISA 1960 was repealed in 2012 and replaced by the Security Offences (Special Measures) Act 2012 (SOSMA), which rights groups and the government continue to debate."
 
 lang: "ko"
+sourceContentHash: "b64842ee4e12b6c1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ verificationNeeded:
   - "Exact dates and figures (premiership, GST rate, case figures, sentence) to be confirmed against the Prime Minister's Office, the courts and the Election Commission."
 
 lang: "ko"
+sourceContentHash: "b57664a883ee2959"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -40,8 +40,9 @@ faq:
     a: "잘란 툰 탄 청 록 48 & 50번지에 있는 이 박물관은 화요일에 휴관합니다. 평일(화요일 제외)에는 오전 10시~오후 4시 15분, 주말에는 오전 10시~오후 4시 45분에 개관합니다. 시간과 가격은 바뀔 수 있으므로 방문 전 박물관 공식 사이트에서 확인하십시오."
 
 lang: "ko"
+sourceContentHash: "e6af87197b8f50e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "두 유형 모두 국제 학생을 받도록 승인받을 수 있지만, 학생 패스 체계의 서로 다른 부분에 속하며, 어떤 프로그램과 정원이 외국 지원자에게 열려 있는지가 보통 다릅니다. 지원하기 전에 목표 프로그램 중 어느 것이 비시민권자 등록에 열려 있는지를 기관의 국제 사무처에 직접 확인하십시오."
 
 lang: "ko"
+sourceContentHash: "b1b055e68d2a5111"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

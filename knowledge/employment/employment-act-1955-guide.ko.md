@@ -66,8 +66,9 @@ obligations:
     consequence: "Offence under s.91"
 
 lang: "ko"
+sourceContentHash: "61d3ae24699dff11"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

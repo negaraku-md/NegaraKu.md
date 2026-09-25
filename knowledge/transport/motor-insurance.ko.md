@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "보험 담보 유형과 그 법적 요건을 이해하려는 말레이시아의 자동차 소유자와 운전자 — 승용차, 오토바이, 상용차."
 
 lang: "ko"
+sourceContentHash: "d879ba5dcb3bf1ff"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

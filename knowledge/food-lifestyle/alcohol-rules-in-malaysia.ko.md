@@ -31,8 +31,9 @@ faq:
     a: "랑카위(Langkawi)와 라부안(Labuan) 같은 섬은 소비세 없이 주류를 판매하는 면세 구역입니다. 여행자는 일반적으로 와인, 증류주 또는 맥아주를 합계 1리터 이내로 반입할 수 있으나, 최소 체류(부재) 기간 규정이 적용되므로 출발 전 관세 당국에 확인해야 합니다."
 
 lang: "ko"
+sourceContentHash: "56f47508696d66ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

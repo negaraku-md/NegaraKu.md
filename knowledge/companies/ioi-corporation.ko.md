@@ -30,8 +30,9 @@ faq:
     a: "말레이시아(조호르, 말라카, 느그리슴빌란, 파항, 사바, 사라왁 포함)와 인도네시아(서부 및 중부 칼리만탄)에서입니다."
 
 lang: "ko"
+sourceContentHash: "1a35d39eb3932506"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

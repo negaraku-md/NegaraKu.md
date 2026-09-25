@@ -29,8 +29,9 @@ faq:
     a: "ASASIpintar는 영재·특기 학생을 위한 UKM의 대학 예비 과정으로, Perdana, Komersial, Antarabangsa의 세 계열로 제공됩니다."
 
 lang: "ko"
+sourceContentHash: "35e2f3422be13be3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -43,8 +43,9 @@ verificationNeeded:
   - "Confirm whether the bank requires sight of the register of beneficial owners maintained under ss.60B and 60C of the Companies Act 2016 — this is common practice but is not a requirement stated in the policy document"
 
 lang: "ko"
+sourceContentHash: "75370094a3730df5"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

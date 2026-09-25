@@ -34,8 +34,9 @@ faq:
     a: "Tidak. Ia tidak terpakai kepada penjawat awam, perantis, pekerja percubaan, pekerja asing, pembantu rumah, pekerja sambilan, pelajar sementara, dan pekerja kontrak tempoh tetap tertentu."
 
 lang: "ko"
+sourceContentHash: "f2f42b17c86c3524"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

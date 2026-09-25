@@ -40,8 +40,9 @@ verificationNeeded:
   - "파트너 서명 옆에 인쇄되는 재무부 장관 감사인 승인 번호의 형식 및 만료 관례를 확인할 것 — 예시 자리표시자는 구조를 보여주나 MIA는 이를 설명하지 않음"
 
 lang: "ko"
+sourceContentHash: "46458a8295799022"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

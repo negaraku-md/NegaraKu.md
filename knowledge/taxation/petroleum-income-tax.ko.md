@@ -28,8 +28,9 @@ faq:
     a: "An exemption of a portion of chargeable income reduces the effective petroleum income tax rate on qualifying marginal fields from 38% to about 25%."
 
 lang: "ko"
+sourceContentHash: "e3d164ca38c307ff"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

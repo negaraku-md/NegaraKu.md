@@ -31,8 +31,9 @@ faq:
     a: "회사의 경우, 사업 자카트는 제44(11A)조 아래 손금(공제)으로 처리되며 집계소득의 40분의 1(2.5%)로 제한됩니다 — 개인처럼 링깃 대 링깃 세액공제가 아닙니다."
 
 lang: "ko"
+sourceContentHash: "850b3fce0e9aa149"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

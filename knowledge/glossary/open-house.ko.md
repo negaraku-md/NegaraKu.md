@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "처음으로 루마 트르부카에 초대받은 이, 지역사회나 회사 차원의 루마 트르부카 주최자, 그리고 이 관습을 말레이시아의 종족 간 사회 현상으로 이해하려는 모든 이."
 
 lang: "ko"
+sourceContentHash: "3bc3f6abab7fea70"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

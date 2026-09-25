@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "반도 말레이시아, 사바 또는 사라왁에서 주거용 부동산을 임차하거나 임대하는 모든 사람 — 첫 임차계약에 서명하는 임차인과 그것을 작성하는 임대인."
 
 lang: "ko"
+sourceContentHash: "82f3b97b7c53aec7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

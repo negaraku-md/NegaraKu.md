@@ -31,8 +31,9 @@ verificationNeeded:
   - "All figures to be confirmed against the Election Commission of Malaysia (Suruhanjaya Pilihan Raya); note that final tallies differ slightly from election-night figures due to a postponed seat."
 
 lang: "ko"
+sourceContentHash: "acdebe065daafc2e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

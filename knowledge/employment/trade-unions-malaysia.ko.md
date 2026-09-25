@@ -34,8 +34,9 @@ faq:
     a: "Hak perundingan kolektif tunggal ditentukan di bawah Akta Perhubungan Perusahaan 1967. Jika pekerja tidak mencapai kata sepakat, permohonan boleh dibuat kepada Ketua Pengarah Perhubungan Perusahaan yang boleh mengadakan undian sulit untuk memilih agen perunding."
 
 lang: "ko"
+sourceContentHash: "3512cd3f05dbac9a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

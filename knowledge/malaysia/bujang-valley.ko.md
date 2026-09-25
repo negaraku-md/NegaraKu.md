@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Sesiapa yang ingin memahami asal usul tamadun awal di tanah Melayu sebelum wujudnya kesultanan-kesultanan Melayu, atau yang merancang lawatan ke tapak dan muzium arkeologi di Kedah."
 
 lang: "ko"
+sourceContentHash: "e95214b94dacf363"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Sesiapa yang cuba memahami sebab cuaca dan risiko banjir Malaysia berubah mengikut musim — penduduk kawasan pantai, pelancong, perancang bencana, pelajar geografi dan sesiapa yang menyemak amaran cuaca MetMalaysia."
 
 lang: "ko"
+sourceContentHash: "d977d1d40dd0956b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

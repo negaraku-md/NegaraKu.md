@@ -26,8 +26,9 @@ verificationNeeded:
   - "수수료 수치와 거래 한도는 집필일 기준 PayNet 공식 사이트에서 직접 인용했습니다; PayNet은 실제 수수료가 개별 은행/전자지갑에 따라 다를 수 있다고 밝힙니다"
 
 lang: "ko"
+sourceContentHash: "1b31c1f5d1b3682f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

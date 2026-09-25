@@ -32,8 +32,9 @@ faq:
     a: "Christian families observe the day religiously through church services. Beyond that, Christmas is marked more broadly in public life — malls and hotels put up decorations and run seasonal sales, and the open-house tradition of hosting guests of any background for a shared meal is common. Participation in the wider, social side of the season is not limited to Christians."
 
 lang: "ko"
+sourceContentHash: "4331ba5a016fc700"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -40,8 +40,9 @@ verificationNeeded:
   - "고객용 문서에 축자적으로 인용하기 전에 MASB 시행 페이지와 대조하여 MASB 사기업 정의의 정확한 현행 문구를 확인하십시오"
 
 lang: "ko"
+sourceContentHash: "fdc2c021a877fc8a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

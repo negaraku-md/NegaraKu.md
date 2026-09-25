@@ -56,8 +56,9 @@ obligations:
     consequence: "The grant of leave lapses"
 
 lang: "ko"
+sourceContentHash: "03035b145c07011e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

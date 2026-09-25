@@ -38,8 +38,9 @@ faq:
     a: "Employing a foreigner without a valid pass is an offence under Section 55B, carrying a fine of RM10,000 to RM50,000 or imprisonment up to 12 months for each worker. Hiring five or more undocumented workers raises the exposure to imprisonment of six months to five years and possible whipping."
 
 lang: "ko"
+sourceContentHash: "0a352a7bd7d5e1fc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

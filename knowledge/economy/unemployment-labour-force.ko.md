@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "말레이시아 노동시장 데이터를 해석하는 모든 사람 — 구직자, 고용주, 정책 입안자, 분석가."
 
 lang: "ko"
+sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -42,8 +42,9 @@ verificationNeeded:
   - "이 분석을 SST 문서로 확장하기 전에 2018년 판매세법(Sales Tax Act 2018) 및 2018년 서비스세법(Service Tax Act 2018)의 기록 보존 기간을 별도로 확인하십시오"
 
 lang: "ko"
+sourceContentHash: "8f59afbef6de896e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

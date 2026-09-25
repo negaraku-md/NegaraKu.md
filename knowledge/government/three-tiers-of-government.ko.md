@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Anyone trying to work out which level of government to approach for a given problem in Malaysia, or who wants to understand why they can vote for a Member of Parliament and a state assemblyman but not for a local councillor."
 
 lang: "ko"
+sourceContentHash: "c6bdf9ccfb5d174a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

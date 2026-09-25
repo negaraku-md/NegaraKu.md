@@ -31,8 +31,9 @@ faq:
     a: "Tidak. Duti eksais minuman bergula menyasarkan minuman sedia-minum di bawah HS 2202 yang mengandungi lebih daripada 5 gram gula bagi setiap 100ml, minuman berasaskan susu melebihi 7 gram gula bagi setiap 100ml, dan jus buah atau sayur di bawah HS 2009 melebihi 12 gram gula bagi setiap 100ml. Ambangnya berbeza mengikut kategori."
 
 lang: "ko"
+sourceContentHash: "84d4e95aaaa26789"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "Only operators letting out five or more rooms must register and collect TTx. An operator with four rooms or fewer is not liable to register."
 
 lang: "ko"
+sourceContentHash: "f102342b25c63a8e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

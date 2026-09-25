@@ -80,8 +80,9 @@ obligations:
     consequence: "Fine of RM500"
 
 lang: "ko"
+sourceContentHash: "637a7153821c7b55"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

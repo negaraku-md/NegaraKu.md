@@ -34,8 +34,9 @@ faq:
     a: "제3자 접근(Third Party Access, TPA)은 PETRONAS뿐 아니라 자격 있는 수송사가 동일한 조건으로 재기화 터미널, 송출 파이프라인, 배급 파이프라인의 용량을 예약할 수 있게 합니다. 2017년 1월 16일 가스공급(개정)법(Gas Supply (Amendment) Act 2016) 아래 시작되었으며 에너지위원회가 규제합니다."
 
 lang: "ko"
+sourceContentHash: "20fa31d4431394c5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

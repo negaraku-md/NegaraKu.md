@@ -34,8 +34,9 @@ faq:
     a: "DOSM is a federal government department listed under the Ministry of Economy in the ministry's official agencies directory. Ministerial portfolios in Malaysia are reorganised periodically, so confirm the current arrangement on ekonomi.gov.my or dosm.gov.my before relying on it in a formal document."
 
 lang: "ko"
+sourceContentHash: "c71507e53dcd1423"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

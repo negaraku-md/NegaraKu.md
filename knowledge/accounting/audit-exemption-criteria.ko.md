@@ -36,8 +36,9 @@ faq:
     a: "실무 지침 10/2024는 공개회사의 자회사인 사기업, 상장 회사를 포함한 공개회사, 외국 회사, 그리고 CA 2016 제260조에 따라 지위 증서를 제출하기로 선택한 면제 사기업에는 특별히 적용되지 않습니다."
 
 lang: "ko"
+sourceContentHash: "1f9465f320d07544"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "Seksyen 25 menyatakan pengakuan salah kepada pegawai polis berpangkat lebih rendah daripada Inspektor tidak boleh dibuktikan terhadap tertuduh, tertakluk kepada peruntukan bertulis yang nyata. Seksyen 24 pula menjadikan pengakuan tidak relevan jika ia disebabkan dorongan, ancaman atau janji daripada orang yang berkuasa."
 
 lang: "ko"
+sourceContentHash: "8f64848838376657"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

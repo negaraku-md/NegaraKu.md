@@ -31,8 +31,9 @@ faq:
     a: "위치에 따라 다릅니다. 반도 말레이시아와 라부안(Labuan)의 해양공원은 연방 관할로, 어업법 1985(Fisheries Act 1985)에 따라 말레이시아 수산국(Department of Fisheries Malaysia)이 관리합니다. 시파단을 포함한 사바(Sabah)의 공원은 별도의 주 법에 따라 주 기관인 사바 파크스(Sabah Parks)가 관리합니다."
 
 lang: "ko"
+sourceContentHash: "4a736d507026f7b4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

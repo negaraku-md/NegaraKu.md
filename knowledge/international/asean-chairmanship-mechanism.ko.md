@@ -30,8 +30,9 @@ faq:
     a: "1월 1일부터 12월 31일까지 온전한 한 역년입니다. 필리핀은 2026년 1월 1일에 말레이시아로부터 이를 넘겨받습니다."
 
 lang: "ko"
+sourceContentHash: "be6127ce5cca4347"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -53,8 +53,9 @@ obligations:
     consequence: "Offence under Division 8A"
 
 lang: "ko"
+sourceContentHash: "e1b33b50ef55b00c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

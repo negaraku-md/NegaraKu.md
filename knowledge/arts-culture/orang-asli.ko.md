@@ -35,8 +35,9 @@ seoTitle: "오랑 아슬리: 세 주요 집단, 18개 부족, 그리고 JAKOA"
 socialTitle: "Siapa Orang Asli — tiga kumpulan, 18 suku kaum, dan agensi yang menjaganya"
 
 lang: "ko"
+sourceContentHash: "22c8505f8289ae57"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

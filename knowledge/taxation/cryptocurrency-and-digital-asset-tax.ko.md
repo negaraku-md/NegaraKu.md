@@ -30,8 +30,9 @@ faq:
     a: "As ordinary business income. You record the value of the goods or services in ringgit using the market value of the coins at the point of transaction, and it forms part of your taxable sales."
 
 lang: "ko"
+sourceContentHash: "fd506f4661f4b91a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -17,8 +17,9 @@ keyTakeaways:
   - "The Northeast Monsoon (Nov–Mar) soaks the east coast of the Peninsula, west Sarawak and north Sabah; the Southwest Monsoon (May–Sep) is comparatively drier — a rhythm that still shapes flood season and farming calendars (Malaysian Meteorological Department)"
 appliesTo: "Anyone trying to understand why Malaysia's population, cities and flood risk cluster where they do — students, newcomers, planners, or anyone puzzled by why 'monsoon season' means different things on different coasts."
 lang: "ko"
+sourceContentHash: "1aadf1352cd31f55"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

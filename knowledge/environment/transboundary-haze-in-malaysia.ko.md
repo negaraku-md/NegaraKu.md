@@ -32,8 +32,9 @@ faq:
     a: "주요 원인은 토지와 산림 화재 — 이탄지 화재와 농업을 위한 화전식 토지 개간 포함 — 로, 수마트라와 칼리만탄에서 발생하며 엘니뇨 현상의 영향을 받는 건기에 더 잦고 심해집니다."
 
 lang: "ko"
+sourceContentHash: "f6dc09ddaaf77bcf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "EUDR은 2023년 6월 29일 발효되었습니다. 여러 차례 연기를 거쳐, 대규모 사업자와 무역업자에게는 2026년 12월 30일부터, 영세·소규모 기업에게는 2027년 6월 30일부터 의무가 적용됩니다."
 
 lang: "ko"
+sourceContentHash: "f8c253517f15928f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

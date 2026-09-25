@@ -31,8 +31,9 @@ faq:
     a: "생산자는 Pasar Tani Kekal(상설 농민 시장), Agrobazaar, My Farm Outlet, 신선 과일 노점(Gerai Buah-buahan Segar) 같은 FAMA 채널을 통해 소비자에게 직접 유통하거나, 계약 재배(Ladang Kontrak)와 RANTAI 같은 프로그램에 참여할 수 있습니다. 참여 세부 사항은 fama.gov.my에서 확인됩니다."
 
 lang: "ko"
+sourceContentHash: "f18be1d4180f5dbb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

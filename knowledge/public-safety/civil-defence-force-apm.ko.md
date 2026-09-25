@@ -30,8 +30,9 @@ faq:
     a: "APM은 민방위법(Akta Pertahanan Awam 1951, Akta 221)에 따라 운영되며, 이 법은 평시와 전시에 인명과 재산을 보호하는 임무를 규정합니다."
 
 lang: "ko"
+sourceContentHash: "1cc8bccf4a7c831a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

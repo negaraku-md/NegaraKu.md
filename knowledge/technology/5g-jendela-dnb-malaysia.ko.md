@@ -36,8 +36,9 @@ faq:
     a: "No. On 7 March 2026, CelcomDigi and Maxis each completed the purchase of the Ministry of Finance's shares in DNB for RM327,872,640.28, marking the government's exit from the 5G wholesale business and turning DNB into a fully private entity owned by the telcos and YTL."
 
 lang: "ko"
+sourceContentHash: "c56c91a9d7764362"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "The 21 June 2024 Ministerial Direction and the exact 700MHz (2×20MHz) / 3.5GHz (100MHz) allocation currently rest on SoyaCincau's reporting; confirm against the MCMC primary press-release PDF and FAQ."

@@ -33,8 +33,9 @@ faq:
     a: "자동차 부문에 대한 정부의 틀로, 가장 최근에는 NAP 2020으로 갱신되었습니다. 차세대 차량(NxGV), 서비스형 모빌리티(MaaS), 인더스트리 4.0 역량을 목표로 하며, 중간 검토를 진행 중입니다. MITI가 검토를 시작(2025년 자동차 저명인사 협의회 설치)했으나, 그 결과는 2025년 말 목표에 맞춰 공표되지 않았고 2026년에도 미정 상태로 남아 있었습니다."
 
 lang: "ko"
+sourceContentHash: "ce89b8f0036180e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

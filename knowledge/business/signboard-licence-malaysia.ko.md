@@ -40,8 +40,9 @@ verificationNeeded:
   - "MBSA's area-based annual signboard tariff — only the advertisement processing fee and the flat bunting and banner rates are published"
 
 lang: "ko"
+sourceContentHash: "e95a20cac513aa22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

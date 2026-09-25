@@ -35,8 +35,9 @@ faq:
     a: "시파단은 산호초 회복을 위해 매년 11월에 폐쇄되므로, 다이빙 여행은 12월부터 10월 사이로 계획하십시오. 그 밖에도 더 비가 많은 북동 몬순(대략 11월부터 3월) 기간에는 보르네오에 비가 더 많습니다."
 
 lang: "ko"
+sourceContentHash: "c9653441143f9da8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Sesiapa yang ingin memahami cara permainan gasing dimainkan, perbezaan antara gasing pangkah dan gasing uri, serta kaitannya dengan warisan Pantai Timur."
 
 lang: "ko"
+sourceContentHash: "fc40c99c7c7666a6"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

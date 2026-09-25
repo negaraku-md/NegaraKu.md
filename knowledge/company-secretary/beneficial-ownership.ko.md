@@ -75,8 +75,9 @@ obligations:
     consequence: "Offence under s.60C(7)"
 
 lang: "ko"
+sourceContentHash: "5960cbcc31d84c2e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

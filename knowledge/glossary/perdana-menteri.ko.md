@@ -34,8 +34,9 @@ faq:
     a: "현재까지 헌법은 임기를 제한하지 않습니다. 2026년, 총리 임기를 합산 10년으로 제한하는 헌법 개정 법안이 제안되었습니다; 그 개정의 최종 상태는 공식 자료에서 확인해야 합니다."
 
 lang: "ko"
+sourceContentHash: "a4359d9c03eadb4d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

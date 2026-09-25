@@ -27,8 +27,9 @@ verificationNeeded:
   - "Confirm the current ROB registration position for partnerships in Sabah and Sarawak, which register under state ordinances rather than the Registration of Businesses Act 1956"
 
 lang: "ko"
+sourceContentHash: "14836fcc799b68f3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

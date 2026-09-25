@@ -37,8 +37,9 @@ faq:
     a: "유네스코 평가기구는 말레이시아의 아침 식사 문화가 무형문화유산 보호를 위한 2003년 협약 기준을 충족한다고 보아 등재를 권고했으며, 이후 정부간위원회가 등재를 결정했습니다. 위원회는 아침 식사의 준비와 향유가 — 본래 특정 종족이 즐기던 것이더라도 — 결국 종족 배경에 상관없이 모두가 즐기게 되었고, 이것이 다종족 국가로서 말레이시아의 정체성을 반영하는 화합을 강화한다고 결론지었습니다."
 
 lang: "ko"
+sourceContentHash: "d9dc5e7ae2dd9a7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

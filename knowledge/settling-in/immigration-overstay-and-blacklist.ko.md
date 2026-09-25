@@ -34,8 +34,9 @@ faq:
     a: "간단한 온라인 「해제」 버튼은 없습니다. 미결 화해금을 모두 정산하고, 이민국에 직접 자신의 상태와 그 이유를 확인한 뒤, 상황을 설명하며 서면으로 신청하거나 이의신청하십시오(말레이시아 밖에 있다면 대사관이나 허가받은 대리인을 통해). 이민국이 재량으로 결정하며, 법원은 일반적으로 이민 결정을 뒤집기를 꺼립니다."
 
 lang: "ko"
+sourceContentHash: "3656d41a5449e4a0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

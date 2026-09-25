@@ -30,8 +30,9 @@ faq:
     a: "네. 말레이어는 UEC 제도의 필수 과목입니다. 많은 UEC 학생이 개인 응시자로 SPM도 치릅니다. 둥종은 SMPC 학생 사이의 SPM 말레이어 합격률이 2022–2024년 96%를 넘었다고(2022년 97.38%, 2023년 97.11%, 2024년 96.65%) 다른 응시자와 같은 SPM 시험지를 사용해 보고합니다."
 
 lang: "ko"
+sourceContentHash: "899b0fd9ce10c90d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

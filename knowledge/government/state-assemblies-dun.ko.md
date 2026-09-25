@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "Sesiapa yang perlu memahami secara deskriptif bagaimana sesebuah Dewan Undangan Negeri dibentuk mengikut Perlembagaan, berapa lama ia bertahan, dan bagaimana sesuatu rang undang-undang negeri melaluinya untuk menjadi undang-undang."
 
 lang: "ko"
+sourceContentHash: "2a25e82c7f7bc759"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

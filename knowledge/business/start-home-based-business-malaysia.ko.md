@@ -33,8 +33,9 @@ faq:
     a: "식품에는 SSM 및 지방의회 등록에 더해 추가 위생 요건이 따릅니다. 지침의 식품 카테고리 점검표는 건물에 그리스 트랩이 설치되어 있을 것, 말레이시아 식품안전정보시스템(FoSIM)의 재택 식품 카테고리에 등재될 것, 그리고 운영자가 보건부(Ministry of Health) 인정 교육기관의 식품 취급자 교육 수료증과 장티푸스 예방접종 증명을 보유할 것을 요구합니다. 유아용 조제분유와 자체 라이선스가 필요한 포장 식수/얼음처럼 아예 집에서 만들 수 없는 식품도 있습니다."
 
 lang: "ko"
+sourceContentHash: "c4c8831642a77988"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

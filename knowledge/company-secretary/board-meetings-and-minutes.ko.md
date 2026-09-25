@@ -55,8 +55,9 @@ obligations:
     consequence: "No specific penalty is attached to the paragraph"
 
 lang: "ko"
+sourceContentHash: "a750870631fb7040"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "No, it is not permanently open. The grant is funded from a fixed government budget allocation and runs in periodic rounds that open and close, so availability depends on the current cycle and remaining funds. Under the 2025 rules a business that has already received a digital matching grant generally cannot claim again, except for e-invoicing solutions. Always verify whether a round is currently open, and the exact terms, on the official BSN or MDEC portal."
 
 lang: "ko"
+sourceContentHash: "1194109fce71d94d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

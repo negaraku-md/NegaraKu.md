@@ -35,8 +35,9 @@ faq:
     a: "Tidak. Malaysia mengamalkan dasar kewarganegaraan tunggal. Asas perlembagaannya ialah Perkara 23 (pelepasan kewarganegaraan) dan Perkara 24 (pelucutan kewarganegaraan apabila seseorang memperoleh kewarganegaraan negara lain secara sukarela), dan portal MyGovernment turut mengesahkan dasar ini. Keputusan melepaskan kewarganegaraan Malaysia bersifat kekal. Semak keadaan khusus anda dengan Jabatan Pendaftaran Negara (JPN)."
 
 lang: "ko"
+sourceContentHash: "32332ac0d26401bb"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

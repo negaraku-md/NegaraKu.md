@@ -30,8 +30,9 @@ faq:
     a: "파산은 파산법(Insolvency Act 1967)에 따른 법원 절차입니다. 반면 AKPK의 DMP는 부채를 재조정하기 위해 선택적으로 참여하는(법원 명령이 아닌) 말레이시아 중앙은행(Bank Negara Malaysia) 산하 기관의 프로그램입니다. BNM에 따르면 AKPK 서비스는 무료로 제공됩니다. DMP는 이미 파산 선고를 받은 개인에게는 개방되지 않습니다."
 
 lang: "ko"
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

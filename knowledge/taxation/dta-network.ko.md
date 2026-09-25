@@ -28,8 +28,9 @@ verificationNeeded:
   - "Rates are the general treaty ceilings published by LHDN, not article-by-article rates. Several treaties reduce interest to nil for payments to a government, central bank or approved institution; check the relevant article before applying the table rate"
 
 lang: "ko"
+sourceContentHash: "2eae865a4f192515"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

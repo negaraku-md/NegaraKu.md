@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Sesiapa yang perlu mengenal pasti pihak berkuasa yang mengeluarkan sesuatu dokumen imigresen Malaysia — pasport, visa, pas atau permit — dan artikel mana yang menerangkan setiap prosesnya."
 
 lang: "ko"
+sourceContentHash: "baf28f912e1a7295"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

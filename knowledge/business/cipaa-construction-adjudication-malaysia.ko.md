@@ -31,8 +31,9 @@ faq:
     a: "Yes — it is more than a renaming. Act A1738 and the 2025 Amendment Regulations, in force from 1 January 2026, replace 'KLRCA' with 'AIAC', tighten the adjudication timeline so extensions now require the consent of both parties and the adjudicator, introduce enhanced payment-notice requirements and prescribed forms, expand key definitions to reduce jurisdictional disputes, and strengthen the enforcement route. The core 45-working-day decision framework remains, but the surrounding procedure has changed, so use the current AIAC forms."
 
 lang: "ko"
+sourceContentHash: "e21cf5dfaabc98af"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -26,8 +26,9 @@ verificationNeeded:
   - "Confirm whether online access to beneficial ownership information has replaced the counter-only facility at Menara SSM@Sentral"
 
 lang: "ko"
+sourceContentHash: "a088732b82dc0e99"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

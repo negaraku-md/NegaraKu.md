@@ -27,8 +27,9 @@ faq:
   - q: "Does KKM run private hospitals?"
     a: "No. KKM operates the public hospitals and clinics and separately regulates private healthcare under the Private Healthcare Facilities and Services Act 1998 (Act 586), which sets minimum quality and safety standards and caps the fees doctors may charge for procedures."
 lang: "ko"
+sourceContentHash: "3996608aeba4590f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

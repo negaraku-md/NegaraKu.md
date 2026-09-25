@@ -37,8 +37,9 @@ verificationNeeded:
   - "믈라카 부분의 핵심 구역 및 완충 구역 면적(연속 자산 전체 대비)을 지명 문서 1223bis에 대조하여 확인."
 
 lang: "ko"
+sourceContentHash: "68b18aa6f45a809f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

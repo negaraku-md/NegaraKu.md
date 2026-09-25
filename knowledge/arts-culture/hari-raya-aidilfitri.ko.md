@@ -33,8 +33,9 @@ faq:
     a: "Rumah terbuka ialah amalan menjemput saudara-mara, jiran dan rakan — termasuk daripada kaum dan agama lain — datang berkunjung dan menikmati juadah sepanjang tempoh Syawal. Ia menjadi ciri sosial yang meluas di Malaysia, dan sering dianjurkan juga oleh agensi kerajaan dan syarikat, bukan hanya di rumah persendirian."
 
 lang: "ko"
+sourceContentHash: "93ccc705ae0a9141"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

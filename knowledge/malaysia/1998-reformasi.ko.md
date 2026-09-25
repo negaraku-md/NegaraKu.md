@@ -20,8 +20,9 @@ keyTakeaways:
   - "The USD1=RM3.80 peg was maintained for nearly seven years and ended on 21 July 2005 when Bank Negara Malaysia adopted a managed float"
 appliesTo: "Readers who want a documented, source-traceable account of Malaysia's 1998 economic response (capital controls and the ringgit peg) and the political events of that year, presented neutrally without endorsing any interpretation."
 lang: "ko"
+sourceContentHash: "3f82c848946b8ea4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

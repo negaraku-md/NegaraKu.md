@@ -32,8 +32,9 @@ faq:
     a: "네. SC는 지분형 크라우드펀딩 체계(2015년 2월 10일 시행)와 P2P 금융 체계(2016년 4월)를 도입했으며, 둘 다 그 규칙에 따라 인정 시장(recognised market)으로 운영됩니다."
 
 lang: "ko"
+sourceContentHash: "e26f048f1170e63c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ faq:
     a: "보조금이 적용되는 RON95 가격은 BUDI95 아래 자격이 있는 국민에게 리터당 RM1.99로 유지되지만, 보조금이 없는 일반 시장 가격은 APM에 따라 오르내립니다."
 
 lang: "ko"
+sourceContentHash: "77fbc98bce7fd506"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

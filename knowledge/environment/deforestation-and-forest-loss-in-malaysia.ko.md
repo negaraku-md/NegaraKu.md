@@ -34,8 +34,9 @@ faq:
     a: "수목 피복 손실은 조림지 수확, 화재, 폭풍 피해를 포함하여 수관(樹冠)의 모든 제거를 집계하므로, 이후 다시 자라는 손실도 포함합니다. 원시림 손실은 대체 불가능한 생물다양성과 탄소를 지닌 성숙한 자연림의 개간만 집계하며, 영구적 생태 손실의 더 나은 지표입니다."
 
 lang: "ko"
+sourceContentHash: "0965237e8942626f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

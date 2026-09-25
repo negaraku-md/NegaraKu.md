@@ -34,8 +34,9 @@ faq:
     a: "기술직업교육은 일부는 교육부 직업 칼리지를 통해, 일부는 별도의 자격 트랙 — 인적자원부 산하 기능개발국(Jabatan Pembangunan Kemahiran)이 발급하는 말레이시아 기능 자격증(SKM)과 말레이시아 기능 디플로마(DKM/DLKM) — 을 통해 운영됩니다. 교육부나 고등교육부가 아닙니다."
 
 lang: "ko"
+sourceContentHash: "936fe1b2918f6934"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

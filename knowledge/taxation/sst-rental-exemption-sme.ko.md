@@ -33,8 +33,9 @@ faq:
     a: "No. Service tax applies to rental or leasing services provided from 1 July 2025 onward. Rental relating to a period before that date is not taxable, regardless of when it is invoiced or paid. The government also announced that no prosecution or penalties would be imposed until 31 December 2025 for businesses taking steps to comply, giving a grace period to register and adjust systems."
 
 lang: "ko"
+sourceContentHash: "58ee2a784ad7e751"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

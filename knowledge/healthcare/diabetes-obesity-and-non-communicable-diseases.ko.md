@@ -32,8 +32,9 @@ faq:
     a: "40세 이상 라흐마 현금 지원(STR) 수급자는 등록된 정부 또는 민간 클리닉에서 PeKa B40에 따른 무료 검진을 받을 자격이 있습니다. 공공 클리닉 크시하탄도 기본 검사를 제공합니다."
 
 lang: "ko"
+sourceContentHash: "bbc5ab5d7d67181c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "말레이시아 주(州) 정부가 어떻게 조직되는지 서술적으로 이해하고자 하는 독자 — 학생, 공무원, 언론인, 그리고 어떤 주(州)에는 주 총리와 주 궁전이 있는 반면 다른 주(州)에는 주 수석장관과 주지사가 있는 이유를 알아내려는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "0eb897c5d29d626d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

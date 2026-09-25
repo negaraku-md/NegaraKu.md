@@ -38,8 +38,9 @@ faq:
     a: "Not at first instance. Employment claims start in forums created by their own statutes rather than in the Sessions or Magistrates' Court, and the Tribunal for Consumer Claims is established under section 85 of the Consumer Protection Act 1999. Those decisions may later reach the High Court by appeal or judicial review, but the entry point is not a court in this hierarchy."
 
 lang: "ko"
+sourceContentHash: "0ff02d452124fe9d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

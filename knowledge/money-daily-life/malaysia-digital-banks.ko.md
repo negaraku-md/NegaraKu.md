@@ -34,8 +34,9 @@ faq:
     a: "네. 기반 단계(첫 3~5년) 동안 BNM 틀은 각 디지털 은행의 총자산을 RM30억 이하로 제한합니다. 이는 은행이 더 크게 성장하기 전에 BNM이 성과와 위험을 관찰할 수 있게 합니다."
 
 lang: "ko"
+sourceContentHash: "586acae3d2012d4e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

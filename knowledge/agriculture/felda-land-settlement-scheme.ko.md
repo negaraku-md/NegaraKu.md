@@ -32,8 +32,9 @@ faq:
     a: "Felda Global Ventures(현 FGV Holdings)는 FELDA의 농장을 관리하는 투자 부문입니다. 2012년 6월 28일 부르사 말레이시아에 상장되었으며 IPO 당시 약 112,600명의 정착민이 경작하는 약 500,000헥타르를 관리했습니다."
 
 lang: "ko"
+sourceContentHash: "e2d45ce88c57dcc0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

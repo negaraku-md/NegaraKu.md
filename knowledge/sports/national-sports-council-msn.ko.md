@@ -27,8 +27,9 @@ faq:
   - q: "MSN은 어디에 있습니까?"
     a: "쿠알라룸푸르 부킷잘릴의 국가체육단지(Kompleks Sukan Negara), 57000 Sri Petaling, Kuala Lumpur에 있습니다. 또한 여러 다른 주에도 훈련 단지를 운영합니다."
 lang: "ko"
+sourceContentHash: "d519f370c717d10a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

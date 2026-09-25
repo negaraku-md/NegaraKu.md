@@ -36,8 +36,9 @@ faq:
     a: "A policy launched by the Ministry of Digital in 2025 to make Malaysia a world-class cloud hub by 2030, anchored on data sovereignty — the principle that data generated in Malaysia is governed by Malaysian law — alongside a planned sovereign AI cloud."
 
 lang: "ko"
+sourceContentHash: "16256b5ee4d19f22"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

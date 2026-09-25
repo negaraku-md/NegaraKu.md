@@ -64,8 +64,9 @@ obligations:
     consequence: "Dissolution under s.459(5) does not start running until the return is lodged"
 
 lang: "ko"
+sourceContentHash: "4a39d9570c5bc4d4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

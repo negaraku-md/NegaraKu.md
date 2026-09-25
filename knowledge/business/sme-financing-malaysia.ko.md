@@ -33,8 +33,9 @@ verificationNeeded:
   - "TEKUN publishes no open or closed flag per scheme, and its Ar Rahnu 4u figures are typographically malformed on the live page"
 
 lang: "ko"
+sourceContentHash: "3e2ae8690cffc294"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

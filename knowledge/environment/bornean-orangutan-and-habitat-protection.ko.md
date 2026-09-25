@@ -34,8 +34,9 @@ faq:
     a: "반드시 그렇지는 않습니다. 조사에 따르면 데라마콧과 세가마처럼 잘 관리되고 지속가능하게 벌채된 산림의 개체군은 15년에 걸쳐 안정적으로 유지되었으며, 이는 생산림이 신중하게 관리되고 연결이 유지되는 한 오랑우탄이 그 안에서 존속할 수 있음을 보여줍니다."
 
 lang: "ko"
+sourceContentHash: "3e08558cd6bea030"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

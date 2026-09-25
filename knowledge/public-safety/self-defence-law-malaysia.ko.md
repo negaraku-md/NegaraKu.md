@@ -28,8 +28,9 @@ faq:
     a: "아닙니다. 제102조에 따르면 신체 방어의 권리는 합리적인 위험의 우려가 지속되는 동안에만 유지됩니다. 위협이 끝난 뒤에도 이어지는 행위는 방어가 아니라 보복 공격으로 간주될 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "7668765b92f13005"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

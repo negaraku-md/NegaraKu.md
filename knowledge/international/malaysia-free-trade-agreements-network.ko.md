@@ -30,8 +30,9 @@ faq:
     a: "아닙니다. MITI는 MEEPA가 2025년 6월 23일 서명되었으나 아직 발효되지 않았다고 밝히므로, 양측이 비준을 완료하기 전까지 수출업체와 수입업체는 그 특혜를 사용할 수 없습니다."
 
 lang: "ko"
+sourceContentHash: "2907ad666c9762d0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

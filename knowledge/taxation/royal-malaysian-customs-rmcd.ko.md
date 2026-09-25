@@ -28,8 +28,9 @@ faq:
   - q: "What service tax rate applies now?"
     a: "8% since 1 March 2024, up from 6%, except for food and beverage, parking, logistics and telecommunications services, which remain at 6%."
 lang: "ko"
+sourceContentHash: "e4e06f1218191c40"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

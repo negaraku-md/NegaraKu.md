@@ -33,8 +33,9 @@ verificationNeeded:
   - "Confirm the exact commencement instrument for Act A1651 against the Federal Gazette; the project source register records P.U.(B) 394/2022 for the 1 January 2023 date."
 
 lang: "ko"
+sourceContentHash: "ab52798a8bfb6a2f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

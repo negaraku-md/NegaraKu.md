@@ -38,8 +38,9 @@ faq:
     a: "The taxpayer. Paragraph 13 of Schedule 5 to the Income Tax Act 1967 places the onus of proving that an assessment is excessive or erroneous on the appellant. In practice this means invoices, agreements, payment vouchers and evidence that the service was actually delivered — several reported appeals have failed purely because the scope and purpose of the expense could not be documented."
 
 lang: "ko"
+sourceContentHash: "669796e4c8074cfe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

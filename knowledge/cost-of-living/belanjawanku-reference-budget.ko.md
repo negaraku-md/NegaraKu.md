@@ -29,8 +29,9 @@ faq:
     a: "아닙니다. Belanjawanku는 「합리적」 또는 여유로운 생활 수준을 위한 지출을 측정하며, 이는 생존을 위한 기본 필요만을 반영하는 빈곤선보다 높습니다."
 
 lang: "ko"
+sourceContentHash: "178a5bff85bb62f4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

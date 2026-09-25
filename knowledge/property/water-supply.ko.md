@@ -21,8 +21,9 @@ verificationNeeded:
   - "파항, 느그리슴빌란, 케다의 주 수도 회사 정확한 명칭은 span.gov.my에 열거되어 있으나 이 초안 작성 시 완전히 추출할 수 없었습니다; span.gov.my에서 직접 재확인이 필요합니다."
   - "사바와 사라왁의 구체적 법 체계(해당 주 법령/조례 명칭)는 이 초안 작성 시 공식 출처에서 직접 확인되지 않았습니다; PAAB는 두 주가 PAAB 모델에서 일반적으로 제외됨을 확인하지만, 전체 법적 세부사항은 재확인이 필요합니다."
 lang: "ko"
+sourceContentHash: "fb8c6f5861721815"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

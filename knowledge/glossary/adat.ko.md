@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "말레이 전통 법 체계를 이해하려는 모든 이 — 역사·법학·말레이시아학 전공 학생, 기자, 공무원, 그리고 아닷 프르파티와 아닷 트믕궁의 차이를 혼동하는 일반 독자."
 
 lang: "ko"
+sourceContentHash: "d4460bfefd0c039f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

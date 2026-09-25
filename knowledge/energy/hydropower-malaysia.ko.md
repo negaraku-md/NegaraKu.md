@@ -32,8 +32,9 @@ faq:
     a: "아닙니다. 412km²를 수몰시키고 약 2만 명을 이주시킬 것으로 예상되던 바람 댐은 2015년 모라토리엄으로 보류되었다가, 오랜 원주민 반대 이후 2016년에 공식 취소되었습니다."
 
 lang: "ko"
+sourceContentHash: "3900760aacdbc30f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

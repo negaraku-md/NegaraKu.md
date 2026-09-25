@@ -29,8 +29,9 @@ faq:
     a: "간호사는 간호법(Nurses Act 1950)에 따라 말레이시아 간호위원회가, 약사는 약사등록법(Registration of Pharmacists Act 1951, Act 371)에 따라 말레이시아 약사위원회가, 물리치료 같은 보건연계전문직은 보건연계전문직법(Allied Health Professions Act 2016, Act 774)에 따라 MAHPC가 등록합니다."
 
 lang: "ko"
+sourceContentHash: "3615da4185af8269"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

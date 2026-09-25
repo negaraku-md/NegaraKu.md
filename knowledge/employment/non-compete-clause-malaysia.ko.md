@@ -27,8 +27,9 @@ verificationNeeded:
   - "Confirm whether any Malaysian court has upheld a post-termination non-solicitation of customers clause as falling outside s.28"
 
 lang: "ko"
+sourceContentHash: "d5d94ae67835a159"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

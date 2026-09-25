@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "사바에 대한 사실적 프로필 — 그 지리, 경제, 정부 — 과 「1963년 말레이시아 협정」에 따른 헌법적 지위에 대한 중립적 설명을 찾는 독자."
 
 lang: "ko"
+sourceContentHash: "d05db2b4db752c79"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

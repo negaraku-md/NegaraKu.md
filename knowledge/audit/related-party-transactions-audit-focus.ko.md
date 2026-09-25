@@ -32,8 +32,9 @@ faq:
     a: "그것들은 별개의 층위입니다. ISA 550은 감사를 규율하고; MFRS 124는 재무제표에 무엇을 공시해야 하는지를 규율하며; Bursa 제10장은 기업 행위 — 상장 발행자가 언제 거래를 공시하고, 회람서를 발행하거나, 이해관계 있는 이사와 대주주가 기권한 가운데 사전 주주 승인을 받아야 하는지 — 를 규율합니다."
 
 lang: "ko"
+sourceContentHash: "ea0ecab6bfc0f793"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

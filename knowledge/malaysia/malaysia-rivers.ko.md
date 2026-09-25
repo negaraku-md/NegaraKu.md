@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Pelajar geografi dan sejarah Malaysia, serta sesiapa yang ingin memahami mengapa bandar-bandar utama di Sarawak, Sabah dan Pahang terletak di kedudukan sungai tertentu."
 
 lang: "ko"
+sourceContentHash: "c0dca023c22caa3e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

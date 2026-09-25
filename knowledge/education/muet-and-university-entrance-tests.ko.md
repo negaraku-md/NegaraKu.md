@@ -34,8 +34,9 @@ faq:
     a: "사립대학도 일반적으로 영어 능력 증빙을 요구합니다. 현지 학생은 보통 MUET 결과를 제출하며, IELTS나 TOEFL 같은 동등한 자격은 프로그램과 기관에 따라 인정될 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "06e545a5dcaf1477"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

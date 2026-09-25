@@ -32,8 +32,9 @@ faq:
     a: "The plan aims for AI to contribute over RM60 billion to GDP and to place Malaysia among the top 20 countries in global AI readiness by 2030, delivered through 28 initiatives."
 
 lang: "ko"
+sourceContentHash: "74e6c6495db49c10"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Operating without registration is an offence. Under Section 39, a body corporate faces a fine of RM10,000 to RM50,000 for a first offence and RM20,000 to RM100,000 for a subsequent one; an individual faces RM5,000 to RM25,000 or up to six months' imprisonment for a first offence."
 
 lang: "ko"
+sourceContentHash: "86582fd00a53a2cd"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

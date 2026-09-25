@@ -25,8 +25,9 @@ faq:
   - q: "e-LKM이란 무엇인가요?"
     a: "e-LKM은 JPJ가 2023년부터 도입한 디지털 자동차등록세(디지털 도로세)로, 실물 스티커를 대체합니다. MyJPJ 앱이나 MySIKAP 포털을 통해 접근할 수 있습니다."
 lang: "ko"
+sourceContentHash: "5feaacc87ec61a6a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

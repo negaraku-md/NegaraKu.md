@@ -29,8 +29,9 @@ faq:
     a: "개인의 경우 첫 위반에 최대 RM100,000의 벌금 및/또는 3년 이하의 징역, 이후 위반에 최대 RM250,000 및/또는 5년. 법인의 경우 최대 RM500,000, 이후 위반에 최대 RM1 million."
 
 lang: "ko"
+sourceContentHash: "8699ed0e058e98c7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

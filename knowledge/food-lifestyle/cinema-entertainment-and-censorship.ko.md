@@ -33,8 +33,9 @@ faq:
     a: "면허나 승인 없이 영화를 소지·배포·상영하는 것은 영화검열법 2002(Film Censorship Act 2002)에 따른 위반이며, RM5,000에서 RM30,000의 벌금 및/또는 최대 3년의 징역에 처해집니다."
 
 lang: "ko"
+sourceContentHash: "f25f07b35f2179e4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

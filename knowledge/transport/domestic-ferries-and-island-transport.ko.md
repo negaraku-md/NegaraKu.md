@@ -29,8 +29,9 @@ faq:
     a: "대개 불가능합니다. 많은 동해안 리조트와 선박 운영자가 북동 몬순으로 인한 험한 바다 때문에 대략 10월부터 2월까지 자발적으로 서비스를 중단합니다."
 
 lang: "ko"
+sourceContentHash: "baf74efaaf475bb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

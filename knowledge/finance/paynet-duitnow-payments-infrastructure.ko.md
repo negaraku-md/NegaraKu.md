@@ -29,8 +29,9 @@ faq:
     a: "네. DuitNow QR은 상호운용되므로, 가맹점의 단일 QR 코드를 Touch 'n Go eWallet, GrabPay, Boost 같은 서로 다른 은행과 전자지갑으로 — 참여하는 한 — 스캔할 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "d327e61449ac93b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

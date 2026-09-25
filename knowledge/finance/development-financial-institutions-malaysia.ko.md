@@ -30,8 +30,9 @@ faq:
     a: "말레이시아 중앙은행이 2002년 개발금융기관법(Development Financial Institutions Act 2002)에 따라 지정된 6개 DFI를 규제·감독하며, 이들이 재정적으로 건전하고 위임받은 역할을 신중하게 수행하도록 보장합니다."
 
 lang: "ko"
+sourceContentHash: "2cd551f54c730d34"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

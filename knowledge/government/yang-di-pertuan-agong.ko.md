@@ -38,8 +38,9 @@ verificationNeeded:
   - "Sahkan senarai pemilihan yang berkuat kuasa pada masa ini terhadap pengumuman rasmi Penyimpan Mohor Besar Raja-Raja."
 
 lang: "ko"
+sourceContentHash: "acdf97d3f8926008"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "입주 외국인 가사 도우미, 현지 시간제 도움, 또는 출산 후 산후조리 돌봄(유모 또는 산후조리원)을 고려하는 말레이시아 내 가정."
 
 lang: "ko"
+sourceContentHash: "1482c677a5d90d95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "고용주 의료 보장과 개인 메디컬 카드를 저울질하는 직원, 그리고 증권을 구입하거나 갱신하기 전에 '공동부담'이 무엇을 뜻하는지 이해하려는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "5d9b4b2567c4315f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

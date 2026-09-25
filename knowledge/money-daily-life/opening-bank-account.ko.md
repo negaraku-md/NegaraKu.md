@@ -25,8 +25,9 @@ verificationNeeded:
   - "BNM의 디지털 온보딩 / e-KYC 정책 페이지는 작성 시점에 자동 조회 시 403을 반환했습니다. 그 존재와 제목은 bnm.gov.my 검색 결과에서 직접 확인되지만, 세부 자격 사항은 접근 가능할 때 bnm.gov.my에서 직접 다시 확인해야 합니다."
 
 lang: "ko"
+sourceContentHash: "52307f4fb8c11cd2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

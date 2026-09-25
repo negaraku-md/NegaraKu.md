@@ -36,8 +36,9 @@ faq:
     a: "2020년 당시 에너지천연자원부 장관 다툭 닥터 샴술 아누아르 나사라(Datuk Dr Shamsul Anuar Nasarah)는 비용을 이유로 이 계획을 재검토해야 한다고 의회에 밝혔습니다. 정부에 약 50억 링깃(RM)의 재정 부담이 발생하고, 정부가 떠안아야 했을 600억~800억 링깃(RM)의 전력구매 의무가 추가된다는 것입니다. 이후 개혁은 단일한 대규모 자유화가 아니라 보다 작고 표적화된 단계로 진행되어 왔습니다."
 
 lang: "ko"
+sourceContentHash: "5e135be7df9c9a11"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

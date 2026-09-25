@@ -28,8 +28,9 @@ verificationNeeded:
   - "Where a proposed facility exceeds the RM100 million equivalent limit, the written approval process and its assessment criteria are not published in full; the FAQ notes only that BNM will take stated factors into account"
 
 lang: "ko"
+sourceContentHash: "7f6734fed0eab6e8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -36,8 +36,9 @@ faq:
     a: "MyDIGITAL direka untuk melengkapi dasar pembangunan negara seperti Rancangan Malaysia Ke-12 (RMKe-12) dan Wawasan Kemakmuran Bersama 2030 (WKB 2030), yang mengiktiraf ekonomi digital sebagai satu Aktiviti Pertumbuhan Ekonomi Utama."
 
 lang: "ko"
+sourceContentHash: "ac3f23832d2acdba"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

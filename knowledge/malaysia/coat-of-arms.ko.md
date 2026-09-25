@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Pelajar, guru, pegawai awam, wartawan dan sesiapa yang melihat Jata Negara pada pasport, syiling, surat kerajaan atau bangunan rasmi dan ingin mengenali maksud setiap elemennya."
 
 lang: "ko"
+sourceContentHash: "d089f6e067d44f67"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

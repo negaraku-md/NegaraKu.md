@@ -34,8 +34,9 @@ seoTitle: "부미푸트라(Bumiputera): 용어의 의미와 헌법적 근거"
 socialTitle: "부미푸트라 — 헌법에는 없지만 제153조·제160조·제161A조에 뿌리를 둔 용어"
 
 lang: "ko"
+sourceContentHash: "924aa904a876b274"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

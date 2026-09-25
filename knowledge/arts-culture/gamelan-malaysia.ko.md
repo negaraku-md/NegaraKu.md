@@ -33,8 +33,9 @@ faq:
     a: "Set gamelan asal dipulangkan ke Pahang pada 1973 dan dipamerkan di Muzium Pahang di Pekan."
 
 lang: "ko"
+sourceContentHash: "c60f9bc5987b416f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

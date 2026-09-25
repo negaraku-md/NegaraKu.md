@@ -34,8 +34,9 @@ faq:
     a: "아닙니다. 할랄 인증은 위생, 추적성, 품질 기준을 나타내며, 이 부문은 무슬림과 비무슬림 소비자 모두, 그리고 비무슬림 다수 수출 대상지에도 마케팅합니다."
 
 lang: "ko"
+sourceContentHash: "e86c482e092e1722"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

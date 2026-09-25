@@ -39,8 +39,9 @@ verificationNeeded:
   - "The Trademarks (Reduction of Fee) Regulations 2025 [P.U. (A) 315/2025] reduced the per-class filing fee by RM300 only for over-the-counter filings by applicants meeting the criteria in the Registrar's practice directions, between 1 September and 31 December 2025 — confirm whether any successor instrument has been gazetted"
 
 lang: "ko"
+sourceContentHash: "2b920571a13b0794"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

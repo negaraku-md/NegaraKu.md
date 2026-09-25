@@ -33,8 +33,9 @@ faq:
     a: "No. LHDN states that cancellation of an e-Ansuran application can only be done in person at an LHDN (HASiL) office — it cannot be done through the portal. The application itself is online and approval is automatic, but changing or cancelling it is a branch matter."
 
 lang: "ko"
+sourceContentHash: "f73e04ba5e0d7818"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

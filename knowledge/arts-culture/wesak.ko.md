@@ -18,8 +18,9 @@ keyTakeaways:
 appliesTo: "Anyone in Malaysia — Buddhist or not — who wants a plain, accurate account of what Wesak Day is, when it falls, and how it is observed, including employers and workers checking the public-holiday date."
 
 lang: "ko"
+sourceContentHash: "87814a02e5e75f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

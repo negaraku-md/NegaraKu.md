@@ -30,8 +30,9 @@ faq:
     a: "Boleh, tetapi hanya melalui proses Perkara 125. Perwakilan dibuat kepada Yang di-Pertuan Agong, yang kemudian menubuhkan tribunal terdiri daripada tidak kurang lima orang yang memegang atau pernah memegang jawatan hakim. Alasan terhad kepada pelanggaran kod etika atau ketidakupayaan menjalankan tugas."
 
 lang: "ko"
+sourceContentHash: "609ac0242c162e91"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

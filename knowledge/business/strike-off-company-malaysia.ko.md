@@ -57,8 +57,9 @@ obligations:
     consequence: "The striking off proceeds and the company is dissolved on Gazette publication"
 
 lang: "ko"
+sourceContentHash: "503507980af8cdbc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

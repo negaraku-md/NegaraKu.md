@@ -33,8 +33,9 @@ faq:
     a: "Two charges can apply. Transferring shares attracts ad valorem stamp duty of 0.3% (RM3 per RM1,000) on the higher of the consideration or the market value of the shares. And since capital gains tax took effect for companies in 2024, disposing of unlisted Malaysian company shares can trigger CGT — broadly 10% of the net gain. Relief from stamp duty may be available for transfers between associated companies, so confirm the current conditions before restructuring."
 
 lang: "ko"
+sourceContentHash: "f500684433842383"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ faq:
   - q: "Adakah Konfrontasi satu perang yang diisytiharkan?"
     a: "Tidak. Ia merupakan permusuhan bersenjata yang tidak diisytiharkan secara rasmi sebagai perang. Ia dijalankan terutamanya melalui serbuan rentas sempadan, penyusupan dan serangan terhad, bukan melalui pengisytiharan perang formal antara dua negara."
 lang: "ko"
+sourceContentHash: "08c14e8e17f8ad68"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

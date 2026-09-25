@@ -37,8 +37,9 @@ verificationNeeded:
   - "Confirm the Gazette notification reference by which MAICSA was prescribed as an approved body, and whether any terms or conditions were imposed under s.235(3)"
 
 lang: "ko"
+sourceContentHash: "b8d7278523a1c564"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

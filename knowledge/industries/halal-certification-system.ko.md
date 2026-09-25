@@ -36,8 +36,9 @@ faq:
     a: "절차 매뉴얼은 권한 있는 당국이 컨설턴트 같은 제3자나 중개인을 거치지 않고 기업 또는 신청자와 직접 업무를 처리해야 한다고 규정합니다. 컨설턴트는 서류 준비를 도울 수 있지만, 공식 신청과 소통은 신청자와 JAKIM/MAIN/JAIN 사이에 유지됩니다."
 
 lang: "ko"
+sourceContentHash: "7bb5b6fb5326f994"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

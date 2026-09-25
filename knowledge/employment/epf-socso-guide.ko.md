@@ -24,8 +24,9 @@ appliesTo: "Employers, HR and payroll administrators looking for the right statu
 verificationNeeded: []
 
 lang: "ko"
+sourceContentHash: "93eabace2772ea86"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

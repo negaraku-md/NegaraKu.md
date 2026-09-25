@@ -32,8 +32,9 @@ faq:
     a: "아닙니다. 외교부 영사국 자체에 따르면, 확인은 권한을 부여받은 담당관의 인장과 서명의 진정성만 확인하는 것이지 문서 내용의 진위를 확인하는 것이 아닙니다."
 
 lang: "ko"
+sourceContentHash: "1c942b9ac8cdb96c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

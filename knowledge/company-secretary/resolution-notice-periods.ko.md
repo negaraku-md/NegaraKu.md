@@ -67,8 +67,9 @@ obligations:
     consequence: "The meeting is not validly convened under s.309"
 
 lang: "ko"
+sourceContentHash: "1da247e6653d6ad4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

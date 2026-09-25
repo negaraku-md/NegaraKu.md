@@ -43,8 +43,9 @@ verificationNeeded:
   - "The widely repeated claim that the committee must meet the external auditor twice a year without executive directors present has no basis in Chapter 15, which says only whenever deemed necessary — it may originate in a guidance document not retrieved here"
 
 lang: "ko"
+sourceContentHash: "fc979f0822a6b94f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

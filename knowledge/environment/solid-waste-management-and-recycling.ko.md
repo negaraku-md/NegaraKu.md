@@ -31,8 +31,9 @@ faq:
     a: "대부분은 매립지로 갑니다. 말레이시아는 135개 매립지 — 114개 개방형 투기장과 22개 위생 매립지 — 를 운영하며, 매립지가 여전히 국가의 지배적 처리 방식입니다."
 
 lang: "ko"
+sourceContentHash: "1d664666863d04f5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "Yes. Where the debt is genuinely (bona fide) disputed on substantial grounds, the company can apply for a Fortuna injunction to restrain the creditor from presenting the petition, since winding up should not be used to enforce a disputed claim."
 
 lang: "ko"
+sourceContentHash: "b91e135cb6354783"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "각 대원의 등록 기간은 등록일로부터 5년이며, 청장 또는 권한을 위임받은 관리가 연장할 수 있습니다(제9조)."
 
 lang: "ko"
+sourceContentHash: "a347a3b7cad0cfbb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

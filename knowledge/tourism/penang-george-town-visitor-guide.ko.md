@@ -36,8 +36,9 @@ faq:
     a: "페낭은 덥고 습한 열대 기후의 연중 목적지입니다. 어느 달에나 비가 내릴 수 있지만 대체로 계절풍 전환기 무렵(대략 4~5월과 9~11월)에 가장 많습니다; 12월부터 2월까지의 더 건조하고 서늘한 구간이 인기입니다. 아침과 늦은 오후가 걷기에 가장 쾌적한 시간입니다."
 
 lang: "ko"
+sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

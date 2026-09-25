@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "말레이시아 법에서 「샤리아」라는 용어의 의미와 샤리아 법원의 관할이 왜 주마다 다른지 이해하려는 모든 이."
 
 lang: "ko"
+sourceContentHash: "2bb646d77c8ab722"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

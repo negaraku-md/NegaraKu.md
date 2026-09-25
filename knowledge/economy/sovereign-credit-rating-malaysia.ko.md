@@ -32,8 +32,9 @@ faq:
     a: "등급이 높으면 정부가 채권에 지불하는 이자가 낮아져 예산 여력이 생기고 전반적인 차입 비용이 안정됩니다. 등급은 또한 링깃 자산에 대한 외국인 투자자 수요를 좌우하여 간접적으로 통화에 영향을 줍니다."
 
 lang: "ko"
+sourceContentHash: "2be52c4fe36e74d8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

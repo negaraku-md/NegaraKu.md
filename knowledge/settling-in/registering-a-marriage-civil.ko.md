@@ -25,8 +25,9 @@ verificationNeeded:
   - "어느 한 당사자가 이전에 혼인했거나 외국 국민인 경우, 당신 사안에 필요한 구체적 증빙 서류(이혼 판결서, 사망 증명서, 대사관의 미혼 상태 확인서)를 JPN 창구에 확인할 것. 이는 상황에 따라 다름."
 
 lang: "ko"
+sourceContentHash: "6a489eafa5d0a4e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

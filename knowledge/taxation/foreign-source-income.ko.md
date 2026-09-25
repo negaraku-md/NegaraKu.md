@@ -42,8 +42,9 @@ verificationNeeded:
   - "The exact P.U.(A) number for the amendment extending the company/LLP foreign-DIVIDEND exemption (Income Tax (Exemption) (No. 6) Order 2022, P.U.(A) 235/2022) to 31 December 2030 — the capital-asset (P.U.(A) 275/2026) and unit-trust (P.U.(A) 270/2026) siblings are confirmed gazetted, and firms report the dividend order extended in the same late-July 2026 batch, but its own P.U.(A) number could not be pinned to a primary Gazette text. Confirm before relying on a 2030 dividend expiry"
 
 lang: "ko"
+sourceContentHash: "e5a0172051099281"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

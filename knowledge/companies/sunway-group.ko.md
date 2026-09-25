@@ -29,8 +29,9 @@ faq:
     a: "그렇습니다. Sunway Healthcare Holdings는 2026년 3월 18일 Bursa Malaysia 메인마켓에 SUNMED로 상장되었습니다. 앞서 싱가포르의 GIC가 2021년 6월 의료 사업 지분 16%를 위해 RM7.5억을 투자하기로 합의했습니다."
 
 lang: "ko"
+sourceContentHash: "b41845c9552f7efc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

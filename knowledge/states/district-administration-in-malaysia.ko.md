@@ -33,8 +33,9 @@ faq:
     a: "무킴(mukim)은 군 아래의 하위 구획으로, 주로 토지 행정을 위한 단위입니다. 펑훌루(penghulu)는 군 토지 행정 아래에서 무킴 단위의 관할권을 행사하는 관리입니다."
 
 lang: "ko"
+sourceContentHash: "a75e04e291488dd9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

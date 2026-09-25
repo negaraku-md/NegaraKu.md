@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "말레이시아 인플레이션 보도를 정확히 읽으려는 모든 사람 — 가계, 임금을 책정하는 고용주, 분석가."
 
 lang: "ko"
+sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

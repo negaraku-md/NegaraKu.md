@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Visitors planning a museum itinerary, students and researchers wanting the institutional history behind Malaysia's major collections, and anyone who assumed Muzium Negara was the country's oldest museum."
 
 lang: "ko"
+sourceContentHash: "8802106dd859b55e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

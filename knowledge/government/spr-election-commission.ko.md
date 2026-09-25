@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Sesiapa yang mahu memahami kedudukan perlembagaan badan yang mengendalikan pilihan raya di Malaysia — pelajar, penyelidik, wartawan dan pembaca umum — serta peruntukan Perlembagaan yang menetapkan mandat, keanggotaan dan jaminan tempoh jawatan SPR."
 
 lang: "ko"
+sourceContentHash: "6a46ae533ead9e08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

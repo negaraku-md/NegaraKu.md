@@ -37,8 +37,9 @@ verificationNeeded:
   - "Sahkan jumlah keahlian Jemaah Menteri dan senarai kementerian semasa terhadap penerbitan rasmi Jabatan Perdana Menteri — Perlembagaan tidak menetapkan bilangan Menteri."
 
 lang: "ko"
+sourceContentHash: "0f9a6fea7774269c"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

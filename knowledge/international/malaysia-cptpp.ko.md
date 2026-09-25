@@ -34,8 +34,9 @@ faq:
     a: "국영기업 및 지정 독점기업, 지식재산, 노동, 환경, 정부조달, 전자상거래 및 국경 간 데이터 이동, 그리고 투자(투자자-국가 분쟁 해결 포함)에 관한 구속력 있는 규정입니다. 말레이시아는 이행 기간과 부속서한을 확보하였으며 — 예를 들어 페트로나스(PETRONAS)에 대한 보호와 자국 국영기업에 대한 유연성이 이에 해당합니다."
 
 lang: "ko"
+sourceContentHash: "9c8e25e6d3236954"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

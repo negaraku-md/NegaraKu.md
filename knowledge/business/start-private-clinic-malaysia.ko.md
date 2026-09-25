@@ -33,8 +33,9 @@ faq:
     a: "Act 586에 따라 등록되지 않은 민간 의원이나 치과를 운영하는 것은 범죄입니다. 보건부는 미등록 또는 무면허 시설에서 의료 서비스를 제공하면 무거운 벌금과 징역 가능성이 따를 수 있고, 단속 조치로 시설을 폐쇄할 수 있다고 밝혔습니다. 등록은 나중에 따라잡을 형식이 아닙니다 — 환자를 보기 전에 갖추어져야 합니다."
 
 lang: "ko"
+sourceContentHash: "950bc0096186009c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

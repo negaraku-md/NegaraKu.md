@@ -41,8 +41,9 @@ verificationNeeded:
   - "Whether the betting and gaming carve-out for casinos and gaming machines has been lifted — LHDN states it applies until further notice with no end date published"
 
 lang: "ko"
+sourceContentHash: "881bae66be5fb011"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

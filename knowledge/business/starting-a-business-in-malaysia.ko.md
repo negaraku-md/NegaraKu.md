@@ -29,8 +29,9 @@ faq:
   - q: "신설 회사는 언제 소득세와 SST를 등록해야 하나요?"
     a: "신설된 Sdn Bhd는 e-Daftar를 통해 말레이시아 국세청(LHDN)에 별도의 소득세 파일을 등록해야 하며, 이때 고유의 납세자 식별번호(TIN)가 발급됩니다 — 이는 SSM이 자동으로 해주지 않습니다. 또한 첫 기준기간이 최소 6개월인 경우, 영업 개시 후 3개월 이내에 첫 세액 추정치(CP204)를 제출해야 합니다. 판매·서비스세(SST) 등록은 연간 과세 매출이 RM500,000 기준을 초과하면 의무가 됩니다."
 lang: "ko"
+sourceContentHash: "187b776d2f8aa2b3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

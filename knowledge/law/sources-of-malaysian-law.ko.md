@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Law students and researchers mapping the Malaysian legal system for the first time, anyone trying to work out which body of law governs a given question, and readers who keep seeing 'common law country' and 'Islamic law' and 'adat' used side by side without being told how they actually relate."
 
 lang: "ko"
+sourceContentHash: "f4b71230618caa4c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

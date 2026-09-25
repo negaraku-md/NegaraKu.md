@@ -35,8 +35,9 @@ faq:
     a: "제106조는 조정 기구에의 회부가 요구되지 않는 예외를 열거합니다 — 예컨대 제51조(개종) 및 제52조(상호 합의)에 따른 청원, 또는 배우자의 소재를 알 수 없거나, 피청원인이 해외에 거주하며 6개월 이내에 관할권 내로 들어올 가능성이 낮거나, 고의로 출석하지 않았거나, 5년 이상 수감되어 있거나, 불치의 정신 질환이 있다고 주장되거나, 예외적 상황으로 회부가 비현실적이라고 법원이 확신하는 경우."
 
 lang: "ko"
+sourceContentHash: "608158d08520f03a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

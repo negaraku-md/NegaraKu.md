@@ -41,8 +41,9 @@ verificationNeeded:
   - "Whether IMFC-J is the only regional extension of the IMFC model, or whether further IMFC sites have opened since the government's stated intention to expand it in 2026"
 
 lang: "ko"
+sourceContentHash: "e0c5ddbcc6a8b0ca"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

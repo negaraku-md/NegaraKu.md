@@ -31,8 +31,9 @@ faq:
     a: "반도의 해양공원은 어업법 1985에 따라 관보에 지정됩니다. 이는 섬에서 2해리의 보호 구역을 만들어 산란 중인 바다거북을 방해하거나 새끼 거북을 채취하는 등의 활동을 금지합니다."
 
 lang: "ko"
+sourceContentHash: "3ba84882f4818881"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Court filing fees and insolvency practitioner remuneration for each mechanism are not published centrally and no cost range is stated here"
 
 lang: "ko"
+sourceContentHash: "38faab1c30546d02"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

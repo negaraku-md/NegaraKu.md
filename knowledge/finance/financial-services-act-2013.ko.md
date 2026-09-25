@@ -25,8 +25,9 @@ faq:
   - q: "FSA 2013과 IFSA 2013의 차이는 무엇입니까?"
     a: "FSA(Act 758)는 전통 금융기관과 시장을 규율하며, 이슬람금융서비스법(Islamic Financial Services Act 2013, IFSA)은 그 샤리아 준수 대응 법률입니다. 두 법률 모두 2013년 6월 30일에 시행되었습니다; 전통 법률(예: 1989년 은행·금융기관법 및 1996년 보험법)은 FSA에 따라 폐지되었고, 1983년 이슬람은행법(Islamic Banking Act 1983)과 1984년 타카풀법(Takaful Act 1984)은 IFSA에 따라 폐지되었습니다."
 lang: "ko"
+sourceContentHash: "fd80ff13fe1dede7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

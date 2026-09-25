@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "말레이시아의 퇴직 저축 체계를 이해하려는 고용주, HR팀, 근로자."
 
 lang: "ko"
+sourceContentHash: "c90387d901bf5d08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

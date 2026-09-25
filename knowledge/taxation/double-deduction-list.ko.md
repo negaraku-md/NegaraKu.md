@@ -28,8 +28,9 @@ verificationNeeded:
   - "Whether P.U.(A) 164/2019 was further extended beyond YA2025 by an instrument gazetted after this page was written."
 
 lang: "ko"
+sourceContentHash: "94db45958fc37cd4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

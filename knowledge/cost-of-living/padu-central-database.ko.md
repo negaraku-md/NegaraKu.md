@@ -29,8 +29,9 @@ faq:
     a: "아닙니다. 정부에 따르면 PADU의 데이터 수집은 법적 제약으로 인해 은행 정보 시스템을 포함하지 않습니다."
 
 lang: "ko"
+sourceContentHash: "47282ce02fd5a43d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

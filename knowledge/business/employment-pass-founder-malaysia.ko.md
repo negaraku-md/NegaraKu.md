@@ -62,8 +62,9 @@ obligations:
     consequence: "A change in allotment can affect the pass holder's eligibility"
 
 lang: "ko"
+sourceContentHash: "55c7c72a565b9b9a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

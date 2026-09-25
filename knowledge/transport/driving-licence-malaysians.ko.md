@@ -26,8 +26,9 @@ verificationNeeded:
   - "CDL 신청을 이제 MyJPJ 앱을 통해 전면적으로 온라인으로 할 수 있는지 여부 — 검토한 JPJ 서비스 페이지는 신청이 주 JPJ 창구에서만 이루어진다고 명시하지만, 이는 검토일 이후 변경되었을 수 있습니다"
 
 lang: "ko"
+sourceContentHash: "994f31cbd16cea0e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

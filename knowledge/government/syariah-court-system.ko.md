@@ -34,8 +34,9 @@ faq:
     a: "Susunan tiga peringkat — Mahkamah Rendah Syariah, Mahkamah Tinggi Syariah dan Mahkamah Rayuan Syariah — adalah lazim, tetapi setiap negeri menubuhkannya melalui enakmen negerinya sendiri, manakala Wilayah Persekutuan diatur oleh Akta 505. Had bidang kuasa mal dari segi nilai wang ditetapkan oleh enakmen atau akta masing-masing dan boleh berbeza antara negeri."
 
 lang: "ko"
+sourceContentHash: "8fac45bc244e70ad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

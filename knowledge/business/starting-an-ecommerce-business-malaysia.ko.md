@@ -33,8 +33,9 @@ faq:
     a: "판매자로서는 아닙니다. 결제 게이트웨이에 온보딩하며, 이것이 사업 검증 단계를 처리합니다; 말레이시아 중앙은행(BNM)의 승인을 받아야 하는 것은 당신이 아니라 결제 게이트웨이 운영자입니다. 판매하는 것에 따라 부문별 규칙이 여전히 적용될 수 있습니다 — 예를 들어 화장품과 건강제품은 판매 채널과 무관하게 해당 규제기관에 통보가 필요합니다."
 
 lang: "ko"
+sourceContentHash: "beb54faa40df4583"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

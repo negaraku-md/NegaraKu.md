@@ -38,8 +38,9 @@ faq:
     a: "No. The Cyber Security Act governs the security and resilience of critical infrastructure. Personal-data privacy is governed separately by the Personal Data Protection Act 2010. An organisation can be subject to both."
 
 lang: "ko"
+sourceContentHash: "3cca544d70c1185a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

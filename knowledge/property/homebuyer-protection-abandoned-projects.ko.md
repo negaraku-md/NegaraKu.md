@@ -33,8 +33,9 @@ faq:
     a: "심판원 재정은 최종적이고 구속력이 있으며 법원 명령처럼 집행할 수 있습니다. 재정 불이행은 RM10,000에서 RM50,000의 벌금 또는 최대 2년의 징역, 또는 두 가지 모두에 처해질 수 있는 범죄입니다."
 
 lang: "ko"
+sourceContentHash: "f08885d66ba27130"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

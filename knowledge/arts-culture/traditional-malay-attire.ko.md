@@ -35,8 +35,9 @@ faq:
     a: "Tidak. Baju kurung ialah baju labuh yang longgar dan menutup bentuk badan, dipakai dengan kain. Kebaya pula ialah baju berbelah depan yang lebih mengikut bentuk badan, dikancing dengan kerongsang (brooch) atau butang, dan dipadankan dengan sarung. Kebaya biasanya lebih pas di badan berbanding baju kurung."
 
 lang: "ko"
+sourceContentHash: "f68d5254e084ffde"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

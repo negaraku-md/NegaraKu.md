@@ -31,8 +31,9 @@ faq:
     a: "식품 시설은 식품위생규정 2009에 따라 관리됩니다. 소비자는 뜨겁고 신선한 음식을 내는 A 또는 B 등급 노점을 고르고, 보통 게시된 등급 표시를 확인하도록 권장됩니다."
 
 lang: "ko"
+sourceContentHash: "1f2264f16a54722d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

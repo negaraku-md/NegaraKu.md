@@ -41,8 +41,9 @@ verificationNeeded:
   - "MASB가 발행한 기준에 대조하여 현행 MFRS 124 공시 요건 및 해당 회계연도에 유효한 개정을 확인할 것"
 
 lang: "ko"
+sourceContentHash: "cc898ee41c4b1308"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

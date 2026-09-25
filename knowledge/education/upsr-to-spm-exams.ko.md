@@ -21,8 +21,9 @@ verificationNeeded:
   - "폼 3 학습 매트릭스(2027년 시작)의 전체 형식과 과목 세부 사항은 이 초안 작성 당시 시험국 공식 사이트에 상세히 확인되지 않음; 2026년 4학년 일정(4개 핵심 과목)만 확인됨. 폼 3 초안이 발행되면 lp.moe.gov.my에서 다시 확인할 것."
   - "국가교육자문회의(MPPK)가 UPSR/PT3 재검토 전체 보고서를 내각에 제출했는지는 이 초안 작성 당시 공식 자료에서 확인할 수 없음; 2026년 1월 장관 성명을 이용 가능한 최신 입장으로 삼음."
 lang: "ko"
+sourceContentHash: "4ac5d1a1458b81d6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

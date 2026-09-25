@@ -34,8 +34,9 @@ faq:
     a: "Macaranga 보도에 따르면, 환경질법 1974(Environmental Quality Act 1974)의 2023년 개정은 오염 범죄에 대해 최소 RM5,000, 최대 RM10 million의 벌금과 5년 이하의 의무 징역을 규정했습니다. 슬랑오르 하천 보류지 제도(LUAS 조례 1999 제48조 (1)항)에 따른 범죄의 경우 벌칙은 RM50,000 이하의 벌금 또는 2년 이하의 징역, 또는 둘 다입니다. 이 1974년 법 개정 수치는 2차 보도에서 나온 것으로 공식 관보 원문과 대조하여 확인해야 합니다."
 
 lang: "ko"
+sourceContentHash: "1a7e38792ecc17c4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

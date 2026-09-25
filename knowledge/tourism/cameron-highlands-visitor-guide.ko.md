@@ -31,8 +31,9 @@ faq:
     a: "이는 세마이(Semai) 마을로 들어가는 가이드 문화 방문으로, 대개 블로우파이프(취관) 시연과 숲 생계 방식에 대한 설명이 포함됩니다. 평판이 좋은 현지 가이드와 함께 가고, 사람을 촬영하기 전에 먼저 양해를 구하며, 구경거리가 아니라 존중하는 문화 교류로 대하십시오."
 
 lang: "ko"
+sourceContentHash: "3402603241935266"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ faq:
     a: "Di bawah seksyen 593 Akta Syarikat 2016, penyata atau laporan palsu kepada Pendaftar (SSM) boleh dihukum penjara sehingga 10 tahun, denda sehingga RM3 juta, atau kedua-duanya."
 
 lang: "ko"
+sourceContentHash: "e1c1cbfc3de7c89d"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

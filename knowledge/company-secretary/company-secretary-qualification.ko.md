@@ -56,8 +56,9 @@ obligations:
     consequence: "Fine not exceeding RM10,000 on conviction"
 
 lang: "ko"
+sourceContentHash: "ed068401ca2edfe2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -40,8 +40,9 @@ faq:
     a: "No. Each State constitutes its own Syariah courts under its own enactment, and the Federal Territories have theirs under Act 505. Jabatan Kehakiman Syariah Malaysia, an agency under the Prime Minister's Department, describes its role as coordinating and standardising the administration of Syariah law and judiciary across Malaysia — coordination, not a single national court."
 
 lang: "ko"
+sourceContentHash: "871806c1d22f2076"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

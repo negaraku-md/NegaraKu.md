@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "말레이시아 팜유 산업과 그 경제적 역할을 개괄적 수준에서 이해하고자 하는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "15826b7bb2b208ce"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

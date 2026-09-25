@@ -29,8 +29,9 @@ faq:
     a: "Bagi pertaruhan Sports Toto RM2, 8% (16 sen) dipotong sebagai cukai permainan dan 8% lagi (14.72 sen) sebagai duti pertaruhan pool; kira-kira 55% (RM1.10) diperuntukkan sebagai hadiah."
 
 lang: "ko"
+sourceContentHash: "156aadc5edee33a0"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

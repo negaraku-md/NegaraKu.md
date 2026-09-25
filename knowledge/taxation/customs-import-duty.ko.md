@@ -31,8 +31,9 @@ faq:
     a: "Consignments valued at RM500 or less are generally exempt from import duty and sales tax at the border. However, since 1 January 2024 a separate 10% sales tax on Low Value Goods applies to such items sold online and shipped into Malaysia, collected by the registered seller or marketplace."
 
 lang: "ko"
+sourceContentHash: "49578a6ca3069696"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

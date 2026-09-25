@@ -36,8 +36,9 @@ verificationNeeded:
   - "6개 고정 가격 / 12개 변동 가격 구분은 PNB의 2025년 12월 19일 보도자료(총 18개 펀드, 그중 12개 변동 가격)에서 파생된 것입니다 — 다음 검토 시 ASNB 펀드 목록과 대조하여 재확인할 것"
 
 lang: "ko"
+sourceContentHash: "1c4aaf1e059aa22b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

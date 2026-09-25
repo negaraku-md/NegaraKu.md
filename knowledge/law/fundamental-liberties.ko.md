@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Anyone who wants to know, article by article, what Part II of the Federal Constitution actually guarantees and what restrictions it expressly permits."
 
 lang: "ko"
+sourceContentHash: "268ae1dcdac3c251"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

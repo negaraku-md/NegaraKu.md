@@ -23,8 +23,9 @@ appliesTo: "헤드라인 도착 수치를 인용하기보다 말레이시아 관
 seoTitle: "말레이시아 관광 통계: 도착객 대 수입"
 
 lang: "ko"
+sourceContentHash: "396de79b31be6ee8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

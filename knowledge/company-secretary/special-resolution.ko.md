@@ -29,8 +29,9 @@ faq:
   - q: "Which decisions require a special resolution?"
     a: "Altering, adopting or revoking the constitution (section 36), changing the company name (section 28), reducing share capital by the court route (section 116) or the solvency-statement route (section 117), and commencing a members' voluntary winding up (section 439) all require a special resolution."
 lang: "ko"
+sourceContentHash: "b65d4a86d107f772"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

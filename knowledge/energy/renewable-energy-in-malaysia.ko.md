@@ -27,8 +27,9 @@ faq:
   - q: "기업은 자체 패널을 설치하지 않고 어떻게 재생에너지를 구매할 수 있습니까?"
     a: "기업 그린전력 프로그램(CGPP)은 기업 소비자가 태양광 발전사업자와 재생에너지 및 그 녹색 속성에 대한 가상 전력구매계약을 체결하게 하며, 확고한 공급은 전력회사가 뒷받침합니다. 그 800MW 쿼터는 2023년 11월 완전히 소진되었습니다. 이를 놓친 기업은 2024년 9월 출범한 기업 재생에너지 공급제도(CRESS)를 이용할 수 있으며, 이는 시스템 접근요금을 받고 TNB 그리드를 통해 그린 전력을 전달합니다."
 lang: "ko"
+sourceContentHash: "739ef0391be9be93"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

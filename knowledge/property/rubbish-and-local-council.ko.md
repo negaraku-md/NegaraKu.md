@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "말레이시아에 거주하며 자기 지역의 쓰레기를 누가 수거하는지, 발생원 폐기물 분리 의무가 있는지, 그리고 하지 않으면 어떤 위험이 있는지 이해해야 하는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "0280d12a6ccc5b9e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

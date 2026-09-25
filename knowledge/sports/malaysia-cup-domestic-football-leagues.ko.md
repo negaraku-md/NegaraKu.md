@@ -31,8 +31,9 @@ faq:
     a: "MFL이 AFC 형식에 맞추기 위해 일정을 이동했다. 새 시즌은 2024년 5월에 시작해 2025년 4월에 끝났으며, AFC 아시안컵, 2026 월드컵 예선, 라마단을 고려했다."
 
 lang: "ko"
+sourceContentHash: "fdb11bb0fa6c116e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

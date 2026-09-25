@@ -31,8 +31,9 @@ faq:
     a: "재무부는 경유 합리화가 시작된 2024년 6월 10일 이후 연 약 RM50억의 절감을 추정합니다."
 
 lang: "ko"
+sourceContentHash: "fb230f3e8cc5eada"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

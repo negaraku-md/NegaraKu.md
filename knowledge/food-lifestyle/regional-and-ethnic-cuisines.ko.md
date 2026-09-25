@@ -34,8 +34,9 @@ faq:
     a: "네, 다만 점점 위기에 처한 것으로 여겨집니다. 크리스탕 요리는 믈라카의 포르투갈-아시아 혼혈 유라시안 공동체의 전통으로, 식초, 겨자씨, 캔들넛을 쓰는 카리 드발(악마의 카레) 같은 음식이 있습니다. 젊은 세대가 점점 덜 물려받기에, 믈라카의 몇몇 식당과 요리 교실이 이 전통을 지키려 애쓰고 있습니다."
 
 lang: "ko"
+sourceContentHash: "b5facc6867b131b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

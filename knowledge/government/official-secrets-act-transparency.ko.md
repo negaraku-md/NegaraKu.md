@@ -30,8 +30,9 @@ faq:
     a: "Di peringkat persekutuan, tiada undang-undang kebebasan maklumat yang berkuat kuasa setakat penyediaan draf ini. Hanya negeri Selangor (diwartakan 2011, berkuat kuasa 2013) dan Pulau Pinang (Enakmen 2010) mempunyai enakmen kebebasan maklumat, yang terhad kepada maklumat di bawah bidang kuasa kerajaan negeri berkenaan. Sebuah rang undang-undang persekutuan dibentangkan pada Julai 2026."
 
 lang: "ko"
+sourceContentHash: "55b6d981106fab77"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

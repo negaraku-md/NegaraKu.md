@@ -40,8 +40,9 @@ verificationNeeded:
   - "소득세법 s.77A(4)에 관한 LHDN 발표의 현재 문구와 상태를 LHDN에 직접 확인할 것 — 작성 시점에 해당 발표 페이지에 접근할 수 없었으며, 여기서는 SSM의 감사 면제 FAQ를 통해 인용함"
   - "SSM MBRS 페이지에서 현행 MBRS 2.0 의무 적용 단계 일자 및 진입점을 확인할 것"
 lang: "ko"
+sourceContentHash: "10c01141306ea188"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

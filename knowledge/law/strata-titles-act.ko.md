@@ -29,8 +29,9 @@ faq:
     a: "Kepada Tribunal Pengurusan Strata, yang mengendalikan tuntutan sehingga RM250,000 dengan lebih cepat dan murah berbanding mahkamah. Pesuruhjaya Bangunan (COB) di pihak berkuasa tempatan pula menguatkuasakan pematuhan akta."
 
 lang: "ko"
+sourceContentHash: "788e401fa0ccd9ab"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Pelajar, penyelidik, wartawan dan sesiapa yang ingin memahami asas perlembagaan dan fungsi Jabatan Audit Negara serta Laporan Ketua Audit Negara."
 
 lang: "ko"
+sourceContentHash: "a99d9463d1497fd3"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

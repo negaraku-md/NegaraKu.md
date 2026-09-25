@@ -58,8 +58,9 @@ obligations:
     statute: "Companies Act 2016, s.240"
 
 lang: "ko"
+sourceContentHash: "28d74acfb2cc37e2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

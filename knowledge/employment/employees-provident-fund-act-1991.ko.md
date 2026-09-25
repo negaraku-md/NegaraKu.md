@@ -26,8 +26,9 @@ faq:
   - q: "Do foreign workers have to contribute to EPF?"
     a: "Yes. Effective 1 October 2025, EPF contributions became mandatory for non-Malaysian citizen employees, with the employer and employee each contributing 2% of monthly wages. Non-citizens over age 75 are not required to register or contribute."
 lang: "ko"
+sourceContentHash: "ef3ed3901e1145d3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

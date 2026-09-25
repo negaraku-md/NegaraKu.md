@@ -31,8 +31,9 @@ faq:
     a: "국가 파트와 위원회는 1970년 6월 23~24일 회의에서, 생명을 구하기 위한 긴급 필요, 매매 요소가 없을 것, 기증자나 그 상속인의 동의를 받을 것 등의 조건 아래 장기 기증을 하루스(허용됨)로 결정했습니다. 이 파트와는 이후 다른 장기와 조직으로 확대되었습니다."
 
 lang: "ko"
+sourceContentHash: "55867275b6260a32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

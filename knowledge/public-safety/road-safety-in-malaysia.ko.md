@@ -35,8 +35,9 @@ faq:
     a: "2007년 설립된 말레이시아 도로안전연구원(MIROS)이 증거 기반 연구를 수행하며, JPJ 도로안전부(이전 JKJR)가 옹호와 인식 제고를 이끕니다. 둘 다 교통부 산하에 있습니다."
 
 lang: "ko"
+sourceContentHash: "681af11f157961d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -35,8 +35,9 @@ faq:
     a: "There is no fixed checklist, but the GIACC Guidelines on Adequate Procedures set out five principles known by the acronym T.R.U.S.T. that a court is likely to weigh when deciding whether procedures were adequate."
 
 lang: "ko"
+sourceContentHash: "6d976fa3bddc473d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

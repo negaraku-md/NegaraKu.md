@@ -33,8 +33,9 @@ faq:
     a: "Within 30 days after the option acceptance period expires, the employer must notify the Inland Revenue Board of the scheme (a notification under section 83 of the Income Tax Act 1967). When an employee exercises, the employer reports the perquisite in that employee's EA form for the year, submits the exercise details to its LHDN branch, and deducts tax through the monthly tax deduction (or a CP38 directive) in the month of exercise."
 
 lang: "ko"
+sourceContentHash: "e702999cb1629878"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

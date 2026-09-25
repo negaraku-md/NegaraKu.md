@@ -16,8 +16,9 @@ keyTakeaways:
   - "The company took its current name only in 1992, after a 1979 royal warrant from the Sultan of Selangor."
 appliesTo: "Anyone curious about Malaysian craft traditions, tin-mining history, or Royal Selangor"
 lang: "ko"
+sourceContentHash: "ab235dfd3f4f5c67"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -29,8 +29,9 @@ faq:
     a: "양측은 2025년 1월 회담 후 Petros가 사라왁 가스 애그리게이터(LNG 제외)가 되는 데 합의했으며, Petros는 2025년 3월 1일부터 애그리게이터로 활동하기 시작했습니다. 그러나 일부 법률 해석 차이와 상업적 세부 사항은 여전히 협상 중입니다."
 
 lang: "ko"
+sourceContentHash: "9fa405873e618d18"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

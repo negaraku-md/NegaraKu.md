@@ -29,8 +29,9 @@ verificationNeeded:
   - "BNM's own Gazette Order page for payment systems does not list P.U.(A) 468/2024, which amends the registered business requirements — treat that index as incomplete and check the AGC gazette portal"
 
 lang: "ko"
+sourceContentHash: "312edd8d349c774c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

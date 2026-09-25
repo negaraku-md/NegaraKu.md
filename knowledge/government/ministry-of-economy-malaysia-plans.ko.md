@@ -35,8 +35,9 @@ faq:
     a: "Tidak. Rancangan Malaysia dibentangkan sebagai usul dasar untuk perbahasan dan kelulusan Parlimen, bukan sebagai rang undang-undang seperti Rang Undang-Undang Perbekalan yang menjadi asas Belanjawan tahunan."
 
 lang: "ko"
+sourceContentHash: "6ea99ed513582ab7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "Hari Malaysia menjadi cuti umum persekutuan di seluruh negara hanya beberapa dekad selepas persekutuan dibentuk. Sebelum itu, 16 September hanya cuti di sesetengah wilayah dan tidak diraikan secara seragam di peringkat kebangsaan, walaupun ia telah menjadi tarikh pembentukan persekutuan sejak 1963."
 
 lang: "ko"
+sourceContentHash: "25064de19f113798"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

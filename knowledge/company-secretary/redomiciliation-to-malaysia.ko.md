@@ -35,8 +35,9 @@ faq:
     a: "Yes. Section 133 permits transfer from Labuan with the Authority's approval, provided the destination's laws authorise it, the holders of not less than three-fourths of the shares of each class and of any debentures of each class and all the directors consent, notice of intention is published in a Labuan newspaper at least 30 days beforehand, and a director's affidavit listing creditors and stating the transfer is unlikely to be detrimental to members, debenture-holders or creditors is filed."
 
 lang: "ko"
+sourceContentHash: "8ccef2426ade3a45"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

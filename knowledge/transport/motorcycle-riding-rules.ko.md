@@ -29,8 +29,9 @@ faq:
     a: "발행 시점까지, 발효 중인 배기량 제한은 없습니다; 배기량에 따라 고속도로 진입을 제한하자는 제안은 아직 법이 되지 않았습니다."
 
 lang: "ko"
+sourceContentHash: "1c36a26778aafc7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

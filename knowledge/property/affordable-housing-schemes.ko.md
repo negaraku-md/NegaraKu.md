@@ -31,8 +31,9 @@ faq:
     a: "유예기간이란 승인 없이 주택을 재매각하는 것이 금지되는 기간입니다. Residensi Wilayah는 10년, Rumah Selangorku는 5년의 유예기간을 두어 투기를 방지하고 주택이 대상 계층을 위해 유지되도록 합니다."
 
 lang: "ko"
+sourceContentHash: "c2d113c9f6018d12"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

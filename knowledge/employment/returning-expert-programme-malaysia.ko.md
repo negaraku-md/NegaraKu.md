@@ -29,8 +29,9 @@ faq:
     a: "Apply online through TalentCorp's MyHeart platform while still overseas, ideally one to two months before your expected return. A complete application is processed in up to 45 working days."
 
 lang: "ko"
+sourceContentHash: "f730c6823dee3d1e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "아니요. 해양공원 경계 내에서 낚시는 금지되며, 방문객은 산호 조각과 조개껍데기를 포함해 해양 생물의 어떤 부분도 — 살아 있든 죽었든 — 채집할 수 없고, 산호를 만지거나 밟거나 그 밖의 방식으로 훼손할 수도 없습니다."
 
 lang: "ko"
+sourceContentHash: "99085634b2f91e6e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

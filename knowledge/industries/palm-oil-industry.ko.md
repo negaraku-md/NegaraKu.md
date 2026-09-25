@@ -37,8 +37,9 @@ faq:
     a: "농원·원자재부 산하의 법정 기관인 말레이시아 팜유위원회(MPOB)가 재배부터 수출까지 모든 단계를 면허하고 감독하며, 산업의 연구개발을 운영합니다."
 
 lang: "ko"
+sourceContentHash: "6df254d9cadb68a3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

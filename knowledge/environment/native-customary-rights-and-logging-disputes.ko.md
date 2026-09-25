@@ -29,8 +29,9 @@ faq:
     a: "주가 발급한 목재 라이선스와 플랜테이션 임차가 공동체가 관습지로 주장하는 지역을 포함할 수 있습니다. 어떤 지역이 NCR 토지인지에 대해 당사자들이 이견을 보이는 경우, 그 분쟁은 흔히 법정에서 결정됩니다."
 
 lang: "ko"
+sourceContentHash: "73a645ecf7076b5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

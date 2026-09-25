@@ -41,8 +41,9 @@ verificationNeeded:
   - "Confirm current Certificate of Residence application requirements and processing times on the LHDN e-Residence service; the residence test itself is sourced but the application mechanics are not covered by Public Ruling No. 9/2019"
 
 lang: "ko"
+sourceContentHash: "2a0ef17e2859fe87"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

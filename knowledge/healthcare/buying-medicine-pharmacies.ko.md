@@ -18,8 +18,9 @@ keyTakeaways:
   - "독약법 제3부칙(Jadual Ketiga)에 따른 향정신성 물질은 별도의 규정을 적용받으며, 무허가 위반 시 최대 RM100,000의 벌금 또는 5년의 징역에 처합니다(제30조)"
 appliesTo: "말레이시아의 정부 또는 민간 약국에서 약을 구입하며, 왜 어떤 약은 처방이 필요하고 어떤 약은 필요하지 않은지, 그리고 그 과정에서 등록 약사의 역할이 무엇인지를 이해하고자 하는 모든 사람."
 lang: "ko"
+sourceContentHash: "4ae828e3e8725114"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

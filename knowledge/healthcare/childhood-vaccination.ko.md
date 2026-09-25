@@ -25,8 +25,9 @@ verificationNeeded:
   - "추가/선택 백신(예: 유료로 제공되는 비의무 백신)의 세부는 집필 시점에 KKM 공식 출처에서 확인할 수 없었으므로 이 글에서 구체적으로 언급하지 않습니다."
 
 lang: "ko"
+sourceContentHash: "e3c51524a621f167"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

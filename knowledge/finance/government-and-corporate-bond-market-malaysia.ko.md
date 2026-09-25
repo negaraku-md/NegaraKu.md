@@ -32,8 +32,9 @@ faq:
     a: "RENTAS(Real-Time Electronic Transfer of Funds and Securities)는 말레이시아 중앙은행의 실시간 총액 결제 시스템입니다. 국채는 인도 대(對) 결제(delivery-versus-payment) 방식으로 이를 통해 결제되므로, 현금과 증권이 동시에 이전됩니다."
 
 lang: "ko"
+sourceContentHash: "9da4da3090cd0bd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

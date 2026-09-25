@@ -27,8 +27,9 @@ faq:
   - q: "What is the difference between ad valorem and fixed duty?"
     a: "Ad valorem duty varies according to the nature of the instrument and the consideration or market value involved — for example a property transfer or a loan. Fixed duty is charged without relation to the amount stated, generally starting at a nominal RM10 per instrument."
 lang: "ko"
+sourceContentHash: "e9d01dfeb365b31f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

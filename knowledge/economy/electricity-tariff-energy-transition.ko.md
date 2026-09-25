@@ -31,8 +31,9 @@ faq:
     a: "NETR은 2050년까지 재생에너지 용량 70%와 온실가스 순배출 제로를 목표로 하며, RM250억이 넘는 투자를 유치할 것으로 예상되는 10개 주력 프로젝트가 이를 뒷받침합니다."
 
 lang: "ko"
+sourceContentHash: "19a2c50c83298410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ verificationNeeded:
   - "The current status of Form CKHT 502 as the acquirer's payment route was not confirmed against LHDN's payment procedure page and may have been superseded by the e-CKHT confirmation slip"
 
 lang: "ko"
+sourceContentHash: "6666571281397324"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

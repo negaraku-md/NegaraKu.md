@@ -29,8 +29,9 @@ faq:
     a: "SJKC와 SJKT 학생은 국민 중등학교(SMK, 교수 언어는 말레이어)로, 또는 일부 SJKC 학생의 경우 역시 공립/정부 보조 학교인 국민형 중등학교(SMJK)로 진학할 수 있습니다. 초등학교에서 국민 중등학교로의 교수 언어 전환은 필요한 학생을 위한 이행반(kelas peralihan)으로 지원됩니다."
 
 lang: "ko"
+sourceContentHash: "2c9607178a97bd26"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

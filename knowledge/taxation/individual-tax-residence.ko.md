@@ -37,8 +37,9 @@ faq:
 
 verificationNeeded: []
 lang: "ko"
+sourceContentHash: "66c5c6d15ecf566b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

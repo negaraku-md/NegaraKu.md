@@ -29,8 +29,9 @@ faq:
     a: "아니요. 주차 벌칙금은 주차 관련 도로교통 명령에 따라 PBT가 발부하는 반면, 운전 위반에 대한 교통 딱지는 PDRM이나 JPJ가 발부합니다."
 
 lang: "ko"
+sourceContentHash: "cec9d7c50b142e19"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

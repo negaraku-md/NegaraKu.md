@@ -36,8 +36,9 @@ faq:
     a: "2015년 개정 이후 등록은 더 이상 갱신할 필요가 없으나, 등록 감사인은 매년 6월 30일 기준 연차 신고서를 제출하고 각자의 등록일 기념일까지 개별 감사인당 RM5,000의 수수료를 납부합니다."
 
 lang: "ko"
+sourceContentHash: "046d2016ae30e969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

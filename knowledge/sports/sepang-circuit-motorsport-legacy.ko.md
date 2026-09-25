@@ -37,8 +37,9 @@ faq:
     a: "독일 엔지니어 헤르만 틸케(Hermann Tilke)가 설계했으며 — 그의 첫 목적 건설 포뮬러 1 서킷입니다. 그랑프리 레이아웃은 15개 코너와 16~20미터에 이르는 트랙 폭을 지닌 5.543km 길이입니다."
 
 lang: "ko"
+sourceContentHash: "a2a0e6bd77b78348"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

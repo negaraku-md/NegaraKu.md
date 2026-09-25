@@ -32,8 +32,9 @@ faq:
     a: "FGV는 농원(기름야자, 고무, 재생에너지), 유지(油脂), 설탕, 물류 및 지원 서비스, 소비재에 걸친 통합 농업 사업체입니다. 자체 설명에 따르면 세계 조(粗)팜유 생산의 약 3%를 기여합니다."
 
 lang: "ko"
+sourceContentHash: "f7515e7869f5fdd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -38,8 +38,9 @@ faq:
     a: "2024년 PETRONAS는 RM320억 링깃 배당을 포함해 배당, 세금, 현금 지급, 기타 약정으로 RM724억 링깃을 기여했습니다. 이는 이 부문의 다른 계약자와 서비스 기업이 낸 세금에 더해진 것입니다."
 
 lang: "ko"
+sourceContentHash: "7404112e163ed546"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

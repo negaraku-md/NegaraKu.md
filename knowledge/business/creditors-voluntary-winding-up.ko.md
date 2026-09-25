@@ -52,8 +52,9 @@ obligations:
     consequence: "Non-compliance is an offence under the winding-up provisions"
 
 lang: "ko"
+sourceContentHash: "7c0a23216627e7ee"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

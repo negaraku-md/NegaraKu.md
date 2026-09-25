@@ -25,8 +25,9 @@ verificationNeeded:
   - "SSM도 LHDN도 외국 클라우드 리전에 호스팅되지만 말레이시아에서 접근 가능한 데이터가 말레이시아 내 보관 요건을 충족하는지에 대한 지침을 공표하지 않습니다 — 여기 명시된 입장은 법정 문구를 따르며, 공표된 행정적 완화는 없습니다"
 
 lang: "ko"
+sourceContentHash: "d4690bd724bedb45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

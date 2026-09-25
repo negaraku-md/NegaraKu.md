@@ -33,8 +33,9 @@ faq:
     a: "MIA는 재무부의 관할 하에 운영됩니다. 공익 실체의 감사에 대해서는 증권위원회 산하의 감사감독위원회(AOB)가 추가 감독을 수행합니다."
 
 lang: "ko"
+sourceContentHash: "fb67f2b0a6c79587"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

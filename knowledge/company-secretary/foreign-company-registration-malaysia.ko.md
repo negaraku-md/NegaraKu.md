@@ -33,8 +33,9 @@ faq:
     a: "A registered foreign company must lodge an annual return within 30 days of its registration anniversary (section 576) and file financial statements with SSM (section 575), in addition to keeping its registered office and agent details current."
 
 lang: "ko"
+sourceContentHash: "76459d3892f48c61"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

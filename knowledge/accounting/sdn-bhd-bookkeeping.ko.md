@@ -54,8 +54,9 @@ obligations:
     consequence: "제245조 제9항에 따라 최대 RM500,000의 벌금 또는 최대 3년의 징역"
 
 lang: "ko"
+sourceContentHash: "8fe84c98a7ee99b1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

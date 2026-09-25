@@ -32,8 +32,9 @@ faq:
     a: "이 개정은 영구 산림 보호구역의 지정을 해제하기 전에 공청회를 의무화하고, 벌금을 RM20,000에서 RM5 million까지, 징역을 7년에서 20년까지로 상향했습니다. 연방 직할지에서는 2025년 2월 1일부터 발효되었습니다."
 
 lang: "ko"
+sourceContentHash: "068dc65beefd2227"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

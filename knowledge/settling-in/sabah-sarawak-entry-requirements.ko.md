@@ -33,8 +33,9 @@ faq:
     a: "자동으로는 아닙니다. 두 주가 자체 이민을 통제하므로, 외국인은 사바/사라왁 입경 지점에서 다시 심사받고 별도의 주 승인이나 패스를 받습니다."
 
 lang: "ko"
+sourceContentHash: "61e0e60b5ca388ec"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

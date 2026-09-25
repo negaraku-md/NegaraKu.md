@@ -27,8 +27,9 @@ faq:
     a: "The Malaysia Competition Commission (MyCC), an independent statutory body, investigates suspected breaches and can impose financial penalties and directions."
 
 lang: "ko"
+sourceContentHash: "6a2eea7b75db3f8c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

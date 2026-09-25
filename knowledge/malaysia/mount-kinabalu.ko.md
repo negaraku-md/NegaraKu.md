@@ -18,8 +18,9 @@ keyTakeaways:
   - "It is described by UNESCO's advisory bodies as the highest mountain between the Himalayas and New Guinea, and hosts an estimated 5,000-6,000 vascular plant species including roughly 1,000 orchid species"
 appliesTo: "Readers who want the verified elevation and protected-area status of Mount Kinabalu, and a plain explanation of why a granite mountain in Sabah is geologically so young."
 lang: "ko"
+sourceContentHash: "9898433b2f4e9aa1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

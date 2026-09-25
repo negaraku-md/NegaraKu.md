@@ -31,8 +31,9 @@ faq:
     a: "The GSH uses outcome-based conditions rather than a single fixed threshold. A company must be incorporated in Malaysia, carry out qualifying services, and commit to targets on annual operating expenditure, the number of high-value full-time employees, senior C-suite hires, use of local ancillary services, collaboration with local educational institutions, training of Malaysians, and environmental, social and governance elements. Performance is reviewed, and the incentive can be clawed back if conditions are not met."
 
 lang: "ko"
+sourceContentHash: "1d7afd9b7e62d44a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

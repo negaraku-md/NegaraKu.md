@@ -39,8 +39,9 @@ faq:
     a: "Pejabat AI Kebangsaan (National AI Office, NAIO) ialah agensi di bawah Kementerian Digital yang diluluskan Kabinet pada 28 Ogos 2024 dan dilancarkan pada 12 Disember 2024. Ia bertanggungjawab merangka, merancang, menyelidik, menyelaras dan melaksanakan inisiatif AI negara. Menurut Tech For Good Institute, tanggungjawabnya termasuk menerajui Strategi AI Kebangsaan yang dijangka meliputi 2026-2030, sebagai kesinambungan AI Roadmap 2021-2025; nama dan skop rasmi strategi itu menanti pengesahan dokumen rasmi."
 
 lang: "ko"
+sourceContentHash: "4d479bafdf246fa8"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

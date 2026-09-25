@@ -31,8 +31,9 @@ faq:
     a: "보편적인 입국 백신 요건은 없지만, 미국 CDC는 여행자에게 정기 예방접종을 최신 상태로 유지하고 A형 간염과 장티푸스를 고려할 것을 권고합니다; 광견병, 일본뇌염, 말라리아 약은 일정에 따라 여행 클리닉과 상의하십시오."
 
 lang: "ko"
+sourceContentHash: "e99fd08a031d5f4f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

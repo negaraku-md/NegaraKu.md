@@ -32,8 +32,9 @@ faq:
     a: "Generally no. Section 26 states that an agreement made without consideration is void, subject to three exceptions: a written and registered promise made out of natural love and affection between parties standing in a near relation to each other, a promise to compensate for something already voluntarily done, and a promise to pay a debt barred by limitation law."
 
 lang: "ko"
+sourceContentHash: "a078693f5e3c25a0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

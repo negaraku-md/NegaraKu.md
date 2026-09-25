@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "말레이시아 무역 헤드라인을 읽는 모든 사람 — 수출업체, 수입업체, 투자자, 분석가."
 
 lang: "ko"
+sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

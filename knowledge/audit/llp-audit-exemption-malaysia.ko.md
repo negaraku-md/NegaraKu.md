@@ -29,8 +29,9 @@ faq:
     a: "해당 거래와 관련된 회계연도 종료로부터 최소 7년입니다(s.69(2))."
 
 lang: "ko"
+sourceContentHash: "6c21f7bda1b829f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

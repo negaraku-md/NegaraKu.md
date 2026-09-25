@@ -37,8 +37,9 @@ faq:
     a: "회원 은행이 파산하면 PIDM은 적격 예금자에게 RM250,000 한도까지 상환합니다. 보험사 회원이 파산하면 PIDM은 여러분의 보장 연속성을 마련하거나 적용 한도까지 보호 혜택을 지급합니다."
 
 lang: "ko"
+sourceContentHash: "6dadc68b3f5258f8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "그렇습니다. 많은 힌두교도 말레이시아인이 소고기를 피하므로 소고기 없는 메뉴가 흔하고, 대부분의 인도 채식 식당은 고기를 아예 내지 않습니다. 중국식과 말레이식 메뉴에는 소고기를 쓰므로, 소고기를 피한다면 요리를 확인하십시오."
 
 lang: "ko"
+sourceContentHash: "b8a6bb42bf674ded"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

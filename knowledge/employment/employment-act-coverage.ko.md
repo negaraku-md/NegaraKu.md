@@ -23,8 +23,9 @@ appliesTo: "Employers deciding whether an employee is entitled to overtime, rest
 
 verificationNeeded: []
 lang: "ko"
+sourceContentHash: "e20a9bba2377fd31"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

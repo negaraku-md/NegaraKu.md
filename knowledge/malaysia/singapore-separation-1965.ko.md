@@ -29,8 +29,9 @@ faq:
     a: "No. The agreement committed both parties to a future treaty on external defence with a joint defence council, to economic cooperation, and to mutual state-to-state guarantees of the water agreements of 1 September 1961 and 29 September 1962 between the City Council of Singapore and the Government of the State of Johor. Appeals from Singapore's High Court also continued to lie to Malaysia's Federal Court as a temporary arrangement until Singapore legislated otherwise."
 
 lang: "ko"
+sourceContentHash: "0de005f939d65ebf"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

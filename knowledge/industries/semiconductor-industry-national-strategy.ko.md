@@ -36,8 +36,9 @@ faq:
     a: "NSS는 6만 명의 고숙련 말레이시아 엔지니어 훈련·역량 강화를 목표로 합니다 — 약 3만 명은 교육부를 통해, 약 3만 명은 다른 부처의 기술·직업(TVET) 인재입니다."
 
 lang: "ko"
+sourceContentHash: "1463f5cc1d397718"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

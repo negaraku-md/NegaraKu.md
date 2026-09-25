@@ -30,8 +30,9 @@ faq:
     a: "TNB는 재생에너지를 흡수하기 위해 개선되어야 하는 국가 그리드 네트워크를 소유·운영하며, 이는 국가 에너지 전환 로드맵(NETR) 목표에 부합합니다."
 
 lang: "ko"
+sourceContentHash: "12e743d05ab159ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

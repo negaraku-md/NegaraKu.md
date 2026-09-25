@@ -29,8 +29,9 @@ verificationNeeded:
   - "The practice directions constituting the specialised High Court divisions (New Commercial Court, Construction Court, Intellectual Property Court) and their allocation criteria — these are administrative arrangements of the Judiciary, not statutory courts"
 
 lang: "ko"
+sourceContentHash: "7a5b4212b0b3e35b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

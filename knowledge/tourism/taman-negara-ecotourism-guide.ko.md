@@ -37,8 +37,9 @@ faq:
     a: "독특하게도, 이 공원은 연방 국립공원법 1980(National Parks Act 1980)이 아니라 세 개의 식민지 시대 주 조례 — 타만 네가라 조례(파항) 1939, (클란탄) 1938, (트렝가누) 1939 — 가 규율합니다. 이는 말레이시아 연방헌법상 토지와 임업이 주 사항이므로 연방법이 그 세 주에 적용되지 않기 때문입니다."
 
 lang: "ko"
+sourceContentHash: "7e8c332e4dfbfd08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

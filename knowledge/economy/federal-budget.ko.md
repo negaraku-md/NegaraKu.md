@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "학생, 정책 분석가, 언론인, 공무원, 그리고 연방 예산이 어떻게 편성·토론·승인되는지 이해해야 하는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "8b64cd44c511fc05"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

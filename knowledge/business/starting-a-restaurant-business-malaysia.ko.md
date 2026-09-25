@@ -33,8 +33,9 @@ faq:
     a: "전국 최저임금은 최저임금령 2024(Minimum Wages Order 2024)가 정한 월 RM1,700입니다. 2025년 2월 1일부터 근로자 5명 이상 고용주에게, 2025년 8월 1일부터 나머지 모든 고용주에게 적용되었습니다 — 그래서 2025년 8월부터 규모와 무관하게 사실상 모든 레스토랑을 포괄합니다."
 
 lang: "ko"
+sourceContentHash: "8140436515390d62"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

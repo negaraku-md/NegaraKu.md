@@ -24,8 +24,9 @@ appliesTo: "Business owners and finance staff trying to work out which part of t
 verificationNeeded: []
 
 lang: "ko"
+sourceContentHash: "0ee2d291cdce3d2e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

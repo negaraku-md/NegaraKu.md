@@ -29,8 +29,9 @@ faq:
     a: "1999년 4월 정부 검토에서 기관 간 기능 중복, 관할 중복, 비경제적 자원 사용이 존재하는 것으로 나타났습니다. APMM은 해양 법 집행을 하나의 기관으로 통합하기 위해 설립되었습니다."
 
 lang: "ko"
+sourceContentHash: "d5fb408e6cb3819a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

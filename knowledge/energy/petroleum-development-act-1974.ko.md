@@ -34,8 +34,9 @@ faq:
     a: "제3조는 Petronas를 총리의 통제와 지시 아래 두며, 총리의 지시는 그 법인을 구속합니다. 제6조는 Petronas 이외의 누구든 석유화학 제품의 가공, 정제, 제조를 수행하기 전에 총리의 허가를 요구하고, 제7조는 총리에게 규정 제정 권한을 부여합니다."
 
 lang: "ko"
+sourceContentHash: "7e742ec88e8babf9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

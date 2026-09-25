@@ -33,8 +33,9 @@ faq:
     a: "Perkara 153(4), (7) dan (8) menyatakan bahawa Perkara itu tidak boleh melucutkan seseorang daripada jawatan awam, biasiswa, hak, keistimewaan, permit atau lesen yang sudah dinikmati atau dipegangnya."
 
 lang: "ko"
+sourceContentHash: "90a331e05e64e807"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

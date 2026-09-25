@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Anyone who needs Malaysia's basic facts — population, area, capital, currency, language, GDP — with each figure attributed to the specific official release that publishes it, rather than an unsourced summary."
 
 lang: "ko"
+sourceContentHash: "dc264630ca2e722e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

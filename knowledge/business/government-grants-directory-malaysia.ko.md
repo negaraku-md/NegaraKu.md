@@ -33,8 +33,9 @@ faq:
     a: "Go to the administering agency's own website — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — rather than third-party listicles, which frequently keep closed programmes listed as available. The government also runs an aggregated directory at the MyStartup national-fundings portal. Grant windows change with the annual Budget, so confirm the current status before you invest time in an application."
 
 lang: "ko"
+sourceContentHash: "7466f2a7eef60107"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

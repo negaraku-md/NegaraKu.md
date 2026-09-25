@@ -27,8 +27,9 @@ faq:
     a: "전기자전거는 스로틀이 없고 페달이 영구적으로 장착된, 말레이시아 표준 MS2514를 준수하는 페달 보조식일 경우에만 예외로 인정됩니다. 승인되지 않은 스로틀식 전기자전거는 PMD나 모페드로 분류되어 금지됩니다."
 
 lang: "ko"
+sourceContentHash: "c96ca2ea918ba45a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

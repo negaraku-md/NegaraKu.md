@@ -39,8 +39,9 @@ verificationNeeded:
   - "일반적으로 기술된 규칙에 의존하기 전에 해당 진입점에 대한 mTool 2.2 사용자 설명서와 대조하여 특정 진입점의 검증 동작을 확인하십시오"
 
 lang: "ko"
+sourceContentHash: "4cbf1a047bbd3c22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

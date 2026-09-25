@@ -38,8 +38,9 @@ verificationNeeded:
   - "Confirm dates marked as subject to change in the Cabinet Division schedule — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan and Hari Raya Qurban second day are all flagged"
 
 lang: "ko"
+sourceContentHash: "c9161f47701aa87c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ faq:
   - q: "Can a living person be declared National Heritage?"
     a: "Yes. Section 67 allows the Minister to declare a living person a National Heritage, and the National Heritage (Declaration of Living Person as a National Heritage) Order 2012 provides the formal instrument for the 'Warisan Orang Hidup' category."
 lang: "ko"
+sourceContentHash: "965829d0863e2f00"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

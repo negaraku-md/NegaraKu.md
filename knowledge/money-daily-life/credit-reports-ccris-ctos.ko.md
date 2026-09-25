@@ -34,8 +34,9 @@ faq:
     a: "CCRIS의 경우, 보고한 금융기관이 부정확한 정보를 합리적인 기간 내에 정정할 의무가 있습니다. CTOS의 경우, 해당 기관에 직접 이의를 제기할 수 있으며, 이 기관은 재무부(Ministry of Finance) 산하 신용정보기관 등록관실(Registrar Office of Credit Reporting Agencies)이 규제합니다."
 
 lang: "ko"
+sourceContentHash: "d56078b999db6074"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "그렇습니다. 2024년 2월 23일 유산 판무관이 국가유산 객체로 관보에 게재한 10개 음식 중 하나입니다."
 
 lang: "ko"
+sourceContentHash: "99f9a99ac9dc7cef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

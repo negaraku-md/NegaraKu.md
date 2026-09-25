@@ -35,8 +35,9 @@ faq:
     a: "MyTTx 포털에 등록하고 분기별 신고서(양식 TTx-03)를 제출하며, 각 과세 기간 종료 후 다음 달 말일까지 말레이시아 왕립관세청(Royal Malaysian Customs Department)에 세금을 납부합니다."
 
 lang: "ko"
+sourceContentHash: "90bb7645abb0046f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

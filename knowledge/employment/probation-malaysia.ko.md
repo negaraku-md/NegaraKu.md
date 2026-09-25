@@ -26,8 +26,9 @@ verificationNeeded:
   - "Confirm the leading appellate authority on probationer dismissal and on deemed confirmation by conduct against reported judgments"
 
 lang: "ko"
+sourceContentHash: "04bbb0ef0090fa14"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

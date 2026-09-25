@@ -32,8 +32,9 @@ faq:
     a: "예. 비공개 회사는 회사법(Companies Act 2016)에 따라 공개 회사로 전환할 수 있습니다 — 일반적으로 사원 특별결의를 통과시키고, 상호를 「Berhad」로 끝나도록 변경하며, 필요한 서류를 말레이시아 기업위원회(SSM)에 제출하는 방식입니다."
 
 lang: "ko"
+sourceContentHash: "8327877494bab4c8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "말레이시아 고무 부문 — 플랜테이션 작물, 무역 흐름, 그리고 이제 이를 지배하는 장갑 제조 산업 — 에 대해 출처가 명시된 개괄적 그림이 필요한 모든 사람."
 
 lang: "ko"
+sourceContentHash: "0020c8d13fc47636"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

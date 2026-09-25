@@ -36,8 +36,9 @@ faq:
     a: "둘 다 존재합니다. 쿠칭 인근의 안나 라이스(Annah Rais) 같은 곳은 여전히 가족이 거주하는 살아 있는 비다유(Bidayuh) 롱하우스 공동체이며, 산투봉(Santubong) 인근의 사라왁 문화 마을(Sarawak Cultural Village)은 목적형으로 지어진 살아 있는 박물관입니다. 실제 운영되는 롱하우스 방문은 미리, 흔히 방문을 존중하는 태도로 해설해 줄 가이드를 통해 준비하는 것이 가장 좋습니다."
 
 lang: "ko"
+sourceContentHash: "484f5ee1df5a2a08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

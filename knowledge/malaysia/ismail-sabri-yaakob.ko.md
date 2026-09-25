@@ -32,8 +32,9 @@ verificationNeeded:
   - "Exact dates (premiership start/end, DPM appointment) to be confirmed against the Prime Minister's Office and official records."
 
 lang: "ko"
+sourceContentHash: "01485efbacf83246"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

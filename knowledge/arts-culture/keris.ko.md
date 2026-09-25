@@ -39,8 +39,9 @@ faq:
     a: "Ya, tetapi bilangan empu mahir menurun secara mendadak, menyukarkan pemindahan ilmu. UNESCO menyenaraikan penurunan ini sebagai cabaran utama kelestarian keris."
 
 lang: "ko"
+sourceContentHash: "f542d42d76523ab4"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

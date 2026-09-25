@@ -34,8 +34,9 @@ faq:
     a: "Bagi individu, ya — pelupusan saham syarikat harta tanah (RPC) kekal di bawah CKHT. Namun mulai 1 Mac 2024, pelupusan saham tersebut oleh syarikat, perkongsian liabiliti terhad, badan amanah dan koperasi beralih kepada rejim Cukai Keuntungan Modal di bawah Akta Cukai Pendapatan 1967."
 
 lang: "ko"
+sourceContentHash: "7363fccb7997191f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

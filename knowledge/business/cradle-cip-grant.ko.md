@@ -33,8 +33,9 @@ faq:
     a: "No. The CIP grants are conditional. Funds are released against agreed milestones (via advance payments and reimbursement), and the grant can be clawed back if the recipient breaches its conditions or the project is terminated. CIP Sprint in particular is structured as a convertible grant. Read the grant agreement carefully so you understand the milestone, reporting and clawback terms before you accept."
 
 lang: "ko"
+sourceContentHash: "314f5c2c68cdde6f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

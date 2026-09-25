@@ -38,8 +38,9 @@ obligations:
     consequence: "Fine up to RM250,000 or 2 years for continuing to process after expiry"
 
 lang: "ko"
+sourceContentHash: "0a5d002129db4742"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

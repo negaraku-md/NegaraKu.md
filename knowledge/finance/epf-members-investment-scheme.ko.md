@@ -29,8 +29,9 @@ faq:
     a: "최소 금액은 거래당 RM1,000입니다. 적격 금액은 한 번에 3개월간 유효하므로, 실제로는 그 기간이 지나면 새로운 이전을 할 수 있습니다."
 
 lang: "ko"
+sourceContentHash: "d3f550dd37241cac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

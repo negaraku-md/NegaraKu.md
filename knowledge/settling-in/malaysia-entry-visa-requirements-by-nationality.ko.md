@@ -34,8 +34,9 @@ faq:
     a: "단기 사회 방문 패스는 일반적으로 연장할 수 없습니다. 더 오래 체류하려면 출국했다가 다시 입국해야 합니다. 또한 근로나 유학 패스로 전환할 수 없습니다 — 그것들은 취업이나 학업을 시작하기 전에 올바른 비자 채널을 통해 준비해야 합니다."
 
 lang: "ko"
+sourceContentHash: "cc706715a5a043c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

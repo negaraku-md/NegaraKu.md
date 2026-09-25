@@ -44,8 +44,9 @@ verificationNeeded:
   - "Any published liquor licensing policy for individual states such as Kelantan or Terengganu — none was confirmed, and variation appears to flow from Licensing Board discretion rather than published policy"
 
 lang: "ko"
+sourceContentHash: "8621ae7bf33716e8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

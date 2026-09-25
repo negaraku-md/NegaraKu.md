@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "변동금리 대출을 보유한 차입자, 저축자, 그리고 말레이시아 금리 뉴스를 이해하려는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "54922b7bc9867b3f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

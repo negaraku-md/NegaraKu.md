@@ -30,8 +30,9 @@ faq:
     a: "YTL Power는 조호르 쿨라이에 대규모 데이터센터 단지를 건설 중이며, 2025년 10월 말 가동으로 발표된 첫 엔비디아 기반 AI 시설을 완공했습니다."
 
 lang: "ko"
+sourceContentHash: "430ec56c95aad0ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "PETRA(에너지전환수자원부, Ministry of Energy Transition and Water Transformation)는 국가 에너지 및 수자원 정책을 수립하는 부처입니다. 에너지위원회는 에너지 공급법을 집행하고 시행하는 법정 규제 기관입니다. Act 610 제16조에 따라 ST는 장관에게 책임을 지며 장관의 일반적 형태의 지시에 효력을 부여해야 합니다."
 
 lang: "ko"
+sourceContentHash: "0a1f3c6792f9255a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

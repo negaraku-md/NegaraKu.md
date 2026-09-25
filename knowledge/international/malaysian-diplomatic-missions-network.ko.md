@@ -32,8 +32,9 @@ faq:
     a: "대부분의 주재 외국 대사관과 고등판무관실은 쿠알라룸푸르와 푸트라자야에 있으며, 일부 국가는 페낭, 조호르바루, 코타키나발루, 쿠칭과 같은 도시에서도 영사관을 운영합니다."
 
 lang: "ko"
+sourceContentHash: "7bb552ee1b28a75c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

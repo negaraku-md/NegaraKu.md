@@ -64,8 +64,9 @@ obligations:
     consequence: "The Registrar may direct the company to be struck off under Subdivision 1 of Division 4 of Part IV"
 
 lang: "ko"
+sourceContentHash: "55df0bf1e950a993"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

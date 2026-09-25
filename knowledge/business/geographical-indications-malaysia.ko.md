@@ -29,8 +29,9 @@ faq:
     a: "Ten years from the date of registration, renewable for further ten-year periods indefinitely (sections 18 and 19)."
 
 lang: "ko"
+sourceContentHash: "a1ee81a205bbd043"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

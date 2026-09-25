@@ -33,8 +33,9 @@ faq:
     a: "JKM에 등록되지 않은 보육시설을 운영하는 것은 보육시설법(Child Care Centre Act 1984)에 따른 형사 범죄입니다. 유죄판결 시 벌칙은 최대 RM10,000의 벌금 또는 최대 2년의 징역, 또는 둘 다이며, 재범에는 더 무거운 벌칙이 따릅니다. JKM은 시설 폐쇄를 명령할 수도 있습니다. 아동을 받기 전에 등록하십시오."
 
 lang: "ko"
+sourceContentHash: "1ebf1ee2a2053f70"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

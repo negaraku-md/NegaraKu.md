@@ -33,8 +33,9 @@ faq:
     a: "The employer reports the payment, split into its exempt and taxable parts, in the employee's Form EA (C.P.8A) for the year, and the taxable portion is included in the employee's income for that year. Separately, a private-sector employer must notify LHDN that the employee is about to cease employment, generally using Form CP22A at least 30 days before cessation, and should withhold monies pending tax clearance (the tax clearance letter / Surat Penyelesaian Cukai) before releasing the final pay."
 
 lang: "ko"
+sourceContentHash: "8493c353cbce9515"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

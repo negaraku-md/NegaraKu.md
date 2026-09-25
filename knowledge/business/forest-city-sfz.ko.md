@@ -44,8 +44,9 @@ verificationNeeded:
   - "The number of family offices actually certified is reported in press coverage but was not verified against a Securities Commission publication"
 
 lang: "ko"
+sourceContentHash: "437ac0257773795a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

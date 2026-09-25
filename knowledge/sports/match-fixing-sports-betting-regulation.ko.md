@@ -29,8 +29,9 @@ faq:
     a: "법률 요약에 따르면, 뇌물 수수 범죄는 최대 20년의 징역과 뇌물 가치의 5배 또는 RM10,000 중 더 높은 금액 이상의 벌금에 처해질 수 있습니다. 이 세부 사항은 법 전문과 대조하여 재확인해야 합니다."
 
 lang: "ko"
+sourceContentHash: "602c70742033a7cb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "간단하지 않습니다. 운송 면허 A(유상)는 부미푸트라 부분을 포함한 말레이시아인 과반 지분과 최소 납입자본을 요구하므로, 제3자에게 서비스하는 운송업자는 사실상 과반 현지 회사에 유보되어 있습니다. 외국 연계 그룹은 보통 IILS 지위와 관세/포워딩 면허를 통해, 또는 운송 면허 C로 자기 화물을 운반하며 진입합니다. 지분 구조를 짜기 전에 정확한 지분 비율과 자본 하한을 APAD와 MIDA에 확인하십시오."
 
 lang: "ko"
+sourceContentHash: "20e231750b299d33"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

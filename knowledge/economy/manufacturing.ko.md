@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "투자자, 구직자, 정책 분석가, 그리고 말레이시아 산업 통계를 정확히 읽으려는 학생."
 
 lang: "ko"
+sourceContentHash: "21e59589f33cf91e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

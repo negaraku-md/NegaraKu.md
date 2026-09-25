@@ -22,8 +22,9 @@ verificationNeeded:
   - "STPM, 매트리큘레이션, A-Level 코호트의 현재 연간 입학 정원(자릿수)은 여기 명시되어 있지 않음 — 이는 입학 회차마다 바뀜; 특정 수치에 의존하기 전에 MPM, 매트리큘레이션과, 또는 개별 칼리지에서 현재 회차 수치를 직접 확인할 것."
   - "예비 과정(Foundation) 프로그램 구조에 대한 MQA 지침(Garis Panduan Kurikulum Asasi)을 이 기사에서는 전부 추출하지 못함 — MQA가 예비 과정에 정한 구체적인 최소 학점 시간 또는 기간 규칙은 여기서 일반적 용어로만 서술됨; 인용하기 전에 MQA나 제공 기관에서 정확한 수치를 확인할 것."
 lang: "ko"
+sourceContentHash: "d0b49a1aee8b9177"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

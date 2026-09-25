@@ -42,8 +42,9 @@ verificationNeeded:
   - "s.263(5)가 위임을 허용하나 강제하지는 않으므로, 재무부 장관이 s.263 승인 기능을 공식적으로 위임했는지, 그리고 어느 기관에 위임했는지 확인할 것"
 
 lang: "ko"
+sourceContentHash: "171d2f5e74d8eb19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

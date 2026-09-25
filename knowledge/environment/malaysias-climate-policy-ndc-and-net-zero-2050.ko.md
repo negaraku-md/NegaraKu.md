@@ -36,8 +36,9 @@ faq:
     a: "1,500만~3,000만 톤 CO₂환산량 목표 중 최대 2,000만 톤 CO₂환산량은 무조건적으로, 말레이시아가 여건과 무관하게 약속합니다. 추가 1,000만 톤 CO₂환산량은 조건부로, 국제 기후 재원, 기술 이전, 역량 강화 지원이 제공될 경우에만 달성됩니다."
 
 lang: "ko"
+sourceContentHash: "7ad2136668e2982a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

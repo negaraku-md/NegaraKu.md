@@ -32,8 +32,9 @@ faq:
     a: "관계의 성격, 거래 금액, 미결제 잔액과 그 조건, 받거나 제공한 담보 또는 보증, 그리고 그 잔액과 관련된 대손충당금."
 
 lang: "ko"
+sourceContentHash: "ae54f875cbc22c20"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "매물의 보유 형태와 소유권 유형이 실제로 무엇을 부담시키는지 이해해야 하는, 말레이시아에서 부동산을 사거나 팔거나 평가하는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "35465664913b0ad9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

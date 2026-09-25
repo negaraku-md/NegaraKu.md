@@ -28,8 +28,9 @@ faq:
     a: "Ia sudah dikenali di seluruh negara, mempunyai warna dan bentuk yang menarik, nama yang seragam, mudah didapati, dan belum menjadi bunga kebangsaan mana-mana negara lain pada masa itu."
 
 lang: "ko"
+sourceContentHash: "a06373b8a03d8ae0"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

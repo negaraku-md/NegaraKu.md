@@ -43,8 +43,9 @@ verificationNeeded:
   - "Confirm whether SEDIA, NCER and ECERDC hold expatriate-pass approving authority equivalent to IRDA's, which was not established"
 
 lang: "ko"
+sourceContentHash: "dbc6e7a307297e3a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

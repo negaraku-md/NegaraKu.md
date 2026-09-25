@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "말레이시아 채용 제안을 받은 외국 국민, 그리고 이미 말레이시아에서 취업 비자를 소지하거나 갱신하는 모든 사람."
 
 lang: "ko"
+sourceContentHash: "1684527edc9ec752"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true
