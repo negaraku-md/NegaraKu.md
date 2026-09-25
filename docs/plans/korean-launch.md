@@ -3,7 +3,7 @@
 _6th public language, after ms · en · zh · ta · ja. Mission: "let the world know about Malaysia" — in Korean too._
 _Reuses the Japanese pipeline end-to-end. Authoritative checklist: [[negaraku-language-launch-checklist]]. Terminology pattern: [[negaraku-ja-terminology-decisions]]._
 
-_Status: PLAN (not started). Owner tags: **[me]** = Claude, **[you]** = user (accounts/approvals only)._
+_Status: **Phase 0 DONE (2026-09-25)**, Phase 1 next. Owner tags: **[me]** = Claude, **[you]** = user (accounts/approvals only)._
 
 ---
 
@@ -28,8 +28,9 @@ Korean is **launched** only when *everything a `/ko` reader sees is Korean* — 
 
 ---
 
-## Phase 0 — Foundation
-- [ ] **Korean webfont** — add a self-hosted Hangul font (e.g. `@fontsource/noto-sans-kr`) alongside the existing Fontsource + fontaine metric-fallback setup ([[negaraku-font-optimization]]); wire it for `:lang(ko)`. Ensure the OG-card renderer (`scripts/build-og.mjs`) has the Korean font available in CI (ja needed a CJK apt-cache step — extend it for Hangul).
+## Phase 0 — Foundation ✅ DONE 2026-09-25 (commit 9e9f45d8, local)
+Build green: 1,631 `/ko` pages, `noindex`, `<html lang="ko">`, Noto Sans KR loaded, excluded from sitemap; ta/ja unaffected. Terminology doc written (`docs/plans/korean-terminology-decisions.md`).
+- [x] **Korean webfont** — add a self-hosted Hangul font (e.g. `@fontsource/noto-sans-kr`) alongside the existing Fontsource + fontaine metric-fallback setup ([[negaraku-font-optimization]]); wire it for `:lang(ko)`. Ensure the OG-card renderer (`scripts/build-og.mjs`) has the Korean font available in CI (ja needed a CJK apt-cache step — extend it for Hangul).
 - [ ] **`ko` in the locale spine**: `src/lib/i18n.ts` `LOCALES` → add `'ko'`; `astro.config.mjs` `i18n.locales` + the `locales:{…}` hreflang map (`ko: 'ko'`).
 - [ ] **`/ko` routes**: the thin route files per page (mirror `/ja`), so `/ko`, `/ko/<cat>/<slug>`, `/ko/dashboard`, `/ko/analytics`, `/ko/contributor-guide`, etc. resolve.
 - [ ] **Terminology decisions doc** — record deliberate Korean register/term choices *before* mass translation (Malaysian statute names, honorifics, 한자 vs 한글, agency names) so the corpus is consistent; reuse the ja pattern. Save as `docs/plans/korean-terminology-decisions.md` + a memory note.

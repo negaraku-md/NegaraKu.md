@@ -58,12 +58,13 @@ The 4 discovery modes and where we stand:
 - [x] Post-launch chrome gaps closed (subcategory TOPICS labels, language-availability badge, FAQ count, dashboard FB panel — see [[negaraku-language-launch-checklist]])
 - [x] **Facebook** activated (in LANGS + LANG_POLICY; first ja post live; auto-posts 1/day; Page website = `negaraku.md/ja`)
 
-## 🇰🇷 Korean (`ko`) — NEXT LANGUAGE (not started)
-- [ ] **[me]** Corpus translation (~1,094) via multi-agent waves — reuses the ja pipeline
-- [ ] **[me]** Chrome: i18n keys, `L()` calls, taxonomy, **subcategories.ts + intros.ts** (the ja gaps — do up front), badge/FAQ/dashboard arrays
-- [ ] **[me]** Open launch: `ko` → LOCALES + sitemap + astro i18n; publish (sensitive need reviewer)
-- [ ] **[me]** FB activation: `ko` → LANGS + LANG_POLICY + facebook.mjs touchpoints (KO page id `1308994995630346` already recorded); ko Page website → `negaraku.md/ko`
-- [ ] **[you]** Nothing new — ko FB Page already exists + assigned to the system user
+## 🇰🇷 Korean (`ko`) — IN PROGRESS (plan: `docs/plans/korean-launch.md`)
+- [x] **Phase 0 — foundation** DONE 2026-09-25 (commit 9e9f45d8): Locale type + LOCALE_NAMES (한국어), 39 `/ko` routes, Noto Sans KR (browser + OG), `<html lang="ko">`/hreflang, soft-launch (noindex + sitemap filter), terminology-decisions doc. Build green (1,631 /ko pages).
+- [ ] **[me]** Phase 1 — Chrome: i18n keys, `L()` calls, taxonomy, **subcategories.ts + intros.ts + categories.ts** (ja gaps — up front), badge/FAQ/dashboard arrays, `{ms,en,zh,ta,ja}`→+ko DATA objects
+- [ ] **[me]** Phase 2 — Corpus translation (~1,073) via multi-agent waves; exclude archived masters; apply terminology doc
+- [ ] **[me]** Phase 3 — Open launch: `ko` → LOCALES + remove sitemap filter + astro i18n; publish (sensitive need reviewer); /ko redirect mirrors; verify 1073/1073
+- [ ] **[me]** Phase 4 — FB activation: `ko` → LANGS + LANG_POLICY + facebook.mjs (KO page id `1308994995630346` recorded); **[you]** ko Page website → `negaraku.md/ko`
+- [ ] **[you]** Phase 3: confirm reviewer for ~204 sensitive ko articles (ja used `ashton-tan`)
 
 ## 📊 Analytics redesign — IN PROGRESS (plan: `docs/plans/analytics-redesign.md`)
 Split `/dashboard` (content health) from a new `/analytics` (filterable growth trends: channel · SEO · AI · visitor · category · language). Data reality: only SEO has trend history; visitors/channels/AI/engagement/social are snapshot-only.
