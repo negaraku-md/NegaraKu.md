@@ -60,7 +60,7 @@ The 4 discovery modes and where we stand:
 
 ## 🇰🇷 Korean (`ko`) — IN PROGRESS (plan: `docs/plans/korean-launch.md`)
 - [x] **Phase 0 — foundation** DONE 2026-09-25 (commit 9e9f45d8): Locale type + LOCALE_NAMES (한국어), 39 `/ko` routes, Noto Sans KR (browser + OG), `<html lang="ko">`/hreflang, soft-launch (noindex + sitemap filter), terminology-decisions doc. Build green (1,631 /ko pages).
-- [ ] **[me]** Phase 1 — Chrome: i18n keys, `L()` calls, taxonomy, **subcategories.ts + intros.ts + categories.ts** (ja gaps — up front), badge/FAQ/dashboard arrays, `{ms,en,zh,ta,ja}`→+ko DATA objects
+- [x] **Phase 1 — Chrome** DONE 2026-09-25 (commits 07c04909 + eaf068b7): i18n (115), taxonomy (82+419), intros (20 essays), data objects, ~1,128 L() calls across 41 components → Korean. Build green; /ko ~4,000 Hangul/page. Enumerating arrays/counts + switcher entry deferred to Phase 3 launch flip.
 - [ ] **[me]** Phase 2 — Corpus translation (~1,073) via multi-agent waves; exclude archived masters; apply terminology doc
 - [ ] **[me]** Phase 3 — Open launch: `ko` → LOCALES + remove sitemap filter + astro i18n; publish (sensitive need reviewer); /ko redirect mirrors; verify 1073/1073
 - [ ] **[me]** Phase 4 — FB activation: `ko` → LANGS + LANG_POLICY + facebook.mjs (KO page id `1308994995630346` recorded); **[you]** ko Page website → `negaraku.md/ko`

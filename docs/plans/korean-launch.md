@@ -3,7 +3,7 @@
 _6th public language, after ms · en · zh · ta · ja. Mission: "let the world know about Malaysia" — in Korean too._
 _Reuses the Japanese pipeline end-to-end. Authoritative checklist: [[negaraku-language-launch-checklist]]. Terminology pattern: [[negaraku-ja-terminology-decisions]]._
 
-_Status: **Phase 0 DONE (2026-09-25)**, Phase 1 next. Owner tags: **[me]** = Claude, **[you]** = user (accounts/approvals only)._
+_Status: **Phase 0 + Phase 1 DONE (2026-09-25)**, Phase 2 (corpus) next. Owner tags: **[me]** = Claude, **[you]** = user (accounts/approvals only)._
 
 ---
 
@@ -36,7 +36,8 @@ Build green: 1,631 `/ko` pages, `noindex`, `<html lang="ko">`, Noto Sans KR load
 - [ ] **Terminology decisions doc** — record deliberate Korean register/term choices *before* mass translation (Malaysian statute names, honorifics, 한자 vs 한글, agency names) so the corpus is consistent; reuse the ja pattern. Save as `docs/plans/korean-terminology-decisions.md` + a memory note.
 - [ ] Search: note Pagefind has no Korean stemming (search still works, just no root-word matching) — accept, like ja/zh.
 
-## Phase 1 — Chrome localization (do the ja-gaps UP FRONT)
+## Phase 1 — Chrome localization ✅ DONE 2026-09-25 (commits 07c04909 + eaf068b7)
+12-agent multi-wave translation. `i18n.ts` (115 keys), taxonomy (`categories` 82 + `subcategories` 419), `intros.ts` (20 essays), data objects (seo/sponsors/provenance/llms), ~1,128 `L()` calls across 41 components → all carry Korean. Build green; `/ko` renders ~4,000 Hangul/page (nav/taxonomy/intros Korean), still noindex + soft-launched. `Localized` type + `CHANGE_I18N` tuple widened for ko. Deferred to Phase 3 (launch flip): the language-enumerating arrays/counts (ArticleList badge, DashboardView fbRows + N-lang, FaqView "five languages") and the public switcher entry. Also flagged: a pre-existing stale "four languages" line in ContributeView (predates ta/ja; fix in a separate copy pass, all locales).
 The reliable finder: any `src` file where the `ta`/`ja` token count exceeds `ko` is a gap. Concrete spots (all currently `ko:0`):
 - [ ] `src/lib/i18n.ts` — every `t()`/UI string key gets a `ko` value; every inline `L(ms,en,zh,ta,ja)` call gets a 6th `ko` arg (a 5-arg call = untranslated → falls back to Malay).
 - [ ] **`src/lib/subcategories.ts`** — 110 `SUBCATEGORY_LABELS` (the "TOPICS" chips) need `ko` (the #1 most-visible ja miss — do first).
