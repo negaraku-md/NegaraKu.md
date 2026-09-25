@@ -1,0 +1,140 @@
+---
+topicId: MY-ART-0057
+title: "국가문화유산법 2005(Akta Warisan Kebangsaan 2005)에 따른 국가문화유산 등록부"
+seoTitle: "말레이시아 국가문화유산 등록부: 법령 645와 국가유산부"
+slug: "national-heritage-sites"
+category: "arts-culture"
+subcategory: ["warisan"]
+summary: "말레이시아가 국가유산부(Jabatan Warisan Negara)가 관장하는 국가문화유산법 2005(Akta 645)에 따라 건물, 물건, 자연 유적, 생존 인물을 국가 유산으로 관보에 고시하는 방식 — 유네스코의 국제 목록과는 별개입니다."
+
+tier: "2"
+mode: "practical"
+contentType: "law"
+sensitivity: "none"
+
+answer: "국가문화유산 등록부(Daftar Warisan Kebangsaan)는 국가문화유산법 2005(Akta 645) 제23조에 따라 마련되어 국가유산부의 유산 판무관(Pesuruhjaya Warisan)이 관리하는 공식 목록입니다. 그것은 유산 유적, 유산 물건, 수중 문화유산을 아우르며, 이후 장관은 그중 어느 것이든 — 또는 생존 인물 한 사람을 — 제67조에 따라 '국가문화유산(Warisan Kebangsaan)'으로 선포할 수 있습니다. 이 국내 등록부는 유네스코 세계유산목록과 완전히 별개입니다."
+keyTakeaways:
+  - "Daftar Warisan Kebangsaan diwujudkan oleh Pesuruhjaya Warisan di bawah seksyen 23 Akta 645 dan terbuka untuk pemeriksaan awam."
+  - "Pengisytiharan sebagai Warisan Kebangsaan dibuat oleh Menteri melalui warta di bawah seksyen 67, berpandukan sembilan pertimbangan dalam seksyen 67(2)."
+  - "Sesiapa sahaja boleh mencalonkan warisan (termasuk tokoh hidup) di bawah seksyen 68 menggunakan borang yang ditetapkan."
+  - "Merosakkan tapak warisan tanpa kebenaran boleh dihukum penjara sehingga lima tahun atau denda sehingga RM50,000 atau kedua-duanya (seksyen 112)."
+appliesTo: "Pemilik harta bersejarah, penyelidik, penggiat seni dan budaya, pihak berkuasa perancangan, dan sesiapa yang ingin mencalonkan warisan negara."
+
+faq:
+  - q: "Apakah perbezaan antara Warisan Kebangsaan dan Warisan Dunia UNESCO?"
+    a: "Warisan Kebangsaan diwartakan di bawah Akta 645 dan diuruskan oleh Jabatan Warisan Negara di peringkat domestik. Senarai Warisan Dunia pula ialah senarai antarabangsa di bawah Konvensyen Warisan Dunia UNESCO. Sesuatu tapak boleh berada dalam salah satu atau kedua-dua senarai; kemasukan dalam satu senarai tidak automatik memasukkannya ke dalam senarai yang lain."
+  - q: "Siapa boleh mencalonkan sesuatu sebagai Warisan Kebangsaan?"
+    a: "Di bawah seksyen 68, mana-mana orang boleh mencalonkan warisan semula jadi, warisan kebudayaan ketara atau tidak ketara, tokoh hidup, atau warisan kebudayaan bawah air kepada Menteri menggunakan borang yang ditetapkan. Penilaian kemudian dibuat oleh Bahagian Daftar Warisan dan Jawatankuasa Pakar sebelum syor dikemukakan kepada Menteri."
+  - q: "Apakah 'Warisan Kebangsaan Orang Hidup' (WAKOH)?"
+    a: "Ia merujuk tokoh hidup yang diisytiharkan sebagai Warisan Kebangsaan di bawah seksyen 67 kerana kepakaran dalam bidang warisan, seperti pembuat songket, tok dalang atau tukang tradisional. Menurut laporan media pada 2021, lebih 20 individu telah menerima pengiktirafan ini."
+  - q: "Bolehkah pemilik menjual bangunan yang telah diwartakan sebagai Warisan Kebangsaan?"
+    a: "Pemilik boleh terus memiliki harta itu (seksyen 69), tetapi pertukaran pemilikan Warisan Kebangsaan hanya boleh berlaku melalui pewarisan atau jualan dengan kelulusan awal Pesuruhjaya, dan Pesuruhjaya mesti diberi keutamaan untuk membeli (seksyen 70)."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-01
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-01
+sources:
+  - title: "National Heritage Act 2005 (Act 645) — Laws of Malaysia Reprint"
+    url: "https://gtwhi.com.my/wp-content/uploads/2020/12/National-Heritage-Act-2005.pdf"
+    publisher: "Pesuruhjaya Penyemak Undang-Undang Malaysia (cetakan semula)"
+  - title: "Bahagian Daftar Warisan"
+    url: "https://www.heritage.gov.my/en/kenali-daftar-warisan.html"
+    publisher: "Jabatan Warisan Negara"
+  - title: "Senarai Objek Tidak Ketara Status Warisan"
+    url: "https://www.heritage.gov.my/en/pengiktirafan-pengisytiharan/warisan/objek/objek-warisan-tidak-ketara.html"
+    publisher: "Jabatan Warisan Negara"
+  - title: "Objek Warisan Kebangsaan"
+    url: "https://www.jmm.gov.my/ms/content/objek-warisan-kebangsaan"
+    publisher: "Jabatan Muzium Malaysia"
+  - title: "What Is A 'Malaysian National Heritage' & How Are They Gazetted"
+    url: "https://www.therakyatpost.com/living/2021/04/25/what-is-a-malaysian-national-heritage-how-are-they-gazetted/"
+    publisher: "The Rakyat Post"
+
+entity: "Jabatan Warisan Negara"
+wikidata: "Q7354460"
+relations:
+  - { rel: "administered-by", to: "jabatan-warisan-negara" }
+  - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }
+related: ["unesco-world-heritage"]
+keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
+---
+
+조지타운의 백 년 된 상점 주택 한 채, 크리스(keris, 단검) 한 자루, 궁정 춤 하나, 그리고 생존해 있는 [송켓](/arts-culture/songket) 장인 한 사람 — 이 넷 모두 말레이시아에서 같은 법적 칭호를 지닐 수 있습니다. *국가문화유산*입니다. 이들을 묶는 것은 유네스코 목록이 아니라, 이름이 좀처럼 언급되지 않는 국내 등록부인 **국가문화유산 등록부**입니다.
+
+이 등록부는 **국가문화유산법 2005(Akta 645)**에서 비롯되었는데, 이 법은 2005년 12월 30일 국왕의 재가를 받아 하루 뒤 관보에 고시되었습니다. 그것은 고대유물법 1976(Akta Benda Purba 1976) 같은 옛 법을 대체하고 국가 유산 보존을 하나의 행정 기구 — **국가유산부(JWN)**와 한 명의 **유산 판무관** — 아래로 통합했습니다.
+
+## 국가문화유산 등록부란 무엇인가?
+
+Akta 645 제23조는 유산 판무관에게 그 법에 따라 등록된 유산 항목의 목록을 담은 '국가문화유산 등록부라 불리는 등록부를 설치하고 관리'하도록 지시합니다. 이 등록부는 폐쇄된 보관물이 아닙니다. 제23조는 판무관이 그것을 공개 열람에 개방하도록 의무화하며, 누구든 정해진 수수료를 내고 그것을 열람하거나 사본을 만들 수 있습니다.
+
+이해해야 할 중요한 점은 **'등록부에 오르는 것'과 '국가문화유산으로 선포되는 것'이 서로 다른 두 단계**라는 것입니다. 어떤 유적이나 물건은 이 법에 따라 등록될 수 있고, 그중 일부만이 이후 장관에 의해 공식 관보를 통해 *국가문화유산*으로 격상됩니다.
+
+## 관보에 고시될 수 있는 유산 범주는 무엇인가?
+
+Akta 645는 여러 유산 범주를 인정하며, 각각은 법 안에 자기만의 진입 통로를 가집니다.
+
+| 범주 | 간략한 정의 | Akta 645 조항 |
+| --- | --- | --- |
+| 유산 유적(heritage site) | 자연 또는 문화 유산으로서 중요성을 지닌 모든 유적 — 건물, 기념물, 경관 포함 | 제24조 |
+| 유산 물건(heritage object) | 판무관이 선포하거나 신청에 따라 등록되는 물건 | 제49조, 제51조 |
+| 수중 문화유산 | 유산 가치가 있는 난파선과 침몰 구조물 | 제61~66조 |
+| 국가문화유산 | 장관이 선포하는 유적, 물건, 수중 유산 또는 생존 인물 | 제67조 |
+
+이 법에서 '자연 유산'의 정의는 넓습니다 — 자연, 과학 또는 역사의 관점에서 비범한 가치를 지닌 산, 강, 암석 형성, 해안 같은 물리적 특징을 포함합니다. 한편 '무형 문화유산'은 언어, 언어적 발음, 민요, 시, 춤, 연극, 호신술을 아우릅니다.
+
+## 어떤 것이 어떻게 국가문화유산이 되는가?
+
+그 과정은 기술적 등록에서 장관의 선포로 나아갑니다.
+
+1. **지명.** 제68조에 따라 누구든 정해진 양식을 사용해 자연 유산, 유형 또는 무형 문화유산, 생존 인물, 또는 수중 유산을 지명할 수 있습니다.
+2. **평가.** 유산 등록부과는 관보고시부서를 통해 조사와 평가를 수행하여 해당 항목의 중요성과 진정성을 가늠합니다.
+3. **추천.** 전문가 위원회가 그 항목을 유산 판무관에게 추천하고, 판무관은 다시 그것을 장관에게 제안할 수 있습니다.
+4. **선포.** 제67조 제1항에 따라 장관은 등록된 유적, 물건, 수중 유산, 또는 모든 생존 인물을 국가문화유산으로 '관보에 게재되는 명령을 통해 선포할' 수 있습니다.
+5. **등재.** 제71조는 판무관에게 그렇게 선포된 국가문화유산을 등록부에 등재하도록 지시합니다.
+
+선포를 할 때 제67조 제2항은 아홉 가지 고려 사항을 제시합니다 — 그중에는 역사적 중요성, 미적 특징, 과학적 혁신, 사회적 또는 문화적 연관, 다양성, 그리고 그 유산의 희소성 또는 독특함이 있습니다. 유적이 주(州) 토지에 있으면 장관은 주 당국과 협의해야 하고(제67조 제3항), 사유지이면 소유자에게 적어도 30일 전에 통지해야 합니다(제67조 제4항).
+
+## 생존 인물 국가문화유산(WAKOH): 살아 있는 유산
+
+Akta 645의 가장 독특한 특징 가운데 하나는 **사람 한 명**을 유산으로 선포할 수 있는 능력입니다. 제67조는 '모든 생존 인물'을 국가문화유산으로 선포하는 것을 분명히 허용하며, 이는 **생존 인물 국가문화유산(WAKOH)**으로 알려져 있습니다.
+
+이는 대개 사라질 위기에 처한 유산 기예를 간직한 인물과 관련됩니다. 송켓 장인, 직조 장인, 와양 쿨릿(wayang kulit, 그림자 인형극)의 톡 달랑(tok dalang, 인형극 명인), 전통 악기 연주자 등입니다. 2021년 *The Rakyat Post*의 보도에 따르면 20명이 넘는 개인이 예술과 문화 분야의 기여로 이 특별한 인정을 받았습니다. 그 목적은 단순한 예우가 아니라, 그 인물의 지식이 보존되고 전승되도록 보장하는 데 있습니다.
+
+## 등록부의 실제 사례는 무엇인가?
+
+등록부의 내용은 여러 기관에 걸쳐 흩어져 있습니다. **말레이시아 박물관국(Jabatan Muzium Malaysia)**은 그 소장품 가운데 20개 유물 컬렉션이 국가문화유산 물건으로 관보에 고시되었다고 보고합니다 — 고고학 범주 3개 컬렉션, 민족학 범주 16개, 표본 범주 1개이며, 그중 18개는 디지털화되었습니다.
+
+무형 유산의 경우, 국가유산부의 목록에는 사라왁 사회의 사페(Sape) 춤, 믈라나우(Melanau) 사회의 프투두이(Petudui) 관습, 카다잔(Kadazan) 사회의 소깃(Sogit) 같은 항목이 포함됩니다 — 이 등록부의 범(汎)종족적 성격을 반영합니다. 약 1303년으로 연대가 매겨지고 현재 트렝가누 주립 박물관에 보관된 자위(Jawi) 명문석인 **트렝가누 명문석(Batu Bersurat Terengganu)** 같은 유명한 물건도 국가 유산으로 지켜지는 보물 가운데 하나입니다.
+
+## 관보 고시 이후의 법적 효과는 무엇인가?
+
+유산 지위는 법적 이빨을 지닙니다. 제112조에 따라 누구도 판무관의 서면 허가 없이 유산 유적을 파거나, 허물거나, 개조하거나, 훼손할 수 없습니다. 제112조 제2항의 위반은 **최대 5년의 징역, 또는 최대 RM50,000의 벌금, 또는 둘 다**로 처벌될 수 있으며, 법원은 훼손된 물건의 가치에 상당하는 추가 배상을 명령할 수 있습니다.
+
+국가문화유산의 경우 소유권도 통제됩니다. 소유자는 그 재산을 계속 보유할 수 있지만(제69조), 소유권 이전은 상속을 통하거나 판무관의 승인을 받은 매각을 통해서만 가능하며, 판무관은 매수에서 우선권을 부여받아야 합니다(제70조).
+
+## 그것은 유네스코 목록과 어떻게 다른가?
+
+이것이 가장 흔한 혼동입니다. **국가문화유산 등록부는 국내 수단**으로, 말레이시아 법에 따라 국가유산부가 관장합니다. 한편 **유네스코 세계유산목록**은 유네스코 협약에 따른 국제적 인정으로, 국제 기구가 평가합니다.
+
+둘은 겹칠 수 있지만 서로 자동으로 이어지지 않습니다. 어떤 유적은 유네스코 목록에 결코 오르지 않고도 국가문화유산 등록부에 있을 수 있으며, 유네스코 지명은 대개 국내 보호에서 먼저 시작됩니다. 요컨대, 국가문화유산은 말레이시아에 대한 가치를 재고, 세계유산은 인류에 대한 보편적 가치를 잽니다.
+
+## 다음으로 볼 것
+
+- **등록부를 열람하고 싶으신가요?** 제23조는 정해진 수수료를 내고 국가문화유산 등록부를 열람하고 사본을 만들 권리를 줍니다. 국가유산부에 문의하십시오.
+- **유산이나 인물을 지명하고 싶으신가요?** JWN 유산 등록부과에서 제68조 지명 양식을 받고, 제67조 제2항의 아홉 가지 고려 사항을 뒷받침하는 역사적 또는 문화적 중요성의 증거를 준비하십시오.
+- **역사적 건물의 소유자이신가요?** 어떤 건축 공사에 앞서 귀하의 재산이 보존 구역이나 유산 유적 안에 있는지 확인하십시오 — 제112조에 따라 판무관의 서면 허가가 필요합니다.
+- **법의 전문**은 말레이시아 법률 정비 판무관이 발행한 국가문화유산법 2005(Akta 645)를 참고하십시오.

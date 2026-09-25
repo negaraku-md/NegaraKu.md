@@ -1,0 +1,441 @@
+---
+topicId: MY-TAX-0030
+title: "2025년 7월 1일 서비스세 확대, 부문별 정리"
+seoTitle: "2025년 말레이시아 서비스세 확대 — 부문별 가이드"
+slug: "sst-expansion-2025"
+category: "taxation"
+subcategory: ["sst"]
+summary: "2025년 7월 1일 서비스세 확대가 각 부문에 미친 영향 — 세율, 등록 기준, 발효일, 그리고 여전히 시행 중인 경과 감면."
+
+tier: "1"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "2025년 7월 1일부터 말레이시아는 세 개의 새로운 서비스세 그룹을 추가했습니다 — RM1,000,000을 초과하는 임대 또는 리스의 Group K, RM1,500,000을 초과하는 6% 건설공사의 Group L, 그리고 기준 없이 6%인 교육의 Group M — 여기에 RM1,500,000을 초과하는 6%의 민간 의료·전통의학·연합보건이 Group I의 항목 14~16으로, 그리고 8%로 재구성된 Group H 금융이 더해졌습니다. 임대는 2026년 1월 1일에 8%에서 6%로 내렸습니다. 미용은 시행 전에 제외되었습니다."
+keyTakeaways:
+  - "The expansion created Groups K, L and M — there is no Group beyond M, and construction is Group L, not Group K"
+  - "Rental or leasing and finance thresholds were lifted from RM500,000 to RM1,000,000 by P.U.(A) 201/2025 one day before commencement"
+  - "Rental or leasing was taxed at 8% from 1 July 2025 but fell to 6% from 1 January 2026 under P.U.(A) 125/2026"
+  - "Beauty services never took effect — the Minister deleted the wellness centre definition before 1 July 2025"
+  - "Construction non-reviewable contract relief runs to 30 June 2027; the rental equivalent expired 30 June 2026"
+  - "Private healthcare is taxable on all patients as a matter of scope — Malaysian citizens are relieved by an exemption order, not excluded from the group"
+  - "Logistics was not part of this expansion — Group J has been in force since 1 March 2024"
+  - "The penalty amnesty for late registration, filing and payment ended 31 December 2025"
+appliesTo: "Finance and tax staff in landlords, contractors, financial institutions, private hospitals, private schools and any business that now buys these services."
+
+faq:
+  - q: "Which service groups were added on 1 July 2025?"
+    a: "Three new groups were inserted into the First Schedule of the Service Tax Regulations 2018 by P.U.(A) 172/2025 — Group K rental or leasing, Group L construction works and Group M education. Private healthcare, traditional and complementary medicine and allied health were added as items 14, 15 and 16 of the existing Group I, and Group H was substituted entirely to cover finance rather than just credit cards."
+  - q: "Is the service tax rate 6% or 8% on the new services?"
+    a: "Financial services are taxed at 8%. Construction works, private healthcare, traditional and complementary medicine, allied health and education are taxed at 6%. Rental or leasing was 8% from 1 July 2025 but became 6% from 1 January 2026. The split comes from the First Schedule to the Service Tax (Rate of Tax) Order 2018 as substituted by P.U.(A) 173/2025 and extended by P.U.(A) 125/2026 — everything not listed there defaults to 8%."
+  - q: "Were beauty services really taxed from 1 July 2025?"
+    a: "No. The Ministry of Finance announced on 27 June 2025 that it would not proceed with service tax on beauty services including manicure, pedicure, facial, barbers and hairdressers, and P.U.(A) 201/2025 deleted the wellness centre definition that would have brought them into Group C. Wellness centres and massage parlours remain taxable under Group C at 8%, as they have been since 2018."
+  - q: "What is a non-reviewable contract and does the relief still apply?"
+    a: "A non-reviewable contract is a written, stamped, fixed-value contract with no price review clause or value adjustment mechanism that was still in force after 1 July 2025. For construction works the exemption runs to 30 June 2027. For rental or leasing it ran only to 30 June 2026 and was not extended by the February 2026 amendment."
+  - q: "Does my tenant have to pay service tax on rent?"
+    a: "Not if the tenant is a registered micro, small or medium enterprise. Service Tax Policy No. 2/2025 as amended exempts MSME tenants with annual sales not exceeding RM1,500,000 from paying service tax on rental or leasing, provided the tenant registers and declares through the MyPMK system operated by Customs."
+  - q: "Do I count exempted revenue toward the registration threshold?"
+    a: "Yes. Every relief described here is an exemption from payment of tax under section 34 of the Service Tax Act 2018, not a removal of the service from the First Schedule. Section 12(2) tests the total value of all taxable services, so exempted supplies still count and can push you over the threshold."
+
+verificationNeeded:
+  - "The term wellness centre in Group C is no longer defined in the Service Tax Regulations 2018 after P.U.(A) 201/2025 deleted the proposed definition — confirm the current administrative boundary between a taxable wellness centre and a non-taxable beauty salon with RMCD"
+
+obligations:
+  - what: "Apply for service tax registration after crossing a group threshold"
+    trigger: "ongoing"
+    due: "not later than the last day of the month following the month in which liability arises"
+    authority: "RMCD"
+    statute: "Service Tax Act 2018, s.13(1)"
+    consequence: "Offence under s.13(5); Customs may backdate registration to the date liability arose under s.13(4)"
+  - what: "Furnish the SST-02 return and pay service tax due"
+    trigger: "ongoing"
+    due: "last day of the month following the end of each taxable period"
+    authority: "RMCD"
+    statute: "Service Tax Act 2018, s.26"
+    consequence: "Escalating late-payment penalty and prosecution"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-14
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-14
+sources:
+  - title: "Service Tax (Amendment) Regulations 2025, P.U.(A) 172/2025"
+    url: "https://mysst.customs.gov.my/wp-content/uploads/2025/07/Peraturan-Peraturan-CP-Pindaan-2025.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2025-06-09"
+  - title: "Service Tax (Amendment) Regulations 2025 (Amendment) Regulations 2025, P.U.(A) 201/2025"
+    url: "https://mysst.customs.gov.my/wp-content/uploads/2025/07/5-PUA-201.2025.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2025-06-30"
+  - title: "Service Tax (Rate of Tax) (Amendment) Order 2025, P.U.(A) 173/2025"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2905104/PUA%20173%20(2025).pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2025-06-09"
+  - title: "Service Tax (Rate of Tax) (Amendment) Order 2026, P.U.(A) 125/2026"
+    url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+125%2F2026"
+    publisher: "Attorney General's Chambers"
+    date: "2026-03-13"
+  - title: "Service Tax Policy No. 2/2025 (Amendment No. 3) — Rental or Leasing"
+    url: "https://mysst.customs.gov.my/wp-content/uploads/2026/04/DCP-2-2025-Sewaan-atau-Pajakan-Pindaan-No.3.pdf"
+    publisher: "RMCD"
+    date: "2026-01-23"
+  - title: "Service Tax Policy No. 2/2025 (Amendment No. 4) — Rental or Leasing"
+    url: "https://mysst.customs.gov.my/wp-content/uploads/2026/04/DCP-2-2025-Sewaan-atau-Pajakan-Pindaan-No.4.pdf"
+    publisher: "RMCD"
+    date: "2026-02-06"
+  - title: "Service Tax Policy No. 3/2025 (Amendment No. 3) — Construction Works"
+    url: "https://mysst.customs.gov.my/wp-content/uploads/2026/03/STP-3-2025-Construction-Works-Amendment-No.-3.pdf"
+    publisher: "RMCD"
+    date: "2026-01-30"
+  - title: "Service Tax Policy No. 1/2025 (Amendment No. 3) — Financial Services"
+    url: "https://mysst.customs.gov.my/wp-content/uploads/2025/12/STP-1-2025-Financial-Amendment-No.-3.pdf"
+    publisher: "RMCD"
+    date: "2025-10-17"
+  - title: "Service Tax Policy No. 4/2025 — Education Services"
+    url: "https://mysst.customs.gov.my/wp-content/uploads/2025/07/STP-4-2025-Education.pdf"
+    publisher: "RMCD"
+    date: "2025-06-29"
+  - title: "Revision to the Expanded Sales Tax and Service Tax Take Into Account Public and Industry Feedback"
+    url: "https://www.mof.gov.my/portal/en/news/press-release/revision-to-the-expanded-sales-tax-and-service-tax-take-into-account-public-and-industry-feedback"
+    publisher: "Ministry of Finance"
+    date: "2025-06-27"
+  - title: "FAQ — Expansion of Service Tax Scope 2025"
+    url: "https://mysst.customs.gov.my/faq-expansion-of-service-tax-scope-2025/"
+    publisher: "RMCD"
+  - title: "SST Orders (official list of Service Tax orders including the Persons Exempted from Payment Order and amendments)"
+    url: "https://mysst.customs.gov.my/sst-orders/"
+    publisher: "RMCD"
+  - title: "Malaysia Gazettes Service Tax (Rate of Tax) (Amendment) Order 2026 — P.U.(A) 125/2026 adds rental or leasing to the First Schedule 6% list, effective 1 January 2026"
+    url: "https://news.bloombergtax.com/daily-tax-report-international/malaysia-gazettes-service-tax-rate-of-tax-amendment-order-2026"
+    publisher: "Bloomberg Tax"
+  - title: "6 percent service tax rate for rental or leasing services — P.U.(A) 125/2026 deemed in operation 1 January 2026"
+    url: "https://kpmg.com/my/en/insights/2026/03/6-percent-service-tax-rate-for-rental-or-leasing-services.html"
+    publisher: "KPMG Malaysia"
+  - title: "Amendment to Service Tax Policy 2/2025 — rental or leasing; latest amendment restates 6% and does not extend the non-reviewable relief"
+    url: "https://kpmg.com/my/en/home/insights/2026/01/amendment-to-service-tax-policy-2-2025.html"
+    publisher: "KPMG Malaysia"
+  - title: "Latest Indirect Tax & SST Updates Malaysia 2026 — Service Tax Policy 2/2025 amendments; rental relief end date; no further extension"
+    url: "https://www.bdo.my/en-gb/insights/tax/malaysia-latest-indirect-tax-updates"
+    publisher: "BDO Malaysia"
+
+entity: "Service tax expansion 2025"
+relations:
+  - { rel: "administered-by", to: "rmcd" }
+  - { rel: "governs", to: "service-tax-act-2018" }
+  - { rel: "part-of", to: "sst-explained" }
+  - { rel: "explained-in", to: "sst-rate-table" }
+  - { rel: "requires", to: "sst-registration" }
+related: ["sst-explained", "sst-registration", "sst-rate-table", "sst-b2b-exemption", "sst-02-filing"]
+keywords: ["SST expansion 2025", "service tax expansion Malaysia", "Group K rental leasing service tax", "construction service tax 6%", "non-reviewable contract exemption", "private healthcare service tax"]
+---
+
+2025년 확대에 관해 유통되는 가장 흔한 단일 오류는 건설이 Group K에 있다는 것입니다. 그렇지
+않습니다. Group K는 임대 또는 리스, Group L은 건설공사, Group M은 교육입니다 — 그리고 잘못된
+그룹으로 신고하면 같은 신고서에 잘못된 세율과 잘못된 기준을 적용하게 됩니다.
+
+두 번째로 흔한 오류는 하나의 등록 기준을 인용하는 것입니다. 확대된 그룹들에 걸쳐 이제 네 개의
+서로 다른 기준이 작동 중이며, 가장 널리 인용되는 두 수치는 규칙 시행 하루 전인 2025년 6월
+30일에 대체되었습니다.
+
+## 2025년 7월 1일에 실제로 무엇이 바뀌었는가
+
+세 개의 법령이 그 일을 했으며, 모두 2025년 6월 9일에 관보에 게재되고 모두 2025년 7월 1일에
+발효되었습니다:
+
+| 법령 | 한 일 |
+| --- | --- |
+| P.U.(A) 172/2025 | 서비스세규정 2018(Service Tax Regulations 2018)의 별표 1을 개정 — Group K, L, M을 삽입, Group I에 항목 14~16을 추가, Group H를 전부 대체 |
+| P.U.(A) 173/2025 | 서비스세(세율)명령 2018(Service Tax (Rate of Tax) Order 2018)의 제3항을 대체 — 일반 세율을 8%로 정하고 6% 별표를 명시 |
+| P.U.(A) 174/2025 | 서비스세(납세 면제자)명령 2018(Service Tax (Persons Exempted from Payment of Tax) Order 2018)을 개정 |
+
+그다음 2025년 6월 30일에 **P.U.(A) 201/2025**가 발효되기 전의 P.U.(A) 172/2025를 개정했습니다.
+그것은 두 가지를 했습니다: Group H 항목 2, 3, 4와 Group K의 기준을 RM500,000에서
+RM1,000,000으로 올렸고, *wellness centre(웰니스 센터)*의 정의를 삭제했습니다.
+
+그 막바지 명령이 많은 공표된 안내가 틀린 이유입니다. 2025년 6월 9일과 30일 사이에 작성된 경보 —
+대부분이 그렇습니다 — 는 임대와 금융에 대해 RM500,000을 인용하고, 미용 서비스를 과세 대상으로
+설명합니다.
+
+## 6%와 8% 구분이 실제로 결정되는 방식
+
+세율명령 제3(1)항은 이제 서비스세를 **모든 서비스에 8%**로 고정합니다. 제3(2)(a)항은 **6%**로
+과세되는 별표 1을 떼어내고, 제3(2)(b)항은 특정 금액으로 과세되는 별표 2를 떼어냅니다.
+
+6% 별표 1은 13개 항목의 폐쇄 목록입니다:
+
+1. 조리 또는 제공 식품 서비스
+2. 조리 또는 제공 무알코올 음료 서비스
+3. 무알코올 음료 판매 서비스
+4. 알코올 또는 무알코올 음료를 곁들인 식품 서비스
+5. 통신 서비스
+6. 통신에 구독형 방송이 결합된 서비스
+7. 자동차 주차공간 서비스
+8. 물류 서비스
+9. 의료 서비스
+10. 전통·보완의학 진료 서비스
+11. 연합보건 관련 서비스
+12. 건설공사 서비스
+13. 교육 서비스
+
+**항목 14, 임대 또는 리스 서비스는 2026년 1월 1일부터 추가되었습니다** — 2026년 3월 13일에
+소급 효력으로 관보에 게재된 서비스세(세율)(개정)명령 2026, P.U.(A) 125/2026에 의해서입니다.
+관세청은 이미 행정적으로 인하를 부여했었습니다 — 서비스세 정책 제2/2025호(개정 제3호)가 관보를
+기다리는 동안 2026년 1월 1일부터 임대 세율 중 2%포인트를 면제했습니다.
+
+별표 2는 한 항목을 담습니다: 신용카드 및 충전카드, 발급 시 및 이후 매 12개월마다 **카드당
+RM25**.
+
+그 두 목록에 없는 모든 것은 8%입니다. 그것이 규칙의 전부입니다. 어느 부문이 어느 것인지 외울
+필요는 없습니다 — 그것이 그 14개 항목 목록에 나타나는지, 그리고 어느 날짜부터인지를 확인해야
+합니다.
+
+## 임대 또는 리스 — Group K, RM1,000,000, 8% 이후 6%
+
+가장 광범위하게 미치는 변화이자, 세율이 이미 움직인 변화입니다. 임대 또는 리스는 **2025년 7월
+1일부터 2025년 12월 31일까지 8%**로, **2026년 1월 1일부터 6%**로 과세되었습니다. 여전히 일률
+8%를 인용하는 가이드는 2025년을 설명하고 있는 것입니다.
+
+Group K는 임대 또는 리스 서비스를 제공하는 자가 제공하는, 임대의 일부를 이루는 다른 서비스를
+포함한 **모든 종류의 유형 자산 임대 또는 리스**를 포착합니다. 업종 제한은 없습니다: 창고를
+전대(sublet)하는 제조업체도 적용 대상입니다.
+
+그룹 자체에 네 개의 배제가 있습니다:
+
+- **주거용 숙박(housing accommodation)**의 임대 또는 리스
+- **독서 자료**의 임대 또는 리스
+- **말레이시아 밖에 소재한** 유형 자산의 임대 또는 리스
+- 유형 자산의 **금융 리스**
+
+Group K에 대한 주석 2는 주거용 숙박을 소형 오피스 홈 오피스(SOHO), 서비스드 아파트, 서비스드
+콘도미니엄, 서비스드 스위트, 주거용 스위트를 포함하도록 확장합니다. 이는 의도적으로 관대한
+해석이며 도시 임대 시장의 큰 몫을 적용 범위에서 빼냅니다.
+
+**자산이 어디에 소재하는가**는 2025년 11월 7일 서비스세 정책 제8/2025호가 이례적인 기준으로
+정리했습니다: 1982년 유엔해양법협약(UN Convention on the Law of the Sea 1982)에 따른 기선으로부터
+12해리 이내에 소재한 유형 자산은 말레이시아에 있고 과세 대상이며; 12해리를 넘으면 그렇지
+않습니다. 이는 해상 선박 및 리그 용선(charter)에 중요합니다.
+
+**MSME 임차인 면제**는 가장 자주 놓치는 조항입니다. 개정된 서비스세 정책 제2/2025호에 따라,
+영세·소·중기업인 임차인은 LHDN에 신고한 최신 과세연도 기준 연간 매출이 **RM1,500,000**을
+초과하지 않고 **MyPMK** 시스템을 통해 등록·신고하는 경우 임대 또는 리스에 대한 서비스세 납부를
+면제받습니다. 2025년 12월 31일 이전에 등록한 임차인은 면제를 2025년 7월 1일로 소급받고; 2026년
+1월 1일부터 등록하는 임차인은 MyPMK 등록일부터만 받습니다. 임차인에게 등록을 요청한 적이 없는
+임대인은 부과할 필요가 없었던 세금을 부과해 온 것입니다.
+
+**검토불가 계약(Non-reviewable contracts)**은 2025년 7월 1일부터 **2026년 6월 30일까지**
+면제되었습니다. 조건은 엄격합니다: 제공자는 서비스세 등록자여야 하고, 계약에 가격 검토 조항이나
+가치 조정 메커니즘이 없어야 하며, 서면이고 서명되어야 하고 **2025년 6월 9일 이전에** LHDN이
+날인해야 하며, 서비스 유형·고정 계약 금액·기간을 명시해야 하고, 2025년 7월 1일 이후에도 여전히
+유효했어야 합니다.
+
+그 감면은 이제 소진되었습니다. 2026년 2월 6일에 발행된 서비스세 정책 제2/2025호(개정 제4호)는
+동일한 2026년 6월 30일 종료일을 재확인하며 연장하지 않습니다. 이에 의존하던 임대인은 이미 가격을
+재조정했어야 합니다.
+
+같은 정책에 세 개의 추가 임대 감면이 있으며 놓치기 쉽습니다:
+
+- **그룹 감면.** 같은 그룹 내 회사 간 임대 또는 리스는, 상대방이 말레이시아 안에 있든 밖에 있든,
+  납부가 면제됩니다. 지배(control)란 상대 회사의 발행 납입자본의 50% 초과분을 직접, 자회사를 통해
+  간접적으로, 또는 조합하여 보유하는 것을 의미하며, 20%에서 50% 사이 보유에 대한 추가 갈래가
+  있습니다.
+- **항공기 및 선박.** 드론을 제외한 모든 항공기, 그리고 부유식 저장장치 등을 제외한 물 위나 물
+  속에서 항해하거나 이동하는 모든 선박의 임대 또는 리스는 2025년 7월 1일부터 면제됩니다.
+- **신규 설립 MSME 임차인.** 2026년 1월 1일부터, 막 사업을 시작한 MSME 임차인은 MyPMK에
+  등록하고 첫해 이후 지속 면제를 받기 위해 나중에 LHDN에 소득세 신고서를 제출하는 것을 조건으로,
+  **SSM(또는 사바·사라왁의 상응 기관) 등록일로부터 1년간** 면제를 받습니다.
+
+## 건설공사 — Group L, 6%, RM1,500,000
+
+Group L은 **주거용 건물 및 그와 관련된 공공시설**의 건설을 제외하고, 건설공사 서비스를 제공하는
+모든 자를 포착합니다. 건설공사의 정의는 건물, 토목공학, 기계·전기 공사, 통신공사, 가스공사 및
+상수도공사, 그리고 교량·댐·토공·파이프라인·하수도·터널·매립공사에 미치며 — 그것들의 필수적
+부분을 이루는 준비 및 임시 공사를 더합니다.
+
+주석 2는 주거용 건물이 지방자치단체가 승인한 **복합개발(mixed development)** 내에 있는 경우 주거용
+제외를 제거합니다. 그다음 서비스세 정책 제3/2025호(개정 제3호)가, 측량사·건축사 또는 기타 자격
+있는 자의 주거·비주거·공용 구성요소 검증을 조건으로, 공용 공공시설을 다음으로 안분하여 이를
+면제로 되돌려줍니다:
+
+> 비주거 연면적 ÷ 총 연면적 × 100
+
+**건설은 이번 확대에서 가장 긴 경과 감면을 받습니다.** 검토불가 계약은 2025년 7월 1일부터
+**2027년 6월 30일까지** 면제됩니다 — 임대보다 꼬박 1년 더 길며 — 조건은 사람들을 헷갈리게 하는
+방식으로 다릅니다. 계약은 **2025년 7월 1일 이전에** 서명되고 **2025년 12월 31일 이전에** LHDN이
+날인해야 합니다. 임대는 2025년 6월 9일 이전 날인을 요구했습니다. 두 감면, 두 개의 다른 날인 마감.
+
+변경명령(variation orders)은 전체 계약 금액을 바꾸지 않고 2025년 7월 1일 이전에 서명되고 2025년
+12월 31일 이전에 날인된 서면에 포함된 경우에만 2027년 6월 30일까지의 면제를 유지합니다. 기간
+연장(EOT)은 원 계약 금액이 변경되지 않고, 원 계약이 2025년 7월 1일 이전에 만료되었으며, EOT
+문서가 동일한 서명 및 날인 날짜를 충족하는 경우 면제를 유지합니다.
+
+짧은 환급 창구도 있었습니다: 2025년 7월에 처음 기준을 넘어 2025년 8월 31일 이전에 등록을 신청한
+계약자는 2025년 7월 1일부터 8월 31일까지 B2B 면제를 받았으며, 환급 청구는 **2025년 11월
+30일**까지, 그리고 세금을 고객에게 환급한 후에만 가능했습니다. 그 창구는 닫혔습니다.
+
+서비스세 정책 제7/2025호는 선박 및 플랫폼에 대한 EPCC 계약을 업계가 선택하도록 하여 처리합니다:
+조선을 건설로 취급하고 전문 서비스에 대해 B2B 면제를 받거나, 판매세 하의 제조로 취급하고 서비스세를
+부과하지 않되 전문 서비스 B2B 면제를 포기합니다.
+
+## 금융 서비스 — Group H, 8%, RM1,000,000
+
+Group H는 전면 교체되었습니다. 이전에는 신용카드 및 충전카드만 다뤘습니다; 이제 네 항목을
+가집니다.
+
+**항목 1** — 말레이시아 중앙은행(Bank Negara Malaysia)의 규제를 받는 자가 발급한 신용카드 및
+충전카드. 기준 **없음**, 카드당 12개월마다 RM25로 과세. 정부에 발급된 플릿 충전카드와 직장·교육기관
+또는 스포츠클럽 내에서만 사용되는 폐쇄형(closed-loop) 카드는 제외됩니다.
+
+**항목 2, 3, 4** — 보험 및 타카풀(takaful), 수수료 및 커미션 기반 금융 서비스, 그리고 라부안(Labuan)
+상당 서비스로, 말레이시아 중앙은행, 증권위원회 또는 라부안 금융서비스청(Labuan Financial Services
+Authority)의 규제를 받는 자가 제공. 기준 **RM1,000,000**, 8%로 과세.
+
+핵심 경계는 서비스세가 **수수료, 커미션 및 유사 지급**에 부착되고, 다음에는 명시적으로 부착되지
+않는다는 것입니다:
+
+- 신용 편의에 대한 이자 기반 지급
+- 샤리아 준수 금융에 대한 이익 기반 지급
+- 징벌적 성격의 지급
+- 판매가와 매입가의 차액을 통한 수익
+
+기본 은행 업무도 밖에 있습니다: 예금, 인출, 자금 지급 또는 이체, 직불카드 발급, 기본 창구 및 ATM
+거래, 계좌 명세서 인쇄. 말레이시아 내 고객에게 부과되는 해외 송금 수수료를 제외하고, 재화·토지
+또는 말레이시아 밖의 사안과 관련된 어떤 것도 마찬가지입니다.
+
+금융 서비스는 단계적으로 시작되었습니다. 서비스세 정책 제1/2025호(개정 제3호)는 목록화된 부록을
+제외한 모든 Group H 금융 서비스를 2025년 7월 1일부터 **9월 30일까지** 면제했고; 수수료 및 커미션
+기반 금융 서비스는 **2025년 10월 1일부터** 과세 대상이 되었습니다.
+
+## 민간 의료, 전통의학 및 연합보건 — Group I 항목 14~16, 6%, RM1,500,000
+
+이것들은 새 그룹이 아니라 기존 Group I에 들어갔습니다.
+
+- **항목 14** — 민간의료시설및서비스법 1998(Private Healthcare Facilities and Services Act 1998)에
+  따라 등록 또는 면허를 받은 민간 의료시설로, Act 30 또는 Act 173에 따라 대학이 운영하는 시설을
+  제외하고, 말라야대학 전문센터(University Malaya Specialist Centre), UKM 전문센터(UKM Specialist
+  Centre), UiTM 의료전문센터(UiTM Medical Specialist Centre), IIUM 의료전문센터(IIUM Medical
+  Specialist Centre)를 이름으로 제외.
+- **항목 15** — 민간 전통·보완의학.
+- **항목 16** — 민간 연합보건 서비스.
+
+**거의 모든 가이드가 부정확한 지점이 여기입니다.** 그들은 의료 서비스세가 비시민에게만 적용된다고
+말합니다. *범위*의 문제로서 그것은 규정이 말하는 바가 아닙니다 — Group I 항목 14~16은 환자
+국적으로 한정되지 않습니다. 말레이시아 시민에 대한 감면은 개정된 서비스세(납세 면제자)명령
+2018에서 나오며, 이는 **납부**의 면제입니다. 그 구분은 학술적이지 않습니다: 말레이시아 환자로부터의
+수입은 여전히 과세 서비스의 가액이므로 RM1,500,000 등록 기준에 산입됩니다. 외국인 환자 수입만을
+RM1,500,000과 대조하여 시험한 병원은 아마 과소 등록했을 것입니다.
+
+Group M과 비교하십시오. 거기서는 비시민 한정이 규정에 *기재되어 있습니다*. 입안자는 그것을
+어떻게 하는지 분명히 알았고 여기서는 그렇게 하지 않기로 택했습니다.
+
+서비스세 정책 제5/2025호(개정 제2호)는 의사·전통 진료사·연합보건 전문가가 부과하는 **진찰료**를,
+진찰료가 같은 송장에서 치료비와 분리되는 것을 조건으로 면제합니다. 환자로부터 이미 징수한 세금은
+여전히 서비스세법 2018 s.26에 따라 납부해야 합니다 — 그것을 징수하고 보유하는 것은 선택지가
+아닙니다.
+
+서비스세 정책 제6/2025호는 **같은 서비스 그룹 내 의료 제공자 간 B2B 면제가 없음**을 확인합니다.
+시설 A가 시설 B로 직접 걸어 들어가는 환자를 의뢰하는 경우, 비시민 환자에 대한 B의 A에 대한
+송장은 과세 대상입니다.
+
+## 민간 교육 — Group M, 6%, 기준 없음
+
+Group M은 등록 기준이 **없습니다(nil)**. 책임은 매출이 아니라 기관의 성격과 학비 수준으로
+정해집니다.
+
+- **항목 1** — 교육법 1996(Education Act 1996)에 따라 등록된 민간 교육기관으로 유아·초등·전기
+  중등·후기 중등 또는 후중등 교육을 제공하며 **학비가 학생당 학년당 RM60,000을 초과하는** 경우.
+  특수학교와 어학원은 제외됩니다.
+- **항목 2** — Act 30, 민간고등교육기관법 1996(Private Higher Educational Institutions Act 1996) 또는
+  교육법 1996에 따른 고등교육기관으로, **비시민에게 제공되는** 서비스에 대해.
+- **항목 3** — 교육법 1996에 따라 등록된 어학원으로, **비시민에게 제공되는** 서비스에 대해.
+
+서비스세 정책 제4/2025호는 긴 부수 비용 목록을 면제합니다: 도서, 교복, 식음료, 교통, 숙박, 학비의
+일부가 아닌 환급 가능 보증금, PTA 회비, 학비의 일부가 아닌 교육 여행, 학생 패스 또는 비자 비용.
+개정 제1호는 외교부 확인서를 소지한 외국 외교관의 자녀 및 부양가족, 그리고 기관·회사·재단 또는 기타
+단체가 전액 후원하는 학비에 대한 면제를 추가합니다.
+
+## 미용 — 일어나지 않은 확대
+
+미용 서비스는 이 무리에서 가장 끈질긴 오정보입니다.
+
+P.U.(A) 172/2025는 아로마테라피, 침술, 반사요법, 부항을 포함한 어떤 물질이나 장비를 사용하여
+신체 어느 부위든 처치하는 것 — 더하기 산후조리와 노인 웰니스 케어 — 을 다루는 *wellness centre*의
+정의를 삽입했을 것입니다. Group C의 명칭 변경과 결합하여, 그것은 미용 및 개인 관리 부문의 큰
+부분을 쓸어 담았을 것입니다.
+
+2025년 6월 27일에 재무부는 매니큐어, 페디큐어, 얼굴 관리 서비스, 이발사, 미용사를 지목하며 미용
+서비스에 대한 서비스세를 **진행하지 않겠다**고 발표했습니다. P.U.(A) 201/2025는 사흘 후 웰니스
+센터 정의를 삭제하여 이를 실현했습니다.
+
+살아남은 것은 기존 입장입니다: **웰니스 센터와 마사지 업소는 2018년 9월 1일 이래 그러했듯
+RM500,000을 초과하면 Group C 하에 8%로 여전히 과세됩니다**. 따라서 정확한 진술은 "미용이 이제
+과세된다"도 "미용이 전부 제외되었다"도 아니라 — Group C의 *확대*가 포기된 반면 원래 Group C는
+그대로 유지되었다는 것입니다.
+
+한 가지 마무리되지 않은 문제: 정의가 삭제되면서 *wellness centre*는 이제 규정에서 정의되지
+않습니다. 경계 근처의 운영자는 보도자료에 의존하기보다 관세청의 결정문(ruling)을 받아야 합니다.
+
+## 물류 — Group J, 6%, RM500,000, 그리고 이번 확대의 일부가 아님
+
+물류는 2025년 변경사항 사이에 일상적으로 열거됩니다. 그렇지 않았습니다. Group J 물류 서비스는
+**P.U.(A) 62/2024**에 의해 **2024년 3월 1일**부터 삽입되었으며, 물류 관리, 창고, 화물 운송 주선,
+항만 및 공항 서비스, 해운, 항공, 콜드체인 시설을 RM500,000에 다룹니다.
+
+이것이 중요한 이유는 2025년 확대 가이드를 읽는 물류 운영자가 자신의 책임이 실제로 2024년에
+발생했는데도 등록에 2025년까지 여유가 있다고 결론지을 수 있기 때문입니다 — 그리고 2025년 벌칙
+사면은 Group J를 다루지 않았습니다.
+
+## 벌칙 사면은 닫혔다
+
+2025년 6월 29일에 발행된 모든 부문 정책은 동일한 양보를 담았습니다: 지각 등록, 지각 신고서
+제출, 지각 납부, 부정확한 신고, 그리고 송장·대변표·차변표의 오류에 대해 **2025년 12월 31일까지**
+과료(compound)·기소·벌칙의 면제.
+
+그것은 조건부였습니다 — 위반이 관세청에 의해 적발되거나 자진 공개되어야 했고, 사기나 고의적
+위반은 다루지 않았으며, 경감은 공식적으로 신청되어야 했습니다. 그 창구는 닫혔습니다. 2026년 1월
+1일부터 통상적인 벌칙 제도가 확대된 그룹들에 적용됩니다.
+
+연방 및 주 정부는 내내 면제됩니다. 지방자치단체는 2025년 7월 1일부터 9월 30일까지만 면제되었습니다.
+
+## 흔한 실수
+
+- **건설을 Group K로 신고하는 것.** 건설은 RM1,500,000을 초과하면 6%인 Group L입니다. Group K는
+  RM1,000,000을 초과하면 8%인 임대입니다. 이를 틀리면 세율과 기준 둘 다 뒤집힙니다.
+- **임대 또는 금융에 RM500,000 기준을 사용하는 것.** 2025년 6월 30일에 P.U.(A) 201/2025로
+  대체되었습니다. 수치는 RM1,000,000입니다.
+- **2026년에 임대료에 8%를 부과하는 것.** 임대 또는 리스는 2026년 1월 1일에 6%로 내렸습니다. 8%
+  수치는 2025년 하반기만을 설명합니다.
+- **의료 기준에 대해 비시민 수입만 시험하는 것.** 시민 수입은 범위 밖이 아니라 납부가 면제된
+  것이며, 여전히 RM1,500,000에 산입됩니다.
+- **하나의 검토불가 계약 마감을 가정하는 것.** 임대는 2025년 6월 9일 이전 날인을 요구했고 2026년
+  6월 30일에 만료되었습니다. 건설은 2025년 7월 1일 이전 서명, 2025년 12월 31일 이전 날인을
+  요구하며 2027년 6월 30일까지 갑니다.
+- **MSME 임차인에게 임대료에 서비스세를 부과하는 것.** 임차인이 매출 RM1,500,000을 초과하지
+  않고 MyPMK에 등록되어 있으면 납부할 세금이 없습니다.
+- **교육을 매출 기반으로 취급하는 것.** Group M은 기준이 없습니다; RM60,000 수치는 항목 1에 대한
+  학생당 학비 시험이지 등록 기준이 아닙니다.
+- **사면이 아직 열려 있다고 믿는 것.** 2025년 12월 31일에 끝났습니다.
+
+## 다음 단계
+
+무엇보다 먼저 각 수입원이 어느 그룹에 속하는지 파악하십시오 — 그룹이 세율, 기준, 신고 항목을
+결정합니다. 그다음 서비스세법 2018 s.12(2)의 이동 12개월 시험을 사용하고 면제된 수입도 여전히
+산입됨을 기억하면서, 각 그룹을 자체 기준에 대해 별도로 시험하십시오.
+
+기준에 근접해 있다면 등록 메커니즘과 12개월 시험을 상세히 읽으십시오. 다른 등록 제공자로부터
+전문 또는 건설 서비스를 구매한다면, 지급하기 전에 B2B 면제가 세금을 제거하는지 확인하십시오.
+그리고 이 서비스 중 어떤 것이든 말레이시아 밖에서 취득한다면, 등록 여부와 관계없이 수입 과세
+서비스 규칙이 귀하에게 적용됩니다.

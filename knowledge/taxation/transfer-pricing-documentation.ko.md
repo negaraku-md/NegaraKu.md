@@ -1,0 +1,322 @@
+---
+topicId: MY-TAX-0048
+title: "말레이시아 이전가격 문서화 — 중견기업이 준비해야 할 것"
+seoTitle: "말레이시아 이전가격 문서화 — 규칙과 벌칙"
+slug: "transfer-pricing-documentation"
+category: "taxation"
+subcategory: ["international-tax"]
+summary: "말레이시아 회사가 동시대(contemporaneous) 이전가격 문서를 준비해야 하는 시점, 14일 제출 기한, 단계적 s.113B 벌칙, 그리고 추가 세금이 없어도 적용되는 s.140A(3C) 부가금."
+
+tier: "1"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "통제거래(controlled transaction)를 하는 모든 말레이시아 인(person)은, 말레이시아 이전가격 지침 2024(Malaysia Transfer Pricing Guidelines 2024) 제1.5항의 네 가지 제외 중 하나가 적용되지 않는 한, 신고서 제출 기한 전에 동시대 이전가격 문서를 준비해야 합니다. 총사업소득 RM30 million 초과에 국경 간 통제거래 RM10 million이 있는 경우, 또는 통제 금융지원(controlled financial assistance) RM50 million 초과인 경우 전체 문서화가 요구됩니다. LHDN은 14일 통지로 이를 요구할 수 있으며, 미이행 시 s.113B에 따라 과세연도당 RM20,000에서 RM100,000의 벌칙이 부과됩니다."
+keyTakeaways:
+  - "The trigger for any documentation is RM1 million of controlled transactions — well below the full-documentation thresholds"
+  - "Contemporaneous means brought into existence before the due date for furnishing the return, not before the audit"
+  - "Rule 5(3) gives you 14 days from the date the notice is served, and the clock does not stop for a tax agent's schedule"
+  - "The s.113B(4) penalty is graduated by lateness — RM20,000 up to seven days late, RM100,000 beyond 28 days, per year of assessment"
+  - "The s.140A(3C) surcharge of up to 5 per cent is charged on the adjustment, so it applies even to a loss-making or tax-exempt company"
+  - "Voluntary disclosure attracts a surcharge of 0 to 4 per cent under the Transfer Pricing Audit Framework effective 31 July 2025"
+  - "A permanent establishment must prepare full documentation regardless of any threshold"
+appliesTo: "Malaysian companies, LLPs, partnerships and individuals carrying on a business that transact with related parties, including domestic related-party transactions and shareholder loans."
+
+faq:
+  - q: "Does a small Sdn Bhd need transfer pricing documentation?"
+    a: "Often yes, in reduced form. Paragraph 1.5 of the Malaysia Transfer Pricing Guidelines 2024 exempts a person whose controlled transactions total not more than RM1 million, and a person with purely domestic controlled transactions where neither side enjoys incentives, both are taxed at the same headline rate, and neither has suffered losses for two consecutive prior years. Above RM1 million and outside those carve-outs, a minimum documentation is required even if the full-documentation thresholds are not met."
+  - q: "What are the full transfer pricing documentation thresholds in Malaysia?"
+    a: "Paragraph 1.7 of the Guidelines: gross business income of more than RM30 million in total together with cross-border controlled transactions totalling RM10 million or more annually, or controlled financial assistance received or provided of more than RM50 million annually. Meeting either limb requires full documentation under the Income Tax (Transfer Pricing) Rules 2023."
+  - q: "How long do I have to produce transfer pricing documentation?"
+    a: "Fourteen days from the date the Director General's written notice is served, under rule 5(3) of P.U.(A) 165/2023. The Transfer Pricing Audit Framework effective 31 July 2025 measures lateness from the expiry of that 14-day period until complete documentation is submitted, and prosecution can follow if there is no response at all."
+  - q: "What is the section 140A(3C) surcharge?"
+    a: "A charge of not more than 5 per cent of the increase in income, or the reduction in a deduction or loss, resulting from a transfer pricing adjustment. LHDN's FAQ confirms it is imposed regardless of whether the taxpayer is loss-making or tax-exempt, because it is charged on the adjustment rather than on tax. It is collected as if it were tax but is not treated as tax except for ss.103 to 106."
+  - q: "Who counts as an associated person for Malaysian transfer pricing?"
+    a: "Section 140A(5) covers persons where one controls the other, individuals who are relatives, and persons both controlled by a third person. Subsection (5A) defines control as holding 20 per cent or more of the share capital plus one of three factors: dependence on the other party's proprietary rights, the other party specifying business activities and influencing prices, or the other party appointing one or more directors."
+
+obligations:
+  - what: "Prepare contemporaneous transfer pricing documentation for the year"
+    trigger: "financial-year-end"
+    due: "before the due date for furnishing the income tax return for that year of assessment"
+    authority: "LHDN"
+    statute: "Income Tax (Transfer Pricing) Rules 2023, rule 4(1)"
+    consequence: "Penalty of RM20,000 to RM100,000 per year of assessment under s.113B(4), or prosecution under s.113B(1)"
+  - what: "Furnish contemporaneous transfer pricing documentation on request"
+    trigger: "change"
+    withinDays: 14
+    due: "within 14 days from the date the Director General's notice is served"
+    authority: "LHDN"
+    statute: "Income Tax (Transfer Pricing) Rules 2023, rule 5(3)"
+    consequence: "Graduated penalty from RM20,000 to RM100,000 depending on lateness, and possible prosecution"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+publishedBy: "ashton-tan"
+reviewed: 2026-08-14
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-14
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-14
+sources:
+  - title: "Income Tax (Transfer Pricing) Rules 2023, P.U.(A) 165/2023"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/1820059/PUA165_2023.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2023-05-29"
+  - title: "Malaysia Transfer Pricing Guidelines 2024"
+    url: "https://www.hasil.gov.my/wp-content/uploads/malaysia-transfer-pricing-guidelines-2024.pdf"
+    publisher: "LHDN"
+    date: "2024-12-24"
+  - title: "Rangka Kerja Audit Cukai Harga Pindahan, effective 31 July 2025"
+    url: "https://www.hasil.gov.my/wp-content/uploads/rangka-kerja-audit-cukai-harga-pindahan-2025.pdf"
+    publisher: "LHDN"
+    date: "2025-07-31"
+  - title: "Transfer Pricing Tax Audit Framework 2025 (English edition)"
+    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    date: "2025-07-31"
+  - title: "Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current)"
+    url: "https://www.hasil.gov.my/en/perundangan/rangka-kerja/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    date: "2025-07-31"
+  - title: "EY Tax Alert Special Edition No. 2/2025 — Transfer Pricing Tax Audit Framework 2025"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/malaysia-transfer-pricing-tax-audit-framework-2025"
+    publisher: "Ernst & Young Tax Consultants Sdn Bhd"
+    date: "2025"
+  - title: "FAQ on Matters Arising from Subsection 140A(3C) of the Income Tax Act 1967, latest amendment 31 July 2025"
+    url: "https://www.hasil.gov.my/wp-content/uploads/faq-sec140a-3c-31072025.pdf"
+    publisher: "LHDN"
+    date: "2025-07-31"
+  - title: "FAQ on Matters Arising from Subsection 140A(3C) of the Income Tax Act 1967, as at 18 January 2024"
+    url: "https://www.hasil.gov.my/wp-content/uploads/faq-on-matters-arising-from-subsection-140a-3c-ita-1967.pdf"
+    publisher: "LHDN"
+    date: "2024-01-18"
+  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.113B and 140A"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "LHDN"
+    date: "2024-05-21"
+
+entity: "Contemporaneous transfer pricing documentation"
+relations:
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "governs", to: "income-tax-act-1967" }
+  - { rel: "related-to", to: "cbcr-and-master-file" }
+related: ["cbcr-and-master-file", "permanent-establishment", "corporate-tax-rates", "losses-and-group-relief"]
+keywords: ["transfer pricing documentation Malaysia", "contemporaneous TPD Malaysia", "section 113B penalty", "section 140A(3C) surcharge", "P.U.(A) 165/2023", "transfer pricing threshold Malaysia"]
+---
+
+사람들을 망치는 부분은 14일입니다. LHDN이 소득세(이전가격)규칙 2023(Income Tax (Transfer
+Pricing) Rules 2023) 규칙 5(3)에 따라 통지를 송달하면, 14일 후 그 문서는 완비되어 그들의 손에
+있거나 없거나 둘 중 하나입니다. 규칙에는 연장 규정이 없습니다. 2주 늦으면 그 과세연도 하나만으로
+RM60,000을 마주하게 되며, 벌칙은 감사당이 아니라 연도당입니다.
+
+사람들을 망치는 또 다른 부분은 부가금(surcharge)입니다. 대부분의 소유주는 미흡수 손실이 있는
+회사는 이전가격 조정을 두려워할 것이 없다고 가정합니다 — 세금을 발생시키지 않는 조정은 벌칙을
+발생시킬 수 없기 때문이라는 것입니다. LHDN 자체 FAQ는 그 반대를 명시적으로 말합니다: s.140A
+조정에 대한 부가금은 "납세자가 손실 상태이든 면세 회사이든 관계없이" 부과되는데, 5%가 세금이
+아니라 조정에 부과되기 때문입니다.
+
+이 글은 인하우스 세무 기능을 가진 그룹이 아니라 — 싱가포르 모회사 하나와 관리 수수료(management
+fee)를 가진 매출 RM40 million 회사를 위해 쓰였습니다.
+
+## 누가 포착되고, 누가 진정으로 포착되지 않는가
+
+소득세법 1967 s.140A(5) 및 (5A)에서 시작하십시오. 이 모든 것이 적용되기 전에 거래가
+*통제(controlled)*되어야 하기 때문입니다. 거래는 한 당사자가 다른 당사자를 지배하거나, 당사자들이
+친족인 개인이거나, 둘 다 제3자에 의해 지배될 때 통제됩니다.
+
+s.140A(5A)에 따른 지배는 — 직접, 또는 양쪽 모두를 보유하는 제3자를 통하여 — **주식자본의 20%
+이상**, **더하기 다음 중 최소 하나**입니다:
+
+- 한 당사자의 사업 운영이 상대방이 제공하는 특허, 비특허 노하우, 상표 또는 저작권 같은 재산권에
+  의존하는 경우;
+- 한 당사자의 매입, 판매 또는 서비스의 수취·제공 같은 사업 활동이 상대방에 의해 지정되고, 가격과
+  공급 조건이 상대방의 영향을 받는 경우; 또는
+- 한 당사자의 이사 한 명 이상이 상대방에 의해 임명되는 경우.
+
+그것은 대부분의 사람들이 예상하는 것보다 낮은 지분 기준선이며, 세 갈래는 정상적인 그룹 자회사를
+거의 정확히 묘사합니다.
+
+그다음 말레이시아 이전가격 지침 2024 제1.5항을 적용하십시오. 다음에 대해서는 동시대 문서화가
+요구되지 않습니다:
+
+- 사업을 영위하지 않는 개인;
+- 국내 통제거래에만 관여하는, 파트너십을 포함하여 사업을 영위하는 개인;
+- 통제거래 합계가 **RM1 million을 넘지 않는** 인; 또는
+- 양 당사자 모두 세금 인센티브를 누리지 않고, 동일한 대표 세율로 과세되며, 거래 전 2년 연속
+  손실을 입지 않은 다른 인과 **오로지** 국내 통제거래만 하는 인.
+
+제1.6항이 함정입니다: 제외된 인도 여전히 정상거래원칙(arm's length principle)을 준수해야 하고
+가격이 어떻게 설정되었는지를 뒷받침하는 문서를 여전히 보관해야 합니다. 감면은 정식 파일로부터의
+것이지 기준으로부터의 것이 아닙니다.
+
+## 전체 문서화 대 최소 문서화
+
+제1.7항은 전체 문서화 기준을 정합니다. 인은 다음에 해당하면 전체 동시대 파일을 준비해야 합니다:
+
+- **(a)** 총사업소득이 합계 **RM30 million 초과**이고 **동시에** 국경 간 통제거래가 연간 합계
+  **RM10 million 이상**인 경우; **또는**
+- **(b)** 통제 금융지원을 연간 **RM50 million 초과** 수취 또는 제공하는 경우.
+
+지침 자체의 예시 시나리오는 각 갈래가 어떻게 무는지 보여줍니다. 소득 RM40 million, 국경 간 거래
+RM9 million, 국내 거래 RM10 million인 회사는 제1.7항 **밖**에 있습니다 — 국내 거래는 RM10 million에
+산입되지 않습니다. 소득이 RM5 million뿐이지만 그룹 내 금융이 RM51 million인 회사는 갈래 (b)를
+통해 **안**에 있습니다. 그리고 소득 RM20 million, 국경 간 거래 RM20 million, 금융 RM40 million인
+회사는 어느 시험도 완전히 충족되지 않으므로 두 갈래 모두 밖에 있습니다.
+
+제1.5항 밖이고 제1.7항 밖이라면, 제1.8항이 귀하를 **최소 CTPD** 범주에 둡니다. 최소 문서화는 완화된
+요구사항을 지니며, 신고서 제출 전에 완성되고 날짜가 기재되어야 하고, 제1.10항에 따라 정상거래원칙
+준수를 입증하는, 국세청장(Director General)이 허용하는 어떤 방법이든 허용합니다. LHDN은 이전가격
+페이지에 최소 문서화 템플릿과 설명 노트를 공표합니다. 귀하는 언제든 대신 전체 파일을 준비하기로
+선택할 수 있습니다.
+
+한 범주는 기준이 전혀 없습니다: 통제거래를 하는 **고정사업장(permanent establishment)**은 제1.7항과
+관계없이 전체 파일을 준비해야 합니다.
+
+## "동시대(contemporaneous)"가 실제로 의미하는 것
+
+P.U.(A) 165/2023 규칙 4(1): 문서는 "통제거래가 이루어진 과세연도의 기준기간에 신고서를 제출할
+기한 이전에 존재하게" 되어야 합니다.
+
+따라서 기한은 감사 서한이 아니라 Form C 제출 기한입니다. 통지가 도착한 주에 날짜가 기재된 파일은,
+그 내용이 무엇이든, 동시대가 아닙니다.
+
+규칙 4(2)는 내용을 정합니다:
+
+| 요구사항 | 규칙 4(2) |
+| --- | --- |
+| 다국적기업 그룹에 관한 정보 | (a), 별표 1 |
+| 인 자신의 사업에 관한 정보 | (b), 별표 2 |
+| 원가분담약정(cost contribution arrangement) 정보 | (c), 별표 3 |
+| 문서 색인 | (d) |
+| 문서가 완성된 날짜 | (e) |
+| 분석의 토대를 이루거나, 뒷받침하거나, 분석에서 참조된 문서 | (f) |
+| 정상거래가격을 결정하는 데 사용된 정보·데이터·문서, 사업 조건의 중대한 변화 포함 | (g) |
+
+규칙 4(3)은 항목이 적용되지 않는 경우 조용히 빼지 말고 그 사실을 명시적으로 기재하도록 요구합니다.
+규칙 4(5)는 국세청장에게 지침을 발행할 권한을 부여합니다 — 2024년 지침이 그 효력을 얻는 곳입니다.
+
+규칙 5(1)에 유의하십시오: 정상거래가격은 *결정 시점에* 합리적으로 이용 가능한 가장 최신의 신뢰할
+수 있는 정보에 근거해야 합니다. 그다음 지침 제11.3항은 감사 중에 나중의 비교 데이터로 벤치마킹을
+갱신하는 것을 동시대성을 훼손하지 않고 허용합니다 — 그러나 갱신이 조정을 낳으면 그에 대해 부가금이
+부과될 수 있다고 경고합니다.
+
+## 방법 선택, 그리고 이를 변경하는 LHDN의 권한
+
+규칙 6(1)은 **가장 적절한 방법(most appropriate method)**을 요구합니다: 전통적 거래 방법 — 비교가능
+제3자 가격(comparable uncontrolled price), 재판매가격 또는 원가가산 — 거래이익 방법인 이익분할 또는
+거래순이익률(transactional net margin) 방법, 또는 가장 높은 수준의 비교가능성을 제공하는, 국세청장이
+허용하는 다른 어떤 방법.
+
+규칙 6(2)는 그 선택 자체에 문서화 부담을 부과합니다. 선택된 방법과 이익수준지표가 정상거래가격의
+더 나은 근사치로서 적절한 이유를 설명하고, 정확히 획정된 거래의 사실 및 경제적으로 관련 있는
+특성에 근거하여야 합니다.
+
+규칙 6(3)은 소규모 신고자가 과소평가하는 부분입니다: 국세청장은 귀하가 선택한 방법이 가장 적절하지
+않았다고 믿을 이유가 있으면 그것을 검토하고 열거된 방법 중 다른 것으로 **대체**할 수 있습니다.
+방법을 정당화하지 않고 주장하는 파일은 그 대체를 부르며, 결과 조정에는 아래의 부가금이 따릅니다.
+
+## LHDN이 실제로 사용하는 금액으로 본 제113B조 벌칙
+
+s.113B(1)은 불이행을 형사 범죄로 만듭니다: 유죄 판결 시 RM20,000 이상 RM100,000 이하의 벌금,
+또는 6개월 이하의 징역, 또는 병과. s.113B(2)는 문서가 제출되었음을 증명할 부담을 피고인에게
+지웁니다. s.113B(3)은 법원이 30일 이내에 준수를 명령할 수 있게 합니다.
+
+s.113B(4)가 귀하가 마주할 조항입니다. 기소가 없었던 경우, 국세청장은 서면 통지로, 또는 부과통지서로,
+RM20,000 이상 RM100,000 이하의 벌칙 납부를 요구할 수 있습니다. 이를 납부하면 동일 사실에 대한
+기소가 배제됩니다.
+
+2025년 7월 31일 발효된 이전가격 감사 프레임워크(Transfer Pricing Audit Framework)가 금액을
+정합니다. 지각은 14일 기간 만료로부터 완비된 문서가 LHDN에 도달할 때까지 측정됩니다:
+
+| 14일 초과 지각 | s.113B(4) 벌칙 |
+| --- | --- |
+| 7일까지 | RM20,000 |
+| 7일 초과 14일까지 | RM40,000 |
+| 14일 초과 21일까지 | RM60,000 |
+| 21일 초과 28일까지 | RM80,000 |
+| 28일 초과 | RM100,000 |
+
+프레임워크는 문서가 지각 제출되었거나 **또는** 제출된 것이 P.U.(A) 165/2023 및 유효 지침에 비추어
+불완전한 경우, 감사 종결 단계에서 **각 과세연도마다 별도로** 벌칙을 적용합니다. 기소는 전혀 응답하지
+않는 납세자를 위해 유보됩니다.
+
+경과 양보가 있습니다. 프레임워크는 **P.U.(A) 165/2023이 2023년 5월 29일에 관보에 게재되기 전에**
+시작된 회계기간에 대해 s.113B(4) 벌칙을 적용하지 않습니다. 자체 예시: 2022년 6월 1일부터 2023년
+5월 31일까지의 회계기간은 감면을 받고; 2023년 6월 1일부터 2024년 5월 31일까지는 받지 못하며;
+2023년 역년은 감면을 받고; 2024년 역년은 받지 못합니다.
+
+s.113B(4) 통지는 부과통지서인 것처럼 **30일** 이내에 특별심판관(Special Commissioners)에게 항소할
+수 있습니다.
+
+## 세금 없이 떨어지는 부가금
+
+s.140A(3C)는 국세청장에게, s.140A(3)에 따른 가격 대체 또는 s.140A(3A)에 따른 구조 무시에서 비롯된
+소득 증가 또는 공제·손실 감소의 **5% 이하**의 부가금 납부를 요구할 수 있게 합니다.
+
+네 가지 요점이 그 비용이 얼마인지를 결정합니다:
+
+**세금이 아니라 조정에 부과됩니다.** LHDN의 FAQ는 손실 사례 질문에 직접 답합니다 — 납세자가
+정상거래원칙을 준수하지 못한 경우, 부과 또는 추가 부과가 발생하든 아니든 부가금이 부과됩니다.
+프레임워크는 이를 반복합니다: 부가금은 부과가 이루어지지 않는 경우에도 여전히 부과될 수 있습니다.
+
+**일반 세율은 5%입니다.** 2025년 7월 31일에 개정된 FAQ는 공표된 척도가 없고, 최종 세율은 사안에
+따라 다르며, 자진 공개에 대해 더 낮은 세율이 제공된다고 말합니다. 프레임워크는 자진 공개를 **0%에서
+4%**로 둡니다.
+
+**2021년 1월 1일 이후 시작하는 기준기간에만 미칩니다.** 그 이전 기준기간의 조정에 대해 LHDN은
+대신 과소부과된 세금에 s.113(2) 벌칙을 적용하며, 프레임워크에 따라 초범은 15%, 재범은 30%, 그 이후는
+45%로, s.124(3)의 감경 또는 면제 재량과 함께입니다.
+
+**세금으로 징수되지만 세금이 아닙니다.** s.140A(3D): 부가금은 납부할 세금인 것처럼 징수되지만,
+ss.103~106을 제외한 이 법의 어떤 규정에 대해서도 세금으로 취급되지 않습니다. 따라서 지각 납부에
+대한 10% 증액과 회수 장치를 유발하지만, 계산에는 반영되지 않습니다.
+
+부가금은 상호합의절차(Mutual Agreement Procedure) 결과를 따릅니다 — MAP에 따라 조정이 감소되면
+FAQ는 부가금도 그에 맞춰 조정된다고 확인합니다.
+
+## 흔한 실수
+
+**국내 거래가 안전하다고 믿는 것.** 제1.5(d)항의 특정 예외만이 순수 국내 거래를 제외하며, 한쪽이
+인센티브를 가지거나, 다른 대표 세율을 갖거나, 2년 연속 손실 연도가 있는 순간 그것은 실패합니다.
+손실 상태인 Sdn Bhd가 수익성 있는 자매 회사에 지급하는 관리 수수료는 명백히 적용 범위 안에
+있습니다.
+
+**RM30 million 기준을 진입점으로 읽는 것.** 그것은 *전체* 문서화의 진입점입니다. 문서화 자체의
+진입점은 통제거래 RM1 million입니다.
+
+**국내 거래를 RM10 million에 산입하는 것.** 제1.7(a)항은 국경 간이라고 말합니다.
+
+**그룹 내 대출을 무시하는 것.** RM50 million을 초과하는 무이자 이사 또는 주주 자금은 제1.7(b)항에
+따라 소득 기준 없이 그 자체로 전체 문서화를 유발합니다.
+
+**그룹 마스터파일을 충분한 것으로 취급하는 것.** 그것은 요구되는 모든 것을 담고 있는 경우 별표 1
+정보를 대체할 수 있지만, 별표 2 — 말레이시아 실체 자신의 사업, 기능, 벤치마킹 — 는 현지에서
+준비되어야 합니다.
+
+**손실 상태가 보호라고 가정하는 것.** 그렇지 않으며, 이것이 중견시장에서 가장 흔한 오해입니다.
+
+**신고서 이후에 파일에 날짜를 기재하는 것.** 그것만으로도, 품질과 관계없이, 파일을 비동시대적으로
+만듭니다.
+
+## 다음 단계
+
+두 가지를, 순서대로. 첫째, 기준은 매년 시험되므로 작년이 아니라 올해 수치를 사용하여 귀하가 어느
+항 — 1.5, 1.7 또는 1.8 — 에 속하는지 파악하십시오. 둘째, 1.7 또는 1.8에 있다면 완성일을 Form C
+기한에 맞추고 거꾸로 작업하십시오. 전체 벌칙 제도가 통지 도착 시 이미 존재했던 파일에 결부되기
+때문입니다.
+
+그룹이 연결 매출 EUR 750 million 또는 RM3 billion을 초과한다면 `cbcr-and-master-file`도 읽으십시오
+— 거기의 보고 의무는 별도의 시계로 움직입니다. 상대방이 말레이시아 내 인원을 통해 운영하는 외국
+모회사라면, `permanent-establishment`가 그룹이 가격과는 별개로 말레이시아 과세 실재를 가질 위험을
+다룹니다.

@@ -1,0 +1,187 @@
+---
+topicId: MY-ART-0063
+title: "전통 말레이 의상: 바주 믈라유, 바주 쿠룽, 크바야"
+seoTitle: "바주 믈라유, 바주 쿠룽, 크바야: 전통 말레이 의상 안내"
+slug: "traditional-malay-attire"
+category: "arts-culture"
+subcategory: ["attire"]
+summary: "남성을 위한 바주 믈라유(baju Melayu), 여성을 위한 바주 쿠룽(baju kurung)과 크바야(kebaya) — 이것이 삼핑(samping), 송콕(songkok), 투둥(tudung)으로 완성되는, 말레이 공식 의상의 근간을 이루는 세 가지 옷입니다. 이 안내는 각각의 구성 요소, 재단 양식, 착용 예법, 역사를 설명합니다."
+tier: "1"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+answer: "전통 말레이 의상은 세 가지 주요 옷을 축으로 합니다. 남성을 위한 바주 믈라유(바지와 짝을 이루는 헐렁한 옷으로, 삼핑과 송콕으로 완성됨), 여성의 국민 의상으로 인정받는 바주 쿠룽(천과 짝을 이루는 긴 옷), 그리고 크바야(몸의 선을 더 따르는 앞이 트인 옷)입니다. 바주 믈라유와 바주 쿠룽에는 두 가지 주요 깃 양식 — 체칵 무상(cekak musang)과 텔룩 블랑아(Teluk Belanga) — 이 있으며, 크바야는 2024년 이웃 네 나라와 함께 유네스코 인류무형문화유산 대표목록에 등재되었습니다."
+keyTakeaways:
+  - "Baju Melayu lengkap terdiri daripada baju, seluar, kain samping dan songkok — samping ialah kain sarung yang dililit di luar seluar"
+  - "Ada dua gaya kolar: cekak musang (kolar tinggi berdiri melingkari leher) dan Teluk Belanga (kolar bulat halus dengan sulaman tulang belut)"
+  - "Baju Melayu dan baju kurung Teluk Belanga dikaitkan dengan Sultan Abu Bakar yang memerintah Johor dari Teluk Belanga, Singapura; pada 1982 Sultan Iskandar menetapkan potongan Teluk Belanga sebagai pakaian rasmi orang Melayu Johor"
+  - "Baju kurung diiktiraf sebagai busana kebangsaan wanita Malaysia; potongannya labuh dengan pesak dan kekek untuk keselesaan"
+  - "Kebaya disenaraikan dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan UNESCO pada Disember 2024 melalui pencalonan bersama Brunei, Indonesia, Malaysia, Singapura dan Thailand (rujukan 02090)"
+
+appliesTo: "Sesiapa yang ingin memahami, memilih atau memakai pakaian tradisional Melayu dengan betul — untuk majlis rasmi, perkahwinan, Hari Raya atau sekadar mengenali warisan busana Malaysia."
+
+faq:
+  - q: "Apakah komponen lengkap baju Melayu?"
+    a: "Baju Melayu lengkap terdiri daripada baju (baju longgar berlengan panjang), seluar, kain samping yang dililit di luar seluar, dan songkok sebagai penutup kepala. Samping biasanya kain songket atau kain bercorak, dan songkok baldu hitam ialah pasangan yang paling lazim untuk majlis rasmi."
+  - q: "Apa beza kolar cekak musang dengan Teluk Belanga?"
+    a: "Cekak musang ialah kolar tinggi yang berdiri melingkari leher dan berbutang, manakala Teluk Belanga ialah kolar bulat yang lebih rendah dengan jahitan halus 'tulang belut' di lehernya. Dari segi sejarah, laman rasmi Kerajaan Johor mencatatkan kolar cekak musang yang tinggi dahulunya dikaitkan dengan golongan diraja dan pembesar."
+  - q: "Kenapa baju kurung dipanggil busana kebangsaan?"
+    a: "Jabatan Muzium Malaysia menyifatkan baju kurung sebagai pakaian tradisional masyarakat Melayu yang diiktiraf sebagai busana kebangsaan negara. Potongannya yang labuh dan longgar melambangkan nilai kesopanan, keanggunan dan kesederhanaan, dan ia dipakai dari sekolah hingga ke majlis rasmi peringkat kebangsaan."
+  - q: "Adakah kebaya diiktiraf UNESCO?"
+    a: "Ya. Kebaya disenaraikan dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan UNESCO pada sesi ke-19 Jawatankuasa di Asunción, Disember 2024, melalui pencalonan bersama lima negara: Brunei Darussalam, Indonesia, Malaysia, Singapura dan Thailand (rujukan 02090)."
+  - q: "Apa itu samping dan bagaimana ia dipakai?"
+    a: "Samping ialah sehelai kain sarung — selalunya songket atau kain bercorak — yang dililit di luar seluar baju Melayu, dari pinggang ke bawah. Laman rasmi Kerajaan Johor menggambarkan lipatannya sebagai bentuk 'ombak mengalun' dan panjangnya sekitar paras buku lali."
+  - q: "Adakah kebaya sama dengan baju kurung?"
+    a: "Tidak. Baju kurung ialah baju labuh yang longgar dan menutup bentuk badan, dipakai dengan kain. Kebaya pula ialah baju berbelah depan yang lebih mengikut bentuk badan, dikancing dengan kerongsang (brooch) atau butang, dan dipadankan dengan sarung. Kebaya biasanya lebih pas di badan berbanding baju kurung."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-01
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-01
+sources:
+  - title: "Kebaya: knowledge, skills, traditions and practices"
+    url: "https://ich.unesco.org/en/RL/kebaya-knowledge-skills-traditions-and-practices-02090"
+    publisher: "UNESCO"
+    date: "2024-12"
+  - title: "Decision of the Intergovernmental Committee: 19.COM 7.B.26 — Kebaya"
+    url: "https://ich.unesco.org/en/decisions/19.COM/7.B.26"
+    publisher: "UNESCO"
+    date: "2024-12"
+  - title: "Pakaian Tradisional Johor"
+    url: "https://royal.johor.my/pakaian-tradisional-johor/"
+    publisher: "Pejabat DYMM Sultan Johor (royal.johor.my)"
+  - title: "Baju Kurung: Busana Sepanjang Zaman — Koleksi Terpilih Jabatan Muzium Malaysia"
+    url: "https://www.jmm.gov.my/en/content/baju-kurung-busana-sepanjang-zaman-koleksi-terpilih-jabatan-muzium-malaysi"
+    publisher: "Jabatan Muzium Malaysia"
+  - title: "Muzium Tekstil Negara"
+    url: "http://www.jmm.gov.my/en/museum/national-textile-museum"
+    publisher: "Jabatan Muzium Malaysia"
+entity: "Pakaian Tradisional Melayu"
+relations:
+  - { rel: "part-of", to: "malaysia" }
+  - { rel: "related-to", to: "songket" }
+  - { rel: "related-to", to: "batik" }
+  - { rel: "related-to", to: "hari-raya-aidilfitri" }
+related: ["songket", "batik", "hari-raya-aidilfitri"]
+keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
+---
+
+하리 라야나 결혼식을 위해 채비하는 한 남자를 보십시오. 헐렁한 옷은 이미 입었고 바지도 꿰었지만 — 아직 끝나지 않았습니다. 남은 것은 그가 옷을 온전히 갖춰 입었는지 반만 입었는지를 가르는 두 가지입니다. 허리에 두르는 한 장의 삼핑 천과, 머리에 얹는 송콕입니다. 그 두 가지가 없으면 바주 믈라유는 아직 진정한 바주 믈라유가 아닙니다.
+
+그것이 전통 말레이 의상의 실상입니다 — 그것은 단지 한 벌의 옷이 아니라 자체의 규칙과 예법을 갖춘 하나의 세트입니다. 이 안내는 세 가지 핵심 의상 — 남성의 바주 믈라유, 그리고 여성의 바주 쿠룽과 크바야 — 을, 그것들을 완성하는 삼핑, 송콕, 투둥과 함께 풀어냅니다.
+
+## 바주 믈라유, 바주 쿠룽, 크바야는 어떻게 다른가?
+
+셋 다 전통 말레이 의상이지만, 각각은 형태, 착용자, 입는 방식이 다릅니다. 가장 구별하기 쉬운 것은 바주 믈라유(남성)와, 서로 자주 혼동되는 두 여성 의상 — 바주 쿠룽과 크바야 — 입니다.
+
+| 의상 | 착용자 | 기본 형태 | 함께 입는 것 |
+| --- | --- | --- | --- |
+| 바주 믈라유 | 남성 | 긴소매 헐렁한 옷 + 바지 | 삼핑 천 + 송콕 |
+| 바주 쿠룽 | 여성 | 길고 헐렁하며 엉덩이를 덮는 옷 | 천(사롱) + 투둥 |
+| 크바야 | 여성 | 앞이 트이고 몸의 선을 더 따르는 옷 | 사롱 + 크롱상/단추 |
+
+바주 쿠룽과 크바야의 가장 뚜렷한 차이는 재단입니다. 바주 쿠룽은 헐렁하고 몸의 선을 드러내지 않는 반면, 크바야는 앞이 트이고 몸에 더 맞으며 크롱상(브로치)이나 단추로 여밉니다. 유네스코는 크바야를 '흔히 고운 자수로 장식하고 크롱상이나 단추 같은 여밈으로 채우는 앞이 트인 옷'으로 묘사하며, 사롱과 짝을 이룬다고 설명합니다.
+
+## 무엇이 바주 믈라유를 완성하는가?
+
+바주 믈라유는 한 벌의 옷이 아니라 어우러진 네 가지 구성 요소입니다. 말레이시아 박물관국(Jabatan Muzium Malaysia)은 바주 믈라유를, 긴소매의 헐렁한 옷에 긴바지 또는 삼핑이라 불리는 천을 짝지어 흔히 송콕으로 마무리하는 말레이 남성 전통 의상으로 규정합니다.
+
+그 네 가지 구성 요소는:
+
+- **바주(baju, 상의)** — 긴소매의 헐렁한 옷으로, 편하고 낙낙하도록 대개 몸에 맞추는 바느질을 많이 하지 않고 짓습니다.
+- **슬루아르(seluar, 바지)** — 헐렁한 긴바지. 조호르 왕실 공식 웹사이트는 텔룩 블랑아 바주 믈라유의 통 넓은 바지가 실은 당시 중국인 노동자의 '중국식 바지'에서 변용된 것이라고 기록합니다.
+- **카인 삼핑(kain samping)** — 바지 위에 허리부터 아래로 두르는 사롱 천.
+- **송콕(songkok)** — 특히 공식 행사에서 옷을 완성하는 머리 덮개.
+
+### 체칵 무상인가, 텔룩 블랑아인가?
+
+바주 믈라유에 대해 이해해 둘 가장 중요한 차이는 깃 양식입니다. 두 가지 주요 양식이 있고, 그 이름은 자주 들리지만 좀처럼 이해되지 않습니다.
+
+| 깃 양식 | 모양 | 맥락 |
+| --- | --- | --- |
+| 체칵 무상 | 목을 감싸며 서 있는 높은 깃에 단추가 달림 | 조호르 왕실 공식 웹사이트는 이 높은 깃이 예전에 왕족과 고관과 연관되었다고 기록함 |
+| 텔룩 블랑아 | 목에 '툴랑 블룻(tulang belut, 뱀장어 뼈)' 고운 바느질이 있는, 더 낮은 둥근 깃 | 조호르 말레이인의 공식 의상으로 지정된 재단 |
+
+'툴랑 블룻'이라는 이름은 텔룩 블랑아 옷의 목둘레에 뱀장어 뼈를 닮게 놓는 고운 자수 기법을 가리킵니다. 그것은 정성껏 만든 텔룩 블랑아 옷의 마무리 표지가 되는 손바느질입니다.
+
+두 양식 모두 오늘날에도 입힙니다. 체칵 무상은 목까지 단추를 채우는 깃 때문에 더 격식 있고 완전히 갖춰 입은 것으로 여겨지는 반면, 텔룩 블랑아는 똑같이 공식 행사에 어울리면서도 더 가볍고 편안하게 보입니다.
+
+## 텔룩 블랑아 재단은 어디에서 왔는가?
+
+'텔룩 블랑아'라는 이름은 단지 양식이 아니라 — 하나의 장소입니다. 조호르 왕실 공식 웹사이트는 텔룩 블랑아 바주 믈라유가 싱가포르의 텔룩 블랑아에서 조호르를 다스린 술탄 아부 바카르(Sultan Abu Bakar)와 연관된다고 기록합니다. 당시 조호르는 이미 오랫동안 교역의 교차로였고, 이 의상은 여러 영향의 만남에서 태어났습니다 — 인도와 중국에서 온 상인과 노동자의 옷이 말레이 관습과 결합한 것입니다.
+
+그래서 그 통 넓은 바지가 중국인 노동자의 바지에서 비롯되었고, 그 재단은 외래 요소를 흡수하면서도 말레이의 것으로 남았습니다. 텔룩 블랑아 옷은 긴소매에, 엉덩이를 지나 길게 재단됩니다.
+
+확인할 수 있는 역사의 한 지점: 1982년, 술탄 이스칸다르(Sultan Iskandar)는 텔룩 블랑아 재단을 조호르 말레이인의 공식 의상으로 지정했습니다. 이로써 텔룩 블랑아는 단지 하나의 양식이 아니라 한 주의 공식 의상이 되었습니다.
+
+## 삼핑과 송콕은 무엇을 위한 것인가?
+
+바주 믈라유를 입어 버릇하지 않은 사람에게는 바로 이 두 구성 요소가 가장 자주 빠지거나 잘못 입혀집니다.
+
+**삼핑**은 바지 위에 허리부터 아래로 두르는 한 장의 사롱 천입니다. 금실로 짠 송켓 천이나 다른 무늬 천으로 만들 수 있습니다. 조호르 왕실 공식 웹사이트는 삼핑의 접힘을 '일렁이는 파도' 모양으로 묘사하며 길이는 대략 복사뼈 높이라고 합니다. 결혼식처럼 더 격식 있는 자리에서는 금실 송켓 삼핑이 흔한 선택인데, 화려한 느낌을 주기 때문입니다 — 그래서 [송켓](/arts-culture/songket)이 예전에 신분의 표식이었습니다.
+
+**송콕**은 타원형의 머리 덮개로, 보통 벨벳, 펠트, 면으로 만들며 대개 검은색입니다. 조호르의 텔룩 블랑아 바주 믈라유에 대해 조호르 왕실 공식 웹사이트는 검은 가죽 신발과 함께 '검은 벨벳 송콕'을 그 짝으로 언급합니다. 송콕은 공식 행사에서 완전히 갖춰 입었다는 표지입니다 — 격식 있는 자리에서 송콕 없이 바주 믈라유를 입는 것은 아직 완전하지 않은 것으로 여겨집니다.
+
+## 바주 쿠룽은 왜 국민 의상이라 불리는가?
+
+바주 쿠룽은 말레이시아에서 가장 널리 입는 여성 의상입니다 — 학생부터 공무원, 국가 공식 행사까지 이릅니다. 말레이시아 박물관국은 바주 쿠룽을 국가의 국민 의상으로 인정받은 말레이 사회의 전통 의상으로 규정하며, 그 디자인이 '단정함, 우아함, 소박함의 가치를 반영한다'고 설명합니다.
+
+바주 쿠룽의 재단은 편안함과 단정함을 위해 만들어졌습니다. 조호르 왕실 공식 웹사이트는 텔룩 블랑아 바주 쿠룽을, 엉덩이를 덮을 만큼 길게 재단하고 움직임을 쉽게 하도록 넉넉한 여유를 둔 옷으로 풀이합니다. 그것을 헐렁하면서도 단정하게 하는 두 가지 바느질 특징은:
+
+- **프삭(pesak)** — 몸 옆에 대는 천 조각으로, 폭을 넓히고 옷을 길게 늘어뜨림.
+- **케켁(kekek)** — 팔 아래쪽에 대는 모양 낸 천 조각으로, 팔의 움직임에 여유를 줌.
+
+여성용 텔룩 블랑아 바주 쿠룽은 앞이 트인 둥근 목선을 가지며, 남성 옷과 같은 툴랑 블룻 바느질로 장식됩니다 — 남녀 한 쌍을 하나의 양식 가족으로 통일합니다.
+
+### 예전에 금지되었던 색
+
+의상이 궁정 관습과 어떻게 얽혀 있는지를 보여 주는 흥미로운 예 하나: 조호르 왕실 공식 웹사이트는 2010년 이전에는 파랑, 노랑, 하양이 왕실의 색이어서 일반인이 입을 수 없었다고 기록합니다. 그 금지는 2010년 술탄 이브라힘(Sultan Ibrahim)이 폐지하여 여성에게 천을 고를 자유를 주었습니다. 이는 전통 의상이 고정되어 있지 않음을 — 그 규칙이 왕명과 시대에 따라 바뀜을 — 일깨웁니다.
+
+## 크바야는 왜 유네스코에 등재되었는가?
+
+이 세 의상 가운데 크바야는 세계 유산 인정을 받은 유일한 것입니다. 2024년 12월 파라과이 아순시온에서 열린 무형문화유산 보호를 위한 정부간위원회 제19차 회기에서, 유네스코는 크바야를 인류무형문화유산 대표목록에 등재했습니다.
+
+이 등재를 특별하게 만드는 것은 그것이 다섯 나라의 공동 지명이라는 점입니다. 브루나이 다루살람, 인도네시아, 말레이시아, 싱가포르, 태국(참조 02090)입니다. 유네스코는 크바야를 '종족, 종교, 국경을 넘어 대화를 촉진하고 공동체를 잇는 공유된 문화 요소'로 규정합니다.
+
+의상 면에서 유네스코는 크바야를, 흔히 고운 자수로 장식하고 크롱상이나 단추로 여미며, 여러 길이로 나타나고 사롱과 짝을 이루는 앞이 트인 옷으로 설명합니다. 그 제작에는 특별한 기술이 필요합니다 — 준비, 디자인, 천의 선택과 재단, 그리고 다양한 바느질과 자수 양식입니다. 이 지식은 전통적으로 어머니에게서 딸로 전수되며, 이제 학교와 워크숍을 통해서도 가르쳐집니다.
+
+크바야는 여러 자리에서 입힙니다 — 편안한 행사에서 공식 행사, 사교 모임과 축제까지, 나아가 춤, 연극, 영화 같은 예술 공연에서도 입힙니다.
+
+## 행사에 맞는 옷을 어떻게 고르는가?
+
+전통 의상을 고르는 것은 세 가지 물음에 달렸습니다. 어떤 행사인지, 얼마나 격식 있는지, 그리고 왕실 또는 종교 행사인지입니다. 다음은 간단한 틀입니다.
+
+- **공식 또는 왕실 행사(남성)** — 송켓 삼핑과 송콕을 갖춘 완전한 바주 믈라유. 체칵 무상이 가장 격식 있는 느낌을 줍니다.
+- **공식 행사(여성)** — 단정한 천의 바주 쿠룽, 또는 더 우아한 느낌을 위한 크바야. 투둥은 착용자의 선택에 따름.
+- **하리 라야 아이딜피트리** — 바주 믈라유나 바주 쿠룽이 흔한 선택. 가족이 색을 맞추는 일이 많음. 축제 맥락은 [하리 라야 아이딜피트리](/arts-culture/hari-raya-aidilfitri)를 보십시오.
+- **결혼식** — 송켓 삼핑과 금실 자수 크바야가 특별한 느낌을 줌. 신랑 신부는 흔히 전면 송켓을 고름.
+- **학교와 사무실** — 면직 천의 소박한 바주 쿠룽이 가장 실용적인 일상복.
+
+망설여진다면 일반 원칙은 간단합니다. 행사가 격식 있을수록 옷 세트가 완전해지고(송켓 삼핑, 송콕, 자수), 행사가 편안할수록 천이 소박해집니다.
+
+## 흔한 오해
+
+- **공식 행사에서 삼핑이나 송콕 없이 바주 믈라유를 입는 것.** 바주 믈라유는 하나의 세트입니다. 격식 있는 자리에서 삼핑과 송콕은 덧붙이는 장식이 아니라 완전한 옷의 일부입니다.
+- **바주 쿠룽과 크바야를 혼동하는 것.** 바주 쿠룽은 헐렁하고 길며, 크바야는 앞이 트이고 몸에 더 맞습니다. 둘은 같은 것의 다른 이름이 아닙니다.
+- **'텔룩 블랑아'를 천의 한 종류로만 여기는 것.** 텔룩 블랑아는 재단 양식(특히 툴랑 블룻 자수가 있는 둥근 깃)이지 직물의 한 종류가 아닙니다 — 그 이름은 술탄 아부 바카르가 다스린 싱가포르의 지명에서 왔습니다.
+- **크바야가 오직 한 종족이나 한 나라만의 것이라고 여기는 것.** 유네스코는 그것을 다섯 나라의 공유 유산으로 등재했고, 종족, 종교, 국경을 넘어서는 요소로 규정합니다.
+- **모든 삼핑이 반드시 송켓이어야 한다고 여기는 것.** 송켓이 공식 행사에 가장 화려한 느낌을 주지만, 삼핑은 더 가벼운 착용을 위해 다른 무늬 천으로도 만들 수 있습니다.
+
+## 다음으로 볼 것
+
+전통 말레이 의상은 별개의 옷 모음이 아니라 하나의 체계로 볼 때 가장 이해하기 쉽습니다. 바주 믈라유, 바주 쿠룽, 크바야가 각각 재단 양식(체칵 무상 또는 텔룩 블랑아)을 지니며, 행사에 따라 삼핑, 송콕, 투둥으로 완성됩니다.
+
+이 의상을 가까이서 보려면, 쿠알라룸푸르 잘란 술탄 히샴우딘(Jalan Sultan Hishamuddin)의 국립 섬유 박물관(Muzium Tekstil Negara) — 1896년에 완공된 유산 건물 — 이 [송켓](/arts-culture/songket)을 부각하는 포혼 부디(Pohon Budi) 갤러리와 금실 자수 컬렉션의 텔룩 브란타이(Teluk Berantai) 갤러리를 비롯해 직물과 그 제작 기법을 전시합니다. 이 의상을 이루는 천을 깊이 알고 싶다면, 삼핑과 크바야와 바주 쿠룽의 재료가 가장 자주 되는 두 직물인 [송켓](/arts-culture/songket)과 [바틱](/arts-culture/batik) 글에서 시작하십시오.
