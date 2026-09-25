@@ -1,0 +1,122 @@
+---
+topicId: MY-TAX-0062
+title: "합산 과세인가 개별 과세인가: 손익분기점은 어디인가"
+seoTitle: "말레이시아 합산 과세인가 개별 과세인가"
+slug: "joint-or-separate-assessment"
+category: "taxation"
+subcategory: ["personal-tax"]
+summary: "제45(2)조 선택을 산술적 거래로 설명 — 두 번째 개인 공제와 두 번째 누진세율 진행을 포기하는 대가로 얻는 배우자 공제 하나와 세액감면 하나."
+
+tier: "3"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "제45(2)조는 한 배우자가 자신의 총소득을 합산하여 다른 배우자 명의로 부과받도록 선택할 수 있게 합니다. 합산 과세는 RM4,000의 배우자 공제를 얻지만 두 번째 RM9,000 개인 공제를 포기하고 모든 소득을 하나의 누진세율로 밀어 올립니다. 이는 선택하는 배우자의 총소득이 매우 적은 경우에만 유리하며, 그렇지 않으면 개별 과세가 이깁니다."
+keyTakeaways:
+  - "Separate assessment is the default — joint assessment requires a written election in the return"
+  - "The election puts both incomes on one scale, so the second income starts at the first taxpayer's marginal rate"
+  - "Joint assessment buys RM4,000 under s.47(1)(a) or s.45A, plus one RM400 rebate instead of two"
+  - "Separate assessment gives each spouse the RM9,000 relief and their own 0% and 1% bands"
+  - "A spouse with no total income gets the RM4,000 deduction without any election, under s.47(5)"
+  - "Only one spouse may elect, and only in the return under s.77(1)"
+
+verificationNeeded:
+  - "The illustrative break-even figures in this article are arithmetic on the published band table, not an LHDN-published threshold; they move with the reliefs each couple actually claims"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.6A, 45, 45A, 46, 47"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2024-05-21"
+  - title: "Kadar Cukai — Individu"
+    url: "https://www.hasil.gov.my/individu/kadar-cukai/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    date: "2026-06-26"
+  - title: "Rebat — Individu"
+    url: "https://www.hasil.gov.my/individu/rebat/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    date: "2026-07-10"
+
+entity: "Joint and separate assessment of spouses"
+relations:
+  - { rel: "governs", to: "income-tax-act-1967" }
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "affects", to: "personal-tax-reliefs" }
+related: ["personal-tax-reliefs", "personal-tax-rates", "which-tax-form", "pcb-monthly-tax-deduction"]
+keywords: ["joint assessment Malaysia", "separate assessment tax Malaysia", "taksiran bersama", "section 45(2) election", "spouse relief RM4000", "should we file jointly Malaysia"]
+---
+
+합산 과세는 할인이 아닙니다. 거래이며, 그 뒤의 산술은 영수증 뒷면에 할 수 있을 만큼 짧습니다.
+
+## 선택이 실제로 하는 것
+
+제45(2)조에 따라, 개인과 그 배우자가 기준연도에 함께 거주하고 함께 거주하거나 부부이기를 그만두지 않은 경우, 어느 한쪽이 자신의 총소득을 합산하여 다른 쪽 명의로 부과받도록 **서면으로** 선택할 수 있습니다. 선택은 제77(1)조에 따라 제출하는 **신고서에서** 이루어지며, 한 해에 한 번의 선택만 가능합니다 — 아내가 (a)항에 따라 선택하는 경우 어떤 남편도 (b)항에 따라 선택할 수 없고, 남편은 한 아내와만 선택할 수 있습니다.
+
+이어 제45(4)조는 선택하는 배우자가 그 해에 **과세소득이 없는** 것으로 취급합니다. 모든 소득이 하나의 부과에 놓입니다.
+
+선택하는 배우자가 기준연도에 비거주자인 경우, 단서는 그 사람이 **시민**인 경우에만 선택을 허용합니다.
+
+## 거래, 네 줄로
+
+| | 개별 과세 | 합산 과세 |
+| --- | --- | --- |
+| 개인 공제, 제46(1)(a)조 | **각각** RM9,000 | **한 번** RM9,000 |
+| 배우자 공제 | 없음 | 제47(1)(a)조에 따라 RM4,000, 또는 남편이 선택하는 경우 제45A조 |
+| 누진세율 | 두 개의 세율, 각각 0%에서 시작 | 하나의 세율 |
+| 제6A조 세액감면 | 각각 과세소득이 RM35,000 이하이면 각각 최대 RM400 | 부과받는 배우자에게 최대 RM400에 더해 배우자 공제에 대해 제6A(2)(b)조에 따라 RM400 |
+
+합산 과세는 **RM9,000의 공제**와 0%, 1%, 3%, 6% 구간을 한 번 더 진행하는 것을 포기하는 대가로 **RM4,000의 배우자 공제**를 얻습니다.
+
+이는 두 번째 배우자가 자신의 공제와 자신의 낮은 구간을 사용할 만큼 소득이 있는 순간 지는 거래입니다.
+
+## 손익분기점은 어디인가
+
+두 번째 배우자 쪽에서 계산하십시오. 개별 과세에서는 그들의 처음 RM9,000이 곧바로 공제되고, 다음 RM5,000이 0%로, 그 후 RM15,000이 1%로 과세됩니다. 합산 과세에서는 모든 링깃(RM)이 첫 배우자의 소득 위에 쌓여 그 배우자의 한계세율 — 중간 소득자의 경우 11%, 19% 또는 25% — 로 과세됩니다.
+
+RM4,000 배우자 공제는 한계세율 곱하기 RM4,000의 가치입니다. 19%에서 RM760입니다. 두 번째 배우자 자신의 공제와 낮은 구간은 그들의 총소득이 자신의 개인 공제를 넘는 즉시 그것을 이깁니다.
+
+그래서 경험칙은 숫자가 아니라 형태입니다.
+
+- **두 번째 배우자에게 총소득이 전혀 없음** — 선택하지 마십시오. 제47(5)조가 아내에게 합산할 총소득이 없는 경우 이미 RM4,000 공제를 부여하고, 제45A조가 소득 원천이 없는 남편에게 동일하게 합니다. 살 것이 없습니다.
+- **두 번째 배우자에게 소액 총소득이 있음**, 자신의 제46(1)(a)조 공제와 0% 구간이 이를 흡수하는 수준 아래 — 합산 과세가 이길 수 있습니다. 낭비되는 공제가 더 높은 소득자의 한계세율에 대한 RM4,000 공제로 회수되기 때문입니다.
+- **두 번째 배우자에게 자신의 공제를 사용할 만큼 소득이 있음** — 개별 과세가 이기며, 합산된 소득이 오르는 구간마다 격차가 벌어집니다.
+
+한 가지 구조적 예외는 반대 방향으로 작용합니다. 한 배우자가 사업에서 **조정 손실**을 가진 경우, 합산은 그 손실을 이월하는 대신 같은 해에 다른 배우자의 소득에 대해 상계합니다. 그 시기 이득이 맞벌이 부부가 선택할 만한 주된 이유입니다.
+
+## 경계 사례를 결정하는 세부 사항
+
+- **총 RM4,000으로 제한.** 제47(3)조는 제47(1)(a)조 공제와 제47(2)조에 따른 부양료의 합계를 4,000링깃으로 제한합니다.
+- **개별 과세받는 아내는 이를 막습니다**, 제47(4)조에 따라.
+- **외국 소득이 자격을 박탈할 수 있습니다.** 제47(6)조와 제45A(2)조는 소득이 없는 배우자가 장애 배우자가 아닌 한 공제를 초과하는 외국원천소득을 가진 경우 공제를 없앱니다.
+- **장애는 RM5,000을 더합니다**, 제47(1)(b)조나 제45A(1)조에 따라.
+- **이는 제77C조 선택을 무효화합니다.** 제77C(1)(e)조는 배우자가 제45조 선택을 하지 않았을 것을 요구하므로, 합산 선택은 둘 다 신고하도록 강제합니다.
+
+## 흔한 실수
+
+- **공제를 공유하기 위해 선택하는 것.** 제46(3)조는 제45(2)조가 적용되거나 **또는** 한 배우자에게 총소득이 없는 경우 어느 배우자가 지출한 금액을 이미 부과받는 배우자가 지출한 것으로 간주합니다.
+- **소득이 영인 배우자를 위해 선택하는 것.** 제47(5)조가 어떤 선택 없이도 RM4,000을 제공합니다.
+- **두 배우자 모두 선택하는 것.** 제45(3)(a)조는 그 해에 어떤 아내도 선택하지 않은 경우에만 남편의 선택을 허용합니다.
+- **신고서 밖에서 선택하는 것.** 제45(5)조는 선택이 제77(1)조에 따른 신고서에서 이루어질 것을 요구합니다. 이후의 서한은 선택이 아닙니다.
+- **RM400 세액감면이 합산에도 유지된다고 가정하는 것.** 상한은 과세소득 RM35,000이며, 합산된 수치는 대개 이를 곧장 넘어서 개별 과세가 보존했을 두 세액감면을 모두 잃습니다.
+
+## 다음 단계
+
+신고하기 전에 양쪽 방식으로 계산하십시오 — 각 배우자가 실제로 청구할 수 있는 공제가 답을 결정하며, 그것은 매년 바뀝니다.

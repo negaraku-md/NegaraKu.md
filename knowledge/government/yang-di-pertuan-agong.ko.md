@@ -1,0 +1,211 @@
+---
+topicId: MY-GOV-0010
+title: "양 디페르투안 아공: 5년마다 선출되는 순번제 국왕"
+slug: "yang-di-pertuan-agong"
+category: "government"
+subcategory: ["institutions"]
+summary: "연방의 국가 원수 직위에 대한 서술적 설명 — 통치자 회의(Conference of Rulers)가 제3부칙에 따라 5년 임기로 어떻게 선출하는지, 그리고 연방헌법(Federal Constitution)이 조언에 따라 수행되는 기능과 국왕이 재량으로 수행할 수 있는 기능을 어떻게 구별하는지."
+
+tier: "S"
+mode: "practical"
+contentType: "agency"
+sensitivity: "royalty"
+
+answer: "양 디페르투안 아공(Yang di-Pertuan Agong)은 연방헌법(Federal Constitution) 제32조에 따른 연방의 국가 원수(Supreme Head of the Federation)입니다. 그는 제3부칙의 순환 선출 명부에 따라, 통치 중인 말레이 통치자들 가운데에서 통치자 회의(Conference of Rulers)에 의해 5년 임기로 선출됩니다. 그 기능을 수행함에 있어, 그는 헌법이 재량으로 수행할 수 있다고 언급한 특정 기능을 제외하고는, 제40조 제(1)항에 따라 내각(Cabinet)의 조언에 따라 행동합니다."
+
+keyTakeaways:
+  - "Perkara 32(1) mewujudkan jawatan Ketua Utama Negara bagi Persekutuan, digelar Yang di-Pertuan Agong"
+  - "Perkara 32(3) menetapkan tempoh jawatan selama lima tahun, dan pemilihan dibuat oleh Majlis Raja-Raja"
+  - "Jadual Ketiga menetapkan senarai pemilihan yang berubah selepas setiap pemilihan — inilah asas sistem bergilir"
+  - "Hanya Raja yang sedang memerintah layak dipilih; Yang di-Pertua Negeri bukan calon"
+  - "Perkara 40(1) dan 40(1A): fungsi dijalankan mengikut nasihat, dan nasihat itu hendaklah diterima serta diikuti"
+  - "Perkara 40(2) menyenaraikan fungsi budi bicara: melantik Perdana Menteri, tidak memperkenankan permintaan pembubaran Parlimen, dan meminta diadakan mesyuarat Majlis Raja-Raja mengenai keistimewaan Raja-Raja"
+  - "Perkara 66(4) memberikan tempoh tiga puluh hari untuk perkenan diraja; Perkara 66(4A) memperuntukkan rang undang-undang menjadi undang-undang selepas tempoh itu"
+appliesTo: "Pelajar, penyelidik, wartawan dan sesiapa yang mahu memahami kedudukan perlembagaan Yang di-Pertuan Agong berdasarkan teks Perlembagaan Persekutuan itu sendiri."
+
+faq:
+  - q: "Adakah Yang di-Pertuan Agong dipilih secara bergilir mengikut giliran negeri yang tetap?"
+    a: "Tidak sepenuhnya. Jadual Ketiga tidak menetapkan satu giliran kekal. Ia menetapkan suatu senarai pemilihan yang disusun semula selepas setiap pemilihan: negeri yang mendahului negeri Raja yang dipilih dipindahkan ke hujung senarai, dan negeri Raja yang dipilih itu digugurkan. Apabila tiada lagi negeri kekal dalam senarai, senarai itu ditubuhkan semula supaya mengandungi semula negeri semua Raja, mengikut susunan Raja-Raja yang pernah memegang jawatan itu."
+  - q: "Apakah yang berlaku jika Yang di-Pertuan Agong tidak memperkenankan sesuatu rang undang-undang?"
+    a: "Perkara 66(4) memperuntukkan bahawa Yang di-Pertuan Agong hendaklah, dalam masa tiga puluh hari selepas sesuatu rang undang-undang dikemukakan kepadanya, memperkenankannya dengan menyebabkan Mohor Besar dicapkan padanya. Perkara 66(4A) pula memperuntukkan bahawa jika rang undang-undang itu tidak diperkenankan dalam masa yang ditentukan itu, ia hendaklah menjadi undang-undang apabila habis tempoh tersebut, mengikut cara yang sama seolah-olah ia telah diperkenankan."
+  - q: "Bolehkah seorang Yang di-Pertuan Agong dipilih semula?"
+    a: "Perlembagaan tidak melarangnya. Perkara 32(3) hanya menetapkan tempoh lima tahun bagi setiap pemilihan, manakala Jadual Ketiga menetapkan cara senarai pemilihan berubah dan ditubuhkan semula. Perenggan 10 Jadual Ketiga juga menjelaskan bahawa dalam subseksyen 4(3), ungkapan 'Raja' termasuklah bekas Raja."
+  - q: "Siapakah yang menganggotai Majlis Raja-Raja?"
+    a: "Menurut Jadual Kelima, Majlis Raja-Raja terdiri daripada Duli-Duli Yang Maha Mulia Raja-Raja dan Yang di-Pertua-Yang di-Pertua Negeri bagi negeri yang tidak mempunyai Raja. Penyimpan Mohor Besar Raja-Raja bertindak sebagai setiausaha Majlis. Bagi pemilihan dan pemecatan Yang di-Pertuan Agong, hanya Raja-Raja yang mengundi."
+
+verificationNeeded:
+  - "Sahkan butiran prosedur mengundi dalam Peraturan-Peraturan Majlis Raja-Raja (kertas undi tidak bernombor, pengiraan undi) terhadap teks Peraturan itu sendiri — laman rasmi Majlis Raja-Raja meringkaskannya, tetapi teks penuh Peraturan tidak diterbitkan dalam talian."
+  - "Sahkan senarai pemilihan yang berkuat kuasa pada masa ini terhadap pengumuman rasmi Penyimpan Mohor Besar Raja-Raja."
+
+lang: "ko"
+masterLanguage: "ms"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-24
+sources:
+  - title: "Perlembagaan Persekutuan — Undang-Undang Malaysia"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
+    publisher: "Jabatan Peguam Negara Malaysia"
+  - title: "Perlembagaan Persekutuan (Cetakan Semula)"
+    url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
+    publisher: "Jabatan Perdana Menteri"
+  - title: "Pemilihan Yang di-Pertuan Agong"
+    url: "https://www.majlisraja-raja.gov.my/ms/pilih"
+    publisher: "Majlis Raja-Raja Malaysia"
+  - title: "Malaysia saksi pertabalan Sultan Ibrahim sebagai Yang di-Pertuan Agong ke-17"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/malaysia-saksi-pertabalan-sultan-ibrahim-sebagai-yang-di-pertuan-agong-ke-17/"
+    publisher: "Radio Televisyen Malaysia"
+    date: "2024-07-20"
+
+entity: "Yang di-Pertuan Agong"
+wikidata: "Q174156"
+relations:
+  - { rel: "part-of", to: "malaysia" }
+  - { rel: "explained-in", to: "federal-constitution" }
+  - { rel: "related-to", to: "parliament" }
+related: ["federal-constitution", "parliament"]
+keywords:
+  - "Yang di-Pertuan Agong"
+  - "Ketua Utama Negara"
+  - "Majlis Raja-Raja"
+  - "Jadual Ketiga Perlembagaan Persekutuan"
+  - "kuasa budi bicara Yang di-Pertuan Agong"
+  - "Perkara 40 Perlembagaan Persekutuan"
+  - "raja berperlembagaan Malaysia"
+---
+
+세계의 대부분 군주제는 같은 질문에 같은 방식으로 답합니다. 누가 다음 왕이 될 것인가? 그 답은 보통 세습이고, 그 기간은 보통 종신입니다.
+
+말레이시아는 그것을 다르게 답합니다. 국가 원수는 선출됩니다 — 통치자들 자신에 의해, 그들 자신 가운데에서, 5년 임기로, 매 선출 후에 다시 편성되는 하나의 명부에 따라서. 그 방식은 연방헌법(Federal Constitution) 제3부칙에 기재되어 있습니다.
+
+## 한눈에 보기
+
+| | |
+| --- | --- |
+| 직함 | 양 디페르투안 아공(Yang di-Pertuan Agong) |
+| 헌법적 지위 | 연방의 국가 원수(Supreme Head of the Federation) (제32조 제(1)항) |
+| 선출 주체 | 통치자 회의(Majlis Raja-Raja) (제32조 제(3)항) |
+| 임기 | 5년 |
+| 자격 | 통치 중인 어느 주의 통치자 (제3부칙 제I부) |
+| 선출 절차 | 제3부칙 및 통치자 회의 규칙 |
+| 취임 선서 | 대법원장 참석 하에 통치자 회의 앞에서 (제37조 제(1)항) |
+| 부(副) 국왕 | 부(副) 양 디페르투안 아공(Timbalan Yang di-Pertuan Agong) (제33조) |
+| 왕비 | 라자 프르마이수리 아공(Raja Permaisuri Agong) (제32조 제(2)항) |
+| 소재 | 국왕궁(Istana Negara), Kuala Lumpur |
+
+## 왜 이 기제는 비할 데가 없는가
+
+말레이시아의 아홉 개 주에는 통치자가 있습니다. 나머지 네 개 — 믈라카, 페낭, 사바, 사라왁 — 에는 통치자가 없으며, 각 주 헌법은 양 디페르투안 아공을 그 주의 이슬람 수장으로 규정합니다(제3조 제(3)항).
+
+제5부칙은 통치자 회의가 통치자들 **그리고** 주지사들로 구성된다고 정합니다. 그러나 양 디페르투안 아공을 선출하고 해임하는 일에 대해서는, 헌법이 참여를 통치자들로만 한정합니다. 통치 중인 통치자만이 선출될 수 있으며, 주지사는 후보가 아닙니다.
+
+바로 그것이 이 방식을 특별하게 만듭니다. 아홉 명의 세습 군주가 그들 사이에서 투표하여 누가 가장 높은 연방 직위를 맡을지를 정하고, 그들은 그 절차를 5년마다 되풀이합니다.
+
+## 선출은 어떻게 진행되는가
+
+제5부칙 제6조는 통치자 국새 관리관(Penyimpan Mohor Besar Raja-Raja)에게 양 디페르투안 아공의 임기가 만료되기 **4주 전보다 늦지 않게**, 그리고 공석이 생길 때 통치자 회의를 소집하도록 지시합니다.
+
+이어 제3부칙 제I부가 선출 자체를 규율합니다.
+
+1. **자격.** 통치자는, 미성년자이거나, 통치자 국새 관리관에게 선출되기를 원치 않는다고 통지했거나, 통치자 회의가 비밀투표로 정신적·신체적 약함이나 그 밖의 사유로 부적합하다고 결정하지 않는 한, 선출될 자격이 있습니다.
+2. **다섯 표의 문턱.** 그러한 결의는 회의 구성원 최소 다섯 명이 찬성 투표하지 않는 한 통과될 수 없습니다.
+3. **명부에 따른 제의.** 통치자 회의는 선출 명부의 첫째 자리에 있는 주의, 선출될 자격이 있는 통치자에게 그 직위를 제의합니다. 그가 그것을 수락하지 않으면, 제의는 다음 주로, 그리고 한 통치자가 수락할 때까지 순차로 넘어갑니다.
+4. **선포.** 제의가 수락되면, 통치자 회의는 그가 선출되었음을 선포하고, 통치자 국새 관리관이 그 결과를 의회 양원에 서면으로 통지합니다.
+
+통치자 회의 공식 포털은 투표가 번호가 없는 투표용지를 펜과 잉크로 써서 비밀리에 이루어지며, 통치자가 그 직위가 제의되기 전에 다섯 표의 다수를 얻어야 한다고 설명합니다. 통치자 국새 관리관이 투표용지의 배부와 집계를 담당합니다.
+
+선출된 후, 제37조 제(1)항은 양 디페르투안 아공이 그 기능을 수행하기 전에 통치자 회의 앞에서 그리고 연방법원 대법원장(Ketua Hakim Negara)의 참석 하에 제4부칙 제I부의 취임 선서를 하고 서명하도록 요구합니다. 그 선서는 통치자 회의가 임명한 두 사람이 입회합니다.
+
+## 선출 명부: 그 순번은 움직인다
+
+이것이 가장 자주 오해되는 부분입니다. 헌법은 고정된 순번을 정하지 않습니다. **변하는** 명부를 정합니다.
+
+제3부칙 제4조는 그 효과 면에서 이렇습니다.
+
+- 첫 선출에서, 명부는 당시 통치자들 사이에서 인정된 서열 순으로 모든 통치자의 주를 담습니다.
+- 매 선출 후, 선출된 통치자의 주보다 앞선 주는 명부의 끝으로 옮겨지고, 선출된 통치자의 주는 **제외**됩니다.
+- 명부에 있는 어느 주의 통치자가 교체되면, 그 주는 명부의 끝으로 옮겨집니다.
+- 명부에 남은 주가 더 없으면, 명부는 **다시 편성**됩니다. 다시 모든 통치자의 주를 담되, 그 통치자가 양 디페르투안 아공 직위를 맡았던 주는 그들이 그 직위를 맡은 순서에 따라 배열됩니다.
+- 다시 편성된 명부에 따른 매 선출 후, 선출된 통치자의 주보다 앞선 주는 끝으로 옮겨지고, 선출된 통치자의 주는 맨 마지막에 놓입니다.
+
+통치자 회의 포털은 그 첫 순환이 페락(Perak) 술탄이 제9대 양 디페르투안 아공이 되면서 끝났고, 그 후로는 그 통치자가 그 직위를 처음부터 아홉 번째까지 맡았던 주의 서열에 따라 다시 편성된 명부에 따라 선출이 이루어진다고 기록합니다.
+
+현재 왕위에 있는 양 디페르투안 아공은 **제17대**입니다. 공식 보도에 따르면, 술탄 이브라힘 술탄 이스칸다르(Sultan Ibrahim Sultan Iskandar)가 2024년 1월 31일에 통치를 시작했고, 즉위식이 2024년 7월 20일에 국왕궁 대알현실에서 5년 임기로 거행되었습니다.
+
+## 조언에 따른 권한, 그리고 재량 권한
+
+제39조는 연방의 행정권을 양 디페르투안 아공에게 부여합니다. 이어 제40조가 그 권한이 어떻게 행사되는지를 설명합니다 — 그리고 여기에 이 주제 전체에서 가장 중요한 차이가 있습니다.
+
+**제40조 제(1)항.** 헌법이나 연방 법률에 따른 기능을 수행함에 있어, 양 디페르투안 아공은, 헌법이 달리 규정한 경우를 제외하고, 내각(Cabinet) 또는 내각의 일반 권한 아래에서 행동하는 어느 장관의 조언에 따라 행동해야 합니다. 같은 조문은 국왕에게, 그 요청에 따라 내각이 얻을 수 있는 연방 통치에 관한 어떤 정보든 얻을 권리를 부여합니다.
+
+**제40조 제(1A)항.** 양 디페르투안 아공이 조언에 따라, 조언에 근거하여, 또는 조언을 고려한 후 행동하도록 요구되는 경우, 그는 그 조언을 받아들이고 그에 따라 행동해야 합니다.
+
+**제40조 제(2)항.** 그는 열거된 세 기능을 수행함에 있어, 그리고 "이 헌법에 언급된 그 밖의 어떤 경우에든" 자신의 재량으로 행동할 수 있습니다.
+
+| 범주 | 헌법 문언에 따른 예 |
+| --- | --- |
+| 재량 (제40조 제(2)항) | 총리의 임명; 의회 해산 요청의 거부; 오로지 통치자들의 특권·지위·명예·위엄에만 관련되는 통치자 회의의 소집 요청 |
+| 조언에 따라 (제40조 제(1)항, 제(1A)항) | 총리의 조언에 따라 다른 장관들을 임명(제43조 제(2)항 (b)호); 총리의 조언에 따라 통치자 회의와 협의한 후 판사를 임명(제122B조 제(1)항) |
+
+제43조 제(2)항 (a)호는 총리 임명의 척도를 제시합니다. 즉, 양 디페르투안 아공은 **그의 판단으로** 하원 의원 다수의 신임을 얻을 것으로 보이는 하원 의원을 총리로 임명해야 합니다. 바로 그 "그의 판단으로"라는 구절이 그것을 국왕 자신의 판단으로 만듭니다.
+
+제43조 제(4)항이 그림을 완성합니다. 총리가 하원 의원 다수의 신임을 더 이상 얻지 못하면, 그 요청에 따라 양 디페르투안 아공이 의회를 해산하지 않는 한, 총리는 내각의 사임을 제출해야 합니다.
+
+## 헌법이 규정하는 그 밖의 기능
+
+- **의회.** 제44조는 의회가 양 디페르투안 아공과 상원 및 하원으로 구성된다고 정합니다. [말레이시아 의회](/government/parliament)를 참고하십시오.
+- **회기.** 제55조 제(1)항은 국왕이 수시로 의회를 소집하고, 한 회기의 마지막 회의와 다음 회기의 첫 회의 사이에 6개월이 경과하도록 두지 않도록 요구합니다. 제55조 제(2)항은 국왕이 의회를 정회하거나 해산할 수 있다고 규정합니다.
+- **국왕 재가.** 제66조 제(4)항은 국새(Mohor Besar)를 찍어 법안을 재가할 30일의 기간을 정합니다. 제66조 제(4A)항은 그 기간 내에 재가가 이루어지지 않으면, 그 법안이 재가된 것처럼 그 기간이 만료될 때 법률이 된다고 규정합니다.
+- **군대.** 제41조는 국왕을 연방 군대의 최고 통수권자로 삼습니다.
+- **사면권.** 제42조 제(1)항은 군사법원이 재판한 범죄와 쿠알라룸푸르·라부안·푸트라자야 연방직할구에서 저질러진 범죄에 대해 사면·형 집행 유예·감형을 할 권한을 부여합니다.
+- **이슬람.** 제3조 제(5)항은 국왕을 세 연방직할구의 이슬람 수장으로 삼습니다. 제3조 제(2)항은 통치자 회의가 어떤 행위·관행·의례를 연방 전역으로 확대하기로 동의할 때, 다른 각 통치자가 양 디페르투안 아공이 이슬람 수장으로서 자신을 대표하도록 허용한다고 규정합니다.
+- **비상사태 선포.** 제150조 제(1)항은 양 디페르투안 아공이 중대한 비상사태가 발생하고 있다고 인정하면 비상사태 선포를 발할 수 있다고 규정합니다.
+
+## 헌법이 이 직위에 부과하는 제한
+
+제34조는 재임 중의 몇 가지 제한을 열거합니다. 양 디페르투안 아공은 이슬람 수장으로서의 기능을 제외하고는 자기 주의 통치자로서의 기능을 수행하지 않고, 유급의 어떤 직위도 보유하지 않으며, 어떤 상업적 사업에도 적극적으로 관여하지 않고, 국빈 방문을 제외하고는 통치자 회의의 동의 없이 15일을 넘겨 연방을 떠나지 않습니다.
+
+제32조 제(1)항은 국왕이 제15부에 따라 설치된 특별법원(Special Court)을 제외한 어떤 법원에서도 어떠한 절차의 대상이 될 수 없다고 규정합니다. 제33A조는 국왕이 그 특별법원에서 어떤 범죄로 기소되면 양 디페르투안 아공의 기능 수행을 그치되, 그 기간도 5년 임기의 일부로 계산된다고 규정합니다.
+
+## 부(副) 양 디페르투안 아공
+
+제33조는 부(副) 양 디페르투안 아공 직위를 만드는데, 이 또한 통치자 회의가 5년 임기 또는 통치 중인 양 디페르투안 아공의 잔여 임기로 선출합니다. 부 국왕은 직위가 공석이거나 국왕이 그 기능을 수행할 수 없을 때 그의 기능을 수행하되, 15일 미만으로 예상되는 부재에 대해서는, 부 국왕이 그것이 필요하거나 유익하다고 판단하지 않는 한 그렇게 하지 않습니다.
+
+제3부칙 제II부가 그 선출 방식을 정하며, 통치자 회의는 양 디페르투안 아공 직위가 공석인 동안에는 부 국왕을 선출하지 않습니다.
+
+## 이 직위를 이해할 때 흔한 실수
+
+**"그 순번은 알파벳순 또는 주 크기순이다."** 그렇지 않습니다. 그것은 제3부칙 제4조의 선출 명부에 따르며, 그 명부는 매 선출 후와 어느 주의 통치자 교체 후에 기계적으로 다시 편성됩니다.
+
+**"통치자 회의의 모든 구성원이 투표한다."** 양 디페르투안 아공 선출에 대해서는 그렇지 않습니다. 제5부칙은 주지사들을 회의 구성원으로 포함하지만, 헌법은 양 디페르투안 아공을 선출하고 해임하는 기능을 통치자들로 한정합니다.
+
+**"국왕은 형식으로서만 법률에 서명한다."** 헌법은 구조 없는 형식이 아니라 구체적 기간을 규정합니다. 제66조 제(4)항의 30일과, 제66조 제(4A)항에 명시된 결과입니다.
+
+**"재량 권한은 일반적 권한을 뜻한다."** 제40조 제(2)항은 재량 기능을 구체적으로 열거하고 "이 헌법에 언급된 그 밖의 어떤 경우에든"을 덧붙입니다 — 즉 헌법이 언급하는 경우이지, 열린 범주가 아닙니다.
+
+**"통치자 회의는 양 디페르투안 아공만 선출한다."** 제38조 제(2)항은 특정 법률의 재가를 포함한 다른 기능도 부여하며, 제38조 제(4)항은 통치자들의 특권·지위·명예·위엄에 직접 영향을 미치는 어떤 법률도 통치자 회의의 동의 없이는 통과될 수 없다고 규정합니다.
+
+## 관련 지식
+
+- [연방헌법](/law/federal-constitution)
+- [말레이시아 의회](/government/parliament)
+- [1963년 말레이시아의 형성](/malaysia/formation-of-malaysia-1963)
+- [1957년 독립](/malaysia/independence-1957)
+
+## 다음으로 볼 것
+
+직접 살펴보고 싶다면, 연방헌법의 이 세 참조를 순서대로 시작하십시오. 직위 자체는 **제32조부터 제34조까지**, 행정권과 조언 대 재량의 구별은 **제39조부터 제43조까지**, 선출 기제는 **제3부칙과 제5부칙**입니다. 공식 문언은 법무장관실의 말레이시아 법령 포털에서 확인할 수 있으며, 선출 절차는 통치자 회의 공식 포털에 요약되어 있습니다.
+
+이 페이지는 서술적 성격을 지니며 조문에 근거합니다. 이 문서는 초안이며 아직 지명된 인간 검토자의 검토를 받지 않았습니다.

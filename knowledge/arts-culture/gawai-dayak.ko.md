@@ -1,0 +1,167 @@
+---
+topicId: MY-ART-0026
+title: "가와이 다약(Gawai Dayak): 사라왁의 추수 축제와 그 뒤의 롱하우스 의례"
+seoTitle: "가와이 다약: 사라왁 다약족 추수 축제 풀이"
+slug: "gawai-dayak"
+category: "arts-culture"
+subcategory: ["festivals"]
+summary: "가와이 다약(Gawai Dayak)은 사라왁(Sarawak) 다약(Dayak) 공동체의 추수 축제로, 벼 수확에 감사를 드리는 6월 1일과 2일의 공휴일입니다. 이반(Iban), 비다유(Bidayuh), 오랑 울루(Orang Ulu)족이 기념하며, 미링(miring) 봉헌, 응아잣(ngajat) 춤, 자정의 투악(tuak) 건배 같은 롱하우스 의례를 중심으로 이루어집니다."
+tier: "4"
+mode: "narrative"
+contentType: "guide"
+sensitivity: "none"
+answer: "가와이 다약은 사라왁 다약족 — 주로 이반, 비다유, 오랑 울루 공동체 — 의 연례 추수 축제입니다. 6월 1일과 2일에 기념되며 사라왁의 공휴일입니다. 이 축제는 벼(파디padi) 수확에 감사를 드리고, 전통 신앙에서는 프타라(Petara, 신 또는 영들)에게 축복을 구합니다. 그 의식은 롱하우스를 중심으로 합니다. 불운을 쫓아내기 위한 5월 31일 저녁의 무아이 안투 루아(Muai Antu Rua), 투아이 루마(Tuai Rumah, 롱하우스 촌장)가 이끄는 미링(miring) 감사 봉헌, 자정의 아이 펭아유(Ai Pengayu, 장수를 비는 투악) 건배, 그리고 응아잣(ngajat) 춤입니다. 1964년 9월 25일 공휴일로 관보에 고시되어 1965년 6월 1일에 처음 공식적으로 기념되었습니다."
+keyTakeaways:
+  - "Gawai Dayak is the harvest festival of the Dayak communities of Sarawak, celebrated on 1 and 2 June"
+  - "'Dayak' is a collective term for the indigenous peoples of Sarawak — mainly the Iban, Bidayuh and Orang Ulu groups (Kayan, Kenyah, Kelabit, Lun Bawang and others)"
+  - "It is a public holiday in the state of Sarawak on 1 and 2 June"
+  - "Celebrations begin on the evening of 31 May with the Muai Antu Rua and centre on the longhouse and the miring thanksgiving offering led by the Tuai Rumah"
+  - "At midnight the community shares a toast of Ai Pengayu (tuak, rice wine) and wishes one another long life, health and prosperity"
+  - "It was gazetted as a public holiday on 25 September 1964 and first celebrated officially on 1 June 1965"
+appliesTo: "Anyone who wants to understand what Gawai Dayak is, which communities celebrate it, the longhouse rituals and customs involved, and how it became a public holiday in Sarawak."
+
+faq:
+  - q: "What is Gawai Dayak?"
+    a: "Gawai Dayak is the harvest festival of the Dayak peoples of Sarawak. 'Gawai' means a festival or ritual, and 'Dayak' is a collective term for the state's indigenous communities — chiefly the Iban, the Bidayuh and the Orang Ulu groups. It marks the end of the rice-harvesting season and is a time of thanksgiving, homecoming and hospitality, celebrated on 1 and 2 June."
+  - q: "When is Gawai Dayak and is it a public holiday?"
+    a: "Gawai Dayak is celebrated on 1 and 2 June and is a public holiday in the state of Sarawak. Celebrations begin on the evening of 31 May, and in many communities the wider Gawai season stretches through the month of June until it is formally closed by the ngiling tikai ('rolling up the mat') ceremony."
+  - q: "Who celebrates Gawai Dayak?"
+    a: "It is celebrated by the Dayak communities of Sarawak. According to the Sarawak Tourism Board these include the Iban, Bidayuh, Kayan, Kenyah, Kelabit, Lun Bawang and others. The Kayan, Kenyah, Kelabit and Lun Bawang are among the groups collectively referred to as Orang Ulu ('upriver people')."
+  - q: "What happens during Gawai Dayak?"
+    a: "On the evening of 31 May the Muai Antu Rua is performed to cast away the spirit of greed and misfortune. The miring thanksgiving offering, led by the Tuai Rumah (longhouse chief) to the beating of the gendang rayah, gives thanks for the harvest. Just before midnight there is a procession along the longhouse gallery (the ngalu petara), and at midnight a gong is sounded and the community shares a toast of Ai Pengayu. The days that follow are filled with the ngajat dance, tuak, traditional food and open-house visiting."
+  - q: "What is the greeting for Gawai?"
+    a: "A common greeting is 'Gayu Guru, Gerai Nyamai', which is rendered as a wish for long life, health and prosperity. 'Selamat Hari Gawai' is also widely used."
+  - q: "Is Gawai Dayak the same as Kaamatan in Sabah?"
+    a: "They are separate festivals with a shared theme. Gawai Dayak is the Dayak harvest festival of Sarawak, held on 1 and 2 June. Kaamatan is the Kadazandusun harvest festival of Sabah, held on 30 and 31 May. Both give thanks for the rice harvest, but the communities, rituals and dates differ."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+
+verificationNeeded:
+  - "Exact original text of the 1964 gazette designating Gawai Dayak a public holiday — the 25 September 1964 date is taken from tourism-body and encyclopaedic records rather than the gazette document itself."
+  - "Whether Gawai Dayak carries any formal national-heritage listing under the Jabatan Warisan Negara — not confirmed at an official source at the time of writing."
+
+updated: 2026-07-24
+sources:
+  - title: "Gawai Dayak Festival — A Time of Thanksgiving and Merrymaking"
+    url: "https://www.sarawaktourism.com/web/stories/story-view/gawai-dayak-festival-a-time-of-thanksgiving-and-merrymaking"
+    publisher: "Sarawak Tourism Board"
+  - title: "Gawai Dayak Festival"
+    url: "https://www.tourism.gov.my/media/view/gawai-dayak-festival"
+    publisher: "Tourism Malaysia (Ministry of Tourism, Arts and Culture)"
+  - title: "Gawai Dayak"
+    url: "https://www.britannica.com/topic/Gawai-Dayak"
+    publisher: "Encyclopaedia Britannica"
+  - title: "Gawai: Embracing New Beginnings in Bidayuh and Iban Paddy Farming"
+    url: "https://yps.org.my/news/gawai-embracing-new-beginnings-in-bidayuh-and-iban-paddy-farming/"
+    publisher: "Yayasan Perpaduan Sarawak (YPS)"
+  - title: "Gawai Dayak"
+    url: "https://en.wikipedia.org/wiki/Gawai_Dayak"
+    publisher: "Wikipedia"
+entity: "Gawai Dayak"
+wikidata: "Q4262216"
+relations:
+  - { rel: "located-in", to: "sarawak" }
+  - { rel: "compares-with", to: "kaamatan" }
+  - { rel: "part-of", to: "malaysia" }
+related: ["kaamatan", "sarawak"]
+keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
+---
+
+5월의 마지막 날, 시계는 아직 자정을 치지 않았고, 사라왁의 어느 강가 롱하우스에서는 공(gong)이 기다리고 있습니다. 벼는 거두어졌습니다. 회랑은 쓸리고 새 돗자리가 걸렸습니다. 투악 항아리 하나가 준비되어 있습니다. 마침내 공이 울리면 롱하우스 촌장이 잔을 들고, 긴 공용 툇마루에 늘어선 모두가 같은 세 마디를 위해 마십니다. 장수, 건강, 번영.
+
+그것이 **가와이 다약**의 핵심입니다 — 해마다 6월 1일과 2일에 기념되는 사라왁 다약족의 추수 축제입니다.
+
+## 「가와이 다약」이 실제로 뜻하는 것
+
+그 이름은 두 가지 일을 하는 두 낱말입니다.
+
+*가와이(Gawai)*는 축제 또는 의례를 뜻합니다. *다약(Dayak)*은 사라왁의, 더 넓게는 보르네오의 원주민을 아우르는 집합 명칭입니다. 그것은 단일 종족이 아니라 여러 공동체를 덮는 우산 같은 말입니다.
+
+사라왁 관광청(Sarawak Tourism Board)에 따르면 가와이를 지키는 다약에는 **이반, 비다유, 카얀(Kayan), 크냐(Kenyah), 클라빗(Kelabit), 룬 바왕(Lun Bawang) — 그리고 그 밖에 많은 이들**이 포함됩니다. 그중 강 상류의 집단 — 카얀, 크냐, 클라빗, 룬 바왕 등 — 은 흔히 함께 **오랑 울루(Orang Ulu, '강 상류 사람들')**로 불립니다.
+
+그러므로 가와이 다약은 한 공동체의 축제를 다른 이들이 빌려 온 것이 아닙니다. 그것은 저마다 자기 롱하우스와 언어, 관습의 변형을 지닌 넓은 종족 무리에 걸쳐 지켜지는 공유된 추수 감사입니다.
+
+## 벼 수확을 중심으로 지어진 축제
+
+가와이는 *파디(padi, 벼)* 수확철의 끝을 알립니다. 심고 돌보고 거두는 일을 마친 뒤, 공동체가 잠시 멈추어 밭이 내어 준 것에 감사하고 앞으로의 계절이 너그럽기를 비는 지점입니다.
+
+그 농경적 핵심이 바로 날짜가 중요한 이유입니다. 축제는 수확 주기의 마무리에 들며, 전통 신앙에서 그 감사는 **프타라(Petara)** — 신 또는 영들 — 에게 향합니다. NegaraKu.md는 이것들을 사실의 주장이 아니라 공동체 자신의 믿음으로 존중하며 기록합니다.
+
+## 가와이 밤의 순서
+
+공휴일은 6월 1일이지만, 지킴은 그 전날 저녁에 시작됩니다. 사라왁 관광청은 롱하우스 안에서 알아볼 수 있는 순서를 기록합니다.
+
+| 단계 | 이루어지는 일 |
+| --- | --- |
+| 무아이 안투 루아(Muai Antu Rua, 5월 31일 저녁) | 축하가 시작되기 전 탐욕과 불운의 영을 쫓아냄 |
+| 미링(Miring) | *근당 라야(gendang rayah, 의례 음악)*의 연주로 시작하는 감사 봉헌 |
+| 응알루 프타라(Ngalu Petara) | 젊은 처녀와 전사의 행렬이 *루아이(ruai, 롱하우스 회랑)*를 일곱 번 오르내림 |
+| 자정 건배 | 공이 울리고 촌장이 *아이 펭아유(Ai Pengayu)* — 장수를 비는 투악 — 건배를 이끎 |
+| [응아잣](/arts-culture/ngajat)과 오픈 하우스 | 춤, 음식, 투악, 방문의 날들이 이어짐 |
+
+**미링**은 의례의 중심입니다. 롱하우스 촌장인 **투아이 루마(Tuai Rumah)**가 주재하며 좋은 수확에 감사를 드립니다. 자정에 공이 울리면 공동체는 *아이 펭아유*를 나누며 서로에게 장수와 건강, 번영을 빕니다.
+
+## 응아잣, 코뿔새, 그리고 춤판
+
+다약 전통 춤인 **응아잣(ngajat)** 없이는 가와이에 대한 어떤 설명도 완전하지 않습니다.
+
+남성 응아잣은 **코뿔새** — 사라왁에 '코뿔새의 땅'이라는 별칭을 준 새 — 의 움직임을 흉내 내며, 용기와 영웅적 기개, 힘을 전하려는 스텝을 밟습니다. 여성 응아잣은 기질이 정반대입니다. 부드럽고 우아하며, 느리고 매우 정확한 몸의 회전을 보여 줍니다.
+
+춤을 둘러싸고 나머지 축하가 자리합니다. 이 자리를 위해 빚은 쌀술인 **투악(tuak)**이 손님에게 대접됩니다. 롱하우스 상에는 전통 요리가 오르는데, 그중 **아얌 판수(ayam pansuh)** — 양념과 카사바 잎과 함께 대나무 통 안에서 익힌 닭 요리로, 이반과 비다유가 특히 가와이를 위해 준비하는 것 — 이 있습니다. 그리고 롱하우스 문은 활짝 열립니다. 방문객, 가족, 이웃을 향한 환대는 축제에 덧붙은 것이 아니라 축제의 일부입니다.
+
+## 돗자리 말기
+
+가와이는 6월 2일 저물녘에 그냥 끝나지 않습니다. 많은 공동체에서 더 넓은 가와이 철은 그달 내내 이어지며, 독특한 의식으로 마무리됩니다.
+
+그 마무리 의식이 **응일링 티카이(ngiling tikai)**로, 때로 *응일링 비다이(ngiling bidai)*라고도 하며 — 글자 그대로 '돗자리를 마는 것'입니다. 축제 내내 쓴 돗자리를 말아 치움으로써 공동체는, 전통적 이해에서, 가와이 철이 끝났음을 알립니다. 그것은 롱하우스가 일상으로 돌아갈 수 있도록 축하가 끝났음을 프타라와 영들에게 알리는 예의 바른 방식입니다. 대개 6월 말경에 열립니다.
+
+## 가와이는 어떻게 공휴일이 되었나
+
+관습은 오래되었습니다. 공휴일은 그렇지 않으며 — 그 역사는 분명히 밝혀 둘 만합니다.
+
+사라왁의 모든 다약을 위한 하나의 연례 축제라는 발상은 일찍이 **1957년**에, 라디오 사라왁(Radio Sarawak)을 통해 제안되며 공개적으로 다루어졌습니다. 축제가 공식 인정되기 전에 식민 행정 당국은 6월 1일을 그저 '사라왁의 날(Sarawak Day)'로 지정했었습니다.
+
+가와이 다약은 **1964년 9월 25일 공휴일로 관보에 고시**되었고, **1965년 6월 1일**에 처음 공식적으로 기념되었습니다. 그때부터 그것은 사라왁 다약 공동체에게 감사와 귀향, 정체성의 공유된 자리가 되어 왔습니다.
+
+| 연도 | 이정표 |
+| --- | --- |
+| 1957 | 다약 축제라는 발상이 라디오 사라왁을 통해 공개 제안됨 |
+| 1964년 9월 25일 | 가와이 다약이 공휴일로 관보에 고시됨 |
+| 1965년 6월 1일 | 첫 공식 가와이 다약 기념 |
+
+## 흔한 오해
+
+**"다약은 하나의 종족이다."** 그것은 집합 명칭입니다. 이반, 비다유, 그리고 여러 오랑 울루 공동체는 저마다 자기 언어와 관습을 지닌 별개의 종족으로, 이 축제를 공유합니다.
+
+**"가와이는 카아마탄과 같다."** 둘 다 추수 축제이지만 별개입니다. 가와이 다약은 사라왁 다약의 것으로 6월 1일과 2일에 들고, [카아마탄](/en/arts-culture/kaamatan)은 사바의 카다잔두순과 다른 공동체의 것으로 5월 30일과 31일에 듭니다.
+
+**"잔치는 6월 1일에 있다."** 주요 의례 순서는 *5월 31일 저녁*에 시작하며, 그 철은 6월 후반의 *응일링 티카이*가 있기 전까지는 공식적으로 마무리되지 않습니다.
+
+**"그것은 관광 쇼다."** 공개 축하와 오픈 하우스가 방문객을 반기기는 하지만, 가와이는 무엇보다 가족과 롱하우스의 지킴입니다 — 귀향이자 감사이며, 많은 이에게는 자기가 태어난 *캄풍(kampung)*이나 롱하우스로 돌아가는 것입니다.
+
+## 다음으로 볼 것
+
+- 사바의 추수 축제, 그 벼 정령 전설과 운둑 응아다우(Unduk Ngadau) 미인 대회 — 남중국해 건너 가와이에 가장 가까운 상대 — 는 [카아마탄](/en/arts-culture/kaamatan)을 읽어 보십시오.
+- 가와이 다약이 공휴일인 주와 그것을 지키는 공동체는 [사라왁](/en/states/sarawak)을 보십시오.
+- 축제 순서와 관습의 공식 설명은 사라왁 관광청과 [투어리즘 말레이시아](/tourism/tourism-malaysia-and-tourism-agencies) 자료를 참고하십시오.
+
+---
+
+*이 글은 원주민 공동체와 그 문화적·종교적 관행을 서술하기 때문에 NegaraKu.md 편집 정책에
+따라 민감(3R+1: 종족) 분류로 지정되어 있습니다. 이 글은 이 축제가 무엇이고, 누가 지키며,
+어떻게 지키는지를 기록하고, 전통 신앙을 공동체 자신의 것으로 존중하며 다루는, 엄격히
+서술적인 방식으로 — 평가나 규정 없이 — 작성되었으며, 사람 검토자가 검토하고 확인할 때까지
+초안으로 남아 있습니다.*

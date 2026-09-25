@@ -1,0 +1,174 @@
+---
+topicId: MY-TAX-0042
+title: "RPGT 면제와 CKHT 양식"
+slug: "rpgt-exemptions"
+category: "taxation"
+subcategory: ["capital-taxes"]
+summary: "일생에 한 번인 자가 거주 주택 면제, RPGT를 피하는 가족 간 이전, 어떤 CKHT 양식을 제출하는지, 그리고 대가의 일부를 유보할 취득자의 의무를 다룹니다."
+
+tier: "3"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "말레이시아 시민권자 또는 영주권자는 부동산양도소득세법(Real Property Gains Tax Act 1976) 제8조에 따라 하나의 자가 거주 주택 양도에 대해 일생에 한 번인 면제를 선택할 수 있으며, 그 선택은 철회할 수 없습니다. 배우자 간, 부모와 자녀 간, 조부모와 손자녀 간의 증여는 증여자가 시민권자인 경우 양도차익도 손실도 없는 것으로 취급됩니다. 개인은 또한 RM10,000과 양도차익의 10% 중 큰 금액의 별표 4 면제도 받습니다."
+keyTakeaways:
+  - "The private residence exemption applies to one residence only, per lifetime, and the election is irrevocable"
+  - "Permanent residents qualify for the private residence exemption, not only citizens"
+  - "Siblings are not covered by the family transfer rule — only spouses, parent and child, grandparent and grandchild"
+  - "The donor must be a Malaysian citizen for the no-gain-no-loss treatment to apply"
+  - "CKHT 1A is for real property, CKHT 1B for real property company shares, CKHT 2A for the acquirer and CKHT 3 to claim no chargeability"
+  - "Serving a valid CKHT 3 on the acquirer within 60 days switches off the retention duty entirely"
+appliesTo: "Individuals disposing of a home, families transferring property between generations, and acquirers responsible for retaining part of the purchase price."
+
+faq:
+  - q: "Can I transfer property to my brother without paying RPGT?"
+    a: "No. Paragraph 12(2) of Schedule 2 covers only husband and wife, parent and child, and grandparent and grandchild. Siblings are not in the list and the list is closed. A transfer to a brother or sister is a disposal at market value, and RPGT is computed on that deemed consideration even if no money changes hands."
+  - q: "How many times can I claim the private residence exemption?"
+    a: "Once in a lifetime. Paragraph 9 of Schedule 3 entitles an individual to the exemption in respect of the disposal of one private residence only, and once the election is made there is no further exemption for any of their other private residences. The election must be in writing to the Director General and is irrevocable, so it is worth saving for the disposal that generates the largest gain."
+  - q: "What is CKHT 3 for?"
+    a: "CKHT 3 is the notification under section 13(6) that a disposal is not chargeable or is exempt. It matters twice over: it is how you claim the exemption, and under section 21B(5) serving it on the acquirer within 60 days removes the acquirer's duty to retain and remit part of the price. Without it the buyer must still withhold even though no tax is ultimately due."
+
+verificationNeeded:
+  - "Whether any P.U.(A) exemption orders granting RPGT relief beyond the statutory exemptions remain in force in 2026 was not enumerated from the Federal Gazette and should be checked before relying on any order-based exemption"
+  - "The current status of Form CKHT 502 as the acquirer's payment route was not confirmed against LHDN's payment procedure page and may have been superseded by the e-CKHT confirmation slip"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Real Property Gains Tax Act 1976 (Act 169), consolidated text"
+    url: "https://lom.agc.gov.my/act-detail.php?act=169"
+    publisher: "Attorney General's Chambers"
+  - title: "RPGT Exemption"
+    url: "https://www.hasil.gov.my/en/ckht/pengecualian/"
+    publisher: "LHDN"
+  - title: "Types of RPGT Return Forms"
+    url: "https://www.hasil.gov.my/en/ckht/jenis-borang-nyata-ckht/"
+    publisher: "LHDN"
+  - title: "Retention and Remittance of Money by Acquirer"
+    url: "https://www.hasil.gov.my/en/ckht/pegangan-dan-remitan-wang-oleh-pemeroleh/"
+    publisher: "LHDN"
+
+entity: "RPGT exemptions"
+relations:
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "part-of", to: "rpgt-rates" }
+  - { rel: "governs", to: "real-property-gains-tax-act-1976" }
+related: ["rpgt-rates", "capital-gains-tax", "capital-or-revenue"]
+keywords: ["RPGT exemption", "private residence exemption Malaysia", "CKHT 3", "CKHT 1A", "love and affection transfer", "RPGT family transfer"]
+---
+
+이 법에서 가장 값진 RPGT 감면은 정확히 한 번만 사용할 수 있으며, 대부분의 사람은 이를
+잘못된 부동산에 씁니다 — 보통 처음 파는 부동산인데, 이는 양도차익이 가장 큰 것인 경우가
+드뭅니다.
+
+## 일생에 한 번인 자가 거주 주택 면제
+
+제8조는 **시민권자인 개인, 또는 시민권자는 아니지만 영주권자인 개인**에게 자가 거주
+주택 양도에서 발생하는 양도차익을 면제합니다. 영주권자도 자격이 있습니다. 이는 흔히
+시민권자만 해당하는 것으로 잘못 전해집니다.
+
+별표 3 제9조 제1항이 그 한계를 제공합니다. 개인은 다음을 조건으로 **하나의 자가 거주
+주택에 대해서만** 면제를 받을 수 있습니다:
+
+- 그가 그 주택에 면제가 적용되도록 **선택할 것**;
+- 선택이 이루어지면, 그의 다른 어떤 자가 거주 주택의 양도에 대해서도 **추가 면제가
+  없을 것**; 그리고
+- 그 선택이 **국세청장에게 서면으로 이루어지고 철회할 수 없을 것**.
+
+별표 3 제9조 제2항은 이 법의 폐지된 규정 또는 폐지된 토지투기세법(Land Speculation Tax
+Act 1974)에 따라 이미 면제가 부여된 경우 이 선택을 차단합니다.
+
+두 부동산을 소유하고 있고 둘 다 팔 예정이라면, 선택하기 전에 각각의 양도차익을 계산해
+보십시오. 이 감면은 되돌릴 수 없습니다.
+
+## 별표 4 면제
+
+별도로, 한 번이 아니라 모든 양도에 대해 이용 가능한 별표 4는 **개인**에게 발생하는
+과세 양도차익에 대해 **RM10,000과 과세 양도차익의 10% 중 큰 금액**을 면제합니다. 회사는
+아무것도 받지 못합니다.
+
+## 가족 간 이전: 닫힌 목록
+
+별표 2 제12조 제1항은 증여를 **시장가치**의 양도로 간주하므로, 증여는 돈이 오가지
+않더라도 통상 과세 사건입니다.
+
+별표 2 제12조 제2항은 증여자와 수령자가 **부부, 부모와 자녀, 또는 조부모와
+손자녀**인 이전을 예외로 합니다. 그 경우:
+
+- **증여자는 양도차익도 없고 손실도 입지 않은 것으로 간주**되지만, **증여자가
+  시민권자인 경우에만** 그렇습니다; 그리고
+- **수령자는 증여자의 취득가액**과 증여자의 허용 비용을 승계합니다.
+
+여기서 사람들이 잘못 아는 세 가지:
+
+- **형제자매는 목록에 없습니다.** 남매 간 이전은 시장가치로 과세됩니다. 이 목록은 닫혀
+  있습니다.
+- **시민권 요건은 수령자가 아니라 증여자**에게 붙습니다.
+- **이 감면은 면제하는 것이 아니라 이연합니다.** 수령자가 원래의 취득원가를 인수하므로,
+  누적된 양도차익 전체가 그들의 최종 매각 시 드러납니다.
+
+별도로, 제3조 제1항 (b)는 배우자 간, 혼인을 해소하는 법원 명령에 따른 전 배우자 간,
+그리고 지배회사(controlled company)에 대한 특정 이전에 대해 양도가액이 취득가액과
+동일한 것으로 간주합니다.
+
+## 어떤 CKHT 양식
+
+| 양식 | 제출자 | 대상 | 기한 |
+| --- | --- | --- | --- |
+| **CKHT 1A** | 양도자 | 부동산 양도 | 양도 후 60일 |
+| **CKHT 1B** | 양도자 | 부동산 회사(real property company)의 주식 양도 | 양도 후 60일 |
+| **CKHT 2A** | 취득자 | 부동산 또는 RPC 주식 취득 | 취득 후 60일 |
+| **CKHT 3** | 양도자 | 양도가 과세 대상이 아니거나 면제된다는 s.13(6)에 따른 통지 | 양도 후 60일 |
+
+자가 거주 주택 선택은 **CKHT 3**을 통해 이루어집니다.
+
+## 취득자의 유보 의무
+
+s.21B에 따라 매도자가 아니라 **취득자**가 대가의 일부를 유보하여 양도 후 **60일
+이내에** 국세청장에게 납부해야 합니다:
+
+- s.21B(1)에 따른 기본값으로 **3%**;
+- s.21B(1A)(a)에 따라, 양도자가 별표 5 파트 II에 해당하고 **양도가 취득일로부터 3년
+  이내**인 경우 **5%** — 그 이후에는 3%로 복귀;
+- s.21B(1A)(b)에 따라, 양도자가 파트 III에 해당하는 경우 **7%**.
+
+납부하지 않으면 s.21B(2)에 따라 금액이 **10%** 증가하며, 그 금액은 **취득자**로부터
+정부에 대한 채무로 즉시 납부해야 합니다.
+
+탈출구는 s.21B(5)입니다. 양도자가 60일 이내에 유효한 **CKHT 3** 통지를 취득자에게
+송달하면, 유보 의무가 전혀 적용되지 않습니다. 양도자의 CKHT 3이 잘못되어 취득자가 과소
+납부하면, s.14(5)는 10%를 **양도자**에게 이전합니다.
+
+## 흔한 실수
+
+- **반사적으로 첫 매각에 자가 거주 주택 면제를 선택하는 것.** 이는 철회할 수 없고 한
+  번만 사용할 수 있습니다.
+- **형제자매가 애정(love-and-affection) 취급 자격이 있다고 가정하는 것.** 자격이
+  없습니다.
+- **가족 간 이전을 영구적 절세로 취급하는 것.** 이는 양도차익을 수령자의 손으로
+  이월시킵니다.
+- **매수자가 유보 의무를 무시하는 것.** 10% 가산은 매수자에게 떨어집니다.
+- **CKHT 3을 늦게 제출하는 것.** 60일 이내에 송달하지 않으면 면제와 관계없이 유보
+  의무가 계속 유효합니다.
+
+## 다음 단계
+
+어떤 매각도 완료되기 전에 일생에 한 번인 선택을 어느 부동산에 쓸 가치가 있는지 결정하고,
+유보가 촉발되지 않도록 60일 기간 내에 CKHT 3을 매수자의 변호사에게 전달하십시오.
+양도자가 회사인 경우, 이 면제들 중 어느 것도 적용되지 않습니다.

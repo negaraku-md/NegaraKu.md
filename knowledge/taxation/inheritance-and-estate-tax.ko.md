@@ -1,0 +1,272 @@
+---
+topicId: MY-TAX-0129
+title: "말레이시아는 상속에 과세하는가? 상속재산 및 사망 관련 세금 규칙"
+seoTitle: "말레이시아의 상속세와 상속재산세: 사람이 사망할 때 무엇이 적용되는가"
+slug: "inheritance-and-estate-tax"
+category: "taxation"
+subcategory: ["estate"]
+summary: "말레이시아는 1991년에 상속재산세(estate duty)를 폐지했고 상속세나 사망세를 부과하지 않습니다. 그러나 세금 이야기는 거기서 끝나지 않습니다. 상속재산이 관리되는 동안 벌어들인 소득은 여전히 유언집행자에게 과세되고, 나중에 상속받은 부동산을 매각하면 부동산이득세와 인지세가 발생할 수 있습니다."
+
+tier: "1"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "말레이시아는 어떤 상속세, 상속재산세, 또는 사망세도 부과하지 않습니다. 상속재산세는 1991년 11월 1일에 폐지되었고 이를 대체한 것이 없으므로, 상속인은 이전 자체에 대한 부과 없이 자산을 받습니다. 그러나 세 가지 세금 노출이 사망 후에도 남습니다. 사망일까지의 피상속인의 최종 소득세, 관리 중 상속재산의 소득에 대한 소득세(유언집행자에게 부과), 그리고 상속받은 부동산이 결국 매각되거나 이전될 때의 부동산이득세와 명목 인지세입니다."
+keyTakeaways:
+  - "There is no inheritance tax, estate duty, or gift-on-death tax in Malaysia; estate duty was repealed on 1 November 1991."
+  - "Income the deceased earned up to death is taxed in the deceased's name (a final return); income the estate earns after death is taxed as estate income on the executor."
+  - "Inheriting property is not itself a taxable disposal, but a later sale is subject to real property gains tax (RPGT). Where the executor disposes of the property, the acquisition value is deemed to be the market value at the date of death. Where a beneficiary disposes of it in their own name, the transfer from the estate is a no-gain-no-loss transaction, so the beneficiary's acquisition date is the date the property was transferred to them and the acquisition price is its market value on that transfer date (paras 15(2), 15A and 19(3A), Schedule 2, RPGT Act 1976) — not the date of death and not the deceased's original cost."
+  - "Transferring inherited property to a beneficiary under a will, the Distribution Act, or faraid attracts only nominal RM10 stamp duty, not ad valorem duty."
+  - "The executor must notify the Inland Revenue Board (LHDN) of the death and remains responsible for settling the deceased's outstanding tax before distributing the estate."
+appliesTo: "Executors, administrators and beneficiaries of a Malaysian estate; families doing succession or will planning; foreigners inheriting Malaysian assets."
+
+faq:
+  - q: "Does Malaysia have an inheritance tax or estate duty?"
+    a: "No. Malaysia abolished estate duty on 1 November 1991 and has not introduced any inheritance, estate, or death tax since. Beneficiaries do not pay tax simply for receiving an inheritance."
+  - q: "If there is no inheritance tax, why do I still hear about tax when someone dies?"
+    a: "Because other taxes can still apply. The deceased's income up to death is taxed as a final return, income the estate earns during administration is taxed on the executor, and selling inherited property later can trigger real property gains tax and nominal stamp duty on the transfer."
+  - q: "Do beneficiaries pay income tax on money or assets they inherit?"
+    a: "No. Distributions of estate assets to beneficiaries are not taxable in the hands of the beneficiaries, and they are not deductible to the estate. The estate itself, not the beneficiary, is taxed on any income the estate generates before distribution."
+  - q: "Is inheriting a house a taxable event for RPGT?"
+    a: "No. The transfer of real property from a deceased person or the estate to a beneficiary is not treated as a chargeable disposal, so no RPGT arises at the moment of inheritance. RPGT is only relevant when the property is later sold."
+  - q: "What acquisition price is used when I later sell inherited property?"
+    a: "It depends on who sells. Where the executor disposes of estate property, the executor is deemed to have acquired it on the date of death at its market value on that date, so only the gain above the death-date value is taxed. Where a beneficiary disposes of the property in their own name, the transfer from the estate to the beneficiary is a no-gain-no-loss transaction; the beneficiary's acquisition date is the date the property was transferred to them and the acquisition price is its market value on that transfer date (paras 15(2), 15A and 19(3A), Schedule 2, RPGT Act 1976) — not the date of death and not the deceased's original cost. Both the holding-period band and the taxable gain therefore run from the transfer date, not from death."
+  - q: "How much stamp duty applies when inherited property is transferred to me?"
+    a: "A nominal RM10, provided the transfer follows a valid will, the Distribution Act (intestacy), or faraid under Syariah law. Ad valorem (value-based) stamp duty can apply if beneficiaries rearrange entitlements outside those statutory frameworks."
+  - q: "Does the executor have to deal with LHDN?"
+    a: "Yes. The executor must inform LHDN of the death, file the deceased's final return and the estate's returns, and settle any outstanding tax and penalties before distributing the estate. LHDN has three years from the end of the year it is notified of the death to raise assessments."
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-14
+reviewDue: 2027-08-08
+publishedBy: "ashton-tan"
+revision: 0
+verificationNeeded: []
+revisions:
+  - revision: 0
+    date: 2026-08-14
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-14
+sources:
+  - title: "Death of an individual (Malaysian tax technical article)"
+    url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
+    publisher: "ACCA Global"
+  - title: "Question of inheritance tax resurfaces in Malaysia"
+    url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
+    publisher: "The Edge Malaysia"
+  - title: "Updates on Real Property Gain Tax (RPGT) 2022 — rates per Schedule 5, RPGT Act 1976"
+    url: "https://www.lowpartners.com/updates-on-real-property-gain-tax-rpgt-2022/"
+    publisher: "Low & Partners"
+  - title: "Stamp Duty Imposed on Intestate Estate"
+    url: "https://www.lowpartners.com/stamp-duty-imposed-intestate-estate/"
+    publisher: "Low & Partners"
+  - title: "Inheritance tax: A look at how other Asian countries have fared with the tax on wealth transfers"
+    url: "https://www.malaymail.com/news/malaysia/2024/10/11/inheritance-tax-a-look-at-how-other-asian-countries-have-fared-with-the-tax-on-wealth-transfers/153073"
+    publisher: "Malay Mail"
+  - title: "Inheriting property in Malaysia: a clear guide for foreigners and their families"
+    url: "https://tlglegal.com.my/inheriting-property-in-malaysia-a-clear-guide-for-foreigners-and-their-families/"
+    publisher: "Toh Liew & Gentry"
+  - title: "Transfer Of Asset Inherited From Deceased Estate (RPGT)"
+    url: "https://lom.agc.gov.my/act-detail.php?act=169"
+    publisher: "Attorney General's Chambers"
+  - title: "Disposal Price Deemed To Be Equal To Acquisition Price (RPGT)"
+    url: "https://www.hasil.gov.my/en/ckht/harga-pelupusan-dan-harga-pemerolehan/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Responsibilities of Disposer and Acquirer (CKHT)"
+    url: "https://www.hasil.gov.my/en/ckht/tanggungjawab-pelupus-dan-pemeroleh/"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Public Ruling No. 9/2023 - The Deceased (Part I - Introduction)"
+    url: "https://www.hasil.gov.my/media/bzubsvql/public-ruling-no-92023-the-deceased-part-1-introduction.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Explanatory Notes - Deceased Person's Estate (Form TP)"
+    url: "https://www.hasil.gov.my/media/forms/upload/form_54f4aa03-2b84-4dc6-ab29-7954a9d67d5e/b32d6f36-b37e-4665-9be2-1981b42a42cf/explanatorynotes_tp2022_2.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Pemungut Duti Setem v. Lee Koy Eng & Another Appeal [2022] 6 MLRA 209 (judgment)"
+    url: "https://www.elaw.my/JE/01/JE_2022_43.html"
+    publisher: "eLaw Malaysia"
+  - title: "A New Chapter in Stamp Duty Appeals – The Case Of Lee Koy Eng"
+    url: "https://www.ziclegal.com/resources/a-new-chapter-in-stamp-duty-appeals---the-case-of-lee-koy-eng"
+    publisher: "ZICO Law"
+  - title: "Budget 2026 Highlights – Updates on Tax and Duties"
+    url: "https://www.ziclegal.com/resources/budget-2026-highlights---updates-on-tax-and-duties"
+    publisher: "ZICO Law"
+  - title: "Key Highlights of Malaysia's Budget 2026 – For individuals and businesses"
+    url: "https://www.crowe.com/my/-/media/crowe/firms/asia-pacific/my/crowemy/news/key-highlights-of-malaysias-budget-2026--for-individuals-and-businesses-newsletter.pdf"
+    publisher: "Crowe Malaysia"
+
+relations:
+  - { rel: "related-to", to: "real-property-gains-tax" }
+  - { rel: "related-to", to: "stamp-duty" }
+  - { rel: "related-to", to: "personal-income-tax" }
+related: ["real-property-gains-tax"]
+keywords: ["inheritance tax Malaysia", "estate duty Malaysia", "no inheritance tax", "deceased estate income tax", "RPGT inherited property", "stamp duty inheritance", "executor tax Malaysia", "death tax Malaysia"]
+---
+
+부모가 쿠알라룸푸르(Kuala Lumpur)에서 사망하며 집과 약간의 저축을 남기면, 가족의 첫 걱정은 흔히 상속 자체에 대한 세금 고지서입니다. 말레이시아에서 그 특정한 고지서는 존재하지 않습니다. 상속세도, 상속재산세도, 누군가 남긴 재산에 대한 사망세도 없습니다.
+
+폐지는 오래전에 정해졌습니다. 옛 상속재산세는 1991년에 폐지되었고 이를 대체한 것이 없습니다. 그러나 "상속세 없음"은 "세금 없음"과 같지 않습니다. 피상속인이 벌어들인 돈, 상속재산이 정리되는 동안 상속재산이 벌어들이는 돈, 그리고 상속받은 부동산의 최종 매각은 각각 자체의 세금 규칙을 지닙니다. 이 안내서는 무엇이 과세되고, 무엇이 아니며, 누가 책임지는지를 정확히 살펴봅니다.
+
+## 말레이시아는 상속에 과세하는가?
+
+아니요. 말레이시아는 피상속인으로부터 상속인에게 넘어가는 자산에 어떤 상속세, 상속재산세, 또는 사망세도 부과하지 않습니다. 상속재산세 법령 1941(Estate Duty Enactment 1941)에 따른 상속재산세는 1991년 11월 1일에 폐지되었고, 이후 이를 대체한 세금이 도입되지 않았습니다. 피상속인이 남기는 누적 재산에 대한 최종 세금은 없습니다.
+
+폐지 전, 상속재산세는 더 큰 상속재산에만 적용되었습니다. 0%, 5%, 10%의 누진세율로 부과되었습니다. RM200만 이하로 평가된 상속재산은 아무것도 내지 않았고, 최고 10% 세율은 RM400만을 초과하여 평가된 상속재산에 적용되었습니다. 기준이 높고 부과가 사망 시에만 발동되었기 때문에, 그것이 올린 세수는 미미했습니다 — 이것이 세무 자문가들이 일반적으로 그 폐지 이유로 드는 것입니다.
+
+상속세를 되살리자는 생각은 이따금 떠오릅니다. 재도입은 2016년과 2017년경에 소문이 돌았고(사회관계망에서 유포된 미확인 메시지는 세율을 10%로 제시했습니다), 페낭 소비자협회는 2018년 예산안에 앞서 최부유층으로부터 세수를 올리는 방편으로 이를 주장했습니다. 매번 제안은 기각되거나 보류되었습니다. 세무 전문가들은 상속세가 말레이시아가 이미 부과하는 세금 — 인지세와 부동산이득세 — 과 중복되고 투자를 위축시킬 수 있다는 이유로 일상적으로 반대합니다. 재도입은 2025년 예산안에 앞서 다시 추측되었으나 구체적 제안은 뒤따르지 않았고, 2026년 예산안(2025년 10월 10일 제출)도 아무것도 도입하지 않았습니다 — 진정으로 새로운 유일한 세금은 철·철강·에너지 부문에 대한 2026년부터의 탄소세입니다. 이 안내서 날짜 기준으로, 어떤 상속세, 상속재산세, 또는 사망세도 존재하거나 예정되어 있지 않습니다.
+
+그렇다면 상속 자체에 세금이 없다면, 세금이 실제로 어디에서 등장하는가? 세 곳에서이며, 모두 재산의 이전이 아니라 *소득과 이득*에 관한 것입니다.
+
+## 사람이 사망할 때 실제로 무엇이 과세되는가?
+
+사망을 한 사람의 세금 생애를 별개의 국면으로 나누는 것으로 생각하십시오. 각 국면은 서로 다른 납세자와 서로 다른 규칙 집합을 가집니다.
+
+| 국면 | 무엇이 과세되는가 | 누가 부과받는가 | 세금의 성격 |
+| --- | --- | --- | --- |
+| 사망일까지 | 피상속인이 생전에 그 해에 벌어들인 소득 | 피상속인(최종 신고) | 소득세 |
+| 상속재산 관리 중 | 사망 후 상속재산이 창출하는 소득(임대료, 배당, 이자, 사업소득) | 유언집행자/관리인 | 상속재산에 대한 소득세 |
+| 상속인에게 자산 분배 시 | 없음 — 분배는 과세되지 않음 | — | 세금 없음 |
+| 나중에 상속 부동산 매각 | 취득 이래의 이득(유언집행자가 팔면 사망일 가치; 수익자가 팔면 이전일 가치) | 매도인(유언집행자나 수익자) | 부동산이득세 |
+| 상속 부동산을 상속인 명의로 등기 | 명목 정액세 | 수익자 | 인지세(RM10) |
+
+두 가지가 두드러집니다. 첫째, *상속하는* 행위는 모든 단계에서 비과세입니다 — 이전에 대한 세금도, 자산을 받는 수익자에 대한 세금도 없습니다. 둘째, 적용되는 세금은 통상적인 소득세, RPGT, 인지세이며, 단지 피상속인의 상황에 적용될 뿐입니다. 이 안내서의 나머지는 이들을 하나씩 다룹니다.
+
+## 피상속인 자신의 소득은 어떻게 과세되는가?
+
+사망이 그 사람이 살아 있던 그 해 부분에 대한 세금 의무를 없애지는 않습니다. 사망일까지(사망일 포함) 피상속인에게 발생한 모든 소득은 그 마지막 기간을 다루는 최종 신고로 피상속인 명의로 부과됩니다. 피상속인이 생전에 여전히 진 세금 — 벌금 포함 — 은 납부 대상으로 남으며, 무엇이든 수익자에게 분배하기 전에 상속재산에서 이를 정산하는 것이 유언집행자의 일이 됩니다.
+
+말레이시아 국세청(LHDN)은 이를 추적할 무제한의 시간을 갖지 않습니다. 사망을 통보받은 해가 끝난 때로부터 3년 안에 피상속인의 미납 세금과 벌금을 징수하기 위한 부과를 제기해야 합니다. 예를 들어, 사망이 2025년에 통보되면 LHDN의 부과 기간은 2028년 말까지입니다.
+
+유언집행자를 위한 실무적 요점: LHDN에 일찍 통보하고, 피상속인의 세금 파일을 정산하며, 피상속인 자신의 세금이 정리되었다고 확신하기 전에는 상속재산을 분배하지 마십시오. 먼저 분배하고 나중에 세금 고지서가 도착하면, 돈을 회수하기 위해 수익자를 개인적으로 쫓는 처지가 될 수 있습니다.
+
+## 상속재산이 벌어들인 소득은 어떻게 과세되는가?
+
+상속재산은 하룻밤에 정리되는 경우가 드뭅니다. 유언집행자가 자산을 모으고, 유언검인이나 관리장을 얻으며, 분배를 준비하는 동안, 상속재산의 자산은 흔히 계속 소득을 냅니다 — 임차된 상가주택이 임대료를 걷고, 주식 포트폴리오가 배당을 지급하며, 정기예금이 이자를 법니다. 사망 *후에* 발생하는 그 소득은 상속재산 소득으로 과세되어 유언집행자에게 부과됩니다.
+
+상속재산 소득의 주요 규칙:
+
+- **사망 후 소득은 상속재산 소득입니다.** 이는 피상속인이나 수익자가 아니라 (상속재산의 대표로서) 유언집행자 명의로 과세됩니다.
+- **수익자에 대한 분배는 공제되지도 과세되지도 않습니다.** 유언집행자가 상속인에게 돈을 지급할 때, 상속재산은 이를 공제할 수 없고 수익자는 수령에 대해 소득세를 내지 않습니다. 세금은 상속재산이 벌어들이는 소득에 대해 상속재산 수준에서 한 번 부과됩니다.
+- **제한된 공제가 허용됩니다.** 상속재산 소득에 대해, 상속재산은 당해 사업 손실, 승인 기부금, 유언에 규정된 연금 같은 항목을 공제할 수 있습니다. 연금은 소득세법 1967(Income Tax Act 1967) 제64(3)조에 따라 상속재산의 총소득에 이르는 데 있어 공제되며, 당해 사업 손실, 탐사 지출, 사업 개시 전 지출에 대한 공제 후에 취해집니다.
+- **공제·감면이 제한됩니다.** 피상속인이 말레이시아에 주소를 둔 상태로 사망한 경우, 상속재산은 사망 과세연도에 유효한 금액에 근거한 개인 공제를 받을 자격이 있으나 — 그 밖의 개인 세금 공제는 적용되지 않습니다. 이는 LHDN 공개 예규(Public Ruling) 9/2023, *피상속인(The Deceased)*을 따릅니다.
+
+간단히 그리자면: 상속재산이 관리되지 않은 자산 풀로 존재하는 동안, 그것은 그 자체로 하나의 납세자처럼 행동합니다. 자산이 수익자에게 넘어가면, 그 자산으로부터의 향후 소득은 수익자에게 속하고 그에게 개인적으로 과세됩니다.
+
+## 상속받은 부동산을 매각하면 세금을 내는가?
+
+여기가 대부분의 가족이 실제로 세금 고지서를 마주치는 곳이며, 말레이시아 사망 관련 세금에서 가장 오해되는 부분입니다. 세금은 부동산이득세법 1976(Real Property Gains Tax Act 1976)에 따른 **부동산이득세(RPGT)** — 부동산(및 부동산이 많은 회사의 주식) 처분으로 인한 이득에 특별히 적용되는 자본이득세 — 입니다.
+
+두 가지를 구분해야 합니다.
+
+1. **부동산을 상속하는 것은 과세 처분이 아닙니다.** 부동산이 피상속인이나 상속재산에서 수익자에게 넘어갈 때, 그 이전은 RPGT상 처분으로 취급되지 않습니다. 상속 시점에 RPGT는 발생하지 않습니다.
+
+2. **나중에 부동산을 매각하는 것은 과세 처분입니다.** 유언집행자나 수익자가 결국 매각할 때, RPGT가 이득에 적용됩니다.
+
+**유언집행자에 의한** 처분의 경우, 유언집행자는 사망일에 그날의 시장 가치로 부동산을 취득한 것으로 간주됩니다. 사망 *후의* 가치 증가만이 과세됩니다. 부동산이 *수익자* 자신의 명의로 이전된 후에는 규칙이 다릅니다. LHDN의 RPGT 지침에 따라, 상속재산에서 수익자로의 부동산 이전은 **무손익 거래(no-gain-no-loss transaction)**입니다(처분 가격이 취득 가격과 같은 것으로 간주됨). 수익자가 나중에 매각하면, 수익자의 취득일은 **부동산이 그에게 이전된 날**이고, 취득 가격은 **그 이전일의 시장 가치**입니다(부동산이득세법 1976 부칙 2 제15(2), 15A, 19(3A)항) — 사망일이나 사망 시 가치가 아니며, 피상속인의 원래 취득일과 원가도 아닙니다. 사망일이 아니라 그 이전일이 기산을 정하므로, 그것이 수익자 자신의 처분에 대한 보유 기간 구간과 과세 이득을 모두 좌우합니다.
+
+### 계산 예시: 유언집행자가 상속 부동산을 매각
+
+아버지가 오래전에 집을 RM100,000에 매입했다고 합시다. 그의 사망 시 집의 가치는 RM350,000입니다. 유언집행자가 나중에 상속재산 자금을 마련하기 위해 이를 RM375,000에 매각합니다.
+
+- 간주 취득 가치(사망 시 시장 가치): **RM350,000**
+- 처분 가격: **RM375,000**
+- 과세 이득: **RM25,000**
+
+이 사실관계에서 — 유언집행자에 의한 처분 — RPGT는 아버지 생전의 RM275,000 성장이 아니라 사망 후의 RM25,000 상승분에만 부과됩니다. 동일한 논리가 확대됩니다. 사망 시 RM250만 가치의 상가주택을 유언집행자가 RM300만에 매각하면 RM500,000의 과세 이득이 발생합니다.
+
+반면 수익자에 대한 현금 분배는 RPGT 관련 영향이 전혀 없습니다 — RPGT는 현금이 아니라 부동산에 관한 것입니다.
+
+### RPGT 세율
+
+RPGT 세율은 (취득일부터 측정한) 부동산 보유 기간과 매도인의 범주에 달려 있습니다. 다음은 2022년 1월 1일부터 시행되는 부동산이득세법 1976 부칙 5의 세율입니다.
+
+| 처분 전 보유 기간 | 시민 / 영주권자(제1부) | 말레이시아 회사(제2부) | 비시민 / 외국인(제3부) |
+| --- | --- | --- | --- |
+| 3년 이내 | 30% | 30% | 30% |
+| 4년째 | 20% | 20% | 30% |
+| 5년째 | 15% | 15% | 30% |
+| 6년째 이후 | 0% | 10% | 10% |
+
+유언집행자가 처분하는 상속 부동산의 경우, 보유 기간은 사망일(간주 취득일)부터 진행되며, 이는 흔히 매각 시점에 부동산이 이미 더 낮은 구간에 들 만큼 오래 "보유"된 것을 의미합니다. 6년째 이후에 매각하는 말레이시아 시민은 0% RPGT를 냅니다 — 그러나 비시민은 보유 기간에 관계없이 10% 하한에 직면합니다. 그 차이는 국경 간 상속재산에서 크게 중요합니다.
+
+취득일에 관한 참고: 이는 누가 매각하는지에 달려 있습니다. *유언집행자*가 부동산을 처분하는 경우, 간주 취득일은 사망일이고 취득 가격은 사망 시 시장 가치입니다. 부동산이 이미 *수익자* 자신의 명의로 이전된 경우, 수익자의 취득일은 **그 이전일**이고 취득 가격은 **이전일의 시장 가치**입니다 — 상속재산으로부터의 이전이 무손익 거래이기 때문입니다. 이는 보유 기간 구간과 과세 이득을 모두 직접 바꾸므로, 매각 전에 올바른 취득일을 식별하십시오.
+
+RPGT는 자가 신고이며 시간에 민감합니다. 처분자는 **처분일로부터 60일 이내에** CKHT 신고서(양식 CKHT 1A)를 제출해야 합니다 — 통상 매매계약일, 또는 주 당국의 승인이나 동의가 필요한 경우 그 날짜입니다. 취득자는 동일한 60일 이내에 양식 CKHT 2A를 제출하고 유보액을 보유·납부해야 합니다. 2025년 1월 1일부터 모든 CKHT 제출은 MyTax e-CKHT 포털을 통해 온라인으로 이루어져야 합니다. 60일 마감일을 놓치면 부과된 세액의 최대 3배 벌칙이 따를 수 있으므로, 이를 일정에 반영하십시오.
+
+## 상속 부동산 이전에 대한 인지세는 어떠한가?
+
+RPGT와 별도로, 상속 부동산의 소유권을 수익자 명의로 이전하는 것은 인지 대상 문서입니다. 여기서의 완화는 관대합니다. 인정된 승계 경로를 따르는 이전인 경우, 세금은 통상적인 매각에 적용되는 종가세(가치 기반)가 아니라 **명목 RM10**입니다.
+
+명목 RM10 세금은 다음에 따른 이전인 경우 적용됩니다.
+
+- 유효한 **유언**;
+- **분배법(Distribution Act)**(즉 유언이 없는 무유언 승계); 또는
+- 무슬림 상속재산에 대한 샤리아법상 강제상속 규칙인 **파라이드(faraid)**.
+
+그러나 수익자가 그 법정 틀 *밖*에서 그들의 권리를 재배열하면 종가세가 발동될 수 있습니다. 말레이시아 판례법은 이와 씨름해 왔습니다. *Lee Koy Eng v Pemungut Duti Setem* [2022] MSTC 30-483에서 고등법원은 무유언 상속의 수익자가 관리가 완료될 때까지 상속재산에 대한 기득권이나 이익을 갖지 않으므로, 그 권리의 포기를 실행하는 양식 14A 문서가 "증여"가 될 수 없으며 — 아직 소유하지 않은 것을 증여할 수 없으므로 — 종가세가 아니라 명목세만 부담한다고 판단했습니다. (항소심에서 이 사건은 *Pemungut Duti Setem v Lee Koy Eng & Another Appeal* [2022] 6 MLRA 209으로 보고되며, 연방법원은 인지세법 1949(Stamp Act 1949) 제39조에 따라 진술된 사건이 연방법원에 항소 가능함을 확인했습니다. 고등법원과 항소법원 모두 실질에 관해 세금 납부자에게 유리하게 판단했습니다.) 더 넓은 교훈은 서류가 어떻게 구성되는지(예: 가족 합의서)가 세금에 영향을 미친다는 것입니다. 수익자가 유언이나 분배법이 규정하지 않은 방식으로 자산을 그들 사이에 재분배하려면, 먼저 조언을 구하십시오. 잘못된 구조는 RM10 이전을 전액 세율 세금으로 바꿀 수 있기 때문입니다.
+
+또한 RM10 인지세가 소유권 이전의 유일한 비용이 아님에 유의하십시오. 토지국과 법원 수수료, 감정 비용, 대표권 부여를 얻기 위한 법무 비용이 여전히 적용되며, 외국 수익자의 경우 이전이 등기될 수 있기 전에 대개 부동산 보유에 대한 **주(州) 동의**를 얻어야 합니다.
+
+## 말레이시아와 이웃 국가: 상속세 비교
+
+말레이시아는 이 지역에서 상속세가 없는 여러 국가 중 하나입니다. 상속에 대한 부과는 정책 선택입니다. 일부 이웃 경제권은 이를 부과하고, 다른 곳은 폐지했거나 애초에 없었습니다. 아래 표는 이 지역 전반의 세금에 대한 2024년 조사에 근거하여 몇몇 아시아 관할이 어디에 위치하는지를 제시합니다.
+
+| 관할 | 재산 이전에 대한 상속세/상속재산세 |
+| --- | --- |
+| 말레이시아 | 없음(상속재산세 1991년 11월 1일 폐지) |
+| 싱가포르 | 없음(상속재산세 2008년 폐지) |
+| 인도네시아 | 없음 |
+| 태국 | 있음 — 상속재산 가치가 1억 바트(약 RM1,280만)를 초과하면 5%(직계존속) / 10%(직계비속) |
+| 베트남 | 있음 — VND1,000만을 초과하는 상속 재산에 일률 10% |
+| 일본 | 있음 — 최고 세율 최대 55% |
+| 대한민국 | 있음 — 최고 세율 최대 50% |
+
+이 지역의 그림은 엇갈립니다. 말레이시아의 일부 이웃은 아무것도 부과하지 않는 반면, 다른 곳은 세계에서 가장 높은 축의 세율을 부과합니다. 말레이시아는 현재 "상속세 없음" 그룹에 속합니다.
+
+말레이시아에 한정하면, 사망 관련 세금 입장은 다음과 같습니다.
+
+| 말레이시아의 특징 | 입장 |
+| --- | --- |
+| 상속세 / 상속재산세 | 없음(상속재산세 1991년 11월 1일 폐지) |
+| 자산을 받는 수익자에 대한 세금 | 없음 |
+| 피상속인의 최종 소득에 대한 소득세 | 있음 — 사망일까지의 최종 신고 |
+| 관리 중 상속재산 소득에 대한 소득세 | 있음 — 유언집행자에게 부과 |
+| 상속 부동산 매각에 대한 자본이득 | 있음 — RPGT; 유언집행자 처분의 경우 사망일 가치부터 측정 |
+| 상속 부동산 이전에 대한 인지세 | 명목 RM10(유언, 분배법, 또는 파라이드를 통해) |
+
+## 유언집행자와 상속인을 위한 판단 틀
+
+상속재산을 처리하고 있다면, 이 질문들을 순서대로 검토하십시오. 각각은 처리해야 할 수 있는 세금에 대응합니다.
+
+1. **피상속인에게 미정산 소득세가 있었는가?** LHDN에 사망을 통보하고, 분배하기 전에 피상속인의 최종 신고와 체납을 정산하십시오. 이를 건너뛰지 마십시오 — 세금 납부 전에 상속재산이 비워지면 귀하가 책임을 집니다.
+2. **상속재산이 여전히 소득을 벌고 있는가?** 자산이 사망 후 임대료, 배당, 이자를 내고 있다면, 그 소득은 자산이 분배될 때까지 상속재산(유언집행자)에 과세됩니다. 상속재산 자체의 기록을 보관하고 그 신고서를 제출하십시오.
+3. **부동산을 매각하고 있는가?** 그렇다면 RPGT가 적용됩니다. 유언집행자에 의한 처분의 경우 이득이 사망일 시장 가치를 기준으로 측정되므로, 사망일 기준으로 부동산을 평가받으십시오. 소유권이 이미 수익자에게 넘어가 이제 매각한다면, 취득일은 이전일이고 취득 가격은 그날의 시장 가치입니다. 어느 쪽이든 처분일로부터 60일 이내에 CKHT 신고서를 제출하십시오(MyTax e-CKHT를 통해 온라인).
+4. **상속인 명의로 부동산을 이전하고 있는가?** 경로가 유언, 무유언, 또는 파라이드이면 명목 RM10 인지세를 예상하십시오. 토지국, 법무, 감정 비용은 별도로 예산에 넣으십시오.
+5. **어느 수익자가 외국인인가?** 그렇다면 부동산 이전에 대한 주 동의를 준비하고, 외국 매도인의 RPGT 하한 10%가 보유 기간에 관계없이 향후 매각에 적용됨을 기억하십시오.
+
+## 흔한 실수와 오해
+
+- **"단지 상속했다는 이유로 과세될 것이다."** 그렇지 않습니다. 상속세가 없고 수익자는 자산 수령에 대해 과세되지 않습니다.
+- **"아버지가 집을 산 이래의 전체 이득에 RPGT가 부과될 것이다."** 유언집행자에 의한 처분의 경우, 이득은 원래 매입 가격이 아니라 사망일 시장 가치부터 측정되며, 이는 대개 과세 이득을 상당히 줄입니다. 수익자가 자신의 명의로 매각하는 경우, 이득은 부동산이 그에게 이전된 날의 시장 가치부터 측정됩니다 — 역시 피상속인의 원래 원가가 아닙니다.
+- **"집을 상속하는 것은 과세 매각이다."** 상속 시 이전은 과세 처분이 아니며, RPGT는 부동산이 나중에 매각될 때만 발생합니다.
+- **"우리끼리 자유롭게 누가 무엇을 받을지 바꿀 수 있다."** 유언, 분배법, 또는 파라이드 밖에서 권리를 재배열하면 RM10 명목 세율 대신 전액 종가 인지세가 부과될 수 있고, 다른 문제도 일으킬 수 있습니다. 이를 제대로 구성하십시오.
+- **"먼저 분배하고 세금은 나중에 처리한다."** 피상속인의 세금과 상속재산의 세금을 정리하기 전에 상속재산을 분배하는 것은 유언집행자를 노출시킵니다. 먼저 세금 의무를 정산하십시오.
+- **"걱정할 평가가 없다."** 매각할 상속 부동산의 경우, 사망일 시장 가치가 귀하의 RPGT를 결정하는 수치일 수 있습니다. 몇 년 후 재구성하지 말고 당시에 문서화하십시오.
+
+## 다음 단계
+
+귀하의 상황이 이 세 가지 유효한 세금 중 어느 것을 수반한다면, 다음 단계는 원천별 세부 사항입니다.
+
+- 상속 부동산 매각에 대해서는 **부동산이득세** — 세율 구간, 보유 기간 규칙, 개인이 이용할 수 있는 면제, 그리고 제출 방식 — 을 읽으십시오.
+- 상속 부동산 등기에 대해서는 가족 합의서가 어떻게 취급되는지를 포함하여 이전에 대한 **인지세**를 살펴보십시오.
+- 피상속인과 상속재산의 신고에 대해서는 **개인 소득세** 제출과 LHDN에 대한 유언집행자의 의무를 검토하십시오.
+
+상속받은 상속재산은 흔히 세 가지 세금을 모두 섞으며 — 그리고 RPGT의 취득일 규칙이 소유권이 어떻게 이전되었는지의 세부에 달릴 수 있으므로 — 단순한 현금 상속재산을 넘어서는 것을 처리하는 유언집행자는 분배나 매각 전에 LHDN이나 면허 세무 대리인과 세부 사항을 확인해야 합니다. 상속세의 부재는 많은 관할보다 입장을 단순하게 만들지만, 남아 있는 세금은 올바른 순서로 처리되어야 합니다.

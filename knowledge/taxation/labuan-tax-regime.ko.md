@@ -1,0 +1,368 @@
+---
+topicId: MY-TAX-0020
+title: "라부안 세금: 3% 제도, 실체 규칙, 그리고 실패하는 경우"
+seoTitle: "말레이시아 라부안 세제: 3% 세율과 실체"
+slug: "labuan-tax-regime"
+category: "taxation"
+subcategory: ["corporate-tax"]
+summary: "3% 라부안 세율이 실제로 포괄하는 것, 이를 24%로 바꾸는 직원 및 운영 지출 실체 판정, 말레이시아 지급자를 벌하는 공제 제한, 그리고 라부안 구조가 잘못된 답인 상황."
+
+tier: "1"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "라부안 매매활동을 영위하는 라부안 법인은 라부안 사업활동세법 1990(Labuan Business Activity Tax Act 1990) 제4(1)조에 따라 감사받은 순이익에 3%로 과세되고, 라부안 비매매활동은 제9조에 따라 전혀 과세되지 않습니다. 둘 다 라부안에서의 직원 및 운영 지출 실체 판정 충족에 달려 있습니다. 이를 충족하지 못하면 제2B(1A)조가 24%를 부과합니다. 별도로, 소득세법 1967(Income Tax Act 1967) 제39(1)(r)조는 말레이시아 지급자에게 공제를 부인할 수 있습니다."
+keyTakeaways:
+  - "3% applies to Labuan trading activity on net profit per audited accounts (LBATA s.4); Labuan non-trading activity is not charged to tax (s.9)"
+  - "Substance is prescribed per activity in P.U.(A) 423-2021 — from zero for pure equity holding (employees exempted) up to 4 full-time employees in Labuan, and RM20,000 to RM200,000 of annual operating expenditure in Labuan"
+  - "From P.U.(A) 325-2025 those employees must be fit and proper — physically working in Labuan, doing office-related work, on a direct contract of service, not outsourced"
+  - "Failing substance means 24% on chargeable profits under LBATA s.2B(1A), not a return to 3% next year"
+  - "Royalty and other intellectual property income never gets the Labuan rate — it is taxed under the Income Tax Act 1967 (LBATA s.4(3) and s.2B(1C))"
+  - "Section 39(1)(r) of the ITA 1967 restricts the deduction claimed by the Malaysian resident payer, so the cost of a bad Labuan structure lands onshore"
+  - "An election into the Income Tax Act 1967 under LBATA s.3A is irrevocable and applies to every subsequent basis period"
+appliesTo: "Malaysian business owners, group finance managers and advisers evaluating or already operating a Labuan company, and Malaysian companies that pay fees, interest or rent to one."
+
+faq:
+  - q: "Is Labuan tax really 3%?"
+    a: "Yes, but only for a Labuan trading activity that meets the substance requirements, and only on net profit as reported in the audited accounts. Non-trading activity is not charged to tax at all. Royalty and other intellectual property income is excluded from both and is taxed under the Income Tax Act 1967 instead."
+  - q: "What happens if my Labuan company does not meet the substance requirements?"
+    a: "Section 2B(1A) of the LBATA charges tax at 24% on chargeable profits for that year of assessment. Chargeable profits are the net profits in the audited accounts, so the charge falls on the same profit figure the 3% would have applied to. It is a per-year test, so one bad year is taxed at 24% even if the next year complies."
+  - q: "Can a Labuan company do business with Malaysian residents?"
+    a: "Yes. Section 7(2) of the Labuan Companies Act 1990 permits it. Note that the former ringgit prohibition in s.7(4) and the ten-working-day duty to notify Labuan FSA in s.7(5) were deleted by Act A1653, deemed in force from 1 January 2019 — most guidance, including Labuan FSA’s own consolidated Act, still shows them. What survives is s.7(1): business only in, from or through Labuan, which is a test of where you operate, not of who you deal with."
+  - q: "Why does my Malaysian company lose a deduction on payments to my Labuan company?"
+    a: "Paragraph 39(1)(r) of the Income Tax Act 1967 restricts deductions for payments made by a Malaysian resident to a Labuan company, in the manner prescribed by Ministerial rules. The restriction bites the Malaysian payer, not the Labuan recipient, which is why the tax cost of a poorly structured arrangement usually appears onshore."
+  - q: "Can I undo an election to be taxed under the Income Tax Act 1967?"
+    a: "No. Section 3A(1) of the LBATA describes the election as irrevocable, and it applies to the basis period elected and every subsequent basis period. It must be made in the prescribed form within three months after the beginning of the basis period, or any extended period the Director General allows."
+  - q: "Do I need employees in Labuan for a pure holding company?"
+    a: "Employees are exempted for pure equity holding activity under the Labuan Business Activity Tax (Exemption) Order 2020, but the RM20,000 minimum annual operating expenditure in Labuan still applies, along with the control and management conditions in regulation 3 of P.U.(A) 423-2021 — a board meeting in Labuan at least once a year, a Labuan registered office, a Labuan-resident secretary, and records kept in Labuan."
+
+verificationNeeded:
+  - "Which of Malaysia's double taxation agreements exclude Labuan entities from benefits, and on what basis"
+
+obligations:
+  - what: "File the Labuan entity return of profits (Form LE1) and pay the tax"
+    trigger: "financial-year-end"
+    due: "within 7 months from the last day of the accounting period that is the basis period for the year of assessment, with a one-month grace period for e-Filing"
+    authority: "LHDN"
+    statute: "Labuan Business Activity Tax Act 1990, s.5 and s.10"
+    consequence: "Assessment by the Director General and a 10% increase on tax unpaid 30 days after the notice of assessment under s.13A(2)"
+  - what: "Make the irrevocable election to be taxed under the Income Tax Act 1967"
+    trigger: "financial-year-end"
+    withinDays: 90
+    due: "within three months after the beginning of the basis period for the year of assessment, or any extended period allowed by the Director General"
+    authority: "LHDN"
+    statute: "Labuan Business Activity Tax Act 1990, s.3A(2)"
+    consequence: "The election is unavailable for that year; once made it can never be reversed"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-14
+reviewDue: 2027-08-14
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-14
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-08-14
+sources:
+  - title: "Labuan Business Activity Tax Act 1990 (Act 445), incorporating Act 833 of 2021"
+    url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Legislation/2022/Draft%20ACT%20445%20BI%20update%202021%20-%20Website%20purpose%2012%20DEC%202022.pdf"
+    publisher: "Labuan FSA"
+  - title: "Labuan Business Activity Tax (Requirements for Labuan Business Activity) Regulations 2021 [P.U.(A) 423/2021]"
+    url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Guidelines/tax-related/2021/Labuan%20Business%20Activity%20Tax%20(Requirements)%20Regulations%202021%20%5BP.U%20(A)%20423-2021%5D%20_25112021.pdf"
+    publisher: "Attorney General's Chambers"
+    date: "2021-11-22"
+  - title: "Guidelines — Labuan Trading Activity and Labuan Non-Trading Activity (LHDN.AG.600-1/10/3)"
+    url: "https://www.hasil.gov.my/wp-content/uploads/guidlines-labuan-trading-activity-and-labuan-non-trading-activity.pdf"
+    publisher: "LHDN"
+    date: "2025-12-10"
+  - title: "Guidelines — Substance Requirements for Fit and Proper Full-Time Employees of Labuan Entities (LHDN.AG.600-1/7/3)"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20251105-guidelines-on-substance-requirements-for-fit-and-proper-full-time-employees-of-labuan-entities.pdf"
+    publisher: "LHDN"
+    date: "2025-11-05"
+  - title: "Labuan Companies Act 1990 (Act 441), updated version"
+    url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Legislation/2022/Act%20441%20-%20Labuan%20Companies%20Act%201990%20-%20Updated%20Version_23082022.pdf"
+    publisher: "Labuan FSA"
+  - title: "Circular 269/2021 — Income Tax (Exemption) Order 2021 [P.U.(A) 425/2021]"
+    url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Guidelines/tax-related/2021/Circular%20PUA%20425_FINAL_29112021.pdf"
+    publisher: "Labuan FSA"
+    date: "2021-11-24"
+  - title: "Guidelines on Tax Treatment for Labuan Entities with Dormant Status"
+    url: "https://www.hasil.gov.my/wp-content/uploads/guidelines-on-tax-treatment-for-dormant-labuan-entity-20221111.pdf"
+    publisher: "LHDN"
+    date: "2022-10-20"
+  - title: "Program Memfail Borang Nyata Bagi Tahun 2026"
+    url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
+    publisher: "LHDN"
+    date: "2025-12-30"
+  - title: "Income Tax (Deductions Not Allowed for Payment Made to Labuan Company by Resident) Rules 2018 (Amendment) 2020 [P.U.(A) 376/2020]"
+    url: "https://www.labuanfsa.gov.my/regulations/legislation/act/labuan-business-activity-tax-act-1990-incorporating-latest-amendment-act-833-of-year-2021/income-tax-deductions-not-allowed-for-payment-made-to-labuan-company-by-resident-rules-2018-amendment-2020-p-u-a-3762020"
+    publisher: "Attorney General's Chambers / Labuan FSA"
+  - title: "Non-deductibility rules on payments to certain Labuan entities"
+    url: "https://www.ey.com/en_my/technical/tax-alerts/non-deductibility-rules-on-payments-to-certain-labuan-entities"
+    publisher: "EY Malaysia"
+  - title: "Income Tax (Labuan Company) (Exemption) Order 2026 [P.U.(A) 147/2026]"
+    url: "https://moore.com.my/taxflash/INCOME-TAX-(LABUAN-COMPANY)-(EXEMPTION)-ORDER-2026.pdf"
+    publisher: "Attorney General's Chambers (via Moore Malaysia)"
+  - title: "Monthly tax developments — April 2026"
+    url: "https://assets.kpmg.com/content/dam/kpmgsites/my/pdf/2026/04/monthly-tax-developments-april-2026.pdf.coredownload.inline.pdf"
+    publisher: "KPMG in Malaysia"
+  - title: "Tax Exemption Order for Labuan Entities carrying on Qualifying Takaful and Retakaful Activities Gazetted [P.U.(A) 34/2026]"
+    url: "https://www.skrine.com/insights/alerts/february-2026/tax-exemption-order-for-labuan-entities-carrying-o"
+    publisher: "Skrine Advocates & Solicitors"
+  - title: "Labuan International Commodity Trading Company — substance requirements"
+    url: "https://www.kensington-trust.com/resource-center/resources/labuan-international-commodity-trading-company/"
+    publisher: "Kensington Trust Group"
+  - title: "Labuan: P.U.(A) 326/2025 — LBAT (Requirements for LICT) (Amendment) Regulations 2025"
+    url: "https://www.kensington-trust.com/labuan-pua326-2025-lbta-requirements-for-business-activity-amendment-regulations-2025/"
+    publisher: "Kensington Trust Group"
+  - title: "Finance (No. 2) Act 2023 [Act 851] — full text"
+    url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
+    publisher: "Percetakan Nasional Malaysia / Laws of Malaysia"
+  - title: "Senate passes Finance Bill: Stamp Act and Labuan Business Activity Tax Act among legislation affected"
+    url: "https://www.allenandgledhill.com/publication/articles/26932/senate-passes-finance-bill-stamp-act-and-labuan-business-activity-tax-act-among-legislation-affected"
+    publisher: "Allen & Gledhill"
+
+entity: "Labuan business activity tax"
+relations:
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "governs", to: "labuan-business-activity-tax-act-1990" }
+  - { rel: "affects", to: "corporate-tax-rates" }
+  - { rel: "related-to", to: "non-deductible-expenses" }
+  - { rel: "located-in", to: "labuan" }
+related: ["corporate-tax-rates"]
+keywords: ["Labuan tax", "Labuan 3% tax rate", "Labuan substance requirements", "LBATA 1990", "cukai Labuan", "Labuan company Malaysia tax", "section 39(1)(r)"]
+---
+
+모든 라부안 안내 책자는 같은 수치로 시작합니다. 3%입니다. 정확하며, 이 제도에 관해 가장 덜 중요한 사실입니다.
+
+3%는 대부분의 홍보자가 느슨하게 설명하는 기준에 대한 세율이며, 이제 차 담당 여직원(tea lady)의 이름을 든 실례로 집행되는 실체 판정을 통과해야만 부여되고, 말레이시아 상대방이 보내는 모든 링깃(RM)에 대해 공제를 부인당할 수 있는 법인이 납부합니다. 잘못 세워진 라부안 구조에 대한 세금 고지서는 대개 라부안 회사에 전혀 떨어지지 않습니다. 그것을 지급하는 유한책임회사(Sdn Bhd)에 떨어집니다.
+
+이 페이지는 법이 무엇을 규정하는지, 국세청장의 지침이 이제 무엇을 요구하는지, 그리고 정직한 답이 라부안이 잘못된 도구라는 것인 상황을 다룹니다.
+
+## 3%는 실제로 무엇에 적용되는가?
+
+라부안 사업활동세법 1990(Labuan Business Activity Tax Act 1990, LBATA) 제3조는 라부안 법인에 그 **라부안 사업활동**에 대해 과세합니다. 그 밖의 모든 것은 법 밖에 있으며 제2(3)(a)조의 효력에 의해 통상적인 방식으로 소득세법 1967(Income Tax Act 1967, ITA)에 따라 과세됩니다.
+
+라부안 사업활동은 라부안 안에서, 라부안으로부터, 또는 라부안을 통해 영위되는 **라부안 매매활동**이거나 **라부안 비매매활동**이며, 성문법상 범죄인 것은 제외됩니다.
+
+| | 라부안 매매활동 | 라부안 비매매활동 |
+| --- | --- | --- |
+| 정의 | 은행, 보험, 매매, 관리, 라이선싱, 해운 운영, 또는 비매매활동이 아닌 그 밖의 활동(제2조) | 자기 명의로 라부안에 소재한 증권, 주식, 지분, 대출, 예금 또는 그 밖의 자산에 대한 투자 보유(제2조) |
+| 부과 | 과세이익에 대해 **3%**(제4(1)조) | **과세되지 않음**(제9(1)조) |
+| 기준 | **감사받은 회계**에 반영된 순이익(제4(2)조) | 해당 없음 |
+| 실체 미충족 | 24%(제2B(1A)조) | 24%(제2B(1A)조) |
+
+흔히 놓치는 두 가지 결과가 따릅니다.
+
+**기준은 감사받은 순이익이지 과세소득이 아닙니다.** 제4(2)조는 과세이익이 감사받은 회계의 순이익이라고 규정합니다. ITA의 부칙 3과 제44조가 제공하는 종류의 자본공제 계산, 가산 조정 명세, 손실 이월 장치가 없습니다. 귀사의 회계 정책이 귀사의 세액 계산입니다.
+
+**둘을 섞으면 매매로 붕괴됩니다.** 제2(2)조에 따라, 매매활동과 비매매활동을 모두 영위하는 법인은 **매매활동을 영위하는 것으로 간주됩니다**. 2025년 12월 10일 LHDN 지침은 이를 풀어냅니다. 법인이 여러 매매활동에 더해 비매매활동을 영위하는 경우, 각 매매활동은 자체의 실체 판정을 충족해야 하고, 비매매활동은 **핵심 소득 창출 활동** — 가장 많은 소득을 기여하거나 가장 유의미한 경제적 영향을 갖는 것 — 의 실체 요건을 빌립니다.
+
+### 아무도 언급하지 않는 지식재산 제외
+
+로열티 소득과, 지식재산권을 상업적으로 이용한 대가로 받는 그 밖의 소득은 **라부안 제도에서 완전히 제외됩니다**. 제4(3)조와 제4(4)조는 이를 매매 이익에서 제거하고, 제9(2)조와 제9(3)조는 비매매 이익에서 제거하며, 제2B(1C)조와 제2B(1D)조는 24% 기준에서조차 제거합니다. 모든 경우에 이는 ITA 1967에 따라 과세됩니다.
+
+제4(5)조는 그 권리를 넓게 정의합니다. 특허, 실용신안, 저작권, 상표와 서비스표, 산업디자인, 집적회로 배치설계, 비밀 공정, 공식, 노하우, 지리적 표시, 식물 품종 보호이며, **등록되었거나 등록 가능한지 여부와 관계없습니다**.
+
+계획이 귀사의 브랜드나 소프트웨어를 라부안에 두고 다시 라이선스하는 것이었다면, 그 계획은 통하지 않습니다. 2019년 개정 이래 통하지 않았습니다.
+
+## 실체 요건은 무엇인가?
+
+LBATA 제2B(1)(b)항은 장관이 규정하는 대로 라부안에 적정 수의 전임 직원과 라부안에서의 적정 금액의 연간 운영 지출을 요구합니다. 그 규정은 2021년 11월 22일 관보 고시되어 2019년 1월 1일부터 시행된 것으로 간주되는(제3규정, 지배와 경영에 관해서는 2021년 1월 1일부터) **라부안 사업활동세(라부안 사업활동 요건) 규정 2021(Labuan Business Activity Tax (Requirements for Labuan Business Activity) Regulations 2021), P.U.(A) 423/2021**입니다.
+
+제1부칙은 매매활동을 다룹니다. 대표적인 선별:
+
+| 라부안 매매활동 | 라부안 내 최소 전임 직원 | 라부안 내 최소 연간 운영 지출 |
+| --- | --- | --- |
+| 라부안 보험사, 재보험사, 타카풀 또는 리타카풀 운영자 | 3 | RM200,000 |
+| 라부안 은행, 투자은행, 이슬람은행 또는 이슬람 투자은행 | 3 | RM200,000 |
+| 라부안 언더라이팅 관리자, 보험 관리자 또는 타카풀 관리자 | 4 | RM100,000 |
+| 라부안 신탁회사 | 3 | RM120,000 |
+| 라부안 국제금융거래소; 자율규제기구 | 2 | RM120,000 |
+| 라부안 보험중개인, 크레딧 토큰, 개발금융, 건축신용, 팩토링 회사, 자금중개인, 펀드매니저, 증권 면허자, 펀드 관리자, 회사 관리 | 2 | RM100,000 |
+| 라부안 리스회사(관계 리스회사 10개 이하) | 회사 그룹당 2 | 리스회사당 RM100,000 |
+| 행정, 회계, 법무, 백룸 처리, 급여, 인재 관리, 대리, 파산 관련 또는 그 밖의 관리 용역 | 2 | RM50,000 |
+
+제2부칙은 비매매활동을 다룹니다.
+
+| 라부안 비매매활동 | 직원 | 운영 지출 |
+| --- | --- | --- |
+| 순수 지분 보유 이외의 투자 보유 | 1 | RM20,000 |
+| 순수 지분 보유 | 라부안 사업활동세(면제) 명령 2020(Labuan Business Activity Tax (Exemption) Order 2020), P.U.(A) 177/2020에 따라 면제 | RM20,000 |
+
+리스 항목의 구조에 유의하십시오. 관계 리스회사 11~20개의 경우 요건이 그룹당 3명으로, 21~30개는 4명이 되며, 30개를 넘으면 부칙은 관계회사 10개 추가마다 그룹당 직원 한 명을 더합니다 — RM100,000은 그룹당이 아니라 **회사당** 적용됩니다. 라부안 리스회사 10개는 RM100,000이 아니라 RM100만의 라부안 운영 지출입니다.
+
+한 가지 활동별 특례를 짚어둘 만합니다. **라부안 사업활동세(면제) 명령 2026(Labuan Business Activity Tax (Exemption) Order 2026), P.U.(A) 34/2026**(2026년 1월 26일 관보 고시)은 **디지털 솔루션을 사용하는 적격 샤리아 기반 타카풀·리타카풀 활동** — 가족 및 일반 타카풀·리타카풀, 관계·계열 회사를 위한 캡티브 타카풀, 타카풀 언더라이팅 관리자나 관리자, 타카풀 중개인 — 을 영위하는 라부안 법인에 **YA2025부터 YA2028까지** 라부안 사업활동세의 전액 면제를 부여합니다. 적격 및 비적격 활동을 모두 영위하는 법인은 별도의 계정을 유지해야 하며, 각각이 별개의 구별되는 원천입니다.
+
+### 순수 지분 보유는 무임승차권이 아닙니다
+
+대부분의 안내서는 순수 지분 보유에 대한 직원 면제를 보고하고 거기서 멈춥니다. 두 가지 조건이 남습니다.
+
+**RM20,000 연간 라부안 운영 지출은 여전히 적용됩니다.** 그리고 제2부칙 제2항목을 위해 특별히 존재하는 P.U.(A) 423/2021 제3규정은 지배와 경영 조건을 부과합니다.
+
+- **라부안에서 연 1회 이상** 소집되는 이사회 회의;
+- **라부안에 소재한** 등록 사무소;
+- 라부안 회사법 1990(Labuan Companies Act 1990)에 따라 선임되어 **라부안에 거주하는** 비서; 그리고
+- **이사회 회의록을 포함하여 라부안에 보관되는** 회계 및 사업 기록.
+
+LHDN 지침은 정의상 한계를 더합니다. 순수 지분 보유는 법인이 지분을 보유하고 **오로지** 배당과 자본이득으로 소득을 도출하는 것을 의미합니다. 이자가 붙는 주주 대출을 더하면 직원을 요구하는 제2부칙 제1항목에 들어갑니다.
+
+### 적격성(Fit and proper): 2025년에 무엇이 바뀌었나
+
+**라부안 사업활동세(라부안 사업활동 요건)(개정) 규정 2025(Labuan Business Activity Tax (Requirements for Labuan Business Activity) (Amendment) Regulations 2025), P.U.(A) 325/2025**는 전반에 걸쳐 *전임 직원*이라는 문언을 *적격 전임 직원(fit and proper full time employees)*으로 대체했습니다. LHDN은 그것이 무엇을 의미하는지 제시하는 지침을 **2025년 11월 5일**에 발행했으며, 이전에 공표된 어떤 것보다 훨씬 구체적입니다.
+
+전임 직원은 다음 셋이 모두 충족되는 경우에만 계산됩니다.
+
+1. 직원이 적격 기준을 충족할 것;
+2. 직원이 상시 또는 계약 기반으로 라부안 법인에 고용될 것; 그리고
+3. 직원이 **라부안에서 라부안 법인을 위해 물리적으로 업무를 수행할 것**.
+
+적격성은 이어 세분됩니다. 업무는 **라부안 사업활동과 관련**되어야 하며 일반 업무가 아니라 사무 관련 업무로 구성되어야 합니다. 지침은 표를 제시합니다. 사무 관련: 이사, 관리자, 비서, 행정·회계 사무원, 접수원. 계산되지 **않는** 일반 업무: 배송 사무원, 사무실 청소원, 차 담당 여직원. 실례는 노골적입니다 — 상무이사, 일반 사무원, 사무실 청소원을 둔 라부안 신탁회사는 청소원이 적격 직원이 아니기 때문에 **실패**합니다.
+
+직원은 또한 그 역할에 적합한 자격, 기술, 경험을 가져야 하며, **이해 상충이 없어야** 합니다 — 역할 수행을 방해할 수 있는 외부 이익이나 책임이 없어야 합니다.
+
+그다음 기존 구조의 상당 부분을 무효화하는 규정:
+
+> 적격 전임 직원은 **그 라부안 법인과의 고용계약**을 가져야 하며, 상시든 계약이든 **위탁(outsourcing)을 통한 어떤 고용 방식**도 계산되지 않습니다.
+
+실례는 그 양상을 직접 명명합니다. 고용 대행사를 통해 계약 근로자를 고용하고 그 대행사를 통해 급여를 지급하는 라부안 회사는, 근로자와 라부안 법인 사이에 고용계약이 없기 때문에 실체 요건을 충족하지 못합니다. 귀사의 라부안 신탁회사가 인력을 공급받는다면, 그 인력은 귀사의 것이 아닙니다.
+
+마지막으로, 같은 그룹의 법인은 **사무 시설을 공유할 수 있으나**, 법인별로 그리고 활동별로 **직원을 분리해야** 하며 일관되게 그리해야 합니다. 한 팀을 두 번 계산할 수 없습니다.
+
+물리적 재류는 입증되어야 합니다 — 지침은 근무 시간표, 근태 시스템, 그 밖의 적절한 방법을 명명합니다. 이는 신고가 아니라 감사 기준입니다.
+
+### 면허 조건
+
+이 모든 것 위에 위치하는 추가 요건이 있으며, LHDN의 매매·비매매 지침 제2.2항에 진술되어 있습니다. 라부안 법인은 관련 라부안 법률에 따라 설립·등록되어야 **하고, 라부안 매매활동에 대해 라부안 FSA로부터 유효하고 효력 있는 운영 면허를 보유해야** 합니다. 만료되거나 반납된 면허는 단지 면허 문제만이 아닙니다 — 유효하고 효력 있는 면허 보유가 우대 취급 자격의 조건이기 때문에, 그것은 법인에게 3% 세율을 잃게 합니다.
+
+### 실패의 결과
+
+제2B(1A)항은 그 과세연도에 **과세이익에 대해 24%**로 과세합니다. 제2B(1B)항은 과세이익을 동일한 감사받은 순이익 수치로 정의합니다. 2025년 11월 5일 지침은 이를 조건 없이 진술합니다. 직원의 수나 기준에서 실패하는 법인은 매매활동에 대한 3% 세율이나 비매매활동에 대한 비과세를 받을 자격이 없으며 24%로 과세됩니다.
+
+판정은 **기준기간별로** 적용됩니다. 치유 기간도, 소급 유예도, 연도 간 평균도 없습니다.
+
+## 공제 제한이 진짜 위험인 이유
+
+여기가 판매 자료가 앞세우지 않는 부분이며, 라부안 회사 자체가 완전히 준수하더라도 라부안 구조가 비용이 될 수 있는 이유입니다.
+
+소득세법 1967 **제39(1)(r)조**는 장관이 제정한 규칙 — **소득세(거주자가 라부안 회사에 한 지급에 대해 허용되지 않는 공제) 규칙 2018(Income Tax (Deductions Not Allowed for Payment Made to Labuan Company by Resident) Rules 2018), P.U.(A) 375/2018**, P.U.(A) 376/2020으로 개정 — 이 정하는 방식으로, **말레이시아 거주자**가 라부안 회사에 한 지급에 대한 공제를 제한합니다.
+
+당사자를 올바른 순서로 놓고 다시 읽으십시오. 라부안 회사는 3%를 유지합니다. **말레이시아 지급자**가 공제의 일부를 잃습니다. 귀사의 유한책임회사가 자기 라부안 회사에 관리 수수료, 이자, 임대료를 지급하면, 그룹의 세금 비용은 역외에서 3% 절감에 대해 온쇼어에서 24%의 부인된 비용입니다. 그 산술은 흔히 잘못된 방향으로 갑니다.
+
+규칙은 지급 유형을 구분하고 각각의 서로 다른 비율을 부인하며, 이자와 리스 임대료가 일반 지급보다 유리하게 취급됩니다. P.U.(A) 376/2020으로 개정된 대로, 제1항목 — 금융과 관련한 수수료, 편의 수수료, 선지급 수수료를 포함한 이자 — 과 제2항목 — 리스 임대료 — 은 각각 **지급의 25%를 부인**하는 반면, 제3항목 — 그 밖의 모든 지급 — 은 **97% 부인**으로 남아 일반 지급의 3%만 공제됩니다. 2020년 개정은 제1항목과 제2항목의 종전 33%를 25%로 대체하고 제3항목은 건드리지 않았으며, 2019년 1월 1일부터 시행된 것으로 간주됩니다.
+
+### 면제, 그리고 그 만료일
+
+구제가 존재합니다. 라부안 FSA 회람 269/2021은 P.U.(A) 425/2021에 따른 장관의 면제를 제시하며, 이는 다음에 대한 지급에 대해 말레이시아 거주자를 제39(1)(r)조에서 면제합니다.
+
+- **국제무역인센티브(GIFT)** 프로그램에 따른 적격 활동을 수행하는 라부안 회사;
+- LBATA **제3A조에 따라 선택을 한** 라부안 회사; 그리고
+- 제2B조에 따라 **라부안 사업활동을 영위하는** 라부안 회사.
+
+이어 회람은 시행 기간을 명시합니다. **2019년 과세연도부터 2025년 과세연도까지**.
+
+그 기간은 YA2025 말에 닫혔습니다 — 그러나 부분적으로만입니다. **소득세(라부안 회사)(면제) 명령 2026(Income Tax (Labuan Company) (Exemption) Order 2026), P.U.(A) 147/2026**(2026년 3월 18일 제정, 3월 31일 관보 고시)은 제39(1)(r)조 면제를 **YA2026부터 YA2030까지** 갱신했으나, 적격 **국제무역인센티브(GIFT)** 활동을 수행하는 라부안 회사 — 실물 상품과 관련 파생상품을 매매하는, Act 704(라부안 금융서비스증권법 2010, Labuan Financial Services and Securities Act 2010) 제92조에 따라 면허받은 라부안 국제상품거래회사 — 에 대한 지급에 한합니다. P.U.(A) 425/2021이 또한 포괄했던 두 개의 더 넓은 범주 — 제3A조 선택 회사와 일반 제2B조 라부안 사업활동 회사 — 는 **갱신하지 않습니다**. 그들에 대한 갱신 명령은 확인되지 않았으므로, 일반(비GIFT) 라부안 회사의 경우 면제가 YA2025 이후 소멸했고 그에 공제 가능한 지급을 하는 모든 말레이시아 지급자는 제한 안으로 돌아왔습니다. **신고 전에 LHDN과 현행 입장을 확인하십시오.**
+
+그러한 회사는 자체의 실체 판정을 지닙니다. 라부안 사업활동세(라부안 국제상품거래회사 요건) 규정 2021(Labuan Business Activity Tax (Requirements for Labuan International Commodity Trading Company) Regulations 2021), P.U.(A) 482/2021 — 적격성 조건을 추가한 P.U.(A) 326/2025로 개정 — 에 따라, 라부안 국제상품거래회사는 **적어도 세 명의 적격 전임 직원, 그중 최소 두 명은 라부안 사업 운영 사무소에** 고용해야 하고(회사 그룹당, 5개를 넘는 관계회사 5개마다 라부안에 한 명 추가), 회사마다 **라부안에서 RM100,000을 포함하여 말레이시아에서 연간 RM3,000,000 이상의 운영 지출**을 발생시켜야 합니다. 이 수치는 규정에서 나오며 옛 라부안 FSA 회람 239/2020을 대체합니다.
+
+검색에서 혼동을 일으키므로 한 가지 명칭 주의: 라부안 FSA는 P.U.(A) 425/2021을 *소득세(면제)(제11호) 명령 2021*로 명명하는 반면, 여러 회사 알림은 이를 *(제22호) 명령 2021*로 부릅니다. P.U.(A) 번호를 인용하십시오.
+
+## 소득세법 1967로의 철회 불가능한 선택
+
+제3A(1)조는 라부안 법인이 그 이익이 LBATA 대신 ITA 1967에 따라, 선택한 기준기간 **및 모든 후속 기준기간**에 대해 과세되도록 하는 **철회 불가능한 선택**을 하도록 허용합니다.
+
+제3A(2)조는 마감일을 정합니다. 선택은 규정된 양식으로, 과세연도의 **기준기간 시작 3개월 이내에**, 또는 국세청장이 허용하는 연장 기간에 국세청장에게 제출해야 합니다.
+
+이것이 옳은 수인 경우는 언제인가?
+
+- 법인이 손실을 내거나 마진이 얇아 감사받은 순이익에 대한 일률 부과 대신 ITA 장치 — 자본공제, 손실 이월, 그룹 감면 — 를 원하는 경우.
+- 라부안에서의 실체가 진정으로 달성 불가능하며, 제2B(1A)조에 따른 공제 없는 24%가 공제 있는 ITA에 따른 24%보다 나쁜 경우.
+- 말레이시아 상대방이 주요 고객이고 제39(1)(r)조 문제가 분석을 지배하는 경우 — 다만 선택 회사를 한때 포괄했던 면제(P.U.(A) 425/2021)는 YA2025 이후 소멸했고, P.U.(A) 147/2026은 이제 GIFT 상품거래 회사에만 미칩니다.
+- 조약 접근이 중요하고 상대방 관할이 LBATA에 따라 과세되는 법인에 혜택을 확대하지 않을 곳인 경우.
+
+간직할 단어는 **철회 불가능**입니다. 더 나은 해에 선택을 철회할 방법이 없습니다. 다음 12개월이 아니라 구조의 수명 전체에 걸쳐 결정을 모델링하십시오.
+
+## 라부안 회사가 온쇼어에서 할 수 있는 것과 할 수 없는 것
+
+양방향으로 가장 흔한 미신은 말레이시아와의 거래에 관한 것입니다. 절대적 금지와 무제한 자유 둘 다 틀렸습니다. **라부안 회사법 1990(Labuan Companies Act 1990)** 제7조는 다음과 같이 규정합니다.
+
+- **s.7(1)** — 라부안 회사는 어떤 합법적 목적으로도 설립될 수 있으며, 라부안에 적용되는 금융서비스에 관한 다른 성문법을 조건으로, **오직 라부안 안에서, 라부안으로부터, 또는 라부안을 통해서만 사업을 수행해야** 합니다.
+- **s.7(2)** — 제7(3)조를 조건으로, 라부안 회사는 **거주자와 사업을 수행할 수 있습니다**.
+
+### 링깃 금지와 통지 의무는 폐지되었습니다
+
+대부분의 공표된 지침 — 그리고 라부안 FSA 자체의 통합 법 사본 — 은 여전히 링깃으로 사업을 수행하는 것에 대한 제7(4)조 금지, 거주자와 거래한 후 10근무일 이내에 라부안 FSA에 통지할 제7(5)조 의무, 그리고 그 통지에 대한 예외 목록인 제7(6)조를 제시합니다.
+
+**세 하위 조항 모두 라부안 회사(개정)법 2022(Labuan Companies (Amendment) Act 2022, Act A1653) 제4(b)조에 의해, 2019년 1월 1일부터 시행된 것으로 간주되어 삭제되었습니다.** 제47(1)(a)조의 링깃 표시 주식에 대한 관련 제한은 Act A1756(2025)에 의해 "어떤 통화로든 표시된"으로 대체되었습니다.
+
+이 오류가 규제기관 자체의 웹사이트를 포함하여 어디에나 있으므로 이를 명확히 진술할 만합니다. 10근무일 통지 의무를 설명하는 안내서에 의존하고 있다면, 그 안내서는 7년 전에 폐지된 법을 인용하는 것입니다.
+
+살아남는 것은 **s.7(1)**입니다. 오직 라부안 안에서, 라부안으로부터, 또는 라부안을 통한 사업입니다. 그것은 **운영 위치 판정이지 고객 판정이 아닙니다** — 회사가 어디에서 운영하는지를 제약하지, 누구와 거래할 수 있는지가 아닙니다.
+
+세금 측면에 관련 함정이 있습니다. LHDN 지침은 **기타 자산**의 비매매활동을 **오직 라부안 경계 내에 위치한** 토지와 건물로 구성된 부동산으로 제한합니다. 실례는 태국의 부동산을 사용합니다. 외국 부동산을 보유하는 법인은 그에 관한 한 라부안 사업활동을 전혀 영위하지 않으며, 그 소득은 ITA 1967에 속합니다. 동일한 논리가 쿠알라룸푸르(Kuala Lumpur) 부동산에 미칩니다.
+
+## 거주지, 조약, 그리고 확정되지 않은 부분
+
+제3B조는 ITA 1967 제132조에 따른 이중과세방지 협정의 목적상, 사업을 영위하는 라부안 법인은 그 사업의 경영과 지배가 기준기간 중 언제라도 말레이시아에서 행사되면 **말레이시아 거주자**이고, 그 밖의 라부안 법인은 그 업무의 경영과 지배가 이사, 조합원, 수탁자, 또는 그 밖의 지배 당국에 의해 말레이시아에서 행사되면 거주자라고 규정합니다.
+
+그것은 거주지를 확립합니다. 조약 상대방이 혜택을 줄 것을 확립하지는 않습니다. 말레이시아의 여러 조약 상대방은 역사적으로 라부안 법인을 조약 구제에서 제한하거나 배제해 왔습니다. 어느 협정이, 어떤 조건으로인지는 특정 조약을 앞에 두고 자문가에게 물을 문제입니다 — 우리는 현행 목록을 확인하지 않았고 공표하지 않습니다.
+
+## 휴면과 신고
+
+휴면 라부안 법인에 관한 LHDN 지침(2022년 10월 20일)은 청산이나 해산 중인 것을 포함하여 소득을 도출하지 않는 휴면 또는 말소된 법인이 **실체 요건을 준수할 필요가 없음**을 확인합니다. 그러나 주식, 부동산, 정기예금 또는 유사 투자를 보유하는 법인은 다른 아무것도 하지 않더라도 **휴면이 아닙니다**. 실례는 유일한 자회사가 청산되지 않은 채로 남아 있는 한 지주회사에 휴면 지위를 거부합니다.
+
+휴면 법인의 허용 비용은 좁습니다. 라부안 회사법 1990에 따른 연례 보고서 제출, 그에 대한 비서 비용, 세금 신고 비용, 감사 비용, 회계 비용입니다. 휴면 법인은 감사받았거나 관리용 회계와 함께 **양식 LE1**을 제출합니다.
+
+법인이 기간 중간에 운영을 재개하면, 그 시점부터 실체를 준수해야 합니다 — 직원은 운영 개시일부터, 운영 지출은 회계기간 종료까지입니다.
+
+신고에 관해, 라부안은 2024년 예산안에서 발표되고 2023년 11월 라부안 FSA가 회람한 대로 **YA2025부터** 전년 기준에서 **당해 연도 기준** 과세로 이동했음에 유의하십시오. 이에 따라 2026년 LHDN 제출 프로그램은 라부안 법인 신고(**e-LE1**)를 기준기간인 **회계기간 마지막 날로부터 7개월 이내에**, e-Filing에 **1개월 유예**를 두고 요구합니다. 대부분의 안내서는 여전히 2021년에 재판된 법 제5조와 제10조에서 나온 과세연도 시작으로부터 3개월이라는 옛 규칙을 재현합니다.
+
+부과 통지 송달 30일 후 미납 세금은 제13A(2)조에 따라 **10% 증액**됩니다.
+
+## 라부안이 잘못된 답인 경우
+
+명확히 말하겠습니다. 라부안을 판매하는 거의 아무도 그러지 않을 것이기 때문입니다.
+
+**귀사의 고객과 공급자가 말레이시아인일 때 잘못된 답입니다.** 2019년으로 소급 효력을 두어 2022년에 폐지된 옛 링깃과 통지 규칙 때문이 아니라 — 제7(1)조가 여전히 사업을 라부안 안에서, 라부안으로부터, 또는 라부안을 통해 수행할 것을 요구하고, 제39(1)(r)조가 귀사의 말레이시아 상대방이 원했던 공제 위에 앉아 있기 때문입니다.
+
+**지식재산에 잘못된 답입니다.** 로열티와 IP 소득은 네 개의 별개 규정에 의해 3%, 0%, 심지어 24% 기준에서도 제외됩니다.
+
+**실체가 허구라면 잘못된 답입니다.** 직접 고용계약으로 라부안에 물리적으로 있는 두 명의 적격 직원에 더해 RM50,000에서 RM200,000의 라부안 운영 지출은 실질적인 연간 비용입니다. 21%포인트의 절감에 대비할 때, 그 비용은 유의미한 이익 수준에서만 스스로 값을 합니다 — 그리고 이를 감당할 수 없다면 3%를 받는 것이 아니라 공제 없는 감사받은 이익에 대한 24%를 받습니다.
+
+**소규모 지주 구조에 잘못된 답입니다.** RM20,000의 라부안 운영 지출, 라부안 거주 비서, 라부안 등록 사무소, 라부안에서 열리는 연례 이사회 회의는 이미 면제될 수 있는 배당 흐름을 은닉하기에는 많은 장치입니다.
+
+**동인이 비밀유지라면 잘못된 답입니다.** 실질적 소유, 공통보고기준 교환, 실체 제도가 모두 2019년 이래 그 사용 사례에 불리하게 움직였습니다.
+
+**폐지된 법에 의존하고 있다면 잘못된 답입니다.** LBATA 옛 제7조에 따른 일률 **RM20,000 선택** — 여전히 홍보 페이지에 인용됨 — 은 **삭제되었습니다**. 그 조 표제는 이제 *선택(Election)*으로 읽히고 본문은 *[삭제됨]*으로 읽힙니다. 자문가가 RM20,000 옵션을 언급하면, 그들은 2019년 이전 대본으로 일하는 것입니다.
+
+라부안은 라부안에서 인력과 비용을 갖출 수 있고 갖출 진정한 국경 간 사업 — 면허 활동, 캡티브 보험사, 지역 재무, GIFT에 따른 상품 거래 운영 — 이 있고, 그 상대방이 말레이시아 밖에 있을 때 옳은 답입니다.
+
+## 흔한 실수
+
+- **3%를 자동적인 것으로 취급하는 것.** 그것은 실체를, 연도별로, 활동별로, 그리고 이제 각 직원이 적격일 것을 조건으로 합니다.
+- **잘못된 사람을 세는 것.** 청소원, 배송 사무원, 위탁 대행 인력은 계산되지 않습니다. 일관된 분리 없이 그룹 법인 간에 공유된 직원은 두 번 계산되지 않습니다.
+- **순수 지분 보유의 운영 지출을 잊는 것.** 직원 요건은 면제되나 RM20,000은 아니며, 제3규정의 네 가지 지배·경영 조건도 아닙니다.
+- **IP를 라부안에 구조화하는 것.** 제4(3)조, 제9(2)조, 제2B(1C)조에 의해 제외됩니다.
+- **라부안 회사를 고립적으로 분석하는 것.** 제39(1)(r)조는 말레이시아 지급자에게 과세합니다. 양쪽을 모델링하지 않으면 아무것도 모델링하지 않은 것입니다.
+- **제39(1)(r)조 면제가 여전히 유효하다고 가정하는 것.** P.U.(A) 425/2021은 YA2019부터 YA2025까지 포괄했고, P.U.(A) 147/2026은 GIFT 상품거래 회사에만(YA2026부터 YA2030) 이를 갱신합니다. 일반 라부안 회사의 경우 소멸했습니다.
+- **제3A조 선택을 전술적 수로 하는 것.** 그것은 모든 후속 기준기간을 영구히 구속합니다.
+- **3개월 신고 규칙을 사용하는 것.** 당해 연도 기준 하에서 2026년 LHDN 제출 프로그램은 회계기간 종료로부터 7개월에 더해 1개월 e-Filing 유예를 부여합니다.
+- **여전히 제7(4), 7(5), 7(6)조를 인용하는 안내서에 의존하는 것.** 그 하위 조항들은 Act A1653에 의해 2019년 1월 1일부터 삭제되었습니다. 이를 반복하는 지침 — 라부안 FSA 자체의 통합 법 포함 — 은 더 이상 존재하지 않는 법을 설명하는 것입니다.
+- **말레이시아 대상 전자상거래를 위해 라부안 회사를 매입하는 것.** 제7(1)조 운영 위치 판정과 제39(1)(r)조 공제 제한 둘 다 반대 방향을 가리킵니다.
+
+## 다음 단계
+
+이미 라부안 법인을 운영한다면, 즉각적인 작업은 문서적입니다. 부칙에 계산된 각 직원이 법인과 직접 고용계약을 맺고, 근태 증거와 함께 라부안에서 물리적으로 일하며, 활동과 관련된 사무 관련 업무를 수행하는지 확인하십시오. 그런 다음 운영 지출 수치가 그룹 재청구가 아니라 **라부안에서의** 지출인지 확인하십시오.
+
+라부안 구조를 판매받고 있다면, 홍보자에게 세 가지를 물으십시오. 제1부칙이나 제2부칙의 어느 항목이 적용되는지, 다가오는 과세연도에 말레이시아 지급자의 제39(1)(r)조 입장이 어떻게 될지, 그리고 예상 소득 중 어느 것이 로열티나 지식재산 소득인지입니다.
+
+답이 모호하면 구조는 준비되지 않은 것입니다 — 그리고 실체를 충족하지 못하는 구조는 공제 없는 감사받은 이익에 대해 24%로 과세되며, 이는 개선하려던 통상적인 법인 입장보다 나쁩니다.

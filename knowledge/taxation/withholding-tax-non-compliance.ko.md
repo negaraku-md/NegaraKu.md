@@ -1,0 +1,170 @@
+---
+topicId: MY-TAX-0024
+title: "원천징수 공제를 놓쳤을 때의 비용"
+seoTitle: "말레이시아 원천징수 불이행 — 벌칙과 비용"
+slug: "withholding-tax-non-compliance"
+category: "taxation"
+subcategory: ["withholding-tax"]
+summary: "10퍼센트 가산, s.39에 따른 비용 전체의 불인정, 그리고 납부 후에도 존속하는 s.113(2) 벌칙 — 산수로 계산해 봅니다."
+
+tier: "3"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "원천징수 공제를 놓치면 세금보다 더 많은 비용이 듭니다. 미납 금액은 해당 부과 조항에 따라 10퍼센트 증가하며, 그 기초가 되는 비용 전체가 소득세법(Income Tax Act 1967) s.39(1)(f), (i) 또는 (j)에 따라 불인정됩니다. 세금과 가산액을 납부하면 공제가 회복되지만, 이미 제출한 신고서에서 그 비용을 청구했다면 부정확 신고에 대한 s.113(2) 벌칙이 부과되며 원천징수세를 정산한 후에도 유지됩니다."
+keyTakeaways:
+  - "The 10 per cent increase sits in ss.107A(2), 109(2), 109B(2) and 109F(2) — not in s.113"
+  - "Section 113(2) is a separate penalty, up to 100 per cent of the tax undercharged, for an incorrect return"
+  - "Disallowance is of the whole expense, not of the unpaid tax"
+  - "The disallowance is reversible — the s.113(2) penalty is not"
+  - "s.39(1)(f) covers s.109, s.39(1)(i) covers s.107A, s.39(1)(j) covers s.109B and s.109F"
+  - "The Director General may remit the 10 per cent increase for good cause"
+  - "Section 131A relief runs one year after the end of the year the payment was made"
+appliesTo: "Any Malaysian payer that has paid a non-resident without deducting withholding tax, and any adviser quantifying the exposure."
+
+verificationNeeded:
+  - "The 100 per cent s.113(2) rate used below is LHDN's own illustrative figure in Public Ruling 10/2019 Example 18 — the Ruling notes the rate in an actual case follows the Tax Audit Framework in force, which was not retrieved"
+
+obligations:
+  - what: "Pay the withholding tax plus the 10 per cent increase once a failure is identified"
+    trigger: "ongoing"
+    due: "forthwith, as a debt due to the Government"
+    authority: "LHDN"
+    statute: "Income Tax Act 1967, ss.107A(2), 109(2), 109B(2), 109F(2)"
+    consequence: "Recovery action under s.106(1) and continued disallowance of the expense under s.39"
+
+lang: "ko"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-07-22
+reviewDue: 2027-07-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-20
+    change: "Approved and published."
+    reviewer: null
+
+updated: 2026-07-20
+sources:
+  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, section 14"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
+    publisher: "LHDN"
+    date: "2019-12-10"
+  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.39(1)(f), 39(1)(i), 39(1)(j), 106, 109B(2), 113(2), 131A"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+    publisher: "LHDN"
+    date: "2024-05-21"
+  - title: "Withholding Tax — Enforcement"
+    url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
+    publisher: "LHDN"
+
+entity: "Withholding tax non-compliance"
+relations:
+  - { rel: "administered-by", to: "lhdn" }
+  - { rel: "part-of", to: "withholding-tax-rates" }
+related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "cp37-forms"]
+keywords: ["failure to withhold tax Malaysia", "section 39(1)(j)", "withholding tax penalty Malaysia", "10 percent increase withholding tax", "section 113(2) penalty"]
+---
+
+놓친 원천징수세 RM5,000은 RM5,000의 비용이 아닙니다. 세금으로 RM5,500, 잃은 공제로
+RM12,000, 그리고 나머지를 모두 납부한 후에도 파일에 남는 벌칙이 듭니다. 이 산수는 한 번
+제대로 해볼 가치가 있습니다.
+
+## 세 가지 별개의 타격
+
+이들은 세 가지 서로 다른 조항에서 비롯되며 서로 다르게 작동합니다.
+
+**하나 — 10퍼센트 가산.** 각 부과 조항은 자체 제(2)항을 가집니다. s.107A(2), 109(2),
+109B(2), 109F(2)는 모두 귀하가 납부하지 못한 금액이 "10퍼센트에 상당하는 금액만큼
+증가한다"고 규정하며, 그 총액이 즉시 납부해야 하는 정부에 대한 채무라고 규정합니다. 이는
+s.113 벌칙이 아니지만, 각 조항은 국세청장이 정당한 사유로 이를 면제할 수 있도록 합니다.
+
+**둘 — 비용 전체의 불인정.** s.39(1)은 기초가 되는 지급 전체를 불인정하며, 조항별로
+분류됩니다:
+
+| 지급 | 불인정 |
+| --- | --- |
+| s.109상 이자 또는 로열티 | s.39(1)(f) |
+| s.107A상 계약 지급 | s.39(1)(i) |
+| s.109B상 특수 소득 부류, 그리고 s.109F상 4(f) 소득 | s.39(1)(j) |
+
+귀하는 세금이 아니라 수수료에 대한 공제를 잃습니다. 공개결정문 10/2019 제14.2항은 이를
+단호하게 규정합니다. 그 비용이 s.33(1)에 따라 지출되었더라도, 원천징수세가 미납인 동안에는
+그중 어느 것도 공제되지 않습니다.
+
+**셋 — s.113(2) 벌칙.** 그 각 항의 단서 (ii)는 신고서에서 공제가 청구된 경우 늦게 납부하는
+것이 "제113조 제2항에 따른 벌칙 부과에 영향을 미치지 않는다"고 규정합니다. s.113(2)는
+부정확 신고에 대해 **과소 부과된 세액과 동일한** 벌칙을 허용합니다.
+
+## LHDN 자체 예시로 본 산수
+
+공개결정문 10/2019 예시 18. 한 거주 법인이 말레이시아에서 수행된 서비스에 대해 인도 서비스
+제공자에게 RM50,000을 지급하고 아무것도 원천징수하지 않습니다. 이 회사는 RM50,000을 공제로
+청구하여, 과세소득 RM1,000,000과 세액 RM240,000을 보이는 YA2017 신고서를 제출합니다.
+세무조사가 뒤따릅니다.
+
+| | RM |
+| --- | --- |
+| 신고된 과세소득 | 1,000,000 |
+| 24% 세율의 납부 세액 | 240,000 |
+| 가산: s.39(1)(j)에 따라 불인정된 서비스 수수료 | 50,000 |
+| 세무조사 후 과세소득 | 1,050,000 |
+| 24% 세율의 부과 세액 | 252,000 |
+| **과소 부과 세액** | **12,000** |
+| s.113(2) 벌칙, 100%로 예시 | 12,000 |
+| **추가 납부 세액** | **24,000** |
+
+이와 별도로, 원천징수세 RM5,000은 s.109B(2)에 따라 RM500 증가하여, s.106(1)에 따라 회수
+가능한 RM5,500의 채무가 됩니다.
+
+**RM50,000 송장에 대한 총 노출: RM29,500** — 원천에서 공제되었어야 할 세금 RM5,000에
+대비하여. 거의 6배입니다.
+
+## 늦게 납부하는 것이 고치는 것과 고치지 못하는 것
+
+같은 결정문의 예시 19가 그 후속을 다룹니다. 회사는 2018년 12월 15일에 RM5,500을 납부합니다.
+
+공제가 돌아옵니다. 과세소득은 RM1,000,000으로, 세액은 RM240,000으로 돌아가고 감액된 부과가
+발부됩니다. 그러나 결정문은 명확합니다. 2018년 7월 31일에 부정확 신고서가 제출되었으므로,
+s.113(2) 벌칙은 **유지됩니다**.
+
+이것이 기억해야 할 비대칭입니다. 10퍼센트 가산은 정당한 사유로 면제될 수 있습니다. 불인정은
+납부 시 되돌려집니다. 받을 자격이 없는 공제를 청구한 데 대한 벌칙은 그렇지 않습니다. 잘못은
+연체가 아니라 신고서였기 때문입니다 — 그리고 LHDN의 원천징수세 페이지는 이것이 신고서가
+기한 내에 제출되었든 늦게 제출되었든 적용된다고 확인합니다.
+
+## 미지급 송장의 함정
+
+신고 기한일까지 비거주자에게 지급이나 대변 계상이 이루어지지 않아 원천징수세가 **아직
+도래하지 않은** 경우, 그 공제는 원천징수세를 납부했는지와 관계없이 **전혀 인정되지
+않습니다**. 연말에 해외 서비스 수수료를 발생 계상하고 공급업체에 지급하기 전에 이를
+청구하면, 다른 문을 통해 s.39(1)(j) 밖에 놓이게 됩니다.
+
+구제책은 s.131A입니다. 신고하고 납부한 지급자는 그러한 사유로 부과가 과도한 경우 **지급이
+이루어진 해의 말로부터 1년 이내에** 서면으로 구제를 신청할 수 있습니다. LHDN의 예시 —
+YA2023 비용에 대해 2024년 10월 30일에 납부된 로열티와 원천징수세 — 는 2025년 12월 31일
+이전에 신청해야 합니다.
+
+## 흔한 실수
+
+- **10퍼센트를 s.113 벌칙이라고 부르는 것.** 그렇지 않습니다. 이는 부과 조항에 있으며, 둘을
+  혼동하면 이들이 중첩된다는 사실이 가려집니다.
+- **연체금을 납부하면 파일이 종결된다고 가정하는 것.** 이는 공제를 회복시킵니다. 이미
+  제출된 신고서에 부과된 s.113(2) 벌칙을 철회하지는 않습니다.
+- **노출을 세금에 10퍼센트를 더한 것으로 예산 잡는 것.** 불인정이 대개 더 큰 숫자입니다.
+  원천징수세가 아니라 비용 전체에 법인세율로 계산되기 때문입니다.
+- **자진 시정 전에 세무조사를 기다리는 것.** s.113(2) 위험은 이미 제출한 신고서에 결부되며,
+  매 추가 연도가 이에 더해집니다.
+- 아직 도래하지 않은 시나리오에서 **s.131A 1년 시계를 잊는 것**.
+
+## 다음 단계
+
+밀린 건을 처리하고 있다면, 먼저 지급을 조항별로 분류하십시오 — 불인정 항과 양식 모두
+그로부터 따라옵니다. [withholding-tax-rates](/en/taxation/withholding-tax-rates)로 시작한
+다음, 납부 방식은 [cp37-forms](/en/taxation/cp37-forms)를 참고하십시오.
