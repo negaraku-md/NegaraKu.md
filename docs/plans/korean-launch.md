@@ -73,11 +73,12 @@ Goes live on push. Reviewer for sensitive = **ashton-tan** ([you]-confirmed via 
 ## Phase 3 — RESIDUAL (optional, non-blocking)
 - [ ] Milestones timeline (`src/lib/milestones.ts`) has Tamil (4th language) but no Japanese (5th) or Korean (6th) launch entry — additive content, add ja+ko milestones for completeness.
 
-## Phase 4 — Facebook activation
-- [ ] `scripts/lib/facebook.mjs`: add `ko` to `LANGS`; add a `LANG_POLICY` row (`enabled/perDay:5/since:<launch>/windows:ALL_WINDOWS`, ramped for a new Page); extend `articleBases()` regex, `catNameMap()` (`ko: m[7]`), `COUNTRY_TAG`, and `hashtags()` (Korean = non-CJK-Han; treat like ta/latin unless we want Hangul tags).
-- [ ] `scripts/post-backlog-to-facebook.mjs`: add `ko` to `PROMPT` (3 pillars), `CTA_CAPTION`, `CTA_COMMENT`.
-- [ ] Verify: `FB_DRY_RUN=1 FB_BACKLOG_QUEUE=1 node scripts/post-backlog-to-facebook.mjs` and read the `[ko]` preview.
-- [ ] **[you]** Update the KO Page's website field → `https://negaraku.md/ko` (Page settings; a change only you can make).
+## Phase 4 — Facebook activation ✅ CODE DONE 2026-09-26 (commit b18a7b36, local/UNPUSHED — activates on push)
+- [x] `scripts/lib/facebook.mjs`: added `ko` to `LANGS` + `LANG_POLICY` (`enabled, perDay:5, since:'2026-09-26', windows:ALL_WINDOWS` — ramps 1/day up); `catNameMap()` regex now captures `ko: m[7]`; `COUNTRY_TAG.ko = '#말레이시아'`; `hashtags()` gained Hangul script-gating (`hasHangul` U+AC00–U+D7A3; ko keeps Hangul/numeric tags, and ms/en now also exclude Hangul leak). PAGES.ko + articleBases regex already had ko.
+- [x] `scripts/post-backlog-to-facebook.mjs`: `PROMPT` (all 3 pillars), `CTA_CAPTION`, `CTA_COMMENT` +ko.
+- [x] Verified `FB_DRY_RUN=1 FB_BACKLOG_QUEUE=1 FB_ONLY_LANGS=ko node scripts/post-backlog-to-facebook.mjs`: queues 1/day, would post a fully Korean caption/CTA/prompt + `#말레이시아 #NegaraKu #비즈니스` to Page 1308994995630346, link `/ko/...?utm_source=facebook`.
+- [ ] **[you]** Update the KO Page's website field → `https://negaraku.md/ko` (Page settings; only you can).
+- [ ] **PUSH** to activate (cron runs off main; posting begins next window after push).
 
 ## Phase 5 — Verify (load, don't assume)
 - [ ] Load in `/ko`: home · a pillar page · a category page · a topic LIST page (with filter/sort/display controls) · an article · the dashboard · analytics · the footer — read every visible label; any Malay = not done.
