@@ -31,7 +31,7 @@ faq:
   - q: "하천 보류지란 무엇이며 급수를 어떻게 보호합니까?"
     a: "하천 보류지는 구조물 건설, 화학물질 보관, 오수 방류 같은 위험 활동을 제한하는, 강기슭을 따라 설정된 보호 구역입니다. 슬랑오르에서는 LUAS 조례 1999에 따라 이 구역이 양쪽 강기슭에 50미터 뻗어 있어 오염물질이 원수를 공급하는 하천으로 들어갈 위험을 줄입니다."
   - q: "하천 오염자에 대한 법적 조치는 무엇입니까?"
-    a: "Macaranga 보도에 따르면, 환경질법 1974(Environmental Quality Act 1974)의 2023년 개정은 오염 범죄에 대해 최소 RM5,000, 최대 RM10 million의 벌금과 5년 이하의 의무 징역을 규정했습니다. 슬랑오르 하천 보류지 제도(LUAS 조례 1999 제48조 (1)항)에 따른 범죄의 경우 벌칙은 RM50,000 이하의 벌금 또는 2년 이하의 징역, 또는 둘 다입니다. 이 1974년 법 개정 수치는 2차 보도에서 나온 것으로 공식 관보 원문과 대조하여 확인해야 합니다."
+    a: "Macaranga 보도에 따르면, 환경질법 1974(Environmental Quality Act 1974)의 2023년 개정은 오염 범죄에 대해 최소 RM5,000, 최대 RM1,000만의 벌금과 5년 이하의 의무 징역을 규정했습니다. 슬랑오르 하천 보류지 제도(LUAS 조례 1999 제48조 (1)항)에 따른 범죄의 경우 벌칙은 RM50,000 이하의 벌금 또는 2년 이하의 징역, 또는 둘 다입니다. 이 1974년 법 개정 수치는 2차 보도에서 나온 것으로 공식 관보 원문과 대조하여 확인해야 합니다."
 
 lang: "ko"
 sourceContentHash: "1a7e38792ecc17c4"
@@ -56,7 +56,7 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Environmental Quality (Amendment) Act 2024 (Act A1712) — penalties: min fine RM5,000, max RM10 million, up to 5 years' imprisonment for the most serious offences"
+  - title: "Environmental Quality (Amendment) Act 2024 (Act A1712) — penalties: min fine RM5,000, max RM1,000만, up to 5 years' imprisonment for the most serious offences"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2147523_BI/Act%20A1712.pdf"
     publisher: "Attorney General's Chambers"
   - title: "River Basin Pollution Monitoring — Data Catalogue"
@@ -143,7 +143,7 @@ JAS는 전국의 약 700개 하천과 약 150개 유역을 아우르는 1,300여
 - 하안(河岸) 식생과 초목을 제거하는 것; 그리고
 - 모든 오수와 폐기물을 방류하는 것.
 
-이 제도에 따른 위반은 **RM50,000** 이하의 벌금 또는 **2년** 이하의 징역, 또는 둘 다에 처할 수 있습니다. 또한 Macaranga 보도에 따르면, 환경질법 1974의 2023년 개정은 오염에 대한 벌칙을 강화하여 최소 RM5,000, 최대 RM10 million의 벌금과 5년 이하의 의무 징역을 규정했습니다. (이 1974년 법 개정 수치는 2차 보도에서 나온 것으로 공식 관보 원문과 대조하여 확인해야 합니다.)
+이 제도에 따른 위반은 **RM50,000** 이하의 벌금 또는 **2년** 이하의 징역, 또는 둘 다에 처할 수 있습니다. 또한 Macaranga 보도에 따르면, 환경질법 1974의 2023년 개정은 오염에 대한 벌칙을 강화하여 최소 RM5,000, 최대 RM1,000만의 벌금과 5년 이하의 의무 징역을 규정했습니다. (이 1974년 법 개정 수치는 2차 보도에서 나온 것으로 공식 관보 원문과 대조하여 확인해야 합니다.)
 
 과제는 현장에서의 이행입니다. 슬랑오르의 약 **3,956킬로미터** 하천 중 약 **2,078킬로미터**가 경계 획정(demarcation)을 위해 지도화되었으며, 나머지는 단계적으로 지도화될 예정입니다. 아직 관보에 지정되지 않은 경계는 해당 지역에서 보호 구역을 집행하기가 더 어렵다는 뜻입니다.
 

@@ -91,7 +91,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
   - { rel: "related-to", to: "who-cannot-claim-audit-exemption" }
 related: ["audit-exemption", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption"]
-keywords: ["audit exemption threshold Malaysia", "audit exemption RM3 million", "PD 10/2024 thresholds", "audit exemption 2026 threshold", "SSM audit exemption criteria 2027", "number of employees audit exemption"]
+keywords: ["audit exemption threshold Malaysia", "audit exemption RM300만", "PD 10/2024 thresholds", "audit exemption 2026 threshold", "SSM audit exemption criteria 2027", "number of employees audit exemption"]
 ---
 
 이 페이지에서 하나의 수치만 가져간다면, 이것을 가져가십시오. 즉, 모두가

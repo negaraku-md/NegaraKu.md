@@ -42,7 +42,7 @@ faq:
 verificationNeeded:
   - "바얀 르파스의 원 자유무역지역 선포인 P.U.(A) 356/1974는 확보할 수 없었습니다 — AGC 하위법령 데이터베이스가 그만큼 오래된 P.U.(A) 계열을 색인하지 않기 때문입니다. 그 제목과 1974년 10월 10일 관보 게재일은 P.U.(B) 510/2024의 전문(前文)에 의해서만 확인됩니다."
   - "바얀 르파스 제2단계 이후의 자유지역 당국은 확정되지 않았습니다. RMCD는 제1단계만 등재하고 있으며, 2024년 재선포는 네 개 도면을 하나의 지역 항목으로 다루어 단계 구조를 대체했을 가능성이 있습니다."
-  - "널리 인용되는 페낭 수출액 RM435 billion(전국의 31퍼센트)이라는 수치는 어떤 공식 페이지와도 연결할 수 없었습니다."
+  - "널리 인용되는 페낭 수출액 RM4,350억(전국의 31퍼센트)이라는 수치는 어떤 공식 페이지와도 연결할 수 없었습니다."
 
 lang: "ko"
 sourceContentHash: "6475dc27ed25022d"
@@ -85,7 +85,7 @@ sources:
     url: "https://ccs-co.com/wp-content/uploads/124.1-Free-Zones-Amendment-Regulations-2023-P.U.-A-131_2023.pdf"
     publisher: "Attorney General's Chambers (Federal Government Gazette)"
     date: "2023-04-19"
-  - title: "Electrical & Electronics — Penang E&E exports RM358.1 billion (2024), 60% of national"
+  - title: "Electrical & Electronics — Penang E&E exports RM3,581억 (2024), 60% of national"
     url: "https://investpenang.gov.my/electrical-electronics/"
     publisher: "InvestPenang"
   - title: "Malaysia Investment Performance Report 2025"
@@ -262,14 +262,13 @@ Commission)** 산하에 있습니다. 수출업체는 통상 반출 시 FCZ를, 
 ## 전기·전자(E&E) 공급망의 현실
 
 MIDA의 **말레이시아 투자성과보고서 2025(Malaysia Investment Performance Report
-2025)**는 페낭의 승인 제조 투자를 전국 **RM131,297.1 million** 중 **RM22,375.4
-million**, 약 **17%**로, **232개 프로젝트**에 걸쳐 집계하며, 승인 제조 투자에서
+2025)**는 페낭의 승인 제조 투자를 전국 **RM1,312.971억** 중 **RM223.754억**, 약 **17%**로, **232개 프로젝트**에 걸쳐 집계하며, 승인 제조 투자에서
 **전국 2위**로 순위를 매깁니다. DOSM의 **주별 GDP 2025** 발표는 페낭의 제조업을
 전국 **23.0%**에 대비하여 **페낭 GDP의 47.3%**로 기록합니다.
 
 한 가지 통계적 함정이 있습니다. DOSM의 무역 발표는 E&E에 대해 **51.3%**의 비중을
 표기하는데, 이는 *제조* 수출 대비 E&E의 비중이지 총수출 대비가 아닙니다. 2025년
-총수출 **RM1,606,650 million** 대비, **RM711,613 million**인 E&E는 **44.3%**입니다.
+총수출 **RM16,066.5억** 대비, **RM7,116.13억**인 E&E는 **44.3%**입니다.
 이 둘이 서로 뒤바뀝니다.
 
 이 수치는 DOSM의 공개 자료 CSV가 아니라 발표 자료에서 가져오십시오. 주별 GDP

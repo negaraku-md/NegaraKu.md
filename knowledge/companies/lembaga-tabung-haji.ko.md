@@ -58,7 +58,7 @@ sources:
   - title: "Tabung Haji: Sifat Asal dan Pengurusan Kewangan Berasaskan Syariah Tetap Tidak Berubah"
     url: "https://www.mof.gov.my/portal/ms/berita/siaran-media/tabung-haji-sifat-asal-dan-pengurusan-kewangan-berasaskan-syariah-tetap-tidak-berubah"
     publisher: "Kementerian Kewangan Malaysia"
-  - title: "TH Umum Agihan Keuntungan RM2.92 Bilion (3.25%) Setelah Zakat Dilunaskan"
+  - title: "TH Umum Agihan Keuntungan RM29.2억 (3.25%) Setelah Zakat Dilunaskan"
     url: "https://www.tabunghaji.gov.my/siaran-media/korporat/th-umum-agihan-keuntungan-rm2-92-bilion-3-25-setelah-zakat"
     publisher: "Lembaga Tabung Haji"
   - title: "Tabung Haji Catat Prestasi Terbaik Dalam Lapan Tahun"

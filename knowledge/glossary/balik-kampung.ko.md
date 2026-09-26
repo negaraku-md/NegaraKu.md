@@ -63,7 +63,7 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/key-findings-population-and-housing-census-of-malaysia-2020-administrative-district"
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
     date: "2022-05-29"
-  - title: "Perdagangan Borong Dan Runcit Malaysia Naik 9.8 Peratus Kepada RM169 Bilion Pada Mac 2026"
+  - title: "Perdagangan Borong Dan Runcit Malaysia Naik 9.8 Peratus Kepada RM1,690억 Pada Mac 2026"
     url: "https://bernama.com/bm/news.php?id=2555565"
     publisher: "BERNAMA (memetik Ketua Perangkawan Negara, DOSM)"
     date: "2026-05-11"

@@ -63,7 +63,7 @@ sources:
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/budi95-diselaras-kepada-200-liter-sebulan-harga-kekal-rm1-99-seliter"
     publisher: "Kementerian Kewangan Malaysia"
     date: "2026-03-26"
-  - title: "Harga Runcit Petrol Dan Diesel Dikekalkan, Tanggungan Subsidi Diunjur RM3.5 Bilion Sebulan"
+  - title: "Harga Runcit Petrol Dan Diesel Dikekalkan, Tanggungan Subsidi Diunjur RM35억 Sebulan"
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/harga-runcit-petrol-dan-diesel-dikekalkan-tanggungan-subsidi-diunjur-rm3-5-bilion-sebulan"
     publisher: "Kementerian Kewangan Malaysia"
     date: "2026-06-10"

@@ -84,7 +84,7 @@ sources:
   - title: "EPF Begins Mandatory Contributions For Non-Malaysian Citizen Employees Effective October 2025"
     url: "https://www.kwsp.gov.my/en/w/news/epf-begins-mandatory-contributions-for-non-malaysian-citizen-employees-effective-october-2025"
     publisher: "Kumpulan Wang Simpanan Pekerja (EPF/KWSP)"
-  - title: "EPF Investment Assets At RM1.25 Trillion, 63 Pct Invested In Domestic Market"
+  - title: "EPF Investment Assets At RM1.25조, 63 Pct Invested In Domestic Market"
     url: "https://www.bernama.com/en/news.php?id=2397953"
     publisher: "BERNAMA (Malaysian National News Agency)"
 entity: "Employees Provident Fund Act 1991 (Act 452)"

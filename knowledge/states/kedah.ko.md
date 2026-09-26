@@ -77,7 +77,7 @@ sources:
   - title: "Population Table: States (anggaran penduduk mengikut negeri, 1970–2025)"
     url: "https://open.dosm.gov.my/data-catalogue/population_state"
     publisher: "Jabatan Perangkaan Malaysia (DOSM) / OpenDOSM"
-  - title: "Malaysia Records Historic High RM378.5 Billion in Investments in 2024"
+  - title: "Malaysia Records Historic High RM3,785억 in Investments in 2024"
     url: "https://www.mida.gov.my/media-release/malaysia-records-historic-high-rm378-5-billion-in-investments-with-14-9-y-o-y-growth-generating-more-than-207000-jobs-in-2024/"
     publisher: "Lembaga Pembangunan Pelaburan Malaysia (MIDA)"
   - title: "Our Story — Kulim Hi-Tech Park"

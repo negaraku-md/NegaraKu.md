@@ -18,7 +18,7 @@ keyTakeaways:
   - "수입세, 수출세, 물품세, 판매세 및 서비스세와 각종 부과금을 징수하며, 관세법(Customs Act 1967), 물품세법(Excise Act 1976), 판매세법(Sales Tax Act 2018), 서비스세법(Service Tax Act 2018)을 비롯한 법령을 관장합니다."
   - "SST는 2018년 9월부터 상품서비스세(GST)를 대체했으며, 서비스세는 2024년 3월 1일 6%에서 8%로 인상되되 일부 서비스는 6%로 유지되었습니다."
   - "판매세 및 서비스세의 일반 등록 기준액은 과세 대상 매출액 RM500,000이며, 등록은 MySST 포털을 통해 이루어집니다."
-  - "말레이시아 관세청(RMCD)은 2023년에 551억 링깃(RM55.1 billion)의 세수를 징수하여 목표치인 535억 링깃(RM53.5 billion)을 초과했습니다."
+  - "말레이시아 관세청(RMCD)은 2023년에 551억 링깃(RM551억)의 세수를 징수하여 목표치인 535억 링깃(RM535억)을 초과했습니다."
 appliesTo: "수입업자, 수출업자, SST 등록 사업자, 관세 대리인, 그리고 말레이시아의 간접세·관세 당국에 대한 개요가 필요한 모든 사람."
 faq:
   - q: "말레이시아 관세청(RMCD)은 어떤 세금과 관세를 징수합니까?"
@@ -60,7 +60,7 @@ sources:
   - title: "Background — MySST"
     url: "https://mysst.customs.gov.my/background"
     publisher: "Royal Malaysian Customs Department (mysst.customs.gov.my)"
-  - title: "Kastam Kutip Hasil RM55.1 Bilion Tahun Lepas"
+  - title: "Kastam Kutip Hasil RM551억 Tahun Lepas"
     url: "https://mof.gov.my/portal/ms/berita/akhbar/kastam-kutip-hasil-rm55-1-bilion-tahun-lepas"
     publisher: "Ministry of Finance Malaysia (mof.gov.my)"
   - title: "Targeted Revision Of Sales Tax Rate And Expansion Of Service Tax Scope Effective 1 July 2025"
@@ -93,7 +93,7 @@ RMCD는 **수입관세, 수출관세, 물품세, 판매세, 서비스세** 형�
 | 관광세법(Tourism Tax Act 2017) | 숙박에 대한 관광세 |
 | 전략무역법(Strategic Trade Act 2010) | 전략 물자 및 이중용도 물자에 대한 통제 |
 
-규모는 상당합니다. RMCD는 2023년에 **RM55.1 billion**의 세입을 징수하여 목표인 RM53.5 billion을 RM1.6 billion 초과했으며, 2024년 목표는 RM56 billion으로 설정되었습니다.
+규모는 상당합니다. RMCD는 2023년에 **RM551억**의 세입을 징수하여 목표인 RM535억을 RM16억 초과했으며, 2024년 목표는 RM560억으로 설정되었습니다.
 
 ## 판매·서비스세(SST)는 어떻게 작동합니까?
 

@@ -59,7 +59,7 @@ sources:
   - title: "Fire Certificate Malaysia: Application and Renewal Guide"
     url: "https://www.palcon.com.my/fire-certificate-application-malaysia/"
     publisher: "Palcon"
-  - title: "16,111 Kes Kebakaran Direkod Sepanjang 2025, Kerugian Cecah RM2.09 Bilion"
+  - title: "16,111 Kes Kebakaran Direkod Sepanjang 2025, Kerugian Cecah RM20.9억"
     url: "https://bernama.com/bm/news.php?id=2514748"
     publisher: "BERNAMA"
 

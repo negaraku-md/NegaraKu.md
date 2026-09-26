@@ -59,7 +59,7 @@ sources:
     url: "https://rmk13.ekonomi.gov.my/wp-content/uploads/2025/09/Executive_Summary_Thirteenth_Malaysia_Plan.pdf"
     publisher: "Ministry of Economy (Kementerian Ekonomi)"
     date: "2025-07-31"
-  - title: "Malaysia Breaks Investment Record with RM426.7 Billion in 2025, Up 11% Year-On-Year; Creating Over 240,000 New Jobs"
+  - title: "Malaysia Breaks Investment Record with RM4,267억 in 2025, Up 11% Year-On-Year; Creating Over 240,000 New Jobs"
     url: "https://www.mida.gov.my/media-release/malaysia-breaks-investment-record-with-rm426-7-billion-in-2025-up-11-year-on-year-creating-over-240000-new-jobs/"
     publisher: "Malaysian Investment Development Authority (MIDA)"
   - title: "Manufacturing, value added (% of GDP) — Malaysia"

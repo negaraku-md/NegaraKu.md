@@ -59,7 +59,7 @@ sources:
   - title: "Maybank FY24 Net Profit up 7.9% to RM10.09b"
     url: "https://www.maybank.com/en/news/2025/02/26.page"
     publisher: "Malayan Banking Berhad (Maybank)"
-  - title: "CIMB's net profit up 10.7% to RM7.73 billion with ROE at 11.2%"
+  - title: "CIMB's net profit up 10.7% to RM77.3억 with ROE at 11.2%"
     url: "https://www.cimb.com/en/newsroom/2025/cimb-s-net-profit-up-10-7-percent-to-rm7-73-billion-with-roe-at-11-2-percent.html"
     publisher: "CIMB Group Holdings Berhad"
   - title: "Shareholding Information"

@@ -110,9 +110,9 @@ keywords: ["three tiers of government Malaysia", "federal state local government
 
 | 유형 | 말레이어 용어 | 기준(JKT) | 전형적 초점 |
 | --- | --- | --- | --- |
-| 시의회 | Majlis Bandaraya | 인구 50만 초과; 연간 세입 RM100 million 이상 | 고차 서비스, 도시 개발 |
-| 시정의회 | Majlis Perbandaran | 인구 15만 초과; 연간 세입 RM20 million 이상 | 사업 및 상업 활동, 지역사회 개발 |
-| 군의회 | Majlis Daerah | 인구 15만 미만; 연간 세입 RM20 million 미만 | 주요 읍 밖 지역의 기반시설과 공익설비 |
+| 시의회 | Majlis Bandaraya | 인구 50만 초과; 연간 세입 RM1억 이상 | 고차 서비스, 도시 개발 |
+| 시정의회 | Majlis Perbandaran | 인구 15만 초과; 연간 세입 RM2,000만 이상 | 사업 및 상업 활동, 지역사회 개발 |
+| 군의회 | Majlis Daerah | 인구 15만 미만; 연간 세입 RM2,000만 미만 | 주요 읍 밖 지역의 기반시설과 공익설비 |
 
 규모가 어떻든, 지방 당국의 일상 업무는 대부분의 사람의 삶에서 가장 눈에 띄는 정부 층위입니다. 평가세 고지서, 쓰레기 수거, 사업 및 간판 인허가, 개축 계획 승인, 노점 및 시장 관리, 공원, 배수로, 지방 도로입니다.
 

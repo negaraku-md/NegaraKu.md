@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "회사법(Companies Act 2016) 제213조는 모든 이사에게 두 가지 의무를 부과합니다 — 제213(1)조에 따라 정당한 목적을 위해 회사의 최선의 이익을 위하여 선의로 행위할 의무, 그리고 제213(2)조에 따라 합리적인 주의, 기량 및 근면을 행사할 의무입니다. 위반은 제213(3)조에 따라 최고 5년의 징역 또는 최고 RM3 million의 벌금 또는 병과에 처해지는 형사 범죄입니다. 그 책임은 개인적이며, 면책으로 없앨 수 없습니다."
+answer: "회사법(Companies Act 2016) 제213조는 모든 이사에게 두 가지 의무를 부과합니다 — 제213(1)조에 따라 정당한 목적을 위해 회사의 최선의 이익을 위하여 선의로 행위할 의무, 그리고 제213(2)조에 따라 합리적인 주의, 기량 및 근면을 행사할 의무입니다. 위반은 제213(3)조에 따라 최고 5년의 징역 또는 최고 RM300만의 벌금 또는 병과에 처해지는 형사 범죄입니다. 그 책임은 개인적이며, 면책으로 없앨 수 없습니다."
 keyTakeaways:
   - "s.213(3)은 이사의 의무 위반을 범죄로 하며 — 개인에 대하여 5년, RM3,000,000, 또는 그 병과입니다"
   - "s.210은 이 의무를 등록 여부와 관계없이 CEO, CFO, COO 및 경영을 주로 책임지는 모든 사람에게 확대합니다"
@@ -103,7 +103,7 @@ relations:
   - { rel: "related-to", to: "loans-to-directors" }
   - { rel: "related-to", to: "appoint-resign-director" }
 related: ["disclosure-of-interest", "director-shareholding-notification", "appoint-resign-director", "remove-a-director", "loans-to-directors", "directors-fees-approval", "directors-report", "register-of-directors"]
-keywords: ["directors duties Malaysia", "section 213 Companies Act 2016", "director personal liability Malaysia", "business judgment rule Malaysia", "tanggungjawab pengarah syarikat", "shadow director Malaysia", "director fine RM3 million"]
+keywords: ["directors duties Malaysia", "section 213 Companies Act 2016", "director personal liability Malaysia", "business judgment rule Malaysia", "tanggungjawab pengarah syarikat", "shadow director Malaysia", "director fine RM300만"]
 ---
 
 벌금은 3백만 링깃이고 형기는 5년입니다. 회사가 아니라 — 여러분에게입니다.
@@ -134,7 +134,7 @@ s.228에 다시 나타납니다.
 제210조는 실무자들이 충분히 활용하지 않는 조항입니다. 이는 이사회에 앉은 적도 없고,
 s.201에 따라 임명된 적도 없으며, SSM 기록 어디에도 나타나지 않는 CFO도 그럼에도
 s.213 선의, s.213(2) 주의와 근면, s.217 명의이사의 충실, s.218 지위의 부적절한 이용,
-s.223 상당한 처분, s.228 특수관계자 거래에 구속되며 — 동일한 RM3 million 상한에
+s.223 상당한 처분, s.228 특수관계자 거래에 구속되며 — 동일한 RM300만 상한에
 노출됨을 의미합니다.
 
 s.2 부분은 반대편 끝을 포착합니다. 겉모습을 관리하기 위해 이사회에서 사임했지만
@@ -165,7 +165,7 @@ s.2 부분은 반대편 끝을 포착합니다. 겉모습을 관리하기 위해
   검토할 때 회계사의 기준으로 판단됩니다. 객관적 최소 수준보다 적게 아는 이사에
   대해서는 그에 상응하는 완화가 없습니다.
 
-그런 다음 제213(3)조는 이 조문의 위반을 최고 5년, 최고 RM3 million, 또는 병과에
+그런 다음 제213(3)조는 이 조문의 위반을 최고 5년, 최고 RM300만, 또는 병과에
 처해지는 범죄로 만듭니다.
 
 ## 어떤 관련 의무가 동일한 처벌을 지니는가?
@@ -280,7 +280,7 @@ s.216(3)의 탈출구에는 두 부분이 있으며, 둘 다 충족되어야 합
   비용을 면책하되, 형사 소송에서 부과된 벌금과 규제적 성격의 불준수에 대해 규제
   당국에 지급할 금액은 **제외**.
 
-함께 읽으면, s.213(3)에 따른 RM3 million 벌금은 결코 회사가 여러분을 대신하여 지급할
+함께 읽으면, s.213(3)에 따른 RM300만 벌금은 결코 회사가 여러분을 대신하여 지급할
 수 없으며, 규제상 과징금도 마찬가지입니다. 이사 및 임원 보험은 동일한 경계 안에서
 작동합니다.
 
@@ -298,7 +298,7 @@ s.216(3)의 탈출구에는 두 부분이 있으며, 둘 다 충족되어야 합
 유일한 화해 권한은 말레이시아 기업위원회법(Companies Commission of Malaysia Act
 2001) (Act 614) s.38A(1)의 일반 권한으로, 이에 따라 등록관은 **검찰총장(Public
 Prosecutor)의 서면 동의를 받아**, 위반을 **최대 벌금의 50%를 초과하지 않는** 금액으로
-화해할 수 있습니다 — 따라서 RM3 million 상한에 대해 최대 RM1.5 million입니다. 그것은
+화해할 수 있습니다 — 따라서 RM300만 상한에 대해 최대 RM150만입니다. 그것은
 정액표가 아니라 사안별 재량입니다. SSM의 유일한 공표된 화해 문서인 실무지침
 1/2017(Practice Directive 1/2017)은 이사의 의무 위반이 아니라 지연 제출 불이행을
 다룹니다.

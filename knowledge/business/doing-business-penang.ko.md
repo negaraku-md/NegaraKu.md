@@ -20,7 +20,7 @@ keyTakeaways:
   - "MBSP 조례 제3조 제2항은 말레이어가 더 크고 더 두드러지게 표시될 것을 요구합니다 — KL 조례는 다른 언어를 말레이어 크기로 제한할 뿐입니다"
   - "스브랑 프라이가 사후에 승인하는 무허가 간판은 조례 제6조에 따라 연간 인허가 수수료의 세 배가 듭니다"
   - "산업용 토지 전매에 대한 PDC 동의 수수료는 섬에서 제곱피트당 RM10, 본토에서 RM5이며, 미가동 소유자의 경우 다시 두 배가 됩니다"
-  - "페낭은 2025년 7.3퍼센트 성장하여 RM130.3 billion에 이르렀으며 — 제조업이 주 경제의 47.3퍼센트로, 제조업이 서비스업을 능가하는 유일한 대형 주입니다"
+  - "페낭은 2025년 7.3퍼센트 성장하여 RM1,303억에 이르렀으며 — 제조업이 주 경제의 47.3퍼센트로, 제조업이 서비스업을 능가하는 유일한 대형 주입니다"
 appliesTo: "페낭섬과 스브랑 프라이 사이에서 선택하는 제조업체, E&E 공급업체 및 서비스 운영자, 그리고 조지타운 유산 지역 내에 사업장을 두는 모든 사람에게 적용됩니다."
 
 faq:
@@ -83,7 +83,7 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/gross-domestic-product-gdp-by-state-2025"
     publisher: "Department of Statistics Malaysia"
     date: "2026-07-01"
-  - title: "Penang Sustains Resilient Investment Momentum with RM12.5 Billion in Approved Manufacturing Investments in 1H2025"
+  - title: "Penang Sustains Resilient Investment Momentum with RM125억 in Approved Manufacturing Investments in 1H2025"
     url: "https://investpenang.gov.my/press-release-penang-sustains-resilient-investment-momentum-with-rm12-5-billion-in-approved-manufacturing-investments-in-1h2025-despite-global-uncertainties-from-tariffs-and-evolving-trade-policies/"
     publisher: "InvestPenang"
   - title: "Penang Records RM22.4 Bln Approved Manufacturing Investments In 2025 - Chow"
@@ -94,7 +94,7 @@ sources:
     url: "https://www.thestar.com.my/business/business-news/2026/03/10/penang-records-rm224bil-approved-manufacturing-investments-in-2025"
     publisher: "The Star"
     date: "2026-03-10"
-  - title: "Penang records RM22.4 billion approved manufacturing investments last year"
+  - title: "Penang records RM224억 approved manufacturing investments last year"
     url: "https://www.nst.com.my/news/nation/2026/03/1394112/penang-records-rm224-billion-approved-manufacturing-investments-last"
     publisher: "New Straits Times"
     date: "2026-03-10"

@@ -12,10 +12,10 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "말레이시아의 벼 농가는 현금이 아니라 비료 형태로 투입재를 직접 지원받으며, 이는 1979년에 도입된 연방정부 벼 비료 제도(SBPKP)를 통해 매 작기 복합비료 240kg/ha와 요소비료 80kg/ha를 공급합니다. 2007년 3월부터 시행된 벼 생산 장려 제도(SIPP)는 경운 임금 지원 RM100/ha와 최대 RM140/ha의 농업 투입재 지원(비료, 농약, 작물 촉진제, 토양 개량제)을 추가하며, 벼 가격 보조금과 경운 장려금이 운영비의 일부를 보전합니다. 2026년 예산은 RM2.62 billion — 역사상 가장 높은 벼 농가 보조금 — 을 배정했으며, 이는 작기당 약 RM4,300/ha에 해당합니다."
+answer: "말레이시아의 벼 농가는 현금이 아니라 비료 형태로 투입재를 직접 지원받으며, 이는 1979년에 도입된 연방정부 벼 비료 제도(SBPKP)를 통해 매 작기 복합비료 240kg/ha와 요소비료 80kg/ha를 공급합니다. 2007년 3월부터 시행된 벼 생산 장려 제도(SIPP)는 경운 임금 지원 RM100/ha와 최대 RM140/ha의 농업 투입재 지원(비료, 농약, 작물 촉진제, 토양 개량제)을 추가하며, 벼 가격 보조금과 경운 장려금이 운영비의 일부를 보전합니다. 2026년 예산은 RM26.2억 — 역사상 가장 높은 벼 농가 보조금 — 을 배정했으며, 이는 작기당 약 RM4,300/ha에 해당합니다."
 keyTakeaways:
   - "1979년에 도입된 SBPKP는 현금 지급이 아니라 물리적 비료 — 복합비료 240kg/ha(12포대)와 요소비료 80kg/ha(4포대) — 를 최대 25에이커(10헥타르)까지 공급합니다."
-  - "2026년 예산은 벼 농가에 RM2.62 billion을 배정했으며, 이는 이전의 RM3,790 대비 작기당 약 RM4,300/ha에 해당합니다."
+  - "2026년 예산은 벼 농가에 RM26.2억을 배정했으며, 이는 이전의 RM3,790 대비 작기당 약 RM4,300/ha에 해당합니다."
   - "SIPP(2007년 3월 시행)는 경운 임금 RM100/ha와 최대 RM140/ha의 투입재 지원으로 구성되며, 이와 별개로 농업식량안보부(KPKM)는 작기당 RM300/ha(기존 RM200에서 인상)의 농약 장려금을 2026년 예산의 독립된 장려금 항목으로 제시했습니다."
   - "현 작기의 벼 경운 장려금(IPKP)은 작기당 RM300/ha로, 2단계 — 선지급 RM200/ha, 잔액 RM100/ha — 로 지급되며, 이는 2026년 예산 최초 책정액 RM160/ha에서 인상된 것입니다."
   - "벼 가격 보조금은 2024년 예산에서 톤당 RM500으로, 최저 보장 가격은 톤당 RM1,300으로 인상되었습니다."
@@ -55,7 +55,7 @@ verificationNeeded: []
 
 updated: 2026-08-14
 sources:
-  - title: "Kerajaan Sedia RM2.6 Bilion Salur Subsidi, Insentif Kepada Pesawah Dan Nelayan"
+  - title: "Kerajaan Sedia RM26억 Salur Subsidi, Insentif Kepada Pesawah Dan Nelayan"
     url: "https://www.mof.gov.my/portal/ms/berita/akhbar/kerajaan-sedia-rm2-6-bilion-salur-subsidi-insentif-kepada-pesawah-dan-nelayan"
     publisher: "Kementerian Kewangan Malaysia (MOF)"
   - title: "Bahagian Pembangunan Industri Padi"
@@ -67,7 +67,7 @@ sources:
   - title: "Peningkatan Peruntukan Kepada Pesawah Komitmen Kerajaan Tingkatkan Pengeluaran Beras Tempatan"
     url: "https://www.bernama.com/bm/news.php?id=2356473"
     publisher: "BERNAMA"
-  - title: "RM2.62 bilion subsidi tertinggi dalam sejarah buat pesawah"
+  - title: "RM26.2억 subsidi tertinggi dalam sejarah buat pesawah"
     url: "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2025/10/10/rm2-62-bilion-subsidi-tertinggi-dalam-sejarah-buat-pesawah"
     publisher: "Free Malaysia Today"
   - title: "Bayaran Pendahuluan Insentif Pembajakan Padi (IPKP)"
@@ -144,9 +144,9 @@ KPKM는 벼산업개발부서 산하에 다른 제도들도 등재하고 있으�
 
 ## 정부의 재정 부담은 얼마나 큽니까?
 
-배정 금액은 매년 증가하고 있습니다. MOF는 2024년 예산에서 벼 농가와 어민을 위한 보조금 및 장려금으로 RM2.6 billion을 발표했습니다. BERNAMA는 2025년 예산에서 벼 농가에 대한 배정이 약 5.5퍼센트 인상되었다고 보도했습니다.
+배정 금액은 매년 증가하고 있습니다. MOF는 2024년 예산에서 벼 농가와 어민을 위한 보조금 및 장려금으로 RM26억을 발표했습니다. BERNAMA는 2025년 예산에서 벼 농가에 대한 배정이 약 5.5퍼센트 인상되었다고 보도했습니다.
 
-2026년 예산에 이르러 그 금액은 **RM2.62 billion**으로 증가했으며 — 이는 국가 역사상 가장 높은 벼 농가 보조금으로 묘사됩니다. Free Malaysia Today는 농가당 평균 지원이 이전의 RM3,790 대비 약 **작기당 RM4,300/ha**로 증가했다고 보도했으며, 여기에는 특히 농약 장려금 RM300/ha, 경유 비용을 위한 신규 수확 장려금 RM50/ha, 그리고 현 작기 기준 RM300/ha(2026년 예산 최초 책정액 RM160/ha에서 인상)로 책정된 경운 장려금이 포함됩니다.
+2026년 예산에 이르러 그 금액은 **RM26.2억**으로 증가했으며 — 이는 국가 역사상 가장 높은 벼 농가 보조금으로 묘사됩니다. Free Malaysia Today는 농가당 평균 지원이 이전의 RM3,790 대비 약 **작기당 RM4,300/ha**로 증가했다고 보도했으며, 여기에는 특히 농약 장려금 RM300/ha, 경유 비용을 위한 신규 수확 장려금 RM50/ha, 그리고 현 작기 기준 RM300/ha(2026년 예산 최초 책정액 RM160/ha에서 인상)로 책정된 경운 장려금이 포함됩니다.
 
 ## 벼 가격은 어떻게 지원됩니까?
 
@@ -158,7 +158,7 @@ KPKM는 벼산업개발부서 산하에 다른 제도들도 등재하고 있으�
 
 1. **등록** — 벼 농가는 농업 기관을 통해 등록하고 활동 중인 논 경영자로 인증됩니다.
 2. **투입재 배부** — 비료와 농약은 등록된 논 면적에 따라 공급업체와 농민 조직을 통해 물리적으로 공급됩니다.
-3. **현금 장려금** — 경운 장려금 같은 지급은 작기에 따라 지급됩니다. KPKM는 벼 농가의 초기 운전 자금 부담을 덜어 주기 위해 경운 작업이 시작되기 전이나 시작될 때 경운 장려금 RM200/ha의 **선지급**(*one-off*)을 하며, 잔액 RM100/ha는 경운 작업이 완료되고 기관이 확인한 후에 지급됩니다. 2026년 재배 작기의 경우, 이 선지급은 2026년 5월 19일에 단계적으로 지급되기 시작했으며, 말레이시아 반도의 SBPKP 등록 벼 농가 약 240,000명이 대상이고 배정액은 약 RM48 million입니다.
+3. **현금 장려금** — 경운 장려금 같은 지급은 작기에 따라 지급됩니다. KPKM는 벼 농가의 초기 운전 자금 부담을 덜어 주기 위해 경운 작업이 시작되기 전이나 시작될 때 경운 장려금 RM200/ha의 **선지급**(*one-off*)을 하며, 잔액 RM100/ha는 경운 작업이 완료되고 기관이 확인한 후에 지급됩니다. 2026년 재배 작기의 경우, 이 선지급은 2026년 5월 19일에 단계적으로 지급되기 시작했으며, 말레이시아 반도의 SBPKP 등록 벼 농가 약 240,000명이 대상이고 배정액은 약 RM4,800만입니다.
 
 전체 관리는 KPKM 산하에 있으며, 현장 집행은 농민조직청(LPP)과 MADA, KADA 같은 곡창지대 관할 기관이 맡습니다.
 

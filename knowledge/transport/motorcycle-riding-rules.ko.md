@@ -56,7 +56,7 @@ sources:
   - title: "Road Safety Regulation in Malaysia"
     url: "https://www.mot.gov.my/en/land/safety/road-safety-regulation"
     publisher: "Kementerian Pengangkutan Malaysia (MOT)"
-  - title: "RM10 Juta Naik Taraf Laluan Motosikal Lebuh Raya Persekutuan"
+  - title: "RM1,000만 Naik Taraf Laluan Motosikal Lebuh Raya Persekutuan"
     url: "https://www.kkr.gov.my/ms/rm10-juta-naik-taraf-laluan-motosikal-lebuh-raya-persekutuan"
     publisher: "Kementerian Kerja Raya (KKR)"
   - title: "Malaysian police: Use the motorcycle lanes or else"

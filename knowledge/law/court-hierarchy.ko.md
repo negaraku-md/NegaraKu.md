@@ -86,7 +86,7 @@ relations:
   - { rel: "governs", to: "courts-of-judicature-act-1964" }
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "companies-act-2016", "employment-act-1955"]
-keywords: ["Malaysia court hierarchy", "Sessions Court jurisdiction RM1 million", "Magistrates Court limit RM100,000", "Courts of Judicature Act 1964", "Subordinate Courts Act 1948", "hierarki mahkamah Malaysia"]
+keywords: ["Malaysia court hierarchy", "Sessions Court jurisdiction RM100만", "Magistrates Court limit RM100,000", "Courts of Judicature Act 1964", "Subordinate Courts Act 1948", "hierarki mahkamah Malaysia"]
 ---
 
 RM1,200,000 규모의 계약 위반 청구를 세션법원(Sessions Court)에 제기한다면, 사건이 아무리 탄탄해도 소용이 없습니다. 그 법원에는 이를 다룰 권한이 없습니다. 같은 청구를 RM80,000로 하여 고등법원(High Court)에 제기한다면, 아마도 잘못된 곳에 왔다는 말을 듣게 될 것이고 — 그 우회에 대한 대가도 치르게 됩니다.

@@ -58,7 +58,7 @@ sources:
   - title: "Method of Issuance — Financial Markets Information Platform"
     url: "https://financialmarkets.bnm.gov.my/method-of-issuance"
     publisher: "Bank Negara Malaysia"
-  - title: "Malaysian Capital Market Hits Record RM4.2 Trillion in 2024, Stays Resilient Amid Earnings Growth"
+  - title: "Malaysian Capital Market Hits Record RM4.2조 in 2024, Stays Resilient Amid Earnings Growth"
     url: "https://www.sc.com.my/resources/media/media-release/malaysian-capital-market-hits-record-rm42-trillion-in-2024-stays-resilient-amid-earnings-growth"
     publisher: "Securities Commission Malaysia"
   - title: "Malaysia Government Securities (MGS) and Government Investment Issue (GII) – An Overview"

@@ -97,7 +97,7 @@ sources:
   - title: "Employee Wages Statistics (Formal Sector), Fourth Quarter 2025"
     url: "https://www.dosm.gov.my/portal-main/release-content/employee-wages-statistics-formal-sector-q42025"
     publisher: "Department of Statistics Malaysia"
-  - title: "Malaysia's 1H 2025 Approved Investments Up 18.7% Y-o-Y to RM190.3 Billion"
+  - title: "Malaysia's 1H 2025 Approved Investments Up 18.7% Y-o-Y to RM1,903억"
     url: "https://www.mida.gov.my/media-release/malaysias-1h-2025-approved-investments-up-by-18-7-year-on-year-to-rm190-3-billion-creating-over-89000-new-jobs/"
     publisher: "Malaysian Investment Development Authority (MIDA)"
   - title: "Federal Constitution — Tenth Schedule"
@@ -177,7 +177,7 @@ Cap. 144는 **무역** 을 인허가합니다. **사업장(premises)** 은 별�
 
 그 결과는 실질적입니다. 제8조는 **주총리(Chief Minister)** 를 의장으로 삼고, *장관(Minister)* 을 주총리로 정의합니다. 제4조는 양 디페르투아 느그리(Yang di-Pertua Negeri)가 어느 프로젝트들이 집합적으로 사바 개발회랑(Sabah Development Corridor)을 이루는지를 관보로 정하도록 합니다. 그리고 **s.7(f)는 SEDIA의 기능을 주 또는 연방 정부에 인센티브를 권고하는 것으로** 삼습니다 — 부여하는 것이 아닙니다. 대표적 SDC 패키지는 여전히 연방 문서로 운영됩니다: 소득세법 1967(Income Tax Act 1967)에 따른 소득세 면제, 관세법 1967(Customs Act 1967)에 따른 관세 면제. 관광 관련 토지 개발에 대한 인지세 감면이 진정으로 주 차원의 성격을 가진 유일한 항목입니다.
 
-**SDC 블루프린트 2.0은 2021년부터 2030년까지를 포괄** 하며, RM95 billion의 민간 투자, 70,000개의 일자리, 그리고 추가 GDP RM20 billion을 목표로 합니다. 이는 2025년까지 이어진 원래의 2008년 블루프린트를 뒤따르는 것이 아니라 겹친다는 점에 유의하십시오.
+**SDC 블루프린트 2.0은 2021년부터 2030년까지를 포괄** 하며, RM950억의 민간 투자, 70,000개의 일자리, 그리고 추가 GDP RM200억을 목표로 합니다. 이는 2025년까지 이어진 원래의 2008년 블루프린트를 뒤따르는 것이 아니라 겹친다는 점에 유의하십시오.
 
 ## 사바는 반도가 하지 않는 것들에 과세합니다
 
@@ -203,13 +203,13 @@ Cap. 144는 **무역** 을 인허가합니다. **사업장(premises)** 은 별�
 
 ## 경제적 측면
 
-DOSM의 *GDP by State, 2025* 는 사바의 경제를 현재 가격 기준 **RM88.8 billion** 으로 집계하여 2024년의 RM84.5 billion에서 증가했으며 — 전국 GDP의 **5.1퍼센트** 로 일곱 번째로 큰 주 경제입니다. 실질 기준으로는 **5.1퍼센트** 성장하여 2024년의 1.2퍼센트에서 급격히 회복했으며, **1인당 GDP는 전국 RM59,167에 대비하여 RM31,125** 입니다.
+DOSM의 *GDP by State, 2025* 는 사바의 경제를 현재 가격 기준 **RM888억** 으로 집계하여 2024년의 RM845억에서 증가했으며 — 전국 GDP의 **5.1퍼센트** 로 일곱 번째로 큰 주 경제입니다. 실질 기준으로는 **5.1퍼센트** 성장하여 2024년의 1.2퍼센트에서 급격히 회복했으며, **1인당 GDP는 전국 RM59,167에 대비하여 RM31,125** 입니다.
 
 부문 구성은 말레이시아 어느 곳과도 진정으로 다릅니다. **서비스 52.1퍼센트, 광업 및 채석 22.0퍼센트, 농업 13.9퍼센트, 제조 7.2퍼센트, 건설 4.4퍼센트.** 전국 비중인 59.5, 5.7, 6.1, 23.0에 대비하여, 사바는 전국 광업 비중의 약 4배, 농업 비중의 2배 이상, 제조 비중의 3분의 1 미만을 가집니다. 광업은 원유 및 콘덴세이트 회복에 힘입어 4.9퍼센트 반등했고; 농업은 팜오일에서 4.3퍼센트로 성장세로 돌아섰으며; 서비스는 관광에 힘입어 4.5퍼센트 성장하여 입국객이 20.4퍼센트 증가했습니다.
 
 평이하게 읽으면: 사바는 얇은 제조 기반을 가진 자원 및 서비스 경제입니다. 산업 단지가 이를 반영합니다 — 스팡가르(Sepanggar) 인근 8,320에이커의 **KKIP**, 20미터를 넘는 천연 심해 항구를 가진 **POIC 라핫다투(POIC Lahad Datu)**, 그리고 5,539에이커의 **SOGIP 시피탕(SOGIP Sipitang)**.
 
-그 자원 비중이 노동시장으로 번역되지는 않습니다. DOSM의 *Labour Force Survey 2025* 는 사바의 2025년 실업률을 **7.2퍼센트** 로 기록하여 어느 주보다도 높고 전국 3.0퍼센트의 2배가 넘으며, 그 정규직 부문 중위 임금은 2025년 12월에 **RM2,045**(*Employee Wages Statistics, Q4 2025*)로 전국 중위값 RM3,167에 대비하여 — 가장 낮은 주 중위값 축에 듭니다. 투자 관심은 더 강합니다: MIDA는 2025년 상반기에 사바에서 **RM11.4 billion** 의 승인 투자를 기록하여 주들 중 다섯 번째였습니다.
+그 자원 비중이 노동시장으로 번역되지는 않습니다. DOSM의 *Labour Force Survey 2025* 는 사바의 2025년 실업률을 **7.2퍼센트** 로 기록하여 어느 주보다도 높고 전국 3.0퍼센트의 2배가 넘으며, 그 정규직 부문 중위 임금은 2025년 12월에 **RM2,045**(*Employee Wages Statistics, Q4 2025*)로 전국 중위값 RM3,167에 대비하여 — 가장 낮은 주 중위값 축에 듭니다. 투자 관심은 더 강합니다: MIDA는 2025년 상반기에 사바에서 **RM114억** 의 승인 투자를 기록하여 주들 중 다섯 번째였습니다.
 
 닫아 둘 가치가 있는 흔한 혼동 하나: **라부안(Labuan)은 사바가 아닙니다.** 그것은 1984년 이래 연방직할지로, 라부안사업활동세법 1990(Labuan Business Activity Tax Act 1990)에 따라 라부안 FSA의 규제를 받으며, 이 페이지의 어떤 내용도 그에 적용되지 않습니다.
 

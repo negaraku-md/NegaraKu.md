@@ -15,7 +15,7 @@ answer: "내무부 — Kementerian Dalam Negeri, 약칭 KDN, 영어로는 MOHA �
 keyTakeaways:
   - "KDN은 제12대 총선거 후 내무부(Ministry of Internal Affairs, KHEDN)와 국내치안부(Ministry of Internal Security, KKDN)가 통합된 2008년 3월 18일에 현재의 형태를 갖추었다"
   - "2026년 현재 내무부 장관은 Datuk Seri Panglima Saifuddin Nasution bin Ismail(2022년 12월 3일부터 재임)이며, 사무총장은 Datuk Awang Alik bin Jeman이다"
-  - "KDN은 2026년 예산에서 RM21.2 billion을 배정받았으며 — 이는 2025년의 RM19.5 billion에서 RM1.7 billion 증가한 것으로 — 보안 자산, 제복 인력 시설, 국경 통제, 사이버 범죄 대응 역량을 강화하기 위한 것이다"
+  - "KDN은 2026년 예산에서 RM212억을 배정받았으며 — 이는 2025년의 RM195억에서 RM17억 증가한 것으로 — 보안 자산, 제복 인력 시설, 국경 통제, 사이버 범죄 대응 역량을 강화하기 위한 것이다"
   - "그 연방 부서에는 왕립 말레이시아 경찰(PDRM), 이민국(JIM), 교정국(Prison Department), 국가등록국(JPN), 결사등록청(Registry of Societies, ROS), 국민의용단(People's Volunteer Corps, RELA), 해양집행청(Maritime Enforcement Agency, MMEA), ESSCOM이 포함된다"
   - "Act 860에 따라 신설되어 2024년 10월 17일 관보에 게재된 신설 말레이시아 검문·국경청(Malaysian Checkpoints and Borders Agency, AKPS)은 국경 집행을 통합하고 종전의 육상 국경 기관 AKSEM을 대체한다"
 appliesTo: "말레이시아의 국내 치안·집행 기구가 어떻게 조직되어 있는지를 배우는 모든 사람, 그리고 여권, MyKad, 경찰 신고, 결사 등록 또는 영화 등급 같은 특정 업무를 어느 KDN 기관이 담당하는지 알아야 하는 독자."
@@ -93,11 +93,11 @@ KDN은 말레이시아의 *국내* 업무 — 국내 안보, 공공질서, 이�
 | 웹사이트 | `moha.gov.my` |
 | 장관(2026년 기준) | Datuk Seri Panglima Saifuddin Nasution bin Ismail (2022년 12월 3일부터) |
 | 사무총장 | Datuk Awang Alik bin Jeman |
-| 2026년 배정 | RM21.2 billion |
+| 2026년 배정 | RM212억 |
 
 ## 예산은 얼마나 큰가?
 
-KDN은 **2026년 예산에서 RM21.2 billion**을 배정받았습니다 — 2025년의 RM19.5 billion에서 RM1.7 billion 늘어난 것입니다. 위키피디아는 그 수치를 정확히 MYR 21,182,930,100으로 기록합니다. 추가 자금은 안보 자산과 제복 요원 시설을 강화하고, 국경 통제를 향상하며, 사이버 위협과 디지털 범죄에 대한 역량을 구축하는 데 배정되었습니다.
+KDN은 **2026년 예산에서 RM212억**을 배정받았습니다 — 2025년의 RM195억에서 RM17억 늘어난 것입니다. 위키피디아는 그 수치를 정확히 MYR 21,182,930,100으로 기록합니다. 추가 자금은 안보 자산과 제복 요원 시설을 강화하고, 국경 통제를 향상하며, 사이버 위협과 디지털 범죄에 대한 역량을 구축하는 데 배정되었습니다.
 
 ## 어떤 기관이 KDN 산하에 있는가?
 

@@ -16,7 +16,7 @@ answer: "말레이시아 재무부(Ministry of Finance, 재무성(Perbendaharaan
 keyTakeaways:
   - "재무부(Ministry of Finance)는 연방의 세입, 지출, 차입을 관장한다. 그 행정 기구는 재무부 사무총장(Ketua Setiausaha Perbendaharaan)이 이끄는 말레이시아 재무부(Perbendaharaan Malaysia, Treasury)이다"
   - "제1재무부 장관은 총리 Anwar Ibrahim이며, 제2재무부 장관 Datuk Seri Amir Hamzah Azizan이 보좌한다(Economic Outlook 2025)"
-  - "2026년 예산은 2025년 10월 10일에 제출되었으며 총동원 규모는 RM470 billion — 경상 지출 RM338.2 billion과 개발 지출 RM81 billion — 이다"
+  - "2026년 예산은 2025년 10월 10일에 제출되었으며 총동원 규모는 RM4,700억 — 경상 지출 RM3,382억과 개발 지출 RM810억 — 이다"
   - "공급법안(Rang Undang-Undang Perbekalan, Supply Bill)은 재정 법안이다: 오직 장관만이 제출할 수 있으며 하원(Dewan Rakyat)에서 시작되어야 한다"
   - "Act 850은 중기 목표를 정한다: 부채는 GDP의 60%를 넘지 않고, 재정 적자는 GDP의 3%, 개발 지출은 GDP의 최소 3%, 금융 보증은 GDP의 25%를 넘지 않는다(제1부칙)"
   - "정부 차입은 네 개의 주요 법률이 규율한다 — Loan (Local) Act 1959, Government Funding Act 1983, Treasury Bills (Local) Act 1946, External Loans Act 1963"
@@ -32,7 +32,7 @@ faq:
   - q: "예산은 매년 언제 제출됩니까?"
     a: "연방 예산은 통상 다음 회계연도를 위하여 그해 마지막 분기에 제출됩니다. 2026년 예산은 2025년 10월 10일 재무부 장관이 하원(Dewan Rakyat)에 제출하였습니다. 이후 공급법(Akta Perbekalan, Supply Act)으로 통과되기 전에 정책 단계와 위원회 단계에서 토론됩니다."
   - q: "정부 부채 총액에 법적 한도가 있습니까?"
-    a: "그렇습니다. 각각 관보에 게재된 차입 관련 법률에 따라, 말레이시아 국채(MGS), 말레이시아 정부투자증권(MGII), 말레이시아 이슬람 재무증권(MITB)의 합계는 GDP의 65%를, 역외 차입은 RM35 billion을, 재무증권(MTB)은 RM10 billion을 넘을 수 없습니다. 이 세 가지 한도는 Fiscal Outlook 2026 제4절(그림 1 및 표 4.2)에서 확인됩니다. 이 외에도 Act 850은 부채 총액이 GDP의 60%를 넘지 않도록 중기 목표를 정합니다."
+    a: "그렇습니다. 각각 관보에 게재된 차입 관련 법률에 따라, 말레이시아 국채(MGS), 말레이시아 정부투자증권(MGII), 말레이시아 이슬람 재무증권(MITB)의 합계는 GDP의 65%를, 역외 차입은 RM350억을, 재무증권(MTB)은 RM100억을 넘을 수 없습니다. 이 세 가지 한도는 Fiscal Outlook 2026 제4절(그림 1 및 표 4.2)에서 확인됩니다. 이 외에도 Act 850은 부채 총액이 GDP의 60%를 넘지 않도록 중기 목표를 정합니다."
   - q: "말레이시아 중앙은행(Bank Negara Malaysia)은 재무부의 일부입니까?"
     a: "말레이시아 중앙은행(Bank Negara Malaysia)은 재무부(Ministry of Finance) 산하 기관으로 부처 조직의 일부로 열거되나, 통화 정책 운영 면에서 자율적인 중앙은행입니다. 재무부 장관은 중앙은행과의 관계에서 정부를 대표하지만, 정책 금리 결정은 중앙은행 자체가 합니다."
   - q: "예산이 하원(Dewan Rakyat)에서 통과되지 않으면 어떻게 됩니까?"
@@ -69,7 +69,7 @@ sources:
   - title: "Belanjawan 2026, Seksyen 2: Hasil Kerajaan Persekutuan"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/hasil/seksyen2.pdf"
     publisher: "Kementerian Kewangan Malaysia"
-  - title: "Kutipan Hasil Kerajaan Dianggar Berjumlah RM343.1 Bilion Pada 2026"
+  - title: "Kutipan Hasil Kerajaan Dianggar Berjumlah RM3,431억 Pada 2026"
     url: "https://www.bernama.com/bm/ekonomi/news_bajet.php?id=2477027"
     publisher: "BERNAMA"
     date: "2025-10-10"
@@ -87,7 +87,7 @@ sources:
     url: "https://www.mof.gov.my/portal/ms/berita/akhbar/dewan-rakyat-lulus-peruntukan-belanjawan-2026-peringkat-jawatankuasa-bagi-tiga-kementerian"
     publisher: "Kementerian Kewangan Malaysia"
     date: "2025-11-10"
-  - title: "Belanjawan 2026 peruntuk RM470 bilion, sokong pertumbuhan meski cabaran global"
+  - title: "Belanjawan 2026 peruntuk RM4,700억, sokong pertumbuhan meski cabaran global"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/belanjawan-2026-peruntuk-rm470-bilion-sokong-pertumbuhan-meski-cabaran-global/"
     publisher: "RTM"
     date: "2025-10-10"
@@ -150,7 +150,7 @@ keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Per
 | 제2재무부 장관 | Datuk Seri Amir Hamzah Azizan |
 | 재무성 사무총장 | Datuk Johan Mahmood Merican |
 | 주요 재정 법률 | 공공재정 및 재정책임법 2023(Act 850), 2024년 1월 1일 발효 |
-| 최근 예산 | 2026년 예산, 2025년 10월 10일 상정, 총 동원 규모 RM470 bilion |
+| 최근 예산 | 2026년 예산, 2025년 10월 10일 상정, 총 동원 규모 RM4,700억 |
 | 웹사이트 | `mof.gov.my` |
 
 위의 인물 이름은 Economic Outlook 2025의 공식 조직도에서 인용한 것입니다. 정치적·행정적 직위는 바뀔 수 있으므로 현재의 재임자는 `mof.gov.my`에서 확인하십시오.
@@ -217,19 +217,19 @@ keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Per
 
 ## 2026년 예산에서 돈은 어디로 가는가?
 
-2026년 예산은 총 동원 규모 RM470 bilion으로, 2025년의 RM452 bilion에서 늘어났습니다. 그 RM470 bilion이 모두 연방정부의 직접 지출인 것은 아닙니다 — 여기에는 정부연계투자회사(GLIC)의 투자와 통상적 예산을 거치지 않는 민관협력(PPP) 프로젝트가 포함됩니다.
+2026년 예산은 총 동원 규모 RM4,700억으로, 2025년의 RM4,520억에서 늘어났습니다. 그 RM4,700억이 모두 연방정부의 직접 지출인 것은 아닙니다 — 여기에는 정부연계투자회사(GLIC)의 투자와 통상적 예산을 거치지 않는 민관협력(PPP) 프로젝트가 포함됩니다.
 
 | 구성 요소 | 배정 |
 | --- | ---: |
-| 경상 지출 | RM338.2 bilion |
-| 개발 지출 | RM81.0 bilion |
-| **핵심 연방 예산** | **RM419.2 bilion** |
-| GLIC 투자 | RM30.0 bilion |
-| 민관협력(PPP) | RM10.0 bilion |
-| 연방 법정기관 및 MKD 회사 | RM10.8 bilion |
-| **총 동원 규모** | **RM470.0 bilion** |
+| 경상 지출 | RM3,382억 |
+| 개발 지출 | RM810억 |
+| **핵심 연방 예산** | **RM4,192억** |
+| GLIC 투자 | RM300억 |
+| 민관협력(PPP) | RM100억 |
+| 연방 법정기관 및 MKD 회사 | RM108억 |
+| **총 동원 규모** | **RM4,700억** |
 
-세입 측면에서, 정부는 2026년에 RM343.1 bilion의 수입을 목표로 하는데, 이는 2025년 추정치 RM334.1 bilion에서 늘어난 것입니다. 세입과 지출 사이의 그 격차가 바로 재정 적자로, 2026년에는 GDP의 3.5%로 목표되어 — 2025년의 3.7%에서 낮아졌습니다. 그 3.7%는 원래 목표 3.8%를 넘어선 2025년의 실제 연간 실적입니다(2024년: 4.1%).
+세입 측면에서, 정부는 2026년에 RM3,431억의 수입을 목표로 하는데, 이는 2025년 추정치 RM3,341억에서 늘어난 것입니다. 세입과 지출 사이의 그 격차가 바로 재정 적자로, 2026년에는 GDP의 3.5%로 목표되어 — 2025년의 3.7%에서 낮아졌습니다. 그 3.7%는 원래 목표 3.8%를 넘어선 2025년의 실제 연간 실적입니다(2024년: 4.1%).
 
 ## 연방 부채는 얼마나 크며, 그 한도는 무엇인가?
 
@@ -243,16 +243,16 @@ keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Per
 | --- | --- | --- |
 | Loan (Local) Act 1959 [Akta 637] | MGS, MGII | MGS + MGII + MITB 합계가 GDP의 65% 이하 |
 | Government Funding Act 1983 [Akta 275] | MITB, Market Loans, Project Loans | (위 65% GDP 한도에 포함) |
-| External Loans Act 1963 [Akta 403] | 역외 차입 | RM35 bilion 이하 |
-| Treasury Bills (Local) Act 1946 [Akta 188] | MTB | RM10 bilion 이하 |
+| External Loans Act 1963 [Akta 403] | 역외 차입 | RM350억 이하 |
+| Treasury Bills (Local) Act 1946 [Akta 188] | MTB | RM100억 이하 |
 
-참고: MGS는 말레이시아 정부증권(Malaysian Government Securities), MGII는 말레이시아 정부투자발행(샤리아 준수), MITB는 말레이시아 이슬람 재무성 증권, MTB는 말레이시아 재무성 증권입니다. 이 세 법률의 수치 한도는 Fiscal Outlook 2026(Section 4, 151쪽 Figure 1과 161쪽 Table 4.2)에서 확인되며, 2025년 6월 말 실제 수치도 기록합니다. 즉, MGS+MGII+MITB 법정 부채는 GDP의 63.5%, 역외 차입은 RM22.8 bilion, MTB는 RM2 bilion — 모두 한도 내입니다.
+참고: MGS는 말레이시아 정부증권(Malaysian Government Securities), MGII는 말레이시아 정부투자발행(샤리아 준수), MITB는 말레이시아 이슬람 재무성 증권, MTB는 말레이시아 재무성 증권입니다. 이 세 법률의 수치 한도는 Fiscal Outlook 2026(Section 4, 151쪽 Figure 1과 161쪽 Table 4.2)에서 확인되며, 2025년 6월 말 실제 수치도 기록합니다. 즉, MGS+MGII+MITB 법정 부채는 GDP의 63.5%, 역외 차입은 RM228억, MTB는 RM20억 — 모두 한도 내입니다.
 
-이 법률들은 정부가 오로지 개발 지출을 조달하고 기존 부채를 차환하기 위해서만 차입하도록 구속합니다 — 일상적 경상 지출을 위해서가 아닙니다. 연방 부채의 대부분은 링깃으로 표시되며 국내 자본시장에서 조달됩니다. 역외 차입은 RM35 bilion 문턱보다 훨씬 아래에 머무릅니다.
+이 법률들은 정부가 오로지 개발 지출을 조달하고 기존 부채를 차환하기 위해서만 차입하도록 구속합니다 — 일상적 경상 지출을 위해서가 아닙니다. 연방 부채의 대부분은 링깃으로 표시되며 국내 자본시장에서 조달됩니다. 역외 차입은 RM350억 문턱보다 훨씬 아래에 머무릅니다.
 
 ## Act 850은 무엇을 요구하는가?
 
-2024년 이전에는, 코로나19 팬데믹 경기 부양 및 회복 패키지의 재원을 대기 위해, 부채의 법정 한도가 코로나바이러스(COVID-19) 정부 자금조달 임시조치법 2020에 따라 GDP의 60%에서 65%로 일시 상향되었고, COVID-19 기금의 상한이 RM65 bilion에서 RM110 bilion으로 상향되었습니다. 팬데믹 이후 개혁의 일환으로, 정부는 2024년 1월 1일에 발효된 **공공재정 및 재정책임법 2023(Act 850)**을 도입했습니다.
+2024년 이전에는, 코로나19 팬데믹 경기 부양 및 회복 패키지의 재원을 대기 위해, 부채의 법정 한도가 코로나바이러스(COVID-19) 정부 자금조달 임시조치법 2020에 따라 GDP의 60%에서 65%로 일시 상향되었고, COVID-19 기금의 상한이 RM650억에서 RM1,100억으로 상향되었습니다. 팬데믹 이후 개혁의 일환으로, 정부는 2024년 1월 1일에 발효된 **공공재정 및 재정책임법 2023(Act 850)**을 도입했습니다.
 
 Act 850은 재정 관리가 보고되고 제한되는 방식을 바꿉니다. 그 제1부칙에서 **수치 값**으로 측정되는 재정 목표를 정합니다.
 
@@ -284,7 +284,7 @@ Act 850은 또한 재정 정책의 이행을 감독하기 위한 **재정정책�
 
 **"재무부가 세금을 걷는다."** 이 부처는 세금 정책을 정하지만, 징수는 그 산하 기관 — 직접세는 LHDN, 간접세는 관세청 — 이 합니다. 세금 문의를 이 부처에 보내면 다시 회부될 뿐입니다.
 
-**"2026년 예산의 RM470 bilion은 모두 정부 지출이다."** 그 총액은 GLIC 투자와 PPP 프로젝트도 아우르는 총 동원 규모입니다. 핵심 연방 예산 — 경상 지출과 개발 지출 — 은 RM419.2 bilion입니다.
+**"2026년 예산의 RM4,700억은 모두 정부 지출이다."** 그 총액은 GLIC 투자와 PPP 프로젝트도 아우르는 총 동원 규모입니다. 핵심 연방 예산 — 경상 지출과 개발 지출 — 은 RM4,192억입니다.
 
 **"국가 부채 한도는 60%이다."** Act 850에 따른 GDP의 60% 중기 목표는 차입 법률 아래에서 여전히 관보에 고시된 GDP의 65% 법정 한도와 같은 것이 아닙니다. 현재 비율은 그 두 수치 사이에 있을 수 있습니다.
 

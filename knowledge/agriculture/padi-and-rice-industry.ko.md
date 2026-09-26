@@ -77,7 +77,7 @@ sources:
   - title: "SSHP rate increased to RM500 per metric tonne, better income for padi farmers — PM Anwar"
     url: "https://www.pmo.gov.my/en/news-en/sshp-rate-increased-to-rm500-per-metric-tonne-better-income-for-padi-farmers-pm-anwar/"
     publisher: "Prime Minister's Office of Malaysia"
-  - title: "Govt Provides RM2.6 Billion For Subsidies, Incentives For Paddy Farmers, Fishermen"
+  - title: "Govt Provides RM26억 For Subsidies, Incentives For Paddy Farmers, Fishermen"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-provides-rm2-6-billion-for-subsidies-incentives-for-paddy-farmers-fishermen"
     publisher: "Ministry of Finance Malaysia (MOF)"
   - title: "Sociological Issues and Challenges of Rice Production in Malaysia (12 granary areas; MADA share)"
@@ -136,12 +136,12 @@ keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malays
 
 ## 벼 농가는 어떻게 지원받습니까?
 
-말레이시아에서 벼 재배는 자유 시장만이 아니라 정부 지원으로 존속 가능하게 유지됩니다. 그 지원은 여러 채널을 통해 흐릅니다. **벼 하한 가격**(*harga lantai belian padi*)은 **2025년 2월 16일**부로 **RM1,300**에서 **톤당 RM1,500**으로 인상되었습니다 — 2024년 예산이 이를 RM1,200에서 RM1,300으로 올린 후 최신 단계입니다. 보장 가격에 더하여, **벼 가격 보조 제도(SSHP)**는 농가에게 추가로 **톤당 RM500**(RM360에서 인상)을 지급하고, **벼 생산 장려금(SIPP)**은 서비스 제공자와 기계 소유주를 통해 **헥타르당 RM160**을 지급합니다. 2024년 예산에서 정부는 벼 농가 *및* 어민을 합쳐 보조금과 장려금으로 약 **RM2.6 billion** — 대략 RM6억 증가 — 을 배정했으며, 2026년 예산은 이를 사상 최고인 **RM2.62 billion**으로 인상했습니다.
+말레이시아에서 벼 재배는 자유 시장만이 아니라 정부 지원으로 존속 가능하게 유지됩니다. 그 지원은 여러 채널을 통해 흐릅니다. **벼 하한 가격**(*harga lantai belian padi*)은 **2025년 2월 16일**부로 **RM1,300**에서 **톤당 RM1,500**으로 인상되었습니다 — 2024년 예산이 이를 RM1,200에서 RM1,300으로 올린 후 최신 단계입니다. 보장 가격에 더하여, **벼 가격 보조 제도(SSHP)**는 농가에게 추가로 **톤당 RM500**(RM360에서 인상)을 지급하고, **벼 생산 장려금(SIPP)**은 서비스 제공자와 기계 소유주를 통해 **헥타르당 RM160**을 지급합니다. 2024년 예산에서 정부는 벼 농가 *및* 어민을 합쳐 보조금과 장려금으로 약 **RM26억** — 대략 RM6억 증가 — 을 배정했으며, 2026년 예산은 이를 사상 최고인 **RM26.2억**으로 인상했습니다.
 
 국가 관여의 규모는 기록상의 구체적 수치에서 드러납니다:
 
-- 정부는 국내 최대 곡창지대인 **MADA** 지역에만 약 **RM1 billion**을 지출했습니다.
-- 허가 쌀 수입업체인 **BERNAS**는 정부가 부과한 열 가지 사회적 의무를 이행하기 위해 **RM3.2 billion**을 제공합니다. 여기에는 농업식량안보부 차관 Chan Foong Hin에 따르면 2025년 농가 지원 **RM90 million**과 쌀 수입 이익에서 배분된 **RM13 million**이 포함됩니다.
+- 정부는 국내 최대 곡창지대인 **MADA** 지역에만 약 **RM10억**을 지출했습니다.
+- 허가 쌀 수입업체인 **BERNAS**는 정부가 부과한 열 가지 사회적 의무를 이행하기 위해 **RM32억**을 제공합니다. 여기에는 농업식량안보부 차관 Chan Foong Hin에 따르면 2025년 농가 지원 **RM9,000만**과 쌀 수입 이익에서 배분된 **RM1,300만**이 포함됩니다.
 
 이 시스템은 소비자 측에서도 감당 가능성을 염두에 두고 가격이 책정됩니다: 6개월간의 부처 연구는 말레이시아인의 약 **15%**가 **10kg 한 포대에 약 RM26**로 책정된 쌀을 필요로 한다는 것을 발견했으며, 이는 왜 가격 통제가 같은 정책에서 농가 지원과 나란히 있는지를 강조합니다.
 

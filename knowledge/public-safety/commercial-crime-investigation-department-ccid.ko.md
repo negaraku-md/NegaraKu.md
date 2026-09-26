@@ -67,7 +67,7 @@ sources:
   - title: "About NSRC — National Scam Response Centre"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"
     publisher: "Pusat Kebangsaan Bagi Jenayah Kewangan (NFCC), Jabatan Perdana Menteri"
-  - title: "Over 35,000 Scams, RM1.6 Billion Losses Recorded Last Year — Bukit Aman"
+  - title: "Over 35,000 Scams, RM16억 Losses Recorded Last Year — Bukit Aman"
     url: "https://bernama.com/en/news.php?id=2398423"
     publisher: "Bernama"
   - title: "National Scam Response Centre now running 24/7"

@@ -59,7 +59,7 @@ sources:
   - title: "Financial Services Act 2013 (Act 758), s.16(1) — composite licence prohibition"
     url: "https://www.investmalaysia.gov.my/media/xrnl0vfp/financial-services-act-2013.pdf"
     publisher: "Attorney General's Chambers"
-  - title: "Malaysia's General Insurance Industry Posts RM1.2 Billion Underwriting Profit"
+  - title: "Malaysia's General Insurance Industry Posts RM12억 Underwriting Profit"
     url: "https://piam.org.my/news-media/stay-ahead/press-releases/article/Malaysia-s-General-Insurance-Industry-Posts-RM1-2-Billion-Underwriting-Profit-Reinforcing-Financial-Resilience-for-Malaysians/"
     publisher: "Persatuan Insurans Am Malaysia (PIAM)"
   - title: "Motor Insurance — Insurance 101"

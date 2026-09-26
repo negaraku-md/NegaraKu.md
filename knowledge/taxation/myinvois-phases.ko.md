@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "말레이시아의 e-Invoice 의무는 FY2022 매출을 기준으로 네 단계로 진행됩니다: RM100 million 초과는 2024년 8월 1일, RM25 million 초과 RM100 million 이하는 2025년 1월 1일, RM5 million 초과 RM25 million 이하는 2025년 7월 1일, RM5 million 이하는 2026년 1월 1일. 연간 매출이 RM1 million 미만인 납세자는 면제됩니다. 2023년 이후 영업을 시작한 사업체는 2026년 7월 1일에 시작합니다."
+answer: "말레이시아의 e-Invoice 의무는 FY2022 매출을 기준으로 네 단계로 진행됩니다: RM1억 초과는 2024년 8월 1일, RM2,500만 초과 RM1억 이하는 2025년 1월 1일, RM500만 초과 RM2,500만 이하는 2025년 7월 1일, RM500만 이하는 2026년 1월 1일. 연간 매출이 RM100만 미만인 납세자는 면제됩니다. 2023년 이후 영업을 시작한 사업체는 2026년 7월 1일에 시작합니다."
 keyTakeaways:
   - "네 단계뿐입니다 — 귀하가 속하는 단계는 2022 회계연도 매출로 확정되며 결코 변하지 않습니다"
   - "연간 매출 또는 수입 RM1,000,000 미만은 유예가 아니라 완전 면제입니다"
@@ -28,25 +28,25 @@ verificationNeeded:
   - "전자송장 미이행에 대해 소득세법(ITA 1967) 제120(1)(d)조에 따라 실무상 적용되는 정확한 링깃 벌금 — 범위는 법정이지만 말레이시아 국세청(LHDN)은 부과 감경 척도를 공표하지 않습니다"
 
 obligations:
-  - what: "검증을 위한 전자송장 발행 및 전송 — 2022 회계연도 매출이 RM100 million을 초과하는 납세자"
+  - what: "검증을 위한 전자송장 발행 및 전송 — 2022 회계연도 매출이 RM1억을 초과하는 납세자"
     trigger: "ongoing"
     due: "2024년 8월 1일부터"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
     consequence: "소득세법(ITA 1967) 제120(1)(d)조에 따른 범죄"
-  - what: "검증을 위한 전자송장 발행 및 전송 — 2022 회계연도 매출이 RM25 million 초과 RM100 million 이하"
+  - what: "검증을 위한 전자송장 발행 및 전송 — 2022 회계연도 매출이 RM2,500만 초과 RM1억 이하"
     trigger: "ongoing"
     due: "2025년 1월 1일부터"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
     consequence: "소득세법(ITA 1967) 제120(1)(d)조에 따른 범죄"
-  - what: "검증을 위한 전자송장 발행 및 전송 — 2022 회계연도 매출이 RM5 million 초과 RM25 million 이하"
+  - what: "검증을 위한 전자송장 발행 및 전송 — 2022 회계연도 매출이 RM500만 초과 RM2,500만 이하"
     trigger: "ongoing"
     due: "2025년 7월 1일부터"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
     consequence: "소득세법(ITA 1967) 제120(1)(d)조에 따른 범죄"
-  - what: "검증을 위한 전자송장 발행 및 전송 — 2022 회계연도 매출이 RM5 million 이하"
+  - what: "검증을 위한 전자송장 발행 및 전송 — 2022 회계연도 매출이 RM500만 이하"
     trigger: "ongoing"
     due: "2026년 1월 1일부터"
     authority: "LHDN"
@@ -120,7 +120,7 @@ relations:
   - { rel: "explained-in", to: "e-invoice-data-fields" }
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
-keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM1 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
+keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM100만", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
 ---
 
 두 숫자가 모든 것을 결정합니다: 귀하의 단계를 영구적으로 고정하는 FY2022 매출, 그리고 그
@@ -134,10 +134,10 @@ keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoi
 
 | 단계 | 대상 납세자 | 의무 시작 |
 | --- | --- | --- |
-| 1 | 연간 매출 또는 수익 **RM100 million 초과** | **2024년 8월 1일** |
-| 2 | **RM25 million 초과 RM100 million 이하** | **2025년 1월 1일** |
-| 3 | **RM5 million 초과 RM25 million 이하** | **2025년 7월 1일** |
-| 4 | **RM5 million 이하** | **2026년 1월 1일** |
+| 1 | 연간 매출 또는 수익 **RM1억 초과** | **2024년 8월 1일** |
+| 2 | **RM2,500만 초과 RM1억 이하** | **2025년 1월 1일** |
+| 3 | **RM500만 초과 RM2,500만 이하** | **2025년 7월 1일** |
+| 4 | **RM500만 이하** | **2026년 1월 1일** |
 
 5단계는 없습니다. RM150,000–RM500,000 구간에 대한 5단계가 이전 지침 버전에 나타났으나 버전
 4.7에서 사라졌습니다.
@@ -151,7 +151,7 @@ keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoi
 | FY2022 결산일을 변경한 경우 | **12개월로 안분한** 매출 |
 
 일단 고정되면 고정입니다. 지침 제1.5절은 명확합니다: 이후의 매출 변화는 귀하의 시행일을
-바꾸지 않습니다. 2022년에 RM30 million을 했고 오늘 RM4 million을 하는 회사도 여전히 2단계
+바꾸지 않습니다. 2022년에 RM3,000만을 했고 오늘 RM400만을 하는 회사도 여전히 2단계
 납세자입니다.
 
 ## 신규 사업체는 언제 시작합니까?
@@ -225,7 +225,7 @@ s.120(1)(d)는 s.82C(1), (6), (7)의 위반을 범죄로 규정합니다.
 
 ## 흔한 실수
 
-- **RM1 million 수치를 유예로 취급하는 것.** 이는 제1.6.1절의 상시 면제입니다. 또한 단계도
+- **RM100만 수치를 유예로 취급하는 것.** 이는 제1.6.1절의 상시 면제입니다. 또한 단계도
   아닙니다 — 5단계는 없습니다.
 - **현재 매출로 단계를 다시 계산하는 것.** 판정은 FY2022, 한 번뿐입니다.
 - **4단계 완화를 휴일로 읽는 것.** 통합 제출이 그 완화의 조건이지 대안이 아닙니다.

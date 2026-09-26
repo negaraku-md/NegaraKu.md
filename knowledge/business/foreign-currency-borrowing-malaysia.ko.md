@@ -17,15 +17,15 @@ keyTakeaways:
   - "고시 2(Notice 2)는 재발행된 FEP 고시의 일부로 2025년 10월 1일 시행되었습니다"
   - "인가받은 온쇼어 은행, 그룹 내부, 또는 직접 주주로부터의 외화 차입은 무제한입니다"
   - "직접 주주란 실질 지분을 최소 10% 보유한 주주를 의미합니다"
-  - "무관한 비거주자, 비거주 금융기관, 또는 그룹 외부에서 자금을 조달하는 비거주 SPV로부터의 외화 차입은 총액 RM100 million 상당액으로 제한됩니다"
+  - "무관한 비거주자, 비거주 금융기관, 또는 그룹 외부에서 자금을 조달하는 비거주 SPV로부터의 외화 차입은 총액 RM1억 상당액으로 제한됩니다"
   - "이 한도는 개별 회사가 아니라 그룹 기준이며 — 모자관계에 있는 거주 법인을 합산합니다"
-  - "비거주자로부터의 링깃 차입은 훨씬 엄격합니다: 실물부문활동(Real Sector Activity)을 위한 그룹 내부 차입만 무제한이고, 그 밖에는 총액 RM1 million입니다"
+  - "비거주자로부터의 링깃 차입은 훨씬 엄격합니다: 실물부문활동(Real Sector Activity)을 위한 그룹 내부 차입만 무제한이고, 그 밖에는 총액 RM100만입니다"
   - "공급자 상거래 신용, 운용 리스, 비소구 팩토링은 「차입」의 정의에서 완전히 제외됩니다"
 appliesTo: "오프쇼어 부채를 조달하거나, 외국 모회사로부터 주주 대여를 받거나, 그룹 내 자금 조달을 계획하는 말레이시아 회사에 적용됩니다."
 
 verificationNeeded:
   - "말레이시아 중앙은행은 그룹 기준과 허용되는 출처 및 수취 계좌를 상술하는 거주자 링깃·외화 차입에 관한 별도의 FAQ를 공표합니다 — 시설을 구조화하기 전에 현행 FAQ를 확인하십시오"
-  - "제안된 시설이 RM100 million 상당액 한도를 초과하는 경우, 서면 승인 절차와 그 심사 기준은 전문이 공표되지 않았습니다; FAQ는 BNM이 명시된 요소를 고려할 것이라고만 밝힙니다"
+  - "제안된 시설이 RM1억 상당액 한도를 초과하는 경우, 서면 승인 절차와 그 심사 기준은 전문이 공표되지 않았습니다; FAQ는 BNM이 명시된 요소를 고려할 것이라고만 밝힙니다"
 
 lang: "ko"
 sourceContentHash: "7f6734fed0eab6e8"
@@ -63,7 +63,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "part-of", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "share-capital-malaysia"]
-keywords: ["foreign currency borrowing malaysia", "shareholder loan malaysia BNM", "offshore loan malaysia limit", "RM100 million borrowing limit", "FEP notice 2"]
+keywords: ["foreign currency borrowing malaysia", "shareholder loan malaysia BNM", "offshore loan malaysia limit", "RM1억 borrowing limit", "FEP notice 2"]
 ---
 
 외국 모회사가 자기 말레이시아 자회사를 자본금 대신 USD 주주 대여금으로 자금 조달하려 합니다.

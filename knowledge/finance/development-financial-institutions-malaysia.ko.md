@@ -68,7 +68,7 @@ sources:
   - title: "About EXIM Bank"
     url: "https://www.exim.com.my/about-us/about-exim-bank/"
     publisher: "Export-Import Bank of Malaysia Berhad"
-  - title: "BPMB Group Spearheads Over RM9 Billion in Strategic Mandates Under Budget 2026"
+  - title: "BPMB Group Spearheads Over RM90억 in Strategic Mandates Under Budget 2026"
     url: "https://www.exim.com.my/press_release/bpmb-group-spearheads-over-rm9-billion-in-strategic-mandates-under-budget-2026-to-accelerate-malaysias-economic-transformation/"
     publisher: "Bank Pembangunan Malaysia Berhad"
   - title: "Bank Pembangunan Malaysia Berhad — 50 Years of Impact"

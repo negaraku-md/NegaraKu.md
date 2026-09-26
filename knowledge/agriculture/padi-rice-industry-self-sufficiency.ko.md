@@ -66,7 +66,7 @@ sources:
   - title: "Malaysia has been importing more rice since the COVID-19 pandemic — Agriculture Census 2024"
     url: "https://www.myagricensus.gov.my/assets/caknatani/self-sufficient/en/"
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
-  - title: "Belanjawan 2024: RM2.6 bilion untuk pelbagai subsidi, harga lantai padi RM1,300 per tan"
+  - title: "Belanjawan 2024: RM26억 untuk pelbagai subsidi, harga lantai padi RM1,300 per tan"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/belanjawan-2024-rm2-6-bilion-untuk-pelbagai-subsidi-harga-lantai-padi-rm1-300-per-tan/"
     publisher: "Portal Berita RTM"
   - title: "Harga lantai padi belian di Sabah, Sarawak RM1,300 per tan metrik"
@@ -140,7 +140,7 @@ keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SB
 
 1. **하한 가격(최저 보장 가격).** 2024년 예산에서 벼 하한 가격은 2014년 이래 유지되던 RM1,200에서 **2024년 2월 15일**부로 **톤당 RM1,300**으로 인상되었습니다. 같은 날 사바와 사라왁이 최저 시장 수준에서 반도에 맞춰 인상되면서 RM1,300 단가가 전국에 통일되었습니다. 이는 벼 농가가 받을 수 있는 최저 가격을 설정합니다.
 2. **벼 가격 보조금.** 판매된 벼 톤당 추가 지급이 (RM360에서) **톤당 RM500**으로 인상되었습니다. 이는 생산 기반 보조금입니다 — 더 많은 벼를 팔수록 더 많은 지원을 받습니다.
-3. **투입재 보조금.** 정부는 2024년 예산에서 비료, 농약, 생산 비용을 포함해 벼 농가와 어민에 대한 각종 보조금 및 장려금으로 **RM2.6 billion**을 배정했습니다.
+3. **투입재 보조금.** 정부는 2024년 예산에서 비료, 농약, 생산 비용을 포함해 벼 농가와 어민에 대한 각종 보조금 및 장려금으로 **RM26억**을 배정했습니다.
 
 한편 사슬의 끝에는 **BERNAS**(Padiberas Nasional Berhad)가 서 있습니다. 이 회사는 국가의 단독 쌀 수입업체 역할을 보유하며 — 이는 1973년 세계 식량 위기에 뒤이어 1974년에 쌀 수입 역할을 인수하여 단독 수입업체가 된 국가벼쌀위원회(LPN)로부터 물려받은 책임입니다. 그 대가로 BERNAS는 국가 쌀 완충 재고 관리, 보장 가격에 벼 농가의 벼 매입, 부미푸트라 정미업자 지원 같은 사회적 의무를 집니다. BERNAS는 **1996년 1월 12일**에 민영화되었고 이후 부르사 말레이시아(Bursa Malaysia)에 상장되었습니다.
 

@@ -45,7 +45,7 @@ sources:
     url: "https://www.sc.com.my/api/documentms/download.ashx?id=fd5a5134-9315-451e-9d2d-e9abc048672d"
     publisher: "Securities Commission Malaysia"
     date: "2026"
-  - title: "Malaysian Capital Market Hits Record RM4.3 trillion in 2025"
+  - title: "Malaysian Capital Market Hits Record RM4.3조 in 2025"
     url: "https://www.sc.com.my/resources/media/media-release/malaysian-capital-market-hits-record-rm43-trillion-in-2025"
     publisher: "Securities Commission Malaysia"
     date: "2026"

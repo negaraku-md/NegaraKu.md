@@ -68,7 +68,7 @@ sources:
   - title: "Heirs to the Sultanate of Sulu v. Malaysia, Final Award, 28 February 2022"
     url: "https://jusmundi.com/en/document/decision/en-nurhima-kiram-fornan-fuad-a-kiram-sheramar-t-kiram-permaisuli-kiram-guerzon-taj-mahal-kiram-tarsum-nuqui-ahmad-narzad-kiram-sampang-jenny-ka-sampang-and-widz-raunda-kiram-sampang-v-malaysia-final-award-monday-28th-february-2022"
     publisher: "Jus Mundi"
-  - title: "The Paris Court of Appeal annuls USD 14.92 billion award against Malaysia"
+  - title: "The Paris Court of Appeal annuls USD149.2억 award against Malaysia"
     url: "https://www.globalarbitrationnews.com/2026/01/27/the-paris-court-of-appeal-annuls-usd-14-92-billion-award-against-malaysia-finding-the-underlying-arbitration-agreement-to-be-inapplicable/"
     publisher: "Global Arbitration News (Baker McKenzie)"
   - title: "Malaysia Scores Landmark Win Against Sulu Claimants — PM Anwar"

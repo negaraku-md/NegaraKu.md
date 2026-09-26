@@ -91,7 +91,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "related-to", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "global-minimum-tax-pillar-two", "permanent-establishment"]
-keywords: ["CbCR Malaysia", "country by country reporting Malaysia", "CbCR threshold RM3 billion", "master file Malaysia transfer pricing", "P.U.(A) 357/2016"]
+keywords: ["CbCR Malaysia", "country by country reporting Malaysia", "CbCR threshold RM30억", "master file Malaysia transfer pricing", "P.U.(A) 357/2016"]
 ---
 
 그룹이 놓치는 마감일은 제출 마감일이 아닙니다. 통지이며, 이는 **보고 재무연도의 마지막 날** — 그 연도가 마감되기도 전이자 보고서 자체가 제출되기 12개월 전 — 에 해당합니다.

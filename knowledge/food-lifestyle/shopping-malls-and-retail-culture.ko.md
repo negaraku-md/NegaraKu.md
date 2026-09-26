@@ -69,7 +69,7 @@ sources:
   - title: "Performance of Wholesale & Retail Trade, October 2024"
     url: "https://www.dosm.gov.my/portal-main/release-content/performance-of-wholesale-retail-trade-oct-2024"
     publisher: "Department of Statistics Malaysia"
-  - title: "Malaysia's Wholesale, Retail Trade At Record High Of RM1.77 Trillion In 2024 — DOSM"
+  - title: "Malaysia's Wholesale, Retail Trade At Record High Of RM1.77조 In 2024 — DOSM"
     url: "https://bernama.com/en/news.php?id=2391697"
     publisher: "Bernama"
   - title: "Targeted Revision of Sales Tax Rate and Expansion of Service Tax Scope Effective 1 July 2025"

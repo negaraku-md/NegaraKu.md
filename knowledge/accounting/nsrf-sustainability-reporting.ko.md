@@ -85,7 +85,7 @@ relations:
   - { rel: "related-to", to: "financial-year-end" }
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["financial-statement-pack", "financial-year-end", "mfrs-vs-mpers", "mbrs-2-filing-guide"]
-keywords: ["NSRF Malaysia", "IFRS S1 S2 Malaysia", "sustainability reporting Malaysia", "large non-listed company RM2 billion", "Scope 1 Scope 2 assurance Malaysia", "ACSR", "sustainability reporting timeline"]
+keywords: ["NSRF Malaysia", "IFRS S1 S2 Malaysia", "sustainability reporting Malaysia", "large non-listed company RM20억", "Scope 1 Scope 2 assurance Malaysia", "ACSR", "sustainability reporting timeline"]
 ---
 
 지속가능성 보고는 말레이시아에 커뮤니케이션 주제로 도착하여 회계 주제가 되고 있습니다. 국가

@@ -72,7 +72,7 @@ sources:
   - title: "Akta 144 — Akta Pembangunan Petroleum 1974"
     url: "https://lom.agc.gov.my/act-detail.php?act=144&lang=BM"
     publisher: "Jabatan Peguam Negara (AGC), Laws of Malaysia"
-  - title: "Kerajaan Persekutuan Salur Wang Ihsan Lebih RM230 Juta Kepada Terengganu Dan Kelantan"
+  - title: "Kerajaan Persekutuan Salur Wang Ihsan Lebih RM2.3억 Kepada Terengganu Dan Kelantan"
     url: "https://www.mof.gov.my/portal/ms/berita/akhbar/kerajaan-persekutuan-salur-wang-ihsan-lebih-rm230-juta-kepada-terengganu-dan-kelantan"
     publisher: "Kementerian Kewangan Malaysia"
     date: "2024-04-08"

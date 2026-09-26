@@ -71,7 +71,7 @@ sources:
   - title: "Trade Performance: December 2024 and January–December 2024"
     url: "https://www.matrade.gov.my/en/about-matrade/media-release/media-release-2024/trade-performance-december-2024-and-january-december-2024"
     publisher: "Malaysia External Trade Development Corporation (MATRADE)"
-  - title: "Malaysia Records Historic High RM378.5 Billion in Investments in 2024"
+  - title: "Malaysia Records Historic High RM3,785억 in Investments in 2024"
     url: "https://www.mida.gov.my/media-release/malaysia-records-historic-high-rm378-5-billion-in-investments-with-14-9-y-o-y-growth-generating-more-than-207000-jobs-in-2024/"
     publisher: "Malaysian Investment Development Authority (MIDA)"
 

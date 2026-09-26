@@ -54,7 +54,7 @@ sources:
   - title: "Our Portfolio"
     url: "https://www.khazanah.com.my/our-performance/our-portfolio/"
     publisher: "Khazanah Nasional Berhad"
-  - title: "RM5.1 billion profit from operations for 2024, strong performance of Malaysian investment and significant value creation initiatives"
+  - title: "RM51억 profit from operations for 2024, strong performance of Malaysian investment and significant value creation initiatives"
     url: "https://www.khazanah.com.my/news_press_releases/rm5-1-billion-profit-from-operations-for-2024-strong-performance-of-malaysian-investment-and-significant-value-creation-initiatives/"
     publisher: "Khazanah Nasional Berhad"
     date: "2025-02-05"

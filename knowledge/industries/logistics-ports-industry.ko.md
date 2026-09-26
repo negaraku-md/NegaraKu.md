@@ -97,7 +97,7 @@ sources:
   - title: "Port Klang's container throughput hit 6.38 mil TEUs in January-May 2026"
     url: "https://theedgemalaysia.com/node/807402"
     publisher: "The Edge Malaysia"
-  - title: "RM28 billion cargo port on Carey Island in the pipeline"
+  - title: "RM280억 cargo port on Carey Island in the pipeline"
     url: "https://thesun.my/business/rm28-billion-cargo-port-on-carey-island-in-the-pipeline-aa10769977/"
     publisher: "The Sun"
   - title: "Selangor eyes September groundbreaking for Carey Island port, reviews potential operators"

@@ -18,7 +18,7 @@ keyTakeaways:
   - "제4조는 반경쟁적 합의를 금지하며; 가격 담합, 시장 분할 및 입찰 담합은 자동으로 위법한 것으로 취급됩니다."
   - "제10조는 불공정한 가격 책정, 공급 거절, 또는 약탈적 행위와 같은 시장 지배적 지위의 남용을 금지합니다."
   - "MyCC는 위반 기간 전체에 걸친 사업자의 전 세계 매출액의 최대 10%에 이르는 과징금을 부과할 수 있으며, 링깃 상한이 없습니다."
-  - "현재까지 최대 과징금은 RM415.5 million(2023년)으로, 다섯 가금류 사료 제분업체에 가격 담합을 이유로 부과되었습니다."
+  - "현재까지 최대 과징금은 RM4.155억(2023년)으로, 다섯 가금류 사료 제분업체에 가격 담합을 이유로 부과되었습니다."
 appliesTo: "사업주, 회사 이사, 준법감시인, 사내 변호사, 그리고 말레이시아에서 가격 책정·입찰 또는 유통을 다루는 모든 사람."
 
 faq:
@@ -48,8 +48,8 @@ verificationNeeded:
   - "향후 기업결합 규제 제도가 제13차 말레이시아 계획(2026-2030)과 구체적으로 연계되는지 여부. 이번 작업에서는 인용 가능한 출처로 13MP 연계를 확인할 수 없어, 그 귀속을 '향후 입법이나 하위 규정'으로 완화하였습니다."
   - "제10조에 따른 지배적 지위의 일반적 지표로 인용된 60% 시장 점유율 수치."
   - "안전 영역 기준: 합산 점유율 20%(수평적) 및 각 당사자 점유율 25%(수직적)."
-  - "가금류 사료 사건의 세부 사항: 위반 기간 2020년 1월부터 2022년 6월까지, RM415.5 million의 과징금, 그리고 경쟁항소심판원의 2026년 2월 11일 항소 기각."
-  - "RM667.3 million / 270개 기업이라는 총계는 부장관 푸지아 살레(Fuziah Salleh)가 2012년부터 2026년 7월까지의 기간에 대하여 밝힌 특정 시점 수치이며; 나중에 다시 게재하기 전에 현행인지 확인하여야 합니다."
+  - "가금류 사료 사건의 세부 사항: 위반 기간 2020년 1월부터 2022년 6월까지, RM4.155억의 과징금, 그리고 경쟁항소심판원의 2026년 2월 11일 항소 기각."
+  - "RM6.673억 / 270개 기업이라는 총계는 부장관 푸지아 살레(Fuziah Salleh)가 2012년부터 2026년 7월까지의 기간에 대하여 밝힌 특정 시점 수치이며; 나중에 다시 게재하기 전에 현행인지 확인하여야 합니다."
 revisions:
   - revision: 0
     date: 2026-08-07
@@ -64,7 +64,7 @@ sources:
   - title: "Basics of Competition Law in Malaysia: What Every Business Owner and Company Director Should Know"
     url: "https://dnh.com.my/basics-of-competition-law-in-malaysia-what-every-business-owner-and-company-director-should-know/"
     publisher: "Donovan & Ho"
-  - title: "RM415 Million For Fixing The Price Of Chicken Feed: How Malaysia Actually Punishes Cartels"
+  - title: "RM4.15억 For Fixing The Price Of Chicken Feed: How Malaysia Actually Punishes Cartels"
     url: "https://asklegal.my/p/malaysian-companies-fine-industry-monopoly-anti-competition-mycc"
     publisher: "AskLegal.my"
   - title: "Malaysia's Competition (Amendment) Bill 2026 and Competition Commission (Amendment) Bill 2026"
@@ -73,7 +73,7 @@ sources:
   - title: "Senate passes competition bill to strengthen fight against cartels, monopolies"
     url: "https://www.malaymail.com/news/malaysia/2026/07/27/senate-passes-competition-bill-to-strengthen-fight-against-cartels-monopolies/229163"
     publisher: "Malay Mail"
-  - title: "MyCC imposed RM667.3 million in penalties on 270 companies between 2012 and July 2026, Dewan Negara told"
+  - title: "MyCC imposed RM6.673억 in penalties on 270 companies between 2012 and July 2026, Dewan Negara told"
     url: "https://mediaselangor.com/en/2026/07/386718"
     publisher: "Media Selangor (Selangor Journal)"
 
@@ -87,7 +87,7 @@ related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-l
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "anti-competitive agreements", "abuse of dominance", "cartel", "price fixing", "bid rigging", "Section 4", "Section 10"]
 ---
 
-다섯 곳의 가금류 사료 제분업체가 은밀히 가격을 나란히 인상하기로 합의했을 때, 그 결과는 결국 재래시장에서 닭 가격으로 나타났습니다. 2023년 12월, 말레이시아의 경쟁 규제기관은 이들에게 가격 담합을 이유로 총 RM415.5 million의 과징금을 부과했는데, 이는 이 나라 역사상 최대 규모의 경쟁법 과징금이었습니다. 많은 사업자가 아직도 그 존재조차 거의 알지 못하는 법을 위반한 데 따른 것이었습니다.
+다섯 곳의 가금류 사료 제분업체가 은밀히 가격을 나란히 인상하기로 합의했을 때, 그 결과는 결국 재래시장에서 닭 가격으로 나타났습니다. 2023년 12월, 말레이시아의 경쟁 규제기관은 이들에게 가격 담합을 이유로 총 RM4.155억의 과징금을 부과했는데, 이는 이 나라 역사상 최대 규모의 경쟁법 과징금이었습니다. 많은 사업자가 아직도 그 존재조차 거의 알지 못하는 법을 위반한 데 따른 것이었습니다.
 
 그 법이 바로 **2010년 경쟁법(Competition Act 2010)**이며, 규제기관은 **말레이시아 경쟁위원회(Malaysia Competition Commission, MyCC)**입니다. 이 둘이 함께 기업이 경쟁할 수 있는 방식과 없는 방식의 규칙을 정합니다.
 
@@ -132,9 +132,9 @@ MyCC의 결정은 사건의 실질을 심사하는 독립 기구인 **경쟁항�
 
 ## 실무에서 얼마나 엄격하게 집행되는가?
 
-이 법은 시행 후 첫 10년 동안 활용도가 낮다는 평을 자주 들었습니다. 그러나 상황이 바뀌었습니다. 데완 네가라(Dewan Negara)에서 부장관 푸지아 살레(Fuziah Salleh)가 밝힌 바에 따르면, 2012년부터 2026년 7월까지 MyCC는 **270개 기업에 RM667.3 million의 과징금**을 부과했으며, 건설·서비스·식품 공급 전반에 걸쳐 카르텔 및 입찰 담합 조사를 계속 개시해 왔습니다.
+이 법은 시행 후 첫 10년 동안 활용도가 낮다는 평을 자주 들었습니다. 그러나 상황이 바뀌었습니다. 데완 네가라(Dewan Negara)에서 부장관 푸지아 살레(Fuziah Salleh)가 밝힌 바에 따르면, 2012년부터 2026년 7월까지 MyCC는 **270개 기업에 RM6.673억의 과징금**을 부과했으며, 건설·서비스·식품 공급 전반에 걸쳐 카르텔 및 입찰 담합 조사를 계속 개시해 왔습니다.
 
-가금류 사료 사건은 이정표가 되는 사례입니다. 2020년 1월부터 2022년 6월까지 이어진 조율된 가격 인상이라는 위반 행위는 제4조 위반으로 판명되었습니다. 다섯 제분업체 중 넷이 항소했으나, 2026년 2월 11일 경쟁항소심판원은 모든 항소를 기각하고 RM415.5 million의 과징금을 만장일치로 확정했습니다.
+가금류 사료 사건은 이정표가 되는 사례입니다. 2020년 1월부터 2022년 6월까지 이어진 조율된 가격 인상이라는 위반 행위는 제4조 위반으로 판명되었습니다. 다섯 제분업체 중 넷이 항소했으나, 2026년 2월 11일 경쟁항소심판원은 모든 항소를 기각하고 RM4.155억의 과징금을 만장일치로 확정했습니다.
 
 사업자에게 주는 실무적 교훈은 이렇습니다. 그 위험은 더 이상 이론에 그치지 않으며, WhatsApp 그룹이나 업계 회의에서의 가격 신호(price signalling)가 카르텔의 증거가 될 수 있습니다.
 

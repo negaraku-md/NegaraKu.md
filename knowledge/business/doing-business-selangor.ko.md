@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "슬랑오르는 2025년에 RM460.1 billion의 GDP를 창출했으며, 이는 전국 경제의 26.5퍼센트로 어느 주보다도 큰 규모입니다. 또한 말레이시아에서 인허가를 받기에 가장 분절된 곳이기도 합니다 — 200개가 넘는 산업단지가 12개 지방자치단체에 걸쳐 있고, MBSA, MBPJ, MBSJ, MPAJ가 각기 별도로 관보에 고시된 2007년 부칙에 따라 서로 다른 유효기간, 수수료 체계, 간판 크기 규정, 포털로 인허가를 발급합니다. 통합된 주 단위 인허가 포털은 없습니다."
+answer: "슬랑오르는 2025년에 RM4,601억의 GDP를 창출했으며, 이는 전국 경제의 26.5퍼센트로 어느 주보다도 큰 규모입니다. 또한 말레이시아에서 인허가를 받기에 가장 분절된 곳이기도 합니다 — 200개가 넘는 산업단지가 12개 지방자치단체에 걸쳐 있고, MBSA, MBPJ, MBSJ, MPAJ가 각기 별도로 관보에 고시된 2007년 부칙에 따라 서로 다른 유효기간, 수수료 체계, 간판 크기 규정, 포털로 인허가를 발급합니다. 통합된 주 단위 인허가 포털은 없습니다."
 keyTakeaways:
   - "네 개의 주요 의회 모두 자체 「Undang-Undang Kecil Pelesenan Tred, Perniagaan dan Perindustrian 2007」에 따라 인허가합니다 — 같은 서식이지만 별개의 법령, 별개의 기준표입니다"
   - "MPAJ 인허가는 12월 31일에 만료되고; MBSJ는 12개월 기간으로 운영하며; MBPJ는 납부일부터 인허가에 인쇄된 날짜까지 운영되고; MBSA는 기간을 전혀 공표하지 않습니다"
@@ -20,7 +20,7 @@ keyTakeaways:
   - "간판 크기 규정은 주 내에서도 다릅니다: MBPJ는 말레이어를 30퍼센트 더 크게 요구하고, MBSA는 사업장 간판에 5퍼센트, 버팅(bunting)에 30퍼센트를 적용합니다"
   - "슬랑오르는 공표된 재택 사업 수수료를 둔 유일한 주 층위입니다 — 임시 RM100, 연 RM200, 기존 상업 인허가에 온라인 활동 추가 RM50입니다"
   - "포트클랑(Port Klang)은 2025년 15,138,772 TEU를 처리했으며 교통부 기준 세계 10위입니다"
-  - "슬랑오르는 2025년 RM83.9 billion의 승인 투자를 유치하여 조호르에 이어 2위였습니다"
+  - "슬랑오르는 2025년 RM839억의 승인 투자를 유치하여 조호르에 이어 2위였습니다"
 appliesTo: "연방직할구 외의 클랑밸리에 사업장을 두는 모든 사람, 그리고 페탈링 자야 점검표가 샤알람에서도 통한다고 가정하는 자문인에게 적용됩니다."
 
 faq:
@@ -35,7 +35,7 @@ faq:
   - q: "인베스트 슬랑오르(Invest Selangor)는 실제로 무엇을 합니까?"
     a: "인베스트 슬랑오르 유한회사(Invest Selangor Berhad, 회사 등록번호 481741-M)는 1999년 설립된 주 투자유치기관입니다. 진입을 지원하고 슬랑오르 국제비즈니스서밋(Selangor International Business Summit)과 슬랑오르 소프트랜딩 프로그램(Selangor Soft Landing Programme) 같은 프로그램을 운영하며, 투자자를 승인 절차로 안내합니다. 다만 그 실무를 유의하십시오: 제조 인허가 신청을 위한 이의없음확인서(No Objection Letter)는 인베스트 슬랑오르가 아니라 주 경제기획실인 UPEN 슬랑오르가 발급합니다. 이 기관은 investselangor.my에 있으며 — investselangor.gov.my는 연결되지 않습니다."
   - q: "외국 회사가 슬랑오르에서 부동산을 매입할 수 있습니까?"
-    a: "엄격한 주 제한 내에서만 가능합니다. Pekeliling PTG Selangor Bil. 1/2014는 주거용에 대해 1구역과 2구역에서 RM2 million, 3구역에서 RM1 million의 최소 기준을 정하며, 외국인 주거용 취득을 구분소유권(strata title)으로만 제한합니다. 상업용과 산업용 모두 RM3 million의 하한이 적용되며, 비(非)부미푸트라 유닛의 10퍼센트 상한이 있습니다. 단독주택형 주거지, 농지, 말레이 보호지(Malay Reserve land)는 개방되지 않습니다. 이 회람은 2014년의 것이므로, 이에 의존하기 전에 현행 기준을 PTG 슬랑오르에 확인하십시오."
+    a: "엄격한 주 제한 내에서만 가능합니다. Pekeliling PTG Selangor Bil. 1/2014는 주거용에 대해 1구역과 2구역에서 RM200만, 3구역에서 RM100만의 최소 기준을 정하며, 외국인 주거용 취득을 구분소유권(strata title)으로만 제한합니다. 상업용과 산업용 모두 RM300만의 하한이 적용되며, 비(非)부미푸트라 유닛의 10퍼센트 상한이 있습니다. 단독주택형 주거지, 농지, 말레이 보호지(Malay Reserve land)는 개방되지 않습니다. 이 회람은 2014년의 것이므로, 이에 의존하기 전에 현행 기준을 PTG 슬랑오르에 확인하십시오."
 
 verificationNeeded:
   - "Pekeliling PTG Selangor Bil. 1/2014의 최소 매입 기준이 2026년에도 현행인지 여부 — 주거용과 상업용 수치는 현행 법률 안내로 뒷받침되나, 회람 본문의 PTG/주 1차 공표본이 없고 2015년부터 2026년 사이에 관보로 게재된 대체 법령을 찾을 수 없어 2026년 현행 여부는 확인되지 않았습니다"
@@ -84,7 +84,7 @@ sources:
   - title: "Setting Up Business in Selangor"
     url: "https://www.investselangor.my/setting-up-business/"
     publisher: "Invest Selangor Berhad"
-  - title: "Malaysia Breaks Investment Record with RM426.7 Billion in 2025"
+  - title: "Malaysia Breaks Investment Record with RM4,267억 in 2025"
     url: "https://www.mida.gov.my/media-release/malaysia-breaks-investment-record-with-rm426-7-billion-in-2025-up-11-year-on-year-creating-over-240000-new-jobs/"
     publisher: "MIDA"
     date: "2026-03-06"
@@ -159,15 +159,15 @@ MPAJ의 관보는 넷 중 가장 유용하게 공표되어 있습니다. Sel. P.
 
 ## 경제적 측면
 
-DOSM의 *GDP by State, 2025* 는 슬랑오르를 **RM460.1 billion, 전국 경제의 26.5퍼센트** 로 집계하며, 전국 5.2퍼센트에 대비하여 **6.3퍼센트** 성장했습니다. 1인당 GDP는 전국 RM59,167에 대비하여 **RM70,362** 입니다. 서비스업은 주 경제의 **60.8퍼센트** 로 6.0퍼센트 성장했고; **제조업은 28.5퍼센트** 로 4.1퍼센트 성장하여 전기·전자·광학 제품이 8.9퍼센트로 이를 이끌었으며; 건설은 5.8퍼센트; 농업은 1.7퍼센트로 미미합니다.
+DOSM의 *GDP by State, 2025* 는 슬랑오르를 **RM4,601억, 전국 경제의 26.5퍼센트** 로 집계하며, 전국 5.2퍼센트에 대비하여 **6.3퍼센트** 성장했습니다. 1인당 GDP는 전국 RM59,167에 대비하여 **RM70,362** 입니다. 서비스업은 주 경제의 **60.8퍼센트** 로 6.0퍼센트 성장했고; **제조업은 28.5퍼센트** 로 4.1퍼센트 성장하여 전기·전자·광학 제품이 8.9퍼센트로 이를 이끌었으며; 건설은 5.8퍼센트; 농업은 1.7퍼센트로 미미합니다.
 
-MIDA는 **2025년 슬랑오르의 승인 투자 RM83.9 billion** 을 기록했으며, 이는 조호르의 RM110.0 billion에 이어 두 번째입니다.
+MIDA는 **2025년 슬랑오르의 승인 투자 RM839억** 을 기록했으며, 이는 조호르의 RM1,100억에 이어 두 번째입니다.
 
 노동시장은 나라에서 가장 빠듯한 축에 듭니다. DOSM의 *Labour Force Survey 2025* 는 슬랑오르의 경제활동참가율을 **78.4퍼센트** 로 집계하여 W.P. 푸트라자야에 이어 어느 주보다도 두 번째로 높으며; *Fourth Quarter 2025* 발표에서는 이를 **어느 주보다도 높은 78.5퍼센트** 로, 실업률은 **전국 2.9퍼센트에 대비하여 단 1.8퍼센트** 로 집계합니다. 임금에 관하여, DOSM의 *Salaries and Wages Survey Report 2024* 는 슬랑오르의 **월 평균 급여를 RM4,052** 로 집계하여 전국 평균 RM3,652를 웃돌며 이를 넘어서는 다섯 개 주 중 하나입니다 — 주 단위 중앙값은 이 발표에서 별도로 분리되어 있지 않습니다.
 
 인프라 측면은 포트클랑(Port Klang)입니다. 포트클랑 항만청(Port Klang Authority)은 **2025년 15,138,772 TEU** 를 기록하여 2024년의 14,644,527에서 증가했으며 — 웨스트포트(Westports) 1,133만, 노스포트(Northport) 380만 — 교통부는 로이즈 리스트(Lloyd's List) 세계 순위에서 그 **10위** 를 확인했습니다. **포트클랑 자유지대(Port Klang Free Zone)** 는 관세법 1967(Customs Act 1967) s.2(1A) 및 s.2(1B)에 따라 자유지대로 관보에 고시된 약 1,000에이커로, PKA가 지대 당국(Zone Authority)입니다.
 
-산업용지는 대부분 주 개발공사인 **PKNS** 와 그 자회사 Selangor Industrial Corporation이 보유합니다; **Selangor Science Park 2** 는 1,200에이커, RM3.0 billion 규모의 PKNS 프로젝트입니다. 이 주는 **12개 지방자치단체에 걸쳐 흩어진 200개가 넘는 산업단지** 를 기록합니다 — 이것이 바로 이 글이 시작된 지점입니다.
+산업용지는 대부분 주 개발공사인 **PKNS** 와 그 자회사 Selangor Industrial Corporation이 보유합니다; **Selangor Science Park 2** 는 1,200에이커, RM30억 규모의 PKNS 프로젝트입니다. 이 주는 **12개 지방자치단체에 걸쳐 흩어진 200개가 넘는 산업단지** 를 기록합니다 — 이것이 바로 이 글이 시작된 지점입니다.
 
 ## 여기서 다르지 않은 것
 

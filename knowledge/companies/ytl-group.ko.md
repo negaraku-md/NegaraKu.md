@@ -63,7 +63,7 @@ sources:
   - title: "Malayan Cement: explosive profit growth from infrastructure boom (FY2024 results)"
     url: "https://theedgemalaysia.com/node/772495"
     publisher: "The Edge Malaysia"
-  - title: "RM5.9 Billion Cross-Ministry Allocation To Keep Malaysia At Forefront Of AI Development - PM Anwar"
+  - title: "RM59억 Cross-Ministry Allocation To Keep Malaysia At Forefront Of AI Development - PM Anwar"
     url: "https://www.bernama.com/en/news.php?id=2477137"
     publisher: "Bernama"
   - title: "About YTL Power International Berhad"

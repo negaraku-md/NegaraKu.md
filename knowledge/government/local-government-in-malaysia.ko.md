@@ -17,7 +17,7 @@ keyTakeaways:
   - "지방정부법(Local Government Act 1976, Act 171)은 「지방자치단체(local authority)」를 시의회(City Council), 시자치의회(Municipal Council) 또는 군의회(District Council)로 정의하며, 1976년 3월 18일 국왕 재가를 받았다."
   - "Act 171 제15조는 지방자치 선거에 관한 모든 조항이 「효력을 상실한다」고 규정하며, 이것이 지방의회 선거가 없는 법적 근거이다."
   - "주택지방정부부(KPKT) 지방정부국(JKT)은 151개 지방자치단체를 보고한다 — 시의회/시자치의회 19, 시자치의회 40, 군의회 92(시점 기준 수치이며 공식 집계는 다를 수 있음)."
-  - "시(city) 지위는 인구 50만 명 초과와 연간 세입 최소 RM100 million을 요하며, 시자치(municipal) 지위는 인구 15만 명 초과와 최소 RM20 million을 요한다."
+  - "시(city) 지위는 인구 50만 명 초과와 연간 세입 최소 RM1억을 요하며, 시자치(municipal) 지위는 인구 15만 명 초과와 최소 RM2,000만을 요한다."
   - "시(city)는 시장(Datuk Bandar, Mayor)이, 시자치의회나 군의회는 의장(Yang Dipertua, President)이 이끈다. 헌법 제95A조는 국가 정책을 조정하기 위하여 국가지방정부위원회(National Council for Local Government) — 장관 1명이 위원장, 각 주에서 1명의 대표, 그리고 10명 이하의 연방 대표 — 를 설치한다."
   - "Act 171은 반도 말레이시아(Peninsular Malaysia)에만 적용된다(제1조 제(1)항). 사바(Sabah)는 지방정부 조례(Local Government Ordinance 1961)에 따라, 사라왁(Sarawak)은 지방자치단체 조례(Local Authorities Ordinance 1996, Cap. 20)에 따라 지방자치를 운영한다."
   - "재산 평가세(assessment rate)는 Act 171 제XV편이 규율한다: 부과 권한은 제127조에, 부과 기준(연간 가치 또는 개량 가치)은 제130조에, 연간 가치의 35% 법정 상한은 제130조 제(2)항 (a)호에 있으며, 제133조에 따라 반기별로 납부한다."
@@ -26,7 +26,7 @@ faq:
   - q: "말레이시아에서 지방의회 선거가 실시됩니까?"
     a: "아닙니다. 지방자치 선거는 인도네시아와의 대결(Confrontation) 시기인 1965년 3월 1일에 비상 규정(지방자치 선거 정지)(Emergency (Suspension of Local Government Elections) Regulations 1965)에 의해 정지되었고 복원되지 않았습니다. 선출 의원의 임기는 이후 지방정부(임시 규정)법(Local Government (Temporary Provisions) Act 1973)에 의해 종료되었습니다. 이어 지방정부법(Local Government Act 1976) 제15조가 지방자치 선거에 관한 모든 조항의 효력을 상실시켰습니다. 의원은 주정부가 임명합니다."
   - q: "시의회, 시자치의회, 군의회의 차이는 무엇입니까?"
-    a: "그것들은 규모가 다른 같은 기관입니다. KPKT의 기준은 시의회(City Council)를 인구 50만 명 초과와 연간 세입 최소 RM100 million으로, 시자치의회(Municipal Council)를 인구 15만 명 초과와 최소 RM20 million으로, 군의회(District Council)를 그 기준 미만으로 정합니다. 시(city)는 시장(Datuk Bandar)이, 시자치의회나 군의회는 의장(Yang Dipertua)이 이끕니다."
+    a: "그것들은 규모가 다른 같은 기관입니다. KPKT의 기준은 시의회(City Council)를 인구 50만 명 초과와 연간 세입 최소 RM1억으로, 시자치의회(Municipal Council)를 인구 15만 명 초과와 최소 RM2,000만으로, 군의회(District Council)를 그 기준 미만으로 정합니다. 시(city)는 시장(Datuk Bandar)이, 시자치의회나 군의회는 의장(Yang Dipertua)이 이끕니다."
   - q: "지방자치는 왜 연방이 아니라 주(state)의 사항입니까?"
     a: "연방헌법이 지방자치를 주 목록(제9부칙 제II목록의 제4항목)에 두기 때문입니다. 정책의 일관성을 유지하기 위하여, 제95A조는 연방정부와 주정부가 모두 따라야 하는 국가 정책을 수립하도록 국가지방정부위원회(National Council for Local Government)를 설치합니다."
 lang: "ko"
@@ -104,9 +104,9 @@ keywords: ["local government Malaysia", "PBT", "pihak berkuasa tempatan", "majli
 
 | 유형 | 말레이어 명칭 | 의회 수장 | 인구 | 연간 세입 |
 |---|---|---|---|---|
-| 시의회 | Dewan / Majlis Bandaraya | Datuk Bandar (시장) | 50만 초과 | RM100 million 이상 |
-| 시정의회 | Majlis Perbandaran | Yang Dipertua (의장) | 15만 초과 | RM20 million 이상 |
-| 군의회 | Majlis Daerah | Yang Dipertua (의장) | 15만 미만 | RM20 million 미만 |
+| 시의회 | Dewan / Majlis Bandaraya | Datuk Bandar (시장) | 50만 초과 | RM1억 이상 |
+| 시정의회 | Majlis Perbandaran | Yang Dipertua (의장) | 15만 초과 | RM2,000만 이상 |
+| 군의회 | Majlis Daerah | Yang Dipertua (의장) | 15만 미만 | RM2,000만 미만 |
 
 그 인구 및 세입 기준은 KPKT의 지방정부국이 정합니다. 같은 국의 공개 FAQ에 따르면, 쿠알라룸푸르 시청을 포함하여 전국에 **151개의 지방 당국**이 있으며 — **19개의 시 또는 시-시정의회, 40개의 시정의회, 92개의 군의회**로 이루어집니다. 그 수치는 한 시점의 스냅샷으로 취급하십시오. KPKT 자체 페이지도 때로 약간 다른 총계를 인용한 바 있으므로, 단일 숫자를 인용하기 전에 최신 공식 목록에 비추어 현재 수를 확인하십시오.
 

@@ -101,7 +101,7 @@ keywords:
   - "ICA 1975"
   - "ICA 10 exemption letter"
   - "MIDA manufacturing licence"
-  - "shareholders funds RM2.5 million"
+  - "shareholders funds RM250만"
   - "exempted from manufacturing licence"
 ---
 

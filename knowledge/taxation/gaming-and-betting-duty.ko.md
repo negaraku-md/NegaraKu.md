@@ -56,7 +56,7 @@ sources:
   - title: "How much taxes do gaming companies, NFOs and breweries pay?"
     url: "https://theedgemalaysia.com/article/how-much-taxes-do-gaming-companies-nfos-and-breweries-pay"
     publisher: "The Edge Malaysia"
-  - title: "It pays to dabble in bets and booze as these sectors contribute RM20 billion in revenue"
+  - title: "It pays to dabble in bets and booze as these sectors contribute RM200억 in revenue"
     url: "https://theedgemalaysia.com/article/it-pays-dabble-bets-and-booze-these-sectors-contributes-rm20-billion-revenue"
     publisher: "The Edge Malaysia"
   - title: "Where does a RM2 bet on Sports Toto go?"
