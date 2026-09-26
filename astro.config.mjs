@@ -156,6 +156,29 @@ const redirects = {
   '/ta/government/ma63-sabah-sarawak-autonomy': '/ta/malaysia/ma63',
   '/ja/glossary/dasar-ekonomi-baru': '/ja/malaysia/new-economic-policy',
   '/ta/glossary/dasar-ekonomi-baru': '/ta/malaysia/new-economic-policy',
+  // /ko mirrors of every retired-dupe redirect above (added 2026-09-26 at Korean
+  // open launch; the .ko dupes are archived like their ms/en/zh/ta/ja siblings).
+  '/ko/government/national-registration-department-jpn': '/ko/government/jpn',
+  '/ko/government/ministry-of-investment-trade-industry-miti': '/ko/government/miti',
+  '/ko/glossary/bank-negara-malaysia': '/ko/economy/bank-negara-malaysia',
+  '/ko/government/bank-negara-malaysia': '/ko/economy/bank-negara-malaysia',
+  '/ko/energy/petronas': '/ko/companies/petronas',
+  '/ko/industries/petronas-industry-profile': '/ko/companies/petronas',
+  '/ko/law/personal-data-protection-act-2010': '/ko/law/pdpa-2010',
+  '/ko/business/cyber-security-act-malaysia': '/ko/technology/cyber-security-act-2024',
+  '/ko/companies/pnb-and-asnb': '/ko/economy/pnb',
+  '/ko/glossary/felda': '/ko/agriculture/felda-land-settlement-scheme',
+  '/ko/glossary/orang-asli': '/ko/arts-culture/orang-asli',
+  '/ko/energy/tnb-tenaga-nasional': '/ko/companies/tenaga-nasional',
+  '/ko/companies/khazanah-nasional': '/ko/economy/khazanah',
+  '/ko/glossary/khazanah-nasional': '/ko/economy/khazanah',
+  '/ko/economy/deposit-insurance-pidm': '/ko/finance/pidm-deposit-and-takaful-insurance-protection',
+  '/ko/glossary/polis-diraja-malaysia': '/ko/government/pdrm',
+  '/ko/public-safety/royal-malaysia-police-pdrm': '/ko/government/pdrm',
+  '/ko/glossary/suruhanjaya-pilihan-raya': '/ko/government/spr-election-commission',
+  '/ko/technology/mcmc-malaysia': '/ko/government/mcmc-communications-multimedia-commission',
+  '/ko/government/ma63-sabah-sarawak-autonomy': '/ko/malaysia/ma63',
+  '/ko/glossary/dasar-ekonomi-baru': '/ko/malaysia/new-economic-policy',
 };
 
 export default defineConfig({
