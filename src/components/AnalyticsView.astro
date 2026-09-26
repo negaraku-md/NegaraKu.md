@@ -52,12 +52,12 @@ const aiTopMax = Math.max(1, ...aiTop.map((x) => x.total));
 // messaging / other / direct), classified from the referrer + UTM at the edge
 // and folded per page. Same all-time snapshot machinery as the buckets above.
 const CHANNEL_META: Record<string, { label: string; icon: string }> = {
-  search: { label: L('Carian', 'Search', '搜索', 'தேடல்', '検索', '검색'), icon: '🔍' },
-  ai: { label: L('Pembantu AI', 'AI assistants', 'AI 助手', 'AI உதவியாளர்கள்', 'AI アシスタント', 'AI 어시스턴트'), icon: '✨' },
-  social: { label: L('Media sosial', 'Social', '社交媒体', 'சமூக ஊடகம்', 'ソーシャル', '소셜 미디어'), icon: '💬' },
-  messaging: { label: L('Pemesejan', 'Messaging', '即时通讯', 'செய்தியிடல்', 'メッセージング', '메시징'), icon: '📨' },
-  other: { label: L('Laman lain', 'Other sites', '其他网站', 'பிற தளங்கள்', 'その他のサイト', '기타 사이트'), icon: '🌐' },
-  direct: { label: L('Terus', 'Direct', '直接访问', 'நேரடி', '直接', '직접'), icon: '⤵' },
+  search: { label: L('Carian', 'Search', '搜索', 'தேடல்', '検索', '검색', 'การค้นหา'), icon: '🔍' },
+  ai: { label: L('Pembantu AI', 'AI assistants', 'AI 助手', 'AI உதவியாளர்கள்', 'AI アシスタント', 'AI 어시스턴트', 'ผู้ช่วย AI'), icon: '✨' },
+  social: { label: L('Media sosial', 'Social', '社交媒体', 'சமூக ஊடகம்', 'ソーシャル', '소셜 미디어', 'โซเชียลมีเดีย'), icon: '💬' },
+  messaging: { label: L('Pemesejan', 'Messaging', '即时通讯', 'செய்தியிடல்', 'メッセージング', '메시징', 'การส่งข้อความ'), icon: '📨' },
+  other: { label: L('Laman lain', 'Other sites', '其他网站', 'பிற தளங்கள்', 'その他のサイト', '기타 사이트', 'เว็บไซต์อื่น'), icon: '🌐' },
+  direct: { label: L('Terus', 'Direct', '直接访问', 'நேரடி', '直接', '직접', 'โดยตรง'), icon: '⤵' },
 };
 const CH_ORDER = ['search', 'ai', 'social', 'messaging', 'other', 'direct'];
 const refByChannel = new Map<string, number>();
@@ -164,18 +164,18 @@ const seoMonths = Object.entries(gsc.byMonth ?? {})
   .map(([month, m]) => ({ month, impressions: m.impressions ?? 0, clicks: m.clicks ?? 0 }));
 const hasTrend = trendDays.length >= 2;
 const metricLabels = {
-  visitors: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者', '독자'),
-  ai: L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー', 'AI 크롤러'),
-  search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー', '검색 크롤러'),
+  visitors: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน'),
+  ai: L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー', 'AI 크롤러', 'โปรแกรมรวบรวมข้อมูล AI'),
+  search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー', '검색 크롤러', 'โปรแกรมรวบรวมข้อมูลการค้นหา'),
 };
-const seoLabels = { impressions: L('Tera', 'Impressions', '展示', 'காட்சிகள்', '表示', '노출'), clicks: L('Klik', 'Clicks', '点击', 'கிளிக்குகள்', 'クリック', '클릭') };
+const seoLabels = { impressions: L('Tera', 'Impressions', '展示', 'காட்சிகள்', '表示', '노출', 'การแสดงผล'), clicks: L('Klik', 'Clicks', '点击', 'கிளிக்குகள்', 'クリック', '클릭', 'การคลิก') };
 const aiBotAccruing = L(
   'Data setiap bot mula terkumpul — carta muncul apabila cukup hari direkodkan.',
   'Per-bot data is accumulating — the chart appears once enough days are recorded.',
   '各爬虫数据正在积累——记录到足够天数后图表即会显示。',
   'ஒவ்வொரு bot தரவும் சேர்ந்து வருகிறது — போதிய நாட்கள் பதிவானதும் விளக்கப்படம் தோன்றும்.',
   'ボット別データを蓄積中です — 十分な日数が記録されるとグラフが表示されます。',
-  '봇별 데이터가 누적되고 있습니다 — 충분한 일수가 기록되면 차트가 표시됩니다.',
+  '봇별 데이터가 누적되고 있습니다 — 충분한 일수가 기록되면 차트가 표시됩니다.', 'ข้อมูลแยกตามบอตกำลังสะสม — กราฟจะปรากฏเมื่อมีการบันทึกจำนวนวันเพียงพอ',
 );
 const trendJSON = JSON.stringify({ days: trendDays, chColors: CHANNEL_COLORS, chLabels, chOrder: CH_ORDER, langColors: LANG_COLORS, langLabels, langOrder: LANG_ORDER, seo: seoMonths, metricLabels, seoLabels, aiBotAccruing });
 
@@ -217,18 +217,18 @@ const pivotJSON = JSON.stringify({
   rows: pivotRows,
   channels: pivotChannels,
   dims: {
-    pillar: L('Tunjang', 'Pillar', '支柱', 'தூண்', '柱', '기둥'),
-    cat: L('Kategori', 'Category', '分类', 'வகை', 'カテゴリー', '카테고리'),
-    title: L('Artikel', 'Article', '文章', 'கட்டுரை', '記事', '기사'),
+    pillar: L('Tunjang', 'Pillar', '支柱', 'தூண்', '柱', '기둥', 'เสาหลัก'),
+    cat: L('Kategori', 'Category', '分类', 'வகை', 'カテゴリー', '카테고리', 'หมวดหมู่'),
+    title: L('Artikel', 'Article', '文章', 'கட்டுரை', '記事', '기사', 'บทความ'),
   },
   measures: {
-    readers: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者', '독자'),
-    ai: L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー', 'AI 크롤러'),
-    search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー', '검색 크롤러'),
-    dwell: L('Purata masa', 'Avg dwell', '平均停留', 'சராசரி நேரம்', '平均滞在', '평균 체류 시간'),
+    readers: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน'),
+    ai: L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー', 'AI 크롤러', 'โปรแกรมรวบรวมข้อมูล AI'),
+    search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー', '검색 크롤러', 'โปรแกรมรวบรวมข้อมูลการค้นหา'),
+    dwell: L('Purata masa', 'Avg dwell', '平均停留', 'சராசரி நேரம்', '平均滞在', '평균 체류 시간', 'เวลาเฉลี่ย'),
   },
-  allLabel: L('Semua saluran', 'All channels', '所有渠道', 'அனைத்து சேனல்கள்', '全チャネル', '전체 채널'),
-  chOnlyNote: L('Penapis saluran hanya untuk Pembaca.', 'Channel filter applies to Readers only.', '渠道筛选仅适用于读者。', 'சேனல் வடிகட்டி வாசகர்களுக்கு மட்டும்.', 'チャネル絞り込みは読者のみ。', '채널 필터는 독자에만 적용됩니다.'),
+  allLabel: L('Semua saluran', 'All channels', '所有渠道', 'அனைத்து சேனல்கள்', '全チャネル', '전체 채널', 'ทุกช่องทาง'),
+  chOnlyNote: L('Penapis saluran hanya untuk Pembaca.', 'Channel filter applies to Readers only.', '渠道筛选仅适用于读者。', 'சேனல் வடிகட்டி வாசகர்களுக்கு மட்டும்.', 'チャネル絞り込みは読者のみ。', '채널 필터는 독자에만 적용됩니다.', 'ตัวกรองช่องทางใช้กับผู้อ่านเท่านั้น'),
 });
 
 // --- Traffic explorer (Cloudflare-style, configurable + filterable) ----------
@@ -247,38 +247,38 @@ const clicksTotal = (gscTotals?.clicks ?? 0) + (bingT?.clicks ?? 0);
 const aeTitles: Record<string, string> = {};
 for (const [key] of (rcube.paths ?? [])) if (!(key in aeTitles)) aeTitles[key] = titleByKey.get(key) ?? key;
 const exLabels = {
-  explorer: L('Penjelajah trafik', 'Traffic explorer', '流量浏览器', 'போக்குவரத்து ஆய்வி', 'トラフィックエクスプローラ', '트래픽 탐색기'),
-  srcCf: L('Semua trafik · Cloudflare', 'All traffic · Cloudflare', '全部流量 · Cloudflare', 'அனைத்து போக்குவரத்து · Cloudflare', '全トラフィック · Cloudflare', '전체 트래픽 · Cloudflare'),
-  srcAe: L('Pembaca · terkurasi', 'Readers · curated', '读者 · 精选', 'வாசகர்கள் · தொகுக்கப்பட்டது', '読者 · 厳選', '독자 · 선별'),
-  addFilter: L('Tambah penapis', 'Add filter', '添加筛选', 'வடிப்பான் சேர்', 'フィルタを追加', '필터 추가'),
-  clear: L('Kosongkan', 'Clear', '清除', 'அழி', 'クリア', '지우기'),
-  addPanel: L('Tambah panel', 'Add panel', '添加面板', 'பலகம் சேர்', 'パネルを追加', '패널 추가'),
-  configure: L('Konfigur', 'Configure', '配置', 'கட்டமை', '設定', '설정'),
-  duplicate: L('Gandakan', 'Duplicate', '复制', 'நகல்', '複製', '복제'),
-  remove: L('Buang', 'Remove', '移除', 'நீக்கு', '削除', '제거'),
-  viewAs: L('Papar sebagai', 'View as', '显示为', 'இப்படி காட்டு', '表示形式', '표시 형식'),
-  bars: L('Bar', 'Bars', '条形', 'பட்டைகள்', 'バー', '막대'),
-  donut: L('Donat', 'Donut', '环形', 'டோனட்', 'ドーナツ', '도넛'),
-  measure: L('Ukuran', 'Measure', '度量', 'அளவை', '指標', '지표'),
-  requests: L('Permintaan', 'Requests', '请求', 'கோரிக்கைகள்', 'リクエスト', '요청'),
-  visits: L('Lawatan', 'Visits', '访问', 'வருகைகள்', '訪問', '방문'),
-  visitors: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者', '독자'),
-  impressions: L('Tera', 'Impressions', '展示', 'காட்சிகள்', '表示', '노출'),
-  clicks: L('Klik', 'Clicks', '点击', 'கிளிக்குகள்', 'クリック', '클릭'),
-  others: L('Lain-lain', 'Others', '其他', 'மற்றவை', 'その他', '기타'),
-  none: L('(tiada)', '(none)', '(无)', '(இல்லை)', '(なし)', '(없음)'),
-  allTime: L('sepanjang masa', 'all-time', '累计', 'எல்லா காலமும்', '累計', '전체 기간'),
-  last90: L('90 hari', '90 days', '90 天', '90 நாட்கள்', '90日間', '90일'),
-  window24: L('tetingkap semasa', 'current window', '当前时段', 'தற்போதைய சாளரம்', '現在の期間', '현재 기간'),
+  explorer: L('Penjelajah trafik', 'Traffic explorer', '流量浏览器', 'போக்குவரத்து ஆய்வி', 'トラフィックエクスプローラ', '트래픽 탐색기', 'เครื่องมือสำรวจทราฟฟิก'),
+  srcCf: L('Semua trafik · Cloudflare', 'All traffic · Cloudflare', '全部流量 · Cloudflare', 'அனைத்து போக்குவரத்து · Cloudflare', '全トラフィック · Cloudflare', '전체 트래픽 · Cloudflare', 'ทราฟฟิกทั้งหมด · Cloudflare'),
+  srcAe: L('Pembaca · terkurasi', 'Readers · curated', '读者 · 精选', 'வாசகர்கள் · தொகுக்கப்பட்டது', '読者 · 厳選', '독자 · 선별', 'ผู้อ่าน · คัดสรร'),
+  addFilter: L('Tambah penapis', 'Add filter', '添加筛选', 'வடிப்பான் சேர்', 'フィルタを追加', '필터 추가', 'เพิ่มตัวกรอง'),
+  clear: L('Kosongkan', 'Clear', '清除', 'அழி', 'クリア', '지우기', 'ล้าง'),
+  addPanel: L('Tambah panel', 'Add panel', '添加面板', 'பலகம் சேர்', 'パネルを追加', '패널 추가', 'เพิ่มแผง'),
+  configure: L('Konfigur', 'Configure', '配置', 'கட்டமை', '設定', '설정', 'กำหนดค่า'),
+  duplicate: L('Gandakan', 'Duplicate', '复制', 'நகல்', '複製', '복제', 'ทำสำเนา'),
+  remove: L('Buang', 'Remove', '移除', 'நீக்கு', '削除', '제거', 'นำออก'),
+  viewAs: L('Papar sebagai', 'View as', '显示为', 'இப்படி காட்டு', '表示形式', '표시 형식', 'แสดงเป็น'),
+  bars: L('Bar', 'Bars', '条形', 'பட்டைகள்', 'バー', '막대', 'แท่ง'),
+  donut: L('Donat', 'Donut', '环形', 'டோனட்', 'ドーナツ', '도넛', 'โดนัท'),
+  measure: L('Ukuran', 'Measure', '度量', 'அளவை', '指標', '지표', 'หน่วยวัด'),
+  requests: L('Permintaan', 'Requests', '请求', 'கோரிக்கைகள்', 'リクエスト', '요청', 'คำขอ'),
+  visits: L('Lawatan', 'Visits', '访问', 'வருகைகள்', '訪問', '방문', 'การเข้าชม'),
+  visitors: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน'),
+  impressions: L('Tera', 'Impressions', '展示', 'காட்சிகள்', '表示', '노출', 'การแสดงผล'),
+  clicks: L('Klik', 'Clicks', '点击', 'கிளிக்குகள்', 'クリック', '클릭', 'การคลิก'),
+  others: L('Lain-lain', 'Others', '其他', 'மற்றவை', 'その他', '기타', 'อื่นๆ'),
+  none: L('(tiada)', '(none)', '(无)', '(இல்லை)', '(なし)', '(없음)', '(ไม่มี)'),
+  allTime: L('sepanjang masa', 'all-time', '累计', 'எல்லா காலமும்', '累計', '전체 기간', 'ตลอดกาล'),
+  last90: L('90 hari', '90 days', '90 天', '90 நாட்கள்', '90日間', '90일', '90 วัน'),
+  window24: L('tetingkap semasa', 'current window', '当前时段', 'தற்போதைய சாளரம்', '現在の期間', '현재 기간', 'ช่วงเวลาปัจจุบัน'),
   dims: {
-    country: L('Negara', 'Country', '国家/地区', 'நாடு', '国', '국가'),
-    device: L('Peranti', 'Device', '设备', 'சாதனம்', 'デバイス', '기기'),
-    browser: L('Pelayar', 'Browser', '浏览器', 'உலாவி', 'ブラウザ', '브라우저'),
-    os: L('Sistem operasi', 'OS', '操作系统', 'OS', 'OS', 'OS'),
-    page: L('Halaman', 'Page', '页面', 'பக்கம்', 'ページ', '페이지'),
-    status: L('Kod status', 'Status code', '状态码', 'நிலைக் குறியீடு', 'ステータス', '상태 코드'),
-    cache: L('Cache', 'Cache', '缓存', 'கேச்', 'キャッシュ', '캐시'),
-    proto: L('Protokol HTTP', 'HTTP protocol', 'HTTP 协议', 'HTTP நெறிமுறை', 'HTTPプロトコル', 'HTTP 프로토콜'),
+    country: L('Negara', 'Country', '国家/地区', 'நாடு', '国', '국가', 'ประเทศ'),
+    device: L('Peranti', 'Device', '设备', 'சாதனம்', 'デバイス', '기기', 'อุปกรณ์'),
+    browser: L('Pelayar', 'Browser', '浏览器', 'உலாவி', 'ブラウザ', '브라우저', 'เบราว์เซอร์'),
+    os: L('Sistem operasi', 'OS', '操作系统', 'OS', 'OS', 'OS', 'ระบบปฏิบัติการ'),
+    page: L('Halaman', 'Page', '页面', 'பக்கம்', 'ページ', '페이지', 'หน้า'),
+    status: L('Kod status', 'Status code', '状态码', 'நிலைக் குறியீடு', 'ステータス', '상태 코드', 'รหัสสถานะ'),
+    cache: L('Cache', 'Cache', '缓存', 'கேச்', 'キャッシュ', '캐시', 'แคช'),
+    proto: L('Protokol HTTP', 'HTTP protocol', 'HTTP 协议', 'HTTP நெறிமுறை', 'HTTPプロトコル', 'HTTP 프로토콜', 'โปรโตคอล HTTP'),
   },
   cfNote: L(
     'Cloudflare mengira SEMUA permintaan (termasuk bot & aset) dalam tetingkap terkini — kaya tetapi bising.',
@@ -286,7 +286,7 @@ const exLabels = {
     'Cloudflare 统计当前时段内的所有请求（含爬虫和资源）——丰富但含噪。',
     'Cloudflare தற்போதைய சாளரத்தில் அனைத்து கோரிக்கைகளையும் (bots & assets உட்பட) எண்ணுகிறது — செழுமையானது ஆனால் இரைச்சல்.',
     'Cloudflare は現在の期間の全リクエスト（ボット・アセット含む）を集計 — 豊富だがノイズあり。',
-    'Cloudflare는 현재 기간의 모든 요청(봇 및 자산 포함)을 집계합니다 — 풍부하지만 노이즈가 있습니다.',
+    'Cloudflare는 현재 기간의 모든 요청(봇 및 자산 포함)을 집계합니다 — 풍부하지만 노이즈가 있습니다.', 'Cloudflare นับคำขอทั้งหมด (รวมบอตและแอสเซต) ในช่วงเวลาปัจจุบัน — ข้อมูลมากแต่มีสัญญาณรบกวน',
   ),
   aeNote: L(
     'Pembaca manusia sahaja (bot ditapis) — geo/peranti mula terkumpul dari edge.',
@@ -294,7 +294,7 @@ const exLabels = {
     '仅人类读者（已过滤爬虫）——地理/设备数据正从边缘积累。',
     'மனித வாசகர்கள் மட்டும் (bots வடிகட்டப்பட்டது) — geo/சாதனம் edge-இல் இருந்து சேர்ந்து வருகிறது.',
     '人間の読者のみ（ボット除外）— geo/デバイスはエッジから蓄積中。',
-    '사람 독자만 (봇 필터링됨) — 지역/기기 데이터가 엣지에서 누적되고 있습니다.',
+    '사람 독자만 (봇 필터링됨) — 지역/기기 데이터가 엣지에서 누적되고 있습니다.', 'เฉพาะผู้อ่านที่เป็นมนุษย์ (กรองบอตออก) — ข้อมูลภูมิศาสตร์/อุปกรณ์กำลังสะสมจาก edge',
   ),
   emptyCf: L(
     'Snapshot Cloudflare belum tersambung — tetapkan CF_ZONE_ID + skop token "Zone Analytics: Read".',
@@ -302,10 +302,10 @@ const exLabels = {
     '尚未连接 Cloudflare 快照——请设置 CF_ZONE_ID 及令牌权限 "Zone Analytics: Read"。',
     'Cloudflare ஸ்னாப்ஷாட் இணைக்கப்படவில்லை — CF_ZONE_ID + token "Zone Analytics: Read" அமைக்கவும்.',
     'Cloudflare スナップショット未接続 — CF_ZONE_ID とトークン権限 "Zone Analytics: Read" を設定してください。',
-    'Cloudflare 스냅샷이 아직 연결되지 않았습니다 — CF_ZONE_ID 및 토큰 범위 "Zone Analytics: Read"를 설정하세요.',
+    'Cloudflare 스냅샷이 아직 연결되지 않았습니다 — CF_ZONE_ID 및 토큰 범위 "Zone Analytics: Read"를 설정하세요.', 'สแนปช็อต Cloudflare ยังไม่ได้เชื่อมต่อ — ตั้งค่า CF_ZONE_ID + ขอบเขตโทเค็น "Zone Analytics: Read"',
   ),
-  updated: L('Dikemas kini', 'Updated', '更新于', 'புதுப்பிக்கப்பட்டது', '更新', '업데이트됨'),
-  seedNote: L('(data contoh — segar apabila CI berjalan)', '(sample data — refreshes when CI runs)', '（示例数据——CI 运行后刷新）', '(மாதிரி தரவு — CI இயங்கும்போது புதுப்பிக்கும்)', '(サンプルデータ — CI 実行時に更新)', '(샘플 데이터 — CI 실행 시 갱신됨)'),
+  updated: L('Dikemas kini', 'Updated', '更新于', 'புதுப்பிக்கப்பட்டது', '更新', '업데이트됨', 'อัปเดตแล้ว'),
+  seedNote: L('(data contoh — segar apabila CI berjalan)', '(sample data — refreshes when CI runs)', '（示例数据——CI 运行后刷新）', '(மாதிரி தரவு — CI இயங்கும்போது புதுப்பிக்கும்)', '(サンプルデータ — CI 実行時に更新)', '(샘플 데이터 — CI 실행 시 갱신됨)', '(ข้อมูลตัวอย่าง — รีเฟรชเมื่อ CI ทำงาน)'),
 };
 const explorerJSON = JSON.stringify({
   locale,
@@ -323,49 +323,49 @@ const explorerJSON = JSON.stringify({
 const liveL = {
   dims: {
     country: exLabels.dims.country,
-    region: L('Negeri / Wilayah', 'State / Region', '州/地区', 'மாநிலம்', '州/地域', '주/지역'),
-    city: L('Bandar', 'City', '城市', 'நகரம்', '市', '도시'),
+    region: L('Negeri / Wilayah', 'State / Region', '州/地区', 'மாநிலம்', '州/地域', '주/지역', 'รัฐ / ภูมิภาค'),
+    city: L('Bandar', 'City', '城市', 'நகரம்', '市', '도시', 'เมือง'),
     device: exLabels.dims.device, browser: exLabels.dims.browser, os: exLabels.dims.os,
-    locale: L('Bahasa', 'Language', '语言', 'மொழி', '言語', '언어'),
-    channel: L('Saluran', 'Channel', '渠道', 'சேனல்', 'チャネル', '채널'),
-    source: L('Sumber', 'Source', '来源', 'மூலம்', 'ソース', '소스'),
-    bot: L('Bot', 'Bot', '爬虫', 'பாட்', 'ボット', '봇'),
+    locale: L('Bahasa', 'Language', '语言', 'மொழி', '言語', '언어', 'ภาษา'),
+    channel: L('Saluran', 'Channel', '渠道', 'சேனல்', 'チャネル', '채널', 'ช่องทาง'),
+    source: L('Sumber', 'Source', '来源', 'மூலம்', 'ソース', '소스', 'แหล่งที่มา'),
+    bot: L('Bot', 'Bot', '爬虫', 'பாட்', 'ボット', '봇', 'บอต'),
     path: exLabels.dims.page,
   },
   buckets: {
-    all: L('Semua hit', 'All hits', '所有', 'அனைத்தும்', 'すべて', '전체 히트'),
+    all: L('Semua hit', 'All hits', '所有', 'அனைத்தும்', 'すべて', '전체 히트', 'ฮิตทั้งหมด'),
     readers: exLabels.visitors,
-    search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー', '검색 크롤러'),
-    ai: L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー', 'AI 크롤러'),
+    search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー', '검색 크롤러', 'โปรแกรมรวบรวมข้อมูลการค้นหา'),
+    ai: L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー', 'AI 크롤러', 'โปรแกรมรวบรวมข้อมูล AI'),
   },
   ui: {
-    title: L('Kueri langsung', 'Live query', '实时查询', 'நேரடி வினவல்', 'ライブクエリ', '실시간 쿼리'),
+    title: L('Kueri langsung', 'Live query', '实时查询', 'நேரடி வினவல்', 'ライブクエリ', '실시간 쿼리', 'การสืบค้นแบบสด'),
     intro: L(
       'Kumpul mengikut mana-mana dimensi, terus dari Analytics Engine (masa nyata, kontributor sahaja).',
       'Group by any dimension, straight from Analytics Engine (real-time, contributors only).',
       '直接从 Analytics Engine 按任意维度分组（实时，仅限贡献者）。',
       'Analytics Engine இலிருந்து நேரடியாக எந்த பரிமாணத்திலும் தொகுக்கவும் (நிகழ்நேரம், பங்களிப்பாளர்கள் மட்டும்).',
       'Analytics Engine から任意のディメンションでグループ化（リアルタイム・コントリビューター限定）。',
-      'Analytics Engine에서 바로 임의의 차원으로 그룹화합니다 (실시간, 기여자 전용).',
+      'Analytics Engine에서 바로 임의의 차원으로 그룹화합니다 (실시간, 기여자 전용).', 'จัดกลุ่มตามมิติใดก็ได้ โดยตรงจาก Analytics Engine (เรียลไทม์ เฉพาะผู้ร่วมสร้างเท่านั้น)',
     ),
-    dimsL: L('Dimensi (maks 3)', 'Dimensions (max 3)', '维度（最多 3）', 'பரிமாணங்கள் (அதிகபட்சம் 3)', 'ディメンション（最大3）', '차원 (최대 3)'),
-    audience: L('Khalayak', 'Audience', '受众', 'பார்வையாளர்', '対象', '대상'),
-    range: L('Julat', 'Range', '范围', 'வரம்பு', '範囲', '범위'),
-    run: L('Jalankan', 'Run', '运行', 'இயக்கு', '実行', '실행'),
-    running: L('Menjalankan…', 'Running…', '运行中…', 'இயங்குகிறது…', '実行中…', '실행 중…'),
-    empty: L('Tiada baris.', 'No rows.', '无数据行。', 'வரிசைகள் இல்லை.', '行がありません。', '행이 없습니다.'),
+    dimsL: L('Dimensi (maks 3)', 'Dimensions (max 3)', '维度（最多 3）', 'பரிமாணங்கள் (அதிகபட்சம் 3)', 'ディメンション（最大3）', '차원 (최대 3)', 'มิติ (สูงสุด 3)'),
+    audience: L('Khalayak', 'Audience', '受众', 'பார்வையாளர்', '対象', '대상', 'กลุ่มเป้าหมาย'),
+    range: L('Julat', 'Range', '范围', 'வரம்பு', '範囲', '범위', 'ช่วง'),
+    run: L('Jalankan', 'Run', '运行', 'இயக்கு', '実行', '실행', 'เรียกใช้'),
+    running: L('Menjalankan…', 'Running…', '运行中…', 'இயங்குகிறது…', '実行中…', '실행 중…', 'กำลังเรียกใช้…'),
+    empty: L('Tiada baris.', 'No rows.', '无数据行。', 'வரிசைகள் இல்லை.', '行がありません。', '행이 없습니다.', 'ไม่มีแถว'),
     err: L(
       'Kueri gagal — tersedia untuk kontributor di laman langsung.',
       'Query failed — available to contributors on the live site.',
       '查询失败——在线站点上向贡献者开放。',
       'வினவல் தோல்வி — நேரடி தளத்தில் பங்களிப்பாளர்களுக்கு மட்டும்.',
       'クエリ失敗 — 本番サイトでコントリビューター向けに利用可能。',
-      '쿼리 실패 — 라이브 사이트에서 기여자에게 제공됩니다.',
+      '쿼리 실패 — 라이브 사이트에서 기여자에게 제공됩니다.', 'การสืบค้นล้มเหลว — ใช้งานได้สำหรับผู้ร่วมสร้างบนเว็บไซต์จริง',
     ),
-    days7: L('7 hari', '7 days', '7 天', '7 நாட்கள்', '7日', '7일'),
-    days30: L('30 hari', '30 days', '30 天', '30 நாட்கள்', '30日', '30일'),
-    days90: L('90 hari', '90 days', '90 天', '90 நாட்கள்', '90日', '90일'),
-    generated: L('Dijana', 'Generated', '生成于', 'உருவாக்கப்பட்டது', '生成', '생성됨'),
+    days7: L('7 hari', '7 days', '7 天', '7 நாட்கள்', '7日', '7일', '7 วัน'),
+    days30: L('30 hari', '30 days', '30 天', '30 நாட்கள்', '30日', '30일', '30 วัน'),
+    days90: L('90 hari', '90 days', '90 天', '90 நாட்கள்', '90日', '90일', '90 วัน'),
+    generated: L('Dijana', 'Generated', '生成于', 'உருவாக்கப்பட்டது', '生成', '생성됨', 'สร้างเมื่อ'),
   },
 };
 const liveJSON = JSON.stringify(liveL);
@@ -377,7 +377,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก'), href: localePath('/', locale) },
     { label: t('nav.analytics', locale) },
   ]}
   title={t('nav.analytics', locale)}
@@ -387,7 +387,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     '世界如何发现 NegaraKu.md——渠道、搜索、AI、社交媒体与读者参与。',
     'உலகம் NegaraKu.md-ஐ எப்படிக் கண்டறிகிறது — சேனல்கள், தேடல், AI, சமூக ஊடகம் மற்றும் வாசக ஈடுபாடு.',
     '世界が NegaraKu.md をどう見つけているか — チャネル、検索、AI、ソーシャル、読者エンゲージメント。',
-    '세계가 NegaraKu.md를 어떻게 발견하는가 — 채널, 검색, AI, 소셜 및 독자 참여.',
+    '세계가 NegaraKu.md를 어떻게 발견하는가 — 채널, 검색, AI, 소셜 및 독자 참여.', 'โลกค้นพบ NegaraKu.md ได้อย่างไร — ช่องทาง การค้นหา AI โซเชียลมีเดีย และการมีส่วนร่วมของผู้อ่าน',
   )}
 />
 
@@ -725,14 +725,14 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
       '趋势数据刚开始采集——随着访问、搜索与来源随时间积累，图表将逐步填充。',
       'போக்கு சேகரிப்பு இப்போது தொடங்கியது — வருகைகள், தேடல்கள் மற்றும் பரிந்துரைகள் காலப்போக்கில் சேரும்போது விளக்கப்படங்கள் நிரம்பும்.',
       'トレンドの収集が始まったばかりです — 訪問・検索・参照が時間とともに蓄積されるにつれ、グラフが埋まります。',
-      '트렌드 수집이 막 시작되었습니다 — 방문, 검색, 유입이 시간이 지나며 누적됨에 따라 차트가 채워집니다.',
+      '트렌드 수집이 막 시작되었습니다 — 방문, 검색, 유입이 시간이 지나며 누적됨에 따라 차트가 채워집니다.', 'การเก็บรวบรวมข้อมูลแนวโน้มเพิ่งเริ่มต้น — กราฟจะเติมเต็มเมื่อการเข้าชม การค้นหา และการอ้างอิงสะสมมากขึ้นเมื่อเวลาผ่านไป',
     )}</p>
   </section>
 )}
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Trend dari masa ke masa', 'Trends over time', '随时间变化的趋势', 'காலப்போக்கில் போக்குகள்', '時系列トレンド', '시간별 트렌드')}</span></header>
+    <header><span>{L('Trend dari masa ke masa', 'Trends over time', '随时间变化的趋势', 'காலப்போக்கில் போக்குகள்', '時系列トレンド', '시간별 트렌드', 'แนวโน้มตามช่วงเวลา')}</span></header>
     <div class="psec-body">
       {!hasTrend ? (
         <p class="hint">{L(
@@ -741,29 +741,29 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
           '每日趋势正在积累——记录到至少两天数据后图表即会显示。',
           'தினசரி போக்குகள் சேர்ந்து வருகின்றன — குறைந்தது இரண்டு நாட்கள் தரவு பதிவானதும் விளக்கப்படம் தோன்றும்.',
           '日次トレンドを蓄積中です — 2日分以上のデータが記録されるとグラフが表示されます。',
-          '일별 트렌드가 누적되고 있습니다 — 최소 이틀 분량의 데이터가 기록되면 차트가 표시됩니다.',
+          '일별 트렌드가 누적되고 있습니다 — 최소 이틀 분량의 데이터가 기록되면 차트가 표시됩니다.', 'แนวโน้มรายวันกำลังสะสม — กราฟจะปรากฏเมื่อมีการบันทึกข้อมูลอย่างน้อยสองวัน',
         )}</p>
       ) : (
         <>
           <div class="tr-ranges" role="group" aria-label="range">
-            <button type="button" class="tr-btn is-on" data-range="30">30{L('h', 'd', '天', 'நா', '日', '일')}</button>
-            <button type="button" class="tr-btn" data-range="90">90{L('h', 'd', '天', 'நா', '日', '일')}</button>
-            <button type="button" class="tr-btn" data-range="all">{L('Semua', 'All', '全部', 'அனைத்தும்', 'すべて', '전체')}</button>
+            <button type="button" class="tr-btn is-on" data-range="30">30{L('h', 'd', '天', 'நா', '日', '일', 'วัน')}</button>
+            <button type="button" class="tr-btn" data-range="90">90{L('h', 'd', '天', 'நா', '日', '일', 'วัน')}</button>
+            <button type="button" class="tr-btn" data-range="all">{L('Semua', 'All', '全部', 'அனைத்தும்', 'すべて', '전체', 'ทั้งหมด')}</button>
           </div>
-          <p class="ai-h">{L('Pembaca, perayap AI & carian setiap hari', 'Readers, AI & search crawlers per day', '每日读者、AI 与搜索爬虫', 'தினசரி வாசகர்கள், AI & தேடல்', '日次の読者・AI・検索クローラー', '일별 독자, AI 및 검색 크롤러')}</p>
+          <p class="ai-h">{L('Pembaca, perayap AI & carian setiap hari', 'Readers, AI & search crawlers per day', '每日读者、AI 与搜索爬虫', 'தினசரி வாசகர்கள், AI & தேடல்', '日次の読者・AI・検索クローラー', '일별 독자, AI 및 검색 크롤러', 'ผู้อ่าน โปรแกรมรวบรวมข้อมูล AI และการค้นหา ต่อวัน')}</p>
           <div id="chart-daily" class="chart"></div>
           <div id="legend-daily" class="chart-legend"></div>
-          <p class="ai-h chan-h">{L('Trafik mengikut saluran — julat dipilih', 'Traffic by channel — selected range', '各渠道流量——所选范围', 'சேனல் வாரியான போக்குவரத்து — தேர்ந்த வரம்பு', 'チャネル別トラフィック — 選択範囲', '채널별 트래픽 — 선택 범위')}</p>
+          <p class="ai-h chan-h">{L('Trafik mengikut saluran — julat dipilih', 'Traffic by channel — selected range', '各渠道流量——所选范围', 'சேனல் வாரியான போக்குவரத்து — தேர்ந்த வரம்பு', 'チャネル別トラフィック — 選択範囲', '채널별 트래픽 — 선택 범위', 'ทราฟฟิกตามช่องทาง — ช่วงที่เลือก')}</p>
           <div id="chan-bars" class="cov-cats"><p class="hint" style="margin:0">—</p></div>
-          <p class="ai-h chan-h">{L('Pembaca mengikut bahasa', 'Readers by language', '各语言读者', 'மொழி வாரியான வாசகர்கள்', '言語別の読者', '언어별 독자')}</p>
+          <p class="ai-h chan-h">{L('Pembaca mengikut bahasa', 'Readers by language', '各语言读者', 'மொழி வாரியான வாசகர்கள்', '言語別の読者', '언어별 독자', 'ผู้อ่านตามภาษา')}</p>
           <div id="chart-lang" class="chart"></div>
           <div id="legend-lang" class="chart-legend"></div>
-          <p class="ai-h chan-h">{L('Perayap AI mengikut bot — dari masa ke masa', 'AI crawlers by bot — over time', '各 AI 爬虫随时间变化', 'AI கிராலர்கள் bot வாரியாக — காலப்போக்கில்', 'AIクローラー別（時系列）', '봇별 AI 크롤러 — 시간별')}</p>
+          <p class="ai-h chan-h">{L('Perayap AI mengikut bot — dari masa ke masa', 'AI crawlers by bot — over time', '各 AI 爬虫随时间变化', 'AI கிராலர்கள் bot வாரியாக — காலப்போக்கில்', 'AIクローラー別（時系列）', '봇별 AI 크롤러 — 시간별', 'โปรแกรมรวบรวมข้อมูล AI ตามบอต — ตามช่วงเวลา')}</p>
           <div id="chart-aibot" class="chart"></div>
           <div id="legend-aibot" class="chart-legend"></div>
         </>
       )}
-      <p class="ai-h chan-h">{L('Prestasi carian mengikut bulan', 'Search performance by month', '按月搜索表现', 'மாதவாரி தேடல் செயல்திறன்', '月別の検索パフォーマンス', '월별 검색 성과')}</p>
+      <p class="ai-h chan-h">{L('Prestasi carian mengikut bulan', 'Search performance by month', '按月搜索表现', 'மாதவாரி தேடல் செயல்திறன்', '月別の検索パフォーマンス', '월별 검색 성과', 'ประสิทธิภาพการค้นหาตามเดือน')}</p>
       {seoMonths.length < 2 ? (
         <p class="hint" style="margin:0">{L(
           `Sekurang-kurangnya dua bulan diperlukan untuk lengkung — kini ${seoMonths.length} bulan diarkibkan.`,
@@ -771,7 +771,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
           `绘制曲线至少需要两个月——目前已归档 ${seoMonths.length} 个月。`,
           `வளைவுக்கு குறைந்தது இரண்டு மாதங்கள் தேவை — தற்போது ${seoMonths.length} மாதம் காப்பகம்.`,
           `曲線には最低2か月必要です — 現在 ${seoMonths.length} か月分をアーカイブ。`,
-          `곡선을 그리려면 최소 두 달이 필요합니다 — 현재 ${seoMonths.length}개월 보관됨.`,
+          `곡선을 그리려면 최소 두 달이 필요합니다 — 현재 ${seoMonths.length}개월 보관됨.`, `ต้องมีอย่างน้อยสองเดือนเพื่อสร้างเส้นโค้ง — ปัจจุบันเก็บถาวรไว้ ${seoMonths.length} เดือน`,
         )}</p>
       ) : (
         <><div id="chart-seo" class="chart"></div><div id="legend-seo" class="chart-legend"></div></>
@@ -903,31 +903,31 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Terokai — jadual pangsi', 'Explore — pivot', '探索——数据透视', 'ஆய்வு — பிவோட்', 'エクスプローラ — ピボット', '탐색 — 피벗')}</span></header>
+    <header><span>{L('Terokai — jadual pangsi', 'Explore — pivot', '探索——数据透视', 'ஆய்வு — பிவோட்', 'エクスプローラ — ピボット', '탐색 — 피벗', 'สำรวจ — ตารางสรุป')}</span></header>
     <div class="psec-body">
       {pivotRows.length === 0 ? (
-        <p class="hint">{L('Belum ada data untuk diterokai.', 'No data to explore yet.', '暂无可探索的数据。', 'ஆய்வு செய்ய தரவு இல்லை.', '探索できるデータはまだありません。', '아직 탐색할 데이터가 없습니다.')}</p>
+        <p class="hint">{L('Belum ada data untuk diterokai.', 'No data to explore yet.', '暂无可探索的数据。', 'ஆய்வு செய்ய தரவு இல்லை.', '探索できるデータはまだありません。', '아직 탐색할 데이터가 없습니다.', 'ยังไม่มีข้อมูลให้สำรวจ')}</p>
       ) : (
         <>
           <div class="pv-controls">
-            <label>{L('Kumpul ikut', 'Group by', '分组依据', 'இதன்படி தொகு', 'グループ化', '그룹화 기준')}
+            <label>{L('Kumpul ikut', 'Group by', '分组依据', 'இதன்படி தொகு', 'グループ化', '그룹화 기준', 'จัดกลุ่มตาม')}
               <select id="pv-dim">
-                <option value="pillar">{L('Tunjang', 'Pillar', '支柱', 'தூண்', '柱', '기둥')}</option>
-                <option value="cat">{L('Kategori', 'Category', '分类', 'வகை', 'カテゴリー', '카테고리')}</option>
-                <option value="title">{L('Artikel', 'Article', '文章', 'கட்டுரை', '記事', '기사')}</option>
+                <option value="pillar">{L('Tunjang', 'Pillar', '支柱', 'தூண்', '柱', '기둥', 'เสาหลัก')}</option>
+                <option value="cat">{L('Kategori', 'Category', '分类', 'வகை', 'カテゴリー', '카테고리', 'หมวดหมู่')}</option>
+                <option value="title">{L('Artikel', 'Article', '文章', 'கட்டுரை', '記事', '기사', 'บทความ')}</option>
               </select>
             </label>
-            <label>{L('Ukuran', 'Measure', '度量', 'அளவை', '指標', '지표')}
+            <label>{L('Ukuran', 'Measure', '度量', 'அளவை', '指標', '지표', 'หน่วยวัด')}
               <select id="pv-measure">
-                <option value="readers">{L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者', '독자')}</option>
-                <option value="ai">{L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー', 'AI 크롤러')}</option>
-                <option value="search">{L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー', '검색 크롤러')}</option>
-                <option value="dwell">{L('Purata masa', 'Avg dwell', '平均停留', 'சராசரி நேரம்', '平均滞在', '평균 체류 시간')}</option>
+                <option value="readers">{L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน')}</option>
+                <option value="ai">{L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー', 'AI 크롤러', 'โปรแกรมรวบรวมข้อมูล AI')}</option>
+                <option value="search">{L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー', '검색 크롤러', 'โปรแกรมรวบรวมข้อมูลการค้นหา')}</option>
+                <option value="dwell">{L('Purata masa', 'Avg dwell', '平均停留', 'சராசரி நேரம்', '平均滞在', '평균 체류 시간', 'เวลาเฉลี่ย')}</option>
               </select>
             </label>
-            <label id="pv-ch-wrap">{L('Saluran', 'Channel', '渠道', 'சேனல்', 'チャネル', '채널')}
+            <label id="pv-ch-wrap">{L('Saluran', 'Channel', '渠道', 'சேனல்', 'チャネル', '채널', 'ช่องทาง')}
               <select id="pv-channel">
-                <option value="all">{L('Semua saluran', 'All channels', '所有渠道', 'அனைத்து சேனல்கள்', '全チャネル', '전체 채널')}</option>
+                <option value="all">{L('Semua saluran', 'All channels', '所有渠道', 'அனைத்து சேனல்கள்', '全チャネル', '전체 채널', 'ทุกช่องทาง')}</option>
                 {pivotChannels.map((c) => <option value={c.id}>{c.label}</option>)}
               </select>
             </label>
@@ -992,10 +992,10 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー', 'AI 크롤러')}</span></header>
+    <header><span>{L('Perayap AI', 'AI crawlers', 'AI 爬虫', 'AI கிராலர்கள்', 'AI クローラー', 'AI 크롤러', 'โปรแกรมรวบรวมข้อมูล AI')}</span></header>
     <div class="psec-body">
       {aiTotal === 0 ? (
-        <p class="hint">{L('Belum ada lawatan perayap AI direkodkan lagi.', 'No AI-crawler visits recorded yet.', '尚未记录到 AI 爬虫访问。', 'இதுவரை AI கிராலர் வருகைகள் எதுவும் பதிவாகவில்லை.', 'AI クローラーの訪問はまだ記録されていません。', '아직 AI 크롤러 방문이 기록되지 않았습니다.')}</p>
+        <p class="hint">{L('Belum ada lawatan perayap AI direkodkan lagi.', 'No AI-crawler visits recorded yet.', '尚未记录到 AI 爬虫访问。', 'இதுவரை AI கிராலர் வருகைகள் எதுவும் பதிவாகவில்லை.', 'AI クローラーの訪問はまだ記録されていません。', '아직 AI 크롤러 방문이 기록되지 않았습니다.', 'ยังไม่มีการบันทึกการเข้าชมของโปรแกรมรวบรวมข้อมูล AI')}</p>
       ) : (
         <>
           <p class="hint">
@@ -1005,12 +1005,12 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
               `AI/LLM 爬虫已抓取本站 ${aiTotal.toLocaleString()} 次，覆盖 ${aiPages.toLocaleString()} 篇文章，来自 ${aiBots.length} 个不同的爬虫——累计。`,
               `AI/LLM கிராலர்கள் இந்தத் தளத்தை ${aiTotal.toLocaleString()} முறை ${aiPages.toLocaleString()} கட்டுரைகளில், ${aiBots.length} வெவ்வேறு கிராலர்களிடமிருந்து பெற்றுள்ளன — எல்லா காலமும்.`,
               `AI/LLM クローラーはこのサイトを ${aiPages.toLocaleString()} 記事にわたり ${aiTotal.toLocaleString()} 回、${aiBots.length} 種類のクローラーから取得しました — 累計。`,
-              `AI/LLM 크롤러가 ${aiBots.length}개의 서로 다른 크롤러로부터 이 사이트를 ${aiPages.toLocaleString()}개 기사에 걸쳐 ${aiTotal.toLocaleString()}회 가져갔습니다 — 전체 기간.`,
+              `AI/LLM 크롤러가 ${aiBots.length}개의 서로 다른 크롤러로부터 이 사이트를 ${aiPages.toLocaleString()}개 기사에 걸쳐 ${aiTotal.toLocaleString()}회 가져갔습니다 — 전체 기간.`, `โปรแกรมรวบรวมข้อมูล AI/LLM ได้ดึงข้อมูลเว็บไซต์นี้ ${aiTotal.toLocaleString()} ครั้ง ครอบคลุม ${aiPages.toLocaleString()} บทความ จากโปรแกรมรวบรวมข้อมูลที่แตกต่างกัน ${aiBots.length} รายการ — ตลอดกาล`,
             )}
           </p>
           <div class="ai-grid">
             <div>
-              <p class="ai-h">{L('Mengikut perayap', 'By crawler', '按爬虫', 'கிராலர் வாரியாக', 'クローラー別', '크롤러별')}</p>
+              <p class="ai-h">{L('Mengikut perayap', 'By crawler', '按爬虫', 'கிராலர் வாரியாக', 'クローラー別', '크롤러별', 'ตามโปรแกรมรวบรวมข้อมูล')}</p>
               <div class="cov-cats">
                 {aiBots.map((b) => (
                   <div class="cov-row ai-row">
@@ -1022,7 +1022,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
               </div>
             </div>
             <div>
-              <p class="ai-h">{L('Mengikut tunjang', 'By pillar', '按支柱', 'தூண் வாரியாக', '柱別', '기둥별')}</p>
+              <p class="ai-h">{L('Mengikut tunjang', 'By pillar', '按支柱', 'தூண் வாரியாக', '柱別', '기둥별', 'ตามเสาหลัก')}</p>
               <div class="cov-cats">
                 {aiPillars.map((p) => (
                   <div class="cov-row ai-row">
@@ -1034,7 +1034,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
               </div>
             </div>
           </div>
-          <p class="ai-h ai-h-top">{L('Artikel paling banyak dirayapi', 'Most-crawled articles', '被抓取最多的文章', 'அதிகம் கிராலர் பெற்ற கட்டுரைகள்', '最も多くクロールされた記事', '가장 많이 크롤링된 기사')}</p>
+          <p class="ai-h ai-h-top">{L('Artikel paling banyak dirayapi', 'Most-crawled articles', '被抓取最多的文章', 'அதிகம் கிராலர் பெற்ற கட்டுரைகள்', '最も多くクロールされた記事', '가장 많이 크롤링된 기사', 'บทความที่ถูกรวบรวมข้อมูลมากที่สุด')}</p>
           <div class="cov-cats ai-top">
             {aiTop.map((a) => (
               <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
@@ -1052,7 +1052,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Trafik mengikut saluran', 'Traffic by channel', '各渠道流量', 'சேனல் வாரியான போக்குவரத்து', 'チャネル別トラフィック', '채널별 트래픽')}</span></header>
+    <header><span>{L('Trafik mengikut saluran', 'Traffic by channel', '各渠道流量', 'சேனல் வாரியான போக்குவரத்து', 'チャネル別トラフィック', '채널별 트래픽', 'ทราฟฟิกตามช่องทาง')}</span></header>
     <div class="psec-body">
       {refTotal === 0 ? (
         <p class="hint">{L(
@@ -1061,7 +1061,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
           '暂无来源数据——渠道分类器在边缘上线后开始记录。',
           'இதுவரை பரிந்துரை தரவு இல்லை — சேனல் வகைப்படுத்தி எட்ஜில் செயலில் வந்தவுடன் பதிவு தொடங்கும்.',
           'まだ参照元データはありません — チャネル分類器がエッジで稼働すると記録が始まります。',
-          '아직 유입 데이터가 없습니다 — 채널 분류기가 엣지에서 활성화되면 기록이 시작됩니다.',
+          '아직 유입 데이터가 없습니다 — 채널 분류기가 엣지에서 활성화되면 기록이 시작됩니다.', 'ยังไม่มีข้อมูลการอ้างอิง — การบันทึกจะเริ่มเมื่อตัวจำแนกช่องทางทำงานที่ edge',
         )}</p>
       ) : (
         <>
@@ -1071,11 +1071,11 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
             `${refTotal.toLocaleString()} 次读者访问按来源渠道分类——累计。`,
             `${refTotal.toLocaleString()} வாசகர் வருகைகள் அவர்கள் வந்த மூலத்தின் அடிப்படையில் வகைப்படுத்தப்பட்டுள்ளன — எல்லா காலமும்.`,
             `${refTotal.toLocaleString()} 件の読者訪問を流入元別に分類しました — 累計。`,
-            `${refTotal.toLocaleString()}회의 독자 방문을 유입 경로별로 분류했습니다 — 전체 기간.`,
+            `${refTotal.toLocaleString()}회의 독자 방문을 유입 경로별로 분류했습니다 — 전체 기간.`, `${refTotal.toLocaleString()} การเข้าชมของผู้อ่านถูกจำแนกตามแหล่งที่มา — ตลอดกาล`,
           )}</p>
           <div class="ai-grid">
             <div>
-              <p class="ai-h">{L('Mengikut saluran', 'By channel', '按渠道', 'சேனல் வாரியாக', 'チャネル別', '채널별')}</p>
+              <p class="ai-h">{L('Mengikut saluran', 'By channel', '按渠道', 'சேனல் வாரியாக', 'チャネル別', '채널별', 'ตามช่องทาง')}</p>
               <div class="cov-cats">
                 {refChannels.map((c) => (
                   <div class="cov-row ai-row">
@@ -1087,9 +1087,9 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
               </div>
             </div>
             <div>
-              <p class="ai-h">{L('Sumber teratas', 'Top sources', '主要来源', 'முதன்மை மூலங்கள்', '主な流入元', '주요 소스')}</p>
+              <p class="ai-h">{L('Sumber teratas', 'Top sources', '主要来源', 'முதன்மை மூலங்கள்', '主な流入元', '주요 소스', 'แหล่งที่มายอดนิยม')}</p>
               {refSources.length === 0 ? (
-                <p class="hint" style="margin:0">{L('Kebanyakannya trafik terus.', 'Mostly direct traffic.', '大多为直接访问。', 'பெரும்பாலும் நேரடி போக்குவரத்து.', 'ほとんどが直接トラフィックです。', '대부분 직접 유입입니다.')}</p>
+                <p class="hint" style="margin:0">{L('Kebanyakannya trafik terus.', 'Mostly direct traffic.', '大多为直接访问。', 'பெரும்பாலும் நேரடி போக்குவரத்து.', 'ほとんどが直接トラフィックです。', '대부분 직접 유입입니다.', 'ส่วนใหญ่เป็นทราฟฟิกโดยตรง')}</p>
               ) : (
                 <div class="cov-cats">
                   {refSources.map((s) => (
@@ -1111,13 +1111,13 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Artikel paling banyak dibaca', 'Most-read articles', '阅读最多的文章', 'அதிகம் படிக்கப்பட்ட கட்டுரைகள்', '最も読まれた記事', '가장 많이 읽힌 기사')}</span></header>
+    <header><span>{L('Artikel paling banyak dibaca', 'Most-read articles', '阅读最多的文章', 'அதிகம் படிக்கப்பட்ட கட்டுரைகள்', '最も読まれた記事', '가장 많이 읽힌 기사', 'บทความที่อ่านมากที่สุด')}</span></header>
     <div class="psec-body">
       {readTop.length === 0 ? (
-        <p class="hint">{L('Belum ada bacaan direkodkan lagi.', 'No reads recorded yet.', '尚未记录到阅读。', 'இதுவரை வாசிப்புகள் பதிவாகவில்லை.', 'まだ閲覧は記録されていません。', '아직 읽기 기록이 없습니다.')}</p>
+        <p class="hint">{L('Belum ada bacaan direkodkan lagi.', 'No reads recorded yet.', '尚未记录到阅读。', 'இதுவரை வாசிப்புகள் பதிவாகவில்லை.', 'まだ閲覧は記録されていません。', '아직 읽기 기록이 없습니다.', 'ยังไม่มีการบันทึกการอ่าน')}</p>
       ) : (
         <>
-          <p class="hint">{L('Artikel teratas mengikut lawatan pembaca manusia — sepanjang masa.', 'Top articles by human reader visits — all-time.', '按人类读者访问排序的热门文章——累计。', 'மனித வாசகர் வருகைகளின்படி முதன்மை கட்டுரைகள் — எல்லா காலமும்.', '人間の読者訪問による上位記事 — 累計。', '사람 독자 방문 기준 상위 기사 — 전체 기간.')}</p>
+          <p class="hint">{L('Artikel teratas mengikut lawatan pembaca manusia — sepanjang masa.', 'Top articles by human reader visits — all-time.', '按人类读者访问排序的热门文章——累计。', 'மனித வாசகர் வருகைகளின்படி முதன்மை கட்டுரைகள் — எல்லா காலமும்.', '人間の読者訪問による上位記事 — 累計。', '사람 독자 방문 기준 상위 기사 — 전체 기간.', 'บทความยอดนิยมตามการเข้าชมของผู้อ่านที่เป็นมนุษย์ — ตลอดกาล')}</p>
           <div class="cov-cats ai-top">
             {readTop.map((a) => (
               <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
@@ -1135,7 +1135,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Prestasi carian Google', 'Google Search performance', 'Google 搜索表现', 'Google தேடல் செயல்திறன்', 'Google 検索パフォーマンス', 'Google 검색 성과')}</span></header>
+    <header><span>{L('Prestasi carian Google', 'Google Search performance', 'Google 搜索表现', 'Google தேடல் செயல்திறன்', 'Google 検索パフォーマンス', 'Google 검색 성과', 'ประสิทธิภาพการค้นหาของ Google')}</span></header>
     <div class="psec-body">
       {!gscHas ? (
         <p class="hint">{L(
@@ -1144,7 +1144,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
           '暂无 Search Console 数据——归档工作流运行后显示。',
           'இதுவரை Search Console தரவு இல்லை — காப்பக பணிப்பாய்வு இயங்கிய பிறகு தோன்றும்.',
           'まだ Search Console のデータはありません — アーカイブのワークフロー実行後に表示されます。',
-          '아직 Search Console 데이터가 없습니다 — 아카이브 워크플로가 실행된 후 표시됩니다.',
+          '아직 Search Console 데이터가 없습니다 — 아카이브 워크플로가 실행된 후 표시됩니다.', 'ยังไม่มีข้อมูล Search Console — จะปรากฏหลังจากเวิร์กโฟลว์การเก็บถาวรทำงาน',
         )}</p>
       ) : (
         <>
@@ -1154,11 +1154,11 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
             `近 90 天：${gscTotals.impressions.toLocaleString()} 次展示 · ${gscTotals.clicks.toLocaleString()} 次点击 · 点击率 ${gscTotals.ctr}% · 平均排名 ${gscTotals.position}。已归档 ${gscMonths} 个月。`,
             `கடந்த 90 நாட்கள்: ${gscTotals.impressions.toLocaleString()} காட்சிகள் · ${gscTotals.clicks.toLocaleString()} கிளிக்குகள் · CTR ${gscTotals.ctr}% · சராசரி தரவரிசை ${gscTotals.position}. ${gscMonths} மாதங்கள் காப்பகப்படுத்தப்பட்டன.`,
             `過去90日: ${gscTotals.impressions.toLocaleString()} 表示 · ${gscTotals.clicks.toLocaleString()} クリック · CTR ${gscTotals.ctr}% · 平均掲載順位 ${gscTotals.position}。${gscMonths} か月分をアーカイブ。`,
-            `지난 90일: ${gscTotals.impressions.toLocaleString()} 노출 · ${gscTotals.clicks.toLocaleString()} 클릭 · CTR ${gscTotals.ctr}% · 평균 순위 ${gscTotals.position}. ${gscMonths}개월 보관됨.`,
+            `지난 90일: ${gscTotals.impressions.toLocaleString()} 노출 · ${gscTotals.clicks.toLocaleString()} 클릭 · CTR ${gscTotals.ctr}% · 평균 순위 ${gscTotals.position}. ${gscMonths}개월 보관됨.`, `90 วันล่าสุด: ${gscTotals.impressions.toLocaleString()} การแสดงผล · ${gscTotals.clicks.toLocaleString()} การคลิก · CTR ${gscTotals.ctr}% · อันดับเฉลี่ย ${gscTotals.position}. เก็บถาวรไว้ ${gscMonths} เดือน`,
           )}</p>
           <div class="ai-grid">
             <div>
-              <p class="ai-h">{L('Tera mengikut tunjang', 'Impressions by pillar', '各支柱展示', 'தூண் வாரியான காட்சிகள்', '柱別の表示回数', '기둥별 노출')}</p>
+              <p class="ai-h">{L('Tera mengikut tunjang', 'Impressions by pillar', '各支柱展示', 'தூண் வாரியான காட்சிகள்', '柱別の表示回数', '기둥별 노출', 'การแสดงผลตามเสาหลัก')}</p>
               {gscPillars.length === 0 ? <p class="hint" style="margin:0">—</p> : (
                 <div class="cov-cats">
                   {gscPillars.map((p) => (
@@ -1172,7 +1172,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
               )}
             </div>
             <div>
-              <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索', 'முதன்மை வினவல்கள்', '上位クエリ', '상위 쿼리')}</p>
+              <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索', 'முதன்மை வினவல்கள்', '上位クエリ', '상위 쿼리', 'คำค้นหายอดนิยม')}</p>
               {gscQueries.length === 0 ? <p class="hint" style="margin:0">—</p> : (
                 <div class="cov-cats">
                   {gscQueries.map((q) => (
@@ -1194,7 +1194,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Penglibatan Facebook', 'Facebook engagement', 'Facebook 互动', 'Facebook ஈடுபாடு', 'Facebook エンゲージメント', 'Facebook 참여')}</span></header>
+    <header><span>{L('Penglibatan Facebook', 'Facebook engagement', 'Facebook 互动', 'Facebook ஈடுபாடு', 'Facebook エンゲージメント', 'Facebook 참여', 'การมีส่วนร่วมบน Facebook')}</span></header>
     <div class="psec-body">
       {!fbHas ? (
         <p class="hint">{L(
@@ -1203,19 +1203,19 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
           '暂无 Facebook 数据——归档工作流运行且文章发布后显示。',
           'இதுவரை Facebook தரவு இல்லை — காப்பக பணிப்பாய்வு இயங்கி கட்டுரைகள் வெளியிடப்பட்ட பிறகு தோன்றும்.',
           'まだ Facebook のデータはありません — アーカイブのワークフローが実行され、記事が公開された後に表示されます。',
-          '아직 Facebook 데이터가 없습니다 — 아카이브 워크플로가 실행되고 기사가 게시된 후 표시됩니다.',
+          '아직 Facebook 데이터가 없습니다 — 아카이브 워크플로가 실행되고 기사가 게시된 후 표시됩니다.', 'ยังไม่มีข้อมูล Facebook — จะปรากฏหลังจากเวิร์กโฟลว์การเก็บถาวรทำงานและมีการเผยแพร่บทความ',
         )}</p>
       ) : (
         <div class="matrix-scroll" style="margin-top:.3rem">
           <table class="fbtable">
             <thead>
               <tr>
-                <th class="chan" style="width:auto">{L('Halaman', 'Page', '页面', 'பக்கம்', 'ページ', '페이지')}</th>
-                <th>{L('Pengikut', 'Followers', '粉丝', 'பின்தொடர்பவர்கள்', 'フォロワー', '팔로워')}</th>
-                <th>{L('Siaran', 'Posts', '帖子', 'இடுகைகள்', '投稿', '게시물')}</th>
-                <th>{L('Reaksi', 'Reactions', '互动', 'எதிர்வினைகள்', 'リアクション', '반응')}</th>
-                <th>{L('Komen', 'Comments', '评论', 'கருத்துகள்', 'コメント', '댓글')}</th>
-                <th>{L('Kongsi', 'Shares', '分享', 'பகிர்வுகள்', 'シェア', '공유')}</th>
+                <th class="chan" style="width:auto">{L('Halaman', 'Page', '页面', 'பக்கம்', 'ページ', '페이지', 'หน้า')}</th>
+                <th>{L('Pengikut', 'Followers', '粉丝', 'பின்தொடர்பவர்கள்', 'フォロワー', '팔로워', 'ผู้ติดตาม')}</th>
+                <th>{L('Siaran', 'Posts', '帖子', 'இடுகைகள்', '投稿', '게시물', 'โพสต์')}</th>
+                <th>{L('Reaksi', 'Reactions', '互动', 'எதிர்வினைகள்', 'リアクション', '반응', 'รีแอ็กชัน')}</th>
+                <th>{L('Komen', 'Comments', '评论', 'கருத்துகள்', 'コメント', '댓글', 'ความคิดเห็น')}</th>
+                <th>{L('Kongsi', 'Shares', '分享', 'பகிர்வுகள்', 'シェア', '공유', 'การแชร์')}</th>
               </tr>
             </thead>
             <tbody>
@@ -1239,7 +1239,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Penglibatan di laman', 'On-site engagement', '站内参与', 'தளத்தில் ஈடுபாடு', 'サイト内エンゲージメント', '사이트 내 참여')}</span></header>
+    <header><span>{L('Penglibatan di laman', 'On-site engagement', '站内参与', 'தளத்தில் ஈடுபாடு', 'サイト内エンゲージメント', '사이트 내 참여', 'การมีส่วนร่วมบนเว็บไซต์')}</span></header>
     <div class="psec-body">
       {!engHas ? (
         <p class="hint">{L(
@@ -1248,7 +1248,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
           '暂无参与数据——beacon 上线（部署 Worker）且有访客后开始记录。',
           'இதுவரை ஈடுபாட்டுத் தரவு இல்லை — beacon வெளியான (Worker deploy) பிறகு பார்வையாளர்கள் வந்தவுடன் பதிவு தொடங்கும்.',
           'まだエンゲージメントのデータはありません — beacon が配信され（Worker をデプロイ）、訪問者が来てから記録が始まります。',
-          '아직 참여 데이터가 없습니다 — 비콘이 배포되고(Worker 배포) 방문자가 도착한 후 기록이 시작됩니다.',
+          '아직 참여 데이터가 없습니다 — 비콘이 배포되고(Worker 배포) 방문자가 도착한 후 기록이 시작됩니다.', 'ยังไม่มีข้อมูลการมีส่วนร่วม — การบันทึกจะเริ่มหลังจากเผยแพร่ beacon (deploy Worker) และมีผู้เข้าชม',
         )}</p>
       ) : (
         <>
@@ -1258,11 +1258,11 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
             `平均停留 ${fmtDur(engAvgSecs)} · 平均滚动 ${engAvgScroll}% · 来自 ${engSamples.toLocaleString()} 次测量访问。`,
             `பக்கத்தில் சராசரி நேரம் ${fmtDur(engAvgSecs)} · சராசரி உருள்வு ${engAvgScroll}% · அளக்கப்பட்ட ${engSamples.toLocaleString()} வருகைகளிலிருந்து.`,
             `ページ滞在時間の平均 ${fmtDur(engAvgSecs)} · 平均スクロール ${engAvgScroll}% · 計測された ${engSamples.toLocaleString()} 件の訪問から。`,
-            `페이지 평균 체류 시간 ${fmtDur(engAvgSecs)} · 평균 스크롤 ${engAvgScroll}% · 측정된 ${engSamples.toLocaleString()}회 방문 기준.`,
+            `페이지 평균 체류 시간 ${fmtDur(engAvgSecs)} · 평균 스크롤 ${engAvgScroll}% · 측정된 ${engSamples.toLocaleString()}회 방문 기준.`, `เวลาเฉลี่ยบนหน้า ${fmtDur(engAvgSecs)} · การเลื่อนเฉลี่ย ${engAvgScroll}% · จากการเข้าชมที่วัดได้ ${engSamples.toLocaleString()} ครั้ง`,
           )}</p>
           <div class="ai-grid">
             <div>
-              <p class="ai-h">{L('Masa mengikut tunjang', 'Avg time by pillar', '各支柱平均时长', 'தூண் வாரியான சராசரி நேரம்', '柱別の平均時間', '기둥별 평균 시간')}</p>
+              <p class="ai-h">{L('Masa mengikut tunjang', 'Avg time by pillar', '各支柱平均时长', 'தூண் வாரியான சராசரி நேரம்', '柱別の平均時間', '기둥별 평균 시간', 'เวลาเฉลี่ยตามเสาหลัก')}</p>
               <div class="cov-cats">
                 {engPillars.map((p) => (
                   <div class="cov-row ai-row">
@@ -1274,7 +1274,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
               </div>
             </div>
             <div>
-              <p class="ai-h">{L('Paling melibatkan', 'Most engaging', '最吸引', 'அதிகம் ஈடுபடுத்தும்', '最も惹きつける', '가장 참여도가 높은')}</p>
+              <p class="ai-h">{L('Paling melibatkan', 'Most engaging', '最吸引', 'அதிகம் ஈடுபடுத்தும்', '最も惹きつける', '가장 참여도가 높은', 'มีส่วนร่วมมากที่สุด')}</p>
               <div class="cov-cats">
                 {engTop.map((a) => (
                   <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
@@ -1294,7 +1294,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Bing & Copilot', 'Bing & Copilot', 'Bing 与 Copilot', 'Bing & Copilot', 'Bing & Copilot', 'Bing & Copilot')}</span></header>
+    <header><span>{L('Bing & Copilot', 'Bing & Copilot', 'Bing 与 Copilot', 'Bing & Copilot', 'Bing & Copilot', 'Bing & Copilot', 'Bing & Copilot')}</span></header>
     <div class="psec-body">
       {!bingHas ? (
         <p class="hint">{L(
@@ -1303,7 +1303,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
           '暂无 Bing 数据——将网站加入 Bing 网站管理员工具（从 Google 导入）并运行归档后显示。',
           'இதுவரை Bing தரவு இல்லை — தளம் Bing Webmaster Tools-இல் சேர்க்கப்பட்டு (Google-இலிருந்து இறக்குமதி) காப்பகம் இயங்கிய பிறகு தோன்றும்.',
           'まだ Bing のデータはありません — サイトを Bing Webmaster Tools に追加し（Google からインポート）、アーカイブが実行された後に表示されます。',
-          '아직 Bing 데이터가 없습니다 — 사이트가 Bing Webmaster Tools에 추가되고(Google에서 가져오기) 아카이브가 실행된 후 표시됩니다.',
+          '아직 Bing 데이터가 없습니다 — 사이트가 Bing Webmaster Tools에 추가되고(Google에서 가져오기) 아카이브가 실행된 후 표시됩니다.', 'ยังไม่มีข้อมูล Bing — จะปรากฏหลังจากเพิ่มเว็บไซต์ลงใน Bing Webmaster Tools (นำเข้าจาก Google) และการเก็บถาวรทำงาน',
         )}</p>
       ) : (
         <>
@@ -1313,9 +1313,9 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
             `Bing（也是 Copilot / ChatGPT-search 的索引）：${bingT.impressions.toLocaleString()} 次展示 · ${bingT.clicks.toLocaleString()} 次点击。已归档 ${bingMonths} 个月。`,
             `Bing (Copilot / ChatGPT-search அட்டவணையும் கூட): ${bingT.impressions.toLocaleString()} காட்சிகள் · ${bingT.clicks.toLocaleString()} கிளிக்குகள். ${bingMonths} மாதங்கள் காப்பகப்படுத்தப்பட்டன.`,
             `Bing（Copilot / ChatGPT-search のインデックスも兼ねる）: ${bingT.impressions.toLocaleString()} 表示 · ${bingT.clicks.toLocaleString()} クリック。${bingMonths} か月分をアーカイブ。`,
-            `Bing (Copilot / ChatGPT-search 색인이기도 함): ${bingT.impressions.toLocaleString()} 노출 · ${bingT.clicks.toLocaleString()} 클릭. ${bingMonths}개월 보관됨.`,
+            `Bing (Copilot / ChatGPT-search 색인이기도 함): ${bingT.impressions.toLocaleString()} 노출 · ${bingT.clicks.toLocaleString()} 클릭. ${bingMonths}개월 보관됨.`, `Bing (เป็นดัชนีของ Copilot / ChatGPT-search ด้วย): ${bingT.impressions.toLocaleString()} การแสดงผล · ${bingT.clicks.toLocaleString()} การคลิก. เก็บถาวรไว้ ${bingMonths} เดือน`,
           )}</p>
-          <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索', 'முதன்மை வினவல்கள்', '上位クエリ', '상위 쿼리')}</p>
+          <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索', 'முதன்மை வினவல்கள்', '上位クエリ', '상위 쿼리', 'คำค้นหายอดนิยม')}</p>
           {bingQueries.length === 0 ? <p class="hint" style="margin:0">—</p> : (
             <div class="cov-cats ai-top">
               {bingQueries.map((q) => (

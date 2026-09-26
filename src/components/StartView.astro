@@ -15,7 +15,7 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
 const actions = [
   {
     icon: '📖',
-    title: L('Baca', 'Read', '阅读', 'படியுங்கள்', '読む', '읽기'),
+    title: L('Baca', 'Read', '阅读', 'படியுங்கள்', '読む', '읽기', 'อ่าน'),
     body: L(
       'Semak lalu tiga tonggak — Fahami, Hidup, Bisnes — atau layari mengikut kategori.',
       'Browse the three pillars — Understand, Living, Business — or dive in by category.',
@@ -23,11 +23,12 @@ const actions = [
       'மூன்று தூண்களையும் — புரிதல், வாழ்க்கை, வணிகம் — உலவிப் பாருங்கள், அல்லது வகை வாரியாக ஆழமாகச் செல்லுங்கள்.',
       '三つの柱 — 理解、暮らし、ビジネス — をざっと見るか、カテゴリ別に掘り下げてください。',
       '세 가지 기둥 — 이해, 생활, 비즈니스 — 을 둘러보거나, 카테고리별로 자세히 살펴보세요.',
+      'เลือกดูสามเสาหลัก — ทำความเข้าใจ ใช้ชีวิต ธุรกิจ — หรือเจาะลึกตามหมวดหมู่',
     ),
   },
   {
     icon: '🔍',
-    title: L('Cari', 'Search', '搜索', 'தேடுங்கள்', '検索', '검색'),
+    title: L('Cari', 'Search', '搜索', 'தேடுங்கள்', '検索', '검색', 'ค้นหา'),
     body: L(
       'Tekan “/” di mana-mana, atau ketik ikon carian, dan taip apa sahaja.',
       'Press “/” anywhere, or tap the search icon, and type anything.',
@@ -35,11 +36,12 @@ const actions = [
       'எங்கு வேண்டுமானாலும் “/” அழுத்துங்கள், அல்லது தேடல் சின்னத்தைத் தட்டுங்கள், பிறகு எதை வேண்டுமானாலும் தட்டச்சு செய்யுங்கள்.',
       'どこでも「/」を押すか、検索アイコンをタップして、何でも入力してください。',
       '어디서든 “/”를 누르거나 검색 아이콘을 탭한 뒤, 무엇이든 입력하세요.',
+      'กด “/” ที่ใดก็ได้ หรือแตะไอคอนค้นหา แล้วพิมพ์อะไรก็ได้',
     ),
   },
   {
     icon: '📌',
-    title: L('Petik', 'Cite', '引用', 'மேற்கோள் காட்டுங்கள்', '引用する', '인용'),
+    title: L('Petik', 'Cite', '引用', 'மேற்கோள் காட்டுங்கள்', '引用する', '인용', 'อ้างอิง'),
     body: L(
       'Setiap dakwaan yang boleh disemak membawa sumbernya, disenaraikan di hujung artikel.',
       'Every checkable claim carries its source, listed at the foot of each article.',
@@ -47,11 +49,12 @@ const actions = [
       'சரிபார்க்கக்கூடிய ஒவ்வொரு கூற்றும் அதன் ஆதாரத்தைக் கொண்டுள்ளது — ஒவ்வொரு கட்டுரையின் அடிப்பகுதியில் பட்டியலிடப்பட்டுள்ளது.',
       '検証可能な主張にはすべて出典があり、各記事の末尾に一覧化されています。',
       '검증 가능한 모든 주장에는 출처가 있으며, 각 기사 하단에 나열되어 있습니다.',
+      'ทุกข้อกล่าวอ้างที่ตรวจสอบได้จะมีแหล่งที่มากำกับ โดยระบุไว้ที่ท้ายบทความแต่ละบทความ',
     ),
   },
   {
     icon: '🤖',
-    title: L('Tanya AI', 'Ask an AI', '询问 AI', 'AI-யிடம் கேளுங்கள்', 'AIに聞く', 'AI에게 질문'),
+    title: L('Tanya AI', 'Ask an AI', '询问 AI', 'AI-யிடம் கேளுங்கள்', 'AIに聞く', 'AI에게 질문', 'ถาม AI'),
     body: L(
       'Kandungannya Markdown biasa — salin dan tampal terus ke dalam alat AI anda.',
       'The content is plain Markdown — copy and paste it straight into your AI tool.',
@@ -59,11 +62,12 @@ const actions = [
       'உள்ளடக்கம் எளிய Markdown — அதை நகலெடுத்து நேரடியாக உங்கள் AI கருவியில் ஒட்டுங்கள்.',
       'コンテンツはプレーンな Markdown — そのままコピーして AI ツールに貼り付けてください。',
       '콘텐츠는 순수 Markdown입니다 — 복사하여 AI 도구에 바로 붙여넣으세요.',
+      'เนื้อหาเป็น Markdown ธรรมดา — คัดลอกและวางลงในเครื่องมือ AI ของคุณได้โดยตรง',
     ),
   },
   {
     icon: '✍️',
-    title: L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献する', '기여하기'),
+    title: L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献する', '기여하기', 'มีส่วนร่วม'),
     body: L(
       'Terjumpa kesilapan atau kekurangan? Cadangkan pembetulan di GitHub — sesiapa boleh.',
       'Spotted an error or a gap? Suggest a fix on GitHub — anyone can.',
@@ -71,6 +75,7 @@ const actions = [
       'பிழையையோ இடைவெளியையோ கண்டீர்களா? GitHub-இல் ஒரு திருத்தத்தைப் பரிந்துரையுங்கள் — யார் வேண்டுமானாலும் செய்யலாம்.',
       '誤りや抜けを見つけましたか？GitHub で修正を提案してください — 誰でもできます。',
       '오류나 빠진 부분을 발견하셨나요? GitHub에서 수정을 제안하세요 — 누구나 할 수 있습니다.',
+      'พบข้อผิดพลาดหรือช่องว่างหรือไม่? เสนอการแก้ไขบน GitHub ได้ — ใครก็ทำได้',
     ),
   },
 ];
@@ -79,29 +84,29 @@ const actions = [
 const guides = [
   {
     icon: '🔍',
-    title: L('Cari sesuatu', 'Find something', '查找内容', 'ஏதேனும் தேடுங்கள்', '何かを探す', '무언가 찾기'),
+    title: L('Cari sesuatu', 'Find something', '查找内容', 'ஏதேனும் தேடுங்கள்', '何かを探す', '무언가 찾기', 'ค้นหาบางสิ่ง'),
     steps: [
-      L('Tekan “/” pada papan kekunci, atau ketik ikon carian di bar atas.', 'Press “/” on your keyboard, or tap the search icon in the top bar.', '按键盘上的“/”，或点击顶栏的搜索图标。', 'உங்கள் விசைப்பலகையில் “/” அழுத்துங்கள், அல்லது மேல் பட்டியில் உள்ள தேடல் சின்னத்தைத் தட்டுங்கள்.', 'キーボードで「/」を押すか、上部バーの検索アイコンをタップします。', '키보드에서 “/”를 누르거나, 상단 바의 검색 아이콘을 탭하세요.'),
-      L('Taip nama orang, tempat atau peristiwa — carian sepadan semasa anda menaip.', 'Type a person, place, or event — it matches as you type.', '输入人物、地点或事件——边输入边匹配。', 'ஒரு நபர், இடம் அல்லது நிகழ்வைத் தட்டச்சு செய்யுங்கள் — நீங்கள் தட்டச்சு செய்யும்போதே அது பொருந்தும்.', '人物、場所、または出来事を入力すると、入力に応じて一致します。', '인물, 장소 또는 사건을 입력하세요 — 입력하는 동안 바로 일치 결과가 나타납니다.'),
-      L('Buka mana-mana hasil untuk membaca artikel penuh.', 'Open any result to read the full article.', '打开任意结果即可阅读全文。', 'முழு கட்டுரையையும் படிக்க எந்த முடிவையும் திறங்கள்.', 'いずれかの結果を開いて記事全文を読みます。', '전체 기사를 읽으려면 아무 결과나 여세요.'),
+      L('Tekan “/” pada papan kekunci, atau ketik ikon carian di bar atas.', 'Press “/” on your keyboard, or tap the search icon in the top bar.', '按键盘上的“/”，或点击顶栏的搜索图标。', 'உங்கள் விசைப்பலகையில் “/” அழுத்துங்கள், அல்லது மேல் பட்டியில் உள்ள தேடல் சின்னத்தைத் தட்டுங்கள்.', 'キーボードで「/」を押すか、上部バーの検索アイコンをタップします。', '키보드에서 “/”를 누르거나, 상단 바의 검색 아이콘을 탭하세요.', 'กด “/” บนแป้นพิมพ์ หรือแตะไอคอนค้นหาในแถบด้านบน'),
+      L('Taip nama orang, tempat atau peristiwa — carian sepadan semasa anda menaip.', 'Type a person, place, or event — it matches as you type.', '输入人物、地点或事件——边输入边匹配。', 'ஒரு நபர், இடம் அல்லது நிகழ்வைத் தட்டச்சு செய்யுங்கள் — நீங்கள் தட்டச்சு செய்யும்போதே அது பொருந்தும்.', '人物、場所、または出来事を入力すると、入力に応じて一致します。', '인물, 장소 또는 사건을 입력하세요 — 입력하는 동안 바로 일치 결과가 나타납니다.', 'พิมพ์ชื่อบุคคล สถานที่ หรือเหตุการณ์ — ระบบจะจับคู่ผลลัพธ์ขณะที่คุณพิมพ์'),
+      L('Buka mana-mana hasil untuk membaca artikel penuh.', 'Open any result to read the full article.', '打开任意结果即可阅读全文。', 'முழு கட்டுரையையும் படிக்க எந்த முடிவையும் திறங்கள்.', 'いずれかの結果を開いて記事全文を読みます。', '전체 기사를 읽으려면 아무 결과나 여세요.', 'เปิดผลลัพธ์ใดก็ได้เพื่ออ่านบทความฉบับเต็ม'),
     ],
   },
   {
     icon: '📖',
-    title: L('Baca dan petik', 'Read and cite', '阅读与引用', 'படித்து மேற்கோள் காட்டுங்கள்', '読んで引用する', '읽고 인용하기'),
+    title: L('Baca dan petik', 'Read and cite', '阅读与引用', 'படித்து மேற்கோள் காட்டுங்கள்', '読んで引用する', '읽고 인용하기', 'อ่านและอ้างอิง'),
     steps: [
-      L('Buka artikel daripada tonggak, kategori atau carian.', 'Open an article from a pillar, category, or search.', '从支柱、分类或搜索打开文章。', 'ஒரு தூண், வகை அல்லது தேடலில் இருந்து ஒரு கட்டுரையைத் திறங்கள்.', '柱、カテゴリ、または検索から記事を開きます。', '기둥, 카테고리 또는 검색에서 기사를 여세요.'),
-      L('Tatal ke bahagian “Sumber” di hujung — setiap fakta membawa rujukannya.', 'Scroll to the “Sources” at the foot — every fact carries its reference.', '滚动到末尾的“来源”——每条事实都附有引用。', 'அடிப்பகுதியில் உள்ள “ஆதாரங்கள்” வரை உருட்டுங்கள் — ஒவ்வொரு உண்மையும் அதன் குறிப்பைக் கொண்டுள்ளது.', '末尾の「出典」までスクロールします — すべての事実に参照元があります。', '하단의 “출처”까지 스크롤하세요 — 모든 사실에는 참고 자료가 있습니다.'),
-      L('Ikuti pautan sumber untuk mengesahkan sendiri.', 'Follow a source link to verify it yourself.', '点击来源链接自行查证。', 'நீங்களே சரிபார்க்க ஒரு ஆதாரச் சுட்டியைப் பின்தொடருங்கள்.', '出典リンクをたどって自分で確認します。', '직접 확인하려면 출처 링크를 따라가세요.'),
+      L('Buka artikel daripada tonggak, kategori atau carian.', 'Open an article from a pillar, category, or search.', '从支柱、分类或搜索打开文章。', 'ஒரு தூண், வகை அல்லது தேடலில் இருந்து ஒரு கட்டுரையைத் திறங்கள்.', '柱、カテゴリ、または検索から記事を開きます。', '기둥, 카테고리 또는 검색에서 기사를 여세요.', 'เปิดบทความจากเสาหลัก หมวดหมู่ หรือการค้นหา'),
+      L('Tatal ke bahagian “Sumber” di hujung — setiap fakta membawa rujukannya.', 'Scroll to the “Sources” at the foot — every fact carries its reference.', '滚动到末尾的“来源”——每条事实都附有引用。', 'அடிப்பகுதியில் உள்ள “ஆதாரங்கள்” வரை உருட்டுங்கள் — ஒவ்வொரு உண்மையும் அதன் குறிப்பைக் கொண்டுள்ளது.', '末尾の「出典」までスクロールします — すべての事実に参照元があります。', '하단의 “출처”까지 스크롤하세요 — 모든 사실에는 참고 자료가 있습니다.', 'เลื่อนไปที่ส่วน “แหล่งที่มา” ท้ายบทความ — ทุกข้อเท็จจริงจะมีการอ้างอิงกำกับ'),
+      L('Ikuti pautan sumber untuk mengesahkan sendiri.', 'Follow a source link to verify it yourself.', '点击来源链接自行查证。', 'நீங்களே சரிபார்க்க ஒரு ஆதாரச் சுட்டியைப் பின்தொடருங்கள்.', '出典リンクをたどって自分で確認します。', '직접 확인하려면 출처 링크를 따라가세요.', 'ตามลิงก์แหล่งที่มาเพื่อตรวจสอบด้วยตนเอง'),
     ],
   },
   {
     icon: '✍️',
-    title: L('Cadangkan perubahan', 'Suggest a change', '建议修改', 'மாற்றத்தைப் பரிந்துரையுங்கள்', '変更を提案する', '변경 제안하기'),
+    title: L('Cadangkan perubahan', 'Suggest a change', '建议修改', 'மாற்றத்தைப் பரிந்துரையுங்கள்', '変更を提案する', '변경 제안하기', 'เสนอการเปลี่ยนแปลง'),
     steps: [
-      L('Di hujung mana-mana artikel, cari pautan “Sunting / Lapor”.', 'At the foot of any article, find the “Edit / Report” link.', '在任意文章末尾，找到“编辑 / 报告”链接。', 'எந்த கட்டுரையின் அடிப்பகுதியிலும், “திருத்து / புகாரளி” சுட்டியைக் கண்டறியுங்கள்.', 'いずれかの記事の末尾で「編集 / 報告」リンクを見つけます。', '아무 기사 하단에서 “편집 / 신고” 링크를 찾으세요.'),
-      L('Ia membuka GitHub, tempat setiap perubahan disemak secara terbuka.', 'It opens GitHub, where every change is reviewed in the open.', '它会打开 GitHub，每处改动都在此公开审阅。', 'இது GitHub-ஐத் திறக்கிறது, அங்கு ஒவ்வொரு மாற்றமும் வெளிப்படையாக மறுஆய்வு செய்யப்படுகிறது.', 'GitHub が開き、そこですべての変更が公開の場で審査されます。', 'GitHub가 열리며, 그곳에서 모든 변경 사항이 공개적으로 검토됩니다.'),
-      L('Tiada akaun GitHub? Anda masih boleh membaca segalanya — ini pilihan sahaja.', 'No GitHub account? You can still read everything — this is optional.', '没有 GitHub 账户？你仍可阅读一切——这是可选的。', 'GitHub கணக்கு இல்லையா? நீங்கள் இன்னும் எல்லாவற்றையும் படிக்கலாம் — இது விருப்பத்தேர்வு மட்டுமே.', 'GitHub アカウントがなくても、すべて読めます — これは任意です。', 'GitHub 계정이 없으신가요? 그래도 모든 것을 읽을 수 있습니다 — 이것은 선택 사항입니다.'),
+      L('Di hujung mana-mana artikel, cari pautan “Sunting / Lapor”.', 'At the foot of any article, find the “Edit / Report” link.', '在任意文章末尾，找到“编辑 / 报告”链接。', 'எந்த கட்டுரையின் அடிப்பகுதியிலும், “திருத்து / புகாரளி” சுட்டியைக் கண்டறியுங்கள்.', 'いずれかの記事の末尾で「編集 / 報告」リンクを見つけます。', '아무 기사 하단에서 “편집 / 신고” 링크를 찾으세요.', 'ที่ท้ายบทความใดก็ตาม ให้มองหาลิงก์ “แก้ไข / รายงาน”'),
+      L('Ia membuka GitHub, tempat setiap perubahan disemak secara terbuka.', 'It opens GitHub, where every change is reviewed in the open.', '它会打开 GitHub，每处改动都在此公开审阅。', 'இது GitHub-ஐத் திறக்கிறது, அங்கு ஒவ்வொரு மாற்றமும் வெளிப்படையாக மறுஆய்வு செய்யப்படுகிறது.', 'GitHub が開き、そこですべての変更が公開の場で審査されます。', 'GitHub가 열리며, 그곳에서 모든 변경 사항이 공개적으로 검토됩니다.', 'ลิงก์นี้จะเปิด GitHub ซึ่งเป็นที่ที่ทุกการเปลี่ยนแปลงได้รับการตรวจทานอย่างเปิดเผย'),
+      L('Tiada akaun GitHub? Anda masih boleh membaca segalanya — ini pilihan sahaja.', 'No GitHub account? You can still read everything — this is optional.', '没有 GitHub 账户？你仍可阅读一切——这是可选的。', 'GitHub கணக்கு இல்லையா? நீங்கள் இன்னும் எல்லாவற்றையும் படிக்கலாம் — இது விருப்பத்தேர்வு மட்டுமே.', 'GitHub アカウントがなくても、すべて読めます — これは任意です。', 'GitHub 계정이 없으신가요? 그래도 모든 것을 읽을 수 있습니다 — 이것은 선택 사항입니다.', 'ไม่มีบัญชี GitHub? คุณยังคงอ่านทุกอย่างได้ — สิ่งนี้เป็นทางเลือกเท่านั้น'),
     ],
   },
 ];
@@ -110,10 +115,10 @@ const guides = [
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
-    { label: L('Mula di sini', 'Start here', '从这里开始', 'இங்கே தொடங்குங்கள்', 'ここから始める', '여기서 시작') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก'), href: localePath('/', locale) },
+    { label: L('Mula di sini', 'Start here', '从这里开始', 'இங்கே தொடங்குங்கள்', 'ここから始める', '여기서 시작', 'เริ่มต้นที่นี่') },
   ]}
-  title={L('Mula di sini', 'Start here', '从这里开始', 'இங்கே தொடங்குங்கள்', 'ここから始める', '여기서 시작')}
+  title={L('Mula di sini', 'Start here', '从这里开始', 'இங்கே தொடங்குங்கள்', 'ここから始める', '여기서 시작', 'เริ่มต้นที่นี่')}
   desc={L(
     'Baharu di NegaraKu.md? Inilah apa ia, cara ia disusun, dan segala yang boleh anda lakukan — dalam dua minit.',
     'New to NegaraKu.md? Here’s what it is, how it’s organized, and everything you can do — in two minutes.',
@@ -121,12 +126,13 @@ const guides = [
     'NegaraKu.md-க்குப் புதியவரா? அது என்ன, எப்படி ஒழுங்கமைக்கப்பட்டுள்ளது, மற்றும் நீங்கள் செய்யக்கூடிய அனைத்தும் — இரண்டு நிமிடங்களில், இதோ.',
     'NegaraKu.md は初めてですか？それが何か、どう構成され、何ができるのか — 2分でご紹介します。',
     'NegaraKu.md가 처음이신가요? 그것이 무엇인지, 어떻게 구성되어 있는지, 그리고 할 수 있는 모든 것을 — 2분 안에 소개합니다.',
+    'เพิ่งเริ่มใช้ NegaraKu.md ใช่ไหม? นี่คือคำอธิบายว่ามันคืออะไร จัดระเบียบอย่างไร และทุกสิ่งที่คุณทำได้ — ภายในสองนาที',
   )}
 />
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Apa itu NegaraKu.md', 'What is NegaraKu.md', '什么是 NegaraKu.md', 'NegaraKu.md என்றால் என்ன', 'NegaraKu.md とは', 'NegaraKu.md란 무엇인가')}</span></header>
+    <header><span>{L('Apa itu NegaraKu.md', 'What is NegaraKu.md', '什么是 NegaraKu.md', 'NegaraKu.md என்றால் என்ன', 'NegaraKu.md とは', 'NegaraKu.md란 무엇인가', 'NegaraKu.md คืออะไร')}</span></header>
     <div class="psec-body prose">
       <p>{L(
         'Pangkalan pengetahuan sumber terbuka tentang Malaysia — setiap topik ialah satu fail Markdown, dipetik sumbernya, dan disemak komuniti. Dibina supaya manusia dan AI sama-sama boleh membacanya, dalam Bahasa Melayu, Inggeris dan Cina.',
@@ -135,15 +141,16 @@ const guides = [
         'மலேசியா பற்றிய ஒரு திறந்த மூல அறிவுத் தளம் — ஒவ்வொரு தலைப்பும் ஒரு Markdown கோப்பு, ஆதாரம் காட்டப்பட்டு சமூகத்தால் மறுஆய்வு செய்யப்பட்டது. மனிதர்களும் AI-யும் இருவரும் படிக்கும் வகையில் — மலாய், ஆங்கிலம் மற்றும் சீன மொழியில் — உருவாக்கப்பட்டது.',
         'マレーシアに関するオープンソースの知識ベース — 各トピックは出典付きでコミュニティが査読した Markdown ファイルです。人も AI もどちらも読めるように、マレー語・英語・中国語で構築されています。',
         '말레이시아에 관한 오픈소스 지식 베이스입니다 — 모든 주제는 출처가 명시되고 커뮤니티가 검토한 Markdown 파일입니다. 사람과 AI가 모두 읽을 수 있도록 말레이어, 영어, 중국어로 구축되었습니다.',
+        'ฐานความรู้แบบโอเพนซอร์สเกี่ยวกับมาเลเซีย — ทุกหัวข้อคือไฟล์ Markdown ที่ระบุแหล่งที่มาและผ่านการตรวจทานโดยชุมชน สร้างขึ้นเพื่อให้ทั้งมนุษย์และ AI อ่านได้ ในภาษามลายู อังกฤษ และจีน',
       )}</p>
-      <p class="more-about"><a href={localePath('/about', locale)}>{L('Baca kisah penuh di Tentang Kami', 'Read the full story on About', '在“关于”阅读完整故事', '“எங்களைப் பற்றி” பக்கத்தில் முழுக் கதையையும் படியுங்கள்', '「概要」で全文を読む', '「소개」에서 전체 이야기를 읽어보세요')} →</a></p>
+      <p class="more-about"><a href={localePath('/about', locale)}>{L('Baca kisah penuh di Tentang Kami', 'Read the full story on About', '在“关于”阅读完整故事', '“எங்களைப் பற்றி” பக்கத்தில் முழுக் கதையையும் படியுங்கள்', '「概要」で全文を読む', '「소개」에서 전체 이야기를 읽어보세요', 'อ่านเรื่องราวฉบับเต็มที่หน้าเกี่ยวกับเรา')} →</a></p>
     </div>
   </div>
 </section>
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Cara ia disusun', 'How it’s organized', '如何组织', 'எப்படி ஒழுங்கமைக்கப்பட்டுள்ளது', '構成のしくみ', '구성 방식')}</span></header>
+    <header><span>{L('Cara ia disusun', 'How it’s organized', '如何组织', 'எப்படி ஒழுங்கமைக்கப்பட்டுள்ளது', '構成のしくみ', '구성 방식', 'การจัดระเบียบเนื้อหา')}</span></header>
     <div class="psec-body">
       <p class="lead">{L(
         'Kandungan bermula daripada tiga tonggak, dipecahkan kepada kategori, kemudian artikel individu. Carian dan Graf Pengetahuan membantu anda melompat terus ke apa yang anda perlukan.',
@@ -152,6 +159,7 @@ const guides = [
         'உள்ளடக்கம் மூன்று தூண்களில் இருந்து தொடங்கி, வகைகளாகப் பிரிந்து, பிறகு தனிப்பட்ட கட்டுரைகளாகச் செல்கிறது. தேடலும் அறிவு வரைபடமும் உங்களுக்குத் தேவையானதை நேரடியாக அடைய உதவுகின்றன.',
         'コンテンツは三つの柱から始まり、カテゴリへ、そして個々の記事へと流れます。検索とナレッジグラフが、必要な情報へ直接ジャンプする手助けをします。',
         '콘텐츠는 세 가지 기둥에서 시작하여 카테고리로, 그다음 개별 기사로 이어집니다. 검색과 지식 그래프는 필요한 곳으로 바로 이동하도록 도와줍니다.',
+        'เนื้อหาเริ่มจากสามเสาหลัก แตกออกเป็นหมวดหมู่ แล้วจึงเป็นบทความแต่ละบทความ การค้นหาและกราฟความรู้ช่วยให้คุณข้ามไปยังสิ่งที่ต้องการได้โดยตรง',
       )}</p>
       <div class="pillars">
         {PILLARS.map((p) => (
@@ -163,9 +171,9 @@ const guides = [
         ))}
       </div>
       <div class="orient-more">
-        <a class="omore" href={localePath('/categories', locale)}>{L('Semua kategori', 'All categories', '所有分类', 'அனைத்து வகைகள்', 'すべてのカテゴリ', '모든 카테고리')} →</a>
-        <a class="omore" href={localePath('/graph', locale)}>{L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱', 'அறிவு வரைபடம்', 'ナレッジグラフ', '지식 그래프')} →</a>
-        <a class="omore" href={localePath('/explore', locale)}>{L('Terokai Malaysia', 'Explore Malaysia', '探索马来西亚', 'மலேசியாவை ஆராயுங்கள்', 'マレーシアを探索', '말레이시아 탐색')} →</a>
+        <a class="omore" href={localePath('/categories', locale)}>{L('Semua kategori', 'All categories', '所有分类', 'அனைத்து வகைகள்', 'すべてのカテゴリ', '모든 카테고리', 'ทุกหมวดหมู่')} →</a>
+        <a class="omore" href={localePath('/graph', locale)}>{L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱', 'அறிவு வரைபடம்', 'ナレッジグラフ', '지식 그래프', 'กราฟความรู้')} →</a>
+        <a class="omore" href={localePath('/explore', locale)}>{L('Terokai Malaysia', 'Explore Malaysia', '探索马来西亚', 'மலேசியாவை ஆராயுங்கள்', 'マレーシアを探索', '말레이시아 탐색', 'สำรวจมาเลเซีย')} →</a>
       </div>
     </div>
   </div>
@@ -173,7 +181,7 @@ const guides = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Apa yang boleh anda lakukan', 'What you can do here', '你能做什么', 'இங்கே நீங்கள் என்ன செய்யலாம்', 'ここでできること', '여기서 할 수 있는 일')}</span></header>
+    <header><span>{L('Apa yang boleh anda lakukan', 'What you can do here', '你能做什么', 'இங்கே நீங்கள் என்ன செய்யலாம்', 'ここでできること', '여기서 할 수 있는 일', 'สิ่งที่คุณทำได้ที่นี่')}</span></header>
     <div class="psec-body">
       <div class="acards">
         {actions.map((a) => (
@@ -192,7 +200,7 @@ const guides = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Panduan ringkas', 'Quick guide', '快速指南', 'விரைவு வழிகாட்டி', 'クイックガイド', '빠른 가이드')}</span></header>
+    <header><span>{L('Panduan ringkas', 'Quick guide', '快速指南', 'விரைவு வழிகாட்டி', 'クイックガイド', '빠른 가이드', 'คู่มือฉบับย่อ')}</span></header>
     <div class="psec-body">
       <div class="guides">
         {guides.map((g) => (

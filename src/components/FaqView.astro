@@ -17,10 +17,10 @@ type Group = { title: string; items: Item[] };
 
 const groups: Group[] = [
   {
-    title: L('Tentang projek', 'About the project', '关于项目', 'திட்டம் பற்றி', 'プロジェクトについて', '프로젝트 소개'),
+    title: L('Tentang projek', 'About the project', '关于项目', 'திட்டம் பற்றி', 'プロジェクトについて', '프로젝트 소개', 'เกี่ยวกับโครงการ'),
     items: [
       {
-        q: L('Apakah NegaraKu.md?', 'What is NegaraKu.md?', 'NegaraKu.md 是什么？', 'NegaraKu.md என்றால் என்ன?', 'NegaraKu.md とは？', 'NegaraKu.md란 무엇입니까?'),
+        q: L('Apakah NegaraKu.md?', 'What is NegaraKu.md?', 'NegaraKu.md 是什么？', 'NegaraKu.md என்றால் என்ன?', 'NegaraKu.md とは？', 'NegaraKu.md란 무엇입니까?', 'NegaraKu.md คืออะไร?'),
         a: L(
           'Pangkalan pengetahuan sumber terbuka tentang Malaysia, ditulis dalam Markdown dan direka untuk dibaca oleh manusia dan AI. Namanya diambil daripada lagu kebangsaan Malaysia. Setiap topik hidup sebagai fail di GitHub.',
           'An open-source knowledge base about Malaysia, written in Markdown and designed to be read by people and AI alike. Its name comes from Malaysia’s national anthem. Every topic lives as a file on GitHub.',
@@ -28,10 +28,11 @@ const groups: Group[] = [
           'மலேசியா பற்றிய திறந்த மூல அறிவுத் தளம், Markdown இல் எழுதப்பட்டு, மனிதர்களும் AI-யும் ஒருங்கே படிக்கும் வகையில் வடிவமைக்கப்பட்டது. இதன் பெயர் மலேசியாவின் தேசிய கீதத்திலிருந்து வந்தது. ஒவ்வொரு தலைப்பும் GitHub இல் ஒரு கோப்பாக இருக்கிறது.',
           'マレーシアに関するオープンソースの知識ベースで、Markdown で書かれ、人間と AI の双方が読めるように設計されています。その名はマレーシア国歌に由来します。すべての主題は GitHub 上のファイルとして存在します。',
           'Markdown으로 작성되어 사람과 AI가 모두 읽을 수 있도록 설계된, 말레이시아에 관한 오픈소스 지식 베이스입니다. 이름은 말레이시아 국가에서 따왔습니다. 모든 주제는 GitHub에 파일로 존재합니다.',
+          'ฐานความรู้แบบโอเพนซอร์สเกี่ยวกับมาเลเซีย เขียนด้วย Markdown และออกแบบให้ทั้งมนุษย์และ AI อ่านได้ ชื่อของมันมาจากเพลงชาติมาเลเซีย ทุกหัวข้อมีอยู่ในรูปของไฟล์บน GitHub',
         ),
       },
       {
-        q: L('Apa bezanya dengan Wikipedia?', 'How is it different from Wikipedia?', '与维基百科有何不同？', 'விக்கிபீடியாவிலிருந்து இது எப்படி வேறுபடுகிறது?', 'Wikipedia とはどう違う？', 'Wikipedia와는 어떻게 다릅니까?'),
+        q: L('Apa bezanya dengan Wikipedia?', 'How is it different from Wikipedia?', '与维基百科有何不同？', 'விக்கிபீடியாவிலிருந்து இது எப்படி வேறுபடுகிறது?', 'Wikipedia とはどう違う？', 'Wikipedia와는 어떻게 다릅니까?', 'แตกต่างจาก Wikipedia อย่างไร?'),
         a: L(
           'Ia naratif yang dikurasi dengan satu sumber kebenaran di GitHub — bukan ensiklopedia yang boleh disunting sesiapa secara langsung. Perubahan melalui semakan sebelum ia disiarkan.',
           'It’s curated narrative with a single source of truth on GitHub — not an encyclopedia anyone edits live. Changes pass through review before they go live.',
@@ -39,10 +40,11 @@ const groups: Group[] = [
           'இது GitHub இல் ஒரே உண்மை மூலத்துடன் தொகுக்கப்பட்ட விவரணை — யார் வேண்டுமானாலும் நேரடியாகத் திருத்தும் கலைக்களஞ்சியம் அல்ல. மாற்றங்கள் நேரலைக்கு வருமுன் மறுஆய்வு வழியாகச் செல்கின்றன.',
           'GitHub 上に単一の信頼できる情報源を持つ、キュレーションされた叙述です — 誰でもその場で編集できる百科事典ではありません。変更は公開前に必ずレビューを経ます。',
           'GitHub에 단일 진실 공급원을 둔, 큐레이션된 서술입니다 — 누구나 실시간으로 편집하는 백과사전이 아닙니다. 변경 사항은 공개되기 전에 검토를 거칩니다.',
+          'เป็นเรื่องเล่าที่ผ่านการคัดสรรโดยมีแหล่งความจริงเดียวบน GitHub — ไม่ใช่สารานุกรมที่ใครก็แก้ไขได้แบบสด การเปลี่ยนแปลงต้องผ่านการตรวจทานก่อนเผยแพร่',
         ),
       },
       {
-        q: L('Siapa yang menjalankannya?', 'Who runs it?', '谁在运营它？', 'இதை யார் நடத்துகிறார்கள்?', '誰が運営しているの？', '누가 운영합니까?'),
+        q: L('Siapa yang menjalankannya?', 'Who runs it?', '谁在运营它？', 'இதை யார் நடத்துகிறார்கள்?', '誰が運営しているの？', '누가 운영합니까?', 'ใครเป็นผู้ดำเนินการ?'),
         a: L(
           'Projek sumber terbuka, ditaja oleh 1company, dibina oleh penyumbang dan penyemak. Kredit dijana automatik daripada sejarah perubahan setiap artikel.',
           'An open-source project, sponsored by 1company, built by contributors and reviewers. Credit is auto-generated from every article’s change history.',
@@ -50,34 +52,36 @@ const groups: Group[] = [
           '1company ஆல் நிதியுதவி பெறும் ஒரு திறந்த மூலத் திட்டம், பங்களிப்பாளர்களாலும் மறுஆய்வாளர்களாலும் கட்டமைக்கப்பட்டது. பங்களிப்பு அங்கீகாரம் ஒவ்வொரு கட்டுரையின் மாற்ற வரலாற்றிலிருந்து தானாக உருவாக்கப்படுகிறது.',
           '1company が協賛するオープンソースプロジェクトで、貢献者とレビュアーによって作られています。クレジットは各記事の変更履歴から自動生成されます。',
           '1company가 후원하고 기여자와 검토자가 만드는 오픈소스 프로젝트입니다. 크레딧은 각 기사의 변경 이력에서 자동으로 생성됩니다.',
+          'โครงการโอเพนซอร์สที่สนับสนุนโดย 1company สร้างขึ้นโดยผู้มีส่วนร่วมและผู้ตรวจทาน เครดิตถูกสร้างขึ้นโดยอัตโนมัติจากประวัติการเปลี่ยนแปลงของแต่ละบทความ',
         ),
         links: [
-          { href: localePath('/contributors', locale), label: L('Lihat penyumbang', 'See contributors', '查看贡献者', 'பங்களிப்பாளர்களைப் பார்க்க', '貢献者を見る', '기여자 보기') },
-          { href: localePath('/roles', locale), label: L('Peranan', 'Roles', '角色', 'பங்குகள்', '役割', '역할') },
+          { href: localePath('/contributors', locale), label: L('Lihat penyumbang', 'See contributors', '查看贡献者', 'பங்களிப்பாளர்களைப் பார்க்க', '貢献者を見る', '기여자 보기', 'ดูผู้มีส่วนร่วม') },
+          { href: localePath('/roles', locale), label: L('Peranan', 'Roles', '角色', 'பங்குகள்', '役割', '역할', 'บทบาท') },
         ],
       },
       {
-        q: L('Apakah lesennya?', 'What’s the license?', '采用什么许可？', 'உரிமம் என்ன?', 'ライセンスは？', '라이선스는 무엇입니까?'),
-        a: L('Kandungan di bawah CC BY-SA 4.0; kod di bawah lesen MIT.', 'Content is under CC BY-SA 4.0; code is under the MIT license.', '内容采用 CC BY-SA 4.0；代码采用 MIT 许可。', 'உள்ளடக்கம் CC BY-SA 4.0 இன் கீழ்; குறியீடு MIT உரிமத்தின் கீழ்.', 'コンテンツは CC BY-SA 4.0、コードは MIT ライセンスの下にあります。', '콘텐츠는 CC BY-SA 4.0을 따르며, 코드는 MIT 라이선스를 따릅니다.'),
+        q: L('Apakah lesennya?', 'What’s the license?', '采用什么许可？', 'உரிமம் என்ன?', 'ライセンスは？', '라이선스는 무엇입니까?', 'ใช้สัญญาอนุญาตแบบใด?'),
+        a: L('Kandungan di bawah CC BY-SA 4.0; kod di bawah lesen MIT.', 'Content is under CC BY-SA 4.0; code is under the MIT license.', '内容采用 CC BY-SA 4.0；代码采用 MIT 许可。', 'உள்ளடக்கம் CC BY-SA 4.0 இன் கீழ்; குறியீடு MIT உரிமத்தின் கீழ்.', 'コンテンツは CC BY-SA 4.0、コードは MIT ライセンスの下にあります。', '콘텐츠는 CC BY-SA 4.0을 따르며, 코드는 MIT 라이선스를 따릅니다.', 'เนื้อหาอยู่ภายใต้ CC BY-SA 4.0; โค้ดอยู่ภายใต้สัญญาอนุญาต MIT'),
       },
     ],
   },
   {
-    title: L('Membaca & bahasa', 'Reading & languages', '阅读与语言', 'வாசிப்பு & மொழிகள்', '読むこと & 言語', '읽기 & 언어'),
+    title: L('Membaca & bahasa', 'Reading & languages', '阅读与语言', 'வாசிப்பு & மொழிகள்', '読むこと & 言語', '읽기 & 언어', 'การอ่านและภาษา'),
     items: [
       {
-        q: L('Bahasa apa yang tersedia?', 'What languages are available?', '有哪些语言？', 'எந்த மொழிகள் கிடைக்கின்றன?', '対応言語は？', '어떤 언어를 이용할 수 있습니까?'),
+        q: L('Bahasa apa yang tersedia?', 'What languages are available?', '有哪些语言？', 'எந்த மொழிகள் கிடைக்கின்றன?', '対応言語は？', '어떤 언어를 이용할 수 있습니까?', 'มีภาษาใดให้ใช้บ้าง?'),
         a: L(
-          'Enam: Bahasa Malaysia (lalai, di /), Inggeris (di /en), Cina (di /zh), Tamil (di /ta), Jepun (di /ja) dan Korea (di /ko). Setiap topik disasarkan untuk hadir penuh dalam kesemua enam.',
-          'Six: Bahasa Malaysia (default, at /), English (at /en), Chinese (at /zh), Tamil (at /ta), Japanese (at /ja) and Korean (at /ko). Every topic aims to be present fully in all six.',
-          '六种：马来文（默认，位于 /）、英文（位于 /en）、中文（位于 /zh）、泰米尔文（位于 /ta）、日文（位于 /ja）和韩文（位于 /ko）。每个主题都力求以六种语言完整呈现。',
-          'ஆறு: பஹாசா மலேசியா (இயல்பு, / இல்), ஆங்கிலம் (/en இல்), சீனம் (/zh இல்), தமிழ் (/ta இல்), ஜப்பானியம் (/ja இல்) மற்றும் கொரியன் (/ko இல்). ஒவ்வொரு தலைப்பும் ஆறிலும் முழுமையாக இருக்க இலக்கு வைக்கிறது.',
-          '6言語：マレー語（既定、/）、英語（/en）、中国語（/zh）、タミル語（/ta）、日本語（/ja）、韓国語（/ko）。すべての主題を6言語すべてで完全に揃えることを目指しています。',
-          '여섯 가지: 말레이어(기본값, /), 영어(/en), 중국어(/zh), 타밀어(/ta), 일본어(/ja), 한국어(/ko). 모든 주제는 이 여섯 언어 모두에서 완전하게 제공되는 것을 목표로 합니다.',
+          'Tujuh: Bahasa Malaysia (lalai, di /), Inggeris (di /en), Cina (di /zh), Tamil (di /ta), Jepun (di /ja), Korea (di /ko) dan Thai (di /th). Setiap topik disasarkan untuk hadir penuh dalam kesemua tujuh.',
+          'Seven: Bahasa Malaysia (default, at /), English (at /en), Chinese (at /zh), Tamil (at /ta), Japanese (at /ja), Korean (at /ko) and Thai (at /th). Every topic aims to be present fully in all seven.',
+          '七种：马来文（默认，位于 /）、英文（位于 /en）、中文（位于 /zh）、泰米尔文（位于 /ta）、日文（位于 /ja）、韩文（位于 /ko）和泰文（位于 /th）。每个主题都力求以七种语言完整呈现。',
+          'ஏழு: பஹாசா மலேசியா (இயல்பு, / இல்), ஆங்கிலம் (/en இல்), சீனம் (/zh இல்), தமிழ் (/ta இல்), ஜப்பானியம் (/ja இல்), கொரியன் (/ko இல்) மற்றும் தாய் (/th இல்). ஒவ்வொரு தலைப்பும் ஏழிலும் முழுமையாக இருக்க இலக்கு வைக்கிறது.',
+          '7言語：マレー語（既定、/）、英語（/en）、中国語（/zh）、タミル語（/ta）、日本語（/ja）、韓国語（/ko）、タイ語（/th）。すべての主題を7言語すべてで完全に揃えることを目指しています。',
+          '일곱 가지: 말레이어(기본값, /), 영어(/en), 중국어(/zh), 타밀어(/ta), 일본어(/ja), 한국어(/ko), 태국어(/th). 모든 주제는 이 일곱 언어 모두에서 완전하게 제공되는 것을 목표로 합니다.',
+          'เจ็ดภาษา: ภาษามาเลเซีย (ค่าเริ่มต้น ที่ /), อังกฤษ (ที่ /en), จีน (ที่ /zh), ทมิฬ (ที่ /ta), ญี่ปุ่น (ที่ /ja), เกาหลี (ที่ /ko) และไทย (ที่ /th) ทุกหัวข้อมุ่งให้มีครบสมบูรณ์ทั้งเจ็ดภาษา',
         ),
       },
       {
-        q: L('Bagaimana jika terjemahan tiada?', 'What if a translation is missing?', '如果缺少翻译怎么办？', 'மொழிபெயர்ப்பு இல்லாவிட்டால் என்ன?', '翻訳がない場合は？', '번역이 없으면 어떻게 됩니까?'),
+        q: L('Bagaimana jika terjemahan tiada?', 'What if a translation is missing?', '如果缺少翻译怎么办？', 'மொழிபெயர்ப்பு இல்லாவிட்டால் என்ன?', '翻訳がない場合は？', '번역이 없으면 어떻게 됩니까?', 'หากไม่มีคำแปลจะเป็นอย่างไร?'),
         a: L(
           'Halaman berpatah balik kepada bahasa induk topik itu, jadi anda tidak pernah menemui halaman kosong. Terjemahan yang lapuk ditanda supaya ia tidak menyesatkan.',
           'The page falls back to the topic’s master language, so you never hit a blank page. Stale translations are flagged so they don’t mislead.',
@@ -85,10 +89,11 @@ const groups: Group[] = [
           'பக்கம் அந்தத் தலைப்பின் மூல மொழிக்குப் பின்வாங்குகிறது, எனவே நீங்கள் ஒருபோதும் காலியான பக்கத்தைக் காண்பதில்லை. வழிதவறச் செய்யாதவாறு காலாவதியான மொழிபெயர்ப்புகள் குறிக்கப்படுகின்றன.',
           'ページはその主題のマスター言語にフォールバックするため、空白のページに出くわすことはありません。古くなった翻訳は誤解を招かないよう印が付けられます。',
           '페이지는 해당 주제의 원본 언어로 대체되므로, 빈 페이지를 보게 되는 일은 없습니다. 오래된 번역은 오해를 주지 않도록 표시됩니다.',
+          'หน้าจะย้อนกลับไปใช้ภาษาต้นฉบับของหัวข้อนั้น ดังนั้นคุณจะไม่พบหน้าว่างเปล่า คำแปลที่ล้าสมัยจะถูกทำเครื่องหมายไว้เพื่อไม่ให้ทำให้เข้าใจผิด',
         ),
       },
       {
-        q: L('Bagaimana saya tahu halaman itu terkini?', 'How do I know a page is current?', '我如何知道页面是否最新？', 'ஒரு பக்கம் தற்போதையது என்பதை நான் எப்படி அறிவது?', 'ページが最新かどうやって分かる？', '페이지가 최신인지 어떻게 알 수 있습니까?'),
+        q: L('Bagaimana saya tahu halaman itu terkini?', 'How do I know a page is current?', '我如何知道页面是否最新？', 'ஒரு பக்கம் தற்போதையது என்பதை நான் எப்படி அறிவது?', 'ページが最新かどうやって分かる？', '페이지가 최신인지 어떻게 알 수 있습니까?', 'ฉันจะรู้ได้อย่างไรว่าหน้านั้นเป็นปัจจุบัน?'),
         a: L(
           'Artikel memaparkan lencana amanah — sama ada ia disemak manusia, dan bila ia perlu disemak semula — dan setiap halaman memautkan sejarah perubahannya di GitHub.',
           'Articles show trust badges — whether they’re human-reviewed, and when they’re due for re-review — and every page links its change history on GitHub.',
@@ -96,15 +101,16 @@ const groups: Group[] = [
           'கட்டுரைகள் நம்பிக்கைச் சின்னங்களைக் காட்டுகின்றன — அவை மனிதரால் மறுஆய்வு செய்யப்பட்டவையா, எப்போது மீள்-மறுஆய்வுக்கு உரியவை என்பதை — மேலும் ஒவ்வொரு பக்கமும் GitHub இல் அதன் மாற்ற வரலாற்றை இணைக்கிறது.',
           '記事には信頼バッジが表示されます — 人によるレビュー済みか、いつ再レビューが必要かを示します — そして各ページは GitHub 上の変更履歴へリンクしています。',
           '기사에는 신뢰 배지가 표시됩니다 — 사람이 검토했는지, 언제 재검토가 필요한지를 나타내며 — 모든 페이지는 GitHub의 변경 이력으로 연결됩니다.',
+          'บทความจะแสดงตราความน่าเชื่อถือ — ว่าได้รับการตรวจทานโดยมนุษย์หรือไม่ และเมื่อใดที่ถึงกำหนดตรวจทานใหม่ — และทุกหน้าจะเชื่อมโยงประวัติการเปลี่ยนแปลงบน GitHub',
         ),
       },
     ],
   },
   {
-    title: L('Kualiti & sumber', 'Quality & sourcing', '质量与来源', 'தரம் & மூலம்', '品質 & 出典', '품질 & 출처'),
+    title: L('Kualiti & sumber', 'Quality & sourcing', '质量与来源', 'தரம் & மூலம்', '品質 & 出典', '품질 & 출처', 'คุณภาพและแหล่งอ้างอิง'),
     items: [
       {
-        q: L('Bagaimana kualiti dijamin?', 'How is quality ensured?', '如何保证质量？', 'தரம் எப்படி உறுதி செய்யப்படுகிறது?', '品質はどう保証されている？', '품질은 어떻게 보장됩니까?'),
+        q: L('Bagaimana kualiti dijamin?', 'How is quality ensured?', '如何保证质量？', 'தரம் எப்படி உறுதி செய்யப்படுகிறது?', '品質はどう保証されている？', '품질은 어떻게 보장됩니까?', 'คุณภาพได้รับการรับประกันอย่างไร?'),
         a: L(
           'Setiap dakwaan yang boleh disemak dipetik sumbernya. Artikel bergerak melalui tangga draf → disemak → diterbitkan, dan pengimbas kesihatan automatik berjalan pada setiap binaan.',
           'Every checkable claim is cited. Articles move through a draft → reviewed → published ladder, and an automated health scanner runs on every build.',
@@ -112,10 +118,11 @@ const groups: Group[] = [
           'சரிபார்க்கக்கூடிய ஒவ்வொரு கூற்றுக்கும் மூலம் மேற்கோள் காட்டப்படுகிறது. கட்டுரைகள் வரைவு → மறுஆய்வு → வெளியீடு என்ற படிநிலை வழியாக நகர்கின்றன, மேலும் ஒவ்வொரு கட்டமைப்பிலும் தானியங்கி ஆரோக்கிய ஸ்கேனர் இயங்குகிறது.',
           '検証可能な主張にはすべて出典が示されます。記事は 下書き → レビュー済み → 公開 という段階を進み、ビルドのたびに自動の健全性スキャナーが実行されます。',
           '확인 가능한 모든 주장에는 출처가 인용됩니다. 기사는 초안 → 검토됨 → 게시됨 단계를 거치며, 빌드할 때마다 자동 상태 점검 스캐너가 실행됩니다.',
+          'ทุกข้อกล่าวอ้างที่ตรวจสอบได้จะมีการอ้างอิงแหล่งที่มา บทความเคลื่อนผ่านลำดับขั้น ร่าง → ตรวจทาน → เผยแพร่ และเครื่องสแกนสุขภาพอัตโนมัติทำงานในทุกการบิลด์',
         ),
       },
       {
-        q: L('Adakah artikel dijana AI?', 'Are the articles AI-generated?', '文章是 AI 生成的吗？', 'கட்டுரைகள் AI ஆல் உருவாக்கப்பட்டவையா?', '記事は AI 生成？', '기사는 AI가 생성합니까?'),
+        q: L('Adakah artikel dijana AI?', 'Are the articles AI-generated?', '文章是 AI 生成的吗？', 'கட்டுரைகள் AI ஆல் உருவாக்கப்பட்டவையா?', '記事は AI 生成？', '기사는 AI가 생성합니까?', 'บทความสร้างขึ้นโดย AI หรือไม่?'),
         a: L(
           'Kebanyakan bermula sebagai draf berpandukan AI, kemudian disunting dan disemak oleh manusia. Kami mendedahkannya secara jujur pada setiap artikel dan pada halaman penyumbang.',
           'Most begin as AI-guided drafts, then are edited and reviewed by humans. We disclose this honestly on each article and on the contributors page.',
@@ -123,10 +130,11 @@ const groups: Group[] = [
           'பெரும்பாலானவை AI-வழிகாட்டப்பட்ட வரைவுகளாகத் தொடங்கி, பின்னர் மனிதர்களால் திருத்தப்பட்டு மறுஆய்வு செய்யப்படுகின்றன. இதை ஒவ்வொரு கட்டுரையிலும் பங்களிப்பாளர்கள் பக்கத்திலும் நாங்கள் நேர்மையாக வெளிப்படுத்துகிறோம்.',
           'ほとんどは AI が下書きを作成し、その後、人間が編集・レビューします。私たちはこれを各記事と貢献者ページで正直に開示しています。',
           '대부분은 AI의 도움을 받은 초안으로 시작하여, 이후 사람이 편집하고 검토합니다. 저희는 이를 각 기사와 기여자 페이지에서 정직하게 공개합니다.',
+          'ส่วนใหญ่เริ่มต้นเป็นร่างที่ AI ช่วยชี้แนะ จากนั้นได้รับการแก้ไขและตรวจทานโดยมนุษย์ เราเปิดเผยเรื่องนี้อย่างตรงไปตรงมาในแต่ละบทความและในหน้าผู้มีส่วนร่วม',
         ),
       },
       {
-        q: L('Bagaimana saya melaporkan kesilapan?', 'How do I report an error?', '我如何报告错误？', 'ஒரு பிழையை நான் எப்படிப் புகாரளிப்பது?', '誤りはどう報告する？', '오류는 어떻게 신고합니까?'),
+        q: L('Bagaimana saya melaporkan kesilapan?', 'How do I report an error?', '我如何报告错误？', 'ஒரு பிழையை நான் எப்படிப் புகாரளிப்பது?', '誤りはどう報告する？', '오류는 어떻게 신고합니까?', 'ฉันจะรายงานข้อผิดพลาดได้อย่างไร?'),
         a: L(
           'Guna pautan “Laporkan isu” di bahagian bawah mana-mana artikel — ia membuka isu GitHub yang telah diisi. Laporan yang sah menandakan artikel itu “perlu kemas kini” secara automatik.',
           'Use the “Report an issue” link at the bottom of any article — it opens a pre-filled GitHub issue. A valid report automatically flags the article as “needs update”.',
@@ -134,16 +142,17 @@ const groups: Group[] = [
           'எந்த கட்டுரையின் கீழேயும் உள்ள “சிக்கலைப் புகாரளி” இணைப்பைப் பயன்படுத்துங்கள் — அது முன்-நிரப்பப்பட்ட GitHub issue ஐத் திறக்கிறது. செல்லுபடியாகும் புகார் தானாகவே கட்டுரையை “புதுப்பிப்பு தேவை” எனக் குறிக்கிறது.',
           'どの記事の下部にもある「問題を報告」リンクを使ってください — 内容が事前入力された GitHub の issue が開きます。有効な報告があると、その記事は自動的に「要更新」と印が付きます。',
           '기사 하단에 있는 "문제 신고" 링크를 사용하십시오 — 내용이 미리 채워진 GitHub 이슈가 열립니다. 유효한 신고는 해당 기사를 자동으로 "업데이트 필요"로 표시합니다.',
+          'ใช้ลิงก์ “รายงานปัญหา” ที่ด้านล่างของบทความใดก็ได้ — จะเปิด GitHub issue ที่กรอกไว้ล่วงหน้า รายงานที่ถูกต้องจะทำเครื่องหมายบทความว่า “ต้องอัปเดต” โดยอัตโนมัติ',
         ),
-        links: [{ href: localePath('/contribute', locale), label: L('Cara melapor & mencadang', 'How to report & suggest', '如何报告与建议', 'எப்படிப் புகாரளிப்பது & பரிந்துரைப்பது', '報告・提案の方法', '신고 및 제안 방법') }],
+        links: [{ href: localePath('/contribute', locale), label: L('Cara melapor & mencadang', 'How to report & suggest', '如何报告与建议', 'எப்படிப் புகாரளிப்பது & பரிந்துரைப்பது', '報告・提案の方法', '신고 및 제안 방법', 'วิธีรายงานและเสนอแนะ') }],
       },
     ],
   },
   {
-    title: L('Topik sensitif', 'Sensitive topics', '敏感话题', 'உணர்வுபூர்வமான தலைப்புகள்', 'デリケートな話題', '민감한 주제'),
+    title: L('Topik sensitif', 'Sensitive topics', '敏感话题', 'உணர்வுபூர்வமான தலைப்புகள்', 'デリケートな話題', '민감한 주제', 'หัวข้อที่ละเอียดอ่อน'),
     items: [
       {
-        q: L('Bagaimana isu sensitif dikendalikan?', 'How are sensitive topics handled?', '如何处理敏感话题？', 'உணர்வுபூர்வமான தலைப்புகள் எப்படிக் கையாளப்படுகின்றன?', 'デリケートな話題はどう扱われる？', '민감한 주제는 어떻게 처리됩니까?'),
+        q: L('Bagaimana isu sensitif dikendalikan?', 'How are sensitive topics handled?', '如何处理敏感话题？', 'உணர்வுபூர்வமான தலைப்புகள் எப்படிக் கையாளப்படுகின்றன?', 'デリケートな話題はどう扱われる？', '민감한 주제는 어떻게 처리됩니까?', 'หัวข้อที่ละเอียดอ่อนได้รับการจัดการอย่างไร?'),
         a: L(
           'Topik yang menyentuh kaum, agama, institusi diraja atau perlembagaan dilabel mengikut satu piawai klasifikasi. Ia mesti bersumber dan neutral, dan tidak boleh diterbitkan tanpa semakan manusia bernama.',
           'Topics touching race, religion, royalty or the constitution are labelled by a single classification standard. They must be sourced and neutral, and cannot be published without a named human review.',
@@ -151,10 +160,11 @@ const groups: Group[] = [
           'இனம், மதம், அரச குடும்பம் அல்லது அரசியலமைப்பைத் தொடும் தலைப்புகள் ஒரே வகைப்பாட்டுத் தரநிலையின்படி பெயரிடப்படுகின்றன. அவை மூலம் காட்டப்பட்டதாகவும் நடுநிலையாகவும் இருக்க வேண்டும், மேலும் பெயரிடப்பட்ட மனித மறுஆய்வு இன்றி வெளியிட முடியாது.',
           '人種、宗教、王室、憲法に触れる話題は、単一の分類基準に従って区分されます。出典を伴い中立でなければならず、氏名の記された人によるレビューなしには公開できません。',
           '인종, 종교, 왕실 또는 헌법과 관련된 주제는 단일 분류 기준에 따라 표시됩니다. 이들은 출처가 있고 중립적이어야 하며, 이름이 명시된 사람의 검토 없이는 게시될 수 없습니다.',
+          'หัวข้อที่เกี่ยวข้องกับเชื้อชาติ ศาสนา สถาบันพระมหากษัตริย์ หรือรัฐธรรมนูญ จะถูกจำแนกตามมาตรฐานการจัดประเภทเดียว หัวข้อเหล่านี้ต้องมีแหล่งอ้างอิงและเป็นกลาง และไม่สามารถเผยแพร่ได้หากปราศจากการตรวจทานโดยมนุษย์ที่ระบุชื่อ',
         ),
       },
       {
-        q: L('Kenapa nadanya neutral?', 'Why is the tone neutral?', '为什么语气保持中立？', 'ஏன் தொனி நடுநிலையாக உள்ளது?', 'なぜ中立的な論調なの？', '왜 논조가 중립적입니까?'),
+        q: L('Kenapa nadanya neutral?', 'Why is the tone neutral?', '为什么语气保持中立？', 'ஏன் தொனி நடுநிலையாக உள்ளது?', 'なぜ中立的な論調なの？', '왜 논조가 중립적입니까?', 'เหตุใดน้ำเสียงจึงเป็นกลาง?'),
         a: L(
           'Matlamatnya menerangkan, bukan menetapkan. Pada isu yang dipertikaikan, kami menyampaikan fakta dan kedudukan yang bersumber tanpa mengambil pihak.',
           'The goal is to describe, not prescribe. On contested subjects we present sourced facts and positions without taking a side.',
@@ -162,15 +172,16 @@ const groups: Group[] = [
           'இலக்கு விவரிப்பது, விதிப்பது அல்ல. சர்ச்சைக்குரிய தலைப்புகளில் நாங்கள் ஒரு பக்கம் சாராமல் மூலம் காட்டப்பட்ட உண்மைகளையும் நிலைப்பாடுகளையும் முன்வைக்கிறோம்.',
           '目的は記述することであって、規定することではありません。争いのある主題については、どちらかの側に立たず、出典のある事実と立場を提示します。',
           '목표는 규정하는 것이 아니라 서술하는 것입니다. 논란이 있는 주제에서는 어느 편도 들지 않고 출처가 있는 사실과 입장을 제시합니다.',
+          'เป้าหมายคือการบรรยาย ไม่ใช่การกำหนด ในประเด็นที่มีข้อโต้แย้ง เรานำเสนอข้อเท็จจริงและจุดยืนที่มีแหล่งอ้างอิงโดยไม่เข้าข้างฝ่ายใด',
         ),
       },
     ],
   },
   {
-    title: L('Menyumbang', 'Contributing', '参与贡献', 'பங்களித்தல்', '貢献する', '기여하기'),
+    title: L('Menyumbang', 'Contributing', '参与贡献', 'பங்களித்தல்', '貢献する', '기여하기', 'การมีส่วนร่วม'),
     items: [
       {
-        q: L('Bolehkah saya menyumbang?', 'Can I contribute?', '我可以贡献吗？', 'நான் பங்களிக்கலாமா?', '貢献できますか？', '제가 기여할 수 있습니까?'),
+        q: L('Bolehkah saya menyumbang?', 'Can I contribute?', '我可以贡献吗？', 'நான் பங்களிக்கலாமா?', '貢献できますか？', '제가 기여할 수 있습니까?', 'ฉันสามารถมีส่วนร่วมได้หรือไม่?'),
         a: L(
           'Ya. Sesiapa boleh melapor atau mencadang tanpa jemputan. Menulis dan menterjemah adalah melalui fork + pull request, dengan keahlian org diberikan atas permintaan — seorang penyelenggara menjemput anda.',
           'Yes. Anyone can report or suggest without an invitation. Authoring and translating are via fork + pull request, with org membership granted on request — a maintainer invites you.',
@@ -178,11 +189,12 @@ const groups: Group[] = [
           'ஆம். யார் வேண்டுமானாலும் அழைப்பின்றிப் புகாரளிக்கலாம் அல்லது பரிந்துரைக்கலாம். எழுதுதலும் மொழிபெயர்த்தலும் fork + pull request வழியாக நடக்கின்றன, org உறுப்பினர் தகுதி கோரிக்கையின் பேரில் வழங்கப்படுகிறது — ஒரு பராமரிப்பாளர் உங்களை அழைக்கிறார்.',
           'はい。誰でも招待なしに報告や提案ができます。執筆や翻訳は fork + pull request で行い、org メンバーシップはリクエストに応じて付与されます — メンテナーがあなたを招待します。',
           '예. 누구나 초대 없이 신고하거나 제안할 수 있습니다. 집필과 번역은 fork + pull request를 통해 이루어지며, 조직 멤버십은 요청 시 부여됩니다 — 관리자가 여러분을 초대합니다.',
+          'ได้ ใครก็สามารถรายงานหรือเสนอแนะได้โดยไม่ต้องมีคำเชิญ การเขียนและการแปลทำผ่าน fork + pull request โดยสมาชิกภาพขององค์กรจะมอบให้ตามคำขอ — ผู้ดูแลจะเชิญคุณ',
         ),
-        links: [{ href: localePath('/roles', locale), label: L('Peranan & cara menyertai', 'Roles & how to join', '角色与加入方式', 'பங்குகள் & எப்படிச் சேருவது', '役割 & 参加方法', '역할 & 참여 방법') }],
+        links: [{ href: localePath('/roles', locale), label: L('Peranan & cara menyertai', 'Roles & how to join', '角色与加入方式', 'பங்குகள் & எப்படிச் சேருவது', '役割 & 参加方法', '역할 & 참여 방법', 'บทบาทและวิธีเข้าร่วม') }],
       },
       {
-        q: L('Saya tidak biasa dengan GitHub.', 'I’m not familiar with GitHub.', '我不熟悉 GitHub。', 'எனக்கு GitHub பரிச்சயம் இல்லை.', 'GitHub に不慣れです。', 'GitHub에 익숙하지 않습니다.'),
+        q: L('Saya tidak biasa dengan GitHub.', 'I’m not familiar with GitHub.', '我不熟悉 GitHub。', 'எனக்கு GitHub பரிச்சயம் இல்லை.', 'GitHub に不慣れです。', 'GitHub에 익숙하지 않습니다.', 'ฉันไม่คุ้นเคยกับ GitHub'),
         a: L(
           'Itu tidak mengapa. Borang berpandu di laman membuka isu yang telah diisi untuk anda — tiada pengetahuan Git diperlukan untuk melapor atau mencadang.',
           'That’s fine. The guided forms on the site open a pre-filled issue for you — no Git knowledge is needed to report or suggest.',
@@ -190,10 +202,11 @@ const groups: Group[] = [
           'அது பரவாயில்லை. தளத்தில் உள்ள வழிகாட்டப்பட்ட படிவங்கள் உங்களுக்காக முன்-நிரப்பப்பட்ட issue ஐத் திறக்கின்றன — புகாரளிக்கவோ பரிந்துரைக்கவோ எந்த Git அறிவும் தேவையில்லை.',
           '問題ありません。サイトのガイド付きフォームが、内容の入力済みの issue を開いてくれます — 報告や提案に Git の知識は不要です。',
           '괜찮습니다. 사이트의 안내형 양식이 내용이 미리 채워진 이슈를 대신 열어 줍니다 — 신고하거나 제안하는 데 Git 지식은 필요하지 않습니다.',
+          'ไม่เป็นไร แบบฟอร์มที่มีคำแนะนำบนเว็บไซต์จะเปิด issue ที่กรอกไว้ล่วงหน้าให้คุณ — ไม่จำเป็นต้องมีความรู้ Git ในการรายงานหรือเสนอแนะ',
         ),
       },
       {
-        q: L('Bagaimana saya membantu menterjemah?', 'How do I help translate?', '我如何帮助翻译？', 'மொழிபெயர்க்க நான் எப்படி உதவுவது?', '翻訳を手伝うには？', '번역을 어떻게 도울 수 있습니까?'),
+        q: L('Bagaimana saya membantu menterjemah?', 'How do I help translate?', '我如何帮助翻译？', 'மொழிபெயர்க்க நான் எப்படி உதவுவது?', '翻訳を手伝うには？', '번역을 어떻게 도울 수 있습니까?', 'ฉันจะช่วยแปลได้อย่างไร?'),
         a: L(
           '“Derma Token AI Anda” — gunakan kunci Claude anda sendiri untuk mendraf terjemahan, semaknya, kemudian buka PR. Anda membelanjakan token anda; projek membelanjakan sifar.',
           '“Donate your AI Token” — use your own Claude key to draft a translation, review it, then open a PR. You spend your tokens; the project spends none.',
@@ -201,16 +214,17 @@ const groups: Group[] = [
           '“உங்கள் AI டோக்கனை நன்கொடையளியுங்கள்” — ஒரு மொழிபெயர்ப்பை வரைவு செய்ய உங்கள் சொந்த Claude கீயைப் பயன்படுத்துங்கள், அதை மறுஆய்வு செய்யுங்கள், பின்னர் ஒரு PR ஐத் திறங்கள். நீங்கள் உங்கள் டோக்கன்களைச் செலவழிக்கிறீர்கள்; திட்டம் எதையும் செலவழிக்காது.',
           '「あなたの AI トークンを寄付」 — ご自身の Claude キーで翻訳を下書きし、レビューしてから PR を開きます。トークンを使うのはあなたで、プロジェクトの負担はゼロです。',
           '"당신의 AI 토큰을 기부하세요" — 자신의 Claude 키를 사용해 번역 초안을 작성하고, 검토한 다음, PR을 엽니다. 토큰은 여러분이 소비하고, 프로젝트는 전혀 소비하지 않습니다.',
+          '“บริจาคโทเค็น AI ของคุณ” — ใช้คีย์ Claude ของคุณเองในการร่างคำแปล ตรวจทาน แล้วเปิด PR คุณใช้โทเค็นของคุณ ส่วนโครงการไม่ใช้เลย',
         ),
-        links: [{ href: localePath('/donate', locale), label: L('Derma Token AI Anda', 'Donate Your AI Token', '捐赠你的 AI Token', 'உங்கள் AI டோக்கனை நன்கொடையளியுங்கள்', 'あなたの AI トークンを寄付', '당신의 AI 토큰을 기부하세요') }],
+        links: [{ href: localePath('/donate', locale), label: L('Derma Token AI Anda', 'Donate Your AI Token', '捐赠你的 AI Token', 'உங்கள் AI டோக்கனை நன்கொடையளியுங்கள்', 'あなたの AI トークンを寄付', '당신의 AI 토큰을 기부하세요', 'บริจาคโทเค็น AI ของคุณ') }],
       },
     ],
   },
   {
-    title: L('Untuk AI & pembangun', 'For AI & developers', '面向 AI 与开发者', 'AI & டெவலப்பர்களுக்கு', 'AI & 開発者向け', 'AI & 개발자를 위해'),
+    title: L('Untuk AI & pembangun', 'For AI & developers', '面向 AI 与开发者', 'AI & டெவலப்பர்களுக்கு', 'AI & 開発者向け', 'AI & 개발자를 위해', 'สำหรับ AI และนักพัฒนา'),
     items: [
       {
-        q: L('Bolehkah AI menggunakan kandungan ini?', 'Can AI use this content?', 'AI 可以使用这些内容吗？', 'AI இந்த உள்ளடக்கத்தைப் பயன்படுத்தலாமா?', 'AI はこのコンテンツを利用できる？', 'AI가 이 콘텐츠를 사용할 수 있습니까?'),
+        q: L('Bolehkah AI menggunakan kandungan ini?', 'Can AI use this content?', 'AI 可以使用这些内容吗？', 'AI இந்த உள்ளடக்கத்தைப் பயன்படுத்தலாமா?', 'AI はこのコンテンツを利用できる？', 'AI가 이 콘텐츠를 사용할 수 있습니까?', 'AI สามารถใช้เนื้อหานี้ได้หรือไม่?'),
         a: L(
           'Ya. Setiap halaman menawarkan Markdown mentahnya, dan laman ini menerbitkan llms.txt untuk model bahasa besar. Kandungan di bawah CC BY-SA 4.0.',
           'Yes. Every page offers its raw Markdown, and the site publishes an llms.txt for large language models. Content is under CC BY-SA 4.0.',
@@ -218,11 +232,12 @@ const groups: Group[] = [
           'ஆம். ஒவ்வொரு பக்கமும் அதன் மூல Markdown ஐ வழங்குகிறது, மேலும் தளம் பெரிய மொழி மாதிரிகளுக்காக ஒரு llms.txt ஐ வெளியிடுகிறது. உள்ளடக்கம் CC BY-SA 4.0 இன் கீழ்.',
           'はい。各ページは生の Markdown を提供し、サイトは大規模言語モデル向けに llms.txt を公開しています。コンテンツは CC BY-SA 4.0 の下にあります。',
           '예. 모든 페이지는 원본 Markdown을 제공하며, 사이트는 대규모 언어 모델을 위한 llms.txt를 게시합니다. 콘텐츠는 CC BY-SA 4.0을 따릅니다.',
+          'ได้ ทุกหน้ามี Markdown ดิบให้ใช้ และเว็บไซต์เผยแพร่ llms.txt สำหรับโมเดลภาษาขนาดใหญ่ เนื้อหาอยู่ภายใต้ CC BY-SA 4.0',
         ),
         links: [{ href: '/llms.txt', label: 'llms.txt' }],
       },
       {
-        q: L('Bolehkah saya fork atau hos sendiri?', 'Can I fork or self-host it?', '我可以 fork 或自建吗？', 'நான் இதை fork செய்யலாமா அல்லது சொந்தமாக ஹோஸ்ட் செய்யலாமா?', 'fork やセルフホストはできる？', 'fork하거나 직접 호스팅할 수 있습니까?'),
+        q: L('Bolehkah saya fork atau hos sendiri?', 'Can I fork or self-host it?', '我可以 fork 或自建吗？', 'நான் இதை fork செய்யலாமா அல்லது சொந்தமாக ஹோஸ்ட் செய்யலாமா?', 'fork やセルフホストはできる？', 'fork하거나 직접 호스팅할 수 있습니까?', 'ฉันสามารถ fork หรือโฮสต์เองได้หรือไม่?'),
         a: L(
           'Boleh. Kod di bawah lesen MIT dan keseluruhan repositori adalah awam. Fork ia, bina secara statik, dan hos di mana-mana.',
           'You can. The code is under the MIT license and the whole repository is public. Fork it, build it statically, and host it anywhere.',
@@ -230,8 +245,9 @@ const groups: Group[] = [
           'செய்யலாம். குறியீடு MIT உரிமத்தின் கீழ் உள்ளது, முழு களஞ்சியமும் பொதுவானது. அதை fork செய்யுங்கள், நிலையான முறையில் கட்டமைக்கவும், எங்கும் ஹோஸ்ட் செய்யவும்.',
           'できます。コードは MIT ライセンスの下にあり、リポジトリ全体が公開されています。fork して静的にビルドし、どこにでもホストできます。',
           '가능합니다. 코드는 MIT 라이선스를 따르며 전체 저장소가 공개되어 있습니다. fork하여 정적으로 빌드한 다음, 어디에서든 호스팅하십시오.',
+          'ได้ โค้ดอยู่ภายใต้สัญญาอนุญาต MIT และที่เก็บทั้งหมดเป็นสาธารณะ fork มัน บิลด์แบบสแตติก แล้วโฮสต์ที่ใดก็ได้',
         ),
-        links: [{ href: REPO, label: L('Repositori GitHub', 'GitHub repository', 'GitHub 仓库', 'GitHub களஞ்சியம்', 'GitHub リポジトリ', 'GitHub 저장소') }],
+        links: [{ href: REPO, label: L('Repositori GitHub', 'GitHub repository', 'GitHub 仓库', 'GitHub களஞ்சியம்', 'GitHub リポジトリ', 'GitHub 저장소', 'ที่เก็บ GitHub') }],
       },
     ],
   },
@@ -256,10 +272,10 @@ const isExternal = (href: string) => /^https?:\/\//.test(href);
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
-    { label: L('Soalan Lazim', 'FAQ', '常见问题', 'அடிக்கடி கேட்கப்படும் கேள்விகள்', 'よくある質問', '자주 묻는 질문') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก'), href: localePath('/', locale) },
+    { label: L('Soalan Lazim', 'FAQ', '常见问题', 'அடிக்கடி கேட்கப்படும் கேள்விகள்', 'よくある質問', '자주 묻는 질문', 'คำถามที่พบบ่อย') },
   ]}
-  title={L('Soalan Lazim', 'Frequently asked questions', '常见问题', 'அடிக்கடி கேட்கப்படும் கேள்விகள்', 'よくある質問', '자주 묻는 질문')}
+  title={L('Soalan Lazim', 'Frequently asked questions', '常见问题', 'அடிக்கடி கேட்கப்படும் கேள்விகள்', 'よくある質問', '자주 묻는 질문', 'คำถามที่พบบ่อย')}
   desc={L(
     'Perkara yang paling kerap ditanya tentang NegaraKu.md — apa itu, bagaimana kualitinya dijaga, dan cara mengambil bahagian.',
     'The things most often asked about NegaraKu.md — what it is, how its quality is kept, and how to take part.',
@@ -267,6 +283,7 @@ const isExternal = (href: string) => /^https?:\/\//.test(href);
     'NegaraKu.md பற்றி அடிக்கடி கேட்கப்படும் விஷயங்கள் — அது என்ன, அதன் தரம் எப்படிப் பேணப்படுகிறது, மேலும் எப்படிப் பங்கேற்பது.',
     'NegaraKu.md について最もよく寄せられる質問 — それが何か、品質はどう保たれているか、そしてどう参加するか。',
     'NegaraKu.md에 관해 가장 자주 묻는 것들 — 그것이 무엇인지, 품질은 어떻게 유지되는지, 그리고 어떻게 참여하는지.',
+    'สิ่งที่ถูกถามบ่อยที่สุดเกี่ยวกับ NegaraKu.md — คืออะไร คุณภาพได้รับการดูแลอย่างไร และจะเข้าร่วมได้อย่างไร',
   )}
 />
 
@@ -298,10 +315,10 @@ const isExternal = (href: string) => /^https?:\/\//.test(href);
   ))}
 
   <div class="more">
-    <p>{L('Tidak menemui jawapannya?', 'Didn’t find your answer?', '没找到答案？', 'உங்கள் பதிலைக் கண்டுபிடிக்கவில்லையா?', '答えが見つかりませんでしたか？', '답을 찾지 못하셨습니까?')}</p>
+    <p>{L('Tidak menemui jawapannya?', 'Didn’t find your answer?', '没找到答案？', 'உங்கள் பதிலைக் கண்டுபிடிக்கவில்லையா?', '答えが見つかりませんでしたか？', '답을 찾지 못하셨습니까?', 'ไม่พบคำตอบของคุณ?')}</p>
     <div class="more-acts">
-      <a class="btn btn-primary" href={localePath('/contribute', locale)}>{L('Tanya atau laporkan', 'Ask or report', '提问或报告', 'கேளுங்கள் அல்லது புகாரளியுங்கள்', '質問または報告', '질문 또는 신고')} →</a>
-      <a class="btn btn-ghost" href={localePath('/about', locale)}>{L('Tentang NegaraKu.md', 'About NegaraKu.md', '关于 NegaraKu.md', 'NegaraKu.md பற்றி', 'NegaraKu.md について', 'NegaraKu.md 소개')} →</a>
+      <a class="btn btn-primary" href={localePath('/contribute', locale)}>{L('Tanya atau laporkan', 'Ask or report', '提问或报告', 'கேளுங்கள் அல்லது புகாரளியுங்கள்', '質問または報告', '질문 또는 신고', 'ถามหรือรายงาน')} →</a>
+      <a class="btn btn-ghost" href={localePath('/about', locale)}>{L('Tentang NegaraKu.md', 'About NegaraKu.md', '关于 NegaraKu.md', 'NegaraKu.md பற்றி', 'NegaraKu.md について', 'NegaraKu.md 소개', 'เกี่ยวกับ NegaraKu.md')} →</a>
     </div>
   </div>
 </section>

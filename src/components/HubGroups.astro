@@ -49,7 +49,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
         <header>
           <span>
             <span class="pi" aria-hidden="true">🧭</span>
-            {L('Topik', 'Topics', '主题', 'தலைப்புகள்', 'トピック', '주제')}
+            {L('Topik', 'Topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ')}
           </span>
           <span>{topics.length}</span>
         </header>
@@ -64,7 +64,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
               >
                 <span class="bar" aria-hidden="true" />
                 <b>{subcatLabel(t, locale)}</b>
-                <span class="tc-count">{topicCount(t)} {L('artikel', 'articles', '篇', 'கட்டுரைகள்', '記事', '개 기사')} →</span>
+                <span class="tc-count">{topicCount(t)} {L('artikel', 'articles', '篇', 'கட்டுரைகள்', '記事', '개 기사', 'บทความ')} →</span>
               </a>
             ))}
           </div>
@@ -79,7 +79,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
     <header>
       <span>
         <span class="pi" aria-hidden="true">🗂️</span>
-        {L('Kategori', 'Categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리')}
+        {L('Kategori', 'Categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리', 'หมวดหมู่')}
       </span>
       <span>{cats.length}</span>
     </header>
@@ -113,7 +113,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
     <header>
       <span>
         <span class="pi" aria-hidden="true">🗺️</span>
-        {L('Tonggak', 'Pillars', '支柱', 'தூண்கள்', '柱', '기둥')}
+        {L('Tonggak', 'Pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก')}
       </span>
       <span>{PILLARS.length}</span>
     </header>

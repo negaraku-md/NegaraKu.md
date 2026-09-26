@@ -29,10 +29,10 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
-    { label: L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก'), href: localePath('/', locale) },
+    { label: L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด') },
   ]}
-  title={L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사')}
+  title={L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด')}
   desc={L(
     'Semak imbas keseluruhan pangkalan pengetahuan — isih, tapis dan cari.',
     'Browse the whole knowledge base — sort, filter and search.',
@@ -40,12 +40,13 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
     'முழு அறிவுத் தளத்தையும் உலாவுங்கள் — வரிசைப்படுத்து, வடிகட்டு மற்றும் தேடு.',
     'ナレッジベース全体を閲覧できます——並べ替え、絞り込み、検索が可能です。',
     '지식 베이스 전체를 둘러보세요 — 정렬, 필터링, 검색이 가능합니다.',
+    'เรียกดูฐานความรู้ทั้งหมด — จัดเรียง กรอง และค้นหา.',
   )}
   stats={[
-    { value: secCount, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥') },
-    { value: catCount, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리') },
-    { value: topCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리') },
-    { value: canonical.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제') },
+    { value: secCount, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก') },
+    { value: catCount, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리', 'หมวดหมู่') },
+    { value: topCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리', 'หมวดหมู่ย่อย') },
+    { value: canonical.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ') },
   ]}
 />
 

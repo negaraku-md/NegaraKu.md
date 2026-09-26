@@ -36,14 +36,14 @@ const mrKeys = mostReadKeys(inPillar, STRIP);
 
 <PageHero
   locale={locale}
-  crumb={[{ label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) }, { label: loc(def.name, locale) }]}
+  crumb={[{ label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก'), href: localePath('/', locale) }, { label: loc(def.name, locale) }]}
   title={loc(def.name, locale)}
   desc={loc(def.tagline, locale)}
   stats={[
-    { value: PILLARS.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥') },
-    { value: cats.length, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ', '카테고리') },
-    { value: topicCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ', '하위 카테고리') },
-    { value: inPillar.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제') },
+    { value: PILLARS.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก') },
+    { value: cats.length, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ', '카테고리', 'หมวดหมู่') },
+    { value: topicCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ', '하위 카테고리', 'หมวดหมู่ย่อย') },
+    { value: inPillar.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ') },
   ]}
 />
 

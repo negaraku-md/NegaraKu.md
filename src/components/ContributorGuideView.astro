@@ -14,71 +14,71 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
 const tools = [
   {
     icon: '🔀',
-    title: L('Barisan semakan', 'Review queue', '审核队列', 'மறுஆய்வு வரிசை', 'レビュー待ち一覧', '검토 대기열'),
-    body: L('Pull request terbuka menunggu semakan — bantu semak dan luluskan.', 'Open pull requests awaiting review — help review and approve.', '等待审核的开放 PR——帮忙审阅与批准。', 'மறுஆய்வுக்காகக் காத்திருக்கும் திறந்த pull request-கள் — மறுஆய்வு செய்து ஒப்புதல் அளிக்க உதவுங்கள்.', 'レビュー待ちのオープン PR — レビューと承認にご協力ください。', '검토를 기다리는 열린 pull request — 검토하고 승인하는 데 도움을 주십시오.'),
+    title: L('Barisan semakan', 'Review queue', '审核队列', 'மறுஆய்வு வரிசை', 'レビュー待ち一覧', '검토 대기열', 'คิวการตรวจทาน'),
+    body: L('Pull request terbuka menunggu semakan — bantu semak dan luluskan.', 'Open pull requests awaiting review — help review and approve.', '等待审核的开放 PR——帮忙审阅与批准。', 'மறுஆய்வுக்காகக் காத்திருக்கும் திறந்த pull request-கள் — மறுஆய்வு செய்து ஒப்புதல் அளிக்க உதவுங்கள்.', 'レビュー待ちのオープン PR — レビューと承認にご協力ください。', '검토를 기다리는 열린 pull request — 검토하고 승인하는 데 도움을 주십시오.', 'pull request ที่เปิดอยู่และรอการตรวจทาน — ช่วยตรวจทานและอนุมัติ'),
   },
   {
     icon: '📝',
-    title: L('Artikel draf', 'Draft articles', '草稿文章', 'வரைவுக் கட்டுரைகள்', '下書き記事', '초안 기사'),
-    body: L('Draf yang belum terbit — sesuai untuk disiapkan atau disemak.', 'Drafts not yet published — good candidates to finish or review.', '尚未发布的草稿——适合完善或审阅。', 'இன்னும் வெளியிடப்படாத வரைவுகள் — முடிக்கவோ மறுஆய்வு செய்யவோ ஏற்ற தேர்வுகள்.', 'まだ公開されていない下書き — 仕上げやレビューに最適です。', '아직 게시되지 않은 초안 — 완성하거나 검토하기에 좋은 대상입니다.'),
+    title: L('Artikel draf', 'Draft articles', '草稿文章', 'வரைவுக் கட்டுரைகள்', '下書き記事', '초안 기사', 'บทความฉบับร่าง'),
+    body: L('Draf yang belum terbit — sesuai untuk disiapkan atau disemak.', 'Drafts not yet published — good candidates to finish or review.', '尚未发布的草稿——适合完善或审阅。', 'இன்னும் வெளியிடப்படாத வரைவுகள் — முடிக்கவோ மறுஆய்வு செய்யவோ ஏற்ற தேர்வுகள்.', 'まだ公開されていない下書き — 仕上げやレビューに最適です。', '아직 게시되지 않은 초안 — 완성하거나 검토하기에 좋은 대상입니다.', 'ฉบับร่างที่ยังไม่เผยแพร่ — เหมาะแก่การทำให้เสร็จหรือตรวจทาน'),
   },
   {
     icon: '🐛',
-    title: L('Isu artikel & terjemahan', 'Article & translation issues', '文章与翻译问题', 'கட்டுரை & மொழிபெயர்ப்பு சிக்கல்கள்', '記事・翻訳の課題', '기사 & 번역 이슈'),
-    body: L('Isu berlabel di GitHub — pembetulan, permintaan, masalah terjemahan.', 'Labelled issues on GitHub — fixes, requests, translation problems.', 'GitHub 上带标签的问题——更正、请求、翻译问题。', 'GitHub-இல் லேபிளிடப்பட்ட சிக்கல்கள் — திருத்தங்கள், கோரிக்கைகள், மொழிபெயர்ப்புச் சிக்கல்கள்.', 'GitHub のラベル付き課題 — 修正、要望、翻訳の問題。', 'GitHub의 라벨이 붙은 이슈 — 수정, 요청, 번역 문제.'),
+    title: L('Isu artikel & terjemahan', 'Article & translation issues', '文章与翻译问题', 'கட்டுரை & மொழிபெயர்ப்பு சிக்கல்கள்', '記事・翻訳の課題', '기사 & 번역 이슈', 'ปัญหาบทความและการแปล'),
+    body: L('Isu berlabel di GitHub — pembetulan, permintaan, masalah terjemahan.', 'Labelled issues on GitHub — fixes, requests, translation problems.', 'GitHub 上带标签的问题——更正、请求、翻译问题。', 'GitHub-இல் லேபிளிடப்பட்ட சிக்கல்கள் — திருத்தங்கள், கோரிக்கைகள், மொழிபெயர்ப்புச் சிக்கல்கள்.', 'GitHub のラベル付き課題 — 修正、要望、翻訳の問題。', 'GitHub의 라벨이 붙은 이슈 — 수정, 요청, 번역 문제.', 'issue ที่ติดป้ายกำกับบน GitHub — การแก้ไข คำร้องขอ และปัญหาการแปล'),
   },
   {
     icon: '🗂️',
-    title: L('Senarai kerja', 'Worklist', '工作清单', 'பணிப் பட்டியல்', '作業リスト', '작업 목록'),
-    body: L('Pandangan di laman tentang apa yang perlu perhatian seterusnya.', 'An on-site view of what needs attention next.', '站内视图，显示接下来需要关注的内容。', 'அடுத்ததாக என்ன கவனம் தேவை என்பதை தளத்திலேயே காட்டும் பார்வை.', '次に対応が必要なものをサイト上で表示します。', '다음으로 주의가 필요한 것을 사이트에서 보여 주는 화면입니다.'),
+    title: L('Senarai kerja', 'Worklist', '工作清单', 'பணிப் பட்டியல்', '作業リスト', '작업 목록', 'รายการงาน'),
+    body: L('Pandangan di laman tentang apa yang perlu perhatian seterusnya.', 'An on-site view of what needs attention next.', '站内视图，显示接下来需要关注的内容。', 'அடுத்ததாக என்ன கவனம் தேவை என்பதை தளத்திலேயே காட்டும் பார்வை.', '次に対応が必要なものをサイト上で表示します。', '다음으로 주의가 필요한 것을 사이트에서 보여 주는 화면입니다.', 'มุมมองบนเว็บไซต์ที่แสดงสิ่งที่ต้องให้ความสนใจต่อไป'),
   },
   {
     icon: '📊',
-    title: L('Papan pemuka', 'Dashboard', '仪表板', 'கட்டுப்பாட்டுப் பலகை', 'ダッシュボード', '대시보드'),
-    body: L('Kesihatan korpus — liputan, keterkinian terjemahan, semakan tertunggak.', 'Corpus health — coverage, translation freshness, overdue reviews.', '语料库健康度——覆盖率、翻译新鲜度、逾期审阅。', 'தொகுப்பின் ஆரோக்கியம் — உள்ளடக்கம், மொழிபெயர்ப்பின் புத்தம்புதுமை, தாமதமான மறுஆய்வுகள்.', 'コーパスの健全性 — 網羅率、翻訳の鮮度、期限切れのレビュー。', '코퍼스 상태 — 범위, 번역 최신성, 기한이 지난 검토.'),
+    title: L('Papan pemuka', 'Dashboard', '仪表板', 'கட்டுப்பாட்டுப் பலகை', 'ダッシュボード', '대시보드', 'แดชบอร์ด'),
+    body: L('Kesihatan korpus — liputan, keterkinian terjemahan, semakan tertunggak.', 'Corpus health — coverage, translation freshness, overdue reviews.', '语料库健康度——覆盖率、翻译新鲜度、逾期审阅。', 'தொகுப்பின் ஆரோக்கியம் — உள்ளடக்கம், மொழிபெயர்ப்பின் புத்தம்புதுமை, தாமதமான மறுஆய்வுகள்.', 'コーパスの健全性 — 網羅率、翻訳の鮮度、期限切れのレビュー。', '코퍼스 상태 — 범위, 번역 최신성, 기한이 지난 검토.', 'สุขภาพของคลังเนื้อหา — ความครอบคลุม ความสดใหม่ของการแปล และการตรวจทานที่เกินกำหนด'),
   },
   {
     icon: '🚀',
-    title: L('Tindakan & deploy', 'Actions & deploy', '操作与部署', 'செயல்கள் & வெளியீடு', 'アクション & デプロイ', '액션 & 배포'),
-    body: L('Sejarah larian dan suis penyelenggaraan — terus ke GitHub Actions.', 'Run history and the maintenance switch — straight to GitHub Actions.', '运行历史与维护开关——直达 GitHub Actions。', 'இயக்க வரலாறு மற்றும் பராமரிப்பு நிலைமாற்றி — நேரடியாக GitHub Actions-க்கு.', '実行履歴とメンテナンススイッチ — GitHub Actions へ直接。', '실행 이력과 유지보수 스위치 — GitHub Actions로 바로 이동합니다.'),
+    title: L('Tindakan & deploy', 'Actions & deploy', '操作与部署', 'செயல்கள் & வெளியீடு', 'アクション & デプロイ', '액션 & 배포', 'การดำเนินการและการดีพลอย'),
+    body: L('Sejarah larian dan suis penyelenggaraan — terus ke GitHub Actions.', 'Run history and the maintenance switch — straight to GitHub Actions.', '运行历史与维护开关——直达 GitHub Actions。', 'இயக்க வரலாறு மற்றும் பராமரிப்பு நிலைமாற்றி — நேரடியாக GitHub Actions-க்கு.', '実行履歴とメンテナンススイッチ — GitHub Actions へ直接。', '실행 이력과 유지보수 스위치 — GitHub Actions로 바로 이동합니다.', 'ประวัติการรันและสวิตช์การบำรุงรักษา — ตรงไปยัง GitHub Actions'),
   },
 ];
 
 const guides = [
   {
     icon: '✏️',
-    title: L('Perbaiki artikel', 'Fix or improve an article', '修改或改进文章', 'ஒரு கட்டுரையைத் திருத்தவும் அல்லது மேம்படுத்தவும்', '記事を修正・改善する', '기사 수정 또는 개선'),
+    title: L('Perbaiki artikel', 'Fix or improve an article', '修改或改进文章', 'ஒரு கட்டுரையைத் திருத்தவும் அல்லது மேம்படுத்தவும்', '記事を修正・改善する', '기사 수정 또는 개선', 'แก้ไขหรือปรับปรุงบทความ'),
     steps: [
-      L('Buka artikel dan klik “Sunting di GitHub” di kotak sisi.', 'Open the article and click “Edit on GitHub” in the side box.', '打开文章，点击侧栏的“在 GitHub 编辑”。', 'கட்டுரையைத் திறந்து பக்கப்பெட்டியில் உள்ள “Edit on GitHub” என்பதைக் கிளிக் செய்யவும்.', '記事を開き、サイドボックスの「Edit on GitHub」をクリックします。', '기사를 열고 측면 상자에서 “Edit on GitHub”을 클릭하십시오.'),
-      L('Sunting Markdown — setiap dakwaan patut membawa sumbernya.', 'Edit the Markdown — every claim should carry its source.', '编辑 Markdown——每条陈述都应附有来源。', 'Markdown-ஐத் திருத்தவும் — ஒவ்வொரு கூற்றும் அதன் ஆதாரத்தைத் தாங்கியிருக்க வேண்டும்.', 'Markdown を編集します — すべての記述には出典を付けてください。', 'Markdown을 편집하십시오 — 모든 주장에는 출처가 있어야 합니다.'),
-      L('Buka pull request; ia disemak secara terbuka sebelum digabung.', 'Open a pull request; it’s reviewed in the open before merging.', '提交 PR；合并前会公开审阅。', 'ஒரு pull request திறக்கவும்; ஒன்றிணைக்கும் முன் அது வெளிப்படையாக மறுஆய்வு செய்யப்படுகிறது.', 'pull request を作成します。マージ前に公開でレビューされます。', 'pull request를 여십시오; 병합되기 전에 공개적으로 검토됩니다.'),
+      L('Buka artikel dan klik “Sunting di GitHub” di kotak sisi.', 'Open the article and click “Edit on GitHub” in the side box.', '打开文章，点击侧栏的“在 GitHub 编辑”。', 'கட்டுரையைத் திறந்து பக்கப்பெட்டியில் உள்ள “Edit on GitHub” என்பதைக் கிளிக் செய்யவும்.', '記事を開き、サイドボックスの「Edit on GitHub」をクリックします。', '기사를 열고 측면 상자에서 “Edit on GitHub”을 클릭하십시오.', 'เปิดบทความแล้วคลิก “Edit on GitHub” ในกล่องด้านข้าง'),
+      L('Sunting Markdown — setiap dakwaan patut membawa sumbernya.', 'Edit the Markdown — every claim should carry its source.', '编辑 Markdown——每条陈述都应附有来源。', 'Markdown-ஐத் திருத்தவும் — ஒவ்வொரு கூற்றும் அதன் ஆதாரத்தைத் தாங்கியிருக்க வேண்டும்.', 'Markdown を編集します — すべての記述には出典を付けてください。', 'Markdown을 편집하십시오 — 모든 주장에는 출처가 있어야 합니다.', 'แก้ไข Markdown — ทุกข้อความยืนยันควรมีแหล่งอ้างอิงกำกับ'),
+      L('Buka pull request; ia disemak secara terbuka sebelum digabung.', 'Open a pull request; it’s reviewed in the open before merging.', '提交 PR；合并前会公开审阅。', 'ஒரு pull request திறக்கவும்; ஒன்றிணைக்கும் முன் அது வெளிப்படையாக மறுஆய்வு செய்யப்படுகிறது.', 'pull request を作成します。マージ前に公開でレビューされます。', 'pull request를 여십시오; 병합되기 전에 공개적으로 검토됩니다.', 'เปิด pull request; จะมีการตรวจทานอย่างเปิดเผยก่อนการรวมเข้า'),
     ],
   },
   {
     icon: '➕',
-    title: L('Tambah artikel baharu', 'Add a new article', '新增文章', 'புதிய கட்டுரையைச் சேர்க்கவும்', '新しい記事を追加する', '새 기사 추가'),
+    title: L('Tambah artikel baharu', 'Add a new article', '新增文章', 'புதிய கட்டுரையைச் சேர்க்கவும்', '新しい記事を追加する', '새 기사 추가', 'เพิ่มบทความใหม่'),
     steps: [
-      L('Fork repo, dan tambah knowledge/<kategori>/<slug>.md.', 'Fork the repo, and add knowledge/<category>/<slug>.md.', 'Fork 仓库，新增 knowledge/<分类>/<slug>.md。', 'repo-ஐ fork செய்து, knowledge/<category>/<slug>.md-ஐச் சேர்க்கவும்.', 'repo を fork し、knowledge/<category>/<slug>.md を追加します。', 'repo를 fork하고, knowledge/<category>/<slug>.md를 추가하십시오.'),
-      L('Isi frontmatter (tajuk, kategori, sumber) dan tulis dalam Markdown.', 'Fill the frontmatter (title, category, sources) and write in Markdown.', '填写 frontmatter（标题、分类、来源），并用 Markdown 撰写。', 'frontmatter-ஐ (தலைப்பு, வகை, ஆதாரங்கள்) நிரப்பி Markdown-இல் எழுதவும்.', 'frontmatter（タイトル、カテゴリー、出典）を記入し、Markdown で執筆します。', 'frontmatter(제목, 카테고리, 출처)를 채우고 Markdown으로 작성하십시오.'),
-      L('Buka PR; artikel mula sebagai draf sehingga disemak dan diterbitkan.', 'Open a PR; the article starts as a draft until reviewed and published.', '提交 PR；文章先为草稿，经审阅后发布。', 'PR திறக்கவும்; மறுஆய்வு செய்து வெளியிடப்படும் வரை கட்டுரை வரைவாகவே இருக்கும்.', 'PR を作成します。記事はレビューと公開まで下書きのままです。', 'PR을 여십시오; 기사는 검토되고 게시될 때까지 초안으로 시작합니다.'),
+      L('Fork repo, dan tambah knowledge/<kategori>/<slug>.md.', 'Fork the repo, and add knowledge/<category>/<slug>.md.', 'Fork 仓库，新增 knowledge/<分类>/<slug>.md。', 'repo-ஐ fork செய்து, knowledge/<category>/<slug>.md-ஐச் சேர்க்கவும்.', 'repo を fork し、knowledge/<category>/<slug>.md を追加します。', 'repo를 fork하고, knowledge/<category>/<slug>.md를 추가하십시오.', 'fork repo แล้วเพิ่ม knowledge/<category>/<slug>.md'),
+      L('Isi frontmatter (tajuk, kategori, sumber) dan tulis dalam Markdown.', 'Fill the frontmatter (title, category, sources) and write in Markdown.', '填写 frontmatter（标题、分类、来源），并用 Markdown 撰写。', 'frontmatter-ஐ (தலைப்பு, வகை, ஆதாரங்கள்) நிரப்பி Markdown-இல் எழுதவும்.', 'frontmatter（タイトル、カテゴリー、出典）を記入し、Markdown で執筆します。', 'frontmatter(제목, 카테고리, 출처)를 채우고 Markdown으로 작성하십시오.', 'กรอก frontmatter (ชื่อเรื่อง หมวดหมู่ แหล่งอ้างอิง) แล้วเขียนด้วย Markdown'),
+      L('Buka PR; artikel mula sebagai draf sehingga disemak dan diterbitkan.', 'Open a PR; the article starts as a draft until reviewed and published.', '提交 PR；文章先为草稿，经审阅后发布。', 'PR திறக்கவும்; மறுஆய்வு செய்து வெளியிடப்படும் வரை கட்டுரை வரைவாகவே இருக்கும்.', 'PR を作成します。記事はレビューと公開まで下書きのままです。', 'PR을 여십시오; 기사는 검토되고 게시될 때까지 초안으로 시작합니다.', 'เปิด PR; บทความจะเริ่มต้นเป็นฉบับร่างจนกว่าจะได้รับการตรวจทานและเผยแพร่'),
     ],
   },
   {
     icon: '💬',
-    title: L('Balas semakan', 'Respond to review', '回应审阅', 'மறுஆய்வுக்குப் பதிலளிக்கவும்', 'レビューに応答する', '검토에 응답'),
+    title: L('Balas semakan', 'Respond to review', '回应审阅', 'மறுஆய்வுக்குப் பதிலளிக்கவும்', 'レビューに応答する', '검토에 응답', 'ตอบกลับการตรวจทาน'),
     steps: [
-      L('Penyemak mengulas pada PR anda — jawab atau tolak dengan sebab.', 'Reviewers comment on your PR — answer, or push back with reason.', '审阅者在你的 PR 上评论——回应，或有理由地反驳。', 'மறுஆய்வாளர்கள் உங்கள் PR-இல் கருத்திடுவார்கள் — பதிலளிக்கவும், அல்லது காரணத்துடன் மறுக்கவும்.', 'レビュアーがあなたの PR にコメントします — 回答するか、理由を添えて反論します。', '검토자가 여러분의 PR에 의견을 남깁니다 — 답변하거나, 이유를 들어 반박하십시오.'),
-      L('Tolak kemas kini ke cawangan yang sama; PR mengemas kini automatik.', 'Push updates to the same branch; the PR updates automatically.', '推送更新到同一分支；PR 会自动更新。', 'அதே branch-க்கு புதுப்பிப்புகளைத் தள்ளவும்; PR தானாகவே புதுப்பிக்கப்படும்.', '同じブランチに更新をプッシュします。PR は自動的に更新されます。', '같은 브랜치에 업데이트를 푸시하십시오; PR은 자동으로 갱신됩니다.'),
-      L('Setelah diluluskan ia digabung dan laman deploy semula.', 'Once approved it merges and the site redeploys.', '获批准后即合并，网站重新部署。', 'ஒப்புதல் பெற்றவுடன் அது ஒன்றிணைக்கப்பட்டு தளம் மீண்டும் பயன்படுத்தப்படும்.', '承認されるとマージされ、サイトが再デプロイされます。', '승인되면 병합되고 사이트가 다시 배포됩니다.'),
+      L('Penyemak mengulas pada PR anda — jawab atau tolak dengan sebab.', 'Reviewers comment on your PR — answer, or push back with reason.', '审阅者在你的 PR 上评论——回应，或有理由地反驳。', 'மறுஆய்வாளர்கள் உங்கள் PR-இல் கருத்திடுவார்கள் — பதிலளிக்கவும், அல்லது காரணத்துடன் மறுக்கவும்.', 'レビュアーがあなたの PR にコメントします — 回答するか、理由を添えて反論します。', '검토자가 여러분의 PR에 의견을 남깁니다 — 답변하거나, 이유를 들어 반박하십시오.', 'ผู้ตรวจทานจะแสดงความคิดเห็นบน PR ของคุณ — ตอบกลับ หรือโต้แย้งพร้อมเหตุผล'),
+      L('Tolak kemas kini ke cawangan yang sama; PR mengemas kini automatik.', 'Push updates to the same branch; the PR updates automatically.', '推送更新到同一分支；PR 会自动更新。', 'அதே branch-க்கு புதுப்பிப்புகளைத் தள்ளவும்; PR தானாகவே புதுப்பிக்கப்படும்.', '同じブランチに更新をプッシュします。PR は自動的に更新されます。', '같은 브랜치에 업데이트를 푸시하십시오; PR은 자동으로 갱신됩니다.', 'push การอัปเดตไปยัง branch เดิม; PR จะอัปเดตโดยอัตโนมัติ'),
+      L('Setelah diluluskan ia digabung dan laman deploy semula.', 'Once approved it merges and the site redeploys.', '获批准后即合并，网站重新部署。', 'ஒப்புதல் பெற்றவுடன் அது ஒன்றிணைக்கப்பட்டு தளம் மீண்டும் பயன்படுத்தப்படும்.', '承認されるとマージされ、サイトが再デプロイされます。', '승인되면 병합되고 사이트가 다시 배포됩니다.', 'เมื่อได้รับอนุมัติแล้ว จะมีการรวมเข้าและเว็บไซต์จะถูกดีพลอยใหม่'),
     ],
   },
   {
     icon: '⇄',
-    title: L('Tukar antara paparan', 'Switch between views', '在视图间切换', 'பார்வைகளுக்கிடையே மாறவும்', 'ビューを切り替える', '뷰 전환'),
+    title: L('Tukar antara paparan', 'Switch between views', '在视图间切换', 'பார்வைகளுக்கிடையே மாறவும்', 'ビューを切り替える', '뷰 전환', 'สลับระหว่างมุมมอง'),
     steps: [
-      L('Log masuk sekali setiap pelayar melalui “Log masuk penyumbang”.', 'Sign in once per browser via “Contributor sign-in”.', '通过“贡献者登录”在每个浏览器登录一次。', '“Contributor sign-in” வழியாக ஒவ்வொரு உலாவியிலும் ஒருமுறை உள்நுழையவும்.', '「Contributor sign-in」からブラウザーごとに一度サインインします。', '“Contributor sign-in”을 통해 브라우저마다 한 번 로그인하십시오.'),
-      L('Guna suis Pembaca / Penyumbang di bar atas.', 'Use the Reader / Contributor switch in the top bar.', '使用顶栏的读者 / 贡献者切换。', 'மேல் பட்டியில் உள்ள வாசகர் / பங்களிப்பாளர் நிலைமாற்றியைப் பயன்படுத்தவும்.', '上部バーの「読者 / 貢献者」切り替えを使います。', '상단 바의 독자 / 기여자 전환을 사용하십시오.'),
-      L('Paparan Penyumbang ialah pelancar anda ke semua alat di atas.', 'Contributor View is your launchpad to all the tools above.', '贡献者视图是通往上述所有工具的启动台。', 'பங்களிப்பாளர் பார்வை மேலே உள்ள அனைத்து கருவிகளுக்குமான உங்கள் தொடக்க மேடை.', '貢献者ビューは上記すべてのツールへの入り口です。', '기여자 뷰는 위의 모든 도구로 이어지는 출발점입니다.'),
+      L('Log masuk sekali setiap pelayar melalui “Log masuk penyumbang”.', 'Sign in once per browser via “Contributor sign-in”.', '通过“贡献者登录”在每个浏览器登录一次。', '“Contributor sign-in” வழியாக ஒவ்வொரு உலாவியிலும் ஒருமுறை உள்நுழையவும்.', '「Contributor sign-in」からブラウザーごとに一度サインインします。', '“Contributor sign-in”을 통해 브라우저마다 한 번 로그인하십시오.', 'ลงชื่อเข้าใช้หนึ่งครั้งต่อเบราว์เซอร์ผ่าน “Contributor sign-in”'),
+      L('Guna suis Pembaca / Penyumbang di bar atas.', 'Use the Reader / Contributor switch in the top bar.', '使用顶栏的读者 / 贡献者切换。', 'மேல் பட்டியில் உள்ள வாசகர் / பங்களிப்பாளர் நிலைமாற்றியைப் பயன்படுத்தவும்.', '上部バーの「読者 / 貢献者」切り替えを使います。', '상단 바의 독자 / 기여자 전환을 사용하십시오.', 'ใช้สวิตช์ ผู้อ่าน / ผู้มีส่วนร่วม ในแถบด้านบน'),
+      L('Paparan Penyumbang ialah pelancar anda ke semua alat di atas.', 'Contributor View is your launchpad to all the tools above.', '贡献者视图是通往上述所有工具的启动台。', 'பங்களிப்பாளர் பார்வை மேலே உள்ள அனைத்து கருவிகளுக்குமான உங்கள் தொடக்க மேடை.', '貢献者ビューは上記すべてのツールへの入り口です。', '기여자 뷰는 위의 모든 도구로 이어지는 출발점입니다.', 'มุมมองผู้มีส่วนร่วมคือจุดเริ่มต้นไปยังเครื่องมือทั้งหมดข้างต้น'),
     ],
   },
 ];
@@ -87,10 +87,10 @@ const guides = [
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
-    { label: L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி', '貢献者ガイド', '기여자 가이드') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก'), href: localePath('/', locale) },
+    { label: L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி', '貢献者ガイド', '기여자 가이드', 'คู่มือผู้มีส่วนร่วม') },
   ]}
-  title={L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி', '貢献者ガイド', '기여자 가이드')}
+  title={L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி', '貢献者ガイド', '기여자 가이드', 'คู่มือผู้มีส่วนร่วม')}
   desc={L(
     'Cara sebenar untuk menyumbang — alat anda, kitaran hayat artikel, dan langkah demi langkah.',
     'How contributing actually works — your tools, the article lifecycle, and step by step.',
@@ -98,12 +98,13 @@ const guides = [
     'பங்களிப்பு உண்மையில் எப்படி வேலை செய்கிறது — உங்கள் கருவிகள், கட்டுரையின் வாழ்க்கைச் சுழற்சி, மற்றும் படிப்படியாக.',
     '貢献の実際の流れ — あなたのツール、記事のライフサイクル、そしてステップごとの手順。',
     '기여가 실제로 어떻게 이루어지는지 — 여러분의 도구, 기사의 생애주기, 그리고 단계별 안내.',
+    'การมีส่วนร่วมทำงานจริงอย่างไร — เครื่องมือของคุณ วงจรชีวิตของบทความ และทีละขั้นตอน',
   )}
 />
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式', 'இது எப்படி வேலை செய்கிறது', '仕組み', '작동 방식')}</span></header>
+    <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式', 'இது எப்படி வேலை செய்கிறது', '仕組み', '작동 방식', 'วิธีการทำงาน')}</span></header>
     <div class="psec-body prose">
       <p>{L(
         'NegaraKu.md ialah pangkalan pengetahuan terbuka — setiap topik ialah fail Markdown di GitHub. Anda menyumbang dengan fork dan pull request; setiap perubahan disemak secara terbuka, dipetik sumbernya, dan hanya yang diterbitkan muncul di laman awam. Topik sensitif disemak manusia dahulu.',
@@ -112,15 +113,16 @@ const guides = [
         'NegaraKu.md ஒரு திறந்த அறிவுத் தளம் — ஒவ்வொரு தலைப்பும் GitHub-இல் உள்ள ஒரு Markdown கோப்பு. நீங்கள் fork மற்றும் pull request மூலம் பங்களிக்கிறீர்கள்; ஒவ்வொரு மாற்றமும் வெளிப்படையாக மறுஆய்வு செய்யப்பட்டு, ஆதாரம் காட்டப்பட்டு, வெளியிடப்பட்டவை மட்டுமே பொது தளத்தில் தோன்றும். உணர்திறன் மிக்க தலைப்புகள் முதலில் மனிதரால் மறுஆய்வு செய்யப்படுகின்றன.',
         'NegaraKu.md はオープンな知識ベースです — 各トピックは GitHub 上の Markdown ファイルです。fork と pull request で貢献します。すべての変更は公開でレビューされ、出典が示され、公開されたものだけが公開サイトに表示されます。センシティブなトピックは先に人間がレビューします。',
         'NegaraKu.md는 열린 지식 베이스입니다 — 모든 주제는 GitHub의 Markdown 파일입니다. 여러분은 fork와 pull request로 기여합니다. 모든 변경은 공개적으로 검토되고 출처가 표시되며, 게시된 것만 공개 사이트에 나타납니다. 민감한 주제는 먼저 사람이 검토합니다.',
+        'NegaraKu.md เป็นฐานความรู้แบบเปิด — ทุกหัวข้อเป็นไฟล์ Markdown บน GitHub คุณมีส่วนร่วมด้วยการ fork และ pull request; ทุกการเปลี่ยนแปลงจะได้รับการตรวจทานอย่างเปิดเผย มีการอ้างอิงแหล่งที่มา และเฉพาะที่เผยแพร่แล้วเท่านั้นที่ปรากฏบนเว็บไซต์สาธารณะ หัวข้อที่มีความอ่อนไหวจะได้รับการตรวจทานโดยมนุษย์ก่อน',
       )}</p>
-      <p class="more-about"><a href={localePath('/contribute', locale)}>{L('Kenapa menyumbang & cara mula', 'Why contribute & how to start', '为何贡献及如何开始', 'ஏன் பங்களிக்க வேண்டும் & எப்படித் தொடங்குவது', 'なぜ貢献するのか & 始め方', '왜 기여하는가 & 시작하는 방법')} →</a></p>
+      <p class="more-about"><a href={localePath('/contribute', locale)}>{L('Kenapa menyumbang & cara mula', 'Why contribute & how to start', '为何贡献及如何开始', 'ஏன் பங்களிக்க வேண்டும் & எப்படித் தொடங்குவது', 'なぜ貢献するのか & 始め方', '왜 기여하는가 & 시작하는 방법', 'ทำไมจึงควรมีส่วนร่วม และเริ่มต้นอย่างไร')} →</a></p>
     </div>
   </div>
 </section>
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Pelancar anda', 'Your launchpad', '你的启动台', 'உங்கள் தொடக்க மேடை', 'あなたの入り口', '여러분의 출발점')}</span></header>
+    <header><span>{L('Pelancar anda', 'Your launchpad', '你的启动台', 'உங்கள் தொடக்க மேடை', 'あなたの入り口', '여러분의 출발점', 'จุดเริ่มต้นของคุณ')}</span></header>
     <div class="psec-body">
       <p class="lead">{L(
         'Tukar ke Paparan Penyumbang dan navigasi bar berubah menjadi pelancar ini — kebanyakannya pautan terus ke alat sebenar di GitHub.',
@@ -129,6 +131,7 @@ const guides = [
         'பங்களிப்பாளர் பார்வைக்கு மாறினால் வழிசெலுத்தல் பட்டி இந்தத் தொடக்க மேடையாக மாறுகிறது — பெரும்பாலும் GitHub-இல் உள்ள உண்மையான கருவிகளுக்கான நேரடி இணைப்புகள்.',
         '貢献者ビューに切り替えると、ナビゲーションがこの入り口になります — その多くは GitHub 上の実際のツールへの直接リンクです。',
         '기여자 뷰로 전환하면 내비게이션이 이 출발점으로 바뀝니다 — 대부분 GitHub의 실제 도구로 이어지는 직접 링크입니다.',
+        'สลับไปยังมุมมองผู้มีส่วนร่วม แล้วแถบนำทางจะกลายเป็นจุดเริ่มต้นนี้ — ส่วนใหญ่เป็นลิงก์ตรงไปยังเครื่องมือจริงบน GitHub',
       )}</p>
       <div class="tcards">
         {tools.map((tval) => (
@@ -147,16 +150,16 @@ const guides = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Kitaran hayat artikel', 'The article lifecycle', '文章生命周期', 'கட்டுரையின் வாழ்க்கைச் சுழற்சி', '記事のライフサイクル', '기사의 생애주기')}</span></header>
+    <header><span>{L('Kitaran hayat artikel', 'The article lifecycle', '文章生命周期', 'கட்டுரையின் வாழ்க்கைச் சுழற்சி', '記事のライフサイクル', '기사의 생애주기', 'วงจรชีวิตของบทความ')}</span></header>
     <div class="psec-body">
       <div class="lifecycle">
-        <span class="lc">{L('Draf', 'Draft', '草稿', 'வரைவு', '下書き', '초안')}</span>
+        <span class="lc">{L('Draf', 'Draft', '草稿', 'வரைவு', '下書き', '초안', 'ฉบับร่าง')}</span>
         <span class="lc-arrow" aria-hidden="true">→</span>
-        <span class="lc">{L('Dalam semakan', 'In review', '审阅中', 'மறுஆய்வில்', 'レビュー中', '검토 중')}</span>
+        <span class="lc">{L('Dalam semakan', 'In review', '审阅中', 'மறுஆய்வில்', 'レビュー中', '검토 중', 'อยู่ระหว่างการตรวจทาน')}</span>
         <span class="lc-arrow" aria-hidden="true">→</span>
-        <span class="lc lc-live">{L('Diterbitkan', 'Published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '게시됨')}</span>
+        <span class="lc lc-live">{L('Diterbitkan', 'Published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '게시됨', 'เผยแพร่แล้ว')}</span>
         <span class="lc-arrow" aria-hidden="true">→</span>
-        <span class="lc">{L('Semakan', 'Revision', '修订', 'திருத்தம்', '改訂', '개정')}</span>
+        <span class="lc">{L('Semakan', 'Revision', '修订', 'திருத்தம்', '改訂', '개정', 'การแก้ไขปรับปรุง')}</span>
       </div>
       <p class="lc-note">{L(
         'Hanya artikel yang diterbitkan muncul di laman awam. Draf dan artikel dalam semakan kekal di repo sehingga diluluskan. Setiap penerbitan semula direkod sebagai semakan bernombor.',
@@ -165,6 +168,7 @@ const guides = [
         'வெளியிடப்பட்ட கட்டுரைகள் மட்டுமே பொது தளத்தில் தோன்றும். வரைவுகளும் மறுஆய்வில் உள்ள கட்டுரைகளும் ஒப்புதல் பெறும் வரை repo-இல் இருக்கும். ஒவ்வொரு மீள்வெளியீடும் எண்ணிடப்பட்ட திருத்தமாகப் பதிவு செய்யப்படுகிறது.',
         '公開された記事だけが公開サイトに表示されます。下書きとレビュー中の記事は、承認されるまで repo に残ります。再公開はそれぞれ番号付きの改訂として記録されます。',
         '게시된 기사만 공개 사이트에 나타납니다. 초안과 검토 중인 기사는 승인될 때까지 repo에 남아 있습니다. 재게시할 때마다 번호가 매겨진 개정으로 기록됩니다.',
+        'เฉพาะบทความที่เผยแพร่แล้วเท่านั้นที่ปรากฏบนเว็บไซต์สาธารณะ ฉบับร่างและบทความที่อยู่ระหว่างการตรวจทานจะยังคงอยู่ใน repo จนกว่าจะได้รับอนุมัติ การเผยแพร่ใหม่แต่ละครั้งจะถูกบันทึกเป็นการแก้ไขปรับปรุงที่มีหมายเลขกำกับ',
       )}</p>
     </div>
   </div>
@@ -172,7 +176,7 @@ const guides = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Langkah demi langkah', 'Step by step', '分步指引', 'படிப்படியாக', 'ステップごとに', '단계별')}</span></header>
+    <header><span>{L('Langkah demi langkah', 'Step by step', '分步指引', 'படிப்படியாக', 'ステップごとに', '단계별', 'ทีละขั้นตอน')}</span></header>
     <div class="psec-body">
       <div class="guides">
         {guides.map((g) => (
@@ -186,7 +190,7 @@ const guides = [
           </div>
         ))}
       </div>
-      <p class="gh-cta"><a class="btn btn-ghost" href={REPO} rel="noopener">{L('Buka repo di GitHub', 'Open the repo on GitHub', '在 GitHub 打开仓库', 'GitHub-இல் repo-ஐத் திறக்கவும்', 'GitHub で repo を開く', 'GitHub에서 repo 열기')} ↗</a></p>
+      <p class="gh-cta"><a class="btn btn-ghost" href={REPO} rel="noopener">{L('Buka repo di GitHub', 'Open the repo on GitHub', '在 GitHub 打开仓库', 'GitHub-இல் repo-ஐத் திறக்கவும்', 'GitHub で repo を開く', 'GitHub에서 repo 열기', 'เปิด repo บน GitHub')} ↗</a></p>
     </div>
   </div>
 </section>

@@ -110,31 +110,31 @@ unique.sort((a, b) => {
 });
 
 const triggerLabel: Record<string, string> = {
-  incorporation: L('Selepas penubuhan', 'After incorporation', '公司成立后', 'நிறுவனப் பதிவுக்குப் பிறகு', '設立後', '설립 후'),
-  monthly: L('Setiap bulan', 'Every month', '每月', 'ஒவ்வொரு மாதமும்', '毎月', '매월'),
-  event: L('Selepas sesuatu peristiwa', 'After an event', '事件发生后', 'ஒரு நிகழ்வுக்குப் பிறகு', 'イベント後', '이벤트 발생 후'),
-  anniversary: L('Setiap ulang tahun', 'Every anniversary', '每年周年', 'ஒவ்வொரு ஆண்டு நிறைவிலும்', '設立記念日ごと', '매년 기념일'),
-  change: L('Apabila berlaku perubahan', 'When something changes', '发生变动时', 'ஏதேனும் மாறும்போது', '変更が生じたとき', '변경이 있을 때'),
-  'financial-year-end': L('Akhir tahun kewangan', 'Financial year end', '财政年结', 'நிதியாண்டு இறுதி', '会計年度末', '회계연도 말'),
-  ongoing: L('Berterusan', 'Ongoing', '持续义务', 'தொடர்ச்சியான', '継続的', '상시'),
+  incorporation: L('Selepas penubuhan', 'After incorporation', '公司成立后', 'நிறுவனப் பதிவுக்குப் பிறகு', '設立後', '설립 후', 'หลังการจดทะเบียนจัดตั้ง'),
+  monthly: L('Setiap bulan', 'Every month', '每月', 'ஒவ்வொரு மாதமும்', '毎月', '매월', 'ทุกเดือน'),
+  event: L('Selepas sesuatu peristiwa', 'After an event', '事件发生后', 'ஒரு நிகழ்வுக்குப் பிறகு', 'イベント後', '이벤트 발생 후', 'หลังเกิดเหตุการณ์'),
+  anniversary: L('Setiap ulang tahun', 'Every anniversary', '每年周年', 'ஒவ்வொரு ஆண்டு நிறைவிலும்', '設立記念日ごと', '매년 기념일', 'ทุกปีครบรอบ'),
+  change: L('Apabila berlaku perubahan', 'When something changes', '发生变动时', 'ஏதேனும் மாறும்போது', '変更が生じたとき', '변경이 있을 때', 'เมื่อมีการเปลี่ยนแปลง'),
+  'financial-year-end': L('Akhir tahun kewangan', 'Financial year end', '财政年结', 'நிதியாண்டு இறுதி', '会計年度末', '회계연도 말', 'สิ้นปีบัญชี'),
+  ongoing: L('Berterusan', 'Ongoing', '持续义务', 'தொடர்ச்சியான', '継続的', '상시', 'ต่อเนื่อง'),
 };
 
 // Localized strings the client script needs for threshold applicability results
 // (the script is plain JS, so it can't call L() — it reads this serialized dict).
 const ccMsg = {
-  applies: L('Berkenaan dengan anda', 'Applies to you', '对你适用', 'உங்களுக்குப் பொருந்தும்', 'あなたに該当', '귀하에게 해당됨'),
-  below: L('Bawah ambang — tidak berkenaan', 'Below threshold — does not apply', '未达门槛 — 不适用', 'வரம்புக்குக் கீழ் — பொருந்தாது', '基準未満 — 該当なし', '기준 미만 — 해당 없음'),
-  exempt: L('Dikecualikan — anda layak', 'Exempt — you qualify', '可豁免 — 你符合资格', 'விலக்கு — நீங்கள் தகுதி', '免除 — 条件を満たす', '면제 — 자격 충족'),
-  notExempt: L('Tidak dikecualikan — diperlukan', 'Not exempt — required', '不豁免 — 需履行', 'விலக்கு இல்லை — தேவை', '免除対象外 — 必要', '면제 아님 — 필요함'),
-  needSize: L('Isi saiz syarikat di atas', 'Enter your company size above', '请在上方填写公司规模', 'மேலே நிறுவன அளவை உள்ளிடுங்கள்', '上に会社規模を入力してください', '위에 회사 규모를 입력하세요'),
+  applies: L('Berkenaan dengan anda', 'Applies to you', '对你适用', 'உங்களுக்குப் பொருந்தும்', 'あなたに該当', '귀하에게 해당됨', 'ใช้กับคุณ'),
+  below: L('Bawah ambang — tidak berkenaan', 'Below threshold — does not apply', '未达门槛 — 不适用', 'வரம்புக்குக் கீழ் — பொருந்தாது', '基準未満 — 該当なし', '기준 미만 — 해당 없음', 'ต่ำกว่าเกณฑ์ — ไม่เกี่ยวข้อง'),
+  exempt: L('Dikecualikan — anda layak', 'Exempt — you qualify', '可豁免 — 你符合资格', 'விலக்கு — நீங்கள் தகுதி', '免除 — 条件を満たす', '면제 — 자격 충족', 'ได้รับการยกเว้น — คุณมีคุณสมบัติ'),
+  notExempt: L('Tidak dikecualikan — diperlukan', 'Not exempt — required', '不豁免 — 需履行', 'விலக்கு இல்லை — தேவை', '免除対象外 — 必要', '면제 아님 — 필요함', 'ไม่ได้รับการยกเว้น — จำเป็นต้องปฏิบัติ'),
+  needSize: L('Isi saiz syarikat di atas', 'Enter your company size above', '请在上方填写公司规模', 'மேலே நிறுவன அளவை உள்ளிடுங்கள்', '上に会社規模を入力してください', '위에 회사 규모를 입력하세요', 'กรอกขนาดบริษัทของคุณด้านบน'),
 };
 
 const groups = [...new Set(unique.map((r) => r.trigger))];
 ---
 
 <section class="container block">
-  <p class="eyebrow">{L('Alat', 'Tool', '工具', 'கருவி', 'ツール', '도구')}</p>
-  <h1>{L('Kalendar Pematuhan', 'Compliance Calendar', '合规日历', 'இணக்க நாட்காட்டி', 'コンプライアンスカレンダー', '규정 준수 달력')}</h1>
+  <p class="eyebrow">{L('Alat', 'Tool', '工具', 'கருவி', 'ツール', '도구', 'เครื่องมือ')}</p>
+  <h1>{L('Kalendar Pematuhan', 'Compliance Calendar', '合规日历', 'இணக்க நாட்காட்டி', 'コンプライアンスカレンダー', '규정 준수 달력', 'ปฏิทินการปฏิบัติตามกฎ')}</h1>
   <p class="lede">
     {L(
       'Kewajipan berkanun bermula pada hari syarikat anda ditubuhkan — dan tiada siapa akan mengingatkan anda. Isi tarikh penubuhan, akhir tahun kewangan atau tarikh peristiwa untuk melihat tarikh akhir sebenar anda. Kewajipan bulanan (cth. KWSP) sentiasa menunjukkan tarikh seterusnya.',
@@ -143,40 +143,41 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
       'சட்டப்பூர்வக் கடமைகள் உங்கள் நிறுவனம் பதிவு செய்யப்படும் நாளிலேயே தொடங்குகின்றன — யாரும் நினைவூட்டல் அனுப்ப மாட்டார்கள். உங்கள் உண்மையான இறுதி தேதிகளைக் காண, நிறுவனப் பதிவு தேதி, நிதியாண்டு இறுதி அல்லது நிகழ்வு தேதியை உள்ளிடுங்கள். மாதாந்திரக் கடமைகள் (எ.கா. KWSP) எப்போதும் அடுத்த தேதியைக் காட்டும்.',
       '法定義務は会社が設立された日から始まります — そして誰も通知してくれません。設立日、会計年度末、またはイベント日を入力すると、実際の期限が表示されます。毎月の義務（例：EPF）は常に次回の日付を表示します。',
       '법정 의무는 회사가 설립되는 날부터 시작되며 — 아무도 알림을 보내주지 않습니다. 실제 기한을 확인하려면 설립일, 회계연도 말 또는 이벤트 날짜를 입력하세요. 매월 의무(예: EPF)는 항상 다음 날짜를 표시합니다.',
+      'ภาระผูกพันตามกฎหมายเริ่มต้นในวันที่บริษัทของคุณจดทะเบียนจัดตั้ง — และไม่มีใครส่งการแจ้งเตือนให้คุณ กรอกวันจดทะเบียนจัดตั้ง วันสิ้นปีบัญชี หรือวันที่เกิดเหตุการณ์ เพื่อดูกำหนดเส้นตายที่แท้จริงของคุณ ภาระผูกพันรายเดือน (เช่น EPF) จะแสดงวันที่ถัดไปเสมอ',
     )}
   </p>
 
   <div class="datebar">
     <div class="field">
-      <label for="inc">{L('Tarikh penubuhan', 'Incorporation date', '公司成立日期', 'நிறுவனப் பதிவு தேதி', '設立日', '설립일')}</label>
+      <label for="inc">{L('Tarikh penubuhan', 'Incorporation date', '公司成立日期', 'நிறுவனப் பதிவு தேதி', '設立日', '설립일', 'วันจดทะเบียนจัดตั้ง')}</label>
       <input type="date" id="inc" />
     </div>
     <div class="field">
-      <label for="fye">{L('Akhir tahun kewangan', 'Financial year end', '财政年结日', 'நிதியாண்டு இறுதி', '会計年度末', '회계연도 말')}</label>
+      <label for="fye">{L('Akhir tahun kewangan', 'Financial year end', '财政年结日', 'நிதியாண்டு இறுதி', '会計年度末', '회계연도 말', 'สิ้นปีบัญชี')}</label>
       <input type="date" id="fye" />
     </div>
     <div class="field">
-      <label for="evt">{L('Tarikh peristiwa', 'Event date', '事件日期', 'நிகழ்வு தேதி', 'イベント日', '이벤트 날짜')}</label>
+      <label for="evt">{L('Tarikh peristiwa', 'Event date', '事件日期', 'நிகழ்வு தேதி', 'イベント日', '이벤트 날짜', 'วันที่เกิดเหตุการณ์')}</label>
       <input type="date" id="evt" />
-      <small class="hint">{L('cth. tarikh bayaran / AGM', 'e.g. payment / AGM date', '如付款 / 股东大会日期', 'எ.கா. கட்டணம் / AGM தேதி', '例：支払い / 株主総会の日付', '예: 지급 / 주주총회(AGM) 날짜')}</small>
+      <small class="hint">{L('cth. tarikh bayaran / AGM', 'e.g. payment / AGM date', '如付款 / 股东大会日期', 'எ.கா. கட்டணம் / AGM தேதி', '例：支払い / 株主総会の日付', '예: 지급 / 주주총회(AGM) 날짜', 'เช่น วันที่ชำระเงิน / AGM')}</small>
     </div>
-    <button id="clear" type="button">{L('Kosongkan', 'Clear', '清除', 'அழி', 'クリア', '지우기')}</button>
+    <button id="clear" type="button">{L('Kosongkan', 'Clear', '清除', 'அழி', 'クリア', '지우기', 'ล้าง')}</button>
   </div>
 
   <div class="datebar sizebar">
     <div class="field">
-      <label for="turnover">{L('Pusing ganti / hasil tahunan (RM)', 'Annual turnover / revenue (RM)', '年营业额 / 收入 (RM)', 'ஆண்டு விற்றுமுதல் / வருவாய் (RM)', '年間売上高 / 収入 (RM)', '연간 매출액 / 수익 (RM)')}</label>
+      <label for="turnover">{L('Pusing ganti / hasil tahunan (RM)', 'Annual turnover / revenue (RM)', '年营业额 / 收入 (RM)', 'ஆண்டு விற்றுமுதல் / வருவாய் (RM)', '年間売上高 / 収入 (RM)', '연간 매출액 / 수익 (RM)', 'ยอดขาย / รายได้ต่อปี (RM)')}</label>
       <input type="number" id="turnover" min="0" step="1000" inputmode="numeric" />
     </div>
     <div class="field">
-      <label for="assets">{L('Jumlah aset (RM)', 'Total assets (RM)', '总资产 (RM)', 'மொத்த சொத்துகள் (RM)', '総資産 (RM)', '총자산 (RM)')}</label>
+      <label for="assets">{L('Jumlah aset (RM)', 'Total assets (RM)', '总资产 (RM)', 'மொத்த சொத்துகள் (RM)', '総資産 (RM)', '총자산 (RM)', 'สินทรัพย์รวม (RM)')}</label>
       <input type="number" id="assets" min="0" step="1000" inputmode="numeric" />
     </div>
     <div class="field">
-      <label for="employees">{L('Bilangan pekerja', 'Employees', '员工人数', 'பணியாளர்கள்', '従業員数', '직원 수')}</label>
+      <label for="employees">{L('Bilangan pekerja', 'Employees', '员工人数', 'பணியாளர்கள்', '従業員数', '직원 수', 'จำนวนพนักงาน')}</label>
       <input type="number" id="employees" min="0" step="1" inputmode="numeric" />
     </div>
-    <small class="hint">{L('Untuk ambang cukai/audit (SST, e-Invois, pengecualian audit)', 'For tax/audit thresholds (SST, e-Invoice, audit exemption)', '用于税务/审计门槛（SST、电子发票、审计豁免）', 'வரி/தணிக்கை வரம்புகளுக்கு (SST, மின்-விலைப்பட்டியல், தணிக்கை விலக்கு)', '税務／監査の基準用（SST、電子インボイス、監査免除）', '세무/감사 기준용 (SST, 전자 인보이스, 감사 면제)')}</small>
+    <small class="hint">{L('Untuk ambang cukai/audit (SST, e-Invois, pengecualian audit)', 'For tax/audit thresholds (SST, e-Invoice, audit exemption)', '用于税务/审计门槛（SST、电子发票、审计豁免）', 'வரி/தணிக்கை வரம்புகளுக்கு (SST, மின்-விலைப்பட்டியல், தணிக்கை விலக்கு)', '税務／監査の基準用（SST、電子インボイス、監査免除）', '세무/감사 기준용 (SST, 전자 인보이스, 감사 면제)', 'สำหรับเกณฑ์ภาษี/การตรวจสอบบัญชี (SST, e-Invoice, การยกเว้นการตรวจสอบบัญชี)')}</small>
   </div>
 
   {
@@ -190,10 +191,10 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
             </colgroup>
             <thead>
               <tr>
-                <th>{L('Kewajipan', 'Obligation', '义务', 'கடமை', '義務', '의무')}</th>
-                <th>{L('Tarikh akhir', 'Deadline', '截止', 'இறுதி தேதி', '期限', '기한')}</th>
-                <th class="due-col">{L('Untuk anda', 'For you', '对你而言', 'உங்களுக்கு', 'あなたの場合', '귀하의 경우')}</th>
-                <th>{L('Kepada', 'Owed to', '主管机构', 'யாருக்கு', '提出先', '제출 대상')}</th>
+                <th>{L('Kewajipan', 'Obligation', '义务', 'கடமை', '義務', '의무', 'ภาระผูกพัน')}</th>
+                <th>{L('Tarikh akhir', 'Deadline', '截止', 'இறுதி தேதி', '期限', '기한', 'กำหนดเส้นตาย')}</th>
+                <th class="due-col">{L('Untuk anda', 'For you', '对你而言', 'உங்களுக்கு', 'あなたの場合', '귀하의 경우', 'สำหรับคุณ')}</th>
+                <th>{L('Kepada', 'Owed to', '主管机构', 'யாருக்கு', '提出先', '제출 대상', 'ต่อหน่วยงาน')}</th>
               </tr>
             </thead>
             <tbody>
@@ -234,6 +235,7 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
       'இங்குள்ள ஒவ்வொரு கடமையும் அதை விளக்கும் கட்டுரையிலிருந்து நேரடியாக எடுக்கப்பட்டது — முழு விவரங்களுக்குக் கிளிக் செய்யுங்கள். இது ஒரு பொது வழிகாட்டி, தொழில்முறை ஆலோசனை அல்ல.',
       'ここに掲載された各義務は、それを説明する記事から直接取得されています — 詳細はクリックしてご覧ください。これは一般的なガイダンスであり、専門的な助言ではありません。',
       '여기의 모든 의무는 그것을 설명하는 기사에서 직접 가져온 것입니다 — 전체 내용을 보려면 클릭하세요. 이는 일반적인 안내이며 전문적인 조언이 아닙니다.',
+      'ภาระผูกพันทุกรายการที่นี่นำมาจากบทความที่อธิบายเรื่องนั้นโดยตรง — คลิกเพื่อดูรายละเอียดฉบับเต็ม นี่เป็นแนวทางทั่วไป ไม่ใช่คำแนะนำจากผู้เชี่ยวชาญ',
     )}
   </p>
 </section>

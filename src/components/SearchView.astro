@@ -13,35 +13,36 @@ const stats = await siteStats(locale);
 
 const I18N = {
   placeholder: t('search.placeholder', locale),
-  resultsFor: L('hasil untuk', 'results for', '条结果', 'முடிவுகள்', '件の検索結果', '개 검색 결과'),
-  noResults: L('Tiada hasil untuk', 'No results for', '未找到结果', 'முடிவுகள் எதுவும் இல்லை', '結果が見つかりません:', '검색 결과 없음:'),
-  start: L('Taip untuk mencari seluruh korpus.', 'Type to search the whole corpus.', '输入以搜索整个语料库。', 'முழு தொகுப்பையும் தேட தட்டச்சு செய்யுங்கள்.', 'コーパス全体を検索するには入力してください。', '전체 코퍼스를 검색하려면 입력하세요.'),
-  building: L('Carian tidak tersedia buat masa ini. Sila cuba muat semula halaman.', 'Search is temporarily unavailable. Please try reloading the page.', '搜索暂时不可用。请尝试重新加载页面。', 'தேடல் தற்காலிகமாகக் கிடைக்கவில்லை. பக்கத்தை மீண்டும் ஏற்ற முயற்சிக்கவும்.', '検索は一時的に利用できません。ページを再読み込みしてください。', '검색을 일시적으로 사용할 수 없습니다. 페이지를 새로 고침해 주세요.'),
-  rows: L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행'),
-  page: L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지'),
+  resultsFor: L('hasil untuk', 'results for', '条结果', 'முடிவுகள்', '件の検索結果', '개 검색 결과', 'ผลลัพธ์สำหรับ'),
+  noResults: L('Tiada hasil untuk', 'No results for', '未找到结果', 'முடிவுகள் எதுவும் இல்லை', '結果が見つかりません:', '검색 결과 없음:', 'ไม่พบผลลัพธ์สำหรับ'),
+  start: L('Taip untuk mencari seluruh korpus.', 'Type to search the whole corpus.', '输入以搜索整个语料库。', 'முழு தொகுப்பையும் தேட தட்டச்சு செய்யுங்கள்.', 'コーパス全体を検索するには入力してください。', '전체 코퍼스를 검색하려면 입력하세요.', 'พิมพ์เพื่อค้นหาทั่วทั้งคลังข้อมูล'),
+  building: L('Carian tidak tersedia buat masa ini. Sila cuba muat semula halaman.', 'Search is temporarily unavailable. Please try reloading the page.', '搜索暂时不可用。请尝试重新加载页面。', 'தேடல் தற்காலிகமாகக் கிடைக்கவில்லை. பக்கத்தை மீண்டும் ஏற்ற முயற்சிக்கவும்.', '検索は一時的に利用できません。ページを再読み込みしてください。', '검색을 일시적으로 사용할 수 없습니다. 페이지를 새로 고침해 주세요.', 'การค้นหาไม่พร้อมใช้งานชั่วคราว กรุณาลองโหลดหน้าใหม่'),
+  rows: L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว'),
+  page: L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า'),
 };
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก'), href: localePath('/', locale) },
     { label: t('nav.search', locale) },
   ]}
   title={t('nav.search', locale)}
   desc={L(
-    `Cari ${stats.articles} artikel tentang Malaysia — dalam enam bahasa.`,
-    `Search ${stats.articles} articles about Malaysia — in six languages.`,
-    `在 ${stats.articles} 篇关于马来西亚的文章中搜索——六种语言。`,
-    `மலேசியா பற்றிய ${stats.articles} கட்டுரைகளில் தேடுங்கள் — ஆறு மொழிகளில்.`,
-    `マレーシアに関する${stats.articles}件の記事を検索 — 6言語で。`,
-    `말레이시아에 관한 ${stats.articles}개 기사를 검색하세요 — 여섯 가지 언어로.`,
+    `Cari ${stats.articles} artikel tentang Malaysia — dalam tujuh bahasa.`,
+    `Search ${stats.articles} articles about Malaysia — in seven languages.`,
+    `在 ${stats.articles} 篇关于马来西亚的文章中搜索——七种语言。`,
+    `மலேசியா பற்றிய ${stats.articles} கட்டுரைகளில் தேடுங்கள் — ஏழு மொழிகளில்.`,
+    `マレーシアに関する${stats.articles}件の記事を検索 — 7言語で。`,
+    `말레이시아에 관한 ${stats.articles}개 기사를 검색하세요 — 일곱 가지 언어로.`,
+    `ค้นหาบทความ ${stats.articles} เรื่องเกี่ยวกับมาเลเซีย — ในเจ็ดภาษา`,
   )}
   stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ', '카테고리') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ', '하위 카테고리') },
-    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ', '카테고리', 'หมวดหมู่') },
+    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ', '하위 카테고리', 'หมวดหมู่ย่อย') },
+    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ') },
   ]}
 />
 
@@ -93,7 +94,7 @@ const I18N = {
     </div>
   </div>
 
-  <noscript><p class="s-status">{L('Carian memerlukan JavaScript.', 'Search requires JavaScript.', '搜索需要 JavaScript。', 'தேடலுக்கு JavaScript தேவை.', '検索には JavaScript が必要です。', '검색에는 JavaScript가 필요합니다.')}</p></noscript>
+  <noscript><p class="s-status">{L('Carian memerlukan JavaScript.', 'Search requires JavaScript.', '搜索需要 JavaScript。', 'தேடலுக்கு JavaScript தேவை.', '検索には JavaScript が必要です。', '검색에는 JavaScript가 필요합니다.', 'การค้นหาต้องใช้ JavaScript')}</p></noscript>
 </section>
 
 <script is:inline>

@@ -14,8 +14,8 @@ const d = getDashboard();
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string) => (locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Per-language coverage rows for the language bars (master ms first).
-const LANG_NAMES: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語', ko: '한국어' };
-const langBars = (['ms', 'en', 'zh', 'ta', 'ja', 'ko'] as const).map((l) => ({
+const LANG_NAMES: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語', ko: '한국어', th: 'ไทย' };
+const langBars = (['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th'] as const).map((l) => ({
   code: l.toUpperCase(),
   name: LANG_NAMES[l],
   ...d.perLangCoverage[l],
@@ -77,15 +77,15 @@ const sections = PILLARS.map((pd) => {
 
 // Classification mix — the site's handling of Malaysia's sensitive domains.
 const SENS_META: Record<string, { label: string; color: string }> = {
-  none: { label: L('Umum', 'General', '一般', 'பொது', '一般', '일반'), color: 'var(--muted)' },
-  royalty: { label: L('Institusi diraja', 'Royalty', '王室', 'அரச நிறுவனம்', '王室', '왕실'), color: '#c084fc' },
-  religion: { label: L('Agama', 'Religion', '宗教', 'மதம்', '宗教', '종교'), color: '#60a5fa' },
-  race: { label: L('Kaum', 'Race', '种族', 'இனம்', '人種', '인종'), color: '#f59e0b' },
-  constitution: { label: L('Perlembagaan', 'Constitution', '宪法', 'அரசியலமைப்பு', '憲法', '헌법'), color: '#2dd4bf' },
-  elections: { label: L('Pilihan raya', 'Elections', '选举', 'தேர்தல்', '選挙', '선거'), color: '#818cf8' },
-  security: { label: L('Keselamatan', 'Security', '安全', 'பாதுகாப்பு', '安全保障', '안보'), color: '#fb7185' },
-  health: { label: L('Kesihatan', 'Health', '健康', 'சுகாதாரம்', '健康', '건강'), color: '#4ade80' },
-  'legal-proceedings': { label: L('Perundangan', 'Legal', '法律', 'சட்டம்', '法律', '법률'), color: '#a3a3a3' },
+  none: { label: L('Umum', 'General', '一般', 'பொது', '一般', '일반', 'ทั่วไป'), color: 'var(--muted)' },
+  royalty: { label: L('Institusi diraja', 'Royalty', '王室', 'அரச நிறுவனம்', '王室', '왕실', 'สถาบันพระมหากษัตริย์'), color: '#c084fc' },
+  religion: { label: L('Agama', 'Religion', '宗教', 'மதம்', '宗教', '종교', 'ศาสนา'), color: '#60a5fa' },
+  race: { label: L('Kaum', 'Race', '种族', 'இனம்', '人種', '인종', 'เชื้อชาติ'), color: '#f59e0b' },
+  constitution: { label: L('Perlembagaan', 'Constitution', '宪法', 'அரசியலமைப்பு', '憲法', '헌법', 'รัฐธรรมนูญ'), color: '#2dd4bf' },
+  elections: { label: L('Pilihan raya', 'Elections', '选举', 'தேர்தல்', '選挙', '선거', 'การเลือกตั้ง'), color: '#818cf8' },
+  security: { label: L('Keselamatan', 'Security', '安全', 'பாதுகாப்பு', '安全保障', '안보', 'ความมั่นคง'), color: '#fb7185' },
+  health: { label: L('Kesihatan', 'Health', '健康', 'சுகாதாரம்', '健康', '건강', 'สุขภาพ'), color: '#4ade80' },
+  'legal-proceedings': { label: L('Perundangan', 'Legal', '法律', 'சட்டம்', '法律', '법률', 'กฎหมาย'), color: '#a3a3a3' },
 };
 const sensOrder = ['none', 'royalty', 'religion', 'race', 'constitution', 'elections', 'security', 'health', 'legal-proceedings'];
 const sensRows = sensOrder
@@ -100,7 +100,7 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก'), href: localePath('/', locale) },
     { label: t('nav.dashboard', locale) },
   ]}
   title={t('nav.dashboard', locale)}
@@ -111,12 +111,13 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
     'NegaraKu.md அறிவுத் தளத்தின் நிலை — ஒவ்வொரு பதிப்பிலும் மீள்கணிக்கப்படுகிறது.',
     'NegaraKu.md 知識ベースの現状 — ビルドのたびに再計算されます。',
     'NegaraKu.md 지식 베이스의 현황 — 빌드할 때마다 다시 계산됩니다.',
+    'สถานะของฐานความรู้ NegaraKu.md — คำนวณใหม่ทุกครั้งที่มีการบิลด์',
   )}
   stats={[
-    { value: sections.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥') },
-    { value: catSet.size, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리') },
-    { value: subcatSet.size, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리') },
-    { value: totalTopics, label: L('topik', 'topics', '主题', 'தலைப்புகள்', '主題', '주제') },
+    { value: sections.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก') },
+    { value: catSet.size, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리', 'หมวดหมู่') },
+    { value: subcatSet.size, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리', 'หมวดหมู่ย่อย') },
+    { value: totalTopics, label: L('topik', 'topics', '主题', 'தலைப்புகள்', '主題', '주제', 'หัวข้อ') },
   ]}
 />
 
@@ -124,23 +125,23 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
   <div class="counters">
     <div>
       <b>{d.totals.masterArticles ?? d.totals.articles}</b>
-      <span>{L('artikel induk', 'master articles', '主文章', 'முதன்மைக் கட்டுரைகள்', 'マスター記事', '마스터 기사')}</span>
-      <small>{L('satu setiap subjek', 'one per subject', '每个主题一篇', 'ஒவ்வொரு தலைப்புக்கும் ஒன்று', '主題ごとに1つ', '주제당 하나')}</small>
+      <span>{L('artikel induk', 'master articles', '主文章', 'முதன்மைக் கட்டுரைகள்', 'マスター記事', '마스터 기사', 'บทความหลัก')}</span>
+      <small>{L('satu setiap subjek', 'one per subject', '每个主题一篇', 'ஒவ்வொரு தலைப்புக்கும் ஒன்று', '主題ごとに1つ', '주제당 하나', 'หนึ่งบทความต่อหนึ่งเรื่อง')}</small>
     </div>
     <div>
       <b>{d.totals.files}</b>
-      <span>{L('fail bahasa', 'language files', '语言文件', 'மொழி கோப்புகள்', '言語ファイル', '언어 파일')}</span>
+      <span>{L('fail bahasa', 'language files', '语言文件', 'மொழி கோப்புகள்', '言語ファイル', '언어 파일', 'ไฟล์ภาษา')}</span>
       <small>MS {d.totals.filesByLang.ms} · EN {d.totals.filesByLang.en} · ZH {d.totals.filesByLang.zh}</small>
     </div>
     <div>
       <b>{d.trilingual.fullPct}%</b>
-      <span>{L('semua bahasa penuh', 'fully localized', '各语言齐全', 'அனைத்து மொழிகளும்', '全言語対応', '전체 언어 완비')}</span>
-      <small>{d.trilingual.full}/{d.trilingual.topics} {L('subjek', 'subjects', '主题', 'தலைப்புகள்', '主題', '주제')}</small>
+      <span>{L('semua bahasa penuh', 'fully localized', '各语言齐全', 'அனைத்து மொழிகளும்', '全言語対応', '전체 언어 완비', 'แปลครบทุกภาษา')}</span>
+      <small>{d.trilingual.full}/{d.trilingual.topics} {L('subjek', 'subjects', '主题', 'தலைப்புகள்', '主題', '주제', 'เรื่อง')}</small>
     </div>
     <div>
       <b>{Math.round(((d.statusDist.published ?? 0) / (d.totals.masterArticles || 1)) * 100)}%</b>
-      <span>{L('diterbitkan', 'published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '공개됨')}</span>
-      <small>{d.statusDist.published}/{d.totals.masterArticles} {L('subjek terbit', 'subjects live', '主题已上线', 'தலைப்புகள் நேரலையில்', '公開中の主題', '공개된 주제')}</small>
+      <span>{L('diterbitkan', 'published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '공개됨', 'เผยแพร่แล้ว')}</span>
+      <small>{d.statusDist.published}/{d.totals.masterArticles} {L('subjek terbit', 'subjects live', '主题已上线', 'தலைப்புகள் நேரலையில்', '公開中の主題', '공개된 주제', 'เรื่องที่เผยแพร่')}</small>
     </div>
   </div>
   <p class="xlink"><a href={localePath('/analytics', locale)}>{L(
@@ -150,12 +151,13 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
     'போக்குவரத்து, தேடல், AI & எட்டல் → பகுப்பாய்வு பக்கம்',
     'トラフィック・検索・AI・リーチ → アナリティクス',
     '트래픽, 검색, AI & 도달 → 분석 페이지',
+    'ทราฟฟิก การค้นหา AI และการเข้าถึง → หน้าการวิเคราะห์',
   )} →</a></p>
 </section>
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Liputan bahasa', 'Language coverage', '语言覆盖', 'மொழி பரப்பு', '言語カバレッジ', '언어 커버리지')}</span></header>
+    <header><span>{L('Liputan bahasa', 'Language coverage', '语言覆盖', 'மொழி பரப்பு', '言語カバレッジ', '언어 커버리지', 'ความครอบคลุมของภาษา')}</span></header>
     <div class="psec-body">
       {d.trilingual.one === 0 && d.trilingual.two === 0 ? (
         <p class="hint">
@@ -166,6 +168,7 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
             `வெளியிடப்பட்ட ${d.trilingual.topics} தலைப்புகளும் அனைத்து ${d.trilingual.langCount} மொழிகளிலும் உள்ளன — முழு மொழி இணைநிலை.`,
             `公開済みの ${d.trilingual.topics} 主題すべてが ${d.trilingual.langCount} 言語すべてに存在します — 完全な言語対等。`,
             `공개된 ${d.trilingual.topics}개 주제 전체가 ${d.trilingual.langCount}개 언어 모두에 존재합니다 — 완전한 언어 대등.`,
+            `เรื่องที่เผยแพร่แล้วทั้ง ${d.trilingual.topics} เรื่องมีอยู่ครบในทั้ง ${d.trilingual.langCount} ภาษา — ครอบคลุมภาษาครบถ้วน`,
           )}
         </p>
       ) : (
@@ -178,20 +181,21 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
               `${d.trilingual.topics} தலைப்புகளில், ${d.trilingual.full} (${d.trilingual.fullPct}%) அனைத்து ${d.trilingual.langCount} மொழிகளிலும் உள்ளன. மீதமுள்ள ${d.trilingual.one + d.trilingual.two} இன்னும் முழு மொழிபெயர்ப்புக்குக் காத்திருக்கின்றன.`,
               `${d.trilingual.topics} 主題のうち、${d.trilingual.full} 件（${d.trilingual.fullPct}%）が ${d.trilingual.langCount} 言語すべてに存在します。残りの ${d.trilingual.one + d.trilingual.two} 件はまだ完全な翻訳待ちです。`,
               `${d.trilingual.topics}개 주제 중 ${d.trilingual.full}개(${d.trilingual.fullPct}%)가 ${d.trilingual.langCount}개 언어 모두에 존재합니다. 나머지 ${d.trilingual.one + d.trilingual.two}개는 아직 완전한 번역을 기다리고 있습니다.`,
+              `จาก ${d.trilingual.topics} เรื่อง มี ${d.trilingual.full} (${d.trilingual.fullPct}%) ที่มีอยู่ครบในทั้ง ${d.trilingual.langCount} ภาษา ส่วนที่เหลืออีก ${d.trilingual.one + d.trilingual.two} เรื่องยังรอการแปลให้ครบถ้วน`,
             )}
           </p>
           <div class="tri-sum">
-            <div class="tri-stat"><b>{d.trilingual.full}</b><span>{L('semua bahasa', 'all languages', '全部语言', 'எல்லா மொழியும்', '全言語', '전체 언어')}</span></div>
-            <div class="tri-stat"><b>{d.trilingual.two}</b><span>{L('dua bahasa', 'two languages', '两种语言', 'இரு மொழிகள்', '2言語', '2개 언어')}</span></div>
-            <div class="tri-stat"><b>{d.trilingual.one}</b><span>{L('satu bahasa', 'one language', '单一语言', 'ஒரு மொழி', '1言語', '1개 언어')}</span></div>
+            <div class="tri-stat"><b>{d.trilingual.full}</b><span>{L('semua bahasa', 'all languages', '全部语言', 'எல்லா மொழியும்', '全言語', '전체 언어', 'ทุกภาษา')}</span></div>
+            <div class="tri-stat"><b>{d.trilingual.two}</b><span>{L('dua bahasa', 'two languages', '两种语言', 'இரு மொழிகள்', '2言語', '2개 언어', 'สองภาษา')}</span></div>
+            <div class="tri-stat"><b>{d.trilingual.one}</b><span>{L('satu bahasa', 'one language', '单一语言', 'ஒரு மொழி', '1言語', '1개 언어', 'ภาษาเดียว')}</span></div>
           </div>
         </>
       )}
 
       <p class="legend">
-        <span class="key"><i class="sw src" /> {L('Ditulis asal (induk)', 'Authored here (master)', '原创（主语言）', 'இங்கு எழுதப்பட்டது (முதன்மை)', 'ここで執筆（マスター）', '여기서 집필(마스터)')}</span>
-        <span class="key"><i class="sw tr" /> {L('Diterjemah', 'Translated', '翻译', 'மொழிபெயர்க்கப்பட்டது', '翻訳済み', '번역됨')}</span>
-        <span class="key"><i class="sw miss" /> {L('Belum ada', 'Not yet', '尚缺', 'இன்னும் இல்லை', '未対応', '아직 없음')}</span>
+        <span class="key"><i class="sw src" /> {L('Ditulis asal (induk)', 'Authored here (master)', '原创（主语言）', 'இங்கு எழுதப்பட்டது (முதன்மை)', 'ここで執筆（マスター）', '여기서 집필(마스터)', 'เขียนต้นฉบับที่นี่ (ต้นฉบับหลัก)')}</span>
+        <span class="key"><i class="sw tr" /> {L('Diterjemah', 'Translated', '翻译', 'மொழிபெயர்க்கப்பட்டது', '翻訳済み', '번역됨', 'แปลแล้ว')}</span>
+        <span class="key"><i class="sw miss" /> {L('Belum ada', 'Not yet', '尚缺', 'இன்னும் இல்லை', '未対応', '아직 없음', 'ยังไม่มี')}</span>
       </p>
 
       <div class="langbars">
@@ -208,9 +212,9 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
               {b.missing > 0 && <span class="seg miss" style={`width:${(b.missing / b.total) * 100}%`} />}
             </div>
             <div class="lb-nums">
-              <span class="src-t">{b.source} {L('asal', 'authored', '原创', 'எழுதப்பட்டது', '執筆', '집필')}</span>
-              <span class="tr-t">{b.translated} {L('terjemah', 'translated', '翻译', 'மொழிபெயர்ப்பு', '翻訳', '번역')}</span>
-              <span class="miss-t">{b.missing} {L('belum', 'missing', '尚缺', 'இல்லை', '未対応', '없음')}</span>
+              <span class="src-t">{b.source} {L('asal', 'authored', '原创', 'எழுதப்பட்டது', '執筆', '집필', 'เขียนต้นฉบับ')}</span>
+              <span class="tr-t">{b.translated} {L('terjemah', 'translated', '翻译', 'மொழிபெயர்ப்பு', '翻訳', '번역', 'แปลแล้ว')}</span>
+              <span class="miss-t">{b.missing} {L('belum', 'missing', '尚缺', 'இல்லை', '未対応', '없음', 'ยังขาด')}</span>
             </div>
           </div>
         ))}
@@ -221,7 +225,7 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Klasifikasi kandungan', 'Content classification', '内容分类', 'உள்ளடக்க வகைப்பாடு', 'コンテンツ分類', '콘텐츠 분류')}</span></header>
+    <header><span>{L('Klasifikasi kandungan', 'Content classification', '内容分类', 'உள்ளடக்க வகைப்பாடு', 'コンテンツ分類', '콘텐츠 분류', 'การจำแนกประเภทเนื้อหา')}</span></header>
     <div class="psec-body">
       <p class="hint">
         {L(
@@ -231,6 +235,7 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
           `${totalTopics} தலைப்புகளில் ${sensitiveCount} மலேசியாவின் உணர்வுபூர்வமான துறைகளைத் (இனம், மதம், அரச நிறுவனம், அரசியலமைப்பு போன்றவை) தொடுகின்றன, மேலும் கவனமான மறுஆய்வுக்காக அடையாளமிடப்பட்டுள்ளன.`,
           `${totalTopics} 主題のうち ${sensitiveCount} 件がマレーシアのデリケートな領域（人種、宗教、王室、憲法など）に触れており、慎重なレビューのため区分されています。`,
           `${totalTopics}개 주제 중 ${sensitiveCount}개가 말레이시아의 민감한 영역(인종, 종교, 왕실, 헌법 등)을 다루며 신중한 검토를 위해 분류되어 있습니다.`,
+          `${sensitiveCount} จาก ${totalTopics} เรื่องเกี่ยวข้องกับประเด็นอ่อนไหวของมาเลเซีย (เช่น เชื้อชาติ ศาสนา สถาบันพระมหากษัตริย์ และรัฐธรรมนูญ) และถูกจัดหมวดไว้เพื่อการตรวจทานอย่างระมัดระวัง`,
         )}
       </p>
       <div class="sens">
@@ -248,7 +253,7 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Liputan mengikut kategori', 'Coverage by category', '各分类覆盖', 'வகை வாரியான பரப்பு', 'カテゴリー別カバレッジ', '카테고리별 커버리지')}</span></header>
+    <header><span>{L('Liputan mengikut kategori', 'Coverage by category', '各分类覆盖', 'வகை வாரியான பரப்பு', 'カテゴリー別カバレッジ', '카테고리별 커버리지', 'ความครอบคลุมตามหมวดหมู่')}</span></header>
     <div class="psec-body cov">
       {sections.map((s) => (
         <div class="cov-sec">
@@ -264,14 +269,14 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
           </div>
         </div>
       ))}
-      <p class="cov-more"><a href={localePath('/categories', locale)}>{L('Layari semua kategori', 'Browse all categories', '浏览所有分类', 'அனைத்து வகைகளையும் உலாவுக', 'すべてのカテゴリーを閲覧', '모든 카테고리 보기')} →</a></p>
+      <p class="cov-more"><a href={localePath('/categories', locale)}>{L('Layari semua kategori', 'Browse all categories', '浏览所有分类', 'அனைத்து வகைகளையும் உலாவுக', 'すべてのカテゴリーを閲覧', '모든 카테고리 보기', 'เรียกดูหมวดหมู่ทั้งหมด')} →</a></p>
     </div>
   </div>
 </section>
 
 <section class="container block two-col">
   <div class="psec">
-    <header><span>{L('Kitaran hayat', 'Lifecycle', '生命周期', 'வாழ்க்கைச் சுழற்சி', 'ライフサイクル', '수명 주기')}</span></header>
+    <header><span>{L('Kitaran hayat', 'Lifecycle', '生命周期', 'வாழ்க்கைச் சுழற்சி', 'ライフサイクル', '수명 주기', 'วงจรชีวิต')}</span></header>
     <div class="psec-body">
       <p class="hint">
         {L(
@@ -281,6 +286,7 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
           'ஒவ்வொரு கட்டுரையும் இந்த ஏணி வழியாக நகர்கிறது. வெளியிடப்பட்டவை மட்டுமே பொது தளத்தில் தோன்றும்.',
           'すべての記事はこの段階を進みます。公開されたものだけが公開サイトに表示されます。',
           '모든 기사는 이 단계를 따라 이동합니다. 공개된 기사만 공개 사이트에 표시됩니다.',
+          'ทุกบทความจะเคลื่อนไปตามลำดับขั้นนี้ เฉพาะที่เผยแพร่แล้วเท่านั้นที่ปรากฏบนเว็บไซต์สาธารณะ',
         )}
       </p>
       <ol class="ladder">
@@ -296,10 +302,10 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
   </div>
 
   <div class="psec">
-    <header><span>{L('Kemas kini terkini', 'Recently updated', '最近更新', 'சமீபத்தில் புதுப்பிக்கப்பட்டவை', '最近の更新', '최근 업데이트')}</span></header>
+    <header><span>{L('Kemas kini terkini', 'Recently updated', '最近更新', 'சமீபத்தில் புதுப்பிக்கப்பட்டவை', '最近の更新', '최근 업데이트', 'อัปเดตล่าสุด')}</span></header>
     <div class="psec-body">
       {d.recentlyUpdated.length === 0 ? (
-        <p class="hint">{L('Tiada kemas kini terkini direkodkan.', 'No recent updates recorded.', '暂无最近更新记录。', 'சமீபத்திய புதுப்பிப்புகள் எதுவும் பதிவாகவில்லை.', '最近の更新は記録されていません。', '최근 업데이트 기록이 없습니다.')}</p>
+        <p class="hint">{L('Tiada kemas kini terkini direkodkan.', 'No recent updates recorded.', '暂无最近更新记录。', 'சமீபத்திய புதுப்பிப்புகள் எதுவும் பதிவாகவில்லை.', '最近の更新は記録されていません。', '최근 업데이트 기록이 없습니다.', 'ไม่มีบันทึกการอัปเดตล่าสุด')}</p>
       ) : (
         <ul class="recent">
           {d.recentlyUpdated.map((a) => (
@@ -310,7 +316,7 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
           ))}
         </ul>
       )}
-      <p class="more"><a href={localePath('/changelog', locale)}>{L('Lihat log perubahan penuh →', 'See the full changelog →', '查看完整更新日志 →', 'முழு மாற்ற பதிவைப் பார்க்க →', '完全な変更履歴を見る →', '전체 변경 이력 보기 →')}</a></p>
+      <p class="more"><a href={localePath('/changelog', locale)}>{L('Lihat log perubahan penuh →', 'See the full changelog →', '查看完整更新日志 →', 'முழு மாற்ற பதிவைப் பார்க்க →', '完全な変更履歴を見る →', '전체 변경 이력 보기 →', 'ดูบันทึกการเปลี่ยนแปลงทั้งหมด →')}</a></p>
     </div>
   </div>
 </section>

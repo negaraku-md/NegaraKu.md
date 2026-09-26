@@ -32,7 +32,7 @@ if (MAINTENANCE_UNTIL) {
     </div>
 
     <div class="mtext">
-      <h1>{L('Kami akan kembali sebentar lagi', 'We’ll be right back', '我们很快就回来', 'நாங்கள் உடனே திரும்பி வருகிறோம்', 'まもなく戻ります', '잠시 후 다시 돌아오겠습니다')}</h1>
+      <h1>{L('Kami akan kembali sebentar lagi', 'We’ll be right back', '我们很快就回来', 'நாங்கள் உடனே திரும்பி வருகிறோம்', 'まもなく戻ります', '잠시 후 다시 돌아오겠습니다', 'เราจะกลับมาในไม่ช้า')}</h1>
       <p class="mlead">
         {L(
           'NegaraKu.md sedang menjalani penyelenggaraan ringkas untuk menjadi lebih baik. Terima kasih atas kesabaran anda.',
@@ -41,11 +41,12 @@ if (MAINTENANCE_UNTIL) {
           'NegaraKu.md மேலும் சிறப்பாக்கும் பொருட்டு குறுகிய பராமரிப்பில் உள்ளது. உங்கள் பொறுமைக்கு நன்றி.',
           'NegaraKu.md は、より良くするための短いメンテナンスを行っています。お待ちいただきありがとうございます。',
           'NegaraKu.md는 더 나은 서비스를 위해 짧은 점검을 진행하고 있습니다. 기다려 주셔서 감사합니다.',
+          'NegaraKu.md กำลังอยู่ระหว่างการบำรุงรักษาสั้น ๆ เพื่อให้ดียิ่งขึ้น ขอบคุณสำหรับความอดทนของคุณ',
         )}
       </p>
       {untilText && (
         <p class="muntil">
-          <span class="mlabel">{L('Dijangka kembali menjelang', 'Expected back by', '预计恢复时间', 'திரும்ப எதிர்பார்க்கப்படும் நேரம்', '復旧予定', '복구 예정 시각')}</span>
+          <span class="mlabel">{L('Dijangka kembali menjelang', 'Expected back by', '预计恢复时间', 'திரும்ப எதிர்பார்க்கப்படும் நேரம்', '復旧予定', '복구 예정 시각', 'คาดว่าจะกลับมาภายใน')}</span>
           <b>{untilText}</b>
         </p>
       )}
@@ -65,7 +66,7 @@ if (MAINTENANCE_UNTIL) {
            preview it opens the live home; during a real takeover it reloads the
            home, so it doubles as a "check if we're back" link. -->
       <a class="mhome" href={localePath('/', locale)}>
-        <span aria-hidden="true">←</span>{L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈')}
+        <span aria-hidden="true">←</span>{L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก')}
       </a>
     </div>
   </div>
