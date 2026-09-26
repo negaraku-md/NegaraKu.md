@@ -62,13 +62,16 @@ The 4 discovery modes and where we stand:
 - [x] **Phases 0–4 DONE + PUSHED/DEPLOYED** — 1073/1073 translated, corrective field-pass (562 files → 0 untranslated), currency normalized to 억/조/만, published (877 non-sensitive + 196 sensitive reviewer `ashton-tan`), `ko` in LOCALES/sitemap/switcher/hreflang (indexed, 0 noindex), 21 /ko redirects, FB activated (Page `1308994995630346`). Build green, health --strict 0, dashboard 1073/1073 + languages:6. Post-launch polish: /ta,/ja,/ko homepage titles + ja/ko milestones + 5 한다체→합니다체 files.
 - [ ] **[you]** update the KO Facebook Page website field → `https://negaraku.md/ko` (Page settings — the only remaining Korean item)
 
-## 🌐 Next language — OUTSTANDING (agreed 2026-09-26; MULTI-AGENT path, NO API)
-User agreed the priority + method. Each ≈ one Korean-scale multi-agent effort; follow [[negaraku-language-launch-checklist]] (esp. KOREAN RUN lessons: full field-list up front, non-recursive agents ≤10 concurrent, deterministic currency script, publish flip + sensitive reviewer, homepage title + count-copy in Phase 1).
-- [ ] **1. Indonesian (`id`) — DO NEXT** (biggest audience, lowest effort/risk: closest to ms, no new font, no RTL)
-- [ ] 2. Arabic (`ar`) — high value (Gulf/halal/tourism) but **RTL** = new bidi infra
-- [ ] 3. Thai (`th`) / Vietnamese (`vi`) — ASEAN; new fonts, no RTL
-- [ ] 4. Hindi (`hi`) — Devanagari font
-- [ ] 5. Spanish (`es`) / French (`fr`) — global reach, Latin script (cheapest)
+## 🌐 Next languages — COMMITTED SEQUENCE (agreed 2026-09-26; MULTI-AGENT path, NO API)
+Ranked by net-new reach (audiences that can't read the site today) × Malaysia-inbound × ÷ effort. `id` ranked below the truly-distinct languages because ms already gives Indonesians ~80% comprehension (though the site's tax/law/admin register — cukai/pajak, kerajaan/pemerintah, syarikat/perusahaan — diverges most). Each ≈ one Korean-scale multi-agent effort; follow [[negaraku-language-launch-checklist]] (esp. KOREAN RUN lessons: full field-list up front, non-recursive agents ≤10 concurrent, deterministic currency script, publish flip + sensitive reviewer, homepage title + count-copy in Phase 1).
+- [ ] **7. Thai (`th`) — DO NEXT** — top tourist/border-trade source, zero current access; new font, no RTL
+- [ ] **8. Vietnamese (`vi`)** — rising tourism/business/workers; Latin script (low font cost), no RTL
+- [ ] **9. Indonesian (`id`)** — cheapest (near-ms); huge adjacent SEO market + Indonesian workers/tourists in MY
+- [ ] **10. Arabic (`ar`)** — Gulf/halal/high-spend tourists; first **RTL** (build bidi infra once). Pull forward if Gulf/halal becomes strategic
+- [ ] **11. Hindi (`hi`)** — North-Indian tourists/workers/investors; Devanagari
+- [ ] **12. Spanish (`es`)** — biggest global-reach language; Latin, cheap
+- [ ] **13. French (`fr`)** — Europe/Africa/Canada; Latin, cheap
+- [ ] _Beyond: migrant-worker tranche (Bengali, Nepali, Burmese, Tagalog) if serving in-Malaysia workers becomes the priority_
 
 ## 📊 Analytics redesign — IN PROGRESS (plan: `docs/plans/analytics-redesign.md`)
 Split `/dashboard` (content health) from a new `/analytics` (filterable growth trends: channel · SEO · AI · visitor · category · language). Data reality: only SEO has trend history; visitors/channels/AI/engagement/social are snapshot-only.
