@@ -10,7 +10,7 @@ interface Props {
 }
 const { locale } = Astro.props;
 const d = getDashboard();
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string) => (locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string) => (locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const titleByKey = new Map<string, string>();
 for (const r of d.registry) titleByKey.set(`${r.category}/${r.slug}`, r.title[locale] ?? r.title.ms);
