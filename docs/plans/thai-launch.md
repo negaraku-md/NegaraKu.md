@@ -61,8 +61,9 @@ L() signature +th across 42 components + Localized type; Wave 1 (5 agents) found
 - [ ] **DATA objects `{ms,en,zh,ta,ja,ko}` accessed as `obj[locale]`** (blank-render bug class, NOT L()): HomeView hero unit labels, `seo.ts` JSON-LD descriptions, `sponsors.ts`, `provenance.ts`, `llms.ts` CORPUS_HEADER, the 404 page. Add `th`; widen any `Record<...>` types.
 - [ ] Grep sweep for any remaining `ms|en|zh|ta|ja|ko` hardcode → add `th`.
 
-## Phase 2 — Corpus translation (the bulk) — BAKE IN THE KOREAN LESSONS
-- [ ] Translate all **1,073** live masters → `.th.md` via **multi-agent waves**. Agent rules (from the ko run, non-negotiable):
+## Phase 2 — Corpus translation ✅ DONE 2026-09-27 (5 waves, ~29 agents; local/unpushed)
+**1073/1073 `.th.md`; 0 gaps; validate 0 errors; full build green (11,418 pages); all 1073 stamped in-sync.** Archived masters skipped correctly. Field-audit found only **43** files with a leftover field (vs Korean's 562 — full field-list baked into agents from wave 1 worked); fixed in one corrective agent → 0 untranslated corpus-wide. Currency was ล้าน/พันล้าน from the start (no separate normalization needed, unlike Korean). Waves: (1) business/taxation/company-secretary 285, (2) malaysia/law/government/employment/arts-culture/glossary→600, (3) economy/healthcare/settling-in/accounting/education/audit→768, (4) states/transport/property/money-daily-life/companies/environment/energy/tourism/sports→948, (5) industries/technology/finance/cost-of-living/agriculture/international/public-safety/food-lifestyle→1073.
+- [x] Translate all **1,073** live masters → `.th.md` via **multi-agent waves**. Agent rules (from the ko run, non-negotiable):
   - **FULL translatable field list from wave 1** (avoids ko's 562-file corrective pass): `title, seoTitle, socialTitle, summary, answer, keyTakeaways, faq (q+a), appliesTo, verificationNeeded, obligations`. `obligations` = prose sub-values only (what/due/consequence/note); keep trigger/authority/statute+section#/dates verbatim. Everything else copied verbatim from master.
   - **Agents MUST NOT spawn sub-agents** (recursive fan-out blew the ko session limit). **≤ ~6 flat concurrent agents** (13 → 429s). One agent per category (split big ones a–m / n–z).
   - **EXCLUDE `status: archived` masters.** SKIP masters that already have a `.th.md` (resumable).
