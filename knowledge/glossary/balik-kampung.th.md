@@ -1,0 +1,131 @@
+---
+topicId: MY-GLO-0013
+title: "บาลิกกัมปง (Balik Kampung) — การเคลื่อนย้ายผู้คนช่วงเทศกาลของมาเลเซีย"
+slug: "balik-kampung"
+category: "glossary"
+subcategory: ["culture"]
+summary: "ธรรมเนียมการกลับสู่บ้านเกิดในช่วงเทศกาล — และการเคลื่อนย้ายผู้คนชั่วคราวครั้งใหญ่ที่สุดของมาเลเซีย ซึ่งทำให้ยานพาหนะเคลื่อนที่หลายล้านคันต่อวันและเปลี่ยนแปลงรูปแบบการใช้จ่ายของประเทศ"
+
+tier: "4"
+mode: "practical"
+contentType: "glossary"
+
+answer: "บาลิกกัมปง (balik kampung) คือธรรมเนียมการกลับสู่บ้านเกิดหรือถิ่นกำเนิดของครอบครัว โดยเฉพาะก่อนเทศกาลใหญ่ เช่น ฮารีรายอ (Aidilfitri) ตรุษจีน ดีปาวลี (Deepavali) และคริสต์มาส เนื่องจากประชากรมาเลเซีย 75.1 เปอร์เซ็นต์อาศัยอยู่ในเขตเมือง (สำมะโนประชากร 2020) ธรรมเนียมนี้จึงกลายเป็นการเคลื่อนย้ายผู้คนชั่วคราวครั้งใหญ่ที่สุดของประเทศ กล่าวคือ การทางหลวงมาเลเซีย (Lembaga Lebuhraya Malaysia, LLM) คาดว่าจะมียานพาหนะบนทางหลวงสูงสุดถึง 3.5 ล้านคันต่อวันในช่วงพีคของฮารีรายอ 2026"
+keyTakeaways:
+  - "หมายถึงการกลับสู่บ้านเกิด ปฏิบัติกันในทุกชุมชนตามเทศกาลของแต่ละกลุ่ม"
+  - "ขับเคลื่อนโดยการขยายตัวของเมือง — ประชากร 75.1% อยู่ในเมืองเมื่อปี 2020 เพิ่มขึ้นจาก 70.9% ในปี 2010 (DOSM)"
+  - "LLM คาดว่าจะมียานพาหนะบนทางหลวงสูงสุดถึง 3.5 ล้านคันต่อวันในช่วงพีคของฮารีรายอ 2026"
+  - "PDRM ดำเนินปฏิบัติการ Op Selamat ทุกฤดูเทศกาล — Op Selamat 26 จัดขึ้นระหว่างวันที่ 19–24 มีนาคม 2026"
+  - "กระแสเดินทางกลับสู่เมืองใหญ่พอ ๆ กัน: PLUS คาดว่าจะมี 2 ถึง 2.3 ล้านคันต่อวันในวันที่ 27–29 มีนาคม 2026"
+appliesTo: "ผู้ใช้ทางหลวงในช่วงฤดูเทศกาล ผู้วางแผนการเดินทางและวันหยุด ผู้ค้าปลีกและผู้ประกอบการขนส่ง และผู้ที่พยายามทำความเข้าใจรูปแบบการเคลื่อนย้ายของประชากรมาเลเซีย"
+
+lang: "th"
+masterLanguage: "ms"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: "2026-07-25"
+publishedBy: "ashton-tan"
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-07-24
+    change: "Approved and published."
+    reviewer: null
+sensitivity: "none"
+
+updated: 2026-07-24
+sources:
+  - title: "[Artikel Pilihan] Op Selamat 26 Hari Raya Aidilfitri: 6,132 Anggota URB, MPV Diatur Gerak"
+    url: "https://www.rmp.gov.my/news-detail/2026/03/16/artikel-pilihan-op-selamat-26-hari-raya-aidilfitri-6-132-anggota-urb-mpv-diatur-gerak"
+    publisher: "Polis Diraja Malaysia (PDRM)"
+    date: "2026-03-16"
+  - title: "Pemberian 50% Diskaun Tol Bersempena Perayaan Aidilfitri"
+    url: "https://www.llm.gov.my/announcement/news_detail/27422"
+    publisher: "Lembaga Lebuhraya Malaysia"
+    date: "2026-03"
+  - title: "LLM Tingkat Kesiapsiagaan, Tempatkan Pasukan Kecemasan Di Lokasi Strategik Sempena Aidilfitri"
+    url: "https://www.bernama.com/bm/news.php?id=2535839"
+    publisher: "BERNAMA (memetik Ketua Pengarah LLM)"
+    date: "2026-03-18"
+  - title: "PLUS Jangka 2.3 Juta Kenderaan Sehari Hujung Minggu Ini"
+    url: "https://www.bernama.com/bm/am/news.php?id=2537755"
+    publisher: "BERNAMA (memetik PLUS Malaysia Berhad)"
+    date: "2026-03-26"
+  - title: "Ops Selamat 25: PDRM Sasar Kurang Kadar Kemalangan, Kematian Lima Peratus"
+    url: "https://www.bernama.com/bm/news.php?id=2522770"
+    publisher: "BERNAMA (memetik Ketua Polis Negara)"
+    date: "2026-02-11"
+  - title: "Key Findings — Population and Housing Census of Malaysia 2020"
+    url: "https://www.dosm.gov.my/portal-main/release-content/key-findings-population-and-housing-census-of-malaysia-2020-administrative-district"
+    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+    date: "2022-05-29"
+  - title: "Perdagangan Borong Dan Runcit Malaysia Naik 9.8 Peratus Kepada RM169 Bilion Pada Mac 2026"
+    url: "https://bernama.com/bm/news.php?id=2555565"
+    publisher: "BERNAMA (memetik Ketua Perangkawan Negara, DOSM)"
+    date: "2026-05-11"
+
+entity: "Balik kampung"
+relations:
+  - { rel: "affects", to: "kuala-lumpur" }
+  - { rel: "related-to", to: "penang" }
+  - { rel: "related-to", to: "selangor" }
+related: ["kampung", "kuala-lumpur", "penang", "batik"]
+keywords: ["balik kampung", "maksud balik kampung", "trafik balik kampung", "Op Selamat", "perpindahan musim perayaan Malaysia", "kesesakan lebuh raya perayaan"]
+---
+
+**Bahasa Malaysia:** Balik Kampung · **English:** Homecoming / Festive Exodus · **中文:** 返乡
+
+ไม่กี่วันก่อนเทศกาลใหญ่ กัวลาลัมเปอร์ (Kuala Lumpur) และหุบเขากลัง (Lembah Klang) กลายเป็นเมืองร้าง — สำนักงานปิด ร้านค้าปิดหน้าร้าน ถนนเงียบสงัด ผู้คนไม่ได้หายไปไหน พวกเขาอยู่บนทางหลวง มุ่งหน้าสู่ถิ่นกำเนิดของครอบครัว นั่นคือ **บาลิกกัมปง (balik kampung)**
+
+คำนี้หมายถึงการกลับสู่บ้านเกิด และไม่ใช่ของกลุ่มชาติพันธุ์ใดกลุ่มเดียว ครอบครัวมลายูกลับบ้านก่อนฮารีรายอ (Aidilfitri) ครอบครัวจีนก่อนตรุษจีน ครอบครัวอินเดียก่อน[ดีปาวลี (Deepavali)](/th/arts-culture/deepavali) และครอบครัวคริสต์ก่อนคริสต์มาส รูปแบบเหมือนกัน ต่างเพียงวันที่
+
+## ทำไมจึงใหญ่ขนาดนี้
+
+สาเหตุหลักคือภูมิศาสตร์เศรษฐกิจ งานกระจุกตัวอยู่ในกลุ่มเมืองไม่กี่แห่ง ขณะที่ครอบครัวถิ่นกำเนิดยังคงอยู่ในรัฐอื่น ตามสำมะโนประชากรและเคหะมาเลเซีย 2020 ประชากรมาเลเซีย **75.1 เปอร์เซ็นต์** อาศัยอยู่ในเขตเมือง เพิ่มขึ้นจาก 70.9 เปอร์เซ็นต์ในปี 2010
+
+ทุกเทศกาล ประชากรเมืองส่วนใหญ่นั้นเคลื่อนที่พร้อมกันในทิศทางตรงข้ามกับกระแสรายวัน — และเดินทางกลับอีกไม่กี่วันต่อมา
+
+## ผลกระทบต่อการจราจร
+
+ตัวเลขอย่างเป็นทางการสำหรับฮารีรายอ 2026 สะท้อนขนาดของปรากฏการณ์นี้:
+
+| รายการ | ตัวเลข |
+| --- | --- |
+| การคาดการณ์การจราจรพีคบนทางหลวง (LLM) | สูงสุดถึง 3.5 ล้านคันต่อวัน |
+| เจ้าหน้าที่ตลอดแนวทางหลวง (PLUS) | 6,000 |
+| ทีมช่วยเหลือฉุกเฉิน (ERT) ที่ LLM ประจำการ | 12 จุดยุทธศาสตร์ |
+| กล้อง CCTV ที่ LLM เปิดใช้งาน | 873 |
+| Op Selamat 26 (PDRM) | 19–24 มีนาคม 2026 |
+| เจ้าหน้าที่ URB และ MPV ของ PDRM | 6,132 |
+| กระแสเดินทางกลับสู่เมือง (PLUS) | 2–2.3 ล้านคันต่อวัน 27–29 มีนาคม 2026 |
+
+Op Selamat ดำเนินการโดย PDRM ทุกฤดูเทศกาล ไม่ใช่เฉพาะฮารีรายอ — Op Selamat 25 จัดขึ้นในช่วงตรุษจีน โดยตั้งเป้าลดอัตราอุบัติเหตุ อุบัติเหตุร้ายแรงถึงชีวิต และการเสียชีวิตอย่างน้อยห้าเปอร์เซ็นต์เมื่อเทียบกับปฏิบัติการครั้งก่อน
+
+## ผลกระทบต่อเศรษฐกิจ
+
+บาลิกกัมปงเคลื่อนย้ายการใช้จ่าย ไม่ใช่เพียงผู้คน เงินที่ปกติใช้จ่ายในเมืองไหลไปสู่ตลาด ร้านค้าปลีก ปั๊มน้ำมัน และที่พักในชนบทตลอดหลายวัน
+
+ผลกระทบตามฤดูกาลนี้ปรากฏในข้อมูลอย่างเป็นทางการ DOSM รายงานยอดขายการค้าส่งและค้าปลีกของมาเลเซียมูลค่า **RM169 พันล้านในเดือนมีนาคม 2026** — เดือนฮารีรายอของปีนั้น — เพิ่มขึ้น 9.8 เปอร์เซ็นต์เมื่อเทียบกับปีก่อน โดยมียอดขายค้าปลีก RM72 พันล้าน ตัวเลขรายเดือนนี้ได้รับอิทธิพลจากหลายปัจจัย จึงแสดงรูปแบบอุปสงค์ตามฤดูกาลมากกว่าผลของบาลิกกัมปงเพียงอย่างเดียว
+
+รัฐบาลยังเข้าแทรกแซงต้นทุนการเดินทางด้วย สำหรับฮารีรายอ 2026 LLM ประกาศส่วนลดค่าผ่านทาง 50 เปอร์เซ็นต์สำหรับยานพาหนะประเภทที่ 1 และประเภทที่ 2 ที่ **สะพานปีนัง (Jambatan Pulau Pinang)** เริ่มตั้งแต่เวลา 00:00:01 ของวันที่ 18 มีนาคม 2026 จนถึง 23:59:59 ของวันที่ 19 มีนาคม 2026
+
+## ความเข้าใจผิดที่พบบ่อย
+
+- **คิดว่าเป็นเรื่องของฮารีรายอเท่านั้น** Op Selamat ดำเนินการในเทศกาลอื่นด้วย — Op Selamat 25 เช่นกัน จัดขึ้นในช่วงตรุษจีน 2026
+- **ลืมกระแสเดินทางกลับ** การเดินทางกลับสู่เมืองอาจติดขัดเท่ากับขาไป — PLUS เองคาดว่าจะมี 2–2.3 ล้านคันต่อวันในช่วงสุดสัปดาห์หลังเทศกาล
+- **เข้าใจว่า "กัมปง" คือหมู่บ้านชนบท** สำหรับคนจำนวนมากในปัจจุบัน บ้านเกิดของตนเองก็คือเมืองในอีกรัฐหนึ่ง
+
+## คำศัพท์ที่เกี่ยวข้อง
+
+- [กัมปง (Kampung)](/th/glossary/kampung)
+- [กัวลาลัมเปอร์](/th/states/kuala-lumpur)
+- [ปีนัง](/th/states/penang)
+- [สลังงอร์](/th/states/selangor)
+- [บาติก (Batik)](/th/arts-culture/batik)
+
+## อ่านต่อ
+
+ตรวจสอบการคาดการณ์การจราจรและตำแหน่งของ ERT ที่พอร์ทัลการทางหลวงมาเลเซียก่อนออกเดินทาง และดูประกาศ Op Selamat ของ PDRM สำหรับวันที่ปฏิบัติการและเส้นทางที่มีการจราจรหนาแน่นในแต่ละฤดูเทศกาล
