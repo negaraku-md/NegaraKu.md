@@ -13,17 +13,17 @@ sensitivity: "none"
 
 answer: "B2B 면제는 등록 서비스 제공자가 같은 그룹의 다른 등록 제공자로부터 취득한 서비스에 대해, 취득자가 동일한 과세 서비스를 후속 공급하는 경우 서비스세 납부를 면제해 줍니다. 이는 개정된 서비스세(납세 면제자) 명령 2018(Service Tax (Persons Exempted from Payment of Tax) Order 2018)에 의해 부여되며, 그룹 G 전문직, 그룹 I 광고, 그룹 K 임대, 그룹 L 건설에 각각 고유의 조건으로 적용됩니다."
 keyTakeaways:
-  - "B2B is item-matched — the service acquired must be the same taxable service the acquirer provides"
-  - "Both parties must be registered persons; the exemption does not reach unregistered buyers"
-  - "Group K rental B2B requires the service be for sublet or sublease, not personal consumption"
-  - "Group L construction B2B carries a not-for-personal-consumption condition but no sublet requirement"
-  - "There is no B2B exemption between private healthcare providers in the same group of services"
-  - "The invoice must carry the particulars in regulation 10 of the Service Tax Regulations 2018"
-appliesTo: "Registered service providers buying taxable services from other registered providers, and their finance teams."
+  - "B2B는 항목이 일치해야 합니다 — 취득한 서비스가 취득자가 제공하는 것과 동일한 과세 대상 서비스여야 합니다"
+  - "양 당사자 모두 등록자여야 하며, 이 면제는 미등록 매입자에게는 미치지 않습니다"
+  - "그룹 K 임대 B2B는 그 서비스가 개인 소비용이 아니라 전대(sublet) 또는 재임대(sublease)용일 것을 요구합니다"
+  - "그룹 L 건설 B2B에는 개인 소비용이 아니어야 한다는 조건이 있으나 전대 요건은 없습니다"
+  - "동일 서비스 그룹 내의 민간 의료 제공자 간에는 B2B 면제가 없습니다"
+  - "송장에는 서비스세 규정(Service Tax Regulations 2018) 제10조의 기재 사항이 포함되어야 합니다"
+appliesTo: "다른 등록 제공자로부터 과세 대상 서비스를 구매하는 등록 서비스 제공자와 그 재무 담당 부서."
 
 verificationNeeded:
-  - "Whether RMCD prescribes any additional exemption-declaration wording or a customer service tax registration number field on the invoice, beyond the regulation 10 particulars — no prescribed B2B invoice format was found on an official source"
-  - "Intra-group relief for professional services and any percentage limit on services provided to unconnected parties was not verified — do not rely on the commonly quoted figure"
+  - "말레이시아 관세청(RMCD)이 제10조 기재 사항 외에 추가적인 면제 선언 문구나 고객 서비스세 등록번호 항목을 송장에 규정하는지 여부 — 공식 출처에서 규정된 B2B 송장 양식을 찾지 못함"
+  - "전문 서비스에 대한 그룹 내 감면과, 무관계 당사자에게 제공되는 서비스에 대한 비율 제한은 검증되지 않았음 — 흔히 인용되는 수치에 의존하지 말 것"
 
 lang: "ko"
 sourceContentHash: "fdaf544799e718b4"

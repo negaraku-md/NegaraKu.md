@@ -14,17 +14,17 @@ sensitivity: "none"
 
 answer: "말레이시아 경쟁위원회(MyCC)가 집행하는 2010년 경쟁법(Competition Act 2010)은 두 가지를 금지합니다: 가격 담합, 입찰 담합 및 시장 분할과 같은 반경쟁적 합의(제1장 금지), 그리고 시장지배적 지위의 남용(제2장 금지). 위반이 입증되면 사업자에게 침해 기간 동안의 전 세계 매출액의 최대 10%에 해당하는 금전적 제재가 부과될 수 있습니다. 이 법은 거의 모든 상업 활동에 적용됩니다. 2026년 경쟁(개정) 법안(Competition (Amendment) Bill 2026) — 하원(Dewan Rakyat, 2026년 7월 6일)과 상원(Dewan Negara, 2026년 7월 27일)을 모두 통과했으나 아직 국왕의 재가를 받았거나 관보에 게재되어 발효되었다고 확인되지는 않음 — 은 MyCC의 집행 및 화해 권한을 한층 강화할 것입니다."
 keyTakeaways:
-  - "Cartel conduct — price-fixing, market-sharing, bid-rigging and limiting production — is deemed anti-competitive under Section 4(2), so no separate proof of harm is needed."
-  - "Abusing a dominant position (Section 10) is banned; MyCC generally treats a market share above 60% as an indicator of dominance."
-  - "The maximum financial penalty is up to 10% of an enterprise's worldwide turnover over the infringement period."
-  - "A leniency regime (Section 41) offers up to a 100% penalty reduction for cartel members who come forward and cooperate."
-appliesTo: "Business owners, directors, compliance officers and legal advisers operating in Malaysia."
+  - "카르텔 행위 — 가격 담합, 시장 분할, 입찰 담합, 생산 제한 — 는 제4조 제2항에 따라 반경쟁적인 것으로 간주되므로, 피해에 대한 별도의 입증이 필요하지 않습니다."
+  - "시장지배적 지위의 남용(제10조)은 금지되며, MyCC는 일반적으로 60%를 초과하는 시장점유율을 지배력의 지표로 봅니다."
+  - "최대 금전적 벌칙은 위반 기간 동안 사업자의 전 세계 매출액의 10%까지입니다."
+  - "자진 신고 감면 제도(제41조)는 자진하여 협조하는 카르텔 구성원에게 최대 100%의 벌칙 감경을 제공합니다."
+appliesTo: "말레이시아에서 활동하는 사업주, 이사, 준법 담당자 및 법률 자문인에게 적용됩니다."
 
 faq:
-  - q: "Does the Competition Act 2010 require merger approval in Malaysia?"
-    a: "No. The Act contains no general requirement to notify or seek clearance for a merger, acquisition or joint venture, and the Competition (Amendment) Bill 2026 did not introduce an economy-wide merger-control regime."
-  - q: "Who enforces the Competition Act 2010?"
-    a: "The Malaysia Competition Commission (MyCC), an independent statutory body, investigates suspected breaches and can impose financial penalties and directions."
+  - q: "경쟁법 2010(Competition Act 2010)은 말레이시아에서 기업결합 승인을 요구합니까?"
+    a: "아닙니다. 이 법에는 기업합병, 인수 또는 합작투자에 대해 신고하거나 승인을 받도록 하는 일반적 요건이 없으며, 경쟁(개정)법안 2026(Competition (Amendment) Bill 2026)도 경제 전반에 걸친 기업결합 규제 제도를 도입하지 않았습니다."
+  - q: "경쟁법 2010은 누가 집행합니까?"
+    a: "독립 법정 기관인 말레이시아 경쟁위원회(MyCC)가 위반 혐의를 조사하며 금전적 벌칙과 시정명령을 부과할 수 있습니다."
 
 lang: "ko"
 sourceContentHash: "6a2eea7b75db3f8c"
@@ -45,9 +45,9 @@ revisions:
 
 updated: 2026-08-07
 verificationNeeded:
-  - "Whether the Competition (Amendment) Bill 2026 has since received royal assent and been gazetted, and its commencement date (as of the correction date, only passage by both Houses of Parliament is confirmed by cited sources; no royal assent or gazettement is confirmed)."
-  - "The interim-directions / warning-letter powers and the late-payment charges are supported only by the ZICO Law commentary; confirm against the gazetted amendment text once available."
-  - "Whether the settlement-reduction provision sits at Section 38A in the enacted amendment (news commentary cites Section 38A)."
+  - "경쟁(개정)법안 2026이 그 이후 국왕의 재가를 받아 관보에 게재되었는지 여부 및 시행일(수정 시점 기준, 인용된 출처로는 상·하원 통과만 확인되며 국왕의 재가나 관보 게재는 확인되지 않습니다)."
+  - "임시 시정명령/경고서한 권한과 연체료는 ZICO Law 해설로만 뒷받침되므로, 관보에 게재된 개정 본문이 나오는 대로 대조하여 확인해야 합니다."
+  - "제정된 개정법에서 화해 감경 규정이 제38A조에 위치하는지 여부(언론 해설은 제38A조를 인용합니다)."
 sources:
   - title: "MyCC Guidelines Series: Chapter 1 Prohibition – Anti-Competitive Agreements"
     url: "https://www.richardweechambers.com/mycc-guidelines-series-chapter-1-prohibition-anti-competitive-agreements/"

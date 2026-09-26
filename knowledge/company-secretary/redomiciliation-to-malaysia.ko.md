@@ -14,26 +14,24 @@ sensitivity: "none"
 
 answer: "외국 법인은 반도 말레이시아로 재도미사일화할 수 없습니다 — 회사법(Companies Act 2016)에는 존속(continuance) 제도가 없으며, 회사(개정)법(Companies (Amendment) Act 2024)도 이를 추가하지 않았습니다. 유일한 유입 재도미사일화 통로는 라부안 IBFC로, 라부안 회사법(Labuan Companies Act 1990) 제16조가 적격 외국 회사를 새로운 법적 실체를 만들지 않고 '라부안에서 존속하는' 것으로 등록할 수 있게 합니다. 라부안 회사는 이후 제133조에 따라 이전해 나갈 수 있습니다."
 keyTakeaways:
-  - "There is no redomiciliation or continuance mechanism in the Companies Act 2016; a foreign company entering Peninsular Malaysia either registers as a foreign company (branch) or incorporates a new subsidiary."
-  - "Section 16 of the Labuan Companies Act 1990 allows a foreign company authorised by its home law to migrate to be registered as being continued in Labuan, and it is then deemed a Labuan company domiciled in Labuan."
-  - "Redomiciliation under section 16 does not create a new legal entity and does not affect the company's continuity, property, proceedings, rights or obligations."
-  - "A company in winding up or liquidation, under receivership, or subject to a creditor-restraining scheme cannot be registered under section 16."
-  - "Section 17 allows a prior approval-in-principle certificate, after which the full section 16 application must be filed within twelve months."
-  - "Outward migration is possible under section 133, requiring the Authority's approval, supermajority member and debenture-holder consent, all directors' consent, and 30 days' prior public notice."
-appliesTo: "Founders, company secretaries, trust companies and corporate advisers evaluating whether a foreign-incorporated company can transfer its domicile to Malaysia while remaining the same legal entity."
-
+  - "회사법(Companies Act 2016)에는 재적(redomiciliation)이나 존속(continuance) 제도가 없습니다. 말레이시아 반도에 진입하는 외국회사는 외국회사(지점)로 등록하거나 새 자회사를 설립합니다."
+  - "라부안 회사법(Labuan Companies Act 1990) 제16조는 본국법에 의하여 이전이 허가된 외국회사가 라부안에서 존속하는 것으로 등록될 수 있도록 하며, 그 후 그 회사는 라부안에 주소를 둔 라부안 회사로 간주됩니다."
+  - "제16조에 따른 재적은 새 법인을 창설하지 않으며 회사의 계속성, 재산, 소송, 권리 또는 의무에 영향을 주지 않습니다."
+  - "청산 또는 파산 절차 중이거나, 재산관리인이 선임되었거나, 채권자 제한 계획의 대상인 회사는 제16조에 따라 등록될 수 없습니다."
+  - "제17조는 사전 원칙적 승인 증명서를 허용하며, 그 후 완전한 제16조 신청을 12개월 이내에 제출해야 합니다."
+  - "제133조에 따라 역외 이전이 가능하며, 당국의 승인, 사원과 사채권자의 특별다수 동의, 모든 이사의 동의, 그리고 30일의 사전 공고를 요구합니다."
+appliesTo: "외국에서 설립된 회사가 동일한 법인으로 남으면서 그 주소를 말레이시아로 이전할 수 있는지 평가하는 창업자, 회사 비서, 신탁회사 및 기업 자문역."
 faq:
-  - q: "Can a foreign company redomicile into Peninsular (West) Malaysia?"
-    a: "No. The Companies Act 2016 contains no continuance or redomiciliation regime, and the Companies (Amendment) Act 2024 — which focused on beneficial ownership and corporate rescue — did not introduce one. A foreign company can only register as a foreign company (branch) or incorporate a new Malaysian subsidiary, neither of which transfers its domicile."
-  - q: "Where in Malaysia can a foreign company actually redomicile?"
-    a: "Only into Labuan IBFC. Section 16 of the Labuan Companies Act 1990 lets an eligible foreign company be registered as being continued in Labuan, after which it is deemed a Labuan company incorporated under that Act and domiciled in Labuan."
-  - q: "Does redomiciliation create a new company?"
-    a: "No. Section 16(3) states that registration does not create a new legal entity and does not prejudice the company's continuity, property, legal proceedings, or its rights, powers, liabilities and obligations. The same legal person continues under a new domicile."
-  - q: "What can stop a foreign company from redomiciling into Labuan?"
-    a: "Under the proviso to section 16(2), a company cannot be registered if it is in the process of winding up or liquidation, a receiver of its property has been appointed, or a scheme or order suspending or restricting creditors' rights is in force. Its home jurisdiction must also authorise the outward migration."
-  - q: "Can a Labuan company later move to another country?"
-    a: "Yes. Section 133 permits transfer from Labuan with the Authority's approval, provided the destination's laws authorise it, the holders of not less than three-fourths of the shares of each class and of any debentures of each class and all the directors consent, notice of intention is published in a Labuan newspaper at least 30 days beforehand, and a director's affidavit listing creditors and stating the transfer is unlikely to be detrimental to members, debenture-holders or creditors is filed."
-
+  - q: "외국회사가 말레이시아 반도(서말레이시아)로 재적할 수 있습니까?"
+    a: "아닙니다. 회사법(Companies Act 2016)에는 존속이나 재적 제도가 없으며, 실소유자와 기업 회생에 중점을 둔 2024년 회사(개정)법(Companies (Amendment) Act 2024)도 이를 도입하지 않았습니다. 외국회사는 외국회사(지점)로 등록하거나 새 말레이시아 자회사를 설립할 수 있을 뿐이며, 어느 것도 그 주소를 이전하지 않습니다."
+  - q: "말레이시아에서 외국회사는 실제로 어디로 재적할 수 있습니까?"
+    a: "라부안 IBFC로만 가능합니다. 라부안 회사법(Labuan Companies Act 1990) 제16조는 적격 외국회사가 라부안에서 존속하는 것으로 등록될 수 있도록 하며, 그 후 그 회사는 그 법에 따라 설립되어 라부안에 주소를 둔 라부안 회사로 간주됩니다."
+  - q: "재적은 새 회사를 창설합니까?"
+    a: "아닙니다. 제16(3)조는 등록이 새 법인을 창설하지 않으며 회사의 계속성, 재산, 법적 소송, 또는 그 권리·권한·책임·의무를 침해하지 않는다고 규정합니다. 동일한 법인이 새 주소로 계속됩니다."
+  - q: "무엇이 외국회사의 라부안 재적을 막을 수 있습니까?"
+    a: "제16(2)조의 단서에 따라, 회사가 청산 또는 파산 절차 중이거나, 그 재산에 재산관리인이 선임되었거나, 채권자의 권리를 정지·제한하는 계획이나 명령이 유효한 경우 등록될 수 없습니다. 또한 본국 관할이 역외 이전을 허가해야 합니다."
+  - q: "라부안 회사가 이후 다른 나라로 이전할 수 있습니까?"
+    a: "예. 제133조는 라부안으로부터의 이전을 당국의 승인을 받아 허용하는데, 목적지의 법이 이를 허가하고, 각 종류 주식의 4분의 3 이상 보유자와 각 종류 사채의 4분의 3 이상 보유자 및 모든 이사가 동의하며, 이전 의사의 통지가 최소 30일 전에 라부안 신문에 공고되고, 채권자를 열거하고 그 이전이 사원·사채권자·채권자에게 불리할 가능성이 없다고 밝히는 이사의 선서진술서가 제출될 것을 조건으로 합니다."
 lang: "ko"
 sourceContentHash: "8ccef2426ade3a45"
 masterLanguage: "en"
@@ -46,10 +44,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Current Labuan FSA processing time for a section 16 application and any name-reservation holding period — no authoritative published figure was located; confirm with a licensed Labuan trust company and Labuan FSA."
-  - "Current prescribed fees for the section 16 registration and the section 17 approval-in-principle."
-  - "Whether the applicant's home jurisdiction permits outward continuance / redomiciliation — this is jurisdiction-specific and must be confirmed case by case."
-  - "The section 16, 17 and 133 text was line-verified against the InvestMalaysia and Labuan FSA published PDFs of Act 441; confirm against the latest in-force reprint before publishing."
+  - "제16조 신청에 대한 현행 라부안 FSA 처리 기간과 명칭 예약 유지 기간 — 권위 있는 공표 수치를 찾지 못했으므로, 인가된 라부안 신탁회사 및 라부안 FSA와 확인하십시오."
+  - "제16조 등록과 제17조 원칙적 승인의 현행 소정 수수료."
+  - "신청인의 본국 관할이 역외 존속/재적을 허용하는지 여부 — 이는 관할별로 다르며 사안별로 확인해야 합니다."
+  - "제16조, 제17조 및 제133조의 문언은 InvestMalaysia와 라부안 FSA가 공표한 Act 441 PDF와 줄 단위로 대조하여 확인되었습니다. 발행 전에 최신 유효 재인쇄본과 대조하여 확인하십시오."
 revisions:
   - revision: 0
     date: 2026-08-07

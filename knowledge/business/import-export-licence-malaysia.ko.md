@@ -14,21 +14,21 @@ sensitivity: "none"
 
 answer: "말레이시아에는 만능의 '수출입 허가'가 없습니다. 무역업자는 SSM에 등록된 사업체, 말레이시아 왕립관세청(RMCD) 등록, 정확한 HS 코드 분류, 물품의 관할 기관(MITI, 에너지위원회/SIRIM, MAQIS 등)이 요구하는 승인 허가서(Approved Permit)나 증명서, 그리고 화물이 반출되기 전에 uCustoms 또는 ePermit/MyTRADELINK 단일 창구를 통해 제출한 전자 세관 신고가 필요합니다."
 keyTakeaways:
-  - "Malaysia's import-export regime is governed by the Customs Act 1967 and enforced by RMCD; declarations move through the national single window (uCustoms and MyTRADELINK/ePermit)."
-  - "Controlled goods need an Approved Permit (AP) or certificate from the relevant Permit Issuing Agency; whether a permit applies is driven by the item's HS code."
-  - "MITI issues APs for goods such as motor vehicles, heavy machinery, iron and steel products, and regulated chemicals; the Energy Commission/SIRIM cover electrical equipment; MAQIS covers plants, animals, fish and agricultural produce."
-  - "ePermit is operated by Dagang Net Technologies and routes approved permits straight to Customs' system for cross-checking against your declaration."
-appliesTo: "Malaysian businesses and their appointed forwarding/customs agents importing or exporting goods."
+  - "말레이시아의 수출입 제도는 관세법 1967(Customs Act 1967)이 규율하고 RMCD가 집행하며; 신고는 국가 단일창구(uCustoms 및 MyTRADELINK/ePermit)를 통해 처리됩니다."
+  - "규제 대상 물품에는 해당 허가발급기관(Permit Issuing Agency)의 승인 허가(Approved Permit, AP) 또는 증서가 필요하며; 허가 적용 여부는 품목의 HS 코드에 따라 결정됩니다."
+  - "MITI는 자동차, 중장비, 철강 제품, 규제 화학물질 같은 물품에 대한 AP를 발급하고; 에너지위원회/SIRIM은 전기 장비를, MAQIS는 식물, 동물, 어류 및 농산물을 담당합니다."
+  - "ePermit은 다강 넷 테크놀로지스(Dagang Net Technologies)가 운영하며, 승인된 허가를 관세청 시스템으로 직접 전송하여 신고 내용과 대조합니다."
+appliesTo: "물품을 수입하거나 수출하는 말레이시아 사업체와 그들이 선임한 운송주선/관세 대리인에게 적용됩니다."
 
 faq:
-  - q: "Is there a single import-export licence I can apply for?"
-    a: "No. Malaysia regulates by goods, not by a blanket trading licence. You register your business with SSM, register with RMCD as a trader, then obtain a permit only for the specific controlled items you handle. Non-controlled goods need no permit, just a customs declaration."
-  - q: "How do I know if my goods need a permit?"
-    a: "Classify the goods under the correct HS code, then check that code against the Customs (Prohibition of Imports/Exports) Orders. RMCD's HS Explorer and the MyTRADELINK portal map permit requirements to HS codes and point you to the controlling agency."
-  - q: "Who actually files the customs declaration?"
-    a: "In practice a licensed customs (forwarding) agent lodges the import (K1) or export (K2) declaration on your behalf through the electronic system, though the importer of record remains legally responsible for duties and accuracy."
-  - q: "What system do I use to apply for permits?"
-    a: "ePermit, a web service operated by Dagang Net Technologies under the National Single Window, lets you apply to multiple Permit Issuing Agencies online. Approved permits are transmitted electronically to Customs for validation against your declaration."
+  - q: "신청할 수 있는 단일 수출입 인허가가 있습니까?"
+    a: "없습니다. 말레이시아는 일괄 무역 인허가가 아니라 물품별로 규제합니다. SSM에 사업을 등록하고, RMCD에 무역업자로 등록한 뒤, 취급하는 특정 규제 대상 품목에 대해서만 허가를 취득합니다. 비규제 물품에는 허가가 필요 없으며 통관 신고만 하면 됩니다."
+  - q: "제 물품에 허가가 필요한지 어떻게 알 수 있습니까?"
+    a: "물품을 올바른 HS 코드로 분류한 뒤, 그 코드를 관세(수입/수출 금지)명령(Customs (Prohibition of Imports/Exports) Orders)과 대조하십시오. RMCD의 HS Explorer와 MyTRADELINK 포털이 허가 요건을 HS 코드에 매핑하고 소관 기관을 안내합니다."
+  - q: "실제로 통관 신고는 누가 제출합니까?"
+    a: "실무상 인가받은 관세(운송주선) 대리인이 귀하를 대신하여 전자 시스템을 통해 수입(K1) 또는 수출(K2) 신고를 제출하나, 관세와 정확성에 대한 법적 책임은 여전히 수입 명의인에게 있습니다."
+  - q: "허가를 신청하는 데 어떤 시스템을 사용합니까?"
+    a: "국가 단일창구 하에서 다강 넷 테크놀로지스가 운영하는 웹 서비스인 ePermit을 통해 여러 허가발급기관에 온라인으로 신청할 수 있습니다. 승인된 허가는 신고 내용과의 검증을 위해 관세청으로 전자적으로 전송됩니다."
 
 lang: "ko"
 sourceContentHash: "f453f5001ae25d26"
@@ -48,10 +48,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether batik/textiles currently require a MITI Approved Permit — the live MITI AP portal (miti.gov.my/ap) lists motor vehicles, heavy machinery, iron & steel, and chemicals, not batik; confirm against the current Customs (Prohibition of Imports) Order."
-  - "Permit lead times in the planning table are practitioner-reported (DNE Logistics), not official SLAs — confirm current processing times with each agency; note MITI's own AP portal quotes 2–5 working days for processing, distinct from the arrival-planning buffer."
-  - "Exact current uCustoms declaration form designations across all ports — K1 (import) and K2 (export) are confirmed in use under uCustoms at major ports, but rollout was station-by-station."
-  - "MAQIS import-permit validity periods vary by commodity — verify the specific validity for any given consignment directly with MAQIS."
+  - "바틱/섬유가 현재 MITI 승인 허가(AP)를 필요로 하는지 여부 — 실시간 MITI AP 포털(miti.gov.my/ap)은 바틱이 아니라 자동차, 중장비, 철강, 화학물질을 열거합니다; 현행 관세(수입 금지)명령과 대조하여 확인하십시오."
+  - "계획 표의 허가 소요 기간은 공식 SLA가 아니라 실무 보고(DNE Logistics)입니다 — 각 기관에 현행 처리 기간을 확인하십시오; MITI 자체 AP 포털은 처리에 2~5영업일을 제시하며, 이는 도착 계획 여유와는 구별됩니다."
+  - "모든 항구에 걸친 현행 uCustoms 신고 서식 명칭 — K1(수입)과 K2(수출)는 주요 항구의 uCustoms에서 사용 중임이 확인되나, 도입은 거점별로 진행되었습니다."
+  - "MAQIS 수입 허가 유효기간은 품목별로 다릅니다 — 특정 탁송품의 구체적 유효기간은 MAQIS에 직접 확인하십시오."
 
 updated: 2026-08-07
 sources:

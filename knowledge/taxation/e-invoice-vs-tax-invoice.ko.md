@@ -14,16 +14,16 @@ sensitivity: "none"
 
 answer: "전자송장은 LHDN이 관장하는 소득세법 1967(Income Tax Act 1967) 제82C조에 따른 소득세 문서입니다. SST 송장은 RMCD가 관장하는 판매세법 2018(Sales Tax Act 2018)과 서비스세법 2018(Service Tax Act 2018)이 요구하는 별개의 문서입니다. 하나의 문서가 둘 다에 소용될 수 있으나, 각 제도가 요구하는 모든 항목을 담은 경우에만 그렇습니다 — 제82C(4)조는 항목이 충돌하는 경우 전자송장은 소득세 목적으로만 유효하다고 규정합니다."
 keyTakeaways:
-  - "Two statutes, two regulators — LHDN under ITA 1967, RMCD under the 2018 Tax Acts"
-  - "s.82C(4) ITA 1967 lets one document do both jobs, but only where the particulars agree"
-  - "Where they conflict, the e-Invoice is enforceable for income tax purposes only"
-  - "Service tax particulars sit in reg. 10 of the Service Tax Regulations 2018"
-  - "Sales tax particulars sit in reg. 7 of the Sales Tax Regulations 2018"
-  - "MyInvois data is shared with RMCD under s.138(4)(aa) of the ITA 1967"
-appliesTo: "SST-registered businesses that are also in scope for e-Invoicing, and anyone designing an invoice template that has to satisfy both regulators."
+  - "두 개의 법률, 두 개의 규제기관 — 소득세법 1967(ITA 1967)에 따른 말레이시아 국세청(LHDN), 2018년 세법들에 따른 RMCD"
+  - "소득세법 1967(ITA 1967) 제82C(4)조는 하나의 문서가 두 역할을 모두 하도록 허용하나, 항목이 일치하는 경우에만 그렇습니다"
+  - "항목이 충돌하는 경우, 전자송장은 소득세 목적으로만 유효합니다"
+  - "서비스세 항목은 서비스세 규정 2018(Service Tax Regulations 2018) 제10규정에 있습니다"
+  - "판매세 항목은 판매세 규정 2018(Sales Tax Regulations 2018) 제7규정에 있습니다"
+  - "MyInvois 데이터는 소득세법 1967(ITA 1967) 제138(4)(aa)조에 따라 RMCD와 공유됩니다"
+appliesTo: "전자송장 대상에도 해당하는 SST 등록 사업체, 그리고 두 규제기관을 모두 충족해야 하는 송장 템플릿을 설계하는 모든 사람."
 
 verificationNeeded:
-  - "Whether RMCD has issued a dedicated guide reconciling the e-Invoice visual representation with the SST invoice particulars — none was located on mysst.customs.gov.my"
+  - "RMCD가 전자송장 시각적 표현을 SST 송장 항목과 조화시키는 전용 지침을 발행했는지 여부 — mysst.customs.gov.my에서 확인되지 않았습니다"
 
 lang: "ko"
 sourceContentHash: "cf809540c51ed69e"

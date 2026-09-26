@@ -23,9 +23,9 @@ keyTakeaways:
 appliesTo: "SSM 제출 비용을 예산에 반영하는 창업자, 회사 비서, 재무 팀."
 
 verificationNeeded:
-  - "The RM30 / RM60 / RM5 / RM10 business registration fees are taken from SSM's published guidelines rather than from a retrieved gazetted schedule under the Registration of Businesses Rules 1957 as amended — confirm against the Rules before relying on them in a fee quotation"
-  - "Confirm whether any fee waiver or incentive scheme is currently open — the SPPP and S1O1P schemes referenced in SSM's EzBiz guidelines carry their own eligibility conditions and end dates"
-  - "SSM publishes no general processing-time service standard for company incorporation; the figures given here come from individual guidelines of varying dates"
+  - "RM30 / RM60 / RM5 / RM10 사업 등록 수수료는 개정된 사업등록규칙(Registration of Businesses Rules 1957)에 따라 확보된 관보 게재 부속서가 아니라 SSM이 공표한 지침에서 가져온 것입니다 — 수수료 견적에 사용하기 전에 이 규칙과 대조하여 확인하십시오"
+  - "현재 열려 있는 수수료 면제 또는 인센티브 제도가 있는지 확인 필요 — SSM의 EzBiz 지침에서 언급된 SPPP 및 S1O1P 제도는 자체 자격 조건과 종료일을 가지고 있음"
+  - "SSM은 회사 설립에 대한 일반적인 처리 기간 서비스 표준을 공표하지 않습니다; 여기 제시된 수치는 서로 다른 일자의 개별 지침에서 나온 것임"
 
 lang: "ko"
 sourceContentHash: "30930e352d6a91ec"

@@ -12,23 +12,23 @@ contentType: "guide"
 
 answer: "'셰라톤 무브(Sheraton Move, Langkah Sheraton)'는 2020년 2월의 정치적 재편으로, 이때 한 무리의 국회의원들이 집권 연립인 희망연대(Pakatan Harapan, PH)를 이탈하여 2018년 선거 승리로부터 2년도 채 되지 않아 의회 과반을 상실하게 만들었습니다. 이는 2020년 2월 23일 의원들이 모인 셰라톤 프탈링자야(Sheraton Petaling Jaya) 호텔의 이름을 딴 것입니다. 이후 며칠에 걸쳐 마하티르 모하맛(Mahathir Mohamad) 총리가 사임하고(2월 24일) 임시 총리를 지냈으며, 국왕 양 디페르투안 아공(Yang di-Pertuan Agong)이 누가 과반의 지지를 확보하고 있는지 판단하기 위해 국회의원들을 면담하였고, 무히딘 야신(Muhyiddin Yassin)이 2020년 3월 1일 제8대 총리로 취임하여 새 국민연합(Perikatan Nasional) 정부를 이끌었습니다. 이는 총선 사이에 발생한 최초의 연방정부 교체였습니다."
 keyTakeaways:
-  - "A February 2020 realignment that collapsed the Pakatan Harapan federal government."
-  - "Named after the Sheraton Petaling Jaya hotel, where MPs gathered on 23 February 2020."
-  - "Mahathir Mohamad resigned as the 7th PM on 24 February and served as interim Prime Minister."
-  - "The Yang di-Pertuan Agong interviewed MPs, then Muhyiddin Yassin was sworn in as 8th PM on 1 March 2020."
-  - "The first change of federal government in Malaysia to occur without a general election."
+  - "희망연대(Pakatan Harapan) 연방정부를 붕괴시킨 2020년 2월의 정치적 재편입니다."
+  - "2020년 2월 23일 국회의원들이 모인 셰라톤 프탈링자야 호텔(Sheraton Petaling Jaya hotel)의 이름을 따랐습니다."
+  - "마하티르 모하맛(Mahathir Mohamad)은 2월 24일 제7대 총리직에서 사임하고 임시 총리로 재직하였습니다."
+  - "양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)이 국회의원들을 면담한 뒤, 무히딘 야신(Muhyiddin Yassin)이 2020년 3월 1일 제8대 총리로 취임하였습니다."
+  - "말레이시아에서 총선 없이 일어난 최초의 연방정부 교체입니다."
 
 faq:
-  - q: "Why is it called the 'Sheraton Move'?"
-    a: "Because a bloc of MPs and party leaders gathered at the Sheraton Petaling Jaya hotel in Selangor on 23 February 2020 to negotiate the formation of a new government."
-  - q: "What happened to the government?"
-    a: "A bloc of BERSATU and PKR MPs left the Pakatan Harapan coalition, which then lost its parliamentary majority. Prime Minister Mahathir Mohamad resigned on 24 February 2020, and after the King's consultations Muhyiddin Yassin was sworn in as Prime Minister on 1 March 2020."
-  - q: "Why was it significant?"
-    a: "It was the first time a Malaysian federal government changed between general elections — through parliamentary defections and a royal appointment rather than an election. It is widely cited as the start of a period of political instability from 2020 to 2022."
+  - q: "왜 「셰라톤 무브(Sheraton Move)」라고 불립니까?"
+    a: "한 무리의 국회의원과 정당 지도자들이 새 정부 구성을 협상하기 위해 2020년 2월 23일 슬랑오르(Selangor)의 셰라톤 프탈링자야 호텔(Sheraton Petaling Jaya hotel)에 모였기 때문입니다."
+  - q: "정부는 어떻게 되었습니까?"
+    a: "BERSATU와 PKR 소속 국회의원 한 무리가 희망연대(Pakatan Harapan) 연합을 떠났고, 그 연합은 곧 국회 과반을 잃었습니다. 마하티르 모하맛(Mahathir Mohamad) 총리는 2020년 2월 24일 사임하였으며, 국왕의 협의를 거쳐 무히딘 야신(Muhyiddin Yassin)이 2020년 3월 1일 총리로 취임하였습니다."
+  - q: "그것은 왜 중요하였습니까?"
+    a: "이는 말레이시아 연방정부가 총선 사이에 바뀐 최초의 사례로 — 선거가 아니라 국회의원들의 이탈과 국왕의 임명을 통해 이루어졌습니다. 이는 2020년부터 2022년까지의 정치적 불안정기의 시작으로 널리 인용됩니다."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal review before publication. This article describes a contested change of government involving parliamentary defections and the appointment discretion of the Yang di-Pertuan Agong (constitution/royalty). The sequence of events is stated neutrally and without attributing motive; competing accounts of who initiated it should be treated as attributed claims, not settled fact, and must be reviewed by a qualified reviewer."
-  - "Exact dates and MP counts (defectors, the King's consultations) to be confirmed against official records and contemporaneous reporting; sources vary slightly on the precise day of the hotel meeting (21–23 February)."
+  - "민감 / 발행 전 사람과 법률 검토가 필요함. 이 글은 국회의원들의 이탈과 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)의 임명 재량(헌법/왕실)이 관련된 논쟁적 정부 교체를 서술합니다. 사건의 순서는 동기를 규정하지 않고 중립적으로 기술되었으며; 누가 그것을 주도하였는지에 대한 상충하는 서술은 확정된 사실이 아니라 인용된 주장으로 다루어야 하며, 자격을 갖춘 검토자의 검토를 거쳐야 합니다."
+  - "정확한 날짜와 국회의원 수(이탈자, 국왕의 협의)는 공식 기록 및 당대 보도와 대조하여 확인하여야 하며; 호텔 회동의 정확한 날짜(2월 21~23일)에 대해서는 자료마다 다소 차이가 있습니다."
 
 lang: "ko"
 sourceContentHash: "d475393c9a7ff6eb"

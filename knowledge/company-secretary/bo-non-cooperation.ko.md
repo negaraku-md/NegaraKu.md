@@ -12,17 +12,15 @@ contentType: "guide"
 
 answer: "구성원이 s.60C 통지를 무시하는 경우, 회사는 적어도 한 번 더 시도해야 하고 보낸 모든 통지의 기록을 보관해야 합니다. 그런 다음 실제 실질소유자를 계속 식별하려고 노력하면서, 실질소유자를 대신하여 고위 경영진에 속한 자연인을 지정합니다. 응답하지 않는 구성원은, 정보가 이미 회사에 있었거나 요구가 경솔하거나 괴롭힘에 해당하는 경우가 아닌 한, s.60C(8)에 따른 위반을 범합니다."
 keyTakeaways:
-  - "Send at least one further notice — SSM expects proof of at least two attempts"
-  - "Every notice and reply, with dates, is kept with the register as supporting documents"
-  - "Name senior management in place of the beneficial owner as an interim measure"
-  - "Naming senior management does not end the duty — continuous effort is required"
-  - "A person ignoring a notice commits an offence under s.60C(8)"
-  - "A false or reckless reply is a separate offence under s.60C(9)"
-appliesTo: "Company secretaries and directors facing an uncooperative shareholder or an unidentifiable controller."
-
+  - "최소 한 차례 추가 통지를 발송하십시오 — SSM은 최소 두 번의 시도에 대한 증거를 기대합니다"
+  - "모든 통지와 회신은 날짜와 함께 증빙서류로서 등록부와 함께 보관합니다"
+  - "잠정 조치로서 실소유자를 대신하여 고위 경영진을 기재하십시오"
+  - "고위 경영진을 기재한다고 하여 의무가 끝나는 것은 아니며 — 지속적인 노력이 필요합니다"
+  - "통지를 무시한 사람은 s.60C(8)에 따른 범죄를 저지릅니다"
+  - "허위이거나 무모한 회신은 s.60C(9)에 따른 별개의 범죄입니다"
+appliesTo: "비협조적인 주주 또는 신원을 확인할 수 없는 지배자에 직면한 회사 비서 및 이사."
 verificationNeeded:
-  - "Confirm whether SSM has issued any enforcement guidance on the interval expected between the first and second s.60C notices"
-
+  - "SSM이 첫 번째와 두 번째 s.60C 통지 사이에 기대되는 간격에 관하여 집행 지침을 발행했는지 확인하십시오"
 lang: "ko"
 sourceContentHash: "d0074a8a9e509a8c"
 masterLanguage: "en"

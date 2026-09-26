@@ -14,20 +14,20 @@ sensitivity: "none"
 
 answer: "말레이시아는 디지털 통화의 자본이득에 과세하지 않으므로, 진정한 장기 투자자의 수익은 과세되지 않습니다. 그러나 LHDN의 매매의 징표(badges of trade)가 당신이 암호화폐를 매매업이나 사업으로 다루고 있음을 보여준다면, 그 이득은 수익 성격이며 소득세법 1967(Income Tax Act 1967)에 따라 소득으로 과세됩니다. 채굴자, 그리고 암호화폐를 지급으로 받는 사업체는 거래일의 링깃 시장 가치에 대해 과세됩니다."
 keyTakeaways:
-  - "There is no capital gains tax on crypto for an individual investor — only revenue gains from disposal are taxable"
-  - "LHDN applies eight badges of trade; calling yourself an investor rather than a trader does not settle the question"
-  - "The Guidelines on Tax Treatment of Digital Currency Transactions were issued by LHDN on 26 August 2022"
-  - "Crypto received for goods, services, mining or salary is income, valued in ringgit at the transaction date"
-  - "In August 2025 the Ministry of Finance confirmed that crypto trading-platform services (local or foreign operators) are subject to service tax"
-appliesTo: "Individual crypto holders and day traders, miners, and Malaysian businesses that accept or pay in digital assets."
+  - "개인 투자자의 암호화폐에는 자본이득세가 없습니다 — 처분에서 발생하는 수익 성격의 이득만 과세됩니다"
+  - "말레이시아 국세청(LHDN)은 여덟 가지 매매의 징표(badges of trade)를 적용합니다. 스스로를 매매자가 아니라 투자자라고 부른다고 문제가 해결되지 않습니다"
+  - "디지털 통화 거래 과세 취급 지침(Guidelines on Tax Treatment of Digital Currency Transactions)은 말레이시아 국세청(LHDN)이 2022년 8월 26일에 발행했습니다"
+  - "재화, 용역, 채굴 또는 급여의 대가로 받은 암호화폐는 소득이며, 거래일의 링깃으로 평가됩니다"
+  - "2025년 8월 재무부는 암호화폐 거래 플랫폼 용역(국내 또는 외국 사업자)이 서비스세 대상임을 확인했습니다"
+appliesTo: "개인 암호화폐 보유자와 단타 거래자, 채굴자, 그리고 디지털 자산으로 대금을 받거나 지급하는 말레이시아 사업체."
 
 faq:
-  - q: "Do I pay tax when I sell Bitcoin at a profit in Malaysia?"
-    a: "Only if the gain is revenue in nature. Malaysia does not tax capital gains, so a genuine long-term investor is not taxed on disposal. But if LHDN's badges of trade show you are trading, the profit is income and taxable."
-  - q: "Does swapping one coin for another count as a taxable event?"
-    a: "It can. Exchanging one digital currency for another — for example Bitcoin for Ethereum — is a disposal of the first asset and an acquisition of the second, so it may crystallise a revenue gain or loss for someone treated as a trader."
-  - q: "How is crypto I receive as business payment taxed?"
-    a: "As ordinary business income. You record the value of the goods or services in ringgit using the market value of the coins at the point of transaction, and it forms part of your taxable sales."
+  - q: "말레이시아에서 비트코인을 이익을 남기고 매각하면 세금을 냅니까?"
+    a: "그 이득이 수익 성격인 경우에만 냅니다. 말레이시아는 자본이득에 과세하지 않으므로, 진정한 장기 투자자는 처분 시 과세되지 않습니다. 그러나 말레이시아 국세청(LHDN)의 매매의 징표(badges of trade)가 당신이 매매하고 있음을 보여준다면, 그 이익은 소득이며 과세됩니다."
+  - q: "한 코인을 다른 코인으로 교환하는 것이 과세 대상 사건에 해당합니까?"
+    a: "해당할 수 있습니다. 한 디지털 통화를 다른 것으로 교환하는 것 — 예를 들어 비트코인을 이더리움으로 — 은 첫 번째 자산의 처분이자 두 번째 자산의 취득이므로, 매매자로 취급되는 사람에게는 수익 성격의 이득이나 손실을 실현시킬 수 있습니다."
+  - q: "사업 대금으로 받은 암호화폐는 어떻게 과세됩니까?"
+    a: "통상의 사업소득으로 과세됩니다. 거래 시점의 코인 시장 가치를 사용하여 재화 또는 용역의 가치를 링깃으로 기록하며, 이는 과세 대상 매출의 일부를 구성합니다."
 
 lang: "ko"
 sourceContentHash: "fd506f4661f4b91a"
@@ -41,10 +41,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Exact section of the Income Tax Act 1967 under which crypto income is charged: the charging provision is s.3, while the Ministry of Finance's Aug 2025 statement refers to crypto income being taxed as business income under s.4 — confirm the precise citation for the article's framing."
-  - "Whether the August 2025 Ministry of Finance statement changes the law or merely clarifies that existing service tax already applies to crypto trading-platform services, and the applicable service-tax rate and registration threshold."
-  - "The current e-Invoice (MyInvois) phase, deadline and turnover threshold applicable to a specific crypto business — thresholds and dates are being revised (RM1 million exemption per latest IRBM guidance)."
-  - "FIFO cost-basis tracking and the treatment of airdrops and hard-fork tokens as stated here are drawn from professional summaries of the LHDN guidelines; confirm against the current guideline text before relying on them."
+  - "암호화폐 소득이 과세되는 소득세법(Income Tax Act 1967)의 정확한 조문: 부과 조문은 제3조이나, 재무부의 2025년 8월 성명은 암호화폐 소득이 제4조에 따라 사업소득으로 과세된다고 언급합니다 — 기사 구성을 위해 정확한 인용을 확인하십시오."
+  - "2025년 8월 재무부 성명이 법을 변경하는 것인지, 아니면 기존 서비스세가 이미 암호화폐 거래 플랫폼 용역에 적용됨을 단지 명확히 하는 것인지, 그리고 적용되는 서비스세율과 등록 기준."
+  - "특정 암호화폐 사업체에 적용되는 현행 전자송장(MyInvois) 단계, 마감일 및 매출 기준 — 기준과 날짜가 수정되고 있습니다(최신 IRBM 지침에 따르면 RM100만 면제)."
+  - "여기에 기술된 선입선출(FIFO) 취득원가 추적과 에어드롭 및 하드포크 토큰의 취급은 말레이시아 국세청(LHDN) 지침에 대한 전문가 요약에서 도출된 것입니다. 이에 의존하기 전에 현행 지침 본문에 대조하여 확인하십시오."
 revisions:
   - revision: 0
     date: 2026-08-07

@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "말레이시아 수출입은행(Export-Import Bank of Malaysia Berhad, EXIM Bank)은 국경 간 무역과 투자를 금융하고 그 위험을 완화하기 위해 1995년에 설립된 정부 소유 개발금융기관입니다. 상업위험의 최대 90%와 정치/국가위험의 최대 95%를 담보하는 무역신용 타카풀 및 보험을 제공하며, 수출업체와 수입업체를 위한 재금융과 기한부 여신도 함께 제공합니다. 2025년 5월 1일부로 말레이시아 개발은행(Bank Pembangunan Malaysia Berhad)의 자회사가 되었습니다."
 keyTakeaways:
-  - "EXIM Bank is Malaysia's national export credit agency, incorporated on 29 August 1995."
-  - "Trade Credit Takaful/Insurance covers up to 90% of commercial risk and 95% of political and country risk."
-  - "It is a Development Financial Institution regulated by Bank Negara Malaysia under the DFIA 2002."
-  - "Effective 1 May 2025, EXIM Bank became a subsidiary of Bank Pembangunan Malaysia Berhad (BPMB)."
-appliesTo: "Malaysian exporters, importers, and companies expanding into new or non-traditional overseas markets."
+  - "EXIM은행은 1995년 8월 29일 설립된 말레이시아의 국가 수출신용기관입니다."
+  - "무역신용 타카풀/보험(Trade Credit Takaful/Insurance)은 상업적 위험의 최대 90%, 정치적·국가 위험의 최대 95%를 보장합니다."
+  - "이는 DFIA 2002에 따라 말레이시아 중앙은행이 규제하는 개발금융기관입니다."
+  - "2025년 5월 1일부터 EXIM은행은 말레이시아개발은행(Bank Pembangunan Malaysia Berhad, BPMB)의 자회사가 되었습니다."
+appliesTo: "말레이시아 수출자, 수입자, 그리고 새롭거나 비전통적인 해외 시장으로 진출하는 기업에게 적용됩니다."
 
 faq:
-  - q: "What does EXIM Bank Malaysia's trade credit cover protect against?"
-    a: "It indemnifies Malaysian exporters against non-payment by buyers, covering up to 90% of losses from commercial risk and up to 95% from political and country risk, across export, import, and domestic trade."
-  - q: "Is EXIM Bank a conventional or Islamic financier?"
-    a: "Both. Its protection and financing products are offered under conventional (insurance) and Shariah-compliant (takaful) structures, and it operates a licensed Islamic banking window."
-  - q: "Who regulates EXIM Bank Malaysia?"
-    a: "Bank Negara Malaysia regulates it as a prescribed Development Financial Institution under the Development Financial Institutions Act 2002."
+  - q: "EXIM은행 말레이시아의 무역신용 보장은 무엇을 보호합니까?"
+    a: "이는 말레이시아 수출자를 매수인의 미지급으로부터 보상하며, 수출·수입·국내 거래 전반에 걸쳐 상업적 위험으로 인한 손실의 최대 90%, 정치적·국가 위험으로 인한 손실의 최대 95%를 보장합니다."
+  - q: "EXIM은행은 전통 금융기관입니까, 이슬람 금융기관입니까?"
+    a: "둘 다입니다. 그 보장 및 금융 상품은 전통(보험) 구조와 샤리아 준수(타카풀) 구조로 제공되며, 인가받은 이슬람 뱅킹 창구를 운영합니다."
+  - q: "EXIM은행 말레이시아는 누가 규제합니까?"
+    a: "말레이시아 중앙은행이 개발금융기관법 2002(Development Financial Institutions Act 2002)에 따라 지정 개발금융기관으로 규제합니다."
 
 lang: "ko"
 sourceContentHash: "05f6bb75d143a12e"
@@ -40,10 +40,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Current pricing, eligibility, and coverage caps for Trade Credit Takaful/Insurance (confirm against the latest Product Disclosure Sheet before relying on the 90%/95% figures)."
-  - "The specific overseas markets EXIM Bank prioritises — the source pages describe 'non-traditional markets' generically without naming regions."
-  - "ECR pre-shipment (120-day) and post-shipment (183-day) tenures and the no-collateral term, which may be updated periodically."
-  - "Details of EXIM Bank's Islamic banking window licence and its integration under the BPMB group post-1 May 2025."
+  - "무역신용 타카풀/보험의 현행 가격, 적격성, 보장 상한(90%/95% 수치에 의존하기 전에 최신 상품설명서와 대조하여 확인)."
+  - "EXIM은행이 우선하는 구체적 해외 시장 — 출처 페이지는 지역을 명시하지 않고 「비전통적 시장」으로 일반적으로 서술합니다."
+  - "ECR 선적 전(120일) 및 선적 후(183일) 만기와 무담보 조건 — 주기적으로 갱신될 수 있습니다."
+  - "EXIM은행의 이슬람 뱅킹 창구 인가 및 2025년 5월 1일 이후 BPMB 그룹 산하로의 통합에 관한 세부 사항."
 revisions:
   - revision: 0
     date: 2026-08-07

@@ -14,20 +14,20 @@ sensitivity: "none"
 
 answer: "자금세탁방지·테러자금조달방지 및 불법활동수익법(Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001, AMLA)에 따라 회사 비서, 변호사, 회계사, 등록 부동산 중개인, 귀금속·보석 거래상 등을 포함한 지정 비금융 사업자 및 전문직(DNFBP)은 말레이시아 중앙은행(BNM)의 감독을 받는 보고기관입니다. 이들은 고객확인(CDD)을 수행하고, 기록을 최소 6년간 보관하며, 의심이 성립된 다음 영업일까지 BNM의 금융정보집행부(Financial Intelligence and Enforcement Department, FIED)에 의심거래보고(STR)를 제출해야 합니다. 적용되는 규정은 2024년 2월 5일에 발행된 BNM의 DNFBP 및 NBFI 대상 정책 문서입니다."
 keyTakeaways:
-  - "DNFBPs covered include trust companies, licensed casinos, lawyers, notaries public, accountants, company secretaries, dealers in precious metals or stones, and registered estate agents"
-  - "The current rulebook is BNM's AML/CFT/CPF and TFS for DNFBPs and NBFIs policy document, issued 5 February 2024 and effective 6 February 2024"
-  - "A Suspicious Transaction Report (STR) must be submitted to FIED by the next working day after the compliance officer establishes suspicion"
-  - "Records must be kept at least six years after the transaction is completed or the business relationship ends"
-  - "The RM25,000 Cash Threshold Report applies only to banking institutions, selected development financial institutions, Lembaga Tabung Haji and the licensed casino — not to DNFBPs generally"
-appliesTo: "Company secretaries, registered estate agents, dealers in precious metals or stones, lawyers, notaries public and accountants who carry out the specified gatekeeper activities in Malaysia."
+  - "적용 대상 DNFBP에는 신탁회사, 허가받은 카지노, 변호사, 공증인, 회계사, 회사 비서, 귀금속·보석 거래상, 등록 부동산 중개인이 포함됩니다"
+  - "현행 규정집은 2024년 2월 5일 발행되어 2024년 2월 6일 시행된 말레이시아 중앙은행(BNM)의 DNFBP 및 NBFI 대상 AML/CFT/CPF 및 TFS 정책 문서입니다"
+  - "의심거래보고(STR)는 준법감시인이 의심을 성립시킨 다음 영업일까지 FIED에 제출해야 합니다"
+  - "기록은 거래가 완료되거나 거래 관계가 종료된 후 최소 6년간 보관해야 합니다"
+  - "RM25,000 현금거래보고(CTR)는 은행기관, 지정된 개발금융기관, 렘바가 타붕 하지(Lembaga Tabung Haji) 및 허가받은 카지노에만 적용되며, 일반적인 DNFBP에는 적용되지 않습니다"
+appliesTo: "말레이시아에서 지정된 게이트키퍼 활동을 수행하는 회사 비서, 등록 부동산 중개인, 귀금속·보석 거래상, 변호사, 공증인 및 회계사에게 적용됩니다."
 
 faq:
-  - q: "Who supervises DNFBPs for AML/CFT in Malaysia?"
-    a: "Bank Negara Malaysia is the competent authority under AMLA. Its Financial Intelligence and Enforcement Department (FIED) receives and analyses reports, and BNM issues the policy document that DNFBPs and non-bank financial institutions must comply with."
-  - q: "How quickly must a Suspicious Transaction Report be filed?"
-    a: "By the next working day, counted from the date the compliance officer establishes the suspicion. STRs can be sent to FIED by email or physical mail, and through the Financial Intelligence System (FINS) where applicable."
-  - q: "Do DNFBPs have to file Cash Threshold Reports?"
-    a: "No. The Cash Threshold Report for cash transactions of RM25,000 and above applies only to banking institutions, selected development financial institutions, Lembaga Tabung Haji and the licensed casino. DNFBPs still owe the STR obligation."
+  - q: "말레이시아에서 DNFBP의 AML/CFT를 감독하는 기관은 어디입니까?"
+    a: "말레이시아 중앙은행(BNM)이 AMLA에 따른 관할 당국입니다. 산하 금융정보집행부(FIED)가 보고를 접수·분석하며, BNM은 DNFBP와 비은행 금융기관이 준수해야 하는 정책 문서를 발행합니다."
+  - q: "의심거래보고는 얼마나 빨리 제출해야 합니까?"
+    a: "준법감시인이 의심을 성립시킨 날로부터 다음 영업일까지 제출해야 합니다. STR은 이메일이나 우편으로, 해당되는 경우 금융정보시스템(FINS)을 통해 FIED에 전송할 수 있습니다."
+  - q: "DNFBP도 현금거래보고를 제출해야 합니까?"
+    a: "아닙니다. RM25,000 이상 현금거래에 대한 현금거래보고는 은행기관, 지정된 개발금융기관, 렘바가 타붕 하지 및 허가받은 카지노에만 적용됩니다. 다만 DNFBP에는 여전히 STR 의무가 있습니다."
 
 lang: "ko"
 sourceContentHash: "ed7c9043d8d06f81"
@@ -47,8 +47,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The exact FIED submission email address and postal channel — confirm against BNM's current 'Reporting to BNM' page before publishing (the specific address was not reproduced here)."
-  - "The mapping of specific AMLA section numbers to each duty (STR, CDD, record keeping) — deliberately omitted; confirm against the primary Act text before adding."
+  - "FIED 제출용 정확한 이메일 주소와 우편 경로 — 게시 전 BNM의 현행 「Reporting to BNM」 페이지에서 확인해야 합니다(구체적인 주소는 여기에 수록하지 않았습니다)."
+  - "각 의무(STR, CDD, 기록 보관)에 대응하는 구체적인 AMLA 조항 번호 매핑 — 의도적으로 생략했으며, 추가하기 전에 법률 원문에서 확인해야 합니다."
 updated: 2026-08-07
 sources:
   - title: "AML/CFT/CPF and TFS for DNFBPs and NBFIs (policy document, issued 5 February 2024)"

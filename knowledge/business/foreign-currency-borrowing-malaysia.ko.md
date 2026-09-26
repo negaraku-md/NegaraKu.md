@@ -14,18 +14,18 @@ sensitivity: "none"
 
 answer: "말레이시아에 설립된 회사는 국내 인가 은행, 자기 그룹 내 법인, 또는 직접 주주로부터 어떤 금액이든 외화를 차입할 수 있습니다. 그 밖의 누구로부터든 — 어떤 비거주자 금융기관을 포함하여 — 상한은 총액 기준 RM1억 상당액이며, 이는 해당 회사와 그와 모자(母子)회사 관계에 있는 모든 거주자 법인에 걸쳐 산정됩니다. 이 규칙은 외환정책 고시(Foreign Exchange Policy Notices)의 고시 2 B부(Part B)에 있습니다."
 keyTakeaways:
-  - "Notice 2 came into operation on 1 October 2025 as part of the reissued FEP Notices"
-  - "Foreign currency borrowing from a licensed onshore bank, from within the group, or from a direct shareholder is unlimited"
-  - "A direct shareholder means a shareholder with at least 10% effective shareholding"
-  - "Borrowing foreign currency from unrelated non-residents, from a non-resident financial institution, or through a non-resident SPV raising money outside the group is capped at RM100 million equivalent in aggregate"
-  - "The cap is a group figure, not a company figure — it aggregates resident entities in a parent-subsidiary relationship"
-  - "Ringgit borrowing from a non-resident is far tighter: unlimited only from within the group for a Real Sector Activity, otherwise RM1 million in aggregate"
-  - "Supplier trade credit, operational leases and non-recourse factoring are excluded from the definition of Borrowing entirely"
-appliesTo: "Malaysian companies raising offshore debt, receiving shareholder loans from a foreign parent, or planning intra-group treasury funding."
+  - "고시 2(Notice 2)는 재발행된 FEP 고시의 일부로 2025년 10월 1일 시행되었습니다"
+  - "인가받은 온쇼어 은행, 그룹 내부, 또는 직접 주주로부터의 외화 차입은 무제한입니다"
+  - "직접 주주란 실질 지분을 최소 10% 보유한 주주를 의미합니다"
+  - "무관한 비거주자, 비거주 금융기관, 또는 그룹 외부에서 자금을 조달하는 비거주 SPV로부터의 외화 차입은 총액 RM100 million 상당액으로 제한됩니다"
+  - "이 한도는 개별 회사가 아니라 그룹 기준이며 — 모자관계에 있는 거주 법인을 합산합니다"
+  - "비거주자로부터의 링깃 차입은 훨씬 엄격합니다: 실물부문활동(Real Sector Activity)을 위한 그룹 내부 차입만 무제한이고, 그 밖에는 총액 RM1 million입니다"
+  - "공급자 상거래 신용, 운용 리스, 비소구 팩토링은 「차입」의 정의에서 완전히 제외됩니다"
+appliesTo: "오프쇼어 부채를 조달하거나, 외국 모회사로부터 주주 대여를 받거나, 그룹 내 자금 조달을 계획하는 말레이시아 회사에 적용됩니다."
 
 verificationNeeded:
-  - "Bank Negara publishes a separate FAQ on resident ringgit and foreign currency borrowing which elaborates on the group test and on permitted source and receipt accounts — check the current FAQ before structuring a facility"
-  - "Where a proposed facility exceeds the RM100 million equivalent limit, the written approval process and its assessment criteria are not published in full; the FAQ notes only that BNM will take stated factors into account"
+  - "말레이시아 중앙은행은 그룹 기준과 허용되는 출처 및 수취 계좌를 상술하는 거주자 링깃·외화 차입에 관한 별도의 FAQ를 공표합니다 — 시설을 구조화하기 전에 현행 FAQ를 확인하십시오"
+  - "제안된 시설이 RM100 million 상당액 한도를 초과하는 경우, 서면 승인 절차와 그 심사 기준은 전문이 공표되지 않았습니다; FAQ는 BNM이 명시된 요소를 고려할 것이라고만 밝힙니다"
 
 lang: "ko"
 sourceContentHash: "7f6734fed0eab6e8"

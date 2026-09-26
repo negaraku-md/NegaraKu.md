@@ -14,16 +14,16 @@ sensitivity: "none"
 
 answer: "소득세법 1967(Income Tax Act 1967) 제44(6)조에 따라 국세청장이 승인한 기관, 조직 또는 기금에 대한 금전 기부는 종합소득에서 공제되나, 종합소득의 10%로 제한됩니다. 연방정부, 주정부 또는 지방자치단체에 대한 기부는 상한이 없습니다. 이 10% 상한은 제44(11B)조의 스포츠 기부, 제44(11C)조의 국익 프로젝트, 제44(11D)조의 와카프(wakaf)나 기부기금과 공유됩니다."
 keyTakeaways:
-  - "10% cap applies to approved institutions; government and local authority gifts are uncapped"
-  - "The 10% is one shared pot across s.44(6), (11B), (11C) and (11D) — not 10% each"
-  - "The deduction is from aggregate income, so it cannot create or increase a loss"
-  - "Approvals expire and are withdrawn — LHDN publishes both statuses on its checker"
-  - "Only a gift of money qualifies under s.44(6); contributions in kind do not"
-  - "An aggrieved institution has 30 days to appeal a refusal to the Minister under s.44(6B)"
-appliesTo: "Individuals and companies making charitable donations, and finance teams checking a receipt before claiming."
+  - "10% 상한은 승인 기관에 적용됩니다. 정부 및 지방자치단체에 대한 기부는 상한이 없습니다"
+  - "이 10%는 제44(6)조, (11B)조, (11C)조, (11D)조에 걸친 하나의 공유 한도입니다 — 각각 10%가 아닙니다"
+  - "이 공제는 종합소득에서 이루어지므로, 손실을 발생시키거나 늘릴 수 없습니다"
+  - "승인은 만료되거나 철회됩니다 — 말레이시아 국세청(LHDN)은 두 상태 모두를 조회 도구에 공표합니다"
+  - "제44(6)조에서는 금전 기부만 자격이 있습니다. 현물 기부는 그렇지 않습니다"
+  - "거부에 불복하는 기관은 제44(6B)조에 따라 30일 이내에 장관에게 불복할 수 있습니다"
+appliesTo: "자선 기부를 하는 개인과 회사, 그리고 청구 전에 영수증을 확인하는 재무팀."
 
 verificationNeeded:
-  - "The required particulars of a valid s.44(6) donation receipt — LHDN's receipt-usage explainer page could not be retrieved."
+  - "유효한 제44(6)조 기부 영수증에 요구되는 기재 사항 — 말레이시아 국세청(LHDN)의 영수증 사용 안내 페이지를 확보할 수 없었습니다."
 
 lang: "ko"
 sourceContentHash: "5f0966be244cdbe2"

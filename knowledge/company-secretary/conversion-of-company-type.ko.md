@@ -14,18 +14,16 @@ sensitivity: "none"
 
 answer: "사회사(Sdn Bhd)를 공개회사(Berhad)로, 또는 그 반대로 전환하려면, 회사는 특별결의(75% 다수)를 통과시키고 회사법(Companies Act 2016) 제41조에 따라 SSM에 전환 통지를 제출해야 합니다. 사회사에서 공개회사로의 전환은 추가로 투자설명서 대체진술서(prospectus substitute statement)와 법정 선언서(statutory declaration)를 요구합니다. 제출 수수료는 각 전환 방향당 RM500입니다. SSM 지침에 따르면 공개회사로의 전환 통지는 영업일 1일 이내에 발급되며, 그 지침은 공개회사에서 사회사로의 전환에 대해서는 구체적 기간을 명시하지 않습니다."
 keyTakeaways:
-  - "Penukaran awam kepada sendirian dikawal oleh seksyen 41(1); sendirian kepada awam oleh seksyen 41(2) Akta Syarikat 2016."
-  - "Resolusi khas memerlukan sokongan sekurang-kurangnya 75% ahli yang berhak mengundi (seksyen 292)."
-  - "Fi pemfailan untuk penukaran ialah RM500 bagi setiap arah; garis panduan SSM menyatakan notis penukaran kepada syarikat awam dikeluarkan dalam tempoh satu hari bekerja (tiada tempoh dinyatakan bagi arah awam kepada sendirian)."
-  - "Syarikat sendirian yang menjadi awam menerusi seksyen 42(5) tidak boleh kembali menjadi sendirian tanpa kebenaran Mahkamah (seksyen 42(6))."
-appliesTo: "Pengarah, setiausaha syarikat, dan pemilik perniagaan yang ingin menukar status syarikat berkapital saham di Malaysia."
-
+  - "공개회사에서 비공개회사로의 전환은 회사법(Companies Act 2016) s.41(1)이, 비공개회사에서 공개회사로의 전환은 s.41(2)이 규율합니다."
+  - "특별결의는 의결권이 있는 사원의 75% 이상의 찬성을 요구합니다(s.292)."
+  - "전환의 제출 수수료는 각 방향마다 RM500이며, SSM 지침은 공개회사로의 전환 통지가 영업일 1일 이내에 발급된다고 밝힙니다(공개회사에서 비공개회사로의 방향에 대해서는 기간이 명시되어 있지 않음)."
+  - "s.42(5)을 통해 공개회사가 된 비공개회사는 법원의 허가 없이는 다시 비공개회사가 될 수 없습니다(s.42(6))."
+appliesTo: "말레이시아에서 주식자본이 있는 회사의 지위를 전환하려는 이사, 회사 비서 및 사업 소유자."
 faq:
-  - q: "Berapakah fi untuk menukar status syarikat di SSM?"
-    a: "Fi pemfailan ialah RM500, sama ada penukaran daripada awam kepada sendirian atau sendirian kepada awam."
-  - q: "Berapa lama proses penukaran mengambil masa?"
-    a: "Menurut garis panduan SSM, notis penukaran kepada syarikat awam dikeluarkan dalam tempoh satu hari bekerja selepas dokumen lengkap dikemukakan dan syarat dipatuhi. Garis panduan tersebut tidak menyatakan tempoh khusus bagi penukaran syarikat awam kepada sendirian."
-
+  - q: "SSM에서 회사 지위를 전환하는 수수료는 얼마입니까?"
+    a: "제출 수수료는 공개회사에서 비공개회사로의 전환이든 비공개회사에서 공개회사로의 전환이든 RM500입니다."
+  - q: "전환 절차는 얼마나 걸립니까?"
+    a: "SSM 지침에 따르면, 공개회사로의 전환 통지는 완전한 서류가 제출되고 요건이 충족된 후 영업일 1일 이내에 발급됩니다. 그 지침은 공개회사에서 비공개회사로의 전환에 대해서는 구체적 기간을 명시하고 있지 않습니다."
 lang: "ko"
 sourceContentHash: "63145595a33eef52"
 masterLanguage: "ms"
@@ -44,10 +42,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada terdapat tempoh pemprosesan rasmi bagi penukaran syarikat awam kepada sendirian (s.41(1)) — garis panduan SSM yang dirujuk tidak menyatakan sebarang tempoh untuk arah ini."
-  - "Sama ada syarikat boleh memohon menukar semula status secara sukarela di bawah seksyen 41 (selain sekatan s.42(6)), dan syarat yang berkenaan — tidak dinyatakan dalam sumber yang dirujuk."
-  - "Sahkan fi pemfailan RM500 masih terpakai mengikut jadual fi SSM terkini."
-
+  - "공개회사에서 비공개회사로의 전환(s.41(1))에 대한 공식 처리 기간이 있는지 여부 — 참조한 SSM 지침은 이 방향에 대하여 어떠한 기간도 명시하지 않습니다."
+  - "회사가 s.41에 따라 자발적으로 지위를 다시 전환하도록 신청할 수 있는지 여부(s.42(6)의 제한 외에)와 그 관련 요건 — 참조한 자료에 명시되어 있지 않습니다."
+  - "제출 수수료 RM500이 SSM의 최신 수수료표에 따라 여전히 적용되는지 확인하십시오."
 updated: 2026-08-07
 sources:
   - title: "Guidelines for Conversion of Company Status"

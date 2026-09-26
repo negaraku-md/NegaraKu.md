@@ -39,7 +39,7 @@ faq:
     a: "아니요. 제32조 제4항에 따라 제출되어 공개 기록에서 열람 가능한 정관과 달리, 주주 간 계약은 사적으로 유지됩니다. 그 사적 성격은 주요 장점 중 하나이자 주요 약점 중 하나입니다."
 
 verificationNeeded:
-  - "Confirm the current SSM lodgement fee applicable to first adoption of a constitution as against amendment"
+  - "정관의 최초 채택과 개정에 각각 적용되는 현행 SSM 제출 수수료를 확인하십시오"
 
 lang: "ko"
 sourceContentHash: "feb9a1bc3f5debaf"

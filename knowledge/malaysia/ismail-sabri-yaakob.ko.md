@@ -12,24 +12,24 @@ contentType: "guide"
 
 answer: "이스마일 사브리 야콥(Ismail Sabri Yaakob, 1960년 1월 18일생)은 말레이시아 제9대 총리로, 2021년 8월 21일 취임하여 안와르 이브라힘(Anwar Ibrahim)이 2022년 11월 24일 취임할 때까지 재임했습니다. 통일말레이국민조직(UMNO) 소속 변호사이자 오래 재임한 내각 장관이었던 그는 2021년 7월 무히딘 야신 아래에서 부총리가 되었고, 몇 주 뒤 무히딘이 사임하면서 총리직에 올랐습니다. 그의 정부는 2021년 9월 야당 파카탄 하라판(Pakatan Harapan)과 '개혁 및 정치 안정' 양해각서(MOU)를 체결했으며, 그는 2022년 10월 국회를 해산하여 2022년 총선을 소집했습니다. 공개된 기록에 따르면 그는 2025년 말레이시아 반부패위원회(MACC)의 수사 대상이 되었습니다."
 keyTakeaways:
-  - "Malaysia's 9th Prime Minister, 21 August 2021 – 24 November 2022 (caretaker from October 2022)."
-  - "A UMNO lawyer and long-serving cabinet minister; MP for Bera, Pahang."
-  - "Became Deputy Prime Minister under Muhyiddin Yassin in July 2021, then Prime Minister weeks later."
-  - "Signed a 'Transformation and Political Stability' MOU with the opposition Pakatan Harapan in September 2021."
-  - "Called the 2022 general election; as public record, later became the subject of a 2025 MACC investigation."
+  - "말레이시아 제9대 총리로, 2021년 8월 21일부터 2022년 11월 24일까지 재임하였습니다(2022년 10월부터는 과도 내각)."
+  - "UMNO 소속 변호사이자 오랜 기간 내각 장관을 지낸 인물로, 파항(Pahang) 베라(Bera) 지역구 국회의원입니다."
+  - "2021년 7월 무히딘 야신(Muhyiddin Yassin) 밑에서 부총리가 되었고, 몇 주 뒤 총리가 되었습니다."
+  - "2021년 9월 야당 희망연대(Pakatan Harapan)와 「개혁 및 정치적 안정」 양해각서(MOU)에 서명하였습니다."
+  - "2022년 총선을 실시하였으며, 공적 기록으로서 이후 2025년 반부패위원회(MACC) 수사의 대상이 되었습니다."
 
 faq:
-  - q: "How did Ismail Sabri Yaakob become Prime Minister?"
-    a: "He was sworn in on 21 August 2021 after his predecessor Muhyiddin Yassin resigned on 16 August 2021 having lost his parliamentary majority. Ismail Sabri was backed by a majority of MPs."
-  - q: "How long was he Prime Minister?"
-    a: "About 15 months — from 21 August 2021 until Anwar Ibrahim was sworn in on 24 November 2022, following the November 2022 general election."
-  - q: "What was the 2021 MOU?"
-    a: "A Memorandum of Understanding on 'Transformation and Political Stability', signed in September 2021 between his government and the opposition Pakatan Harapan, which is credited with helping pass reforms such as the anti-party-hopping law and lowering the voting age to 18."
+  - q: "이스마일 사브리 야콥은 어떻게 총리가 되었습니까?"
+    a: "전임자 무히딘 야신(Muhyiddin Yassin)이 국회 과반을 잃고 2021년 8월 16일 사임한 후, 그는 2021년 8월 21일 취임하였습니다. 이스마일 사브리는 과반의 국회의원들의 지지를 받았습니다."
+  - q: "그는 얼마나 오래 총리로 재임하였습니까?"
+    a: "약 15개월입니다 — 2021년 8월 21일부터 2022년 11월 총선에 이어 안와르 이브라힘(Anwar Ibrahim)이 2022년 11월 24일 취임할 때까지입니다."
+  - q: "2021년 양해각서(MOU)는 무엇이었습니까?"
+    a: "2021년 9월 그의 정부와 야당 희망연대(Pakatan Harapan) 사이에 서명된 「개혁 및 정치적 안정」에 관한 양해각서로, 반당적 이탈 방지법(anti-party-hopping law)과 선거권 연령의 18세 인하 같은 개혁의 통과를 도운 것으로 평가됩니다."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal review before publication. This biography refers to a Malaysian Anti-Corruption Commission (MACC) investigation and a charge relating to an asset-declaration notice (legal proceedings). These are stated only as public record and neutrally; there is no conviction and the matter is before the courts."
-  - "CRITICAL / TIME-SENSITIVE: as of the drafting date (August 2026) a court appearance was scheduled but its outcome was unconfirmed. The status — whether any charge was read, the plea, or any postponement — MUST be re-verified against current court reporting before publication, and nothing beyond what sources confirm should be stated."
-  - "Exact dates (premiership start/end, DPM appointment) to be confirmed against the Prime Minister's Office and official records."
+  - "민감 / 발행 전 사람과 법률 검토가 필요함. 이 전기는 말레이시아 반부패위원회(MACC)의 수사와 자산 신고 통지에 관련된 기소(법적 절차)를 언급합니다. 이는 오직 공적 기록으로서 중립적으로 기술되었으며, 유죄 판결은 없고 이 사안은 법원에 계류 중입니다."
+  - "중대 / 시급함: 작성 시점(2026년 8월) 기준으로 법정 출석이 예정되어 있었으나 그 결과는 확인되지 않았습니다. 그 상태 — 기소가 낭독되었는지, 답변, 또는 연기 여부 — 는 발행 전 현재의 법원 보도와 대조하여 반드시 다시 확인하여야 하며, 자료가 확인하는 것 이외의 어떠한 내용도 기술해서는 안 됩니다."
+  - "정확한 날짜(총리 재임 시작·종료, 부총리 임명)는 총리실과 공식 기록과 대조하여 확인하여야 합니다."
 
 lang: "ko"
 sourceContentHash: "01485efbacf83246"

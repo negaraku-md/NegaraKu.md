@@ -14,26 +14,26 @@ sensitivity: "none"
 
 answer: "소득세법 1967(Income Tax Act 1967)의 부과 조문마다 CP37 계열 양식이 하나씩 있습니다. CP37은 제109조 로열티와 이자를, CP37A는 제107A조 계약 지급을, CP37D는 제109B조 특수 소득 종류를, CP37F는 제109F조 제4(f)항 소득을 담당하며, CP37S와 CP37DS는 CP37과 CP37D의 소액 유예 버전입니다. 납부 규칙은 수취인에게 지급하거나 대기(貸記)한 후 1개월이며, 납부는 이제 생성된 청구 번호와 함께 e-TT나 e-WHT를 통해 이루어집니다."
 keyTakeaways:
-  - "The form follows the section, not the payment description"
-  - "CP37S and CP37DS are not simplified forms — they are deferment forms with two cumulative conditions"
-  - "The forms carry version numbers in the header, and LHDN reissues them — check Pin. before filing"
-  - "Every payment must have a bill number generated so it can be receipted"
-  - "LHDN's current guidance is that payment forms and supporting documents are retained, not submitted"
-  - "If the due date falls on a weekend or public holiday, the next working day applies"
-appliesTo: "Malaysian payers remitting withholding tax to LHDN and the finance staff who prepare the forms."
+  - "양식은 지급 내역이 아니라 조문을 따릅니다"
+  - "CP37S와 CP37DS는 간소화 양식이 아닙니다 — 두 가지 누적 조건이 있는 유예 양식입니다"
+  - "양식은 머리글에 버전 번호를 담고 있으며, 말레이시아 국세청(LHDN)이 이를 재발행합니다 — 제출 전에 Pin.을 확인하십시오"
+  - "모든 납부에는 영수 처리될 수 있도록 청구 번호가 생성되어야 합니다"
+  - "말레이시아 국세청(LHDN)의 현행 지침은 납부 양식과 증빙 서류를 제출하지 않고 보관하라는 것입니다"
+  - "기한이 주말이나 공휴일에 해당하면 다음 근무일이 적용됩니다"
+appliesTo: "말레이시아 국세청(LHDN)에 원천징수세를 납부하는 말레이시아 지급자, 그리고 양식을 준비하는 재무 담당자."
 
 verificationNeeded:
-  - "LHDN's Withholding Tax page states that payment forms and supporting documents need not be submitted and should be retained, while Public Ruling 10/2019 para 13.1 requires CP37D to be completed and submitted with invoice copies and remittance evidence, and para 18.1(a) requires a certificate of residence to be submitted with CP37D. The two have not been reconciled in any document retrieved — confirm current practice with the Revenue Management Centre before relying on either"
-  - "Form CP107D and its appendix CP107D(1) for the s.107D 2 per cent deduction, and Form CP154 for non-resident public entertainers, could not be retrieved from any live hasil.gov.my path"
+  - "말레이시아 국세청(LHDN) 원천징수세 페이지는 납부 양식과 증빙 서류를 제출할 필요가 없으며 보관해야 한다고 명시하는 반면, 공개 예규(Public Ruling) 10/2019 제13.1항은 CP37D를 작성하여 송장 사본 및 송금 증빙과 함께 제출할 것을 요구하고, 제18.1(a)항은 CP37D와 함께 거주증명서를 제출할 것을 요구합니다. 확보된 어떤 문서에서도 이 둘이 조정되지 않았습니다 — 어느 쪽에 의존하기 전에 세입관리센터(Revenue Management Centre)에 현행 실무를 확인하십시오"
+  - "제107D조 2퍼센트 공제를 위한 양식 CP107D 및 그 부록 CP107D(1), 그리고 비거주 공연예술인을 위한 양식 CP154는 유효한 hasil.gov.my 경로에서 확보할 수 없었습니다"
 
 obligations:
-  - what: "Remit withholding tax with the correct CP37-series form and a generated bill number"
+  - what: "올바른 CP37 계열 양식과 생성된 청구 번호로 원천징수세 납부"
     trigger: "change"
     withinDays: 30
-    due: "within one month after paying or crediting the payee"
+    due: "수취인에게 지급하거나 대기(貸記)한 후 1개월 이내"
     authority: "LHDN"
     statute: "Income Tax Act 1967, ss.107A(1), 109(1), 109B(1), 109F(1)"
-    consequence: "10 per cent increase on the unpaid amount and disallowance of the underlying expense under s.39"
+    consequence: "미납액에 10% 가산 및 제39조에 따른 관련 비용의 손금 부인"
 
 lang: "ko"
 sourceContentHash: "c1d4118e64c632ba"

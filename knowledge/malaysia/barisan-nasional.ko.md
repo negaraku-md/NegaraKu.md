@@ -14,20 +14,20 @@ sensitivity: "elections"
 
 answer: "국민전선(Barisan Nasional, BN, National Front)은 UMNO, MCA, MIC로 이루어진 옛 동맹당(Alliance)을 계승한 말레이시아의 정치 연합입니다. 1970년대 초 더 많은 정당을 포함하도록 확대된 이 연합은 1974년에 첫 총선에 임하였으며, 야권 희망연대(Pakatan Harapan)가 2018년 총선에서 승리할 때까지 연방 정부를 계속 유지하였습니다. 1974~2018년 연방 정부로서의 기간은 44년에 이르며, 그 재편의 모체가 된 이전의 동맹당은 1957년 독립 이래 통치해 왔습니다."
 keyTakeaways:
-  - "BN was reconstituted from the Alliance (UMNO, MCA, MIC) in the early 1970s and first contested a general election in 1974."
-  - "It grew into a broad coalition adding parties such as Gerakan and, briefly, PAS on the peninsula, plus components in Sabah and Sarawak."
-  - "PAS joined BN in the 1970s but was expelled in 1977 after a political crisis in Kelantan."
-  - "BN lost federal power for the first time at the 9 May 2018 general election, winning 79 of 222 parliamentary seats against Pakatan Harapan's 113."
-  - "After the 2018 defeat, Gerakan and the four Sarawak component parties left BN, the latter forming Gabungan Parti Sarawak (GPS)."
-appliesTo: "Readers, students and researchers seeking a factual, non-partisan overview of Barisan Nasional's history and structure."
+  - "BN은 1970년대 초 동맹당(the Alliance, UMNO·MCA·MIC)에서 재편되었으며 1974년에 처음으로 총선에 참여하였습니다."
+  - "그것은 반도에서 그라칸(Gerakan)과 잠시 동안의 이슬람당(PAS) 같은 정당, 그리고 사바(Sabah)와 사라왁(Sarawak)의 구성 정당들을 더하며 폭넓은 연합으로 성장하였습니다."
+  - "이슬람당(PAS)은 1970년대에 BN에 합류하였으나 클란탄(Kelantan)의 정치적 위기 이후 1977년에 축출되었습니다."
+  - "BN은 2018년 5월 9일 총선에서 처음으로 연방 권력을 잃었으며, 희망연대(Pakatan Harapan)의 113석에 맞서 222개 국회 의석 가운데 79석을 얻었습니다."
+  - "2018년 패배 이후 그라칸(Gerakan)과 사라왁의 네 개 구성 정당이 BN을 떠났으며, 후자는 사라왁정당연합(Gabungan Parti Sarawak, GPS)을 결성하였습니다."
+appliesTo: "국민전선(Barisan Nasional)의 역사와 구조에 대한 사실적이고 비당파적인 개관을 찾는 독자, 학생 및 연구자."
 
 faq:
-  - q: "What is Barisan Nasional?"
-    a: "It is a Malaysian political coalition, in English the National Front, that succeeded the Alliance and served as the federal governing coalition from 1974 until the 2018 general election."
-  - q: "Which parties founded it?"
-    a: "Its core came from the Alliance's three parties — UMNO, MCA and MIC — which then broadened into a wider coalition including peninsular and East Malaysian parties in the early 1970s."
-  - q: "When did Barisan Nasional lose federal power?"
-    a: "At the 14th general election on 9 May 2018, when the opposition Pakatan Harapan won 113 of 222 seats and BN won 79, its first loss of the federal government."
+  - q: "국민전선(Barisan Nasional)이란 무엇입니까?"
+    a: "영어로 National Front라 불리는 말레이시아의 정치 연합으로, 동맹당(the Alliance)을 계승하여 1974년부터 2018년 총선까지 연방 집권 연합을 맡았습니다."
+  - q: "어떤 정당들이 이를 창설하였습니까?"
+    a: "그 핵심은 동맹당의 세 정당 — UMNO, MCA, MIC — 에서 비롯되었으며, 이후 1970년대 초에 반도와 동말레이시아의 정당들을 포함하는 더 넓은 연합으로 확대되었습니다."
+  - q: "국민전선(Barisan Nasional)은 언제 연방 권력을 잃었습니까?"
+    a: "2018년 5월 9일 제14대 총선에서로, 야당 희망연대(Pakatan Harapan)가 222석 가운데 113석을, BN이 79석을 얻으며 처음으로 연방정부를 잃었습니다."
 
 lang: "ko"
 sourceContentHash: "991005bf0f4cffdd"
@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "People's Progressive Party (PPP) was historically a BN component; a primary/authoritative source was not attached, so its listing was removed pending confirmation."
-  - "Detailed roster and timeline of Sabah and Sarawak component parties within BN over the decades."
-  - "The 1977 Kelantan crisis sequence (PAS split, state emergency, PAS expulsion, Berjasa's admission) against a primary or authoritative historical source."
-  - "Characterisation of the 1974 result and the coalition's parliamentary majorities over time against official Election Commission (SPR) records."
+  - "인민진보당(People's Progressive Party, PPP)은 역사적으로 BN의 구성 정당이었으나, 1차·권위 있는 자료가 첨부되지 않아 확인 시까지 그 등재를 삭제하였습니다."
+  - "수십 년에 걸친 BN 내 사바(Sabah)와 사라왁(Sarawak) 구성 정당들의 상세한 명단과 연표."
+  - "1977년 클란탄(Kelantan) 위기의 경과(이슬람당(PAS)의 분열, 주 비상사태, PAS 축출, 베르자사(Berjasa)의 가입)를 1차 또는 권위 있는 역사 자료와 대조."
+  - "1974년 결과에 대한 성격 규정과 시기별 연합의 국회 과반 상황을 공식 선거관리위원회(SPR) 기록과 대조."
 
 updated: 2026-08-08
 sources:

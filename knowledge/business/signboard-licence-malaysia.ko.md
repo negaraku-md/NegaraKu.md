@@ -36,8 +36,8 @@ faq:
     a: "지방정부법(Local Government Act 1976) 제102조 (c)는 광고물을 철거할 권한을 명시적으로 포함하며, 제104조는 조례 벌칙을 최대 RM2,000의 벌금, 최대 1년의 징역, 또는 둘 다, 그리고 유죄판결 후 위반이 계속되는 날마다 RM200으로 상한을 둡니다. 실무상 의회는 간판이 철거되지 않을 때 먼저 보증금 몰수에 손을 댑니다."
 
 verificationNeeded:
-  - "The specific compound amount for an unlicensed signboard at any of the four councils — only the statutory ceiling in s.104 is confirmed"
-  - "MBSA's area-based annual signboard tariff — only the advertisement processing fee and the flat bunting and banner rates are published"
+  - "네 개 지방의회 중 어느 곳에서든 미허가 간판에 대한 구체적 과태료 금액 — s.104의 법정 상한만 확인됨"
+  - "샤알람 시의회(MBSA)의 면적 기반 연간 간판 요율 — 광고 처리 수수료와 현수막·배너의 정액 요율만 공표됨"
 
 lang: "ko"
 sourceContentHash: "e95a20cac513aa22"

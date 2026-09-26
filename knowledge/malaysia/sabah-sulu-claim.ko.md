@@ -13,19 +13,19 @@ sensitivity: "security"
 
 answer: "이 주장은 술루의 술탄(Sultan of Sulu)이 북보르네오(현재의 사바)를 유럽 상인들에게 넘긴 1878년 협정에서 비롯됩니다. 필리핀은 이를 주권을 유지한 임대(lease)로 해석하고, 말레이시아는 이를 양도(cession)로 해석합니다. 사바는 1963년부터 말레이시아의 일부였습니다. 이 분쟁은 2013년 라핫다투 침투에서 폭력적으로 재부상했고, 약 149억 2천만 미국 달러(USD)에 이르는 사적 중재 판정(2022)을 통해 다시 불거졌는데, 파리 항소법원(Paris Court of Appeal)은 2025년 12월 9일 이 판정을 취소했습니다."
 keyTakeaways:
-  - "The 1878 agreement between the Sultan of Sulu and merchants Gustavus von Overbeck and Alfred Dent is read as a permanent cession by Malaysia and as a lease by the Philippines."
-  - "Malaysia's government records an annual cession payment of RM5,000; by its account the payment ran from 1878, was interrupted after 1936, later resumed, and was terminated following the 2013 incursion."
-  - "The 2013 Lahad Datu standoff began on 11 February 2013 at Kampung Tanduo; Malaysia reported at least 68 members of the armed group and 10 members of the security forces killed."
-  - "A private arbitration awarded about USD 14.92 billion to a group claiming to be the Sultan's heirs in 2022; the Paris Court of Appeal annulled that award on 9 December 2025."
-appliesTo: "Readers seeking a factual overview of the Sabah sovereignty question, the Lahad Datu incursion and the Sulu arbitration."
+  - "술루 술탄(Sultan of Sulu)과 상인 구스타부스 폰 오버베크(Gustavus von Overbeck) 및 앨프리드 덴트(Alfred Dent) 사이의 1878년 협정을, 말레이시아는 영구 할양으로, 필리핀은 임대로 해석합니다."
+  - "말레이시아 정부는 연간 할양금 RM5,000을 기록하고 있으며, 그 설명에 따르면 이 지급은 1878년부터 이루어지다가 1936년 이후 중단되었고 이후 재개되었으며 2013년 침입 이후 종료되었습니다."
+  - "2013년 라핫다투(Lahad Datu) 대치는 2013년 2월 11일 캄풍 탄두오(Kampung Tanduo)에서 시작되었으며, 말레이시아는 무장 집단원 최소 68명과 보안군 10명이 사망하였다고 보고하였습니다."
+  - "한 사적 중재는 2022년 술탄의 상속인이라고 주장하는 집단에게 약 149억 2천만 달러를 배상 판정하였으나, 파리 항소법원은 2025년 12월 9일 그 판정을 무효화하였습니다."
+appliesTo: "사바(Sabah) 주권 문제, 라핫다투(Lahad Datu) 침입, 술루 중재에 대한 사실적 개관을 찾는 독자."
 
 faq:
-  - q: "Is Sabah part of Malaysia?"
-    a: "Sabah has been a state of the Federation of Malaysia since 1963. The Philippines maintains a dormant claim to the eastern part of the territory, which Malaysia rejects."
-  - q: "What was the 2013 Lahad Datu incursion?"
-    a: "An armed group calling itself the Royal Security Forces of the Sultanate of Sulu and North Borneo landed at Kampung Tanduo, Lahad Datu, on 11 February 2013 to press the Sulu claim. It ended after weeks of fighting in which Malaysia reported at least 68 members of the armed group and 10 security personnel killed."
-  - q: "Did the Sulu claimants win USD 14.92 billion from Malaysia?"
-    a: "A private arbitrator issued an award of about USD 14.92 billion on 28 February 2022, but Malaysia contested it across several jurisdictions and the Paris Court of Appeal annulled the award on 9 December 2025."
+  - q: "사바(Sabah)는 말레이시아의 일부입니까?"
+    a: "사바(Sabah)는 1963년부터 말레이시아 연방의 한 주였습니다. 필리핀은 이 영역의 동부에 대한 잠재적 영유권 주장을 유지하고 있으나, 말레이시아는 이를 거부합니다."
+  - q: "2013년 라핫다투(Lahad Datu) 침입이란 무엇이었습니까?"
+    a: "스스로를 술루·북보르네오 술탄국 왕실 보안군(Royal Security Forces of the Sultanate of Sulu and North Borneo)이라 칭하는 무장 집단이 술루의 주장을 관철하기 위해 2013년 2월 11일 라핫다투(Lahad Datu)의 캄풍 탄두오(Kampung Tanduo)에 상륙하였습니다. 이는 몇 주간의 교전 끝에 종결되었으며, 그 과정에서 말레이시아는 무장 집단원 최소 68명과 보안 요원 10명이 사망하였다고 보고하였습니다."
+  - q: "술루 청구인들은 말레이시아로부터 149억 2천만 달러를 받아냈습니까?"
+    a: "한 사적 중재인이 2022년 2월 28일 약 149억 2천만 달러의 배상 판정을 내렸으나, 말레이시아는 여러 관할에서 이에 이의를 제기하였고 파리 항소법원은 2025년 12월 9일 그 판정을 무효화하였습니다."
 
 lang: "ko"
 sourceContentHash: "a5cefe938e99cef3"
@@ -45,11 +45,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact day of the 1878 agreement: the English text of the instrument is dated 22 January 1878, but the arbitration record notes the Spanish translation carries a different date; a human should confirm which is cited."
-  - "The precise spelling and identity of the 1878 Sultan of Sulu, rendered variously as Jamalul Alam, Muhammad Jamal al-Alam and Jamal ul-Azam."
-  - "The Lahad Datu casualty figures (at least 68 members of the armed group and 10 security personnel), which are drawn from Malaysian reporting and vary across sources."
-  - "The identity and reported valuation of the two Petronas subsidiaries seized in Luxembourg in July 2022."
-  - "The current formal status of the Philippine claim and whether it has been reaffirmed or withdrawn in recent diplomatic exchanges."
+  - "1878년 협정의 정확한 날짜: 이 문서의 영어 본문은 1878년 1월 22일자이나, 중재 기록은 스페인어 번역본이 다른 날짜를 담고 있다고 지적함; 어느 것을 인용하는지 사람이 확인하여야 함."
+  - "1878년 술루 술탄(Sultan of Sulu)의 정확한 철자와 정체 — Jamalul Alam, Muhammad Jamal al-Alam, Jamal ul-Azam 등으로 다양하게 표기됨."
+  - "라핫다투(Lahad Datu) 사상자 수치(무장 집단원 최소 68명과 보안 요원 10명), 이는 말레이시아 보도에서 나온 것이며 자료마다 차이가 있음."
+  - "2022년 7월 룩셈부르크에서 압류된 페트로나스(Petronas) 자회사 두 곳의 정체와 보도된 평가액."
+  - "필리핀 주장의 현재 공식적 지위와, 최근의 외교적 교섭에서 그것이 재확인되었는지 또는 철회되었는지 여부."
 
 updated: 2026-08-08
 sources:

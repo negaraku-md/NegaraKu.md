@@ -14,17 +14,17 @@ sensitivity: "none"
 
 answer: "말레이시아에는 배당금 원천징수세가 없습니다. 단일단계 제도 아래에서 회사가 납부한 세금이 최종이며, 소득세법 1967 부속서 6 제12B항은 배당금을 지급하는 회사가 세금을 공제받을 권리가 없는 경우 주주의 손에서 배당금을 면제합니다. 해외의 법인 주주는 말레이시아 세금 없이 배당금을 수령합니다. 개인 주주가 예외입니다: 과세연도 2025(YA2025)부터 RM100,000을 초과하는 말레이시아 원천 배당 소득에 2%의 부과세가 적용됩니다."
 keyTakeaways:
-  - "No withholding tax is deducted from a Malaysian dividend, to any shareholder, resident or not"
-  - "The exemption is in Schedule 6 paragraph 12B of the Income Tax Act 1967 — it applies to any person other than an individual"
-  - "From YA2025, Schedule 1 Part XXII charges 2% on an individual shareholder's Malaysian dividend income above RM100,000, inserted by s.16 of the Finance Act 2024"
-  - "Part XXII contains no residence qualifier — it charges the income of an individual, so non-resident individual shareholders are within its terms"
-  - "Bank Negara imposes no cap on repatriation, but Part E of Notice 4 requires a non-resident to repatriate in foreign currency"
-  - "Interest, royalties and service fees to a foreign parent are a different matter — those do carry withholding tax"
-appliesTo: "Foreign shareholders of Malaysian companies and finance leads planning distributions to an overseas parent."
+  - "말레이시아 배당금에는 거주 여부와 무관하게 어떤 주주에게도 원천징수세가 공제되지 않습니다"
+  - "이 면제는 소득세법(Income Tax Act 1967) 제6부속서 제12B항에 있습니다 — 개인 외의 모든 자에게 적용됩니다"
+  - "2025 과세연도부터 제1부속서 제XXII부는 개인 주주의 RM100,000 초과 말레이시아 배당 소득에 2%를 부과하며, 이는 재정법(Finance Act 2024) s.16으로 신설되었습니다"
+  - "제XXII부에는 거주 요건이 없습니다 — 개인의 소득에 부과하므로, 비거주 개인 주주도 그 적용 범위에 들어갑니다"
+  - "말레이시아 중앙은행(BNM)은 본국 송금에 상한을 두지 않으나, Notice 4의 E부는 비거주자가 외화로 송금하도록 요구합니다"
+  - "외국 모회사에 대한 이자, 로열티 및 용역 수수료는 별개의 문제입니다 — 이들에는 원천징수세가 붙습니다"
+appliesTo: "말레이시아 회사의 외국인 주주, 그리고 해외 모회사로의 배당을 계획하는 재무 책임자."
 
 verificationNeeded:
-  - "Confirm the mechanics for computing an individual's chargeable dividend income against the rules gazetted as P.U.(A) 148/2025 and against any subsequent LHDN guideline"
-  - "Confirm whether an applicable double taxation agreement alters the position of a non-resident individual under Schedule 1 Part XXII — no LHDN determination on this point was located"
+  - "개인의 과세대상 배당 소득 산정 방식을 P.U.(A) 148/2025로 관보에 게재된 규칙 및 이후의 모든 말레이시아 국세청(LHDN) 지침과 대조하여 확인 필요"
+  - "적용되는 이중과세방지협정이 제1부속서 제XXII부에 따른 비거주 개인의 지위를 변경하는지 확인 필요 — 이 점에 관한 말레이시아 국세청(LHDN)의 판단을 찾지 못함"
 
 lang: "ko"
 sourceContentHash: "efeb2f7c70d05ed0"

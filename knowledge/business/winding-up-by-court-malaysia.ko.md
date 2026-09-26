@@ -14,20 +14,20 @@ sensitivity: "none"
 
 answer: "RM50,000을 초과하는 채권을 가진 채권자는 회사법(Companies Act 2016) 제466조 제1항 (a)호에 따라 회사의 등록사무소에 법정 최고를 송달할 수 있습니다. 회사가 21일 이내에 그 채무를 지급, 담보 제공 또는 화해하지 않으면, 채무를 변제할 수 없는 것으로 간주되며 — 이는 고등법원이 제465조 제1항 (e)호에 따라 강제 청산을 명할 수 있는 사유입니다. 회사는 선의로 채무를 다투어 저항할 수 있으며, 청산 신청 자체가 제기되는 것을 막기 위해 포춘나 금지명령(Fortuna injunction)을 구할 수 있습니다."
 keyTakeaways:
-  - "Since 1 April 2021 the minimum debt for a winding-up statutory demand is a sum exceeding RM50,000, prescribed permanently (no sunset date) by Gazette Notification No. 4159/2021 under section 466(1)(a)."
-  - "A statutory demand must be served at the company's registered office; the company then has 21 days to pay, secure or compound the debt."
-  - "Neglecting the demand for 21 days deems the company unable to pay its debts under section 466(1)(a) — a rebuttable presumption of insolvency."
-  - "A creditor is only one of several parties who may petition: under section 464 the list includes the company, a creditor, a contributory, the liquidator, the Registrar and the Minister."
-  - "A company facing a demand over a genuinely disputed debt can apply for a Fortuna injunction to restrain the creditor from presenting a petition."
-appliesTo: "Directors, creditors, and advisers dealing with an unpaid corporate debt or a threatened winding-up in Malaysia."
+  - "2021년 4월 1일부터 청산 법정 최고(statutory demand)를 위한 최소 채무는 RM50,000을 초과하는 금액이며, 이는 제466(1)(a)조에 따라 관보 고시 제4159/2021호로 영구적으로(만료일 없이) 규정되었습니다."
+  - "법정 최고는 회사의 등록사무소에 송달되어야 하며; 이후 회사는 채무를 변제·담보 또는 화해할 21일이 주어집니다."
+  - "그 최고를 21일간 이행하지 않으면 제466(1)(a)조에 따라 회사가 채무를 변제할 수 없는 것으로 간주됩니다 — 반증 가능한 지급불능 추정입니다."
+  - "채권자는 청원할 수 있는 여러 당사자 중 하나일 뿐입니다: 제464조에 따라 그 목록에는 회사, 채권자, 출자자(contributory), 청산인, 등록관 및 장관이 포함됩니다."
+  - "진정으로 다투어지는 채무에 대한 최고에 직면한 회사는 채권자가 청원을 제출하는 것을 제지하기 위해 포츄나 금지명령(Fortuna injunction)을 신청할 수 있습니다."
+appliesTo: "미변제 법인 채무 또는 말레이시아에서 위협받는 청산에 대응하는 이사, 채권자 및 자문가."
 
 faq:
-  - q: "How much must a company owe before a creditor can serve a winding-up statutory demand?"
-    a: "A sum exceeding RM50,000. This threshold took effect on 1 April 2021 under Gazette Notification No. 4159/2021, made under section 466(1)(a) of the Companies Act 2016, and has no sunset date."
-  - q: "How long does a company have to respond to a section 466 statutory demand?"
-    a: "21 days from service at the registered office. Within that time it must pay, secure or compound the debt to the creditor's satisfaction, or it is deemed unable to pay its debts."
-  - q: "Can a company stop a winding-up petition over a debt it disputes?"
-    a: "Yes. Where the debt is genuinely (bona fide) disputed on substantial grounds, the company can apply for a Fortuna injunction to restrain the creditor from presenting the petition, since winding up should not be used to enforce a disputed claim."
+  - q: "채권자가 청산 법정 최고를 송달하려면 회사가 얼마를 빚져야 합니까?"
+    a: "RM50,000을 초과하는 금액입니다. 이 기준액은 회사법(Companies Act 2016) 제466(1)(a)조에 따라 제정된 관보 고시 제4159/2021호로 2021년 4월 1일에 발효되었으며 만료일이 없습니다."
+  - q: "회사는 제466조 법정 최고에 응답하기까지 기한이 얼마나 됩니까?"
+    a: "등록사무소에 송달된 날로부터 21일입니다. 그 기간 내에 채권자가 만족할 정도로 채무를 변제·담보 또는 화해해야 하며, 그러지 않으면 채무를 변제할 수 없는 것으로 간주됩니다."
+  - q: "회사가 다투는 채무에 대한 청산 청원을 막을 수 있습니까?"
+    a: "가능합니다. 채무가 실질적 근거로 진정하게(bona fide) 다투어지는 경우, 회사는 채권자가 청원을 제출하는 것을 제지하기 위해 포츄나 금지명령(Fortuna injunction)을 신청할 수 있는데, 청산은 다투어지는 청구를 집행하는 데 사용되어서는 안 되기 때문입니다."
 
 lang: "ko"
 sourceContentHash: "b91e135cb6354783"
@@ -47,9 +47,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Neutral citation/pinpoint for the Fortuna case as adopted by Malaysian courts (Malaysian judgments cite both (1976) 2 ACLR 349 and [1978] VR 83)."
-  - "Confirm the full statutory list of petitioners under section 464 of the Companies Act 2016 against the current reprint, including whether regulator-specific petitioners (e.g. Bank Negara Malaysia, PIDM) should be mentioned."
-  - "Confirm Gazette Notification No. 4159/2021 remains the operative instrument and RM50,000 threshold has not been amended since publication."
+  - "말레이시아 법원이 채택한 포츄나(Fortuna) 판례의 중립 인용/정확한 출처(말레이시아 판결은 (1976) 2 ACLR 349와 [1978] VR 83을 모두 인용함)."
+  - "회사법(Companies Act 2016) 제464조에 따른 청원인의 완전한 법정 목록을 현행 재간행본과 대조하여 확인하고, 규제기관 특유의 청원인(예: 말레이시아 중앙은행(BNM), PIDM)을 언급해야 하는지 여부를 확인 필요."
+  - "관보 고시 제4159/2021호가 여전히 유효한 문서이며 RM50,000 기준액이 게재 이후 개정되지 않았는지 확인 필요."
 
 updated: 2026-08-07
 sources:

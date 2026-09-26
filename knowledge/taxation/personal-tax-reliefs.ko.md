@@ -12,12 +12,12 @@ contentType: "checklist"
 
 answer: "말레이시아 거주 개인은 본인, 배우자, 자녀, 부모, EPF/생명보험 납입금, 교육 및 의료 보험, 라이프스타일 지출, 의료비 등 일련의 연간 세금 공제를 통해 과세소득을 줄일 수 있습니다. 공제는 BE 양식(사업소득의 경우 B 양식)을 제출할 때 청구하며, 금액과 적격 요건은 대부분의 해에 예산안(Budget)에서 개정됩니다. 따라서 신고 전에 항상 해당 연도의 관보 또는 말레이시아 국세청(LHDN) 안내를 확인해야 합니다."
 keyTakeaways:
-  - "Reliefs reduce chargeable income, not the tax bill directly — the saving depends on your marginal tax rate"
-  - "The individual relief (self) and EPF/life insurance relief are claimed by almost every taxpayer"
-  - "Medical expense reliefs cover the taxpayer, spouse, children and parents under separate categories"
-  - "Lifestyle relief bundles books, computers, internet, sports equipment and similar items under one combined cap"
-  - "Relief amounts and categories change most Budget cycles — verify the current year's figures before filing"
-appliesTo: "Individual taxpayers preparing their annual Form BE/B filing and checking which reliefs they can claim."
+  - "공제는 세액을 직접 줄이는 것이 아니라 과세표준을 줄입니다 — 절세액은 본인의 한계세율에 따라 달라집니다"
+  - "인적 공제(본인)와 직원공제기금(EPF)/생명보험 공제는 거의 모든 납세자가 청구합니다"
+  - "의료비 공제는 납세자 본인, 배우자, 자녀, 부모를 각각의 범주로 나누어 적용합니다"
+  - "라이프스타일 공제는 도서, 컴퓨터, 인터넷, 스포츠 용품 및 유사 항목을 하나의 통합 한도로 묶습니다"
+  - "공제 금액과 범주는 대부분의 예산 주기마다 변경됩니다 — 신고 전에 해당 연도의 수치를 확인하십시오"
+appliesTo: "연례 Form BE/B 신고를 준비하며 청구할 수 있는 공제를 확인하는 개인 납세자."
 
 lang: "ko"
 sourceContentHash: "3aaef5bbc4ffdb87"

@@ -12,12 +12,12 @@ contentType: "guide"
 
 answer: "말레이반도와 보르네오의 사바(Sabah)·사라왁(Sarawak) 주는 약 600km의 남중국해를 사이에 두고 떨어져 있으며, 1963년 9월 16일 연방을 결성하기 전까지는 별개의 영국 관할 영토였습니다. 당시 연방헌법에 명시된 보호 장치에 따라 사바와 사라왁은 자체 출입국 통제를 유지했습니다 — 이는 말레이시아 시민이라도 그곳에서 거주하거나 일하려면 1959/63년 출입국법(Immigration Act 1959/63) 제66조에 따라 통행증(Pass) 또는 허가증(Permit) 심사를 통과해야 함을 뜻합니다 — 또한 자체 토지법(전국토지법전이 아니라 사라왁 토지법전과 사바 토지령)을, 그리고 사라왁의 경우 연방 총선과 독립적으로 진행되는 주(州) 선거 일정을 유지했습니다."
 keyTakeaways:
-  - "Peninsular Malaysia, Sabah and Sarawak are separated by about 600 km of the South China Sea (Sarawak state government)"
-  - "Official area figures put Peninsular Malaysia at roughly 130,590 km², Sarawak at 124,450 km² and Sabah at 73,620 km² — Borneo holds about 60% of Malaysia's land area (CAAM, Profile of East Malaysia; Sarawak state government)"
-  - "Section 66 of the Immigration Act 1959/63 requires a Pass or Permit for entry into Sabah or Sarawak — a requirement that applies to Malaysian citizens from the Peninsula, not only to foreigners (Immigration Department of Malaysia)"
-  - "Sabah and Sarawak administer their own land law — the Sabah Land Ordinance and the Sarawak Land Code — instead of Peninsular Malaysia's National Land Code"
-  - "Peninsular Malaysia ran on a different clock until the Malaysian Standard Time Act 1981 advanced it by 30 minutes from 1 January 1982, aligning it with the time already kept in Sabah and Sarawak (Attorney General's Chambers of Malaysia)"
-appliesTo: "Travellers, businesses and anyone trying to understand why 'Malaysia' sometimes behaves like two administrations sharing one passport and one flag."
+  - "말레이시아 반도와 사바(Sabah), 사라왁(Sarawak)은 약 600km의 남중국해로 나뉘어 있습니다(사라왁 주정부)"
+  - "공식 면적 수치는 말레이시아 반도를 약 130,590km², 사라왁(Sarawak)을 124,450km², 사바(Sabah)를 73,620km²로 두며 — 보르네오가 말레이시아 국토 면적의 약 60%를 차지합니다(CAAM, 동말레이시아 개요; 사라왁 주정부)"
+  - "1959/63년 이민법(Immigration Act 1959/63) 제66조는 사바(Sabah)나 사라왁(Sarawak)에 입경하려면 통행증(Pass) 또는 허가증(Permit)을 갖추도록 요구하며 — 이는 외국인뿐 아니라 반도 출신의 말레이시아 시민에게도 적용되는 요건입니다(말레이시아 이민청)"
+  - "사바(Sabah)와 사라왁(Sarawak)은 말레이 반도의 국가토지법(National Land Code) 대신 각자의 토지법 — 사바 토지령(Sabah Land Ordinance)과 사라왁 토지법전(Sarawak Land Code) — 을 시행합니다"
+  - "말레이 반도는 1981년 말레이시아 표준시법(Malaysian Standard Time Act 1981)이 1982년 1월 1일부터 시각을 30분 앞당겨 사바(Sabah)와 사라왁(Sarawak)이 이미 지키던 시각에 맞출 때까지 다른 시계로 운영되었습니다(말레이시아 법무장관실)"
+appliesTo: "「말레이시아」가 때때로 하나의 여권과 하나의 국기를 공유하는 두 개의 행정처럼 작동하는 이유를 이해하려는 여행자, 기업 및 모든 이."
 
 lang: "ko"
 sourceContentHash: "da887efa0f358f15"

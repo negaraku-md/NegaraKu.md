@@ -14,18 +14,16 @@ sensitivity: "none"
 
 answer: "예 — 회사 비서는 개인적 형사책임을 질 수 있습니다. 회사법(Companies Act 2016)상 회사의 '임원'에 해당하기 때문에, 비서는 허위 또는 오해를 유발하는 진술에 대한 중한 처벌(제591–593조)에 노출됩니다: 최대 10년의 징역, 최대 RM3,000,000의 벌금, 또는 둘 다. 법원은 SSM에 제출된 허위 서식으로 실제 비서에게 유죄를 선고한 바 있습니다 — 예컨대 1965년 회사법(Companies Act 1965)의 허위 진술 규정(현재 2016년 회사법 제591조로 대체됨)에 따라 RM210,000의 벌금을 선고받은 전직 비서가 있습니다."
 keyTakeaways:
-  - "Setiausaha syarikat ialah 'pegawai' syarikat, jadi liabilitinya peribadi dan berasingan daripada pengarah."
-  - "Penyata palsu atau mengelirukan di bawah seksyen 591 boleh membawa penjara sehingga 10 tahun, denda sehingga RM3 juta, atau kedua-duanya."
-  - "Seksyen 592 dan 593 mengenakan hukuman sama (10 tahun / RM3 juta) bagi laporan palsu kepada pihak berkepentingan atau kepada Pendaftar."
-  - "SSM memetik kes bekas setiausaha yang didenda RM210,000 (12 bulan penjara jika ingkar) kerana penyata palsu dalam Borang 49 dan Borang 32A — disabitkan di bawah Akta Syarikat 1965 (peruntukan pendahulu kepada seksyen 591 Akta 2016)."
-appliesTo: "Setiausaha syarikat (termasuk setiausaha bertauliah), firma setiausaha, dan pengarah yang bergantung kepada setiausaha."
-
+  - "회사 비서는 회사의 「임원(pegawai)」이므로, 그 책임은 개인적이며 이사와 별개입니다."
+  - "s.591에 따른 허위 또는 오도하는 진술은 최대 10년의 징역, RM3,000,000 이하의 벌금, 또는 그 병과에 처할 수 있습니다."
+  - "s.592과 s.593은 이해관계자 또는 등기관에 대한 허위 보고에 동일한 처벌(10년 / RM3,000,000)을 부과합니다."
+  - "SSM은 Borang 49와 Borang 32A의 허위 진술로 RM210,000의 벌금(미납 시 12개월 징역)이 부과된 전직 비서의 사례를 인용하며 — 이는 1965년 회사법(Companies Act 1965)(2016년법 s.591의 선행 규정)에 따라 유죄가 확정되었습니다."
+appliesTo: "회사 비서(증서 보유 비서 포함), 비서 업무 법인, 그리고 비서에게 의존하는 이사."
 faq:
-  - q: "Adakah setiausaha syarikat bertanggungjawab secara peribadi, bukan hanya syarikat?"
-    a: "Ya. Sebagai 'pegawai' syarikat, setiausaha boleh didakwa secara peribadi apabila sesuatu peruntukan menjeratkan 'tiap-tiap pegawai yang ingkar', berasingan daripada dakwaan terhadap pengarah."
-  - q: "Apakah hukuman bagi membuat penyata palsu kepada SSM?"
-    a: "Di bawah seksyen 593 Akta Syarikat 2016, penyata atau laporan palsu kepada Pendaftar (SSM) boleh dihukum penjara sehingga 10 tahun, denda sehingga RM3 juta, atau kedua-duanya."
-
+  - q: "회사 비서는 회사뿐만 아니라 개인적으로도 책임을 집니까?"
+    a: "예. 회사의 「임원(pegawai)」으로서, 비서는 어떤 규정이 「모든 위반 임원(tiap-tiap pegawai yang ingkar)」을 대상으로 하는 경우 이사에 대한 기소와 별개로 개인적으로 기소될 수 있습니다."
+  - q: "SSM에 허위 진술을 한 경우의 처벌은 무엇입니까?"
+    a: "회사법(Companies Act 2016) s.593에 따라, 등기관(SSM)에 대한 허위 진술이나 보고는 최대 10년의 징역, RM3,000,000 이하의 벌금, 또는 그 병과에 처할 수 있습니다."
 lang: "ko"
 sourceContentHash: "e1c1cbfc3de7c89d"
 masterLanguage: "ms"
@@ -38,10 +36,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Seksyen tuduhan tepat bagi PP lwn Khaeromze bin Ahmad (dinyatakan seksyen 364(2) Akta Syarikat 1965) — sahkan terhadap siaran media rasmi SSM."
-  - "Kes PP lwn Ho Woon Choon (setiausaha Dataco Communications; Mahkamah Rayuan Putrajaya, 16 Jun 2011; Borang 24; seksyen 364(2) Akta Syarikat 1965) — sahkan nombor kes / laporan mahkamah rasmi."
-  - "URL kanonik SSM bagi deck 'Common Offences Under Companies Act 2016' (kini dipetik daripada rehost pihak ketiga cwca.com.my); gantikan dengan salinan di domain ssm.com.my jika ada."
-  - "Kes PP lwn Sandhiransegaran (Venus Polymer Sdn Bhd, penjara 5 tahun) muncul dalam slaid latihan SSM tanpa nombor kes/laporan mahkamah — jangan petik semula tanpa pengesahan bebas."
+  - "PP lwn Khaeromze bin Ahmad 사건의 정확한 기소 조항(1965년 회사법(Companies Act 1965) s.364(2)로 기재됨) — SSM의 공식 보도자료와 대조하여 확인하십시오."
+  - "PP lwn Ho Woon Choon 사건(Dataco Communications 비서; 푸트라자야 항소법원, 2011년 6월 16일; Borang 24; 1965년 회사법(Companies Act 1965) s.364(2)) — 사건 번호 / 공식 판결문을 확인하십시오."
+  - "「Common Offences Under Companies Act 2016」 자료(현재 제3자 재호스트 cwca.com.my에서 인용됨)의 SSM 정본 URL — ssm.com.my 도메인의 사본이 있으면 이를 교체하십시오."
+  - "PP lwn Sandhiransegaran 사건(Venus Polymer Sdn Bhd, 징역 5년)은 SSM 교육 슬라이드에 사건 번호/판결문 없이 등장하므로 — 독립적 확인 없이 다시 인용하지 마십시오."
 revisions:
   - revision: 0
     date: 2026-08-07

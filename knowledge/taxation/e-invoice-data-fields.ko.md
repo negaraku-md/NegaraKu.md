@@ -14,18 +14,18 @@ sensitivity: "none"
 
 answer: "LHDN은 전자송장을 발행하기 위해 여덟 개 범주로 묶인 55개의 데이터 필드를 요구합니다. 대부분은 필수이고, 20개는 선택이며 8개는 조건부 필수입니다 — SST와 관광세 등록번호, 원본 전자송장 참조, 통화 환율, 세율, 그리고 두 개의 세금 면제 필드입니다. 부속서는 재화의 수입과 수출에 대한 필수 관세 양식 참조를 추가합니다."
 keyTakeaways:
-  - "55 fields in Appendix 1, grouped into eight categories, plus an annexure in Appendix 2"
-  - "XML or JSON, both conforming to UBL 2.1"
-  - "Eight fields are conditionally mandatory rather than always required"
-  - "The e-Invoice date and time must be the current date and time"
-  - "Seven validators run — three immediate, four in the background"
-  - "Code lists for e-Invoice type, tax type, currency, MSIC, state and UoM are published in the SDK"
-  - "A defective e-Invoice can be replaced by a substitute within three days under s.82C(8) ITA 1967"
-appliesTo: "Developers building a MyInvois integration, ERP consultants mapping master data, and finance teams debugging rejected submissions."
+  - "부록 1에 여덟 개 범주로 묶인 55개 필드, 그리고 부록 2의 부속서"
+  - "XML 또는 JSON, 둘 다 UBL 2.1을 준수"
+  - "여덟 개 필드는 항상 요구되는 것이 아니라 조건부 필수입니다"
+  - "전자송장 날짜와 시각은 현재 날짜와 시각이어야 합니다"
+  - "일곱 개의 검증기가 실행됩니다 — 세 개는 즉시, 네 개는 백그라운드에서"
+  - "전자송장 유형, 세금 유형, 통화, MSIC, 주, 단위(UoM)에 대한 코드 목록은 SDK에 공표되어 있습니다"
+  - "결함이 있는 전자송장은 소득세법 1967(ITA 1967) 제82C(8)조에 따라 3일 이내에 대체본으로 교체할 수 있습니다"
+appliesTo: "MyInvois 연동을 구축하는 개발자, 마스터 데이터를 매핑하는 ERP 컨설턴트, 그리고 거부된 제출을 디버깅하는 재무팀."
 
 verificationNeeded:
-  - "The full published list of granular validation error codes (CF, DS, ST prefixes) — the SDK documents the seven validator categories and standard HTTP error codes but does not publish an exhaustive code-to-condition table"
-  - "Per-endpoint API rate limits — the SDK refers to Integration Practices without stating numeric limits on the FAQ page"
+  - "세분화된 검증 오류 코드(CF, DS, ST 접두어)의 전체 공표 목록 — SDK는 일곱 개 검증기 범주와 표준 HTTP 오류 코드를 문서화하지만 코드-조건 대응표 전체는 공표하지 않습니다"
+  - "엔드포인트별 API 요청 제한 — SDK는 FAQ 페이지에 수치 제한을 명시하지 않은 채 통합 실무(Integration Practices)를 언급합니다"
 
 lang: "ko"
 sourceContentHash: "7457966f1e6638bb"

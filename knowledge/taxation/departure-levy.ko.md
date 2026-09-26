@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "출국세는 국제선 항공편으로 말레이시아에서 출발하는 모든 사람에게 부과되는 세금으로, 2019년 9월 1일부터 시행되었습니다. 세율은 ASEAN 목적지의 경우 RM8(이코노미) 또는 RM50(비이코노미), 비ASEAN 목적지의 경우 RM20(이코노미) 또는 RM150(비이코노미)입니다. 항공사(운영자)가 항공권 가격을 통해 이 세금을 징수하며, 생후 24개월 미만의 영아와 12시간 미만의 환승 승객은 면제됩니다."
 keyTakeaways:
-  - "Levi pelepasan mula dikuatkuasakan pada 1 September 2019 dan buat masa ini hanya dikenakan ke atas pengangkutan udara sahaja."
-  - "Kadarnya RM8/RM50 ke ASEAN dan RM20/RM150 ke luar ASEAN, mengikut sama ada tiket kelas ekonomi atau bukan ekonomi."
-  - "Setiap pengendali penerbangan wajib mendaftar dalam sistem MyDLv (borang DL-01) di bawah Seksyen 13(1); pengendali asing yang tiada tempat perniagaan di Malaysia perlu juga melantik ejen di Malaysia."
-  - "Bayi bawah 24 bulan, penumpang transit bawah 12 jam, dan pekerja yang dibawa ke pelantar minyak melalui carter udara dikecualikan."
-appliesTo: "Penumpang yang berlepas dari Malaysia melalui udara, serta syarikat penerbangan dan agen pelancongan."
+  - "출국세는 2019년 9월 1일부터 시행되었으며 현재로서는 항공 운송에만 부과됩니다."
+  - "세율은 항공권이 이코노미 등급인지 비이코노미 등급인지에 따라 ASEAN행 RM8/RM50, ASEAN 외 지역행 RM20/RM150입니다."
+  - "모든 항공 운영자는 제13(1)조에 따라 MyDLv 시스템에 등록(양식 DL-01)해야 하며, 말레이시아에 사업장이 없는 외국 운영자는 말레이시아에 대리인도 선임해야 합니다."
+  - "생후 24개월 미만의 영아, 12시간 미만의 환승 승객, 그리고 항공 전세편으로 석유 시추 플랫폼에 이송되는 근로자는 면제됩니다."
+appliesTo: "항공편으로 말레이시아에서 출발하는 승객, 그리고 항공사 및 여행사."
 
 faq:
-  - q: "Adakah levi pelepasan dikenakan jika saya keluar Malaysia melalui darat atau laut?"
-    a: "Tidak. Pada peringkat pelaksanaan semasa, levi pelepasan hanya dikenakan ke atas penumpang yang berlepas melalui udara. Pengendali pengangkutan darat dan laut dikecualikan."
-  - q: "Adakah anak kecil perlu membayar levi pelepasan?"
-    a: "Kanak-kanak atau bayi berumur bawah 24 bulan pada tarikh berlepas ke luar negara dikecualikan daripada membayar levi pelepasan."
-  - q: "Bagaimana penumpang transit dikenakan levi?"
-    a: "Penumpang penerbangan yang tiba di mana-mana lapangan terbang antarabangsa di Malaysia dan menyambung ke destinasi luar negara dalam tempoh tidak melebihi 12 jam transit dikecualikan."
+  - q: "육로나 해로로 말레이시아를 떠나면 출국세가 부과됩니까?"
+    a: "아닙니다. 현행 시행 단계에서 출국세는 항공편으로 출발하는 승객에게만 부과됩니다. 육상 및 해상 운송 운영자는 면제됩니다."
+  - q: "어린 자녀도 출국세를 내야 합니까?"
+    a: "해외로 출발하는 날에 생후 24개월 미만인 어린이 또는 영아는 출국세 납부가 면제됩니다."
+  - q: "환승 승객에게는 출국세가 어떻게 부과됩니까?"
+    a: "말레이시아의 국제공항에 도착하여 12시간을 초과하지 않는 환승 시간 내에 해외 목적지로 연결하는 항공 승객은 면제됩니다."
 
 lang: "ko"
 sourceContentHash: "5f586e52647f995b"
@@ -40,9 +40,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Sahkan kadar dan pengecualian masih terpakai pada 2026 — Panduan RMCD bertarikh 20 Ogos 2019; pastikan tiada pindaan kepada Akta Levi Pelepasan 2019 atau perintah-perintahnya sejak itu."
-  - "Sahkan bahawa pengecualian pengangkutan darat dan laut (peringkat pelaksanaan awal, di bawah kuasa Menteri Kewangan) masih berkuat kuasa pada 2026."
-  - "Sahkan prosedur tepat pendaftaran ejen dalam talian bagi pengendali asing yang tiada tempat perniagaan di Malaysia, serta pasangan borang DL-01 (pendaftaran) dan DL-02 (penyata pemungutan)."
+  - "세율과 면제가 2026년에도 여전히 적용되는지 확인하십시오 — RMCD 지침은 2019년 8월 20일자입니다. 그 이후 출국세법 2019(Departure Levy Act 2019) 또는 그 명령에 개정이 없었는지 확인하십시오."
+  - "육상 및 해상 운송에 대한 면제(초기 시행 단계, 재무부 장관의 권한에 따름)가 2026년에도 여전히 유효한지 확인하십시오."
+  - "말레이시아에 사업장이 없는 외국 운영자의 온라인 대리인 등록에 관한 정확한 절차, 그리고 양식 DL-01(등록)과 DL-02(징수 명세서) 조합을 확인하십시오."
 revisions:
   - revision: 0
     date: 2026-08-07

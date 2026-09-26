@@ -12,23 +12,23 @@ contentType: "guide"
 
 answer: "1Malaysia Development Berhad(1MDB)는 2009년에 설립된 말레이시아의 국영 투자 기금입니다. 미국 법무부에 따르면, 2009년부터 2015년 사이에 유령 회사 망을 통해 45억 달러 이상이 이 기금에서 횡령되었습니다. 이 사건은 여러 국가에 걸친 수사를 촉발하였고, 국민전선(Barisan Nasional)의 2018년 선거 패배에 기여하였으며, 전 총리 나집 라작(Najib Razak)의 기소로 이어졌습니다. 나집 라작은 관련 사건에서 2020년에, 그리고 본안 1MDB 재판에서 2025년 12월에 유죄 판결을 받았으며 — 그는 이 판결들에 항소하였습니다."
 keyTakeaways:
-  - "1MDB was a state investment fund set up in 2009; the U.S. Department of Justice says over US$4.5 billion was misappropriated from it (2009–2015)."
-  - "It became one of the world's largest financial scandals, prompting money-laundering investigations in the U.S., Singapore, Switzerland and elsewhere."
-  - "The financier Low Taek Jho ('Jho Low') is a central figure and remains a fugitive."
-  - "The scandal contributed to Barisan Nasional's defeat in the 2018 general election."
-  - "Former PM Najib Razak was convicted in the related SRC International case (2020) and, in the main 1MDB trial, in December 2025; he has filed appeals."
-  - "The U.S. Department of Justice recovered or assisted in recovering about US$1.1 billion in linked assets."
+  - "1MDB는 2009년에 설립된 국영 투자펀드로, 미국 법무부(U.S. Department of Justice)는 이 펀드에서 45억 달러 이상이 횡령되었다고 밝히고 있습니다(2009~2015년)."
+  - "이는 세계 최대 규모의 금융 스캔들 가운데 하나가 되었으며, 미국, 싱가포르, 스위스 등지에서 자금세탁 수사를 촉발하였습니다."
+  - "금융인 로 택 조(Low Taek Jho, 통칭 조 로)는 이 사건의 핵심 인물이며 여전히 도피 중입니다."
+  - "이 스캔들은 2018년 총선에서 국민전선(Barisan Nasional)의 패배에 영향을 미쳤습니다."
+  - "나집 라작(Najib Razak) 전 총리는 관련 SRC International 사건에서 유죄 판결을 받았고(2020년), 2025년 12월 주요 1MDB 재판에서도 유죄 판결을 받았으며, 항소를 제기하였습니다."
+  - "미국 법무부(U.S. Department of Justice)는 관련 자산 약 11억 달러를 회수하거나 회수를 지원하였습니다."
 
 faq:
-  - q: "What was 1MDB?"
-    a: "1Malaysia Development Berhad, a Malaysian government-owned strategic investment fund established in 2009 to promote economic development."
-  - q: "How much money was involved?"
-    a: "The U.S. Department of Justice states that more than US$4.5 billion was misappropriated from 1MDB between 2009 and 2015."
-  - q: "What happened to those responsible?"
-    a: "Multiple prosecutions followed in Malaysia and abroad. Former Prime Minister Najib Razak was convicted in the related SRC International case (2020) and in the main 1MDB trial (December 2025), and has appealed; the financier Jho Low remains a fugitive. As criminal cases and appeals continue, this is a live legal matter."
+  - q: "1MDB란 무엇이었습니까?"
+    a: "1Malaysia Development Berhad로, 경제 발전을 촉진하기 위해 2009년에 설립된 말레이시아 정부 소유의 전략적 투자펀드였습니다."
+  - q: "얼마의 자금이 관련되었습니까?"
+    a: "미국 법무부(U.S. Department of Justice)는 2009년부터 2015년 사이에 1MDB에서 45억 달러 이상이 횡령되었다고 밝히고 있습니다."
+  - q: "책임자들은 어떻게 되었습니까?"
+    a: "말레이시아와 해외에서 여러 건의 기소가 뒤따랐습니다. 나집 라작(Najib Razak) 전 총리는 관련 SRC International 사건(2020년)과 주요 1MDB 재판(2025년 12월)에서 유죄 판결을 받고 항소하였으며, 금융인 조 로(Jho Low)는 여전히 도피 중입니다. 형사 사건과 항소가 계속되고 있어 이는 진행 중인 법적 사안입니다."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal sign-off before publication (legal-proceedings). Key facts have been checked against reputable sources: the 26 Dec 2025 main-1MDB conviction and 15-year/RM11.4b sentence (CNN, Al Jazeera, PBS, Malay Mail), the 30 Dec 2025 appeal (Malay Mail), the Feb 2024 halving of the SRC sentence (CNN), the DOJ US$4.5b/US$1.1b figures (DOJ), and Jho Low's fugitive status. All convictions are under appeal and are described as such. A qualified human reviewer should still confirm current status before publishing, as it is a live matter."
+  - "민감 / 발행 전 사람과 법률 검토의 승인이 필요함(법적 절차). 핵심 사실은 신뢰할 수 있는 자료와 대조하여 확인되었습니다: 2025년 12월 26일 주요 1MDB 유죄 판결과 징역 15년·RM11.4b 선고(CNN, Al Jazeera, PBS, Malay Mail), 2025년 12월 30일 항소(Malay Mail), 2024년 2월 SRC 형량의 절반 감형(CNN), 미국 법무부(DOJ)의 US$4.5b/US$1.1b 수치(DOJ), 그리고 조 로(Jho Low)의 도피 상태. 모든 유죄 판결은 항소 중이며 그와 같이 기술되어 있습니다. 진행 중인 사안이므로 발행 전 자격을 갖춘 사람 검토자가 현재 상태를 다시 확인하여야 합니다."
 
 lang: "ko"
 sourceContentHash: "ccd0acf0bc2157a5"

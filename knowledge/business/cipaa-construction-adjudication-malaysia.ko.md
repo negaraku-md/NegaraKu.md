@@ -2,7 +2,7 @@
 topicId: MY-BIZ-0109
 title: "CIPAA: 건설 대금 분쟁을 위한 법정 판정"
 seoTitle: "CIPAA 말레이시아: 건설 판정 해설"
-socialTitle: "An adjudicator who decides one day late produces a decision that is void. CIPAA runs on a stopwatch."
+socialTitle: "재정인이 하루라도 늦게 결정하면 그 결정은 무효가 됩니다. CIPAA는 스톱워치로 돌아갑니다."
 slug: "cipaa-construction-adjudication-malaysia"
 category: "business"
 subcategory: ["contracts-disputes"]
@@ -15,20 +15,20 @@ sensitivity: "none"
 
 answer: "CIPAA 2012는 말레이시아의 서면 건설 계약의 당사자 누구에게나 미지급 금액을 회수하는 신속한 법정 경로를 제공합니다. 대금 청구를 송달하고, 그것이 지급되지 않으면 분쟁은 AIAC가 관리하는 판정인(adjudicator)에게 넘어가며, 판정인은 45영업일 이내에 결정을 내려야 합니다. 2026년 1월 1일부터 2025년 개정 규칙과 함께 시행된 (개정)법 2024(Act A1738)는 단순한 명칭 변경이 아니라 실질적 개편입니다. 'KLRCA'를 'AIAC'로 대체하는 것과 더불어, 판정 시한을 엄격히 하고(연장은 이제 양 당사자와 판정인의 동의를 요함), 강화된 대금 통지 요건과 소정 서식을 추가하며, 핵심 정의를 명확히 하고 확대하며, 집행 경로를 강화합니다."
 keyTakeaways:
-  - "CIPAA applies to written construction contracts in Malaysia and offers an alternative to arbitration or court"
-  - "Section 6 gives the non-paying party 10 working days to serve a payment response, or the whole claim is deemed disputed"
-  - "If parties cannot agree an adjudicator within 10 working days, the AIAC appoints one within 5 working days"
-  - "Section 12 requires the adjudicator to decide within 45 working days — a decision made outside that period is void"
-  - "Act A1738 and the 2025 Regulations, effective 1 January 2026, are substantive: they rename KLRCA as AIAC, tighten the timeline and extension rules, mandate new prescribed forms, expand definitions and strengthen enforcement"
-appliesTo: "Contractors, subcontractors, consultants, suppliers and employers on Malaysian construction projects who need to recover — or who are defending — a payment claim."
+  - "CIPAA는 말레이시아의 서면 건설계약에 적용되며 중재나 소송의 대안을 제공합니다"
+  - "제6조는 대금을 지급하지 않는 당사자에게 대금 답변서를 송달할 10영업일을 부여하며, 그렇지 않으면 청구 전체가 다투어진 것으로 간주됩니다"
+  - "당사자가 10영업일 이내에 재정인을 합의하지 못하면, AIAC가 5영업일 이내에 재정인을 선임합니다"
+  - "제12조는 재정인이 45영업일 이내에 결정하도록 요구하며 — 그 기간을 벗어나 내려진 결정은 무효입니다"
+  - "2026년 1월 1일 시행되는 Act A1738과 2025년 규정은 실질적인 개정입니다: KLRCA를 AIAC로 개칭하고, 기한 및 연장 규칙을 강화하며, 새로운 법정 서식을 의무화하고, 정의를 확대하며, 집행을 강화합니다"
+appliesTo: "대금 청구를 회수하려 하거나 이를 방어하는, 말레이시아 건설 프로젝트의 계약자, 하도급업체, 컨설턴트, 공급업체 및 발주자에게 적용됩니다."
 
 faq:
-  - q: "How long does a CIPAA adjudication take?"
-    a: "The adjudicator must deliver the decision within 45 working days of the response or reply being served (or of the deadline for the response passing). Added to the earlier exchange of claim, response and reply, a straightforward reference runs to a few months end to end."
-  - q: "Is the adjudicator's decision final?"
-    a: "It is binding and enforceable, but temporarily so. A party can still take the same dispute to arbitration or court, which can produce a different final result; until then the decision stands and can be enforced."
-  - q: "Did the 2026 amendment change the adjudication process?"
-    a: "Yes — it is more than a renaming. Act A1738 and the 2025 Amendment Regulations, in force from 1 January 2026, replace 'KLRCA' with 'AIAC', tighten the adjudication timeline so extensions now require the consent of both parties and the adjudicator, introduce enhanced payment-notice requirements and prescribed forms, expand key definitions to reduce jurisdictional disputes, and strengthen the enforcement route. The core 45-working-day decision framework remains, but the surrounding procedure has changed, so use the current AIAC forms."
+  - q: "CIPAA 재정(裁定)에는 얼마나 걸립니까?"
+    a: "재정인은 답변서 또는 재답변서가 송달된 날(또는 답변 기한이 경과한 날)로부터 45영업일 이내에 결정을 내려야 합니다. 앞선 청구·답변·재답변의 교환까지 더하면, 단순한 사건은 처음부터 끝까지 몇 개월이 소요됩니다."
+  - q: "재정인의 결정은 최종적입니까?"
+    a: "구속력이 있고 집행 가능하지만 잠정적입니다. 당사자는 동일한 분쟁을 여전히 중재나 소송에 회부할 수 있으며 그 결과 다른 최종 결론이 나올 수 있습니다. 그때까지 결정은 유효하며 집행할 수 있습니다."
+  - q: "2026년 개정이 재정 절차를 바꾸었습니까?"
+    a: "예 — 단순한 개칭 이상입니다. 2026년 1월 1일부터 시행되는 Act A1738과 2025년 개정규정은 「KLRCA」를 「AIAC」로 바꾸고, 재정 기한을 강화하여 이제 연장에는 양 당사자와 재정인의 동의가 필요하며, 강화된 대금 통지 요건과 법정 서식을 도입하고, 관할 분쟁을 줄이기 위해 핵심 정의를 확대하며, 집행 경로를 강화합니다. 핵심인 45영업일 결정 체계는 유지되지만 그 주변 절차가 바뀌었으므로 현행 AIAC 서식을 사용하십시오."
 
 lang: "ko"
 sourceContentHash: "e21cf5dfaabc98af"
@@ -48,11 +48,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact gazette date and P.U.(A) number of the Construction Industry Payment and Adjudication (Amendment) Regulations 2025 — practitioner sources give 24 December 2025, but at least one page states 13 October 2025; confirm against the Federal Gazette."
-  - "Whether Act A1738 retained the section 12 45-working-day decision period and its 'void if made late' consequence unchanged, or altered them (sources describe 'tighter default periods; extension requires consent of parties and adjudicator')."
-  - "The precise substantive amendments to the section 5 payment claim and section 6 payment response, and the prescribed forms mandated by the 2025 Regulations."
-  - "Confirm the 'Director'-to-'President' renaming against the gazetted text of Act A1738 (currently supported only by law-firm commentary)."
-  - "The exact scope of the 'clarified and expanded definitions' and the 'strengthened enforcement route / clearer grounds for setting aside' described in secondary sources."
+  - "건설산업대금지급및재정(개정)규정 2025(Construction Industry Payment and Adjudication (Amendment) Regulations 2025)의 정확한 관보 게재일과 P.U.(A) 번호 — 실무 자료는 2025년 12월 24일로 제시하나 적어도 한 페이지는 2025년 10월 13일이라고 기재하고 있으므로, 연방 관보에서 확인해야 합니다."
+  - "Act A1738이 제12조의 45영업일 결정 기간과 「기한 경과 시 무효」라는 효과를 변경 없이 유지했는지, 아니면 이를 변경했는지 여부(자료들은 「기본 기간의 단축, 연장에는 당사자와 재정인의 동의 필요」로 기술하고 있습니다)."
+  - "제5조 대금 청구와 제6조 대금 답변에 대한 정확한 실질적 개정 내용, 그리고 2025년 규정이 의무화한 법정 서식."
+  - "「Director」에서 「President」로의 명칭 변경을 Act A1738의 관보 게재 본문과 대조하여 확인해야 합니다(현재는 로펌 해설로만 뒷받침됩니다)."
+  - "2차 자료가 기술하는 「명확화·확대된 정의」와 「강화된 집행 경로/취소 사유의 명확화」의 정확한 범위."
 
 updated: 2026-08-07
 sources:

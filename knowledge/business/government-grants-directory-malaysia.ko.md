@@ -14,23 +14,23 @@ sensitivity: "none"
 
 answer: "말레이시아 기업은 다양한 정부 자금을 활용할 수 있지만, '보조금(grant)'이라는 명칭은 매우 다른 것들을 숨기고 있습니다. 진정한 보조금 또는 매칭 보조금에는 Cradle의 CIP Spark(최대 RM150,000)와 CIP Sprint(최대 RM600,000), 그리고 MDEC의 말레이시아 디지털 촉매 보조금(비용의 최대 50%, RM1백만 상한)이 포함됩니다. 다른 것들은 실제로는 대출(Malaysia Debt Ventures), 지분(MTDC의 Business Growth Fund), 또는 본인 지출에 대한 환급(HRD Corp, MATRADE)입니다. 금액과 개시/마감 상태는 최소 매년 바뀌므로, 신청 전에 각각을 주관 기관에 대조하여 확인하십시오."
 keyTakeaways:
-  - "Cradle CIP Spark funds early-stage tech startups up to RM150,000; CIP Sprint funds commercialisation up to RM600,000 — both conditional grants with clawback on termination."
-  - "MDEC's Malaysia Digital Catalyst Grant co-funds up to 50% of a digital project, capped at RM1 million; the older Malaysia Digital Acceleration Grant (MDAG) is closed to new applications."
-  - "Read the label carefully: Malaysia Debt Ventures lends, MTDC's Business Growth Fund takes equity, and HRD Corp and MATRADE grants reimburse money you have already committed — none are free cash."
-  - "Grant amounts and open/closed windows change at least annually, usually with the Budget — always confirm current terms on the administering agency's own site before applying."
-appliesTo: "Startup founders and SME owners seeking government funding; anyone comparing grants, matching grants, loans and equity across Malaysian agencies."
+  - "Cradle CIP Spark는 초기 단계 기술 스타트업에 최대 RM150,000을, CIP Sprint는 상용화에 최대 RM600,000을 지원합니다 — 둘 다 종료 시 환수가 따르는 조건부 보조금입니다."
+  - "MDEC의 말레이시아 디지털 카탈리스트 그랜트(Malaysia Digital Catalyst Grant)는 디지털 프로젝트의 최대 50%를 공동 지원하며 상한은 RM1 million입니다; 구(舊) 말레이시아 디지털 액셀러레이션 그랜트(MDAG)는 신규 신청이 마감되었습니다."
+  - "명칭을 주의 깊게 읽으십시오: 말레이시아 데트 벤처스(Malaysia Debt Ventures)는 대출하고, MTDC의 사업성장기금(Business Growth Fund)은 지분에 투자하며, HRD Corp과 MATRADE 보조금은 이미 지출을 약정한 금액을 사후 정산합니다 — 어느 것도 공짜 현금이 아닙니다."
+  - "보조금 금액과 개시/마감 기간은 적어도 매년, 대개 예산안과 함께 변경됩니다 — 신청 전에 항상 관장 기관의 자체 사이트에서 현행 조건을 확인하십시오."
+appliesTo: "정부 자금 지원을 찾는 스타트업 창업자와 중소기업 소유자; 그리고 말레이시아 기관들의 보조금, 매칭 보조금, 대출, 지분을 비교하는 모든 사람에게 적용됩니다."
 
 faq:
-  - q: "What government grants can a Malaysian startup apply for?"
-    a: "The best-known early-stage grants come from Cradle Fund: CIP Spark provides up to RM150,000 for ideation-to-prototype tech startups, and CIP Sprint up to RM600,000 for commercialisation. MDEC's Malaysia Digital Catalyst Grant co-funds digital solutions up to a RM1 million ceiling, and MRANTI's Strategic Research Fund supports research commercialisation. Most require the company to be majority Malaysian-owned and within a certain age and revenue limit."
-  - q: "Is a government grant free money?"
-    a: "Not always. A true grant is non-repayable, and a matching grant covers a percentage if you fund the rest. But many programmes labelled 'grant' are different: Cradle's CIP grants are conditional and can be clawed back on termination; HRD Corp training grants reimburse you from your own levy contributions; MATRADE's Market Development Grant reimburses export-promotion spend you have already made; and Malaysia Debt Ventures actually lends money. Always check the repayment and clawback terms."
-  - q: "What is the SME digitalisation grant in Malaysia?"
-    a: "The current flagship is the MSME Digital Grant MADANI, delivered with MDEC and Bank Simpanan Nasional, which reimburses 50% of the cost of approved digital tools (commonly up to RM5,000) for eligible micro, small and medium enterprises, applied for through a registered technology solution provider. Confirm the current amount and eligibility on the official BSN/MDEC page, as the terms are renewed and adjusted with each Budget."
-  - q: "What is the difference between the two 'MDG' grants?"
-    a: "The abbreviation is used for two unrelated programmes. The Market Development Grant (MDG) is a MATRADE export-promotion grant that reimburses eligible overseas-marketing costs up to a lifetime cap. Separately, digitalisation funding is now delivered as the MSME Digital Grant MADANI, not the older 'SME Digitalisation Grant' branding. They fund completely different things — do not confuse them."
-  - q: "Where do I find grants that are actually still open?"
-    a: "Go to the administering agency's own website — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — rather than third-party listicles, which frequently keep closed programmes listed as available. The government also runs an aggregated directory at the MyStartup national-fundings portal. Grant windows change with the annual Budget, so confirm the current status before you invest time in an application."
+  - q: "말레이시아 스타트업은 어떤 정부 보조금을 신청할 수 있습니까?"
+    a: "가장 잘 알려진 초기 단계 보조금은 Cradle 펀드에서 나옵니다: CIP Spark는 아이디어 단계에서 프로토타입 단계에 이르는 기술 스타트업에 최대 RM150,000을, CIP Sprint는 상용화에 최대 RM600,000을 제공합니다. MDEC의 말레이시아 디지털 카탈리스트 그랜트는 디지털 솔루션을 최대 RM1 million 상한까지 공동 지원하며, MRANTI의 전략연구기금(Strategic Research Fund)은 연구 상용화를 지원합니다. 대부분은 회사가 말레이시아인 과반 소유이고 일정 업력·매출 한도 이내일 것을 요구합니다."
+  - q: "정부 보조금은 공짜 돈입니까?"
+    a: "항상 그런 것은 아닙니다. 진정한 보조금은 상환 의무가 없으며, 매칭 보조금은 나머지를 귀하가 부담하면 일정 비율을 지원합니다. 그러나 「보조금」으로 표시된 많은 프로그램은 다릅니다: Cradle의 CIP 보조금은 조건부이며 종료 시 환수될 수 있고; HRD Corp 훈련 보조금은 귀하 자신의 부담금에서 사후 정산되며; MATRADE의 시장개발보조금(Market Development Grant)은 귀하가 이미 지출한 수출 촉진 비용을 사후 정산하고; 말레이시아 데트 벤처스는 실제로 자금을 대출합니다. 상환 및 환수 조건을 항상 확인하십시오."
+  - q: "말레이시아의 중소기업 디지털화 보조금이란 무엇입니까?"
+    a: "현재 대표적인 것은 MDEC 및 국립저축은행(Bank Simpanan Nasional)과 함께 시행하는 MSME 디지털 그랜트 마다니(MSME Digital Grant MADANI)로, 적격 영세·소·중기업을 대상으로 승인된 디지털 도구 비용의 50%(통상 최대 RM5,000)를 등록된 기술 솔루션 제공자를 통해 사후 정산합니다. 조건이 예산안마다 갱신·조정되므로 현행 금액과 적격성을 공식 BSN/MDEC 페이지에서 확인하십시오."
+  - q: "두 가지 「MDG」 보조금의 차이는 무엇입니까?"
+    a: "이 약칭은 서로 무관한 두 프로그램에 사용됩니다. 시장개발보조금(Market Development Grant, MDG)은 적격 해외 마케팅 비용을 생애 한도까지 사후 정산하는 MATRADE 수출 촉진 보조금입니다. 이와 별도로, 디지털화 자금 지원은 이제 구(舊) 「SME 디지털화 보조금」 명칭이 아니라 MSME 디지털 그랜트 마다니로 제공됩니다. 둘은 완전히 다른 것을 지원하므로 — 혼동하지 마십시오."
+  - q: "실제로 아직 열려 있는 보조금은 어디에서 찾습니까?"
+    a: "마감된 프로그램을 이용 가능한 것으로 계속 올려두는 경우가 잦은 제3자 목록 글이 아니라, 관장 기관의 자체 웹사이트 — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — 를 방문하십시오. 정부는 또한 MyStartup 국가 자금지원 포털에서 통합 디렉터리를 운영합니다. 보조금 기간은 연례 예산안과 함께 변경되므로, 신청에 시간을 들이기 전에 현행 상태를 확인하십시오."
 
 lang: "ko"
 sourceContentHash: "7466f2a7eef60107"
@@ -49,9 +49,9 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Cradle CIP Spark (up to RM150,000) and CIP Sprint (up to RM600,000) figures and eligibility were confirmed from cradle.com.my; MDEC MDCG (up to 50%/RM1 million ceiling) and MDAG (closed, deadline 28 July 2023) from mdec.my. Re-confirm all at publish time as programme cohorts open and close."
-  - "Several figures are secondary/SERP-only and must be re-verified against the official agency page before publishing as fact: SME Corp BAP 3.0 (50% up to RM400,000; official page returned 403); MSME Digital Grant MADANI (50%/RM5,000); MATRADE Market Development Grant lifetime cap (RM300,000 vs RM200,000 conflict); MTDC CRDF amounts (RM500,000 / RM4 million, 70%); MIDA DISF (only a 2018 guideline located); HRD Corp levy rate (1% / 0.5%). The MDEC MDCG minimum paid-up capital showed a RM50,000 vs RM500,000 discrepancy across sources — read the MDCG page carefully."
-  - "This is a fast-decaying topic: grant amounts, paid-up-capital minimums and open/closed windows change at least annually, usually with the October Budget. Every figure should carry a 'verified as of' stamp and any programme whose official page cannot be loaded fresh should be labelled status-unconfirmed."
+  - "Cradle CIP Spark(최대 RM150,000)와 CIP Sprint(최대 RM600,000) 수치 및 적격성은 cradle.com.my에서, MDEC MDCG(최대 50%/RM1 million 상한)와 MDAG(마감, 마감일 2023년 7월 28일)는 mdec.my에서 확인했습니다. 프로그램 기수가 열리고 닫히므로 게시 시점에 모두 재확인하십시오."
+  - "여러 수치는 2차 자료/검색 결과에만 근거하므로 사실로 게시하기 전에 공식 기관 페이지와 대조하여 재확인해야 합니다: SME Corp BAP 3.0(최대 RM400,000의 50%; 공식 페이지 403 반환); MSME 디지털 그랜트 마다니(50%/RM5,000); MATRADE 시장개발보조금 생애 한도(RM300,000 대 RM200,000 상충); MTDC CRDF 금액(RM500,000 / RM4 million, 70%); MIDA DISF(2018년 지침만 확인); HRD Corp 부담금 요율(1% / 0.5%). MDEC MDCG 최소 납입자본금은 출처 간 RM50,000 대 RM500,000의 불일치를 보였으므로 — MDCG 페이지를 주의 깊게 읽으십시오."
+  - "이는 빠르게 낡는 주제입니다: 보조금 금액, 최소 납입자본금, 개시/마감 기간이 적어도 매년, 대개 10월 예산안과 함께 변경됩니다. 모든 수치에는 「확인 시점」 표시를 달아야 하며, 공식 페이지를 새로 불러올 수 없는 프로그램은 상태 미확인으로 표시해야 합니다."
 
 updated: 2026-09-07
 sources:

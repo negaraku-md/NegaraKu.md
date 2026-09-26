@@ -12,16 +12,14 @@ contentType: "checklist"
 
 answer: "말레이시아 Sdn Bhd은 사원 등록부(s.50), 이사·관리자·비서 등록부(s.57), 이사 주식 보유 등록부(s.59), 부담 등록부(s.362), 실질 소유자 등록부(s.60B), 그리고 사원 결의 및 회의 기록(s.341)을 비치해야 합니다. 대부분은 등록 사무소에 비치해야 하며, 각각은 자체의 갱신 규칙과 SSM에 통지해야 하는 자체의 별도 의무를 가집니다."
 keyTakeaways:
-  - "Six core registers, each with its own statutory section and its own update rule"
-  - "Keeping the register and notifying SSM are always two separate duties with two separate penalties"
-  - "s.47(1) requires the registers to be kept at the registered office unless a notice moves them"
-  - "s.49(1) permits electronic records that can be reproduced in written form"
-  - "The registers feed the annual return under s.68(3) — reconcile before lodging, not after"
-appliesTo: "Company secretaries and directors responsible for a Malaysian Sdn Bhd's ongoing statutory records."
-
+  - "여섯 개의 핵심 등록부이며, 각각 고유의 법정 조항과 고유의 갱신 규칙을 가집니다"
+  - "등록부를 비치하는 것과 SSM에 통지하는 것은 항상 별도의 벌칙을 가진 두 개의 별도 의무입니다"
+  - "s.47(1)은 통지로 이전하지 않는 한 등록부를 등록사무소에 비치하도록 요구합니다"
+  - "s.49(1)은 서면 형태로 재현할 수 있는 전자적 기록을 허용합니다"
+  - "등록부는 s.68(3)에 따른 연차신고서의 근거가 됩니다 — 제출 후가 아니라 제출 전에 대조하십시오"
+appliesTo: "말레이시아 Sdn Bhd의 계속적인 법정 기록을 담당하는 회사 비서 및 이사."
 verificationNeeded:
-  - "Confirm the current SSM late lodgement fee scale for register-related notifications against the prevailing SSM practice directive on late lodgement penalties"
-
+  - "등록부 관련 통지의 현행 SSM 지연 제출 수수료 체계를 지연 제출 벌금에 관한 현행 SSM 실무지시와 대조하여 확인하십시오"
 lang: "ko"
 sourceContentHash: "ff4434b4487bfa3d"
 masterLanguage: "en"

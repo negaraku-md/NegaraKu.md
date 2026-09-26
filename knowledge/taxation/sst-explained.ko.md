@@ -14,12 +14,12 @@ sensitivity: "none"
 
 answer: "SST는 하나의 세금이 아닙니다. 판매세는 말레이시아에서 제조되거나 말레이시아로 수입되는 물품에 대한 단일 단계 세금으로, 등록 제조업자와 수입 시 세관이 부과합니다. 서비스세는 규정된 과세 서비스에 대한 별개의 단일 단계 세금으로, 서로 다른 세율과 서로 다른 등록 기준을 가진 그룹으로 구성됩니다. 두 세금은 서로 다른 법률, 서로 다른 등록 판정 기준, 서로 다른 면제 방식을 가지며, 대부분의 사업자는 둘 중 하나만 다룹니다."
 keyTakeaways:
-  - "Two taxes, two Acts — the Sales Tax Act 2018 and the Service Tax Act 2018"
-  - "There is no single SST rate and no single SST threshold; both vary by goods class or service group"
-  - "Neither tax has a general input tax credit — SST is not GST with a different name"
-  - "The 1 July 2025 expansion widened the service tax net considerably and reset several thresholds"
-  - "Buying services from outside Malaysia can make you liable even if you are not SST-registered"
-appliesTo: "Business owners and finance staff trying to work out which part of the SST regime applies to them."
+  - "두 개의 세금, 두 개의 법률 — 판매세법(Sales Tax Act 2018)과 서비스세법(Service Tax Act 2018)"
+  - "단일한 SST 세율도, 단일한 SST 기준액도 없으며, 둘 다 상품 등급 또는 서비스 그룹에 따라 다릅니다"
+  - "두 세금 모두 일반적인 매입세액공제가 없습니다 — SST는 이름만 바꾼 GST가 아닙니다"
+  - "2025년 7월 1일 확대는 서비스세의 과세 범위를 상당히 넓혔고 여러 기준액을 재설정했습니다"
+  - "말레이시아 밖에서 서비스를 구매하면 SST 등록자가 아니더라도 납세의무가 생길 수 있습니다"
+appliesTo: "SST 제도의 어느 부분이 자신에게 적용되는지 파악하려는 사업주와 재무 담당 직원."
 
 verificationNeeded: []
 

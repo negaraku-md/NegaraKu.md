@@ -14,23 +14,21 @@ sensitivity: "none"
 
 answer: "이사 또는 회사의 사원은 회사가 더 이상 사업을 영위하지 않거나 운영하지 않고, 자산과 부채가 없으며, 미납 세금이나 벌칙이 없고, 법적 절차에 관여하고 있지 않은 경우 회사법(Companies Act 2016) 제550조에 따라 회사 상호를 등록부에서 말소하도록 말레이시아 기업위원회(SSM)에 신청할 수 있습니다. 신청은 Corporate Registry System(CRS)을 통해 RM100의 수수료와 함께 사원 결의 및 관리 회계를 첨부하여 제출됩니다. 제551조 제(3)항에 따라 통지가 관보에 게재되면 회사는 해산됩니다. 어느 당사자든 SSM 지침(2026년 7월 14일 개정)에 따라 60일 이내에 이의를 제기할 수 있습니다."
 keyTakeaways:
-  - "Pemotongan nama (strike off) hanya untuk syarikat dorman tanpa aset dan tanggungan — ia bukan pengganti penggulungan sukarela jika syarikat masih memegang modal."
-  - "Sebelas syarat mesti dipenuhi di bawah perenggan 6 Garis Panduan SSM (Semakan 14 Julai 2026), termasuk resolusi ahli di bawah seksyen 290, tiada cas tertunggak, tiada pengisytiharan dividen, dan pelepasan cukai daripada LHDN."
-  - "Yuran permohonan ialah RM100 (Item 27); bantahan RM300 (Item 28); penarikan balik RM500 (Item 29) — Jadual Fi, Peraturan Syarikat 2017."
-  - "Mengikut Garis Panduan SSM (Semakan 14 Julai 2026), mana-mana orang boleh membantah dalam tempoh 60 hari dari tarikh notis di bawah subseksyen 551(1); SSM boleh menggantung proses selama satu tahun."
-  - "Selepas dibubarkan, tanggungan pengarah dan ahli masih boleh dikuatkuasakan, dan nama boleh dipulihkan oleh mahkamah dalam tempoh tujuh tahun."
-appliesTo: "Pengarah, pemegang saham, dan setiausaha syarikat yang menguruskan syarikat dorman Sdn Bhd atau Berhad di Malaysia yang ingin menamatkan kewujudannya secara rasmi."
-
+  - "명칭 말소(strike off)는 자산과 부채가 없는 휴면회사에만 해당합니다 — 회사가 여전히 자본을 보유하고 있는 경우 임의청산의 대체가 아닙니다."
+  - "SSM 지침(2026년 7월 14일 개정) 제6항에 따라 열한 가지 요건을 충족해야 하며, 여기에는 제290조에 따른 사원 결의, 미상환 담보의 부존재, 배당 선언의 부존재, 그리고 LHDN의 세무 정리(tax clearance)가 포함됩니다."
+  - "신청 수수료는 RM100(Item 27); 이의 RM300(Item 28); 철회 RM500(Item 29) — 2017년 회사규칙(Companies Regulations 2017) 수수료표."
+  - "SSM 지침(2026년 7월 14일 개정)에 따라, 누구든 제551(1)항에 따른 통지일부터 60일 이내에 이의를 제기할 수 있으며; SSM은 절차를 1년간 정지할 수 있습니다."
+  - "해산 후에도 이사와 사원의 책임은 여전히 집행될 수 있으며, 명칭은 7년 이내에 법원에 의하여 회복될 수 있습니다."
+appliesTo: "말레이시아에서 그 존재를 공식적으로 종료하려는 휴면 Sdn Bhd 또는 Berhad를 관리하는 이사, 주주 및 회사 비서."
 faq:
-  - q: "Apakah beza antara memotong nama syarikat dan penggulungan sukarela?"
-    a: "Pemotongan nama (strike off) di bawah seksyen 550 adalah proses pentadbiran yang lebih murah dan pantas untuk syarikat dorman yang tiada aset dan tanggungan. Penggulungan sukarela pula diperlukan apabila syarikat masih memegang modal atau mempunyai aset/tanggungan untuk diselesaikan — Garis Panduan SSM melarang pemotongan nama jika syarikat masih mempunyai modalnya."
-  - q: "Berapa lama proses pemotongan nama mengambil masa?"
-    a: "Tiada tempoh berkanun yang ditetapkan. Selepas SSM berpuas hati dan mengeluarkan notis, mana-mana pihak diberi 60 hari untuk membantah mengikut Garis Panduan SSM (Semakan 14 Julai 2026). Jika ada bantahan yang wajar, SSM boleh menggantung proses selama satu tahun. Syarikat hanya dibubarkan apabila notis diwartakan di bawah subseksyen 551(3)."
-  - q: "Bolehkah nama syarikat dipulihkan selepas dipotong?"
-    a: "Ya. Mana-mana orang yang terkilan boleh memohon kepada Mahkamah dalam tempoh tujuh tahun dari tarikh pembubaran untuk memulihkan nama syarikat ke dalam daftar di bawah subseksyen 555(1) Akta Syarikat 2016."
-  - q: "Adakah tanggungan pengarah terhapus selepas syarikat dibubarkan?"
-    a: "Tidak. Menurut seksyen 554(1)(a), tanggungan setiap pengarah, pegawai atau ahli syarikat berterusan dan boleh dikuatkuasakan seolah-olah syarikat tidak dibubarkan. Pengarah juga wajib menyimpan rekod syarikat selama tujuh tahun selepas pemotongan."
-
+  - q: "회사 명칭 말소와 임의청산의 차이는 무엇입니까?"
+    a: "제550조에 따른 명칭 말소(strike off)는 자산과 부채가 없는 휴면회사를 위한 더 저렴하고 빠른 행정 절차입니다. 반면 임의청산은 회사가 여전히 자본을 보유하고 있거나 정리할 자산/부채가 있는 경우에 필요합니다 — SSM 지침은 회사가 여전히 자본을 보유하고 있는 경우 명칭 말소를 금지합니다."
+  - q: "명칭 말소 절차는 얼마나 걸립니까?"
+    a: "정해진 법정 기간은 없습니다. SSM이 만족하여 통지를 발부한 후, SSM 지침(2026년 7월 14일 개정)에 따라 누구든 이의를 제기할 60일이 부여됩니다. 정당한 이의가 있으면 SSM은 절차를 1년간 정지할 수 있습니다. 회사는 제551(3)항에 따라 통지가 관보에 게재될 때에만 해산됩니다."
+  - q: "말소된 후 회사 명칭을 회복할 수 있습니까?"
+    a: "예. 불이익을 받은 모든 사람은 해산일부터 7년 이내에 회사법(Companies Act 2016) 제555(1)항에 따라 회사 명칭을 등록부에 회복하도록 법원에 신청할 수 있습니다."
+  - q: "회사가 해산된 후 이사의 책임이 소멸합니까?"
+    a: "아닙니다. 제554(1)(a)조에 따라 회사의 모든 이사, 임원 또는 사원의 책임은 계속되며 회사가 해산되지 않은 것처럼 집행될 수 있습니다. 이사는 또한 말소 후 7년간 회사 기록을 보관해야 합니다."
 lang: "ko"
 sourceContentHash: "bd012809619da49e"
 masterLanguage: "ms"
@@ -49,9 +47,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tempoh bantahan/penarikan balik 60 hari: Garis Panduan SSM (Semakan 14 Julai 2026) perenggan 11 dan 13 menyatakan 'enam puluh hari', tetapi Akta Syarikat 2016 subseksyen 552(1) (cetakan semula 1.8.2022) dan beberapa sumber sekunder masih menyebut 30 hari. Sahkan sama ada seksyen 551/552 telah dipinda (contohnya melalui Akta Syarikat (Pindaan) 2024) supaya 60 hari yang terpakai."
-  - "Sahkan nombor/format borang CRS dan Jadual Fi terkini di portal SSM sebelum memfailkan permohonan sebenar."
-  - "Sumber sekunder (Allen & Gledhill dan MahWengKwai) memerihalkan versi 2019 (10 syarat, 30 hari) yang telah digantikan; dikekalkan sebagai latar belakang sahaja."
+  - "이의/철회 기간 60일: SSM 지침(2026년 7월 14일 개정) 제11항과 제13항은 「60일(enam puluh hari)」을 명시하나, 회사법(Companies Act 2016) 제552(1)항(2022년 8월 1일 재인쇄본)과 일부 2차 자료는 여전히 30일을 언급합니다. 60일이 적용되도록 제551/552조가 개정되었는지(예: 2024년 회사(개정)법(Companies (Amendment) Act 2024)을 통해) 확인하십시오."
+  - "실제 신청을 제출하기 전에 SSM 포털에서 CRS 양식의 번호/형식과 최신 수수료표를 확인하십시오."
+  - "2차 자료(Allen & Gledhill 및 MahWengKwai)는 대체된 2019년 판(10개 요건, 30일)을 설명하며; 배경으로만 유지됩니다."
 updated: 2026-08-07
 sources:
   - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"

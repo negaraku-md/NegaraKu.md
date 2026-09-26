@@ -14,24 +14,22 @@ sensitivity: "none"
 
 answer: "해외에서 설립된 회사는 회사법(Companies Act 2016) s.562에 따라 말레이시아 기업위원회(SSM)에 외국회사로 등록하기 전에는 말레이시아에서 영업할 수 없습니다. 등록은 새로운 회사가 아니라 동일한 법인의 지점을 만드는 것이므로, 회사는 말레이시아 거주 대리인을 최소 한 명 선임하고, 말레이시아에 등록사무소를 유지하며, 매년 연차보고서와 재무제표를 제출해야 합니다. 일회성 등록 수수료는 모회사의 주식자본에 따라 차등 적용되어 RM5,000부터 최대 RM70,000까지입니다."
 keyTakeaways:
-  - "Section 561 bars a foreign company from carrying on business in Malaysia unless it is registered; section 562 sets out the registration application and documents."
-  - "A branch is the same legal person as its overseas parent, so the parent bears all the branch's liabilities."
-  - "The registration fee is tiered to the parent's share capital: RM5,000 up to RM1m, rising to RM70,000 above RM100m, with a flat RM70,000 where there is no share capital."
-  - "The branch must appoint a Malaysia-resident agent (section 563) and lodge an annual return (section 576) each calendar year."
-appliesTo: "Overseas companies planning to trade in Malaysia, and the corporate secretaries, agents and advisers who set up and maintain their branch registrations."
-
+  - "제561조는 외국회사가 등록되지 않은 한 말레이시아에서 사업을 영위하는 것을 금지하며, 제562조는 등록 신청과 서류를 규정합니다."
+  - "지점은 해외 모회사와 동일한 법인격이므로, 모회사가 지점의 모든 책임을 부담합니다."
+  - "등록 수수료는 모회사의 주식자본에 따라 차등화됩니다: RM1m 이하는 RM5,000, RM100m 초과는 RM70,000까지 상승하며, 주식자본이 없는 경우 일률적으로 RM70,000입니다."
+  - "지점은 말레이시아 거주 대리인을 선임하고(제563조) 매 역년마다 연차신고서를 제출해야 합니다(제576조)."
+appliesTo: "말레이시아에서 사업을 하려는 해외 회사, 그리고 그 지점 등록을 설정하고 유지하는 회사 비서, 대리인 및 자문역."
 faq:
-  - q: "Is a registered branch a separate legal entity from its overseas parent?"
-    a: "No. A branch is an extension of the same foreign company, so it must carry on the parent's business and the parent remains liable for the branch's debts and obligations. To ring-fence liability you must incorporate a separate local company (Sdn Bhd) instead."
-  - q: "Who can be the local agent of a foreign company?"
-    a: "Under section 563 the foreign company must have at least one agent who is resident in Malaysia, appointed by a memorandum of appointment or power of attorney. The agent is answerable for the company's compliance and can be personally liable for penalties imposed on the company."
-  - q: "How much does it cost to register a foreign company with SSM?"
-    a: "The registration fee is set by reference to the parent company's share capital, ranging from RM5,000 (share capital up to RM1 million) to RM70,000 (above RM100 million). A foreign company with no share capital pays a flat RM70,000."
-  - q: "Must a branch use the same name as the overseas parent?"
-    a: "Yes. The branch registers under the parent company's existing name, which is first cleared through an SSM name search. It cannot adopt a different trading name at registration."
-  - q: "What must a branch file every year?"
-    a: "A registered foreign company must lodge an annual return within 30 days of its registration anniversary (section 576) and file financial statements with SSM (section 575), in addition to keeping its registered office and agent details current."
-
+  - q: "등록된 지점은 해외 모회사와 별개의 법인입니까?"
+    a: "아닙니다. 지점은 동일한 외국회사의 연장이므로 모회사의 사업을 영위해야 하고 모회사가 지점의 채무와 의무에 대하여 계속 책임을 집니다. 책임을 분리하려면 대신 별도의 현지 회사(Sdn Bhd)를 설립해야 합니다."
+  - q: "외국회사의 현지 대리인은 누가 될 수 있습니까?"
+    a: "제563조에 따라 외국회사는 선임 각서 또는 위임장으로 선임된, 말레이시아에 거주하는 대리인을 최소 1명 두어야 합니다. 대리인은 회사의 준수에 대하여 책임을 지며 회사에 부과된 벌칙에 대하여 개인적으로 책임을 질 수 있습니다."
+  - q: "SSM에 외국회사를 등록하는 비용은 얼마입니까?"
+    a: "등록 수수료는 모회사의 주식자본을 기준으로 정해지며, RM5,000(주식자본 RM1,000,000 이하)부터 RM70,000(RM100,000,000 초과)까지입니다. 주식자본이 없는 외국회사는 일률적으로 RM70,000을 납부합니다."
+  - q: "지점은 해외 모회사와 동일한 명칭을 사용해야 합니까?"
+    a: "예. 지점은 먼저 SSM 명칭 검색을 통해 확인된, 모회사의 기존 명칭으로 등록합니다. 등록 시 다른 상호를 채택할 수 없습니다."
+  - q: "지점은 매년 무엇을 제출해야 합니까?"
+    a: "등록된 외국회사는 등록 기념일부터 30일 이내에 연차신고서를 제출하고(제576조) SSM에 재무제표를 제출해야 하며(제575조), 이에 더하여 등록사무소와 대리인 정보를 최신으로 유지해야 합니다."
 lang: "ko"
 sourceContentHash: "76459d3892f48c61"
 masterLanguage: "en"
@@ -44,7 +42,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Whether a specific planned activity actually amounts to 'carrying on business' under section 561(3) for the entity in question."
+  - "특정 계획된 활동이 해당 법인에 대하여 제561(3)조상의 「사업 영위(carrying on business)」에 실제로 해당하는지 여부."
 revisions:
   - revision: 0
     date: 2026-08-07

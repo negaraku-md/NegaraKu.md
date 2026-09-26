@@ -14,24 +14,22 @@ sensitivity: "none"
 
 answer: "종업원 주식매수선택권 제도(ESOS)는 종업원에게 정해진 가격으로 주식을 매수할 권리를 부여합니다. 회사법(Companies Act 2016)에 따라 이사는 선택권을 부여하기 위해 주주의 승인(제75조)이 필요하고, 제85조 우선인수권이 배제되어야 합니다. 부르사(Bursa) 상장회사의 경우 ESOS는 발행 주식의 15%로 제한되고, 10%를 넘지 않는 할인으로 가격이 정해지며, 10년으로 한정됩니다. 그 급부는 행사 연도에 부가급여로 종업원에게 과세됩니다 — 선택권이 처음 행사 가능하게 된 때 또는 행사된 때의 시장가치 중 낮은 것에서, 지급한 가격을 뺀 것입니다."
 keyTakeaways:
-  - "Granting options needs shareholder approval under Companies Act 2016 section 75, and a waiver of section 85 pre-emptive rights so option shares can go to employees."
-  - "For a listed company, Bursa caps an ESOS at 15% of issued shares, allows a discount of no more than 10%, and limits the scheme to 10 years."
-  - "The taxable perquisite is the LOWER of the market value on the date the option first became exercisable or on the exercise date, minus the price paid — not simply the value at exercise."
-  - "The benefit is taxed in the year of exercise; the employer must notify LHDN within 30 days of the acceptance period closing. A later capital gain on sale is not taxed on the employee."
-appliesTo: "Company secretaries, founders and HR/finance teams designing or administering an employee share or option scheme; employees trying to understand how their options are taxed."
-
+  - "옵션 부여에는 회사법(Companies Act 2016) s.75에 따른 주주 승인과, 옵션 주식이 근로자에게 갈 수 있도록 s.85 신주인수권의 포기가 필요합니다."
+  - "상장회사의 경우, 부르사(Bursa)는 ESOS를 발행 주식의 15%로 제한하고, 10% 이하의 할인을 허용하며, 제도를 10년으로 제한합니다."
+  - "과세 대상 급여성 이익은 옵션이 처음 행사 가능해진 날 또는 행사일의 시장가치 중 더 낮은 금액에서 지급한 가격을 뺀 것이며 — 단순히 행사 시점의 가치가 아닙니다."
+  - "이 이익은 행사 연도에 과세되며, 사용자는 수락 기간 종료 후 30일 이내에 LHDN에 통지해야 합니다. 이후 매각에 따른 자본이득은 근로자에게 과세되지 않습니다."
+appliesTo: "근로자 주식 또는 옵션 제도를 설계하거나 운영하는 회사 비서, 창업자 및 인사/재무 팀, 그리고 자신의 옵션이 어떻게 과세되는지 이해하려는 근로자."
 faq:
-  - q: "What approvals does a company need to grant share options in Malaysia?"
-    a: "Under section 75 of the Companies Act 2016, directors cannot grant rights to subscribe for shares, or allot shares, without prior shareholder approval by resolution. The company must also deal with section 85 pre-emptive rights: because those rights would otherwise require new shares to be offered first to existing members, they must be dis-applied — through the constitution or a members' resolution — so the option shares can be issued to employees instead."
-  - q: "How is an employee share option taxed in Malaysia?"
-    a: "It is taxed as a perquisite from employment under paragraph 13(1)(a) of the Income Tax Act 1967, in the year the option is exercised. The taxable amount is the lower of the market value of the share on the date the scheme first became exercisable or the market value on the date it is actually exercised, minus the price the employee paid. That perquisite is added to the employee's employment income for the year of exercise."
-  - q: "Is the gain when I later sell ESOS shares taxable?"
-    a: "For the employee, no. The tax is charged once, on the perquisite at exercise. Any subsequent gain when the shares are sold does not have tax consequences for the employee under the share-scheme rules — the employee has already been taxed on the benefit at the point of acquiring the shares."
-  - q: "What is the maximum size of an ESOS for a listed company?"
-    a: "Under the Bursa Malaysia Main Market Listing Requirements, the total number of shares issuable under a share issuance scheme must not exceed 15% of the company's total issued shares (excluding treasury shares) at any one time. The option price may be set at a discount of no more than 10% to the 5-day weighted average market price, and the scheme may run for no more than 10 years."
-  - q: "What must the employer report to LHDN for an ESOS?"
-    a: "Within 30 days after the option acceptance period expires, the employer must notify the Inland Revenue Board of the scheme (a notification under section 83 of the Income Tax Act 1967). When an employee exercises, the employer reports the perquisite in that employee's EA form for the year, submits the exercise details to its LHDN branch, and deducts tax through the monthly tax deduction (or a CP38 directive) in the month of exercise."
-
+  - q: "말레이시아에서 회사가 주식 옵션을 부여하려면 어떤 승인이 필요합니까?"
+    a: "회사법(Companies Act 2016) s.75에 따라, 이사는 사전 주주 결의 승인 없이는 주식을 인수할 권리를 부여하거나 주식을 배정할 수 없습니다. 회사는 또한 s.85 신주인수권을 처리해야 합니다. 그 권리는 그대로 두면 신주가 먼저 기존 사원에게 제공되도록 요구하므로, 옵션 주식이 대신 근로자에게 발행될 수 있도록 정관 또는 사원 결의를 통해 그 권리를 배제해야 합니다."
+  - q: "말레이시아에서 근로자 주식 옵션은 어떻게 과세됩니까?"
+    a: "이는 옵션이 행사되는 연도에 소득세법(Income Tax Act 1967) 제13(1)(a)항에 따라 고용에서 발생하는 급여성 이익(perquisite)으로 과세됩니다. 과세 금액은 제도가 처음 행사 가능해진 날의 주식 시장가치 또는 실제로 행사되는 날의 시장가치 중 더 낮은 금액에서 근로자가 지급한 가격을 뺀 것입니다. 그 급여성 이익은 행사 연도의 근로자 고용소득에 합산됩니다."
+  - q: "이후 ESOS 주식을 매각할 때의 이득은 과세됩니까?"
+    a: "근로자에게는 아닙니다. 세금은 행사 시점의 급여성 이익에 한 번 부과됩니다. 이후 주식을 매각할 때의 이득은 주식제도 규정상 근로자에게 세무상 결과가 없습니다 — 근로자는 이미 주식을 취득하는 시점에 그 이익에 대하여 과세되었습니다."
+  - q: "상장회사의 ESOS 최대 규모는 얼마입니까?"
+    a: "부르사 말레이시아 메인 시장 상장규정(Bursa Malaysia Main Market Listing Requirements)에 따라, 주식발행제도로 발행 가능한 총 주식 수는 어느 시점에서도 회사의 총 발행 주식(자기주식 제외)의 15%를 초과할 수 없습니다. 옵션 가격은 5일 가중평균 시장가격에 대하여 10% 이하의 할인으로 정할 수 있으며, 제도는 10년을 넘지 않게 운영할 수 있습니다."
+  - q: "사용자는 ESOS와 관련하여 LHDN에 무엇을 보고해야 합니까?"
+    a: "옵션 수락 기간이 만료된 후 30일 이내에 사용자는 그 제도를 국세청(Inland Revenue Board)에 통지해야 합니다(소득세법(Income Tax Act 1967) s.83에 따른 통지). 근로자가 행사하면, 사용자는 그 연도의 해당 근로자 EA 양식에 급여성 이익을 보고하고, 행사 명세를 LHDN 지점에 제출하며, 행사한 달에 월별 세액공제(또는 CP38 지시)를 통해 세금을 공제합니다."
 lang: "ko"
 sourceContentHash: "e702999cb1629878"
 masterLanguage: "en"
@@ -49,9 +47,8 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "The employer-reporting forms named in LHDN Public Ruling 11/2012 (Form BT/MSSP/2012, Appendix C) date from 2012; LHDN's current e-filing/ESS notification workflow may differ operationally even though the ruling is unamended. Confirm the live filing channel on hasil.gov.my before presenting a step-by-step procedure."
-  - "Bursa figures cited are from the Main Market Listing Requirements (Chapter 6, Part G, as at 2 January 2025); the ACE Market equivalents may differ. Confirm the parallel ACE provisions if the scheme concerns an ACE-listed issuer, and re-check that Public Ruling 11/2012 has not been superseded at publish time."
-
+  - "LHDN 공개 예규 11/2012호(Public Ruling 11/2012)에 명시된 사용자 보고 양식(Form BT/MSSP/2012, 부록 C)은 2012년의 것으로, 그 예규가 개정되지 않았더라도 LHDN의 현행 전자신고/ESS 통지 절차는 운영상 다를 수 있습니다. 단계별 절차를 제시하기 전에 hasil.gov.my에서 최신 제출 경로를 확인하십시오."
+  - "인용된 부르사(Bursa) 수치는 메인 시장 상장규정(Main Market Listing Requirements, 제6장 Part G, 2025년 1월 2일 기준)에서 나온 것으로, ACE 시장의 상응 규정은 다를 수 있습니다. 제도가 ACE 상장 발행인과 관련되는 경우 그에 상응하는 ACE 규정을 확인하고, 발행 시점에 공개 예규 11/2012호(Public Ruling 11/2012)가 대체되지 않았는지 다시 확인하십시오."
 updated: 2026-09-07
 sources:
   - title: "Public Ruling No. 11/2012: Employee Share Scheme Benefit"

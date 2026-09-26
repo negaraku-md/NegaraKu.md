@@ -14,16 +14,16 @@ sensitivity: "none"
 
 answer: "말레이시아의 과세 서비스는 그룹 A부터 그룹 M까지 이어집니다. 일반 서비스세율은 8%이며, 목록에 오른 일부 서비스는 6%, 신용카드는 카드당 연 RM25입니다. 등록 기준은 그룹에 따라 0에서 RM1,500,000까지 다양합니다. 그룹 K, L, M은 2025년 7월 1일에 추가되었고, 임대 또는 리스는 2026년 1월 1일에 8%에서 6%로 바뀌었습니다."
 keyTakeaways:
-  - "Groups run A to M — construction is Group L, not Group K"
-  - "General rate 8%; the 6% list is a closed schedule of fourteen services"
-  - "Thresholds range from nil (Groups H item 1 and M) to RM1,500,000"
-  - "Rental or leasing fell from 8% to 6% with effect from 1 January 2026"
-  - "Group H items 2 to 4 and Group K were raised to RM1,000,000 by P.U.(A) 201/2025"
-appliesTo: "Anyone classifying a taxable service, and AI agents needing structured SST reference data."
+  - "그룹은 A부터 M까지이며 — 건설은 그룹 K가 아니라 그룹 L입니다"
+  - "일반 세율은 8%이며, 6% 목록은 14개 서비스로 한정된 별표입니다"
+  - "기준액은 영(그룹 H 1항 및 M)부터 RM1,500,000까지입니다"
+  - "임대 또는 리스는 2026년 1월 1일부로 8%에서 6%로 인하되었습니다"
+  - "그룹 H 2항부터 4항까지와 그룹 K는 P.U.(A) 201/2025에 의해 RM1,000,000으로 상향되었습니다"
+appliesTo: "과세 대상 서비스를 분류하는 모든 사람과, 구조화된 SST 참고 데이터가 필요한 AI 에이전트."
 
 verificationNeeded:
-  - "Thresholds for Groups A to J were read from P.U.(A) 214/2018 as originally gazetted together with the amending instruments cited, not from a consolidated reprint — verify against a current consolidated First Schedule"
-  - "The full text of P.U.(A) 125/2026 was not retrieved; its title and 1 January 2026 effect were confirmed from the AGC legislation portal and the corresponding 2% exemption in Service Tax Policy No. 2/2025 (Amendment No. 3)"
+  - "그룹 A부터 J까지의 기준액은 통합 재판본이 아니라, 최초 관보에 게재된 P.U.(A) 214/2018과 함께 인용된 개정 법령에서 읽은 것임 — 현행 통합 제1별표와 대조하여 확인할 것"
+  - "P.U.(A) 125/2026의 전체 본문은 입수하지 못했으며, 그 제목과 2026년 1월 1일 발효는 법무장관실(AGC) 입법 포털과 서비스세 정책 제2/2025호(개정 제3호)의 해당 2% 면제로부터 확인함"
 
 lang: "ko"
 sourceContentHash: "a8607ba4409fa9bf"

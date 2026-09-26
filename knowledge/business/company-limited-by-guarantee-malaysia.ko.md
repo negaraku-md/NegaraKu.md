@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "보증유한회사(company limited by guarantee, CLBG)는 회사법(Companies Act 2016) 제45조에 따라 설립되는 상장회사로서, 사원의 책임이 회사가 청산될 경우 각자 출연하기로 약정한 금액으로 정관에 의해 제한됩니다. 주식자본과 주주가 없으며, 그 자금은 자선, 종교, 교육 또는 상업 진흥과 같은 고정된 목적 목록에만 사용되어야 하고, 모든 발기인과 이사는 경찰의 보안 심사를 포함한 적격성 심사를 통과해야 합니다. 장관이 제45조(3)에 따라 'Berhad'를 생략할 수 있는 허가를 부여하지 않는 한 상호에 'Berhad'를 유지합니다."
 keyTakeaways:
-  - "A CLBG is incorporated under section 45 of the Companies Act 2016 by lodging an application and a constitution with the Registrar; for incorporation it must adopt Part A of SSM's model constitution."
-  - "It can only be formed for a closed list of objects — recreation, commerce and industry, art, science, religion, charity, pension schemes, or other objects useful to the community such as environment, health, education, research, social causes and sports."
-  - "To drop 'Berhad' or 'Bhd', a new CLBG needs an RM1 million cash fund within six months of incorporation; an existing CLBG needs at least two years of operation plus RM1 million cash in its latest financial statements."
-  - "Promoters and directors must be fit and proper and are subject to security vetting by the Royal Malaysian Police."
-appliesTo: "Founders of foundations, professional bodies, chambers of commerce, industry associations, religious and charitable organisations, and social enterprises in Malaysia."
+  - "보증유한회사(CLBG)는 회사법(Companies Act 2016) 제45조에 따라 신청서와 정관을 등록관에게 제출하여 설립하며, 설립을 위해서는 SSM 표준정관의 Part A를 채택해야 합니다."
+  - "한정된 목적 목록으로만 설립할 수 있습니다 — 레크리에이션, 상업 및 산업, 예술, 과학, 종교, 자선, 연금 제도, 또는 환경, 보건, 교육, 연구, 사회적 대의, 스포츠와 같이 지역사회에 유익한 그 밖의 목적입니다."
+  - "「Berhad」 또는 「Bhd」를 생략하려면, 신설 CLBG는 설립 후 6개월 이내에 RM1 million의 현금 기금이 필요하고, 기존 CLBG는 최소 2년의 운영 기간과 최신 재무제표상 RM1 million의 현금이 필요합니다."
+  - "발기인과 이사는 적격성을 갖추어야 하며 말레이시아 왕립경찰(Royal Malaysian Police)의 보안 심사를 받습니다."
+appliesTo: "말레이시아의 재단, 전문직 단체, 상공회의소, 산업협회, 종교·자선 단체 및 사회적 기업의 설립자에게 적용됩니다."
 
 faq:
-  - q: "Does a company limited by guarantee have shareholders or share capital?"
-    a: "No. A CLBG has no share capital and no shareholders. It has members whose liability is limited by the constitution to the amount they each undertake to contribute to the company's assets if it is wound up."
-  - q: "Can a CLBG pay its directors or raise money from the public?"
-    a: "Not freely. Without prior approval from the Registrar, a CLBG is prohibited from paying fees, salaries or fixed allowances to directors and from soliciting any donation or money collection from the public. Its financial resources must be used solely to carry out its objects."
-  - q: "How long does a CLBG need to exist before it can omit 'Berhad'?"
-    a: "A new CLBG can apply on incorporation but must raise an RM1 million cash fund within six months. An existing CLBG must have been incorporated for at least two years and show RM1 million cash in the bank in its latest financial statements."
+  - q: "보증유한회사에 주주나 주식자본이 있습니까?"
+    a: "없습니다. CLBG는 주식자본도 주주도 없습니다. 대신 사원을 두며, 사원의 책임은 회사가 청산될 경우 각자 회사 자산에 출연하기로 약정한 금액으로 정관에 의해 제한됩니다."
+  - q: "CLBG가 이사에게 보수를 지급하거나 공중으로부터 자금을 모집할 수 있습니까?"
+    a: "자유롭게는 할 수 없습니다. 등록관의 사전 승인 없이 CLBG는 이사에게 수당, 급여 또는 고정 수당을 지급하거나 공중으로부터 기부나 모금을 요청하는 것이 금지됩니다. 그 재원은 오직 목적 수행을 위해서만 사용되어야 합니다."
+  - q: "CLBG가 「Berhad」를 생략하려면 얼마나 오래 존속해야 합니까?"
+    a: "신설 CLBG는 설립 시 신청할 수 있으나 6개월 이내에 RM1 million의 현금 기금을 조성해야 합니다. 기존 CLBG는 설립된 지 최소 2년이 되어야 하며 최신 재무제표에 은행 예치 현금 RM1 million을 보여주어야 합니다."
 
 lang: "ko"
 sourceContentHash: "9a66cfe119dbc531"
@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Scope of SSM Guidelines paragraph 6 ('no other company can be formed for these objects'): confirm with counsel how this interacts with an ordinary Sdn Bhd that carries on a commercial business, since section 45 CA 2016 itself restricts only the CLBG, not other company types."
-  - "Confirm the current SSM model constitution still designates the mandatory incorporation template as 'Part A' (per paragraph 14 of the 27 September 2021 Guidelines) in case a newer version has re-lettered it."
-  - "Confirm no post-2021 amendment has changed the RM1 million initial fund, the six-month cash-collection window, or the two-year thresholds before relying on the figures."
+  - "SSM 지침 제6항(「이러한 목적으로는 다른 어떠한 회사도 설립할 수 없다」)의 범위: CA 2016 제45조 자체는 다른 회사 유형이 아니라 CLBG만을 제한하므로, 이것이 상업적 사업을 영위하는 일반 Sdn Bhd와 어떻게 상호작용하는지 법률 자문을 통해 확인해야 합니다."
+  - "최신판에서 표기가 변경되었을 수 있으므로, 현행 SSM 표준정관이 여전히 의무 설립 서식을 (2021년 9월 27일 지침 제14항에 따라) 「Part A」로 지정하고 있는지 확인해야 합니다."
+  - "수치에 의존하기 전에, RM1 million 초기 기금, 6개월 현금 조성 기간, 2년 기준을 변경한 2021년 이후 개정이 없는지 확인해야 합니다."
 
 updated: 2026-08-07
 sources:

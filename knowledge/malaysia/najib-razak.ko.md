@@ -12,24 +12,24 @@ contentType: "guide"
 
 answer: "나집 라작(Najib Razak, 본명 Mohd Najib bin Abdul Razak, 1953년 7월 23일 출생)은 말레이시아의 제6대 총리로, 2009년 4월 3일부터 그의 국민전선(Barisan Nasional) 연합이 2018년 5월 9일 총선에서 패배할 때까지 재임했습니다. 제2대 총리의 아들이자 제3대 총리의 조카인 그는 통일말레이국민조직(UMNO)을 거쳐 총리직에 올랐습니다. 그의 재임기는 상품·서비스세(2015)를 도입했고, 훗날 대규모 국제 금융 스캔들의 대상이 된 국가 투자 기금 1MDB의 설립을 지켜보았습니다. 2020년 그는 SRC 인터내셔널(SRC International) 사건에서 유죄 판결을 받았고, 연방법원이 2022년 유죄를 확정하여 12년 형을 시작했으나, 2024년 사면위원회(Pardons Board)에 의해 형이 절반으로 감형되었습니다. 1MDB와 관련된 추가 절차는 2025~2026년까지 이어졌으며 여전히 항소 중입니다."
 keyTakeaways:
-  - "Malaysia's 6th Prime Minister, 3 April 2009 – 9 May 2018."
-  - "Son of 2nd PM Abdul Razak and nephew of 3rd PM Hussein Onn; rose through UMNO."
-  - "His government introduced the Goods and Services Tax (GST) in 2015 and founded the 1MDB state fund in 2009."
-  - "Left office after Barisan Nasional lost the 2018 general election — the first change of federal government since independence."
-  - "Convicted in the SRC International case (2020, upheld by the Federal Court in 2022); the sentence was halved by the Pardons Board in 2024. Later 1MDB proceedings remain under appeal."
+  - "말레이시아 제6대 총리로, 2009년 4월 3일부터 2018년 5월 9일까지 재임하였습니다."
+  - "제2대 총리 압둘 라작(Abdul Razak)의 아들이자 제3대 총리 후세인 온(Hussein Onn)의 조카로, UMNO를 통해 부상하였습니다."
+  - "그의 정부는 2015년 상품·서비스세(GST)를 도입하였고 2009년 국영 펀드 1MDB를 설립하였습니다."
+  - "국민전선(Barisan Nasional)이 2018년 총선에서 패배한 후 물러났으며 — 이는 독립 이후 최초의 연방정부 교체였습니다."
+  - "SRC International 사건에서 유죄 판결을 받았으며(2020년, 2022년 연방법원이 확정), 그 형량은 2024년 사면위원회에 의해 절반으로 감형되었습니다. 이후의 1MDB 소송은 여전히 항소 중입니다."
 
 faq:
-  - q: "How long was Najib Razak Prime Minister?"
-    a: "About nine years — from 3 April 2009 to 9 May 2018, when his Barisan Nasional coalition lost the 14th general election."
-  - q: "What is his connection to other Malaysian Prime Ministers?"
-    a: "He is the son of Malaysia's 2nd Prime Minister, Abdul Razak Hussein, and the nephew of the 3rd, Hussein Onn."
-  - q: "What was the SRC International case?"
-    a: "A criminal case concerning RM42 million from SRC International, a former unit of 1MDB, that moved into his accounts. He was convicted in 2020 and the Federal Court upheld the conviction in 2022. As a matter of public record, the detail is handled by the court judgments."
+  - q: "나집 라작은 얼마나 오래 총리로 재임하였습니까?"
+    a: "약 9년입니다 — 2009년 4월 3일부터 그의 국민전선(Barisan Nasional) 연합이 제14대 총선에서 패배한 2018년 5월 9일까지입니다."
+  - q: "그는 다른 말레이시아 총리들과 어떤 관계입니까?"
+    a: "그는 말레이시아 제2대 총리 압둘 라작 후세인(Abdul Razak Hussein)의 아들이자 제3대 총리 후세인 온(Hussein Onn)의 조카입니다."
+  - q: "SRC International 사건이란 무엇이었습니까?"
+    a: "1MDB의 옛 산하 기업인 SRC International에서 나온 RM4,200만이 그의 계좌로 이동한 것에 관한 형사 사건입니다. 그는 2020년 유죄 판결을 받았고 연방법원이 2022년 그 유죄 판결을 확정하였습니다. 공적 기록으로서 그 세부는 법원 판결이 다룹니다."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal review before publication. This biography refers to criminal charges, convictions, sentencing, a royal pardon reduction, and ongoing appeals (legal proceedings). These are stated only as public record, neutrally and without detail, and must be re-checked against primary sources (court judgments, the Pardons Board) and reviewed by a qualified reviewer before publication."
-  - "The main 1MDB trial verdict and the house-arrest addendum matter were, at the time of drafting, under appeal and not final. Their status must be re-confirmed against current court records before publication."
-  - "Exact dates and figures (premiership, GST rate, case figures, sentence) to be confirmed against the Prime Minister's Office, the courts and the Election Commission."
+  - "민감 / 발행 전 사람과 법률 검토가 필요함. 이 전기는 형사 기소, 유죄 판결, 양형, 국왕 사면에 의한 감형, 그리고 진행 중인 항소(법적 절차)를 언급합니다. 이는 오직 공적 기록으로서 중립적으로 그리고 세부 없이 기술되었으며, 발행 전 1차 자료(법원 판결, 사면위원회)와 다시 대조하고 자격을 갖춘 검토자의 검토를 거쳐야 합니다."
+  - "주요 1MDB 재판의 평결과 가택 연금 부칙 사안은 작성 당시 항소 중이었고 확정되지 않았습니다. 그 상태는 발행 전 현재의 법원 기록과 대조하여 다시 확인하여야 합니다."
+  - "정확한 날짜와 수치(총리 재임, GST 세율, 사건 금액, 형량)는 총리실, 법원, 선거관리위원회와 대조하여 확인하여야 합니다."
 
 lang: "ko"
 sourceContentHash: "b57664a883ee2959"

@@ -14,18 +14,18 @@ sensitivity: "none"
 
 answer: "붉은 붕아 라야(히비스커스, Hibiscus rosa-sinensis)는 1960년 7월 28일 초대 총리 툰쿠 압둘 라만 푸트라 알하지(Tunku Abdul Rahman Putra Al-Haj)에 의해 말레이시아의 국화로 선포되었습니다. 이 꽃은 다섯 가지 기준에 따라 일곱 후보 가운데 선정되었는데, 그 기준으로는 이미 전국적으로 알려져 있을 것, 매력적인 색과 형태를 지닐 것, 통일된 이름을 가질 것, 쉽게 구할 수 있을 것, 그리고 당시 다른 어느 나라의 국화도 아닐 것 등이 있었습니다. 다섯 장의 꽃잎은 이후 루쿤 느가라(Rukun Negara)의 다섯 원칙과 연관되었고, 붉은색은 용기를 상징합니다."
 keyTakeaways:
-  - "Diisytiharkan bunga kebangsaan pada 28 Julai 1960 oleh Tunku Abdul Rahman."
-  - "Nama saintifiknya Hibiscus rosa-sinensis; dipilih daripada tujuh bunga calon berdasarkan lima kriteria."
-  - "Lima kelopak dikaitkan dengan lima prinsip Rukun Negara; warna merah melambangkan keberanian."
-appliesTo: "Pelajar, guru, dan sesiapa yang ingin memahami simbol kebangsaan Malaysia."
+  - "1960년 7월 28일 툰쿠 압둘 라만(Tunku Abdul Rahman)에 의해 국화로 선포되었습니다."
+  - "학명은 Hibiscus rosa-sinensis이며, 다섯 가지 기준에 따라 일곱 개의 후보 꽃 가운데 선정되었습니다."
+  - "다섯 장의 꽃잎은 루쿤 느가라(Rukun Negara)의 다섯 원칙과 연관되며, 붉은색은 용기를 상징합니다."
+appliesTo: "말레이시아의 국가 상징을 이해하고자 하는 학생, 교사 및 모든 이."
 
 faq:
-  - q: "Bila bunga raya diisytiharkan sebagai bunga kebangsaan?"
-    a: "Pada 28 Julai 1960, oleh Perdana Menteri Tunku Abdul Rahman Putra Al-Haj."
-  - q: "Apakah maksud lima kelopak bunga raya?"
-    a: "Lima kelopaknya dikaitkan dengan lima prinsip Rukun Negara, dan bunga ini turut dilambangkan sebagai bunga perpaduan."
-  - q: "Mengapa bunga raya dipilih berbanding bunga lain?"
-    a: "Ia sudah dikenali di seluruh negara, mempunyai warna dan bentuk yang menarik, nama yang seragam, mudah didapati, dan belum menjadi bunga kebangsaan mana-mana negara lain pada masa itu."
+  - q: "붕아 라야(bunga raya)는 언제 국화로 선포되었습니까?"
+    a: "1960년 7월 28일, 툰쿠 압둘 라만 푸트라 알하지(Tunku Abdul Rahman Putra Al-Haj) 총리에 의해서입니다."
+  - q: "붕아 라야 다섯 꽃잎의 의미는 무엇입니까?"
+    a: "다섯 장의 꽃잎은 루쿤 느가라(Rukun Negara)의 다섯 원칙과 연관되며, 이 꽃은 화합의 꽃으로도 상징됩니다."
+  - q: "붕아 라야는 왜 다른 꽃보다 선택되었습니까?"
+    a: "그것은 이미 전국적으로 알려져 있었고, 빛깔과 형태가 매력적이며, 이름이 통일되어 있고, 쉽게 구할 수 있었으며, 당시 다른 어느 나라의 국화도 아니었기 때문입니다."
 
 lang: "ko"
 sourceContentHash: "a06373b8a03d8ae0"
@@ -45,10 +45,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Pilihan rakyat mengikut wilayah bercanggah antara sumber rasmi: malaysia.gov.my menyebut penduduk Pantai Timur cenderung kepada bunga raya, manakala MKN menyebut mereka cenderung kepada bunga mawar (kedua-dua sumber setuju Pantai Barat cenderung kepada bunga melur). Kekal umum sehingga disahkan manusia."
-  - "Penggunaan imej bunga raya pada duit syiling, dokumen rasmi, atau artifak tertentu tidak dapat disahkan daripada mana-mana sumber rasmi yang dibuka; perlu pengesahan sebelum dinyatakan secara khusus."
-  - "Maksud warna merah (keberanian serta keteguhan politik dan ekonomi) disandarkan hanya kepada satu sumber (UPM); wajar disahkan silang dengan sumber rasmi lain."
-  - "Perkaitan lima kelopak dengan lima prinsip Rukun Negara ialah lambang yang dibina kemudian (Rukun Negara diisytiharkan 1970, sepuluh tahun selepas pemilihan bunga); pastikan pembingkaian ini kekal jelas."
+  - "지역별 국민 선호는 공식 자료 간에 상충합니다: malaysia.gov.my는 동해안 주민이 붕아 라야(bunga raya)를 선호하였다고 하는 반면, MKN은 이들이 장미를 선호하였다고 합니다(두 자료 모두 서해안은 재스민을 선호하였다는 데 동의). 사람의 확인 전까지 일반적 서술로 유지합니다."
+  - "동전, 공식 문서 또는 특정 유물에 붕아 라야 이미지를 사용한 것은 열람한 어떠한 공식 자료로도 확인할 수 없으므로, 구체적으로 기술하기 전에 확인이 필요합니다."
+  - "붉은색의 의미(용기와 더불어 정치·경제적 굳건함)는 단 하나의 자료(UPM)에만 근거하므로, 다른 공식 자료와 교차 확인하는 것이 마땅합니다."
+  - "다섯 꽃잎과 루쿤 느가라(Rukun Negara) 다섯 원칙의 연관은 나중에 만들어진 상징이므로(루쿤 느가라는 꽃 선정 10년 후인 1970년에 선포됨), 이러한 서술 구도가 명확하게 유지되도록 하여야 합니다."
 
 updated: 2026-08-08
 sources:

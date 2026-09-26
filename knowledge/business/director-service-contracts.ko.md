@@ -2,7 +2,7 @@
 topicId: MY-BIZ-0067
 title: "이사 용역계약 — 직위, 고용, 그리고 제231조 공시 규칙"
 seoTitle: "말레이시아 이사 용역계약: 제231조 해설"
-socialTitle: "Section 231 is a public-company rule. Most guides apply it to Sdn Bhds."
+socialTitle: "제231조는 상장회사 규정입니다. 그러나 대부분의 안내는 이를 Sdn Bhd에 적용합니다."
 slug: "director-service-contracts"
 category: "business"
 subcategory: ["contracts-disputes"]
@@ -15,27 +15,27 @@ sensitivity: "none"
 
 answer: "이사직은 회사법(Companies Act 2016)이 창설한 직위이지 일자리가 아닙니다. 용역계약은 이사가 보수를 받고 개인적으로 용역을 수행하는 별개의 약정입니다. 제231조는 공개회사에 한하여 그 계약을 정의하며, 제232조와 제233조는 공개회사가 그 사본을 등록 사무소에서 열람할 수 있도록 보관할 것을 요구합니다. 사회사(private company)에는 이에 상응하는 열람 의무가 없으나, 제230조 제3항이 있어 이사회가 승인한 이사 보수를 14일 이내에 주주에게 통지하도록 요구합니다."
 keyTakeaways:
-  - "Appointment as a director is an office; any pay for work done sits in a separate service contract"
-  - "s.231 defines a director's service contract in relation to a public company only"
-  - "s.232 requires a public company to keep copies for inspection at the registered office, and for at least one year after termination or expiry — fine up to RM1 million"
-  - "s.233 gives inspection rights to members holding at least 5% of paid-up capital, or at least 10% of members where there is no share capital"
-  - "Private company directors' fees and benefits are approved by the board subject to the constitution (s.230(2)), with shareholder notification within 14 days (s.230(3))"
-  - "s.230(4) lets members with at least 10% of voting rights force a resolution within 30 days of knowledge; without it, s.230(5) makes the payment a debt due from the director"
-  - "Any payment for loss of office needs member approval under s.227, or the director holds it on trust for the company"
-appliesTo: "Boards documenting what an executive director is paid, and anyone drafting or reviewing a director service contract in a Sdn Bhd or a public company."
+  - "이사 선임은 직위이며; 수행한 업무에 대한 보수는 별도의 용역 계약에 담깁니다"
+  - "제231조는 이사의 용역 계약을 상장회사에 한하여 정의합니다"
+  - "제232조는 상장회사가 열람용 사본을 등록사무소에 비치하고, 종료 또는 만료 후 최소 1년간 보관하도록 요구합니다 — 최대 RM1 million의 벌금"
+  - "제233조는 납입자본의 5% 이상을 보유한 사원, 또는 주식자본이 없는 경우 사원의 10% 이상에게 열람권을 부여합니다"
+  - "비상장회사 이사의 수당과 급부는 정관에 따를 것을 조건으로 이사회가 승인하며(제230조 제2항), 14일 이내에 주주에게 통지합니다(제230조 제3항)"
+  - "제230조 제4항은 의결권의 10% 이상을 보유한 사원이 알게 된 날로부터 30일 이내에 결의를 요구할 수 있게 하며; 그렇지 않으면 제230조 제5항에 따라 그 지급액이 이사가 부담하는 채무가 됩니다"
+  - "직위 상실에 대한 어떠한 지급도 제227조에 따른 사원의 승인이 필요하며, 그렇지 않으면 이사는 그 금액을 회사를 위해 신탁으로 보유합니다"
+appliesTo: "업무집행이사의 보수를 문서화하는 이사회, 그리고 Sdn Bhd나 상장회사에서 이사 용역 계약을 작성하거나 검토하는 모든 사람에게 적용됩니다."
 
 faq:
-  - q: "Is a director an employee?"
-    a: "Not by virtue of the office. Directorship is a statutory office; being paid for it does not by itself create an employment relationship. An executive director may separately be an employee under a service contract, in which case employment law consequences follow. Whether a particular director is an employee or a workman for the purposes of s.20 of the Industrial Relations Act 1967 is fact-sensitive and depends on the substance of the arrangement, not the label."
-  - q: "Does s.231 apply to a Sdn Bhd?"
-    a: "No. Section 231(1) defines a director's service contract for the purposes of that Division in relation to a public company. The inspection obligations in ss.232 and 233 run from that definition. Guidance that applies the inspection regime to private companies is applying a public-company provision."
-  - q: "Who approves what an executive director is paid in a private company?"
-    a: "Section 230(2) allows the board, subject to the constitution, to approve directors' fees and benefits including compensation for loss of employment. The approval must be recorded in the directors' minutes and the shareholders notified within fourteen days under s.230(3). Contravening the notification duty carries a fine of up to RM250,000 on the company and every officer."
-  - q: "Can we pay a departing director a golden handshake?"
-    a: "Only with member approval. Section 227(1) makes it unlawful for a company to pay a director compensation for loss of office, or in connection with retirement, unless particulars including the amount have been disclosed to members and the proposal approved by them. Where an unlawful payment is made, s.227(1) deems the director to hold the amount on trust for the company."
+  - q: "이사는 근로자입니까?"
+    a: "직위 자체로는 아닙니다. 이사직은 법정 직위이며, 그에 대해 보수를 받는다는 사실만으로 고용관계가 성립하지는 않습니다. 업무집행이사(executive director)는 별도로 용역 계약에 따라 근로자일 수 있으며, 이 경우 노동법상의 효과가 따릅니다. 특정 이사가 노사관계법(Industrial Relations Act 1967) 제20조의 목적상 근로자 또는 노무자에 해당하는지는 사실에 좌우되며, 명칭이 아니라 약정의 실질에 달려 있습니다."
+  - q: "제231조가 Sdn Bhd에 적용됩니까?"
+    a: "아닙니다. 제231조 제1항은 이사의 용역 계약을 해당 편(Division)의 목적상 상장회사에 한하여 정의합니다. 제232조와 제233조의 열람 의무는 그 정의에서 비롯됩니다. 이 열람 제도를 비상장회사에 적용하는 안내는 상장회사 규정을 적용하고 있는 것입니다."
+  - q: "비상장회사에서 업무집행이사의 보수는 누가 승인합니까?"
+    a: "제230조 제2항은 정관에 따를 것을 조건으로, 고용 상실에 대한 보상을 포함한 이사의 수당과 급부를 이사회가 승인할 수 있도록 합니다. 그 승인은 이사회 의사록에 기록되어야 하며 제230조 제3항에 따라 14일 이내에 주주에게 통지해야 합니다. 통지 의무를 위반하면 회사와 위반 임원 전원에게 최대 RM250,000의 벌금이 부과됩니다."
+  - q: "퇴임하는 이사에게 거액의 퇴직 위로금을 지급할 수 있습니까?"
+    a: "사원의 승인이 있어야만 가능합니다. 제227조 제1항은 금액을 포함한 세부 사항이 사원에게 공개되고 그 제안이 사원에 의해 승인되지 않는 한, 회사가 이사에게 직위 상실에 대해 또는 퇴임과 관련하여 보상을 지급하는 것을 위법으로 규정합니다. 위법한 지급이 이루어진 경우, 제227조 제1항은 이사가 그 금액을 회사를 위해 신탁으로 보유하는 것으로 간주합니다."
 
 verificationNeeded:
-  - "Confirm the treatment of executive directors as workmen under s.20 of the Industrial Relations Act 1967 — this turns on case law, not on the face of the statute"
+  - "노사관계법(Industrial Relations Act 1967) 제20조에 따른 업무집행이사의 노무자 취급을 확인해야 합니다 — 이는 법률 문언이 아니라 판례에 좌우됩니다"
 
 lang: "ko"
 sourceContentHash: "aa6dbf128ae02aa9"

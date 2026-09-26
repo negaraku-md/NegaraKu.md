@@ -14,18 +14,18 @@ sensitivity: "none"
 
 answer: "말레이시아는 75개의 포괄적 이중과세방지협정을 시행 중이며, 여기에 항공·해상 운송을 다루는 아르헨티나·미국과의 제한적 협정, 그리고 중화 타이베이와의 약정이 더해집니다. 말레이시아는 배당에 원천징수세를 부과하지 않으므로, 모든 조약에서 배당은 NIL로 표시됩니다. 이자에 대한 조약 세율은 5~15퍼센트, 로열티는 5~10퍼센트, 기술료는 NIL~10퍼센트이며, 국내 세율 15, 10, 10에 대비됩니다."
 keyTakeaways:
-  - "Dividends are NIL under every treaty because Malaysia operates a single-tier system and imposes no dividend withholding tax"
-  - "A treaty rate never increases the domestic rate — if the domestic rate is lower, the domestic rate applies"
-  - "The lowest interest rates are 5 per cent, under the Bahrain, Qatar, Saudi Arabia and United Arab Emirates treaties"
-  - "Australia and Turkmenistan carry NIL on technical fees; Namibia and South Africa carry 5 per cent on royalties"
-  - "Most treaties have been modified by the Multilateral Instrument, which entered into force for Malaysia on 1 June 2021"
-  - "The treaty text is only available to a resident who can produce a certificate of residence from its own tax authority"
-appliesTo: "Malaysian payers withholding tax on cross-border payments, and non-residents claiming treaty relief on Malaysian-source income."
+  - "말레이시아는 단일세율 제도를 운영하고 배당 원천징수세를 부과하지 않으므로, 모든 조약에서 배당은 NIL입니다"
+  - "조약 세율이 국내 세율을 높이는 일은 결코 없습니다 — 국내 세율이 더 낮으면 국내 세율이 적용됩니다"
+  - "가장 낮은 이자 세율은 5퍼센트로, 바레인·카타르·사우디아라비아·아랍에미리트 조약에 따릅니다"
+  - "호주와 투르크메니스탄은 기술료가 NIL이며, 나미비아와 남아프리카공화국은 로열티가 5퍼센트입니다"
+  - "대부분의 조약은 다자간 협약(Multilateral Instrument)에 의해 수정되었으며, 이는 말레이시아에 대해 2021년 6월 1일 발효되었습니다"
+  - "조약 본문은 자국 세무당국으로부터 거주증명서를 제시할 수 있는 거주자에게만 적용됩니다"
+appliesTo: "국경 간 지급에 대해 원천징수하는 말레이시아 지급자, 그리고 말레이시아 원천 소득에 대해 조약 혜택을 청구하는 비거주자."
 
 verificationNeeded:
-  - "Several 'Effective from' dates precede the 'Treaty in force' date — Kuwait (effective 1 January 1988, in force 29 May 2007) and Sudan are the extreme cases. These reproduce LHDN's own published DTA table verbatim (confirmed against LHDN and PwC's Malaysian Tax Booklet); the anomaly is in the source, not a transcription error. Treat any single effective date as indicative and confirm it against the relevant gazette order before relying on it"
-  - "Footnote (iv) qualifying the Belgium interest rate as 15/10 and footnote (v) qualifying the technical fee column were not retrievable as text from the LHDN rate page — read them on the page itself before relying on either column for those cases"
-  - "Rates are the general treaty ceilings published by LHDN, not article-by-article rates. Several treaties reduce interest to nil for payments to a government, central bank or approved institution; check the relevant article before applying the table rate"
+  - "일부 '시행일'이 '조약 발효일'에 앞섭니다 — 쿠웨이트(1988년 1월 1일 시행, 2007년 5월 29일 발효)와 수단이 극단적인 사례입니다. 이는 말레이시아 국세청(LHDN) 자체 공표 DTA 표를 그대로 재현한 것이며(말레이시아 국세청(LHDN) 및 PwC의 Malaysian Tax Booklet에 대조하여 확인), 이 불일치는 전사 오류가 아니라 출처에 있습니다. 개별 시행일은 참고용으로 취급하고 이에 의존하기 전에 관련 관보 명령에 대조하여 확인하십시오"
+  - "벨기에 이자 세율을 15/10으로 한정하는 각주 (iv)와 기술료 열을 한정하는 각주 (v)는 말레이시아 국세청(LHDN) 세율 페이지에서 텍스트로 확보할 수 없었습니다 — 해당 사례에 대해 어느 열에든 의존하기 전에 페이지 자체에서 읽으십시오"
+  - "세율은 말레이시아 국세청(LHDN)이 공표한 일반 조약 상한이며, 조항별 세율이 아닙니다. 여러 조약이 정부, 중앙은행 또는 승인 기관에 대한 지급의 이자를 영(零)으로 낮춥니다. 표의 세율을 적용하기 전에 관련 조항을 확인하십시오"
 
 lang: "ko"
 sourceContentHash: "2eae865a4f192515"

@@ -14,26 +14,24 @@ sensitivity: "none"
 
 answer: "2020년 6월 1일부터, 말레이시아 반부패위원회법(Malaysian Anti-Corruption Commission Act 2009) 제17A조는 이사, 종업원 또는 회사를 위해 용역을 수행하는 누군가가 회사를 위해 사업을 획득하거나 유지하기 위해 부정하게 뇌물을 제공하는 경우, 고위 경영진이 전혀 알지 못했더라도 상업조직에 형사책임을 지웁니다. 유죄 판결 시 뇌물 가액의 최소 10배 또는 RM1 million 중 높은 금액의 벌금, 또는 최고 20년의 징역, 또는 병과에 처해집니다. 유일한 법정 항변은 조직이 ‘적정 절차’를 갖추고 있었음을 입증하는 것이며, 이사는 그 위반이 자신의 동의 없이 발생했고 자신이 상당한 주의를 기울였음을 증명하지 못하는 한 개인적으로 책임이 있는 것으로 간주됩니다."
 keyTakeaways:
-  - "Section 17A took effect on 1 June 2020 under the MACC (Amendment) Act 2018."
-  - "Liability attaches to the organisation even if senior management was unaware of the bribe."
-  - "The penalty is a fine of not less than 10x the gratification or RM1 million, whichever is higher, or up to 20 years' imprisonment, or both."
-  - "The only defence under s.17A(4) is proving 'adequate procedures' were in place."
-  - "Directors, officers and managers are deemed personally liable under s.17A(3) unless they prove no consent plus due diligence."
-  - "Adequate procedures should be built on the five T.R.U.S.T. principles from the GIACC Guidelines."
-appliesTo: "Directors, company secretaries, compliance officers and business owners of Malaysian companies, LLPs and partnerships, including foreign entities carrying on business in Malaysia."
-
+  - "제17A조는 2018년 MACC(개정)법(MACC (Amendment) Act 2018)에 따라 2020년 6월 1일에 시행되었습니다."
+  - "고위 경영진이 뇌물을 알지 못했더라도 책임은 조직에 귀속됩니다."
+  - "벌칙은 수뢰액의 10배 또는 RM1,000,000 중 더 높은 금액 이상의 벌금, 또는 최대 20년의 징역, 또는 그 병과입니다."
+  - "s.17A(4)에 따른 유일한 항변은 「적절한 절차(adequate procedures)」가 갖추어져 있었음을 증명하는 것입니다."
+  - "이사, 임원 및 관리자는 자신의 동의가 없었고 상당한 주의를 다했음을 증명하지 않는 한 s.17A(3)에 따라 개인적으로 책임이 있는 것으로 간주됩니다."
+  - "적절한 절차는 GIACC 지침(Guidelines)의 다섯 가지 T.R.U.S.T. 원칙에 기초하여 구축되어야 합니다."
+appliesTo: "말레이시아 회사, LLP 및 조합의 이사, 회사 비서, 준법 담당자 및 사업 소유자, 그리고 말레이시아에서 사업을 영위하는 외국 법인을 포함합니다."
 faq:
-  - q: "When did Section 17A come into force?"
-    a: "Section 17A was introduced by the MACC (Amendment) Act 2018 and came into effect on 1 June 2020."
-  - q: "Who is an 'associated person' under Section 17A?"
-    a: "Under s.17A(6), an associated person is a director, partner or employee of the commercial organisation, or any person who performs services for or on behalf of it — which can include agents, contractors and consultants."
-  - q: "Can directors be held personally liable?"
-    a: "Yes. Under s.17A(3), a director, controller, officer, partner or person concerned in management is deemed to have committed the offence unless they prove it was committed without their consent and that they exercised due diligence to prevent it."
-  - q: "What is the only defence available?"
-    a: "Under s.17A(4), the organisation must prove that it had adequate procedures in place designed to prevent associated persons from engaging in the corrupt conduct. The burden of proof sits with the organisation."
-  - q: "What does the 'adequate procedures' defence require?"
-    a: "There is no fixed checklist, but the GIACC Guidelines on Adequate Procedures set out five principles known by the acronym T.R.U.S.T. that a court is likely to weigh when deciding whether procedures were adequate."
-
+  - q: "제17A조는 언제 시행되었습니까?"
+    a: "제17A조는 2018년 MACC(개정)법(MACC (Amendment) Act 2018)으로 도입되어 2020년 6월 1일에 시행되었습니다."
+  - q: "제17A조에서 「관련인(associated person)」은 누구입니까?"
+    a: "s.17A(6)에 따라 관련인은 상업 조직의 이사, 파트너 또는 근로자이거나, 그 조직을 위하여 또는 그 조직을 대신하여 서비스를 수행하는 모든 사람으로 — 대리인, 도급인 및 컨설턴트를 포함할 수 있습니다."
+  - q: "이사가 개인적으로 책임을 질 수 있습니까?"
+    a: "예. s.17A(3)에 따라 이사, 지배자, 임원, 파트너 또는 경영에 관여하는 사람은 그 범죄가 자신의 동의 없이 저질러졌고 이를 방지하기 위하여 상당한 주의를 다했음을 증명하지 않는 한 그 범죄를 저지른 것으로 간주됩니다."
+  - q: "이용할 수 있는 유일한 항변은 무엇입니까?"
+    a: "s.17A(4)에 따라 조직은 관련인이 부패 행위에 관여하는 것을 방지하기 위하여 설계된 적절한 절차를 갖추고 있었음을 증명해야 합니다. 입증 책임은 조직에 있습니다."
+  - q: "「적절한 절차」 항변에는 무엇이 필요합니까?"
+    a: "고정된 체크리스트는 없으나, 적절한 절차에 관한 GIACC 지침(GIACC Guidelines on Adequate Procedures)은 법원이 절차의 적절성을 판단할 때 형량할 가능성이 높은, T.R.U.S.T.라는 약어로 알려진 다섯 가지 원칙을 제시합니다."
 lang: "ko"
 sourceContentHash: "6d976fa3bddc473d"
 masterLanguage: "en"
@@ -52,11 +50,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sensitivity classification: currently set to 'none' per the correction brief's required frontmatter, but the review brief treats corporate-bribery / anti-corruption legal content as a sensitive (tier S) topic. A human editor should confirm the final sensitivity value."
-  - "Exact statutory wording and subsection numbering (s.17A(1)-(8)) should be confirmed against the official gazetted text of the MACC (Amendment) Act 2018 and the consolidated MACC Act 2009 before publication."
-  - "Confirm the canonical/official URL for the GIACC 'Guidelines on Adequate Procedures' PDF (the GIACC/JPM site path can change); verify the hosted copy matches the version issued pursuant to s.17A(5)."
-  - "Confirm this remains current law as at the publication date (no later amendment to Section 17A penalties or the adequate-procedures framework)."
-
+  - "민감도 분류: 현재 수정 지시서의 필수 프런트매터에 따라 「none」으로 설정되어 있으나, 검토 지시서는 기업 뇌물 / 반부패 법률 콘텐츠를 민감(tier S) 주제로 취급합니다. 최종 민감도 값은 사람 편집자가 확인해야 합니다."
+  - "정확한 조문 문구와 항 번호(s.17A(1)-(8))는 발행 전에 2018년 MACC(개정)법(MACC (Amendment) Act 2018)의 공식 관보 문언과 통합 MACC법 2009(MACC Act 2009)와 대조하여 확인해야 합니다."
+  - "GIACC 「Guidelines on Adequate Procedures」 PDF의 정본/공식 URL을 확인하십시오(GIACC/JPM 사이트 경로가 바뀔 수 있음). 호스팅된 사본이 s.17A(5)에 따라 발행된 판과 일치하는지 검증하십시오."
+  - "발행일 기준으로 이것이 현행법으로 유지되는지 확인하십시오(제17A조 벌칙이나 적절한 절차 체계에 대한 이후 개정 없음)."
 updated: 2026-08-07
 sources:
   - title: "Section 17A of the MACC Act 2009 – The Legal Responsibilities of Commercial Organisations and Their Management"

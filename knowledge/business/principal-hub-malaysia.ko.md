@@ -14,21 +14,21 @@ sensitivity: "none"
 
 answer: "프린시펄 허브(Principal Hub)는 말레이시아를 거점으로 삼아 지역 또는 글로벌 운영을 관리하는 현지 법인 회사로서, 단계별 우대 세율을 부여받았습니다. 이 인센티브는 2022년 말에 신규 신청 접수가 종료되었습니다. 그 현행 후속 제도는 말레이시아투자진흥청(MIDA)이 운영하는 글로벌 서비스 허브(Global Services Hub, GSH)로, 신청은 2023년 10월 14일부터 2027년 12월 31일까지 접수됩니다. GSH에 따라 신설 회사는 운영비 지출, 고부가가치 일자리, 지역 경제 기여에 관한 성과 기반 조건을 충족하는 것을 전제로 0% 또는 5% 세율을 적용받을 수 있습니다."
 keyTakeaways:
-  - "The Principal Hub incentive is closed to new applications — its window ended 31 December 2022 and the proposed extension to 2025 was never gazetted."
-  - "The live route today is the Global Services Hub (GSH), administered by MIDA, with applications open from 14 October 2023 to 31 December 2027."
-  - "Under the GSH, a new company can qualify for a 0% or 5% concessionary rate; a preferential 15% individual tax applies to a limited number of non-citizen C-suite staff earning at least RM35,000 a month."
-  - "Qualifying is outcome-based: the company must incorporate locally, run qualifying services, and meet conditions on operating expenditure, high-value employment and local economic contribution — with an annual compliance check."
-appliesTo: "Multinationals and larger companies choosing where to base regional headquarters or shared-services operations; advisers scoping Malaysia's headquarters and services-hub incentives."
+  - "프린시펄 허브(Principal Hub) 인센티브는 신규 신청이 마감되었습니다 — 신청 기간이 2022년 12월 31일에 종료되었고 2025년까지의 연장안은 관보에 게재되지 않았습니다."
+  - "현재 유효한 경로는 말레이시아투자진흥청(MIDA)이 운영하는 글로벌 서비스 허브(Global Services Hub, GSH)이며, 신청은 2023년 10월 14일부터 2027년 12월 31일까지 열려 있습니다."
+  - "GSH에서 신규 회사는 0% 또는 5%의 우대 세율 자격을 얻을 수 있으며; 월 최소 RM35,000을 버는 제한된 수의 비국민 최고경영진에게 우대 개인소득세율 15%가 적용됩니다."
+  - "자격은 성과 기반입니다: 회사는 현지에 설립되어 적격 서비스를 영위하고, 운영비·고부가가치 고용·현지 경제 기여에 관한 조건을 충족해야 하며 — 매년 준수 여부를 점검받습니다."
+appliesTo: "지역 본부 또는 공유 서비스 사업을 어디에 둘지 선택하는 다국적 기업 및 대기업; 말레이시아의 본부 및 서비스 허브 인센티브를 검토하는 자문가."
 
 faq:
-  - q: "Is the Principal Hub incentive still available in Malaysia?"
-    a: "No. The Principal Hub incentive closed to new applications at the end of 2022. A proposed extension to 31 December 2025 was announced but dropped from the re-tabled Budget 2023 and never gazetted. Companies looking to base regional operations in Malaysia now apply for the Global Services Hub incentive instead, which is its successor."
-  - q: "What is the Global Services Hub?"
-    a: "The Global Services Hub (GSH) is the successor to the Principal Hub incentive, introduced in Budget 2024 and administered by the Malaysian Investment Development Authority (MIDA). It gives a locally incorporated company that bases its regional or global services operations in Malaysia a concessionary tax rate — 0% or 5% for a new company for a period of years — plus a preferential individual tax rate for key foreign staff. Applications are accepted from 14 October 2023 to 31 December 2027."
-  - q: "What tax rate does a Global Services Hub company get?"
-    a: "For a new company, the GSH offers a Tier 1 rate of 0% or a Tier 2 rate of 5% on qualifying income for a period of years; an existing company expanding its operations is taxed at a concessionary rate on its value-added income. A preferential 15% individual income tax rate applies to a limited number of non-citizen individuals in key or C-suite positions earning at least RM35,000 a month. The exact rates rest on the MIDA guideline while the implementing gazette order is finalised, so confirm current terms with MIDA."
-  - q: "What conditions must a company meet to qualify for the Global Services Hub?"
-    a: "The GSH uses outcome-based conditions rather than a single fixed threshold. A company must be incorporated in Malaysia, carry out qualifying services, and commit to targets on annual operating expenditure, the number of high-value full-time employees, senior C-suite hires, use of local ancillary services, collaboration with local educational institutions, training of Malaysians, and environmental, social and governance elements. Performance is reviewed, and the incentive can be clawed back if conditions are not met."
+  - q: "프린시펄 허브(Principal Hub) 인센티브는 말레이시아에서 여전히 이용할 수 있습니까?"
+    a: "아닙니다. 프린시펄 허브(Principal Hub) 인센티브는 2022년 말에 신규 신청이 마감되었습니다. 2025년 12월 31일까지의 연장안이 발표되었으나 다시 상정된 2023년 예산안에서 빠졌고 관보에 게재되지 않았습니다. 말레이시아에 지역 사업 거점을 두려는 회사는 이제 그 후속 제도인 글로벌 서비스 허브(Global Services Hub) 인센티브를 대신 신청합니다."
+  - q: "글로벌 서비스 허브(Global Services Hub)란 무엇입니까?"
+    a: "글로벌 서비스 허브(Global Services Hub, GSH)는 프린시펄 허브(Principal Hub) 인센티브의 후속 제도로, 2024년 예산안에서 도입되었으며 말레이시아투자진흥청(MIDA)이 운영합니다. 이는 지역 또는 글로벌 서비스 사업을 말레이시아에 거점으로 두는 현지 설립 회사에 우대 세율 — 신규 회사의 경우 수년간 0% 또는 5% — 과 함께 핵심 외국인 직원에 대한 우대 개인소득세율을 부여합니다. 신청은 2023년 10월 14일부터 2027년 12월 31일까지 접수됩니다."
+  - q: "글로벌 서비스 허브 회사는 어떤 세율을 적용받습니까?"
+    a: "신규 회사의 경우 GSH는 적격 소득에 대해 수년간 1단계(Tier 1) 세율 0% 또는 2단계(Tier 2) 세율 5%를 제공하며; 사업을 확장하는 기존 회사는 부가가치 소득에 우대 세율로 과세됩니다. 월 최소 RM35,000을 버는 핵심 또는 최고경영진 직책의 제한된 수의 비국민 개인에게 우대 개인소득세율 15%가 적용됩니다. 정확한 세율은 시행 관보 명령이 확정되기 전까지 말레이시아투자진흥청(MIDA) 지침에 근거하므로, 현행 조건을 MIDA에 확인하십시오."
+  - q: "글로벌 서비스 허브 자격을 얻으려면 회사가 어떤 조건을 충족해야 합니까?"
+    a: "GSH는 하나의 고정된 기준이 아니라 성과 기반 조건을 사용합니다. 회사는 말레이시아에 설립되어 적격 서비스를 수행하고, 연간 운영비, 고부가가치 상근 직원 수, 고위 최고경영진 채용, 현지 부대 서비스 이용, 현지 교육기관과의 협력, 말레이시아인 교육, 그리고 환경·사회·거버넌스(ESG) 요소에 관한 목표를 이행할 것을 약속해야 합니다. 성과는 검토되며, 조건이 충족되지 않으면 인센티브가 환수될 수 있습니다."
 
 lang: "ko"
 sourceContentHash: "1d7afd9b7e62d44a"
@@ -47,8 +47,8 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "The Global Services Hub rates (new company 0%/5%; existing company 5%/10% on value-added income; 15% individual rate for non-citizen C-suite at RM35,000/month) rest on the MIDA GS-Hub guideline; the repo's own record notes no gazetted rate instrument for the National Global Services Hub had been located as of 8 July 2026 (the guideline says the instrument is still to be made). Treat all GSH rates as 'per MIDA guideline, gazette pending' until confirmed, and pull the exact per-tier operating-expenditure and employee thresholds from the MIDA GS-Hub guideline PDF before publishing."
-  - "Confirm the Principal Hub closed status: MIDA's Global Services Hub guideline records the Principal Hub as ended 31 December 2022, but MIDA's Principal Hub landing page remains published and some advisory pages still repeat the never-enacted 'to 31 December 2025' extension. State as closed on the strength of the MIDA GSH guideline."
+  - "글로벌 서비스 허브 세율(신규 회사 0%/5%; 부가가치 소득에 대한 기존 회사 5%/10%; 월 RM35,000의 비국민 최고경영진에 대한 개인 세율 15%)은 말레이시아투자진흥청(MIDA) GS-Hub 지침에 근거합니다; 본 저장소 자체 기록은 2026년 7월 8일 기준 National Global Services Hub에 대한 관보 게재 세율 문서를 찾지 못했다고 언급합니다(지침은 해당 문서가 아직 제정 예정이라고 밝힘). 확인되기 전까지 모든 GSH 세율을 「MIDA 지침 기준, 관보 게재 대기」로 취급하고, 게재 전에 정확한 단계별 운영비 및 직원 기준을 MIDA GS-Hub 지침 PDF에서 확인하십시오."
+  - "프린시펄 허브(Principal Hub) 마감 상태 확인: 말레이시아투자진흥청(MIDA)의 글로벌 서비스 허브 지침은 프린시펄 허브가 2022년 12월 31일에 종료된 것으로 기록하나, MIDA의 프린시펄 허브 안내 페이지는 여전히 게재되어 있고 일부 자문 페이지는 제정된 적 없는 「2025년 12월 31일까지」 연장을 여전히 반복합니다. MIDA GSH 지침에 근거하여 마감된 것으로 기술하십시오."
 
 updated: 2026-09-07
 sources:

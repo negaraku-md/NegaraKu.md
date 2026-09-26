@@ -14,20 +14,18 @@ sensitivity: "none"
 
 answer: "회사법(Companies Act 2016) 제127조에 따라, 주식이 증권거래소에 상장된 회사는 정관이 이를 허용하고, 회사가 지급능력이 있으며, 취득이 거래소를 통해 선의로 이루어지고, 발행 주식의 10% 한도를 초과하지 않는 경우 자기주식을 취득할 수 있습니다. (제127조(3)은 거래소 규칙이 허용하는 경우 장외(off-market) 취득도 허용합니다.) 취득한 주식은 소각하거나 자기주식(treasury shares)으로 보유할 수 있으며, 자기주식은 의결권이나 배당권을 갖지 않습니다. 취득 통지는 14일 이내에 등록관과 거래소에 제출되어야 합니다."
 keyTakeaways:
-  - "Hanya syarikat tersenarai (saham disebut harga di bursa) boleh membeli balik saham sendiri — s.127(1)."
-  - "Tiga syarat s.127(2): solven, dibuat melalui bursa mengikut peraturannya, dan dengan suci hati demi kepentingan syarikat."
-  - "Had agregat 10% daripada jumlah saham terbitan, dibiayai sepenuhnya daripada keuntungan tertahan (Bab 12 Keperluan Penyenaraian Bursa — Pasaran Utama & Pasaran ACE, Kaedah 12.09 & 12.10)."
-  - "Notis pembelian kepada Pendaftar dan bursa dalam 14 hari — s.127(16); gagal patuh denda sehingga RM50,000 di bawah s.127(18)."
-appliesTo: "Setiausaha syarikat, pengarah dan penasihat syarikat awam tersenarai yang mempertimbangkan pembelian balik saham."
-
+  - "상장회사(주식이 거래소에 상장된 회사)만이 자기주식을 취득할 수 있습니다 — s.127(1)."
+  - "s.127(2)의 세 가지 요건: 지급능력이 있을 것, 거래소의 규정에 따라 거래소를 통해 이루어질 것, 그리고 회사의 이익을 위하여 선의로 이루어질 것."
+  - "총 발행 주식의 10% 총량 한도이며, 전액 이익잉여금으로 조달됩니다(부르사 상장규정(Bursa Listing Requirements) 제12장 — 메인 시장 및 ACE 시장, 규정 12.09 및 12.10)."
+  - "취득 통지를 14일 이내에 등기관과 거래소에 — s.127(16); 위반 시 s.127(18)에 따라 RM50,000 이하의 벌금."
+appliesTo: "자기주식 취득을 검토하는 상장 공개회사의 회사 비서, 이사 및 자문역."
 faq:
-  - q: "Bolehkah syarikat persendirian (Sdn Bhd) membeli balik sahamnya sendiri di bawah Seksyen 127?"
-    a: "Tidak. Seksyen 127(1) hanya membenarkan syarikat yang sahamnya disebut harga di bursa saham, iaitu syarikat tersenarai. Syarikat persendirian dan syarikat awam tidak tersenarai tidak boleh menggunakan mekanisme ini."
-  - q: "Adakah saham perbendaharaan membawa hak mengundi dan dividen?"
-    a: "Tidak. Di bawah s.127(8), saham perbendaharaan tidak membawa hak menghadiri atau mengundi di mesyuarat, mahupun hak menerima dividen atau pengagihan lain. Ia juga tidak dikira dalam pengiraan ambang pegangan (s.127(9))."
-  - q: "Dari mana dana pembelian balik saham boleh diambil?"
-    a: "Pembelian mesti dibiayai sepenuhnya daripada keuntungan tertahan syarikat pada asas syarikat (bukan kumpulan) — Kaedah 12.10 Bab 12 Keperluan Penyenaraian Bursa. Pinjaman boleh digunakan sebagai sumber dana asalkan pembelian disokong oleh jumlah keuntungan tertahan yang setara (Kaedah 12.11)."
-
+  - q: "비공개회사(Sdn Bhd)가 제127조에 따라 자기주식을 취득할 수 있습니까?"
+    a: "아닙니다. 제127(1)조는 주식이 증권거래소에 상장된 회사, 즉 상장회사에만 허용합니다. 비공개회사와 비상장 공개회사는 이 제도를 이용할 수 없습니다."
+  - q: "자기주식(treasury shares)은 의결권과 배당권을 가집니까?"
+    a: "아닙니다. s.127(8)에 따라 자기주식은 회의에 출석하거나 의결할 권리도, 배당이나 그 밖의 분배를 받을 권리도 가지지 않습니다. 또한 보유 기준의 계산에도 산입되지 않습니다(s.127(9))."
+  - q: "자기주식 취득 자금은 어디에서 조달할 수 있습니까?"
+    a: "취득은 그룹이 아니라 회사 기준으로 회사의 이익잉여금에서 전액 조달되어야 합니다 — 부르사 상장규정 제12장 규정 12.10. 취득이 그에 상응하는 금액의 이익잉여금으로 뒷받침되는 한 차입금을 자금원으로 사용할 수 있습니다(규정 12.11)."
 lang: "ko"
 sourceContentHash: "6bd8a430b49db96b"
 masterLanguage: "ms"
@@ -46,10 +44,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan URL rasmi PDF Bab 12 (Share Buy-Backs) Keperluan Penyenaraian Pasaran Utama dan Pasaran ACE terus dari bursamalaysia.com (WebFetch disekat 403 semasa pas pembetulan ini) dan pastikan nombor kaedah 12.03/12.07(3)/12.09/12.10/12.11/12.17/12.19/12.20/12.21 serta Apendiks 12A masih sepadan dalam edisi terkini."
-  - "Sahkan sama ada artikel patut memberi fokus kepada Pasaran Utama, Pasaran ACE, atau kedua-duanya; nombor kaedah adalah sama dalam kedua-dua rangka kerja tetapi harga rujukan dokumen berbeza."
-  - "Sahkan tempoh 6.30 petang (Kaedah 12.19/12.20/12.21) dan had harga 15% (Kaedah 12.17) terhadap edisi Bursa semasa."
-
+  - "메인 시장 및 ACE 시장 상장규정 제12장(자기주식 취득, Share Buy-Backs) PDF의 공식 URL을 bursamalaysia.com에서 직접 확인하고(이 수정 작업 중 WebFetch가 403으로 차단됨), 규정 번호 12.03/12.07(3)/12.09/12.10/12.11/12.17/12.19/12.20/12.21 및 부록 12A가 최신판에서 여전히 일치하는지 확인하십시오."
+  - "이 글이 메인 시장, ACE 시장, 또는 둘 다에 초점을 두어야 하는지 확인하십시오. 규정 번호는 두 체계에서 동일하나 문서의 참조 가격(harga rujukan)은 다릅니다."
+  - "오후 6시 30분 기한(규정 12.19/12.20/12.21)과 15% 가격 한도(규정 12.17)를 현행 부르사(Bursa) 판과 대조하여 확인하십시오."
 updated: 2026-08-07
 sources:
   - title: "Companies Act 2016 (Act 777), Section 127 — Purchase by a company of its own shares"

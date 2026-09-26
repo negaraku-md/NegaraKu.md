@@ -14,21 +14,21 @@ sensitivity: "none"
 
 answer: "말레이시아는 관세법 1967(Customs Act 1967)에 따라 재화의 CIF 가치에 대해 수입 관세를 부과하며, 종가세 백분율 또는 고정 종량세율로 하고, 대부분의 재화는 0%에서 30% 사이에 속합니다. 세율은 전적으로 재화가 통일 시스템(Harmonized System) / ASEAN 통일 관세 명명법(AHTN)에 따라 어떻게 분류되는지에 달려 있습니다. 이어 판매세(대개 10%)가 CIF 가치에 관세를 더한 금액에 부과되므로 복합됩니다. ATIGA에 따라 ASEAN 원산으로 인정되는 재화는 수입자가 유효한 양식 D를 제시하면 특혜 — 흔히 영(零) — 관세로 반입될 수 있습니다."
 keyTakeaways:
-  - "Import duty is assessed on the CIF (cost, insurance, freight) value, either ad valorem (a percentage) or specific (a fixed amount per unit)."
-  - "The correct HS/AHTN tariff code determines the duty rate — misclassification is the most common cause of over- or under-payment."
-  - "Sales tax is charged on CIF value PLUS import duty, so the two taxes compound rather than sit side by side."
-  - "ATIGA and Malaysia's other FTAs can reduce duty to zero, but only if the goods meet the Rules of Origin and the importer holds a valid Certificate of Origin such as Form D."
-appliesTo: "Importers, e-commerce sellers, freight forwarders, and finance teams landing goods into Malaysia."
+  - "수입 관세는 CIF(원가·보험료·운임) 가치에 대해 종가세(백분율) 또는 종량세(단위당 고정 금액)로 부과됩니다."
+  - "올바른 HS/AHTN 관세 코드가 관세율을 결정합니다 — 분류 오류는 과다 또는 과소 납부의 가장 흔한 원인입니다."
+  - "판매세는 CIF 가치에 수입 관세를 더한 금액에 부과되므로, 두 세금은 나란히 있는 것이 아니라 복합됩니다."
+  - "ATIGA와 말레이시아의 다른 자유무역협정(FTA)은 관세를 영(零)까지 줄일 수 있으나, 재화가 원산지 규정을 충족하고 수입자가 양식 D(Form D)와 같은 유효한 원산지증명서를 보유하는 경우에만 그렇습니다."
+appliesTo: "수입업자, 전자상거래 판매자, 화물 운송 주선업자, 그리고 말레이시아로 재화를 반입하는 재무팀."
 
 faq:
-  - q: "How is Malaysian import duty calculated?"
-    a: "Duty is charged on the CIF value (cost + insurance + freight). For ad valorem rates you multiply the CIF value by the tariff percentage; for specific rates you pay a fixed amount per unit (per litre, per kilogram, etc.). The rate itself is set by the goods' HS/AHTN tariff classification."
-  - q: "Is sales tax charged on top of the import duty?"
-    a: "Yes. Sales tax on imported goods is applied to the CIF value plus the import duty (and excise duty, if any). So on RM100,000 of goods with 5% duty, duty is RM5,000, and sales tax is charged on RM105,000 — a tax-on-tax effect."
-  - q: "How do I get the zero-duty ATIGA rate?"
-    a: "The goods must originate in an ASEAN member state under the Rules of Origin — generally at least 40% Regional Value Content or a change in tariff classification at the 4-digit level — and you must lodge a valid Form D (or e-Form D via the ASEAN Single Window) with your import declaration. There is no automatic preference."
-  - q: "Are cheap online parcels duty-free?"
-    a: "Consignments valued at RM500 or less are generally exempt from import duty and sales tax at the border. However, since 1 January 2024 a separate 10% sales tax on Low Value Goods applies to such items sold online and shipped into Malaysia, collected by the registered seller or marketplace."
+  - q: "말레이시아 수입 관세는 어떻게 계산됩니까?"
+    a: "관세는 CIF 가치(원가 + 보험료 + 운임)에 부과됩니다. 종가세율의 경우 CIF 가치에 관세 백분율을 곱하고, 종량세율의 경우 단위당(리터당, 킬로그램당 등) 고정 금액을 납부합니다. 세율 자체는 재화의 HS/AHTN 관세 분류에 의해 정해집니다."
+  - q: "판매세가 수입 관세 위에 부과됩니까?"
+    a: "그렇습니다. 수입 재화에 대한 판매세는 CIF 가치에 수입 관세(및 특별소비세가 있는 경우 이를 더한 금액)에 적용됩니다. 따라서 관세율 5%인 RM100,000 상당의 재화의 경우 관세는 RM5,000이고, 판매세는 RM105,000에 부과됩니다 — 세금에 세금이 붙는 효과입니다."
+  - q: "무관세 ATIGA 세율을 어떻게 받습니까?"
+    a: "재화는 원산지 규정에 따라 ASEAN 회원국을 원산으로 해야 하며 — 일반적으로 역내 부가가치 비율(RVC) 40% 이상 또는 4자리 수준에서의 관세 분류 변경 — 수입 신고와 함께 유효한 양식 D(Form D)(또는 ASEAN 싱글 윈도우를 통한 e-Form D)를 제출해야 합니다. 자동으로 부여되는 특혜는 없습니다."
+  - q: "저렴한 온라인 소포는 무관세입니까?"
+    a: "가치가 RM500 이하인 탁송품은 일반적으로 국경에서 수입 관세와 판매세가 면제됩니다. 그러나 2024년 1월 1일부터 온라인으로 판매되어 말레이시아로 배송되는 그러한 품목에는 별도의 10% 소액 재화(Low Value Goods) 판매세가 적용되며, 이는 등록된 판매자 또는 마켓플레이스가 징수합니다."
 
 lang: "ko"
 sourceContentHash: "49578a6ca3069696"
@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The RM500 import-duty/sales-tax de minimis threshold at the border remains current."
-  - "Form D processing time (~3 working days) and 2-year validity of exporter authorisation to issue Form D."
-  - "Live duty rates and tariff codes change each budget cycle and AHTN revision — confirm against RMCD's current tariff schedule before relying on any specific rate."
+  - "국경에서의 RM500 수입 관세/판매세 소액 면제 기준이 현재도 유효한지."
+  - "양식 D(Form D) 처리 기간(약 3근무일)과 양식 D 발급에 대한 수출자 승인의 2년 유효기간."
+  - "실제 관세율과 관세 코드는 예산 주기와 AHTN 개정마다 변경됩니다 — 특정 세율에 의존하기 전에 RMCD의 현행 관세표에 대조하여 확인하십시오."
 updated: 2026-08-16
 sources:
   - title: "Targeted Revision of Sales Tax Rate and Expansion of Service Tax Scope, effective 1 July 2025 — Sales Tax remains at 5% and 10%"

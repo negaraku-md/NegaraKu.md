@@ -14,28 +14,28 @@ sensitivity: "none"
 
 answer: "등록은 Act 709 제14조에 따라 지정된 부류에 속하는 데이터 관리자에게만 요구됩니다. 13개 부류가 있으며, 2013년 개인정보보호(데이터 사용자 분류) 명령(Personal Data Protection (Class of Data Users) Order 2013)에 의해 정해지고 2016년에 한 차례 개정되었습니다. 부류에 속하면서 증명서 없이 처리하는 것은 RM500,000 또는 3년입니다. 세 번째 분류 명령은 존재하지 않으므로, 그 목록은 2016년 12월 16일 이래 고정되어 있습니다."
 keyTakeaways:
-  - "13 classes, under P.U.(A) 336/2013 as amended by P.U.(A) 326/2016"
-  - "The 2016 amendment added only pawnbrokers and moneylenders, plus two named entities"
-  - "No further class order has been gazetted — confirmed against the AGC subsidiary legislation index"
-  - "Fees under P.U.(A) 337/2013: RM100 sole proprietor, RM200 partnership, RM300 private company, RM400 public company"
-  - "Register separately for each class you belong to; the certificate runs at least 12 months"
-  - "Class 9(b) reaches retail dealing and wholesale dealing, and its scope is genuinely open"
-  - "Registration status has no bearing on the DPO and breach-notification duties, which bind every controller"
-appliesTo: "Any Malaysian data controller checking whether it must hold a certificate of registration from the Personal Data Protection Commissioner."
+  - "P.U.(A) 326/2016으로 개정된 P.U.(A) 336/2013에 따른 13개 분류"
+  - "2016년 개정은 전당업자와 대금업자, 그리고 명시된 두 개 기관만을 추가했습니다"
+  - "추가적인 분류 명령은 관보에 게재되지 않았습니다 — 법무장관실(AGC) 하위법령 목록과 대조하여 확인함"
+  - "P.U.(A) 337/2013에 따른 수수료: 개인사업자 RM100, 조합 RM200, 비공개회사 RM300, 공개회사 RM400"
+  - "속하는 각 분류마다 별도로 등록해야 하며; 등록증의 유효기간은 최소 12개월입니다"
+  - "분류 9(b)는 소매 거래와 도매 거래에 미치며, 그 범위는 실제로 열려 있습니다"
+  - "등록 여부는 모든 관리자를 구속하는 DPO 및 유출 통지 의무와 무관합니다"
+appliesTo: "개인정보보호위원장(Personal Data Protection Commissioner)의 등록증을 보유해야 하는지 확인하는 모든 말레이시아 데이터 관리자."
 
 verificationNeeded:
-  - "Whether JPDP reads class 9(b) as conjunctive, requiring both retail and wholesale dealing, or as covering either — no published interpretation exists"
-  - "Whether the references to the Companies Act 1965 in classes 9(a), 9(b) and 9(c) are read as references to the Companies Act 2016 by operation of the Interpretation Acts — the order has never been amended"
-  - "Whether an online retailer selling only non-controlled articles falls within the Control of Supplies Act 1961 definitions of retail and wholesale dealing"
+  - "JPDP가 분류 9(b)를 소매와 도매 거래 모두를 요구하는 중첩적 의미로 읽는지, 아니면 둘 중 하나를 포괄하는 것으로 읽는지 — 공표된 해석이 존재하지 않음"
+  - "분류 9(a)·9(b)·9(c)의 회사법(Companies Act 1965) 인용이 해석법(Interpretation Acts)의 작용으로 회사법(Companies Act 2016)에 대한 인용으로 읽히는지 여부 — 해당 명령은 개정된 적이 없음"
+  - "비통제 품목만 판매하는 온라인 소매업자가 물자통제법(Control of Supplies Act 1961)의 소매 및 도매 거래 정의에 해당하는지 여부"
 
 obligations:
-  - what: "Apply for renewal of the certificate of registration"
+  - what: "등록증 갱신을 신청할 것"
     trigger: "anniversary"
     withinDays: 90
-    due: "not later than 90 days before the date of expiry; no renewal is allowed after expiry"
+    due: "만료일 90일 전까지; 만료 후에는 갱신이 허용되지 않음"
     authority: "JPDP"
     statute: "Personal Data Protection Act 2010, s.17(1)"
-    consequence: "Fine up to RM250,000 or 2 years for continuing to process after expiry"
+    consequence: "만료 후 계속 처리 시 최대 RM250,000의 벌금 또는 2년"
 
 lang: "ko"
 sourceContentHash: "0a5d002129db4742"

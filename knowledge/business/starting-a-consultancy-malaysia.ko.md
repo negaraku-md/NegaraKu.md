@@ -47,7 +47,7 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "The self-employed SOCSO (SESSS, Act 789) mandatory-versus-voluntary scope by sector, and the EPF i-Saraan incentive terms, should be confirmed against perkeso.gov.my and kwsp.gov.my; SSM registration fees should be confirmed on ssm.com.my."
+  - "자영업자 사회보장(SESSS, Act 789)의 부문별 의무·임의 적용 범위, 그리고 직원공제기금(EPF) i-Saraan 인센티브 조건은 perkeso.gov.my 및 kwsp.gov.my와 대조하여 확인해야 하며; SSM 등록 수수료는 ssm.com.my에서 확인해야 함."
 
 updated: 2026-09-07
 sources:

@@ -13,25 +13,25 @@ sensitivity: "none"
 
 answer: "사업을 영위하면서 말레이시아 밖의 공급자로부터 과세 용역을 취득하는 경우, 등록하지 않았고 등록 의무가 없더라도 서비스세를 자가 신고해야 합니다. 비등록 취득자는 서비스세법 2018(Service Tax Act 2018) 제26A조에 따라 양식 SST-02A로, 매월, 지급이 이루어진 달 또는 송장을 받은 달 중 이른 것의 다음 달 마지막 날까지 신고합니다."
 keyTakeaways:
-  - "Section 26A applies to any person other than a taxable person — there is no monetary threshold"
-  - "Non-registered acquirers use Form SST-02A, not SST-02"
-  - "The declaration period is monthly, not the bi-monthly taxable period"
-  - "The trigger is the earlier of payment made or invoice received"
-  - "Registered persons account for imported services inside their normal SST-02 return"
-  - "The qualifier that limits it is in carrying on his business — private consumption is outside s.26A"
-appliesTo: "Any Malaysian business paying an overseas supplier for services, whether or not it is SST-registered."
+  - "제26A조는 과세인 이외의 모든 자에게 적용됩니다 — 금액 기준은 없습니다"
+  - "비등록 취득자는 SST-02가 아니라 양식 SST-02A(Form SST-02A)를 사용합니다"
+  - "신고 기간은 격월 과세기간이 아니라 매월입니다"
+  - "발생 시점은 지급이 이루어진 때와 송장을 받은 때 중 이른 것입니다"
+  - "등록인은 통상의 SST-02 신고서 내에서 수입 용역을 신고합니다"
+  - "이를 제한하는 요건은 「사업을 영위하면서」입니다 — 사적 소비는 제26A조 밖입니다"
+appliesTo: "SST 등록 여부와 관계없이 해외 공급자에게 용역 대금을 지급하는 모든 말레이시아 사업체."
 
 verificationNeeded:
-  - "Which First Schedule groups have their imported equivalents caught, and the exclusions, were not enumerated from an official source — confirm scope against the RMCD Guide on Imported Taxable Services before relying on any group-by-group list"
-  - "Whether a Malaysian business recipient must still self-account under s.26A where the foreign supplier is registered as a foreign registered person under the digital services regime — this interaction is commonly mis-stated and was not verified"
+  - "제1부칙(First Schedule)의 어느 그룹이 수입 대응 용역에 포함되는지, 그리고 그 제외 항목은 공식 출처에서 열거되지 않았습니다 — 그룹별 목록에 의존하기 전에 수입 과세 용역에 관한 RMCD 지침(RMCD Guide on Imported Taxable Services)에 대조하여 범위를 확인하십시오"
+  - "외국 공급자가 디지털 용역 제도에 따라 외국 등록인으로 등록된 경우에도 말레이시아 사업 수령자가 여전히 제26A조에 따라 자가 신고해야 하는지 여부 — 이 상호작용은 흔히 잘못 기술되며 확인되지 않았습니다"
 
 obligations:
-  - what: "Declare and pay service tax on imported taxable services (non-registered person)"
+  - what: "수입 과세 용역에 대한 서비스세 신고 및 납부(비등록인)"
     trigger: "ongoing"
-    due: "not later than the last day of the month following the month in which payment was made or the invoice received, whichever is earlier"
+    due: "지급이 이루어진 달 또는 송장을 받은 달 중 이른 것의 다음 달 마지막 날보다 늦지 않게"
     authority: "RMCD"
     statute: "Service Tax Act 2018, s.26A(1)"
-    consequence: "Fine up to RM50,000 or three years imprisonment under s.26A(2), plus late-payment penalty of 10%, 25% then 40% under s.26A(3)"
+    consequence: "제26A(2)조에 따라 최대 RM50,000의 벌금 또는 3년의 징역, 그리고 제26A(3)조에 따라 10%, 25%, 이어 40%의 납부 지연 벌금"
 
 lang: "ko"
 sourceContentHash: "08a2fb22e81e604e"

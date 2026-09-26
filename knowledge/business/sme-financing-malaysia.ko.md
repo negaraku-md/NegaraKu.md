@@ -24,13 +24,13 @@ keyTakeaways:
 appliesTo: "운전자본, 자본지출 자금, 또는 초기 단계 보조금을 찾는 말레이시아인 소유 중소기업 및 소기업."
 
 verificationNeeded:
-  - "The current PENJANA Tourism Financing rate for approvals after 31 December 2025 is not published by BNM or SME Bank — the 3.5% figure applied only to financing approved by that date"
-  - "Allocations for the Micro Enterprises Facility, PENJANA Tourism Financing and the Relief and Adaptation Facility are not published"
-  - "Terms of the RM10 billion BNM-CGC guarantee schemes sit on cgc.com.my and were not verified against a primary BNM source"
-  - "SME Bank publishes no open or closed status for any programme, and does not publish the current Base Financing Rate, so all BFR-linked rates are spreads rather than effective rates"
-  - "Cradle does not state whether CIP Spark or CIP Sprint applications are currently open; Cradle Elevate could not be read at all"
-  - "MTDC publishes no status for any fund except SemiconStart, whose page advertised itself as open past its own stated closing date"
-  - "TEKUN publishes no open or closed flag per scheme, and its Ar Rahnu 4u figures are typographically malformed on the live page"
+  - "2025년 12월 31일 이후 승인에 대한 현행 PENJANA 관광 금융 금리는 BNM이나 SME Bank가 공표하지 않습니다 — 3.5% 수치는 그 날짜까지 승인된 금융에만 적용되었음"
+  - "소기업 지원 기금(Micro Enterprises Facility), PENJANA 관광 금융 및 구제·적응 기금(Relief and Adaptation Facility)의 배정액은 공표되지 않음"
+  - "RM10,000,000,000 규모의 BNM-CGC 보증 제도의 조건은 cgc.com.my에 있으며 1차 BNM 자료와 대조하여 확인하지 못함"
+  - "SME Bank는 어떤 프로그램에 대해서도 개시 또는 마감 상태를 공표하지 않고, 현행 기준 금융 금리(Base Financing Rate)도 공표하지 않으므로, 모든 BFR 연동 금리는 실효 금리가 아니라 가산 스프레드임"
+  - "Cradle은 CIP Spark 또는 CIP Sprint 신청이 현재 열려 있는지 밝히지 않으며; Cradle Elevate는 전혀 읽을 수 없었음"
+  - "MTDC는 SemiconStart를 제외한 어떤 기금에 대해서도 상태를 공표하지 않으며, SemiconStart 페이지는 자체 명시된 마감일이 지난 후에도 스스로를 열려 있는 것으로 광고했음"
+  - "TEKUN은 제도별 개시 또는 마감 표시를 공표하지 않으며, Ar Rahnu 4u 수치는 라이브 페이지에서 활자상 잘못 표기되어 있음"
 
 lang: "ko"
 sourceContentHash: "3e2ae8690cffc294"

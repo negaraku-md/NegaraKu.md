@@ -14,24 +14,22 @@ sensitivity: "none"
 
 answer: "싱가포르나 뉴질랜드와 달리, 말레이시아에는 약식 법정 합병이 없습니다. 둘 이상의 회사는 회사법(Companies Act 2016) s.366 및 s.370에 따른 법원 승인 조정계획(scheme of arrangement)을 통해 결합합니다. 이 계획은 출석하여 의결하는 사원 또는 채권자 총가치의 75% 다수결, 고등법원(High Court)의 인가, 그리고 효력 발생 전에 말레이시아 기업위원회(SSM, Registrar of Companies)에 제출된 법원 명령의 정본(office copy)을 필요로 합니다."
 keyTakeaways:
-  - "Amalgamation in Malaysia runs through the scheme-of-arrangement machinery in Subdivision 2 (ss.365-371) of the Companies Act 2016 - there is no separate one-step merger provision; the two operative sections are 366 and 370."
-  - "Approval requires a majority of 75% of the total value of the class present and voting at a court-ordered meeting (s.366(3)), then court sanction."
-  - "Section 370 lets the court vest the transferor company's undertaking, property and liabilities in the transferee company and dissolve the transferor without winding up."
-  - "A scheme order has no effect until an office copy is lodged with the Registrar (s.366(5)); a section 370 order must be lodged within seven days (s.370(4))."
-appliesTo: "Company secretaries, directors, and advisers structuring a merger, group reorganisation, or transfer of a business between Malaysian companies."
-
+  - "말레이시아의 합병은 회사법(Companies Act 2016) 제2세부(Subdivision 2, ss.365-371)의 조정계획(scheme of arrangement) 절차를 통해 이루어집니다 — 별도의 일단계 합병 규정은 없으며, 핵심 조항은 s.366과 s.370입니다."
+  - "승인에는 법원이 명령한 회의에 출석하여 의결하는 해당 종류 총가치의 75% 다수결(s.366(3))과 그에 이은 법원의 인가가 필요합니다."
+  - "s.370은 법원이 양도회사의 영업·재산·부채를 양수회사에 귀속시키고 청산 없이 양도회사를 해산할 수 있도록 합니다."
+  - "조정계획 명령은 그 정본이 등기관에게 제출되기 전에는 효력이 없으며(s.366(5)), s.370 명령은 7일 이내에 제출해야 합니다(s.370(4))."
+appliesTo: "말레이시아 회사 간 합병, 그룹 재편 또는 사업 이전을 설계하는 회사 비서, 이사 및 자문역."
 faq:
-  - q: "Does the Companies Act 2016 have a one-step statutory merger like Singapore?"
-    a: "No. Malaysia's Companies Act 2016 has no short-form amalgamation where boards simply pass resolutions. Companies combine through a court-sanctioned scheme of arrangement under sections 366 and 370, which requires a court-ordered meeting, a 75% vote, and High Court approval."
-  - q: "What voting threshold is needed to approve an amalgamation scheme?"
-    a: "Section 366(3) requires the compromise or arrangement to be agreed by a majority of 75% of the total value of the creditors or members (or the relevant class) present and voting in person or by proxy at the court-ordered meeting, and then approved by order of the Court."
-  - q: "Can the court transfer assets and dissolve the transferor company automatically?"
-    a: "Yes. Under section 370(2) the court may order the transfer of the undertaking, property and liabilities of the transferor company to the transferee company and the dissolution of the transferor without winding up. The property vests by virtue of the order (s.370(3))."
-  - q: "When does a scheme of arrangement take effect?"
-    a: "A section 366 order has no effect until an office copy is lodged with the Registrar (SSM); it then takes effect from the date of lodgement or an earlier date the court specifies (s.366(5)). A section 370 order must also be lodged with the Registrar within seven days (s.370(4))."
-  - q: "Is a court meeting always required, even for a wholly-owned internal reorganisation?"
-    a: "Section 366(1) contemplates a court-ordered meeting of the affected class, and a section 370 vesting order presupposes a scheme approved under section 366. Whether the court can dispense with the meeting where the outcome is not in genuine dispute is a live question that practitioners have raised, and the answer is fact-sensitive. Do not assume a meeting can be skipped; take Malaysian legal advice on the specific structure."
-
+  - q: "회사법(Companies Act 2016)에는 싱가포르와 같은 일단계 법정 합병이 있습니까?"
+    a: "없습니다. 말레이시아 회사법(Companies Act 2016)에는 이사회가 결의만으로 처리하는 약식 합병이 없습니다. 회사는 s.366과 s.370에 따라 법원이 인가하는 조정계획을 통해 결합하며, 이는 법원이 명령한 회의, 75% 찬성, 그리고 고등법원(High Court)의 승인을 요구합니다."
+  - q: "합병 조정계획을 승인하려면 어떤 의결 요건이 필요합니까?"
+    a: "s.366(3)은 화해 또는 조정이 법원이 명령한 회의에 본인 또는 대리인으로 출석하여 의결하는 채권자 또는 사원(또는 해당 종류) 총가치의 75% 다수결로 합의되고, 이어서 법원의 명령으로 승인될 것을 요구합니다."
+  - q: "법원이 자산을 이전하고 양도회사를 자동으로 해산할 수 있습니까?"
+    a: "예. s.370(2)에 따라 법원은 양도회사의 영업·재산·부채를 양수회사에 이전하고 청산 없이 양도회사를 해산하도록 명령할 수 있습니다. 재산은 그 명령에 의하여 귀속됩니다(s.370(3))."
+  - q: "조정계획은 언제 효력이 발생합니까?"
+    a: "s.366 명령은 그 정본이 등기관(SSM)에게 제출되기 전에는 효력이 없으며, 그 후 제출일 또는 법원이 지정한 그보다 이른 날부터 효력이 발생합니다(s.366(5)). s.370 명령 역시 7일 이내에 등기관에게 제출해야 합니다(s.370(4))."
+  - q: "완전자회사 간 내부 재편의 경우에도 법원 회의가 항상 필요합니까?"
+    a: "s.366(1)은 영향을 받는 종류의 법원 명령 회의를 예정하고 있으며, s.370 귀속 명령은 s.366에 따라 승인된 조정계획을 전제로 합니다. 결과에 실질적 다툼이 없는 경우 법원이 회의를 면제할 수 있는지는 실무자들이 제기해 온 미해결 쟁점이며, 그 답은 사실관계에 따라 달라집니다. 회의를 생략할 수 있다고 단정하지 말고, 구체적 구조에 관하여 말레이시아 법률 자문을 받으십시오."
 lang: "ko"
 sourceContentHash: "c7201bb6830e2b18"
 masterLanguage: "en"
@@ -50,10 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether a section 366(1) scheme meeting can be dispensed with for a wholly-owned or uncontested internal reorganisation - a contested, fact-sensitive interpretive point; confirm current Malaysian court guidance before relying on either position."
-  - "Whether section 371 (90% compulsory acquisition threshold) and its interaction with an asset-based amalgamation is correctly characterised for the reader's specific deal."
-  - "That the SSM consolidated Companies Act 2016 PDF cited remains the current in-force text at time of use (check for later amendments)."
-
+  - "완전자회사 간 또는 다툼 없는 내부 재편에서 s.366(1) 조정계획 회의를 면제할 수 있는지 여부 — 다툼이 있고 사실관계에 민감한 해석상 쟁점이므로, 어느 입장에 의존하기 전에 현행 말레이시아 법원의 지침을 확인하십시오."
+  - "s.371(90% 강제취득 기준)과 자산 기반 합병의 상호작용이 독자의 구체적 거래에 대하여 올바르게 규정되었는지 여부."
+  - "인용된 SSM 통합본 회사법(Companies Act 2016) PDF가 이용 시점에 현행 유효 조문으로 남아 있는지 여부(이후 개정 여부 확인)."
 updated: 2026-08-07
 sources:
   - title: "Companies Act 2016 (Act 777), Subdivision 2 - Arrangements and Reconstructions, ss.365-371"

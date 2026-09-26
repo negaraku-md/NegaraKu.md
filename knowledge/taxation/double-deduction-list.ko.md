@@ -14,18 +14,18 @@ sensitivity: "none"
 
 answer: "이중 공제는 사업체가 동일한 비용을 두 번 공제할 수 있게 합니다. 말레이시아에서 이는 두 곳에서 비롯됩니다 — 소득세법 1967(Income Tax Act 1967) 제34A, 34B, 34(6)(ma)조, 그리고 제33(1)(d)조와 함께 읽는 제154(1)(b)조에 따라 장관이 관보 고시한 규칙입니다. 각 관보 명령은 자체의 적격 지출, 상한, 과세연도 기간을 정하며, 다수는 이미 실효되었습니다. 이 목록은 관보 고시된 본문에 대해 확인된 명령만을 열거합니다."
 keyTakeaways:
-  - "Double deduction is never general — every claim traces to a named section or a numbered P.U.(A)"
-  - "The drafting to look for is “twice the amount” or “in addition to any deduction under section 33”"
-  - "Flexible work arrangements moved from double deduction to an extra 50% under P.U.(A) 225/2026"
-  - "Several well-known incentives have quietly expired — senior-citizen hiring ended after YA2025"
-  - "Most Income Tax (Deduction …) Rules are single deductions, not double — the title tells you nothing"
-  - "Claims sit in the return with no pre-approval, so the evidence burden is entirely yours"
-appliesTo: "Company tax preparers, in-house finance teams and advisors checking whether an incentive still exists."
+  - "이중 공제는 결코 일반적이지 않습니다 — 모든 청구는 지정된 조문 또는 번호가 매겨진 P.U.(A)로 거슬러 올라갑니다"
+  - "찾아야 할 문구는 「금액의 두 배」 또는 「제33조에 따른 공제에 더하여」입니다"
+  - "유연근무 제도는 P.U.(A) 225/2026에 따라 이중 공제에서 추가 50%로 변경되었습니다"
+  - "잘 알려진 여러 인센티브가 조용히 실효되었습니다 — 고령자 고용은 2025 과세연도 이후 종료되었습니다"
+  - "대부분의 소득세(공제 …) 규칙은 이중이 아니라 단일 공제입니다 — 제목만으로는 아무것도 알 수 없습니다"
+  - "청구는 사전 승인 없이 신고서에 기재되므로, 입증 책임은 전적으로 귀하에게 있습니다"
+appliesTo: "회사 세무 작성자, 사내 재무팀, 그리고 인센티브가 여전히 존재하는지 확인하는 자문가."
 
 verificationNeeded:
-  - "Pre-2000 double deductions (approved training P.U.(A) 61/1992, export credit insurance premiums, promotion of exports) are not retrievable in full text from the AGC subsidiary-legislation database — the Promotion of Exports Rules survive only as amendment P.U.(A) 267/2003. Confirm current status with LHDN before claiming."
-  - "Income Tax (Deductions for the Employment of Disabled Persons) Rules 1982, P.U.(A) 73/1982 — only the 2019 amending instrument is retrievable; the parent text was not located, so the mechanism is described from the amendment."
-  - "Whether P.U.(A) 164/2019 was further extended beyond YA2025 by an instrument gazetted after this page was written."
+  - "2000년 이전의 이중 공제(승인 교육 P.U.(A) 61/1992, 수출신용보험료, 수출 촉진)는 AGC 하위 법령 데이터베이스에서 전문을 확보할 수 없습니다 — 수출 촉진 규칙은 개정 P.U.(A) 267/2003으로만 남아 있습니다. 청구 전에 말레이시아 국세청(LHDN)에 현행 상태를 확인하십시오."
+  - "소득세(장애인 고용에 대한 공제) 규칙 1982(Income Tax (Deductions for the Employment of Disabled Persons) Rules 1982), P.U.(A) 73/1982 — 2019년 개정 문서만 확보할 수 있으며, 모법 본문은 확인되지 않았으므로 그 구조는 개정본으로부터 기술됩니다."
+  - "P.U.(A) 164/2019가 이 페이지 작성 후 관보에 게재된 문서에 의해 2025 과세연도를 넘어 추가로 연장되었는지 여부."
 
 lang: "ko"
 sourceContentHash: "94db45958fc37cd4"

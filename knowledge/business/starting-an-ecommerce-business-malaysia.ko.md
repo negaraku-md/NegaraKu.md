@@ -49,9 +49,9 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "E-invoicing thresholds are highly volatile — the exemption has moved from RM500,000 to RM1 million and now to RM3 million (per the LHDN e-Invoice FAQ dated 4 September 2026), with an interim relaxation for taxpayers up to RM5 million to 31 December 2027. Re-check the current LHDN e-Invoice guideline/FAQ on hasil.gov.my before relying on any threshold or date."
-  - "The status of the Bahasa Malaysia listing-language requirement under the Consumer Protection (Electronic Trade Transaction) Regulations 2024 (enforcement reported as postponed/under review), and the PDPA 2024 amendment specifics (breach-notification effective date, DPO appointment threshold), should be confirmed against pdp.gov.my and the AGC before relying on specifics."
-  - "SSM registration fees (RM30/RM60) and the current SST/digital-service-tax rates and thresholds should be confirmed against the official ssm.com.my and RMCD pages at publish time. Warn readers that lookalike domains such as ssm-ezbiz-style resellers are not the official SSM site (ssm.com.my / ezbiz.ssm.com.my)."
+  - "전자송장 기준액은 매우 유동적입니다 — 면제 기준이 RM500,000에서 RM1,000,000으로, 이제 RM3,000,000으로 이동했으며(2026년 9월 4일자 LHDN 전자송장 FAQ 기준), RM5,000,000까지의 납세자에 대해 2027년 12월 31일까지 잠정 완화가 있습니다. 어떤 기준액이나 날짜에 의존하기 전에 hasil.gov.my에서 현행 LHDN 전자송장 지침/FAQ를 재확인하십시오."
+  - "소비자보호(전자상거래)규정(Consumer Protection (Electronic Trade Transaction) Regulations 2024)에 따른 말레이어 표기 언어 요건의 상태(시행이 연기/검토 중으로 보고됨), 그리고 PDPA 2024 개정의 세부 사항(유출 통지 시행일, DPO 선임 기준)은 pdp.gov.my 및 AGC와 대조하여 확인해야 함."
+  - "SSM 등록 수수료(RM30/RM60)와 현행 SST/디지털서비스세 세율 및 기준액은 게재 시점에 공식 ssm.com.my 및 RMCD 페이지와 대조하여 확인해야 함. ssm-ezbiz 형태의 재판매 사이트 같은 유사 도메인이 공식 SSM 사이트(ssm.com.my / ezbiz.ssm.com.my)가 아님을 독자에게 경고하십시오."
 
 updated: 2026-09-07
 sources:

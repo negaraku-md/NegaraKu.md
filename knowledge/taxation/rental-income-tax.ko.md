@@ -14,11 +14,11 @@ sensitivity: "none"
 
 answer: "임대소득은 임대가 s.4(a)에 따라 사업으로 운영되지 않는 한 소득세법(Income Tax Act 1967) s.4(d)에 따라 과세됩니다. s.4(d) 임대는 부동산이 처음 임대된 날에 개시되고, s.4(a) 임대는 임대할 준비가 된 때에 개시됩니다. 첫 세입자를 구하기 위해 지출한 비용은 초기 비용(initial expenses)이며 두 항 어느 쪽에서도 결코 공제되지 않습니다."
 keyTakeaways:
-  - "s.4(d) letting commences on the date first let; s.4(a) letting commences when ready to be let"
-  - "Advertising, legal fees, stamp duty and agent commission for the first tenant are never deductible"
-  - "The same costs for a replacement tenant are deductible"
-  - "Quit rent, assessment, loan interest, fire insurance and repairs are the core s.4(d) deductions"
-  - "Vacancy after a property has been let does not stop deductions if it is clearly available to be re-let"
+  - "제4(d)조 임대는 최초로 임대된 날에 개시되고, 제4(a)조 임대는 임대 가능한 상태가 되었을 때 개시됩니다"
+  - "첫 임차인을 구하기 위한 광고비, 법률 비용, 인지세 및 중개 수수료는 결코 공제되지 않습니다"
+  - "후속 임차인을 위한 동일한 비용은 공제됩니다"
+  - "지대(quit rent), 재산세(assessment), 대출 이자, 화재보험료 및 수리비가 제4(d)조의 핵심 공제 항목입니다"
+  - "부동산이 임대된 이후의 공실은 재임대가 명백히 가능한 상태라면 공제를 중단시키지 않습니다"
 
 verificationNeeded: []
 lang: "ko"

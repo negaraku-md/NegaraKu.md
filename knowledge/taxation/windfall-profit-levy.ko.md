@@ -15,20 +15,20 @@ sensitivity: "none"
 answer: "초과이익 부담금은 초과이익부담금법(Windfall Profit Levy Act 1998)에 따른 기준 촉발형 세금으로, 말레이시아 팜유청(MPOB)의 월평균 미가공 팜유(CPO) 가격이 정해진 수준을 초과할 때에만 오일팜 생산자에게 적용됩니다. 2025년 1월 1일부터 기준은 반도 말레이시아에서 톤당 RM3,150, 사바·사라왁에서 톤당 RM3,650이며, 부담금 세율은 3%입니다. 보유 면적이 40.46헥타르 미만인 생산자는 면제됩니다."
 
 keyTakeaways:
-  - "The levy is only charged when the MPOB monthly average CPO price rises above the regional threshold — it is zero in months when prices stay below it."
-  - "Thresholds differ by region: from 1 January 2025, RM3,150/tonne in Peninsular Malaysia versus RM3,650/tonne in Sabah and Sarawak (raised RM150 from RM3,000 and RM3,500)."
-  - "The rate is 3% in both regions after Sabah and Sarawak were doubled up from 1.5% under Budget 2022."
-  - "Smallholders and producers with holdings below 40.46 hectares (100 acres) are exempt."
+  - "이 부과금은 말레이시아 팜유청(MPOB)의 월평균 원유 팜유(CPO) 가격이 지역별 기준가를 초과할 때만 부과됩니다 — 가격이 그 아래에 머무는 달에는 영입니다."
+  - "기준가는 지역별로 다릅니다: 2025년 1월 1일부터 말레이반도는 톤당 RM3,150, 사바(Sabah)와 사라왁(Sarawak)은 톤당 RM3,650입니다(각각 RM3,000과 RM3,500에서 RM150 인상)."
+  - "세율은 2022년 예산안에서 사바와 사라왁이 1.5%에서 두 배로 올라간 이후 두 지역 모두 3%입니다."
+  - "소규모 자작농과 40.46헥타르(100에이커) 미만의 농지를 보유한 생산자는 면제됩니다."
 
-appliesTo: "Oil palm plantation owners, estate operators, planters in Sabah and Sarawak, palm oil investors and analysts, and tax practitioners."
+appliesTo: "기름야자 농장 소유자, 플랜테이션 사업자, 사바(Sabah) 및 사라왁(Sarawak)의 재배업자, 팜유 투자자 및 분석가, 그리고 세무 실무자."
 
 faq:
-  - q: "When is the windfall profit levy actually charged?"
-    a: "Only when the Malaysian Palm Oil Board's monthly average national CPO price exceeds the regional threshold. In months where the average price stays below the threshold, no levy is due."
-  - q: "Why do Sabah and Sarawak have a higher threshold?"
-    a: "The eastern states are given a higher price threshold (RM3,650 versus RM3,150 per tonne from 2025) to reflect their higher production and logistics costs, though the levy rate itself is now 3% in both regions after Sabah and Sarawak were doubled up from 1.5% under Budget 2022."
-  - q: "Are smallholders liable for the levy?"
-    a: "No. Smallholders are exempt, and the 2023 Order applies only to oil palm holdings of not less than 40.46 hectares (100 acres); holdings in group settlement areas are also excluded."
+  - q: "초과이익 부과금은 실제로 언제 부과됩니까?"
+    a: "말레이시아 팜유청(MPOB)의 월평균 전국 원유 팜유(CPO) 가격이 지역별 기준가를 초과할 때만 부과됩니다. 평균 가격이 기준가 아래에 머무는 달에는 부과금이 없습니다."
+  - q: "사바와 사라왁은 왜 더 높은 기준가를 적용받습니까?"
+    a: "동부 주(州)들은 더 높은 생산 및 물류 비용을 반영하여 더 높은 가격 기준가(2025년부터 톤당 RM3,650 대 RM3,150)를 적용받지만, 부과금 세율 자체는 2022년 예산안에서 사바와 사라왁이 1.5%에서 두 배로 올라간 이후 두 지역 모두 이제 3%입니다."
+  - q: "소규모 자작농도 부과금 납부 의무가 있습니까?"
+    a: "없습니다. 소규모 자작농은 면제되며, 2023년 명령(Order)은 40.46헥타르(100에이커) 이상의 기름야자 농지에만 적용됩니다; 집단 정착지(group settlement area)의 농지도 제외됩니다."
 
 lang: "ko"
 sourceContentHash: "90a5c1941df77b25"
@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The gazetted effective date of the Sabah & Sarawak rate increase from 1.5% to 3% (proposed under Budget 2022; confirm the P.U.(A) commencement date, not just the Budget announcement)."
-  - "Whether the RM3,150 / RM3,650 thresholds and 3% rate remain the operative figures as of the reader's date — proposals to cut the eastern-region rate back to 1.5% have been raised publicly and should be checked against the latest Order."
-  - "Statutory reference for the group-settlement-area carve-out (Land (Group Settlement Areas) Act 1960) as applied by the 2023 Order."
+  - "사바 및 사라왁의 세율이 1.5%에서 3%로 인상된 관보 게재 발효일(2022년 예산안에서 제안됨; 예산안 발표뿐만 아니라 P.U.(A) 시행일을 확인할 것)."
+  - "RM3,150 / RM3,650 기준가와 3% 세율이 독자의 기준일 현재에도 유효한 수치로 남아 있는지 여부 — 동부 지역 세율을 다시 1.5%로 인하하자는 제안이 공개적으로 제기되었으므로 최신 명령(Order)과 대조하여 확인할 것."
+  - "2023년 명령(Order)이 적용하는 집단 정착지 예외에 대한 법적 근거(Land (Group Settlement Areas) Act 1960)."
 updated: 2026-08-07
 sources:
   - title: "Windfall Profit Levy Act 1998 (Act 592) — s.1(2): the Act came into operation on 1 January 1999"

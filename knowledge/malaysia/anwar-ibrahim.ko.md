@@ -12,23 +12,23 @@ contentType: "guide"
 
 answer: "안와르 이브라힘(Anwar Ibrahim, 1947년 8월 10일 출생)은 말레이시아 제10대 총리로, 2022년 11월 24일부터 재임하며 통합정부(MADANI 정부)를 이끌고 있습니다. 그는 1990년대에 부상하여 마하티르 모하맛(Mahathir Mohamad) 아래에서 부총리 겸 재무장관이 되었으며, 아시아 금융위기의 와중에 1998년 해임되고 이후 투옥되었는데 — 이 사건들이 개혁운동(Reformasi) 개혁 운동을 촉발하였습니다. 석방되고, 재투옥되고, 사면된 뒤, 그는 수년간 야권을 이끌다가 2022년 총선에 뒤이어 총리가 되었습니다."
 keyTakeaways:
-  - "Malaysia's 10th and current Prime Minister, since 24 November 2022."
-  - "Was Finance Minister (1991–1998) and Deputy Prime Minister (1993–1998) under Mahathir Mohamad before being dismissed in 1998."
-  - "His 1998 dismissal and jailing launched the Reformasi movement, a defining moment in modern Malaysian politics."
-  - "He was released in 2004, imprisoned again in 2015, and freed on a royal pardon in 2018."
-  - "Leads a unity (MADANI) government formed after the 2022 general election produced a hung parliament."
+  - "2022년 11월 24일부터 재임 중인 말레이시아 제10대 현직 총리입니다."
+  - "1998년 해임되기 전 마하티르 모하맛(Mahathir Mohamad) 밑에서 재무장관(1991~1998년)과 부총리(1993~1998년)를 지냈습니다."
+  - "1998년 그의 해임과 투옥은 현대 말레이시아 정치의 결정적 순간인 개혁운동(Reformasi)을 촉발하였습니다."
+  - "그는 2004년 석방되었다가 2015년 다시 수감되었으며, 2018년 국왕의 사면으로 풀려났습니다."
+  - "2022년 총선이 헝 의회를 낳은 뒤 구성된 통합정부(MADANI)를 이끌고 있습니다."
 
 faq:
-  - q: "When did Anwar Ibrahim become Prime Minister?"
-    a: "On 24 November 2022, after the 15th general election produced a hung parliament and he was appointed to lead a unity government."
-  - q: "What is Reformasi?"
-    a: "Reformasi was the reform and protest movement that arose after Anwar Ibrahim's 1998 dismissal and imprisonment, calling for political and institutional reform."
-  - q: "What roles did Anwar hold before becoming PM?"
-    a: "He was Minister of Finance (1991–1998) and Deputy Prime Minister (1993–1998), among earlier cabinet posts, before his dismissal in 1998."
+  - q: "안와르 이브라힘은 언제 총리가 되었습니까?"
+    a: "제15대 총선이 헝 의회를 낳은 후, 2022년 11월 24일 통합정부를 이끌도록 임명되었습니다."
+  - q: "개혁운동(Reformasi)이란 무엇입니까?"
+    a: "개혁운동(Reformasi)은 1998년 안와르 이브라힘의 해임과 투옥 이후 일어난 개혁·저항 운동으로, 정치적·제도적 개혁을 요구하였습니다."
+  - q: "안와르는 총리가 되기 전 어떤 직책을 맡았습니까?"
+    a: "그는 1998년 해임되기 전, 앞서 여러 내각 직책과 더불어 재무장관(1991~1998년)과 부총리(1993~1998년)를 지냈습니다."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal review before publication. This biography refers to criminal charges, convictions and a royal pardon (legal-proceedings). These are stated only as matters of public record, neutrally and without detail, and must be re-checked against primary sources (court records, the royal pardon) and reviewed by a qualified reviewer before publication."
-  - "Exact dates (cabinet posts, dismissal, release, appointment as PM) to be confirmed against the Prime Minister's Office and court records."
+  - "민감 / 발행 전 사람과 법률 검토가 필요함. 이 전기는 형사 기소, 유죄 판결, 국왕의 사면(법적 절차)을 언급합니다. 이는 오직 공적 기록으로서, 중립적으로 그리고 세부 없이 기술되었으며, 발행 전 1차 자료(법원 기록, 국왕의 사면)와 다시 대조하고 자격을 갖춘 검토자의 검토를 거쳐야 합니다."
+  - "정확한 날짜(내각 직책, 해임, 석방, 총리 임명)는 총리실과 법원 기록과 대조하여 확인하여야 합니다."
 
 lang: "ko"
 sourceContentHash: "ff741a6378247554"

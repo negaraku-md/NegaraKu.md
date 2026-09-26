@@ -36,25 +36,25 @@ faq:
     a: "그래도 신청을 제출할 수 있습니다. 지침 제5(a)항은 주주가 추적 불가능하여 필요한 다수를 얻을 수 없는 경우, 등기관 기록의 거주지 주소로 등기우편으로 시도가 이루어졌고 그 시도의 증거가 첨부되었다면 이를 허용합니다."
 
 verificationNeeded:
-  - "SSM publishes no service standard for the total elapsed time of a section 550 striking off — any month range should be treated as observed practice, not a published commitment"
-  - "Whether SSM has issued a further striking-off moratorium after the 16 April to 30 September 2025 window — none was found in the SSM legal framework library as at July 2026"
-  - "Whether the tax clearance practice referenced in paragraph 5(e) of the guidelines is now handled through a specific LHDN form or portal step should be confirmed with LHDN before relying on a stated turnaround"
+  - "SSM은 제550조 등록말소의 전체 소요 기간에 대한 서비스 표준을 공표하지 않습니다 — 어떤 개월 범위든 공표된 약속이 아니라 관찰된 관행으로 취급해야 함"
+  - "SSM이 2025년 4월 16일부터 9월 30일까지의 기간 이후 추가 등록말소 유예를 발표했는지 여부 — 2026년 7월 기준 SSM 법률 체계 자료실에서 찾지 못함"
+  - "지침 제5(e)항에서 언급된 세금 정산 관행이 현재 특정 LHDN 양식이나 포털 절차를 통해 처리되는지는 명시된 처리 기간에 의존하기 전에 LHDN에 확인해야 함"
 
 obligations:
-  - what: "Respond to the Registrar's notice of intention to strike off"
+  - what: "등록말소 의사에 대한 등록관의 통지에 응답할 것"
     trigger: "change"
     withinDays: 30
-    due: "within 30 days of the date of the notice under section 551(1)"
+    due: "제551(1)조에 따른 통지일로부터 30일 이내"
     authority: "SSM"
     statute: "Companies Act 2016, s.551(1)"
-    consequence: "The Registrar may publish a notification and proceed to strike the company off"
-  - what: "Lodge an objection to a striking off"
+    consequence: "등록관은 고시를 게재하고 회사를 등록말소할 수 있음"
+  - what: "등록말소에 대한 이의를 제출할 것"
     trigger: "change"
     withinDays: 30
-    due: "within 30 days from the date specified in the notice, with the prescribed fee"
+    due: "통지에 명시된 날짜로부터 30일 이내에, 소정 수수료와 함께"
     authority: "SSM"
     statute: "Companies Act 2016, s.552(1)"
-    consequence: "The striking off proceeds and the company is dissolved on Gazette publication"
+    consequence: "등록말소가 진행되고 회사는 관보 게재 시 해산됨"
 
 lang: "ko"
 sourceContentHash: "503507980af8cdbc"

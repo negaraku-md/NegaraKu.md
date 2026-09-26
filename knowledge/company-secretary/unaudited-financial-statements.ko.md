@@ -13,26 +13,23 @@ contentType: "guide"
 
 answer: "감사 면제는 감사를 없애는 것이지 제출을 없애는 것이 아닙니다. 실무지침(Practice Directive) 10/2024에 의존하는 비공개회사는 여전히 회사법(Companies Act 2016) 제258조와 제259조에 따라 비감사 재무제표를 SSM에 제출해야 합니다 — 회계연도 종료로부터 6개월 이내에 회람하고, 그런 다음 회람으로부터 30일 이내에 제출합니다. 그 제출에는 이사 보고서, 이사 진술서, 법정 선서서, 제251조 및 제252조에 따른 제출물, 그리고 이사가 서명한 감사 면제 증명서가 포함되어야 합니다."
 keyTakeaways:
-  - "The s.258 and s.259 clocks are identical whether the accounts are audited or not"
-  - "Unaudited statements must still comply with approved accounting standards under s.244(1)"
-  - "An audit exemption certificate signed by a director must accompany the lodgement"
-  - "Where the signing director is not primarily responsible for financial management, the responsible person must be named"
-  - "The exempt private company certificate under s.260 is a different route and is incompatible with audit exemption"
-  - "Unaudited financial statements came into MBRS 2.0 mandatory scope in Phase 1, on 1 December 2024"
-appliesTo: "Directors and company secretaries of audit-exempt private companies preparing to lodge with SSM."
-
+  - "s.258과 s.259의 기한은 계산서류가 감사받았는지 여부와 관계없이 동일합니다"
+  - "감사받지 않은 재무제표도 s.244(1)에 따라 승인된 회계기준을 준수해야 합니다"
+  - "이사가 서명한 감사면제 증명서가 제출에 첨부되어야 합니다"
+  - "서명하는 이사가 재무관리를 주로 책임지지 않는 경우, 그 책임자가 명시되어야 합니다"
+  - "s.260에 따른 면제 비공개회사 증명서는 다른 경로이며 감사면제와 양립하지 않습니다"
+  - "감사받지 않은 재무제표는 제1단계인 2024년 12월 1일에 MBRS 2.0 의무 범위에 포함되었습니다"
+appliesTo: "SSM에 제출을 준비하는 감사면제 비공개회사의 이사 및 회사 비서."
 verificationNeeded:
-  - "Confirm whether SSM has issued any amendment to Practice Directive 10/2024 affecting the certificate content in Appendix 1"
-
+  - "SSM이 부록 1의 증명서 내용에 영향을 미치는 실무지침 10/2024호(Practice Directive 10/2024)에 대한 개정을 발행했는지 확인하십시오"
 obligations:
-  - what: "Lodge unaudited financial statements with the audit exemption certificate"
+  - what: "감사받지 않은 재무제표를 감사면제 증명서와 함께 제출"
     trigger: "change"
     withinDays: 30
-    due: "Within 30 days from the date the financial statements are circulated to members"
+    due: "재무제표가 사원에게 배부된 날부터 30일 이내"
     authority: "SSM"
     statute: "Companies Act 2016, s.259(1)(a); Practice Directive 10/2024, paras 15 to 19"
-    consequence: "Late lodgement penalty under Practice Directive 1/2017; fine up to RM50,000 plus up to RM1,000 per day on every officer under s.259(3)"
-
+    consequence: "실무지침 1/2017호(Practice Directive 1/2017)에 따른 지연 제출 벌금; s.259(3)에 따라 모든 임원에게 RM50,000 이하의 벌금과 1일당 RM1,000 이하"
 lang: "ko"
 sourceContentHash: "96853a8ceb91936b"
 masterLanguage: "en"

@@ -13,16 +13,16 @@ contentType: "guide"
 
 answer: "Sdn Bhd에는 다섯 가지 청산 경로가 있으며, 지급 능력과 회사가 여전히 무엇을 소유하고 있는지가 어느 것이 열려 있는지를 결정합니다. 자산도 부채도 없는 휴면 회사는 RM100으로 말소될 수 있습니다. 자산을 가진 지급 능력 있는 회사는 사원 자율 청산이 필요합니다. 지급 불능인 회사는 채권자 자율 청산이 필요한데, 사업이 여전히 존속 가능한 경우에는 기업 회생이 적용됩니다. 수익성 있는 사업은 대개 폐업하기보다 매각됩니다."
 keyTakeaways:
-  - "Two questions decide everything: can the company pay its debts in full, and does it still own anything?"
-  - "Striking off under s.550 is the cheapest route and the one SSM rejects most often"
-  - "Holding companies and companies with capital still on the books are pushed to a members' voluntary winding up"
-  - "Once the company cannot pay its debts, directors face personal exposure for continuing to trade"
-  - "Judicial management is unavailable after the company has gone into liquidation — s.405(6)"
-  - "Stopping trading is not closing — filing obligations and penalties run until dissolution"
-appliesTo: "Directors and shareholders of a Sdn Bhd that has stopped operating, is being wound down deliberately, is in financial distress, or is being sold."
+  - "두 가지 질문이 모든 것을 결정합니다: 회사가 채무를 전액 변제할 수 있는가, 그리고 여전히 소유 재산이 있는가입니다"
+  - "제550조에 따른 등록말소는 가장 저렴한 방법이자 SSM이 가장 자주 거부하는 방법입니다"
+  - "지주회사와 장부상 자본이 남아 있는 회사는 사원 임의 청산으로 유도됩니다"
+  - "회사가 채무를 변제할 수 없게 되면, 이사는 영업을 계속한 데 대해 개인적 책임을 지게 됩니다"
+  - "회사가 청산에 들어간 후에는 사법관리(judicial management)를 이용할 수 없습니다 — 제405조 제6항"
+  - "영업 중단은 폐업이 아닙니다 — 제출 의무와 벌칙은 해산 시까지 계속됩니다"
+appliesTo: "영업을 중단했거나, 계획적으로 청산 중이거나, 재정적 곤경에 처했거나, 매각 중인 Sdn Bhd의 이사와 주주에게 적용됩니다."
 
 verificationNeeded:
-  - "This page states no fees, rates or processing times of its own; every figure lives on the linked route pages and is sourced there"
+  - "이 페이지는 자체적으로 수수료, 요율 또는 처리 기간을 명시하지 않습니다. 모든 수치는 연결된 경로별 페이지에 있으며 그곳에서 출처가 표시됩니다"
 
 lang: "ko"
 sourceContentHash: "40a5acd6c21bafa9"

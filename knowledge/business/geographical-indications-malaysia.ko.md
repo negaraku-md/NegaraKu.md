@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "지리적 표시(GI)는 그 품질이나 명성이 본질적으로 원산지에 기인하는 상품을 식별하는 명칭입니다. 말레이시아에서 지리적 표시는 2000년 법을 대체한 지리적 표시법 2022(Geographical Indications Act 2022, Act 836)에 따라 MyIPO에 등록됩니다. 등록은 등록일로부터 10년간 유효하며 추가 10년 단위로 무기한 갱신할 수 있습니다."
 keyTakeaways:
-  - "The Geographical Indications Act 2022 (Act 836) received Royal Assent on 16 March 2022 and was published in the Gazette on 18 March 2022, replacing the Geographical Indications Act 2000 (Act 602)."
-  - "A GI is registered by MyIPO for goods in five categories, from wine and spirits to handicrafts and textiles."
-  - "Registration runs for ten years from the date of registration and is renewable for further ten-year periods with no limit (sections 18 and 19)."
-  - "As of December 2025 Malaysia had registered 128 GIs — 110 local and 18 foreign — with Sabah and Sarawak each holding 32."
-appliesTo: "Producers, cooperatives, industry associations and state agencies wanting to protect a place-linked product name; IP practitioners; anyone comparing Malaysia's IP rights."
+  - "지리적표시법 2022(Geographical Indications Act 2022, Act 836)는 2022년 3월 16일 국왕의 재가를 받아 2022년 3월 18일 관보에 게재되었으며, 지리적표시법 2000(Geographical Indications Act 2000, Act 602)을 대체했습니다."
+  - "지리적표시(GI)는 와인·증류주에서 수공예품·섬유에 이르는 다섯 개 범주의 물품에 대해 MyIPO가 등록합니다."
+  - "등록은 등록일로부터 10년간 유효하며 제한 없이 10년 단위로 갱신할 수 있습니다(제18조 및 제19조)."
+  - "2025년 12월 기준 말레이시아는 128건의 GI를 등록했으며 — 국내 110건, 해외 18건 — 사바와 사라왁이 각각 32건을 보유합니다."
+appliesTo: "장소와 연계된 상품 명칭을 보호하려는 생산자, 협동조합, 산업협회 및 주 기관; IP 실무가; 그리고 말레이시아의 IP 권리를 비교하는 모든 사람에게 적용됩니다."
 
 faq:
-  - q: "How is a geographical indication different from a trademark?"
-    a: "A trademark identifies one trader's goods and is owned privately; a GI identifies goods from a place and any producer in that geographical area who meets the specification has the right to use it (section 28). Under the GI Act 2022 the Registrar may refuse a GI where there is a likelihood of confusion with an earlier registered or well-known trademark (section 10)."
-  - q: "Who can apply to register a GI in Malaysia?"
-    a: "Any person may file, but under section 8(5) the applicant must be either a producer carrying on activity in the geographical area (including an association of such producers) or a competent authority."
-  - q: "How long does GI protection last?"
-    a: "Ten years from the date of registration, renewable for further ten-year periods indefinitely (sections 18 and 19)."
+  - q: "지리적표시는 상표와 어떻게 다릅니까?"
+    a: "상표는 한 사업자의 물품을 식별하며 사적으로 소유되나; GI는 특정 장소에서 나온 물품을 식별하며 그 지리적 지역에서 사양을 충족하는 모든 생산자가 이를 사용할 권리를 가집니다(제28조). GI법 2022에 따라 등록관은 선등록 상표나 주지 상표와 혼동을 일으킬 가능성이 있는 경우 GI를 거부할 수 있습니다(제10조)."
+  - q: "말레이시아에서 누가 GI 등록을 신청할 수 있습니까?"
+    a: "누구든지 출원할 수 있으나, 제8조 제5항에 따라 신청인은 해당 지리적 지역에서 활동을 영위하는 생산자(그러한 생산자의 협회 포함) 또는 관할 당국이어야 합니다."
+  - q: "GI 보호는 얼마나 지속됩니까?"
+    a: "등록일로부터 10년이며, 무기한으로 10년 단위로 갱신할 수 있습니다(제18조 및 제19조)."
 
 lang: "ko"
 sourceContentHash: "a1ee81a205bbd043"
@@ -40,11 +40,11 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "GI renewal (GIA19), renewal-with-surcharge (GIA20) and restoration fee amounts — the specific RM figures in the earlier draft (RM420 / RM630 / RM670) could not be independently verified and appear to overlap with the trademark fee schedule; confirm the actual GI amounts against the Second Schedule of the Guidelines before publishing."
-  - "The exact designated origin area(s) for the Musang King GI — news reports indicate Pahang and Johor; confirm against the live MyIPO GI Register entry."
-  - "Open the two MyIPO PDFs (Act 836 and the Guidelines of Geographical Indication 2022) directly to confirm anchor content — both return HTTP 403 to automated fetches and were confirmed only via search indexing and WIPO Lex."
-  - "Confirm section 10 is the provision covering both the generic-name/refusal grounds and the earlier-trademark-conflict ground, and that the GIA1 application fee is still RM250."
-  - "Confirm the illustrative registered GIs and their states (Sarawak Pepper, Kek Lapis Sarawak, Harumanis, Tenom coffee, Sabah Batik) against the current MyIPO GI register."
+  - "GI 갱신(GIA19), 가산금 포함 갱신(GIA20) 및 회복 수수료 금액 — 이전 초안의 구체적 RM 수치(RM420 / RM630 / RM670)는 독립적으로 확인할 수 없었고 상표 수수료 체계와 중복되는 것으로 보입니다; 게시 전에 지침의 제2부칙과 대조하여 실제 GI 금액을 확인하십시오."
+  - "무상킹(Musang King) GI의 정확한 지정 원산지 지역 — 언론 보도는 파항과 조호르를 지목합니다; MyIPO GI 등록부의 실시간 항목과 대조하여 확인하십시오."
+  - "MyIPO의 두 PDF(Act 836과 지리적표시 지침 2022)를 직접 열어 기준 내용을 확인 — 둘 다 자동 조회에 HTTP 403을 반환하여 검색 색인과 WIPO Lex를 통해서만 확인되었습니다."
+  - "제10조가 보통명칭/거부 사유와 선등록 상표 충돌 사유를 모두 다루는 규정인지, 그리고 GIA1 출원 수수료가 여전히 RM250인지 확인하십시오."
+  - "예시로 든 등록 GI와 그 소재 주(사라왁 후추, 켁 라피스 사라왁, 하루마니스, 트놈 커피, 사바 바틱)를 현행 MyIPO GI 등록부와 대조하여 확인하십시오."
 revisions:
   - revision: 0
     date: 2026-08-07

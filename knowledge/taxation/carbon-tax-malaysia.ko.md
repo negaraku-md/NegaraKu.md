@@ -14,20 +14,20 @@ sensitivity: "none"
 
 answer: "말레이시아는 철·철강·에너지 부문에 탄소세를 도입할 계획이며, 이는 2025년 예산안에서 처음 발표되고 2026년 예산안에서 2026년까지 도입하는 것으로 재확인되었습니다. 정부는 세율을 공식적으로 확정하지 않았습니다. 일부 언론과 자문 보도는 톤당 RM35~45(US$8~11)의 예상 수치를 보도했으나, 이는 확인되지 않았고 다른 추정치도 유포되었습니다. 시행은 국가 탄소시장 정책과 계류 중인 기후변화법에 맞추어 정렬되고 있으며, 당국은 그 시기가 재검토될 수 있음을 시사했습니다."
 keyTakeaways:
-  - "The tax targets three hard-to-abate sectors first: iron, steel and energy."
-  - "No official rate has been set; RM35-45 (US$8-11) per tonne is a media/advisory-reported figure, not a confirmed government rate, and other estimates have circulated."
-  - "It was announced in Budget 2025 (tabled 18 October 2024) and reaffirmed in Budget 2026 (tabled 10 October 2025) for introduction by 2026."
-  - "Roll-out is tied to the National Carbon Market Policy and the pending Climate Change Bill (RUU PIN)."
-  - "Officials have signalled the timeline may be reviewed amid geopolitical and economic pressures."
-appliesTo: "Manufacturers, exporters and finance teams in Malaysia's iron, steel and energy industries, plus sustainability and tax professionals tracking carbon pricing."
+  - "이 세금은 우선 감축이 어려운 세 부문을 대상으로 합니다: 철, 철강, 에너지."
+  - "공식 세율은 확정되지 않았습니다. 톤당 RM35~45(US$8~11)는 언론·자문 보도 수치일 뿐 정부가 확정한 세율이 아니며, 다른 추정치도 유포되었습니다."
+  - "이는 2025년 예산안(2024년 10월 18일 상정)에서 발표되고 2026년 예산안(2025년 10월 10일 상정)에서 2026년까지 도입하는 것으로 재확인되었습니다."
+  - "시행은 국가 탄소시장 정책(National Carbon Market Policy)과 계류 중인 기후변화법안(Climate Change Bill, RUU PIN)에 연동되어 있습니다."
+  - "당국은 지정학적·경제적 압박 속에서 일정이 재검토될 수 있음을 시사했습니다."
+appliesTo: "말레이시아 철·철강·에너지 산업의 제조업체, 수출업체 및 재무팀, 그리고 탄소 가격 책정을 추적하는 지속가능성·조세 전문가."
 
 faq:
-  - q: "How much is Malaysia's carbon tax per tonne?"
-    a: "The government has not officially confirmed a rate. Some media and advisory coverage has reported an expected figure of RM35-45 (US$8-11) per tonne, but official sources including MIDA and the ICAP tracker state that no specific rate has been disclosed, and other estimates have circulated."
-  - q: "Which sectors pay the carbon tax first?"
-    a: "The iron, steel and energy sectors are the initial targets, chosen as high-emitting, hard-to-abate industries."
-  - q: "When does the carbon tax start?"
-    a: "It was announced for introduction by 2026, though officials have signalled the timing may be reviewed."
+  - q: "말레이시아의 탄소세는 톤당 얼마입니까?"
+    a: "정부는 세율을 공식적으로 확정하지 않았습니다. 일부 언론과 자문 보도는 톤당 RM35~45(US$8~11)의 예상 수치를 보도했으나, MIDA와 ICAP 추적 자료를 포함한 공식 출처는 특정 세율이 공개되지 않았다고 밝히며, 다른 추정치도 유포되었습니다."
+  - q: "어느 부문이 먼저 탄소세를 냅니까?"
+    a: "철·철강·에너지 부문이 초기 대상으로, 배출량이 많고 감축이 어려운 산업으로 선정되었습니다."
+  - q: "탄소세는 언제 시작됩니까?"
+    a: "2026년까지 도입하는 것으로 발표되었으나, 당국은 그 시기가 재검토될 수 있음을 시사했습니다."
 
 lang: "ko"
 sourceContentHash: "1b480b649a14d8fe"
@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "No official carbon tax rate has been gazetted as of this pass. The RM35-45 (US$8-11)/tonne figure is media/advisory-reported and unconfirmed; other, lower estimates have circulated in later reporting. A human should confirm the actual rate once published."
-  - "Sensitivity is set to 'none', but this is a politically-charged fiscal and climate policy topic. A human editor should confirm whether that classification is appropriate."
-  - "Current parliamentary status and expected tabling window of the Climate Change Bill (RUU PIN)."
-  - "Whether the 'by 2026' start date still holds given official signals that implementation may be reviewed."
+  - "이 검토 시점 기준 공식 탄소세율은 관보에 게재되지 않았습니다. 톤당 RM35~45(US$8~11) 수치는 언론·자문 보도이며 확인되지 않았고, 이후 보도에서 더 낮은 추정치도 유포되었습니다. 공표되면 사람이 실제 세율을 확인해야 합니다."
+  - "민감도가 'none'으로 설정되어 있으나, 이는 정치적으로 민감한 재정·기후 정책 주제입니다. 사람 편집자가 그 분류가 적절한지 확인해야 합니다."
+  - "기후변화법안(Climate Change Bill, RUU PIN)의 현재 국회 진행 상황과 예상 상정 시기."
+  - "시행이 재검토될 수 있다는 당국의 신호를 고려할 때 '2026년까지'라는 시작 시점이 여전히 유효한지 여부."
 
 updated: 2026-08-07
 sources:

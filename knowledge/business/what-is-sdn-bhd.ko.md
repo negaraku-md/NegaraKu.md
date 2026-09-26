@@ -14,12 +14,12 @@ sensitivity: "none"
 
 answer: "Sdn Bhd는 Sendirian Berhad의 약자로, 회사법(Companies Act 2016)에 따라 설립된 주식으로 유한책임이 제한되는 비공개회사(private company limited by shares)입니다. 소유자와 분리된 별개의 법인격을 지니므로 자기 명의로 재산을 보유하고 계약하며 소송의 당사자가 되고, 주주의 부담은 그가 보유한 주식의 미납금액으로 한정됩니다. 제42조 제1항은 사원을 50명으로 제한하며, 제42조 제2항은 정관 또는 발행 조건으로 주식 양도를 제한하도록 요구합니다."
 keyTakeaways:
-  - "Sdn Bhd = Sendirian Berhad = a private company limited by shares under the Companies Act 2016"
-  - "Separate legal personality is the whole point — the company, not the owner, holds the assets and the liabilities"
-  - "s.42(1) caps membership at fifty; s.42(2) requires a restriction on share transfers"
-  - "The Act imposes no minimum paid-up capital; s.9 requires only one or more shares"
-  - "Minimum officers are one resident director under s.196(4) and one secretary appointed within 30 days under s.236(2)"
-appliesTo: "Anyone choosing a business structure, or trying to understand a Malaysian company they are dealing with."
+  - "Sdn Bhd = Sendirian Berhad = 회사법(Companies Act 2016)에 따른 주식유한 비공개회사"
+  - "별개의 법인격이 핵심입니다 — 소유주가 아니라 회사가 자산과 부채를 보유합니다"
+  - "s.42(1)은 사원을 50명으로 제한하고; s.42(2)는 주식 양도의 제한을 요구합니다"
+  - "이 법은 최소 납입자본을 부과하지 않습니다; s.9는 1주 이상만을 요구합니다"
+  - "최소 임원은 s.196(4)에 따른 거주 이사 1명과 s.236(2)에 따라 30일 이내에 선임되는 비서 1명입니다"
+appliesTo: "사업 형태를 선택하는 분, 또는 거래 상대인 말레이시아 회사를 이해하려는 모든 분."
 
 verificationNeeded: []
 

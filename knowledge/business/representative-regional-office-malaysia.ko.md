@@ -14,23 +14,23 @@ sensitivity: "none"
 
 answer: "대표사무소/지역사무소(RE/RO)는 본사를 위해 허용되는 경제·통상·투자 활동을 수행하기 위해 MIDA(은행 및 금융의 경우 말레이시아 중앙은행(BNM))가 승인하는 비법인 외국 기업 거점입니다. 영업, 송장 발행, 유상 계약 체결, 또는 현지 자회사 관리를 할 수 없습니다. 신규 지위는 말레이시아 외부에서 조달되는 연간 최소 RM300,000의 운영 지출을 요건으로 하며, 최소 2년간 부여됩니다."
 keyTakeaways:
-  - "An RE/RO is not incorporated under the Companies Act 2016 and cannot conduct any trading or commercial transaction."
-  - "MIDA approves RE/RO status for a minimum of two years; banking and financial-services applications go to Bank Negara Malaysia instead."
-  - "Minimum operating expenditure is RM300,000 per annum for a new office, rising to RM600,000 on first extension and up to RM1 million for a conglomerate's further extension."
-  - "The office must be funded from sources outside Malaysia and operate from a commercial (non-residential) premise."
-appliesTo: "Foreign companies, conglomerates, foreign organisations, universities and government agencies wanting a non-trading market-entry or coordination presence in Malaysia."
+  - "RE/RO는 회사법(Companies Act 2016)에 따라 설립되지 않으며 어떠한 거래나 상업적 활동도 수행할 수 없습니다."
+  - "말레이시아투자진흥청(MIDA)은 RE/RO 지위를 최소 2년간 승인합니다; 은행 및 금융 서비스 신청은 대신 말레이시아 중앙은행(BNM)으로 갑니다."
+  - "최소 운영비는 신규 사무소의 경우 연 RM300,000이며, 첫 연장 시 RM600,000으로, 대기업집단의 추가 연장 시 최대 RM1,000,000으로 상승합니다."
+  - "이 사무소는 말레이시아 밖의 재원으로 자금을 조달해야 하며 상업용(비주거) 영업장에서 운영해야 합니다."
+appliesTo: "말레이시아에서 비거래 방식의 시장 진입 또는 조정 목적의 거점을 두려는 외국 회사, 대기업집단, 외국 기관, 대학 및 정부기관."
 
 faq:
-  - q: "Can a Representative Office in Malaysia sign contracts or issue invoices?"
-    a: "No. An approved RE/RO cannot engage in any trading, sign business contracts on behalf of the foreign corporation, or provide services for a fee. It also cannot lease warehousing or take part in the daily management of local subsidiaries."
-  - q: "How much money must a Representative or Regional Office spend each year?"
-    a: "The minimum operational expenditure is RM300,000 per annum for a new office, or as proposed by the applicant, whichever is higher. This rises to RM600,000 on the first extension and up to RM1 million per annum for a conglomerate's further extension."
-  - q: "How long does RE/RO status last?"
-    a: "It is granted for a minimum of two years, with extensions considered on the merits of each case. Applications for extension must be submitted at least three months before the expiry date."
-  - q: "Does an RE/RO have to be incorporated as a company?"
-    a: "No. An RE/RO is not required to be incorporated under the Companies Act 2016. On expiry, MIDA encourages applicants to incorporate a Malaysian subsidiary if they wish to trade."
-  - q: "Who approves a Representative or Regional Office?"
-    a: "The Malaysian Investment Development Authority (MIDA) approves applications, submitted via the Invest Malaysia portal. Applications for banking and financial services are handled by Bank Negara Malaysia (the Central Bank of Malaysia)."
+  - q: "말레이시아의 대표사무소(Representative Office)가 계약을 체결하거나 송장을 발행할 수 있습니까?"
+    a: "아닙니다. 승인된 RE/RO는 어떠한 거래도 할 수 없고, 외국 법인을 대신하여 사업 계약에 서명할 수 없으며, 유료 서비스를 제공할 수 없습니다. 또한 창고를 임차하거나 현지 자회사의 일상 경영에 참여할 수 없습니다."
+  - q: "대표사무소 또는 지역사무소는 매년 얼마를 지출해야 합니까?"
+    a: "최소 운영비는 신규 사무소의 경우 연 RM300,000, 또는 신청인이 제안한 금액 중 더 큰 금액입니다. 이는 첫 연장 시 RM600,000으로, 대기업집단의 추가 연장 시 연 최대 RM1,000,000으로 상승합니다."
+  - q: "RE/RO 지위는 얼마 동안 유효합니까?"
+    a: "최소 2년간 부여되며, 연장은 각 사안의 타당성에 따라 검토됩니다. 연장 신청은 만료일 최소 3개월 전에 제출해야 합니다."
+  - q: "RE/RO는 회사로 설립되어야 합니까?"
+    a: "아닙니다. RE/RO는 회사법(Companies Act 2016)에 따라 설립될 필요가 없습니다. 만료 시, 말레이시아투자진흥청(MIDA)은 거래를 원하는 신청인에게 말레이시아 자회사를 설립할 것을 권장합니다."
+  - q: "대표사무소 또는 지역사무소는 누가 승인합니까?"
+    a: "말레이시아투자진흥청(MIDA)이 Invest Malaysia 포털을 통해 제출된 신청을 승인합니다. 은행 및 금융 서비스 신청은 말레이시아 중앙은행(BNM, Central Bank of Malaysia)이 처리합니다."
 
 lang: "ko"
 sourceContentHash: "9170883af9a3f4af"
@@ -50,9 +50,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "MIDA's regional-representative-office page mixes years: the RM145.1 million investment is labelled 2025 while the source-country breakdown (Singapore 15, China 11, Korea 8, Japan 6, Spain 5) is labelled 2023. Confirm whether the 70-approvals and 787-jobs totals are 2025 figures and locate a same-year country breakdown before publishing."
-  - "The same MIDA page lists 47 REs (57.3%) and 35 ROs (42.7%), which sums to 82 rather than the 70 total also shown. Confirm MIDA's current RE-vs-RO split and the correct total from an authoritative statistics table."
-  - "OPEX thresholds, the RM5,000 minimum expatriate salary, the two-year minimum tenure, the three-month extension window, qualification tiers and the 2:1 expatriate ratio are drawn from the 24 March 2023 RE/RO guideline PDF; confirm no newer guideline has superseded these figures before filing."
+  - "말레이시아투자진흥청(MIDA)의 지역/대표사무소 페이지는 연도를 혼용합니다: RM145,100,000 투자는 2025년으로 표기된 반면 출신국 내역(싱가포르 15, 중국 11, 한국 8, 일본 6, 스페인 5)은 2023년으로 표기되어 있습니다. 70건 승인과 787개 일자리 합계가 2025년 수치인지 확인하고, 게재 전에 같은 연도의 출신국 내역을 찾으십시오."
+  - "같은 MIDA 페이지는 RE 47개(57.3%)와 RO 35개(42.7%)를 열거하는데, 이는 함께 표시된 총계 70이 아니라 82로 합산됩니다. 신뢰할 수 있는 통계표에서 MIDA의 현행 RE 대 RO 구성과 올바른 총계를 확인하십시오."
+  - "운영비 기준, RM5,000 최저 외국인 전문가 급여, 2년 최소 기간, 3개월 연장 기간, 자격 등급 및 2:1 외국인 비율은 2023년 3월 24일자 RE/RO 지침 PDF에서 가져온 것입니다; 제출 전에 이 수치들을 대체한 더 새로운 지침이 없는지 확인하십시오."
 
 updated: 2026-08-07
 sources:

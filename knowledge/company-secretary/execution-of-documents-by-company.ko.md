@@ -14,25 +14,23 @@ sensitivity: "none"
 
 answer: "회사법(Companies Act 2016) s.66에 따라 회사는 정관에 따라 회사 인장(common seal)을 날인하거나(인장이 있는 경우), 또는 그중 한 명이 반드시 이사여야 하는 권한 있는 임원 두 명의 서명으로 문서를 집행합니다. 이사가 1인뿐인 회사의 경우, 그 이사가 증인 한 명이 입회한 가운데 서명합니다. 회사 인장은 이제 의무가 아니라 선택 사항입니다. 날인증서(deed)는 s.67에 따라 집행되며 날인증서로서 교부(delivered)되어야 합니다."
 keyTakeaways:
-  - "Cop mohor kini pilihan — Seksyen 61(1) membenarkan syarikat memilih untuk memilikinya atau tidak."
-  - "Seksyen 66(2) membolehkan penyempurnaan dengan tandatangan dua pegawai diberi kuasa, salah seorangnya mesti pengarah."
-  - "Bagi syarikat pengarah tunggal, dokumen ditandatangani oleh pengarah itu di hadapan seorang saksi yang mengesahkan tandatangan."
-  - "Pegawai diberi kuasa ialah pengarah, setiausaha, atau mana-mana orang lain yang diluluskan oleh Lembaga (Seksyen 66(5))."
-  - "Formaliti Seksyen 66 hanya terpakai kepada dokumen yang dikehendaki disempurnakan oleh undang-undang bertulis, resolusi, perjanjian atau perlembagaan — bukan surat atau kontrak biasa."
-appliesTo: "Setiausaha syarikat, pengarah, peguam, dan pemilik perniagaan yang perlu menyempurnakan kontrak, surat ikatan, atau dokumen berkanun bagi pihak sebuah syarikat Malaysia (Sdn Bhd atau Bhd)."
-
+  - "공용 인장(common seal)은 이제 선택 사항입니다 — s.61(1)은 회사가 이를 보유할지 여부를 선택할 수 있도록 허용합니다."
+  - "s.66(2)은 두 명의 권한 있는 임원의 서명으로 서류를 유효하게 작성할 수 있도록 하며, 그중 한 명은 반드시 이사여야 합니다."
+  - "단독 이사 회사의 경우, 서류는 서명을 증명하는 증인 앞에서 그 이사가 서명합니다."
+  - "권한 있는 임원은 이사, 비서, 또는 이사회가 승인한 그 밖의 사람입니다(s.66(5))."
+  - "s.66의 형식 요건은 성문법, 결의, 계약 또는 정관에 의하여 작성이 요구되는 서류에만 적용됩니다 — 통상적인 서한이나 계약에는 적용되지 않습니다."
+appliesTo: "말레이시아 회사(Sdn Bhd 또는 Bhd)를 대신하여 계약, 날인증서 또는 법정 서류를 작성해야 하는 회사 비서, 이사, 변호사 및 사업 소유자."
 faq:
-  - q: "Adakah syarikat Malaysia masih perlu memiliki cop mohor?"
-    a: "Tidak. Seksyen 61(1) Akta Syarikat 2016 menyatakan sebuah syarikat 'may or may not have a common seal' — memilikinya kini pilihan. Namun, jika undang-undang bertulis lain (contohnya urusan di Pejabat Tanah) menghendaki penggunaan cop mohor, syarikat masih boleh mengguna pakai satu apabila perlu. SSM mengesahkan dalam FAQ Part G bahawa keputusan untuk tidak memiliki cop mohor tidak mengatasi keperluan di bawah undang-undang bertulis lain."
-  - q: "Berapa ramai penandatangan diperlukan untuk menyempurnakan dokumen tanpa cop mohor?"
-    a: "Dua orang pegawai diberi kuasa, dan salah seorang daripadanya mesti seorang pengarah (Seksyen 66(2)(a)). Pengecualian: bagi syarikat yang hanya mempunyai seorang pengarah, pengarah itu boleh menandatangani seorang diri tetapi di hadapan seorang saksi yang mengesahkan tandatangannya (Seksyen 66(2)(b))."
-  - q: "Siapakah 'pegawai diberi kuasa' (authorized officer)?"
-    a: "Menurut Seksyen 66(5), pegawai diberi kuasa bermaksud seorang pengarah syarikat, seorang setiausaha syarikat, atau mana-mana orang lain yang diluluskan oleh Lembaga Pengarah. Ini bermakna Lembaga boleh memberi kuasa kepada kakitangan tertentu untuk menandatangani, asalkan salah seorang penandatangan tetap seorang pengarah."
-  - q: "Adakah setiap kontrak dan surat perlu ditandatangani oleh dua pegawai?"
-    a: "Tidak. Seksyen 66(6) mentakrifkan 'dokumen' sebagai dokumen yang dikehendaki disempurnakan oleh undang-undang bertulis, resolusi, perjanjian atau perlembagaan mengikut Seksyen 66(1). Kontrak biasa boleh dibuat di bawah Seksyen 64 oleh mana-mana orang yang bertindak di bawah kuasa syarikat, tanpa perlu dua pegawai."
-  - q: "Bagaimana sebuah syarikat menyempurnakan surat ikatan (deed)?"
-    a: "Di bawah Seksyen 67(1), dokumen sah disempurnakan sebagai deed jika ia disempurnakan dengan wajar oleh syarikat DAN diserahkan (delivered) sebagai deed. Seksyen 67(2) menganggap penyerahan telah berlaku sebaik sahaja deed itu disempurnakan dengan sah, melainkan niat sebaliknya dibuktikan."
-
+  - q: "말레이시아 회사는 여전히 공용 인장을 보유해야 합니까?"
+    a: "아닙니다. 회사법(Companies Act 2016) s.61(1)은 회사가 「may or may not have a common seal」라고 규정합니다 — 이를 보유하는 것은 이제 선택 사항입니다. 다만 다른 성문법(예: 토지청 업무)이 공용 인장의 사용을 요구하는 경우, 회사는 필요할 때 여전히 이를 채택하여 사용할 수 있습니다. SSM은 FAQ Part G에서 공용 인장을 보유하지 않기로 한 결정이 다른 성문법상의 요건을 배제하지 않는다고 확인합니다."
+  - q: "공용 인장 없이 서류를 유효하게 작성하려면 몇 명의 서명자가 필요합니까?"
+    a: "두 명의 권한 있는 임원이며, 그중 한 명은 반드시 이사여야 합니다(s.66(2)(a)). 예외: 이사가 한 명뿐인 회사의 경우, 그 이사는 단독으로 서명할 수 있으나 그의 서명을 증명하는 증인 앞에서 하여야 합니다(s.66(2)(b))."
+  - q: "「권한 있는 임원(authorized officer)」은 누구입니까?"
+    a: "s.66(5)에 따라 권한 있는 임원은 회사의 이사, 회사의 비서, 또는 이사회가 승인한 그 밖의 사람을 의미합니다. 이는 서명자 중 한 명이 여전히 이사인 한, 이사회가 특정 직원에게 서명 권한을 부여할 수 있음을 의미합니다."
+  - q: "모든 계약과 서한을 두 명의 임원이 서명해야 합니까?"
+    a: "아닙니다. s.66(6)은 「서류」를 s.66(1)에 따라 성문법, 결의, 계약 또는 정관에 의하여 작성이 요구되는 서류로 정의합니다. 통상적인 계약은 s.64에 따라 회사의 권한으로 행위하는 모든 사람이 두 명의 임원 없이 체결할 수 있습니다."
+  - q: "회사는 날인증서(deed)를 어떻게 작성합니까?"
+    a: "s.67(1)에 따라, 서류는 회사가 적법하게 작성하고 날인증서로서 교부(delivered)되면 날인증서로서 유효하게 작성됩니다. s.67(2)은 반대의 의사가 증명되지 않는 한, 날인증서가 적법하게 작성되는 즉시 교부가 이루어진 것으로 봅니다."
 lang: "ko"
 sourceContentHash: "11a3057b821bdc34"
 masterLanguage: "ms"
@@ -51,10 +49,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kedudukan di bawah Akta Syarikat 1965 yang dimansuhkan: sahkan sama ada cop mohor benar-benar diwajibkan untuk setiap syarikat (dakwaan ini telah dilembutkan kepada 'perubahan kedudukan' kerana tiada petikan sumber primer diperoleh; sumber yang dipetik hanya mengesahkan cop mohor kini pilihan di bawah Seksyen 61(1))."
-  - "Petikan verbatim Bahasa Inggeris SSM FAQ Part G telah disahkan byte-by-byte terhadap PDF SSM pada 2026-08-07; pengulas manusia digalakkan membuka semula PDF sebagai semakan akhir."
-  - "Keperluan penyempurnaan khusus semasa pihak berkuasa lain (contohnya Pejabat Tanah, bank) yang mungkin melangkaui Akta Syarikat 2016 — sahkan mengikut transaksi sebenar."
-
+  - "폐지된 1965년 회사법(Companies Act 1965)상의 지위: 공용 인장이 실제로 모든 회사에 의무였는지 확인하십시오(이 주장은 1차 자료 인용을 얻지 못하여 「지위의 변화」로 완화되었으며, 인용된 자료는 공용 인장이 이제 s.61(1)에 따라 선택 사항이라는 점만 확인합니다)."
+  - "SSM FAQ Part G의 영어 원문 인용은 2026-08-07에 SSM PDF와 바이트 단위로 대조하여 확인되었으며, 사람 검토자는 최종 확인으로 PDF를 다시 열어볼 것을 권장합니다."
+  - "회사법(Companies Act 2016)을 넘어설 수 있는 다른 당국(예: 토지청, 은행)의 현행 특정 작성 요건 — 실제 거래에 따라 확인하십시오."
 updated: 2026-08-07
 sources:
   - title: "Companies Act 2016 (Act 777) — full text (nota permulaan kuat kuasa: 31 Januari 2017, P.U. (B) 50/2017)"

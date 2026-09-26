@@ -14,12 +14,12 @@ sensitivity: "none"
 
 answer: "전자송장은 무료 MyInvois 포털이나 API 연동 시스템을 통해 송장 데이터를 검증을 위해 LHDN의 MyInvois 시스템에 제출하도록 요구합니다. 검증된 문서는 고유 식별번호(Unique Identifier Number)와 QR 코드를 받습니다. 이 의무는 연간 매출로 단계화되며, 마지막 단계는 2026년 1월 1일부터 매출 RM500만까지의 사업체에 미치고 RM100만 미만의 사업체는 면제됩니다. 각 단계에는 자체의 임시 완화 기간이 있습니다."
 keyTakeaways:
-  - "Validation happens through MyInvois before the document functions as an invoice for income tax purposes"
-  - "Four phases, no fifth — the last began 1 January 2026 for turnover up to RM5 million"
-  - "Businesses with annual turnover below RM1,000,000 are exempt"
-  - "Your phase is fixed by FY2022 or YA2022 figures and does not move afterwards"
-  - "An LHDN-validated e-Invoice does not automatically satisfy the SST tax invoice rules — that is a separate document requirement"
-appliesTo: "Business owners, finance teams and system administrators preparing for or operating under the e-Invoice mandate."
+  - "검증은 문서가 소득세 목적의 송장으로 기능하기 전에 MyInvois를 통해 이루어집니다"
+  - "네 개 단계, 다섯 번째는 없습니다 — 마지막 단계는 매출 RM500만까지의 사업체에 대해 2026년 1월 1일 시작되었습니다"
+  - "연간 매출이 RM1,000,000 미만인 사업체는 면제됩니다"
+  - "귀사의 단계는 2022 회계연도 또는 2022 과세연도 수치로 확정되며 이후 변동되지 않습니다"
+  - "말레이시아 국세청(LHDN)이 검증한 전자송장이 자동으로 SST 세금 송장 규칙을 충족하지는 않습니다 — 그것은 별개의 문서 요건입니다"
+appliesTo: "전자송장 의무를 준비하거나 그에 따라 운영하는 사업주, 재무팀 및 시스템 관리자."
 
 verificationNeeded: []
 

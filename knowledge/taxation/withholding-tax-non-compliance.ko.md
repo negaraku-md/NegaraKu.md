@@ -14,25 +14,25 @@ sensitivity: "none"
 
 answer: "원천징수 공제를 놓치면 세금보다 더 많은 비용이 듭니다. 미납 금액은 해당 부과 조항에 따라 10퍼센트 증가하며, 그 기초가 되는 비용 전체가 소득세법(Income Tax Act 1967) s.39(1)(f), (i) 또는 (j)에 따라 불인정됩니다. 세금과 가산액을 납부하면 공제가 회복되지만, 이미 제출한 신고서에서 그 비용을 청구했다면 부정확 신고에 대한 s.113(2) 벌칙이 부과되며 원천징수세를 정산한 후에도 유지됩니다."
 keyTakeaways:
-  - "The 10 per cent increase sits in ss.107A(2), 109(2), 109B(2) and 109F(2) — not in s.113"
-  - "Section 113(2) is a separate penalty, up to 100 per cent of the tax undercharged, for an incorrect return"
-  - "Disallowance is of the whole expense, not of the unpaid tax"
-  - "The disallowance is reversible — the s.113(2) penalty is not"
-  - "s.39(1)(f) covers s.109, s.39(1)(i) covers s.107A, s.39(1)(j) covers s.109B and s.109F"
-  - "The Director General may remit the 10 per cent increase for good cause"
-  - "Section 131A relief runs one year after the end of the year the payment was made"
-appliesTo: "Any Malaysian payer that has paid a non-resident without deducting withholding tax, and any adviser quantifying the exposure."
+  - "10% 증액은 제107A(2)조, 제109(2)조, 제109B(2)조, 제109F(2)조에 있습니다 — 제113조에 있는 것이 아닙니다"
+  - "제113(2)조는 부정확한 신고에 대한 별개의 벌칙으로, 과소 부과된 세액의 최대 100%입니다"
+  - "손금불산입은 미납 세액이 아니라 비용 전액에 대한 것입니다"
+  - "손금불산입은 되돌릴 수 있지만 — 제113(2)조 벌칙은 되돌릴 수 없습니다"
+  - "제39(1)(f)조는 제109조를, 제39(1)(i)조는 제107A조를, 제39(1)(j)조는 제109B조와 제109F조를 다룹니다"
+  - "국세청장은 정당한 사유가 있으면 10% 증액을 감면할 수 있습니다"
+  - "제131A조 구제는 지급이 이루어진 연도가 끝난 후 1년까지 가능합니다"
+appliesTo: "원천징수세를 공제하지 않고 비거주자에게 지급한 모든 말레이시아 지급자와, 그 위험을 정량화하는 모든 자문가."
 
 verificationNeeded:
-  - "The 100 per cent s.113(2) rate used below is LHDN's own illustrative figure in Public Ruling 10/2019 Example 18 — the Ruling notes the rate in an actual case follows the Tax Audit Framework in force, which was not retrieved"
+  - "아래에 사용된 제113(2)조 100% 세율은 공개 예규 10/2019호 사례 18에 나오는 LHDN 자체의 예시 수치임 — 예규는 실제 사건에서의 세율이 시행 중인 세무조사 체계(Tax Audit Framework)를 따른다고 밝히나, 그 체계는 입수하지 못함"
 
 obligations:
-  - what: "Pay the withholding tax plus the 10 per cent increase once a failure is identified"
+  - what: "불이행이 확인되면 원천징수세와 10% 증액을 납부"
     trigger: "ongoing"
-    due: "forthwith, as a debt due to the Government"
+    due: "즉시, 정부에 대한 채무로서"
     authority: "LHDN"
     statute: "Income Tax Act 1967, ss.107A(2), 109(2), 109B(2), 109F(2)"
-    consequence: "Recovery action under s.106(1) and continued disallowance of the expense under s.39"
+    consequence: "제106(1)조에 따른 징수 조치 및 제39조에 따른 비용의 지속적 손금불산입"
 
 lang: "ko"
 sourceContentHash: "c4d7fc178919f95f"

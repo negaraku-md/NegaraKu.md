@@ -14,19 +14,19 @@ sensitivity: "race"
 
 answer: "1930년대부터 1945년 사이에 말레이 민족주의의 두 흐름이 나란히 성장했습니다. 슬랑오르 말레이 협회(Persatuan Melayu Selangor, 1938) 같은 더 보수적인 주(州) 협회들, 그리고 멜라유 라야(Melayu Raya, 대(大)말레이) 이념을 지향한 더 급진적인 청년말레이연맹(Kesatuan Melayu Muda, 1938)입니다. 일본 점령기(1942~1945)는 두 흐름 모두를 교란했지만, 1946년 말라야 연합(Malayan Union) 제안이 광범위한 저항을 촉발하여 통일말레이국민조직(UMNO) 창설로 이어졌습니다. 이 글은 역사 기록을 서술적이고 균형 있게 제시합니다."
 keyTakeaways:
-  - "Persatuan Melayu Selangor ditubuhkan pada Jun 1938 dan memainkan peranan utama dalam dua kongres kebangsaan persatuan Melayu sebelum perang."
-  - "Kesatuan Melayu Muda (KMM) diasaskan pada 1938 oleh Ibrahim Yaacob, sebahagian besar lulusan Maktab Perguruan Sultan Idris (SITC), dengan wawasan Melayu Raya/Indonesia Raya."
-  - "Ibrahim Yaacob ditahan oleh British pada Oktober 1941, sebelum kemasukan tentera Jepun."
-  - "United Malays National Organisation (UMNO) ditubuhkan pada 11 Mei 1946 di Johor Bahru untuk menentang Malayan Union, dengan Dato' Onn Jaafar sebagai presiden pertama."
-appliesTo: "Pelajar, guru, penyelidik dan pembaca umum yang ingin memahami akar sejarah nasionalisme Melayu sebelum kemerdekaan."
+  - "슬랑오르 말레이 협회(Persatuan Melayu Selangor)는 1938년 6월에 설립되어 전전(戰前) 두 차례의 말레이 협회 전국 대회에서 주요한 역할을 하였습니다."
+  - "청년 말레이 연맹(Kesatuan Melayu Muda, KMM)은 1938년 이브라힘 야콥(Ibrahim Yaacob)에 의해 창설되었으며, 대부분 술탄 이드리스 사범대학(Maktab Perguruan Sultan Idris, SITC) 출신으로, 대(大)말레이/대인도네시아(Melayu Raya/Indonesia Raya) 구상을 품고 있었습니다."
+  - "이브라힘 야콥(Ibrahim Yaacob)은 일본군이 진입하기 전인 1941년 10월 영국에 의해 구금되었습니다."
+  - "통일말레이국민조직(United Malays National Organisation, UMNO)은 말라야 연합(Malayan Union)에 반대하기 위해 1946년 5월 11일 조호르바루(Johor Bahru)에서 설립되었으며, 다토 온 자아파르(Dato' Onn Jaafar)가 초대 총재였습니다."
+appliesTo: "독립 이전 말레이 민족주의의 역사적 뿌리를 이해하고자 하는 학생, 교사, 연구자 및 일반 독자."
 
 faq:
-  - q: "Apakah Kesatuan Melayu Muda (KMM)?"
-    a: "Sebuah pertubuhan nasionalis Melayu yang diasaskan pada 1938, dipimpin Ibrahim Yaacob dan sebahagian besar terdiri daripada lulusan Maktab Perguruan Sultan Idris. Ia berpandangan anti-penjajah, kritis terhadap kepimpinan tradisional, dan mendokong idea penyatuan dunia Melayu (Melayu Raya)."
-  - q: "Mengapa orang Melayu membantah Malayan Union?"
-    a: "Menurut rekod sejarah, bantahan berpusat pada pemindahan kuasa raja-raja Melayu kepada seorang Gabenor dan syarat kewarganegaraan yang lebih longgar bagi bukan Melayu. Dalam rekod perbahasan Parlimen British, dinyatakan bahawa semua Sultan telah memberi notis bahawa mereka tidak dapat mengiktiraf sebagai berkesan perjanjian yang mereka tandatangani dengan Sir Harold MacMichael."
-  - q: "Apakah kaitan zaman ini dengan penubuhan UMNO?"
-    a: "Gelombang bantahan terhadap Malayan Union menyatukan puluhan persatuan Melayu lalu membawa kepada penubuhan UMNO pada 11 Mei 1946 di Johor Bahru."
+  - q: "청년 말레이 연맹(Kesatuan Melayu Muda, KMM)이란 무엇입니까?"
+    a: "1938년에 창설된 말레이 민족주의 단체로, 이브라힘 야콥(Ibrahim Yaacob)이 이끌었으며 대부분 술탄 이드리스 사범대학(Maktab Perguruan Sultan Idris) 출신으로 구성되었습니다. 이 단체는 반식민 입장을 취하고 전통적 지도부에 비판적이었으며, 말레이 세계의 통합(대말레이, Melayu Raya) 이념을 지지하였습니다."
+  - q: "말레이인들은 왜 말라야 연합(Malayan Union)에 반대하였습니까?"
+    a: "역사 기록에 따르면, 반대는 말레이 통치자들의 권한을 한 명의 총독에게 이전하는 것과 비말레이인에 대한 더 느슨한 시민권 요건에 집중되었습니다. 영국 의회의 토론 기록에는, 모든 술탄이 해럴드 맥마이클 경(Sir Harold MacMichael)과 서명한 협정을 유효한 것으로 인정할 수 없다는 뜻을 통고하였다고 명시되어 있습니다."
+  - q: "이 시기는 UMNO의 설립과 어떤 관련이 있습니까?"
+    a: "말라야 연합(Malayan Union)에 대한 반대의 물결은 수십 개의 말레이 협회를 결집시켰고, 이는 1946년 5월 11일 조호르바루(Johor Bahru)에서의 UMNO 설립으로 이어졌습니다."
 
 lang: "ko"
 sourceContentHash: "d1accab37207bc8e"
@@ -46,11 +46,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Ejaan dan butiran penuh KRIS: sumber menyebut 'Kesatuan Rakyat Indonesia Semenanjung' (juga dieja KERIS), ditubuhkan Julai 1945; sahkan ejaan rasmi dan peranan Dr. Burhanuddin al-Helmy dengan sumber sejarah primer."
-  - "Penyertaan wanita Melayu dalam demonstrasi anti-Malayan Union 1946 (mis. ucapan di Kuala Kangsar, Angkatan Wanita Sedar) — didokumenkan di tempat lain tetapi tidak disahkan terhadap sumber yang dipetik; perlu sumber primer/akademik sebelum dinyatakan semula."
-  - "Butiran simbol berkabung (kain/ikat putih, sama ada dililit pada songkok) — kini bersandar pada sumber berita sekunder; sahkan dengan laporan akhbar sezaman atau kajian akademik."
-  - "Angka penduduk (kira-kira dua juta Melayu di Tanah Melayu; puluhan juta di Kepulauan Indonesia) — sahkan angka tepat dengan sumber demografi zaman itu."
-  - "Julat tarikh pendudukan Jepun (1942-1945): sahkan tarikh permulaan/penamat yang tepat (kejatuhan Singapura 15 Februari 1942; penyerahan Jepun Ogos-September 1945) mengikut keperluan petikan."
+  - "KRIS의 철자와 상세 전모: 자료는 「반도 인도네시아 인민 연맹(Kesatuan Rakyat Indonesia Semenanjung)」(KERIS로도 표기)이 1945년 7월 설립되었다고 언급함; 공식 철자와 부르하누딘 알헬미 박사(Dr. Burhanuddin al-Helmy)의 역할을 1차 역사 자료로 확인할 것."
+  - "1946년 반(反)말라야 연합 시위에서의 말레이 여성 참여(예: 쿠알라캉사르(Kuala Kangsar)의 연설, 각성 여성 부대(Angkatan Wanita Sedar)) — 다른 곳에는 기록되어 있으나 인용된 자료로는 확인되지 않음; 다시 기술하기 전에 1차·학술 자료가 필요함."
+  - "애도 상징의 상세(흰 천/띠, 그것을 송콕(songkok)에 둘렀는지 여부) — 현재는 2차 뉴스 자료에 의존함; 당대 신문 보도나 학술 연구로 확인할 것."
+  - "인구 수치(말라야에 약 200만 명의 말레이인; 인도네시아 군도에 수천만 명) — 정확한 수치를 그 시대의 인구 자료로 확인할 것."
+  - "일본 점령 기간(1942-1945): 인용 필요에 따라 정확한 시작·종료 날짜(싱가포르 함락 1942년 2월 15일; 일본 항복 1945년 8~9월)를 확인할 것."
 
 updated: 2026-08-08
 sources:

@@ -15,24 +15,21 @@ sensitivity: "none"
 answer: "실질 주주(substantial shareholder)란 회사 의결권 주식의 5% 이상에 이익을 가진 자를 말합니다(회사법(Companies Act 2016) 제136조). 그러한 자는 회사가 상장회사이면 3일 이내, 그 밖의 경우 5일 이내에 회사에 서면으로 통지해야 하며, 회사는 제144조에 따라 모든 통지를 등록 사무소에 비치하고 열람에 개방되는 전용 실질 주주 등록부에 기록해야 합니다."
 
 keyTakeaways:
-  - "The threshold is a 5% interest in voting shares, direct or indirect (section 136)."
-  - "The substantial shareholder must notify the company within 3 days (listed) or 5 days (other public company) of becoming one, changing their interest, or ceasing to be one (sections 137–139)."
-  - "The company keeps a separate register under section 144, at its registered office, open to members free and to others for up to RM10 per inspection (or such lesser sum as the company requires)."
-  - "This Subdivision applies to listed companies and to public companies generally — not to ordinary private companies (section 134)."
-  - "Failure to notify carries a fine of up to RM1 million, plus up to RM1,000 per day for a continuing offence (section 137)."
-
-appliesTo: "Company secretaries, directors and investors of Malaysian public and listed companies, and anyone approaching a 5% voting stake in one."
-
+  - "기준은 직접적 또는 간접적인 의결권주식에 대한 5% 지분입니다(제136조)."
+  - "주요주주는 주요주주가 되거나, 지분이 변경되거나, 주요주주에서 벗어난 후 3일(상장회사) 또는 5일(그 밖의 공개회사) 이내에 회사에 통지해야 합니다(제137조~제139조)."
+  - "회사는 제144조에 따라 등록사무소에 별도의 등록부를 비치하며, 이는 사원에게 무료로, 그 밖의 사람에게는 열람 1회당 RM10까지(또는 회사가 요구하는 그보다 적은 금액) 열람이 개방됩니다."
+  - "이 세부편은 상장회사와 공개회사 일반에 적용되며 — 통상적인 비공개회사에는 적용되지 않습니다(제134조)."
+  - "통지하지 않으면 RM1,000,000 이하의 벌금과 계속 위반 시 1일당 RM1,000 이하가 부과됩니다(제137조)."
+appliesTo: "말레이시아 공개회사와 상장회사의 회사 비서, 이사 및 투자자, 그리고 그러한 회사에서 5% 의결권 지분에 근접하는 모든 사람."
 faq:
-  - q: "What percentage makes someone a substantial shareholder in Malaysia?"
-    a: "An interest in not less than 5% of the total voting shares in the company, or 5% of a class of voting shares where the capital is divided into classes (section 136, Companies Act 2016)."
-  - q: "How long do you have to notify the company?"
-    a: "Within 3 days if the company's shares are quoted on a stock exchange, or within 5 days in any other case, after becoming a substantial shareholder, changing your interest, or ceasing to be one (sections 137, 138 and 139)."
-  - q: "Do private companies keep a register of substantial shareholders?"
-    a: "No. The Subdivision applies to companies whose shares are quoted on a stock exchange, public companies whose shares are not quoted, and bodies the Minister declares (section 134). Ordinary private companies are outside it, though every company still keeps a register of members under section 50."
-  - q: "What is the penalty for not disclosing a substantial shareholding?"
-    a: "An offence punishable on conviction by a fine not exceeding RM1 million, and a further fine of up to RM1,000 for each day the offence continues after conviction (section 137, with parallel offences in sections 138 and 139)."
-
+  - q: "말레이시아에서 몇 퍼센트가 되면 주요주주가 됩니까?"
+    a: "회사의 총 의결권주식의 5% 이상, 또는 자본이 여러 종류로 나뉜 경우 어느 종류 의결권주식의 5%에 대한 지분입니다(회사법(Companies Act 2016) 제136조)."
+  - q: "회사에 통지하기까지 얼마의 기간이 있습니까?"
+    a: "회사의 주식이 증권거래소에 상장된 경우 3일 이내, 그 밖의 경우 5일 이내이며, 이는 주요주주가 되거나, 지분이 변경되거나, 주요주주에서 벗어난 후입니다(제137조, 제138조 및 제139조)."
+  - q: "비공개회사도 주요주주 등록부를 비치합니까?"
+    a: "아닙니다. 이 세부편은 주식이 증권거래소에 상장된 회사, 주식이 상장되지 않은 공개회사, 그리고 장관이 선언하는 단체에 적용됩니다(제134조). 통상적인 비공개회사는 그 밖에 있으나, 모든 회사는 여전히 제50조에 따라 사원명부를 비치합니다."
+  - q: "주요 주식보유를 공시하지 않은 경우의 벌칙은 무엇입니까?"
+    a: "유죄 확정 시 RM1,000,000 이하의 벌금과, 유죄 확정 후 위반이 계속되는 1일당 RM1,000 이하의 추가 벌금에 처하는 범죄입니다(제137조, 제138조 및 제139조에 병행 범죄)."
 lang: "ko"
 sourceContentHash: "608e7ade88de1522"
 masterLanguage: "en"
@@ -45,8 +42,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Confirm these figures against the current in-force text of the Companies Act 2016 at the date of use (check for any amendments after the 1.8.2022 reprint)."
-  - "The notification penalty is attributed to 'sections 137–139' as shorthand; each of sections 137, 138 and 139 carries its own subsection (5) offence provision (fine only, no imprisonment). Confirm this phrasing is acceptable for the intended audience."
+  - "이 수치들을 이용 시점의 현행 유효 회사법(Companies Act 2016) 문언과 대조하여 확인하십시오(2022년 8월 1일 재인쇄본 이후의 개정 여부 확인)."
+  - "통지 벌칙은 약칭으로 「제137조~제139조」에 귀속되나, 제137조, 제138조 및 제139조 각각은 고유의 제(5)항 범죄 규정(벌금만, 징역 없음)을 가집니다. 이 표현이 대상 독자에게 적절한지 확인하십시오."
 revisions:
   - revision: 0
     date: 2026-08-07

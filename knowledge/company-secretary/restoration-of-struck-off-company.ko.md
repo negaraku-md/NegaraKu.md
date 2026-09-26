@@ -14,19 +14,17 @@ sensitivity: "none"
 
 answer: "권리를 침해당한 자 — 통상 사원, 이사 또는 채권자 — 는 누구든지 회사법(Companies Act 2016) 제555조 제1항에 따라 말소된 회사명을 복권하도록 고등법원에 신청할 수 있다. 신청은 그 명칭이 등록부에서 말소된 후 7년 이내에 이루어져야 한다. 법원 명령의 정본이 등록관에게 제출되면, 회사는 그 명칭이 결코 말소되지 않았던 것처럼 계속하여 존재한 것으로 간주된다."
 keyTakeaways:
-  - "Permohonan pemulihan mesti dibuat dalam tempoh tujuh tahun selepas nama syarikat dipotong (Seksyen 555(1))."
-  - "Ia adalah proses mahkamah, bukan pemfailan pentadbiran: satu saman pemula disokong afidavit difailkan di Mahkamah Tinggi, dengan Pendaftar (SSM) sebagai defendan."
-  - "Selepas salinan pejabat perintah difailkan kepada Pendaftar, syarikat disifatkan telah berterusan wujud (Seksyen 555(3))."
-appliesTo: "Ahli, pengarah, pemiutang atau mana-mana pihak terkilan yang syarikatnya telah dipotong daripada daftar di bawah Seksyen 549 atau 550."
-
+  - "회복 신청은 회사 명칭이 말소된 후 7년 이내에 이루어져야 합니다(제555(1)조)."
+  - "이는 행정 제출이 아니라 법원 절차입니다: 선서진술서로 뒷받침된 개시 소환장 1건을 등기관(SSM)을 피고로 하여 고등법원에 제출합니다."
+  - "명령의 정본이 등기관에게 제출된 후, 회사는 계속 존재해 온 것으로 간주됩니다(제555(3)조)."
+appliesTo: "제549조 또는 제550조에 따라 회사가 등록부에서 말소된, 사원, 이사, 채권자 또는 불이익을 받은 모든 당사자."
 faq:
-  - q: "Berapa lama tempoh untuk memohon pemulihan?"
-    a: "Tujuh tahun selepas nama syarikat dipotong daripada daftar, menurut Seksyen 555(1) Akta Syarikat 2016. Selepas tempoh itu, pemulihan tidak lagi boleh dipohon."
-  - q: "Siapa boleh memohon?"
-    a: "Mana-mana orang yang terkilan dengan pemotongan itu — lazimnya ahli, pengarah atau pemiutang syarikat."
-  - q: "Adakah ini boleh diselesaikan terus dengan SSM?"
-    a: "Tidak. Pemulihan memerlukan perintah Mahkamah Tinggi. Pendaftar (SSM) dinamakan sebagai defendan dan menyemak permohonan sebelum perbicaraan."
-
+  - q: "회복을 신청할 수 있는 기간은 얼마입니까?"
+    a: "회사법(Companies Act 2016) 제555(1)조에 따라 회사 명칭이 등록부에서 말소된 후 7년입니다. 그 기간이 지나면 더 이상 회복을 신청할 수 없습니다."
+  - q: "누가 신청할 수 있습니까?"
+    a: "그 말소로 인하여 불이익을 받은 모든 사람 — 대개 회사의 사원, 이사 또는 채권자입니다."
+  - q: "이것을 SSM과 직접 해결할 수 있습니까?"
+    a: "아닙니다. 회복에는 고등법원의 명령이 필요합니다. 등기관(SSM)이 피고로 지정되며 심리 전에 신청을 검토합니다."
 lang: "ko"
 sourceContentHash: "abcd7eea51de63b1"
 masterLanguage: "ms"
@@ -39,10 +37,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "URL sumber Bestar mengandungi pemisah 'reinst-ate' di tengah perkataan (…/application-to-reinst-ate-company-under-section-555-1-…). Ia menghasilkan HTTP 200 (slug kanonik sebenar Wix), tetapi sahkan secara manual token itu tidak rosak atau tersalin secara senyap."
-  - "Tarikh 30 Januari 2023 bagi Garis Panduan SSM di bawah Seksyen 555(1) disahkan melalui pengumuman teknikal MAICSA dan TACPro; sahkan terhadap salinan garis panduan rasmi SSM sendiri jika boleh diakses."
-  - "Rujukan Aturan 88 Kaedah 2 Kaedah-Kaedah Mahkamah 2012 disebut dalam sumber sekunder (MAICSA/TACPro); sahkan terhadap teks Kaedah-Kaedah Mahkamah 2012 yang berkuat kuasa."
-
+  - "Bestar 출처 URL은 단어 중간에 「reinst-ate」 구분자를 포함합니다(…/application-to-reinst-ate-company-under-section-555-1-…). 이는 HTTP 200을 반환하나(실제 Wix 정본 슬러그), 그 토큰이 손상되지 않았거나 조용히 잘못 복사되지 않았는지 수동으로 확인하십시오."
+  - "제555(1)조에 따른 SSM 지침의 2023년 1월 30일 날짜는 MAICSA와 TACPro의 기술 공지를 통해 확인되었습니다. 접근 가능하다면 SSM 자체의 공식 지침 사본과 대조하여 확인하십시오."
+  - "2012년 법원규칙(Kaedah-Kaedah Mahkamah 2012) 제88명령 제2규칙에 대한 언급은 2차 자료(MAICSA/TACPro)에 나옵니다. 유효한 2012년 법원규칙(Rules of Court 2012) 문언과 대조하여 확인하십시오."
 revisions:
   - revision: 0
     date: 2026-08-07

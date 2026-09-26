@@ -12,23 +12,23 @@ contentType: "guide"
 
 answer: "말레이시아 제15대 총선(GE15)은 총리 이스마일 사브리 야콥(Ismail Sabri Yaakob)이 2022년 10월 국회를 해산한 뒤 2022년 11월 19일에 실시되었습니다. 이는 말레이시아 최초의 헝 의회를 낳았습니다. 222석의 하원(Dewan Rakyat)에서 어떤 연합도 112석의 다수에 이르지 못하였습니다. 희망연대(Pakatan Harapan, 안와르 이브라힘)는 약 82석을, 국민연합(Perikatan Nasional, 무히딘 야신)은 약 74석을, 국민전선(Barisan Nasional)은 약 30석을 얻었으며, PAS가 의석 기준 단일 최대 정당으로 부상하였습니다. 협상과 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)의 개입 끝에, 안와르 이브라힘은 2022년 11월 24일 제10대 총리로 취임하여 '통합정부'를 구성하였습니다. 이는 투표 연령을 18세로 낮추고 자동 유권자 등록을 도입한 Undi18 개혁 아래 실시된 최초의 선거였습니다."
 keyTakeaways:
-  - "Held 19 November 2022; produced Malaysia's first hung parliament (no coalition reached 112 of 222 seats)."
-  - "Pakatan Harapan won ~82 seats, Perikatan Nasional ~74, Barisan Nasional ~30."
-  - "PAS became the single largest party by seats, part of a strong Perikatan Nasional showing."
-  - "After the King's intervention, Anwar Ibrahim was sworn in as 10th PM on 24 November 2022, leading a unity government."
-  - "The first election under Undi18 — voting age lowered to 18, with automatic voter registration."
+  - "2022년 11월 19일 실시되었으며, 말레이시아 최초의 헝 의회(어느 연합도 222석 가운데 112석에 이르지 못함)를 낳았습니다."
+  - "희망연대(Pakatan Harapan)가 약 82석, 국민연합(Perikatan Nasional)이 약 74석, 국민전선(Barisan Nasional)이 약 30석을 획득하였습니다."
+  - "이슬람당(PAS)은 국민연합(Perikatan Nasional)의 강세 속에서 의석 기준 최대 단일 정당이 되었습니다."
+  - "국왕의 개입 이후, 안와르 이브라힘(Anwar Ibrahim)이 2022년 11월 24일 제10대 총리로 취임하여 통합정부를 이끌게 되었습니다."
+  - "선거권 연령을 18세로 낮추고 자동 유권자 등록을 도입한 운디18(Undi18) 아래 치러진 첫 선거였습니다."
 
 faq:
-  - q: "When was Malaysia's 15th general election held?"
-    a: "On 19 November 2022, after Parliament was dissolved on 10 October 2022 by Prime Minister Ismail Sabri Yaakob."
-  - q: "What was the result of GE15?"
-    a: "Malaysia's first hung parliament — no coalition won the 112 seats needed for a majority. Pakatan Harapan led with about 82 seats, ahead of Perikatan Nasional (~74) and Barisan Nasional (~30)."
-  - q: "How was the government formed?"
-    a: "After negotiations and the intervention of the Yang di-Pertuan Agong, Anwar Ibrahim was appointed and sworn in as the 10th Prime Minister on 24 November 2022, forming a 'unity government' that brought together former rivals including Barisan Nasional."
+  - q: "말레이시아 제15대 총선은 언제 실시되었습니까?"
+    a: "이스마일 사브리 야콥(Ismail Sabri Yaakob) 총리가 2022년 10월 10일 국회를 해산한 후, 2022년 11월 19일에 실시되었습니다."
+  - q: "제15대 총선(GE15)의 결과는 어떠하였습니까?"
+    a: "말레이시아 최초의 헝 의회로 — 어느 연합도 과반에 필요한 112석을 얻지 못하였습니다. 희망연대(Pakatan Harapan)가 약 82석으로 국민연합(Perikatan Nasional, 약 74석)과 국민전선(Barisan Nasional, 약 30석)을 앞서 선두를 차지하였습니다."
+  - q: "정부는 어떻게 구성되었습니까?"
+    a: "협상과 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)의 개입 이후, 안와르 이브라힘(Anwar Ibrahim)이 2022년 11월 24일 제10대 총리로 임명되어 취임하였으며, 국민전선(Barisan Nasional)을 포함한 과거의 경쟁자들을 아우르는 「통합정부」를 구성하였습니다."
 
 verificationNeeded:
-  - "SENSITIVE / needs human review before publication. This article concerns an election and the King's role in government formation (constitution/royalty). Seat counts and turnout are stated from secondary compilations of Election Commission (SPR) results and must be re-checked against official figures. Characterisations of the 'green wave' and any ethnic framing must remain neutral and attributed."
-  - "All figures to be confirmed against the Election Commission of Malaysia (Suruhanjaya Pilihan Raya); note that final tallies differ slightly from election-night figures due to a postponed seat."
+  - "민감 / 발행 전 사람 검토가 필요함. 이 글은 선거와 정부 구성에서의 국왕의 역할(헌법/왕실)을 다룹니다. 의석 수와 투표율은 선거관리위원회(SPR) 결과의 2차 집계에 근거하여 기술되었으므로 공식 수치와 다시 대조하여야 합니다. 「녹색 물결」에 대한 성격 규정과 어떠한 인종적 프레이밍도 중립적이고 인용 형태로 유지되어야 합니다."
+  - "모든 수치는 말레이시아 선거관리위원회(Suruhanjaya Pilihan Raya)와 대조하여 확인하여야 하며, 연기된 한 의석으로 인해 최종 집계가 선거 당일 밤 수치와 다소 차이가 있음에 유의합니다."
 
 lang: "ko"
 sourceContentHash: "acdebe065daafc2e"

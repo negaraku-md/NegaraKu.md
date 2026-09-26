@@ -14,21 +14,21 @@ sensitivity: "none"
 
 answer: "부르사 말레이시아(Bursa Malaysia)에 상장된 말레이시아 부동산투자신탁(REIT) 또는 부동산 신탁 펀드(PTF)는 기준기간에 그 소득의 90% 이상을 수익증권 보유자에게 분배하는 경우, 소득세법(Income Tax Act 1967) 제61A조에 따라 총소득에 대한 세금을 면제받습니다. 소득이 펀드 단계에서 과세되지 않으므로 분배금은 수익증권 보유자 단계에서 과세됩니다. 과세연도(YA) 2026부터 개인 및 외국 기관 투자자에 대한 분배금에 오랫동안 적용되던 10% 최종 원천징수세가 실효되었습니다. 거주 개인 및 법인은 이제 자신의 신고서에 그 소득을 신고하고 현행 세율로 과세되며, 비거주 법인은 여전히 24% 최종 원천징수세의 적용을 받습니다."
 keyTakeaways:
-  - "Under section 61A, a listed REIT/PTF is exempt from income tax if it distributes at least 90% of its total income to unit holders in the basis period."
-  - "Because the fund is exempt, the tax burden shifts to unit holders — distributions from exempt income generally carry no section 110 tax credit."
-  - "The 10% final withholding tax that applied to individuals and foreign institutional investors from YA 2020 to YA 2025 lapsed under a sunset clause and is not available from YA 2026."
-  - "From YA 2026, resident individuals and entities must report REIT/PTF distributions in their income tax returns and are taxed at prevailing rates; non-resident companies stay at a 24% final withholding tax."
-appliesTo: "Individual and institutional investors in Bursa Malaysia-listed REITs, REIT managers, trustees, and tax advisers."
+  - "제61A조에 따라 상장 부동산투자신탁(REIT)/부동산신탁펀드(PTF)는 기준기간에 총소득의 90% 이상을 수익자에게 분배하면 소득세가 면제됩니다."
+  - "펀드가 면제되므로 세 부담은 수익자에게 이전되며 — 면제 소득에서 나온 분배금에는 일반적으로 제110조 세액공제가 따르지 않습니다."
+  - "2020 과세연도부터 2025 과세연도까지 개인과 외국 기관투자자에게 적용되던 10% 최종 원천징수세는 일몰 조항에 따라 소멸되어 2026 과세연도부터는 적용되지 않습니다."
+  - "2026 과세연도부터 거주 개인과 법인은 부동산투자신탁(REIT)/부동산신탁펀드(PTF) 분배금을 소득세 신고서에 보고해야 하며 통상 세율로 과세됩니다. 비거주 회사는 24% 최종 원천징수세를 그대로 유지합니다."
+appliesTo: "부르사 말레이시아(Bursa Malaysia) 상장 부동산투자신탁(REIT)의 개인 및 기관 투자자, REIT 운용사, 수탁자, 그리고 세무 자문가."
 
 faq:
-  - q: "Do Malaysian REITs pay corporate income tax?"
-    a: "Not if they meet the condition in section 61A of the Income Tax Act 1967 — a listed REIT or property trust fund that distributes at least 90% of its total income to unit holders in the basis period is exempt from tax on that income at the fund level. If it distributes less than 90%, the exemption does not apply for that year and the fund is taxed, with distributions then carrying a tax credit."
-  - q: "What changed for REIT investors in YA 2026?"
-    a: "The 10% final withholding tax that applied to distributions paid to individuals and foreign institutional investors from YA 2020 through YA 2025 lapsed under a sunset clause. The Inland Revenue Board's Practice Note No. 2/2026 confirms that from YA 2026 most unit holders report the distribution in their own tax return and are taxed at prevailing rates instead of suffering a flat 10% final tax."
-  - q: "What rate do non-residents pay now?"
-    a: "Non-resident companies continue to face a 24% final withholding tax on REIT/PTF distributions. Non-resident individuals lose the old 10% final rate and are instead taxed at the standard non-resident individual rate of 30% on the distribution, as reported for the YA 2026 regime."
-  - q: "Does the distribution come with a tax credit?"
-    a: "Generally no. When the fund is exempt under section 61A, the income has not been taxed, so the distribution does not carry a section 110 tax credit that a unit holder could set off. A credit only arises where the fund itself was taxed (for example, when it distributed less than 90%)."
+  - q: "말레이시아 부동산투자신탁(REIT)은 법인소득세를 냅니까?"
+    a: "소득세법(Income Tax Act 1967) 제61A조의 요건을 충족하면 내지 않습니다 — 기준기간에 총소득의 90% 이상을 수익자에게 분배하는 상장 부동산투자신탁(REIT) 또는 부동산신탁펀드는 그 소득에 대해 펀드 단계에서 세금이 면제됩니다. 90% 미만을 분배하면 그 해에는 면제가 적용되지 않아 펀드가 과세되며, 이때 분배금에는 세액공제가 따릅니다."
+  - q: "2026 과세연도에 부동산투자신탁(REIT) 투자자에게 무엇이 바뀌었습니까?"
+    a: "2020 과세연도부터 2025 과세연도까지 개인과 외국 기관투자자에게 지급되는 분배금에 적용되던 10% 최종 원천징수세가 일몰 조항에 따라 소멸되었습니다. 말레이시아 국세청(LHDN)의 실무지침 제2/2026호는 2026 과세연도부터 대부분의 수익자가 분배금을 본인의 세금 신고서에 보고하고, 단일 10% 최종세를 부담하는 대신 통상 세율로 과세됨을 확인합니다."
+  - q: "비거주자는 이제 어떤 세율을 냅니까?"
+    a: "비거주 회사는 부동산투자신탁(REIT)/부동산신탁펀드(PTF) 분배금에 대해 계속 24% 최종 원천징수세를 부담합니다. 비거주 개인은 기존의 10% 최종세율을 잃고, 2026 과세연도 제도에 대해 보도된 바와 같이 분배금에 대해 표준 비거주 개인 세율인 30%로 과세됩니다."
+  - q: "분배금에 세액공제가 따릅니까?"
+    a: "일반적으로 따르지 않습니다. 펀드가 제61A조에 따라 면제되면 그 소득이 과세되지 않았으므로, 분배금에는 수익자가 상계할 수 있는 제110조 세액공제가 따르지 않습니다. 세액공제는 펀드 자체가 과세된 경우(예: 90% 미만을 분배한 경우)에만 발생합니다."
 
 lang: "ko"
 sourceContentHash: "74ef95198966c611"
@@ -42,10 +42,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "The 30% rate applied to non-resident individuals is the standard non-resident individual rate reported by press/advisory coverage of Practice Note 2/2026; confirm the exact rate and its statutory basis (Part II, Schedule 1, ITA 1967) against the Practice Note itself."
-  - "The stated rationale for ending the concession (REIT sector maturity) is drawn from EY's and press summaries of the Practice Note; confirm the precise wording and attribution (Treasury/government vs LHDN) against the primary Practice Note."
-  - "Confirm whether section 109D withholding continues to operate as the collection mechanism for non-resident unit holders from YA 2026, and the exact reporting line for resident individuals."
-  - "Scale rates (0%–30%) and thresholds can change each Budget; re-verify the current-year figures before relying on them."
+  - "비거주 개인에게 적용되는 30% 세율은 실무지침 2/2026호에 대한 언론·자문 보도가 전한 표준 비거주 개인 세율임; 정확한 세율과 그 법적 근거(ITA 1967 별표 1 제II부)를 실무지침 자체와 대조하여 확인할 것."
+  - "혜택 종료의 명시된 근거(부동산투자신탁 부문의 성숙)는 EY와 언론의 실무지침 요약에서 가져온 것임; 정확한 문구와 출처 귀속(재무부/정부 대 LHDN)을 1차 실무지침과 대조하여 확인할 것."
+  - "제109D조 원천징수가 2026 과세연도부터 비거주 수익자에 대한 징수 방식으로 계속 작동하는지 여부와, 거주 개인의 정확한 보고 항목을 확인할 것."
+  - "누진세율(0%~30%)과 기준 금액은 예산안마다 변경될 수 있음; 의존하기 전에 해당 연도의 수치를 다시 확인할 것."
 revisions:
   - revision: 0
     date: 2026-08-07

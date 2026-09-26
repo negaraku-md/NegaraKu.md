@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "말레이시아 기업은 JAKIM 할랄 인증을 전적으로 MYeHALAL 온라인 포털을 통해 신청하며, 이 포털은 2025년 5월 5일 이후 유일하게 인정되는 채널입니다. 계정을 만들고, 증빙 서류와 함께 신청서를 제출하며, 환불 불가한 처리 수수료 RM20(국내 기업) 또는 RM200(말레이시아 내 외국 제조업체)을 납부한 뒤, 서류 심사와 현장 사업장 심사를 통과하면 인증서가 발급됩니다. JAKIM은 완비된 신청 건에 대해 영업일 기준 15~30일을 목표로 하지만, 준비 기간을 포함한 현실적인 전체 소요 시간은 3개월에서 6개월에 가깝습니다."
 keyTakeaways:
-  - "Since 5 May 2025, all halal applications — new, renewal and variation — go exclusively through the MYeHALAL digital portal."
-  - "The non-refundable processing fee is RM20 for a local company and RM200 for a foreign entity manufacturing in Malaysia; annual certification fees range roughly RM100–RM1,000 by business size."
-  - "Certificate validity is 1 year for slaughterhouses, 2 years for food and beverage products and premises, and 3 years for cosmetics, pharmaceuticals, consumer goods, logistics, OEM and medical devices."
-  - "Under the Trade Descriptions (Certification and Marking of Halal) Order 2011, once you describe a product as halal, valid certification and marking become mandatory."
-appliesTo: "Malaysian and foreign manufacturers, food-premises operators, and service providers that want to market products or services as halal in Malaysia."
+  - "2025년 5월 5일부터 모든 할랄 신청 — 신규, 갱신, 변경 — 은 MYeHALAL 디지털 포털을 통해서만 이루어집니다."
+  - "환불되지 않는 처리 수수료는 현지 회사의 경우 RM20, 말레이시아에서 제조하는 외국 법인의 경우 RM200이며; 연간 인증 수수료는 사업 규모에 따라 대략 RM100~RM1,000입니다."
+  - "증서 유효기간은 도축장 1년, 식음료 제품 및 사업장 2년, 화장품·의약품·소비재·물류·OEM·의료기기 3년입니다."
+  - "무역표시(할랄 인증 및 표시)명령 2011(Trade Descriptions (Certification and Marking of Halal) Order 2011)에 따라, 제품을 할랄로 표시하는 순간 유효한 인증과 표시가 의무가 됩니다."
+appliesTo: "말레이시아에서 제품이나 서비스를 할랄로 마케팅하려는 말레이시아 및 외국 제조업체, 식품 사업장 운영자, 그리고 서비스 제공자에게 적용됩니다."
 
 faq:
-  - q: "Is halal certification compulsory in Malaysia?"
-    a: "Certification is not compulsory for every product, but it becomes mandatory the moment you describe or mark a product as halal. Under the Trade Descriptions (Certification and Marking of Halal) Order 2011, only JAKIM and the State Islamic Religious Councils may certify, and using a halal claim or logo without valid certification is an offence."
-  - q: "How much does JAKIM halal certification cost?"
-    a: "The processing fee is a non-refundable RM20 for a local company or RM200 for a foreign entity manufacturing in Malaysia. On top of that, an annual certification fee applies by business size — for products it runs from about RM100 (micro) to RM1,000 (large)."
-  - q: "How long does it take to get certified?"
-    a: "JAKIM targets 15 to 30 working days once a complete application is received. In practice, allowing for document preparation, the on-site audit and any corrections, businesses should budget three to six months from start to certificate."
+  - q: "말레이시아에서 할랄 인증은 의무입니까?"
+    a: "모든 제품에 인증이 의무인 것은 아니지만, 제품을 할랄로 표시하거나 마킹하는 순간 의무가 됩니다. 무역표시(할랄 인증 및 표시)명령 2011(Trade Descriptions (Certification and Marking of Halal) Order 2011)에 따라 JAKIM과 주 이슬람종교위원회만이 인증할 수 있으며, 유효한 인증 없이 할랄 표시나 로고를 사용하는 것은 위법행위입니다."
+  - q: "JAKIM 할랄 인증 비용은 얼마입니까?"
+    a: "처리 수수료는 현지 회사의 경우 환불되지 않는 RM20, 말레이시아에서 제조하는 외국 법인의 경우 RM200입니다. 그 외에 사업 규모에 따라 연간 인증 수수료가 적용되며 — 제품의 경우 약 RM100(영세)에서 RM1,000(대규모)까지입니다."
+  - q: "인증을 받는 데 얼마나 걸립니까?"
+    a: "JAKIM은 완전한 신청서가 접수되면 15~30영업일을 목표로 합니다. 실무상 서류 준비, 현장 심사, 보완을 고려하면 착수부터 증서 취득까지 3~6개월로 예산을 잡아야 합니다."
 
 lang: "ko"
 sourceContentHash: "5688169feeb631ac"
@@ -47,9 +47,9 @@ revisions:
 
 updated: 2026-08-07
 verificationNeeded:
-  - "Confirm all fee figures (RM20/RM200 processing; RM100/400/700/1,000 annual bands) against the current official MYeHALAL fee schedule at myehalal.halal.gov.my — the four load-bearing citations are commercial/consultancy sources, not the primary JAKIM schedule."
-  - "Confirm the renewal window (submit six-to-three months before expiry) against JAKIM's Malaysian Halal Certification Procedure Manual (MPPHM), which is the primary rule behind the cited secondary source."
-  - "The commercial market-access point (that many retailers and institutional buyers prefer or require certified suppliers) is a general industry observation, not a cited statistic — confirm or attribute before treating as fact."
+  - "모든 수수료 수치(처리 RM20/RM200; 연간 RM100/400/700/1,000 구간)를 myehalal.halal.gov.my의 현행 공식 MYeHALAL 수수료 체계와 대조하여 확인 — 근거가 되는 네 개 인용은 1차 JAKIM 체계가 아니라 상업/컨설팅 출처입니다."
+  - "갱신 기간(만료 6개월에서 3개월 전 제출)을 인용된 2차 출처의 근거가 되는 1차 규칙인 JAKIM의 말레이시아 할랄 인증 절차 매뉴얼(MPPHM)과 대조하여 확인하십시오."
+  - "상업적 시장 접근 요점(많은 소매업체와 기관 구매자가 인증 공급업체를 선호하거나 요구한다는 것)은 인용된 통계가 아니라 일반적인 업계 관찰이므로 — 사실로 취급하기 전에 확인하거나 출처를 밝히십시오."
 sources:
   - title: "P.U. (A) 431 — Trade Descriptions (Certification and Marking of Halal) Order 2011"
     url: "https://food.chemlinked.com/database/view/5640"

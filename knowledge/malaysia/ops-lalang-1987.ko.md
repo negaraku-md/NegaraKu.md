@@ -14,21 +14,21 @@ sensitivity: "security"
 
 answer: "랄랑 작전(Operasi Lalang)은 1987년 10월 27일에 시작된 말레이시아 왕립경찰(Royal Malaysian Police)의 작전으로, 정치인, 활동가, 노조 지도자, 교육자, 종교 인사들이 국내보안법(Internal Security Act 1960)에 따라 재판 없이 구금되었습니다. 가장 널리 인용되는 공식 집계는 구금자 106명이며, 일부 서술은 119명으로 기록합니다. 더 스타(The Star), 신주일보(Sin Chew Jit Poh), 와탄(Watan)의 발행 허가가 취소되었습니다. 정부는 고조되던 인종 간 긴장을 완화하기 위해 조치했다고 밝혔고, 비판자들은 통일말레이국민조직(UMNO) 지도부 분열 시기에 반대 의견을 침묵시키는 데 이용되었다고 주장했습니다. 이 사건은 재판 없는 구금에 관한 논쟁에서 여전히 논란이 되는 준거점으로 남아 있으며, 국내보안법은 2012년에 폐지되었습니다."
 keyTakeaways:
-  - "The operation began on 27 October 1987; the most-cited official tally is 106 people detained without trial under the Internal Security Act 1960, with some accounts giving a higher figure of 119."
-  - "The first day's arrests were reported as an initial swoop of about 19 people before the operation expanded over the following weeks."
-  - "Publishing permits for The Star, Sin Chew Jit Poh and Watan were revoked on 29 October 1987; The Star resumed publication in March 1988."
-  - "The government's stated purpose was to prevent racial unrest; critics linked the timing to a leadership contest inside UMNO."
-  - "The ISA allowed detention without trial for renewable periods; the Act was repealed in 2012 and replaced by SOSMA."
-  - "In 2014 Mahathir Mohamad said he accepted responsibility as the decision was a Cabinet one; calls for a fuller apology continued afterward."
-appliesTo: "Readers, students and researchers seeking a neutral historical overview of Ops Lalang and the Internal Security Act."
+  - "이 작전은 1987년 10월 27일에 시작되었으며, 가장 많이 인용되는 공식 집계는 국내보안법(Internal Security Act 1960)에 따라 재판 없이 구금된 106명이나, 일부 서술은 119명이라는 더 높은 수치를 제시합니다."
+  - "첫날의 체포는 이후 몇 주에 걸쳐 작전이 확대되기 전, 약 19명에 대한 초기 일제 검거로 보도되었습니다."
+  - "The Star, Sin Chew Jit Poh, Watan의 발행 허가가 1987년 10월 29일 취소되었으며, The Star는 1988년 3월 발행을 재개하였습니다."
+  - "정부가 밝힌 목적은 인종적 소요를 방지하는 것이었으나, 비판자들은 그 시점을 UMNO 내부의 지도부 경쟁과 결부 지었습니다."
+  - "국내보안법(ISA)은 갱신 가능한 기간 동안 재판 없는 구금을 허용하였으며, 이 법은 2012년 폐지되고 SOSMA로 대체되었습니다."
+  - "2014년 마하티르 모하맛(Mahathir Mohamad)은 그 결정이 내각의 결정이었으므로 책임을 받아들인다고 말하였으나, 이후로도 더 충분한 사과를 요구하는 목소리가 계속되었습니다."
+appliesTo: "랄랑 작전(Ops Lalang)과 국내보안법(Internal Security Act)에 대한 중립적 역사 개관을 찾는 독자, 학생 및 연구자."
 
 faq:
-  - q: "How many people were detained during Ops Lalang?"
-    a: "The most commonly cited official figure is 106 people detained without trial under the ISA; some accounts, including Free Malaysia Today, give a higher figure of 119. Contemporary reports described the first day as an initial swoop of about 19 people before the operation expanded."
-  - q: "Which newspapers were affected?"
-    a: "The publishing permits of The Star, Sin Chew Jit Poh and Watan were revoked on 29 October 1987. The Star resumed publication on 26 March 1988, Sin Chew Jit Poh eventually continued under new ownership, and Watan ceased publication in 1996."
-  - q: "Is the Internal Security Act still in force?"
-    a: "No. The ISA 1960 was repealed in 2012 and replaced by the Security Offences (Special Measures) Act 2012 (SOSMA), which rights groups and the government continue to debate."
+  - q: "랄랑 작전(Ops Lalang) 동안 몇 명이 구금되었습니까?"
+    a: "가장 흔히 인용되는 공식 수치는 국내보안법(ISA)에 따라 재판 없이 구금된 106명이며, Free Malaysia Today를 비롯한 일부 서술은 119명이라는 더 높은 수치를 제시합니다. 당대의 보도는 첫날을 작전이 확대되기 전 약 19명에 대한 초기 일제 검거로 묘사하였습니다."
+  - q: "어떤 신문들이 영향을 받았습니까?"
+    a: "The Star, Sin Chew Jit Poh, Watan의 발행 허가가 1987년 10월 29일 취소되었습니다. The Star는 1988년 3월 26일 발행을 재개하였고, Sin Chew Jit Poh는 결국 새로운 소유주 아래 계속되었으며, Watan은 1996년 발행을 중단하였습니다."
+  - q: "국내보안법은 아직 효력이 있습니까?"
+    a: "아닙니다. 국내보안법(ISA 1960)은 2012년 폐지되고 2012년 보안범죄(특별조치)법(Security Offences (Special Measures) Act 2012, SOSMA)으로 대체되었으며, 이 법을 두고 인권 단체와 정부는 계속 논쟁하고 있습니다."
 
 lang: "ko"
 sourceContentHash: "b64842ee4e12b6c1"
@@ -48,13 +48,13 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether the authoritative total detained is 106 or 119, and the composition behind each figure."
-  - "The operation's formal end date (some accounts give 20 November 1987), which is omitted here."
-  - "Watan's exact closure year (1996) and Sin Chew Jit Poh's change of ownership."
-  - "The precise number and titles of publications affected (some accounts describe 'two dailies and two weeklies')."
-  - "Tunku Abdul Rahman's exact recorded statements about the operation and their original documentary source."
-  - "The precise legal and chronological relationship between the 1988 judicial crisis and Operation Lalang."
-  - "The full list and number of DAP and other elected representatives detained."
+  - "권위 있는 총 구금자 수가 106명인지 119명인지, 그리고 각 수치의 구성 내역."
+  - "작전의 공식 종료 날짜(일부 서술은 1987년 11월 20일을 제시), 이는 여기에서 생략되어 있음."
+  - "Watan의 정확한 폐간 연도(1996년)와 Sin Chew Jit Poh의 소유주 변경."
+  - "영향을 받은 간행물의 정확한 수와 제호(일부 서술은 「일간지 둘과 주간지 둘」로 묘사)."
+  - "이 작전에 관한 툰쿠 압둘 라만(Tunku Abdul Rahman)의 정확히 기록된 발언과 그 원출처 문헌."
+  - "1988년 사법부 위기와 랄랑 작전(Operation Lalang) 사이의 정확한 법적·연대기적 관계."
+  - "구금된 DAP 및 그 밖의 선출직 대표들의 전체 명단과 수."
 
 updated: 2026-08-08
 sources:

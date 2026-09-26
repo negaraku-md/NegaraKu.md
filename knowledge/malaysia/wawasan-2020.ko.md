@@ -14,22 +14,22 @@ sensitivity: "race"
 
 answer: "와와산 2020은 마하티르 모하맛(Mahathir Mohamad) 총리가 1991년 2월 28일 말레이시아 무역위원회(Majlis Perdagangan Malaysia)의 첫 회의에서 '말레이시아: 앞으로 나아가는 길(Malaysia: The Way Forward)'(Malaysia: Melangkah Ke Hadapan)이라는 보고서를 통해 제시하였으며, 말레이시아가 2020년까지 완전한 선진국이 되는 것을 목표로 삼았습니다. 그것은 통합된 '하나의 방사 말레이시아(Bangsa Malaysia)' 건설을 포함한 아홉 가지 전략적 도전을 제시하였습니다. 2020년까지 말레이시아는 여전히 상위 중소득국으로 분류되었고 세계은행(World Bank) 기준에 따른 고소득 지위에 이르지 못하였습니다. 그 후속 구상인 공동번영비전 2030(Wawasan Kemakmuran Bersama 2030)이 2019년에 출범하였습니다."
 keyTakeaways:
-  - "Wawasan 2020 dilancarkan pada 28 Februari 1991 oleh Perdana Menteri Mahathir Mohamad di mesyuarat sulung Majlis Perdagangan Malaysia."
-  - "Gagasan itu menyasarkan pertumbuhan benar sekitar 7% setahun supaya keluaran ekonomi menjadi kira-kira lapan kali ganda lebih besar menjelang 2020 berbanding 1990; pertumbuhan sebenar purata lebih rendah."
-  - "Sembilan cabaran strategik merangkumi perpaduan (Bangsa Malaysia), demokrasi matang, masyarakat penyayang, keadilan ekonomi dan kemakmuran."
-  - "Menjelang 2020 Malaysia kekal negara berpendapatan sederhana atas; Bank Dunia (Mac 2021) menganggarkan KNK per kapita sekitar AS$11,200, kurang kira-kira AS$1,335 daripada ambang berpendapatan tinggi."
-  - "Wawasan Kemakmuran Bersama 2030 diperkenalkan pada Oktober 2019 sebagai penerus gagasan tersebut."
-appliesTo: "Pelajar, penyelidik dasar, wartawan dan sesiapa yang ingin memahami latar belakang dan rekod Wawasan 2020."
+  - "와와산 2020(Wawasan 2020)은 1991년 2월 28일 마하티르 모하맛(Mahathir Mohamad) 총리에 의해 말레이시아 무역평의회(Majlis Perdagangan Malaysia)의 첫 회의에서 발표되었습니다."
+  - "이 구상은 경제 생산이 1990년 대비 2020년까지 약 여덟 배 커지도록 연 7% 안팎의 실질 성장을 목표로 삼았으나, 실제 평균 성장은 그보다 낮았습니다."
+  - "아홉 가지 전략적 도전은 통합(방사 말레이시아, Bangsa Malaysia), 성숙한 민주주의, 배려하는 사회, 경제적 정의와 번영을 아우릅니다."
+  - "2020년까지 말레이시아는 상위 중소득 국가로 남았으며, 세계은행(Bank Dunia, 2021년 3월)은 1인당 GNI를 약 미화 11,200달러로 추정하였는데, 이는 고소득 문턱보다 약 미화 1,335달러 낮은 수준이었습니다."
+  - "공동번영비전 2030(Wawasan Kemakmuran Bersama 2030)이 그 구상의 후속으로 2019년 10월 도입되었습니다."
+appliesTo: "와와산 2020(Wawasan 2020)의 배경과 실적을 이해하고자 하는 학생, 정책 연구자, 기자 및 모든 이."
 
 faq:
-  - q: "Apakah Wawasan 2020?"
-    a: "Wawasan 2020 ialah gagasan pembangunan yang dibentangkan Perdana Menteri Mahathir Mohamad pada 1991, mensasarkan Malaysia mencapai taraf negara maju sepenuhnya menjelang tahun 2020 menerusi sembilan cabaran strategik."
-  - q: "Apakah sembilan cabaran Wawasan 2020?"
-    a: "Sembilan cabaran itu ialah perpaduan (satu Bangsa Malaysia); masyarakat yang bebas jiwanya dan yakin; demokrasi yang matang; masyarakat bermoral dan beretika; masyarakat liberal dan bertolak ansur; masyarakat saintifik dan progresif; masyarakat penyayang; keadilan ekonomi; serta masyarakat makmur dengan ekonomi yang berdaya saing."
-  - q: "Adakah Malaysia mencapai taraf negara maju menjelang 2020?"
-    a: "Menjelang 2020 Malaysia masih dikelaskan sebagai negara berpendapatan sederhana atas oleh Bank Dunia dan belum mencapai ambang berpendapatan tinggi. Pandangan tentang sejauh mana Wawasan 2020 berjaya berbeza-beza antara pembuat dasar dan pengkritik."
-  - q: "Apa yang menggantikan Wawasan 2020?"
-    a: "Wawasan Kemakmuran Bersama 2030 (WKB 2030) dilancarkan pada Oktober 2019 sebagai gagasan penerus yang memberi tumpuan kepada kemakmuran yang saksama untuk tempoh 2021 hingga 2030."
+  - q: "와와산 2020(Wawasan 2020)이란 무엇입니까?"
+    a: "와와산 2020(Wawasan 2020)은 1991년 마하티르 모하맛(Mahathir Mohamad) 총리가 제시한 발전 구상으로, 아홉 가지 전략적 도전을 통해 말레이시아가 2020년까지 완전한 선진국 지위에 이르는 것을 목표로 삼았습니다."
+  - q: "와와산 2020(Wawasan 2020)의 아홉 가지 도전은 무엇입니까?"
+    a: "아홉 가지 도전은 통합(하나의 방사 말레이시아, Bangsa Malaysia); 정신적으로 자유롭고 자신감 있는 사회; 성숙한 민주주의; 도덕적이고 윤리적인 사회; 자유롭고 관용적인 사회; 과학적이고 진보적인 사회; 배려하는 사회; 경제적 정의; 그리고 경쟁력 있는 경제를 갖춘 번영하는 사회입니다."
+  - q: "말레이시아는 2020년까지 선진국 지위에 이르렀습니까?"
+    a: "2020년까지 말레이시아는 세계은행에 의해 여전히 상위 중소득 국가로 분류되었고 고소득 문턱에는 이르지 못하였습니다. 와와산 2020(Wawasan 2020)이 어느 정도 성공하였는지에 대한 견해는 정책 입안자와 비판자 사이에 서로 다릅니다."
+  - q: "무엇이 와와산 2020(Wawasan 2020)을 대체하였습니까?"
+    a: "공동번영비전 2030(Wawasan Kemakmuran Bersama 2030, WKB 2030)이 2021년부터 2030년까지의 기간에 공평한 번영에 초점을 맞춘 후속 구상으로 2019년 10월 발표되었습니다."
 
 lang: "ko"
 sourceContentHash: "d7d57585a7686755"
@@ -43,9 +43,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Rendering rasmi tajuk kertas kerja dalam bahasa Melayu ('Malaysia: Melangkah Ke Hadapan'): teks asal yang dirujuk berbahasa Inggeris ('Malaysia: The Way Forward'). Sahkan tajuk Melayu rasmi daripada arkib kerajaan."
-  - "Angka purata pertumbuhan tahunan 5.8% (1990-2018) berasal daripada laporan media (The Rakyat Post) yang memetik data Bank Dunia, bukan siaran rasmi Bank Dunia secara langsung; sahkan terhadap data pertumbuhan KDNK rasmi."
-  - "Tarikh dan tempat pelancaran (28 Februari 1991, mesyuarat sulung Majlis Perdagangan Malaysia) disahkan menerusi teks ucapan dan kertas akademik; sahkan sekali lagi terhadap arkib rasmi Jabatan Perdana Menteri jika tersedia."
+  - "실무 문서 제목의 공식 말레이어 표기(「Malaysia: Melangkah Ke Hadapan」): 참조된 원문은 영어(「Malaysia: The Way Forward」)임. 공식 말레이어 제목을 정부 기록 보관 자료로 확인할 것."
+  - "연평균 성장률 5.8%(1990-2018) 수치는 세계은행 자료를 인용한 언론 보도(The Rakyat Post)에서 나온 것이며 세계은행의 직접적 공식 발표가 아님; 공식 GDP 성장 자료와 대조하여 확인할 것."
+  - "발표 날짜와 장소(1991년 2월 28일, 말레이시아 무역평의회(Majlis Perdagangan Malaysia)의 첫 회의)는 연설문과 학술 논문을 통해 확인되었음; 가능하다면 총리실 공식 기록 보관 자료와 다시 한 번 대조하여 확인할 것."
 revisions:
   - revision: 0
     date: 2026-08-08

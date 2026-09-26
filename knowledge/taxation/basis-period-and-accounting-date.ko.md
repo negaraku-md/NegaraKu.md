@@ -14,25 +14,25 @@ sensitivity: "none"
 
 answer: "회사의 기준기간은 소득세법 1967(Income Tax Act 1967) 제21A조에 의해 정해집니다. 첫 회계가 영업이 시작된 같은 역년에 종료되면 그 기간이 첫 기준기간입니다. 첫 회계가 그다음 해에 종료되면 첫 과세연도에는 기준기간이 전혀 없습니다. 이후 회계 결산일이 이동하면, 변경이 있는 해가 실패 연도(failure year)가 되며 국세청장이 그 해와 그다음 해의 기준기간을 지정합니다."
 keyTakeaways:
-  - "The first accounting period is the first basis period only if it closes in the same calendar year"
-  - "First accounts closing in year two mean there is no basis period, and no Form C, for year one"
-  - "First accounts running past 12 months into a third year push the first assessment to that third year"
-  - "A change of accounting date creates a failure year under s.21A(3), directed by the Director General"
-  - "Form CP204B must be lodged 30 days before the new accounts end, or 30 days before the old corresponding day"
-  - "Accounts spanning more than one year of assessment are split, with any fraction of a month falling in the first period"
-appliesTo: "Newly incorporated Sdn Bhd, LLPs, trust bodies and co-operative societies, and any company changing its financial year end."
+  - "첫 회계기간은 같은 역년에 종료되는 경우에만 첫 기준기간이 됩니다"
+  - "첫 회계가 2년차에 종료되면 1년차에는 기준기간이 없고 양식 C(Form C)도 없습니다"
+  - "첫 회계가 12개월을 넘겨 3년차까지 이어지면 첫 과세는 그 3년차로 미뤄집니다"
+  - "회계 결산일 변경은 제21A(3)조에 따라 국세청장이 지정하는 실패 연도(failure year)를 발생시킵니다"
+  - "양식 CP204B(Form CP204B)는 새 회계 종료 30일 전 또는 종전 대응일 30일 전에 제출해야 합니다"
+  - "둘 이상의 과세연도에 걸친 회계는 분할되며, 한 달 미만의 일부는 첫 기간에 귀속됩니다"
+appliesTo: "신규 설립된 유한책임회사(Sdn Bhd), 유한책임조합(LLP), 신탁단체 및 협동조합, 그리고 회계연도 종료일을 변경하는 모든 회사."
 
 verificationNeeded:
-  - "Confirm the current CP204B submission address and whether e-filing of CP204B is available; the LHDN page states deadlines are printed on the reverse of the form"
+  - "현행 CP204B 제출처와 CP204B 전자신고 가능 여부를 확인하십시오. 말레이시아 국세청(LHDN) 페이지는 기한이 양식 뒷면에 인쇄되어 있다고 명시합니다"
 
 obligations:
-  - what: "Notify a change of accounting date on Form CP204B"
+  - what: "양식 CP204B(Form CP204B)로 회계 결산일 변경 통지"
     trigger: "change"
     withinDays: 30
-    due: "30 days before the end of the new accounts where they close before the corresponding day, or 30 days before the corresponding day where they close after it"
+    due: "새 회계가 대응일 전에 종료되는 경우 새 회계 종료 30일 전, 대응일 후에 종료되는 경우 대응일 30일 전"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.21A(3A)"
-    consequence: "Penalties and instalment increases based on the old accounting period remain recoverable under s.112(3A) and s.107C(11B)"
+    consequence: "종전 회계기간을 기준으로 한 벌금과 분납 증액은 제112(3A)조 및 제107C(11B)조에 따라 여전히 추징될 수 있습니다"
 
 lang: "ko"
 sourceContentHash: "23049b8c7ea8c98a"

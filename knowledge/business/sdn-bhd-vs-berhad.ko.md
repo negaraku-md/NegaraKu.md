@@ -14,14 +14,14 @@ sensitivity: "none"
 
 answer: "Sdn Bhd는 사기업(private company)입니다: 회사법 2016 제42조에 따라 주주는 50인을 초과할 수 없고 주식의 이전을 제한해야 하며, 제43조는 주식이나 사채를 공중에 청약하는 것을 금지합니다. Berhad는 주주 상한이 없고 공개적으로 자금을 조달할 수 있는 공개회사입니다. Berhad는 상장을 의미하지 않습니다. 대부분의 전환은 50인에 도달해서가 아니라 자금 조달에 의해 이루어집니다."
 keyTakeaways:
-  - "s.42(1): a private company is limited to fifty shareholders"
-  - "s.42(2): a private company must restrict the transfer of its shares"
-  - "s.42(3): joint holders count as one, and employee-shareholders are not counted at all"
-  - "s.43: a private company may not offer shares or debentures to the public"
-  - "Berhad is not the same as listed — listing is a Bursa Malaysia and Securities Commission matter"
-  - "s.42(4)–(5): breach the conditions and the Registrar can deem you public, with 14 days to lodge a statement in lieu of prospectus"
-  - "s.42(6): once deemed public that way, you cannot convert back without leave of the Court"
-appliesTo: "Founders approaching fifty shareholders, companies planning an IPO or a public fundraise, and anyone unsure why their company name ends in Bhd."
+  - "s.42(1): 비공개회사는 주주 50명으로 제한됩니다"
+  - "s.42(2): 비공개회사는 주식 양도를 제한해야 합니다"
+  - "s.42(3): 공동 보유자는 1인으로 계산되고, 직원 주주는 전혀 계산되지 않습니다"
+  - "s.43: 비공개회사는 대중에게 주식이나 사채를 제공할 수 없습니다"
+  - "Berhad는 상장과 같지 않습니다 — 상장은 부르사 말레이시아(Bursa Malaysia)와 증권위원회(SC) 사안입니다"
+  - "s.42(4)–(5): 조건을 위반하면 등록관이 귀사를 공개회사로 간주할 수 있으며, 투자설명서 대체 진술서를 제출할 14일이 주어집니다"
+  - "s.42(6): 그렇게 공개회사로 간주되면 법원의 허가 없이는 되돌릴 수 없습니다"
+appliesTo: "주주 50명에 근접한 창업자, 기업공개(IPO)나 공모를 계획하는 회사, 그리고 자사 상호가 왜 Bhd로 끝나는지 궁금한 모든 분."
 
 verificationNeeded: []
 lang: "ko"

@@ -36,14 +36,14 @@ faq:
     a: "동등한 역량으로는 아니고, 모두가 검증 가능한 웹 존재를 가진 것도 아닙니다. 페낭, 슬랑오르, 조호르, 믈라카, 페락, 사바, 사라왁은 공식 도메인이 연결되고 신청 채널을 게시하는 기관을 운영합니다. 여러 다른 주에서는 투자 기능이 별도로 브랜드화된 기관이 아니라 주 경제기획단이나 주 개발공사 안에 있습니다. 컨설턴트 페이지에서 읽은 이름이 실제 기관에 대응한다고 가정하지 마십시오."
 
 verificationNeeded:
-  - "Confirm the current official investment promotion channel for Kedah, Pahang, Negeri Sembilan, Terengganu, Kelantan and Perlis — no separately branded agency domain could be verified for these states, and investkedah.com.my redirects to an unrelated commercial site"
-  - "Confirm whether IRDA, ECERDC, NCIA, SEDIA or RECODA hold delegated expatriate-pass approving authority, and on what instrument"
-  - "Confirm the No Objection Letter processing time and any fee for each state — none of the state agencies publishes a service standard or a fee on its NOL page"
-  - "Confirm what replaced the NCER NTAX package for applications made from 1 January 2025, and whether any transitional relief applies to applications lodged before that date"
-  - "Confirm the current statutory instrument governing RECODA — VERIFIED-SOURCES records that Sarawak runs two parallel chapter-numbering series and that the RECODA ordinance is current-series Cap. 64"
-  - "The SEDIA enactment PDF hosted on sedia.com.my is watermarked FOR REFERENCE ONLY August 2010 — check the gazetted text for any amendment since"
-  - "Reconcile MIDA's two published 2025 investment totals — RM426,736.8 million in the Investment Performance Report of March 2026 and RM431,080.6 million in the revised by-state table of June 2026"
-  - "Confirm whether any subsidiary legislation has since been gazetted setting the JS-SEZ, National Global Services Hub or New Investment Incentive Framework rates under s.65B of the Income Tax Act 1967"
+  - "케다(Kedah), 파항(Pahang), 느그리슴빌란(Negeri Sembilan), 트렝가누(Terengganu), 켈란탄(Kelantan), 펄리스(Perlis)의 현행 공식 투자 유치 채널을 확인 필요 — 이 주들에 대해 별도 브랜드의 기관 도메인을 확인할 수 없었고, investkedah.com.my는 무관한 상업 사이트로 리디렉션됨"
+  - "IRDA, ECERDC, NCIA, SEDIA 또는 RECODA가 위임된 외국인 비자 승인 권한을 보유하는지, 그리고 어떤 문서에 근거하는지 확인 필요"
+  - "각 주의 이의 없음 확인서(No Objection Letter) 처리 기간과 수수료 확인 필요 — 어느 주 기관도 NOL 페이지에 서비스 표준이나 수수료를 공표하지 않음"
+  - "2025년 1월 1일부터 이루어지는 신청에 대해 NCER NTAX 패키지를 무엇이 대체했는지, 그리고 그 날짜 이전에 제출된 신청에 어떤 경과 조치가 적용되는지 확인 필요"
+  - "RECODA를 규율하는 현행 법령 문서 확인 필요 — VERIFIED-SOURCES는 사라왁(Sarawak)이 두 개의 병행 장 번호 체계를 운영하며 RECODA 조례가 현행 체계 Cap. 64임을 기록함"
+  - "sedia.com.my에 게재된 SEDIA 제정법 PDF는 참고용(FOR REFERENCE ONLY) 2010년 8월로 워터마크가 표시되어 있음 — 이후의 개정에 대해 관보 본문을 확인하십시오"
+  - "MIDA가 공표한 두 개의 2025년 투자 총계를 조정 필요 — 2026년 3월 투자실적보고서의 RM426,736.8백만과 2026년 6월 개정 주별 표의 RM431,080.6백만"
+  - "JS-SEZ, National Global Services Hub 또는 신투자인센티브체계(New Investment Incentive Framework) 세율을 소득세법(Income Tax Act 1967) s.65B에 따라 정하는 하위법령이 이후 관보에 게재되었는지 확인 필요"
 
 lang: "ko"
 sourceContentHash: "667fe9c1898504ba"

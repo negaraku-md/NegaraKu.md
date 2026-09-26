@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "말레이시아의 카지노 세금은 총 게임 소득(gross gaming income)의 35%로, 2019년 1월 1일부터 25%에서 인상되었습니다 — 20여 년 만의 첫 인상입니다. 게임기 세금은 총 징수액의 30%(20%에서 인상)입니다. Sports Toto, Magnum, Da Ma Cai 같은 숫자 예측 운영자(NFO)의 경우, 각 베팅에 게임세 8%와 풀 베팅 세금 8%가 통상적인 법인세 및 SST와 함께 부과됩니다."
 keyTakeaways:
-  - "Duti kasino ialah 35% daripada pendapatan permainan kasar, dinaikkan daripada 25% berkuat kuasa 1 Januari 2019."
-  - "Duti mesin permainan ialah 30% daripada kutipan kasar, dinaikkan daripada 20%."
-  - "Yuran lesen kasino tahunan dinaikkan kepada RM150 juta (daripada RM120 juta) dan yuran lesen pengedar mesin kepada RM50,000 setahun (daripada RM10,000)."
-  - "Pengendali nombor ramalan (NFO) dikenakan cukai permainan 8% ke atas jualan kasar dan duti pertaruhan pool 8%."
-appliesTo: "Pengendali kasino dan mesin permainan, pengendali nombor ramalan (NFO), penganalisis industri, pelajar cukai, dan sesiapa yang ingin memahami cara perjudian dicukai di Malaysia."
+  - "카지노 세금은 총 게임 소득의 35%로, 2019년 1월 1일부터 25%에서 인상되었습니다."
+  - "게임기 세금은 총 징수액의 30%로, 20%에서 인상되었습니다."
+  - "연간 카지노 면허 수수료는 RM1억5천만(RM1억2천만에서)으로, 기계 유통업자 면허 수수료는 연 RM50,000(RM10,000에서)으로 인상되었습니다."
+  - "숫자 예측 운영자(NFO)는 총 매출에 대해 게임세 8%와 풀 베팅 세금 8%가 부과됩니다."
+appliesTo: "카지노 및 게임기 운영자, 숫자 예측 운영자(NFO), 산업 분석가, 조세 학습자, 그리고 말레이시아에서 도박이 어떻게 과세되는지 이해하려는 모든 사람."
 
 faq:
-  - q: "Berapakah kadar duti kasino di Malaysia?"
-    a: "35% daripada pendapatan permainan kasar (gross gaming income), dinaikkan daripada 25% mulai 1 Januari 2019."
-  - q: "Berapakah duti mesin permainan?"
-    a: "30% daripada kutipan kasar, dinaikkan daripada 20% pada tahun yang sama."
-  - q: "Berapa banyak cukai dikenakan pada satu tiket nombor ramalan?"
-    a: "Bagi pertaruhan Sports Toto RM2, 8% (16 sen) dipotong sebagai cukai permainan dan 8% lagi (14.72 sen) sebagai duti pertaruhan pool; kira-kira 55% (RM1.10) diperuntukkan sebagai hadiah."
+  - q: "말레이시아의 카지노 세율은 얼마입니까?"
+    a: "총 게임 소득(gross gaming income)의 35%로, 2019년 1월 1일부터 25%에서 인상되었습니다."
+  - q: "게임기 세금은 얼마입니까?"
+    a: "총 징수액의 30%로, 같은 해에 20%에서 인상되었습니다."
+  - q: "숫자 예측 복권 한 장에는 세금이 얼마나 부과됩니까?"
+    a: "RM2짜리 Sports Toto 베팅의 경우, 8%(16센)가 게임세로, 추가로 8%(14.72센)가 풀 베팅 세금으로 공제되며, 약 55%(RM1.10)가 상금으로 배정됩니다."
 
 lang: "ko"
 sourceContentHash: "156aadc5edee33a0"
@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Yuran lesen kasino tahunan RM150 juta (daripada RM120 juta) dan yuran lesen pengedar mesin RM50,000 (daripada RM10,000) — sahkan terhadap warta / Akta Kewangan Bajet 2019."
-  - "Sahkan tiada kenaikan kadar duti kasino, mesin permainan, atau pertaruhan pool dalam mana-mana bajet selepas 2019."
-  - "Sumbangan 10% keuntungan sebelum cukai kepada Majlis Sukan Negara — sahkan asas statutori semasa."
-  - "Pecahan tiket Sports Toto RM2 (16 sen, 14.72 sen, RM1.10, 4.39 sen SST) ialah satu contoh; nilai sebenar boleh berbeza mengikut permainan dan cabutan."
+  - "연간 카지노 면허 수수료 RM1억5천만(RM1억2천만에서)과 기계 유통업자 면허 수수료 RM50,000(RM10,000에서) — 관보 / 2019년 예산안 금융법에 대조하여 확인하십시오."
+  - "2019년 이후 어떤 예산안에서도 카지노, 게임기 또는 풀 베팅 세율의 인상이 없었는지 확인하십시오."
+  - "세전 이익의 10%를 국가체육위원회(Majlis Sukan Negara)에 기부하는 것 — 현행 법정 근거를 확인하십시오."
+  - "RM2짜리 Sports Toto 복권의 세부 내역(16센, 14.72센, RM1.10, SST 4.39센)은 하나의 예시입니다. 실제 값은 게임과 추첨에 따라 다를 수 있습니다."
 
 updated: 2026-08-07
 sources:

@@ -14,22 +14,22 @@ sensitivity: "none"
 
 answer: "세무감사는 준수 여부를 확인하고, 세무조사는 사기와 고의적 탈세를 적발합니다. 조사는 세무조사 프레임워크(Tax Investigation Framework, 2023년 1월 1일 발효), 소득세법(Income Tax Act 1967)에 따라 진행되며 AMLATFPUAA(자금세탁·테러자금조달방지 및 불법활동수익법)와 연관될 수 있습니다. 제114조에 따라 유죄가 확정되면 납세자는 RM1,000~RM20,000의 벌금, 최대 3년의 징역, 그리고 과소 부과된 세액의 3배에 해당하는 특별 벌칙 — 자산 압류 위험에 더하여 — 을 부과받을 수 있습니다."
 keyTakeaways:
-  - "Audit ialah proses sivil/pentadbiran; siasatan boleh membawa kepada pendakwaan jenayah."
-  - "Rangka Kerja Siasatan Cukai semasa berkuat kuasa 1 Januari 2023 dan menggantikan versi 2020."
-  - "Seksyen 114 (pengelakan sengaja): denda RM1,000–RM20,000, penjara sehingga 3 tahun, dan penalti khas tiga kali ganda cukai terkurang caj."
-  - "Tiada had masa untuk siasatan yang melibatkan penipuan, pengelakan sengaja atau kecuaian."
-  - "Pendakwaan adalah budi bicara Pendakwa Raya; tiada program penyelesaian formal yang menjamin pengelakan daripada dakwaan."
-appliesTo: "Pembayar cukai individu dan syarikat, ejen cukai, dan pemilik perniagaan di Malaysia yang menghadapi atau ingin memahami tindakan penguatkuasaan LHDN."
+  - "세무감사(audit)는 민사/행정 절차이며, 세무조사(siasatan)는 형사 기소로 이어질 수 있습니다."
+  - "현행 세무조사 체계(Rangka Kerja Siasatan Cukai)는 2023년 1월 1일 발효되어 2020년 판본을 대체했습니다."
+  - "제114조(고의적 탈세): RM1,000~RM20,000의 벌금, 3년 이하의 징역, 그리고 과소 부과된 세액의 3배에 해당하는 특별 벌금."
+  - "사기, 고의적 탈세 또는 과실이 관련된 조사에는 기간 제한이 없습니다."
+  - "기소는 검찰총장(Pendakwa Raya)의 재량 사항이며, 기소를 피하도록 보장하는 공식적인 해결 프로그램은 없습니다."
+appliesTo: "말레이시아 국세청(LHDN)의 집행 조치에 직면했거나 이를 이해하고자 하는 말레이시아의 개인 및 법인 납세자, 세무대리인, 그리고 사업주."
 
 faq:
-  - q: "Adakah audit cukai sama dengan siasatan cukai?"
-    a: "Tidak. Audit mengesahkan sama ada pendapatan dilaporkan dengan betul dan cukai dibayar dengan tepat — ia bersifat pentadbiran. Siasatan pula dijalankan apabila LHDN mengesyaki penipuan atau pengelakan sengaja, dan boleh membawa kepada pendakwaan jenayah."
-  - q: "Berapakah penalti di bawah Seksyen 114?"
-    a: "Bagi pengelakan sengaja di bawah Seksyen 114(1), denda ialah antara RM1,000 dan RM20,000, atau penjara sehingga tiga tahun, atau kedua-duanya, serta penalti khas tiga kali ganda (treble) jumlah cukai yang terkurang caj."
-  - q: "Bolehkah LHDN masuk ke premis tanpa waran?"
-    a: "Dalam siasatan, pegawai LHDN mempunyai kuasa akses ke premis dan dokumen di bawah Akta Cukai Pendapatan 1967, dan aset yang dikaitkan dengan pengelakan cukai boleh dibeku, dirampas atau dilucuthak di bawah AMLATFPUAA."
-  - q: "Adakah had masa untuk LHDN menyiasat?"
-    a: "Bagi kes yang melibatkan penipuan, pengelakan sengaja atau kecuaian, tiada had masa. Bagi prosiding jenayah bagi kesalahan tertentu seperti Seksyen 113, tempoh 12 tahun terpakai."
+  - q: "세무감사(audit)는 세무조사(siasatan)와 같습니까?"
+    a: "아닙니다. 세무감사는 소득이 올바르게 신고되고 세금이 정확하게 납부되었는지를 확인하는 것으로 — 행정적 성격을 가집니다. 반면 세무조사는 말레이시아 국세청(LHDN)이 사기나 고의적 탈세를 의심할 때 수행되며, 형사 기소로 이어질 수 있습니다."
+  - q: "제114조에 따른 벌칙은 얼마입니까?"
+    a: "제114(1)조에 따른 고의적 탈세의 경우, 벌금은 RM1,000에서 RM20,000 사이이거나 3년 이하의 징역, 또는 둘 다이며, 이에 더해 과소 부과된 세액의 3배(treble)에 해당하는 특별 벌금이 부과됩니다."
+  - q: "말레이시아 국세청(LHDN)은 영장 없이 사업장에 들어갈 수 있습니까?"
+    a: "세무조사에서 말레이시아 국세청(LHDN) 관리는 소득세법(Akta Cukai Pendapatan 1967, Income Tax Act 1967)에 따라 사업장과 문서에 접근할 권한을 가지며, 탈세와 관련된 자산은 AMLATFPUAA(자금세탁방지·테러자금조달방지 및 불법활동수익법)에 따라 동결·압류 또는 몰수될 수 있습니다."
+  - q: "말레이시아 국세청(LHDN)의 조사에 기간 제한이 있습니까?"
+    a: "사기, 고의적 탈세 또는 과실이 관련된 사건에는 기간 제한이 없습니다. 제113조 같은 특정 위반에 대한 형사 절차에는 12년의 기간이 적용됩니다."
 
 lang: "ko"
 sourceContentHash: "fa0bdbadd54080b2"
@@ -43,8 +43,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Sahkan bahawa kadar konsesi berperingkat Rangka Kerja Audit Cukai (15% / 30% / 45%) masih terpakai di bawah rangka kerja LHDN terkini."
-  - "Sahkan layanan penalti berkanun 100% di bawah Seksyen 113(2) bagi penyata tidak betul yang disengajakan terhadap rangka kerja pentadbiran semasa."
+  - "세무조사 체계(Rangka Kerja Audit Cukai)의 단계별 감경 세율(15% / 30% / 45%)이 최신 말레이시아 국세청(LHDN) 체계에서도 여전히 적용되는지 확인할 것."
+  - "고의적인 부정확한 신고에 대한 제113(2)조의 법정 100% 벌칙 처리가 현행 행정 체계에 부합하는지 확인할 것."
 revisions:
   - revision: 0
     date: 2026-08-07

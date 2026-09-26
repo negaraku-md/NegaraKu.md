@@ -14,15 +14,15 @@ sensitivity: "none"
 
 answer: "제45(2)조는 한 배우자가 자신의 총소득을 합산하여 다른 배우자 명의로 부과받도록 선택할 수 있게 합니다. 합산 과세는 RM4,000의 배우자 공제를 얻지만 두 번째 RM9,000 개인 공제를 포기하고 모든 소득을 하나의 누진세율로 밀어 올립니다. 이는 선택하는 배우자의 총소득이 매우 적은 경우에만 유리하며, 그렇지 않으면 개별 과세가 이깁니다."
 keyTakeaways:
-  - "Separate assessment is the default — joint assessment requires a written election in the return"
-  - "The election puts both incomes on one scale, so the second income starts at the first taxpayer's marginal rate"
-  - "Joint assessment buys RM4,000 under s.47(1)(a) or s.45A, plus one RM400 rebate instead of two"
-  - "Separate assessment gives each spouse the RM9,000 relief and their own 0% and 1% bands"
-  - "A spouse with no total income gets the RM4,000 deduction without any election, under s.47(5)"
-  - "Only one spouse may elect, and only in the return under s.77(1)"
+  - "개별 과세가 기본입니다 — 합산 과세는 신고서에 서면 선택을 요구합니다"
+  - "이 선택은 두 소득을 하나의 세율표에 올리므로, 두 번째 소득은 첫 번째 납세자의 한계세율에서 시작됩니다"
+  - "합산 과세는 제47(1)(a)조 또는 제45A조에 따라 RM4,000을, 그리고 두 개가 아닌 하나의 RM400 세액감면을 얻습니다"
+  - "개별 과세는 각 배우자에게 RM9,000 공제와 각자의 0% 및 1% 구간을 부여합니다"
+  - "총소득이 없는 배우자는 제47(5)조에 따라 어떤 선택 없이도 RM4,000 공제를 받습니다"
+  - "한 배우자만 선택할 수 있으며, 제77(1)조에 따라 신고서에서만 할 수 있습니다"
 
 verificationNeeded:
-  - "The illustrative break-even figures in this article are arithmetic on the published band table, not an LHDN-published threshold; they move with the reliefs each couple actually claims"
+  - "이 기사의 예시 손익분기점 수치는 말레이시아 국세청(LHDN)이 공표한 기준이 아니라 공표된 구간표에 대한 산술 계산이며, 각 부부가 실제로 청구하는 공제에 따라 달라집니다"
 
 lang: "ko"
 sourceContentHash: "9439aef0bb0b111f"

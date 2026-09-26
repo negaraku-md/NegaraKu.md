@@ -12,23 +12,23 @@ contentType: "guide"
 
 answer: "마하티르 모하맛(Mahathir Mohamad, 1925년 7월 10일 출생)은 말레이시아 역사상 가장 오래 재임한 총리로, 제4대 총리로 22년간(1981~2003) 재임했고 제7대(2018~2020)로 돌아왔습니다. 그의 첫 재임기는 급속한 산업화와 대형 프로젝트를 추진했으며 와와산 2020(Vision 2020)이라는 목표와 연관됩니다. 이 시기에는 1987년 랄랑 작전(Operation Lalang) 구금과 1988년 사법부 위기도 포함되며, 1997~98년 아시아 금융위기와 그의 부총리 안와르 이브라힘(Anwar Ibrahim) 해임 이후 막을 내렸습니다. 2018년, 92세의 나이로 그는 야권을 이끌어 말레이시아 최초의 연방정부 교체를 이루었고 2020년에 사임했습니다. 그는 2025년 7월에 100세가 되었습니다."
 keyTakeaways:
-  - "Malaysia's longest-serving Prime Minister — about 24 years across two terms (1981–2003 and 2018–2020)."
-  - "Widely associated with rapid modernisation and mega-projects (the Petronas Twin Towers, KLIA, the Multimedia Super Corridor, the Proton national car)."
-  - "Introduced Vision 2020 (Wawasan 2020) in 1991 as the goal of a developed Malaysia by 2020."
-  - "His first tenure included the 1987 Operation Lalang detentions, the 1988 judiciary crisis, and the 1998 sacking of deputy Anwar Ibrahim."
-  - "Returned in 2018 to lead the first federal change of government since independence; resigned in the February 2020 political crisis."
+  - "말레이시아 최장수 총리로 — 두 임기(1981~2003년, 2018~2020년)에 걸쳐 약 24년간 재임하였습니다."
+  - "급속한 근대화와 대형 프로젝트(페트로나스 트윈 타워(Petronas Twin Towers), 쿠알라룸푸르 국제공항(KLIA), 멀티미디어 슈퍼 회랑(Multimedia Super Corridor), 국민차 프로톤(Proton))와 널리 결부됩니다."
+  - "1991년 2020년까지 선진 말레이시아를 이룬다는 목표로 비전 2020(Wawasan 2020)을 도입하였습니다."
+  - "그의 첫 임기에는 1987년 랄랑 작전(Operation Lalang) 구금, 1988년 사법부 위기, 1998년 부총리 안와르 이브라힘(Anwar Ibrahim) 해임이 포함됩니다."
+  - "2018년 복귀하여 독립 이후 최초의 연방정부 교체를 이끌었으며, 2020년 2월 정치적 위기 속에 사임하였습니다."
 
 faq:
-  - q: "How long was Mahathir Mohamad Prime Minister?"
-    a: "About 24 years in total — 22 years in his first term (16 July 1981 – 31 October 2003) and just under two years in his second (10 May 2018 – 1 March 2020), the longest of any Malaysian Prime Minister."
-  - q: "What is Vision 2020?"
-    a: "Wawasan 2020, announced by Mahathir in 1991, set the goal of Malaysia becoming a fully developed nation by the year 2020, across economic, social, political and other dimensions."
-  - q: "How old is Mahathir Mohamad?"
-    a: "He was born on 10 July 1925 and turned 100 in July 2025."
+  - q: "마하티르 모하맛은 얼마나 오래 총리로 재임하였습니까?"
+    a: "통틀어 약 24년입니다 — 첫 임기 22년(1981년 7월 16일~2003년 10월 31일)과 두 번째 임기 2년에 조금 못 미치는 기간(2018년 5월 10일~2020년 3월 1일)으로, 말레이시아 어느 총리보다도 긴 재임입니다."
+  - q: "비전 2020(Vision 2020)이란 무엇입니까?"
+    a: "1991년 마하티르가 발표한 와와산 2020(Wawasan 2020)은 경제·사회·정치를 비롯한 여러 차원에서 말레이시아가 2020년까지 완전한 선진국이 된다는 목표를 세웠습니다."
+  - q: "마하티르 모하맛의 나이는 몇 살입니까?"
+    a: "그는 1925년 7월 10일에 태어났으며 2025년 7월에 100세가 되었습니다."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal review before publication. This biography touches multiple 3R+1 areas — the 1988 judiciary crisis and the 1983/1993 curbing of the Rulers' powers (royalty), the New Economic Policy and Malay/Bumiputera policy (race), and the 1987 Operation Lalang ISA detentions (security). All characterisations are summarised neutrally and must be re-checked against primary sources and reviewed by a qualified reviewer."
-  - "Exact dates (premiership, resignation) to be confirmed against the Prime Minister's Office and the Perdana Leadership Foundation."
+  - "민감 / 발행 전 사람과 법률 검토가 필요함. 이 전기는 여러 3R+1 영역을 다룹니다 — 1988년 사법부 위기와 1983년·1993년 통치자들의 권한 제한(왕실), 신경제정책과 말레이/부미푸트라 정책(인종), 그리고 1987년 랄랑 작전(Operation Lalang) 국내보안법(ISA) 구금(안보). 모든 성격 규정은 중립적으로 요약되었으며 1차 자료와 다시 대조하고 자격을 갖춘 검토자의 검토를 거쳐야 합니다."
+  - "정확한 날짜(총리 재임, 사임)는 총리실 및 페르다나 리더십 재단(Perdana Leadership Foundation)과 대조하여 확인하여야 합니다."
 
 lang: "ko"
 sourceContentHash: "2b8cc04016656090"

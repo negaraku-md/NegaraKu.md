@@ -36,10 +36,10 @@ faq:
     a: "가능할 수 있으나 일방적으로는 아닙니다. 인지세법 제15조는 회사의 재편 또는 합병에 관한 증서에 감면을 부여하고, 제15A조는 관계회사 간 재산 이전에 감면을 부여합니다. LHDN은 둘 다 신청으로 취급하여, 조건을 붙여 가장 가까운 주정부 국장 사무소에 제출해 심사받도록 합니다. 감면이 승인될 때까지 아무것도 가정하지 말고, 매각 직전에 이루어진 재편은 조사를 부른다는 점에 유의하십시오."
 
 verificationNeeded:
-  - "The detailed qualifying conditions and clawback periods for stamp duty relief under s.15 and s.15A of the Stamp Act 1949 were not read from a consolidated statutory text — there is no consolidated reprint incorporating the recent Finance Act amendments — and must be confirmed with the LHDN State Director's Office"
-  - "Whether the Industrial Co-ordination Act 1975 provides for transfer of a manufacturing licence, and MIDA's current post-licensing procedure for a change of shareholding in a licensed manufacturer, should be confirmed with MIDA before signing"
-  - "The change-of-ownership provisions in the Employment (Termination and Lay-Off Benefits) Regulations 1980 govern whether termination benefits fall due on an asset sale; the exact regulation and its conditions were not verified against the gazetted text"
-  - "Whether KPDN requires a fresh WRT application or permits variation on a change of the licensee's shareholding was not confirmed against a KPDN guideline"
+  - "인지세법(Stamp Act 1949) s.15 및 s.15A에 따른 인지세 감면의 세부 자격 조건과 환수 기간은 통합 법령 본문에서 읽지 못했으며 — 최근 재정법 개정을 반영한 통합 재간행본이 없습니다 — 말레이시아 국세청(LHDN) 주 국장실에 확인해야 함"
+  - "산업조정법(Industrial Co-ordination Act 1975)이 제조 허가의 이전을 규정하는지, 그리고 허가받은 제조업체의 지분 변경에 대한 말레이시아투자진흥청(MIDA)의 현행 사후 절차는 서명 전에 MIDA에 확인해야 함"
+  - "고용(해고 및 정리해고 급여)규정(Employment (Termination and Lay-Off Benefits) Regulations 1980)의 소유권 변경 조항이 자산 매각 시 해고 급여가 발생하는지를 규율합니다; 정확한 규정과 그 조건은 관보 본문과 대조하여 확인하지 못함"
+  - "KPDN이 라이선스 보유자의 지분 변경 시 새로운 WRT 신청을 요구하는지 아니면 변경을 허용하는지는 KPDN 지침과 대조하여 확인하지 못함"
 
 lang: "ko"
 sourceContentHash: "9a4e03ec03d9397b"

@@ -14,25 +14,23 @@ sensitivity: "none"
 
 answer: "Sdn Bhd 또는 Bhd는 특별결의(75% 다수)를 통해 정관을 채택하고 30일 이내에 SSM에 제출합니다(제32조). 개정 또한 특별결의와 30일 이내의 제출을 요구합니다(제36조) — 다만 정관 자체가 그 개정을 금지하는 경우는 예외이며, 이것이 강화(entrenchment)의 근거입니다. 정관을 채택하지 않은 경우, 회사·이사·사원의 권리와 권한은 회사법(Companies Act 2016) 그 자체의 규정에 의해 전적으로 규율됩니다(제31조(3))."
 keyTakeaways:
-  - "Perlembagaan adalah pilihan bagi syarikat berhad menurut syer dan syarikat tidak berhad; ia wajib hanya bagi syarikat berhad menurut jaminan (seksyen 31 & 38)."
-  - "Memakai atau meminda perlembagaan memerlukan resolusi khas — majoriti tidak kurang 75% dengan notis 21 hari (seksyen 292)."
-  - "Salinan perlembagaan yang dipakai atau dipinda mesti difailkan dengan SSM dalam tempoh 30 hari."
-  - "Perlembagaan boleh mengukuhkan (entrench) peruntukannya dengan melarang pindaan, tetapi Mahkamah masih boleh memintanya di bawah seksyen 37 apabila prosedur biasa tidak praktik."
-  - "Denda lewat fail: sehingga RM50,000 bagi pemakaian (s.32) dan sehingga RM10,000 bagi pindaan (s.36), tambah RM500 sehari bagi kesalahan berterusan."
-appliesTo: "Pengarah, setiausaha syarikat, pemegang saham dan penasihat bagi syarikat sendirian berhad (Sdn Bhd) dan berhad (Bhd) di Malaysia."
-
+  - "정관은 주식유한회사와 무한회사에는 선택 사항이며, 보증유한회사에만 의무입니다(s.31 및 s.38)."
+  - "정관을 채택하거나 변경하려면 특별결의가 필요합니다 — 21일의 통지와 함께 75% 이상의 다수결(s.292)."
+  - "채택되거나 변경된 정관의 사본은 30일 이내에 SSM에 제출해야 합니다."
+  - "정관은 변경을 금지함으로써 그 규정을 고착화(entrench)할 수 있으나, 통상 절차가 실행 불가능한 경우 법원은 여전히 s.37에 따라 이를 변경하도록 명할 수 있습니다."
+  - "지연 제출 벌금: 채택의 경우 RM50,000 이하(s.32), 변경의 경우 RM10,000 이하(s.36)이며, 계속 위반 시 1일당 RM500이 추가됩니다."
+appliesTo: "말레이시아의 비공개회사(Sdn Bhd)와 공개회사(Bhd)의 이사, 회사 비서, 주주 및 자문역."
 faq:
-  - q: "Adakah setiap syarikat mesti mempunyai perlembagaan?"
-    a: "Tidak. Di bawah seksyen 31(1), syarikat selain syarikat berhad menurut jaminan boleh memilih untuk mempunyai atau tidak mempunyai perlembagaan. Hanya syarikat berhad menurut jaminan diwajibkan mempunyai perlembagaan yang difailkan semasa pemerbadanan (seksyen 38)."
-  - q: "Apa yang mengawal syarikat jika ia tiada perlembagaan?"
-    a: "Seksyen 31(3) memperuntukkan bahawa jika syarikat tiada perlembagaan, hak, kuasa, tugas dan kewajipan syarikat, setiap pengarah dan setiap ahli adalah seperti yang ditetapkan dalam Akta Syarikat 2016 itu sendiri. Peruntukan lalai Akta menjadi 'perlembagaan' berkuat kuasa."
-  - q: "Berapakah majoriti undi yang diperlukan untuk meminda perlembagaan?"
-    a: "Resolusi khas, iaitu majoriti tidak kurang daripada 75% ahli yang berhak mengundi dan mengundi, dengan notis tidak kurang 21 hari (seksyen 292 dan seksyen 36(1))."
-  - q: "Bolehkah syarikat menghalang perlembagaannya daripada dipinda?"
-    a: "Ya, sebahagiannya. Seksyen 36(1) membenarkan pindaan 'melainkan perlembagaan itu sendiri melarang' pindaan tersebut — asas bagi peruntukan berkubu (entrenchment). Namun syarikat tidak boleh melucutkan sepenuhnya kuasa berkanunnya untuk meminda, dan Mahkamah boleh memerintahkan pindaan di bawah seksyen 37 jika prosedur biasa tidak praktik."
-  - q: "Apa jadi kepada Memorandum dan Tataurusan (M&A) syarikat lama sebelum 2016?"
-    a: "Di bawah peruntukan peralihan seksyen 619(3), M&A syarikat sedia ada yang berkuat kuasa pada permulaan Akta terus berkuat kuasa seolah-olah dibuat di bawah Akta ini, melainkan syarikat memutuskan sebaliknya. M&A itu kini menjadi perlembagaan syarikat berkenaan."
-
+  - q: "모든 회사가 정관을 보유해야 합니까?"
+    a: "아닙니다. s.31(1)에 따라 보증유한회사가 아닌 회사는 정관을 둘지 두지 않을지 선택할 수 있습니다. 설립 시 제출되는 정관을 보유하도록 의무화된 것은 보증유한회사뿐입니다(s.38)."
+  - q: "회사에 정관이 없으면 무엇이 회사를 규율합니까?"
+    a: "s.31(3)은 회사에 정관이 없는 경우 회사, 각 이사 및 각 사원의 권리·권한·의무가 회사법(Companies Act 2016) 자체에 규정된 바와 같다고 정합니다. 동법의 기본 규정이 사실상의 「정관」이 됩니다."
+  - q: "정관을 변경하려면 어느 정도의 다수결이 필요합니까?"
+    a: "특별결의, 즉 21일 이상의 통지와 함께 의결권이 있고 의결하는 사원의 75% 이상의 다수결입니다(s.292 및 s.36(1))."
+  - q: "회사가 그 정관의 변경을 막을 수 있습니까?"
+    a: "예, 부분적으로 가능합니다. s.36(1)은 「정관 자체가 그 변경을 금지하지 않는 한」 변경을 허용하는데 — 이것이 고착화(entrenchment) 규정의 근거입니다. 그러나 회사는 변경할 법정 권한을 완전히 박탈할 수 없으며, 통상 절차가 실행 불가능한 경우 법원은 s.37에 따라 변경을 명할 수 있습니다."
+  - q: "2016년 이전 옛 회사의 기본정관(Memorandum and Articles, M&A)은 어떻게 됩니까?"
+    a: "s.619(3)의 경과규정에 따라, 동법 시행 시점에 유효하던 기존 회사의 기본정관(M&A)은 회사가 달리 결정하지 않는 한 이 법에 따라 작성된 것처럼 계속 유효합니다. 그 기본정관은 이제 해당 회사의 정관이 됩니다."
 lang: "ko"
 sourceContentHash: "99c3208a68daac93"
 masterLanguage: "ms"
@@ -51,8 +49,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Autoriti common law bagi had pengukuhan (syarikat tidak boleh melucutkan sepenuhnya kuasa berkanunnya untuk meminda perlembagaan) — pengesahan manusia diperlukan untuk kes rujukan yang tepat (contohnya Allen v Gold Reefs of West Africa Ltd [1900] 1 Ch 656; Russell v Northern Bank Development Corp Ltd) sebelum penerbitan."
-  - "Sahkan petikan penuh dan ringkasan fakta kes Chew Meu Jong v Lysaght (Malaysia) Sdn Bhd [2018] 1 LNS 1132 terhadap laporan penghakiman rasmi."
+  - "고착화 한계에 관한 보통법 근거(회사는 정관을 변경할 법정 권한을 완전히 박탈할 수 없음) — 정확한 참조 판례(예: Allen v Gold Reefs of West Africa Ltd [1900] 1 Ch 656; Russell v Northern Bank Development Corp Ltd)에 대하여 발행 전 사람의 확인이 필요합니다."
+  - "Chew Meu Jong v Lysaght (Malaysia) Sdn Bhd [2018] 1 LNS 1132 사건의 전체 인용과 사실관계 요약을 공식 판결문과 대조하여 확인하십시오."
 updated: 2026-08-07
 sources:
   - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"

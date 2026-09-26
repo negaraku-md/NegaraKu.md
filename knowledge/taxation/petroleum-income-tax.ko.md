@@ -15,17 +15,17 @@ sensitivity: "none"
 answer: "말레이시아에서 석유를 채취하는 기업은 일반 소득세법(Income Tax Act 1967)에 따라 과세되지 않습니다. 이들의 상류부문(upstream) 소득은 별도로 구획되어 석유(소득세)법(Petroleum (Income Tax) Act 1967, PITA) 제23조에 따라 38%로 과세됩니다. 적격 한계전(marginal field)과 노후 자산(late-life asset)의 경우 목표형 면제와 공제를 통해 실효세율이 약 25%까지 낮아집니다."
 
 keyTakeaways:
-  - "Section 23(1) of PITA sets petroleum income tax at 38% of chargeable income."
-  - "PITA covers 'petroleum operations' — searching for and winning petroleum in Malaysia — as defined in Section 2, and excludes refining, liquefying and transport outside Malaysia."
-  - "Marginal-field income is effectively taxed at about 25% via an exemption of part of chargeable income."
-  - "Late-life asset PSCs signed between 1 January 2020 and 31 December 2029 also get a 25% rate plus accelerated capital allowances."
-appliesTo: "Production-sharing contractors, Petronas-linked upstream operators, and tax and finance teams in Malaysia's oil and gas sector."
+  - "석유소득세법(PITA) 제23(1)조는 석유소득세를 과세표준의 38%로 정합니다."
+  - "석유소득세법(PITA)은 제2조에 정의된 대로 「석유 조업」 — 말레이시아에서 석유를 탐사하고 채취하는 활동 — 을 대상으로 하며, 정제·액화 및 말레이시아 밖으로의 운송은 제외합니다."
+  - "한계 유전(marginal field) 소득은 과세표준의 일부를 면제함으로써 실효적으로 약 25%로 과세됩니다."
+  - "2020년 1월 1일부터 2029년 12월 31일 사이에 체결된 노후 자산(late-life asset) 생산물분배계약(PSC)도 25% 세율과 가속상각 자본공제를 적용받습니다."
+appliesTo: "생산물분배계약자, 페트로나스(Petronas) 관련 상류 부문 사업자, 그리고 말레이시아 석유·가스 부문의 세무·재무 담당 부서."
 
 faq:
-  - q: "Do oil and gas companies pay the standard 24% corporate tax?"
-    a: "Not on upstream income. Income from winning petroleum is charged under PITA at 38%; only non-petroleum sources fall under the ordinary Income Tax Act 1967, where the standard corporate rate is 24%."
-  - q: "What is the marginal-field rate?"
-    a: "An exemption of a portion of chargeable income reduces the effective petroleum income tax rate on qualifying marginal fields from 38% to about 25%."
+  - q: "석유·가스 회사는 표준 법인세율 24%를 냅니까?"
+    a: "상류(upstream) 소득에는 그렇지 않습니다. 석유 채취에서 발생한 소득은 석유소득세법(PITA)에 따라 38%로 과세되며, 석유 외 원천만이 표준 법인세율이 24%인 일반 소득세법(Income Tax Act 1967)의 적용을 받습니다."
+  - q: "한계 유전 세율은 얼마입니까?"
+    a: "과세표준 일부의 면제가 적격 한계 유전에 대한 실효 석유소득세율을 38%에서 약 25%로 낮춥니다."
 
 lang: "ko"
 sourceContentHash: "e3d164ca38c307ff"
@@ -45,9 +45,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm the current statutory or regulatory basis and eligibility conditions for the ~25% effective marginal-field rate (the mechanism described is an exemption of part of chargeable income)."
-  - "Confirm the identity and filing obligations of the 'chargeable person' under PITA for typical PSC arrangements, and whether Petronas-linked entities file separately."
-  - "Confirm the LLA incentive figures (25% rate, 20% initial / 40% annual allowance, 1 Jan 2020–31 Dec 2029 window, two-YA decommissioning carryback) against the gazetted subsidiary regulations, not only the EY summary."
+  - "약 25%의 실효 한계 유전 세율에 대한 현행 법령상 또는 규정상 근거와 적격 요건을 확인할 것(설명된 방식은 과세표준 일부의 면제임)."
+  - "일반적인 생산물분배계약(PSC) 구조에서 석유소득세법(PITA)상 「과세대상자」의 신원과 신고 의무, 그리고 페트로나스(Petronas) 관련 법인이 별도로 신고하는지 여부를 확인할 것."
+  - "노후 자산 공제(LLA) 인센티브 수치(25% 세율, 초기 공제 20% / 연간 공제 40%, 2020년 1월 1일~2029년 12월 31일 기간, 2개 과세연도 폐쇄 비용 소급공제)를 EY 요약만이 아니라 관보에 게재된 하위 규정과 대조하여 확인할 것."
 updated: 2026-08-07
 sources:
   - title: "Petroleum (Income Tax) Act 1967 (Act 543) — s.23(1) charges petroleum income tax at 38%; s.2 defines 'petroleum operations'"

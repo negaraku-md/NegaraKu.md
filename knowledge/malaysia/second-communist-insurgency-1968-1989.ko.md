@@ -14,20 +14,20 @@ sensitivity: "security"
 
 answer: "1948-1960년 말라야 비상사태(Malayan Emergency)가 1960년 7월 31일에 종료 선언된 후, 말라야 공산당(Communist Party of Malaya, CPM)의 잔존 세력은 말레이시아-태국 국경을 따라 재집결하여 1968년 6월에 무장 투쟁을 재개하였으며, 이는 흔히 제2차 비상사태(Second Emergency)로 불립니다. 사라왁(Sarawak)에서는 북칼리만탄 공산당(North Kalimantan Communist Party)을 통해 이와 병행하는 반란이 전개되었습니다. 반도의 분쟁은 1989년 12월 2일 CPM과 말레이시아, 태국이 핫야이(Hat Yai)에서 평화협정에 서명하면서 종결되었고, 사라왁 분쟁은 이듬해에 최종 타결에 이르렀습니다."
 keyTakeaways:
-  - "The Second Emergency is dated to a 17 June 1968 ambush near the Kroh-Betong border, in which security force personnel were killed and wounded, according to Arkib Negara Malaysia"
-  - "It was lower in intensity than the 1948-1960 Emergency but included high-profile attacks, such as the 1974 killing of the Inspector-General of Police and 1975 bombings in Kuala Lumpur"
-  - "A separate insurgency in Sarawak was waged by the North Kalimantan Communist Party (NKCP) through its PGRS and PARAKU armed formations"
-  - "The Sarawak conflict was partly wound down by the Sri Aman memorandum of 21 October 1973 and reached a final settlement in 1990"
-  - "The peninsular conflict ended with the Hat Yai peace accords of 2 December 1989 between the CPM, Malaysia and Thailand; the accords did not require the CPM to surrender"
-appliesTo: "Readers, students and researchers seeking a neutral factual account of Malaysia's post-1960 communist insurgency, distinct from the 1948-1960 Malayan Emergency."
+  - "말레이시아 국가기록원(Arkib Negara Malaysia)에 따르면, 제2차 비상사태는 보안군 인원이 사망하고 부상당한 1968년 6월 17일 크로-베통(Kroh-Betong) 국경 부근의 매복 사건으로 연대가 잡힙니다"
+  - "그것은 1948-1960년 비상사태보다 강도가 낮았으나, 1974년 경찰청장 살해와 1975년 쿠알라룸푸르(Kuala Lumpur) 폭탄 공격 같은 세간의 이목을 끈 공격을 포함하였습니다"
+  - "사라왁(Sarawak)에서는 북칼리만탄 공산당(North Kalimantan Communist Party, NKCP)이 그 무장 조직인 PGRS와 PARAKU를 통해 별도의 반란을 벌였습니다"
+  - "사라왁 분쟁은 1973년 10월 21일 스리 아만 각서(Sri Aman memorandum)로 부분적으로 진정되었으며 1990년에 최종 타결에 이르렀습니다"
+  - "반도 분쟁은 말라야 공산당(CPM), 말레이시아, 태국 사이의 1989년 12월 2일 핫야이 평화 협정(Hat Yai peace accords)으로 끝났으며, 이 협정은 CPM에 항복을 요구하지 않았습니다"
+appliesTo: "1948-1960년 말라야 비상사태와 구별되는, 1960년 이후 말레이시아 공산 반란에 대한 중립적이고 사실적인 서술을 찾는 독자, 학생 및 연구자."
 
 faq:
-  - q: "How is the Second Emergency different from the 1948-1960 Malayan Emergency?"
-    a: "They are two separate phases. The first Emergency ran from 1948 until it was declared over on 31 July 1960. The second, or renewed, insurgency began in June 1968 after CPM remnants regrouped on the Thai border, and it ended with the 1989 Hat Yai accords."
-  - q: "When and where did the fighting formally end?"
-    a: "The peninsular conflict ended with peace accords signed at the Lee Gardens Hotel in Hat Yai, Thailand, on 2 December 1989, by the CPM and the governments of Malaysia and Thailand. The Sarawak conflict reached its final settlement in 1990."
-  - q: "Did the Communist Party of Malaya surrender in 1989?"
-    a: "According to Arkib Negara Malaysia, the Hat Yai accords did not require the CPM to surrender. The party agreed to end militant activity, disband its armed units and destroy its weapons, and its members pledged loyalty to the Yang di-Pertuan Agong."
+  - q: "제2차 비상사태는 1948-1960년 말라야 비상사태와 어떻게 다릅니까?"
+    a: "둘은 서로 별개의 국면입니다. 첫 번째 비상사태는 1948년부터 1960년 7월 31일 종료가 선언될 때까지 지속되었습니다. 두 번째, 즉 재개된 반란은 말라야 공산당(CPM) 잔당이 태국 국경에서 재결집한 후 1968년 6월에 시작되었으며, 1989년 핫야이 협정(Hat Yai accords)으로 끝났습니다."
+  - q: "교전은 공식적으로 언제, 어디에서 끝났습니까?"
+    a: "반도 분쟁은 1989년 12월 2일 태국 핫야이(Hat Yai)의 리 가든스 호텔(Lee Gardens Hotel)에서 말라야 공산당(CPM)과 말레이시아·태국 정부에 의해 서명된 평화 협정으로 끝났습니다. 사라왁(Sarawak) 분쟁은 1990년에 최종 타결에 이르렀습니다."
+  - q: "말라야 공산당은 1989년에 항복하였습니까?"
+    a: "말레이시아 국가기록원(Arkib Negara Malaysia)에 따르면, 핫야이 협정(Hat Yai accords)은 말라야 공산당(CPM)에 항복을 요구하지 않았습니다. 이 당은 무장 활동을 끝내고 무장 조직을 해산하며 무기를 폐기하기로 합의하였고, 그 당원들은 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)에 대한 충성을 서약하였습니다."
 
 lang: "ko"
 sourceContentHash: "02bbbc636e171599"
@@ -41,13 +41,13 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Exact date and venue of the 1990 settlement that ended the Sarawak insurgency. Press accounts and encyclopaedic entries give 17 October 1990 at Wisma Bapa Malaysia, Kuching, but this is not confirmed in the cited authoritative sources; the Kyoto Review states only '1990'."
-  - "Number of guerrillas in the 1990 Sarawak settlement (Kyoto Review: 'roughly 50'; press accounts: 52, led by Ang Cho Teng)."
-  - "Exact day of the Perak CPO Khoo Chong Kong killing. Cited sources (The Rakyat Post, Arkib Negara) give only November 1975 / 1975; external reporting gives 13 November 1975."
-  - "The 20 vs 21 October 1973 dating of the Sri Aman memorandum. The cited Sarawak Museum Department and Sarawak Tribune both give 21 October 1973; some accounts give 20 October."
-  - "Date of the Baling talks (stated here as December 1955) against a primary source."
-  - "Framing of the renewed insurgency's span: cited Arkib Negara entries variously describe a 1968-1978 'Second Emergency' and a 21-year (1968-1989) insurgency."
-  - "Kroh-Betong ambush casualty figures (16 killed, 17 wounded) and the 26 August 1975 Tugu Negara bombing figures (2 killed, 41 injured) against the cited Arkib Negara entries."
+  - "사라왁 반란을 끝낸 1990년 타결의 정확한 날짜와 장소. 언론 보도와 백과사전 항목은 쿠칭(Kuching) 위스마 바파 말레이시아(Wisma Bapa Malaysia)에서의 1990년 10월 17일을 제시하나, 이는 인용된 권위 있는 자료에서 확인되지 않으며 Kyoto Review는 「1990년」이라고만 밝힙니다."
+  - "1990년 사라왁 타결의 게릴라 수(Kyoto Review: 「약 50명」; 언론 보도: 앙 초 텡(Ang Cho Teng)이 이끄는 52명)."
+  - "페락(Perak) 경찰국장(CPO) 쿠 총 콩(Khoo Chong Kong) 살해의 정확한 날짜. 인용된 자료(The Rakyat Post, Arkib Negara)는 1975년 11월 / 1975년만 제시하나, 외부 보도는 1975년 11월 13일을 제시함."
+  - "스리 아만 각서(Sri Aman memorandum)의 1973년 10월 20일 대 21일 연대. 인용된 사라왁 박물관국(Sarawak Museum Department)과 Sarawak Tribune은 모두 1973년 10월 21일을 제시하나, 일부 서술은 10월 20일을 제시함."
+  - "발링 회담(Baling talks)의 날짜(여기에서는 1955년 12월로 기술)를 1차 자료와 대조."
+  - "재개된 반란의 기간에 대한 서술 구도: 인용된 Arkib Negara 항목들은 1968-1978년 「제2차 비상사태」와 21년간(1968-1989)의 반란을 서로 다르게 기술함."
+  - "크로-베통(Kroh-Betong) 매복 사상자 수치(사망 16명, 부상 17명)와 1975년 8월 26일 국가기념비(Tugu Negara) 폭탄 공격 수치(사망 2명, 부상 41명)를 인용된 Arkib Negara 항목과 대조."
 revisions:
   - revision: 0
     date: 2026-08-08

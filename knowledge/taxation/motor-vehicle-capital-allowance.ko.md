@@ -14,16 +14,16 @@ sensitivity: "none"
 
 answer: "비상업용 자동차에 대한 적격 설비 지출은 소득세법(Income Tax Act 1967) 별표 3 제2조 제2항에 따라 RM50,000으로 제한됩니다. 이 한도는 차량이 신차이고 총 비용이 RM150,000을 초과하지 않는 경우에만 RM100,000으로 상향됩니다. 재정비(reconditioned) 차량은 신차가 아닙니다. 리스료도 s.39(1)(k)에 따라 동일한 상한을 적용받습니다. 전기차 리스는 총 RM300,000 한도를 두는 별도의 관보 규정을 가집니다."
 keyTakeaways:
-  - "Cap is RM50,000; RM100,000 needs both conditions — new and total cost not above RM150,000"
-  - "A reconditioned vehicle fails the new test even if it looks and performs as new"
-  - "Commercially licensed goods or passenger vehicles have no cap at all"
-  - "s.39(1)(k) applies the identical ceiling to lease rentals, in aggregate over the whole lease"
-  - "EV lease rentals get a separate RM300,000 aggregate cap under P.U.(A) 232/2026, YA2023 to YA2027"
-  - "Road tax, insurance and hire-purchase interest never form part of qualifying expenditure"
-appliesTo: "Companies buying, leasing or providing vehicles, and anyone preparing a capital allowance schedule."
+  - "한도는 RM50,000입니다. RM100,000은 두 조건을 모두 필요로 합니다 — 신차이고 총 비용이 RM150,000을 넘지 않을 것"
+  - "재정비 차량은 신차처럼 보이고 작동하더라도 신차 판정을 통과하지 못합니다"
+  - "상업용으로 허가받은 화물차 또는 승객 운송 차량에는 한도가 전혀 없습니다"
+  - "제39(1)(k)조는 리스 전체 기간에 걸친 합계로 리스료에 동일한 상한을 적용합니다"
+  - "전기차 리스료는 P.U.(A) 232/2026에 따라 2023 과세연도부터 2027 과세연도까지 별도의 RM300,000 합계 한도를 받습니다"
+  - "도로세, 보험료, 할부 구매 이자는 결코 적격 지출의 일부를 구성하지 않습니다"
+appliesTo: "차량을 매입·리스 또는 제공하는 회사, 그리고 자본공제 명세를 준비하는 모든 사람."
 
 verificationNeeded:
-  - "Whether any accelerated or enhanced capital allowance specific to the purchase (as opposed to the rental) of electric vehicles has been gazetted — no such instrument was found in the AGC subsidiary-legislation database."
+  - "전기차의 리스가 아니라 매입에 특화된 가속 또는 강화 자본공제가 관보에 게재되었는지 여부 — AGC 하위 법령 데이터베이스에서 그러한 문서를 찾지 못했습니다."
 
 lang: "ko"
 sourceContentHash: "9f0ef46f2f698cad"

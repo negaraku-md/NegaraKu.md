@@ -14,24 +14,24 @@ sensitivity: "none"
 
 answer: "말레이시아의 1998년 프랜차이즈법(Franchise Act 1998)은 프랜차이즈를 판매하거나 운영하기 전에 등록을 의무화합니다. 국내 및 외국 프랜차이저는 제6조(Section 6)에 따라 등록하고; 외국 프랜차이저는 제54조(Section 54) 승인도 필요하며; 프랜차이지도 등록해야 합니다. 2022년 이래 모든 신청은 MyFEX 2.0 온라인 포털을 통해 이루어지며, 계약은 프랜차이지에게 최소 10일 전에 공개 문서(disclosure document)를 제공하고 최소 7영업일의 숙려 기간(cooling-off period)을 부여해야 합니다."
 keyTakeaways:
-  - "Franchisor registration is mandatory under Section 6 of the Franchise Act 1998; foreign franchisors also require Section 54 approval."
-  - "The Franchise (Amendment) Act 2020 came into force on 28 April 2022 and, for the first time, required franchisees to register too."
-  - "All registrations are made online through the MyFEX 2.0 portal, launched 28 July 2022; the Registrar of Franchise now sits under the Ministry of Entrepreneur Development and Cooperatives (KUSKOP/MECD), which took over the portal in 2024."
-  - "Franchisors must give a prescribed disclosure document at least 10 days before signing (Section 15), and the agreement must include a cooling-off period of at least 7 working days (Section 18)."
-  - "A registration lasts five years and must be renewed; existing franchises had until 31 July 2025 to re-register under the new system."
-appliesTo: "Local and foreign franchisors, master franchisees, and franchisees intending to grant or operate a franchise business in Malaysia."
+  - "프랜차이즈 본부(franchisor) 등록은 프랜차이즈법 1998(Franchise Act 1998) 제6조에 따라 의무이며; 외국 프랜차이즈 본부는 제54조 승인도 필요합니다."
+  - "프랜차이즈(개정)법 2020(Franchise (Amendment) Act 2020)은 2022년 4월 28일 시행되어 처음으로 가맹점(franchisee)에게도 등록을 요구했습니다."
+  - "모든 등록은 2022년 7월 28일 출범한 MyFEX 2.0 포털을 통해 온라인으로 이루어지며; 프랜차이즈 등록관은 이제 기업개발협동조합부(KUSKOP/MECD) 소관으로, 이 부처가 2024년 포털을 인수했습니다."
+  - "프랜차이즈 본부는 서명 최소 10일 전에 규정된 공개 문서를 제공해야 하며(제15조), 계약에는 최소 7영업일의 숙려기간이 포함되어야 합니다(제18조)."
+  - "등록은 5년간 유효하며 갱신해야 합니다; 기존 프랜차이즈는 2025년 7월 31일까지 새 시스템에 재등록해야 했습니다."
+appliesTo: "말레이시아에서 프랜차이즈 사업을 부여하거나 운영하려는 현지 및 외국 프랜차이즈 본부, 마스터 프랜차이지, 그리고 가맹점에게 적용됩니다."
 
 faq:
-  - q: "Do I have to register before I can sell a franchise in Malaysia?"
-    a: "Yes. Section 6 of the Franchise Act 1998 requires a franchisor to register with the Registrar of Franchise before making any offer to sell a franchise. Foreign franchisors must additionally obtain Section 54 approval before registering."
-  - q: "Do franchisees have to register as well?"
-    a: "Yes, since the Franchise (Amendment) Act 2020. A franchisee of a foreign franchisor must register before commencing the franchise business, while a franchisee of a local franchisor or master franchisee must register within 14 days of signing the franchise agreement."
-  - q: "What is the cooling-off period?"
-    a: "Section 18 requires every franchise agreement to include a cooling-off period of at least 7 working days, during which the franchisee may terminate the agreement. The franchisor may retain a reasonable amount for expenses already incurred."
-  - q: "How long is a franchise registration valid?"
-    a: "A registration is effective for five years from the date of the Registrar's written notice and must be renewed. A renewal application must be submitted within 30 days of expiry."
-  - q: "What happens if I don't register?"
-    a: "Operating without registration is an offence. Under Section 39, a body corporate faces a fine of RM10,000 to RM50,000 for a first offence and RM20,000 to RM100,000 for a subsequent one; an individual faces RM5,000 to RM25,000 or up to six months' imprisonment for a first offence."
+  - q: "말레이시아에서 프랜차이즈를 판매하기 전에 등록해야 합니까?"
+    a: "예. 프랜차이즈법 1998(Franchise Act 1998) 제6조는 프랜차이즈 본부가 프랜차이즈 판매 제안을 하기 전에 프랜차이즈 등록관에 등록하도록 요구합니다. 외국 프랜차이즈 본부는 등록 전에 추가로 제54조 승인을 받아야 합니다."
+  - q: "가맹점도 등록해야 합니까?"
+    a: "예, 프랜차이즈(개정)법 2020(Franchise (Amendment) Act 2020) 이후로 그렇습니다. 외국 프랜차이즈 본부의 가맹점은 프랜차이즈 사업을 개시하기 전에 등록해야 하고, 현지 프랜차이즈 본부 또는 마스터 프랜차이지의 가맹점은 프랜차이즈 계약 서명 후 14일 이내에 등록해야 합니다."
+  - q: "숙려기간이란 무엇입니까?"
+    a: "제18조는 모든 프랜차이즈 계약에 최소 7영업일의 숙려기간을 포함하도록 요구하며, 이 기간 동안 가맹점은 계약을 해지할 수 있습니다. 프랜차이즈 본부는 이미 발생한 비용에 대해 합리적인 금액을 유보할 수 있습니다."
+  - q: "프랜차이즈 등록은 얼마나 유효합니까?"
+    a: "등록은 등록관의 서면 통지일로부터 5년간 유효하며 갱신해야 합니다. 갱신 신청은 만료 후 30일 이내에 제출해야 합니다."
+  - q: "등록하지 않으면 어떻게 됩니까?"
+    a: "등록 없이 운영하는 것은 위법행위입니다. 제39조에 따라 법인은 초범의 경우 RM10,000에서 RM50,000, 재범의 경우 RM20,000에서 RM100,000의 벌금에 처합니다; 개인은 초범의 경우 RM5,000에서 RM25,000 또는 6개월 이하의 징역에 처합니다."
 
 lang: "ko"
 sourceContentHash: "86582fd00a53a2cd"
@@ -45,9 +45,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Current prescribed official fees for franchisor, franchisee and renewal applications under MyFEX 2.0 — the article no longer states amounts because no authoritative current figure could be confirmed (only a superseded RM1,000 fee under the Franchise (Forms and Fees) Regulations 1999). Confirm on the MyFEX 2.0 portal."
-  - "Exact MyFEX 2.0 launch date: most sources (Nixon Peabody, ICLG) give 28 July 2022, but ZICO Law gives 29 July 2022."
-  - "Current exact English name and acronym of the administering ministry — sources use both 'Ministry of Entrepreneur Development and Cooperatives (KUSKOP)' and 'Ministry of Entrepreneur and Cooperatives Development (MECD)'; the portal domain is kuskop.gov.my."
+  - "MyFEX 2.0상 프랜차이즈 본부, 가맹점 및 갱신 신청에 대한 현행 규정 공식 수수료 — 권위 있는 현행 수치를 확인할 수 없어(프랜차이즈(서식 및 수수료)규정 1999에 따른 대체된 RM1,000 수수료만 확인) 이 글은 더 이상 금액을 명시하지 않습니다. MyFEX 2.0 포털에서 확인하십시오."
+  - "MyFEX 2.0의 정확한 출범일: 대부분의 출처(Nixon Peabody, ICLG)는 2022년 7월 28일로 제시하나, ZICO Law는 2022년 7월 29일로 제시합니다."
+  - "관장 부처의 현행 정확한 영어 명칭과 약칭 — 출처들이 「Ministry of Entrepreneur Development and Cooperatives (KUSKOP)」와 「Ministry of Entrepreneur and Cooperatives Development (MECD)」를 모두 사용하며; 포털 도메인은 kuskop.gov.my입니다."
 revisions:
   - revision: 0
     date: 2026-08-07

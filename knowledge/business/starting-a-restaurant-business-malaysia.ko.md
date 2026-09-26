@@ -49,9 +49,9 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Business-registration and local-council fees (SSM enterprise/Sdn Bhd fees; PBT premise and signboard licence fees, which vary by council and floor area) are indicative from secondary guides — confirm against SSM's fee schedule and the specific local authority (DBKL/MBPJ/MBSA) before publishing figures."
-  - "The exact regulation numbers for food-handler training and typhoid vaccination (commonly cited as regulations 30 and 31 of the Food Hygiene Regulations 2009), the 'valid for life' certificate change, and the typhoid renewal interval should be confirmed verbatim against the AGC-published Food Hygiene Regulations 2009 before citing specific numbers."
-  - "The commonly-cited 30-day SOCSO/EIS deadline for a new employer to register could not be substantiated against PERKESO primary sources — the only 30-day period found applies to cessation of employer status, not new-employer registration — so verify the current registration timing with PERKESO."
+  - "사업 등록 및 지방의회 수수료(SSM 사업체/Sdn Bhd 수수료; 의회와 바닥 면적에 따라 다른 PBT 영업장 및 간판 라이선스 수수료)는 2차 안내서에서 얻은 참고치입니다 — 수치를 게재하기 전에 SSM 수수료표와 해당 지방당국(DBKL/MBPJ/MBSA)과 대조하여 확인하십시오."
+  - "식품 취급자 교육 및 장티푸스 예방접종의 정확한 규정 번호(흔히 식품위생규정(Food Hygiene Regulations 2009) 제30조 및 제31조로 인용됨), 「평생 유효」 증명서 변경, 그리고 장티푸스 갱신 주기는 구체적 번호를 인용하기 전에 AGC가 공표한 식품위생규정(Food Hygiene Regulations 2009)과 축자적으로 대조하여 확인해야 함."
+  - "신규 고용주의 SOCSO/EIS 등록에 대해 흔히 인용되는 30일 기한은 PERKESO 1차 자료로 뒷받침할 수 없었습니다 — 확인된 유일한 30일 기간은 신규 고용주 등록이 아니라 고용주 지위 상실에 적용되므로 — 현행 등록 시기를 PERKESO에 확인하십시오."
 
 updated: 2026-09-07
 sources:

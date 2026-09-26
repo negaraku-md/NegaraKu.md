@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "말레이시아 기업 문서, 회사 비서의 청구서, 또는 여전히 회사법 1965 양식을 언급하는 오래된 안내를 읽는 모든 사람."
 
 verificationNeeded:
-  - "SSM portal names and URLs change over time — confirm the current portal for each service on ssm.com.my before filing"
-  - "Confirm the current scope of agencies participating in BLESS and MalaysiaBiz, which is expanded periodically"
+  - "SSM 포털 명칭과 URL은 시간이 지나면서 바뀝니다 — 제출 전에 ssm.com.my에서 각 서비스의 현행 포털을 확인하십시오"
+  - "주기적으로 확대되는 BLESS 및 MalaysiaBiz에 참여하는 기관의 현행 범위를 확인하십시오"
 
 lang: "ko"
 sourceContentHash: "d297b49cc580cf19"

@@ -14,17 +14,17 @@ sensitivity: "none"
 
 answer: "SSM에 등록된 일반 파트너십은 별개의 법인격을 갖지 않습니다. 1961년 파트너십법(Partnership Act 1961) 제11조에 따라 모든 파트너는 상호의 모든 채무에 대해 연대(joint)하여 책임을 지며, 제14조에 따라 불법행위에 대해 부진정연대(joint and several)하여 책임을 집니다. 동업자는 여러분이 본 적 없는 계약에 여러분을 구속할 수 있고, 채권자는 여러분의 개인 자산을 전액 추심할 수 있습니다. 거의 모든 사업에서 LLP나 Sdn Bhd가 더 나은 구조입니다."
 keyTakeaways:
-  - "A partnership is not a legal entity — the partners are the business"
-  - "s.11 Partnership Act 1961: liability for debts is joint, and an estate is severally liable after death"
-  - "s.14: liability for wrongs under s.12 or s.13 is joint and several"
-  - "s.7: every partner binds the firm in the ordinary course of business"
-  - "s.19(2): retiring does not release you from debts incurred before you left"
-  - "s.35(1): the partnership dissolves on the death or bankruptcy of any partner, unless agreed otherwise"
-  - "s.13 of the Companies Act 2016 still caps a partnership at twenty persons"
-appliesTo: "Anyone about to register a partnership with SSM, and existing partners who have never read their partnership agreement."
+  - "조합은 법인이 아닙니다 — 조합원이 곧 사업체입니다"
+  - "s.11 조합법(Partnership Act 1961): 채무 책임은 연대(joint)이며, 사망 후 유산은 개별적으로(severally) 책임을 집니다"
+  - "s.14: s.12 또는 s.13에 따른 불법행위 책임은 부진정연대(joint and several)입니다"
+  - "s.7: 모든 조합원은 통상적인 사업 과정에서 조합을 구속합니다"
+  - "s.19(2): 탈퇴해도 떠나기 전에 발생한 채무에서 벗어나지 못합니다"
+  - "s.35(1): 달리 약정하지 않는 한, 조합은 어느 조합원의 사망 또는 파산 시 해산됩니다"
+  - "회사법(Companies Act 2016) s.13은 여전히 조합을 20인으로 제한합니다"
+appliesTo: "SSM에 조합을 등록하려는 모든 분, 그리고 조합 계약을 한 번도 읽어 본 적 없는 기존 조합원."
 
 verificationNeeded:
-  - "Confirm the current ROB registration position for partnerships in Sabah and Sarawak, which register under state ordinances rather than the Registration of Businesses Act 1956"
+  - "사업등록법(Registration of Businesses Act 1956)이 아니라 주 조례에 따라 등록하는 사바(Sabah)와 사라왁(Sarawak)의 조합에 대한 현행 ROB 등록 입장을 확인하십시오"
 
 lang: "ko"
 sourceContentHash: "14836fcc799b68f3"

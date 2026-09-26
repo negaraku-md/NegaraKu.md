@@ -38,30 +38,30 @@ faq:
     a: "예. 주식에 미납금액이 남아 있는 경우 이사는 납입 청구(call)를 할 수 있으며, 제83조는 납입 청구가 이행되지 않을 때의 실권 절차를 규정하는데, 여기에는 납부 기일을 명시하고 실권을 경고하는 통지가 포함됩니다. 실권된 주주는 실권일 시점에 지급하여야 할 금액에 대해 여전히 책임을 집니다."
 
 verificationNeeded:
-  - "Minimum paid-up capital figures quoted for foreign-owned companies, WRT licensing and employment pass applications are set by KPDN, MIDA and Immigration, not by SSM — verify each against the responsible authority rather than a general figure"
-  - "Confirm current stamp duty treatment on transfers of shares in a Malaysian company before planning a restructuring"
+  - "외국인 소유 회사, WRT 라이선스 및 취업비자 신청에 인용되는 최소 납입자본 수치는 SSM이 아니라 KPDN·MIDA·이민국이 정합니다 — 일반적인 수치가 아니라 각각 담당 당국과 대조하여 확인하십시오"
+  - "구조조정을 계획하기 전에 말레이시아 회사 주식 양도에 대한 현행 인지세 처리를 확인하십시오"
 
 obligations:
-  - what: "Obtain prior members' approval before the directors allot shares or grant rights"
+  - what: "이사가 주식을 배정하거나 권리를 부여하기 전에 사원의 사전 승인을 받을 것"
     trigger: "change"
-    due: "Before the allotment"
+    due: "배정 전"
     authority: "SSM"
     statute: "Companies Act 2016, s.75"
-  - what: "Lodge the members' approval for an allotment"
+  - what: "배정에 대한 사원의 승인을 제출할 것"
     trigger: "change"
     withinDays: 14
-    due: "Within 14 days of the approval"
+    due: "승인 후 14일 이내"
     authority: "SSM"
     statute: "Companies Act 2016, s.76(2)"
-  - what: "Lodge a return of allotment with a statement of capital"
+  - what: "자본 명세서와 함께 배정 신고서를 제출할 것"
     trigger: "change"
     withinDays: 14
-    due: "Within 14 days of the allotment"
+    due: "배정 후 14일 이내"
     authority: "SSM"
     statute: "Companies Act 2016, s.78(1)"
-  - what: "Offer new equally ranking shares to existing shareholders first"
+  - what: "동순위 신주를 먼저 기존 주주에게 제공할 것"
     trigger: "change"
-    due: "Before issuing to a third party, subject to the constitution"
+    due: "정관에 따라, 제3자에게 발행하기 전"
     authority: "SSM"
     statute: "Companies Act 2016, s.85"
 

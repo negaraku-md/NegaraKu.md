@@ -12,24 +12,24 @@ contentType: "guide"
 
 answer: "무히딘 야신(Muhyiddin Yassin, 본명 Mahiaddin bin Md Yassin, 1947년 5월 15일 출생)은 말레이시아의 제8대 총리로, 2020년 3월 1일에 취임하고 2021년 8월 16일에 사임했습니다. 오랜 통일말레이국민조직(UMNO) 인사이자 전 부총리(2009~2015)였던 그는 2016년에 정당 브르사투(BERSATU)를 공동 창당했고, 2020년 2월 '셰라톤 무브(Sheraton Move)'가 희망연대(Pakatan Harapan) 정부를 무너뜨린 뒤 총리가 되었습니다. 그는 이동통제명령(Movement Control Order)과 2021년 국가 비상사태를 포함해 코로나19 팬데믹을 거치며 국민연합(Perikatan Nasional) 연합을 이끌었고, 과반 의석을 잃은 뒤 사임했습니다. 재임 기간은 약 17개월이었습니다. 이후 그는 야당 지도자로 활동을 이어 갔으며, 공적 기록상 법원 심리가 계속된 부패 혐의를 받았습니다."
 keyTakeaways:
-  - "Malaysia's 8th Prime Minister, 1 March 2020 – 16 August 2021 (about 17 months)."
-  - "Former Deputy Prime Minister (2009–2015) under Najib Razak; removed from that post in 2015."
-  - "Co-founded BERSATU in 2016 and led the Perikatan Nasional coalition."
-  - "Took office after the February 2020 'Sheraton Move' and governed through the COVID-19 pandemic."
-  - "Resigned in August 2021 after losing his parliamentary majority; later faced corruption charges that remained before the courts."
+  - "말레이시아 제8대 총리로, 2020년 3월 1일부터 2021년 8월 16일까지 약 17개월간 재임하였습니다."
+  - "나집 라작(Najib Razak) 밑에서 부총리(2009~2015년)를 지냈으며, 2015년 그 직에서 물러났습니다."
+  - "2016년 BERSATU를 공동 창당하였고 국민연합(Perikatan Nasional) 연합을 이끌었습니다."
+  - "2020년 2월 「셰라톤 무브(Sheraton Move)」 이후 취임하여 코로나19 팬데믹 기간에 국정을 이끌었습니다."
+  - "국회 과반을 잃은 뒤 2021년 8월 사임하였으며, 이후 법원에 계류된 부패 기소에 직면하였습니다."
 
 faq:
-  - q: "How did Muhyiddin Yassin become Prime Minister?"
-    a: "After the February 2020 'Sheraton Move', in which a bloc of MPs left the governing Pakatan Harapan coalition and it lost its majority. The Yang di-Pertuan Agong determined that Muhyiddin commanded majority support and appointed him; he was sworn in on 1 March 2020."
-  - q: "How long was he Prime Minister?"
-    a: "About 17 months — from 1 March 2020 to 16 August 2021 — one of the shortest premierships in Malaysian history."
-  - q: "Is 'Muhyiddin Yassin' his full name?"
-    a: "He is widely known as Muhyiddin Yassin; the name recorded on his identity card is Mahiaddin bin Md Yassin."
+  - q: "무히딘 야신은 어떻게 총리가 되었습니까?"
+    a: "한 무리의 국회의원들이 집권 희망연대(Pakatan Harapan) 연합을 떠나 그 연합이 과반을 잃은 2020년 2월 「셰라톤 무브(Sheraton Move)」 이후입니다. 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)은 무히딘이 과반의 지지를 받는다고 판단하여 그를 임명하였으며, 그는 2020년 3월 1일 취임하였습니다."
+  - q: "그는 얼마나 오래 총리로 재임하였습니까?"
+    a: "약 17개월입니다 — 2020년 3월 1일부터 2021년 8월 16일까지로 — 말레이시아 역사상 가장 짧은 총리 재임 가운데 하나입니다."
+  - q: "「무히딘 야신(Muhyiddin Yassin)」이 그의 본명입니까?"
+    a: "그는 무히딘 야신(Muhyiddin Yassin)으로 널리 알려져 있으나, 그의 신분증에 기재된 이름은 마히아딘 빈 Md 야신(Mahiaddin bin Md Yassin)입니다."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal review before publication. This biography refers to corruption and money-laundering charges (legal proceedings). These are stated only as public record, neutrally and without detail, and the status of the charges changed over 2023–2025 (an acquittal that was later reversed on appeal); the current status must be re-checked against primary court records and reviewed by a qualified reviewer before publication."
-  - "It also touches the February 2020 change of government and the King's appointment discretion (constitution/royalty). All characterisations are neutral and must be reviewed."
-  - "Exact dates (premiership, resignation, emergency period) to be confirmed against the Prime Minister's Office and official records."
+  - "민감 / 발행 전 사람과 법률 검토가 필요함. 이 전기는 부패 및 자금세탁 기소(법적 절차)를 언급합니다. 이는 오직 공적 기록으로서 중립적으로 그리고 세부 없이 기술되었으며, 기소의 상태는 2023~2025년에 걸쳐 바뀌었습니다(이후 항소로 뒤집힌 무죄 판결이 있었음); 현재 상태는 발행 전 1차 법원 기록과 다시 대조하고 자격을 갖춘 검토자의 검토를 거쳐야 합니다."
+  - "또한 2020년 2월 정부 교체와 국왕의 임명 재량(헌법/왕실)을 다룹니다. 모든 성격 규정은 중립적이며 검토를 거쳐야 합니다."
+  - "정확한 날짜(총리 재임, 사임, 비상사태 기간)는 총리실과 공식 기록과 대조하여 확인하여야 합니다."
 
 lang: "ko"
 sourceContentHash: "b981e60c4f8e26f9"

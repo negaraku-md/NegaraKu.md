@@ -14,32 +14,29 @@ sensitivity: "none"
 
 answer: "회사법(Companies Act 2016) s.68(1)에 따라 회사는 영업 여부나 휴면 여부를 불문하고 매년 설립일의 기념일부터 30일 이내에 말레이시아 기업위원회(SSM)에 연차신고서(annual return)를 제출해야 합니다. s.68(2)은 설립 역년(曆年)을 제외하므로, 최초 신고서는 첫해가 아니라 첫 기념일에 제출 기한이 됩니다. 이 신고서는 회사 상세정보의 스냅숏이며, 재무제표 및 세무신고서와는 별개입니다."
 keyTakeaways:
-  - "s.68(1): due within 30 days of the incorporation anniversary — not the calendar year and not the financial year end"
-  - "s.68(2): no annual return is due in the calendar year in which the company is incorporated"
-  - "The return confirms particulars only — it reports no profit, loss or tax"
-  - "Dormant and loss-making companies owe it in full"
-  - "s.68(9) exposes the company and every officer to a fine up to RM50,000, plus up to RM1,000 per day for a continuing offence"
-  - "s.68(8) lets the Registrar strike the company off under s.549 after three or more consecutive years of non-lodgement"
-appliesTo: "Directors and company secretaries of any Malaysian company, including dormant companies."
-
+  - "s.68(1): 설립 기념일부터 30일 이내에 제출 — 역년(曆年)이 아니고 회계연도 말도 아님"
+  - "s.68(2): 회사가 설립된 역년에는 연차신고서 제출 의무가 없음"
+  - "연차신고서는 명세만을 확인하며 — 이익·손실·세금은 보고하지 않음"
+  - "휴면회사와 손실 회사도 이를 전부 이행해야 함"
+  - "s.68(9)은 회사와 모든 임원에게 RM50,000 이하의 벌금과 계속 위반 시 1일당 RM1,000 이하의 벌금을 부과함"
+  - "s.68(8)은 3년 이상 연속 미제출 시 등기관이 s.549에 따라 회사를 말소할 수 있도록 함"
+appliesTo: "휴면회사를 포함한 모든 말레이시아 회사의 이사 및 회사 비서."
 faq:
-  - q: "When exactly is the annual return due?"
-    a: "Within 30 days of the anniversary of the date of incorporation, under s.68(1). A company incorporated on 14 March lodges by 13 April every year. It has nothing to do with the financial year end and nothing to do with 31 December."
-  - q: "Do we file an annual return in our first year?"
-    a: "No. Section 68(2) disapplies the requirement in the calendar year in which the company was incorporated. A company incorporated in August 2026 files nothing in 2026; its first annual return falls due 30 days after its August 2027 anniversary. This is one of the most commonly misstated points in Malaysian company guidance."
-  - q: "Is the annual return the same as filing accounts?"
-    a: "No, and they run on different clocks. The annual return is a particulars snapshot due off the incorporation anniversary under s.68. Financial statements are circulated to members within six months of financial year end under s.258(1)(a), then lodged with SSM within 30 days of circulation under s.259(1)(a). Meeting one does not satisfy the other."
-  - q: "Does a dormant company still have to file?"
-    a: "Yes. Section 68 makes no exception for dormancy, trading status or profitability. Dormancy can affect whether an audit is required, but it does not touch the annual return obligation."
-  - q: "What does it cost to lodge, and what does it cost to be late?"
-    a: "The lodgement fee under the ROC Table of Fees is RM150 for a private company and RM500 for a public company. Late lodgement attracts an administrative penalty under Practice Directive 1/2017 (revised 1 October 2024), which begins after seven days and rises through bands of RM50, RM100, RM150 and RM200 for a private company. That is separate from the s.68(9) statutory fine."
-  - q: "Can we get an extension of time?"
-    a: "SSM's extension of time framework under Practice Note 3/2018 is directed principally at the circulation and lodgement of financial statements and the holding of meetings. Do not plan around an extension for the annual return — the deadline is fixed and known a year in advance."
-
+  - q: "연차신고서는 정확히 언제 제출해야 합니까?"
+    a: "s.68(1)에 따라 설립일 기념일부터 30일 이내입니다. 3월 14일에 설립된 회사는 매년 4월 13일까지 제출합니다. 이는 회계연도 말과도, 12월 31일과도 무관합니다."
+  - q: "설립 첫해에도 연차신고서를 제출합니까?"
+    a: "아닙니다. s.68(2)은 회사가 설립된 역년에는 이 요건을 적용하지 않습니다. 2026년 8월에 설립된 회사는 2026년에는 아무것도 제출하지 않으며, 최초 연차신고서는 2027년 8월 기념일로부터 30일 후에 제출 기한이 도래합니다. 이는 말레이시아 회사 안내에서 가장 흔히 잘못 서술되는 점 중 하나입니다."
+  - q: "연차신고서는 계산서류 제출과 같은 것입니까?"
+    a: "아니며, 서로 다른 기한으로 운영됩니다. 연차신고서는 s.68에 따라 설립 기념일을 기준으로 제출하는 명세 스냅숏입니다. 재무제표는 s.258(1)(a)에 따라 회계연도 말부터 6개월 이내에 사원에게 배부되고, s.259(1)(a)에 따라 배부일부터 30일 이내에 SSM에 제출됩니다. 어느 하나를 이행한다고 다른 하나가 충족되지 않습니다."
+  - q: "휴면회사도 여전히 제출해야 합니까?"
+    a: "예. s.68은 휴면 상태, 영업 여부 또는 수익성에 대하여 어떠한 예외도 두지 않습니다. 휴면 여부는 감사 필요 여부에 영향을 줄 수 있으나, 연차신고서 의무에는 영향을 주지 않습니다."
+  - q: "제출 비용과 지연 시 비용은 얼마입니까?"
+    a: "ROC 수수료표(ROC Table of Fees)에 따른 제출 수수료는 비공개회사 RM150, 공개회사 RM500입니다. 지연 제출에는 실무지침 1/2017호(Practice Directive 1/2017, 2024년 10월 1일 개정)에 따른 행정 과태료가 부과되며, 이는 7일 후부터 시작되어 비공개회사의 경우 RM50, RM100, RM150, RM200의 구간으로 올라갑니다. 이는 s.68(9)의 법정 벌금과는 별개입니다."
+  - q: "기한 연장을 받을 수 있습니까?"
+    a: "실무지침 3/2018호(Practice Note 3/2018)에 따른 SSM의 기한연장 체계는 주로 재무제표의 배부·제출과 회의 개최를 대상으로 합니다. 연차신고서에 대해서는 연장을 전제로 계획을 세우지 마십시오 — 기한은 고정되어 있고 1년 전에 이미 알 수 있습니다."
 verificationNeeded:
-  - "Confirm the exact list of particulars required by s.68(3) against the Act text before reproducing it as a checklist"
-  - "Confirm what the Companies (Amendment) Act 2024 (Act A1701) changed in s.68, which is within its amending scope, and whether any change is yet in force"
-
+  - "체크리스트로 재현하기 전에 s.68(3)이 요구하는 명세의 정확한 목록을 법 조문과 대조하여 확인하십시오"
+  - "2024년 회사(개정)법(Companies (Amendment) Act 2024, Act A1701)이 그 개정 범위에 속하는 s.68에서 무엇을 변경했는지, 그리고 그 변경이 이미 시행 중인지 확인하십시오"
 lang: "ko"
 sourceContentHash: "333c372fcdca64b9"
 masterLanguage: "en"
@@ -58,14 +55,13 @@ revisions:
     reviewer: null
 
 obligations:
-  - what: "Lodge the annual return with SSM"
+  - what: "SSM에 연차신고서 제출"
     trigger: "anniversary"
     withinDays: 30
-    due: "Within 30 days of each anniversary of the date of incorporation, other than the calendar year of incorporation"
+    due: "설립 역년을 제외하고, 설립일 매 기념일부터 30일 이내"
     authority: "SSM"
     statute: "Companies Act 2016, s.68"
-    consequence: "s.68(9) fine up to RM50,000 on the company and every officer, plus up to RM1,000 per day; strike-off under s.68(8) after three or more consecutive years"
-
+    consequence: "s.68(9)에 따라 회사와 모든 임원에게 RM50,000 이하의 벌금과 1일당 RM1,000 이하; 3년 이상 연속 시 s.68(8)에 따른 말소"
 updated: 2026-07-20
 sources:
   - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"

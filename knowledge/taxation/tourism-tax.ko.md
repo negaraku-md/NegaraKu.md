@@ -14,22 +14,22 @@ sensitivity: "none"
 
 answer: "관광세(TTx)는 관광세법(Tourism Tax Act 2017)에 따라 말레이시아의 등록 숙박시설에 투숙하는 외국인 관광객에게 부과되는 객실당 1박당 정액 RM10의 세금입니다. 말레이시아 국민과 영주권자는 전액 면제됩니다. 이 세금은 말레이시아 왕립관세청(RMCD)이 관장하고, 객실이 5개 이상인 숙박시설 운영자가 징수하며, 2021년 개정이 디지털 플랫폼에 대해 2023년 1월 1일부터 발효된 이후로는 Agoda, Booking.com 같은 디지털 예약 플랫폼이 자사를 통해 이루어진 예약에 대해 이를 신고·납부할 책임이 있습니다. 전액은 MyTTx 포털을 통해 납부됩니다."
 keyTakeaways:
-  - "The rate is a flat RM10 per room per night, regardless of room price or hotel star rating"
-  - "Only foreign tourists pay; Malaysian citizens and permanent residents (MyPR holders) are exempt"
-  - "Operators must register once they let out 5 or more accommodation rooms"
-  - "Homestays, kampungstays and student accommodation registered with the relevant ministry are exempt from collecting TTx"
-  - "Since the Tourism Tax (Amendment) Act 2021 took effect for platforms on 1 January 2023, digital platforms are liable to account for TTx on bookings made through them"
-appliesTo: "Foreign travellers to Malaysia, hotel and accommodation operators, and online booking platforms."
+  - "세율은 객실 가격이나 호텔 등급과 관계없이 1박당 객실 1개에 정액 RM10입니다"
+  - "외국인 관광객만 납부하며, 말레이시아 시민권자와 영주권자(MyPR 보유자)는 면제됩니다"
+  - "사업자는 숙박 객실 5개 이상을 임대하면 등록해야 합니다"
+  - "관련 부처에 등록된 홈스테이, 캄풍스테이(kampungstay) 및 학생 숙소는 관광세(TTx) 징수가 면제됩니다"
+  - "관광세(개정)법(Tourism Tax (Amendment) Act 2021)이 플랫폼에 대해 2023년 1월 1일 발효된 이후, 디지털 플랫폼은 그를 통해 이루어진 예약에 대한 관광세(TTx)를 신고·납부할 책임이 있습니다"
+appliesTo: "말레이시아를 방문하는 외국인 여행자, 호텔 및 숙박업 사업자, 그리고 온라인 예약 플랫폼."
 
 faq:
-  - q: "Do Malaysians pay Tourism Tax?"
-    a: "No. Under the Tourism Tax (Exemption) Order 2017, Malaysian citizens and permanent residents who hold a MyPR card are exempt from paying TTx at any accommodation premises."
-  - q: "How much is the Tourism Tax in Malaysia?"
-    a: "A flat RM10 per room, per night. It does not scale with the room rate — a RM90 guesthouse room and a RM900 suite both attract the same RM10."
-  - q: "If I book through Agoda, do I pay Tourism Tax again at check-in?"
-    a: "No. If the platform already collected TTx when you paid, the operator should not charge it again — provided you can show proof that the tax was paid. Tax is charged once per booking, not twice."
-  - q: "Are small guesthouses required to charge Tourism Tax?"
-    a: "Only operators letting out five or more rooms must register and collect TTx. An operator with four rooms or fewer is not liable to register."
+  - q: "말레이시아인은 관광세를 냅니까?"
+    a: "내지 않습니다. Tourism Tax (Exemption) Order 2017에 따라, 말레이시아 시민권자와 MyPR 카드를 소지한 영주권자는 어떤 숙박 시설에서도 관광세(TTx) 납부가 면제됩니다."
+  - q: "말레이시아의 관광세는 얼마입니까?"
+    a: "1박당 객실 1개에 정액 RM10입니다. 객실 요금에 비례하지 않으며 — RM90짜리 게스트하우스 객실과 RM900짜리 스위트룸 모두 동일한 RM10이 부과됩니다."
+  - q: "아고다(Agoda)를 통해 예약하면 체크인할 때 관광세를 다시 냅니까?"
+    a: "내지 않습니다. 결제 시 플랫폼이 이미 관광세(TTx)를 징수했다면, 세금이 납부되었다는 증빙을 제시할 수 있는 한 사업자가 이를 다시 부과해서는 안 됩니다. 세금은 예약당 한 번 부과되며 두 번 부과되지 않습니다."
+  - q: "소규모 게스트하우스도 관광세를 부과해야 합니까?"
+    a: "객실 5개 이상을 임대하는 사업자만 등록하고 관광세(TTx)를 징수해야 합니다. 객실이 4개 이하인 사업자는 등록할 의무가 없습니다."
 
 lang: "ko"
 sourceContentHash: "f102342b25c63a8e"
@@ -49,7 +49,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Currency of the General Guide on Tourism Tax PDF — it predates the 2021 DPSP regime; confirm figures (RM10 rate, 5-room threshold, penalties, forms) remain current."
+  - "관광세 일반 안내서(General Guide on Tourism Tax) PDF의 최신성 — 이는 2021년 디지털 플랫폼 서비스 제공자(DPSP) 제도보다 앞섬; 수치(RM10 세율, 객실 5개 기준, 벌칙, 서식)가 현재도 유효한지 확인할 것."
 updated: 2026-08-07
 sources:
   - title: "General Guide on Tourism Tax"
