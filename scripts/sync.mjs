@@ -63,8 +63,9 @@ async function main() {
     // scale as its English master, not by naive whitespace splitting.
     //   • SPACE-DELIMITED scripts — Latin, Tamil (U+0B80–0BFF), Korean Hangul
     //     (U+AC00–D7AF) — count one per whitespace token, like English.
-    //   • UNSPACED scripts — Chinese ideographs (U+3400–9FFF) and Japanese kana
-    //     (U+3040–30FF) — have no spaces, so count CHARACTERS, scaled to ~0.6 of
+    //   • UNSPACED scripts — Chinese ideographs (U+3400–9FFF), Japanese kana
+    //     (U+3040–30FF) and Thai (U+0E00–0E7F) — have no spaces, so count
+    //     CHARACTERS, scaled to ~0.6 of
     //     an English word (charging 1/char overstates them ~1.65x and pushed
     //     faithful translations out of their declared tier band).
     // A pure-Tamil/Hangul word contains no [A-Za-z0-9], so before this it scored
@@ -72,7 +73,7 @@ async function main() {
     // counts are unchanged (they carry no Tamil/Hangul/kana codepoints).
     const CJK_PER_WORD = 0.6;
     const countWords = (text) => {
-      const cjk = (text.match(/[぀-ヿ㐀-鿿]/g) ?? []).length;
+      const cjk = (text.match(/[぀-ヿ㐀-鿿฀-๿]/g) ?? []).length;
       const spaced = text
         .trim()
         .split(/\s+/)

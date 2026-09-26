@@ -209,19 +209,23 @@ export default defineConfig({
   },
   i18n: {
     defaultLocale: 'ms',
-    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko'],
+    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th'],
     routing: {
-      prefixDefaultLocale: false, // ms lives at "/", en at "/en", zh at "/zh", ta at "/ta", ja at "/ja", ko at "/ko"
+      prefixDefaultLocale: false, // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th
     },
   },
   integrations: [
     mdx(),
     sitemap({
-      // ms/en/zh/ta/ja/ko are all fully launched (in LOCALES, indexed, in this sitemap).
-      // Korean open-launched 2026-09-26 (was soft-launched/noindex 2026-09-25).
+      // ms/en/zh/ta/ja/ko are fully launched (in LOCALES, indexed, in this sitemap).
+      // Thai (`th`) is SOFT-LAUNCHED (Phase 0): its routes/chrome build for preview
+      // but it is held OUT of LOCALES (→ noindex) and out of this sitemap via the
+      // filter below, until its corpus + chrome are launch-ready. Remove the filter
+      // + add th to the locales map here (and to LOCALES in i18n.ts) at open launch.
+      filter: (page) => !/\/th(\/|$)/.test(page),
       i18n: {
         defaultLocale: 'ms',
-        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko' },
+        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th' },
       },
       serialize(item) {
         const lastmod = lastmodFor(item.url);

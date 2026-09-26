@@ -31,7 +31,7 @@ import matter from 'gray-matter';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const KNOWLEDGE = path.join(ROOT, 'knowledge');
 const DOCS = path.join(ROOT, 'docs');
-const LOCALES = ['ms', 'en', 'zh', 'ta', 'ja', 'ko'];
+const LOCALES = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th'];
 
 const arg = (name) =>
   process.argv.includes(name) ? process.argv[process.argv.indexOf(name) + 1] : null;
@@ -61,7 +61,7 @@ async function walk(dir) {
     const full = path.join(dir, e.name);
     if (e.isDirectory()) out.push(...(await walk(full)));
     // Master files are the bare `<slug>.md` (no `.en`/`.zh`/`.ms` locale suffix).
-    else if (e.name.endsWith('.md') && !/\.(ms|en|zh|ta|ja)\.md$/.test(e.name)) out.push(full);
+    else if (e.name.endsWith('.md') && !/\.(ms|en|zh|ta|ja|ko|th)\.md$/.test(e.name)) out.push(full);
   }
   return out;
 }
