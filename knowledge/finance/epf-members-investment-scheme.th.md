@@ -1,0 +1,117 @@
+---
+topicId: MY-FIN-0007
+title: "โครงการลงทุนสำหรับสมาชิก EPF: การลงทุนเงินออม EPF ของคุณเอง"
+seoTitle: "EPF i-Invest: วิธีลงทุนเงินออม EPF ของคุณ (โครงการลงทุนสำหรับสมาชิก)"
+slug: "epf-members-investment-scheme"
+category: "finance"
+subcategory: ["retirement"]
+summary: "สมาชิก EPF ที่มีสิทธิ์สามารถย้ายเงินออมเพื่อการเกษียณส่วนหนึ่งเข้าสู่กองทุนรวมที่ได้รับอนุมัติผ่านโครงการลงทุนสำหรับสมาชิก (Members Investment Scheme) ซึ่งดำเนินการออนไลน์ผ่านเครื่องมือ i-Invest ใน i-Akaun"
+
+tier: "3"
+mode: "practical"
+contentType: "faq"
+sensitivity: "none"
+
+answer: "โครงการลงทุนสำหรับสมาชิก EPF (Members Investment Scheme, ทำการตลาดในชื่อ i-Invest ภายใน i-Akaun) ให้สมาชิกที่มีสิทธิ์โอนได้สูงสุด 30% ของเงินออมที่ถือครองเหนือเกณฑ์เงินออมพื้นฐาน (Basic Savings) ตามอายุใน Akaun Persaraan เข้าสู่กองทุนรวมที่ได้รับอนุมัติจาก EPF ขั้นต่ำต่อธุรกรรมคือ RM1,000 จำนวนที่มีสิทธิ์ใช้ได้ครั้งละสามเดือน และการซื้อออนไลน์ผ่าน i-Invest จำกัดค่าธรรมเนียมการขายไว้ที่ 0.5%"
+keyTakeaways:
+  - "คุณสามารถลงทุนได้เฉพาะส่วนของเงินออมใน Akaun Persaraan ที่อยู่เหนือจำนวนเงินออมพื้นฐาน (Basic Savings) ของคุณ และเพียง 30% ของส่วนเกินนั้น"
+  - "การลงทุนขั้นต่ำคือ RM1,000 ต่อธุรกรรม และจำนวนที่มีสิทธิ์ของคุณใช้ได้ครั้งละสามเดือนก่อนจะได้รับการคำนวณใหม่"
+  - "การลงทุนผ่านแพลตฟอร์มออนไลน์ i-Invest จำกัดค่าธรรมเนียมการขายไว้ที่ 0.5% เทียบกับสูงถึง 3% ผ่านตัวแทนแบบดั้งเดิม"
+  - "เงินออมพื้นฐาน (Basic Savings) เพิ่มขึ้นตามอายุจนถึง RM390,000 ที่อายุ 60 ปีภายใต้ตารางที่มีผลตั้งแต่วันที่ 1 มกราคม 2026 ดังนั้นสมาชิกจึงรักษาฐานเงินเกษียณที่ได้รับการคุ้มครองไว้"
+appliesTo: "สมาชิก EPF ที่มีอายุ 18 ถึงต่ำกว่า 55 ปีซึ่งมีเงินออมเหนือเกณฑ์เงินออมพื้นฐาน (Basic Savings) และต้องการจัดการส่วนหนึ่งด้วยตนเองเข้าสู่กองทุนรวม"
+
+faq:
+  - q: "ใครมีสิทธิ์ลงทุนภายใต้โครงการลงทุนสำหรับสมาชิก?"
+    a: "สมาชิก EPF ที่มีอายุตั้งแต่ 18 ถึงต่ำกว่า 55 ปีซึ่งเงินออมใน Akaun Persaraan เกินจำนวนเงินออมพื้นฐาน (Basic Savings) ที่กำหนดตามอายุของตน สมาชิกที่มีอายุ 55 ปีขึ้นไปลงทุนผ่านทางเลือกการถอนเพื่อการลงทุนอายุ 55/60 (Age 55/60 Withdrawal Investment) แทน"
+  - q: "ฉันสามารถลงทุนเงินออม EPF ได้เท่าไร?"
+    a: "สูงสุด 30% ของจำนวนใน Akaun Persaraan ที่เกินเกณฑ์เงินออมพื้นฐาน (Basic Savings) ของคุณ การคำนวณคือ (ยอดคงเหลือ Akaun Persaraan ลบด้วย Basic Savings) คูณด้วย 30%"
+  - q: "ขั้นต่ำที่ฉันลงทุนได้คือเท่าไรและบ่อยแค่ไหน?"
+    a: "ขั้นต่ำคือ RM1,000 ต่อธุรกรรม จำนวนที่มีสิทธิ์ของคุณใช้ได้ครั้งละสามเดือน ดังนั้นในทางปฏิบัติคุณสามารถโอนใหม่ได้เมื่อช่วงเวลานั้นสิ้นสุดลง"
+
+lang: "th"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-01
+    change: "Approved and published."
+    reviewer: null
+
+verificationNeeded:
+  - "Exact Basic Savings schedule figures and any phase-in timeline for the RM390,000-at-age-60 target under the schedule effective 1 January 2026 (KWSP publishes a full by-age table that a human should confirm against the live i-Akaun calculator)."
+  - "Whether the RM1,625/month and 20-year (age 60 to 80) assumptions behind Basic Savings are still the current KWSP framing at time of review."
+  - "Current maximum agent sales charge (the '3%' baseline is the standard pre-promotion cap; confirm no permanent reduction has since taken effect)."
+  - "Sensitivity/tier classification: this directs retirement money into market-linked funds; a human editor should review whether tier 3 / sensitivity 'none' remains appropriate and whether the framing is fully neutral."
+
+updated: 2026-08-01
+sources:
+  - title: "i-Invest: Member Investment Scheme"
+    url: "https://www.kwsp.gov.my/en/member/savings/i-invest"
+    publisher: "Employees Provident Fund (KWSP)"
+  - title: "EPF Launches i-Invest Online Platform Enabling Unit Trust Investment Directly From EPF Account"
+    url: "https://www.kwsp.gov.my/en/w/epf-launches-i-invest-online-platform-enabling-unit-trust-investment-directly-from-epf-account"
+    publisher: "Employees Provident Fund (KWSP)"
+  - title: "Members Investment Scheme (MIS) — Eligibility Leaflet"
+    url: "https://www.kwsp.gov.my/documents/d/guest/a19_en_members-investment-scheme-mis-005"
+    publisher: "Employees Provident Fund (KWSP)"
+  - title: "Employees Provident Fund (EPF) — Members Investment Scheme FAQ"
+    url: "https://www.eunittrust.com.my/Home/EPFFaq"
+    publisher: "Eastspring Investments (EPF-appointed fund management institution)"
+  - title: "EPF Announces Fee Reductions For EPF Members Investment Scheme"
+    url: "https://www.malaymail.com/news/malaysia/2020/04/30/epf-announces-fee-reductions-for-epf-members-investment-scheme/1861785"
+    publisher: "Malay Mail"
+
+entity: "EPF Members Investment Scheme"
+relations:
+  - { rel: "administered-by", to: "employees-provident-fund" }
+  - { rel: "related-to", to: "epf-akaun-persaraan" }
+related: []
+keywords: ["EPF i-Invest", "Members Investment Scheme", "KWSP MIS", "invest EPF savings", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+---
+
+เงินออม EPF ของคุณไม่จำเป็นต้องอยู่ในที่เดียวและได้รับเพียงเงินปันผลรายปี หากคุณสะสมได้มากกว่าฐานเงินเกษียณที่ EPF กำหนด คุณได้รับอนุญาตให้นำส่วนหนึ่งที่วัดได้ไปลงในกองทุนรวม — และตั้งแต่ปี 2019 คุณสามารถทำเองได้ ออนไลน์ โดยไม่ต้องมีตัวแทน
+
+นั่นคือสิ่งที่โครงการลงทุนสำหรับสมาชิก (Members Investment Scheme, MIS) เป็น ภายใน i-Akaun ของคุณ มันปรากฏเป็นเครื่องมือ **i-Invest** ซึ่งเป็นด้านที่สมาชิกจัดการเองของโครงการที่คุณเลือกกองทุนและวางคำสั่งซื้อ มันเป็นทางเลือกหนึ่งในหลายทาง — การปล่อยเงินออมไว้กับ EPF เพื่อรับเงินปันผลรายปีเป็นอีกทางหนึ่ง
+
+## ใครใช้ได้บ้าง?
+
+โครงการเปิดสำหรับสมาชิก EPF ที่มีอายุตั้งแต่ **18 ถึงต่ำกว่า 55 ปี** ซึ่งถือครองเงินออมเหนือเกณฑ์เงินออมพื้นฐาน (Basic Savings) ของตน สมาชิกที่มีอายุ 55 ปีขึ้นไปไม่ใช้ MIS อีกต่อไป — พวกเขาลงทุนผ่านเส้นทางการถอนเพื่อการลงทุนอายุ 55/60 (Age 55/60 Withdrawal Investment) แทน
+
+เงินออมพื้นฐาน (Basic Savings) คือฐานที่ได้รับการคุ้มครอง กำหนดตามอายุและเพิ่มขึ้นเรื่อย ๆ: ภายใต้ตารางเงินออมพื้นฐานที่มีผลตั้งแต่วันที่ 1 มกราคม 2026 จำนวนสะสมขึ้นไปถึง **RM390,000 ที่อายุ 60 ปี** — ระดับที่ EPF วางกรอบว่าเพียงพอสำหรับประมาณ RM1,625 ต่อเดือนตลอด 20 ปีของการเกษียณ (อายุ 60 ถึง 80 ปี) เฉพาะสิ่งที่คุณถือครอง*เหนือ*ฐานที่กำหนดตามอายุของคุณเท่านั้นที่อยู่ในเกม
+
+## ฉันลงทุนได้จริงเท่าไร?
+
+ไม่ใช่ทั้งหมดที่เหนือฐาน กฎคือ **30% ของส่วนเกิน**:
+
+| ขั้นตอน | ตัวเลข (เพื่อการอธิบายเท่านั้น) |
+| --- | --- |
+| ยอดคงเหลือ Akaun Persaraan | RM100,000 |
+| หัก: เงินออมพื้นฐาน (Basic Savings) ตามอายุของคุณ | RM40,000 |
+| ส่วนเกิน | RM60,000 |
+| มีสิทธิ์ลงทุน (30% ของส่วนเกิน) | RM18,000 |
+
+ตัวเลขข้างต้นเป็นตัวอย่าง ไม่ใช่กรณีของคุณ เงินออมพื้นฐาน (Basic Savings) ขึ้นอยู่กับอายุที่แท้จริงของคุณและเพิ่มขึ้นไปสู่ตัวเลข RM390,000 ที่อายุ 60 ปี ดังนั้นบรรทัด "หักเงินออมพื้นฐาน" จะแตกต่างกันไปสำหรับคุณ ขีดจำกัดที่แน่นอนสองประการใช้กับทุกคน:
+
+- **ขั้นต่ำ RM1,000** ต่อธุรกรรม
+- จำนวนที่มีสิทธิ์ของคุณ **ใช้ได้ครั้งละสามเดือน** เมื่อหน้าต่างนั้นสิ้นสุดลง ตัวเลขจะได้รับการคำนวณใหม่เทียบกับยอดคงเหลือปัจจุบันและเงินออมพื้นฐานของคุณ — ดังนั้นในทางปฏิบัติคุณสามารถโอนใหม่ได้ประมาณทุกสามเดือน ไม่ใช่อย่างต่อเนื่อง
+
+## i-Invest เทียบกับตัวแทน
+
+ความแตกต่างในทางปฏิบัติหลักคือต้นทุน การซื้อกองทุนที่ได้รับอนุมัติเดียวกันผ่านแพลตฟอร์มออนไลน์ i-Invest จำกัด **ค่าธรรมเนียมการขายไว้ที่ 0.5%** ของธุรกรรม เทียบกับสูงถึง **3%** ผ่านช่องทางตัวแทนแบบดั้งเดิม กองทุนเองมาจากรายการที่ EPF อนุมัติและทบทวน กระจายไปตามสถาบันจัดการกองทุนในคณะกรรมการ; การเลือกกองทุนเป็นของคุณไม่ว่าจะทางใด
+
+## สิ่งที่มันไม่ได้ทำ
+
+MIS ไม่ใช่การถอนและไม่ใช่การรับประกัน เงินยังคงอยู่ภายในกรอบ EPF — คุณกำลังสลับส่วนหนึ่งของเงินออมจากผลตอบแทนของ EPF เองไปยังกองทุนที่เชื่อมโยงกับตลาดซึ่งสามารถลดลงได้เช่นเดียวกับที่เพิ่มขึ้น ไม่มีผลตอบแทนที่สัญญาไว้ และผลการดำเนินงานของกองทุนที่ไม่ดีอาจทำให้คุณเหลือน้อยกว่าเงินปันผลที่คุณจะได้รับจากการปล่อยเงินออมไว้กับ EPF การแลกเปลี่ยนนั้นคือประเด็นทั้งหมดของการตัดสินใจ และมันตัดได้ทั้งสองทาง
+
+## อ่านต่อ
+
+- เข้าสู่ระบบ i-Akaun และเปิด **i-Invest** เพื่อดูจำนวนที่มีสิทธิ์ของคุณเอง — มันถูกคำนวณให้คุณแล้ว ดังนั้นคุณไม่ต้องคำนวณเงินออมพื้นฐาน (Basic Savings) ด้วยมือ
+- เปรียบเทียบกองทุนในรายการที่ได้รับอนุมัติของ EPF ตรวจสอบค่าธรรมเนียมและผลการดำเนินงานในอดีตของแต่ละกองทุน และชั่งน้ำหนักเทียบกับการเก็บเงินออมไว้ใน EPF เฉย ๆ
+- กลับมาทบทวนหลังสามเดือน เมื่อหน้าต่างสิทธิ์ของคุณได้รับการคำนวณใหม่ แทนที่จะสันนิษฐานว่าตัวเลขของไตรมาสที่แล้วยังคงใช้ได้

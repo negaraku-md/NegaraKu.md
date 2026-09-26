@@ -1,0 +1,154 @@
+---
+topicId: MY-FIN-0014
+title: "คณะกรรมการกำกับหลักทรัพย์มาเลเซีย: ภารกิจและอำนาจการกำกับดูแล"
+seoTitle: "คณะกรรมการกำกับหลักทรัพย์มาเลเซีย (SC): ภารกิจ อำนาจ และสิ่งที่กำกับดูแล"
+slug: "securities-commission-malaysia"
+category: "finance"
+subcategory: ["regulator"]
+summary: "คณะกรรมการกำกับหลักทรัพย์มาเลเซีย (Securities Commission Malaysia, SC) คือหน่วยงานกำกับดูแลตลาดทุนของมาเลเซียตามกฎหมาย จัดตั้งขึ้นภายใต้ Securities Commission Act 1993 และรายงานต่อรัฐมนตรีว่าการกระทรวงการคลัง"
+
+tier: "4"
+mode: "practical"
+contentType: "agency"
+sensitivity: "none"
+
+answer: "คณะกรรมการกำกับหลักทรัพย์มาเลเซีย (Securities Commission Malaysia, SC) เป็นองค์กรตามกฎหมายที่จัดหาเงินทุนด้วยตนเอง จัดตั้งขึ้นเมื่อวันที่ 1 มีนาคม 1993 ภายใต้ Securities Commission Act 1993 เพื่อกำกับดูแลและพัฒนาตลาดทุนของมาเลเซีย มันออกใบอนุญาตและกำกับดูแลผู้เข้าร่วมตลาด กำกับดูแลตลาดหลักทรัพย์ กองทุนรวม ผู้จัดการกองทุน และช่องทางใหม่ ๆ เช่น equity crowdfunding และการเงินแบบ peer-to-peer และรายงานต่อรัฐมนตรีว่าการกระทรวงการคลัง ธนาคาร บริษัทประกัน และการคุ้มครองเงินฝากอยู่นอกขอบเขตอำนาจของมัน — สิ่งเหล่านั้นตกอยู่กับธนาคารกลางมาเลเซีย (Bank Negara Malaysia) และ PIDM"
+keyTakeaways:
+  - "SC จัดตั้งขึ้นเมื่อวันที่ 1 มีนาคม 1993 ภายใต้ Securities Commission Act 1993 (SCA)"
+  - "มันบริหาร SCA, Capital Markets and Services Act 2007 (CMSA) และ Securities Industry (Central Depositories) Act 1991"
+  - "มาตรา 15 ของ SCA กำหนดหน้าที่ตามกฎหมาย 14 ประการ ตั้งแต่การให้คำปรึกษาแก่รัฐมนตรีไปจนถึงการออกใบอนุญาตผู้เข้าร่วมตลาดและการปราบปรามการประพฤติมิชอบในตลาด"
+  - "SC นำเสนอกรอบ equity crowdfunding มีผลตั้งแต่วันที่ 10 กุมภาพันธ์ 2015 และกรอบการเงินแบบ peer-to-peer ในเดือนเมษายน 2016"
+  - "ธนาคาร บริษัทประกัน ตะกาฟุล และการคุ้มครองเงินฝากกำกับดูแลโดยธนาคารกลางมาเลเซีย (Bank Negara Malaysia) และ PIDM ไม่ใช่ SC"
+appliesTo: "นักลงทุน ผู้ออกหลักทรัพย์ ตัวกลางในตลาดทุน ผู้ประกอบการฟินเทค และนักวิจัยที่ต้องรู้ว่า SC กำกับดูแลอะไรและขอบเขตอำนาจสิ้นสุดที่ใด"
+
+faq:
+  - q: "คณะกรรมการกำกับหลักทรัพย์มาเลเซียจัดตั้งขึ้นเมื่อใดและภายใต้กฎหมายใด?"
+    a: "SC จัดตั้งขึ้นเมื่อวันที่ 1 มีนาคม 1993 ภายใต้ Securities Commission Act 1993 ในฐานะองค์กรตามกฎหมายที่จัดหาเงินทุนด้วยตนเองซึ่งกำกับดูแลและพัฒนาตลาดทุนของมาเลเซีย"
+  - q: "คณะกรรมการกำกับหลักทรัพย์กำกับดูแลธนาคารหรือไม่?"
+    a: "ไม่ ธนาคาร บริษัทประกัน และผู้ประกอบการตะกาฟุลอยู่ในการกำกับดูแลของธนาคารกลางมาเลเซีย (Bank Negara Malaysia) และเงินฝากและผลประโยชน์ประกันภัย/ตะกาฟุลได้รับการคุ้มครองโดย PIDM ขอบเขตอำนาจของ SC คือตลาดทุน — หลักทรัพย์ อนุพันธ์ การจัดการกองทุน ตลาดหลักทรัพย์ และผลิตภัณฑ์ที่เกี่ยวข้อง"
+  - q: "SC รายงานต่อใคร?"
+    a: "ภายใต้ SCA SC รายงานต่อรัฐมนตรีว่าการกระทรวงการคลัง และบัญชีของมันถูกเสนอต่อรัฐสภาเป็นประจำทุกปี"
+  - q: "SC กำกับดูแล equity crowdfunding และการเงิน P2P หรือไม่?"
+    a: "ใช่ SC นำเสนอกรอบ equity crowdfunding (มีผลตั้งแต่วันที่ 10 กุมภาพันธ์ 2015) และกรอบการเงินแบบ peer-to-peer (เมษายน 2016) ทั้งสองดำเนินการเป็นตลาดที่ได้รับการรับรอง (recognised markets) ภายใต้กฎของมัน"
+
+lang: "th"
+masterLanguage: "en"
+translationStatus: "pending"
+
+status: "draft"
+aiAssisted: true
+reviewer: null
+reviewed: 2026-08-03
+reviewDue: 2027-08-03
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-08-01
+    change: "Approved and published."
+    reviewer: null
+
+verificationNeeded:
+  - "Whether the SC's equity crowdfunding framework was in fact the first in ASEAN — widely reported by third parties but NOT asserted in the cited SC primary source; claim was removed pending a first-party confirmation."
+  - "Current number and list of registered digital-asset exchange (DAX) operators — the SC register changes over time (five listed as of the SC page's 20 July 2026 update)."
+  - "The RM50,000 P2P retail-investor exposure figure is investor guidance rather than a hard statutory cap — confirm current SC guidance."
+  - "Governance detail (Executive Chairman and Minister-appointed members) is current."
+updated: 2026-08-01
+sources:
+  - title: "About the SC"
+    url: "https://www.sc.com.my/about/about-the-sc"
+    publisher: "Securities Commission Malaysia"
+  - title: "Securities Commission Malaysia — Overview"
+    url: "https://www.sc.com.my/about"
+    publisher: "Securities Commission Malaysia"
+  - title: "Regulation"
+    url: "https://www.sc.com.my/regulation"
+    publisher: "Securities Commission Malaysia"
+  - title: "Securities Commission Act 1993, Section 15 — Functions of the Commission (official statute text)"
+    url: "https://www.ssm.com.my/acts/fscommand/a0498s0015.htm"
+    publisher: "Percetakan Nasional Malaysia Berhad (PNMB-LawNet), hosted on ssm.com.my"
+  - title: "SC releases new Guidelines to facilitate equity crowdfunding"
+    url: "https://www.sc.com.my/resources/media/media-release/sc-releases-new-guidelines-to-facilitate-equity-crowdfunding"
+    publisher: "Securities Commission Malaysia"
+  - title: "SC introduces regulatory framework to facilitate peer-to-peer financing"
+    url: "https://www.sc.com.my/resources/media/media-release/sc-introduces-regulatory-framework-to-facilitate-peer-to-peer-financing"
+    publisher: "Securities Commission Malaysia"
+  - title: "List of Registered Digital Asset Exchanges — Recognized Markets"
+    url: "https://www.sc.com.my/regulation/guidelines/recognizedmarkets/list-of-registered-digital-asset-exchanges"
+    publisher: "Securities Commission Malaysia"
+  - title: "About PIDM"
+    url: "https://www.pidm.gov.my/general/faqs/about-pidm"
+    publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+
+entity: "Securities Commission Malaysia"
+wikidata: "Q7444145"
+relations:
+  - { rel: "governs", to: "bursa-malaysia" }
+  - { rel: "compares-with", to: "bank-negara-malaysia" }
+  - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
+related: ["bursa-malaysia", "bank-negara-malaysia"]
+keywords: ["securities commission malaysia", "SC Malaysia", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "equity crowdfunding", "P2P financing"]
+---
+
+เมื่อคุณซื้อกองทุนรวม ลงทุนผ่านแพลตฟอร์ม equity crowdfunding หรือซื้อขายหุ้นใน Bursa Malaysia มีองค์กรหนึ่งที่กำหนดกฎเบื้องหลังทั้งหมดนั้น: คณะกรรมการกำกับหลักทรัพย์มาเลเซีย (Securities Commission Malaysia) มันคือผู้เฝ้าประตูตามกฎหมายรายเดียวสำหรับตลาดทุนของประเทศ — และการรู้อย่างชัดเจนว่าอำนาจของมันเริ่มและสิ้นสุดที่ใดช่วยประหยัดความสับสนได้มาก
+
+## คณะกรรมการกำกับหลักทรัพย์มาเลเซียคืออะไร?
+
+SC เป็นองค์กรตามกฎหมายที่จัดหาเงินทุนด้วยตนเอง จัดตั้งขึ้นเมื่อวันที่ 1 มีนาคม 1993 ภายใต้ Securities Commission Act 1993 (SCA) หน้าที่ของมันในคำของมันเองคือ "การกำกับดูแลและพัฒนาตลาดทุนของมาเลเซีย" — ตลาดที่บริษัทระดมทุนระยะยาวและที่นักลงทุนซื้อหลักทรัพย์ อนุพันธ์ และผลิตภัณฑ์ตลาดทุน
+
+ภายใต้ SCA SC รายงานต่อรัฐมนตรีว่าการกระทรวงการคลัง และบัญชีของมันถูกเสนอต่อรัฐสภาทุกปี เนื่องจากมันจัดหาเงินทุนด้วยตนเอง (ส่วนใหญ่ผ่านค่าธรรมเนียมและค่าใช้จ่ายในตลาด) มันจึงไม่ได้ใช้งบประมาณรัฐบาลประจำปีแบบที่หน่วยงานกระทรวงจะใช้ มันนำโดยประธานบริหาร (Executive Chairman) และสมาชิกที่แต่งตั้งโดยรัฐมนตรี
+
+## SC บริหารกฎหมายใดบ้าง?
+
+SC ไม่ได้ดำเนินการบนกฎหมายฉบับเดียว มันบริหารพระราชบัญญัติหลักสามฉบับ แต่ละฉบับครอบคลุมส่วนที่แตกต่างกันของตลาด
+
+| กฎหมาย | จุดเน้น |
+| --- | --- |
+| Securities Commission Act 1993 (SCA) | จัดตั้ง SC; กำหนดหน้าที่ อำนาจ และอำนาจการบังคับใช้ |
+| Capital Markets and Services Act 2007 (CMSA) | กำกับดูแลกิจกรรมตลาดทุน: การออกใบอนุญาต การระดมทุน ผลิตภัณฑ์ การประพฤติในตลาด |
+| Securities Industry (Central Depositories) Act 1991 (SICDA) | กำกับดูแลระบบศูนย์รับฝากหลักทรัพย์กลางสำหรับการถือครองและการโอนหลักทรัพย์ |
+
+ควบคู่ไปกับสิ่งเหล่านี้ SC ออกแนวปฏิบัติโดยละเอียด — สำหรับผลิตภัณฑ์ตราสารทุน ผลิตภัณฑ์ตลาดทุนอิสลาม ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (REITs) ศุกูก และตลาดที่ได้รับการรับรอง — ที่มัน "ปรับปรุงและบังคับใช้อย่างต่อเนื่อง"
+
+## มาตรา 15 ของ SCA กำหนดให้ SC ทำอะไร?
+
+มาตรา 15 ของ SCA ระบุหน้าที่ตามกฎหมาย 14 ประการ เมื่อรวมกัน พวกมันนิยามบทบาทคู่ของ SC ในฐานะทั้งผู้กำกับดูแลและผู้พัฒนาตลาด หน้าที่สำคัญรวมถึง:
+
+- ให้คำปรึกษาแก่รัฐมนตรีในทุกเรื่องที่เกี่ยวข้องกับอุตสาหกรรมหลักทรัพย์และสัญญาซื้อขายล่วงหน้า
+- กำกับดูแลทุกเรื่องที่เกี่ยวข้องกับหลักทรัพย์และสัญญาซื้อขายล่วงหน้า
+- กำกับดูแลการเข้าซื้อกิจการและการควบรวมบริษัท
+- กำกับดูแลโครงการกองทุนรวม
+- ดูแลและติดตามตลาดหลักทรัพย์ สำนักหักบัญชี และศูนย์รับฝากหลักทรัพย์กลาง
+- ออกใบอนุญาตและกำกับดูแลบุคคลที่ได้รับใบอนุญาต
+- ส่งเสริมการกำกับดูแลตนเองโดยสมาคมวิชาชีพ
+- ปราบปรามการปฏิบัติที่ผิดกฎหมาย ไม่มีเกียรติ และไม่เหมาะสมในการซื้อขายหลักทรัพย์และสัญญาซื้อขายล่วงหน้า และรักษาความเชื่อมั่นของนักลงทุน
+
+## อะไรอยู่ภายในขอบเขตอำนาจของ SC?
+
+ในทางปฏิบัติ เขตอำนาจของ SC ครอบคลุมห่วงโซ่ตลาดทุนทั้งหมด — สถานที่ ตัวกลาง ผลิตภัณฑ์ และการประพฤติ
+
+- **ตลาดหลักทรัพย์และโครงสร้างพื้นฐาน** — Bursa Malaysia และหน่วยงานการหักบัญชีและศูนย์รับฝากของมัน
+- **ตัวกลาง** — บริษัทจัดการกองทุน ผู้ค้า ที่ปรึกษา และบุคคลที่ได้รับใบอนุญาตตาม CMSA อื่น ๆ
+- **การลงทุนแบบรวมกลุ่ม** — กองทุนรวม REITs และผลิตภัณฑ์ที่บริหารจัดการอื่น ๆ
+- **การระดมทุนและการเปิดเผยข้อมูล** — IPO หุ้นกู้เอกชน ศุกูก และกฎการเข้าซื้อกิจการ
+- **ตลาดที่ได้รับการรับรอง (ฟินเทค)** — equity crowdfunding (ECF) การเงินแบบ peer-to-peer (P2P) และตลาดแลกเปลี่ยนสินทรัพย์ดิจิทัล (DAX)
+- **การประพฤติในตลาด** — การซื้อขายโดยใช้ข้อมูลภายใน การปั่นตลาด และการประพฤติมิชอบอื่น ๆ
+
+SC ขยายกฎของมันไปยังการเงินทางเลือกเป็นระยะ ๆ แนวปฏิบัติ equity crowdfunding ของมันมีผลตั้งแต่วันที่ **10 กุมภาพันธ์ 2015** โดยให้ผู้ออกหลักทรัพย์ที่มีสิทธิ์ระดมทุนได้สูงสุด **RM3 ล้านภายในระยะเวลา 12 เดือน** พร้อมหน้าต่างระยะพิจารณา (cooling-off) 6 วันสำหรับนักลงทุน ตามด้วยกรอบการเงินแบบ peer-to-peer ที่ประกาศเมื่อวันที่ **13 เมษายน 2016**: ผู้ประกอบการ P2P ต้องจดทะเบียนจัดตั้งในประเทศด้วยทุนชำระแล้วขั้นต่ำ **RM5 ล้าน** และแนะนำให้นักลงทุนรายย่อยจำกัดความเสี่ยงไว้ที่ **RM50,000** ในเวลาใดเวลาหนึ่ง ผู้ออกหลักทรัพย์ P2P ที่มีสิทธิ์มีตั้งแต่กิจการเจ้าของคนเดียวและห้างหุ้นส่วนไปจนถึงบริษัทมหาชนที่ไม่ได้จดทะเบียน
+
+ตลาดแลกเปลี่ยนสินทรัพย์ดิจิทัลถูกนำเข้ามาในภายหลัง หลังจาก Capital Markets and Services (Prescription of Securities) (Digital Currency and Digital Token) Order 2019 ซึ่งมีผลบังคับใช้เมื่อวันที่ **15 มกราคม 2019** และแนวปฏิบัติ Guidelines on Recognized Markets ฉบับปรับปรุงที่ออกเมื่อวันที่ **31 มกราคม 2019** บริษัทที่ต้องการดำเนินการ DAX ต้องจดทะเบียนกับ SC ในฐานะ Recognized Market Operator เฉพาะหน่วยงานที่จดทะเบียนโดย SC เท่านั้นที่สามารถดำเนินการตลาดแลกเปลี่ยนสินทรัพย์ดิจิทัลในมาเลเซียได้
+
+## อำนาจของ SC สิ้นสุดที่ใด?
+
+ความสับสนที่พบบ่อยคือการสันนิษฐานว่า SC กำกับดูแลอะไรก็ตามที่เกี่ยวกับเงินหรือการเงิน ซึ่งไม่ใช่ ระบบการธนาคารและการประกันภัยอยู่กับผู้กำกับดูแลอีกราย และการคุ้มครองผู้บริโภคสำหรับเงินฝากอยู่กับอีกองค์กรหนึ่ง
+
+| ด้าน | ผู้กำกับดูแล / องค์กร |
+| --- | --- |
+| ตลาดทุน (หลักทรัพย์ อนุพันธ์ การจัดการกองทุน ตลาดหลักทรัพย์ ECF/P2P/DAX) | คณะกรรมการกำกับหลักทรัพย์มาเลเซีย (Securities Commission Malaysia) |
+| ธนาคาร บริษัทประกัน และผู้ประกอบการตะกาฟุล | ธนาคารกลางมาเลเซีย (Bank Negara Malaysia) |
+| การคุ้มครองเงินฝาก; การคุ้มครองผลประโยชน์ตะกาฟุลและประกันภัย | PIDM |
+
+PIDM (Perbadanan Insurans Deposit Malaysia) วางกรอบตัวเองอย่างชัดเจนว่าเสริมกับธนาคารกลางมาเลเซีย (Bank Negara Malaysia) ซึ่งเป็น "ผู้กำกับดูแลหลัก" ของธนาคารและบริษัทประกัน ในขณะที่ PIDM บริหารระบบการประกันเงินฝากและระบบการคุ้มครองผลประโยชน์ตะกาฟุลและประกันภัย ไม่มีสิ่งใดในนั้นอยู่ภายใต้ SC ดังนั้นบัญชีออมทรัพย์ กรมธรรม์ประกันชีวิต หรือเงินฝากธนาคารจึงอยู่นอกภารกิจของ SC — แต่กองทุนรวม หุ้นกู้เอกชน หรือการลงทุน crowdfunding อยู่ภายในนั้นอย่างชัดเจน
+
+## อ่านต่อ
+
+หากคุณกำลังระดมทุนหรือเสนอผลิตภัณฑ์ตลาดทุน ตรวจสอบแนวปฏิบัติเฉพาะของ SC ที่ใช้บังคับ (ตราสารทุน ศุกูก REITs หรือตลาดที่ได้รับการรับรอง) และยืนยันข้อกำหนดใบอนุญาตใด ๆ ภายใต้ CMSA ก่อนดำเนินการ หากคำถามของคุณเกี่ยวกับบัญชีธนาคาร กรมธรรม์ประกันภัย หรือความปลอดภัยของเงินฝาก คุณกำลังมองหาธนาคารกลางมาเลเซีย (Bank Negara Malaysia) หรือ PIDM แทน สำหรับกฎที่อยู่เบื้องหลังที่อ้างถึงที่นี่ พอร์ทัลการกำกับดูแลของ SC เองและ Securities Commission Act 1993 เป็นจุดเริ่มต้นที่เชื่อถือได้
