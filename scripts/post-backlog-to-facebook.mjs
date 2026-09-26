@@ -74,6 +74,7 @@ const PROMPT = {
     zh: '想更深入了解马来西亚吗？',
     ta: 'மலேசியாவை இன்னும் ஆழமாகப் புரிந்துகொள்ள விரும்புகிறீர்களா?',
     ja: 'マレーシアをもっと深く知りたいですか？',
+    ko: '말레이시아를 더 깊이 이해하고 싶으신가요?',
   },
   'living': {
     ms: 'Tinggal, bekerja atau belajar di Malaysia?',
@@ -81,6 +82,7 @@ const PROMPT = {
     zh: '在马来西亚生活、工作或求学吗？',
     ta: 'மலேசியாவில் வாழ்கிறீர்களா, வேலை செய்கிறீர்களா அல்லது படிக்கிறீர்களா?',
     ja: 'マレーシアで暮らす・働く・学んでいますか？',
+    ko: '말레이시아에서 살거나 일하거나 공부하고 계신가요?',
   },
   'doing-business': {
     ms: 'Memulakan atau mengembangkan perniagaan di Malaysia?',
@@ -88,6 +90,7 @@ const PROMPT = {
     zh: '在马来西亚创业或拓展业务吗？',
     ta: 'மலேசியாவில் வணிகத்தைத் தொடங்குகிறீர்களா அல்லது வளர்க்கிறீர்களா?',
     ja: 'マレーシアでビジネスを始める・成長させる予定ですか？',
+    ko: '말레이시아에서 사업을 시작하거나 키우고 계신가요?',
   },
 };
 // Caption mode: precedes the tappable link on line 2. Comment mode: points to
@@ -98,6 +101,7 @@ const CTA_CAPTION = {
   zh: '🔗 阅读完整指南：',
   ta: '🔗 முழு வழிகாட்டியைப் படியுங்கள்:',
   ja: '🔗 完全ガイドを読む：',
+  ko: '🔗 전체 가이드 읽기:',
 };
 const CTA_COMMENT = {
   ms: '🔗 Panduan penuh dalam komen pertama 👇',
@@ -105,6 +109,7 @@ const CTA_COMMENT = {
   zh: '🔗 完整指南见首条评论 👇',
   ta: '🔗 முழு வழிகாட்டி முதல் கருத்தில் 👇',
   ja: '🔗 完全ガイドは最初のコメントへ 👇',
+  ko: '🔗 전체 가이드는 첫 번째 댓글에서 👇',
 };
 // Prefixed to the title so it stands out above the caption (FB text can't be
 // bold). Matches the per-publish poster's 📌. Set to '' to drop it.
