@@ -33,9 +33,9 @@ lang: "ko"
 sourceContentHash: "6a6100396bc06f2b"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

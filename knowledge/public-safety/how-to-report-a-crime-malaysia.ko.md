@@ -48,7 +48,7 @@ verificationNeeded:
   - "e-Reporting 자격 요건(말레이시아 시민, 18세 이상)과 신고 가능 항목의 전체 목록 — 공식 포털 ereporting.rmp.gov.my에 직접 접속하여 확인할 수 없었음; 공식 포털과 대조하여 확인할 것."
   - "비시민이 실제로 e-Reporting에서 완전히 제외되는지 여부(초안은 더 이상 이 제외를 명시적으로 언급하지 않음)."
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

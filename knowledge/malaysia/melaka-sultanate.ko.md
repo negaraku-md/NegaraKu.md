@@ -32,9 +32,9 @@ lang: "ko"
 sourceContentHash: "cf412842ff34bf8f"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-07-22
 revision: 0
 revisions:

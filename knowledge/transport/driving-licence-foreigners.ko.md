@@ -26,7 +26,7 @@ lang: "ko"
 sourceContentHash: "04842acf21e405cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -37,7 +37,7 @@ sourceContentHash: "ea511039e4e4cbe4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

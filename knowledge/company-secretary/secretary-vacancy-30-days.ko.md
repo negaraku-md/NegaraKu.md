@@ -50,7 +50,7 @@ sourceContentHash: "163b4a51c3a94a50"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

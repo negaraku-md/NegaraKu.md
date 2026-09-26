@@ -44,7 +44,7 @@ translationStatus: "in-sync"
 verificationNeeded:
   - "입국을 위해 빈 여권 페이지가 공식적으로 요구되는지 여부(인용된 MIDA 출처에는 명시되어 있지 않음)."
 
-status: "draft"
+status: "published"
 publishedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null

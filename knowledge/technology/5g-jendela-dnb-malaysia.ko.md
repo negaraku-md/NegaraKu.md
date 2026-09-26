@@ -47,7 +47,7 @@ verificationNeeded:
   - "JENDELA 2단계 'JP2' 제안 요청서(RFP)는 The Edge가 '3월 31일'에 발행되었다고 보도했습니다. 연도가 2026년인지 MCMC/통신부 자료와 대조해 확인이 필요합니다."
   - "2021년 장관 지침 제3호의 발효일(2021년 5월 31일)은 SoyaCincau에서 인용한 것입니다. 공식 관보 또는 MCMC 기록과 대조해 확인이 필요합니다."
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

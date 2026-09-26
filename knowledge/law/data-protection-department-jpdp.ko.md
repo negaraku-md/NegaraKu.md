@@ -28,7 +28,7 @@ lang: "ko"
 sourceContentHash: "a86fa7aea38102ca"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

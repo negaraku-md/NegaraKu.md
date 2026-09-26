@@ -49,7 +49,7 @@ sourceContentHash: "0f48f4bee9e4e684"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
