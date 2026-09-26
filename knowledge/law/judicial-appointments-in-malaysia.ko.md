@@ -14,20 +14,20 @@ sensitivity: "constitution"
 
 answer: "말레이시아 상급 법원의 판사는 먼저 2009년 Act 695에 따라 사법임명위원회(Suruhanjaya Pelantikan Kehakiman, SPK)가 선발하며, 위원회가 후보를 심사하여 총리에게 제안을 보냅니다. 공식 임명은 총리의 조언에 따라 연방헌법(Federal Constitution) 제122B조에 따라 양 디페르투안 아공(Yang di-Pertuan Agong)이 합니다. 판사는 제한된 사유로 제125조에 따른 특별 심판소를 통해서만 파면될 수 있습니다. 이 권한 배치가 사법 독립에 관한 공적 논쟁의 초점이 됩니다."
 keyTakeaways:
-  - "Proses dua peringkat: SPK menyaring dan mencadangkan calon (Akta 695), Yang di-Pertuan Agong melantik di bawah Perkara 122B atas nasihat Perdana Menteri."
-  - "SPK terdiri daripada sembilan ahli — lima hakim dan empat 'tokoh terkemuka' yang dilantik Perdana Menteri (seksyen 5, Akta 695)."
-  - "SPK memilih sekurang-kurangnya tiga nama bagi setiap kekosongan Mahkamah Tinggi dan dua nama bagi jawatan lain (seksyen 22)."
-  - "Perdana Menteri boleh meminta dua nama tambahan bagi jawatan kanan (seksyen 27), dan tidak terikat secara mutlak dengan cadangan SPK — satu titik utama perdebatan."
-  - "Hakim bersara pada umur 66 tahun (boleh dilanjut sehingga enam bulan) dan hanya boleh disingkirkan melalui tribunal Perkara 125 yang terdiri daripada tidak kurang lima orang."
-appliesTo: "Sesiapa yang ingin memahami bagaimana badan kehakiman Malaysia dibentuk, dijaga kebebasannya, dan diperdebatkan — termasuk pelajar undang-undang, wartawan, dan warganegara."
+  - "이중 단계 절차: SPK가 후보를 심사하고 제안하며(Act 695), 양 디페르투안 아공이 총리의 조언에 따라 제122B조에 따라 임명합니다."
+  - "SPK는 아홉 명의 위원으로 구성됩니다 — 판사 5인과 총리가 임명하는 '저명 인사' 4인입니다(Act 695 제5조)."
+  - "SPK는 각 고등법원 공석마다 3인 이상을, 그 밖의 직에 대해서는 2인을 선발합니다(제22조)."
+  - "총리는 고위직에 대해 2개의 추가 이름을 요청할 수 있고(제27조), SPK의 제안에 절대적으로 구속되지 아니합니다 — 이것이 논쟁의 주요 지점입니다."
+  - "판사는 66세에 정년을 맞으며(최대 6개월까지 연장 가능) 5인 이상으로 구성되는 제125조 심판소를 통해서만 파면될 수 있습니다."
+appliesTo: "말레이시아 사법부가 어떻게 구성되고, 그 독립이 어떻게 지켜지며, 어떻게 논쟁되는지 이해하고자 하는 모든 사람 — 법학도, 언론인, 그리고 시민을 포함합니다."
 
 faq:
-  - q: "Siapa yang membuat keputusan akhir melantik seorang hakim?"
-    a: "Yang di-Pertuan Agong melantik hakim di bawah Perkara 122B Perlembagaan Persekutuan, bertindak atas nasihat Perdana Menteri dan selepas berunding dengan Majlis Raja-Raja, yang disyaratkan oleh Perkara 122B(1) bagi semua pelantikan hakim mahkamah atasan. Suruhanjaya Pelantikan Kehakiman menyaring dan mencadangkan nama terlebih dahulu, tetapi peringkat SPK di bawah Akta 695 berlaku sebelum proses perlembagaan Perkara 122B."
-  - q: "Berapa nama yang dicadangkan SPK untuk satu kekosongan?"
-    a: "Di bawah seksyen 22 Akta 695, SPK memilih tidak kurang tiga orang bagi setiap kekosongan Mahkamah Tinggi, dan tidak kurang dua orang bagi jawatan mahkamah atasan yang lain. Bagi jawatan kanan, Perdana Menteri boleh meminta dua nama tambahan di bawah seksyen 27."
-  - q: "Bolehkah seorang hakim disingkirkan, dan bagaimana?"
-    a: "Boleh, tetapi hanya melalui proses Perkara 125. Perwakilan dibuat kepada Yang di-Pertuan Agong, yang kemudian menubuhkan tribunal terdiri daripada tidak kurang lima orang yang memegang atau pernah memegang jawatan hakim. Alasan terhad kepada pelanggaran kod etika atau ketidakupayaan menjalankan tugas."
+  - q: "판사를 임명하는 최종 결정은 누가 합니까?"
+    a: "양 디페르투안 아공이 연방헌법 제122B조에 따라, 총리의 조언에 따르고 통치자 회의(Majlis Raja-Raja)와 협의한 후 판사를 임명하며, 이 협의는 제122B조 제1항이 모든 상급 법원 판사 임명에 대해 요구합니다. 사법임명위원회가 먼저 이름을 심사하고 제안하나, Act 695에 따른 SPK 단계는 제122B조의 헌법 절차에 선행합니다."
+  - q: "SPK는 하나의 공석에 대해 몇 개의 이름을 제안합니까?"
+    a: "Act 695 제22조에 따라, SPK는 각 고등법원 공석마다 3인 이상을, 그 밖의 상급 법원직에 대해서는 2인 이상을 선발합니다. 고위직의 경우, 총리는 제27조에 따라 2개의 추가 이름을 요청할 수 있습니다."
+  - q: "판사가 파면될 수 있으며, 어떻게 파면됩니까?"
+    a: "가능하나, 제125조 절차를 통해서만 가능합니다. 진정이 양 디페르투안 아공에게 제출되고, 국왕은 판사직을 보유하거나 보유하였던 5인 이상으로 구성된 심판소를 설치합니다. 사유는 행동 강령 위반 또는 직무 수행 무능력으로 한정됩니다."
 
 lang: "ko"
 sourceContentHash: "609ac0242c162e91"
@@ -47,7 +47,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Butiran peristiwa 2025 (tarikh persaraan Ketua Hakim Negara ketika itu dan status lanjutan tempoh perkhidmatan): sahkan dengan pengumuman rasmi terkini."
+  - "2025년 사건의 세부 사항(당시 대법원장의 정년일 및 임기 연장 상태): 최신 공식 발표로 확인하여야 합니다."
 updated: 2026-08-07
 sources:
   - title: "Federal Constitution (Reprint As at 15 October 2020)"

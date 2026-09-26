@@ -14,26 +14,26 @@ sensitivity: "none"
 
 answer: "MyDIGITAL은 총리실 경제기획원(Economic Planning Unit)이 2021년 2월 발행한 말레이시아 디지털 경제 청사진(Malaysia Digital Economy Blueprint)이 뒷받침하는 국가 이니셔티브입니다. 이는 6개 전략 축, 22개 전략, 48개 국가 이니셔티브, 28개 부문별 이니셔티브를 설정하며, 2030년까지 세 단계로 실행됩니다. 이는 Malaysia Digital(MD) — MDEC이 관리하며 2022년 7월 4일부터 MSC Malaysia를 대체한 기업 지위·인센티브 제도 — 와는 다릅니다."
 keyTakeaways:
-  - "MyDIGITAL / Blueprint Ekonomi Digital Malaysia dilancarkan pada Februari 2021 oleh Unit Perancang Ekonomi, dengan 6 teras strategik, 22 strategi, 48 inisiatif nasional dan 28 inisiatif sektoral."
-  - "Sasaran 2025 termasuk ekonomi digital menyumbang 22.6% kepada KDNK, 500,000 pekerjaan baharu, 875,000 PMKS mengguna eDagang, RM70 bilion pelaburan dalam pendigitalan, dan 5,000 syarikat pemula."
-  - "Pelaksanaan dibahagikan kepada tiga fasa: 2021–2022, 2023–2025 dan 2026–2030."
-  - "Malaysia Digital (MD), dilancarkan 4 Julai 2022 dan ditadbir MDEC, ialah skim insentif perniagaan yang menggantikan MSC Malaysia — bukan dasar negara MyDIGITAL."
-  - "MD2030 (Malaysia Digital 2030), dilancarkan 29 Jun 2026, ialah pelan tindakan bagi tempoh 2026–2030 ke arah menjadi 'negara AI', dengan sasaran ekonomi digital 30% KDNK."
-appliesTo: "Rakyat, pemilik perniagaan, penjawat awam, pelabur dan pelajar yang ingin memahami dasar ekonomi digital Malaysia dan bezanya dengan skim insentif Malaysia Digital."
+  - "MyDIGITAL / 말레이시아 디지털 경제 청사진(Blueprint Ekonomi Digital Malaysia)은 2021년 2월 경제기획원(Unit Perancang Ekonomi)에 의해 6개 전략 축, 22개 전략, 48개 국가 이니셔티브, 28개 부문 이니셔티브와 함께 출범했습니다."
+  - "2025년 목표에는 디지털 경제의 GDP 기여도 22.6%, 신규 일자리 50만 개, 87만 5,000개 영세·중소기업(PMKS)의 전자상거래 도입, 디지털화 투자 700억 링깃, 스타트업 5,000개가 포함됩니다."
+  - "실행은 세 단계로 나뉩니다: 2021–2022, 2023–2025, 2026–2030."
+  - "2022년 7월 4일 출범해 MDEC이 관장하는 Malaysia Digital(MD)은 MSC Malaysia를 대체한 기업 인센티브 제도이며, 국가 정책인 MyDIGITAL과는 다릅니다."
+  - "2026년 6월 29일 출범한 MD2030(Malaysia Digital 2030)은 'AI 국가'를 향한 2026–2030년 기간의 실행 계획으로, 디지털 경제의 GDP 30% 기여를 목표로 합니다."
+appliesTo: "말레이시아의 디지털 경제 정책과 그것이 Malaysia Digital 인센티브 제도와 어떻게 다른지 이해하고자 하는 국민, 기업주, 공무원, 투자자 및 학생."
 
 faq:
-  - q: "Apakah beza MyDIGITAL dengan Malaysia Digital?"
-    a: "MyDIGITAL (Blueprint Ekonomi Digital Malaysia) ialah dasar negara menyeluruh yang diterbitkan Unit Perancang Ekonomi pada Februari 2021, meliputi kerajaan, ekonomi dan masyarakat sehingga 2030. Malaysia Digital (MD) pula ialah skim status dan insentif perniagaan yang ditadbir MDEC sejak 4 Julai 2022, menggantikan MSC Malaysia."
-  - q: "Adakah MyDIGITAL memberikan insentif cukai kepada syarikat?"
-    a: "Tidak secara langsung. MyDIGITAL ialah rangka dasar dan sasaran. Insentif cukai untuk syarikat teknologi disalurkan melalui Status Malaysia Digital yang ditadbir MDEC, iaitu pengecualian cukai pendapatan atau elaun cukai pelaburan serta pengecualian duti import dan cukai jualan bagi peralatan multimedia dan ICT."
-  - q: "Siapa yang melaksanakan MyDIGITAL?"
-    a: "Pelaksanaannya diselia oleh Majlis Ekonomi Digital dan Revolusi Perindustrian Keempat (4IR) Negara yang dipengerusikan Perdana Menteri, ditubuhkan pada November 2020. MyDIGITAL Corporation bertindak sebagai badan penyampaian, kini di bawah Kementerian Digital."
-  - q: "Apakah sasaran utama MyDIGITAL bagi 2025?"
-    a: "Antaranya ekonomi digital menyumbang 22.6% kepada KDNK, penciptaan 500,000 pekerjaan baharu, 875,000 PMKS mengguna eDagang, RM70 bilion pelaburan dalam pendigitalan, dan peningkatan bilangan syarikat pemula kepada 5,000."
-  - q: "Apakah MD2030?"
-    a: "Malaysia Digital 2030 (MD2030) ialah pelan tindakan yang dilancarkan Perdana Menteri Anwar Ibrahim pada 29 Jun 2026 bagi tempoh 2026–2030, dengan aspirasi menjadikan Malaysia sebuah 'negara AI' dan sasaran ekonomi digital menyumbang 30% kepada KDNK menjelang 2030."
-  - q: "Apakah kaitan MyDIGITAL dengan Rancangan Malaysia Ke-12?"
-    a: "MyDIGITAL direka untuk melengkapi dasar pembangunan negara seperti Rancangan Malaysia Ke-12 (RMKe-12) dan Wawasan Kemakmuran Bersama 2030 (WKB 2030), yang mengiktiraf ekonomi digital sebagai satu Aktiviti Pertumbuhan Ekonomi Utama."
+  - q: "MyDIGITAL과 Malaysia Digital의 차이는 무엇입니까?"
+    a: "MyDIGITAL(말레이시아 디지털 경제 청사진)은 경제기획원이 2021년 2월 발행한 포괄적 국가 정책으로, 2030년까지 정부, 경제, 사회를 아우릅니다. 반면 Malaysia Digital(MD)은 2022년 7월 4일부터 MDEC이 관장하는 기업 지위·인센티브 제도로, MSC Malaysia를 대체했습니다."
+  - q: "MyDIGITAL은 기업에 세제 인센티브를 제공합니까?"
+    a: "직접적으로는 아닙니다. MyDIGITAL은 정책 프레임워크이자 목표입니다. 기술 기업에 대한 세제 인센티브는 MDEC이 관장하는 Malaysia Digital 스테이터스를 통해 제공되며, 이는 소득세 면제 또는 투자세액공제, 그리고 멀티미디어 및 ICT 장비에 대한 수입관세와 판매세 면제입니다."
+  - q: "MyDIGITAL은 누가 실행합니까?"
+    a: "실행은 2020년 11월 설립되어 총리가 의장을 맡는 국가 디지털경제·제4차 산업혁명(4IR) 위원회가 감독합니다. MyDIGITAL Corporation이 전달 기구로서 기능하며, 현재는 디지털부 산하에 있습니다."
+  - q: "2025년을 향한 MyDIGITAL의 주요 목표는 무엇입니까?"
+    a: "그중에는 디지털 경제의 GDP 기여도 22.6%, 신규 일자리 50만 개 창출, 87만 5,000개 영세·중소기업(PMKS)의 전자상거래 도입, 디지털화 투자 700억 링깃, 그리고 스타트업 수를 5,000개로 늘리는 것이 있습니다."
+  - q: "MD2030은 무엇입니까?"
+    a: "Malaysia Digital 2030(MD2030)은 안와르 이브라힘(Anwar Ibrahim) 총리가 2026년 6월 29일 출범한 2026–2030년 기간의 실행 계획으로, 말레이시아를 'AI 국가'로 만들겠다는 포부와 2030년까지 디지털 경제의 GDP 30% 기여라는 목표를 담고 있습니다."
+  - q: "MyDIGITAL은 제12차 말레이시아 계획과 어떤 관련이 있습니까?"
+    a: "MyDIGITAL은 제12차 말레이시아 계획(RMKe-12)과 공동번영비전 2030(WKB 2030) 같은 국가 개발 정책을 보완하도록 설계되었으며, 이들 정책은 디지털 경제를 핵심 경제성장 활동의 하나로 인정합니다."
 
 lang: "ko"
 sourceContentHash: "ac3f23832d2acdba"
@@ -47,9 +47,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Lokasi pelancaran MD2030 ('di Putrajaya', 29 Jun 2026) dan senarai penuh agensi pelaksana (NAIO, GovTech Malaysia/JDN, MDEC, CyberSecurity Malaysia, MyDIGITAL Corporation, MyCentre4IR) kini disahkan menerusi laporan Malay Mail; perlu disemak silang dengan dokumen rasmi MD2030 apabila diterbitkan."
-  - "Sasaran utama MD2030 (500,000 pekerjaan, penjimatan RM4.5 bilion, 95% perkhidmatan dalam talian) kini bersandar pada laporan Malay Mail — sahkan terhadap pelan tindakan rasmi MD2030."
-  - "Sub-sasaran 2030 dalam Blueprint asal (85% bersepadu hujung-ke-hujung, 50,000 harta intelek, 5 unicorn beribu pejabat di Malaysia, 2,500 Sekolah Juara My Digital Maker) — sahkan terhadap muka surat berkaitan dalam PDF Blueprint."
+  - "MD2030 출범 장소('푸트라자야에서', 2026년 6월 29일)와 실행 기관의 전체 목록(NAIO, GovTech Malaysia/JDN, MDEC, CyberSecurity Malaysia, MyDIGITAL Corporation, MyCentre4IR)은 현재 Malay Mail 보도를 통해 확인되었습니다. MD2030 공식 문서가 발행되면 교차 확인이 필요합니다."
+  - "MD2030의 주요 목표(일자리 50만 개, 45억 링깃 절감, 온라인 서비스 95%)는 현재 Malay Mail 보도에 근거하고 있습니다 — MD2030 공식 실행 계획과 대조해 확인해야 합니다."
+  - "원본 Blueprint의 2030년 하위 목표(엔드투엔드 통합 85%, 지식재산 5만 건, 말레이시아에 본사를 둔 유니콘 5개, My Digital Maker 챔피언 학교 2,500개) — Blueprint PDF의 관련 페이지와 대조해 확인해야 합니다."
 revisions:
   - revision: 0
     date: 2026-08-01

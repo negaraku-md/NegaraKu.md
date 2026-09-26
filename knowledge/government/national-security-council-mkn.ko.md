@@ -14,19 +14,19 @@ sensitivity: "security"
 
 answer: "국가안보회의(MKN)는 총리가 의장을 맡으며, 2016년 8월 1일에 발효된 국가안보회의법 2016(National Security Council Act 2016, Act 776)에 따라 국가 안보 사안에 대한 정부의 중앙 당국 역할을 합니다. 이 법은 총리가 어느 구역을 6개월간(갱신 가능) '안보구역(security area)'으로 선포하고, 그 구역 내에서 보안군에 특별 권한을 부여할 수 있게 합니다. 이는 오직 양 디페르투안 아공(국왕)의 비상사태 선포를 통해서만 발동될 수 있는 제150조에 따른 헌법상의 비상 권한과는 별개입니다."
 keyTakeaways:
-  - "MKN ialah pihak berkuasa pusat kerajaan bagi hal keselamatan negara di bawah Akta 776 (seksyen 3), dipengerusikan oleh Perdana Menteri."
-  - "Perdana Menteri boleh mengisytiharkan 'kawasan keselamatan' di bawah seksyen 18; isytihar itu tamat selepas enam bulan tetapi boleh diperbaharui enam bulan pada satu masa."
-  - "Dalam kawasan keselamatan, pasukan keselamatan mempunyai kuasa khas termasuk menangkap dan menggeledah tanpa waran (seksyen 25 dan 26)."
-  - "Kuasa MKN berasingan daripada darurat perlembagaan Perkara 150, yang hanya boleh dicetuskan oleh Yang di-Pertuan Agong melalui Perisytiharan Darurat."
-appliesTo: "Rakyat, penyelidik dasar, pelajar undang-undang perlembagaan, dan sesiapa yang ingin memahami rangka kuasa keselamatan negara Malaysia."
+  - "국가안보회의(MKN)는 Act 776(제3조)에 따른 국가 안보 사무에 관한 정부의 중앙 당국으로, 총리가 의장을 맡는다."
+  - "총리는 제18조에 따라 「보안 지역(kawasan keselamatan)」을 선포할 수 있다. 그 선포는 6개월 후 종료되나 한 번에 6개월씩 갱신될 수 있다."
+  - "보안 지역 안에서 보안군은 영장 없는 체포와 수색을 포함한 특별 권한을 가진다(제25조 및 제26조)."
+  - "MKN의 권한은 오직 양 디페르투안 아공(국왕)만이 비상사태 선포를 통해 발동할 수 있는 제150조의 헌법상 비상사태와는 별개이다."
+appliesTo: "국민, 정책 연구자, 헌법학 학생, 그리고 말레이시아의 국가 안보 권한 체계를 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Adakah Akta MKN 2016 sama dengan darurat di bawah Perkara 150?"
-    a: "Tidak. Akta 776 mewujudkan mekanisme 'kawasan keselamatan' yang diisytiharkan oleh Perdana Menteri, manakala darurat Perkara 150 ialah Perisytiharan Darurat yang dikeluarkan oleh Yang di-Pertuan Agong. Kedua-duanya rejim undang-undang yang berbeza."
-  - q: "Berapa lama sesuatu kawasan keselamatan berkuat kuasa?"
-    a: "Isytihar di bawah seksyen 18 tamat selepas enam bulan, tetapi boleh diperbaharui oleh Perdana Menteri untuk tempoh tidak melebihi enam bulan pada satu masa. Perdana Menteri juga boleh membatalkannya pada bila-bila masa."
-  - q: "Siapakah ahli Majlis Keselamatan Negara?"
-    a: "Menurut seksyen 6, ahlinya ialah Perdana Menteri (Pengerusi), Timbalan Perdana Menteri, Menteri Pertahanan, Menteri Dalam Negeri, Menteri Komunikasi dan Multimedia, Ketua Setiausaha Negara, Panglima Angkatan Tentera, dan Ketua Polis Negara."
+  - q: "MKN법 2016은 제150조에 따른 비상사태와 같습니까?"
+    a: "아닙니다. Act 776은 총리가 선포하는 「보안 지역(kawasan keselamatan)」 장치를 만드는 반면, 제150조의 비상사태는 양 디페르투안 아공(국왕)이 발하는 비상사태 선포입니다. 둘은 서로 다른 법 체제입니다."
+  - q: "보안 지역은 얼마나 오래 효력을 가집니까?"
+    a: "제18조에 따른 선포는 6개월 후 종료되나, 총리가 한 번에 6개월을 넘지 않는 기간으로 갱신할 수 있습니다. 총리는 또한 언제든 이를 취소할 수 있습니다."
+  - q: "국가안보회의(Majlis Keselamatan Negara)의 위원은 누구입니까?"
+    a: "제6조에 따르면, 그 위원은 총리(의장), 부총리, 국방부 장관, 내무부 장관, 통신멀티미디어부 장관, 국가사무총장(Ketua Setiausaha Negara), 군 총사령관(Panglima Angkatan Tentera), 그리고 경찰청장(Ketua Polis Negara)입니다."
 
 lang: "ko"
 sourceContentHash: "c3999252b2bdc0d7"
@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Wording of the Najib Razak statement is an unofficial Malay rendering of an English-language remark reported in the ISEAS commentary; a human should confirm the exact original wording and preferred translation before publication."
-  - "The June 2016 attack attributed to an Islamic State-linked group and its causal framing relative to the Act should be confirmed against a primary news report, not only the ISEAS commentary."
-  - "The claim that the 12 January 2021 Emergency suspended Parliament and State Legislative Assemblies should be confirmed against the emergency ordinance text or an official Parliament record."
+  - "Najib Razak 발언의 표현은 ISEAS 논평에서 보도된 영어 발언의 비공식 말레이어 번역이다. 발행 전에 사람이 정확한 원문 표현과 선호 번역을 확인하여야 한다."
+  - "이슬람국가(IS) 연계 조직의 소행으로 지목된 2016년 6월 공격과 이 법과의 인과적 서술은 ISEAS 논평만이 아니라 1차 보도로 확인되어야 한다."
+  - "2021년 1월 12일 비상사태가 의회(Parliament)와 주의회(State Legislative Assembly)를 정지시켰다는 주장은 비상사태 조례 본문이나 의회 공식 기록으로 확인되어야 한다."
 updated: 2026-08-01
 sources:
   - title: "National Security Council Act 2016 (Act 776)"

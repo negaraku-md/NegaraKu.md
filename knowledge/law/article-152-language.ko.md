@@ -13,12 +13,12 @@ sensitivity: "race"
 
 answer: "연방헌법(Federal Constitution) 제152조 제1항은 말레이어를 국어로 선언하며, 그 문자는 국회가 법률로 정하는 바에 따릅니다. 동 항은 두 개의 단서를 담고 있습니다. 즉 누구든지 공적 목적 외에서는 다른 어떠한 언어의 사용·교육·학습을 금지당하지 아니하며, 이 항의 어떤 규정도 연방 정부 또는 주 정부가 다른 공동체의 언어의 사용과 연구를 보존하고 유지할 권리를 침해하지 아니합니다. 제2항부터 제5항까지는 영어의 경과적·계속적 사용을 규정하며, 제6항은 '공적 목적'을 정의합니다."
 keyTakeaways:
-  - "Article 152(1) names Malay as the national language, in the script Parliament provides by law"
-  - "Article 152(1)(a) protects using, teaching or learning any other language, outside official purposes"
-  - "Article 152(1)(b) protects the Federal and State Governments' right to preserve the use and study of other communities' languages"
-  - "Clauses (2)-(5) set transitional rules for English in Parliament, legislation, and the courts"
-  - "Article 161 extends some of these English-language savings for Sabah and Sarawak until ten years after Malaysia Day"
-appliesTo: "Anyone who wants the exact constitutional text behind Malaysia's national-language policy, rather than a paraphrase of it."
+  - "제152조 제1항은 말레이어를 국어로 지정하며, 그 문자는 국회가 법률로 정하는 바에 따릅니다"
+  - "제152조 제1항 (a)호는 공적 목적 외에서 다른 어떠한 언어의 사용·교육·학습을 보호합니다"
+  - "제152조 제1항 (b)호는 다른 공동체의 언어의 사용과 연구를 보존할 연방 정부 및 주 정부의 권리를 보호합니다"
+  - "제2항부터 제5항까지는 국회·법령·법원에서의 영어에 관한 경과 규정을 정합니다"
+  - "제161조는 이러한 영어 사용 유보의 일부를 사바 및 사라왁에 대해 말레이시아의 날로부터 10년까지 연장합니다"
+appliesTo: "말레이시아의 국어 정책 뒤에 있는 정확한 헌법 문언을, 그 요약이 아니라 그대로 알고자 하는 모든 사람."
 
 lang: "ko"
 sourceContentHash: "b994c8be544c8680"

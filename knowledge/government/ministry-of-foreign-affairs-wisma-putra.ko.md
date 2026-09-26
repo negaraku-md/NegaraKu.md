@@ -14,25 +14,25 @@ sensitivity: "none"
 
 answer: "위스마 푸트라(Wisma Putra)는 말레이시아 외교부(Kementerian Luar Negeri)의 통칭으로, 다른 나라 및 국제기구와의 말레이시아 관계를 수행하는 연방 부처입니다. 외교 정책을 수립하여 정부에 자문하고, 해외의 대사관·고등판무관사무소·영사관 네트워크를 운영하며, 해외의 말레이시아인에게 영사 지원을 제공합니다. 외교 관계의 정치·안보·정부 간 경제 측면을 다루는 반면, 무역 정책과 수출 진흥은 MITI와 MATRADE의 소관입니다."
 keyTakeaways:
-  - "Wisma Putra is the byname of the Ministry of Foreign Affairs; its official website is kln.gov.my and its headquarters is in Precinct 2, Putrajaya"
-  - "It traces to a 1956 pioneer batch of 11 career diplomats and operated at independence as the Ministry of External Affairs, with Tunku Abdul Rahman as first minister; it was renamed the Ministry of Foreign Affairs in 1966"
-  - "Malaysia maintains 111 missions in 85 countries — including 66 embassies, 18 high commissions and consulates general and other offices"
-  - "Its core mandate is to uphold Malaysia's sovereignty and national interests, conduct bilateral and multilateral diplomacy, and coordinate the Government's position on international issues"
-  - "Missions abroad provide consular help — passports and travel documents, document attestation, and assistance to Malaysians in distress"
-  - "The Ministry of Foreign Affairs Strategic Plan 2026-2030, launched in 2026, sets 8 strategic thrusts, 33 strategies and 139 programmes, with economic diplomacy a headline focus"
-appliesTo: "Malaysians travelling or living abroad, students of Malaysian government and foreign policy, and anyone trying to work out which ministry handles diplomacy versus trade."
+  - "위스마 푸트라(Wisma Putra)는 외교부(Ministry of Foreign Affairs)의 별칭이다. 공식 웹사이트는 kln.gov.my이고 본부는 푸트라자야(Putrajaya) 프리싱트 2에 있다"
+  - "그 기원은 1956년 11명의 초대 직업 외교관 기수로 거슬러 올라가며, 독립 당시에는 외무부(Ministry of External Affairs)로 운영되었고 초대 장관은 툰쿠 압둘 라만(Tunku Abdul Rahman)이었다. 1966년에 외교부(Ministry of Foreign Affairs)로 개칭되었다"
+  - "말레이시아는 85개국에 111개의 공관을 유지한다 — 대사관 66개, 고등판무관사무소(high commission) 18개, 총영사관 및 그 밖의 사무소를 포함한다"
+  - "그 핵심 임무는 말레이시아의 주권과 국익을 수호하고, 양자·다자 외교를 수행하며, 국제 현안에 대한 정부의 입장을 조율하는 것이다"
+  - "재외 공관은 영사 지원을 제공한다 — 여권과 여행 증명서, 문서 인증, 그리고 곤경에 처한 말레이시아 국민에 대한 지원"
+  - "2026년에 출범한 외교부 전략계획 2026-2030(Strategic Plan 2026-2030)은 8개의 전략 방향, 33개의 전략, 139개의 프로그램을 제시하며, 경제 외교를 핵심 중점으로 삼는다"
+appliesTo: "해외를 여행하거나 거주하는 말레이시아 국민, 말레이시아 정부와 외교 정책을 공부하는 학생, 그리고 외교와 통상을 각각 어느 부처가 담당하는지를 파악하려는 모든 사람."
 
 faq:
-  - q: "What is the difference between Wisma Putra and the Ministry of Foreign Affairs?"
-    a: "They are the same body. 'Wisma Putra' is the popular name, originally the name of the ministry's building; the official title is the Ministry of Foreign Affairs (Kementerian Luar Negeri). Its website is kln.gov.my."
-  - q: "How many diplomatic missions does Malaysia have abroad?"
-    a: "According to Wisma Putra, Malaysia maintains 111 missions in 85 countries — comprising 66 embassies, 18 high commissions, 2 permanent representatives to the UN, 1 permanent representative to ASEAN, 21 consulates general, 2 consulates, and a Malaysian Friendship and Trade Centre."
-  - q: "Who do I contact if I lose my passport or get into trouble overseas?"
-    a: "The nearest Malaysian embassy, high commission or consulate. Missions provide consular services including issuing passports and travel documents, attesting documents, and assisting Malaysians in distress. Wisma Putra coordinates this from Putrajaya."
-  - q: "Does Wisma Putra handle Malaysia's trade deals?"
-    a: "Not the policy or promotion side. Wisma Putra conducts diplomacy and government-to-government economic relations, but trade and investment policy sits with the Ministry of Investment, Trade and Industry (MITI), and export promotion with MATRADE."
-  - q: "Who is Malaysia's Foreign Minister?"
-    a: "As of 2026 the Minister of Foreign Affairs is Dato' Seri Utama Mohamad Hasan. Cabinet portfolios change with reshuffles, so confirm the current officeholder on kln.gov.my."
+  - q: "위스마 푸트라(Wisma Putra)와 외교부(Ministry of Foreign Affairs)의 차이는 무엇입니까?"
+    a: "둘은 같은 기관입니다. 「위스마 푸트라(Wisma Putra)」는 통칭으로, 본래는 부처 건물의 이름이었습니다. 공식 명칭은 외교부(Ministry of Foreign Affairs, Kementerian Luar Negeri)입니다. 웹사이트는 kln.gov.my입니다."
+  - q: "말레이시아는 해외에 몇 개의 외교 공관을 두고 있습니까?"
+    a: "위스마 푸트라(Wisma Putra)에 따르면, 말레이시아는 85개국에 111개의 공관을 유지합니다 — 대사관 66개, 고등판무관사무소 18개, 유엔 상주대표부 2개, 아세안 상주대표부 1개, 총영사관 21개, 영사관 2개, 그리고 말레이시아 우호·통상 센터(Malaysian Friendship and Trade Centre) 1개로 구성됩니다."
+  - q: "해외에서 여권을 분실하거나 곤경에 처하면 누구에게 연락해야 합니까?"
+    a: "가장 가까운 말레이시아 대사관, 고등판무관사무소 또는 영사관입니다. 공관은 여권과 여행 증명서 발급, 문서 인증, 곤경에 처한 말레이시아 국민 지원을 포함한 영사 서비스를 제공합니다. 위스마 푸트라(Wisma Putra)는 이를 푸트라자야(Putrajaya)에서 조율합니다."
+  - q: "위스마 푸트라(Wisma Putra)가 말레이시아의 통상 협정을 담당합니까?"
+    a: "정책이나 진흥 측면은 아닙니다. 위스마 푸트라(Wisma Putra)는 외교와 정부 간 경제 관계를 수행하지만, 통상·투자 정책은 투자통상산업부(MITI)에, 수출 진흥은 MATRADE에 속합니다."
+  - q: "말레이시아의 외교부 장관은 누구입니까?"
+    a: "2026년 현재 외교부 장관은 Dato' Seri Utama Mohamad Hasan입니다. 내각의 소관은 개편에 따라 바뀌므로 kln.gov.my에서 현재 재직자를 확인하십시오."
 
 lang: "ko"
 sourceContentHash: "e91cf1913840a424"
@@ -52,9 +52,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact current officeholder of Minister of Foreign Affairs (given as Dato' Seri Utama Mohamad Hasan, correct as of Aug 2026) — confirm on kln.gov.my before publishing, as Cabinet portfolios change with reshuffles."
-  - "The two kln.gov.my content paths (role-function, assistance-abroad) resolve in search but could not be fetched directly (site TLS chain); confirm they remain live and match the cited wording."
-  - "The eight named strategic thrusts and the economic-diplomacy framing (Malaysia as a 'bridge' between the Global North and South; halal industry, digital economy, high-value semiconductors) against the primary Strategic Plan document / Wisma Putra press release, not only the Business Today report."
+  - "외교부 장관의 정확한 현재 재직자(Dato' Seri Utama Mohamad Hasan으로 기재되었으며 2026년 8월 현재 정확함) — 내각의 소관은 개편에 따라 바뀌므로 발행 전에 kln.gov.my에서 확인할 것."
+  - "kln.gov.my의 두 콘텐츠 경로(role-function, assistance-abroad)는 검색에서는 확인되나 직접 가져올 수 없었다(사이트 TLS 체인). 여전히 접속 가능하며 인용된 표현과 일치하는지 확인할 것."
+  - "명명된 여덟 개의 전략 방향과 경제 외교 서술(글로벌 남북 사이의 「가교」로서의 말레이시아, 할랄 산업, 디지털 경제, 고부가가치 반도체)을 Business Today 보도만이 아니라 1차 전략계획 문서/위스마 푸트라 보도자료와 대조하여 확인할 것."
 
 updated: 2026-08-01
 sources:

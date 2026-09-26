@@ -15,21 +15,21 @@ sensitivity: "religion"
 answer: "파라이드(Faraid)는 장례 관리 비용, 채무 및 유증을 공제한 후, 1/2, 1/4, 1/8, 2/3, 1/3, 1/6과 같은 고정 비율(푸루드, furud)에 따라 무슬림 사망자의 재산을 분배하는 이슬람 상속법입니다. 말레이시아에서는 샤리아 법원(Mahkamah Syariah)이 파라이드 명령(Perintah Faraid)을 통해 상속인 목록과 각자의 몫을 확인하며, 분배는 재산의 가치와 종류에 따라 토지청(Pejabat Tanah, JKPTG), 아마나 라야 베르하드(Amanah Raya Berhad) 또는 고등법원(Mahkamah Tinggi)을 통해 이루어집니다. 비무슬림은 1958년 분배법(Akta Pembahagian 1958)의 적용을 받습니다."
 
 keyTakeaways:
-  - "Faraid menetapkan kadar tetap (furud): suami 1/2 tanpa anak atau 1/4 jika ada anak; isteri 1/4 tanpa anak atau 1/8 jika ada anak."
-  - "Waris asabah (contohnya anak lelaki) mengambil baki harta; anak lelaki mendapat dua kali ganda bahagian anak perempuan (nisbah 2:1)."
-  - "Harta dibahagi hanya selepas kos jenazah, hutang dan wasiat diselesaikan; wasiat kepada bukan waris umumnya terhad kepada satu pertiga."
-  - "Perintah Faraid dikeluarkan oleh Mahkamah Syariah; jika tiada waris langsung, harta diserahkan kepada Baitulmal."
-  - "Pusaka kecil bernilai tidak melebihi RM5 juta dikendalikan Pejabat Tanah (JKPTG); had ini dinaikkan daripada RM2.5 juta melalui pindaan 2022."
+  - "파라이드는 고정 비율(푸루드, furud)을 정합니다. 즉 남편은 자녀가 없으면 1/2, 자녀가 있으면 1/4; 아내는 자녀가 없으면 1/4, 자녀가 있으면 1/8입니다."
+  - "아사바 상속인(예: 아들)은 잔여 재산을 가져가며; 아들은 딸 몫의 두 배를 받습니다(2:1 비율)."
+  - "재산은 장례 비용, 채무 및 유증이 처리된 후에야 분배되며; 비상속인에 대한 유증은 일반적으로 1/3로 제한됩니다."
+  - "파라이드 명령(Perintah Faraid)은 샤리아 법원이 발급하며; 직접적인 상속인이 없으면 재산은 바이툴말(Baitulmal)에 넘겨집니다."
+  - "RM500만을 초과하지 아니하는 소액 유산은 토지청(JKPTG)이 처리하며; 이 한도는 2022년 개정을 통하여 RM250만에서 상향되었습니다."
 
-appliesTo: "Waris, pentadbir harta dan orang awam Islam di Malaysia yang ingin memahami pembahagian pusaka; juga rujukan perbandingan bagi bukan Islam."
+appliesTo: "상속 재산 분배를 이해하고자 하는 상속인, 재산 관리인 및 말레이시아의 무슬림 일반 국민; 비무슬림을 위한 비교 참조 자료이기도 합니다."
 
 faq:
-  - q: "Siapa yang mengeluarkan Perintah Faraid?"
-    a: "Mahkamah Syariah mengeluarkan Perintah Faraid, iaitu dokumen rasmi yang mengesahkan senarai waris yang berhak dan kadar bahagian masing-masing mengikut hukum faraid."
-  - q: "Apakah perbezaan utama antara faraid dan Akta Pembahagian 1958?"
-    a: "Faraid terpakai kepada orang Islam dengan kadar tetap yang ditetapkan Syarak, manakala Akta Pembahagian 1958 (Akta 300) mengawal pembahagian pusaka bukan Islam yang mati tanpa wasiat mengikut formula berkanun yang berbeza."
-  - q: "Adakah semua harta dibahagi terus mengikut faraid?"
-    a: "Tidak. Kos pengurusan jenazah, hutang dan wasiat diselesaikan dahulu daripada harta pusaka sebelum baki dibahagikan mengikut faraid."
+  - q: "누가 파라이드 명령을 발급합니까?"
+    a: "샤리아 법원이 파라이드 명령을 발급하며, 이는 파라이드 법에 따라 정당한 상속인 목록과 각자의 몫을 확인하는 공식 문서입니다."
+  - q: "파라이드와 1958년 분배법의 주요 차이는 무엇입니까?"
+    a: "파라이드는 샤리아가 정한 고정 비율로 무슬림에게 적용되는 반면, 1958년 분배법(Akta 300)은 유언 없이 사망한 비무슬림의 상속 재산 분배를 서로 다른 법정 산식에 따라 규율합니다."
+  - q: "모든 재산이 곧바로 파라이드에 따라 분배됩니까?"
+    a: "아니요. 장례 관리 비용, 채무 및 유증이 상속 재산에서 먼저 처리된 후에야 나머지가 파라이드에 따라 분배됩니다."
 
 lang: "ko"
 sourceContentHash: "8922f0a1759aa852"
@@ -49,9 +49,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sumber utama bagi kaedah harta diserahkan kepada Baitulmal apabila tiada waris (rujukan berkanun atau enakmen negeri yang khusus)."
-  - "Tarikh sebenar had pusaka kecil RM5 juta mula berkuat kuasa melalui perintah Menteri (Skrine Mac 2022 mencatatkan pindaan belum berkuat kuasa pada tarikh itu; MyGov kini menyenaraikan RM5 juta sebagai had operasi)."
-  - "Perincian penuh takrif 'harta' yang diperluas di bawah Akta Pusaka Kecil (Pembahagian) 1955 selepas pindaan 2022."
+  - "상속인이 없을 때 재산이 바이툴말에 넘겨지는 방식의 1차 출처(구체적인 법령 근거 또는 주 법령)."
+  - "소액 유산 한도 RM500만이 장관 명령을 통하여 발효된 실제 날짜(Skrine 2022년 3월 자료는 그 시점에 개정이 아직 발효되지 아니하였다고 기록; MyGov는 현재 RM500만을 운영 한도로 열거)."
+  - "2022년 개정 이후 1955년 소액 유산(분배)법(Akta Pusaka Kecil (Pembahagian) 1955)에서 확장된 '재산' 정의의 전체 세부 사항."
 
 updated: 2026-08-07
 sources:

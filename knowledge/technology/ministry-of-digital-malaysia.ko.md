@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "디지털부는 말레이시아의 디지털 의제를 이끄는 부처로, 옛 통신디지털부에서 디지털 기능을 재편해 2023년 12월 12일 설립되었습니다. 초대 장관은 고빈드 싱 데오(Gobind Singh Deo)입니다. 이 부처는 두 개의 청(JDN 및 JPDP)과 MDEC, CyberSecurity Malaysia, Digital Nasional Berhad를 포함한 네 개의 기관을 감독합니다."
 keyTakeaways:
-  - "Ditubuhkan 12 Disember 2023 daripada penstrukturan semula bekas Kementerian Komunikasi dan Digital."
-  - "Menyelia dua jabatan (JDN, JPDP) dan empat agensi (MDEC, CyberSecurity Malaysia, DNB, MYNIC)."
-  - "MCMC kekal di bawah Kementerian Komunikasi, bukan Kementerian Digital."
-  - "Ekonomi digital menyumbang kira-kira 23.2% KDNK, disasar mencecah sekurang-kurangnya 25.5% menjelang akhir 2025."
-appliesTo: "Pelajar, penyelidik, pelabur teknologi dan sesiapa yang ingin memahami struktur tadbir urus digital Malaysia."
+  - "옛 통신디지털부(Kementerian Komunikasi dan Digital)를 재편해 2023년 12월 12일 설립되었습니다."
+  - "두 개의 청(JDN, JPDP)과 네 개의 기관(MDEC, CyberSecurity Malaysia, DNB, MYNIC)을 감독합니다."
+  - "MCMC는 디지털부가 아니라 통신부 산하에 남아 있습니다."
+  - "디지털 경제는 GDP의 약 23.2%를 기여하며, 2025년 말까지 최소 25.5% 달성을 목표로 합니다."
+appliesTo: "말레이시아의 디지털 거버넌스 구조를 이해하고자 하는 학생, 연구자, 기술 투자자 및 모든 이."
 
 faq:
-  - q: "Bilakah Kementerian Digital ditubuhkan?"
-    a: "Pada 12 Disember 2023, apabila Perdana Menteri Anwar Ibrahim memisahkan fungsi digital daripada bekas Kementerian Komunikasi dan Digital."
-  - q: "Adakah MCMC di bawah Kementerian Digital?"
-    a: "Tidak. Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC) kekal di bawah Kementerian Komunikasi, bukan Kementerian Digital."
-  - q: "Agensi manakah yang diletakkan di bawah Kementerian Digital?"
-    a: "Dua jabatan (Jabatan Digital Negara dan Jabatan Perlindungan Data Peribadi) serta empat agensi: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad dan MYNIC Berhad."
+  - q: "디지털부는 언제 설립되었습니까?"
+    a: "2023년 12월 12일, 안와르 이브라힘(Anwar Ibrahim) 총리가 옛 통신디지털부에서 디지털 기능을 분리했을 때입니다."
+  - q: "MCMC는 디지털부 산하에 있습니까?"
+    a: "아닙니다. 말레이시아 통신멀티미디어위원회(MCMC)는 디지털부가 아니라 통신부 산하에 남아 있습니다."
+  - q: "어떤 기관들이 디지털부 산하에 놓여 있습니까?"
+    a: "두 개의 청(국가디지털청(Jabatan Digital Negara)과 개인정보보호청(Jabatan Perlindungan Data Peribadi))과 네 개의 기관: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad, MYNIC Berhad입니다."
 
 lang: "ko"
 sourceContentHash: "8890a54407574604"
@@ -40,11 +40,11 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Struktur dalaman kementerian (bilangan sektor dan bahagian): laman rasmi digital.gov.my tidak boleh diakses buat masa penyusunan, jadi angka struktur telah dikeluarkan sehingga sumber rasmi disahkan."
-  - "Rangka tiga teras (ekonomi digital, masyarakat digital, kerajaan digital) — sahkan terhadap penyata dasar rasmi kementerian."
-  - "Penempatan MyDIGITAL Corporation di bawah Kementerian Digital — tidak disahkan oleh sumber penempatan yang dipetik; dikeluarkan sehingga sumber utama diperoleh."
-  - "Sejarah organisasi terperinci CyberSecurity Malaysia (asal-usul MyCERT, pemindahan portfolio) — dikeluarkan sehingga sumber primer diperoleh."
-  - "Angka liputan 5G DNB (82.1% / 80.2%) dan tarikh rujukan tepat — sahkan terhadap laporan rasmi MCMC/DNB."
+  - "부처의 내부 구조(부문 및 부서 수): 편집 시점에 공식 사이트 digital.gov.my에 접근할 수 없어, 공식 출처가 확인될 때까지 구조 수치를 삭제했습니다."
+  - "3대 축 프레임워크(디지털 경제, 디지털 사회, 디지털 정부) — 부처의 공식 정책 성명과 대조해 확인해야 합니다."
+  - "MyDIGITAL Corporation의 디지털부 산하 배치 — 인용된 배치 출처로 확인되지 않아, 1차 출처가 확보될 때까지 삭제했습니다."
+  - "CyberSecurity Malaysia의 상세 조직 연혁(MyCERT 기원, 포트폴리오 이관) — 1차 출처가 확보될 때까지 삭제했습니다."
+  - "DNB의 5G 커버리지 수치(82.1% / 80.2%)와 정확한 기준일 — MCMC/DNB의 공식 보고서와 대조해 확인해야 합니다."
 revisions:
   - revision: 0
     date: 2026-08-01

@@ -12,25 +12,25 @@ contentType: "guide"
 sensitivity: "none"
 answer: "페스타 카아마탄(Pesta Kaamatan, 타다우 카아마탄Tadau Kaamatan)은 사바의 카다잔두순족과 다른 원주민 공동체의 추수 축제로, 5월 30일과 31일에 사바와 라부안(Labuan)에서 공휴일로 기념됩니다. 카아마탄이라는 말은 '추수'를 뜻합니다. 이 축제는 벼 수확에 감사를 드리며, 벼 정령인 밤바아존(Bambaazon, 밤바라욘Bambarayon)에 대한 전통 신앙에 뿌리를 두는데, 이는 카다잔두순 전통에서 벼가 자라도록 스스로를 희생한 처녀인 후미노둔(Huminodun)의 전설과 이어집니다. 그 의식에는 보보히잔(bobohizan) 여사제가 이끄는 마가바우(Magavau)가 있으며, 가장 공개적인 행사는 카다잔 두순 문화 협회(KDCA)가 프낭팡(Penampang) 홍콧 코이사안(Hongkod Koisaan)에서 여는 운둑 응아다우(Unduk Ngadau) 문화 대회입니다."
 keyTakeaways:
-  - "Kaamatan means 'harvest'; the Kadazandusun name is Tadau Kaamatan and the Malay name is Pesta Kaamatan"
-  - "It is a public holiday in the state of Sabah and the federal territory of Labuan on 30 and 31 May"
-  - "It is celebrated by the Kadazan, Dusun, Murut, Rungus, Lundayeh and other indigenous communities of Sabah"
-  - "It centres on thanksgiving for the rice harvest and, in traditional belief, on Bambaazon (Bambarayon), the rice spirit tied to the legend of Huminodun and her father Kinoingan"
-  - "The Magavau thanksgiving ritual is traditionally led by a bobohizan (priestess)"
-  - "The Unduk Ngadau is a cultural pageant honouring Huminodun; it has been held since 1960 and is staged by the KDCA at Hongkod Koisaan, Penampang"
-appliesTo: "Anyone who wants to understand what Pesta Kaamatan is, who celebrates it, the beliefs and legend behind it, and what the Unduk Ngadau pageant actually commemorates."
+  - "카아마탄(Kaamatan)은 「추수」를 뜻하며, 카다잔두순 이름은 타다우 카아마탄(Tadau Kaamatan), 말레이 이름은 페스타 카아마탄(Pesta Kaamatan)입니다"
+  - "5월 30일과 31일은 사바(Sabah) 주와 라부안(Labuan) 연방 직할구의 공휴일입니다"
+  - "카아마탄은 사바의 카다잔(Kadazan), 두순(Dusun), 무룻(Murut), 룽구스(Rungus), 룬다예(Lundayeh)를 비롯한 원주민 공동체가 기념합니다"
+  - "카아마탄은 벼 수확에 대한 감사를 중심으로 하며, 전통 신앙에서는 후미노둔(Huminodun)과 그 아버지 키노잉안(Kinoingan)의 전설과 이어진 벼 정령 밤바아존(Bambaazon, 밤바라욘Bambarayon)을 중심으로 합니다"
+  - "마가바우(Magavau) 감사 의식은 전통적으로 보보히잔(bobohizan) 여사제가 이끕니다"
+  - "운둑 응아다우(Unduk Ngadau)는 후미노둔을 기리는 문화 대회로, 1960년부터 열려 왔으며 카다잔 두순 문화 협회(KDCA)가 프낭팡(Penampang) 홍콧 코이사안(Hongkod Koisaan)에서 엽니다"
+appliesTo: "페스타 카아마탄이 무엇이며 누가 기념하는지, 그 배경의 믿음과 전설, 그리고 운둑 응아다우 대회가 실제로 무엇을 기념하는지를 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "What does Kaamatan mean?"
-    a: "Kaamatan means 'harvest' in the Kadazandusun language. The festival is also called Tadau Kaamatan (Kadazandusun) and Pesta Kaamatan (Malay). It is the annual thanksgiving for the rice harvest observed by the Kadazandusun and other indigenous communities of Sabah."
-  - q: "When is Pesta Kaamatan and where is it a holiday?"
-    a: "Pesta Kaamatan is celebrated on 30 and 31 May and is a public holiday in the state of Sabah and the federal territory of Labuan. In practice the celebration runs through much of May, district by district, before the state-level finale on those two days."
-  - q: "Who is Huminodun?"
-    a: "In Kadazandusun tradition, Huminodun is the daughter of the creator Kinoingan who, during a famine, was sacrificed so that food would grow; rice and other crops are said to have sprung from her body, and she is associated with Bambaazon, the rice spirit. NegaraKu.md records this as the community's belief and legend, described respectfully, not as an assertion of fact."
-  - q: "What is the Unduk Ngadau?"
-    a: "The Unduk Ngadau is a cultural pageant for women held during Kaamatan, staged by the Kadazan Dusun Cultural Association since 1960. The name is commonly read as 'the maiden of the harvest' or 'the emerging sun', and the contest honours the legendary Huminodun. Since 2012 it has included a question-and-answer round in an ancestral language, so it tests cultural knowledge as well as poise."
-  - q: "What is the Magavau ritual?"
-    a: "Magavau is a thanksgiving ritual to honour and 'call home' the rice spirit, Bambaazon, after the harvest. It is traditionally led by a bobohizan (also spelled bobolian), a priestess who recites ritual chants. It is one of the older ceremonial elements of Kaamatan."
+  - q: "카아마탄은 무엇을 뜻합니까?"
+    a: "카아마탄은 카다잔두순어로 「추수」를 뜻합니다. 이 축제는 타다우 카아마탄(Tadau Kaamatan, 카다잔두순어)과 페스타 카아마탄(Pesta Kaamatan, 말레이어)으로도 불립니다. 이는 사바의 카다잔두순과 다른 원주민 공동체가 지키는 벼 수확에 대한 연례 추수 감사입니다."
+  - q: "페스타 카아마탄은 언제이며 어디에서 공휴일입니까?"
+    a: "페스타 카아마탄은 5월 30일과 31일에 기념되며 사바 주와 라부안 연방 직할구의 공휴일입니다. 실제로는 이 이틀의 주 단위 대미에 앞서 5월 대부분에 걸쳐 구별로 축하가 이어집니다."
+  - q: "후미노둔은 누구입니까?"
+    a: "카다잔두순 전통에서 후미노둔은 창조주 키노잉안(Kinoingan)의 딸로, 기근이 들었을 때 먹을 것이 자라도록 희생되었습니다. 벼와 다른 작물이 그녀의 몸에서 나왔다고 전하며, 그녀는 벼 정령 밤바아존(Bambaazon)과 연관됩니다. NegaraKu.md는 이를 사실의 주장이 아니라 공동체의 믿음과 전설로, 존중하며 기록합니다."
+  - q: "운둑 응아다우란 무엇입니까?"
+    a: "운둑 응아다우는 카아마탄 동안 열리는 여성 문화 대회로, 1960년부터 카다잔 두순 문화 협회가 엽니다. 그 이름은 흔히 「추수의 처녀」 또는 「떠오르는 태양」으로 읽히며, 이 대회는 전설 속 후미노둔을 기립니다. 2012년부터는 조상의 언어로 진행되는 질의응답 순서가 포함되어, 자태뿐 아니라 문화 지식도 시험합니다."
+  - q: "마가바우 의식이란 무엇입니까?"
+    a: "마가바우는 수확 뒤에 벼 정령 밤바아존을 기리고 「집으로 불러들이는」 감사 의식입니다. 전통적으로 의례 주문을 외우는 여사제인 보보히잔(bobohizan, 보볼리안bobolian이라고도 씀)이 이끕니다. 이는 카아마탄의 더 오래된 의례 요소 가운데 하나입니다."
 
 lang: "ko"
 sourceContentHash: "77931677eb9c36e1"
@@ -49,8 +49,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact original gazette date of Kaamatan as a public holiday (widely dated to 1960 in the historical record); described qualitatively here rather than pinned to a document."
-  - "Whether Kaamatan carries a formal Jabatan Warisan Negara national-heritage listing — not confirmed at an official source at the time of writing."
+  - "카아마탄을 공휴일로 지정한 관보의 정확한 원래 날짜(역사 기록에서는 널리 1960년으로 매겨짐). 여기서는 문서에 못박지 않고 정성적으로 서술합니다."
+  - "카아마탄이 국가유산국(Jabatan Warisan Negara)의 공식 국가유산으로 등재되어 있는지 여부 — 집필 시점에 공식 자료로 확인되지 않았습니다."
 
 updated: 2026-07-24
 sources:

@@ -14,22 +14,22 @@ sensitivity: "none"
 
 answer: "공익신고자보호법 2010(Whistleblower Protection Act 2010, Act 711)은 부적절한 행위를 집행 기관에 신고하는 사람에게 제7조에 따라 세 가지 보호를 부여합니다. 즉 정보의 비밀 보장, 민사·형사상 면책, 그리고 불이익 조치(보복)로부터의 보호입니다. 그러나 그 보호는 조건부입니다. 제11조에 따라 집행 기관은 신고자가 공개된 부적절한 행위에 가담하였거나, 알면서 허위 진술을 하였거나, 경솔하거나 괴롭힘성 신고를 한 경우 이를 취소하여야 합니다. 제6조는 또한 공개가 다른 성문법에 의해 특별히 금지되는 경우 어떠한 보호도 부여하지 아니합니다."
 keyTakeaways:
-  - "Act 711 received Royal Assent on 2 June 2010, was gazetted on 10 June 2010, and came into operation on 15 December 2010 (P.U. (B) 537/2010)."
-  - "A disclosure must go to an enforcement agency (Section 6) — a body empowered to investigate — not to the media; the anti-graft agency MACC is the best-known channel."
-  - "Section 7 grants three protections: confidentiality of information, immunity from civil and criminal action, and protection against detrimental action, which also extends to people related to the whistleblower."
-  - "Section 11 lists six grounds on which the enforcement agency must revoke protection — the first being that the whistleblower took part in the wrongdoing."
-  - "Section 6 gives no protection if the disclosure is specifically prohibited by any written law."
-appliesTo: "Employees, company directors, compliance and integrity officers, in-house counsel, and anyone considering reporting corruption or misconduct in Malaysia."
+  - "Act 711은 2010년 6월 2일에 국왕 재가를 받아 2010년 6월 10일에 관보에 게재되었고, 2010년 12월 15일에 시행되었습니다(P.U. (B) 537/2010)."
+  - "공개는 언론이 아니라 집행 기관 — 조사할 권한을 가진 기관 — 에 이루어져야 하며(제6조); 반부패 기관인 MACC가 가장 잘 알려진 경로입니다."
+  - "제7조는 세 가지 보호를 부여합니다. 즉 정보의 비밀 보장, 민사·형사상 면책, 그리고 불이익 조치로부터의 보호이며, 이는 신고자와 관련된 사람에게까지 미칩니다."
+  - "제11조는 집행 기관이 보호를 취소하여야 하는 여섯 가지 사유를 열거하며 — 그 첫 번째는 신고자가 그 위법 행위에 가담한 경우입니다."
+  - "제6조는 공개가 어떠한 성문법에 의해 특별히 금지되는 경우 어떠한 보호도 부여하지 아니합니다."
+appliesTo: "말레이시아에서 부패나 비위를 신고하는 것을 고려하는 피용자, 회사 이사, 준법 및 청렴 담당자, 사내 변호사, 그리고 모든 사람."
 
 faq:
-  - q: "What protections does a whistleblower get?"
-    a: "Under Section 7, upon making a disclosure of improper conduct to an enforcement agency a whistleblower is conferred three protections: protection of confidential information (their identity is kept confidential), immunity from civil and criminal action, and protection against detrimental action such as dismissal, demotion, harassment or intimidation. The protection against detrimental action also extends to persons related to or associated with the whistleblower."
-  - q: "When does the whistleblower lose protection?"
-    a: "Section 11(1) requires the enforcement agency to revoke protection if it forms the opinion — from its investigation — that the whistleblower himself participated in the improper conduct disclosed, wilfully made a material statement he knew to be false, filed a frivolous or vexatious disclosure, principally questioned the merits of government policy, disclosed mainly to avoid dismissal or disciplinary action, or committed an offence under the Act while disclosing."
-  - q: "Does the Act protect me if I post it on social media first?"
-    a: "No. The Act protects disclosures made to an enforcement agency. In June 2025 MACC stated publicly that once information is made public before a report is submitted through the proper legal channel, the protection no longer applies. Report to the agency first."
-  - q: "What counts as 'improper conduct'?"
-    a: "Section 2 defines improper conduct as any conduct which, if proved, constitutes a disciplinary offence or a criminal offence. A 'disciplinary offence' is separately defined to cover breaches of discipline in a public or private body under a law, code of conduct, code of ethics, circular or contract of employment, so the term reaches a wide range of wrongdoing, from corruption to workplace misconduct."
+  - q: "신고자는 어떤 보호를 받습니까?"
+    a: "제7조에 따라, 집행 기관에 부적절한 행위를 공개하면 신고자는 세 가지 보호를 부여받습니다. 즉 비밀 정보의 보호(신원이 비밀로 유지됨), 민사·형사상 면책, 그리고 해고, 강등, 괴롭힘 또는 협박과 같은 불이익 조치로부터의 보호입니다. 불이익 조치로부터의 보호는 신고자와 관련되거나 연관된 사람에게까지 미칩니다."
+  - q: "신고자는 언제 보호를 상실합니까?"
+    a: "제11조 제1항은 집행 기관이 그 조사로부터, 신고자 자신이 공개된 부적절한 행위에 가담하였거나, 허위임을 알면서 중요한 진술을 고의로 하였거나, 경솔하거나 괴롭힘성 공개를 하였거나, 주로 정부 정책의 당부를 문제 삼았거나, 주로 해고나 징계 조치를 피하기 위해 공개하였거나, 공개를 하면서 이 법에 따른 범죄를 범하였다는 의견에 이르면 보호를 취소하도록 요구합니다."
+  - q: "먼저 소셜미디어에 올리면 이 법이 저를 보호합니까?"
+    a: "아니요. 이 법은 집행 기관에 이루어진 공개를 보호합니다. 2025년 6월 MACC는 적법한 경로를 통해 신고가 제출되기 전에 정보가 공개되면 그 보호가 더 이상 적용되지 아니한다고 공개적으로 밝혔습니다. 먼저 기관에 신고하십시오."
+  - q: "무엇이 '부적절한 행위'에 해당합니까?"
+    a: "제2조는 부적절한 행위를 입증되면 징계 위반 또는 형사 범죄를 구성하는 어떠한 행위로 정의합니다. '징계 위반'은 법·행동 강령·윤리 강령·회람 또는 고용 계약에 따라 공공 또는 사적 기관에서의 규율 위반을 포괄하도록 별도로 정의되므로, 이 용어는 부패에서 직장 비위에 이르기까지 광범위한 위법 행위에 미칩니다."
 
 lang: "ko"
 sourceContentHash: "b93871feeca0ccf6"
@@ -43,8 +43,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "MACC June 2025 statement — confirm the quoted wording and context via a primary MACC release if available, not only the FMT report."
-  - "Whether any post-2016 amendment to Act 711 has taken effect that changes the protections, Section 11 grounds, or the commencement position stated here."
+  - "MACC의 2025년 6월 성명 — FMT 보도뿐 아니라, 가능하다면 1차 MACC 발표를 통하여 인용된 문구와 맥락을 확인하여야 합니다."
+  - "여기에 서술된 보호, 제11조 사유 또는 시행 상태를 변경하는, Act 711에 대한 2016년 이후의 개정이 시행되었는지 여부."
 revisions:
   - revision: 0
     date: 2026-08-07

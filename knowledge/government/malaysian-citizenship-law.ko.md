@@ -14,25 +14,25 @@ sensitivity: "constitution"
 
 answer: "사람은 연방헌법(Federal Constitution) 제3부에 따른 세 경로 가운데 하나를 통해 말레이시아 시민이 됩니다. 첫째, 출생 시 법률의 효력에 의한 방법(제14조와 제2부칙): 말레이시아에서 태어난 아기는 출생 당시 부모 중 최소 한 명이 시민이거나 영주권자이면 시민입니다. 둘째, 신청에 의한 등록 — 시민의 외국인 아내(제15조 제(1)항), 미성년 자녀(제15조 제(2)항과 제15A조), 독립 이전에 연방에서 태어난 사람(제16조)을 위한 것입니다. 셋째, 오래 거주한 비시민 성인을 위한 귀화(제19조)입니다."
 keyTakeaways:
-  - "Perkara 14 menjadikan seorang bayi yang lahir di Malaysia warganegara secara automatik jika sekurang-kurangnya seorang ibu bapanya warganegara atau pemastautin tetap ketika kelahiran (Jadual Kedua Bahagian II)"
-  - "Bagi kelahiran di luar negara, kewarganegaraan automatik dahulunya hanya boleh diberi oleh bapa warganegara — pindaan Perlembagaan 2024 menambah ibu, diluluskan Dewan Rakyat pada 17 Oktober 2024 dengan undi 206 berbanding 1 (14 tidak hadir)"
-  - "Isteri asing seorang warganegara berhak memohon pendaftaran di bawah Perkara 15(1) jika telah bermastautin di Persekutuan sepanjang dua tahun sebelum permohonan dan berkelakuan baik"
-  - "Penaturalisasian di bawah Perkara 19 memerlukan umur 21 tahun ke atas, bermastautin sekurang-kurangnya 10 daripada 12 tahun sebelum permohonan (termasuk 12 bulan terakhir), berkelakuan baik dan pengetahuan bahasa Melayu yang mencukupi"
-  - "Kanak-kanak yang lahir di Persekutuan dan tidak dilahirkan sebagai warganegara mana-mana negara lain adalah warganegara secara kuat kuasa undang-undang di bawah Jadual Kedua Bahagian II perenggan (e) — peruntukan anti-tanpa-kewarganegaraan"
-  - "Setiap orang berumur 18 tahun ke atas mesti mengangkat sumpah taat setia (Jadual Pertama) sebelum didaftarkan sebagai warganegara — Perkara 18(1)"
-appliesTo: "Ibu bapa yang ingin mengesahkan taraf kewarganegaraan anak, pasangan asing warganegara Malaysia, orang tanpa kewarganegaraan, dan sesiapa yang perlu memahami jalan mana di bawah Bahagian III yang terpakai kepada keadaan mereka."
+  - "제14조는 말레이시아에서 태어난 아기가 출생 당시 부모 중 적어도 한 명이 국민이거나 영주권자인 경우 자동으로 국민이 되도록 한다(제2부칙 제II부)"
+  - "해외 출생의 경우, 자동 국적은 예전에는 국민인 아버지만이 부여할 수 있었다 — 2024년 헌법 개정이 어머니를 추가하였으며, 2024년 10월 17일 하원(Dewan Rakyat)에서 찬성 206표 대 반대 1표(불참 14명)로 통과되었다"
+  - "국민의 외국인 아내는 신청 전 2년 동안 연방에 거주하였고 품행이 방정한 경우 제15조 제(1)항에 따라 등록을 신청할 권리가 있다"
+  - "제19조에 따른 귀화는 21세 이상, 신청 전 12년 중 최소 10년의 거주(마지막 12개월 포함), 방정한 품행, 그리고 충분한 말레이어 지식을 요한다"
+  - "연방에서 태어나 다른 어느 나라의 국민으로도 태어나지 않은 아동은 제2부칙 제II부 (e)호에 따라 법률의 효력으로 국민이 된다 — 무국적 방지 조항"
+  - "18세 이상인 모든 사람은 국민으로 등록되기 전에 충성 선서(제1부칙)를 하여야 한다 — 제18조 제(1)항"
+appliesTo: "자녀의 국적 지위를 확인하려는 부모, 말레이시아 국민의 외국인 배우자, 무국적자, 그리고 제III부의 어느 경로가 자신의 상황에 적용되는지를 이해할 필요가 있는 모든 사람."
 
 faq:
-  - q: "Adakah bayi yang lahir di Malaysia automatik menjadi warganegara?"
-    a: "Tidak semestinya. Di bawah Jadual Kedua Bahagian II Perlembagaan, seorang bayi yang lahir di Malaysia adalah warganegara secara kuat kuasa undang-undang hanya jika sekurang-kurangnya seorang ibu bapanya ialah warganegara atau pemastautin tetap ketika kelahiran. Pengecualian penting: kanak-kanak yang lahir di Persekutuan dan tidak dilahirkan sebagai warganegara mana-mana negara lain tetap menjadi warganegara, untuk mengelakkan keadaan tanpa kewarganegaraan."
-  - q: "Bolehkah ibu Malaysia memberi kewarganegaraan kepada anaknya yang lahir di luar negara?"
-    a: "Boleh, tetapi jalannya berubah. Sebelum pindaan Perlembagaan 2024, kewarganegaraan automatik bagi kelahiran di luar negara hanya boleh diberi oleh bapa warganegara; ibu warganegara terpaksa memohon pendaftaran budi bicara di bawah Perkara 15(2). Rang Undang-Undang Perlembagaan (Pindaan) 2024 — diluluskan Dewan Rakyat pada 17 Oktober 2024 dan masih perlu melengkapkan proses Parlimen (kelulusan Dewan Negara, perkenan Yang di-Pertuan Agong dan pewartaan) sebelum berkuat kuasa — menggantikan rujukan 'bapa' dengan 'salah seorang ibu bapa' dalam Jadual Kedua Bahagian II. Ia tidak berkuat kuasa ke belakang: ia terpakai kepada kanak-kanak yang lahir selepas ia berkuat kuasa (kuat kuasa disasarkan pertengahan 2026). Anak sedia ada yang berumur bawah 18 tahun boleh memohon di bawah Perkara 15(2)."
-  - q: "Apakah syarat untuk isteri asing seorang warganegara Malaysia memohon kewarganegaraan?"
-    a: "Perkara 15(1) memperuntukkan bahawa seorang perempuan berkahwin yang suaminya warganegara berhak memohon didaftarkan jika dia telah bermastautin di Persekutuan sepanjang dua tahun sebelum tarikh permohonan, berhasrat untuk menetap secara tetap, dan berkelakuan baik. Portal Kerajaan menyatakan pemohon lazimnya perlu memegang taraf pemastautin tetap. Ambil perhatian bahawa peruntukan ini khusus untuk isteri asing — tiada peruntukan pendaftaran yang setara bagi suami asing seorang warganegara perempuan."
-  - q: "Berapa lama seseorang perlu tinggal di Malaysia untuk memohon penaturalisasian?"
-    a: "Di bawah Perkara 19, pemohon mesti berumur 21 tahun ke atas, bukan warganegara, dan telah bermastautin di Persekutuan untuk tempoh berjumlah tidak kurang daripada 10 tahun dalam tempoh 12 tahun sebelum permohonan, termasuk 12 bulan sebaik sebelum tarikh permohonan. Dia juga mesti berkelakuan baik dan mempunyai pengetahuan bahasa Melayu yang mencukupi. Pemberian sijil penaturalisasian adalah mengikut budi bicara Kerajaan Persekutuan."
-  - q: "Adakah Malaysia membenarkan dwikewarganegaraan?"
-    a: "Tidak. Malaysia mengamalkan dasar kewarganegaraan tunggal. Asas perlembagaannya ialah Perkara 23 (pelepasan kewarganegaraan) dan Perkara 24 (pelucutan kewarganegaraan apabila seseorang memperoleh kewarganegaraan negara lain secara sukarela), dan portal MyGovernment turut mengesahkan dasar ini. Keputusan melepaskan kewarganegaraan Malaysia bersifat kekal. Semak keadaan khusus anda dengan Jabatan Pendaftaran Negara (JPN)."
+  - q: "말레이시아에서 태어난 아기는 자동으로 국민이 됩니까?"
+    a: "반드시 그렇지는 않습니다. 헌법 제2부칙 제II부에 따라, 말레이시아에서 태어난 아기는 출생 당시 부모 중 적어도 한 명이 국민이거나 영주권자인 경우에만 법률의 효력으로 국민이 됩니다. 중요한 예외: 연방에서 태어나 다른 어느 나라의 국민으로도 태어나지 않은 아동은 무국적 상태를 방지하기 위하여 국민이 됩니다."
+  - q: "말레이시아인 어머니가 해외에서 태어난 자녀에게 국적을 부여할 수 있습니까?"
+    a: "가능하나, 그 경로는 바뀌고 있습니다. 2024년 헌법 개정 이전에는 해외 출생에 대한 자동 국적을 국민인 아버지만이 부여할 수 있었고, 국민인 어머니는 제15조 제(2)항에 따라 재량 등록을 신청해야 했습니다. 2024년 헌법(개정) 법안 — 2024년 10월 17일 하원(Dewan Rakyat)에서 통과되었으나 발효 전에 여전히 의회 절차(상원(Dewan Negara) 통과, 양 디페르투안 아공의 재가 및 관보 게재)를 완료해야 함 — 은 제2부칙 제II부에서 「아버지」라는 표현을 「부모 중 한 명」으로 대체합니다. 이는 소급 적용되지 않습니다: 발효 후 태어난 아동에게 적용됩니다(발효는 2026년 중반을 목표로 함). 기존의 18세 미만 자녀는 제15조 제(2)항에 따라 신청할 수 있습니다."
+  - q: "말레이시아 국민의 외국인 아내가 국적을 신청하기 위한 요건은 무엇입니까?"
+    a: "제15조 제(1)항은, 남편이 국민인 기혼 여성이 신청일 전 2년 동안 연방에 거주하였고, 영구히 정착할 의사가 있으며, 품행이 방정한 경우 등록을 신청할 권리가 있다고 규정합니다. 정부 포털은 신청자가 통상 영주권자 지위를 보유해야 한다고 밝힙니다. 이 조항은 외국인 아내에 한한다는 점에 유의하십시오 — 여성 국민의 외국인 남편에 대한 동등한 등록 조항은 없습니다."
+  - q: "귀화를 신청하려면 말레이시아에 얼마나 오래 거주해야 합니까?"
+    a: "제19조에 따라 신청자는 21세 이상이어야 하고, 국민이 아니어야 하며, 신청 전 12년 기간 중 합계 10년 이상 연방에 거주하였어야 하고, 여기에는 신청일 직전 12개월이 포함됩니다. 또한 품행이 방정하고 충분한 말레이어 지식을 갖추어야 합니다. 귀화 증서의 부여는 연방정부의 재량에 따릅니다."
+  - q: "말레이시아는 이중국적을 허용합니까?"
+    a: "아닙니다. 말레이시아는 단일국적 정책을 취합니다. 그 헌법적 근거는 제23조(국적 포기)와 제24조(자발적으로 타국 국적을 취득한 경우의 국적 박탈)이며, MyGovernment 포털도 이 정책을 확인합니다. 말레이시아 국적을 포기하는 결정은 영구적입니다. 구체적인 상황은 국가등록국(Jabatan Pendaftaran Negara, JPN)에 확인하십시오."
 
 lang: "ko"
 sourceContentHash: "32332ac0d26401bb"
@@ -46,10 +46,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Status penuh proses perundangan Rang Undang-Undang Perlembagaan (Pindaan) 2024 selepas kelulusan Dewan Rakyat (17 Okt 2024): sahkan tarikh kelulusan Dewan Negara, tarikh perkenan Yang di-Pertuan Agong, dan tarikh pewartaan/kuat kuasa sebenar (kuat kuasa disasarkan pertengahan 2026)."
-  - "Tarikh kuat kuasa tepat pindaan Jadual Kedua Bahagian II (rujukan 'salah seorang ibu bapa') dan sama ada laluan peralihan Perkara 15(2) bagi anak sedia ada di bawah 18 tahun kekal terpakai selepas kuat kuasa."
-  - "Syarat pemastautin tetap (PR) bagi pemohon Perkara 15(1)/15(2) — sahkan amalan JPN semasa berbanding teks Perlembagaan, kerana syarat PR dinyatakan oleh portal dan bukan secara eksplisit dalam Perkara 15."
-  - "Tahap sensitiviti metadata ditetapkan 'none' mengikut spesifikasi; memandangkan topik menyentuh ketiadaan kewarganegaraan dan peruntukan lampau berasaskan jantina, sahkan sama ada tahap ini wajar dinaikkan oleh penyemak manusia."
+  - "하원(Dewan Rakyat) 통과(2024년 10월 17일) 이후 2024년 헌법(개정) 법안의 전체 입법 절차 상태: 상원(Dewan Negara) 통과일, 양 디페르투안 아공의 재가일, 그리고 실제 관보 게재/발효일(발효는 2026년 중반을 목표로 함)을 확인할 것."
+  - "제2부칙 제II부 개정(「부모 중 한 명」이라는 표현)의 정확한 발효일과, 기존의 18세 미만 자녀를 위한 제15조 제(2)항의 경과 경로가 발효 후에도 계속 적용되는지 여부."
+  - "제15조 제(1)항/제(2)항 신청자에 대한 영주권(PR) 요건 — 영주권 요건은 포털이 밝힌 것이며 제15조에 명시적으로 나와 있지 않으므로, 헌법 본문과 대비하여 현재의 JPN 실무를 확인할 것."
+  - "메타데이터 민감도 수준은 사양에 따라 「none」으로 설정되어 있다. 이 주제가 무국적과 과거의 성별 기반 조항을 다루는 점을 고려하여, 사람 검토자가 이 수준을 상향할 필요가 있는지 확인할 것."
 revisions:
   - revision: 0
     date: 2026-08-01

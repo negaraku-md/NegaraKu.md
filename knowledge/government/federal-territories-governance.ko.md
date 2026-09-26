@@ -14,22 +14,22 @@ sensitivity: "none"
 
 answer: "쿠알라룸푸르(Kuala Lumpur)·푸트라자야(Putrajaya)·라부안(Labuan)은 연방헌법(Federal Constitution) 제1조 제(4)항에 따라 원래의 주(슬랑오르 및 사바)에서 분리되어 연방의 영역이 된 세 개의 연방직할구입니다. 주가 아니므로 이 셋은 주정부가 없고, 술탄이나 통치자가 없으며, 주 입법의회(DUN)가 없습니다. 모든 행정 업무는 연방정부가 쥐고 있습니다. 현장에서 각 직할구는 수장(시장 또는 청장)이 선출이 아니라 임명되는 하나의 지방 당국 — 쿠알라룸푸르 시청(DBKL), 푸트라자야 공사(Perbadanan Putrajaya), 라부안 공사(Perbadanan Labuan) — 에 의해 관리되며, 총리실(Prime Minister's Department) 산하의 연방직할구청(Jabatan Wilayah Persekutuan)이 연방 차원에서 조정합니다."
 keyTakeaways:
-  - "Ketiga-tiga wilayah dikeluarkan daripada negeri asal melalui pindaan Perlembagaan: Kuala Lumpur (Akta A206, 1973), Labuan (Akta A585, 1984) dan Putrajaya (Akta A1095, 2001), dan menjadi wilayah Persekutuan di bawah Perkara 1(4)"
-  - "Kerana bukan negeri, ketiga-tiganya tiada kerajaan negeri, tiada Raja/Sultan, dan tiada Dewan Undangan Negeri (DUN)"
-  - "Penduduk mengundi untuk Dewan Rakyat sahaja: Perkara 46 memperuntukkan 13 kerusi — 11 untuk Kuala Lumpur, 1 Labuan dan 1 Putrajaya — tetapi tiada kerusi DUN"
-  - "Perkara 45 memperuntukkan Ahli Dewan Negara yang dilantik Yang di-Pertuan Agong: dua untuk Kuala Lumpur, satu Labuan dan satu Putrajaya"
-  - "Pentadbiran harian dipegang pihak berkuasa tempatan yang ketuanya dilantik, bukan dipilih: DBKL (Datuk Bandar), Perbadanan Putrajaya dan Perbadanan Labuan"
-appliesTo: "Sesiapa yang ingin memahami mengapa KL, Putrajaya dan Labuan tiada kerajaan negeri, siapa yang mentadbirnya, dan bagaimana penduduknya diwakili."
+  - "세 연방직할구는 모두 헌법 개정을 통해 원래의 주에서 분리되었다: 쿠알라룸푸르(Kuala Lumpur)(Act A206, 1973년), 라부안(Labuan)(Act A585, 1984년), 푸트라자야(Putrajaya)(Act A1095, 2001년), 그리고 제1조 제(4)항에 따라 연방직할구(Wilayah Persekutuan)가 되었다"
+  - "주가 아니므로, 셋 모두 주정부가 없고, 술탄/국왕(Raja/Sultan)이 없으며, 주의회(Dewan Undangan Negeri, DUN)가 없다"
+  - "주민은 하원(Dewan Rakyat)에 대해서만 투표한다: 제46조는 13석 — 쿠알라룸푸르 11석, 라부안 1석, 푸트라자야 1석 — 을 배정하나, 주의회(DUN) 의석은 없다"
+  - "제45조는 양 디페르투안 아공(국왕)이 임명하는 상원의원(Dewan Negara)을 배정한다: 쿠알라룸푸르 2명, 라부안 1명, 푸트라자야 1명"
+  - "일상 행정은 그 수장이 선출이 아니라 임명되는 지방자치단체가 맡는다: 쿠알라룸푸르시청(DBKL, 시장 Datuk Bandar), 푸트라자야공사(Perbadanan Putrajaya), 라부안공사(Perbadanan Labuan)"
+appliesTo: "쿠알라룸푸르(KL), 푸트라자야, 라부안에 왜 주정부가 없는지, 누가 이를 통치하는지, 그리고 그 주민이 어떻게 대표되는지를 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Adakah Kuala Lumpur sebuah negeri?"
-    a: "Tidak. Kuala Lumpur ialah Wilayah Persekutuan. Di bawah Perkara 1(4) Perlembagaan Persekutuan, ia dikeluarkan daripada Negeri Selangor dan menjadi wilayah Persekutuan, jadi ia tiada kerajaan negeri dan tiada Dewan Undangan Negeri."
-  - q: "Mengapa penduduk Wilayah Persekutuan tidak mengundi dalam pilihan raya negeri?"
-    a: "Kerana Wilayah Persekutuan bukan negeri dan tiada Dewan Undangan Negeri untuk diundi. Penduduk mengundi hanya untuk Dewan Rakyat (Parlimen) — Perkara 46 memperuntukkan 11 kerusi untuk Kuala Lumpur serta satu kerusi setiap satu untuk Labuan dan Putrajaya."
-  - q: "Siapa yang melantik Datuk Bandar Kuala Lumpur?"
-    a: "Datuk Bandar dilantik, bukan dipilih. Menurut Dewan Bandaraya Kuala Lumpur, pilihan raya perbandaran telah digantung sejak 1970 dan Datuk Bandar dilantik untuk penggal tiga tahun sebagai lantikan Kerajaan Persekutuan."
-  - q: "Apakah beza Jabatan Wilayah Persekutuan dengan pihak berkuasa tempatan seperti DBKL?"
-    a: "Jabatan Wilayah Persekutuan (JWP) di bawah Jabatan Perdana Menteri menyelaras dasar dan pembangunan ketiga-tiga wilayah di peringkat persekutuan, manakala DBKL, Perbadanan Putrajaya dan Perbadanan Labuan ialah pihak berkuasa tempatan yang menjalankan urusan harian seperti pelesenan, perancangan bandar dan perkhidmatan perbandaran di wilayah masing-masing."
+  - q: "쿠알라룸푸르는 하나의 주입니까?"
+    a: "아닙니다. 쿠알라룸푸르는 연방직할구(Wilayah Persekutuan)입니다. 연방헌법 제1조 제(4)항에 따라 슬랑오르 주(Selangor)에서 분리되어 연방직할구가 되었으므로, 주정부도 주의회(Dewan Undangan Negeri)도 없습니다."
+  - q: "연방직할구 주민은 왜 주 선거에서 투표하지 않습니까?"
+    a: "연방직할구는 주가 아니며 투표할 주의회(Dewan Undangan Negeri)가 없기 때문입니다. 주민은 하원(Dewan Rakyat, 의회)에 대해서만 투표합니다 — 제46조는 쿠알라룸푸르에 11석, 라부안과 푸트라자야에 각각 1석을 배정합니다."
+  - q: "쿠알라룸푸르 시장(Datuk Bandar)은 누가 임명합니까?"
+    a: "시장(Datuk Bandar)은 선출이 아니라 임명됩니다. 쿠알라룸푸르시청(DBKL)에 따르면 지방자치 선거는 1970년부터 정지되었으며, 시장은 연방정부의 임명으로 3년 임기로 임명됩니다."
+  - q: "연방직할구청(Jabatan Wilayah Persekutuan)과 DBKL 같은 지방자치단체의 차이는 무엇입니까?"
+    a: "총리실(Jabatan Perdana Menteri) 산하의 연방직할구청(Jabatan Wilayah Persekutuan, JWP)은 세 직할구의 정책과 개발을 연방 차원에서 조정하는 반면, 쿠알라룸푸르시청(DBKL), 푸트라자야공사(Perbadanan Putrajaya), 라부안공사(Perbadanan Labuan)는 각 직할구에서 인허가, 도시계획, 시정 서비스 같은 일상 업무를 수행하는 지방자치단체입니다."
 
 lang: "ko"
 sourceContentHash: "5739f9cd1afe168b"
@@ -49,8 +49,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tahun penggantungan pilihan raya perbandaran: laman rasmi DBKL menyatakan 'sejak 1970', tetapi penggantungan pilihan raya kerajaan tempatan di seluruh negara lazimnya didokumentasikan bermula 1965 (kemudian diformalkan melalui Akta Kerajaan Tempatan 1976). Pengulas perlu mengesahkan tahun/rangka masa yang tepat."
-  - "Petikan perlembagaan Perkara 1(4), 45 dan 46 tidak dapat diekstrak semula terus daripada PDF Perlembagaan Persekutuan (Cetakan Semula 2020) AGC kerana teksnya tidak boleh dibaca mesin; sahkan bilangan kerusi Dewan Rakyat (13: 11 KL / 1 Labuan / 1 Putrajaya) dan Senator (2 KL / 1 Labuan / 1 Putrajaya) terhadap teks primer yang boleh dibaca."
+  - "지방자치 선거 정지 연도: DBKL 공식 사이트는 「1970년부터」라고 밝히나, 전국 지방자치 선거 정지는 통상 1965년에 시작된 것으로 기록되며(이후 지방정부법(Local Government Act 1976)을 통해 공식화됨). 검토자는 정확한 연도/시기를 확인할 필요가 있다."
+  - "제1조 제(4)항, 제45조, 제46조의 헌법 인용은 AGC 연방헌법 PDF(2020년 재인쇄본)에서 본문이 기계 판독 불가하여 직접 다시 추출할 수 없었다. 하원(Dewan Rakyat) 의석 수(13석: KL 11 / 라부안 1 / 푸트라자야 1)와 상원의원 수(KL 2 / 라부안 1 / 푸트라자야 1)를 판독 가능한 1차 본문과 대조하여 확인할 것."
 updated: 2026-08-01
 sources:
   - title: "Federal Constitution (Reprint 2020) — Perkara 1(4), 45(1) dan 46(2)"

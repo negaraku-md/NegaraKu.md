@@ -2,7 +2,7 @@
 topicId: MY-GOV-0019
 title: "RMCD — 말레이시아 왕립관세청: 말레이시아 조세 체계의 다른 절반"
 seoTitle: "RMCD 말레이시아 — 관세, 물품세, SST"
-socialTitle: "Kastam or LHDN? The line that trips up most Malaysian businesses"
+socialTitle: "관세청(Kastam)인가 LHDN인가? 대부분의 말레이시아 기업이 걸려 넘어지는 경계선"
 slug: "rmcd-kastam"
 category: "government"
 subcategory: ["agencies"]
@@ -16,25 +16,25 @@ sensitivity: "none"
 answer: "RMCD(Jabatan Kastam Diraja Malaysia, 말레이시아 왕립관세청)는 재무부(Ministry of Finance) 소속의 연방 부서로, 말레이시아의 간접세와 국경을 관장합니다. 수입·수출 관세, 물품세, 판매세, 서비스세, 관광세, 출국부담금을 징수하고, 항구·공항·육상 국경에서 관세법(Customs Act 1967)을 집행합니다. 소득세, 인지세, 부동산양도소득세는 그 업무가 아니며 — 그것들은 같은 부처 소속의 별개 법정기관인 LHDN에 속합니다."
 
 keyTakeaways:
-  - "A federal department, not a statutory body — the Ministry of Finance lists Kastam under its departments and LHDN under its agencies"
-  - "Indirect tax and the border: customs duty, excise, sales tax, service tax, tourism tax, departure levy, windfall profit levy"
-  - "Anything measured on income, gains or instruments (income tax, RPGT, stamp duty) belongs to LHDN instead"
-  - "Runs MySST, MyTTx, MyDLV, the tax stamp system and the ezHS tariff explorer"
-  - "Duty rates live in gazetted Orders, not on a web page — the Customs Duties Order plus the preferential schedules under Malaysia's free trade agreements"
-appliesTo: "Anyone working out whether a Malaysian tax obligation is a Kastam matter or an LHDN matter, and which portal or statute answers it."
+  - "법정기관이 아니라 연방 부서이다 — 재무부(Ministry of Finance)는 관세청(Kastam)을 그 부서로, LHDN을 그 산하 기관으로 열거한다"
+  - "간접세와 국경: 관세, 소비세, 판매세, 서비스세, 관광세, 출국 부과금, 초과이윤 부과금"
+  - "소득, 이득 또는 증서를 기준으로 부과되는 것(소득세, 부동산양도소득세(RPGT), 인지세)은 대신 LHDN에 속한다"
+  - "MySST, MyTTx, MyDLV, 세금 인지 제도, 그리고 ezHS 관세 탐색기를 운영한다"
+  - "관세율은 웹페이지가 아니라 관보에 게재된 명령에 있다 — 관세율 명령(Customs Duties Order)과 말레이시아 자유무역협정에 따른 특혜 부칙"
+appliesTo: "말레이시아의 조세 의무가 관세청(Kastam) 사안인지 LHDN 사안인지, 그리고 어느 포털이나 법률이 그에 답하는지를 판단하려는 모든 사람."
 
 faq:
-  - q: "Does Kastam collect income tax?"
-    a: "No. RMCD administers indirect taxes — taxes on goods, services and movement across the border. Income tax, petroleum income tax, real property gains tax and stamp duty are administered by LHDN under separate Acts. The two sit under the same ministry, which is why they are so often confused, but they are different organisations with different statutes, different registration numbers and different filing systems."
-  - q: "Is RMCD part of LHDN?"
-    a: "No, and the difference is structural. RMCD is a federal government department staffed under the public service and headed by a Director General. LHDN is a statutory body created by its own Act of Parliament. The Ministry of Finance lists them in different categories — Kastam under departments, LHDN under agencies."
-  - q: "Where do I find the duty rate for a product?"
-    a: "In the gazetted Customs Duties Order, not in a guidance note. RMCD publishes the ezHS tariff explorer, which lets you search by HS code or description against the current Customs Duties Order and the preferential schedules for each of Malaysia's free trade agreements. The rate depends on the tariff code and, for preferential rates, on proof of origin."
+  - q: "관세청(Kastam)이 소득세를 징수합니까?"
+    a: "아닙니다. RMCD는 간접세 — 재화, 서비스, 국경 이동에 부과되는 세금 — 를 관장합니다. 소득세, 석유소득세, 부동산양도소득세, 인지세는 별도의 법률에 따라 LHDN이 관장합니다. 둘은 같은 부처 산하에 있어 자주 혼동되지만, 서로 다른 법률, 서로 다른 등록 번호, 서로 다른 신고 체계를 가진 다른 조직입니다."
+  - q: "RMCD는 LHDN의 일부입니까?"
+    a: "아닙니다, 그리고 그 차이는 구조적입니다. RMCD는 공무원 조직 아래 인원이 배치되고 청장(Director General)이 이끄는 연방정부 부서입니다. LHDN은 자체 의회 법률로 만들어진 법정기관입니다. 재무부(Ministry of Finance)는 이 둘을 서로 다른 범주로 열거합니다 — 관세청(Kastam)은 부서로, LHDN은 산하 기관으로."
+  - q: "어떤 제품의 관세율은 어디에서 찾습니까?"
+    a: "안내문이 아니라 관보에 게재된 관세율 명령(Customs Duties Order)에 있습니다. RMCD는 ezHS 관세 탐색기를 제공하며, 이를 통해 현행 관세율 명령과 말레이시아 각 자유무역협정의 특혜 부칙에 대하여 HS 코드나 품명으로 검색할 수 있습니다. 세율은 관세 코드에 따라, 그리고 특혜 세율의 경우 원산지 증명에 따라 달라집니다."
 
 verificationNeeded:
-  - "The list of statutes administered by RMCD was assembled from the Acts themselves on the AGC legislation portal and from RMCD's own procedure and legislation sections; it is not a single official consolidated list and may not be exhaustive"
-  - "Division names and headquarters address were read from RMCD's organisation-structure page; the underlying organisation chart PDF was not retrieved, so the number of divisions is deliberately not stated"
-  - "The portal inventory beyond MySST and ezHS (MyTTx, MyDLV, the tax stamp system, MNTR) was not confirmed against a cited RMCD page; the current edition of the Customs Duties Order and the number of preferential FTA schedules in ezHS are likewise unconfirmed and are described qualitatively"
+  - "RMCD가 관장하는 법률 목록은 AGC 법령 포털의 법률 자체와 RMCD 자체의 절차·법령 섹션에서 취합한 것이다. 이는 단일한 공식 통합 목록이 아니며 망라적이지 않을 수 있다"
+  - "국(局) 명칭과 본부 주소는 RMCD 조직도 페이지에서 읽었다. 그 기반이 되는 조직도 PDF는 가져오지 못하였으므로, 국의 수는 의도적으로 명시하지 않는다"
+  - "MySST와 ezHS 외의 포털 목록(MyTTx, MyDLV, 세금 인지 제도, MNTR)은 인용된 RMCD 페이지와 대조하여 확인되지 않았다. 관세율 명령(Customs Duties Order)의 현행판과 ezHS 내 특혜 FTA 부칙의 수도 마찬가지로 확인되지 않아 정성적으로 서술하였다"
 
 lang: "ko"
 sourceContentHash: "e8cda8bbe6ecdbc9"

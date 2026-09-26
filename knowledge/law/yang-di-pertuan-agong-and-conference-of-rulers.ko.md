@@ -14,19 +14,19 @@ sensitivity: "royalty"
 
 answer: "양 디페르투안 아공(Yang di-Pertuan Agong)은 연방헌법(Federal Constitution) 제32조에 따른 연방의 국가원수로, 아홉 명의 말레이 통치자 가운데 통치자 회의(Majlis Raja-Raja)가 5년 임기로 윤번하여 선출합니다. 제38조에 따라 설립된 통치자 회의는 양 디페르투안 아공을 선출하고 파면할 수 있을 뿐만 아니라, 통치자들의 지위, 이슬람교 및 말레이인의 특별한 지위에 관련되는 몇몇 법률과 헌법 개정에 대해 재가를 부여합니다."
 keyTakeaways:
-  - "Perkara 32 Perlembagaan Persekutuan memperuntukkan bahawa Yang di-Pertuan Agong ialah Ketua Negara, dengan keutamaan mengatasi semua orang."
-  - "Agong dipilih oleh Majlis Raja-Raja daripada sembilan Raja Melayu untuk tempoh lima tahun secara giliran mengikut Jadual Ketiga."
-  - "Majlis Raja-Raja ditubuhkan di bawah Perkara 38 dan terdiri daripada sembilan Raja Melayu serta empat Yang di-Pertua Negeri."
-  - "Sesetengah undang-undang dan pindaan perlembagaan memerlukan perkenan Majlis Raja-Raja (Perkara 38(4), 159(5))."
-appliesTo: "Pelajar undang-undang perlembagaan, rakyat Malaysia dan sesiapa yang ingin memahami sistem raja berperlembagaan negara."
+  - "연방헌법 제32조는 양 디페르투안 아공이 국가원수이며 모든 사람에 우선하는 지위를 가진다고 규정합니다."
+  - "아공은 제3부칙에 따라 아홉 명의 말레이 통치자 가운데 통치자 회의가 5년 임기로 윤번하여 선출합니다."
+  - "통치자 회의는 제38조에 따라 설립되며 아홉 명의 말레이 통치자와 네 명의 주 원수로 구성됩니다."
+  - "일부 법률과 헌법 개정은 통치자 회의의 재가를 필요로 합니다(제38조 제4항, 제159조 제5항)."
+appliesTo: "헌법을 공부하는 법학도, 말레이시아 국민, 그리고 이 나라의 입헌군주제를 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Berapa lama penggal Yang di-Pertuan Agong?"
-    a: "Lima tahun, selepas itu jawatan bergilir kepada Raja yang seterusnya melalui pemilihan oleh Majlis Raja-Raja."
-  - q: "Siapa yang memilih Yang di-Pertuan Agong?"
-    a: "Majlis Raja-Raja, iaitu majlis yang terdiri daripada sembilan Raja Melayu dan empat Yang di-Pertua Negeri; hanya sembilan Raja Melayu layak dipilih sebagai Agong."
-  - q: "Bolehkah Majlis Raja-Raja memecat Yang di-Pertuan Agong?"
-    a: "Perkara 38(6) memberi Majlis Raja-Raja kuasa untuk memecat Agong. Menurut ulasan perundangan, kuasa ini tidak pernah digunakan sepanjang sejarah negara."
+  - q: "양 디페르투안 아공의 임기는 얼마입니까?"
+    a: "5년이며, 그 후 그 직위는 통치자 회의의 선출을 통하여 다음 통치자에게 윤번합니다."
+  - q: "누가 양 디페르투안 아공을 선출합니까?"
+    a: "통치자 회의로, 이는 아홉 명의 말레이 통치자와 네 명의 주 원수로 구성되는 회의이며; 아홉 명의 말레이 통치자만이 아공으로 선출될 자격이 있습니다."
+  - q: "통치자 회의가 양 디페르투안 아공을 파면할 수 있습니까?"
+    a: "제38조 제6항은 통치자 회의에 아공을 파면할 권한을 부여합니다. 법률 논평에 따르면, 이 권한은 이 나라의 역사상 한 번도 사용된 적이 없습니다."
 
 lang: "ko"
 sourceContentHash: "f2d2c6ec105b4198"
@@ -46,7 +46,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada rujukan langsung kepada teks rasmi Perlembagaan Persekutuan (cetak semula AGC) wajar ditambah sebagai sumber primer."
+  - "연방헌법 공식 본문(AGC 재발행판)에 대한 직접 참조를 1차 출처로 추가하는 것이 적절한지 여부."
 updated: 2026-08-07
 sources:
   - title: "Federal Constitution (Reprint As at 15 October 2020), Article 159(5)"

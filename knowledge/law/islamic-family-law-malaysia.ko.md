@@ -14,20 +14,20 @@ sensitivity: "religion"
 
 answer: "말레이시아 무슬림의 혼인, 이혼 및 자녀 양육은 각 주와 연방 직할구가 제정한 이슬람 가족법에 의해 규율되며 샤리아 법원(Syariah Court)이 집행합니다. 연방 직할구의 경우, 근거는 이슬람 가족법(연방 직할구)법 1984(Islamic Family Law (Federal Territories) Act 1984, Act 303)로, 혼인 요건, 탈라크(talaq)·파사크(fasakh)·쿨루크(khuluk)의 절차, 부양(nafkah) 청구 및 자녀의 하다나(hadhanah) 권리를 정합니다. 이는 주의 관할 사항이므로, 규정은 주마다 다소 다를 수 있습니다."
 keyTakeaways:
-  - "Undang-undang keluarga Islam adalah bidang kuasa negeri; setiap negeri dan Wilayah Persekutuan mempunyai enakmen atau aktanya sendiri, dan Mahkamah Syariah membicarakannya."
-  - "Di bawah Akta 303, umur minimum nikah ialah 18 tahun (lelaki) dan 16 tahun (perempuan), kecuali dengan kebenaran bertulis Hakim Syarie (seksyen 8)."
-  - "Poligami memerlukan kebenaran bertulis Mahkamah terlebih dahulu, dan Mahkamah perlu berpuas hati perkahwinan itu adil atau perlu serta tidak mendatangkan darar syarie (seksyen 23)."
-  - "Perceraian merangkumi talaq, fasakh, cerai tebus talaq (khuluk), ta'liq, dan li'an — kebanyakannya disahkan atau diperintahkan oleh Mahkamah (seksyen 47-52)."
-  - "Hak hadhanah (jagaan) tamat apabila anak lelaki mencapai 7 tahun dan anak perempuan 9 tahun, dan boleh dilanjutkan oleh Mahkamah sehingga 9 dan 11 tahun (seksyen 84)."
-appliesTo: "Orang Islam di Malaysia, pasangan yang berkahwin mengikut Hukum Syarak, pelajar undang-undang, dan sesiapa yang ingin memahami sistem Mahkamah Syariah."
+  - "이슬람 가족법은 주의 관할 사항으로; 각 주와 연방 직할구는 자체의 법령이나 법을 가지며, 샤리아 법원이 이를 심리합니다."
+  - "Act 303에 따라 혼인 최저 연령은 남성 18세, 여성 16세이며, 샤리아 판사의 서면 허가가 있는 경우는 예외입니다(제8조)."
+  - "일부다처는 먼저 법원의 서면 허가를 필요로 하며, 법원은 그 혼인이 정당하거나 필요하고 샤리아상의 해악(darar syarie)을 초래하지 아니한다고 인정하여야 합니다(제23조)."
+  - "이혼에는 탈라크, 파사크, 대가 지급 이혼(쿨루크), 탈리크, 리안이 포함되며 — 대부분 법원이 확인하거나 명령합니다(제47조~제52조)."
+  - "하다나(양육) 권리는 남아가 7세, 여아가 9세에 이르면 종료되며, 법원이 각각 9세와 11세까지 연장할 수 있습니다(제84조)."
+appliesTo: "말레이시아의 무슬림, 샤리아 법에 따라 혼인한 부부, 법학도, 그리고 샤리아 법원 제도를 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Adakah undang-undang keluarga Islam sama di seluruh Malaysia?"
-    a: "Tidak sepenuhnya. Ia adalah bidang kuasa negeri, jadi setiap negeri menggubal enakmennya sendiri dan Wilayah Persekutuan tertakluk kepada Akta 303. Rangka dan istilahnya serupa, tetapi butiran tertentu boleh berbeza antara negeri."
-  - q: "Bolehkah suami menceraikan isteri di luar mahkamah?"
-    a: "Talaq idealnya dilafazkan di hadapan Mahkamah. Jika dilafazkan di luar mahkamah, ia perlu dilaporkan kepada Mahkamah Syariah untuk pengesahan; portal Kerajaan menyatakan tempoh pelaporan tujuh hari."
-  - q: "Siapa yang paling berhak menjaga anak selepas cerai?"
-    a: "Di bawah seksyen 81 Akta 303, ibu adalah orang yang paling berhak kepada hadhanah anak kecil. Jika ibu hilang kelayakan mengikut Hukum Syarak, hak itu berpindah mengikut susunan keutamaan yang ditetapkan, dengan kebajikan anak sebagai pertimbangan utama."
+  - q: "이슬람 가족법은 말레이시아 전역에서 동일합니까?"
+    a: "전적으로 그렇지는 아니합니다. 이는 주의 관할 사항이므로, 각 주는 자체의 법령을 제정하고 연방 직할구는 Act 303의 규율을 받습니다. 그 틀과 용어는 유사하나, 특정 세부 사항은 주마다 다를 수 있습니다."
+  - q: "남편이 법원 밖에서 아내와 이혼할 수 있습니까?"
+    a: "탈라크는 이상적으로 법원 앞에서 선언됩니다. 법원 밖에서 선언된 경우, 확인을 위하여 샤리아 법원에 보고되어야 하며; 정부 포털은 7일의 보고 기간을 명시합니다."
+  - q: "이혼 후 누가 자녀를 양육할 가장 큰 권리를 가집니까?"
+    a: "Act 303 제81조에 따라, 어머니가 어린 자녀의 하다나에 가장 큰 권리를 가진 사람입니다. 어머니가 샤리아 법에 따라 자격을 상실한 경우, 그 권리는 정해진 우선순위에 따라 이전되며, 자녀의 복리가 최우선 고려 사항이 됩니다."
 
 lang: "ko"
 sourceContentHash: "4f9d82016cc77fa5"
@@ -41,10 +41,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Istilah fiqh 'syiqaq' bagi seksyen 48 — tajuk Inggeris rasmi Akta 303 hanya 'Arbitration by Hakam' (timbang tara oleh Hakam); rujukan 'syiqaq' ialah huraian fiqh (teks Melayu rasmi menggunakan 'syiqaq'). Sahkan padanan istilah pada enakmen negeri berkenaan."
-  - "Nombor seksyen, umur minimum nikah, dan butiran peruntukan pada enakmen negeri masing-masing — mungkin berbeza daripada Akta 303 (Wilayah Persekutuan) dan perlu disemak terhadap teks enakmen negeri berkenaan."
-  - "Tempoh pelaporan tujuh hari bagi talaq di luar mahkamah — dinyatakan oleh portal Kerajaan (MyGovernment); sahkan terhadap peruntukan/prosedur negeri yang berkaitan."
-  - "Peruntukan pilihan anak mumaiyiz selepas tamat tempoh hadhanah (seksyen 84) — sahkan pemakaian dan tafsiran semasa Mahkamah."
+  - "제48조에 대한 피크흐 용어 'syiqaq' — Act 303의 공식 영어 표제는 'Arbitration by Hakam'(하캄에 의한 중재)일 뿐이며; 'syiqaq' 참조는 피크흐의 서술입니다(공식 말레이어 본문은 'syiqaq'을 사용). 해당 주 법령에서 용어 대응을 확인하여야 합니다."
+  - "각 주 법령의 조항 번호, 혼인 최저 연령 및 규정 세부 사항 — Act 303(연방 직할구)과 다를 수 있으며 해당 주 법령 본문에 대조하여 확인하여야 합니다."
+  - "법원 밖 탈라크에 대한 7일 보고 기간 — 정부 포털(MyGovernment)이 명시함; 관련 주 규정/절차에 대조하여 확인하여야 합니다."
+  - "하다나 기간 종료 후 무마이이즈 자녀의 선택에 관한 규정(제84조) — 법원의 현재 적용과 해석을 확인하여야 합니다."
 revisions:
   - revision: 0
     date: 2026-08-07

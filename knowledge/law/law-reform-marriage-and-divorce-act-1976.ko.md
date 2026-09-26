@@ -14,23 +14,23 @@ sensitivity: "none"
 
 answer: "Act 164는 1982년 3월 1일에 시행된 이래 말레이시아의 모든 비무슬림에 대한 민사 혼인과 이혼을 규율합니다. 그것은 일부일처 혼인을 국가등록청(Jabatan Pendaftaran Negara, JPN)에 등록하도록 의무화하고, 최저 연령을 18세로 정하며, 오직 하나의 사유 — 혼인이 회복 불가능하게 파탄되었을 것 — 에 대해서만 이혼을 허용합니다. 고등법원은 또한 혼인 기간 동안 취득한 부부 공동재산을 분할할 권한을 가집니다."
 keyTakeaways:
-  - "Akta 164 terpakai kepada semua bukan Islam di Malaysia dan menjadikan perkahwinan bersifat monogami sejak 1 Mac 1982."
-  - "Umur minimum untuk berkahwin ialah 18 tahun; seorang wanita yang telah berumur 16 tahun boleh berkahwin hanya dengan lesen khas (seksyen 10)."
-  - "Terdapat hanya satu alasan perceraian — perkahwinan telah pecah tanpa boleh dipulihkan (seksyen 53), yang dibuktikan melalui fakta seperti perzinaan, pengabaian dua tahun, atau berpisah dua tahun (seksyen 54)."
-  - "Pindaan 2017 (berkuat kuasa 15 Disember 2018) memansuhkan perbezaan antara harta usaha bersama dan usaha tunggal, dan mahkamah kini mengiktiraf sumbangan bukan kewangan seperti menjaga rumah tangga (seksyen 76)."
-appliesTo: "Pasangan bukan Islam di Malaysia yang ingin mendaftar perkahwinan, memohon perceraian, atau memahami hak ke atas harta sepencarian."
+  - "Act 164는 말레이시아의 모든 비무슬림에 적용되며 1982년 3월 1일 이래 혼인을 일부일처로 만듭니다."
+  - "혼인 최저 연령은 18세이며; 이미 16세가 된 여성은 특별 면허가 있는 경우에만 혼인할 수 있습니다(제10조)."
+  - "이혼의 사유는 오직 하나 — 혼인이 회복 불가능하게 파탄되었을 것(제53조)이며, 이는 간통, 2년의 유기, 또는 2년의 별거 같은 사실을 통하여 입증됩니다(제54조)."
+  - "2017년 개정(2018년 12월 15일 시행)은 공동 노력 재산과 단독 노력 재산의 구별을 폐지하였으며, 이제 법원은 가사와 같은 비재정적 기여를 인정합니다(제76조)."
+appliesTo: "혼인을 등록하거나, 이혼을 신청하거나, 부부 공동재산에 대한 권리를 이해하고자 하는 말레이시아의 비무슬림 부부."
 
 faq:
-  - q: "Adakah Akta 164 terpakai kepada orang Islam?"
-    a: "Tidak. Akta 164 terpakai secara khusus kepada orang bukan Islam sahaja. Perkahwinan dan perceraian orang Islam dikawal oleh undang-undang keluarga Islam negeri masing-masing dan Mahkamah Syariah, bukan Mahkamah Tinggi sivil."
-  - q: "Berapakah umur minimum untuk berkahwin di bawah Akta 164?"
-    a: "Umur minimum ialah 18 tahun bagi kedua-dua pihak. Pengecualian tunggal ialah wanita yang telah berumur 16 tahun boleh berkahwin jika perkahwinan itu dibenarkan melalui lesen khas di bawah seksyen 10."
-  - q: "Berapa lamakah selepas berkahwin sebelum boleh memfailkan perceraian?"
-    a: "Secara umum tiada petisyen perceraian boleh dibentangkan sebelum genap dua tahun dari tarikh perkahwinan (seksyen 50), kecuali dalam kes kesukaran yang luar biasa yang dibenarkan oleh mahkamah."
-  - q: "Perlukah kedua-dua pihak bersetuju untuk bercerai?"
-    a: "Tidak semestinya. Jika kedua-dua bersetuju, mereka boleh membentangkan petisyen bersama di bawah seksyen 52. Jika hanya seorang mahu bercerai, dia boleh membentangkan petisyen tunggal, tetapi lazimnya perlu terlebih dahulu merujuk perkara itu kepada badan pendamai (seksyen 106)."
-  - q: "Bagaimanakah harta sepencarian dibahagikan?"
-    a: "Mahkamah Tinggi berkuasa membahagikan harta yang diperoleh sepanjang perkahwinan di bawah seksyen 76, dengan mengambil kira sumbangan kewangan dan bukan kewangan, hutang untuk manfaat keluarga, keperluan anak, dan tempoh perkahwinan. Pembahagian tidak semestinya 50:50."
+  - q: "Act 164는 무슬림에게 적용됩니까?"
+    a: "아니요. Act 164는 오직 비무슬림에게만 적용됩니다. 무슬림의 혼인과 이혼은 각 주의 이슬람 가족법과 샤리아 법원에 의해 규율되며, 민사 고등법원이 아닙니다."
+  - q: "Act 164에 따른 혼인 최저 연령은 얼마입니까?"
+    a: "최저 연령은 양측 모두 18세입니다. 유일한 예외는 이미 16세가 된 여성이 제10조에 따른 특별 면허로 그 혼인이 허용되는 경우 혼인할 수 있다는 것입니다."
+  - q: "혼인 후 이혼을 신청하기까지 얼마의 시간이 걸립니까?"
+    a: "일반적으로 혼인일로부터 만 2년이 되기 전에는 어떠한 이혼 청구도 제출될 수 없으며(제50조), 법원이 허용하는 이례적 곤란의 경우는 예외입니다."
+  - q: "이혼하려면 양측이 모두 동의하여야 합니까?"
+    a: "반드시 그렇지는 아니합니다. 양측이 동의하면 제52조에 따라 공동 청구를 제출할 수 있습니다. 한쪽만 이혼하려는 경우 단독 청구를 제출할 수 있으나, 통상 먼저 그 사항을 화해 기구에 회부하여야 합니다(제106조)."
+  - q: "부부 공동재산은 어떻게 분할됩니까?"
+    a: "고등법원은 제76조에 따라 혼인 기간 동안 취득한 재산을, 재정적·비재정적 기여, 가족의 이익을 위한 채무, 자녀의 필요, 그리고 혼인 기간을 고려하여 분할할 권한을 가집니다. 분할이 반드시 50:50인 것은 아닙니다."
 
 lang: "ko"
 sourceContentHash: "9844bf61f2e89ad7"
@@ -44,9 +44,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Kod borang JPN.KC02 (permohonan/pendaftaran perkahwinan) dan JPN.KC01C (lesen perkahwinan khas/ekspres untuk mengetepikan notis 21 hari): disahkan melalui sumber kerajaan negeri (Pejabat Daerah Serian, Sarawak), tetapi sahkan sekali lagi terhadap portal rasmi JPN kerana kod borang boleh dikemas kini."
-  - "Klasifikasi sensitivity kekal 'none' seperti diarahkan, tetapi artikel menyentuh peruntukan pemelukan Islam (seksyen 51, 51A) dan pembahagian bidang kuasa sivil vs Syariah — topik antara agama yang sensitif di Malaysia. Peninjau manusia patut menilai semula sama ada tag 'none' memadai."
-  - "Seksyen 12 (ibu kini mempunyai kuasa persetujuan yang sama dengan bapa bagi perkahwinan anak di bawah umur 21 tahun): sahkan perkataan tepat pindaan; sumber sekunder mengesahkan pihak yang boleh memberi persetujuan diperluas tetapi tidak semuanya menyatakan kesetaraan ibu secara eksplisit."
+  - "양식 코드 JPN.KC02(혼인 신청/등록)와 JPN.KC01C(21일 통지를 배제하는 특별/특급 혼인 면허): 주 정부 출처(사라왁 세리안 군청)를 통하여 확인되었으나, 양식 코드가 갱신될 수 있으므로 JPN 공식 포털에 대조하여 다시 확인하여야 합니다."
+  - "sensitivity 분류는 지시받은 대로 'none'으로 유지되나, 이 문서는 이슬람 개종 규정(제51조, 제51A조)과 민사 대 샤리아 관할의 배분 — 말레이시아에서 민감한 종교 간 주제 — 을 다룹니다. 사람 검토자가 'none' 태그가 적절한지 재평가하여야 합니다."
+  - "제12조(이제 어머니가 21세 미만 자녀의 혼인에 대해 아버지와 동등한 동의 권한을 가짐): 개정의 정확한 문언을 확인하여야 합니다; 2차 출처는 동의할 수 있는 자가 확대되었음을 확인하나, 모두가 어머니의 동등함을 명시적으로 밝히는 것은 아닙니다."
 revisions:
   - revision: 0
     date: 2026-08-07

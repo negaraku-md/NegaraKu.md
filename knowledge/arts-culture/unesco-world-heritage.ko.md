@@ -12,22 +12,22 @@ contentType: "guide"
 sensitivity: "none"
 answer: "말레이시아는 여섯 개의 세계유산 자산을 가집니다. 구눙 물루 국립공원(Gunung Mulu National Park)과 키나발루 공원(Kinabalu Park)(둘 다 자연, 둘 다 2000년 등재), 믈라카와 조지타운(Melaka and George Town)(문화, 2008년), 렝공 계곡의 고고 유산(Archaeological Heritage of the Lenggong Valley)(문화, 2012년), 니아 국립공원 동굴 복합지의 고고 유산(문화, 2024년), 그리고 말레이시아 산림연구소 산림공원 슬랑오르(Forest Research Institute Malaysia Forest Park Selangor)(문화, 2025년)입니다. 각각은 유네스코의 열 개 기준 목록에서 지정된 기준에 따라 등재되었습니다 — 물루는 네 개의 자연 기준 (vii)(viii)(ix)(x)를 모두 충족하고, 키나발루는 (ix)(x)만, 믈라카와 조지타운은 (ii)(iii)(iv), 렝공은 (iii)(iv), 니아는 (iii)(v), 그리고 FRIM은 단 하나의 기준 (iv)입니다."
 keyTakeaways:
-  - "Malaysia has six inscribed properties, not four — Niah was added in 2024 and FRIM Forest Park Selangor in 2025"
-  - "A site must meet at least one of ten criteria; which ones it meets is the actual statement of why it is on the List"
-  - "Gunung Mulu is one of the rare properties inscribed under all four natural criteria, (vii) through (x)"
-  - "Kinabalu Park was inscribed only for its ecological processes and biodiversity, (ix) and (x) — not for its scenery"
-  - "FRIM Forest Park is a cultural property under criterion (iv): a man-made rainforest grown on exhausted tin-mining land"
-appliesTo: "Anyone researching, teaching, or writing about Malaysian heritage who needs the official basis for each World Heritage inscription rather than a summary."
+  - "말레이시아에는 넷이 아니라 여섯 개의 등재 자산이 있습니다 — 니아(Niah)가 2024년에, FRIM 산림공원 슬랑오르(FRIM Forest Park Selangor)가 2025년에 더해졌습니다"
+  - "한 유적은 열 개의 기준 가운데 적어도 하나를 충족해야 하며, 어느 기준을 충족하는지가 그것이 목록에 오른 실제 이유의 진술입니다"
+  - "구눙 물루(Gunung Mulu)는 네 개의 자연 기준 (vii)부터 (x)까지 모두에 따라 등재된 드문 자산 가운데 하나입니다"
+  - "키나발루 공원(Kinabalu Park)은 경관이 아니라 그 생태 과정과 생물 다양성, 곧 (ix)와 (x)만으로 등재되었습니다"
+  - "FRIM 산림공원은 기준 (iv)에 따른 문화 자산으로, 고갈된 주석 광산 부지 위에 사람이 길러 낸 열대우림입니다"
+appliesTo: "요약이 아니라 각 세계유산 등재의 공식 근거가 필요한, 말레이시아 유산을 연구하거나 가르치거나 글로 쓰는 모든 사람."
 
 faq:
-  - q: "How many UNESCO World Heritage Sites does Malaysia have?"
-    a: "Six, as recorded by the UNESCO World Heritage Centre: four cultural and two natural. The count moved from four to five in 2024 with the Niah Caves Complex, and to six in 2025 with Forest Research Institute Malaysia Forest Park Selangor. Malaysia ratified the World Heritage Convention on 7 December 1988."
-  - q: "Are Melaka and George Town two separate sites?"
-    a: "No. They form a single serial property, 'Melaka and George Town, Historic Cities of the Straits of Malacca', inscribed in 2008 and later given a minor boundary modification in 2011 in 2011. The two city centres are components of one inscription, which is why they share one set of criteria."
-  - q: "What do the criteria numbers mean?"
-    a: "UNESCO uses one combined list of ten selection criteria, (i) to (x). Criteria (i) to (vi) cover cultural value and (vii) to (x) cover natural value. A property must satisfy at least one, and the criteria cited in its inscription are the formal record of what the World Heritage Committee found to be of Outstanding Universal Value."
-  - q: "Is Malaysia's tentative list still active?"
-    a: "Yes. The World Heritage Centre records three properties on Malaysia's Tentative List: the National Park (Taman Negara) of Peninsular Malaysia, Gombak Selangor Quartz Ridge, and Sungai Buloh Leprosarium. A tentative listing is a declaration of intent to nominate, not an inscription."
+  - q: "말레이시아에는 유네스코 세계유산이 몇 개 있습니까?"
+    a: "유네스코 세계유산센터가 기록한 대로 여섯 개로, 문화 넷과 자연 둘입니다. 2024년 니아 동굴 복합지(Niah Caves Complex)로 넷에서 다섯으로, 2025년 말레이시아 산림연구소 산림공원 슬랑오르(Forest Research Institute Malaysia Forest Park Selangor)로 여섯이 되었습니다. 말레이시아는 1988년 12월 7일 세계유산협약을 비준했습니다."
+  - q: "믈라카와 조지타운은 별개의 두 유적입니까?"
+    a: "아닙니다. 둘은 「믈라카와 조지타운, 말라카 해협의 역사 도시들(Melaka and George Town, Historic Cities of the Straits of Malacca)」이라는 하나의 연속 자산을 이루며, 2008년에 등재되었고 이후 2011년에 2011년에 경미한 경계 수정이 이루어졌습니다. 두 도심은 하나의 등재를 이루는 구성 요소이며, 그래서 하나의 기준 묶음을 공유합니다."
+  - q: "기준 번호는 무엇을 뜻합니까?"
+    a: "유네스코는 (i)부터 (x)까지 열 개의 선정 기준을 하나로 묶은 목록을 씁니다. 기준 (i)부터 (vi)까지는 문화적 가치를, (vii)부터 (x)까지는 자연적 가치를 다룹니다. 한 자산은 적어도 하나를 충족해야 하며, 그 등재에 인용된 기준은 세계유산위원회가 탁월한 보편적 가치로 인정한 바의 공식 기록입니다."
+  - q: "말레이시아의 잠정 목록은 아직 유효합니까?"
+    a: "네. 세계유산센터는 말레이시아 잠정 목록에 세 자산을 기록합니다. 반도 말레이시아의 국립공원(타만 느가라Taman Negara), 곰박 슬랑오르 석영 능선(Gombak Selangor Quartz Ridge), 그리고 숭아이 불로 나병요양원(Sungai Buloh Leprosarium)입니다. 잠정 등재는 지명하겠다는 의사 표명이지 등재가 아닙니다."
 
 lang: "ko"
 sourceContentHash: "2314ed1b6daf68a8"
@@ -46,8 +46,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Inscribed property areas (hectares) for all six properties — deliberately omitted from the table until each figure is read off its own UNESCO property record."
-  - "The dating of Perak Man as recorded by UNESCO or the Department of National Heritage."
+  - "여섯 자산 모두의 등재 면적(헥타르) — 각 수치를 해당 유네스코 자산 기록에서 직접 읽어 낼 때까지 표에서 의도적으로 생략했습니다."
+  - "유네스코나 국가유산부가 기록한 페락 맨(Perak Man)의 연대."
 
 updated: 2026-07-24
 sources:

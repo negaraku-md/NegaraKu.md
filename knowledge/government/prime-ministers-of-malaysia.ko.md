@@ -12,23 +12,23 @@ contentType: "data"
 
 answer: "말레이시아는 1957년 독립 이래 열 번의 총리 재임을 거쳤으며, 이는 아홉 명이 맡았습니다 — 마하티르 모하맛(Mahathir Mohamad)이 두 차례(제4대 총리, 1981~2003, 그리고 제7대, 2018~2020) 재임했습니다. 60년 동안 이 직위는 얼라이언스(Alliance)와 이후 바리산 나시오날(Barisan Nasional)을 통해 통치한 UMNO 지도자들이 맡았습니다. 2018년 총선 이래로는 세 연합에 걸쳐 네 차례 손바뀜이 있었으며, 현재는 2022년 11월 24일 통합(MADANI) 정부가 출범한 안와르 이브라힘(Anwar Ibrahim)이 맡고 있습니다."
 keyTakeaways:
-  - "Ten premierships, nine individuals: Mahathir Mohamad is counted as both the 4th and the 7th Prime Minister."
-  - "The first six Prime Ministers (1957–2018) were all UMNO leaders, governing through the Alliance and then Barisan Nasional."
-  - "The 2018 general election (GE14) ended six decades of UMNO/Barisan Nasional rule at the federal level."
-  - "Since 2018 the office has changed four times across Pakatan Harapan, Perikatan Nasional and Barisan Nasional."
-  - "Anwar Ibrahim, the 10th Prime Minister, took office on 24 November 2022, leading a unity (MADANI) government."
-appliesTo: "Anyone learning how Malaysia has been governed — students, newcomers, and readers tracing the country's political leadership over time."
+  - "열 번의 총리직, 아홉 명의 인물: 마하티르 모하맛(Mahathir Mohamad)은 제4대이자 제7대 총리로 각각 계산된다."
+  - "처음 여섯 명의 총리(1957–2018)는 모두 UMNO 지도자로, 동맹(Alliance)과 이후 국민전선(Barisan Nasional)을 통해 통치하였다."
+  - "2018년 총선거(GE14)는 연방 차원에서 60년에 걸친 UMNO/국민전선(Barisan Nasional)의 통치를 끝냈다."
+  - "2018년 이후 총리직은 희망연대(Pakatan Harapan), 국민연대(Perikatan Nasional), 국민전선(Barisan Nasional)에 걸쳐 네 차례 바뀌었다."
+  - "제10대 총리 안와르 이브라힘(Anwar Ibrahim)은 2022년 11월 24일 취임하여 통합(MADANI) 정부를 이끌고 있다."
+appliesTo: "말레이시아가 어떻게 통치되어 왔는지를 배우는 모든 사람 — 학생, 입문자, 그리고 시간에 따른 이 나라의 정치 지도부를 추적하는 독자."
 
 faq:
-  - q: "Who is Malaysia's Prime Minister now?"
-    a: "Anwar Ibrahim, the 10th Prime Minister, in office since 24 November 2022 and leading a unity (MADANI) government."
-  - q: "How many people have been Prime Minister of Malaysia?"
-    a: "Nine individuals across ten premierships — Mahathir Mohamad held the office twice (1981–2003 and 2018–2020), so he is counted as both the 4th and 7th Prime Minister."
-  - q: "Who served the longest?"
-    a: "Mahathir Mohamad, whose first term ran about 22 years (16 July 1981 – 31 October 2003), the longest of any Malaysian Prime Minister."
+  - q: "현재 말레이시아의 총리는 누구입니까?"
+    a: "제10대 총리 안와르 이브라힘(Anwar Ibrahim)으로, 2022년 11월 24일부터 재임하며 통합(MADANI) 정부를 이끌고 있습니다."
+  - q: "말레이시아의 총리를 지낸 사람은 몇 명입니까?"
+    a: "열 번의 총리직에 걸쳐 아홉 명입니다 — 마하티르 모하맛(Mahathir Mohamad)이 두 차례(1981–2003, 2018–2020) 재임하였으므로 제4대이자 제7대 총리로 계산됩니다."
+  - q: "가장 오래 재임한 사람은 누구입니까?"
+    a: "마하티르 모하맛(Mahathir Mohamad)으로, 그의 첫 임기는 약 22년(1981년 7월 16일 – 2003년 10월 31일) 동안 이어져 말레이시아의 어느 총리보다도 길었습니다."
 
 verificationNeeded:
-  - "Tenure dates should be confirmed against the Prime Minister's Office and the Perdana Leadership Foundation. Ismail Sabri Yaakob remained caretaker Prime Minister after Parliament's dissolution (10 Oct 2022) until Anwar Ibrahim was sworn in on 24 November 2022 — the end date reflects the transfer of office. As a draft, this needs a human reviewer before publication."
+  - "재임 날짜는 총리실(Prime Minister's Office)과 프르다나 지도력 재단(Perdana Leadership Foundation)과 대조하여 확인하여야 한다. 이스마일 사브리 야콥(Ismail Sabri Yaakob)은 의회(Parliament) 해산(2022년 10월 10일) 후 안와르 이브라힘(Anwar Ibrahim)이 2022년 11월 24일 선서 취임할 때까지 과도기 총리로 남아 있었다 — 종료일은 직위의 이양을 반영한다. 초안이므로 발행 전에 사람 검토자가 필요하다."
 
 lang: "ko"
 sourceContentHash: "c027ec0df342599c"

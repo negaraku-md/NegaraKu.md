@@ -12,27 +12,27 @@ contentType: "guide"
 sensitivity: "none"
 answer: "가와이 다약은 사라왁 다약족 — 주로 이반, 비다유, 오랑 울루 공동체 — 의 연례 추수 축제입니다. 6월 1일과 2일에 기념되며 사라왁의 공휴일입니다. 이 축제는 벼(파디padi) 수확에 감사를 드리고, 전통 신앙에서는 프타라(Petara, 신 또는 영들)에게 축복을 구합니다. 그 의식은 롱하우스를 중심으로 합니다. 불운을 쫓아내기 위한 5월 31일 저녁의 무아이 안투 루아(Muai Antu Rua), 투아이 루마(Tuai Rumah, 롱하우스 촌장)가 이끄는 미링(miring) 감사 봉헌, 자정의 아이 펭아유(Ai Pengayu, 장수를 비는 투악) 건배, 그리고 응아잣(ngajat) 춤입니다. 1964년 9월 25일 공휴일로 관보에 고시되어 1965년 6월 1일에 처음 공식적으로 기념되었습니다."
 keyTakeaways:
-  - "Gawai Dayak is the harvest festival of the Dayak communities of Sarawak, celebrated on 1 and 2 June"
-  - "'Dayak' is a collective term for the indigenous peoples of Sarawak — mainly the Iban, Bidayuh and Orang Ulu groups (Kayan, Kenyah, Kelabit, Lun Bawang and others)"
-  - "It is a public holiday in the state of Sarawak on 1 and 2 June"
-  - "Celebrations begin on the evening of 31 May with the Muai Antu Rua and centre on the longhouse and the miring thanksgiving offering led by the Tuai Rumah"
-  - "At midnight the community shares a toast of Ai Pengayu (tuak, rice wine) and wishes one another long life, health and prosperity"
-  - "It was gazetted as a public holiday on 25 September 1964 and first celebrated officially on 1 June 1965"
-appliesTo: "Anyone who wants to understand what Gawai Dayak is, which communities celebrate it, the longhouse rituals and customs involved, and how it became a public holiday in Sarawak."
+  - "가와이 다약(Gawai Dayak)은 사라왁(Sarawak) 다약(Dayak) 공동체의 추수 축제로, 6월 1일과 2일에 기념됩니다"
+  - "「다약(Dayak)」은 사라왁 원주민을 아우르는 집합 명칭으로 — 주로 이반(Iban), 비다유(Bidayuh), 오랑 울루(Orang Ulu) 집단(카얀Kayan, 크냐Kenyah, 클라빗Kelabit, 룬 바왕Lun Bawang 등)입니다"
+  - "6월 1일과 2일은 사라왁 주의 공휴일입니다"
+  - "축하는 5월 31일 저녁의 무아이 안투 루아(Muai Antu Rua)로 시작하며, 롱하우스와 투아이 루마(Tuai Rumah)가 이끄는 미링(miring) 감사 봉헌을 중심으로 이루어집니다"
+  - "자정에 공동체는 아이 펭아유(Ai Pengayu, 투악tuak, 쌀술) 건배를 나누며 서로에게 장수와 건강, 번영을 빕니다"
+  - "가와이 다약은 1964년 9월 25일 공휴일로 관보에 고시되어 1965년 6월 1일에 처음 공식적으로 기념되었습니다"
+appliesTo: "가와이 다약이 무엇이며 어느 공동체가 기념하는지, 관련된 롱하우스 의례와 관습, 그리고 그것이 사라왁에서 어떻게 공휴일이 되었는지를 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "What is Gawai Dayak?"
-    a: "Gawai Dayak is the harvest festival of the Dayak peoples of Sarawak. 'Gawai' means a festival or ritual, and 'Dayak' is a collective term for the state's indigenous communities — chiefly the Iban, the Bidayuh and the Orang Ulu groups. It marks the end of the rice-harvesting season and is a time of thanksgiving, homecoming and hospitality, celebrated on 1 and 2 June."
-  - q: "When is Gawai Dayak and is it a public holiday?"
-    a: "Gawai Dayak is celebrated on 1 and 2 June and is a public holiday in the state of Sarawak. Celebrations begin on the evening of 31 May, and in many communities the wider Gawai season stretches through the month of June until it is formally closed by the ngiling tikai ('rolling up the mat') ceremony."
-  - q: "Who celebrates Gawai Dayak?"
-    a: "It is celebrated by the Dayak communities of Sarawak. According to the Sarawak Tourism Board these include the Iban, Bidayuh, Kayan, Kenyah, Kelabit, Lun Bawang and others. The Kayan, Kenyah, Kelabit and Lun Bawang are among the groups collectively referred to as Orang Ulu ('upriver people')."
-  - q: "What happens during Gawai Dayak?"
-    a: "On the evening of 31 May the Muai Antu Rua is performed to cast away the spirit of greed and misfortune. The miring thanksgiving offering, led by the Tuai Rumah (longhouse chief) to the beating of the gendang rayah, gives thanks for the harvest. Just before midnight there is a procession along the longhouse gallery (the ngalu petara), and at midnight a gong is sounded and the community shares a toast of Ai Pengayu. The days that follow are filled with the ngajat dance, tuak, traditional food and open-house visiting."
-  - q: "What is the greeting for Gawai?"
-    a: "A common greeting is 'Gayu Guru, Gerai Nyamai', which is rendered as a wish for long life, health and prosperity. 'Selamat Hari Gawai' is also widely used."
-  - q: "Is Gawai Dayak the same as Kaamatan in Sabah?"
-    a: "They are separate festivals with a shared theme. Gawai Dayak is the Dayak harvest festival of Sarawak, held on 1 and 2 June. Kaamatan is the Kadazandusun harvest festival of Sabah, held on 30 and 31 May. Both give thanks for the rice harvest, but the communities, rituals and dates differ."
+  - q: "가와이 다약이란 무엇입니까?"
+    a: "가와이 다약은 사라왁 다약족의 추수 축제입니다. 「가와이(Gawai)」는 축제 또는 의례를 뜻하고, 「다약(Dayak)」은 주 원주민 공동체 — 주로 이반, 비다유, 오랑 울루 집단 — 을 아우르는 집합 명칭입니다. 이는 벼 수확철의 끝을 알리며, 감사와 귀향, 환대의 때로 6월 1일과 2일에 기념됩니다."
+  - q: "가와이 다약은 언제이며, 공휴일입니까?"
+    a: "가와이 다약은 6월 1일과 2일에 기념되며 사라왁 주의 공휴일입니다. 축하는 5월 31일 저녁에 시작되고, 많은 공동체에서는 더 넓은 가와이 철이 6월 내내 이어지다가 응일링 티카이(ngiling tikai, 「돗자리 말기」) 의식으로 공식적으로 마무리됩니다."
+  - q: "가와이 다약은 누가 기념합니까?"
+    a: "가와이 다약은 사라왁의 다약 공동체가 기념합니다. 사라왁 관광청(Sarawak Tourism Board)에 따르면 여기에는 이반, 비다유, 카얀, 크냐, 클라빗, 룬 바왕 등이 포함됩니다. 카얀, 크냐, 클라빗, 룬 바왕은 함께 오랑 울루(Orang Ulu, 「강 상류 사람들」)로 불리는 집단에 속합니다."
+  - q: "가와이 다약 동안에는 무슨 일이 일어납니까?"
+    a: "5월 31일 저녁에는 탐욕과 불운의 영을 쫓아내기 위해 무아이 안투 루아(Muai Antu Rua)를 행합니다. 근당 라야(gendang rayah)의 연주에 맞추어 투아이 루마(Tuai Rumah, 롱하우스 촌장)가 이끄는 미링(miring) 감사 봉헌은 수확에 감사를 드립니다. 자정 직전에는 롱하우스 회랑을 따라 행렬(응알루 프타라ngalu petara)이 이어지고, 자정에 공이 울리면 공동체가 아이 펭아유(Ai Pengayu) 건배를 나눕니다. 이어지는 날들은 응아잣(ngajat) 춤, 투악, 전통 음식, 오픈 하우스 방문으로 채워집니다."
+  - q: "가와이의 인사말은 무엇입니까?"
+    a: "흔한 인사말은 「가유 구루, 그라이 냐마이(Gayu Guru, Gerai Nyamai)」로, 장수와 건강, 번영을 비는 뜻으로 옮겨집니다. 「슬라맛 하리 가와이(Selamat Hari Gawai)」도 널리 쓰입니다."
+  - q: "가와이 다약은 사바의 카아마탄과 같습니까?"
+    a: "둘은 주제를 공유하는 별개의 축제입니다. 가와이 다약은 6월 1일과 2일에 열리는 사라왁 다약의 추수 축제입니다. 카아마탄은 5월 30일과 31일에 열리는 사바 카다잔두순의 추수 축제입니다. 둘 다 벼 수확에 감사를 드리지만, 공동체와 의례, 날짜가 다릅니다."
 
 lang: "ko"
 sourceContentHash: "5a38a61ecb8e6e5a"
@@ -51,8 +51,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact original text of the 1964 gazette designating Gawai Dayak a public holiday — the 25 September 1964 date is taken from tourism-body and encyclopaedic records rather than the gazette document itself."
-  - "Whether Gawai Dayak carries any formal national-heritage listing under the Jabatan Warisan Negara — not confirmed at an official source at the time of writing."
+  - "가와이 다약을 공휴일로 지정한 1964년 관보의 정확한 원문 — 1964년 9월 25일이라는 날짜는 관보 문서 자체가 아니라 관광 기관과 백과사전 기록에서 취한 것입니다."
+  - "가와이 다약이 국가유산국(Jabatan Warisan Negara) 아래 공식 국가유산으로 등재되어 있는지 여부 — 집필 시점에 공식 자료로 확인되지 않았습니다."
 
 updated: 2026-07-24
 sources:

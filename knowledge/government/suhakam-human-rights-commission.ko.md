@@ -14,24 +14,24 @@ sensitivity: "none"
 
 answer: "SUHAKAM(Suruhanjaya Hak Asasi Manusia Malaysia, 말레이시아 인권위원회)은 말레이시아 인권위원회법 1999(Human Rights Commission of Malaysia Act 1999, Act 597)에 따라 설치되어 2000년 4월 20일에 운영을 시작한 국가 인권 기구입니다. 제4조 제(1)항에 따른 네 기능은 인권 인식과 교육의 증진, 정부에 대한 입법 자문, 국제 조약 가입의 권고, 그리고 인권 침해 진정의 조사입니다. 이 법에서 '인권'은 연방헌법(Federal Constitution) 제2부의 기본적 자유를 가리킵니다. SUHAKAM의 권고는 구속력이 없으며, 법원이 심리 중이거나 이미 판결한 사안은 조사할 수 없습니다."
 keyTakeaways:
-  - "Ditubuhkan di bawah Akta 597 (Perkenan Diraja 27 Ogos 1999, diwartakan 9 September 1999); mula berkuat kuasa 20 April 2000 melalui PU(B) 122/2000"
-  - "Seksyen 2: 'hak asasi manusia' bermaksud kebebasan asasi seperti termaktub dalam Bahagian II Perlembagaan Persekutuan"
-  - "Seksyen 4(1): empat fungsi teras — kesedaran/pendidikan, nasihat perundangan, syor triti antarabangsa, dan siasatan aduan"
-  - "Seksyen 4(2)(d): berkuasa melawat mana-mana tempat tahanan, institusi dan tempat lain; Seksyen 4(3) melarang penolakan lawatan jika prosedur dipatuhi"
-  - "Seksyen 5: keanggotaan tidak kurang tujuh dan tidak lebih dua puluh orang, dilantik Yang di-Pertuan Agong atas syor Perdana Menteri; tempoh tiga tahun, boleh dilantik semula sekali sahaja"
-  - "Seksyen 12(2): SUHAKAM tidak boleh menyiasat perkara yang sedang dibicarakan atau telah diputuskan mahkamah"
-  - "Seksyen 21: wajib membentangkan laporan tahunan di Parlimen; Seksyen 19(2): tidak boleh menerima dana asing kecuali bagi tujuan pendidikan hak asasi"
-appliesTo: "Pelajar, penyelidik, wartawan, aktivis dan sesiapa yang mahu memahami mandat, kuasa dan had SUHAKAM daripada teks Akta 597 sendiri, atau yang berhasrat memfailkan aduan hak asasi."
+  - "Act 597(국왕 재가 1999년 8월 27일, 관보 게재 1999년 9월 9일)에 따라 설립되었으며, PU(B) 122/2000을 통해 2000년 4월 20일 발효되었다"
+  - "제2조: 「인권」은 연방헌법 제II편에 명시된 기본적 자유를 뜻한다"
+  - "제4조 제(1)항: 네 가지 핵심 기능 — 인식 제고/교육, 입법 자문, 국제 조약 권고, 그리고 진정 조사"
+  - "제4조 제(2)항 (d)호: 어떠한 구금 장소, 시설 및 그 밖의 장소든 방문할 권한을 가진다. 제4조 제(3)항은 절차가 준수되면 방문 거부를 금지한다"
+  - "제5조: 구성원은 7명 이상 20명 이하로, 총리의 권고에 따라 양 디페르투안 아공(국왕)이 임명한다. 임기는 3년이며 한 차례만 재임명될 수 있다"
+  - "제12조 제(2)항: SUHAKAM은 법원에서 심리 중이거나 이미 판결된 사안을 조사할 수 없다"
+  - "제21조: 연례 보고서를 의회(Parliament)에 제출하여야 한다. 제19조 제(2)항: 인권 교육 목적을 제외하고는 외국 자금을 받을 수 없다"
+appliesTo: "Act 597의 본문 그 자체로부터 SUHAKAM의 권한, 임무 및 한계를 이해하고자 하는, 또는 인권 진정을 제기하고자 하는 학생, 연구자, 기자, 활동가 및 모든 사람."
 
 faq:
-  - q: "Adakah syor SUHAKAM mengikat Kerajaan dari segi undang-undang?"
-    a: "Tidak. Di bawah Seksyen 13, apabila siasatan mendedahkan pencabulan hak asasi, SUHAKAM boleh merujuk perkara itu kepada pihak berkuasa berkaitan dengan syor yang perlu. Pindaan 2024 (Akta A1714) menambah Seksyen 13(3) yang mewajibkan pihak berkuasa itu memaklumkan SUHAKAM tentang apa-apa tindakan yang diambil, tetapi statut tidak menjadikan syor itu mengikat. Kuasa SUHAKAM ialah menyiasat, mengesyor dan melaporkan, bukan menguatkuasakan."
-  - q: "Bolehkah SUHAKAM menyiasat kes yang sudah dibawa ke mahkamah?"
-    a: "Tidak. Seksyen 12(2) menyatakan SUHAKAM tidak boleh menyiasat aduan yang menjadi hal perkara mana-mana prosiding yang belum selesai di mahkamah (termasuk rayuan) atau yang telah diputuskan muktamad oleh mahkamah. Seksyen 12(3) pula mengarahkan SUHAKAM berhenti serta-merta jika, semasa siasatannya sedang berjalan, perkara itu menjadi hal perkara prosiding mahkamah."
-  - q: "Siapa yang melantik pesuruhjaya SUHAKAM?"
-    a: "Di bawah Seksyen 5(2), ahli SUHAKAM dilantik oleh Yang di-Pertuan Agong atas syor Perdana Menteri, yang sebelum memberikan nasihatnya hendaklah berunding dengan jawatankuasa di bawah Seksyen 11A. Selepas pindaan 2024, Seksyen 5(3B) melarang mana-mana orang yang aktif dalam politik dan berdaftar dengan mana-mana parti politik daripada dilantik sebagai ahli."
-  - q: "Bolehkah SUHAKAM melawat pusat tahanan dan lokap?"
-    a: "Ya. Seksyen 4(2)(d) memberi SUHAKAM kuasa melawat mana-mana tempat tahanan, institusi dan tempat lain, dan membuat syor yang perlu. Seksyen 4(3), yang dimasukkan oleh pindaan 2024, menyatakan lawatan itu tidak boleh ditolak oleh orang yang bertanggungjawab ke atas tempat berkenaan selagi prosedur yang ditetapkan dipatuhi."
+  - q: "SUHAKAM의 권고는 법적으로 정부를 구속합니까?"
+    a: "아닙니다. 제13조에 따라, 조사가 인권 침해를 드러내면 SUHAKAM은 필요한 권고와 함께 그 사안을 관계 당국에 회부할 수 있습니다. 2024년 개정(Act A1714)은 그 당국이 취한 조치를 SUHAKAM에 통지하도록 의무화하는 제13조 제(3)항을 추가하였으나, 법률은 그 권고를 구속력 있게 만들지는 않습니다. SUHAKAM의 권한은 조사하고, 권고하고, 보고하는 것이지 집행하는 것이 아닙니다."
+  - q: "SUHAKAM이 이미 법원에 제기된 사건을 조사할 수 있습니까?"
+    a: "아닙니다. 제12조 제(2)항은 SUHAKAM이 법원에서 미결인 절차(항소 포함)의 대상이 되거나 법원이 이미 종국적으로 판결한 진정을 조사할 수 없다고 규정합니다. 또한 제12조 제(3)항은 조사가 진행되는 동안 그 사안이 법원 절차의 대상이 되면 SUHAKAM이 즉시 중단하도록 지시합니다."
+  - q: "SUHAKAM 위원은 누가 임명합니까?"
+    a: "제5조 제(2)항에 따라 SUHAKAM 위원은 총리의 권고에 따라 양 디페르투안 아공(국왕)이 임명하며, 총리는 그 조언을 하기 전에 제11A조에 따른 위원회와 협의하여야 합니다. 2024년 개정 후, 제5조 제(3B)항은 정치에 적극적으로 관여하고 어느 정당에 등록된 사람을 위원으로 임명하는 것을 금지합니다."
+  - q: "SUHAKAM이 구금 시설과 유치장을 방문할 수 있습니까?"
+    a: "그렇습니다. 제4조 제(2)항 (d)호는 SUHAKAM에게 어떠한 구금 장소, 시설 및 그 밖의 장소든 방문하고 필요한 권고를 할 권한을 부여합니다. 2024년 개정으로 삽입된 제4조 제(3)항은, 정해진 절차가 준수되는 한 해당 장소를 책임지는 사람이 그 방문을 거부할 수 없다고 규정합니다."
 
 lang: "ko"
 sourceContentHash: "41da53bbfb03e372"
@@ -45,7 +45,7 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Tarikh sebenar keputusan Sesi ke-47 Sub-Jawatankuasa Akreditasi (SCA) GANHRI yang mengesahkan semula taraf 'A' SUHAKAM — 9 Jun 2026 ialah tarikh Kenyataan Media No. 32-2026 (pengumuman SUHAKAM), bukan tarikh keputusan SCA yang disahkan; sahkan tarikh sesi terhadap laporan rasmi SCA/GANHRI."
+  - "SUHAKAM의 「A」 등급을 재확인한 GANHRI 인증 소위원회(SCA) 제47차 회기 결정의 실제 날짜 — 2026년 6월 9일은 SCA의 확정된 결정 날짜가 아니라 보도자료 제32-2026호(SUHAKAM 발표)의 날짜이다. 회기 날짜를 SCA/GANHRI 공식 보고서와 대조하여 확인할 것."
 revisions:
   - revision: 0
     date: 2026-08-01

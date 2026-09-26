@@ -14,22 +14,22 @@ sensitivity: "elections"
 
 answer: "선거관리위원회(Election Commission, SPR)는 연방헌법(Federal Constitution) 제114조에 따라 설립되어 제113조에 따른 기능을 수행하는 독립 위원회로, 하원(Dewan Rakyat)과 주 입법의회(Dewan Undangan Negeri)의 선거를 시행하고, 유권자 명부를 작성·점검하며, 제13부칙(Thirteenth Schedule)에 따라 선거구를 재검토합니다. 선거가 시행되는 방식은 1958년 선거법(Elections Act 1958, Act 19)이 규율하고, 선거 중의 범죄와 부패 행위는 1954년 선거범죄법(Election Offences Act 1954, Act 5)이 다룹니다."
 keyTakeaways:
-  - "SPR ditubuhkan di bawah Perkara 114 dan menjalankan fungsi di bawah Perkara 113 Perlembagaan Persekutuan."
-  - "Keanggotaan SPR terdiri daripada seorang pengerusi, seorang timbalan pengerusi dan lima anggota lain, dilantik oleh Yang di-Pertuan Agong selepas berunding dengan Majlis Raja-Raja."
-  - "Anggota SPR hanya boleh dipecat atas alasan dan cara yang sama seperti seorang hakim Mahkamah Persekutuan, dan terhenti memegang jawatan pada umur 66 tahun."
-  - "Kajian semula persempadanan mesti mempunyai lat tidak kurang daripada lapan tahun antara satu kajian dengan yang berikutnya, dan setiap kajian disiapkan dalam tempoh tidak melebihi dua tahun."
-  - "Akta Pilihan Raya 1958 mengawal pendaftaran pemilih dan penjalanan pilihan raya; Akta Kesalahan Pilihan Raya 1954 menangani amalan rasuah, ejen pilihan raya, perbelanjaan pilihan raya dan petisyen pilihan raya."
-appliesTo: "Pengundi, calon dan ejen pilihan raya, penyelidik dasar, wartawan, pelajar undang-undang dan sesiapa yang ingin memahami cara pilihan raya Malaysia ditadbir."
+  - "SPR은 연방헌법 제114조에 따라 설립되어 제113조에 따른 기능을 수행합니다."
+  - "SPR의 구성은 위원장 1인, 부위원장 1인, 그리고 그 밖의 위원 5인으로 이루어지며, 통치자 회의(Majlis Raja-Raja)와 협의한 뒤 양 디페르투안 아공이 임명합니다."
+  - "SPR 위원은 연방법원(Mahkamah Persekutuan) 판사와 동일한 사유와 방식이 아니고서는 해임될 수 없으며, 66세에 이르면 그 직에서 물러납니다."
+  - "선거구 획정 재검토는 한 재검토와 그다음 재검토 사이에 8년 이상의 간격이 있어야 하며, 각 재검토는 2년을 넘지 않는 기간 안에 완료되어야 합니다."
+  - "1958년 선거법은 유권자 등록과 선거 시행을 규율하며; 1954년 선거범죄법은 부패 행위, 선거 대리인, 선거 비용 및 선거 소청을 다룹니다."
+appliesTo: "유권자, 후보 및 선거 대리인, 정책 연구자, 언론인, 법학도, 그리고 말레이시아의 선거가 어떻게 관리되는지 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Siapa yang melantik anggota Suruhanjaya Pilihan Raya?"
-    a: "Anggota SPR dilantik oleh Yang di-Pertuan Agong selepas berunding dengan Majlis Raja-Raja. Perkara 114(2) menghendaki Yang di-Pertuan Agong mengambil perhatian tentang mustahaknya suatu suruhanjaya yang mendapat kepercayaan awam."
-  - q: "Berapa kerap persempadanan bahagian pilihan raya dikaji semula?"
-    a: "Perlembagaan menetapkan lat tempoh tidak kurang daripada lapan tahun antara tarikh siapnya satu kajian semula dengan tarikh bermulanya kajian semula berikutnya. Setiap kajian pula mesti disiapkan dalam tempoh tidak melebihi dua tahun."
-  - q: "Apakah perbezaan antara Akta Pilihan Raya 1958 dan Akta Kesalahan Pilihan Raya 1954?"
-    a: "Akta Pilihan Raya 1958 (Akta 19) menyediakan peruntukan bagi pilihan raya ke Dewan Rakyat dan Dewan Undangan Negeri serta bagi pendaftaran pemilih. Akta Kesalahan Pilihan Raya 1954 (Akta 5) pula bertujuan mencegah kesalahan pilihan raya serta amalan rasuah dan menyalahi undang-undang, memperuntukkan pelantikan ejen pilihan raya, mengawal perbelanjaan pilihan raya, dan memperuntukkan petisyen pilihan raya."
-  - q: "Bolehkah anggota SPR dipecat dengan mudah?"
-    a: "Tidak. Perkara 114(3) memperuntukkan bahawa anggota SPR tidak boleh dipecat daripada jawatan kecuali atas alasan dan mengikut cara yang sama seperti seorang hakim Mahkamah Persekutuan, satu perlindungan yang bertujuan menyokong kebebasan suruhanjaya."
+  - q: "누가 선거관리위원회 위원을 임명합니까?"
+    a: "SPR 위원은 통치자 회의(Majlis Raja-Raja)와 협의한 뒤 양 디페르투안 아공이 임명합니다. 제114조 제2항은 양 디페르투안 아공이 공공의 신뢰를 받는 위원회의 긴요함에 유의하도록 요구합니다."
+  - q: "선거구 획정은 얼마나 자주 재검토됩니까?"
+    a: "헌법은 한 재검토가 완료된 날짜와 그다음 재검토가 시작되는 날짜 사이에 8년 이상의 간격을 정합니다. 또한 각 재검토는 2년을 넘지 않는 기간 안에 완료되어야 합니다."
+  - q: "1958년 선거법과 1954년 선거범죄법의 차이는 무엇입니까?"
+    a: "1958년 선거법(Akta 19)은 하원 및 주 입법의회의 선거와 유권자 등록을 위한 규정을 둡니다. 1954년 선거범죄법(Akta 5)은 선거범죄와 부패·위법 행위를 방지하고, 선거 대리인의 임명을 규정하며, 선거 비용을 규제하고, 선거 소청을 규정하는 것을 목적으로 합니다."
+  - q: "SPR 위원은 쉽게 해임될 수 있습니까?"
+    a: "아니요. 제114조 제3항은 SPR 위원이 연방법원 판사와 동일한 사유와 방식이 아니고서는 그 직에서 해임될 수 없다고 규정하며, 이는 위원회의 독립성을 뒷받침하기 위한 보호입니다."
 
 lang: "ko"
 sourceContentHash: "4ee6643ef314a576"
@@ -50,10 +50,10 @@ revisions:
 
 updated: 2026-08-07
 verificationNeeded:
-  - "Tajuk panjang dan peruntukan Akta Kesalahan Pilihan Raya 1954 (Akta 5): amalan rasuah (penyamaran, layanan, pengaruh tak wajar, rasuah), pelantikan ejen pilihan raya, kawalan perbelanjaan pilihan raya, dan petisyen pilihan raya — sahkan nombor seksyen terhadap teks rasmi Akta 5 di portal AGC (lom.agc.gov.my)."
-  - "Peruntukan operasi khusus Akta Pilihan Raya 1958 (Akta 19): pendaftaran pemilih dalam satu bahagian pilihan raya sahaja, pelantikan pegawai pengurus (returning officer), dan rujukan Peraturan-Peraturan Pilihan Raya (Penjalanan Pilihan Raya) 1981 [P.U.(A) 386/1981] — sahkan nombor seksyen terhadap teks rasmi Akta 19."
-  - "Langkah pembentangan dan kelulusan cadangan persempadanan di Dewan Rakyat berpunca daripada Jadual Ketiga Belas Perlembagaan (bukan Perkara 113) — sahkan terhadap teks Jadual Ketiga Belas."
-  - "Kedudukan pentadbiran SPR di bawah Jabatan Perdana Menteri — sahkan terhadap sumber rasmi kerajaan atau SPR."
+  - "1954년 선거범죄법(Akta 5)의 정식 제목 및 규정: 부패 행위(사칭, 향응, 부당위압, 뇌물), 선거 대리인의 임명, 선거 비용의 규제, 그리고 선거 소청 — AGC 포털(lom.agc.gov.my)의 Akta 5 공식 본문에 대조하여 조항 번호를 확인하여야 합니다."
+  - "1958년 선거법(Akta 19)의 구체적 운영 규정: 하나의 선거구에서만의 유권자 등록, 선거관리관(returning officer)의 임명, 그리고 1981년 선거 규정(선거 시행)[P.U.(A) 386/1981]의 참조 — Akta 19의 공식 본문에 대조하여 조항 번호를 확인하여야 합니다."
+  - "선거구 획정안을 하원에서 제출하고 승인하는 절차는 헌법 제13부칙(제113조가 아니라)에서 비롯됩니다 — 제13부칙 본문에 대조하여 확인하여야 합니다."
+  - "SPR의 총리실(Jabatan Perdana Menteri) 산하 행정적 지위 — 정부 또는 SPR의 공식 출처에 대조하여 확인하여야 합니다."
 sources:
   - title: "Perlembagaan Persekutuan — Perkara 113: Penjalanan Pilihan Raya"
     url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf"

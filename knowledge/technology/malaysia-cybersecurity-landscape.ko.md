@@ -14,26 +14,26 @@ sensitivity: "security"
 
 answer: "말레이시아의 사이버보안 태세는 자발적인 말레이시아 사이버보안 전략 2020-2024(Malaysia Cyber Security Strategy 2020-2024)에서 2024년 8월 26일 발효된 2024년 사이버보안법(Cyber Security Act 2024, Act 854)이라는 구속력 있는 법률로 강화되었습니다. 이 법은 국가사이버보안위원회(National Cyber Security Committee)를 설치하고, 국가사이버보안청(NACSA)에 권한을 부여하며, 국가핵심정보인프라(NCII) 부문을 지정하고, 형사 처벌로 뒷받침되는 위험 평가·감사·신속한 침해사고 보고 의무를 부과합니다. 온라인 사기 피해가 급증하는 배경 속에서도, 이 나라는 ITU 세계사이버보안지수(Global Cybersecurity Index)의 최상위 계층에 자리하고 있습니다."
 keyTakeaways:
-  - "The Cyber Security Act 2024 (Act 854) was gazetted on 26 June 2024 and came into force on 26 August 2024, together with four supporting regulations"
-  - "Act 854 establishes the National Cyber Security Committee and gives the Chief Executive of NACSA powers over designated National Critical Information Infrastructure (NCII) entities"
-  - "NCII entities must report a cyber security incident immediately, with an initial report within 6 hours and supplementary details within 14 days"
-  - "Failure to report an incident or operating without a required licence can attract a fine up to RM500,000 or up to 10 years' imprisonment"
-  - "The Malaysia Cyber Security Strategy 2020-2024 committed RM1.8 billion across five pillars, 12 strategies, 35 action plans and 113 programmes"
-  - "Malaysia scored 98.06 and ranked joint fifth globally in the ITU Global Cybersecurity Index 2020 (GCIv4), and is placed in the top tier of the 2024 edition"
-  - "Reported online-fraud losses reached RM1.57 billion in 2024 and RM2.97 billion in 2025"
-appliesTo: "Business owners, IT and compliance leads, students and general readers who want an accurate overview of Malaysia's cybersecurity law, strategy and international standing."
+  - "2024년 사이버보안법(Cyber Security Act 2024, Act 854)은 2024년 6월 26일 관보에 고시되어 네 개의 지원 규정과 함께 2024년 8월 26일 발효되었습니다"
+  - "Act 854는 국가사이버보안위원회(National Cyber Security Committee)를 설치하고, NACSA의 최고책임자(Chief Executive)에게 지정된 국가핵심정보인프라(NCII) 주체에 대한 권한을 부여합니다"
+  - "NCII 주체는 사이버보안 침해사고를 즉시 보고해야 하며, 6시간 이내에 최초 보고서를, 14일 이내에 보완 상세를 제출해야 합니다"
+  - "침해사고 미보고 또는 필요한 면허 없는 영업은 최대 RM500,000의 벌금 또는 최대 10년의 징역에 처해질 수 있습니다"
+  - "말레이시아 사이버보안 전략 2020-2024(Malaysia Cyber Security Strategy 2020-2024)는 5개 축, 12개 전략, 35개 실행 계획, 113개 프로그램에 걸쳐 RM1.8 billion을 투입했습니다"
+  - "말레이시아는 ITU 세계사이버보안지수 2020(GCIv4)에서 98.06점으로 세계 공동 5위를 기록했으며, 2024년판에서는 최상위 계층에 자리하고 있습니다"
+  - "보고된 온라인 사기 피해액은 2024년 RM1.57 billion, 2025년 RM2.97 billion에 이르렀습니다"
+appliesTo: "말레이시아의 사이버보안 법률, 전략, 국제적 위상에 대한 정확한 개관을 원하는 기업주, IT 및 컴플라이언스 담당자, 학생 및 일반 독자."
 
 faq:
-  - q: "Is the Cyber Security Act 2024 in force?"
-    a: "Yes. Act 854 was published in the Federal Gazette on 26 June 2024 and appointed to come into operation on 26 August 2024, alongside four supporting regulations covering risk assessment and audit, licensing, incident notification and the compounding of offences."
-  - q: "Does the Cyber Security Act 2024 apply to every business?"
-    a: "No. Its core duties fall on entities designated as National Critical Information Infrastructure (NCII) within essential-service sectors such as banking and finance, energy, healthcare and government. A separate licensing requirement, however, applies to anyone providing certain cyber security services, such as managed security operations centre monitoring or penetration testing, regardless of sector."
-  - q: "How quickly must a cyber incident be reported?"
-    a: "An NCII entity must notify the Chief Executive of NACSA and its sector lead immediately on discovering an incident, provide an initial report with the core details within 6 hours, and submit supplementary information within 14 days."
-  - q: "What is NACSA?"
-    a: "The National Cyber Security Agency is Malaysia's lead agency for national cyber security. Under the Cyber Security Act 2024 its Chief Executive designates NCII entities, receives incident reports, and administers the licensing of cyber security service providers."
-  - q: "How does Malaysia rank internationally?"
-    a: "In the ITU Global Cybersecurity Index 2020 (GCIv4) Malaysia scored 98.06 and ranked joint fifth in the world. In the 2024 edition, which uses a five-tier model, Malaysia is placed in the top 'role-modelling' tier."
+  - q: "2024년 사이버보안법은 발효되었습니까?"
+    a: "그렇습니다. Act 854는 2024년 6월 26일 연방 관보에 고시되었으며, 위험 평가 및 감사, 면허, 침해사고 통지, 범죄의 화해를 다루는 네 개의 지원 규정과 함께 2024년 8월 26일 시행되도록 지정되었습니다."
+  - q: "2024년 사이버보안법은 모든 기업에 적용됩니까?"
+    a: "아닙니다. 핵심 의무는 은행 및 금융, 에너지, 의료, 정부와 같은 필수 서비스 부문에서 국가핵심정보인프라(NCII)로 지정된 주체에 부과됩니다. 다만 관리형 보안 운영 센터 모니터링이나 침투 테스트와 같은 특정 사이버보안 서비스를 제공하는 자에게는 부문과 무관하게 별개의 면허 요건이 적용됩니다."
+  - q: "사이버 침해사고는 얼마나 신속히 보고해야 합니까?"
+    a: "NCII 주체는 침해사고를 발견하는 즉시 NACSA의 최고책임자와 소관 부문 책임기관에 통지하고, 6시간 이내에 핵심 상세를 담은 최초 보고서를 제출하며, 14일 이내에 보완 정보를 제출해야 합니다."
+  - q: "NACSA는 무엇입니까?"
+    a: "국가사이버보안청은 말레이시아의 국가 사이버보안 주무 기관입니다. 2024년 사이버보안법에 따라 그 최고책임자는 NCII 주체를 지정하고, 침해사고 보고를 접수하며, 사이버보안 서비스 제공자의 면허를 관장합니다."
+  - q: "말레이시아는 국제적으로 어떤 순위입니까?"
+    a: "ITU 세계사이버보안지수 2020(GCIv4)에서 말레이시아는 98.06점으로 세계 공동 5위를 기록했습니다. 5단계 모델을 사용하는 2024년판에서 말레이시아는 최상위 '롤모델(role-modelling)' 계층에 자리합니다."
 
 lang: "ko"
 sourceContentHash: "7722bdc160f9e488"
@@ -53,10 +53,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact statutory section numbers for the cyber security service licensing prerequisites and the six-year record-retention duty under Act 854 — the cited secondary sources confirm the substance but not reliable section references (the earlier draft's 'section 28' and 'section 33' were dropped as section 33 in fact governs licence revocation)."
-  - "Whether the six-hour incident-notification window is materially stricter than comparable ASEAN regimes — the earlier 'strictest in the region' comparison was removed pending a cited comparative source."
-  - "The year-by-year split of reported scam losses (RM1.57 billion in 2024, RM2.97 billion in 2025, RM830 million in early 2026) against the primary Home Ministry / Dewan Rakyat record rather than press reporting."
-  - "Malaysia's placement in the top 'role-modelling' tier of the ITU Global Cybersecurity Index 2024, confirmed against the published ITU report."
+  - "Act 854에 따른 사이버보안 서비스 면허 요건과 6년 기록 보존 의무의 정확한 법 조항 번호 — 인용된 2차 출처는 그 내용은 확인하나 신뢰할 만한 조항 참조는 확인하지 못합니다(이전 초안의 'section 28'과 'section 33'은 삭제되었는데, section 33은 실제로 면허 취소를 규율하기 때문입니다)."
+  - "6시간 침해사고 통지 창구가 비교 가능한 ASEAN 체제보다 실질적으로 더 엄격한지 여부 — 이전의 '역내에서 가장 엄격'이라는 비교는 인용 가능한 비교 출처가 나올 때까지 삭제되었습니다."
+  - "보고된 사기 피해액의 연도별 구분(2024년 RM1.57 billion, 2025년 RM2.97 billion, 2026년 초 RM830 million)을 언론 보도가 아니라 내무부 / 하원(Dewan Rakyat)의 1차 기록과 대조해 확인이 필요합니다."
+  - "말레이시아가 ITU 세계사이버보안지수 2024의 최상위 '롤모델(role-modelling)' 계층에 위치한다는 점을 발표된 ITU 보고서와 대조해 확인이 필요합니다."
 
 updated: 2026-08-01
 sources:

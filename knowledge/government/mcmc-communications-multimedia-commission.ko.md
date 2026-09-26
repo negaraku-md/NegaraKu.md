@@ -15,23 +15,23 @@ sensitivity: "none"
 
 answer: "MCMC(말레이시아 통신멀티미디어위원회, Suruhanjaya Komunikasi dan Multimedia Malaysia, SKMM)는 통신멀티미디어법(Communications and Multimedia Act 1998, Act 588)에 따라 융합된 통신·멀티미디어 산업 — 통신, 방송, 온라인 활동 — 을 규제하는 법정기관입니다. 말레이시아 통신멀티미디어위원회법 1998(Act 589)에 의해 설치되어 1998년 11월 1일에 운영을 시작했습니다. 그 핵심 기능에는 서비스 제공자에 대한 면허 부여, 스펙트럼 관리, 경쟁 집행, 소비자 보호가 포함됩니다."
 keyTakeaways:
-  - "Badan berkanun yang ditubuhkan oleh Akta 589 dan mula beroperasi 1 November 1998 melalui P.U.(B) 451/98"
-  - "Mengawal selia industri yang bergabung di bawah Akta Komunikasi dan Multimedia 1998 (Akta 588), yang berkuat kuasa 1 April 1999"
-  - "Empat aktiviti yang perlu dilesenkan: penyedia kemudahan rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi dan perkhidmatan aplikasi kandungan"
-  - "Lesen sebenarnya diberi oleh Menteri atas syor Suruhanjaya — bukan oleh Suruhanjaya sendiri (Seksyen 29–30)"
-  - "Beroperasi tanpa lesen di bawah Seksyen 126 boleh dikenakan denda tidak melebihi RM500,000 atau penjara tidak melebihi 5 tahun atau kedua-duanya"
-  - "Akta menetapkan bahawa tiada apa-apa dalamnya boleh ditafsirkan sebagai membenarkan penapisan Internet (Seksyen 3(3))"
-appliesTo: "Sesiapa yang perlu mengenal pasti pihak berkuasa yang mengawal selia telekomunikasi, penyiaran dan kandungan dalam talian di Malaysia, dan di bawah undang-undang serta jenis lesen yang mana sesuatu aktiviti terletak."
+  - "Act 589에 의해 설립된 법정기관으로, P.U.(B) 451/98을 통해 1998년 11월 1일 운영을 시작하였다"
+  - "1999년 4월 1일 발효된 통신멀티미디어법(Communications and Multimedia Act 1998, Act 588) 아래 통합된 산업을 규제한다"
+  - "면허가 필요한 네 가지 활동: 네트워크 설비 제공, 네트워크 서비스, 응용 서비스, 콘텐츠 응용 서비스"
+  - "실제 면허는 위원회 자체가 아니라 위원회의 권고에 따라 장관이 부여한다(제29조–제30조)"
+  - "제126조에 따라 면허 없이 운영하는 경우 RM500,000 이하의 벌금 또는 5년 이하의 징역, 또는 두 가지 병과에 처해질 수 있다"
+  - "이 법은 그 어떤 조항도 인터넷 검열을 허용하는 것으로 해석될 수 없다고 정한다(제3조 제(3)항)"
+appliesTo: "말레이시아의 통신, 방송 및 온라인 콘텐츠를 규제하는 당국이 어디인지, 그리고 어떤 활동이 어느 법률과 어느 유형의 면허에 속하는지를 확인할 필요가 있는 모든 사람."
 
 faq:
-  - q: "Adakah MCMC sendiri yang mengeluarkan lesen?"
-    a: "Tidak sepenuhnya. Suruhanjaya menerima dan menilai permohonan lesen individu serta memberi syor bertulis kepada Menteri dalam tempoh enam puluh hari (Seksyen 29). Menteri yang membuat keputusan untuk memberi atau menolak lesen itu (Seksyen 30). Bagi lesen kelas pula, Menteri yang memberikan lesen tersebut (Seksyen 44) dan Suruhanjaya mendaftarkannya."
-  - q: "Apakah beza lesen individu dan lesen kelas?"
-    a: "Lesen individu ialah lesen bagi seorang tertentu untuk menjalankan aktiviti tertentu, dengan syarat khusus. Lesen kelas ialah lesen umum bagi sesiapa yang menjalankan sesuatu aktiviti yang ditetapkan; pemegangnya tidak memohon lesen berasingan tetapi wajib mendaftar dengan Suruhanjaya sebelum beroperasi (Seksyen 131)."
-  - q: "Bolehkah MCMC menapis atau menyekat laman web?"
-    a: "Akta Komunikasi dan Multimedia 1998 menyatakan di Seksyen 3(3) bahawa tiada apa-apa dalam Akta itu boleh ditafsirkan sebagai membenarkan penapisan Internet. Namun Akta yang sama menjadikan penggunaan kemudahan atau perkhidmatan rangkaian secara tidak wajar — kandungan lucah, palsu, mengancam atau menyinggung dengan niat mengganggu — sebagai kesalahan di bawah Seksyen 233."
-  - q: "Apakah hukuman jika beroperasi tanpa lesen?"
-    a: "Seksyen 126(2) memperuntukkan bahawa sesiapa yang memiliki atau menyediakan kemudahan rangkaian, perkhidmatan rangkaian atau perkhidmatan aplikasi tanpa lesen sah melakukan kesalahan dan boleh, apabila disabitkan, dikenakan denda tidak melebihi RM500,000 atau penjara tidak melebihi lima tahun atau kedua-duanya, serta denda lanjutan RM1,000 bagi setiap hari kesalahan itu diteruskan selepas sabitan."
+  - q: "MCMC가 직접 면허를 발급합니까?"
+    a: "완전히 그렇지는 않습니다. 위원회는 개별 면허 신청을 접수·심사하고 60일 이내에 장관에게 서면으로 권고합니다(제29조). 그 면허를 부여하거나 거부하는 결정은 장관이 합니다(제30조). 클래스 면허의 경우에는 장관이 그 면허를 부여하고(제44조) 위원회가 이를 등록합니다."
+  - q: "개별 면허와 클래스 면허의 차이는 무엇입니까?"
+    a: "개별 면허는 특정인이 특정 활동을 수행하기 위한 면허로, 구체적인 조건이 따릅니다. 클래스 면허는 정해진 활동을 수행하는 누구에게나 적용되는 일반 면허입니다. 그 보유자는 별도로 면허를 신청하지 않으나, 운영 전에 위원회에 등록하여야 합니다(제131조)."
+  - q: "MCMC가 웹사이트를 검열하거나 차단할 수 있습니까?"
+    a: "통신멀티미디어법(Communications and Multimedia Act 1998)은 제3조 제(3)항에서 이 법의 어떤 조항도 인터넷 검열을 허용하는 것으로 해석될 수 없다고 밝힙니다. 다만 같은 법은 네트워크 설비나 서비스의 부당한 사용 — 괴롭힐 의도로 음란하거나 허위이거나 위협적이거나 모욕적인 콘텐츠 — 을 제233조에 따른 범죄로 규정합니다."
+  - q: "면허 없이 운영하면 어떤 처벌을 받습니까?"
+    a: "제126조 제(2)항은 유효한 면허 없이 네트워크 설비, 네트워크 서비스 또는 응용 서비스를 보유하거나 제공하는 자는 범죄를 저지르는 것이며, 유죄로 확정되면 RM500,000 이하의 벌금 또는 5년 이하의 징역, 또는 두 가지 병과에 처해질 수 있고, 유죄 확정 후 그 범죄가 계속되는 날마다 RM1,000의 추가 벌금이 부과된다고 규정합니다."
 
 lang: "ko"
 sourceContentHash: "f7de1e94c09f1ce3"
@@ -45,10 +45,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Tarikh atau tahun pelaksanaan berperingkat seksyen tertentu Akta 588 — jika hendak menyatakan tahun spesifik, sahkan daripada warta P.U.(B) yang berkaitan (kini disebut secara umum tanpa tahun)."
-  - "Nama kementerian dan menteri induk semasa yang bertanggungjawab bagi MCMC (portfolio pernah disusun semula beberapa kali)."
-  - "Klasifikasi sensitiviti: pertimbangkan sama ada topik penapisan Internet (Seksyen 3(3)) dan penguatkuasaan Seksyen 233 wajar dinaikkan daripada \"none\", memandangkan konteks ucapan dalam talian/politik."
-  - "Ayat mengenai perdebatan awam tentang penguatkuasaan Seksyen 233 — perlu disokong dengan sumber primer/berwibawa jika hendak dikekalkan atau diperincikan."
+  - "Act 588 특정 조항의 단계적 시행 날짜 또는 연도 — 구체적 연도를 명시하려면 관련 관보 P.U.(B)에서 확인할 것(현재는 연도 없이 일반적으로 언급됨)."
+  - "MCMC를 관할하는 현재의 주무 부처와 주무 장관의 명칭(소관이 과거 여러 차례 재편된 바 있음)."
+  - "민감도 분류: 온라인 발언/정치 맥락을 고려하여, 인터넷 검열(제3조 제(3)항) 및 제233조 집행이라는 주제를 「none」에서 상향할 필요가 있는지 검토할 것."
+  - "제233조 집행에 관한 공개 논쟁을 다룬 문장 — 유지하거나 구체화하려면 1차 자료/권위 있는 자료로 뒷받침할 필요가 있다."
 revisions:
   - revision: 0
     date: 2026-08-01

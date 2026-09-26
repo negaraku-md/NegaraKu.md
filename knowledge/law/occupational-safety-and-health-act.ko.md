@@ -14,20 +14,20 @@ sensitivity: "none"
 
 answer: "산업안전보건법(OSHA 1994) 제15조는 모든 고용주에게 '실행 가능한 범위에서' 근로자의 안전, 보건 및 복지를 보장할 의무를 부과합니다 — 여기에는 안전한 설비와 작업 체계, 훈련, 안전한 작업장, 그리고 서면 안전 정책(제16조)이 포함됩니다. 산업안전보건(개정)법 2022(Occupational Safety and Health (Amendment) Act 2022, Act A1648)이 2024년 6월 1일에 시행된 이후, 고용주는 위험성 평가를 실시하여야 하며 근로자가 5명 이상인 경우 안전 조정자를 선임하여야 합니다. 제15조를 준수하지 못하면 이제 제19조에 따라 RM500,000까지 벌금이 부과될 수 있습니다."
 keyTakeaways:
-  - "Seksyen 15 mewajibkan majikan memastikan keselamatan, kesihatan dan kebajikan pekerja 'setakat yang praktik'."
-  - "Akta Keselamatan dan Kesihatan Pekerjaan (Pindaan) 2022 (Akta A1648) berkuat kuasa 1 Jun 2024, memansuhkan Akta Kilang dan Jentera 1967 dan meluaskan OSHA kepada semua tempat kerja di Malaysia."
-  - "Pindaan mewajibkan penilaian risiko dan pelantikan penyelaras keselamatan bagi majikan dengan lima atau lebih pekerja."
-  - "Denda maksimum bagi pelanggaran Seksyen 15 dinaikkan daripada RM50,000 kepada RM500,000 di bawah Seksyen 19."
-  - "Kemalangan maut atau kecederaan serius mesti dilaporkan kepada DOSH dengan segera dan Borang JKKP 6 dihantar dalam tempoh 7 hari (NADOPOD 2004)."
-appliesTo: "Majikan, pengarah syarikat, orang bekerja sendiri, dan pegawai keselamatan di semua tempat kerja di Malaysia."
+  - "제15조는 고용주에게 '실행 가능한 범위에서' 근로자의 안전, 보건 및 복지를 보장할 것을 의무화합니다."
+  - "산업안전보건(개정)법 2022(Akta A1648)는 2024년 6월 1일에 시행되어, 공장기계법 1967을 폐지하고 OSHA를 말레이시아의 모든 작업장으로 확대하였습니다."
+  - "이 개정은 위험성 평가와, 근로자 5명 이상인 고용주의 안전 조정자 선임을 의무화합니다."
+  - "제15조 위반에 대한 최고 벌금이 제19조에 따라 RM50,000에서 RM500,000으로 인상되었습니다."
+  - "사망 사고나 중상은 즉시 DOSH에 보고되어야 하고 JKKP 6 양식은 7일 이내에 제출되어야 합니다(NADOPOD 2004)."
+appliesTo: "말레이시아의 모든 작업장의 고용주, 회사 이사, 자영업자, 그리고 안전 담당관."
 
 faq:
-  - q: "Bilakah pindaan OSHA 2022 berkuat kuasa?"
-    a: "Akta Keselamatan dan Kesihatan Pekerjaan (Pindaan) 2022 (Akta A1648) berkuat kuasa pada 1 Jun 2024."
-  - q: "Berapakah denda maksimum jika majikan melanggar tanggungjawab Seksyen 15?"
-    a: "Di bawah Seksyen 19 yang dipinda, denda maksimum ialah RM500,000 atau penjara sehingga dua tahun, atau kedua-duanya — dinaikkan daripada RM50,000 sebelum ini."
-  - q: "Bilakah kemalangan tempat kerja perlu dilaporkan kepada DOSH?"
-    a: "Kemalangan maut, kecederaan serius atau kejadian berbahaya mesti diberitahu kepada pejabat DOSH terdekat dengan cara tercepat, dan Borang JKKP 6 dihantar dalam tempoh 7 hari di bawah NADOPOD 2004."
+  - q: "OSHA 2022 개정은 언제 시행되었습니까?"
+    a: "산업안전보건(개정)법 2022(Akta A1648)는 2024년 6월 1일에 시행되었습니다."
+  - q: "고용주가 제15조 책임을 위반하면 최고 벌금은 얼마입니까?"
+    a: "개정된 제19조에 따라, 최고 벌금은 RM500,000 또는 최대 2년의 징역, 혹은 그 병과이며 — 이전의 RM50,000에서 인상되었습니다."
+  - q: "작업장 사고는 언제 DOSH에 보고되어야 합니까?"
+    a: "사망 사고, 중상 또는 위험한 사건은 가장 빠른 방법으로 가장 가까운 DOSH 사무소에 통지되어야 하고, JKKP 6 양식은 NADOPOD 2004에 따라 7일 이내에 제출되어야 합니다."
 
 lang: "ko"
 sourceContentHash: "e58617c97047711f"
@@ -41,8 +41,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Ambang pelaporan NADOPOD 2004 (lebih 4 hari tidak dapat bekerja) — sahkan terhadap teks peraturan rasmi, bukan panduan sekunder."
-  - "Skop kewajipan Seksyen 16 (polisi keselamatan bertulis) dan sama ada terpakai ambang bilangan pekerja tertentu."
+  - "NADOPOD 2004의 보고 기준(4일 넘게 근무 불능) — 2차 지침이 아니라 공식 규정 본문에 대조하여 확인하여야 합니다."
+  - "제16조 의무(서면 안전 정책)의 범위와 특정 근로자 수 기준이 적용되는지 여부."
 revisions:
   - revision: 0
     date: 2026-08-07

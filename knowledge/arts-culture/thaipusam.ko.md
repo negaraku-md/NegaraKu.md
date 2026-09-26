@@ -14,25 +14,25 @@ sensitivity: "none"
 
 answer: "타이푸삼(Thaipusam)은 말레이시아 타밀 공동체가 타밀력의 타이(Thai) 달(대략 1월 말이나 2월)에 지키는 힌두교 축제로, 무루간 신(Lord Murugan, 수브라마니암Subramaniam이라고도 함)을 기립니다. 말레이시아에서 가장 큰 모임은 슬랑오르(Selangor) 곰박(Gombak)의 바투 동굴(Batu Caves) 사원으로의 순례로, 42.7미터 높이의 황금 무루간 상을 지나 272개의 계단을 올라 이릅니다. 쿠알라룸푸르(Kuala Lumpur)에서는 은 전차가 스리 마하 마리암만 사원(Sri Maha Mariamman Temple)에서 약 15km 떨어진 바투 동굴로 신을 모시고 갑니다. 페낭(Pulau Pinang)은 폭포 언덕 사원(Waterfall Hilltop Temple)으로 향하는 자체 전차 행렬을 엽니다. 신자들은 카바디(kavadi)와 우유 단지(파알 쿠담paal kudam)를 비롯한 봉헌물을 나릅니다. 타이푸삼은 여러 주와 연방 직할구에서 각 정부가 개별적으로 관보에 고시한 공휴일이며, 전국적인 연방 공휴일은 아닙니다."
 keyTakeaways:
-  - "Thaipusam falls in the Tamil month of Thai (around late January or February) and honours Lord Murugan; the observance is led by Malaysia's Tamil Hindu community"
-  - "The largest Malaysian gathering is at the Batu Caves temple in Gombak, Selangor, where devotees climb 272 steps to the Temple Cave past a golden statue of Lord Murugan standing 42.7 metres (140 feet) tall — described by Tourism Selangor as the tallest statue of a Hindu deity in Malaysia"
-  - "In Kuala Lumpur a silver chariot bearing statues of Lord Murugan and his consorts travels from the Sri Maha Mariamman Temple on Jalan Tun H.S. Lee to Batu Caves, a route of roughly 15 kilometres that takes the better part of a day"
-  - "Penang runs its own chariot processions along a 6.6-kilometre route ending at the Arulmigu Balathandayuthapani (Waterfall Hilltop) Temple, a tradition the Penang state government traces to the 19th-century South Indian diaspora"
-  - "Devotees carry offerings including the kavadi (a decorated frame or burden) and paal kudam (pots of milk), often walking barefoot; some fulfil vows through body piercing"
-  - "Thaipusam is a public holiday only in the states and federal territories that gazette it — including Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor and Kedah — and is not a nationwide federal holiday"
-appliesTo: "Anyone wanting to understand what Thaipusam is, how the Batu Caves and Penang observances are organised, and where it is a public holiday in Malaysia."
+  - "타이푸삼(Thaipusam)은 타밀력의 타이(Thai) 달(대략 1월 말이나 2월)에 들며 무루간 신(Lord Murugan)을 기립니다. 이 축제는 말레이시아 타밀 힌두 공동체가 이끕니다"
+  - "말레이시아에서 가장 큰 모임은 슬랑오르(Selangor) 곰박(Gombak)의 바투 동굴(Batu Caves) 사원으로, 신자들은 42.7미터(140피트) 높이의 황금 무루간 상을 지나 272개의 계단을 올라 동굴 사원에 이릅니다 — 슬랑오르 관광청은 이를 말레이시아에서 가장 높은 힌두 신상으로 소개합니다"
+  - "쿠알라룸푸르(Kuala Lumpur)에서는 무루간 신과 그 배우자들의 상을 실은 은 전차가 잘란 툰 H.S. 리(Jalan Tun H.S. Lee)의 스리 마하 마리암만 사원(Sri Maha Mariamman Temple)에서 바투 동굴까지 약 15km의 길을 이동하며, 하루의 상당 부분이 걸립니다"
+  - "페낭(Pulau Pinang)은 아룰미구 발라탄다유타파니(Arulmigu Balathandayuthapani, 폭포 언덕) 사원에서 끝나는 6.6km 경로를 따라 자체 전차 행렬을 열며, 페낭 주 정부는 이 전통을 19세기 남인도 이민 사회로 거슬러 올라갑니다"
+  - "신자들은 카바디(kavadi, 장식된 틀이나 짐)와 파알 쿠담(paal kudam, 우유 단지)을 비롯한 봉헌물을 나르며, 흔히 맨발로 걷습니다. 일부는 몸에 침을 꿰어 서원을 이룹니다"
+  - "타이푸삼은 이를 관보에 고시한 주와 연방 직할구 — 쿠알라룸푸르, 푸트라자야, 슬랑오르, 페낭, 페락, 느그리 슴빌란, 조호르, 크다를 포함 — 에서만 공휴일이며, 전국 연방 공휴일은 아닙니다"
+appliesTo: "타이푸삼이 무엇이며 바투 동굴과 페낭의 기림이 어떻게 조직되는지, 그리고 말레이시아에서 어디가 공휴일인지를 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "What is Thaipusam?"
-    a: "Thaipusam is a Hindu festival observed by the Tamil community, honouring Lord Murugan (also called Subramaniam). It falls in the Tamil month of Thai, around late January or February. In Malaysia its most prominent expression is the mass pilgrimage to the Batu Caves temple in Gombak, Selangor."
-  - q: "Where is Thaipusam celebrated in Malaysia?"
-    a: "The best-known site is the Batu Caves temple in Selangor, drawing crowds that Tourism Selangor puts at up to 1.5 million people. Penang holds major observances centred on the Arulmigu Balathandayuthapani (Waterfall Hilltop) Temple and the Nattukkottai Chettiar Temple, and there are Murugan temples and Thaipusam gatherings in other states as well."
-  - q: "How many steps lead up to the Batu Caves temple?"
-    a: "There are 272 steps from the base of the hill up to the Temple Cave, climbed by visitors and devotees alike. The golden statue of Lord Murugan, 42.7 metres tall, stands at the foot of the staircase."
-  - q: "What is a kavadi?"
-    a: "A kavadi is a physical burden a devotee carries as an act of devotion during Thaipusam — commonly a decorated frame borne on the shoulders, but the term also covers simpler offerings such as pots of milk (paal kudam). Kavadi are often decorated with flowers, peacock feathers and images of Lord Murugan. NegaraKu.md describes these practices; it does not interpret their religious meaning."
-  - q: "Is Thaipusam a public holiday in Malaysia?"
-    a: "Only in the states and federal territories that gazette it. It is observed as a public holiday in places including Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor and Kedah, and is not gazetted as a nationwide federal holiday. Because it is set jurisdiction by jurisdiction, the exact list can differ from year to year — always check the official holiday notice for the state concerned."
+  - q: "타이푸삼이란 무엇입니까?"
+    a: "타이푸삼은 타밀 공동체가 무루간 신(Lord Murugan, 수브라마니암Subramaniam이라고도 함)을 기려 지키는 힌두교 축제입니다. 타밀력의 타이(Thai) 달, 대략 1월 말이나 2월에 듭니다. 말레이시아에서 가장 두드러진 표현은 슬랑오르 곰박의 바투 동굴 사원으로의 대규모 순례입니다."
+  - q: "말레이시아에서 타이푸삼은 어디에서 기려집니까?"
+    a: "가장 잘 알려진 장소는 슬랑오르의 바투 동굴 사원으로, 슬랑오르 관광청은 그 인파를 최대 150만 명으로 봅니다. 페낭은 아룰미구 발라탄다유타파니(폭포 언덕) 사원과 나투코타이 체티아르 사원(Nattukkottai Chettiar Temple)을 중심으로 큰 기림을 열며, 다른 주에도 무루간 사원과 타이푸삼 모임이 있습니다."
+  - q: "바투 동굴 사원까지 계단은 몇 개입니까?"
+    a: "언덕 아래에서 동굴 사원까지 272개의 계단이 있으며, 방문객과 신자 모두 이를 오릅니다. 42.7미터 높이의 황금 무루간 상이 계단 아래에 서 있습니다."
+  - q: "카바디란 무엇입니까?"
+    a: "카바디(kavadi)는 신자가 타이푸삼 동안 헌신의 행위로 나르는 물리적 짐으로 — 흔히 어깨에 지는 장식된 틀이지만, 이 말은 우유 단지(파알 쿠담paal kudam) 같은 더 간단한 봉헌물도 아우릅니다. 카바디는 흔히 꽃, 공작 깃털, 무루간 신의 형상으로 장식됩니다. NegaraKu.md는 이러한 관행을 서술할 뿐, 그 종교적 의미를 해석하지 않습니다."
+  - q: "타이푸삼은 말레이시아에서 공휴일입니까?"
+    a: "이를 관보에 고시한 주와 연방 직할구에서만 그렇습니다. 쿠알라룸푸르, 푸트라자야, 슬랑오르, 페낭, 페락, 느그리 슴빌란, 조호르, 크다를 비롯한 곳에서 공휴일로 지켜지며, 전국 연방 공휴일로는 고시되어 있지 않습니다. 관할마다 개별적으로 정하기 때문에 정확한 목록은 해마다 다를 수 있으므로 — 해당 주의 공식 공휴일 공고를 늘 확인하십시오."
 
 lang: "ko"
 sourceContentHash: "0b3f0235d5a676f2"
@@ -52,8 +52,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The exact list of states gazetting Thaipusam as a public holiday can vary year to year; confirm against each state's official holiday notice for the year in question."
-  - "Devotee attendance figures are estimates that differ widely between sources; only the Tourism Selangor figure (up to 1.5 million) is cited here."
+  - "타이푸삼을 공휴일로 관보에 고시하는 주의 정확한 목록은 해마다 다를 수 있습니다. 해당 연도의 각 주 공식 공휴일 공고와 대조하여 확인하십시오."
+  - "신자 참가 인원 수치는 자료마다 크게 다른 추정치입니다. 여기서는 슬랑오르 관광청의 수치(최대 150만 명)만 인용합니다."
 
 updated: 2026-07-24
 sources:

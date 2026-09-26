@@ -12,12 +12,12 @@ contentType: "law"
 
 answer: "연방헌법(Federal Constitution)은 말레이시아의 최고법입니다. 이 헌법은 13개 주와 3개 연방직할구로 이루어진 연방을 수립하고, 연방정부와 주정부의 권한을 정의하며, 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕), 의회, 행정부 및 사법부의 구조를 규정하고, 일련의 기본적 자유를 보장하며, 그것을 개정할 수 있는 절차를 정합니다."
 keyTakeaways:
-  - "Came into force on 31 August 1957 (Merdeka) and was extended to Malaysia in 1963"
-  - "Article 4 declares it the supreme law of the federation"
-  - "Establishes the division of legislative powers between federal and state governments via the Ninth Schedule"
-  - "Part II (Articles 5–13) sets out fundamental liberties"
-  - "Amendment generally requires a two-thirds majority in both Houses of Parliament, per Article 159"
-appliesTo: "Anyone seeking a structural, descriptive understanding of Malaysia's constitutional framework."
+  - "1957년 8월 31일(독립일, Merdeka)에 발효되었으며 1963년에 말레이시아로 확대되었습니다"
+  - "제4조는 이를 연방의 최고법으로 선언합니다"
+  - "제9부칙을 통하여 연방정부와 주정부 간 입법 권한의 분배를 정합니다"
+  - "제2부(제5조~제13조)는 기본적 자유를 규정합니다"
+  - "개정은 일반적으로 제159조에 따라 의회 양원의 3분의 2 다수를 필요로 합니다"
+appliesTo: "말레이시아 헌법 체계에 대한 구조적·서술적 이해를 찾는 모든 사람."
 
 lang: "ko"
 sourceContentHash: "3635bd9fdb569d2e"

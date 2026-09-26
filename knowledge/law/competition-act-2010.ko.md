@@ -14,24 +14,24 @@ sensitivity: "none"
 
 answer: "2010년 경쟁법(Competition Act 2010)은 말레이시아의 주요 독점금지법입니다. 이 법에는 두 가지 금지 규정이 있습니다. 제4조는 경쟁을 현저히 해치는 사업자 간 합의(카르텔, 가격 담합, 입찰 담합)를 금지하고, 제10조는 시장 지배적 지위의 남용을 금지합니다. 말레이시아 경쟁위원회(MyCC)가 조사를 담당하며, 위반 기간 전체에 걸친 사업자의 전 세계 매출액의 최대 10%에 이르는 과징금을 부과할 수 있습니다. 현재 일반적인 기업결합 규제 제도는 없습니다."
 keyTakeaways:
-  - "The Act took effect on 1 January 2012 and is enforced by MyCC, established on 1 April 2011."
-  - "Section 4 bans anti-competitive agreements; price-fixing, market-sharing and bid-rigging are treated as automatically illegal."
-  - "Section 10 bans abuse of a dominant position, such as unfair pricing, refusal to supply, or predatory conduct."
-  - "MyCC can fine an enterprise up to 10% of its worldwide turnover over the entire infringement period, with no ringgit cap."
-  - "The largest penalty to date is RM415.5 million (2023), imposed on five poultry-feed millers for price-fixing."
-appliesTo: "Business owners, company directors, compliance officers, in-house counsel and anyone dealing with pricing, tenders or distribution in Malaysia."
+  - "이 법은 2012년 1월 1일에 시행되었으며, 2011년 4월 1일에 설립된 MyCC가 집행합니다."
+  - "제4조는 반경쟁적 합의를 금지하며; 가격 담합, 시장 분할 및 입찰 담합은 자동으로 위법한 것으로 취급됩니다."
+  - "제10조는 불공정한 가격 책정, 공급 거절, 또는 약탈적 행위와 같은 시장 지배적 지위의 남용을 금지합니다."
+  - "MyCC는 위반 기간 전체에 걸친 사업자의 전 세계 매출액의 최대 10%에 이르는 과징금을 부과할 수 있으며, 링깃 상한이 없습니다."
+  - "현재까지 최대 과징금은 RM415.5 million(2023년)으로, 다섯 가금류 사료 제분업체에 가격 담합을 이유로 부과되었습니다."
+appliesTo: "사업주, 회사 이사, 준법감시인, 사내 변호사, 그리고 말레이시아에서 가격 책정·입찰 또는 유통을 다루는 모든 사람."
 
 faq:
-  - q: "What does the Competition Act 2010 prohibit?"
-    a: "Two things. Section 4 prohibits agreements between enterprises that significantly prevent, restrict or distort competition (for example price-fixing, bid-rigging and market-sharing). Section 10 prohibits an enterprise from abusing a dominant position in a market, such as by imposing unfair prices, refusing to supply, or engaging in predatory conduct."
-  - q: "How large can the penalty be?"
-    a: "MyCC can impose a financial penalty of up to 10% of an enterprise's worldwide turnover over the whole period during which the infringement occurred. Because it applies to worldwide turnover across the entire infringement period, and has no fixed ringgit cap, penalties can be very large."
-  - q: "Does Malaysia require merger clearance?"
-    a: "Not generally. As of 2026 the Act contains no economy-wide merger-control regime, so most mergers and acquisitions do not need advance clearance from MyCC. Merger provisions were proposed in an earlier public consultation but were not carried into the 2026 amendments; they could still be introduced later through fresh legislation or subsidiary regulation."
-  - q: "Which industries are outside MyCC's remit?"
-    a: "Sectors with their own regulators and competition rules are carved out, including communications and multimedia, energy and petroleum, and aviation. In those sectors the relevant regulator, not MyCC, handles competition matters."
-  - q: "Is there leniency for coming forward?"
-    a: "Yes. A leniency programme is available for businesses involved in horizontal cartel conduct. Cooperating early can earn immunity or a penalty reduction of up to 100%, though an enterprise that initiated or coerced others into the cartel is unlikely to receive the full reduction. Under the 2026 amendments, a separate settlement route can also reduce a penalty by up to 40%."
+  - q: "2010년 경쟁법은 무엇을 금지합니까?"
+    a: "두 가지입니다. 제4조는 경쟁을 현저히 방지·제한 또는 왜곡하는 사업자 간 합의(예: 가격 담합, 입찰 담합, 시장 분할)를 금지합니다. 제10조는 사업자가 불공정한 가격의 부과, 공급 거절, 또는 약탈적 행위 등으로 시장에서의 지배적 지위를 남용하는 것을 금지합니다."
+  - q: "과징금은 얼마나 클 수 있습니까?"
+    a: "MyCC는 위반이 발생한 전 기간에 걸친 사업자의 전 세계 매출액의 최대 10%에 이르는 과징금을 부과할 수 있습니다. 이는 위반 기간 전체에 걸쳐 전 세계 매출액에 적용되고 고정된 링깃 상한이 없으므로, 과징금이 매우 클 수 있습니다."
+  - q: "말레이시아는 기업결합 승인을 요구합니까?"
+    a: "일반적으로는 아닙니다. 2026년 기준으로 이 법에는 경제 전반에 걸친 기업결합 규제 제도가 없으므로, 대부분의 기업결합 및 인수는 MyCC의 사전 승인을 받을 필요가 없습니다. 기업결합 규정은 이전의 공개 협의에서 제안되었으나 2026년 개정에는 포함되지 아니하였습니다; 다만 향후 새로운 입법이나 하위 규정을 통하여 도입될 수 있습니다."
+  - q: "어떤 산업이 MyCC의 관할 밖에 있습니까?"
+    a: "자체 규제기관과 경쟁 규칙을 갖춘 부문은 제외되며, 여기에는 통신 및 멀티미디어, 에너지 및 석유, 그리고 항공이 포함됩니다. 그러한 부문에서는 MyCC가 아니라 해당 규제기관이 경쟁 사항을 다룹니다."
+  - q: "자진 신고에 대한 관용이 있습니까?"
+    a: "예. 수평적 카르텔 행위에 관여한 사업자를 위한 관용 제도가 있습니다. 조기에 협력하면 면제 또는 최대 100%의 과징금 감경을 받을 수 있으나, 카르텔을 주도하거나 다른 사업자를 강요한 사업자는 전액 감경을 받기 어렵습니다. 2026년 개정에 따라, 별도의 화해 경로로도 과징금을 최대 40% 감경할 수 있습니다."
 
 lang: "ko"
 sourceContentHash: "f67186d884803b44"
@@ -45,11 +45,11 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Whether a future merger-control regime is specifically tied to the 13th Malaysia Plan (2026-2030). This pass could not confirm the 13MP link against any citable source, so the attribution was softened to 'future legislation or subsidiary regulation'."
-  - "The 60% market-share figure cited as a general indicator of dominance under Section 10."
-  - "The safe-harbour thresholds: 20% combined share (horizontal) and 25% per party (vertical)."
-  - "The poultry-feed case specifics: infringement period January 2020 to June 2022, the RM415.5 million penalty, and the Competition Appeal Tribunal's 11 February 2026 dismissal of the appeals."
-  - "The RM667.3 million / 270 companies aggregate is a point-in-time figure stated by Deputy Minister Fuziah Salleh for the period 2012 to July 2026; confirm it is current before republishing later."
+  - "향후 기업결합 규제 제도가 제13차 말레이시아 계획(2026-2030)과 구체적으로 연계되는지 여부. 이번 작업에서는 인용 가능한 출처로 13MP 연계를 확인할 수 없어, 그 귀속을 '향후 입법이나 하위 규정'으로 완화하였습니다."
+  - "제10조에 따른 지배적 지위의 일반적 지표로 인용된 60% 시장 점유율 수치."
+  - "안전 영역 기준: 합산 점유율 20%(수평적) 및 각 당사자 점유율 25%(수직적)."
+  - "가금류 사료 사건의 세부 사항: 위반 기간 2020년 1월부터 2022년 6월까지, RM415.5 million의 과징금, 그리고 경쟁항소심판원의 2026년 2월 11일 항소 기각."
+  - "RM667.3 million / 270개 기업이라는 총계는 부장관 푸지아 살레(Fuziah Salleh)가 2012년부터 2026년 7월까지의 기간에 대하여 밝힌 특정 시점 수치이며; 나중에 다시 게재하기 전에 현행인지 확인하여야 합니다."
 revisions:
   - revision: 0
     date: 2026-08-07

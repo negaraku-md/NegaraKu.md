@@ -14,22 +14,22 @@ sensitivity: "security"
 
 answer: "국가기밀법 1972(Official Secrets Act 1972, Act 88)은 말레이시아 정부의 공적 정보의 등급 분류와 보호를 규율하는 연방 법률입니다. 이 법은 장관, 주 총리(Menteri Besar) 또는 주 수석장관(Ketua Menteri), 그리고 임명된 공무원이 문서를 '극비(Rahsia Besar)', '기밀(Rahsia)', '대외비(Sulit)' 또는 '제한(Terhad)'으로 분류할 수 있도록 하며, 그 분류 증명서는 '어느 법원에서도 다툴 수 없는' 확정적 증거로 규정됩니다. 현행 형태에서 다수의 범죄는 1년의 필수적 최소 징역형을 수반하며, 간첩 행위는 종신형에 처해질 수 있습니다. 이 법은 국가 안보의 필요와 투명성 및 언론 자유의 요구 사이에서 계속되는 논쟁의 대상이 되고 있습니다."
 keyTakeaways:
-  - "Akta 88 mula berkuat kuasa pada 1 Oktober 1972 dan memansuhkan beberapa undang-undang rahsia rasmi terdahulu — Ordinan Rahsia Rasmi 1950 Negeri-Negeri Tanah Melayu dan Ordinan Rahsia Rasmi Sabah [Cap. 90] di bawah seksyen 31(1), serta Akta Rahsia Rasmi UK 1911 dan 1920 setakat ia berkuat kuasa di Sarawak atau mana-mana bahagian lain Malaysia di bawah seksyen 31(2)."
-  - "Jadual kepada akta menetapkan tiga kategori dokumen yang sentiasa dianggap rahsia rasmi: dokumen Kabinet, dokumen Majlis Mesyuarat Kerajaan Negeri, dan dokumen berkaitan keselamatan negara, pertahanan serta hubungan antarabangsa."
-  - "Seksyen 16A memperuntukkan sijil pengelasan sebagai keterangan muktamad yang tidak boleh dipersoalkan di mahkamah atas apa-apa alasan."
-  - "Pindaan pada 1980-an (Akta A573, berkuat kuasa 20 Januari 1984, dan Akta A660, berkuat kuasa 1 Januari 1987) meminda banyak peruntukan hukuman; dalam bentuk terkininya, banyak kesalahan membawa penjara minimum wajib satu tahun, manakala pengintipan di bawah seksyen 3 boleh membawa penjara seumur hidup."
-  - "Kerajaan telah menyatakan hasrat menggubal Akta Kebebasan Maklumat dan meminda Akta Rahsia Rasmi sejajar dengannya."
-appliesTo: "Penjawat awam, wartawan, peguam, penyelidik dan orang awam yang ingin memahami cara maklumat kerajaan dikelaskan serta implikasi undang-undangnya di Malaysia."
+  - "Act 88은 1972년 10월 1일에 시행되어 이전의 여러 공적 기밀 법률을 폐지하였습니다 — 제31조(1)에 따라 말레이 제주 공적기밀령 1950과 사바 공적기밀령[Cap. 90]을, 제31조(2)에 따라 사라왁 또는 말레이시아의 다른 어느 지역에서 효력을 가지는 한도에서 영국 국가기밀법 1911 및 1920을 폐지하였습니다."
+  - "이 법의 부칙은 항상 공적 기밀로 간주되는 세 가지 문서 범주를 정합니다. 즉 내각 문서, 주 정부 행정회의(Majlis Mesyuarat Kerajaan Negeri) 문서, 그리고 국가 안보·국방 및 국제 관계에 관한 문서입니다."
+  - "제16A조는 분류 증명서를 어떠한 이유로도 법원에서 다툴 수 없는 확정적 증거로 규정합니다."
+  - "1980년대의 개정(Akta A573, 1984년 1월 20일 시행, 및 Akta A660, 1987년 1월 1일 시행)은 다수의 처벌 규정을 개정하였으며; 현행 형태에서 다수의 범죄는 1년의 필수적 최소 징역형을 수반하고, 제3조의 간첩 행위는 종신형에 처해질 수 있습니다."
+  - "정부는 정보자유법을 제정하고 그에 맞추어 국가기밀법을 개정할 의향을 표명하였습니다."
+appliesTo: "공무원, 언론인, 변호사, 연구자, 그리고 말레이시아에서 정부 정보가 어떻게 분류되며 그 법적 함의가 무엇인지 이해하고자 하는 일반 국민."
 
 faq:
-  - q: "Siapa yang boleh mengelaskan dokumen sebagai rahsia rasmi?"
-    a: "Di bawah definisi 'rahsia rasmi' dalam seksyen 2 dan peruntukan seksyen 2B, seseorang Menteri, Menteri Besar atau Ketua Menteri sesebuah negeri, atau pegawai awam yang dilantik melalui sijil untuk berbuat demikian, boleh mengelaskan dokumen sebagai 'Rahsia Besar', 'Rahsia', 'Sulit' atau 'Terhad'."
-  - q: "Bolehkah pengelasan sesuatu dokumen dicabar di mahkamah?"
-    a: "Seksyen 16A memperuntukkan bahawa sijil yang mengesahkan sesuatu dokumen sebagai rahsia rasmi ialah keterangan muktamad dan 'tidak boleh dipersoalkan di dalam mana-mana mahkamah atas apa-apa alasan jua pun'. Peruntukan ini merupakan antara aspek akta yang paling banyak diperdebatkan."
-  - q: "Apakah hukuman di bawah Akta Rahsia Rasmi 1972?"
-    a: "Hukuman berbeza mengikut kesalahan. Pengintipan (seksyen 3) boleh dihukum penjara seumur hidup; perhubungan salah rahsia rasmi (seksyen 8) membawa penjara satu hingga tujuh tahun; manakala mengambil dokumen atau ukuran di tempat larangan (seksyen 4) membawa penjara satu hingga empat belas tahun. Banyak kesalahan mempunyai tempoh penjara minimum wajib satu tahun."
-  - q: "Adakah wartawan atau pemberi maklumat awam terlindung jika mendedahkan salah laku?"
-    a: "Akta ini tidak mengandungi pembelaan 'kepentingan awam' atau perlindungan khusus bagi pemberi maklumat (whistleblower). Seksyen 17A menyediakan pembelaan hanya bagi seseorang yang membuktikan bahawa ia bertindak dalam menjalankan tugas rasmi atau dengan kuasa yang sepatutnya. Ketiadaan pembelaan kepentingan awam ialah antara isu yang dibangkitkan oleh pengkritik akta."
+  - q: "누가 문서를 공적 기밀로 분류할 수 있습니까?"
+    a: "제2조의 '공적 기밀' 정의와 제2B조 규정에 따라, 장관, 주 총리 또는 주 수석장관, 또는 증명서를 통하여 그렇게 하도록 임명된 공무원이 문서를 '극비(Rahsia Besar)', '기밀(Rahsia)', '대외비(Sulit)' 또는 '제한(Terhad)'으로 분류할 수 있습니다."
+  - q: "문서의 분류를 법원에서 다툴 수 있습니까?"
+    a: "제16A조는 어떤 문서를 공적 기밀로 확인하는 증명서가 확정적 증거이며 '어떠한 이유로도 어느 법원에서든 다툴 수 없다'고 규정합니다. 이 규정은 이 법에서 가장 많이 논의되는 측면 중 하나입니다."
+  - q: "국가기밀법 1972에 따른 처벌은 무엇입니까?"
+    a: "처벌은 범죄에 따라 다릅니다. 간첩 행위(제3조)는 종신형에 처해질 수 있고; 공적 기밀의 부당한 소통(제8조)은 1년에서 7년의 징역을; 금지 장소에서 문서나 측정치를 취득하는 것(제4조)은 1년에서 14년의 징역을 수반합니다. 다수의 범죄는 1년의 필수적 최소 징역형을 가집니다."
+  - q: "언론인이나 제보자가 비위를 공개하면 보호받습니까?"
+    a: "이 법은 '공익' 항변이나 제보자(whistleblower)에 대한 특별한 보호를 담고 있지 아니합니다. 제17A조는 자신이 공무를 수행하는 과정에서 또는 정당한 권한을 가지고 행동하였음을 입증하는 사람에게만 항변을 제공합니다. 공익 항변의 부재는 이 법의 비판자들이 제기하는 쟁점 중 하나입니다."
 
 lang: "ko"
 sourceContentHash: "b2289aaf85dc5684"
@@ -49,11 +49,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh dan status tepat pembebasan Mohammad Ezam bin Mohd Nor oleh Mahkamah Tinggi (dilaporkan 2004; nombor kes 42-22-2002) — perlu disahkan terhadap rekod/laporan mahkamah kerana sumber yang dipetik hanya mengesahkan sabitan dan hukuman, bukan pembebasan."
-  - "Perincian bahawa kes Ezam berkaitan pendedahan 'laporan Badan Pencegah Rasuah (ACA)' — bersandar pada laporan media sekunder, perlu disahkan."
-  - "Sama ada pindaan A573 (1984) dan A660 (1987) benar-benar memperkenalkan penjara minimum wajib buat kali pertama, berbanding meminda peruntukan hukuman sedia ada — perlu rujukan sejarah perundangan."
-  - "Sebutan 'keharmonian nasional' dalam laporan The Star disuarakan oleh seorang penganalisis, bukan kenyataan rasmi kerajaan — sahkan terhadap teks penuh."
-  - "Status semasa cadangan Akta Kebebasan Maklumat persekutuan dan sebarang pindaan OSA — perlu semakan berkala kerana keadaan boleh berubah selepas draf ini."
+  - "고등법원에 의한 모하마드 에잠 빈 모흐드 노르의 석방의 정확한 날짜 및 상태(2004년 보고; 사건 번호 42-22-2002) — 인용된 출처는 유죄 판결과 형벌만 확인하고 석방은 확인하지 아니하므로, 법원 기록/보도에 대조하여 확인하여야 합니다."
+  - "에잠 사건이 '반부패청(ACA) 보고서'의 공개와 관련된다는 세부 사항 — 2차 언론 보도에 근거하며, 확인이 필요합니다."
+  - "A573(1984)과 A660(1987) 개정이 기존 처벌 규정을 개정한 것과 달리 실제로 필수적 최소 징역형을 처음으로 도입하였는지 여부 — 입법 연혁 참조가 필요합니다."
+  - "The Star 보도의 '국가적 화합' 언급은 정부의 공식 성명이 아니라 한 분석가가 밝힌 것 — 전문에 대조하여 확인하여야 합니다."
+  - "연방 정보자유법안 및 OSA 개정 제안의 현재 상태 — 이 초안 이후 상황이 변할 수 있으므로 주기적 검토가 필요합니다."
 
 updated: 2026-08-07
 sources:

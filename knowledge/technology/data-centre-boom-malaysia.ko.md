@@ -14,26 +14,26 @@ sensitivity: "none"
 
 answer: "조호르(Johor)가 주도하는 말레이시아는 수백억 링깃(RM)의 데이터센터 투자를 유치했으나, 이 부문의 전기와 물 수요가 Tenaga Nasional(테나가 나시오날)의 전력망과 조호르의 물 공급에 부담을 주고 있습니다. 이에 대응해 정부는 비(非)AI 신규 데이터센터를 약 2년간 제한했고, 조호르는 물을 많이 쓰는 Tier 1 및 Tier 2 승인을 중단했으며, TNB는 용량 확충을 서두르는 한편 디지털부(Ministry of Digital)는 데이터 주권을 중심으로 한 국가 클라우드 컴퓨팅 정책(National Cloud Computing Policy)을 추진하고 있습니다."
 keyTakeaways:
-  - "Johor held close to 80% of Malaysia's live data-centre IT capacity as of 2024, according to ISEAS-Yusof Ishak Institute analysis."
-  - "TNB aims to serve up to 5,000 MW of data-centre demand by 2035; its total installed generation capacity is about 27,690 MW."
-  - "In February 2026 PM Anwar Ibrahim told the Dewan Rakyat that new non-AI data-centre applications had been stopped for nearly two years to protect the grid and water supply."
-  - "Johor has halted approvals for water-intensive Tier 1 and Tier 2 data centres, which can use up to 50 million litres of water a day."
-  - "The Ministry of Digital launched a National Cloud Computing Policy in 2025 aiming to make Malaysia a cloud hub by 2030, anchored on data sovereignty."
-appliesTo: "Investors, policymakers, energy and water planners, sustainability analysts, and anyone tracking Malaysia's digital-infrastructure build-out."
+  - "ISEAS-유소프 이샥 연구소(ISEAS-Yusof Ishak Institute)의 분석에 따르면, 2024년 기준 조호르(Johor)는 말레이시아 가동 중 데이터센터 IT 용량의 약 80%를 차지했습니다."
+  - "TNB는 2035년까지 최대 5,000 MW의 데이터센터 수요에 대응하는 것을 목표로 합니다. TNB의 총 설비 발전 용량은 약 27,690 MW입니다."
+  - "2026년 2월 안와르 이브라힘(Anwar Ibrahim) 총리는 전력망과 물 공급을 보호하기 위해 비(非)AI 신규 데이터센터 신청이 거의 2년간 중단되었다고 하원(Dewan Rakyat)에서 밝혔습니다."
+  - "조호르는 하루 최대 5,000만 리터의 물을 사용할 수 있는 물 집약적 Tier 1 및 Tier 2 데이터센터의 승인을 중단했습니다."
+  - "디지털부(Ministry of Digital)는 데이터 주권을 기반으로 2030년까지 말레이시아를 클라우드 허브로 만드는 것을 목표로 2025년 국가 클라우드 컴퓨팅 정책(National Cloud Computing Policy)을 발표했습니다."
+appliesTo: "투자자, 정책 입안자, 에너지 및 물 계획 담당자, 지속가능성 분석가, 그리고 말레이시아의 디지털 인프라 구축을 주시하는 모든 이."
 
 faq:
-  - q: "Why did Malaysia restrict new non-AI data centres?"
-    a: "To ease pressure on the national power grid and water supply. In February 2026, PM Anwar Ibrahim told Parliament that new applications for data centres unrelated to AI had already been stopped for nearly two years, while AI-related projects with higher-technology benefits get easier approval."
-  - q: "Which state dominates Malaysia's data-centre boom?"
-    a: "Johor. ISEAS analysis found Johor held close to 80% of the country's live data-centre IT capacity as of 2024, driven by proximity to Singapore, available land, and connectivity. As of November 2025, Johor had approved 51 projects worth RM182.96 billion."
-  - q: "How much electricity do data centres use in Malaysia?"
-    a: "Actual load was still modest relative to contracted capacity in late 2024 (ISEAS cited about 405 MW of real load against 13.76 GW contracted), but demand is climbing fast. TNB is planning to serve up to 5,000 MW of data-centre demand by 2035 — a figure ISEAS put at around 40% of Peninsular Malaysia's present power capacity."
-  - q: "What is the Tier 1 and Tier 2 data-centre ban in Johor?"
-    a: "Johor stopped approving so-called Tier 1 and Tier 2 data centres because they consume the most water — up to 50 million litres a day, roughly 20 Olympic pools — steering investment toward higher-tier, more water- and energy-efficient facilities instead."
-  - q: "What is the Green Lane pathway?"
-    a: "A TNB fast-track connection mechanism that can shorten a data centre's grid-connection timeline from about 36 months to 12 months. PDG's 190 MW Sedenak campus in Johor was connected within 12 months through it."
-  - q: "What is Malaysia's National Cloud Computing Policy?"
-    a: "A policy launched by the Ministry of Digital in 2025 to make Malaysia a world-class cloud hub by 2030, anchored on data sovereignty — the principle that data generated in Malaysia is governed by Malaysian law — alongside a planned sovereign AI cloud."
+  - q: "말레이시아는 왜 비(非)AI 신규 데이터센터를 제한했습니까?"
+    a: "국가 전력망과 물 공급에 대한 부담을 덜기 위해서입니다. 2026년 2월 안와르 이브라힘(Anwar Ibrahim) 총리는 AI와 무관한 데이터센터 신규 신청이 이미 거의 2년간 중단되었으며, 기술적 편익이 더 큰 AI 관련 프로젝트는 승인이 더 수월하다고 의회에서 밝혔습니다."
+  - q: "말레이시아 데이터센터 붐을 주도하는 주는 어디입니까?"
+    a: "조호르(Johor)입니다. ISEAS 분석에 따르면 2024년 기준 조호르는 싱가포르와의 인접성, 가용 부지, 연결성에 힘입어 전국 가동 중 데이터센터 IT 용량의 약 80%를 차지했습니다. 2025년 11월 기준 조호르는 RM182.96 billion 규모의 51개 프로젝트를 승인했습니다."
+  - q: "말레이시아에서 데이터센터는 얼마나 많은 전기를 사용합니까?"
+    a: "2024년 말 실제 부하는 계약 용량에 비해 여전히 완만한 수준이었으나(ISEAS는 계약 용량 13.76 GW 대비 실제 부하 약 405 MW를 인용), 수요는 빠르게 증가하고 있습니다. TNB는 2035년까지 최대 5,000 MW의 데이터센터 수요에 대응할 계획이며, ISEAS는 이를 현재 반도 말레이시아 전력 용량의 약 40%로 추산했습니다."
+  - q: "조호르의 Tier 1 및 Tier 2 데이터센터 금지 조치는 무엇입니까?"
+    a: "조호르는 이른바 Tier 1 및 Tier 2 데이터센터의 승인을 중단했습니다. 이들이 물을 가장 많이 소비하기 때문으로 — 하루 최대 5,000만 리터, 올림픽 수영장 약 20개 분량에 이릅니다 — 대신 상위 등급의, 물과 에너지 효율이 더 높은 시설로 투자를 유도합니다."
+  - q: "그린 레인(Green Lane) 경로는 무엇입니까?"
+    a: "데이터센터의 전력망 연결 소요 기간을 약 36개월에서 12개월로 단축할 수 있는 TNB의 신속 연결 메커니즘입니다. 조호르에 있는 PDG의 190 MW 세데낙(Sedenak) 캠퍼스가 이를 통해 12개월 이내에 연결되었습니다."
+  - q: "말레이시아의 국가 클라우드 컴퓨팅 정책은 무엇입니까?"
+    a: "디지털부가 2025년 발표한 정책으로, 데이터 주권 — 말레이시아에서 생성된 데이터는 말레이시아 법의 적용을 받는다는 원칙 — 을 기반으로 2030년까지 말레이시아를 세계 수준의 클라우드 허브로 만들고, 아울러 계획된 국가 주권 AI 클라우드를 구축하는 것을 목표로 합니다."
 
 lang: "ko"
 sourceContentHash: "16256b5ee4d19f22"
@@ -53,7 +53,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Neutrality: the sovereignty / non-AI-freeze framing is lightly interpretive; re-review tone if this article is ever reclassified above tier 1 or as sensitive."
+  - "중립성: 주권 / 비(非)AI 동결 프레이밍은 다소 해석적입니다. 이 글이 향후 tier 1 이상으로 또는 민감 문서로 재분류될 경우 어조를 재검토해야 합니다."
 
 updated: 2026-08-14
 sources:

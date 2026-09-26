@@ -13,17 +13,17 @@ sensitivity: "none"
 
 answer: "MATRADE(말레이시아 대외무역개발공사, Malaysia External Trade Development Corporation)는 통상산업부(MITI) 산하의 법정 기관으로, 말레이시아의 수출을 해외에서 진흥합니다. 해외 무역사무소 네트워크를 통해 무역박람회, 무역 및 수출촉진 사절단, 비즈니스 매칭 프로그램, 시장 정보, 그리고 수출 마케팅 비용에 대한 상환형 보조금을 운영합니다. 내향 투자를 유치하는 일은 하지 않으며 — 그것은 MIDA의 일입니다 — 무역 정책을 정하지도 않습니다 — 그것은 MITI의 일입니다."
 keyTakeaways:
-  - "MATRADE was established under the Malaysia External Trade Development Corporation Act 1992 (Act 490), which came into force on 1 March 1993"
-  - "It is a statutory agency under the Ministry of Investment, Trade and Industry (MITI) — MITI's own Acts listing names Act 490 as MATRADE's governing legislation"
-  - "MATRADE promotes what Malaysian companies sell abroad; MIDA promotes and evaluates what investors bring into Malaysia's manufacturing and services sectors — the two agencies face opposite directions of the same trade relationship"
-  - "As of early 2026, MATRADE operates a network reported at 47 overseas trade offices, which its chairman has described as being repositioned into market-intelligence 'frontline hubs' rather than purely promotional posts"
-  - "For 2026, MATRADE's chief executive set out a roadmap of 203 trade development and promotion programmes intended to assist 13,400 Malaysian companies, built around five pillars: human capital, strategic partnerships, ESG/sustainability, digitalisation and market diversification"
-  - "MATRADE administers the Market Development Grant (MDG), a reimbursable grant that helps exporters offset the cost of promoting Malaysian products or services overseas"
-appliesTo: "Malaysian companies looking to export or exhibit overseas, anyone trying to work out whether an export question belongs with MATRADE or an investment question belongs with MIDA, and readers trying to place MATRADE within MITI's wider agency structure."
+  - "MATRADE는 말레이시아 대외무역개발공사법(Malaysia External Trade Development Corporation Act 1992, Act 490)에 따라 설립되었으며, 이 법은 1993년 3월 1일 발효되었다"
+  - "투자통상산업부(Ministry of Investment, Trade and Industry, MITI) 산하의 법정 기관이다 — MITI 자체의 법률 목록은 Act 490을 MATRADE의 근거 법률로 명시한다"
+  - "MATRADE는 말레이시아 기업이 해외에서 판매하는 것을 진흥하고, MIDA는 투자자가 말레이시아의 제조업·서비스업에 들여오는 것을 진흥·평가한다 — 두 기관은 같은 통상 관계의 서로 반대 방향을 향한다"
+  - "2026년 초 현재 MATRADE는 47개 해외 무역사무소로 보고된 네트워크를 운영하며, 그 이사장은 이를 순전히 홍보 거점이 아니라 시장 정보 「최전선 허브」로 재편하고 있다고 설명하였다"
+  - "2026년을 위해 MATRADE의 최고경영자는 13,400개 말레이시아 기업을 지원하기 위한 203개 무역 개발·진흥 프로그램의 로드맵을 제시하였으며, 이는 다섯 개의 축 — 인적 자본, 전략적 파트너십, ESG/지속가능성, 디지털화, 시장 다변화 — 을 중심으로 구성된다"
+  - "MATRADE는 시장개발보조금(Market Development Grant, MDG)을 관장하며, 이는 수출업체가 말레이시아 제품이나 서비스를 해외에 홍보하는 비용을 상쇄하도록 돕는 상환형 보조금이다"
+appliesTo: "해외 수출이나 전시를 계획하는 말레이시아 기업, 수출 관련 사안이 MATRADE 소관인지 투자 관련 사안이 MIDA 소관인지를 판단하려는 모든 사람, 그리고 MITI의 더 넓은 기관 구조 안에서 MATRADE의 위치를 파악하려는 독자."
 
 verificationNeeded:
-  - "The exact current count and location list of MATRADE's domestic regional offices within Malaysia (reported elsewhere as covering Penang, Terengganu, Johor, Sabah and Sarawak) was not confirmed against a MATRADE page this article could directly retrieve, so no specific list is asserted here"
-  - "The 47-overseas-office figure is corroborated by two independently dated 2026 news reports citing MATRADE's own chairman and chief executive, but was not cross-checked against a MATRADE-hosted office directory page, which this article's fetch attempts could not retrieve in full"
+  - "말레이시아 내 MATRADE 국내 지역사무소의 정확한 현재 수와 소재지 목록(다른 곳에서는 페낭(Penang), 트렝가누(Terengganu), 조호르(Johor), 사바(Sabah), 사라왁(Sarawak)을 포괄하는 것으로 보고됨)은 이 문서가 직접 가져올 수 있는 MATRADE 페이지와 대조하여 확인되지 않았으므로, 여기에서는 구체적인 목록을 단정하지 않는다"
+  - "47개 해외사무소 수치는 MATRADE 자체 이사장과 최고경영자를 인용한, 각각 날짜가 다른 두 건의 2026년 보도로 뒷받침되나, MATRADE가 운영하는 사무소 안내 페이지와 교차 확인되지 않았으며 이 문서의 가져오기 시도로는 그 페이지를 온전히 가져올 수 없었다"
 
 lang: "ko"
 sourceContentHash: "53582e357950bce0"

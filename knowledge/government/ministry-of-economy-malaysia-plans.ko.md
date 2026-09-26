@@ -14,25 +14,25 @@ sensitivity: "none"
 
 answer: "경제부(Ministry of Economy)는 말레이시아의 사회경제 개발 계획을 조정하고 개발 지출의 상한과 배분을 정하는 연방 부처입니다. 제15대 총선 후에 설립되어, 2022년 12월 23일 경제기획단(EPU)이 해체될 때 그 기능을 인수했습니다. 그 주요 산출물은 말레이시아 계획(Malaysia Plan) — 이 부처가 편성하여 의회의 승인을 위한 동의안으로 상정하는 5개년 개발 계획 — 이며, 말레이시아 통계청(DOSM)과 여러 지역 회랑 개발 당국이 그 산하 기관에 속합니다."
 keyTakeaways:
-  - "Kementerian Ekonomi mewarisi fungsi perancangan bekas Unit Perancang Ekonomi (EPU), yang dibubarkan pada 23 Disember 2022 selepas Pilihan Raya Umum ke-15"
-  - "Akar institusi ini bermula dengan Urus Setia Ekonomi pada 24 April 1956, disusun semula menjadi EPU pada 1961 di bawah Jabatan Perdana Menteri"
-  - "Fungsi teras kementerian: menyediakan pelan pembangunan sosioekonomi jangka sederhana dan panjang, menetapkan siling dan agihan perbelanjaan pembangunan, serta menyelaras dan memantau pelaksanaan"
-  - "Rancangan Malaysia disediakan oleh kementerian ini, disahkan melalui Jawatankuasa Perancang Pembangunan Negara (JPPN) dan Kabinet, kemudian dibentangkan sebagai usul di Parlimen — bukan rang undang-undang"
-  - "Jabatan Perangkaan Malaysia (DOSM) serta pihak berkuasa koridor wilayah seperti IRDA, NCIA, ECERDC, SEDIA dan RECODA terletak di bawah kementerian ini"
-  - "Kementerian ini melaksanakan pengurusan nilai bagi projek pembangunan yang melebihi RM50 juta"
-appliesTo: "Pelajar, penganalisis dasar, wartawan, dan sesiapa yang ingin memahami pihak mana yang merancang pembangunan negara dan bagaimana ia berkait dengan Belanjawan tahunan."
+  - "경제부(Ministry of Economy)는 제15대 총선거 후 2022년 12월 23일 해체된 옛 경제기획단(Unit Perancang Ekonomi, EPU)의 기획 기능을 승계하였다"
+  - "이 기관의 뿌리는 1956년 4월 24일의 경제사무국(Urus Setia Ekonomi)에서 시작되어, 1961년 총리실(Jabatan Perdana Menteri) 산하 EPU로 재편되었다"
+  - "부처의 핵심 기능: 중·장기 사회경제 개발 계획의 수립, 개발 지출의 상한 및 배분 설정, 그리고 이행의 조정과 점검"
+  - "말레이시아 계획(Rancangan Malaysia)은 이 부처가 수립하고, 국가개발기획위원회(Jawatankuasa Perancang Pembangunan Negara, JPPN)와 내각의 승인을 거친 후, 법안이 아니라 의안(usul)으로서 의회(Parliament)에 제출된다"
+  - "말레이시아 통계청(DOSM)과 IRDA, NCIA, ECERDC, SEDIA, RECODA 같은 지역개발회랑 당국이 이 부처 산하에 있다"
+  - "이 부처는 RM50 million을 초과하는 개발 사업에 대해 가치 관리(value management)를 시행한다"
+appliesTo: "어느 기관이 국가 개발을 계획하는지, 그리고 그것이 연간 예산과 어떻게 연관되는지를 이해하고자 하는 학생, 정책 분석가, 기자 및 모든 사람."
 
 faq:
-  - q: "Adakah Kementerian Ekonomi sama dengan Kementerian Kewangan?"
-    a: "Tidak. Kementerian Ekonomi merancang pembangunan jangka sederhana dan panjang serta menetapkan siling perbelanjaan pembangunan melalui Rancangan Malaysia. Kementerian Kewangan menguruskan hasil, cukai dan Belanjawan Persekutuan tahunan yang memperuntukkan ringgit sebenar setiap tahun. Kedua-duanya kementerian berasingan dengan fungsi yang saling melengkapi."
-  - q: "Apa yang berlaku kepada Unit Perancang Ekonomi (EPU)?"
-    a: "EPU dibubarkan pada 23 Disember 2022 selepas Pilihan Raya Umum ke-15, dan peranan serta fungsinya diambil alih oleh Kementerian Ekonomi yang baharu ditubuhkan. EPU sebelum ini pernah disusun semula menjadi Kementerian Hal Ehwal Ekonomi pada 2018 dan ditubuhkan semula di bawah Jabatan Perdana Menteri pada 2020 sebelum penstrukturan terkini ini."
-  - q: "Siapa yang menyediakan Rancangan Malaysia?"
-    a: "Kementerian Ekonomi menyelaras penyediaannya — mencadangkan sasaran ekonomi makro dan mengeluarkan garis panduan perancangan kepada semua kementerian dan agensi. Ia kemudian disahkan melalui Jawatankuasa Perancang Pembangunan Negara (JPPN) yang dipengerusikan Ketua Setiausaha Negara, Jawatankuasa Khas Perdana Menteri dan Kabinet, sebelum dibentangkan di Parlimen."
-  - q: "Apakah agensi utama di bawah Kementerian Ekonomi?"
-    a: "Jabatan Perangkaan Malaysia (DOSM) ialah jabatan utamanya. Pihak berkuasa koridor pembangunan wilayah — IRDA, NCIA, ECERDC, SEDIA dan RECODA — turut terletak di bawahnya, bersama agensi mandat Bumiputera seperti TERAJU dan Yayasan Peneraju, serta Malaysia Petroleum Resources Corporation (MPRC) dan EKUINAS."
-  - q: "Adakah Rancangan Malaysia sejenis undang-undang?"
-    a: "Tidak. Rancangan Malaysia dibentangkan sebagai usul dasar untuk perbahasan dan kelulusan Parlimen, bukan sebagai rang undang-undang seperti Rang Undang-Undang Perbekalan yang menjadi asas Belanjawan tahunan."
+  - q: "경제부는 재무부와 같습니까?"
+    a: "아닙니다. 경제부(Ministry of Economy)는 중·장기 개발을 계획하고 말레이시아 계획(Rancangan Malaysia)을 통해 개발 지출의 상한을 정합니다. 재무부(Ministry of Finance)는 세입, 조세, 그리고 매년 실제 링깃을 배정하는 연간 연방 예산을 관리합니다. 둘은 서로 보완하는 기능을 가진 별개의 부처입니다."
+  - q: "경제기획단(EPU)은 어떻게 되었습니까?"
+    a: "EPU는 제15대 총선거 후 2022년 12월 23일 해체되었고, 그 역할과 기능은 새로 설립된 경제부가 넘겨받았습니다. EPU는 이 최근의 개편에 앞서 2018년에 경제문제부(Kementerian Hal Ehwal Ekonomi)로 재편되었다가 2020년에 총리실(Jabatan Perdana Menteri) 산하로 다시 설치된 바 있습니다."
+  - q: "말레이시아 계획(Rancangan Malaysia)은 누가 수립합니까?"
+    a: "경제부가 그 수립을 조정합니다 — 거시경제 목표를 제안하고 모든 부처와 기관에 기획 지침을 발령합니다. 이후 국가사무총장(Ketua Setiausaha Negara)이 의장을 맡는 국가개발기획위원회(JPPN), 총리 특별위원회, 그리고 내각의 승인을 거친 뒤 의회(Parliament)에 제출됩니다."
+  - q: "경제부 산하의 주요 기관은 무엇입니까?"
+    a: "말레이시아 통계청(DOSM)이 그 주요 부서입니다. 지역개발회랑 당국 — IRDA, NCIA, ECERDC, SEDIA, RECODA — 도 그 산하에 있으며, TERAJU와 Yayasan Peneraju 같은 부미푸트라(Bumiputera) 위임 기관, 그리고 말레이시아 석유자원공사(MPRC)와 EKUINAS도 함께 포함됩니다."
+  - q: "말레이시아 계획(Rancangan Malaysia)은 일종의 법입니까?"
+    a: "아닙니다. 말레이시아 계획(Rancangan Malaysia)은 의회(Parliament)의 토론과 승인을 위한 정책 의안으로 제출되며, 연간 예산의 근거가 되는 공급법안(Rang Undang-Undang Perbekalan, Supply Bill) 같은 법안으로 제출되는 것이 아닙니다."
 
 lang: "ko"
 sourceContentHash: "6ea99ed513582ab7"
@@ -46,8 +46,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Senarai penuh dan bilangan tepat agensi di bawah Kementerian Ekonomi (laman rasmi menyenaraikan 12 agensi pada tarikh semakan; susunan boleh berubah selepas penstrukturan Kabinet)"
-  - "Sama ada Jawatankuasa Khas Perdana Menteri kekal sebagai lapisan pengesahan dalam rantaian penyediaan RMK semasa"
+  - "경제부 산하 기관의 전체 목록과 정확한 수(공식 사이트는 검토 시점에 12개 기관을 열거함. 내각 개편 후 편제가 바뀔 수 있음)"
+  - "총리 특별위원회가 현재의 말레이시아 계획(RMK) 수립 과정에서 승인 단계로 계속 남아 있는지 여부"
 revisions:
   - revision: 0
     date: 2026-08-01

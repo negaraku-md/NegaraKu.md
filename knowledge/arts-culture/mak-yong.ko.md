@@ -12,25 +12,25 @@ contentType: "guide"
 sensitivity: "none"
 answer: "막용은 클란탄을 중심으로 한 말레이 전통 무용극으로, 연기, 춤, 노래, 기악, 희극을 여러 밤에 걸쳐 이어질 수 있는 하나의 공연에 결합합니다. 반주는 세 줄 르밥(rebab), 한 쌍의 근당(gendang), 트타왁(tetawak)을 바탕으로 하며, 대부분의 배역을 여성이 연기합니다. 유네스코는 2005년 이를 걸작(Masterpiece)으로 선포했고, 2008년 11월 4일 인류무형문화유산 대표목록에 포함했습니다."
 keyTakeaways:
-  - "Mak Yong menggabungkan tarian, muzik, drama, nyanyian, ritual dan komedi dalam satu bentuk persembahan"
-  - "Orkestranya berteraskan rebab tiga tali, sepasang gendang dua muka dan tetawak (gong bertombol)"
-  - "Persembahan dibuka dengan Bertabuh dan Lagu Mengadap Rebab sebelum cerita bermula"
-  - "Kebanyakan watak dilakonkan oleh pelakon wanita, mengikut konvensyen tradisional bentuk seni ini"
-  - "UNESCO mengisytiharkannya sebagai Masterpiece pada 2005; 90 Masterpiece dimasukkan ke dalam Senarai Perwakilan pada 4 November 2008"
-  - "Kerajaan negeri Kelantan mengehadkan persembahan awam melalui enakmen hiburan negeri, dan pada 25 September 2019 mengumumkan persembahan dibenarkan tertakluk kepada syarat yang ditetapkan"
-appliesTo: "Sesiapa yang ingin memahami bentuk, muzik dan status pengiktirafan Mak Yong sebagai warisan budaya tidak ketara."
+  - "막용(mak yong)은 춤, 음악, 연극, 노래, 의례, 희극을 하나의 공연 형식에 결합합니다"
+  - "그 악단은 세 줄 르밥(rebab), 양면 근당(gendang) 한 쌍, 트타왁(tetawak, 꼭지 달린 공)을 바탕으로 합니다"
+  - "공연은 이야기가 시작되기 전에 브르타부(Bertabuh)와 라구 믕아답 르밥(Lagu Mengadap Rebab)으로 문을 엽니다"
+  - "이 예술 형식의 전통 관례에 따라 대부분의 배역은 여성 배우가 연기합니다"
+  - "유네스코(UNESCO)는 2005년 이를 걸작(Masterpiece)으로 선포했으며, 90개 걸작이 2008년 11월 4일 대표목록(Senarai Perwakilan)에 포함되었습니다"
+  - "클란탄(Kelantan) 주 정부는 주 오락 조례를 통해 공개 공연을 제한하며, 2019년 9월 25일 정해진 조건에 따라 공연이 허용된다고 발표했습니다"
+appliesTo: "막용의 형식, 음악, 그리고 무형문화유산으로서의 인정 지위를 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Apakah itu Mak Yong?"
-    a: "Satu bentuk teater tarian tradisional Melayu yang menggabungkan lakonan, tarian, nyanyian, muzik instrumental dan komedi. Menurut UNESCO, ia berasal daripada kampung-kampung di Kelantan dan mendahului pengislaman rantau ini. Satu cerita boleh dipentaskan beberapa malam berturut-turut, dengan persembahan kira-kira tiga jam setiap malam."
-  - q: "Alat muzik apa yang mengiringi Mak Yong?"
-    a: "Teras orkestranya, menurut UNESCO, ialah rebab (alat gesek tiga tali), sepasang gendang dua muka, dan tetawak (gong bertombol yang digantung). Rekod JKKN turut menyenaraikan canang, kesi, geduk, gedombak dan serunai dalam susunan yang lebih lengkap."
-  - q: "Bilakah Mak Yong diiktiraf UNESCO?"
-    a: "Ia diisytiharkan sebagai Masterpiece of the Oral and Intangible Heritage of Humanity pada 2005. Selepas Konvensyen 2003 berkuat kuasa, kesemua 90 Masterpiece daripada tiga pengisytiharan (2001, 2003, 2005) dimasukkan ke dalam Senarai Perwakilan Warisan Budaya Tidak Ketara Kemanusiaan pada 4 November 2008."
-  - q: "Berapa banyak cerita dalam repertoir Mak Yong?"
-    a: "Sumber rasmi memberikan angka yang berbeza sedikit. Jabatan Warisan Negara menyebut antara 10 hingga 15 cerita utama, manakala rekod pemetaan budaya JKKN menyebut dua belas cerita lengkap, termasuk Dewa Muda, Raja Tangkai Hati dan Gading Bertimang."
-  - q: "Apakah status persembahan Mak Yong di Kelantan?"
-    a: "Persembahan awam di Kelantan dihadkan di bawah enakmen kawalan hiburan negeri yang diluluskan pada 1998. Pada 25 September 2019, Timbalan Menteri Besar Kelantan Datuk Mohd Amar Nik Abdullah mengumumkan bahawa persembahan dibenarkan tertakluk kepada syarat patuh syariah yang ditetapkan kerajaan negeri, termasuk ketiadaan unsur pemujaan dan kewajipan menutup aurat, dengan pemantauan berterusan oleh kerajaan negeri dan pihak berkuasa agama negeri."
+  - q: "막용이란 무엇입니까?"
+    a: "연기, 춤, 노래, 기악, 희극을 결합한 말레이 전통 무용극입니다. 유네스코에 따르면 클란탄의 마을들에서 유래했으며 이 지역의 이슬람화보다 앞섭니다. 하나의 이야기가 여러 밤에 걸쳐 무대에 오를 수 있으며, 매일 밤 약 세 시간씩 공연됩니다."
+  - q: "막용은 어떤 악기가 반주합니까?"
+    a: "유네스코에 따르면 그 악단의 바탕은 르밥(rebab, 세 줄 현악기), 양면 근당 한 쌍, 그리고 트타왁(tetawak, 매달린 꼭지 달린 공)입니다. JKKN 기록은 더 완전한 구성에서 차낭(canang), 크시(kesi), 그둑(geduk), 그돔박(gedombak), 스루나이(serunai)도 함께 나열합니다."
+  - q: "막용은 언제 유네스코에 인정받았습니까?"
+    a: "막용은 2005년 인류 구전 및 무형 유산 걸작(Masterpiece of the Oral and Intangible Heritage of Humanity)으로 선포되었습니다. 2003년 협약이 발효된 뒤, 세 차례 선언(2001, 2003, 2005)에서 나온 90개 걸작 전부가 2008년 11월 4일 인류무형문화유산 대표목록에 포함되었습니다."
+  - q: "막용의 레퍼토리에는 이야기가 몇 편이 있습니까?"
+    a: "공식 자료는 조금씩 다른 수치를 제시합니다. 국가유산국(Jabatan Warisan Negara)은 10편에서 15편의 주요 이야기를 언급하고, JKKN 문화 지도 기록은 데와 무다(Dewa Muda), 라자 탕카이 하티(Raja Tangkai Hati), 가딩 브르티망(Gading Bertimang)을 포함한 완전한 열두 편을 언급합니다."
+  - q: "클란탄에서 막용 공연의 지위는 어떠합니까?"
+    a: "클란탄의 공개 공연은 1998년에 통과된 주 오락 통제 조례 아래 제한됩니다. 2019년 9월 25일 클란탄 부주지사 다툭 모드 아마르 닉 압둘라(Datuk Mohd Amar Nik Abdullah)는 주 정부가 정한 샤리아 준수 조건 — 숭배 요소의 배제와 아우라트(aurat)를 가릴 의무 등 — 에 따라, 주 정부와 주 종교 당국의 지속적 감시 아래 공연이 허용된다고 발표했습니다."
 
 lang: "ko"
 sourceContentHash: "fddcf6b015e88b34"
@@ -49,8 +49,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Jumlah tepat cerita utama dalam repertoir — Jabatan Warisan Negara menyebut 10–15, pemetaan budaya JKKN menyebut 12."
-  - "Tarikh dan rujukan penuh Enakmen Kawalan Hiburan dan Tempat-Tempat Hiburan Negeri Kelantan yang berkaitan."
+  - "레퍼토리의 주요 이야기 정확한 편수 — 국가유산국(Jabatan Warisan Negara)은 10~15편을, JKKN 문화 지도는 12편을 언급합니다."
+  - "관련된 클란탄 주 오락 및 오락장소 통제 조례(Enakmen Kawalan Hiburan dan Tempat-Tempat Hiburan Negeri Kelantan)의 날짜와 온전한 출처."
 
 updated: 2026-07-24
 sources:

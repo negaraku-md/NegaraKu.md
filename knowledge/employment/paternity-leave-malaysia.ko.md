@@ -14,18 +14,18 @@ sensitivity: "none"
 
 answer: "고용법(Employment Act 1955) 제60FA조는 기혼 남성 근로자에게 각 출산에 대하여 통상 임금률로 연속 7일의 유급 부성휴가를 부여하며, 배우자 수와 관계없이 출산 5회로 제한됩니다. 근로자는 휴가 개시 직전에 동일한 고용주에게 최소 12개월간 고용되어 있었고, 예정된 출산일로부터 최소 30일 전에 또는 출산 후 가능한 한 빨리 배우자의 임신 사실을 고용주에게 통지한 경우에만 자격을 얻습니다."
 keyTakeaways:
-  - "s.60FA(1) — seven consecutive days at the ordinary rate of pay, per confinement."
-  - "s.60FA(2) — restricted to five confinements irrespective of the number of spouses."
-  - "s.60FA(3)(a) — at least twelve months of employment with the same employer immediately before the leave commences."
-  - "s.60FA(3)(b) — notice of the spouse's pregnancy at least thirty days from the expected confinement, or as early as possible after the birth."
-  - "The entitlement is limited to married male employees; the Act does not extend it to unmarried fathers."
-  - "It applies at every wage level — s.60FA is not among the six provisions disapplied above RM4,000 by First Schedule paragraph 1A."
-  - "Domestic employees are excluded, because First Schedule paragraph 2(5) disapplies s.60FA to them."
-appliesTo: "Employers administering paternity leave, and expectant fathers in Peninsular Malaysia and Labuan."
+  - "제60FA(1)조 — 출산당 통상 임금률로 연속 7일."
+  - "제60FA(2)조 — 배우자 수와 관계없이 출산 5회로 제한."
+  - "제60FA(3)(a)조 — 휴가 개시 직전에 동일한 고용주에게 최소 12개월간의 고용."
+  - "제60FA(3)(b)조 — 예정된 출산일로부터 최소 30일 전에, 또는 출산 후 가능한 한 빨리 배우자의 임신을 통지."
+  - "이 권리는 기혼 남성 근로자에 한하며, 이 법은 이를 미혼 아버지에게 확대하지 않습니다."
+  - "이는 모든 임금 수준에서 적용됩니다 — 제60FA조는 제1부칙 제1A항에 의해 RM4,000 초과 시 배제되는 여섯 개 조항에 속하지 않습니다."
+  - "가사 근로자는 제외되는데, 제1부칙 제2(5)항이 이들에게 제60FA조를 배제하기 때문입니다."
+appliesTo: "부성휴가를 관리하는 고용주, 그리고 말레이시아 반도 및 라부안의 예비 아버지."
 
 verificationNeeded:
-  - "Confirm whether rest days and gazetted public holidays falling within the seven consecutive days are counted against the entitlement, against JTKSM guidance"
-  - "Confirm whether the twelve-month service condition tolerates a break in service, and how continuous service is computed for s.60FA"
+  - "연속 7일 중에 포함되는 휴게일과 관보 게재 공휴일이 권리에 산입되는지 JTKSM 지침과 대조하여 확인할 것"
+  - "12개월 근속 요건이 근로 단절을 용인하는지, 그리고 제60FA조에서 계속 근로를 어떻게 산정하는지 확인할 것"
 
 lang: "ko"
 sourceContentHash: "97900bf02693ecc5"

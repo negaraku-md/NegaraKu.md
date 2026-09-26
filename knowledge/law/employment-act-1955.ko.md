@@ -13,24 +13,24 @@ sensitivity: "none"
 
 answer: "고용법(Employment Act 1955, Act 265)은 말레이시아의 주요 고용 관련 법률로, 말레이반도(Peninsular Malaysia)와 라부안(Labuan)에 적용됩니다. 이 법은 근로시간, 휴가, 임금 및 해고에 관한 법정 최저 기준을 정하며, 인적자원부(Ministry of Human Resources) 산하 노동부(Department of Labour)가 관장합니다. 가장 최근의 실질적 개정인 2022년 고용(개정)법(Employment (Amendment) Act 2022, Act A1651)은 2023년 1월 1일에 발효되었습니다."
 keyTakeaways:
-  - "Act 265; assented 4 June 1955, published 27 June 1955, in force 1 June 1957"
-  - "Territorial reach is Peninsular Malaysia and Labuan — Sabah and Sarawak run separate Labour Ordinances"
-  - "Act A1651, the 2022 amendment, came into force 1 January 2023, not on its 10 May 2022 publication date"
-  - "Coverage is set by the First Schedule, amended by P.U.(A) 262/2022 and P.U.(A) 273/2022"
-  - "Administered and enforced by Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM), Ministry of Human Resources"
-  - "This page is the statute record only — the practical rules live in the linked guides"
-appliesTo: "Readers who need the statutory identity, administration and amendment history of Act 265 rather than a how-to on any single entitlement."
+  - "Act 265; 1955년 6월 4일 재가, 1955년 6월 27일 공포, 1957년 6월 1일 발효"
+  - "적용 지역은 말레이반도와 라부안입니다 — 사바와 사라왁은 별도의 노동조례를 운영합니다"
+  - "2022년 개정법인 Act A1651은 2022년 5월 10일 공포일이 아니라 2023년 1월 1일에 발효되었습니다"
+  - "적용 범위는 제1부칙으로 정해지며, P.U.(A) 262/2022 및 P.U.(A) 273/2022로 개정되었습니다"
+  - "인적자원부 산하 말레이반도 노동부(Jabatan Tenaga Kerja Semenanjung Malaysia, JTKSM)가 관장·집행합니다"
+  - "이 페이지는 법령 기록일 뿐이며 — 실무 규정은 연결된 안내에 담겨 있습니다"
+appliesTo: "어느 하나의 권리에 대한 실무 안내가 아니라 Act 265의 법령상 정체성, 관장 및 개정 연혁이 필요한 독자."
 
 faq:
-  - q: "Is the Employment Act 1955 still in force?"
-    a: "Yes. Act 265 has been in force since 1 June 1957 and remains Malaysia's principal employment statute. It has been amended repeatedly, most substantially by the Employment (Amendment) Act 2022 (Act A1651), and the current AGC reprint is dated 1 August 2023."
-  - q: "When did the 2022 amendments actually take effect?"
-    a: "Act A1651 was published on 10 May 2022 but did not commence then. Commencement was appointed for 1 January 2023, and the AGC timeline for Act 265 records a reprint at that date. Guidance written in mid-2022 describing the amendments as already operative is describing law that had not yet commenced."
-  - q: "Does Act 265 apply in Sabah and Sarawak?"
-    a: "No. Act 265 extends to Peninsular Malaysia and the Federal Territory of Labuan. Sabah and Sarawak are governed by their own Labour Ordinances, broadly similar in structure but different in detail, including on coverage thresholds and some procedural steps."
+  - q: "고용법 1955는 여전히 시행 중입니까?"
+    a: "예. Act 265는 1957년 6월 1일 이래 시행되어 왔으며 말레이시아의 주요 고용 법률로 남아 있습니다. 이 법은 여러 차례 개정되었고, 가장 실질적으로는 2022년 고용(개정)법(Employment (Amendment) Act 2022, Act A1651)에 의하여 개정되었으며, 현행 AGC 재발행본은 2023년 8월 1일 기준입니다."
+  - q: "2022년 개정은 실제로 언제 발효되었습니까?"
+    a: "Act A1651은 2022년 5월 10일에 공포되었으나 그때 시행되지는 아니하였습니다. 시행일은 2023년 1월 1일로 지정되었으며, Act 265에 대한 AGC 연표도 그 날짜에 재발행본을 기록하고 있습니다. 2022년 중에 이 개정 사항을 이미 시행 중인 것으로 서술하는 지침은 아직 시행되지 아니한 법을 서술하고 있는 것입니다."
+  - q: "Act 265는 사바와 사라왁에 적용됩니까?"
+    a: "아니요. Act 265는 말레이반도와 라부안 연방직할구에 적용됩니다. 사바와 사라왁은 자체의 노동조례로 규율되며, 구조상으로는 대체로 유사하나 적용 범위 기준 및 일부 절차적 단계 등 세부에서 다릅니다."
 
 verificationNeeded:
-  - "Confirm the exact commencement instrument for Act A1651 against the Federal Gazette; the project source register records P.U.(B) 394/2022 for the 1 January 2023 date."
+  - "Act A1651의 정확한 시행 문서를 연방 관보에 대조하여 확인하여야 합니다; 프로젝트 출처 대장은 2023년 1월 1일 날짜에 대하여 P.U.(B) 394/2022를 기록하고 있습니다."
 
 lang: "ko"
 sourceContentHash: "ab52798a8bfb6a2f"

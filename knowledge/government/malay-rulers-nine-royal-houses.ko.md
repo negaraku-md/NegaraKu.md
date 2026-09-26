@@ -14,21 +14,21 @@ sensitivity: "royalty"
 
 answer: "아홉 개의 말레이 주 — 조호르(Johor), 크다(Kedah), 클란탄(Kelantan), 느그리슴빌란(Negeri Sembilan), 파항(Pahang), 페락(Perak), 프를리스(Perlis), 슬랑오르(Selangor), 트렝가누(Terengganu) — 는 각각 자기 주의 헌법과 관습에 따라 세습으로 왕위를 계승하는 한 명의 통치자를 둡니다. 자기 주 안에서 통치자는 주의 원수, 그 주의 이슬람 수장, 그리고 말레이 관습의 수호자이며, 입헌 군주로서 행동합니다. 연방헌법(Federal Constitution)은 어느 통치자가 왕위에 오를 권리를 보장하고(제71조) 통치자의 주권과 특권을 보전합니다(제181조). 이 역할은 순번제로 선출되는 양 디페르투안 아공(국왕) 직위 및 집단적으로 행동하는 통치자 회의와는 별개입니다."
 keyTakeaways:
-  - "Sembilan negeri mempunyai Raja turun-temurun; lapan bergelar Sultan, pemerintah Perlis bergelar Raja dan pemerintah Negeri Sembilan bergelar Yang di-Pertuan Besar."
-  - "Dalam negerinya, Raja ialah ketua agama Islam dan penjaga adat Melayu, dan bertindak atas nasihat Majlis Mesyuarat Kerajaan kecuali dalam bidang kuasa budi bicara seperti pelantikan Menteri Besar."
-  - "Perkara 71 Perlembagaan Persekutuan menjamin hak seseorang Raja untuk menaiki takhta; setiap negeri menetapkan peraturan pewarisan dalam perlembagaan negerinya sendiri."
-  - "Cara pewarisan berbeza antara negeri: kebanyakannya mengikut keturunan lelaki, Perak bergilir antara cabang keluarga diraja, dan Negeri Sembilan memilih Yang di-Pertuan Besar melalui Undang Yang Empat."
-appliesTo: "Pelajar, penyelidik dan pembaca umum yang ingin memahami kedudukan Raja-Raja negeri Malaysia dari segi perlembagaan dan adat."
+  - "아홉 개 주가 세습 군주(Raja)를 두고 있다. 여덟은 술탄(Sultan)의 칭호를 쓰고, 프를리스(Perlis)의 통치자는 라자(Raja), 느그리슴빌란(Negeri Sembilan)의 통치자는 양 디페르투안 브사르(Yang di-Pertuan Besar)의 칭호를 쓴다."
+  - "자기 주 안에서 군주(Raja)는 이슬람의 수장이자 말레이 관습의 수호자이며, 주총리(Menteri Besar) 임명과 같은 재량 권한을 제외하고는 주행정회의(Majlis Mesyuarat Kerajaan)의 조언에 따라 행동한다."
+  - "연방헌법 제71조는 군주(Raja)가 즉위할 권리를 보장하며, 각 주는 자체 주 헌법에서 왕위 계승 규칙을 정한다."
+  - "계승 방식은 주마다 다르다: 대부분은 남계 혈통을 따르고, 페락(Perak)은 왕가의 분가들 사이에서 교대하며, 느그리슴빌란(Negeri Sembilan)은 네 명의 운당(Undang Yang Empat)을 통해 양 디페르투안 브사르를 선출한다."
+appliesTo: "말레이시아 주 군주(Raja)들의 지위를 헌법과 관습의 측면에서 이해하고자 하는 학생, 연구자 및 일반 독자."
 
 faq:
-  - q: "Berapakah bilangan negeri yang mempunyai Raja di Malaysia?"
-    a: "Sembilan negeri mempunyai Raja turun-temurun: Johor, Kedah, Kelantan, Negeri Sembilan, Pahang, Perak, Perlis, Selangor dan Terengganu. Empat negeri lain — Melaka, Pulau Pinang, Sabah dan Sarawak — diketuai oleh Yang di-Pertua Negeri yang dilantik, bukan Raja."
-  - q: "Adakah semua Raja negeri bergelar Sultan?"
-    a: "Tidak. Lapan Raja bergelar Sultan, pemerintah Perlis bergelar Raja, manakala pemerintah Negeri Sembilan bergelar Yang di-Pertuan Besar."
-  - q: "Apakah kuasa budi bicara seorang Raja negeri?"
-    a: "Antaranya melantik Menteri Besar, tidak memperkenankan permintaan membubarkan Dewan Undangan Negeri, serta melantik waris dan pemangku raja. Dalam urusan lain, Raja bertindak atas nasihat Majlis Mesyuarat Kerajaan negeri."
-  - q: "Bolehkah seseorang Raja negeri didakwa di mahkamah?"
-    a: "Prosiding terhadap seseorang Raja atas sifat peribadinya hanya boleh dibawa di Mahkamah Khas yang ditubuhkan di bawah Perkara 182, dan tertakluk kepada perkenan Peguam Negara."
+  - q: "말레이시아에서 군주를 둔 주는 몇 개입니까?"
+    a: "아홉 개 주가 세습 군주(Raja)를 두고 있습니다: 조호르(Johor), 크다(Kedah), 클란탄(Kelantan), 느그리슴빌란(Negeri Sembilan), 파항(Pahang), 페락(Perak), 프를리스(Perlis), 슬랑오르(Selangor), 트렝가누(Terengganu). 다른 네 개 주 — 믈라카(Melaka), 페낭(Pulau Pinang), 사바(Sabah), 사라왁(Sarawak) — 는 군주가 아니라 임명된 주지사(Yang di-Pertua Negeri)가 이끕니다."
+  - q: "모든 주 군주가 술탄의 칭호를 씁니까?"
+    a: "아닙니다. 여덟 군주가 술탄(Sultan)의 칭호를 쓰고, 프를리스(Perlis)의 통치자는 라자(Raja), 느그리슴빌란(Negeri Sembilan)의 통치자는 양 디페르투안 브사르(Yang di-Pertuan Besar)의 칭호를 씁니다."
+  - q: "주 군주의 재량 권한은 무엇입니까?"
+    a: "그 가운데에는 주총리(Menteri Besar)의 임명, 주의회(Dewan Undangan Negeri) 해산 요청의 거부, 그리고 왕세자와 섭정의 임명이 포함됩니다. 그 밖의 사항에서는 군주(Raja)가 주행정회의(Majlis Mesyuarat Kerajaan)의 조언에 따라 행동합니다."
+  - q: "주 군주가 법원에서 소추될 수 있습니까?"
+    a: "군주(Raja)에 대한 그 사적 자격의 소송은 제182조에 따라 설치된 특별법원(Mahkamah Khas, Special Court)에서만 제기될 수 있으며, 법무장관(Peguam Negara, Attorney General)의 동의를 조건으로 합니다."
 
 lang: "ko"
 sourceContentHash: "3f9c93463dcbf28a"
@@ -48,8 +48,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Nama rasmi badan waris takhta Perak yang diperakukan dalam sumber sebagai 'Dewan Negara (Council of Succession)', serta susunan penuh pangkat waris."
-  - "Butiran pemilihan Yang di-Pertuan Besar Negeri Sembilan oleh Undang Yang Empat hendaklah disahkan terhadap Undang-Undang Tubuh Kerajaan Negeri Sembilan 1959."
+  - "자료에서 「Dewan Negara(왕위 계승 회의, Council of Succession)」로 확인된 페락(Perak) 왕위 계승 기구의 공식 명칭과, 계승 서열의 전체 순서."
+  - "네 명의 운당(Undang Yang Empat)에 의한 느그리슴빌란(Negeri Sembilan) 양 디페르투안 브사르 선출의 세부사항은 느그리슴빌란 주 헌법(Undang-Undang Tubuh Kerajaan Negeri Sembilan 1959)과 대조하여 확인하여야 한다."
 updated: 2026-08-01
 sources:
   - title: "Federal Constitution (Reprint as at 15 October 2020)"

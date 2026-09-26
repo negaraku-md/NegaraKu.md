@@ -14,20 +14,20 @@ sensitivity: "security"
 
 answer: "공적기밀법 1972(Official Secrets Act 1972, Act 88)는 말레이시아 공적 기밀의 보호를 규율합니다. 이 법은 '공적 기밀'을 부칙에 열거된 문서와, 장관·주총리·수석장관 또는 임명된 공무원이 '극비(Rahsia Besar)', '기밀(Rahsia)', '대외비(Sulit)', '제한(Terhad)'으로 분류한 문서로 정의합니다. 제16A조에 따라, 어느 문서를 공적 기밀로 확인하는 증명서는 최종적 증거이며 법원에서 문제 삼을 수 없습니다. 연방 차원에서 말레이시아에는 아직 정보 자유법이 없으며, 지금까지 슬랑오르(2011년 관보 고시, 2013년 발효)와 페낭(2010년 조례)만이 자체 조례를 가지고 있고, 연방 정보자유법안은 2026년 7월에 처음 상정되었습니다."
 keyTakeaways:
-  - "Seksyen 8 Akta Rahsia Rasmi 1972 memperuntukkan hukuman penjara tidak kurang satu tahun dan tidak melebihi tujuh tahun bagi komunikasi salah rahsia rasmi."
-  - "Di bawah seksyen 2B, seorang Menteri, Menteri Besar atau Ketua Menteri boleh melantik pegawai awam untuk mengelaskan dokumen sebagai Rahsia Besar, Rahsia, Sulit atau Terhad."
-  - "Seksyen 16A menjadikan sijil pengkelasan sebagai keterangan muktamad yang 'tidak boleh dipersoalkan di mana-mana mahkamah atas apa-apa alasan'."
-  - "Malaysia tiada undang-undang kebebasan maklumat persekutuan; hanya Selangor (diwartakan 2011, berkuat kuasa 5 Mac 2013) dan Pulau Pinang (Enakmen 2010, diperkenankan 2012) mempunyai enakmen negeri, terhad kepada maklumat kerajaan negeri."
-  - "Rang Undang-Undang Kebebasan Maklumat 2026 dibentangkan bacaan kali pertama pada 13 Julai 2026 dan dirujuk kepada Jawatankuasa Pilihan Khas Parlimen."
-appliesTo: "Wartawan, penyelidik, peguam, penjawat awam dan orang ramai yang ingin memahami undang-undang kerahsiaan rasmi dan hak akses maklumat kerajaan di Malaysia."
+  - "공직비밀법(Official Secrets Act 1972) 제8조는 공직 비밀의 부당한 전달에 대하여 1년 이상 7년 이하의 징역형을 규정한다."
+  - "제2B조에 따라 장관, 주총리(Menteri Besar) 또는 수석장관(Ketua Menteri)은 문서를 극비(Rahsia Besar), 비밀(Rahsia), 대외비(Sulit) 또는 제한(Terhad)으로 분류하도록 공무원을 지정할 수 있다."
+  - "제16A조는 분류 증명서를 「어떠한 법원에서도 어떠한 사유로도 문제 삼을 수 없는」 종국적 증거로 만든다."
+  - "말레이시아에는 연방 차원의 정보공개법이 없다. 슬랑오르(Selangor)(2011년 관보 게재, 2013년 3월 5일 발효)와 페낭(Pulau Pinang)(2010년 조례, 2012년 재가)만이 주 조례를 두고 있으며, 이는 주정부 정보에 한정된다."
+  - "정보자유법안 2026(Freedom of Information Bill 2026)은 2026년 7월 13일 제1독회로 제출되어 의회 특별선정위원회(Jawatankuasa Pilihan Khas)에 회부되었다."
+appliesTo: "말레이시아의 공직 비밀 관련 법과 정부 정보 접근권을 이해하고자 하는 기자, 연구자, 변호사, 공무원 및 일반 대중."
 
 faq:
-  - q: "Siapa yang boleh mengelaskan dokumen sebagai rahsia rasmi?"
-    a: "Di bawah seksyen 2B, seorang Menteri, Menteri Besar atau Ketua Menteri sesebuah negeri boleh melantik mana-mana pegawai awam melalui sijil untuk mengelaskan dokumen, maklumat atau bahan sebagai Rahsia Besar, Rahsia, Sulit atau Terhad."
-  - q: "Bolehkah pengkelasan sesuatu dokumen dicabar di mahkamah?"
-    a: "Seksyen 16A memperuntukkan bahawa sijil yang mengesahkan sesuatu dokumen sebagai rahsia rasmi adalah keterangan muktamad dan 'tidak boleh dipersoalkan di mana-mana mahkamah atas apa-apa alasan'. Dokumen boleh dinyahkelaskan pada bila-bila masa di bawah seksyen 2C oleh pihak berkuasa yang berkenaan."
-  - q: "Adakah Malaysia mempunyai undang-undang kebebasan maklumat?"
-    a: "Di peringkat persekutuan, tiada undang-undang kebebasan maklumat yang berkuat kuasa setakat penyediaan draf ini. Hanya negeri Selangor (diwartakan 2011, berkuat kuasa 2013) dan Pulau Pinang (Enakmen 2010) mempunyai enakmen kebebasan maklumat, yang terhad kepada maklumat di bawah bidang kuasa kerajaan negeri berkenaan. Sebuah rang undang-undang persekutuan dibentangkan pada Julai 2026."
+  - q: "누가 문서를 공직 비밀로 분류할 수 있습니까?"
+    a: "제2B조에 따라 장관, 주총리(Menteri Besar) 또는 주의 수석장관(Ketua Menteri)은 증명서를 통해 어떤 공무원이든 지정하여 문서, 정보 또는 자료를 극비(Rahsia Besar), 비밀(Rahsia), 대외비(Sulit) 또는 제한(Terhad)으로 분류하게 할 수 있습니다."
+  - q: "문서의 분류가 법원에서 다투어질 수 있습니까?"
+    a: "제16A조는 어떤 문서를 공직 비밀로 확인하는 증명서가 종국적 증거이며 「어떠한 법원에서도 어떠한 사유로도 문제 삼을 수 없다」고 규정합니다. 문서는 제2C조에 따라 해당 당국에 의해 언제든 분류 해제될 수 있습니다."
+  - q: "말레이시아에는 정보공개법이 있습니까?"
+    a: "연방 차원에서는 이 초안 작성 시점까지 발효된 정보공개법이 없습니다. 슬랑오르(Selangor)(2011년 관보 게재, 2013년 발효)와 페낭(Pulau Pinang)(2010년 조례) 주만이 정보공개 조례를 두고 있으며, 이는 해당 주정부의 관할에 속하는 정보에 한정됩니다. 연방 법안은 2026년 7월에 제출되었습니다."
 
 lang: "ko"
 sourceContentHash: "55b6d981106fab77"
@@ -41,8 +41,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Nombor Peraturan Mesyuarat (Standing Order) yang mendasari rujukan Rang Undang-Undang Kebebasan Maklumat 2026 kepada Jawatankuasa Pilihan Khas — sumber berita yang dipetik tidak menyatakan nombor tersebut, dan rujukan bil Dewan Rakyat lazimnya di bawah Peraturan Mesyuarat 54. Sahkan terhadap Hansard/Penyata Rasmi Dewan Rakyat."
-  - "Sama ada bacaan kedua dan ketiga Rang Undang-Undang Kebebasan Maklumat 2026 telah dijadualkan atau selesai selepas peringkat Jawatankuasa Pilihan Khas."
+  - "정보자유법안 2026을 특별선정위원회에 회부한 근거가 되는 의사규칙(Standing Order) 번호 — 인용된 보도는 그 번호를 밝히지 않으며, 하원 법안 회부는 통상 의사규칙 제54조에 따른다. 하원 의사록(Hansard/Penyata Rasmi Dewan Rakyat)과 대조하여 확인할 것."
+  - "정보자유법안 2026의 제2독회와 제3독회가 특별선정위원회 단계 이후 예정되었는지 또는 완료되었는지 여부."
 revisions:
   - revision: 0
     date: 2026-08-01

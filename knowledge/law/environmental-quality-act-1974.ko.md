@@ -14,23 +14,23 @@ sensitivity: "none"
 
 answer: "환경질법(Akta Kualiti Alam Sekeliling 1974, Akta 127)은 오염의 예방과 통제를 위한 말레이시아의 핵심 법률 체계로, 환경총국장(Ketua Pengarah Alam Sekitar) 아래 환경국(Jabatan Alam Sekitar, JAS)이 집행합니다. 이 법은 '지정 활동(aktiviti yang ditetapkan)'을 수행하려는 자에게 제34A조에 따라 작업 개시 전에 환경영향평가(EIA) 보고서를 제출하고 승인을 받도록 의무화합니다. 대기, 수질 및 토양 오염 위반은 최대 RM100,000의 벌금에 처할 수 있으며, 노천 소각과 지정 폐기물 처리는 RM500,000에 이를 수 있습니다."
 keyTakeaways:
-  - "Akta 127 mula berkuat kuasa pada 15 April 1975 dan terpakai di seluruh Malaysia."
-  - "Ketua Pengarah Alam Sekitar ialah pihak berkuasa pelesenan dan pelulus laporan EIA di bawah Akta ini."
-  - "Menjalankan aktiviti yang ditetapkan tanpa kelulusan EIA (seksyen 34A) boleh didenda sehingga RM100,000 atau penjara sehingga 5 tahun atau kedua-duanya."
-  - "Pembakaran terbuka (seksyen 29A) dan pelupusan buangan terjadual haram (seksyen 34B) masing-masing boleh didenda sehingga RM500,000."
-appliesTo: "Pemaju, pemilik kilang, pengendali loji, penasihat alam sekitar dan pelabur yang menjalankan projek atau operasi berimpak alam sekitar di Malaysia."
+  - "Akta 127은 1975년 4월 15일에 발효되었으며 말레이시아 전역에 적용됩니다."
+  - "환경총국장(Ketua Pengarah Alam Sekitar)은 이 법에 따른 허가 당국이자 EIA 보고서 승인자입니다."
+  - "EIA 승인 없이 지정 활동을 수행하면(제34A조) 최대 RM100,000의 벌금 또는 최대 5년의 징역, 혹은 그 병과에 처할 수 있습니다."
+  - "노천 소각(제29A조)과 지정 폐기물의 위법한 처분(제34B조)은 각각 최대 RM500,000의 벌금에 처할 수 있습니다."
+appliesTo: "말레이시아에서 환경에 영향을 미치는 프로젝트나 운영을 수행하는 개발자, 공장 소유자, 플랜트 운영자, 환경 자문가 및 투자자."
 
 faq:
-  - q: "Siapa yang menguatkuasakan Akta Kualiti Alam Sekeliling 1974?"
-    a: "Jabatan Alam Sekitar (JAS), di bawah Kementerian Sumber Asli dan Kelestarian Alam, menguatkuasakan Akta ini melalui Ketua Pengarah Alam Sekitar yang dilantik oleh Menteri di bawah seksyen 3."
-  - q: "Bilakah laporan EIA diwajibkan?"
-    a: "EIA diwajibkan apabila sesuatu projek tergolong sebagai 'aktiviti yang ditetapkan' di bawah Perintah Kualiti Alam Sekeliling (Aktiviti Yang Ditetapkan) (Penilaian Kesan Alam Sekeliling) 2015. Laporan mesti diserah dan diluluskan oleh Ketua Pengarah sebelum kerja bermula (seksyen 34A)."
-  - q: "Apakah beza aktiviti Jadual Pertama dan Jadual Kedua di bawah Perintah EIA 2015?"
-    a: "Menurut amalan pentadbiran JAS di bawah Perintah EIA 2015, aktiviti Jadual Pertama secara umumnya tidak memerlukan pameran awam dan diproses di peringkat pejabat JAS negeri, manakala aktiviti Jadual Kedua memerlukan pameran awam dan ulasan orang ramai serta kelulusan di peringkat ibu pejabat JAS. Butiran prosedur terkini harus disahkan terhadap teks penuh Perintah dan garis panduan JAS."
-  - q: "Berapakah denda kerana membina projek tanpa kelulusan EIA?"
-    a: "Di bawah seksyen 34A(8), dendanya sehingga RM100,000 atau penjara sehingga 5 tahun atau kedua-duanya, ditambah denda harian RM1,000 bagi setiap hari kesalahan diteruskan selepas notis. Pada April 2025, sebuah syarikat kitar semula di Kulim, Kedah didenda RM50,000 di bawah seksyen ini — sebahagian daripada jumlah denda RM60,000 yang dijatuhkan mahkamah (baki RM10,000 di bawah Peraturan Udara Bersih 2014)."
-  - q: "Adakah pembakaran terbuka satu kesalahan?"
-    a: "Ya. Seksyen 29A mengharamkan pembakaran terbuka di mana-mana premis dan boleh dihukum denda sehingga RM500,000 atau penjara sehingga 5 tahun atau kedua-duanya. Pemilik atau penghuni premis disifatkan bertanggungjawab melainkan dibuktikan sebaliknya (seksyen 29B)."
+  - q: "누가 1974년 환경질법을 집행합니까?"
+    a: "천연자원환경지속가능부 산하의 환경국(Jabatan Alam Sekitar, JAS)이 제3조에 따라 장관이 임명하는 환경총국장(Ketua Pengarah Alam Sekitar)을 통하여 이 법을 집행합니다."
+  - q: "EIA 보고서는 언제 의무화됩니까?"
+    a: "EIA는 어떤 프로젝트가 2015년 환경질(지정 활동)(환경영향평가)명령에 따른 '지정 활동'에 해당할 때 의무화됩니다. 보고서는 작업이 시작되기 전에 환경총국장에게 제출되고 승인되어야 합니다(제34A조)."
+  - q: "2015년 EIA 명령에 따른 제1부칙 활동과 제2부칙 활동의 차이는 무엇입니까?"
+    a: "2015년 EIA 명령에 따른 JAS의 행정 관행에 의하면, 제1부칙 활동은 일반적으로 공개 전시가 필요하지 아니하고 주 JAS 사무소 단계에서 처리되는 반면, 제2부칙 활동은 공개 전시와 대중의 의견 수렴, 그리고 JAS 본부 단계의 승인이 필요합니다. 최신 절차 세부 사항은 명령의 전문 및 JAS 지침에 대조하여 확인하여야 합니다."
+  - q: "EIA 승인 없이 프로젝트를 건설한 데 대한 벌금은 얼마입니까?"
+    a: "제34A(8)조에 따라 최대 RM100,000의 벌금 또는 최대 5년의 징역, 혹은 그 병과에 처하며, 통지 후 위반이 계속되는 매일마다 RM1,000의 일일 벌금이 추가됩니다. 2025년 4월, 케다 쿨림의 한 재활용 회사가 이 조에 따라 RM50,000의 벌금을 선고받았으며 — 이는 법원이 선고한 총 RM60,000 벌금의 일부입니다(나머지 RM10,000은 2014년 청정대기규정에 따른 것)."
+  - q: "노천 소각은 범죄입니까?"
+    a: "예. 제29A조는 어떤 부지에서든 노천 소각을 금지하며, 최대 RM500,000의 벌금 또는 최대 5년의 징역, 혹은 그 병과에 처할 수 있습니다. 반증이 없는 한 부지의 소유자나 점유자가 책임을 지는 것으로 간주됩니다(제29B조)."
 
 lang: "ko"
 sourceContentHash: "cd3834c25795a67e"
@@ -44,8 +44,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Butiran prosedur Jadual Pertama vs Jadual Kedua (pameran awam; pejabat JAS negeri vs ibu pejabat JAS) — sahkan terhadap teks penuh Perintah Kualiti Alam Sekeliling (Aktiviti Yang Ditetapkan)(EIA) 2015, bukan hanya laman muat turun JAS."
-  - "Butiran denda kes Kulim (jumlah RM60,000: RM50,000 di bawah s34A(8) EQA + RM10,000 di bawah Peraturan Udara Bersih 2014; Mahkamah Sesyen Kulim, 16 April 2025) — sahkan terhadap rekod mahkamah rasmi jika ketepatan mutlak diperlukan."
+  - "제1부칙 대 제2부칙의 절차 세부 사항(공개 전시; 주 JAS 사무소 대 JAS 본부) — JAS 다운로드 페이지뿐 아니라 2015년 환경질(지정 활동)(EIA)명령의 전문에 대조하여 확인하여야 합니다."
+  - "쿨림 사건의 벌금 세부 사항(총 RM60,000: EQA 제34A(8)조에 따른 RM50,000 + 2014년 청정대기규정에 따른 RM10,000; 쿨림 세션법원, 2025년 4월 16일) — 절대적 정확성이 필요한 경우 공식 법원 기록에 대조하여 확인하여야 합니다."
 revisions:
   - revision: 0
     date: 2026-08-07

@@ -14,24 +14,24 @@ sensitivity: "none"
 
 answer: "부동산양도소득세(CKHT), 즉 Real Property Gains Tax(RPGT)는 말레이시아에서 부동산 또는 부동산회사의 주식을 처분할 때 발생하는 이익에 대한 세금입니다. 세율은 자산을 보유한 기간에 따라 낮아지며 — 최초 3년 이내에 처분하면 30%에서 시작하여 5년째 이후 국민에 대해서는 0%로 떨어집니다. 국민인 개인은 RM10,000 또는 이익의 10%(둘 중 큰 금액)의 면제와, 주거용 주택 1채에 대한 평생 1회 면제를 청구할 수 있습니다."
 keyTakeaways:
-  - "CKHT dikawal oleh Akta Cukai Keuntungan Harta Tanah 1976 dan dikenakan ke atas keuntungan pelupusan aset bercukai di Malaysia."
-  - "Bagi individu warganegara/pemastautin tetap: 30% (tahun 1–3), 20% (tahun 4), 15% (tahun 5), dan 0% dari tahun ke-6 (berkuat kuasa 1.1.2022)."
-  - "Bukan warganegara dikenakan 30% bagi lima tahun pertama dan 10% selepas itu; syarikat Malaysia kekal 10% dari tahun ke-6."
-  - "Setiap individu layak pengecualian RM10,000 atau 10% keuntungan (mana lebih tinggi), tambahan pengecualian sekali seumur hidup bagi satu rumah kediaman."
-  - "Mulai 1 Mac 2024, pelupusan saham syarikat harta tanah oleh syarikat/PLT/badan amanah/koperasi beralih kepada Cukai Keuntungan Modal (CGT), bukan lagi CKHT."
-appliesTo: "Penjual hartanah, pembeli (pemeroleh), pelabur hartanah, pemegang saham syarikat harta tanah, dan penasihat cukai/guaman di Malaysia."
+  - "CKHT는 부동산양도소득세법 1976의 규율을 받으며 말레이시아의 과세 대상 자산 처분으로 발생한 이익에 부과됩니다."
+  - "국민/영주권자인 개인의 경우: 30%(1~3년), 20%(4년째), 15%(5년째), 그리고 6년째 이후 0%(2022년 1월 1일 시행)."
+  - "비국민은 최초 5년 동안 30%, 그 이후 10%가 부과되며; 말레이시아 회사는 6년째 이후 10%로 유지됩니다."
+  - "모든 개인은 RM10,000 또는 이익의 10%(둘 중 더 큰 금액)의 면제와, 주거용 주택 1채에 대한 추가적인 평생 1회 면제를 받을 자격이 있습니다."
+  - "2024년 3월 1일부터, 회사/유한책임조합/신탁체/협동조합에 의한 부동산회사 주식의 처분은 더 이상 CKHT가 아니라 자본이득세(CGT)로 이전됩니다."
+appliesTo: "말레이시아의 부동산 판매자, 구매자(취득자), 부동산 투자자, 부동산회사 주주, 그리고 세무/법률 자문가."
 
 faq:
-  - q: "Berapakah kadar CKHT jika saya menjual rumah dalam tempoh tiga tahun?"
-    a: "Bagi individu warganegara Malaysia atau pemastautin tetap, pelupusan dalam tiga tahun pertama dari tarikh perolehan dikenakan kadar 30% ke atas keuntungan boleh cukai."
-  - q: "Adakah saya perlu bayar CKHT jika saya memegang hartanah lebih lima tahun?"
-    a: "Bagi individu warganegara dan pemastautin tetap (Bahagian I Jadual 5), pelupusan selepas tahun kelima dikenakan kadar 0% berkuat kuasa 1 Januari 2022. Syarikat Malaysia dikenakan 10% dan bukan warganegara juga 10% dari tahun ke-6."
-  - q: "Apakah pengecualian sekali seumur hidup?"
-    a: "Individu warganegara atau pemastautin tetap boleh memilih untuk mengecualikan keuntungan daripada pelupusan satu rumah kediaman sekali sahaja sepanjang hayat. Ia perlu dituntut — tidak dikenakan secara automatik."
-  - q: "Bilakah borang CKHT perlu difailkan?"
-    a: "Pelupus mesti mengemukakan borang (CKHT 1A/1B/3) dalam tempoh 60 hari dari tarikh pelupusan melalui portal e-CKHT MyTax. Pemeroleh pula mengemukakan CKHT 2A dalam 60 hari. Mulai 2025, baki cukai perlu dijelaskan dalam 90 hari dari tarikh pelupusan di bawah Sistem Taksir Sendiri."
-  - q: "Adakah saham syarikat harta tanah masih dikenakan CKHT?"
-    a: "Bagi individu, ya — pelupusan saham syarikat harta tanah (RPC) kekal di bawah CKHT. Namun mulai 1 Mac 2024, pelupusan saham tersebut oleh syarikat, perkongsian liabiliti terhad, badan amanah dan koperasi beralih kepada rejim Cukai Keuntungan Modal di bawah Akta Cukai Pendapatan 1967."
+  - q: "3년 이내에 집을 팔면 CKHT 세율은 얼마입니까?"
+    a: "말레이시아 국민 또는 영주권자인 개인의 경우, 취득일로부터 최초 3년 이내의 처분에는 과세 대상 이익에 30%의 세율이 부과됩니다."
+  - q: "부동산을 5년 넘게 보유하면 CKHT를 내야 합니까?"
+    a: "국민 및 영주권자인 개인(부칙 제5부 제I편)의 경우, 5년째 이후의 처분에는 2022년 1월 1일부로 0%의 세율이 부과됩니다. 말레이시아 회사는 10%가, 비국민도 6년째 이후 10%가 부과됩니다."
+  - q: "평생 1회 면제란 무엇입니까?"
+    a: "국민 또는 영주권자인 개인은 평생 단 한 번, 주거용 주택 1채의 처분으로 발생한 이익을 면제받도록 선택할 수 있습니다. 이는 청구하여야 하며 — 자동으로 적용되지 않습니다."
+  - q: "CKHT 양식은 언제 제출하여야 합니까?"
+    a: "처분자는 MyTax의 e-CKHT 포털을 통하여 처분일로부터 60일 이내에 양식(CKHT 1A/1B/3)을 제출하여야 합니다. 취득자는 60일 이내에 CKHT 2A를 제출합니다. 2025년부터, 잔여 세금은 자진신고제도에 따라 처분일로부터 90일 이내에 납부하여야 합니다."
+  - q: "부동산회사 주식은 여전히 CKHT의 부과를 받습니까?"
+    a: "개인의 경우 예 — 부동산회사(RPC) 주식의 처분은 CKHT 아래에 유지됩니다. 그러나 2024년 3월 1일부터, 회사, 유한책임조합, 신탁체 및 협동조합에 의한 그러한 주식의 처분은 소득세법 1967에 따른 자본이득세 제도로 이전됩니다."
 
 lang: "ko"
 sourceContentHash: "7363fccb7997191f"
@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kadar pegangan Seksyen 21B bagi Bahagian II (syarikat) disahkan berperingkat oleh LHDN (5% dalam 3 tahun, 3% dari tahun ke-4) — sahkan sama ada masih terpakai selepas pindaan berkuat kuasa 1 Januari 2026 yang membenarkan pemeroleh meremit amaun yang lebih rendah."
-  - "Rekonsiliasi tarikh CGT: permulaan CGT ialah 1 Januari 2024 tetapi pengenaan ke atas pelupusan saham (termasuk saham RPC) oleh syarikat/PLT/badan amanah/koperasi berkuat kuasa 1 Mac 2024 — sahkan layanan pelupusan antara 1 Januari–29 Februari 2024."
-  - "Kadar CGT 10% keuntungan bersih atau pilihan 2% harga jualan kasar bagi saham yang diperoleh sebelum 1 Januari 2024 — sahkan mekanik penuh dengan Garis Panduan CGT LHDN."
-  - "Perubahan 2025 (e-CKHT wajib, Sistem Taksir Sendiri, tempoh bayaran 90 hari, kenaikan 10%, simpanan rekod 7 tahun) — sahkan dengan Garis Panduan Operasi CKHT 2025 LHDN."
+  - "제II편(회사)에 대한 제21B조 원천징수율은 LHDN에 의해 단계별로 확인되었으나(3년 이내 5%, 4년째 이후 3%) — 취득자가 더 낮은 금액을 납부할 수 있게 한 2026년 1월 1일 시행 개정 이후에도 여전히 적용되는지 확인하여야 합니다."
+  - "CGT 날짜 조정: CGT의 시작은 2024년 1월 1일이나 회사/유한책임조합/신탁체/협동조합에 의한 주식(RPC 주식 포함) 처분에 대한 부과는 2024년 3월 1일에 시행됨 — 2024년 1월 1일부터 2월 29일 사이의 처분 취급을 확인하여야 합니다."
+  - "CGT 세율 순이익의 10% 또는 2024년 1월 1일 이전에 취득한 주식에 대한 총판매가격의 2% 선택지 — LHDN의 CGT 지침으로 전체 메커니즘을 확인하여야 합니다."
+  - "2025년 변경 사항(e-CKHT 의무화, 자진신고제도, 90일 납부 기간, 10% 가산, 7년 기록 보관) — LHDN의 2025년 CKHT 운영 지침으로 확인하여야 합니다."
 
 updated: 2026-08-07
 sources:

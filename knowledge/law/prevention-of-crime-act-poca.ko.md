@@ -14,20 +14,20 @@ sensitivity: "security"
 
 answer: "범죄예방법 1959(Prevention of Crime Act 1959, Act 297), 즉 POCA는 조직범죄, 폭력조직 및 기타 범죄 활동에 연루된 것으로 의심되는 개인에 대한 재판 없는 예방적 구금을 허용하는 말레이시아의 법률입니다. 구금 결정은 정부가 임명하는 기구인 범죄예방위원회(Lembaga Pencegahan Jenayah)가 내리며, 이 위원회는 최대 2년의 구금 명령을 발하고 이를 갱신할 수 있습니다. 2013/2014년 개정은 재판 없는 구금을 부활시키고 사법 심사를 제한하였으나, 2022년 4월 연방법원은 POCA의 배제 조항이 연방헌법에 위배되어 무효라고 선언하였습니다. POCA 제도는 보안 범죄에 초점을 두는 SOSMA와는 다릅니다."
 keyTakeaways:
-  - "POCA ialah Akta 297, disemak semula pada 1983 (berkuat kuasa 19 Januari 1984) dan dipinda besar-besaran pada 2013 (berkuat kuasa 2014)."
-  - "Lembaga Pencegahan Jenayah boleh mengeluarkan perintah tahanan sehingga dua tahun, boleh diperbaharui untuk tempoh dua tahun berikutnya."
-  - "Polis boleh menahan seseorang sehingga kira-kira 59 hari sebelum kes dirujuk kepada Lembaga."
-  - "Klausa penyingkiran (ouster clause) pernah mengehadkan semakan mahkamah kepada soal prosedur sahaja, tetapi pada April 2022 Mahkamah Persekutuan mengisytiharkannya tidak sah, memulihkan semakan kehakiman terhadap alasan tahanan."
-  - "POCA menyasarkan jenayah terancang; SOSMA menyasarkan kesalahan keselamatan — dua rejim yang berasingan."
-appliesTo: "Peguam, pelajar undang-undang, penyelidik dasar, wartawan, dan sesiapa yang ingin memahami rejim tahanan pencegahan Malaysia."
+  - "POCA는 Act 297로, 1983년에 개정되었고(1984년 1월 19일 시행) 2013년에 대폭 개정되었습니다(2014년 시행)."
+  - "범죄예방위원회는 최대 2년의 구금 명령을 발할 수 있으며, 이를 다음 2년의 기간 동안 갱신할 수 있습니다."
+  - "경찰은 사건이 위원회에 회부되기 전에 어떤 사람을 약 59일까지 구금할 수 있습니다."
+  - "배제 조항(ouster clause)은 한때 법원의 심사를 절차 문제로만 한정하였으나, 2022년 4월 연방법원이 이를 무효로 선언하여 구금 사유에 대한 사법 심사를 회복시켰습니다."
+  - "POCA는 조직범죄를 겨냥하고; SOSMA는 보안 범죄를 겨냥합니다 — 두 개의 별개 제도입니다."
+appliesTo: "변호사, 법학도, 정책 연구자, 언론인, 그리고 말레이시아의 예방적 구금 제도를 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Adakah POCA sama dengan SOSMA?"
-    a: "Tidak. POCA (Akta 297) menyasarkan jenayah terancang dan menggunakan Lembaga Pencegahan Jenayah untuk memerintahkan tahanan, manakala SOSMA menyasarkan kesalahan keselamatan yang ditetapkan dan membenarkan polis menahan suspek sehingga 28 hari untuk siasatan di bawah Seksyen 4(5). POCA mengandungi klausa penyingkiran yang mengehadkan semakan kehakiman, tetapi Mahkamah Persekutuan mengisytiharkan klausa tersebut tidak sah pada April 2022."
-  - q: "Berapa lama seseorang boleh ditahan di bawah POCA?"
-    a: "Polis boleh menahan sehingga kira-kira 59 hari pada peringkat siasatan. Selepas itu, Lembaga Pencegahan Jenayah boleh mengeluarkan perintah tahanan sehingga dua tahun, yang boleh diperbaharui untuk tempoh dua tahun selanjutnya."
-  - q: "Siapa yang membuat keputusan tahanan?"
-    a: "Lembaga Pencegahan Jenayah — sebuah badan yang dipengerusikan oleh individu berkelayakan undang-undang dan dilantik kerajaan — bukan mahkamah. Lembaga bertindak berdasarkan laporan Pegawai Penyiasat yang dilantik Menteri."
+  - q: "POCA는 SOSMA와 같습니까?"
+    a: "아니요. POCA(Act 297)는 조직범죄를 겨냥하고 범죄예방위원회를 이용하여 구금을 명령하는 반면, SOSMA는 지정된 보안 범죄를 겨냥하며 경찰이 제4조(5)에 따라 수사를 위하여 용의자를 최대 28일까지 구금할 수 있게 합니다. POCA는 사법 심사를 한정하는 배제 조항을 담고 있었으나, 연방법원이 2022년 4월에 그 조항을 무효로 선언하였습니다."
+  - q: "POCA에 따라 어떤 사람이 얼마나 오래 구금될 수 있습니까?"
+    a: "경찰은 수사 단계에서 약 59일까지 구금할 수 있습니다. 그 후, 범죄예방위원회는 최대 2년의 구금 명령을 발할 수 있으며, 이를 다음 2년의 기간 동안 갱신할 수 있습니다."
+  - q: "누가 구금 결정을 내립니까?"
+    a: "법률 자격을 갖추고 정부가 임명한 인물이 의장을 맡는 기구인 범죄예방위원회이며, 법원이 아닙니다. 위원회는 장관이 임명한 심문관의 보고에 근거하여 행위합니다."
 
 lang: "ko"
 sourceContentHash: "a6b06f9b9fdb4839"
@@ -47,7 +47,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Nama kes penuh dan sitasi rasmi keputusan Mahkamah Persekutuan April 2022 (dilaporkan membabitkan tahanan T. Dhinesh)."
+  - "2022년 4월 연방법원 판결의 전체 사건명 및 공식 인용(피구금자 T. Dhinesh와 관련된 것으로 보도됨)."
 updated: 2026-08-07
 sources:
   - title: "Prevention of Crime Act 1959 (Akta 297) — teks penuh (reprint rasmi)"

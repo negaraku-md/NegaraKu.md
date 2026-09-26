@@ -14,21 +14,21 @@ sensitivity: "constitution"
 
 answer: "연방헌법은 제4조 제(1)항에 의해 연방의 최고법으로 선언되며, 독립일(Merdeka Day) 이후에 통과된 어떤 법률이든 이에 저촉되는 경우 그 저촉되는 한도에서 무효입니다. 그 문언은 열다섯 개의 부(제I부~제XV부, 사바와 사라왁을 위한 제XIIA부 포함)와 13개의 부칙으로 편성되어 있습니다. 제159조는 개정 방식을 정합니다. 대부분의 개정은 제2독회와 제3독회에서 의회 각 원 총 의원의 3분의 2 이상의 지지를 요하고, 일부는 예외로 단순 다수로 개정될 수 있으며, 특정 규정의 개정은 통치자 회의(Conference of Rulers)의 동의를 요합니다."
 keyTakeaways:
-  - "Perkara 4(1): Perlembagaan ialah undang-undang tertinggi Persekutuan; undang-undang yang diluluskan selepas Hari Merdeka yang berlawanan dengannya tidak sah setakat perlawanan itu"
-  - "Perkara 160 mentakrifkan Hari Merdeka sebagai 31 Ogos 1957"
-  - "Teksnya disusun kepada Bahagian I hingga XV, termasuk Bahagian XIIA (perlindungan tambahan bagi Sabah dan Sarawak), dan tiga belas Jadual"
-  - "Perkara 159(3): rang undang-undang pindaan mesti disokong pada Bacaan Kedua dan Ketiga oleh undi tidak kurang daripada dua pertiga jumlah anggota setiap Majlis"
-  - "Perkara 159(4): pindaan tertentu dikecualikan daripada syarat dua pertiga dan boleh diluluskan dengan majoriti biasa"
-  - "Perkara 159(5): pindaan kepada senarai peruntukan tertentu tidak boleh diluluskan tanpa persetujuan Majlis Raja-Raja"
-appliesTo: "Sesiapa yang mahu memahami rangka perlembagaan Malaysia secara deskriptif — pelajar, penyelidik, wartawan dan pembaca umum."
+  - "제4조 제(1)항: 헌법은 연방의 최고법이다. 독립일(Hari Merdeka) 이후에 통과된 법률로서 이와 저촉되는 것은 그 저촉되는 범위에서 무효이다"
+  - "제160조는 독립일(Hari Merdeka)을 1957년 8월 31일로 정의한다"
+  - "본문은 제I편부터 제XV편까지로 편성되며, 제XIIA편(사바(Sabah) 및 사라왁(Sarawak)에 대한 추가 보호)을 포함하고, 열세 개의 부칙(Jadual, Schedule)을 둔다"
+  - "제159조 제(3)항: 개정 법안은 제2독회와 제3독회에서 각 원(Majlis) 총원 3분의 2 이상의 찬성으로 지지되어야 한다"
+  - "제159조 제(4)항: 일부 개정은 3분의 2 요건에서 제외되어 단순 다수결로 통과될 수 있다"
+  - "제159조 제(5)항: 특정 조항 목록에 대한 개정은 통치자 회의(Conference of Rulers)의 동의 없이 통과될 수 없다"
+appliesTo: "말레이시아의 헌법 체계를 서술적으로 이해하고자 하는 모든 사람 — 학생, 연구자, 기자 및 일반 독자."
 
 faq:
-  - q: "Apakah yang menjadikan Perlembagaan Persekutuan 'tertinggi'?"
-    a: "Perkara 4(1) menyatakan Perlembagaan ialah undang-undang tertinggi Persekutuan dan mana-mana undang-undang yang diluluskan selepas Hari Merdeka yang berlawanan dengannya adalah tidak sah setakat perlawanan itu. Ini bermakna kesahan sesuatu undang-undang boleh diukur terhadap Perlembagaan."
-  - q: "Berapakah undi yang diperlukan untuk meminda Perlembagaan?"
-    a: "Bagi kebanyakan pindaan, Perkara 159(3) menghendaki rang undang-undang itu disokong pada Bacaan Kedua dan Ketiga oleh undi tidak kurang daripada dua pertiga jumlah anggota setiap Majlis Parlimen. Perkara 159(4) menyenaraikan pengecualian yang boleh diluluskan dengan majoriti biasa, dan Perkara 159(5) menghendaki persetujuan Majlis Raja-Raja bagi peruntukan tertentu."
-  - q: "Berapa banyak Bahagian dan Jadual dalam Perlembagaan?"
-    a: "Teksnya disusun kepada lima belas Bahagian (Bahagian I hingga XV, dengan Bahagian XIIA bagi Sabah dan Sarawak) dan tiga belas Jadual, sebahagiannya telah dimansuhkan mengikut senarai kandungan cetakan semula rasmi."
+  - q: "무엇이 연방헌법을 「최고법」으로 만듭니까?"
+    a: "제4조 제(1)항은 헌법이 연방의 최고법이며, 독립일(Hari Merdeka) 이후 통과된 법률로서 이와 저촉되는 것은 그 저촉되는 범위에서 무효라고 규정합니다. 이는 어떤 법률의 유효성이 헌법에 비추어 판단될 수 있음을 뜻합니다."
+  - q: "헌법을 개정하는 데 몇 표가 필요합니까?"
+    a: "대부분의 개정에 대하여 제159조 제(3)항은 법안이 제2독회와 제3독회에서 의회(Parliament) 각 원 총원 3분의 2 이상의 찬성으로 지지되도록 요구합니다. 제159조 제(4)항은 단순 다수결로 통과될 수 있는 예외를 열거하며, 제159조 제(5)항은 특정 조항에 대하여 통치자 회의(Conference of Rulers)의 동의를 요구합니다."
+  - q: "헌법에는 몇 개의 편(Bahagian)과 부칙(Jadual)이 있습니까?"
+    a: "본문은 열다섯 개의 편(제I편부터 제XV편까지, 사바(Sabah) 및 사라왁(Sarawak)을 위한 제XIIA편 포함)과 열세 개의 부칙(Jadual)으로 편성되며, 공식 재인쇄본의 목차에 따르면 그중 일부는 폐지되었습니다."
 
 lang: "ko"
 sourceContentHash: "86126f038c7e787d"
@@ -48,8 +48,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan tajuk penuh Bahagian XI dan XIIA terhadap cetakan semula rasmi terkini (semakan telah dibuat terhadap cetakan semula 'As at 15 October 2020')."
-  - "Sahkan senarai peruntukan Perkara 159(5) dan pengecualian Perkara 159(4) tidak berubah dalam mana-mana pindaan selepas cetakan semula 2020."
+  - "제XI편과 제XIIA편의 전체 명칭을 최신 공식 재인쇄본과 대조하여 확인할 것(검토는 「2020년 10월 15일 현재」 재인쇄본에 대해 이루어졌음)."
+  - "제159조 제(5)항의 조항 목록과 제159조 제(4)항의 예외가 2020년 재인쇄본 이후의 어떠한 개정에서도 변경되지 않았는지 확인할 것."
 updated: 2026-08-01
 sources:
   - title: "Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI"

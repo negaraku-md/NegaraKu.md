@@ -14,22 +14,22 @@ sensitivity: "security"
 
 answer: "말레이시아군(Angkatan Tentera Malaysia, ATM)은 세 개의 상비 군종 — 말레이시아 육군(TDM), 말레이시아 왕립해군(TLDM), 말레이시아 왕립공군(TUDM) — 으로 구성되며, 군법(Armed Forces Act 1972)에 따라 설치되었습니다. 양 디페르투안 아공(국왕)은 연방헌법(Federal Constitution) 제41조에 따른 최고 통수권자(Supreme Commander)이며, ATM의 지휘·군기·일상 행정은 국방부 장관이 의장을 맡는 군사위원회(제137조)에 놓입니다. 국방부(MINDEF)는 국가방위정책을 집행하고 ATM에 배정된 자원을 관리합니다."
 keyTakeaways:
-  - "Yang di-Pertuan Agong ialah Pemerintah Tertinggi angkatan tentera Persekutuan (Perlembagaan Persekutuan, Perkara 41)."
-  - "Majlis Angkatan Tentera (Perkara 137) bertanggungjawab ke atas pemerintahan, tatatertib dan pentadbiran ATM, dan dipengerusikan oleh Menteri Pertahanan — asas kawalan awam ke atas tentera."
-  - "Akta Angkatan Tentera 1972 (Akta 77), seksyen 4, menubuhkan tiga cabang tetap: TDM, TLDM dan TUDM."
-  - "MINDEF diterajui Menteri Pertahanan dan Timbalan, dengan dua perkhidmatan utama: Perkhidmatan Awam dan ATM."
-  - "Kertas Putih Pertahanan yang dibentangkan pada 2 Disember 2019 menggariskan tiga tunjang: pencegahan sepusat, pertahanan menyeluruh dan perkongsian boleh dipercayai."
-appliesTo: "Pembaca umum, pelajar, penyelidik dasar dan sesiapa yang ingin memahami struktur pertahanan Malaysia secara ringkas dan neutral."
+  - "양 디페르투안 아공(국왕)은 연방 군대의 최고사령관(Pemerintah Tertinggi)이다(연방헌법 제41조)."
+  - "군사평의회(Majlis Angkatan Tentera, Armed Forces Council)(제137조)는 말레이시아군(ATM)의 지휘, 군기 및 행정을 책임지며 국방부 장관(Menteri Pertahanan)이 의장을 맡는다 — 군에 대한 문민 통제의 기초."
+  - "군대법(Armed Forces Act 1972, Act 77) 제4조는 세 개의 상설 군종을 설치한다: 육군(TDM), 해군(TLDM), 공군(TUDM)."
+  - "국방부(MINDEF)는 국방부 장관과 차관이 이끌며, 두 개의 주요 조직을 둔다: 공무원 조직과 말레이시아군(ATM)."
+  - "2019년 12월 2일 제출된 국방백서(Kertas Putih Pertahanan, Defence White Paper)는 세 가지 축을 제시한다: 동심원적 억지, 포괄 방위, 신뢰할 수 있는 협력."
+appliesTo: "말레이시아 국방 구조를 간결하고 중립적으로 이해하고자 하는 일반 독자, 학생, 정책 연구자 및 모든 사람."
 
 faq:
-  - q: "Siapakah Pemerintah Tertinggi Angkatan Tentera Malaysia?"
-    a: "Yang di-Pertuan Agong ialah Pemerintah Tertinggi angkatan tentera Persekutuan menurut Perkara 41 Perlembagaan Persekutuan."
-  - q: "Apakah tiga cabang Angkatan Tentera Malaysia?"
-    a: "Tentera Darat Malaysia (TDM), Tentera Laut Diraja Malaysia (TLDM) dan Tentera Udara Diraja Malaysia (TUDM), sebagaimana ditubuhkan oleh seksyen 4 Akta Angkatan Tentera 1972."
-  - q: "Adakah tentera dikawal oleh pihak awam?"
-    a: "Ya. Majlis Angkatan Tentera yang bertanggungjawab ke atas pemerintahan dan pentadbiran ATM dipengerusikan oleh Menteri Pertahanan, dan Kementerian Pertahanan diterajui oleh menteri yang dilantik — satu bentuk kawalan awam ke atas tentera."
-  - q: "Bilakah Kertas Putih Pertahanan pertama Malaysia dibentangkan?"
-    a: "Ia dibentangkan di Dewan Rakyat pada 2 Disember 2019."
+  - q: "말레이시아군의 최고사령관은 누구입니까?"
+    a: "연방헌법 제41조에 따라 양 디페르투안 아공(국왕)이 연방 군대의 최고사령관(Pemerintah Tertinggi)입니다."
+  - q: "말레이시아군의 세 군종은 무엇입니까?"
+    a: "군대법(Armed Forces Act 1972) 제4조에 의해 설치된 말레이시아 육군(TDM), 말레이시아 왕립 해군(TLDM), 말레이시아 왕립 공군(TUDM)입니다."
+  - q: "군은 문민에 의해 통제됩니까?"
+    a: "그렇습니다. 말레이시아군(ATM)의 지휘와 행정을 책임지는 군사평의회(Majlis Angkatan Tentera)는 국방부 장관이 의장을 맡고, 국방부는 임명된 장관이 이끕니다 — 군에 대한 문민 통제의 한 형태입니다."
+  - q: "말레이시아 최초의 국방백서는 언제 제출되었습니까?"
+    a: "2019년 12월 2일 하원(Dewan Rakyat)에 제출되었습니다."
 
 lang: "ko"
 sourceContentHash: "3c6e38b833f827d4"
@@ -43,10 +43,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Nama tepat (verbatim) tiga tunjang Kertas Putih Pertahanan — Pencegahan Sepusat (Concentric Deterrence), Pertahanan Menyeluruh (Comprehensive Defence) dan Perkongsian Boleh Dipercayai (Credible Partnerships) — perlu disahkan terus daripada dokumen Kertas Putih Pertahanan; laman pendaratan MINDEF yang dirujuk memaparkan label berbeza."
-  - "Ketersediaan salinan rasmi .mil.my (legal.airforce.mil.my) bagi Akta 77 — kembali HTTP 503 semasa semakan; portal AGC digunakan sebagai sumber rasmi utama."
-  - "Senarai pemegang jawatan semasa Ahli Majlis Angkatan Tentera dan pegawai kanan MINDEF perlu disemak kerana ia berubah dari semasa ke semasa."
-  - "Butiran program latihan warganegara/khidmat negara semasa (jika ada) perlu disahkan daripada sumber dasar terkini sebelum sebarang angka disebut."
+  - "국방백서 세 축의 정확한 명칭(원문 그대로) — 동심원적 억지(Pencegahan Sepusat, Concentric Deterrence), 포괄 방위(Pertahanan Menyeluruh, Comprehensive Defence), 신뢰할 수 있는 협력(Perkongsian Boleh Dipercayai, Credible Partnerships) — 은 국방백서 문서에서 직접 확인할 필요가 있다. 참조한 MINDEF 랜딩 페이지는 다른 표현을 표시한다."
+  - "Act 77의 공식 사본 .mil.my(legal.airforce.mil.my)의 이용 가능 여부 — 검토 당시 HTTP 503을 반환하였으며, AGC 포털을 주된 공식 자료로 사용하였다."
+  - "군사평의회(Majlis Angkatan Tentera) 위원 및 MINDEF 고위 관료의 현직자 명단은 수시로 바뀌므로 확인할 필요가 있다."
+  - "현재의 국민 훈련/국가 봉사(khidmat negara) 프로그램의 세부사항(존재하는 경우)은 어떠한 수치를 언급하기 전에 최신 정책 자료에서 확인할 필요가 있다."
 revisions:
   - revision: 0
     date: 2026-08-01

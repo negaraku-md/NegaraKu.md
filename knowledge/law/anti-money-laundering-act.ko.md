@@ -14,19 +14,19 @@ sensitivity: "security"
 
 answer: "AMLA — 정식 명칭은 자금세탁·테러자금조달·제한활동자금조달 방지 및 불법활동수익법 2001(Anti-Money Laundering, Anti-Terrorism Financing, Anti-Restricted Activity Financing and Proceeds of Unlawful Activities Act 2001, Act 613) — 는 자금세탁 및 테러자금조달에 대응하는 말레이시아의 핵심 법령입니다. 이 법은 제1부칙에 열거된 '보고기관'에 고객확인의무를 이행하고, 기록을 보존하며, 의심거래보고를 제출하도록 요구하고, 집행 기관이 불법 활동과 관련된 재산을 동결·압류·몰수할 수 있도록 합니다. 말레이시아 중앙은행(BNM)이 지정된 소관 당국입니다."
 keyTakeaways:
-  - "Act 613 came into force on 15 January 2002; an amendment (Act A1761) was gazetted on 14 May 2025 and came into force on 1 March 2026."
-  - "Bank Negara Malaysia is the competent authority, with its Financial Intelligence and Enforcement Department (FIED) acting as the financial intelligence unit."
-  - "Reporting institutions in the First Schedule include financial institutions, non-bank financial institutions, and designated non-financial businesses and professions (DNFBPs)."
-  - "Part VI gives enforcement agencies and the Public Prosecutor powers to freeze, seize and forfeit property connected to a section 4 money-laundering offence."
-appliesTo: "Compliance officers, banks and financial institutions, DNFBPs (such as lawyers, accountants, company secretaries and dealers in high-value goods), and anyone researching Malaysia's AML/CFT legal framework."
+  - "Act 613은 2002년 1월 15일에 시행되었으며, 개정법(Act A1761)이 2025년 5월 14일에 관보에 게재되어 2026년 3월 1일에 시행되었습니다."
+  - "말레이시아 중앙은행(BNM)이 소관 당국이며, 그 산하의 금융정보집행국(FIED)이 금융정보분석기구의 역할을 수행합니다."
+  - "제1부칙에 열거된 보고기관에는 금융기관, 비은행 금융기관, 그리고 지정 비금융 사업 및 전문직(DNFBP)이 포함됩니다."
+  - "제6편은 집행 기관과 검찰관에게 제4조 자금세탁죄와 관련된 재산을 동결·압류·몰수할 권한을 부여합니다."
+appliesTo: "준법감시인, 은행 및 금융기관, DNFBP(변호사, 회계사, 회사비서, 고가품 취급업자 등), 그리고 말레이시아의 AML/CFT 법체계를 조사하는 모든 사람."
 
 faq:
-  - q: "What is a 'reporting institution' under AMLA?"
-    a: "Any person, including their branches and subsidiaries, who carries on an activity listed in the Act's First Schedule — covering financial institutions, non-bank financial institutions, and designated non-financial businesses and professions."
-  - q: "What must reporting institutions report to Bank Negara Malaysia?"
-    a: "Suspicious transactions (via a Suspicious Transaction Report to FIED), and, for specified institutions such as banks and licensed casinos, cash transactions of RM25,000 and above via a Cash Threshold Report."
-  - q: "Who can freeze or seize property under the Act?"
-    a: "Under Part VI, an enforcement agency may issue a freezing order, an investigating officer may seize movable property during an investigation, and the Public Prosecutor holds further seizure and forfeiture powers."
+  - q: "AMLA상 '보고기관'이란 무엇입니까?"
+    a: "지점 및 자회사를 포함하여, 이 법의 제1부칙에 열거된 활동을 영위하는 모든 자를 말하며, 금융기관, 비은행 금융기관, 그리고 지정 비금융 사업 및 전문직을 포괄합니다."
+  - q: "보고기관은 말레이시아 중앙은행에 무엇을 보고하여야 합니까?"
+    a: "의심거래(FIED에 제출하는 의심거래보고를 통하여), 그리고 은행 및 인가받은 카지노와 같은 특정 기관의 경우 RM25,000 이상의 현금 거래(현금기준보고를 통하여)를 보고하여야 합니다."
+  - q: "이 법에 따라 누가 재산을 동결하거나 압류할 수 있습니까?"
+    a: "제6편에 따라 집행 기관은 동결 명령을 발할 수 있고, 수사관은 수사 과정에서 동산을 압류할 수 있으며, 검찰관은 추가적인 압류 및 몰수 권한을 보유합니다."
 
 lang: "ko"
 sourceContentHash: "03583a7602b0f6ef"
@@ -40,9 +40,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Exact current short-title citation form: 'Anti-Restricted Activity Financing' was added to the Act's title by Act A1761 (in force 1 March 2026); confirm the precise wording against the latest official reprint once published."
-  - "Penalty-schedule section mappings (record-retention/disclosure/false-information cited under sections 14A, 17 and 18, while the record-keeping obligation itself is section 13) should be confirmed against the current reprint incorporating Act A1761; section 17 in the pre-A1761 reprint concerns secrecy obligations."
-  - "Section numbering (CDD s.16, compliance programme s.19, forfeiture ss.55-56) was verified against the SPRM reprint that does not yet incorporate Act A1761; confirm numbering is unchanged after the 1 March 2026 amendment."
+  - "현행 약식 제명 인용 형식의 정확성: 'Anti-Restricted Activity Financing'이 Act A1761(2026년 3월 1일 시행)에 의하여 이 법의 제명에 추가되었으므로, 공식 최신 재발행판이 공표되는 대로 정확한 문언을 대조하여 확인하여야 합니다."
+  - "벌칙 일람의 조항 대응 관계(기록 보존·공개·허위 정보는 제14A조·제17조·제18조로 인용되나, 기록 보존 의무 자체는 제13조)는 Act A1761을 반영한 현행 재발행판에 대조하여 확인하여야 하며, A1761 이전 재발행판의 제17조는 비밀유지 의무에 관한 것입니다."
+  - "조항 번호(CDD 제16조, 준법 프로그램 제19조, 몰수 제55조–제56조)는 아직 Act A1761을 반영하지 아니한 SPRM 재발행판에 대조하여 검증되었으므로, 2026년 3월 1일 개정 이후 번호가 변경되지 아니하였는지 확인하여야 합니다."
 revisions:
   - revision: 0
     date: 2026-08-07

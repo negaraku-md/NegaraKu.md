@@ -14,20 +14,20 @@ sensitivity: "none"
 
 answer: "응아잣은 사라왁 이반족의 전통 춤으로 16세기부터 존재해 온 것으로 여겨집니다. 본래는 전사(부장 브라니, bujang berani)가 전장에서 돌아와 승리를 기리며 추던 것이며, 그 동작 하나하나가 코뿔새(부룽 크냘랑, Burung Kenyalang, 무소뿔새)를 상징합니다. 오늘날 응아잣은 가와이 데이(Hari Gawai) 기념 행사와 롱하우스에서 손님을 맞이하기 위해 추어지며, 응아잣 레송(Ngajat Lesong), 응아잣 인두(Ngajat Indu), 응아잣 푸아 쿰부(Ngajat Pua Kumbu), 응아잣 응일링 티카이(Ngajat Ngiling Tikai) 등 여러 종류가 있습니다."
 keyTakeaways:
-  - "Ngajat ialah tarian tradisional kaum Iban Sarawak, dikelaskan sebagai Seni Persembahan (Tarian) dalam pemetaan budaya JKKN"
-  - "Dipercayai telah wujud sejak abad ke-16, asalnya ditarikan pahlawan sekembali dari berperang atau memburu"
-  - "Gerakan tarian melambangkan Burung Kenyalang (enggang), lambang kaum Iban"
-  - "Kini ditarikan pada Hari Gawai dan untuk mengalu-alukan tetamu ke rumah panjang"
-  - "Terdapat pelbagai jenis: Ngajat Lesong (lelaki), Ngajat Indu (wanita), Ngajat Pua Kumbu dan Ngajat Ngiling Tikai"
-appliesTo: "Sesiapa yang ingin memahami maksud, asal usul, jenis dan konteks persembahan tarian Ngajat kaum Iban Sarawak."
+  - "응아잣(ngajat)은 사라왁 이반족(Iban)의 전통 춤으로, JKKN 문화 지도에서 공연 예술(무용)로 분류됩니다"
+  - "16세기부터 존재해 온 것으로 여겨지며, 본래는 전사가 전쟁이나 사냥에서 돌아와 추던 것입니다"
+  - "춤의 동작은 이반족의 상징인 코뿔새(부룽 크냘랑, Burung Kenyalang)를 상징합니다"
+  - "오늘날에는 가와이 데이(Hari Gawai)에, 그리고 롱하우스에서 손님을 맞이하기 위해 추어집니다"
+  - "응아잣 레송(Ngajat Lesong, 남성), 응아잣 인두(Ngajat Indu, 여성), 응아잣 푸아 쿰부(Ngajat Pua Kumbu), 응아잣 응일링 티카이(Ngajat Ngiling Tikai) 등 여러 종류가 있습니다"
+appliesTo: "사라왁 이반족의 응아잣 춤의 의미, 기원, 종류, 그리고 공연 맥락을 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Apakah tarian Ngajat?"
-    a: "Ngajat ialah tarian tradisional kaum Iban di Sarawak. Menurut pemetaan budaya JKKN ia dikelaskan sebagai Seni Persembahan (Tarian). Asalnya ditarikan oleh pahlawan Iban sekembali dari medan perang, dan kini menjadi persembahan utama pada Hari Gawai serta majlis menyambut tetamu di rumah panjang."
-  - q: "Apakah maksud gerakan Ngajat?"
-    a: "Gerakan Ngajat melambangkan Burung Kenyalang atau enggang, iaitu burung yang menjadi lambang kaum Iban dan negeri Sarawak. Tarian lelaki bersifat gagah dan menggambarkan pahlawan atau burung yang sedang terbang, manakala Ngajat Indu yang ditarikan wanita menekankan nilai kelembutan dan kesopanan."
-  - q: "Apakah jenis-jenis tarian Ngajat?"
-    a: "Antara jenis yang direkodkan JKKN ialah Ngajat Lesong (ditarikan lelaki sambil menggigit lesung kayu), Ngajat Indu (ditarikan wanita dengan gerakan menenun pua kumbu), Ngajat Pua Kumbu (menggunakan kain pua kumbu) dan Ngajat Ngiling Tikai yang menandakan tamatnya sambutan Gawai Dayak."
+  - q: "응아잣 춤이란 무엇입니까?"
+    a: "응아잣은 사라왁 이반족의 전통 춤입니다. JKKN 문화 지도에 따르면 공연 예술(무용)로 분류됩니다. 본래는 이반 전사가 전장에서 돌아와 추던 것이며, 오늘날에는 가와이 데이(Hari Gawai)와 롱하우스에서 손님을 맞이하는 자리의 대표 공연이 되었습니다."
+  - q: "응아잣 동작의 의미는 무엇입니까?"
+    a: "응아잣의 동작은 이반족과 사라왁 주의 상징인 새, 코뿔새(부룽 크냘랑, Burung Kenyalang)를 상징합니다. 남성 춤은 씩씩하며 전사나 날고 있는 새를 그리고, 여성이 추는 응아잣 인두(Ngajat Indu)는 부드러움과 단정함의 가치를 강조합니다."
+  - q: "응아잣 춤에는 어떤 종류가 있습니까?"
+    a: "JKKN이 기록한 종류로는 응아잣 레송(Ngajat Lesong, 남성이 나무 절구를 물고 추는 춤), 응아잣 인두(Ngajat Indu, 여성이 푸아 쿰부를 짜는 동작으로 추는 춤), 응아잣 푸아 쿰부(Ngajat Pua Kumbu, 푸아 쿰부 천을 사용), 그리고 가와이 다약 기념의 끝을 알리는 응아잣 응일링 티카이(Ngajat Ngiling Tikai)가 있습니다."
 
 lang: "ko"
 sourceContentHash: "bc3c9b377ae4eddf"
@@ -41,10 +41,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Pautan entiti masyarakat asal: relasi 'related-to → orang-asli' telah dibuang kerana salah (kaum Iban ialah kaum Dayak/Orang Asal Sarawak, bukan Orang Asli Semenanjung). Sahkan sama ada wujud halaman entiti Dayak/Orang Asal Sarawak yang sesuai untuk diganti."
-  - "Asal usul abad ke-16 dicatat ICHLinks sebagai kepercayaan tradisi ('strongly believed'), bukan tarikh sejarah yang disahkan. Sahkan sebagai kepercayaan komuniti."
-  - "Berat lesung sehingga 20 kg (Ngajat Lesong) ialah keterangan deskriptif JKKN tentang aksi tarian, bukan ukuran piawai. Sahkan angka ini."
-  - "Kredit penyumbang ICHLinks (MACPA) dibaca dari halaman langsung. Sahkan susunan kata kredit penyumbang terus pada rekod ICHLinks."
+  - "원주민 공동체 엔티티 링크: 'related-to → orang-asli' 관계는 잘못되어 삭제되었습니다(이반족은 반도의 오랑 아슬리가 아니라 사라왁의 다약/원주민입니다). 이를 대체할 적절한 다약/사라왁 원주민 엔티티 페이지가 있는지 확인하십시오."
+  - "16세기 기원은 ICHLinks에 확인된 역사적 연대가 아니라 전통적 믿음('strongly believed')으로 기록되어 있습니다. 공동체의 믿음으로 확인하십시오."
+  - "절구 무게 최대 20kg(응아잣 레송)은 표준 수치가 아니라 춤 동작에 대한 JKKN의 서술적 설명입니다. 이 수치를 확인하십시오."
+  - "ICHLinks 기여자 표기(MACPA)는 해당 페이지에서 직접 읽었습니다. ICHLinks 기록에서 기여자 표기의 표현을 직접 확인하십시오."
 revisions:
   - revision: 0
     date: 2026-08-01

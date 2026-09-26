@@ -14,24 +14,24 @@ sensitivity: "none"
 
 answer: "말레이시아의 외국인 가사도우미는 부문별 쿼터 시스템이 아니라 외국인 가사도우미(Foreign Domestic Helper, FDH) 경로에 따라 이민국(Immigration Department)이 직접 관리합니다. 고용주는 최저 소득 요건을 충족하고 송출 국가에 따라 다른 보증금을 납부해야 합니다(예: 인도네시아의 경우 이민국은 고용주 순소득 RM7,000을 정하며, 도우미 최저 임금은 2022년 양해각서(MoU)에 따라 월 RM1,500입니다). 가사도우미는 강제 EPF 기여와 고용법 1955의 대부분에서 제외되며, 주 1일 휴게일 권리만 예외입니다."
 keyTakeaways:
-  - "Pengambilan pembantu rumah asing dibuat terus kepada Jabatan Imigresen (laluan FDH), berasingan daripada Pusat Setempat/kuota sektor pekerja asing biasa."
-  - "Negara sumber yang dibenarkan termasuk Indonesia, Thailand, Kemboja, Filipina, Sri Lanka, India, Vietnam, Laos dan Nepal."
-  - "Syarat pendapatan majikan dan bon keselamatan berbeza mengikut negara — contohnya Indonesia RM7,000 pendapatan dan bon RM250, manakala Filipina/Sri Lanka/India RM5,000 pendapatan dan bon RM750, menurut Jabatan Imigresen."
-  - "Gaji minimum pembantu rumah Indonesia ialah RM1,500 sebulan di bawah MoU 2022, dan kos pengambilan Indonesia dihadkan pada RM15,000 (maksimum) menurut Jabatan Imigresen."
-  - "Pembantu rumah asing dikecualikan daripada caruman KWSP wajib 2% (berkuat kuasa Oktober 2025) dan hanya dilindungi hak hari rehat di bawah Akta Kerja 1955."
-appliesTo: "Warganegara atau pemastautin tetap Malaysia yang bercadang mengambil pembantu rumah asing untuk kerja domestik isi rumah."
+  - "외국인 가사도우미 채용은 일반 외국인 근로자의 원스톱 센터(Pusat Setempat)/부문별 쿼터와 별개로, 이민국(Jabatan Imigresen)에 직접 이루어집니다(FDH 경로)."
+  - "허용되는 송출 국가에는 인도네시아, 태국, 캄보디아, 필리핀, 스리랑카, 인도, 베트남, 라오스, 네팔이 포함됩니다."
+  - "고용주 소득 요건과 보증금은 국가에 따라 다릅니다 — 이민국에 따르면 예컨대 인도네시아는 소득 RM7,000에 보증금 RM250, 필리핀/스리랑카/인도는 소득 RM5,000에 보증금 RM750입니다."
+  - "인도네시아 가사도우미의 최저 임금은 2022년 양해각서(MoU)에 따라 월 RM1,500이며, 이민국에 따르면 인도네시아 채용 비용은 RM15,000(최대)으로 제한됩니다."
+  - "외국인 가사도우미는 강제 EPF 기여 2%(2025년 10월 시행)에서 제외되며, 고용법 1955에 따라 휴게일 권리만 보호받습니다."
+appliesTo: "가사 노동을 위해 외국인 가사도우미를 채용하려는 말레이시아 국민 또는 영주권자."
 
 faq:
-  - q: "Siapa layak mengambil pembantu rumah asing?"
-    a: "Majikan mesti warganegara atau pemastautin tetap Malaysia dan memenuhi syarat pendapatan minimum yang ditetapkan mengikut negara sumber pembantu rumah. Setiap keluarga umumnya layak untuk seorang pembantu; pembantu kedua memerlukan pendapatan melebihi RM10,000 dan ketiga melebihi RM15,000, menurut Jabatan Imigresen."
-  - q: "Berapa gaji minimum pembantu rumah asing?"
-    a: "Untuk pembantu rumah Indonesia, gaji minimum ialah RM1,500 sebulan di bawah MoU 2022 antara Malaysia dan Indonesia. Negara sumber lain menetapkan gaji minimum masing-masing melalui MoU dan pengesahan kontrak oleh kedutaan atau kementerian buruh negara berkenaan."
-  - q: "Adakah majikan perlu mencarum KWSP untuk pembantu rumah?"
-    a: "Tidak. Pembantu rumah dengan permit sah dikecualikan daripada caruman KWSP wajib 2% yang berkuat kuasa mulai Oktober 2025. Caruman KWSP untuk pembantu rumah kekal secara sukarela sahaja."
-  - q: "Adakah pembantu rumah asing dilindungi Akta Kerja 1955?"
-    a: "Sebahagian sahaja. Sejak pindaan berkuat kuasa 1 Januari 2023, pembantu rumah domestik dikecualikan daripada Bahagian XII Akta Kerja kecuali peruntukan satu hari rehat seminggu."
-  - q: "Berapa bon keselamatan yang perlu dibayar?"
-    a: "Jumlahnya berbeza mengikut negara sumber — RM250 (Indonesia, Thailand, Kemboja), RM750 (Filipina, Sri Lanka, India) dan RM1,500 (Vietnam, Laos) menurut Jabatan Imigresen. Bon boleh dituntut semula apabila pembantu pulang mengikut syarat."
+  - q: "누가 외국인 가사도우미를 채용할 자격이 있습니까?"
+    a: "고용주는 말레이시아 국민 또는 영주권자여야 하며, 가사도우미의 송출 국가에 따라 정해진 최저 소득 요건을 충족해야 합니다. 각 가정은 일반적으로 1명의 도우미를 채용할 자격이 있으며, 이민국에 따르면 두 번째 도우미는 소득 RM10,000 초과, 세 번째는 RM15,000 초과가 필요합니다."
+  - q: "외국인 가사도우미의 최저 임금은 얼마입니까?"
+    a: "인도네시아 가사도우미의 경우, 최저 임금은 말레이시아와 인도네시아 간 2022년 양해각서(MoU)에 따라 월 RM1,500입니다. 다른 송출 국가는 각각 양해각서와 해당 국가 대사관 또는 노동부의 계약 인증을 통해 자국의 최저 임금을 정합니다."
+  - q: "고용주가 가사도우미를 위해 EPF를 기여해야 합니까?"
+    a: "아닙니다. 유효한 허가를 소지한 가사도우미는 2025년 10월부터 시행되는 강제 EPF 기여 2%에서 제외됩니다. 가사도우미에 대한 EPF 기여는 자발적으로만 유지됩니다."
+  - q: "외국인 가사도우미가 고용법 1955의 보호를 받습니까?"
+    a: "일부만 받습니다. 2023년 1월 1일 시행된 개정 이후, 가사도우미는 주 1일 휴게일 규정을 제외하고 고용법 제12부에서 제외됩니다."
+  - q: "납부해야 하는 보증금은 얼마입니까?"
+    a: "금액은 송출 국가에 따라 다릅니다 — 이민국에 따르면 RM250(인도네시아, 태국, 캄보디아), RM750(필리핀, 스리랑카, 인도), RM1,500(베트남, 라오스)입니다. 보증금은 도우미가 조건에 따라 귀국할 때 환급 청구할 수 있습니다."
 
 lang: "ko"
 sourceContentHash: "80b7fb78bc8f91cd"
@@ -52,7 +52,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kadar levi tahunan semasa bagi pembantu rumah asing (berbeza mengikut sektor/wilayah dan boleh berubah) — sahkan dengan Jabatan Imigresen sebelum menyatakan angka."
+  - "외국인 가사도우미에 대한 현행 연간 부담금 요율(부문/지역에 따라 다르며 변경될 수 있음) — 수치를 기재하기 전에 이민국에 확인할 것."
 
 updated: 2026-08-08
 sources:

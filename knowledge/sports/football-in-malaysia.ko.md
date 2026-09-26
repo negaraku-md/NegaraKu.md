@@ -52,9 +52,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Exact founding date/year of FAM — sources disagree between 1926 and 1933; kept hedged in the body pending a primary source."
-  - "Exact years of Kuala Lumpur's three-in-a-row Malaysia Cup titles (given as 1987–1989) — the cited sources confirm KL is the last team to win three consecutive titles but do not clearly pin the exact years."
-  - "The precise nature of the HMS Malaya funding (public/Federated Malay States contributions to the Royal Navy warship) — confirm against a primary naval or historical source."
+  - "FAM의 정확한 창립일/연도 — 출처마다 1926년과 1933년으로 엇갈리며, 1차 출처가 확보될 때까지 본문에서 유보적으로 서술했다."
+  - "쿠알라룸푸르의 말레이시아 컵 3연패(1987–1989년으로 제시됨)의 정확한 연도 — 인용된 출처는 쿠알라룸푸르가 3회 연속 우승한 마지막 팀임을 확인하나, 정확한 연도를 명확히 특정하지는 않는다."
+  - "HMS Malaya 자금 조달의 정확한 성격(영국 해군(Royal Navy) 군함에 대한 공공/말레이 연합주(Federated Malay States)의 기부) — 1차 해군 또는 역사 출처와 대조해 확인해야 한다."
 revisions:
   - revision: 0
     date: 2026-08-01

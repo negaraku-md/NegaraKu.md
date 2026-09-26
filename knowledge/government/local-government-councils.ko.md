@@ -13,13 +13,13 @@ sensitivity: "elections"
 
 answer: "지방 당국(Pihak Berkuasa Tempatan, PBT)은 연방정부와 주정부 아래에 놓인 말레이시아의 세 번째 정부 층위입니다. 반도 말레이시아에서는 PBT가 반도에 적용되는 지방정부법(Local Government Act 1976, Act 171)의 규율을 받고, 사바는 Local Government Ordinance 1961, 사라왁은 Local Authorities Ordinance 1996의 규율을 받습니다. PBT는 주택지방정부부(KPKT)가 정한 인구 및 연간 세입 기준에 따라 세 범주 — 시의회, 시정의회, 군의회 — 로 나뉩니다. Act 171 제10조에 따라, 하나의 PBT는 한 명의 의장 또는 시장과 8명 이상 24명 이하의 지방의원으로 구성되며, 이들은 주 당국(State Authority)이 3년을 넘지 않는 임기로 임명합니다. 지방의원은 선거로 선출되지 않습니다. 지방정부 선거는 인도네시아-말레이시아 대결 시기인 1965년 이래 정지되었고, Act 171이 임명 의회 제도를 규정한 후 복원되지 않았습니다."
 keyTakeaways:
-  - "PBT ialah lapisan ketiga kerajaan; di Semenanjung ia dikawal oleh Akta Kerajaan Tempatan 1976 (Akta 171), manakala Sabah dan Sarawak mempunyai ordinan berasingan"
-  - "Tiga kategori: Majlis Bandaraya, Majlis Perbandaran dan Majlis Daerah, dibezakan oleh kriteria penduduk dan hasil tahunan yang ditetapkan KPKT"
-  - "Seksyen 10 Akta 171: PBT terdiri daripada seorang Yang Dipertua/Datuk Bandar dan tidak kurang lapan hingga tidak lebih 24 ahli majlis, dilantik oleh Pihak Berkuasa Negeri"
-  - "Tempoh jawatan ahli majlis tidak melebihi tiga tahun dan boleh dilantik semula (Seksyen 10)"
-  - "Ahli majlis dilantik, bukan dipilih: pilihan raya kerajaan tempatan digantung pada 1965 semasa Konfrontasi dan tidak dipulihkan"
-  - "Suruhanjaya Diraja Athi Nahappan (ditubuhkan 1965, laporan diterbitkan 1970) mengesyorkan pemulihan majlis dipilih; Akta 171 sebaliknya mengekalkan majlis dilantik"
-appliesTo: "Sesiapa yang mahu memahami struktur, rangka perundangan dan keanggotaan kerajaan tempatan di Malaysia — pelajar, penyelidik, wartawan, penduduk yang berurusan dengan majlis tempatan, dan pembaca umum yang ingin mengetahui perbezaan antara Majlis Bandaraya, Perbandaran dan Daerah serta sebab ahli majlis dilantik dan bukan dipilih."
+  - "지방자치단체(PBT)는 정부의 세 번째 층위이다. 반도(Semenanjung)에서는 지방정부법(Local Government Act 1976, Act 171)이 이를 규율하는 반면, 사바(Sabah)와 사라왁(Sarawak)은 별도의 조례를 둔다"
+  - "세 가지 범주: 시의회(Majlis Bandaraya), 시자치의회(Majlis Perbandaran), 군의회(Majlis Daerah)로, 주택지방정부부(KPKT)가 정한 인구 및 연간 세입 기준으로 구분된다"
+  - "Act 171 제10조: 지방자치단체(PBT)는 의장(Yang Dipertua)/시장(Datuk Bandar) 1명과, 주 당국이 임명하는 8명 이상 24명 이하의 의원으로 구성된다"
+  - "의원의 임기는 3년을 넘지 않으며 재임명될 수 있다(제10조)"
+  - "의원은 선출이 아니라 임명된다: 지방자치 선거는 대결(Konfrontasi) 시기인 1965년에 정지된 후 복원되지 않았다"
+  - "아티 나하판 왕립위원회(Athi Nahappan Royal Commission)(1965년 설치, 1970년 보고서 발간)는 선출 의회의 복원을 권고하였으나, Act 171은 오히려 임명 의회를 유지하였다"
+appliesTo: "말레이시아 지방자치의 구조, 법적 틀, 구성원을 이해하고자 하는 모든 사람 — 학생, 연구자, 기자, 지방의회와 업무를 처리하는 주민, 그리고 시의회(Majlis Bandaraya)·시자치의회(Perbandaran)·군의회(Daerah)의 차이와 의원이 선출이 아니라 임명되는 이유를 알고자 하는 일반 독자."
 
 lang: "ko"
 sourceContentHash: "76abb87d5a3ed499"
@@ -40,11 +40,11 @@ revisions:
 
 updated: 2026-08-01
 verificationNeeded:
-  - "Bilangan tepat PBT mengikut kategori (dinyatakan 151 keseluruhan: 19 Majlis/Dewan Bandaraya, 40 Majlis Perbandaran, 92 Majlis Daerah menurut portal JKT KPKT) — jumlah ini berubah dari semasa ke semasa dan perlu disahkan terhadap statistik KPKT terkini pada tarikh penerbitan"
-  - "Nombor Bahagian/Seksyen tepat dalam Akta 171 yang mengawal kadar/cukai taksiran (rating) — badan artikel hanya menerangkan kuasa itu secara umum tanpa menyebut nombor peruntukan, kerana teks itu tidak dapat diekstrak daripada PDF akta"
-  - "Nama rasmi dan tarikh instrumen darurat yang menggantung pilihan raya tempatan (dirujuk sebagai Emergency (Suspension of Local Government Elections) Regulations 1965) dan Local Government (Temporary Provisions) Act 1973 — disebut dalam sumber sekunder tetapi belum disahkan terhadap teks perundangan asal"
-  - "Tahun terakhir pilihan raya kerajaan tempatan diadakan di Sarawak (beberapa sumber sekunder menyebut sekitar 1981) — perlu disahkan terhadap rekod rasmi sebelum dinyatakan sebagai fakta"
-  - "Kriteria naik taraf kategori PBT: angka penduduk/hasil di sini diambil daripada portal JKT KPKT; sahkan terhadap pekeliling KPKT terkini kerana kriteria pernah dikaji semula"
+  - "범주별 지방자치단체(PBT)의 정확한 수(KPKT 지방정부국(JKT) 포털에 따르면 총 151개: 시의회/시청 19, 시자치의회 40, 군의회 92로 명시됨) — 이 수치는 수시로 바뀌므로 발행일에 최신 KPKT 통계와 대조하여 확인할 필요가 있다"
+  - "부과금/평가세(rating)를 규율하는 Act 171의 정확한 편/조 번호 — 법률 PDF에서 본문을 추출할 수 없어 문서 본문은 조항 번호를 언급하지 않고 그 권한을 일반적으로만 설명한다"
+  - "지방자치 선거를 정지한 비상 문서(Emergency (Suspension of Local Government Elections) Regulations 1965로 언급됨)와 Local Government (Temporary Provisions) Act 1973의 공식 명칭과 날짜 — 2차 자료에서 언급되나 원 법령 본문과 대조하여 아직 확인되지 않았다"
+  - "사라왁(Sarawak)에서 지방자치 선거가 마지막으로 실시된 연도(일부 2차 자료는 1981년경을 언급) — 사실로 명시하기 전에 공식 기록과 대조하여 확인할 필요가 있다"
+  - "지방자치단체(PBT) 범주 승격 기준: 여기의 인구/세입 수치는 KPKT 지방정부국(JKT) 포털에서 가져온 것이다. 기준이 과거에 재검토된 바 있으므로 최신 KPKT 회람과 대조하여 확인할 것"
 sources:
   - title: "Akta Kerajaan Tempatan 1976 (Akta 171) — portal rujukan perundangan"
     url: "https://www.mpaj.gov.my/en/mpaj/resources/legislation/akta-kerajaan-tempatan-1976-akta-171"

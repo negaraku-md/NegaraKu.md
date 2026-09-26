@@ -14,17 +14,17 @@ sensitivity: "none"
 
 answer: "아니요. 계약법 1950(Contracts Act 1950) 제28조는 누구든 어떠한 종류의 적법한 직업, 거래 또는 사업을 영위하는 것을 제한하는 모든 합의는 그 제한의 범위에서 무효라고 규정합니다. 이 조항에는 세 가지 예외 — 영업권 매각과 두 가지 조합 상황 — 가 있으나, 그중 어느 것도 근로자를 포괄하지 않습니다. 말레이시아에는 합리성 심사가 없으므로, 좁게 작성된 조항도 넓은 조항과 동일한 기반에서 무효입니다."
 keyTakeaways:
-  - "s.28 Contracts Act 1950 voids restraints on exercising a lawful profession, trade or business, to the extent of the restraint."
-  - "The three exceptions cover the seller of goodwill and partners on or in anticipation of dissolution, and partners during the partnership."
-  - "There is no employment exception and no statutory reasonableness test — narrowing the clause does not rescue it."
-  - "Section 28 voids the clause, not the whole contract."
-  - "Confidentiality, trade-secret and intellectual-property obligations are not restraints of trade and remain available."
-  - "A restraint that operates while the employment subsists, such as an exclusivity clause or garden leave during notice, sits on a different footing from a post-termination restraint."
-appliesTo: "Employers drafting restrictive covenants, and employees told they cannot join a competitor."
+  - "계약법 1950 제28조는 적법한 직업, 거래 또는 사업을 영위하는 것에 대한 제한을 그 제한의 범위에서 무효로 합니다."
+  - "세 가지 예외는 영업권 매도인, 조합 해산 시 또는 해산을 예상하는 조합원, 그리고 조합 존속 중의 조합원을 포괄합니다."
+  - "고용 예외도 없고 법정 합리성 심사도 없습니다 — 조항을 좁게 만든다고 해서 구제되지 않습니다."
+  - "제28조는 계약 전체가 아니라 그 조항을 무효로 합니다."
+  - "비밀유지, 영업비밀, 지식재산 의무는 거래 제한이 아니며 여전히 활용할 수 있습니다."
+  - "고용이 존속하는 동안 작동하는 제한, 예컨대 전속 조항이나 예고 기간 중의 가든 리브(garden leave)는 고용 종료 후의 제한과는 다른 기반에 있습니다."
+appliesTo: "제한적 약정을 작성하는 고용주, 그리고 경쟁사에 합류할 수 없다는 말을 들은 근로자."
 
 verificationNeeded:
-  - "Confirm the leading Malaysian appellate authority on s.28 and on the treatment of non-solicitation clauses, against reported judgments"
-  - "Confirm whether any Malaysian court has upheld a post-termination non-solicitation of customers clause as falling outside s.28"
+  - "제28조와 유인 금지(non-solicitation) 조항의 취급에 관한 말레이시아 주요 상소심 판례를 보고된 판결과 대조하여 확인할 것"
+  - "말레이시아 법원이 고용 종료 후 고객 유인 금지 조항을 제28조 밖에 해당하는 것으로 인정한 사례가 있는지 확인할 것"
 
 lang: "ko"
 sourceContentHash: "d5d94ae67835a159"

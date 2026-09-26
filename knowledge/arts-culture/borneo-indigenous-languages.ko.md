@@ -2,7 +2,7 @@
 topicId: MY-ART-0048
 title: "사바와 사라왁의 원주민 언어: 보르네오의 주요 어족"
 seoTitle: "사바와 사라왁의 원주민 언어 풀이"
-socialTitle: "The main language families of Borneo's native communities"
+socialTitle: "보르네오 원주민 공동체의 주요 어족"
 slug: "borneo-indigenous-languages"
 category: "arts-culture"
 subcategory: ["languages"]
@@ -13,25 +13,25 @@ contentType: "guide"
 sensitivity: "none"
 answer: "사바와 사라왁의 원주민 공동체는 수십 가지의 서로 다른 원주민 언어를 쓰며, 그 거의 전부가 오스트로네시아 어족(Austronesian)에 속합니다. 언어학자들은 그 대부분을 북보르네오 분지(North Bornean branch) 안에 묶습니다. 사바의 경우 사바 주 정부는 50개가 넘는 언어와 약 80개의 방언으로 소통하는 33개 원주민 집단을 서술합니다. 이것들은 언어학자들에 의해 흔히 두순어군, 무룻어군, 파이탄어군, 그리고 사마-바자우(바자우) 언어로 묶입니다. 사바의 가장 큰 집단은 카다잔-두순(Kadazan-Dusun)입니다. 사라왁의 경우 2020년 인구조사에 기록된 가장 큰 원주민 집단은 이반(Iban), 비다유(Bidayuh), 믈라나우(Melanau)이며, 그들의 언어는 말레이어군(이반), 비다유어군(랜드 다약), 믈라나우-카장, 그리고 카얀·크냐·클라빗·룬 바왕 같은 강 상류 오랑 울루(Orang Ulu) 공동체가 쓰는 북사라왁 언어를 포함하는 어족들에 속합니다. 이 언어 가운데 일부 — 특히 카다잔두순과 이반 — 는 모어 교육(Pupil's Own Language) 프로그램 아래 공립학교에서 가르쳐집니다."
 keyTakeaways:
-  - "Almost all indigenous languages of Sabah and Sarawak belong to the Austronesian family, and most sit within a North Bornean branch"
-  - "The Sabah state government describes 33 indigenous groups using more than 50 languages and around 80 dialects; linguists group these mainly into the Dusunic, Murutic, Paitanic and Sama-Bajau families, with Kadazan-Dusun the largest group"
-  - "In Sarawak, the 2020 Census recorded the Iban as the largest Bumiputera group, followed by the Bidayuh and Melanau; their languages span the Malayic, Bidayuhic, Melanau-Kajang and North Sarawakan families"
-  - "'Dayak' and 'Orang Ulu' are collective terms covering several distinct peoples and languages, not single ethnic groups"
-  - "The line between a 'language' and a 'dialect' is drawn differently by different sources, so there is no single official count of how many indigenous languages exist"
-  - "Kadazandusun has been taught in Sabah government schools since a 1997 pilot, and Iban is taught in Sarawak schools, under the Pupil's Own Language (POL) programme"
-appliesTo: "Anyone who wants a clear, respectful map of the main indigenous language groups of Sabah and Sarawak — which families they belong to, which communities speak them, and how they are counted and taught."
+  - "사바와 사라왁의 원주민 언어는 거의 전부가 오스트로네시아 어족(Austronesian)에 속하며, 대부분은 북보르네오 어파(North Bornean branch) 안에 자리합니다"
+  - "사바 주 정부는 50개가 넘는 언어와 약 80개의 방언을 쓰는 33개 원주민 집단을 서술하며, 언어학자들은 이를 주로 두순어군(Dusunic), 무룻어군(Murutic), 파이탄어군(Paitanic), 사마-바자우(Sama-Bajau) 어족으로 묶고, 카다잔-두순(Kadazan-Dusun)이 가장 큰 집단입니다"
+  - "사라왁에서는 2020년 인구조사가 이반(Iban)을 가장 큰 부미푸트라 집단으로, 그 뒤를 비다유(Bidayuh)와 믈라나우(Melanau)로 기록했으며, 이들의 언어는 말레이어군(Malayic), 비다유어군(Bidayuhic), 믈라나우-카장(Melanau-Kajang), 북사라왁(North Sarawakan) 어족에 걸쳐 있습니다"
+  - "「다약(Dayak)」과 「오랑 울루(Orang Ulu)」는 단일 종족이 아니라 여러 개별 민족과 언어를 아우르는 집합 용어입니다"
+  - "「언어」와 「방언」을 가르는 기준은 자료마다 다르게 그어지므로, 원주민 언어가 몇 가지인지에 대한 단일한 공식 집계는 없습니다"
+  - "카다잔두순(Kadazandusun)은 1997년 시범 사업 이래 사바의 공립학교에서 가르쳐지고 있으며, 이반은 모어 교육(Pupil's Own Language, POL) 프로그램 아래 사라왁의 학교에서 가르쳐집니다"
+appliesTo: "사바와 사라왁의 주요 원주민 언어 집단에 대한 명확하고 존중하는 지도를 원하는 모든 사람 — 그들이 어느 어족에 속하는지, 어느 공동체가 쓰는지, 그리고 어떻게 집계되고 가르쳐지는지."
 
 faq:
-  - q: "How many indigenous languages are spoken in Sabah and Sarawak?"
-    a: "There is no single official count, because sources draw the line between 'language' and 'dialect' differently. What official sources confirm is the scale: the Sabah state government alone describes 33 indigenous groups communicating in more than 50 languages and around 80 dialects, and Sarawak adds many more. Together the two Borneo states account for the large majority of Malaysia's indigenous languages."
-  - q: "What language family do these languages belong to?"
-    a: "Almost all of them belong to the Austronesian family — the same broad family as Malay, Tagalog and the languages of the Pacific. Within it, most are placed by linguists in a North Bornean branch, which is then divided into smaller families such as Dusunic, Murutic and Paitanic in Sabah and the North Sarawakan, Melanau-Kajang and Bidayuhic families in Sarawak. Iban, Sarawak's largest indigenous language, belongs to the Malayic group."
-  - q: "What are the main indigenous languages of Sabah?"
-    a: "The largest is Kadazandusun, spoken by the Kadazan-Dusun, who the Sabah state government describes as the state's largest ethnic group. Other major groups are the Bajau (whose languages belong to the Sama-Bajau family) and the Murut (Murutic family). The Rungus, Lotud, Bisaya and many smaller communities each have their own language or dialect."
-  - q: "What are the main indigenous languages of Sarawak?"
-    a: "Iban is the most widely spoken indigenous language of Sarawak. Others include Bidayuh (a cluster of related Land Dayak languages), Melanau, and the languages of the Orang Ulu — an umbrella term for upriver communities such as the Kayan, Kenyah, Kelabit, Lun Bawang and Penan, each with its own tongue."
-  - q: "Are these indigenous languages taught in schools?"
-    a: "Yes, some are, under the Ministry of Education's Pupil's Own Language (POL) programme, usually as an elective subject. Kadazandusun has been taught in Sabah government schools since a pilot that began in 1997, and Iban is taught in Sarawak schools. Availability depends on demand and on meeting the minimum class size set by policy."
+  - q: "사바와 사라왁에서는 몇 가지의 원주민 언어가 쓰입니까?"
+    a: "자료마다 「언어」와 「방언」을 가르는 기준이 다르기 때문에 단일한 공식 집계는 없습니다. 공식 자료가 확인해 주는 것은 그 규모입니다. 사바 주 정부만 해도 50개가 넘는 언어와 약 80개의 방언으로 소통하는 33개 원주민 집단을 서술하며, 사라왁은 여기에 훨씬 더 많은 언어를 더합니다. 이 두 보르네오 주를 합하면 말레이시아 원주민 언어의 큰 다수를 차지합니다."
+  - q: "이 언어들은 어느 어족에 속합니까?"
+    a: "거의 전부가 오스트로네시아 어족(Austronesian)에 속하며, 이는 말레이어, 타갈로그어, 태평양의 여러 언어와 같은 넓은 어족입니다. 그 안에서 대부분은 언어학자들에 의해 북보르네오 어파(North Bornean branch)로 분류되며, 이는 다시 사바의 두순어군(Dusunic)·무룻어군(Murutic)·파이탄어군(Paitanic)과 사라왁의 북사라왁(North Sarawakan)·믈라나우-카장(Melanau-Kajang)·비다유어군(Bidayuhic) 같은 더 작은 어족으로 나뉩니다. 사라왁 최대의 원주민 언어인 이반(Iban)은 말레이어군(Malayic)에 속합니다."
+  - q: "사바의 주요 원주민 언어는 무엇입니까?"
+    a: "가장 큰 것은 사바 주 정부가 주 최대의 종족으로 서술하는 카다잔-두순(Kadazan-Dusun)이 쓰는 카다잔두순(Kadazandusun)입니다. 다른 주요 집단으로는 바자우(Bajau, 그 언어는 사마-바자우 어족에 속함)와 무룻(Murut, 무룻어군)이 있습니다. 룽구스(Rungus), 로투드(Lotud), 비사야(Bisaya)를 비롯한 수많은 더 작은 공동체도 저마다의 언어나 방언을 지닙니다."
+  - q: "사라왁의 주요 원주민 언어는 무엇입니까?"
+    a: "이반(Iban)은 사라왁에서 가장 널리 쓰이는 원주민 언어입니다. 그 밖에 비다유(Bidayuh, 서로 관련된 랜드 다약 언어들의 무리), 믈라나우(Melanau), 그리고 오랑 울루(Orang Ulu)의 언어들이 있습니다. 오랑 울루는 카얀(Kayan), 크냐(Kenyah), 클라빗(Kelabit), 룬 바왕(Lun Bawang), 프난(Penan) 같은 강 상류 공동체를 아우르는 포괄적 용어이며, 저마다 자기 언어를 지닙니다."
+  - q: "이 원주민 언어들은 학교에서 가르쳐집니까?"
+    a: "네, 일부는 교육부의 모어 교육(Pupil's Own Language, POL) 프로그램 아래 보통 선택 과목으로 가르쳐집니다. 카다잔두순(Kadazandusun)은 1997년에 시작된 시범 사업 이래 사바의 공립학교에서 가르쳐지고 있으며, 이반은 사라왁의 학교에서 가르쳐집니다. 개설 여부는 수요와 정책이 정한 최소 학급 규모 충족에 달려 있습니다."
 
 lang: "ko"
 sourceContentHash: "641d60c83d47ef35"
@@ -50,8 +50,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The genetic classification of these languages (Austronesian, North Bornean, Dusunic/Murutic/Paitanic/Sama-Bajau, North Sarawakan/Melanau-Kajang/Bidayuhic/Malayic) follows standard linguistic references (Ethnologue/SIL and Glottolog), not an official Malaysian government classification — the Malaysian government does not publish a formal genetic tree of these languages."
-  - "Exact speaker numbers for individual languages are not published as a single official figure; the article uses ethnic-group population counts (DOSM Census) as a proxy for language size, which is an approximation."
+  - "이 언어들의 계통 분류(오스트로네시아, 북보르네오, 두순어군/무룻어군/파이탄어군/사마-바자우, 북사라왁/믈라나우-카장/비다유어군/말레이어군)는 말레이시아 정부의 공식 분류가 아니라 표준 언어학 참고 자료(Ethnologue/SIL 및 Glottolog)를 따릅니다 — 말레이시아 정부는 이 언어들의 공식 계통도를 발표하지 않습니다."
+  - "개별 언어의 정확한 사용자 수는 단일한 공식 수치로 발표되지 않습니다. 이 글은 언어 규모의 대용으로 종족 인구 집계(DOSM 인구조사)를 사용하며, 이는 근사치입니다."
 
 updated: 2026-07-24
 sources:

@@ -14,18 +14,18 @@ sensitivity: "none"
 
 answer: "말레이시아의 고용 의무는 열여섯 개의 법령과 약 열 개의 당국에 걸쳐 나뉘어 있습니다. 노동 기준은 반도에서는 JTKSM, 동말레이시아에서는 JTK 사바와 JTK 사라왁이 담당합니다. 분쟁은 JPPM과 산업법원(Industrial Court)이, 안전은 DOSH가, 기여금 제도는 KWSP, PERKESO, HRD Corp가 담당합니다. 각각 고유의 신고 포털이 있으며, 이들은 서로 연동되지 않습니다."
 keyTakeaways:
-  - "Three separate labour-standards statutes: Act 265 for the peninsula, Sabah Cap. 67 and Sarawak Cap. 76 for East Malaysia."
-  - "JPPM sits at jpp.mohr.gov.my — not jppm.mohr.gov.my, which does not resolve."
-  - "Act 446's official short title is the Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990."
-  - "KESUMA has no domain of its own; mohr.gov.my remains the canonical ministry site."
-  - "The Anti-Sexual Harassment Tribunal is TAGS, at tags.kpwkm.gov.my, and sits under KPWKM rather than the Ministry of Human Resources."
-  - "The Gig Economy Commission (SEGiM) has no verified standalone portal; gig complaints route through eAduan Gig."
-appliesTo: "HR, payroll and compliance teams that need to know which door to knock on."
+  - "세 개의 별도 노동기준 법령: 반도는 Act 265, 동말레이시아는 사바 Cap. 67과 사라왁 Cap. 76."
+  - "JPPM은 jpp.mohr.gov.my에 있습니다 — 접속되지 않는 jppm.mohr.gov.my가 아닙니다."
+  - "법률 제446호의 공식 약칭은 직원 주거·숙소·편의시설 최저기준법 1990(Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990)입니다."
+  - "KESUMA는 자체 도메인이 없으며, mohr.gov.my가 여전히 공식 부처 사이트입니다."
+  - "성희롱방지심판소는 TAGS로 tags.kpwkm.gov.my에 있으며, 인적자원부가 아니라 KPWKM 산하에 있습니다."
+  - "긱 경제 위원회(SEGiM)는 검증된 독립 포털이 없으며, 긱 진정은 eAduan Gig를 통해 처리됩니다."
+appliesTo: "어느 문을 두드려야 하는지 알아야 하는 인사, 급여, 준법 팀."
 
 verificationNeeded:
-  - "Confirm the legal instrument establishing the Malaysian Gig Economy Commission (SEGiM) and its powers — it is not established by the Gig Workers Act 2025"
-  - "Confirm whether the Gig Workers Tribunal has a standalone registry address or portal separate from eAduan Gig"
-  - "Confirm Act numbers 612, 732, 789, 800, 840 and 872 against lom.agc.gov.my once those PDFs are served — they are currently confirmed from agency sites rather than the LOM repository"
+  - "말레이시아 긱 경제 위원회(SEGiM)를 설치하는 법령과 그 권한을 확인할 것 — 이는 긱 근로자법 2025로 설치되지 않음"
+  - "긱 근로자 심판소가 eAduan Gig와 별개의 독립 등기소 주소나 포털을 가지는지 확인할 것"
+  - "법률 번호 612, 732, 789, 800, 840, 872를 해당 PDF가 제공되는 대로 lom.agc.gov.my와 대조하여 확인할 것 — 현재는 LOM 저장소가 아니라 기관 사이트에서 확인됨"
 
 lang: "ko"
 sourceContentHash: "debce12c53f16ed5"

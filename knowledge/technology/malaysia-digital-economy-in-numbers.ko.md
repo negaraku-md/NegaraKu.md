@@ -14,23 +14,23 @@ sensitivity: "none"
 
 answer: "말레이시아 디지털 경제 — DOSM의 ICT 위성계정으로 측정한 ICT 산업과 전자상거래의 합 — 는 2024년 국내총생산(GDP)에 23.4퍼센트, 즉 4,513억 링깃(RM)을 기여했으며, 이는 2023년의 23.5퍼센트(4,277억 링깃)에서 늘어난 수치입니다. 이 수치는 2024년 1조 2,301억 링깃에 이른 전자상거래 거래 수입과는 같지 않습니다. 가구 차원에서는, 2025년 말레이시아 가구의 97.1퍼센트가 인터넷에 접속했고 개인의 98.3퍼센트가 인터넷을 사용했습니다."
 keyTakeaways:
-  - "ICT dan e-dagang menyumbang 23.4% atau RM451.3 bilion kepada KDNK pada 2024, naik daripada RM427.7 bilion (23.5%) pada 2023"
-  - "Sumbangan itu terdiri daripada Nilai Ditambah Kasar industri ICT (GVAICT) pada 13.9% dan e-dagang dalam industri bukan ICT pada 9.5% bagi 2024"
-  - "GVAICT bernilai RM252.0 bilion dan GVA e-dagang RM248.2 bilion pada 2023 — dua ukuran nilai ditambah yang berbeza, bukan hasil jualan"
-  - "Pendapatan urus niaga e-dagang (nilai transaksi kasar) ialah RM1,230.1 bilion pada 2024, satu konsep yang berlainan sama sekali daripada GVA e-dagang"
-  - "Guna tenaga industri ICT mencecah 1.24 juta orang pada 2023, iaitu 7.8% daripada jumlah guna tenaga Malaysia"
-  - "Akses internet isi rumah ialah 97.1% pada 2025 (bandar 99.0%, luar bandar 90.7%); penggunaan internet individu 98.3%"
-appliesTo: "Penganalisis, wartawan, penggubal dasar dan pemasar yang perlu memetik angka ekonomi digital Malaysia dengan tepat dan tahu metrik mana yang mereka gunakan."
+  - "ICT와 전자상거래는 2024년 GDP에 23.4%, 즉 4,513억 링깃을 기여했으며, 이는 2023년의 4,277억 링깃(23.5%)에서 늘어난 수치입니다"
+  - "이 기여도는 2024년 기준 ICT 산업 총부가가치(GVAICT) 13.9%와 비(非)ICT 산업 내 전자상거래 9.5%로 구성됩니다"
+  - "2023년 GVAICT는 2,520억 링깃, 전자상거래 GVA는 2,482억 링깃이었으며 — 이 둘은 판매 수입이 아니라 서로 다른 두 가지 부가가치 지표입니다"
+  - "전자상거래 거래 수입(총거래액)은 2024년 1조 2,301억 링깃으로, 전자상거래 GVA와는 전혀 다른 개념입니다"
+  - "ICT 산업 고용은 2023년 124만 명에 이르렀으며, 이는 말레이시아 전체 고용의 7.8%에 해당합니다"
+  - "가구 인터넷 접속률은 2025년 97.1%(도시 99.0%, 농촌 90.7%)였으며, 개인 인터넷 사용률은 98.3%였습니다"
+appliesTo: "말레이시아 디지털 경제 수치를 정확히 인용하고 자신이 어떤 지표를 사용하는지 알아야 하는 분석가, 언론인, 정책 입안자 및 마케터."
 
 faq:
-  - q: "Adakah 'RM451 bilion' bermakna jualan dalam talian sebanyak RM451 bilion?"
-    a: "Tidak. RM451.3 bilion (2024) ialah sumbangan gabungan ICT dan e-dagang kepada KDNK — satu ukuran nilai ditambah kasar, bukan hasil jualan mahupun nilai transaksi. Nilai transaksi e-dagang kasar diukur secara berasingan dan jauh lebih besar, iaitu RM1,230.1 bilion pada 2024."
-  - q: "Apakah perbezaan antara GVAICT dan GVA e-dagang?"
-    a: "GVAICT ialah nilai ditambah oleh industri ICT itu sendiri (pembuatan, perkhidmatan, perdagangan dan media kandungan ICT), bernilai RM252.0 bilion pada 2023. GVA e-dagang ialah nilai ditambah aktiviti e-dagang merentas semua sektor ekonomi, bernilai RM248.2 bilion pada 2023. Kedua-duanya bertindih sebahagian, jadi ia tidak boleh dijumlahkan begitu sahaja untuk mendapatkan saiz ekonomi digital."
-  - q: "Berapakah kadar penembusan internet di Malaysia?"
-    a: "Menurut Laporan Penggunaan dan Akses ICT DOSM 2025, 97.1 peratus isi rumah mempunyai akses internet dan 98.3 peratus individu menggunakan internet pada 2025. Jurang bandar–luar bandar masih wujud: akses isi rumah bandar 99.0 peratus berbanding luar bandar 90.7 peratus."
-  - q: "Siapa yang menerbitkan angka ekonomi digital rasmi Malaysia?"
-    a: "Jabatan Perangkaan Malaysia (DOSM) menerbitkan Akaun Satelit ICT setiap tahun (keluaran Ekonomi Digital Malaysia), yang menetapkan sumbangan ICT dan e-dagang kepada KDNK. DOSM juga menjalankan Laporan Penggunaan dan Akses ICT bagi angka penembusan isi rumah dan individu. Kadar penembusan jalur lebar diterbitkan secara berasingan oleh Suruhanjaya Komunikasi dan Multimedia Malaysia (SKMM/MCMC)."
+  - q: "'4,513억 링깃'은 온라인 판매 4,513억 링깃을 의미합니까?"
+    a: "아닙니다. 4,513억 링깃(2024년)은 GDP에 대한 ICT와 전자상거래의 합산 기여도로 — 판매 수입도 거래액도 아닌 총부가가치 지표입니다. 전자상거래 총거래액은 별도로 측정되며 훨씬 커서, 2024년 1조 2,301억 링깃에 이릅니다."
+  - q: "GVAICT와 전자상거래 GVA의 차이는 무엇입니까?"
+    a: "GVAICT는 ICT 산업 자체(ICT 제조, 서비스, 무역, 콘텐츠·미디어)가 창출한 부가가치로, 2023년 2,520억 링깃이었습니다. 전자상거래 GVA는 모든 경제 부문에 걸친 전자상거래 활동의 부가가치로, 2023년 2,482억 링깃이었습니다. 둘은 부분적으로 겹치므로, 디지털 경제 규모를 구하기 위해 단순히 합산해서는 안 됩니다."
+  - q: "말레이시아의 인터넷 보급률은 얼마입니까?"
+    a: "DOSM의 2025년 ICT 사용 및 접근 보고서에 따르면, 2025년 가구의 97.1%가 인터넷에 접속했고 개인의 98.3%가 인터넷을 사용했습니다. 도시–농촌 격차는 여전히 존재합니다. 도시 가구 접속률은 99.0%인 반면 농촌은 90.7%입니다."
+  - q: "말레이시아의 공식 디지털 경제 수치는 누가 발표합니까?"
+    a: "말레이시아 통계청(DOSM)은 매년 ICT 위성계정(말레이시아 디지털 경제 발간물)을 발표하며, 이를 통해 GDP에 대한 ICT와 전자상거래의 기여도를 확정합니다. DOSM은 또한 가구 및 개인 보급률 수치를 위해 ICT 사용 및 접근 보고서를 수행합니다. 광대역 보급률은 말레이시아 통신멀티미디어위원회(SKMM/MCMC)가 별도로 발표합니다."
 
 lang: "ko"
 sourceContentHash: "9a3a89f709e2b7ae"
@@ -44,9 +44,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Kadar pertumbuhan 2023 disemak semula: keluaran Ekonomi Digital 2025 (rujukan 2024) melaporkan pertumbuhan 2023 sebagai 3.5%, sedangkan keluaran Ekonomi Digital 2024 (rujukan 2023) melaporkannya sebagai 3.9%. Draf ini menggunakan 3.5% untuk konsisten dengan keluaran yang sama sebagai angka 5.1% (2024). Sahkan angka mana yang hendak dipaparkan."
-  - "Baris sumbangan 2022 (22.9% / RM411.6 bilion) telah DIBUANG kerana ia tidak dibawa sebagai pembanding dalam mana-mana keluaran DOSM yang dipetik, dan keluaran rujukan-tahun-2022 (Ekonomi Digital 2023) tidak dapat dicapai untuk pengesahan (ralat pangkalan data laman DOSM). Jika garis tren tiga tahun dikehendaki, petik keluaran Ekonomi Digital 2023 secara langsung sebaik sahaja ia boleh dicapai."
-  - "Dakwaan kualitatif tentang jalur lebar mudah alih vs tetap dan kaitannya dengan pendapatan negeri telah DIBUANG kerana tiada sumber MCMC dalam sources[]. Jika hendak dikembalikan, tambah petikan MCMC (mis. laporan penembusan jalur lebar SKMM) yang telah dicapai."
+  - "2023년 성장률 재검토: 디지털 경제 2025 발간물(2024년 기준)은 2023년 성장률을 3.5%로 보고한 반면, 디지털 경제 2024 발간물(2023년 기준)은 이를 3.9%로 보고합니다. 이 초안은 5.1%(2024년) 수치와 동일한 발간물과의 일관성을 위해 3.5%를 사용합니다. 어느 수치를 표시할지 확인이 필요합니다."
+  - "2022년 기여도 행(22.9% / 4,116억 링깃)은 인용된 어떤 DOSM 발간물에서도 비교치로 제시되지 않았고, 2022년 기준 발간물(디지털 경제 2023)에 접근할 수 없어(DOSM 웹사이트 데이터베이스 오류) 검증할 수 없었기에 삭제되었습니다. 3개년 추세선이 필요하다면, 접근이 가능해지는 즉시 디지털 경제 2023 발간물을 직접 인용해야 합니다."
+  - "모바일 광대역 대 고정 광대역에 관한 정성적 주장과 그것이 주(州) 수입과 갖는 연관성은 sources[]에 MCMC 출처가 없어 삭제되었습니다. 되살리려면 접근이 가능한 MCMC 인용(예: SKMM 광대역 보급률 보고서)을 추가해야 합니다."
 revisions:
   - revision: 0
     date: 2026-08-01

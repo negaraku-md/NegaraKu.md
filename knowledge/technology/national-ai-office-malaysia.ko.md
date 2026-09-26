@@ -14,22 +14,22 @@ sensitivity: "none"
 
 answer: "말레이시아에는 아직 독립된 AI법이 없습니다. 대신 조율 기관 — 2024년 12월 출범해 2026년 7월 AI Malaysia Berhad로 재편된 국가AI사무소(NAIO) — 와 자발적인 AI 거버넌스·윤리 국가지침(National Guidelines on AI Governance and Ethics, AIGE, 2024), 그리고 국가 AI 실행계획 2026–2030(National AI Action Plan 2026–2030)에 의존합니다. 정부는 2026년 말을 목표로 위험 기반 AI 거버넌스 법안을 마련하고 있습니다."
 keyTakeaways:
-  - "The National AI Office (NAIO) was approved by Cabinet on 28 August 2024 and launched by Prime Minister Anwar Ibrahim on 12 December 2024, under the Ministry of Digital."
-  - "In July 2026 NAIO was institutionalised as a permanent entity, AI Malaysia Berhad, to implement the country's AI agenda toward an 'AI Nation by 2030'."
-  - "The AIGE guidelines (MOSTI, September 2024) are voluntary and built on seven principles across three stakeholder groups — the current backbone of Malaysia's soft-law approach."
-  - "The National AI Action Plan 2026–2030 sets out 28 initiatives, an RM60 billion GDP-contribution target, and a top-20 global AI-readiness goal by 2030."
-  - "A risk-based AI governance bill and a Malaysian AI Safety Institute are being developed, signalling a shift from pure soft law toward statutory oversight."
-appliesTo: "Founders, compliance officers, policymakers, researchers and businesses navigating AI regulation and support in Malaysia."
+  - "국가AI사무소(NAIO)는 2024년 8월 28일 내각의 승인을 받아 2024년 12월 12일 안와르 이브라힘(Anwar Ibrahim) 총리에 의해 디지털부 산하로 출범했습니다."
+  - "2026년 7월 NAIO는 '2030년 AI 국가'를 향한 국가의 AI 의제를 실행하기 위해 상설 기구인 AI Malaysia Berhad로 제도화되었습니다."
+  - "AIGE 지침(MOSTI, 2024년 9월)은 자발적이며 세 이해관계자 그룹에 걸친 일곱 가지 원칙에 기반한, 현재 말레이시아 연성법 접근의 근간입니다."
+  - "국가 AI 실행계획 2026–2030은 28개 이니셔티브, 600억 링깃의 GDP 기여 목표, 그리고 2030년까지 세계 AI 준비도 20위권 진입 목표를 제시합니다."
+  - "위험 기반 AI 거버넌스 법안과 말레이시아 AI 안전연구소가 마련되고 있으며, 이는 순수한 연성법에서 법정 감독으로의 전환을 시사합니다."
+appliesTo: "말레이시아에서 AI 규제와 지원을 탐색하는 창업자, 컴플라이언스 담당자, 정책 입안자, 연구자 및 기업."
 
 faq:
-  - q: "Does Malaysia have an AI law?"
-    a: "Not yet. As of 2026 Malaysia governs AI through voluntary guidelines (AIGE), existing sectoral laws, and a coordinating agency (AI Malaysia / NAIO). A risk-based AI governance bill is being drafted, with completion targeted for the end of 2026."
-  - q: "What is the difference between NAIO and AI Malaysia?"
-    a: "NAIO was a coordinating office launched in December 2024. AI Malaysia Berhad, launched in late July 2026, formally institutionalises NAIO as a permanent entity with a broader mandate to implement Malaysia's AI agenda."
-  - q: "Are the AIGE guidelines mandatory?"
-    a: "No. The National Guidelines on AI Governance and Ethics are voluntary. They set out seven principles for end users, policymakers and technology developers, and are intended as a foundation for future legislation."
-  - q: "What are the targets of the AI Action Plan 2026–2030?"
-    a: "The plan aims for AI to contribute over RM60 billion to GDP and to place Malaysia among the top 20 countries in global AI readiness by 2030, delivered through 28 initiatives."
+  - q: "말레이시아에는 AI법이 있습니까?"
+    a: "아직 없습니다. 2026년 기준 말레이시아는 자발적 지침(AIGE), 기존 부문별 법률, 그리고 조율 기관(AI Malaysia / NAIO)을 통해 AI를 관리합니다. 위험 기반 AI 거버넌스 법안이 초안 작성 중이며, 2026년 말 완성을 목표로 합니다."
+  - q: "NAIO와 AI Malaysia의 차이는 무엇입니까?"
+    a: "NAIO는 2024년 12월 출범한 조율 사무소였습니다. 2026년 7월 말 출범한 AI Malaysia Berhad는 NAIO를 상설 기구로 공식 제도화하며, 말레이시아의 AI 의제를 실행할 더 폭넓은 권한을 갖습니다."
+  - q: "AIGE 지침은 의무입니까?"
+    a: "아닙니다. AI 거버넌스·윤리 국가지침은 자발적입니다. 이는 최종 사용자, 정책 입안자, 기술 개발자를 위한 일곱 가지 원칙을 제시하며, 향후 입법의 토대로 삼고자 합니다."
+  - q: "AI 실행계획 2026–2030의 목표는 무엇입니까?"
+    a: "이 계획은 28개 이니셔티브를 통해 2030년까지 AI가 GDP에 600억 링깃 이상 기여하고 말레이시아를 세계 AI 준비도 상위 20개국에 진입시키는 것을 목표로 합니다."
 
 lang: "ko"
 sourceContentHash: "74e6c6495db49c10"
@@ -49,11 +49,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "AI Malaysia Berhad launch date (28 July 2026): The Edge article (published 1 August 2026) says the PM officiated the launch 'on Tuesday' rather than giving a numeric date; confirm the exact calendar date against an official source."
-  - "Shamsul Izhan Abdul Majid's departure: source states he 'ended his tenure in June' as NAIO head; confirm the year (2026) and exact date."
-  - "Risk-based AI governance bill 'end of 2026' target: reported by The Edge (Aug 2026); an earlier ministerial statement (Malay Mail, July 2025) referred to a framework 'by mid-next year'. Confirm the current official timeline."
-  - "Malaysian AI Safety Institute: confirm its establishment, legal status and mandate (safety assessments, model testing, red-teaming) against an official government source once published."
-  - "Company registration number 202601028115 (1690210-V) for AI Malaysia Berhad: confirm active/registered status."
+  - "AI Malaysia Berhad 출범일(2026년 7월 28일): The Edge 기사(2026년 8월 1일 게재)는 총리가 '화요일에' 출범식을 주재했다고만 밝히고 구체적 날짜를 제시하지 않았습니다. 공식 출처와 대조해 정확한 달력상 날짜를 확인해야 합니다."
+  - "샴술 이잔 압둘 마지드(Shamsul Izhan Abdul Majid)의 퇴임: 출처는 그가 NAIO 수장으로서 '6월에 임기를 마쳤다'고 밝힙니다. 연도(2026년)와 정확한 날짜를 확인해야 합니다."
+  - "위험 기반 AI 거버넌스 법안의 '2026년 말' 목표: The Edge(2026년 8월)가 보도했으나, 이전의 장관 성명(Malay Mail, 2025년 7월)은 '내년 중반까지'의 프레임워크를 언급했습니다. 현행 공식 일정을 확인해야 합니다."
+  - "말레이시아 AI 안전연구소: 공식 정부 출처가 발표되면 그 설립, 법적 지위, 권한(안전성 평가, 모델 테스트, 레드팀)을 대조해 확인해야 합니다."
+  - "AI Malaysia Berhad의 법인 등록번호 202601028115(1690210-V): 활성/등록 상태를 확인해야 합니다."
 
 updated: 2026-08-01
 sources:

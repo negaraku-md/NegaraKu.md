@@ -10,13 +10,13 @@ mode: "narrative"
 contentType: "guide"
 answer: "디키르 바랏은 클란탄에서 온 집단 노래 공연으로, 즉흥으로 판툰을 짓는 투캉 카룻과, 가락 있는 노래 부분을 이끄는 톡 주아라가 함께 이끌며, 한 무리의 아워크아워크(약 15~30명)가 책상다리로 앉아 코러스이자 배경 무용수 역할을 합니다. 두 무리가 같은 무대에서 겨루며 서로 판툰을 실시간으로 주고받을 수 있습니다. 국가유산국은 2009년 디키르 바랏을 공연 예술 범주의 국가유산으로 관보에 고시했습니다."
 keyTakeaways:
-  - "Dikir Barat dipimpin oleh dua watak utama: Tukang Karut (penggubah pantun spontan) dan Tok Juara (ketua nyanyian berirama)"
-  - "Kumpulan awok-awok — biasanya 15 hingga 30 orang — duduk bersila, menjadi korus dan membuat pergerakan tangan serta tubuh secara serentak"
-  - "Persembahan berlangsung dalam dua peringkat: bahagian awal dipimpin Tok Juara, disusuli bahagian utama apabila Tukang Karut mengambil alih dengan pantun bersifat jenaka atau sindiran"
-  - "Dalam format pertandingan, dua kumpulan silih berganti berbalas pantun di atas pentas yang sama"
-  - "Jabatan Warisan Negara menggazetkan Dikir Barat sebagai Warisan Kebangsaan (kategori Seni Persembahan) pada 2009"
-  - "Bentuk seni ini dikaitkan dengan tradisi dikir dari selatan Thailand yang disesuaikan di Kelantan dengan penambahan pantun dan dialek Kelantan"
-appliesTo: "Sesiapa yang ingin memahami bentuk persembahan Dikir Barat, peranan Tukang Karut dan Tok Juara, serta struktur sebuah kumpulan."
+  - "디키르 바랏(dikir barat)은 두 주역이 이끕니다. 투캉 카룻(Tukang Karut, 즉흥으로 판툰을 짓는 사람)과 톡 주아라(Tok Juara, 가락 있는 노래의 지도자)입니다"
+  - "아워크아워크(awok-awok) 무리 — 보통 15~30명 — 는 책상다리로 앉아 코러스가 되며, 손과 몸의 움직임을 동시에 맞춥니다"
+  - "공연은 두 단계로 진행됩니다. 도입부는 톡 주아라가 이끌고, 이어 투캉 카룻이 익살이나 풍자를 담은 판툰으로 이어받는 주된 부분이 뒤따릅니다"
+  - "대결 형식에서는 두 무리가 같은 무대에서 번갈아 판툰을 주고받습니다"
+  - "국가유산국(Jabatan Warisan Negara)은 2009년 디키르 바랏을 국가유산(공연 예술 범주)으로 관보에 고시했습니다"
+  - "이 예술 형식은 태국 남부의 디키르(dikir) 전통과 연관되며, 클란탄(Kelantan)에서 판툰과 클란탄 방언이 더해져 변용되었습니다"
+appliesTo: "디키르 바랏의 공연 형식, 투캉 카룻과 톡 주아라의 역할, 그리고 한 무리의 구성을 이해하고자 하는 모든 사람."
 lang: "ko"
 sourceContentHash: "8d1b65f59cb7dafe"
 masterLanguage: "ms"
@@ -33,8 +33,8 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Butiran penuh rekod pemetaan budaya JKKN (pemetaanbudaya.jkkn.gov.my) tentang Dikir Barat tidak dapat disahkan secara langsung kerana laman tersebut tidak dapat dicapai semasa penyediaan draf ini; perlu disemak semula apabila boleh diakses."
-  - "Tarikh tepat dan latar penuh tokoh Pak Leh Tapang (Mat Salleh bin Haji Ahmad) sebagai pengembang bentuk pantun dalam Dikir Barat hanya direkodkan dalam sumber sekunder, bukan laman rasmi kerajaan."
+  - "디키르 바랏에 관한 JKKN 문화 지도 기록(pemetaanbudaya.jkkn.gov.my)의 전체 내용은 이 초안을 준비하는 동안 해당 사이트에 접속할 수 없어 직접 확인하지 못했습니다. 접속이 가능해지면 다시 확인해야 합니다."
+  - "디키르 바랏에서 판툰 형식을 발전시킨 인물인 팍 레 타팡(Pak Leh Tapang, Mat Salleh bin Haji Ahmad)의 정확한 연대와 온전한 배경은 정부 공식 사이트가 아니라 이차 자료에만 기록되어 있습니다."
 sensitivity: "none"
 updated: 2026-07-24
 sources:

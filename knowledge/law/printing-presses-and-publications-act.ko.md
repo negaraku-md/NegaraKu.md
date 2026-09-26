@@ -14,19 +14,19 @@ sensitivity: "security"
 
 answer: "인쇄기 및 출판법 1984(Printing Presses and Publications Act 1984, Act 301)은 말레이시아에서 인쇄기의 사용과 인쇄물의 출판을 규율합니다. 이 법은 인쇄기를 운영하기 위한 면허(제3조)와 신문을 인쇄하거나 출판하기 위한 허가(제5조 및 제6조)를 의무화하며, 그 승인 권한은 내무부 장관(Menteri Dalam Negeri)에게 있습니다. 장관은 또한 제7조에 따라 유해하다고 간주되는 출판물을 금지할 수 있습니다. 2012년 개정은 장관의 재량 및 사법 심사와 관련된 것을 포함하여 몇 가지 조항을 변경하였습니다."
 keyTakeaways:
-  - "Akta 301 mula berkuat kuasa pada 1 September 1984 dan mengawal mesin cetak serta penerbitan bahan bercetak."
-  - "Lesen mesin cetak (seksyen 3) dan permit akhbar (seksyen 5 dan 6) diberikan oleh Menteri Dalam Negeri."
-  - "Seksyen 7 membenarkan Menteri mengharamkan penerbitan yang dianggap memudaratkan ketenteraman awam, keselamatan, moraliti atau kepentingan negara melalui perintah dalam Warta."
-  - "Pindaan 2012 mengeluarkan rujukan kepada budi bicara mutlak, memansuhkan klausa yang menghalang semakan kehakiman, dan menetapkan hak untuk didengari sebelum lesen atau permit digantung atau dibatalkan."
-appliesTo: "Penerbit, pengendali mesin cetak, wartawan, pelajar undang-undang dan sesiapa yang ingin memahami rangka kerja perundangan penerbitan bercetak di Malaysia."
+  - "Akta 301은 1984년 9월 1일에 시행되었으며 인쇄기와 인쇄물의 출판을 규율합니다."
+  - "인쇄기 면허(제3조)와 신문 허가(제5조 및 제6조)는 내무부 장관이 부여합니다."
+  - "제7조는 장관이 공공질서, 안전, 도덕 또는 국익을 해친다고 간주되는 출판물을 관보에 게재되는 명령을 통하여 금지할 수 있게 합니다."
+  - "2012년 개정은 절대적 재량에 대한 언급을 삭제하고, 사법 심사를 막는 조항을 폐지하였으며, 면허나 허가가 정지 또는 취소되기 전에 의견을 진술할 권리를 정하였습니다."
+appliesTo: "출판인, 인쇄기 운영자, 언론인, 법학도, 그리고 말레이시아의 인쇄 출판 법적 틀을 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Adakah setiap penerbitan bercetak memerlukan lesen di bawah Akta 301?"
-    a: "Akta membezakan antara lesen untuk mengendalikan mesin cetak (seksyen 3) dan permit untuk mencetak atau menerbitkan akhbar (seksyen 5 dan 6). Kedua-duanya diberikan oleh Menteri Dalam Negeri."
-  - q: "Bolehkah keputusan Menteri di bawah Akta ini dicabar di mahkamah?"
-    a: "Pindaan 2012 memansuhkan frasa yang sebelum ini menghalang keputusan Menteri daripada dipersoalkan oleh mana-mana mahkamah, membuka ruang untuk semakan kehakiman terhadap keputusan berkaitan lesen dan permit."
-  - q: "Apakah seksyen 7 Akta 301?"
-    a: "Seksyen 7 membenarkan Menteri, melalui perintah dalam Warta, mengharamkan penerbitan yang dianggap memudaratkan atau berkemungkinan memudaratkan ketenteraman awam, keselamatan, moraliti, hubungan dengan negara asing atau kepentingan negara."
+  - q: "모든 인쇄 출판물이 Akta 301에 따라 면허를 필요로 합니까?"
+    a: "이 법은 인쇄기를 운영하기 위한 면허(제3조)와 신문을 인쇄하거나 출판하기 위한 허가(제5조 및 제6조)를 구별합니다. 두 가지 모두 내무부 장관이 부여합니다."
+  - q: "이 법에 따른 장관의 결정을 법원에서 다툴 수 있습니까?"
+    a: "2012년 개정은 이전에 장관의 결정을 어느 법원에 의해서도 다툴 수 없게 하던 문구를 폐지하여, 면허 및 허가와 관련된 결정에 대한 사법 심사의 여지를 열었습니다."
+  - q: "Akta 301 제7조는 무엇입니까?"
+    a: "제7조는 장관이 관보에 게재되는 명령을 통하여, 공공질서, 안전, 도덕, 외국과의 관계 또는 국익을 해치거나 해칠 우려가 있다고 간주되는 출판물을 금지할 수 있게 합니다."
 
 lang: "ko"
 sourceContentHash: "614accf2d6e4feba"
@@ -40,10 +40,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Sahkan bahawa penomboran seksyen yang dirujuk (3, 5, 6, 7, 12, 13, 13A, 13B) kekal sama dalam teks Akta 301 yang berkuat kuasa hari ini selepas pindaan 2012 dan mana-mana pindaan berikutnya."
-  - "Sahkan tarikh dan nombor rujukan pindaan 2012 (dilaporkan sebagai Akta A1436, berkuat kuasa 15 Julai 2012) terhadap Warta Kerajaan rasmi."
-  - "Sahkan butiran perintah larangan 19 Disember 2024 terhadap enam judul terhadap teks perintah rasmi dalam Warta, bukan hanya laporan berita Bernama."
-  - "Sahkan tarikh dan status perundangan majlis media 2025 (dilaporkan diluluskan Parlimen 26 Februari 2025) terhadap rekod Parlimen atau Warta rasmi."
+  - "인용된 조항 번호(3, 5, 6, 7, 12, 13, 13A, 13B)가 2012년 개정 및 그 이후의 개정 후 오늘날 시행 중인 Akta 301 텍스트에서 동일하게 유지되는지 확인하여야 합니다."
+  - "2012년 개정의 날짜와 참조 번호(Akta A1436, 2012년 7월 15일 시행으로 보고됨)를 공식 관보에 대조하여 확인하여야 합니다."
+  - "여섯 개 제목에 대한 2024년 12월 19일 금지 명령의 세부 사항을, Bernama 뉴스 보도뿐 아니라 관보의 공식 명령 텍스트에 대조하여 확인하여야 합니다."
+  - "2025년 미디어위원회 입법의 날짜와 상태(2025년 2월 26일 의회 통과로 보고됨)를 의회 기록 또는 공식 관보에 대조하여 확인하여야 합니다."
 revisions:
   - revision: 0
     date: 2026-08-07

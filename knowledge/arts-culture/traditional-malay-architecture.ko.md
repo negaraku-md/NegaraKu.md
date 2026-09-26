@@ -14,17 +14,17 @@ sensitivity: "none"
 
 answer: "전통 말레이 가옥은 현지 목재로 지은 고상 가옥(루마 팡궁, rumah panggung, 기둥 위의 집)으로, 덥고 습한 기후에 맞추어 설계되었습니다. 바닥을 높이 들어 올려 공기를 흐르게 하고 홍수, 습기, 동물을 피하며, 높고 가파른 지붕과 트바르 라야르(tebar layar, 박공 장식)가 열을 빼냅니다. 공간은 기능에 따라 배치됩니다 — 스람비(serambi, 앞 툇마루), 루마 이부(rumah ibu, 본채), 슬랑(selang, 연결 공간), 다푸르(dapur, 부엌). 이는 보통 한 가족을 위한 말레이 가옥과 달리, 루아이(ruai, 공용 회랑)를 갖추고 한 지붕 아래 수십 가구를 수용하는 보르네오 롱하우스와 다릅니다."
 keyTakeaways:
-  - "Lantai yang diangkat atas tiang melancarkan pergerakan udara di bawah rumah dan melindungi daripada banjir, kelembapan tanah serta haiwan."
-  - "Bumbung tinggi dan curam dengan tebar layar mengeluarkan haba panas melalui kesan serombong (stack effect)."
-  - "Ruang teras rumah Melayu — serambi, rumah ibu, selang dan dapur — masing-masing membawa fungsi sosial tersendiri."
-  - "Rumah panjang Borneo menempatkan ramai keluarga di bawah satu bumbung dengan ruai bersama, berbeza daripada rumah Melayu sebuah keluarga."
-appliesTo: "Pelajar, penyelidik warisan, pelancong budaya, dan sesiapa yang ingin memahami seni bina vernakular Malaysia."
+  - "기둥 위로 들어 올린 바닥은 집 아래의 공기 흐름을 원활하게 하고 홍수, 땅의 습기, 동물로부터 보호합니다."
+  - "트바르 라야르(tebar layar, 박공)를 갖춘 높고 가파른 지붕은 굴뚝 효과(stack effect)를 통해 더운 열기를 빼냅니다."
+  - "말레이 가옥의 핵심 공간 — 스람비(serambi), 루마 이부(rumah ibu), 슬랑(selang), 다푸르(dapur) — 은 각각 고유한 사회적 기능을 지닙니다."
+  - "보르네오 롱하우스는 공용 회랑인 루아이(ruai)를 갖추고 한 지붕 아래 여러 가족을 수용하여, 한 가족을 위한 말레이 가옥과 다릅니다."
+appliesTo: "학생, 유산 연구자, 문화 관광객, 그리고 말레이시아 토착 건축을 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Adakah rumah Melayu tradisional benar-benar boleh dibongkar dan dipindahkan?"
-    a: "Ya. Kerana strukturnya bersandarkan sambungan kayu dan bukan asas konkrit yang tetap, banyak rumah lama boleh dileraikan dan dipasang semula di tapak baharu — satu ciri yang turut memudahkan pemuliharaan warisan."
-  - q: "Apa beza rumah Melayu dengan rumah panjang Sarawak?"
-    a: "Rumah Melayu lazimnya menempatkan satu keluarga, manakala rumah panjang (rumah panjang) menempatkan banyak keluarga dalam satu binaan memanjang — setiap keluarga memiliki bilik (bilek) sendiri, dikongsi dengan galeri komunal bernama ruai."
+  - q: "전통 말레이 가옥은 정말로 해체해서 옮길 수 있습니까?"
+    a: "네. 그 구조가 고정된 콘크리트 기초가 아니라 목재 이음에 기대기 때문에, 많은 옛 가옥은 해체해서 새 자리에 다시 조립할 수 있습니다 — 이는 유산 보존도 수월하게 하는 특징입니다."
+  - q: "말레이 가옥은 사라왁 롱하우스와 어떻게 다릅니까?"
+    a: "말레이 가옥은 보통 한 가족을 수용하는 반면, 롱하우스(rumah panjang)는 길게 뻗은 한 건물에 여러 가족을 수용합니다 — 각 가족이 자기 방(빌렉bilek)을 지니고, 루아이(ruai)라 불리는 공용 회랑을 함께 씁니다."
 
 lang: "ko"
 sourceContentHash: "6e6d63e898f4ad35"

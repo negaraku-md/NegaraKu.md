@@ -15,23 +15,23 @@ sensitivity: "religion"
 answer: "말레이시아의 샤리아 법원과 민사 법원은 하나의 체계 안의 두 층위가 아니라 서로 별개의 두 체계입니다. 민사 법원은 연방 법원입니다. 샤리아 법원은 주 목록 항목 1(연방헌법 제9부칙)에 따라 각 주가, 그리고 연방직할구의 경우 연방 법률이 설치합니다. 샤리아 법원은 이슬람을 신봉하는 사람에 대해서만, 그리고 그 항목에 열거된 사안 — 주로 이슬람 신분·가족법 — 에 대해서만 관할을 가집니다. 제121조 제(1A)항은 민사 법원이 샤리아 법원의 관할에 속하는 어떤 사안에 대해서도 관할을 가지지 않는다고 규정합니다."
 
 keyTakeaways:
-  - "Perkara 3(1) Perlembagaan Persekutuan memperuntukkan Islam ialah agama bagi Persekutuan, tetapi agama lain boleh diamalkan dengan aman dan damai"
-  - "Butiran 1 Senarai Negeri (Jadual Kesembilan) memberi negeri kuasa ke atas 'perlembagaan, organisasi dan tatacara mahkamah syariah', yang hanya berbidang kuasa ke atas orang yang menganut Islam dan bagi perkara yang disenaraikan dalam butiran itu"
-  - "Butiran 4(a) Senarai Persekutuan meletakkan 'perlembagaan dan organisasi semua mahkamah selain mahkamah syariah' di bawah kuasa persekutuan"
-  - "Akta Mahkamah Syariah (Bidang Kuasa Jenayah) 1965 (Akta 355) menetapkan had hukuman jenayah mahkamah syariah: penjara tidak melebihi tiga tahun, denda tidak melebihi lima ribu ringgit, atau sebatan tidak melebihi enam kali, atau gabungannya"
-  - "Bagi Wilayah Persekutuan, Akta 505 menyusun tiga peringkat mahkamah: Mahkamah Rendah Syariah, Mahkamah Tinggi Syariah dan Mahkamah Rayuan Syariah"
-  - "Perkara 121(1A) memperuntukkan mahkamah sivil tidak mempunyai bidang kuasa dalam perkara yang termasuk dalam bidang kuasa mahkamah syariah"
-appliesTo: "Sesiapa yang mahu memahami secara deskriptif bagaimana mahkamah syariah disusun di Malaysia, apa yang boleh dibicarakannya, dan bagaimana ia berkaitan dengan mahkamah sivil."
+  - "연방헌법 제3조 제(1)항은 이슬람이 연방의 종교이나 다른 종교도 평온하고 평화롭게 신봉될 수 있다고 규정한다"
+  - "주 목록(제9부칙)의 제1항목은 주에 「샤리아 법원의 구성, 조직 및 절차」에 대한 권한을 부여하며, 이 법원은 이슬람을 신봉하는 사람과 그 항목에 열거된 사항에 대해서만 관할권을 가진다"
+  - "연방 목록의 제4항목 (a)호는 「샤리아 법원을 제외한 모든 법원의 구성과 조직」을 연방 권한에 둔다"
+  - "샤리아 법원(형사 관할)법(Syariah Courts (Criminal Jurisdiction) Act 1965, Act 355)은 샤리아 법원의 형사 처벌 한도를 정한다: 3년 이하의 징역, 5천 링깃 이하의 벌금, 또는 6대 이하의 태형, 또는 그 병과"
+  - "연방직할구의 경우, Act 505는 세 단계의 법원을 편성한다: 샤리아 하급법원(Mahkamah Rendah Syariah), 샤리아 고등법원(Mahkamah Tinggi Syariah), 샤리아 항소법원(Mahkamah Rayuan Syariah)"
+  - "제121조 제(1A)항은 민사 법원이 샤리아 법원의 관할에 속하는 사항에 대하여 관할권을 가지지 않는다고 규정한다"
+appliesTo: "말레이시아에서 샤리아 법원이 어떻게 구성되는지, 무엇을 심리할 수 있는지, 그리고 민사 법원과 어떻게 관련되는지를 서술적으로 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Adakah mahkamah syariah lebih tinggi atau lebih rendah daripada mahkamah sivil?"
-    a: "Bukan kedua-duanya. Ia bukan dua peringkat dalam satu tangga. Mahkamah sivil ialah mahkamah persekutuan; mahkamah syariah ditubuhkan oleh negeri (dan oleh undang-undang persekutuan bagi Wilayah Persekutuan). Perkara 121(1A) memisahkan bidang kuasa kedua-duanya: mahkamah sivil tidak mempunyai bidang kuasa dalam perkara yang termasuk dalam bidang kuasa mahkamah syariah."
-  - q: "Bolehkah orang bukan Islam dibawa ke mahkamah syariah?"
-    a: "Tidak. Butiran 1 Senarai Negeri (Jadual Kesembilan) menyatakan mahkamah syariah 'hanya berbidang kuasa ke atas orang yang menganut agama Islam'. Bidang kuasanya juga terhad kepada perkara yang disenaraikan dalam butiran itu."
-  - q: "Apakah had hukuman jenayah yang boleh dijatuhkan mahkamah syariah?"
-    a: "Akta 355 memperuntukkan bidang kuasa jenayah tidak boleh dilaksanakan bagi kesalahan yang boleh dihukum dengan penjara melebihi tiga tahun, denda melebihi lima ribu ringgit, atau sebatan melebihi enam kali, atau apa-apa gabungannya. Kesalahan itu pula mesti ditetapkan oleh undang-undang bertulis."
-  - q: "Adakah struktur mahkamah syariah sama di semua negeri?"
-    a: "Susunan tiga peringkat — Mahkamah Rendah Syariah, Mahkamah Tinggi Syariah dan Mahkamah Rayuan Syariah — adalah lazim, tetapi setiap negeri menubuhkannya melalui enakmen negerinya sendiri, manakala Wilayah Persekutuan diatur oleh Akta 505. Had bidang kuasa mal dari segi nilai wang ditetapkan oleh enakmen atau akta masing-masing dan boleh berbeza antara negeri."
+  - q: "샤리아 법원은 민사 법원보다 상위입니까, 하위입니까?"
+    a: "둘 다 아닙니다. 그것들은 하나의 사다리에 있는 두 단계가 아닙니다. 민사 법원은 연방 법원이고, 샤리아 법원은 주(그리고 연방직할구의 경우 연방법)에 의해 설치됩니다. 제121조 제(1A)항은 둘의 관할을 분리합니다: 민사 법원은 샤리아 법원의 관할에 속하는 사항에 대하여 관할권을 가지지 않습니다."
+  - q: "비무슬림이 샤리아 법원에 회부될 수 있습니까?"
+    a: "아닙니다. 주 목록(제9부칙)의 제1항목은 샤리아 법원이 「이슬람교를 신봉하는 사람에 대해서만 관할권을 가진다」고 명시합니다. 그 관할은 또한 그 항목에 열거된 사항에 한정됩니다."
+  - q: "샤리아 법원이 부과할 수 있는 형사 처벌의 한도는 무엇입니까?"
+    a: "Act 355는 3년을 초과하는 징역, 5천 링깃을 초과하는 벌금, 또는 6대를 초과하는 태형, 또는 그 어떤 병과로도 처벌될 수 있는 범죄에 대하여는 형사 관할권이 행사될 수 없다고 규정합니다. 또한 그 범죄는 성문법으로 정해져야 합니다."
+  - q: "샤리아 법원의 구조는 모든 주에서 동일합니까?"
+    a: "세 단계 구성 — 샤리아 하급법원(Mahkamah Rendah Syariah), 샤리아 고등법원(Mahkamah Tinggi Syariah), 샤리아 항소법원(Mahkamah Rayuan Syariah) — 이 일반적이지만, 각 주는 자체 주 조례를 통해 이를 설치하며, 연방직할구는 Act 505가 규율합니다. 금액 기준의 민사 관할 한도는 각각의 조례나 법률로 정해지며 주마다 다를 수 있습니다."
 
 lang: "ko"
 sourceContentHash: "8fac45bc244e70ad"
@@ -51,7 +51,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Had nilai wang bidang kuasa mal Mahkamah Rendah Syariah dan Mahkamah Tinggi Syariah yang berbeza antara negeri — sahkan terhadap enakmen pentadbiran agama Islam setiap negeri berkenaan."
+  - "주마다 다른 샤리아 하급법원과 샤리아 고등법원의 민사 관할 금액 한도 — 해당 각 주의 이슬람 종교 행정 조례와 대조하여 확인할 것."
 updated: 2026-08-01
 sources:
   - title: "Syariah Courts (Criminal Jurisdiction) Act 1965 (Act 355) — extended to Sabah & Sarawak by Act A730, in force 5 May 1989"

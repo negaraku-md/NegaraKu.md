@@ -14,24 +14,24 @@ sensitivity: "none"
 
 answer: "말레이시아는 도산을 두 개의 체제로 나눕니다. 개인은 도산법 1967(Insolvency Act 1967)의 규율을 받는데, 채권자는 10만 링깃(RM100,000) 이상의 채무에 대해서만 파산을 신청할 수 있으며, 재산은 말레이시아 도산청(Malaysian Department of Insolvency, MdI)이 도산청장(Director General of Insolvency)을 통하여 관리합니다. 회사는 회사법 2016(Companies Act 2016)의 규율을 받으며, 이 법은 청산(winding-up)과 회생 수단 — 관리명령(judicial management), 화의(scheme of arrangement) 및 회사 임의정리(corporate voluntary arrangement) — 을 모두 제공합니다."
 keyTakeaways:
-  - "Since 1 September 2021 a creditor needs a debt of at least RM100,000 to petition an individual into bankruptcy (Section 5(1)(a), Insolvency Act 1967)"
-  - "A social guarantor cannot be made bankrupt at all — Section 5(3) gives absolute protection"
-  - "A bankrupt can be discharged three ways: court order (s.33), DGI certificate after 5 years (s.33A), or automatic discharge after 3 years (s.33C)"
-  - "A company is deemed unable to pay its debts once a Section 466 statutory demand for a sum exceeding RM50,000 goes unpaid for 21 days — a threshold permanently in force since 1 April 2021 (raised from RM10,000)"
-  - "The Companies Act 2016 added rescue routes — judicial management (ss.403-430) and corporate voluntary arrangement (s.395) — as alternatives to winding-up"
-appliesTo: "Debtors, directors, creditors, guarantors and advisers who need to understand what happens in Malaysia when an individual or a company cannot pay its debts."
+  - "2021년 9월 1일부터, 채권자가 개인을 파산시키기 위하여 신청하려면 최소 RM100,000의 채무가 있어야 합니다(도산법 1967 제5조 제1항 (a)호)"
+  - "사회적 보증인은 전혀 파산될 수 없습니다 — 제5조 제3항이 절대적 보호를 부여합니다"
+  - "파산자는 세 가지 방식으로 면책될 수 있습니다. 즉 법원 명령(제33조), 5년 후 DGI 증명서(제33A조), 또는 3년 후 자동 면책(제33C조)입니다"
+  - "회사는 RM50,000을 초과하는 금액에 대한 제466조 법정 청구가 21일간 이행되지 아니하면 채무를 갚을 수 없는 것으로 간주됩니다 — 이 기준은 2021년 4월 1일부터 영구적으로 시행되고 있습니다(RM10,000에서 인상)"
+  - "회사법 2016은 청산의 대안으로 회생 경로 — 관리명령(제403조~제430조)과 회사 임의정리(제395조) — 를 추가하였습니다"
+appliesTo: "개인이나 회사가 채무를 갚을 수 없을 때 말레이시아에서 무슨 일이 일어나는지 이해하여야 하는 채무자, 이사, 채권자, 보증인 및 자문가."
 
 faq:
-  - q: "What is the minimum debt for someone to be made bankrupt in Malaysia?"
-    a: "A creditor must be owed at least RM100,000 to file a bankruptcy petition against an individual. That floor took effect on 1 September 2021 under the Insolvency (Amendment) Act 2020, raising the previous RM50,000 threshold. The RM100,000 minimum applies to creditor petitions; a debtor petitioning against themselves is not bound by it."
-  - q: "Can a guarantor be made bankrupt?"
-    a: "It depends on the type of guarantor. A social guarantor — someone who guaranteed a loan without any profit motive, such as an education loan or a home loan for residential use — has absolute protection under Section 5(3) and cannot be made bankrupt. A non-social (commercial) guarantor can be pursued, but the creditor must first obtain leave of the court under Section 5(3)(b)."
-  - q: "How long does bankruptcy last before discharge?"
-    a: "The fastest route is automatic discharge under Section 33C, available three years after the bankrupt submits their statement of affairs, provided they have paid the sum the Director General of Insolvency determines and cooperated with the administration. Creditors can object within 21 days of notice, and the discharge can be suspended for up to two years for non-compliance."
-  - q: "What is the difference between winding-up and bankruptcy?"
-    a: "Bankruptcy applies to individuals under the Insolvency Act 1967; winding-up (liquidation) applies to companies under the Companies Act 2016. A company can be wound up voluntarily by its members or creditors, or compulsorily by court order — often after an unpaid Section 466 statutory demand for a debt exceeding RM50,000."
-  - q: "Is there a way to save a struggling company instead of liquidating it?"
-    a: "Yes. The Companies Act 2016 introduced rescue mechanisms: judicial management (Sections 403-430), under which a court-appointed judicial manager runs the company under a moratorium, and the corporate voluntary arrangement (Section 395). A scheme of arrangement under Section 366 also lets a company bind creditors to a compromise with 75% approval by value and court sanction."
+  - q: "말레이시아에서 어떤 사람이 파산되기 위한 최소 채무는 얼마입니까?"
+    a: "채권자가 개인에 대해 파산 신청을 제기하려면 최소 RM100,000을 받아야 합니다. 그 하한은 도산(개정)법 2020에 따라 2021년 9월 1일에 시행되어, 이전의 RM50,000 기준을 인상하였습니다. RM100,000 최저 기준은 채권자 신청에 적용되며; 스스로에 대해 신청하는 채무자는 이에 구속되지 아니합니다."
+  - q: "보증인이 파산될 수 있습니까?"
+    a: "보증인의 유형에 따라 다릅니다. 사회적 보증인 — 학자금 대출이나 거주용 주택 대출 등 이익 동기 없이 대출을 보증한 사람 — 은 제5조 제3항에 따른 절대적 보호를 받으며 파산될 수 없습니다. 비사회적(상업적) 보증인은 추심될 수 있으나, 채권자는 먼저 제5조 제3항 (b)호에 따른 법원의 허가를 받아야 합니다."
+  - q: "면책까지 파산은 얼마나 오래 지속됩니까?"
+    a: "가장 빠른 경로는 제33C조에 따른 자동 면책으로, 파산자가 재산 상태 진술서를 제출한 후 3년이 지나면 가능하며, 도산청장이 정한 금액을 납부하고 절차에 협조하였을 것을 조건으로 합니다. 채권자는 통지 후 21일 이내에 이의를 제기할 수 있으며, 협조 불이행 시 면책은 최대 2년까지 정지될 수 있습니다."
+  - q: "청산과 파산의 차이는 무엇입니까?"
+    a: "파산은 도산법 1967에 따라 개인에게 적용되며; 청산은 회사법 2016에 따라 회사에 적용됩니다. 회사는 사원이나 채권자에 의해 임의로, 또는 법원 명령에 의해 강제로 — 흔히 RM50,000을 초과하는 채무에 대한 이행되지 아니한 제466조 법정 청구 후 — 청산될 수 있습니다."
+  - q: "곤경에 처한 회사를 청산하는 대신 살릴 방법이 있습니까?"
+    a: "예. 회사법 2016은 회생 수단을 도입하였습니다. 즉 법원이 선임한 관리인이 모라토리엄 하에 회사를 운영하는 관리명령(제403조~제430조)과, 회사 임의정리(제395조)입니다. 제366조에 따른 화의도 가액 기준 75%의 찬성과 법원의 인가로 회사가 채권자를 화해에 구속하게 합니다."
 
 lang: "ko"
 sourceContentHash: "a85ad7d5133bf9fc"
@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm the exact statutory starting point of the Section 33A five-year discharge trigger against the current reprint of the Insolvency Act 1967 — the cited source frames it as five years from the date the bankruptcy order lapses, which the table now follows."
-  - "Confirm the current Section 466(1)(a) indebtedness threshold (exceeding RM50,000, in force since 1 April 2021 with no sunset) against the latest gazetted prescription order before relying on it."
-  - "Confirm the corporate rescue provisions and their references (judicial management ss.403-430, CVA s.395, scheme of arrangement s.366, 180-day period, 75%-by-value majority) against the current reprint of the Companies Act 2016."
-  - "Confirm the correct knowledge-graph target for the administering body (Malaysian Department of Insolvency / Director General of Insolvency); the previous administered-by relation to the Attorney General's Chambers was removed as unsupported."
+  - "제33A조 5년 면책 발동의 정확한 법정 기산점을 도산법 1967의 현행 재발행판에 대조하여 확인하여야 합니다 — 인용된 출처는 이를 파산 명령이 실효된 날로부터 5년으로 규정하며, 표는 이제 이를 따릅니다."
+  - "현행 제466조 제1항 (a)호 채무 기준(RM50,000 초과, 2021년 4월 1일부터 종료일 없이 시행)을 이에 의존하기 전에 최신 관보 고시 명령에 대조하여 확인하여야 합니다."
+  - "회사 회생 규정과 그 참조(관리명령 제403조~제430조, CVA 제395조, 화의 제366조, 180일 기간, 가액 기준 75% 다수)를 회사법 2016의 현행 재발행판에 대조하여 확인하여야 합니다."
+  - "운용 기관(말레이시아 도산청 / 도산청장)에 대한 올바른 지식 그래프 대상을 확인하여야 합니다; 이전의 법무장관실에 대한 administered-by 관계는 근거가 없어 삭제되었습니다."
 
 updated: 2026-08-07
 sources:

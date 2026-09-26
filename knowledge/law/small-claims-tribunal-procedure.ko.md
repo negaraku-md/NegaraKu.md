@@ -14,26 +14,26 @@ sensitivity: "none"
 
 answer: "누군가가 여러분에게 빚을 지거나 여러분의 물건을 손상시켰고 그 금액이 RM5,000을 초과하지 아니한다면, 여러분은 법원규칙 2012(Rules of Court 2012) 제93명령에 따라 치안판사법원(Magistrates' Court)에 소액 청구를 제기할 수 있습니다 — 변호사 없이. 여러분은 양식 198(Writ)을 4부 작성하고, RM20의 수수료를 내며, 영장을 피고에게 송달하고, 치안판사 앞의 심리에 출석합니다. 판결은 상소권 없이 종국적입니다. RM5,000을 초과하는 청구에 대해서는 통상의 민사 절차를 사용하여야 합니다."
 keyTakeaways:
-  - "Prosedur tuntutan kecil (Aturan 93, Kaedah-Kaedah Mahkamah 2012) hanya untuk plaintif individu, dan hanya jika jumlah dituntut tidak melebihi RM5,000."
-  - "Tiada peguam dibenarkan mewakili mana-mana pihak semasa perbicaraan — anda mewakili diri sendiri di hadapan Majistret."
-  - "Tuntutan difailkan dalam Borang 198 (Writ) sebanyak 4 salinan dengan fi RM20; penyampaian writ dan pemfailan Afidavit Penyampaian dikenakan RM8."
-  - "Defendan mesti memfailkan pembelaan (Borang 199) dalam tempoh 14 hari dari tarikh penyampaian; kegagalan membolehkan penghakiman ingkar dimasukkan."
-  - "Penghakiman Majistret adalah muktamad — tiada rayuan ke mahkamah lebih tinggi; kos maksimum yang boleh diaward hanyalah RM100."
-appliesTo: "Individu di Malaysia yang ingin menuntut hutang, ganti rugi, atau bayaran tertunggak bernilai RM5,000 ke bawah tanpa melantik peguam."
+  - "소액 청구 절차(법원규칙 2012 제93명령)는 개인 원고만을 위한 것이며, 청구 금액이 RM5,000을 초과하지 아니하는 경우에만 가능합니다."
+  - "심리 중에는 어느 당사자에 대해서도 변호사 대리가 허용되지 아니합니다 — 여러분은 치안판사 앞에서 스스로를 대리합니다."
+  - "청구는 양식 198(영장) 4부로 RM20의 수수료와 함께 제출되며; 영장 송달과 송달 진술서 제출에는 RM8이 부과됩니다."
+  - "피고는 송달일로부터 14일 이내에 답변서(양식 199)를 제출하여야 하며; 이를 하지 아니하면 궐석 판결이 내려질 수 있습니다."
+  - "치안판사의 판결은 종국적이며 — 상급 법원으로의 상소가 없습니다; 부여될 수 있는 최대 비용은 RM100에 불과합니다."
+appliesTo: "변호사를 선임하지 아니하고 RM5,000 이하의 빚, 손해배상 또는 미지급금을 청구하려는 말레이시아의 개인."
 
 faq:
-  - q: "Bolehkah syarikat memfailkan tuntutan kecil?"
-    a: "Tidak. Prosedur tuntutan kecil hanya terbuka kepada plaintif individu (termasuk rakan kongsi sesuatu perkongsian). Syarikat atau perkongsian liabiliti terhad tidak boleh memulakan tuntutan kecil, tetapi boleh menjadi defendan. Menurut panduan rasmi Mahkamah Malaysia, kedua-dua pihak tidak boleh diwakili peguam kecuali apabila defendan dikehendaki undang-undang diwakili oleh seorang yang diberi kuasa (authorized person)."
-  - q: "Berapakah fi untuk memfailkan tuntutan kecil?"
-    a: "Fi memfailkan Writ (Borang 198) ialah RM20. Penyampaian writ berserta pemfailan Afidavit Penyampaian dikenakan RM8. Fi-fi lain mengikut jenis borang, contohnya Borang 199 (Pembelaan) RM8 dan Borang 208 (Notis Tunjuk Sebab) RM20."
-  - q: "Perlukah saya lantik peguam?"
-    a: "Tidak — malah anda tidak dibenarkan diwakili peguam semasa perbicaraan. Anda boleh berunding dengan peguam di luar mahkamah, tetapi anda sendiri yang membentangkan kes di hadapan Majistret."
-  - q: "Bolehkah saya merayu jika kalah?"
-    a: "Tidak. Penghakiman Majistret dalam tuntutan kecil adalah muktamad dan tiada pihak boleh merayu ke mahkamah lebih tinggi. Defendan yang penghakiman ingkar dimasukkan terhadapnya boleh memohon mengetepikan penghakiman itu melalui Borang 205, tetapi itu berbeza daripada rayuan."
-  - q: "Bagaimana jika tuntutan saya melebihi RM5,000?"
-    a: "Ia tidak layak untuk prosedur tuntutan kecil. Anda perlu memfailkannya sebagai guaman sivil biasa — di Mahkamah Majistret untuk tuntutan sehingga RM100,000, atau Mahkamah Sesyen untuk sehingga RM1,000,000 — dan di peringkat itu perwakilan peguam dibenarkan."
-  - q: "Apa berlaku jika saya menang tetapi defendan enggan membayar?"
-    a: "Anda memfailkan notis tunjuk sebab (Borang 208). Selepas itu mahkamah boleh mengeluarkan writ penyitaan dan penjualan (Borang 84) terhadap harta penghutang penghakiman, membenarkan bayaran ansuran, atau memerintahkan penghutang dikomitkan ke penjara."
+  - q: "회사가 소액 청구를 제기할 수 있습니까?"
+    a: "아니요. 소액 청구 절차는 개인 원고(조합의 조합원 포함)에게만 열려 있습니다. 회사나 유한책임조합은 소액 청구를 개시할 수 없으나, 피고는 될 수 있습니다. 말레이시아 법원의 공식 지침에 따르면, 피고가 법에 의해 권한 있는 자(authorized person)에 의해 대리되도록 요구되는 경우를 제외하고는 양측 모두 변호사의 대리를 받을 수 없습니다."
+  - q: "소액 청구를 제기하는 수수료는 얼마입니까?"
+    a: "영장(양식 198) 제출 수수료는 RM20입니다. 영장 송달과 송달 진술서 제출에는 RM8이 부과됩니다. 그 밖의 수수료는 양식 종류에 따르며, 예를 들어 양식 199(답변서)는 RM8, 양식 208(소명 통지)은 RM20입니다."
+  - q: "변호사를 선임하여야 합니까?"
+    a: "아니요 — 오히려 심리 중에는 변호사의 대리를 받을 수 없습니다. 법원 밖에서 변호사와 상담할 수 있으나, 치안판사 앞에서는 여러분 스스로가 사건을 제시합니다."
+  - q: "지면 상소할 수 있습니까?"
+    a: "아니요. 소액 청구에서 치안판사의 판결은 종국적이며 어느 당사자도 상급 법원에 상소할 수 없습니다. 궐석 판결이 내려진 피고는 양식 205로 그 판결의 취소를 신청할 수 있으나, 이는 상소와 다릅니다."
+  - q: "제 청구가 RM5,000을 초과하면 어떻게 됩니까?"
+    a: "소액 청구 절차의 자격이 없습니다. 이를 통상의 민사 소송으로 제기하여야 하며 — RM100,000까지의 청구는 치안판사법원에, RM1,000,000까지는 지방법원에 — 그 단계에서는 변호사 대리가 허용됩니다."
+  - q: "제가 이겼으나 피고가 지급을 거부하면 어떻게 됩니까?"
+    a: "소명 통지(양식 208)를 제출합니다. 그 후 법원은 판결 채무자의 재산에 대한 압류·매각 영장(양식 84)을 발하거나, 분할 납부를 허용하거나, 채무자를 수감하도록 명령할 수 있습니다."
 
 lang: "ko"
 sourceContentHash: "7f497323fdf0e52a"
@@ -54,7 +54,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Anggaran perbicaraan ditetapkan 'dalam masa sebulan' dari pemfailan writ — ini anggaran sumber peguam, bukan tempoh berkanun; bergantung pada jadual mahkamah."
+  - "심리가 영장 제출로부터 '한 달 안에' 잡힌다는 추정 — 이는 법정 기간이 아니라 변호사 출처의 추정이며; 법원 일정에 달려 있습니다."
 
 updated: 2026-08-14
 sources:

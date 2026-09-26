@@ -14,20 +14,20 @@ sensitivity: "health"
 
 answer: "전염병 예방 및 통제법 1988(Prevention and Control of Infectious Diseases Act 1988, Act 342)은 말레이시아의 전염병 예방 및 통제에 관한 법률을 통합한 연방 법률입니다. 1988년 8월 13일에 국왕 재가를 받고 1989년 4월 1일에 말레이시아 전역에서 시행되었습니다. 이 법은 보건부 장관(Menteri Kesihatan), 보건총국장(Ketua Pengarah Kesihatan) 및 권한을 부여받은 공무원에게 지역 감염지역(kawasan jangkitan tempatan)을 선포하고, 검역·격리·감시를 명령하며, 규칙을 제정할 권한을 부여합니다 — 코로나19 팬데믹 당시 이동통제령(PKP)의 법적 근거가 된 권한입니다."
 keyTakeaways:
-  - "Akta 342 diberi perkenan diraja pada 13 Ogos 1988 dan berkuat kuasa di seluruh Malaysia pada 1 April 1989 (P.U. (B) 179/1989)."
-  - "Seksyen 11 membenarkan Menteri mengisytiharkan sesuatu kawasan sebagai kawasan jangkitan tempatan dan membuat peraturan mengawal pergerakan di dalam atau dari kawasan itu."
-  - "Jadual Pertama menyenaraikan penyakit berjangkit yang dilindungi (Bahagian I diberi nombor 1 hingga 30; Bahagian II menyenaraikan jangkitan HIV); COVID-19 dimasukkan pada 2020 melalui P.U. (A) 179/2020, dan muncul sebagai item 3A dalam teks kemas kini bahasa Inggeris terbitan Pejabat Peguam Negara."
-  - "Seksyen 24 memperuntukkan penalti am, manakala Seksyen 25 membenarkan pengkompaunan kesalahan sehingga RM1,000 (kadar dalam teks asal akta)."
-  - "PKP Mac 2020 diasaskan pada Akta 342 menerusi Perintah Pengisytiharan Kawasan Jangkitan Tempatan 2020 dan Peraturan-Peraturan Langkah-Langkah di dalam Kawasan Jangkitan Tempatan di bawah subseksyen 11(2)."
-appliesTo: "Rakyat Malaysia, pengamal perubatan, peniaga dan sesiapa yang ingin memahami kuasa kesihatan awam kerajaan semasa wabak penyakit berjangkit."
+  - "Akta 342는 1988년 8월 13일에 국왕 재가를 받고 1989년 4월 1일에 말레이시아 전역에서 시행되었습니다(P.U. (B) 179/1989)."
+  - "제11조는 장관이 어떤 지역을 지역 감염지역으로 선포하고 그 지역 안 또는 그 지역으로부터의 이동을 통제하는 규칙을 제정할 수 있게 합니다."
+  - "부칙 제1부는 대상 전염병을 열거합니다(제1편은 1번부터 30번까지 번호가 매겨지고; 제2편은 HIV 감염을 열거); 코로나19는 2020년에 P.U. (A) 179/2020을 통하여 삽입되었으며, 검찰청이 발행한 영어 갱신 텍스트에서 항목 3A로 나타납니다."
+  - "제24조는 일반 처벌을 규정하고, 제25조는 최대 RM1,000까지의 범죄 약식 처분을 허용합니다(이 법 원문의 요율)."
+  - "2020년 3월 이동통제령(PKP)은 제11조(2)에 따른 지역 감염지역 선포 명령 2020과 지역 감염지역 내 조치 규칙을 통하여 Akta 342에 근거하였습니다."
+appliesTo: "전염병 유행 시 정부의 공중보건 권한을 이해하고자 하는 말레이시아 국민, 의료인, 상인, 그리고 모든 사람."
 
 faq:
-  - q: "Bilakah Akta 342 mula berkuat kuasa?"
-    a: "Ia diberi perkenan diraja pada 13 Ogos 1988, diwartakan pada 8 September 1988, dan berkuat kuasa di seluruh Malaysia pada 1 April 1989 menerusi P.U. (B) 179/1989."
-  - q: "Adakah Akta 342 asas undang-undang bagi PKP COVID-19?"
-    a: "Ya. Kawasan jangkitan tempatan diisytiharkan di bawah Seksyen 11, dan langkah sekatan pergerakan ditetapkan melalui Peraturan-Peraturan Langkah-Langkah di dalam Kawasan Jangkitan Tempatan (No. 2) 2020 yang diwartakan pada 31 Mac 2020 di bawah subseksyen 11(2)."
-  - q: "Apakah hukuman jika melanggar arahan di bawah akta ini?"
-    a: "Bagi kesalahan tanpa penalti khusus, Seksyen 24 memperuntukkan penjara sehingga dua tahun atau denda atau kedua-duanya bagi kesalahan pertama. Seksyen 25 pula membenarkan pengkompaunan sehingga RM1,000 di bawah teks asal akta. Kadar ini menjadi subjek pindaan yang diluluskan Dewan Rakyat pada 2024."
+  - q: "Akta 342는 언제 시행되었습니까?"
+    a: "1988년 8월 13일에 국왕 재가를 받고, 1988년 9월 8일에 관보에 게재되었으며, P.U. (B) 179/1989를 통하여 1989년 4월 1일에 말레이시아 전역에서 시행되었습니다."
+  - q: "Akta 342가 코로나19 이동통제령(PKP)의 법적 근거입니까?"
+    a: "예. 지역 감염지역은 제11조에 따라 선포되었고, 이동 제한 조치는 제11조(2)에 따라 2020년 3월 31일에 관보에 게재된 지역 감염지역 내 조치(제2호)규칙 2020을 통하여 정해졌습니다."
+  - q: "이 법에 따른 지시를 위반하면 처벌은 무엇입니까?"
+    a: "특정 처벌이 없는 범죄의 경우, 제24조는 초범에 대하여 최대 2년의 징역 또는 벌금 또는 그 병과를 규정합니다. 제25조는 이 법 원문에 따라 최대 RM1,000까지의 약식 처분을 허용합니다. 이 요율은 2024년 하원이 통과시킨 개정의 대상이 되었습니다."
 
 lang: "ko"
 sourceContentHash: "e9a7651147874f41"
@@ -41,8 +41,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Label item COVID-19 dalam teks warta Bahasa Melayu Jadual Pertama (teks kemas kini bahasa Inggeris terbitan Pejabat Peguam Negara memberi item 3A; sesetengah rujukan menyebut 17A bagi susunan abjad teks Melayu). Sahkan penomboran teks Melayu sebelum terbit."
-  - "Status penguatkuasaan pindaan 2024 (sama ada telah diwartakan dan berkuat kuasa). Kadar penalti operasi terkini bergantung pada tarikh kuat kuasa instrumen berkenaan."
+  - "부칙 제1부의 말레이어 관보 텍스트에서 코로나19 항목 표기(검찰청이 발행한 영어 갱신 텍스트는 항목 3A로 하며; 일부 참조는 말레이어 텍스트의 알파벳 순서상 17A로 언급). 게재하기 전에 말레이어 텍스트의 번호를 확인하여야 합니다."
+  - "2024년 개정의 시행 상태(관보에 게재되어 시행되었는지 여부). 최신 운용 처벌 요율은 해당 문서의 시행일에 달려 있습니다."
 revisions:
   - revision: 0
     date: 2026-08-07

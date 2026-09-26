@@ -13,12 +13,12 @@ sensitivity: "constitution"
 
 answer: "연방헌법은 어느 조항을 바꾸느냐에 따라 네 가지 서로 다른 방식으로 개정할 수 있습니다. 대부분의 개정은 하원(Dewan Rakyat)과 상원(Dewan Negara) 양원에서 3분의 2 다수를 필요로 합니다(제159조 제3항). 기술적이거나 부수적인 개정의 짧은 목록은 단순 과반수만으로 충분합니다(제159조 제4항). 통치자의 특권, 시민권, 국어(national language), 또는 말레이인·원주민의 특별한 지위에 관한 개정은 통치자 회의(Conference of Rulers)의 동의도 필요로 합니다(제159조 제5항). 그리고 말레이시아 데이(Malaysia Day) 당시 사바(Sabah)와 사라왁(Sarawak)을 위해 유보된 특정 사항에 영향을 미치는 개정은 해당 주 주지사(Yang di-Pertua Negeri)의 동의를 필요로 합니다(제161E조 제2항)."
 keyTakeaways:
-  - "Article 159(3) sets the default rule: a two-thirds majority of the total membership of each House on Second and Third Reading"
-  - "Article 159(4) excepts a narrow set of amendments from that two-thirds requirement, letting them pass by simple majority"
-  - "Article 159(5) requires the Conference of Rulers' consent for amendments to Article 10(4), Part III, Article 38, 63(4), 70, 71(1), 72(4), 152, 153, or Clause (5) itself"
-  - "Article 161E(2) requires the concurrence of Sabah's or Sarawak's Yang di-Pertua Negeri for amendments affecting five specific matters reserved to those states at Malaysia Day"
-  - "Some subject matter — citizenship, language, native treatment — falls under both the Conference of Rulers list and the Sabah/Sarawak list, so a single amendment can need both consents"
-appliesTo: "Anyone who wants to know, provision by provision, what it actually takes in Parliament to change a given part of the Federal Constitution."
+  - "제159조 제3항은 기본 규칙을 정합니다. 즉 제2독회 및 제3독회에서 각 원 총 재적의 3분의 2 다수입니다"
+  - "제159조 제4항은 좁은 범위의 개정을 그 3분의 2 요건에서 제외하여, 단순 과반수로 통과될 수 있게 합니다"
+  - "제159조 제5항은 제10조 제4항, 제3편, 제38조, 제63조 제4항, 제70조, 제71조 제1항, 제72조 제4항, 제152조, 제153조, 또는 제5항 자체에 대한 개정에 통치자 회의(Conference of Rulers)의 동의를 요구합니다"
+  - "제161E조 제2항은 말레이시아 데이 당시 사바 또는 사라왁에 유보된 다섯 가지 특정 사항에 영향을 미치는 개정에 해당 주 주지사(Yang di-Pertua Negeri)의 동의를 요구합니다"
+  - "일부 대상 사항 — 시민권, 언어, 원주민의 대우 — 은 통치자 회의 목록과 사바/사라왁 목록에 모두 해당하므로, 하나의 개정이 두 동의를 모두 필요로 할 수 있습니다"
+appliesTo: "연방헌법의 특정 부분을 바꾸는 데 의회에서 실제로 무엇이 필요한지를 조항별로 알고자 하는 모든 사람."
 
 lang: "ko"
 sourceContentHash: "34255dffcbbb4b20"

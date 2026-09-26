@@ -14,12 +14,12 @@ sensitivity: "none"
 
 answer: "2023년 1월 1일부터 고용법 1955(Employment Act 1955)는 근로계약을 체결한 말레이시아 반도의 모든 사람을 적용 대상으로 하며, 적용에 임금 기준은 없습니다. 월 RM4,000을 초과하면 여섯 개 조항 — 제60(3)조, 제60A(3)조, 제60C(2A)조, 제60D(3)조, 제60D(4)조, 제60J조 — 이 적용을 중단합니다. 이 법이 월 RM2,000 이하를 버는 근로자만 적용한다는 널리 반복되는 규칙은 그 날짜로 대체되었습니다."
 keyTakeaways:
-  - "First Schedule paragraph 1 covers any person who has entered into a contract of service — no wage floor at all."
-  - "The RM2,000 coverage rule still published by several HR sites is superseded and has been since 1 January 2023."
-  - "RM4,000 disapplies only six provisions, all of them about premium pay or termination benefits."
-  - "Commission, subsistence allowance and overtime pay are excluded when testing the RM4,000 threshold."
-  - "Manual, vehicle-operating, supervisory, vessel and domestic employees stay covered irrespective of wages."
-appliesTo: "Employers deciding whether an employee is entitled to overtime, rest-day pay or termination benefits."
+  - "제1부칙 제1항은 근로계약을 체결한 모든 사람을 적용 대상으로 하며, 임금 하한은 전혀 없습니다."
+  - "여러 인사 관련 사이트가 여전히 게시하는 RM2,000 적용 규칙은 2023년 1월 1일 이후 대체되었습니다."
+  - "RM4,000은 여섯 개 조항만 적용을 배제하며, 이들은 모두 할증 수당이나 고용 종료 급여에 관한 것입니다."
+  - "RM4,000 기준을 판단할 때 커미션, 출장 수당, 초과근무 수당은 제외됩니다."
+  - "육체 노동자, 차량 운전 근로자, 감독직 근로자, 선박 근로자, 가사 근로자는 임금과 무관하게 계속 적용 대상입니다."
+appliesTo: "근로자가 초과근무 수당, 휴게일 수당 또는 고용 종료 급여를 받을 자격이 있는지 판단하는 고용주."
 
 verificationNeeded: []
 lang: "ko"

@@ -14,20 +14,20 @@ sensitivity: "none"
 
 answer: "체티 믈라카(Chetti Melaka, 치티Chitty로도 표기)는 믈라카의 인도계 페라나칸 공동체로, 믈라카 말레이 술탄국 시대(15~16세기) 무렵 믈라카에 정착해 말레이·중국 계통의 현지 여성과 혼인한 남인도 타밀 상인의 후손입니다. 그들은 사이바(Saivite, 시바 숭배) 힌두교를 유지하면서도 말레이어, 의상, 음식을 흡수하여 독자적인 혼종 문화와, 믈라유 바자르(Melayu Bazaar), 타밀어, 중국어를 섞은 크리올을 이루었습니다. 이 공동체의 중심은 믈라카 잘란 가자 브랑(Jalan Gajah Berang)의 캄풍 체티(Kampung Chetti)입니다. 그들의 수는 점점 줄어들고 있으며, 그 유산은 이제 위협받는 것으로 여겨집니다."
 keyTakeaways:
-  - "Chetti Melaka ialah Peranakan India — keturunan pedagang Tamil zaman Kesultanan Melaka yang berkahwin dengan wanita Melayu dan Cina tempatan"
-  - "Mereka kekal beragama Hindu aliran Saivite (pemuja Dewa Siva) walaupun menyerap bahasa dan adat Melayu"
-  - "Bahasa ibunda mereka ialah kreol yang mencampurkan Melayu Bazaar, Tamil dan Cina; bahasa Tamil sendiri kini hampir hilang daripada pertuturan harian"
-  - "Kampung Chetti di Jalan Gajah Berang, Melaka diberi perlindungan sebagai kawasan warisan pada Jun 2000"
-  - "Komuniti ini susut daripada kira-kira 400 keluarga pada 1980-an kepada kurang 50 keluarga hari ini, lalu warisannya dianggap terancam"
-appliesTo: "Sesiapa yang mahu memahami secara ringkas dan tepat siapa komuniti Chetti Melaka, apa yang membezakan mereka, dan mengapa warisan mereka terancam."
+  - "체티 믈라카(Chetti Melaka)는 인도계 페라나칸으로 — 믈라카 술탄국 시대의 타밀 상인이 현지 말레이·중국 여성과 혼인한 후손입니다"
+  - "그들은 말레이어와 관습을 흡수하면서도 사이바(Saivite, 시바 신 숭배) 아류의 힌두교를 유지합니다"
+  - "그들의 모어는 믈라유 바자르(Melayu Bazaar), 타밀어, 중국어를 섞은 크리올이며, 타밀어 자체는 이제 일상 대화에서 거의 사라졌습니다"
+  - "믈라카 잘란 가자 브랑(Jalan Gajah Berang)의 캄풍 체티(Kampung Chetti)는 2000년 6월 유산 지구로 보호받게 되었습니다"
+  - "이 공동체는 1980년대 약 400가구에서 오늘날 50가구 미만으로 줄었으며, 그 유산은 위협받는 것으로 여겨집니다"
+appliesTo: "체티 믈라카 공동체가 누구이며 무엇이 그들을 구별 짓는지, 그리고 그 유산이 왜 위협받는지를 간결하고 정확하게 이해하려는 모든 사람."
 
 faq:
-  - q: "Siapakah Chetti Melaka?"
-    a: "Chetti Melaka (Chitty) ialah komuniti Peranakan India di Melaka, keturunan pedagang Tamil dari selatan India yang menetap di Melaka sekitar zaman Kesultanan Melayu Melaka dan berkahwin dengan wanita tempatan Melayu dan Cina. Mereka membentuk budaya kacukan yang berkekalan menerusi zaman penjajahan Portugis, Belanda dan British."
-  - q: "Apa agama dan bahasa Chetti Melaka?"
-    a: "Mereka beragama Hindu aliran Saivite, iaitu pemuja Dewa Siva. Bahasa ibunda mereka ialah kreol yang mencampurkan Melayu Bazaar, Tamil dan Cina; bahasa Tamil sendiri kini hampir tidak lagi dituturkan kecuali dalam upacara keagamaan."
-  - q: "Mengapa warisan Chetti Melaka dianggap terancam?"
-    a: "Bilangan komuniti ini susut mendadak — daripada kira-kira 400 keluarga pada 1980-an kepada kurang 50 keluarga hari ini menurut Lembaga Warisan Negara Singapura (Roots) — manakala sebuah laporan Free Malaysia Today menganggarkan hanya sekitar 20 hingga 30 keluarga masih tinggal di Kampung Chetti. Para pengkaji mengaitkan kemerosotan ini dengan perkahwinan campur, penghijrahan keluar, dan generasi muda yang semakin hilang hubungan dengan akar Chetti."
+  - q: "체티 믈라카는 누구입니까?"
+    a: "체티 믈라카(Chetti Melaka, 치티Chitty)는 믈라카의 인도계 페라나칸 공동체로, 믈라카 말레이 술탄국 시대 무렵 믈라카에 정착해 현지 말레이·중국 여성과 혼인한 남인도 타밀 상인의 후손입니다. 그들은 포르투갈·네덜란드·영국 식민 시대를 거치며 이어져 온 혼종 문화를 이루었습니다."
+  - q: "체티 믈라카의 종교와 언어는 무엇입니까?"
+    a: "그들은 시바 신을 숭배하는 사이바(Saivite) 아류의 힌두교를 믿습니다. 그들의 모어는 믈라유 바자르(Melayu Bazaar), 타밀어, 중국어를 섞은 크리올이며, 타밀어 자체는 이제 종교 의식을 제외하면 거의 쓰이지 않습니다."
+  - q: "체티 믈라카의 유산은 왜 위협받는 것으로 여겨집니까?"
+    a: "이 공동체의 수는 급격히 줄었습니다 — 싱가포르 국가유산위원회(Roots)에 따르면 1980년대 약 400가구에서 오늘날 50가구 미만으로 줄었으며, 프리 말레이시아 투데이(Free Malaysia Today) 보도는 약 20~30가구만이 여전히 캄풍 체티에 산다고 추산합니다. 연구자들은 이 쇠퇴를 통혼, 역외 이주, 그리고 체티 뿌리와의 연결을 점점 잃어 가는 젊은 세대와 연관 짓습니다."
 
 lang: "ko"
 sourceContentHash: "f11ad6d038f7a742"
@@ -41,11 +41,11 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Bulan sebenar perayaan Sembahyang Dato Chachar berubah mengikut kalendar Tamil; sumber yang dipetik (The Star, 2012) merekodkan perayaan sekitar akhir April pada tahun tersebut — sahkan tarikh bagi tahun semasa."
-  - "Asas perundangan sebenar bagi perlindungan kawasan warisan Kampung Chetti pada Jun 2000 tidak dinyatakan oleh mana-mana sumber yang dipetik (perlindungan ini mendahului Akta Warisan Kebangsaan 2005)."
-  - "Kewujudan dan kandungan muzium kecil di pintu masuk Kampung Chetti belum disahkan oleh sumber utama yang dipetik."
-  - "Contoh kosa kata kreol (nenek/thatha) bersifat ilustrasi dan belum disahkan terhadap kajian linguistik yang dipetik (Grimes 1996, Noriah Mohamed 2009)."
-  - "Angka bilangan keluarga berbeza antara sumber: kurang 50 keluarga (Roots) berbanding 20–30 keluarga (Free Malaysia Today)."
+  - "슴바향 다토 차차르(Sembahyang Dato Chachar) 축제의 실제 달은 타밀력에 따라 바뀝니다. 인용된 자료(The Star, 2012)는 그해 4월 말 무렵의 축제를 기록합니다 — 해당 연도의 날짜를 확인하십시오."
+  - "2000년 6월 캄풍 체티 유산 지구 보호의 실제 법적 근거는 인용된 어떤 자료에서도 밝혀지지 않았습니다(이 보호는 국가유산법(Akta Warisan Kebangsaan 2005)보다 앞섭니다)."
+  - "캄풍 체티 입구의 작은 박물관의 존재와 소장 내용은 인용된 1차 자료로 아직 확인되지 않았습니다."
+  - "크리올 어휘 예시(nenek/thatha)는 예시적 성격이며, 인용된 언어학 연구(Grimes 1996, Noriah Mohamed 2009)에 대조하여 아직 확인되지 않았습니다."
+  - "가구 수치는 자료마다 다릅니다. 50가구 미만(Roots) 대 20~30가구(Free Malaysia Today)입니다."
 revisions:
   - revision: 0
     date: 2026-08-01

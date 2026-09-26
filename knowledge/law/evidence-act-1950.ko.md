@@ -14,20 +14,20 @@ sensitivity: "legal-proceedings"
 
 answer: "증거법(Evidence Act 1950, Akta 56)은 선서진술서와 중재 절차를 제외하고(제2조) 말레이시아 법원의 모든 사법 절차에 대한 증거법을 정의하는 주요 법령입니다. 이 법은 사실의 증거능력(관련성, 자백, 제90A조의 컴퓨터 문서), 입증 책임(제101조~제114조), 추정(제4조), 그리고 변호사와 의뢰인 간 통신(제126조)이나 부부 간 통신(제122조)과 같이 특권으로 보호되는 통신을 규율하는 167개 조로 구성됩니다."
 keyTakeaways:
-  - "Akta ini terpakai kepada semua prosiding kehakiman di mahkamah, tetapi bukan kepada afidavit atau prosiding di hadapan penimbang tara (s2)."
-  - "Keterangan hanya boleh diberikan tentang fakta persoalan dan fakta relevan, 'dan tiada yang lain' (s5)."
-  - "Beban bukti terletak pada pihak yang akan kalah jika tiada keterangan langsung diberikan oleh mana-mana pihak (s102)."
-  - "Seksyen 90A membenarkan dokumen yang dihasilkan komputer diterima sebagai keterangan jika dihasilkan dalam penggunaan biasa, disokong sijil di bawah s90A(2)."
-  - "Peguam bela tidak boleh mendedahkan komunikasi anak guam tanpa keizinan nyata anak guam, tertakluk kepada proviso tujuan menyalahi undang-undang (s126)."
-appliesTo: "Pihak yang berperkara, peguam, pelajar undang-undang, wartawan mahkamah, dan sesiapa yang ingin memahami kaedah bukti di mahkamah Malaysia."
+  - "이 법은 법원의 모든 사법 절차에 적용되나, 선서진술서 또는 중재인 앞의 절차에는 적용되지 아니합니다(제2조)."
+  - "증거는 요증 사실과 관련 사실에 대해서만 제출될 수 있으며, '그 외에는 안 됩니다'(제5조)."
+  - "입증 책임은 어느 당사자도 직접적인 증거를 제출하지 아니할 경우 패소하게 될 당사자에게 있습니다(제102조)."
+  - "제90A조는 컴퓨터로 생성된 문서가 통상적 사용 과정에서 생성된 경우, 제90A(2)조상의 증명서로 뒷받침되어 증거로 인정될 수 있게 합니다."
+  - "변호사는 의뢰인의 명시적 동의 없이 의뢰인의 통신을 공개할 수 없으며, 이는 불법적 목적에 관한 단서를 조건으로 합니다(제126조)."
+appliesTo: "소송 당사자, 변호사, 법학도, 법원 출입 기자, 그리고 말레이시아 법원의 증거 규칙을 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Adakah Akta Keterangan 1950 terpakai di Sabah dan Sarawak?"
-    a: "Ya. Akta ini mula berkuat kuasa di Semenanjung Malaysia pada 23 Mei 1950 (Ordinan No. 11 Tahun 1950) dan diperluas ke Sabah serta Sarawak pada 1 November 1971 melalui P.U.(A) 261/1971."
-  - q: "Apakah perbezaan antara 'mahkamah boleh menganggap' dan 'mahkamah hendaklah menganggap'?"
-    a: "Di bawah s4, apabila Akta menyatakan mahkamah 'boleh menganggap' sesuatu fakta, mahkamah boleh menerimanya sebagai terbukti sehingga disangkal atau menuntut pembuktiannya. Apabila Akta mengarahkan mahkamah 'hendaklah menganggap', mahkamah wajib menerimanya sebagai terbukti sehingga disangkal."
-  - q: "Bolehkah pengakuan salah kepada polis diterima di mahkamah?"
-    a: "Seksyen 25 menyatakan pengakuan salah kepada pegawai polis berpangkat lebih rendah daripada Inspektor tidak boleh dibuktikan terhadap tertuduh, tertakluk kepada peruntukan bertulis yang nyata. Seksyen 24 pula menjadikan pengakuan tidak relevan jika ia disebabkan dorongan, ancaman atau janji daripada orang yang berkuasa."
+  - q: "증거법 1950은 사바와 사라왁에 적용됩니까?"
+    a: "예. 이 법은 1950년 5월 23일 말레이반도에서 시행되기 시작하여(1950년 제11호 조례), 1971년 11월 1일 P.U.(A) 261/1971을 통하여 사바와 사라왁으로 확대되었습니다."
+  - q: "'법원이 추정할 수 있다'와 '법원이 추정하여야 한다'의 차이는 무엇입니까?"
+    a: "제4조에 따라, 이 법이 법원이 어떤 사실을 '추정할 수 있다'고 규정하면, 법원은 반증이 있을 때까지 그것을 입증된 것으로 받아들이거나 그 입증을 요구할 수 있습니다. 이 법이 법원에 '추정하여야 한다'고 지시하면, 법원은 반증이 있을 때까지 그것을 입증된 것으로 받아들여야 합니다."
+  - q: "경찰에 대한 자백이 법정에서 인정될 수 있습니까?"
+    a: "제25조는 경위(Inspector) 미만 계급의 경찰관에 대한 자백이, 명시적인 성문 규정을 조건으로, 피고인에게 불리하게 입증될 수 없다고 규정합니다. 제24조는 자백이 권한 있는 자의 유도, 위협 또는 약속에서 비롯된 경우 이를 관련성이 없는 것으로 만듭니다."
 
 lang: "ko"
 sourceContentHash: "8f64848838376657"
@@ -47,9 +47,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada pindaan selepas 1 Disember 2012 (portal rasmi Pejabat Peguam Negara menyenaraikan versi sehingga November 2024) mengubah bilangan atau kandungan mana-mana seksyen yang dirujuk; semak terhadap teks rasmi terkini di lom.agc.gov.my."
-  - "Kata-kata tepat versi Bahasa Melayu bagi setiap seksyen yang dipetik — angka dan huraian dalam draf ini disahkan terhadap teks Inggeris cetakan semula, manakala artikel ini berbahasa Melayu (master ms)."
-  - "Tarikh cetakan semula rasmi terkini serta pautan PDF muat turun rasmi dari portal Pejabat Peguam Negara untuk rujukan arkib (portal menyenaraikan versi tetapi tidak mendedahkan pautan PDF langsung)."
+  - "2012년 12월 1일 이후의 개정(법무장관실 공식 포털은 2024년 11월까지의 버전을 열거)이 인용된 조항의 번호나 내용을 변경하였는지 여부; lom.agc.gov.my의 최신 공식 본문에 대조하여 확인하여야 합니다."
+  - "인용된 각 조항의 말레이어판 정확한 문언 — 이 초안의 수치와 설명은 재발행본의 영문 본문에 대조하여 확인되었으나, 이 문서는 말레이어로 작성되었습니다(master ms)."
+  - "최신 공식 재발행본 날짜 및 아카이브 참조를 위한 법무장관실 포털의 공식 PDF 다운로드 링크(포털은 버전을 열거하나 직접적인 PDF 링크를 공개하지 아니함)."
 
 updated: 2026-08-07
 sources:

@@ -14,21 +14,21 @@ sensitivity: "legal-proceedings"
 
 answer: "형사소송법(Criminal Procedure Code, Akta 593), 줄여서 KTJ는 말레이시아에서 형사 사건의 모든 단계를 규율하는 절차법입니다. 이 법은 체포가 어떻게 이루어지는지와 체포된 사람의 권리(제15조 및 제28A조), 기소 없는 구금의 한계, 즉 치안판사(Majistret) 앞에서 리만을 신청해야 하기까지의 24시간(제117조), 보석 가능 범죄와 보석 불가 범죄의 보석 자격(제387조 및 제388조), 그리고 유죄판결 또는 석방에 이르기까지 공소사실이 낭독되고 재판이 진행되는 방식을 정합니다. KTJ는 범죄 자체를 규정하는 형법전(Penal Code)의 절차적 짝입니다."
 keyTakeaways:
-  - "KTJ (Akta 593) mengawal prosedur, bukan mentakrifkan jenayah — Kanun Keseksaan mentakrifkan kesalahan, KTJ menetapkan bagaimana ia disiasat dan dibicarakan."
-  - "Seksyen 28A KTJ mengekod hak orang yang ditangkap: dimaklumkan sebab tangkapan, menghubungi saudara atau peguam, dan berunding dengan peguam pilihan."
-  - "Polis tidak boleh menahan melebihi 24 jam tanpa perintah reman Majistret di bawah seksyen 117."
-  - "Reman maksimum ialah 7 hari bagi kesalahan yang boleh dihukum penjara kurang 14 tahun, dan 14 hari bagi kesalahan hukuman mati atau penjara 14 tahun ke atas."
-  - "Kesalahan boleh jamin (seksyen 387) memberi hak kepada jamin; kesalahan tidak boleh jamin (seksyen 388) tertakluk kepada budi bicara Mahkamah."
-  - "Pada akhir perbicaraan Mahkamah mensabitkan hanya jika pihak pendakwaan membuktikan kes melampaui keraguan munasabah (seksyen 182A)."
-appliesTo: "Orang awam, tertuduh dan keluarga, wartawan, pelajar undang-undang, dan sesiapa yang ingin memahami aliran prosedur jenayah di Malaysia."
+  - "KTJ(Akta 593)는 절차를 규율하며 범죄를 규정하지 아니합니다 — 형법전(Penal Code)이 범죄를 규정하고, KTJ는 그것이 어떻게 수사되고 재판되는지를 정합니다."
+  - "KTJ 제28A조는 체포된 사람의 권리를 성문화합니다. 즉 체포 사유를 통지받고, 친족이나 변호인에게 연락하며, 선임한 변호인과 상의할 권리입니다."
+  - "경찰은 제117조에 따른 치안판사(Majistret)의 리만 명령 없이는 24시간을 초과하여 구금할 수 없습니다."
+  - "최대 리만 기간은 징역 14년 미만에 처하는 범죄에 대해서는 7일, 사형 또는 징역 14년 이상의 범죄에 대해서는 14일입니다."
+  - "보석 가능 범죄(제387조)는 보석의 권리를 부여하며; 보석 불가 범죄(제388조)는 법원의 재량에 따릅니다."
+  - "재판이 끝날 때 법원은 검찰이 그 사건을 합리적 의심을 넘어 입증한 경우에만 유죄판결을 내립니다(제182A조)."
+appliesTo: "일반 국민, 피고인과 그 가족, 언론인, 법학도, 그리고 말레이시아의 형사 절차 흐름을 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Berapa lama polis boleh menahan seseorang sebelum membawanya ke mahkamah?"
-    a: "Tidak melebihi 24 jam (tidak termasuk masa perjalanan yang perlu ke mahkamah). Untuk menahan lebih lama, polis mesti membawa orang itu di hadapan Majistret dan memohon perintah reman di bawah seksyen 117 KTJ."
-  - q: "Apakah beza kesalahan boleh jamin dan tidak boleh jamin?"
-    a: "Bagi kesalahan boleh jamin (seksyen 387), tertuduh berhak diikat jamin. Bagi kesalahan tidak boleh jamin (seksyen 388), pemberian jamin adalah mengikut budi bicara Mahkamah; bagi kesalahan yang boleh dihukum mati atau penjara seumur hidup, jamin secara amnya tidak diberikan tertakluk kepada pengecualian tertentu."
-  - q: "Apakah maksud 'kes prima facie' dalam perbicaraan?"
-    a: "Ia bermaksud pihak pendakwaan telah mengemukakan keterangan yang, jika tidak dipatahkan atau tidak dijelaskan, akan mewajarkan sabitan. Jika kes prima facie dibuktikan, tertuduh diarah membela diri; jika tidak, tertuduh dibebaskan."
+  - q: "경찰은 법원에 인치하기 전에 사람을 얼마나 오래 구금할 수 있습니까?"
+    a: "24시간을 초과할 수 없습니다(법원까지 이동하는 데 필요한 시간은 제외). 더 오래 구금하려면, 경찰은 그 사람을 치안판사 앞으로 인치하여 KTJ 제117조에 따른 리만 명령을 신청하여야 합니다."
+  - q: "보석 가능 범죄와 보석 불가 범죄의 차이는 무엇입니까?"
+    a: "보석 가능 범죄(제387조)의 경우, 피고인은 보석될 권리가 있습니다. 보석 불가 범죄(제388조)의 경우, 보석의 허가는 법원의 재량에 따르며; 사형 또는 무기징역에 처하는 범죄의 경우 특정 예외를 조건으로 보석은 일반적으로 허용되지 아니합니다."
+  - q: "재판에서 '일응의 사건(prima facie)'이란 무엇을 의미합니까?"
+    a: "이는 검찰이, 반박되거나 해명되지 아니하면 유죄판결을 정당화할 증거를 제출하였음을 의미합니다. 일응의 사건이 입증되면 피고인은 방어하도록 명령받고; 그렇지 아니하면 피고인은 석방됩니다."
 
 lang: "ko"
 sourceContentHash: "5c000067f01e0ea2"
@@ -42,7 +42,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Kemas kini Akta 593 (setakat 18.10.2021 dalam pautan) perlu disemak sama ada masih cetakan terkini pada tarikh penerbitan."
+  - "Akta 593의 갱신본(링크상 2021년 10월 18일 기준)이 게재일에 여전히 최신 재발행판인지 확인하여야 합니다."
 revisions:
   - revision: 0
     date: 2026-08-07

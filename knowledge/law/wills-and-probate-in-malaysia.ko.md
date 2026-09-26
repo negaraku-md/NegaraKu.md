@@ -14,25 +14,25 @@ sensitivity: "none"
 
 answer: "말레이시아의 비무슬림에게, 유언은 유언법 1959(Wills Act 1959)의 규율을 받으며 유언자가 동시에 참석한 두 명의 증인 앞에서 서명하여야 합니다. 유효한 유언이 있으면 유언집행자가 검인장(Grant of Probate)을 신청하고; 없으면 상속인이 검인·유산관리법 1959(Probate and Administration Act 1959)에 따라 유산관리 위임장(Letters of Administration)을 신청합니다. 유언이 없으면, 재산은 분배법 1958(Distribution Act 1958)의 고정 산식에 따라 배우자, 자녀(직계비속) 및 부모에게 분배됩니다."
 keyTakeaways:
-  - "Akta Wasiat 1959 dan Akta Pembahagian 1958 hanya terpakai kepada bukan Islam; harta pusaka orang Islam dikawal undang-undang Syariah."
-  - "Wasiat sah memerlukan pewasiat berumur sekurang-kurangnya 18 tahun, sempurna akal, dan menandatangani di hadapan dua saksi yang hadir serentak dan turut menandatangani."
-  - "Saksi (atau pasangan saksi) yang menjadi benefisiari akan menyebabkan pemberian kepadanya terbatal, walaupun wasiat itu sendiri kekal sah."
-  - "Wasiat terbatal secara automatik apabila pewasiat berkahwin atau memeluk Islam."
-  - "Tanpa wasiat, Akta Pembahagian 1958 membahagikan harta mengikut pecahan tetap — contohnya pasangan 1/3 dan anak 2/3 jika ada pasangan dan anak."
-  - "Pusaka kecil bernilai tidak melebihi RM5 juta boleh ditadbir melalui Unit Pembahagian Pusaka Kecil di pejabat tanah; sejak pindaan Akta Pusaka Kecil (Pembahagian) 1955 berkuat kuasa 15 Julai 2024, pusaka tidak lagi perlu mengandungi harta tak alih untuk melayakkan laluan ini."
-appliesTo: "Individu bukan Islam di Malaysia yang merancang harta pusaka, wasi, pentadbir, dan waris."
+  - "유언법 1959와 분배법 1958은 비무슬림에게만 적용되며; 무슬림의 상속 재산은 샤리아법의 규율을 받습니다."
+  - "유효한 유언은 유언자가 18세 이상이고, 온전한 정신이며, 동시에 참석하여 함께 서명하는 두 증인 앞에서 서명할 것을 요구합니다."
+  - "수익자가 되는 증인(또는 증인의 배우자)은 그에 대한 유증을 무효로 만들지만, 유언 자체는 유효하게 유지됩니다."
+  - "유언은 유언자가 혼인하거나 이슬람교로 개종하면 자동으로 무효가 됩니다."
+  - "유언이 없으면, 분배법 1958은 재산을 고정된 비율로 분배합니다 — 예를 들어 배우자와 자녀가 있으면 배우자 1/3, 자녀 2/3입니다."
+  - "500만 링깃(RM5 juta)를 초과하지 아니하는 소규모 유산은 토지사무소의 소규모 유산 분배 유닛을 통하여 관리될 수 있으며; 2024년 7월 15일 시행된 소규모 유산(분배)법 1955 개정 이래, 유산은 이 경로의 자격을 얻기 위하여 더 이상 부동산을 포함할 필요가 없습니다."
+appliesTo: "상속 재산을 계획하는 말레이시아의 비무슬림 개인, 유언집행자, 유산관리인, 그리고 상속인."
 
 faq:
-  - q: "Adakah wasiat yang ditulis sendiri tanpa peguam sah?"
-    a: "Ya. Akta Wasiat 1959 tidak mewajibkan peguam. Yang penting pewasiat berumur sekurang-kurangnya 18 tahun dan sempurna akal, wasiat ditandatangani di hujung dokumen, dan dua saksi yang hadir serentak turut menandatangani. Saksi tidak boleh benefisiari atau pasangan benefisiari."
-  - q: "Apa berlaku kepada harta jika seseorang bukan Islam meninggal tanpa wasiat?"
-    a: "Harta dibahagikan mengikut Seksyen 6 Akta Pembahagian 1958. Jika ada pasangan dan anak, pasangan mendapat 1/3 dan anak berkongsi 2/3. Jika ada pasangan tanpa anak tetapi ada ibu bapa, pasangan dan ibu bapa mendapat separuh setiap satu."
-  - q: "Apa beza Geran Probet dan Surat Kuasa Mentadbir?"
-    a: "Geran Probet dikeluarkan apabila si mati meninggalkan wasiat sah, dan diberikan kepada wasi yang dinamakan. Surat Kuasa Mentadbir dikeluarkan apabila tiada wasiat sah, dan diberikan kepada waris. Kedua-duanya di bawah Akta Probet dan Pentadbiran 1959."
-  - q: "Adakah wasiat terbatal jika saya berkahwin?"
-    a: "Ya. Di bawah Akta Wasiat 1959, wasiat terbatal secara automatik apabila pewasiat berkahwin, kecuali dalam keadaan tertentu. Wasiat juga terbatal apabila pewasiat memeluk Islam. Buat wasiat baharu selepas perkahwinan."
-  - q: "Perlukah pusaka kecil melalui Mahkamah Tinggi?"
-    a: "Tidak semestinya. Pusaka bernilai tidak melebihi RM5 juta boleh ditadbir melalui Unit Pembahagian Pusaka Kecil di pejabat tanah di bawah Akta Pusaka Kecil (Pembahagian) 1955, biasanya tanpa peguam dan tanpa fi failing pejabat tanah. Sejak pindaan berkuat kuasa 15 Julai 2024, pusaka tidak lagi perlu mengandungi harta tak alih untuk melayakkan laluan ini."
+  - q: "변호사 없이 스스로 작성한 유언도 유효합니까?"
+    a: "예. 유언법 1959는 변호사를 요구하지 아니합니다. 중요한 것은 유언자가 18세 이상이고 온전한 정신이며, 유언이 문서 끝에 서명되고, 동시에 참석한 두 증인이 함께 서명하는 것입니다. 증인은 수익자나 수익자의 배우자여서는 아니 됩니다."
+  - q: "비무슬림이 유언 없이 사망하면 재산은 어떻게 됩니까?"
+    a: "재산은 분배법 1958 제6조에 따라 분배됩니다. 배우자와 자녀가 있으면 배우자가 1/3을, 자녀가 2/3를 나눠 가집니다. 배우자가 있고 자녀는 없으나 부모가 있으면, 배우자와 부모가 각각 절반을 받습니다."
+  - q: "검인장과 유산관리 위임장의 차이는 무엇입니까?"
+    a: "검인장은 사망자가 유효한 유언을 남겼을 때 발급되어 지명된 유언집행자에게 주어집니다. 유산관리 위임장은 유효한 유언이 없을 때 발급되어 상속인에게 주어집니다. 두 가지 모두 검인·유산관리법 1959에 따릅니다."
+  - q: "제가 혼인하면 유언이 무효가 됩니까?"
+    a: "예. 유언법 1959에 따라, 유언은 특정한 경우를 제외하고 유언자가 혼인하면 자동으로 무효가 됩니다. 유언은 또한 유언자가 이슬람교로 개종하면 무효가 됩니다. 혼인 후에는 새 유언을 작성하십시오."
+  - q: "소규모 유산은 고등법원을 거쳐야 합니까?"
+    a: "반드시 그렇지는 아니합니다. 500만 링깃(RM5 juta)를 초과하지 아니하는 유산은 소규모 유산(분배)법 1955에 따라 토지사무소의 소규모 유산 분배 유닛을 통하여, 보통 변호사 없이 그리고 토지사무소 접수 수수료 없이 관리될 수 있습니다. 2024년 7월 15일 시행된 개정 이래, 유산은 이 경로의 자격을 얻기 위하여 더 이상 부동산을 포함할 필요가 없습니다."
 
 lang: "ko"
 sourceContentHash: "109171c4b389867e"
@@ -52,9 +52,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Ambang RM600,000 dan syarat harta alih sahaja bagi pentadbiran ringkas Amanah Raya Berhad di bawah Akta Perbadanan Amanah Kebangsaan 1995 (Public Trust Corporation Act 1995) — sahkan angka semasa dengan Amanah Raya."
-  - "Skala fi rasmi geran surat kuasa mentadbir pusaka kecil (lingkungan RM10–RM30, atau 0.2% bagi penilaian melebihi RM50,000) — sahkan sama ada masih terpakai selepas pindaan 2022."
-  - "Peruntukan pusaka berasingan bagi Sabah dan anak negeri Sarawak — sahkan akta/ordinan khusus yang terpakai."
+  - "국가신탁공사법 1995(Public Trust Corporation Act 1995)에 따른 아마나 라야 버하드의 간이 관리에 대한 RM600,000 기준 및 동산 한정 요건 — 현재 수치를 아마나 라야에 확인하여야 합니다."
+  - "소규모 유산 유산관리 위임장 발급의 공식 수수료 체계(약 RM10–RM30, 또는 RM50,000을 초과하는 평가액에 대해서는 0.2%) — 2022년 개정 이후에도 여전히 적용되는지 확인하여야 합니다."
+  - "사바 및 사라왁 원주민에 대한 별도의 유산 규정 — 적용되는 구체적 법/조례를 확인하여야 합니다."
 updated: 2026-08-07
 sources:
   - title: "Apakah yang dimaksudkan dengan Harta Pusaka Kecil? (JKPTG FAQ) + P.U.(A) 194/2024 Peraturan-Peraturan Harta Pusaka Kecil (Pembahagian) (Pindaan) 2024"

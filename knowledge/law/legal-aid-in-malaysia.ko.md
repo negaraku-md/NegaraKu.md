@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "변호사를 선임할 여력이 없다면, 세 기관이 지원을 제공합니다. 즉 민사·가족·샤리아 및 특정 형사 사건을 위한 법률구조청(Jabatan Bantuan Guaman, JBG); 형사 사건을 위한 국가법률구조재단(Yayasan Bantuan Guaman Kebangsaan, YBGK); 그리고 변호사회 법률구조센터입니다. JBG에서는 연 소득 5만 링깃(RM50,000) 이하의 신청인이 자력 심사를 조건으로 단지 10링깃(RM10)의 등록비만으로 전액 지원을 받을 자격이 있습니다."
 keyTakeaways:
-  - "Jabatan Bantuan Guaman (JBG) beroperasi di bawah Akta Bantuan Guaman 1971 (Akta 26) dan meliputi khidmat nasihat, kes sivil, keluarga, syariah, jenayah tertentu serta pengantaraan."
-  - "Pemohon Kategori I (sumber kewangan tahunan RM50,000 dan ke bawah) hanya membayar fi pendaftaran RM10 tanpa sumbangan."
-  - "Pemohon Kategori II (melebihi RM50,001 tetapi tidak melebihi RM70,001) dan Kategori III (melebihi RM70,001) membayar fi RM10 serta sumbangan mengikut jumlah pendapatan."
-  - "YBGK memberi bantuan guaman percuma bagi kes jenayah kepada semua warganegara di peringkat tangkapan, reman dan jaminan."
-appliesTo: "Rakyat Malaysia berpendapatan rendah yang menghadapi masalah undang-undang tetapi tidak mampu mengupah peguam persendirian."
+  - "법률구조청(JBG)은 법률구조법 1971(Akta 26)에 따라 운영되며, 상담 서비스, 민사·가족·샤리아 사건, 특정 형사 사건 및 조정을 포괄합니다."
+  - "제1범주 신청인(연간 재정 자원 RM50,000 이하)은 분담금 없이 등록비 RM10만 납부합니다."
+  - "제2범주 신청인(RM50,001 초과 RM70,001 이하)과 제3범주 신청인(RM70,001 초과)은 RM10의 수수료와 소득 총액에 따른 분담금을 납부합니다."
+  - "YBGK는 체포, 구속 및 보석 단계에서 모든 국민에게 형사 사건에 대한 무료 법률 구조를 제공합니다."
+appliesTo: "법률 문제에 직면하였으나 개인 변호사를 선임할 여력이 없는 저소득 말레이시아 국민."
 
 faq:
-  - q: "Siapa yang layak mendapat bantuan guaman percuma daripada JBG?"
-    a: "Warganegara Malaysia yang lulus ujian kemampuan. Pemohon Kategori I dengan sumber kewangan tahunan RM50,000 dan ke bawah mendapat bantuan penuh dengan hanya fi pendaftaran RM10."
-  - q: "Berapakah kos memohon bantuan guaman?"
-    a: "Semua pemohon membayar fi pendaftaran RM10 sahaja. Pemohon berpendapatan lebih tinggi (Kategori II dan III) turut membayar sumbangan mengikut jumlah pendapatan tahunan mereka."
-  - q: "Apakah perbezaan antara JBG dan YBGK?"
-    a: "JBG mengendalikan kes sivil, keluarga, syariah dan jenayah tertentu, manakala YBGK memberi tumpuan kepada bantuan guaman percuma bagi kes jenayah, termasuk di peringkat tangkapan dan reman."
+  - q: "누가 JBG로부터 무료 법률 구조를 받을 자격이 있습니까?"
+    a: "자력 심사를 통과한 말레이시아 국민입니다. 연간 재정 자원 RM50,000 이하인 제1범주 신청인은 등록비 RM10만으로 전액 지원을 받습니다."
+  - q: "법률 구조를 신청하는 비용은 얼마입니까?"
+    a: "모든 신청인은 등록비 RM10만 납부합니다. 소득이 더 높은 신청인(제2범주 및 제3범주)은 연간 소득 총액에 따른 분담금도 납부합니다."
+  - q: "JBG와 YBGK의 차이는 무엇입니까?"
+    a: "JBG는 민사·가족·샤리아 및 특정 형사 사건을 다루는 반면, YBGK는 체포 및 구속 단계를 포함하여 형사 사건에 대한 무료 법률 구조에 집중합니다."
 
 lang: "ko"
 sourceContentHash: "91d7cfe993126653"
@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Jadual penuh sumbangan bagi Kategori II dan III (band pendapatan lebih tinggi) di bawah Peraturan Bantuan Guaman (Fi dan Sumbangan) 2023 — hanya band RM50,001-RM55,000 disemak secara terperinci."
-  - "Ambang ujian kemampuan RM50,000 setahun YBGK bagi peringkat perbicaraan dan rayuan — sahkan sama ada masih terpakai dan skopnya."
-  - "Skop tepat 'kes jenayah tertentu' yang dikendalikan JBG berbanding YBGK."
-  - "Nombor talian bebas tol YBGK (1 800 88 9245) — sahkan masih aktif sebelum diterbitkan."
+  - "2023년 법률구조(수수료 및 분담금)규정에 따른 제2범주 및 제3범주(더 높은 소득 구간)의 전체 분담금 일람표 — RM50,001-RM55,000 구간만 상세히 확인되었습니다."
+  - "재판 및 상소 단계에 대한 YBGK의 연 RM50,000 자력 심사 기준 — 여전히 적용되는지와 그 범위를 확인하여야 합니다."
+  - "YBGK와 대비하여 JBG가 다루는 '특정 형사 사건'의 정확한 범위."
+  - "YBGK 무료 전화 번호(1 800 88 9245) — 게재하기 전에 여전히 활성인지 확인하여야 합니다."
 
 updated: 2026-08-07
 sources:

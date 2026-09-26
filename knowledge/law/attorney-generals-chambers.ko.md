@@ -14,22 +14,22 @@ sensitivity: "none"
 
 answer: "말레이시아 법무장관(Peguam Negara)은 연방헌법(Federal Constitution) 제145조에 따라 두 가지 임무를 동시에 수행합니다. 법률고문으로서(제145조 제2항) 그는 양 디페르투안 아공(Yang di-Pertuan Agong), 내각 및 각료에게 자문합니다. 검찰총장으로서(제145조 제3항) 그는 어떠한 형사 소추든 개시·수행·중지할 절대적 재량을 보유합니다. 정부는 이 두 역할을 분리하는 방향으로 움직이고 있습니다."
 keyTakeaways:
-  - "Peguam Negara dilantik oleh Yang di-Pertuan Agong atas nasihat Perdana Menteri dan mesti layak menjadi Hakim Mahkamah Persekutuan."
-  - "Di bawah Perkara 145(5), Peguam Negara memegang jawatan selama diperkenankan oleh Yang di-Pertuan Agong dan boleh meletakkan jawatan pada bila-bila masa."
-  - "Perkara 145(3) memberi kuasa budi bicara untuk memulakan, menjalankan atau memberhentikan pendakwaan, kecuali di Mahkamah Syariah, mahkamah anak negeri dan mahkamah tentera."
-  - "Budi bicara ini dianggap mutlak; mahkamah telah menolak permohonan menyemak semula keputusan Peguam Negara untuk tidak mendakwa."
-  - "Kerajaan Madani meluluskan pemisahan peranan Peguam Negara dan Pendakwa Raya pada 2025, dengan pindaan perlembagaan dijangka dibentangkan di Parlimen pada 2026."
-appliesTo: "Rakyat, pelajar undang-undang, wartawan dan sesiapa yang ingin memahami sistem pendakwaan jenayah dan nasihat undang-undang kerajaan Malaysia."
+  - "법무장관(Peguam Negara)은 총리의 조언에 따라 양 디페르투안 아공(Yang di-Pertuan Agong)이 임명하며, 연방법원 판사가 될 자격을 갖추어야 합니다."
+  - "제145조 제5항에 따라, 법무장관은 양 디페르투안 아공이 재가하는 동안 그 직을 보유하며 언제든지 사임할 수 있습니다."
+  - "제145조 제3항은 형사 소추를 개시·수행 또는 중지할 재량 권한을 부여하며, 다만 샤리아 법원, 원주민 법원 및 군사 법원에는 적용되지 아니합니다."
+  - "이 재량은 절대적인 것으로 여겨지며; 법원은 소추하지 아니하기로 한 법무장관의 결정에 대한 재심사 신청을 기각한 바 있습니다."
+  - "마다니 정부(Kerajaan Madani)는 2025년에 법무장관과 검찰총장의 역할 분리를 승인하였으며, 헌법 개정이 2026년에 국회에 제출될 예정입니다."
+appliesTo: "국민, 법학도, 언론인, 그리고 말레이시아의 형사 소추 체계와 정부 법률 자문을 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Adakah Peguam Negara dan Pendakwa Raya orang yang sama?"
-    a: "Ya, buat masa ini. Di bawah sistem sedia ada, seorang individu memegang kedua-dua jawatan: penasihat undang-undang kerajaan (Perkara 145(2)) dan Pendakwa Raya (Perkara 145(3)). Kerajaan sedang berusaha memisahkan kedua-dua peranan ini menerusi pindaan perlembagaan."
-  - q: "Bolehkah keputusan Peguam Negara untuk tidak mendakwa dicabar di mahkamah?"
-    a: "Amat sukar. Perkara 145(3) menyatakan kuasa itu boleh dijalankan menurut budi bicaranya. Apabila Majlis Peguam mencabar keputusan Peguam Negara untuk tidak mendakwa dalam satu kes berprofil tinggi, Mahkamah Tinggi menolak kebenaran untuk menyemak semula dan rayuan berikutnya juga gagal."
-  - q: "Kes jenis apa yang tidak dikawal oleh Peguam Negara?"
-    a: "Kuasa pendakwaan Peguam Negara tidak terpakai terhadap prosiding di hadapan Mahkamah Syariah, mahkamah anak negeri, atau mahkamah tentera. Kes-kes itu dikendalikan mengikut bidang kuasa masing-masing."
-  - q: "Siapa yang melantik Peguam Negara?"
-    a: "Yang di-Pertuan Agong melantik Peguam Negara atas nasihat Perdana Menteri. Calon mesti seseorang yang layak menjadi Hakim Mahkamah Persekutuan."
+  - q: "법무장관과 검찰총장은 동일한 사람입니까?"
+    a: "예, 현재로서는 그렇습니다. 현행 제도에서 한 사람이 두 직위를 모두 보유합니다. 즉 정부 법률고문(제145조 제2항)과 검찰총장(제145조 제3항)입니다. 정부는 헌법 개정을 통하여 이 두 역할을 분리하고자 노력하고 있습니다."
+  - q: "소추하지 아니하기로 한 법무장관의 결정을 법원에서 다툴 수 있습니까?"
+    a: "매우 어렵습니다. 제145조 제3항은 그 권한이 그의 재량에 따라 행사될 수 있다고 규정합니다. 변호사회(Majlis Peguam)가 어느 고위급 사건에서 소추하지 아니하기로 한 법무장관의 결정을 다투었을 때, 고등법원은 재심사 허가를 기각하였고 그 이후의 상소도 실패하였습니다."
+  - q: "어떤 유형의 사건이 법무장관의 통제를 받지 아니합니까?"
+    a: "법무장관의 소추 권한은 샤리아 법원, 원주민 법원 또는 군사 법원 앞의 절차에는 적용되지 아니합니다. 그러한 사건은 각자의 관할에 따라 처리됩니다."
+  - q: "누가 법무장관을 임명합니까?"
+    a: "양 디페르투안 아공이 총리의 조언에 따라 법무장관을 임명합니다. 후보자는 연방법원 판사가 될 자격을 갖춘 사람이어야 합니다."
 
 lang: "ko"
 sourceContentHash: "8a9cf47766823c46"
@@ -50,8 +50,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Bilangan peguam kerajaan di Jabatan Peguam Negara dan tahun penubuhan agensi — dikeluarkan kerana tiada sumber sahih (bukan Wikipedia); tambah semula jika sumber rasmi (cth. agc.gov.my) diperoleh."
-  - "Klasifikasi sensitivity kekal 'none' mengikut arahan tier 2; topik menyentuh pendakwaan berprofil tinggi/politik semasa (kes Najib, pertuduhan semula 2018) — semak semula sama ada 'none' memadai."
+  - "법무장관실의 정부 법률가 수 및 기관 설립 연도 — 신뢰할 수 있는 출처(위키백과 제외)가 없어 삭제하였으며; 공식 출처(예: agc.gov.my)를 확보하면 다시 추가하여야 합니다."
+  - "sensitivity 분류는 tier 2 지침에 따라 'none'으로 유지되나; 이 주제는 고위급/현재 정치적 소추(나집 사건, 2018년 재기소)와 관련되므로 — 'none'이 적절한지 재검토하여야 합니다."
 
 updated: 2026-08-14
 sources:

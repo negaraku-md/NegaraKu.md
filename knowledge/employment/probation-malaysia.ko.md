@@ -14,16 +14,16 @@ sensitivity: "none"
 
 answer: "말레이시아의 수습근로자는 정규직 근로자와 똑같이 노사관계법(Industrial Relations Act 1967) 제20조에 따라 부당해고에 대한 진정을 제기할 수 있습니다. 이 법의 근로자(workman) 정의에는 수습에 대한 예외 규정이 없으며, 제2부칙은 정당한 사유나 이유 없이 해고된 수습근로자를 명시적으로 다루면서 소급임금 상한을 정규직 근로자의 24개월이 아닌 12개월로 제한합니다."
 keyTakeaways:
-  - "s.2 of the Industrial Relations Act 1967 defines workman as any person employed under a contract of employment — no probation exclusion."
-  - "Second Schedule paragraph 2 caps a probationer's backwages at 12 months, against 24 months under paragraph 1 for a confirmed employee."
-  - "The representation must be filed within 60 days of dismissal under s.20(1A), or within 60 days of the expiry of notice where notice was given."
-  - "s.12(2) notice periods and s.13(1) indemnity apply during probation like any other contract of service."
-  - "Probation is a contractual device, not a statutory status — the Employment Act 1955 does not use the word."
-  - "Letting a probation period lapse without a decision risks a finding of confirmation by conduct."
-appliesTo: "Employers running probation periods, and probationers who have been let go."
+  - "노사관계법 1967 제2조는 근로자(workman)를 고용계약에 따라 고용된 모든 사람으로 정의합니다 — 수습에 대한 예외가 없습니다."
+  - "제2부칙 제2항은 수습근로자의 소급임금을 12개월로 제한하며, 이는 정규직 근로자에 대한 제1항의 24개월과 대비됩니다."
+  - "진정은 제20(1A)조에 따라 해고일로부터 60일 이내에, 또는 예고가 있었던 경우 예고 만료일로부터 60일 이내에 제기해야 합니다."
+  - "제12(2)조 예고 기간과 제13(1)조 보상금은 다른 근로계약과 마찬가지로 수습 기간에도 적용됩니다."
+  - "수습은 법정 지위가 아니라 계약상 장치입니다 — 고용법 1955는 이 단어를 사용하지 않습니다."
+  - "결정 없이 수습 기간을 경과시키면 행위에 의한 정규직 전환으로 인정될 위험이 있습니다."
+appliesTo: "수습 기간을 운영하는 고용주, 그리고 해고된 수습근로자."
 
 verificationNeeded:
-  - "Confirm the leading appellate authority on probationer dismissal and on deemed confirmation by conduct against reported judgments"
+  - "수습근로자 해고 및 행위에 의한 정규직 전환 간주에 관한 주요 상소심 판례를 보고된 판결과 대조하여 확인할 것"
 
 lang: "ko"
 sourceContentHash: "04bbb0ef0090fa14"

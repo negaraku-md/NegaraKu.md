@@ -14,21 +14,21 @@ sensitivity: "security"
 
 answer: "NACSA(국가사이버보안청, National Cyber Security Agency)는 사이버보안 정책, 국가적 조율, 규제를 담당하는 말레이시아의 주도 기관으로, 총리실 내 국가안전보장회의(National Security Council) 산하에 있습니다. 이 기관은 사이버보안 서비스 제공자에 대한 면허를 포함해 2024년 사이버보안법(Cyber Security Act 2024, Act 854)을 관장합니다. CyberSecurity Malaysia는 디지털부 산하의 국가 기술 전문 기관 — 보증유한회사(Company Limited by Guarantee) — 으로, MyCERT와 그 Cyber999 헬프라인을 통한 침해사고 대응, 디지털 포렌식, 보안 인증 같은 실무 서비스를 제공합니다. 요컨대 NACSA는 규칙을 정하고 집행하며, CyberSecurity Malaysia는 기술적 대응과 보증 업무를 제공합니다."
 keyTakeaways:
-  - "NACSA is the national lead agency for cyber security, established February 2017 under the National Security Council, Prime Minister's Department"
-  - "CyberSecurity Malaysia is a Company Limited by Guarantee, incorporated 14 March 2006, now under the Ministry of Digital"
-  - "NACSA administers the Cyber Security Act 2024 [Act 854], gazetted 26 June 2024 and in force from 26 August 2024"
-  - "Under Act 854, applications to provide cyber security services are made to NACSA's Chief Executive — for managed SOC monitoring and penetration testing services"
-  - "CyberSecurity Malaysia runs MyCERT and the Cyber999 helpline, the national point of contact for reporting computer security incidents"
-  - "MyCERT was formed on 13 January 1997 and operates from the office of CyberSecurity Malaysia"
-appliesTo: "Businesses, IT and security teams, students and anyone trying to work out which Malaysian government body handles cyber security policy, licensing, or incident response."
+  - "NACSA는 국가 사이버보안 주도 기관으로, 2017년 2월 총리실 국가안전보장회의 산하에 설립되었습니다"
+  - "CyberSecurity Malaysia는 2006년 3월 14일 설립된 보증유한회사(Company Limited by Guarantee)로, 현재 디지털부 산하에 있습니다"
+  - "NACSA는 2024년 6월 26일 관보에 고시되어 2024년 8월 26일부터 시행된 2024년 사이버보안법(Cyber Security Act 2024, Act 854)을 관장합니다"
+  - "Act 854에 따라, 사이버보안 서비스 제공 신청 — 관리형 SOC 모니터링 및 침투 테스트 서비스 — 은 NACSA의 최고책임자에게 이루어집니다"
+  - "CyberSecurity Malaysia는 컴퓨터 보안 침해사고 신고를 위한 국가 접점인 MyCERT와 Cyber999 헬프라인을 운영합니다"
+  - "MyCERT는 1997년 1월 13일 설립되었으며 CyberSecurity Malaysia 사무소에서 운영됩니다"
+appliesTo: "말레이시아의 어느 정부 기관이 사이버보안 정책, 면허, 또는 침해사고 대응을 담당하는지 파악하려는 기업, IT 및 보안 팀, 학생 및 모든 이."
 
 faq:
-  - q: "What is the difference between NACSA and CyberSecurity Malaysia?"
-    a: "NACSA is the policy, coordination and regulatory lead under the Prime Minister's Department, and it administers the Cyber Security Act 2024. CyberSecurity Malaysia is the technical specialist agency under the Ministry of Digital that provides incident response, digital forensics and security certification."
-  - q: "Who do I report a cyber incident to in Malaysia?"
-    a: "The national point of contact for reporting computer security incidents is Cyber999, operated by MyCERT, which operates from the office of CyberSecurity Malaysia."
-  - q: "Which agency issues cyber security service provider licences?"
-    a: "Under the Cyber Security Act 2024 [Act 854], an application to provide cyber security services is made to the Chief Executive of NACSA. The regulated categories are managed security operation centre (SOC) monitoring service and penetration testing service."
+  - q: "NACSA와 CyberSecurity Malaysia의 차이는 무엇입니까?"
+    a: "NACSA는 총리실 산하의 정책·조율·규제 주도 기관으로, 2024년 사이버보안법을 관장합니다. CyberSecurity Malaysia는 디지털부 산하의 기술 전문 기관으로, 침해사고 대응, 디지털 포렌식, 보안 인증을 제공합니다."
+  - q: "말레이시아에서 사이버 침해사고는 누구에게 신고합니까?"
+    a: "컴퓨터 보안 침해사고 신고를 위한 국가 접점은 MyCERT가 운영하는 Cyber999이며, 이는 CyberSecurity Malaysia 사무소에서 운영됩니다."
+  - q: "사이버보안 서비스 제공자 면허는 어느 기관이 발급합니까?"
+    a: "2024년 사이버보안법(Act 854)에 따라, 사이버보안 서비스 제공 신청은 NACSA의 최고책임자에게 이루어집니다. 규제 대상 범주는 관리형 보안 운영 센터(SOC) 모니터링 서비스와 침투 테스트 서비스입니다."
 
 lang: "ko"
 sourceContentHash: "a5256768a1d06815"
@@ -48,10 +48,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether additional cyber security service categories beyond managed SOC monitoring and penetration testing have been designated as regulated under subsequent regulations to Act 854."
-  - "The specific CyberSecurity Malaysia service lines listed in the services table (digital forensics laboratory, ISMS and Common Criteria certification, MySEF, CyberGuru training) — confirm each against the current CyberSecurity Malaysia corporate/services pages, as they were not individually re-fetched in this pass."
-  - "Current, live Cyber999 reporting channels (online form and mobile app) — confirm against cybersecurity.my / mycert.org.my before publication."
-  - "That NACSA remains located at the Perdana Putra building, Putrajaya."
+  - "관리형 SOC 모니터링 및 침투 테스트 외에 추가적인 사이버보안 서비스 범주가 Act 854의 후속 규정에 따라 규제 대상으로 지정되었는지 여부."
+  - "서비스 표에 나열된 CyberSecurity Malaysia의 구체적 서비스 항목(디지털 포렌식 실험실, ISMS 및 Common Criteria 인증, MySEF, CyberGuru 교육) — 이번 작업에서 개별적으로 다시 확인하지 않았으므로, 현행 CyberSecurity Malaysia 기업/서비스 페이지와 대조해 각각 확인해야 합니다."
+  - "현행 Cyber999 신고 채널(온라인 양식 및 모바일 앱) — 게시 전에 cybersecurity.my / mycert.org.my와 대조해 확인해야 합니다."
+  - "NACSA가 여전히 푸트라자야의 페르다나 푸트라(Perdana Putra) 청사에 위치하는지 여부."
 
 updated: 2026-08-01
 sources:

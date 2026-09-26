@@ -14,23 +14,23 @@ sensitivity: "none"
 
 answer: "말레이시아 기업은 UNCITRAL 모델법을 본떠 만든 중재법 2005(Arbitration Act 2005, Act 646)에 의해 규율되는 중재를 통해, 또는 조정법 2012(Mediation Act 2012)에 따른 조정을 통해 상사 분쟁을 사적으로 해결할 수 있습니다. 쿠알라룸푸르(Kuala Lumpur)에 있는 아시아 국제중재센터(Asian International Arbitration Centre, AIAC)가 이 나라의 주된 기관으로, 그 AIAC 중재규칙 2023에 따라 사건을 관리합니다. 판정은 국내에서 집행 가능하며, 말레이시아가 뉴욕협약의 당사국이므로 대부분의 교역국에서도 집행 가능합니다."
 keyTakeaways:
-  - "The Arbitration Act 2005 (Act 646) took effect on 15 March 2006 and is based on the UNCITRAL Model Law."
-  - "The AIAC — formerly the KLRCA, first set up in 1978 and renamed in 2018 — administers arbitrations under the AIAC Arbitration Rules 2023, effective 24 August 2023."
-  - "The Arbitration (Amendment) Act 2024 came into force on 1 January 2026, adding a statutory third-party funding framework (Sections 46A–46I) and recognising electronic signatures on awards."
-  - "Malaysia is a party to the New York Convention, so arbitral awards are enforceable across most trading nations."
-appliesTo: "Businesses, in-house counsel, and foreign investors handling commercial contracts and disputes in Malaysia."
+  - "중재법(Arbitration Act 2005, Act 646)은 2006년 3월 15일에 시행되었으며 UNCITRAL 모델법에 기초합니다."
+  - "AIAC — 종전 명칭 KLRCA로 1978년에 처음 설립되어 2018년에 개칭 — 는 2023년 8월 24일부터 시행된 AIAC 중재규칙 2023에 따라 중재를 관리합니다."
+  - "중재(개정)법(Arbitration (Amendment) Act 2024)은 2026년 1월 1일에 시행되어, 법정 제3자 자금 지원 체계(제46A조–제46I조)를 추가하고 판정에 대한 전자 서명을 인정하였습니다."
+  - "말레이시아는 뉴욕협약(New York Convention)의 당사국이므로, 중재 판정은 대부분의 교역국에서 집행 가능합니다."
+appliesTo: "말레이시아에서 상사 계약 및 분쟁을 다루는 기업, 사내 변호사, 그리고 외국인 투자자."
 
 faq:
-  - q: "Which law governs arbitration in Malaysia?"
-    a: "The Arbitration Act 2005 (Act 646), which took effect on 15 March 2006 and is based on the UNCITRAL Model Law. It governs both domestic and international arbitration seated in Malaysia, and was most recently amended by the Arbitration (Amendment) Act 2024, in force from 1 January 2026."
-  - q: "What is the AIAC?"
-    a: "The Asian International Arbitration Centre is Malaysia's leading arbitral institution, based in Kuala Lumpur. It was first set up in 1978 as the Kuala Lumpur Regional Centre for Arbitration (KLRCA) and renamed the AIAC in 2018. It administers cases under the AIAC Arbitration Rules 2023."
-  - q: "Can a Malaysian arbitral award be enforced overseas?"
-    a: "Yes. Malaysia is a contracting state to the New York Convention, so awards made in Malaysia can be recognised and enforced in the other member states, subject to the limited refusal grounds in Section 39 of the Arbitration Act 2005, which mirror Article V of the Convention."
-  - q: "How is mediation different from arbitration?"
-    a: "Mediation, promoted by the Mediation Act 2012, is a voluntary process in which a neutral mediator helps the parties negotiate their own settlement — the mediator does not impose a decision. Arbitration ends in a binding award. If mediation fails, parties can still proceed to arbitration or litigation."
-  - q: "Is third-party funding of arbitration allowed in Malaysia?"
-    a: "Yes, since the Arbitration (Amendment) Act 2024 came into force on 1 January 2026. Sections 46A–46I create a statutory framework, Section 46C abolishes the common-law rules against maintenance and champerty, and Section 46G requires the funding arrangement and funder's identity to be disclosed."
+  - q: "말레이시아의 중재는 어떤 법률로 규율됩니까?"
+    a: "중재법(Arbitration Act 2005, Act 646)이며, 2006년 3월 15일에 시행되었고 UNCITRAL 모델법에 기초합니다. 이 법은 말레이시아를 중재지로 하는 국내 및 국제 중재를 모두 규율하며, 가장 최근에는 2026년 1월 1일부터 시행된 중재(개정)법(Arbitration (Amendment) Act 2024)에 의하여 개정되었습니다."
+  - q: "AIAC란 무엇입니까?"
+    a: "아시아 국제중재센터(Asian International Arbitration Centre)는 쿠알라룸푸르에 있는 말레이시아의 대표적 중재 기관입니다. 1978년에 쿠알라룸푸르 지역 중재센터(Kuala Lumpur Regional Centre for Arbitration, KLRCA)로 처음 설립되었고 2018년에 AIAC로 개칭되었습니다. AIAC 중재규칙 2023에 따라 사건을 관리합니다."
+  - q: "말레이시아 중재 판정을 해외에서 집행할 수 있습니까?"
+    a: "예. 말레이시아는 뉴욕협약(New York Convention)의 체약국이므로, 말레이시아에서 내려진 판정은 다른 회원국에서 승인·집행될 수 있으며, 이는 협약 제5조를 반영한 중재법 2005 제39조의 제한된 거부 사유에 따릅니다."
+  - q: "조정은 중재와 어떻게 다릅니까?"
+    a: "조정법 2012(Mediation Act 2012)가 촉진하는 조정은 중립적인 조정인이 당사자들이 스스로 화해에 이르도록 돕는 자발적 절차로서 — 조정인은 결정을 강요하지 아니합니다. 중재는 구속력 있는 판정으로 끝납니다. 조정이 실패하면 당사자들은 여전히 중재 또는 소송으로 나아갈 수 있습니다."
+  - q: "말레이시아에서 중재의 제3자 자금 지원이 허용됩니까?"
+    a: "예, 중재(개정)법 2024가 2026년 1월 1일에 시행된 이후 허용됩니다. 제46A조–제46I조가 법정 체계를 창설하고, 제46C조가 유지(maintenance) 및 소송 조력(champerty)에 반하는 보통법 규칙을 폐지하며, 제46G조는 자금 지원 약정과 자금 지원자의 신원을 공개하도록 요구합니다."
 
 lang: "ko"
 sourceContentHash: "dbaaa201e69ebe39"
@@ -44,9 +44,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Amendment-history dates: confirm the Arbitration (Amendment) Act 2011 (in force ~1 July 2011) and the two 2018 amendments (reported in force 28 Feb 2018 and 8 May 2018) against the Federal Gazette."
-  - "Arbitration (Amendment) Act 2024 in-force date of 1 January 2026 — confirm against the official commencement notification in the Federal Gazette."
-  - "Third-party funding Code of Practice RM 10 million capital-adequacy figure — confirm against the published Code itself, not a secondary summary."
+  - "개정 연혁 일자: 중재(개정)법 2011(약 2011년 7월 1일 시행)과 2018년의 두 차례 개정(2018년 2월 28일 및 2018년 5월 8일 시행으로 보고됨)을 연방 관보에 대조하여 확인하여야 합니다."
+  - "중재(개정)법 2024의 2026년 1월 1일 시행일 — 연방 관보의 공식 시행 고시에 대조하여 확인하여야 합니다."
+  - "제3자 자금 지원 실무 규범의 RM 10 million 자본 적정성 수치 — 2차 요약본이 아니라 공표된 규범 자체에 대조하여 확인하여야 합니다."
 revisions:
   - revision: 0
     date: 2026-08-07

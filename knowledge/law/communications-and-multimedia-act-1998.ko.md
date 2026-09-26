@@ -14,20 +14,20 @@ sensitivity: "security"
 
 answer: "1999년 4월 1일에 시행된 통신멀티미디어법 1998(Communications and Multimedia Act 1998, Akta 588)은 통신·멀티미디어 산업에 대한 기술 중립적 라이선스 체계를 마련하며 말레이시아 통신멀티미디어위원회(SKMM)가 운용합니다. 제233조는 음란·허위·협박 또는 모욕적인 콘텐츠를 네트워크를 통해 전송하는 것을 범죄로 하며, 온라인 콘텐츠 관련 소추에서 가장 자주 인용되는 규정입니다. 2024년 개정과 최근의 법원 판결은 규제와 표현의 자유 사이의 균형에 관한 논쟁을 촉발하였습니다."
 keyTakeaways:
-  - "Akta 588 berkuat kuasa pada 1 April 1999 dan ditadbir oleh SKMM."
-  - "Rangka pelesenan membahagikan aktiviti kepada empat kategori: penyedia kemudahan rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi, dan perkhidmatan aplikasi kandungan."
-  - "Seksyen 3(3) menyatakan tiada apa-apa dalam Akta boleh ditafsirkan sebagai membenarkan penapisan Internet."
-  - "Seksyen 233 ialah peruntukan yang paling kerap digunakan terhadap pertuturan dalam talian; Pindaan 2024 menaikkan hukumannya."
-  - "Pada 10 September 2025, Mahkamah Rayuan membatalkan perkataan 'offensive' dan 'annoy' dalam Seksyen 233(1)(a) sebagai tidak berperlembagaan."
-appliesTo: "Pengguna Internet, pencipta kandungan, penyedia perkhidmatan digital, wartawan, penyelidik dasar, dan pengamal undang-undang di Malaysia."
+  - "Akta 588은 1999년 4월 1일에 시행되었으며 SKMM이 운용합니다."
+  - "라이선스 체계는 활동을 네 개의 범주로 나눕니다. 즉 네트워크 설비 제공자, 네트워크 서비스, 응용 서비스, 그리고 콘텐츠 응용 서비스입니다."
+  - "제3조 제3항은 이 법의 어떤 것도 인터넷 검열을 허용하는 것으로 해석될 수 없다고 규정합니다."
+  - "제233조는 온라인 발언에 대해 가장 자주 적용되는 규정이며; 2024년 개정은 그 형벌을 인상하였습니다."
+  - "2025년 9월 10일, 항소법원은 제233조 제1항 (a)호의 'offensive' 및 'annoy'라는 단어를 위헌으로 무효화하였습니다."
+appliesTo: "말레이시아의 인터넷 사용자, 콘텐츠 제작자, 디지털 서비스 제공자, 언론인, 정책 연구자, 그리고 법률 실무가."
 
 faq:
-  - q: "Apakah hukuman di bawah Seksyen 233?"
-    a: "Sebagaimana asalnya digubal, Seksyen 233(3) memperuntukkan denda tidak melebihi RM50,000 atau penjara tidak melebihi satu tahun atau kedua-duanya, serta denda tambahan RM1,000 bagi setiap hari kesalahan diteruskan selepas sabitan. Pindaan 2024 menaikkan hukuman di bawah Seksyen 233 kepada denda sehingga RM500,000 atau penjara sehingga dua tahun; peruntukan sebenar dan pelabelan subseksyen hendaklah disemak terhadap teks Akta pindaan yang telah diwartakan."
-  - q: "Adakah Akta ini membenarkan penapisan Internet?"
-    a: "Seksyen 3(3) menyatakan bahawa tiada apa-apa dalam Akta boleh ditafsirkan sebagai membenarkan penapisan Internet. Namun, peruntukan lain seperti Seksyen 211 dan 233 mengawal kandungan tertentu, dan hubungan antara jaminan ini dengan peruntukan tersebut menjadi tumpuan perdebatan."
-  - q: "Siapa yang perlu mendapatkan lesen di bawah Akta ini?"
-    a: "Aktiviti berlesen dibahagikan kepada empat kategori. Menerusi arahan 2024, penyedia media sosial dan pemesejan Internet dengan sekurang-kurangnya lapan juta pengguna di Malaysia dikehendaki memohon lesen kelas daripada SKMM, berkuat kuasa 1 Januari 2025."
+  - q: "제233조에 따른 형벌은 무엇입니까?"
+    a: "이 법이 원래 제정된 대로, 제233조 제3항은 RM50,000을 초과하지 아니하는 벌금 또는 1년을 초과하지 아니하는 금고 혹은 그 병과, 그리고 유죄 판결 후 범죄가 계속되는 매일마다 RM1,000의 추가 벌금을 규정합니다. 2024년 개정은 제233조에 따른 형벌을 최대 RM500,000의 벌금 또는 최대 2년의 금고로 인상하였으며; 정확한 규정과 항 표기는 관보에 게재된 개정법 본문에 대조하여 확인하여야 합니다."
+  - q: "이 법은 인터넷 검열을 허용합니까?"
+    a: "제3조 제3항은 이 법의 어떤 것도 인터넷 검열을 허용하는 것으로 해석될 수 없다고 규정합니다. 그러나 제211조 및 제233조와 같은 다른 규정은 특정 콘텐츠를 규제하며, 이 보장과 그러한 규정 사이의 관계가 논쟁의 초점이 되고 있습니다."
+  - q: "이 법에 따라 누가 라이선스를 취득하여야 합니까?"
+    a: "라이선스 대상 활동은 네 개의 범주로 나뉩니다. 2024년 지시를 통하여, 말레이시아에 최소 800만 명의 사용자를 둔 소셜미디어 및 인터넷 메시징 제공자는 SKMM으로부터 등급 라이선스를 신청하여야 하며, 이는 2025년 1월 1일에 시행되었습니다."
 
 lang: "ko"
 sourceContentHash: "6cd84d5baa9c3ad8"
@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Pelabelan subseksyen bagi hukuman pindaan Seksyen 233 (subseksyen mana yang membawa denda RM500,000 / penjara 2 tahun bagi penyalahgunaan am, dan subseksyen mana yang membawa hukuman kesalahan melibatkan kanak-kanak RM500,000 / penjara 5 tahun) — semak terhadap teks Akta Komunikasi dan Multimedia (Pindaan) yang telah diwartakan."
-  - "Angka hukuman kesalahan melibatkan kanak-kanak (RM500,000 / 5 tahun) — sahkan terhadap teks pindaan yang diwartakan."
-  - "Status dan tarikh permulaan kuat kuasa Pindaan 2024 — Rang Undang-Undang diluluskan kedua-dua Dewan pada Disember 2024 tetapi mula berkuat kuasa pada tarikh yang ditetapkan Menteri melalui warta; sahkan sama ada dan bila ia telah berkuat kuasa."
-  - "Ambang 'lapan juta pengguna' dan tarikh kuat kuasa 1 Januari 2025 bagi lesen kelas media sosial — sahkan terhadap arahan/perintah rasmi SKMM."
+  - "제233조 개정 형벌의 항 표기(일반 오용에 대해 RM500,000 벌금/2년 금고를 규정하는 항, 그리고 아동이 관련된 범죄에 대해 RM500,000 벌금/5년 금고를 규정하는 항) — 관보에 게재된 통신멀티미디어(개정)법 본문에 대조하여 확인하여야 합니다."
+  - "아동이 관련된 범죄의 형벌 수치(RM500,000 / 5년) — 관보에 게재된 개정 본문에 대조하여 확인하여야 합니다."
+  - "2024년 개정의 상태 및 시행일 — 법안은 2024년 12월 양원에서 통과되었으나 장관이 관보로 정하는 날짜에 시행되며; 그것이 시행되었는지, 그리고 언제 시행되었는지를 확인하여야 합니다."
+  - "소셜미디어 등급 라이선스의 '800만 사용자' 기준과 2025년 1월 1일 시행일 — SKMM의 공식 지시/명령에 대조하여 확인하여야 합니다."
 updated: 2026-08-07
 sources:
   - title: "Laws of Malaysia Act 588 — Communications and Multimedia Act 1998 (official text)"

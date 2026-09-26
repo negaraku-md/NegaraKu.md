@@ -14,12 +14,12 @@ sensitivity: "none"
 
 answer: "말레이시아 고용주는 각각 고유한 근거 법률, 고유한 요율 구조, 고유한 포털을 가진 세 개의 별개 법정 기여 흐름을 부담합니다. EPF는 직원공제기금법 1991(Employees Provident Fund Act 1991)의 적용을 받으며 제3부칙 표에서 계산됩니다. SOCSO와 EIS는 모두 PERKESO 소관으로, 각각 법률 제4호와 법률 제800호에 근거하며 RM6,000의 피보험 임금 상한을 공유합니다. 세 가지 모두 임금월 다음 달 15일까지 납부합니다."
 keyTakeaways:
-  - "Three schemes, three statutes, two agencies — EPF with KWSP, SOCSO and EIS with PERKESO"
-  - "EPF is a table lookup, not a percentage calculation, for wages up to RM20,000"
-  - "SOCSO and EIS are capped at an insured wage of RM6,000, unchanged since 1 October 2024"
-  - "All three contributions are remitted by the 15th of the following month"
-  - "Foreign workers are treated differently in every one of the three schemes"
-appliesTo: "Employers, HR and payroll administrators looking for the right statutory contribution guide."
+  - "세 개의 제도, 세 개의 법률, 두 개의 기관 — EPF는 KWSP, SOCSO와 EIS는 PERKESO"
+  - "EPF는 임금 RM20,000까지는 퍼센트 계산이 아니라 표 조회입니다"
+  - "SOCSO와 EIS는 피보험 임금 RM6,000으로 상한이 정해져 있으며, 2024년 10월 1일 이후 변경되지 않았습니다"
+  - "세 가지 기여금 모두 다음 달 15일까지 납부합니다"
+  - "외국인 근로자는 세 제도 각각에서 다르게 취급됩니다"
+appliesTo: "적합한 법정 기여 안내를 찾는 고용주, 인사 및 급여 관리자."
 
 verificationNeeded: []
 

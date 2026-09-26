@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "TalentCorp가 운영하는 귀환 전문가 프로그램(REP)은 해외의 숙련된 말레이시아인이 귀국하여 말레이시아에서 근무하도록 하는 인센티브입니다. 승인된 귀환자는 5년 연속 과세 대상 고용소득에 대해 15% 정률 세금을 선택할 수 있고, 국내 조립(CKD) 차량 1대에 대해 최대 RM100,000의 관세 면제를 받으며, 외국인 배우자와 18세 미만 자녀는 영주권을 신청할 수 있습니다. 해외에서 생활하고 근무하는 동안 온라인으로 신청해야 하며 — 귀국 후에 한 신청은 자격이 없습니다."
 keyTakeaways:
-  - "Approved experts may elect an optional flat 15% income tax rate on employment income for five continuous years, instead of progressive rates."
-  - "Core eligibility: Malaysian citizen, employed abroad continuously for at least 3 years, and no Malaysian employment income for at least 3 years before applying."
-  - "The application must be submitted before returning to Malaysia — usually 1 to 2 months before your expected return date."
-  - "Benefits include a duty exemption of up to RM100,000 on one CKD vehicle (which must be kept for at least 2 years) and PR eligibility for a foreign spouse and children under 18."
-appliesTo: "Malaysian professionals working overseas who plan to return home, and Malaysian employers recruiting diaspora talent."
+  - "승인된 전문가는 누진 세율 대신 5년 연속 고용소득에 대해 선택적 15% 정률 소득세율을 선택할 수 있습니다."
+  - "핵심 자격: 말레이시아 국민, 최소 3년간 해외에서 연속 고용, 신청 전 최소 3년간 말레이시아 고용소득 없음."
+  - "신청은 말레이시아에 귀국하기 전에 제출해야 합니다 — 통상 예상 귀국일 1~2개월 전."
+  - "혜택에는 CKD 차량 1대(최소 2년간 보유해야 함)에 대한 최대 RM100,000의 관세 면제와 외국인 배우자 및 18세 미만 자녀의 영주권 자격이 포함됩니다."
+appliesTo: "귀국을 계획하는 해외 근무 말레이시아 전문가, 그리고 디아스포라 인재를 채용하는 말레이시아 고용주."
 
 faq:
-  - q: "What income tax rate does the REP give returning experts?"
-    a: "An optional flat 15% rate on chargeable employment income for five consecutive years, in place of Malaysia's progressive tax rates. It applies only to employment income, not to rental, interest, or other income."
-  - q: "Who is eligible for the Returning Expert Programme?"
-    a: "A Malaysian citizen who is currently residing and employed abroad continuously for at least three years, has not earned Malaysian employment income for at least three years, holds no outstanding scholarship bond or loan with the Malaysian Government, and applies before returning home."
-  - q: "When and where do I apply?"
-    a: "Apply online through TalentCorp's MyHeart platform while still overseas, ideally one to two months before your expected return. A complete application is processed in up to 45 working days."
+  - q: "REP는 귀환 전문가에게 어떤 소득세율을 제공합니까?"
+    a: "말레이시아의 누진 세율 대신 5년 연속 과세 대상 고용소득에 대한 선택적 15% 정률입니다. 이는 임대, 이자 또는 기타 소득이 아니라 고용소득에만 적용됩니다."
+  - q: "누가 귀환 전문가 프로그램의 자격이 있습니까?"
+    a: "현재 최소 3년간 해외에서 연속으로 거주하며 고용된 말레이시아 국민으로, 최소 3년간 말레이시아 고용소득을 얻지 않았고, 말레이시아 정부에 대한 미상환 장학금 약정이나 대출이 없으며, 귀국 전에 신청하는 사람입니다."
+  - q: "언제 어디서 신청합니까?"
+    a: "해외에 있는 동안 TalentCorp의 MyHeart 플랫폼을 통해 온라인으로, 이상적으로는 예상 귀국 1~2개월 전에 신청합니다. 완전한 신청은 최대 영업일 45일 이내에 처리됩니다."
 
 lang: "ko"
 sourceContentHash: "f730c6823dee3d1e"
@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact duties covered by the vehicle exemption (excise only vs. import and excise) — the TalentCorp REP page mentions excise duty; the MyHeart FAQ describes a combined RM100,000 duty cap."
-  - "Current tax filing mechanics with LHDN (PCB deduction at 15%, use of Form e-BT, and the requirement to elect within two years of return) — confirm against the applicable LHDN Public Ruling."
-  - "Whether the two-year validity window and post-election deadlines still apply as stated on the MyHeart FAQ at time of reading."
+  - "차량 면제가 포함하는 정확한 관세(소비세만인지 수입세 및 소비세인지) — TalentCorp REP 페이지는 소비세를 언급하고, MyHeart FAQ는 RM100,000의 통합 관세 상한을 설명함."
+  - "LHDN에 대한 현행 세금 신고 방식(15% PCB 공제, 양식 e-BT 사용, 귀국 후 2년 이내에 선택해야 하는 요건)을 해당 LHDN 공개 결정과 대조하여 확인할 것."
+  - "2년 유효 기간과 선택 후 기한이 열람 시점의 MyHeart FAQ에 명시된 대로 여전히 적용되는지 여부."
 
 updated: 2026-08-08
 sources:

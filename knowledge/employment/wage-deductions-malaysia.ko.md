@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "고용법 1955(Employment Act 1955) 제24조에 따라, 고용주는 그 법이 허용하는 목록에 따라서만 당신의 급여를 공제할 수 있습니다. 법정 공제(EPF, PERKESO, EIS, PCB), 최근 3개월 이내의 초과 지급 급여 환수, 그리고 무이자 급여 가불은 승인 없이 공제할 수 있습니다. 그 밖의 공제는 근로자의 서면 요청이 필요하며, 일부는 노동총국장(Director General)의 허가가 필요합니다. 총 공제액은 통상 월 급여의 50%를 초과할 수 없습니다."
 keyTakeaways:
-  - "Seksyen 24(1) melarang semua potongan gaji kecuali yang dibenarkan Akta Kerja 1955."
-  - "Lebihan gaji hanya boleh dituntut balik jika bayaran itu dibuat dalam tiga bulan sebelumnya (Seksyen 24(2)(a))."
-  - "Potongan seperti skim simpanan, insurans, atau bayaran pihak ketiga memerlukan permintaan bertulis pekerja dan kelulusan Ketua Pengarah (Seksyen 24(4))."
-  - "Jumlah semua potongan dalam sebulan tidak boleh melebihi 50% gaji sebulan (Seksyen 24(8)), dengan pengecualian tertentu di bawah Seksyen 24(9)."
-appliesTo: "Pekerja dan majikan di Semenanjung Malaysia di bawah Akta Kerja 1955 (terpakai kepada semua pekerja sejak 1 Januari 2023)."
+  - "제24(1)조는 고용법 1955이 허용하는 것을 제외한 모든 임금 공제를 금지합니다."
+  - "초과 지급된 급여는 그 지급이 지난 3개월 이내에 이루어진 경우에만 환수할 수 있습니다(제24(2)(a)조)."
+  - "저축 제도, 보험, 또는 제3자 지급과 같은 공제는 근로자의 서면 요청과 총국장의 허가를 필요로 합니다(제24(4)조)."
+  - "한 달의 모든 공제 총액은 월 급여의 50%를 초과할 수 없으며(제24(8)조), 제24(9)조에 따른 특정 예외가 있습니다."
+appliesTo: "고용법 1955의 적용을 받는 말레이시아 반도의 근로자와 고용주(2023년 1월 1일 이후 모든 근로자에게 적용)."
 
 faq:
-  - q: "Bolehkah majikan potong gaji saya tanpa persetujuan?"
-    a: "Hanya untuk potongan berkanun (KWSP, PERKESO, PCB), bayaran balik lebihan gaji dalam tiga bulan terkini, indemniti kerana berhenti tanpa notis, dan pendahuluan gaji tanpa faedah (Seksyen 24(2)). Selain itu, permintaan bertulis atau kebenaran diperlukan."
-  - q: "Bolehkah majikan potong gaji sebagai denda kerana lewat atau rosakkan barang?"
-    a: "Potongan sedemikian tidak tersenarai dalam Seksyen 24(2) yang membenarkan potongan tanpa persetujuan. Ia bukan sebahagian daripada senarai potongan yang dibenarkan tanpa kelulusan di bawah Seksyen 24."
-  - q: "Berapa maksimum yang boleh dipotong sebulan?"
-    a: "Di bawah Seksyen 24(8), jumlah semua potongan tidak boleh melebihi 50% gaji yang diperoleh dalam bulan itu. Seksyen 24(9) mengecualikan indemniti Seksyen 13(1), bayaran akhir apabila tamat kerja, dan pinjaman perumahan (tambahan sehingga 25% dengan kebenaran Ketua Pengarah)."
+  - q: "고용주가 동의 없이 내 급여를 공제할 수 있습니까?"
+    a: "법정 공제(KWSP, PERKESO, PCB), 지난 3개월 이내의 초과 지급 급여 환수, 예고 없이 그만둔 데 따른 보상금, 그리고 무이자 급여 가불에 한합니다(제24(2)조). 그 밖에는 서면 요청이나 허가가 필요합니다."
+  - q: "고용주가 지각이나 물품 파손을 이유로 벌금으로 급여를 공제할 수 있습니까?"
+    a: "그러한 공제는 동의 없이 허용되는 공제를 정한 제24(2)조에 열거되어 있지 않습니다. 이는 제24조에 따라 허가 없이 허용되는 공제 목록의 일부가 아닙니다."
+  - q: "한 달에 공제할 수 있는 최대 금액은 얼마입니까?"
+    a: "제24(8)조에 따라, 모든 공제 총액은 그 달에 벌어들인 급여의 50%를 초과할 수 없습니다. 제24(9)조는 제13(1)조 보상금, 고용 종료 시 최종 지급, 그리고 주택 대출(총국장의 허가가 있으면 추가로 최대 25%)을 제외합니다."
 
 lang: "ko"
 sourceContentHash: "3388bf641e0109a3"
@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan setiap petikan subseksyen terhadap cetakan rasmi Akta 265 dari Pejabat Peguam Negara (agc.gov.my); rujukan utama yang digunakan di sini ialah teks cetakan kemas kini rasmi yang dihoskan di portal Kerajaan (mp.gov.my)."
-  - "Sahkan pengelasan caruman berkanun (KWSP/PERKESO/EIS/PCB) sebagai potongan di bawah Seksyen 24(2)(d) ('undang-undang bertulis lain')."
-  - "Sahkan syarat penuh pendahuluan gaji di bawah Seksyen 22 (had jumlah pendahuluan) sebelum diterbitkan."
-  - "Sahkan nuans perluasan Akta kepada semua pekerja mulai 1 Januari 2023 (sesetengah peruntukan masih tertakluk ambang) dengan JTKSM."
+  - "각 항 인용을 검찰청(agc.gov.my)의 공식 인쇄본 법률 제265호와 대조하여 확인할 것. 여기서 사용된 주된 참조는 정부 포털(mp.gov.my)에 게시된 공식 최신 인쇄본입니다."
+  - "법정 기여금(KWSP/PERKESO/EIS/PCB)이 제24(2)(d)조(「다른 성문법」)에 따른 공제로 분류되는지 확인할 것."
+  - "제22조에 따른 급여 가불의 전체 조건(가불 금액 한도)을 발행 전에 확인할 것."
+  - "이 법이 2023년 1월 1일부터 모든 근로자에게 확대된 것의 세부사항(일부 조항은 여전히 기준의 적용을 받음)을 JTKSM과 확인할 것."
 
 updated: 2026-08-08
 sources:

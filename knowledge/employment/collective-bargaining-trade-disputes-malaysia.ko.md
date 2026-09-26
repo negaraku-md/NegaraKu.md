@@ -14,24 +14,24 @@ sensitivity: "none"
 
 answer: "노사관계법 1967(Industrial Relations Act 1967, Akta 177)은 정해진 흐름을 마련하고 있습니다. 노동조합이 고용주에게 인정을 요구하고(21일 이내 회신), 둘 이상의 조합이 인정된 경우 단독 교섭권을 확보한 뒤, 서면 초청을 통해 단체교섭을 개시합니다. 체결된 단체협약은 최소 3년간 효력을 가져야 하며, 산업법원이 이를 인지(cognizance)하면 판정으로서 구속력을 갖습니다. 교섭이 결렬되면 노사관계국이 조정을 실시하고, 노사관계국장(Director-General of Industrial Relations)이 분쟁을 산업법원에 회부할 수 있습니다(2021년 1월 1일 시행 2020년 개정으로 장관으로부터 이전된 권한). 파업, 직장폐쇄, 피케팅은 제한된 경우에만 적법하며, 특정 절차가 진행되는 동안에는 완전히 금지됩니다."
 keyTakeaways:
-  - "Majikan mesti menjawab tuntutan pengiktirafan bertulis dalam tempoh 21 hari; jika tidak, kesatuan boleh melapor kepada Ketua Pengarah Perhubungan Perusahaan dalam 14 hari (seksyen 9)."
-  - "Apabila lebih daripada satu kesatuan diiktiraf, hak rundingan tunggal ditentukan oleh kesatuan sendiri atau melalui undi sulit oleh Ketua Pengarah (seksyen 12A)."
-  - "Perjanjian kolektif mesti berkuat kuasa sekurang-kurangnya tiga tahun dan menjadi mengikat sebagai award setelah diambil kira oleh Mahkamah Perusahaan (seksyen 14 dan 17)."
-  - "Cadangan rundingan tidak boleh menyentuh hak prerogatif pengurusan seperti kenaikan pangkat, pertukaran, pengambilan, pemberhentian atas lebihan, buang kerja dan pengagihan tugas (seksyen 13(3))."
-  - "Mogok dan sekat masuk dilarang selepas pertikaian dirujuk ke Mahkamah Perusahaan; dalam perkhidmatan perlu, notis mogok 42 hari diperlukan (seksyen 43 dan 44)."
-appliesTo: "Pekerja, pegawai kesatuan sekerja, majikan, dan pengamal sumber manusia yang berurusan dengan pengiktirafan kesatuan, rundingan perjanjian kolektif atau tindakan perusahaan di Malaysia."
+  - "고용주는 서면 인정 요구에 21일 이내에 회신해야 하며, 그렇지 않으면 노동조합은 14일 이내에 노사관계국장(Ketua Pengarah Perhubungan Perusahaan)에게 보고할 수 있습니다(제9조)."
+  - "둘 이상의 노동조합이 인정된 경우, 단독 교섭권은 조합들 스스로 정하거나 노사관계국장의 비밀투표를 통해 결정됩니다(제12A조)."
+  - "단체협약은 최소 3년간 효력을 가져야 하며, 산업법원(Mahkamah Perusahaan)이 이를 인지한 후에는 판정으로서 구속력을 갖습니다(제14조 및 제17조)."
+  - "교섭 제안은 승진, 전보, 채용, 정리해고, 해고, 업무 배분과 같은 경영권(management prerogative)에 관한 사항을 다룰 수 없습니다(제13(3)조)."
+  - "파업과 직장폐쇄는 분쟁이 산업법원에 회부된 후에는 금지되며, 필수 서비스에서는 42일의 파업 예고가 필요합니다(제43조 및 제44조)."
+appliesTo: "말레이시아에서 노동조합 인정, 단체협약 교섭 또는 쟁의행위를 다루는 근로자, 노동조합 임원, 고용주, 그리고 인사 실무자."
 
 faq:
-  - q: "Berapa lama majikan perlu menjawab tuntutan pengiktirafan kesatuan?"
-    a: "Dalam tempoh 21 hari selepas tuntutan disampaikan, majikan mesti sama ada memberi pengiktirafan atau memberitahu kesatuan secara bertulis alasan penolakan (seksyen 9(3))."
-  - q: "Berapa lama tempoh minimum sesuatu perjanjian kolektif?"
-    a: "Sekurang-kurangnya tiga tahun dari tarikh ia mula berkuat kuasa (seksyen 14(2)(b)). Perjanjian yang kurang berfaedah daripada undang-undang bertulis adalah terbatal setakat itu."
-  - q: "Bolehkah kesatuan berunding tentang buang kerja atau kenaikan pangkat?"
-    a: "Tidak boleh dimasukkan sebagai cadangan perjanjian kolektif. Perkara seperti kenaikan pangkat, pertukaran, pengambilan, pemberhentian atas lebihan, buang kerja serta pengagihan tugas terkecuali sebagai prerogatif pengurusan (seksyen 13(3)), walaupun soalan am mengenainya boleh dibangkitkan dalam perbincangan."
-  - q: "Bilakah mogok menjadi menyalahi undang-undang?"
-    a: "Antaranya apabila ia bercanggah dengan seksyen 43 atau 44 (contohnya selepas pertikaian dirujuk ke Mahkamah Perusahaan, atau menyentuh perkara yang telah diliputi perjanjian kolektif atau award), atau jika ia bukan untuk memajukan sesuatu pertikaian perusahaan (seksyen 45)."
-  - q: "Adakah undi sulit diperlukan sebelum mogok?"
-    a: "Ya. Di bawah Akta Kesatuan Sekerja 1959 (seksyen 25A), undi sulit diperlukan. Selepas pindaan, ambang yang diperlukan diturunkan kepada lebih separuh undi dengan sekurang-kurangnya 60 peratus ahli yang berhak mengundi turut mengundi, berbanding majoriti dua pertiga sebelum ini."
+  - q: "고용주는 노동조합 인정 요구에 얼마 안에 회신해야 합니까?"
+    a: "요구가 전달된 후 21일 이내에 고용주는 인정을 부여하거나 거부 사유를 서면으로 노동조합에 통지해야 합니다(제9(3)조)."
+  - q: "단체협약의 최소 기간은 얼마입니까?"
+    a: "효력 발생일로부터 최소 3년입니다(제14(2)(b)조). 성문법보다 불리한 협약은 그 범위에서 무효입니다."
+  - q: "노동조합이 해고나 승진에 관해 교섭할 수 있습니까?"
+    a: "단체협약 제안으로 포함할 수 없습니다. 승진, 전보, 채용, 정리해고, 해고 및 업무 배분과 같은 사항은 경영권으로서 제외되지만(제13(3)조), 이에 관한 일반적인 문제는 논의에서 제기할 수 있습니다."
+  - q: "파업은 언제 위법이 됩니까?"
+    a: "예컨대 제43조 또는 제44조에 위배되는 경우(분쟁이 산업법원에 회부된 후, 또는 이미 단체협약이나 판정에 포함된 사항을 다루는 경우), 또는 노동쟁의를 진전시키기 위한 것이 아닌 경우입니다(제45조)."
+  - q: "파업 전에 비밀투표가 필요합니까?"
+    a: "예. 노동조합법 1959(Trade Unions Act 1959) 제25A조에 따라 비밀투표가 필요합니다. 개정 후 요구되는 기준은 종전의 3분의 2 다수에서, 투표권이 있는 조합원의 최소 60퍼센트가 투표에 참여한 가운데 과반수 찬성으로 낮아졌습니다."
 
 lang: "ko"
 sourceContentHash: "d0b1ce6e61182113"
@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether the appointment of a Board of Inquiry (Lembaga Siasatan) and the emergency stop-strike power under s.44A remain with the Minister after the 2020 amendment, or were also transferred to the Director-General."
-  - "Exact current wording and subsection numbering of s.26 after the 2020 amendment (the referral power now vests in the Director-General; confirm whether the old s.26(1)/(2) joint-request vs own-motion structure was renumbered)."
-  - "That every section number and period cited (s.9(3) 21 days, s.9(4) 14 days, s.12A/12B, s.13(2) 90 days, s.13(4) 14 days, s.13(5) 30 days, s.14(2)(b) 3 years, s.16(1) 1 month, s.40(3) RM5,000, s.43 42/21 days, s.46 RM5,000 + RM50/day) matches the current consolidated Act 177 text, as the official PDF is image-based and could not be machine-verified line by line."
-  - "Trade Unions Act 1959 s.25A secret-ballot threshold (more than half of votes with at least 60% of eligible members voting) reflects the current in-force text after the 2022 amendments."
+  - "조사위원회(Board of Inquiry, Lembaga Siasatan) 임명 및 제44A조에 따른 긴급 파업 중지 권한이 2020년 개정 후에도 장관에게 남아 있는지, 아니면 이 또한 노사관계국장에게 이전되었는지."
+  - "2020년 개정 후 제26조의 정확한 현행 문언과 항 번호(회부 권한은 이제 노사관계국장에게 귀속됨. 종전 제26(1)/(2)조의 공동 신청 대 직권 구조가 재번호되었는지 확인)."
+  - "인용된 모든 조항 번호와 기간(제9(3)조 21일, 제9(4)조 14일, 제12A/12B조, 제13(2)조 90일, 제13(4)조 14일, 제13(5)조 30일, 제14(2)(b)조 3년, 제16(1)조 1개월, 제40(3)조 RM5,000, 제43조 42/21일, 제46조 RM5,000 + 1일당 RM50)이 현행 통합 법률 제177호 본문과 일치하는지. 공식 PDF가 이미지 기반이어서 한 줄씩 기계 검증할 수 없었음."
+  - "노동조합법 1959 제25A조 비밀투표 기준(투표권 있는 조합원의 최소 60퍼센트가 투표한 가운데 과반수 찬성)이 2022년 개정 후 현행 시행 본문을 반영하는지."
 
 updated: 2026-08-08
 sources:

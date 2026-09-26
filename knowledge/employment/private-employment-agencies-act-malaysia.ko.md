@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "예. 민간직업소개소법 1981(Private Employment Agencies Act 1981, Act 246)에 따라, 구직자를 고용주와 연결하는 모든 소개소는 노동국(JTKSM)이 발급한 유효한 라이선스를 소지해야 합니다. 세 가지 범주가 있습니다 — 라이선스 A(말레이시아 내 알선 전용), 라이선스 B 및 라이선스 C(국내외 및 비시민권자 근로자). 라이선스 없이 운영하면 RM200,000 이하의 벌금 또는 3년 이하의 징역, 또는 둘 다에 처해질 수 있습니다."
 keyTakeaways:
-  - "Semua agensi pengambilan pekerja swasta, termasuk firma headhunting dan carian eksekutif, wajib berlesen di bawah Akta 246."
-  - "Tiga kategori lesen: A (modal berbayar RM50,000, jaminan wang RM5,000), B (RM100,000 / RM100,000) dan C (RM250,000 / RM250,000)."
-  - "Yuran penempatan dihadkan kepada 25% daripada gaji pokok bulan pertama bagi pencari kerja warga Malaysia, dan tidak lebih daripada satu bulan gaji pokok bagi pekerja bukan warganegara yang ditempatkan dalam Malaysia."
-  - "Beroperasi tanpa lesen boleh didenda sehingga RM200,000 atau penjara sehingga 3 tahun, atau kedua-duanya."
-appliesTo: "Pengasas firma pengambilan pekerja, agensi headhunting dan carian eksekutif, serta pencari kerja yang ingin mengesahkan status lesen agensi."
+  - "헤드헌팅 및 임원 서치 회사를 포함한 모든 민간 채용 소개소는 법률 제246호에 따라 라이선스를 소지해야 합니다."
+  - "세 가지 라이선스 범주: A(납입 자본 RM50,000, 금전 보증 RM5,000), B(RM100,000 / RM100,000), C(RM250,000 / RM250,000)."
+  - "알선 수수료는 말레이시아 국민 구직자의 경우 첫 달 기본급의 25%로 제한되며, 말레이시아 내에 알선되는 비국민 근로자의 경우 1개월치 기본급을 초과할 수 없습니다."
+  - "라이선스 없이 운영하면 최대 RM200,000의 벌금 또는 최대 3년의 징역, 또는 둘 다에 처해질 수 있습니다."
+appliesTo: "채용 회사, 헤드헌팅 및 임원 서치 소개소의 설립자, 그리고 소개소의 라이선스 상태를 확인하려는 구직자."
 
 faq:
-  - q: "Adakah firma headhunting dan carian eksekutif perlu berlesen?"
-    a: "Ya. Apa-apa perniagaan yang menempatkan pencari kerja dengan majikan untuk bayaran termasuk dalam takrif agensi pekerjaan swasta dan mesti memegang lesen di bawah Akta 246. Untuk penempatan dalam Malaysia sahaja, Lesen A memadai."
-  - q: "Berapakah yuran maksimum yang boleh dikenakan kepada pencari kerja?"
-    a: "Bagi pencari kerja warga Malaysia, yuran penempatan dihadkan kepada 25% daripada gaji pokok bulan pertama. Bagi pekerja bukan warganegara yang ditempatkan dalam Malaysia, yuran tidak boleh melebihi satu bulan gaji pokok."
-  - q: "Apakah hukuman beroperasi tanpa lesen?"
-    a: "Denda sehingga RM200,000 atau penjara sehingga tiga tahun, atau kedua-duanya."
+  - q: "헤드헌팅 및 임원 서치 회사도 라이선스가 필요합니까?"
+    a: "예. 구직자를 고용주와 대가를 받고 연결하는 모든 사업은 민간직업소개소의 정의에 포함되며 법률 제246호에 따른 라이선스를 소지해야 합니다. 말레이시아 내 알선 전용의 경우 라이선스 A로 충분합니다."
+  - q: "구직자에게 부과할 수 있는 최대 수수료는 얼마입니까?"
+    a: "말레이시아 국민 구직자의 경우 알선 수수료는 첫 달 기본급의 25%로 제한됩니다. 말레이시아 내에 알선되는 비국민 근로자의 경우 수수료는 1개월치 기본급을 초과할 수 없습니다."
+  - q: "라이선스 없이 운영하면 어떤 처벌을 받습니까?"
+    a: "최대 RM200,000의 벌금 또는 최대 3년의 징역, 또는 둘 다입니다."
 
 lang: "ko"
 sourceContentHash: "f80441a5c89e8b43"
@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan keperluan awalan nama 'Agensi Pekerjaan' terhadap syarat lesen rasmi JTKSM terkini."
-  - "Sahkan had yuran satu bulan gaji pokok bagi pekerja bukan warganegara — pastikan ia terpakai untuk semua kategori dan tidak berubah selepas pindaan terbaru."
-  - "Sahkan jumlah modal berbayar, jaminan wang, tempoh sah 24 bulan dan yuran permohonan RM300 terhadap jadual syarat lesen rasmi JTKSM semasa (angka boleh dipinda)."
+  - "「Agensi Pekerjaan」 명칭 접두어 요건을 JTKSM의 최신 공식 라이선스 조건과 대조하여 확인할 것."
+  - "비국민 근로자에 대한 1개월치 기본급 수수료 한도를 확인할 것 — 모든 범주에 적용되며 최근 개정 이후 변경되지 않았는지 확인할 것."
+  - "납입 자본액, 금전 보증, 유효 기간 24개월, 신청 수수료 RM300을 JTKSM의 현행 공식 라이선스 조건표와 대조하여 확인할 것(수치는 개정될 수 있음)."
 
 updated: 2026-08-08
 sources:

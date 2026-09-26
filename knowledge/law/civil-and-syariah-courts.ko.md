@@ -12,32 +12,32 @@ contentType: "guide"
 sensitivity: "religion"
 
 seoTitle: "말레이시아의 민사 법원 대 샤리아 법원"
-socialTitle: "Malaysia has two court systems — and no ladder between them"
+socialTitle: "말레이시아에는 두 개의 법원 체계가 있으며 — 그 사이에는 계단이 없습니다"
 
 answer: "말레이시아의 민사 법원과 샤리아 법원은 하나의 두 단계가 아니라 두 개의 별개의 체계입니다. 민사 법원은 연방 법원으로, 제121조와 연방 법률에 따라 설치됩니다. 샤리아 법원은 각 주가 주 목록(제9부칙) 제1항에 따라 — 그리고 연방 직할구에 대해서는 연방 법률로 — 구성하며, 이슬람교를 신봉하는 사람들에 대해서만, 그리고 그 항목이 열거하는 사항에 대해서만 행위할 수 있습니다. 제121조 제1A항은 두 고등법원이 샤리아 법원의 관할에 속하는 어떠한 사항에 대해서도 관할권을 가지지 아니한다고 규정합니다."
 keyTakeaways:
-  - "Article 121(1A), inserted by Act A704 with effect from 10 June 1988, provides that the courts referred to in Article 121(1) — the High Court in Malaya and the High Court in Sabah and Sarawak — have no jurisdiction in respect of any matter within the jurisdiction of the Syariah courts"
-  - "Item 1 of List II (State List) of the Ninth Schedule confers on the States the constitution, organization and procedure of Syariah courts, which have jurisdiction only over persons professing the religion of Islam and only over the matters listed in that item"
-  - "The same item states that Syariah courts have no jurisdiction over offences except so far as conferred by federal law"
-  - "That federal law is the Syariah Courts (Criminal Jurisdiction) Act 1965 (Act 355), whose section 2 caps the jurisdiction at imprisonment not exceeding three years, a fine not exceeding RM5,000, whipping not exceeding six strokes, or any combination"
-  - "Syariah courts are not a tier of the federal hierarchy: Article 121(1B) and 121(2) create the Court of Appeal and the Federal Court and say nothing about Syariah courts, so no appeal runs from a Syariah court up that ladder"
-  - "The Syariah system has its own three tiers — Mahkamah Rendah Syariah, Mahkamah Tinggi Syariah, Mahkamah Rayuan Syariah — established separately in each State"
-  - "Item 1 of the State List expressly excepts the Federal Territories of Kuala Lumpur, Labuan and Putrajaya; there the Syariah courts are constituted by federal statute, the Administration of Islamic Law (Federal Territories) Act 1993 (Act 505)"
-  - "Monetary and sentencing thresholds inside the Syariah system are set State by State: Johor's Lower Syariah Court hears mal claims below RM100,000, Perak's below RM300,000"
-  - "The Constitution links the two systems at two points: Article 5(4) treats a Syariah judge as a magistrate for the 24-hour production rule, and Article 145(3) excludes proceedings before a Syariah court from the Attorney General's prosecution power"
-appliesTo: "Anyone trying to understand which Malaysian court hears which matter, why a case in one system does not travel to the other, and where the constitutional text draws the line."
+  - "제121조 제1A항은 Act A704에 의해 추가되어 1988년 6월 10일에 시행되었으며, 제121조 제1항에 언급된 법원 — 말라야 고등법원과 사바·사라왁 고등법원 — 이 샤리아 법원의 관할에 속하는 어떠한 사항에 대해서도 관할권을 가지지 아니한다고 규정합니다"
+  - "제9부칙 제2목록(주 목록) 제1항은 주에 샤리아 법원의 구성·조직 및 절차를 부여하며, 샤리아 법원은 이슬람교를 신봉하는 사람들에 대해서만, 그리고 그 항목에 열거된 사항에 대해서만 관할권을 가집니다"
+  - "동일한 항목은 샤리아 법원이 연방 법률로 부여되는 한도를 제외하고는 범죄에 대한 관할권을 가지지 아니한다고 규정합니다"
+  - "그 연방 법률이 샤리아 법원(형사 관할)법(Syariah Courts (Criminal Jurisdiction) Act 1965, Act 355)이며, 그 제2조는 관할권을 3년을 초과하지 아니하는 금고, RM5,000을 초과하지 아니하는 벌금, 6대를 초과하지 아니하는 태형, 또는 그 병과로 제한합니다"
+  - "샤리아 법원은 연방 서열의 한 단계가 아닙니다. 제121조 제1B항과 제121조 제2항은 항소법원과 연방법원을 설치하나 샤리아 법원에 대하여는 아무것도 규정하지 아니하므로, 샤리아 법원에서 그 사다리를 따라 올라가는 상소는 없습니다"
+  - "샤리아 체계는 자체의 세 단계 — 하급 샤리아 법원(Mahkamah Rendah Syariah), 샤리아 고등법원(Mahkamah Tinggi Syariah), 샤리아 항소법원(Mahkamah Rayuan Syariah) — 를 가지며, 각 주에 별도로 설치됩니다"
+  - "주 목록 제1항은 쿠알라룸푸르·라부안·푸트라자야 연방 직할구를 명시적으로 제외하며; 그곳에서 샤리아 법원은 연방 법령인 이슬람법 시행(연방 직할구)법(Administration of Islamic Law (Federal Territories) Act 1993, Act 505)에 의해 구성됩니다"
+  - "샤리아 체계 내부의 금전 및 양형 기준액은 주마다 정해집니다. 조호르의 하급 샤리아 법원은 RM100,000 미만의 민사(mal) 청구를, 페락의 하급 샤리아 법원은 RM300,000 미만의 청구를 심리합니다"
+  - "헌법은 두 체계를 두 곳에서 연결합니다. 즉 제5조 제4항은 24시간 인치 규칙에서 샤리아 법원의 판사를 치안판사로 취급하며, 제145조 제3항은 샤리아 법원 앞의 절차를 법무장관의 소추 권한에서 제외합니다"
+appliesTo: "어느 말레이시아 법원이 어떤 사항을 심리하는지, 한 체계의 사건이 왜 다른 체계로 넘어가지 아니하는지, 그리고 헌법 문언이 어디에 경계를 긋는지를 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Are Syariah courts higher or lower than the Federal Court?"
-    a: "Neither. Article 121(1B) creates the Court of Appeal and Article 121(2) creates the Federal Court, and both describe their appellate jurisdiction as running from the High Court or from the Court of Appeal. Syariah courts are not mentioned in either clause. They are constituted under State law (or, for the Federal Territories, under Act 505), so they sit outside the hierarchy described in Article 121 rather than above or below any part of it."
-  - q: "Can a Syariah court make an order against a non-Muslim?"
-    a: "Item 1 of List II of the Ninth Schedule confers jurisdiction on Syariah courts 'only over persons professing the religion of Islam'. The same item also limits them to the matters enumerated in that item. Both limits are in the constitutional text itself, not in State law."
-  - q: "What is the maximum sentence a Syariah court can pass?"
-    a: "Section 2 of the Syariah Courts (Criminal Jurisdiction) Act 1965 (Act 355) provides that the jurisdiction conferred is not to be exercised for any offence punishable with imprisonment exceeding three years, a fine exceeding five thousand ringgit, whipping exceeding six strokes, or any combination of these. A State may prescribe a lower ceiling, but not a higher one, because the power to deal with offences comes only from federal law."
-  - q: "Why does the Attorney General not prosecute in the Syariah courts?"
-    a: "Article 145(3) gives the Attorney General power to institute, conduct or discontinue proceedings for an offence, but expressly excludes proceedings before a Syariah court, a native court or a court-martial. Prosecution in the Syariah courts is conducted by Syariah prosecutors appointed under the relevant State enactment or, in the Federal Territories, under Act 505."
-  - q: "Is there one Syariah court system for the whole country?"
-    a: "No. Each State constitutes its own Syariah courts under its own enactment, and the Federal Territories have theirs under Act 505. Jabatan Kehakiman Syariah Malaysia, an agency under the Prime Minister's Department, describes its role as coordinating and standardising the administration of Syariah law and judiciary across Malaysia — coordination, not a single national court."
+  - q: "샤리아 법원은 연방법원보다 상위입니까, 하위입니까?"
+    a: "둘 다 아닙니다. 제121조 제1B항은 항소법원을, 제121조 제2항은 연방법원을 설치하며, 두 규정 모두 그 상소 관할이 고등법원 또는 항소법원으로부터 이어진다고 서술합니다. 샤리아 법원은 어느 항에도 언급되지 아니합니다. 샤리아 법원은 주 법률(또는 연방 직할구의 경우 Act 505)에 따라 구성되므로, 제121조가 서술하는 서열의 어느 부분의 위나 아래가 아니라 그 밖에 자리합니다."
+  - q: "샤리아 법원이 비무슬림에 대하여 명령을 내릴 수 있습니까?"
+    a: "제9부칙 제2목록 제1항은 샤리아 법원에 '이슬람교를 신봉하는 사람들에 대해서만' 관할권을 부여합니다. 동일한 항목은 또한 샤리아 법원을 그 항목에 열거된 사항으로 한정합니다. 두 한계 모두 주 법률이 아니라 헌법 문언 자체에 있습니다."
+  - q: "샤리아 법원이 선고할 수 있는 최고형은 무엇입니까?"
+    a: "샤리아 법원(형사 관할)법(Act 355) 제2조는 부여된 관할권이 3년을 초과하는 금고, 5천 링깃을 초과하는 벌금, 6대를 초과하는 태형, 또는 그 병과로 처벌될 수 있는 어떠한 범죄에 대해서도 행사되어서는 아니 된다고 규정합니다. 주는 더 낮은 상한을 정할 수 있으나 더 높은 상한은 정할 수 없는데, 범죄를 다룰 권한이 연방 법률에서만 나오기 때문입니다."
+  - q: "법무장관은 왜 샤리아 법원에서 소추하지 아니합니까?"
+    a: "제145조 제3항은 법무장관에게 범죄에 대한 절차를 개시·수행 또는 중지할 권한을 부여하되, 샤리아 법원, 원주민 법원 또는 군사 법원 앞의 절차는 명시적으로 제외합니다. 샤리아 법원에서의 소추는 해당 주 법령에 따라, 또는 연방 직할구에서는 Act 505에 따라 임명된 샤리아 검사가 수행합니다."
+  - q: "전국을 위한 하나의 샤리아 법원 체계가 있습니까?"
+    a: "아니요. 각 주는 자체의 법령에 따라 자체의 샤리아 법원을 구성하며, 연방 직할구는 Act 505에 따라 자체의 샤리아 법원을 둡니다. 총리실 산하 기관인 말레이시아 샤리아 사법청(Jabatan Kehakiman Syariah Malaysia)은 그 역할을 말레이시아 전역에서 샤리아법의 시행과 샤리아 사법부를 조율하고 표준화하는 것으로 서술합니다 — 이는 조율이며, 단일한 전국 법원이 아닙니다."
 
 lang: "ko"
 sourceContentHash: "871806c1d22f2076"
@@ -57,7 +57,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Current monetary and sentencing thresholds of the Syariah Subordinate Court and Syariah High Court in the Federal Territories, which have been amended since the 1 January 2013 reprint of Act 505 and are therefore not stated here"
+  - "연방 직할구의 하급 샤리아 법원 및 샤리아 고등법원의 현행 금전 및 양형 기준액은 Act 505의 2013년 1월 1일 재발행판 이후 개정되었으므로 여기에 기재하지 아니하였습니다"
 updated: 2026-07-24
 sources:
   - title: "Federal Constitution, Reprint as at 15 October 2020 — Article 5(4), Article 121, Article 145(3), Ninth Schedule List I item 4 and List II item 1"

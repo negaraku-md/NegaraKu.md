@@ -14,28 +14,28 @@ sensitivity: "none"
 
 answer: "이민법(Immigration Act 1959/63, Act 155)은 말레이시아 입국과 체류를 통제하는 주요 법률입니다. 비자는 말레이시아로 이동할 수 있게 해 주고, 도착 시 날인되는 패스는 실제로 무엇을 얼마나 오래 할 수 있는지를 정합니다. 체류기간 초과는 제15조 제4항상 엄격책임 범죄로, 최소 RM10,000의 벌금, 최대 5년의 징역 또는 둘 다에 처해지며, 구금, 강제퇴거 및 재입국 블랙리스트 등재가 뒤따를 가능성이 높습니다. 미등록 외국인의 사용자와 숙소 제공자는 자신들의 별도 범죄와 더 무거운 처벌에 직면합니다."
 keyTakeaways:
-  - "A visa is permission to travel to Malaysia; the pass stamped on entry is what actually authorises your stay and its purpose — the two are legally distinct."
-  - "Overstaying is a strict-liability offence under Section 15(4): a fine of not less than RM10,000, up to five years' imprisonment, or both, with a compound option and a re-entry blacklist."
-  - "Illegal entry under Section 6(3) can additionally carry whipping of up to six strokes — a penalty overstaying alone does not attract."
-  - "Employment Pass categories are set by monthly salary; since 1 June 2026 Category I and II run up to 10 years and Category III up to 5 years."
-  - "Employers who hire undocumented workers (Section 55B) and anyone who harbours them (Section 56(1)(d)) commit separate offences with fines from RM10,000 to RM50,000 per person."
-appliesTo: "Expatriates, foreign workers, digital nomads, investors, employers and anyone hosting non-citizens in Malaysia."
+  - "비자는 말레이시아로 이동할 허가이며; 도착 시 날인되는 패스가 실제로 여러분의 체류와 그 목적을 허가합니다 — 두 가지는 법적으로 구별됩니다."
+  - "체류기간 초과는 제15조 제4항상 엄격책임 범죄로, 최소 RM10,000의 벌금, 최대 5년의 징역 또는 둘 다에 처하며, 즉결 벌금 선택지와 재입국 블랙리스트가 뒤따릅니다."
+  - "제6조 제3항상 불법 입국은 추가로 최대 6대의 태형을 부를 수 있으며 — 이는 체류기간 초과 단독으로는 부과되지 아니하는 처벌입니다."
+  - "취업패스 카테고리는 월 급여로 정해지며; 2026년 6월 1일부터 카테고리 I과 II는 최대 10년, 카테고리 III은 최대 5년입니다."
+  - "미등록 근로자를 고용하는 사용자(제55B조)와 그들을 은닉하는 자(제56조 제1항(d))는 1인당 RM10,000에서 RM50,000의 벌금이 부과되는 별도의 범죄를 저지릅니다."
+appliesTo: "말레이시아의 외국인 전문직, 외국인 근로자, 디지털 노마드, 투자자, 사용자, 그리고 비국민을 재우는 모든 사람."
 
 faq:
-  - q: "What is the difference between a visa and a pass in Malaysia?"
-    a: "A visa is an endorsement that permits a foreigner to travel to a Malaysian entry point; a pass is what the immigration officer grants on arrival and it defines the purpose and length of the actual stay. You can hold a valid visa and still be refused a pass, and it is the pass expiry — not the visa — that determines when an overstay begins."
-  - q: "What is the penalty for overstaying in Malaysia?"
-    a: "Under Section 15(4) of the Immigration Act 1959/63, overstaying is punishable by a fine of not less than RM10,000, imprisonment for up to five years, or both. Immigration may offer a compound (an out-of-court settlement) of up to RM3,000 in eligible cases, but overstayers also risk detention, deportation and being blacklisted from re-entry for a period set at the Immigration Department's discretion."
-  - q: "Does overstaying carry whipping?"
-    a: "Overstaying under Section 15(4) does not, by itself, list whipping among its penalties. Whipping of up to six strokes is attached to illegal entry under Section 6(3) and to document falsification under Section 55D, which are separate and more serious offences."
-  - q: "Can I work in Malaysia on a social visit pass?"
-    a: "No. A social visit pass (the pass most tourists and short-term visitors receive) does not permit employment. Working requires an Employment Pass, a Temporary Employment Pass, or a Professional Visit Pass. Working without the correct pass exposes both the worker and the employer to prosecution under the Act."
-  - q: "How long can an Employment Pass holder stay in Malaysia?"
-    a: "An Employment Pass is tied to the employment contract and issued by salary category. Since 1 June 2026, Category I (RM20,000+/month) and Category II (RM10,000-RM19,999) may be granted for up to 10 years with the same employer, and Category III (RM5,000-RM9,999) for up to 5 years. The duration resets on a change of employer."
-  - q: "Can my family join me on my Employment Pass?"
-    a: "Employment Pass holders can sponsor a Dependant Pass for a spouse and children under 18 (including legally adopted children). Older children, parents and certain other relatives are typically covered by a Long-Term Social Visit Pass instead. Eligibility is generally limited to pass holders earning above RM5,000 a month."
-  - q: "What happens to employers who hire undocumented workers?"
-    a: "Employing a foreigner without a valid pass is an offence under Section 55B, carrying a fine of RM10,000 to RM50,000 or imprisonment up to 12 months for each worker. Hiring five or more undocumented workers raises the exposure to imprisonment of six months to five years and possible whipping."
+  - q: "말레이시아에서 비자와 패스의 차이는 무엇입니까?"
+    a: "비자는 외국인이 말레이시아 입국 지점으로 이동하는 것을 허가하는 배서이며; 패스는 이민 심사관이 도착 시 부여하는 것으로 실제 체류의 목적과 기간을 정합니다. 유효한 비자를 소지하고도 패스를 거부당할 수 있으며, 체류기간 초과가 언제 시작되는지를 정하는 것은 비자가 아니라 패스의 만료입니다."
+  - q: "말레이시아에서 체류기간 초과의 처벌은 무엇입니까?"
+    a: "이민법(Immigration Act 1959/63) 제15조 제4항에 따라, 체류기간 초과는 최소 RM10,000의 벌금, 최대 5년의 징역, 또는 둘 다에 처합니다. 이민국은 적격 사건에서 최대 RM3,000의 즉결 벌금(재판 외 화해)을 제안할 수 있으나, 체류기간 초과자는 구금, 강제퇴거, 그리고 이민국의 재량으로 정해지는 기간 동안의 재입국 블랙리스트 등재의 위험도 있습니다."
+  - q: "체류기간 초과에 태형이 부과됩니까?"
+    a: "제15조 제4항상 체류기간 초과는 그 자체로는 처벌에 태형을 포함하지 아니합니다. 최대 6대의 태형은 제6조 제3항상 불법 입국과 제55D조상 문서 위조에 부착되며, 이는 별개의 더 중대한 범죄입니다."
+  - q: "사회방문패스로 말레이시아에서 일할 수 있습니까?"
+    a: "아니요. 사회방문패스(대부분의 관광객과 단기 방문자가 받는 패스)는 취업을 허가하지 아니합니다. 취업에는 취업패스, 임시취업패스, 또는 전문직방문패스가 필요합니다. 올바른 패스 없이 일하면 근로자와 사용자 모두 이 법에 따라 기소될 수 있습니다."
+  - q: "취업패스 소지자는 말레이시아에 얼마나 오래 체류할 수 있습니까?"
+    a: "취업패스는 고용계약과 연계되어 급여 카테고리별로 발급됩니다. 2026년 6월 1일부터, 카테고리 I(월 RM20,000 이상)과 카테고리 II(RM10,000-RM19,999)는 동일 사용자와 최대 10년까지, 카테고리 III(RM5,000-RM9,999)은 최대 5년까지 부여될 수 있습니다. 그 기간은 사용자를 변경하면 재설정됩니다."
+  - q: "제 취업패스로 가족이 동반할 수 있습니까?"
+    a: "취업패스 소지자는 배우자와 18세 미만 자녀(법적으로 입양된 자녀 포함)를 위한 동반가족패스를 후원할 수 있습니다. 더 나이가 많은 자녀, 부모 및 특정 그 밖의 친족은 통상 장기사회방문패스로 다루어집니다. 자격은 일반적으로 월 RM5,000을 초과하여 버는 패스 소지자로 한정됩니다."
+  - q: "미등록 근로자를 고용하는 사용자는 어떻게 됩니까?"
+    a: "유효한 패스 없이 외국인을 고용하는 것은 제55B조상 범죄로, 근로자 1인당 RM10,000에서 RM50,000의 벌금 또는 최대 12개월의 징역이 부과됩니다. 5인 이상의 미등록 근로자를 고용하면 6개월에서 5년의 징역과 태형 가능성으로 위험이 커집니다."
 
 lang: "ko"
 sourceContentHash: "0a352a7bd7d5e1fc"
@@ -55,7 +55,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Re-entry blacklist durations after an overstay — the cited IMI pages do not publish specific ban lengths; blacklisting is applied at the Department's discretion."
+  - "체류기간 초과 후 재입국 블랙리스트 기간 — 인용된 IMI 페이지는 구체적인 금지 기간을 공표하지 아니하며; 블랙리스트 등재는 이민국의 재량으로 적용됩니다."
 
 updated: 2026-08-14
 sources:

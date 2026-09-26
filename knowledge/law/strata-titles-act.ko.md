@@ -14,19 +14,19 @@ sensitivity: "none"
 
 answer: "말레이시아의 콘도미니엄이나 아파트 소유는 두 개의 법에 의해 규율됩니다. 분층소유권법 1985(Strata Titles Act 1985, Act 318)는 건물이 자체의 분층 소유권을 가진 개별 구획으로 분할될 수 있게 합니다. 분층관리법 2013(Strata Management Act 2013, Act 757)은 일상 관리 — 공동관리기구(JMB)와 관리단(MC)의 구성, 지분 단위에 따른 관리비, 10%의 적립기금, 그리고 분쟁을 위한 분층관리심판소 — 를 규율합니다."
 keyTakeaways:
-  - "Akta Hakmilik Strata 1985 (Akta 318) mengendalikan pecah bahagi bangunan dan pengeluaran hakmilik strata; ia terpakai di Semenanjung Malaysia, Wilayah Persekutuan Putrajaya dan Labuan."
-  - "Akta Pengurusan Strata 2013 (Akta 757) mewujudkan tiga tempoh pengurusan: tempoh pemaju, tempoh JMB, dan tempoh Perbadanan Pengurusan (MC)."
-  - "Caj penyelenggaraan diagihkan mengikut unit syer setiap petak, dan sumbangan kumpulan wang penjelas ialah 10% daripada caj tersebut."
-  - "Pertikaian boleh dibawa ke Tribunal Pengurusan Strata untuk tuntutan sehingga RM250,000, tanpa perlu ke mahkamah."
-appliesTo: "Pembeli, pemilik dan penyewa kondominium, apartmen dan pangsapuri di Semenanjung Malaysia, serta ahli jawatankuasa JMB/MC."
+  - "분층소유권법 1985(Akta 318)는 건물의 분할과 분층 소유권의 발급을 다루며; 말레이반도, 푸트라자야 연방 직할구 및 라부안에 적용됩니다."
+  - "분층관리법 2013(Akta 757)은 세 개의 관리 기간을 창설합니다. 즉 개발자 기간, JMB 기간, 그리고 관리단(MC) 기간입니다."
+  - "관리비는 각 구획의 지분 단위에 따라 배분되며, 적립기금 기여는 그 관리비의 10%입니다."
+  - "분쟁은 법원에 갈 필요 없이 RM250,000까지의 청구에 대하여 분층관리심판소로 가져갈 수 있습니다."
+appliesTo: "말레이반도의 콘도미니엄, 아파트 및 플랫의 구매자, 소유자 및 임차인, 그리고 JMB/MC 위원회 위원."
 
 faq:
-  - q: "Bilakah Badan Pengurusan Bersama (JMB) perlu dibentuk?"
-    a: "Pemaju wajib memanggil mesyuarat agung tahunan pertama untuk membentuk JMB dalam tempoh 12 bulan dari penyerahan milikan kosong (Seksyen 17, Akta 757). JMB kekal beroperasi sehingga Perbadanan Pengurusan (MC) diwujudkan."
-  - q: "Berapakah sumbangan kumpulan wang penjelas (sinking fund)?"
-    a: "Sumbangan kepada kumpulan wang penjelas ialah jumlah bersamaan 10% daripada caj penyelenggaraan (Seksyen 12(4), Akta 757). Ia dana simpanan untuk kerja besar seperti mengecat semula dan menaik taraf lif."
-  - q: "Ke mana saya boleh membawa pertikaian dengan JMB atau MC?"
-    a: "Kepada Tribunal Pengurusan Strata, yang mengendalikan tuntutan sehingga RM250,000 dengan lebih cepat dan murah berbanding mahkamah. Pesuruhjaya Bangunan (COB) di pihak berkuasa tempatan pula menguatkuasakan pematuhan akta."
+  - q: "공동관리기구(JMB)는 언제 구성되어야 합니까?"
+    a: "개발자는 공실 인도로부터 12개월 이내에 JMB를 구성하기 위한 첫 연차 총회를 소집하여야 합니다(Akta 757 제17조). JMB는 관리단(MC)이 구성될 때까지 계속 운영됩니다."
+  - q: "적립기금(sinking fund) 기여는 얼마입니까?"
+    a: "적립기금 기여는 관리비의 10%에 상당하는 금액입니다(Akta 757 제12조 제4항). 이는 재도장이나 승강기 개량 같은 대규모 공사를 위한 저축 기금입니다."
+  - q: "JMB나 MC와의 분쟁은 어디로 가져갈 수 있습니까?"
+    a: "분층관리심판소로 가져갈 수 있으며, 이는 법원보다 더 빠르고 저렴하게 RM250,000까지의 청구를 처리합니다. 지방 당국의 건물 청장(COB)은 이 법의 준수를 집행합니다."
 
 lang: "ko"
 sourceContentHash: "788e401fa0ccd9ab"
@@ -40,7 +40,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Nama sebenar dan status undang-undang strata Sabah dan Sarawak yang berasingan daripada Akta 318."
+  - "Akta 318과 별개인 사바와 사라왁 분층 법의 실제 명칭 및 상태."
 revisions:
   - revision: 0
     date: 2026-08-07

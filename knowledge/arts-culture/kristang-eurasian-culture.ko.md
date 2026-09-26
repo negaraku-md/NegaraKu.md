@@ -14,22 +14,22 @@ sensitivity: "none"
 
 answer: "크리스탕은 믈라카의 포르투갈-아시아 혼혈 유라시안 공동체와, 그들의 크리올인 파피아 크리스탕(Papia Kristang)을 함께 가리킵니다. 그 뿌리는 1511년 포르투갈의 믈라카 정복과 그에 뒤이은 통혼에서 비롯됩니다. 그들 대부분은 로마 가톨릭을 믿으며 1920~1930년대에 조성되기 시작한 우종 파시르(Ujong Pasir)의 포르투갈인 마을(Perkampungan Portugis)에 모여 있습니다. 파피아 크리스탕은 1980년대부터 유네스코 소멸위기언어 지도(Atlas of the World's Languages in Danger)에 소멸위기 언어로 등재되었지만, 크리스탕 문화 — 브라뇨 춤, '진클리 노나(Jinkli Nona)' 같은 노래, 그리고 인트루두(Intrudu)와 페스타 산 페드루(Festa San Pedro) 축제 — 는 여전히 살아 있습니다."
 keyTakeaways:
-  - "Kristang ialah masyarakat Eurasia berketurunan Portugis-Asia di Melaka; nenek moyang mereka berpangkal pada penawanan Melaka oleh Portugis pada 1511."
-  - "Papia Kristang, kreol berasaskan Portugis lama bercampur Melayu, disenaraikan sebagai bahasa terancam dalam Atlas Bahasa Terancam UNESCO sejak 1980-an."
-  - "Perkampungan Portugis di Ujong Pasir, Melaka mula dibangunkan pada 1920-an–1930-an di atas kira-kira 28 ekar tanah paya di kaki Bukit St John."
-  - "Tarian branyo (berasal daripada corridinho Portugis) dan lagu seperti 'Jinkli Nona' masih dipersembahkan pada perayaan seperti Intrudu dan Festa San Pedro."
-  - "Inisiatif Kodrah Kristang di Singapura, dimulakan Mac 2016, menarik lebih 400 pelajar dan 1,400 peserta pada Festival Bahasa Kristang sulung Mei 2017."
-appliesTo: "Sesiapa yang mahu memahami identiti, bahasa dan budaya masyarakat Kristang (Portugis-Eurasia) Melaka."
+  - "크리스탕(Kristang)은 믈라카(Melaka)의 포르투갈-아시아 혼혈 유라시안 공동체입니다. 그들의 조상은 1511년 포르투갈의 믈라카 정복에 뿌리를 둡니다."
+  - "옛 포르투갈어에 말레이어가 섞인 크리올인 파피아 크리스탕(Papia Kristang)은 1980년대부터 유네스코 소멸위기언어 지도(Atlas)에 소멸위기 언어로 등재되었습니다."
+  - "믈라카 우종 파시르(Ujong Pasir)의 포르투갈인 마을(Perkampungan Portugis)은 1920~1930년대에 부킷 세인트존(Bukit St John) 기슭의 약 28에이커 습지 위에 조성되기 시작했습니다."
+  - "브라뇨(branyo, 포르투갈의 코리딘호corridinho에서 유래) 춤과 「진클리 노나(Jinkli Nona)」 같은 노래는 인트루두(Intrudu)와 페스타 산 페드루(Festa San Pedro) 같은 축제에서 여전히 공연됩니다."
+  - "2016년 3월 싱가포르에서 시작된 코드라 크리스탕(Kodrah Kristang) 사업은 400명이 넘는 학습자를 끌었으며, 2017년 5월 첫 크리스탕어 축제에는 1,400명이 참가했습니다."
+appliesTo: "믈라카 크리스탕(포르투갈계 유라시안) 공동체의 정체성, 언어, 문화를 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "Apakah maksud perkataan 'Kristang'?"
-    a: "Kristang berasal daripada perkataan Portugis untuk 'Kristian' (Cristão). Ia merujuk kepada masyarakat Eurasia berketurunan Portugis-Asia di Melaka yang beragama Katolik, dan juga kepada bahasa kreol mereka, Papia Kristang."
-  - q: "Adakah bahasa Kristang terancam?"
-    a: "Ya. Papia Kristang telah disenaraikan sebagai bahasa terancam dalam Atlas Bahasa Terancam UNESCO sejak 1980-an, dan penyelidik menggambarkannya sebagai terancam kritikal. Di Singapura sahaja dianggarkan kurang daripada 100 penutur fasih masih tinggal."
-  - q: "Di manakah Perkampungan Portugis?"
-    a: "Di Ujong Pasir, Melaka. Ia mula dibangunkan pada 1920-an–1930-an di atas kira-kira 28 ekar tanah paya tepi laut di kaki Bukit St John, sebagai penempatan nelayan untuk keturunan Portugis yang berselerak."
-  - q: "Apakah perayaan Intrudu?"
-    a: "Intrudu ialah pesta air tahunan masyarakat Portugis Melaka pada Ahad sebelum Rabu Abu (permulaan musim Prapaskah). Penduduk dan pengunjung menyimbah air antara satu sama lain di sepanjang Perkampungan Portugis, dan perayaan itu diiringi tarian branyo."
+  - q: "「크리스탕」이라는 낱말은 무엇을 뜻합니까?"
+    a: "크리스탕은 「기독교인」을 뜻하는 포르투갈어(Cristão)에서 왔습니다. 이는 가톨릭을 믿는 믈라카의 포르투갈-아시아 혼혈 유라시안 공동체를 가리키며, 그들의 크리올어인 파피아 크리스탕(Papia Kristang)도 함께 가리킵니다."
+  - q: "크리스탕어는 소멸 위기에 있습니까?"
+    a: "네. 파피아 크리스탕은 1980년대부터 유네스코 소멸위기언어 지도에 소멸위기 언어로 등재되어 있으며, 연구자들은 이를 위급 소멸위기(critically endangered)로 서술합니다. 싱가포르에서만 유창한 화자가 100명 미만으로 추산됩니다."
+  - q: "포르투갈인 마을은 어디에 있습니까?"
+    a: "믈라카 우종 파시르(Ujong Pasir)에 있습니다. 흩어져 살던 포르투갈계 후손을 위한 어촌 정착지로, 1920~1930년대에 부킷 세인트존(Bukit St John) 기슭의 약 28에이커 해변 습지 위에 조성되기 시작했습니다."
+  - q: "인트루두 축제란 무엇입니까?"
+    a: "인트루두(Intrudu)는 재의 수요일(사순절의 시작) 전 일요일에 믈라카 포르투갈 공동체가 여는 연례 물놀이 축제입니다. 주민과 방문객이 포르투갈인 마을 곳곳에서 서로에게 물을 끼얹으며, 이 축제는 브라뇨 춤을 곁들입니다."
 
 lang: "ko"
 sourceContentHash: "6be0336bb559138c"
@@ -43,9 +43,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Tafsiran simbolik Intrudu sebagai 'penyucian dosa' — amalan menyimbah air dan masanya (Ahad sebelum Rabu Abu) disahkan oleh The Star, tetapi makna penyucian/pembasuhan dosa hanya muncul dalam sumber blog/media sosial, bukan sumber utama yang berwibawa; perlu disahkan atau digugurkan."
-  - "Kronologi pembinaan Perkampungan Portugis (kira-kira 28 ekar; 10 rumah menjelang awal 1930-an berkembang kepada kira-kira 60) bersumberkan ExpatGo (sekunder) — wajar disahkan silang dengan rekod kolonial/arkib."
-  - "Anggaran 'kurang daripada 100 penutur fasih di Singapura' dan pengelasan 'terancam kritikal' — sahkan tahun rujukan dan takrif yang digunakan penyelidik."
+  - "인트루두를 「죄의 정화」로 보는 상징적 해석 — 물을 끼얹는 관행과 그 시기(재의 수요일 전 일요일)는 The Star가 확인해 주지만, 죄의 정화·씻김이라는 의미는 권위 있는 1차 자료가 아니라 블로그·소셜 미디어 자료에만 나타납니다. 확인하거나 삭제해야 합니다."
+  - "포르투갈인 마을 조성의 연표(약 28에이커, 1930년대 초 10채에서 약 60채로 늘어남)는 ExpatGo(이차 자료)에 근거합니다 — 식민 시대 기록이나 문서보관소와 교차 확인하는 것이 마땅합니다."
+  - "「싱가포르에 유창한 화자 100명 미만」이라는 추산과 「위급 소멸위기」 분류 — 연구자가 사용한 기준 연도와 정의를 확인하십시오."
 revisions:
   - revision: 0
     date: 2026-08-01

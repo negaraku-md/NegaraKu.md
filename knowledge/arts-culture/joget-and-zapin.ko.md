@@ -11,13 +11,13 @@ contentType: "guide"
 sensitivity: "none"
 answer: "조겟과 자핀은 기원이 서로 다른 두 말레이 민속 춤입니다. 조겟은 16세기 믈라카에서 포르투갈 상인들이 들여온 브라뇨(branyo) 춤에서 발전했으며, 빠르고 흥겨운 템포로 짝을 지어 추고, 근당(gendang), 감부스(gambus), 르바나(rebana)가 반주합니다. 자핀은 예멘 하드라마우트에서 온 아랍 상인과 선교사들이 들여와 조호르에 뿌리내렸으며, 단정함과 절제된 발동작을 강조하고 감부스와 마르와스(marwas)가 반주합니다."
 keyTakeaways:
-  - "Joget berasal daripada penyesuaian tarian branyo (juga disebut corridinho) Portugis di Melaka pada abad ke-16, digabungkan dengan gerak kaki dan jiwa Melayu"
-  - "Zapin dibawa masuk oleh pedagang dan pendakwah Arab dari Hadhramaut, Yaman, dan berkembang menjadi dua aliran: Zapin Arab dan Zapin Melayu"
-  - "Joget ditarikan berpasangan lelaki-perempuan tanpa bersentuhan, dengan tempo pantas 2/4 atau 3/8"
-  - "Zapin asalnya hanya ditarikan lelaki, dengan gerak kaki pantas namun gerak tangan yang minimal dan sopan"
-  - "Alat pengiring utama Joget ialah gendang, gambus dan rebana; Zapin bersandar pada gambus dan marwas"
-  - "Jabatan Warisan Negara mencatatkan Zapin sebagai gabungan unsur kesenian Melayu dan Timur Tengah yang dibawa masuk ke Semenanjung oleh imigran Arab di Johor"
-appliesTo: "Sesiapa yang ingin memahami perbezaan asal usul, muzik dan gerakan antara Joget dan Zapin sebagai dua tarian rakyat Melayu yang berasingan."
+  - "조겟(joget)은 16세기 믈라카(Melaka)에서 포르투갈의 브라뇨(branyo, 코리딘호corridinho라고도 함) 춤이 말레이의 발동작과 정서와 결합해 변용된 데서 유래했습니다"
+  - "자핀(zapin)은 예멘 하드라마우트(Hadhramaut)에서 온 아랍 상인과 선교사들이 들여왔으며, 자핀 아랍(Zapin Arab)과 자핀 믈라유(Zapin Melayu)라는 두 갈래로 발전했습니다"
+  - "조겟은 남녀가 몸을 닿지 않고 짝을 지어 추며, 2/4 또는 3/8의 빠른 템포를 지닙니다"
+  - "자핀은 본래 남성만 추었으며, 빠른 발동작에 최소하고 단정한 손동작을 지닙니다"
+  - "조겟의 주요 반주 악기는 근당(gendang), 감부스(gambus), 르바나(rebana)이며, 자핀은 감부스와 마르와스(marwas)에 기댑니다"
+  - "국가유산국(Jabatan Warisan Negara)은 자핀을 말레이와 중동 예술 요소의 결합으로 기록하며, 조호르(Johor)에 정착한 아랍 이민자들이 반도로 들여왔다고 봅니다"
+appliesTo: "별개의 두 말레이 민속 춤인 조겟과 자핀 사이의 기원, 음악, 동작의 차이를 이해하고자 하는 모든 사람."
 
 lang: "ko"
 sourceContentHash: "f85648fc29f5d316"
@@ -36,7 +36,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Abad kemasukan Zapin ke Semenanjung Tanah Melayu disebut secara berbeza antara dua sumber rasmi — Jabatan Warisan Negara menyebut abad ke-14, manakala pemetaan budaya JKKN menyebut abad ke-15 hingga ke-16. Artikel ini menyatakan kedua-dua rujukan tanpa memilih satu."
+  - "자핀이 말레이반도로 들어온 세기는 두 공식 자료 사이에서 다르게 언급됩니다 — 국가유산국(Jabatan Warisan Negara)은 14세기를, JKKN 문화 지도는 15세기에서 16세기를 언급합니다. 이 글은 하나를 택하지 않고 두 자료를 모두 밝힙니다."
 
 updated: 2026-07-24
 sources:

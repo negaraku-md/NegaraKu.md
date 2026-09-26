@@ -14,24 +14,24 @@ sensitivity: "none"
 
 answer: "SUHAKAM은 Act 597(1999)에 따라 설립된 말레이시아의 국가인권위원회입니다. 그것은 인권 침해 진정을 직권으로 또는 진정에 따라 조사하고, 증인을 소환하며, 공개 심문을 개최할 수 있습니다. 그러나 그 판단은 구속력이 없습니다. 즉 SUHAKAM은 관련 당국에 권고와 함께 사안을 회부할 수 있을 뿐이며, 법원에서 계속 중이거나 이미 판단된 사안은 조사할 수 없습니다."
 keyTakeaways:
-  - "Ditubuhkan di bawah Akta Suruhanjaya Hak Asasi Manusia Malaysia 1999 (Akta 597)"
-  - "Keahlian tidak kurang tujuh dan tidak lebih dua puluh ahli, dilantik oleh Yang di-Pertuan Agong atas syor Perdana Menteri, yang mesti berunding dahulu dengan jawatankuasa di bawah seksyen 11A"
-  - "Tempoh jawatan tiga tahun, layak dilantik semula sekali untuk tiga tahun lagi"
-  - "Boleh menyiasat atas usul sendiri (seksyen 12) dan memanggil saksi serta menerima keterangan (seksyen 14)"
-  - "Tidak boleh menyiasat perkara yang sedang dalam prosiding mahkamah atau telah diputuskan mahkamah (seksyen 12(2))"
-  - "Penemuan bersifat cadangan; SUHAKAM merujuk perkara dengan syor (seksyen 13) dan melaporkan kepada Parlimen setiap tahun (seksyen 21)"
-  - "Mengekalkan taraf 'A' GANHRI apabila disyorkan diakreditasi semula pada Jun 2021"
-appliesTo: "Rakyat dan penduduk yang ingin memahami peranan, kuasa dan had SUHAKAM, pelajar undang-undang, wartawan dan mana-mana pihak yang mempertimbangkan untuk membuat aduan hak asasi manusia."
+  - "말레이시아 인권위원회법 1999(Akta 597)에 따라 설립되었습니다"
+  - "위원은 7인 이상 20인 이하로, 총리의 제청으로 양 디페르투안 아공이 임명하며, 총리는 먼저 제11A조 위원회와 협의하여야 합니다"
+  - "임기는 3년이며, 추가 3년으로 단 한 번 재임명될 수 있습니다"
+  - "직권으로 조사할 수 있고(제12조) 증인을 소환하며 증거를 수령할 수 있습니다(제14조)"
+  - "법원 절차가 계속 중이거나 법원이 이미 판단한 사안은 조사할 수 없습니다(제12조 제2항)"
+  - "판단은 권고에 그치며; SUHAKAM은 권고와 함께 사안을 회부하고(제13조) 매년 국회에 보고합니다(제21조)"
+  - "2021년 6월 재인정이 권고되어 GANHRI 'A' 등급을 유지합니다"
+appliesTo: "SUHAKAM의 역할, 권한 및 한계를 이해하고자 하는 국민과 주민, 법학도, 언론인, 그리고 인권 진정을 고려하는 모든 사람."
 
 faq:
-  - q: "Adakah penemuan SUHAKAM mengikat kerajaan atau mahkamah?"
-    a: "Tidak. Akta 597 tidak memberikan penemuan SUHAKAM kuasa mengikat. Di bawah seksyen 13(2), apabila inkuiri mendedahkan pencabulan hak asasi manusia, SUHAKAM hanya boleh merujuk perkara itu kepada pihak berkuasa berkaitan dengan cadangan yang perlu. Pihak berkuasa itu wajib memaklumkan tindakan yang diambil (seksyen 13(3)), tetapi tidak diwajibkan mematuhi cadangan tersebut."
-  - q: "Bolehkah SUHAKAM menyiasat kes yang sedang dibicarakan di mahkamah?"
-    a: "Tidak. Seksyen 12(2) melarang SUHAKAM menyiasat aduan yang menjadi hal perkara prosiding yang belum selesai di mana-mana mahkamah (termasuk rayuan) atau yang telah diputuskan muktamad oleh mahkamah. Jika sesuatu perkara yang sedang disiasat kemudian menjadi hal perkara prosiding mahkamah, SUHAKAM mesti berhenti menyiasat serta-merta (seksyen 12(3))."
-  - q: "Siapa melantik ahli SUHAKAM dan berapa lama tempoh jawatan mereka?"
-    a: "Ahli dilantik oleh Yang di-Pertuan Agong atas syor Perdana Menteri; sebelum memberikan nasihatnya, Perdana Menteri mesti berunding dengan jawatankuasa yang disebut dalam seksyen 11A (seksyen 5(2)). Jawatankuasa itu terdiri daripada Ketua Setiausaha Negara (sebagai Pengerusi), Pengerusi Suruhanjaya, dan tiga orang lain daripada masyarakat sivil (seksyen 11A). Suruhanjaya terdiri daripada tidak kurang tujuh dan tidak lebih dua puluh ahli (seksyen 5(1)). Setiap ahli memegang jawatan selama tiga tahun dan layak dilantik semula sekali untuk tempoh tiga tahun lagi (seksyen 5(4))."
-  - q: "Apa maksud 'hak asasi manusia' di bawah Akta 597?"
-    a: "Seksyen 2 mentakrifkan hak asasi manusia sebagai kebebasan asasi seperti termaktub dalam Bahagian II Perlembagaan Persekutuan. Seksyen 4(4) menambah bahawa Deklarasi Hak Asasi Manusia Sejagat 1948 hendaklah diberi perhatian setakat yang tidak bercanggah dengan Perlembagaan Persekutuan."
+  - q: "SUHAKAM의 판단이 정부나 법원을 구속합니까?"
+    a: "아니요. Act 597은 SUHAKAM의 판단에 구속력을 부여하지 아니합니다. 제13조 제2항에 따라, 조사가 인권 침해를 드러낸 경우 SUHAKAM은 필요한 권고와 함께 그 사안을 관련 당국에 회부할 수 있을 뿐입니다. 그 당국은 취해진 조치를 알려야 하나(제13조 제3항), 그 권고를 따르도록 의무화되지 아니합니다."
+  - q: "SUHAKAM이 법원에서 심리 중인 사건을 조사할 수 있습니까?"
+    a: "아니요. 제12조 제2항은 SUHAKAM이 어느 법원에서 계속 중인(상소 포함) 절차의 대상이거나 법원이 종국적으로 판단한 진정을 조사하는 것을 금지합니다. 조사 중인 사안이 이후 법원 절차의 대상이 되면, SUHAKAM은 즉시 조사를 중단하여야 합니다(제12조 제3항)."
+  - q: "누가 SUHAKAM 위원을 임명하며 그 임기는 얼마입니까?"
+    a: "위원은 총리의 제청으로 양 디페르투안 아공이 임명하며; 총리는 그 자문을 제공하기 전에 제11A조에 언급된 위원회와 협의하여야 합니다(제5조 제2항). 그 위원회는 국가수석사무관(위원장으로서), 위원회 위원장, 그리고 시민사회 출신의 다른 3인으로 구성됩니다(제11A조). 위원회는 7인 이상 20인 이하의 위원으로 구성됩니다(제5조 제1항). 각 위원은 3년의 임기를 보유하며 추가 3년으로 단 한 번 재임명될 수 있습니다(제5조 제4항)."
+  - q: "Act 597상 '인권'이란 무엇을 의미합니까?"
+    a: "제2조는 인권을 연방헌법 제2편에 규정된 기본적 자유로 정의합니다. 제4조 제4항은 1948년 세계인권선언에 연방헌법과 저촉되지 아니하는 한도에서 유의하여야 한다고 덧붙입니다."
 
 lang: "ko"
 sourceContentHash: "2df4f39dea43703c"
@@ -51,8 +51,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm current SUHAKAM membership count sits within the statutory 7-20 range as at publication date."
-  - "Confirm no annual reports beyond 2022 have since been tabled that would update the reporting-backlog statement."
+  - "게재일 기준 현재 SUHAKAM 위원 수가 법정 7-20인 범위 내에 있는지 확인하여야 합니다."
+  - "보고 적체 서술을 갱신할 만한, 2022년 이후의 연차 보고서가 그 이후 제출되지 아니하였는지 확인하여야 합니다."
 updated: 2026-08-07
 sources:
   - title: "Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025"

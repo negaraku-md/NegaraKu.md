@@ -14,24 +14,24 @@ sensitivity: "none"
 
 answer: "2013년 7월 1일부터 시행된 최저정년법 2012(Akta Umur Persaraan Minimum 2012, Akta 753)에 따라 민간 부문 근로자의 최저정년은 60세입니다(제4(1)조). 60세 미만의 정년을 정하는 모든 계약 조항은 무효로 간주되어 60세로 대체됩니다. 60세 이전에 연령을 이유로 근로자를 조기 퇴직시키는 고용주는 범죄를 저지르는 것이며 최고 RM10,000의 벌금에 처할 수 있습니다. 60세 이후에는 새로운 기간제 계약 조건으로 근로자를 재고용할 수 있습니다."
 keyTakeaways:
-  - "Umur persaraan minimum berkanun ialah 60 tahun bawah Seksyen 4(1) Akta 753, berkuat kuasa 1 Julai 2013."
-  - "Terma kontrak yang menetapkan umur persaraan lebih awal daripada 60 adalah tidak sah dan diganti dengan umur 60."
-  - "Persaraan pramatang atas alasan umur sebelum 60 ialah satu kesalahan, dengan denda sehingga RM10,000."
-  - "Persaraan pilihan (optional retirement) dibenarkan hanya jika dipersetujui secara bertulis oleh kedua-dua pihak."
-  - "Selepas mencapai 60, majikan bebas mengambil semula pekerja atas kontrak tempoh tetap yang baharu."
-appliesTo: "Pekerja dan majikan sektor swasta di Malaysia, pengurus sumber manusia, dan penasihat undang-undang pekerjaan."
+  - "법정 최저정년은 법률 제753호 제4(1)조에 따라 60세이며, 2013년 7월 1일 시행되었습니다."
+  - "60세보다 이른 정년을 정하는 계약 조건은 무효이며 60세로 대체됩니다."
+  - "60세 이전에 연령을 이유로 한 조기 퇴직은 범죄이며, 최대 RM10,000의 벌금에 처해집니다."
+  - "선택 퇴직(optional retirement)은 양 당사자가 서면으로 합의한 경우에만 허용됩니다."
+  - "60세에 도달한 후에는 고용주가 새로운 기간제 계약으로 근로자를 자유롭게 재고용할 수 있습니다."
+appliesTo: "말레이시아 민간 부문의 근로자와 고용주, 인사 관리자, 그리고 고용법 자문가."
 
 faq:
-  - q: "Bolehkah majikan menetapkan umur persaraan 55 tahun dalam kontrak?"
-    a: "Tidak. Sebarang terma yang menetapkan umur persaraan di bawah 60 tahun dianggap tidak sah dan digantikan secara automatik dengan umur persaraan minimum 60 tahun."
-  - q: "Adakah pekerja boleh bersara lebih awal daripada 60?"
-    a: "Ya, melalui persaraan pilihan (optional retirement) yang dipersetujui oleh kedua-dua pihak dan dinyatakan secara bertulis dalam kontrak perkhidmatan atau perjanjian kolektif. Ia mesti pilihan, bukan paksaan majikan."
-  - q: "Apa hukuman jika majikan memaksa pekerja bersara sebelum 60?"
-    a: "Persaraan pramatang atas alasan umur ialah satu kesalahan di bawah Akta 753. Majikan yang disabitkan boleh didenda sehingga RM10,000, dan pekerja boleh membuat tuntutan pembuangan kerja tidak adil secara berasingan."
-  - q: "Bolehkah majikan mengambil semula pekerja selepas umur 60?"
-    a: "Ya. Akta 753 hanya menetapkan lantai umur persaraan minimum. Selepas 60, majikan dan pekerja bebas memeterai kontrak tempoh tetap yang baharu atas terma yang dipersetujui."
-  - q: "Adakah Akta 753 terpakai kepada semua pekerja?"
-    a: "Tidak. Ia tidak terpakai kepada penjawat awam, perantis, pekerja percubaan, pekerja asing, pembantu rumah, pekerja sambilan, pelajar sementara, dan pekerja kontrak tempoh tetap tertentu."
+  - q: "고용주가 계약에서 정년을 55세로 정할 수 있습니까?"
+    a: "아닙니다. 60세 미만의 정년을 정하는 모든 조건은 무효로 간주되어 자동으로 최저정년 60세로 대체됩니다."
+  - q: "근로자가 60세보다 일찍 퇴직할 수 있습니까?"
+    a: "예, 양 당사자가 합의하고 근로계약 또는 단체협약에 서면으로 명시된 선택 퇴직(optional retirement)을 통해 가능합니다. 이는 고용주의 강요가 아니라 선택이어야 합니다."
+  - q: "고용주가 근로자를 60세 이전에 강제로 퇴직시키면 어떤 처벌이 있습니까?"
+    a: "연령을 이유로 한 조기 퇴직은 법률 제753호에 따른 범죄입니다. 유죄 판결을 받은 고용주는 최대 RM10,000의 벌금에 처해질 수 있으며, 근로자는 별도로 부당해고 청구를 할 수 있습니다."
+  - q: "고용주가 60세 이후에 근로자를 재고용할 수 있습니까?"
+    a: "예. 법률 제753호는 최저정년의 하한선만 정합니다. 60세 이후에는 고용주와 근로자가 합의한 조건으로 새로운 기간제 계약을 자유롭게 체결할 수 있습니다."
+  - q: "법률 제753호가 모든 근로자에게 적용됩니까?"
+    a: "아닙니다. 공무원, 도제, 수습 근로자, 외국인 근로자, 가사도우미, 시간제 근로자, 임시 학생, 그리고 특정 기간제 계약 근로자에게는 적용되지 않습니다."
 
 lang: "ko"
 sourceContentHash: "f2f42b17c86c3524"
@@ -45,7 +45,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Petikan dan pegangan kes: Wong Mei Yoke v Tien Wah Press Malaya Sdn Bhd [2018] 1 ILR 20 dan Zulkefli Hashim v Uda Holdings Berhad [2018] 2 LNS 3169 — sahkan sitasi dan ringkasan pegangan terhadap laporan penuh."
+  - "판례 인용 및 판결 요지: Wong Mei Yoke v Tien Wah Press Malaya Sdn Bhd [2018] 1 ILR 20 및 Zulkefli Hashim v Uda Holdings Berhad [2018] 2 LNS 3169 — 인용과 판결 요지 요약을 전체 판례 보고서와 대조하여 확인할 것."
 revisions:
   - revision: 0
     date: 2026-08-08
