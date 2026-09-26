@@ -33,8 +33,9 @@ faq:
     a: "สมาพันธ์ฮอกกี้มาเลเซีย (Malaysian Hockey Confederation, MHC) เป็นองค์กรแม่ระดับชาติสำหรับทีมฮอกกี้สนามและในร่มชายและหญิง สังกัดสหพันธ์ฮอกกี้เอเชีย (AHF) และ FIH และดำเนินการจากสนามฮอกกี้แห่งชาติในบูกิตจาลิล กัวลาลัมเปอร์"
 
 lang: "th"
+sourceContentHash: "e3b29244d5e5d634"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

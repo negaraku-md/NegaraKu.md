@@ -36,8 +36,9 @@ faq:
     a: "คำสั่งแนวปฏิบัติ 10/2024 ระบุเฉพาะว่าไม่ใช้กับบริษัทเอกชนที่เป็นบริษัทย่อยของบริษัทมหาชน บริษัทมหาชนรวมถึงบริษัทจดทะเบียน บริษัทต่างชาติ และ exempt private company ที่ได้เลือกยื่นหนังสือรับรองสถานะตามมาตรา 260 แห่ง CA 2016"
 
 lang: "th"
+sourceContentHash: "1f9465f320d07544"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

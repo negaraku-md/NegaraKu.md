@@ -60,8 +60,9 @@ obligations:
     consequence: "Form E ถือว่ายังไม่ได้ยื่นจนกว่า CP8D จะมาถึง เป็นความผิดภายใต้มาตรา 120(1) ITA 1967"
 
 lang: "th"
+sourceContentHash: "d4c8b31804f425e6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

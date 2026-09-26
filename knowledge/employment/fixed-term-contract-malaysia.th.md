@@ -40,8 +40,9 @@ verificationNeeded:
   - "ยืนยันตัวบทและเงื่อนไขคุณสมบัติปัจจุบันของกฎกระทรวงว่าด้วยเงินชดเชยการเลิกจ้างและการหยุดกิจการชั่วคราว 1980 (Employment (Termination and Lay-Off Benefits) Regulations 1980) ที่ใช้บังคับกับการครบกำหนดของกำหนดระยะเวลา"
 
 lang: "th"
+sourceContentHash: "529468bbc9f83e00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

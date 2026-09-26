@@ -39,8 +39,9 @@ verificationNeeded:
   - "ไม่สามารถดึงรายการข้อสงวนและการแจ้งของมาเลเซียเกี่ยวกับ MLI Articles 12 และ 13 ทั้งหมดจากแหล่งข้อมูลของรัฐบาลมาเลเซียได้ ข้อความสังเคราะห์มาเลเซีย-ญี่ปุ่นยืนยันว่าทั้งสองบทใช้บังคับกับคู่อนุสัญญานั้น; อย่าอนุมานเหมารวมไปยังอนุสัญญาอื่นโดยไม่อ่านข้อความสังเคราะห์ของอนุสัญญานั้นเอง"
 
 lang: "th"
+sourceContentHash: "7dd6ea1d4a097c43"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

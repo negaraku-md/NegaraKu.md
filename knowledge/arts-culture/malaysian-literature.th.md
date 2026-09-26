@@ -31,8 +31,9 @@ faq:
     a: "ผู้รับได้รับสารเชิดชูเกียรติแห่งชาติ (Warkah Penghormatan Negara) เงินสด RM60,000 งบการจัดพิมพ์มูลค่าสูงสุด RM500,000 (สูงสุด 50,000 เล่ม) การรักษาพยาบาลฟรีในหอผู้ป่วยชั้นหนึ่งของโรงพยาบาลรัฐ ตลอดจนเบี้ยเลี้ยง RM5,000 ต่อเดือน"
 
 lang: "th"
+sourceContentHash: "c27d87b5dbf2077e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

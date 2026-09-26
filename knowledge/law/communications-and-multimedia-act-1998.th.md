@@ -30,8 +30,9 @@ faq:
     a: "กิจกรรมที่ต้องมีใบอนุญาตแบ่งออกเป็นสี่ประเภท ผ่านคำสั่งปี 2024 ผู้ให้บริการสื่อสังคมและการรับส่งข้อความทางอินเทอร์เน็ตที่มีผู้ใช้อย่างน้อยแปดล้านคนในมาเลเซียต้องขอใบอนุญาตประเภทชั้น (class licence) จาก SKMM มีผลตั้งแต่วันที่ 1 มกราคม 2025"
 
 lang: "th"
+sourceContentHash: "6cd84d5baa9c3ad8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

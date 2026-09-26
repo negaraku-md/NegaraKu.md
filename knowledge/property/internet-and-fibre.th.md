@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังเช่า ซื้อ หรือย้ายเข้าบ้านในมาเลเซียที่ต้องต่อบรอดแบนด์แบบมีสาย"
 
 lang: "th"
+sourceContentHash: "651bab79a176221b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

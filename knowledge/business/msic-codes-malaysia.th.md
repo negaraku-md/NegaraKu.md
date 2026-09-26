@@ -38,8 +38,9 @@ verificationNeeded:
   - "การจัดประเภทความเสี่ยงของธนาคารตาม MSIC เฉพาะแต่ละสถาบันและไม่ได้เผยแพร่ จงถือว่าผลที่อธิบายในที่นี้เป็นรูปแบบ ไม่ใช่กฎ"
 
 lang: "th"
+sourceContentHash: "353529e7e9ebf84a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

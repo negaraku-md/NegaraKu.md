@@ -81,8 +81,9 @@ obligations:
     consequence: "คำร้องที่ยื่นพ้นกำหนดไม่สามารถรับพิจารณาได้"
 
 lang: "th"
+sourceContentHash: "d80998453b1bb373"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

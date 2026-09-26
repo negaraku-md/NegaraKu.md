@@ -27,8 +27,9 @@ faq:
   - q: "KPKT เคยเรียกว่าอะไรมาก่อน และเปลี่ยนชื่อเมื่อใด?"
     a: "เคยเป็นกระทรวงการพัฒนาการปกครองส่วนท้องถิ่น; คณะรัฐมนตรีตัดสินใจเปลี่ยนชื่อเป็นกระทรวงการเคหะและการปกครองส่วนท้องถิ่นเมื่อวันที่ 13 ธันวาคม 2023 ประกาศเมื่อวันที่ 26 ธันวาคม 2023"
 lang: "th"
+sourceContentHash: "44a0632c979d6de6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

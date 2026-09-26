@@ -31,8 +31,9 @@ faq:
     a: "ไม่ ISA 1960 ถูกยกเลิกในปี 2012 และถูกแทนที่ด้วยพระราชบัญญัติความผิดด้านความมั่นคง (มาตรการพิเศษ) 2012 (SOSMA) ซึ่งกลุ่มสิทธิและรัฐบาลยังคงถกเถียงกัน"
 
 lang: "th"
+sourceContentHash: "b64842ee4e12b6c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังเปรียบเทียบค่าครองชีพของปีนังกับหุบเขากลัง หรือกำลังตัดสินใจระหว่างเกาะปีนังและเซอเบอรังเปอไรก่อนการย้าย เช่า หรือเปิดธุรกิจ"
 
 lang: "th"
+sourceContentHash: "060d0c1609863cd7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

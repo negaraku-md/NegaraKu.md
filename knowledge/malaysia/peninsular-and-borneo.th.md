@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "นักเดินทาง ธุรกิจ และผู้ที่พยายามเข้าใจว่าเหตุใด 'มาเลเซีย' จึงบางครั้งทำตัวเหมือนสองการบริหารที่ใช้หนังสือเดินทางเดียวและธงเดียวร่วมกัน"
 
 lang: "th"
+sourceContentHash: "da887efa0f358f15"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

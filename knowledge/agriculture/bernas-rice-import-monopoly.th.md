@@ -30,8 +30,9 @@ faq:
     a: "สัมปทานปัจจุบันมีผลบังคับใช้ในช่วงปี 2021 ถึง 2031 เมื่อเดือนกรกฎาคม 2026 รัฐบาลยืนยันว่าจะทบทวนบทบาทของ BERNAS ในฐานะผู้นำเข้ารายเดียวก่อนที่สัมปทานนั้นจะสิ้นสุด"
 
 lang: "th"
+sourceContentHash: "887cca88638d8c9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

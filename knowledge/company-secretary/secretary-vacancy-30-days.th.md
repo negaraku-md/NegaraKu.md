@@ -50,8 +50,9 @@ obligations:
     consequence: "ความผิดโดยบริษัทและทุกคนที่ฝ่าฝืนมาตรา"
 
 lang: "th"
+sourceContentHash: "163b4a51c3a94a50"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

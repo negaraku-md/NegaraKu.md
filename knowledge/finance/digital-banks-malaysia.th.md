@@ -30,8 +30,9 @@ faq:
     a: "GXBank เป็นแห่งแรกที่เริ่มดำเนินการในปี 2023 AEON Bank เป็นธนาคารดิจิทัลอิสลามแห่งแรกที่เปิดให้บริการต่อสาธารณะเมื่อวันที่ 26 พฤษภาคม 2024"
 
 lang: "th"
+sourceContentHash: "e7e1910cb72bc76a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

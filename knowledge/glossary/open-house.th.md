@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ได้รับเชิญไปรูมะฮ์เตอร์บูกาเป็นครั้งแรก ผู้จัดรูมะฮ์เตอร์บูการะดับชุมชนหรือบริษัท และผู้ที่ต้องการเข้าใจธรรมเนียมนี้ในฐานะปรากฏการณ์ทางสังคมข้ามกลุ่มชาติพันธุ์ในมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "3bc3f6abab7fea70"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

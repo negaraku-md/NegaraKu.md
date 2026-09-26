@@ -29,8 +29,9 @@ faq:
     a: "สองกรม (กรมดิจิทัลแห่งชาติและกรมคุ้มครองข้อมูลส่วนบุคคล) และสี่หน่วยงาน: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad และ MYNIC Berhad"
 
 lang: "th"
+sourceContentHash: "8890a54407574604"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

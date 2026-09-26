@@ -37,8 +37,9 @@ verificationNeeded:
   - "ตรวจสอบเลขที่การแจ้งใน Gazette ที่ใช้กำหนดให้ MAICSA เป็นองค์กรที่ได้รับอนุมัติ และว่ามีเงื่อนไขใดถูกกำหนดภายใต้มาตรา 235(3) หรือไม่"
 
 lang: "th"
+sourceContentHash: "b8d7278523a1c564"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

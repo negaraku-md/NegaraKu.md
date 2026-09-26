@@ -33,8 +33,9 @@ faq:
     a: "มูกิม (mukim) เป็นเขตย่อยที่อยู่ใต้อำเภอ โดยเฉพาะเพื่อวัตถุประสงค์ในการบริหารที่ดิน เปิงฮูลู (penghulu) เป็นเจ้าหน้าที่ที่ใช้อำนาจในระดับมูกิมภายใต้การบริหารที่ดินของอำเภอ"
 
 lang: "th"
+sourceContentHash: "a75e04e291488dd9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

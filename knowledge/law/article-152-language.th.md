@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการตัวบทรัฐธรรมนูญที่แน่ชัดซึ่งเป็นรากฐานของนโยบายภาษาประจำชาติของมาเลเซีย มากกว่าการถอดความ"
 
 lang: "th"
+sourceContentHash: "b994c8be544c8680"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -32,8 +32,9 @@ faq:
     a: "การแก้ไขกำหนดให้ต้องมีการไต่สวนสาธารณะก่อนที่ HSK จะถูกเพิกถอนการประกาศ และเพิ่มค่าปรับเป็นระหว่าง RM20,000 ถึง RM5 ล้าน ตลอดจนจำคุกระหว่าง 7 ถึง 20 ปี มีผลบังคับในดินแดนสหพันธ์ตั้งแต่ 1 กุมภาพันธ์ 2025"
 
 lang: "th"
+sourceContentHash: "068dc65beefd2227"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

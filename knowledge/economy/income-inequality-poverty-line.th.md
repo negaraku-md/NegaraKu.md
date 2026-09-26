@@ -34,8 +34,9 @@ faq:
     a: "เพราะกลุ่มนี้เป็นเชิงสัมพัทธ์ หากรายได้ของคนอื่นเพิ่มขึ้นเร็วกว่าคุณ เกณฑ์ B40 ก็เพิ่มขึ้นด้วย คุณจึงอาจยังอยู่ในกลุ่มเดิมแม้รายได้ของคุณจะเพิ่มขึ้น"
 
 lang: "th"
+sourceContentHash: "83d77f4a9e3c0e88"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

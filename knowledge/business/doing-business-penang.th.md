@@ -41,8 +41,9 @@ verificationNeeded:
   - "ว่าการประกาศเขตอุตสาหกรรมเสรีบายันเลปัสและเปอไรภายใต้ Free Zones Act 1990 ได้รับการแก้ไขหรือไม่ และขอบเขตเขตที่ประกาศในราชกิจจานุเบกษาปัจจุบัน"
 
 lang: "th"
+sourceContentHash: "764567a2c684af68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

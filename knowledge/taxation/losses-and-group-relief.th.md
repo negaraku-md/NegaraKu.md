@@ -41,8 +41,9 @@ verificationNeeded:
   - "ยืนยันว่ามีการยกเว้นของรัฐมนตรีภายใต้ s.44(5D) ที่ให้ในกรณีรายบุคคลเกินการผ่อนปรนทั่วไป YA2006 หรือไม่; มีเพียงจุดยืนทั่วไปที่เผยแพร่"
 
 lang: "th"
+sourceContentHash: "5db600f69d4d89ad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

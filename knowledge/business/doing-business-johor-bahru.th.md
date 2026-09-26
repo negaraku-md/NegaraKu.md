@@ -44,8 +44,9 @@ verificationNeeded:
   - "โครงสร้างค่าโดยสาร RTS Link และวันแรกของบริการผู้โดยสารที่ยืนยันแล้ว — MRT Corp เผยแพร่เป้าหมายการก่อสร้างโครงสร้างพื้นฐานเสร็จปลายปี 2026 และการเริ่มบริการเดือนมกราคม 2027 ขณะที่ Singapore LTA ระบุว่าบริการภายในเดือนธันวาคม 2026"
 
 lang: "th"
+sourceContentHash: "4905d83a83912c4b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

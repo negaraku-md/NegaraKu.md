@@ -43,8 +43,9 @@ obligations:
     consequence: "ค่าปรับการยื่นล่าช้าตาม PD 1/2017 และความเสี่ยงต่อการถูกดำเนินการถอนชื่อออกจากทะเบียน"
 
 lang: "th"
+sourceContentHash: "c47e879b49e93850"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

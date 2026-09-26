@@ -34,8 +34,9 @@ faq:
     a: "ภายใต้มาตรา 34A(4) อธิบดีต้องให้เหตุผล แต่การปฏิเสธไม่ได้ห้ามท่านแก้ไขและยื่นรายงานใหม่เพื่อขออนุมัติ"
 
 lang: "th"
+sourceContentHash: "7002da8fcfa27b67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

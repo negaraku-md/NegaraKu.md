@@ -58,8 +58,9 @@ obligations:
     consequence: "การโอนสิทธิไม่มีผลต่อบุคคลภายนอกเว้นแต่บันทึกในทะเบียน"
 
 lang: "th"
+sourceContentHash: "41c8e57255d3f72c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

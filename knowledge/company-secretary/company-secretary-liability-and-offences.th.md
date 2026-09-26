@@ -27,8 +27,9 @@ faq:
     a: "ภายใต้มาตรา 593 ของ Companies Act 2016 คำแถลงหรือรายงานเท็จต่อนายทะเบียน (SSM) มีโทษจำคุกไม่เกิน 10 ปี ปรับไม่เกิน RM3 ล้าน หรือทั้งสองอย่าง"
 
 lang: "th"
+sourceContentHash: "e1c1cbfc3de7c89d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "U Mobile ได้รับการแต่งตั้งให้สร้างเครือข่าย 5G ที่สอง ดังนั้นจึงจำหน่ายส่วนได้เสียใน DNB และออกจากเครือข่ายของ DNB เพื่อมุ่งเน้นการนำเครือข่ายของตนเองมาใช้"
 
 lang: "th"
+sourceContentHash: "c1f7f6a84e1fec97"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

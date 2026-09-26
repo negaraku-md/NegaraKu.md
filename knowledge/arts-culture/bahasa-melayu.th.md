@@ -34,8 +34,9 @@ seoTitle: "ภาษามลายู: ภาษาประจำชาติ�
 socialTitle: "ภาษามลายูกลายเป็นภาษาประจำชาติได้อย่างไร — และย้ายจากยาวีสู่รูมี"
 
 lang: "th"
+sourceContentHash: "1578825625379e44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -35,8 +35,9 @@ faq:
     a: "ใช่ ในแง่โครงสร้าง พระราชบัญญัติตำรวจ 1967 สร้างกองกำลังเดียวที่ใช้ในและทั่วมาเลเซีย ภายใต้สายการบังคับบัญชาเดียวที่นำโดยผู้บัญชาการตำรวจแห่งชาติ พอร์ทัลทางการของรัฐบาล (malaysia.gov.my) ยังระบุการรวบรวมข่าวกรองด้านความมั่นคงเป็นหนึ่งในบทบาทของกองกำลังนี้ภายใต้มาตรา 3(3)"
 
 lang: "th"
+sourceContentHash: "2fcb4ae755f95546"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

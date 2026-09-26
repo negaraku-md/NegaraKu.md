@@ -19,8 +19,9 @@ keyTakeaways:
   - "ราชวงศ์รัฐสุลต่านมะละกาสืบทอดการปกครองที่ยะโฮร์ลามาในปี 1528 และราชวงศ์นั้นดำรงอยู่จนถึงปี 1699"
 appliesTo: "ผู้อ่านที่ต้องการเข้าใจสาเหตุทางเทคนิคและการเมืองเบื้องหลังการล่มสลายของมะละกาปี 1511 และสิ่งที่เกิดขึ้นกับสถาบันและราชวงศ์มะละกาหลังเมืองนั้นหายไป"
 lang: "th"
+sourceContentHash: "b8ff8e81366e5986"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

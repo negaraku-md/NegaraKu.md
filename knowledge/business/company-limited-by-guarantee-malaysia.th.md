@@ -29,8 +29,9 @@ faq:
     a: "CLBG ใหม่สามารถยื่นขอตอนจัดตั้งได้ แต่ต้องระดมกองทุนเงินสด RM1 ล้านภายในหกเดือน CLBG ที่มีอยู่ต้องจัดตั้งมาแล้วอย่างน้อยสองปีและแสดงเงินสด RM1 ล้านในธนาคารในงบการเงินล่าสุด"
 
 lang: "th"
+sourceContentHash: "9a66cfe119dbc531"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

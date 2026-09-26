@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "นักลงทุน ผู้หางาน นักวิเคราะห์นโยบาย และนักเรียนที่พยายามอ่านสถิติอุตสาหกรรมของมาเลเซียอย่างถูกต้อง"
 
 lang: "th"
+sourceContentHash: "21e59589f33cf91e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

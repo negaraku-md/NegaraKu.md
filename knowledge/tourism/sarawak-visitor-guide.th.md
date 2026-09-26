@@ -36,8 +36,9 @@ faq:
     a: "มีทั้งสอง ที่อย่างอันนะฮ์ไรส์ (Annah Rais) ใกล้กูจิงเป็นชุมชนบ้านยาวบีดายุฮ์ที่มีชีวิตซึ่งครอบครัวยังอาศัยอยู่ ในขณะที่หมู่บ้านวัฒนธรรมซาราวักใกล้ซันตูบง (Santubong) เป็นพิพิธภัณฑ์ที่มีชีวิตที่สร้างขึ้นเพื่อการนี้ การเยือนบ้านยาวที่ทำงานอยู่ควรจัดล่วงหน้าและมักผ่านไกด์ที่ตีความการเยือนได้อย่างเคารพ"
 
 lang: "th"
+sourceContentHash: "484f5ee1df5a2a08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

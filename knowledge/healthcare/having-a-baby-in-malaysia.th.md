@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ผู้ใดก็ตามในมาเลเซียที่กำลังตั้งครรภ์ วางแผนตั้งครรภ์ หรือสนับสนุนคู่ครองหรือสมาชิกในครอบครัวตลอดการตั้งครรภ์ และต้องการเข้าใจว่าระบบการดูแลก่อนคลอดของรัฐ การดูแลแบบเอกชน และการจดทะเบียนการเกิด ประกอบเข้าด้วยกันอย่างไร"
 
 lang: "th"
+sourceContentHash: "8182db0933e495e5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจความหมายที่แท้จริงและที่มาของคำว่า 'merdeka' ไม่ใช่เพียงวันที่หรือพิธีการในปี 1957"
 
 lang: "th"
+sourceContentHash: "194d82a69dbc1089"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

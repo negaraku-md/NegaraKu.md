@@ -57,8 +57,9 @@ obligations:
     consequence: "การไม่ปฏิบัติตามหน้าที่ภายใต้ Act 709"
 
 lang: "th"
+sourceContentHash: "25fcd95c5e3db0ce"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

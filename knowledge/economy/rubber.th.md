@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการภาพในระดับภาพรวมพร้อมแหล่งอ้างอิงของภาคยางพาราของมาเลเซีย ทั้งพืชผลจากสวน กระแสการค้า และอุตสาหกรรมผลิตถุงมือที่ครองภาคนี้ในปัจจุบัน"
 
 lang: "th"
+sourceContentHash: "0020c8d13fc47636"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

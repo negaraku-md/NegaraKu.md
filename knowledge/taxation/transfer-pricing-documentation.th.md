@@ -51,8 +51,9 @@ obligations:
     consequence: "โทษปรับแบบไล่ระดับจาก RM20,000 ถึง RM100,000 ขึ้นอยู่กับความล่าช้า และอาจมีการฟ้องร้อง"
 
 lang: "th"
+sourceContentHash: "5153fb940652449c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

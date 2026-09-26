@@ -27,8 +27,9 @@ faq:
   - q: "รัฐมนตรีว่าการกระทรวงมหาดไทยคือใคร?"
     a: "ณ ปี 2026 รัฐมนตรีว่าการกระทรวงมหาดไทยคือ Datuk Seri Panglima Saifuddin Nasution bin Ismail ดำรงตำแหน่งตั้งแต่ 3 ธันวาคม 2022 ขอบเขตงานของคณะรัฐมนตรีเปลี่ยนไปตามการปรับคณะรัฐมนตรี ดังนั้นให้ยืนยันผู้ดำรงตำแหน่งปัจจุบันที่ moha.gov.my"
 lang: "th"
+sourceContentHash: "84024caa253d8b49"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

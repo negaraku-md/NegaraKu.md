@@ -32,8 +32,9 @@ faq:
     a: "ใช่ ความริเริ่ม PERKUKUH ที่เปิดตัวในปี 2021 วางความริเริ่ม 20 ประการที่มุ่ง เหนือสิ่งอื่นใด ให้แต่ละ GLIC มีอาณัติที่ชัดเจนขึ้น เพิ่มการมีส่วนร่วมของภาคเอกชน ('crowding in') และปรับกระบวนการบทบาทของรัฐบาลในธุรกิจให้กระชับ พร้อมทั้งกำหนดการลงทุนไปสู่ด้านที่เป็นตัวเร่งและเพื่อการพัฒนามากขึ้น"
 
 lang: "th"
+sourceContentHash: "72a029d7e3ea589d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

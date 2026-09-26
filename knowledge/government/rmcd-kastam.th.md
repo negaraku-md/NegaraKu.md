@@ -36,8 +36,9 @@ verificationNeeded:
   - "รายการพอร์ทัลนอกเหนือจาก MySST และ ezHS (MyTTx, MyDLV, ระบบแสตมป์ภาษี, MNTR) ยังไม่ได้ยืนยันกับหน้า RMCD ที่อ้าง; ฉบับปัจจุบันของคำสั่งอากรศุลกากรและจำนวนบัญชีอัตราพิเศษ FTA ใน ezHS ก็ยังไม่ได้รับการยืนยันเช่นกันและอธิบายในเชิงคุณภาพ"
 
 lang: "th"
+sourceContentHash: "e8cda8bbe6ecdbc9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

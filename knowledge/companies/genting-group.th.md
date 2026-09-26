@@ -29,8 +29,9 @@ faq:
     a: "Genting ครอบคลุมสันทนาการและการบริการ สวนปาล์มน้ำมัน การผลิตไฟฟ้า น้ำมันและก๊าซ การพัฒนาอสังหาริมทรัพย์ และวิทยาศาสตร์ชีวภาพ Genting Plantations ดำเนินการที่ดินสำรองราว 243,000 เฮกตาร์ทั่วมาเลเซียและอินโดนีเซีย"
 
 lang: "th"
+sourceContentHash: "1b5f1753141cba5e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

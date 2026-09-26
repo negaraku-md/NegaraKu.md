@@ -43,8 +43,9 @@ verificationNeeded:
   - "ยืนยันว่ามีการแก้ไข Act 136 ใด ๆ หลังปี 2006 หรือไม่; ตัวบทที่ AGC ปรับปรุงระบุว่า ณ 1 มกราคม 2006 และรายการมาตราที่แก้ไขหยุดที่ปี 1974"
 
 lang: "th"
+sourceContentHash: "e471e60c661a356c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

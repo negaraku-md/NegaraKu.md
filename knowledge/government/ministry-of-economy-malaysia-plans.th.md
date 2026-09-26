@@ -35,8 +35,9 @@ faq:
     a: "ไม่ แผนมาเลเซียนำเสนอเป็นญัตติเชิงนโยบายเพื่อการอภิปรายและความเห็นชอบของรัฐสภา มิใช่ร่างกฎหมายเช่นร่างพระราชบัญญัติงบประมาณรายจ่ายที่เป็นฐานของงบประมาณประจำปี"
 
 lang: "th"
+sourceContentHash: "6ea99ed513582ab7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

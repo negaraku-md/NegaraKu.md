@@ -47,8 +47,9 @@ obligations:
     consequence: "ปรับไม่เกิน RM50,000 และปรับเพิ่มไม่เกิน RM500 ต่อวันสำหรับความผิดที่ยังดำเนินต่อเนื่องภายใต้มาตรา 58(4)"
 
 lang: "th"
+sourceContentHash: "8a80c4606fe7ff91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -36,8 +36,9 @@ verificationNeeded:
   - "วันที่ในที่นี้นำมาจากโปรแกรมการยื่นที่ออกเมื่อวันที่ 30 ธันวาคม 2025 และปรับปรุงเมื่อวันที่ 1 เมษายน 2026 ซึ่งกำกับแบบแสดงรายการสำหรับปีประเมินภาษี 2025 LHDN ออกโปรแกรมใหม่ทุกปี — อ่านอีกครั้งก่อนพึ่งพารอบในภายหลัง"
 
 lang: "th"
+sourceContentHash: "1c422a60f1ab90e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

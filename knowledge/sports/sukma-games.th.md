@@ -29,8 +29,9 @@ faq:
     a: "SUKMA เป็นเวทีระดับรัฐสำหรับนักกีฬาวัยรุ่นแสดงความสามารถ นักกีฬาที่มีศักยภาพสามารถได้รับการเลื่อนสู่โปรแกรมการพัฒนานักกีฬาที่มีความสามารถและสำรองของ MSN และต่อไปสู่โครงการโพเดียมของ ISN ที่เตรียมนักกีฬาชั้นนำสำหรับมหกรรมนานาชาติ"
 
 lang: "th"
+sourceContentHash: "82263beab0c4a71a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

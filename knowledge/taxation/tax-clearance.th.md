@@ -65,8 +65,9 @@ obligations:
     consequence: "ความรับผิดภายใต้ s.107(4) ต่อภาษีเต็มจำนวนที่ลูกจ้างค้างชำระ ในฐานะหนี้ต่อรัฐบาล"
 
 lang: "th"
+sourceContentHash: "59c7042463497f7b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

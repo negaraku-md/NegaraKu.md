@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ทุกคน — ผู้เดินทาง นายจ้าง นักเรียน หรือผู้อ่านเรื่องระบบสหพันธรัฐของมาเลเซีย — ที่ต้องการคำอธิบายเชิงพรรณนาอย่างเรียบง่ายเกี่ยวกับหลักประกันทางรัฐธรรมนูญที่ซาบาห์และซาราวักถือไว้ และที่ตั้งของแต่ละข้อ โดยไม่เข้าข้างฝ่ายใดในการถกเถียงเรื่องวิธีการปฏิบัติตาม"
 
 lang: "th"
+sourceContentHash: "468d0412b31978aa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

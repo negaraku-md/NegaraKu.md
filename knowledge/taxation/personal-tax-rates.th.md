@@ -37,8 +37,9 @@ verificationNeeded:
   - "ยืนยันว่าชั้นภาษีเงินปันผล 2% ภายใต้ Schedule 1 Part XXII ใช้กับบุคคลธรรมดาที่ไม่มีถิ่นที่อยู่ด้วยหรือไม่นอกเหนือจากผู้มีถิ่นที่อยู่; ตารางอัตราเองไม่ได้ระบุ"
 
 lang: "th"
+sourceContentHash: "8166bbfff56fa0fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

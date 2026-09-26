@@ -38,8 +38,9 @@ verificationNeeded:
   - "ยืนยันจำนวนเขต (20) และตัวเลขพื้นที่ 4,931 เฮกตาร์กับสิ่งพิมพ์ทางการล่าสุดขององค์การปุตราจายา — รายงานประจำปี 2017 เคยบันทึกตัวเลขพื้นที่ที่แตกต่างกัน"
 
 lang: "th"
+sourceContentHash: "7ed3eafee80e71c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

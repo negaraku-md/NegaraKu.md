@@ -33,8 +33,9 @@ faq:
     a: "บรรษัทเศรษฐกิจดิจิทัลแห่งมาเลเซีย (MDEC) หน่วยงานของรัฐที่ส่งเสริมเศรษฐกิจดิจิทัลของมาเลเซียและบริหารสถานะ Malaysia Digital MDEC อยู่ภายใต้กระทรวงดิจิทัล คำขอยื่นผ่านแพลตฟอร์ม Malaysia Digital ของ MDEC และ MDEC ประเมินคุณสมบัติ ดำเนินการนำเสนอ และอนุมัติการมอบ ข้อสอบถามผ่านช่องทางติดต่อลูกค้าของ MDEC (clic@mdec.com.my)"
 
 lang: "th"
+sourceContentHash: "ea511039e4e4cbe4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

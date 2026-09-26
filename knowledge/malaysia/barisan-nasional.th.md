@@ -30,8 +30,9 @@ faq:
     a: "ในการเลือกตั้งทั่วไปครั้งที่ 14 เมื่อวันที่ 9 พฤษภาคม 2018 เมื่อฝ่ายค้านปากาตัน ฮาราปัน ชนะ 113 จาก 222 ที่นั่งและ BN ชนะ 79 ที่นั่ง ซึ่งเป็นการสูญเสียรัฐบาลระดับสหพันธ์ครั้งแรก"
 
 lang: "th"
+sourceContentHash: "991005bf0f4cffdd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

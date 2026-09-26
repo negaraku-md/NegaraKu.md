@@ -33,8 +33,9 @@ faq:
     a: "ตามธรรมเนียมคือผู้หญิง UNESCO บันทึกว่าการทอซงเกตอยู่ในมือของผู้หญิงมาโดยตลอด ขณะที่ผู้ชายมีส่วนร่วมในการปฏิบัตินี้ด้วยการทำอุปกรณ์การทอ ความรู้นี้สืบทอดในครอบครัวและหมู่บ้าน และบางสถาบันยังเปิดโครงการฝึกอบรม"
 
 lang: "th"
+sourceContentHash: "054643f8240fb22d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -125,8 +125,9 @@ obligations:
     statute: "Income Tax Act 1967"
 
 lang: "th"
+sourceContentHash: "1af54f5d2bfdf5b4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "ผู้มาเยือนที่กำลังวางแผนเส้นทางเที่ยวพิพิธภัณฑ์ นักเรียนและนักวิจัยที่ต้องการประวัติเชิงสถาบันเบื้องหลังคอลเลกชันหลักของมาเลเซีย และผู้ที่เคยเข้าใจว่ามูเซียมเนอการาเป็นพิพิธภัณฑ์ที่เก่าแก่ที่สุดของประเทศ"
 
 lang: "th"
+sourceContentHash: "8802106dd859b55e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

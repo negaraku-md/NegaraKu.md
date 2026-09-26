@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ปกครองและผู้ดูแลเด็กในมาเลเซียที่มีความพิการหรือความยากลำบากในการเรียนรู้ที่ได้รับการวินิจฉัย ซึ่งพยายามหาว่าการจัดที่เรียนและขั้นตอนการขึ้นทะเบียนใดที่เกี่ยวข้อง"
 
 lang: "th"
+sourceContentHash: "e0164ad51b29c01a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

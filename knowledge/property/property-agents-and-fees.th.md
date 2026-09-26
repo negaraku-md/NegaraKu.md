@@ -28,8 +28,9 @@ faq:
     a: "ค่าธรรมเนียมการเช่าตามตารางทางการคือ 1.25 ถึง 1.75 เดือนของค่าเช่าขั้นต้น (โดยมีค่าธรรมเนียมขั้นต่ำค่าเช่า 1 เดือน) ขึ้นอยู่กับระยะเวลาการเช่า ส่วนว่าใครเป็นผู้รับภาระเป็นเรื่องของการตกลงระหว่างคู่กรณี"
 
 lang: "th"
+sourceContentHash: "d09e304bd5589019"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

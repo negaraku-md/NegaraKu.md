@@ -30,8 +30,9 @@ faq:
     a: "พระราชบัญญัติควบคุมข้าวเปลือกและข้าวสาร 1994 (Akta 522) ข้าวเป็นสินค้าโภคภัณฑ์ควบคุม; อธิบดีฝ่ายกำกับดูแลข้าวเปลือกและข้าวสารออกใบอนุญาตและใบอนุญาตพิเศษสำหรับการสี การค้าส่ง การค้าปลีก การนำเข้า การส่งออก และการเคลื่อนย้ายระหว่างรัฐ"
 
 lang: "th"
+sourceContentHash: "88877cb8976d9b28"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

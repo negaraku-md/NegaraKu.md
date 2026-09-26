@@ -47,8 +47,9 @@ verificationNeeded:
   - "เงื่อนไขการถือหุ้นของภูมิบุตรหรือต่างชาติสำหรับผู้รับใบอนุญาตธนาคาร ประกันภัย และตะกาฟุล (takaful) ไม่พบเอกสารของ Bank Negara ที่เผยแพร่ซึ่งระบุเงื่อนไขดังกล่าว"
 
 lang: "th"
+sourceContentHash: "da83e3eaf6cc3765"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

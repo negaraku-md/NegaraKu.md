@@ -37,8 +37,9 @@ faq:
     a: "การจ่ายเงินจากรัฐบาลสหพันธรัฐแก่ตรังกานูและกลันตันที่เกี่ยวกับรายได้ปิโตรเลียม แถลงการณ์ของกระทรวงการคลังยืนยันว่าวังอิห์ซาน (Wang Ihsan) ไม่ใช่การให้ของรัฐบาลสหพันธรัฐที่บัญญัติไว้ในกฎหมาย กล่าวคือไม่ใช่สิทธิที่กำหนดโดยกฎหมาย"
 
 lang: "th"
+sourceContentHash: "44eeeac1d9bc0d54"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

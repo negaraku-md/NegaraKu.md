@@ -30,8 +30,9 @@ faq:
     a: "รถพยาบาลของรัฐถูกส่งฟรีผ่านสายด่วน 999 และจัดการโดย KKM ร่วมกับองค์กรอาสาสมัคร เช่น St John Ambulance และสภาเสี้ยววงเดือนแดงมาเลเซีย ส่วนรถพยาบาลเอกชนดำเนินการโดยบริษัทหรือโรงพยาบาลเอกชนผ่านสายด่วนของตน และเรียกเก็บค่าบริการตามความจำเป็นของการเรียก"
 
 lang: "th"
+sourceContentHash: "492fe31c078f6681"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

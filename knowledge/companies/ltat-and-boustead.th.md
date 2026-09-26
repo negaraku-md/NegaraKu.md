@@ -29,8 +29,9 @@ faq:
     a: "เป็นแผนการปรับโครงสร้าง LTAT และกลุ่ม Boustead ที่คณะกรรมการ LTAT อนุมัติเมื่อวันที่ 9 สิงหาคม 2024 และแจ้งคณะรัฐมนตรีเมื่อวันที่ 13 ธันวาคม 2024 มุ่งลดการถือครองสินทรัพย์เชิงกลยุทธ์เหลือ 35% ภายในสามปีในขณะที่หลีกเลี่ยงการขายแบบบังคับ"
 
 lang: "th"
+sourceContentHash: "bc79a003d2567110"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -45,8 +45,9 @@ verificationNeeded:
   - "DE Rantau เป็น Professional Visit Pass และโดยทั่วไปเข้าใจว่าการจ้างงานในประเทศถูกกันออก แต่ไม่พบข้อห้ามที่ชัดแจ้งใน FAQ อย่างเป็นทางการ — อย่ายืนยันว่ามี"
 
 lang: "th"
+sourceContentHash: "73a4ba4e2aea155b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

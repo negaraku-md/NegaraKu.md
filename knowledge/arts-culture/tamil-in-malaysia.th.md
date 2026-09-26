@@ -32,8 +32,9 @@ seoTitle: "ภาษาทมิฬในมาเลเซีย: ผู้พ�
 socialTitle: "ภาษาทมิฬถูกพูด เรียน และคุ้มครองในมาเลเซียอย่างไร"
 
 lang: "th"
+sourceContentHash: "c45b4b0470d4ef3d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

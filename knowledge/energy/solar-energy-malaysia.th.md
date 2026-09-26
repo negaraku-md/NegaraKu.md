@@ -31,8 +31,9 @@ faq:
     a: "คณะกรรมการพลังงาน (Energy Commission) เป็นหน่วยงานกำกับดูแลหลัก SEDA Malaysia ดำเนินการ NEM ขณะที่ Single Buyer (ภายใต้ TNB) ประสานงานโครงการตลาดเช่น CGPP, CRESS และ CREAM"
 
 lang: "th"
+sourceContentHash: "6c4b5196403b953f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

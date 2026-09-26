@@ -44,8 +44,9 @@ verificationNeeded:
   - "ข้อเท็จจริงเกี่ยวกับองค์กรของ Medini Iskandar Malaysia Sdn Bhd และผู้ถือหุ้นที่กล่าวซ้ำกันอย่างแพร่หลายทั้งหมดมาจากแหล่งที่ไม่เป็นทางการและไม่ได้รับการยืนยัน"
 
 lang: "th"
+sourceContentHash: "61c45f9103d24eb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

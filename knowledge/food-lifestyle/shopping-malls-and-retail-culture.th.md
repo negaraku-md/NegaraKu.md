@@ -30,8 +30,9 @@ faq:
     a: "ปาซาร์มาลัม (pasar malam) คือตลาดนัดกลางคืน ตลาดริมถนนกลางแจ้งที่หมุนเวียนตั้งขึ้นในย่านชุมชนในคืนวันธรรมดาที่กำหนด จำหน่ายอาหารปรุงสำเร็จ ผลผลิตสด และสินค้าราคาถูก มันอยู่ควบคู่กับ pasar (ตลาดสด) ในเวลากลางวันและปาซาร์ตานี (pasar tani, ตลาดเกษตรกร) ในฐานะส่วนหนึ่งของวัฒนธรรมค้าปลีกที่ไม่ใช่ห้างสรรพสินค้าของมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "a2bc8ea503179f64"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

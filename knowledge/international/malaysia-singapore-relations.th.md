@@ -36,8 +36,9 @@ faq:
     a: "เมื่อวันที่ 23 พฤษภาคม 2008 ศาลยุติธรรมระหว่างประเทศพิพากษาว่าเกาะ Batu Puteh (Pedra Branca) เป็นของสิงคโปร์ Middle Rocks เป็นของมาเลเซีย และ South Ledge เป็นของประเทศที่น่านน้ำครอบคลุมอยู่"
 
 lang: "th"
+sourceContentHash: "47c25fa8a007fc27"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

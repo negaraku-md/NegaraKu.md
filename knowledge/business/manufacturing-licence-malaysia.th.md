@@ -45,8 +45,9 @@ verificationNeeded:
   - "ว่าหนังสือยืนยัน ICA 10 สนับสนุนคำขอบริการธนาคารหรือไม่ — MIDA ไม่ได้ระบุเช่นนั้น"
 
 lang: "th"
+sourceContentHash: "37caa4da5ba10819"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

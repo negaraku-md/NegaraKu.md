@@ -28,8 +28,9 @@ faq:
     a: "RFID ยังต้องให้ยานพาหนะผ่านช่องทางที่มีป้ายกำกับพร้อมที่กั้นที่ยกขึ้นหลังจากอ่านสำเร็จ ส่วน ANPR อย่าง JustGO PLUS ระบุยานพาหนะผ่านกล้องที่อ่านป้ายทะเบียน ทำให้ยานพาหนะที่จดทะเบียนผ่านช่องทางใดก็ได้โดยไม่ต้องมีแท็กกายภาพเลย — อีกก้าวหนึ่งสู่ระบบไร้ที่กั้นโดยสมบูรณ์ (MLFF)"
 
 lang: "th"
+sourceContentHash: "c1392d940afe3b99"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

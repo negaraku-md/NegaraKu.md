@@ -64,8 +64,9 @@ obligations:
     consequence: "การยกเลิกข้อตกลงภายใต้ rule 18(1)(c)"
 
 lang: "th"
+sourceContentHash: "bb70ed44534a20cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -36,8 +36,9 @@ faq:
     a: "ใช่ Proton เปิดตัว e.MAS 7 ในเดือน December 2024 ซึ่งเป็น EV คันแรก ราคาเริ่มต้น RM109,800 Perodua เปิดตัว QV-E — ที่ระบุว่าเป็น EV ที่พัฒนาในประเทศคันแรกของมาเลเซีย — ในเดือน December 2025 ราคา RM80,000 ไม่รวมแบตเตอรี่ พัฒนาด้วยต้นทุน RM800 ล้าน"
 
 lang: "th"
+sourceContentHash: "67619f9b70d97b83"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "โปรดยืนยันว่า MASB ได้ออกแนวทางเฉพาะใด ๆ เกี่ยวกับการนำ MPERS มาใช้ใหม่โดยกิจการที่เคยย้ายไปใช้ MFRS หรือไม่"
 
 lang: "th"
+sourceContentHash: "621bf2dc64ee78c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

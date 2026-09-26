@@ -31,8 +31,9 @@ faq:
     a: "ปกปิดไหล่และเข่าที่สถานที่ทางศาสนาทุกแห่ง มัสยิดคาดหวังเพิ่มเติมให้สตรีคลุมผมและทุกคนถอดรองเท้า วัดฮินดูและวัดจีนก็กำหนดให้ถอดรองเท้าก่อนเข้าสู่ส่วนศักดิ์สิทธิ์ชั้นในเช่นกัน"
 
 lang: "th"
+sourceContentHash: "93767c9cc05e1d13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

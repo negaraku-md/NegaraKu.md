@@ -31,8 +31,9 @@ faq:
     a: "ข้อห้ามขายคือช่วงเวลาที่คุณห้ามขายบ้านต่อโดยไม่ได้รับอนุญาต Residensi Wilayah กำหนดข้อห้ามขาย 10 ปี และ Rumah Selangorku 5 ปี เพื่อป้องกันการเก็งกำไรและทำให้แน่ใจว่าบ้านยังคงอยู่เพื่อกลุ่มเป้าหมาย"
 
 lang: "th"
+sourceContentHash: "c2d113c9f6018d12"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

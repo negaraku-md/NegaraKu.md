@@ -40,8 +40,9 @@ verificationNeeded:
   - "หน้า Notifying Copyright ของ MyIPO ระบุว่าคำอธิบายเรื่องการแจ้งโดยสมัครใจ 'กำลังได้รับการปรับปรุง' — ยืนยันรายละเอียดขั้นตอนใด ๆ โดยตรงกับผู้ควบคุมลิขสิทธิ์ (Controller of Copyright)"
 
 lang: "th"
+sourceContentHash: "a995d61bd790a6cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -26,8 +26,9 @@ verificationNeeded:
   - "ตัวเลขค่าธรรมเนียมและวงเงินธุรกรรมนำมาจากเว็บไซต์ทางการของ PayNet โดยตรง ณ วันที่เขียน; PayNet ระบุว่าค่าธรรมเนียมจริงอาจแตกต่างกันตามธนาคาร/e-wallet แต่ละแห่ง"
 
 lang: "th"
+sourceContentHash: "1b31c1f5d1b3682f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

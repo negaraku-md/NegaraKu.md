@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังซื้อ ขาย หรือประเมินอสังหาริมทรัพย์ในมาเลเซียที่ต้องเข้าใจว่าประเภทการถือครองและประเภทกรรมสิทธิ์ในประกาศผูกมัดพวกเขาไว้จริงกับอะไร"
 
 lang: "th"
+sourceContentHash: "35465664913b0ad9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -17,8 +17,9 @@ keyTakeaways:
   - "นักประวัติศาสตร์เช่นเจมส์ โลว์ (James Low, 1849) และเอช.จี. ควอริตช์ เวลส์ (H.G. Quaritch Wales) พยายามระบุที่ตั้งของมันแต่ไม่สามารถยืนยันได้"
 appliesTo: "ผู้อ่านที่เคยได้ยินชื่อคังกาเนอการาในบทเรียนประวัติศาสตร์หรือโซเชียลมีเดียและอยากรู้ว่าอะไรพิสูจน์ได้จริง เทียบกับอะไรที่เป็นเพียงตำนาน"
 lang: "th"
+sourceContentHash: "4947488c0b12f663"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

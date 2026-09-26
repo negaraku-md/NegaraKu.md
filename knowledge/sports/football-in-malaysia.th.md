@@ -41,8 +41,9 @@ faq:
     a: "วันที่แท้จริงเป็นที่ถกเถียง บันทึกบางแหล่งวางการก่อตั้งองค์กรแม่ระดับชาติในปี 1926 ขณะที่บันทึกอื่นอ้าง 1933 เมื่อ Football Association of Malaya ที่มีฐานในสิงคโปร์เข้ารับช่วงการดำเนินการปิยาลามาลายา สิ่งที่ชัดเจนและยืนยันได้คือบทบาทในปัจจุบันในฐานะองค์กรแม่ระดับชาติ สมาชิก AFC และผู้ก่อตั้ง AFF ในปี 1984"
 
 lang: "th"
+sourceContentHash: "ee9fdc30adb8894c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

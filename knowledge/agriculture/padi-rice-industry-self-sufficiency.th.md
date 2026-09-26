@@ -34,8 +34,9 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) ถือบทบาทผู้นำเข้าข้าวรายเดียวของประเทศ ซึ่งเป็นบทบาทที่สืบทอดมาจากคณะกรรมการข้าวเปลือกและข้าวสารแห่งชาติ (LPN) ที่เข้ารับช่วงการนำเข้าข้าวและกลายเป็นผู้นำเข้ารายเดียวในปี 1974 สืบเนื่องจากวิกฤตอาหารโลกปี 1973 BERNAS ยังบริหารข้าวสำรองของประเทศและสนับสนุนโรงสีภูมิบุตร (Bumiputera) บริษัทถูกแปรรูปเมื่อวันที่ 12 มกราคม 1996"
 
 lang: "th"
+sourceContentHash: "fb620a1ce6fe2341"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

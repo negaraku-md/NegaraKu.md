@@ -34,8 +34,9 @@ faq:
     a: "ได้ ข้อร้องเรียนเป็นลายลักษณ์อักษรสามารถส่งไปยังคณะกรรมการวินัยภายใต้มาตรา 99 หากคณะกรรมการพบว่ามีมูล มันจะตั้งคณะพิจารณาสืบสวนภายใต้มาตรา 100 เพื่อสืบสวนข้อร้องเรียนนั้น"
 
 lang: "th"
+sourceContentHash: "b2af26646e05de04"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

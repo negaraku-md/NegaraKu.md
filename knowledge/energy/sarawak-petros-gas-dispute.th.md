@@ -29,8 +29,9 @@ faq:
     a: "ทั้งสองฝ่ายเห็นพ้องให้ Petros เป็นผู้รวบรวมก๊าซของซาราวัก (ไม่รวม LNG) หลังการประชุมในเดือนมกราคม 2025 โดย Petros เริ่มทำหน้าที่เป็นผู้รวบรวมเมื่อ 1 มีนาคม 2025 อย่างไรก็ตาม ความแตกต่างในการตีความกฎหมายบางประการและรายละเอียดเชิงพาณิชย์ยังคงอยู่ระหว่างการเจรจา"
 
 lang: "th"
+sourceContentHash: "9fa405873e618d18"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

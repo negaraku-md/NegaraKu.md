@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ชาวต่างชาติ พนักงานทำงานทางไกล และผู้มาใหม่ที่กำลังชั่งน้ำหนักค่าครองชีพของมาเลเซียเทียบกับเส้นฐานเงินเดือนและการใช้จ่ายแบบตะวันตกก่อนการย้ายถิ่น"
 
 lang: "th"
+sourceContentHash: "4843205b62ed2e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

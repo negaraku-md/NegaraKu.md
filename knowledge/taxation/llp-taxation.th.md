@@ -47,8 +47,9 @@ obligations:
     consequence: "ความผิดภายใต้ s.120(1); การยกเว้นสองปีใน s.107C(4A) ไม่ใช้กับ LLP"
 
 lang: "th"
+sourceContentHash: "0632dd55307e891f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

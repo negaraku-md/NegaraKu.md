@@ -32,8 +32,9 @@ faq:
     a: "กรมดินแดนสหพันธ์ (Jabatan Wilayah Persekutuan, JWP) ภายใต้สำนักนายกรัฐมนตรีทำหน้าที่ประสานงานด้านนโยบายและการพัฒนาของทั้งสามดินแดนในระดับสหพันธ์ ในขณะที่ DBKL องค์การปุตราจายา และองค์การลาบวนเป็นองค์กรปกครองส่วนท้องถิ่นที่ดำเนินกิจการประจำวัน เช่น การออกใบอนุญาต การวางผังเมือง และบริการเทศบาลในดินแดนของตน"
 
 lang: "th"
+sourceContentHash: "5739f9cd1afe168b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

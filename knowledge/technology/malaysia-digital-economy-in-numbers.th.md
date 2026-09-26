@@ -33,8 +33,9 @@ faq:
     a: "กรมสถิติมาเลเซีย (DOSM) เผยแพร่บัญชีบริวาร ICT ทุกปี (การเผยแพร่ Malaysia Digital Economy) ซึ่งกำหนดการมีส่วนของ ICT และอีคอมเมิร์ซต่อ GDP DOSM ยังดำเนินรายงานการใช้และการเข้าถึง ICT สำหรับตัวเลขการเข้าถึงของครัวเรือนและบุคคล อัตราการเข้าถึงบรอดแบนด์เผยแพร่แยกต่างหากโดยคณะกรรมการการสื่อสารและมัลติมีเดียมาเลเซีย (SKMM/MCMC)"
 
 lang: "th"
+sourceContentHash: "9a3a89f709e2b7ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

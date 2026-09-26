@@ -34,8 +34,9 @@ faq:
     a: "ความผิดที่มีโทษเมื่อถูกพิพากษาด้วยการปรับไม่เกิน RM1 ล้าน และปรับเพิ่มไม่เกิน RM1,000 ต่อวันที่ความผิดยังดำเนินต่อเนื่องหลังการพิพากษา (มาตรา 137 พร้อมความผิดคู่ขนานในมาตรา 138 และ 139)"
 
 lang: "th"
+sourceContentHash: "608e7ade88de1522"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

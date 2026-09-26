@@ -28,8 +28,9 @@ verificationNeeded:
   - "อัตราเป็นเพดานสนธิสัญญาทั่วไปที่ LHDN เผยแพร่ ไม่ใช่อัตรารายมาตรา สนธิสัญญาหลายฉบับลดดอกเบี้ยเป็นศูนย์สำหรับการจ่ายให้รัฐบาล ธนาคารกลาง หรือสถาบันที่ได้รับอนุมัติ; ตรวจสอบมาตราที่เกี่ยวข้องก่อนใช้อัตราในตาราง"
 
 lang: "th"
+sourceContentHash: "2eae865a4f192515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

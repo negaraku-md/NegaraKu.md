@@ -76,8 +76,9 @@ obligations:
     consequence: "ค่าปรับสูงสุดสามเท่าของภาษีภายใต้ s.112(3) หรือการฟ้องคดีภายใต้ s.112(1) พร้อมค่าปรับ RM200 ถึง RM20,000"
 
 lang: "th"
+sourceContentHash: "b156623175c87682"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

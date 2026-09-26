@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "นายจ้าง ทีม HR และเงินเดือน ตลอดจนลูกจ้างภาคเอกชนในมาเลเซียที่ต้องการเข้าใจการหักเงินเดือนตามกฎหมาย"
 
 lang: "th"
+sourceContentHash: "9085a7b0c1f610fb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

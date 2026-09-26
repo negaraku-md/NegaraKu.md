@@ -41,8 +41,9 @@ verificationNeeded:
   - "จำนวนที่นั่งของสภานิติบัญญัติแห่งรัฐและรัฐสภาจงใจไม่ระบุ เพราะไม่สามารถยืนยันได้จากแหล่งทางการของ SPR ระหว่างการจัดเตรียมร่างนี้"
 
 lang: "th"
+sourceContentHash: "869286bde4f6fa80"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "ใช่ สถาบันผู้สอบบัญชีมาเลเซีย (MIA) นำแนวทางของ IAASB มาใช้เป็นมาตรฐานการสอบบัญชีที่ได้รับอนุมัติของมาเลเซียโดยไม่มีการดัดแปลง ดังนั้น ISA 320, 450 และ 530 จึงใช้บังคับกับการสอบบัญชีตามกฎหมายของมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "caf6b9d895d2d9ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

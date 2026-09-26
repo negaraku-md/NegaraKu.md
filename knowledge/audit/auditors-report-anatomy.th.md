@@ -40,8 +40,9 @@ verificationNeeded:
   - "ยืนยันรูปแบบและแบบแผนการหมดอายุของเลขที่อนุมัติผู้สอบบัญชีของรัฐมนตรีว่าการกระทรวงการคลังที่พิมพ์อยู่ข้างลายมือชื่อหุ้นส่วน — ตัวอย่างแสดงโครงสร้างแต่ MIA ไม่ได้อธิบาย"
 
 lang: "th"
+sourceContentHash: "46458a8295799022"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "การไม่ปฏิบัติตามคำตัดสินเป็นความผิดอาญาภายใต้มาตรา 123 ปรับไม่เกิน RM250,000 หรือจำคุกไม่เกิน 3 ปี หรือทั้งสองอย่าง โดยมีค่าปรับเพิ่มเติมสูงถึง RM5,000 ต่อวันสำหรับความผิดที่ต่อเนื่อง การร้องเรียนทำต่อกรรมาธิการอาคาร (COB)"
 
 lang: "th"
+sourceContentHash: "f0b9ecff267db2f3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

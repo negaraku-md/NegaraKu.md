@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ก่อตั้ง ที่ปรึกษาภาษี และทีมการเงินที่กำลังประเมินโครงสร้างลาบวน และผู้อ่านที่ต้องการเข้าใจว่าเหตุใดลาบวนจึงได้รับการปฏิบัติแตกต่างจากส่วนอื่นของมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "398103a0292eae47"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

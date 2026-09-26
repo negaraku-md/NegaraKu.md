@@ -40,8 +40,9 @@ verificationNeeded:
   - "ปรับปรุงตัวเลขประชากรและ GDP เมื่อการเผยแพร่ของ DOSM ที่ใหม่กว่าได้รับการเผยแพร่"
 
 lang: "th"
+sourceContentHash: "79feefd0c909668c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

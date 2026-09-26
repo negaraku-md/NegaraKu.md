@@ -30,8 +30,9 @@ faq:
     a: "PETRA (กระทรวงการเปลี่ยนผ่านพลังงานและการเปลี่ยนแปลงน้ำ) คือกระทรวงที่ร่างนโยบายพลังงานและน้ำแห่งชาติ Suruhanjaya Tenaga คือองค์กรตามกฎหมายที่กำกับดูแลซึ่งดำเนินการและบังคับใช้กฎหมายการจ่ายพลังงาน ภายใต้มาตรา 16 แห่ง Akta 610 ST รับผิดชอบต่อรัฐมนตรีและต้องปฏิบัติตามคำสั่งในลักษณะทั่วไปจากรัฐมนตรี"
 
 lang: "th"
+sourceContentHash: "0a1f3c6792f9255a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -28,8 +28,9 @@ verificationNeeded:
   - "ในที่ที่วงเงินที่เสนอเกินขีดจำกัด RM100 ล้านเทียบเท่า กระบวนการอนุมัติเป็นลายลักษณ์อักษรและเกณฑ์การประเมินไม่ได้เผยแพร่ครบ; FAQ ระบุเพียงว่า BNM จะนำปัจจัยที่ระบุมาพิจารณา"
 
 lang: "th"
+sourceContentHash: "7f6734fed0eab6e8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "หากผู้บริหารไม่ให้คำรับรองที่กำหนดตามย่อหน้า 10 และ 11 ผู้สอบบัญชีต้องไม่แสดงความเห็นต่องบการเงินตาม ISA 705 (ย่อหน้า 20)"
 
 lang: "th"
+sourceContentHash: "b4dce9895318e6f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

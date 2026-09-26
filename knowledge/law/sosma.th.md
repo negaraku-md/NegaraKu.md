@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "ผู้อ่านที่ต้องการคำอธิบายเชิงถ้อยคำที่เป็นกลางเกี่ยวกับว่า SOSMA คืออะไรและบัญญัติวิธีพิจารณาพิเศษใดบ้าง — นักศึกษา นักวิจัย และผู้ที่จัดทำแผนกรอบกฎหมายความมั่นคงของมาเลเซีย เป็นบันทึกกฎหมายเชิงพรรณนา ไม่ใช่คำแนะนำทางกฎหมาย และไม่ได้แสดงความเห็นต่อคดี การฟ้องร้อง หรือการอภิปรายเชิงนโยบายใด ๆ"
 
 lang: "th"
+sourceContentHash: "23e4a7f81f4e58a1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

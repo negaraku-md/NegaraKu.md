@@ -30,8 +30,9 @@ faq:
     a: "แหล่งข้อมูลบันทึกสองกระบวนการที่ดำเนินคู่ขนานมากกว่าที่อันหนึ่งทำให้อีกอันเกิด เอกราชถูกเจรจาและบรรลุเมื่อวันที่ 31 สิงหาคม 1957 ในขณะที่ภาวะฉุกเฉินยังคงมีผลบังคับ และภาวะฉุกเฉินดำเนินต่อไปเกือบสามปีภายใต้รัฐบาลมลายาที่เป็นเอกราช"
 
 lang: "th"
+sourceContentHash: "05c196a1a00207fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

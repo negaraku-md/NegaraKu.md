@@ -24,8 +24,9 @@ verificationNeeded:
   - "ข้อกำหนดของผู้ขับขี่เฉพาะ (เช่น อายุขั้นต่ำ) ใช้บังคับหรือไม่ควรได้รับการยืนยันกับ JPJ หรือผู้ให้บริการ e-hailing แต่ละราย เนื่องจากไม่ได้ระบุในรูปแบบที่ยืนยันได้บนหน้าเว็บทางการที่ปรึกษา"
 
 lang: "th"
+sourceContentHash: "10f57c7f87a7c675"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

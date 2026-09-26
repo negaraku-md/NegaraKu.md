@@ -23,8 +23,9 @@ appliesTo: "บุคคลและครัวเรือนที่มี�
 verificationNeeded:
   - "FAQ ทางการของ STR 2026 (PDF ที่ bantuantunai.hasil.gov.my/FAQ/) มีรายละเอียดเพิ่มเติมเกี่ยวกับเงื่อนไขคุณสมบัติและจำนวนเงินที่จ่าย แต่ฟอนต์ที่ฝังใน PDF นั้นขัดขวางการดึงข้อความอัตโนมัติระหว่างการเขียน — ผู้อ่านควรดาวน์โหลดและตรวจสอบ PDF นั้นเอง หรือล็อกอิน MySTR สำหรับรายละเอียดส่วนบุคคลที่แน่นอน"
 lang: "th"
+sourceContentHash: "353147e69093acce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -26,8 +26,9 @@ verificationNeeded:
   - "ตรวจสอบว่าการเข้าถึงข้อมูลเจ้าของผู้รับผลประโยชน์ทางออนไลน์ได้แทนที่บริการเฉพาะเคาน์เตอร์ที่ Menara SSM@Sentral หรือไม่"
 
 lang: "th"
+sourceContentHash: "a088732b82dc0e99"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

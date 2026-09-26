@@ -32,8 +32,9 @@ faq:
     a: "มาตรา 8(1) ของ Akta 808 กำหนดให้ทุกคนที่อยู่ในที่นั้นต้องยืนตรง มาตรา 8(3) บัญญัติว่าผู้ใดที่จงใจแสดงการไม่แสดงความเคารพต่อเพลงชาติในที่สาธารณะ เมื่อถูกตัดสินว่าผิด อาจถูกปรับไม่เกิน RM100 หรือจำคุกเป็นเวลาไม่เกินหนึ่งเดือน"
 
 lang: "th"
+sourceContentHash: "c84bd6935adf2871"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -41,8 +41,9 @@ verificationNeeded:
   - "ยืนยันว่ามีฉบับเทียบเท่า Service Tax Act s.26A ของ Sales Tax Act สำหรับสินค้านำเข้าหรือไม่ — ฉบับพิมพ์ซ้ำปี 2018 ไม่มี"
 
 lang: "th"
+sourceContentHash: "13790ae63f7d4cb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

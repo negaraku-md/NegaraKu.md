@@ -34,8 +34,9 @@ faq:
     a: "ในปี 2024 บริการดึงการลงทุนที่ได้รับอนุมัติ RM252.7 พันล้าน (66.8% ของยอดรวม) และการผลิต RM120.5 พันล้าน (31.8%) จากยอดรวมที่ทำสถิติ RM378.5 พันล้าน (MIDA)"
 
 lang: "th"
+sourceContentHash: "fd46cc26349bd735"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

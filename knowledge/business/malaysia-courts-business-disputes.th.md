@@ -29,8 +29,9 @@ verificationNeeded:
   - "คำสั่งปฏิบัติที่จัดตั้งแผนกเฉพาะทางของศาลสูง (ศาลพาณิชย์ใหม่ ศาลก่อสร้าง ศาลทรัพย์สินทางปัญญา) และเกณฑ์การจัดสรร — สิ่งเหล่านี้เป็นการจัดการในทางบริหารของฝ่ายตุลาการ ไม่ใช่ศาลตามกฎหมาย"
 
 lang: "th"
+sourceContentHash: "7a5b4212b0b3e35b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

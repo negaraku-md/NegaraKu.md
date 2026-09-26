@@ -31,8 +31,9 @@ faq:
     a: "การลดลงส่วนใหญ่เป็นผลจากการเปลี่ยนวิธีการคำนวณ ไม่ใช่เพียงเพราะการผลิตตกลง วิธีการใหม่นับเฉพาะข้าวเปลือกสุทธิที่แปรรูปเป็นข้าวสารเท่านั้น และไม่นับรวมข้าวเปลือกสำหรับทำเมล็ดพันธุ์ในปีเดียวกันอีกต่อไป"
 
 lang: "th"
+sourceContentHash: "fcd35063d281dbc6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

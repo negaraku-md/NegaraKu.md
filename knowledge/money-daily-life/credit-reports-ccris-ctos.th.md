@@ -34,8 +34,9 @@ faq:
     a: "สำหรับ CCRIS สถาบันการเงินที่รายงานต้องแก้ไขข้อมูลที่ไม่ถูกต้องภายในระยะเวลาที่สมเหตุสมผล สำหรับ CTOS คุณสามารถยื่นข้อพิพาทกับหน่วยงานนั้นได้โดยตรง ซึ่งกำกับดูแลโดยสำนักงานนายทะเบียนหน่วยงานรายงานเครดิตภายใต้กระทรวงการคลัง"
 
 lang: "th"
+sourceContentHash: "d56078b999db6074"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

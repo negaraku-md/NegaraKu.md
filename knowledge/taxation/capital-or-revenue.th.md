@@ -41,8 +41,9 @@ verificationNeeded:
   - "ไม่พบคำพิพากษามาเลเซียเกี่ยวกับเครื่องหมายของการค้าที่อ้างในเอกสารทางการของ LHDN ใด ดังนั้นจึงไม่มีการระบุกฎหมายจากคำพิพากษาในหน้านี้"
 
 lang: "th"
+sourceContentHash: "916f828ed466fba0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

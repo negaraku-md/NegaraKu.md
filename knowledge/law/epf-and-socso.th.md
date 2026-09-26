@@ -36,8 +36,9 @@ faq:
     a: "EPF รับประกันเงินปันผลขั้นต่ำ 2.5% ต่อปีภายใต้พระราชบัญญัติ KWSP 1991 เงินปันผลจริงมักสูงกว่า — ประกาศ 6.30% สำหรับปี 2024 และ 6.15% สำหรับปี 2025 (เงินออมแบบดั้งเดิม, Simpanan Konvensional)"
 
 lang: "th"
+sourceContentHash: "002bda1ea2b2e8d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

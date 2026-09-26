@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "นักศึกษากฎหมายและนักวิจัยที่จัดทำแผนที่ระบบกฎหมายมาเลเซียเป็นครั้งแรก ผู้ที่พยายามหาว่ากฎหมายชุดใดกำกับคำถามหนึ่ง ๆ และผู้อ่านที่เห็นคำว่า 'ประเทศคอมมอนลอว์' และ 'กฎหมายอิสลาม' และ 'อาดัต' ถูกใช้เคียงข้างกันโดยไม่ได้รับการบอกว่ามันเกี่ยวข้องกันจริงอย่างไร"
 
 lang: "th"
+sourceContentHash: "f4b71230618caa4c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

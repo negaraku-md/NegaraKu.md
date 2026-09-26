@@ -28,8 +28,9 @@ verificationNeeded:
   - "SSM ไม่เผยแพร่มาตรฐานบริการเวลาดำเนินการทั่วไปสำหรับการจดทะเบียนจัดตั้งบริษัท; ตัวเลขที่ให้ที่นี่มาจากแนวปฏิบัติแต่ละฉบับที่มีวันที่ต่างกัน"
 
 lang: "th"
+sourceContentHash: "30930e352d6a91ec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

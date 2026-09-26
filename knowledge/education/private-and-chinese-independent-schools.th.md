@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ปกครองและนักเรียนในมาเลเซียที่กำลังเลือกระหว่างโรงเรียนแห่งชาติ โรงเรียนเอกชนหลักสูตรแห่งชาติ และโรงเรียนมัธยมเอกชนจีน และผู้ที่พยายามเข้าใจว่า SMJK, โรงเรียนเอกชน หรือประกาศนียบัตร UEC แท้จริงแล้วหมายถึงอะไร"
 
 lang: "th"
+sourceContentHash: "ea334d9ab0b14453"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

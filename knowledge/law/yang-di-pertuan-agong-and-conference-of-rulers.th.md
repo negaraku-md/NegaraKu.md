@@ -29,8 +29,9 @@ faq:
     a: "มาตรา 38(6) ให้อำนาจสภาราชาในการถอดถอนอากง ตามข้อวิจารณ์ทางกฎหมาย อำนาจนี้ไม่เคยถูกใช้ตลอดประวัติศาสตร์ของประเทศ"
 
 lang: "th"
+sourceContentHash: "f2d2c6ec105b4198"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

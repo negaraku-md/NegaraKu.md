@@ -32,8 +32,9 @@ faq:
     a: "ใช่ SC นำเสนอกรอบ equity crowdfunding (มีผลตั้งแต่วันที่ 10 กุมภาพันธ์ 2015) และกรอบการเงินแบบ peer-to-peer (เมษายน 2016) ทั้งสองดำเนินการเป็นตลาดที่ได้รับการรับรอง (recognised markets) ภายใต้กฎของมัน"
 
 lang: "th"
+sourceContentHash: "e26f048f1170e63c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

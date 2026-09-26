@@ -34,8 +34,9 @@ faq:
     a: "อุดมการณ์ (ห้าเป้าหมายของชาติ เช่น ความสามัคคีและสังคมที่ยุติธรรม) คือจุดมุ่งหมายที่ต้องการบรรลุ ส่วนห้าหลักการคือรากฐานและแนวทางการดำเนินชีวิตเพื่อบรรลุอุดมการณ์เหล่านั้น ทั้งสองส่วนประกอบกันเป็นคำปฏิญาณฉบับเต็มของรูกุนเนอการา"
 
 lang: "th"
+sourceContentHash: "d94eca92454b00e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

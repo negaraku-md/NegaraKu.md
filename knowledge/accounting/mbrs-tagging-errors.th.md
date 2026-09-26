@@ -39,8 +39,9 @@ verificationNeeded:
   - "โปรดยืนยันพฤติกรรมการตรวจสอบความถูกต้องของจุดเข้าเฉพาะเทียบกับคู่มือผู้ใช้ mTool 2.2 สำหรับจุดเข้านั้นก่อนจะยึดถือกฎใดที่อธิบายไว้อย่างกว้าง ๆ"
 
 lang: "th"
+sourceContentHash: "4cbf1a047bbd3c22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -69,8 +69,9 @@ obligations:
     consequence: "โทษปรับสองเท่าของค่าชดเชยที่สั่ง หรือสูงสุด RM10,000 เมื่อไม่มีการสั่งค่าชดเชย; จำคุกสูงสุดสองปี; RM1,000 ต่อวันสำหรับความผิดต่อเนื่อง"
 
 lang: "th"
+sourceContentHash: "37ced01eb083b72b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "จำนวนแตกต่างกันตามประเทศต้นทาง — RM250 (อินโดนีเซีย ไทย กัมพูชา), RM750 (ฟิลิปปินส์ ศรีลังกา อินเดีย) และ RM1,500 (เวียดนาม ลาว) ตามสำนักงานตรวจคนเข้าเมือง เงินประกันสามารถเรียกคืนได้เมื่อผู้ช่วยเดินทางกลับตามเงื่อนไข"
 
 lang: "th"
+sourceContentHash: "80b7fb78bc8f91cd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

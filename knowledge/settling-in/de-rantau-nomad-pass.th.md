@@ -31,8 +31,9 @@ faq:
     a: "ได้ คู่สมรสหรือคู่ชีวิตตามกฎหมายจารีต บุตรอายุต่ำกว่า 18 ปี บุตรที่พิการ และบิดามารดาของผู้ถือหลักสามารถยื่นคำร้องในฐานะผู้อยู่ในอุปการะได้ แต่คู่สมรสไม่สามารถทำงานภายใต้ใบอนุญาตนี้ได้"
 
 lang: "th"
+sourceContentHash: "f5c5f5f455206b06"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

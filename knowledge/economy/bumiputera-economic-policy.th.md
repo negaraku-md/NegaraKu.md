@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "นักเรียน นักวิเคราะห์นโยบาย นักข่าว และผู้ที่ต้องการเข้าใจความต่อเนื่องของเป้าหมายนโยบายเศรษฐกิจภูมิบุตรจาก DEB จนถึงแผนปัจจุบัน"
 
 lang: "th"
+sourceContentHash: "0cfaf6ebc14f819b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

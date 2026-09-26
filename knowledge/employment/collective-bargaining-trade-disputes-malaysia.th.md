@@ -34,8 +34,9 @@ faq:
     a: "ใช่ ภายใต้พระราชบัญญัติสหภาพแรงงาน 1959 (Trade Unions Act 1959) (มาตรา 25A) จำเป็นต้องมีการลงคะแนนลับ หลังการแก้ไข เกณฑ์ที่กำหนดถูกลดลงเหลือเกินกึ่งหนึ่งของคะแนนเสียงโดยมีสมาชิกที่มีสิทธิลงคะแนนอย่างน้อยร้อยละ 60 ร่วมลงคะแนนด้วย เทียบกับเสียงข้างมากสองในสามในอดีต"
 
 lang: "th"
+sourceContentHash: "d0b1ce6e61182113"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

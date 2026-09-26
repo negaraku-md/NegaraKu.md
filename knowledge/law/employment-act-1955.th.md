@@ -33,8 +33,9 @@ verificationNeeded:
   - "ยืนยันกฎหมายการเริ่มบังคับใช้ที่แน่ชัดสำหรับ Act A1651 กับราชกิจจานุเบกษาสหพันธรัฐ; ทะเบียนแหล่งที่มาของโครงการบันทึก P.U.(B) 394/2022 สำหรับวันที่ 1 มกราคม 2023"
 
 lang: "th"
+sourceContentHash: "ab52798a8bfb6a2f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

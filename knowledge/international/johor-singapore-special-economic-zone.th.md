@@ -32,8 +32,9 @@ faq:
     a: "Iskandar Malaysia คือระเบียงการพัฒนาของมาเลเซียที่เปิดตัวในช่วงทศวรรษ 2000 และตั้งอยู่ภายในขอบเขตของ JS-SEZ ส่วน JS-SEZ มีขอบเขตกว้างกว่าและเป็นแบบทวิภาคี คือเพิ่มสิงคโปร์ (Singapore) เข้ามาเป็นผู้ร่วมลงนาม ขยายเขตไปถึง Pengerang และวางกรอบสิทธิประโยชน์และการอำนวยความสะดวกร่วมทับซ้อนไว้ด้านบน"
 
 lang: "th"
+sourceContentHash: "91765fa012dff218"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

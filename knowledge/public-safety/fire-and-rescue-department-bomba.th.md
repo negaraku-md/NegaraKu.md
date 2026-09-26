@@ -31,8 +31,9 @@ faq:
     a: "JBPM ถูกจัดอยู่ในรายชื่อกรมภายใต้กระทรวงการเคหะและการปกครองส่วนท้องถิ่น (KPKT) การจัดสรรกระทรวงต่างๆ ในมาเลเซียมีการจัดระเบียบใหม่เป็นครั้งคราว ดังนั้นโปรดตรวจสอบการจัดระเบียบปัจจุบันที่ kpkt.gov.my หรือ bomba.gov.my ก่อนนำไปอ้างอิงในเอกสารทางการ"
 
 lang: "th"
+sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

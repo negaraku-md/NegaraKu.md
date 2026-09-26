@@ -38,8 +38,9 @@ verificationNeeded:
   - "ยืนยันวันที่ทำเครื่องหมายว่าอาจเปลี่ยนแปลงในตารางของฝ่ายคณะรัฐมนตรี — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan และวันที่สองของ Hari Raya Qurban ล้วนถูกทำเครื่องหมาย"
 
 lang: "th"
+sourceContentHash: "c9161f47701aa87c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

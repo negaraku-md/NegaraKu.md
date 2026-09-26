@@ -30,8 +30,9 @@ faq:
     a: "ให้ถือว่าเป็นคำแปล มิใช่แหล่งที่มา หน้าภาษาอังกฤษของ LHDN แปลด้วยเครื่องและมีข้อผิดพลาดที่ได้รับการยืนยันแล้วซึ่งกลับความหมาย สำหรับสิ่งใดที่สำคัญ ให้อ่านหน้าต้นฉบับภาษามลายูและอ้างจากนั้น"
 
 lang: "th"
+sourceContentHash: "558a5f369fe484be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

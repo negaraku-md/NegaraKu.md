@@ -36,8 +36,9 @@ faq:
     a: "หลังการแก้ไขในปี 2015 การขึ้นทะเบียนไม่ต้องต่ออายุอีกต่อไป แต่ผู้สอบบัญชีที่ขึ้นทะเบียนยื่นคำประกาศประจำปี ณ วันที่ 30 มิถุนายนของแต่ละปี และชำระค่าธรรมเนียม RM5,000 ต่อผู้สอบบัญชีแต่ละคนภายในวันครบรอบวันที่ขึ้นทะเบียน"
 
 lang: "th"
+sourceContentHash: "046d2016ae30e969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

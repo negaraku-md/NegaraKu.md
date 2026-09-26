@@ -42,8 +42,9 @@ verificationNeeded:
   - "ข้อยกเว้นคาสิโนและเครื่องเกมจากกฎการจ่ายเงินพนันมีวันสิ้นสุดหรือไม่ — LHDN ระบุว่าจนกว่าจะมีการแจ้งเพิ่มเติม"
 
 lang: "th"
+sourceContentHash: "1b4f5e59594a8f17"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -57,8 +57,9 @@ obligations:
     consequence: "นายทะเบียนอาจปฏิเสธที่จะดำเนินการคำขอหรือการจดทะเบียนต่อไป"
 
 lang: "th"
+sourceContentHash: "a70b312603adf60f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "USTR ระบุการค้าสินค้าสองทางทั้งหมดที่ประมาณการ US$88.5 พันล้านในปี 2025 (การส่งออกของสหรัฐฯ US$28.9 พันล้าน การนำเข้า US$59.7 พันล้าน) ข้อมูลสำมะโนของสหรัฐฯ ระบุการค้าสินค้าสองทางปี 2024 ใกล้ US$80 พันล้าน และกระทรวงการต่างประเทศของมาเลเซียอ้างการค้ารวม RM324.91 พันล้าน (US$71.39 พันล้าน) สำหรับปี 2024"
 
 lang: "th"
+sourceContentHash: "6acdeba029dc19eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

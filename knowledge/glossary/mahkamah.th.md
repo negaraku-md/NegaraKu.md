@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่อ่านเอกสารกฎหมาย ข่าว หรือการพิจารณาคดีในมาเลเซีย และต้องการเข้าใจความหมายของคำว่า 'มะห์กามะฮ์' ตลอดจนฐานะเปรียบเทียบของแต่ละลำดับชั้น"
 
 lang: "th"
+sourceContentHash: "1a30b6920b746dad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

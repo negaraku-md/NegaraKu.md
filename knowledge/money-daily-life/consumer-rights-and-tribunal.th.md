@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้บริโภคในมาเลเซียที่ซื้อสินค้าหรือบริการและต้องการทราบว่ามีสิทธิใดบ้างและจะยื่นคำร้องต้นทุนต่ำอย่างไร ไม่ใช่ธุรกิจที่กำลังต่อสู้คดี และไม่ใช่ข้อพิพาทที่ศาลพิจารณาคำร้องยกเว้นไว้อย่างชัดเจน"
 
 lang: "th"
+sourceContentHash: "b22efe69c2b27bab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

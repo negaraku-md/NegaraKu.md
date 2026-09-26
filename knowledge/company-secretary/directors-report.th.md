@@ -63,8 +63,9 @@ obligations:
     consequence: "ความผิดโดยบริษัทและเจ้าหน้าที่ทุกคนที่ผิดนัด บวกค่ายื่นล่าช้าภายใต้ SSM Practice Directive 1/2017 ฉบับปรับปรุง"
 
 lang: "th"
+sourceContentHash: "49a0af6107cdceff"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

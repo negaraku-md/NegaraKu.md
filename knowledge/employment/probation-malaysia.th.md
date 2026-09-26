@@ -26,8 +26,9 @@ verificationNeeded:
   - "ยืนยันบรรทัดฐานคดีชั้นอุทธรณ์ที่เป็นชั้นนำเกี่ยวกับการเลิกจ้างลูกจ้างทดลองงานและการบรรจุโดยปริยายด้วยพฤติการณ์ เทียบกับคำพิพากษาที่มีการรายงาน"
 
 lang: "th"
+sourceContentHash: "04bbb0ef0090fa14"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

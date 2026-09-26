@@ -31,8 +31,9 @@ faq:
     a: "ไม่ PPK ไม่ใช่การล้มละลายและไม่ใช่ประวัติของศาล แต่เป็นแผนการชำระคืนที่เจรจากันโดยสมัครใจระหว่างคุณ AKPK และธนาคารเจ้าหนี้ของคุณ"
 
 lang: "th"
+sourceContentHash: "4311ea106e7a34dc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

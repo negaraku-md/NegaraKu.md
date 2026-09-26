@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ชาวมาเลเซียและชาวต่างชาติที่ทำงานซึ่งกำลังจะออกจากมาเลเซียอย่างถาวร หรือเป็นเวลาเกินสามเดือน และทีม HR หรือเงินเดือนที่ต้องยื่นเอกสารในนามของพวกเขา"
 
 lang: "th"
+sourceContentHash: "00b0d352c02ac806"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "ไปที่ศาลชำนัญพิเศษการจัดการห้องชุด ซึ่งจัดการการเรียกร้องสูงถึง RM250,000 ได้เร็วและถูกกว่าเมื่อเทียบกับศาล ส่วนคณะกรรมาธิการอาคาร (COB) ที่หน่วยงานท้องถิ่นบังคับใช้การปฏิบัติตามพระราชบัญญัติ"
 
 lang: "th"
+sourceContentHash: "788e401fa0ccd9ab"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

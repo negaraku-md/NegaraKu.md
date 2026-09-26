@@ -32,8 +32,9 @@ faq:
     a: "ยังไม่สมบูรณ์ ศาลกลางยืนยันการรับรองตามกฎหมายจารีตประเพณีของ NCR ในคดี Madeli bin Salleh (2007) แต่ในคดี TR Sandah (2016) ศาลที่มีความเห็นแตกจำกัดสิทธิที่บังคับได้ไว้เฉพาะที่ดินที่เพาะปลูก และปฏิเสธข้อเรียกร้องเหนือป่าชุมชนโดยรอบ ขอบเขตของ NCR ยังคงเป็นที่ถกเถียง"
 
 lang: "th"
+sourceContentHash: "f1772b5d15bbbf86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

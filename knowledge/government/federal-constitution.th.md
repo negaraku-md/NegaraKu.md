@@ -31,8 +31,9 @@ faq:
     a: "ตัวบทถูกจัดเรียงเป็นสิบห้าภาค (ภาค I ถึง XV โดยมีภาค XIIA สำหรับซาบาห์และซาราวัก) และบัญชีสิบสามฉบับ ซึ่งบางส่วนถูกยกเลิกไปแล้วตามสารบัญของฉบับพิมพ์ซ้ำทางการ"
 
 lang: "th"
+sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

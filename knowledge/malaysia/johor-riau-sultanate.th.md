@@ -18,8 +18,9 @@ keyTakeaways:
   - "สนธิสัญญาอังกฤษ-ดัตช์ 1824 และผลที่ตามมาแบ่งอาณาเขตนี้ คือ เรียา-ลิงกาอยู่ภายใต้ดัตช์ ยะโฮร์อยู่ภายใต้อิทธิพลของอังกฤษ"
 appliesTo: "ผู้ที่ต้องการเข้าใจว่าสถาบันพระราชาแห่งมลายูมะละกาเชื่อมต่อโดยไม่ขาดสายไปยังรัฐมลายูสมัยใหม่ โดยเฉพาะยะโฮร์ อย่างไร"
 lang: "th"
+sourceContentHash: "e2e07f7bcea9fc14"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

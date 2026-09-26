@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ผู้อ่านที่ต้องการระบุเก้ารัฐที่มีเจ้าผู้ครองของมาเลเซียและเข้าใจสถานะตามรัฐธรรมนูญของบรรดาเจ้าผู้ครองอย่างเป็นการพรรณนา คือ นักเรียน นักวิจัย นักข่าว ข้าราชการ และผู้อ่านทั่วไป"
 
 lang: "th"
+sourceContentHash: "2e19d7c57053d5f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

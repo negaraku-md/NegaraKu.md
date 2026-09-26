@@ -34,8 +34,9 @@ faq:
     a: "ไม่ สถาบันการเงินเพื่อการพัฒนาที่กำหนดไว้อยู่ภายใต้การกำกับดูแลของพระราชบัญญัติสถาบันการเงินเพื่อการพัฒนา (Development Financial Institutions Act 2002) และอยู่ในการดูแลของธนาคารกลางมาเลเซีย (Bank Negara Malaysia) ซึ่งเป็นระบบที่แยกต่างหากจาก FSA และ IFSA"
 
 lang: "th"
+sourceContentHash: "a9fc5401e6cabfb3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

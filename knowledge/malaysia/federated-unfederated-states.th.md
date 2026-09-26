@@ -33,8 +33,9 @@ faq:
   - q: "ในที่สุดสองกลุ่มนี้เกิดอะไรขึ้น"
     a: "ทั้งรัฐมลายูที่รวมสหพันธ์และที่ไม่รวมสหพันธ์ถูกยุบเข้าสู่สหภาพมลายาเมื่อวันที่ 1 เมษายน 1946 ซึ่งเองก็ถูกแทนที่ภายในไม่กี่ปีด้วยสหพันธรัฐมลายา (Federation of Malaya)"
 lang: "th"
+sourceContentHash: "3bcc3b32fd59d463"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

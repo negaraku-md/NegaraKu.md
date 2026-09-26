@@ -29,8 +29,9 @@ faq:
     a: "เสื้อบาติกเป็นเครื่องแต่งกายทางการที่ยอมรับสำหรับผู้ชาย สวมในงานพิธีการ งานแต่งงาน และงานทางการทูตแทนสูทและเนกไท หน่วยงานราชการกำหนดวันสวมใส่บาติก ซึ่งทำให้บาติกยังคงหมุนเวียนใช้อยู่เป็นประจำ ไม่ได้จำกัดอยู่แค่การใช้ในพิธีการเท่านั้น"
 
 lang: "th"
+sourceContentHash: "239aa5ec5e035842"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

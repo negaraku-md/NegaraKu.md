@@ -29,8 +29,9 @@ faq:
     a: "เงินออมแบบดั้งเดิมรับประกันอย่างน้อย 2.50% ต่อปีภายใต้พระราชบัญญัติ KWSP 1991 ส่วนเงินออมแบบชะรีอะฮ์ขึ้นอยู่กับผลการดำเนินงานจริงของพอร์ตโฟลิโอโดยสมบูรณ์โดยไม่มีการรับประกันขั้นต่ำ"
 
 lang: "th"
+sourceContentHash: "e680578dd6d6768e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

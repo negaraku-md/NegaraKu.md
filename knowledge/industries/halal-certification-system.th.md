@@ -36,8 +36,9 @@ faq:
     a: "คู่มือขั้นตอนกำหนดว่าหน่วยงานที่มีอำนาจควรติดต่อโดยตรงกับบริษัทหรือผู้ยื่นขอโดยไม่ผ่านบุคคลที่สามหรือคนกลางเช่นที่ปรึกษา ที่ปรึกษาสามารถช่วยจัดเตรียมเอกสารได้ แต่การยื่นขอและการสื่อสารทางการยังคงอยู่ระหว่างผู้ยื่นขอกับ JAKIM/MAIN/JAIN"
 
 lang: "th"
+sourceContentHash: "7bb5b6fb5326f994"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

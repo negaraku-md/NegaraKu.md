@@ -37,8 +37,9 @@ verificationNeeded:
   - "ข้อบังคับการประชุม Dewan Rakyat ที่อ้างถึงในที่นี้คือฉบับพิมพ์ครั้งที่สิบสาม (เมษายน 2013) ข้อบังคับการประชุมได้รับการแก้ไขเป็นครั้งคราวโดย Dewan Rakyat เองภายใต้มาตรา 62(1) — ให้ตรวจสอบหมายเลขข้อและตัวเลขขั้นตอนกับฉบับพิมพ์ล่าสุดที่ parlimen.gov.my ก่อนที่จะใช้อ้างอิง"
 
 lang: "th"
+sourceContentHash: "ce348e711538fac4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

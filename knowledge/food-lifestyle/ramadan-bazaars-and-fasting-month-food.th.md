@@ -31,8 +31,9 @@ faq:
     a: "กระทรวงสาธารณสุข (KKM) ดำเนินการติดตามและตรวจสอบที่แผงในตลาดนัด และสามารถออกการปรับเปรียบเทียบภายใต้ระเบียบว่าด้วยสุขอนามัยอาหาร 2009 องค์กรปกครองส่วนท้องถิ่น KKM และ KPDN ยังดำเนินการตรวจสอบรายวันตลอดรอมฎอนสำหรับคุณภาพอาหาร สุขอนามัย และการควบคุมราคา"
 
 lang: "th"
+sourceContentHash: "571a086b9bbbfa81"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

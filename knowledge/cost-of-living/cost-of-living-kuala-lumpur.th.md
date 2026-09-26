@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังจัดงบประมาณสำหรับการย้ายไปกัวลาลัมเปอร์หรือหุบเขากลัง (Klang Valley) เปรียบเทียบข้อเสนองานข้ามเมือง หรือพยายามเข้าใจว่าทำไมเมืองหลวงจึงติดอันดับสูงสุดของค่าครองชีพในมาเลเซียอย่างสม่ำเสมอ"
 
 lang: "th"
+sourceContentHash: "5a6f8510ce30c077"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

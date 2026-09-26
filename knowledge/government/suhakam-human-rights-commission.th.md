@@ -34,8 +34,9 @@ faq:
     a: "ได้ มาตรา 4(2)(d) ให้ SUHAKAM มีอำนาจเยี่ยมสถานที่กักตัว สถาบัน และสถานที่อื่นใด และทำข้อเสนอแนะที่จำเป็น มาตรา 4(3) ซึ่งใส่เข้ามาโดยการแก้ไขปี 2024 ระบุว่าการเยี่ยมนั้นไม่อาจถูกปฏิเสธโดยผู้รับผิดชอบสถานที่ที่เกี่ยวข้องได้ตราบเท่าที่ปฏิบัติตามขั้นตอนที่กำหนด"
 
 lang: "th"
+sourceContentHash: "41da53bbfb03e372"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

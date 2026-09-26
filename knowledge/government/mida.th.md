@@ -41,8 +41,9 @@ verificationNeeded:
   - "IMFC-J เป็นส่วนขยายระดับภูมิภาคเพียงแห่งเดียวของรูปแบบ IMFC หรือไม่ หรือมีสถานที่ IMFC เพิ่มเติมเปิดขึ้นตั้งแต่รัฐบาลระบุความตั้งใจที่จะขยายในปี 2026"
 
 lang: "th"
+sourceContentHash: "e0c5ddbcc6a8b0ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -24,8 +24,9 @@ appliesTo: "เจ้าของธุรกิจ ทีมการเงิ�
 verificationNeeded: []
 
 lang: "th"
+sourceContentHash: "46533f76e2996181"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

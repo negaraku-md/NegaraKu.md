@@ -31,8 +31,9 @@ faq:
     a: "ePermit ซึ่งเป็นบริการเว็บที่ดำเนินการโดย Dagang Net Technologies ภายใต้ระบบหน้าต่างเดียวแห่งชาติ ให้ท่านยื่นขอไปยังหน่วยงานผู้ออกใบอนุญาตหลายแห่งทางออนไลน์ ใบอนุญาตที่อนุมัติแล้วจะส่งทางอิเล็กทรอนิกส์ไปยังศุลกากรเพื่อตรวจสอบเทียบกับการสำแดงของท่าน"
 
 lang: "th"
+sourceContentHash: "f453f5001ae25d26"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

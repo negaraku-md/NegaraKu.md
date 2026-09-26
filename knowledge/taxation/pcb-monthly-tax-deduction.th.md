@@ -39,8 +39,9 @@ verificationNeeded:
   - "ยืนยันว่าอัตรา PCB ที่ใช้กับลูกจ้างที่ไม่มีถิ่นที่อยู่คืออัตราคงที่ตาม Schedule 1 Part I para 1A ในฐานะประเด็นของ MTD Rules ไม่ใช่เพียงของการจัดเก็บภาษีที่เป็นฐาน"
 
 lang: "th"
+sourceContentHash: "8996f0535326898f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

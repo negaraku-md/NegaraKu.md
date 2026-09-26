@@ -34,8 +34,9 @@ faq:
     a: "ทั้งสองอย่าง แต่ศูนย์ถ่วงอยู่ที่ภาคบริการ MRO และการผลิตชิ้นส่วนครองสัดส่วนหลัก มาเลเซียผลิตโครงสร้าง วัสดุคอมโพสิต และชิ้นส่วนเครื่องยนต์ และบำรุงรักษาอากาศยาน แต่มีขีดความสามารถด้านการออกแบบและพัฒนาระดับอากาศยานที่อ่อนแอกว่า"
 
 lang: "th"
+sourceContentHash: "5b97e205090548e0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

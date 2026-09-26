@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่พยายามเข้าใจว่าสำนักนายกรัฐมนตรีคืออะไรจริง เหตุใดหน่วยงานสหพันธ์ที่ดูเหมือนไม่เกี่ยวข้องกันจำนวนมากจึงอยู่ภายใต้ และต่างจากกระทรวงทั่วไปอย่างไร"
 
 lang: "th"
+sourceContentHash: "e406cee4d2aa12d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -42,8 +42,9 @@ verificationNeeded:
   - "ยืนยันวันที่พระราชพิธีบรมราชาภิเษกของสุลต่านแห่งเกอดะฮ์องค์ที่ 29 เทียบกับบันทึกทางการของอิสตานาอานะก์บูกิต หน้าทางการของรัฐบาลรัฐระบุเพียงวันที่ประกาศ"
 
 lang: "th"
+sourceContentHash: "0d6884ea1dade121"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

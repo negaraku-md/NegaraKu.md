@@ -42,8 +42,9 @@ verificationNeeded:
   - "ยืนยันช่วงวันลาพักผ่อนประจำปี ลาป่วย และเข้าโรงพยาบาลที่เทียบเท่าภายใต้กฎหมายแรงงานซาบาห์และซาราวักที่แก้ไขในปี 2025"
 
 lang: "th"
+sourceContentHash: "4780eb76db51665d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

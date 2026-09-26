@@ -18,8 +18,9 @@ keyTakeaways:
   - "สถาบันรัฐสุลต่านดำเนินต่อในรัฐธรรมนูญผ่านพระราชาธิบดีมลายูเก้าองค์ ที่ประชุมพระราชาธิบดี และยังดี-เปอร์ตวน อากง"
 appliesTo: "ผู้ที่ต้องการเข้าใจโครงสร้างและบทบาทของสถาบันรัฐสุลต่านมลายูดั้งเดิมและการที่มันเชื่อมต่อกับระบบราชาธิปไตยภายใต้รัฐธรรมนูญในปัจจุบันอย่างไร"
 lang: "th"
+sourceContentHash: "95bf275cb438d0b7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

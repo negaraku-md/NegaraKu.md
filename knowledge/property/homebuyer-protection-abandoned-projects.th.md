@@ -33,8 +33,9 @@ faq:
     a: "คำตัดสินของศาลชำนัญพิเศษเป็นที่สุดและมีผลผูกพัน และสามารถบังคับใช้ได้เหมือนคำสั่งศาล การไม่ปฏิบัติตามคำตัดสินเป็นความผิดที่อาจถูกปรับ RM10,000 ถึง RM50,000 หรือจำคุกสูงสุดสองปี หรือทั้งสองอย่าง"
 
 lang: "th"
+sourceContentHash: "f08885d66ba27130"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

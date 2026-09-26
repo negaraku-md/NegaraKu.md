@@ -29,8 +29,9 @@ faq:
     a: "ASASIpintar คือหลักสูตรเตรียมเข้ามหาวิทยาลัยของ UKM สำหรับนักเรียนปัญญาเลิศ เสนอเป็นสามสายคือ Perdana, Komersial และ Antarabangsa"
 
 lang: "th"
+sourceContentHash: "35e2f3422be13be3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

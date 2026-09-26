@@ -39,8 +39,9 @@ faq:
     a: "ใช่ แต่จำนวนเอิมปูที่ชำนาญลดลงอย่างรวดเร็ว ทำให้การส่งต่อความรู้ยากขึ้น UNESCO ระบุการลดลงนี้ว่าเป็นความท้าทายหลักของความยั่งยืนของกริช"
 
 lang: "th"
+sourceContentHash: "f542d42d76523ab4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "เฉพาะผู้ประกอบการที่ปล่อยเช่าห้องห้าห้องขึ้นไปต้องจดทะเบียนและเก็บ TTx ผู้ประกอบการที่มีสี่ห้องหรือน้อยกว่าไม่ต้องจดทะเบียน"
 
 lang: "th"
+sourceContentHash: "f102342b25c63a8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "ขึ้นอยู่กับสถานที่ อุทยานทางทะเลในคาบสมุทรมาเลเซียและลาบวนอยู่ในระดับสหพันธรัฐ บริหารโดยกรมประมงมาเลเซียภายใต้พระราชบัญญัติประมง (Fisheries Act 1985) อุทยานในซาบาห์ รวมถึงสิปาดัน บริหารโดยหน่วยงานระดับรัฐคืออุทยานซาบาห์ภายใต้กฎหมายของรัฐแยกต่างหาก"
 
 lang: "th"
+sourceContentHash: "4a736d507026f7b4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

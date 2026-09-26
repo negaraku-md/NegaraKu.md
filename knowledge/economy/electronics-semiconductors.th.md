@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ประเมินความเปราะบางทางเศรษฐกิจของมาเลเซีย ทั้งนักลงทุน ผู้หางาน ผู้กำหนดนโยบาย และผู้ศึกษาการค้า"
 
 lang: "th"
+sourceContentHash: "f587a0bc65cbc1af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

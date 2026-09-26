@@ -34,8 +34,9 @@ faq:
     a: "มีค่าใช้จ่ายสามอย่างทั้งตอนซื้อและตอนขาย: ค่าคอมมิชชันของนายหน้า (กำหนดโดยนายหน้าของคุณ) ค่าธรรมเนียมการชำระราคา 0.03% ของมูลค่าธุรกรรมจำกัดที่ RM1,000 และอากรแสตมป์ RM1 ต่อมูลค่า RM1,000 (หรือเศษ) จำกัดที่ RM1,000 ค่านายหน้าสำหรับหุ้นที่จดทะเบียนใน Bursa Malaysia ปัจจุบันได้รับการยกเว้นภาษีบริการ"
 
 lang: "th"
+sourceContentHash: "2aa2d9243406a229"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "ว่าความผิดที่สร้างขึ้นโดยกฎหมายลำดับรองจะได้รับโทษทั่วไปตาม s.145 ของพระราชบัญญัติคุ้มครองผู้บริโภค (Consumer Protection Act 1999) หรือไม่ — ระเบียบ 9 สร้างความผิดแต่ไม่ได้กำหนดโทษ ดังนั้นนี่จึงเป็นการอนุมาน"
 
 lang: "th"
+sourceContentHash: "b5ad7450f8460c07"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

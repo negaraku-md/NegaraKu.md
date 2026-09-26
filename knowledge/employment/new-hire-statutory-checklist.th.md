@@ -77,8 +77,9 @@ verificationNeeded:
   - "ยืนยันรายละเอียดปัจจุบันที่กำหนดสำหรับทะเบียนตามมาตรา 61 กับกฎกระทรวงการจ้างงานที่มีผลบังคับใช้"
 
 lang: "th"
+sourceContentHash: "84b81bd01d8b6ae2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

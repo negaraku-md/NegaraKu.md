@@ -31,8 +31,9 @@ faq:
     a: "ส่วนใหญ่ไปหลุมฝังกลบ มาเลเซียดำเนินการหลุมฝังกลบ 135 แห่ง ได้แก่ ที่ทิ้งขยะแบบเปิด 114 แห่งและหลุมฝังกลบถูกสุขลักษณะ 22 แห่ง และหลุมฝังกลบยังคงเป็นวิธีการกำจัดหลักของประเทศ"
 
 lang: "th"
+sourceContentHash: "1d664666863d04f5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

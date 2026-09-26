@@ -20,8 +20,9 @@ keyTakeaways:
   - "NEP ถูกกำหนดหลังเหตุการณ์ 13 พฤษภาคม 1969 และถูกสืบทอดโดยนโยบายการพัฒนาแห่งชาติในปี 1991"
 appliesTo: "ผู้อ่านที่ต้องการวัตถุประสงค์ เป้าหมาย และกรอบเวลาที่มีการบันทึกของนโยบายเศรษฐกิจใหม่ตามที่ระบุในตัวบทแผนทางการของมาเลเซีย มากกว่าบันทึกที่เข้าข้างฝ่ายใด"
 lang: "th"
+sourceContentHash: "6f9599be22d1ac5f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

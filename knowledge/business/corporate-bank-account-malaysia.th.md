@@ -43,8 +43,9 @@ verificationNeeded:
   - "ยืนยันว่าธนาคารต้องการเห็นทะเบียนผู้รับผลประโยชน์ที่แท้จริงที่จัดทำภายใต้ ss.60B และ 60C ของ Companies Act 2016 หรือไม่ — นี่เป็นแนวปฏิบัติทั่วไปแต่ไม่ใช่ข้อกำหนดที่ระบุในเอกสารนโยบาย"
 
 lang: "th"
+sourceContentHash: "75370094a3730df5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

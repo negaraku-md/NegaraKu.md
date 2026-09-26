@@ -44,8 +44,9 @@ verificationNeeded:
   - "ยืนยันฐานทางกฎหมายที่ MIDA พึ่งพาสำหรับ ITA ของ JS-SEZ Smart Logistics Complex — แนวทางปฏิบัติอ้าง P.U.(A) 113/2006 ซึ่งเป็นตราสารก่อนปี 2011 ที่อยู่นอกความครอบคลุมที่เชื่อถือได้ของ AGC และไม่สามารถดึงข้อความที่มีผลบังคับใช้ได้"
 
 lang: "th"
+sourceContentHash: "2c106e0d7c225687"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

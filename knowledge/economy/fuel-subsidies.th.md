@@ -33,8 +33,9 @@ faq:
     a: "มันเปลี่ยนแปลงตามราคาตลาด ภาระการอุดหนุน RON95 และดีเซลอยู่ที่ราว RM0.7 พันล้านในเดือนมกราคม 2026 และขึ้นสูงสุดที่ RM7.5 พันล้านในเดือนเมษายน 2026 ก่อนถูกคาดการณ์ไว้ราว RM3.5 พันล้านต่อเดือนในเดือนมิถุนายน 2026"
 
 lang: "th"
+sourceContentHash: "4d77f16bdf432b0a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

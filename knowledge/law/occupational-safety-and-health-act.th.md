@@ -30,8 +30,9 @@ faq:
     a: "อุบัติเหตุถึงแก่ชีวิต การบาดเจ็บสาหัส หรือเหตุการณ์อันตรายต้องแจ้งต่อสำนักงาน DOSH ที่ใกล้ที่สุดด้วยวิธีที่เร็วที่สุด และส่งแบบฟอร์ม JKKP 6 ภายในระยะเวลา 7 วันภายใต้ NADOPOD 2004"
 
 lang: "th"
+sourceContentHash: "e58617c97047711f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

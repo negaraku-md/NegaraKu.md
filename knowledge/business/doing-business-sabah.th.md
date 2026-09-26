@@ -44,8 +44,9 @@ verificationNeeded:
   - "จำนวนผู้เช่าปัจจุบันและการลงทุนที่ผูกพันที่ POIC Lahad Datu และ SOGIP Sipitang — เว็บไซต์ผู้ดำเนินการมีตัวเลขลงวันที่ 2020 ถึง 2022 และยอดรวมที่เป็นเป้าหมาย"
 
 lang: "th"
+sourceContentHash: "91f5a7840f804778"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

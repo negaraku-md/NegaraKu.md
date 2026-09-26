@@ -29,8 +29,9 @@ faq:
     a: "ตามบทสรุปกฎหมาย ความผิดฐานให้/รับสินบนอาจมีโทษจำคุกสูงสุด 20 ปีและปรับไม่น้อยกว่าห้าเท่าของมูลค่าสินบนหรือ RM10,000 แล้วแต่จำนวนใดสูงกว่า รายละเอียดนี้ควรตรวจสอบใหม่กับตัวบทเต็มของพระราชบัญญัติ"
 
 lang: "th"
+sourceContentHash: "602c70742033a7cb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

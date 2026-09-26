@@ -28,8 +28,9 @@ verificationNeeded:
   - "โปรดยืนยันความรับผิดในการจดทะเบียน HRD Corp เทียบกับประเภทอุตสาหกรรมในตารางที่หนึ่ง (First Schedule) ใน P.U.(A) 84/2021 ก่อนจะสันนิษฐานว่าเงินจ่ายนี้ใช้บังคับ"
 
 lang: "th"
+sourceContentHash: "09bddb62f9842f1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

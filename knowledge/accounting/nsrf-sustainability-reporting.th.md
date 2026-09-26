@@ -41,8 +41,9 @@ verificationNeeded:
   - "โปรดยืนยันว่าการแก้ไขกฎหมายที่ระบุในหมวด IX ของ NSRF ได้ถูกตราขึ้นแล้วหรือไม่ก่อนจะถือว่า NSRF เป็นภาระตามกฎหมายสำหรับบริษัทที่ไม่ได้จดทะเบียน"
 
 lang: "th"
+sourceContentHash: "580bb89b56c953ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

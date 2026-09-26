@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้กู้ที่มีสินเชื่ออัตราลอยตัว ผู้ออม และผู้ที่พยายามเข้าใจข่าวอัตราดอกเบี้ยของมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "54922b7bc9867b3f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

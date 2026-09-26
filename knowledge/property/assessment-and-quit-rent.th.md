@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "เจ้าของบ้าน เจ้าของที่ดิน และผู้ซื้ออสังหาริมทรัพย์ในคาบสมุทรมาเลเซียที่ต้องเข้าใจใบเรียกเก็บภาษีทรัพย์สินรายปีของตน"
 
 lang: "th"
+sourceContentHash: "466dc843a0553a23"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

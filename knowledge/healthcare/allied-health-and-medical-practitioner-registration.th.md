@@ -29,8 +29,9 @@ faq:
     a: "พยาบาลขึ้นทะเบียนโดยคณะกรรมการพยาบาลมาเลเซีย (Nursing Board Malaysia) ภายใต้พระราชบัญญัติพยาบาล (Nurses Act 1950); เภสัชกรโดยคณะกรรมการเภสัชกรรมมาเลเซีย (Pharmacy Board Malaysia) ภายใต้พระราชบัญญัติการขึ้นทะเบียนเภสัชกร (Registration of Pharmacists Act 1951, Act 371); และวิชาชีพสหเวชศาสตร์เช่นกายภาพบำบัดโดย MAHPC ภายใต้พระราชบัญญัติวิชาชีพสหเวชศาสตร์ (Allied Health Professions Act 2016, Act 774)"
 
 lang: "th"
+sourceContentHash: "3615da4185af8269"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

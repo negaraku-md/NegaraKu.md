@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ตีความข้อมูลตลาดแรงงานของมาเลเซีย ทั้งผู้หางาน นายจ้าง ผู้กำหนดนโยบาย และนักวิเคราะห์"
 
 lang: "th"
+sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

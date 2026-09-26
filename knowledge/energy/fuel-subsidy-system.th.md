@@ -37,8 +37,9 @@ faq:
     a: "ดีเซลในซาบาห์ ซาราวัก และลาบวนถูกคงไว้ที่ RM2.15 ต่อลิตรและไม่ได้ลอยตัวเหมือนในคาบสมุทร RON95 ที่ได้รับอุดหนุน RM1.99 ใช้สำหรับพลเมืองที่มีคุณสมบัติทั่วประเทศ"
 
 lang: "th"
+sourceContentHash: "b4fd92803516f862"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

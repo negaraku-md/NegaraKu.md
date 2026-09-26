@@ -38,8 +38,9 @@ faq:
     a: "การจ้างชาวต่างชาติโดยไม่มีบัตรอนุญาตที่มีผลเป็นความผิดภายใต้มาตรา 55B มีโทษปรับ RM10,000 ถึง RM50,000 หรือจำคุกสูงถึง 12 เดือนต่อแรงงานแต่ละคน การจ้างแรงงานที่ไม่มีเอกสารห้าคนขึ้นไปเพิ่มความเสี่ยงเป็นจำคุกหกเดือนถึงห้าปีและอาจมีการเฆี่ยน"
 
 lang: "th"
+sourceContentHash: "0a352a7bd7d5e1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

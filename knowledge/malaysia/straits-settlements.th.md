@@ -29,8 +29,9 @@ faq:
   - q: "ในที่สุดนิคมช่องแคบเกิดอะไรขึ้น"
     a: "มันถูกยุบเมื่อวันที่ 1 เมษายน 1946 ปีนังและมะละกาถูกรวมเข้าสู่สหภาพมลายาเคียงข้างรัฐมลายูที่รวมสหพันธ์และไม่รวมสหพันธ์ ในขณะที่สิงคโปร์ถูกแยกออกเป็นอาณานิคมของราชวงศ์แยกต่างหากของตนเอง"
 lang: "th"
+sourceContentHash: "9cb8a0574c93b0cb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

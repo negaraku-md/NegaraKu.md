@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่อยู่ในมาเลเซีย ทั้งพลเมือง ผู้อยู่อาศัย ผู้ถือใบอนุญาตทำงาน นักศึกษา หรือนักท่องเที่ยว ที่ต้องการซื้อหรือลงทะเบียนซิมโทรศัพท์มือถือในท้องถิ่น"
 
 lang: "th"
+sourceContentHash: "5f238099826ab02d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

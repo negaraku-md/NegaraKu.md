@@ -36,8 +36,9 @@ faq:
     a: "ในปี 2020 รัฐมนตรีว่าการกระทรวงพลังงานและทรัพยากรธรรมชาติในขณะนั้น Datuk Dr Shamsul Anuar Nasarah แจ้งต่อรัฐสภาว่าควรทบทวนแผนเนื่องจากต้นทุน คือผลกระทบทางการเงินราว RM5 พันล้านต่อรัฐบาล บวกภาระการซื้อไฟฟ้า RM60–80 พันล้านที่รัฐบาลจะต้องรับ การปฏิรูปนับแต่นั้นดำเนินต่อในขั้นตอนที่เล็กและมีเป้าหมายมากกว่าการเปิดเสรีครั้งใหญ่ครั้งเดียว"
 
 lang: "th"
+sourceContentHash: "5e135be7df9c9a11"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

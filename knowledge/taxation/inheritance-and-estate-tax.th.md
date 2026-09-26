@@ -38,8 +38,9 @@ faq:
     a: "ต้อง ผู้จัดการมรดกต้องแจ้ง LHDN เรื่องการเสียชีวิต ยื่นแบบสุดท้ายของผู้ตายและแบบของกองมรดก และชำระภาษีค้างและค่าปรับใดก่อนแบ่งกองมรดก LHDN มีเวลาสามปีนับจากสิ้นปีที่ได้รับแจ้งการเสียชีวิตในการออกการประเมิน"
 
 lang: "th"
+sourceContentHash: "68ad2357941779d2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

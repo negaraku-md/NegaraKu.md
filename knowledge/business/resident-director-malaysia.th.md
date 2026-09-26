@@ -63,8 +63,9 @@ obligations:
     consequence: "การถอนชื่อภายใต้ Subdivision 1 ของ Division 4 ของ Part IV"
 
 lang: "th"
+sourceContentHash: "d3a6d48bf6f723f4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

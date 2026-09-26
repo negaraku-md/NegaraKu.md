@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจความแตกต่างของต้นกำเนิด ดนตรี และท่วงท่าระหว่างโจเกตและซาปินในฐานะการรำพื้นบ้านมลายูสองชนิดที่แยกจากกัน"
 
 lang: "th"
+sourceContentHash: "f85648fc29f5d316"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

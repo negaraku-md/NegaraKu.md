@@ -34,8 +34,9 @@ faq:
     a: "สิทธิเจรจาต่อรองร่วมแต่เพียงผู้เดียวถูกกำหนดภายใต้พระราชบัญญัติแรงงานสัมพันธ์ 1967 หากลูกจ้างไม่บรรลุข้อตกลงร่วมกัน สามารถยื่นคำขอต่ออธิบดีกรมแรงงานสัมพันธ์ซึ่งอาจจัดการลงคะแนนลับเพื่อเลือกตัวแทนเจรจา"
 
 lang: "th"
+sourceContentHash: "3512cd3f05dbac9a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

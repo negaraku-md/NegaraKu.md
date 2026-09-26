@@ -33,8 +33,9 @@ faq:
     a: "ใช่ มาตรา 29A ห้ามการเผาในที่โล่งในสถานที่ใด ๆ และมีโทษปรับสูงถึง RM500,000 หรือจำคุกสูงถึง 5 ปี หรือทั้งจำทั้งปรับ เจ้าของหรือผู้ครอบครองสถานที่ถือว่าต้องรับผิดชอบเว้นแต่พิสูจน์ได้เป็นอย่างอื่น (มาตรา 29B)"
 
 lang: "th"
+sourceContentHash: "cd3834c25795a67e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

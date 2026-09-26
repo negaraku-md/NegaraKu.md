@@ -32,8 +32,9 @@ faq:
     a: "รัฐบาลยืนยันว่าไม่ โครงการอย่าง Rakan KKM ถูกวางกรอบเป็นแบบจำลองเพื่อรักษาผู้เชี่ยวชาญไว้ในภาครัฐ ไม่ใช่การแปรรูปเป็นเอกชน แม้ว่าผู้สังเกตการณ์บางส่วนยังคงระมัดระวังต่อผลกระทบระยะยาว"
 
 lang: "th"
+sourceContentHash: "f5aff2ea91b18549"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

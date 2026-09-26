@@ -31,8 +31,9 @@ faq:
     a: "ภายใต้พระราชบัญญัติการเช่าซื้อ (Hire Purchase Act 1967) โดยทั่วไปผู้ให้การเงินสามารถยึดคืนได้ก็ต่อเมื่อผู้เช่าซื้อผิดนัดชำระสองงวดติดต่อกันและปฏิบัติตามกระบวนการแจ้งเตือน 21 วัน เมื่อคุณชำระเงินไปแล้วอย่างน้อย 75% ของราคาเงินสด ผู้ให้การเงินต้องมีคำสั่งศาลในการยึดคืน"
 
 lang: "th"
+sourceContentHash: "736d6f3bf7c003b5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

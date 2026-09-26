@@ -31,8 +31,9 @@ verificationNeeded:
   - "วันที่ที่แน่นอน (ตำแหน่งในคณะรัฐมนตรี การปลดออก การปล่อยตัว การแต่งตั้งเป็นนายกรัฐมนตรี) ต้องได้รับการยืนยันเทียบกับสำนักนายกรัฐมนตรีและบันทึกของศาล"
 
 lang: "th"
+sourceContentHash: "ff741a6378247554"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

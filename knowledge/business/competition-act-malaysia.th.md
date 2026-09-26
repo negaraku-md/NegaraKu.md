@@ -27,8 +27,9 @@ faq:
     a: "คณะกรรมการการแข่งขันทางการค้าแห่งมาเลเซีย (MyCC) ซึ่งเป็นองค์กรตามกฎหมายที่เป็นอิสระ สอบสวนการละเมิดที่สงสัยและสามารถกำหนดค่าปรับและคำสั่งได้"
 
 lang: "th"
+sourceContentHash: "6a2eea7b75db3f8c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

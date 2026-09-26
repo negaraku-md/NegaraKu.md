@@ -27,8 +27,9 @@ faq:
   - q: "ความแตกต่างระหว่างอากรตามมูลค่าและอากรคงที่คืออะไร?"
     a: "อากรตามมูลค่า (ad valorem) แปรตามลักษณะของตราสารและค่าตอบแทนหรือมูลค่าตลาดที่เกี่ยวข้อง — เช่น การโอนทรัพย์สินหรือเงินกู้ อากรคงที่ (fixed) เก็บโดยไม่เกี่ยวข้องกับจำนวนที่ระบุ โดยทั่วไปเริ่มที่ RM10 ตามชื่อต่อตราสาร"
 lang: "th"
+sourceContentHash: "e9d01dfeb365b31f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

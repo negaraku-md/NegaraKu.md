@@ -31,8 +31,9 @@ faq:
     a: "เจ้าของสามารถครอบครองทรัพย์สินนั้นต่อไปได้ (มาตรา 69) แต่การเปลี่ยนแปลงการครอบครองมรดกแห่งชาติทำได้เฉพาะผ่านการรับมรดกหรือการขายโดยได้รับอนุมัติล่วงหน้าจากข้าหลวง และต้องให้ข้าหลวงมีสิทธิ์ก่อนในการซื้อ (มาตรา 70)"
 
 lang: "th"
+sourceContentHash: "ac4e452cf7f76ecc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

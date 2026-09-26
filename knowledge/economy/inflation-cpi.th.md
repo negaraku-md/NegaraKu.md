@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่พยายามอ่านรายงานเงินเฟ้อของมาเลเซียอย่างถูกต้อง ทั้งครัวเรือน นายจ้างที่กำหนดค่าจ้าง และนักวิเคราะห์"
 
 lang: "th"
+sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

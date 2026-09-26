@@ -27,8 +27,9 @@ faq:
   - q: "ฐานทางกฎหมายใดที่ให้สภาเก็บภาษีประเมิน?"
     a: "ส่วนที่ XV (การประเมินอัตราและการตีมูลค่า) มาตรา 127 ให้อำนาจองค์กรปกครองท้องถิ่นในการกำหนดอัตราภาษีเหนือทรัพย์สิน (holdings) ในพื้นที่ของตน โดยมีเกณฑ์การประเมินระบุในมาตรา 130"
 lang: "th"
+sourceContentHash: "ef5c1db3291f9813"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -34,8 +34,9 @@ seoTitle: "อักษรยาวี: ประวัติ ระบบ แ�
 socialTitle: "อักษรอาหรับที่เขียนภาษามลายูมาเจ็ดศตวรรษ — เรื่องราวของอักษรยาวี"
 
 lang: "th"
+sourceContentHash: "227837ea67cec8a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

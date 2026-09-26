@@ -36,8 +36,9 @@ verificationNeeded:
   - "ยืนยันว่าคำว่าโดยไม่มีอำนาจอันชอบด้วยกฎหมายในมาตรา 12(1)(f) ของพระราชบัญญัติหนังสือเดินทาง 1966 ถูกตีความอย่างไรเมื่อแรงงานยินยอมให้นายจ้างเก็บรักษาไว้ — ไม่พบบรรทัดฐานคดีหรือแนวทางของ AGC เกี่ยวกับประเด็นนี้"
 
 lang: "th"
+sourceContentHash: "b59bcb20c9aa24c2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "ไม่ การศึกษาที่โรงเรียนประถมและมัธยมรัฐบาลไม่เก็บค่าเล่าเรียน ส่วนค่าธรรมเนียมพิเศษถูกยกเลิกตั้งแต่ปี 2008 ผ่าน SPI ฉบับที่ 13/2007"
 
 lang: "th"
+sourceContentHash: "ae00ce2b2c55df71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "EUDR มีผลบังคับใช้เมื่อ 29 มิถุนายน 2023 หลังจากการเลื่อน ภาระหน้าที่ใช้บังคับตั้งแต่ 30 ธันวาคม 2026 สำหรับผู้ประกอบการและผู้ค้ารายใหญ่ และ 30 มิถุนายน 2027 สำหรับวิสาหกิจขนาดย่อมและขนาดเล็ก"
 
 lang: "th"
+sourceContentHash: "f8c253517f15928f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

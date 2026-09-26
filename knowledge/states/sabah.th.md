@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "ผู้อ่านที่ต้องการโปรไฟล์เชิงข้อเท็จจริงของซาบาห์ — ภูมิศาสตร์ เศรษฐกิจ และรัฐบาลของรัฐ — และคำอธิบายที่เป็นกลางเกี่ยวกับสถานะทางรัฐธรรมนูญของซาบาห์ภายใต้ข้อตกลงมาเลเซีย 1963"
 
 lang: "th"
+sourceContentHash: "d05db2b4db752c79"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

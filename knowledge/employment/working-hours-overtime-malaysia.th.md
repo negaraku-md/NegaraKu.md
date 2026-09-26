@@ -51,8 +51,9 @@ obligations:
     consequence: "เป็นความผิดภายใต้มาตรา 59(4)"
 
 lang: "th"
+sourceContentHash: "46ae2aa3c5adc6b5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

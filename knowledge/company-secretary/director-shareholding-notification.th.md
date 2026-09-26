@@ -77,8 +77,9 @@ obligations:
     consequence: "ปรับไม่เกิน RM25,000 บวก RM1,000 ต่อวันที่ความผิดยังดำเนินต่อเนื่องภายใต้มาตรา 219(7)"
 
 lang: "th"
+sourceContentHash: "52c12d78538cdf80"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

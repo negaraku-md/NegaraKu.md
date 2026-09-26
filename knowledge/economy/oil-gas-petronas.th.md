@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่พยายามเข้าใจฐานทางกฎหมายของภาคน้ำมันและก๊าซของมาเลเซีย การพึ่งพาปิโตรเลียมทางการคลังของสหพันธรัฐ หรือการถกเถียงเรื่องทรัพยากรระหว่างสหพันธรัฐกับรัฐ ทั้งนักเรียน นักวิเคราะห์ นักลงทุน และนักข่าว"
 
 lang: "th"
+sourceContentHash: "e00cfef3a5a059c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

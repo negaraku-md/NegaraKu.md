@@ -35,8 +35,9 @@ seoTitle: "โอรังอัสลี: สามกลุ่มหลัก 
 socialTitle: "โอรังอัสลีคือใคร — สามกลุ่ม 18 ชนเผ่า และหน่วยงานที่ดูแล"
 
 lang: "th"
+sourceContentHash: "22c8505f8289ae57"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

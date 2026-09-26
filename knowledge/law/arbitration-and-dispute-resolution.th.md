@@ -33,8 +33,9 @@ faq:
     a: "ได้ นับตั้งแต่พระราชบัญญัติอนุญาโตตุลาการ (แก้ไข) ปี 2024 มีผลบังคับใช้เมื่อวันที่ 1 มกราคม 2026 มาตรา 46A-46I สร้างกรอบตามกฎหมาย มาตรา 46C ยกเลิกกฎหมายจารีตประเพณีที่ต่อต้าน maintenance และ champerty และมาตรา 46G กำหนดให้ต้องเปิดเผยข้อตกลงการจัดหาเงินทุนและตัวตนของผู้จัดหาเงินทุน"
 
 lang: "th"
+sourceContentHash: "dbaaa201e69ebe39"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -40,8 +40,9 @@ verificationNeeded:
   - "โปรดยืนยันถ้อยคำปัจจุบันที่แม่นยำของนิยามกิจการเอกชนของ MASB เทียบกับหน้าการนำไปใช้ของ MASB ก่อนจะยกมาแบบคำต่อคำในเอกสารใดที่ส่งถึงลูกค้า"
 
 lang: "th"
+sourceContentHash: "fdc2c021a877fc8a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

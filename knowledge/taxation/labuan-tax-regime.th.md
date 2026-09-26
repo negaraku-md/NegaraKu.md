@@ -56,8 +56,9 @@ obligations:
     consequence: "การเลือกใช้ไม่ได้สำหรับปีนั้น; เมื่อทำแล้วไม่มีวันย้อนกลับได้"
 
 lang: "th"
+sourceContentHash: "f2863a53f5f454a9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

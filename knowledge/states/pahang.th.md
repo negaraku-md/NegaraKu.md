@@ -41,8 +41,9 @@ verificationNeeded:
   - "พอร์ทัลการท่องเที่ยวของรัฐระบุพื้นที่ 35,960 ตารางกิโลเมตร ขณะที่พอร์ทัลรัฐบาลรัฐระบุ 35,965 ตารางกิโลเมตร ยืนยันตัวเลขทางการตัวเดียวกับสำนักงานเลขาธิการรัฐบาลปะหัง"
 
 lang: "th"
+sourceContentHash: "da77a92f707cbcd4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

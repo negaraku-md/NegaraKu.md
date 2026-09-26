@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "นักเรียน ครู ข้าราชการ นักข่าว และผู้ที่เห็นตราแผ่นดินบนหนังสือเดินทาง เหรียญ จดหมายราชการ หรืออาคารราชการ และต้องการรู้จักความหมายของแต่ละองค์ประกอบ"
 
 lang: "th"
+sourceContentHash: "d089f6e067d44f67"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

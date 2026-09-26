@@ -32,8 +32,9 @@ faq:
     a: "ให้หน่วยงานทางศาสนาที่จัดตั้งขึ้นภายใต้กฎหมายลายลักษณ์อักษร — คือคณะกรรมการหรือศูนย์ซะกาตของรัฐของคุณ — และเก็บใบเสร็จไว้ การจ่ายให้บุคคลหรือกองทุนส่วนตัวไม่เข้าเกณฑ์ได้รับเครดิต"
 
 lang: "th"
+sourceContentHash: "0477b9f160c18e84"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

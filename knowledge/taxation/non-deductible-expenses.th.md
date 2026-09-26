@@ -42,8 +42,9 @@ verificationNeeded:
   - "การยกเว้นตาม s.39(1)(r) ใน P.U.(A) 425-2021 ได้รับการขยายเกิน YA2025 หรือไม่ — หนังสือเวียน Labuan FSA ฉบับ 269/2021 ระบุช่วงเวลาที่มีผลว่า YA2019 ถึง YA2025 และไม่พบคำสั่งขยายเวลา"
   - "วรรค 39(1)(o) และ 39(1)(p) ซึ่งอ้างถึงพระราชบัญญัติภาษีสินค้าและบริการ (Goods and Services Tax Act 2014) ยังคงมีผลบังคับใช้หรือไม่ ภายหลังการยกเลิกพระราชบัญญัตินั้น"
 lang: "th"
+sourceContentHash: "5306816ff4b971c7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "ได้ ระบบการศึกษาแห่งชาติของมาเลเซียรวมโรงเรียนประเภทแห่งชาติ (Sekolah Jenis Kebangsaan) ที่ใช้จีนกลาง (SJKC) หรือทมิฬ (SJKT) เป็นสื่อการสอน ควบคู่กับโรงเรียนแห่งชาติ (SK) ที่ใช้บาฮาซามลายู ทั้งสามอยู่ภายใต้กระทรวงศึกษาธิการและหลักสูตรแห่งชาติเดียวกัน"
 
 lang: "th"
+sourceContentHash: "ab65f68bd17c67a2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

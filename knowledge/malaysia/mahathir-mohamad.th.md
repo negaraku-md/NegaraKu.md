@@ -31,8 +31,9 @@ verificationNeeded:
   - "วันที่ที่แน่นอน (การดำรงตำแหน่งนายกรัฐมนตรี การลาออก) ต้องได้รับการยืนยันเทียบกับสำนักนายกรัฐมนตรีและมูลนิธิภาวะผู้นำเปอร์ดานา (Perdana Leadership Foundation)"
 
 lang: "th"
+sourceContentHash: "2b8cc04016656090"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

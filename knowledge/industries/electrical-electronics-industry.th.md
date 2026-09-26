@@ -34,8 +34,9 @@ faq:
     a: "ชื่อระดับโลกเช่น Intel, AMD, Broadcom, Bosch และ OSRAM ดำเนินงานที่นี่ เคียงข้างผู้รับจ้างผลิต (EMS) เช่น Jabil, Flex, Plexus, Sanmina และ Benchmark และบริษัทที่เติบโตในประเทศรวมถึง Inari Amertron"
 
 lang: "th"
+sourceContentHash: "0fec58671ce8ac21"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

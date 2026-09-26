@@ -31,8 +31,9 @@ verificationNeeded:
   - "วันที่และจำนวนสมาชิกสภาผู้แทนราษฎรที่แน่นอน (ผู้ย้ายพรรค การปรึกษาหารือของกษัตริย์) ต้องได้รับการยืนยันเทียบกับบันทึกทางการและการรายงานร่วมสมัย แหล่งข้อมูลแตกต่างกันเล็กน้อยในวันที่แน่นอนของการประชุมที่โรงแรม (21–23 กุมภาพันธ์)"
 
 lang: "th"
+sourceContentHash: "d475393c9a7ff6eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

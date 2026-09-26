@@ -32,8 +32,9 @@ faq:
     a: "ลักษณะของความสัมพันธ์ จำนวนรายการ ยอดคงค้างและเงื่อนไข การค้ำประกันหรือหลักประกันที่ได้รับหรือให้ และประมาณการหนี้สงสัยจะสูญที่เกี่ยวกับยอดคงเหลือนั้น"
 
 lang: "th"
+sourceContentHash: "ae54f875cbc22c20"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

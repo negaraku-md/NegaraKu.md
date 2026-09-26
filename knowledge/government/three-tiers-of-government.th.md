@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่พยายามหาว่าควรติดต่อรัฐบาลระดับใดสำหรับปัญหาหนึ่งในมาเลเซีย หรือผู้ที่ต้องการเข้าใจว่าเหตุใดตนจึงเลือกตั้งสมาชิกรัฐสภาและสมาชิกสภานิติบัญญัติแห่งรัฐได้ แต่เลือกตั้งสมาชิกสภาท้องถิ่นไม่ได้"
 
 lang: "th"
+sourceContentHash: "c6bdf9ccfb5d174a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

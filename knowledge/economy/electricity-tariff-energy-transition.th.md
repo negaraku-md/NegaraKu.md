@@ -31,8 +31,9 @@ faq:
     a: "NETR ตั้งเป้ากำลังการผลิตพลังงานหมุนเวียน 70% และการปล่อยก๊าซเรือนกระจกสุทธิเป็นศูนย์ภายในปี 2050 สนับสนุนด้วย 10 โครงการหลักที่คาดว่าจะดึงดูดการลงทุนกว่า RM25 พันล้าน"
 
 lang: "th"
+sourceContentHash: "19a2c50c83298410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

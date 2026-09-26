@@ -29,8 +29,9 @@ faq:
     a: "ราชสำนักรอด สุลต่านมะฮ์มุด ชาห์ (Sultan Mahmud Shah) และผู้สืบเชื้อสายของพระองค์สถาปนาการปกครองของมลายูขึ้นใหม่ทางใต้ ที่สำคัญที่สุดในรัฐสุลต่านยะโฮร์ นำโครงสร้างราชสำนัก ประมวลกฎหมาย และภาษาของมะละกาไปข้างหน้า สถาบันเหล่านั้นอยู่นานกว่าความเป็นเอกราชของเมืองหลายศตวรรษ"
 
 lang: "th"
+sourceContentHash: "cf412842ff34bf8f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

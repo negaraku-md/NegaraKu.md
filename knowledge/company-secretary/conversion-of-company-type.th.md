@@ -27,8 +27,9 @@ faq:
     a: "ตามแนวทางของ SSM การแจ้งการเปลี่ยนเป็นบริษัทมหาชนออกภายในหนึ่งวันทำการหลังจากยื่นเอกสารครบถ้วนและปฏิบัติตามเงื่อนไข แนวทางดังกล่าวไม่ได้ระบุระยะเวลาเฉพาะสำหรับการเปลี่ยนบริษัทมหาชนเป็นเอกชน"
 
 lang: "th"
+sourceContentHash: "63145595a33eef52"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

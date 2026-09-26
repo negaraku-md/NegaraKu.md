@@ -45,8 +45,9 @@ verificationNeeded:
   - "หน้าสิ่งจูงใจของ ECERDC เองที่ ecerdc.com.my ได้ผล 404 ดังนั้นจึงไม่อาจหาคำแถลงปัจจุบันของ ECERDC เกี่ยวกับเส้นทางสิ่งจูงใจของตนเองได้"
 
 lang: "th"
+sourceContentHash: "b4e723b19c6d6a1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ verificationNeeded:
   - "ตัวเลขทั้งหมดต้องได้รับการยืนยันเทียบกับคณะกรรมการการเลือกตั้งแห่งมาเลเซีย (Suruhanjaya Pilihan Raya)"
 
 lang: "th"
+sourceContentHash: "60045df88eb348ab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

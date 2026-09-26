@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "พลเมืองมาเลเซียที่ต้องการต่ออายุหนังสือเดินทางระหว่างประเทศที่มีอยู่ หรือเปลี่ยนหนังสือเดินทางที่สูญหาย/เสียหาย ไม่ว่าจะทางออนไลน์หรือที่เคาน์เตอร์ของกรมตรวจคนเข้าเมืองมาเลเซีย (JIM) / UTC"
 
 lang: "th"
+sourceContentHash: "bf73b9b94f1050d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

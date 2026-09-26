@@ -30,8 +30,9 @@ faq:
     a: "YTL Power กำลังสร้างสวนศูนย์ข้อมูลขนาดใหญ่ใน Kulai ยะโฮร์ และสร้างสถานที่ AI ที่ขับเคลื่อนด้วย Nvidia แห่งแรกเสร็จ ประกาศว่าดำเนินการ ณ สิ้นเดือนตุลาคม 2025"
 
 lang: "th"
+sourceContentHash: "430ec56c95aad0ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

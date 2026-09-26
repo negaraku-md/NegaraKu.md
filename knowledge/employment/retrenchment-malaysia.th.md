@@ -74,8 +74,9 @@ obligations:
     consequence: "เป็นความผิดภายใต้ reg 11(2)"
 
 lang: "th"
+sourceContentHash: "2ae8b97b33a16a4f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

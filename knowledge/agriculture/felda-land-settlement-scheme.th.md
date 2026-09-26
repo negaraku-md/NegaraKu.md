@@ -32,8 +32,9 @@ faq:
     a: "Felda Global Ventures (ปัจจุบันคือ FGV Holdings) เป็นแขนงการลงทุนที่บริหารสวนของ FELDA บริษัทเข้าจดทะเบียนใน Bursa Malaysia เมื่อวันที่ 28 มิถุนายน 2012 และ ณ เวลาทำ IPO บริหารพื้นที่ประมาณ 500,000 เฮกตาร์ที่ดำเนินการโดยผู้ตั้งถิ่นฐานราว 112,600 ราย"
 
 lang: "th"
+sourceContentHash: "e2d45ce88c57dcc0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

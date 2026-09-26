@@ -56,8 +56,9 @@ obligations:
     consequence: "การอนุญาตสิ้นผล"
 
 lang: "th"
+sourceContentHash: "03035b145c07011e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

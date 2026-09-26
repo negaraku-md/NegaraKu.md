@@ -30,8 +30,9 @@ faq:
     a: "ขอหนังสือรับรองการชำระหนี้จากผู้ให้สินเชื่อแล้วนำไปยังหน่วยงานเพื่อปรับปรุงสินเชื่อที่ชำระหมดแล้ว ตามกฎหมาย หน่วยงานไม่อาจเปิดเผยสถานะการล้มละลายของคุณเกินสองปีนับจากวันที่คุณได้รับการปลด"
 
 lang: "th"
+sourceContentHash: "0d23a5db0b086fe6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

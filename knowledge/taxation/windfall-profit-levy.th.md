@@ -31,8 +31,9 @@ faq:
     a: "ไม่ เกษตรกรรายย่อยได้รับยกเว้น และคำสั่งปี 2023 ใช้เฉพาะกับพื้นที่ถือครองปาล์มน้ำมันไม่น้อยกว่า 40.46 เฮกตาร์ (100 เอเคอร์); พื้นที่ถือครองในเขตนิคมรวม (group settlement areas) ก็ถูกยกเว้นด้วย"
 
 lang: "th"
+sourceContentHash: "90a5c1941df77b25"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

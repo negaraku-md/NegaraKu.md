@@ -36,8 +36,9 @@ faq:
     a: "ปกปิดไหล่และเข่าของคุณ โดยทั่วไปมีผ้าโสร่งให้ยืมหรือเช่าที่ทางเข้าหากเสื้อผ้าของคุณเปิดเผยเกินไป รองเท้าที่สบายช่วยกับบันไดยาวขึ้นสู่ถ้ำวัดหลัก"
 
 lang: "th"
+sourceContentHash: "2716ca2d76a67d28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

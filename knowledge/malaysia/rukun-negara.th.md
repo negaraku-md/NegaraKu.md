@@ -20,8 +20,9 @@ keyTakeaways:
   - "การประชุมการเผยแพร่เมื่อวันที่ 2 กันยายน 1970 มีมติว่าข้อความภาษามาเลเซียเป็นข้อความต้นฉบับ ฉบับภาษาอื่นเป็นการแปล"
 appliesTo: "นักเรียน ครู ข้าราชการ และผู้ที่ต้องอ้างอิงข้อความทางการของรูกุนเนอการาและลำดับเหตุการณ์การร่างของมันโดยอ้างอิงจากบันทึกจดหมายเหตุ"
 lang: "th"
+sourceContentHash: "b7cede975bcf8a6f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

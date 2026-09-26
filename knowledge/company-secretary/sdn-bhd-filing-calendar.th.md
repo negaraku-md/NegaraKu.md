@@ -135,8 +135,9 @@ obligations:
     consequence: "ปรับไม่เกิน RM10,000 บวกไม่เกิน RM500 ต่อวันแก่เจ้าหน้าที่ทุกคนภายใต้มาตรา 341(3)"
 
 lang: "th"
+sourceContentHash: "795508e7636dbf96"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

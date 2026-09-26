@@ -29,8 +29,9 @@ faq:
     a: "MISC Group รายงานรายได้ปีงบประมาณ 2024 ที่ RM13,237.5 ล้าน ลดลง 7.2% จาก RM14,271.7 ล้านในปีงบประมาณ 2023 ด้วยกำไรหลังภาษี RM1,233.2 ล้าน"
 
 lang: "th"
+sourceContentHash: "29aaf63ab9013b28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

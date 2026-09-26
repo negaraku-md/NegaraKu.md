@@ -48,8 +48,9 @@ obligations:
     consequence: "การจดทะเบียนสิ้นสุดลง มีระยะผ่อนผันโดยเสียค่าปรับเพิ่ม RM200 ต่อเดือน สูงสุดหกเดือน"
 
 lang: "th"
+sourceContentHash: "56878f9800c2837e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

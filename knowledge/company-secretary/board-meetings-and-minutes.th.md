@@ -55,8 +55,9 @@ obligations:
     consequence: "ไม่มีโทษเฉพาะที่ผูกกับย่อหน้านี้"
 
 lang: "th"
+sourceContentHash: "a750870631fb7040"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

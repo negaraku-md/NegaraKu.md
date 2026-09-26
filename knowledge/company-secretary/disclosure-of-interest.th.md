@@ -61,8 +61,9 @@ obligations:
     consequence: "ความผิด — จำคุกไม่เกิน 5 ปีหรือปรับไม่เกิน RM3 ล้านหรือทั้งสองอย่างภายใต้มาตรา 221(12)"
 
 lang: "th"
+sourceContentHash: "9b85796eadc48e3c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

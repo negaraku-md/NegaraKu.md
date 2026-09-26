@@ -36,8 +36,9 @@ faq:
     a: "ช่วงที่แห้งและสงบกว่ากินเวลาราวเดือนพฤศจิกายนถึงมีนาคม ซึ่งดีที่สุดสำหรับเกาะฮอปปิง กระเช้า และเวลาชายหาด เดือนกันยายนและตุลาคมมักเป็นเดือนที่ฝนตกชุกที่สุด แม้ฝนมักเป็นห่าฝนเขตร้อนสั้น ๆ มากกว่าฝนตกทั้งวัน"
 
 lang: "th"
+sourceContentHash: "a1ed788de3d96eee"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

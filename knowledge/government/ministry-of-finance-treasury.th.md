@@ -39,8 +39,9 @@ faq:
     a: "ร่างพระราชบัญญัติงบประมาณรายจ่ายเป็นการทดสอบความไว้วางใจทางการเงินต่อรัฐบาล เพราะเป็นร่างกฎหมายการเงิน จึงต้องเริ่มใน Dewan Rakyat และมีเพียงรัฐมนตรีที่นำเสนอได้ หาก Dewan Rakyat ปฏิเสธการจัดสรรของรัฐบาล นั่นโดยปกติถูกตีความว่าเป็นการสูญเสียความไว้วางใจของเสียงข้างมาก — ดูอำนาจทางการเงินของ Dewan Rakyat ภายใต้มาตรา 67 และ 68 แห่งรัฐธรรมนูญสหพันธ์"
 
 lang: "th"
+sourceContentHash: "40747e3f92b37352"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

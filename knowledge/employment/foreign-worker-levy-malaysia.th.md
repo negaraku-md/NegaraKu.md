@@ -49,8 +49,9 @@ obligations:
     consequence: "ใบอนุญาตจะไม่ออกหรือไม่ขยายอายุ"
 
 lang: "th"
+sourceContentHash: "0112f2d641d155c5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

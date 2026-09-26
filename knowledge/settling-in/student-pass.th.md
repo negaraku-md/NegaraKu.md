@@ -46,8 +46,9 @@ obligations:
     authority: "Malaysian Immigration Department"
 
 lang: "th"
+sourceContentHash: "3119f651e106c8fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

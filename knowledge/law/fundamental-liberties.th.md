@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการทราบทีละมาตราว่าส่วนที่ II ของรัฐธรรมนูญสหพันธรัฐรับประกันอะไรจริงและอนุญาตข้อจำกัดใดอย่างชัดแจ้ง"
 
 lang: "th"
+sourceContentHash: "268ae1dcdac3c251"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

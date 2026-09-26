@@ -43,8 +43,9 @@ verificationNeeded:
   - "ระยะเวลาการตอบแบบสอบถามเพิ่มเติมกำหนดเป็นรายกรณีในแบบสอบถามเอง และไม่ได้กำหนดตายตัวโดยกฎระเบียบ"
 
 lang: "th"
+sourceContentHash: "362da92334d2fc8d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -46,8 +46,9 @@ obligations:
     consequence: "โทษปรับ RM50 หรือ 10% ของอากรที่ขาดภายใน 3 เดือน, RM100 หรือ 20% หลังจากนั้น ภายใต้ s.47A"
 
 lang: "th"
+sourceContentHash: "fb44d17d11dacffd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -24,8 +24,9 @@ verificationNeeded:
   - "เว็บไซต์ทางการ kwsp.gov.my บล็อกการเข้าถึงอัตโนมัติ (403) ระหว่างการเขียนบทความนี้ อัตราเงินสมทบ KWSP ที่อ้างถึง (ลูกจ้าง 11 เปอร์เซ็นต์; นายจ้าง 13/12 เปอร์เซ็นต์ตามช่วงเงินเดือน) ได้รับการยืนยันผ่านการค้นหาที่ดึงข้อความโดยตรงจากตัวบทของ kwsp.gov.my เอง และสอดคล้องกับบทความ epf-employer-guide บนเว็บไซต์นี้ที่อ้างอิง kwsp.gov.my เช่นกัน โปรดยืนยันซ้ำโดยตรงที่ kwsp.gov.my/en/epf-act-1991-third-schedule เมื่อเว็บไซต์สามารถเข้าถึงได้"
 
 lang: "th"
+sourceContentHash: "91cbd7d0dece19b9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "มันมักถูกเรียกว่า 'Malaysian New Wave' คลื่นของผู้สร้างภาพยนตร์อิสระในช่วงต้นทศวรรษ 2000 Da Huang Pictures ที่ก่อตั้งในปี 2004 โดย Tan Chui Mui, Amir Muhammad, James Lee และ Liew Seng Tat กลายเป็นหนึ่งในหัวใจของมัน ภาพยนตร์ของ Tan เรื่อง Love Conquers All คว้ารางวัล New Currents และ FIPRESCI ที่เทศกาลภาพยนตร์นานาชาติปูซาน 2006 ตลอดจนรางวัล Tiger ที่ร็อตเทอร์ดาม"
 
 lang: "th"
+sourceContentHash: "defc3df96dc13355"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

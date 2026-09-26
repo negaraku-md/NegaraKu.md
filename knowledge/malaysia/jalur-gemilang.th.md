@@ -33,8 +33,9 @@ faq:
     a: "ชื่อนั้นถูกประกาศเมื่อวันที่ 31 สิงหาคม 1997 ที่ดาตารันเมอร์เดกา (Dataran Merdeka) เนื่องในการฉลองครบ 40 ปีของเอกราช"
 
 lang: "th"
+sourceContentHash: "f09e1191ce6cd425"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

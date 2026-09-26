@@ -41,8 +41,9 @@ verificationNeeded:
   - "ยืนยันว่า SSM กำหนดแบบฟอร์มเฉพาะสำหรับหนังสือแจ้งการถอดถอนตามมาตรา 278 และหนังสือแจ้งการลาออกตามมาตรา 282 หรือไม่ และค่าธรรมเนียมการยื่นที่ใช้บังคับ กับตารางค่าธรรมเนียม ROC ปัจจุบัน"
 
 lang: "th"
+sourceContentHash: "c932d3246ad62000"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

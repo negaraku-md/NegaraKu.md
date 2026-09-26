@@ -42,8 +42,9 @@ verificationNeeded:
   - "ว่าการจดทะเบียน SSM จำเป็นอย่างเป็นทางการสำหรับเจ้าของกิจการคนเดียวในซาบาห์หรือไม่ — DBKK ไม่ได้ระบุไว้ในบรรดาเอกสารที่ต้องใช้"
 
 lang: "th"
+sourceContentHash: "0a22774d2a85e872"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

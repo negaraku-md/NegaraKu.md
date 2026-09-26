@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ก่อตั้งและ CFO ที่กำลังชั่งน้ำหนักการทำ IPO ที่ปรึกษาและผู้สนับสนุน และนักลงทุนที่พยายามอ่านว่าการจดทะเบียนในกระดานหนึ่งบ่งบอกอะไรจริง ๆ"
 
 lang: "th"
+sourceContentHash: "8a42caae2331fbbd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

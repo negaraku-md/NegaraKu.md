@@ -42,8 +42,9 @@ verificationNeeded:
   - "ว่า KPDN กำหนดคำขอ WRT ใหม่หรืออนุญาตให้แก้ไขเมื่อมีการเปลี่ยนการถือหุ้นของผู้รับใบอนุญาตไม่ได้รับการยืนยันเทียบกับแนวปฏิบัติ KPDN"
 
 lang: "th"
+sourceContentHash: "9a4e03ec03d9397b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

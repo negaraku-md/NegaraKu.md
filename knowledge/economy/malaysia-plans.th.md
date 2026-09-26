@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "นักเรียน นักวิเคราะห์นโยบาย นักข่าว และผู้ที่ต้องการเข้าใจว่าการพัฒนาของประเทศถูกวางแผนอย่างไรเกินกว่าหนึ่งปีงบประมาณ"
 
 lang: "th"
+sourceContentHash: "e044f4eddcd76b63"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

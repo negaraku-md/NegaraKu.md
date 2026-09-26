@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่อ่านข่าวพาดหัวการค้าของมาเลเซีย ทั้งผู้ส่งออก ผู้นำเข้า นักลงทุน และนักวิเคราะห์"
 
 lang: "th"
+sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

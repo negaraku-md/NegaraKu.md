@@ -25,8 +25,9 @@ verificationNeeded:
   - "ตัวเลขรายได้ เงินฝาก และระยะเวลาเฉพาะของ MM2H ต่อระดับควรได้รับการยืนยันโดยตรงบนพอร์ทัล MM2H อย่างเป็นทางการ (mm2h.gov.my) ณ เวลาที่ยื่นคำร้อง เนื่องจากพอร์ทัลบล็อกการดึงข้อมูลอัตโนมัติและระดับของมันถูกปรับโครงสร้างมากกว่าหนึ่งครั้งในช่วงไม่กี่ปีที่ผ่านมา"
 
 lang: "th"
+sourceContentHash: "dd39883661ce9f6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

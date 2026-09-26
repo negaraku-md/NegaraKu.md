@@ -18,8 +18,9 @@ verificationNeeded:
   - "ยืนยันการปฏิบัติของ SSM ต่อค่าธรรมเนียมธนาคารและดอกเบี้ยที่บันทึกในบัญชีของบริษัทที่ไม่มีการดำเนินงาน — แนวปฏิบัติยกเว้นเฉพาะภาระผูกพันที่บริษัทต้องจ่ายตามกฎหมาย"
 
 lang: "th"
+sourceContentHash: "71652677302d5a7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

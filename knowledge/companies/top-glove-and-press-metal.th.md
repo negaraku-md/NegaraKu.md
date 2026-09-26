@@ -32,8 +32,9 @@ faq:
     a: "ใช่ ทั้งสองซื้อขายบนตลาดหลักของ Bursa Malaysia Top Glove จดทะเบียนเพิ่มเติมบนกระดานหลักของ Singapore Exchange"
 
 lang: "th"
+sourceContentHash: "a45b971c54bb5789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

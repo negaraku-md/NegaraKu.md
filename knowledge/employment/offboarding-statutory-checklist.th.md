@@ -111,8 +111,9 @@ obligations:
     consequence: "โทษทั่วไปสูงสุด RM50,000 ภายใต้มาตรา 99A"
 
 lang: "th"
+sourceContentHash: "beb77b4436b7c05c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

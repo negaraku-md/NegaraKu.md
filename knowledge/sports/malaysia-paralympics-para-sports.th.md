@@ -32,8 +32,9 @@ faq:
     a: "ในบรรดาผู้ที่โดดเด่นที่สุดคือ Cheah Liek Hou (แบดมินตัน SU5 เหรียญทองโตเกียว 2020 และปารีส 2024), Bonnie Bunyau Gustin (ยกน้ำหนัก เหรียญทองโตเกียว 2020 และปารีส 2024) และ Abdul Latif Romly (กระโดดไกล T20 เหรียญทองรีโอ 2016 และโตเกียว 2020)"
 
 lang: "th"
+sourceContentHash: "1cf985c7e961d813"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

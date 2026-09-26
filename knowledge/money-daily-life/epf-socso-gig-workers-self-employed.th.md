@@ -33,8 +33,9 @@ faq:
     a: "ภายใต้ Act 872 ผู้ให้บริการแพลตฟอร์มมีหน้าที่รับผิดชอบในการลงทะเบียนคุณภายใต้โครงการ Lindung Kendiri และหักเงินสมทบจากรายได้ของคุณ อย่างไรก็ตาม คุณยังต้องประกันว่าการลงทะเบียนสมบูรณ์และชำระส่วนที่เหลือหากการหักไม่ถึงอัตราขั้นต่ำของแผนที่คุณเลือก"
 
 lang: "th"
+sourceContentHash: "759ef843044df58d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

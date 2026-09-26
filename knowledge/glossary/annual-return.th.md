@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "กรรมการบริษัท เลขานุการบริษัท และผู้ที่รับผิดชอบด้านการปฏิบัติตามกฎหมายของบริษัท"
 
 lang: "th"
+sourceContentHash: "4458f7c26c528c99"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

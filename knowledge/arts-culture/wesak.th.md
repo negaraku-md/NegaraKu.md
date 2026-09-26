@@ -18,8 +18,9 @@ keyTakeaways:
 appliesTo: "ผู้คนในมาเลเซีย — ไม่ว่าจะเป็นชาวพุทธหรือไม่ — ที่ต้องการคำอธิบายที่กระจ่างและถูกต้องว่าวันวิสาขบูชาคืออะไร ตรงกับวันใด และถือปฏิบัติอย่างไร รวมถึงนายจ้างและลูกจ้างที่ตรวจสอบวันหยุดราชการ"
 
 lang: "th"
+sourceContentHash: "87814a02e5e75f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

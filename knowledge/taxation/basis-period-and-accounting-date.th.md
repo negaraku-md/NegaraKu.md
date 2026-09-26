@@ -35,8 +35,9 @@ obligations:
     consequence: "ค่าปรับและการเพิ่มการผ่อนชำระที่อิงจากรอบระยะเวลาบัญชีเดิมยังคงเรียกเก็บได้ภายใต้ s.112(3A) และ s.107C(11B)"
 
 lang: "th"
+sourceContentHash: "23049b8c7ea8c98a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

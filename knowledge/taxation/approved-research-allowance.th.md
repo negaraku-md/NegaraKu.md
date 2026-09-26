@@ -56,8 +56,9 @@ obligations:
     consequence: "การขอสิทธิไม่มีหลักฐานรองรับเมื่อถูกตรวจสอบ"
 
 lang: "th"
+sourceContentHash: "4e8917612cf718a7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

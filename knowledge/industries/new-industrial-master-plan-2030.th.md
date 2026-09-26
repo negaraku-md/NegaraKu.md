@@ -36,8 +36,9 @@ faq:
     a: "โครงสร้างสามระดับ: สภาแห่งชาติที่มีนายกรัฐมนตรีเป็นประธาน คณะกรรมการอำนวยการที่นำโดยรัฐมนตรี MITI และหน่วยจัดการการส่งมอบที่นำโดยเลขาธิการของ MITI (KSU)"
 
 lang: "th"
+sourceContentHash: "edde30241ce67971"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

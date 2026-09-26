@@ -18,8 +18,9 @@ keyTakeaways:
   - "วิทยาลัยชุมชนมุ่งเน้นประกาศนียบัตรระดับต่ำกว่าโดยมีการรับเข้าที่ยืดหยุ่นกว่า ขณะที่โพลีเทคนิคมุ่งเน้นอนุปริญญา — ทั้งสองกำกับโดย JPPKK ภายใต้กระทรวงการอุดมศึกษา"
 appliesTo: "นักเรียนหลังชั้นมัธยมปีที่ 3 หรือ SPM ผู้ปกครองที่วางแผนอาชีพให้บุตร และคนทำงานผู้ใหญ่ที่ต้องการรับรองทักษะที่มีอยู่ผ่าน SKM"
 lang: "th"
+sourceContentHash: "75531562551211f2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

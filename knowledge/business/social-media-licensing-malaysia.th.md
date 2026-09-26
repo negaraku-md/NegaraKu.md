@@ -27,8 +27,9 @@ verificationNeeded:
   - "วิธีที่ MCMC วัดจำนวนผู้ใช้แปดล้านในทางปฏิบัติ และช่วงอ้างอิงที่ใช้"
 
 lang: "th"
+sourceContentHash: "4b67b928b9834e6c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

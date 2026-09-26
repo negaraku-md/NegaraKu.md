@@ -36,8 +36,9 @@ obligations:
     consequence: "เพิ่ม 10 เปอร์เซ็นต์บนจำนวนที่ยังไม่ได้ชำระและไม่อนุญาตให้หักค่าใช้จ่ายพื้นฐานภายใต้ s.39"
 
 lang: "th"
+sourceContentHash: "c1d4118e64c632ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

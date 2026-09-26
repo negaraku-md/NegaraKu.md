@@ -24,8 +24,9 @@ appliesTo: "ผู้ใดที่กำลังเลือกโครง�
 verificationNeeded: []
 
 lang: "th"
+sourceContentHash: "152f7dfdb9b1a474"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

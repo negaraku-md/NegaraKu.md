@@ -49,8 +49,9 @@ obligations:
     consequence: "ความรับผิดภายใต้มาตรา 132(5) จำคุกไม่เกินห้าปีหรือปรับไม่เกิน RM3 ล้านหรือทั้งสองอย่าง และความรับผิดส่วนตัวภายใต้มาตรา 133(2)"
 
 lang: "th"
+sourceContentHash: "0f48f4bee9e4e684"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

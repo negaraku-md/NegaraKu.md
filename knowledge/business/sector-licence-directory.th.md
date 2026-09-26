@@ -31,8 +31,9 @@ verificationNeeded:
   - "ชื่อย่อภาษาอังกฤษที่ JAKIM และนายทะเบียนสมาคมใช้ — ทั้งสองไม่ปรากฏบนเว็บไซต์ของหน่วยงานเอง"
 
 lang: "th"
+sourceContentHash: "de6126fff54d2ff3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

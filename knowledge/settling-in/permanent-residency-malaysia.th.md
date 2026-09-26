@@ -34,8 +34,9 @@ faq:
     a: "ได้ การอุทธรณ์ต้องยื่นต่อรัฐมนตรีว่าการกระทรวงมหาดไทยภายใน 30 วันนับจากวันที่ของหนังสือปฏิเสธ พร้อมกับหนังสืออุทธรณ์ หนังสือปฏิเสธ และเอกสารประกอบ"
 
 lang: "th"
+sourceContentHash: "d074952166cefba5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

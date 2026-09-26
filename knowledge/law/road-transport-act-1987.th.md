@@ -27,8 +27,9 @@ faq:
   - q: "การแก้ไขปี 2020 เปลี่ยนแปลงอะไร?"
     a: "พระราชบัญญัติการขนส่งทางถนน (แก้ไข) 2020 มีผลบังคับใช้เมื่อวันที่ 23 ตุลาคม 2020 มันเพิ่มโทษและระยะเวลาการเพิกถอนสำหรับการขับขี่โดยประมาทและอันตรายและการเมาแล้วขับ (มาตรา 41-45A) ลดขีดจำกัดแอลกอฮอล์ที่กำหนดให้ตรงกับมาตรฐาน WHO และเพิ่มนิยามของ 'ยานพาหนะไมโครโมบิลิตี' (micromobility vehicle)"
 lang: "th"
+sourceContentHash: "e438c79ab71a1dba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

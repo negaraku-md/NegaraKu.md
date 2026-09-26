@@ -33,8 +33,9 @@ faq:
     a: "ไม่ได้ LHDN ระบุว่าการยกเลิกการยื่น e-Ansuran ทำได้เฉพาะด้วยตนเองที่สำนักงาน LHDN (HASiL) — ทำผ่านพอร์ทัลไม่ได้ ตัวการยื่นเองเป็นออนไลน์และการอนุมัติเป็นอัตโนมัติ แต่การเปลี่ยนหรือยกเลิกเป็นเรื่องของสาขา"
 
 lang: "th"
+sourceContentHash: "f73e04ba5e0d7818"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

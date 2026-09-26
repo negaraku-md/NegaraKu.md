@@ -49,8 +49,9 @@ obligations:
     consequence: "คำขอที่ทำหลังระยะเวลาสิ้นสุดไม่อาจได้รับอนุมัติ; เอกสารล่าช้าและมีโทษตาม Practice Directive 1/2017"
 
 lang: "th"
+sourceContentHash: "311259c2c815e84c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

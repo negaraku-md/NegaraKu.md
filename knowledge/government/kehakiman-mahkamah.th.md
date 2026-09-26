@@ -39,8 +39,9 @@ verificationNeeded:
   - "ยืนยันว่าเพดานจำนวนผู้พิพากษาที่กำหนดโดย P.U. (A) 163/2009, P.U. (A) 164/2009 และ P.U. (A) 384/2006 ไม่ได้ถูกแทนที่โดยคำสั่งของสมเด็จพระราชาธิบดี (Yang di-Pertuan Agong) ฉบับหลัง"
 
 lang: "th"
+sourceContentHash: "4d0744d3b1bfbe91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

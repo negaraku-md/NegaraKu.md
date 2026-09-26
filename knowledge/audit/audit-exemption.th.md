@@ -34,8 +34,9 @@ verificationNeeded:
   - "ยืนยันว่า SSM ได้ออกการแก้ไขหรือแนวปฏิบัติเพิ่มเติมหลังจาก PD 10/2024 ที่เปลี่ยนแปลงเกณฑ์ระยะที่ 2 หรือระยะที่ 3 หรือไม่"
 
 lang: "th"
+sourceContentHash: "0adbb423bee3af8f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

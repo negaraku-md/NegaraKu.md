@@ -34,8 +34,9 @@ faq:
     a: "มาตรา 3 วาง Petronas ไว้ภายใต้การควบคุมและคำสั่งของนายกรัฐมนตรี ซึ่งคำสั่งของเขาผูกพันนิติบุคคลนั้น มาตรา 6 กำหนดให้ต้องได้รับอนุญาตจากนายกรัฐมนตรีก่อนที่ผู้ใดนอกจาก Petronas จะดำเนินการแปรรูป การกลั่น หรือการผลิตผลิตภัณฑ์ปิโตรเคมี และมาตรา 7 ให้อำนาจนายกรัฐมนตรีในการออกกฎ"
 
 lang: "th"
+sourceContentHash: "7e742ec88e8babf9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

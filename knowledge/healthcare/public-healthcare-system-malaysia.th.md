@@ -27,8 +27,9 @@ faq:
   - q: "PeKa B40 คืออะไร?"
     a: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) เป็นโครงการของ MOH ที่ดำเนินการโดย ProtectHealth Corporation ให้ชาวมาเลเซียรายได้น้อยที่มีคุณสมบัติอายุ 40 ปีขึ้นไป — ผู้รับ Sumbangan Tunai Rahmah และคู่สมรสของพวกเขา — การคัดกรองสุขภาพฟรี การช่วยเหลืออุปกรณ์ทางการแพทย์สูงสุด RM20,000 แรงจูงใจการรักษามะเร็ง RM1,000 และการช่วยเหลือการเดินทาง ณ วันที่ 31 มีนาคม 2025 มีผู้ได้รับการคัดกรองราว 1.6 ล้านคนจากผู้มีสิทธิ์ราว 6.9 ล้านคน"
 lang: "th"
+sourceContentHash: "e44d3a318b3a6bbb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

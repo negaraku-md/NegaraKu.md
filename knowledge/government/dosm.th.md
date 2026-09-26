@@ -34,8 +34,9 @@ faq:
     a: "DOSM เป็นหน่วยงานระดับสหพันธ์ที่ระบุไว้ภายใต้กระทรวงเศรษฐกิจในสารบบหน่วยงานทางการของกระทรวง ขอบเขตงานของกระทรวงในมาเลเซียถูกจัดใหม่เป็นระยะ ดังนั้นให้ยืนยันการจัดวางในปัจจุบันที่ ekonomi.gov.my หรือ dosm.gov.my ก่อนใช้อ้างอิงในเอกสารทางการ"
 
 lang: "th"
+sourceContentHash: "c71507e53dcd1423"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

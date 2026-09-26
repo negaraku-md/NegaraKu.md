@@ -67,8 +67,9 @@ obligations:
     consequence: "การประชุมไม่ได้ถูกเรียกโดยชอบภายใต้มาตรา 309"
 
 lang: "th"
+sourceContentHash: "1da247e6653d6ad4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

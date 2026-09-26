@@ -29,8 +29,9 @@ faq:
     a: "ใช่ Sunway Healthcare Holdings จดทะเบียนในตลาดหลักของ Bursa Malaysia ในชื่อ SUNMED เมื่อวันที่ 18 มีนาคม 2026 GIC ของสิงคโปร์ได้ตกลงก่อนหน้านี้ในเดือนมิถุนายน 2021 ที่จะลงทุน RM750 ล้านสำหรับส่วนได้เสีย 16% ในธุรกิจการดูแลสุขภาพ"
 
 lang: "th"
+sourceContentHash: "b41845c9552f7efc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

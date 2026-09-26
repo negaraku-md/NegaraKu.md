@@ -34,8 +34,9 @@ faq:
     a: "PETRA (กระทรวงการเปลี่ยนผ่านพลังงานและการเปลี่ยนแปลงน้ำ) คือกระทรวงที่ร่างนโยบายพลังงานและน้ำแห่งชาติตลอดจนขับเคลื่อนการเปลี่ยนผ่านสู่การปล่อยคาร์บอนเป็นศูนย์ภายในปี 2050 Suruhanjaya Tenaga คือองค์กรตามกฎหมายที่กำกับดูแลภายใต้ PETRA ซึ่งออกใบอนุญาต กำหนดอัตราค่าไฟ และบังคับใช้กฎหมายการจ่ายไฟฟ้าและก๊าซ"
 
 lang: "th"
+sourceContentHash: "fc167e2fbc6949c3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "FGV เป็นธุรกิจการเกษตรแบบครบวงจร ครอบคลุมสวน (ปาล์มน้ำมัน ยางพารา และพลังงานหมุนเวียน) น้ำมันและไขมัน น้ำตาล โลจิสติกส์และบริการสนับสนุน และผลิตภัณฑ์อุปโภคบริโภค ตามที่บริษัทระบุเอง บริษัทมีส่วนในการผลิตน้ำมันปาล์มดิบประมาณ 3% ของโลก"
 
 lang: "th"
+sourceContentHash: "f7515e7869f5fdd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

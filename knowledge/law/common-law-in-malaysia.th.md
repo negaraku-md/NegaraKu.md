@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่พยายามเข้าใจว่าเหตุใดศาลมาเลเซียจึงอ้างคำพิพากษาของอังกฤษ นักศึกษากฎหมายที่ศึกษาระบบกฎหมายมาเลเซีย และผู้ที่ศึกษาว่าเหตุใดบางสาขา (ที่ดิน ครอบครัว กฎหมายอิสลาม) จึงอยู่นอกการสืบทอดคอมมอนลอว์"
 
 lang: "th"
+sourceContentHash: "0e25f8448644480c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

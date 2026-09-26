@@ -32,8 +32,9 @@ faq:
     a: "ตลาดต่างประเทศหลักของบริษัทคือออสเตรเลียและไต้หวันสำหรับการก่อสร้าง และเวียดนาม สหราชอาณาจักร สิงคโปร์ และออสเตรเลียสำหรับอสังหาริมทรัพย์"
 
 lang: "th"
+sourceContentHash: "09f7639abce305e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

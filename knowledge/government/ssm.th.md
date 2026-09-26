@@ -30,8 +30,9 @@ faq:
     a: "SSM รายงานต่อกระทรวงการค้าภายในประเทศและค่าครองชีพ ขอบเขตงานของกระทรวงในมาเลเซียถูกจัดใหม่เป็นระยะ ดังนั้นให้ยืนยันกระทรวงต้นสังกัดปัจจุบันที่ ssm.com.my ก่อนใช้อ้างอิงในเอกสารทางการ"
 
 lang: "th"
+sourceContentHash: "f9b7af93b7253c9c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

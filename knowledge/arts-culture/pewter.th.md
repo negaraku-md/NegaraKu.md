@@ -16,8 +16,9 @@ keyTakeaways:
   - "บริษัทใช้ชื่อปัจจุบันในปี 1992 เท่านั้น หลังได้รับตราตั้งพระราชทาน (royal warrant) ในปี 1979 จากสุลต่านแห่งสลังงอร์"
 appliesTo: "ผู้ที่สนใจประเพณีหัตถกรรมของมาเลเซีย ประวัติศาสตร์การทำเหมืองดีบุก หรือรอยัลสลังงอร์"
 lang: "th"
+sourceContentHash: "ab235dfd3f4f5c67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

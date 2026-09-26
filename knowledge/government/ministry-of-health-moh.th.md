@@ -27,8 +27,9 @@ faq:
   - q: "KKM บริหารโรงพยาบาลเอกชนหรือไม่?"
     a: "ไม่ KKM ดำเนินการโรงพยาบาลและคลินิกของรัฐและกำกับดูแลการดูแลสุขภาพภาคเอกชนแยกต่างหากภายใต้พระราชบัญญัติสถานพยาบาลและบริการเอกชน 1998 (Private Healthcare Facilities and Services Act 1998, Act 586) ซึ่งกำหนดมาตรฐานคุณภาพและความปลอดภัยขั้นต่ำและกำหนดเพดานค่าธรรมเนียมที่แพทย์อาจเรียกเก็บสำหรับหัตถการ"
 lang: "th"
+sourceContentHash: "3996608aeba4590f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -27,8 +27,9 @@ faq:
     a: "ราคา RON95 ที่ได้รับอุดหนุนถูกคงไว้ที่ RM1.99 ต่อลิตรสำหรับประชาชนที่มีคุณสมบัติภายใต้ BUDI95 แต่ราคาตลาดทั่วไปที่ไม่ได้รับอุดหนุนผันผวนตาม APM"
 
 lang: "th"
+sourceContentHash: "77fbc98bce7fd506"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

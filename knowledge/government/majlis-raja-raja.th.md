@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจโครงสร้างทางรัฐธรรมนูญของมาเลเซีย — นักเรียนนักศึกษา นักวิจัย นักข่าว และผู้อ่านทั่วไป — ตลอดจนผู้ที่ต้องการทราบว่าบทบัญญัติใดต้องได้รับความยินยอมหรือการหารือกับสภาบรรดาราชา"
 
 lang: "th"
+sourceContentHash: "b582d091b8a771db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

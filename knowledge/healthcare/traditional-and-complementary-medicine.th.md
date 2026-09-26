@@ -26,8 +26,9 @@ faq:
     a: "สำหรับความผิดครั้งแรก ปรับไม่เกิน RM30,000 หรือจำคุกไม่เกิน 2 ปี หรือทั้งจำทั้งปรับ ความผิดต่อ ๆ ไปสูงสุด RM50,000 หรือจำคุกสูงสุด 3 ปี"
 
 lang: "th"
+sourceContentHash: "86f8ad16efa02a93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

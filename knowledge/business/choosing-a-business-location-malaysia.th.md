@@ -44,8 +44,9 @@ verificationNeeded:
   - "ไม่สามารถอ่านรายการข้อยกเว้นของซาบาห์ภายใต้ Labour Ordinance of Sabah (Amendment) Act 2025 (Act A1753) ได้; ไฟล์ PDF ที่จัดเก็บไว้แสดง 404"
 
 lang: "th"
+sourceContentHash: "4b43de8c2a7470d1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

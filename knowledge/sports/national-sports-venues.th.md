@@ -28,8 +28,9 @@ faq:
     a: "ไม่ เซปังเป็นเจ้าภาพกรังด์ปรีซ์ฟอร์มูลาวันจนถึงปี 2017 ปัจจุบันสนามมุ่งเน้น MotoGP และงานมอเตอร์สปอร์ตอื่น ๆ"
 
 lang: "th"
+sourceContentHash: "e8c2bc7d28bb0f71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

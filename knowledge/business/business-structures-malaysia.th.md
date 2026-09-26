@@ -29,8 +29,9 @@ verificationNeeded:
   - "ยืนยันสถานะการจดทะเบียนสำหรับธุรกิจในซาบาห์และซาราวัก ซึ่งดำเนินการภายใต้กฎหมายของรัฐแทนที่จะเป็น Registration of Businesses Act 1956"
 
 lang: "th"
+sourceContentHash: "aecfbddfa9393cec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

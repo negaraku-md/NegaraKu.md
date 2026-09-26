@@ -26,8 +26,9 @@ verificationNeeded:
   - "ไม่มีการระบุตัวเลขค่าธรรมเนียม อัตราแลกเปลี่ยน หรือปริมาณการโอนเงินที่ใดในบทความนี้ ตามโจทย์งานที่มอบหมาย ตัวเลขเหล่านั้นทั้งหมดควรได้รับโดยตรงจากธนาคารหรือ MSB ที่ได้รับใบอนุญาต ณ เวลาที่โอน"
 
 lang: "th"
+sourceContentHash: "7ef5c9d18c446cfa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

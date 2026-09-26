@@ -32,8 +32,9 @@ faq:
     a: "ต้อง หลักสูตรที่เสนอโดยผู้ให้บริการอุดมศึกษาใด ๆ ที่ดำเนินการในมาเลเซีย รวมถึงวิทยาเขตสาขาของต่างชาติ ได้รับการประกันคุณภาพภายใต้ MQF และปรากฏใน MQR มหาวิทยาลัยที่มีชื่อเสียงบางแห่งถือสถานะรับรองตนเอง (self-accrediting) ซึ่งให้อำนาจในการรับรองหลักสูตรของตนเองบน MQF และขึ้นทะเบียนหลักสูตรเหล่านั้นใน MQR"
 
 lang: "th"
+sourceContentHash: "ce3f16b64b60d59b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -56,8 +56,9 @@ obligations:
     consequence: "โทษปรับภายใต้ s.26A(3) และค่าปรับถึง RM50,000 หรือสามปีภายใต้ s.26A(2)"
 
 lang: "th"
+sourceContentHash: "d0f4a6d7cbea76f7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

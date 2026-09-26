@@ -29,8 +29,9 @@ faq:
     a: "กระบวนการเทชาไปมาระหว่างภาชนะสองใบจากที่สูง คือ 'ตาริก' ช่วยทำให้เครื่องดื่มเย็นลง ผสานชากับนมเข้าด้วยกัน และสร้างชั้นฟองด้านบน มันกลายเป็นการแสดงในตัวเอง จนถึงขั้นมีการแข่งขันเตี๊ยะตาริก"
 
 lang: "th"
+sourceContentHash: "9bbd745541ea86db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

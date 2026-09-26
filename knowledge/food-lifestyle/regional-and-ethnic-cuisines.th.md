@@ -34,8 +34,9 @@ faq:
     a: "ยังมี แม้จะถือว่าถูกคุกคามมากขึ้นเรื่อย ๆ อาหารคริสตังคือธรรมเนียมของสังคมยูเรเชียนเชื้อสายโปรตุเกส-เอเชียในมะละกา ด้วยอาหารอย่างการีเดอบัล (kari debal, devil's curry) ที่ใช้น้ำส้มสายชู เมล็ดมัสตาร์ด และลูกเนียง (buah keras) ร้านอาหารและชั้นเรียนทำอาหารหลายแห่งในมะละกาพยายามรักษาธรรมเนียมนี้ไว้เนื่องจากคนรุ่นใหม่สืบทอดมันน้อยลง"
 
 lang: "th"
+sourceContentHash: "b5facc6867b131b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

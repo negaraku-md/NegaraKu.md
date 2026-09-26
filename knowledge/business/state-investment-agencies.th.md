@@ -46,8 +46,9 @@ verificationNeeded:
   - "ยืนยันว่ามีกฎหมายลำดับรองใดที่ประกาศในราชกิจจานุเบกษานับแต่นั้นที่กำหนดอัตรา JS-SEZ, National Global Services Hub หรือ New Investment Incentive Framework ภายใต้ s.65B ของพระราชบัญญัติภาษีเงินได้ ปี 1967 หรือไม่"
 
 lang: "th"
+sourceContentHash: "667fe9c1898504ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

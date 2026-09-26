@@ -29,8 +29,9 @@ faq:
     a: "กรอบที่เปิดตัวโดย NRES เมื่อ 21 เมษายน 2026 เพื่อสร้างตลาดคาร์บอนที่มีความน่าเชื่อถือสูง ทะเบียนคาร์บอนแห่งชาติ และระบบตรวจสอบ ก่อนที่จะนำเครื่องมือกำหนดราคาเชิงบังคับมาใช้"
 
 lang: "th"
+sourceContentHash: "da637e665e1a9fd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

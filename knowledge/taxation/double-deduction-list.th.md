@@ -28,8 +28,9 @@ verificationNeeded:
   - "P.U.(A) 164/2019 ได้รับการขยายเกิน YA2025 โดยตราสารที่ประกาศในราชกิจจานุเบกษาหลังจากเขียนหน้านี้หรือไม่"
 
 lang: "th"
+sourceContentHash: "94db45958fc37cd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

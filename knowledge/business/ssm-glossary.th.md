@@ -27,8 +27,9 @@ verificationNeeded:
   - "ยืนยันขอบเขตปัจจุบันของหน่วยงานที่เข้าร่วม BLESS และ MalaysiaBiz ซึ่งขยายเป็นระยะ"
 
 lang: "th"
+sourceContentHash: "d297b49cc580cf19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

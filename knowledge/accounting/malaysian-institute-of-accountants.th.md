@@ -33,8 +33,9 @@ faq:
     a: "MIA ดำเนินงานภายใต้อำนาจของกระทรวงการคลัง สำหรับการตรวจสอบบัญชีของกิจการที่มีส่วนได้เสียสาธารณะ ยังมีการกำกับดูแลเพิ่มเติมโดยคณะกรรมการกำกับการตรวจสอบบัญชี (AOB) ภายใต้คณะกรรมการกำกับหลักทรัพย์"
 
 lang: "th"
+sourceContentHash: "fb67f2b0a6c79587"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

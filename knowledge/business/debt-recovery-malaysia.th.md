@@ -45,8 +45,9 @@ verificationNeeded:
   - "ยืนยันค่าธรรมเนียมการยื่นฟ้องและค่าธรรมเนียมประทับตราในปัจจุบันจากศาลกลางของมาเลเซียหรือทะเบียนศาลที่เกี่ยวข้อง"
 
 lang: "th"
+sourceContentHash: "572d5b41b321894d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

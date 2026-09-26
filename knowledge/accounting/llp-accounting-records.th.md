@@ -37,8 +37,9 @@ faq:
     a: "ไม่ช้ากว่า 18 เดือนนับจากวันจดทะเบียน PLT ตามมาตรา 68(3) หลังจากคำรับรองฉบับแรกนั้น คำรับรองประจำปีทุกฉบับถัดไปต้องยื่นเก็บภายใน 90 วันนับจากวันสิ้นรอบปีบัญชีของ PLT (มาตรา 68(2)) นายทะเบียนอาจให้ขยายเวลาได้หากมีการยื่นคำขอและเห็นว่าสมควร (มาตรา 68(4))"
 
 lang: "th"
+sourceContentHash: "87f70dd57604213f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

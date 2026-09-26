@@ -29,8 +29,9 @@ faq:
     a: "คลื่นการคัดค้านต่อสหภาพมลายารวมสมาคมมลายูหลายสิบแห่งแล้วนำไปสู่การก่อตั้งอัมโนเมื่อวันที่ 11 พฤษภาคม 1946 ที่ยะโฮร์บาห์รู"
 
 lang: "th"
+sourceContentHash: "d1accab37207bc8e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

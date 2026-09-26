@@ -42,8 +42,9 @@ verificationNeeded:
   - "ว่ามีรัฐใดที่รวมการออกใบอนุญาตการค้าและใบอนุญาตสถานที่เข้าเป็นตราสารเดียวตั้งแต่รอบ Modernising Business Licensing ล่าสุดหรือไม่"
 
 lang: "th"
+sourceContentHash: "2779e333b6f5b277"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

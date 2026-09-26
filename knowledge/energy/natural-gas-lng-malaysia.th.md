@@ -34,8 +34,9 @@ faq:
     a: "การเข้าถึงของบุคคลที่สาม (TPA) ให้ผู้ขนส่งที่มีคุณสมบัติ ไม่ใช่เพียง PETRONAS จองกำลังการผลิตบนเทอร์มินัลแปลงสภาพเป็นก๊าซ ท่อส่ง และท่อจำหน่ายบนเงื่อนไขเดียวกัน เริ่มเมื่อ 16 มกราคม 2017 ภายใต้พระราชบัญญัติการจ่ายก๊าซ (แก้ไข) ปี 2016 และกำกับดูแลโดยคณะกรรมการพลังงาน"
 
 lang: "th"
+sourceContentHash: "20fa31d4431394c5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

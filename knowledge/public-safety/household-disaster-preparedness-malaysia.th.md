@@ -34,8 +34,9 @@ faq:
     a: "มี โดยเฉพาะซาบาห์ แผ่นดินไหว Ranau ปี 2015 ขนาด 6.0 คร่าชีวิต 18 รายที่ภูเขาคินาบาลู เมื่อวันที่ 23 กุมภาพันธ์ 2026 เกิดแผ่นดินไหวนอกชายฝั่งขนาด 6.8 ใกล้กูดัตที่ความลึก 678 กม. โดยไม่มีภัยคุกคามจากสึนามิ ความเสี่ยงต่อแผ่นดินไหวครั้งใหญ่ในคาบสมุทรอยู่ในระดับต่ำ"
 
 lang: "th"
+sourceContentHash: "aacc807758e00d83"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

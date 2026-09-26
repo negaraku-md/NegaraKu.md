@@ -57,8 +57,9 @@ obligations:
     consequence: "สูญเสียเงินสงเคราะห์การคลอดบุตรสำหรับช่วงก่อนการแจ้ง"
 
 lang: "th"
+sourceContentHash: "db2dc9cc0467b713"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

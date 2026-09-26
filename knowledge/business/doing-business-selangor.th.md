@@ -43,8 +43,9 @@ verificationNeeded:
   - "อัตราใบอนุญาตสถานประกอบการรายปีของ MBPJ — PDF ข้อบัญญัติที่ MBPJ เผยแพร่เป็นภาพสแกนที่ไม่มีชั้นข้อความ ดังนั้นไม่มีอัตราริงกิตใดที่เครื่องอ่านได้"
 
 lang: "th"
+sourceContentHash: "45a4dcba0cb44c75"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

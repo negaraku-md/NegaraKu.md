@@ -44,8 +44,9 @@ verificationNeeded:
   - "นโยบายการออกใบอนุญาตสุราที่เผยแพร่ใดสำหรับรัฐแต่ละรัฐเช่นกลันตันหรือตรังกานู — ไม่มีการยืนยัน และความแปรผันดูเหมือนไหลจากดุลพินิจของ Licensing Board มากกว่านโยบายที่เผยแพร่"
 
 lang: "th"
+sourceContentHash: "8621ae7bf33716e8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -26,8 +26,9 @@ verificationNeeded:
   - "สินทรัพย์การลงทุนรวมและจำนวนสมาชิกรวมของ EPF ไม่สามารถยืนยันได้อย่างอิสระผ่านการดึงข้อมูลโดยตรงจาก kwsp.gov.my (เว็บไซต์ตอบ HTTP 403 ต่อการดึงข้อมูลอัตโนมัติ); บทความนี้จงใจละเว้นตัวเลข AUM หรือจำนวนสมาชิกของ EPF ที่แม่นยำใด ๆ แทนที่จะเผยแพร่ตัวเลขที่ไม่ได้รับการยืนยัน เพิ่มทั้งสองพร้อมแหล่งข้อมูล kwsp.gov.my เมื่อมีการทบทวนโดยมนุษย์ครั้งแรก"
 
 lang: "th"
+sourceContentHash: "bde519fccc17693d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

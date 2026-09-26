@@ -57,8 +57,9 @@ obligations:
     consequence: "ปรับสูงสุด RM50,000 บวกอีกสูงสุด RM500 ต่อวัน ต่อบริษัทและเจ้าหน้าที่ทุกคน ตามมาตรา 258(3)"
 
 lang: "th"
+sourceContentHash: "c624788a072a7927"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

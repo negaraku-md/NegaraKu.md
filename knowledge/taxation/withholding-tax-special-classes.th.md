@@ -49,8 +49,9 @@ obligations:
     consequence: "เงินเพิ่ม 10 เปอร์เซ็นต์ภายใต้ s.109B(2) และการไม่อนุญาตหักรายจ่ายภายใต้ s.39(1)(j)"
 
 lang: "th"
+sourceContentHash: "096e6362dcef465c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

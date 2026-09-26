@@ -29,8 +29,9 @@ faq:
     a: "ไม่มี นายทะเบียนไม่กำหนดเวลา เจ้าของโดยชอบด้วยกฎหมายสามารถเรียกร้องได้ทุกเมื่อ และการจ่ายเงินสามารถทำได้ทั้งจากบัญชีทรัสต์รวม (Consolidated Trust Account) หรือบัญชีรายได้ (Revenue Account)"
 
 lang: "th"
+sourceContentHash: "b0fa973557593199"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

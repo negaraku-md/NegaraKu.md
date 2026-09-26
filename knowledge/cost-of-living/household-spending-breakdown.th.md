@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "ทุกคนที่พยายามเข้าใจว่างบประมาณครัวเรือนมาเลเซียทั่วไปมีโครงสร้างอย่างไร หรือเทียบเคียงการใช้จ่ายของตนกับรูปแบบระดับชาติ"
 
 lang: "th"
+sourceContentHash: "4c5994da7bcbecd8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

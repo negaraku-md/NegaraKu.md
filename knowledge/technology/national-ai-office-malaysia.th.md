@@ -32,8 +32,9 @@ faq:
     a: "แผนมุ่งให้ AI มีส่วนต่อ GDP กว่า RM60 พันล้าน และวางมาเลเซียในกลุ่ม 20 ประเทศแรกในด้านความพร้อม AI ระดับโลกภายในปี 2030 ส่งมอบผ่าน 28 โครงการ"
 
 lang: "th"
+sourceContentHash: "74e6c6495db49c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

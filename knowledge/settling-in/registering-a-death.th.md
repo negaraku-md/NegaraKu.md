@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ทายาท สมาชิกครอบครัวที่ใกล้ชิดที่สุด หรือผู้แจ้งที่รับผิดชอบในการจดทะเบียนการตายของบุคคลในมาเลเซียและได้รับใบมรณบัตรสำหรับธุระด้านการบริหารหลังจากนั้น"
 
 lang: "th"
+sourceContentHash: "729859064dd35894"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

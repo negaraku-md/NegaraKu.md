@@ -25,8 +25,9 @@ verificationNeeded:
   - "หน้านี้ไม่ได้ระบุค่าธรรมเนียม อัตรา หรือระยะเวลาดำเนินการใด ๆ ของตัวเอง ทุกตัวเลขอยู่ในหน้าเส้นทางที่ลิงก์ไว้และมีการอ้างอิงแหล่งที่มาไว้ที่นั่น"
 
 lang: "th"
+sourceContentHash: "40a5acd6c21bafa9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

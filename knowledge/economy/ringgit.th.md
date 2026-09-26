@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่เปราะบางต่ออัตราแลกเปลี่ยน ทั้งผู้นำเข้า ผู้ส่งออก นักเดินทาง นักศึกษาในต่างประเทศ และนักลงทุน"
 
 lang: "th"
+sourceContentHash: "5c03f2bbac4e0dca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

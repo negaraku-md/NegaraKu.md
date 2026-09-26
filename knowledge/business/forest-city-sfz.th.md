@@ -44,8 +44,9 @@ verificationNeeded:
   - "จำนวนสำนักงานครอบครัวที่ได้รับการรับรองจริงถูกรายงานในการรายงานข่าวแต่ไม่ได้ยืนยันกับเอกสารของคณะกรรมการกำกับหลักทรัพย์"
 
 lang: "th"
+sourceContentHash: "437ac0257773795a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "ได้ ในกรณีที่หนี้ถูกโต้แย้งโดยแท้จริง (bona fide) บนเหตุผลที่มีสาระ บริษัทสามารถขอ Fortuna injunction เพื่อยับยั้งเจ้าหนี้จากการยื่นคำร้อง เนื่องจากการเลิกบริษัทไม่ควรถูกใช้เพื่อบังคับตามข้อเรียกร้องที่โต้แย้ง"
 
 lang: "th"
+sourceContentHash: "b91e135cb6354783"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Sivasangari Subramaniam ผู้ขึ้นสู่อันดับสูงสุดในอาชีพที่มือ 6 ของโลกในเดือนตุลาคม 2025 และ Ng Eain Yow ผู้ชนะ ACE Malaysia Squash Cup 2024 ในบ้าน"
 
 lang: "th"
+sourceContentHash: "47a1ae4a8ea8c4dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

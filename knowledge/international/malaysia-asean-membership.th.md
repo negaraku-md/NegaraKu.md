@@ -38,8 +38,9 @@ faq:
     a: "สำนักเลขาธิการอาเซียนตั้งอยู่ที่จาการ์ตา (Jakarta) อินโดนีเซีย นำโดยเลขาธิการอาเซียน ปัจจุบันคือ ดร.เกา คิม ฮวน (Dr. Kao Kim Hourn) จากกัมพูชา"
 
 lang: "th"
+sourceContentHash: "a6367ba8ba6baac1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -131,8 +131,9 @@ obligations:
     consequence: "การดำเนินการภายใต้ s.23A(1) หรือค่าปรับภายใต้ s.23A(4) ของ LBATA"
 
 lang: "th"
+sourceContentHash: "5c5878a339ae1335"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

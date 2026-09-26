@@ -28,8 +28,9 @@ faq:
     a: "ภายใต้การตัดสินใจปี 2020 อัตราค่าผ่านทางลดลง 18% ตั้งแต่วันที่ 1 กุมภาพันธ์ 2020 และไม่มีการขึ้นค่าผ่านทางตามกำหนดตลอดระยะเวลาสัมปทานที่ขยายจนถึงปี 2058"
 
 lang: "th"
+sourceContentHash: "6a089759a8d1ba8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

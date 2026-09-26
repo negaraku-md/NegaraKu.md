@@ -26,8 +26,9 @@ verificationNeeded:
   - "รายละเอียดที่ต้องมีของใบเสร็จการบริจาค s.44(6) ที่ใช้ได้ — ไม่สามารถดึงหน้าอธิบายการใช้ใบเสร็จของ LHDN ได้"
 
 lang: "th"
+sourceContentHash: "5f0966be244cdbe2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

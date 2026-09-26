@@ -18,8 +18,9 @@ keyTakeaways:
   - "อำนาจนิติบัญญัติถูกแบ่งระหว่างสหพันธรัฐกับรัฐโดยรายการสหพันธ์ รายการรัฐ และรายการร่วมของตารางที่เก้า"
 appliesTo: "ผู้ที่เพิ่งรู้จักมาเลเซียและต้องการเข้าใจว่าประเทศนี้เป็นประเทศแบบใดในทางรัฐธรรมนูญ ก่อนเจาะลึกสถาบันใดสถาบันหนึ่ง"
 lang: "th"
+sourceContentHash: "8088b5defbdcad1c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

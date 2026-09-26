@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ปกครองหรือผู้ดูแลในมาเลเซียที่พยายามเข้าใจทางเลือกด้านการดูแลและการศึกษาปฐมวัยก่อนชั้นปีที่ 1 ตลอดจนผู้ที่ต้องการจัดตั้ง taska หรือ tadika และจำเป็นต้องทราบหน่วยงานที่เกี่ยวข้อง"
 
 lang: "th"
+sourceContentHash: "5be629c8e1fa0846"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

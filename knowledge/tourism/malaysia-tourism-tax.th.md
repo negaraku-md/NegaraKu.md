@@ -35,8 +35,9 @@ faq:
     a: "โรงแรมลงทะเบียนบนพอร์ทัล MyTTx ยื่นแบบรายไตรมาส (แบบ TTx-03) และนำส่งภาษีต่อกรมศุลกากรมาเลเซียไม่ช้ากว่าวันสุดท้ายของเดือนถัดจากแต่ละงวดภาษี"
 
 lang: "th"
+sourceContentHash: "90bb7645abb0046f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

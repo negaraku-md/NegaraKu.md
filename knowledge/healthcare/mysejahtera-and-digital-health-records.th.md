@@ -29,8 +29,9 @@ faq:
     a: "รายงานของสำนักงานตรวจเงินแผ่นดินที่นำเสนอต่อรัฐสภาในเดือนกุมภาพันธ์ 2023 เปิดเผยว่าข้อมูลส่วนบุคคลของผู้รับวัคซีน 3 ล้านคนถูกดาวน์โหลดผ่านบัญชี 'Super Admin' ของระบบ MyVAS ระหว่างวันที่ 28 ถึง 31 ตุลาคม 2021"
 
 lang: "th"
+sourceContentHash: "1889bed64a5f738d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

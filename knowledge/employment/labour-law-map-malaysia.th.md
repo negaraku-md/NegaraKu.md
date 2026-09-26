@@ -28,8 +28,9 @@ verificationNeeded:
   - "ยืนยันหมายเลข Act 612, 732, 789, 800, 840 และ 872 กับ lom.agc.gov.my เมื่อ PDF เหล่านั้นให้บริการ — ปัจจุบันยืนยันจากเว็บของหน่วยงานมากกว่าคลัง LOM"
 
 lang: "th"
+sourceContentHash: "debce12c53f16ed5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

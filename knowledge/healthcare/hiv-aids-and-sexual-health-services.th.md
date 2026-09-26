@@ -34,8 +34,9 @@ faq:
     a: "ไม่มีกฎหมาย HIV โดยเฉพาะ บทบัญญัติทั่วไปของประมวลกฎหมายอาญา เช่น มาตรา 269 และ 270 อาจใช้บังคับกับการแพร่โรคอันตราย อย่างไรก็ตาม ยังไม่มีการฟ้องร้อง HIV ที่ทราบจนถึงขณะนี้"
 
 lang: "th"
+sourceContentHash: "c335daac63ec7a97"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

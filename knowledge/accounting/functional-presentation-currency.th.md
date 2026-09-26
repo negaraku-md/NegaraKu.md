@@ -34,8 +34,9 @@ faq:
     a: "ไม่ สกุลเงินที่ใช้ในการดำเนินงานสะท้อนรายการและเงื่อนไขที่อ้างอิง จึงเปลี่ยนเฉพาะเมื่อข้อเท็จจริงเหล่านั้นเปลี่ยน เช่น การเปลี่ยนแปลงที่แท้จริงในสกุลเงินที่ขับเคลื่อนราคาขายและต้นทุน มันไม่ใช่นโยบายการบัญชีที่ท่านเลือกเป็นรายรอบระยะเวลา"
 
 lang: "th"
+sourceContentHash: "f9e8ad1f0c1fc778"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

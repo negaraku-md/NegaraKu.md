@@ -30,8 +30,9 @@ faq:
     a: "ใช่ มันเป็นหนึ่งใน 10 อาหารที่ถูกประกาศในราชกิจจานุเบกษาเป็นวัตถุมรดกแห่งชาติโดยกรรมาธิการมรดกเมื่อวันที่ 23 กุมภาพันธ์ 2024"
 
 lang: "th"
+sourceContentHash: "99f9a99ac9dc7cef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

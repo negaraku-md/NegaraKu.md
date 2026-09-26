@@ -33,8 +33,9 @@ faq:
     a: "การครอบครอง เผยแพร่ หรือฉายภาพยนตร์โดยไม่มีใบอนุญาตหรือการอนุมัติเป็นความผิดภายใต้พระราชบัญญัติการเซนเซอร์ภาพยนตร์ 2002 มีโทษปรับตั้งแต่ RM5,000 ถึง RM30,000 และ/หรือจำคุกสูงสุด 3 ปี"
 
 lang: "th"
+sourceContentHash: "f25f07b35f2179e4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

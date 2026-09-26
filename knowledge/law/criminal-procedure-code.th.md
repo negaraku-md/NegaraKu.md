@@ -31,8 +31,9 @@ faq:
     a: "หมายความว่าฝ่ายอัยการได้เสนอพยานหลักฐานที่หากไม่ถูกหักล้างหรือไม่ได้รับการอธิบาย จะทำให้สมควรตัดสินว่ามีความผิด หากพิสูจน์คดีมีมูลได้ ผู้ถูกกล่าวหาจะถูกสั่งให้แก้ต่าง; หากไม่ ผู้ถูกกล่าวหาจะได้รับการปล่อยตัว"
 
 lang: "th"
+sourceContentHash: "5c000067f01e0ea2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

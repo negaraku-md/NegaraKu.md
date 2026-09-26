@@ -36,8 +36,9 @@ verificationNeeded:
   - "การแบ่ง 6 ราคาคงที่ / 12 ราคาผันแปรมาจากแถลงการณ์สื่อของ PNB เมื่อ 19 ธันวาคม 2025 (18 กองทุนรวม 12 กองทุนเป็นราคาผันแปร) ยืนยันใหม่กับรายการกองทุนของ ASNB ในการทบทวนครั้งถัดไป"
 
 lang: "th"
+sourceContentHash: "1c4aaf1e059aa22b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

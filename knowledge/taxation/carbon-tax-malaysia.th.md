@@ -30,8 +30,9 @@ faq:
     a: "ประกาศให้นำมาใช้ภายในปี 2026 แม้เจ้าหน้าที่จะส่งสัญญาณว่าอาจมีการทบทวนกำหนดเวลา"
 
 lang: "th"
+sourceContentHash: "1b480b649a14d8fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

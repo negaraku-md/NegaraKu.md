@@ -28,8 +28,9 @@ faq:
     a: "ไม่ ตามมาตรา 102 สิทธิในการป้องกันร่างกายคงอยู่เฉพาะตราบเท่าที่ความหวาดกลัวอันตรายอันสมเหตุสมผลยังคงอยู่ การกระทำที่ดำเนินต่อไปหลังจากภัยคุกคามสิ้นสุดลงอาจถือเป็นการโต้กลับ ไม่ใช่การป้องกันตัว"
 
 lang: "th"
+sourceContentHash: "7668765b92f13005"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

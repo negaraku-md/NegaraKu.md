@@ -56,8 +56,9 @@ verificationNeeded:
   - "SSM ไม่ได้เผยแพร่ตารางค่าปรับเปรียบเทียบสำหรับความผิดตามมาตรา 245 ค่าปรับที่ระบุคือค่าสูงสุดเมื่อถูกพิพากษาลงโทษตามมาตรา 245(9) ไม่ใช่ค่าปรับทางปกครองแบบเปรียบเทียบ"
 
 lang: "th"
+sourceContentHash: "45066b2b4838e7ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

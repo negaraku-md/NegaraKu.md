@@ -32,8 +32,9 @@ faq:
     a: "สำหรับคดีที่เกี่ยวข้องกับการฉ้อโกง การเลี่ยงภาษีโดยเจตนา หรือความประมาทเลินเล่อ ไม่มีอายุความ สำหรับกระบวนการอาญาสำหรับความผิดบางประการ เช่น มาตรา 113 ระยะเวลา 12 ปีใช้บังคับ"
 
 lang: "th"
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

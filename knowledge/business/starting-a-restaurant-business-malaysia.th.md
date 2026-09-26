@@ -33,8 +33,9 @@ faq:
     a: "ค่าจ้างขั้นต่ำระดับชาติคือ RM1,700 ต่อเดือน กำหนดโดย Minimum Wages Order 2024 มันใช้กับนายจ้างที่มีคนงานห้าคนขึ้นไปตั้งแต่วันที่ 1 กุมภาพันธ์ 2025 และกับนายจ้างที่เหลือทั้งหมดตั้งแต่วันที่ 1 สิงหาคม 2025 — ดังนั้นตั้งแต่สิงหาคม 2025 มันครอบคลุมร้านอาหารเกือบทุกแห่งไม่ว่าขนาด"
 
 lang: "th"
+sourceContentHash: "8140436515390d62"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "ในบรรดาพันธุ์จำนวนมาก MARDI ได้เผยแพร่พันธุ์ชุด MR (เช่น MR 297 และ MR 219) พันธุ์ข้าวหอมชุด MRQ และ KADARIA 1 ซึ่งเป็นข้าวลูกผสมพันธุ์แรกของมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "29fcbde70a256bf1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

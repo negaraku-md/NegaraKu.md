@@ -37,8 +37,9 @@ faq:
     a: "สำนักงานที่จดทะเบียนต้องอยู่ในมาเลเซียและเป็นสถานที่ที่ส่งเอกสารได้และตรวจสอบบันทึกได้ (s.46) หลายบริษัทใช้สำนักงานของเลขานุการบริษัทแทน"
 
 lang: "th"
+sourceContentHash: "0220f937a06b83b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

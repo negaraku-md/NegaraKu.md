@@ -33,8 +33,9 @@ faq:
     a: "การจัดสามระดับ — ศาลชะรีอะฮ์ชั้นต้น ศาลสูงชะรีอะฮ์ และศาลอุทธรณ์ชะรีอะฮ์ — เป็นปกติ แต่แต่ละรัฐจัดตั้งผ่านกฎหมายของรัฐตนเอง ในขณะที่ดินแดนสหพันธ์กำกับโดย Act 505 ขีดจำกัดเขตอำนาจทางแพ่งในแง่มูลค่าเงินกำหนดโดยกฎหมายของแต่ละรัฐและอาจต่างกันไป"
 
 lang: "th"
+sourceContentHash: "8fac45bc244e70ad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

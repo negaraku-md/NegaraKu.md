@@ -18,8 +18,9 @@ keyTakeaways:
   - "ศิลปะรูปแบบนี้เชื่อมโยงกับประเพณีดิกีร์จากภาคใต้ของไทยที่ถูกปรับในกลันตันด้วยการเพิ่มปันตุนและภาษาถิ่นกลันตัน"
 appliesTo: "ผู้ที่ต้องการเข้าใจรูปแบบการแสดงดิกีร์บารัต บทบาทของตูกังการุตและตกจูอารา ตลอดจนโครงสร้างของคณะ"
 lang: "th"
+sourceContentHash: "8d1b65f59cb7dafe"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

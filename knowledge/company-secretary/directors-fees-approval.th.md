@@ -55,8 +55,9 @@ obligations:
     consequence: "เว้นแต่ได้รับการอนุมัติโดยมติ การจ่ายกลายเป็นหนี้ที่กรรมการต้องชำระต่อบริษัทภายใต้มาตรา 230(5)"
 
 lang: "th"
+sourceContentHash: "b55d6be73a88fe6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

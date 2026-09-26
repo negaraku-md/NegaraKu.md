@@ -27,8 +27,9 @@ faq:
     a: "บ้านมลายูโดยทั่วไปรองรับครอบครัวเดียว ขณะที่บ้านยาว (rumah panjang) รองรับหลายครอบครัวในสิ่งปลูกสร้างที่ทอดยาวหลังเดียว — แต่ละครอบครัวมีห้อง (bilek) ของตนเอง โดยใช้ระเบียงส่วนกลางที่เรียกว่ารูอาย (ruai) ร่วมกัน"
 
 lang: "th"
+sourceContentHash: "6e6d63e898f4ad35"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "TH เกี่ยวข้องกับภาคการเงินอิสลามมาโดยตลอด รวมถึง Bank Islam Malaysia และ Syarikat Takaful Malaysia Keluarga นอกเหนือจากการถือครองในประเภทสินทรัพย์อื่น ๆ ในฐานะนักลงทุนสถาบัน รายละเอียดการถือครองปัจจุบันและเปอร์เซ็นต์ส่วนได้เสียต้องอ้างอิงกับงบการเงินทางการของ TH และบริษัทที่เกี่ยวข้อง เนื่องจากโครงสร้างการถือครอง (เช่น การปรับโครงสร้างกลุ่ม BIMB ในปี 2023) อาจเปลี่ยนแปลงได้"
 
 lang: "th"
+sourceContentHash: "440a6d426804d717"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

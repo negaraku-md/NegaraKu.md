@@ -25,8 +25,9 @@ faq:
   - q: "การยกเว้นค่าปรับยื่นล่าช้าปี 2025 เลื่อนกำหนดเวลาของฉันหรือไม่?"
     a: "ไม่ การยกเว้นดำเนินตั้งแต่ 1 มิถุนายนถึง 30 กันยายน 2025 และตัดเฉพาะค่าปรับยื่นล่าช้า ไม่ได้ขยายกำหนดเวลาการยื่นตามกฎหมายใดภายใต้ Companies Act 2016"
 lang: "th"
+sourceContentHash: "6cce56bdb89cd914"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -34,8 +34,9 @@ faq:
     a: "NAV ต่อหน่วยคือมูลค่าตลาดรวมของสินทรัพย์ของกองทุนลบด้วยหนี้สิน หารด้วยจำนวนหน่วยที่ออกจำหน่าย เป็นราคาที่คุณซื้อและขายหน่วยลงทุน และมันเคลื่อนไหวรายวันตามมูลค่าของสิ่งที่กองทุนถือครอง NAV ต่อหน่วยที่เพิ่มขึ้นหมายความว่าการลงทุนของกองทุนได้เพิ่มมูลค่า"
 
 lang: "th"
+sourceContentHash: "a2f63906e556e7a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

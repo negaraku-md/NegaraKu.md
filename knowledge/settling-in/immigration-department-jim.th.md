@@ -27,8 +27,9 @@ faq:
   - q: "หนังสือเดินทาง 10 ปีเล่มใหม่ราคาเท่าใด?"
     a: "หนังสือเดินทาง 10 ปีราคา RM350 สำหรับผู้ยื่นคำร้องอายุ 18–59 ปี, RM175 สำหรับผู้สูงอายุ 60 ปีขึ้นไป และไม่มีค่าใช้จ่ายสำหรับผู้ถือบัตร OKU (ผู้พิการ) อายุ 18 ปีขึ้นไป ภายใต้คำสั่งค่าธรรมเนียม (หนังสือเดินทางและวีซ่า) (แก้ไข) 2026"
 lang: "th"
+sourceContentHash: "050995b2068c647c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

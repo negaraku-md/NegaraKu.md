@@ -42,8 +42,9 @@ verificationNeeded:
   - "โปรดยืนยันว่า Bursa Malaysia จะออกแนวทางในช่วงเปลี่ยนผ่านสำหรับการรายงานรายไตรมาสในปี MFRS 18 ปีแรกหรือไม่"
 
 lang: "th"
+sourceContentHash: "542671cd3c464e38"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

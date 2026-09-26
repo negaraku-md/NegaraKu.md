@@ -27,8 +27,9 @@ faq:
   - q: "MASB กับมูลนิธิการรายงานทางการเงินแตกต่างกันอย่างไร"
     a: "MASB เขียนและออกมาตรฐาน ส่วนมูลนิธิการรายงานทางการเงิน (FRF) กำกับดูแล MASB ทบทวนผลการปฏิบัติงานของ MASB และรับผิดชอบด้านการเงินของ MASB รวมถึงการอนุมัติงบประมาณ แต่ไม่มีความรับผิดชอบโดยตรงต่อการกำหนดมาตรฐาน ซึ่งเป็นของ MASB แต่เพียงผู้เดียว"
 lang: "th"
+sourceContentHash: "69128de74b5a73f9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

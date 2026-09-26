@@ -32,8 +32,9 @@ faq:
     a: "Rapid Bus เริ่มเปลี่ยน 19 เส้นทางที่มีผู้โดยสารน้อย — รถป้อน MRT 16 เส้นทางและเส้นทางมาตรฐาน 3 เส้นทาง ประมาณ 7% ของเครือข่าย — ให้เป็นบริการรถตู้ Rapid KL On-Demand ที่สามารถจองได้"
 
 lang: "th"
+sourceContentHash: "ef9c4ac09cb054b2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

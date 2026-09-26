@@ -33,8 +33,9 @@ faq:
     a: "ปัจจัยขับเคลื่อนหลักคือการลักลอบล่าและการค้าสัตว์ป่าผิดกฎหมายสำหรับชิ้นส่วนเสือโคร่ง ความเสื่อมโทรมของป่าและการสูญเสียถิ่นที่อยู่อาศัย การถูกรถชนและความขัดแย้งระหว่างมนุษย์กับเสือโคร่ง และเหยื่อที่ลดลง"
 
 lang: "th"
+sourceContentHash: "4cb728294e2f0482"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

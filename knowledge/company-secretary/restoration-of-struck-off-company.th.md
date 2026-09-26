@@ -28,8 +28,9 @@ faq:
     a: "ไม่ การฟื้นต้องมีคำสั่งศาลสูง นายทะเบียน (SSM) ถูกระบุเป็นจำเลยและตรวจสอบคำขอก่อนการไต่สวน"
 
 lang: "th"
+sourceContentHash: "abcd7eea51de63b1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

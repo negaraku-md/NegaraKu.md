@@ -29,8 +29,9 @@ faq:
     a: "สำหรับบุคคล ปรับสูงสุด RM100,000 และ/หรือจำคุกสูงสุด 3 ปีสำหรับความผิดครั้งแรก และสูงสุด RM250,000 และ/หรือ 5 ปีสำหรับความผิดครั้งต่อไป สำหรับนิติบุคคล ปรับสูงสุด RM500,000 และสูงสุด RM1 ล้านสำหรับความผิดครั้งต่อไป"
 
 lang: "th"
+sourceContentHash: "8699ed0e058e98c7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ verificationNeeded:
   - "ยืนยันสถานะปัจจุบันของการหักการลงทุน BioNexus และสิทธิประโยชน์สถานะ Malaysia Digital ซึ่งทั้งสองตรวจสอบยืนยันโดยหน่วยงานอื่นนอกจาก MIDA และไม่สามารถติดตามได้เต็มที่ไปยังตราสารที่ประกาศในราชกิจจานุเบกษาเดียว"
 
 lang: "th"
+sourceContentHash: "d22536bf1bfa9c08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

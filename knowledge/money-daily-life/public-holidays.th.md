@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่วางแผนการเดินทาง ธุรกิจ หรือกิจธุระประจำวันข้ามรัฐ และต้องการเข้าใจว่าเหตุใดรายการวันหยุดราชการจึงไม่เป็นแบบเดียวกันทั่วมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "3aa4c891e7b6b223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

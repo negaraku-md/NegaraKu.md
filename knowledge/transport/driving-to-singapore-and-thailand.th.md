@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ขับขี่ชาวมาเลเซียที่วางแผนจะขับรถของตนเองข้ามสะพาน Causeway หรือ Second Link เข้าสู่สิงคโปร์ หรือข้ามพรมแดนทางบกตอนเหนือเข้าสู่ไทย"
 
 lang: "th"
+sourceContentHash: "4dfab6647457152e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

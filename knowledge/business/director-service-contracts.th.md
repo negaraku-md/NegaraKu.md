@@ -38,8 +38,9 @@ verificationNeeded:
   - "ยืนยันการปฏิบัติต่อกรรมการบริหารในฐานะคนงานภายใต้ s.20 ของ Industrial Relations Act 1967 — เรื่องนี้ขึ้นอยู่กับคำพิพากษา ไม่ใช่ตัวอักษรของกฎหมาย"
 
 lang: "th"
+sourceContentHash: "aa6dbf128ae02aa9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

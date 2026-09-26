@@ -34,8 +34,9 @@ verificationNeeded:
   - "ยืนยันจำนวนเส้นทางบริการทางอากาศชนบทและรายการสนามบินปัจจุบันของ AirBorneo โดยตรงกับ AirBorneo หรือ CAAM เนื่องจากหน้า RAS สาธารณะของ MAVCOM ไม่มีรายละเอียดระดับเส้นทางในเวลาที่เขียน และโครงการเพิ่งเปลี่ยนผู้ให้บริการ"
 
 lang: "th"
+sourceContentHash: "a8248270057070e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

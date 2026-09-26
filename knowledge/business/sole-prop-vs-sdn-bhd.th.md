@@ -24,8 +24,9 @@ appliesTo: "เจ้าของธุรกิจครั้งแรกใ�
 verificationNeeded: []
 
 lang: "th"
+sourceContentHash: "5417c396f8f77b23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

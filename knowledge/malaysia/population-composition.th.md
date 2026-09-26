@@ -30,8 +30,9 @@ faq:
     a: "DOSM แบ่งภูมิบุตรอื่นเป็นภูมิบุตรซาบาห์ (55.3 เปอร์เซ็นต์ของกลุ่ม ประกอบด้วยกาดาซัน/ดูซุน บาเจา มูรุต และกลุ่มภูมิบุตรซาบาห์อื่น) ภูมิบุตรซาราวัก (32.3 เปอร์เซ็นต์ ประกอบด้วยอิบัน บีดายุฮ์ เมอลาเนา และกลุ่มภูมิบุตรซาราวักอื่น) และกลุ่มภูมิบุตรคาบสมุทรอื่นที่เป็นส่วนที่เหลือ"
 
 lang: "th"
+sourceContentHash: "6a6100396bc06f2b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

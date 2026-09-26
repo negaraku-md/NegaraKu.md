@@ -34,8 +34,9 @@ faq:
     a: "NCP 2030 คือนโยบายที่เปิดตัวในงาน ICW 2021 หลังสิ้นสุดระยะเวลาของโครงการเปลี่ยนผ่านอุตสาหกรรมการก่อสร้าง (CITP) 2016–2020 มันวางแกนยุทธศาสตร์หกด้านเพื่อเปลี่ยนผ่านภาคการก่อสร้างสู่ยุคดิจิทัลภายในปี 2030 รวมถึงเป้าหมายการทำให้วงจรอุตสาหกรรม 50% เป็นดิจิทัล"
 
 lang: "th"
+sourceContentHash: "77fa6bf333c3fa74"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

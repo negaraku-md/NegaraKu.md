@@ -42,8 +42,9 @@ verificationNeeded:
   - "หน่วยงานผู้บริหารและเส้นทางการยื่นคำขอสำหรับสิ่งจูงใจแรงงานความรู้ของ JS-SEZ ไม่ได้ระบุในแนวปฏิบัติของ MIDA — ภาคผนวก B ของภาพรวมระบุไว้ภายใต้สิ่งจูงใจอื่นโดยไม่ได้ระบุเส้นทาง จงยืนยันกับ MIDA หรือ IRDA ก่อนให้คำแนะนำ"
 
 lang: "th"
+sourceContentHash: "6ef63a1c757e97dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

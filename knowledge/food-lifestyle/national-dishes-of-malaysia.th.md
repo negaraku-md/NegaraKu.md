@@ -34,8 +34,9 @@ faq:
     a: "กรรมาธิการมรดกที่กรมมรดกแห่งชาติประกาศอาหารเป็นวัตถุมรดกภายใต้มาตราย่อย 49(1) ของพระราชบัญญัติมรดกแห่งชาติ 2005 [Akta 645] ผ่านการประกาศวัตถุมรดกประจำปี"
 
 lang: "th"
+sourceContentHash: "bdf1c88a62d4c6ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

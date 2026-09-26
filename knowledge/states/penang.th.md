@@ -33,8 +33,9 @@ verificationNeeded:
   - "ยืนยันจำนวนประชากรปัจจุบันของปีนังกับข้อมูลประชากรระดับรัฐฉบับล่าสุดของ DOSM ก่อนการเผยแพร่"
 
 lang: "th"
+sourceContentHash: "a7862eb1a54ab895"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

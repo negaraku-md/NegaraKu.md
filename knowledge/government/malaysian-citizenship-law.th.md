@@ -35,8 +35,9 @@ faq:
     a: "ไม่ มาเลเซียใช้นโยบายสัญชาติเดียว ฐานทางรัฐธรรมนูญคือมาตรา 23 (การสละสัญชาติ) และมาตรา 24 (การถอนสัญชาติเมื่อบุคคลได้สัญชาติของประเทศอื่นโดยสมัครใจ) และพอร์ทัล MyGovernment ก็ยืนยันนโยบายนี้ การตัดสินใจสละสัญชาติมาเลเซียมีลักษณะถาวร ให้ตรวจสอบสถานการณ์เฉพาะของคุณกับกรมทะเบียนราษฎร (JPN)"
 
 lang: "th"
+sourceContentHash: "32332ac0d26401bb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

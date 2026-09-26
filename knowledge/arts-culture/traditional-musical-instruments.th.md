@@ -29,8 +29,9 @@ faq:
     a: "เซอรูไนเล่นด้วยเทคนิคการหายใจหมุนเวียน (circular breathing) ที่ทำให้เสียงต่อเนื่องไม่ขาดตอน จึงเป็นตัวนำทำนองหลักในโนบัต"
 
 lang: "th"
+sourceContentHash: "ede0d9c6ebbbceef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

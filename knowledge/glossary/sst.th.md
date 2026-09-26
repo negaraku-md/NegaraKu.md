@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "เจ้าของธุรกิจ ทีมการเงิน และผู้บริโภคที่ต้องการเข้าใจระบบภาษีทางอ้อมของมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "7438db08db3298e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

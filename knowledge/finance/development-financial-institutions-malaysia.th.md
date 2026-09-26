@@ -30,8 +30,9 @@ faq:
     a: "ธนาคารกลางมาเลเซีย (Bank Negara Malaysia) กำกับดูแล DFI ที่ถูกกำหนดไว้หกแห่งภายใต้พระราชบัญญัติสถาบันการเงินเพื่อการพัฒนา (Development Financial Institutions Act 2002) เพื่อให้แน่ใจว่ามีความมั่นคงทางการเงินและดำเนินบทบาทตามภารกิจอย่างรอบคอบ"
 
 lang: "th"
+sourceContentHash: "2cd551f54c730d34"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

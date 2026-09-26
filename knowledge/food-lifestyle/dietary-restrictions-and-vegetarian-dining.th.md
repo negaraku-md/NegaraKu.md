@@ -29,8 +29,9 @@ faq:
     a: "ง่าย ชาวมาเลเซียเชื้อสายฮินดูจำนวนมากเลี่ยงเนื้อวัว เมนูปลอดเนื้อวัวจึงพบได้ทั่วไป และร้านอาหารมังสวิรัติอินเดียส่วนใหญ่ไม่เสิร์ฟเนื้อสัตว์เลย เมนูของชาวจีนและมลายูมีการใช้เนื้อวัว ดังนั้นให้ตรวจสอบอาหารหากคุณเลี่ยง"
 
 lang: "th"
+sourceContentHash: "b8a6bb42bf674ded"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

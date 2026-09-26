@@ -28,8 +28,9 @@ verificationNeeded:
   - "ขีดจำกัดอัตราของ API ต่อ endpoint — SDK อ้างถึง Integration Practices โดยไม่ระบุขีดจำกัดที่เป็นตัวเลขบนหน้า FAQ"
 
 lang: "th"
+sourceContentHash: "7457966f1e6638bb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

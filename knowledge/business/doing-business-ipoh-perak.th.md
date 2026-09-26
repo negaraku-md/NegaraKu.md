@@ -41,8 +41,9 @@ verificationNeeded:
   - "การลงทุนที่ได้รับอนุมัติของเปรักตลอดปี 2024 และ 2025 และอันดับของมัน — MIDA ระบุเฉพาะห้ารัฐอันดับต้น"
 
 lang: "th"
+sourceContentHash: "b417e9b08cc2755f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

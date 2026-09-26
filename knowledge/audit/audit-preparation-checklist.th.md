@@ -41,8 +41,9 @@ verificationNeeded:
   - "ยืนยันข้อกำหนดการเปิดเผยตาม MFRS 124 ปัจจุบันและการแก้ไขใด ๆ ที่มีผลสำหรับปีบัญชีที่เกี่ยวข้องกับมาตรฐานที่ MASB เผยแพร่"
 
 lang: "th"
+sourceContentHash: "cc898ee41c4b1308"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

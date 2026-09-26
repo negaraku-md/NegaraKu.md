@@ -25,8 +25,9 @@ verificationNeeded:
   - "ทั้ง SSM และ LHDN ไม่ได้เผยแพร่แนวทางว่าข้อมูลที่โฮสต์บนภูมิภาคคลาวด์ต่างประเทศแต่เข้าถึงได้จากมาเลเซียเป็นไปตามข้อกำหนดเก็บไว้ในมาเลเซียหรือไม่ จุดยืนที่ระบุในที่นี้เดินตามถ้อยคำของกฎหมาย และไม่มีการผ่อนผันทางปกครองที่เผยแพร่"
 
 lang: "th"
+sourceContentHash: "d4690bd724bedb45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

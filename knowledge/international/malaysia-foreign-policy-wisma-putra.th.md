@@ -37,8 +37,9 @@ faq:
     a: "อาเซียนเป็นเสาหลักหรือรากฐานของนโยบายต่างประเทศมาเลเซีย มาเลเซียเป็นหนึ่งในประเทศผู้ก่อตั้งอาเซียนและให้ความสำคัญกับความแข็งแกร่งและความเป็นศูนย์กลาง (centrality) ของอาเซียนเสมอ ควบคู่ไปกับความแข็งขันในเวทีอื่น เช่น สหประชาชาติ (UN) องค์การความร่วมมืออิสลาม (OIC) และขบวนการไม่ฝักใฝ่ฝ่ายใด (NAM)"
 
 lang: "th"
+sourceContentHash: "4cb0c08e4d974a16"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -18,8 +18,9 @@ keyTakeaways:
   - "หายไปจากบันทึกราวคริสต์ศตวรรษที่ 15 ถูกดูดซับเข้าสู่รัฐผู้สืบทอดเช่นขอบเขตอิทธิพลของอยุธยา"
 appliesTo: "ผู้อ่านที่ต้องการรู้ว่าอะไรมีอยู่บนคาบสมุทรมลายูก่อนมะละกา และประวัติศาสตร์ยุคแรกนั้นเด็ดขาดจริงเพียงใดเทียบกับที่ยังเป็นข้อถกเถียง"
 lang: "th"
+sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

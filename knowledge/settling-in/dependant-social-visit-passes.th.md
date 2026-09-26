@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ถือใบอนุญาตทำงานที่นำครอบครัวมามาเลเซีย และคู่สมรส บุตร บิดามารดา หรือบิดามารดาของคู่สมรสที่ได้รับการอุปถัมภ์"
 
 lang: "th"
+sourceContentHash: "965187483a912200"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

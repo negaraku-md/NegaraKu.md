@@ -32,8 +32,9 @@ faq:
     a: "สาเหตุหลักคือไฟไหม้พื้นดินและป่า รวมถึงไฟไหม้พื้นที่พรุและการเปิดพื้นที่ด้วยการเผาเพื่อการเกษตร ในสุมาตราและกาลีมันตัน ซึ่งเกิดบ่อยและรุนแรงขึ้นในช่วงฤดูแล้งที่ได้รับอิทธิพลจากปรากฏการณ์เอลนีโญ"
 
 lang: "th"
+sourceContentHash: "f6dc09ddaaf77bcf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

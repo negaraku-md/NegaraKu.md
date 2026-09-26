@@ -32,8 +32,9 @@ faq:
     a: "ไม่ เขื่อน Baram ซึ่งคาดว่าจะท่วม 412 ตารางกิโลเมตรและย้ายผู้คนราว 20,000 คน ถูกระงับผ่านการพักการดำเนินการในปี 2015 และถูกยกเลิกอย่างเป็นทางการในปี 2016 หลังจากการคัดค้านของชนพื้นเมืองที่ยืดเยื้อ"
 
 lang: "th"
+sourceContentHash: "3900760aacdbc30f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

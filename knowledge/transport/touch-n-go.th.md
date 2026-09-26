@@ -29,8 +29,9 @@ faq:
     a: "จำเป็น หากต้องการใช้ฟังก์ชันเติมเงินผ่าน NFC ขั้นตอนการลงทะเบียนเกี่ยวข้องกับการยืนยันตัวตน (KYC) เพื่อให้ยอดเงินในบัตรผูกกับบัญชี eWallet ของคุณ — สิ่งนี้ยังเพิ่มชั้นการคุ้มครองเพิ่มเติมหากบัตรสูญหาย เมื่อเทียบกับบัตรที่ไม่ได้ลงทะเบียนซึ่งใครก็ตามที่พบเจอสามารถนำยอดเงินไปใช้ได้"
 
 lang: "th"
+sourceContentHash: "a15af3c5fd918fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

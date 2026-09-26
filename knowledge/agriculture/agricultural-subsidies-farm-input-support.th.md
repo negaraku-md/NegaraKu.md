@@ -34,8 +34,9 @@ faq:
     a: "กระทรวงเกษตรและความมั่นคงทางอาหาร (KPKM) ผ่านฝ่ายพัฒนาอุตสาหกรรมข้าว โดยมีหน่วยงานดำเนินการอย่างองค์การกลุ่มเกษตรกร (LPP) MADA และ KADA ในพื้นที่นาข้าวหลักของแต่ละแห่ง"
 
 lang: "th"
+sourceContentHash: "0db45e7ee2f93134"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

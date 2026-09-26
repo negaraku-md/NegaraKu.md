@@ -33,8 +33,9 @@ verificationNeeded:
   - "ตรวจสอบว่า SSM ได้ออก practice directive หรือแนวทางเรื่องการรับรองเอกสารโดยเลขานุการบริษัทหรือไม่ — ไม่พบใน ssm.com.my"
 
 lang: "th"
+sourceContentHash: "9f90e2daf3ffcc00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

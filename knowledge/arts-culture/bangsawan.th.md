@@ -34,8 +34,9 @@ faq:
     a: "มันเสื่อมถอยในกลางศตวรรษที่ 20 เพราะการแข่งขันจากวิทยุ ภาพยนตร์ และโทรทัศน์ ภายในปลายทศวรรษ 1930 โรงบังซาวันหลายแห่งถูกเปลี่ยนเป็นโรงภาพยนตร์ และหลังสงครามอุตสาหกรรมนั้นสูญเสียแหล่งเงินทุน"
 
 lang: "th"
+sourceContentHash: "9acb0bf06bc5782c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

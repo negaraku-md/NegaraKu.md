@@ -29,8 +29,9 @@ faq:
     a: "มูซาการอฮ์พิเศษเมื่อวันที่ 3 ธันวาคม 2020 ตัดสินว่าการใช้วัคซีน COVID-19 เป็นสิ่งที่อนุญาตและเป็นข้อบังคับที่ต้องรับสำหรับกลุ่มที่รัฐบาลกำหนด โดยมีเงื่อนไขว่าวัคซีนที่ใช้ต้องเป็นฮาลาลและฏ็อยยิบัน (ดีและบริสุทธิ์)"
 
 lang: "th"
+sourceContentHash: "a63cd25d7840519b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

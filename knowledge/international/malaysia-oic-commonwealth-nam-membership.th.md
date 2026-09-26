@@ -31,8 +31,9 @@ faq:
     a: "OIC เป็นองค์กรทางการเมืองและความเป็นน้ำหนึ่งใจเดียวกันของโลกอิสลามทั้งหมดที่มีสมาชิก 57 ประเทศ ส่วน D-8 เป็นกลุ่มความร่วมมือทางเศรษฐกิจของแปด (ปัจจุบันเก้า) ประเทศกำลังพัฒนาที่ประชากรส่วนใหญ่เป็นมุสลิม ซึ่งเล็กกว่าและมุ่งเน้นการค้าและการพัฒนามากกว่า"
 
 lang: "th"
+sourceContentHash: "0bd4e9cbc79316f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "นายจ้าง ทีม HR และลูกจ้างที่ต้องการเข้าใจกรอบการออมเพื่อการเกษียณของมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "c90387d901bf5d08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

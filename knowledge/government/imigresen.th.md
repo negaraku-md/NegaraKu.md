@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการระบุหน่วยงานที่ออกเอกสารตรวจคนเข้าเมืองของมาเลเซีย — หนังสือเดินทาง วีซ่า พาส หรือเพอร์มิต — และบทความใดที่อธิบายแต่ละกระบวนการ"
 
 lang: "th"
+sourceContentHash: "baf28f912e1a7295"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "หลังการเลื่อนสองครั้ง มันใช้กับผู้ดำเนินการรายใหญ่และรายกลางตั้งแต่วันที่ 30 December 2026 และกับวิสาหกิจขนาดจิ๋วและขนาดเล็กตั้งแต่วันที่ 30 June 2027 วันตัดของการตัดไม้ทำลายป่าคือวันที่ 31 December 2020"
 
 lang: "th"
+sourceContentHash: "7368557f33452c6b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

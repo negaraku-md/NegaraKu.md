@@ -30,8 +30,9 @@ faq:
     a: "เรียน ภาษามลายูเป็นวิชาบังคับในระบบ UEC นักเรียน UEC จำนวนมากยังสอบ SPM ในฐานะผู้สมัครส่วนตัว; Dong Zong รายงานว่าอัตราการสอบผ่านภาษามลายู SPM ในหมู่นักเรียน SMPC เกิน 96% สำหรับปี 2022–2024 (97.38% ในปี 2022, 97.11% ในปี 2023 และ 96.65% ในปี 2024) โดยใช้ข้อสอบ SPM ฉบับเดียวกับผู้สมัครคนอื่น"
 
 lang: "th"
+sourceContentHash: "899b0fd9ce10c90d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

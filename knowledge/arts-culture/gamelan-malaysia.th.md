@@ -33,8 +33,9 @@ faq:
     a: "ชุดกาเมลันดั้งเดิมถูกส่งคืนปะหังในปี 1973 และจัดแสดงที่พิพิธภัณฑ์ปะหังในเปอกัน"
 
 lang: "th"
+sourceContentHash: "c60f9bc5987b416f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

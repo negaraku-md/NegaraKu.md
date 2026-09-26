@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ทุกคนที่เช่าหรือปล่อยเช่าอสังหาริมทรัพย์ที่อยู่อาศัยในมาเลเซีย ทั้งผู้เช่าที่ลงนามในสัญญาเช่าครั้งแรก และเจ้าของบ้านที่ร่างสัญญา ในคาบสมุทรมาเลเซีย ซาบาห์ หรือซาราวัก"
 
 lang: "th"
+sourceContentHash: "82f3b97b7c53aec7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

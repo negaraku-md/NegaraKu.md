@@ -34,8 +34,9 @@ faq:
     a: "การเป็นเจ้าภาพกีฬาปี 1998 ที่กัวลาลัมเปอร์ ที่ซึ่งบันทึกผลงานที่ดีที่สุด 10 เหรียญทองและจบอันดับที่สี่โดยรวม ยังเป็นกีฬาเครือจักรภพครั้งแรกที่จัดในเอเชีย"
 
 lang: "th"
+sourceContentHash: "d25df756ce38577d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "การซื้อต้องใช้เงินจากกำไรสะสมของบริษัททั้งหมดบนฐานบริษัท (ไม่ใช่ฐานกลุ่ม) — กฎ 12.10 บทที่ 12 ข้อกำหนดการจดทะเบียนของ Bursa เงินกู้อาจใช้เป็นแหล่งเงินได้หากการซื้อได้รับการรองรับด้วยจำนวนกำไรสะสมที่เท่ากัน (กฎ 12.11)"
 
 lang: "th"
+sourceContentHash: "6bd8a430b49db96b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

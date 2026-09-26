@@ -34,8 +34,9 @@ faq:
     a: "ได้ ผู้ผลิตในต่างประเทศสามารถขอการรับรองจาก JAKIM หรือใช้ใบรับรองจากองค์กรรับรองฮาลาลต่างประเทศที่ JAKIM ให้การยอมรับ รายชื่อองค์กรที่ได้รับการยอมรับ JAKIM เป็นผู้ตรวจสอบและปรับปรุง"
 
 lang: "th"
+sourceContentHash: "86854384949bcaf4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ verificationNeeded:
   - "อัตราค่าประนอมสำหรับความผิดเฉพาะตาม Companies Act 2016 กำหนดโดยตารางค่าประนอมของ SSM ภายใต้มาตรา 588 และไม่ได้เผยแพร่ใน Practice Directive 1/2017 — ไม่มีการระบุตัวเลขค่าประนอมในหน้านี้เพราะไม่อาจยืนยันได้เทียบกับแหล่งทางการ"
 
 lang: "th"
+sourceContentHash: "352f3b9226a227c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

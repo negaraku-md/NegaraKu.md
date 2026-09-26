@@ -77,8 +77,9 @@ obligations:
     consequence: "เป็นความผิดตามพระราชบัญญัติการจ้างงาน 1955"
 
 lang: "th"
+sourceContentHash: "558d661d33577f5e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

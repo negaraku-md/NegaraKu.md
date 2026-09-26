@@ -39,8 +39,9 @@ verificationNeeded:
   - "ระยะเวลาที่ใช้ได้ของการอนุมัติ WRT — เผยแพร่เฉพาะระยะนำสามเดือนสำหรับการต่ออายุ"
 
 lang: "th"
+sourceContentHash: "01bb0853bba1972c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

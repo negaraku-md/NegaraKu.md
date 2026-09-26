@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจระบบกฎหมายจารีตประเพณีมลายู — นักศึกษาประวัติศาสตร์ กฎหมาย และมาเลเซียศึกษา นักข่าว ข้าราชการ และผู้อ่านทั่วไปที่สับสนกับความแตกต่างระหว่างอาดัตเปอร์ปาติห์และอาดัตเตอเมิงกง"
 
 lang: "th"
+sourceContentHash: "d4460bfefd0c039f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

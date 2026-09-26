@@ -60,8 +60,9 @@ obligations:
     consequence: "สิทธิในการเรียกประชุมภายใต้มาตรา 313 สิ้นผล"
 
 lang: "th"
+sourceContentHash: "7de2bc211affba0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

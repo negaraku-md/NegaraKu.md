@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "บิดามารดา ผู้ปกครอง หรือผู้ที่รับผิดชอบในการจดทะเบียนการเกิดของบุตรที่เกิดในมาเลเซีย รวมถึงกรณีการจดทะเบียนล่าช้าและการขอใบสูติบัตรใหม่"
 
 lang: "th"
+sourceContentHash: "02c6a3d01833544f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

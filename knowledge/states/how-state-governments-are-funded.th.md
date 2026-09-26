@@ -30,8 +30,9 @@ faq:
     a: "ทั้งสองรัฐได้รับเงินอุดหนุนพิเศษภายใต้มาตรา 112C และแหล่งรายได้เพิ่มเติมภายใต้ส่วนที่ 5 ของตารางที่สิบ รวมถึงอากรผลิตภัณฑ์ปิโตรเลียม อากรส่งออกไม้ซุงและผลผลิตจากป่า ค่าภาคหลวงแร่ ตลอดจนภาษีขายของรัฐ"
 
 lang: "th"
+sourceContentHash: "f7789909fc78f01b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

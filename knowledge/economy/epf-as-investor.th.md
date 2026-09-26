@@ -25,8 +25,9 @@ verificationNeeded:
   - "ตัวเลข RM188 พันล้าน / 9% ของมูลค่าตลาดหุ้นในประเทศเป็น ณ สิ้นปี 2024 ตาม The Edge Malaysia ตรวจสอบใหม่กับการเปิดเผยของ EPF เองหากมี"
 
 lang: "th"
+sourceContentHash: "a2dbf62e9ce69abb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

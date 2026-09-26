@@ -41,8 +41,9 @@ verificationNeeded:
   - "ระดับผลิตภาพที่กำหนดซึ่งปลดล็อกการยกเว้น 100% ในข้อกำหนดยกเว้นของวรรค 3 ของ Schedule 7A กำหนดโดยรัฐมนตรีและคำนวณในแบบขอ RA; เกณฑ์ที่กำหนดปัจจุบันยังไม่ได้รับการยืนยันจากแหล่งข้อมูลปฐมภูมิ"
 
 lang: "th"
+sourceContentHash: "8240b93cc8d8dcd0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

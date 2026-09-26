@@ -61,8 +61,9 @@ obligations:
     consequence: "ช่องทางอุทธรณ์ปิดและไม่สามารถยื่นอุทธรณ์ได้"
 
 lang: "th"
+sourceContentHash: "10fdb6251948c8f0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

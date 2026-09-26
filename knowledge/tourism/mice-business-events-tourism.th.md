@@ -31,8 +31,9 @@ faq:
     a: "MITEC หรือศูนย์การค้าและการจัดแสดงสินค้านานาชาติมาเลเซีย ซึ่งเปิดในปี 2016 พร้อมห้องจัดแสดงขนาดใหญ่ 11 ห้อง และพื้นที่จัดแสดง 52,000 ตร.ม. CIDB บันทึกพื้นที่ปลอดเสา 12,530 ตร.ม. ภายในอาคาร"
 
 lang: "th"
+sourceContentHash: "25f7bdfa80a0bc8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

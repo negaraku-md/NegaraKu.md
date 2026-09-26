@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจต้นกำเนิดของอารยธรรมยุคแรกบนแผ่นดินมลายูก่อนที่จะมีบรรดารัฐสุลต่านมลายู หรือผู้ที่วางแผนเยี่ยมชมแหล่งและพิพิธภัณฑ์โบราณคดีในเกอดะฮ์"
 
 lang: "th"
+sourceContentHash: "e95214b94dacf363"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

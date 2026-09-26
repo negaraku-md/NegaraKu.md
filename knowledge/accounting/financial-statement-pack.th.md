@@ -55,8 +55,9 @@ obligations:
     consequence: "ปรับสูงสุด RM50,000 ต่อเจ้าหน้าที่ทุกคน บวกอีกสูงสุด RM1,000 สำหรับแต่ละวันที่ความผิดดำเนินต่อเนื่อง ตามมาตรา 259(3)"
 
 lang: "th"
+sourceContentHash: "4e2872dc66850acf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

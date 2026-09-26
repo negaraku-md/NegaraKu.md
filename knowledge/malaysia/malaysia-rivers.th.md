@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "นักเรียนภูมิศาสตร์และประวัติศาสตร์มาเลเซีย ตลอดจนผู้ที่ต้องการเข้าใจว่าเหตุใดเมืองหลักในซาราวัก ซาบาห์ และปาหังจึงตั้งอยู่ในตำแหน่งแม่น้ำเฉพาะ"
 
 lang: "th"
+sourceContentHash: "c0dca023c22caa3e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

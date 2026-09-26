@@ -31,8 +31,9 @@ faq:
     a: "ภายใต้พระราชบัญญัติความมั่นคงปลอดภัยไซเบอร์ 2024 [Act 854] การยื่นขอให้บริการความมั่นคงปลอดภัยไซเบอร์ทำต่อหัวหน้าผู้บริหารของ NACSA หมวดที่ถูกกำกับคือบริการเฝ้าติดตามศูนย์ปฏิบัติการความมั่นคง (SOC) ที่มีการจัดการและบริการทดสอบเจาะระบบ"
 
 lang: "th"
+sourceContentHash: "a5256768a1d06815"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

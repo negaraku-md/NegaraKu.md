@@ -40,8 +40,9 @@ verificationNeeded:
   - "ระยะเวลาที่แต่ละแนวร่วมปกครองและปีที่ก่อตั้ง (เช่น เมื่อ Barisan Nasional ปกครองในระดับสหพันธ์ และเมื่อ Perikatan Nasional ก่อตั้ง) ไม่ได้ระบุเป็นวันที่ตายตัวในหน้านี้เพราะไม่มีการตรวจแหล่งข้อมูลปฐมภูมิสำหรับเรื่องนี้ในรอบนี้ เพิ่มวันที่ที่มีแหล่งที่มาหากจำเป็น"
 
 lang: "th"
+sourceContentHash: "58782ac706653a76"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

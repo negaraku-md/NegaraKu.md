@@ -53,8 +53,9 @@ obligations:
     consequence: "ค่าปรับสูงสุดสามเท่าของภาษีภายใต้ s.112(3); อัตราที่ LHDN เผยแพร่อยู่ที่ 15% ถึง 45% ตามความล่าช้า"
 
 lang: "th"
+sourceContentHash: "00342b1e35f45f25"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

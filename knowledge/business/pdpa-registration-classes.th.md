@@ -38,8 +38,9 @@ obligations:
     consequence: "โทษปรับสูงสุด RM250,000 หรือ 2 ปีสำหรับการประมวลผลต่อหลังสิ้นอายุ"
 
 lang: "th"
+sourceContentHash: "0a5d002129db4742"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

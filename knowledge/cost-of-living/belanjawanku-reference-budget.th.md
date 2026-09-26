@@ -29,8 +29,9 @@ faq:
     a: "ไม่ Belanjawanku วัดค่าใช้จ่ายสำหรับ 'มาตรฐานการครองชีพที่สมเหตุสมผล' หรือสุขสบาย ซึ่งสูงกว่าเส้นความยากจนที่สะท้อนเพียงความจำเป็นพื้นฐานเพื่อความอยู่รอด"
 
 lang: "th"
+sourceContentHash: "178a5bff85bb62f4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

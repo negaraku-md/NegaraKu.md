@@ -30,8 +30,9 @@ faq:
     a: "APM ดำเนินการภายใต้พระราชบัญญัติป้องกันภัยฝ่ายพลเรือน (Civil Defence Act 1951, Act 221) ซึ่งกำหนดหน้าที่ในยามสงบและยามสงครามเพื่อปกป้องชีวิตและทรัพย์สิน"
 
 lang: "th"
+sourceContentHash: "1cc8bccf4a7c831a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

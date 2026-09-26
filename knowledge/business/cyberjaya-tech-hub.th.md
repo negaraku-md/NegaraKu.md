@@ -43,8 +43,9 @@ verificationNeeded:
   - "ยืนยันว่าไซเบอร์จายาถือ หรือได้ยื่นขอ การรับรองเป็น MD Hub, MD Nexus หรือ MD Tech Zone หรือไม่ และการกำหนด MD Cybercity และ Cybercentre ที่มีอยู่จับคู่กับ MD Location Recognition อย่างไร ณ วันที่ 2026-08-14 ไม่มีแหล่งปฐมภูมิของ MDEC ที่ระบุชื่อไซเบอร์จายาภายใต้หมวดใด และ MD Location Recognition เพียงรายการเดียวที่ให้จนถึงปัจจุบันคือ Menara Merdeka 118 ซึ่งเปิดตัวเป็น MD Nexus แห่งแรกของมาเลเซียเมื่อวันที่ 5 กุมภาพันธ์ 2026"
 
 lang: "th"
+sourceContentHash: "3159e752d7a7d37a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

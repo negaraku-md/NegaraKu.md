@@ -34,8 +34,9 @@ verificationNeeded:
   - "ยืนยันความยาว/จำนวนสถานีปัจจุบันของสาย MRT Kajang โดยตรงกับ MRT Corp หรือ Rapid Rail ก่อนเผยแพร่ — กระทรวงคมนาคมและหน้าสายของ Rapid Rail เองให้ตัวเลขที่แตกต่างกันเล็กน้อย (51 กม./31 สถานี เทียบกับ 46 กม./29 สถานี) ซึ่งบทความนี้ได้เลี่ยงการทำซ้ำคำต่อคำในระหว่างรอการปรับให้ตรงกัน"
 
 lang: "th"
+sourceContentHash: "8f5aa15915a64a18"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

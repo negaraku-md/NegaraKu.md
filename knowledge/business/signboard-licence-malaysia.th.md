@@ -40,8 +40,9 @@ verificationNeeded:
   - "อัตราป้ายรายปีตามพื้นที่ของ MBSA — เผยแพร่เฉพาะค่าดำเนินการโฆษณาและอัตราบันติงและแบนเนอร์แบบคงที่"
 
 lang: "th"
+sourceContentHash: "e95a20cac513aa22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

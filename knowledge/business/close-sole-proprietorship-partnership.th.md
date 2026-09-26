@@ -35,8 +35,9 @@ faq:
     a: "ไม่ กิจการเจ้าของคนเดียวหรือห้างหุ้นส่วนเป็นการจดทะเบียนธุรกิจภายใต้ Registration of Businesses Act 1956 ไม่ใช่นิติบุคคลแยกต่างหาก ดังนั้นการ 'ปิด' มันจึงเป็นเพียงการแจ้ง SSM ว่าการจดทะเบียนได้สิ้นสุดลง — ไม่มีผู้ชำระบัญชี ไม่มีการยื่นขอถอนชื่อ ไม่มีค่าธรรมเนียม Sdn Bhd เป็นบริษัทภายใต้ Companies Act 2016 และต้องถอนตัวผ่านการถอนชื่อหรือการเลิกกิจการ ดูคู่มือแยกต่างหากว่าด้วยการปิดบริษัท"
 
 lang: "th"
+sourceContentHash: "b7ee74767d9d900f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

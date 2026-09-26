@@ -31,8 +31,9 @@ faq:
     a: "ไม่โดยตรง การค้ำประกันทางการเงินเป็นหนี้สินที่อาจเกิดขึ้น (contingent liability) มันกลายเป็นหนี้ก็ต่อเมื่อเกิดขึ้นจริง Akta 850 จำกัดการค้ำประกันทางการเงินไว้ที่ 25% ของ GDP และกำหนดให้มีคำแถลงความเสี่ยงทางการคลังประจำปีเพื่อเปิดเผยการเปิดรับความเสี่ยงนี้"
 
 lang: "th"
+sourceContentHash: "1dc4f0df2320f2a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

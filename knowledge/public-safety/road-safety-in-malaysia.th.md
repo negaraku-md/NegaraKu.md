@@ -35,8 +35,9 @@ faq:
     a: "สถาบันวิจัยความปลอดภัยทางถนนมาเลเซีย (MIROS) ซึ่งก่อตั้งในปี 2007 ดำเนินการวิจัยบนพื้นฐานของหลักฐาน ขณะที่ฝ่ายความปลอดภัยทางถนนของ JPJ (เดิมคือ JKJR) เป็นผู้นำด้านการรณรงค์และการสร้างความตระหนัก ทั้งสองอยู่ภายใต้กระทรวงคมนาคม"
 
 lang: "th"
+sourceContentHash: "681af11f157961d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

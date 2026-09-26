@@ -33,8 +33,9 @@ verificationNeeded:
   - "TEKUN ไม่เผยแพร่ธงเปิดหรือปิดต่อโครงการ และตัวเลข Ar Rahnu 4u ของมันมีความผิดปกติทางตัวพิมพ์บนหน้าที่ใช้งาน"
 
 lang: "th"
+sourceContentHash: "3e2ae8690cffc294"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

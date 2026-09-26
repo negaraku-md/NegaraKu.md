@@ -38,8 +38,9 @@ faq:
     a: "ในปี 2024 PETRONAS มีส่วนสนับสนุน RM72.4 พันล้านในรูปเงินปันผล ภาษี การชำระเงินสด และข้อผูกพันอื่น ๆ รวมถึงเงินปันผล RM32.0 พันล้าน นี่อยู่นอกเหนือจากภาษีที่จ่ายโดยผู้รับเหมาและบริษัทบริการอื่น ๆ ในภาคนี้"
 
 lang: "th"
+sourceContentHash: "7404112e163ed546"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

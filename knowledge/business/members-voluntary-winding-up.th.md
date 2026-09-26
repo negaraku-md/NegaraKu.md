@@ -64,8 +64,9 @@ obligations:
     consequence: "การเลิกบริษัทภายใต้มาตรา 459(5) ไม่เริ่มนับจนกว่าจะยื่นรายงาน"
 
 lang: "th"
+sourceContentHash: "4a39d9570c5bc4d4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

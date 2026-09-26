@@ -29,8 +29,9 @@ faq:
     a: "คำสั่งนี้ถูกแทนที่ด้วยคำสั่ง NADMA ฉบับที่ 1 ซึ่งได้รับอนุมัติในการประชุมสภาความมั่นคงแห่งชาติ (MKN) ที่มีนายกรัฐมนตรีเป็นประธานเมื่อวันที่ 1 สิงหาคม 2024"
 
 lang: "th"
+sourceContentHash: "cb54d0894eec9ad2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

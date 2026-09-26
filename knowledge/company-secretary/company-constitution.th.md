@@ -34,8 +34,9 @@ faq:
     a: "ภายใต้บทเฉพาะกาลมาตรา 619(3) M&A ของบริษัทที่มีอยู่ซึ่งมีผลเมื่อพระราชบัญญัติเริ่มบังคับใช้ยังคงมีผลเสมือนทำภายใต้พระราชบัญญัตินี้ เว้นแต่บริษัทมีมติเป็นอย่างอื่น M&A นั้นบัดนี้กลายเป็นข้อบังคับของบริษัทดังกล่าว"
 
 lang: "th"
+sourceContentHash: "99c3208a68daac93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -47,8 +47,9 @@ verificationNeeded:
   - "ยืนยันจำนวนคนงานต่างชาติที่ถือ PLKS ระดับชาติและตามรัฐ — DOSM เผยแพร่ประชากรผู้ไม่ใช่พลเมือง ซึ่งรวมผู้อยู่ในอุปการะ นักศึกษา ผู้มีถิ่นที่อยู่ถาวร และผู้ไม่มีเอกสาร"
 
 lang: "th"
+sourceContentHash: "266dea497fff19a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "ไม่ ตามมาตรา 554(1)(a) ความรับผิดของกรรมการ เจ้าหน้าที่ หรือสมาชิกของบริษัทแต่ละคนยังคงอยู่และบังคับใช้ได้เสมือนบริษัทไม่ได้ถูกยุบ กรรมการยังต้องเก็บบันทึกของบริษัทเป็นเวลาเจ็ดปีหลังการถอนชื่อ"
 
 lang: "th"
+sourceContentHash: "bd012809619da49e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

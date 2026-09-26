@@ -29,8 +29,9 @@ faq:
     a: "นักเรียน SJKC และ SJKT สามารถเรียนต่อที่โรงเรียนมัธยมแห่งชาติ (SMK ภาษาสื่อการสอนคือภาษามลายู) หรือ สำหรับนักเรียน SJKC บางส่วน ที่โรงเรียนมัธยมประเภทแห่งชาติ (SMJK) ซึ่งก็เป็นโรงเรียนรัฐบาล/ที่รับความช่วยเหลือจากรัฐเช่นกัน การเปลี่ยนภาษาสื่อการสอนจากประถมสู่มัธยมแห่งชาติได้รับการสนับสนุนด้วยชั้นเรียนเตรียมความพร้อม (kelas peralihan) สำหรับนักเรียนที่ต้องการ"
 
 lang: "th"
+sourceContentHash: "2c9607178a97bd26"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

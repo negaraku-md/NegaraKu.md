@@ -47,8 +47,9 @@ verificationNeeded:
   - "สถิติปริมาณหรือมูลค่าการค้าของ DFTZ ใด ๆ หลังปี 2020 ไม่มีจากแหล่งทางการ และหลังการถอด MAHB ออกจากตลาดเมื่อ 25 กุมภาพันธ์ 2025 ก็ไม่อาจหาได้ — นี่ไม่อาจหาได้ในเชิงโครงสร้าง ไม่ใช่เพียงหาไม่พบ"
 
 lang: "th"
+sourceContentHash: "b20fb73bf5494f07"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

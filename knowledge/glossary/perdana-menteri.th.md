@@ -34,8 +34,9 @@ faq:
     a: "จนถึงขณะนี้ รัฐธรรมนูญไม่จำกัดวาระ ในปี 2026 มีการเสนอร่างกฎหมายแก้ไขรัฐธรรมนูญเพื่อจำกัดวาระของนายกรัฐมนตรีไว้ที่รวมสิบปี สถานะสุดท้ายของการแก้ไขนั้นต้องตรวจสอบกับแหล่งข้อมูลอย่างเป็นทางการ"
 
 lang: "th"
+sourceContentHash: "a4359d9c03eadb4d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

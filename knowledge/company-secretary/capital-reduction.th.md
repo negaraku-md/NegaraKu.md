@@ -77,8 +77,9 @@ obligations:
     consequence: "ความผิดโดยบริษัทและเจ้าหน้าที่ทุกคนที่ผิดนัดภายใต้มาตรา 120(6)"
 
 lang: "th"
+sourceContentHash: "6120d0d4e510c23d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

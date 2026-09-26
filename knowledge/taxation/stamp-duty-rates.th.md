@@ -29,8 +29,9 @@ verificationNeeded:
   - "รายการ 12 (การโอนสิทธิ) ถูกแทนที่โดย Act 862 และช่วงประกันชีวิตที่ปรับปรุงไม่ได้ทำซ้ำในที่นี้"
 
 lang: "th"
+sourceContentHash: "bade86680d1436e5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

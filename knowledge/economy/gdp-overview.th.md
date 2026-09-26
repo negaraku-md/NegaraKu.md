@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการความเข้าใจในระดับภาพรวมทั่วไปเกี่ยวกับขนาดและรูปร่างของเศรษฐกิจมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "a15aa3483282907f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

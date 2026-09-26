@@ -25,8 +25,9 @@ verificationNeeded:
   - "ตัวเลขจุดคุ้มทุนที่แสดงเป็นตัวอย่างในบทความนี้เป็นเลขคณิตบนตารางช่วงที่เผยแพร่ ไม่ใช่เกณฑ์ที่ LHDN เผยแพร่; มันเคลื่อนย้ายตามการบรรเทาที่แต่ละคู่ขอจริง"
 
 lang: "th"
+sourceContentHash: "9439aef0bb0b111f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -40,8 +40,9 @@ verificationNeeded:
   - "ยืนยันข้อความและสถานะปัจจุบันของประกาศกรมสรรพากร (LHDN) เกี่ยวกับมาตรา 77A(4) โดยตรงกับกรมสรรพากร (LHDN) — หน้าประกาศเข้าถึงไม่ได้ในขณะที่เขียน และอ้างอิงในที่นี้ผ่านคำถามที่พบบ่อยเกี่ยวกับการยกเว้นการตรวจสอบบัญชีของ SSM"
   - "ยืนยันวันที่ของระยะบังคับ MBRS 2.0 และจุดเข้าใช้งานปัจจุบันในหน้า MBRS ของ SSM"
 lang: "th"
+sourceContentHash: "10c01141306ea188"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

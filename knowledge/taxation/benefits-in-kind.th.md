@@ -41,8 +41,9 @@ verificationNeeded:
   - "ไม่ได้ดึงข้อความเต็มของ Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009, P.U.(A) 153/2009 จากแหล่งปฐมภูมิ ขอบเขตของมันอธิบายตามที่อ้างไว้ใน paragraph 12.1 ของ Public Ruling 11/2019"
 
 lang: "th"
+sourceContentHash: "d4a3fc76b902795b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

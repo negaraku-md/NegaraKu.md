@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ใช้ทางหลวงในช่วงฤดูเทศกาล ผู้วางแผนการเดินทางและวันหยุด ผู้ค้าปลีกและผู้ประกอบการขนส่ง และผู้ที่พยายามทำความเข้าใจรูปแบบการเคลื่อนย้ายของประชากรมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "351c6944deba025a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

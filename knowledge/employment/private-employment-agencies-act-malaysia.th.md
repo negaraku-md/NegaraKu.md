@@ -29,8 +29,9 @@ faq:
     a: "ปรับสูงสุด RM200,000 หรือจำคุกสูงสุดสามปี หรือทั้งจำทั้งปรับ"
 
 lang: "th"
+sourceContentHash: "f80441a5c89e8b43"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

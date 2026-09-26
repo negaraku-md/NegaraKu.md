@@ -35,8 +35,9 @@ faq:
     a: "ไม่มีรายการตรวจสอบตายตัว แต่ GIACC Guidelines on Adequate Procedures กำหนดหลักห้าประการที่รู้จักในชื่อย่อ T.R.U.S.T. ซึ่งศาลมีแนวโน้มจะชั่งน้ำหนักเมื่อตัดสินว่ากระบวนการนั้นเพียงพอหรือไม่"
 
 lang: "th"
+sourceContentHash: "6d976fa3bddc473d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

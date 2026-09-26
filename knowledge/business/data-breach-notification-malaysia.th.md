@@ -65,8 +65,9 @@ obligations:
     consequence: "การแจ้งที่ไม่ครบถ้วน"
 
 lang: "th"
+sourceContentHash: "69d11280d19d99c8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

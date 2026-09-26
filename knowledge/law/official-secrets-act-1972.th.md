@@ -32,8 +32,9 @@ faq:
     a: "กฎหมายนี้ไม่มีการป้องกัน 'ประโยชน์สาธารณะ' หรือการคุ้มครองเฉพาะสำหรับผู้ให้ข้อมูล (whistleblower) มาตรา 17A ให้การป้องกันเฉพาะแก่ผู้ที่พิสูจน์ว่าตนกระทำในการปฏิบัติหน้าที่ราชการหรือด้วยอำนาจที่เหมาะสม การไม่มีการป้องกันประโยชน์สาธารณะเป็นหนึ่งในประเด็นที่ผู้วิจารณ์กฎหมายยกขึ้นมา"
 
 lang: "th"
+sourceContentHash: "b2289aaf85dc5684"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

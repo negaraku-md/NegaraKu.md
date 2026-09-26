@@ -30,8 +30,9 @@ faq:
     a: "การฝ่าฝืนมาตรา 28 เป็นความผิดที่มีโทษปรับไม่เกิน RM50,000 (มาตรา 28(8)) การยื่นล่าช้าเกิน 30 วันยังต้องเสียค่าธรรมเนียมการยื่นล่าช้าด้วย"
 
 lang: "th"
+sourceContentHash: "fe0af342a9f2c24f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

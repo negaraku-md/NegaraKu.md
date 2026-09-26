@@ -34,8 +34,9 @@ faq:
     a: "ภายใต้มาตรา 67(1) เอกสารลงนามโดยชอบในฐานะ deed หากลงนามโดยชอบโดยบริษัท และส่งมอบ (delivered) ในฐานะ deed มาตรา 67(2) ถือว่าการส่งมอบได้เกิดขึ้นทันทีที่ deed นั้นลงนามโดยชอบ เว้นแต่พิสูจน์เจตนาเป็นอย่างอื่น"
 
 lang: "th"
+sourceContentHash: "11a3057b821bdc34"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

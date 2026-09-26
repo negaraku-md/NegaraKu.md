@@ -37,8 +37,9 @@ faq:
     a: "Zii Jia ลาออกจาก BAM ในเดือนมกราคม 2022 เพื่อเป็นนักกีฬาอิสระหลังอยู่กับองค์กรนั้นเกือบทศวรรษตั้งแต่อายุ 13 ปี เขาต้องการมุ่งเน้นการฝึกซ้อมและยกอันดับของตนเอง และยืนยันว่าไม่ว่านักกีฬาทีมชาติหรือนักกีฬาอิสระ พวกเขาก็ชูธง Jalur Gemilang เหมือนกัน"
 
 lang: "th"
+sourceContentHash: "a0c4b7207a1ac775"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "เขตอำนาจหลักอยู่ที่กรม/สภาศาสนาอิสลามแห่งรัฐ เนื่องจากกิจการศาสนาอิสลามเป็นเรื่องของรัฐภายใต้รัฐธรรมนูญ JAKIM ทำหน้าที่ประสานงานในระดับรัฐบาลกลาง ขณะที่ข้อกำหนดความปลอดภัยของอาคารเกี่ยวข้องกับหน่วยงานท้องถิ่นและหน่วยดับเพลิง"
 
 lang: "th"
+sourceContentHash: "e8c71a5517740e23"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

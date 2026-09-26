@@ -39,8 +39,9 @@ verificationNeeded:
   - "Trademarks (Reduction of Fee) Regulations 2025 [P.U. (A) 315/2025] ลดค่าธรรมเนียมการยื่นต่อจำพวกลง RM300 เฉพาะการยื่นแบบเคาน์เตอร์โดยผู้ยื่นคำขอที่เข้าเกณฑ์ในคำสั่งแนวปฏิบัติของนายทะเบียน ระหว่างวันที่ 1 กันยายนถึง 31 ธันวาคม 2025 — ยืนยันว่ามีตราสารที่สืบทอดใดประกาศในราชกิจจานุเบกษาหรือไม่"
 
 lang: "th"
+sourceContentHash: "2b920571a13b0794"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

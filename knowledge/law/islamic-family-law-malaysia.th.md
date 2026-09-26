@@ -30,8 +30,9 @@ faq:
     a: "ภายใต้มาตรา 81 ของ Act 303 มารดาเป็นผู้ที่มีสิทธิมากที่สุดในการฮาดานะฮ์ของบุตรเล็ก หากมารดาขาดคุณสมบัติตามหลักชะรีอะฮ์ สิทธินั้นย้ายไปตามลำดับความสำคัญที่กำหนดไว้ โดยมีสวัสดิภาพของบุตรเป็นข้อพิจารณาหลัก"
 
 lang: "th"
+sourceContentHash: "4f9d82016cc77fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

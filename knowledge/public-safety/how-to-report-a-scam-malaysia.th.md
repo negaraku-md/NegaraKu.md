@@ -37,8 +37,9 @@ faq:
     a: "ไม่ 997 มีไว้เฉพาะสำหรับการฉ้อโกงทางการเงินที่เงินถูกโอนผ่านการหลอกลวง สำหรับการสูญหายเอกสารหรือคดีที่ไม่ใช่การฉ้อโกง ให้แจ้งความที่สถานีตำรวจหรือผ่านพอร์ทัล e-Reporting ของ PDRM"
 
 lang: "th"
+sourceContentHash: "ae9a54e76a608697"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

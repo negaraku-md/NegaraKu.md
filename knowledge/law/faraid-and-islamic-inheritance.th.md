@@ -32,8 +32,9 @@ faq:
     a: "ไม่ ค่าใช้จ่ายในการจัดการศพ หนี้สิน และพินัยกรรม ได้รับการชำระก่อนจากกองมรดกก่อนที่ส่วนที่เหลือจะถูกแบ่งตามฟะรออิฎ"
 
 lang: "th"
+sourceContentHash: "8922f0a1759aa852"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

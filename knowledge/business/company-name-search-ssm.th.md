@@ -38,8 +38,9 @@ verificationNeeded:
   - "รายการหน่วยงานผู้ส่งเรื่องและคำควบคุมใน Lampiran 1 ของ Guidelines on Company Names เป็นรายการที่ไม่ครบถ้วนโดยชัดแจ้ง — ตรวจสอบรายการปัจจุบันกับ SSM ก่อนพึ่งพา"
 
 lang: "th"
+sourceContentHash: "7ac1590970b850fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

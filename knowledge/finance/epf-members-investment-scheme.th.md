@@ -29,8 +29,9 @@ faq:
     a: "ขั้นต่ำคือ RM1,000 ต่อธุรกรรม จำนวนที่มีสิทธิ์ของคุณใช้ได้ครั้งละสามเดือน ดังนั้นในทางปฏิบัติคุณสามารถโอนใหม่ได้เมื่อช่วงเวลานั้นสิ้นสุดลง"
 
 lang: "th"
+sourceContentHash: "d3f550dd37241cac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

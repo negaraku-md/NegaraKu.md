@@ -26,8 +26,9 @@ verificationNeeded:
   - "มีเงินหักลดหย่อนทุนแบบเร่งด่วนหรือเพิ่มเฉพาะสำหรับการซื้อ (ตรงข้ามกับการเช่า) ยานยนต์ไฟฟ้าที่ประกาศในราชกิจจานุเบกษาหรือไม่ — ไม่พบตราสารดังกล่าวในฐานข้อมูลกฎหมายลำดับรองของ AGC"
 
 lang: "th"
+sourceContentHash: "9f0ef46f2f698cad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

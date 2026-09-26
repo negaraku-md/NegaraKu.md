@@ -31,8 +31,9 @@ faq:
     a: "โดยทั่วไปไม่ เมื่อกองทุนได้รับยกเว้นภายใต้ section 61A เงินได้ไม่ถูกเก็บภาษี ดังนั้นการจ่ายเงินจึงไม่มีเครดิตภาษีตาม section 110 ที่ผู้ถือหน่วยจะนำมาหักกลบได้ เครดิตเกิดขึ้นเฉพาะเมื่อกองทุนเองถูกเก็บภาษี (เช่น เมื่อจ่ายน้อยกว่า 90%)"
 
 lang: "th"
+sourceContentHash: "74ef95198966c611"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -36,8 +36,9 @@ faq:
     a: "คุณยื่นหนังสือแจ้งให้แสดงเหตุ (แบบฟอร์ม 208) หลังจากนั้นศาลสามารถออกหมายยึดและขาย (แบบฟอร์ม 84) ต่อทรัพย์สินของลูกหนี้ตามคำพิพากษา อนุญาตการชำระเป็นงวด หรือสั่งให้ลูกหนี้ถูกกักขังในเรือนจำ"
 
 lang: "th"
+sourceContentHash: "7f497323fdf0e52a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -37,8 +37,9 @@ verificationNeeded:
   - "ยืนยันพื้นที่ของเขตแกนและเขตกันชนเฉพาะส่วนของมะละกา (เทียบกับทรัพย์สินเป็นชุดทั้งหมด) เทียบกับเอกสารการเสนอชื่อ 1223bis"
 
 lang: "th"
+sourceContentHash: "68b18aa6f45a809f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

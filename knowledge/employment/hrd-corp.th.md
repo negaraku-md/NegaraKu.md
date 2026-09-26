@@ -28,8 +28,9 @@ faq:
   - q: "เงินอากร HRD คำนวณอย่างไรและครบกำหนดเมื่อใด?"
     a: "คำนวณจาก (ค่าจ้างรวมหรือเงินเดือนพื้นฐาน + เบี้ยเลี้ยงคงที่) × 1% (หรือ 0.5% สำหรับผู้ลงทะเบียนโดยสมัครใจ) ต้องชำระภายในวันที่ 15 ของทุกเดือนเพื่อหลีกเลี่ยงบทลงโทษ"
 lang: "th"
+sourceContentHash: "ff5d89d25eee1ca7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

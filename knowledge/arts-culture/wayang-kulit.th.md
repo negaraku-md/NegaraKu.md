@@ -30,8 +30,9 @@ faq:
     a: "ส่วนใหญ่ในเทศกาลวัฒนธรรม โครงการของพิพิธภัณฑ์และมรดก และการแสดงเพื่อการท่องเที่ยว มากกว่าจะเป็นความบันเทิงในหมู่บ้าน กรมวัฒนธรรมและศิลปะแห่งชาติ (National Department for Culture and Arts) และหน่วยงานวัฒนธรรมระดับรัฐเป็นจุดเริ่มต้นที่ใช้ได้จริงในการค้นหาตารางการแสดง"
 
 lang: "th"
+sourceContentHash: "d4cb6805f330e418"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -26,8 +26,9 @@ verificationNeeded:
   - "ไม่สามารถดึงข้อความเต็มของ P.U.(A) 125/2026 ได้; ชื่อและผลบังคับใช้วันที่ 1 มกราคม 2026 ยืนยันจากพอร์ทัลกฎหมายของ AGC และการยกเว้น 2% ที่สอดคล้องใน Service Tax Policy No. 2/2025 (Amendment No. 3)"
 
 lang: "th"
+sourceContentHash: "a8607ba4409fa9bf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

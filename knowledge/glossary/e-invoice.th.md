@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "เจ้าของธุรกิจ นักบัญชี และทีมการเงินที่กำลังเตรียมตัวหรือจัดการการปฏิบัติตามข้อกำหนด e-Invoice"
 
 lang: "th"
+sourceContentHash: "12ea69b29867be13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

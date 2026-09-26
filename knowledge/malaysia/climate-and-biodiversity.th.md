@@ -18,8 +18,9 @@ keyTakeaways:
   - "คาบสมุทรมาเลเซียและเกาะบอร์เนียว (ซาบาห์และซาราวัก) ถูกแยกจากกันด้วยทะเลจีนใต้และเป็นที่อยู่ของกลุ่มชนิดพันธุ์ที่แตกต่างกัน โดยบอร์เนียวมีป่าพรุและป่าชายเลนส่วนใหญ่ของประเทศ"
 appliesTo: "ระดับชาติ"
 lang: "th"
+sourceContentHash: "9a6c3f25f0c58105"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

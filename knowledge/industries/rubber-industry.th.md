@@ -34,8 +34,9 @@ faq:
     a: "จีนเป็นปลายทางที่ใหญ่ที่สุดมาก รับราว 49% ของการส่งออกยางธรรมชาติในเดือน December 2024 ตามด้วยเยอรมนี (12.9%), สหรัฐอาหรับเอมิเรตส์ (7.3%), สหรัฐอเมริกา และโปรตุเกส"
 
 lang: "th"
+sourceContentHash: "8dca8d58fbcc1a41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

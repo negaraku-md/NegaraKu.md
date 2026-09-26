@@ -31,8 +31,9 @@ faq:
     a: "ห้าลักษณะภูมิประเทศ คือ แนวปะการัง Layang-Layang (Swallow Reef), แนวปะการัง Ubi (Ardasier Reef), แนวปะการัง Siput (Erica Reef), แนวปะการัง Peninjau (Investigator Shoal) และแนวปะการัง Montanani (Mariveles Reef) ทั้งหมดอยู่ทางตอนใต้ของหมู่เกาะใกล้ซาบาห์"
 
 lang: "th"
+sourceContentHash: "c7460cc1783b36b6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

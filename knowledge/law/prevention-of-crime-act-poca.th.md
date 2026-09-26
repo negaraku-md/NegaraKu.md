@@ -30,8 +30,9 @@ faq:
     a: "คณะกรรมการป้องกันอาชญากรรม — องค์กรที่มีบุคคลที่มีคุณสมบัติทางกฎหมายเป็นประธานและรัฐบาลแต่งตั้ง — ไม่ใช่ศาล คณะกรรมการดำเนินการบนพื้นฐานของรายงานของเจ้าพนักงานสืบสวนที่รัฐมนตรีแต่งตั้ง"
 
 lang: "th"
+sourceContentHash: "a6b06f9b9fdb4839"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "ปฏิทินฉบับทางการออกผ่านหนังสือเวียน (Surat Siaran) ของ KPM และพอร์ทัล moe.gov.my ทุกปีก่อนเปิดปีการศึกษา โปรดอ้างอิงแหล่งข้อมูลทางการเพื่อวันที่ที่ถูกต้อง เนื่องจากมีการเปลี่ยนแปลงทุกปี"
 
 lang: "th"
+sourceContentHash: "25b458d1ef0fef1f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -59,8 +59,9 @@ obligations:
     consequence: "สูญเสียการผ่อนผันค่าปรับแบบเปลี่ยนผ่านเมื่อไม่ได้ใช้มาตรการที่สมเหตุสมผล"
 
 lang: "th"
+sourceContentHash: "f4ebb2767afaf5b6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่วางแผนจะสมรสในมาเลเซีย — พลเมืองมาเลเซียและชาวต่างชาติ ไม่ว่าทั้งสองฝ่ายจะไม่ใช่มุสลิม ทั้งสองฝ่ายเป็นมุสลิม หรือฝ่ายหนึ่งกำลังเปลี่ยนไปนับถือศาสนาอิสลามเพื่อสมรสกับคู่ที่เป็นมุสลิม — ที่ต้องการทราบว่าการสมรสของตนอยู่ภายใต้ระบบกฎหมายและหน่วยงานใด"
 
 lang: "th"
+sourceContentHash: "12e75b9b51367c03"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

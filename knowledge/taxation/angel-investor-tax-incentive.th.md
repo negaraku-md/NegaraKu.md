@@ -39,8 +39,9 @@ verificationNeeded:
   - "รายการกิจกรรมปัจจุบันที่รัฐมนตรีอนุมัติ — Public Ruling 12/2020 ให้เก้าสาขาที่มีการเติบโตสูงและเทคโนโลยีสูง ณ ปี 2020 และอธิบายว่าเป็นสถานะ ณ เวลานั้น"
 
 lang: "th"
+sourceContentHash: "490843a597d5164f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

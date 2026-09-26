@@ -23,8 +23,9 @@ verificationNeeded:
   - "ยืนยันตารางค่าปรับการยื่นล่าช้าปัจจุบันของ SSM สำหรับการแจ้งที่เกี่ยวกับทะเบียน เทียบกับ practice directive ของ SSM ที่ใช้บังคับเรื่องบทลงโทษการยื่นล่าช้า"
 
 lang: "th"
+sourceContentHash: "ff4434b4487bfa3d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

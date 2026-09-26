@@ -23,8 +23,9 @@ appliesTo: "นักวิเคราะห์ นักข่าว นัก
 seoTitle: "สถิติการท่องเที่ยวมาเลเซีย: ผู้มาเยือนเทียบกับรายรับ"
 
 lang: "th"
+sourceContentHash: "396de79b31be6ee8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

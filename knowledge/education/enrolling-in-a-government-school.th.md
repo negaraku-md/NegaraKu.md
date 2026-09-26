@@ -19,8 +19,9 @@ keyTakeaways:
   - "การเข้าเรียนก่อนกำหนด (อายุต่ำกว่าเกณฑ์) และการเลื่อนเข้าชั้นปีที่ 1 ต่างมีอยู่เป็นนโยบายทางการแยกกัน — คำขอทำผ่าน JPN ไม่ใช่ผ่านระบบ idMe ปกติ และการเลื่อนเข้าเรียนเป็นเอกสิทธิ์ (privilege) ไม่ใช่สิทธิโดยอัตโนมัติ"
 appliesTo: "ผู้ปกครองหรือผู้ดูแลที่เป็นพลเมืองมาเลเซียซึ่งบุตรกำลังจะเข้าชั้นปีที่ 1 ของโรงเรียนประถมรัฐบาลหรือชั้นมัธยมปีที่ 1 ของโรงเรียนมัธยมรัฐบาล"
 lang: "th"
+sourceContentHash: "0c89415b8941ca0c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

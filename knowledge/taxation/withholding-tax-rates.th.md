@@ -48,8 +48,9 @@ obligations:
     consequence: "จำนวนที่ยังไม่ได้ชำระเพิ่มขึ้น 10 เปอร์เซ็นต์และรายจ่ายไม่ได้รับอนุญาตให้หักภายใต้ s.39(1)(f), (i) หรือ (j)"
 
 lang: "th"
+sourceContentHash: "091d81b974b404be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

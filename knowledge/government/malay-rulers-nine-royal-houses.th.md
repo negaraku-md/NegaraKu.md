@@ -31,8 +31,9 @@ faq:
     a: "การดำเนินคดีต่อราชาในฐานะส่วนพระองค์สามารถกระทำได้เฉพาะในศาลพิเศษ (Special Court) ที่จัดตั้งขึ้นภายใต้มาตรา 182 และต้องได้รับความยินยอมจากอัยการสูงสุด"
 
 lang: "th"
+sourceContentHash: "3f9c93463dcbf28a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

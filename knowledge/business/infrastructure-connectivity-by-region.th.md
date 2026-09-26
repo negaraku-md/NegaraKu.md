@@ -49,8 +49,9 @@ verificationNeeded:
   - "ยืนยันวันเปิดใช้อย่างเป็นทางการและต้นทุนโครงการของทางคู่ระบบไฟฟ้าเกอมัสถึงยะโฮร์บาห์รู — ไม่พบทั้งสอง"
 
 lang: "th"
+sourceContentHash: "300ad373430dce8b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

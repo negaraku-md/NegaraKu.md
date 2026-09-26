@@ -29,8 +29,9 @@ faq:
     a: "มาตรา 7 อนุญาตให้รัฐมนตรีห้ามสิ่งพิมพ์ที่ถือว่าเป็นภัยหรืออาจเป็นภัยต่อความสงบเรียบร้อยของประชาชน ความมั่นคง ศีลธรรม ความสัมพันธ์กับประเทศต่างชาติ หรือผลประโยชน์ของชาติ ผ่านคำสั่งในราชกิจจานุเบกษา"
 
 lang: "th"
+sourceContentHash: "614accf2d6e4feba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

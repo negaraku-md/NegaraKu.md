@@ -36,8 +36,9 @@ faq:
     a: "MyDIGITAL ออกแบบเพื่อเสริมนโยบายการพัฒนาประเทศเช่นแผนมาเลเซียฉบับที่ 12 (RMKe-12) และวิสัยทัศน์ความเจริญรุ่งเรืองร่วมกัน 2030 (WKB 2030) ซึ่งรับรองเศรษฐกิจดิจิทัลเป็นกิจกรรมการเติบโตทางเศรษฐกิจหลัก"
 
 lang: "th"
+sourceContentHash: "ac3f23832d2acdba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

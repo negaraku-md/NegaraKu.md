@@ -46,8 +46,9 @@ verificationNeeded:
   - "ว่ามีสิ่งจูงใจทางภาษีใดที่เฉพาะเจาะจงต่อยุทธศาสตร์เซมิคอนดักเตอร์แห่งชาติที่ประกาศในราชกิจจานุเบกษาหรือไม่ ไม่พบเลย"
 
 lang: "th"
+sourceContentHash: "4221d6f415c3fa4d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

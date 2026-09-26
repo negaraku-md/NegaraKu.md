@@ -30,8 +30,9 @@ faq:
     a: "การล้มละลายเป็นกระบวนการทางศาลภายใต้พระราชบัญญัติการล้มละลาย (Insolvency Act 1967) ส่วน DMP ของ AKPK เป็นโครงการภายใต้หน่วยงานของธนาคารกลางมาเลเซียที่เข้าร่วมโดยสมัครใจ (ไม่ใช่คำสั่งศาล) เพื่อปรับโครงสร้างหนี้ ตามข้อมูลของ BNM บริการของ AKPK ให้บริการฟรี DMP ไม่เปิดให้บุคคลที่ถูกประกาศให้เป็นบุคคลล้มละลายแล้ว"
 
 lang: "th"
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

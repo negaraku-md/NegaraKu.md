@@ -32,8 +32,9 @@ faq:
     a: "วิสัยทัศน์ความมั่งคั่งร่วม 2030 (WKB 2030) ถูกเปิดตัวในเดือนตุลาคม 2019 ในฐานะแนวคิดผู้สืบทอดที่มุ่งความมั่งคั่งที่เป็นธรรมสำหรับช่วงปี 2021 ถึง 2030"
 
 lang: "th"
+sourceContentHash: "d7d57585a7686755"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

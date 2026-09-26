@@ -26,8 +26,9 @@ verificationNeeded:
   - "ความแตกต่างโดยละเอียดระหว่างคลินิกสุขภาพ คลินิกชุมชน และคลินิกชนบท ในแง่ของบุคลากรและขอบเขตการรักษาที่แน่นอนไม่สามารถยืนยันได้ครบถ้วนบนแหล่งข้อมูลทางการของ KKM ณ ขณะเขียน; บทความนี้เพียงระบุว่าทั้งสามเป็นสถานพยาบาลที่แยกต่างหาก"
 
 lang: "th"
+sourceContentHash: "a763d53f069e94c3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

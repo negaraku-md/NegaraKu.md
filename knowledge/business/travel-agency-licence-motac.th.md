@@ -33,8 +33,9 @@ faq:
     a: "การดำเนินการวิสาหกิจการท่องเที่ยวโดยไม่มีใบอนุญาตที่ใช้ได้เป็นความผิดภายใต้ Tourism Industry Act 1992 ซึ่ง MOTAC บังคับใช้อย่างจริงจังผ่านการตรวจสอบ เมื่อถูกตัดสินว่ามีความผิด โทษคือปรับสูงถึง RM500,000 หรือจำคุกสูงถึง 10 ปี หรือทั้งสองอย่าง MOTAC ยังสามารถฟ้องร้อง ระงับ หรือเพิกถอนใบอนุญาตสำหรับการฝ่าฝืนอื่น ๆ ของพระราชบัญญัติและระเบียบ"
 
 lang: "th"
+sourceContentHash: "267a25e0a7a19ed2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

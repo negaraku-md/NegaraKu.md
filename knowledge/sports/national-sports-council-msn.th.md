@@ -27,8 +27,9 @@ faq:
   - q: "MSN ตั้งอยู่ที่ไหน?"
     a: "ที่คอมเพล็กซ์กีฬาแห่งชาติ (Kompleks Sukan Negara) บูกิตจาลิล 57000 Sri Petaling กัวลาลัมเปอร์ ยังดำเนินคอมเพล็กซ์การฝึกในอีกหลายรัฐ"
 lang: "th"
+sourceContentHash: "d519f370c717d10a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

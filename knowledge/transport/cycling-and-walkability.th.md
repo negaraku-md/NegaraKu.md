@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้อยู่อาศัย นักวางผัง และผู้ที่เปรียบเทียบความสามารถในการเดินและโครงสร้างพื้นฐานการปั่นจักรยานของเมืองในมาเลเซียกับประเทศอื่น"
 
 lang: "th"
+sourceContentHash: "3d0d276aec4c1fe4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

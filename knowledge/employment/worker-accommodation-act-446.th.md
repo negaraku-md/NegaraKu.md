@@ -62,8 +62,9 @@ obligations:
     consequence: "โทษทั่วไปภายใต้มาตรา 33 — ปรับสูงสุด RM50,000 บวกสูงสุด RM1,000 สำหรับแต่ละวันที่ความผิดดำเนินต่อ"
 
 lang: "th"
+sourceContentHash: "8cdaa2fd9d045eb3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

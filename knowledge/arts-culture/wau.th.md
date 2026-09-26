@@ -35,8 +35,9 @@ verificationNeeded:
   - "รายการ 'วาวประจำชาติ' ที่มักเชื่อมโยงกับ Majlis Pelayang Malaysia (วาวบูลัน วาวกูจิง วาวจาลาบูดี) — ไม่พบสิ่งพิมพ์ทางการ"
 
 lang: "th"
+sourceContentHash: "dca70ac2ef9b33e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

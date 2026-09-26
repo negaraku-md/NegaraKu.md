@@ -29,8 +29,9 @@ faq:
     a: "การดูแลแบบประคับประคองให้ความสำคัญกับความสบายและการควบคุมอาการสำหรับผู้ป่วยที่มีโรคซึ่งจำกัดอายุ ไม่ว่าอายุเท่าใด แม้กระทั่งเด็ก ส่วนการดูแลผู้สูงอายุเป็นการดูแลทั่วไปสำหรับผู้สูงอายุที่อาจไม่ได้เป็นโรคระยะสุดท้าย"
 
 lang: "th"
+sourceContentHash: "ff994cbda9925abc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

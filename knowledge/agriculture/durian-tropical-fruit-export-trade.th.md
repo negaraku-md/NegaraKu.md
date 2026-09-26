@@ -32,8 +32,9 @@ faq:
     a: "ตามคำตอบในรัฐสภา มาเลเซียส่งออกทุเรียน 115,359 ตัน มูลค่า RM6.37 พันล้าน สู่จีนในช่วงปี 2018 ถึงกลางปี 2025 การส่งออกทุเรียนสดทั้งลูกแตะ 773 ตัน (เกือบ RM50 ล้าน) เฉพาะในครึ่งแรกของปี 2025 เพียงช่วงเดียว"
 
 lang: "th"
+sourceContentHash: "31afd040d92018fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

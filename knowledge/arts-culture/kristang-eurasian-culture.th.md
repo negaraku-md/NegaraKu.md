@@ -32,8 +32,9 @@ faq:
     a: "อินตรูดู (Intrudu) คือเทศกาลสาดน้ำประจำปีของชุมชนโปรตุเกสมะละกาในวันอาทิตย์ก่อนวันพุธรับเถ้า (จุดเริ่มต้นของเทศกาลมหาพรต) ผู้อยู่อาศัยและผู้มาเยือนสาดน้ำใส่กันตลอดหมู่บ้านโปรตุเกส และงานฉลองมีการรำบรันโยประกอบ"
 
 lang: "th"
+sourceContentHash: "6be0336bb559138c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

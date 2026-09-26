@@ -33,8 +33,9 @@ faq:
     a: "GEAR-uP (Government-linked Enterprises Activation and Reform Programme) เป็นโครงการที่นำโดยกระทรวงการคลังที่เปิดตัวในปี 2024 มันประสาน GLIC หกแห่งเพื่อปลดล็อกการลงทุนโดยตรงในประเทศ RM120 พันล้านภายในห้าปีเพื่อขับเคลื่อนภาคที่มีความสำคัญเช่นเซมิคอนดักเตอร์และการเปลี่ยนผ่านด้านพลังงาน"
 
 lang: "th"
+sourceContentHash: "46bcda576b948208"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

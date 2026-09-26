@@ -33,8 +33,9 @@ faq:
     a: "ไม่ e-WHT เปลี่ยนเพียงวิธีที่คุณยื่นและชำระ — อัตราไม่เปลี่ยนแปลงและยังมาจาก Part V ของ Schedule 1 อ่านร่วมกับมาตราการเก็บภาษี (เช่น ค่าสิทธิ 10 เปอร์เซ็นต์และดอกเบี้ย 15 เปอร์เซ็นต์ตาม section 109, 10 เปอร์เซ็นต์สำหรับประเภทพิเศษตาม section 109B) ดูคู่มือแยกเรื่องอัตราภาษีหัก ณ ที่จ่ายตามประเภทการจ่ายสำหรับตารางเต็ม"
 
 lang: "th"
+sourceContentHash: "d5f0f2295ae24e78"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

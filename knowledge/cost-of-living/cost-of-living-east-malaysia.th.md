@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังย้ายไปหรือจัดงบประมาณสำหรับซาบาห์หรือซาราวัก เปรียบเทียบราคามาเลเซียตะวันออกกับคาบสมุทรมาเลเซีย หรือศึกษาว่าทำไมสินค้าเดียวกันจึงมีป้ายราคาแตกต่างกันในสองฟากของทะเลจีนใต้"
 
 lang: "th"
+sourceContentHash: "327dd8ebe6d5d915"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

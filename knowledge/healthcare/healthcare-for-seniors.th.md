@@ -21,8 +21,9 @@ appliesTo: "บุตรที่เป็นผู้ใหญ่และส�
 verificationNeeded:
   - "บทความนี้ไม่ได้ระบุค่าธรรมเนียมบ้านพักคนชราเอกชน ความจุเตียง หรือระยะเวลารายการรอสำหรับ Rumah Seri Kenangan เนื่องจากสิ่งเหล่านี้เปลี่ยนบ่อยและไม่ได้รับการยืนยันจากแหล่งข้อมูลทางการ ณ ขณะเขียน — ยืนยันค่าธรรมเนียมและความพร้อมปัจจุบันโดยตรงกับผู้ดำเนินการหรือสำนักงานสวัสดิการสังคมระดับอำเภอ (Jabatan Kebajikan Masyarakat Daerah)"
 lang: "th"
+sourceContentHash: "7ae419cbd6a2d437"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

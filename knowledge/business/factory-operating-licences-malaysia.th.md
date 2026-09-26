@@ -33,8 +33,9 @@ faq:
     a: "ขึ้นอยู่กับกิจกรรม ภายใต้ Environmental Quality Act 1974 โครงการอุตสาหกรรมหนักหรือขนาดใหญ่ที่ระบุใน Environmental Quality (Prescribed Activities) (Environmental Impact Assessment) Order 2015 ต้องมี EIA ที่ได้รับอนุมัติก่อนที่โครงการจะดำเนินต่อไป บางอุตสาหกรรม — น้ำมันปาล์มดิบ ยางธรรมชาติดิบ สิ่งอำนวยความสะดวกกากของเสียที่กำหนด — เป็น 'สถานประกอบการที่กำหนด' ที่ต้องการอนุญาตเป็นลายลักษณ์อักษรจาก DOE ในการก่อสร้างและใบอนุญาตในการดำเนินการ โรงงานธรรมดาที่ปล่อยน้ำเสียหรือปล่อยมลพิษทางอากาศยังต้องปฏิบัติตามกฎน้ำเสียและอากาศสะอาดของ DOE ยืนยันสถานะของกิจกรรมของคุณกับ DOE ก่อนสร้าง"
 
 lang: "th"
+sourceContentHash: "b9703e6c709c9e9a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

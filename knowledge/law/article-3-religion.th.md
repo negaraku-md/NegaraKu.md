@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการตัวบทรัฐธรรมนูญที่แน่ชัดเกี่ยวกับศาสนา — นักศึกษา นักวิจัย และผู้อ่านที่พบการถอดความมาตรา 3 และมาตรา 11 อยู่เสมอและต้องการตัวบทบัญญัติเอง ที่อ้างจากฉบับพิมพ์ซ้ำทางการ"
 
 lang: "th"
+sourceContentHash: "e8ee51ffbb017879"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

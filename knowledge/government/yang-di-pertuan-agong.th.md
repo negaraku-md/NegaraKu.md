@@ -37,8 +37,9 @@ verificationNeeded:
   - "ยืนยันลำดับการเลือกที่มีผลบังคับใช้ในปัจจุบันเทียบกับประกาศทางการของผู้เก็บรักษาพระราชลัญจกรของบรรดาราชา (Penyimpan Mohor Besar Raja-Raja)"
 
 lang: "th"
+sourceContentHash: "acdf97d3f8926008"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

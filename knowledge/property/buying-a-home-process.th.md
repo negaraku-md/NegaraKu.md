@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "พลเมืองมาเลเซีย ผู้มีถิ่นที่อยู่ถาวร ผู้ซื้อบ้านครั้งแรก และผู้ซื้อชาวต่างชาติ (ภายใต้ข้อจำกัดและอัตราอากรเพิ่มเติม)"
 
 lang: "th"
+sourceContentHash: "819188850c359d23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

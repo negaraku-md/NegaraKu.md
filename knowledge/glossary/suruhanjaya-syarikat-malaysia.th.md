@@ -38,8 +38,9 @@ faq:
     a: "SSM บริหารและบังคับใช้กฎเหล่านั้น แต่กฎมีที่มาจากตัวบทกฎหมาย รายงานประจำปีกำหนดภายใต้พระราชบัญญัติบริษัท (Companies Act 2016) และแนวคิดเรื่องทุนชำระแล้วมาจากพระราชบัญญัติฉบับเดียวกัน SSM รับการยื่นเอกสาร ออกแนวปฏิบัติ (Practice Directives) เกี่ยวกับขั้นตอนและบทลงโทษ และดำเนินการบังคับใช้กับผู้ที่ผิดนัด"
 
 lang: "th"
+sourceContentHash: "48b70b131a01ea95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

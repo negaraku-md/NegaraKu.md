@@ -35,8 +35,9 @@ obligations:
     consequence: "การดำเนินการเรียกคืนภายใต้ s.106(1) และการไม่อนุญาตหักรายจ่ายอย่างต่อเนื่องภายใต้ s.39"
 
 lang: "th"
+sourceContentHash: "c4d7fc178919f95f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

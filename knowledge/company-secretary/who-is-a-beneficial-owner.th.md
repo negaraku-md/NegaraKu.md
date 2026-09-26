@@ -38,8 +38,9 @@ verificationNeeded:
   - "ว่าบริษัททรัสต์ที่จดทะเบียนภายใต้ Trust Companies Act 1949 จำเป็นต้องเป็นบริษัทมหาชนที่อยู่ภายใต้กรอบเจ้าของผู้รับผลประโยชน์เต็มรูปแบบหรือไม่ — มีการอ้างในบทวิจารณ์บางฉบับแต่ไม่ได้ผูกกับบทบัญญัติของพระราชบัญญัติดังกล่าว"
 
 lang: "th"
+sourceContentHash: "d098cf8ee96defb7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

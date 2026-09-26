@@ -32,8 +32,9 @@ seoTitle: "ภรตนาฏยัมในมาเลเซีย: อธิ�
 socialTitle: "นาฏศิลป์คลาสสิกของอินเดียใต้หยั่งรากในมาเลเซียอย่างไร"
 
 lang: "th"
+sourceContentHash: "f61cd4f8304d521c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

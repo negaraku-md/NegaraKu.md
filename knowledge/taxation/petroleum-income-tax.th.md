@@ -28,8 +28,9 @@ faq:
     a: "การยกเว้นเงินได้ที่ต้องเสียภาษีส่วนหนึ่งลดอัตราภาษีเงินได้ปิโตรเลียมที่แท้จริงสำหรับแหล่งชายขอบที่มีคุณสมบัติจาก 38% เหลือประมาณ 25%"
 
 lang: "th"
+sourceContentHash: "e3d164ca38c307ff"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

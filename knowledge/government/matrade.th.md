@@ -26,8 +26,9 @@ verificationNeeded:
   - "ตัวเลข 47 สำนักงานในต่างประเทศได้รับการยืนยันจากรายงานข่าวปี 2026 สองฉบับที่ลงวันที่แยกกันและอ้างประธานและประธานเจ้าหน้าที่บริหารของ MATRADE เอง แต่ยังไม่ได้ตรวจสอบไขว้กับหน้าสารบบสำนักงานที่ MATRADE จัดทำ ซึ่งความพยายามในการดึงข้อมูลของบทความนี้ไม่สามารถดึงมาได้อย่างครบถ้วน"
 
 lang: "th"
+sourceContentHash: "53582e357950bce0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -57,8 +57,9 @@ obligations:
     consequence: "คำสั่งวินิจฉัยยังคงอยู่ ขึ้นอยู่กับการขยายเวลาที่ศาลสูงอนุญาตภายใต้วรรค 34(7) เท่านั้น"
 
 lang: "th"
+sourceContentHash: "d2e991c87917fcac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

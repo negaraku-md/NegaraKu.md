@@ -31,8 +31,9 @@ faq:
     a: "ความช่วยเหลืออุปกรณ์สนับสนุน/อุปกรณ์เทียม (BAT) ภายใต้ JKM ครอบคลุมรถเข็นแบบใช้มือหรือไฟฟ้า ขาและแขนเทียม เครื่องช่วยฟัง ไม้เท้าขาว และเครื่องอักษรเบรลล์ ตามราคาจริงของอุปกรณ์ที่กำหนด"
 
 lang: "th"
+sourceContentHash: "eb1c377cbf19305d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่พยายามเข้าใจว่าเหตุใดสภาพอากาศและความเสี่ยงน้ำท่วมของมาเลเซียจึงเปลี่ยนไปตามฤดูกาล คือ ผู้อยู่อาศัยในพื้นที่ชายฝั่ง นักท่องเที่ยว นักวางแผนภัยพิบัติ นักเรียนภูมิศาสตร์ และผู้ที่ตรวจสอบคำเตือนสภาพอากาศของ MetMalaysia"
 
 lang: "th"
+sourceContentHash: "d977d1d40dd0956b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

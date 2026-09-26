@@ -29,8 +29,9 @@ faq:
     a: "ใบอนุญาตไม้ซุงและสัญญาเช่าสวนที่ออกโดยรัฐสามารถครอบคลุมพื้นที่ที่ชุมชนอ้างว่าเป็นที่ดินตามจารีตประเพณี เมื่อคู่กรณีไม่เห็นพ้องกันว่าพื้นที่หนึ่งเป็นที่ดิน NCR หรือไม่ ข้อพิพาทมักถูกตัดสินในศาล"
 
 lang: "th"
+sourceContentHash: "73a645ecf7076b5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

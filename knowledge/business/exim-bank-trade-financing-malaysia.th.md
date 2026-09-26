@@ -29,8 +29,9 @@ faq:
     a: "Bank Negara Malaysia กำกับมันในฐานะสถาบันการเงินเพื่อการพัฒนาที่กำหนดภายใต้ Development Financial Institutions Act 2002"
 
 lang: "th"
+sourceContentHash: "05f6bb75d143a12e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

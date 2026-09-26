@@ -36,8 +36,9 @@ faq:
     a: "ในดัชนีความมั่นคงปลอดภัยไซเบอร์โลกของ ITU 2020 (GCIv4) มาเลเซียได้คะแนน 98.06 และอยู่อันดับห้าร่วมของโลก ในฉบับปี 2024 ซึ่งใช้แบบจำลองห้าระดับ มาเลเซียถูกจัดอยู่ในระดับสูงสุด 'role-modelling'"
 
 lang: "th"
+sourceContentHash: "7722bdc160f9e488"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

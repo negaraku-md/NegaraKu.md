@@ -38,8 +38,9 @@ verificationNeeded:
   - "ยืนยันว่าตัวแปร DE Rantau Sarawak มีเกณฑ์รายได้หรือระยะเวลาต่างจาก DE Rantau Nomad Pass ระดับสหพันธรัฐหรือไม่"
 
 lang: "th"
+sourceContentHash: "1cf0d4000ca23029"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

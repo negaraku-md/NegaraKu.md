@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ย้ายมามาเลเซียพร้อมสุนัขหรือแมว หรือนำเข้ามาด้วยวัตถุประสงค์อื่นใด ซึ่งต้องวางแผนกระบวนการใบอนุญาตและการกักกันก่อนออกเดินทาง"
 
 lang: "th"
+sourceContentHash: "10bc44ecb02ea814"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่พยายามเข้าใจการแบ่งเขตปกครองของมาเลเซียและเหตุใดกัวลาลัมเปอร์จึงไม่ใช่รัฐ"
 
 lang: "th"
+sourceContentHash: "451b4e1d1dcd4be4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

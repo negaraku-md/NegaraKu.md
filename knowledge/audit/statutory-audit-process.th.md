@@ -42,8 +42,9 @@ verificationNeeded:
   - "ยืนยันว่า MIA ได้นำ ISA สำหรับกิจการที่ซับซ้อนน้อยมาใช้หรือไม่ ซึ่ง IAASB ทำให้มีผลบังคับสำหรับรอบระยะเวลาที่เริ่มต้นในหรือหลังวันที่ 15 ธันวาคม 2025 — ไม่สามารถยืนยันการตัดสินใจนำมาใช้ของมาเลเซียได้"
 
 lang: "th"
+sourceContentHash: "35fbbbda43a0bf04"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

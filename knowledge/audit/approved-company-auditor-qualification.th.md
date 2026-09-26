@@ -34,8 +34,9 @@ faq:
     a: "หากการอนุมัติหมดอายุและไม่ได้เปิดใช้ใหม่ภายในหนึ่งปี ผู้ยื่นต้องยื่นคำขอใหม่และเข้ารับการสัมภาษณ์อีกครั้ง"
 
 lang: "th"
+sourceContentHash: "e81ff5426724af5a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

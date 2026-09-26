@@ -32,8 +32,9 @@ faq:
     a: "ยังดีเปอร์ตวนอากงแต่งตั้งอัยการสูงสุดตามคำแนะนำของนายกรัฐมนตรี ผู้ได้รับการเสนอชื่อต้องเป็นผู้ที่มีคุณสมบัติเป็นผู้พิพากษาศาลสหพันธรัฐ"
 
 lang: "th"
+sourceContentHash: "8a9cf47766823c46"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

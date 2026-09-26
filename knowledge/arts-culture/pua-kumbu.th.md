@@ -34,8 +34,9 @@ faq:
     a: "ใช้ในพิธีกรรมช่วงเปลี่ยนผ่านของชีวิตตั้งแต่การเกิดจนถึงการตาย ในพิธีศักดิ์สิทธิ์และการรักษาโรค ตลอดจนตามธรรมเนียมผูกพันกับประเพณีนักรบอีบัน ลวดลายของมันยังถูกทอเป็นผ้าโสร่งของหญิง ผ้าเตี่ยวของชาย และเสื้อคลุมของหมอผี (pawang)"
 
 lang: "th"
+sourceContentHash: "1d30a78fcc6cce68"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

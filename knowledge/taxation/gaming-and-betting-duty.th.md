@@ -29,8 +29,9 @@ faq:
     a: "สำหรับการพนัน Sports Toto RM2 หัก 8% (16 sen) เป็นภาษีการพนันและอีก 8% (14.72 sen) เป็นอากรการพนันแบบพูล; ประมาณ 55% (RM1.10) จัดสรรเป็นเงินรางวัล"
 
 lang: "th"
+sourceContentHash: "156aadc5edee33a0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

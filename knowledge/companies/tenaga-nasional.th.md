@@ -30,8 +30,9 @@ faq:
     a: "TNB เป็นเจ้าของและดำเนินการเครือข่ายกริดแห่งชาติที่ต้องได้รับการยกระดับเพื่อรองรับพลังงานหมุนเวียน สอดคล้องกับเป้าหมายของแผนที่การเปลี่ยนผ่านพลังงานแห่งชาติ (NETR)"
 
 lang: "th"
+sourceContentHash: "12e743d05ab159ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

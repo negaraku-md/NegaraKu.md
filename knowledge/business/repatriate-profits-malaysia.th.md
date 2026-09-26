@@ -27,8 +27,9 @@ verificationNeeded:
   - "ยืนยันว่าความตกลงเพื่อการเว้นการเก็บภาษีซ้อนที่ใช้บังคับเปลี่ยนสถานะของผู้ถือหุ้นบุคคลที่ไม่มีถิ่นที่อยู่ภายใต้ตารางแนบท้าย 1 ส่วน XXII หรือไม่ — ไม่พบการวินิจฉัยของ LHDN ในประเด็นนี้"
 
 lang: "th"
+sourceContentHash: "efeb2f7c70d05ed0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

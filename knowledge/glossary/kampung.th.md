@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจความหมายของ 'กัมปง' นอกเหนือจากความหมายตามตัวอักษร — รวมถึงนักวิจัย นักเขียน เจ้าหน้าที่ และผู้มาใหม่ที่ต้องติดต่อกับการปกครองระดับหมู่บ้าน"
 
 lang: "th"
+sourceContentHash: "179d1d79aa799fca"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

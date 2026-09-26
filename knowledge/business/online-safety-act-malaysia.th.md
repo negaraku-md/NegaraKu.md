@@ -58,8 +58,9 @@ obligations:
     consequence: "โทษปรับสูงสุด RM1 ล้านภายใต้ระเบียบ 5"
 
 lang: "th"
+sourceContentHash: "9ae3464820a97814"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

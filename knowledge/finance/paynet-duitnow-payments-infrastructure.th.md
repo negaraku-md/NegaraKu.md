@@ -29,8 +29,9 @@ faq:
     a: "ได้ DuitNow QR ทำงานร่วมกันได้ ดังนั้นรหัส QR เพียงรหัสเดียวของร้านค้าสามารถสแกนได้โดยธนาคารและอีวอลเล็ตต่าง ๆ เช่น Touch 'n Go eWallet, GrabPay และ Boost ตราบเท่าที่พวกเขาเข้าร่วม"
 
 lang: "th"
+sourceContentHash: "d327e61449ac93b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

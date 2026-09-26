@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ผู้เสียภาษีบุคคลธรรมดาที่จัดเตรียมการยื่นแบบ BE/B ประจำปีและตรวจสอบว่าตนสามารถขอการหักลดหย่อนใดได้"
 
 lang: "th"
+sourceContentHash: "3aaef5bbc4ffdb87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

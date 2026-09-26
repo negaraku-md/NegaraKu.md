@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "พลเมืองมาเลเซีย ผู้ปกครองที่จัดการลงทะเบียนให้บุตร และผู้ที่ต้องยืนยันตัวตนในมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "7c8af58484cf7ac0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

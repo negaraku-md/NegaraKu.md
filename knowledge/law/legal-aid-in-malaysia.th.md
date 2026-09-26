@@ -29,8 +29,9 @@ faq:
     a: "JBG จัดการคดีแพ่ง ครอบครัว ชะรีอะฮ์ และคดีอาญาบางประเภท ขณะที่ YBGK มุ่งเน้นความช่วยเหลือทางกฎหมายฟรีสำหรับคดีอาญา รวมถึงในชั้นการจับกุมและการควบคุมตัวเพื่อสอบสวน"
 
 lang: "th"
+sourceContentHash: "91d7cfe993126653"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

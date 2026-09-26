@@ -37,8 +37,9 @@ verificationNeeded:
   - "ยืนยันว่ากิจการจดทะเบียนถูกนิยามอย่างไรสำหรับวัตถุประสงค์ของมาเลเซียในตลาดหลัก (Main Market) ตลาด ACE และตลาด LEAP ของ Bursa Malaysia และผู้ออกหลักทรัพย์ในตลาด LEAP อยู่ในข้อกำหนด ISA 701 หรือไม่"
 
 lang: "th"
+sourceContentHash: "573f87ce15adf16f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

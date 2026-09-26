@@ -31,8 +31,9 @@ faq:
     a: "ใช่ พจนานุกรมภาษาอังกฤษออกซ์ฟอร์ดได้เพิ่มคำภาษาอังกฤษมาเลเซียหลายคำในการปรับปรุงหลายครั้ง รวมถึง lepak, shiok และ teh tarik ในปี 2016 คำแมงกลิชและคำอาหารมาเลเซียหลายคำ รวมถึง mamak, kopitiam และ atas ในปีเดียวกันนั้น และคำอย่าง boleh, agak-agak และ wayang ในการปรับปรุงครั้งต่อมา — เป็นการยอมรับการใช้แบบมาเลเซียที่มีมาแต่เดิม ไม่ใช่การประดิษฐ์ภาษาอังกฤษขึ้นใหม่"
 
 lang: "th"
+sourceContentHash: "8f82ee70d6e9258e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

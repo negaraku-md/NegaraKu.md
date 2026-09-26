@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ลูกจ้างที่กำลังชั่งน้ำหนักความคุ้มครองการแพทย์ของนายจ้างกับบัตรการแพทย์ส่วนบุคคล และผู้ที่พยายามเข้าใจว่า 'การร่วมจ่าย' หมายถึงอะไรก่อนซื้อหรือต่ออายุกรมธรรม์"
 
 lang: "th"
+sourceContentHash: "5d9b4b2567c4315f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

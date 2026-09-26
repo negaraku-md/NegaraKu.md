@@ -32,8 +32,9 @@ faq:
     a: "RENTAS (Real-Time Electronic Transfer of Funds and Securities) เป็นระบบการชำระราคาแบบรายธุรกรรมทันที (real-time gross settlement) ของธนาคารกลางมาเลเซีย (Bank Negara Malaysia) พันธบัตรรัฐบาลชำระราคาผ่านระบบนี้บนพื้นฐานการส่งมอบพร้อมชำระเงิน (delivery-versus-payment) ดังนั้นเงินสดและหลักทรัพย์จึงเปลี่ยนมือพร้อมกัน"
 
 lang: "th"
+sourceContentHash: "9da4da3090cd0bd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

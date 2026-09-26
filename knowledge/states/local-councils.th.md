@@ -34,8 +34,9 @@ faq:
     a: "สภาท้องถิ่นที่มาจากการเลือกตั้งดำเนินการภายใต้ Local Government Elections Act 1960 และกฎหมายก่อนหน้า การเลือกตั้งถูกระงับเมื่อวันที่ 1 มีนาคม 1965 โดยกฎระเบียบฉุกเฉินระหว่างการเผชิญหน้า (Konfrontasi) กับอินโดนีเซีย สมาชิกสภาที่ดำรงตำแหน่งอยู่ยังคงอยู่ในตำแหน่งจนกระทั่ง Local Government (Temporary Provisions) Act 1973 [Act 124] ยุติวาระของพวกเขาและแทนที่ด้วยคณะกรรมการบริหารที่ได้รับการแต่งตั้ง และ Local Government Act 1976 [Act 171] จึงสถาปนาระบบแต่งตั้งถาวร"
 
 lang: "th"
+sourceContentHash: "d540aa978984383a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -52,8 +52,9 @@ obligations:
     consequence: "การไม่ปฏิบัติตามเป็นความผิดภายใต้บทบัญญัติการเลิกกิจการ"
 
 lang: "th"
+sourceContentHash: "7c0a23216627e7ee"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

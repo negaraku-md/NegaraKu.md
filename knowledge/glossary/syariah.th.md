@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจความหมายของคำว่า 'ชะรีอะฮ์' ในกฎหมายมาเลเซียและเหตุใดเขตอำนาจของศาลชะรีอะฮ์จึงแตกต่างกันไปในแต่ละรัฐ"
 
 lang: "th"
+sourceContentHash: "2bb646d77c8ab722"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

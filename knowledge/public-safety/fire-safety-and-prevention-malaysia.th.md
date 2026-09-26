@@ -32,8 +32,9 @@ faq:
     a: "ปัญหาเกี่ยวกับไฟฟ้าเป็นหนึ่งในสาเหตุสูงสุดของเพลิงไหม้ในที่พักอาศัย — การเดินสายไฟที่ชำรุด ปลั๊กที่รับภาระเกิน และสายพ่วงที่เสื่อมสภาพ กิจกรรมการทำอาหารที่ปล่อยทิ้งไว้โดยไม่มีการเฝ้าระวังและการรั่วไหลของแก๊ส LPG ก็เป็นปัจจัยหลักด้วย"
 
 lang: "th"
+sourceContentHash: "9ccf45c843ab8ebf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

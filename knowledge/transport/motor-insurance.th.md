@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "เจ้าของและผู้ขับขี่ยานยนต์ในมาเลเซีย — รถยนต์ รถจักรยานยนต์ และยานพาหนะเชิงพาณิชย์ — ที่ต้องการเข้าใจประเภทความคุ้มครองประกันภัยและข้อกำหนดทางกฎหมาย"
 
 lang: "th"
+sourceContentHash: "d879ba5dcb3bf1ff"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

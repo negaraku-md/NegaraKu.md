@@ -34,8 +34,9 @@ faq:
     a: "JPJ จะไม่ต่ออายุภาษีถนนของยานพาหนะเชิงพาณิชย์หากไม่มีรายงานการตรวจสภาพที่ถูกต้อง และยานพาหนะที่ใช้งานโดยไม่มีการตรวจสภาพอาจถูกปรับหรือถูกออกใบสั่งโดย JPJ"
 
 lang: "th"
+sourceContentHash: "6dfb76a4e260e0c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

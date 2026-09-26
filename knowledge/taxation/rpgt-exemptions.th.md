@@ -34,8 +34,9 @@ verificationNeeded:
   - "ยังไม่ได้ยืนยันสถานะปัจจุบันของแบบ CKHT 502 ในฐานะเส้นทางการชำระเงินของผู้ได้มาเทียบกับหน้าขั้นตอนการชำระเงินของ LHDN และอาจถูกแทนที่ด้วยสลิปยืนยัน e-CKHT"
 
 lang: "th"
+sourceContentHash: "6666571281397324"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

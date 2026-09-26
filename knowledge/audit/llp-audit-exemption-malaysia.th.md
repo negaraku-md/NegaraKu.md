@@ -29,8 +29,9 @@ faq:
     a: "ไม่น้อยกว่าเจ็ดปีนับจากสิ้นปีบัญชีที่เกี่ยวข้องกับรายการค้านั้น (มาตรา 69(2))"
 
 lang: "th"
+sourceContentHash: "6c21f7bda1b829f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

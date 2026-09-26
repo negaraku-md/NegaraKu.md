@@ -45,8 +45,9 @@ obligations:
     consequence: "โทษปรับสูงสุดสามเท่าของภาษีตาม s.29(3) และเงินเพิ่ม 10% ต่อผู้ได้มาตาม s.21B(2)"
 
 lang: "th"
+sourceContentHash: "00945edeadfe77b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

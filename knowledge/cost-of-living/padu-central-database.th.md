@@ -29,8 +29,9 @@ faq:
     a: "ไม่ ตามข้อมูลของรัฐบาล การเก็บข้อมูลของ PADU ไม่เกี่ยวข้องกับระบบข้อมูลธนาคารเนื่องจากข้อจำกัดทางกฎหมาย"
 
 lang: "th"
+sourceContentHash: "47282ce02fd5a43d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

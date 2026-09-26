@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "ครัวเรือนในมาเลเซียที่กำลังพิจารณาผู้ช่วยงานบ้านต่างชาติแบบอยู่ประจำ ผู้ช่วยงานพาร์ทไทม์ในท้องถิ่น หรือการดูแลอยู่ไฟ (พี่เลี้ยงหรือศูนย์) หลังคลอด"
 
 lang: "th"
+sourceContentHash: "1482c677a5d90d95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

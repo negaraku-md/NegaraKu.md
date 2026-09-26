@@ -25,8 +25,9 @@ faq:
   - q: "JTKSM ครอบคลุมทั่วมาเลเซียหรือไม่?"
     a: "ไม่ JTKSM ครอบคลุมคาบสมุทรมาเลเซีย ซาบาห์และซาราวักมีกรมแรงงานแยกต่างหากของตนเอง"
 lang: "th"
+sourceContentHash: "1575ce3d33c667d0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

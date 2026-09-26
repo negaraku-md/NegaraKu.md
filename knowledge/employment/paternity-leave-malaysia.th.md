@@ -28,8 +28,9 @@ verificationNeeded:
   - "ยืนยันว่าเงื่อนไขอายุงานสิบสองเดือนยอมให้มีการขาดช่วงในอายุงานหรือไม่ และอายุงานต่อเนื่องคำนวณอย่างไรสำหรับมาตรา 60FA"
 
 lang: "th"
+sourceContentHash: "97900bf02693ecc5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

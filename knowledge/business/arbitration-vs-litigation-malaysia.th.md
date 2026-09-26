@@ -40,8 +40,9 @@ verificationNeeded:
   - "ตรวจสอบตารางค่าธรรมเนียมและข้อกำหนดเงินมัดจำปัจจุบันของ AIAC โดยตรงกับ AIAC ก่อนให้คำแนะนำเรื่องต้นทุน"
 
 lang: "th"
+sourceContentHash: "8f87d032cb16f4b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

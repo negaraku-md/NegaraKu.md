@@ -29,8 +29,9 @@ faq:
     a: "ภายใต้ส่วนที่ VI หน่วยงานบังคับใช้กฎหมายอาจออกคำสั่งอายัด เจ้าพนักงานสืบสวนอาจยึดสังหาริมทรัพย์ระหว่างการสืบสวน และพนักงานอัยการมีอำนาจในการยึดและริบทรัพย์สินเพิ่มเติม"
 
 lang: "th"
+sourceContentHash: "03583a7602b0f6ef"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

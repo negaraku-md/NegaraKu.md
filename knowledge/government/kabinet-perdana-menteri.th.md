@@ -37,8 +37,9 @@ verificationNeeded:
   - "ยืนยันจำนวนสมาชิกคณะรัฐมนตรีและรายชื่อกระทรวงปัจจุบันกับสิ่งพิมพ์ทางการของสำนักนายกรัฐมนตรี — รัฐธรรมนูญไม่กำหนดจำนวนรัฐมนตรี"
 
 lang: "th"
+sourceContentHash: "0f9a6fea7774269c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

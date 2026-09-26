@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการคำอธิบายเชิงพรรณนาทีละอนุมาตราเกี่ยวกับสิ่งที่มาตรา 153 บัญญัติและสิ่งที่ยกเว้น โดยไม่ตัดสินการถกเถียงทางการเมืองรอบตัวมัน"
 
 lang: "th"
+sourceContentHash: "db5076f747cd8ba7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

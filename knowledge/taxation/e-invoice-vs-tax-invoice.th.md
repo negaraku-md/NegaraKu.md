@@ -26,8 +26,9 @@ verificationNeeded:
   - "RMCD ได้ออกคู่มือเฉพาะที่ประนอม visual representation ของ e-Invoice กับรายละเอียดใบกำกับภาษี SST หรือไม่ — ไม่พบบน mysst.customs.gov.my"
 
 lang: "th"
+sourceContentHash: "cf809540c51ed69e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

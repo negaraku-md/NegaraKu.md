@@ -45,8 +45,9 @@ verificationNeeded:
   - "ตัวเลขที่แพร่หลายอย่างกว้างขวางว่าปีนังส่งออก RM435 พันล้าน หรือ 31 เปอร์เซ็นต์ของทั้งประเทศ ไม่สามารถเชื่อมโยงกับหน้าเว็บทางการใด ๆ ได้"
 
 lang: "th"
+sourceContentHash: "6475dc27ed25022d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

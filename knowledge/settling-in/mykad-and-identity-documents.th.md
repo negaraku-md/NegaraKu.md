@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "พลเมืองมาเลเซียที่ไม่แน่ใจว่าต้องมีบัตรใดในช่วงอายุที่แตกต่างกัน ผู้มีถิ่นที่อยู่ถาวรที่เพิ่งได้รับอนุมัติใบอนุญาตเข้าเมือง และชาวต่างชาติที่ต้องการทราบว่าจะถือบัตร JPN ใดหรือไม่"
 
 lang: "th"
+sourceContentHash: "873639e4a7149ab4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

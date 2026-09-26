@@ -29,8 +29,9 @@ faq:
     a: "พระราชบัญญัติตลาดทุนและบริการ 2007 (Act 671) ซึ่งเริ่มมีผลบังคับใช้เมื่อ 28 กันยายน 2007 กำกับกิจกรรมตลาดทุน ตลาด และตัวกลางที่ได้รับใบอนุญาต"
 
 lang: "th"
+sourceContentHash: "d90c41e40d0daaa1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

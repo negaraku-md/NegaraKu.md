@@ -62,8 +62,9 @@ obligations:
     consequence: "การเปลี่ยนแปลงในการจัดสรรอาจกระทบต่อคุณสมบัติของผู้ถือ pass"
 
 lang: "th"
+sourceContentHash: "55c7c72a565b9b9a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

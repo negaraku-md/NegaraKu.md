@@ -29,8 +29,9 @@ faq:
     a: "ได้ในบางสถานการณ์ มาตรา 26(2) อนุญาตให้รัฐบาลสหพันธ์ถอนสัญชาติของสตรีที่จดทะเบียนภายใต้มาตรา 15(1) หากการสมรสที่เป็นพื้นฐานของการจดทะเบียนนั้นสิ้นสุดลง (นอกจากด้วยการตาย) ภายในสองปีนับจากวันที่สมรส"
 
 lang: "th"
+sourceContentHash: "28365cf20f843051"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

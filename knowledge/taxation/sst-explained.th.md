@@ -24,8 +24,9 @@ appliesTo: "เจ้าของธุรกิจและพนักงา�
 verificationNeeded: []
 
 lang: "th"
+sourceContentHash: "0ee2d291cdce3d2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

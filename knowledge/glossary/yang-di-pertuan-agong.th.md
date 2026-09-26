@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "นักเรียนนักศึกษา นักวิจัย นักข่าว และผู้ที่ต้องการเข้าใจในเชิงพรรณนาถึงสถานะทางรัฐธรรมนูญของยังดีเปอร์ตวนอากงตลอดจนกลไกการเลือกโดยสภาราชา"
 
 lang: "th"
+sourceContentHash: "b3f6c2ddc1104e50"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

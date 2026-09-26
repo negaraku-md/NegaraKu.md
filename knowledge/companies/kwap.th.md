@@ -29,8 +29,9 @@ faq:
     a: "RM185.6 พันล้าน ณ วันที่ 31 ธันวาคม 2024 เพิ่มขึ้นจาก RM169.8 พันล้าน (2023) และ RM158.1 พันล้าน (2022)"
 
 lang: "th"
+sourceContentHash: "4489ae23d6537356"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

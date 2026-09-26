@@ -31,8 +31,9 @@ faq:
     a: "CIMB อธิบายตัวเองว่าเป็นกลุ่มที่มุ่งเน้นอาเซียนที่ดำเนินงานทั่วตลาดรวมถึงมาเลเซีย อินโดนีเซีย สิงคโปร์ และไทย RHB ดำเนินงานในเจ็ดตลาดในภูมิภาค Maybank ครอบคลุมสามตลาดบ้านเกิด ได้แก่ มาเลเซีย สิงคโปร์ และอินโดนีเซีย บวกกับการดำเนินงานทั่วอาเซียนและศูนย์กลางการเงินสำคัญของโลก"
 
 lang: "th"
+sourceContentHash: "81a33a10e5b5e6c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

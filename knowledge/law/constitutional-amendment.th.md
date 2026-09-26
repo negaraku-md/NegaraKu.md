@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการทราบทีละบทบัญญัติว่าในรัฐสภาต้องใช้อะไรจริงในการเปลี่ยนแปลงส่วนใดส่วนหนึ่งของรัฐธรรมนูญสหพันธรัฐ"
 
 lang: "th"
+sourceContentHash: "34255dffcbbb4b20"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

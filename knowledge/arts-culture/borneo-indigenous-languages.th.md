@@ -34,8 +34,9 @@ faq:
     a: "ใช่ บางภาษาสอน ภายใต้โครงการภาษาแม่ของนักเรียน (Pupil's Own Language, POL) ของกระทรวงศึกษาธิการ โดยปกติเป็นวิชาเลือก กาดาซันดูซุนสอนในโรงเรียนของรัฐในซาบาห์ตั้งแต่โครงการนำร่องที่เริ่มในปี 1997 และอีบันสอนในโรงเรียนของซาราวัก ความพร้อมขึ้นอยู่กับความต้องการและการมีจำนวนนักเรียนขั้นต่ำตามที่นโยบายกำหนด"
 
 lang: "th"
+sourceContentHash: "641d60c83d47ef35"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

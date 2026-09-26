@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการความเข้าใจในระดับภาพรวมเกี่ยวกับอุตสาหกรรมน้ำมันปาล์มของมาเลเซียและบทบาททางเศรษฐกิจของมัน"
 
 lang: "th"
+sourceContentHash: "15826b7bb2b208ce"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

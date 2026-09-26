@@ -31,8 +31,9 @@ faq:
     a: "ไม่ได้ การตกปลาต้องห้ามภายในแนวเขตอุทยานทางทะเล และผู้มาเยือนไม่สามารถเก็บส่วนใดของสิ่งมีชีวิตทางทะเล ไม่ว่ามีชีวิตหรือตายแล้ว รวมถึงชิ้นส่วนปะการังและเปลือกหอย ทั้งไม่สามารถแตะต้อง ยืนบน หรือทำลายปะการังด้วยประการอื่นใด"
 
 lang: "th"
+sourceContentHash: "99085634b2f91e6e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

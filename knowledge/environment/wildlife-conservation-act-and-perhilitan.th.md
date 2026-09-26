@@ -36,8 +36,9 @@ faq:
     a: "ไม่ มาตรา 2 ยกเว้นสัตว์ป่าที่อยู่ภายใต้บัญชี II ของตารางที่เก้าแห่งรัฐธรรมนูญสหพันธ์และภายใต้พระราชบัญญัติประมง ปี 1985 อย่างชัดแจ้ง ดังนั้นสัตว์ทะเลและชนิดประมงส่วนใหญ่จึงถูกกำกับที่อื่น"
 
 lang: "th"
+sourceContentHash: "657883a3e9a64208"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

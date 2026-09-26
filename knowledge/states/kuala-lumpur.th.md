@@ -33,8 +33,9 @@ verificationNeeded:
   - "ยืนยันตัวเลขประชากรของกัวลาลัมเปอร์และเกรตเทอร์กัวลาลัมเปอร์ และอันดับ GDP ต่อหัว กับข้อมูลฉบับล่าสุดของ DOSM ก่อนการเผยแพร่"
 
 lang: "th"
+sourceContentHash: "92f9b90511421d9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

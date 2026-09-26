@@ -56,8 +56,9 @@ obligations:
     consequence: "โทษปรับชำระล่าช้าที่เพิ่มขึ้นและการฟ้องร้อง"
 
 lang: "th"
+sourceContentHash: "d706192580f6eecf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

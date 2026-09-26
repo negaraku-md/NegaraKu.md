@@ -30,8 +30,9 @@ faq:
     a: "ต้องยื่นสำเนางบการเงินของบริษัทเอง แต่มาตรา 575(5) กำหนดเพิ่มเติมให้มีงบที่ตรวจสอบตามควรครอบคลุมสินทรัพย์ที่ใช้ในและหนี้สินที่เกิดจากการดำเนินงานในมาเลเซีย ที่แสดงมุมมองที่ถูกต้องและเป็นธรรมตามมาตรฐานการบัญชีที่ได้รับอนุมัติ"
 
 lang: "th"
+sourceContentHash: "857f2052ec7f627d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

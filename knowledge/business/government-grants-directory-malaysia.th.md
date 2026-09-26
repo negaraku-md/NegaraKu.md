@@ -33,8 +33,9 @@ faq:
     a: "เข้าไปที่เว็บไซต์ของหน่วยงานผู้ดำเนินการเอง ได้แก่ Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp แทนที่จะดูรายการสรุปจากบุคคลภายนอก ซึ่งมักคงรายการโครงการที่ปิดแล้วไว้ว่ายังเปิดรับ รัฐบาลยังจัดทำสารบบรวมไว้ที่พอร์ทัลแหล่งเงินทุนแห่งชาติ MyStartup ช่วงเวลาของเงินอุดหนุนเปลี่ยนแปลงพร้อมงบประมาณประจำปี จึงควรยืนยันสถานะปัจจุบันก่อนที่ท่านจะลงทุนเวลาในการยื่นคำขอ"
 
 lang: "th"
+sourceContentHash: "7466f2a7eef60107"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

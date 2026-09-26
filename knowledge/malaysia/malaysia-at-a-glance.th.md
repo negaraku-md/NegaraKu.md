@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการข้อเท็จจริงพื้นฐานของมาเลเซีย คือ ประชากร พื้นที่ เมืองหลวง สกุลเงิน ภาษา GDP โดยแต่ละตัวเลขอ้างอิงกับการเผยแพร่อย่างเป็นทางการเฉพาะที่เผยแพร่มัน มากกว่าบทสรุปที่ไม่มีแหล่งที่มา"
 
 lang: "th"
+sourceContentHash: "dc264630ca2e722e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

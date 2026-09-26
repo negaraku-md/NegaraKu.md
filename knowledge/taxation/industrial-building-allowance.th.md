@@ -40,8 +40,9 @@ faq:
 verificationNeeded:
   - "มีคำสั่งราชกิจจานุเบกษาใดที่กำหนดเศษส่วนอื่นนอกเหนือจากสามในร้อยสำหรับเงินหักลดหย่อนรายปีภายใต้ paragraph 16 ในปัจจุบันหรือไม่"
 lang: "th"
+sourceContentHash: "4788a314694d11fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

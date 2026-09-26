@@ -29,8 +29,9 @@ faq:
     a: "กองทุนการลงทุนของรัฐมาเลเซีย Permodalan Nasional Berhad (PNB) เป็นผู้ถือหุ้นรายใหญ่ในบริษัท Sime Darby และ PNB เป็นผู้ขายส่วนได้เสีย UMW ที่ Sime Darby Berhad เข้าซื้อ เปอร์เซ็นต์การถือหุ้นที่แน่นอนเปลี่ยนแปลงไปตามเวลาและควรตรวจสอบกับเอกสารยื่นต่อ Bursa Malaysia ล่าสุดของแต่ละบริษัท"
 
 lang: "th"
+sourceContentHash: "b6cfb2928f3fa4fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

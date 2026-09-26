@@ -32,8 +32,9 @@ faq:
     a: "ไม่ มาตรา 114(3) กำหนดว่ากรรมการ SPR ไม่สามารถถูกปลดจากตำแหน่งได้เว้นแต่ด้วยเหตุและตามวิธีเดียวกับผู้พิพากษาศาลสหพันธรัฐ ซึ่งเป็นการคุ้มครองที่มุ่งสนับสนุนความเป็นอิสระของคณะกรรมการ"
 
 lang: "th"
+sourceContentHash: "4ee6643ef314a576"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

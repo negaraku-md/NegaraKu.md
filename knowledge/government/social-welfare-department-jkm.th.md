@@ -28,8 +28,9 @@ faq:
   - q: "ฉันจะลงทะเบียนเป็นผู้พิการ (OKU) อย่างไร?"
     a: "พลเมืองมาเลเซียที่ได้รับการรับรองโดยผู้เชี่ยวชาญทางการแพทย์ของรัฐบาลยื่นแบบฟอร์มการจดทะเบียน BPPOKU (แก้ไข 2/2019) พร้อมรายงานการตรวจสอบทางการแพทย์และสำเนา MyKad (หรือสูติบัตรสำหรับผู้ยื่นคำขออายุต่ำกว่า 12 ปี) ทั้งที่เคาน์เตอร์ JKM หรือออนไลน์ผ่านพอร์ทัล MyDaftar OKU ผู้ยื่นคำขอที่สำเร็จได้รับบัตร OKU ที่แสดงหมวดความพิการของตน"
 lang: "th"
+sourceContentHash: "f9a688b158d9b46c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -36,8 +36,9 @@ faq:
     a: "นโยบายที่เปิดตัวโดยกระทรวงดิจิทัลในปี 2025 เพื่อทำให้มาเลเซียเป็นศูนย์กลางคลาวด์ระดับโลกภายในปี 2030 โดยยึดอธิปไตยของข้อมูล — หลักการที่ว่าข้อมูลที่สร้างในมาเลเซียถูกกำกับโดยกฎหมายมาเลเซีย — เคียงข้างคลาวด์ AI อธิปไตยที่วางแผนไว้"
 
 lang: "th"
+sourceContentHash: "16256b5ee4d19f22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

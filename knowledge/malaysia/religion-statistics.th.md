@@ -28,8 +28,9 @@ faq:
     a: "ตามการเผยแพร่เปิดตัว Key Findings ของ DOSM สลังงอร์บันทึกจำนวนชาวมุสลิม ชาวพุทธ และชาวฮินดูสูงสุดในบรรดารัฐของมาเลเซีย ในขณะที่ซาราวักบันทึกจำนวนชาวคริสต์สูงสุด การเผยแพร่ให้เพียงการจัดอันดับ ไม่ใช่การแบ่งระดับรัฐสำหรับแต่ละศาสนา"
 
 lang: "th"
+sourceContentHash: "9209ca0d039c5f34"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

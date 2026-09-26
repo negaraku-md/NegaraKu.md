@@ -64,8 +64,9 @@ obligations:
     consequence: "ปรับไม่เกิน RM50,000 และ RM500 ต่อวันสำหรับความผิดที่ยังดำเนินต่อเนื่อง"
 
 lang: "th"
+sourceContentHash: "38c8dd582de83b15"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

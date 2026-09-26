@@ -31,8 +31,9 @@ faq:
     a: "ตรวจสอบสถานะใบอนุญาตของบริษัทและพนักงานรักษาความปลอดภัยผ่านพอร์ทัลตรวจสอบ eSIMS ของ KDN ก่อนลงนามในสัญญา บริษัทที่ถูกต้องต้องมีใบอนุญาตหน่วยงานเอกชนที่ยังใช้งานอยู่"
 
 lang: "th"
+sourceContentHash: "7778a33b10205faf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

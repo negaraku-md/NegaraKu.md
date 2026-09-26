@@ -27,8 +27,9 @@ verificationNeeded:
   - "ตัวบทของมาตรา 66(5) ที่อ้างเป็นคำแปลภาษามลายูโดยสำนักงานอัยการสูงสุด โปรดตรวจสอบเทียบกับตัวบทภาษาอังกฤษที่ถือเป็นหลัก"
 
 lang: "th"
+sourceContentHash: "f029a1ff1ebfdbf1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

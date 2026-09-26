@@ -42,8 +42,9 @@ verificationNeeded:
   - "โปรดยืนยันระยะเวลาเก็บรักษาบันทึกตามพระราชบัญญัติภาษีขาย 2018 (Sales Tax Act 2018) และพระราชบัญญัติภาษีบริการ 2018 (Service Tax Act 2018) แยกต่างหากก่อนจะขยายการวิเคราะห์นี้ไปยังเอกสาร SST"
 
 lang: "th"
+sourceContentHash: "8f59afbef6de896e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

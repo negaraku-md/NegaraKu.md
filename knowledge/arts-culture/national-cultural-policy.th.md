@@ -30,8 +30,9 @@ faq:
     a: "ตาม JKKN นโยบาย DKK 1971 กลายเป็นฐานของนโยบายวัฒนธรรมแห่งชาติ (DAKEN) 2021 ที่ตั้งอยู่บนเจ็ดแกนโดยมีระยะเวลาการดำเนินการ 2021-2025 JKKN ยังระบุว่า DKK 1971 ไม่เคยได้รับการรับรองอย่างเป็นทางการในระดับคณะรัฐมนตรี แม้ว่ามันจะชี้นำการบริหารมาราว 50 ปี"
 
 lang: "th"
+sourceContentHash: "8ad5677b6225effa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "ไม่ Act 852 ห้ามการขายผลิตภัณฑ์ยาสูบและบุหรี่ไฟฟ้าทั้งหมดผ่านแพลตฟอร์มออนไลน์และตู้จำหน่ายอัตโนมัติ"
 
 lang: "th"
+sourceContentHash: "41eadbd4f391ff30"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -36,8 +36,9 @@ faq:
     a: "PVIP ดำเนินการโดยกรมตรวจคนเข้าเมือง (มหาดไทย) แทนที่จะเป็น MOTAC เพิ่มสิทธิในการทำงานและการเรียนอย่างชัดเจน อนุญาตให้ซื้ออสังหาริมทรัพย์เชิงพาณิชย์และอุตสาหกรรม (ไม่ใช่แค่เพื่ออยู่อาศัย) และไม่กำหนดการพำนักขั้นต่ำ คำร้องดำเนินการผ่านตัวแทนที่ตรวจคนเข้าเมืองแต่งตั้งแทนตัวแทน MM2H"
 
 lang: "th"
+sourceContentHash: "885b7aabccb192f1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

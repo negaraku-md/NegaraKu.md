@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจเชิงบรรยายว่าสภานิติบัญญัติแห่งรัฐถูกจัดตั้งขึ้นตามรัฐธรรมนูญอย่างไร ดำรงอยู่นานเพียงใด และร่างกฎหมายรัฐผ่านสภานี้เพื่อกลายเป็นกฎหมายได้อย่างไร"
 
 lang: "th"
+sourceContentHash: "2a25e82c7f7bc759"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

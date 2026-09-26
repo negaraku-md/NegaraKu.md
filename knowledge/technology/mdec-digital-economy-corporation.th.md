@@ -27,8 +27,9 @@ faq:
   - q: "MDEC เหมือนกับ MSC Malaysia หรือไม่?"
     a: "ไม่ MDEC คือหน่วยงาน; MSC Malaysia เป็นโครงการก่อนหน้าของมัน MSC Malaysia ถูกเปลี่ยนแบรนด์เป็น Malaysia Digital และสถานะ MD เป็นผู้สืบทอดต่อจากสถานะ MSC Malaysia เดิม"
 lang: "th"
+sourceContentHash: "4aca195eadff6ca3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

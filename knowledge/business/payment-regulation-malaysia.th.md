@@ -29,8 +29,9 @@ verificationNeeded:
   - "หน้า Gazette Order ของ BNM สำหรับระบบการชำระเงินไม่ได้ระบุ P.U.(A) 468/2024 ซึ่งแก้ไขข้อกำหนดธุรกิจที่จดทะเบียน — ให้ถือว่าดัชนีนั้นไม่สมบูรณ์และตรวจสอบพอร์ทัลราชกิจจานุเบกษาของ AGC"
 
 lang: "th"
+sourceContentHash: "312edd8d349c774c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

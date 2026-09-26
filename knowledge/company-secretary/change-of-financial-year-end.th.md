@@ -30,8 +30,9 @@ faq:
     a: "ใช่ ระยะเวลา 6 เดือนสำหรับการเวียน (บริษัทเอกชน มาตรา 258) และ 30 วันสำหรับการยื่นต่อ SSM (มาตรา 259) นับใหม่จากวันสิ้นรอบปีบัญชีใหม่"
 
 lang: "th"
+sourceContentHash: "518df847514632f2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -28,8 +28,9 @@ faq:
   - q: "อัตราภาษีบริการที่ใช้บังคับตอนนี้คือเท่าใด?"
     a: "8% ตั้งแต่วันที่ 1 มีนาคม 2024 เพิ่มขึ้นจาก 6% ยกเว้นบริการอาหารและเครื่องดื่ม ที่จอดรถ โลจิสติกส์ และโทรคมนาคม ซึ่งยังคงอยู่ที่ 6%"
 lang: "th"
+sourceContentHash: "e4e06f1218191c40"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

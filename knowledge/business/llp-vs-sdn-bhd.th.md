@@ -58,8 +58,9 @@ obligations:
     consequence: "หุ้นส่วนทุกคนถือว่าเป็นเจ้าหน้าที่ปฏิบัติตามกฎหากไม่มีการแต่งตั้ง"
 
 lang: "th"
+sourceContentHash: "018f4b09e139ab24"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

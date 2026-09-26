@@ -30,8 +30,9 @@ faq:
     a: "ตาม JPJ หนังสือแจ้ง AwAS ที่ไม่ได้ชำระภายในระยะเวลา 60 วันนับจากวันที่ออกอาจนำไปสู่การดำเนินคดีในศาล โดยมีค่าปรับระหว่าง RM300 ถึง RM2,000 หากถูกตัดสินว่ามีความผิด"
 
 lang: "th"
+sourceContentHash: "b08ee8ca24ef947b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

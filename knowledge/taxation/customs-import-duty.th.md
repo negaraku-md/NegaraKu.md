@@ -31,8 +31,9 @@ faq:
     a: "ของส่งที่มีมูลค่า RM500 หรือน้อยกว่าโดยทั่วไปได้รับยกเว้นอากรขาเข้าและภาษีขายที่พรมแดน อย่างไรก็ตาม ตั้งแต่วันที่ 1 มกราคม 2024 ภาษีขาย 10% แยกต่างหากบนสินค้ามูลค่าต่ำ (Low Value Goods) ใช้กับสินค้าดังกล่าวที่ขายออนไลน์และส่งเข้ามาเลเซีย เก็บโดยผู้ขายหรือตลาดกลางที่จดทะเบียน"
 
 lang: "th"
+sourceContentHash: "49578a6ca3069696"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

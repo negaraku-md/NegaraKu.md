@@ -25,8 +25,9 @@ faq:
   - q: "ใครต้องจดทะเบียนกับ JPDP?"
     a: "ผู้ใช้ข้อมูล (ปัจจุบันคือ 'ผู้ควบคุมข้อมูล') ที่อยู่ใน 13 ประเภทที่ระบุไว้ภายใต้คำสั่งคุ้มครองข้อมูลส่วนบุคคล (ประเภทของผู้ใช้ข้อมูล) 2013 ต้องจดทะเบียนภายใต้มาตรา 14 ของ PDPA และได้รับใบรับรองการจดทะเบียนที่มีผล การจดทะเบียนทำผ่านพอร์ทัล SPDP ที่ daftar.pdp.gov.my"
 lang: "th"
+sourceContentHash: "a86fa7aea38102ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

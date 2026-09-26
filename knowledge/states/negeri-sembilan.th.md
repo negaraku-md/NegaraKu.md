@@ -38,8 +38,9 @@ verificationNeeded:
   - "ยืนยันวันที่และฐานของเปอร์เซ็นต์องค์ประกอบชาติพันธุ์บนพอร์ทัลทางการของรัฐ (มลายู 61.5% จีน 22.9% อินเดีย 15.1% อื่น ๆ 0.5%) — ตัวเลขนั้นไม่มีวันที่และไม่ตรงกับโครงสร้างการแยกส่วนของสำมะโน 2020 ที่แยกผู้ที่ไม่ใช่พลเมืองออกมา"
 
 lang: "th"
+sourceContentHash: "41ba175b1dc7814a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

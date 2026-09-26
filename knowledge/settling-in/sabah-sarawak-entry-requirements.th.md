@@ -33,8 +33,9 @@ faq:
     a: "ไม่โดยอัตโนมัติ เนื่องจากทั้งสองรัฐควบคุมตรวจคนเข้าเมืองเอง ชาวต่างชาติจะถูกตรวจซ้ำที่จุดเข้าของซาบาห์/ซาราวักและได้รับการอนุมัติหรือใบอนุญาตของรัฐแยกต่างหาก"
 
 lang: "th"
+sourceContentHash: "61e0e60b5ca388ec"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

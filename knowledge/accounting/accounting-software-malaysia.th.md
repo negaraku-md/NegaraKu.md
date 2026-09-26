@@ -29,8 +29,9 @@ verificationNeeded:
   - "แนวปฏิบัติ e-Invoice และแนวปฏิบัติเฉพาะ (Specific Guideline) ได้รับการแก้ไขบ่อยครั้ง โปรดยืนยันเวอร์ชันปัจจุบันก่อนจะถือว่าข้อกำหนดการเชื่อมต่อใดเป็นที่ยุติแล้ว"
 
 lang: "th"
+sourceContentHash: "2723b917b69eeed3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

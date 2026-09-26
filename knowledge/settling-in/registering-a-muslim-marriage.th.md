@@ -32,8 +32,9 @@ faq:
     a: "พอร์ทัลบริการของรัฐบาลมาเลเซียระบุว่าการประกอบพิธีดำเนินการบนหนังสืออนุญาตสมรสที่มีอายุ 90 วัน"
 
 lang: "th"
+sourceContentHash: "ddd87b097dd5f44c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

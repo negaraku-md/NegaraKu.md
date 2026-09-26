@@ -29,8 +29,9 @@ faq:
     a: "ไม่ ค่าปรับจอดรถออกโดย PBT ภายใต้คำสั่งจราจรทางถนนที่เกี่ยวกับการจอดรถ ในขณะที่ใบสั่งจราจรสำหรับความผิดในการขับรถออกโดย PDRM หรือ JPJ"
 
 lang: "th"
+sourceContentHash: "cec9d7c50b142e19"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

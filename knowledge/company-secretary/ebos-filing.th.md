@@ -53,8 +53,9 @@ obligations:
     consequence: "ความผิดภายใต้ Division 8A"
 
 lang: "th"
+sourceContentHash: "e1b33b50ef55b00c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

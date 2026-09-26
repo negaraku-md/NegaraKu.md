@@ -34,8 +34,9 @@ faq:
     a: "การดูแลหัวใจ มะเร็งวิทยา ภาวะมีบุตรยาก/IVF ออร์โธปิดิกส์ และการตรวจสุขภาพครบวงจร อยู่ในบรรดาความเชี่ยวชาญที่ผู้ป่วยต่างชาติแสวงหามากที่สุด สี่อย่างแรกเป็นศูนย์ความเป็นเลิศที่ MHTC กำหนด"
 
 lang: "th"
+sourceContentHash: "038cf5af7095fe8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -51,8 +51,9 @@ obligations:
     consequence: "ปรับ RM20,000 ถึง RM100,000 หรือจำคุกไม่เกินหกเดือน หรือทั้งสองอย่าง ภายใต้ s.112A"
 
 lang: "th"
+sourceContentHash: "003701199a9aca88"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Rukun Tetangga กำกับดูแลโดยกรมความสามัคคีแห่งชาติและการบูรณาการแห่งชาติ (JPNIN) ภายใต้กระทรวงความสามัคคีแห่งชาติ ฐานทางกฎหมายคือพระราชบัญญัติ Rukun Tetangga (Rukun Tetangga Act 2012, Act 751)"
 
 lang: "th"
+sourceContentHash: "79fa6f589efc75aa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

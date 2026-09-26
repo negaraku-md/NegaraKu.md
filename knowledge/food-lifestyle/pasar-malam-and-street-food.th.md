@@ -31,8 +31,9 @@ faq:
     a: "สถานประกอบการอาหารถูกควบคุมภายใต้ระเบียบว่าด้วยสุขอนามัยอาหาร 2009 ผู้บริโภคควรเลือกแผงที่มีเกรด A หรือ B ซึ่งจัดอาหารร้อนและสด และตรวจสอบป้ายเกรดที่มักแสดงไว้"
 
 lang: "th"
+sourceContentHash: "1f2264f16a54722d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

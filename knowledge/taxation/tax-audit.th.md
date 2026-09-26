@@ -57,8 +57,9 @@ obligations:
     consequence: "เงินเพิ่ม 10% ของภาษีที่ยังไม่ได้ชำระภายใต้ s.103(5)"
 
 lang: "th"
+sourceContentHash: "ec56f6d5e38c8e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

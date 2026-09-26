@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "นักเรียน นักวิเคราะห์นโยบาย นักข่าว เจ้าหน้าที่รัฐ และผู้ที่ต้องเข้าใจวิธีจัดทำ อภิปราย และอนุมัติงบประมาณสหพันธรัฐ"
 
 lang: "th"
+sourceContentHash: "8b64cd44c511fc05"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

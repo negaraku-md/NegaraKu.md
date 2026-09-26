@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่พยายามอ่านสถิติประชากร แรงงาน หรืออสังหาริมทรัพย์ของมาเลเซียอย่างถูกต้อง คือ นักวิจัย นักวางแผน และธุรกิจที่ประเมินว่าประชากรและกำลังแรงงานอยู่ที่ใดจริง"
 
 lang: "th"
+sourceContentHash: "0362cd9a8f8b4f6a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

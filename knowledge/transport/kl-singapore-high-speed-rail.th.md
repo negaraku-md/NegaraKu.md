@@ -29,8 +29,9 @@ faq:
     a: "ไม่ RTS Link เป็นบริการรถรับส่งข้ามพรมแดนระยะสั้นระหว่างยะโฮร์บาห์รู (Johor Bahru) และวูดแลนด์ส (Woodlands) มีเป้าหมายเปิดให้บริการในปี 2026 ส่วน HSR เป็นเส้นทางรถไฟความเร็วสูงระยะประมาณ 350 กม. ที่แยกต่างหากซึ่งวางแผนไว้ระหว่างกัวลาลัมเปอร์และสิงคโปร์"
 
 lang: "th"
+sourceContentHash: "b505d87f2fe5cea1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

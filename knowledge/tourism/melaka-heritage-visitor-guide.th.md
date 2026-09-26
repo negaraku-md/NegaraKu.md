@@ -40,8 +40,9 @@ faq:
     a: "พิพิธภัณฑ์ที่ 48 และ 50 จาลันตุนตันเชงลอก ปิดวันอังคาร เปิด 10:00น. ถึง 16:15น. ในวันธรรมดา (ยกเว้นวันอังคาร) และ 10:00น. ถึง 16:45น. ในวันหยุดสุดสัปดาห์ เนื่องจากเวลาและราคาอาจเปลี่ยนแปลง ให้ยืนยันบนเว็บไซต์ทางการของพิพิธภัณฑ์ก่อนมาเยือน"
 
 lang: "th"
+sourceContentHash: "e6af87197b8f50e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -78,8 +78,9 @@ obligations:
     consequence: "ข้อยกเว้นมาตรา 75(2)(d) ใช้ไม่ได้ ดังนั้นการจัดสรรต้องมีการอนุมัติของสมาชิกก่อนหรือเป็นโมฆะภายใต้มาตรา 75(4)"
 
 lang: "th"
+sourceContentHash: "8cbd2aa6c4bb698a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -20,8 +20,9 @@ keyTakeaways:
   - "การตรึงค่าเงินที่ USD1=RM3.80 ถูกคงไว้เกือบเจ็ดปีและสิ้นสุดในวันที่ 21 กรกฎาคม 2005 เมื่อ Bank Negara Malaysia ใช้ระบบลอยตัวแบบมีการจัดการ"
 appliesTo: "ผู้อ่านที่ต้องการเรื่องราวที่มีการบันทึกและสืบย้อนแหล่งที่มาได้เกี่ยวกับการตอบสนองทางเศรษฐกิจของมาเลเซียในปี 1998 (การควบคุมเงินทุนและการตรึงค่าเงินริงกิต) และเหตุการณ์ทางการเมืองในปีนั้น นำเสนออย่างเป็นกลางโดยไม่รับรองการตีความใด"
 lang: "th"
+sourceContentHash: "3f82c848946b8ea4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

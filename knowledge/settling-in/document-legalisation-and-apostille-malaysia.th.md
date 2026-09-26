@@ -32,8 +32,9 @@ faq:
     a: "ไม่ ตามที่ฝ่ายกงสุลของ Wisma Putra ระบุเอง การรับรองเป็นเพียงการยืนยันความแท้จริงของตราและลายเซ็นของเจ้าหน้าที่ผู้มีอำนาจ — ไม่ใช่ความถูกต้องของเนื้อหาเอกสาร"
 
 lang: "th"
+sourceContentHash: "1c942b9ac8cdb96c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

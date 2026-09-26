@@ -38,8 +38,9 @@ faq:
     a: "ไม่ พระราชบัญญัติความมั่นคงปลอดภัยไซเบอร์กำกับความมั่นคงและความยืดหยุ่นของโครงสร้างพื้นฐานวิกฤต ความเป็นส่วนตัวของข้อมูลส่วนบุคคลถูกกำกับแยกต่างหากโดยพระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล 2010 (Personal Data Protection Act 2010) องค์กรหนึ่งสามารถอยู่ภายใต้ทั้งสองได้"
 
 lang: "th"
+sourceContentHash: "3cca544d70c1185a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

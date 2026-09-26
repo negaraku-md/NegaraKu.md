@@ -58,8 +58,9 @@ obligations:
     consequence: "เมื่อพ้นกำหนด อธิบดีไม่มีอำนาจเพิกถอนคำวินิจฉัย"
 
 lang: "th"
+sourceContentHash: "8ee48ba95a64ad88"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "เป็นเอกสารนโยบายที่ได้รับการอนุมัติจากรัฐสภาเมื่อวันที่ 15 มิถุนายน 2023 วางกรอบการปฏิรูประบบสาธารณสุขของมาเลเซียเป็นระยะตลอด 15 ปี"
 
 lang: "th"
+sourceContentHash: "635c9f97868b06be"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

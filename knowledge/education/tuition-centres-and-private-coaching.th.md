@@ -30,8 +30,9 @@ faq:
     a: "ตามที่ KPM ระบุ การดำเนินสถาบันการศึกษาเอกชนที่ไม่ขึ้นทะเบียนอาจถูกลงโทษปรับ RM30,000 หรือจำคุก 2 ปี หรือทั้งสองอย่าง"
 
 lang: "th"
+sourceContentHash: "2879304f7041420a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

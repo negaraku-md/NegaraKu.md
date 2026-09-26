@@ -37,8 +37,9 @@ faq:
     a: "วิศวกรชาวเยอรมัน Hermann Tilke ออกแบบ สนามฟอร์มูลาวันที่สร้างเพื่อการนี้โดยเฉพาะแห่งแรกของเขา ผังกรังด์ปรีซ์ยาว 5.543 กม. มี 15 โค้ง และความกว้างสนามตั้งแต่ 16 ถึง 20 เมตร"
 
 lang: "th"
+sourceContentHash: "a2a0e6bd77b78348"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

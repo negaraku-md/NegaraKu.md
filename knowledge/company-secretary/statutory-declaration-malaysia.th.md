@@ -31,8 +31,9 @@ faq:
     a: "ไม่ — นี่เป็นความเข้าใจผิดที่พบบ่อยที่ตกทอดมาจาก Companies Act 1965 เดิม ภายใต้ Companies Act 2016 การจดทะเบียนทำผ่านคำขอที่กรรมการหรือผู้ก่อการแต่ละคนให้คำแถลง (statement) (มาตรา 14) ว่ายินยอมทำหน้าที่และไม่ขาดคุณสมบัติ นั่นเป็นคำแถลง ไม่ใช่คำแถลงตามกฎหมาย"
 
 lang: "th"
+sourceContentHash: "ca496f3d42e9b712"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

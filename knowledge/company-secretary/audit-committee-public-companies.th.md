@@ -43,8 +43,9 @@ verificationNeeded:
   - "ข้ออ้างที่กล่าวซ้ำกันอย่างแพร่หลายว่าคณะกรรมการต้องพบผู้สอบบัญชีภายนอกปีละสองครั้งโดยไม่มีกรรมการบริหารอยู่ด้วยไม่มีฐานในบทที่ 15 ซึ่งระบุเพียงว่าเมื่อใดก็ตามที่เห็นว่าจำเป็น — อาจมาจากเอกสารแนวทางที่ไม่ได้ถูกเรียกดูที่นี่"
 
 lang: "th"
+sourceContentHash: "fc979f0822a6b94f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "การส่งออกผลิตภัณฑ์ฮาลาลของมาเลเซียแตะ RM61.79 พันล้านในปี 2024 เพิ่มขึ้น 15% เทียบกับ RM53.72 พันล้านในปี 2023 (MITI) สำหรับช่วงมกราคม–กันยายน 2024 การส่งออกมีมูลค่า RM45.04 พันล้าน เทียบกับ RM39.36 พันล้านในช่วงเดียวกันของปี 2023 (MITI/MIDA)"
 
 lang: "th"
+sourceContentHash: "1b16a223e725d8d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

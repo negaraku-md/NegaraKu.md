@@ -43,8 +43,9 @@ verificationNeeded:
   - "ยืนยันว่า SEDIA, NCER และ ECERDC มีอำนาจอนุมัติใบอนุญาตชาวต่างชาติเทียบเท่ากับ IRDA หรือไม่ ซึ่งยังไม่ได้รับการยืนยัน"
 
 lang: "th"
+sourceContentHash: "dbc6e7a307297e3a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

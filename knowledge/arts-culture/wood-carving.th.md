@@ -33,8 +33,9 @@ faq:
     a: "หลักการออกแบบอาวันลารัตแบบคลาสสิกหลีกเลี่ยงการวาดคนหรือสัตว์เป็นองค์ประกอบหลักของลายจริง แต่การแกะสลักไม้มลายูก็มีประเภทลายสัตว์ของตนเอง — เช่น รูปไก่ แรด และเป็ด — ที่ใช้แยกต่างหากจากลายอาวันลารัตซ้ำ"
 
 lang: "th"
+sourceContentHash: "9f06d94e839f077d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

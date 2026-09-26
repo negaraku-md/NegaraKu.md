@@ -29,8 +29,9 @@ faq:
     a: "Azizulhasni Awang ผู้ชนะสองเหรียญโอลิมปิก (ทองแดง 2016 เงิน 2020) และแชมป์โลกเคอิริน 2017"
 
 lang: "th"
+sourceContentHash: "490abb68b2e39c44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "กระทรวงการคลังประมาณการประหยัดราว RM5 พันล้านต่อปีนับตั้งแต่การปรับเหตุผลดีเซลเริ่มเมื่อ 10 มิถุนายน 2024"
 
 lang: "th"
+sourceContentHash: "fb230f3e8cc5eada"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

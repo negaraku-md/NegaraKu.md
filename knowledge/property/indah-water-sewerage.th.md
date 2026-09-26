@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "เจ้าของบ้าน ผู้เช่า องค์กรจัดการห้องชุด และผู้ประกอบการในคาบสมุทรมาเลเซียที่ต้องการเข้าใจว่า IWK คือใครจริง จ่ายอะไร และเหตุใดจึงแยกจากค่าน้ำ"
 
 lang: "th"
+sourceContentHash: "b457bd9b79e09115"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

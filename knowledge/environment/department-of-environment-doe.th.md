@@ -34,8 +34,9 @@ faq:
     a: "DOE เผยแพร่สายรับเรื่องร้องเรียน (03-8889 1972) และสายด่วนไม่เสียค่าใช้จ่าย (1-800-88-2727) สำหรับเรื่องร้องเรียนด้านสิ่งแวดล้อม โปรดตรวจสอบหมายเลขปัจจุบันบน doe.gov.my ก่อนใช้"
 
 lang: "th"
+sourceContentHash: "03cee8394623a8f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

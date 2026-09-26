@@ -35,8 +35,9 @@ faq:
     a: "ไม่ บาจูกูรุงคือเสื้อยาวที่หลวมและปกปิดรูปร่าง สวมกับผ้า ส่วนเกอบายาคือเสื้อผ่าหน้าที่เข้ารูปมากกว่า กลัดด้วยเกอโรงซัง (kerongsang, เข็มกลัด) หรือกระดุม และเข้าคู่กับโสร่ง เกอบายาโดยทั่วไปเข้ารูปกว่าบาจูกูรุง"
 
 lang: "th"
+sourceContentHash: "f68d5254e084ffde"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

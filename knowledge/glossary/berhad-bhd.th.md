@@ -32,8 +32,9 @@ faq:
     a: "ได้ บริษัทเอกชนสามารถแปลงสภาพเป็นบริษัทมหาชนภายใต้พระราชบัญญัติบริษัท (Companies Act 2016) — โดยทั่วไปทำได้ด้วยการผ่านมติพิเศษของสมาชิก เปลี่ยนชื่อให้ลงท้ายด้วย 'Berhad' และยื่นเอกสารที่กำหนดต่อคณะกรรมการบริษัทมาเลเซีย (SSM)"
 
 lang: "th"
+sourceContentHash: "8327877494bab4c8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

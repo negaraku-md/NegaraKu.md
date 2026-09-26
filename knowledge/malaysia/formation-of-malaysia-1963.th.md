@@ -29,8 +29,9 @@ faq:
     a: "สิงคโปร์แยกตัวเมื่อวันที่ 9 สิงหาคม 1965 หลังการลงมติในรัฐสภามาเลเซีย ความตึงเครียดทางการเมืองระหว่างพรรคกิจประชาชน (People's Action Party) กับรัฐบาลพรรคพันธมิตร (Alliance) เกี่ยวกับนโยบายเศรษฐกิจและพื้นฐานของการแข่งขันทางการเมืองมาก่อนการแยกตัว ทั้งสองฝ่ายไม่ได้วางแผนสำหรับผลลัพธ์นั้นในการรวมปี 1963"
 
 lang: "th"
+sourceContentHash: "6eb2de3c5c01ceae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

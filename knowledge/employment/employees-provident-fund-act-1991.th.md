@@ -26,8 +26,9 @@ faq:
   - q: "แรงงานต่างชาติต้องจ่ายเงินสมทบ EPF หรือไม่?"
     a: "ต้อง นับตั้งแต่วันที่ 1 ตุลาคม 2025 เงินสมทบ EPF กลายเป็นภาคบังคับสำหรับลูกจ้างที่ไม่ใช่พลเมืองมาเลเซีย โดยนายจ้างและลูกจ้างจ่ายฝ่ายละ 2% ของค่าจ้างรายเดือน ผู้ที่ไม่ใช่พลเมืองซึ่งอายุเกิน 75 ปีไม่ต้องลงทะเบียนหรือจ่ายเงินสมทบ"
 lang: "th"
+sourceContentHash: "ef3ed3901e1145d3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

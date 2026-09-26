@@ -49,8 +49,9 @@ obligations:
     consequence: "การประเมินโดยอธิบดี พร้อมค่าปรับภายใต้ Income Tax Act 1967"
 
 lang: "th"
+sourceContentHash: "16cead0c42c9de23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

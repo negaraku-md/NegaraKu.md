@@ -34,8 +34,9 @@ faq:
     a: "การศึกษาด้านเทคนิคและอาชีวศึกษาดำเนินการบางส่วนผ่านวิทยาลัยอาชีวศึกษาของกระทรวงศึกษาธิการ และบางส่วนผ่านสายการรับรองแยกต่างหาก — ประกาศนียบัตรทักษะมาเลเซีย (SKM) และอนุปริญญาทักษะมาเลเซีย (DKM/DLKM) — ที่ออกโดยกรมพัฒนาทักษะ (Jabatan Pembangunan Kemahiran) ภายใต้กระทรวงทรัพยากรมนุษย์ ไม่ใช่กระทรวงศึกษาธิการหรือกระทรวงการอุดมศึกษา"
 
 lang: "th"
+sourceContentHash: "936fe1b2918f6934"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

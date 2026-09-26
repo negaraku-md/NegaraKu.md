@@ -34,8 +34,9 @@ faq:
     a: "มาตรา 2 นิยามสิทธิมนุษยชนว่าเป็นเสรีภาพขั้นพื้นฐานตามที่บัญญัติไว้ในภาค II ของรัฐธรรมนูญแห่งสหพันธ์ มาตรา 4(4) เพิ่มว่าปฏิญญาสากลว่าด้วยสิทธิมนุษยชน 1948 (Universal Declaration of Human Rights 1948) พึงได้รับความสนใจเท่าที่ไม่ขัดกับรัฐธรรมนูญแห่งสหพันธ์"
 
 lang: "th"
+sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -26,8 +26,9 @@ verificationNeeded:
   - "MFRS 139 ยังคงอยู่ในรายการของ MASB โปรดยืนยันสถานะการใช้บังคับปัจจุบันสำหรับกิจการใดที่ยังอยู่ในขอบเขตของมาตรฐานนั้น"
 
 lang: "th"
+sourceContentHash: "e028c2fa0dbb47c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

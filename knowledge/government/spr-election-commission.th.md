@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจสถานะทางรัฐธรรมนูญขององค์กรที่ดำเนินการเลือกตั้งในมาเลเซีย — นักเรียนนักศึกษา นักวิจัย นักข่าว และผู้อ่านทั่วไป — ตลอดจนบทบัญญัติของรัฐธรรมนูญที่กำหนดอำนาจหน้าที่ สมาชิก และการประกันวาระการดำรงตำแหน่งของ SPR"
 
 lang: "th"
+sourceContentHash: "6a46ae533ead9e08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ faq:
   - q: "บุคคลที่ยังมีชีวิตอยู่สามารถถูกประกาศเป็นมรดกแห่งชาติได้หรือไม่?"
     a: "ได้ มาตรา 67 อนุญาตให้รัฐมนตรีประกาศให้บุคคลที่ยังมีชีวิตอยู่เป็นมรดกแห่งชาติได้ และคำสั่งมรดกแห่งชาติ (การประกาศบุคคลที่ยังมีชีวิตอยู่เป็นมรดกแห่งชาติ) 2012 (National Heritage (Declaration of Living Person as a National Heritage) Order 2012) เป็นเครื่องมือทางการสำหรับหมวด 'Warisan Orang Hidup'"
 lang: "th"
+sourceContentHash: "965829d0863e2f00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

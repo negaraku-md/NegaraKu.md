@@ -29,8 +29,9 @@ faq:
     a: "ยื่นออนไลน์ผ่านแพลตฟอร์ม MyHeart ของ TalentCorp ขณะที่ยังอยู่ต่างประเทศ ควรยื่นหนึ่งถึงสองเดือนก่อนวันที่คาดว่าจะกลับ คำขอที่สมบูรณ์ได้รับการดำเนินการภายใน 45 วันทำการ"
 
 lang: "th"
+sourceContentHash: "f730c6823dee3d1e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -36,8 +36,9 @@ faq:
     a: "มาตรา 55(5) กำหนดว่าร่างกฎหมายที่ยังไม่ได้รับการวินิจฉัยในรัฐสภาไม่ตกไปเนื่องจากการปิดสมัยประชุมของรัฐสภา มาตรา 55(7) คุ้มครองร่างกฎหมายที่รอพระบรมราชานุญาตจากการตกไปเนื่องจากการปิดสมัยประชุมหรือการยุบรัฐสภา"
 
 lang: "th"
+sourceContentHash: "87bf8d58ce7f3cea"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

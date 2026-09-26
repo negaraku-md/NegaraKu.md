@@ -31,8 +31,9 @@ faq:
     a: "เงินอุดหนุน LPG มุ่งเป้าไปที่การใช้ในครัวเรือน ไม่ใช่การค้า ธุรกิจขนาดใหญ่กว่าต้องใช้ถังเชิงพาณิชย์ (ถังสีม่วง) ที่ไม่ได้รับเงินอุดหนุนและแพงกว่า KPDN ระบุว่าผู้ค้ารายย่อยและขนาดเล็กยังสามารถใช้ LPG ที่ได้รับเงินอุดหนุนได้ภายในขีดจำกัดที่กำหนด"
 
 lang: "th"
+sourceContentHash: "7fc238e7f93ed817"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

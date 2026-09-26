@@ -35,8 +35,9 @@ verificationNeeded:
   - "ตรวจสอบซ้ำการจัดสรรของท่าเรือบกปะลิส (โครงสร้างพื้นฐาน RM318.0 ล้าน การลงทุนภาคเอกชน RM1.2 พันล้าน) และหกเขตการบริหารเทียบกับ MKN เมื่อ mkn.gov.my เข้าถึงได้ เว็บไซต์ล่มระหว่างการตรวจสอบซ้ำครั้งล่าสุด ดังนั้นตัวเลขเหล่านี้จึงอิงการตรวจสอบเดิมเมื่อ 2026-07-24"
 
 lang: "th"
+sourceContentHash: "f8950ccf72fcaab1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

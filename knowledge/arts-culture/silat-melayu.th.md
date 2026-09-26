@@ -37,8 +37,9 @@ faq:
     a: "UNESCO กล่าวถึงซีลัตฮารีเมา (Silat Harimau) เป็นตัวอย่างของกระบวนท่าที่เลียนแบบการเคลื่อนไหวเชิงสุนทรียะของเสือในศิลปะการโจมตีและป้องกันตัว มันเป็นหนึ่งในกระบวนท่าจำนวนมากที่ตั้งชื่อตามสัตว์หรือองค์ประกอบของธรรมชาติ"
 
 lang: "th"
+sourceContentHash: "38ee41b476215220"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

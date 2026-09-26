@@ -31,8 +31,9 @@ faq:
     a: "องค์กรสามารถต่อสู้คดีได้หากพิสูจน์ได้ว่าตนได้ดำเนินขั้นตอนที่เพียงพอในการป้องกันการทุจริต แนวทางคือหลักการห้าประการ T.R.U.S.T. ในแนวปฏิบัติว่าด้วยขั้นตอนที่เพียงพอที่ออกโดยสำนักนายกรัฐมนตรี ลงวันที่ 4 ธันวาคม 2018"
 
 lang: "th"
+sourceContentHash: "bba5e6b3f79a29ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "ใช่ ทั้งสองรัฐมีคณะกรรมการท่องเที่ยวของตนเองที่ทำการตลาดรัฐ ควบคู่กับความพยายามระดับชาติของ Tourism Malaysia"
 
 lang: "th"
+sourceContentHash: "353b6077a5a0f789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

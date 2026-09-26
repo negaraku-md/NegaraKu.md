@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจกลไกมากกว่าการตลาด ทั้งนักเรียน นักข่าว เหรัญญิก ผู้ก่อตั้งที่เปรียบเทียบทางเลือกการจัดหาเงินทุน และนักวิจัยที่ทำแผนที่ระบบการเงินของมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "baeef20a51fe9ad2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

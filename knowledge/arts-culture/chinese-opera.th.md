@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจประเภทของงิ้วจีนดั้งเดิมในมาเลเซีย และบทบาทของ「งิ้วบูชาเทพเจ้า」ในงานศาลเจ้าและเทศกาลต่าง ๆ"
 
 lang: "th"
+sourceContentHash: "13b9c7f4fc9cc94d"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

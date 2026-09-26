@@ -27,8 +27,9 @@ faq:
   - q: "KPDN ใช้กฎหมายใดในการควบคุมราคา?"
     a: "พึ่งพาพระราชบัญญัติควบคุมสินค้า 1961 และพระราชบัญญัติควบคุมราคาและต่อต้านการค้ากำไรเกินควร 2011 เป็นหลัก ซึ่งให้อำนาจในการกำหนดเพดานราคา กำหนดให้แสดงราคา และดำเนินการต่อกำไรที่สูงเกินสมควร"
 lang: "th"
+sourceContentHash: "bc54d858f6180b54"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

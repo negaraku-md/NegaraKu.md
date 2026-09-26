@@ -36,8 +36,9 @@ verificationNeeded:
   - "ยืนยันว่าแนวปฏิบัติข้อผูกพันทางธนาคารของมาเลเซียหรือข้อกำหนดการจดทะเบียนของ Bursa Malaysia กำหนดผลลัพธ์เฉพาะต่อส่วนความไม่แน่นอนที่มีสาระสำคัญเกี่ยวกับการดำเนินงานต่อเนื่องหรือไม่ — ผลทางการค้าที่บรรยายในที่นี้เป็นการสังเกตของผู้ประกอบวิชาชีพ ไม่ใช่กฎที่เผยแพร่"
 
 lang: "th"
+sourceContentHash: "272fa8b449a7b590"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

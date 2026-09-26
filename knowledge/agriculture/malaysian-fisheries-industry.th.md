@@ -36,8 +36,9 @@ faq:
     a: "หลังการแก้ไขพระราชบัญญัติการประมง 1985 ในปี 2019 (Akta A1601) ค่าปรับสูงสุดสำหรับเจ้าของหรือนายท้ายเรือต่างชาติที่รุกล้ำถูกปรับขึ้นจาก RM1 ล้านเป็น RM6 ล้าน และสำหรับลูกเรือแต่ละคนจาก RM100,000 เป็น RM600,000"
 
 lang: "th"
+sourceContentHash: "f5794964e422efce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

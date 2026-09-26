@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "ชาวต่างชาติที่มีข้อเสนองานในมาเลเซีย และผู้ที่ถือหรือกำลังต่ออายุใบอนุญาตทำงานในมาเลเซียอยู่แล้ว"
 
 lang: "th"
+sourceContentHash: "1684527edc9ec752"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "ใช่ ภายใต้พระราชบัญญัติเช่าซื้อ 1967 เงินดาวน์ขั้นต่ำคือร้อยละ 10 ของราคาเงินสด แม้ว่าผู้ให้เงินทุนสามารถกำหนดจำนวนที่สูงกว่าได้"
 
 lang: "th"
+sourceContentHash: "2d6f10d61a0f1ec1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

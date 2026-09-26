@@ -74,8 +74,9 @@ obligations:
     statute: "Companies Act 2016, s.578(1)"
 
 lang: "th"
+sourceContentHash: "ad13c24e03ada815"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

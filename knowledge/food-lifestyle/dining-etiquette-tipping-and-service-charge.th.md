@@ -29,8 +29,9 @@ faq:
     a: "เฉพาะธุรกิจ F&B ที่มีรายได้ต้องเสียภาษีเกิน RM1,500,000 ในรอบ 12 เดือนเท่านั้นที่ต้องจดทะเบียนภาษีบริการ และค่าบริการส่วนใหญ่ใช้กันในโรงแรมและร้านอาหารแบบเต็มรูปแบบ แผงลอยและร้านอาหารขนาดเล็กมักคิดตามราคาที่ระบุไว้เท่านั้น"
 
 lang: "th"
+sourceContentHash: "0474567c9b571270"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

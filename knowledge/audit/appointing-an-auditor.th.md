@@ -42,8 +42,9 @@ verificationNeeded:
   - "ยืนยันว่ารัฐมนตรีว่าการกระทรวงการคลังได้มอบหมายอำนาจอนุมัติตามมาตรา 263 อย่างเป็นทางการหรือไม่ และให้แก่หน่วยงานใด เนื่องจากมาตรา 263(5) อนุญาตแต่ไม่บังคับให้มอบหมาย"
 
 lang: "th"
+sourceContentHash: "171d2f5e74d8eb19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "ทั้งสองช่วงเวลาเป็นจริง การถ่ายโอนอำนาจอธิปไตยตามกฎหมายมีผลตอนเที่ยงคืนของวันที่ 31 สิงหาคม 1957 ทำเครื่องหมายด้วยพิธีชักธงที่ padang ในกัวลาลัมเปอร์ พิธีประกาศต่อสาธารณะ พร้อมการเปล่งเสียงเมอร์เดกาเจ็ดครั้ง เกิดขึ้นในเช้าวันนั้นที่สนามกีฬาเมอร์เดกา"
 
 lang: "th"
+sourceContentHash: "9d15ea63aee3b87b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

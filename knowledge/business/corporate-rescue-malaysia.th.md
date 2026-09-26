@@ -41,8 +41,9 @@ verificationNeeded:
   - "ค่าธรรมเนียมการยื่นต่อศาลและค่าตอบแทนผู้ประกอบวิชาชีพด้านล้มละลายสำหรับแต่ละกลไกไม่ได้เผยแพร่ไว้ส่วนกลาง และไม่มีการระบุช่วงต้นทุนไว้ที่นี่"
 
 lang: "th"
+sourceContentHash: "38faab1c30546d02"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

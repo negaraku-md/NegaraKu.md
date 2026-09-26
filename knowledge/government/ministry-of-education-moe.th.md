@@ -28,8 +28,9 @@ faq:
   - q: "งบประมาณของกระทรวงศึกษาธิการใหญ่เพียงใด?"
     a: "ภายใต้งบประมาณ 2026 KPM ได้รับ RM66.2 พันล้าน — การจัดสรรมากที่สุดในบรรดากระทรวงระดับสหพันธ์ — เพิ่มจาก RM64.2 พันล้านในปี 2025 การจัดสรรรวมถึงเกือบ RM2 พันล้านเพื่อปรับปรุงโรงเรียนที่ทรุดโทรมกว่า 520 แห่งและสร้างโรงเรียนใหม่ 38 แห่ง"
 lang: "th"
+sourceContentHash: "4f75b1390b41bfeb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

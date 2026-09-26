@@ -16,8 +16,9 @@ answer: "บริษัทสี่ประเภทถูกกันออ�
 verificationNeeded: []
 
 lang: "th"
+sourceContentHash: "776ac8951ed8d754"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

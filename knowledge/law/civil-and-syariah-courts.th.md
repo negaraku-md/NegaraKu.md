@@ -40,8 +40,9 @@ faq:
     a: "ไม่ แต่ละรัฐจัดตั้งศาลชะรีอะฮ์ของตนเองภายใต้กฎหมายของตนเอง และดินแดนสหพันธ์มีของตนภายใต้ Act 505 กรมตุลาการชะรีอะฮ์แห่งมาเลเซีย (Jabatan Kehakiman Syariah Malaysia) ซึ่งเป็นหน่วยงานภายใต้สำนักนายกรัฐมนตรี อธิบายบทบาทของตนว่าเป็นการประสานงานและกำหนดมาตรฐานการบริหารกฎหมายชะรีอะฮ์และตุลาการทั่วมาเลเซีย — การประสานงาน ไม่ใช่ศาลระดับชาติเดียว"
 
 lang: "th"
+sourceContentHash: "871806c1d22f2076"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

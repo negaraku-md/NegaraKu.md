@@ -30,8 +30,9 @@ faq:
     a: "หากการเข้าถึงข้อมูลส่วนงานหรือผู้สอบบัญชีถูกจำกัดและส่วนงานมีนัยสำคัญ ผู้สอบบัญชีกลุ่มอาจไม่สามารถหาหลักฐานที่เหมาะสมอย่างเพียงพอได้ ซึ่งอาจนำไปสู่ความเห็นที่มีเงื่อนไขหรือการไม่แสดงความเห็นต่องบการเงินกลุ่ม"
 
 lang: "th"
+sourceContentHash: "871221203173410a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

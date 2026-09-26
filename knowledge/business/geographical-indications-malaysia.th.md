@@ -29,8 +29,9 @@ faq:
     a: "สิบปีนับจากวันจดทะเบียน และต่ออายุได้ครั้งละสิบปีโดยไม่จำกัด (มาตรา 18 และ 19)"
 
 lang: "th"
+sourceContentHash: "a1ee81a205bbd043"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

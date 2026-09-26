@@ -59,8 +59,9 @@ obligations:
     consequence: "คำชี้ขาดคงอยู่และมีผลบังคับได้"
 
 lang: "th"
+sourceContentHash: "673d411271b17256"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

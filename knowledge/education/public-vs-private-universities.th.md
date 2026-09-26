@@ -23,8 +23,9 @@ verificationNeeded:
   - "บทความนี้ไม่ได้ระบุจำนวนการรับเข้าหลักสูตร สัดส่วนโควตา หรือตัวเลขค่าธรรมเนียมเฉพาะของสถาบันใด — สิ่งเหล่านี้แตกต่างกันตามหลักสูตรและวิทยาเขตและเปลี่ยนแปลงในแต่ละรอบรับ; ยืนยันโดยตรงกับ e-Panduan ของ UPU (สำหรับมหาวิทยาลัยของรัฐ) หรือสถาบันแต่ละแห่ง (สำหรับมหาวิทยาลัยเอกชน) ก่อนสมัคร"
   - "จำนวนผู้ให้บริการ IPTS ที่ขึ้นทะเบียนในปัจจุบันที่แน่นอนไม่ได้ระบุไว้ที่นี่เพราะตารางสถิติที่เผยแพร่ของ MOHE (Statistik Pendidikan Tinggi) ไม่ได้ถูกเปิดครบสำหรับบทความนี้ — สำหรับตัวเลขที่แม่นยำและเป็นปัจจุบัน โปรดอ้างอิงสิ่งพิมพ์ Statistik Pendidikan Tinggi ของ MOHE โดยตรง"
 lang: "th"
+sourceContentHash: "dec278a4f731f767"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

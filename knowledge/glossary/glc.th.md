@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "นักลงทุน ผู้หางาน ซัพพลายเออร์ที่ยื่นประมูลงาน และผู้ที่อ่านข่าวธุรกิจมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

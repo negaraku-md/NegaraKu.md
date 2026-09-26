@@ -33,8 +33,9 @@ faq:
     a: "ไม่ RCEP และ CPTPP เป็นความตกลงแยกต่างหากที่มีสมาชิกและกฎเกณฑ์ต่างกัน มาเลเซียเป็นภาคีของ RCEP ทั้งสองความตกลงทับซ้อนกันในสมาชิกหลายประเทศแต่เจรจากันอย่างเป็นอิสระ"
 
 lang: "th"
+sourceContentHash: "f7e0957c6988f3a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

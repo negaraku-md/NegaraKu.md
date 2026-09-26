@@ -27,8 +27,9 @@ faq:
   - q: "คอนฟรอนตาซีเป็นสงครามที่ประกาศหรือไม่"
     a: "ไม่ มันเป็นความเป็นศัตรูด้วยอาวุธที่ไม่ได้ประกาศอย่างเป็นทางการว่าเป็นสงคราม มันดำเนินการโดยหลักผ่านการจู่โจมข้ามพรมแดน การแทรกซึม และการโจมตีที่จำกัด ไม่ใช่ผ่านการประกาศสงครามอย่างเป็นทางการระหว่างสองประเทศ"
 lang: "th"
+sourceContentHash: "08c14e8e17f8ad68"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

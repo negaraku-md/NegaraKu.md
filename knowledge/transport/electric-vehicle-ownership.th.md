@@ -31,8 +31,9 @@ faq:
     a: "RM20 ต่อปีสำหรับ EV กำลัง 50 kW และต่ำกว่า ตามแนวปฏิบัติ LKM ยานพาหนะไฟฟ้าของ JPJ อัตราเพิ่มขึ้นแบบก้าวหน้าสำหรับกำลังที่สูงขึ้น"
 
 lang: "th"
+sourceContentHash: "926c690f458094f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

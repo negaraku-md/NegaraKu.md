@@ -30,8 +30,9 @@ faq:
     a: "หาก LKM ไม่ได้ต่ออายุเกินสามปี JPJ กำหนดให้นำยานพาหนะไปตรวจสภาพที่ Puspakom เพื่อขอรายงาน B2 (หรือการตรวจสภาพ PG10 เฉพาะสำหรับรถจักรยานยนต์ที่เป็นของบุคคล) ก่อนที่การยื่นขอต่ออายุจะสามารถดำเนินการได้ที่สำนักงาน JPJ"
 
 lang: "th"
+sourceContentHash: "20fe200c2e49f4f8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

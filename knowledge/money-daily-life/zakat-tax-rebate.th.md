@@ -31,8 +31,9 @@ faq:
     a: "สำหรับบริษัท ซะกาตธุรกิจถูกปฏิบัติเป็นค่าหักลดภาษีภายใต้มาตรา 44(11A) และจำกัดอยู่ที่หนึ่งในสี่สิบ (2.5%) ของรายได้รวม ไม่ใช่เงินคืนริงกิตต่อริงกิตเหมือนบุคคล"
 
 lang: "th"
+sourceContentHash: "850b3fce0e9aa149"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

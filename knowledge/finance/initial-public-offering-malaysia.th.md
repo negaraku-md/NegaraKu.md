@@ -33,8 +33,9 @@ faq:
     a: "โดยทั่วไป ค่าใช้จ่ายในการจดทะเบียนทั้งหมดอยู่ในช่วงประมาณ RM3 ล้านถึง RM7 ล้านสำหรับ ACE Market และเหนือ RM5 ล้านสำหรับ Main Market ขึ้นอยู่กับขนาดและความซับซ้อน ซึ่งรวมถึงค่าธรรมเนียมการรับประกันการจำหน่าย การจัดจำหน่าย และนายหน้า (โดยทั่วไป 1% ถึง 3% ของมูลค่าหุ้น) ค่าธรรมเนียมวิชาชีพ และค่าธรรมเนียมการกำกับดูแลที่จ่ายให้คณะกรรมการกำกับหลักทรัพย์ (Main Market) หรือ Bursa Malaysia (ACE Market)"
 
 lang: "th"
+sourceContentHash: "4baad2385800a2d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

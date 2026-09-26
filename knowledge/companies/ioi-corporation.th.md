@@ -30,8 +30,9 @@ faq:
     a: "ในมาเลเซีย (รวมยะโฮร์ มะละกา เนกรีเซมบีลัน ปาหัง ซาบาห์ และซาราวัก) และในอินโดนีเซีย (กาลิมันตันตะวันตกและกลาง)"
 
 lang: "th"
+sourceContentHash: "1a35d39eb3932506"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -26,8 +26,9 @@ verificationNeeded:
   - "การยื่นขอ CDL สามารถทำได้ทางออนไลน์อย่างสมบูรณ์ผ่านแอปพลิเคชัน MyJPJ หรือไม่ — หน้าบริการของ JPJ ที่ตรวจสอบระบุว่าการยื่นคำขอทำที่เคาน์เตอร์ JPJ ประจำรัฐเท่านั้น แต่นี่อาจเปลี่ยนไปแล้วหลังจากวันที่ตรวจสอบ"
 
 lang: "th"
+sourceContentHash: "994f31cbd16cea0e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

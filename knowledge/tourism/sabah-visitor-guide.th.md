@@ -35,8 +35,9 @@ faq:
     a: "สิปาดันปิดทุกเดือนพฤศจิกายนเพื่อการฟื้นฟูแนวปะการัง จึงวางแผนทริปดำน้ำระหว่างเดือนธันวาคมถึงตุลาคม ที่อื่น เดือนมรสุมตะวันออกเฉียงเหนือที่ฝนตกชุกกว่า (ราวเดือนพฤศจิกายนถึงมีนาคม) นำฝนมากขึ้นสู่บอร์เนียว"
 
 lang: "th"
+sourceContentHash: "c9653441143f9da8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

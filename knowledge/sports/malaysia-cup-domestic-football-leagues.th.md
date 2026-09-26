@@ -31,8 +31,9 @@ faq:
     a: "MFL เลื่อนปฏิทินให้สอดคล้องกับรูปแบบ AFC ฤดูกาลใหม่เริ่มพฤษภาคม 2024 และสิ้นสุดเมษายน 2025 โดยคำนึงถึงเอเชียนคัพ AFC การคัดเลือกฟุตบอลโลก 2026 และเดือนรอมฎอน"
 
 lang: "th"
+sourceContentHash: "fdb11bb0fa6c116e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

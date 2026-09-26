@@ -52,8 +52,9 @@ obligations:
     consequence: "สถานะ MD เป็นแบบตลอดไปเฉพาะขณะที่ยังคงเป็นไปตามเงื่อนไข"
 
 lang: "th"
+sourceContentHash: "d30f4b105a3a1150"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "ชัยชนะแชมป์ประเภททีมชุดคิงส์คัพครั้งสุดท้ายของมาเลเซียคือในปี 1988 เมื่อถึงปี 2024 การรอคอยนั้นถึงราว 36 ปีเมื่อมาเลเซียแพ้ 0-2 ต่อเจ้าภาพไทยที่นครราชสีมา"
 
 lang: "th"
+sourceContentHash: "a468b0e147901427"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

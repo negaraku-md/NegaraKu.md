@@ -48,8 +48,9 @@ obligations:
     consequence: "ค่าใช้จ่ายคงเหลือยังคงถูกลดด้วยเงินหักลดหย่อนรายปีที่จะขอได้ภายใต้ paragraph 68(c) ดังนั้นปีที่ไม่ได้ขอจึงเป็นการบรรเทาภาระที่เสียไป ไม่ใช่การเลื่อนออกไป"
 
 lang: "th"
+sourceContentHash: "f3aa2542969476e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

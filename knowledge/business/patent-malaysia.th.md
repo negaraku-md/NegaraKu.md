@@ -56,8 +56,9 @@ obligations:
     consequence: "สิทธิบัตรสิ้นสุด; มีระยะผ่อนผันหกเดือนโดยชำระค่าปรับเพิ่มเท่ากับ 100% ของค่าธรรมเนียมสำหรับปีที่เกี่ยวข้อง"
 
 lang: "th"
+sourceContentHash: "00f4afd78d3da72e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

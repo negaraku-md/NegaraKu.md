@@ -33,8 +33,9 @@ faq:
     a: "สำนักงานพัฒนาการลงทุนมาเลเซีย (MIDA) อนุมัติคำขอ ซึ่งยื่นผ่านพอร์ทัล Invest Malaysia คำขอด้านการธนาคารและบริการทางการเงินจัดการโดยธนาคารกลางมาเลเซีย (Central Bank of Malaysia)"
 
 lang: "th"
+sourceContentHash: "9170883af9a3f4af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

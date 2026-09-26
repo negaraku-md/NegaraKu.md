@@ -34,8 +34,9 @@ faq:
     a: "ใช่ ASF ถูกประกาศให้มีสถานะเป็นโรคประจำถิ่นในมาเลเซียเมื่อเดือนสิงหาคม 2025 การระบาดครั้งใหญ่เกิดขึ้นในรัฐสลังงอร์ (สุกร 76,000 ตัวใน 57 ฟาร์ม) และปีนัง โดยปศุสัตว์ที่ติดเชื้อถูกทำลายเพื่อควบคุมการแพร่ระบาด (CodeBlue)"
 
 lang: "th"
+sourceContentHash: "28ee8ace3a3090da"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

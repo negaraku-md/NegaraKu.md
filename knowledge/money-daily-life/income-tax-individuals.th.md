@@ -27,8 +27,9 @@ verificationNeeded:
   - "กำหนดเวลายื่นประจำปี (30 เมษายนแบบยื่นเอง / 15 พฤษภาคม e-Filing) ได้รับการยืนยันสำหรับปีภาษี 2025 ผ่านคำแถลงสื่อที่ลงวันที่ของ LHDN เอง; LHDN ออกโปรแกรมการยื่นใหม่ทุกปี ดังนั้นให้ตรวจสอบวันที่ของปีปัจจุบันอีกครั้งก่อนอ้างอิงสำหรับปีภาษีอื่น"
 
 lang: "th"
+sourceContentHash: "027e674e99f0cfb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

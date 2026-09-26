@@ -22,8 +22,9 @@ verificationNeeded:
   - "ความสามารถในการรับเข้าต่อปี (จำนวนที่นั่ง) ปัจจุบันสำหรับกลุ่ม STPM, Matrikulasi และ A-Level ไม่ได้ระบุไว้ที่นี่ — สิ่งเหล่านี้เปลี่ยนทุกรอบการรับเข้า; ยืนยันตัวเลขของรอบปัจจุบันโดยตรงกับ MPM, ฝ่าย matriculation หรือวิทยาลัยแต่ละแห่งก่อนพึ่งตัวเลขเฉพาะ"
   - "แนวปฏิบัติของ MQA เกี่ยวกับโครงสร้างโครงการ Foundation (Garis Panduan Kurikulum Asasi) ไม่สามารถดึงข้อมูลได้ครบสำหรับบทความนี้ — กฎหน่วยกิตขั้นต่ำหรือระยะเวลาที่ MQA กำหนดสำหรับโครงการ Foundation อธิบายไว้ที่นี่เพียงในเชิงทั่วไป; ยืนยันตัวเลขที่แน่นอนกับ MQA หรือสถาบันที่เสนอก่อนอ้างอิง"
 lang: "th"
+sourceContentHash: "d0b49a1aee8b9177"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

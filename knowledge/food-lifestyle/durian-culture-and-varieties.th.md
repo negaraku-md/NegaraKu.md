@@ -34,8 +34,9 @@ faq:
     a: "ตามคำตอบในรัฐสภาที่รายงานโดย Bernama มาเลเซียส่งออกทุเรียนมูลค่า RM6.37 พันล้าน หรือราว 115,359 ตันเมตริก ไปยังจีนระหว่างปี 2018 ถึง 2025 เป้าหมายมูลค่าการส่งออกในปี 2030 ประมาณการไว้ที่ RM1.8 พันล้าน โดยมีปริมาณ 69,000 ตันเมตริก"
 
 lang: "th"
+sourceContentHash: "c21f23e862b9d969"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -23,8 +23,9 @@ appliesTo: "นายจ้างที่กำลังตัดสินใ�
 
 verificationNeeded: []
 lang: "th"
+sourceContentHash: "e20a9bba2377fd31"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

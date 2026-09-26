@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการทราบเป็นเรื่อง ๆ ไปว่าสหพันธ์หรือรัฐมีอำนาจในการตรากฎหมายฉบับหนึ่งในมาเลเซียหรือไม่"
 
 lang: "th"
+sourceContentHash: "d234775add600d74"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -41,8 +41,9 @@ verificationNeeded:
   - "ยืนยันว่าค่าธรรมเนียมกรรมการที่จ่ายให้กรรมการที่ไม่ใช่ผู้บริหารซึ่งอยู่นอกสัญญาจ้างงานเป็นค่าจ้างเพื่อวัตถุประสงค์ของ EPF หรือไม่; EPF ยืนยันว่ากรรมการที่มีเงินเดือนสมทบแต่ไม่ได้กล่าวถึงค่าธรรมเนียมโดยตรง"
 
 lang: "th"
+sourceContentHash: "b476e81782042301"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

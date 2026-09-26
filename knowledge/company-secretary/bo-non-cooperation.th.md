@@ -24,8 +24,9 @@ verificationNeeded:
   - "ตรวจสอบว่า SSM ได้ออกแนวทางการบังคับใช้ใดเกี่ยวกับช่วงเวลาที่คาดหวังระหว่างหนังสือบอกกล่าวตามมาตรา 60C ฉบับแรกและฉบับที่สองหรือไม่"
 
 lang: "th"
+sourceContentHash: "d0074a8a9e509a8c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

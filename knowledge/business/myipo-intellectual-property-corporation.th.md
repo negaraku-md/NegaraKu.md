@@ -27,8 +27,9 @@ faq:
   - q: "MyIPO อยู่ภายใต้กระทรวงใด?"
     a: "MyIPO เป็นหน่วยงานตามกฎหมายของสหพันธรัฐภายใต้กระทรวงการค้าภายในและค่าครองชีพ (KPDN) กระทรวงที่รับผิดชอบการค้าภายในและกิจการผู้บริโภคในมาเลเซีย"
 lang: "th"
+sourceContentHash: "1a13bdbeb8de806f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

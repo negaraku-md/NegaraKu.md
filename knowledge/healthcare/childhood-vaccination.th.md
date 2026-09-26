@@ -25,8 +25,9 @@ verificationNeeded:
   - "รายละเอียดวัคซีนเสริม/ทางเลือก (เช่น วัคซีนที่ไม่บังคับซึ่งจัดให้แบบมีค่าใช้จ่าย) ไม่สามารถตรวจสอบได้บนแหล่งข้อมูลทางการของ KKM ณ ขณะเขียน จึงไม่ได้ระบุไว้เป็นการเฉพาะในบทความนี้"
 
 lang: "th"
+sourceContentHash: "e3c51524a621f167"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -40,8 +40,9 @@ verificationNeeded:
   - "ผู้ประกอบการแพลตฟอร์มต้องออก e-Invoice แบบออกเองสำหรับการจ่ายเงินให้แรงงานกิ๊กบุคคลธรรมดาหรือไม่ และในระยะใด ควรยืนยันกับ e-Invoice Specific Guideline ปัจจุบัน"
 
 lang: "th"
+sourceContentHash: "4902766a1bf0ff6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -25,8 +25,9 @@ verificationNeeded:
   - "หากฝ่ายใดฝ่ายหนึ่งเคยสมรสมาก่อน หรือเป็นชาวต่างชาติ ยืนยันเอกสารประกอบเฉพาะ (คำพิพากษาหย่า ใบมรณบัตร หนังสือรับรองสถานะโสดจากสถานทูตของคุณ) ที่จำเป็นสำหรับกรณีของคุณที่เคาน์เตอร์ JPN เพราะสิ่งเหล่านี้แตกต่างกันไปตามสถานการณ์"
 
 lang: "th"
+sourceContentHash: "6a489eafa5d0a4e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

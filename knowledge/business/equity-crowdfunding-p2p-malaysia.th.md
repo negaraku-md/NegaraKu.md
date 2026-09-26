@@ -44,8 +44,9 @@ verificationNeeded:
   - "Guidelines ไม่กำหนดอายุขั้นต่ำหรือสูงสุดสำหรับ investment note ของ P2P; พบเพียงระยะเวลาชำระคืนที่เหลือขั้นต่ำ 3 เดือนสำหรับการรับเข้าตลาดรอง"
 
 lang: "th"
+sourceContentHash: "000a7355af87eb83"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

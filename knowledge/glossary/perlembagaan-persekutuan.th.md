@@ -30,8 +30,9 @@ faq:
     a: "มีผลบังคับใช้เมื่อวันที่ 31 สิงหาคม 1957 ในฐานะรัฐธรรมนูญแห่งสหพันธรัฐมลายา และต่อมาขยายและใช้กับสหพันธรัฐมาเลเซียที่ก่อตั้งขึ้นในวันที่ 16 กันยายน 1963"
 
 lang: "th"
+sourceContentHash: "b3ff63755f278553"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

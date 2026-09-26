@@ -29,8 +29,9 @@ faq:
     a: "อนุญาโตตุลาการเอกชนออกคำชี้ขาดราว USD 14.92 พันล้านเมื่อวันที่ 28 กุมภาพันธ์ 2022 แต่มาเลเซียโต้แย้งมันในหลายเขตอำนาจศาลและศาลอุทธรณ์ปารีสเพิกถอนคำชี้ขาดเมื่อวันที่ 9 ธันวาคม 2025"
 
 lang: "th"
+sourceContentHash: "a5cefe938e99cef3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

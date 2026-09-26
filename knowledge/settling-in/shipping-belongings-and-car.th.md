@@ -19,8 +19,9 @@ keyTakeaways:
   - "การจดทะเบียนยานพาหนะยื่นทางอิเล็กทรอนิกส์ผ่านหนึ่งใน Gateway Provider สามรายที่ JPJ แต่งตั้ง โดยมีค่าธรรมเนียมบริการ JPJ RM50 ต่อการยื่น"
 appliesTo: "ผู้ที่ย้ายมามาเลเซีย — ชาวมาเลเซียที่กลับประเทศ ผู้ที่ได้รับการจ้างงานใหม่ชาวต่างชาติ ผู้เข้าร่วม MM2H — ที่กำลังตัดสินใจว่าจะขนส่งอะไร และการขนส่งรถยนต์ส่วนตัวเป็นไปได้จริงหรือไม่"
 lang: "th"
+sourceContentHash: "322f701876a3d3fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

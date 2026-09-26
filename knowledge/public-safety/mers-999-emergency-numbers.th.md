@@ -29,8 +29,9 @@ faq:
     a: "ได้ แอปพลิเคชัน SaveME 999 รองรับการแจ้งเหตุฉุกเฉินด้วยวิดีโอ ข้อความ และมัลติมีเดีย ไม่เพียงแต่การโทรด้วยเสียง เพื่อให้ผู้พิการสามารถติดต่อเจ้าหน้าที่รับสาย 999 ได้เช่นกัน"
 
 lang: "th"
+sourceContentHash: "a2e869579c3095a1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

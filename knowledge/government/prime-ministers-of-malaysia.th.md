@@ -31,8 +31,9 @@ verificationNeeded:
   - "วันที่ดำรงตำแหน่งควรได้รับการยืนยันกับสำนักงานนายกรัฐมนตรีและ Perdana Leadership Foundation Ismail Sabri Yaakob ยังคงเป็นนายกรัฐมนตรีรักษาการหลังการยุบรัฐสภา (10 ต.ค. 2022) จนกระทั่ง Anwar Ibrahim สาบานตนเข้ารับตำแหน่งเมื่อวันที่ 24 พฤศจิกายน 2022 — วันที่สิ้นสุดสะท้อนการโอนตำแหน่ง ในฐานะฉบับร่าง เรื่องนี้ต้องการผู้ตรวจทานที่เป็นมนุษย์ก่อนการเผยแพร่"
 
 lang: "th"
+sourceContentHash: "c027ec0df342599c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

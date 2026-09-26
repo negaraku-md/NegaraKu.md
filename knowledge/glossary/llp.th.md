@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "ผู้ก่อตั้ง ผู้ประกอบวิชาชีพ และที่ปรึกษาที่กำลังเลือกระหว่าง LLP กับ Sdn Bhd หรือกำลังอ่านชื่อ PLT ในสัญญา"
 
 lang: "th"
+sourceContentHash: "9e60329bba13d6ae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "มาตรา 10 แห่งพระราชบัญญัติอุทยานแห่งชาติ ปี 1980 ห้ามการทำเหมืองและการสำรวจแร่ในอุทยานแห่งชาติ เว้นแต่องค์กรอำนาจรัฐ หลังจากปรึกษากับรัฐมนตรี พบว่ามีแหล่งแร่ที่อุดมสมบูรณ์มาก"
 
 lang: "th"
+sourceContentHash: "1f3622365daf3410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

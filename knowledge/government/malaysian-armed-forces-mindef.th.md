@@ -32,8 +32,9 @@ faq:
     a: "นำเสนอต่อ Dewan Rakyat เมื่อวันที่ 2 ธันวาคม 2019"
 
 lang: "th"
+sourceContentHash: "3c6e38b833f827d4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

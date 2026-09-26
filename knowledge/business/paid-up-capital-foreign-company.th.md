@@ -43,8 +43,9 @@ verificationNeeded:
   - "เงินเดือนชาวต่างชาติขั้นต่ำ RM5,000 ที่ระบุใน MIDA Booklet 8 สำหรับการค้าจำหน่ายมีมาก่อนนโยบายเงินเดือน Employment Pass ที่แก้ไขให้มีผลตั้งแต่วันที่ 1 มิถุนายน 2026 และควรอ่านเทียบกับช่วงเงินเดือนปัจจุบัน"
 
 lang: "th"
+sourceContentHash: "7e020b10096556f2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

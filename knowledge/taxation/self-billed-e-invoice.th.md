@@ -41,8 +41,9 @@ verificationNeeded:
   - "การยกเว้นการพนันและเกมสำหรับคาสิโนและเครื่องเล่นเกมได้ถูกยกเลิกหรือไม่ — LHDN ระบุว่าใช้บังคับจนกว่าจะมีการแจ้งเพิ่มเติมโดยไม่มีการประกาศวันสิ้นสุด"
 
 lang: "th"
+sourceContentHash: "881bae66be5fb011"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

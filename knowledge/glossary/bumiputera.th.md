@@ -34,8 +34,9 @@ seoTitle: "Bumiputera: Maksud Istilah dan Asas Perlembagaannya"
 socialTitle: "Bumiputera — คำที่ไม่มีอยู่ในรัฐธรรมนูญ แต่มีรากฐานอยู่ในมาตรา 153, 160 และ 161A"
 
 lang: "th"
+sourceContentHash: "924aa904a876b274"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

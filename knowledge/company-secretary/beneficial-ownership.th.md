@@ -75,8 +75,9 @@ obligations:
     consequence: "ความผิดภายใต้มาตรา 60C(7)"
 
 lang: "th"
+sourceContentHash: "5960cbcc31d84c2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

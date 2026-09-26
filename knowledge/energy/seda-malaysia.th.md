@@ -30,8 +30,9 @@ faq:
     a: "โครงการ NEM 3.0 สิ้นสุดเมื่อปลายเดือนมิถุนายน 2025 ถูกแทนที่ด้วย Solar ATAP ที่มีผลบังคับ 1 มกราคม 2026 โดยไม่มีขีดจำกัดโควตาโดยรวมและบริหารผ่านพอร์ทัล eATAP ของ SEDA ที่ atap.seda.gov.my"
 
 lang: "th"
+sourceContentHash: "2d635eb062db955f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

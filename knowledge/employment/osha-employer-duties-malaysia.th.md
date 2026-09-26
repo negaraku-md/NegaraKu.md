@@ -75,8 +75,9 @@ obligations:
     consequence: "การฟ้องคดีภายใต้พระราชบัญญัติ"
 
 lang: "th"
+sourceContentHash: "3632c2c27953365f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

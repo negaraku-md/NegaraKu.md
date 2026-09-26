@@ -41,8 +41,9 @@ verificationNeeded:
   - "ยืนยันว่า NIF มีปฏิสัมพันธ์กับเงินอุดหนุนการลงทุนซ้ำ (Reinvestment Allowance) ภายใต้ Schedule 7A และกับการอนุมัติตาม PIA เดิมที่ถูกขยายหรือปรับเปลี่ยนอย่างไร"
 
 lang: "th"
+sourceContentHash: "aa93955df38668cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

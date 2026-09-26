@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "นักเรียนนักศึกษา นักวิจัย นักข่าว และผู้ที่ต้องการเข้าใจตำแหน่งอัยการสูงสุดตามรัฐธรรมนูญจากตัวบทของมาตรา 145 แห่งรัฐธรรมนูญสหพันธ์เอง"
 
 lang: "th"
+sourceContentHash: "1cdb5bbdd1308bf3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "HSN เป็นวันสูงสุดของการจัดงาน ตั้งแต่ปี 2019 KBS ขยายการจัดงานตลอดเดือนตุลาคมเป็นเดือนกีฬาแห่งชาติ (BSN)"
 
 lang: "th"
+sourceContentHash: "51f2375791aa9f72"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ seoTitle: "ภาษาถิ่นของชาวจีนมาเลเซ
 socialTitle: "เป็นชาวจีนเหมือนกัน เหตุใดจึงพูดกันคนละภาษา? แผนที่ภาษาถิ่นของมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "c773c2be8c4e6544"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

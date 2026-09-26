@@ -36,8 +36,9 @@ faq:
     a: "ได้ การรับรองฮาลาลมุ่งเน้นที่การปฏิบัติตามข้อกำหนด MS 1500 และ MPPHM ของผลิตภัณฑ์ วัตถุดิบ และกระบวนการ ไม่ใช่ศาสนาของเจ้าของ บริษัทที่เจ้าของไม่ใช่มุสลิมสามารถและหลายบริษัทได้ยื่นขอและได้รับใบรับรองการยืนยันฮาลาลมาเลเซีย"
 
 lang: "th"
+sourceContentHash: "f2b9c9a9d90925a7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

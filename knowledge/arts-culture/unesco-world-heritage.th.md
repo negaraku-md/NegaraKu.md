@@ -30,8 +30,9 @@ faq:
     a: "ใช่ ศูนย์มรดกโลกบันทึกแหล่งสามแห่งในบัญชีเบื้องต้นของมาเลเซีย ได้แก่ อุทยานแห่งชาติ (ตามันเนอการา) ของคาบสมุทรมาเลเซีย สันควอตซ์กอมบักสลังงอร์ และสถานพยาบาลโรคเรื้อนซูไงบูโละฮ์ การอยู่ในบัญชีเบื้องต้นเป็นการประกาศเจตนาที่จะเสนอชื่อ ไม่ใช่การขึ้นทะเบียน"
 
 lang: "th"
+sourceContentHash: "2314ed1b6daf68a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

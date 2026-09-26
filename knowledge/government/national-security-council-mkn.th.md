@@ -29,8 +29,9 @@ faq:
     a: "ตามมาตรา 6 สมาชิกได้แก่ นายกรัฐมนตรี (ประธาน) รองนายกรัฐมนตรี รัฐมนตรีว่าการกระทรวงกลาโหม รัฐมนตรีว่าการกระทรวงมหาดไทย รัฐมนตรีว่าการกระทรวงการสื่อสารและมัลติมีเดีย เลขาธิการรัฐบาล ผู้บัญชาการทหารสูงสุด และผู้บัญชาการตำรวจแห่งชาติ"
 
 lang: "th"
+sourceContentHash: "c3999252b2bdc0d7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

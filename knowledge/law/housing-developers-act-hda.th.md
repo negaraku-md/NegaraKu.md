@@ -38,8 +38,9 @@ faq:
     a: "ไม่ หลังจากการแก้ไขกฎปี 2015 ไม่มีใคร — รวมถึงทนายความผู้ทรงทรัพย์ — สามารถเก็บค่าใช้จ่ายใด ๆ (ค่าจอง เงินมัดจำ และสิ่งทำนองเดียวกัน) ก่อนที่จะลงนามสัญญาซื้อขายได้ เว้นแต่ที่สัญญาการขายกำหนด (กฎ 11(2))"
 
 lang: "th"
+sourceContentHash: "b9b4698e2a0c2539"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

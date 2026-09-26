@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจเชิงบรรยายว่าวุฒิสมาชิกของมาเลเซียได้รับเลือกและแต่งตั้งอย่างไร และ Dewan Negara มีอิทธิพลต่อเส้นทางของร่างกฎหมายได้เพียงใด"
 
 lang: "th"
+sourceContentHash: "795be8860e769da6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

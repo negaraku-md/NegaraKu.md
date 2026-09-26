@@ -22,8 +22,9 @@ verificationNeeded:
   - "วันที่และสถานที่เฉพาะของร้านมามักแห่งแรกที่ก่อตั้งในแหลมมลายู — แหล่งข้อมูลที่พบกล่าวถึงยุคอาณานิคมอังกฤษอย่างกว้าง ๆ โดยไม่มีวันที่หรือบันทึกอย่างเป็นทางการที่ได้รับการยืนยัน"
 
 lang: "th"
+sourceContentHash: "3046b79972e90a21"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -38,8 +38,9 @@ verificationNeeded:
   - "ขนาด (จำนวนบุคลากร) ปัจจุบันที่แน่นอนของราชการพลเรือนมาเลเซีย — ไม่สามารถยืนยันตัวเลขที่แม่นยำและเป็นปัจจุบันในหน้าทางการ ณ เวลาที่เขียน"
 
 lang: "th"
+sourceContentHash: "89bfb5455655a271"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

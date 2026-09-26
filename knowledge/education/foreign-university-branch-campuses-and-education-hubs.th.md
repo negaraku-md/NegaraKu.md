@@ -34,8 +34,9 @@ faq:
     a: "ไม่ ขณะที่ Monash, Nottingham, Xiamen และ Heriot-Watt กระจุกตัวอยู่รอบหุบเขากลังและปุตราจายา แต่ EduCity Iskandar รวมวิทยาเขตหลายแห่งไว้ในยะโฮร์ใกล้สิงคโปร์ และ Curtin กับ Swinburne ดำเนินการอยู่ในซาราวัก"
 
 lang: "th"
+sourceContentHash: "eb5708a4ddb8ff8d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

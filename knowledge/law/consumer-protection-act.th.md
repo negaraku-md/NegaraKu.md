@@ -30,8 +30,9 @@ faq:
     a: "คำชี้ขาดเป็นที่สุดและมีผลผูกพันต่อคู่กรณีและบังคับได้ผ่านศาลแขวง ไม่มีสิทธิอุทธรณ์ปกติ; การเยียวยาของฝ่ายที่ไม่พอใจคือการยื่นคำร้องต่อศาลสูงเพื่อขอการทบทวนโดยตุลาการ"
 
 lang: "th"
+sourceContentHash: "7e827e839a62b8bc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

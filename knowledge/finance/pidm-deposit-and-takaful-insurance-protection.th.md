@@ -37,8 +37,9 @@ faq:
     a: "หากธนาคารสมาชิกล้มเหลว PIDM จะชดใช้ให้ผู้ฝากที่มีสิทธิ์สูงสุดถึงวงเงิน RM250,000 หากบริษัทประกันสมาชิกล้มเหลว PIDM จะจัดให้มีความต่อเนื่องของการคุ้มครองของคุณ หรือจ่ายผลประโยชน์ที่ได้รับการคุ้มครองสูงสุดถึงวงเงินที่ใช้บังคับ"
 
 lang: "th"
+sourceContentHash: "6dadc68b3f5258f8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "การดำเนินการโดยไม่จดทะเบียนเป็นความผิด ภายใต้ Section 39 นิติบุคคลเผชิญโทษปรับ RM10,000 ถึง RM50,000 สำหรับความผิดครั้งแรกและ RM20,000 ถึง RM100,000 สำหรับครั้งต่อไป; บุคคลเผชิญ RM5,000 ถึง RM25,000 หรือจำคุกสูงสุดหกเดือนสำหรับความผิดครั้งแรก"
 
 lang: "th"
+sourceContentHash: "86582fd00a53a2cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

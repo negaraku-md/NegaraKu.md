@@ -43,8 +43,9 @@ verificationNeeded:
   - "จำนวนแถวสูงสุดที่ยอมรับในสเปรดชีตอัปโหลดแบทช์ของ MyInvois Portal — LHDN อธิบายจำนวนหนึ่งโดยไม่ระบุมัน"
 
 lang: "th"
+sourceContentHash: "12fac171732261f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

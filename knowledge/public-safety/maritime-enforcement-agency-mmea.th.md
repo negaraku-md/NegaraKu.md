@@ -29,8 +29,9 @@ faq:
     a: "การศึกษาของรัฐบาลในเดือนเมษายน 1999 พบว่ามีการทับซ้อนของหน้าที่ การทับซ้อนของเขตอำนาจ และการใช้ทรัพยากรที่ไม่ประหยัดระหว่างหน่วยงานต่างๆ APMM จึงถูกจัดตั้งขึ้นเพื่อรวมการบังคับใช้กฎหมายทางทะเลไว้ภายใต้หน่วยงานเดียว"
 
 lang: "th"
+sourceContentHash: "d5fb408e6cb3819a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -27,8 +27,9 @@ faq:
     a: "จักรยานไฟฟ้าได้รับการยกเว้นเฉพาะเมื่อเป็นประเภทช่วยปั่นที่เป็นไปตามมาตรฐานมาเลเซีย MS2514 โดยไม่มีคันเร่ง (throttle) และมีบันไดปั่นที่ติดตั้งอยู่อย่างถาวร จักรยานไฟฟ้าที่มีคันเร่งซึ่งไม่ได้รับการอนุมัติถูกจัดประเภทเป็น PMD หรือโมเพ็ดและถูกห้าม"
 
 lang: "th"
+sourceContentHash: "c96ca2ea918ba45a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

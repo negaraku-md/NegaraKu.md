@@ -32,8 +32,9 @@ faq:
     a: "สถานทูตและสำนักงานข้าหลวงใหญ่ต่างชาติที่ประจำอยู่ส่วนใหญ่อยู่ในกัวลาลัมเปอร์ (Kuala Lumpur) และปุตราจายา (Putrajaya) โดยบางประเทศยังมีสถานกงสุลในเมืองต่าง ๆ เช่น ปีนัง (Penang) ยะโฮร์บาห์รู (Johor Bahru) โกตากีนาบาลู (Kota Kinabalu) และกูจิง (Kuching)"
 
 lang: "th"
+sourceContentHash: "7bb552ee1b28a75c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

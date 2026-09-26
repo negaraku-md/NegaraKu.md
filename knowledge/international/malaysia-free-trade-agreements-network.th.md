@@ -30,8 +30,9 @@ faq:
     a: "ยัง MITI ระบุว่า MEEPA ลงนามเมื่อวันที่ 23 มิถุนายน 2025 แต่ยังไม่มีผลบังคับใช้ ดังนั้นผู้ส่งออกและผู้นำเข้าจึงไม่สามารถใช้สิทธิพิเศษได้จนกว่าทั้งสองฝ่ายจะดำเนินการให้สัตยาบันเสร็จสมบูรณ์"
 
 lang: "th"
+sourceContentHash: "2907ad666c9762d0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "ประเภทที่ JKKN บันทึกไว้ ได้แก่ งาจัตเลอซง (Ngajat Lesong, รำโดยชายพร้อมคาบครกไม้) งาจัตอินดู (Ngajat Indu, รำโดยหญิงด้วยท่าทอปัวกุมบู) งาจัตปัวกุมบู (Ngajat Pua Kumbu, ใช้ผ้าปัวกุมบู) และงาจัตงีลิงติกาย (Ngajat Ngiling Tikai) ที่เป็นสัญญาณสิ้นสุดงานฉลองกาไวดายัก"
 
 lang: "th"
+sourceContentHash: "bc3c9b377ae4eddf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

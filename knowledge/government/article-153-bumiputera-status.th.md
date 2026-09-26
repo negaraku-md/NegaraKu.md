@@ -33,8 +33,9 @@ faq:
     a: "มาตรา 153(4), (7) และ (8) ระบุว่ามาตรานี้ไม่อาจเพิกถอนตำแหน่งราชการ ทุนการศึกษา สิทธิ เอกสิทธิ์ ใบอนุญาต หรือใบอนุญาตที่บุคคลได้รับหรือถืออยู่แล้วจากผู้ใด"
 
 lang: "th"
+sourceContentHash: "90a331e05e64e807"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

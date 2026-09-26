@@ -29,8 +29,9 @@ faq:
     a: "วันมาเลเซียกลายเป็นวันหยุดราชการระดับสหพันธ์ทั่วประเทศเพียงหลายทศวรรษหลังการก่อตั้งสหพันธ์ ก่อนหน้านั้น 16 กันยายนเป็นเพียงวันหยุดในบางดินแดนและไม่ได้เฉลิมฉลองอย่างเป็นแบบเดียวกันในระดับชาติ แม้ว่ามันจะเป็นวันก่อตั้งสหพันธ์มาตั้งแต่ปี 1963"
 
 lang: "th"
+sourceContentHash: "25064de19f113798"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

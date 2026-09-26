@@ -64,8 +64,9 @@ obligations:
     consequence: "นายทะเบียนอาจสั่งให้ถอนชื่อบริษัทออกจากทะเบียนภายใต้ Subdivision 1 of Division 4 of Part IV"
 
 lang: "th"
+sourceContentHash: "55df0bf1e950a993"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

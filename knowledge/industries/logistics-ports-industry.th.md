@@ -34,8 +34,9 @@ faq:
     a: "มาเลเซียอยู่อันดับ 26 ในดัชนีสมรรถนะโลจิสติกส์ของธนาคารโลก 2023 เพิ่มขึ้นจากอันดับ 41 ในปี 2018 และอันดับสองในบรรดาชาติอาเซียนรองจากสิงคโปร์"
 
 lang: "th"
+sourceContentHash: "5308f8757b834449"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

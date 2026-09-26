@@ -37,8 +37,9 @@ verificationNeeded:
   - "หนังสือรับรองถิ่นที่อยู่สามารถออกสำหรับปีที่ผ่านการทดสอบถิ่นที่อยู่หลังวันที่ยื่นคำขอได้หรือไม่ ไม่ได้กล่าวถึงบนหน้าเว็บของ LHDN"
 
 lang: "th"
+sourceContentHash: "11fa9fda7774dfda"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

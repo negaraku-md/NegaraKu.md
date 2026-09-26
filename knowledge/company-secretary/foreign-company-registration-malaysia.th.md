@@ -33,8 +33,9 @@ faq:
     a: "บริษัทต่างประเทศที่จดทะเบียนต้องยื่นแบบแสดงรายการประจำปีภายใน 30 วันนับจากวันครบรอบการจดทะเบียน (มาตรา 576) และยื่นงบการเงินต่อ SSM (มาตรา 575) นอกเหนือจากการเก็บรายละเอียดสำนักงานจดทะเบียนและตัวแทนให้เป็นปัจจุบัน"
 
 lang: "th"
+sourceContentHash: "76459d3892f48c61"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "ผู้อ่านที่ต้องการเข้าใจในเชิงพรรณนาถึงวิธีการจัดระเบียบรัฐบาลของรัฐในมาเลเซีย — นักเรียน ข้าราชการ นักข่าว และผู้ที่พยายามหาคำตอบว่าเหตุใดบางรัฐจึงมีเมินเตอรีเบอซาร์และอิสตานาเนอเกอรี ขณะที่บางรัฐมีมุขมนตรีและผู้ว่าการรัฐ"
 
 lang: "th"
+sourceContentHash: "0eb897c5d29d626d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

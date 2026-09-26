@@ -42,8 +42,9 @@ verificationNeeded:
   - "ยืนยันค่าธรรมเนียมการยื่นของ SSM ปัจจุบันที่ใช้กับการรับข้อบังคับมาใช้ครั้งแรกเทียบกับการแก้ไข"
 
 lang: "th"
+sourceContentHash: "feb9a1bc3f5debaf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

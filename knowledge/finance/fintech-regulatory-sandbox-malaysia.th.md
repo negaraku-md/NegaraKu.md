@@ -30,8 +30,9 @@ faq:
     a: "คณะกรรมการกำกับหลักทรัพย์มาเลเซีย (Securities Commission Malaysia) นวัตกรรมตลาดทุน — การเงินทางเลือก หลักทรัพย์ที่แปลงเป็นโทเคน แพลตฟอร์มตลาดรอง — ไปที่ sandbox ของ SC ไม่ใช่ของ BNM"
 
 lang: "th"
+sourceContentHash: "923d24c78b24d1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

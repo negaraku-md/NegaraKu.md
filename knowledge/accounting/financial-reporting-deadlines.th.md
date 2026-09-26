@@ -101,8 +101,9 @@ obligations:
     consequence: "เป็นความผิดตามมาตรา 245(9) มีโทษปรับสูงสุด RM500,000 หรือจำคุกสูงสุดสามปี หรือทั้งจำทั้งปรับ"
 
 lang: "th"
+sourceContentHash: "e16e3149a455f777"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

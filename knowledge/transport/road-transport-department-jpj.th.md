@@ -25,8 +25,9 @@ faq:
   - q: "e-LKM คืออะไร?"
     a: "e-LKM คือใบอนุญาตยานยนต์แบบดิจิทัล (ภาษีถนนดิจิทัล) ที่ JPJ นำมาใช้ตั้งแต่ปี 2023 แทนที่สติกเกอร์กายภาพ สามารถเข้าถึงได้ผ่านแอปพลิเคชัน MyJPJ หรือพอร์ทัล MySIKAP"
 lang: "th"
+sourceContentHash: "5feaacc87ec61a6a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -61,8 +61,9 @@ obligations:
     consequence: "ปรับสูงสุด RM50,000 จำคุกสูงสุดสองปี หรือทั้งจำทั้งปรับ บวกสูงสุด RM500 ต่อวันสำหรับความผิดที่ดำเนินต่อเนื่อง"
 
 lang: "th"
+sourceContentHash: "8a2909522637427b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "JAKIM ตั้งเป้าไว้ที่ 15 ถึง 30 วันทำการเมื่อได้รับคำขอที่สมบูรณ์แล้ว ในทางปฏิบัติ เมื่อคำนึงถึงการเตรียมเอกสาร การตรวจประเมิน ณ สถานที่จริง และการแก้ไขต่าง ๆ ธุรกิจควรเผื่อเวลาสามถึงหกเดือนตั้งแต่เริ่มจนได้ใบรับรอง"
 
 lang: "th"
+sourceContentHash: "5688169feeb631ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

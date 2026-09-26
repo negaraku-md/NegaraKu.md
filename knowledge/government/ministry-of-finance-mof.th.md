@@ -27,8 +27,9 @@ faq:
   - q: "ใครนำกระทรวงการคลัง?"
     a: "ณ เดือนสิงหาคม 2026 รัฐมนตรีว่าการกระทรวงการคลังคือ Dato' Seri Anwar bin Ibrahim โดยมี Datuk Seri Amir Hamzah bin Azizan เป็นรัฐมนตรีว่าการกระทรวงการคลังคนที่สอง และ Datuk Johan Mahmood bin Merican เป็นเลขาธิการกระทรวงพระคลัง ผู้ดำรงตำแหน่งเปลี่ยนไปตามการปรับคณะรัฐมนตรี ดังนั้นให้ตรวจสอบชื่อปัจจุบันที่ mof.gov.my"
 lang: "th"
+sourceContentHash: "d725c73359a7391e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -34,8 +34,9 @@ faq:
     a: "ไม่ การรับรองฮาลาลบ่งบอกถึงสุขอนามัย การตรวจสอบย้อนกลับ และมาตรฐานคุณภาพ และภาคนี้ทำการตลาดให้กับผู้บริโภคทั้งมุสลิมและไม่ใช่มุสลิม ตลอดจนปลายทางการส่งออกที่ไม่ได้มีชาวมุสลิมเป็นส่วนใหญ่"
 
 lang: "th"
+sourceContentHash: "e86c482e092e1722"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

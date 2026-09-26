@@ -31,8 +31,9 @@ faq:
     a: "อุทยานทางทะเลในคาบสมุทรถูกประกาศภายใต้พระราชบัญญัติประมง ปี 1985 ซึ่งสร้างเขตคุ้มครองสองไมล์ทะเลจากเกาะที่ห้ามกิจกรรมเช่นการรบกวนเต่าที่กำลังวางไข่และการเก็บลูกเต่า"
 
 lang: "th"
+sourceContentHash: "3ba84882f4818881"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

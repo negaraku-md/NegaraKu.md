@@ -29,8 +29,9 @@ faq:
     a: "ในจำนวนนั้นได้แก่ อัตราการรีไซเคิลบรรจุภัณฑ์พลาสติก 25% ภายในปี 2025 อัตราการเก็บเพื่อรีไซเคิลเฉลี่ย (CFR) 76% ภายในปี 2030 และปริมาณวัสดุรีไซเคิลเฉลี่ย 15% ภายในปี 2030 เป้าหมายอัตราการรีไซเคิล 100% ถูกตั้งไว้ภายในปี 2050"
 
 lang: "th"
+sourceContentHash: "a24e4c1da4f3ae42"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

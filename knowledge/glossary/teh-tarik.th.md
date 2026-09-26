@@ -26,8 +26,9 @@ verificationNeeded:
   - "ต้นกำเนิดของเตะตาริกในชุมชนอินเดียมุสลิมในแหลมมลายู — กล่าวถึงกันทั่วไป แต่วันที่และสถานที่เฉพาะไม่ได้รับการยืนยันในแหล่งข้อมูลอย่างเป็นทางการของรัฐบาลใด"
 
 lang: "th"
+sourceContentHash: "445b06c48abc194e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

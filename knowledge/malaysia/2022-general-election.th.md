@@ -31,8 +31,9 @@ verificationNeeded:
   - "ตัวเลขทั้งหมดต้องได้รับการยืนยันเทียบกับคณะกรรมการการเลือกตั้งแห่งมาเลเซีย (Suruhanjaya Pilihan Raya) โปรดทราบว่าผลนับสุดท้ายแตกต่างเล็กน้อยจากตัวเลขในคืนเลือกตั้งเนื่องจากที่นั่งหนึ่งถูกเลื่อน"
 
 lang: "th"
+sourceContentHash: "acdebe065daafc2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

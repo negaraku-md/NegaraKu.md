@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจวิธีการเล่นกาสิง ความแตกต่างระหว่างกาสิงปังกะฮ์กับกาสิงอูรี และความเชื่อมโยงกับมรดกของชายฝั่งตะวันออก"
 
 lang: "th"
+sourceContentHash: "fc40c99c7c7666a6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

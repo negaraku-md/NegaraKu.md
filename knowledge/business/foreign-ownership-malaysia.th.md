@@ -48,8 +48,9 @@ verificationNeeded:
   - "เกณฑ์ราคาซื้อขั้นต่ำต่อรัฐสำหรับการได้มาซึ่งอสังหาริมทรัพย์ของชาวต่างชาติไม่ได้ยืนยันกับแหล่งสำนักงานที่ดินของรัฐ ตัวเลข RM1,000,000 เป็นพื้นระดับสหพันธรัฐ; รัฐกำหนดของตนเอง มักสูงกว่า"
 
 lang: "th"
+sourceContentHash: "9eb59bf5dfe47262"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

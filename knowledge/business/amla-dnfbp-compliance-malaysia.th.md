@@ -30,8 +30,9 @@ faq:
     a: "ไม่ รายงานธุรกรรมเงินสดที่ถึงเกณฑ์สำหรับธุรกรรมเงินสด RM25,000 ขึ้นไปใช้เฉพาะกับสถาบันการธนาคาร สถาบันการเงินเพื่อการพัฒนาที่กำหนด Lembaga Tabung Haji และคาสิโนที่ได้รับใบอนุญาตเท่านั้น DNFBP ยังคงมีภาระหน้าที่ STR อยู่"
 
 lang: "th"
+sourceContentHash: "ed7c9043d8d06f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

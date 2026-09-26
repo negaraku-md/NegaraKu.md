@@ -50,8 +50,9 @@ obligations:
     consequence: "ค่าปรับการจ่ายล่าช้าและการดำเนินการบังคับใช้"
 
 lang: "th"
+sourceContentHash: "dfd63c27558be655"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

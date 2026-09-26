@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่อ่านหรืออ้างอิงกฎหมายมาเลเซีย — ทนายความ นักศึกษา เจ้าของธุรกิจ และนักวิจัย"
 
 lang: "th"
+sourceContentHash: "fcd52a1ed198449a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -37,8 +37,9 @@ verificationNeeded:
   - "หน้าประวัติของ MIDA เองระบุการจัดตั้งเป็นนิติบุคคลในปี 1967 ภายใต้ Act 397 แต่จุดที่ชื่อภาษาอังกฤษของสำนักงานเปลี่ยนจาก 'Malaysian Industrial Development Authority' เป็น 'Malaysian Investment Development Authority' ยังไม่ได้รับการยืนยันจากแหล่งข้อมูลทางการและไม่ได้ระบุในบทความนี้"
 
 lang: "th"
+sourceContentHash: "384564550c625009"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

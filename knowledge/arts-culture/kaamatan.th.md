@@ -33,8 +33,9 @@ faq:
     a: "มากาเวาคือพิธีขอบคุณเพื่อยกย่องและ 'เรียกกลับ' วิญญาณข้าวบัมบาอาซนหลังการเก็บเกี่ยว ตามธรรมเนียมนำโดยโบโบฮีซัน (bobohizan หรือสะกดว่า bobolian) หญิงผู้ทำพิธีที่สวดบทพิธีกรรม เป็นหนึ่งในองค์ประกอบพิธีกรรมที่เก่าแก่ของกามาตัน"
 
 lang: "th"
+sourceContentHash: "77931677eb9c36e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

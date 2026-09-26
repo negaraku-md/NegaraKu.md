@@ -34,8 +34,9 @@ faq:
     a: "ไม่ มันไม่ใช้บังคับกับข้าราชการ ผู้ฝึกงาน ลูกจ้างทดลองงาน แรงงานต่างชาติ คนรับใช้ในบ้าน ลูกจ้างนอกเวลา นักเรียนชั่วคราว และลูกจ้างสัญญามีกำหนดระยะเวลาบางประเภท"
 
 lang: "th"
+sourceContentHash: "f2f42b17c86c3524"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

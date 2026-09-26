@@ -32,8 +32,9 @@ faq:
     a: "พอร์ทัล MyGovernment ระบุว่าการตัดสินใจนั้นเป็นการถาวรและไม่สามารถเพิกถอนได้; บุคคลที่สละสัญชาติของตนจะสูญเสียสิทธิและสิทธิพิเศษทั้งหมดในฐานะพลเมืองมาเลเซียอย่างถาวร"
 
 lang: "th"
+sourceContentHash: "350dd3e83765a9b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

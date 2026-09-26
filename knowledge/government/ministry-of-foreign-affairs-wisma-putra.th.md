@@ -35,8 +35,9 @@ faq:
     a: "ณ ปี 2026 รัฐมนตรีว่าการกระทรวงการต่างประเทศคือ Dato' Seri Utama Mohamad Hasan ขอบเขตงานของคณะรัฐมนตรีเปลี่ยนไปตามการปรับคณะรัฐมนตรี ดังนั้นให้ยืนยันผู้ดำรงตำแหน่งปัจจุบันที่ kln.gov.my"
 
 lang: "th"
+sourceContentHash: "e91cf1913840a424"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -32,8 +32,9 @@ verificationNeeded:
   - "วันเป้าหมายสิ้นปี 2026 ของ RTS Link เป็นเป้าหมายที่ผู้ให้บริการระบุเอง ณ เวลาที่เขียนและควรยืนยันอีกครั้งใกล้กับการเผยแพร่ เนื่องจากการเปิดโครงสร้างพื้นฐานข้ามพรมแดนมักล่าช้า"
 
 lang: "th"
+sourceContentHash: "cd13a733d0e3f471"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

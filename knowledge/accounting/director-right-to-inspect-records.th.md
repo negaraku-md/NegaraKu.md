@@ -26,8 +26,9 @@ verificationNeeded:
   - "คำวินิจฉัยของศาลอุทธรณ์ที่ยืนตามประเด็นเรื่องบริษัทย่อยรายงานไว้ว่าเป็นวันที่ 27 กันยายน 2023 ไม่พบเหตุผลที่เป็นลายลักษณ์อักษรในแหล่งข้อมูลของฝ่ายตุลาการอย่างเป็นทางการ"
 
 lang: "th"
+sourceContentHash: "0aa2b1460e10e990"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

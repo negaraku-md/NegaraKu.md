@@ -42,8 +42,9 @@ verificationNeeded:
   - "เป้าหมายทางการปี 2025 หรือ 2026 ใดสำหรับ Kuantan New Deep Water Terminal Phase 2 ณ เมษายน 2025 Phase 2 ยังคงอยู่ในการวางแผน; หลักเป้าหมายที่มีวันที่แน่นอนเดียวที่พบเป็นเชิงสัญญา (เสร็จภายในธันวาคม 2039 เพื่อรักษาการขยายสัมปทานถึง 2075) ไม่ใช่เป้าหมายการเริ่มหรือเสร็จในระยะใกล้"
 
 lang: "th"
+sourceContentHash: "a51699526b272fe8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

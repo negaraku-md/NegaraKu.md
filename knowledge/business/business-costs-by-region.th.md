@@ -47,8 +47,9 @@ verificationNeeded:
   - "ไม่มีค่ามัธยฐานค่าเช่าอุตสาหกรรมหรือสำนักงานทางการรายรัฐอยู่ ยืนยันว่า JPPH เผยแพร่ชุดข้อมูลค่าเช่าใด ๆ ที่ไม่ปรากฏใน Property Stock Report หรือ Property Market Reports รายภูมิภาคหรือไม่"
 
 lang: "th"
+sourceContentHash: "7197254874c986ae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

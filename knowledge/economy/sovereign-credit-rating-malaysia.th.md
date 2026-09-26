@@ -32,8 +32,9 @@ faq:
     a: "อันดับที่สูงขึ้นลดดอกเบี้ยที่รัฐบาลจ่ายสำหรับพันธบัตรของตน ซึ่งเปิดพื้นที่งบประมาณและยึดต้นทุนการกู้ยืมในวงกว้าง อันดับยังหล่อหลอมอุปสงค์ของนักลงทุนต่างชาติต่อสินทรัพย์ริงกิต ส่งผลต่อค่าเงินโดยอ้อม"
 
 lang: "th"
+sourceContentHash: "2be52c4fe36e74d8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

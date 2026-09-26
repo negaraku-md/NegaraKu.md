@@ -36,8 +36,9 @@ faq:
     a: "จากเป้าหมาย 15–30 MtCO₂eq สูงสุด 20 MtCO₂eq เป็นแบบไม่มีเงื่อนไข มาเลเซียผูกพันกับมันไม่ว่าอย่างไร อีก 10 MtCO₂eq เป็นแบบมีเงื่อนไข หมายความว่าจะดำเนินการได้ก็ต่อเมื่อมีการเงินสภาพภูมิอากาศระหว่างประเทศ การถ่ายทอดเทคโนโลยี และการสนับสนุนการเสริมสร้างศักยภาพ"
 
 lang: "th"
+sourceContentHash: "7ad2136668e2982a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

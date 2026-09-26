@@ -31,8 +31,9 @@ faq:
     a: "ไม่ อากรสรรพสามิตเครื่องดื่มที่มีน้ำตาลมุ่งเป้าไปที่เครื่องดื่มพร้อมดื่มภายใต้ HS 2202 ที่มีน้ำตาลมากกว่า 5 กรัมต่อทุก 100 มล. เครื่องดื่มที่มีนมเป็นฐานเกิน 7 กรัมต่อทุก 100 มล. และน้ำผลไม้หรือผักภายใต้ HS 2009 เกิน 12 กรัมต่อทุก 100 มล. เกณฑ์แตกต่างกันตามหมวด"
 
 lang: "th"
+sourceContentHash: "84d4e95aaaa26789"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

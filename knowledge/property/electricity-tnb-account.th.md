@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "ทุกคนที่ย้ายเข้าบ้านหรือสถานที่ใหม่ในมาเลเซียและต้องเปิด โอน หรือปิดบัญชีการจ่ายไฟฟ้า ไม่ว่าจะอยู่ในคาบสมุทร ซาบาห์ หรือซาราวัก"
 
 lang: "th"
+sourceContentHash: "6891503e50f70d6b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

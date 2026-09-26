@@ -27,8 +27,9 @@ faq:
     a: "ไม่ ค่าค้าปลีก RM10 ต่อเดือนได้รับการยกเว้นสำหรับครัวเรือนที่ใช้ 600 kWh หรือน้อยกว่าต่อเดือน"
 
 lang: "th"
+sourceContentHash: "6f49b99389da2c61"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

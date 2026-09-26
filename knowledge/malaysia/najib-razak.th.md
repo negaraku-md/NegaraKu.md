@@ -32,8 +32,9 @@ verificationNeeded:
   - "วันที่และตัวเลขที่แน่นอน (การดำรงตำแหน่งนายกรัฐมนตรี อัตรา GST ตัวเลขในคดี โทษ) ต้องได้รับการยืนยันเทียบกับสำนักนายกรัฐมนตรี ศาล และคณะกรรมการการเลือกตั้ง"
 
 lang: "th"
+sourceContentHash: "b57664a883ee2959"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

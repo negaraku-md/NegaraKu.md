@@ -27,8 +27,9 @@ verificationNeeded:
   - "ยืนยันว่าศาลมาเลเซียใดเคยรับรองข้อกำหนดห้ามชักชวนลูกค้าหลังการเลิกจ้างว่าตกอยู่นอกมาตรา 28 หรือไม่"
 
 lang: "th"
+sourceContentHash: "d5d94ae67835a159"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Schedule 1 Part XVIII จำกัดอัตราสำหรับผู้มีถิ่นที่อยู่ที่ไม่ใช่พลเมืองในตำแหน่งสำคัญภายใต้โครงการสิทธิประโยชน์ที่ได้รับอนุมัติไว้ที่ไม่เกิน 20% — อัตราที่ใช้บังคับกำหนดเป็นรายโครงการและยังไม่ได้ตรวจสอบ"
 
 lang: "th"
+sourceContentHash: "361de000de2978ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

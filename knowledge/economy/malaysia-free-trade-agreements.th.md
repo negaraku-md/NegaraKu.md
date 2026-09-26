@@ -32,8 +32,9 @@ faq:
     a: "ใช่ มาเลเซียและสหภาพยุโรปกลับมาเจรจา FTA ในเดือนมกราคม 2025 และมาเลเซียสรุปความตกลงหุ้นส่วนทางเศรษฐกิจกับกลุ่มรัฐ EFTA (ไอซ์แลนด์ ลิกเตนสไตน์ นอร์เวย์ สวิตเซอร์แลนด์) เมื่อ 11 เมษายน 2025"
 
 lang: "th"
+sourceContentHash: "7239744fcdcf2f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

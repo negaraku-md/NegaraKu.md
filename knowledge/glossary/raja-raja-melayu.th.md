@@ -29,8 +29,9 @@ faq:
     a: "สภาราชาบัญญัติไว้ในมาตรา 38 ของรัฐธรรมนูญแห่งสหพันธรัฐ โดยมีหน้าที่และกระบวนการโดยละเอียดในบัญชีที่ห้า (Jadual Kelima)"
 
 lang: "th"
+sourceContentHash: "145a64a2a5caf8b7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

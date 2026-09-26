@@ -41,8 +41,9 @@ verificationNeeded:
   - "สัดส่วนของกัวลาลัมเปอร์ใน GDP ระดับชาติเป็นเปอร์เซ็นต์ที่เผยแพร่ — DOSM เผยแพร่มูลค่าเงินริงกิตและอันดับแต่ไม่ใช่สัดส่วนของกัวลาลัมเปอร์โดยตรง"
 
 lang: "th"
+sourceContentHash: "28302eb055d03d4e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

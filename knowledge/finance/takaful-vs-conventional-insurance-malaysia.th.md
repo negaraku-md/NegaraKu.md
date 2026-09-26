@@ -29,8 +29,9 @@ faq:
     a: "แผนตะกาฟุลบางแผนอนุญาตให้ส่วนเกินที่แจกจ่ายได้จากกองทุนความเสี่ยงถูกแบ่งปันกับผู้เข้าร่วมที่มีสิทธิ์ ภายใต้เงื่อนไขของใบรับรอง คุณลักษณะการแบ่งปันส่วนเกินนี้ไม่มีสิ่งเทียบเท่าโดยตรงในกรมธรรม์แบบดั้งเดิมส่วนใหญ่"
 
 lang: "th"
+sourceContentHash: "94509152b2b8fc7d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

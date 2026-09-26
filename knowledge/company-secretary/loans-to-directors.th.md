@@ -55,8 +55,9 @@ obligations:
     consequence: "กรรมการที่อนุมัติต้องรับผิดร่วมกันและแทนกันในการชดใช้ความเสียหายแก่บริษัทภายใต้มาตรา 224(6)"
 
 lang: "th"
+sourceContentHash: "69f84a6ade0b88b1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

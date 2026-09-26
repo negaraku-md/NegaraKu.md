@@ -34,8 +34,9 @@ faq:
     a: "สหภาพยื่นคำเรียกร้องการรับรองต่อนายจ้าง นายจ้างต้องภายในระยะเวลา 21 วันภายใต้มาตรา 9(3) รับรองสหภาพหรือแจ้งเหตุผลการปฏิเสธเป็นลายลักษณ์อักษร หากถูกปฏิเสธ เรื่องจะถูกส่งไปยัง KPPP ซึ่งสามารถจัดการลงคะแนนลับและตรวจสอบความสามารถของสหภาพผ่านอธิบดีกรมสหภาพแรงงาน"
 
 lang: "th"
+sourceContentHash: "3e83f3a36eb3fa8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

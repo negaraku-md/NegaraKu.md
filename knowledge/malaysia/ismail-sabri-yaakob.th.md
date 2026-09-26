@@ -32,8 +32,9 @@ verificationNeeded:
   - "วันที่ที่แน่นอน (การเริ่ม/สิ้นสุดการดำรงตำแหน่งนายกรัฐมนตรี การแต่งตั้งรองนายกรัฐมนตรี) ต้องได้รับการยืนยันเทียบกับสำนักนายกรัฐมนตรีและบันทึกอย่างเป็นทางการ"
 
 lang: "th"
+sourceContentHash: "01485efbacf83246"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

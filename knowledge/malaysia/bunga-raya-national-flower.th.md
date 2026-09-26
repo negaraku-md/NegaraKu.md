@@ -28,8 +28,9 @@ faq:
     a: "มันเป็นที่รู้จักทั่วประเทศอยู่แล้ว มีสีและรูปทรงที่ดึงดูด มีชื่อที่เป็นแบบเดียวกัน หาได้ง่าย และยังไม่ได้เป็นดอกไม้ประจำชาติของประเทศอื่นใดในเวลานั้น"
 
 lang: "th"
+sourceContentHash: "a06373b8a03d8ae0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

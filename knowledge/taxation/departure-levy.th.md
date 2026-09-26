@@ -29,8 +29,9 @@ faq:
     a: "ผู้โดยสารเที่ยวบินที่มาถึงสนามบินระหว่างประเทศใด ๆ ในมาเลเซียและเดินทางต่อไปยังปลายทางต่างประเทศภายในระยะเวลาต่อเครื่องไม่เกิน 12 ชั่วโมง ได้รับยกเว้น"
 
 lang: "th"
+sourceContentHash: "5f586e52647f995b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

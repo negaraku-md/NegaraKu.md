@@ -42,8 +42,9 @@ verificationNeeded:
   - "ยืนยันบรรทัดฐานคดีชั้นอุทธรณ์ของมาเลเซียที่เป็นชั้นนำเกี่ยวกับการทดสอบการควบคุมและการผสมกลมกลืนกับคำพิพากษาที่มีการรายงาน"
 
 lang: "th"
+sourceContentHash: "8132a0298fe4934d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

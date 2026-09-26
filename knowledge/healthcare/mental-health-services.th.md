@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ผู้ใดก็ตามในมาเลเซีย — พลเมือง ผู้อยู่อาศัย หรือผู้มาเยือน — ที่กังวลเกี่ยวกับสุขภาพจิตของตนเองหรือของผู้อื่น และต้องการทราบอย่างเป็นรูปธรรมว่าจะเริ่มต้นที่ใด: คลินิก โรงพยาบาล ผู้ปฏิบัติงานเอกชน NGO หรือสายด่วน"
 
 lang: "th"
+sourceContentHash: "4ecc5497514e228e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "ตามหอจดหมายเหตุแห่งชาติมาเลเซีย ข้อตกลงหาดใหญ่ไม่ได้กำหนดให้ CPM ยอมจำนน พรรคตกลงยุติกิจกรรมติดอาวุธ ยุบหน่วยติดอาวุธของตน และทำลายอาวุธ และสมาชิกของมันปฏิญาณความจงรักภักดีต่อยังดี-เปอร์ตวน อากง"
 
 lang: "th"
+sourceContentHash: "02bbbc636e171599"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

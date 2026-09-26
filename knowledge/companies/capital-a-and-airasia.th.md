@@ -30,8 +30,9 @@ faq:
     a: "หลังจากการจำหน่ายสายการบิน Capital A เป็นกลุ่มบริการด้านการบินและดิจิทัลที่สร้างขึ้นรอบธุรกิจห้าประการ ได้แก่ Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next และ Santan"
 
 lang: "th"
+sourceContentHash: "649108ce940fc47e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

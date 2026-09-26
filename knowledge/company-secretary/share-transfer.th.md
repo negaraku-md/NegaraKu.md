@@ -78,8 +78,9 @@ obligations:
     consequence: "ปรับไม่เกิน RM10,000 แก่บริษัทและเจ้าหน้าที่ทุกคนที่ผิดนัด"
 
 lang: "th"
+sourceContentHash: "2eb4fd7f219b7fed"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

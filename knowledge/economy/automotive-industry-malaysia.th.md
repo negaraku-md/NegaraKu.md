@@ -33,8 +33,9 @@ faq:
     a: "เป็นกรอบของรัฐบาลสำหรับภาครถยนต์ ปรับปรุงล่าสุดเป็น NAP 2020 มันตั้งเป้ายานยนต์รุ่นถัดไป (NxGV) Mobility-as-a-Service และขีดความสามารถอุตสาหกรรม 4.0 และกำลังอยู่ระหว่างการทบทวนกลางช่วง; MITI เปิดตัวการทบทวน (จัดตั้งสภาผู้ทรงคุณวุฒิด้านยานยนต์ในปี 2025) แต่ผลของมันไม่ได้เผยแพร่ตามเป้าหมายสิ้นปี 2025 และยังคงค้างอยู่ในปี 2026"
 
 lang: "th"
+sourceContentHash: "ce89b8f0036180e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

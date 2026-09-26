@@ -29,8 +29,9 @@ faq:
     a: "ณ เวลาที่เผยแพร่ ไม่มีข้อจำกัดความจุเครื่องยนต์ที่มีผลบังคับใช้ ข้อเสนอที่จะจำกัดการเข้าถึงทางด่วนตามความจุเครื่องยนต์ยังไม่ได้กลายเป็นกฎหมาย"
 
 lang: "th"
+sourceContentHash: "1c36a26778aafc7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

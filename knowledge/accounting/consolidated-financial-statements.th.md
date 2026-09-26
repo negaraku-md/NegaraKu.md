@@ -31,8 +31,9 @@ faq:
     a: "ยื่นต่อคณะกรรมการบริษัทมาเลเซีย (SSM) ผ่านระบบรายงานธุรกิจมาเลเซีย (Malaysian Business Reporting System หรือ MBRS) ซึ่งกำหนดให้งบการเงินอยู่ในรูปแบบ XBRL MBRS รองรับทั้งกรอบ MFRS และ MPERS และมีคอลัมน์รายงานแบบรวมและแบบเฉพาะกิจการ"
 
 lang: "th"
+sourceContentHash: "582764d653c4df0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

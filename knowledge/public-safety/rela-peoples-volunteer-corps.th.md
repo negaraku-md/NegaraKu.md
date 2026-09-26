@@ -30,8 +30,9 @@ faq:
     a: "ระยะเวลาการลงทะเบียนของสมาชิกแต่ละคนคือห้าปีนับจากวันที่ลงทะเบียน และสามารถขยายเวลาได้โดยอธิบดีหรือเจ้าหน้าที่ที่ได้รับมอบอำนาจ (มาตรา 9)"
 
 lang: "th"
+sourceContentHash: "a347a3b7cad0cfbb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

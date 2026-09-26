@@ -25,8 +25,9 @@ verificationNeeded:
   - "หน้านโยบายการเปิดบัญชีดิจิทัล / e-KYC ของ BNM คืนค่า 403 เมื่อดึงข้อมูลอัตโนมัติ ณ เวลาที่เขียน; การมีอยู่และชื่อได้รับการยืนยันโดยตรงจากผลการค้นหาของ bnm.gov.my แต่รายละเอียดคุณสมบัติเชิงลึกควรตรวจสอบซ้ำโดยตรงที่ bnm.gov.my เมื่อสามารถเข้าถึงได้"
 
 lang: "th"
+sourceContentHash: "52307f4fb8c11cd2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

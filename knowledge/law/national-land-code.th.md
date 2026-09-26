@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องวางตำแหน่งประมวลกฎหมายที่ดินแห่งชาติอย่างถูกต้อง — มันทำอะไร ผูกพันใคร และเหตุใดคำถามเรื่องที่ดินของซาบาห์หรือซาราวักจึงไม่สามารถตอบจากมันได้ — ก่อนไปสู่ขั้นตอนหรือข้อพิพาทที่เจาะจง"
 
 lang: "th"
+sourceContentHash: "ea87aadccc95af5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

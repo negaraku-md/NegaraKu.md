@@ -32,8 +32,9 @@ verificationNeeded:
   - "วันที่ที่แน่นอน (การดำรงตำแหน่งนายกรัฐมนตรี การลาออก ช่วงภาวะฉุกเฉิน) ต้องได้รับการยืนยันเทียบกับสำนักนายกรัฐมนตรีและบันทึกอย่างเป็นทางการ"
 
 lang: "th"
+sourceContentHash: "b981e60c4f8e26f9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

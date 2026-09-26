@@ -57,8 +57,9 @@ obligations:
     consequence: "การถอนชื่อดำเนินต่อและบริษัทยุบเลิกเมื่อประกาศในราชกิจจานุเบกษา"
 
 lang: "th"
+sourceContentHash: "503507980af8cdbc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

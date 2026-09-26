@@ -52,8 +52,9 @@ obligations:
     consequence: "เป็นความผิดภายใต้ reg 12(2) ลูกจ้างอาจเรียกใบแสดงได้ภายใน 14 วันภายใต้ reg 12(3)"
 
 lang: "th"
+sourceContentHash: "2c74afc56ca4140f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

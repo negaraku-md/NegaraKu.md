@@ -41,8 +41,9 @@ verificationNeeded:
   - "ยืนยันข้อกำหนดการยื่นคำขอหนังสือรับรองถิ่นที่อยู่ปัจจุบันและเวลาดำเนินการบนบริการ e-Residence ของ LHDN; การทดสอบถิ่นที่อยู่เองมีแหล่งอ้างอิงแต่กลไกการยื่นคำขอไม่ได้ครอบคลุมโดย Public Ruling No. 9/2019"
 
 lang: "th"
+sourceContentHash: "2a0ef17e2859fe87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

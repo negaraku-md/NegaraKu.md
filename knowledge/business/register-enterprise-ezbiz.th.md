@@ -68,8 +68,9 @@ obligations:
     consequence: "โทษปรับ RM2,000 หรือจำคุกสูงสุด 6 เดือน หรือทั้งจำทั้งปรับ (s.12(2))"
 
 lang: "th"
+sourceContentHash: "b0eaf47ac1dcf35a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

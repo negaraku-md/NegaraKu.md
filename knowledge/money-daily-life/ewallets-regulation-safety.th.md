@@ -34,8 +34,9 @@ faq:
     a: "ใช่ ทั้งสี่ราย ได้แก่ TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd (Boost), GPay Network (M) Sdn Bhd (GrabPay) และ ShopeePay Malaysia Sdn Bhd ถูกจัดอยู่ในรายชื่อผู้ออกเงินอิเล็กทรอนิกส์ที่ไม่ใช่ธนาคารในรายชื่อทางการของ BNM"
 
 lang: "th"
+sourceContentHash: "3baa675be6fcede6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

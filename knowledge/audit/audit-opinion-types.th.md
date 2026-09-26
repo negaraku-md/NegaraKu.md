@@ -41,8 +41,9 @@ verificationNeeded:
   - "ยืนยันว่า AAPG 1 และ AAPG 2 ฉบับปรับปรุงมิถุนายน 2021 ยังคงเป็นรายงานตัวอย่างของ MIA ฉบับปัจจุบันและยังไม่ถูกแทนที่ด้วยฉบับปรับปรุงในภายหลัง"
 
 lang: "th"
+sourceContentHash: "b166913dca839ae9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

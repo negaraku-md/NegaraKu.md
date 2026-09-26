@@ -71,8 +71,9 @@ obligations:
     consequence: "ความผิดโดยบริษัทและกรรมการทุกคน; โทษทั่วไปภายใต้มาตรา 588"
 
 lang: "th"
+sourceContentHash: "3b2da95f3d26c5dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

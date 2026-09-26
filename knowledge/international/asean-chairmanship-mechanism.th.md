@@ -30,8 +30,9 @@ faq:
     a: "หนึ่งปีปฏิทินเต็ม ตั้งแต่วันที่ 1 มกราคม ถึง 31 ธันวาคม ฟิลิปปินส์รับช่วงต่อจากมาเลเซียในวันที่ 1 มกราคม 2026"
 
 lang: "th"
+sourceContentHash: "be6127ce5cca4347"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

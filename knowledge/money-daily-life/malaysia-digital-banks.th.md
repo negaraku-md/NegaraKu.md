@@ -34,8 +34,9 @@ faq:
     a: "ได้ ในช่วงระยะพื้นฐาน (สามถึงห้าปีแรก) กรอบของ BNM จำกัดสินทรัพย์รวมของธนาคารดิจิทัลแต่ละแห่งไว้ที่ไม่เกิน RM3 พันล้าน สิ่งนี้ช่วยให้ BNM สังเกตผลการดำเนินงานและความเสี่ยงก่อนที่ธนาคารจะเติบโตใหญ่ขึ้น"
 
 lang: "th"
+sourceContentHash: "586acae3d2012d4e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

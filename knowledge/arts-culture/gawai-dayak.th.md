@@ -35,8 +35,9 @@ faq:
     a: "เป็นเทศกาลที่แยกกันแต่มีธีมร่วมกัน กาไวดายักคือเทศกาลเก็บเกี่ยวของชาวดายักแห่งซาราวัก จัดในวันที่ 1 และ 2 มิถุนายน ส่วนกามาตัน (Kaamatan) คือเทศกาลเก็บเกี่ยวของชาวกาดาซันดูซุนแห่งซาบาห์ จัดในวันที่ 30 และ 31 พฤษภาคม ทั้งสองขอบคุณสำหรับการเก็บเกี่ยวข้าว แต่ชุมชน พิธีกรรม และวันที่ต่างกัน"
 
 lang: "th"
+sourceContentHash: "5a38a61ecb8e6e5a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "draft"
 aiAssisted: true
 reviewer: null

@@ -40,8 +40,9 @@ verificationNeeded:
   - "ยืนยันเหตุผลที่ระบุสำหรับการยกเลิก RPG 7 คือพระราชบัญญัติการแข่งขันทางการค้า 2010 (Competition Act 2010) กับหนังสือเวียนของ MIA หรือมติสภา — ยืนยันได้เพียงวันที่ยกเลิกจากเอกสารทางการ"
 
 lang: "th"
+sourceContentHash: "ecdf13a6ded6622d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

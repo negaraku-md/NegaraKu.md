@@ -29,8 +29,9 @@ faq:
     a: "ช่วยเหลือและให้คำปรึกษาแก่ผู้ปกครองรัฐในกิจการศาสนาอิสลาม ตลอดจนบริหารซะกาต วะกัฟ มัสยิด และเรื่องที่เกี่ยวข้องตามรัฐบัญญัติของรัฐ MAIN ยังเป็นผู้ดูแลทรัพย์แต่เพียงผู้เดียวของทรัพย์วะกัฟของรัฐด้วย"
 
 lang: "th"
+sourceContentHash: "d6d15ba266fb5f4b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

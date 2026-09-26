@@ -30,8 +30,9 @@ faq:
     a: "FIFA อ้างมาตรา 22 ของประมวลจริยธรรมของ FIFA เกี่ยวกับการปลอมแปลงเอกสารคุณสมบัติและการแปลงสัญชาติของผู้เล่น"
 
 lang: "th"
+sourceContentHash: "1434e805293f8f32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

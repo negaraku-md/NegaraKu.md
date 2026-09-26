@@ -120,8 +120,9 @@ obligations:
     consequence: "การริบยอดคงเหลือที่ไม่ได้ใช้ที่เกินเกณฑ์ RM10,000"
 
 lang: "th"
+sourceContentHash: "72d685f5d481d7fd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true

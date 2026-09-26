@@ -33,8 +33,9 @@ faq:
     a: "ศาลสูงมีอำนาจแบ่งทรัพย์สินที่ได้มาตลอดการสมรสภายใต้มาตรา 76 โดยคำนึงถึงการมีส่วนร่วมทางการเงินและที่ไม่ใช่ทางการเงิน หนี้เพื่อประโยชน์ของครอบครัว ความต้องการของบุตร และระยะเวลาการสมรส การแบ่งไม่จำเป็นต้องเป็น 50:50"
 
 lang: "th"
+sourceContentHash: "9844bf61f2e89ad7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "draft"
 aiAssisted: true
