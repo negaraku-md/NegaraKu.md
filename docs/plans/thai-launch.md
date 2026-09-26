@@ -50,8 +50,8 @@ Thailand is a top-tier source of tourist arrivals + heavy border trade; a genuin
 - [ ] **astro.config**: do NOT add `th` to `i18n.locales` yet if routes need it to build — mirror how ko soft-launched (ko WAS added to i18n.locales at Phase 0 but held out of `LOCALES`; the sitemap filter `!/\/th(\/|$)/` + noindex kept it hidden). Follow the ko pattern exactly.
 - [ ] **Terminology decisions doc** — `docs/plans/thai-terminology-decisions.md`: formal written Thai register; Malaysian statute names = Thai descriptor + English/Malay original in parens; agency names; proper nouns = Thai transliteration + original in parens on first mention; keep NegaraKu.md/1company/URLs verbatim; Arabic numerals + CE dates; place-name transliterations (กัวลาลัมเปอร์ = Kuala Lumpur, ปีนัง = Penang, ยะโฮร์ = Johor, ซาบah/ซาราวัก, etc.). Write BEFORE mass translation; save a memory note.
 
-## Phase 1 — Chrome localization (do the ko-parity gaps UP FRONT)
-The reliable finder: any `src` file where the `ko` token count exceeds `th` is a gap. All the spots that ko needed (see [[negaraku-language-launch-checklist]]):
+## Phase 1 — Chrome localization ✅ DONE 2026-09-26 (commits 1a5dfe92 + 78ed03ff + 64aa5162, local/unpushed)
+L() signature +th across 42 components + Localized type; Wave 1 (5 agents) foundation data: i18n 115, subcategories 419, intros 20, categories 82, data objects (seo/sponsors/provenance/llms/HomeView/404/milestones); Wave 2 (7 agents) ~1,147 L() call sites +th; count-copy six→seven; FaqView list +Thai. /th renders Thai, 0 Malay fallback, build green (11,418 pp). FIX: reverted th from live-visible langBars/ArticleList chips (broke an empty TH row on all live dashboards; rejoins at Phase 3). The original checklist:
 - [ ] `src/lib/i18n.ts` — every `t()` STRING key gets a `th` value; every inline `L(ms,en,zh,ta,ja,ko)` call gets a **7th `th` arg** (widen the `L` helper signature in ALL ~41 components first, then fill ~1,130 call sites — a 6-arg call falls back to Malay).
 - [ ] `src/lib/subcategories.ts` — ~419 `SUBCATEGORY_LABELS` need `th` (the "TOPICS" chips — most-visible miss).
 - [ ] `src/lib/intros.ts` — 20 `CATEGORY_INTRO` essays need `th`.
