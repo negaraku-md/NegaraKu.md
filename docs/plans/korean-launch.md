@@ -3,7 +3,7 @@
 _6th public language, after ms · en · zh · ta · ja. Mission: "let the world know about Malaysia" — in Korean too._
 _Reuses the Japanese pipeline end-to-end. Authoritative checklist: [[negaraku-language-launch-checklist]]. Terminology pattern: [[negaraku-ja-terminology-decisions]]._
 
-_Status: **Phase 0 + 1 + 2 DONE** (Phase 2 corpus complete 2026-09-26 — 1073/1073, build green, stamped; UNPUSHED). Next: Phase 2 follow-ups (corrective field-pass + currency normalization) then Phase 3 (open launch — needs [you] reviewer name). Owner tags: **[me]** = Claude, **[you]** = user (accounts/approvals only)._
+_Status: **Phases 0–3 DONE 2026-09-26** — corpus 1073/1073, field-pass complete, currency normalized, PUBLISHED + open-launched (ko in LOCALES, indexed, in sitemap/switcher; reviewer ashton-tan on 196 sensitive). Build green, health 0, dashboard 1073/1073, languages:6. **ALL LOCAL/UNPUSHED (16 commits) — goes live on push.** Remaining: Phase 4 (FB activation) + optional milestones entry. Owner tags: **[me]** = Claude, **[you]** = user (accounts/approvals only)._
 
 ---
 
@@ -62,11 +62,16 @@ The reliable finder: any `src` file where the `ta`/`ja` token count exceeds `ko`
 - [x] **Currency-convention normalization DONE 2026-09-26 (commit c3ee621b, local/unpushed).** Deterministic converter (NOT agents — agents kept making scaling slips) applied exact math to scale words only: RM/US$/USD/MYR + million/billion/trillion/bilion/juta → 억/조/만 (612 RM + 45 non-RM + 2 manual = ~659). Decision rationale: 618/664 RM-files already used CJK grouping (dominant + most Korean-natural), so normalized the ~230 minority toward it. Deliberately LEFT comma-digit numerals as-is (language-neutral; forcing them into 만 created ugly decimals + table-mixing) and English source-citation titles + SEO keywords untouched. Verified: only-clean conversions (≤4-decimal myriad values), full before→after dry-run reviewed, build green, validate 0. RESIDUAL (non-blocking): a few files use plain 한다체 not 합니다체 (e.g. sports/football-in-malaysia); range expressions (~92, mostly false positives) not auto-converted — register + ranges are a future native-review polish, NOT launch-blocking.
 - [ ] **Reviewer spot-check** — currency magnitudes in food-lifestyle (durian, kopitiam-mamak, pasar-malam, shopping-malls) + companies where 억/조 conversion happened (scaling-slip risk, self-corrected by agents).
 
-## Phase 3 — Open launch & publish
-- [ ] Publish the `ko` corpus (`publish-translations.mjs`). Non-sensitive publish freely; **sensitive articles (~204, mirroring ja) need a named human reviewer** — [you] confirm the reviewer (ja used `ashton-tan`); the scan blocks reviewed/published sensitive with a null reviewer.
-- [ ] Add `/ko/...` mirrors of every ms `redirects` entry in `astro.config.mjs` so retired-dupe URLs consolidate (ta/ja both needed this).
-- [ ] Sitemap + hreflang + language switcher pick up `ko` automatically once it's in LOCALES (verify).
-- [ ] Verify dashboard `perLangCoverage` reads **1073/1073** for `ko` and `trilingual.one`=0 (proves no stray archived/half-translated files).
+## Phase 3 — Open launch & publish ✅ DONE 2026-09-26 (commits 9e6e1ca1 chrome, ec620834 publish, f544908c redirects; local/UNPUSHED)
+Goes live on push. Reviewer for sensitive = **ashton-tan** ([you]-confirmed via this session).
+- [x] Published the `ko` corpus: **1073 draft → published** (877 non-sensitive; **196 sensitive got reviewer ashton-tan** — passes isPublishable + scan.py sensitive-unreviewed). aiAssisted:true already on all.
+- [x] Added 21 `/ko/...` redirect mirrors of the retired-dupe set in `astro.config.mjs`; redirect pages emit correctly.
+- [x] `ko` in LOCALES + astro i18n.locales + sitemap hreflang map; dropped the soft-launch sitemap filter → ko now INDEXED (0 noindex on ko articles), in sitemap (11k+ /ko URLs incl. hreflang), in switcher/hreflang (auto via LOCALES).
+- [x] Chrome enumeration: functional locale arrays +ko (AnalyticsView, DashboardView, ArticleList, build-dashboard SITE_LANGS, export-hf); language-count copy four/five→six across 7 components + i18n desc.
+- [x] Verified: build green (9787 pp), health --strict **0 errors**, dashboard `perLangCoverage.ko` = **1073/1073 (100%)**, `languages: 6`, ko article serves Korean (lang="ko", Hangul title/body).
+
+## Phase 3 — RESIDUAL (optional, non-blocking)
+- [ ] Milestones timeline (`src/lib/milestones.ts`) has Tamil (4th language) but no Japanese (5th) or Korean (6th) launch entry — additive content, add ja+ko milestones for completeness.
 
 ## Phase 4 — Facebook activation
 - [ ] `scripts/lib/facebook.mjs`: add `ko` to `LANGS`; add a `LANG_POLICY` row (`enabled/perDay:5/since:<launch>/windows:ALL_WINDOWS`, ramped for a new Page); extend `articleBases()` regex, `catNameMap()` (`ko: m[7]`), `COUNTRY_TAG`, and `hashtags()` (Korean = non-CJK-Han; treat like ta/latin unless we want Hangul tags).
