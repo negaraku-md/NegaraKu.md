@@ -58,13 +58,17 @@ The 4 discovery modes and where we stand:
 - [x] Post-launch chrome gaps closed (subcategory TOPICS labels, language-availability badge, FAQ count, dashboard FB panel — see [[negaraku-language-launch-checklist]])
 - [x] **Facebook** activated (in LANGS + LANG_POLICY; first ja post live; auto-posts 1/day; Page website = `negaraku.md/ja`)
 
-## 🇰🇷 Korean (`ko`) — IN PROGRESS (plan: `docs/plans/korean-launch.md`)
-- [x] **Phase 0 — foundation** DONE 2026-09-25 (commit 9e9f45d8): Locale type + LOCALE_NAMES (한국어), 39 `/ko` routes, Noto Sans KR (browser + OG), `<html lang="ko">`/hreflang, soft-launch (noindex + sitemap filter), terminology-decisions doc. Build green (1,631 /ko pages).
-- [x] **Phase 1 — Chrome** DONE 2026-09-25 (commits 07c04909 + eaf068b7): i18n (115), taxonomy (82+419), intros (20 essays), data objects, ~1,128 L() calls across 41 components → Korean. Build green; /ko ~4,000 Hangul/page. Enumerating arrays/counts + switcher entry deferred to Phase 3 launch flip.
-- [ ] **[me]** Phase 2 — Corpus translation (~1,073) via multi-agent waves; exclude archived masters; apply terminology doc
-- [ ] **[me]** Phase 3 — Open launch: `ko` → LOCALES + remove sitemap filter + astro i18n; publish (sensitive need reviewer); /ko redirect mirrors; verify 1073/1073
-- [ ] **[me]** Phase 4 — FB activation: `ko` → LANGS + LANG_POLICY + facebook.mjs (KO page id `1308994995630346` recorded); **[you]** ko Page website → `negaraku.md/ko`
-- [ ] **[you]** Phase 3: confirm reviewer for ~204 sensitive ko articles (ja used `ashton-tan`)
+## 🇰🇷 Korean (`ko`) — ✅ FULLY LAUNCHED 2026-09-26 (plan: `docs/plans/korean-launch.md`)
+- [x] **Phases 0–4 DONE + PUSHED/DEPLOYED** — 1073/1073 translated, corrective field-pass (562 files → 0 untranslated), currency normalized to 억/조/만, published (877 non-sensitive + 196 sensitive reviewer `ashton-tan`), `ko` in LOCALES/sitemap/switcher/hreflang (indexed, 0 noindex), 21 /ko redirects, FB activated (Page `1308994995630346`). Build green, health --strict 0, dashboard 1073/1073 + languages:6. Post-launch polish: /ta,/ja,/ko homepage titles + ja/ko milestones + 5 한다체→합니다체 files.
+- [ ] **[you]** update the KO Facebook Page website field → `https://negaraku.md/ko` (Page settings — the only remaining Korean item)
+
+## 🌐 Next language — OUTSTANDING (agreed 2026-09-26; MULTI-AGENT path, NO API)
+User agreed the priority + method. Each ≈ one Korean-scale multi-agent effort; follow [[negaraku-language-launch-checklist]] (esp. KOREAN RUN lessons: full field-list up front, non-recursive agents ≤10 concurrent, deterministic currency script, publish flip + sensitive reviewer, homepage title + count-copy in Phase 1).
+- [ ] **1. Indonesian (`id`) — DO NEXT** (biggest audience, lowest effort/risk: closest to ms, no new font, no RTL)
+- [ ] 2. Arabic (`ar`) — high value (Gulf/halal/tourism) but **RTL** = new bidi infra
+- [ ] 3. Thai (`th`) / Vietnamese (`vi`) — ASEAN; new fonts, no RTL
+- [ ] 4. Hindi (`hi`) — Devanagari font
+- [ ] 5. Spanish (`es`) / French (`fr`) — global reach, Latin script (cheapest)
 
 ## 📊 Analytics redesign — IN PROGRESS (plan: `docs/plans/analytics-redesign.md`)
 Split `/dashboard` (content health) from a new `/analytics` (filterable growth trends: channel · SEO · AI · visitor · category · language). Data reality: only SEO has trend history; visitors/channels/AI/engagement/social are snapshot-only.
