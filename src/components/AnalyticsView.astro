@@ -99,8 +99,8 @@ const gscMonths = Object.keys(gsc.byMonth ?? {}).length;
 
 // Facebook engagement (archive: analytics/facebook.json) — per-language Page numbers.
 const fb = getFacebook();
-const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語' };
-const fbRows = (['ms', 'en', 'zh', 'ta', 'ja'] as const)
+const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語', ko: '한국어' };
+const fbRows = (['ms', 'en', 'zh', 'ta', 'ja', 'ko'] as const)
   .map((l) => {
     const p = fb.pages?.[l] ?? {};
     return { lang: l, label: p.name || `NegaraKu.md · ${FB_LANG[l]}`, pageId: p.pageId, followers: p.followers, posts: p.posts, reactions: p.reactions, comments: p.comments, shares: p.shares };
@@ -155,9 +155,9 @@ const CHANNEL_COLORS: Record<string, string> = { search: '#FFC000', ai: '#c084fc
 const trendDays = Object.entries(series.days ?? {})
   .sort(([a], [b]) => a.localeCompare(b))
   .map(([day, dd]) => ({ day, readers: dd.readers ?? 0, ai: dd.ai ?? 0, search: dd.search ?? 0, byChannel: dd.byChannel ?? {}, byLang: dd.byLang ?? {}, aiByBot: dd.aiByBot ?? {} }));
-const LANG_COLORS: Record<string, string> = { ms: '#FFC000', en: '#60a5fa', zh: '#f472b6', ta: '#4ade80', ja: '#c084fc' };
-const LANG_ORDER = ['ms', 'en', 'zh', 'ta', 'ja'];
-const langLabels: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語' };
+const LANG_COLORS: Record<string, string> = { ms: '#FFC000', en: '#60a5fa', zh: '#f472b6', ta: '#4ade80', ja: '#c084fc', ko: '#fb923c' };
+const LANG_ORDER = ['ms', 'en', 'zh', 'ta', 'ja', 'ko'];
+const langLabels: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語', ko: '한국어' };
 const chLabels: Record<string, string> = Object.fromEntries(CH_ORDER.map((id) => [id, CHANNEL_META[id]?.label ?? id]));
 const seoMonths = Object.entries(gsc.byMonth ?? {})
   .sort(([a], [b]) => a.localeCompare(b))

@@ -27,7 +27,7 @@ const DATA = join(OUT, 'data');
 const SITE = 'https://negaraku.md';
 const LICENSE = 'CC-BY-SA-4.0';
 const LICENSE_URL = 'https://creativecommons.org/licenses/by-sa/4.0/';
-const LANGS = ['ms', 'en', 'zh', 'ta', 'ja'];
+const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko'];
 // The Hugging Face dataset repo id. Override with HF_REPO when publishing.
 const HF_REPO = process.env.HF_REPO || 'negaraku-md/negaraku-md';
 

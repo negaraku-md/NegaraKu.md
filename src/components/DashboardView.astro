@@ -14,8 +14,8 @@ const d = getDashboard();
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string) => (locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Per-language coverage rows for the language bars (master ms first).
-const LANG_NAMES: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語' };
-const langBars = (['ms', 'en', 'zh', 'ta', 'ja'] as const).map((l) => ({
+const LANG_NAMES: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語', ko: '한국어' };
+const langBars = (['ms', 'en', 'zh', 'ta', 'ja', 'ko'] as const).map((l) => ({
   code: l.toUpperCase(),
   name: LANG_NAMES[l],
   ...d.perLangCoverage[l],

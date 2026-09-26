@@ -10,7 +10,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const API = path.join(ROOT, 'public', 'api');
 const IN = path.join(API, 'articles.json');
 const OUT = path.join(API, 'dashboard.json');
-const SITE_LANGS = ['ms', 'en', 'zh', 'ta', 'ja']; // every locale the site serves
+const SITE_LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko']; // every locale the site serves
 const HEART_TARGET = 60; // articles considered a "healthy" corpus size
 
 async function main() {

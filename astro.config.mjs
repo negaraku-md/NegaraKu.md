@@ -186,23 +186,19 @@ export default defineConfig({
   },
   i18n: {
     defaultLocale: 'ms',
-    locales: ['ms', 'en', 'zh', 'ta', 'ja'],
+    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko'],
     routing: {
-      prefixDefaultLocale: false, // ms lives at "/", en at "/en", zh at "/zh", ta at "/ta", ja at "/ja"
+      prefixDefaultLocale: false, // ms lives at "/", en at "/en", zh at "/zh", ta at "/ta", ja at "/ja", ko at "/ko"
     },
   },
   integrations: [
     mdx(),
     sitemap({
-      // Korean (`ko`) is SOFT-LAUNCHED (2026-09-25): its routes/chrome build for
-      // preview but it is held OUT of LOCALES (→ noindex) and out of this sitemap
-      // via the filter below, until its corpus + chrome are launch-ready. Remove
-      // the filter + add ko to the i18n.locales map here (and to LOCALES in
-      // i18n.ts) at open launch. ta/ja are fully launched (in LOCALES, indexed).
-      filter: (page) => !/\/ko(\/|$)/.test(page),
+      // ms/en/zh/ta/ja/ko are all fully launched (in LOCALES, indexed, in this sitemap).
+      // Korean open-launched 2026-09-26 (was soft-launched/noindex 2026-09-25).
       i18n: {
         defaultLocale: 'ms',
-        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja' },
+        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko' },
       },
       serialize(item) {
         const lastmod = lastmodFor(item.url);
