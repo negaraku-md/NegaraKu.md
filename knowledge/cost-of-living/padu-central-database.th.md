@@ -39,9 +39,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Sama ada angka pendaftaran 10.85 juta (setakat 31 Mac 2024) telah berubah selepas fasa kemas kini seterusnya."
-  - "Sama ada butiran kos perkakasan RM2 juta / tempoh pembinaan tujuh bulan patut dimasukkan semula dengan sumber utama kerajaan jika relevan (dikeluarkan dalam pass ini kerana bersifat promosi dan longgar kaitannya)."
-  - "Pengelasan sensitivity — topik melibatkan penyasaran kelayakan subsidi melalui pangkalan data kebangsaan; sahkan sama ada 'none' kekal sesuai."
+  - "ว่าตัวเลขการลงทะเบียน 10.85 ล้าน (ณ วันที่ 31 มีนาคม 2024) ได้เปลี่ยนแปลงหลังจากระยะการปรับปรุงถัดไปหรือไม่."
+  - "ว่ารายละเอียดต้นทุนฮาร์ดแวร์ RM2 ล้าน / ระยะเวลาการก่อสร้างเจ็ดเดือนควรถูกใส่กลับเข้าไปพร้อมแหล่งข้อมูลหลักของรัฐบาลหากเกี่ยวข้องหรือไม่ (ถูกนำออกในรอบนี้เนื่องจากมีลักษณะเชิงประชาสัมพันธ์และเกี่ยวข้องอย่างหลวมๆ)."
+  - "การจัดประเภท sensitivity — หัวข้อเกี่ยวข้องกับการกำหนดเป้าหมายคุณสมบัติการรับเงินอุดหนุนผ่านฐานข้อมูลระดับชาติ; ยืนยันว่า “none” ยังคงเหมาะสมหรือไม่."
 revisions:
   - revision: 0
     date: 2026-08-08

@@ -22,8 +22,8 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังจัดงบประมาณการย้ายไปยะโฮร์บาห์รู เปรียบเทียบเงินเดือนท้องถิ่นกับรายได้ครัวเรือนที่เชื่อมโยงกับสิงคโปร์ หรือนายจ้างที่กำหนดค่าจ้างในยะโฮร์บาห์รูเทียบกับฐานค่าจ้างระดับชาติของมาเลเซีย"
 
 verificationNeeded:
-  - "The exact daily cross-border commuter or vehicle-crossing volume at the Johor Bahru–Singapore checkpoints could not be confirmed at an official source within this review and has been left out rather than estimated."
-  - "No official rent index specific to Johor Bahru could be located; statements about rental pressure from Singapore-linked demand are qualitative, not backed by a published figure."
+  - "ปริมาณผู้เดินทางข้ามพรมแดนรายวันหรือปริมาณยานพาหนะที่ข้ามด่านที่จุดตรวจยะโฮร์บาห์รู–สิงคโปร์ (Johor Bahru–Singapore) ที่แน่นอนไม่สามารถยืนยันได้จากแหล่งข้อมูลอย่างเป็นทางการภายในการทบทวนครั้งนี้ และถูกละไว้แทนการประมาณการ."
+  - "ไม่พบดัชนีค่าเช่าอย่างเป็นทางการที่เฉพาะเจาะจงสำหรับยะโฮร์บาห์รู (Johor Bahru); ข้อความเกี่ยวกับแรงกดดันด้านค่าเช่าจากอุปสงค์ที่เชื่อมโยงกับสิงคโปร์เป็นเชิงคุณภาพ ไม่ได้มีตัวเลขที่เผยแพร่รองรับ."
 
 lang: "th"
 masterLanguage: "en"

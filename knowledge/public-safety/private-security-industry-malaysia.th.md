@@ -47,9 +47,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Angka Seksyen 3 (tinggi/berat pengawal lelaki & wanita, umur maksimum 60, pengesahan perubatan 56+, ujian air kencing 7 hari, latihan dalaman seminggu, kursus asas 3 bulan, komposisi 1/5 bekas polis/tentera, pengecualian Nepal) perlu disahkan oleh manusia terhadap dokumen rasmi KDN 'Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71'. Angka telah disemak verbatim terhadap salinan dokumen tersebut yang diterbitkan semula oleh persatuan penduduk; salinan KDN kanonik (PDF asal) belum dicapai secara langsung."
-  - "Struktur yuran lesen dan denda di bawah Akta 27 sengaja tidak disertakan — sahkan kadar semasa terus dengan KDN."
-  - "Senarai majikan lazim polis bantuan selain universiti (cth. bank, lapangan terbang, KTMB, badan berkanun) hanya kes universiti (UIAM) yang bersumber; contoh lain perlu disahkan."
+  - "ตัวเลขตาม Seksyen 3 (ส่วนสูง/น้ำหนักของเจ้าหน้าที่รักษาความปลอดภัยชายและหญิง อายุสูงสุด 60 ปี การตรวจรับรองแพทย์เมื่ออายุ 56 ปีขึ้นไป การตรวจปัสสาวะทุก 7 วัน การฝึกภายในหนึ่งสัปดาห์ หลักสูตรพื้นฐาน 3 เดือน องค์ประกอบ 1/5 เป็นอดีตตำรวจ/ทหาร การยกเว้นสำหรับชาวเนปาล) ต้องได้รับการยืนยันโดยบุคคลเทียบกับเอกสารทางการของ KDN “Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71” ตัวเลขได้รับการตรวจสอบแบบคำต่อคำเทียบกับสำเนาเอกสารดังกล่าวที่เผยแพร่ซ้ำโดยสมาคมผู้อยู่อาศัย; ยังไม่สามารถเข้าถึงสำเนาต้นฉบับของ KDN (PDF ต้นฉบับ) โดยตรง."
+  - "โครงสร้างค่าธรรมเนียมใบอนุญาตและค่าปรับภายใต้ Akta 27 ถูกตัดออกโดยเจตนา — ยืนยันอัตราปัจจุบันโดยตรงกับ KDN."
+  - "รายชื่อนายจ้างทั่วไปของตำรวจอาสา (polis bantuan) นอกเหนือจากมหาวิทยาลัย (เช่น ธนาคาร สนามบิน KTMB หน่วยงานตามกฎหมาย) มีเพียงกรณีมหาวิทยาลัย (UIAM) ที่มีแหล่งอ้างอิง; ตัวอย่างอื่นต้องได้รับการยืนยัน."
 updated: 2026-08-01
 sources:
   - title: "Sistem Pengurusan Industri Keselamatan (eSIMS)"

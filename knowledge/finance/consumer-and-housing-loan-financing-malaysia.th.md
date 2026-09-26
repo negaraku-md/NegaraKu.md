@@ -41,10 +41,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Live SBR and Hong Leong Bank BLR values (2.75% / 6.64% p.a. as at 14 July 2025) — confirm against the bank's current published reference-rate page before relying on them, and check for any OPR/SBR change after that date."
-  - "Exact BNM Monetary Policy Statement URL slug for the 9 July 2025 OPR decision (the BNM site blocks automated fetching; content verified via BERNAMA and secondary reporting)."
-  - "Hire Purchase Act 1967 figures (10% minimum deposit, 10% flat-rate term-charge ceiling, two-successive-instalment default rule, 21-day notice, 75% court-order threshold) — confirm against the current in-force text of Act 212 and any subsidiary regulations, as these have been subject to amendment."
-  - "That the 60% figure in the worked example is only an illustrative comfort threshold, not a bank-published ceiling; individual bank DSR ceilings and income definitions are not publicly disclosed."
+  - "ค่า SBR และ BLR ของ Hong Leong Bank ปัจจุบัน (2.75% / 6.64% ต่อปี ณ วันที่ 14 กรกฎาคม 2025) — ยืนยันเทียบกับหน้าอัตราอ้างอิงที่เผยแพร่ปัจจุบันของธนาคารก่อนนำไปใช้ และตรวจสอบการเปลี่ยนแปลง OPR/SBR ใดๆ หลังจากวันดังกล่าว."
+  - "URL slug ที่แน่นอนของ BNM Monetary Policy Statement สำหรับการตัดสินใจ OPR วันที่ 9 กรกฎาคม 2025 (เว็บไซต์ BNM บล็อกการดึงข้อมูลอัตโนมัติ; เนื้อหาได้รับการยืนยันผ่าน BERNAMA และการรายงานทุติยภูมิ)."
+  - "ตัวเลขตาม Hire Purchase Act 1967 (เงินดาวน์ขั้นต่ำ 10% เพดานค่าธรรมเนียมแบบอัตราคงที่ 10% กฎการผิดนัดสองงวดติดต่อกัน หนังสือบอกกล่าว 21 วัน เกณฑ์คำสั่งศาล 75%) — ยืนยันเทียบกับข้อความที่มีผลบังคับใช้ปัจจุบันของ Act 212 และกฎหมายลำดับรองใดๆ เนื่องจากมีการแก้ไขเพิ่มเติม."
+  - "ว่าตัวเลข 60% ในตัวอย่างที่คำนวณเป็นเพียงเกณฑ์ที่ยกมาเพื่อแสดงเป็นตัวอย่างเท่านั้น ไม่ใช่เพดานที่ธนาคารเผยแพร่; เพดาน DSR และคำนิยามรายได้ของแต่ละธนาคารไม่ได้เปิดเผยต่อสาธารณะ."
 revisions:
   - revision: 0
     date: 2026-08-01

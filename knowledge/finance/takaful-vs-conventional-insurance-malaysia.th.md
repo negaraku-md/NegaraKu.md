@@ -39,9 +39,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "All 2024 industry figures are Malaysian Takaful Association (MTA) figures as reported by Bernama; confirm against MTA's own annual release and/or Bank Negara Malaysia insurance and takaful statistics before publication."
-  - "The characterisation of riba, gharar and maisir as the concerns takaful is structured to address is a general description of Islamic commercial principles; confirm the phrasing against a neutral scholarly or regulatory source."
-  - "Confirm the current licensing status of any specific operator or insurer directly against Bank Negara Malaysia's list of regulated entities before consumers rely on it."
+  - "ตัวเลขอุตสาหกรรมปี 2024 ทั้งหมดเป็นตัวเลขของ Malaysian Takaful Association (MTA) ตามที่รายงานโดย Bernama; ยืนยันเทียบกับการเผยแพร่ประจำปีของ MTA เอง และ/หรือ สถิติการประกันภัยและตะกาฟุลของ Bank Negara Malaysia ก่อนการเผยแพร่."
+  - "การอธิบาย riba, gharar และ maisir ว่าเป็นข้อกังวลที่ตะกาฟุลถูกออกแบบมาเพื่อจัดการนั้นเป็นคำอธิบายทั่วไปของหลักการพาณิชย์อิสลาม; ยืนยันถ้อยคำเทียบกับแหล่งข้อมูลทางวิชาการหรือหน่วยงานกำกับดูแลที่เป็นกลาง."
+  - "ยืนยันสถานะใบอนุญาตปัจจุบันของผู้ประกอบการหรือบริษัทประกันรายใดรายหนึ่งโดยตรงเทียบกับรายชื่อองค์กรที่อยู่ภายใต้การกำกับดูแลของ Bank Negara Malaysia ก่อนที่ผู้บริโภคจะนำไปใช้."
 revisions:
   - revision: 0
     date: 2026-08-01

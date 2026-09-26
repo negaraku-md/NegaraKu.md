@@ -48,10 +48,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether the SC's equity crowdfunding framework was in fact the first in ASEAN — widely reported by third parties but NOT asserted in the cited SC primary source; claim was removed pending a first-party confirmation."
-  - "Current number and list of registered digital-asset exchange (DAX) operators — the SC register changes over time (five listed as of the SC page's 20 July 2026 update)."
-  - "The RM50,000 P2P retail-investor exposure figure is investor guidance rather than a hard statutory cap — confirm current SC guidance."
-  - "Governance detail (Executive Chairman and Minister-appointed members) is current."
+  - "ว่ากรอบการระดมทุนแบบ equity crowdfunding ของ SC เป็นกรอบแรกในอาเซียนจริงหรือไม่ — มีการรายงานอย่างกว้างขวางโดยบุคคลที่สาม แต่ไม่ได้ระบุไว้ในแหล่งข้อมูลปฐมภูมิของ SC ที่อ้างอิง; ข้อความถูกนำออกระหว่างรอการยืนยันจากแหล่งข้อมูลปฐมภูมิ."
+  - "จำนวนและรายชื่อผู้ประกอบการตลาดแลกเปลี่ยนสินทรัพย์ดิจิทัล (DAX) ที่จดทะเบียนในปัจจุบัน — ทะเบียนของ SC เปลี่ยนแปลงเมื่อเวลาผ่านไป (มีรายชื่อห้ารายตามการปรับปรุงหน้า SC วันที่ 20 กรกฎาคม 2026)."
+  - "ตัวเลขความเสี่ยงของนักลงทุนรายย่อยใน P2P ที่ RM50,000 เป็นแนวทางสำหรับนักลงทุนมากกว่าเพดานตามกฎหมายที่ตายตัว — ยืนยันแนวทางปัจจุบันของ SC."
+  - "รายละเอียดการกำกับดูแล (ประธานบริหารและกรรมการที่รัฐมนตรีแต่งตั้ง) เป็นปัจจุบัน."
 updated: 2026-08-01
 sources:
   - title: "About the SC"

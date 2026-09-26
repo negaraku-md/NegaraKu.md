@@ -39,7 +39,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Nama sebenar dan status undang-undang strata Sabah dan Sarawak yang berasingan daripada Akta 318."
+  - "ชื่อที่แท้จริงและสถานะของกฎหมายสตราตาของซาบาห์ (Sabah) และซาราวัก (Sarawak) ที่แยกต่างหากจาก Akta 318."
 revisions:
   - revision: 0
     date: 2026-08-07

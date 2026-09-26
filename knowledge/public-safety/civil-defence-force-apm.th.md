@@ -40,9 +40,9 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Rujukan '1958 — pertahanan awam menjadi unsur tetap mengikut Jadual Kesembilan Perlembagaan Persekutuan': ayat ini terdapat pada laman sejarah rasmi APM, namun rujukan perlembagaan ini wajar disemak semula terhadap teks Perlembagaan Persekutuan sebenar oleh penyemak manusia."
-  - "Tarikh dan pewartaan penukaran nama JPAM -> APM (berkuat kuasa 1 September 2016): disahkan melalui laporan media (mStar); sahkan terhadap Warta Kerajaan rasmi jika tersedia."
-  - "Nama penuh dan status semasa program Kor SISPA dan Pasukan Bantuan Pertahanan Awam (CDA)."
+  - "การอ้างอิง “1958 — การป้องกันภัยฝ่ายพลเรือนกลายเป็นองค์ประกอบถาวรตาม Jadual Kesembilan (ตารางที่เก้า) ของรัฐธรรมนูญแห่งสหพันธรัฐ”: ประโยคนี้ปรากฏบนหน้าประวัติศาสตร์อย่างเป็นทางการของ APM แต่การอ้างอิงรัฐธรรมนูญนี้ควรได้รับการทบทวนอีกครั้งเทียบกับข้อความจริงของรัฐธรรมนูญแห่งสหพันธรัฐโดยผู้ตรวจทานที่เป็นบุคคล."
+  - "วันที่และการประกาศราชกิจจานุเบกษาของการเปลี่ยนชื่อ JPAM -> APM (มีผลบังคับใช้ 1 กันยายน 2016): ได้รับการยืนยันผ่านรายงานสื่อ (mStar); ยืนยันเทียบกับ Warta Kerajaan (ราชกิจจานุเบกษา) อย่างเป็นทางการหากมี."
+  - "ชื่อเต็มและสถานะปัจจุบันของโครงการ Kor SISPA และ Pasukan Bantuan Pertahanan Awam (CDA)."
 revisions:
   - revision: 0
     date: 2026-08-01

@@ -37,8 +37,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "A named human reviewer with current Penang market knowledge should confirm the qualitative George Town vs Seberang Perai cost description below against NAPIC's most recent Property Market Report, once its state-level tables are extracted in a checkable format."
-  - "State-level CPI is a monthly series; the January 2025 figures cited here should be refreshed against the latest DOSM CPI release before this page is relied on for current-month comparisons."
+  - "ผู้ตรวจทานที่เป็นบุคคลซึ่งระบุชื่อและมีความรู้ตลาดปีนัง (Penang) ปัจจุบันควรยืนยันคำอธิบายค่าครองชีพเชิงคุณภาพระหว่างจอร์จทาวน์ (George Town) กับเซอเบรังเปอไร (Seberang Perai) ด้านล่างเทียบกับ Property Market Report ล่าสุดของ NAPIC เมื่อดึงตารางระดับรัฐออกมาในรูปแบบที่ตรวจสอบได้แล้ว."
+  - "CPI ระดับรัฐเป็นชุดข้อมูลรายเดือน; ตัวเลขเดือนมกราคม 2025 ที่อ้างอิงในที่นี้ควรได้รับการปรับปรุงเทียบกับการเผยแพร่ CPI ล่าสุดของ DOSM ก่อนที่จะใช้หน้านี้สำหรับการเปรียบเทียบเดือนปัจจุบัน."
 
 updated: 2026-07-24
 sources:

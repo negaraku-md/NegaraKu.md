@@ -40,10 +40,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "SME Bank's 2005 establishment year: the official SME Bank 'About Us' page (smebank.com.my) returns HTTP 403 to automated fetch, so the date was confirmed via search of the official domain and BNM's DFI listing rather than a direct page fetch. Confirm against the live page in a browser."
-  - "The DFIA (Amendment) Act 2015 in-force date (31 January 2016) and the new Part IIIA Shariah requirements aligned with IFSA 2013: confirm the exact citation against the Federal Gazette or BNM's Legislation page (the BNM Legislation page returns HTTP 403 to automated fetch)."
-  - "The two BNM links (dfi-overview and Act 618) return HTTP 403 to automated fetch though they are genuine BNM pages; verify they resolve in a browser. The canonical BNM DFI page is bnm.gov.my/index.php?ch=fs&pg=fs_mfs_dfi&ac=162."
-  - "The 1 May 2025 BPMB Group consolidation (EXIM Bank and SME Bank becoming BPMB subsidiaries) and the 'over RM9 billion' Budget 2026 mandate: re-confirm against the current BPMB press release before publication."
+  - "ปีก่อตั้งของ SME Bank ปี 2005: หน้า “About Us” อย่างเป็นทางการของ SME Bank (smebank.com.my) ตอบกลับ HTTP 403 ต่อการดึงข้อมูลอัตโนมัติ ดังนั้นวันที่จึงได้รับการยืนยันผ่านการค้นหาโดเมนอย่างเป็นทางการและรายการ DFI ของ BNM แทนการดึงหน้าโดยตรง ยืนยันเทียบกับหน้าที่เป็นปัจจุบันในเบราว์เซอร์."
+  - "วันที่มีผลบังคับใช้ของ DFIA (Amendment) Act 2015 (31 มกราคม 2016) และข้อกำหนดชะรีอะฮ์ Part IIIA ใหม่ที่สอดคล้องกับ IFSA 2013: ยืนยันการอ้างอิงที่แน่นอนเทียบกับ Federal Gazette หรือหน้า Legislation ของ BNM (หน้า Legislation ของ BNM ตอบกลับ HTTP 403 ต่อการดึงข้อมูลอัตโนมัติ)."
+  - "ลิงก์ BNM สองรายการ (dfi-overview และ Act 618) ตอบกลับ HTTP 403 ต่อการดึงข้อมูลอัตโนมัติ แม้จะเป็นหน้า BNM ของแท้; ตรวจสอบว่าลิงก์เปิดได้ในเบราว์เซอร์ หน้า DFI ของ BNM ที่เป็นหลักคือ bnm.gov.my/index.php?ch=fs&pg=fs_mfs_dfi&ac=162."
+  - "การควบรวมกลุ่ม BPMB วันที่ 1 พฤษภาคม 2025 (EXIM Bank และ SME Bank กลายเป็นบริษัทย่อยของ BPMB) และคำสั่ง “กว่า RM9 พันล้าน” ตาม Budget 2026: ยืนยันอีกครั้งเทียบกับข่าวประชาสัมพันธ์ปัจจุบันของ BPMB ก่อนการเผยแพร่."
 revisions:
   - revision: 0
     date: 2026-08-01

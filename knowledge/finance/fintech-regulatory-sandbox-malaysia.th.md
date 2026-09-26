@@ -40,7 +40,7 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "'More than 110 applications since 2016' reflects the figure as of the Feb 2024 enhanced framework (per fintechnews.my); confirm the latest cumulative count against BNM's own sandbox page (bnm.gov.my/sandbox) for currency."
+  - "“ใบสมัครมากกว่า 110 รายการนับตั้งแต่ปี 2016” สะท้อนตัวเลข ณ กรอบที่ปรับปรุงเดือนกุมภาพันธ์ 2024 (ตาม fintechnews.my); ยืนยันจำนวนสะสมล่าสุดเทียบกับหน้า sandbox ของ BNM เอง (bnm.gov.my/sandbox) เพื่อความเป็นปัจจุบัน."
 revisions:
   - revision: 0
     date: 2026-08-01

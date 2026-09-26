@@ -2,7 +2,7 @@
 topicId: MY-GLO-0017
 title: "LLP (ห้างหุ้นส่วนจำกัดความรับผิด): นิติบุคคลที่ยื่นเอกสารแบบห้างหุ้นส่วน"
 seoTitle: "LLP Malaysia: Perkongsian Liabiliti Terhad Explained"
-socialTitle: "The Malaysian LLP is not tax transparent — here is what it actually is"
+socialTitle: "LLP ของมาเลเซียไม่ได้โปร่งใสทางภาษี — นี่คือสิ่งที่มันเป็นจริงๆ"
 slug: "llp"
 category: "glossary"
 subcategory: ["corporate"]

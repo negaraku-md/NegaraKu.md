@@ -43,9 +43,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "7-day deadline to lodge the members' voluntary winding-up resolution with SSM under s.439(2)(a) — confirm exact section and day count against statute/SSM form."
-  - "Exact s.316 subsection breakdown for ordinary-business notice (private and public both 14 days, and the 21-day rule for special resolutions) — confirm precise subsection numbering."
-  - "Whether show-of-hands vs poll mechanics are in s.291(2)/(3) and s.292(3)/(4) exactly as summarised — confirm subsection numbers."
+  - "กำหนดเวลา 7 วันในการยื่นมติเลิกบริษัทโดยสมัครใจของสมาชิกต่อ SSM ภายใต้ s.439(2)(a) — ยืนยันมาตราและจำนวนวันที่แน่นอนเทียบกับกฎหมาย/แบบฟอร์มของ SSM."
+  - "รายละเอียดอนุมาตราของ s.316 ที่แน่นอนสำหรับหนังสือบอกกล่าวธุรกิจสามัญ (ทั้งบริษัทเอกชนและบริษัทมหาชนคือ 14 วัน และกฎ 21 วันสำหรับมติพิเศษ) — ยืนยันการเรียงลำดับอนุมาตราที่แม่นยำ."
+  - "ว่ากลไกการลงคะแนนแบบยกมือเทียบกับการลงคะแนนแบบ poll อยู่ใน s.291(2)/(3) และ s.292(3)/(4) ตรงตามที่สรุปไว้หรือไม่ — ยืนยันหมายเลขอนุมาตรา."
 updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777), official English text"

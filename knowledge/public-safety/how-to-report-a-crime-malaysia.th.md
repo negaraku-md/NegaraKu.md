@@ -44,8 +44,8 @@ masterLanguage: "ms"
 translationStatus: "pending"
 
 verificationNeeded:
-  - "Syarat kelayakan e-Reporting (warganegara Malaysia, umur 18 tahun ke atas) dan senarai penuh item yang boleh dilaporkan — portal rasmi ereporting.rmp.gov.my tidak dapat dicapai untuk pengesahan langsung; sahkan terhadap portal rasmi."
-  - "Sama ada bukan warganegara benar-benar dikecualikan sepenuhnya daripada e-Reporting (draf tidak lagi menyatakan pengecualian ini secara eksplisit)."
+  - "เงื่อนไขคุณสมบัติของ e-Reporting (พลเมืองมาเลเซีย อายุ 18 ปีขึ้นไป) และรายการฉบับเต็มของสิ่งที่สามารถแจ้งได้ — พอร์ทัลอย่างเป็นทางการ ereporting.rmp.gov.my ไม่สามารถเข้าถึงเพื่อยืนยันโดยตรงได้; ยืนยันเทียบกับพอร์ทัลอย่างเป็นทางการ."
+  - "ว่าผู้ที่ไม่ใช่พลเมืองถูกยกเว้นจาก e-Reporting โดยสิ้นเชิงจริงหรือไม่ (ฉบับร่างไม่ได้ระบุการยกเว้นนี้อย่างชัดเจนอีกต่อไป)."
 
 status: "draft"
 aiAssisted: true

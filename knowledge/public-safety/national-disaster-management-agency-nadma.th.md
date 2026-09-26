@@ -45,9 +45,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Struktur tiga tahap (Tahap I → JPBD, Tahap II → JPBN, Tahap III → JPBP) diambil daripada Arahan MKN No. 20 (Semakan Semula, 2012); sahkan sama ada pemetaan tahap-ke-jawatankuasa ini dikekalkan tanpa perubahan dalam Arahan NADMA No. 1 (2024) yang kini berkuat kuasa."
-  - "Ketakselarasan nama fail sumber Arahan MKN No. 20 (nama fail menunjukkan 2013) berbanding tarikh semakan rasmi 30 Mac 2012 yang dicatat oleh MKN/NADMA — sahkan versi dokumen yang betul."
-  - "Dokumen penuh Arahan NADMA No. 1 (2024) belum diteliti sepenuhnya; sahkan skop, tarikh kuat kuasa dan senarai lengkap peranan agensi terhadap teks rasmi."
+  - "โครงสร้างสามระดับ (Tahap I → JPBD, Tahap II → JPBN, Tahap III → JPBP) นำมาจาก Arahan MKN No. 20 (ฉบับทบทวน, 2012); ยืนยันว่าการจับคู่ระดับกับคณะกรรมการนี้ยังคงไว้โดยไม่มีการเปลี่ยนแปลงใน Arahan NADMA No. 1 (2024) ที่มีผลบังคับใช้ในปัจจุบันหรือไม่."
+  - "ความไม่สอดคล้องของชื่อไฟล์แหล่งที่มาของ Arahan MKN No. 20 (ชื่อไฟล์แสดงปี 2013) เทียบกับวันที่ทบทวนอย่างเป็นทางการ 30 มีนาคม 2012 ที่บันทึกโดย MKN/NADMA — ยืนยันฉบับเอกสารที่ถูกต้อง."
+  - "เอกสารฉบับเต็มของ Arahan NADMA No. 1 (2024) ยังไม่ได้รับการตรวจสอบอย่างครบถ้วน; ยืนยันขอบเขต วันที่มีผลบังคับใช้ และรายชื่อบทบาทของหน่วยงานฉบับสมบูรณ์เทียบกับข้อความทางการ."
 
 updated: 2026-08-01
 sources:

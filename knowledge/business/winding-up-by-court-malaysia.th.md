@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Neutral citation/pinpoint for the Fortuna case as adopted by Malaysian courts (Malaysian judgments cite both (1976) 2 ACLR 349 and [1978] VR 83)."
-  - "Confirm the full statutory list of petitioners under section 464 of the Companies Act 2016 against the current reprint, including whether regulator-specific petitioners (e.g. Bank Negara Malaysia, PIDM) should be mentioned."
-  - "Confirm Gazette Notification No. 4159/2021 remains the operative instrument and RM50,000 threshold has not been amended since publication."
+  - "การอ้างอิงคดีที่เป็นกลาง/จุดอ้างอิงเฉพาะสำหรับคดี Fortuna ตามที่ศาลมาเลเซียนำมาใช้ (คำพิพากษาของมาเลเซียอ้างอิงทั้ง (1976) 2 ACLR 349 และ [1978] VR 83)."
+  - "ยืนยันรายชื่อผู้มีสิทธิยื่นคำร้องตามกฎหมายฉบับเต็มภายใต้มาตรา 464 ของ Companies Act 2016 เทียบกับฉบับพิมพ์ปัจจุบัน รวมถึงว่าควรกล่าวถึงผู้ยื่นคำร้องเฉพาะหน่วยงานกำกับดูแล (เช่น Bank Negara Malaysia, PIDM) หรือไม่."
+  - "ยืนยันว่า Gazette Notification No. 4159/2021 ยังคงเป็นเอกสารที่มีผลบังคับใช้ และเกณฑ์ RM50,000 ไม่ได้รับการแก้ไขนับตั้งแต่การประกาศ."
 
 updated: 2026-08-07
 sources:

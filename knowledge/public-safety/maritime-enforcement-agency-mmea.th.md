@@ -39,7 +39,7 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Petikan kajian April 1999 — sahkan versi Bahasa Melayu rasmi frasa 'pertindihan fungsi, pertindihan bidang kuasa dan penggunaan sumber yang tidak ekonomik'."
+  - "ข้อความอ้างอิงจากการศึกษาเดือนเมษายน 1999 — ยืนยันฉบับภาษามลายูอย่างเป็นทางการของวลี “pertindihan fungsi, pertindihan bidang kuasa dan penggunaan sumber yang tidak ekonomik”."
 revisions:
   - revision: 0
     date: 2026-08-01

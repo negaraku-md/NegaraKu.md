@@ -50,8 +50,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "2025 general insurance line-level underwriting results (motor loss RM289.3m, fire profit RM700.8m, MAT profit RM108.1m) and combined ratios — confirm against the full PIAM statistical release, not only the summary press release."
-  - "Life insurance in-force totals (roughly 13 million policies, RM46.3 billion premium in force, ~RM2 trillion sums assured in force) and the 58.6% penetration rate — confirm against LIAM's own published statistics."
+  - "ผลการรับประกันภัยระดับสายธุรกิจของการประกันภัยทั่วไปปี 2025 (ขาดทุนภัยรถยนต์ RM289.3m กำไรอัคคีภัย RM700.8m กำไร MAT RM108.1m) และอัตราส่วนรวม — ยืนยันเทียบกับการเผยแพร่สถิติฉบับเต็มของ PIAM ไม่ใช่เพียงข่าวประชาสัมพันธ์สรุป."
+  - "ยอดรวมกรมธรรม์ประกันชีวิตที่มีผลบังคับ (ประมาณ 13 ล้านกรมธรรม์ เบี้ยประกันที่มีผลบังคับ RM46.3 พันล้าน จำนวนเงินเอาประกันที่มีผลบังคับ ~RM2 ล้านล้าน) และอัตราการเข้าถึง 58.6% — ยืนยันเทียบกับสถิติที่ LIAM เผยแพร่เอง."
 
 updated: 2026-08-01
 sources:

@@ -45,10 +45,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact Basic Savings schedule figures and any phase-in timeline for the RM390,000-at-age-60 target under the schedule effective 1 January 2026 (KWSP publishes a full by-age table that a human should confirm against the live i-Akaun calculator)."
-  - "Whether the RM1,625/month and 20-year (age 60 to 80) assumptions behind Basic Savings are still the current KWSP framing at time of review."
-  - "Current maximum agent sales charge (the '3%' baseline is the standard pre-promotion cap; confirm no permanent reduction has since taken effect)."
-  - "Sensitivity/tier classification: this directs retirement money into market-linked funds; a human editor should review whether tier 3 / sensitivity 'none' remains appropriate and whether the framing is fully neutral."
+  - "ตัวเลขตารางออมขั้นพื้นฐาน (Basic Savings) ที่แน่นอนและกำหนดเวลาทยอยบังคับใช้ใดๆ สำหรับเป้าหมาย RM390,000 ณ อายุ 60 ปี ภายใต้ตารางที่มีผลบังคับใช้วันที่ 1 มกราคม 2026 (KWSP เผยแพร่ตารางแยกตามอายุฉบับเต็มที่ควรให้บุคคลยืนยันเทียบกับเครื่องคำนวณ i-Akaun ที่เป็นปัจจุบัน)."
+  - "ว่าสมมติฐาน RM1,625/เดือน และ 20 ปี (อายุ 60 ถึง 80 ปี) ที่อยู่เบื้องหลัง Basic Savings ยังคงเป็นกรอบปัจจุบันของ KWSP ณ เวลาที่ทบทวนหรือไม่."
+  - "ค่าธรรมเนียมการขายสูงสุดของตัวแทนปัจจุบัน (เกณฑ์ฐาน “3%” เป็นเพดานมาตรฐานก่อนโปรโมชัน; ยืนยันว่าไม่มีการลดถาวรที่มีผลบังคับใช้นับแต่นั้น)."
+  - "การจัดประเภท sensitivity/tier: หัวข้อนี้นำเงินเกษียณเข้าสู่กองทุนที่เชื่อมโยงกับตลาด; ควรให้บรรณาธิการที่เป็นบุคคลทบทวนว่า tier 3 / sensitivity “none” ยังคงเหมาะสมและกรอบการนำเสนอเป็นกลางอย่างสมบูรณ์หรือไม่."
 
 updated: 2026-08-01
 sources:

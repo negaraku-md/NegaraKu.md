@@ -2,7 +2,7 @@
 topicId: MY-GLO-0014
 title: "เตะตาริก (Teh Tarik): สิ่งที่เกิดขึ้นจริงขณะที่ชาถูกชัก"
 seoTitle: "Teh Tarik: Kenapa Teh Itu Perlu Ditarik"
-socialTitle: "Tarikan teh tarik bukan lakonan — ia proses pengudaraan dan pengemulsian"
+socialTitle: "การดึงชักของเตห์ตาริก (teh tarik) ไม่ใช่การแสดง — แต่เป็นกระบวนการเติมอากาศและการทำอิมัลชัน"
 slug: "teh-tarik"
 category: "glossary"
 subcategory: ["culture"]

@@ -48,7 +48,7 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Secondary sources cite the current edition as the SC Equity Guidelines R7-2024 (issued 20 December 2024, effective 1 March 2025) and the Bursa Main Market Listing Requirements consolidated 1 July 2023 — confirm the exact edition and effective date against the SC/Bursa documents before relying on version-specific detail."
+  - "แหล่งข้อมูลทุติยภูมิอ้างว่าฉบับปัจจุบันคือ SC Equity Guidelines R7-2024 (ออกวันที่ 20 ธันวาคม 2024 มีผลบังคับใช้ 1 มีนาคม 2025) และ Bursa Main Market Listing Requirements ที่รวบรวมเมื่อวันที่ 1 กรกฎาคม 2023 — ยืนยันฉบับและวันที่มีผลบังคับใช้ที่แน่นอนเทียบกับเอกสารของ SC/Bursa ก่อนนำรายละเอียดเฉพาะเวอร์ชันไปใช้."
 
 updated: 2026-09-07
 sources:

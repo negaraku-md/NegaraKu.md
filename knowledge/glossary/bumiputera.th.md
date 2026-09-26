@@ -31,7 +31,7 @@ faq:
     a: "ชาวโอรังอัสลีแห่งคาบสมุทรโดยปกติถูกนับรวมอยู่ในหมวดภูมิบุตรในเชิงปกครอง แต่สถานะทางกฎหมายของพวกเขาถูกนิยามแยกต่างหากภายใต้พระราชบัญญัติโอรังอัสลี ค.ศ. 1954 (Aboriginal Peoples Act 1954, Act 134) ไม่ใช่ภายใต้มาตรา 160 (มลายู) หรือมาตรา 161A (ชนพื้นเมืองของรัฐซาบาห์และซาราวัก)"
 
 seoTitle: "Bumiputera: Maksud Istilah dan Asas Perlembagaannya"
-socialTitle: "Bumiputera — istilah yang tidak ada dalam Perlembagaan, tetapi berakar pada Perkara 153, 160 dan 161A"
+socialTitle: "Bumiputera — คำที่ไม่มีอยู่ในรัฐธรรมนูญ แต่มีรากฐานอยู่ในมาตรา 153, 160 และ 161A"
 
 lang: "th"
 masterLanguage: "ms"

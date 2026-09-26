@@ -48,7 +48,7 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "The June 2025 VC/PE tax revamp (5% concessionary rate for a VCC, 10% for a VCMC/PE manager, to YA 2035) is corroborated by multiple professional-firm budget summaries but the exact Federal Gazette P.U.(A) order number and gazette date for the new regime could not be confirmed against primary text. Confirm the gazette order before citing a P.U.(A) number, and check whether funds first certified under P.U.(A) 115/2022 retain their original full-exemption terms in transition."
+  - "การปรับปรุงภาษี VC/PE เดือนมิถุนายน 2025 (อัตราพิเศษ 5% สำหรับ VCC, 10% สำหรับผู้จัดการ VCMC/PE ถึง YA 2035) ได้รับการยืนยันจากบทสรุปงบประมาณของสำนักงานวิชาชีพหลายแห่ง แต่ไม่สามารถยืนยันหมายเลขคำสั่ง P.U.(A) ใน Federal Gazette และวันที่ประกาศราชกิจจานุเบกษาที่แน่นอนสำหรับระบอบใหม่เทียบกับข้อความปฐมภูมิได้ ยืนยันคำสั่งราชกิจจานุเบกษาก่อนอ้างอิงหมายเลข P.U.(A) และตรวจสอบว่ากองทุนที่ได้รับการรับรองครั้งแรกภายใต้ P.U.(A) 115/2022 ยังคงเงื่อนไขการยกเว้นเต็มจำนวนเดิมในช่วงเปลี่ยนผ่านหรือไม่."
 
 updated: 2026-09-07
 sources:
