@@ -39,7 +39,7 @@ sourceContentHash: "b7ee74767d9d900f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

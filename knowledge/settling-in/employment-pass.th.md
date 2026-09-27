@@ -25,7 +25,7 @@ sourceContentHash: "1684527edc9ec752"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

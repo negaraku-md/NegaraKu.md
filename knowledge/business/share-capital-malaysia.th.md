@@ -70,7 +70,7 @@ sourceContentHash: "ac9c3894e3319f9f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

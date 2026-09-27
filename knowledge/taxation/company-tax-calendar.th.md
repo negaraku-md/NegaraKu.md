@@ -135,7 +135,7 @@ sourceContentHash: "5c5878a339ae1335"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

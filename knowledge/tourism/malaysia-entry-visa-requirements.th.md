@@ -44,7 +44,7 @@ translationStatus: "in-sync"
 verificationNeeded:
   - "หน้าหนังสือเดินทางที่ว่างจำเป็นสำหรับการเข้าประเทศอย่างเป็นทางการหรือไม่ (ไม่ได้ระบุในแหล่ง MIDA ที่อ้างอิง)"
 
-status: "draft"
+status: "published"
 publishedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null

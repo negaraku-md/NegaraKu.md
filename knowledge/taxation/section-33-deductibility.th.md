@@ -42,7 +42,7 @@ sourceContentHash: "669796e4c8074cfe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

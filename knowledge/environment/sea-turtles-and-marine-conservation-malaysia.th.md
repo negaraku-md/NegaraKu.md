@@ -35,7 +35,7 @@ sourceContentHash: "3ba84882f4818881"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

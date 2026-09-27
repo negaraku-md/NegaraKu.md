@@ -40,7 +40,7 @@ sourceContentHash: "87bf8d58ce7f3cea"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -47,7 +47,7 @@ verificationNeeded:
   - "RFP ของ JENDELA ระยะที่ 2 'JP2' มีรายงานโดย The Edge ว่าออกในวันที่ 'March 31'; ยืนยันว่าปีคือ 2026 กับแหล่งข้อมูลของ MCMC/กระทรวงการสื่อสาร"
   - "วันที่ออก Ministerial Direction No. 3 of 2021 (31 May 2021) นำมาจาก SoyaCincau; ยืนยันกับราชกิจจานุเบกษาอย่างเป็นทางการหรือบันทึกของ MCMC"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

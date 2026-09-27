@@ -129,7 +129,7 @@ sourceContentHash: "1af54f5d2bfdf5b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

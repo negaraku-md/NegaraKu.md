@@ -46,7 +46,7 @@ sourceContentHash: "e5a0172051099281"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

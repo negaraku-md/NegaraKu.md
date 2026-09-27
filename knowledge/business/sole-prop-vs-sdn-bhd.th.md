@@ -28,7 +28,7 @@ sourceContentHash: "5417c396f8f77b23"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
