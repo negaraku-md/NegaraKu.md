@@ -23,6 +23,7 @@ import {
   loadCumulative, queryTail, addRow, clonePages, cleanPages,
   loadArticleKeys, filterToArticles, OUT_FILE, CUMULATIVE_FILE, queryEngagement,
   SERIES_OUT_FILE, queryDailyTotals, addDayRow, queryReaderCube, queryReaderPaths,
+  queryClicks,
 } from './lib/analytics-store.mjs';
 
 const CUBE_OUT_FILE = path.join(path.dirname(OUT_FILE), 'reader-cube.json');
@@ -115,6 +116,32 @@ async function main() {
     }
   }
   await writeFile(CUBE_OUT_FILE, JSON.stringify(cube) + '\n', 'utf8');
+
+  // What readers open next — link clicks (blob2='click') over a 90-day live
+  // window, split into top internal cross-links (article keys) and top outbound
+  // sources (hostnames only). Empty until the edge capture accrues; the panel
+  // shows a "still accruing" note. Best-effort — never fails the build.
+  const clicks = { updatedAt: new Date().toISOString(), internal: [], outbound: [] };
+  if (ACCOUNT && TOKEN) {
+    try {
+      const rows = await queryClicks({ account: ACCOUNT, token: TOKEN, dataset: DATASET, days: 90 });
+      const internal = [];
+      const outbound = [];
+      for (const r of rows) {
+        const n = Math.round(Number(r.n) || 0);
+        const dest = r.dest || '';
+        if (!dest || n <= 0) continue;
+        if (r.kind === 'outbound') outbound.push([dest, n]);
+        else if (dest !== 'home' && (!keys || keys.has(dest))) internal.push([dest, n]); // articles only
+      }
+      clicks.internal = internal.slice(0, 20);
+      clicks.outbound = outbound.slice(0, 20);
+      console.log(`[analytics] clicks — ${clicks.internal.length} internal, ${clicks.outbound.length} outbound.`);
+    } catch (err) {
+      console.warn(`[analytics] clicks query failed (non-fatal): ${err.message}`);
+    }
+  }
+  await writeFile(path.join(path.dirname(OUT_FILE), 'clicks.json'), JSON.stringify(clicks) + '\n', 'utf8');
 
   // Serve the committed archive snapshots (Facebook / Search Console), written by
   // their own scheduled workflows into analytics/. Copy each into public/api/ so

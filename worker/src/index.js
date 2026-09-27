@@ -46,14 +46,29 @@ export default {
         return handleQuery(request, env);
       }
 
-      // Engagement beacon: the page sends navigator.sendBeacon('/_a/e', {p,t,s})
-      // on page-leave. Record dwell (t, seconds) + max scroll (s, %) as an
-      // 'engage' row, then short-circuit — this path has no origin to hit.
+      // Engagement + click beacon at /_a/e (POST). Two shapes, both cookieless:
+      //   • engagement on page-leave: { p, t, s }  → dwell + max scroll ('engage')
+      //   • link click:               { c:1, p, u, k } → what readers open next
+      // Short-circuits — this path has no origin to hit.
       if (request.method === 'POST' && url.pathname === '/_a/e') {
         try {
           const b = await request.json();
           const p = String(b.p || '');
           const key = pathKey(p);
+
+          // Link-click row: blob2='click', blob1=from-article, blob3=kind
+          // (internal|outbound), blob4=dest (article key for internal, hostname
+          // for outbound — never a full URL/query, so no PII). Ignored by every
+          // pageview/daily aggregator (they only sum readers/search/ai buckets).
+          if (b.c) {
+            const kind = b.k === 'outbound' ? 'outbound' : 'internal';
+            let dest = String(b.u || '').slice(0, 120);
+            if (kind === 'internal') dest = pathKey(dest);
+            if (env.AE && dest) {
+              env.AE.writeDataPoint({ blobs: [key, 'click', kind, dest], doubles: [1], indexes: [dest.slice(0, 96)] });
+            }
+            return new Response(null, { status: 204 });
+          }
           const t = Math.max(0, Math.min(3600, Math.round(Number(b.t) || 0))); // cap 1h
           const s = Math.max(0, Math.min(100, Math.round(Number(b.s) || 0)));  // 0–100%
           if (env.AE && key && key !== 'home' && t > 0) {

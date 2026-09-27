@@ -164,6 +164,18 @@ export function getReaderCube(): ReaderCube {
   return read<ReaderCube>('reader-cube.json', { cube: [], paths: [] });
 }
 
+// Link clicks (build-analytics.mjs → clicks.json): "what readers open next" over a
+// 90-day live window — top internal cross-links (article keys) and top outbound
+// sources (hostnames only, no PII). Empty until the edge click capture accrues.
+export type Clicks = {
+  updatedAt?: string;
+  internal?: [string, number][]; // [articleKey, count]
+  outbound?: [string, number][]; // [hostname, count]
+};
+export function getClicks(): Clicks {
+  return read<Clicks>('clicks.json', { internal: [], outbound: [] });
+}
+
 // Facebook reach archive (analytics/facebook.json, served into public/api at build).
 export type Facebook = {
   updatedAt?: string;

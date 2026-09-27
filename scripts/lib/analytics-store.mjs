@@ -284,3 +284,22 @@ export async function queryEngagement({ account, token, dataset, days = 90 }) {
   if (!res.ok) throw new Error(`AE SQL API ${res.status}: ${(await res.text()).slice(0, 300)}`);
   return (await res.json()).data || [];
 }
+
+/**
+ * Link clicks (blob2='click' rows the beacon writes) over the trailing `days` —
+ * "what readers open next". Returns [{kind, dest, n}] where kind is
+ * internal|outbound and dest is an article key (internal) or hostname (outbound).
+ * Live-window only, like engagement (a recent-behaviour signal). Best-effort.
+ */
+export async function queryClicks({ account, token, dataset, days = 90 }) {
+  const sql =
+    `SELECT blob3 AS kind, blob4 AS dest, SUM(_sample_interval) AS n ` +
+    `FROM ${dataset} WHERE blob2 = 'click' AND timestamp > NOW() - INTERVAL '${days}' DAY ` +
+    `GROUP BY kind, dest ORDER BY n DESC`;
+  const res = await fetch(
+    `https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`,
+    { method: 'POST', headers: { Authorization: `Bearer ${token}` }, body: sql },
+  );
+  if (!res.ok) throw new Error(`AE SQL API ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  return (await res.json()).data || [];
+}

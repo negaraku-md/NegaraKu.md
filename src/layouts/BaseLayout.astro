@@ -437,6 +437,27 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
         }
         document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') send(); });
         window.addEventListener('pagehide', send);
+
+        // Link-click beacon: what readers open next. One delegated listener; fires
+        // only on <a> clicks. Internal links report their path; external links
+        // report the HOSTNAME ONLY (never the full URL/query) — cookieless, no PII.
+        document.addEventListener('click', function (ev) {
+          try {
+            var a = ev.target && ev.target.closest && ev.target.closest('a[href]');
+            if (!a) return;
+            var href = a.getAttribute('href') || '';
+            if (!href || href[0] === '#' || /^(javascript|mailto|tel):/i.test(href)) return;
+            var u = new URL(a.href, location.href);
+            if (u.protocol !== 'http:' && u.protocol !== 'https:') return;
+            var internal = u.origin === location.origin;
+            if (internal && (u.pathname === location.pathname)) return; // same-page anchor
+            navigator.sendBeacon('/_a/e', JSON.stringify({
+              c: 1, p: location.pathname,
+              k: internal ? 'internal' : 'outbound',
+              u: internal ? u.pathname : u.hostname,
+            }));
+          } catch (e) { /* best-effort */ }
+        }, { passive: true, capture: true });
       })();
     </script>
 

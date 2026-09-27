@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { getPillar, getCategory, PILLARS, loc } from '@/lib/categories';
-import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing, getAnalyticsSeries, getCfTraffic, getReaderCube } from '@/lib/apidata';
+import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing, getAnalyticsSeries, getCfTraffic, getReaderCube, getClicks } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 
@@ -138,6 +138,16 @@ const engPillarMax = Math.max(1, ...engPillars.map((p) => p.avg));
 const engTop = engPagesRaw.sort((a, b) => b.avgSeconds - a.avgSeconds).slice(0, 8)
   .map((x) => ({ ...x, title: titleByKey.get(x.key) ?? x.key }));
 const engTopMax = Math.max(1, ...engTop.map((x) => x.avgSeconds));
+
+// What readers open next (beacon → clicks.json): top internal cross-links followed
+// + top outbound sources clicked (hostnames only). 90-day live window.
+const clicks = getClicks();
+const clickInternal = (clicks.internal ?? []).slice(0, 8)
+  .map(([key, n]) => ({ key, n, title: titleByKey.get(key) ?? key }));
+const clickOutbound = (clicks.outbound ?? []).slice(0, 8).map(([host, n]) => ({ host, n }));
+const clickIntMax = Math.max(1, ...clickInternal.map((x) => x.n));
+const clickOutMax = Math.max(1, ...clickOutbound.map((x) => x.n));
+const clicksHas = clickInternal.length > 0 || clickOutbound.length > 0;
 
 // Bing Webmaster (archive: analytics/bing.json) — also backs Copilot & ChatGPT-search.
 const bing = getBing();
@@ -1287,6 +1297,51 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
             </div>
           </div>
         </>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
+    <header><span>{L('Apa yang dibuka seterusnya', 'What readers open next', '读者接着打开什么', 'வாசகர்கள் அடுத்து எதைத் திறக்கிறார்கள்', '読者が次に開くもの', '독자가 다음에 여는 것', 'ผู้อ่านเปิดอะไรต่อ')}</span></header>
+    <div class="psec-body">
+      {!clicksHas ? (
+        <p class="hint">{L(
+          'Belum ada data klik — mula direkod setelah beacon disiarkan (deploy Worker) dan pelawat tiba.',
+          'No click data yet — recording begins after the beacon ships (Worker deploy) and visitors arrive.',
+          '暂无点击数据——beacon 上线（部署 Worker）且有访客后开始记录。',
+          'இதுவரை கிளிக் தரவு இல்லை — beacon வெளியான (Worker deploy) பிறகு பார்வையாளர்கள் வந்தவுடன் பதிவு தொடங்கும்.',
+          'まだクリックのデータはありません — beacon が配信され（Worker をデプロイ）、訪問者が来てから記録が始まります。',
+          '아직 클릭 데이터가 없습니다 — 비콘이 배포되고(Worker 배포) 방문자가 도착한 후 기록이 시작됩니다.', 'ยังไม่มีข้อมูลการคลิก — การบันทึกจะเริ่มหลังจากเผยแพร่ beacon (deploy Worker) และมีผู้เข้าชม',
+        )}</p>
+      ) : (
+        <div class="ai-grid">
+          <div>
+            <p class="ai-h">{L('Pautan dalaman diikuti', 'Internal links followed', '被点击的站内链接', 'பின்பற்றப்பட்ட உள் இணைப்புகள்', 'たどられた内部リンク', '따라간 내부 링크', 'ลิงก์ภายในที่ตามไป')}</p>
+            <div class="cov-cats">
+              {clickInternal.map((a) => (
+                <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
+                  <span class="cov-name" title={a.title}>{a.title}</span>
+                  <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((a.n / clickIntMax) * 100))}%`} /></span>
+                  <span class="cov-num">{a.n.toLocaleString()}</span>
+                </a>
+              ))}
+            </div>
+          </div>
+          <div>
+            <p class="ai-h">{L('Sumber luar diklik', 'Outbound sources clicked', '被点击的外部来源', 'கிளிக் செய்யப்பட்ட வெளி மூலங்கள்', 'クリックされた外部ソース', '클릭된 외부 출처', 'แหล่งภายนอกที่คลิก')}</p>
+            <div class="cov-cats">
+              {clickOutbound.map((o) => (
+                <div class="cov-row">
+                  <span class="cov-name" title={o.host}>{o.host}</span>
+                  <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((o.n / clickOutMax) * 100))}%`} /></span>
+                  <span class="cov-num">{o.n.toLocaleString()}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
       )}
     </div>
   </div>
