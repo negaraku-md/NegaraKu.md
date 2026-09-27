@@ -179,6 +179,29 @@ const redirects = {
   '/ko/technology/mcmc-malaysia': '/ko/government/mcmc-communications-multimedia-commission',
   '/ko/government/ma63-sabah-sarawak-autonomy': '/ko/malaysia/ma63',
   '/ko/glossary/dasar-ekonomi-baru': '/ko/malaysia/new-economic-policy',
+  // /th mirrors of every retired-dupe redirect above (added 2026-09-27 at Thai
+  // open launch; the .th dupes are archived like their ms/en/zh/ta/ja/ko siblings).
+  '/th/government/national-registration-department-jpn': '/th/government/jpn',
+  '/th/government/ministry-of-investment-trade-industry-miti': '/th/government/miti',
+  '/th/glossary/bank-negara-malaysia': '/th/economy/bank-negara-malaysia',
+  '/th/government/bank-negara-malaysia': '/th/economy/bank-negara-malaysia',
+  '/th/energy/petronas': '/th/companies/petronas',
+  '/th/industries/petronas-industry-profile': '/th/companies/petronas',
+  '/th/law/personal-data-protection-act-2010': '/th/law/pdpa-2010',
+  '/th/business/cyber-security-act-malaysia': '/th/technology/cyber-security-act-2024',
+  '/th/companies/pnb-and-asnb': '/th/economy/pnb',
+  '/th/glossary/felda': '/th/agriculture/felda-land-settlement-scheme',
+  '/th/glossary/orang-asli': '/th/arts-culture/orang-asli',
+  '/th/energy/tnb-tenaga-nasional': '/th/companies/tenaga-nasional',
+  '/th/companies/khazanah-nasional': '/th/economy/khazanah',
+  '/th/glossary/khazanah-nasional': '/th/economy/khazanah',
+  '/th/economy/deposit-insurance-pidm': '/th/finance/pidm-deposit-and-takaful-insurance-protection',
+  '/th/glossary/polis-diraja-malaysia': '/th/government/pdrm',
+  '/th/public-safety/royal-malaysia-police-pdrm': '/th/government/pdrm',
+  '/th/glossary/suruhanjaya-pilihan-raya': '/th/government/spr-election-commission',
+  '/th/technology/mcmc-malaysia': '/th/government/mcmc-communications-multimedia-commission',
+  '/th/government/ma63-sabah-sarawak-autonomy': '/th/malaysia/ma63',
+  '/th/glossary/dasar-ekonomi-baru': '/th/malaysia/new-economic-policy',
 };
 
 export default defineConfig({
@@ -217,12 +240,8 @@ export default defineConfig({
   integrations: [
     mdx(),
     sitemap({
-      // ms/en/zh/ta/ja/ko are fully launched (in LOCALES, indexed, in this sitemap).
-      // Thai (`th`) is SOFT-LAUNCHED (Phase 0): its routes/chrome build for preview
-      // but it is held OUT of LOCALES (→ noindex) and out of this sitemap via the
-      // filter below, until its corpus + chrome are launch-ready. Remove the filter
-      // + add th to the locales map here (and to LOCALES in i18n.ts) at open launch.
-      filter: (page) => !/\/th(\/|$)/.test(page),
+      // ms/en/zh/ta/ja/ko/th are all fully launched (in LOCALES, indexed, in this sitemap).
+      // Thai open-launched 2026-09-27 (was soft-launched/noindex from 2026-09-26).
       i18n: {
         defaultLocale: 'ms',
         locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th' },

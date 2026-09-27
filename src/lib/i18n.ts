@@ -6,7 +6,7 @@ import type { Locale } from './categories';
 // pages stay noindex and out of the sitemap, and the switcher never points at a page
 // that isn't ready). Japanese (`ja`) open-launched 2026-09-20: full 1,094-article corpus
 // translated + chrome localized.
-export const LOCALES: Locale[] = ['ms', 'en', 'zh', 'ta', 'ja', 'ko'];
+export const LOCALES: Locale[] = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th'];
 export const DEFAULT_LOCALE: Locale = 'ms';
 
 export const LOCALE_NAMES: Record<Locale, string> = {
