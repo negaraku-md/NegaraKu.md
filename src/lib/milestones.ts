@@ -200,4 +200,26 @@ export const MILESTONES: Milestone[] = [
       th: 'แปลบทความ 1,073 บทความเป็นภาษาเกาหลี; /ko กลายเป็นภาษาที่สมบูรณ์ ถูกจัดทำดัชนี และค้นพบได้',
     },
   },
+  {
+    date: '2026-09-27',
+    icon: '🇹🇭',
+    title: {
+      ms: 'Thai dilancarkan — bahasa ke-7',
+      en: 'Thai launched — the 7th language',
+      zh: '泰语上线——第七种语言',
+      ta: 'தாய் தொடங்கப்பட்டது — 7வது மொழி',
+      ja: 'タイ語を公開——7番目の言語',
+      ko: '태국어 출시 — 7번째 언어',
+      th: 'เปิดตัวภาษาไทย — ภาษาที่ 7',
+    },
+    body: {
+      ms: '1,073 artikel diterjemahkan ke bahasa Thai; /th menjadi bahasa penuh yang diindeks dan boleh ditemui.',
+      en: '1,073 articles translated to Thai; /th becomes a full, indexed, discoverable language.',
+      zh: '1,073 篇文章翻译为泰语；/th 成为完整、可被索引和检索的语言。',
+      ta: '1,073 கட்டுரைகள் தாய் மொழியில் மொழிபெயர்க்கப்பட்டன; /th ஒரு முழுமையான, குறியிடப்பட்ட, கண்டறியக்கூடிய மொழியாகிறது.',
+      ja: '1,073 本の記事をタイ語に翻訳；/th が完全でインデックス化され、発見可能な言語になりました。',
+      ko: '1,073개 기사가 태국어로 번역되었습니다; /th가 완전하고 색인화되어 검색 가능한 언어가 됩니다.',
+      th: 'แปลบทความ 1,073 บทความเป็นภาษาไทย; /th กลายเป็นภาษาที่สมบูรณ์ ถูกจัดทำดัชนี และค้นพบได้',
+    },
+  },
 ];

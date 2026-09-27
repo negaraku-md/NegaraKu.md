@@ -74,8 +74,9 @@ L() signature +th across 42 components + Localized type; Wave 1 (5 agents) found
 - [ ] Checkpoint-COMMIT after each wave. After all waves: **auditor script** (field byte-identical to master OR no Thai chars U+0E00–U+0E7F = untranslated) → drive to 0 remaining.
 - [ ] `npm run translate:stamp` after the corpus lands.
 
-## Phase 3 — Open launch & publish
-- [ ] **Publish**: flip all 1,073 `.th.md` `status: draft`→`published`. Non-sensitive publish freely; **sensitive (~196, sensitivity != none) get `reviewer: "ashton-tan"`** ([you]-confirmed reviewer, same as ta/ja/ko) — else scan.py `sensitive-unreviewed` + `isPublishable` block them.
+## Phase 3 — Open launch & publish ✅ DONE 2026-09-27 (commits c1780974 chrome, 21d4afe6 publish; local/unpushed — goes live on push)
+Published 1073 draft→published (877 non-sensitive + **196 sensitive reviewer ashton-tan**); th added to LOCALES + sitemap hreflang (soft-launch filter dropped → indexed, 0 noindex, in sitemap); live enumerations +th (DashboardView langBars, ArticleList chips, AnalyticsView, build-dashboard SITE_LANGS, export-hf LANGS); 21 /th redirect mirrors; th launch milestone added. VERIFIED: build green (11,418 pp), health --strict 0 errors, dashboard perLangCoverage.th=1073/1073 100% + languages:7, /th article lang="th" + 0 noindex + in sitemap.
+- [x] **Publish**: flip all 1,073 `.th.md` `status: draft`→`published`. Non-sensitive publish freely; **sensitive (~196, sensitivity != none) get `reviewer: "ashton-tan"`** ([you]-confirmed reviewer, same as ta/ja/ko) — else scan.py `sensitive-unreviewed` + `isPublishable` block them.
 - [ ] Add `th` to `LOCALES` (i18n.ts) + `astro.config.mjs` `i18n.locales` + sitemap hreflang map (`th: 'th'`); **remove the soft-launch sitemap filter** for `/th` → indexed, in switcher/hreflang (auto via LOCALES).
 - [ ] Add 21 `/th/...` redirect mirrors of the retired-dupe set in `astro.config.mjs`.
 - [ ] **Verify**: build green; `health --strict` **0 errors**; dashboard `perLangCoverage.th` = **1073/1073 (100%)** + `languages: 7`; emitted `/th` article has `lang="th"`, Thai body, **0 noindex**; `th` in `dist/sitemap-0.xml`.
