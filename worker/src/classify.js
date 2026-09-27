@@ -92,7 +92,9 @@ export function pathKey(pathname) {
   p = p.replace(/^\/+/, '').replace(/\/+$/, ''); // trim slashes
   if (!p) return 'home';
   const seg = p.split('/');
-  if (seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ms' || seg[0] === 'ta' || seg[0] === 'ja') seg.shift();
+  // Strip a leading locale prefix so all languages fold to one article key.
+  // Keep in sync with LOCALES (src/lib/i18n.ts); ko/th added 2026-09-27.
+  if (['en', 'zh', 'ms', 'ta', 'ja', 'ko', 'th'].includes(seg[0])) seg.shift();
   return seg.join('/') || 'home';
 }
 

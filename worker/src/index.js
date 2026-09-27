@@ -18,6 +18,17 @@ import { classifyReferrer } from './referrer.js';
 import { deviceInfo } from './device.js';
 import { handleQuery } from './query.js';
 
+// Locale of a path from its first segment. ms is the default (no prefix); every
+// other public locale lives under /<code>/. Keep in sync with LOCALES in
+// src/lib/i18n.ts — a missing code silently mis-attributes that locale's traffic
+// to Malay (the ko/ta/ja bug fixed 2026-09-27: en/zh/ta/ja were listed, ko/th
+// were not, so /ko and /th hits counted as ms).
+const VIEW_LOCALES = ['en', 'zh', 'ta', 'ja', 'ko', 'th'];
+function localeOf(pathname) {
+  const seg = (pathname || '').split('/')[1];
+  return VIEW_LOCALES.includes(seg) ? seg : 'ms';
+}
+
 export default {
   /**
    * @param {Request} request
@@ -46,7 +57,7 @@ export default {
           const t = Math.max(0, Math.min(3600, Math.round(Number(b.t) || 0))); // cap 1h
           const s = Math.max(0, Math.min(100, Math.round(Number(b.s) || 0)));  // 0–100%
           if (env.AE && key && key !== 'home' && t > 0) {
-            const locale = p.startsWith('/en/') ? 'en' : p.startsWith('/zh/') ? 'zh' : p.startsWith('/ta/') ? 'ta' : p.startsWith('/ja/') ? 'ja' : 'ms';
+            const locale = localeOf(p);
             // blob2='engage' marks the row so the pageview aggregator ignores it;
             // doubles carry dwell seconds + scroll %, weighted per sample at query time.
             env.AE.writeDataPoint({ blobs: [key, 'engage', '', locale], doubles: [t, s], indexes: [key.slice(0, 96)] });
@@ -67,10 +78,7 @@ export default {
           // referral source (search/ai/social/…) — only for readers; '' for bots.
           // country/region/city come from Cloudflare's edge geo (request.cf);
           // device/browser/os are coarse UA buckets — the pivot dimensions.
-          const locale = url.pathname.startsWith('/en/') ? 'en'
-            : url.pathname.startsWith('/zh/') ? 'zh'
-            : url.pathname.startsWith('/ta/') ? 'ta'
-            : url.pathname.startsWith('/ja/') ? 'ja' : 'ms';
+          const locale = localeOf(url.pathname);
           const { channel, source } = bucket === 'readers'
             ? classifyReferrer(request.headers.get('referer'), url)
             : { channel: '', source: '' };
