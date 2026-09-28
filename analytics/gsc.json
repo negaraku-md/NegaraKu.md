@@ -1,158 +1,158 @@
 {
-  "updatedAt": "2026-09-21T10:15:34.355Z",
+  "updatedAt": "2026-09-28T11:17:23.770Z",
   "property": "sc-domain:negaraku.md",
   "byMonth": {
     "2026-09": {
-      "clicks": 229,
-      "impressions": 33969,
+      "clicks": 520,
+      "impressions": 58873,
       "byCategory": {
-        "taxation": {
-          "clicks": 39,
-          "impressions": 3033
+        "glossary": {
+          "clicks": 18,
+          "impressions": 2294
         },
         "company-secretary": {
-          "clicks": 20,
-          "impressions": 1673
+          "clicks": 53,
+          "impressions": 3275
+        },
+        "taxation": {
+          "clicks": 71,
+          "impressions": 4863
         },
         "law": {
-          "clicks": 12,
-          "impressions": 2244
+          "clicks": 39,
+          "impressions": 3876
         },
         "public-safety": {
-          "clicks": 20,
-          "impressions": 1423
+          "clicks": 36,
+          "impressions": 2527
         },
         "arts-culture": {
-          "clicks": 16,
-          "impressions": 1218
+          "clicks": 30,
+          "impressions": 2105
         },
         "government": {
-          "clicks": 11,
-          "impressions": 2290
-        },
-        "business": {
-          "clicks": 22,
-          "impressions": 4693
-        },
-        "cost-of-living": {
-          "clicks": 2,
-          "impressions": 394
-        },
-        "education": {
-          "clicks": 7,
-          "impressions": 752
-        },
-        "employment": {
-          "clicks": 3,
-          "impressions": 684
-        },
-        "healthcare": {
-          "clicks": 7,
-          "impressions": 624
-        },
-        "money-daily-life": {
-          "clicks": 7,
-          "impressions": 768
-        },
-        "food-lifestyle": {
-          "clicks": 4,
-          "impressions": 416
-        },
-        "energy": {
-          "clicks": 3,
-          "impressions": 1029
-        },
-        "settling-in": {
-          "clicks": 13,
-          "impressions": 1224
-        },
-        "malaysia": {
-          "clicks": 7,
-          "impressions": 2317
-        },
-        "accounting": {
-          "clicks": 4,
-          "impressions": 542
+          "clicks": 23,
+          "impressions": 4533
         },
         "sports": {
-          "clicks": 5,
-          "impressions": 535
+          "clicks": 10,
+          "impressions": 966
+        },
+        "malaysia": {
+          "clicks": 14,
+          "impressions": 3881
+        },
+        "business": {
+          "clicks": 56,
+          "impressions": 7017
+        },
+        "cost-of-living": {
+          "clicks": 4,
+          "impressions": 622
+        },
+        "education": {
+          "clicks": 14,
+          "impressions": 1334
+        },
+        "employment": {
+          "clicks": 12,
+          "impressions": 1113
+        },
+        "healthcare": {
+          "clicks": 17,
+          "impressions": 1307
+        },
+        "money-daily-life": {
+          "clicks": 12,
+          "impressions": 1238
+        },
+        "food-lifestyle": {
+          "clicks": 6,
+          "impressions": 810
+        },
+        "energy": {
+          "clicks": 6,
+          "impressions": 1599
+        },
+        "settling-in": {
+          "clicks": 23,
+          "impressions": 2233
+        },
+        "accounting": {
+          "clicks": 11,
+          "impressions": 894
         },
         "industries": {
           "clicks": 2,
-          "impressions": 250
+          "impressions": 398
         },
         "property": {
-          "clicks": 2,
-          "impressions": 444
+          "clicks": 5,
+          "impressions": 958
         },
         "agriculture": {
-          "clicks": 3,
-          "impressions": 1887
+          "clicks": 7,
+          "impressions": 2388
         },
         "transport": {
-          "clicks": 5,
-          "impressions": 692
-        },
-        "glossary": {
-          "clicks": 1,
-          "impressions": 1129
+          "clicks": 10,
+          "impressions": 1376
         },
         "states": {
-          "clicks": 2,
-          "impressions": 2043
+          "clicks": 12,
+          "impressions": 3148
         },
         "economy": {
-          "clicks": 2,
-          "impressions": 448
+          "clicks": 3,
+          "impressions": 709
         },
         "international": {
           "clicks": 2,
-          "impressions": 308
+          "impressions": 602
         },
         "environment": {
-          "clicks": 4,
-          "impressions": 402
+          "clicks": 8,
+          "impressions": 636
         },
         "companies": {
-          "clicks": 2,
-          "impressions": 625
+          "clicks": 6,
+          "impressions": 1048
         },
         "technology": {
-          "clicks": 1,
-          "impressions": 389
+          "clicks": 4,
+          "impressions": 638
         },
         "donate": {
           "clicks": 1,
-          "impressions": 6
+          "impressions": 12
         },
         "finance": {
+          "clicks": 2,
+          "impressions": 632
+        },
+        "tourism": {
           "clicks": 1,
-          "impressions": 426
+          "impressions": 512
+        },
+        "audit": {
+          "clicks": 2,
+          "impressions": 565
         },
         "doing-business": {
           "clicks": 0,
-          "impressions": 10
-        },
-        "audit": {
-          "clicks": 0,
-          "impressions": 243
-        },
-        "tourism": {
-          "clicks": 0,
-          "impressions": 274
+          "impressions": 13
         },
         "articles": {
           "clicks": 0,
-          "impressions": 4
+          "impressions": 5
         },
         "settings": {
           "clicks": 0,
-          "impressions": 2
+          "impressions": 3
         },
         "start": {
           "clicks": 0,
-          "impressions": 5
+          "impressions": 8
         },
         "cookies": {
           "clicks": 0,
@@ -172,11 +172,11 @@
         },
         "explore": {
           "clicks": 0,
-          "impressions": 1
+          "impressions": 2
         },
         "about": {
           "clicks": 0,
-          "impressions": 7
+          "impressions": 11
         },
         "contribute": {
           "clicks": 0,
@@ -192,15 +192,15 @@
         },
         "contributors": {
           "clicks": 0,
-          "impressions": 2
+          "impressions": 4
         },
         "latest": {
           "clicks": 0,
-          "impressions": 3
+          "impressions": 13
         },
         "contributor-guide": {
           "clicks": 0,
-          "impressions": 1
+          "impressions": 7
         },
         "roles": {
           "clicks": 0,
@@ -209,455 +209,523 @@
         "search": {
           "clicks": 0,
           "impressions": 1
+        },
+        "dashboard": {
+          "clicks": 0,
+          "impressions": 7
+        },
+        "analytics": {
+          "clicks": 0,
+          "impressions": 696
+        },
+        "compliance-calendar": {
+          "clicks": 0,
+          "impressions": 14
         }
       },
       "byLang": {
-        "en": {
-          "clicks": 93,
-          "impressions": 21234
-        },
         "zh": {
-          "clicks": 66,
-          "impressions": 4487
+          "clicks": 152,
+          "impressions": 9900
         },
         "ms": {
-          "clicks": 66,
-          "impressions": 9289
+          "clicks": 123,
+          "impressions": 15538
+        },
+        "en": {
+          "clicks": 236,
+          "impressions": 34541
         },
         "ta": {
-          "clicks": 5,
-          "impressions": 481
+          "clicks": 9,
+          "impressions": 859
+        },
+        "ja": {
+          "clicks": 0,
+          "impressions": 85
         }
       }
     }
   },
   "latest": {
     "window": {
-      "start": "2026-06-23",
-      "end": "2026-09-18"
+      "start": "2026-06-30",
+      "end": "2026-09-25"
     },
     "totals": {
-      "clicks": 229,
-      "impressions": 33969,
-      "ctr": 0.7,
-      "position": 14.9
+      "clicks": 520,
+      "impressions": 58873,
+      "ctr": 0.9,
+      "position": 12.5
     },
     "byCategory": {
       "public-safety": {
-        "clicks": 20,
-        "impressions": 479
-      },
-      "taxation": {
-        "clicks": 39,
-        "impressions": 718
-      },
-      "sports": {
-        "clicks": 5,
-        "impressions": 148
-      },
-      "government": {
-        "clicks": 11,
-        "impressions": 496
-      },
-      "company-secretary": {
-        "clicks": 20,
-        "impressions": 1568
-      },
-      "employment": {
-        "clicks": 3,
-        "impressions": 551
-      },
-      "money-daily-life": {
-        "clicks": 7,
-        "impressions": 129
-      },
-      "settling-in": {
-        "clicks": 13,
-        "impressions": 210
-      },
-      "transport": {
-        "clicks": 5,
-        "impressions": 88
-      },
-      "arts-culture": {
-        "clicks": 16,
-        "impressions": 1126
-      },
-      "food-lifestyle": {
-        "clicks": 4,
-        "impressions": 106
-      },
-      "law": {
-        "clicks": 12,
-        "impressions": 239
-      },
-      "agriculture": {
-        "clicks": 3,
-        "impressions": 1853
+        "clicks": 36,
+        "impressions": 1056
       },
       "business": {
-        "clicks": 22,
-        "impressions": 4410
+        "clicks": 56,
+        "impressions": 4614
+      },
+      "company-secretary": {
+        "clicks": 53,
+        "impressions": 2009
+      },
+      "glossary": {
+        "clicks": 18,
+        "impressions": 682
+      },
+      "malaysia": {
+        "clicks": 14,
+        "impressions": 524
+      },
+      "taxation": {
+        "clicks": 71,
+        "impressions": 1608
+      },
+      "transport": {
+        "clicks": 10,
+        "impressions": 303
+      },
+      "healthcare": {
+        "clicks": 17,
+        "impressions": 414
+      },
+      "law": {
+        "clicks": 39,
+        "impressions": 1033
+      },
+      "settling-in": {
+        "clicks": 23,
+        "impressions": 744
+      },
+      "sports": {
+        "clicks": 10,
+        "impressions": 385
+      },
+      "government": {
+        "clicks": 23,
+        "impressions": 1604
+      },
+      "companies": {
+        "clicks": 6,
+        "impressions": 315
+      },
+      "food-lifestyle": {
+        "clicks": 6,
+        "impressions": 282
+      },
+      "agriculture": {
+        "clicks": 7,
+        "impressions": 2283
+      },
+      "arts-culture": {
+        "clicks": 30,
+        "impressions": 1939
+      },
+      "employment": {
+        "clicks": 12,
+        "impressions": 436
+      },
+      "money-daily-life": {
+        "clicks": 12,
+        "impressions": 258
+      },
+      "states": {
+        "clicks": 12,
+        "impressions": 491
       },
       "education": {
-        "clicks": 7,
-        "impressions": 705
+        "clicks": 14,
+        "impressions": 640
       },
       "accounting": {
-        "clicks": 4,
-        "impressions": 502
+        "clicks": 11,
+        "impressions": 834
+      },
+      "audit": {
+        "clicks": 2,
+        "impressions": 536
       },
       "cost-of-living": {
-        "clicks": 2,
-        "impressions": 333
+        "clicks": 4,
+        "impressions": 357
       },
       "donate": {
         "clicks": 1,
-        "impressions": 5
+        "impressions": 8
       },
       "economy": {
-        "clicks": 2,
-        "impressions": 381
+        "clicks": 3,
+        "impressions": 223
       },
       "energy": {
-        "clicks": 3,
-        "impressions": 264
+        "clicks": 6,
+        "impressions": 410
       },
       "environment": {
-        "clicks": 4,
-        "impressions": 93
+        "clicks": 8,
+        "impressions": 163
       },
       "finance": {
-        "clicks": 1,
-        "impressions": 12
-      },
-      "glossary": {
-        "clicks": 1,
-        "impressions": 47
-      },
-      "healthcare": {
-        "clicks": 7,
-        "impressions": 109
-      },
-      "malaysia": {
-        "clicks": 7,
-        "impressions": 197
-      },
-      "states": {
         "clicks": 2,
-        "impressions": 27
+        "impressions": 43
+      },
+      "technology": {
+        "clicks": 4,
+        "impressions": 81
       },
       "industries": {
         "clicks": 2,
-        "impressions": 7
+        "impressions": 10
       },
       "international": {
         "clicks": 2,
-        "impressions": 24
+        "impressions": 29
       },
       "property": {
-        "clicks": 2,
-        "impressions": 21
+        "clicks": 5,
+        "impressions": 125
       },
-      "companies": {
-        "clicks": 2,
-        "impressions": 555
-      },
-      "technology": {
+      "tourism": {
         "clicks": 1,
-        "impressions": 13
+        "impressions": 3
       },
       "about": {
         "clicks": 0,
-        "impressions": 6
+        "impressions": 9
+      },
+      "analytics": {
+        "clicks": 0,
+        "impressions": 696
       },
       "articles": {
         "clicks": 0,
         "impressions": 3
       },
-      "audit": {
+      "compliance-calendar": {
         "clicks": 0,
-        "impressions": 222
+        "impressions": 13
       },
       "contribute": {
         "clicks": 0,
-        "impressions": 4
-      },
-      "cookies": {
-        "clicks": 0,
-        "impressions": 4
-      },
-      "doing-business": {
-        "clicks": 0,
-        "impressions": 10
-      },
-      "contributor-guide": {
-        "clicks": 0,
-        "impressions": 1
+        "impressions": 3
       },
       "contributors": {
         "clicks": 0,
-        "impressions": 2
+        "impressions": 1
+      },
+      "cookies": {
+        "clicks": 0,
+        "impressions": 3
+      },
+      "doing-business": {
+        "clicks": 0,
+        "impressions": 4
       }
     },
     "byLang": {
       "zh": {
         "byCategory": {
           "public-safety": {
-            "clicks": 15,
-            "impressions": 337
+            "clicks": 24,
+            "impressions": 612
+          },
+          "glossary": {
+            "clicks": 7,
+            "impressions": 255
+          },
+          "malaysia": {
+            "clicks": 7,
+            "impressions": 234
           },
           "taxation": {
-            "clicks": 15,
-            "impressions": 75
+            "clicks": 25,
+            "impressions": 258
           },
-          "arts-culture": {
+          "companies": {
             "clicks": 4,
-            "impressions": 146
+            "impressions": 70
           },
           "food-lifestyle": {
-            "clicks": 2,
-            "impressions": 29
+            "clicks": 3,
+            "impressions": 71
+          },
+          "government": {
+            "clicks": 8,
+            "impressions": 927
           },
           "law": {
-            "clicks": 4,
-            "impressions": 19
+            "clicks": 13,
+            "impressions": 198
+          },
+          "arts-culture": {
+            "clicks": 5,
+            "impressions": 296
+          },
+          "business": {
+            "clicks": 8,
+            "impressions": 117
+          },
+          "education": {
+            "clicks": 3,
+            "impressions": 39
+          },
+          "healthcare": {
+            "clicks": 5,
+            "impressions": 75
+          },
+          "settling-in": {
+            "clicks": 7,
+            "impressions": 136
           },
           "accounting": {
             "clicks": 2,
-            "impressions": 8
+            "impressions": 19
           },
-          "business": {
-            "clicks": 4,
-            "impressions": 46
-          },
-          "companies": {
-            "clicks": 2,
-            "impressions": 47
+          "audit": {
+            "clicks": 1,
+            "impressions": 3
           },
           "company-secretary": {
+            "clicks": 4,
+            "impressions": 26
+          },
+          "economy": {
             "clicks": 1,
-            "impressions": 2
+            "impressions": 28
+          },
+          "employment": {
+            "clicks": 1,
+            "impressions": 20
           },
           "energy": {
             "clicks": 1,
             "impressions": 2
           },
-          "government": {
-            "clicks": 3,
-            "impressions": 299
+          "environment": {
+            "clicks": 1,
+            "impressions": 17
           },
-          "healthcare": {
-            "clicks": 3,
-            "impressions": 22
+          "finance": {
+            "clicks": 1,
+            "impressions": 21
           },
           "money-daily-life": {
-            "clicks": 2,
-            "impressions": 10
+            "clicks": 5,
+            "impressions": 44
           },
           "property": {
-            "clicks": 1,
-            "impressions": 4
-          },
-          "settling-in": {
-            "clicks": 3,
-            "impressions": 19
+            "clicks": 4,
+            "impressions": 105
           },
           "sports": {
-            "clicks": 1,
-            "impressions": 41
+            "clicks": 2,
+            "impressions": 202
           },
-          "technology": {
-            "clicks": 1,
+          "states": {
+            "clicks": 2,
             "impressions": 13
           },
+          "technology": {
+            "clicks": 3,
+            "impressions": 26
+          },
           "transport": {
-            "clicks": 2,
-            "impressions": 6
+            "clicks": 5,
+            "impressions": 161
           }
         }
       },
       "en": {
         "byCategory": {
-          "taxation": {
-            "clicks": 9,
-            "impressions": 319
+          "business": {
+            "clicks": 38,
+            "impressions": 2449
           },
           "company-secretary": {
-            "clicks": 14,
-            "impressions": 1250
+            "clicks": 41,
+            "impressions": 1458
           },
-          "employment": {
-            "clicks": 3,
-            "impressions": 367
-          },
-          "money-daily-life": {
-            "clicks": 4,
-            "impressions": 74
-          },
-          "public-safety": {
-            "clicks": 5,
-            "impressions": 142
-          },
-          "settling-in": {
-            "clicks": 4,
-            "impressions": 125
+          "taxation": {
+            "clicks": 24,
+            "impressions": 869
           },
           "transport": {
-            "clicks": 2,
-            "impressions": 77
+            "clicks": 4,
+            "impressions": 135
           },
-          "accounting": {
-            "clicks": 2,
-            "impressions": 416
+          "healthcare": {
+            "clicks": 11,
+            "impressions": 337
           },
-          "agriculture": {
-            "clicks": 1,
-            "impressions": 1697
+          "law": {
+            "clicks": 16,
+            "impressions": 632
+          },
+          "public-safety": {
+            "clicks": 12,
+            "impressions": 444
+          },
+          "settling-in": {
+            "clicks": 10,
+            "impressions": 475
           },
           "arts-culture": {
-            "clicks": 7,
-            "impressions": 668
+            "clicks": 12,
+            "impressions": 1134
           },
-          "business": {
-            "clicks": 16,
-            "impressions": 2865
+          "employment": {
+            "clicks": 8,
+            "impressions": 145
+          },
+          "government": {
+            "clicks": 9,
+            "impressions": 642
+          },
+          "money-daily-life": {
+            "clicks": 5,
+            "impressions": 148
+          },
+          "sports": {
+            "clicks": 4,
+            "impressions": 36
+          },
+          "states": {
+            "clicks": 7,
+            "impressions": 445
+          },
+          "accounting": {
+            "clicks": 9,
+            "impressions": 680
+          },
+          "agriculture": {
+            "clicks": 2,
+            "impressions": 1970
+          },
+          "audit": {
+            "clicks": 1,
+            "impressions": 429
           },
           "cost-of-living": {
-            "clicks": 1,
-            "impressions": 269
+            "clicks": 3,
+            "impressions": 244
           },
           "donate": {
             "clicks": 1,
-            "impressions": 4
+            "impressions": 7
           },
           "economy": {
             "clicks": 2,
-            "impressions": 304
+            "impressions": 69
           },
           "education": {
-            "clicks": 3,
-            "impressions": 413
+            "clicks": 4,
+            "impressions": 109
           },
           "energy": {
-            "clicks": 2,
-            "impressions": 262
+            "clicks": 4,
+            "impressions": 401
           },
           "environment": {
-            "clicks": 1,
-            "impressions": 58
+            "clicks": 2,
+            "impressions": 84
           },
           "finance": {
             "clicks": 1,
-            "impressions": 12
+            "impressions": 22
           },
           "food-lifestyle": {
-            "clicks": 2,
-            "impressions": 77
+            "clicks": 3,
+            "impressions": 211
           },
           "glossary": {
             "clicks": 1,
-            "impressions": 47
-          },
-          "government": {
-            "clicks": 2,
-            "impressions": 173
-          },
-          "healthcare": {
-            "clicks": 3,
-            "impressions": 85
-          },
-          "law": {
-            "clicks": 4,
-            "impressions": 168
+            "impressions": 57
           },
           "malaysia": {
             "clicks": 1,
-            "impressions": 53
+            "impressions": 104
           },
-          "sports": {
+          "technology": {
             "clicks": 1,
-            "impressions": 3
-          },
-          "states": {
-            "clicks": 1,
-            "impressions": 18
+            "impressions": 55
           },
           "about": {
             "clicks": 0,
-            "impressions": 2
+            "impressions": 5
+          },
+          "analytics": {
+            "clicks": 0,
+            "impressions": 7
           },
           "articles": {
             "clicks": 0,
             "impressions": 2
-          },
-          "audit": {
-            "clicks": 0,
-            "impressions": 149
-          },
-          "companies": {
-            "clicks": 0,
-            "impressions": 319
-          },
-          "contribute": {
-            "clicks": 0,
-            "impressions": 1
-          },
-          "contributor-guide": {
-            "clicks": 0,
-            "impressions": 1
-          },
-          "contributors": {
-            "clicks": 0,
-            "impressions": 2
-          },
-          "cookies": {
-            "clicks": 0,
-            "impressions": 1
-          },
-          "doing-business": {
-            "clicks": 0,
-            "impressions": 6
           }
         }
       },
       "ms": {
         "byCategory": {
+          "glossary": {
+            "clicks": 10,
+            "impressions": 370
+          },
           "sports": {
             "clicks": 3,
-            "impressions": 104
+            "impressions": 142
           },
           "taxation": {
-            "clicks": 15,
-            "impressions": 324
+            "clicks": 22,
+            "impressions": 481
           },
           "agriculture": {
-            "clicks": 2,
-            "impressions": 156
-          },
-          "arts-culture": {
             "clicks": 5,
-            "impressions": 312
-          },
-          "business": {
-            "clicks": 2,
-            "impressions": 1499
+            "impressions": 313
           },
           "company-secretary": {
-            "clicks": 5,
-            "impressions": 316
+            "clicks": 8,
+            "impressions": 525
+          },
+          "law": {
+            "clicks": 10,
+            "impressions": 203
+          },
+          "states": {
+            "clicks": 3,
+            "impressions": 33
+          },
+          "arts-culture": {
+            "clicks": 11,
+            "impressions": 502
+          },
+          "business": {
+            "clicks": 10,
+            "impressions": 2048
+          },
+          "companies": {
+            "clicks": 2,
+            "impressions": 245
           },
           "education": {
-            "clicks": 4,
-            "impressions": 292
+            "clicks": 7,
+            "impressions": 492
+          },
+          "employment": {
+            "clicks": 2,
+            "impressions": 268
+          },
+          "energy": {
+            "clicks": 1,
+            "impressions": 7
           },
           "environment": {
-            "clicks": 2,
-            "impressions": 34
+            "clicks": 4,
+            "impressions": 61
           },
           "government": {
             "clicks": 3,
-            "impressions": 12
+            "impressions": 19
           },
           "healthcare": {
             "clicks": 1,
@@ -665,39 +733,35 @@
           },
           "industries": {
             "clicks": 2,
-            "impressions": 7
+            "impressions": 10
           },
           "international": {
             "clicks": 2,
-            "impressions": 24
-          },
-          "law": {
-            "clicks": 4,
-            "impressions": 52
+            "impressions": 29
           },
           "malaysia": {
             "clicks": 6,
-            "impressions": 144
+            "impressions": 186
           },
           "money-daily-life": {
-            "clicks": 1,
-            "impressions": 45
+            "clicks": 2,
+            "impressions": 66
           },
           "property": {
             "clicks": 1,
-            "impressions": 17
+            "impressions": 20
           },
           "settling-in": {
             "clicks": 6,
-            "impressions": 66
+            "impressions": 133
           },
-          "states": {
+          "tourism": {
             "clicks": 1,
-            "impressions": 9
+            "impressions": 3
           },
           "transport": {
             "clicks": 1,
-            "impressions": 5
+            "impressions": 7
           },
           "about": {
             "clicks": 0,
@@ -705,7 +769,11 @@
           },
           "accounting": {
             "clicks": 0,
-            "impressions": 78
+            "impressions": 135
+          },
+          "analytics": {
+            "clicks": 0,
+            "impressions": 689
           },
           "articles": {
             "clicks": 0,
@@ -713,15 +781,19 @@
           },
           "audit": {
             "clicks": 0,
-            "impressions": 73
+            "impressions": 104
           },
-          "companies": {
+          "compliance-calendar": {
             "clicks": 0,
-            "impressions": 189
+            "impressions": 13
           },
           "contribute": {
             "clicks": 0,
             "impressions": 3
+          },
+          "contributors": {
+            "clicks": 0,
+            "impressions": 1
           },
           "cookies": {
             "clicks": 0,
@@ -729,7 +801,7 @@
           },
           "cost-of-living": {
             "clicks": 0,
-            "impressions": 59
+            "impressions": 108
           },
           "doing-business": {
             "clicks": 0,
@@ -741,11 +813,7 @@
           },
           "economy": {
             "clicks": 0,
-            "impressions": 77
-          },
-          "employment": {
-            "clicks": 0,
-            "impressions": 184
+            "impressions": 126
           }
         }
       },
@@ -753,37 +821,85 @@
         "byCategory": {
           "government": {
             "clicks": 3,
-            "impressions": 12
+            "impressions": 16
+          },
+          "arts-culture": {
+            "clicks": 2,
+            "impressions": 7
           },
           "cost-of-living": {
             "clicks": 1,
             "impressions": 5
           },
+          "employment": {
+            "clicks": 1,
+            "impressions": 3
+          },
           "environment": {
             "clicks": 1,
             "impressions": 1
+          },
+          "sports": {
+            "clicks": 1,
+            "impressions": 5
           }
         }
       }
     },
     "topQueries": [
       {
+        "query": "apa itu warta kerajaan",
+        "clicks": 2,
+        "impressions": 36,
+        "position": 6
+      },
+      {
+        "query": "什么是宪报",
+        "clicks": 2,
+        "impressions": 33,
+        "position": 5.7
+      },
+      {
         "query": "马来传统乐器",
         "clicks": 2,
-        "impressions": 9,
-        "position": 6.1
+        "impressions": 17,
+        "position": 6.4
+      },
+      {
+        "query": "act 777 companies act 2016",
+        "clicks": 1,
+        "impressions": 3,
+        "position": 7
+      },
+      {
+        "query": "akta kerajaan tempatan 1976",
+        "clicks": 1,
+        "impressions": 3,
+        "position": 10.3
+      },
+      {
+        "query": "apa maksud warta kerajaan",
+        "clicks": 1,
+        "impressions": 23,
+        "position": 4.8
       },
       {
         "query": "companies act 2016 (act 777)",
         "clicks": 1,
-        "impressions": 2,
-        "position": 5
+        "impressions": 4,
+        "position": 7.8
       },
       {
         "query": "cp37",
         "clicks": 1,
-        "impressions": 34,
-        "position": 8.8
+        "impressions": 71,
+        "position": 8.9
+      },
+      {
+        "query": "fungsi dbp",
+        "clicks": 1,
+        "impressions": 3,
+        "position": 12.3
       },
       {
         "query": "indeks pencemaran udara",
@@ -798,16 +914,40 @@
         "position": 11
       },
       {
+        "query": "kpdn 电话 号码",
+        "clicks": 1,
+        "impressions": 1,
+        "position": 6
+      },
+      {
         "query": "kpdn是什么部门",
         "clicks": 1,
-        "impressions": 162,
-        "position": 11.2
+        "impressions": 306,
+        "position": 10.6
+      },
+      {
+        "query": "level 33",
+        "clicks": 1,
+        "impressions": 1,
+        "position": 3
       },
       {
         "query": "p.u. (a) 252/2026",
         "clicks": 1,
         "impressions": 1,
         "position": 11
+      },
+      {
+        "query": "pdrm是什么",
+        "clicks": 1,
+        "impressions": 95,
+        "position": 8.9
+      },
+      {
+        "query": "putrajaya 是 selangor 吗",
+        "clicks": 1,
+        "impressions": 3,
+        "position": 9
       },
       {
         "query": "sarawak company registration",
@@ -836,8 +976,8 @@
       {
         "query": "sukma 是 什么",
         "clicks": 1,
-        "impressions": 2,
-        "position": 8.5
+        "impressions": 6,
+        "position": 8.8
       },
       {
         "query": "wang yang tidak dituntut di bank",
@@ -854,68 +994,8 @@
       {
         "query": "遺產稅 馬來西亞",
         "clicks": 1,
-        "impressions": 1,
-        "position": 10
-      },
-      {
-        "query": "马来西亚最大的银行",
-        "clicks": 1,
         "impressions": 2,
-        "position": 9
-      },
-      {
-        "query": "马来西亚诈骗举报平台",
-        "clicks": 1,
-        "impressions": 2,
-        "position": 12.5
-      },
-      {
-        "query": "\"act 265 employment act\" enforcement or violation or fine or penalty or lawsuit or scandal or challenge",
-        "clicks": 0,
-        "impressions": 3,
-        "position": 6.7
-      },
-      {
-        "query": "\"approved business\" \"division 1 of part 1 of schedule 1\" \"financial services act 2013\"",
-        "clicks": 0,
-        "impressions": 5,
-        "position": 8.2
-      },
-      {
-        "query": "\"bank negara malaysia\" -site:bnm.gov.my -site:facebook.com -site:instagram.com -site:threads.com -site:threads.net -site:linkedin.com -site:x.com -site:twitter.com -site:tiktok.com -site:youtube.com -site:youtu.be -site:reddit.com -site:t.me -site:telegram.me -site:telegram.org -site:pinterest.com -site:vimeo.com",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 95
-      },
-      {
-        "query": "\"current population estimates, malaysia, 2024\" \"johor\" \"kedah\" \"melaka\"",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 5
-      },
-      {
-        "query": "\"gdp_state_real_supply\" \"construction\"",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 7
-      },
-      {
-        "query": "\"gdp_state_real_supply\" \"johor\" \"construction\"",
-        "clicks": 0,
-        "impressions": 1,
-        "position": 4
-      },
-      {
-        "query": "\"gdp_state_real_supply\" github",
-        "clicks": 0,
-        "impressions": 6,
-        "position": 2.7
-      },
-      {
-        "query": "\"kaedah-kaedah mahkamah (pindaan) 2025\"",
-        "clicks": 0,
-        "impressions": 6,
-        "position": 5.3
+        "position": 10.5
       }
     ]
   }
