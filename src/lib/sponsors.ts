@@ -34,6 +34,7 @@ export const SPONSORS: Record<string, Sponsor> = {
       ja: '専門家のサポートが必要ですか？',
       ko: '전문가의 도움이 필요하십니까?',
       th: 'ต้องการความช่วยเหลือจากผู้เชี่ยวชาญหรือไม่?',
+      vi: 'Cần trợ giúp chuyên nghiệp?',
     },
     blurb: {
       ms: ' menyediakan perkhidmatan penubuhan syarikat, setiausaha syarikat, perakaunan, audit dan cukai di Malaysia.',
@@ -43,8 +44,9 @@ export const SPONSORS: Record<string, Sponsor> = {
       ja: ' はマレーシアにおける会社設立、カンパニーセクレタリー、会計、監査、税務のサービスを提供しています。',
       ko: '은 말레이시아에서 회사 설립, 회사 비서, 회계, 감사, 세무 서비스를 제공합니다.',
       th: ' ให้บริการจดทะเบียนบริษัท เลขานุการบริษัท บัญชี ตรวจสอบบัญชี และภาษีในมาเลเซีย.',
+      vi: ' cung cấp dịch vụ thành lập công ty, thư ký công ty, kế toán, kiểm toán và thuế tại Malaysia.',
     },
-    cta: { ms: 'Ketahui lebih lanjut', en: 'Learn more', zh: '了解更多', ta: 'மேலும் அறிக', ja: '詳しく見る', ko: '자세히 보기', th: 'เรียนรู้เพิ่มเติม' },
+    cta: { ms: 'Ketahui lebih lanjut', en: 'Learn more', zh: '了解更多', ta: 'மேலும் அறிக', ja: '詳しく見る', ko: '자세히 보기', th: 'เรียนรู้เพิ่มเติม', vi: 'Tìm hiểu thêm' },
   },
 };
 

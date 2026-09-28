@@ -19,7 +19,7 @@ const locale = 'ms';
   // the home link and <html lang> client-side.
   (() => {
     const seg = location.pathname.split('/').filter(Boolean)[0];
-    const loc = seg === 'en' || seg === 'zh' || seg === 'ta' || seg === 'ja' || seg === 'ko' || seg === 'th' ? seg : 'ms';
+    const loc = seg === 'en' || seg === 'zh' || seg === 'ta' || seg === 'ja' || seg === 'ko' || seg === 'th' || seg === 'vi' ? seg : 'ms';
     if (loc === 'ms') return; // already correct
     const T = {
       en: {
@@ -56,6 +56,13 @@ const locale = 'ms';
         home: 'กลับสู่หน้าหลัก',
         href: '/th',
         lang: 'th',
+      },
+      vi: {
+        title: 'Không tìm thấy trang',
+        desc: 'Xin lỗi, nội dung bạn đang tìm kiếm không có ở đây.',
+        home: 'Quay về trang chủ',
+        href: '/vi',
+        lang: 'vi',
       },
     }[loc];
     document.documentElement.lang = T.lang;

@@ -11,6 +11,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアの歴史は、世界の十字路の物語です。ブジャン渓谷の古代ヒンドゥー・仏教王国から、マラッカ王国の黄金時代、ポルトガル・オランダ・イギリスの植民地時代、日本占領、独立への闘い、そしてマレーシアの成立まで——それぞれの時代が今日の国に層を重ねてきました。国の歴史を時代別にたどってみましょう。',
     ko: '말레이시아(Malaysia)의 역사는 세계의 교차로에 관한 이야기입니다. 부장 계곡(Bujang Valley)의 고대 힌두·불교 왕국에서 시작하여, 말라카 술탄국(Malacca Sultanate)의 황금기, 포르투갈·네덜란드·영국의 식민 시대, 일본 점령기, 독립 투쟁, 그리고 말레이시아의 성립에 이르기까지 — 각 시대가 오늘날의 국가 위에 저마다의 층을 남겼습니다. 시대별로 이 나라의 역사를 탐색해 보십시오.',
     th: 'ประวัติศาสตร์ของมาเลเซีย (Malaysia) คือเรื่องราวของจุดบรรจบแห่งโลก จากอาณาจักรฮินดู-พุทธโบราณในหุบเขาบูจัง (Bujang Valley) ผ่านยุคทองของรัฐสุลต่านมะละกา (Malacca Sultanate) ยุคอาณานิคมโปรตุเกส ดัตช์ และอังกฤษ การยึดครองของญี่ปุ่น การต่อสู้เพื่อเอกราช จนถึงการก่อตั้งประเทศมาเลเซีย — แต่ละยุคสมัยได้ทิ้งชั้นของตนไว้บนชาติในปัจจุบัน สำรวจประวัติศาสตร์ของประเทศตามยุคสมัย',
+    vi: 'Lịch sử Malaysia là câu chuyện về một ngã tư của thế giới. Từ các vương quốc Hindu-Phật giáo cổ đại ở Thung lũng Bujang (Bujang Valley), qua thời hoàng kim của Vương quốc Hồi giáo Malacca (Malacca Sultanate), các thời kỳ thuộc địa Bồ Đào Nha, Hà Lan và Anh, thời kỳ Nhật Bản chiếm đóng, cuộc đấu tranh giành độc lập, cho đến sự hình thành của Malaysia — mỗi thời đại đều để lại tầng lớp của mình trên đất nước ngày nay. Khám phá lịch sử đất nước theo từng thời đại.',
   },
   geography: {
     ms: 'Malaysia terbentang merentasi dua daratan yang dipisahkan Laut China Selatan — Semenanjung di barat dan Borneo di timur. Dari Banjaran Titiwangsa yang menjadi tulang belakang Semenanjung, ke Gunung Kinabalu yang menjulang di Sabah; dari Sungai Rajang yang terpanjang, ke pulau-pulau geopark Langkawi; iklim khatulistiwa dan dua musim monsun membentuk tanah dan kehidupan rakyatnya. Terokai geografi negara mengikut tema.',
@@ -20,6 +21,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアは南シナ海で隔てられた二つの陸塊にまたがっています——西のマレー半島と東のボルネオです。半島の背骨をなすティティワンサ山脈から、サバにそびえるキナバル山へ。最も長いラジャン川から、ランカウイのジオパークの島々へ。赤道気候と二つのモンスーンの季節が、この土地と人々を形づくっています。国の地理をテーマ別に見てみましょう。',
     ko: '말레이시아는 남중국해(South China Sea)로 나뉜 두 개의 땅덩어리에 걸쳐 있습니다 — 서쪽의 반도와 동쪽의 보르네오(Borneo)입니다. 반도의 등뼈를 이루는 티티왕사 산맥(Titiwangsa Range)에서 사바(Sabah)에 우뚝 솟은 키나발루산(Mount Kinabalu)까지, 가장 긴 라장강(Rajang River)에서 랑카위(Langkawi)의 지질공원 섬들까지, 적도 기후와 두 차례의 몬순 계절이 이 땅과 그 사람들을 빚어냅니다. 주제별로 이 나라의 지리를 탐색해 보십시오.',
     th: 'มาเลเซียทอดตัวข้ามผืนแผ่นดินสองส่วนที่ถูกแบ่งด้วยทะเลจีนใต้ (South China Sea) — คาบสมุทรทางตะวันตกและเกาะบอร์เนียว (Borneo) ทางตะวันออก จากเทือกเขาตีตีวังซา (Titiwangsa Range) ที่เป็นสันหลังของคาบสมุทร ไปจนถึงยอดเขากีนาบาลู (Mount Kinabalu) ที่ตระหง่านเหนือรัฐซาบาห์ (Sabah); จากแม่น้ำราจัง (Rajang River) ที่ยาวที่สุด ไปจนถึงหมู่เกาะอุทยานธรณีลังกาวี (Langkawi); ภูมิอากาศแบบเส้นศูนย์สูตรและฤดูมรสุมสองช่วงหล่อหลอมผืนแผ่นดินและผู้คน สำรวจภูมิศาสตร์ของประเทศตามหัวข้อ',
+    vi: 'Malaysia trải dài trên hai khối lục địa bị chia cắt bởi Biển Đông (South China Sea) — bán đảo ở phía tây và Borneo ở phía đông. Từ dãy Titiwangsa (Titiwangsa Range) tạo nên xương sống của bán đảo, đến núi Kinabalu (Mount Kinabalu) sừng sững trên Sabah; từ sông Rajang (Rajang River) dài nhất, đến các đảo công viên địa chất của Langkawi; khí hậu xích đạo và hai mùa gió mùa định hình vùng đất và con người nơi đây. Khám phá địa lý đất nước theo chủ đề.',
   },
   culture: {
     ms: 'Budaya Malaysia ialah pertemuan tamadun — Melayu, Cina, India, Peranakan, dan puluhan masyarakat peribumi Sabah dan Sarawak, hidup berjiran selama berabad-abad. Dari perayaan yang penuh warna seperti Hari Raya, Tahun Baru Cina, Deepavali dan Gawai, ke adat perkahwinan, seni mempertahankan diri, dan kraf warisan seperti songket dan wau — kepelbagaian inilah jiwa negara. Terokai budaya Malaysia mengikut tema.',
@@ -29,6 +31,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアの文化は文明の出会いです——マレー系、華人、インド系、プラナカン、そしてサバとサラワクの数十の先住民が、何世紀にもわたって隣り合って暮らしてきました。ハリラヤ、旧正月、ディーパバリ、ガワイといった色鮮やかな祭りから、婚礼の慣習、護身術、ソンケット織りやワウ（凧）のような伝統工芸まで——この多様性こそが国の魂です。マレーシアの文化をテーマ別に見てみましょう。',
     ko: '말레이시아의 문화는 여러 문명이 만나는 자리입니다 — 말레이계, 중국계, 인도계, 페라나칸(Peranakan), 그리고 사바(Sabah)와 사라왁(Sarawak)의 수십 개 원주민이 수백 년 동안 이웃하여 살아왔습니다. 하리 라야(Hari Raya), 설날, 디파발리(Deepavali), 가와이(Gawai)와 같은 화려한 축제에서부터 혼례 풍습, 무예, 송켓(songket)과 연(wau)과 같은 전통 공예에 이르기까지 — 이 다양성이야말로 국가의 정신입니다. 주제별로 말레이시아 문화를 탐색해 보십시오.',
     th: 'วัฒนธรรมของมาเลเซียคือการบรรจบกันของอารยธรรม — ชาวมลายู ชาวจีน ชาวอินเดีย ชาวเปอรานากัน (Peranakan) และชนพื้นเมืองหลายสิบกลุ่มของรัฐซาบาห์ (Sabah) และรัฐซาราวัก (Sarawak) ซึ่งอยู่ร่วมกันมานานหลายศตวรรษ จากเทศกาลอันมีสีสันอย่างฮารีรายอ (Hari Raya) ตรุษจีน ดีปาวลี (Deepavali) และกาไว (Gawai) ไปจนถึงประเพณีการแต่งงาน ศิลปะการต่อสู้ และงานหัตถกรรมมรดกอย่างผ้าซองเก็ต (songket) และว่าว (wau) — ความหลากหลายนี้คือจิตวิญญาณของชาติ สำรวจวัฒนธรรมมาเลเซียตามหัวข้อ',
+    vi: 'Văn hóa Malaysia là sự gặp gỡ của các nền văn minh — người Mã Lai, người Hoa, người Ấn, người Peranakan, cùng hàng chục cộng đồng bản địa của Sabah và Sarawak, sống bên nhau qua nhiều thế kỷ. Từ những lễ hội rực rỡ sắc màu như Hari Raya, Tết Nguyên đán của người Hoa, Deepavali và Gawai, đến các phong tục cưới hỏi, võ thuật, và những nghề thủ công di sản như songket và diều wau — chính sự đa dạng này là linh hồn của dân tộc. Khám phá văn hóa Malaysia theo chủ đề.',
   },
   states: {
     ms: 'Malaysia terdiri daripada 13 negeri dan 3 wilayah persekutuan. Sembilan negeri Melayu mengekalkan Sultan atau Raja mereka; setiap negeri mempunyai sejarah, dialek, masakan, dan keperibadian tersendiri — dari Perlis yang mungil di utara, ke Johor di hujung selatan, merentasi Laut China Selatan ke Sabah dan Sarawak di Borneo. Terokai negeri dan wilayah mengikut rantau.',
@@ -38,6 +41,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアは13の州と3つの連邦直轄区から成ります。9つのマレー系の州はスルタンまたは統治者を戴いています。それぞれの州が独自の歴史、方言、料理、個性を持ち——北の小さなパーリスから、南端のジョホール、南シナ海を越えてボルネオのサバとサラワクまで広がります。州と直轄区を地域別に見てみましょう。',
     ko: '말레이시아는 13개 주와 3개 연방 직할구로 이루어져 있습니다. 아홉 개의 말레이 주는 각자의 술탄(Sultan) 또는 통치자를 유지하고 있으며, 각 주는 저마다의 역사, 방언, 요리, 개성을 지니고 있습니다 — 북쪽의 작은 프를리스(Perlis)에서 남쪽 끝의 조호르(Johor)까지, 남중국해를 건너 보르네오(Borneo)의 사바(Sabah)와 사라왁(Sarawak)까지 이릅니다. 지역별로 주와 직할구를 탐색해 보십시오.',
     th: 'มาเลเซียประกอบด้วย 13 รัฐและ 3 ดินแดนสหพันธ์ รัฐมลายูเก้ารัฐยังคงมีสุลต่านหรือเจ้าผู้ครองของตน; แต่ละรัฐมีประวัติศาสตร์ ภาษาถิ่น อาหาร และเอกลักษณ์เฉพาะตัว — จากรัฐปะลิส (Perlis) อันเล็กจิ๋วทางเหนือ ไปจนถึงรัฐยะโฮร์ (Johor) ที่ปลายสุดทางใต้ ข้ามทะเลจีนใต้ (South China Sea) ไปยังรัฐซาบาห์ (Sabah) และรัฐซาราวัก (Sarawak) บนเกาะบอร์เนียว (Borneo) สำรวจรัฐและดินแดนต่าง ๆ ตามภูมิภาค',
+    vi: 'Malaysia gồm 13 bang và 3 lãnh thổ liên bang. Chín bang Mã Lai vẫn duy trì các Sultan hoặc Quân vương của mình; mỗi bang có lịch sử, phương ngữ, ẩm thực và bản sắc riêng — từ Perlis nhỏ bé ở phía bắc, đến Johor ở mũi cực nam, băng qua Biển Đông (South China Sea) đến Sabah và Sarawak trên đảo Borneo. Khám phá các bang và lãnh thổ theo vùng.',
   },
   food: {
     ms: 'Makanan Malaysia ialah cerminan masyarakat majmuknya — pertemuan cita rasa Melayu, Cina, India, dan peribumi dalam satu pinggan. Dari nasi lemak dan laksa ke roti canai dan char kway teow, dari teh tarik di gerai mamak ke durian "raja buah" — makanan menyatukan rakyat merentasi kaum dan kelas. Terokai warisan masakan negara mengikut jenis.',
@@ -47,6 +51,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシア料理は多民族社会の映し鏡です——マレー系、華人、インド系、先住民の味わいが一皿で出会います。ナシルマッやラクサから、ロティチャナイやチャークイティアオまで、ママック屋台のテータレッから「果物の王」ドリアンまで——食は民族や階層を越えて人々を結びつけます。国の食の伝統を種類別に見てみましょう。',
     ko: '말레이시아 음식은 다원 사회를 비추는 거울입니다 — 말레이계, 중국계, 인도계, 원주민의 맛이 한 접시에서 만납니다. 나시 르막(nasi lemak)과 락사(laksa)에서 로티 차나이(roti canai)와 차 궤 테오(char kway teow)까지, 마막(mamak) 노점의 테 타릭(teh tarik)에서 “과일의 왕” 두리안(durian)까지 — 음식은 민족과 계층을 넘어 사람들을 하나로 묶습니다. 종류별로 이 나라의 음식 유산을 탐색해 보십시오.',
     th: 'อาหารมาเลเซียสะท้อนสังคมพหุวัฒนธรรมของประเทศ — การบรรจบกันของรสชาติมลายู จีน อินเดีย และชนพื้นเมืองในจานเดียว จากนาซีเลอมัก (nasi lemak) และลักซา (laksa) ไปจนถึงโรตีจาไน (roti canai) และช่าร์กุยเตียว (char kway teow) จากเตทาริก (teh tarik) ที่ร้านมามัก (mamak) ไปจนถึงทุเรียน (durian) “ราชาแห่งผลไม้” — อาหารเชื่อมผู้คนเข้าด้วยกันข้ามเชื้อชาติและชนชั้น สำรวจมรดกด้านอาหารของประเทศตามประเภท',
+    vi: 'Ẩm thực Malaysia phản chiếu xã hội đa nguyên của đất nước — sự gặp gỡ của các hương vị Mã Lai, Hoa, Ấn và bản địa trên cùng một đĩa. Từ nasi lemak và laksa đến roti canai và char kway teow, từ teh tarik tại quầy mamak đến sầu riêng (durian) “vua của các loại trái cây” — ẩm thực gắn kết con người vượt qua ranh giới sắc tộc và giai tầng. Khám phá di sản ẩm thực của đất nước theo từng loại.',
   },
   people: {
     ms: 'Malaysia dibentuk oleh tokoh-tokohnya — perdana menteri yang memimpin negara ke merdeka dan pembangunan, seniman dan penghibur yang mencorak budaya, atlet yang mengharumkan nama negara, serta perintis sains yang membuka jalan baharu. Terokai tokoh yang membentuk negara mengikut bidang.',
@@ -56,6 +61,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアは、その人物たちによって形づくられてきました——国を独立と発展へ導いた首相たち、文化を定義した芸術家や芸能人、国に栄光をもたらしたアスリート、新たな道を切り開いた科学の先駆者たち。国を形づくった人物を分野別に見てみましょう。',
     ko: '말레이시아는 그 인물들에 의해 형성되어 왔습니다 — 나라를 독립과 발전으로 이끈 총리들, 문화를 규정한 예술가와 연예인들, 나라에 영광을 안긴 운동선수들, 그리고 새로운 길을 연 과학 선구자들입니다. 국가를 형성한 인물들을 분야별로 탐색해 보십시오.',
     th: 'มาเลเซียถูกหล่อหลอมโดยผู้คนของประเทศ — นายกรัฐมนตรีผู้นำชาติสู่เอกราชและการพัฒนา ศิลปินและผู้ให้ความบันเทิงผู้นิยามวัฒนธรรม นักกีฬาผู้นำเกียรติยศมาสู่ประเทศ และผู้บุกเบิกทางวิทยาศาสตร์ผู้เปิดเส้นทางใหม่ สำรวจบุคคลผู้หล่อหลอมชาติตามสาขา',
+    vi: 'Malaysia được định hình bởi con người của mình — những thủ tướng đã dẫn dắt đất nước đến độc lập và phát triển, những nghệ sĩ và người làm giải trí đã định hình nền văn hóa, những vận động viên đã mang lại vinh quang, và những người tiên phong khoa học đã mở ra những con đường mới. Khám phá những nhân vật đã định hình dân tộc theo từng lĩnh vực.',
   },
   religion: {
     ms: 'Malaysia ialah sebuah negara berbilang agama. Islam ialah agama persekutuan, sementara Perlembagaan menjamin kebebasan beragama bagi penganut Buddha, Hindu, Kristian, dan kepercayaan lain. Masjid, tokong, kuil, dan gereja berdiri berdekatan — cerminan keharmonian yang menjadi teras masyarakat majmuk. Terokai agama dan amalan di Malaysia.',
@@ -65,6 +71,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアは多宗教の国です。イスラム教は連邦の宗教であり、同時に憲法は仏教徒、ヒンドゥー教徒、キリスト教徒、その他の信者に信仰の自由を保障しています。モスク、廟、寺院、教会が隣り合って建ち——多元社会の核心にある調和を映し出しています。マレーシアの宗教と慣習を見てみましょう。',
     ko: '말레이시아는 다종교 국가입니다. 이슬람교는 연방의 종교이며, 동시에 헌법은 불교도, 힌두교도, 기독교도를 비롯한 이들에게 신앙의 자유를 보장합니다. 모스크와 사원, 교회가 나란히 서 있습니다 — 다원 사회의 중심에 자리한 조화를 비추어 보여 줍니다. 말레이시아의 종교와 관습을 탐색해 보십시오.',
     th: 'มาเลเซียเป็นชาติที่มีหลายศาสนา ศาสนาอิสลามเป็นศาสนาของสหพันธรัฐ ขณะที่รัฐธรรมนูญรับรองเสรีภาพในการนับถือศาสนาแก่ชาวพุทธ ชาวฮินดู ชาวคริสต์ และผู้นับถือศาสนาอื่น ๆ มัสยิด วัด และโบสถ์ตั้งอยู่เคียงข้างกัน — สะท้อนความกลมเกลียวอันเป็นหัวใจของสังคมพหุวัฒนธรรม สำรวจศาสนาและวัตรปฏิบัติของมาเลเซีย',
+    vi: 'Malaysia là một quốc gia đa tôn giáo. Hồi giáo là tôn giáo của liên bang, trong khi Hiến pháp bảo đảm quyền tự do tín ngưỡng cho các tín đồ Phật giáo, Hindu giáo, Kitô giáo và các tín ngưỡng khác. Các thánh đường Hồi giáo, đền, chùa và nhà thờ đứng cạnh nhau — phản ánh sự hòa hợp nằm ở trung tâm của một xã hội đa nguyên. Khám phá các tôn giáo và tập tục của Malaysia.',
   },
   nature: {
     ms: 'Malaysia ialah antara 17 negara "megadiversiti" di dunia. Hutan hujan purba Borneo dan Semenanjung menaungi orang utan, harimau Malaya, dan bunga Rafflesia; laut dan terumbu karangnya penuh hidupan marin. Namun kekayaan ini berdepan tekanan pembangunan. Terokai alam semula jadi negara dan usaha memeliharanya.',
@@ -74,6 +81,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアは世界に17ある「メガダイバーシティ（生物多様性大国）」の一つです。ボルネオと半島の太古の熱帯雨林は、オランウータン、マレートラ、ラフレシアの花を育みます。海とサンゴ礁は海洋生物であふれています。しかしこの豊かさは開発の圧力に直面しています。国の自然とその保護の取り組みを見てみましょう。',
     ko: '말레이시아는 세계 17개 “메가다양성(megadiverse)” 국가 가운데 하나입니다. 보르네오(Borneo)와 반도의 태고 열대우림은 오랑우탄, 말라야호랑이, 라플레시아(Rafflesia) 꽃을 품고 있으며, 그 바다와 산호초는 해양 생물로 가득합니다. 그러나 이 풍요로움은 개발의 압력에 직면해 있습니다. 이 나라의 자연과 그것을 지키려는 노력을 탐색해 보십시오.',
     th: 'มาเลเซียเป็นหนึ่งใน 17 ประเทศ “ความหลากหลายทางชีวภาพสูงยิ่ง” (megadiverse) ของโลก ป่าฝนโบราณของเกาะบอร์เนียว (Borneo) และคาบสมุทรเป็นที่พักพิงของลิงอุรังอุตัง เสือโคร่งมลายู และดอกบัวผุด (Rafflesia); ทะเลและแนวปะการังเต็มไปด้วยสิ่งมีชีวิตในทะเล ทว่าความมั่งคั่งนี้กำลังเผชิญแรงกดดันจากการพัฒนา สำรวจธรรมชาติของประเทศและความพยายามในการปกป้องรักษา',
+    vi: 'Malaysia là một trong 17 quốc gia “đa dạng sinh học bậc nhất” (megadiverse) của thế giới. Những khu rừng mưa cổ xưa của Borneo và bán đảo là nơi trú ngụ của đười ươi, hổ Mã Lai và hoa Rafflesia; biển và các rạn san hô của đất nước tràn đầy sinh vật biển. Tuy nhiên, sự giàu có này đang đối mặt với những áp lực của phát triển. Khám phá thiên nhiên của đất nước và những nỗ lực bảo vệ nó.',
   },
   society: {
     ms: 'Masyarakat Malaysia ialah mozek berbilang kaum, agama, dan bahasa — Melayu, Cina, India, dan peribumi Sabah dan Sarawak. Dari sistem pendidikan berbilang aliran, penjagaan kesihatan awam, ke kehidupan bandar yang pesat — negara sentiasa mengimbangi kepelbagaian dengan perpaduan. Terokai masyarakat dan sistem sosial Malaysia.',
@@ -83,6 +91,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシア社会は民族、宗教、言語のモザイクです——マレー系、華人、インド系、そしてサバとサラワクの先住民。多流派の教育制度や公的医療から、急速に成長する都市生活まで——国は常に多様性と統合の均衡をとっています。マレーシアの社会と社会制度を見てみましょう。',
     ko: '말레이시아 사회는 민족, 종교, 언어의 모자이크입니다 — 말레이계, 중국계, 인도계, 그리고 사바(Sabah)와 사라왁(Sarawak)의 원주민입니다. 다원화된 교육 제도와 공공 의료에서부터 빠르게 성장하는 도시 생활에 이르기까지 — 국가는 끊임없이 다양성과 통합의 균형을 잡아 갑니다. 말레이시아의 사회와 사회 제도를 탐색해 보십시오.',
     th: 'สังคมมาเลเซียเป็นภาพโมเสกของเชื้อชาติ ศาสนา และภาษา — ชาวมลายู ชาวจีน ชาวอินเดีย และชนพื้นเมืองของรัฐซาบาห์ (Sabah) และรัฐซาราวัก (Sarawak) จากระบบการศึกษาหลายสายและการสาธารณสุข ไปจนถึงชีวิตในเมืองที่เติบโตอย่างรวดเร็ว — ประเทศต้องรักษาสมดุลระหว่างความหลากหลายกับความเป็นเอกภาพอยู่เสมอ สำรวจสังคมและระบบสังคมของมาเลเซีย',
+    vi: 'Xã hội Malaysia là một bức khảm của các sắc tộc, tôn giáo và ngôn ngữ — người Mã Lai, người Hoa, người Ấn, và các dân tộc bản địa của Sabah và Sarawak. Từ hệ thống giáo dục đa dòng và y tế công cộng đến đời sống đô thị phát triển nhanh chóng — đất nước không ngừng cân bằng giữa sự đa dạng và sự đoàn kết. Khám phá xã hội và các hệ thống xã hội của Malaysia.',
   },
   economy: {
     ms: 'Ekonomi Malaysia telah berubah dari pergantungan pada getah dan bijih timah kepada perindustrian, elektronik, dan perkhidmatan. Minyak sawit dan tenaga menyumbang besar, manakala pelancongan dan kewangan berkembang pesat. Terokai komoditi, tenaga, perindustrian, dan perkhidmatan yang menggerakkan negara.',
@@ -92,6 +101,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシア経済は、ゴムとスズへの依存から、製造業、電子産業、サービス業へと転換してきました。パーム油とエネルギーは依然として主要な担い手であり、観光と金融は急速に成長しています。国を動かす一次産品、エネルギー、産業、サービスを見てみましょう。',
     ko: '말레이시아 경제는 고무와 주석에 대한 의존에서 제조업, 전자산업, 서비스업으로 전환해 왔습니다. 팜유와 에너지는 여전히 주요한 기여 부문이며, 관광과 금융은 빠르게 성장하고 있습니다. 국가를 이끄는 원자재, 에너지, 산업, 서비스를 탐색해 보십시오.',
     th: 'เศรษฐกิจของมาเลเซียได้เปลี่ยนจากการพึ่งพายางพาราและดีบุก ไปสู่ภาคการผลิต อิเล็กทรอนิกส์ และบริการ น้ำมันปาล์มและพลังงานยังคงเป็นผู้สร้างรายได้หลัก ขณะที่การท่องเที่ยวและการเงินเติบโตอย่างรวดเร็ว สำรวจสินค้าโภคภัณฑ์ พลังงาน อุตสาหกรรม และบริการที่ขับเคลื่อนประเทศ',
+    vi: 'Nền kinh tế Malaysia đã chuyển dịch từ sự phụ thuộc vào cao su và thiếc sang chế tạo, điện tử và dịch vụ. Dầu cọ và năng lượng vẫn là những nguồn đóng góp chính, trong khi du lịch và tài chính tăng trưởng nhanh chóng. Khám phá các mặt hàng, năng lượng, công nghiệp và dịch vụ đang vận hành đất nước.',
   },
   technology: {
     ms: 'Malaysia membina masa depan digitalnya di atas asas industri elektronik dan semikonduktor yang berdekad lamanya. Dari Koridor Raya Multimedia dan Cyberjaya ke industri cip Pulau Pinang, program angkasa, dan gelombang syarikat pemula — negara berusaha bergerak menaiki rantaian nilai teknologi. Terokai teknologi Malaysia mengikut bidang.',
@@ -101,6 +111,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアは、数十年にわたる電子・半導体産業を基盤に、デジタルの未来を築いています。マルチメディア・スーパー・コリドーやサイバージャヤから、ペナンのチップ産業、宇宙計画、スタートアップの波まで——国は技術のバリューチェーンを上っていこうとしています。マレーシアのテクノロジーを分野別に見てみましょう。',
     ko: '말레이시아는 수십 년에 걸친 전자·반도체 산업을 토대로 디지털 미래를 구축하고 있습니다. 멀티미디어 슈퍼 코리도(Multimedia Super Corridor)와 사이버자야(Cyberjaya)에서 페낭(Penang)의 반도체 산업, 우주 계획, 그리고 스타트업의 물결에 이르기까지 — 국가는 기술 가치사슬의 상위로 올라서고자 힘쓰고 있습니다. 분야별로 말레이시아의 기술을 탐색해 보십시오.',
     th: 'มาเลเซียกำลังสร้างอนาคตดิจิทัลของตนบนรากฐานอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ที่สั่งสมมาหลายทศวรรษ จากมัลติมีเดียซูเปอร์คอร์ริดอร์ (Multimedia Super Corridor) และไซเบอร์จายา (Cyberjaya) ไปจนถึงอุตสาหกรรมชิปของปีนัง (Penang) โครงการอวกาศ และคลื่นของสตาร์ตอัป — ประเทศกำลังพยายามก้าวขึ้นสู่ห่วงโซ่คุณค่าทางเทคโนโลยีที่สูงขึ้น สำรวจเทคโนโลยีมาเลเซียตามสาขา',
+    vi: 'Malaysia đang xây dựng tương lai số của mình trên nền tảng nhiều thập kỷ của ngành công nghiệp điện tử và bán dẫn. Từ Hành lang Đa phương tiện Siêu tốc (Multimedia Super Corridor) và Cyberjaya đến ngành công nghiệp chip của Penang, một chương trình không gian, và làn sóng các công ty khởi nghiệp — đất nước đang nỗ lực vươn lên trong chuỗi giá trị công nghệ. Khám phá công nghệ Malaysia theo từng lĩnh vực.',
   },
   languages: {
     ms: 'Malaysia ialah negara berbilang bahasa. Bahasa Malaysia menyatukan rakyat sebagai bahasa kebangsaan, di samping bahasa Inggeris, dialek Cina, Tamil, dan puluhan bahasa peribumi Sabah dan Sarawak. Tulisan Jawi dan Rumi pula mewarnai sejarah penulisannya. Terokai bahasa dan tulisan yang membentuk suara negara.',
@@ -110,6 +121,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアは多言語の国です。マレー語は国語として人々を結びつけ、そのほかに英語、華語の方言、タミル語、そしてサバとサラワクの数十の先住民言語があります。ジャウィ文字とルミ（ローマ字）がその文字の歴史に彩りを添えています。国の声を形づくる言語と文字を見てみましょう。',
     ko: '말레이시아는 다언어 국가입니다. 말레이어(Bahasa Malaysia)는 국어로서 국민을 하나로 묶으며, 그 밖에도 영어, 중국어 방언, 타밀어, 그리고 사바(Sabah)와 사라왁(Sarawak)의 수십 개 원주민 언어가 있습니다. 자위(Jawi) 문자와 루미(Rumi) 문자는 그 문자의 역사에 색을 더합니다. 국가의 목소리를 이루는 언어와 문자를 탐색해 보십시오.',
     th: 'มาเลเซียเป็นชาติที่มีหลายภาษา ภาษามลายู (Bahasa Malaysia) เชื่อมผู้คนเข้าด้วยกันในฐานะภาษาประจำชาติ ควบคู่ไปกับภาษาอังกฤษ ภาษาถิ่นจีน ภาษาทมิฬ และภาษาพื้นเมืองหลายสิบภาษาของรัฐซาบาห์ (Sabah) และรัฐซาราวัก (Sarawak) อักษรยาวี (Jawi) และอักษรรูมี (Rumi) เพิ่มสีสันให้แก่ประวัติศาสตร์การเขียนของประเทศ สำรวจภาษาและอักษรที่ประกอบขึ้นเป็นเสียงของชาติ',
+    vi: 'Malaysia là một quốc gia đa ngôn ngữ. Tiếng Malaysia (Bahasa Malaysia) gắn kết người dân với tư cách là ngôn ngữ quốc gia, bên cạnh tiếng Anh, các phương ngữ Hoa, tiếng Tamil, và hàng chục ngôn ngữ bản địa của Sabah và Sarawak. Chữ viết Jawi và Rumi tô điểm cho lịch sử chữ viết của đất nước. Khám phá các ngôn ngữ và hệ chữ viết tạo nên tiếng nói của dân tộc.',
   },
   'art-music': {
     ms: 'Seni Malaysia terbentang dari kraf warisan seperti batik dan ukiran, ke seni persembahan tradisional seperti wayang kulit dan mak yong, muzik dari gamelan ke pop moden, dan sinema dari zaman P. Ramlee ke pembikin filem baharu. Terokai seni dan muzik yang menghidupkan budaya negara.',
@@ -119,6 +131,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアの芸術は、バティックや彫刻のような伝統工芸、ワヤン・クリ（影絵芝居）やマ・ヨンのような伝統芸能、ガムランから現代のポップまでの音楽、そしてP. Ramleeの時代から新世代の映画作家までの映画にわたります。国の文化を生き生きとさせる芸術と音楽を見てみましょう。',
     ko: '말레이시아 예술은 바틱(batik)과 조각 같은 전통 공예, 와양 쿨릿(wayang kulit)과 막용(mak yong) 같은 전통 공연 예술, 가믈란(gamelan)에서 현대 대중음악에 이르는 음악, 그리고 P. Ramlee 시대부터 새로운 영화인들에 이르는 영화에 걸쳐 있습니다. 국가의 문화를 생생하게 살아나게 하는 예술과 음악을 탐색해 보십시오.',
     th: 'ศิลปะมาเลเซียครอบคลุมตั้งแต่งานหัตถกรรมมรดกอย่างผ้าบาติก (batik) และงานแกะสลัก ศิลปะการแสดงดั้งเดิมอย่างวายังกูลิต (wayang kulit) และมะโย่ง (mak yong) ดนตรีตั้งแต่กาเมลัน (gamelan) ไปจนถึงเพลงป็อปสมัยใหม่ และภาพยนตร์ตั้งแต่ยุค พี. รามลี (P. Ramlee) ไปจนถึงผู้สร้างภาพยนตร์รุ่นใหม่ สำรวจศิลปะและดนตรีที่ทำให้วัฒนธรรมของชาติมีชีวิตชีวา',
+    vi: 'Nghệ thuật Malaysia trải rộng từ các nghề thủ công di sản như batik và điêu khắc, các loại hình nghệ thuật biểu diễn truyền thống như wayang kulit và mak yong, âm nhạc từ gamelan đến pop hiện đại, và điện ảnh từ thời P. Ramlee đến những nhà làm phim mới. Khám phá nghệ thuật và âm nhạc mang văn hóa của dân tộc đến với đời sống.',
   },
   lifestyle: {
     ms: 'Kehidupan harian di Malaysia berlegar di sekitar makanan, pasar, dan perhubungan masyarakat. Dari gerai mamak 24 jam dan kopitiam ke pasar malam yang meriah, dari badminton dan sepak takraw ke kehidupan bandar yang pesat — inilah irama sebenar rakyat Malaysia. Terokai gaya hidup negara mengikut tema.',
@@ -128,6 +141,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアの日常生活は、食、市場、コミュニティを中心に回っています。24時間営業のママック屋台やコピティアムから賑やかなナイトマーケットまで、バドミントンやセパタクローから慌ただしい都市生活まで——これがマレーシア人の本当の生活のリズムです。国のライフスタイルをテーマ別に見てみましょう。',
     ko: '말레이시아의 일상은 음식과 시장, 그리고 공동체를 중심으로 돌아갑니다. 24시간 운영되는 마막(mamak) 노점과 코피티암(kopitiam)에서 활기찬 야시장까지, 배드민턴과 세팍타크로에서 빠르게 돌아가는 도시 생활까지 — 이것이 말레이시아인의 진정한 삶의 리듬입니다. 주제별로 이 나라의 생활 방식을 탐색해 보십시오.',
     th: 'ชีวิตประจำวันในมาเลเซียหมุนรอบอาหาร ตลาด และชุมชน จากร้านมามัก (mamak) ที่เปิด 24 ชั่วโมงและร้านโกปี้เตี่ยม (kopitiam) ไปจนถึงตลาดกลางคืนที่คึกคัก จากแบดมินตันและตะกร้อ (sepak takraw) ไปจนถึงชีวิตในเมืองที่เร่งรีบ — นี่คือจังหวะชีวิตที่แท้จริงของชาวมาเลเซีย สำรวจวิถีชีวิตของประเทศตามหัวข้อ',
+    vi: 'Đời sống thường nhật ở Malaysia xoay quanh ẩm thực, chợ búa và cộng đồng. Từ những quầy mamak mở 24 giờ và kopitiam đến những khu chợ đêm nhộn nhịp, từ cầu lông và sepak takraw đến nhịp sống đô thị hối hả — đây chính là nhịp điệu thực sự của người Malaysia. Khám phá lối sống của đất nước theo chủ đề.',
   },
   'business-regions': {
     ms: 'Berniaga mengikut wilayah di Malaysia — dari Kuala Lumpur, Selangor, dan Pulau Pinang ke Johor, Sabah, dan Sarawak, serta koridor ekonomi seperti Iskandar Malaysia. Setiap wilayah mempunyai ekosistem, kos, bakat, dan insentif tersendiri. Panduan lokasi untuk usahawan dan pelabur. Nota: maklumat umum, bukan nasihat profesional.',
@@ -137,6 +151,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアで地域別にビジネスを——クアラルンプール、セランゴール、ペナンから、ジョホール、サバ、サラワク、さらにイスカンダル・マレーシアのような経済回廊まで。各地域には独自のエコシステム、コスト、人材、優遇策があります。起業家と投資家のための立地ガイド。注：一般的な情報であり、専門的な助言ではありません。',
     ko: '말레이시아에서 지역별로 사업하기 — 쿠알라룸푸르(Kuala Lumpur), 슬랑오르(Selangor), 페낭(Penang)에서 조호르(Johor), 사바(Sabah), 사라왁(Sarawak)까지, 그리고 이스칸다르 말레이시아(Iskandar Malaysia) 같은 경제 회랑을 아우릅니다. 각 지역은 저마다의 생태계, 비용, 인재, 인센티브를 갖추고 있습니다. 창업자와 투자자를 위한 입지 안내입니다. 참고: 일반 정보이며, 전문적인 자문이 아닙니다.',
     th: 'การทำธุรกิจตามภูมิภาคในมาเลเซีย — จากกัวลาลัมเปอร์ (Kuala Lumpur) สลังงอร์ (Selangor) และปีนัง (Penang) ไปจนถึงยะโฮร์ (Johor) ซาบาห์ (Sabah) และซาราวัก (Sarawak) รวมถึงระเบียงเศรษฐกิจอย่างอิสกันดาร์มาเลเซีย (Iskandar Malaysia) แต่ละภูมิภาคมีระบบนิเวศ ต้นทุน บุคลากร และสิทธิประโยชน์เป็นของตนเอง คู่มือทำเลสำหรับผู้ก่อตั้งธุรกิจและนักลงทุน หมายเหตุ: เป็นข้อมูลทั่วไป ไม่ใช่คำแนะนำทางวิชาชีพ',
+    vi: 'Kinh doanh theo vùng tại Malaysia — từ Kuala Lumpur, Selangor và Penang đến Johor, Sabah và Sarawak, cùng các hành lang kinh tế như Iskandar Malaysia. Mỗi vùng có hệ sinh thái, chi phí, nhân lực và ưu đãi riêng. Hướng dẫn về địa điểm dành cho nhà sáng lập và nhà đầu tư. Lưu ý: thông tin chung, không phải tư vấn chuyên môn.',
   },
   destinations: {
     ms: 'Destinasi Malaysia — dari hiruk-pikuk Kuala Lumpur dan warisan George Town, ke pantai Langkawi dan Pulau Perhentian, hutan hujan Taman Negara, dan puncak Gunung Kinabalu di Borneo. Panduan tempat, alam, pulau, dan maklumat perjalanan untuk pengembara. Terokai mengikut wilayah.',
@@ -146,6 +161,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアの旅先——クアラルンプールの活気やジョージタウンの遺産から、ランカウイやプルフンティアン諸島のビーチ、タマン・ヌガラの熱帯雨林、そしてボルネオのキナバル山の頂まで。旅行者のための場所・自然・島・旅の情報ガイド。地域別に見てみましょう。',
     ko: '말레이시아의 여행지 — 쿠알라룸푸르(Kuala Lumpur)의 활기와 조지타운(George Town)의 유산에서, 랑카위(Langkawi)와 프른티안 제도(Perhentian Islands)의 해변, 타만 네가라(Taman Negara)의 열대우림, 그리고 보르네오(Borneo)의 키나발루산(Mount Kinabalu) 정상까지. 여행자를 위한 장소·자연·섬·여행 정보 안내입니다. 지역별로 탐색해 보십시오.',
     th: 'จุดหมายปลายทางของมาเลเซีย — จากความคึกคักของกัวลาลัมเปอร์ (Kuala Lumpur) และมรดกของจอร์จทาวน์ (George Town) ไปจนถึงชายหาดของลังกาวี (Langkawi) และหมู่เกาะเปอร์เฮินเตียน (Perhentian Islands) ป่าฝนของตามันเนอการา (Taman Negara) และยอดเขากีนาบาลู (Mount Kinabalu) บนเกาะบอร์เนียว (Borneo) คู่มือสถานที่ ธรรมชาติ เกาะ และข้อมูลการเดินทางสำหรับนักเดินทาง สำรวจตามภูมิภาค',
+    vi: 'Các điểm đến của Malaysia — từ sự sôi động của Kuala Lumpur và di sản của George Town, đến những bãi biển của Langkawi và quần đảo Perhentian (Perhentian Islands), rừng mưa Taman Negara, và đỉnh núi Kinabalu (Mount Kinabalu) trên đảo Borneo. Hướng dẫn về địa điểm, thiên nhiên, đảo và thông tin du lịch dành cho lữ khách. Khám phá theo vùng.',
   },
   'business-industries': {
     ms: 'Industri dan sektor Malaysia — dari pembuatan E&E dan semikonduktor, sawit dan komoditi, minyak dan gas, ke perkhidmatan kewangan, ekonomi digital, hartanah, pelancongan, dan perdagangan antarabangsa. Panduan sektor untuk pelabur, usahawan, dan penganalisis. Nota: maklumat umum, bukan nasihat pelaburan.',
@@ -155,6 +171,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアの産業と分野——E&Eと半導体製造、パーム油と一次産品、石油・ガスから、金融サービス、デジタル経済、不動産、観光、国際貿易まで。投資家、起業家、アナリストのための業界ガイド。注：一般的な情報であり、投資助言ではありません。',
     ko: '말레이시아의 산업과 부문 — 전기·전자(E&E)와 반도체 제조, 팜유와 원자재, 석유·가스에서 금융 서비스, 디지털 경제, 부동산, 관광, 국제 무역까지. 투자자, 창업자, 분석가를 위한 부문 안내입니다. 참고: 일반 정보이며, 투자 자문이 아닙니다.',
     th: 'อุตสาหกรรมและภาคส่วนของมาเลเซีย — จากการผลิต E&E และเซมิคอนดักเตอร์ น้ำมันปาล์มและสินค้าโภคภัณฑ์ น้ำมันและก๊าซ ไปจนถึงบริการทางการเงิน เศรษฐกิจดิจิทัล อสังหาริมทรัพย์ การท่องเที่ยว และการค้าระหว่างประเทศ คู่มือภาคส่วนสำหรับนักลงทุน ผู้ก่อตั้งธุรกิจ และนักวิเคราะห์ หมายเหตุ: เป็นข้อมูลทั่วไป ไม่ใช่คำแนะนำการลงทุน',
+    vi: 'Các ngành và lĩnh vực của Malaysia — từ chế tạo E&E và bán dẫn, dầu cọ và hàng hóa, dầu khí, đến dịch vụ tài chính, kinh tế số, bất động sản, du lịch và thương mại quốc tế. Hướng dẫn theo lĩnh vực dành cho nhà đầu tư, nhà sáng lập và nhà phân tích. Lưu ý: thông tin chung, không phải tư vấn đầu tư.',
   },
   'business-tax': {
     ms: 'Cukai dan pematuhan di Malaysia — cukai korporat dan peribadi, SST, cukai pegangan, insentif cukai, RPGT, harga pindahan, e-invois, pengauditan, dan regulasi khusus sektor. Panduan praktikal untuk memenuhi kewajipan LHDN dan Kastam. Nota: maklumat umum, bukan nasihat cukai profesional.',
@@ -164,6 +181,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアの税務とコンプライアンス——法人税と個人所得税、SST、源泉徴収税、税制優遇、RPGT（不動産譲渡益税）、移転価格、電子インボイス、監査、業界別規制。LHDN（内国歳入庁）と税関の義務を果たすための実務ガイド。注：一般的な情報であり、専門的な税務助言ではありません。',
     ko: '말레이시아의 세무와 규정 준수 — 법인세와 개인 소득세, 판매·서비스세(SST), 원천징수세, 세제 혜택, 부동산 양도소득세(RPGT), 이전가격, 전자 송장, 감사, 그리고 부문별 규제입니다. 말레이시아 국세청(LHDN)과 관세청의 의무를 이행하기 위한 실무 안내입니다. 참고: 일반 정보이며, 전문적인 세무 자문이 아닙니다.',
     th: 'ภาษีและการปฏิบัติตามข้อกำหนดในมาเลเซีย — ภาษีนิติบุคคลและภาษีบุคคลธรรมดา ภาษีขายและบริการ (SST) ภาษีหัก ณ ที่จ่าย สิทธิประโยชน์ทางภาษี ภาษีกำไรจากการขายอสังหาริมทรัพย์ (RPGT) การกำหนดราคาโอน ใบแจ้งหนี้อิเล็กทรอนิกส์ การตรวจสอบบัญชี และกฎระเบียบเฉพาะภาคส่วน คู่มือเชิงปฏิบัติเพื่อปฏิบัติตามภาระผูกพันต่อกรมสรรพากรมาเลเซีย (LHDN) และกรมศุลกากร หมายเหตุ: เป็นข้อมูลทั่วไป ไม่ใช่คำแนะนำทางภาษีจากผู้เชี่ยวชาญ',
+    vi: 'Thuế và tuân thủ tại Malaysia — thuế doanh nghiệp và thuế cá nhân, SST, thuế khấu trừ tại nguồn, ưu đãi thuế, RPGT, xác định giá chuyển nhượng, hóa đơn điện tử, kiểm toán, và quy định riêng theo lĩnh vực. Hướng dẫn thực tiễn để thực hiện các nghĩa vụ với Cục Thuế Nội địa (Inland Revenue Board, LHDN) và Hải quan. Lưu ý: thông tin chung, không phải tư vấn thuế chuyên môn.',
   },
   'business-start': {
     ms: 'Menubuhkan perniagaan di Malaysia — dari memilih struktur Sdn Bhd atau LLP, mendaftar dengan SSM, memenuhi keperluan pengarah dan pemegang saham, hingga pematuhan setiausaha syarikat, HR, perbankan, dan penutupan. Panduan praktikal untuk usahawan tempatan dan asing. Nota: maklumat umum, bukan nasihat profesional.',
@@ -173,6 +191,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアでの会社設立——Sdn BhdまたはLLPの形態選び、SSMへの登録、取締役・株主要件の充足から、会社秘書役コンプライアンス、人事、銀行取引、清算まで。国内外の起業家のための実務ガイド。注：一般的な情報であり、専門的な助言ではありません。',
     ko: '말레이시아에서 사업 설립하기 — Sdn Bhd 또는 LLP 형태를 선택하고, 말레이시아 기업위원회(SSM)에 등록하며, 이사와 주주 요건을 충족하는 것에서부터 회사 비서 업무 준수, 인사, 은행 업무, 그리고 청산에 이르기까지. 내국인 및 외국인 창업자를 위한 실무 안내입니다. 참고: 일반 정보이며, 전문적인 자문이 아닙니다.',
     th: 'การจัดตั้งธุรกิจในมาเลเซีย — ตั้งแต่การเลือกโครงสร้างแบบ Sdn Bhd หรือ LLP การจดทะเบียนกับ SSM การปฏิบัติตามข้อกำหนดเรื่องกรรมการและผู้ถือหุ้น ไปจนถึงการปฏิบัติตามข้อกำหนดด้านเลขานุการบริษัท การบริหารทรัพยากรบุคคล การธนาคาร และการปิดกิจการ คู่มือเชิงปฏิบัติสำหรับผู้ก่อตั้งธุรกิจทั้งในประเทศและต่างประเทศ หมายเหตุ: เป็นข้อมูลทั่วไป ไม่ใช่คำแนะนำทางวิชาชีพ',
+    vi: 'Thành lập doanh nghiệp tại Malaysia — từ việc chọn cơ cấu Sdn Bhd hoặc LLP, đăng ký với Ủy ban Công ty Malaysia (SSM), đáp ứng các yêu cầu về giám đốc và cổ đông, cho đến việc tuân thủ công tác thư ký công ty, nhân sự, ngân hàng và giải thể. Hướng dẫn thực tiễn dành cho nhà sáng lập trong và ngoài nước. Lưu ý: thông tin chung, không phải tư vấn chuyên môn.',
   },
   politics: {
     ms: 'Malaysia mengamalkan demokrasi berparlimen dan raja berperlembagaan yang unik, dengan Yang di-Pertuan Agong dipilih bergilir dari kalangan sembilan Sultan. Sistem persekutuannya mengimbangi kuasa antara kerajaan pusat dan negeri, digerakkan oleh parti, pilihan raya, dan dasar awam. Terokai politik dan pemerintahan Malaysia.',
@@ -182,6 +201,7 @@ export const CATEGORY_INTRO: Record<string, Localized> = {
     ja: 'マレーシアは独特の議会制民主主義と立憲君主制を採っており、国王（ヤン・ディプルトゥアン・アゴン）は9人のスルタンの間で輪番で選ばれます。連邦制は中央政府と州政府の間で権力の均衡をとり、政党、選挙、公共政策によって動かされています。マレーシアの政治と統治を見てみましょう。',
     ko: '말레이시아는 독특한 의회 민주주의와 입헌군주제를 시행하며, 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)이 아홉 명의 술탄(Sultan) 사이에서 번갈아 선출됩니다. 그 연방제는 중앙정부와 주정부 사이에서 권력의 균형을 잡으며, 정당, 선거, 공공 정책에 의해 움직입니다. 말레이시아의 정치와 통치를 탐색해 보십시오.',
     th: 'มาเลเซียใช้ระบอบประชาธิปไตยแบบรัฐสภาและระบอบราชาธิปไตยภายใต้รัฐธรรมนูญอันเป็นเอกลักษณ์ โดยมียังดีเปอร์ตวนอากง (Yang di-Pertuan Agong) ผลัดเปลี่ยนหมุนเวียนกันในหมู่สุลต่านเก้าพระองค์ ระบบสหพันธรัฐของประเทศรักษาสมดุลอำนาจระหว่างรัฐบาลกลางและรัฐบาลของรัฐต่าง ๆ ขับเคลื่อนด้วยพรรคการเมือง การเลือกตั้ง และนโยบายสาธารณะ สำรวจการเมืองและการปกครองของมาเลเซีย',
+    vi: 'Malaysia thực hành một nền dân chủ nghị viện và quân chủ lập hiến độc đáo, với ngôi vị Yang di-Pertuan Agong luân phiên giữa chín vị Sultan. Hệ thống liên bang của đất nước cân bằng quyền lực giữa chính quyền trung ương và các bang, được vận hành bởi các đảng phái, các cuộc bầu cử và chính sách công. Khám phá nền chính trị và quản trị của Malaysia.',
   },
 };
 
