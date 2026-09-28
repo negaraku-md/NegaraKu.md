@@ -60,18 +60,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "MASB issues new presentation and disclosure Standard to improve companies reporting of financial performance"
+  - title: "MASB mengeluarkan Piawaian pembentangan dan pendedahan baharu untuk menambah baik pelaporan prestasi kewangan syarikat (MASB issues new presentation and disclosure Standard to improve companies reporting of financial performance)"
     url: "https://www.masb.org.my/press_list.php?id=455"
-    publisher: "MASB"
+    publisher: "Lembaga Piawaian Perakaunan Malaysia (MASB)"
     date: "2024-06-14"
-  - title: "Be prepared for a new standard, IFRS 18 Presentation and Disclosure in Financial Statements"
+  - title: "Bersedia untuk piawaian baharu, IFRS 18 Pembentangan dan Pendedahan dalam Penyata Kewangan (Be prepared for a new standard, IFRS 18 Presentation and Disclosure in Financial Statements)"
     url: "https://www.masb.org.my/pdf_file/BE%20PREPARED%20FOR%20A%20NEW%20STANDARD%20IFRS%2018%20PRESENTATION%20AND%20DISCLOSURE%20IN%20FINANCIAL%20STATEMENTS.pdf"
-    publisher: "MASB"
+    publisher: "Lembaga Piawaian Perakaunan Malaysia (MASB)"
     date: "2024-05-31"
-  - title: "Malaysian Financial Reporting Standards (MFRSs) — status and effective dates"
+  - title: "Piawaian Pelaporan Kewangan Malaysia (MFRS) — status dan tarikh kuat kuasa (Malaysian Financial Reporting Standards (MFRSs) — status and effective dates)"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "MASB"
-  - title: "IFRS 18 Presentation and Disclosure in Financial Statements"
+    publisher: "Lembaga Piawaian Perakaunan Malaysia (MASB)"
+  - title: "IFRS 18 Pembentangan dan Pendedahan dalam Penyata Kewangan (IFRS 18 Presentation and Disclosure in Financial Statements)"
     url: "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/"
     publisher: "IFRS Foundation"
 

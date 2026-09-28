@@ -74,17 +74,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி மறுபதிப்பு (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "1967 ஆம் ஆண்டு வருமான வரிச் சட்டம் (Act 53), 2024 மே 21 நிலவரப்படி மறுபதிப்பு (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2024-05-21"
-  - title: "Practice Directive 10/2024 — Qualifying Criteria for Audit Exemption for Certain Categories of Private Companies"
+  - title: "நடைமுறை உத்தரவு 10/2024 — சில வகை தனியார் நிறுவனங்களுக்கான தணிக்கை விலக்குக்கான தகுதி அளவுகோல்கள் (Practice Directive 10/2024 — Qualifying Criteria for Audit Exemption for Certain Categories of Private Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-12-16"
 
 entity: "Companies Act 2016 section 245"

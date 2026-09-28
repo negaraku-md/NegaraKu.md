@@ -55,18 +55,18 @@ revisions:
 
 updated: 2026-08-14
 sources:
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+  - title: "실무지침 제10/2024호 — 말레이시아 내 특정 비공개회사에 대한 감사 면제 자격 기준 (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PRACTICE-DIRECTIVE-10-2024.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "New Qualifying Criteria for Audit Exemption (Announcement)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "감사 면제를 위한 새로운 자격 기준 (공고) (New Qualifying Criteria for Audit Exemption (Announcement))"
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/AD%202024%20-%20New%20Audit%20Exemption%20Qualifying%20Criteria.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Act 2016 (Act 777) — Reprint, seksyen 2 (takrif 'exempt private company')"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "2016년 회사법 (Act 777) — 재발행본, 제2조 ('exempt private company' 정의) (Companies Act 2016 (Act 777) — Reprint, seksyen 2 (takrif 'exempt private company'))"
     url: "https://www.ssm.com.my/pages/legal_framework/document/act%20777%20reprint.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Laws of Malaysia — Act 777 Companies Act 2016 (interpretation, s2, 'exempt private company', p33; s260, p262)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "말레이시아 법령 — Act 777 2016년 회사법 (해석, 제2조, 'exempt private company', 33면; 제260조, 262면) (Laws of Malaysia — Act 777 Companies Act 2016 (interpretation, s2, 'exempt private company', p33; s260, p262))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBI_20160915_CompaniesAct2016Act777.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (AGC), Laws of Malaysia (lom.agc.gov.my)"
+    publisher: "말레이시아 법무장관실 (AGC), 말레이시아 법령 (lom.agc.gov.my)"
 
 entity: "Suruhanjaya Syarikat Malaysia (SSM)"
 wikidata: "Q1121232"

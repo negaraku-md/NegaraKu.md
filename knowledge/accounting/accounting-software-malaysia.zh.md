@@ -48,21 +48,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Software Development Kit (SDK) for the LHDNM MyInvois System"
+  - title: "LHDNM MyInvois 系统的软件开发工具包 (SDK) (Software Development Kit (SDK) for the LHDNM MyInvois System)"
     url: "https://sdk.myinvois.hasil.gov.my/"
-    publisher: "LHDN"
-  - title: "IRBM e-Invoice Guideline"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "IRBM 电子发票指南 (IRBM e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
-  - title: "Peppol Service Providers — National e-Invoicing"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "Peppol 服务提供商 — 国家电子发票 (Peppol Service Providers — National e-Invoicing)"
     url: "https://www.mdec.my/national-einvoicing/peppol-service-providers"
-    publisher: "MDEC"
-  - title: "SSMxT 2022 Architecture Document"
+    publisher: "马来西亚数字经济机构 (MDEC)"
+  - title: "SSMxT 2022 架构文件 (SSMxT 2022 Architecture Document)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/SSMxT2022_Architecture_Document.pdf"
-    publisher: "SSM"
-  - title: "MBRS Preparation Tool"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "MBRS 编制工具 (MBRS Preparation Tool)"
     url: "https://www.ssm.com.my/Pages/Services/Other-Services/XBRL%20250918/MBRS-Preparation-Tool.aspx"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 entity: "Accounting software"
 relations:

@@ -61,16 +61,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "Akta Syarikat 2016 (Akta 777), teks kemas kini pada 1 Ogos 2022 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Arahan Amalan No. 10/2024 — Kriteria Kelayakan untuk Pengecualian Audit bagi Syarikat Persendirian Tertentu di Malaysia (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2024-12-16"
-  - title: "Practice Note No. 3/2018 — Clarification on Application for Extension of Time under the Companies Act 2016"
+  - title: "Nota Amalan No. 3/2018 — Penjelasan mengenai Permohonan Lanjutan Masa di bawah Akta Syarikat 2016 (Practice Note No. 3/2018 — Clarification on Application for Extension of Time under the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2018-07-26"
 
 entity: "First financial year"

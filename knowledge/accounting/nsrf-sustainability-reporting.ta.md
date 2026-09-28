@@ -59,23 +59,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "National Sustainability Reporting Framework"
+  - title: "தேசிய நிலைத்தன்மை அறிக்கையிடல் கட்டமைப்பு (National Sustainability Reporting Framework)"
     url: "https://www.sc.com.my/api/documentms/download.ashx?id=e98c3900-7b35-4cf5-a07d-fd17acf8734e"
-    publisher: "Securities Commission Malaysia"
+    publisher: "மலேசியா பங்குகள் ஆணையம் (SC)"
     date: "2024-09-24"
-  - title: "National Sustainability Reporting Framework — implementation summary and additional transition reliefs"
+  - title: "தேசிய நிலைத்தன்மை அறிக்கையிடல் கட்டமைப்பு — அமலாக்க சுருக்கம் மற்றும் கூடுதல் மாற்றக் கால நிவாரணங்கள் (National Sustainability Reporting Framework — implementation summary and additional transition reliefs)"
     url: "https://www.sc.com.my/api/documentms/download.ashx?id=20efbd8f-b5a0-4122-994f-edbccd53c2b2"
-    publisher: "Securities Commission Malaysia"
-  - title: "National Sustainability Reporting Framework"
+    publisher: "மலேசியா பங்குகள் ஆணையம் (SC)"
+  - title: "தேசிய நிலைத்தன்மை அறிக்கையிடல் கட்டமைப்பு (National Sustainability Reporting Framework)"
     url: "https://www.sc.com.my/nsrf"
-    publisher: "Securities Commission Malaysia"
-  - title: "Consultative Document on the Proposed Amendments to the Companies Act 2016 [Act 777] on Sustainability Reporting"
+    publisher: "மலேசியா பங்குகள் ஆணையம் (SC)"
+  - title: "நிலைத்தன்மை அறிக்கையிடல் தொடர்பாக 2016 நிறுவனங்கள் சட்டத்திற்கு [Act 777] முன்மொழியப்பட்ட திருத்தங்கள் குறித்த ஆலோசனை ஆவணம் (Consultative Document on the Proposed Amendments to the Companies Act 2016 [Act 777] on Sustainability Reporting)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/%5BENG%5D20260422_External%20ESG%20Framework_Consultative%20Document_BI.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2026-04-22"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி புதுப்பிக்கப்பட்ட உரை (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "National Sustainability Reporting Framework (NSRF)"
 relations:

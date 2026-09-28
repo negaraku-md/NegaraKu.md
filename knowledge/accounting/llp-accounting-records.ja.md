@@ -58,18 +58,18 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Akta Perkongsian Liabiliti Terhad 2012 (Akta 743), teks kemas kini pada 1 Ogos 2022"
+  - title: "2012年有限責任事業組合法 (Akta 743)、2022年8月1日現在の更新版テキスト (Akta Perkongsian Liabiliti Terhad 2012 (Akta 743), teks kemas kini pada 1 Ogos 2022)"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ssm/Akta%20743.pdf"
-    publisher: "Jabatan Peguam Negara / SSM"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+    publisher: "マレーシア司法長官府 / マレーシア企業委員会 (SSM)"
+  - title: "2016年会社法 (Act 777)、2022年8月1日現在の更新版テキスト (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/Companies_Act_2016_Act_777.pdf"
-    publisher: "Attorney General's Chambers / SSM"
-  - title: "Limited Liability Partnerships Act — Legal Framework"
+    publisher: "マレーシア司法長官府 / マレーシア企業委員会 (SSM)"
+  - title: "有限責任事業組合法 — 法的枠組み (Limited Liability Partnerships Act — Legal Framework)"
     url: "https://www.ssm.com.my/bm/Pages/Legal_Framework/Limited-Liability-Partnerships-Act.aspx"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Manual Serah Simpan Perakuan Tahunan oleh PLT Secara Dalam Talian"
+    publisher: "マレーシア企業委員会 (SSM)"
+  - title: "有限責任事業組合 (PLT) によるオンライン年次届出提出マニュアル (Manual Serah Simpan Perakuan Tahunan oleh PLT Secara Dalam Talian)"
     url: "https://www.ssm.com.my/Documents/Manual/ANNUAL-DECLARATION.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "マレーシア企業委員会 (SSM)"
 
 entity: "Perkongsian Liabiliti Terhad"
 relations:

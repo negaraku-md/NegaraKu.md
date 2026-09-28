@@ -59,23 +59,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "National Sustainability Reporting Framework"
+  - title: "국가 지속가능성 보고 프레임워크 (National Sustainability Reporting Framework)"
     url: "https://www.sc.com.my/api/documentms/download.ashx?id=e98c3900-7b35-4cf5-a07d-fd17acf8734e"
-    publisher: "Securities Commission Malaysia"
+    publisher: "말레이시아 증권위원회 (SC)"
     date: "2024-09-24"
-  - title: "National Sustainability Reporting Framework — implementation summary and additional transition reliefs"
+  - title: "국가 지속가능성 보고 프레임워크 — 시행 요약 및 추가 전환 경감 규정 (National Sustainability Reporting Framework — implementation summary and additional transition reliefs)"
     url: "https://www.sc.com.my/api/documentms/download.ashx?id=20efbd8f-b5a0-4122-994f-edbccd53c2b2"
-    publisher: "Securities Commission Malaysia"
-  - title: "National Sustainability Reporting Framework"
+    publisher: "말레이시아 증권위원회 (SC)"
+  - title: "국가 지속가능성 보고 프레임워크 (National Sustainability Reporting Framework)"
     url: "https://www.sc.com.my/nsrf"
-    publisher: "Securities Commission Malaysia"
-  - title: "Consultative Document on the Proposed Amendments to the Companies Act 2016 [Act 777] on Sustainability Reporting"
+    publisher: "말레이시아 증권위원회 (SC)"
+  - title: "지속가능성 보고에 관한 2016년 회사법 [Act 777] 개정안에 대한 협의 문서 (Consultative Document on the Proposed Amendments to the Companies Act 2016 [Act 777] on Sustainability Reporting)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/%5BENG%5D20260422_External%20ESG%20Framework_Consultative%20Document_BI.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2026-04-22"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일 기준 갱신 본문 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
 
 entity: "National Sustainability Reporting Framework (NSRF)"
 relations:

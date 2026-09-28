@@ -75,23 +75,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி புதுப்பிக்கப்பட்ட உரை (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "நடைமுறை உத்தரவு எண். 10/2024 — மலேசியாவில் சில தனியார் நிறுவனங்களுக்கான தணிக்கை விலக்குக்கான தகுதி அளவுகோல்கள் (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-12-16"
-  - title: "Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society"
+  - title: "பொது தீர்ப்பு எண். 8/2014 — நிறுவனம், வரையறுக்கப்பட்ட பொறுப்பு கூட்டாண்மை, அறக்கட்டளை அமைப்பு மற்றும் கூட்டுறவு சங்கத்தின் அடிப்படைக் காலம் (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
     url: "https://phl.hasil.gov.my/pdf/pdfam/PR_8_2014.pdf"
-    publisher: "LHDN"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2014-12-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "1967 ஆம் ஆண்டு வருமான வரிச் சட்டம் (Act 53), 2024 மே 21 நிலவரப்படி மறுபதிப்பு (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
-  - title: "IRBM e-Invoice Guideline"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "IRBM மின்-விலைப்பட்டியல் வழிகாட்டி (IRBM e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Financial year end"
 relations:

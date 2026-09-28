@@ -47,21 +47,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Software Development Kit (SDK) for the LHDNM MyInvois System"
+  - title: "LHDNM MyInvois அமைப்புக்கான மென்பொருள் மேம்பாட்டுக் கருவித்தொகுப்பு (SDK) (Software Development Kit (SDK) for the LHDNM MyInvois System)"
     url: "https://sdk.myinvois.hasil.gov.my/"
-    publisher: "LHDN"
-  - title: "IRBM e-Invoice Guideline"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "IRBM மின்-விலைப்பட்டியல் வழிகாட்டி (IRBM e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
-  - title: "Peppol Service Providers — National e-Invoicing"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "Peppol சேவை வழங்குநர்கள் — தேசிய மின்-விலைப்பட்டியல் (Peppol Service Providers — National e-Invoicing)"
     url: "https://www.mdec.my/national-einvoicing/peppol-service-providers"
-    publisher: "MDEC"
-  - title: "SSMxT 2022 Architecture Document"
+    publisher: "மலேசியா டிஜிட்டல் பொருளாதாரக் கழகம் (MDEC)"
+  - title: "SSMxT 2022 கட்டமைப்பு ஆவணம் (SSMxT 2022 Architecture Document)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/SSMxT2022_Architecture_Document.pdf"
-    publisher: "SSM"
-  - title: "MBRS Preparation Tool"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "MBRS தயாரிப்புக் கருவி (MBRS Preparation Tool)"
     url: "https://www.ssm.com.my/Pages/Services/Other-Services/XBRL%20250918/MBRS-Preparation-Tool.aspx"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Accounting software"
 relations:

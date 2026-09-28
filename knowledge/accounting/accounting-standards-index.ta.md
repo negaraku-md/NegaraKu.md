@@ -44,17 +44,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Malaysian Financial Reporting Standards (MFRSs)"
+  - title: "மலேசிய நிதி அறிக்கையிடல் தரநிலைகள் (MFRS) (Malaysian Financial Reporting Standards (MFRSs))"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "MASB"
-  - title: "MASB Approved Accounting Standards for Private Entities"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
+  - title: "தனியார் நிறுவனங்களுக்கான MASB அங்கீகரிக்கப்பட்ட கணக்கியல் தரநிலைகள் (MASB Approved Accounting Standards for Private Entities)"
     url: "https://www.masb.org.my/pages.php?id=20"
-    publisher: "MASB"
-  - title: "MPERS (2025)"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
+  - title: "MPERS (2025) (MPERS (2025))"
     url: "https://www.masb.org.my/pages.php?id=615"
-    publisher: "MASB"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
     date: "2025-10-10"
-  - title: "IFRS for SMEs Accounting Standard, third edition"
+  - title: "SME-களுக்கான IFRS கணக்கியல் தரநிலை, மூன்றாம் பதிப்பு (IFRS for SMEs Accounting Standard, third edition)"
     url: "https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html"
     publisher: "IFRS Foundation"
 

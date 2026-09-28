@@ -58,22 +58,22 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Implementation of MPERS — private entity definition"
+  - title: "MPERS அமலாக்கம் — தனியார் நிறுவன வரையறை (Implementation of MPERS — private entity definition)"
     url: "https://www.masb.org.my/pages.php?id=275"
-    publisher: "MASB"
-  - title: "MASB Approved Accounting Standards for Private Entities"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
+  - title: "தனியார் நிறுவனங்களுக்கான MASB அங்கீகரிக்கப்பட்ட கணக்கியல் தரநிலைகள் (MASB Approved Accounting Standards for Private Entities)"
     url: "https://www.masb.org.my/pages.php?id=20"
-    publisher: "MASB"
-  - title: "Malaysian Financial Reporting Standards — status and effective dates"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
+  - title: "மலேசிய நிதி அறிக்கையிடல் தரநிலைகள் — நிலை மற்றும் அமலுக்கு வரும் தேதிகள் (Malaysian Financial Reporting Standards — status and effective dates)"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "MASB"
-  - title: "MPERS (2025)"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
+  - title: "MPERS (2025) (MPERS (2025))"
     url: "https://www.masb.org.my/pages.php?id=615"
-    publisher: "MASB"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
     date: "2025-10-10"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி மறுபதிப்பு (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "MFRS and MPERS financial reporting frameworks"
 relations:

@@ -75,23 +75,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "2016年会社法 (Act 777)、2022年8月1日現在の更新版テキスト (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "マレーシア企業委員会 (SSM)"
+  - title: "実務指令第10/2024号 — マレーシアの特定の非公開会社に対する監査免除の適格基準 (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2024-12-16"
-  - title: "Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society"
+  - title: "パブリックルーリング第8/2014号 — 会社、有限責任事業組合、信託団体および協同組合の基準期間 (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
     url: "https://phl.hasil.gov.my/pdf/pdfam/PR_8_2014.pdf"
-    publisher: "LHDN"
+    publisher: "マレーシア内国歳入庁 (LHDN)"
     date: "2014-12-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "1967年所得税法 (Act 53)、2024年5月21日現在の再版 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
-  - title: "IRBM e-Invoice Guideline"
+    publisher: "マレーシア内国歳入庁 (LHDN)"
+  - title: "IRBM 電子インボイス・ガイドライン (IRBM e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "マレーシア内国歳入庁 (LHDN)"
 
 entity: "Financial year end"
 relations:

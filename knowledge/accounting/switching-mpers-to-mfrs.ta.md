@@ -59,18 +59,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Implementation of MPERS"
+  - title: "MPERS அமலாக்கம் (Implementation of MPERS)"
     url: "https://www.masb.org.my/pages.php?id=275"
-    publisher: "MASB"
-  - title: "MASB Approved Accounting Standards for Private Entities"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
+  - title: "தனியார் நிறுவனங்களுக்கான MASB அங்கீகரிக்கப்பட்ட கணக்கியல் தரநிலைகள் (MASB Approved Accounting Standards for Private Entities)"
     url: "https://www.masb.org.my/pages.php?id=20"
-    publisher: "MASB"
-  - title: "Malaysian Financial Reporting Standards (MFRSs) — status and effective dates"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
+  - title: "மலேசிய நிதி அறிக்கையிடல் தரநிலைகள் (MFRS) — நிலை மற்றும் அமலுக்கு வரும் தேதிகள் (Malaysian Financial Reporting Standards (MFRSs) — status and effective dates)"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "MASB"
-  - title: "MPERS (2025)"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
+  - title: "MPERS (2025) (MPERS (2025))"
     url: "https://www.masb.org.my/pages.php?id=615"
-    publisher: "MASB"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
     date: "2025-10-10"
 
 entity: "Transition between MPERS and MFRS"

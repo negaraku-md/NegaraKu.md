@@ -58,18 +58,18 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Akta Perkongsian Liabiliti Terhad 2012 (Akta 743), teks kemas kini pada 1 Ogos 2022"
+  - title: "2012 ஆம் ஆண்டு வரையறுக்கப்பட்ட பொறுப்பு கூட்டாண்மை சட்டம் (Akta 743), 2022 ஆகஸ்ட் 1 நிலவரப்படி புதுப்பிக்கப்பட்ட உரை (Akta Perkongsian Liabiliti Terhad 2012 (Akta 743), teks kemas kini pada 1 Ogos 2022)"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ssm/Akta%20743.pdf"
-    publisher: "Jabatan Peguam Negara / SSM"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம் / மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி புதுப்பிக்கப்பட்ட உரை (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/Companies_Act_2016_Act_777.pdf"
-    publisher: "Attorney General's Chambers / SSM"
-  - title: "Limited Liability Partnerships Act — Legal Framework"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம் / மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "வரையறுக்கப்பட்ட பொறுப்பு கூட்டாண்மை சட்டம் — சட்டக் கட்டமைப்பு (Limited Liability Partnerships Act — Legal Framework)"
     url: "https://www.ssm.com.my/bm/Pages/Legal_Framework/Limited-Liability-Partnerships-Act.aspx"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Manual Serah Simpan Perakuan Tahunan oleh PLT Secara Dalam Talian"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "PLT-யால் ஆண்டு சான்றிதழை நேரடியாக (ஆன்லைனில்) சமர்ப்பிப்பதற்கான கையேடு (Manual Serah Simpan Perakuan Tahunan oleh PLT Secara Dalam Talian)"
     url: "https://www.ssm.com.my/Documents/Manual/ANNUAL-DECLARATION.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Perkongsian Liabiliti Terhad"
 relations:

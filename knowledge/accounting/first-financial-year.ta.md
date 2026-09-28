@@ -61,16 +61,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி புதுப்பிக்கப்பட்ட உரை (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "நடைமுறை உத்தரவு எண். 10/2024 — மலேசியாவில் சில தனியார் நிறுவனங்களுக்கான தணிக்கை விலக்குக்கான தகுதி அளவுகோல்கள் (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-12-16"
-  - title: "Practice Note No. 3/2018 — Clarification on Application for Extension of Time under the Companies Act 2016"
+  - title: "நடைமுறைக் குறிப்பு எண். 3/2018 — 2016 நிறுவனங்கள் சட்டத்தின் கீழ் கால நீட்டிப்பு விண்ணப்பம் குறித்த தெளிவுபடுத்தல் (Practice Note No. 3/2018 — Clarification on Application for Extension of Time under the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2018-07-26"
 
 entity: "First financial year"

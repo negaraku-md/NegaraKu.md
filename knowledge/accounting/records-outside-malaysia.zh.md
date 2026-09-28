@@ -44,13 +44,13 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "《2016年公司法》(Act 777)，2022年8月1日重印本 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2022-08-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "《1967年所得税法》(Act 53)，2024年5月21日重印本 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2024-05-21"
 
 entity: "Companies Act 2016 section 245(5)"

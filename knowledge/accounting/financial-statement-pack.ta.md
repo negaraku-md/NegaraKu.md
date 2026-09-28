@@ -73,19 +73,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி புதுப்பிக்கப்பட்ட உரை (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "நடைமுறை உத்தரவு எண். 10/2024 — மலேசியாவில் சில தனியார் நிறுவனங்களுக்கான தணிக்கை விலக்குக்கான தகுதி அளவுகோல்கள் (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-12-16"
-  - title: "MBRS 2.0 SSM Taxonomy 2022 (SSMxT_2022) Architecture Document"
+  - title: "MBRS 2.0 SSM வகைப்பாடு 2022 (SSMxT_2022) கட்டமைப்பு ஆவணம் (MBRS 2.0 SSM Taxonomy 2022 (SSMxT_2022) Architecture Document)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/SSMxT2022_Architecture_Document.pdf"
-    publisher: "SSM"
-  - title: "Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, version 2.4"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "மலேசிய வணிக அறிக்கையிடல் அமைப்பு (MBRS) — அடிக்கடி கேட்கப்படும் கேள்விகள், பதிப்பு 2.4 (Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, version 2.4)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/FAQs_Malaysian_Business_Reporting_System_MBRS.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-10-01"
 
 entity: "Statutory financial statement pack"

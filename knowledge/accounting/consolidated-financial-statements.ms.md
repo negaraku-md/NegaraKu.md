@@ -54,19 +54,19 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "MFRS 10 Consolidated Financial Statements"
+  - title: "MFRS 10 Penyata Kewangan Disatukan (MFRS 10 Consolidated Financial Statements)"
     url: "https://www.masb.org.my/pdf_file/BV2021CR_MFRS10.pdf"
-    publisher: "Malaysian Accounting Standards Board (MASB)"
-  - title: "Malaysian Financial Reporting Standards (MFRSs)"
+    publisher: "Lembaga Piawaian Perakaunan Malaysia (MASB)"
+  - title: "Piawaian Pelaporan Kewangan Malaysia (MFRS) (Malaysian Financial Reporting Standards (MFRSs))"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "Malaysian Accounting Standards Board (MASB)"
-  - title: "Use of IFRS Standards by jurisdiction: Malaysia"
+    publisher: "Lembaga Piawaian Perakaunan Malaysia (MASB)"
+  - title: "Penggunaan Piawaian IFRS mengikut bidang kuasa: Malaysia (Use of IFRS Standards by jurisdiction: Malaysia)"
     url: "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/malaysia/"
     publisher: "IFRS Foundation"
-  - title: "Companies Act 2016 (Act 777)"
+  - title: "Akta Syarikat 2016 (Akta 777) (Companies Act 2016 (Act 777))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Companies Commission of Malaysia (SSM)"
-  - title: "Malaysian Business Reporting System (MBRS) 2.0"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Sistem Pelaporan Perniagaan Malaysia (MBRS) 2.0 (Malaysian Business Reporting System (MBRS) 2.0)"
     url: "https://www.bdo.my/en-gb/insights/featured-insights/malaysian-business-reporting-system-(mbrs)-2-0"
     publisher: "BDO Malaysia"
 

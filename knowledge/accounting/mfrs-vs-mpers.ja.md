@@ -58,22 +58,22 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Implementation of MPERS — private entity definition"
+  - title: "MPERSの適用 — 非公開企業の定義 (Implementation of MPERS — private entity definition)"
     url: "https://www.masb.org.my/pages.php?id=275"
-    publisher: "MASB"
-  - title: "MASB Approved Accounting Standards for Private Entities"
+    publisher: "マレーシア会計基準審議会 (MASB)"
+  - title: "MASB 承認の非公開企業向け会計基準 (MASB Approved Accounting Standards for Private Entities)"
     url: "https://www.masb.org.my/pages.php?id=20"
-    publisher: "MASB"
-  - title: "Malaysian Financial Reporting Standards — status and effective dates"
+    publisher: "マレーシア会計基準審議会 (MASB)"
+  - title: "マレーシア財務報告基準 — ステータスと発効日 (Malaysian Financial Reporting Standards — status and effective dates)"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "MASB"
-  - title: "MPERS (2025)"
+    publisher: "マレーシア会計基準審議会 (MASB)"
+  - title: "MPERS（2025年版） (MPERS (2025))"
     url: "https://www.masb.org.my/pages.php?id=615"
-    publisher: "MASB"
+    publisher: "マレーシア会計基準審議会 (MASB)"
     date: "2025-10-10"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "2016年会社法 (Act 777)、2022年8月1日現在の再版 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
 
 entity: "MFRS and MPERS financial reporting frameworks"
 relations:

@@ -73,19 +73,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일 기준 갱신 본문 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "실무지침 제10/2024호 — 말레이시아 내 특정 비공개회사에 대한 감사 면제 자격 기준 (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-12-16"
-  - title: "MBRS 2.0 SSM Taxonomy 2022 (SSMxT_2022) Architecture Document"
+  - title: "MBRS 2.0 SSM 분류체계 2022 (SSMxT_2022) 아키텍처 문서 (MBRS 2.0 SSM Taxonomy 2022 (SSMxT_2022) Architecture Document)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/SSMxT2022_Architecture_Document.pdf"
-    publisher: "SSM"
-  - title: "Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, version 2.4"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "말레이시아 기업보고시스템 (MBRS) — 자주 묻는 질문, 버전 2.4 (Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, version 2.4)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/FAQs_Malaysian_Business_Reporting_System_MBRS.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-10-01"
 
 entity: "Statutory financial statement pack"

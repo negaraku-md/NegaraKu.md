@@ -57,22 +57,22 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "MBRS 2.0 SSM Taxonomy 2022 (SSMxT_2022) Architecture Document"
+  - title: "MBRS 2.0 SSM 분류체계 2022 (SSMxT_2022) 아키텍처 문서 (MBRS 2.0 SSM Taxonomy 2022 (SSMxT_2022) Architecture Document)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/SSMxT2022_Architecture_Document.pdf"
-    publisher: "SSM"
-  - title: "Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, version 2.4"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "말레이시아 기업보고시스템 (MBRS) — 자주 묻는 질문, 버전 2.4 (Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, version 2.4)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/FAQs_Malaysian_Business_Reporting_System_MBRS.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-10-01"
-  - title: "MBRS Enhancement MBRS 2.0 — Overview"
+  - title: "MBRS 개선 MBRS 2.0 — 개요 (MBRS Enhancement MBRS 2.0 — Overview)"
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/AD%202024%20-%20Overview%20of%20MBRS%20v2.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일 기준 갱신 본문 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "MBRS — Malaysian Business Reporting System"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "MBRS — 말레이시아 기업보고시스템 (MBRS — Malaysian Business Reporting System)"
     url: "https://www.ssm.com.my/Pages/Services/Other-Services/MBRS.aspx"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
 
 entity: "SSMxT tagging errors"
 relations:

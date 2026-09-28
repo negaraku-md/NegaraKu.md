@@ -55,19 +55,19 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "BERNAS — Legacy (sejarah korporat dan obligasi sosial)"
+  - title: "BERNAS — レガシー（企業の沿革と社会的義務） (BERNAS — Legacy (sejarah korporat dan obligasi sosial))"
     url: "https://bernas.com.my/about-us/legacy"
     publisher: "Padiberas Nasional Berhad"
-  - title: "Bernas — a moneymaking monopoly that paid RM670 mil in dividends in 2020"
+  - title: "Bernas — 2020年に6億7,000万リンギットの配当を支払った金儲けの独占企業 (Bernas — a moneymaking monopoly that paid RM670 mil in dividends in 2020)"
     url: "https://theedgemalaysia.com/node/651029"
     publisher: "The Edge Malaysia"
-  - title: "Harga Lantai Padi diselaraskan kepada RM1,500"
+  - title: "籾の最低保証価格がRM1,500に調整 (Harga Lantai Padi diselaraskan kepada RM1,500)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/harga-lantai-padi-diselaraskan-kepada-rm1-500/"
     publisher: "RTM (Radio Televisyen Malaysia)"
-  - title: "Govt to review Bernas's sole rice importer role before 2031 expiry"
+  - title: "政府、2031年の期限満了前にBernasの単独コメ輸入業者の役割を見直しへ (Govt to review Bernas's sole rice importer role before 2031 expiry)"
     url: "https://www.freemalaysiatoday.com/category/nation/2026/07/13/govt-to-review-bernas-sole-rice-importer-role-before-2031-expiry"
     publisher: "Free Malaysia Today"
-  - title: "Control of Paddy and Rice Act 1994 (Act 522) — Import Licensing"
+  - title: "1994年籾及び米統制法 (Act 522) — 輸入ライセンス (Control of Paddy and Rice Act 1994 (Act 522) — Import Licensing)"
     url: "https://importlicensing.wto.org/content/control-paddy-and-rice-act-1994-act-522"
     publisher: "World Trade Organization"
 

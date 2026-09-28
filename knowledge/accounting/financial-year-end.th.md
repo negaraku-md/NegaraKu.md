@@ -75,23 +75,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "พระราชบัญญัติบริษัท 2016 (Act 777) ฉบับปรับปรุงข้อความ ณ วันที่ 1 สิงหาคม 2022 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "คำสั่งแนวปฏิบัติที่ 10/2024 — เกณฑ์คุณสมบัติการยกเว้นการตรวจสอบบัญชีสำหรับบริษัทเอกชนบางแห่งในมาเลเซีย (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2024-12-16"
-  - title: "Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society"
+  - title: "คำวินิจฉัยสาธารณะที่ 8/2014 — รอบระยะเวลาฐานของบริษัท ห้างหุ้นส่วนจำกัดความรับผิด องค์กรทรัสต์ และสหกรณ์ (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
     url: "https://phl.hasil.gov.my/pdf/pdfam/PR_8_2014.pdf"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
     date: "2014-12-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "พระราชบัญญัติภาษีเงินได้ 1967 (Act 53) ฉบับพิมพ์ซ้ำ ณ วันที่ 21 พฤษภาคม 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
-  - title: "IRBM e-Invoice Guideline"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "แนวปฏิบัติใบแจ้งหนี้อิเล็กทรอนิกส์ของ IRBM (IRBM e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
 
 entity: "Financial year end"
 relations:

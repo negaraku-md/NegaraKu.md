@@ -62,16 +62,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "《2016年公司法》(Act 777)，截至2022年8月1日的更新文本 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "第10/2024号实务指令 — 马来西亚特定私人公司审计豁免的合格标准 (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2024-12-16"
-  - title: "Practice Note No. 3/2018 — Clarification on Application for Extension of Time under the Companies Act 2016"
+  - title: "第3/2018号实务备忘 — 关于《2016年公司法》下延期申请的澄清 (Practice Note No. 3/2018 — Clarification on Application for Extension of Time under the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2018-07-26"
 
 entity: "First financial year"

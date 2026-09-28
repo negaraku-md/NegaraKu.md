@@ -43,13 +43,13 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Akta Syarikat 2016 (Akta 777), cetakan semula pada 1 Ogos 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "Akta Cukai Pendapatan 1967 (Akta 53), cetakan semula pada 21 Mei 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2024-05-21"
 
 entity: "Companies Act 2016 section 245(5)"

@@ -47,16 +47,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "EPF Third Schedule, rates effective from 1 October 2025"
+  - title: "公积金第三附表，费率自2025年10月1日起生效 (EPF Third Schedule, rates effective from 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "KWSP"
+    publisher: "雇员公积金局 (KWSP)"
     date: "2025-10-01"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "《2016年公司法》(Act 777)，截至2022年8月1日的更新文本 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Pembangunan Sumber Manusia Berhad (Amendment of First Schedule) Order 2021, P.U.(A) 84/2021"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "《人力资源发展有限公司（第一附表修订）令 2021》，P.U.(A) 84/2021 (Pembangunan Sumber Manusia Berhad (Amendment of First Schedule) Order 2021, P.U.(A) 84/2021)"
     url: "https://hrdcorp.gov.my/wp-content/uploads/2021/03/12.FEDERAL-GOVERMENT-GAZETTE-PEMBANGUNAN-SUMBER-MANUSIA-BERHAD-AMENDMENT-OF-FIRST-SCHEDULE-ORDER-2021.pdf"
-    publisher: "HRD Corp"
+    publisher: "人力资源发展机构 (HRD Corp)"
     date: "2021-03-01"
 
 entity: "Bookkeeping function"

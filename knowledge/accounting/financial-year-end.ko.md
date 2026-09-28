@@ -75,23 +75,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일 기준 갱신 본문 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "실무지침 제10/2024호 — 말레이시아 내 특정 비공개회사에 대한 감사 면제 자격 기준 (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-12-16"
-  - title: "Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society"
+  - title: "공개예규 제8/2014호 — 회사, 유한책임조합, 신탁단체 및 협동조합의 기준기간 (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
     url: "https://phl.hasil.gov.my/pdf/pdfam/PR_8_2014.pdf"
-    publisher: "LHDN"
+    publisher: "말레이시아 국세청 (LHDN)"
     date: "2014-12-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "1967년 소득세법 (Act 53), 2024년 5월 21일 기준 재발행본 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
-  - title: "IRBM e-Invoice Guideline"
+    publisher: "말레이시아 국세청 (LHDN)"
+  - title: "IRBM 전자송장 가이드라인 (IRBM e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "말레이시아 국세청 (LHDN)"
 
 entity: "Financial year end"
 relations:

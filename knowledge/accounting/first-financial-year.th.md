@@ -61,16 +61,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "พระราชบัญญัติบริษัท 2016 (Act 777) ฉบับปรับปรุงข้อความ ณ วันที่ 1 สิงหาคม 2022 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "คำสั่งแนวปฏิบัติที่ 10/2024 — เกณฑ์คุณสมบัติการยกเว้นการตรวจสอบบัญชีสำหรับบริษัทเอกชนบางแห่งในมาเลเซีย (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2024-12-16"
-  - title: "Practice Note No. 3/2018 — Clarification on Application for Extension of Time under the Companies Act 2016"
+  - title: "บันทึกแนวปฏิบัติที่ 3/2018 — คำชี้แจงเกี่ยวกับการขอขยายเวลาภายใต้พระราชบัญญัติบริษัท 2016 (Practice Note No. 3/2018 — Clarification on Application for Extension of Time under the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2018-07-26"
 
 entity: "First financial year"

@@ -59,18 +59,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Implementation of MPERS"
+  - title: "MPERSの適用 (Implementation of MPERS)"
     url: "https://www.masb.org.my/pages.php?id=275"
-    publisher: "MASB"
-  - title: "MASB Approved Accounting Standards for Private Entities"
+    publisher: "マレーシア会計基準審議会 (MASB)"
+  - title: "MASB 承認の非公開企業向け会計基準 (MASB Approved Accounting Standards for Private Entities)"
     url: "https://www.masb.org.my/pages.php?id=20"
-    publisher: "MASB"
-  - title: "Malaysian Financial Reporting Standards (MFRSs) — status and effective dates"
+    publisher: "マレーシア会計基準審議会 (MASB)"
+  - title: "マレーシア財務報告基準 (MFRS) — ステータスと発効日 (Malaysian Financial Reporting Standards (MFRSs) — status and effective dates)"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "MASB"
-  - title: "MPERS (2025)"
+    publisher: "マレーシア会計基準審議会 (MASB)"
+  - title: "MPERS（2025年版） (MPERS (2025))"
     url: "https://www.masb.org.my/pages.php?id=615"
-    publisher: "MASB"
+    publisher: "マレーシア会計基準審議会 (MASB)"
     date: "2025-10-10"
 
 entity: "Transition between MPERS and MFRS"

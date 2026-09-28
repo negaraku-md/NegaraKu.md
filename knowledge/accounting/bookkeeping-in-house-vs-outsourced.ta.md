@@ -46,16 +46,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "EPF Third Schedule, rates effective from 1 October 2025"
+  - title: "EPF மூன்றாம் அட்டவணை, 2025 அக்டோபர் 1 முதல் அமலுக்கு வரும் விகிதங்கள் (EPF Third Schedule, rates effective from 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "KWSP"
+    publisher: "ஊழியர் சேமநல நிதி (KWSP)"
     date: "2025-10-01"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி புதுப்பிக்கப்பட்ட உரை (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Pembangunan Sumber Manusia Berhad (Amendment of First Schedule) Order 2021, P.U.(A) 84/2021"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "மனிதவள மேம்பாட்டு நிறுவனம் (முதல் அட்டவணை திருத்தம்) ஆணை 2021, P.U.(A) 84/2021 (Pembangunan Sumber Manusia Berhad (Amendment of First Schedule) Order 2021, P.U.(A) 84/2021)"
     url: "https://hrdcorp.gov.my/wp-content/uploads/2021/03/12.FEDERAL-GOVERMENT-GAZETTE-PEMBANGUNAN-SUMBER-MANUSIA-BERHAD-AMENDMENT-OF-FIRST-SCHEDULE-ORDER-2021.pdf"
-    publisher: "HRD Corp"
+    publisher: "மனிதவள மேம்பாட்டுக் கழகம் (HRD Corp)"
     date: "2021-03-01"
 
 entity: "Bookkeeping function"

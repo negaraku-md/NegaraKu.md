@@ -60,18 +60,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "MASB issues new presentation and disclosure Standard to improve companies reporting of financial performance"
+  - title: "MASB ออกมาตรฐานการนำเสนอและการเปิดเผยข้อมูลฉบับใหม่เพื่อปรับปรุงการรายงานผลการดำเนินงานทางการเงินของบริษัท (MASB issues new presentation and disclosure Standard to improve companies reporting of financial performance)"
     url: "https://www.masb.org.my/press_list.php?id=455"
-    publisher: "MASB"
+    publisher: "คณะกรรมการมาตรฐานการบัญชีมาเลเซีย (MASB)"
     date: "2024-06-14"
-  - title: "Be prepared for a new standard, IFRS 18 Presentation and Disclosure in Financial Statements"
+  - title: "เตรียมพร้อมสำหรับมาตรฐานใหม่ IFRS 18 การนำเสนอและการเปิดเผยข้อมูลในงบการเงิน (Be prepared for a new standard, IFRS 18 Presentation and Disclosure in Financial Statements)"
     url: "https://www.masb.org.my/pdf_file/BE%20PREPARED%20FOR%20A%20NEW%20STANDARD%20IFRS%2018%20PRESENTATION%20AND%20DISCLOSURE%20IN%20FINANCIAL%20STATEMENTS.pdf"
-    publisher: "MASB"
+    publisher: "คณะกรรมการมาตรฐานการบัญชีมาเลเซีย (MASB)"
     date: "2024-05-31"
-  - title: "Malaysian Financial Reporting Standards (MFRSs) — status and effective dates"
+  - title: "มาตรฐานการรายงานทางการเงินมาเลเซีย (MFRS) — สถานะและวันที่มีผลบังคับใช้ (Malaysian Financial Reporting Standards (MFRSs) — status and effective dates)"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "MASB"
-  - title: "IFRS 18 Presentation and Disclosure in Financial Statements"
+    publisher: "คณะกรรมการมาตรฐานการบัญชีมาเลเซีย (MASB)"
+  - title: "IFRS 18 การนำเสนอและการเปิดเผยข้อมูลในงบการเงิน (IFRS 18 Presentation and Disclosure in Financial Statements)"
     url: "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/"
     publisher: "IFRS Foundation"
 

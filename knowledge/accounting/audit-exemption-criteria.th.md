@@ -55,18 +55,18 @@ revisions:
 
 updated: 2026-08-14
 sources:
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+  - title: "คำสั่งแนวปฏิบัติที่ 10/2024 — เกณฑ์คุณสมบัติการยกเว้นการตรวจสอบบัญชีสำหรับบริษัทเอกชนบางแห่งในมาเลเซีย (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PRACTICE-DIRECTIVE-10-2024.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "New Qualifying Criteria for Audit Exemption (Announcement)"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "เกณฑ์คุณสมบัติใหม่สำหรับการยกเว้นการตรวจสอบบัญชี (ประกาศ) (New Qualifying Criteria for Audit Exemption (Announcement))"
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/AD%202024%20-%20New%20Audit%20Exemption%20Qualifying%20Criteria.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Act 2016 (Act 777) — Reprint, seksyen 2 (takrif 'exempt private company')"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "พระราชบัญญัติบริษัท 2016 (Act 777) — ฉบับพิมพ์ซ้ำ มาตรา 2 (นิยาม 'exempt private company') (Companies Act 2016 (Act 777) — Reprint, seksyen 2 (takrif 'exempt private company'))"
     url: "https://www.ssm.com.my/pages/legal_framework/document/act%20777%20reprint.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Laws of Malaysia — Act 777 Companies Act 2016 (interpretation, s2, 'exempt private company', p33; s260, p262)"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "กฎหมายแห่งมาเลเซีย — Act 777 พระราชบัญญัติบริษัท 2016 (การตีความ, มาตรา 2, 'exempt private company', หน้า 33; มาตรา 260, หน้า 262) (Laws of Malaysia — Act 777 Companies Act 2016 (interpretation, s2, 'exempt private company', p33; s260, p262))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBI_20160915_CompaniesAct2016Act777.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (AGC), Laws of Malaysia (lom.agc.gov.my)"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย (AGC), กฎหมายแห่งมาเลเซีย (lom.agc.gov.my)"
 
 entity: "Suruhanjaya Syarikat Malaysia (SSM)"
 wikidata: "Q1121232"

@@ -44,9 +44,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "2016年会社法 (Act 777)、2022年8月1日現在の再版 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2022-08-01"
 
 entity: "Director inspection right under Companies Act 2016 section 245(4)"
