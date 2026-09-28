@@ -33,13 +33,13 @@ revisions:
 sensitivity: "none"
 updated: 2026-07-24
 sources:
-  - title: "Beruas Museum"
+  - title: "Bảo tàng Beruas (Beruas Museum)"
     url: "https://muzium.perak.gov.my/index.php/en/museums/beruas-museum"
-    publisher: "Lembaga Muzium Negeri Perak (Perak State Museum Board)"
-  - title: "South-East Asia campaign of Rajendra I"
+    publisher: "Hội đồng Bảo tàng bang Perak (Perak State Museum Board)"
+  - title: "Chiến dịch Đông Nam Á của Rajendra I (South-East Asia campaign of Rajendra I)"
     url: "https://en.wikipedia.org/wiki/South-East_Asia_campaign_of_Rajendra_I"
     publisher: "Wikipedia"
-  - title: "The Lost Kingdom of Gangga Negara: Reality or Fiction?"
+  - title: "Vương quốc Gangga Negara đã mất: Sự thật hay hư cấu? (The Lost Kingdom of Gangga Negara: Reality or Fiction?)"
     url: "https://www.historicmysteries.com/myths-legends/gangga-negara/25036/"
     publisher: "Historic Mysteries"
   - title: "Gangga Negara"

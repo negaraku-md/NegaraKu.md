@@ -41,19 +41,19 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution — Ninth Schedule (Articles 74 and 77): Federal List, State List and Concurrent List"
+  - title: "联邦宪法 — 第九附表(第74及77条):联邦清单、州清单及共同清单 (Federal Constitution — Ninth Schedule (Articles 74 and 77): Federal List, State List and Concurrent List)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/NinthSchedule.pdf"
-    publisher: "Sabah State Attorney-General's Chambers (reproducing the Federal Constitution)"
+    publisher: "沙巴州总检察署(转载联邦宪法)"
     date: "2012"
-  - title: "Constitution of the State of Sabah (Reprint, as at January 2020) — Articles 1-11 (Head of State and Executive), 13-23 (Legislature), 26 (Legislative power) and 43 (Amendment)"
+  - title: "沙巴州宪法(重印本,截至2020年1月)— 第1-11条(州元首与行政机关)、第13-23条(立法机关)、第26条(立法权)及第43条(修正)(Constitution of the State of Sabah (Reprint, as at January 2020) — Articles 1-11 (Head of State and Executive), 13-23 (Legislature), 26 (Legislative power) and 43 (Amendment))"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/TheConstitutionOfTheStateOfSabah_5_0.pdf"
-    publisher: "Sabah State Attorney-General's Chambers"
+    publisher: "沙巴州总检察署"
     date: "2020"
-  - title: "Federal Constitution (Reprint, as at 15 October 2020) — Article 43 (Prime Minister and Cabinet) and Article 71 with the Eighth Schedule (essential provisions for State Constitutions)"
+  - title: "联邦宪法(重印本,截至2020年10月15日)— 第43条(首相与内阁)及第71条连同第八附表(州宪法的必要条款)(Federal Constitution (Reprint, as at 15 October 2020) — Article 43 (Prime Minister and Cabinet) and Article 71 with the Eighth Schedule (essential provisions for State Constitutions))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri (Prime Minister's Department)"
+    publisher: "首相署"
     date: "2020"
-  - title: "Powers and functions of state rulers"
+  - title: "州统治者的权力与职能 (Powers and functions of state rulers)"
     url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/legal-news/powers-and-functions-of-state-rulers"
     publisher: "Malaysian Bar"
 

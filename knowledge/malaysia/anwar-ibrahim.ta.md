@@ -58,13 +58,13 @@ sensitivity: "legal-proceedings"
 created: 2026-08-19
 updated: 2026-08-19
 sources:
-  - title: "Anwar Ibrahim — Biography, Trials, & Facts"
+  - title: "அன்வர் இப்ராஹிம் — வாழ்க்கை வரலாறு, வழக்குகள், & உண்மைகள் (Anwar Ibrahim — Biography, Trials, & Facts)"
     url: "https://www.britannica.com/biography/Anwar-Ibrahim"
     publisher: "Encyclopædia Britannica"
-  - title: "Prime Minister's Office of Malaysia"
+  - title: "மலேசியப் பிரதமர் அலுவலகம் (Prime Minister's Office of Malaysia)"
     url: "https://www.pmo.gov.my"
-    publisher: "Prime Minister's Office of Malaysia"
-  - title: "Anwar Ibrahim, 10th Prime Minister of Malaysia"
+    publisher: "மலேசியப் பிரதமர் அலுவலகம்"
+  - title: "அன்வர் இப்ராஹிம், மலேசியாவின் 10வது பிரதமர் (Anwar Ibrahim, 10th Prime Minister of Malaysia)"
     url: "https://www.ide.go.jp/English/ResearchColumns/Columns/2025/khoo.html"
     publisher: "Institute of Developing Economies (IDE-JETRO)"
 

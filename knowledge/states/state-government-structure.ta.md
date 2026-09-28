@@ -41,19 +41,19 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution — Ninth Schedule (Articles 74 and 77): Federal List, State List and Concurrent List"
+  - title: "கூட்டாட்சி அரசியலமைப்பு — ஒன்பதாவது அட்டவணை (உறுப்புகள் 74 மற்றும் 77): கூட்டாட்சிப் பட்டியல், மாநிலப் பட்டியல் மற்றும் கூட்டுப் பட்டியல் (Federal Constitution — Ninth Schedule (Articles 74 and 77): Federal List, State List and Concurrent List)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/NinthSchedule.pdf"
-    publisher: "Sabah State Attorney-General's Chambers (reproducing the Federal Constitution)"
+    publisher: "சபா மாநில சட்ட மா அதிபர் அலுவலகம் (கூட்டாட்சி அரசியலமைப்பை மறுபிரசுரம் செய்தல்)"
     date: "2012"
-  - title: "Constitution of the State of Sabah (Reprint, as at January 2020) — Articles 1-11 (Head of State and Executive), 13-23 (Legislature), 26 (Legislative power) and 43 (Amendment)"
+  - title: "சபா மாநில அரசியலமைப்பு (மறுபதிப்பு, 2020 ஜனவரி வரை) — உறுப்புகள் 1-11 (மாநிலத் தலைவர் மற்றும் நிர்வாகம்), 13-23 (சட்டமன்றம்), 26 (சட்டமியற்றல் அதிகாரம்) மற்றும் 43 (திருத்தம்) (Constitution of the State of Sabah (Reprint, as at January 2020) — Articles 1-11 (Head of State and Executive), 13-23 (Legislature), 26 (Legislative power) and 43 (Amendment))"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/TheConstitutionOfTheStateOfSabah_5_0.pdf"
-    publisher: "Sabah State Attorney-General's Chambers"
+    publisher: "சபா மாநில சட்ட மா அதிபர் அலுவலகம்"
     date: "2020"
-  - title: "Federal Constitution (Reprint, as at 15 October 2020) — Article 43 (Prime Minister and Cabinet) and Article 71 with the Eighth Schedule (essential provisions for State Constitutions)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (மறுபதிப்பு, 2020 அக்டோபர் 15 வரை) — உறுப்பு 43 (பிரதமர் மற்றும் அமைச்சரவை) மற்றும் உறுப்பு 71 உடன் எட்டாவது அட்டவணை (மாநில அரசியலமைப்புகளுக்கான அத்தியாவசிய விதிகள்) (Federal Constitution (Reprint, as at 15 October 2020) — Article 43 (Prime Minister and Cabinet) and Article 71 with the Eighth Schedule (essential provisions for State Constitutions))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri (Prime Minister's Department)"
+    publisher: "பிரதமர் அலுவலகம்"
     date: "2020"
-  - title: "Powers and functions of state rulers"
+  - title: "மாநில ஆட்சியாளர்களின் அதிகாரங்களும் செயல்பாடுகளும் (Powers and functions of state rulers)"
     url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/legal-news/powers-and-functions-of-state-rulers"
     publisher: "Malaysian Bar"
 

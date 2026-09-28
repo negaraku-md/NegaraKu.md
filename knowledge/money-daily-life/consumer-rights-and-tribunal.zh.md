@@ -38,15 +38,15 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Tribunal For Consumer Claims"
+  - title: "消费者索偿仲裁庭 (Tribunal For Consumer Claims)"
     url: "https://www.kpdn.gov.my/en/faq/tribunal-for-consumer-claims"
-    publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
-  - title: "e-Tribunal v3 (official Tribunal for Consumer Claims portal)"
+    publisher: "国内贸易及生活成本部 (KPDN)"
+  - title: "e-Tribunal v3（消费者索偿仲裁庭官方门户） (e-Tribunal v3 (official Tribunal for Consumer Claims portal))"
     url: "https://ttpm.kpdn.gov.my/"
-    publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
-  - title: "Consumer Protection Act 1999 (Act 599)"
+    publisher: "国内贸易及生活成本部 (KPDN)"
+  - title: "1999年消费者保护法令（第599号法令） (Consumer Protection Act 1999 (Act 599))"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ttpm/Act%20599.pdf"
-    publisher: "Commissioner of Law Revision / KPDN"
+    publisher: "法律修订专员／KPDN (Commissioner of Law Revision / KPDN)"
 
 entity: "Consumer rights and the Tribunal for Consumer Claims in Malaysia"
 relations:

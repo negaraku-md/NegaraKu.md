@@ -53,17 +53,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society"
+  - title: "Ketetapan Umum No. 8/2014 — Tempoh Asas Syarikat, Perkongsian Liabiliti Terhad, Badan Amanah dan Koperasi (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_8_2014.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2014-12-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 21A, 77A, 107C and 112"
+  - title: "Income Tax Act 1967 (Act 53), cetakan semula sehingga 21 Mei 2024 — seksyen 21A, 77A, 107C dan 112 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 21A, 77A, 107C and 112)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2024-05-21"
-  - title: "Change In Accounting Period"
+  - title: "Perubahan Tempoh Perakaunan (Change In Accounting Period)"
     url: "https://www.hasil.gov.my/syarikat/pertukaran-tarikh-penutupan-akaun-syarikat/"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
 
 entity: "Basis period"
 relations:

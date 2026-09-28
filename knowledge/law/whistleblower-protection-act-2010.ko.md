@@ -53,10 +53,10 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Whistleblower Protection Act 2010 (Act 711) — updated reprint as at 31 August 2016"
+  - title: "Whistleblower Protection Act 2010 (Act 711) — 2016년 8월 31일 기준 최신 재판 (Whistleblower Protection Act 2010 (Act 711) — updated reprint as at 31 August 2016)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/5.%20Act%20711%20-%2030.10.2016.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
-  - title: "Whistleblower protection only applies if procedures are followed, says MACC"
+    publisher: "말레이시아 법무장관실 (Laws of Malaysia)"
+  - title: "절차를 따를 경우에만 내부고발자 보호가 적용된다고 MACC가 밝혔다 (Whistleblower protection only applies if procedures are followed, says MACC)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/06/20/whistleblower-protection-only-applies-if-procedures-are-followed-says-macc"
     publisher: "Free Malaysia Today"
 

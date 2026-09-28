@@ -54,19 +54,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Laws of Malaysia — Act 127 Environmental Quality Act 1974 (teks disatukan)"
+  - title: "กฎหมายแห่งมาเลเซีย — Act 127 Environmental Quality Act 1974 (ข้อความรวม) (Laws of Malaysia — Act 127 Environmental Quality Act 1974 (teks disatukan))"
     url: "https://www.doe.gov.my/wp-content/uploads/2022/11/Environmental_Quality_Act_1974_-_ACT_127.pdf"
-    publisher: "Jabatan Alam Sekitar (Department of Environment Malaysia)"
-  - title: "Akta Kualiti Alam Sekeliling 1974 – ACT 127"
+    publisher: "กรมสิ่งแวดล้อม (Department of Environment Malaysia)"
+  - title: "Akta Kualiti Alam Sekeliling 1974 – ACT 127 (Akta Kualiti Alam Sekeliling 1974 – ACT 127)"
     url: "https://www.doe.gov.my/akta/akta-kualiti-alam-sekeliling-1974-act-127-100/"
-    publisher: "Jabatan Alam Sekitar (Department of Environment Malaysia)"
-  - title: "Environmental Quality (Prescribed Activities)(Environmental Impact Assessment) Order 2015"
+    publisher: "กรมสิ่งแวดล้อม (Department of Environment Malaysia)"
+  - title: "Environmental Quality (Prescribed Activities)(Environmental Impact Assessment) Order 2015 (Environmental Quality (Prescribed Activities)(Environmental Impact Assessment) Order 2015)"
     url: "https://www.doe.gov.my/en/environmental-quality-prescribed-activitiesenvironmental-impact-assessment-order-2015-2/"
-    publisher: "Jabatan Alam Sekitar (Department of Environment Malaysia)"
-  - title: "Portal Rasmi Jabatan Alam Sekitar (di bawah Kementerian Sumber Asli dan Kelestarian Alam)"
+    publisher: "กรมสิ่งแวดล้อม (Department of Environment Malaysia)"
+  - title: "พอร์ทัลทางการของกรมสิ่งแวดล้อม (ภายใต้กระทรวงทรัพยากรธรรมชาติและความยั่งยืนด้านสิ่งแวดล้อม) (Portal Rasmi Jabatan Alam Sekitar (di bawah Kementerian Sumber Asli dan Kelestarian Alam))"
     url: "https://www.doe.gov.my/en/utama-english/"
-    publisher: "Jabatan Alam Sekitar (Department of Environment Malaysia)"
-  - title: "Syarikat kitar semula didenda RM60,000 ingkar Akta Kualiti Alam Sekeliling 1974"
+    publisher: "กรมสิ่งแวดล้อม (Department of Environment Malaysia)"
+  - title: "บริษัทรีไซเคิลถูกปรับ RM60,000 ฐานฝ่าฝืน Akta Kualiti Alam Sekeliling 1974 (Syarikat kitar semula didenda RM60,000 ingkar Akta Kualiti Alam Sekeliling 1974)"
     url: "https://berita.rtm.gov.my/kes/senarai-berita-kes/senarai-artikel/syarikat-kitar-semula-didenda-rm60000-ingkar-akta-kualiti-alam-sekeliling-1974/"
     publisher: "Portal Berita RTM"
 

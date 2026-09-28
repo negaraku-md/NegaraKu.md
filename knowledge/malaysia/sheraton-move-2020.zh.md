@@ -53,13 +53,13 @@ sensitivity: "constitution"
 created: 2026-08-27
 updated: 2026-08-27
 sources:
-  - title: "Chronology of political developments related to PN"
+  - title: "与国盟（PN）相关政治发展的时间线 (Chronology of political developments related to PN)"
     url: "https://www.bernama.com/en/news.php?id=1993363"
     publisher: "BERNAMA"
-  - title: "Muhyiddin takes oath as 8th PM before King"
+  - title: "慕尤丁在国家元首面前宣誓就任第八任首相 (Muhyiddin takes oath as 8th PM before King)"
     url: "https://www.malaymail.com/news/malaysia/2020/03/01/muhyiddin-takes-oath-as-8th-pm-before-king/1842321"
     publisher: "Malay Mail"
-  - title: "Malaysia since the Sheraton Move: Pandemic, Politics, Popularity"
+  - title: "喜来登政变以来的马来西亚：疫情、政治、民望 (Malaysia since the Sheraton Move: Pandemic, Politics, Popularity)"
     url: "https://www.iseas.edu.sg/mec-events/malaysia-since-the-sheraton-move-pandemic-politics-popularity/"
     publisher: "ISEAS – Yusof Ishak Institute"
 

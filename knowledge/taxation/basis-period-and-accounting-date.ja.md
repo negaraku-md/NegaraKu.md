@@ -53,17 +53,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society"
+  - title: "公開ルーリング第8/2014号 — 会社、有限責任事業組合、信託体および協同組合の基準期間 (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_8_2014.pdf"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
     date: "2014-12-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 21A, 77A, 107C and 112"
+  - title: "Income Tax Act 1967 (Act 53)、2024年5月21日現在の復刻版 — 第21A条、77A条、107C条および112条 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 21A, 77A, 107C and 112)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
     date: "2024-05-21"
-  - title: "Change In Accounting Period"
+  - title: "会計期間の変更 (Change In Accounting Period)"
     url: "https://www.hasil.gov.my/en/syarikat/pertukaran-tarikh-penutupan-akaun-syarikat/"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
 
 entity: "Basis period"
 relations:

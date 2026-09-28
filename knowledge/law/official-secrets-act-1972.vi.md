@@ -56,16 +56,16 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Laws of Malaysia — Act 88, Official Secrets Act 1972 (Reprint incorporating all amendments up to 1 January 2006)"
+  - title: "Luật pháp Malaysia — Act 88, Official Secrets Act 1972 (bản tái bản kết hợp tất cả các sửa đổi đến ngày 1 tháng 1 năm 2006) (Laws of Malaysia — Act 88, Official Secrets Act 1972 (Reprint incorporating all amendments up to 1 January 2006))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%2088.pdf"
-    publisher: "Pejabat Peguam Negara Malaysia (Commissioner of Law Revision)"
-  - title: "Memorandum on the Malaysian Official Secrets Act 1972"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (Commissioner of Law Revision)"
+  - title: "Bản ghi nhớ về Official Secrets Act 1972 của Malaysia (Memorandum on the Malaysian Official Secrets Act 1972)"
     url: "https://www.article19.org/data/files/pdfs/analysis/malaysia-official-secrets-act-sept-2004.pdf"
     publisher: "ARTICLE 19 — Global Campaign for Free Expression"
-  - title: "Ezam slapped with two-year jail term for violating OSA"
+  - title: "Ezam bị tuyên án hai năm tù vì vi phạm OSA (Ezam slapped with two-year jail term for violating OSA)"
     url: "https://www.malaysiakini.com/news/12480"
     publisher: "Malaysiakini"
-  - title: "Freedom of Information Act must factor 'national harmony'"
+  - title: "Luật Tự do Thông tin phải tính đến 'sự hòa hợp dân tộc' (Freedom of Information Act must factor 'national harmony')"
     url: "https://www.thestar.com.my/news/nation/2025/03/30/freedom-of-information-act-must-factor-national-harmony"
     publisher: "The Star"
 

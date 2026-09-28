@@ -52,15 +52,15 @@ verificationNeeded:
   - "P.U. (A) 165/2024 ஆல் திருத்தப்பட்டபடி தற்போதைய Schedule (Jadual) க்கு எதிராக பதவிகளின் முழு வரிசை மற்றும் சுருக்கங்களை உறுதிப்படுத்தவும்."
 updated: 2026-08-01
 sources:
-  - title: "Act 752 — Jabatan Sukarelawan Malaysia (RELA)"
+  - title: "Act 752 — மலேசிய தன்னார்வலர் துறை (RELA) (Act 752 — Jabatan Sukarelawan Malaysia (RELA))"
     url: "https://www.rela.gov.my/?page_id=5611&lang=en"
-    publisher: "Jabatan Sukarelawan Malaysia (RELA)"
-  - title: "Akta Pasukan Sukarelawan Malaysia 2012 (Akta 752) — Versi Dalam Talian Teks Cetakan Semula Yang Kemas Kini (sebagaimana pada 1 Julai 2024)"
+    publisher: "மலேசிய தன்னார்வலர் துறை (RELA)"
+  - title: "Malaysia Volunteers Corps Act 2012 (Act 752) — புதுப்பிக்கப்பட்ட மறுஅச்சிடு உரையின் ஆன்லைன் பதிப்பு (2024 ஜூலை 1 நிலவரப்படி) (Akta Pasukan Sukarelawan Malaysia 2012 (Akta 752) — Versi Dalam Talian Teks Cetakan Semula Yang Kemas Kini (sebagaimana pada 1 Julai 2024))"
     url: "https://www.moha.gov.my/utama/images/akta-pekeliling-garispanduan/bhg-kepenjaraan-antidadah-rela/akta/Akta_752_-_Akta_Pasukan_Sukarelawan_Malaysia_2012.pdf"
-    publisher: "Jabatan Peguam Negara (teks kemas kini dalam talian, dihoskan di portal Kementerian Dalam Negeri)"
-  - title: "Enforcement — Malaysian Immigration Department"
+    publisher: "சட்ட மா அதிபர் அலுவலகம் (புதுப்பிக்கப்பட்ட ஆன்லைன் உரை, உள்துறை அமைச்சு இணையவாயிலில் வழங்கப்படுகிறது)"
+  - title: "அமலாக்கம் — மலேசிய குடிவரவுத் துறை (Enforcement — Malaysian Immigration Department)"
     url: "https://www.imi.gov.my/index.php/en/enforcement/"
-    publisher: "Jabatan Imigresen Malaysia"
+    publisher: "மலேசிய குடிவரவுத் துறை"
 
 entity: "Pasukan Sukarelawan Malaysia (RELA)"
 wikidata: "Q2750770"

@@ -53,19 +53,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Federal Constitution (Reprint As at 15 October 2020) — Articles 23 & 24"
+  - title: "Federal Constitution(2020년 10월 15일 기준 재판본) — 제23조 및 제24조 (Federal Constitution (Reprint As at 15 October 2020) — Articles 23 & 24)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Pejabat Peguam Negara)"
-  - title: "Application for Renunciation of Citizenship Status Under Article 23 of the Federal Constitution"
+    publisher: "말레이시아 법무장관실 (Pejabat Peguam Negara)"
+  - title: "연방헌법 제23조에 따른 시민권 자격 포기 신청 (Application for Renunciation of Citizenship Status Under Article 23 of the Federal Constitution)"
     url: "https://www.jpn.gov.my/en/services/citizenship/application-for-renunciation-of-citizenship-status-under-article-23-of-the-federal-constitution/"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department)"
-  - title: "Renunciation of Malaysian Citizenship"
+    publisher: "국가등록국 (JPN)"
+  - title: "말레이시아 시민권 포기 (Renunciation of Malaysian Citizenship)"
     url: "https://www.malaysia.gov.my/en/categories/personal-identification/kewarganegaraan/renunciation-of-malaysian-citizenship"
-    publisher: "MyGovernment Portal (Malaysian Administrative Modernisation and Management Planning Unit)"
-  - title: "No Policy Change In Case Of Dual Citizenship Holders Surrendering MyKad"
+    publisher: "MyGovernment 포털(말레이시아 행정현대화·관리기획청)"
+  - title: "이중국적자의 MyKad 반납 관련 정책 변경 없음 (No Policy Change In Case Of Dual Citizenship Holders Surrendering MyKad)"
     url: "https://www.bernama.com/en/news.php?id=2503691"
     publisher: "Bernama"
-  - title: "Malaysia does not recognise dual citizenship, says home minister"
+  - title: "말레이시아는 이중국적을 인정하지 않는다, 내무장관 (Malaysia does not recognise dual citizenship, says home minister)"
     url: "https://www.malaymail.com/news/malaysia/2019/03/21/malaysia-does-not-recognise-dual-citizenship-says-home-minister/1735018"
     publisher: "Malay Mail"
 

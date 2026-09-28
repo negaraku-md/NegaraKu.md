@@ -54,18 +54,18 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Dokumen Sebagai Ganti Dokumen Perjalanan Dalaman (Document In Lieu of Internal Travel Document)"
+  - title: "국내 여행 문서 대체 서류 (Dokumen Sebagai Ganti Dokumen Perjalanan Dalaman (Document In Lieu of Internal Travel Document))"
     url: "https://www.imi.gov.my/index.php/en/main-services/travel-documents/document-in-lieu-of-internal-travel-document-2/"
-    publisher: "Jabatan Imigresen Malaysia"
-  - title: "Perjalanan Dalam Negeri (Domestic Travel)"
+    publisher: "말레이시아 이민국"
+  - title: "국내 여행 (Perjalanan Dalam Negeri (Domestic Travel))"
     url: "https://www.imi.gov.my/index.php/en/main-services/domestic-travel-domestic/"
-    publisher: "Jabatan Imigresen Malaysia"
-  - title: "Dokumen Perjalanan Terhad (Restricted Travel Documents)"
+    publisher: "말레이시아 이민국"
+  - title: "제한 여행 문서 (Dokumen Perjalanan Terhad (Restricted Travel Documents))"
     url: "https://www.imi.gov.my/index.php/en/main-services/travel-documents/restricted-travel-documents/"
-    publisher: "Jabatan Imigresen Malaysia"
-  - title: "Sabah/Sarawak Restricted Travel Documents"
+    publisher: "말레이시아 이민국"
+  - title: "사바/사라왁 제한 여행 문서 (Sabah/Sarawak Restricted Travel Documents)"
     url: "https://www.malaysia.gov.my/en/categories/personal-identification/passport-application/sabahsarawak-restricted-travel-documents"
-    publisher: "MyGovernment (Portal Rasmi Kerajaan Malaysia)"
+    publisher: "MyGovernment(말레이시아 정부 공식 포털)"
 
 entity: "Jabatan Imigresen Malaysia"
 wikidata: "Q5260346"

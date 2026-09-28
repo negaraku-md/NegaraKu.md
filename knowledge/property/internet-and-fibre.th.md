@@ -40,24 +40,24 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "JENDELA (Jalinan Digital Negara) — official overview and Phase 1 targets"
+  - title: "JENDELA (Jalinan Digital Negara) — ภาพรวมทางการและเป้าหมายระยะที่ 1 (JENDELA (Jalinan Digital Negara) — official overview and Phase 1 targets)"
     url: "https://myjendela.my/"
-    publisher: "JENDELA / Malaysian Communications and Multimedia Commission (MCMC)"
-  - title: "Unifi homepage — Unifi Home, Unifi Air, Fibre-To-The-Room and Check Coverage tool"
+    publisher: "JENDELA / คณะกรรมการการสื่อสารและมัลติมีเดียมาเลเซีย (MCMC)"
+  - title: "หน้าแรก Unifi — Unifi Home, Unifi Air, Fibre-To-The-Room และเครื่องมือตรวจสอบพื้นที่ให้บริการ (Unifi homepage — Unifi Home, Unifi Air, Fibre-To-The-Room and Check Coverage tool)"
     url: "https://www.unifi.com.my/"
     publisher: "Telekom Malaysia (TM)"
-  - title: "Maxis Home Fibre — plans, coverage check and family/mobile bundling"
+  - title: "Maxis Home Fibre — แพ็กเกจ การตรวจสอบพื้นที่ให้บริการ และการรวมแพ็กเกจครอบครัว/มือถือ (Maxis Home Fibre — plans, coverage check and family/mobile bundling)"
     url: "https://www.maxis.com.my/en/broadband/"
     publisher: "Maxis"
-  - title: "TIME Check Coverage"
+  - title: "TIME ตรวจสอบพื้นที่ให้บริการ (TIME Check Coverage)"
     url: "https://www.time.com.my/check-coverage"
     publisher: "TIME dotCom"
-  - title: "TIME Fibre for Landed Homes"
+  - title: "TIME Fibre สำหรับบ้านแนวราบ (TIME Fibre for Landed Homes)"
     url: "https://www.time.com.my/internet-for-landed-homes"
     publisher: "TIME dotCom"
-  - title: "Technical Standard of In-Building Fibre Cabling for Fibre-to-the-Premise (MTSFB TC G007)"
+  - title: "มาตรฐานทางเทคนิคการเดินสายไฟเบอร์ภายในอาคารสำหรับ Fibre-to-the-Premise (MTSFB TC G007) (Technical Standard of In-Building Fibre Cabling for Fibre-to-the-Premise (MTSFB TC G007))"
     url: "https://www.mcmc.gov.my/skmmgovmy/media/General/pdf/MTSFB-002-2009-TECHNICAL-STANDARD-OF-IN-BUILDING-FIBRE-CABLING-FOR-FIBRE-TO-THE-PREMISE.pdf"
-    publisher: "Malaysian Communications and Multimedia Commission (MCMC) / MTSFB"
+    publisher: "คณะกรรมการการสื่อสารและมัลติมีเดียมาเลเซีย (MCMC) / MTSFB"
 
 entity: "Home fibre broadband in Malaysia"
 relations:

@@ -57,13 +57,13 @@ verificationNeeded:
   - "在当前实务中，JPN 婚姻审裁处是否为某一地区默认的调解机构（Section 106(2) 允许双方均可接受的任何机构）。"
 updated: 2026-08-07
 sources:
-  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint"
+  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — 官方重印本 (Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "How to refer to Marriage Tribunal JPN Malaysia?"
+    publisher: "马来西亚总检察署"
+  - title: "如何向马来西亚JPN婚姻仲裁庭提交申请? (How to refer to Marriage Tribunal JPN Malaysia?)"
     url: "https://arinaong.com/refer-marriage-tribunal-jpn-malaysia/"
     publisher: "Arina Ong & Co (law firm)"
-  - title: "Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce"
+  - title: "非穆斯林婚姻、离婚与继承 — 民事婚姻与离婚 (Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce)"
     url: "https://www.wccpenang.org/non-muslim-marriage-sec1-civil-marriage/"
     publisher: "Women's Centre for Change (WCC), Penang"
 

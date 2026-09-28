@@ -40,21 +40,21 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Pendaftaran Kelahiran Biasa (Semenanjung)"
+  - title: "การจดทะเบียนเกิดปกติ (คาบสมุทร) (Pendaftaran Kelahiran Biasa (Semenanjung))"
     url: "https://www.jpn.gov.my/perkhidmatan/kelahiran/pendaftaran-kelahiran-biasa-semenanjung/"
-    publisher: "Jabatan Pendaftaran Negara (JPN)"
-  - title: "Late Registration of Birth (Peninsular)"
+    publisher: "กรมทะเบียนราษฎร์ (JPN)"
+  - title: "การจดทะเบียนเกิดล่าช้า (คาบสมุทร) (Late Registration of Birth (Peninsular))"
     url: "https://www.jpn.gov.my/en/services/birth/late-registration-of-birth-peninsular/"
-    publisher: "Jabatan Pendaftaran Negara (JPN)"
-  - title: "Carian/Cabutan Daftar Kelahiran (Semenanjung)"
+    publisher: "กรมทะเบียนราษฎร์ (JPN)"
+  - title: "การค้นหา/คัดสำเนาทะเบียนเกิด (คาบสมุทร) (Carian/Cabutan Daftar Kelahiran (Semenanjung))"
     url: "https://www.jpn.gov.my/perkhidmatan/kelahiran/carian-cabutan-daftar-kelahiran-semenanjung/"
-    publisher: "Jabatan Pendaftaran Negara (JPN)"
-  - title: "Pendaftaran Kelahiran Lambat (Sabah)"
+    publisher: "กรมทะเบียนราษฎร์ (JPN)"
+  - title: "การจดทะเบียนเกิดล่าช้า (ซาบาห์) (Pendaftaran Kelahiran Lambat (Sabah))"
     url: "https://www.jpn.gov.my/perkhidmatan/kelahiran/pendaftaran-kelahiran-lambat-sabah/"
-    publisher: "Jabatan Pendaftaran Negara (JPN)"
-  - title: "Portal JPN - Kelahiran"
+    publisher: "กรมทะเบียนราษฎร์ (JPN)"
+  - title: "พอร์ทัล JPN - การเกิด (Portal JPN - Kelahiran)"
     url: "https://www.jpn.gov.my/my/perkhidmatan/kelahiran"
-    publisher: "Jabatan Pendaftaran Negara (JPN)"
+    publisher: "กรมทะเบียนราษฎร์ (JPN)"
 
 entity: "Pendaftaran kelahiran di Malaysia (JPN)"
 relations:

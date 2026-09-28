@@ -57,16 +57,16 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Laws of Malaysia — Act 88, Official Secrets Act 1972 (Reprint incorporating all amendments up to 1 January 2006)"
+  - title: "말레이시아 법령 — Act 88, Official Secrets Act 1972(2006년 1월 1일까지의 모든 개정을 반영한 재판본) (Laws of Malaysia — Act 88, Official Secrets Act 1972 (Reprint incorporating all amendments up to 1 January 2006))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%2088.pdf"
-    publisher: "Pejabat Peguam Negara Malaysia (Commissioner of Law Revision)"
-  - title: "Memorandum on the Malaysian Official Secrets Act 1972"
+    publisher: "말레이시아 법무장관실 (Commissioner of Law Revision)"
+  - title: "말레이시아 Official Secrets Act 1972에 관한 각서 (Memorandum on the Malaysian Official Secrets Act 1972)"
     url: "https://www.article19.org/data/files/pdfs/analysis/malaysia-official-secrets-act-sept-2004.pdf"
     publisher: "ARTICLE 19 — Global Campaign for Free Expression"
-  - title: "Ezam slapped with two-year jail term for violating OSA"
+  - title: "OSA 위반으로 Ezam에게 징역 2년 선고 (Ezam slapped with two-year jail term for violating OSA)"
     url: "https://www.malaysiakini.com/news/12480"
     publisher: "Malaysiakini"
-  - title: "Freedom of Information Act must factor 'national harmony'"
+  - title: "정보자유법은 '국민 화합'을 고려해야 한다 (Freedom of Information Act must factor 'national harmony')"
     url: "https://www.thestar.com.my/news/nation/2025/03/30/freedom-of-information-act-must-factor-national-harmony"
     publisher: "The Star"
 

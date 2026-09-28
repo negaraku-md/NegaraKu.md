@@ -46,18 +46,18 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Garis Panduan Perancangan: Gated Community and Guarded Neighbourhood (GP022)"
+  - title: "Garis Panduan Perancangan: Komuniti Berpagar dan Kejiranan Berpengawal (GP022) (Garis Panduan Perancangan: Gated Community and Guarded Neighbourhood (GP022))"
     url: "https://www.mbdk.gov.my/sites/default/files/node/circular-guidelines/files/2024-02/Garis-Panduan-Guarded-and-Gated-Community.pdf"
     publisher: "Jabatan Perancangan Bandar dan Desa Semenanjung Malaysia, Kementerian Perumahan dan Kerajaan Tempatan"
     date: "2010-09-02"
-  - title: "Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction)"
+  - title: "Akta Jalan, Parit dan Bangunan 1974 (Akta 133) — teks cetakan semula rasmi, s.46 (Halangan) (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
     url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "Laws of Malaysia / Perbadanan Putrajaya"
-  - title: "Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body"
+  - title: "Akta Pengurusan Strata 2013 (Akta 757), s.17, 21, 32 — penubuhan, kuasa dan undang-undang kecil Badan Pengurusan Bersama (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"
     publisher: "Unannotated Statutes of Malaysia"
     date: "2015-06-01"
-  - title: "Case Commentary: Au Kean Hoe v Persatuan Penduduk D'Villa Equestrian"
+  - title: "Ulasan Kes: Au Kean Hoe v Persatuan Penduduk D'Villa Equestrian (Case Commentary: Au Kean Hoe v Persatuan Penduduk D'Villa Equestrian)"
     url: "https://hlplawyers.com/case-commentary-au-kean-hoe-v-persatuan-penduduk-dvilla-equestrian/"
     publisher: "HLP Lawyers"
 

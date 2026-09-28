@@ -52,19 +52,19 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "TM Stadium Nasional — Portal Rasmi Perbadanan Stadium Malaysia"
+  - title: "TM தேசிய அரங்கம் — மலேசிய அரங்க கழகத்தின் அதிகாரப்பூர்வ போர்டல் (TM Stadium Nasional — Portal Rasmi Perbadanan Stadium Malaysia)"
     url: "https://www.stadium.gov.my/venues/kuala-lumpur-sports-city/tm-stadium-nasional.html"
-    publisher: "Perbadanan Stadium Malaysia"
-  - title: "National Hockey Stadium — Portal Rasmi Perbadanan Stadium Malaysia"
+    publisher: "மலேசிய அரங்க கழகம்"
+  - title: "தேசிய ஹாக்கி அரங்கம் — மலேசிய அரங்க கழகத்தின் அதிகாரப்பூர்வ போர்டல் (National Hockey Stadium — Portal Rasmi Perbadanan Stadium Malaysia)"
     url: "https://www.stadium.gov.my/venues/kuala-lumpur-sports-city/national-hockey-stadium.html"
-    publisher: "Perbadanan Stadium Malaysia"
-  - title: "Infra Bukit Jalil / Kuala Lumpur Sports City — Perbadanan Stadium Malaysia"
+    publisher: "மலேசிய அரங்க கழகம்"
+  - title: "புக்கிட் ஜலீல் உள்கட்டமைப்பு / கோலாலம்பூர் விளையாட்டு நகரம் — மலேசிய அரங்க கழகம் (Infra Bukit Jalil / Kuala Lumpur Sports City — Perbadanan Stadium Malaysia)"
     url: "https://www.stadium.gov.my/venues/kuala-lumpur-sports-city/infra.html"
-    publisher: "Perbadanan Stadium Malaysia"
-  - title: "Perasmian Velodrom Nasional Malaysia"
+    publisher: "மலேசிய அரங்க கழகம்"
+  - title: "மலேசிய தேசிய வெலோட்ரோம் திறப்பு விழா (Perasmian Velodrom Nasional Malaysia)"
     url: "https://www.kkr.gov.my/en/node/41624"
-    publisher: "Kementerian Kerja Raya (KKR)"
-  - title: "Sepang International Circuit — Laman Rasmi Pengendali"
+    publisher: "பொதுப்பணித் துறை அமைச்சு (KKR)"
+  - title: "சேபாங் சர்வதேச பாதை — இயக்குநரின் அதிகாரப்பூர்வ தளம் (Sepang International Circuit — Laman Rasmi Pengendali)"
     url: "https://www.sepangcircuit.com/"
     publisher: "Sepang International Circuit"
 

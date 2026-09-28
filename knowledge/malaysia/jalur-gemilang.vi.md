@@ -49,12 +49,12 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Lambang Kebesaran Negara — Bab 2: Bendera Malaysia, Jalur Gemilang"
+  - title: "Biểu tượng Vinh quang Quốc gia — Chương 2: Quốc kỳ Malaysia, Jalur Gemilang (Lambang Kebesaran Negara — Bab 2: Bendera Malaysia, Jalur Gemilang)"
     url: "https://www.cgso.gov.my/wp-content/uploads/2026/01/lambang_kebesaran_negara.pdf"
-    publisher: "Jabatan Penerangan Malaysia, Kementerian Komunikasi dan Multimedia (dihoskan oleh Pejabat Ketua Pegawai Keselamatan Kerajaan)"
-  - title: "Sejarah Penciptaan Jalur Gemilang"
+    publisher: "Cục Thông tin Malaysia, Bộ Truyền thông và Đa phương tiện (được lưu trữ bởi Văn phòng Trưởng Cơ quan An ninh Chính phủ)"
+  - title: "Lịch sử ra đời của Jalur Gemilang (Sejarah Penciptaan Jalur Gemilang)"
     url: "https://www.mkn.gov.my/web/ms/2020/09/22/sejarah-penciptaan-jalur-gemilang/"
-    publisher: "Majlis Keselamatan Negara"
+    publisher: "Hội đồng An ninh Quốc gia"
     date: "2020-09-22"
 
 entity: "Jalur Gemilang"

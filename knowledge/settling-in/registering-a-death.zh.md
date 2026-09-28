@@ -39,15 +39,15 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Kematian — Portal JPN"
+  - title: "死亡 — JPN门户网站 (Kematian — Portal JPN)"
     url: "https://www.jpn.gov.my/my/perkhidmatan/kematian"
-    publisher: "Jabatan Pendaftaran Negara Malaysia (JPN)"
-  - title: "Ordinary Registration of Death (Peninsular)"
+    publisher: "国民登记局 (JPN)"
+  - title: "普通死亡登记(半岛) (Ordinary Registration of Death (Peninsular))"
     url: "https://www.jpn.gov.my/en/services/death/ordinary-registration-of-death-peninsular/"
-    publisher: "Jabatan Pendaftaran Negara Malaysia (JPN)"
-  - title: "Soalan Lazim — Pusaka Kecil"
+    publisher: "国民登记局 (JPN)"
+  - title: "常见问题 — 小型遗产 (Soalan Lazim — Pusaka Kecil)"
     url: "https://www.jkptg.gov.my/my/soalan-lazim-3?layout=edit&id=1084"
-    publisher: "Jabatan Ketua Pengarah Tanah dan Galian Persekutuan (JKPTG)"
+    publisher: "联邦土地及矿物总监署 (JKPTG)"
 
 entity: "Pendaftaran kematian di Malaysia"
 relations:

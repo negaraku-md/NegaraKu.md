@@ -35,21 +35,21 @@ revisions:
     reviewer: null
 updated: 2026-07-24
 sources:
-  - title: "Panduan Kemudahan Membawa Barangan Rumah (Household Effects) Dan Barangan Persendirian (Personal Effects) Dari Luar Negara"
+  - title: "คู่มือสิ่งอำนวยความสะดวกในการนำของใช้ในครัวเรือน (Household Effects) และของใช้ส่วนตัว (Personal Effects) จากต่างประเทศ (Panduan Kemudahan Membawa Barangan Rumah (Household Effects) Dan Barangan Persendirian (Personal Effects) Dari Luar Negara)"
     url: "https://www.customs.gov.my/en/cp/Pages/cp_hepe.aspx"
-    publisher: "Jabatan Kastam Diraja Malaysia (Royal Malaysian Customs Department)"
-  - title: "Approved Permit (AP)"
+    publisher: "กรมศุลกากรหลวงมาเลเซีย"
+  - title: "ใบอนุญาตที่ได้รับการอนุมัติ (AP) (Approved Permit (AP))"
     url: "https://www.miti.gov.my/index.php/pages/view/10605"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Individual AP"
+    publisher: "กระทรวงการลงทุน การค้าและอุตสาหกรรม (MITI)"
+  - title: "AP ส่วนบุคคล (Individual AP)"
     url: "https://www.miti.gov.my/index.php/pages/view/10643"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Approved Permit — FAQ"
+    publisher: "กระทรวงการลงทุน การค้าและอุตสาหกรรม (MITI)"
+  - title: "ใบอนุญาตที่ได้รับการอนุมัติ — คำถามที่พบบ่อย (Approved Permit — FAQ)"
     url: "https://www.miti.gov.my/index.php/pages/view/10621"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Implementation of Import Vehicle Registration"
+    publisher: "กระทรวงการลงทุน การค้าและอุตสาหกรรม (MITI)"
+  - title: "การดำเนินการจดทะเบียนยานพาหนะนำเข้า (Implementation of Import Vehicle Registration)"
     url: "https://www.jpj.gov.my/en/implementation-of-import-vehicle-registration/"
-    publisher: "Jabatan Pengangkutan Jalan (JPJ)"
+    publisher: "กรมการขนส่งทางบก (JPJ)"
 entity: "Household effects and vehicle import (Kastam / MITI / JPJ)"
 relations:
   - { rel: "administered-by", to: "miti" }

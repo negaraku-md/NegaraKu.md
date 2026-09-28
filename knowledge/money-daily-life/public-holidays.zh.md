@@ -40,15 +40,15 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Akta Hari Kelepasan 1951 (Akta 369) — s.1(2), s.3, s.8, s.9"
+  - title: "假期法令 1951（第369号法令）— 第1(2)、3、8、9条 (Akta Hari Kelepasan 1951 (Akta 369) — s.1(2), s.3, s.8, s.9)"
     url: "https://www.kabinet.gov.my/storage/2024/11/1951_12_31_act369.pdf"
-    publisher: "Jabatan Peguam Negara (AGC) / Bahagian Hal Ehwal Undang-Undang, Jabatan Perdana Menteri"
-  - title: "Holidays Ordinance (State of Sabah, Chapter 56) — s.3, s.4, s.9, First Schedule"
+    publisher: "总检察署 (AGC) / 首相署法律事务组"
+  - title: "假期条例（沙巴州，第56章）— 第3、4、9条，附表一 (Holidays Ordinance (State of Sabah, Chapter 56) — s.3, s.4, s.9, First Schedule)"
     url: "https://www.kabinet.gov.my/storage/2024/11/1948_06_17_holidayordinance_sabahcap56.pdf"
-    publisher: "State Attorney-General's Chambers, Sabah"
-  - title: "Public Holidays Ordinance (Sarawak, Chapter 8, 1958 Edition) — s.3, s.4, s.5, First Schedule"
+    publisher: "沙巴州总检察署"
+  - title: "公共假期条例（砂拉越，第8章，1958年版）— 第3、4、5条，附表一 (Public Holidays Ordinance (Sarawak, Chapter 8, 1958 Edition) — s.3, s.4, s.5, First Schedule)"
     url: "https://www.kabinet.gov.my/storage/2024/11/sarawak_public_holidays_ord_chapter8.pdf"
-    publisher: "State Attorney-General's Chambers, Sarawak"
+    publisher: "砂拉越州总检察署"
 
 related:
   - "public-holidays-malaysia"

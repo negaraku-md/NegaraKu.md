@@ -51,15 +51,15 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Fees — Estate Agency scale of fees (Seventh Schedule / Rule 48)"
+  - title: "கட்டணங்கள் — சொத்து முகவர் கட்டண அளவீடு (ஏழாவது அட்டவணை / விதி 48) (Fees — Estate Agency scale of fees (Seventh Schedule / Rule 48))"
     url: "https://lpeph.gov.my/fees"
-    publisher: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
-  - title: "Role of the Board"
+    publisher: "மதிப்பீட்டாளர், மதிப்பாய்வாளர், சொத்து முகவர் மற்றும் சொத்து மேலாளர்கள் வாரியம் (LPEPH/BOVAEP)"
+  - title: "வாரியத்தின் பங்கு (Role of the Board)"
     url: "https://lpeph.gov.my/role"
-    publisher: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
-  - title: "Search Listing (semakan pendaftaran & maklumat hubungan)"
+    publisher: "மதிப்பீட்டாளர், மதிப்பாய்வாளர், சொத்து முகவர் மற்றும் சொத்து மேலாளர்கள் வாரியம் (LPEPH/BOVAEP)"
+  - title: "பட்டியல் தேடல் (பதிவு & தொடர்பு தகவல் சரிபார்ப்பு) (Search Listing (semakan pendaftaran & maklumat hubungan))"
     url: "https://lpeph.gov.my/search-listing"
-    publisher: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
+    publisher: "மதிப்பீட்டாளர், மதிப்பாய்வாளர், சொத்து முகவர் மற்றும் சொத்து மேலாளர்கள் வாரியம் (LPEPH/BOVAEP)"
 
 entity: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
 relations:

@@ -63,24 +63,24 @@ revisions:
 
 updated: 2026-08-14
 sources:
-  - title: "Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23 (tangkap tanpa waran)"
+  - title: "Criminal Procedure Code(제593호법), 제13장 — 제107·108·108A·110조; 제23조(영장 없는 체포) (Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23 (tangkap tanpa waran))"
     url: "https://ccid.rmp.gov.my/Laws/Criminal_Prosedure_Code_Act_593.pdf"
-    publisher: "Polis DiRaja Malaysia (Jabatan Siasatan Jenayah Komersial)"
-  - title: "National Scam Response Centre (NSRC) — About NSRC (talian 997 beroperasi 8 pagi–8 malam; laporan polis berasingan diperlukan dalam 24 jam)"
+    publisher: "말레이시아 왕립경찰(상업범죄수사부)"
+  - title: "국가 사기 대응 센터(NSRC) — NSRC 소개(997 회선은 오전 8시~오후 8시 운영; 24시간 이내 별도 경찰 신고 필요) (National Scam Response Centre (NSRC) — About NSRC (talian 997 beroperasi 8 pagi–8 malam; laporan polis berasingan diperlukan dalam 24 jam))"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"
-    publisher: "Pusat Anti Jenayah Kewangan Kebangsaan (NFCC), Jabatan Perdana Menteri"
-  - title: "Maklumat mengenai NSRC — 997 beroperasi 8.00 pagi–8.00 malam; 'anda juga perlu membuat laporan polis'"
+    publisher: "국가 금융범죄센터 (NFCC), 총리실"
+  - title: "NSRC 관련 정보 — 997은 오전 8시~오후 8시 운영; '경찰 신고도 하셔야 합니다' (Maklumat mengenai NSRC — 997 beroperasi 8.00 pagi–8.00 malam; 'anda juga perlu membuat laporan polis')"
     url: "https://nfcc.jpm.gov.my/index.php/en/component/content/article/nsrc-info-link?catid=11&Itemid=114"
-    publisher: "NFCC, Jabatan Perdana Menteri"
-  - title: "997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September (pengumuman 26 Julai 2025)"
+    publisher: "NFCC, 총리실"
+  - title: "997 사기 핫라인 24시간 운영, 9월부터 통화는 경찰 신고로 처리 (2025년 7월 26일 발표) (997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September (pengumuman 26 Julai 2025))"
     url: "https://www.bernama.com/en/news.php?id=2449632"
     publisher: "Bernama"
-  - title: "Apa Itu MERS 999?"
+  - title: "MERS 999란? (Apa Itu MERS 999?)"
     url: "https://999.gov.my/mers-999/apa-itu-mers-999/"
-    publisher: "MERS 999 / Kementerian Komunikasi"
-  - title: "e-Reporting PDRM (Portal Rasmi) — Panduan"
+    publisher: "MERS 999 / 통신부"
+  - title: "PDRM 전자 신고(공식 포털) — 안내 (e-Reporting PDRM (Portal Rasmi) — Panduan)"
     url: "https://ereporting.rmp.gov.my/panduan.aspx"
-    publisher: "Polis DiRaja Malaysia (PDRM)"
+    publisher: "말레이시아 왕립경찰 (PDRM)"
 
 relations:
   - { rel: "related-to", to: "online-safety-act-malaysia" }

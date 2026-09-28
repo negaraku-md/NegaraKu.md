@@ -52,18 +52,18 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Kenali Malaysia — Bunga Kebangsaan"
+  - title: "மலேசியாவை அறிந்துகொள்ளுங்கள் — தேசிய மலர் (Kenali Malaysia — Bunga Kebangsaan)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/bunga-kebangsaan"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Bunga Raya: Fakta & Sejarah Bunga Kebangsaan Malaysia"
+    publisher: "மலேசிய அரசாங்கத்தின் அதிகாரப்பூர்வ வலைவாயில் (MyGovernment)"
+  - title: "செம்பருத்தி (Bunga Raya): மலேசியாவின் தேசிய மலரின் உண்மைகளும் வரலாறும் (Bunga Raya: Fakta & Sejarah Bunga Kebangsaan Malaysia)"
     url: "https://www.mkn.gov.my/web/ms/2024/08/05/bunga-raya-fakta-sejarah-bunga-kebangsaan-malaysia/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
-  - title: "Bunga Raya Merah Diisytihar Bunga Kebangsaan Negara"
+    publisher: "தேசிய பாதுகாப்பு கவுன்சில் (MKN)"
+  - title: "சிவப்பு செம்பருத்தி தேசிய மலராக அறிவிக்கப்பட்டது (Bunga Raya Merah Diisytihar Bunga Kebangsaan Negara)"
     url: "https://www.upm.edu.my/news/bunga_raya_merah_diisytihar_bunga_kebangsaan_negara-74916"
     publisher: "Universiti Putra Malaysia (UPM)"
-  - title: "Kenali Malaysia — Rukun Negara"
+  - title: "மலேசியாவை அறிந்துகொள்ளுங்கள் — ருக்குன் நெகாரா (Rukun Negara) (Kenali Malaysia — Rukun Negara)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
+    publisher: "மலேசிய அரசாங்கத்தின் அதிகாரப்பூர்வ வலைவாயில் (MyGovernment)"
 
 entity: "Bunga raya (Hibiscus rosa-sinensis)"
 wikidata: "Q159534"

@@ -40,12 +40,12 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Lambang Kebesaran Negara — Bab 1: Jata Negara"
+  - title: "நாட்டின் மாண்பு சின்னங்கள் — அத்தியாயம் 1: தேசிய சின்னம் (Lambang Kebesaran Negara — Bab 1: Jata Negara)"
     url: "https://www.cgso.gov.my/wp-content/uploads/2026/01/lambang_kebesaran_negara.pdf"
-    publisher: "Jabatan Penerangan Malaysia, Kementerian Komunikasi dan Multimedia (dihoskan oleh Pejabat Ketua Pegawai Keselamatan Kerajaan)"
-  - title: "Trivia Kemerdekaan 2022: Jata Negara"
+    publisher: "மலேசிய தகவல் துறை, தகவல் தொடர்பு மற்றும் பல்லூடகத் துறை அமைச்சு (அரசாங்கத் தலைமைப் பாதுகாப்பு அலுவலர் அலுவலகத்தால் வழங்கப்படுகிறது)"
+  - title: "சுதந்திர தின சிறு தகவல்கள் 2022: தேசிய சின்னம் (Trivia Kemerdekaan 2022: Jata Negara)"
     url: "https://www.mkn.gov.my/web/ms/2022/08/11/trivia-kemerdekaan-2022-jata-negara/"
-    publisher: "Majlis Keselamatan Negara"
+    publisher: "தேசிய பாதுகாப்பு கவுன்சில் (MKN)"
     date: "2022-08-11"
 
 entity: "Jata Negara"

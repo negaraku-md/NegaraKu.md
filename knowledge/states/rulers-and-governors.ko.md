@@ -55,15 +55,15 @@ sensitivity: "royalty"
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula, sehingga 15 Oktober 2020) — Perkara 3(3), 32, 38, 71, 160(2), 181, Jadual Kelima, dan Jadual Kelapan seksyen 19A–19D dan 22"
+  - title: "연방헌법 (재판, 2020년 10월 15일 기준) — 제3(3)조, 제32조, 제38조, 제71조, 제160(2)조, 제181조, 제5부칙 및 제8부칙 제19A–19D조·제22조 (Perlembagaan Persekutuan (Cetakan Semula, sehingga 15 Oktober 2020) — Perkara 3(3), 32, 38, 71, 160(2), 181, Jadual Kelima, dan Jadual Kelapan seksyen 19A–19D dan 22)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara (AGC)"
-  - title: "Maklumat Majlis Raja-Raja — komposisi, fungsi dan gelaran ketua negeri"
+    publisher: "말레이시아 법무장관실 (AGC)"
+  - title: "통치자 회의 정보 — 구성, 기능 및 주 원수의 칭호 (Maklumat Majlis Raja-Raja — komposisi, fungsi dan gelaran ketua negeri)"
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja / Majlis Raja-Raja"
-  - title: "Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri"
+    publisher: "통치자 국새 보관관실 / 통치자 회의"
+  - title: "말라카주 정부 공식 포털 — 주 지사 (Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri)"
     url: "https://www.melaka.gov.my/ms/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
-    publisher: "Kerajaan Negeri Melaka"
+    publisher: "말라카주 정부"
 
 entity: "Ketua Negeri Malaysia"
 relations:

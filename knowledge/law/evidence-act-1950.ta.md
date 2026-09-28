@@ -53,15 +53,15 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Laws of Malaysia — Act 56, Evidence Act 1950 (senarai rasmi versi & cetakan semula)"
+  - title: "மலேசியா சட்டங்கள் — Act 56, Evidence Act 1950 (பதிப்புகள் மற்றும் மறுபதிப்புகளின் அதிகாரப்பூர்வ பட்டியல்) (Laws of Malaysia — Act 56, Evidence Act 1950 (senarai rasmi versi & cetakan semula))"
     url: "https://lom.agc.gov.my/act-detail.php?act=56&lang=BI"
-    publisher: "Pejabat Peguam Negara Malaysia (Attorney-General's Chambers) — penerbit rasmi Undang-Undang Malaysia"
-  - title: "Undang-Undang Malaysia — Akta 56, Akta Keterangan 1950 (senarai rasmi versi Bahasa Melayu)"
+    publisher: "மலேசியா அரசு வழக்கறிஞர் அலுவலகம் (Attorney-General's Chambers) — மலேசியா சட்டங்களின் அதிகாரப்பூர்வ வெளியீட்டாளர்"
+  - title: "மலேசியா சட்டங்கள் — Akta 56, Akta Keterangan 1950 (மலாய் மொழிப் பதிப்புகளின் அதிகாரப்பூர்வ பட்டியல்) (Undang-Undang Malaysia — Akta 56, Akta Keterangan 1950 (senarai rasmi versi Bahasa Melayu))"
     url: "https://lom.agc.gov.my/act-detail.php?act=56&lang=BM"
-    publisher: "Pejabat Peguam Negara Malaysia (Attorney-General's Chambers)"
-  - title: "Evidence Act 1950 (Act 56) — teks penuh cetakan semula rasmi, setakat 1 Disember 2012"
+    publisher: "மலேசியா அரசு வழக்கறிஞர் அலுவலகம் (Attorney-General's Chambers)"
+  - title: "Evidence Act 1950 (Act 56) — அதிகாரப்பூர்வ மறுபதிப்பின் முழு உரை, 2012 டிசம்பர் 1 வரை (Evidence Act 1950 (Act 56) — teks penuh cetakan semula rasmi, setakat 1 Disember 2012)"
     url: "https://ccid.rmp.gov.my/Laws/Act_56_-_Evidence_Act_1950.pdf"
-    publisher: "Salinan teks penuh cetakan semula rasmi yang dihoskan oleh Polis Diraja Malaysia (Jabatan Siasatan Jenayah Komersial)"
+    publisher: "மலேசிய அரச காவல்துறை (வணிகக் குற்ற விசாரணைத் துறை) மூலம் வழங்கப்படும் அதிகாரப்பூர்வ மறுபதிப்பின் முழு உரை நகல்"
 
 entity: "Evidence Act 1950"
 wikidata: "Q12682327"

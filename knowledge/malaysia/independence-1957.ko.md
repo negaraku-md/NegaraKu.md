@@ -45,17 +45,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Arkib Negara Malaysia (National Archives of Malaysia)"
+  - title: "말레이시아 국립문서보관소 (Arkib Negara Malaysia (National Archives of Malaysia))"
     url: "https://www.arkib.gov.my/"
-    publisher: "Arkib Negara Malaysia"
-  - title: "Federal Constitution — Laws of Malaysia"
+    publisher: "말레이시아 국립문서보관소"
+  - title: "연방헌법 — 말레이시아 법률 (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Official Portal of the Parliament of Malaysia"
+    publisher: "말레이시아 법무장관실"
+  - title: "말레이시아 국회 공식 포털 (Official Portal of the Parliament of Malaysia)"
     url: "https://www.parlimen.gov.my/index.php?lang=en"
-    publisher: "Parliament of Malaysia"
-  - title: "The Reid Commission Report, 1957"
-    publisher: "Government of the United Kingdom / Federation of Malaya"
+    publisher: "말레이시아 국회"
+  - title: "리드 위원회 보고서, 1957년 (The Reid Commission Report, 1957)"
+    publisher: "영국 정부 / 말라야 연방"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "formation-of-malaysia-1963" }

@@ -54,18 +54,18 @@ sensitivity: "legal-proceedings"
 created: 2026-08-27
 updated: 2026-08-27
 sources:
-  - title: "Najib Razak — Facts, Biography & 1MDB"
+  - title: "纳吉·拉扎克 — 事实、生平与1MDB (Najib Razak — Facts, Biography & 1MDB)"
     url: "https://www.britannica.com/biography/Najib-Razak"
     publisher: "Encyclopædia Britannica"
-  - title: "Najib Razak: Malaysia's ex-PM starts jail term after final appeal fails"
+  - title: "纳吉·拉扎克：马来西亚前首相在最终上诉失败后开始服刑 (Najib Razak: Malaysia's ex-PM starts jail term after final appeal fails)"
     url: "https://www.bbc.com/news/world-asia-62642643"
     publisher: "BBC News"
-  - title: "Malaysia halves ex-PM Najib Razak's jail term in 1MDB corruption scandal"
+  - title: "马来西亚将前首相纳吉·拉扎克在1MDB贪腐丑闻中的刑期减半 (Malaysia halves ex-PM Najib Razak's jail term in 1MDB corruption scandal)"
     url: "https://www.aljazeera.com/news/2024/2/2/malaysia-reduces-sentence-of-former-pm-najib-razak"
     publisher: "Al Jazeera"
-  - title: "Prime Minister's Office of Malaysia"
+  - title: "马来西亚首相署 (Prime Minister's Office of Malaysia)"
     url: "https://www.pmo.gov.my"
-    publisher: "Prime Minister's Office of Malaysia"
+    publisher: "马来西亚首相署"
 
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["纳吉·拉萨", "Mohd Najib Abdul Razak", "马来西亚第六任首相", "1MDB", "SRC International"]

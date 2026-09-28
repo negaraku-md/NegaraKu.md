@@ -51,18 +51,18 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Certificate of Completion and Compliance (CCC) FAQ"
+  - title: "ใบรับรองการก่อสร้างแล้วเสร็จและเป็นไปตามข้อกำหนด (CCC) คำถามที่พบบ่อย (Certificate of Completion and Compliance (CCC) FAQ)"
     url: "https://jkt.kpkt.gov.my/about-lgd/faqs/certificate-of-completion-and-compliance-ccc-faq"
-    publisher: "Jabatan Kerajaan Tempatan (JKT), KPKT"
-  - title: "Soalan Lazim Jabatan Kawalan Bangunan"
+    publisher: "กรมการปกครองท้องถิ่น (JKT), KPKT"
+  - title: "คำถามที่พบบ่อยของฝ่ายควบคุมอาคาร (Soalan Lazim Jabatan Kawalan Bangunan)"
     url: "https://www.mbpj.gov.my/en/node/1344"
-    publisher: "Majlis Bandaraya Petaling Jaya (MBPJ)"
-  - title: "Kelulusan Kerja — Panduan Pemilik Rumah"
+    publisher: "เทศบาลนครเปตาลิงจายา (MBPJ)"
+  - title: "การอนุมัติงานก่อสร้าง — คู่มือเจ้าของบ้าน (Kelulusan Kerja — Panduan Pemilik Rumah)"
     url: "https://www.cidb.gov.my/jombinasempurna/panduan-kontraktor/kelulusan-kerja/"
-    publisher: "Lembaga Pembangunan Industri Pembinaan (CIDB)"
-  - title: "Law & Realty: Understanding the New CCC"
+    publisher: "คณะกรรมการพัฒนาอุตสาหกรรมก่อสร้าง (CIDB)"
+  - title: "กฎหมายและอสังหาริมทรัพย์: ทำความเข้าใจ CCC ฉบับใหม่ (Law & Realty: Understanding the New CCC)"
     url: "https://www.malaysianbar.org.my/conveyancing_practice/law_realty_understanding_the_new_ccc.html"
-    publisher: "Majlis Peguam Malaysia (Malaysian Bar)"
+    publisher: "สภาทนายความมาเลเซีย (Malaysian Bar)"
 
 entity: "Sijil Perakuan Siap dan Pematuhan (CCC)"
 relations:

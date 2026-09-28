@@ -50,12 +50,12 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Lambang Kebesaran Negara — Bab 2: Bendera Malaysia, Jalur Gemilang"
+  - title: "国家の尊厳の象徴 — 第2章：マレーシア国旗、ジャルール・ジェミラン (Lambang Kebesaran Negara — Bab 2: Bendera Malaysia, Jalur Gemilang)"
     url: "https://www.cgso.gov.my/wp-content/uploads/2026/01/lambang_kebesaran_negara.pdf"
-    publisher: "Jabatan Penerangan Malaysia, Kementerian Komunikasi dan Multimedia (dihoskan oleh Pejabat Ketua Pegawai Keselamatan Kerajaan)"
-  - title: "Sejarah Penciptaan Jalur Gemilang"
+    publisher: "マレーシア情報局、通信マルチメディア省（政府主席保安官事務所がホスト）"
+  - title: "ジャルール・ジェミランの制定の歴史 (Sejarah Penciptaan Jalur Gemilang)"
     url: "https://www.mkn.gov.my/web/ms/2020/09/22/sejarah-penciptaan-jalur-gemilang/"
-    publisher: "Majlis Keselamatan Negara"
+    publisher: "国家安全保障会議"
     date: "2020-09-22"
 
 entity: "Jalur Gemilang"

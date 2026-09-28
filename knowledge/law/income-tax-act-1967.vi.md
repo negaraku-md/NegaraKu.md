@@ -47,16 +47,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Act 53 — Income Tax Act 1967, principal Act timeline and subsidiary legislation"
+  - title: "Act 53 — Income Tax Act 1967, dòng thời gian Đạo luật gốc và văn bản pháp luật phụ (Act 53 — Income Tax Act 1967, principal Act timeline and subsidiary legislation)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
     date: "2024-05-01"
-  - title: "Lembaga Hasil Dalam Negeri Malaysia"
+  - title: "Cục Thuế Nội địa Malaysia (Lembaga Hasil Dalam Negeri Malaysia)"
     url: "https://www.hasil.gov.my/"
-    publisher: "LHDN"
-  - title: "Profil Korporat — Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "Cục Thuế Nội địa (LHDN)"
+  - title: "Hồ sơ Doanh nghiệp — Cục Thuế Nội địa Malaysia (Profil Korporat — Lembaga Hasil Dalam Negeri Malaysia)"
     url: "https://www.hasil.gov.my/mengenai-hasil/profil-korporat/"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
 
 entity: "Income Tax Act 1967"
 wikidata: "Q12682321"

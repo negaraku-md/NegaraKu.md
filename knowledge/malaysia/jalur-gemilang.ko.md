@@ -50,12 +50,12 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Lambang Kebesaran Negara — Bab 2: Bendera Malaysia, Jalur Gemilang"
+  - title: "국가 존엄의 상징 — 제2장: 말레이시아 국기, 잘루르 그밀랑 (Lambang Kebesaran Negara — Bab 2: Bendera Malaysia, Jalur Gemilang)"
     url: "https://www.cgso.gov.my/wp-content/uploads/2026/01/lambang_kebesaran_negara.pdf"
-    publisher: "Jabatan Penerangan Malaysia, Kementerian Komunikasi dan Multimedia (dihoskan oleh Pejabat Ketua Pegawai Keselamatan Kerajaan)"
-  - title: "Sejarah Penciptaan Jalur Gemilang"
+    publisher: "말레이시아 공보국, 통신멀티미디어부 (정부 수석보안관실 호스팅)"
+  - title: "잘루르 그밀랑 제정의 역사 (Sejarah Penciptaan Jalur Gemilang)"
     url: "https://www.mkn.gov.my/web/ms/2020/09/22/sejarah-penciptaan-jalur-gemilang/"
-    publisher: "Majlis Keselamatan Negara"
+    publisher: "국가안전보장회의"
     date: "2020-09-22"
 
 entity: "Jalur Gemilang"

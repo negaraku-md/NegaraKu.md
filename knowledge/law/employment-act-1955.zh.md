@@ -52,19 +52,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Act 265 — Employment Act 1955, principal Act timeline and amendment history"
+  - title: "Act 265 — Employment Act 1955,主体法令时间线及修订沿革 (Act 265 — Employment Act 1955, principal Act timeline and amendment history)"
     url: "https://lom.agc.gov.my/act-detail.php?act=265"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "马来西亚总检察署"
     date: "2023-08-01"
-  - title: "Akta Kerja 1955 (Akta 265)"
+  - title: "Akta Kerja 1955 (Akta 265) (Akta Kerja 1955 (Akta 265))"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
-  - title: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "马来西亚半岛劳工局"
+  - title: "马来西亚半岛劳工局 (Jabatan Tenaga Kerja Semenanjung Malaysia)"
     url: "https://jtksm.mohr.gov.my/index.php/en"
-    publisher: "JTKSM"
-  - title: "Ministry of Human Resources Malaysia"
+    publisher: "马来西亚半岛劳工局 (JTKSM)"
+  - title: "马来西亚人力资源部 (Ministry of Human Resources Malaysia)"
     url: "https://www.mohr.gov.my/"
-    publisher: "MOHR"
+    publisher: "人力资源部 (MOHR)"
 
 entity: "Employment Act 1955"
 wikidata: "Q117829236"

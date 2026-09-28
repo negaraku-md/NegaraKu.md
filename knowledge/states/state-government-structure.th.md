@@ -41,19 +41,19 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution — Ninth Schedule (Articles 74 and 77): Federal List, State List and Concurrent List"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ — ตารางที่เก้า (มาตรา 74 และ 77): บัญชีสหพันธรัฐ, บัญชีรัฐ และบัญชีร่วม (Federal Constitution — Ninth Schedule (Articles 74 and 77): Federal List, State List and Concurrent List)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/NinthSchedule.pdf"
-    publisher: "Sabah State Attorney-General's Chambers (reproducing the Federal Constitution)"
+    publisher: "สำนักงานอัยการสูงสุดรัฐซาบาห์ (จัดพิมพ์ซ้ำรัฐธรรมนูญแห่งสหพันธรัฐ)"
     date: "2012"
-  - title: "Constitution of the State of Sabah (Reprint, as at January 2020) — Articles 1-11 (Head of State and Executive), 13-23 (Legislature), 26 (Legislative power) and 43 (Amendment)"
+  - title: "รัฐธรรมนูญแห่งรัฐซาบาห์ (ฉบับพิมพ์ซ้ำ, ณ เดือนมกราคม 2020) — มาตรา 1-11 (ประมุขรัฐและฝ่ายบริหาร), 13-23 (ฝ่ายนิติบัญญัติ), 26 (อำนาจนิติบัญญัติ) และ 43 (การแก้ไข) (Constitution of the State of Sabah (Reprint, as at January 2020) — Articles 1-11 (Head of State and Executive), 13-23 (Legislature), 26 (Legislative power) and 43 (Amendment))"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/TheConstitutionOfTheStateOfSabah_5_0.pdf"
-    publisher: "Sabah State Attorney-General's Chambers"
+    publisher: "สำนักงานอัยการสูงสุดรัฐซาบาห์"
     date: "2020"
-  - title: "Federal Constitution (Reprint, as at 15 October 2020) — Article 43 (Prime Minister and Cabinet) and Article 71 with the Eighth Schedule (essential provisions for State Constitutions)"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ (ฉบับพิมพ์ซ้ำ, ณ วันที่ 15 ตุลาคม 2020) — มาตรา 43 (นายกรัฐมนตรีและคณะรัฐมนตรี) และมาตรา 71 พร้อมตารางที่แปด (บทบัญญัติสำคัญสำหรับรัฐธรรมนูญของรัฐ) (Federal Constitution (Reprint, as at 15 October 2020) — Article 43 (Prime Minister and Cabinet) and Article 71 with the Eighth Schedule (essential provisions for State Constitutions))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri (Prime Minister's Department)"
+    publisher: "สำนักนายกรัฐมนตรี"
     date: "2020"
-  - title: "Powers and functions of state rulers"
+  - title: "อำนาจและหน้าที่ของผู้ปกครองรัฐ (Powers and functions of state rulers)"
     url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/legal-news/powers-and-functions-of-state-rulers"
     publisher: "Malaysian Bar"
 

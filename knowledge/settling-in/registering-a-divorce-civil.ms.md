@@ -57,13 +57,13 @@ verificationNeeded:
   - "Sama ada tribunal perkahwinan JPN, dalam amalan semasa, merupakan badan pendamaian lalai bagi sesuatu kawasan (Section 106(2) membenarkan mana-mana badan yang boleh diterima oleh kedua-dua pihak)."
 updated: 2026-08-07
 sources:
-  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint"
+  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — cetakan semula rasmi (Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "How to refer to Marriage Tribunal JPN Malaysia?"
+    publisher: "Jabatan Peguam Negara Malaysia"
+  - title: "Bagaimana untuk merujuk kepada Tribunal Perkahwinan JPN Malaysia? (How to refer to Marriage Tribunal JPN Malaysia?)"
     url: "https://arinaong.com/refer-marriage-tribunal-jpn-malaysia/"
     publisher: "Arina Ong & Co (law firm)"
-  - title: "Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce"
+  - title: "Perkahwinan, Perceraian & Pewarisan Bukan Islam — Perkahwinan & Perceraian Sivil (Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce)"
     url: "https://www.wccpenang.org/non-muslim-marriage-sec1-civil-marriage/"
     publisher: "Women's Centre for Change (WCC), Penang"
 

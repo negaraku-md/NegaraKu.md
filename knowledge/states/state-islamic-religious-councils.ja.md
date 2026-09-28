@@ -52,18 +52,18 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "State Islamic Religious Council (MAIN)"
+  - title: "州イスラム宗教評議会 (MAIN) (State Islamic Religious Council (MAIN))"
     url: "https://www.jawhar.gov.my/en/state-islamic-religious-council-main/"
-    publisher: "Jabatan Wakaf, Zakat dan Haji (JAWHAR)"
-  - title: "Malaysia 1957 (rev. 2007) Constitution — Article 3, 11, 74"
+    publisher: "ワクフ・ザカート・ハッジ局 (JAWHAR)"
+  - title: "マレーシア1957年(2007年改訂)憲法 — 第3条、第11条、第74条 (Malaysia 1957 (rev. 2007) Constitution — Article 3, 11, 74)"
     url: "https://www.constituteproject.org/constitution/Malaysia_2007"
     publisher: "Constitute Project"
-  - title: "Pengenalan Wakaf"
+  - title: "ワクフの紹介 (Pengenalan Wakaf)"
     url: "https://www.ywm.gov.my/pengenalan-wakaf"
-    publisher: "Yayasan Waqaf Malaysia"
-  - title: "Multaqa Jawatankuasa Fatwa Seluruh Malaysia"
+    publisher: "マレーシア・ワクフ財団"
+  - title: "全マレーシア・ファトワ委員会ムルタカ(会合)(Multaqa Jawatankuasa Fatwa Seluruh Malaysia)"
     url: "https://www.islam.gov.my/en/berita/1100-multaqa-jawatankuasa-fatwa-seluruh-malaysia"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+    publisher: "マレーシア・イスラム開発局 (JAKIM)"
 
 entity: "Majlis Agama Islam Negeri"
 relations:

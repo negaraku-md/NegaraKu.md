@@ -53,15 +53,15 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Laws of Malaysia — Act 56, Evidence Act 1950 (senarai rasmi versi & cetakan semula)"
+  - title: "马来西亚法律 — Act 56, Evidence Act 1950(官方版本及重印本清单) (Laws of Malaysia — Act 56, Evidence Act 1950 (senarai rasmi versi & cetakan semula))"
     url: "https://lom.agc.gov.my/act-detail.php?act=56&lang=BI"
-    publisher: "Pejabat Peguam Negara Malaysia (Attorney-General's Chambers) — penerbit rasmi Undang-Undang Malaysia"
-  - title: "Undang-Undang Malaysia — Akta 56, Akta Keterangan 1950 (senarai rasmi versi Bahasa Melayu)"
+    publisher: "马来西亚总检察署 (Attorney-General's Chambers) — 马来西亚法律官方出版者"
+  - title: "马来西亚法律 — Akta 56, Akta Keterangan 1950(马来文版本官方清单) (Undang-Undang Malaysia — Akta 56, Akta Keterangan 1950 (senarai rasmi versi Bahasa Melayu))"
     url: "https://lom.agc.gov.my/act-detail.php?act=56&lang=BM"
-    publisher: "Pejabat Peguam Negara Malaysia (Attorney-General's Chambers)"
-  - title: "Evidence Act 1950 (Act 56) — teks penuh cetakan semula rasmi, setakat 1 Disember 2012"
+    publisher: "马来西亚总检察署 (Attorney-General's Chambers)"
+  - title: "Evidence Act 1950 (Act 56) — 官方重印本全文,截至2012年12月1日 (Evidence Act 1950 (Act 56) — teks penuh cetakan semula rasmi, setakat 1 Disember 2012)"
     url: "https://ccid.rmp.gov.my/Laws/Act_56_-_Evidence_Act_1950.pdf"
-    publisher: "Salinan teks penuh cetakan semula rasmi yang dihoskan oleh Polis Diraja Malaysia (Jabatan Siasatan Jenayah Komersial)"
+    publisher: "由马来西亚皇家警察(商业罪案调查部)托管的官方重印本全文副本"
 
 entity: "Evidence Act 1950"
 wikidata: "Q12682327"

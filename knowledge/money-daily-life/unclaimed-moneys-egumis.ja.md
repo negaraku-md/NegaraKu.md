@@ -51,15 +51,15 @@ verificationNeeded:
   - "eGUMISポータルの開始年——二次的な要約にのみ現れており、公式情報源からは確認されていない。"
 updated: 2026-08-08
 sources:
-  - title: "Unclaimed Money"
+  - title: "未請求金 (Unclaimed Money)"
     url: "https://www.anm.gov.my/en/public/unclaimed-money"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "FAQ - eGUMIS"
+    publisher: "マレーシア会計総監庁（JANM）"
+  - title: "よくある質問 - eGUMIS (FAQ - eGUMIS)"
     url: "https://egumis.anm.gov.my/faq?lang=en"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "Unclaimed Moneys and CDS-MOF (FAQ)"
+    publisher: "マレーシア会計総監庁（JANM）"
+  - title: "未請求金とCDS-MOF（よくある質問） (Unclaimed Moneys and CDS-MOF (FAQ))"
     url: "https://www.anm.gov.my/en/faqs/unclaimed-moneys-and-cds-mof"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
+    publisher: "マレーシア会計総監庁（JANM）"
 
 entity: "eGUMIS"
 relations:

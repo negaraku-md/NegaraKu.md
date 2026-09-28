@@ -49,15 +49,15 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Act 333 — Road Transport Act 1987, principal Act record and amendment timeline"
+  - title: "Act 333 — Road Transport Act 1987, 주법률 기록 및 개정 연혁 (Act 333 — Road Transport Act 1987, principal Act record and amendment timeline)"
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&lang=BI&act=333"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Act 333 - Road Transport Act 1987 (Act text)"
+    publisher: "말레이시아 법무장관실"
+  - title: "Act 333 - Road Transport Act 1987 (법령 본문) (Act 333 - Road Transport Act 1987 (Act text))"
     url: "https://www.mot.gov.my/en/Documents/Act%20333%20-%20Road%20Transport%20Act%201987.pdf"
-    publisher: "Ministry of Transport Malaysia"
-  - title: "Act 333"
+    publisher: "말레이시아 교통부"
+  - title: "Act 333 (Act 333)"
     url: "https://www.jpj.gov.my/en/act-333/"
-    publisher: "Road Transport Department Malaysia (JPJ)"
+    publisher: "말레이시아 도로교통국(JPJ)"
 
 entity: "Road Transport Act 1987"
 wikidata: "Q27962026"

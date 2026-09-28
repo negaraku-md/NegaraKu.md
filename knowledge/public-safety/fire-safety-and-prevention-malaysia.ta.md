@@ -50,16 +50,16 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Portal Rasmi Jabatan Bomba dan Penyelamat Malaysia (JBPM)"
+  - title: "மலேசிய தீயணைப்பு மற்றும் மீட்புத் துறையின் அதிகாரப்பூர்வ இணையவாயில் (JBPM) (Portal Rasmi Jabatan Bomba dan Penyelamat Malaysia (JBPM))"
     url: "https://www.bomba.gov.my"
-    publisher: "Jabatan Bomba dan Penyelamat Malaysia"
-  - title: "Does Your Building Require a Fire Certificate (FC) — Perakuan Bomba"
+    publisher: "மலேசிய தீயணைப்பு மற்றும் மீட்புத் துறை"
+  - title: "உங்கள் கட்டிடத்திற்கு தீ சான்றிதழ் (FC) தேவையா — Perakuan Bomba (Does Your Building Require a Fire Certificate (FC) — Perakuan Bomba)"
     url: "https://ipm.my/does-your-building-require-a-fire-certifcate-fc/"
     publisher: "Institute of Property Management (IPM)"
-  - title: "Fire Certificate Malaysia: Application and Renewal Guide"
+  - title: "மலேசியா தீ சான்றிதழ்: விண்ணப்பம் மற்றும் புதுப்பித்தல் வழிகாட்டி (Fire Certificate Malaysia: Application and Renewal Guide)"
     url: "https://www.palcon.com.my/fire-certificate-application-malaysia/"
     publisher: "Palcon"
-  - title: "16,111 Kes Kebakaran Direkod Sepanjang 2025, Kerugian Cecah RM2.09 Bilion"
+  - title: "2025 ஆண்டு முழுவதும் 16,111 தீ விபத்து வழக்குகள் பதிவு, இழப்பு RM2.09 பில்லியனை எட்டியது (16,111 Kes Kebakaran Direkod Sepanjang 2025, Kerugian Cecah RM2.09 Bilion)"
     url: "https://bernama.com/bm/news.php?id=2514748"
     publisher: "BERNAMA"
 

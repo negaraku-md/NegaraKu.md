@@ -44,17 +44,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Arkib Negara Malaysia (National Archives of Malaysia)"
+  - title: "Cục Lưu trữ Quốc gia Malaysia (Arkib Negara Malaysia (National Archives of Malaysia))"
     url: "https://www.arkib.gov.my/"
-    publisher: "Arkib Negara Malaysia"
-  - title: "Federal Constitution — Laws of Malaysia"
+    publisher: "Cục Lưu trữ Quốc gia Malaysia"
+  - title: "Hiến pháp Liên bang — Luật pháp Malaysia (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Sarawak Government Official Portal"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
+  - title: "Cổng thông tin chính thức của Chính quyền bang Sarawak (Sarawak Government Official Portal)"
     url: "https://sarawak.gov.my/"
-    publisher: "Government of Sarawak"
-  - title: "Cobbold Commission Report, 1962"
-    publisher: "Government of the United Kingdom / Federation of Malaya"
+    publisher: "Chính quyền bang Sarawak"
+  - title: "Báo cáo Ủy ban Cobbold, 1962 (Cobbold Commission Report, 1962)"
+    publisher: "Chính phủ Vương quốc Anh / Liên bang Malaya"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "independence-1957" }

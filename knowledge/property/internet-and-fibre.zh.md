@@ -40,24 +40,24 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "JENDELA (Jalinan Digital Negara) — official overview and Phase 1 targets"
+  - title: "JENDELA（国家数字网络）— 官方概览与第一阶段目标 (JENDELA (Jalinan Digital Negara) — official overview and Phase 1 targets)"
     url: "https://myjendela.my/"
-    publisher: "JENDELA / Malaysian Communications and Multimedia Commission (MCMC)"
-  - title: "Unifi homepage — Unifi Home, Unifi Air, Fibre-To-The-Room and Check Coverage tool"
+    publisher: "JENDELA / 马来西亚通讯及多媒体委员会 (MCMC)"
+  - title: "Unifi主页 — Unifi Home、Unifi Air、Fibre-To-The-Room及覆盖范围查询工具 (Unifi homepage — Unifi Home, Unifi Air, Fibre-To-The-Room and Check Coverage tool)"
     url: "https://www.unifi.com.my/"
     publisher: "Telekom Malaysia (TM)"
-  - title: "Maxis Home Fibre — plans, coverage check and family/mobile bundling"
+  - title: "Maxis Home Fibre — 配套、覆盖范围查询及家庭/移动配套组合 (Maxis Home Fibre — plans, coverage check and family/mobile bundling)"
     url: "https://www.maxis.com.my/en/broadband/"
     publisher: "Maxis"
-  - title: "TIME Check Coverage"
+  - title: "TIME覆盖范围查询 (TIME Check Coverage)"
     url: "https://www.time.com.my/check-coverage"
     publisher: "TIME dotCom"
-  - title: "TIME Fibre for Landed Homes"
+  - title: "适用于独立式房屋的TIME Fibre (TIME Fibre for Landed Homes)"
     url: "https://www.time.com.my/internet-for-landed-homes"
     publisher: "TIME dotCom"
-  - title: "Technical Standard of In-Building Fibre Cabling for Fibre-to-the-Premise (MTSFB TC G007)"
+  - title: "光纤入户（Fibre-to-the-Premise）楼内光纤布线技术标准（MTSFB TC G007） (Technical Standard of In-Building Fibre Cabling for Fibre-to-the-Premise (MTSFB TC G007))"
     url: "https://www.mcmc.gov.my/skmmgovmy/media/General/pdf/MTSFB-002-2009-TECHNICAL-STANDARD-OF-IN-BUILDING-FIBRE-CABLING-FOR-FIBRE-TO-THE-PREMISE.pdf"
-    publisher: "Malaysian Communications and Multimedia Commission (MCMC) / MTSFB"
+    publisher: "马来西亚通讯及多媒体委员会 (MCMC) / MTSFB"
 
 entity: "Home fibre broadband in Malaysia"
 relations:

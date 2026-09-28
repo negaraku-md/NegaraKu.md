@@ -63,24 +63,24 @@ revisions:
 
 updated: 2026-08-14
 sources:
-  - title: "Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23 (tangkap tanpa waran)"
+  - title: "Criminal Procedure Code (Act 593), அத்தியாயம் XIII — பிரிவுகள் 107, 108, 108A, 110; பிரிவு 23 (உத்தரவின்றி கைது) (Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23 (tangkap tanpa waran))"
     url: "https://ccid.rmp.gov.my/Laws/Criminal_Prosedure_Code_Act_593.pdf"
-    publisher: "Polis DiRaja Malaysia (Jabatan Siasatan Jenayah Komersial)"
-  - title: "National Scam Response Centre (NSRC) — About NSRC (talian 997 beroperasi 8 pagi–8 malam; laporan polis berasingan diperlukan dalam 24 jam)"
+    publisher: "மலேசிய அரச காவல்துறை (வணிகக் குற்ற விசாரணைத் துறை)"
+  - title: "தேசிய மோசடி பதிலளிப்பு மையம் (NSRC) — NSRC பற்றி (997 தொலைபேசி காலை 8 மணி முதல் இரவு 8 மணி வரை இயங்குகிறது; 24 மணி நேரத்திற்குள் தனி காவல் புகார் தேவை) (National Scam Response Centre (NSRC) — About NSRC (talian 997 beroperasi 8 pagi–8 malam; laporan polis berasingan diperlukan dalam 24 jam))"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"
-    publisher: "Pusat Anti Jenayah Kewangan Kebangsaan (NFCC), Jabatan Perdana Menteri"
-  - title: "Maklumat mengenai NSRC — 997 beroperasi 8.00 pagi–8.00 malam; 'anda juga perlu membuat laporan polis'"
+    publisher: "தேசிய நிதிக் குற்ற மையம் (NFCC), பிரதமர் துறை"
+  - title: "NSRC பற்றிய தகவல் — 997 காலை 8.00 முதல் இரவு 8.00 வரை இயங்குகிறது; 'நீங்கள் காவல் புகாரும் செய்ய வேண்டும்' (Maklumat mengenai NSRC — 997 beroperasi 8.00 pagi–8.00 malam; 'anda juga perlu membuat laporan polis')"
     url: "https://nfcc.jpm.gov.my/index.php/en/component/content/article/nsrc-info-link?catid=11&Itemid=114"
-    publisher: "NFCC, Jabatan Perdana Menteri"
-  - title: "997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September (pengumuman 26 Julai 2025)"
+    publisher: "NFCC, பிரதமர் துறை"
+  - title: "997 மோசடி தொலைபேசி 24 மணி நேரம் இயங்கும், செப்டம்பர் முதல் அழைப்புகள் காவல் புகாராகக் கருதப்படும் (2025 ஜூலை 26 அறிவிப்பு) (997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September (pengumuman 26 Julai 2025))"
     url: "https://www.bernama.com/en/news.php?id=2449632"
     publisher: "Bernama"
-  - title: "Apa Itu MERS 999?"
+  - title: "MERS 999 என்றால் என்ன? (Apa Itu MERS 999?)"
     url: "https://999.gov.my/mers-999/apa-itu-mers-999/"
-    publisher: "MERS 999 / Kementerian Komunikasi"
-  - title: "e-Reporting PDRM (Portal Rasmi) — Panduan"
+    publisher: "MERS 999 / தகவல் தொடர்பு அமைச்சு"
+  - title: "PDRM மின்-புகாரளிப்பு (அதிகாரப்பூர்வ இணையவாயில்) — வழிகாட்டி (e-Reporting PDRM (Portal Rasmi) — Panduan)"
     url: "https://ereporting.rmp.gov.my/panduan.aspx"
-    publisher: "Polis DiRaja Malaysia (PDRM)"
+    publisher: "மலேசிய அரச காவல்துறை (PDRM)"
 
 relations:
   - { rel: "related-to", to: "online-safety-act-malaysia" }

@@ -59,16 +59,16 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Laws of Malaysia — Act 164, Law Reform (Marriage and Divorce) Act 1976 (official reprint, full text)"
+  - title: "Laws of Malaysia — Act 164, Law Reform (Marriage and Divorce) Act 1976 (cetakan semula rasmi, teks penuh) (Laws of Malaysia — Act 164, Law Reform (Marriage and Divorce) Act 1976 (official reprint, full text))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf"
     publisher: "Pejabat Penggubal Undang-Undang, Jabatan Peguam Negara (AGC)"
-  - title: "Islamic Divorce Procedure (Divorce of Muslim Couples)"
+  - title: "Prosedur Perceraian Islam (Perceraian Pasangan Beragama Islam) (Islamic Divorce Procedure (Divorce of Muslim Couples))"
     url: "https://www.malaysia.gov.my/en/categories/family-institution/divorce-of-muslim-couples/islamic-divorce-procedure"
     publisher: "MyGovernment / Malaysia.gov.my"
-  - title: "Divorce of Muslim Couples"
+  - title: "Perceraian Pasangan Beragama Islam (Divorce of Muslim Couples)"
     url: "https://www.malaysia.gov.my/en/categories/family-institution/divorce-of-muslim-couples"
     publisher: "MyGovernment / Malaysia.gov.my"
-  - title: "Pengenalan e-Syariah (Introduction to the e-Syariah system)"
+  - title: "Pengenalan e-Syariah (Pengenalan kepada sistem e-Syariah) (Pengenalan e-Syariah (Introduction to the e-Syariah system))"
     url: "https://jksnpp.penang.gov.my/index.php/pengenalan-e-syariah"
     publisher: "Jabatan Kehakiman Syariah Negeri Pulau Pinang"
 

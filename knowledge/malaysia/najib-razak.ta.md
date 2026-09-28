@@ -54,18 +54,18 @@ sensitivity: "legal-proceedings"
 created: 2026-08-27
 updated: 2026-08-27
 sources:
-  - title: "Najib Razak — Facts, Biography & 1MDB"
+  - title: "நஜிப் ரசாக் — உண்மைகள், வாழ்க்கை வரலாறு & 1MDB (Najib Razak — Facts, Biography & 1MDB)"
     url: "https://www.britannica.com/biography/Najib-Razak"
     publisher: "Encyclopædia Britannica"
-  - title: "Najib Razak: Malaysia's ex-PM starts jail term after final appeal fails"
+  - title: "நஜிப் ரசாக்: இறுதி மேல்முறையீடு தோல்வியடைந்த பின் மலேசியாவின் முன்னாள் பிரதமர் சிறைத்தண்டனையைத் தொடங்கினார் (Najib Razak: Malaysia's ex-PM starts jail term after final appeal fails)"
     url: "https://www.bbc.com/news/world-asia-62642643"
     publisher: "BBC News"
-  - title: "Malaysia halves ex-PM Najib Razak's jail term in 1MDB corruption scandal"
+  - title: "1MDB ஊழல் விவகாரத்தில் முன்னாள் பிரதமர் நஜிப் ரசாக்கின் சிறைத்தண்டனையை மலேசியா பாதியாகக் குறைத்தது (Malaysia halves ex-PM Najib Razak's jail term in 1MDB corruption scandal)"
     url: "https://www.aljazeera.com/news/2024/2/2/malaysia-reduces-sentence-of-former-pm-najib-razak"
     publisher: "Al Jazeera"
-  - title: "Prime Minister's Office of Malaysia"
+  - title: "மலேசியப் பிரதமர் அலுவலகம் (Prime Minister's Office of Malaysia)"
     url: "https://www.pmo.gov.my"
-    publisher: "Prime Minister's Office of Malaysia"
+    publisher: "மலேசியப் பிரதமர் அலுவலகம்"
 
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["Najib Razak", "Mohd Najib Abdul Razak", "sixth prime minister Malaysia", "1MDB", "SRC International"]

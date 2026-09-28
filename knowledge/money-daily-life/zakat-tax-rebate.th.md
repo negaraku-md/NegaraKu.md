@@ -54,9 +54,9 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Akta Cukai Pendapatan 1967 (Akta 53) — teks dikemas kini, setakat 1 November 2023 (Seksyen 6, 6A, 44, 82, 82A dan Jadual 1)"
+  - title: "พระราชบัญญัติภาษีเงินได้ 1967 (พระราชบัญญัติ 53) — ฉบับปรับปรุง ณ วันที่ 1 พฤศจิกายน 2023 (มาตรา 6, 6A, 44, 82, 82A และบัญชีแนบท้าย 1) (Akta Cukai Pendapatan 1967 (Akta 53) — teks dikemas kini, setakat 1 November 2023 (Seksyen 6, 6A, 44, 82, 82A dan Jadual 1))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1822739_BI/ACT%2053%20AS%20AT%201.11.2023%20(REPRINT%20ONLINE%20VERSION)%20FINAL.pdf"
-    publisher: "Pejabat Peguam Negara Malaysia (AGC), Laws of Malaysia"
+    publisher: "สำนักงานอัยการสูงสุดมาเลเซีย (AGC), Laws of Malaysia"
 
 relations:
   - { rel: "governs", to: "income-tax-act-1967" }

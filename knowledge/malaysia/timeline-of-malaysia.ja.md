@@ -64,21 +64,21 @@ sensitivity: "race"
 created: 2026-08-18
 updated: 2026-08-18
 sources:
-  - title: "Malaysia — country profile"
+  - title: "マレーシア——国情概要 (Malaysia — country profile)"
     url: "https://www.britannica.com/place/Malaysia"
     publisher: "Encyclopædia Britannica"
-  - title: "Arkib Negara Malaysia"
+  - title: "マレーシア国立公文書館 (Arkib Negara Malaysia)"
     url: "https://www.arkib.gov.my"
-    publisher: "Arkib Negara Malaysia"
-  - title: "Jabatan Perdana Menteri Malaysia — bekas perdana menteri"
+    publisher: "マレーシア国立公文書館 (Arkib Negara Malaysia)"
+  - title: "マレーシア首相府——歴代首相 (Jabatan Perdana Menteri Malaysia — bekas perdana menteri)"
     url: "https://www.pmo.gov.my"
-    publisher: "Jabatan Perdana Menteri Malaysia"
-  - title: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
+    publisher: "マレーシア首相府 (Jabatan Perdana Menteri Malaysia)"
+  - title: "マレーシア選挙管理委員会（SPR） (Suruhanjaya Pilihan Raya Malaysia (SPR))"
     url: "https://www.spr.gov.my"
-    publisher: "Suruhanjaya Pilihan Raya Malaysia"
-  - title: "Perlembagaan Persekutuan Malaysia"
+    publisher: "マレーシア選挙管理委員会 (Suruhanjaya Pilihan Raya Malaysia)"
+  - title: "マレーシア連邦憲法 (Perlembagaan Persekutuan Malaysia)"
     url: "https://www.agc.gov.my"
-    publisher: "Jabatan Peguam Negara (AGC)"
+    publisher: "司法長官府 (AGC)"
 
 related: ["melaka-sultanate", "independence-1957", "formation-of-malaysia-1963", "13-may-1969", "new-economic-policy", "2018-change-of-government"]
 keywords: ["sejarah Malaysia", "garis masa Malaysia", "Merdeka 1957", "pembentukan Malaysia 1963", "perdana menteri Malaysia"]

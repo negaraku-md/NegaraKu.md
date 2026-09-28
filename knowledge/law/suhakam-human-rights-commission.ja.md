@@ -55,16 +55,16 @@ verificationNeeded:
   - "2022年以降、報告の遅延に関する記述を更新する必要があるような年次報告書が新たに提呈されていないことを確認すること。"
 updated: 2026-08-07
 sources:
-  - title: "Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025"
+  - title: "GANHRIによって認証された国内機関の地位一覧 — 2025年12月4日現在 (Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025)"
     url: "https://ganhri.org/wp-content/uploads/2025/12/Accreditation-Status-Chart_Dec2025.pdf"
     publisher: "Global Alliance of National Human Rights Institutions (GANHRI)"
-  - title: "Human Rights Commission of Malaysia Act 1999 (Act 597) — English text"
+  - title: "Human Rights Commission of Malaysia Act 1999 (Act 597) — 英語テキスト (Human Rights Commission of Malaysia Act 1999 (Act 597) — English text)"
     url: "https://suhakam.org.my/wp-content/uploads/2024/04/ACT-597-1999_English.pdf"
-    publisher: "SUHAKAM"
-  - title: "Press Statement No. 9-2024: SUHAKAM Annual Report 2021 & 2022 have been Tabled and Debated"
+    publisher: "マレーシア人権委員会（SUHAKAM）"
+  - title: "プレス声明第9-2024号：SUHAKAM 2021年および2022年年次報告が上程・審議された (Press Statement No. 9-2024: SUHAKAM Annual Report 2021 & 2022 have been Tabled and Debated)"
     url: "https://suhakam.org.my/2024/07/press-statement-no-9-2024_suhakam-annual-report-2021-2022-have-been-tabled-and-debated/"
-    publisher: "SUHAKAM"
-  - title: "GANHRI Sub-Committee on Accreditation Report — June 2021"
+    publisher: "マレーシア人権委員会（SUHAKAM）"
+  - title: "GANHRI認証小委員会報告 — 2021年6月 (GANHRI Sub-Committee on Accreditation Report — June 2021)"
     url: "https://ganhri.org/wp-content/uploads/2021/08/EN-SCA-Report-June-2021.pdf"
     publisher: "Global Alliance of National Human Rights Institutions (GANHRI)"
 

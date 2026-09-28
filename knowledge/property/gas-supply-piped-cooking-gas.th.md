@@ -56,22 +56,22 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Gas Malaysia ESRNC — Terms and Conditions"
+  - title: "Gas Malaysia ESRNC — ข้อกำหนดและเงื่อนไข (Gas Malaysia ESRNC — Terms and Conditions)"
     url: "https://esrnc.gasmalaysia.com/index.php/terms-and-conditions"
     publisher: "Gas Malaysia Berhad"
-  - title: "Residential and Commercial — Gas Malaysia Energy and Services"
+  - title: "ที่อยู่อาศัยและเชิงพาณิชย์ — Gas Malaysia Energy and Services (Residential and Commercial — Gas Malaysia Energy and Services)"
     url: "https://www.gasmalaysia-gmes.com/residential-and-commercial/"
     publisher: "Gas Malaysia Energy and Services"
-  - title: "How to apply a new Gas Malaysia account (reported applicant experience)"
+  - title: "วิธีสมัครบัญชี Gas Malaysia ใหม่ (ประสบการณ์ของผู้สมัคร) (How to apply a new Gas Malaysia account (reported applicant experience))"
     url: "https://cikgujuin.com/how-to-apply-a-new-gas-malaysia-account/"
     publisher: "cikgujuin.com (blog)"
-  - title: "Domestic trade ministry's LPG cylinder operation explained"
+  - title: "อธิบายปฏิบัติการถังแก๊ส LPG ของกระทรวงการค้าภายในประเทศ (Domestic trade ministry's LPG cylinder operation explained)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/06/03/domestic-trade-ministrys-lpg-cylinder-operation-explained"
     publisher: "Free Malaysia Today"
-  - title: "Get ready to pay more at eateries"
+  - title: "เตรียมจ่ายแพงขึ้นที่ร้านอาหาร (Get ready to pay more at eateries)"
     url: "https://www.thestar.com.my/news/nation/2025/06/01/get-ready-to-pay-more-at-eateries"
     publisher: "The Star"
-  - title: "QuickCheck: Is there a price adjustment to subsidised domestic gas cylinders?"
+  - title: "QuickCheck: มีการปรับราคาถังแก๊สหุงต้มในครัวเรือนที่ได้รับการอุดหนุนหรือไม่? (QuickCheck: Is there a price adjustment to subsidised domestic gas cylinders?)"
     url: "https://www.thestar.com.my/news/true-or-not/2026/04/08/quickcheck-is-there-a-price-adjustment-to-subsidised-domestic-gas-cylinders-as-claimed-by-a-negri-company"
     publisher: "The Star"
 

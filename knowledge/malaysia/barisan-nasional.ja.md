@@ -54,19 +54,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "A brief history of the PAS-Umno love-hate relationship"
+  - title: "PASとUmnoの愛憎関係の略史 (A brief history of the PAS-Umno love-hate relationship)"
     url: "https://theedgemalaysia.com/node/812114"
     publisher: "The Edge Malaysia"
-  - title: "Gerakan quits BN"
+  - title: "GerakanがBNを離脱 (Gerakan quits BN)"
     url: "https://www.malaymail.com/news/malaysia/2018/06/23/gerakan-quits-bn/1644778"
     publisher: "Malay Mail"
-  - title: "Sarawak's GPS finally a legal entity"
+  - title: "サラワクのGPS、ついに法的団体に (Sarawak's GPS finally a legal entity)"
     url: "https://www.malaymail.com/news/malaysia/2018/11/24/sarawaks-gps-finally-a-legal-entity/1696703"
     publisher: "Malay Mail"
-  - title: "Malaysia's opposition pulls off shocking election win"
+  - title: "マレーシア野党、衝撃的な選挙勝利を収める (Malaysia's opposition pulls off shocking election win)"
     url: "https://www.aljazeera.com/news/2018/5/10/malaysias-opposition-pulls-off-shocking-election-win"
     publisher: "Al Jazeera"
-  - title: "Negeri Sembilan victory marks BN's political comeback after 2018 rout"
+  - title: "ヌグリ・スンビラン勝利、2018年の惨敗後のBNの政治的復活を示す (Negeri Sembilan victory marks BN's political comeback after 2018 rout)"
     url: "https://www.freemalaysiatoday.com/category/nation/2026/08/02/negeri-sembilan-victory-marks-bn-s-political-comeback-after-2018-rout"
     publisher: "Free Malaysia Today"
 

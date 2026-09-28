@@ -34,15 +34,15 @@ revisions:
     reviewer: null
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution — Laws of Malaysia (Article 1, 4, 32, 38, 44, 45, 71, Ninth Schedule)"
+  - title: "연방헌법 — 말레이시아 법령집(제1조, 4조, 32조, 38조, 44조, 45조, 71조, 제9부칙) (Federal Constitution — Laws of Malaysia (Article 1, 4, 32, 38, 44, 45, 71, Ninth Schedule))"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Official Portal of the Parliament of Malaysia"
+    publisher: "말레이시아 법무장관실 (Attorney General's Chambers of Malaysia)"
+  - title: "말레이시아 국회 공식 포털 (Official Portal of the Parliament of Malaysia)"
     url: "https://www.parlimen.gov.my/"
-    publisher: "Parliament of Malaysia"
-  - title: "MyGovernment — The Malaysia Government Official Portal"
+    publisher: "말레이시아 국회 (Parliament of Malaysia)"
+  - title: "MyGovernment — 말레이시아 정부 공식 포털 (MyGovernment — The Malaysia Government Official Portal)"
     url: "https://www.malaysia.gov.my/portal/index"
-    publisher: "Government of Malaysia (MAMPU)"
+    publisher: "말레이시아 정부(MAMPU) (Government of Malaysia (MAMPU))"
 entity: "Malaysia"
 wikidata: "Q833"
 relations:

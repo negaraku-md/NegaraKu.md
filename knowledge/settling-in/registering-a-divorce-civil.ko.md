@@ -57,13 +57,13 @@ verificationNeeded:
   - "JPN 혼인 심판원이 현행 관행상 특정 지역의 기본 조정 기구인지 여부(제106조 (2)항은 양 당사자가 수락할 수 있는 어떤 기구든 허용)."
 updated: 2026-08-07
 sources:
-  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint"
+  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — 공식 재판본 (Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "How to refer to Marriage Tribunal JPN Malaysia?"
+    publisher: "말레이시아 법무장관실"
+  - title: "말레이시아 JPN 혼인심판원에 회부하는 방법 (How to refer to Marriage Tribunal JPN Malaysia?)"
     url: "https://arinaong.com/refer-marriage-tribunal-jpn-malaysia/"
     publisher: "Arina Ong & Co (law firm)"
-  - title: "Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce"
+  - title: "비무슬림 혼인, 이혼 및 상속 — 민사 혼인 및 이혼 (Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce)"
     url: "https://www.wccpenang.org/non-muslim-marriage-sec1-civil-marriage/"
     publisher: "Women's Centre for Change (WCC), Penang"
 

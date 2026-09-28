@@ -53,24 +53,24 @@ revisions:
 
 updated: 2026-08-14
 sources:
-  - title: "Laws of Malaysia — Industrial Relations Act 1967 (Act 177), consolidated reprint (updated as at 1 November 2021)"
+  - title: "马来西亚法律 — Industrial Relations Act 1967 (Act 177),综合重印本(更新至2021年11月1日) (Laws of Malaysia — Industrial Relations Act 1967 (Act 177), consolidated reprint (updated as at 1 November 2021))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690019_BI/010721_Act%20177_final.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (lom.agc.gov.my)"
-  - title: "Malaysian Industrial Relations (Amendment) Act 2020 seeks to expedite dispute resolution process"
+    publisher: "马来西亚总检察署 (lom.agc.gov.my)"
+  - title: "马来西亚 Industrial Relations (Amendment) Act 2020 旨在加快争议解决程序 (Malaysian Industrial Relations (Amendment) Act 2020 seeks to expedite dispute resolution process)"
     url: "https://www.allenandgledhill.com/publication/articles/15088/my_malaysian-industrial-relations-amendment-act-2020-seeks-to-expedite-dispute-resolution-process"
     publisher: "Allen & Gledhill"
-  - title: "Amendments to the Industrial Relations Act 1967"
+  - title: "对 Industrial Relations Act 1967 的修订 (Amendments to the Industrial Relations Act 1967)"
     url: "http://shooklin.com.my/legal-update/amendments-to-the-industrial-relations-act-1967/"
     publisher: "Shook Lin & Bok"
-  - title: "Unfair Dismissal Claims: What are the Available Reliefs?"
+  - title: "不公平解雇索赔:可获得哪些救济? (Unfair Dismissal Claims: What are the Available Reliefs?)"
     url: "https://www.thomasphilip.com.my/articles/unfair-dismissal-claims-what-are-the-available-reliefs/"
     publisher: "Thomas Philip Advocates & Solicitors"
-  - title: "Case Spotlight - The Secret Ballot Process in Union Recognition"
+  - title: "案例聚焦 - 工会承认中的秘密投票程序 (Case Spotlight - The Secret Ballot Process in Union Recognition)"
     url: "https://dnh.com.my/case-spotlight-the-secret-ballot-process-in-union-recognition/"
     publisher: "Donovan & Ho"
-  - title: "Frequently Asked Questions (F.A.Q) — Industrial Court of Malaysia"
+  - title: "常见问题 (F.A.Q) — 马来西亚劳资法庭 (Frequently Asked Questions (F.A.Q) — Industrial Court of Malaysia)"
     url: "https://www.mp.gov.my/index.php?option=com_sppagebuilder&view=page&id=23&Itemid=174&lang=en"
-    publisher: "Mahkamah Perusahaan Malaysia (Industrial Court of Malaysia)"
+    publisher: "马来西亚劳资法庭 (Industrial Court of Malaysia)"
 
 entity: "Akta Perhubungan Perusahaan 1967"
 relations:

@@ -51,15 +51,15 @@ verificationNeeded:
   - "eGUMIS 포털 출범 연도 — 2차 요약에만 나타나며 공식 출처로 확인되지 않음."
 updated: 2026-08-08
 sources:
-  - title: "Unclaimed Money"
+  - title: "미청구 자금 (Unclaimed Money)"
     url: "https://www.anm.gov.my/en/public/unclaimed-money"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "FAQ - eGUMIS"
+    publisher: "말레이시아 회계총국(JANM)"
+  - title: "자주 묻는 질문 - eGUMIS (FAQ - eGUMIS)"
     url: "https://egumis.anm.gov.my/faq?lang=en"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "Unclaimed Moneys and CDS-MOF (FAQ)"
+    publisher: "말레이시아 회계총국(JANM)"
+  - title: "미청구 자금 및 CDS-MOF(자주 묻는 질문) (Unclaimed Moneys and CDS-MOF (FAQ))"
     url: "https://www.anm.gov.my/en/faqs/unclaimed-moneys-and-cds-mof"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
+    publisher: "말레이시아 회계총국(JANM)"
 
 entity: "eGUMIS"
 relations:

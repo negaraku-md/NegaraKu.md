@@ -53,15 +53,15 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Laws of Malaysia — Act 56, Evidence Act 1950 (senarai rasmi versi & cetakan semula)"
+  - title: "กฎหมายแห่งมาเลเซีย — Act 56, Evidence Act 1950 (รายการฉบับและฉบับพิมพ์ซ้ำอย่างเป็นทางการ) (Laws of Malaysia — Act 56, Evidence Act 1950 (senarai rasmi versi & cetakan semula))"
     url: "https://lom.agc.gov.my/act-detail.php?act=56&lang=BI"
-    publisher: "Pejabat Peguam Negara Malaysia (Attorney-General's Chambers) — penerbit rasmi Undang-Undang Malaysia"
-  - title: "Undang-Undang Malaysia — Akta 56, Akta Keterangan 1950 (senarai rasmi versi Bahasa Melayu)"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย (Attorney-General's Chambers) — ผู้จัดพิมพ์ทางการของกฎหมายแห่งมาเลเซีย"
+  - title: "กฎหมายแห่งมาเลเซีย — Akta 56, Akta Keterangan 1950 (รายการฉบับภาษามาเลย์อย่างเป็นทางการ) (Undang-Undang Malaysia — Akta 56, Akta Keterangan 1950 (senarai rasmi versi Bahasa Melayu))"
     url: "https://lom.agc.gov.my/act-detail.php?act=56&lang=BM"
-    publisher: "Pejabat Peguam Negara Malaysia (Attorney-General's Chambers)"
-  - title: "Evidence Act 1950 (Act 56) — teks penuh cetakan semula rasmi, setakat 1 Disember 2012"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย (Attorney-General's Chambers)"
+  - title: "Evidence Act 1950 (Act 56) — ข้อความเต็มของฉบับพิมพ์ซ้ำทางการ ณ วันที่ 1 ธันวาคม 2012 (Evidence Act 1950 (Act 56) — teks penuh cetakan semula rasmi, setakat 1 Disember 2012)"
     url: "https://ccid.rmp.gov.my/Laws/Act_56_-_Evidence_Act_1950.pdf"
-    publisher: "Salinan teks penuh cetakan semula rasmi yang dihoskan oleh Polis Diraja Malaysia (Jabatan Siasatan Jenayah Komersial)"
+    publisher: "สำเนาข้อความเต็มของฉบับพิมพ์ซ้ำทางการที่จัดเก็บโดยตำรวจหลวงมาเลเซีย (กรมสอบสวนอาชญากรรมทางการค้า)"
 
 entity: "Evidence Act 1950"
 wikidata: "Q12682327"

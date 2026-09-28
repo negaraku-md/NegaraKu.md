@@ -39,22 +39,22 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint 2020) — Article 3, Article 32, Article 38, Fifth Schedule"
+  - title: "Hiến pháp Liên bang (Tái bản 2020) — Điều 3, Điều 32, Điều 38, Phụ lục thứ Năm (Federal Constitution (Reprint 2020) — Article 3, Article 32, Article 38, Fifth Schedule)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers)"
     date: "2020-10-15"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Persekutuan"
+  - title: "Hiến pháp Liên bang — Cổng Pháp luật Liên bang (Perlembagaan Persekutuan — Portal Perundangan Persekutuan)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Perkara 3 — Agama bagi Persekutuan"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
+  - title: "Điều 3 — Tôn giáo của Liên bang (Perkara 3 — Agama bagi Persekutuan)"
     url: "https://www.jpapencen.gov.my/CAT289562/Published/perkara3-Ma.Html"
-    publisher: "Jabatan Perkhidmatan Awam Malaysia"
-  - title: "Background and History — Conference of Rulers"
+    publisher: "Cục Dịch vụ Công Malaysia"
+  - title: "Bối cảnh và Lịch sử — Hội nghị các Quốc vương (Background and History — Conference of Rulers)"
     url: "https://www.majlisraja-raja.gov.my/en/corporate-info/background-and-history"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
-  - title: "Maklumat Majlis Raja-Raja"
+    publisher: "Văn phòng Quan giữ Ấn tín của các Quốc vương"
+  - title: "Thông tin về Hội nghị các Quốc vương (Maklumat Majlis Raja-Raja)"
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
+    publisher: "Văn phòng Quan giữ Ấn tín của các Quốc vương"
 
 entity: "Raja-Raja Melayu"
 relations:

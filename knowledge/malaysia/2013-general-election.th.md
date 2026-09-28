@@ -53,13 +53,13 @@ sensitivity: "elections"
 created: 2026-08-27
 updated: 2026-08-27
 sources:
-  - title: "13th General Election in Malaysia: Overview and Summary"
+  - title: "การเลือกตั้งทั่วไปครั้งที่ 13 ในมาเลเซีย: ภาพรวมและสรุป (13th General Election in Malaysia: Overview and Summary)"
     url: "https://www.ide.go.jp/library/Japanese/Publish/Reports/Kidou/pdf/2013_malaysia_03.pdf"
     publisher: "Institute of Developing Economies (IDE-JETRO)"
-  - title: "Election Commission of Malaysia (Suruhanjaya Pilihan Raya)"
+  - title: "คณะกรรมการการเลือกตั้งมาเลเซีย (Suruhanjaya Pilihan Raya) (Election Commission of Malaysia (Suruhanjaya Pilihan Raya))"
     url: "https://www.spr.gov.my"
-    publisher: "Election Commission of Malaysia"
-  - title: "Malaysia's Election 'Tsunami'"
+    publisher: "คณะกรรมการการเลือกตั้งมาเลเซีย (SPR)"
+  - title: "'สึนามิ' การเลือกตั้งของมาเลเซีย (Malaysia's Election 'Tsunami')"
     url: "https://thediplomat.com/2013/05/malaysias-election-tsunami/"
     publisher: "The Diplomat"
 

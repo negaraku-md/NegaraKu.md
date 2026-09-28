@@ -46,19 +46,19 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Income Tax Act 1967 (Act 53) — Section 7, Residence: Individuals"
+  - title: "1967年所得税法令（第53号法令）——第7条，居民身份：个人 (Income Tax Act 1967 (Act 53) — Section 7, Residence: Individuals)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
-    publisher: "Attorney General's Chambers"
-  - title: "15 Mei 2026: Tarikh Akhir Pengemukaan e-Filing Individu (Tidak Menjalankan Perniagaan) Bagi Tahun Taksiran 2025 (Media Statement HASiL/2026/04/29-26)"
+    publisher: "总检察署 (Attorney General's Chambers)"
+  - title: "2026年5月15日：2025课税年个人（无经营业务）e-Filing报税截止日期（媒体文告 HASiL/2026/04/29-26） (15 Mei 2026: Tarikh Akhir Pengemukaan e-Filing Individu (Tidak Menjalankan Perniagaan) Bagi Tahun Taksiran 2025 (Media Statement HASiL/2026/04/29-26))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20260429-kenyataan-media-hasil_tarikh-akhir-e_filing-15-mei-2026.pdf"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2026-04-29"
-  - title: "Income Tax Return Form Application (e-Filing) LHDN"
+  - title: "所得税申报表申请（e-Filing）LHDN (Income Tax Return Form Application (e-Filing) LHDN)"
     url: "https://www.malaysia.gov.my/en/digital-services/income-tax-return-form-application-e-filing-lhdn"
-    publisher: "MyGovernment Portal, Government of Malaysia"
-  - title: "Lembaga Hasil Dalam Negeri Malaysia — official portal"
+    publisher: "MyGovernment门户，马来西亚政府 (MyGovernment Portal, Government of Malaysia)"
+  - title: "马来西亚内陆税收局——官方门户 (Lembaga Hasil Dalam Negeri Malaysia — official portal)"
     url: "https://www.hasil.gov.my/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    publisher: "马来西亚内陆税收局 (LHDN)"
 
 entity: "Personal income tax registration and filing in Malaysia"
 relations:

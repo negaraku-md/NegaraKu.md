@@ -50,10 +50,10 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Kanun Keseksaan (Akta 574) — Seksyen 96–106, Hak Mempertahankan Diri (cetakan semula, seperti pada 1 Oktober 2018)"
+  - title: "Penal Code (พระราชบัญญัติฉบับที่ 574) — มาตรา 96–106, สิทธิในการป้องกันตัว (ฉบับพิมพ์ซ้ำ, ณ วันที่ 1 ตุลาคม 2018) (Kanun Keseksaan (Akta 574) — Seksyen 96–106, Hak Mempertahankan Diri (cetakan semula, seperti pada 1 Oktober 2018))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Penal%20Code%2018%20Dis%202018.pdf"
-    publisher: "Pejabat Peguam Negara Malaysia (AGC) — Laws of Malaysia, Portal e-LoM"
-  - title: "Self-Defence 101 — hak pertahanan diri, kemunasabahan dan 'empat justifikasi kardinal'"
+    publisher: "สำนักงานอัยการสูงสุดมาเลเซีย (AGC) — Laws of Malaysia, พอร์ทัล e-LoM"
+  - title: "พื้นฐานการป้องกันตัว — สิทธิในการป้องกันตัว ความสมเหตุสมผล และ 'สี่เหตุผลอันชอบธรรมหลัก' (Self-Defence 101 — hak pertahanan diri, kemunasabahan dan 'empat justifikasi kardinal')"
     url: "http://mathews.my/self-defence-101/"
     publisher: "Aaron Mathews Advocates & Solicitors"
 

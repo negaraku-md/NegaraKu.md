@@ -45,17 +45,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Arkib Negara Malaysia (National Archives of Malaysia)"
+  - title: "மலேசிய தேசிய ஆவணக் காப்பகம் (Arkib Negara Malaysia (National Archives of Malaysia))"
     url: "https://www.arkib.gov.my/"
-    publisher: "Arkib Negara Malaysia"
-  - title: "Federal Constitution — Laws of Malaysia"
+    publisher: "மலேசிய தேசிய ஆவணக் காப்பகம்"
+  - title: "கூட்டாட்சி அரசியலமைப்பு — மலேசியாவின் சட்டங்கள் (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Official Portal of the Parliament of Malaysia"
+    publisher: "மலேசிய அரசு வழக்கறிஞர் அலுவலகம்"
+  - title: "மலேசிய நாடாளுமன்றத்தின் அதிகாரப்பூர்வ இணையவாயில் (Official Portal of the Parliament of Malaysia)"
     url: "https://www.parlimen.gov.my/index.php?lang=en"
-    publisher: "Parliament of Malaysia"
-  - title: "The Reid Commission Report, 1957"
-    publisher: "Government of the United Kingdom / Federation of Malaya"
+    publisher: "மலேசிய நாடாளுமன்றம்"
+  - title: "ரீட் ஆணையத்தின் அறிக்கை, 1957 (The Reid Commission Report, 1957)"
+    publisher: "ஐக்கிய இராச்சிய அரசு / மலாயா கூட்டமைப்பு"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "formation-of-malaysia-1963" }

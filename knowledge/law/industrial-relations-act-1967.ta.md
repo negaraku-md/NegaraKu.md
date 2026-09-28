@@ -53,24 +53,24 @@ revisions:
 
 updated: 2026-08-14
 sources:
-  - title: "Laws of Malaysia — Industrial Relations Act 1967 (Act 177), consolidated reprint (updated as at 1 November 2021)"
+  - title: "மலேசியா சட்டங்கள் — Industrial Relations Act 1967 (Act 177), ஒருங்கிணைந்த மறுபதிப்பு (2021 நவம்பர் 1 வரை புதுப்பிக்கப்பட்டது) (Laws of Malaysia — Industrial Relations Act 1967 (Act 177), consolidated reprint (updated as at 1 November 2021))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690019_BI/010721_Act%20177_final.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (lom.agc.gov.my)"
-  - title: "Malaysian Industrial Relations (Amendment) Act 2020 seeks to expedite dispute resolution process"
+    publisher: "மலேசியா அரசு வழக்கறிஞர் அலுவலகம் (lom.agc.gov.my)"
+  - title: "மலேசிய Industrial Relations (Amendment) Act 2020 தகராறு தீர்வு செயல்முறையை விரைவுபடுத்த முயல்கிறது (Malaysian Industrial Relations (Amendment) Act 2020 seeks to expedite dispute resolution process)"
     url: "https://www.allenandgledhill.com/publication/articles/15088/my_malaysian-industrial-relations-amendment-act-2020-seeks-to-expedite-dispute-resolution-process"
     publisher: "Allen & Gledhill"
-  - title: "Amendments to the Industrial Relations Act 1967"
+  - title: "Industrial Relations Act 1967-க்கான திருத்தங்கள் (Amendments to the Industrial Relations Act 1967)"
     url: "http://shooklin.com.my/legal-update/amendments-to-the-industrial-relations-act-1967/"
     publisher: "Shook Lin & Bok"
-  - title: "Unfair Dismissal Claims: What are the Available Reliefs?"
+  - title: "நியாயமற்ற பணிநீக்க உரிமைகோரல்கள்: கிடைக்கக்கூடிய நிவாரணங்கள் யாவை? (Unfair Dismissal Claims: What are the Available Reliefs?)"
     url: "https://www.thomasphilip.com.my/articles/unfair-dismissal-claims-what-are-the-available-reliefs/"
     publisher: "Thomas Philip Advocates & Solicitors"
-  - title: "Case Spotlight - The Secret Ballot Process in Union Recognition"
+  - title: "வழக்கு கவனம் - தொழிற்சங்க அங்கீகாரத்தில் இரகசிய வாக்கெடுப்பு செயல்முறை (Case Spotlight - The Secret Ballot Process in Union Recognition)"
     url: "https://dnh.com.my/case-spotlight-the-secret-ballot-process-in-union-recognition/"
     publisher: "Donovan & Ho"
-  - title: "Frequently Asked Questions (F.A.Q) — Industrial Court of Malaysia"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் (F.A.Q) — மலேசியா தொழில் நீதிமன்றம் (Frequently Asked Questions (F.A.Q) — Industrial Court of Malaysia)"
     url: "https://www.mp.gov.my/index.php?option=com_sppagebuilder&view=page&id=23&Itemid=174&lang=en"
-    publisher: "Mahkamah Perusahaan Malaysia (Industrial Court of Malaysia)"
+    publisher: "மலேசியா தொழில் நீதிமன்றம் (Industrial Court of Malaysia)"
 
 entity: "Akta Perhubungan Perusahaan 1967"
 relations:

@@ -30,11 +30,11 @@ revision: 0
 sensitivity: "none"
 updated: 2026-07-23
 sources:
-  - title: "Langkasuka"
+  - title: "லங்காசுகா (Langkasuka)"
     url: "https://www.britannica.com/place/Langkasuka"
     publisher: "Encyclopaedia Britannica"
-  - title: "Liang Shu (Book of Liang), Chapter on Southern Barbarians"
-    publisher: "Chinese dynastic historiography, 7th century CE compilation"
+  - title: "லியாங் ஷூ (லியாங் நூல்), தென் காட்டுமிராண்டிகள் பற்றிய அத்தியாயம் (Liang Shu (Book of Liang), Chapter on Southern Barbarians)"
+    publisher: "சீன வம்ச வரலாற்றியல், கி.பி. 7ஆம் நூற்றாண்டுத் தொகுப்பு"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "melaka-sultanate" }

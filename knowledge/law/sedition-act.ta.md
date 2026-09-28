@@ -52,19 +52,19 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Sedition Act 1948 (Act 15), reprint incorporating all amendments up to 1 January 2006"
+  - title: "Sedition Act 1948 (Act 15), 2006 ஜனவரி 1 வரையிலான அனைத்து திருத்தங்களையும் உள்ளடக்கிய மறுபதிப்பு (Sedition Act 1948 (Act 15), reprint incorporating all amendments up to 1 January 2006)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%2015.pdf"
-    publisher: "Commissioner of Law Revision, Malaysia"
+    publisher: "மலேசிய சட்டத் திருத்த ஆணையர்"
     date: "2006-01-01"
-  - title: "Act 15 — Sedition Act 1948, principal Act record and amendment timeline"
+  - title: "Act 15 — Sedition Act 1948, முதன்மைச் சட்டப் பதிவும் திருத்தக் கால வரிசையும் (Act 15 — Sedition Act 1948, principal Act record and amendment timeline)"
     url: "https://lom.agc.gov.my/act-detail.php?act=15&lang=BI"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Act A1485 — Sedition (Amendment) Act 2015, act record"
+    publisher: "மலேசியத் தலைமை வழக்கறிஞர் அலுவலகம்"
+  - title: "Act A1485 — Sedition (Amendment) Act 2015, சட்டப் பதிவு (Act A1485 — Sedition (Amendment) Act 2015, act record)"
     url: "https://lom.agc.gov.my/act-detail.php?act=A1485&lang=BI"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Federal Constitution (reprint) — Part III and Articles 152, 153 and 181"
+    publisher: "மலேசியத் தலைமை வழக்கறிஞர் அலுவலகம்"
+  - title: "Federal Constitution (மறுபதிப்பு) — பகுதி III மற்றும் பிரிவுகள் 152, 153 மற்றும் 181 (Federal Constitution (reprint) — Part III and Articles 152, 153 and 181)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "மலேசியத் தலைமை வழக்கறிஞர் அலுவலகம்"
 
 entity: "Sedition Act 1948"
 wikidata: "Q7445340"

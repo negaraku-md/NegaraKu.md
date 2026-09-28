@@ -46,19 +46,19 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Income Tax Act 1967 (Act 53) — Section 7, Residence: Individuals"
+  - title: "รัฐบัญญัติภาษีเงินได้ ค.ศ. 1967 (รัฐบัญญัติที่ 53) — มาตรา 7 การมีถิ่นที่อยู่: บุคคลธรรมดา (Income Tax Act 1967 (Act 53) — Section 7, Residence: Individuals)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
-    publisher: "Attorney General's Chambers"
-  - title: "15 Mei 2026: Tarikh Akhir Pengemukaan e-Filing Individu (Tidak Menjalankan Perniagaan) Bagi Tahun Taksiran 2025 (Media Statement HASiL/2026/04/29-26)"
+    publisher: "สำนักงานอัยการสูงสุด (Attorney General's Chambers)"
+  - title: "15 พฤษภาคม ค.ศ. 2026: วันสุดท้ายของการยื่น e-Filing สำหรับบุคคลธรรมดา (ไม่ประกอบธุรกิจ) สำหรับปีภาษี 2025 (แถลงข่าว HASiL/2026/04/29-26) (15 Mei 2026: Tarikh Akhir Pengemukaan e-Filing Individu (Tidak Menjalankan Perniagaan) Bagi Tahun Taksiran 2025 (Media Statement HASiL/2026/04/29-26))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20260429-kenyataan-media-hasil_tarikh-akhir-e_filing-15-mei-2026.pdf"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
     date: "2026-04-29"
-  - title: "Income Tax Return Form Application (e-Filing) LHDN"
+  - title: "การยื่นแบบแสดงรายการภาษีเงินได้ (e-Filing) LHDN (Income Tax Return Form Application (e-Filing) LHDN)"
     url: "https://www.malaysia.gov.my/en/digital-services/income-tax-return-form-application-e-filing-lhdn"
-    publisher: "MyGovernment Portal, Government of Malaysia"
-  - title: "Lembaga Hasil Dalam Negeri Malaysia — official portal"
+    publisher: "พอร์ทัล MyGovernment, รัฐบาลมาเลเซีย (MyGovernment Portal, Government of Malaysia)"
+  - title: "กรมสรรพากรมาเลเซีย — พอร์ทัลทางการ (Lembaga Hasil Dalam Negeri Malaysia — official portal)"
     url: "https://www.hasil.gov.my/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
 
 entity: "Personal income tax registration and filing in Malaysia"
 relations:

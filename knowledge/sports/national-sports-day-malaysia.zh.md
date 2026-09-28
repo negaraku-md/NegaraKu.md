@@ -51,16 +51,16 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Hari Sukan Negara (HSN) — Portal Rasmi"
+  - title: "国家体育日 (HSN) — 官方门户 (Hari Sukan Negara (HSN) — Portal Rasmi)"
     url: "https://harisukannegara.my/"
-    publisher: "Jabatan Belia dan Sukan Negara, Kementerian Belia dan Sukan"
-  - title: "Hari Sukan Negara: Membudayakan Sukan Dan Gaya Hidup Aktif"
+    publisher: "国家青年及体育局,青年及体育部"
+  - title: "国家体育日:培养体育与积极生活方式 (Hari Sukan Negara: Membudayakan Sukan Dan Gaya Hidup Aktif)"
     url: "https://malaysiaaktif.my/2025/10/hari-sukan-negara-membudayakan-sukan-dan-gaya-hidup-aktif/"
-    publisher: "Malaysia Aktif, Kementerian Belia dan Sukan"
-  - title: "Program Hari Sukan Negara"
+    publisher: "Malaysia Aktif,青年及体育部"
+  - title: "国家体育日计划 (Program Hari Sukan Negara)"
     url: "https://dewan.selangor.gov.my/question/program-hari-sukan-negara/"
-    publisher: "Dewan Negeri Selangor"
-  - title: "Hari Sukan Negara 2025 — Peringkat Negeri & Kebangsaan"
+    publisher: "雪兰莪州立法议会"
+  - title: "2025年国家体育日 — 州级与全国级 (Hari Sukan Negara 2025 — Peringkat Negeri & Kebangsaan)"
     url: "https://ecentral.my/hari-sukan-negara-2025/"
     publisher: "eCentral"
 

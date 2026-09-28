@@ -48,15 +48,15 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Tribunal For Consumer Claims"
+  - title: "நுகர்வோர் உரிமைகோரல் தீர்ப்பாயம் (Tribunal For Consumer Claims)"
     url: "https://www.kpdn.gov.my/en/faq/tribunal-for-consumer-claims"
-    publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
-  - title: "Consumer Protection Act 1999 (Act 599)"
+    publisher: "உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு (KPDN)"
+  - title: "Consumer Protection Act 1999 (Act 599) (Consumer Protection Act 1999 (Act 599))"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ttpm/Act%20599.pdf"
-    publisher: "Commissioner of Law Revision / KPDN"
-  - title: "Consumer Protection Act 1999 (Act 599), updated text of reprint including 2019 amendment"
+    publisher: "சட்டத் திருத்த ஆணையர் / KPDN"
+  - title: "Consumer Protection Act 1999 (Act 599), 2019 திருத்தம் உள்ளிட்ட புதுப்பிக்கப்பட்ட மறுபதிப்பு உரை (Consumer Protection Act 1999 (Act 599), updated text of reprint including 2019 amendment)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690994_BI/011121_Act%20599_final.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "மலேசியா அரசு வழக்கறிஞர் அலுவலகம்"
 
 entity: "Consumer Protection Act 1999"
 relations:

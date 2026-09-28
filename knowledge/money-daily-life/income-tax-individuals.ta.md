@@ -46,19 +46,19 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Income Tax Act 1967 (Act 53) — Section 7, Residence: Individuals"
+  - title: "வருமான வரிச் சட்டம் 1967 (சட்டம் 53) — பிரிவு 7, வதிவிடம்: தனிநபர்கள் (Income Tax Act 1967 (Act 53) — Section 7, Residence: Individuals)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
-    publisher: "Attorney General's Chambers"
-  - title: "15 Mei 2026: Tarikh Akhir Pengemukaan e-Filing Individu (Tidak Menjalankan Perniagaan) Bagi Tahun Taksiran 2025 (Media Statement HASiL/2026/04/29-26)"
+    publisher: "சட்ட மா அமைச்சர் அலுவலகம் (Attorney General's Chambers)"
+  - title: "15 மே 2026: 2025 மதிப்பீட்டு ஆண்டுக்கான தனிநபர் (வணிகம் நடத்தாதவர்) e-Filing சமர்ப்பிப்பின் இறுதித் தேதி (ஊடக அறிக்கை HASiL/2026/04/29-26) (15 Mei 2026: Tarikh Akhir Pengemukaan e-Filing Individu (Tidak Menjalankan Perniagaan) Bagi Tahun Taksiran 2025 (Media Statement HASiL/2026/04/29-26))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20260429-kenyataan-media-hasil_tarikh-akhir-e_filing-15-mei-2026.pdf"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2026-04-29"
-  - title: "Income Tax Return Form Application (e-Filing) LHDN"
+  - title: "வருமான வரி அறிக்கைப் படிவ விண்ணப்பம் (e-Filing) LHDN (Income Tax Return Form Application (e-Filing) LHDN)"
     url: "https://www.malaysia.gov.my/en/digital-services/income-tax-return-form-application-e-filing-lhdn"
-    publisher: "MyGovernment Portal, Government of Malaysia"
-  - title: "Lembaga Hasil Dalam Negeri Malaysia — official portal"
+    publisher: "MyGovernment இணையப் பக்கம், மலேசிய அரசாங்கம் (MyGovernment Portal, Government of Malaysia)"
+  - title: "மலேசிய உள்நாட்டு வருவாய் வாரியம் — அதிகாரப்பூர்வ இணையப் பக்கம் (Lembaga Hasil Dalam Negeri Malaysia — official portal)"
     url: "https://www.hasil.gov.my/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Personal income tax registration and filing in Malaysia"
 relations:

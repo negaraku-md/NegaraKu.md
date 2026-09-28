@@ -55,15 +55,15 @@ sensitivity: "royalty"
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula, sehingga 15 Oktober 2020) — Perkara 3(3), 32, 38, 71, 160(2), 181, Jadual Kelima, dan Jadual Kelapan seksyen 19A–19D dan 22"
+  - title: "联邦宪法(重印本,截至2020年10月15日)— 第3(3)、32、38、71、160(2)、181条,第五附表,及第八附表第19A–19D及22节 (Perlembagaan Persekutuan (Cetakan Semula, sehingga 15 Oktober 2020) — Perkara 3(3), 32, 38, 71, 160(2), 181, Jadual Kelima, dan Jadual Kelapan seksyen 19A–19D dan 22)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara (AGC)"
-  - title: "Maklumat Majlis Raja-Raja — komposisi, fungsi dan gelaran ketua negeri"
+    publisher: "马来西亚总检察署 (AGC)"
+  - title: "统治者会议资讯 — 组成、职能及州元首的称衔 (Maklumat Majlis Raja-Raja — komposisi, fungsi dan gelaran ketua negeri)"
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja / Majlis Raja-Raja"
-  - title: "Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri"
+    publisher: "统治者玉玺掌玺官署 / 统治者会议"
+  - title: "马六甲州政府官方门户 — 州元首 (Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri)"
     url: "https://www.melaka.gov.my/ms/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
-    publisher: "Kerajaan Negeri Melaka"
+    publisher: "马六甲州政府"
 
 entity: "Ketua Negeri Malaysia"
 relations:

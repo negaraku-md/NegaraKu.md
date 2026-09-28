@@ -44,13 +44,13 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Launching of Report on the Key Findings Population and Housing Census of Malaysia 2020"
+  - title: "マレーシア2020年人口・住宅センサス主要結果報告書の発表 (Launching of Report on the Key Findings Population and Housing Census of Malaysia 2020)"
     url: "https://www.dosm.gov.my/portal-main/release-content/launching-of-report-on-the-key-findings-population-and-housing-census-of-malaysia-2020-"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "マレーシア統計局 (DOSM)"
     date: "2022-02-14"
-  - title: "Key Findings Population and Housing Census of Malaysia 2020: Administrative District"
+  - title: "マレーシア2020年人口・住宅センサス主要結果：行政区 (Key Findings Population and Housing Census of Malaysia 2020: Administrative District)"
     url: "https://www.dosm.gov.my/portal-main/release-content/key-findings-population-and-housing-census-of-malaysia-2020-administrative-district"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "マレーシア統計局 (DOSM)"
     date: "2022-05-29"
 
 entity: "Population by religion, Malaysia (Census 2020)"

@@ -51,15 +51,15 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Fees — Estate Agency scale of fees (Seventh Schedule / Rule 48)"
+  - title: "料金 — 不動産仲介手数料表（第七附表／規則48） (Fees — Estate Agency scale of fees (Seventh Schedule / Rule 48))"
     url: "https://lpeph.gov.my/fees"
-    publisher: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
-  - title: "Role of the Board"
+    publisher: "評価士・鑑定士・不動産仲介士・不動産管理士委員会（LPEPH/BOVAEP）"
+  - title: "委員会の役割 (Role of the Board)"
     url: "https://lpeph.gov.my/role"
-    publisher: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
-  - title: "Search Listing (semakan pendaftaran & maklumat hubungan)"
+    publisher: "評価士・鑑定士・不動産仲介士・不動産管理士委員会（LPEPH/BOVAEP）"
+  - title: "リスト検索（登録・連絡先情報の確認） (Search Listing (semakan pendaftaran & maklumat hubungan))"
     url: "https://lpeph.gov.my/search-listing"
-    publisher: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
+    publisher: "評価士・鑑定士・不動産仲介士・不動産管理士委員会（LPEPH/BOVAEP）"
 
 entity: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
 relations:

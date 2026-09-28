@@ -51,19 +51,19 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Sedition Act 1948 (Act 15), reprint incorporating all amendments up to 1 January 2006"
+  - title: "Sedition Act 1948 (Act 15)、2006年1月1日までのすべての改正を反映した再版 (Sedition Act 1948 (Act 15), reprint incorporating all amendments up to 1 January 2006)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%2015.pdf"
-    publisher: "Commissioner of Law Revision, Malaysia"
+    publisher: "マレーシア法令改正委員"
     date: "2006-01-01"
-  - title: "Act 15 — Sedition Act 1948, principal Act record and amendment timeline"
+  - title: "Act 15 — Sedition Act 1948、主要法律の記録と改正沿革 (Act 15 — Sedition Act 1948, principal Act record and amendment timeline)"
     url: "https://lom.agc.gov.my/act-detail.php?act=15&lang=BI"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Act A1485 — Sedition (Amendment) Act 2015, act record"
+    publisher: "マレーシア司法長官府"
+  - title: "Act A1485 — Sedition (Amendment) Act 2015、法律記録 (Act A1485 — Sedition (Amendment) Act 2015, act record)"
     url: "https://lom.agc.gov.my/act-detail.php?act=A1485&lang=BI"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Federal Constitution (reprint) — Part III and Articles 152, 153 and 181"
+    publisher: "マレーシア司法長官府"
+  - title: "Federal Constitution（再版）— 第III編ならびに第152条、第153条および第181条 (Federal Constitution (reprint) — Part III and Articles 152, 153 and 181)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "マレーシア司法長官府"
 
 entity: "Sedition Act 1948"
 wikidata: "Q7445340"

@@ -58,15 +58,15 @@ sensitivity: "race"
 created: 2026-08-19
 updated: 2026-08-19
 sources:
-  - title: "Mahathir bin Mohamad — Facts & Biography"
+  - title: "マハティール・ビン・モハマド — 事実と伝記 (Mahathir bin Mohamad — Facts & Biography)"
     url: "https://www.britannica.com/biography/Mahathir-bin-Mohamad"
     publisher: "Encyclopædia Britannica"
-  - title: "Tun Dr Mahathir Mohamad"
+  - title: "トゥン・ドクター・マハティール・モハマド (Tun Dr Mahathir Mohamad)"
     url: "https://www.perdana.org.my/pms-of-malaysia/tun-dr-mahathir-mohamad/"
     publisher: "Perdana Leadership Foundation"
-  - title: "Prime Minister's Office of Malaysia"
+  - title: "マレーシア首相府 (Prime Minister's Office of Malaysia)"
     url: "https://www.pmo.gov.my"
-    publisher: "Prime Minister's Office of Malaysia"
+    publisher: "マレーシア首相府"
 
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "fourth prime minister Malaysia", "Vision 2020", "Wawasan 2020"]

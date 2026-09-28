@@ -54,19 +54,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "e-Lelong System, High Court of Malaya — Terms & Conditions"
+  - title: "Sistem e-Lelong, Mahkamah Tinggi Malaya — Terma & Syarat (e-Lelong System, High Court of Malaya — Terms & Conditions)"
     url: "https://elelong.kehakiman.gov.my/BidderWeb/Home/Terms"
-    publisher: "Judiciary of Malaysia (Kehakiman)"
-  - title: "Understanding Foreclosure Proceedings in Malaysia: A Legal Perspective"
+    publisher: "Kehakiman Malaysia"
+  - title: "Memahami Prosiding Perampasan (Foreclosure) di Malaysia: Perspektif Undang-undang (Understanding Foreclosure Proceedings in Malaysia: A Legal Perspective)"
     url: "https://chambers.com/articles/understanding-foreclosure-proceedings-in-malaysia-a-legal-perspective"
     publisher: "Chambers and Partners"
-  - title: "Malaysia — National Land Code (Revised 2020) Act 828"
+  - title: "Malaysia — Kanun Tanah Negara (Disemak 2020) Akta 828 (Malaysia — National Land Code (Revised 2020) Act 828)"
     url: "https://conventuslaw.com/report/malaysia-national-code-revised-2020-act-828/"
     publisher: "Conventus Law"
-  - title: "Guide to Buy Auction Property in Malaysia"
+  - title: "Panduan Membeli Hartanah Lelong di Malaysia (Guide to Buy Auction Property in Malaysia)"
     url: "https://sites.google.com/teeweifong.com/teeweifongco/guide-to-buy-auction-property-in-malaysia"
     publisher: "Tee Wei Fong & Co (Advocates & Solicitors)"
-  - title: "Guide to Buying Malaysian Auction Property"
+  - title: "Panduan Membeli Hartanah Lelong Malaysia (Guide to Buying Malaysian Auction Property)"
     url: "https://elelong.com.my/news-detail/Guide-to-Buying-Malaysian-Auction-Property/28"
     publisher: "eLelong.com.my"
 

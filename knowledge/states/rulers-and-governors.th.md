@@ -55,15 +55,15 @@ sensitivity: "royalty"
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula, sehingga 15 Oktober 2020) — Perkara 3(3), 32, 38, 71, 160(2), 181, Jadual Kelima, dan Jadual Kelapan seksyen 19A–19D dan 22"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ (ฉบับพิมพ์ซ้ำ, ณ วันที่ 15 ตุลาคม 2020) — มาตรา 3(3), 32, 38, 71, 160(2), 181, ตารางที่ห้า, และตารางที่แปด มาตรา 19A–19D และ 22 (Perlembagaan Persekutuan (Cetakan Semula, sehingga 15 Oktober 2020) — Perkara 3(3), 32, 38, 71, 160(2), 181, Jadual Kelima, dan Jadual Kelapan seksyen 19A–19D dan 22)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara (AGC)"
-  - title: "Maklumat Majlis Raja-Raja — komposisi, fungsi dan gelaran ketua negeri"
+    publisher: "สำนักงานอัยการสูงสุดมาเลเซีย (AGC)"
+  - title: "ข้อมูลที่ประชุมเหล่าราชา — องค์ประกอบ หน้าที่ และพระอิสริยยศของประมุขรัฐ (Maklumat Majlis Raja-Raja — komposisi, fungsi dan gelaran ketua negeri)"
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja / Majlis Raja-Raja"
-  - title: "Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri"
+    publisher: "สำนักงานผู้เก็บรักษาตราพระราชลัญจกรแห่งเหล่าราชา / ที่ประชุมเหล่าราชา"
+  - title: "พอร์ทัลทางการรัฐบาลรัฐมะละกา — ผู้ว่าการรัฐ (Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri)"
     url: "https://www.melaka.gov.my/ms/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
-    publisher: "Kerajaan Negeri Melaka"
+    publisher: "รัฐบาลรัฐมะละกา"
 
 entity: "Ketua Negeri Malaysia"
 relations:

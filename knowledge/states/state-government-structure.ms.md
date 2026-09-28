@@ -41,19 +41,19 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution — Ninth Schedule (Articles 74 and 77): Federal List, State List and Concurrent List"
+  - title: "Perlembagaan Persekutuan — Jadual Kesembilan (Perkara 74 dan 77): Senarai Persekutuan, Senarai Negeri dan Senarai Bersama (Federal Constitution — Ninth Schedule (Articles 74 and 77): Federal List, State List and Concurrent List)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/NinthSchedule.pdf"
-    publisher: "Sabah State Attorney-General's Chambers (reproducing the Federal Constitution)"
+    publisher: "Jabatan Peguam Besar Negeri Sabah (mengeluarkan semula Perlembagaan Persekutuan)"
     date: "2012"
-  - title: "Constitution of the State of Sabah (Reprint, as at January 2020) — Articles 1-11 (Head of State and Executive), 13-23 (Legislature), 26 (Legislative power) and 43 (Amendment)"
+  - title: "Perlembagaan Negeri Sabah (Cetakan Semula, sehingga Januari 2020) — Perkara 1-11 (Ketua Negeri dan Eksekutif), 13-23 (Badan Perundangan), 26 (Kuasa perundangan) dan 43 (Pindaan) (Constitution of the State of Sabah (Reprint, as at January 2020) — Articles 1-11 (Head of State and Executive), 13-23 (Legislature), 26 (Legislative power) and 43 (Amendment))"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/TheConstitutionOfTheStateOfSabah_5_0.pdf"
-    publisher: "Sabah State Attorney-General's Chambers"
+    publisher: "Jabatan Peguam Besar Negeri Sabah"
     date: "2020"
-  - title: "Federal Constitution (Reprint, as at 15 October 2020) — Article 43 (Prime Minister and Cabinet) and Article 71 with the Eighth Schedule (essential provisions for State Constitutions)"
+  - title: "Perlembagaan Persekutuan (Cetakan Semula, sehingga 15 Oktober 2020) — Perkara 43 (Perdana Menteri dan Kabinet) dan Perkara 71 beserta Jadual Kelapan (peruntukan penting bagi Perlembagaan Negeri) (Federal Constitution (Reprint, as at 15 October 2020) — Article 43 (Prime Minister and Cabinet) and Article 71 with the Eighth Schedule (essential provisions for State Constitutions))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri (Prime Minister's Department)"
+    publisher: "Jabatan Perdana Menteri"
     date: "2020"
-  - title: "Powers and functions of state rulers"
+  - title: "Kuasa dan fungsi pemerintah negeri (Powers and functions of state rulers)"
     url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/legal-news/powers-and-functions-of-state-rulers"
     publisher: "Malaysian Bar"
 

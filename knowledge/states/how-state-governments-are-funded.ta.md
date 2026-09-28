@@ -53,13 +53,13 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Federal Constitution — Tenth Schedule (Grant and Sources of Revenue Assigned to States)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு — பத்தாவது அட்டவணை (மாநிலங்களுக்கு ஒதுக்கப்பட்ட மானியம் மற்றும் வருவாய் ஆதாரங்கள்) (Federal Constitution — Tenth Schedule (Grant and Sources of Revenue Assigned to States))"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/TenthSchedule.pdf"
-    publisher: "Sabah State Attorney-General's Chambers"
-  - title: "FAQ: Types of Grants to States"
+    publisher: "சபா மாநில சட்ட மா அதிபர் அலுவலகம்"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள்: மாநிலங்களுக்கான மானிய வகைகள் (FAQ: Types of Grants to States)"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/nbo/faq-en.pdf"
-    publisher: "Ministry of Finance Malaysia"
-  - title: "2023/98 Insufficient States: Revisiting the Roles and Resources of Malaysia's Subnational Governments"
+    publisher: "மலேசியா நிதி அமைச்சு"
+  - title: "2023/98 போதிய வளமற்ற மாநிலங்கள்: மலேசியாவின் துணை-தேசிய அரசுகளின் பங்குகள் மற்றும் வளங்களை மறுபரிசீலனை செய்தல் (2023/98 Insufficient States: Revisiting the Roles and Resources of Malaysia's Subnational Governments)"
     url: "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2023-98-insufficient-states-revisiting-the-roles-and-resources-of-malaysias-subnational-governments-by-lee-hwok-aun/"
     publisher: "ISEAS – Yusof Ishak Institute"
 

@@ -39,22 +39,22 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Pasport Malaysia Antarabangsa"
+  - title: "மலேசிய சர்வதேச கடவுச்சீட்டு (Pasport Malaysia Antarabangsa)"
     url: "https://www.imi.gov.my/index.php/en/main-services/passport/malaysian-international-passport/"
-    publisher: "Jabatan Imigresen Malaysia"
-  - title: "Permohonan Pembaharuan Pasport Malaysia Antarabangsa"
+    publisher: "மலேசிய குடிவரவுத் துறை"
+  - title: "மலேசிய சர்வதேச கடவுச்சீட்டு புதுப்பித்தல் விண்ணப்பம் (Permohonan Pembaharuan Pasport Malaysia Antarabangsa)"
     url: "https://www.malaysia.gov.my/my/digital-services/permohonan-pembaharuan-pasport-malaysia-antarabangsa"
     publisher: "MyGovernment / Malaysia.gov.my"
-  - title: "Pejabat Penerima dan Pengeluar Pasport"
+  - title: "கடவுச்சீட்டு பெறுநர் மற்றும் வழங்கும் அலுவலகம் (Pejabat Penerima dan Pengeluar Pasport)"
     url: "https://www.imi.gov.my/index.php/en/main-services/passport/passport-recipient-and-issuance-offices/"
-    publisher: "Jabatan Imigresen Malaysia"
-  - title: "Proses Permohonan myOnline Passport Bagi Pejabat Pungutan di Malaysia (Panduan)"
+    publisher: "மலேசிய குடிவரவுத் துறை"
+  - title: "மலேசியாவில் சேகரிப்பு அலுவலகங்களுக்கான myOnline Passport விண்ணப்ப செயல்முறை (வழிகாட்டி) (Proses Permohonan myOnline Passport Bagi Pejabat Pungutan di Malaysia (Panduan))"
     url: "https://imigresen-online.imi.gov.my/eservices/doc/PanduanMyOnlinePassport.pdf"
-    publisher: "Jabatan Imigresen Malaysia"
+    publisher: "மலேசிய குடிவரவுத் துறை"
     date: "2023-09-01"
-  - title: "MyOnLine Passport"
+  - title: "MyOnLine Passport (MyOnLine Passport)"
     url: "https://www.imi.gov.my/index.php/pengumuman/myonline-passport/"
-    publisher: "Jabatan Imigresen Malaysia"
+    publisher: "மலேசிய குடிவரவுத் துறை"
 
 entity: "Pembaharuan dan penggantian pasport antarabangsa Malaysia"
 relations:

@@ -46,7 +46,7 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "Melaka dan George Town, Bandar Bersejarah Selat Melaka (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
     publisher: "UNESCO World Heritage Centre"
   - title: "Arkib Negara Malaysia (National Archives of Malaysia)"

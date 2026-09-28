@@ -35,18 +35,18 @@ revisions:
 sensitivity: "none"
 updated: 2026-07-24
 sources:
-  - title: "Kinabalu Park"
+  - title: "Taman Kinabalu (Kinabalu Park)"
     url: "https://worldheritageoutlook.iucn.org/explore-sites/kinabalu-park"
     publisher: "IUCN World Heritage Outlook"
-  - title: "Kinabalu Park"
+  - title: "Taman Kinabalu (Kinabalu Park)"
     url: "https://whc.unesco.org/en/list/1012/"
     publisher: "UNESCO World Heritage Centre"
-  - title: "Mount Kinabalu Neogene Granite"
+  - title: "Granit Neogen Gunung Kinabalu (Mount Kinabalu Neogene Granite)"
     url: "https://iugs-geoheritage.org/geoheritage_sites/mount-kinabalu-neogene-granite/"
     publisher: "International Union of Geological Sciences (IUGS)"
-  - title: "Mount Kinabalu"
+  - title: "Gunung Kinabalu (Mount Kinabalu)"
     url: "https://www.sabahparks.org.my/kinabalu-park/mount-kinabalu"
-    publisher: "Sabah Parks"
+    publisher: "Taman-Taman Sabah"
 entity: "Mount Kinabalu"
 wikidata: "Q60967"
 relations:

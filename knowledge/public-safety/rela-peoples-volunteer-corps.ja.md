@@ -52,15 +52,15 @@ verificationNeeded:
   - "P.U. (A) 165/2024によって改正された現行の附則に照らして、完全な階級の順序と略称を確認すること。"
 updated: 2026-08-01
 sources:
-  - title: "Act 752 — Jabatan Sukarelawan Malaysia (RELA)"
+  - title: "Act 752 — マレーシア義勇団局(RELA) (Act 752 — Jabatan Sukarelawan Malaysia (RELA))"
     url: "https://www.rela.gov.my/?page_id=5611&lang=en"
-    publisher: "Jabatan Sukarelawan Malaysia (RELA)"
-  - title: "Akta Pasukan Sukarelawan Malaysia 2012 (Akta 752) — Versi Dalam Talian Teks Cetakan Semula Yang Kemas Kini (sebagaimana pada 1 Julai 2024)"
+    publisher: "マレーシア義勇団局 (RELA)"
+  - title: "Malaysia Volunteers Corps Act 2012(第752号法)— 最新再版テキストのオンライン版(2024年7月1日現在) (Akta Pasukan Sukarelawan Malaysia 2012 (Akta 752) — Versi Dalam Talian Teks Cetakan Semula Yang Kemas Kini (sebagaimana pada 1 Julai 2024))"
     url: "https://www.moha.gov.my/utama/images/akta-pekeliling-garispanduan/bhg-kepenjaraan-antidadah-rela/akta/Akta_752_-_Akta_Pasukan_Sukarelawan_Malaysia_2012.pdf"
-    publisher: "Jabatan Peguam Negara (teks kemas kini dalam talian, dihoskan di portal Kementerian Dalam Negeri)"
-  - title: "Enforcement — Malaysian Immigration Department"
+    publisher: "司法長官府(更新版オンラインテキスト、内務省ポータルにて公開)"
+  - title: "執行 — マレーシア入国管理局 (Enforcement — Malaysian Immigration Department)"
     url: "https://www.imi.gov.my/index.php/en/enforcement/"
-    publisher: "Jabatan Imigresen Malaysia"
+    publisher: "マレーシア入国管理局"
 
 entity: "Pasukan Sukarelawan Malaysia (RELA)"
 wikidata: "Q2750770"

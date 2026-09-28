@@ -54,19 +54,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Convention of 5 October 1961 Abolishing the Requirement of Legalisation for Foreign Public Documents — Status table"
+  - title: "வெளிநாட்டு பொது ஆவணங்களுக்கான சான்றளிப்புத் தேவையை நீக்கும் 1961 அக்டோபர் 5 உடன்படிக்கை — நிலை அட்டவணை (Convention of 5 October 1961 Abolishing the Requirement of Legalisation for Foreign Public Documents — Status table)"
     url: "https://www.hcch.net/en/instruments/conventions/status-table/?cid=41"
     publisher: "Hague Conference on Private International Law (HCCH)"
-  - title: "Attestation of Documents"
+  - title: "ஆவணங்களின் சான்றளிப்பு (Attestation of Documents)"
     url: "https://www.kln.gov.my/web/guest/attestation-of-documents"
-    publisher: "Ministry of Foreign Affairs, Malaysia (Wisma Putra) — Consular Division"
-  - title: "Legalisation of documents"
+    publisher: "மலேசிய வெளியுறவு அமைச்சு (Wisma Putra) — தூதரகப் பிரிவு"
+  - title: "ஆவணங்களின் சட்டப்பூர்வமாக்கல் (Legalisation of documents)"
     url: "https://malaysia.diplomatie.belgium.be/en/consular-services/legalisation-documents"
     publisher: "Embassy of Belgium in Kuala Lumpur"
-  - title: "Guide to Legalizing Malaysian Documents for Use in Germany"
+  - title: "ஜெர்மனியில் பயன்படுத்துவதற்கான மலேசிய ஆவணங்களை சட்டப்பூர்வமாக்குவதற்கான வழிகாட்டி (Guide to Legalizing Malaysian Documents for Use in Germany)"
     url: "https://kuala-lumpur.diplo.de/my-en/service/1673424-1673424"
     publisher: "German Federal Foreign Office / German Embassy Kuala Lumpur"
-  - title: "Document Notarization Service"
+  - title: "ஆவண நோட்டரி சேவை (Document Notarization Service)"
     url: "https://overseas.mofa.go.kr/my-en/brd/m_1912/view.do?seq=761496"
     publisher: "Embassy of the Republic of Korea in Malaysia"
 

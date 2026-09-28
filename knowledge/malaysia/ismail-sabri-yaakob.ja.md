@@ -54,13 +54,13 @@ sensitivity: "legal-proceedings"
 created: 2026-08-27
 updated: 2026-08-27
 sources:
-  - title: "Malaysia's Ismail Sabri Yaakob sworn in as new PM"
+  - title: "マレーシアのイスマイル・サブリ・ヤアコブ、新首相として宣誓就任 (Malaysia's Ismail Sabri Yaakob sworn in as new PM)"
     url: "https://www.aljazeera.com/news/2021/8/21/malaysias-ismail-sabri-yaakob-sworn-in-as-new-pm"
     publisher: "Al Jazeera"
-  - title: "Anwar Ibrahim Sworn In as 10th Prime Minister of Malaysia"
+  - title: "アンワル・イブラヒム、マレーシア第10代首相として宣誓就任 (Anwar Ibrahim Sworn In as 10th Prime Minister of Malaysia)"
     url: "https://www.pmo.gov.my/en/news-en/anwar-ibrahim-sworn-in-as-10th-prime-minister-of-malaysia/"
-    publisher: "Prime Minister's Office of Malaysia"
-  - title: "MACC completes Ismail Sabri graft probe"
+    publisher: "マレーシア首相府"
+  - title: "MACC、イスマイル・サブリの汚職捜査を完了 (MACC completes Ismail Sabri graft probe)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/06/25/macc-completes-ismail-sabri-graft-probe"
     publisher: "Free Malaysia Today"
 

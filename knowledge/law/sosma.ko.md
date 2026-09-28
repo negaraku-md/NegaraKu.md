@@ -42,19 +42,19 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Act 747 — Security Offences (Special Measures) Act 2012 (full text)"
+  - title: "Act 747 — Security Offences (Special Measures) Act 2012 (전문) (Act 747 — Security Offences (Special Measures) Act 2012 (full text))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20120622_747_BI_Act%20747%20BI.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "말레이시아 법무장관실"
     date: "2012-06-22"
-  - title: "Act 747 — Security Offences (Special Measures) Act 2012, principal Act record and timeline"
+  - title: "Act 747 — Security Offences (Special Measures) Act 2012, 주법률 기록 및 연혁 (Act 747 — Security Offences (Special Measures) Act 2012, principal Act record and timeline)"
     url: "https://lom.agc.gov.my/act-detail.php?act=747&lang=BI"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Security Offences (Special Measures) Act 2012 — reprint text (section-by-section)"
+    publisher: "말레이시아 법무장관실"
+  - title: "Security Offences (Special Measures) Act 2012 — 재판 본문 (조문별) (Security Offences (Special Measures) Act 2012 — reprint text (section-by-section))"
     url: "https://en.wikisource.org/wiki/Security_Offences_(Special_Measures)_Act_2012"
     publisher: "Wikisource (transcription of the Laws of Malaysia reprint of Act 747)"
-  - title: "Penal Code (Act 574), Chapters VI and VIA — reprint"
+  - title: "Penal Code (Act 574), 제VI장 및 제VIA장 — 재판 (Penal Code (Act 574), Chapters VI and VIA — reprint)"
     url: "https://lom.agc.gov.my/act-detail.php?act=574&lang=BI"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "말레이시아 법무장관실"
 
 entity: "Security Offences (Special Measures) Act 2012"
 wikidata: "Q7444976"

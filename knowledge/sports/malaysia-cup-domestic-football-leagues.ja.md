@@ -56,16 +56,16 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "FAM sign a lucrative long term deal with MP & Silva"
+  - title: "FAM、MP & Silvaと有利な長期契約を締結 (FAM sign a lucrative long term deal with MP & Silva)"
     url: "https://www.aseanfootball.org/v3/fam-sign-a-lucrative-long-term-deal-with-mp-silva/"
     publisher: "ASEAN Football Federation (AFF)"
-  - title: "New Malaysian League to start May 2024 and ends in April 2025"
+  - title: "新マレーシアリーグ、2024年5月に開幕し2025年4月に閉幕 (New Malaysian League to start May 2024 and ends in April 2025)"
     url: "https://www.aseanfootball.org/v3/new-malaysian-league-to-start-may-2024-and-ends-in-april-2025/"
     publisher: "ASEAN Football Federation (AFF)"
-  - title: "Finally in the AFC Champions League Elite quarterfinals, Johor Darul Ta'zim face biggest test of all"
+  - title: "ついにAFCチャンピオンズリーグエリートの準々決勝へ、ジョホール・ダルル・タジムが最大の試練に直面 (Finally in the AFC Champions League Elite quarterfinals, Johor Darul Ta'zim face biggest test of all)"
     url: "https://www.espn.com/soccer/story/_/id/48503299/finally-afc-champions-league-elite-quarterfinals-johor-darul-tazim-face-biggest-test"
     publisher: "ESPN"
-  - title: "Malaysia – List of Cup Winners (Malaya Cup / Malaysia Cup, dari 1921; dinamakan semula mulai musim 1967)"
+  - title: "マレーシア – カップ優勝者一覧(マラヤカップ/マレーシアカップ、1921年から;1967年シーズンより改称) (Malaysia – List of Cup Winners (Malaya Cup / Malaysia Cup, dari 1921; dinamakan semula mulai musim 1967))"
     url: "https://www.rsssf.org/tablesm/malaycuphist.html"
     publisher: "Rec.Sport.Soccer Statistics Foundation (RSSSF)"
 

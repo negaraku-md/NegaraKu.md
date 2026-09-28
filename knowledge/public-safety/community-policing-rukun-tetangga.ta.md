@@ -49,24 +49,24 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Skim Rondaan Sukarela (SRS)"
+  - title: "தன்னார்வ ரோந்து திட்டம் (Skim Rondaan Sukarela (SRS))"
     url: "https://www.perpaduan.gov.my/index.php/en/36-jentera-perpaduan/62-skim-rondaan-sukarela"
-    publisher: "Jabatan Perpaduan Negara dan Integrasi Nasional (JPNIN)"
-  - title: "Portal Rasmi Kementerian Perpaduan Negara"
+    publisher: "தேசிய ஒற்றுமை மற்றும் தேசிய ஒருங்கிணைப்புத் துறை (JPNIN)"
+  - title: "தேசிய ஒற்றுமை அமைச்சின் அதிகாரப்பூர்வ இணையவாயில் (Portal Rasmi Kementerian Perpaduan Negara)"
     url: "https://www.perpaduan.gov.my"
-    publisher: "Kementerian Perpaduan Negara"
-  - title: "KPN Cadang Pinda Akta 751, Panjangkan Tempoh Pelantikan AJK RT Kepada Tiga Tahun"
+    publisher: "தேசிய ஒற்றுமை அமைச்சு"
+  - title: "KPN சட்டம் 751-ஐத் திருத்த முன்மொழிகிறது, RT குழு உறுப்பினர் நியமனக் காலத்தை மூன்று ஆண்டுகளாக நீட்டிக்கிறது (KPN Cadang Pinda Akta 751, Panjangkan Tempoh Pelantikan AJK RT Kepada Tiga Tahun)"
     url: "https://www.bernama.com/bm/news.php?id=2462200"
     publisher: "BERNAMA"
-  - title: "Lima Peratus Daripada 8,529 KRT Seluruh Negara Pasif"
+  - title: "நாடு முழுவதும் உள்ள 8,529 KRT-களில் ஐந்து சதவீதம் செயலற்ற நிலையில் (Lima Peratus Daripada 8,529 KRT Seluruh Negara Pasif)"
     url: "https://www.bernama.com/bm/news.php?id=2390741"
     publisher: "BERNAMA"
-  - title: "SRS dan KRT Perkukuh Keselamatan, Keharmonian Komuniti"
+  - title: "SRS மற்றும் KRT சமூகப் பாதுகாப்பையும் நல்லிணக்கத்தையும் வலுப்படுத்துகின்றன (SRS dan KRT Perkukuh Keselamatan, Keharmonian Komuniti)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/srs-dan-krt-perkukuh-keselamatan-keharmonian-komuniti/"
     publisher: "Portal Berita RTM"
-  - title: "Jawatankuasa Kemajuan & Keselamatan Kampung (JKKK)"
+  - title: "கிராம முன்னேற்ற மற்றும் பாதுகாப்புக் குழு (Jawatankuasa Kemajuan & Keselamatan Kampung (JKKK))"
     url: "https://kplb.sabah.gov.my/en/jawatankuasa-kemajuan-keselamatan-kampung-jkkk/"
-    publisher: "Kementerian Pembangunan Luar Bandar Sabah"
+    publisher: "சபா ஊரக மேம்பாட்டு அமைச்சு"
 
 entity: "Rukun Tetangga"
 relations:

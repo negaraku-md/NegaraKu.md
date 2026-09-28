@@ -40,12 +40,12 @@ sensitivity: "constitution"
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint 2020)"
+  - title: "Federal Constitution (2020 மறுபதிப்பு) (Federal Constitution (Reprint 2020))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Federal Legislation Portal — Federal Constitution"
+    publisher: "மலேசியா அரசு வழக்கறிஞர் அலுவலகம்"
+  - title: "கூட்டாட்சி சட்டமியற்றல் போர்டல் — Federal Constitution (Federal Legislation Portal — Federal Constitution)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "மலேசியா அரசு வழக்கறிஞர் அலுவலகம்"
 
 entity: "Part II (Fundamental Liberties), Federal Constitution of Malaysia"
 relations:

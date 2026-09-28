@@ -53,17 +53,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society"
+  - title: "பொது தீர்ப்பு எண். 8/2014 — நிறுவனம், வரையறுக்கப்பட்ட பொறுப்பு கூட்டாண்மை, நம்பிக்கை அமைப்பு மற்றும் கூட்டுறவு சங்கத்தின் அடிப்படை காலம் (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_8_2014.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2014-12-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 21A, 77A, 107C and 112"
+  - title: "Income Tax Act 1967 (Act 53), 2024 மே 21 வரையிலான மறுபதிப்பு — பிரிவுகள் 21A, 77A, 107C மற்றும் 112 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 21A, 77A, 107C and 112)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2024-05-21"
-  - title: "Change In Accounting Period"
+  - title: "கணக்கியல் காலத்தில் மாற்றம் (Change In Accounting Period)"
     url: "https://www.hasil.gov.my/en/syarikat/pertukaran-tarikh-penutupan-akaun-syarikat/"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Basis period"
 relations:

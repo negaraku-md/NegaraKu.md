@@ -48,16 +48,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Act 53 — Income Tax Act 1967, principal Act timeline and subsidiary legislation"
+  - title: "Act 53 — Income Tax Act 1967, முதன்மைச் சட்டத்தின் காலவரிசை மற்றும் துணைச் சட்டங்கள் (Act 53 — Income Tax Act 1967, principal Act timeline and subsidiary legislation)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "மலேசியா அரசு வழக்கறிஞர் அலுவலகம்"
     date: "2024-05-01"
-  - title: "Lembaga Hasil Dalam Negeri Malaysia"
+  - title: "மலேசியா உள்நாட்டு வருவாய் வாரியம் (Lembaga Hasil Dalam Negeri Malaysia)"
     url: "https://www.hasil.gov.my/"
-    publisher: "LHDN"
-  - title: "Profil Korporat — Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "நிறுவனச் சுயவிவரம் — மலேசியா உள்நாட்டு வருவாய் வாரியம் (Profil Korporat — Lembaga Hasil Dalam Negeri Malaysia)"
     url: "https://www.hasil.gov.my/mengenai-hasil/profil-korporat/"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Income Tax Act 1967"
 wikidata: "Q12682321"

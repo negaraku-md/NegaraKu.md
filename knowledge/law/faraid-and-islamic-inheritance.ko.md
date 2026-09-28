@@ -55,16 +55,16 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Pembahagian Harta Pusaka"
+  - title: "유산 분배 (Pembahagian Harta Pusaka)"
     url: "https://www.malaysia.gov.my/my/categories/kematian-pusaka/pembahagian-harta-pusaka"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGov)"
-  - title: "Kenapa Waris Perlu Mendapatkan Perintah Faraid?"
+    publisher: "말레이시아 정부 공식 포털 (MyGov)"
+  - title: "상속인은 왜 Faraid 명령을 받아야 하는가? (Kenapa Waris Perlu Mendapatkan Perintah Faraid?)"
     url: "https://efaraid.mais.gov.my/kenapa-waris-perlu-mendapatkan-perintah-faraid/"
-    publisher: "Majlis Agama Islam Selangor (MAIS) — e-Faraid"
-  - title: "Big Changes for Small Estates (Distribution) Act 1955"
+    publisher: "슬랑오르 이슬람종교위원회 (MAIS) — e-Faraid"
+  - title: "Small Estates (Distribution) Act 1955의 큰 변화 (Big Changes for Small Estates (Distribution) Act 1955)"
     url: "https://www.skrine.com/insights/alerts/march-2022/big-changes-for-small-estates-distribution-act-195"
     publisher: "Skrine"
-  - title: "Apa Itu Hukum Faraid?"
+  - title: "Faraid 법이란 무엇인가? (Apa Itu Hukum Faraid?)"
     url: "https://as-salihin.com/apa-itu-hukum-faraid/"
     publisher: "as-Salihin Trustee Berhad"
 

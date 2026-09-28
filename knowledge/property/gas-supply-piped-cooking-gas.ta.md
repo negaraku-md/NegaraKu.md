@@ -56,22 +56,22 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Gas Malaysia ESRNC — Terms and Conditions"
+  - title: "Gas Malaysia ESRNC — விதிமுறைகள் மற்றும் நிபந்தனைகள் (Gas Malaysia ESRNC — Terms and Conditions)"
     url: "https://esrnc.gasmalaysia.com/index.php/terms-and-conditions"
     publisher: "Gas Malaysia Berhad"
-  - title: "Residential and Commercial — Gas Malaysia Energy and Services"
+  - title: "குடியிருப்பு மற்றும் வணிகம் — Gas Malaysia Energy and Services (Residential and Commercial — Gas Malaysia Energy and Services)"
     url: "https://www.gasmalaysia-gmes.com/residential-and-commercial/"
     publisher: "Gas Malaysia Energy and Services"
-  - title: "How to apply a new Gas Malaysia account (reported applicant experience)"
+  - title: "புதிய Gas Malaysia கணக்கை எவ்வாறு விண்ணப்பிப்பது (விண்ணப்பதாரர் அனுபவப் பகிர்வு) (How to apply a new Gas Malaysia account (reported applicant experience))"
     url: "https://cikgujuin.com/how-to-apply-a-new-gas-malaysia-account/"
     publisher: "cikgujuin.com (blog)"
-  - title: "Domestic trade ministry's LPG cylinder operation explained"
+  - title: "உள்நாட்டு வர்த்தக அமைச்சின் LPG சிலிண்டர் நடவடிக்கை விளக்கம் (Domestic trade ministry's LPG cylinder operation explained)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/06/03/domestic-trade-ministrys-lpg-cylinder-operation-explained"
     publisher: "Free Malaysia Today"
-  - title: "Get ready to pay more at eateries"
+  - title: "உணவகங்களில் அதிகம் செலுத்த தயாராகுங்கள் (Get ready to pay more at eateries)"
     url: "https://www.thestar.com.my/news/nation/2025/06/01/get-ready-to-pay-more-at-eateries"
     publisher: "The Star"
-  - title: "QuickCheck: Is there a price adjustment to subsidised domestic gas cylinders?"
+  - title: "QuickCheck: மானியம் பெற்ற வீட்டு எரிவாயு சிலிண்டர்களின் விலையில் மாற்றம் உள்ளதா? (QuickCheck: Is there a price adjustment to subsidised domestic gas cylinders?)"
     url: "https://www.thestar.com.my/news/true-or-not/2026/04/08/quickcheck-is-there-a-price-adjustment-to-subsidised-domestic-gas-cylinders-as-claimed-by-a-negri-company"
     publisher: "The Star"
 

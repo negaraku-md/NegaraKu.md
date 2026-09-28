@@ -33,12 +33,12 @@ sensitivity: "constitution"
 
 updated: 2026-07-10
 sources:
-  - title: "Federal Constitution (as at 1 September 2022 reprint)"
+  - title: "Federal Constitution (bản tái bản tính đến ngày 1 tháng 9 năm 2022) (Federal Constitution (as at 1 September 2022 reprint))"
     url: "http://www.agc.gov.my/agcportal/index.php?r=portal2/lom"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Laws of Malaysia — Federal Constitution"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
+  - title: "Luật pháp Malaysia — Federal Constitution (Laws of Malaysia — Federal Constitution)"
     url: "https://www.federalgazette.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
 
 entity: "Federal Constitution"
 wikidata: "Q1003080"

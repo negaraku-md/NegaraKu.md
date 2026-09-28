@@ -49,24 +49,24 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Skim Rondaan Sukarela (SRS)"
+  - title: "โครงการลาดตระเวนอาสาสมัคร (Skim Rondaan Sukarela (SRS))"
     url: "https://www.perpaduan.gov.my/index.php/en/36-jentera-perpaduan/62-skim-rondaan-sukarela"
-    publisher: "Jabatan Perpaduan Negara dan Integrasi Nasional (JPNIN)"
-  - title: "Portal Rasmi Kementerian Perpaduan Negara"
+    publisher: "กรมความสามัคคีแห่งชาติและการบูรณาการแห่งชาติ (JPNIN)"
+  - title: "พอร์ทัลทางการของกระทรวงความสามัคคีแห่งชาติ (Portal Rasmi Kementerian Perpaduan Negara)"
     url: "https://www.perpaduan.gov.my"
-    publisher: "Kementerian Perpaduan Negara"
-  - title: "KPN Cadang Pinda Akta 751, Panjangkan Tempoh Pelantikan AJK RT Kepada Tiga Tahun"
+    publisher: "กระทรวงความสามัคคีแห่งชาติ"
+  - title: "กระทรวงความสามัคคีแห่งชาติเสนอแก้ไขพระราชบัญญัติฉบับที่ 751 ขยายวาระการแต่งตั้งกรรมการ RT เป็นสามปี (KPN Cadang Pinda Akta 751, Panjangkan Tempoh Pelantikan AJK RT Kepada Tiga Tahun)"
     url: "https://www.bernama.com/bm/news.php?id=2462200"
     publisher: "BERNAMA"
-  - title: "Lima Peratus Daripada 8,529 KRT Seluruh Negara Pasif"
+  - title: "ร้อยละห้าของ KRT จำนวน 8,529 แห่งทั่วประเทศไม่มีการเคลื่อนไหว (Lima Peratus Daripada 8,529 KRT Seluruh Negara Pasif)"
     url: "https://www.bernama.com/bm/news.php?id=2390741"
     publisher: "BERNAMA"
-  - title: "SRS dan KRT Perkukuh Keselamatan, Keharmonian Komuniti"
+  - title: "SRS และ KRT เสริมสร้างความปลอดภัยและความสามัคคีของชุมชน (SRS dan KRT Perkukuh Keselamatan, Keharmonian Komuniti)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/srs-dan-krt-perkukuh-keselamatan-keharmonian-komuniti/"
     publisher: "Portal Berita RTM"
-  - title: "Jawatankuasa Kemajuan & Keselamatan Kampung (JKKK)"
+  - title: "คณะกรรมการพัฒนาและความมั่นคงหมู่บ้าน (Jawatankuasa Kemajuan & Keselamatan Kampung (JKKK))"
     url: "https://kplb.sabah.gov.my/en/jawatankuasa-kemajuan-keselamatan-kampung-jkkk/"
-    publisher: "Kementerian Pembangunan Luar Bandar Sabah"
+    publisher: "กระทรวงการพัฒนาชนบทซาบาห์"
 
 entity: "Rukun Tetangga"
 relations:

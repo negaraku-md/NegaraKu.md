@@ -49,14 +49,14 @@ sources:
   - title: "Arkib Negara Malaysia (National Archives of Malaysia)"
     url: "https://www.arkib.gov.my/"
     publisher: "Arkib Negara Malaysia"
-  - title: "Federal Constitution — Laws of Malaysia"
+  - title: "Perlembagaan Persekutuan — Undang-Undang Malaysia (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Sarawak Government Official Portal"
+    publisher: "Jabatan Peguam Negara Malaysia"
+  - title: "Portal Rasmi Kerajaan Sarawak (Sarawak Government Official Portal)"
     url: "https://sarawak.gov.my/"
-    publisher: "Government of Sarawak"
-  - title: "Cobbold Commission Report, 1962"
-    publisher: "Government of the United Kingdom / Federation of Malaya"
+    publisher: "Kerajaan Sarawak"
+  - title: "Laporan Suruhanjaya Cobbold, 1962 (Cobbold Commission Report, 1962)"
+    publisher: "Kerajaan United Kingdom / Persekutuan Tanah Melayu"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "independence-1957" }

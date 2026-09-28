@@ -53,19 +53,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Federal Constitution (Reprint As at 15 October 2020) — Articles 23 & 24"
+  - title: "Federal Constitution (2020 அக்டோபர் 15 நிலவரப்படி மறுபதிப்பு) — பிரிவுகள் 23 & 24 (Federal Constitution (Reprint As at 15 October 2020) — Articles 23 & 24)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Pejabat Peguam Negara)"
-  - title: "Application for Renunciation of Citizenship Status Under Article 23 of the Federal Constitution"
+    publisher: "மலேசிய சட்ட மா அதிபர் அலுவலகம் (Pejabat Peguam Negara)"
+  - title: "கூட்டாட்சி அரசியலமைப்பின் 23வது பிரிவின் கீழ் குடியுரிமை நிலையைத் துறப்பதற்கான விண்ணப்பம் (Application for Renunciation of Citizenship Status Under Article 23 of the Federal Constitution)"
     url: "https://www.jpn.gov.my/en/services/citizenship/application-for-renunciation-of-citizenship-status-under-article-23-of-the-federal-constitution/"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department)"
-  - title: "Renunciation of Malaysian Citizenship"
+    publisher: "தேசிய பதிவுத் துறை (JPN)"
+  - title: "மலேசிய குடியுரிமையைத் துறத்தல் (Renunciation of Malaysian Citizenship)"
     url: "https://www.malaysia.gov.my/en/categories/personal-identification/kewarganegaraan/renunciation-of-malaysian-citizenship"
-    publisher: "MyGovernment Portal (Malaysian Administrative Modernisation and Management Planning Unit)"
-  - title: "No Policy Change In Case Of Dual Citizenship Holders Surrendering MyKad"
+    publisher: "MyGovernment போர்டல் (மலேசிய நிர்வாக நவீனமயமாக்கல் மற்றும் மேலாண்மைத் திட்டமிடல் பிரிவு)"
+  - title: "இரட்டைக் குடியுரிமை வைத்திருப்பவர்கள் MyKadஐ ஒப்படைப்பதில் கொள்கை மாற்றம் இல்லை (No Policy Change In Case Of Dual Citizenship Holders Surrendering MyKad)"
     url: "https://www.bernama.com/en/news.php?id=2503691"
     publisher: "Bernama"
-  - title: "Malaysia does not recognise dual citizenship, says home minister"
+  - title: "மலேசியா இரட்டைக் குடியுரிமையை அங்கீகரிக்கவில்லை என்று உள்துறை அமைச்சர் கூறுகிறார் (Malaysia does not recognise dual citizenship, says home minister)"
     url: "https://www.malaymail.com/news/malaysia/2019/03/21/malaysia-does-not-recognise-dual-citizenship-says-home-minister/1735018"
     publisher: "Malay Mail"
 

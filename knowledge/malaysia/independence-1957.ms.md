@@ -49,14 +49,14 @@ sources:
   - title: "Arkib Negara Malaysia (National Archives of Malaysia)"
     url: "https://www.arkib.gov.my/"
     publisher: "Arkib Negara Malaysia"
-  - title: "Federal Constitution — Laws of Malaysia"
+  - title: "Perlembagaan Persekutuan — Undang-Undang Malaysia (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Official Portal of the Parliament of Malaysia"
+    publisher: "Jabatan Peguam Negara Malaysia"
+  - title: "Portal Rasmi Parlimen Malaysia (Official Portal of the Parliament of Malaysia)"
     url: "https://www.parlimen.gov.my/index.php?lang=en"
-    publisher: "Parliament of Malaysia"
-  - title: "The Reid Commission Report, 1957"
-    publisher: "Government of the United Kingdom / Federation of Malaya"
+    publisher: "Parlimen Malaysia"
+  - title: "Laporan Suruhanjaya Reid, 1957 (The Reid Commission Report, 1957)"
+    publisher: "Kerajaan United Kingdom / Persekutuan Tanah Melayu"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "formation-of-malaysia-1963" }

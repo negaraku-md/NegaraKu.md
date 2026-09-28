@@ -52,15 +52,15 @@ verificationNeeded:
   - "P.U. (A) 165/2024로 개정된 현행 부칙(Jadual)과 대조하여 계급의 순서 및 전체 약칭을 확인할 것."
 updated: 2026-08-01
 sources:
-  - title: "Act 752 — Jabatan Sukarelawan Malaysia (RELA)"
+  - title: "Act 752 — 말레이시아 자원봉사대청(RELA) (Act 752 — Jabatan Sukarelawan Malaysia (RELA))"
     url: "https://www.rela.gov.my/?page_id=5611&lang=en"
-    publisher: "Jabatan Sukarelawan Malaysia (RELA)"
-  - title: "Akta Pasukan Sukarelawan Malaysia 2012 (Akta 752) — Versi Dalam Talian Teks Cetakan Semula Yang Kemas Kini (sebagaimana pada 1 Julai 2024)"
+    publisher: "말레이시아 자원봉사대청 (RELA)"
+  - title: "Malaysia Volunteers Corps Act 2012(제752호법) — 최신 재판 본문 온라인판(2024년 7월 1일 기준) (Akta Pasukan Sukarelawan Malaysia 2012 (Akta 752) — Versi Dalam Talian Teks Cetakan Semula Yang Kemas Kini (sebagaimana pada 1 Julai 2024))"
     url: "https://www.moha.gov.my/utama/images/akta-pekeliling-garispanduan/bhg-kepenjaraan-antidadah-rela/akta/Akta_752_-_Akta_Pasukan_Sukarelawan_Malaysia_2012.pdf"
-    publisher: "Jabatan Peguam Negara (teks kemas kini dalam talian, dihoskan di portal Kementerian Dalam Negeri)"
-  - title: "Enforcement — Malaysian Immigration Department"
+    publisher: "법무장관실(온라인 최신 본문, 내무부 포털에 게시)"
+  - title: "집행 — 말레이시아 이민국 (Enforcement — Malaysian Immigration Department)"
     url: "https://www.imi.gov.my/index.php/en/enforcement/"
-    publisher: "Jabatan Imigresen Malaysia"
+    publisher: "말레이시아 이민국"
 
 entity: "Pasukan Sukarelawan Malaysia (RELA)"
 wikidata: "Q2750770"

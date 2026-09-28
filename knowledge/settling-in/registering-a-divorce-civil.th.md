@@ -57,13 +57,13 @@ verificationNeeded:
   - "ว่าศาลไกล่เกลี่ยการสมรสของ JPN ในทางปฏิบัติปัจจุบันเป็นองค์กรไกล่เกลี่ยเริ่มต้นสำหรับท้องถิ่นที่กำหนดหรือไม่ (มาตรา 106(2) อนุญาตให้ใช้องค์กรใดที่ทั้งสองฝ่ายยอมรับได้)"
 updated: 2026-08-07
 sources:
-  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint"
+  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — ฉบับพิมพ์ซ้ำอย่างเป็นทางการ (Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "How to refer to Marriage Tribunal JPN Malaysia?"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
+  - title: "วิธีการส่งเรื่องไปยังศาลไกล่เกลี่ยการสมรส JPN มาเลเซีย (How to refer to Marriage Tribunal JPN Malaysia?)"
     url: "https://arinaong.com/refer-marriage-tribunal-jpn-malaysia/"
     publisher: "Arina Ong & Co (law firm)"
-  - title: "Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce"
+  - title: "การสมรส การหย่า และมรดกของผู้ที่มิใช่มุสลิม — การสมรสและการหย่าทางแพ่ง (Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce)"
     url: "https://www.wccpenang.org/non-muslim-marriage-sec1-civil-marriage/"
     publisher: "Women's Centre for Change (WCC), Penang"
 

@@ -39,22 +39,22 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint 2020) — Article 3, Article 32, Article 38, Fifth Schedule"
+  - title: "連邦憲法（2020年再版）— 第3条、第32条、第38条、第五附表 (Federal Constitution (Reprint 2020) — Article 3, Article 32, Article 38, Fifth Schedule)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "マレーシア司法長官府 (Attorney General's Chambers)"
     date: "2020-10-15"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Persekutuan"
+  - title: "連邦憲法 — 連邦法令ポータル (Perlembagaan Persekutuan — Portal Perundangan Persekutuan)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Perkara 3 — Agama bagi Persekutuan"
+    publisher: "マレーシア司法長官府"
+  - title: "第3条 — 連邦の宗教 (Perkara 3 — Agama bagi Persekutuan)"
     url: "https://www.jpapencen.gov.my/CAT289562/Published/perkara3-Ma.Html"
-    publisher: "Jabatan Perkhidmatan Awam Malaysia"
-  - title: "Background and History — Conference of Rulers"
+    publisher: "マレーシア公務局"
+  - title: "背景と歴史 — 統治者会議 (Background and History — Conference of Rulers)"
     url: "https://www.majlisraja-raja.gov.my/en/corporate-info/background-and-history"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
-  - title: "Maklumat Majlis Raja-Raja"
+    publisher: "統治者国璽保管官事務所"
+  - title: "統治者会議に関する情報 (Maklumat Majlis Raja-Raja)"
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
+    publisher: "統治者国璽保管官事務所"
 
 entity: "Raja-Raja Melayu"
 relations:

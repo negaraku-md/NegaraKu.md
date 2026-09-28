@@ -52,17 +52,17 @@ sensitivity: "none"
 
 updated: 2026-07-23
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "말라카와 조지타운, 말라카 해협의 역사도시 (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
     publisher: "UNESCO World Heritage Centre"
     date: "2008-01-01"
-  - title: "OpenDOSM — official statistics data catalogue"
+  - title: "OpenDOSM — 공식 통계 데이터 카탈로그 (OpenDOSM — official statistics data catalogue)"
     url: "https://open.dosm.gov.my/data-catalogue"
-    publisher: "Department of Statistics Malaysia"
-  - title: "Penang State Government Portal"
+    publisher: "말레이시아 통계청 (DOSM)"
+  - title: "페낭주 정부 포털 (Penang State Government Portal)"
     url: "https://www.penang.gov.my/"
-    publisher: "Penang State Government"
-  - title: "InvestPenang"
+    publisher: "페낭주 정부"
+  - title: "InvestPenang (InvestPenang)"
     url: "https://investpenang.gov.my/"
     publisher: "InvestPenang"
 

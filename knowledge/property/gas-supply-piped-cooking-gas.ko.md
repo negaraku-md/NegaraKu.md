@@ -56,22 +56,22 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Gas Malaysia ESRNC — Terms and Conditions"
+  - title: "Gas Malaysia ESRNC — 이용 약관 (Gas Malaysia ESRNC — Terms and Conditions)"
     url: "https://esrnc.gasmalaysia.com/index.php/terms-and-conditions"
     publisher: "Gas Malaysia Berhad"
-  - title: "Residential and Commercial — Gas Malaysia Energy and Services"
+  - title: "주거용 및 상업용 — Gas Malaysia Energy and Services (Residential and Commercial — Gas Malaysia Energy and Services)"
     url: "https://www.gasmalaysia-gmes.com/residential-and-commercial/"
     publisher: "Gas Malaysia Energy and Services"
-  - title: "How to apply a new Gas Malaysia account (reported applicant experience)"
+  - title: "새 Gas Malaysia 계정 신청 방법(신청자 경험담) (How to apply a new Gas Malaysia account (reported applicant experience))"
     url: "https://cikgujuin.com/how-to-apply-a-new-gas-malaysia-account/"
     publisher: "cikgujuin.com (blog)"
-  - title: "Domestic trade ministry's LPG cylinder operation explained"
+  - title: "국내무역부의 LPG 실린더 단속 작전 설명 (Domestic trade ministry's LPG cylinder operation explained)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/06/03/domestic-trade-ministrys-lpg-cylinder-operation-explained"
     publisher: "Free Malaysia Today"
-  - title: "Get ready to pay more at eateries"
+  - title: "음식점에서 더 많은 지출을 각오해야 (Get ready to pay more at eateries)"
     url: "https://www.thestar.com.my/news/nation/2025/06/01/get-ready-to-pay-more-at-eateries"
     publisher: "The Star"
-  - title: "QuickCheck: Is there a price adjustment to subsidised domestic gas cylinders?"
+  - title: "QuickCheck: 보조금 지원 가정용 가스 실린더 가격 조정이 있는가? (QuickCheck: Is there a price adjustment to subsidised domestic gas cylinders?)"
     url: "https://www.thestar.com.my/news/true-or-not/2026/04/08/quickcheck-is-there-a-price-adjustment-to-subsidised-domestic-gas-cylinders-as-claimed-by-a-negri-company"
     publisher: "The Star"
 

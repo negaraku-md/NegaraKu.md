@@ -40,20 +40,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Act 828 — National Land Code (Revised — 2020), full consolidated text"
+  - title: "Act 828 — National Land Code (Revised — 2020), teks disatukan penuh (Act 828 — National Land Code (Revised — 2020), full consolidated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "Jabatan Peguam Negara Malaysia"
     date: "2020-10-15"
-  - title: "FAQ — When will the National Land Code be enforced?"
+  - title: "Soalan Lazim — Bilakah National Land Code akan dikuatkuasakan? (FAQ — When will the National Land Code be enforced?)"
     url: "https://www.jkptg.gov.my/en/soalan-lazim-3/43-faq/pengurusan-tanah/pengurusan-tanah-2/1044-when-will-the-national-land-code-be-enforced"
     publisher: "Jabatan Ketua Pengarah Tanah dan Galian (JKPTG)"
-  - title: "FAQ — What is the National Land Code (KTN) 1965?"
+  - title: "Soalan Lazim — Apakah National Land Code (KTN) 1965? (FAQ — What is the National Land Code (KTN) 1965?)"
     url: "https://www.jkptg.gov.my/en/soalan-lazim-3/43-faq/pengurusan-tanah/pengurusan-tanah-2/1041-what-is-the-national-land-code-ktn-1965"
     publisher: "Jabatan Ketua Pengarah Tanah dan Galian (JKPTG)"
-  - title: "Kanun Tanah Negara — list of land laws"
+  - title: "Kanun Tanah Negara — senarai undang-undang tanah (Kanun Tanah Negara — list of land laws)"
     url: "https://www.jkptg.gov.my/en/panduan/senarai-undang-undang/kanun-tanah-negara"
     publisher: "Jabatan Ketua Pengarah Tanah dan Galian (JKPTG)"
-  - title: "Basics of Indefeasibility under the National Land Code"
+  - title: "Asas Ketakbolehsangkalan di bawah National Land Code (Basics of Indefeasibility under the National Land Code)"
     url: "https://www.malaysianbar.org.my/property_law/basics_of_indefeasibility_under_the_national_land_code.html"
     publisher: "Malaysian Bar"
 

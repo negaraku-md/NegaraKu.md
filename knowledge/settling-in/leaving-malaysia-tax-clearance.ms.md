@@ -39,16 +39,16 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Pemberitahuan Pemberhentian Kerja (Notification of Cessation/Departure of Employee)"
+  - title: "Pemberitahuan Pemberhentian Kerja (Pemberitahuan Pemberhentian/Pemergian Pekerja) (Pemberitahuan Pemberhentian Kerja (Notification of Cessation/Departure of Employee))"
     url: "https://www.hasil.gov.my/majikan/pemberitahuan-pemberhentian-kerja/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDNM / HASiL)"
-  - title: "Garis Panduan Operasi Bil. 2/2024 — Prosedur Permohonan Surat Penyelesaian Cukai (SPC) Individu"
+  - title: "Garis Panduan Operasi Bil. 2/2024 — Prosedur Permohonan Surat Penyelesaian Cukai (SPC) Individu (Garis Panduan Operasi Bil. 2/2024 — Prosedur Permohonan Surat Penyelesaian Cukai (SPC) Individu)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20251101_garis-panduan-operasi-bil-2-tahun-2024-prosedur-permohonan-spc-individu.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDNM / HASiL)"
-  - title: "Leaving Country Withdrawal"
+  - title: "Pengeluaran Meninggalkan Negara (Leaving Country Withdrawal)"
     url: "https://www.kwsp.gov.my/en/member/account-centre/leaving-country"
     publisher: "Kumpulan Wang Simpanan Pekerja (KWSP / EPF)"
-  - title: "Check Out Memo Applications Now Mandatory Online"
+  - title: "Permohonan Check Out Memo Kini Wajib Dalam Talian (Check Out Memo Applications Now Mandatory Online)"
     url: "https://www.imi.gov.my/index.php/en/pengumuman/elementor-164422/"
     publisher: "Jabatan Imigresen Malaysia (Malaysian Immigration Department)"
 

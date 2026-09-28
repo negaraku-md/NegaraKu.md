@@ -56,16 +56,16 @@ verificationNeeded:
   - "சபா மற்றும் சரவாக்கிற்கான வழக்கறிஞர் கட்டளைச் சட்டம் 1953 (Advocates Ordinance 1953)-இன் சரியான ஆண்டு மற்றும் மேற்கோள் (Cap. குறிப்பு) — ஒவ்வொன்றையும் கட்டளைச் சட்ட உரைக்கு எதிராக உறுதிப்படுத்தவும்."
 updated: 2026-08-07
 sources:
-  - title: "Legal Profession Act 1976 (as at 1 August 2018)"
+  - title: "Legal Profession Act 1976 (2018 ஆகஸ்ட் 1 வரை) (Legal Profession Act 1976 (as at 1 August 2018))"
     url: "https://www.malaysianbar.org.my/cms/upload_files/document/Legal%20Profession%20Act%201976%20as%20at%201%20August%202018%20(English).from%20AGC%20website.pdf"
-    publisher: "Attorney General's Chambers / The Malaysian Bar"
-  - title: "About Us — Advocates & Solicitors Disciplinary Board"
+    publisher: "அரசு வழக்கறிஞர் அலுவலகம் / The Malaysian Bar"
+  - title: "எங்களைப் பற்றி — வழக்கறிஞர்கள் ஒழுங்கு வாரியம் (About Us — Advocates & Solicitors Disciplinary Board)"
     url: "https://asdb.org.my/about-us/"
-    publisher: "Advocates & Solicitors Disciplinary Board of Malaysia"
-  - title: "Jurisdiction — Advocates & Solicitors Disciplinary Board"
+    publisher: "மலேசிய வழக்கறிஞர்கள் ஒழுங்கு வாரியம்"
+  - title: "அதிகார வரம்பு — வழக்கறிஞர்கள் ஒழுங்கு வாரியம் (Jurisdiction — Advocates & Solicitors Disciplinary Board)"
     url: "https://asdb.org.my/about-us/jurisdiction/"
-    publisher: "Advocates & Solicitors Disciplinary Board of Malaysia"
-  - title: "Let us handle our own affairs, say Sabah and Sarawak legal fraternities"
+    publisher: "மலேசிய வழக்கறிஞர்கள் ஒழுங்கு வாரியம்"
+  - title: "எங்கள் சொந்த விவகாரங்களை நாங்களே கையாள விடுங்கள் என சபா மற்றும் சரவாக் சட்டச் சமூகங்கள் கூறுகின்றன (Let us handle our own affairs, say Sabah and Sarawak legal fraternities)"
     url: "https://www.freemalaysiatoday.com/category/nation/2019/04/28/let-us-handle-our-own-affairs-say-sabah-and-sarawak-legal-fraternities"
     publisher: "Free Malaysia Today"
 

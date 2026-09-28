@@ -40,24 +40,24 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "JENDELA (Jalinan Digital Negara) — official overview and Phase 1 targets"
+  - title: "JENDELA(Jalinan Digital Negara, 국가 디지털 네트워크) — 공식 개요 및 1단계 목표 (JENDELA (Jalinan Digital Negara) — official overview and Phase 1 targets)"
     url: "https://myjendela.my/"
-    publisher: "JENDELA / Malaysian Communications and Multimedia Commission (MCMC)"
-  - title: "Unifi homepage — Unifi Home, Unifi Air, Fibre-To-The-Room and Check Coverage tool"
+    publisher: "JENDELA / 말레이시아 통신멀티미디어위원회(MCMC)"
+  - title: "Unifi 홈페이지 — Unifi Home, Unifi Air, Fibre-To-The-Room 및 커버리지 확인 도구 (Unifi homepage — Unifi Home, Unifi Air, Fibre-To-The-Room and Check Coverage tool)"
     url: "https://www.unifi.com.my/"
     publisher: "Telekom Malaysia (TM)"
-  - title: "Maxis Home Fibre — plans, coverage check and family/mobile bundling"
+  - title: "Maxis Home Fibre — 요금제, 커버리지 확인 및 가족/모바일 결합 (Maxis Home Fibre — plans, coverage check and family/mobile bundling)"
     url: "https://www.maxis.com.my/en/broadband/"
     publisher: "Maxis"
-  - title: "TIME Check Coverage"
+  - title: "TIME 커버리지 확인 (TIME Check Coverage)"
     url: "https://www.time.com.my/check-coverage"
     publisher: "TIME dotCom"
-  - title: "TIME Fibre for Landed Homes"
+  - title: "단독주택용 TIME Fibre (TIME Fibre for Landed Homes)"
     url: "https://www.time.com.my/internet-for-landed-homes"
     publisher: "TIME dotCom"
-  - title: "Technical Standard of In-Building Fibre Cabling for Fibre-to-the-Premise (MTSFB TC G007)"
+  - title: "Fibre-to-the-Premise용 건물 내 광케이블 배선 기술 표준(MTSFB TC G007) (Technical Standard of In-Building Fibre Cabling for Fibre-to-the-Premise (MTSFB TC G007))"
     url: "https://www.mcmc.gov.my/skmmgovmy/media/General/pdf/MTSFB-002-2009-TECHNICAL-STANDARD-OF-IN-BUILDING-FIBRE-CABLING-FOR-FIBRE-TO-THE-PREMISE.pdf"
-    publisher: "Malaysian Communications and Multimedia Commission (MCMC) / MTSFB"
+    publisher: "말레이시아 통신멀티미디어위원회(MCMC) / MTSFB"
 
 entity: "Home fibre broadband in Malaysia"
 relations:

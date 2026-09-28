@@ -43,18 +43,18 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Pendaftaran Perkahwinan Bagi Pemohon Bukan Beragama Islam"
+  - title: "비무슬림 신청자를 위한 혼인 등록 (Pendaftaran Perkahwinan Bagi Pemohon Bukan Beragama Islam)"
     url: "https://www.jpn.gov.my/my/perkhidmatan/perkahwinan/kahwin-daftar"
-    publisher: "Jabatan Pendaftaran Negara"
-  - title: "Portal JPN - Perkahwinan"
+    publisher: "국가등록국"
+  - title: "JPN 포털 - 혼인 (Portal JPN - Perkahwinan)"
     url: "https://www.jpn.gov.my/my/perkhidmatan/perkahwinan"
-    publisher: "Jabatan Pendaftaran Negara"
-  - title: "Prosedur Perkahwinan Pasangan Bukan Islam"
+    publisher: "국가등록국"
+  - title: "비무슬림 커플을 위한 혼인 절차 (Prosedur Perkahwinan Pasangan Bukan Islam)"
     url: "https://www.malaysia.gov.my/my/personas/pasangan-ingin-berkahwin/melangsungkan-perkahwinan/prosedur-perkahwinan-pasangan-bukan-islam"
     publisher: "MyGovernment / Malaysia.gov.my"
-  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164)"
+  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) (Law Reform (Marriage and Divorce) Act 1976 (Act 164))"
     url: "https://lom.agc.gov.my/act-detail.php?act=164&lang=BI"
-    publisher: "Pejabat Penggubal Undang-Undang, Jabatan Peguam Negara (AGC)"
+    publisher: "법률입안실, 말레이시아 법무장관실 (AGC)"
 
 entity: "Civil marriage registration"
 relations:

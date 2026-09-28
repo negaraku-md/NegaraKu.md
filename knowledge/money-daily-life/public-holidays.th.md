@@ -40,15 +40,15 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Akta Hari Kelepasan 1951 (Akta 369) — s.1(2), s.3, s.8, s.9"
+  - title: "พระราชบัญญัติวันหยุด 1951 (พระราชบัญญัติ 369) — มาตรา 1(2), 3, 8, 9 (Akta Hari Kelepasan 1951 (Akta 369) — s.1(2), s.3, s.8, s.9)"
     url: "https://www.kabinet.gov.my/storage/2024/11/1951_12_31_act369.pdf"
-    publisher: "Jabatan Peguam Negara (AGC) / Bahagian Hal Ehwal Undang-Undang, Jabatan Perdana Menteri"
-  - title: "Holidays Ordinance (State of Sabah, Chapter 56) — s.3, s.4, s.9, First Schedule"
+    publisher: "สำนักงานอัยการสูงสุด (AGC) / ฝ่ายกิจการกฎหมาย สำนักนายกรัฐมนตรี"
+  - title: "ข้อบัญญัติวันหยุด (รัฐซาบาห์ บทที่ 56) — มาตรา 3, 4, 9, บัญชีแนบท้ายที่หนึ่ง (Holidays Ordinance (State of Sabah, Chapter 56) — s.3, s.4, s.9, First Schedule)"
     url: "https://www.kabinet.gov.my/storage/2024/11/1948_06_17_holidayordinance_sabahcap56.pdf"
-    publisher: "State Attorney-General's Chambers, Sabah"
-  - title: "Public Holidays Ordinance (Sarawak, Chapter 8, 1958 Edition) — s.3, s.4, s.5, First Schedule"
+    publisher: "สำนักงานอัยการสูงสุดรัฐซาบาห์"
+  - title: "ข้อบัญญัติวันหยุดราชการ (ซาราวัก บทที่ 8 ฉบับ ค.ศ. 1958) — มาตรา 3, 4, 5, บัญชีแนบท้ายที่หนึ่ง (Public Holidays Ordinance (Sarawak, Chapter 8, 1958 Edition) — s.3, s.4, s.5, First Schedule)"
     url: "https://www.kabinet.gov.my/storage/2024/11/sarawak_public_holidays_ord_chapter8.pdf"
-    publisher: "State Attorney-General's Chambers, Sarawak"
+    publisher: "สำนักงานอัยการสูงสุดรัฐซาราวัก"
 
 related:
   - "public-holidays-malaysia"

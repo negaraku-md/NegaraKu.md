@@ -52,19 +52,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Printing Presses and Publications Act 1984 (Act 301) — teks statut disatukan"
+  - title: "Printing Presses and Publications Act 1984 (Act 301) — 统一整合的法规文本 (Printing Presses and Publications Act 1984 (Act 301) — teks statut disatukan)"
     url: "https://www.commonlii.org/my/legis/consol_act/ppapa1984359/"
     publisher: "Commonwealth Legal Information Institute (CommonLII)"
-  - title: "Act to Amend the Printing Presses and Publications Act 1984 (pindaan 2012)"
+  - title: "Act to Amend the Printing Presses and Publications Act 1984（2012年修正）(Act to Amend the Printing Presses and Publications Act 1984 (pindaan 2012))"
     url: "https://www.icnl.org/research/library/malaysia_act-to-amend-the-printing-presses-and-publications-act-1984/"
     publisher: "International Center for Not-for-Profit Law (ICNL)"
-  - title: "Home Affairs Ministry Bans Six Publications Under Printing Presses And Publications Act 1984"
+  - title: "内政部依据 Printing Presses And Publications Act 1984 查禁六种刊物 (Home Affairs Ministry Bans Six Publications Under Printing Presses And Publications Act 1984)"
     url: "https://www.bernama.com/en/news.php?id=2379910"
     publisher: "Bernama"
-  - title: "Press Release: Repeal the Printing Presses and Publications Act; Independent Regulation to Preserve Independence of Media"
+  - title: "新闻稿：废除 Printing Presses and Publications Act；以独立监管维护媒体的独立性 (Press Release: Repeal the Printing Presses and Publications Act; Independent Regulation to Preserve Independence of Media)"
     url: "https://www.malaysianbar.org.my/article/news/press-statements/press-statements/press-release-repeal-the-printing-presses-and-publications-act-independent-regulation-to-preserve-independence-of-media"
     publisher: "Malaysian Bar"
-  - title: "The Malaysian Bar Commends the Passing of the Media Council Bill 2024 and Calls for Further Improvements"
+  - title: "马来西亚律师公会赞扬 Media Council Bill 2024 获得通过，并呼吁进一步改进 (The Malaysian Bar Commends the Passing of the Media Council Bill 2024 and Calls for Further Improvements)"
     url: "https://www.malaysianbar.org.my/article/news/press-statements/press-statements/press-release-the-malaysia-bar-commends-the-passing-of-the-media-council-bill-2024-and-calls-for-further-improvements-to-ensure-independence-of-the-media"
     publisher: "Malaysian Bar"
 

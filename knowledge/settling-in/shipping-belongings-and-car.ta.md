@@ -35,21 +35,21 @@ revisions:
     reviewer: null
 updated: 2026-07-24
 sources:
-  - title: "Panduan Kemudahan Membawa Barangan Rumah (Household Effects) Dan Barangan Persendirian (Personal Effects) Dari Luar Negara"
+  - title: "வெளிநாட்டிலிருந்து வீட்டுப் பொருட்கள் (Household Effects) மற்றும் தனிப்பட்ட பொருட்கள் (Personal Effects) கொண்டுவருவதற்கான வசதி வழிகாட்டி (Panduan Kemudahan Membawa Barangan Rumah (Household Effects) Dan Barangan Persendirian (Personal Effects) Dari Luar Negara)"
     url: "https://www.customs.gov.my/en/cp/Pages/cp_hepe.aspx"
-    publisher: "Jabatan Kastam Diraja Malaysia (Royal Malaysian Customs Department)"
-  - title: "Approved Permit (AP)"
+    publisher: "மலேசிய அரச சுங்கத் துறை"
+  - title: "அங்கீகரிக்கப்பட்ட அனுமதி (AP) (Approved Permit (AP))"
     url: "https://www.miti.gov.my/index.php/pages/view/10605"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Individual AP"
+    publisher: "முதலீடு, வர்த்தகம் மற்றும் தொழில்துறை அமைச்சு (MITI)"
+  - title: "தனிநபர் AP (Individual AP)"
     url: "https://www.miti.gov.my/index.php/pages/view/10643"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Approved Permit — FAQ"
+    publisher: "முதலீடு, வர்த்தகம் மற்றும் தொழில்துறை அமைச்சு (MITI)"
+  - title: "அங்கீகரிக்கப்பட்ட அனுமதி — அடிக்கடி கேட்கப்படும் கேள்விகள் (Approved Permit — FAQ)"
     url: "https://www.miti.gov.my/index.php/pages/view/10621"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Implementation of Import Vehicle Registration"
+    publisher: "முதலீடு, வர்த்தகம் மற்றும் தொழில்துறை அமைச்சு (MITI)"
+  - title: "இறக்குமதி வாகனப் பதிவின் அமலாக்கம் (Implementation of Import Vehicle Registration)"
     url: "https://www.jpj.gov.my/en/implementation-of-import-vehicle-registration/"
-    publisher: "Jabatan Pengangkutan Jalan (JPJ)"
+    publisher: "சாலைப் போக்குவரத்துத் துறை (JPJ)"
 entity: "Household effects and vehicle import (Kastam / MITI / JPJ)"
 relations:
   - { rel: "administered-by", to: "miti" }

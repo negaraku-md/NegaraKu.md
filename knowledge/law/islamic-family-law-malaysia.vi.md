@@ -52,15 +52,15 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Islamic Family Law (Federal Territories) Act 1984 (Act 303) — Online Version of Updated Text of Reprint"
+  - title: "Islamic Family Law (Federal Territories) Act 1984 (Act 303) — phiên bản trực tuyến của văn bản tái bản cập nhật (Islamic Family Law (Federal Territories) Act 1984 (Act 303) — Online Version of Updated Text of Reprint)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20303%20(11.3.2014).pdf"
-    publisher: "Jabatan Peguam Negara (Attorney General's Chambers), Laws of Malaysia"
-  - title: "Perceraian Pasangan Islam"
+    publisher: "Văn phòng Tổng Chưởng lý (Attorney General's Chambers), Luật pháp Malaysia"
+  - title: "Ly hôn của các cặp vợ chồng Hồi giáo (Perceraian Pasangan Islam)"
     url: "https://www.malaysia.gov.my/my/categories/institusi-keluarga/perceraian-pasangan-islam"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Tuntutan dan Hak Selepas Perceraian Islam"
+    publisher: "Cổng thông tin chính thức của Chính phủ Malaysia (MyGovernment)"
+  - title: "Các yêu cầu và quyền lợi sau khi ly hôn theo Hồi giáo (Tuntutan dan Hak Selepas Perceraian Islam)"
     url: "https://www.malaysia.gov.my/my/categories/institusi-keluarga/perceraian-pasangan-islam/tuntutan-dan-hak-selepas-perceraian-islam"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
+    publisher: "Cổng thông tin chính thức của Chính phủ Malaysia (MyGovernment)"
 
 entity: "Islamic Family Law (Federal Territories) Act 1984"
 relations:

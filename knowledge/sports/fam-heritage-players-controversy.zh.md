@@ -54,22 +54,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "FIFA sanctions Football Association of Malaysia and seven players"
+  - title: "国际足联制裁马来西亚足球总会及七名球员 (FIFA sanctions Football Association of Malaysia and seven players)"
     url: "https://inside.fifa.com/legal/judicial-bodies/news/fifa-sanctions-football-association-of-malaysia-and-seven-players"
     publisher: "FIFA"
-  - title: "FIFA Appeal Committee confirms sanctions against Football Association of Malaysia and seven players"
+  - title: "国际足联上诉委员会确认对马来西亚足球总会及七名球员的制裁 (FIFA Appeal Committee confirms sanctions against Football Association of Malaysia and seven players)"
     url: "https://inside.fifa.com/legal/judicial-bodies/news/appeal-committee-confirms-sanctions-football-association-malaysia-seven-players"
     publisher: "FIFA"
-  - title: "The Court of Arbitration for Sport (CAS) partly amends sanction against seven players falsely made eligible to play for Malaysia (Media Release)"
+  - title: "国际体育仲裁法庭(CAS)部分修改对七名被伪造资格代表马来西亚出赛球员的制裁(新闻稿) (The Court of Arbitration for Sport (CAS) partly amends sanction against seven players falsely made eligible to play for Malaysia (Media Release))"
     url: "https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_11990.pdf"
     publisher: "Court of Arbitration for Sport"
-  - title: "What Next For FAM After CAS Ruling On Falsified Documents?"
+  - title: "CAS就伪造文件裁决后,FAM何去何从? (What Next For FAM After CAS Ruling On Falsified Documents?)"
     url: "https://www.bernama.com/en/news.php?id=2531120"
     publisher: "Bernama"
-  - title: "FAM To Appeal FIFA Sanctions In Heritage Player Case"
+  - title: "FAM将就血统球员案的国际足联制裁提出上诉 (FAM To Appeal FIFA Sanctions In Heritage Player Case)"
     url: "https://www.bernama.com/en/news.php?id=2472029"
     publisher: "Bernama"
-  - title: "FAM lodges police report over falsified heritage players' birth certs"
+  - title: "FAM就伪造血统球员出生证明报案 (FAM lodges police report over falsified heritage players' birth certs)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/12/24/fam-lodges-police-report-over-falsified-heritage-players-birth-certs"
     publisher: "Free Malaysia Today"
 

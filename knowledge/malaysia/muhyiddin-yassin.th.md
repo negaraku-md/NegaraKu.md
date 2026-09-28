@@ -54,15 +54,15 @@ sensitivity: "legal-proceedings"
 created: 2026-08-27
 updated: 2026-08-27
 sources:
-  - title: "Tan Sri Mahiaddin Yasin — biography"
+  - title: "ตันสรี มาฮิอัดดิน ยาซิน — ประวัติ (Tan Sri Mahiaddin Yasin — biography)"
     url: "https://www.perdana.org.my/pms-of-malaysia/tan-sri-mahiaddin-yasin/"
     publisher: "Perdana Leadership Foundation"
-  - title: "Malaysia's PM Muhyiddin Yassin and cabinet resign, palace confirms"
+  - title: "นายกรัฐมนตรีมูห์ยิดดิน ยาสซิน ของมาเลเซียและคณะรัฐมนตรีลาออก, วังยืนยัน (Malaysia's PM Muhyiddin Yassin and cabinet resign, palace confirms)"
     url: "https://www.cnbc.com/2021/08/16/malaysia-prime-minister-muhyiddin-yassin-cabinet-resign.html"
     publisher: "CNBC"
-  - title: "Prime Minister's Office of Malaysia"
+  - title: "สำนักนายกรัฐมนตรีมาเลเซีย (Prime Minister's Office of Malaysia)"
     url: "https://www.pmo.gov.my"
-    publisher: "Prime Minister's Office of Malaysia"
+    publisher: "สำนักนายกรัฐมนตรีมาเลเซีย"
 
 related: ["sheraton-move-2020", "prime-ministers-of-malaysia", "2022-general-election", "ismail-sabri-yaakob", "mahathir-mohamad"]
 keywords: ["Muhyiddin Yassin", "Mahiaddin Md Yassin", "eighth prime minister Malaysia", "Perikatan Nasional", "BERSATU"]

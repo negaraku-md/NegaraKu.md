@@ -39,13 +39,13 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Dependant Pass"
+  - title: "Pas Tanggungan (Dependant Pass)"
     url: "https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/dependant-pass/"
-    publisher: "Jabatan Imigresen Malaysia — Expatriate Services Division (ESD)"
-  - title: "Long-Term Social Visit Pass"
+    publisher: "Jabatan Imigresen Malaysia — Bahagian Perkhidmatan Ekspatriat (ESD)"
+  - title: "Pas Lawatan Sosial Jangka Panjang (Long-Term Social Visit Pass)"
     url: "https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/long-term-social-visit-pass/"
-    publisher: "Jabatan Imigresen Malaysia — Expatriate Services Division (ESD)"
-  - title: "Long Term Social Visit Pass"
+    publisher: "Jabatan Imigresen Malaysia — Bahagian Perkhidmatan Ekspatriat (ESD)"
+  - title: "Pas Lawatan Sosial Jangka Panjang (Long Term Social Visit Pass)"
     url: "https://www.imi.gov.my/index.php/en/main-services/pass/visitor-pass/social-visit-pass/long-term-social-visit-pass/"
     publisher: "Jabatan Imigresen Malaysia (Malaysian Immigration Department)"
 

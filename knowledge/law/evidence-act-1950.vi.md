@@ -52,15 +52,15 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Laws of Malaysia — Act 56, Evidence Act 1950 (senarai rasmi versi & cetakan semula)"
+  - title: "Luật pháp Malaysia — Act 56, Evidence Act 1950 (danh sách chính thức các phiên bản và bản tái bản) (Laws of Malaysia — Act 56, Evidence Act 1950 (senarai rasmi versi & cetakan semula))"
     url: "https://lom.agc.gov.my/act-detail.php?act=56&lang=BI"
-    publisher: "Pejabat Peguam Negara Malaysia (Attorney-General's Chambers) — penerbit rasmi Undang-Undang Malaysia"
-  - title: "Undang-Undang Malaysia — Akta 56, Akta Keterangan 1950 (senarai rasmi versi Bahasa Melayu)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (Attorney-General's Chambers) — nhà xuất bản chính thức của Luật pháp Malaysia"
+  - title: "Luật pháp Malaysia — Akta 56, Akta Keterangan 1950 (danh sách chính thức các phiên bản tiếng Mã Lai) (Undang-Undang Malaysia — Akta 56, Akta Keterangan 1950 (senarai rasmi versi Bahasa Melayu))"
     url: "https://lom.agc.gov.my/act-detail.php?act=56&lang=BM"
-    publisher: "Pejabat Peguam Negara Malaysia (Attorney-General's Chambers)"
-  - title: "Evidence Act 1950 (Act 56) — teks penuh cetakan semula rasmi, setakat 1 Disember 2012"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (Attorney-General's Chambers)"
+  - title: "Evidence Act 1950 (Act 56) — toàn văn bản tái bản chính thức, tính đến ngày 1 tháng 12 năm 2012 (Evidence Act 1950 (Act 56) — teks penuh cetakan semula rasmi, setakat 1 Disember 2012)"
     url: "https://ccid.rmp.gov.my/Laws/Act_56_-_Evidence_Act_1950.pdf"
-    publisher: "Salinan teks penuh cetakan semula rasmi yang dihoskan oleh Polis Diraja Malaysia (Jabatan Siasatan Jenayah Komersial)"
+    publisher: "Bản sao toàn văn của bản tái bản chính thức do Cảnh sát Hoàng gia Malaysia (Cục Điều tra Tội phạm Thương mại) lưu trữ"
 
 entity: "Evidence Act 1950"
 wikidata: "Q12682327"

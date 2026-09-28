@@ -49,24 +49,24 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Skim Rondaan Sukarela (SRS)"
+  - title: "志愿巡逻计划 (Skim Rondaan Sukarela (SRS))"
     url: "https://www.perpaduan.gov.my/index.php/en/36-jentera-perpaduan/62-skim-rondaan-sukarela"
-    publisher: "Jabatan Perpaduan Negara dan Integrasi Nasional (JPNIN)"
-  - title: "Portal Rasmi Kementerian Perpaduan Negara"
+    publisher: "国民团结与国民融合局 (JPNIN)"
+  - title: "国民团结部官方门户网站 (Portal Rasmi Kementerian Perpaduan Negara)"
     url: "https://www.perpaduan.gov.my"
-    publisher: "Kementerian Perpaduan Negara"
-  - title: "KPN Cadang Pinda Akta 751, Panjangkan Tempoh Pelantikan AJK RT Kepada Tiga Tahun"
+    publisher: "国民团结部"
+  - title: "国民团结部拟修订751号法令,将睦邻计划(RT)委员委任期延长至三年 (KPN Cadang Pinda Akta 751, Panjangkan Tempoh Pelantikan AJK RT Kepada Tiga Tahun)"
     url: "https://www.bernama.com/bm/news.php?id=2462200"
     publisher: "BERNAMA"
-  - title: "Lima Peratus Daripada 8,529 KRT Seluruh Negara Pasif"
+  - title: "全国8,529个睦邻区(KRT)中有百分之五处于不活跃状态 (Lima Peratus Daripada 8,529 KRT Seluruh Negara Pasif)"
     url: "https://www.bernama.com/bm/news.php?id=2390741"
     publisher: "BERNAMA"
-  - title: "SRS dan KRT Perkukuh Keselamatan, Keharmonian Komuniti"
+  - title: "志愿巡逻计划(SRS)与睦邻区(KRT)强化社区安全与和谐 (SRS dan KRT Perkukuh Keselamatan, Keharmonian Komuniti)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/srs-dan-krt-perkukuh-keselamatan-keharmonian-komuniti/"
     publisher: "Portal Berita RTM"
-  - title: "Jawatankuasa Kemajuan & Keselamatan Kampung (JKKK)"
+  - title: "甘榜发展与安全委员会 (Jawatankuasa Kemajuan & Keselamatan Kampung (JKKK))"
     url: "https://kplb.sabah.gov.my/en/jawatankuasa-kemajuan-keselamatan-kampung-jkkk/"
-    publisher: "Kementerian Pembangunan Luar Bandar Sabah"
+    publisher: "沙巴乡村发展部"
 
 entity: "Rukun Tetangga"
 relations:

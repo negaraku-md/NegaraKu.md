@@ -53,19 +53,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Federal Constitution (Reprint As at 15 October 2020) — Articles 23 & 24"
+  - title: "Federal Constitution(截至2020年10月15日重印本)— 第23及24条 (Federal Constitution (Reprint As at 15 October 2020) — Articles 23 & 24)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Pejabat Peguam Negara)"
-  - title: "Application for Renunciation of Citizenship Status Under Article 23 of the Federal Constitution"
+    publisher: "马来西亚总检察署 (Pejabat Peguam Negara)"
+  - title: "根据联邦宪法第23条申请放弃公民权身份 (Application for Renunciation of Citizenship Status Under Article 23 of the Federal Constitution)"
     url: "https://www.jpn.gov.my/en/services/citizenship/application-for-renunciation-of-citizenship-status-under-article-23-of-the-federal-constitution/"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department)"
-  - title: "Renunciation of Malaysian Citizenship"
+    publisher: "国民登记局 (JPN)"
+  - title: "放弃马来西亚公民权 (Renunciation of Malaysian Citizenship)"
     url: "https://www.malaysia.gov.my/en/categories/personal-identification/kewarganegaraan/renunciation-of-malaysian-citizenship"
-    publisher: "MyGovernment Portal (Malaysian Administrative Modernisation and Management Planning Unit)"
-  - title: "No Policy Change In Case Of Dual Citizenship Holders Surrendering MyKad"
+    publisher: "MyGovernment门户(马来西亚行政现代化与管理规划局)"
+  - title: "双重国籍持有者交还大马卡政策不变 (No Policy Change In Case Of Dual Citizenship Holders Surrendering MyKad)"
     url: "https://www.bernama.com/en/news.php?id=2503691"
     publisher: "Bernama"
-  - title: "Malaysia does not recognise dual citizenship, says home minister"
+  - title: "内政部长:马来西亚不承认双重国籍 (Malaysia does not recognise dual citizenship, says home minister)"
     url: "https://www.malaymail.com/news/malaysia/2019/03/21/malaysia-does-not-recognise-dual-citizenship-says-home-minister/1735018"
     publisher: "Malay Mail"
 

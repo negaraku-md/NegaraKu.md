@@ -48,16 +48,16 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Apa Itu MERS 999?"
+  - title: "MERS 999 என்றால் என்ன? (Apa Itu MERS 999?)"
     url: "https://999.gov.my/mers-999/apa-itu-mers-999/"
     publisher: "MERS 999"
-  - title: "Malaysia Emergency Response Services (MERS) 999"
+  - title: "மலேசியா அவசரகால மறுமொழி சேவைகள் (MERS) 999 (Malaysia Emergency Response Services (MERS) 999)"
     url: "https://www.malaysia.gov.my/en/my-initiative/cyber-security-and-disaster-response-and-recovery/tindak-balas-serta-pemulihan-bencana/malaysia-emergency-response-services-mers-999"
-    publisher: "MyGovernment (Portal Rasmi Kerajaan Malaysia)"
-  - title: "999 Emergency Services"
+    publisher: "MyGovernment (மலேசிய அரசாங்கத்தின் அதிகாரப்பூர்வ இணையவாயில்)"
+  - title: "999 அவசரகால சேவைகள் (999 Emergency Services)"
     url: "https://www.civildefence.gov.my/999-emergency-services/?lang=en"
-    publisher: "Angkatan Pertahanan Awam Malaysia (APM)"
-  - title: "TM and Govt Introduce Next-Gen 999 Emergency System"
+    publisher: "மலேசிய சிவில் பாதுகாப்புப் படை (APM)"
+  - title: "TM மற்றும் அரசாங்கம் அடுத்த தலைமுறை 999 அவசரகால அமைப்பை அறிமுகப்படுத்துகின்றன (TM and Govt Introduce Next-Gen 999 Emergency System)"
     url: "https://www.tm.com.my/news/next_gen_999"
     publisher: "Telekom Malaysia Berhad"
 

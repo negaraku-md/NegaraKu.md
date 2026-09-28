@@ -32,8 +32,8 @@ sources:
   - title: "Langkasuka"
     url: "https://www.britannica.com/place/Langkasuka"
     publisher: "Encyclopaedia Britannica"
-  - title: "Liang Shu (Book of Liang), Chapter on Southern Barbarians"
-    publisher: "Chinese dynastic historiography, 7th century CE compilation"
+  - title: "Lương Thư (Sách nhà Lương), Chương về Nam Man (Liang Shu (Book of Liang), Chapter on Southern Barbarians)"
+    publisher: "Sử học triều đại Trung Hoa, biên soạn thế kỷ 7 CN"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "melaka-sultanate" }

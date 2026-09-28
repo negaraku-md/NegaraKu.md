@@ -50,16 +50,16 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Criminal Procedure Code (Act 593), teks rasmi"
+  - title: "Criminal Procedure Code (Act 593), văn bản chính thức (Criminal Procedure Code (Act 593), teks rasmi)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1688322_BI/ACT%20593_CRIMINAL%20%20PROCEDURE%20CODE_18.10.2021.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
-  - title: "Federal Constitution (Reprint As at 15 October 2020), teks rasmi — Perkara 5"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (Luật pháp Malaysia)"
+  - title: "Federal Constitution (Bản tái bản tính đến ngày 15 tháng 10 năm 2020), văn bản chính thức — Điều 5 (Federal Constitution (Reprint As at 15 October 2020), teks rasmi — Perkara 5)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
-  - title: "FAQ on Arrest, Remand and Bail in Malaysia"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (Luật pháp Malaysia)"
+  - title: "Câu hỏi thường gặp về Bắt giữ, Tạm giam và Bảo lãnh tại Malaysia (FAQ on Arrest, Remand and Bail in Malaysia)"
     url: "https://mahwengkwai.com/faq-on-arrest-remand-and-bail-in-malaysia/"
     publisher: "MahWengKwai & Associates"
-  - title: "Understanding Criminal Proceedings in Malaysia (An Easy Guide)"
+  - title: "Tìm hiểu về Thủ tục Tố tụng Hình sự tại Malaysia (Hướng dẫn Dễ hiểu) (Understanding Criminal Proceedings in Malaysia (An Easy Guide))"
     url: "https://www.tkplaw.co/articles_18.html"
     publisher: "Teh Kim Poo & Co (TKP Law)"
 

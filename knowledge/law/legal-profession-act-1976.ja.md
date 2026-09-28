@@ -56,16 +56,16 @@ verificationNeeded:
   - "サバ及びサラワクの弁護士条例（Advocates Ordinance）1953の正確な年及び引用（Cap.番号）——それぞれ当該条例の原文と照合して確認すること。"
 updated: 2026-08-07
 sources:
-  - title: "Legal Profession Act 1976 (as at 1 August 2018)"
+  - title: "Legal Profession Act 1976(2018年8月1日現在) (Legal Profession Act 1976 (as at 1 August 2018))"
     url: "https://www.malaysianbar.org.my/cms/upload_files/document/Legal%20Profession%20Act%201976%20as%20at%201%20August%202018%20(English).from%20AGC%20website.pdf"
-    publisher: "Attorney General's Chambers / The Malaysian Bar"
-  - title: "About Us — Advocates & Solicitors Disciplinary Board"
+    publisher: "司法長官府 / The Malaysian Bar"
+  - title: "私たちについて — 弁護士懲戒委員会 (About Us — Advocates & Solicitors Disciplinary Board)"
     url: "https://asdb.org.my/about-us/"
-    publisher: "Advocates & Solicitors Disciplinary Board of Malaysia"
-  - title: "Jurisdiction — Advocates & Solicitors Disciplinary Board"
+    publisher: "マレーシア弁護士懲戒委員会"
+  - title: "管轄 — 弁護士懲戒委員会 (Jurisdiction — Advocates & Solicitors Disciplinary Board)"
     url: "https://asdb.org.my/about-us/jurisdiction/"
-    publisher: "Advocates & Solicitors Disciplinary Board of Malaysia"
-  - title: "Let us handle our own affairs, say Sabah and Sarawak legal fraternities"
+    publisher: "マレーシア弁護士懲戒委員会"
+  - title: "自分たちの問題は自分たちで処理させてほしい、とサバ・サラワクの法曹界が主張 (Let us handle our own affairs, say Sabah and Sarawak legal fraternities)"
     url: "https://www.freemalaysiatoday.com/category/nation/2019/04/28/let-us-handle-our-own-affairs-say-sabah-and-sarawak-legal-fraternities"
     publisher: "Free Malaysia Today"
 

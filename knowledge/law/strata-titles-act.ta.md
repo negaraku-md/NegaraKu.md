@@ -49,19 +49,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Strata Management Act 2013 (Act 757) — Laws of Malaysia (as enacted)"
+  - title: "Strata Management Act 2013 (Act 757) — மலேசியச் சட்டங்கள் (இயற்றப்பட்டவாறு) (Strata Management Act 2013 (Act 757) — Laws of Malaysia (as enacted))"
     url: "http://www.federalgazette.agc.gov.my/outputaktap/20130208_757_BI_AKTA%20757-BI.pdf"
-    publisher: "Attorney General's Chambers (Federal Gazette / Laws of Malaysia)"
-  - title: "Strata Titles Act 1985 (Act 318)"
+    publisher: "மலேசியத் தலைமை வழக்கறிஞர் அலுவலகம் (கூட்டாட்சி வர்த்தமானி / Laws of Malaysia)"
+  - title: "அடுக்கு உரிமைச் சட்டம் 1985 (Strata Titles Act 1985 (Act 318))"
     url: "https://www.lowpartners.com/strata-titles-act-1985/"
     publisher: "Low & Partners"
-  - title: "Strata Management Act 2013 — Part 1"
+  - title: "Strata Management Act 2013 — பகுதி 1 (Strata Management Act 2013 — Part 1)"
     url: "https://www.lowpartners.com/strata-management-act-2013-part-1/"
     publisher: "Low & Partners"
-  - title: "Strata Management Act 2013 — Part 2"
+  - title: "Strata Management Act 2013 — பகுதி 2 (Strata Management Act 2013 — Part 2)"
     url: "https://www.lowpartners.com/strata-management-act-2013-part-2/"
     publisher: "Low & Partners"
-  - title: "Ultimate Guide to the Strata Management Act 2013 (Malaysia)"
+  - title: "Strata Management Act 2013 குறித்த முழுமையான வழிகாட்டி (மலேசியா) (Ultimate Guide to the Strata Management Act 2013 (Malaysia))"
     url: "https://jykolaw.com/ultimate-guide-to-the-strata-management-act-2013-malaysia-everything-you-need-to-know/"
     publisher: "JY Ko Advocates & Solicitors"
 

@@ -57,13 +57,13 @@ verificationNeeded:
   - "தற்போதைய நடைமுறையில், ஒரு குறிப்பிட்ட பகுதிக்கு JPN திருமண தீர்ப்பாயம்தான் இயல்பான சமரச அமைப்பா என்பது (Section 106(2) இரு தரப்பினருக்கும் ஏற்புடைய எந்த அமைப்பையும் அனுமதிக்கிறது)."
 updated: 2026-08-07
 sources:
-  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint"
+  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — அதிகாரப்பூர்வ மறுபதிப்பு (Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "How to refer to Marriage Tribunal JPN Malaysia?"
+    publisher: "மலேசிய சட்ட மா அதிபர் அலுவலகம்"
+  - title: "மலேசிய JPN திருமண தீர்ப்பாயத்தை எவ்வாறு அணுகுவது? (How to refer to Marriage Tribunal JPN Malaysia?)"
     url: "https://arinaong.com/refer-marriage-tribunal-jpn-malaysia/"
     publisher: "Arina Ong & Co (law firm)"
-  - title: "Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce"
+  - title: "முஸ்லிம் அல்லாத திருமணம், விவாகரத்து & வாரிசுரிமை — சிவில் திருமணம் & விவாகரத்து (Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce)"
     url: "https://www.wccpenang.org/non-muslim-marriage-sec1-civil-marriage/"
     publisher: "Women's Centre for Change (WCC), Penang"
 

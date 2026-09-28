@@ -56,16 +56,16 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "FAM sign a lucrative long term deal with MP & Silva"
+  - title: "FAM, MP & Silvaவுடன் ஒரு லாபகரமான நீண்டகால ஒப்பந்தத்தில் கையெழுத்திடுகிறது (FAM sign a lucrative long term deal with MP & Silva)"
     url: "https://www.aseanfootball.org/v3/fam-sign-a-lucrative-long-term-deal-with-mp-silva/"
     publisher: "ASEAN Football Federation (AFF)"
-  - title: "New Malaysian League to start May 2024 and ends in April 2025"
+  - title: "புதிய மலேசிய லீக் 2024 மே மாதம் தொடங்கி 2025 ஏப்ரல் மாதம் முடிவடையும் (New Malaysian League to start May 2024 and ends in April 2025)"
     url: "https://www.aseanfootball.org/v3/new-malaysian-league-to-start-may-2024-and-ends-in-april-2025/"
     publisher: "ASEAN Football Federation (AFF)"
-  - title: "Finally in the AFC Champions League Elite quarterfinals, Johor Darul Ta'zim face biggest test of all"
+  - title: "இறுதியாக AFC சாம்பியன்ஸ் லீக் எலைட் காலிறுதியில், ஜோகூர் டாருல் தாஜிம் மிகப்பெரிய சவாலை எதிர்கொள்கிறது (Finally in the AFC Champions League Elite quarterfinals, Johor Darul Ta'zim face biggest test of all)"
     url: "https://www.espn.com/soccer/story/_/id/48503299/finally-afc-champions-league-elite-quarterfinals-johor-darul-tazim-face-biggest-test"
     publisher: "ESPN"
-  - title: "Malaysia – List of Cup Winners (Malaya Cup / Malaysia Cup, dari 1921; dinamakan semula mulai musim 1967)"
+  - title: "மலேசியா – கோப்பை வென்றவர்கள் பட்டியல் (மலாயா கோப்பை / மலேசியா கோப்பை, 1921 முதல்; 1967 சீசன் முதல் மறுபெயரிடப்பட்டது) (Malaysia – List of Cup Winners (Malaya Cup / Malaysia Cup, dari 1921; dinamakan semula mulai musim 1967))"
     url: "https://www.rsssf.org/tablesm/malaycuphist.html"
     publisher: "Rec.Sport.Soccer Statistics Foundation (RSSSF)"
 

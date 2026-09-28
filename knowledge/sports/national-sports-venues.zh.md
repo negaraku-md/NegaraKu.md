@@ -52,19 +52,19 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "TM Stadium Nasional — Portal Rasmi Perbadanan Stadium Malaysia"
+  - title: "TM国家体育场 — 马来西亚体育场机构官方门户 (TM Stadium Nasional — Portal Rasmi Perbadanan Stadium Malaysia)"
     url: "https://www.stadium.gov.my/venues/kuala-lumpur-sports-city/tm-stadium-nasional.html"
-    publisher: "Perbadanan Stadium Malaysia"
-  - title: "National Hockey Stadium — Portal Rasmi Perbadanan Stadium Malaysia"
+    publisher: "马来西亚体育场机构"
+  - title: "国家曲棍球体育场 — 马来西亚体育场机构官方门户 (National Hockey Stadium — Portal Rasmi Perbadanan Stadium Malaysia)"
     url: "https://www.stadium.gov.my/venues/kuala-lumpur-sports-city/national-hockey-stadium.html"
-    publisher: "Perbadanan Stadium Malaysia"
-  - title: "Infra Bukit Jalil / Kuala Lumpur Sports City — Perbadanan Stadium Malaysia"
+    publisher: "马来西亚体育场机构"
+  - title: "武吉加里尔基础设施 / 吉隆坡体育城 — 马来西亚体育场机构 (Infra Bukit Jalil / Kuala Lumpur Sports City — Perbadanan Stadium Malaysia)"
     url: "https://www.stadium.gov.my/venues/kuala-lumpur-sports-city/infra.html"
-    publisher: "Perbadanan Stadium Malaysia"
-  - title: "Perasmian Velodrom Nasional Malaysia"
+    publisher: "马来西亚体育场机构"
+  - title: "马来西亚国家自行车馆开幕礼 (Perasmian Velodrom Nasional Malaysia)"
     url: "https://www.kkr.gov.my/en/node/41624"
-    publisher: "Kementerian Kerja Raya (KKR)"
-  - title: "Sepang International Circuit — Laman Rasmi Pengendali"
+    publisher: "工程部 (KKR)"
+  - title: "雪邦国际赛道 — 运营方官方网站 (Sepang International Circuit — Laman Rasmi Pengendali)"
     url: "https://www.sepangcircuit.com/"
     publisher: "Sepang International Circuit"
 

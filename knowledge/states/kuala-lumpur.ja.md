@@ -51,15 +51,15 @@ sensitivity: "none"
 
 updated: 2026-07-23
 sources:
-  - title: "OpenDOSM — official statistics data catalogue"
+  - title: "OpenDOSM — 公式統計データカタログ (OpenDOSM — official statistics data catalogue)"
     url: "https://open.dosm.gov.my/data-catalogue"
-    publisher: "Department of Statistics Malaysia"
-  - title: "Department of Statistics Malaysia"
+    publisher: "マレーシア統計局 (DOSM)"
+  - title: "マレーシア統計局 (Department of Statistics Malaysia)"
     url: "https://www.dosm.gov.my/"
-    publisher: "DOSM"
-  - title: "Kuala Lumpur City Hall (DBKL)"
+    publisher: "マレーシア統計局 (DOSM)"
+  - title: "クアラルンプール市庁 (DBKL) (Kuala Lumpur City Hall (DBKL))"
     url: "https://www.dbkl.gov.my/"
-    publisher: "DBKL"
+    publisher: "クアラルンプール市庁 (DBKL)"
 
 entity: "Kuala Lumpur"
 wikidata: "Q1865"

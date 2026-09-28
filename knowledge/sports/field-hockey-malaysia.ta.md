@@ -56,22 +56,22 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "HRH Sultan Azlan Shah — a true torch bearer of Asian hockey"
+  - title: "HRH சுல்தான் அஸ்லான் ஷா — ஆசிய ஹாக்கியின் உண்மையான தீபந்தம் ஏந்துபவர் (HRH Sultan Azlan Shah — a true torch bearer of Asian hockey)"
     url: "https://asiahockey.org/about/sultan-azlan-shah-a-true-torch-bearer-of-asian-hockey/"
     publisher: "Asian Hockey Federation"
-  - title: "Hat-tricks, hospitality and honour: recalling the 1975 men's Hockey World Cup"
+  - title: "ஹாட்-ட்ரிக்குகள், விருந்தோம்பல் மற்றும் மரியாதை: 1975 ஆண்கள் ஹாக்கி உலகக் கோப்பையை நினைவுகூர்தல் (Hat-tricks, hospitality and honour: recalling the 1975 men's Hockey World Cup)"
     url: "https://hockeymuseum.org/hat-tricks-hospitality-and-honour-recalling-the-1975-mens-hockey-world-cup/"
     publisher: "The Hockey Museum"
-  - title: "Malaysian Hockey Confederation — official site"
+  - title: "மலேசிய ஹாக்கி கூட்டமைப்பு — அதிகாரப்பூர்வ தளம் (Malaysian Hockey Confederation — official site)"
     url: "https://www.mhc.org.my/"
     publisher: "Malaysian Hockey Confederation"
-  - title: "India begin their Sultan Azlan Shah Cup 2025 campaign with a 1-0 win against Korea"
+  - title: "இந்தியா கொரியாவை 1-0 என்ற கணக்கில் வென்று 2025 சுல்தான் அஸ்லான் ஷா கோப்பை பயணத்தைத் தொடங்குகிறது (India begin their Sultan Azlan Shah Cup 2025 campaign with a 1-0 win against Korea)"
     url: "https://www.hockeyindia.org/news/india-begin-their-sultan-azlan-shah-cup-2025-campaign-with-a-1-0-win-against-korea"
     publisher: "Hockey India"
-  - title: "Deciphering the Sultan Azlan Shah Cup 2025"
+  - title: "2025 சுல்தான் அஸ்லான் ஷா கோப்பையை விளக்குதல் (Deciphering the Sultan Azlan Shah Cup 2025)"
     url: "https://www.thesportscol.com/2025/12/deciphering-the-sultan-azlan-shah-cup-2025/"
     publisher: "The Sports Column"
-  - title: "Malaysia Men World Hockey Ranking"
+  - title: "மலேசிய ஆண்கள் உலக ஹாக்கி தரவரிசை (Malaysia Men World Hockey Ranking)"
     url: "https://www.fih.hockey/outdoor-rankings/malaysia-men-hockey-rankings-45"
     publisher: "International Hockey Federation (FIH)"
 

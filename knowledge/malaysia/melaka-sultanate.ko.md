@@ -45,17 +45,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "믈라카와 조지타운, 믈라카 해협의 역사 도시 (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
     publisher: "UNESCO World Heritage Centre"
-  - title: "Arkib Negara Malaysia (National Archives of Malaysia)"
+  - title: "말레이시아 국립문서보관소 (Arkib Negara Malaysia (National Archives of Malaysia))"
     url: "https://www.arkib.gov.my/"
-    publisher: "Arkib Negara Malaysia"
-  - title: "Jabatan Muzium Malaysia (Department of Museums Malaysia)"
+    publisher: "말레이시아 국립문서보관소"
+  - title: "말레이시아 박물관청 (Jabatan Muzium Malaysia (Department of Museums Malaysia))"
     url: "https://www.jmm.gov.my/"
-    publisher: "Jabatan Muzium Malaysia"
-  - title: "Sejarah Melayu (Malay Annals)"
-    publisher: "Arkib Negara Malaysia"
+    publisher: "말레이시아 박물관청"
+  - title: "말레이 연대기 (Sejarah Melayu (Malay Annals))"
+    publisher: "말레이시아 국립문서보관소"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "langkasuka" }

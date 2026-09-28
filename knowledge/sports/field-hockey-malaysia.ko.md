@@ -56,22 +56,22 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "HRH Sultan Azlan Shah — a true torch bearer of Asian hockey"
+  - title: "HRH 술탄 아즐란 샤 — 아시아 하키의 진정한 성화 봉송자 (HRH Sultan Azlan Shah — a true torch bearer of Asian hockey)"
     url: "https://asiahockey.org/about/sultan-azlan-shah-a-true-torch-bearer-of-asian-hockey/"
     publisher: "Asian Hockey Federation"
-  - title: "Hat-tricks, hospitality and honour: recalling the 1975 men's Hockey World Cup"
+  - title: "해트트릭, 환대 그리고 명예: 1975년 남자 하키 월드컵을 회고하다 (Hat-tricks, hospitality and honour: recalling the 1975 men's Hockey World Cup)"
     url: "https://hockeymuseum.org/hat-tricks-hospitality-and-honour-recalling-the-1975-mens-hockey-world-cup/"
     publisher: "The Hockey Museum"
-  - title: "Malaysian Hockey Confederation — official site"
+  - title: "말레이시아 하키 연맹 — 공식 사이트 (Malaysian Hockey Confederation — official site)"
     url: "https://www.mhc.org.my/"
     publisher: "Malaysian Hockey Confederation"
-  - title: "India begin their Sultan Azlan Shah Cup 2025 campaign with a 1-0 win against Korea"
+  - title: "인도, 한국을 1-0으로 꺾고 2025 술탄 아즐란 샤 컵 여정 시작 (India begin their Sultan Azlan Shah Cup 2025 campaign with a 1-0 win against Korea)"
     url: "https://www.hockeyindia.org/news/india-begin-their-sultan-azlan-shah-cup-2025-campaign-with-a-1-0-win-against-korea"
     publisher: "Hockey India"
-  - title: "Deciphering the Sultan Azlan Shah Cup 2025"
+  - title: "2025 술탄 아즐란 샤 컵 해부하기 (Deciphering the Sultan Azlan Shah Cup 2025)"
     url: "https://www.thesportscol.com/2025/12/deciphering-the-sultan-azlan-shah-cup-2025/"
     publisher: "The Sports Column"
-  - title: "Malaysia Men World Hockey Ranking"
+  - title: "말레이시아 남자 세계 하키 랭킹 (Malaysia Men World Hockey Ranking)"
     url: "https://www.fih.hockey/outdoor-rankings/malaysia-men-hockey-rankings-45"
     publisher: "International Hockey Federation (FIH)"
 

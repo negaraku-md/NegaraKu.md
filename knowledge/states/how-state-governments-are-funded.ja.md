@@ -53,13 +53,13 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Federal Constitution — Tenth Schedule (Grant and Sources of Revenue Assigned to States)"
+  - title: "連邦憲法 — 第10附則(州に割り当てられる交付金および歳入源)(Federal Constitution — Tenth Schedule (Grant and Sources of Revenue Assigned to States))"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/TenthSchedule.pdf"
-    publisher: "Sabah State Attorney-General's Chambers"
-  - title: "FAQ: Types of Grants to States"
+    publisher: "サバ州司法長官府"
+  - title: "よくある質問:州への交付金の種類 (FAQ: Types of Grants to States)"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/nbo/faq-en.pdf"
-    publisher: "Ministry of Finance Malaysia"
-  - title: "2023/98 Insufficient States: Revisiting the Roles and Resources of Malaysia's Subnational Governments"
+    publisher: "マレーシア財務省"
+  - title: "2023/98 不十分な州:マレーシアの地方政府の役割と資源を再考する (2023/98 Insufficient States: Revisiting the Roles and Resources of Malaysia's Subnational Governments)"
     url: "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2023-98-insufficient-states-revisiting-the-roles-and-resources-of-malaysias-subnational-governments-by-lee-hwok-aun/"
     publisher: "ISEAS – Yusof Ishak Institute"
 

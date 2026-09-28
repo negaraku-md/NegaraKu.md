@@ -40,12 +40,12 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Lambang Kebesaran Negara — Bab 1: Jata Negara"
+  - title: "국가 존엄의 상징 — 제1장: 국장 (Lambang Kebesaran Negara — Bab 1: Jata Negara)"
     url: "https://www.cgso.gov.my/wp-content/uploads/2026/01/lambang_kebesaran_negara.pdf"
-    publisher: "Jabatan Penerangan Malaysia, Kementerian Komunikasi dan Multimedia (dihoskan oleh Pejabat Ketua Pegawai Keselamatan Kerajaan)"
-  - title: "Trivia Kemerdekaan 2022: Jata Negara"
+    publisher: "말레이시아 공보국, 통신멀티미디어부 (정부 최고보안책임관실 호스팅)"
+  - title: "독립 기념 트리비아 2022: 국장 (Trivia Kemerdekaan 2022: Jata Negara)"
     url: "https://www.mkn.gov.my/web/ms/2022/08/11/trivia-kemerdekaan-2022-jata-negara/"
-    publisher: "Majlis Keselamatan Negara"
+    publisher: "국가안전보장회의(MKN)"
     date: "2022-08-11"
 
 entity: "Jata Negara"

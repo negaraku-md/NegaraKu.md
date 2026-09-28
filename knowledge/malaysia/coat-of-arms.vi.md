@@ -39,12 +39,12 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Lambang Kebesaran Negara — Bab 1: Jata Negara"
+  - title: "Biểu tượng tôn nghiêm quốc gia — Chương 1: Quốc huy (Lambang Kebesaran Negara — Bab 1: Jata Negara)"
     url: "https://www.cgso.gov.my/wp-content/uploads/2026/01/lambang_kebesaran_negara.pdf"
-    publisher: "Jabatan Penerangan Malaysia, Kementerian Komunikasi dan Multimedia (dihoskan oleh Pejabat Ketua Pegawai Keselamatan Kerajaan)"
-  - title: "Trivia Kemerdekaan 2022: Jata Negara"
+    publisher: "Cục Thông tin Malaysia, Bộ Truyền thông và Đa phương tiện (do Văn phòng Trưởng Cán bộ An ninh Chính phủ lưu trữ)"
+  - title: "Câu chuyện thú vị ngày Độc lập 2022: Quốc huy (Trivia Kemerdekaan 2022: Jata Negara)"
     url: "https://www.mkn.gov.my/web/ms/2022/08/11/trivia-kemerdekaan-2022-jata-negara/"
-    publisher: "Majlis Keselamatan Negara"
+    publisher: "Hội đồng An ninh Quốc gia (MKN)"
     date: "2022-08-11"
 
 entity: "Jata Negara"

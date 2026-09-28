@@ -46,18 +46,18 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Bulan Ogos Adalah Bulan Bersejarah"
+  - title: "เดือนสิงหาคมเป็นเดือนแห่งประวัติศาสตร์ (Bulan Ogos Adalah Bulan Bersejarah)"
     url: "https://www.mkn.gov.my/web/ms/2024/08/19/bulan-ogos-adalah-bulan-bersejarah/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
+    publisher: "สภาความมั่นคงแห่งชาติ (MKN)"
     date: "2024-08-19"
-  - title: "Arkib Negara Malaysia"
+  - title: "หอจดหมายเหตุแห่งชาติมาเลเซีย (Arkib Negara Malaysia)"
     url: "https://www.arkib.gov.my/"
-    publisher: "Arkib Negara Malaysia"
-  - title: "Federal Constitution — Laws of Malaysia"
+    publisher: "หอจดหมายเหตุแห่งชาติมาเลเซีย"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ — กฎหมายแห่งมาเลเซีย (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Malaysia Agreement 1963 (Perjanjian Malaysia 1963)"
-    publisher: "Government of the United Kingdom / Federation of Malaya"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
+  - title: "ข้อตกลงมาเลเซีย 1963 (Malaysia Agreement 1963 (Perjanjian Malaysia 1963))"
+    publisher: "รัฐบาลสหราชอาณาจักร / สหพันธรัฐมลายา"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "independence-1957" }

@@ -53,15 +53,15 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Laws of Malaysia — Act 56, Evidence Act 1950 (senarai rasmi versi & cetakan semula)"
+  - title: "말레이시아 법령 — Act 56, Evidence Act 1950 (공식 판본 및 재판본 목록) (Laws of Malaysia — Act 56, Evidence Act 1950 (senarai rasmi versi & cetakan semula))"
     url: "https://lom.agc.gov.my/act-detail.php?act=56&lang=BI"
-    publisher: "Pejabat Peguam Negara Malaysia (Attorney-General's Chambers) — penerbit rasmi Undang-Undang Malaysia"
-  - title: "Undang-Undang Malaysia — Akta 56, Akta Keterangan 1950 (senarai rasmi versi Bahasa Melayu)"
+    publisher: "말레이시아 법무장관실 (Attorney-General's Chambers) — 말레이시아 법령 공식 발행처"
+  - title: "말레이시아 법령 — Akta 56, Akta Keterangan 1950 (말레이어판 공식 목록) (Undang-Undang Malaysia — Akta 56, Akta Keterangan 1950 (senarai rasmi versi Bahasa Melayu))"
     url: "https://lom.agc.gov.my/act-detail.php?act=56&lang=BM"
-    publisher: "Pejabat Peguam Negara Malaysia (Attorney-General's Chambers)"
-  - title: "Evidence Act 1950 (Act 56) — teks penuh cetakan semula rasmi, setakat 1 Disember 2012"
+    publisher: "말레이시아 법무장관실 (Attorney-General's Chambers)"
+  - title: "Evidence Act 1950 (Act 56) — 공식 재판본 전문, 2012년 12월 1일 기준 (Evidence Act 1950 (Act 56) — teks penuh cetakan semula rasmi, setakat 1 Disember 2012)"
     url: "https://ccid.rmp.gov.my/Laws/Act_56_-_Evidence_Act_1950.pdf"
-    publisher: "Salinan teks penuh cetakan semula rasmi yang dihoskan oleh Polis Diraja Malaysia (Jabatan Siasatan Jenayah Komersial)"
+    publisher: "말레이시아 왕립경찰(상업범죄수사부)이 호스팅하는 공식 재판본 전문 사본"
 
 entity: "Evidence Act 1950"
 wikidata: "Q12682327"

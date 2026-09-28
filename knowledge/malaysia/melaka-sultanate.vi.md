@@ -44,17 +44,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "Melaka và George Town, các Thành phố Lịch sử của Eo biển Malacca (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
     publisher: "UNESCO World Heritage Centre"
-  - title: "Arkib Negara Malaysia (National Archives of Malaysia)"
+  - title: "Cục Lưu trữ Quốc gia Malaysia (Arkib Negara Malaysia (National Archives of Malaysia))"
     url: "https://www.arkib.gov.my/"
-    publisher: "Arkib Negara Malaysia"
-  - title: "Jabatan Muzium Malaysia (Department of Museums Malaysia)"
+    publisher: "Cục Lưu trữ Quốc gia Malaysia"
+  - title: "Cục Bảo tàng Malaysia (Jabatan Muzium Malaysia (Department of Museums Malaysia))"
     url: "https://www.jmm.gov.my/"
-    publisher: "Jabatan Muzium Malaysia"
-  - title: "Sejarah Melayu (Malay Annals)"
-    publisher: "Arkib Negara Malaysia"
+    publisher: "Cục Bảo tàng Malaysia"
+  - title: "Biên niên sử Mã Lai (Sejarah Melayu (Malay Annals))"
+    publisher: "Cục Lưu trữ Quốc gia Malaysia"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "langkasuka" }

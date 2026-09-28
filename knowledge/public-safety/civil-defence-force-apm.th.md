@@ -52,16 +52,16 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Peranan Angkatan Pertahanan Awam (APM)"
+  - title: "บทบาทของกองกำลังป้องกันภัยฝ่ายพลเรือน (APM) (Peranan Angkatan Pertahanan Awam (APM))"
     url: "https://www.malaysia.gov.my/my/categories/keselamatan--komuniti/keselamatan-awam/peranan-angkatan-pertahanan-awam-apm"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Sejarah APM"
+    publisher: "พอร์ทัลทางการของรัฐบาลมาเลเซีย (MyGovernment)"
+  - title: "ประวัติ APM (Sejarah APM)"
     url: "https://www.civildefence.gov.my/apm-history/?lang=en"
-    publisher: "Angkatan Pertahanan Awam Malaysia (APM)"
-  - title: "Mission, Vision And Objectives"
+    publisher: "กองกำลังป้องกันภัยฝ่ายพลเรือนมาเลเซีย (APM)"
+  - title: "พันธกิจ วิสัยทัศน์ และวัตถุประสงค์ (Mission, Vision And Objectives)"
     url: "https://www.civildefence.gov.my/mission-vision-and-objectives/?lang=en"
-    publisher: "Angkatan Pertahanan Awam Malaysia (APM)"
-  - title: "JPAM Jadi APM Mulai 1 September"
+    publisher: "กองกำลังป้องกันภัยฝ่ายพลเรือนมาเลเซีย (APM)"
+  - title: "JPAM เปลี่ยนเป็น APM ตั้งแต่ 1 กันยายน (JPAM Jadi APM Mulai 1 September)"
     url: "https://www.mstar.com.my/lokal/semasa/2016/08/21/jpam-apm"
     publisher: "mStar (Media Prima)"
 

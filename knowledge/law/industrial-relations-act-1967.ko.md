@@ -53,24 +53,24 @@ revisions:
 
 updated: 2026-08-14
 sources:
-  - title: "Laws of Malaysia — Industrial Relations Act 1967 (Act 177), consolidated reprint (updated as at 1 November 2021)"
+  - title: "말레이시아 법령 — Industrial Relations Act 1967 (Act 177), 통합 재판본(2021년 11월 1일 기준 갱신) (Laws of Malaysia — Industrial Relations Act 1967 (Act 177), consolidated reprint (updated as at 1 November 2021))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690019_BI/010721_Act%20177_final.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (lom.agc.gov.my)"
-  - title: "Malaysian Industrial Relations (Amendment) Act 2020 seeks to expedite dispute resolution process"
+    publisher: "말레이시아 법무장관실 (lom.agc.gov.my)"
+  - title: "말레이시아 Industrial Relations (Amendment) Act 2020, 분쟁 해결 절차의 신속화를 도모 (Malaysian Industrial Relations (Amendment) Act 2020 seeks to expedite dispute resolution process)"
     url: "https://www.allenandgledhill.com/publication/articles/15088/my_malaysian-industrial-relations-amendment-act-2020-seeks-to-expedite-dispute-resolution-process"
     publisher: "Allen & Gledhill"
-  - title: "Amendments to the Industrial Relations Act 1967"
+  - title: "Industrial Relations Act 1967의 개정 (Amendments to the Industrial Relations Act 1967)"
     url: "http://shooklin.com.my/legal-update/amendments-to-the-industrial-relations-act-1967/"
     publisher: "Shook Lin & Bok"
-  - title: "Unfair Dismissal Claims: What are the Available Reliefs?"
+  - title: "부당 해고 청구: 이용 가능한 구제 수단은 무엇인가? (Unfair Dismissal Claims: What are the Available Reliefs?)"
     url: "https://www.thomasphilip.com.my/articles/unfair-dismissal-claims-what-are-the-available-reliefs/"
     publisher: "Thomas Philip Advocates & Solicitors"
-  - title: "Case Spotlight - The Secret Ballot Process in Union Recognition"
+  - title: "판례 조명 - 노동조합 승인에서의 비밀 투표 절차 (Case Spotlight - The Secret Ballot Process in Union Recognition)"
     url: "https://dnh.com.my/case-spotlight-the-secret-ballot-process-in-union-recognition/"
     publisher: "Donovan & Ho"
-  - title: "Frequently Asked Questions (F.A.Q) — Industrial Court of Malaysia"
+  - title: "자주 묻는 질문 (F.A.Q) — 말레이시아 산업법원 (Frequently Asked Questions (F.A.Q) — Industrial Court of Malaysia)"
     url: "https://www.mp.gov.my/index.php?option=com_sppagebuilder&view=page&id=23&Itemid=174&lang=en"
-    publisher: "Mahkamah Perusahaan Malaysia (Industrial Court of Malaysia)"
+    publisher: "말레이시아 산업법원 (Industrial Court of Malaysia)"
 
 entity: "Akta Perhubungan Perusahaan 1967"
 relations:

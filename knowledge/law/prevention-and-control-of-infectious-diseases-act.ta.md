@@ -51,16 +51,16 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Laws of Malaysia — Act 342 Prevention and Control of Infectious Diseases Act 1988 (As at 1 July 2020)"
+  - title: "மலேசியச் சட்டங்கள் — Act 342 Prevention and Control of Infectious Diseases Act 1988 (2020 ஜூலை 1 நிலவரப்படி) (Laws of Malaysia — Act 342 Prevention and Control of Infectious Diseases Act 1988 (As at 1 July 2020))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1687632_BI/Act%20342%20-%20Draf%20Bersih.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Dewan Rakyat Passes Controversial Act 342 Amendment Bill On Infectious Disease Control"
+    publisher: "மலேசியத் தலைமை வழக்கறிஞர் அலுவலகம்"
+  - title: "தொற்றுநோய்க் கட்டுப்பாடு தொடர்பான சர்ச்சைக்குரிய Act 342 திருத்த மசோதாவை Dewan Rakyat நிறைவேற்றியது (Dewan Rakyat Passes Controversial Act 342 Amendment Bill On Infectious Disease Control)"
     url: "https://codeblue.galencentre.org/2024/10/dewan-rakyat-passes-controversial-act-342-amendment-bill-on-infectious-disease-control/"
     publisher: "CodeBlue (Galen Centre for Health and Social Policy)"
-  - title: "Act 342 Amendment Bill Treats Infection Like A Criminal Offence"
+  - title: "Act 342 திருத்த மசோதா தொற்றுநோயை குற்றவியல் குற்றமாகக் கருதுகிறது (Act 342 Amendment Bill Treats Infection Like A Criminal Offence)"
     url: "https://codeblue.galencentre.org/2024/07/act-342-amendment-bill-treats-infection-like-a-criminal-offence/"
     publisher: "CodeBlue (Galen Centre for Health and Social Policy)"
-  - title: "Legality of the Movement Control Order"
+  - title: "இயக்கக் கட்டுப்பாட்டு ஆணையின் சட்டப்பூர்வத்தன்மை (Legality of the Movement Control Order)"
     url: "https://rlse.law/legality-of-the-movement-control-order/"
     publisher: "Review of Law and Social Equity (RLSE)"
 

@@ -53,15 +53,15 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Islamic Family Law (Federal Territories) Act 1984 (Act 303) — Online Version of Updated Text of Reprint"
+  - title: "Islamic Family Law (Federal Territories) Act 1984 (Act 303) — 更新重印文本的在线版本 (Islamic Family Law (Federal Territories) Act 1984 (Act 303) — Online Version of Updated Text of Reprint)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20303%20(11.3.2014).pdf"
-    publisher: "Jabatan Peguam Negara (Attorney General's Chambers), Laws of Malaysia"
-  - title: "Perceraian Pasangan Islam"
+    publisher: "总检察署 (Attorney General's Chambers),马来西亚法律"
+  - title: "穆斯林夫妻离婚 (Perceraian Pasangan Islam)"
     url: "https://www.malaysia.gov.my/my/categories/institusi-keluarga/perceraian-pasangan-islam"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Tuntutan dan Hak Selepas Perceraian Islam"
+    publisher: "马来西亚政府官方门户网站 (MyGovernment)"
+  - title: "伊斯兰离婚后的申索与权利 (Tuntutan dan Hak Selepas Perceraian Islam)"
     url: "https://www.malaysia.gov.my/my/categories/institusi-keluarga/perceraian-pasangan-islam/tuntutan-dan-hak-selepas-perceraian-islam"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
+    publisher: "马来西亚政府官方门户网站 (MyGovernment)"
 
 entity: "Islamic Family Law (Federal Territories) Act 1984"
 relations:

@@ -54,22 +54,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "FIFA sanctions Football Association of Malaysia and seven players"
+  - title: "ฟีฟ่าลงโทษสมาคมฟุตบอลมาเลเซียและผู้เล่นเจ็ดคน (FIFA sanctions Football Association of Malaysia and seven players)"
     url: "https://inside.fifa.com/legal/judicial-bodies/news/fifa-sanctions-football-association-of-malaysia-and-seven-players"
     publisher: "FIFA"
-  - title: "FIFA Appeal Committee confirms sanctions against Football Association of Malaysia and seven players"
+  - title: "คณะกรรมการอุทธรณ์ฟีฟ่ายืนยันบทลงโทษต่อสมาคมฟุตบอลมาเลเซียและผู้เล่นเจ็ดคน (FIFA Appeal Committee confirms sanctions against Football Association of Malaysia and seven players)"
     url: "https://inside.fifa.com/legal/judicial-bodies/news/appeal-committee-confirms-sanctions-football-association-malaysia-seven-players"
     publisher: "FIFA"
-  - title: "The Court of Arbitration for Sport (CAS) partly amends sanction against seven players falsely made eligible to play for Malaysia (Media Release)"
+  - title: "ศาลอนุญาโตตุลาการกีฬา (CAS) แก้ไขบทลงโทษบางส่วนต่อผู้เล่นเจ็ดคนที่ได้รับสิทธิ์ลงเล่นให้มาเลเซียโดยมิชอบ (ข่าวประชาสัมพันธ์) (The Court of Arbitration for Sport (CAS) partly amends sanction against seven players falsely made eligible to play for Malaysia (Media Release))"
     url: "https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_11990.pdf"
     publisher: "Court of Arbitration for Sport"
-  - title: "What Next For FAM After CAS Ruling On Falsified Documents?"
+  - title: "ก้าวต่อไปของ FAM หลังคำตัดสิน CAS เรื่องเอกสารปลอม? (What Next For FAM After CAS Ruling On Falsified Documents?)"
     url: "https://www.bernama.com/en/news.php?id=2531120"
     publisher: "Bernama"
-  - title: "FAM To Appeal FIFA Sanctions In Heritage Player Case"
+  - title: "FAM เตรียมอุทธรณ์บทลงโทษฟีฟ่าในคดีผู้เล่นเชื้อสาย (FAM To Appeal FIFA Sanctions In Heritage Player Case)"
     url: "https://www.bernama.com/en/news.php?id=2472029"
     publisher: "Bernama"
-  - title: "FAM lodges police report over falsified heritage players' birth certs"
+  - title: "FAM แจ้งความกรณีสูติบัตรปลอมของผู้เล่นเชื้อสาย (FAM lodges police report over falsified heritage players' birth certs)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/12/24/fam-lodges-police-report-over-falsified-heritage-players-birth-certs"
     publisher: "Free Malaysia Today"
 

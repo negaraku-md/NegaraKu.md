@@ -50,12 +50,12 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Lambang Kebesaran Negara — Bab 2: Bendera Malaysia, Jalur Gemilang"
+  - title: "தேசியப் பெருமைச் சின்னங்கள் — அத்தியாயம் 2: மலேசியக் கொடி, ஜாலூர் ஜெமிலாங் (Lambang Kebesaran Negara — Bab 2: Bendera Malaysia, Jalur Gemilang)"
     url: "https://www.cgso.gov.my/wp-content/uploads/2026/01/lambang_kebesaran_negara.pdf"
-    publisher: "Jabatan Penerangan Malaysia, Kementerian Komunikasi dan Multimedia (dihoskan oleh Pejabat Ketua Pegawai Keselamatan Kerajaan)"
-  - title: "Sejarah Penciptaan Jalur Gemilang"
+    publisher: "மலேசிய தகவல் திணைக்களம், தகவல் தொடர்பு மற்றும் பல்லூடகத் துறை அமைச்சு (அரசாங்கத் தலைமைப் பாதுகாப்பு அதிகாரி அலுவலகத்தால் இயக்கப்படுகிறது)"
+  - title: "ஜாலூர் ஜெமிலாங் உருவாக்கத்தின் வரலாறு (Sejarah Penciptaan Jalur Gemilang)"
     url: "https://www.mkn.gov.my/web/ms/2020/09/22/sejarah-penciptaan-jalur-gemilang/"
-    publisher: "Majlis Keselamatan Negara"
+    publisher: "தேசியப் பாதுகாப்பு கவுன்சில்"
     date: "2020-09-22"
 
 entity: "Jalur Gemilang"

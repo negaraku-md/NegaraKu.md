@@ -34,12 +34,12 @@ sensitivity: "constitution"
 
 updated: 2026-07-10
 sources:
-  - title: "Federal Constitution (as at 1 September 2022 reprint)"
+  - title: "Federal Constitution(2022년 9월 1일 기준 재판본) (Federal Constitution (as at 1 September 2022 reprint))"
     url: "http://www.agc.gov.my/agcportal/index.php?r=portal2/lom"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Laws of Malaysia — Federal Constitution"
+    publisher: "말레이시아 법무장관실"
+  - title: "말레이시아 법령 — Federal Constitution (Laws of Malaysia — Federal Constitution)"
     url: "https://www.federalgazette.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "말레이시아 법무장관실"
 
 entity: "Federal Constitution"
 wikidata: "Q1003080"

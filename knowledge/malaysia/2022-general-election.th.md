@@ -53,13 +53,13 @@ sensitivity: "elections"
 created: 2026-08-27
 updated: 2026-08-27
 sources:
-  - title: "Anwar Ibrahim Sworn In as 10th Prime Minister of Malaysia"
+  - title: "อันวาร์ อิบราฮิม สาบานตนเข้ารับตำแหน่งนายกรัฐมนตรีคนที่ 10 ของมาเลเซีย (Anwar Ibrahim Sworn In as 10th Prime Minister of Malaysia)"
     url: "https://www.pmo.gov.my/en/news-en/anwar-ibrahim-sworn-in-as-10th-prime-minister-of-malaysia/"
-    publisher: "Prime Minister's Office of Malaysia"
-  - title: "Election Commission of Malaysia (Suruhanjaya Pilihan Raya)"
+    publisher: "สำนักนายกรัฐมนตรีมาเลเซีย"
+  - title: "คณะกรรมการการเลือกตั้งมาเลเซีย (Suruhanjaya Pilihan Raya) (Election Commission of Malaysia (Suruhanjaya Pilihan Raya))"
     url: "https://www.spr.gov.my"
-    publisher: "Election Commission of Malaysia"
-  - title: "Hung parliament, coalition government and the rise of the Islamists — Malaysia after the 2022 election"
+    publisher: "คณะกรรมการการเลือกตั้งมาเลเซีย (SPR)"
+  - title: "สภาแขวน รัฐบาลผสม และการผงาดขึ้นของกลุ่มอิสลามนิยม — มาเลเซียหลังการเลือกตั้ง 2022 (Hung parliament, coalition government and the rise of the Islamists — Malaysia after the 2022 election)"
     url: "https://www.tandfonline.com/doi/full/10.1080/00358533.2023.2219522"
     publisher: "The Round Table (Taylor & Francis)"
 

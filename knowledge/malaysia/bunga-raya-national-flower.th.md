@@ -52,18 +52,18 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Kenali Malaysia — Bunga Kebangsaan"
+  - title: "รู้จักมาเลเซีย — ดอกไม้ประจำชาติ (Kenali Malaysia — Bunga Kebangsaan)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/bunga-kebangsaan"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Bunga Raya: Fakta & Sejarah Bunga Kebangsaan Malaysia"
+    publisher: "พอร์ทัลอย่างเป็นทางการของรัฐบาลมาเลเซีย (MyGovernment)"
+  - title: "ชบา (Bunga Raya): ข้อเท็จจริงและประวัติดอกไม้ประจำชาติมาเลเซีย (Bunga Raya: Fakta & Sejarah Bunga Kebangsaan Malaysia)"
     url: "https://www.mkn.gov.my/web/ms/2024/08/05/bunga-raya-fakta-sejarah-bunga-kebangsaan-malaysia/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
-  - title: "Bunga Raya Merah Diisytihar Bunga Kebangsaan Negara"
+    publisher: "สภาความมั่นคงแห่งชาติ (MKN)"
+  - title: "ชบาสีแดงได้รับการประกาศเป็นดอกไม้ประจำชาติ (Bunga Raya Merah Diisytihar Bunga Kebangsaan Negara)"
     url: "https://www.upm.edu.my/news/bunga_raya_merah_diisytihar_bunga_kebangsaan_negara-74916"
     publisher: "Universiti Putra Malaysia (UPM)"
-  - title: "Kenali Malaysia — Rukun Negara"
+  - title: "รู้จักมาเลเซีย — รูกุนเนอการา (Rukun Negara) (Kenali Malaysia — Rukun Negara)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
+    publisher: "พอร์ทัลอย่างเป็นทางการของรัฐบาลมาเลเซีย (MyGovernment)"
 
 entity: "Bunga raya (Hibiscus rosa-sinensis)"
 wikidata: "Q159534"

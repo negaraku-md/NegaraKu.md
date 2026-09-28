@@ -53,19 +53,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Federal Constitution (Reprint As at 15 October 2020) — Articles 23 & 24"
+  - title: "Federal Constitution(2020年10月15日現在の再版)— 第23条および第24条 (Federal Constitution (Reprint As at 15 October 2020) — Articles 23 & 24)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Pejabat Peguam Negara)"
-  - title: "Application for Renunciation of Citizenship Status Under Article 23 of the Federal Constitution"
+    publisher: "マレーシア法務長官府 (Pejabat Peguam Negara)"
+  - title: "連邦憲法第23条に基づく市民権資格放棄の申請 (Application for Renunciation of Citizenship Status Under Article 23 of the Federal Constitution)"
     url: "https://www.jpn.gov.my/en/services/citizenship/application-for-renunciation-of-citizenship-status-under-article-23-of-the-federal-constitution/"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department)"
-  - title: "Renunciation of Malaysian Citizenship"
+    publisher: "国民登録局 (JPN)"
+  - title: "マレーシア市民権の放棄 (Renunciation of Malaysian Citizenship)"
     url: "https://www.malaysia.gov.my/en/categories/personal-identification/kewarganegaraan/renunciation-of-malaysian-citizenship"
-    publisher: "MyGovernment Portal (Malaysian Administrative Modernisation and Management Planning Unit)"
-  - title: "No Policy Change In Case Of Dual Citizenship Holders Surrendering MyKad"
+    publisher: "MyGovernmentポータル(マレーシア行政近代化・管理計画庁)"
+  - title: "二重国籍保持者のMyKad返納に関する方針変更なし (No Policy Change In Case Of Dual Citizenship Holders Surrendering MyKad)"
     url: "https://www.bernama.com/en/news.php?id=2503691"
     publisher: "Bernama"
-  - title: "Malaysia does not recognise dual citizenship, says home minister"
+  - title: "マレーシアは二重国籍を認めない、と内務大臣 (Malaysia does not recognise dual citizenship, says home minister)"
     url: "https://www.malaymail.com/news/malaysia/2019/03/21/malaysia-does-not-recognise-dual-citizenship-says-home-minister/1735018"
     publisher: "Malay Mail"
 

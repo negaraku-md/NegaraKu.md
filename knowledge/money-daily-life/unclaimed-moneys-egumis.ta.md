@@ -51,15 +51,15 @@ verificationNeeded:
   - "eGUMIS போர்ட்டல் தொடங்கப்பட்ட ஆண்டு — இரண்டாம் நிலைச் சுருக்கங்களில் மட்டுமே தோன்றுகிறது, அதிகாரப்பூர்வ ஆதாரத்திலிருந்து உறுதிப்படுத்தப்படவில்லை."
 updated: 2026-08-08
 sources:
-  - title: "Unclaimed Money"
+  - title: "உரிமை கோரப்படாத பணம் (Unclaimed Money)"
     url: "https://www.anm.gov.my/en/public/unclaimed-money"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "FAQ - eGUMIS"
+    publisher: "மலேசிய தேசிய கணக்காளர் திணைக்களம் (JANM)"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் - eGUMIS (FAQ - eGUMIS)"
     url: "https://egumis.anm.gov.my/faq?lang=en"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "Unclaimed Moneys and CDS-MOF (FAQ)"
+    publisher: "மலேசிய தேசிய கணக்காளர் திணைக்களம் (JANM)"
+  - title: "உரிமை கோரப்படாத பணமும் CDS-MOF-ம் (அடிக்கடி கேட்கப்படும் கேள்விகள்) (Unclaimed Moneys and CDS-MOF (FAQ))"
     url: "https://www.anm.gov.my/en/faqs/unclaimed-moneys-and-cds-mof"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
+    publisher: "மலேசிய தேசிய கணக்காளர் திணைக்களம் (JANM)"
 
 entity: "eGUMIS"
 relations:

@@ -52,17 +52,17 @@ sensitivity: "none"
 
 updated: 2026-07-23
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "மலாக்கா மற்றும் ஜார்ஜ் டவுன், மலாக்கா நீரிணையின் வரலாற்று நகரங்கள் (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
     publisher: "UNESCO World Heritage Centre"
     date: "2008-01-01"
-  - title: "OpenDOSM — official statistics data catalogue"
+  - title: "OpenDOSM — அதிகாரப்பூர்வ புள்ளிவிவர தரவு பட்டியல் (OpenDOSM — official statistics data catalogue)"
     url: "https://open.dosm.gov.my/data-catalogue"
-    publisher: "Department of Statistics Malaysia"
-  - title: "Penang State Government Portal"
+    publisher: "மலேசியா புள்ளியியல் திணைக்களம் (DOSM)"
+  - title: "பினாங்கு மாநில அரசு இணையதளம் (Penang State Government Portal)"
     url: "https://www.penang.gov.my/"
-    publisher: "Penang State Government"
-  - title: "InvestPenang"
+    publisher: "பினாங்கு மாநில அரசு"
+  - title: "InvestPenang (InvestPenang)"
     url: "https://investpenang.gov.my/"
     publisher: "InvestPenang"
 

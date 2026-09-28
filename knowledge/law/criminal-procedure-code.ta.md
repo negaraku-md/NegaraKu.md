@@ -51,16 +51,16 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Criminal Procedure Code (Act 593), teks rasmi"
+  - title: "Criminal Procedure Code (Act 593), அதிகாரப்பூர்வ உரை (Criminal Procedure Code (Act 593), teks rasmi)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1688322_BI/ACT%20593_CRIMINAL%20%20PROCEDURE%20CODE_18.10.2021.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
-  - title: "Federal Constitution (Reprint As at 15 October 2020), teks rasmi — Perkara 5"
+    publisher: "மலேசியா அரசு வழக்கறிஞர் அலுவலகம் (மலேசியா சட்டங்கள்)"
+  - title: "Federal Constitution (2020 அக்டோபர் 15 வரையிலான மறுபதிப்பு), அதிகாரப்பூர்வ உரை — சரத்து 5 (Federal Constitution (Reprint As at 15 October 2020), teks rasmi — Perkara 5)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
-  - title: "FAQ on Arrest, Remand and Bail in Malaysia"
+    publisher: "மலேசியா அரசு வழக்கறிஞர் அலுவலகம் (மலேசியா சட்டங்கள்)"
+  - title: "மலேசியாவில் கைது, தடுப்புக்காவல் மற்றும் பிணை குறித்த அடிக்கடி கேட்கப்படும் கேள்விகள் (FAQ on Arrest, Remand and Bail in Malaysia)"
     url: "https://mahwengkwai.com/faq-on-arrest-remand-and-bail-in-malaysia/"
     publisher: "MahWengKwai & Associates"
-  - title: "Understanding Criminal Proceedings in Malaysia (An Easy Guide)"
+  - title: "மலேசியாவில் குற்றவியல் நடவடிக்கைகளைப் புரிந்துகொள்ளுதல் (எளிய வழிகாட்டி) (Understanding Criminal Proceedings in Malaysia (An Easy Guide))"
     url: "https://www.tkplaw.co/articles_18.html"
     publisher: "Teh Kim Poo & Co (TKP Law)"
 

@@ -50,13 +50,13 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Portal Rasmi Jabatan Bomba dan Penyelamat Malaysia (JBPM)"
+  - title: "말레이시아 소방구조청 공식 포털 (JBPM) (Portal Rasmi Jabatan Bomba dan Penyelamat Malaysia (JBPM))"
     url: "https://www.bomba.gov.my"
-    publisher: "Jabatan Bomba dan Penyelamat Malaysia"
-  - title: "Does Your Building Require a Fire Certificate (FC) — Perakuan Bomba"
+    publisher: "말레이시아 소방구조청"
+  - title: "귀하의 건물에 소방증명서(FC)가 필요한가 — Perakuan Bomba (Does Your Building Require a Fire Certificate (FC) — Perakuan Bomba)"
     url: "https://ipm.my/does-your-building-require-a-fire-certifcate-fc/"
     publisher: "Institute of Property Management (IPM)"
-  - title: "Fire Certificate Malaysia: Application and Renewal Guide"
+  - title: "말레이시아 소방증명서: 신청 및 갱신 안내 (Fire Certificate Malaysia: Application and Renewal Guide)"
     url: "https://www.palcon.com.my/fire-certificate-application-malaysia/"
     publisher: "Palcon"
   - title: "16,111 Kes Kebakaran Direkod Sepanjang 2025, Kerugian Cecah RM20.9억"
