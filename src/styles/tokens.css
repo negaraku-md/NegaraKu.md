@@ -84,6 +84,15 @@
   color-scheme: dark;
 }
 
+/* Vietnamese: the brand fonts (Montserrat/Lato) ship only the latin subset, so
+   tone-marked Vietnamese would font-mix per glyph. On /vi, make Noto Sans (loaded
+   in BaseLayout, full Vietnamese) the primary title + reading face so Vietnamese
+   renders in one consistent font; Montserrat/Lato stay as later fallbacks. */
+:root:lang(vi) {
+  --font-title: 'Noto Sans', 'Montserrat', 'Montserrat fallback', 'Arial', sans-serif;
+  --font-reading: 'Noto Sans', 'Lato', 'Lato fallback', 'Calibri', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
 /* Black · Red — a selectable dark theme with a red accent instead of gold.
    Everything reads the accent through --gold / --accent, so only the accent
    pair needs overriding; the true-black canvas stays. */

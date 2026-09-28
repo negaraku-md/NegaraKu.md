@@ -77,7 +77,7 @@ async function main() {
       const spaced = text
         .trim()
         .split(/\s+/)
-        .filter((w) => /[A-Za-z0-9஀-௿가-힯]/.test(w)).length;
+        .filter((w) => /[A-Za-z0-9À-ỹ஀-௿가-힯]/.test(w)).length;
       return Math.round(cjk * CJK_PER_WORD + spaced);
     };
     const words = countWords(content);

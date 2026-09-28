@@ -232,19 +232,23 @@ export default defineConfig({
   },
   i18n: {
     defaultLocale: 'ms',
-    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th'],
+    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi'],
     routing: {
-      prefixDefaultLocale: false, // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th
+      prefixDefaultLocale: false, // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi
     },
   },
   integrations: [
     mdx(),
     sitemap({
-      // ms/en/zh/ta/ja/ko/th are all fully launched (in LOCALES, indexed, in this sitemap).
-      // Thai open-launched 2026-09-27 (was soft-launched/noindex from 2026-09-26).
+      // ms/en/zh/ta/ja/ko/th are fully launched (in LOCALES, indexed, in this sitemap).
+      // Vietnamese (`vi`) is SOFT-LAUNCHED (Phase 0): routes/chrome build for preview
+      // but held OUT of LOCALES (→ noindex) and out of this sitemap via the filter,
+      // until launch-ready. Remove the filter + add vi to the locales map (and to
+      // LOCALES in i18n.ts) at open launch.
+      filter: (page) => !/\/vi(\/|$)/.test(page),
       i18n: {
         defaultLocale: 'ms',
-        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th' },
+        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi' },
       },
       serialize(item) {
         const lastmod = lastmodFor(item.url);
