@@ -47,7 +47,7 @@ function manifest() {
 
 // A changed knowledge path → its published locale URL (or null if not live).
 function urlForFile(rel, pub) {
-  const m = rel.replace(/\\/g, '/').match(/^knowledge\/([^/]+)\/(.+?)(?:\.(ms|en|zh|ta|ja|ko))?\.md$/);
+  const m = rel.replace(/\\/g, '/').match(/^knowledge\/([^/]+)\/(.+?)(?:\.(ms|en|zh|ta|ja|ko|th|vi))?\.md$/);
   if (!m) return null;
   const [, cat, slug, lang = 'ms'] = m;
   const key = `${cat}/${slug}#${lang}`;
