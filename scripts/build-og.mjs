@@ -5,7 +5,7 @@
 // Non-fatal: if sharp is unavailable it warns, writes the default SVG, and skips.
 
 import { mkdir, writeFile, readFile, readdir, unlink } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -77,23 +77,55 @@ const CAT = Object.fromEntries(
     ['money-daily-life','living','Wang & Kehidupan Harian','Money & Daily Life','金钱与日常'],['cost-of-living','living','Kos Sara Hidup','Cost of Living','生活成本'],
   ].map(([id, pillar, ms, en, zh]) => [id, { pillar, ms, en, zh }]),
 );
+// Sensitivity labels in every launched locale (mirrors src/components/TrustBadge.astro).
 const SENS = {
-  race: { ms: 'Sensitif — kaum', en: 'Sensitive — race', zh: '敏感——种族' },
-  religion: { ms: 'Sensitif — agama', en: 'Sensitive — religion', zh: '敏感——宗教' },
-  royalty: { ms: 'Sensitif — institusi diraja', en: 'Sensitive — royalty', zh: '敏感——王室' },
-  constitution: { ms: 'Sensitif — perlembagaan', en: 'Sensitive — constitution', zh: '敏感——宪法' },
-  elections: { ms: 'Sensitif — pilihan raya', en: 'Sensitive — elections', zh: '敏感——选举' },
-  security: { ms: 'Sensitif — keselamatan', en: 'Sensitive — security', zh: '敏感——安全' },
-  health: { ms: 'Sensitif — kesihatan', en: 'Sensitive — health', zh: '敏感——健康' },
-  'legal-proceedings': { ms: 'Sensitif — perundangan', en: 'Sensitive — legal', zh: '敏感——法律程序' },
+  race: { ms: 'Sensitif — kaum', en: 'Sensitive — race', zh: '敏感——种族', ta: 'உணர்திறன் மிக்கது — இனம்', ja: 'センシティブ — 人種', ko: '민감 — 인종', th: 'อ่อนไหว — เชื้อชาติ', vi: 'Nhạy cảm — chủng tộc' },
+  religion: { ms: 'Sensitif — agama', en: 'Sensitive — religion', zh: '敏感——宗教', ta: 'உணர்திறன் மிக்கது — மதம்', ja: 'センシティブ — 宗教', ko: '민감 — 종교', th: 'อ่อนไหว — ศาสนา', vi: 'Nhạy cảm — tôn giáo' },
+  royalty: { ms: 'Sensitif — institusi diraja', en: 'Sensitive — royalty', zh: '敏感——王室', ta: 'உணர்திறன் மிக்கது — அரச நிறுவனம்', ja: 'センシティブ — 王室', ko: '민감 — 왕실', th: 'อ่อนไหว — สถาบันพระมหากษัตริย์', vi: 'Nhạy cảm — hoàng gia' },
+  constitution: { ms: 'Sensitif — perlembagaan', en: 'Sensitive — constitution', zh: '敏感——宪法', ta: 'உணர்திறன் மிக்கது — அரசியலமைப்பு', ja: 'センシティブ — 憲法', ko: '민감 — 헌법', th: 'อ่อนไหว — รัฐธรรมนูญ', vi: 'Nhạy cảm — hiến pháp' },
+  elections: { ms: 'Sensitif — pilihan raya', en: 'Sensitive — elections', zh: '敏感——选举', ta: 'உணர்திறன் மிக்கது — தேர்தல்கள்', ja: 'センシティブ — 選挙', ko: '민감 — 선거', th: 'อ่อนไหว — การเลือกตั้ง', vi: 'Nhạy cảm — bầu cử' },
+  security: { ms: 'Sensitif — keselamatan', en: 'Sensitive — security', zh: '敏感——安全', ta: 'உணர்திறன் மிக்கது — பாதுகாப்பு', ja: 'センシティブ — 安全保障', ko: '민감 — 안보', th: 'อ่อนไหว — ความมั่นคง', vi: 'Nhạy cảm — an ninh' },
+  health: { ms: 'Sensitif — kesihatan', en: 'Sensitive — health', zh: '敏感——健康', ta: 'உணர்திறன் மிக்கது — சுகாதாரம்', ja: 'センシティブ — 健康', ko: '민감 — 건강', th: 'อ่อนไหว — สุขภาพ', vi: 'Nhạy cảm — sức khỏe' },
+  'legal-proceedings': { ms: 'Sensitif — perundangan', en: 'Sensitive — legal', zh: '敏感——法律程序', ta: 'உணர்திறன் மிக்கது — சட்டம்', ja: 'センシティブ — 法律', ko: '민감 — 법률', th: 'อ่อนไหว — กฎหมาย', vi: 'Nhạy cảm — pháp lý' },
 };
-const pick = (obj, lang) => (obj ? obj[lang] ?? obj.en : undefined);
-const L = (lang, ms, en, zh) => (lang === 'zh' ? zh : lang === 'ms' ? ms : en);
+
+// Localized taxonomy PARSED from the real source (src/lib), so the breadcrumb reads
+// exactly like the article page in EVERY launched language — no ms/en/zh-only drift.
+function parseLocaleObj(body) {
+  const o = {}; const re = /([A-Za-z]+):\s*(['"])((?:\\.|(?!\2).)*)\2/g; let m;
+  while ((m = re.exec(body))) o[m[1]] = m[3];
+  return o;
+}
+// `id: 'x' … name: { … }` pairs (nearest name after each id) → { id: {loc: value} }.
+// Covers PILLARS + CATEGORIES (stray mode/contentType entries are harmless — looked
+// up only by known category/pillar id).
+function parseNamed(src) {
+  const out = {}; const re = /id:\s*['"]([^'"]+)['"](?:(?!\bid:\s*['"])[\s\S])*?name:\s*\{([^}]*)\}/g; let m;
+  while ((m = re.exec(src))) out[m[1]] = parseLocaleObj(m[2]);
+  return out;
+}
+const _catSrc = readFileSync(path.join(ROOT, 'src', 'lib', 'categories.ts'), 'utf8');
+const _subSrc = readFileSync(path.join(ROOT, 'src', 'lib', 'subcategories.ts'), 'utf8');
+const NAMES = parseNamed(_catSrc);              // pillar id + category id → localized name
+const CAT_PILLAR = (() => {                       // category id → pillar id
+  const out = {}; const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?pillar:\s*'([^']+)'/g; let m;
+  while ((m = re.exec(_catSrc))) out[m[1]] = m[2];
+  return out;
+})();
+const SUBCATS = (() => {                          // subcategory id → localized label
+  const out = {}; const re = /['"]?([A-Za-z0-9][\w-]*)['"]?:\s*\{([^}]*)\}/g; let m;
+  while ((m = re.exec(_subSrc))) out[m[1]] = parseLocaleObj(m[2]);
+  return out;
+})();
+// Pick a localized value with fallback: target → en → ms.
+const loc = (obj, lang) => (obj ? (obj[lang] || obj.en || obj.ms) : undefined);
+// UI-string helper for labels baked into the card (mirrors the site's L()).
+const L = (lang, ms, en, zh, ta, ja, ko, th, vi) => ({ ms, en, zh, ta, ja, ko, th, vi }[lang] ?? en ?? ms);
 const fmtDate = (iso, lang) => {
   if (!iso) return null;
   try {
     return new Date(iso).toLocaleDateString(
-      lang === 'zh' ? 'zh-CN' : lang === 'ms' ? 'ms-MY' : lang === 'ta' ? 'ta-MY' : lang === 'ja' ? 'ja-JP' : lang === 'ko' ? 'ko-KR' : lang === 'th' ? 'th-TH' : 'en-GB',
+      lang === 'zh' ? 'zh-CN' : lang === 'ms' ? 'ms-MY' : lang === 'ta' ? 'ta-MY' : lang === 'ja' ? 'ja-JP' : lang === 'ko' ? 'ko-KR' : lang === 'th' ? 'th-TH' : lang === 'vi' ? 'vi-VN' : 'en-GB',
       { day: 'numeric', month: 'short', year: 'numeric' });
   } catch { return iso; }
 };
@@ -166,12 +198,14 @@ function wrapText(text, { maxLatin, maxCjk, maxLines }) {
 function articleSvg(a) {
   const lang = a.lang;
   const cjkTitle = /[㐀-鿿一-龥]/.test(a.title || '');
-  const c = CAT[a.category];
-  // Breadcrumb: pillar / category / subcategory (localized).
+  const pillarId = CAT_PILLAR[a.category];
+  // Breadcrumb: pillar / category / subcategory — localized from the real taxonomy.
   const crumb = [
-    c && pick(PILLAR[c.pillar], lang),
-    c ? c[lang] ?? c.en : titleCase(a.category),
-    Array.isArray(a.subcategory) && a.subcategory[0] ? titleCase(a.subcategory[0]) : null,
+    pillarId && loc(NAMES[pillarId], lang),
+    loc(NAMES[a.category], lang) || titleCase(a.category),
+    Array.isArray(a.subcategory) && a.subcategory[0]
+      ? (loc(SUBCATS[a.subcategory[0]], lang) || titleCase(a.subcategory[0]))
+      : null,
   ].filter(Boolean).join('  /  ');
 
   // Chips — mode, sensitivity, published, next-review (red once overdue).
@@ -179,14 +213,16 @@ function articleSvg(a) {
   const overdue = a.reviewDue && new Date(a.reviewDue) < NOW;
   const chipDefs = [];
   chipDefs.push(a.mode === 'narrative'
-    ? [L(lang, 'Naratif', 'Narrative', '叙事'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']
-    : [L(lang, 'Praktikal', 'Practical', '实用'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']);
+    ? [L(lang, 'Naratif', 'Narrative', '叙事', 'கதையாடல்', '物語', '서사', 'เชิงบรรยาย', 'Tường thuật'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']
+    : [L(lang, 'Praktikal', 'Practical', '实用', 'நடைமுறை', '実用', '실용', 'เชิงปฏิบัติ', 'Thực tiễn'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']);
   if (a.sensitivity && a.sensitivity !== 'none' && SENS[a.sensitivity])
-    chipDefs.push([pick(SENS[a.sensitivity], lang), '#f87171', 'rgba(248,113,113,.45)', 'rgba(248,113,113,.12)']);
+    chipDefs.push([loc(SENS[a.sensitivity], lang), '#f87171', 'rgba(248,113,113,.45)', 'rgba(248,113,113,.12)']);
   if (pubDate)
-    chipDefs.push([`${L(lang, 'Diterbitkan', 'Published', '发布')}: ${pubDate}`, '#4ade80', 'rgba(74,222,128,.4)', 'rgba(74,222,128,.12)']);
+    chipDefs.push([`${L(lang, 'Diterbitkan', 'Published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '공개됨', 'เผยแพร่แล้ว', 'Đã xuất bản')}: ${pubDate}`, '#4ade80', 'rgba(74,222,128,.4)', 'rgba(74,222,128,.12)']);
   if (a.reviewDue) {
-    const label = overdue ? L(lang, 'Semakan tertunggak', 'Review overdue', '审阅逾期') : L(lang, 'Semakan seterusnya', 'Next review', '下次审阅');
+    const label = overdue
+      ? L(lang, 'Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமாகிவிட்டது', 'レビュー期限超過', '검토 기한 초과', 'เกินกำหนดตรวจทาน', 'Quá hạn duyệt')
+      : L(lang, 'Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு', '次回レビュー', '다음 검토', 'การตรวจทานครั้งถัดไป', 'Lần duyệt tiếp theo');
     chipDefs.push([`${label}: ${fmtDate(a.reviewDue, lang)}`,
       overdue ? '#f87171' : '#9A9AB8', overdue ? 'rgba(248,113,113,.5)' : 'rgba(99,99,108,.9)', overdue ? 'rgba(248,113,113,.12)' : '#141419']);
   }
@@ -215,7 +251,7 @@ function articleSvg(a) {
   <text x="76" y="${sStart}" font-family="${BODY_FONT}" font-size="25" fill="#9A9AB8">${sSpans}</text>
   ${badge(RX, 70, 78)}
   <text x="${RX}" y="150" text-anchor="middle" font-family="${TITLE_FONT}" font-size="27" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
-  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Malaysia Mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚')}</text>
+  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚', 'AI-நட்பு மலேசியா', 'AIフレンドリーなマレーシア', 'AI 친화적인 말레이시아', 'มาเลเซียที่เป็นมิตรกับ AI', 'Malaysia thân thiện với AI')}</text>
 </svg>`;
 }
 
