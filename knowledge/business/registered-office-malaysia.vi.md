@@ -66,12 +66,12 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "Đạo luật Công ty 2016 (Act 777), tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Perdagangan Pengedaran (Distributive Trade)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Thương mại Phân phối (Distributive Trade) (Perdagangan Pengedaran (Distributive Trade))"
     url: "https://www.kpdn.gov.my/ms/orang-awam/14-perdagangan/perniagaan/perdagangan-pengedaran"
-    publisher: "KPDN"
+    publisher: "Bộ Thương mại Nội địa và Chi phí Sinh hoạt (KPDN)"
 
 entity: "Registered office (Malaysia)"
 relations:

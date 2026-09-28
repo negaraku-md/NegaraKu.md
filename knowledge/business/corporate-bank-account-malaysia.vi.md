@@ -60,21 +60,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Anti-Money Laundering, Countering Financing of Terrorism, Countering Proliferation Financing and Targeted Financial Sanctions for Financial Institutions (BNM/RH/PD 030-14)"
+  - title: "Phòng chống Rửa tiền, Chống Tài trợ Khủng bố, Chống Tài trợ Phổ biến vũ khí và Trừng phạt Tài chính có Mục tiêu đối với các Tổ chức Tài chính (BNM/RH/PD 030-14) (Anti-Money Laundering, Countering Financing of Terrorism, Countering Proliferation Financing and Targeted Financial Sanctions for Financial Institutions (BNM/RH/PD 030-14))"
     url: "https://www.bnm.gov.my/documents/20124/938039/pd-AMLCFTCPF-TFS-FI-Feb2024_+2.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "Ngân hàng Trung ương Malaysia (BNM)"
     date: "2024-02-05"
-  - title: "Policy Document on AML/CFT/CPF and TFS for Financial Institutions — issuance notice"
+  - title: "Tài liệu Chính sách về AML/CFT/CPF và TFS đối với các Tổ chức Tài chính — thông báo ban hành (Policy Document on AML/CFT/CPF and TFS for Financial Institutions — issuance notice)"
     url: "https://www.bnm.gov.my/-/pd-amlcftcpftfs-fi"
-    publisher: "Bank Negara Malaysia"
+    publisher: "Ngân hàng Trung ương Malaysia (BNM)"
     date: "2024-02-05"
-  - title: "Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025"
+  - title: "Thông báo Chính sách Ngoại hối (Hợp nhất), có hiệu lực 1 tháng 10 năm 2025 (Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025)"
     url: "https://www.bnm.gov.my/documents/20124/60360/Consolidated+Foreign+Exchange+Policy+Notices_2+Oct+2025_Update.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "Ngân hàng Trung ương Malaysia (BNM)"
     date: "2025-10-01"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "Đạo luật Công ty 2016 (Act 777), tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Corporate bank account opening in Malaysia"
 relations:

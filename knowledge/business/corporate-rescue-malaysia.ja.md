@@ -59,16 +59,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, Part III Division 8 and the Eighth Schedule"
+  - title: "2016年会社法 (Act 777)、2022年8月1日現在の再版、第III編第8部および第八附則 (Companies Act 2016 (Act 777), reprint as at 1 August 2022, Part III Division 8 and the Eighth Schedule)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies (Amendment) Act 2024 (Act A1701)"
+    publisher: "マレーシア企業委員会 (SSM)"
+  - title: "2024年会社(改正)法 (Act A1701) (Companies (Amendment) Act 2024 (Act A1701))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2024-02-02"
-  - title: "Frequently Asked Questions — Companies (Amendment) Act 2024 [Act A1701]"
+  - title: "よくある質問 — 2024年会社(改正)法 [Act A1701] (Frequently Asked Questions — Companies (Amendment) Act 2024 [Act A1701])"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/FAQ%20CA%20(Amendment)%202024.pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
 
 entity: "Corporate rescue mechanism"
 relations:

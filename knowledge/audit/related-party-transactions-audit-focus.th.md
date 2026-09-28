@@ -53,16 +53,16 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Bursa Malaysia Securities Berhad Main Market Listing Requirements, Chapter 10"
+  - title: "ข้อกำหนดการจดทะเบียนตลาดหลักของ Bursa Malaysia Securities Berhad, บทที่ 10 (Bursa Malaysia Securities Berhad Main Market Listing Requirements, Chapter 10)"
     url: "https://www.investmalaysia.gov.my/media/3hmhc3sc/bursa-malaysia-listing-requirements.pdf"
     publisher: "Bursa Malaysia (via investmalaysia.gov.my government mirror); numbering also corroborated for the 31 Oct 2025 Chapter 10 extract"
-  - title: "International Standard on Auditing 550, Related Parties (2013 IAASB Handbook)"
+  - title: "มาตรฐานการสอบบัญชีระหว่างประเทศ 550, บุคคลหรือกิจการที่เกี่ยวข้องกัน (2013 IAASB Handbook) (International Standard on Auditing 550, Related Parties (2013 IAASB Handbook))"
     url: "https://www.ifac.org/_flysystem/azure-private/publications/files/A029%202013%20IAASB%20Handbook%20ISA%20550.pdf"
     publisher: "International Auditing and Assurance Standards Board (IAASB) / IFAC"
-  - title: "MFRS 124 Related Party Disclosures (MFRS Framework listing; issued 19 Nov 2011, effective 1 Jan 2012)"
+  - title: "MFRS 124 การเปิดเผยข้อมูลบุคคลหรือกิจการที่เกี่ยวข้องกัน (รายการกรอบ MFRS; ออก 19 พ.ย. 2011, มีผล 1 ม.ค. 2012) (MFRS 124 Related Party Disclosures (MFRS Framework listing; issued 19 Nov 2011, effective 1 Jan 2012))"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "Malaysian Accounting Standards Board (MASB)"
-  - title: "Main Market Listing Requirements, Chapter 10 (Transactions) — Related Party Transactions"
+    publisher: "คณะกรรมการมาตรฐานการบัญชีมาเลเซีย (MASB)"
+  - title: "ข้อกำหนดการจดทะเบียนตลาดหลัก, บทที่ 10 (ธุรกรรม) — ธุรกรรมกับบุคคลหรือกิจการที่เกี่ยวข้องกัน (Main Market Listing Requirements, Chapter 10 (Transactions) — Related Party Transactions)"
     url: "https://www.bursamalaysia.com/sites/5bb54be15f36ca0af339077a/content_entry5ce3b50239fba2627b2864be/5ce3b5c439fba264f32eb401/files/MAIN_Chap10_RPT_31Oct2025_.pdf"
     publisher: "Bursa Malaysia Securities Berhad"
 

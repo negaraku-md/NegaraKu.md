@@ -53,16 +53,16 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Bursa Malaysia Securities Berhad Main Market Listing Requirements, Chapter 10"
+  - title: "Bursa Malaysia Securities Berhad முதன்மைச் சந்தை பட்டியலிடல் தேவைகள், அத்தியாயம் 10 (Bursa Malaysia Securities Berhad Main Market Listing Requirements, Chapter 10)"
     url: "https://www.investmalaysia.gov.my/media/3hmhc3sc/bursa-malaysia-listing-requirements.pdf"
     publisher: "Bursa Malaysia (via investmalaysia.gov.my government mirror); numbering also corroborated for the 31 Oct 2025 Chapter 10 extract"
-  - title: "International Standard on Auditing 550, Related Parties (2013 IAASB Handbook)"
+  - title: "சர்வதேச தணிக்கை தரநிலை 550, தொடர்புடைய தரப்பினர் (2013 IAASB Handbook) (International Standard on Auditing 550, Related Parties (2013 IAASB Handbook))"
     url: "https://www.ifac.org/_flysystem/azure-private/publications/files/A029%202013%20IAASB%20Handbook%20ISA%20550.pdf"
     publisher: "International Auditing and Assurance Standards Board (IAASB) / IFAC"
-  - title: "MFRS 124 Related Party Disclosures (MFRS Framework listing; issued 19 Nov 2011, effective 1 Jan 2012)"
+  - title: "MFRS 124 தொடர்புடைய தரப்பினர் வெளிப்படுத்தல்கள் (MFRS கட்டமைப்பு பட்டியல்; 19 நவம்பர் 2011 அன்று வெளியிடப்பட்டது, 1 ஜனவரி 2012 முதல் நடைமுறை) (MFRS 124 Related Party Disclosures (MFRS Framework listing; issued 19 Nov 2011, effective 1 Jan 2012))"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "Malaysian Accounting Standards Board (MASB)"
-  - title: "Main Market Listing Requirements, Chapter 10 (Transactions) — Related Party Transactions"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
+  - title: "முதன்மைச் சந்தை பட்டியலிடல் தேவைகள், அத்தியாயம் 10 (பரிவர்த்தனைகள்) — தொடர்புடைய தரப்பினர் பரிவர்த்தனைகள் (Main Market Listing Requirements, Chapter 10 (Transactions) — Related Party Transactions)"
     url: "https://www.bursamalaysia.com/sites/5bb54be15f36ca0af339077a/content_entry5ce3b50239fba2627b2864be/5ce3b5c439fba264f32eb401/files/MAIN_Chap10_RPT_31Oct2025_.pdf"
     publisher: "Bursa Malaysia Securities Berhad"
 

@@ -57,19 +57,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Arbitration Act 2005 (Act 646), reprint as at 1 November 2018"
+  - title: "Arbitration Act 2005 (Act 646), bản in lại tính đến ngày 1 tháng 11 năm 2018 (Arbitration Act 2005 (Act 646), reprint as at 1 November 2018)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1700445_BI/Act%20646%20%28REPRINT%202018%29.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "AIAC Arbitration Rules 2026"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
+  - title: "Quy tắc Trọng tài AIAC 2026 (AIAC Arbitration Rules 2026)"
     url: "https://admin.aiac.world/uploads/ckupload/ckupload_20251229031919_71.pdf"
     publisher: "Asian International Arbitration Centre"
     date: "2026-01-01"
-  - title: "AIAC — Arbitration"
+  - title: "AIAC — Trọng tài (AIAC — Arbitration)"
     url: "https://www.aiac.world/Arbitration-Arbitration"
     publisher: "Asian International Arbitration Centre"
-  - title: "Limitation Act 1953 (Act 254), online version as at 1 September 2019"
+  - title: "Limitation Act 1953 (Act 254), phiên bản trực tuyến tính đến ngày 1 tháng 9 năm 2019 (Limitation Act 1953 (Act 254), online version as at 1 September 2019)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1727530_BI/ACT%20254-Online%20version%20as%20at%201%20Sept%202019%20%282%29.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
 
 entity: "Arbitration in Malaysia"
 relations:

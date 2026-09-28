@@ -49,15 +49,15 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Registration of Businesses Act 1956 (Act 197), reprint as at 1 June 2017 — sections 5, 5A, 5D, 5E, 12"
+  - title: "1956年商业登记法令 (Act 197),截至2017年6月1日重印本 — 第5、5A、5D、5E、12条 (Registration of Businesses Act 1956 (Act 197), reprint as at 1 June 2017 — sections 5, 5A, 5D, 5E, 12)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/ROBA%201956_Act%20197_as%20at%201%20June%202017.pdf"
-    publisher: "SSM"
-  - title: "Guideline for Termination of Business"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "终止营业指南 (Guideline for Termination of Business)"
     url: "https://www.ssm.com.my/Documents/Ezbiz%20Online%20User%20Guideline/GUIDELINE-FOR-TERMINATION-OF-BUSINESS.pdf"
-    publisher: "SSM"
-  - title: "Tax Clearance Letter (Surat Penyelesaian Cukai / SPC)"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "税务清缴信 (Tax Clearance Letter (Surat Penyelesaian Cukai / SPC))"
     url: "https://www.hasil.gov.my/en/individual/others/termination-of-service-employment/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+    publisher: "马来西亚内陆税收局 (LHDN)"
 
 entity: "Sole Proprietorship / Partnership (Malaysia)"
 relations:

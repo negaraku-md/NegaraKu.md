@@ -51,10 +51,10 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Guidelines on Company Limited by Guarantee (27 September 2021)"
+  - title: "Hướng dẫn về Công ty Trách nhiệm Hữu hạn theo Bảo lãnh (27 tháng 9 năm 2021) (Guidelines on Company Limited by Guarantee (27 September 2021))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/GUIDELINES-ON-COMPANY-LIMITED-BY-GUARANTEE-270921-Final.pdf"
-    publisher: "Companies Commission of Malaysia (SSM)"
-  - title: "Malaysia — Understanding Companies Limited by Guarantee: Legal Framework & Key Features"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Malaysia — Tìm hiểu về Công ty Trách nhiệm Hữu hạn theo Bảo lãnh: Khung pháp lý & Đặc điểm chính (Malaysia — Understanding Companies Limited by Guarantee: Legal Framework & Key Features)"
     url: "https://conventuslaw.com/report/malaysia-understanding-companies-limited-by-guarantee-legal-framework-key-features/"
     publisher: "Conventus Law"
 

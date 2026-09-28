@@ -67,12 +67,12 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "நிறுவனங்கள் சட்டம் 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Perdagangan Pengedaran (Distributive Trade)"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "விநியோக வர்த்தகம் (Distributive Trade) (Perdagangan Pengedaran (Distributive Trade))"
     url: "https://www.kpdn.gov.my/ms/orang-awam/14-perdagangan/perniagaan/perdagangan-pengedaran"
-    publisher: "KPDN"
+    publisher: "உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு (KPDN)"
 
 entity: "Registered office (Malaysia)"
 relations:

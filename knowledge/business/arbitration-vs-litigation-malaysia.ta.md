@@ -58,19 +58,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Arbitration Act 2005 (Act 646), reprint as at 1 November 2018"
+  - title: "Arbitration Act 2005 (Act 646), 1 நவம்பர் 2018 நிலவரப்படி மறுபதிப்பு (Arbitration Act 2005 (Act 646), reprint as at 1 November 2018)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1700445_BI/Act%20646%20%28REPRINT%202018%29.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "AIAC Arbitration Rules 2026"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம்"
+  - title: "AIAC நடுவர் விதிகள் 2026 (AIAC Arbitration Rules 2026)"
     url: "https://admin.aiac.world/uploads/ckupload/ckupload_20251229031919_71.pdf"
     publisher: "Asian International Arbitration Centre"
     date: "2026-01-01"
-  - title: "AIAC — Arbitration"
+  - title: "AIAC — நடுவர் தீர்ப்பு (AIAC — Arbitration)"
     url: "https://www.aiac.world/Arbitration-Arbitration"
     publisher: "Asian International Arbitration Centre"
-  - title: "Limitation Act 1953 (Act 254), online version as at 1 September 2019"
+  - title: "Limitation Act 1953 (Act 254), 1 செப்டம்பர் 2019 நிலவரப்படி ஆன்லைன் பதிப்பு (Limitation Act 1953 (Act 254), online version as at 1 September 2019)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1727530_BI/ACT%20254-Online%20version%20as%20at%201%20Sept%202019%20%282%29.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம்"
 
 entity: "Arbitration in Malaysia"
 relations:

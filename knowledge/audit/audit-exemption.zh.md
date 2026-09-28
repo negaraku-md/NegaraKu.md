@@ -53,16 +53,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+  - title: "实务指令第10/2024号 — 马来西亚特定私人公司审计豁免资格标准 (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2024-12-16"
-  - title: "Frequently Asked Questions — Audit Exemption"
+  - title: "常见问题 — 审计豁免 (Frequently Asked Questions — Audit Exemption)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/FAQ-AUDIT-EXEMPTION.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "Companies Act 2016 (Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 entity: "Audit exemption (private company)"
 relations:

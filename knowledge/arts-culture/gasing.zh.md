@@ -37,20 +37,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Permainan Tradisi"
+  - title: "传统游戏 (Permainan Tradisi)"
     url: "https://www.heritage.gov.my/en/pengenalan-cawangan-adat-budaya/permainan-tradisi.html"
-    publisher: "Jabatan Warisan Negara"
-  - title: "Pengisytiharan Warisan Kebangsaan 2009"
+    publisher: "国家遗产局"
+  - title: "2009年国家遗产宣布 (Pengisytiharan Warisan Kebangsaan 2009)"
     url: "https://www.heritage.gov.my/en/pengisytiharan-2009.html"
-    publisher: "Jabatan Warisan Negara"
+    publisher: "国家遗产局"
     date: "2009-02-14"
-  - title: "Gasing Pangkah Warisan Tradisional Masyarakat Melayu"
+  - title: "陀螺对打——马来社群的传统遗产 (Gasing Pangkah Warisan Tradisional Masyarakat Melayu)"
     url: "https://www.mkn.gov.my/web/ms/2026/02/04/gasing-pangkah-warisan-tradisional-masyarakat-melayu/"
-    publisher: "Majlis Keselamatan Negara"
+    publisher: "国家安全理事会"
     date: "2026-02-04"
-  - title: "Kuala Nerus Pertahan Seni Warisan Pembuatan Gasing Pangkah"
+  - title: "瓜拉尼鲁斯守护陀螺对打制作的遗产工艺 (Kuala Nerus Pertahan Seni Warisan Pembuatan Gasing Pangkah)"
     url: "https://trdi.my/index.php/kuala-nerus-pertahan-seni-warisan-pembuatan-gasing-pangkah"
-    publisher: "TRDI (Media Rasmi Negeri Terengganu)"
+    publisher: "TRDI（登嘉楼州官方媒体）"
 entity: "Gasing"
 relations:
   - { rel: "part-of", to: "malaysia" }

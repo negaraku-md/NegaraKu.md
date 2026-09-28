@@ -49,12 +49,12 @@ verificationNeeded:
   - "ย่อหน้า 'การประกอบวิชาชีพ' เป็นการสรุปทั่วไปเกี่ยวกับข้อกำหนดขององค์กรวิชาชีพ (เช่น MIA) และไม่ได้รับการสนับสนุนจากแหล่งข้อมูลตามกฎหมายใน sources[] ยืนยันหรือลบก่อนการเผยแพร่"
 updated: 2026-08-08
 sources:
-  - title: "Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia)"
+  - title: "Act 743 — Limited Liability Partnerships Act 2012 (กฎหมายแห่งมาเลเซีย) (Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia))"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ssm/Act%20743.pdf"
-    publisher: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN)"
-  - title: "Limited Liability Partnership (Booklet)"
+    publisher: "กระทรวงการค้าภายในประเทศและค่าครองชีพ (KPDN)"
+  - title: "ห้างหุ้นส่วนจำกัดความรับผิด (คู่มือ) (Limited Liability Partnership (Booklet))"
     url: "https://www.ssm.com.my/Pages/Publication/Booklet/document/LLP_bkengLS_update.PDF"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
 
 entity: "Perkongsian Liabiliti Terhad (PLT)"
 relations:

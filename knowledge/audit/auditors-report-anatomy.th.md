@@ -58,20 +58,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016"
+  - title: "AAPG 1 — รายงานของผู้สอบบัญชีต่องบการเงินที่จัดทำตามกรอบ MFRS และ Companies Act 2016 (AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_1-1.pdf"
-    publisher: "MIA"
+    publisher: "สถาบันนักบัญชีมาเลเซีย (MIA)"
     date: "2021-06-01"
-  - title: "AAPG 2 — Auditors report on financial statements prepared in accordance with MPERS and Companies Act 2016"
+  - title: "AAPG 2 — รายงานของผู้สอบบัญชีต่องบการเงินที่จัดทำตาม MPERS และ Companies Act 2016 (AAPG 2 — Auditors report on financial statements prepared in accordance with MPERS and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_2.pdf"
-    publisher: "MIA"
+    publisher: "สถาบันนักบัญชีมาเลเซีย (MIA)"
     date: "2021-06-01"
-  - title: "ISA 700 (Revised), Forming an Opinion and Reporting on Financial Statements"
+  - title: "ISA 700 (ฉบับปรับปรุง), การแสดงความเห็นและการรายงานต่องบการเงิน (ISA 700 (Revised), Forming an Opinion and Reporting on Financial Statements)"
     url: "https://mia.org.my/wp-content/uploads/2022/04/MIA_ISA_700_Revised-2.pdf"
-    publisher: "MIA"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    publisher: "สถาบันนักบัญชีมาเลเซีย (MIA)"
+  - title: "Companies Act 2016 (Act 777), ฉบับพิมพ์ซ้ำ ณ วันที่ 1 สิงหาคม 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2022-08-01"
 
 entity: "Independent auditors report"

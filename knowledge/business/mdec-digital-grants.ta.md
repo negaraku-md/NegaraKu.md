@@ -47,15 +47,15 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Malaysia Digital Catalyst Grant (MDCG)"
+  - title: "மலேசியா டிஜிட்டல் ஊக்கி மானியம் (MDCG) (Malaysia Digital Catalyst Grant (MDCG))"
     url: "https://www.mdec.my/grants/mdcg"
-    publisher: "MDEC"
-  - title: "Malaysia Digital X-Port Grant (MDXG)"
+    publisher: "மலேசியா டிஜிட்டல் பொருளாதாரக் கழகம் (MDEC)"
+  - title: "மலேசியா டிஜிட்டல் எக்ஸ்-போர்ட் மானியம் (MDXG) (Malaysia Digital X-Port Grant (MDXG))"
     url: "https://www.mdec.my/grants/mdxg"
-    publisher: "MDEC"
-  - title: "MDEC Opens Application for 2024 Digital Grants"
+    publisher: "மலேசியா டிஜிட்டல் பொருளாதாரக் கழகம் (MDEC)"
+  - title: "2024 டிஜிட்டல் மானியங்களுக்கான விண்ணப்பத்தை MDEC திறக்கிறது (MDEC Opens Application for 2024 Digital Grants)"
     url: "https://www.mdec.my/media-release/news-press-release/339/mdec-opens-application-for-2024-digital-grants"
-    publisher: "MDEC"
+    publisher: "மலேசியா டிஜிட்டல் பொருளாதாரக் கழகம் (MDEC)"
 
 entity: "MDEC digital-economy grants"
 relations:

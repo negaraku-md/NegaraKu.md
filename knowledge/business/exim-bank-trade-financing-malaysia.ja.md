@@ -52,18 +52,18 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "About EXIM Bank"
+  - title: "EXIM Bankについて (About EXIM Bank)"
     url: "https://www.exim.com.my/about-us/about-exim-bank/"
     publisher: "Export-Import Bank of Malaysia Berhad"
-  - title: "Trade Credit Takaful / Insurance"
+  - title: "貿易信用タカフル / 保険 (Trade Credit Takaful / Insurance)"
     url: "https://www.exim.com.my/products-services/trade-credit-takaful-insurance/"
     publisher: "Export-Import Bank of Malaysia Berhad"
-  - title: "Export Credit Refinancing"
+  - title: "輸出信用リファイナンス (Export Credit Refinancing)"
     url: "https://www.exim.com.my/products-services/export-credit-refinancing/"
     publisher: "Export-Import Bank of Malaysia Berhad"
-  - title: "Export-Import Bank of Malaysia Berhad (EXIM Bank) — Financial Sector Participants Directory"
+  - title: "Export-Import Bank of Malaysia Berhad (EXIM Bank) — 金融セクター参加者名簿 (Export-Import Bank of Malaysia Berhad (EXIM Bank) — Financial Sector Participants Directory)"
     url: "https://www.bnm.gov.my/-/export-import-bank-of-malaysia-berhad-exim-bank"
-    publisher: "Bank Negara Malaysia"
+    publisher: "マレーシア国立銀行"
 
 entity: "Export-Import Bank of Malaysia Berhad"
 wikidata: "Q113537372"

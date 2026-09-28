@@ -54,15 +54,15 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "ISA 570 (Revised), Going Concern"
+  - title: "ISA 570 (திருத்தப்பட்டது), தொடர்நிலை நிறுவனம் (ISA 570 (Revised), Going Concern)"
     url: "https://mia.org.my/box/2022/04/ISA_570_Revised.pdf"
-    publisher: "MIA"
-  - title: "ISA 580, Written Representations"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
+  - title: "ISA 580, எழுத்துப்பூர்வ உறுதிமொழிகள் (ISA 580, Written Representations)"
     url: "https://mia.org.my/box/2022/04/ISA_580.pdf"
-    publisher: "MIA"
-  - title: "AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
+  - title: "AAPG 1 — MFRS கட்டமைப்பு மற்றும் Companies Act 2016 இன்படி தயாரிக்கப்பட்ட நிதி அறிக்கைகள் மீதான தணிக்கையாளர் அறிக்கை (AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_1-1.pdf"
-    publisher: "MIA"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
     date: "2021-06-01"
 
 entity: "Going concern assessment"

@@ -59,17 +59,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 1 ஆகஸ்ட் 2022 நிலவரப்படி மறுபதிப்பு (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024"
+  - title: "மலேசிய கணக்காளர்கள் நிறுவனத்தின் (தொழில்முறை நெறிமுறைகள், நடத்தை மற்றும் நடைமுறை குறித்த) துணை விதிகள், 5 நவம்பர் 2024 அன்று புதுப்பிக்கப்பட்டது (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024)"
     url: "https://mia.org.my/wp-content/uploads/2024/11/By-Laws-updated-Nov-2024-%E2%80%93-Effective-15-December-2024.pdf"
-    publisher: "MIA"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
     date: "2024-11-05"
-  - title: "Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties"
+  - title: "நடைமுறை உத்தரவு எண். 1/2017 (1 அக்டோபர் 2024 திருத்தப்பட்டது) — தாமதமாக தாக்கல் செய்தமைக்கான அபராதங்கள் (Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-10-01"
 
 entity: "Removal and resignation of a company auditor"

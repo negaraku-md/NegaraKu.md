@@ -75,18 +75,18 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "Đạo luật Công ty 2016 (Act 777), tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Biểu phí — Đăng ký công ty (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
-  - title: "FAQs on the Companies Act 2016 and Transitional Issues — Part B, Constitution"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Câu hỏi thường gặp về Đạo luật Công ty 2016 và các Vấn đề chuyển tiếp — Phần B, Điều lệ công ty (FAQs on the Companies Act 2016 and Transitional Issues — Part B, Constitution)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20B.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Đạo luật Công ty 2016 — khung pháp lý (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Company constitution (Malaysia)"
 relations:

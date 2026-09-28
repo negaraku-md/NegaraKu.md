@@ -45,14 +45,14 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "Akta Cukai Pendapatan 1967 (Act 53), cetakan semula pada 21 Mei 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2024-05-21"
-  - title: "Finance Act 2024 (Act 862)"
+  - title: "Akta Kewangan 2024 (Act 862) (Finance Act 2024 (Act 862))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2592589_BI/Act%20862%20-FINANCE%20ACT%202024.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025"
+    publisher: "Jabatan Peguam Negara"
+  - title: "Notis Dasar Pertukaran Asing (Disatukan), berkuat kuasa 1 Oktober 2025 (Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025)"
     url: "https://www.bnm.gov.my/documents/20124/60360/Consolidated+Foreign+Exchange+Policy+Notices_2+Oct+2025_Update.pdf"
     publisher: "Bank Negara Malaysia"
     date: "2025-10-01"

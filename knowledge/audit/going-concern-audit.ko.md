@@ -54,15 +54,15 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "ISA 570 (Revised), Going Concern"
+  - title: "ISA 570 (개정), 계속기업 (ISA 570 (Revised), Going Concern)"
     url: "https://mia.org.my/box/2022/04/ISA_570_Revised.pdf"
-    publisher: "MIA"
-  - title: "ISA 580, Written Representations"
+    publisher: "말레이시아 회계사협회 (MIA)"
+  - title: "ISA 580, 서면 진술 (ISA 580, Written Representations)"
     url: "https://mia.org.my/box/2022/04/ISA_580.pdf"
-    publisher: "MIA"
-  - title: "AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016"
+    publisher: "말레이시아 회계사협회 (MIA)"
+  - title: "AAPG 1 — MFRS 프레임워크 및 Companies Act 2016에 따라 작성된 재무제표에 대한 감사인 보고서 (AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_1-1.pdf"
-    publisher: "MIA"
+    publisher: "말레이시아 회계사협회 (MIA)"
     date: "2021-06-01"
 
 entity: "계속기업 평가"

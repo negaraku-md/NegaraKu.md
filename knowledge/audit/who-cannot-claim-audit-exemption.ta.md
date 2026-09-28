@@ -35,16 +35,16 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+  - title: "நடைமுறை உத்தரவு எண். 10/2024 — மலேசியாவில் சில தனியார் நிறுவனங்களுக்கான தணிக்கை விலக்கு தகுதி அளவுகோல்கள் (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-12-16"
-  - title: "FAQs on Companies Act 2016 and Transitional Issues — Part Q, Audit Exemption"
+  - title: "Companies Act 2016 மற்றும் இடைநிலைப் பிரச்சினைகள் குறித்த அடிக்கடி கேட்கப்படும் கேள்விகள் — பகுதி Q, தணிக்கை விலக்கு (FAQs on Companies Act 2016 and Transitional Issues — Part Q, Audit Exemption)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/FAQ-AUDIT-EXEMPTION.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "Companies Act 2016 (Act 777), 1 ஆகஸ்ட் 2022 நிலவரப்படி மறுபதிப்பு (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Audit exemption exclusions"
 relations:

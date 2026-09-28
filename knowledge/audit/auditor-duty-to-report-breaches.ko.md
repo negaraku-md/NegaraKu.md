@@ -50,13 +50,13 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Companies Act 2016 (Act 777) — Section 266, Powers and duties of auditors (teks statut rasmi, cetakan semula 1.8.2022)"
+  - title: "Companies Act 2016 (Act 777) — 제266조, 감사인의 권한과 의무 (공식 법령 본문, 2022년 8월 1일 재인쇄) (Companies Act 2016 (Act 777) — Section 266, Powers and duties of auditors (teks statut rasmi, cetakan semula 1.8.2022))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Laws of Malaysia — Act 777, Companies Act 2016 (online updated text of reprint, 1.8.2022)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "말레이시아 법률 — Act 777, Companies Act 2016 (재인쇄본 온라인 업데이트 본문, 2022년 8월 1일) (Laws of Malaysia — Act 777, Companies Act 2016 (online updated text of reprint, 1.8.2022))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
-    publisher: "Attorney General's Chambers of Malaysia (AGC), Federal Legislation Portal"
-  - title: "Duties and Responsibilities of Auditors in relation to the Company's Financial Statements and Accounting Records"
+    publisher: "말레이시아 법무장관실 (AGC), 연방 입법 포털"
+  - title: "회사의 재무제표 및 회계기록과 관련한 감사인의 직무와 책임 (Duties and Responsibilities of Auditors in relation to the Company's Financial Statements and Accounting Records)"
     url: "https://www.thomasphilip.com.my/articles/duties-and-responsibilities-of-auditors-in-relation-to-the-companyrs-financial-statements-and-accounting-records/"
     publisher: "Thomas Philip Advocates and Solicitors"
 

@@ -74,16 +74,16 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+  - title: "实务指令第10/2024号 — 马来西亚特定私人公司审计豁免资格标准 (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2024-12-16"
-  - title: "FAQs on Companies Act 2016 and Transitional Issues — Part Q, Audit Exemption"
+  - title: "关于 Companies Act 2016 及过渡事项的常见问题 — 第Q部分，审计豁免 (FAQs on Companies Act 2016 and Transitional Issues — Part Q, Audit Exemption)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/FAQ-AUDIT-EXEMPTION.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "Companies Act 2016 (Act 777)，2022年8月1日重印本 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 entity: "Audit exemption thresholds (Practice Directive 10/2024)"
 relations:

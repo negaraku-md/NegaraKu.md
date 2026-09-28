@@ -56,20 +56,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "Akta Syarikat 2016 (Act 777), setakat 1 Ogos 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines on Company Names"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Garis Panduan Nama Syarikat (Guidelines on Company Names)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines-on-Company-Names.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2022-12-06"
-  - title: "Companies Regulations 2017, P.U. (A) 37 — Schedule of Fees"
+  - title: "Peraturan-Peraturan Syarikat 2017, P.U. (A) 37 — Jadual Fi (Companies Regulations 2017, P.U. (A) 37 — Schedule of Fees)"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/table-of-fees/lampiran_2-table_of_feese.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2017-01-26"
-  - title: "Guidelines for the Incorporation of Local Companies"
+  - title: "Garis Panduan Pemerbadanan Syarikat Tempatan (Guidelines for the Incorporation of Local Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/GUIDELINES/4.-Guidelines-For-Incorporation-Of-A-Local-Company.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "Company name availability and reservation (Malaysia)"
 relations:

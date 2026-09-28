@@ -85,22 +85,22 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Table of Fees — Registration of Company (ROC), Companies Regulations 2017 (P.U.(A) 37)"
+  - title: "수수료표 — 회사 등록 (ROC), 2017년 회사규칙 (P.U.(A) 37) (Table of Fees — Registration of Company (ROC), Companies Regulations 2017 (P.U.(A) 37))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일 기준 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "대표사무소 (RE) / 지역사무소 (RO) 설립 지침 (Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO))"
     url: "https://www.mida.gov.my/wp-content/uploads/2023/05/RERO-GUIDELINE_17.05.23.pdf"
-    publisher: "MIDA"
+    publisher: "말레이시아 투자개발청 (MIDA)"
     date: "2023-03-24"
-  - title: "PD 10/2024 — Qualifying Criteria for Audit Exemption for Certain Categories of Private Companies"
+  - title: "PD 10/2024 — 특정 범주 비공개회사에 대한 감사 면제 자격 기준 (PD 10/2024 — Qualifying Criteria for Audit Exemption for Certain Categories of Private Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
-  - title: "Regional Representative Office"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "지역 대표사무소 (Regional Representative Office)"
     url: "https://www.mida.gov.my/industries/services/regional-establishment/regional-representative-office/"
-    publisher: "MIDA"
+    publisher: "말레이시아 투자개발청 (MIDA)"
 
 entity: "Foreign company presence in Malaysia"
 relations:

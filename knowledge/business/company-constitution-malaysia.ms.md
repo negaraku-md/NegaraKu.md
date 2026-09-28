@@ -76,18 +76,18 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "Akta Syarikat 2016 (Act 777), setakat 1 Ogos 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Jadual Fi — Pendaftaran Syarikat (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
-  - title: "FAQs on the Companies Act 2016 and Transitional Issues — Part B, Constitution"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Soalan Lazim mengenai Akta Syarikat 2016 dan Isu Peralihan — Bahagian B, Perlembagaan (FAQs on the Companies Act 2016 and Transitional Issues — Part B, Constitution)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20B.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Akta Syarikat 2016 — rangka kerja perundangan (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "Company constitution (Malaysia)"
 relations:

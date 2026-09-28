@@ -51,19 +51,19 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Teks Khutbah Aidilfitri 1447H"
+  - title: "아이딜피트리 설교문 1447H (Teks Khutbah Aidilfitri 1447H)"
     url: "https://www.islam.gov.my/images/eKhutbah/2026/KHUTBAH%20AIDILFITRI%201447H.pdf"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+    publisher: "말레이시아 이슬람개발부 (JAKIM)"
     date: "2026-01-01"
-  - title: "Kit Panduan Hari Raya Di Rumah"
+  - title: "집에서 즐기는 하리 라야 안내 키트 (Kit Panduan Hari Raya Di Rumah)"
     url: "https://www.islam.gov.my/images/ePenerbitan/Kit-Panduan-Hari-Raya-Di-Rumah.pdf"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
-  - title: "Memahami Aidilfitri: Kemeriahan Perayaan Hari Raya"
+    publisher: "말레이시아 이슬람개발부 (JAKIM)"
+  - title: "아이딜피트리 이해하기: 하리 라야 축제의 흥겨움 (Memahami Aidilfitri: Kemeriahan Perayaan Hari Raya)"
     url: "https://library.sabah.gov.my/index.php/ms/pautan/paparan-artikel/memahami-aidilfitri-kemeriahan-perayaan-hari-raya"
-    publisher: "Perpustakaan Negeri Sabah"
-  - title: "Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026"
+    publisher: "사바 주립도서관"
+  - title: "2026년 연방 및 주 공휴일 일정표 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026)"
     url: "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
-    publisher: "Bahagian Kabinet, Perlembagaan dan Perhubungan Antara Kerajaan, Jabatan Perdana Menteri"
+    publisher: "내각·헌법·정부간관계국, 총리실"
     date: "2025-08-01"
 
 entity: "Hari Raya Aidilfitri"

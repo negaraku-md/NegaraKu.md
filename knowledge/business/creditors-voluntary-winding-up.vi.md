@@ -69,12 +69,12 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.439–463, 527–540"
+  - title: "Đạo luật Công ty 2016 (Act 777), bản in lại tính đến ngày 1 tháng 8 năm 2022, các điều 439–463, 527–540 (Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.439–463, 527–540)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies (Amendment) Act 2024 (Act A1701), s.22 — amendment of paragraph 536(2)(a)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Đạo luật Công ty (Sửa đổi) 2024 (Act A1701), điều 22 — sửa đổi khoản 536(2)(a) (Companies (Amendment) Act 2024 (Act A1701), s.22 — amendment of paragraph 536(2)(a))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2024-02-02"
 
 entity: "Creditors' voluntary winding up"

@@ -59,20 +59,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 2022년 8월 1일 기준 재인쇄본 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016"
+  - title: "AAPG 1 — MFRS 프레임워크 및 Companies Act 2016에 따라 작성된 재무제표에 대한 감사인 보고서 (AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_1-1.pdf"
-    publisher: "MIA"
+    publisher: "말레이시아 회계사협회 (MIA)"
     date: "2021-06-01"
-  - title: "Malaysian Accounting Standards Board — approved accounting standards"
+  - title: "말레이시아 회계기준위원회 — 승인된 회계기준 (Malaysian Accounting Standards Board — approved accounting standards)"
     url: "https://www.masb.org.my/pages.php?id=19"
-    publisher: "MASB"
-  - title: "ISA 580, Written Representations"
+    publisher: "말레이시아 회계기준위원회 (MASB)"
+  - title: "ISA 580, 서면 진술 (ISA 580, Written Representations)"
     url: "https://mia.org.my/box/2022/04/ISA_580.pdf"
-    publisher: "MIA"
+    publisher: "말레이시아 회계사협회 (MIA)"
 
 entity: "감사 요청 목록 (고객 작성)"
 relations:

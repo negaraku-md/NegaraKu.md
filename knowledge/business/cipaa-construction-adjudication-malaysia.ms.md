@@ -56,22 +56,22 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "CIPAA: Resolving Construction Payment Disputes Expeditiously"
+  - title: "CIPAA: Menyelesaikan Pertikaian Bayaran Pembinaan dengan Pantas (CIPAA: Resolving Construction Payment Disputes Expeditiously)"
     url: "https://thomasphilip.com.my/articles/cipaa-resolving-construction-payment-disputes-expeditiously/"
     publisher: "Thomas Philip Advocates and Solicitors"
-  - title: "Overview of Adjudication Process in Malaysia"
+  - title: "Gambaran Keseluruhan Proses Adjudikasi di Malaysia (Overview of Adjudication Process in Malaysia)"
     url: "https://www.kevinwuassociates.com/post/overview-of-adjudication-process-in-malaysia"
     publisher: "Kevin Wu & Associates"
-  - title: "Construction Industry Payment and Adjudication (Amendment) Act 2024"
+  - title: "Akta Pembayaran dan Adjudikasi Industri Pembinaan (Pindaan) 2024 (Construction Industry Payment and Adjudication (Amendment) Act 2024)"
     url: "https://www.zulrafique.com.my/article-sample.php?id=2387"
     publisher: "Zul Rafique & Partners"
-  - title: "The Arbitration (Amendment) Bill 2024 and CIPAA (Amendment) Bill 2024: Reshaping Malaysia's ADR Landscape"
+  - title: "Rang Undang-Undang Timbang Tara (Pindaan) 2024 dan Rang Undang-Undang CIPAA (Pindaan) 2024: Membentuk Semula Landskap ADR Malaysia (The Arbitration (Amendment) Bill 2024 and CIPAA (Amendment) Bill 2024: Reshaping Malaysia's ADR Landscape)"
     url: "https://tsl-legal.com/the-arbitration-amendment-bill-2024-and-cipaa-amendment-bill-2024-reshaping-malaysias-adr-landscape/"
     publisher: "TSL Legal"
-  - title: "CIPAA Amendments Malaysia 2026"
+  - title: "Pindaan CIPAA Malaysia 2026 (CIPAA Amendments Malaysia 2026)"
     url: "https://globallawexperts.com/cipaa-amendments-malaysia-2026/"
     publisher: "Global Law Experts"
-  - title: "Construction Industry Payment and Adjudication Act changes to boost transparency, confidence"
+  - title: "Perubahan Akta Pembayaran dan Adjudikasi Industri Pembinaan untuk meningkatkan ketelusan dan keyakinan (Construction Industry Payment and Adjudication Act changes to boost transparency, confidence)"
     url: "https://dayakdaily.com/construction-industry-payment-and-adjudication-act-changes-to-boost-transparency-confidence/"
     publisher: "DayakDaily"
 

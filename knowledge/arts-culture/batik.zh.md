@@ -46,13 +46,13 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Perbadanan Kemajuan Kraftangan Malaysia (Malaysian Handicraft Development Corporation)"
+  - title: "马来西亚手工艺品发展机构（Malaysian Handicraft Development Corporation） (Perbadanan Kemajuan Kraftangan Malaysia (Malaysian Handicraft Development Corporation))"
     url: "https://www.kraftangan.gov.my/"
-    publisher: "Kraftangan Malaysia"
-  - title: "Jabatan Muzium Malaysia (Department of Museums Malaysia)"
+    publisher: "马来西亚手工艺品发展机构"
+  - title: "马来西亚博物馆局（Department of Museums Malaysia） (Jabatan Muzium Malaysia (Department of Museums Malaysia))"
     url: "https://www.jmm.gov.my/"
-    publisher: "Jabatan Muzium Malaysia"
-  - title: "Indonesian Batik — Representative List of the Intangible Cultural Heritage of Humanity, 2009"
+    publisher: "马来西亚博物馆局"
+  - title: "印度尼西亚巴迪 — 人类非物质文化遗产代表作名录，2009 (Indonesian Batik — Representative List of the Intangible Cultural Heritage of Humanity, 2009)"
     url: "https://ich.unesco.org/en/RL/indonesian-batik-00170"
     publisher: "UNESCO"
     date: "2009-01-01"

@@ -44,16 +44,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "Đạo luật Thuế Thu nhập 1967 (Act 53), bản in lại tính đến ngày 21 tháng 5 năm 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2024-05-21"
-  - title: "Finance Act 2024 (Act 862)"
+  - title: "Đạo luật Tài chính 2024 (Act 862) (Finance Act 2024 (Act 862))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2592589_BI/Act%20862%20-FINANCE%20ACT%202024.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025"
+    publisher: "Văn phòng Tổng Chưởng lý"
+  - title: "Thông báo Chính sách Ngoại hối (Hợp nhất), có hiệu lực 1 tháng 10 năm 2025 (Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025)"
     url: "https://www.bnm.gov.my/documents/20124/60360/Consolidated+Foreign+Exchange+Policy+Notices_2+Oct+2025_Update.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "Ngân hàng Trung ương Malaysia"
     date: "2025-10-01"
 
 entity: "Profit and dividend repatriation from Malaysia"

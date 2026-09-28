@@ -55,15 +55,15 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO) (As at 24 March 2023)"
+  - title: "Hướng dẫn Thành lập Văn phòng Đại diện (RE) / Văn phòng Khu vực (RO) (Tính đến ngày 24 tháng 3 năm 2023) (Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO) (As at 24 March 2023))"
     url: "https://www.mida.gov.my/wp-content/uploads/2023/05/RERO-GUIDELINE_17.05.23.pdf"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Regional Representative Office"
+    publisher: "Cơ quan Phát triển Đầu tư Malaysia (MIDA)"
+  - title: "Văn phòng Đại diện Khu vực (Regional Representative Office)"
     url: "https://www.mida.gov.my/industries/services/regional-establishment/regional-representative-office/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Setting Up Regional Operations"
+    publisher: "Cơ quan Phát triển Đầu tư Malaysia (MIDA)"
+  - title: "Thiết lập Hoạt động Khu vực (Setting Up Regional Operations)"
     url: "https://www.mida.gov.my/setting-up-content/setting-up-regional-operations/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
+    publisher: "Cơ quan Phát triển Đầu tư Malaysia (MIDA)"
 
 entity: "Representative Office / Regional Office (RE/RO)"
 relations:

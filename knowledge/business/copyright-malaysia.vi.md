@@ -57,18 +57,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Copyright Act 1987 (Act 332)"
+  - title: "Đạo luật Bản quyền 1987 (Act 332) (Copyright Act 1987 (Act 332))"
     url: "https://www.myipo.gov.my/wp-content/uploads/2025/09/Copyright-Act-1987-Act-332.pdf"
-    publisher: "MyIPO"
-  - title: "Notifying Copyright — forms and fees"
+    publisher: "Tổng công ty Sở hữu Trí tuệ Malaysia (MyIPO)"
+  - title: "Thông báo Bản quyền — biểu mẫu và lệ phí (Notifying Copyright — forms and fees)"
     url: "https://www.myipo.gov.my/notifying-copyright/"
-    publisher: "MyIPO"
-  - title: "Copyright Basic — criteria, duration and rights"
+    publisher: "Tổng công ty Sở hữu Trí tuệ Malaysia (MyIPO)"
+  - title: "Cơ bản về Bản quyền — tiêu chí, thời hạn và quyền (Copyright Basic — criteria, duration and rights)"
     url: "https://www.myipo.gov.my/copyright-basic/"
-    publisher: "MyIPO"
-  - title: "Copyright (Reduction of Fee) Regulations 2025, P.U. (A) 130/2025"
+    publisher: "Tổng công ty Sở hữu Trí tuệ Malaysia (MyIPO)"
+  - title: "Quy định Bản quyền (Giảm phí) 2025, P.U. (A) 130/2025 (Copyright (Reduction of Fee) Regulations 2025, P.U. (A) 130/2025)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2831290/P.U.%20(A)%20130_2025.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Văn phòng Tổng Chưởng lý (AGC)"
     date: "2025-04-23"
 
 entity: "Copyright in Malaysia"

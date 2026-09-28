@@ -82,16 +82,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.432–463"
+  - title: "நிறுவனங்கள் சட்டம் 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி மறுபதிப்பு, பிரிவுகள் 432–463 (Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.432–463)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies (Amendment) Act 2024 (Act A1701), s.21 — amendment of section 433"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "நிறுவனங்கள் (திருத்தம்) சட்டம் 2024 (Act A1701), பிரிவு 21 — பிரிவு 433 திருத்தம் (Companies (Amendment) Act 2024 (Act A1701), s.21 — amendment of section 433)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-02-02"
-  - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016"
+  - title: "நிறுவனங்கள் சட்டம் 2016 இன் பிரிவு 550 இன் கீழ் ஒரு நிறுவனத்தின் பெயரை நீக்குவதற்கு இயக்குநர்கள் அல்லது உறுப்பினர்களின் விண்ணப்பத்திற்கான வழிகாட்டி நெறிமுறைகள் (Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20_Section%20549_190419.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2019-04-19"
 
 entity: "Members' voluntary winding up"

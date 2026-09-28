@@ -35,16 +35,16 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+  - title: "実務指令第10/2024号 — マレーシアの特定の非公開会社に対する監査免除の適格基準 (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2024-12-16"
-  - title: "FAQs on Companies Act 2016 and Transitional Issues — Part Q, Audit Exemption"
+  - title: "Companies Act 2016 および経過措置に関するFAQ — パートQ、監査免除 (FAQs on Companies Act 2016 and Transitional Issues — Part Q, Audit Exemption)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/FAQ-AUDIT-EXEMPTION.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    publisher: "マレーシア企業委員会 (SSM)"
+  - title: "Companies Act 2016 (Act 777)、2022年8月1日現在の再版 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
 
 entity: "Audit exemption exclusions"
 relations:

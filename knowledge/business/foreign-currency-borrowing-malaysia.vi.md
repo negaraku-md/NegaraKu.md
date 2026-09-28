@@ -45,17 +45,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Notice 2 — Borrowing, Lending and Guarantee"
+  - title: "Thông báo 2 — Vay, Cho vay và Bảo lãnh (Notice 2 — Borrowing, Lending and Guarantee)"
     url: "https://www.bnm.gov.my/documents/20124/60360/Notice+2_Borrowing%2C+Lending+and+Guarantee_2+Oct+2025.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "Ngân hàng Trung ương Malaysia"
     date: "2025-10-01"
-  - title: "Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025"
+  - title: "Thông báo Chính sách Ngoại hối (Hợp nhất), có hiệu lực 1 tháng 10 năm 2025 (Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025)"
     url: "https://www.bnm.gov.my/documents/20124/60360/Consolidated+Foreign+Exchange+Policy+Notices_2+Oct+2025_Update.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "Ngân hàng Trung ương Malaysia"
     date: "2025-10-01"
-  - title: "FAQs on Borrowing by Resident"
+  - title: "Câu hỏi Thường gặp về việc Vay vốn của Người cư trú (FAQs on Borrowing by Resident)"
     url: "https://www.bnm.gov.my/documents/20124/60360/FAQs_Resident+Ringgit+and+FC+Borrowing.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "Ngân hàng Trung ương Malaysia"
 
 entity: "Foreign currency borrowing by residents"
 relations:

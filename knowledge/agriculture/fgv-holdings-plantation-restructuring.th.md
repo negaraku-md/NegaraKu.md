@@ -55,22 +55,22 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "FGV Embarks on a New Chapter Following Delisting from Bursa Malaysia"
+  - title: "FGV เริ่มบทใหม่หลังเพิกถอนออกจากตลาดหลักทรัพย์ Bursa Malaysia (FGV Embarks on a New Chapter Following Delisting from Bursa Malaysia)"
     url: "https://www.fgvholdings.com/press_release/fgv-embarks-on-a-new-chapter-following-delisting-from-bursa-malaysia/"
     publisher: "FGV Holdings Berhad"
-  - title: "Company Overview"
+  - title: "ภาพรวมบริษัท (Company Overview)"
     url: "https://www.fgvholdings.com/about-fgv/company-overview/"
     publisher: "FGV Holdings Berhad"
-  - title: "FGV officially delisted from Bursa Malaysia"
+  - title: "FGV ถูกเพิกถอนออกจากตลาดหลักทรัพย์ Bursa Malaysia อย่างเป็นทางการ (FGV officially delisted from Bursa Malaysia)"
     url: "https://www.thestar.com.my/business/business-news/2025/08/29/fgv-officially-delisted-from-bursa-malaysia"
     publisher: "The Star"
-  - title: "FGV Delisting Gives Felda Greater Latitude To Focus On Settlers' Returns, Shareholder Value"
+  - title: "การเพิกถอน FGV เปิดโอกาสให้ Felda มุ่งเน้นผลตอบแทนของผู้ตั้งถิ่นฐานและมูลค่าผู้ถือหุ้นมากขึ้น (FGV Delisting Gives Felda Greater Latitude To Focus On Settlers' Returns, Shareholder Value)"
     url: "https://www.bernama.com/en/news.php?id=2461043"
     publisher: "Bernama"
-  - title: "FGV officially delisted from Bursa Malaysia — Felda"
+  - title: "FGV ถูกเพิกถอนออกจากตลาดหลักทรัพย์ Bursa Malaysia อย่างเป็นทางการ — Felda (FGV officially delisted from Bursa Malaysia — Felda)"
     url: "https://www.sinardaily.my/article/729831/focus/money/fgv-officially-delisted-from-bursa-malaysia---felda"
     publisher: "Sinar Daily"
-  - title: "Palm oil giant Felda soars in stock market debut"
+  - title: "ยักษ์ใหญ่ปาล์มน้ำมัน Felda พุ่งแรงในวันแรกที่เข้าตลาดหุ้น (Palm oil giant Felda soars in stock market debut)"
     url: "https://www.deseret.com/2012/6/28/20421354/palm-oil-giant-felda-soars-in-stock-market-debut/"
     publisher: "Deseret News / Associated Press"
 

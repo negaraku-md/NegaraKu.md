@@ -55,18 +55,18 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "CIP Spark and CIP Sprint"
+  - title: "CIP Spark dan CIP Sprint (CIP Spark and CIP Sprint)"
     url: "https://www.cradle.com.my/"
     publisher: "Cradle Fund Sdn Bhd (MOSTI)"
-  - title: "MDEC Grants (Malaysia Digital Catalyst Grant / Acceleration Grant)"
+  - title: "Geran MDEC (Geran Pemangkin Digital Malaysia / Geran Pemecutan) (MDEC Grants (Malaysia Digital Catalyst Grant / Acceleration Grant))"
     url: "https://www.mdec.my/grants"
-    publisher: "Malaysia Digital Economy Corporation (MDEC)"
-  - title: "Strategic Research Fund (SRF)"
+    publisher: "Perbadanan Ekonomi Digital Malaysia (MDEC)"
+  - title: "Dana Penyelidikan Strategik (SRF) (Strategic Research Fund (SRF))"
     url: "https://mranti.my/innovators/connect/srf"
-    publisher: "Malaysian Research Accelerator for Technology and Innovation (MRANTI)"
-  - title: "Market Development Grant (MDG)"
+    publisher: "Pemangkin Penyelidikan Malaysia untuk Teknologi dan Inovasi (MRANTI)"
+  - title: "Geran Pembangunan Pasaran (MDG) (Market Development Grant (MDG))"
     url: "https://www.matrade.gov.my/en/export-to-the-world/step-6-financial-assistance/market-development-grant-mdg"
-    publisher: "Malaysia External Trade Development Corporation (MATRADE)"
+    publisher: "Perbadanan Pembangunan Perdagangan Luar Malaysia (MATRADE)"
 
 entity: "Government Business Grants (Malaysia)"
 relations:

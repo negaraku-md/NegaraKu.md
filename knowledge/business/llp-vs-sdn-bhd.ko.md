@@ -76,22 +76,22 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Limited Liability Partnerships Act 2012 (Act 743)"
+  - title: "유한책임 파트너십법 2012 (Act 743) (Limited Liability Partnerships Act 2012 (Act 743))"
     url: "https://www.ssm.com.my/Pages/About_SSM/PDF/LLP%20ACT%202012%20-%20For%20Portal_new.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    publisher: "말레이시아 회사위원회 (SSM)"
+  - title: "회사법 2016 (Act 777), 2022년 8월 1일 기준 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "MyLLP brochure — fees and filing deadlines"
+    publisher: "말레이시아 회사위원회 (SSM)"
+  - title: "MyLLP 브로슈어 — 수수료 및 제출 기한 (MyLLP brochure — fees and filing deadlines)"
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/BROCHURE%20MYLLP.pdf"
-    publisher: "SSM"
-  - title: "Taxation of Limited Liability Partnership, Public Ruling No. 8/2022"
+    publisher: "말레이시아 회사위원회 (SSM)"
+  - title: "유한책임 파트너십의 과세, 공개 재정 제8/2022호 (Taxation of Limited Liability Partnership, Public Ruling No. 8/2022)"
     url: "https://www.hasil.gov.my/media/3wzlz0nl/pr_8_2022.pdf"
-    publisher: "LHDN"
+    publisher: "말레이시아 국내세입청 (LHDN)"
     date: "2022-12-23"
-  - title: "Legal Profession Act 1976 (Act 166)"
+  - title: "법조법 1976 (Act 166) (Legal Profession Act 1976 (Act 166))"
     url: "https://www.malaysianbar.org.my/cms/upload_files/document/Legal%20Profession%20Act%201976%20as%20at%201%20August%202018%20(English).from%20AGC%20website.pdf"
-    publisher: "Attorney General's Chambers, via the Malaysian Bar"
+    publisher: "법무장관실, the Malaysian Bar 를 통해"
 
 entity: "Limited liability partnership (Malaysia)"
 relations:

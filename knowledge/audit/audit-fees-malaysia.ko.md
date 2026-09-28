@@ -58,17 +58,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "RPG 7 (Revised) — A Guide to Charging for Professional Assurance Services (Withdrawn with effect from 1 June 2015)"
+  - title: "RPG 7 (개정) — 전문 인증 서비스 수임료 청구 안내서 (2015년 6월 1일부로 철회) (RPG 7 (Revised) — A Guide to Charging for Professional Assurance Services (Withdrawn with effect from 1 June 2015))"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_RPG_07_2010_REVISED.pdf"
-    publisher: "MIA"
+    publisher: "말레이시아 회계사협회 (MIA)"
     date: "2010-03-01"
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024"
+  - title: "말레이시아 회계사협회의 부칙 (직업윤리·행동·실무에 관한), 2024년 11월 5일 갱신 (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024)"
     url: "https://mia.org.my/wp-content/uploads/2024/11/By-Laws-updated-Nov-2024-%E2%80%93-Effective-15-December-2024.pdf"
-    publisher: "MIA"
+    publisher: "말레이시아 회계사협회 (MIA)"
     date: "2024-11-05"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 2022년 8월 1일 기준 재인쇄본 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
 
 entity: "법정 감사 수수료"

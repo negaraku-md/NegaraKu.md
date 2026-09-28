@@ -53,23 +53,23 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Kebaya: knowledge, skills, traditions and practices"
+  - title: "เกอบายา: ความรู้ ทักษะ ประเพณี และแนวปฏิบัติ (Kebaya: knowledge, skills, traditions and practices)"
     url: "https://ich.unesco.org/en/RL/kebaya-knowledge-skills-traditions-and-practices-02090"
     publisher: "UNESCO"
     date: "2024-12"
-  - title: "Decision of the Intergovernmental Committee: 19.COM 7.B.26 — Kebaya"
+  - title: "มติคณะกรรมการระหว่างรัฐบาล: 19.COM 7.B.26 — เกอบายา (Decision of the Intergovernmental Committee: 19.COM 7.B.26 — Kebaya)"
     url: "https://ich.unesco.org/en/decisions/19.COM/7.B.26"
     publisher: "UNESCO"
     date: "2024-12"
-  - title: "Pakaian Tradisional Johor"
+  - title: "เครื่องแต่งกายดั้งเดิมยะโฮร์ (Pakaian Tradisional Johor)"
     url: "https://royal.johor.my/pakaian-tradisional-johor/"
-    publisher: "Pejabat DYMM Sultan Johor (royal.johor.my)"
-  - title: "Baju Kurung: Busana Sepanjang Zaman — Koleksi Terpilih Jabatan Muzium Malaysia"
+    publisher: "สำนักงานสุลต่านยะโฮร์ (royal.johor.my)"
+  - title: "บาจูกูรุง: อาภรณ์ข้ามกาลเวลา — คอลเลกชันคัดสรรของกรมพิพิธภัณฑ์มาเลเซีย (Baju Kurung: Busana Sepanjang Zaman — Koleksi Terpilih Jabatan Muzium Malaysia)"
     url: "https://www.jmm.gov.my/en/content/baju-kurung-busana-sepanjang-zaman-koleksi-terpilih-jabatan-muzium-malaysi"
-    publisher: "Jabatan Muzium Malaysia"
-  - title: "Muzium Tekstil Negara"
+    publisher: "กรมพิพิธภัณฑ์มาเลเซีย"
+  - title: "พิพิธภัณฑ์สิ่งทอแห่งชาติ (Muzium Tekstil Negara)"
     url: "http://www.jmm.gov.my/en/museum/national-textile-museum"
-    publisher: "Jabatan Muzium Malaysia"
+    publisher: "กรมพิพิธภัณฑ์มาเลเซีย"
 entity: "Pakaian Tradisional Melayu"
 relations:
   - { rel: "part-of", to: "malaysia" }

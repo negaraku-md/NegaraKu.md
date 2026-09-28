@@ -50,12 +50,12 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Companies Act 2016 (Act 777), online updated text of reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), ตัวบทฉบับพิมพ์ซ้ำที่ปรับปรุงออนไลน์ ณ วันที่ 1 สิงหาคม 2022 (Companies Act 2016 (Act 777), online updated text of reprint as at 1 August 2022)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
-    publisher: "Attorney General's Chambers of Malaysia (AGC), Federal Legislation Portal"
-  - title: "Companies Act 2016 (Act 777), Part V Division 1 — Foreign Companies (incl. ss.263, 266, 574, 575 and 576)"
+    publisher: "สำนักงานอัยการสูงสุดมาเลเซีย (AGC), พอร์ทัลกฎหมายสหพันธรัฐ"
+  - title: "Companies Act 2016 (Act 777), ภาค V หมวด 1 — บริษัทต่างชาติ (รวมมาตรา 263, 266, 574, 575 และ 576) (Companies Act 2016 (Act 777), Part V Division 1 — Foreign Companies (incl. ss.263, 266, 574, 575 and 576))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Companies Commission of Malaysia (SSM)"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
 
 entity: "Companies Commission of Malaysia (SSM)"
 wikidata: "Q1121232"

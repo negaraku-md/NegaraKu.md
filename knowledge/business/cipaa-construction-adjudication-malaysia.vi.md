@@ -55,22 +55,22 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "CIPAA: Resolving Construction Payment Disputes Expeditiously"
+  - title: "CIPAA: Giải quyết nhanh chóng các tranh chấp thanh toán xây dựng (CIPAA: Resolving Construction Payment Disputes Expeditiously)"
     url: "https://thomasphilip.com.my/articles/cipaa-resolving-construction-payment-disputes-expeditiously/"
     publisher: "Thomas Philip Advocates and Solicitors"
-  - title: "Overview of Adjudication Process in Malaysia"
+  - title: "Tổng quan về Quy trình Phân xử tại Malaysia (Overview of Adjudication Process in Malaysia)"
     url: "https://www.kevinwuassociates.com/post/overview-of-adjudication-process-in-malaysia"
     publisher: "Kevin Wu & Associates"
-  - title: "Construction Industry Payment and Adjudication (Amendment) Act 2024"
+  - title: "Đạo luật Sửa đổi Thanh toán và Phân xử Ngành Xây dựng 2024 (Construction Industry Payment and Adjudication (Amendment) Act 2024)"
     url: "https://www.zulrafique.com.my/article-sample.php?id=2387"
     publisher: "Zul Rafique & Partners"
-  - title: "The Arbitration (Amendment) Bill 2024 and CIPAA (Amendment) Bill 2024: Reshaping Malaysia's ADR Landscape"
+  - title: "Dự luật Trọng tài (Sửa đổi) 2024 và Dự luật CIPAA (Sửa đổi) 2024: Định hình lại Bối cảnh ADR của Malaysia (The Arbitration (Amendment) Bill 2024 and CIPAA (Amendment) Bill 2024: Reshaping Malaysia's ADR Landscape)"
     url: "https://tsl-legal.com/the-arbitration-amendment-bill-2024-and-cipaa-amendment-bill-2024-reshaping-malaysias-adr-landscape/"
     publisher: "TSL Legal"
-  - title: "CIPAA Amendments Malaysia 2026"
+  - title: "Sửa đổi CIPAA Malaysia 2026 (CIPAA Amendments Malaysia 2026)"
     url: "https://globallawexperts.com/cipaa-amendments-malaysia-2026/"
     publisher: "Global Law Experts"
-  - title: "Construction Industry Payment and Adjudication Act changes to boost transparency, confidence"
+  - title: "Những thay đổi của Đạo luật Thanh toán và Phân xử Ngành Xây dựng nhằm tăng cường minh bạch và niềm tin (Construction Industry Payment and Adjudication Act changes to boost transparency, confidence)"
     url: "https://dayakdaily.com/construction-industry-payment-and-adjudication-act-changes-to-boost-transparency-confidence/"
     publisher: "DayakDaily"
 

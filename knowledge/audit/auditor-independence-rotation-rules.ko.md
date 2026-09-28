@@ -61,18 +61,18 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants — Section 540 and Section 600"
+  - title: "말레이시아 회계사협회의 부칙 (직업윤리·행동·실무에 관한) — 제540조 및 제600조 (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants — Section 540 and Section 600)"
     url: "https://mia.org.my/wp-content/uploads/2024/04/MIA-By-Laws-2024-UPDATED.pdf"
-    publisher: "Malaysian Institute of Accountants"
-  - title: "Audit Firm and Audit Partner Fined for Breach of Partner Rotation Requirement"
+    publisher: "말레이시아 회계사협회 (MIA)"
+  - title: "파트너 순환 요건 위반으로 감사법인 및 감사 파트너에 과징금 부과 (Audit Firm and Audit Partner Fined for Breach of Partner Rotation Requirement)"
     url: "https://www.sc.com.my/resources/media/media-release/audit-firm-and-audit-partner-fined-for-breach-of-partner-rotation-requirement"
-    publisher: "Securities Commission Malaysia"
-  - title: "Ethics Standards Board Annual Report 2018 — Changes in Audit Partner Rotation Requirements"
+    publisher: "말레이시아 증권위원회"
+  - title: "윤리기준위원회 2018 연차보고서 — 감사 파트너 순환 요건의 변경 (Ethics Standards Board Annual Report 2018 — Changes in Audit Partner Rotation Requirements)"
     url: "https://mia.org.my/wp-content/uploads/2022/04/MIA_ESB_Annual_Report_2018.pdf"
-    publisher: "Malaysian Institute of Accountants"
-  - title: "MIA Enhances its Professional Ethics Standards on Public Interest Entities, Effective 15 December 2024"
+    publisher: "말레이시아 회계사협회 (MIA)"
+  - title: "MIA, 공익 관련 기업에 대한 직업윤리 기준 강화, 2024년 12월 15일 발효 (MIA Enhances its Professional Ethics Standards on Public Interest Entities, Effective 15 December 2024)"
     url: "https://mia.org.my/mia-enhances-its-professional-ethics-standards-on-public-interest-entities-effective-15-december-2024/"
-    publisher: "Malaysian Institute of Accountants"
+    publisher: "말레이시아 회계사협회 (MIA)"
 
 entity: "말레이시아 회계사협회"
 wikidata: "Q6741971"

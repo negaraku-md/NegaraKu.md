@@ -36,20 +36,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Permainan Tradisi"
+  - title: "பாரம்பரிய விளையாட்டுகள் (Permainan Tradisi)"
     url: "https://www.heritage.gov.my/en/pengenalan-cawangan-adat-budaya/permainan-tradisi.html"
-    publisher: "Jabatan Warisan Negara"
-  - title: "Pengisytiharan Warisan Kebangsaan 2009"
+    publisher: "தேசிய பாரம்பரியத் துறை"
+  - title: "தேசிய பாரம்பரியப் பிரகடனம் 2009 (Pengisytiharan Warisan Kebangsaan 2009)"
     url: "https://www.heritage.gov.my/en/pengisytiharan-2009.html"
-    publisher: "Jabatan Warisan Negara"
+    publisher: "தேசிய பாரம்பரியத் துறை"
     date: "2009-02-14"
-  - title: "Gasing Pangkah Warisan Tradisional Masyarakat Melayu"
+  - title: "காசிங் பங்கா — மலாய் சமூகத்தின் பாரம்பரிய மரபு (Gasing Pangkah Warisan Tradisional Masyarakat Melayu)"
     url: "https://www.mkn.gov.my/web/ms/2026/02/04/gasing-pangkah-warisan-tradisional-masyarakat-melayu/"
-    publisher: "Majlis Keselamatan Negara"
+    publisher: "தேசிய பாதுகாப்பு கவுன்சில்"
     date: "2026-02-04"
-  - title: "Kuala Nerus Pertahan Seni Warisan Pembuatan Gasing Pangkah"
+  - title: "காசிங் பங்கா தயாரிப்பின் மரபுக் கலையை குவாலா நெரூஸ் பாதுகாக்கிறது (Kuala Nerus Pertahan Seni Warisan Pembuatan Gasing Pangkah)"
     url: "https://trdi.my/index.php/kuala-nerus-pertahan-seni-warisan-pembuatan-gasing-pangkah"
-    publisher: "TRDI (Media Rasmi Negeri Terengganu)"
+    publisher: "TRDI (திரெங்கானு மாநில அதிகாரப்பூர்வ ஊடகம்)"
 entity: "Gasing"
 relations:
   - { rel: "part-of", to: "malaysia" }

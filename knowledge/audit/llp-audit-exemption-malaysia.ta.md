@@ -49,12 +49,12 @@ verificationNeeded:
   - "“தொழில்முறை நடைமுறை” பத்தி, தொழில்முறை அமைப்பு தேவைகள் (எ.கா. MIA) குறித்த ஒரு பரந்த பொதுமைப்படுத்தல் ஆகும், மேலும் இது sources[]-இல் உள்ள ஒரு சட்டப்பூர்வ ஆதாரத்தால் ஆதரிக்கப்படவில்லை; வெளியிடுவதற்கு முன் உறுதிப்படுத்தவும் அல்லது நீக்கவும்."
 updated: 2026-08-08
 sources:
-  - title: "Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia)"
+  - title: "Act 743 — Limited Liability Partnerships Act 2012 (மலேசியச் சட்டங்கள்) (Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia))"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ssm/Act%20743.pdf"
-    publisher: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN)"
-  - title: "Limited Liability Partnership (Booklet)"
+    publisher: "உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு (KPDN)"
+  - title: "வரம்பிடப்பட்ட பொறுப்பு கூட்டாண்மை (கையேடு) (Limited Liability Partnership (Booklet))"
     url: "https://www.ssm.com.my/Pages/Publication/Booklet/document/LLP_bkengLS_update.PDF"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Perkongsian Liabiliti Terhad (PLT)"
 relations:

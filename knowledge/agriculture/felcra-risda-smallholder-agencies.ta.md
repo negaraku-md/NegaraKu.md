@@ -52,18 +52,18 @@ verificationNeeded:
   - "2023 மார்ச்சுக்குப் பிறகு FELDA, FELCRA மற்றும் RISDA-வின் ஒருங்கிணைப்பு/இணைப்பு நிலை — முழுமையான இணைப்பு இல்லாமல் இன்னும் கொள்கை விவாதமாகவே இருக்கிறதா என்பதை உறுதிப்படுத்தவும்."
 updated: 2026-08-01
 sources:
-  - title: "Company Overview — FELCRA Berhad"
+  - title: "நிறுவனச் சுருக்கம் — FELCRA Berhad (Company Overview — FELCRA Berhad)"
     url: "https://felcra.com.my/corporate-information/company-overview/"
     publisher: "FELCRA Berhad"
-  - title: "Profile — Official Portal RISDA"
+  - title: "சுயவிவரம் — RISDA அதிகாரப்பூர்வ இணையதளம் (Profile — Official Portal RISDA)"
     url: "https://www.risda.gov.my/en/about-risda/profile"
-    publisher: "RISDA (Pihak Berkuasa Kemajuan Pekebun Kecil Perusahaan Getah)"
-  - title: "FGV calls for consolidation of smallholders from Felda, Felcra and Risda for sustainable palm oil production"
+    publisher: "ரப்பர் தொழில் சிறு தோட்டக்காரர் மேம்பாட்டு ஆணையம் (RISDA)"
+  - title: "நிலையான பாமாயில் உற்பத்திக்காக Felda, Felcra, Risda ஆகியவற்றின் சிறு தோட்டக்காரர்களை ஒருங்கிணைக்க FGV அழைப்பு (FGV calls for consolidation of smallholders from Felda, Felcra and Risda for sustainable palm oil production)"
     url: "https://theedgemalaysia.com/node/658166"
     publisher: "The Edge Malaysia"
-  - title: "Felda, Felcra, Risda urged to form consortium for downstream projects"
+  - title: "கீழ்நிலைத் திட்டங்களுக்கு கூட்டமைப்பு உருவாக்க Felda, Felcra, Risda வலியுறுத்தப்பட்டன (Felda, Felcra, Risda urged to form consortium for downstream projects)"
     url: "https://prestasisawit.mpob.gov.my/en/palmnews/news/6639"
-    publisher: "Malaysian Palm Oil Board (Prestasi Sawit)"
+    publisher: "மலேசிய பாமாயில் வாரியம் (Prestasi Sawit)"
 
 entity: "FELCRA Berhad dan RISDA"
 relations:

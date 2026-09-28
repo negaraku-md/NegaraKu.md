@@ -51,19 +51,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Pengisytiharan Warisan Kebangsaan 2009"
+  - title: "国家遺産宣言2009 (Pengisytiharan Warisan Kebangsaan 2009)"
     url: "https://www.heritage.gov.my/en/pengisytiharan-2009.html"
-    publisher: "Jabatan Warisan Negara"
-  - title: "Tarian Joget Gamelan — Maklumat Seni Budaya"
+    publisher: "国家遺産局"
+  - title: "ジョゲット・ガムラン舞踊 — 芸術文化情報 (Tarian Joget Gamelan — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/723"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Muzik Gamelan — Maklumat Seni Budaya"
+    publisher: "国家文化芸術局 (JKKN)"
+  - title: "ガムラン音楽 — 芸術文化情報 (Muzik Gamelan — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/929"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Kenali Gamelan bersama Gangsapura"
+    publisher: "国家文化芸術局 (JKKN)"
+  - title: "Gangsapuraと一緒にガムランを知る (Kenali Gamelan bersama Gangsapura)"
     url: "https://www.warisankl.my/bm/terokai-detik-bermakna/kenali-gamelan-bersama-gangsapura"
-    publisher: "Warisan KL (Dewan Bandaraya Kuala Lumpur)"
-  - title: "Gamelan Melayu: Sejarah dan Keindahan Irama Tradisional"
+    publisher: "Warisan KL（クアラルンプール市庁）"
+  - title: "マレー・ガムラン：伝統的な調べの歴史と美 (Gamelan Melayu: Sejarah dan Keindahan Irama Tradisional)"
     url: "https://www.discoveryterengganu.com/en/gamelan-melayu-sejarah-keindahan-irama-tradisional/"
     publisher: "Discovery Terengganu"
 

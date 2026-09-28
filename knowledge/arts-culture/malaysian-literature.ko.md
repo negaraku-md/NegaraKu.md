@@ -49,19 +49,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Anugerah Sastera Negara"
+  - title: "국가문학상 (Anugerah Sastera Negara)"
     url: "https://dbp.gov.my/anugerah-sastera-negara/"
-    publisher: "Dewan Bahasa dan Pustaka"
-  - title: "Pengenalan Dewan Bahasa dan Pustaka"
+    publisher: "국립어문출판국 (DBP)"
+  - title: "국립어문출판국 소개 (Pengenalan Dewan Bahasa dan Pustaka)"
     url: "https://dbp.gov.my/pengenalan/"
-    publisher: "Dewan Bahasa dan Pustaka"
-  - title: "Sejarah Melayu (The Malay Annals) — Memory of the World"
+    publisher: "국립어문출판국 (DBP)"
+  - title: "스자라 믈라유 (말레이 연대기) — 세계기록유산 (Sejarah Melayu (The Malay Annals) — Memory of the World)"
     url: "https://www.unesco.org/en/memory-world/sejarah-melayu-malay-annals"
     publisher: "UNESCO"
-  - title: "Mana Sikana diumumkan sebagai penerima Sasterawan Negara Ke-16"
+  - title: "마나 시카나, 제16대 국가문학가로 발표 (Mana Sikana diumumkan sebagai penerima Sasterawan Negara Ke-16)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/mana-sikana-diumumkan-sebagai-penerima-sasterawan-negara-ke-16/"
     publisher: "RTM Berita"
-  - title: "DBP buka pencalonan Anugerah Sastera Negara, tawar hadiah RM60,000"
+  - title: "DBP, 국가문학상 후보 접수 시작, 상금 6만 링깃 (DBP buka pencalonan Anugerah Sastera Negara, tawar hadiah RM60,000)"
     url: "https://www.utusan.com.my/nasional/2024/02/dbp-buka-pencalonan-anugerah-sastera-negara-tawar-hadiah-rm60000/"
     publisher: "Utusan Malaysia"
 

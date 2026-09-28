@@ -52,18 +52,18 @@ verificationNeeded:
   - "สถานะการรวม/การควบรวม FELDA, FELCRA และ RISDA หลังเดือนมีนาคม 2023 — ควรยืนยันว่ายังคงเป็นเพียงการหารือเชิงนโยบายโดยไม่มีการควบรวมอย่างเต็มรูปแบบหรือไม่"
 updated: 2026-08-01
 sources:
-  - title: "Company Overview — FELCRA Berhad"
+  - title: "ภาพรวมองค์กร — FELCRA Berhad (Company Overview — FELCRA Berhad)"
     url: "https://felcra.com.my/corporate-information/company-overview/"
     publisher: "FELCRA Berhad"
-  - title: "Profile — Official Portal RISDA"
+  - title: "ประวัติโดยย่อ — เว็บท่าทางการ RISDA (Profile — Official Portal RISDA)"
     url: "https://www.risda.gov.my/en/about-risda/profile"
-    publisher: "RISDA (Pihak Berkuasa Kemajuan Pekebun Kecil Perusahaan Getah)"
-  - title: "FGV calls for consolidation of smallholders from Felda, Felcra and Risda for sustainable palm oil production"
+    publisher: "หน่วยงานพัฒนาเกษตรกรรายย่อยอุตสาหกรรมยาง (RISDA)"
+  - title: "FGV เรียกร้องให้รวมเกษตรกรรายย่อยจาก Felda, Felcra และ Risda เพื่อการผลิตปาล์มน้ำมันอย่างยั่งยืน (FGV calls for consolidation of smallholders from Felda, Felcra and Risda for sustainable palm oil production)"
     url: "https://theedgemalaysia.com/node/658166"
     publisher: "The Edge Malaysia"
-  - title: "Felda, Felcra, Risda urged to form consortium for downstream projects"
+  - title: "Felda, Felcra, Risda ถูกกระตุ้นให้จัดตั้งกลุ่มพันธมิตรเพื่อโครงการปลายน้ำ (Felda, Felcra, Risda urged to form consortium for downstream projects)"
     url: "https://prestasisawit.mpob.gov.my/en/palmnews/news/6639"
-    publisher: "Malaysian Palm Oil Board (Prestasi Sawit)"
+    publisher: "คณะกรรมการปาล์มน้ำมันมาเลเซีย (Prestasi Sawit)"
 
 entity: "FELCRA Berhad dan RISDA"
 relations:

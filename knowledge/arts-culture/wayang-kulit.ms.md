@@ -47,13 +47,13 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Jabatan Kebudayaan dan Kesenian Negara (National Department for Culture and Arts)"
+  - title: "Jabatan Kebudayaan dan Kesenian Negara (Jabatan Kebudayaan dan Kesenian Negara (National Department for Culture and Arts))"
     url: "https://www.jkkn.gov.my/"
     publisher: "JKKN"
-  - title: "Jabatan Muzium Malaysia (Department of Museums Malaysia)"
+  - title: "Jabatan Muzium Malaysia (Jabatan Muzium Malaysia (Department of Museums Malaysia))"
     url: "https://www.jmm.gov.my/"
     publisher: "Jabatan Muzium Malaysia"
-  - title: "Representative List of the Intangible Cultural Heritage of Humanity"
+  - title: "Senarai Wakil Warisan Budaya Tidak Ketara Kemanusiaan (Representative List of the Intangible Cultural Heritage of Humanity)"
     url: "https://ich.unesco.org/en/lists"
     publisher: "UNESCO"
 relations:

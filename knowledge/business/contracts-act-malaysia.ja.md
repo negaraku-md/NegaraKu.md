@@ -61,18 +61,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Contracts Act 1950 (Act 136), updated text"
+  - title: "1950年契約法 (Act 136)、更新版テキスト (Contracts Act 1950 (Act 136), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20136.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Limitation Act 1953 (Act 254), online version as at 1 September 2019"
+    publisher: "マレーシア司法長官府 (AGC)"
+  - title: "1953年出訴期限法 (Act 254)、2019年9月1日現在のオンライン版 (Limitation Act 1953 (Act 254), online version as at 1 September 2019)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1727530_BI/ACT%20254-Online%20version%20as%20at%201%20Sept%202019%20%282%29.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Arbitration Act 2005 (Act 646), reprint as at 1 November 2018"
+    publisher: "マレーシア司法長官府 (AGC)"
+  - title: "2005年仲裁法 (Act 646)、2018年11月1日現在の再版 (Arbitration Act 2005 (Act 646), reprint as at 1 November 2018)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1700445_BI/Act%20646%20%28REPRINT%202018%29.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Laws of Malaysia — principal acts search"
+    publisher: "マレーシア司法長官府 (AGC)"
+  - title: "マレーシア法 — 主要法令検索 (Laws of Malaysia — principal acts search)"
     url: "https://lom.agc.gov.my/principal.php"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "マレーシア司法長官府 (AGC)"
 
 entity: "Contracts Act 1950 (Act 136)"
 relations:

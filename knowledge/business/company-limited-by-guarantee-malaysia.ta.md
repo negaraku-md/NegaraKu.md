@@ -52,10 +52,10 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Guidelines on Company Limited by Guarantee (27 September 2021)"
+  - title: "உத்தரவாதத்தால் வரையறுக்கப்பட்ட நிறுவனம் தொடர்பான வழிகாட்டுதல்கள் (2021 செப்டம்பர் 27) (Guidelines on Company Limited by Guarantee (27 September 2021))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/GUIDELINES-ON-COMPANY-LIMITED-BY-GUARANTEE-270921-Final.pdf"
-    publisher: "Companies Commission of Malaysia (SSM)"
-  - title: "Malaysia — Understanding Companies Limited by Guarantee: Legal Framework & Key Features"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "மலேசியா — உத்தரவாதத்தால் வரையறுக்கப்பட்ட நிறுவனங்களைப் புரிந்துகொள்ளுதல்: சட்டச் சட்டகம் & முக்கிய அம்சங்கள் (Malaysia — Understanding Companies Limited by Guarantee: Legal Framework & Key Features)"
     url: "https://conventuslaw.com/report/malaysia-understanding-companies-limited-by-guarantee-legal-framework-key-features/"
     publisher: "Conventus Law"
 

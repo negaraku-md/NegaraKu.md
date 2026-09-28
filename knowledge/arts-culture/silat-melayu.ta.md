@@ -55,19 +55,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Silat — Representative List of the Intangible Cultural Heritage of Humanity"
+  - title: "சிலாட் — மனிதகுலத்தின் அருவ பண்பாட்டுப் பாரம்பரியத்தின் பிரதிநிதித்துவப் பட்டியல் (Silat — Representative List of the Intangible Cultural Heritage of Humanity)"
     url: "https://ich.unesco.org/en/RL/silat-01504"
     publisher: "UNESCO"
-  - title: "Silat"
+  - title: "சிலாட் (Silat)"
     url: "https://www.heritage.gov.my/en/silat.html"
-    publisher: "Jabatan Warisan Negara"
-  - title: "Seni Pertahanan Diri (Self-Defense) — Cawangan Adat Budaya"
+    publisher: "தேசிய பாரம்பரியத் துறை"
+  - title: "தற்காப்புக் கலை (Self-Defense) — பழக்கவழக்கப் பண்பாட்டுப் பிரிவு (Seni Pertahanan Diri (Self-Defense) — Cawangan Adat Budaya)"
     url: "https://www.heritage.gov.my/en/pengenalan-cawangan-adat-budaya/seni-pertahanan-diri.html"
-    publisher: "Jabatan Warisan Negara"
-  - title: "Bidang Seni Silat"
+    publisher: "தேசிய பாரம்பரியத் துறை"
+  - title: "சிலாட் கலைத் துறை (Bidang Seni Silat)"
     url: "https://celikbudaya.jkkn.gov.my/bidang/6"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Malaysia — Country Members (PESAKA)"
+    publisher: "தேசிய பண்பாடு மற்றும் கலைத் துறை (JKKN)"
+  - title: "மலேசியா — உறுப்பு நாடுகள் (PESAKA) (Malaysia — Country Members (PESAKA))"
     url: "https://worldpencaksilat.org/country-members/malaysiasilat/"
     publisher: "International Pencak Silat Federation (PERSILAT)"
 

@@ -56,20 +56,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines on Company Names"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "நிறுவனப் பெயர்கள் தொடர்பான வழிகாட்டுதல்கள் (Guidelines on Company Names)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines-on-Company-Names.pdf"
-    publisher: "SSM"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-12-06"
-  - title: "Companies Regulations 2017, P.U. (A) 37 — Schedule of Fees"
+  - title: "நிறுவன விதிமுறைகள் 2017, P.U. (A) 37 — கட்டண அட்டவணை (Companies Regulations 2017, P.U. (A) 37 — Schedule of Fees)"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/table-of-fees/lampiran_2-table_of_feese.pdf"
-    publisher: "SSM"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2017-01-26"
-  - title: "Guidelines for the Incorporation of Local Companies"
+  - title: "உள்நாட்டு நிறுவனங்களை இணைப்பதற்கான வழிகாட்டுதல்கள் (Guidelines for the Incorporation of Local Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/GUIDELINES/4.-Guidelines-For-Incorporation-Of-A-Local-Company.pdf"
-    publisher: "SSM"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Company name availability and reservation (Malaysia)"
 relations:

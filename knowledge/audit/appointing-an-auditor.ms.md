@@ -60,20 +60,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), cetakan semula pada 1 Ogos 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024"
+  - title: "Undang-Undang Kecil (Mengenai Etika, Tatalaku dan Amalan Profesional) Institut Akauntan Malaysia, dikemas kini 5 November 2024 (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024)"
     url: "https://mia.org.my/wp-content/uploads/2024/11/By-Laws-updated-Nov-2024-%E2%80%93-Effective-15-December-2024.pdf"
-    publisher: "MIA"
+    publisher: "Institut Akauntan Malaysia (MIA)"
     date: "2024-11-05"
-  - title: "Registration of Audit Firm and Individual Auditors"
+  - title: "Pendaftaran Firma Audit dan Juruaudit Individu (Registration of Audit Firm and Individual Auditors)"
     url: "https://www.sc.com.my/aob/registration-of-audit-firm-and-individual-auditors"
-    publisher: "Securities Commission Malaysia"
-  - title: "AAPG 2 — Auditors report on financial statements prepared in accordance with MPERS and Companies Act 2016"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
+  - title: "AAPG 2 — Laporan juruaudit ke atas penyata kewangan yang disediakan menurut MPERS dan Companies Act 2016 (AAPG 2 — Auditors report on financial statements prepared in accordance with MPERS and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_2.pdf"
-    publisher: "MIA"
+    publisher: "Institut Akauntan Malaysia (MIA)"
     date: "2021-06-01"
 
 entity: "Appointment of a company auditor"

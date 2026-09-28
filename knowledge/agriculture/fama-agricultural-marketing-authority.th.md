@@ -54,19 +54,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Latar Belakang — FAMA"
+  - title: "ความเป็นมา — FAMA (Latar Belakang — FAMA)"
     url: "https://www.fama.gov.my/latar-belakang"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "Objektif / Undang-Undang — FAMA"
+    publisher: "หน่วยงานการตลาดการเกษตรแห่งสหพันธรัฐ (FAMA)"
+  - title: "วัตถุประสงค์ / กฎหมาย — FAMA (Objektif / Undang-Undang — FAMA)"
     url: "https://www.fama.gov.my/objektif-undang-undang"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "Akta / Peraturan (Regulatori) — FAMA"
+    publisher: "หน่วยงานการตลาดการเกษตรแห่งสหพันธรัฐ (FAMA)"
+  - title: "พระราชบัญญัติ / ระเบียบ (การกำกับดูแล) — FAMA (Akta / Peraturan (Regulatori) — FAMA)"
     url: "https://www.fama.gov.my/akta-/-peraturan-regulatori"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "Soalan Lazim (FAQ) — FAMA"
+    publisher: "หน่วยงานการตลาดการเกษตรแห่งสหพันธรัฐ (FAMA)"
+  - title: "คำถามที่พบบ่อย (FAQ) — FAMA (Soalan Lazim (FAQ) — FAMA)"
     url: "https://www.fama.gov.my/faq"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "FAMA outlets record RM122m of sales in less than two months"
+    publisher: "หน่วยงานการตลาดการเกษตรแห่งสหพันธรัฐ (FAMA)"
+  - title: "ร้านค้า FAMA ทำยอดขาย 122 ล้านริงกิตในเวลาไม่ถึงสองเดือน (FAMA outlets record RM122m of sales in less than two months)"
     url: "https://www.malaymail.com/news/malaysia/2021/10/24/fama-outlets-record-rm122m-of-sales-in-less-than-two-months/2015626"
     publisher: "Malay Mail"
 

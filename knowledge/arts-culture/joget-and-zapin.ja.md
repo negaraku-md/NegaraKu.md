@@ -39,21 +39,21 @@ verificationNeeded:
 
 updated: 2026-07-24
 sources:
-  - title: "Tarian (Zapin)"
+  - title: "舞踊（Zapin）(Tarian (Zapin))"
     url: "https://www.heritage.gov.my/en/tarian.html"
-    publisher: "Jabatan Warisan Negara"
-  - title: "Zapin Arab — Maklumat Seni Budaya"
+    publisher: "国家遺産局"
+  - title: "アラブ・ザピン — 芸術文化情報 (Zapin Arab — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/en/senibudaya/detail/1036"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Tarian Zapin Ghalit — Maklumat Seni Budaya"
+    publisher: "国家文化芸術局 (JKKN)"
+  - title: "ザピン・ガリット舞踊 — 芸術文化情報 (Tarian Zapin Ghalit — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/en/senibudaya/detail/1014"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Tarian Joget Melaka — Maklumat Seni Budaya"
+    publisher: "国家文化芸術局 (JKKN)"
+  - title: "マラッカ・ジョゲット舞踊 — 芸術文化情報 (Tarian Joget Melaka — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/981"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Joget Cak Kun Cak — Maklumat Seni Budaya"
+    publisher: "国家文化芸術局 (JKKN)"
+  - title: "ジョゲット・チャッ・クン・チャッ — 芸術文化情報 (Joget Cak Kun Cak — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/972"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
+    publisher: "国家文化芸術局 (JKKN)"
 entity: "Joget dan Zapin"
 relations:
   - { rel: "compares-with", to: "mak-yong" }

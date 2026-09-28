@@ -47,23 +47,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Financial Services Act 2013 (Act 758)"
+  - title: "2013년 금융서비스법 (Act 758) (Financial Services Act 2013 (Act 758))"
     url: "https://www.investmalaysia.gov.my/media/xrnl0vfp/financial-services-act-2013.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "Financial Services (Limited Purpose Electronic Money) (Exemption) Order 2024, P.U.(A) 463/2024"
+    publisher: "법무장관실"
+  - title: "2024년 금융서비스(제한 목적 전자화폐)(면제)명령, P.U.(A) 463/2024 (Financial Services (Limited Purpose Electronic Money) (Exemption) Order 2024, P.U.(A) 463/2024)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2596772/PUA%20463.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "법무장관실"
     date: "2024-12-30"
-  - title: "Financial Services (Minimum Amount of Capital Funds) (Approved Person) (Amendment) Order 2022, P.U.(A) 403/2022"
+  - title: "2022년 금융서비스(자본금 최소액)(승인된 자)(개정)명령, P.U.(A) 403/2022 (Financial Services (Minimum Amount of Capital Funds) (Approved Person) (Amendment) Order 2022, P.U.(A) 403/2022)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/1754230/P.U.%20(A)%20403_2022%20(Perintah%20Perkhidmatan%20Kewangan%20(Amaun%20Minimum%20Dana%20Modal).pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "법무장관실"
     date: "2022-12-29"
-  - title: "Financial Services (Designated Payment Instruments) Order 2013, P.U.(A) 202/2013"
+  - title: "2013년 금융서비스(지정 지급수단)명령, P.U.(A) 202/2013 (Financial Services (Designated Payment Instruments) Order 2013, P.U.(A) 202/2013)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20130629_P.U.%20(A)%20202.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "Payment Systems — Gazette Orders"
+    publisher: "법무장관실"
+  - title: "지급 시스템 — 관보 명령 (Payment Systems — Gazette Orders)"
     url: "https://www.bnm.gov.my/gazette-order"
-    publisher: "Bank Negara Malaysia"
+    publisher: "말레이시아 중앙은행"
 
 entity: "Payment services regulation in Malaysia"
 relations:

@@ -56,15 +56,15 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO) (As at 24 March 2023)"
+  - title: "设立代表处 (RE) / 区域办事处 (RO) 指南（截至2023年3月24日） (Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO) (As at 24 March 2023))"
     url: "https://www.mida.gov.my/wp-content/uploads/2023/05/RERO-GUIDELINE_17.05.23.pdf"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Regional Representative Office"
+    publisher: "马来西亚投资发展局 (MIDA)"
+  - title: "区域代表办事处 (Regional Representative Office)"
     url: "https://www.mida.gov.my/industries/services/regional-establishment/regional-representative-office/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Setting Up Regional Operations"
+    publisher: "马来西亚投资发展局 (MIDA)"
+  - title: "设立区域运营 (Setting Up Regional Operations)"
     url: "https://www.mida.gov.my/setting-up-content/setting-up-regional-operations/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
+    publisher: "马来西亚投资发展局 (MIDA)"
 
 entity: "Representative Office / Regional Office (RE/RO)"
 relations:

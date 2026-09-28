@@ -60,20 +60,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 1 ஆகஸ்ட் 2022 நிலவரப்படி மறுபதிப்பு (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024"
+  - title: "மலேசிய கணக்காளர்கள் நிறுவனத்தின் (தொழில்முறை நெறிமுறைகள், நடத்தை மற்றும் நடைமுறை குறித்த) துணை விதிகள், 5 நவம்பர் 2024 அன்று புதுப்பிக்கப்பட்டது (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024)"
     url: "https://mia.org.my/wp-content/uploads/2024/11/By-Laws-updated-Nov-2024-%E2%80%93-Effective-15-December-2024.pdf"
-    publisher: "MIA"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
     date: "2024-11-05"
-  - title: "Registration of Audit Firm and Individual Auditors"
+  - title: "தணிக்கை நிறுவனம் மற்றும் தனிநபர் தணிக்கையாளர்கள் பதிவு (Registration of Audit Firm and Individual Auditors)"
     url: "https://www.sc.com.my/aob/registration-of-audit-firm-and-individual-auditors"
-    publisher: "Securities Commission Malaysia"
-  - title: "AAPG 2 — Auditors report on financial statements prepared in accordance with MPERS and Companies Act 2016"
+    publisher: "மலேசியப் பங்குகள் ஆணையம்"
+  - title: "AAPG 2 — MPERS மற்றும் Companies Act 2016 இன்படி தயாரிக்கப்பட்ட நிதி அறிக்கைகள் மீதான தணிக்கையாளர் அறிக்கை (AAPG 2 — Auditors report on financial statements prepared in accordance with MPERS and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_2.pdf"
-    publisher: "MIA"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
     date: "2021-06-01"
 
 entity: "Appointment of a company auditor"

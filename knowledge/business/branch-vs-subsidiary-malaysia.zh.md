@@ -86,22 +86,22 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Table of Fees — Registration of Company (ROC), Companies Regulations 2017 (P.U.(A) 37)"
+  - title: "收费表 — 公司注册 (ROC),2017年公司条例 (P.U.(A) 37) (Table of Fees — Registration of Company (ROC), Companies Regulations 2017 (P.U.(A) 37))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "2016年公司法令 (Act 777),截至2022年8月1日 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO)"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "设立代表处 (RE) / 区域办事处 (RO) 指南 (Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO))"
     url: "https://www.mida.gov.my/wp-content/uploads/2023/05/RERO-GUIDELINE_17.05.23.pdf"
-    publisher: "MIDA"
+    publisher: "马来西亚投资发展局 (MIDA)"
     date: "2023-03-24"
-  - title: "PD 10/2024 — Qualifying Criteria for Audit Exemption for Certain Categories of Private Companies"
+  - title: "PD 10/2024 — 特定类别私人公司审计豁免的资格标准 (PD 10/2024 — Qualifying Criteria for Audit Exemption for Certain Categories of Private Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
-  - title: "Regional Representative Office"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "区域代表处 (Regional Representative Office)"
     url: "https://www.mida.gov.my/industries/services/regional-establishment/regional-representative-office/"
-    publisher: "MIDA"
+    publisher: "马来西亚投资发展局 (MIDA)"
 
 entity: "Foreign company presence in Malaysia"
 relations:

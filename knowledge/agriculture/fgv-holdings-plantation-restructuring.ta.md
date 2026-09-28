@@ -55,22 +55,22 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "FGV Embarks on a New Chapter Following Delisting from Bursa Malaysia"
+  - title: "பர்சா மலேசியாவில் இருந்து பட்டியல் நீக்கத்திற்குப் பிறகு FGV புதிய அத்தியாயத்தைத் தொடங்குகிறது (FGV Embarks on a New Chapter Following Delisting from Bursa Malaysia)"
     url: "https://www.fgvholdings.com/press_release/fgv-embarks-on-a-new-chapter-following-delisting-from-bursa-malaysia/"
     publisher: "FGV Holdings Berhad"
-  - title: "Company Overview"
+  - title: "நிறுவனச் சுருக்கம் (Company Overview)"
     url: "https://www.fgvholdings.com/about-fgv/company-overview/"
     publisher: "FGV Holdings Berhad"
-  - title: "FGV officially delisted from Bursa Malaysia"
+  - title: "FGV அதிகாரப்பூர்வமாக பர்சா மலேசியாவில் இருந்து பட்டியல் நீக்கம் செய்யப்பட்டது (FGV officially delisted from Bursa Malaysia)"
     url: "https://www.thestar.com.my/business/business-news/2025/08/29/fgv-officially-delisted-from-bursa-malaysia"
     publisher: "The Star"
-  - title: "FGV Delisting Gives Felda Greater Latitude To Focus On Settlers' Returns, Shareholder Value"
+  - title: "FGV பட்டியல் நீக்கம் குடியேற்றக்காரர்களின் வருவாய் மற்றும் பங்குதாரர் மதிப்பில் கவனம் செலுத்த Felda விற்கு அதிக இடமளிக்கிறது (FGV Delisting Gives Felda Greater Latitude To Focus On Settlers' Returns, Shareholder Value)"
     url: "https://www.bernama.com/en/news.php?id=2461043"
     publisher: "Bernama"
-  - title: "FGV officially delisted from Bursa Malaysia — Felda"
+  - title: "FGV அதிகாரப்பூர்வமாக பர்சா மலேசியாவில் இருந்து பட்டியல் நீக்கம் செய்யப்பட்டது — Felda (FGV officially delisted from Bursa Malaysia — Felda)"
     url: "https://www.sinardaily.my/article/729831/focus/money/fgv-officially-delisted-from-bursa-malaysia---felda"
     publisher: "Sinar Daily"
-  - title: "Palm oil giant Felda soars in stock market debut"
+  - title: "பாமாயில் ராட்சதன் Felda பங்குச் சந்தை அறிமுகத்தில் உயர்ந்தது (Palm oil giant Felda soars in stock market debut)"
     url: "https://www.deseret.com/2012/6/28/20421354/palm-oil-giant-felda-soars-in-stock-market-debut/"
     publisher: "Deseret News / Associated Press"
 

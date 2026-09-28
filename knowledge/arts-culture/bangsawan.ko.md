@@ -52,20 +52,20 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Bangsawan (Kedah) — Arts and Culture Information"
+  - title: "방사완 (케다) — 예술 및 문화 정보 (Bangsawan (Kedah) — Arts and Culture Information)"
     url: "https://pemetaanbudaya.jkkn.gov.my/en/senibudaya/detail/1015"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Bangsawan, International Popular Theatre"
+    publisher: "국립문화예술국 (JKKN)"
+  - title: "방사완, 국제적 대중 연극 (Bangsawan, International Popular Theatre)"
     url: "https://disco.teak.fi/asia/bangsawan-international-popular-theatre/"
     publisher: "Asian Traditional Theatre & Dance, University of the Arts Helsinki"
-  - title: "The Theatres of Bangsawan"
+  - title: "방사완의 극장들 (The Theatres of Bangsawan)"
     url: "https://biblioasia.nlb.gov.sg/all-sections/vol-15-issue-4-jan-mar-2020-theatres-of-bangsawan/"
     publisher: "BiblioAsia, National Library Board Singapore"
-  - title: "Nostalgia: Bangsawan, the Malay Opera"
+  - title: "노스탤지어: 방사완, 말레이 오페라 (Nostalgia: Bangsawan, the Malay Opera)"
     url: "https://www.ipohecho.com.my/2019/03/01/nostalgia-bangsawan-the-malay-opera/"
     publisher: "Ipoh Echo"
     date: "2019-03-01"
-  - title: "History — Singapore Bangsawan Festival"
+  - title: "역사 — 싱가포르 방사완 페스티벌 (History — Singapore Bangsawan Festival)"
     url: "https://festivalbangsawan.com/history"
     publisher: "Singapore Bangsawan Festival"
 

@@ -48,18 +48,18 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "CIP Spark"
+  - title: "CIP Spark (CIP Spark)"
     url: "https://www.cradle.com.my/cip-spark/"
     publisher: "Cradle Fund Sdn Bhd (MOSTI)"
-  - title: "CIP Sprint"
+  - title: "CIP Sprint (CIP Sprint)"
     url: "https://www.cradle.com.my/cip-sprint/"
     publisher: "Cradle Fund Sdn Bhd (MOSTI)"
-  - title: "About Cradle Fund"
+  - title: "Cradle Fund 소개 (About Cradle Fund)"
     url: "https://www.cradle.com.my/about-us/"
     publisher: "Cradle Fund Sdn Bhd (MOSTI)"
-  - title: "Ministry of Science, Technology and Innovation (MOSTI)"
+  - title: "과학기술혁신부 (MOSTI) (Ministry of Science, Technology and Innovation (MOSTI))"
     url: "https://www.mosti.gov.my/"
-    publisher: "Ministry of Science, Technology and Innovation (MOSTI)"
+    publisher: "과학기술혁신부 (MOSTI)"
 
 entity: "Cradle Investment Programme (CIP)"
 relations:

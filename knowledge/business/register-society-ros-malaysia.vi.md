@@ -47,15 +47,15 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Societies Act 1966 (Act 832, Revised 2021)"
+  - title: "Đạo luật Hội đoàn 1966 (Act 832, Sửa đổi 2021) (Societies Act 1966 (Act 832, Revised 2021))"
     url: "https://www.mdi.gov.my/wp-content/uploads/2025/06/Akta-832-Akta-Pertubuhan-1966.pdf"
-    publisher: "Laws of Malaysia / Attorney General's Chambers of Malaysia"
-  - title: "Registrar of Societies (JPPM) — Portal and eROSES online system"
+    publisher: "Luật Malaysia / Văn phòng Tổng Chưởng lý Malaysia"
+  - title: "Cơ quan Đăng ký Hội đoàn (JPPM) — Cổng thông tin và hệ thống trực tuyến eROSES (Registrar of Societies (JPPM) — Portal and eROSES online system)"
     url: "https://www.ros.gov.my/portal-main/faq"
-    publisher: "Jabatan Pendaftaran Pertubuhan Malaysia (Registrar of Societies)"
-  - title: "Income Tax Act 1967 (Act 53) — subsection 44(6)"
+    publisher: "Cục Đăng ký Hội đoàn Malaysia (Cơ quan Đăng ký Hội đoàn)"
+  - title: "Đạo luật Thuế Thu nhập 1967 (Act 53) — khoản 44(6) (Income Tax Act 1967 (Act 53) — subsection 44(6))"
     url: "https://www.hasil.gov.my/media/znonhmuj/20231101-income-tax-act-1967-act-53.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
 
 entity: "Society (Persatuan, Registrar of Societies)"
 relations:

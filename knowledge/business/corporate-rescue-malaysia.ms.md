@@ -59,16 +59,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, Part III Division 8 and the Eighth Schedule"
+  - title: "Akta Syarikat 2016 (Act 777), cetakan semula setakat 1 Ogos 2022, Bahagian III Bahagian Kecil 8 dan Jadual Kelapan (Companies Act 2016 (Act 777), reprint as at 1 August 2022, Part III Division 8 and the Eighth Schedule)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies (Amendment) Act 2024 (Act A1701)"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Akta Syarikat (Pindaan) 2024 (Act A1701) (Companies (Amendment) Act 2024 (Act A1701))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2024-02-02"
-  - title: "Frequently Asked Questions — Companies (Amendment) Act 2024 [Act A1701]"
+  - title: "Soalan Lazim — Akta Syarikat (Pindaan) 2024 [Act A1701] (Frequently Asked Questions — Companies (Amendment) Act 2024 [Act A1701])"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/FAQ%20CA%20(Amendment)%202024.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "Corporate rescue mechanism"
 relations:

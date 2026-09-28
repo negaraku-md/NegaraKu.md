@@ -59,17 +59,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "RPG 7 (Revised) — A Guide to Charging for Professional Assurance Services (Withdrawn with effect from 1 June 2015)"
+  - title: "RPG 7（修订版）— 专业鉴证服务收费指南（自2015年6月1日起撤销） (RPG 7 (Revised) — A Guide to Charging for Professional Assurance Services (Withdrawn with effect from 1 June 2015))"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_RPG_07_2010_REVISED.pdf"
-    publisher: "MIA"
+    publisher: "马来西亚会计师公会 (MIA)"
     date: "2010-03-01"
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024"
+  - title: "马来西亚会计师公会（关于职业道德、操守与执业）附则，2024年11月5日更新 (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024)"
     url: "https://mia.org.my/wp-content/uploads/2024/11/By-Laws-updated-Nov-2024-%E2%80%93-Effective-15-December-2024.pdf"
-    publisher: "MIA"
+    publisher: "马来西亚会计师公会 (MIA)"
     date: "2024-11-05"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777)，2022年8月1日重印本 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2022-08-01"
 
 entity: "Statutory audit fees"

@@ -37,16 +37,16 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+  - title: "คำสั่งแนวปฏิบัติที่ 10/2024 — เกณฑ์คุณสมบัติการยกเว้นการตรวจสอบบัญชีสำหรับบริษัทเอกชนบางประเภทในมาเลเซีย (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2024-12-16"
-  - title: "FAQs on Companies Act 2016 and Transitional Issues — Part Q, Audit Exemption"
+  - title: "คำถามที่พบบ่อยเกี่ยวกับ Companies Act 2016 และประเด็นเปลี่ยนผ่าน — ส่วน Q การยกเว้นการตรวจสอบบัญชี (FAQs on Companies Act 2016 and Transitional Issues — Part Q, Audit Exemption)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/FAQ-AUDIT-EXEMPTION.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "Companies Act 2016 (Act 777), ฉบับพิมพ์ซ้ำ ณ วันที่ 1 สิงหาคม 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
 
 entity: "Dormant company audit exemption"
 relations:

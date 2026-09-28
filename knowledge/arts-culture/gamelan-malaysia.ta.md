@@ -51,19 +51,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Pengisytiharan Warisan Kebangsaan 2009"
+  - title: "தேசிய பாரம்பரியப் பிரகடனம் 2009 (Pengisytiharan Warisan Kebangsaan 2009)"
     url: "https://www.heritage.gov.my/en/pengisytiharan-2009.html"
-    publisher: "Jabatan Warisan Negara"
-  - title: "Tarian Joget Gamelan — Maklumat Seni Budaya"
+    publisher: "தேசிய பாரம்பரியத் துறை"
+  - title: "ஜோகெட் கமேலான் நடனம் — கலை மற்றும் கலாச்சார தகவல் (Tarian Joget Gamelan — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/723"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Muzik Gamelan — Maklumat Seni Budaya"
+    publisher: "தேசிய கலாச்சார மற்றும் கலைத் துறை (JKKN)"
+  - title: "கமேலான் இசை — கலை மற்றும் கலாச்சார தகவல் (Muzik Gamelan — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/929"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Kenali Gamelan bersama Gangsapura"
+    publisher: "தேசிய கலாச்சார மற்றும் கலைத் துறை (JKKN)"
+  - title: "Gangsapura உடன் கமேலானை அறிந்து கொள்ளுங்கள் (Kenali Gamelan bersama Gangsapura)"
     url: "https://www.warisankl.my/bm/terokai-detik-bermakna/kenali-gamelan-bersama-gangsapura"
-    publisher: "Warisan KL (Dewan Bandaraya Kuala Lumpur)"
-  - title: "Gamelan Melayu: Sejarah dan Keindahan Irama Tradisional"
+    publisher: "Warisan KL (கோலாலம்பூர் மாநகராட்சி)"
+  - title: "மலாய் கமேலான்: பாரம்பரிய இசையின் வரலாறு மற்றும் அழகு (Gamelan Melayu: Sejarah dan Keindahan Irama Tradisional)"
     url: "https://www.discoveryterengganu.com/en/gamelan-melayu-sejarah-keindahan-irama-tradisional/"
     publisher: "Discovery Terengganu"
 

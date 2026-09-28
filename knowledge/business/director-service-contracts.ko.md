@@ -56,12 +56,12 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일 기준 재판본 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), AGC updated text"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "2016년 회사법 (Act 777), AGC 갱신본 (Companies Act 2016 (Act 777), AGC updated text)"
     url: "https://lom.agc.gov.my/act-detail.php?act=777"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "말레이시아 법무장관실 (AGC)"
 
 entity: "Director service contract (Malaysia)"
 relations:

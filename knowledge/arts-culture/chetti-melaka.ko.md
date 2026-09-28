@@ -54,14 +54,14 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Chetti Melaka of the Straits: Rediscovering Peranakan Indian Communities"
+  - title: "해협의 체티 믈라카: 프라나칸 인도인 공동체의 재발견 (Chetti Melaka of the Straits: Rediscovering Peranakan Indian Communities)"
     url: "https://www.roots.gov.sg/stories-landing/stories/chetti-melaka"
     publisher: "Roots — National Heritage Board, Singapore"
-  - title: "The fascinating history of the Chitty's of Melaka"
+  - title: "믈라카 치티인의 흥미로운 역사 (The fascinating history of the Chitty's of Melaka)"
     url: "https://www.freemalaysiatoday.com/category/leisure/2018/12/12/the-fascinating-history-of-the-chittys-of-melaka"
     publisher: "Free Malaysia Today"
     date: "2018-12-12"
-  - title: "Time for cleansing 200-year-old temple to hold week-long prayer activities"
+  - title: "200년 된 사원을 정화할 시간, 일주일간의 기도 행사 개최 (Time for cleansing 200-year-old temple to hold week-long prayer activities)"
     url: "https://www.thestar.com.my/news/community/2012/04/27/time-for-cleansing-200yearold-temple-to-hold-weeklong-prayer-activities"
     publisher: "The Star"
     date: "2012-04-27"

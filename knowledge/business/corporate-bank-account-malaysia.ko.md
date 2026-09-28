@@ -61,21 +61,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Anti-Money Laundering, Countering Financing of Terrorism, Countering Proliferation Financing and Targeted Financial Sanctions for Financial Institutions (BNM/RH/PD 030-14)"
+  - title: "금융기관을 위한 자금세탁방지, 테러자금조달차단, 확산금융차단 및 표적 금융제재 (BNM/RH/PD 030-14) (Anti-Money Laundering, Countering Financing of Terrorism, Countering Proliferation Financing and Targeted Financial Sanctions for Financial Institutions (BNM/RH/PD 030-14))"
     url: "https://www.bnm.gov.my/documents/20124/938039/pd-AMLCFTCPF-TFS-FI-Feb2024_+2.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "말레이시아 중앙은행 (BNM)"
     date: "2024-02-05"
-  - title: "Policy Document on AML/CFT/CPF and TFS for Financial Institutions — issuance notice"
+  - title: "금융기관을 위한 AML/CFT/CPF 및 TFS 정책 문서 — 발행 통지 (Policy Document on AML/CFT/CPF and TFS for Financial Institutions — issuance notice)"
     url: "https://www.bnm.gov.my/-/pd-amlcftcpftfs-fi"
-    publisher: "Bank Negara Malaysia"
+    publisher: "말레이시아 중앙은행 (BNM)"
     date: "2024-02-05"
-  - title: "Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025"
+  - title: "외환정책 고시(통합본), 2025년 10월 1일 시행 (Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025)"
     url: "https://www.bnm.gov.my/documents/20124/60360/Consolidated+Foreign+Exchange+Policy+Notices_2+Oct+2025_Update.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "말레이시아 중앙은행 (BNM)"
     date: "2025-10-01"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일 기준 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
 
 entity: "Corporate bank account opening in Malaysia"
 relations:

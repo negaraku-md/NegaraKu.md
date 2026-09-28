@@ -92,19 +92,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "Akta Syarikat 2016 (Act 777), pada 1 Ogos 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines for Registration of Foreign Company"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Garis Panduan Pendaftaran Syarikat Asing (Guidelines for Registration of Foreign Company)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/GUIDELINES/gl6_bi_guidelines_for_registration_of_foreign_company_201117_0.pdf"
-    publisher: "SSM"
-  - title: "Companies Regulations 2017, P.U. (A) 37 — Schedule of Fees"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Peraturan-Peraturan Syarikat 2017, P.U. (A) 37 — Jadual Fi (Companies Regulations 2017, P.U. (A) 37 — Schedule of Fees)"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/table-of-fees/lampiran_2-table_of_feese.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2017-01-26"
-  - title: "Practice Directive 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties"
+  - title: "Arahan Amalan 1/2017 (Disemak 1 Oktober 2024) — Penalti Kelewatan Penyerahan (Practice Directive 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2024-10-01"
 
 entity: "Foreign company registration (Malaysia branch)"

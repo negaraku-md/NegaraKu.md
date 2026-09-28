@@ -54,15 +54,15 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "ISA 570 (Revised), Going Concern"
+  - title: "ISA 570 (Disemak Semula), Usaha Berterusan (ISA 570 (Revised), Going Concern)"
     url: "https://mia.org.my/box/2022/04/ISA_570_Revised.pdf"
-    publisher: "MIA"
-  - title: "ISA 580, Written Representations"
+    publisher: "Institut Akauntan Malaysia (MIA)"
+  - title: "ISA 580, Representasi Bertulis (ISA 580, Written Representations)"
     url: "https://mia.org.my/box/2022/04/ISA_580.pdf"
-    publisher: "MIA"
-  - title: "AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016"
+    publisher: "Institut Akauntan Malaysia (MIA)"
+  - title: "AAPG 1 — Laporan juruaudit ke atas penyata kewangan yang disediakan menurut rangka kerja MFRS dan Companies Act 2016 (AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_1-1.pdf"
-    publisher: "MIA"
+    publisher: "Institut Akauntan Malaysia (MIA)"
     date: "2021-06-01"
 
 entity: "Going concern assessment"

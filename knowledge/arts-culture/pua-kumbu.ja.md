@@ -55,16 +55,16 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Adiguru Kraf — Puan Bangie a/k Embol"
+  - title: "工芸の名匠 — Puan Bangie a/k Embol (Adiguru Kraf — Puan Bangie a/k Embol)"
     url: "https://kraftangan.gov.my/info/adiguru-kraf/puan-bangie-a-k-embol"
-    publisher: "Perbadanan Kemajuan Kraftangan Malaysia"
-  - title: "The Traditional Values and Functions of Pua Kumbu"
+    publisher: "マレーシア手工芸振興公社"
+  - title: "プア・クンブの伝統的価値と機能 (The Traditional Values and Functions of Pua Kumbu)"
     url: "https://museum.sarawak.gov.my/web/subpage/webpage_view/904"
-    publisher: "Jabatan Muzium Sarawak (Sarawak Museum Department)"
-  - title: "Pua Kumbu (Sarawak)"
+    publisher: "サラワク博物館局"
+  - title: "プア・クンブ（サラワク）(Pua Kumbu (Sarawak))"
     url: "https://encyclocraftsapr.com/pua-kumbu-sarawak/"
     publisher: "Encyclopedia of Crafts in WCC-Asia Pacific Region (EC-APR)"
-  - title: "For 34 years, this Malaysian master weaver has carried on the pua kumbu tradition"
+  - title: "34年にわたり、このマレーシアの機織り名匠がプア・クンブの伝統を受け継いできた (For 34 years, this Malaysian master weaver has carried on the pua kumbu tradition)"
     url: "https://www.thestar.com.my/lifestyle/living/2024/09/13/this-malaysian-carries-on-her-family-tradition-as-the-master-weaver-of-pua-kumbu"
     publisher: "The Star"
     date: "2024-09-14"

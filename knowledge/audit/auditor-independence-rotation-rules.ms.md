@@ -61,18 +61,18 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants — Section 540 and Section 600"
+  - title: "Undang-Undang Kecil (Mengenai Etika, Tatalaku dan Amalan Profesional) Institut Akauntan Malaysia — Seksyen 540 dan Seksyen 600 (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants — Section 540 and Section 600)"
     url: "https://mia.org.my/wp-content/uploads/2024/04/MIA-By-Laws-2024-UPDATED.pdf"
-    publisher: "Malaysian Institute of Accountants"
-  - title: "Audit Firm and Audit Partner Fined for Breach of Partner Rotation Requirement"
+    publisher: "Institut Akauntan Malaysia (MIA)"
+  - title: "Firma Audit dan Rakan Kongsi Audit Didenda kerana Melanggar Keperluan Penggiliran Rakan Kongsi (Audit Firm and Audit Partner Fined for Breach of Partner Rotation Requirement)"
     url: "https://www.sc.com.my/resources/media/media-release/audit-firm-and-audit-partner-fined-for-breach-of-partner-rotation-requirement"
-    publisher: "Securities Commission Malaysia"
-  - title: "Ethics Standards Board Annual Report 2018 — Changes in Audit Partner Rotation Requirements"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
+  - title: "Laporan Tahunan Lembaga Piawaian Etika 2018 — Perubahan dalam Keperluan Penggiliran Rakan Kongsi Audit (Ethics Standards Board Annual Report 2018 — Changes in Audit Partner Rotation Requirements)"
     url: "https://mia.org.my/wp-content/uploads/2022/04/MIA_ESB_Annual_Report_2018.pdf"
-    publisher: "Malaysian Institute of Accountants"
-  - title: "MIA Enhances its Professional Ethics Standards on Public Interest Entities, Effective 15 December 2024"
+    publisher: "Institut Akauntan Malaysia (MIA)"
+  - title: "MIA Menambah Baik Piawaian Etika Profesionalnya bagi Entiti Kepentingan Awam, Berkuat Kuasa 15 Disember 2024 (MIA Enhances its Professional Ethics Standards on Public Interest Entities, Effective 15 December 2024)"
     url: "https://mia.org.my/mia-enhances-its-professional-ethics-standards-on-public-interest-entities-effective-15-december-2024/"
-    publisher: "Malaysian Institute of Accountants"
+    publisher: "Institut Akauntan Malaysia (MIA)"
 
 entity: "Malaysian Institute of Accountants"
 wikidata: "Q6741971"

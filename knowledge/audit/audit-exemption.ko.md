@@ -52,16 +52,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+  - title: "실무지침 제10/2024호 — 말레이시아 특정 사기업에 대한 감사 면제 자격 기준 (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-12-16"
-  - title: "Frequently Asked Questions — Audit Exemption"
+  - title: "자주 묻는 질문 — 감사 면제 (Frequently Asked Questions — Audit Exemption)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/FAQ-AUDIT-EXEMPTION.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "Companies Act 2016 (Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
 
 entity: "감사 면제 (비상장회사)"
 relations:

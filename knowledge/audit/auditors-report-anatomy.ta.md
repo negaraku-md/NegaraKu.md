@@ -58,20 +58,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016"
+  - title: "AAPG 1 — MFRS கட்டமைப்பு மற்றும் Companies Act 2016 இன்படி தயாரிக்கப்பட்ட நிதி அறிக்கைகள் மீதான தணிக்கையாளர் அறிக்கை (AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_1-1.pdf"
-    publisher: "MIA"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
     date: "2021-06-01"
-  - title: "AAPG 2 — Auditors report on financial statements prepared in accordance with MPERS and Companies Act 2016"
+  - title: "AAPG 2 — MPERS மற்றும் Companies Act 2016 இன்படி தயாரிக்கப்பட்ட நிதி அறிக்கைகள் மீதான தணிக்கையாளர் அறிக்கை (AAPG 2 — Auditors report on financial statements prepared in accordance with MPERS and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_2.pdf"
-    publisher: "MIA"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
     date: "2021-06-01"
-  - title: "ISA 700 (Revised), Forming an Opinion and Reporting on Financial Statements"
+  - title: "ISA 700 (திருத்தப்பட்டது), கருத்து உருவாக்குதல் மற்றும் நிதி அறிக்கைகள் மீது அறிக்கையிடுதல் (ISA 700 (Revised), Forming an Opinion and Reporting on Financial Statements)"
     url: "https://mia.org.my/wp-content/uploads/2022/04/MIA_ISA_700_Revised-2.pdf"
-    publisher: "MIA"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
+  - title: "Companies Act 2016 (Act 777), 1 ஆகஸ்ட் 2022 நிலவரப்படி மறுபதிப்பு (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
 
 entity: "Independent auditors report"

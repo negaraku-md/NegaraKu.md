@@ -47,21 +47,21 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Kompang (Pulau Pinang) — Maklumat Seni Budaya"
+  - title: "コンパン（ペナン）— 芸術文化情報 (Kompang (Pulau Pinang) — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/863"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Rebana Keras — Maklumat Seni Budaya"
+    publisher: "国家文化芸術局 (JKKN)"
+  - title: "レバナ・ケラス — 芸術文化情報 (Rebana Keras — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/976"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Alat Muzik Gendang — Maklumat Seni Budaya"
+    publisher: "国家文化芸術局 (JKKN)"
+  - title: "グンダン（太鼓）楽器 — 芸術文化情報 (Alat Muzik Gendang — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/1123"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Serunai dalam Nobat Kedah — Maklumat Seni Budaya"
+    publisher: "国家文化芸術局 (JKKN)"
+  - title: "クダ・ノバットのスルナイ — 芸術文化情報 (Serunai dalam Nobat Kedah — Maklumat Seni Budaya)"
     url: "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/1342"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
-  - title: "Sape — Arts and Culture Information"
+    publisher: "国家文化芸術局 (JKKN)"
+  - title: "サペ — 芸術文化情報 (Sape — Arts and Culture Information)"
     url: "https://pemetaanbudaya.jkkn.gov.my/en/senibudaya/detail/1083"
-    publisher: "Jabatan Kebudayaan dan Kesenian Negara (JKKN)"
+    publisher: "国家文化芸術局 (JKKN)"
 
 entity: "Alat Muzik Tradisional Malaysia"
 relations:

@@ -59,20 +59,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 1 ஆகஸ்ட் 2022 நிலவரப்படி மறுபதிப்பு (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016"
+  - title: "AAPG 1 — MFRS கட்டமைப்பு மற்றும் Companies Act 2016 இன்படி தயாரிக்கப்பட்ட நிதி அறிக்கைகள் மீதான தணிக்கையாளர் அறிக்கை (AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_1-1.pdf"
-    publisher: "MIA"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
     date: "2021-06-01"
-  - title: "Malaysian Accounting Standards Board — approved accounting standards"
+  - title: "மலேசிய கணக்கியல் தர வாரியம் — அங்கீகரிக்கப்பட்ட கணக்கியல் தரநிலைகள் (Malaysian Accounting Standards Board — approved accounting standards)"
     url: "https://www.masb.org.my/pages.php?id=19"
-    publisher: "MASB"
-  - title: "ISA 580, Written Representations"
+    publisher: "மலேசிய கணக்கியல் தர வாரியம் (MASB)"
+  - title: "ISA 580, எழுத்துப்பூர்வ உறுதிமொழிகள் (ISA 580, Written Representations)"
     url: "https://mia.org.my/box/2022/04/ISA_580.pdf"
-    publisher: "MIA"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
 
 entity: "Audit request list (prepared by client)"
 relations:

@@ -49,12 +49,12 @@ verificationNeeded:
   - "「専門業務」の段落は、専門団体（例：MIA）の要件に関する一般的な概括であり、sources[]内のいかなる法定情報源によっても裏付けられていない；公開前に確認又は削除すること。"
 updated: 2026-08-08
 sources:
-  - title: "Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia)"
+  - title: "Act 743 — Limited Liability Partnerships Act 2012（マレーシア法令） (Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia))"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ssm/Act%20743.pdf"
-    publisher: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN)"
-  - title: "Limited Liability Partnership (Booklet)"
+    publisher: "国内取引・生活費省 (KPDN)"
+  - title: "有限責任事業組合（小冊子） (Limited Liability Partnership (Booklet))"
     url: "https://www.ssm.com.my/Pages/Publication/Booklet/document/LLP_bkengLS_update.PDF"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "マレーシア企業委員会 (SSM)"
 
 entity: "Perkongsian Liabiliti Terhad (PLT)"
 relations:

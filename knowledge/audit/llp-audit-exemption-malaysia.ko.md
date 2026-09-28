@@ -49,12 +49,12 @@ verificationNeeded:
   - "「직업적 관행」 문단은 직업단체(예: MIA)의 요건에 대한 일반적 일반화이며 sources[]의 법령 출처로 뒷받침되지 않음; 발행 전에 확인하거나 삭제할 것."
 updated: 2026-08-08
 sources:
-  - title: "Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia)"
+  - title: "Act 743 — Limited Liability Partnerships Act 2012 (말레이시아 법률) (Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia))"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ssm/Act%20743.pdf"
-    publisher: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN)"
-  - title: "Limited Liability Partnership (Booklet)"
+    publisher: "국내통상생활비부 (KPDN)"
+  - title: "유한책임조합 (소책자) (Limited Liability Partnership (Booklet))"
     url: "https://www.ssm.com.my/Pages/Publication/Booklet/document/LLP_bkengLS_update.PDF"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "말레이시아 기업위원회 (SSM)"
 
 entity: "유한책임조합 (PLT)"
 relations:

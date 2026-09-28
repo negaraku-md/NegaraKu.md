@@ -76,18 +76,18 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "கட்டண அட்டவணை — நிறுவனப் பதிவு (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
-  - title: "FAQs on the Companies Act 2016 and Transitional Issues — Part B, Constitution"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் மற்றும் இடைநிலைப் பிரச்சினைகள் தொடர்பான அடிக்கடி கேட்கப்படும் கேள்விகள் — பகுதி B, நிறுவன அமைப்புச் சட்டம் (FAQs on the Companies Act 2016 and Transitional Issues — Part B, Constitution)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20B.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் — சட்டச் சட்டகம் (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Company constitution (Malaysia)"
 relations:

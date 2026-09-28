@@ -53,19 +53,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Pengenalan — Sejarah Dewan Bahasa dan Pustaka"
+  - title: "แนะนำ — ประวัติสถาบันภาษาและวรรณกรรมแห่งชาติ (Pengenalan — Sejarah Dewan Bahasa dan Pustaka)"
     url: "https://dbp.gov.my/pengenalan/"
-    publisher: "Dewan Bahasa dan Pustaka"
-  - title: "Akta — Dewan Bahasa dan Pustaka"
+    publisher: "สถาบันภาษาและวรรณกรรมแห่งชาติ (DBP)"
+  - title: "พระราชบัญญัติ — สถาบันภาษาและวรรณกรรมแห่งชาติ (Akta — Dewan Bahasa dan Pustaka)"
     url: "https://dbp.gov.my/akta/"
-    publisher: "Dewan Bahasa dan Pustaka"
-  - title: "Anugerah Sastera Negara"
+    publisher: "สถาบันภาษาและวรรณกรรมแห่งชาติ (DBP)"
+  - title: "รางวัลวรรณกรรมแห่งชาติ (Anugerah Sastera Negara)"
     url: "https://dbp.gov.my/anugerah-sastera-negara/"
-    publisher: "Dewan Bahasa dan Pustaka"
-  - title: "Kamus Dewan Perdana dalam Talian"
+    publisher: "สถาบันภาษาและวรรณกรรมแห่งชาติ (DBP)"
+  - title: "Kamus Dewan Perdana ฉบับออนไลน์ (Kamus Dewan Perdana dalam Talian)"
     url: "https://kamus.dbp.gov.my/"
-    publisher: "Dewan Bahasa dan Pustaka"
-  - title: "Mana Sikana diumumkan sebagai penerima Sasterawan Negara Ke-16"
+    publisher: "สถาบันภาษาและวรรณกรรมแห่งชาติ (DBP)"
+  - title: "มานา สิกานา ได้รับการประกาศเป็นนักวรรณกรรมแห่งชาติคนที่ 16 (Mana Sikana diumumkan sebagai penerima Sasterawan Negara Ke-16)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/mana-sikana-diumumkan-sebagai-penerima-sasterawan-negara-ke-16/"
     publisher: "Radio Televisyen Malaysia (RTM)"
 

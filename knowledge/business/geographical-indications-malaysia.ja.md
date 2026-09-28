@@ -53,19 +53,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Geographical Indications Act 2022 (Act 836)"
+  - title: "地理的表示法 2022 (Act 836) (Geographical Indications Act 2022 (Act 836))"
     url: "https://www.myipo.gov.my/wp-content/uploads/2025/02/GEOGRAPHICAL-INDICATIONS-2022-ACT-836.pdf"
-    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
-  - title: "Geographical Indications Act 2022 (Act 836), full text and repeal details"
+    publisher: "マレーシア知的財産公社 (MyIPO)"
+  - title: "地理的表示法 2022 (Act 836)、全文および廃止の詳細 (Geographical Indications Act 2022 (Act 836), full text and repeal details)"
     url: "https://www.wipo.int/wipolex/en/legislation/details/22645"
     publisher: "WIPO Lex"
-  - title: "Guidelines of Geographical Indication 2022"
+  - title: "地理的表示ガイドライン 2022 (Guidelines of Geographical Indication 2022)"
     url: "https://www.myipo.gov.my/wp-content/uploads/2024/10/Guidelines-of-Geographical-Indication-2022.pdf"
-    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
-  - title: "Interactive: Sabah, Sarawak lead in protected products"
+    publisher: "マレーシア知的財産公社 (MyIPO)"
+  - title: "インタラクティブ：保護対象製品でサバ、サラワクが先行 (Interactive: Sabah, Sarawak lead in protected products)"
     url: "https://www.thestar.com.my/news/nation/2025/12/15/interactive-sabah-sarawak-lead-in-protected-products"
     publisher: "The Star"
-  - title: "Interactive: Four Malaysian durian varieties registered, international protection needed"
+  - title: "インタラクティブ：マレーシアのドリアン4品種が登録、国際的保護が必要 (Interactive: Four Malaysian durian varieties registered, international protection needed)"
     url: "https://www.thestar.com.my/news/nation/2025/12/15/interactive-four-malaysian-durian-varieties-registered-international-protection-needed"
     publisher: "The Star"
 

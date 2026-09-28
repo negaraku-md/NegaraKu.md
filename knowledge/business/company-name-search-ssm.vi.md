@@ -55,20 +55,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "Đạo luật Công ty 2016 (Act 777), tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines on Company Names"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Hướng dẫn về Tên Công ty (Guidelines on Company Names)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines-on-Company-Names.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2022-12-06"
-  - title: "Companies Regulations 2017, P.U. (A) 37 — Schedule of Fees"
+  - title: "Quy định Công ty 2017, P.U. (A) 37 — Biểu phí (Companies Regulations 2017, P.U. (A) 37 — Schedule of Fees)"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/table-of-fees/lampiran_2-table_of_feese.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2017-01-26"
-  - title: "Guidelines for the Incorporation of Local Companies"
+  - title: "Hướng dẫn Thành lập Công ty trong nước (Guidelines for the Incorporation of Local Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/GUIDELINES/4.-Guidelines-For-Incorporation-Of-A-Local-Company.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Company name availability and reservation (Malaysia)"
 relations:

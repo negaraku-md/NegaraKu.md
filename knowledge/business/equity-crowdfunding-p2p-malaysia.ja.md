@@ -62,22 +62,22 @@ revisions:
 
 updated: 2026-07-21
 sources:
-  - title: "Guidelines on Recognized Markets, SC-GL/6-2015 (R14-2026), effective 20 May 2026"
+  - title: "認可市場に関するガイドライン、SC-GL/6-2015 (R14-2026)、2026年5月20日施行 (Guidelines on Recognized Markets, SC-GL/6-2015 (R14-2026), effective 20 May 2026)"
     url: "https://www.sc.com.my/regulation/guidelines/recognizedmarkets"
-    publisher: "Securities Commission Malaysia"
+    publisher: "マレーシア証券委員会"
     date: "2026-05-20"
-  - title: "Capital Markets and Services Act 2007 (Act 671), s.34 — recognized market operator"
+  - title: "資本市場サービス法 2007 (Act 671)、s.34 — 認可市場運営者 (Capital Markets and Services Act 2007 (Act 671), s.34 — recognized market operator)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20671%20-%2023-11-2017.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "SC Digital Initiatives — registered recognized market operators"
+    publisher: "法務長官府"
+  - title: "SCデジタルイニシアチブ — 登録済みの認可市場運営者 (SC Digital Initiatives — registered recognized market operators)"
     url: "https://www.sc.com.my/development/digital/digital-initiatives"
-    publisher: "Securities Commission Malaysia"
-  - title: "ECF and P2P Financing Fuelling MSME Growth — Annual Report 2024"
+    publisher: "マレーシア証券委員会"
+  - title: "ECFおよびP2P金融がMSMEの成長を促進 — 年次報告書2024 (ECF and P2P Financing Fuelling MSME Growth — Annual Report 2024)"
     url: "https://www.sc.com.my/annual-report-2024/strengthening-the-sustainability-and-competitiveness-of-the-capital-market/ecf-and-p2p-financing-fuelling-msme-growth-in-advancing-ekonomi-madani"
-    publisher: "Securities Commission Malaysia"
-  - title: "Equity Crowdfunding — frequently asked questions"
+    publisher: "マレーシア証券委員会"
+  - title: "エクイティ・クラウドファンディング — よくある質問 (Equity Crowdfunding — frequently asked questions)"
     url: "https://www.sc.com.my/development/digital/equity-crowdfunding"
-    publisher: "Securities Commission Malaysia"
+    publisher: "マレーシア証券委員会"
 
 entity: "Equity crowdfunding and peer-to-peer financing in Malaysia"
 relations:

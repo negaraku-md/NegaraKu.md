@@ -52,15 +52,15 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Guidelines for Global Services Hub (GS-Hub) Tax Incentive"
+  - title: "全球服务枢纽 (GS-Hub) 税务奖掖指南 (Guidelines for Global Services Hub (GS-Hub) Tax Incentive)"
     url: "https://www.mida.gov.my/wp-content/uploads/2024/12/GS-Hub_Guideline_MIDA.pdf"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Principal Hub"
+    publisher: "马来西亚投资发展局 (MIDA)"
+  - title: "主要枢纽 (Principal Hub)"
     url: "https://www.mida.gov.my/industries/services/regional-establishment/principal-hub/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Income Tax (The Principal Hub Incentive Scheme) Rules 2022 (P.U.(A) 164/2022)"
+    publisher: "马来西亚投资发展局 (MIDA)"
+  - title: "2022年所得税（主要枢纽奖掖计划）规则 (P.U.(A) 164/2022) (Income Tax (The Principal Hub Incentive Scheme) Rules 2022 (P.U.(A) 164/2022))"
     url: "https://lom.agc.gov.my/subsid.php?type=pua&year=2022"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "马来西亚总检察署"
 
 entity: "Principal Hub / Global Services Hub (Malaysia)"
 relations:

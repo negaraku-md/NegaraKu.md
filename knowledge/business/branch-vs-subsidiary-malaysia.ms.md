@@ -85,22 +85,22 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Table of Fees — Registration of Company (ROC), Companies Regulations 2017 (P.U.(A) 37)"
+  - title: "Jadual Fi — Pendaftaran Syarikat (ROC), Peraturan-Peraturan Syarikat 2017 (P.U.(A) 37) (Table of Fees — Registration of Company (ROC), Companies Regulations 2017 (P.U.(A) 37))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "Akta Syarikat 2016 (Act 777), setakat 1 Ogos 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO)"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Garis Panduan Penubuhan Pejabat Perwakilan (RE) / Pejabat Serantau (RO) (Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO))"
     url: "https://www.mida.gov.my/wp-content/uploads/2023/05/RERO-GUIDELINE_17.05.23.pdf"
-    publisher: "MIDA"
+    publisher: "Lembaga Pembangunan Pelaburan Malaysia (MIDA)"
     date: "2023-03-24"
-  - title: "PD 10/2024 — Qualifying Criteria for Audit Exemption for Certain Categories of Private Companies"
+  - title: "PD 10/2024 — Kriteria Kelayakan Pengecualian Audit bagi Kategori Tertentu Syarikat Persendirian (PD 10/2024 — Qualifying Criteria for Audit Exemption for Certain Categories of Private Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
-  - title: "Regional Representative Office"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Pejabat Perwakilan Serantau (Regional Representative Office)"
     url: "https://www.mida.gov.my/industries/services/regional-establishment/regional-representative-office/"
-    publisher: "MIDA"
+    publisher: "Lembaga Pembangunan Pelaburan Malaysia (MIDA)"
 
 entity: "Foreign company presence in Malaysia"
 relations:

@@ -63,22 +63,22 @@ revisions:
 
 updated: 2026-07-21
 sources:
-  - title: "Guidelines on Recognized Markets, SC-GL/6-2015 (R14-2026), effective 20 May 2026"
+  - title: "认可市场指南，SC-GL/6-2015 (R14-2026)，2026年5月20日生效 (Guidelines on Recognized Markets, SC-GL/6-2015 (R14-2026), effective 20 May 2026)"
     url: "https://www.sc.com.my/regulation/guidelines/recognizedmarkets"
-    publisher: "Securities Commission Malaysia"
+    publisher: "马来西亚证券委员会"
     date: "2026-05-20"
-  - title: "Capital Markets and Services Act 2007 (Act 671), s.34 — recognized market operator"
+  - title: "资本市场与服务法令 2007 (Act 671)，第34节 — 认可市场经营者 (Capital Markets and Services Act 2007 (Act 671), s.34 — recognized market operator)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20671%20-%2023-11-2017.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "SC Digital Initiatives — registered recognized market operators"
+    publisher: "总检察署"
+  - title: "SC数字倡议 — 已注册的认可市场经营者 (SC Digital Initiatives — registered recognized market operators)"
     url: "https://www.sc.com.my/development/digital/digital-initiatives"
-    publisher: "Securities Commission Malaysia"
-  - title: "ECF and P2P Financing Fuelling MSME Growth — Annual Report 2024"
+    publisher: "马来西亚证券委员会"
+  - title: "股权众筹与P2P融资推动中小微企业增长 — 2024年年报 (ECF and P2P Financing Fuelling MSME Growth — Annual Report 2024)"
     url: "https://www.sc.com.my/annual-report-2024/strengthening-the-sustainability-and-competitiveness-of-the-capital-market/ecf-and-p2p-financing-fuelling-msme-growth-in-advancing-ekonomi-madani"
-    publisher: "Securities Commission Malaysia"
-  - title: "Equity Crowdfunding — frequently asked questions"
+    publisher: "马来西亚证券委员会"
+  - title: "股权众筹 — 常见问题 (Equity Crowdfunding — frequently asked questions)"
     url: "https://www.sc.com.my/development/digital/equity-crowdfunding"
-    publisher: "Securities Commission Malaysia"
+    publisher: "马来西亚证券委员会"
 
 entity: "Equity crowdfunding and peer-to-peer financing in Malaysia"
 relations:

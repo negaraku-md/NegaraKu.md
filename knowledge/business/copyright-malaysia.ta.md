@@ -58,18 +58,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Copyright Act 1987 (Act 332)"
+  - title: "பதிப்புரிமைச் சட்டம் 1987 (Act 332) (Copyright Act 1987 (Act 332))"
     url: "https://www.myipo.gov.my/wp-content/uploads/2025/09/Copyright-Act-1987-Act-332.pdf"
-    publisher: "MyIPO"
-  - title: "Notifying Copyright — forms and fees"
+    publisher: "மலேசிய அறிவுசார் சொத்து கழகம் (MyIPO)"
+  - title: "பதிப்புரிமை அறிவிப்பு — படிவங்கள் மற்றும் கட்டணங்கள் (Notifying Copyright — forms and fees)"
     url: "https://www.myipo.gov.my/notifying-copyright/"
-    publisher: "MyIPO"
-  - title: "Copyright Basic — criteria, duration and rights"
+    publisher: "மலேசிய அறிவுசார் சொத்து கழகம் (MyIPO)"
+  - title: "பதிப்புரிமை அடிப்படை — அளவுகோல்கள், காலம் மற்றும் உரிமைகள் (Copyright Basic — criteria, duration and rights)"
     url: "https://www.myipo.gov.my/copyright-basic/"
-    publisher: "MyIPO"
-  - title: "Copyright (Reduction of Fee) Regulations 2025, P.U. (A) 130/2025"
+    publisher: "மலேசிய அறிவுசார் சொத்து கழகம் (MyIPO)"
+  - title: "பதிப்புரிமை (கட்டணக் குறைப்பு) விதிமுறைகள் 2025, P.U. (A) 130/2025 (Copyright (Reduction of Fee) Regulations 2025, P.U. (A) 130/2025)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2831290/P.U.%20(A)%20130_2025.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "வழக்கறிஞர் தலைமை அலுவலகம் (AGC)"
     date: "2025-04-23"
 
 entity: "Copyright in Malaysia"

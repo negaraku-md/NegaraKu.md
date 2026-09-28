@@ -55,15 +55,15 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "ISA 706 (Revised), Emphasis of Matter Paragraphs and Other Matter Paragraphs in the Independent Auditor's Report"
+  - title: "ISA 706 (개정), 독립 감사인 보고서의 강조 사항 문단 및 기타 사항 문단 (ISA 706 (Revised), Emphasis of Matter Paragraphs and Other Matter Paragraphs in the Independent Auditor's Report)"
     url: "https://mia.org.my/box/2022/04/ISA_706_Revised-1.pdf"
-    publisher: "MIA"
-  - title: "ISA 701, Communicating Key Audit Matters in the Independent Auditor's Report"
+    publisher: "말레이시아 회계사협회 (MIA)"
+  - title: "ISA 701, 독립 감사인 보고서상 핵심감사사항의 커뮤니케이션 (ISA 701, Communicating Key Audit Matters in the Independent Auditor's Report)"
     url: "https://mia.org.my/wp-content/uploads/2022/04/MIA_ISA_701-1.pdf"
-    publisher: "MIA"
-  - title: "AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016"
+    publisher: "말레이시아 회계사협회 (MIA)"
+  - title: "AAPG 1 — MFRS 프레임워크 및 Companies Act 2016에 따라 작성된 재무제표에 대한 감사인 보고서 (AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_1-1.pdf"
-    publisher: "MIA"
+    publisher: "말레이시아 회계사협회 (MIA)"
     date: "2021-06-01"
 
 entity: "강조사항 문단"

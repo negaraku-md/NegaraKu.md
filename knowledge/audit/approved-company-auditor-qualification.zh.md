@@ -54,18 +54,18 @@ verificationNeeded:
   - "资格表中的诚信一行：法定条文（seksyen 264）并未就欺诈／不诚实定罪规定任何期限（无限制）。请核实 JANM 的行政指引是否设定了任何特定期限。"
 updated: 2026-08-08
 sources:
-  - title: "Approval & Licence Renewal of Auditor / Company Liquidator (FAQ)"
+  - title: "审计师／公司清盘人的批准及执照更新（常见问题） (Approval & Licence Renewal of Auditor / Company Liquidator (FAQ))"
     url: "https://www.anm.gov.my/en/faqs/approval-licence-renewal-of-auditor-company-liquidator"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "Who can be an Auditor and sign the Auditor's Report?"
+    publisher: "马来西亚会计总署 (JANM)"
+  - title: "谁可以担任审计师并签署审计师报告？ (Who can be an Auditor and sign the Auditor's Report?)"
     url: "https://ccs-co.com/post/who-can-be-an-auditor-and-sign-the-auditor-s-report/"
     publisher: "CCS & Co (Chartered Accountants)"
-  - title: "Companies Act 2016 (Act 777) — official reprint (ss.263 & 264)"
+  - title: "Companies Act 2016 (Act 777) — 官方重印本（第263及264条） (Companies Act 2016 (Act 777) — official reprint (ss.263 & 264))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Guidelines Pursuant to Subsection 264(4A) of the Companies Act 2016"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "根据 Companies Act 2016 第264(4A)款制定的指南 (Guidelines Pursuant to Subsection 264(4A) of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/01_Guidelines%20Pursuant%20to%20Section%20264(4A)%20of%20the%20CA%202016.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 entity: "Juruaudit Syarikat yang Diluluskan"
 relations:

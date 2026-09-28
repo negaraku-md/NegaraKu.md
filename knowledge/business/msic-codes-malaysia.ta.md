@@ -57,18 +57,18 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "MSIC — data catalogue"
+  - title: "MSIC — தரவு பட்டியல் (MSIC — data catalogue)"
     url: "https://open.dosm.gov.my/data-catalogue/msic"
-    publisher: "Department of Statistics Malaysia (DOSM)"
-  - title: "Sistem MSIC 2008"
+    publisher: "மலேசியா புள்ளியியல் திணைக்களம் (DOSM)"
+  - title: "MSIC 2008 அமைப்பு (Sistem MSIC 2008)"
     url: "https://msic.stats.gov.my/bi/"
-    publisher: "Department of Statistics Malaysia (DOSM)"
-  - title: "SSM MSIC Code"
+    publisher: "மலேசியா புள்ளியியல் திணைக்களம் (DOSM)"
+  - title: "SSM MSIC குறியீடு (SSM MSIC Code)"
     url: "https://www.ssm.com.my/Pages/Publication/SSM%20MSIC%20Code/SSM-MSIC-Code.aspx"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "நிறுவனங்கள் சட்டம் 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Malaysia Standard Industrial Classification (MSIC)"
 relations:

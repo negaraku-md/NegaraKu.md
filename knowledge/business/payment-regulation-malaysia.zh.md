@@ -48,23 +48,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Financial Services Act 2013 (Act 758)"
+  - title: "2013年金融服务法令 (Act 758) (Financial Services Act 2013 (Act 758))"
     url: "https://www.investmalaysia.gov.my/media/xrnl0vfp/financial-services-act-2013.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "Financial Services (Limited Purpose Electronic Money) (Exemption) Order 2024, P.U.(A) 463/2024"
+    publisher: "总检察署"
+  - title: "2024年金融服务（有限用途电子货币）（豁免）令，P.U.(A) 463/2024 (Financial Services (Limited Purpose Electronic Money) (Exemption) Order 2024, P.U.(A) 463/2024)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2596772/PUA%20463.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "总检察署"
     date: "2024-12-30"
-  - title: "Financial Services (Minimum Amount of Capital Funds) (Approved Person) (Amendment) Order 2022, P.U.(A) 403/2022"
+  - title: "2022年金融服务（资本资金最低额）（获批准人士）（修正）令，P.U.(A) 403/2022 (Financial Services (Minimum Amount of Capital Funds) (Approved Person) (Amendment) Order 2022, P.U.(A) 403/2022)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/1754230/P.U.%20(A)%20403_2022%20(Perintah%20Perkhidmatan%20Kewangan%20(Amaun%20Minimum%20Dana%20Modal).pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "总检察署"
     date: "2022-12-29"
-  - title: "Financial Services (Designated Payment Instruments) Order 2013, P.U.(A) 202/2013"
+  - title: "2013年金融服务（指定支付工具）令，P.U.(A) 202/2013 (Financial Services (Designated Payment Instruments) Order 2013, P.U.(A) 202/2013)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20130629_P.U.%20(A)%20202.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "Payment Systems — Gazette Orders"
+    publisher: "总检察署"
+  - title: "支付系统 — 宪报令 (Payment Systems — Gazette Orders)"
     url: "https://www.bnm.gov.my/gazette-order"
-    publisher: "Bank Negara Malaysia"
+    publisher: "马来西亚国家银行"
 
 entity: "Payment services regulation in Malaysia"
 relations:

@@ -45,16 +45,16 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Rumah Tradisional Pembesar Istana NS Didirikan di UPM Sebagai Muzium Warisan"
+  - title: "森美兰宫廷显贵传统屋在博特拉大学重建为传承博物馆 (Rumah Tradisional Pembesar Istana NS Didirikan di UPM Sebagai Muzium Warisan)"
     url: "https://upm.edu.my/berita/rumah_tradisional_pembesar_istana_ns_didirikan_di_upm_sebagai_muzium_warisan-24851"
     publisher: "Universiti Putra Malaysia"
-  - title: "Rumah Tradisional Terengganu: Warisan Seni Bina Melayu"
+  - title: "丁加奴传统屋：马来建筑艺术遗产 (Rumah Tradisional Terengganu: Warisan Seni Bina Melayu)"
     url: "https://www.discoveryterengganu.com/en/rumah-tradisional-terengganu/"
     publisher: "Discovery Terengganu"
-  - title: "Rumah Tradisional Melayu: Antara Seni, Sains Kuno & Realiti"
+  - title: "马来传统屋：介于艺术、古代科学与现实之间 (Rumah Tradisional Melayu: Antara Seni, Sains Kuno & Realiti)"
     url: "https://www.majalahsains.com/rumah-tradisional-melayu-antara-seni-sains-kuno-realiti/"
     publisher: "Majalah Sains"
-  - title: "History and Architecture of the Longhouse"
+  - title: "长屋的历史与建筑 (History and Architecture of the Longhouse)"
     url: "https://kuchinginandout.com/2020/04/17/history-and-architecture-of-the-longhouse/"
     publisher: "Kuching In & Out"
     date: "2020-04-17"

@@ -87,19 +87,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Limited Liability Partnerships Act 2012 (Act 743)"
+  - title: "2012년 유한책임조합법 (Act 743) (Limited Liability Partnerships Act 2012 (Act 743))"
     url: "https://www.ssm.com.my/Pages/About_SSM/PDF/LLP%20ACT%202012%20-%20For%20Portal_new.pdf"
-    publisher: "SSM"
-  - title: "Limited Liability Partnerships Regulations 2012"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "2012년 유한책임조합규정 (Limited Liability Partnerships Regulations 2012)"
     url: "https://www.ssm.com.my/Pages/About_SSM/PDF/LLP%20REGULATIONS%202012.pdf"
-    publisher: "SSM"
-  - title: "General Guidelines for Registration of Limited Liability Partnership and Related Matters"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "유한책임조합 등록 및 관련 사항에 관한 일반 지침 (General Guidelines for Registration of Limited Liability Partnership and Related Matters)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/General%20Guidelines%20on%20registration.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2013-02-05"
-  - title: "MyLLP User Manual — Registration"
+  - title: "MyLLP 사용자 설명서 — 등록 (MyLLP User Manual — Registration)"
     url: "https://www.ssm.com.my/Documents/Manual/REGISTRATION.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
 
 entity: "Limited liability partnership (Malaysia)"
 relations:

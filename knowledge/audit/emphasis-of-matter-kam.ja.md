@@ -55,15 +55,15 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "ISA 706 (Revised), Emphasis of Matter Paragraphs and Other Matter Paragraphs in the Independent Auditor's Report"
+  - title: "ISA 706（改訂版）、独立監査人報告書における強調事項区分およびその他の事項区分 (ISA 706 (Revised), Emphasis of Matter Paragraphs and Other Matter Paragraphs in the Independent Auditor's Report)"
     url: "https://mia.org.my/box/2022/04/ISA_706_Revised-1.pdf"
-    publisher: "MIA"
-  - title: "ISA 701, Communicating Key Audit Matters in the Independent Auditor's Report"
+    publisher: "マレーシア会計士協会 (MIA)"
+  - title: "ISA 701、独立監査人報告書における監査上の主要な検討事項の伝達 (ISA 701, Communicating Key Audit Matters in the Independent Auditor's Report)"
     url: "https://mia.org.my/wp-content/uploads/2022/04/MIA_ISA_701-1.pdf"
-    publisher: "MIA"
-  - title: "AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016"
+    publisher: "マレーシア会計士協会 (MIA)"
+  - title: "AAPG 1 — MFRSフレームワークおよびCompanies Act 2016に従って作成された財務諸表に関する監査人報告書 (AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_1-1.pdf"
-    publisher: "MIA"
+    publisher: "マレーシア会計士協会 (MIA)"
     date: "2021-06-01"
 
 entity: "Emphasis of Matter paragraph"

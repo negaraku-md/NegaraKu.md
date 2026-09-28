@@ -54,18 +54,18 @@ verificationNeeded:
   - "บรรทัดความซื่อสัตย์ในตารางคุณสมบัติ: ตัวบทกฎหมาย (มาตรา 264) ไม่ได้กำหนดระยะเวลาใด ๆ สำหรับการถูกพิพากษาว่ากระทำการฉ้อโกง/ความไม่ซื่อสัตย์ (เปิดกว้าง) ยืนยันว่าแนวปฏิบัติทางการบริหารของ JANM กำหนดระยะเวลาเฉพาะใด ๆ หรือไม่"
 updated: 2026-08-08
 sources:
-  - title: "Approval & Licence Renewal of Auditor / Company Liquidator (FAQ)"
+  - title: "การอนุมัติและการต่ออายุใบอนุญาตของผู้สอบบัญชี / ผู้ชำระบัญชีบริษัท (คำถามที่พบบ่อย) (Approval & Licence Renewal of Auditor / Company Liquidator (FAQ))"
     url: "https://www.anm.gov.my/en/faqs/approval-licence-renewal-of-auditor-company-liquidator"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "Who can be an Auditor and sign the Auditor's Report?"
+    publisher: "กรมบัญชีกลางมาเลเซีย (JANM)"
+  - title: "ใครสามารถเป็นผู้สอบบัญชีและลงนามในรายงานของผู้สอบบัญชีได้? (Who can be an Auditor and sign the Auditor's Report?)"
     url: "https://ccs-co.com/post/who-can-be-an-auditor-and-sign-the-auditor-s-report/"
     publisher: "CCS & Co (Chartered Accountants)"
-  - title: "Companies Act 2016 (Act 777) — official reprint (ss.263 & 264)"
+  - title: "Companies Act 2016 (Act 777) — ฉบับพิมพ์ซ้ำอย่างเป็นทางการ (มาตรา 263 และ 264) (Companies Act 2016 (Act 777) — official reprint (ss.263 & 264))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Guidelines Pursuant to Subsection 264(4A) of the Companies Act 2016"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "แนวปฏิบัติตามมาตรา 264(4A) ของ Companies Act 2016 (Guidelines Pursuant to Subsection 264(4A) of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/01_Guidelines%20Pursuant%20to%20Section%20264(4A)%20of%20the%20CA%202016.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
 
 entity: "Juruaudit Syarikat yang Diluluskan"
 relations:

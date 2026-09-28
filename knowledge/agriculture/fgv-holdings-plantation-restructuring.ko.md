@@ -55,22 +55,22 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "FGV Embarks on a New Chapter Following Delisting from Bursa Malaysia"
+  - title: "FGV, 부르사 말레이시아 상장폐지 후 새로운 장 시작 (FGV Embarks on a New Chapter Following Delisting from Bursa Malaysia)"
     url: "https://www.fgvholdings.com/press_release/fgv-embarks-on-a-new-chapter-following-delisting-from-bursa-malaysia/"
     publisher: "FGV Holdings Berhad"
-  - title: "Company Overview"
+  - title: "회사 개요 (Company Overview)"
     url: "https://www.fgvholdings.com/about-fgv/company-overview/"
     publisher: "FGV Holdings Berhad"
-  - title: "FGV officially delisted from Bursa Malaysia"
+  - title: "FGV, 부르사 말레이시아에서 공식 상장폐지 (FGV officially delisted from Bursa Malaysia)"
     url: "https://www.thestar.com.my/business/business-news/2025/08/29/fgv-officially-delisted-from-bursa-malaysia"
     publisher: "The Star"
-  - title: "FGV Delisting Gives Felda Greater Latitude To Focus On Settlers' Returns, Shareholder Value"
+  - title: "FGV 상장폐지로 Felda, 정착민 수익과 주주가치에 집중할 여지 확대 (FGV Delisting Gives Felda Greater Latitude To Focus On Settlers' Returns, Shareholder Value)"
     url: "https://www.bernama.com/en/news.php?id=2461043"
     publisher: "Bernama"
-  - title: "FGV officially delisted from Bursa Malaysia — Felda"
+  - title: "FGV, 부르사 말레이시아에서 공식 상장폐지 — Felda (FGV officially delisted from Bursa Malaysia — Felda)"
     url: "https://www.sinardaily.my/article/729831/focus/money/fgv-officially-delisted-from-bursa-malaysia---felda"
     publisher: "Sinar Daily"
-  - title: "Palm oil giant Felda soars in stock market debut"
+  - title: "팜유 대기업 Felda, 증시 데뷔서 급등 (Palm oil giant Felda soars in stock market debut)"
     url: "https://www.deseret.com/2012/6/28/20421354/palm-oil-giant-felda-soars-in-stock-market-debut/"
     publisher: "Deseret News / Associated Press"
 

@@ -50,16 +50,16 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 2022년 8월 1일 기준 재인쇄본 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM (Suruhanjaya Syarikat Malaysia)"
-  - title: "International Standard on Auditing 580, Written Representations"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "국제감사기준 580, 서면 진술 (International Standard on Auditing 580, Written Representations)"
     url: "https://www.ifac.org/system/files/publications/files/A033%202012%20IAASB%20Handbook%20ISA%20580.pdf"
     publisher: "IFAC / International Auditing and Assurance Standards Board (IAASB)"
-  - title: "Company Directors' Responsibilities"
+  - title: "회사 이사의 책임 (Company Directors' Responsibilities)"
     url: "https://www.ssm.com.my/Pages/Publication/Booklet/document/Booklet%20-%20CDR%20(FINAL).pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Malaysia — Member Country Profile (Adoption of International Standards on Auditing)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "말레이시아 — 회원국 프로파일 (국제감사기준의 채택) (Malaysia — Member Country Profile (Adoption of International Standards on Auditing))"
     url: "https://www.ifac.org/about-ifac/membership/profile/malaysia"
     publisher: "IFAC (International Federation of Accountants)"
 

@@ -46,17 +46,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Notice 2 — Borrowing, Lending and Guarantee"
+  - title: "통지 2 — 차입, 대출 및 보증 (Notice 2 — Borrowing, Lending and Guarantee)"
     url: "https://www.bnm.gov.my/documents/20124/60360/Notice+2_Borrowing%2C+Lending+and+Guarantee_2+Oct+2025.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "말레이시아 중앙은행"
     date: "2025-10-01"
-  - title: "Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025"
+  - title: "외환정책 통지 (통합본), 2025년 10월 1일 시행 (Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025)"
     url: "https://www.bnm.gov.my/documents/20124/60360/Consolidated+Foreign+Exchange+Policy+Notices_2+Oct+2025_Update.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "말레이시아 중앙은행"
     date: "2025-10-01"
-  - title: "FAQs on Borrowing by Resident"
+  - title: "거주자의 차입에 관한 자주 묻는 질문 (FAQs on Borrowing by Resident)"
     url: "https://www.bnm.gov.my/documents/20124/60360/FAQs_Resident+Ringgit+and+FC+Borrowing.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "말레이시아 중앙은행"
 
 entity: "Foreign currency borrowing by residents"
 relations:

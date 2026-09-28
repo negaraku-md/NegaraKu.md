@@ -61,18 +61,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Contracts Act 1950 (Act 136), updated text"
+  - title: "ஒப்பந்தச் சட்டம் 1950 (Act 136), புதுப்பிக்கப்பட்ட உரை (Contracts Act 1950 (Act 136), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20136.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Limitation Act 1953 (Act 254), online version as at 1 September 2019"
+    publisher: "மலேசிய வழக்கறிஞர் தலைமை அலுவலகம் (AGC)"
+  - title: "வரம்புச் சட்டம் 1953 (Act 254), 2019 செப்டம்பர் 1 நிலவரப்படி இணையப் பதிப்பு (Limitation Act 1953 (Act 254), online version as at 1 September 2019)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1727530_BI/ACT%20254-Online%20version%20as%20at%201%20Sept%202019%20%282%29.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Arbitration Act 2005 (Act 646), reprint as at 1 November 2018"
+    publisher: "மலேசிய வழக்கறிஞர் தலைமை அலுவலகம் (AGC)"
+  - title: "நடுவர் சட்டம் 2005 (Act 646), 2018 நவம்பர் 1 நிலவரப்படி மறுபதிப்பு (Arbitration Act 2005 (Act 646), reprint as at 1 November 2018)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1700445_BI/Act%20646%20%28REPRINT%202018%29.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Laws of Malaysia — principal acts search"
+    publisher: "மலேசிய வழக்கறிஞர் தலைமை அலுவலகம் (AGC)"
+  - title: "மலேசியச் சட்டங்கள் — முதன்மைச் சட்டங்கள் தேடல் (Laws of Malaysia — principal acts search)"
     url: "https://lom.agc.gov.my/principal.php"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "மலேசிய வழக்கறிஞர் தலைமை அலுவலகம் (AGC)"
 
 entity: "Contracts Act 1950 (Act 136)"
 relations:

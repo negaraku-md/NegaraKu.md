@@ -50,18 +50,18 @@ revisions:
 
 updated: 2026-09-07
 sources:
-  - title: "Companies Act 2016 (Act 777)"
+  - title: "พระราชบัญญัติบริษัท 2016 (Act 777) (Companies Act 2016 (Act 777))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Public Ruling No. 2/2024: Investment Holding Company"
+    publisher: "สำนักงานอัยการสูงสุดมาเลเซีย"
+  - title: "คำวินิจฉัยสาธารณะที่ 2/2024: บริษัทโฮลดิ้งเพื่อการลงทุน (Public Ruling No. 2/2024: Investment Holding Company)"
     url: "https://www.hasil.gov.my/wp-content/uploads/public-ruling-no-2-2024-investment-holding-company.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Public Ruling No. 6/2016: Group Relief for Companies"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "คำวินิจฉัยสาธารณะที่ 6/2016: การบรรเทาภาษีแบบกลุ่มสำหรับบริษัท (Public Ruling No. 6/2016: Group Relief for Companies)"
     url: "https://phl.hasil.gov.my/pdf/pdfam/PR_6_2016.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Income Tax Act 1967 (Act 53)"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "พระราชบัญญัติภาษีเงินได้ 1967 (Act 53) (Income Tax Act 1967 (Act 53))"
     url: "https://www.hasil.gov.my/media/znonhmuj/20231101-income-tax-act-1967-act-53.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
 
 entity: "Holding Company (Malaysia)"
 relations:

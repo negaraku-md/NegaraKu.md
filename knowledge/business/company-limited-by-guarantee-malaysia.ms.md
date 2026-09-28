@@ -52,10 +52,10 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Guidelines on Company Limited by Guarantee (27 September 2021)"
+  - title: "Garis Panduan Syarikat Berhad Menurut Jaminan (27 September 2021) (Guidelines on Company Limited by Guarantee (27 September 2021))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/GUIDELINES-ON-COMPANY-LIMITED-BY-GUARANTEE-270921-Final.pdf"
-    publisher: "Companies Commission of Malaysia (SSM)"
-  - title: "Malaysia — Understanding Companies Limited by Guarantee: Legal Framework & Key Features"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Malaysia — Memahami Syarikat Berhad Menurut Jaminan: Rangka Kerja Perundangan & Ciri Utama (Malaysia — Understanding Companies Limited by Guarantee: Legal Framework & Key Features)"
     url: "https://conventuslaw.com/report/malaysia-understanding-companies-limited-by-guarantee-legal-framework-key-features/"
     publisher: "Conventus Law"
 

@@ -45,16 +45,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "พระราชบัญญัติภาษีเงินได้ ค.ศ. 1967 (Act 53) ฉบับพิมพ์ซ้ำ ณ วันที่ 21 พฤษภาคม 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
     date: "2024-05-21"
-  - title: "Finance Act 2024 (Act 862)"
+  - title: "พระราชบัญญัติการคลัง ค.ศ. 2024 (Act 862) (Finance Act 2024 (Act 862))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2592589_BI/Act%20862%20-FINANCE%20ACT%202024.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025"
+    publisher: "สำนักงานอัยการสูงสุด"
+  - title: "ประกาศนโยบายการแลกเปลี่ยนเงินตราต่างประเทศ (ฉบับรวม) มีผลบังคับใช้ 1 ตุลาคม 2025 (Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025)"
     url: "https://www.bnm.gov.my/documents/20124/60360/Consolidated+Foreign+Exchange+Policy+Notices_2+Oct+2025_Update.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "ธนาคารกลางมาเลเซีย"
     date: "2025-10-01"
 
 entity: "Profit and dividend repatriation from Malaysia"

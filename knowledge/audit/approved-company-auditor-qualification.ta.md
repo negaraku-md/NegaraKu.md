@@ -54,18 +54,18 @@ verificationNeeded:
   - "தகுதி அட்டவணையில் உள்ள ஒருமைப்பாட்டு வரிசை: சட்டப்பூர்வ உரை (Section 264) மோசடி/நேர்மையின்மைக்கான தண்டனைத் தீர்ப்பிற்கு எந்தக் காலக்கெடுவையும் நிர்ணயிக்கவில்லை (திறந்த-முடிவு). JANM நிர்வாக வழிகாட்டுதல்கள் ஏதேனும் குறிப்பிட்ட காலத்தை விதிக்கிறதா என்பதை உறுதிப்படுத்தவும்."
 updated: 2026-08-08
 sources:
-  - title: "Approval & Licence Renewal of Auditor / Company Liquidator (FAQ)"
+  - title: "தணிக்கையாளர் / நிறுவன கலைப்பாளர் அனுமதி மற்றும் உரிமம் புதுப்பித்தல் (அடிக்கடி கேட்கப்படும் கேள்விகள்) (Approval & Licence Renewal of Auditor / Company Liquidator (FAQ))"
     url: "https://www.anm.gov.my/en/faqs/approval-licence-renewal-of-auditor-company-liquidator"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "Who can be an Auditor and sign the Auditor's Report?"
+    publisher: "மலேசிய கணக்காளர் தலைமை திணைக்களம் (JANM)"
+  - title: "யார் தணிக்கையாளராக இருந்து தணிக்கையாளர் அறிக்கையில் கையெழுத்திட முடியும்? (Who can be an Auditor and sign the Auditor's Report?)"
     url: "https://ccs-co.com/post/who-can-be-an-auditor-and-sign-the-auditor-s-report/"
     publisher: "CCS & Co (Chartered Accountants)"
-  - title: "Companies Act 2016 (Act 777) — official reprint (ss.263 & 264)"
+  - title: "Companies Act 2016 (Act 777) — அதிகாரப்பூர்வ மறுபதிப்பு (பிரிவுகள் 263 & 264) (Companies Act 2016 (Act 777) — official reprint (ss.263 & 264))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Guidelines Pursuant to Subsection 264(4A) of the Companies Act 2016"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "Companies Act 2016 இன் உட்பிரிவு 264(4A) இன்படி வழிகாட்டுதல்கள் (Guidelines Pursuant to Subsection 264(4A) of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/01_Guidelines%20Pursuant%20to%20Section%20264(4A)%20of%20the%20CA%202016.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Juruaudit Syarikat yang Diluluskan"
 relations:

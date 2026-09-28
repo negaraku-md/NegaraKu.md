@@ -45,15 +45,15 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Partnership Act 1961 (Act 135), Revised 1974"
+  - title: "1961년 조합법 (Act 135), 1974년 개정 (Partnership Act 1961 (Act 135), Revised 1974)"
     url: "https://lom.agc.gov.my/act-detail.php?act=135&lang=BI"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    publisher: "말레이시아 법무장관실"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일 기준 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Registration of Business — Table of Fees"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "사업 등록 — 수수료표 (Registration of Business — Table of Fees)"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/table-of-fees/Table-of-Fees.aspx"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
 
 entity: "Conventional partnership (Malaysia)"
 relations:

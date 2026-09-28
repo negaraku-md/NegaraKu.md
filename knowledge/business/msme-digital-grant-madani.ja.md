@@ -48,15 +48,15 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "FAQ: Madani Micro, Small and Medium Enterprises (PMKS) Digital Grant (GDPM)"
+  - title: "よくある質問：マダニ零細・中小企業 (PMKS) デジタル助成金 (GDPM) (FAQ: Madani Micro, Small and Medium Enterprises (PMKS) Digital Grant (GDPM))"
     url: "https://www.bsn.com.my/cms/upload/pdf/business/msme_faq_aug_en.pdf"
     publisher: "Bank Simpanan Nasional (BSN)"
-  - title: "Geran Digital PMKS Madani — Digitalisation Partner announcement"
+  - title: "マダニPMKSデジタル助成金 — デジタル化パートナーの発表 (Geran Digital PMKS Madani — Digitalisation Partner announcement)"
     url: "https://www.mdec.my/announcement/digitalisation-partner-PMKS"
-    publisher: "Malaysia Digital Economy Corporation (MDEC)"
-  - title: "Initiatives & Grants"
+    publisher: "マレーシアデジタルエコノミー公社 (MDEC)"
+  - title: "イニシアチブと助成金 (Initiatives & Grants)"
     url: "https://www.mdec.my/grants"
-    publisher: "Malaysia Digital Economy Corporation (MDEC)"
+    publisher: "マレーシアデジタルエコノミー公社 (MDEC)"
 
 entity: "MSME Digital Grant MADANI (Geran Digital PMKS Madani)"
 relations:

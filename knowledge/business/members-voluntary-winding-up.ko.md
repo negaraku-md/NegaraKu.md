@@ -82,16 +82,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.432–463"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일자 재판, 제432–463조 (Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.432–463)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies (Amendment) Act 2024 (Act A1701), s.21 — amendment of section 433"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "2024년 회사(개정)법 (Act A1701), 제21조 — 제433조 개정 (Companies (Amendment) Act 2024 (Act A1701), s.21 — amendment of section 433)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-02-02"
-  - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016"
+  - title: "2016년 회사법 제550조에 따른 이사 또는 사원의 회사명 말소 신청 지침 (Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20_Section%20549_190419.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2019-04-19"
 
 entity: "Members' voluntary winding up"

@@ -77,18 +77,18 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일 기준 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "수수료표 — 회사 등록 (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
-  - title: "Declaration by a Person Before Appointment as Secretary, s.236(3)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "비서 임명 전 본인 선언, 제236(3)조 (Declaration by a Person Before Appointment as Secretary, s.236(3))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/declaration_by_person_before_appointment_as_secretary_s_2363_amended09.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "2016년 회사법 — 법적 체계 (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
 
 entity: "Company secretary (Malaysia)"
 relations:

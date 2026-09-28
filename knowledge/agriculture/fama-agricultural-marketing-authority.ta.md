@@ -54,19 +54,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Latar Belakang — FAMA"
+  - title: "பின்னணி — FAMA (Latar Belakang — FAMA)"
     url: "https://www.fama.gov.my/latar-belakang"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "Objektif / Undang-Undang — FAMA"
+    publisher: "கூட்டாட்சி வேளாண்மை சந்தைப்படுத்தல் ஆணையம் (FAMA)"
+  - title: "நோக்கங்கள் / சட்டம் — FAMA (Objektif / Undang-Undang — FAMA)"
     url: "https://www.fama.gov.my/objektif-undang-undang"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "Akta / Peraturan (Regulatori) — FAMA"
+    publisher: "கூட்டாட்சி வேளாண்மை சந்தைப்படுத்தல் ஆணையம் (FAMA)"
+  - title: "சட்டம் / விதிமுறைகள் (ஒழுங்குமுறை) — FAMA (Akta / Peraturan (Regulatori) — FAMA)"
     url: "https://www.fama.gov.my/akta-/-peraturan-regulatori"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "Soalan Lazim (FAQ) — FAMA"
+    publisher: "கூட்டாட்சி வேளாண்மை சந்தைப்படுத்தல் ஆணையம் (FAMA)"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் (FAQ) — FAMA (Soalan Lazim (FAQ) — FAMA)"
     url: "https://www.fama.gov.my/faq"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "FAMA outlets record RM122m of sales in less than two months"
+    publisher: "கூட்டாட்சி வேளாண்மை சந்தைப்படுத்தல் ஆணையம் (FAMA)"
+  - title: "FAMA விற்பனை நிலையங்கள் இரண்டு மாதங்களுக்குள் RM122 மில்லியன் விற்பனையைப் பதிவு செய்தன (FAMA outlets record RM122m of sales in less than two months)"
     url: "https://www.malaymail.com/news/malaysia/2021/10/24/fama-outlets-record-rm122m-of-sales-in-less-than-two-months/2015626"
     publisher: "Malay Mail"
 

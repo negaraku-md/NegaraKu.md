@@ -84,22 +84,22 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Table of Fees — Registration of Company (ROC), Companies Regulations 2017 (P.U.(A) 37)"
+  - title: "Biểu phí — Đăng ký công ty (ROC), Quy định Công ty 2017 (P.U.(A) 37) (Table of Fees — Registration of Company (ROC), Companies Regulations 2017 (P.U.(A) 37))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Đạo luật Công ty 2016 (Act 777), tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Hướng dẫn thành lập Văn phòng đại diện (RE) / Văn phòng khu vực (RO) (Guidelines for Setting Up a Representative Office (RE) / Regional Office (RO))"
     url: "https://www.mida.gov.my/wp-content/uploads/2023/05/RERO-GUIDELINE_17.05.23.pdf"
-    publisher: "MIDA"
+    publisher: "Cơ quan Phát triển Đầu tư Malaysia (MIDA)"
     date: "2023-03-24"
-  - title: "PD 10/2024 — Qualifying Criteria for Audit Exemption for Certain Categories of Private Companies"
+  - title: "PD 10/2024 — Tiêu chí đủ điều kiện miễn kiểm toán cho một số loại công ty tư nhân (PD 10/2024 — Qualifying Criteria for Audit Exemption for Certain Categories of Private Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
-  - title: "Regional Representative Office"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Văn phòng đại diện khu vực (Regional Representative Office)"
     url: "https://www.mida.gov.my/industries/services/regional-establishment/regional-representative-office/"
-    publisher: "MIDA"
+    publisher: "Cơ quan Phát triển Đầu tư Malaysia (MIDA)"
 
 entity: "Foreign company presence in Malaysia"
 relations:

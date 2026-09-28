@@ -59,20 +59,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777)、2022年8月1日現在の再版 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2022-08-01"
-  - title: "AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016"
+  - title: "AAPG 1 — MFRSフレームワークおよびCompanies Act 2016に従って作成された財務諸表に関する監査人報告書 (AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_1-1.pdf"
-    publisher: "MIA"
+    publisher: "マレーシア会計士協会 (MIA)"
     date: "2021-06-01"
-  - title: "Malaysian Accounting Standards Board — approved accounting standards"
+  - title: "マレーシア会計基準審議会 — 承認された会計基準 (Malaysian Accounting Standards Board — approved accounting standards)"
     url: "https://www.masb.org.my/pages.php?id=19"
-    publisher: "MASB"
-  - title: "ISA 580, Written Representations"
+    publisher: "マレーシア会計基準審議会 (MASB)"
+  - title: "ISA 580、経営者確認書 (ISA 580, Written Representations)"
     url: "https://mia.org.my/box/2022/04/ISA_580.pdf"
-    publisher: "MIA"
+    publisher: "マレーシア会計士協会 (MIA)"
 
 entity: "Audit request list (prepared by client)"
 relations:

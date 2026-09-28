@@ -44,12 +44,12 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일 기준 재판본 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "2016년 회사법 제550조에 따른 이사 또는 사원의 회사명 말소 신청에 관한 지침 (Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20_Section%20549_190419.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2019-04-19"
 
 entity: "Sdn Bhd"

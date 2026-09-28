@@ -82,18 +82,18 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일자 재판 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines for the Incorporation of Local Companies"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "국내 회사 설립 지침 (Guidelines for the Incorporation of Local Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/GUIDELINES/4.-Guidelines-For-Incorporation-Of-A-Local-Company.pdf"
-    publisher: "SSM"
-  - title: "Company Directors' Responsibilities"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "회사 이사의 책임 (Company Directors' Responsibilities)"
     url: "https://www.ssm.com.my/Pages/Publication/Booklet/document/Booklet%20-%20CDR%20(FINAL).pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "2016년 회사법 — 법적 체계 (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
 
 entity: "Resident director requirement (Malaysia)"
 relations:

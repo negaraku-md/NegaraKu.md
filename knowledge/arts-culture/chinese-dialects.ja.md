@@ -48,22 +48,22 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Current Population Estimates, Malaysia, 2024（公民族群构成：华人约 22.4%）"
+  - title: "マレーシア現在人口推計、2024（市民の民族構成：華人約22.4%） (Current Population Estimates, Malaysia, 2024（公民族群构成：华人约 22.4%）)"
     url: "https://www.bernama.com/en/news.php?id=2323839"
-    publisher: "BERNAMA，引述马来西亚统计局（DOSM）"
+    publisher: "BERNAMA、マレーシア統計局 (DOSM) を引用"
     date: "2024"
-  - title: "Demographic Statistics, Malaysia — 人口数据目录"
+  - title: "人口統計、マレーシア — 人口データカタログ (Demographic Statistics, Malaysia — 人口数据目录)"
     url: "https://open.dosm.gov.my/data-catalogue/population_malaysia"
-    publisher: "马来西亚统计局（DOSM）"
-  - title: "The Hakkas of Malaysia to 1970: Population, Livelihood, and Culture（含 1970 年普查方言群构成）"
+    publisher: "マレーシア統計局 (DOSM)"
+  - title: "1970年までのマレーシアの客家：人口、生業、文化（1970年センサスの方言集団構成を含む） (The Hakkas of Malaysia to 1970: Population, Livelihood, and Culture（含 1970 年普查方言群构成）)"
     url: "https://ejournal.newera.edu.my/mjcs/article/view/23"
-    publisher: "Malaysian Journal of Chinese Studies（新纪元大学学院）"
-  - title: "Huang Naishang and 'New Foochow': A Transoceanic Collective Pioneering Experiment（诗巫「新福州」移民史）"
+    publisher: "Malaysian Journal of Chinese Studies（ニューエラ大学カレッジ）"
+  - title: "黄乃裳と『新福州』：海を越えた集団的開拓の試み（シブの「新福州」移民史） (Huang Naishang and 'New Foochow': A Transoceanic Collective Pioneering Experiment（诗巫「新福州」移民史）)"
     url: "https://chinaroots.org/en/posts/wong-nai-siong-sibu-migration/"
     publisher: "ChinaRoots — Digital Local Chronicles"
-  - title: "Federal Constitution — Article 152（国语与其他语言之使用、教学与学习）"
+  - title: "連邦憲法 — 第152条（国語およびその他の言語の使用・教授・学習） (Federal Constitution — Article 152（国语与其他语言之使用、教学与学习）)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "总检察署（Attorney General's Chambers, AGC）"
+    publisher: "司法長官府 (AGC)"
 entity: "马来西亚华人汉语方言"
 relations:
   - { rel: "part-of", to: "malaysia" }

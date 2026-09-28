@@ -47,15 +47,15 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026"
+  - title: "Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026)"
     url: "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
     publisher: "Bahagian Kabinet, Perlembagaan dan Perhubungan Antara Kerajaan, Jabatan Perdana Menteri"
     date: "2025-08-01"
-  - title: "Launching of Report on the Key Findings Population and Housing Census of Malaysia 2020"
+  - title: "Pelancaran Laporan Penemuan Utama Banci Penduduk dan Perumahan Malaysia 2020 (Launching of Report on the Key Findings Population and Housing Census of Malaysia 2020)"
     url: "https://www.dosm.gov.my/portal-main/release-content/launching-of-report-on-the-key-findings-population-and-housing-census-of-malaysia-2020-"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
     date: "2022-02-14"
-  - title: "Diwali"
+  - title: "Diwali (Diwali)"
     url: "https://en.wikipedia.org/wiki/Diwali"
     publisher: "Wikipedia"
 entity: "Deepavali (Malaysia)"

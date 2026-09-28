@@ -61,18 +61,18 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants — Section 540 and Section 600"
+  - title: "马来西亚会计师公会（关于职业道德、操守与执业）附则 — 第540节及第600节 (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants — Section 540 and Section 600)"
     url: "https://mia.org.my/wp-content/uploads/2024/04/MIA-By-Laws-2024-UPDATED.pdf"
-    publisher: "Malaysian Institute of Accountants"
-  - title: "Audit Firm and Audit Partner Fined for Breach of Partner Rotation Requirement"
+    publisher: "马来西亚会计师公会 (MIA)"
+  - title: "审计事务所及审计合伙人因违反合伙人轮换规定而被罚款 (Audit Firm and Audit Partner Fined for Breach of Partner Rotation Requirement)"
     url: "https://www.sc.com.my/resources/media/media-release/audit-firm-and-audit-partner-fined-for-breach-of-partner-rotation-requirement"
-    publisher: "Securities Commission Malaysia"
-  - title: "Ethics Standards Board Annual Report 2018 — Changes in Audit Partner Rotation Requirements"
+    publisher: "马来西亚证券委员会"
+  - title: "道德准则理事会2018年年度报告 — 审计合伙人轮换规定的变更 (Ethics Standards Board Annual Report 2018 — Changes in Audit Partner Rotation Requirements)"
     url: "https://mia.org.my/wp-content/uploads/2022/04/MIA_ESB_Annual_Report_2018.pdf"
-    publisher: "Malaysian Institute of Accountants"
-  - title: "MIA Enhances its Professional Ethics Standards on Public Interest Entities, Effective 15 December 2024"
+    publisher: "马来西亚会计师公会 (MIA)"
+  - title: "MIA 加强其关于公众利益实体的职业道德准则，自2024年12月15日起生效 (MIA Enhances its Professional Ethics Standards on Public Interest Entities, Effective 15 December 2024)"
     url: "https://mia.org.my/mia-enhances-its-professional-ethics-standards-on-public-interest-entities-effective-15-december-2024/"
-    publisher: "Malaysian Institute of Accountants"
+    publisher: "马来西亚会计师公会 (MIA)"
 
 entity: "Malaysian Institute of Accountants"
 wikidata: "Q6741971"

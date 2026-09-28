@@ -49,15 +49,15 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Registration of Businesses Act 1956 (Act 197), reprint as at 1 June 2017 — sections 5, 5A, 5D, 5E, 12"
+  - title: "வணிகப் பதிவுச் சட்டம் 1956 (Act 197), 2017 ஜூன் 1 நிலவரப்படி மறுபதிப்பு — பிரிவுகள் 5, 5A, 5D, 5E, 12 (Registration of Businesses Act 1956 (Act 197), reprint as at 1 June 2017 — sections 5, 5A, 5D, 5E, 12)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/ROBA%201956_Act%20197_as%20at%201%20June%202017.pdf"
-    publisher: "SSM"
-  - title: "Guideline for Termination of Business"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "வணிகத்தை நிறுத்துவதற்கான வழிகாட்டி (Guideline for Termination of Business)"
     url: "https://www.ssm.com.my/Documents/Ezbiz%20Online%20User%20Guideline/GUIDELINE-FOR-TERMINATION-OF-BUSINESS.pdf"
-    publisher: "SSM"
-  - title: "Tax Clearance Letter (Surat Penyelesaian Cukai / SPC)"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "வரி இணக்கக் கடிதம் (Tax Clearance Letter (Surat Penyelesaian Cukai / SPC))"
     url: "https://www.hasil.gov.my/en/individual/others/termination-of-service-employment/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Sole Proprietorship / Partnership (Malaysia)"
 relations:

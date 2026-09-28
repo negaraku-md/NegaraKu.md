@@ -61,21 +61,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Anti-Money Laundering, Countering Financing of Terrorism, Countering Proliferation Financing and Targeted Financial Sanctions for Financial Institutions (BNM/RH/PD 030-14)"
+  - title: "நிதி நிறுவனங்களுக்கான பணமோசடி தடுப்பு, பயங்கரவாத நிதியளிப்பு எதிர்ப்பு, பரவல் நிதியளிப்பு எதிர்ப்பு மற்றும் இலக்கு நிதிச் தடைகள் (BNM/RH/PD 030-14) (Anti-Money Laundering, Countering Financing of Terrorism, Countering Proliferation Financing and Targeted Financial Sanctions for Financial Institutions (BNM/RH/PD 030-14))"
     url: "https://www.bnm.gov.my/documents/20124/938039/pd-AMLCFTCPF-TFS-FI-Feb2024_+2.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "மலேசிய மத்திய வங்கி (BNM)"
     date: "2024-02-05"
-  - title: "Policy Document on AML/CFT/CPF and TFS for Financial Institutions — issuance notice"
+  - title: "நிதி நிறுவனங்களுக்கான AML/CFT/CPF மற்றும் TFS கொள்கை ஆவணம் — வெளியீட்டு அறிவிப்பு (Policy Document on AML/CFT/CPF and TFS for Financial Institutions — issuance notice)"
     url: "https://www.bnm.gov.my/-/pd-amlcftcpftfs-fi"
-    publisher: "Bank Negara Malaysia"
+    publisher: "மலேசிய மத்திய வங்கி (BNM)"
     date: "2024-02-05"
-  - title: "Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025"
+  - title: "அன்னியச் செலாவணிக் கொள்கை அறிவிப்புகள் (ஒருங்கிணைக்கப்பட்டவை), 2025 அக்டோபர் 1 முதல் அமல் (Foreign Exchange Policy Notices (Consolidated), in operation 1 October 2025)"
     url: "https://www.bnm.gov.my/documents/20124/60360/Consolidated+Foreign+Exchange+Policy+Notices_2+Oct+2025_Update.pdf"
-    publisher: "Bank Negara Malaysia"
+    publisher: "மலேசிய மத்திய வங்கி (BNM)"
     date: "2025-10-01"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Corporate bank account opening in Malaysia"
 relations:

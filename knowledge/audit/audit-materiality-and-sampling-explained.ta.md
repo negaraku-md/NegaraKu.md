@@ -52,16 +52,16 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "ISA 320, Materiality in Planning and Performing an Audit (2013 IAASB Handbook, Volume I)"
+  - title: "ISA 320, தணிக்கையைத் திட்டமிடுதல் மற்றும் நிறைவேற்றுதலில் முக்கியத்துவம் (2013 IAASB Handbook, Volume I) (ISA 320, Materiality in Planning and Performing an Audit (2013 IAASB Handbook, Volume I))"
     url: "https://www.iaasb.org/publications/2013-handbook-international-quality-control-auditing-review-other-assurance-and-related-services"
     publisher: "International Auditing and Assurance Standards Board (IAASB)"
-  - title: "ISA 450, Evaluation of Misstatements Identified during the Audit (2013 IAASB Handbook, Volume I)"
+  - title: "ISA 450, தணிக்கையின்போது கண்டறியப்பட்ட தவறான கூற்றுகளின் மதிப்பீடு (2013 IAASB Handbook, Volume I) (ISA 450, Evaluation of Misstatements Identified during the Audit (2013 IAASB Handbook, Volume I))"
     url: "https://www.iaasb.org/publications/2013-handbook-international-quality-control-auditing-review-other-assurance-and-related-services"
     publisher: "International Auditing and Assurance Standards Board (IAASB)"
-  - title: "ISA 530, Audit Sampling (2013 IAASB Handbook, Volume I)"
+  - title: "ISA 530, தணிக்கை மாதிரியெடுப்பு (2013 IAASB Handbook, Volume I) (ISA 530, Audit Sampling (2013 IAASB Handbook, Volume I))"
     url: "https://www.iaasb.org/publications/2013-handbook-international-quality-control-auditing-review-other-assurance-and-related-services"
     publisher: "International Auditing and Assurance Standards Board (IAASB)"
-  - title: "Malaysia — IFAC Member Country Profile"
+  - title: "மலேசியா — IFAC உறுப்பு நாட்டு விவரக்குறிப்பு (Malaysia — IFAC Member Country Profile)"
     url: "https://www.ifac.org/about-ifac/membership/profile/malaysia"
     publisher: "International Federation of Accountants (IFAC)"
 

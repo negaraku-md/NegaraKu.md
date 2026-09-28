@@ -49,22 +49,22 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Current Population Estimates, Malaysia, 2024（公民族群构成：华人约 22.4%）"
+  - title: "மலேசியாவின் தற்போதைய மக்கள்தொகை மதிப்பீடுகள், 2024 (குடிமக்களின் இனக்குழு அமைப்பு: சீனர் சுமார் 22.4%) (Current Population Estimates, Malaysia, 2024（公民族群构成：华人约 22.4%）)"
     url: "https://www.bernama.com/en/news.php?id=2323839"
-    publisher: "BERNAMA，引述马来西亚统计局（DOSM）"
+    publisher: "BERNAMA, மலேசியா புள்ளியியல் துறை (DOSM) ஐ மேற்கோள் காட்டி"
     date: "2024"
-  - title: "Demographic Statistics, Malaysia — 人口数据目录"
+  - title: "மக்கள்தொகை புள்ளிவிவரங்கள், மலேசியா — மக்கள்தொகைத் தரவுப் பட்டியல் (Demographic Statistics, Malaysia — 人口数据目录)"
     url: "https://open.dosm.gov.my/data-catalogue/population_malaysia"
-    publisher: "马来西亚统计局（DOSM）"
-  - title: "The Hakkas of Malaysia to 1970: Population, Livelihood, and Culture（含 1970 年普查方言群构成）"
+    publisher: "மலேசியா புள்ளியியல் துறை (DOSM)"
+  - title: "1970 வரையிலான மலேசியாவின் ஹக்கா மக்கள்: மக்கள்தொகை, வாழ்வாதாரம் மற்றும் கலாச்சாரம் (1970 மக்கள்தொகைக் கணக்கெடுப்பின் கிளைமொழிக் குழு அமைப்பு உட்பட) (The Hakkas of Malaysia to 1970: Population, Livelihood, and Culture（含 1970 年普查方言群构成）)"
     url: "https://ejournal.newera.edu.my/mjcs/article/view/23"
-    publisher: "Malaysian Journal of Chinese Studies（新纪元大学学院）"
-  - title: "Huang Naishang and 'New Foochow': A Transoceanic Collective Pioneering Experiment（诗巫「新福州」移民史）"
+    publisher: "Malaysian Journal of Chinese Studies (New Era University College)"
+  - title: "ஹுவாங் நைஷாங் மற்றும் 'New Foochow': கடல் கடந்த கூட்டு முன்னோடிப் பரிசோதனை (சிபு 'New Foochow' குடியேற்ற வரலாறு) (Huang Naishang and 'New Foochow': A Transoceanic Collective Pioneering Experiment（诗巫「新福州」移民史）)"
     url: "https://chinaroots.org/en/posts/wong-nai-siong-sibu-migration/"
     publisher: "ChinaRoots — Digital Local Chronicles"
-  - title: "Federal Constitution — Article 152（国语与其他语言之使用、教学与学习）"
+  - title: "கூட்டாட்சி அரசியலமைப்பு — பிரிவு 152 (தேசிய மொழி மற்றும் பிற மொழிகளின் பயன்பாடு, கற்பித்தல் மற்றும் கற்றல்) (Federal Constitution — Article 152（国语与其他语言之使用、教学与学习）)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "总检察署（Attorney General's Chambers, AGC）"
+    publisher: "சட்ட மா அதிபர் அலுவலகம் (AGC)"
 entity: "马来西亚华人汉语方言"
 relations:
   - { rel: "part-of", to: "malaysia" }

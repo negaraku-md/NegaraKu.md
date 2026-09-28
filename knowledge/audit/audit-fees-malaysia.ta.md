@@ -58,17 +58,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "RPG 7 (Revised) — A Guide to Charging for Professional Assurance Services (Withdrawn with effect from 1 June 2015)"
+  - title: "RPG 7 (திருத்தப்பட்டது) — தொழில்முறை உறுதிப்படுத்தல் சேவைகளுக்கான கட்டணம் வசூலிப்பதற்கான வழிகாட்டி (1 ஜூன் 2015 முதல் திரும்பப் பெறப்பட்டது) (RPG 7 (Revised) — A Guide to Charging for Professional Assurance Services (Withdrawn with effect from 1 June 2015))"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_RPG_07_2010_REVISED.pdf"
-    publisher: "MIA"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
     date: "2010-03-01"
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024"
+  - title: "மலேசிய கணக்காளர்கள் நிறுவனத்தின் (தொழில்முறை நெறிமுறைகள், நடத்தை மற்றும் நடைமுறை குறித்த) துணை விதிகள், 5 நவம்பர் 2024 அன்று புதுப்பிக்கப்பட்டது (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024)"
     url: "https://mia.org.my/wp-content/uploads/2024/11/By-Laws-updated-Nov-2024-%E2%80%93-Effective-15-December-2024.pdf"
-    publisher: "MIA"
+    publisher: "மலேசிய கணக்காளர்கள் நிறுவனம் (MIA)"
     date: "2024-11-05"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 1 ஆகஸ்ட் 2022 நிலவரப்படி மறுபதிப்பு (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
 
 entity: "Statutory audit fees"

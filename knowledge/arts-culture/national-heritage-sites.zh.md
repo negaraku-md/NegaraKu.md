@@ -49,19 +49,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "National Heritage Act 2005 (Act 645) — Laws of Malaysia Reprint"
+  - title: "National Heritage Act 2005 (Act 645) — Laws of Malaysia 重印本 (National Heritage Act 2005 (Act 645) — Laws of Malaysia Reprint)"
     url: "https://gtwhi.com.my/wp-content/uploads/2020/12/National-Heritage-Act-2005.pdf"
-    publisher: "Pesuruhjaya Penyemak Undang-Undang Malaysia (cetakan semula)"
-  - title: "Bahagian Daftar Warisan"
+    publisher: "马来西亚法律修订专员署（重印本）"
+  - title: "遗产登记组 (Bahagian Daftar Warisan)"
     url: "https://www.heritage.gov.my/en/kenali-daftar-warisan.html"
-    publisher: "Jabatan Warisan Negara"
-  - title: "Senarai Objek Tidak Ketara Status Warisan"
+    publisher: "国家文物局"
+  - title: "具遗产地位的非物质对象清单 (Senarai Objek Tidak Ketara Status Warisan)"
     url: "https://www.heritage.gov.my/en/pengiktirafan-pengisytiharan/warisan/objek/objek-warisan-tidak-ketara.html"
-    publisher: "Jabatan Warisan Negara"
-  - title: "Objek Warisan Kebangsaan"
+    publisher: "国家文物局"
+  - title: "国家文物 (Objek Warisan Kebangsaan)"
     url: "https://www.jmm.gov.my/ms/content/objek-warisan-kebangsaan"
-    publisher: "Jabatan Muzium Malaysia"
-  - title: "What Is A 'Malaysian National Heritage' & How Are They Gazetted"
+    publisher: "马来西亚博物馆局"
+  - title: "什么是 'Malaysian National Heritage'（马来西亚国家遗产）及其如何被宪报颁布 (What Is A 'Malaysian National Heritage' & How Are They Gazetted)"
     url: "https://www.therakyatpost.com/living/2021/04/25/what-is-a-malaysian-national-heritage-how-are-they-gazetted/"
     publisher: "The Rakyat Post"
 

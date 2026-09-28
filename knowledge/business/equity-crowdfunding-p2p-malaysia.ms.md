@@ -62,22 +62,22 @@ revisions:
 
 updated: 2026-07-21
 sources:
-  - title: "Guidelines on Recognized Markets, SC-GL/6-2015 (R14-2026), effective 20 May 2026"
+  - title: "Garis Panduan Pasaran Diiktiraf, SC-GL/6-2015 (R14-2026), berkuat kuasa 20 Mei 2026 (Guidelines on Recognized Markets, SC-GL/6-2015 (R14-2026), effective 20 May 2026)"
     url: "https://www.sc.com.my/regulation/guidelines/recognizedmarkets"
-    publisher: "Securities Commission Malaysia"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
     date: "2026-05-20"
-  - title: "Capital Markets and Services Act 2007 (Act 671), s.34 — recognized market operator"
+  - title: "Akta Pasaran Modal dan Perkhidmatan 2007 (Act 671), s.34 — pengendali pasaran diiktiraf (Capital Markets and Services Act 2007 (Act 671), s.34 — recognized market operator)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20671%20-%2023-11-2017.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "SC Digital Initiatives — registered recognized market operators"
+    publisher: "Jabatan Peguam Negara"
+  - title: "Inisiatif Digital SC — pengendali pasaran diiktiraf yang berdaftar (SC Digital Initiatives — registered recognized market operators)"
     url: "https://www.sc.com.my/development/digital/digital-initiatives"
-    publisher: "Securities Commission Malaysia"
-  - title: "ECF and P2P Financing Fuelling MSME Growth — Annual Report 2024"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
+  - title: "ECF dan Pembiayaan P2P Memacu Pertumbuhan PMKS — Laporan Tahunan 2024 (ECF and P2P Financing Fuelling MSME Growth — Annual Report 2024)"
     url: "https://www.sc.com.my/annual-report-2024/strengthening-the-sustainability-and-competitiveness-of-the-capital-market/ecf-and-p2p-financing-fuelling-msme-growth-in-advancing-ekonomi-madani"
-    publisher: "Securities Commission Malaysia"
-  - title: "Equity Crowdfunding — frequently asked questions"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
+  - title: "Pembiayaan Ramai Ekuiti — soalan lazim (Equity Crowdfunding — frequently asked questions)"
     url: "https://www.sc.com.my/development/digital/equity-crowdfunding"
-    publisher: "Securities Commission Malaysia"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
 
 entity: "Equity crowdfunding and peer-to-peer financing in Malaysia"
 relations:

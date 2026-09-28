@@ -59,17 +59,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 2022년 8월 1일 기준 재인쇄본 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024"
+  - title: "말레이시아 회계사협회의 부칙 (직업윤리·행동·실무에 관한), 2024년 11월 5일 갱신 (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024)"
     url: "https://mia.org.my/wp-content/uploads/2024/11/By-Laws-updated-Nov-2024-%E2%80%93-Effective-15-December-2024.pdf"
-    publisher: "MIA"
+    publisher: "말레이시아 회계사협회 (MIA)"
     date: "2024-11-05"
-  - title: "Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties"
+  - title: "실무지침 제1/2017호 (2024년 10월 1일 개정) — 지연 제출 벌금 (Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-10-01"
 
 entity: "회사 감사인의 해임과 사임"

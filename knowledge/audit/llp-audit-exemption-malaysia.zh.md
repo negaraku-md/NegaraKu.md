@@ -49,12 +49,12 @@ verificationNeeded:
   - "「Amalan profesional」段落是关于专业团体（如 MIA）要求的笼统概括，并未获得 sources[] 中任何法定来源支持；发布前请核实或删除。"
 updated: 2026-08-08
 sources:
-  - title: "Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia)"
+  - title: "Act 743 — Limited Liability Partnerships Act 2012（马来西亚法律） (Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia))"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ssm/Act%20743.pdf"
-    publisher: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN)"
-  - title: "Limited Liability Partnership (Booklet)"
+    publisher: "国内贸易及生活成本部 (KPDN)"
+  - title: "有限责任合伙（手册） (Limited Liability Partnership (Booklet))"
     url: "https://www.ssm.com.my/Pages/Publication/Booklet/document/LLP_bkengLS_update.PDF"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 entity: "Perkongsian Liabiliti Terhad (PLT)"
 relations:

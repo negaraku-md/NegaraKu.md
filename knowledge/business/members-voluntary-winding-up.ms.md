@@ -82,16 +82,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.432–463"
+  - title: "Akta Syarikat 2016 (Act 777), cetakan semula pada 1 Ogos 2022, s.432–463 (Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.432–463)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies (Amendment) Act 2024 (Act A1701), s.21 — amendment of section 433"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Akta Syarikat (Pindaan) 2024 (Act A1701), s.21 — pindaan seksyen 433 (Companies (Amendment) Act 2024 (Act A1701), s.21 — amendment of section 433)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2024-02-02"
-  - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016"
+  - title: "Garis Panduan Permohonan oleh Pengarah atau Ahli untuk Memotong Nama Syarikat di bawah Seksyen 550 Akta Syarikat 2016 (Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20_Section%20549_190419.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2019-04-19"
 
 entity: "Members' voluntary winding up"

@@ -50,23 +50,23 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Senarai Seni Halus Warisan Kebangsaan 2015"
+  - title: "தேசிய பாரம்பரிய நுண்கலைப் பட்டியல் 2015 (Senarai Seni Halus Warisan Kebangsaan 2015)"
     url: "https://www.heritage.gov.my/en/kraf.html?view=article&id=235:senarai-seni-halus-warisan-kebangsaan-2015&catid=17:info-jwn"
-    publisher: "Jabatan Warisan Negara"
+    publisher: "தேசிய பாரம்பரியத் துறை"
     date: "2015"
-  - title: "Muzium Diraja (Istana Kenangan), Bukit Chandan, Kuala Kangsar, Perak"
+  - title: "அரச அருங்காட்சியகம் (Istana Kenangan), புக்கிட் சந்தான், கோலா காங்சார், பேராக் (Muzium Diraja (Istana Kenangan), Bukit Chandan, Kuala Kangsar, Perak)"
     url: "https://www.heritage.gov.my/en/muzium-diraja-istana-kenangan-bukit-chandan-kuala-kangsar-perak.html"
-    publisher: "Jabatan Warisan Negara"
-  - title: "Seni Kraf Kayu: Motif & Teknik"
+    publisher: "தேசிய பாரம்பரியத் துறை"
+  - title: "மரக் கைவினைக் கலை: மோட்டிஃப் & நுட்பங்கள் (Seni Kraf Kayu: Motif & Teknik)"
     url: "https://kraftangan.gov.my/info/penerbitan/seni-kraf-kayu-motif-teknik"
-    publisher: "Perbadanan Kemajuan Kraftangan Malaysia / Institut Kraf Negara"
+    publisher: "மலேசிய கைவினைக் கலை மேம்பாட்டுக் கழகம் / தேசிய கைவினைக் கலை நிறுவனம்"
     date: "2009"
-  - title: "Kompleks Kraf Kuala Lumpur"
+  - title: "கோலாலம்பூர் கைவினைக் கலை வளாகம் (Kompleks Kraf Kuala Lumpur)"
     url: "https://kraftangan.gov.my/en/craft-complex/kuala-lumpur-craft-complex"
-    publisher: "Perbadanan Kemajuan Kraftangan Malaysia"
-  - title: "Desa Ukiran Kayu"
+    publisher: "மலேசிய கைவினைக் கலை மேம்பாட்டுக் கழகம்"
+  - title: "மரச் செதுக்கல் கிராமம் (Desa Ukiran Kayu)"
     url: "https://mdb.terengganu.gov.my/index.php/ms/pelawat/destinasi-menarik/desa-ukiran-kayu"
-    publisher: "Majlis Daerah Besut"
+    publisher: "பெசுட் மாவட்ட மன்றம்"
 entity: "Ukiran Kayu Melayu"
 relations:
   - { rel: "part-of", to: "malaysia" }

@@ -70,12 +70,12 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.439–463, 527–540"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி மறுபதிப்பு, பிரிவுகள் 439–463, 527–540 (Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.439–463, 527–540)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies (Amendment) Act 2024 (Act A1701), s.22 — amendment of paragraph 536(2)(a)"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "நிறுவனங்கள் (திருத்தம்) சட்டம் 2024 (Act A1701), பிரிவு 22 — பத்தி 536(2)(a) திருத்தம் (Companies (Amendment) Act 2024 (Act A1701), s.22 — amendment of paragraph 536(2)(a))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-02-02"
 
 entity: "Creditors' voluntary winding up"

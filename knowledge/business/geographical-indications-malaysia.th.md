@@ -53,19 +53,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Geographical Indications Act 2022 (Act 836)"
+  - title: "พระราชบัญญัติสิ่งบ่งชี้ทางภูมิศาสตร์ 2022 (Act 836) (Geographical Indications Act 2022 (Act 836))"
     url: "https://www.myipo.gov.my/wp-content/uploads/2025/02/GEOGRAPHICAL-INDICATIONS-2022-ACT-836.pdf"
-    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
-  - title: "Geographical Indications Act 2022 (Act 836), full text and repeal details"
+    publisher: "บรรษัททรัพย์สินทางปัญญามาเลเซีย (MyIPO)"
+  - title: "พระราชบัญญัติสิ่งบ่งชี้ทางภูมิศาสตร์ 2022 (Act 836), ตัวบทเต็มและรายละเอียดการยกเลิก (Geographical Indications Act 2022 (Act 836), full text and repeal details)"
     url: "https://www.wipo.int/wipolex/en/legislation/details/22645"
     publisher: "WIPO Lex"
-  - title: "Guidelines of Geographical Indication 2022"
+  - title: "แนวปฏิบัติว่าด้วยสิ่งบ่งชี้ทางภูมิศาสตร์ 2022 (Guidelines of Geographical Indication 2022)"
     url: "https://www.myipo.gov.my/wp-content/uploads/2024/10/Guidelines-of-Geographical-Indication-2022.pdf"
-    publisher: "Intellectual Property Corporation of Malaysia (MyIPO)"
-  - title: "Interactive: Sabah, Sarawak lead in protected products"
+    publisher: "บรรษัททรัพย์สินทางปัญญามาเลเซีย (MyIPO)"
+  - title: "อินเทอร์แอกทีฟ: ซาบาห์ ซาราวักนำหน้าในผลิตภัณฑ์ที่ได้รับการคุ้มครอง (Interactive: Sabah, Sarawak lead in protected products)"
     url: "https://www.thestar.com.my/news/nation/2025/12/15/interactive-sabah-sarawak-lead-in-protected-products"
     publisher: "The Star"
-  - title: "Interactive: Four Malaysian durian varieties registered, international protection needed"
+  - title: "อินเทอร์แอกทีฟ: ทุเรียนมาเลเซียสี่สายพันธุ์ได้รับการจดทะเบียน จำเป็นต้องมีการคุ้มครองระหว่างประเทศ (Interactive: Four Malaysian durian varieties registered, international protection needed)"
     url: "https://www.thestar.com.my/news/nation/2025/12/15/interactive-four-malaysian-durian-varieties-registered-international-protection-needed"
     publisher: "The Star"
 

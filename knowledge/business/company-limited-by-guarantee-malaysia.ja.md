@@ -52,10 +52,10 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Guidelines on Company Limited by Guarantee (27 September 2021)"
+  - title: "保証有限責任会社に関するガイドライン (2021年9月27日) (Guidelines on Company Limited by Guarantee (27 September 2021))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/GUIDELINES-ON-COMPANY-LIMITED-BY-GUARANTEE-270921-Final.pdf"
-    publisher: "Companies Commission of Malaysia (SSM)"
-  - title: "Malaysia — Understanding Companies Limited by Guarantee: Legal Framework & Key Features"
+    publisher: "マレーシア企業委員会 (SSM)"
+  - title: "マレーシア — 保証有限責任会社を理解する:法的枠組みと主要な特徴 (Malaysia — Understanding Companies Limited by Guarantee: Legal Framework & Key Features)"
     url: "https://conventuslaw.com/report/malaysia-understanding-companies-limited-by-guarantee-legal-framework-key-features/"
     publisher: "Conventus Law"
 

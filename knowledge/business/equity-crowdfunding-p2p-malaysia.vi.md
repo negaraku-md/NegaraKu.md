@@ -61,22 +61,22 @@ revisions:
 
 updated: 2026-07-21
 sources:
-  - title: "Guidelines on Recognized Markets, SC-GL/6-2015 (R14-2026), effective 20 May 2026"
+  - title: "Hướng dẫn về Thị trường được Công nhận, SC-GL/6-2015 (R14-2026), có hiệu lực 20 tháng 5 năm 2026 (Guidelines on Recognized Markets, SC-GL/6-2015 (R14-2026), effective 20 May 2026)"
     url: "https://www.sc.com.my/regulation/guidelines/recognizedmarkets"
-    publisher: "Securities Commission Malaysia"
+    publisher: "Ủy ban Chứng khoán Malaysia"
     date: "2026-05-20"
-  - title: "Capital Markets and Services Act 2007 (Act 671), s.34 — recognized market operator"
+  - title: "Đạo luật Thị trường Vốn và Dịch vụ 2007 (Act 671), s.34 — nhà điều hành thị trường được công nhận (Capital Markets and Services Act 2007 (Act 671), s.34 — recognized market operator)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20671%20-%2023-11-2017.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "SC Digital Initiatives — registered recognized market operators"
+    publisher: "Văn phòng Tổng Chưởng lý"
+  - title: "Sáng kiến Kỹ thuật số của SC — các nhà điều hành thị trường được công nhận đã đăng ký (SC Digital Initiatives — registered recognized market operators)"
     url: "https://www.sc.com.my/development/digital/digital-initiatives"
-    publisher: "Securities Commission Malaysia"
-  - title: "ECF and P2P Financing Fuelling MSME Growth — Annual Report 2024"
+    publisher: "Ủy ban Chứng khoán Malaysia"
+  - title: "ECF và Tài trợ P2P thúc đẩy tăng trưởng MSME — Báo cáo Thường niên 2024 (ECF and P2P Financing Fuelling MSME Growth — Annual Report 2024)"
     url: "https://www.sc.com.my/annual-report-2024/strengthening-the-sustainability-and-competitiveness-of-the-capital-market/ecf-and-p2p-financing-fuelling-msme-growth-in-advancing-ekonomi-madani"
-    publisher: "Securities Commission Malaysia"
-  - title: "Equity Crowdfunding — frequently asked questions"
+    publisher: "Ủy ban Chứng khoán Malaysia"
+  - title: "Gọi vốn Cộng đồng bằng Cổ phần — câu hỏi thường gặp (Equity Crowdfunding — frequently asked questions)"
     url: "https://www.sc.com.my/development/digital/equity-crowdfunding"
-    publisher: "Securities Commission Malaysia"
+    publisher: "Ủy ban Chứng khoán Malaysia"
 
 entity: "Equity crowdfunding and peer-to-peer financing in Malaysia"
 relations:

@@ -58,18 +58,18 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "MSIC — data catalogue"
+  - title: "MSIC — 数据目录 (MSIC — data catalogue)"
     url: "https://open.dosm.gov.my/data-catalogue/msic"
-    publisher: "Department of Statistics Malaysia (DOSM)"
-  - title: "Sistem MSIC 2008"
+    publisher: "马来西亚统计局 (DOSM)"
+  - title: "MSIC 2008 系统 (Sistem MSIC 2008)"
     url: "https://msic.stats.gov.my/bi/"
-    publisher: "Department of Statistics Malaysia (DOSM)"
-  - title: "SSM MSIC Code"
+    publisher: "马来西亚统计局 (DOSM)"
+  - title: "SSM MSIC 代码 (SSM MSIC Code)"
     url: "https://www.ssm.com.my/Pages/Publication/SSM%20MSIC%20Code/SSM-MSIC-Code.aspx"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "2016年公司法令 (Act 777)，截至2022年8月1日 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 entity: "Malaysia Standard Industrial Classification (MSIC)"
 relations:

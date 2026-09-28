@@ -70,12 +70,12 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.439–463, 527–540"
+  - title: "2016년 회사법 (Act 777), 2022년 8월 1일 기준 재판본, 제439–463, 527–540조 (Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.439–463, 527–540)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies (Amendment) Act 2024 (Act A1701), s.22 — amendment of paragraph 536(2)(a)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "2024년 회사(개정)법 (Act A1701), 제22조 — 제536(2)(a)항 개정 (Companies (Amendment) Act 2024 (Act A1701), s.22 — amendment of paragraph 536(2)(a))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-02-02"
 
 entity: "Creditors' voluntary winding up"

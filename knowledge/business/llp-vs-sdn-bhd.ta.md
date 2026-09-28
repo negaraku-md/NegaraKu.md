@@ -76,22 +76,22 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Limited Liability Partnerships Act 2012 (Act 743)"
+  - title: "வரையறுக்கப்பட்ட பொறுப்பு கூட்டாண்மைச் சட்டம் 2012 (Act 743) (Limited Liability Partnerships Act 2012 (Act 743))"
     url: "https://www.ssm.com.my/Pages/About_SSM/PDF/LLP%20ACT%202012%20-%20For%20Portal_new.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "நிறுவனச் சட்டம் 2016 (Act 777), 1 ஆகஸ்ட் 2022 நிலவரப்படி (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "MyLLP brochure — fees and filing deadlines"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "MyLLP கையேடு — கட்டணங்கள் மற்றும் தாக்கல் கடைசி தேதிகள் (MyLLP brochure — fees and filing deadlines)"
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/BROCHURE%20MYLLP.pdf"
-    publisher: "SSM"
-  - title: "Taxation of Limited Liability Partnership, Public Ruling No. 8/2022"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "வரையறுக்கப்பட்ட பொறுப்பு கூட்டாண்மையின் வரிவிதிப்பு, பொது தீர்ப்பு எண். 8/2022 (Taxation of Limited Liability Partnership, Public Ruling No. 8/2022)"
     url: "https://www.hasil.gov.my/media/3wzlz0nl/pr_8_2022.pdf"
-    publisher: "LHDN"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2022-12-23"
-  - title: "Legal Profession Act 1976 (Act 166)"
+  - title: "சட்டத் தொழில் சட்டம் 1976 (Act 166) (Legal Profession Act 1976 (Act 166))"
     url: "https://www.malaysianbar.org.my/cms/upload_files/document/Legal%20Profession%20Act%201976%20as%20at%201%20August%202018%20(English).from%20AGC%20website.pdf"
-    publisher: "Attorney General's Chambers, via the Malaysian Bar"
+    publisher: "வழக்கறிஞர் தலைமை அலுவலகம், the Malaysian Bar வழியாக"
 
 entity: "Limited liability partnership (Malaysia)"
 relations:
