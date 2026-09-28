@@ -1,0 +1,49 @@
+name: FB cleanup — delete phantom posts
+
+# One-off / on-demand cleanup: deletes the wrong-language "phantom" Facebook posts
+# created when .th.md/.vi.md files were mis-treated as master bases (fixed in
+# fb-queue.mjs). Reads analytics/posted.json, deletes every post whose manifest
+# base carries a locale suffix, removes those entries, and commits the manifest.
+# Manual dispatch only. Tick dry_run to preview the list without deleting.
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run — list phantom posts, do NOT delete'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: facebook-backlog   # share the backlog group so cleanup + posting never overlap
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Delete phantom Facebook posts
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: node scripts/fb-delete-phantom.mjs
+      - name: Commit the cleaned manifest if it changed
+        if: ${{ always() && github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add analytics/posted.json 2>/dev/null || true
+          if git diff --cached --quiet -- analytics/posted.json; then
+            echo "manifest unchanged — nothing to commit"
+          else
+            git commit -m "chore(fb): delete phantom wrong-language posts + clean manifest [skip deploy]"
+            git push
+          fi
