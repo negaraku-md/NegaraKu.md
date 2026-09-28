@@ -28,7 +28,7 @@ const BRAND = `${REPO}/public/brand`;
 const BLANK = `${BRAND}/_fb-cover-blank.png`;
 // Universal font stack — first family that has each glyph wins (Latin→Segoe, Tamil→Nirmala,
 // Korean→Malgun, Japanese kana→Yu Gothic, Chinese→YaHei, fallback Noto Sans SC).
-const FONT = 'Segoe UI, Nirmala UI, Malgun Gothic, Yu Gothic UI, Yu Gothic, Meiryo, Microsoft YaHei, Noto Sans SC, sans-serif';
+const FONT = 'Segoe UI, Nirmala UI, Leelawadee UI, Tahoma, Malgun Gothic, Yu Gothic UI, Yu Gothic, Meiryo, Microsoft YaHei, Noto Sans SC, Noto Sans Thai, sans-serif';
 
 // Order = display order in the language row. Add new languages here.
 const LANGS = [
@@ -50,6 +50,9 @@ const LANGS = [
   { code: 'ko', label: '한국어', file: 'NegaraKu.md.ko.Facebook-Cover-Photo.png',
     tagline: '세계에 말레이시아를 알리다',
     subtitle: '말레이시아에 관한 오픈소스 AI 친화적 지식 베이스' },
+  { code: 'th', label: 'ไทย', file: 'NegaraKu.md.th.Facebook-Cover-Photo.png',
+    tagline: 'ให้โลกได้รู้จักมาเลเซีย',
+    subtitle: 'ฐานความรู้เกี่ยวกับมาเลเซียแบบโอเพนซอร์สและเป็นมิตรกับ AI' },
 ];
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');

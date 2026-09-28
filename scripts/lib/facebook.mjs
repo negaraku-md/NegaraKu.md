@@ -11,7 +11,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 
 export const GRAPH = 'https://graph.facebook.com/v21.0';
-export const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko']; // ms at "/", en at "/en", zh at "/zh", ta at "/ta", ja at "/ja", ko at "/ko"
+export const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th']; // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th
 
 // Posting WINDOWS = Malaysia's daily engagement peaks. The cron fires one tick per
 // window (see .github/workflows/facebook-backlog.yml: 08:17 / 13:17 / 20:17 MYT).
@@ -47,6 +47,9 @@ export const LANG_POLICY = {
   // ko ACTIVATED 2026-09-26 — Korean is a full public language (1,073 published
   // articles at /ko); its Page is assigned to the system user, so it's in LANGS.
   ko: { enabled: true, perDay: 5, since: '2026-09-26', windows: ALL_WINDOWS },
+  // th ACTIVATED 2026-09-28 — Thai is a full public language (1,073 published
+  // articles at /th); its Page is assigned to the system user, so it's in LANGS.
+  th: { enabled: true, perDay: 5, since: '2026-09-28', windows: ALL_WINDOWS },
 };
 
 // One Facebook Page PER language. Page IDs are PUBLIC (they appear in each Page's
@@ -69,6 +72,9 @@ export const PAGES = {
   // by adding it to LANGS + LANG_POLICY once its corpus ships.
   ja: process.env.FB_PAGE_ID_JA || '1234264816444540',
   ko: process.env.FB_PAGE_ID_KO || '1308994995630346',
+  // th Page created 2026-09-28 (facebook.com/negaraku.md.th). FILL the numeric
+  // Graph/business-asset id below once known (blank id = safely skipped, not posted).
+  th: process.env.FB_PAGE_ID_TH || '',
 };
 
 // The URL locale prefix for a language: ms lives at "/", en at "/en", zh at "/zh".
@@ -146,9 +152,9 @@ function catNameMap() {
       path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../src/lib/categories.ts'),
       'utf8',
     );
-    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'(?:\s*,\s*ta:\s*'([^']*)')?(?:\s*,\s*ja:\s*'([^']*)')?(?:\s*,\s*ko:\s*'([^']*)')?/g;
+    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'(?:\s*,\s*ta:\s*'([^']*)')?(?:\s*,\s*ja:\s*'([^']*)')?(?:\s*,\s*ko:\s*'([^']*)')?(?:\s*,\s*th:\s*'([^']*)')?/g;
     let m;
-    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4], ta: m[5] || '', ja: m[6] || '', ko: m[7] || '' };
+    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4], ta: m[5] || '', ja: m[6] || '', ko: m[7] || '', th: m[8] || '' };
   } catch { /* graceful — no localized names, category tag is skipped */ }
   return _catNames;
 }
@@ -186,7 +192,7 @@ export function keywordTag(kw) {
   return t.length <= 25 ? t : '';
 }
 
-const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா', ja: '#マレーシア', ko: '#말레이시아' };
+const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா', ja: '#マレーシア', ko: '#말레이시아', th: '#มาเลเซีย' };
 // Tamil block U+0B80–U+0BFF — used so ta posts keep only Tamil-script (or numeric) tags.
 const hasTamil = (s) => /[஀-௿]/.test(String(s));
 const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));
@@ -200,12 +206,14 @@ const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));
 // tags don't leak onto a Malay or Chinese post. Capped so the line stays tidy.
 export function hashtags(data, lang = 'en') {
   const hasHangul = (t) => /[가-힣]/.test(String(t)); // Korean syllables
+  const hasThai = (t) => /[฀-๿]/.test(String(t)); // Thai script
   const okForLang = (t) =>
     /\d/.test(t) || // a numeric reference (e.g. "#Act777") is language-neutral
     (lang === 'zh' || lang === 'ja' ? hasCJK(t) // zh/ja posts: CJK/kana tags only
       : lang === 'ta' ? hasTamil(t) // ta posts: Tamil-script tags only
         : lang === 'ko' ? hasHangul(t) // ko posts: Hangul tags only
-          : !hasCJK(t) && !hasTamil(t) && !hasHangul(t)); // ms/en: Latin only (no CJK/Tamil/Hangul leak)
+          : lang === 'th' ? hasThai(t) // th posts: Thai-script tags only
+            : !hasCJK(t) && !hasTamil(t) && !hasHangul(t) && !hasThai(t)); // ms/en: Latin only (no CJK/Tamil/Hangul/Thai leak)
   const out = [COUNTRY_TAG[lang] || '#Malaysia', '#NegaraKu'];
   const catName = categoryName(data.category, lang);
   if (catName) { const t = hashtag(catName); if (t && !out.includes(t)) out.push(t); }
