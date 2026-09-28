@@ -14,6 +14,10 @@ import { loadManifest, saveManifest } from './lib/fb-queue.mjs';
 const DRY_RUN = process.env.FB_DRY_RUN === '1';
 const TOKEN = process.env.FB_PAGE_ACCESS_TOKEN;
 const SUFFIX = /\.(ms|en|zh|ta|ja|ko|th|vi)$/;
+// Optional: also delete posts made at/after this ISO timestamp (e.g. redo a day's
+// batch after fixing the OG cards). Removing their manifest entries lets the poster
+// re-post them cleanly.
+const SINCE = process.env.FB_DELETE_SINCE || '';
 
 async function main() {
   const manifest = loadManifest();
@@ -24,9 +28,9 @@ async function main() {
       const lang = key.slice(key.lastIndexOf('#') + 1);
       return { key, base, lang, post_id: v.post_id, at: v.at };
     })
-    .filter((e) => SUFFIX.test(e.base) && e.post_id);
+    .filter((e) => e.post_id && (SUFFIX.test(e.base) || (SINCE && e.at && e.at >= SINCE)));
 
-  console.log(`[fb-cleanup] phantom posts to delete: ${phantoms.length}`);
+  console.log(`[fb-cleanup] selector: phantom${SINCE ? ` + since ${SINCE}` : ''} — posts to delete: ${phantoms.length}`);
   for (const p of phantoms) console.log(`  ${p.at || '?'}  ${p.key}  → ${p.post_id}  (page ${PAGES[p.lang] || '?'})`);
 
   if (!phantoms.length) { console.log('[fb-cleanup] nothing to do.'); return; }

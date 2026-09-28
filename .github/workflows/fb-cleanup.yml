@@ -9,9 +9,12 @@ on:
   workflow_dispatch:
     inputs:
       dry_run:
-        description: 'Dry run — list phantom posts, do NOT delete'
+        description: 'Dry run — list posts, do NOT delete'
         type: boolean
         default: true
+      since:
+        description: 'Also delete posts made at/after this ISO timestamp (e.g. 2026-09-28T05:53:00Z) — for redoing a batch. Blank = phantom-only.'
+        required: false
 
 permissions:
   contents: write
@@ -34,6 +37,7 @@ jobs:
         env:
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
           FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+          FB_DELETE_SINCE: ${{ github.event.inputs.since }}
         run: node scripts/fb-delete-phantom.mjs
       - name: Commit the cleaned manifest if it changed
         if: ${{ always() && github.event.inputs.dry_run != 'true' }}
