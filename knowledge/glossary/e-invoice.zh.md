@@ -34,9 +34,9 @@ sensitivity: "none"
 
 updated: 2026-07-10
 sources:
-  - title: "LHDN e-Invoice Guideline"
+  - title: "LHDN 电子发票指南 (LHDN e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/e-invois/"
-    publisher: "LHDN"
+    publisher: "内陆税收局 (LHDN)"
 
 entity: "e-Invoice"
 relations:

@@ -62,18 +62,18 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Portal Halal Malaysia — Sistem MYeHALAL"
+  - title: "พอร์ทัลฮาลาลมาเลเซีย — ระบบ MYeHALAL (Portal Halal Malaysia — Sistem MYeHALAL)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/index.php?lang=bm"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
-  - title: "Portal Halal Malaysia — Panduan Pensijilan Halal"
+    publisher: "กรมพัฒนาการอิสลามแห่งมาเลเซีย (JAKIM)"
+  - title: "พอร์ทัลฮาลาลมาเลเซีย — คู่มือการรับรองฮาลาล (Portal Halal Malaysia — Panduan Pensijilan Halal)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/index.php?data=bW9kdWxlcy9jb2xsYXBzaWJsZV9jb250ZW50Ozs7Ow%3D%3D&utama=panduan"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
-  - title: "Kenyataan Media JAKIM Berkaitan Cadangan Mewajibkan Sijil Halal Sebelum Memperbaharui Lesen Perniagaan"
+    publisher: "กรมพัฒนาการอิสลามแห่งมาเลเซีย (JAKIM)"
+  - title: "แถลงการณ์สื่อของ JAKIM เกี่ยวกับข้อเสนอให้บังคับมีใบรับรองฮาลาลก่อนต่ออายุใบอนุญาตประกอบธุรกิจ (Kenyataan Media JAKIM Berkaitan Cadangan Mewajibkan Sijil Halal Sebelum Memperbaharui Lesen Perniagaan)"
     url: "https://www.islam.gov.my/en/media-statement/4581-kenyataan-media-jabatan-kemajuan-islam-malaysia-berkaitan-cadangan-kerajaan-negeri-untuk-mewajibkan-pengusaha-premis-makanan-dan-minuman-memiliki-sijil-halal-sebelum-memperbaharui-lesen-perniagaan"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
-  - title: "Verify Halal — Aplikasi Pengesahan Status Halal"
+    publisher: "กรมพัฒนาการอิสลามแห่งมาเลเซีย (JAKIM)"
+  - title: "Verify Halal — แอปพลิเคชันตรวจสอบสถานะฮาลาล (Verify Halal — Aplikasi Pengesahan Status Halal)"
     url: "https://verifyhalal.com/"
-    publisher: "Verify Halal (diiktiraf JAKIM)"
+    publisher: "Verify Halal (ได้รับการรับรองจาก JAKIM)"
 
 entity: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
 wikidata: "Q7354383"

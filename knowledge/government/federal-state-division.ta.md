@@ -39,13 +39,13 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint 2020) — Articles 74, 75, 76, 76A, 77, 95B and the Ninth Schedule (Legislative Lists)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (2020 மறுபதிப்பு) — உறுப்புகள் 74, 75, 76, 76A, 77, 95B மற்றும் ஒன்பதாம் அட்டவணை (சட்டமியற்றல் பட்டியல்கள்) (Federal Constitution (Reprint 2020) — Articles 74, 75, 76, 76A, 77, 95B and the Ninth Schedule (Legislative Lists))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அறையகம்"
     date: "2020"
-  - title: "Federal Constitution — Ninth Schedule [Articles 74, 77]: List I Federal List, List II State List, List IIA, List III Concurrent List, List IIIA"
+  - title: "கூட்டாட்சி அரசியலமைப்பு — ஒன்பதாம் அட்டவணை [உறுப்புகள் 74, 77]: பட்டியல் I கூட்டாட்சிப் பட்டியல், பட்டியல் II மாநிலப் பட்டியல், பட்டியல் IIA, பட்டியல் III கூட்டுப் பட்டியல், பட்டியல் IIIA (Federal Constitution — Ninth Schedule [Articles 74, 77]: List I Federal List, List II State List, List IIA, List III Concurrent List, List IIIA)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/NinthSchedule.pdf"
-    publisher: "State Attorney-General's Chambers, Sabah"
+    publisher: "சபா மாநில அட்டர்னி ஜெனரல் அறையகம்"
     date: "2012"
 
 entity: "Ninth Schedule, Federal Constitution of Malaysia"

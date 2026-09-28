@@ -57,21 +57,21 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia 2020-2024"
+  - title: "வழங்கல் மற்றும் பயன்பாட்டு கணக்குகள் தேர்ந்தெடுக்கப்பட்ட வேளாண் பொருட்கள், மலேசியா 2020-2024 (Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia 2020-2024)"
     url: "https://www.dosm.gov.my/portal-main/release-content/supply-and-utilization-accounts-selected-agricultural-commodities-malaysia-2020-2024"
-    publisher: "Department of Statistics Malaysia"
+    publisher: "மலேசிய புள்ளியியல் திணைக்களம்"
     date: "2025-12-15"
-  - title: "Protokol Keperluan Fitosanitari bagi Eksport Durian Segar dari Malaysia ke China"
+  - title: "மலேசியாவிலிருந்து சீனாவுக்கு புதிய துரியன் ஏற்றுமதிக்கான தாவரப் பாதுகாப்பு தேவைகள் நெறிமுறை (Protokol Keperluan Fitosanitari bagi Eksport Durian Segar dari Malaysia ke China)"
     url: "https://www.doa.gov.my/doa/resources/aktiviti_sumber/sumber_awam/maklumat_biosekuriti/kelulusan_protokol_fitosanitari_durian_segar_Malaysia_China.pdf"
-    publisher: "Jabatan Pertanian Malaysia"
-  - title: "Malaysia Exports Durians Worth RM6.37 Bln To China From 2018-2025"
+    publisher: "மலேசிய வேளாண்மைத் திணைக்களம்"
+  - title: "2018-2025 காலகட்டத்தில் மலேசியா சீனாவுக்கு RM6.37 பில்லியன் மதிப்புள்ள துரியன்களை ஏற்றுமதி செய்தது (Malaysia Exports Durians Worth RM6.37 Bln To China From 2018-2025)"
     url: "https://www.bernama.com/en/news.php?id=2475446"
     publisher: "Bernama"
-  - title: "First shipment of Malaysian fresh durian arrives in China"
+  - title: "மலேசிய புதிய துரியனின் முதல் சரக்கு சீனாவுக்கு வந்தடைகிறது (First shipment of Malaysian fresh durian arrives in China)"
     url: "https://www.fruitnet.com/asiafruit/first-shipment-of-malaysian-fresh-durian-arrives-in-china/262032.article"
     publisher: "Fruitnet / Asiafruit"
     date: "2024-08-27"
-  - title: "Geographical indications in Malaysia: Recent developments and progress"
+  - title: "மலேசியாவில் புவியியல் சார்ந்த குறியீடுகள்: சமீபத்திய முன்னேற்றங்களும் வளர்ச்சியும் (Geographical indications in Malaysia: Recent developments and progress)"
     url: "https://asiaiplaw.com/article/geographical-indications-in-malaysia-recent-developments-and-progress"
     publisher: "Asia IP"
 

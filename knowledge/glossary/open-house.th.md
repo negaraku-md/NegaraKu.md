@@ -38,21 +38,21 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Tinta Minda BERNAMA - Rumah Terbuka: Antara Budaya, Trend & Ekspresi"
+  - title: "หมึกความคิด BERNAMA - รูมาห์เตอร์บูกา (โอเพนเฮาส์): ระหว่างวัฒนธรรม เทรนด์ และการแสดงออก (Tinta Minda BERNAMA - Rumah Terbuka: Antara Budaya, Trend & Ekspresi)"
     url: "https://www.bernama.com/bm/tintaminda/news.php?id=2293338"
     publisher: "BERNAMA"
-  - title: "Rumah Terbuka Malaysia Madani Usaha Dekati Rakyat, Kerajaan Negeri"
+  - title: "โอเพนเฮาส์มาเลเซียมาดานี — ความพยายามเข้าถึงประชาชนและรัฐบาลแห่งรัฐ (Rumah Terbuka Malaysia Madani Usaha Dekati Rakyat, Kerajaan Negeri)"
     url: "https://www.penerangan.gov.my/rumah-terbuka-malaysia-madani-usaha-dekati-rakyat-kerajaan-negeri/"
-    publisher: "Jabatan Penerangan Malaysia"
-  - title: "PM Anwar Akan Hadir Majlis Rumah Terbuka Aidilfitri Madani di Kedah, Kelantan dan Terengganu"
+    publisher: "กรมสารนิเทศมาเลเซีย"
+  - title: "นายกฯ อันวาร์จะเข้าร่วมงานโอเพนเฮาส์อิดิลฟิตรีมาดานีที่เกอดะฮ์ กลันตัน และตรังกานู (PM Anwar Akan Hadir Majlis Rumah Terbuka Aidilfitri Madani di Kedah, Kelantan dan Terengganu)"
     url: "https://www.pmo.gov.my/ms/beritabahasamelayu/pm-anwar-akan-hadir-majlis-rumah-terbuka-aidilfitri-madani-di-kedah-kelantan-dan-terengganu/"
-    publisher: "Pejabat Perdana Menteri (PMO)"
-  - title: "Rumah Terbuka Erat Perpaduan Kaum"
+    publisher: "สำนักนายกรัฐมนตรี (PMO)"
+  - title: "โอเพนเฮาส์เสริมสร้างความสามัคคีระหว่างชาติพันธุ์ (Rumah Terbuka Erat Perpaduan Kaum)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/rumah-terbuka-erat-perpaduan-kaum/"
-    publisher: "Radio Televisyen Malaysia (RTM)"
-  - title: "Laman Utama Kementerian Perpaduan Negara"
+    publisher: "วิทยุโทรทัศน์มาเลเซีย (RTM)"
+  - title: "หน้าหลักกระทรวงความสามัคคีแห่งชาติ (Laman Utama Kementerian Perpaduan Negara)"
     url: "https://www.perpaduan.gov.my/index.php/en/"
-    publisher: "Kementerian Perpaduan Negara (KPN)"
+    publisher: "กระทรวงความสามัคคีแห่งชาติ (KPN)"
 entity: "Rumah terbuka"
 relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }

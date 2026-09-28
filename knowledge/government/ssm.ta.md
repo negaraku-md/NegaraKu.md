@@ -47,16 +47,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Act 614 — Companies Commission of Malaysia Act 2001"
+  - title: "2001 மலேசியா நிறுவனங்கள் ஆணையச் சட்டம், சட்டம் 614 (Act 614 — Companies Commission of Malaysia Act 2001)"
     url: "https://lom.agc.gov.my/act-detail.php?act=614"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம் (AGC)"
     date: "2002-04-16"
-  - title: "Companies Act 2016 — legal framework"
+  - title: "2016 நிறுவனங்கள் சட்டம் — சட்ட கட்டமைப்பு (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
-  - title: "Suruhanjaya Syarikat Malaysia"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "மலேசியா நிறுவனங்கள் ஆணையம் (Suruhanjaya Syarikat Malaysia)"
     url: "https://www.ssm.com.my/"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "SSM"
 wikidata: "Q1121232"

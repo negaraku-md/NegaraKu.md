@@ -40,18 +40,18 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan — Cetakan Semula sebagaimana pada 15 Oktober 2020 (Perkara 44–48, 54, 56, 66–68, 159 dan Jadual Ketujuh)"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ — ฉบับพิมพ์ซ้ำ ณ วันที่ 15 ตุลาคม ค.ศ. 2020 (มาตรา 44–48, 54, 56, 66–68, 159 และบัญชีที่เจ็ด) (Perlembagaan Persekutuan — Cetakan Semula sebagaimana pada 15 Oktober 2020 (Perkara 44–48, 54, 56, 66–68, 159 dan Jadual Ketujuh))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Persekutuan"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ — พอร์ทัลนิติบัญญัติสหพันธรัฐ (Perlembagaan Persekutuan — Portal Perundangan Persekutuan)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Maklumat Umum — Dewan Negara"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
+  - title: "ข้อมูลทั่วไป — Dewan Negara (วุฒิสภา) (Maklumat Umum — Dewan Negara)"
     url: "https://www.parlimen.gov.my/maklumat-umum.html?uweb=dn"
-    publisher: "Parlimen Malaysia"
-  - title: "Reforming the Dewan Negara: Its Evolution and Options for Reform, Journal of the Malaysian Parliament, Jilid 2 (2022)"
+    publisher: "รัฐสภามาเลเซีย"
+  - title: "การปฏิรูป Dewan Negara: วิวัฒนาการและทางเลือกในการปฏิรูป, Journal of the Malaysian Parliament, เล่มที่ 2 (2022) (Reforming the Dewan Negara: Its Evolution and Options for Reform, Journal of the Malaysian Parliament, Jilid 2 (2022))"
     url: "https://journalmp.parlimen.gov.my/jurnal/index.php/jmp/article/download/55/26/314"
-    publisher: "Parlimen Malaysia"
+    publisher: "รัฐสภามาเลเซีย"
     date: "2022"
 
 entity: "Dewan Negara"

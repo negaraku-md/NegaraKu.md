@@ -55,21 +55,21 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "Minister: Malayan tiger numbers bouncing back"
+  - title: "รัฐมนตรี: จำนวนเสือโคร่งมลายูกำลังฟื้นตัว (Minister: Malayan tiger numbers bouncing back)"
     url: "https://www.thestar.com.my/news/nation/2026/07/28/minister-malayan-tiger-numbers-bouncing-back"
     publisher: "The Star"
-  - title: "Malayan Tiger Crisis Action Plan To Address Population Crisis"
+  - title: "แผนปฏิบัติการวิกฤตเสือโคร่งมลายูเพื่อรับมือวิกฤตประชากร (Malayan Tiger Crisis Action Plan To Address Population Crisis)"
     url: "https://www.bernama.com/en/news.php?id=2332507"
     publisher: "Bernama"
-  - title: "Perhilitan intensifying efforts to conserve endangered Malayan tigers, Parliament told"
+  - title: "Perhilitan เร่งความพยายามอนุรักษ์เสือโคร่งมลายูที่ใกล้สูญพันธุ์ รัฐสภาได้รับแจ้ง (Perhilitan intensifying efforts to conserve endangered Malayan tigers, Parliament told)"
     url: "https://www.thestar.com.my/news/nation/2024/11/19/perhilitan-intensifying-efforts-to-conserve-endangered-malayan-tigers-parliament-told"
     publisher: "The Star"
-  - title: "Pahang, UAE sign agreement for RM99.8mil grant to protect Malayan Tiger"
+  - title: "ปะหังและ UAE ลงนามข้อตกลงเงินอุดหนุน RM99.8 ล้านเพื่อปกป้องเสือโคร่งมลายู (Pahang, UAE sign agreement for RM99.8mil grant to protect Malayan Tiger)"
     url: "https://www.thestar.com.my/news/nation/2025/01/16/pahang-uae-sign-agreement-for-rm998mil-grant-to-protect-malayan-tiger"
     publisher: "The Star"
-  - title: "Panthera tigris jacksoni (Malayan Tiger)"
+  - title: "Panthera tigris jacksoni (เสือโคร่งมลายู) (Panthera tigris jacksoni (Malayan Tiger))"
     url: "https://www.mybis.gov.my/art/137"
-    publisher: "Malaysia Biodiversity Information System (MyBIS)"
+    publisher: "ระบบข้อมูลความหลากหลายทางชีวภาพมาเลเซีย (MyBIS)"
 
 entity: "Malayan tiger (Panthera tigris jacksoni)"
 wikidata: "Q215836"

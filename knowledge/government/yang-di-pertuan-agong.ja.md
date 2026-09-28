@@ -54,16 +54,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan — Undang-Undang Malaysia"
+  - title: "連邦憲法 — マレーシア法令集 (Perlembagaan Persekutuan — Undang-Undang Malaysia)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Perlembagaan Persekutuan (Cetakan Semula)"
+    publisher: "マレーシア司法長官府 (AGC)"
+  - title: "連邦憲法（再版）(Perlembagaan Persekutuan (Cetakan Semula))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
-  - title: "Pemilihan Yang di-Pertuan Agong"
+    publisher: "首相府 (JPM)"
+  - title: "国王（ヤン・ディ・プルトゥアン・アゴン）の選出 (Pemilihan Yang di-Pertuan Agong)"
     url: "https://www.majlisraja-raja.gov.my/ms/pilih"
-    publisher: "Majlis Raja-Raja Malaysia"
-  - title: "Malaysia saksi pertabalan Sultan Ibrahim sebagai Yang di-Pertuan Agong ke-17"
+    publisher: "マレーシア統治者会議"
+  - title: "マレーシア、スルタン・イブラヒムの第17代国王即位を見届ける (Malaysia saksi pertabalan Sultan Ibrahim sebagai Yang di-Pertuan Agong ke-17)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/malaysia-saksi-pertabalan-sultan-ibrahim-sebagai-yang-di-pertuan-agong-ke-17/"
     publisher: "Radio Televisyen Malaysia"
     date: "2024-07-20"

@@ -58,22 +58,22 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Antitrust and Competition Laws in Malaysia"
+  - title: "马来西亚的反垄断与竞争法 (Antitrust and Competition Laws in Malaysia)"
     url: "https://www.globalcompliancenews.com/antitrust-and-competition-laws-in-malaysia/"
     publisher: "Global Compliance News (Baker McKenzie)"
-  - title: "Basics of Competition Law in Malaysia: What Every Business Owner and Company Director Should Know"
+  - title: "马来西亚竞争法基础：每位企业主与公司董事应知的事项 (Basics of Competition Law in Malaysia: What Every Business Owner and Company Director Should Know)"
     url: "https://dnh.com.my/basics-of-competition-law-in-malaysia-what-every-business-owner-and-company-director-should-know/"
     publisher: "Donovan & Ho"
-  - title: "RM415 Million For Fixing The Price Of Chicken Feed: How Malaysia Actually Punishes Cartels"
+  - title: "为操纵鸡饲料价格被罚4.15亿令吉：马来西亚究竟如何惩处卡特尔 (RM415 Million For Fixing The Price Of Chicken Feed: How Malaysia Actually Punishes Cartels)"
     url: "https://asklegal.my/p/malaysian-companies-fine-industry-monopoly-anti-competition-mycc"
     publisher: "AskLegal.my"
-  - title: "Malaysia's Competition (Amendment) Bill 2026 and Competition Commission (Amendment) Bill 2026"
+  - title: "马来西亚Competition (Amendment) Bill 2026与Competition Commission (Amendment) Bill 2026 (Malaysia's Competition (Amendment) Bill 2026 and Competition Commission (Amendment) Bill 2026)"
     url: "https://www.ziclegal.com/resources/malaysias-competition-amendment-bill-2026-and-competition-commission-amendment-bill-2026"
     publisher: "ZICO Law"
-  - title: "Senate passes competition bill to strengthen fight against cartels, monopolies"
+  - title: "上议院通过竞争法案以加强打击卡特尔与垄断 (Senate passes competition bill to strengthen fight against cartels, monopolies)"
     url: "https://www.malaymail.com/news/malaysia/2026/07/27/senate-passes-competition-bill-to-strengthen-fight-against-cartels-monopolies/229163"
     publisher: "Malay Mail"
-  - title: "MyCC imposed RM667.3 million in penalties on 270 companies between 2012 and July 2026, Dewan Negara told"
+  - title: "MyCC在2012年至2026年7月期间对270家公司处以6.673亿令吉罚款，上议院获告知 (MyCC imposed RM667.3 million in penalties on 270 companies between 2012 and July 2026, Dewan Negara told)"
     url: "https://mediaselangor.com/en/2026/07/386718"
     publisher: "Media Selangor (Selangor Journal)"
 

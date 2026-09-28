@@ -58,13 +58,13 @@ sensitivity: "none"
 created: 2026-08-19
 updated: 2026-08-19
 sources:
-  - title: "Prime Ministers of Malaysia"
+  - title: "マレーシアの歴代首相 (Prime Ministers of Malaysia)"
     url: "https://www.perdana.org.my/pms-of-malaysia/"
     publisher: "Perdana Leadership Foundation"
-  - title: "Prime Minister's Office of Malaysia"
+  - title: "マレーシア首相府 (Prime Minister's Office of Malaysia)"
     url: "https://www.pmo.gov.my"
-    publisher: "Prime Minister's Office of Malaysia"
-  - title: "Malaysia — Government and politics"
+    publisher: "マレーシア首相府"
+  - title: "マレーシア — 政府と政治 (Malaysia — Government and politics)"
     url: "https://www.britannica.com/place/Malaysia"
     publisher: "Encyclopædia Britannica"
 

@@ -50,22 +50,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Chronology of MCO phases in the country"
+  - title: "全国行动管制令（MCO）各阶段编年 (Chronology of MCO phases in the country)"
     url: "https://bernama.com/en/general/news.php?id=1920867"
     publisher: "Bernama"
-  - title: "Examining Malaysia's Covid-19 vaccination response"
+  - title: "审视马来西亚的COVID-19疫苗接种应对 (Examining Malaysia's Covid-19 vaccination response)"
     url: "https://www.thestar.com.my/lifestyle/health/the-doctor-says/2025/11/25/examining-malaysias-covid-19-vaccination-response"
     publisher: "The Star"
-  - title: "Khairy: Government Owns MySejahtera App's IP, Personal Data, Source Code"
+  - title: "凯里：政府拥有 MySejahtera 应用程序的知识产权、个人数据与源代码 (Khairy: Government Owns MySejahtera App's IP, Personal Data, Source Code)"
     url: "https://codeblue.galencentre.org/2022/03/khairy-government-owns-mysejahtera-apps-ip-personal-data-source-code/"
     publisher: "CodeBlue, Galen Centre"
-  - title: "Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships"
+  - title: "马来西亚2023年卫生白皮书：马来西亚通过公私合作实现卫生系统改革之路 (Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships)"
     url: "https://www.mondaq.com/healthcare/1348400/malaysia-health-white-paper-2023-malaysias-path-to-health-system-reform-through-public-private-partnerships"
     publisher: "Mondaq"
-  - title: "Malaysia impact story (Investment Round)"
+  - title: "马来西亚影响力案例（投资轮）(Malaysia impact story (Investment Round))"
     url: "https://www.who.int/about/funding/invest-in-who/investment-round/four-years-forward/malaysia-impact-story"
     publisher: "World Health Organization"
-  - title: "COVID-19 Inpatient Deaths and Brought-in-Dead Cases in Malaysia"
+  - title: "马来西亚COVID-19住院死亡与送院前死亡病例 (COVID-19 Inpatient Deaths and Brought-in-Dead Cases in Malaysia)"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9298663/"
     publisher: "PMC (National Library of Medicine)"
 

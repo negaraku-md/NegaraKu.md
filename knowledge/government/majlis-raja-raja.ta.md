@@ -40,19 +40,19 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint 2020) — Article 38, Third Schedule, Fifth Schedule"
+  - title: "கூட்டரசு அரசியலமைப்பு (2020 மறுபதிப்பு) — உறுப்புரை 38, மூன்றாம் அட்டவணை, ஐந்தாம் அட்டவணை (Federal Constitution (Reprint 2020) — Article 38, Third Schedule, Fifth Schedule)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "மலேசிய சட்ட மா அதிபர் அறையகம் (Attorney General's Chambers)"
     date: "2020-10-15"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Persekutuan"
+  - title: "கூட்டரசு அரசியலமைப்பு — கூட்டரசுச் சட்டமியற்றல் இணையவாயில் (Perlembagaan Persekutuan — Portal Perundangan Persekutuan)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Peranan Majlis Raja-Raja"
+    publisher: "மலேசிய சட்ட மா அதிபர் அறையகம்"
+  - title: "அரசர்கள் மாநாட்டின் பங்கு (Peranan Majlis Raja-Raja)"
     url: "https://www.majlisraja-raja.gov.my/ms/peranan-majlis-raja-raja"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
-  - title: "Maklumat Majlis Raja-Raja"
+    publisher: "அரசர்களின் பேரிலச்சினைக் காப்பாளர் அலுவலகம்"
+  - title: "அரசர்கள் மாநாடு பற்றிய தகவல் (Maklumat Majlis Raja-Raja)"
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
+    publisher: "அரசர்களின் பேரிலச்சினைக் காப்பாளர் அலுவலகம்"
 
 entity: "Majlis Raja-Raja"
 wikidata: "Q5159925"

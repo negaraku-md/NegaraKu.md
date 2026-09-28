@@ -58,20 +58,20 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Federal Constitution (Reprint 2020) — Part III (Citizenship): Articles 14, 15, 15A, 16, 18, 19, 23, 24, and the Second Schedule Parts I and II"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ (ฉบับพิมพ์ซ้ำ 2020) — ภาค III (สัญชาติ): มาตรา 14, 15, 15A, 16, 18, 19, 23, 24 และตารางที่สอง ภาค I และ II (Federal Constitution (Reprint 2020) — Part III (Citizenship): Articles 14, 15, 15A, 16, 18, 19, 23, 24, and the Second Schedule Parts I and II)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
     date: "2020"
-  - title: "Kewarganegaraan — MyGovernment (Portal Rasmi Kerajaan Malaysia)"
+  - title: "สัญชาติ — MyGovernment (พอร์ทัลทางการของรัฐบาลมาเลเซีย) (Kewarganegaraan — MyGovernment (Portal Rasmi Kerajaan Malaysia))"
     url: "https://www.malaysia.gov.my/en/categories/pengenalan-diri/kewarganegaraan"
-    publisher: "Kerajaan Malaysia (MyGovernment)"
-  - title: "Parliament amends Constitution to grant automatic citizenship to kids born abroad to Malaysian mothers"
+    publisher: "รัฐบาลมาเลเซีย (MyGovernment)"
+  - title: "รัฐสภาแก้ไขรัฐธรรมนูญให้สัญชาติโดยอัตโนมัติแก่บุตรที่เกิดในต่างประเทศจากมารดาชาวมาเลเซีย (Parliament amends Constitution to grant automatic citizenship to kids born abroad to Malaysian mothers)"
     url: "https://www.thestar.com.my/news/nation/2024/10/17/parliament-amends-constitution-to-grant-automatic-citizenship-to-kids-born-abroad-to-malaysian-mothers"
     publisher: "The Star"
     date: "2024-10-17"
-  - title: "Media Statement No. 01-2026 (OCC) — Children's Commissioner Welcomes Implementation of Law Granting Automatic Citizenship to Children Born Overseas to Malaysian Mothers in Mid-2026"
+  - title: "แถลงการณ์สื่อฉบับที่ 01-2026 (OCC) — กรรมาธิการด้านเด็กยินดีต่อการบังคับใช้กฎหมายที่ให้สัญชาติโดยอัตโนมัติแก่บุตรที่เกิดในต่างประเทศจากมารดาชาวมาเลเซียในกลางปี 2026 (Media Statement No. 01-2026 (OCC) — Children's Commissioner Welcomes Implementation of Law Granting Automatic Citizenship to Children Born Overseas to Malaysian Mothers in Mid-2026)"
     url: "https://suhakam.org.my/2026/01/media-statement-no-01-occ-_childrens-commissioner-welcomes-implementation-of-law-granting-automatic-citizenship-to-children-born-overseas-to-malaysian-mothers-in-mid-2026/"
-    publisher: "SUHAKAM (Suruhanjaya Hak Asasi Manusia Malaysia)"
+    publisher: "คณะกรรมการสิทธิมนุษยชนแห่งมาเลเซีย (SUHAKAM)"
     date: "2026-01"
 
 entity: "Kewarganegaraan Malaysia (Bahagian III, Perlembagaan Persekutuan)"

@@ -38,12 +38,12 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Laws of Malaysia — Portal Rasmi Jabatan Peguam Negara"
+  - title: "กฎหมายมาเลเซีย — พอร์ทัลทางการของสำนักงานอัยการสูงสุด (Laws of Malaysia — Portal Rasmi Jabatan Peguam Negara)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Jabatan Peguam Negara"
-  - title: "Jabatan Peguam Negara Malaysia"
+    publisher: "สำนักงานอัยการสูงสุด (AGC)"
+  - title: "สำนักงานอัยการสูงสุดมาเลเซีย (Jabatan Peguam Negara Malaysia)"
     url: "https://www.agc.gov.my/"
-    publisher: "Jabatan Peguam Negara"
+    publisher: "สำนักงานอัยการสูงสุด (AGC)"
 
 entity: "Akta"
 relations:

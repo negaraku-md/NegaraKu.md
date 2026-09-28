@@ -52,13 +52,13 @@ verificationNeeded:
   - "ยืนยันว่ารายการบทบัญญัติในมาตรา 159(5) และข้อยกเว้นในมาตรา 159(4) ไม่เปลี่ยนแปลงในการแก้ไขใด ๆ หลังจากฉบับพิมพ์ซ้ำปี 2020"
 updated: 2026-08-01
 sources:
-  - title: "Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ (ฉบับพิมพ์ซ้ำ, ณ วันที่ 15 ตุลาคม ค.ศ. 2020) — มาตรา 4, มาตรา 159, มาตรา 160, ภาค XI (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
     date: "2020-10-15"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Malaysia (Laws of Malaysia)"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ — พอร์ทัลนิติบัญญัติมาเลเซีย (Laws of Malaysia) (Perlembagaan Persekutuan — Portal Perundangan Malaysia (Laws of Malaysia))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
 
 entity: "Perlembagaan Persekutuan Malaysia"
 wikidata: "Q1003080"

@@ -41,16 +41,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution — Laws of Malaysia (Article 145)"
+  - title: "联邦宪法 — 马来西亚法律(第145条) (Federal Constitution — Laws of Malaysia (Article 145))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Federal Constitution (Reprint 2020)"
+    publisher: "马来西亚总检察署"
+  - title: "联邦宪法(2020年重印本) (Federal Constitution (Reprint 2020))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
-  - title: "Attorney General's Chambers of Malaysia — Official Portal"
+    publisher: "总理府"
+  - title: "马来西亚总检察署 — 官方门户 (Attorney General's Chambers of Malaysia — Official Portal)"
     url: "https://www.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Constitution of Malaysia (full text, Article 145)"
+    publisher: "马来西亚总检察署"
+  - title: "马来西亚宪法(全文,第145条) (Constitution of Malaysia (full text, Article 145))"
     url: "https://www.constituteproject.org/constitution/Malaysia_2007"
     publisher: "Constitute Project"
 

@@ -53,17 +53,17 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — teks sah bahasa Melayu"
+  - title: "連邦憲法 (2020年再版) — 正式マレー語テキスト (Perlembagaan Persekutuan (Cetakan Semula 2020) — teks sah bahasa Melayu)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (AGC)"
+    publisher: "マレーシア司法長官府 (AGC)"
     date: "2020"
-  - title: "Federal Constitution (Reprint 2020) — teks bahasa Inggeris"
+  - title: "連邦憲法 (2020年再版) — 英語テキスト (Federal Constitution (Reprint 2020) — teks bahasa Inggeris)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (AGC)"
+    publisher: "マレーシア司法長官府 (AGC)"
     date: "2020"
-  - title: "Federal Constitution — Laws of Malaysia portal"
+  - title: "連邦憲法 — マレーシア法令ポータル (Federal Constitution — Laws of Malaysia portal)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia (AGC)"
+    publisher: "マレーシア司法長官府 (AGC)"
 
 entity: "Perlembagaan Persekutuan"
 wikidata: "Q1003080"

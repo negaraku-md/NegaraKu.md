@@ -53,19 +53,19 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "i-Invest: Member Investment Scheme"
+  - title: "i-Invest: உறுப்பினர் முதலீட்டுத் திட்டம் (i-Invest: Member Investment Scheme)"
     url: "https://www.kwsp.gov.my/en/member/savings/i-invest"
-    publisher: "Employees Provident Fund (KWSP)"
-  - title: "EPF Launches i-Invest Online Platform Enabling Unit Trust Investment Directly From EPF Account"
+    publisher: "ஊழியர் வருங்கால வைப்பு நிதி (KWSP)"
+  - title: "EPF கணக்கிலிருந்து நேரடியாக யூனிட் டிரஸ்ட் முதலீட்டை செயல்படுத்தும் i-Invest ஆன்லைன் தளத்தை EPF தொடங்குகிறது (EPF Launches i-Invest Online Platform Enabling Unit Trust Investment Directly From EPF Account)"
     url: "https://www.kwsp.gov.my/en/w/epf-launches-i-invest-online-platform-enabling-unit-trust-investment-directly-from-epf-account"
-    publisher: "Employees Provident Fund (KWSP)"
-  - title: "Members Investment Scheme (MIS) — Eligibility Leaflet"
+    publisher: "ஊழியர் வருங்கால வைப்பு நிதி (KWSP)"
+  - title: "உறுப்பினர் முதலீட்டுத் திட்டம் (MIS) — தகுதி துண்டுப்பிரசுரம் (Members Investment Scheme (MIS) — Eligibility Leaflet)"
     url: "https://www.kwsp.gov.my/documents/d/guest/a19_en_members-investment-scheme-mis-005"
-    publisher: "Employees Provident Fund (KWSP)"
-  - title: "Employees Provident Fund (EPF) — Members Investment Scheme FAQ"
+    publisher: "ஊழியர் வருங்கால வைப்பு நிதி (KWSP)"
+  - title: "ஊழியர் வருங்கால வைப்பு நிதி (EPF) — உறுப்பினர் முதலீட்டுத் திட்டம் அடிக்கடி கேட்கப்படும் கேள்விகள் (Employees Provident Fund (EPF) — Members Investment Scheme FAQ)"
     url: "https://www.eunittrust.com.my/Home/EPFFaq"
-    publisher: "Eastspring Investments (EPF-appointed fund management institution)"
-  - title: "EPF Announces Fee Reductions For EPF Members Investment Scheme"
+    publisher: "Eastspring Investments (EPF நியமித்த நிதி மேலாண்மை நிறுவனம்)"
+  - title: "EPF உறுப்பினர் முதலீட்டுத் திட்டத்திற்கான கட்டணக் குறைப்பை EPF அறிவிக்கிறது (EPF Announces Fee Reductions For EPF Members Investment Scheme)"
     url: "https://www.malaymail.com/news/malaysia/2020/04/30/epf-announces-fee-reductions-for-epf-members-investment-scheme/1861785"
     publisher: "Malay Mail"
 

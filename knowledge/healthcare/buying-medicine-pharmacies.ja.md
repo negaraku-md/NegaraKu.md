@@ -34,15 +34,15 @@ revisions:
 sensitivity: "none"
 updated: "2026-07-24"
 sources:
-  - title: "Poisons Act 1952 (Act 366) — Reprint as at 15 May 2024"
+  - title: "1952年毒物法（法令第366号）— 2024年5月15日現在の再版 (Poisons Act 1952 (Act 366) — Reprint as at 15 May 2024)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2182410_BI/ACT%20366_Final%20online_as%2015%20Mei%202024.pdf"
-    publisher: "Pejabat Peguam Negara Malaysia (Attorney General's Chambers, AGC) — Portal Perundangan Persekutuan"
-  - title: "Halaman Utama — National Pharmaceutical Regulatory Agency (NPRA)"
+    publisher: "マレーシア司法長官府 (AGC) — 連邦法令ポータル"
+  - title: "ホーム — 国家医薬品規制庁（NPRA）(Halaman Utama — National Pharmaceutical Regulatory Agency (NPRA))"
     url: "https://www.npra.gov.my/index.php/en/"
-    publisher: "National Pharmaceutical Regulatory Agency (NPRA), Kementerian Kesihatan Malaysia"
-  - title: "MyUBAT — Digitalisation of Pharmacy Services"
+    publisher: "国家医薬品規制庁 (NPRA)、マレーシア保健省"
+  - title: "MyUBAT — 薬事サービスのデジタル化 (MyUBAT — Digitalisation of Pharmacy Services)"
     url: "https://myubat.pharmacy.gov.my/?lang=en"
-    publisher: "Pharmaceutical Services Programme, Kementerian Kesihatan Malaysia (KKM)"
+    publisher: "薬事サービスプログラム、マレーシア保健省 (KKM)"
 entity: "sistem farmasi dan pengelasan ubat di Malaysia"
 relations:
   - { rel: "administered-by", to: "moh" }

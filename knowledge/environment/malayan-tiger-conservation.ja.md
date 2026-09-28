@@ -55,21 +55,21 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "Minister: Malayan tiger numbers bouncing back"
+  - title: "大臣：マレートラの個体数が回復傾向 (Minister: Malayan tiger numbers bouncing back)"
     url: "https://www.thestar.com.my/news/nation/2026/07/28/minister-malayan-tiger-numbers-bouncing-back"
     publisher: "The Star"
-  - title: "Malayan Tiger Crisis Action Plan To Address Population Crisis"
+  - title: "個体数危機に対処するためのマレートラ危機行動計画 (Malayan Tiger Crisis Action Plan To Address Population Crisis)"
     url: "https://www.bernama.com/en/news.php?id=2332507"
     publisher: "Bernama"
-  - title: "Perhilitan intensifying efforts to conserve endangered Malayan tigers, Parliament told"
+  - title: "Perhilitanが絶滅危惧のマレートラ保全の取り組みを強化、と国会に説明 (Perhilitan intensifying efforts to conserve endangered Malayan tigers, Parliament told)"
     url: "https://www.thestar.com.my/news/nation/2024/11/19/perhilitan-intensifying-efforts-to-conserve-endangered-malayan-tigers-parliament-told"
     publisher: "The Star"
-  - title: "Pahang, UAE sign agreement for RM99.8mil grant to protect Malayan Tiger"
+  - title: "パハン州とUAE、マレートラ保護のためRM9,980万の助成協定に署名 (Pahang, UAE sign agreement for RM99.8mil grant to protect Malayan Tiger)"
     url: "https://www.thestar.com.my/news/nation/2025/01/16/pahang-uae-sign-agreement-for-rm998mil-grant-to-protect-malayan-tiger"
     publisher: "The Star"
-  - title: "Panthera tigris jacksoni (Malayan Tiger)"
+  - title: "Panthera tigris jacksoni（マレートラ） (Panthera tigris jacksoni (Malayan Tiger))"
     url: "https://www.mybis.gov.my/art/137"
-    publisher: "Malaysia Biodiversity Information System (MyBIS)"
+    publisher: "マレーシア生物多様性情報システム（MyBIS）"
 
 entity: "Malayan tiger (Panthera tigris jacksoni)"
 wikidata: "Q215836"

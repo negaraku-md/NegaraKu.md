@@ -56,19 +56,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Unit Trust Funds Remain Largest CIS Component With RM546.08 Bln NAV"
+  - title: "单位信托基金仍是最大的集体投资计划（CIS）组成部分，净资产值（NAV）达5460.8亿令吉 (Unit Trust Funds Remain Largest CIS Component With RM546.08 Bln NAV)"
     url: "https://www.bernama.com/en/news.php?id=2404272"
     publisher: "Bernama"
-  - title: "Charges & Fees"
+  - title: "收费与费用 (Charges & Fees)"
     url: "https://www.fimm.com.my/investors/understanding-investing/charges-fees-2/"
     publisher: "Federation of Investment Managers Malaysia (FIMM)"
-  - title: "Trends: Unit trust fees and charges down, sustainable funds on the rise"
+  - title: "趋势：单位信托费用与收费下降，可持续基金上升 (Trends: Unit trust fees and charges down, sustainable funds on the rise)"
     url: "https://theedgemalaysia.com/article/trends-unit-trust-fees-and-charges-down-sustainable-funds-rise"
     publisher: "The Edge Malaysia"
-  - title: "Public Mutual — Our Profile"
+  - title: "Public Mutual — 我们的简介 (Public Mutual — Our Profile)"
     url: "https://www.publicmutual.com.my/pmb/Our-Profile"
     publisher: "Public Mutual Berhad"
-  - title: "EPF Adds Five New Platforms To Its i-Invest Investment Facility"
+  - title: "EPF为其i-Invest投资平台新增五个平台 (EPF Adds Five New Platforms To Its i-Invest Investment Facility)"
     url: "https://ringgitplus.com/en/blog/investment/epf-adds-five-new-platforms-to-its-i-invest-investment-facility.html"
     publisher: "RinggitPlus"
 

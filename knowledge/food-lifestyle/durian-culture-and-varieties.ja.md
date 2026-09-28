@@ -57,21 +57,21 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia 2020-2024"
+  - title: "供給・利用勘定 主要農産物、マレーシア 2020-2024 (Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia 2020-2024)"
     url: "https://www.dosm.gov.my/portal-main/release-content/supply-and-utilization-accounts-selected-agricultural-commodities-malaysia-2020-2024"
-    publisher: "Department of Statistics Malaysia"
+    publisher: "マレーシア統計局"
     date: "2025-12-15"
-  - title: "Protokol Keperluan Fitosanitari bagi Eksport Durian Segar dari Malaysia ke China"
+  - title: "マレーシアから中国への生鮮ドリアン輸出に関する植物検疫要件議定書 (Protokol Keperluan Fitosanitari bagi Eksport Durian Segar dari Malaysia ke China)"
     url: "https://www.doa.gov.my/doa/resources/aktiviti_sumber/sumber_awam/maklumat_biosekuriti/kelulusan_protokol_fitosanitari_durian_segar_Malaysia_China.pdf"
-    publisher: "Jabatan Pertanian Malaysia"
-  - title: "Malaysia Exports Durians Worth RM6.37 Bln To China From 2018-2025"
+    publisher: "マレーシア農業局"
+  - title: "マレーシア、2018〜2025年に63.7億リンギ相当のドリアンを中国へ輸出 (Malaysia Exports Durians Worth RM6.37 Bln To China From 2018-2025)"
     url: "https://www.bernama.com/en/news.php?id=2475446"
     publisher: "Bernama"
-  - title: "First shipment of Malaysian fresh durian arrives in China"
+  - title: "マレーシア産生鮮ドリアンの初出荷が中国に到着 (First shipment of Malaysian fresh durian arrives in China)"
     url: "https://www.fruitnet.com/asiafruit/first-shipment-of-malaysian-fresh-durian-arrives-in-china/262032.article"
     publisher: "Fruitnet / Asiafruit"
     date: "2024-08-27"
-  - title: "Geographical indications in Malaysia: Recent developments and progress"
+  - title: "マレーシアにおける地理的表示：最近の動向と進展 (Geographical indications in Malaysia: Recent developments and progress)"
     url: "https://asiaiplaw.com/article/geographical-indications-in-malaysia-recent-developments-and-progress"
     publisher: "Asia IP"
 

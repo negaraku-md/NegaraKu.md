@@ -32,9 +32,9 @@ sensitivity: "none"
 
 updated: 2026-07-23
 sources:
-  - title: "Employees Provident Fund (KWSP)"
+  - title: "従業員積立基金（KWSP）(Employees Provident Fund (KWSP))"
     url: "https://www.kwsp.gov.my/"
-    publisher: "EPF/KWSP"
+    publisher: "従業員積立基金 (EPF/KWSP)"
 
 entity: "EPF"
 wikidata: "Q5374309"

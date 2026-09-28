@@ -41,16 +41,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution — Laws of Malaysia (Article 145)"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ — กฎหมายมาเลเซีย (มาตรา 145) (Federal Constitution — Laws of Malaysia (Article 145))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Federal Constitution (Reprint 2020)"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ (ฉบับพิมพ์ซ้ำ ค.ศ. 2020) (Federal Constitution (Reprint 2020))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
-  - title: "Attorney General's Chambers of Malaysia — Official Portal"
+    publisher: "สำนักนายกรัฐมนตรี"
+  - title: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย — พอร์ทัลทางการ (Attorney General's Chambers of Malaysia — Official Portal)"
     url: "https://www.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Constitution of Malaysia (full text, Article 145)"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
+  - title: "รัฐธรรมนูญมาเลเซีย (ตัวบทเต็ม, มาตรา 145) (Constitution of Malaysia (full text, Article 145))"
     url: "https://www.constituteproject.org/constitution/Malaysia_2007"
     publisher: "Constitute Project"
 

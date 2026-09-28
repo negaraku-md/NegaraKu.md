@@ -50,22 +50,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Dewan Rakyat passes health white paper"
+  - title: "மக்கள் மன்றம் (Dewan Rakyat) சுகாதார வெள்ளை அறிக்கையை நிறைவேற்றியது (Dewan Rakyat passes health white paper)"
     url: "https://www.freemalaysiatoday.com/category/nation/2023/06/15/dewan-rakyat-passes-health-white-paper/"
     publisher: "Free Malaysia Today"
-  - title: "Health White Paper Touts MOH Gradually Dropping Service Provider Role"
+  - title: "சுகாதார வெள்ளை அறிக்கை, சுகாதார அமைச்சு (MOH) படிப்படியாக சேவை வழங்குநர் பங்கை விடுவதை முன்மொழிகிறது (Health White Paper Touts MOH Gradually Dropping Service Provider Role)"
     url: "https://codeblue.galencentre.org/2023/06/health-white-paper-touts-moh-gradually-dropping-service-provider-role/"
     publisher: "CodeBlue, Galen Centre"
-  - title: "Six Months On, Whither The Health White Paper?"
+  - title: "ஆறு மாதங்களுக்குப் பிறகு, சுகாதார வெள்ளை அறிக்கை எங்கே செல்கிறது? (Six Months On, Whither The Health White Paper?)"
     url: "https://codeblue.galencentre.org/2023/12/six-months-on-whither-the-health-white-paper/"
     publisher: "CodeBlue, Galen Centre"
-  - title: "Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships"
+  - title: "மலேசியா சுகாதார வெள்ளை அறிக்கை 2023: பொது-தனியார் கூட்டாண்மைகள் மூலம் சுகாதார அமைப்பு சீர்திருத்தத்திற்கான மலேசியாவின் பாதை (Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships)"
     url: "https://www.mondaq.com/healthcare/1348400/malaysia-health-white-paper-2023-malaysias-path-to-health-system-reform-through-public-private-partnerships"
     publisher: "Mondaq"
-  - title: "Malaysia MOH Moots National Health Insurance With Employee, Employer, Government Contributions"
+  - title: "மலேசிய சுகாதார அமைச்சு (MOH) ஊழியர், முதலாளி மற்றும் அரசாங்க பங்களிப்புகளுடன் தேசிய சுகாதார காப்பீட்டை முன்மொழிகிறது (Malaysia MOH Moots National Health Insurance With Employee, Employer, Government Contributions)"
     url: "https://p4h.world/en/news/malaysia-moh-moots-national-health-insurance-with-employee-employer-government-contributions/"
     publisher: "P4H Network"
-  - title: "Health minister: Rakan KKM not privatisation, it aims to keep medical experts in public sector"
+  - title: "சுகாதார அமைச்சர்: Rakan KKM தனியார்மயமாக்கல் அல்ல, மருத்துவ நிபுணர்களை பொதுத் துறையில் தக்கவைப்பதே நோக்கம் (Health minister: Rakan KKM not privatisation, it aims to keep medical experts in public sector)"
     url: "https://www.malaymail.com/news/malaysia/2025/12/03/health-minster-rakan-kkm-not-privatisation-it-aims-to-keep-medical-experts-in-public-sector/200613"
     publisher: "Malay Mail"
 

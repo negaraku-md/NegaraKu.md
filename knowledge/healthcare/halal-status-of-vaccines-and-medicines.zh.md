@@ -47,19 +47,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Irsyad Hukum Ke-30: Hukum Vaksin daripada Perspektif Islam"
+  - title: "第30期伊斯兰法令指引：从伊斯兰视角论疫苗的教法裁定 (Irsyad Hukum Ke-30: Hukum Vaksin daripada Perspektif Islam)"
     url: "https://muftiwp.gov.my/ms/artikel/irsyad-hukum/umum/2069-30"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Bayan Linnas Siri Ke-167: Kewajiban Mengambil Vaksin Mengikut Jadual Imunisasi Kebangsaan daripada Perspektif Islam"
+    publisher: "联邦直辖区宗教司办公室"
+  - title: "《Bayan Linnas》第167期：从伊斯兰视角论依据国家免疫时间表接种疫苗的义务 (Bayan Linnas Siri Ke-167: Kewajiban Mengambil Vaksin Mengikut Jadual Imunisasi Kebangsaan daripada Perspektif Islam)"
     url: "https://muftiwp.gov.my/ms/artikel/bayan-linnas/3129-"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Irsyad Fatwa Khas Ramadhan Siri Ke-176: Hukum Cucuk Vaksin COVID-19 pada Bulan Ramadan"
+    publisher: "联邦直辖区宗教司办公室"
+  - title: "斋月特别法特瓦指引第176期：斋月期间接种COVID-19疫苗的教法裁定 (Irsyad Fatwa Khas Ramadhan Siri Ke-176: Hukum Cucuk Vaksin COVID-19 pada Bulan Ramadan)"
     url: "https://www.muftiwp.gov.my/ms/artikel/irsyad-hukum/edisi-ramadhan/4746-irsyad-fatwa-khas-ramadhan-siri-ke-176-apakah-hukum-cucuk-vaksin-covid-19-pada-bulan-ramadhan"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Fatwa Gelatin dalam Ubat"
+    publisher: "联邦直辖区宗教司办公室"
+  - title: "关于药物中明胶的法特瓦 (Fatwa Gelatin dalam Ubat)"
     url: "https://www.pkppippum.org.my/v2/fatwa-gelatin-dalam-ubat/"
     publisher: "Persatuan Kakitangan Pegawai & Penolong Pegawai Islam, PPUM"
-  - title: "Vaksin Covid-19: Keputusan Muzakarah perlu disokong"
+  - title: "COVID-19疫苗：穆扎卡拉（法特瓦理事会）的决定应获支持 (Vaksin Covid-19: Keputusan Muzakarah perlu disokong)"
     url: "https://www.sinarharian.com.my/article/116228/BERITA/Nasional/Vaksin-Covid-19-Keputusan-Muzakarah-perlu-disokong"
     publisher: "Sinar Harian"
 

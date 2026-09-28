@@ -52,16 +52,16 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "FAQ Service Tax (MySST)"
+  - title: "サービス税FAQ（MySST） (FAQ Service Tax (MySST))"
     url: "https://mysst.customs.gov.my/faq-services-tax/"
-    publisher: "Royal Malaysian Customs Department"
-  - title: "Proposed increase in service tax rate and expansion of taxable services"
+    publisher: "マレーシア王立関税局"
+  - title: "サービス税率の引き上げおよび課税対象サービスの拡大の提案 (Proposed increase in service tax rate and expansion of taxable services)"
     url: "https://kpmg.com/my/en/home/insights/2024/01/proposed-increase-in-service-tax-rate-and-expansion-of-taxable-services.html"
     publisher: "KPMG Malaysia"
-  - title: "Malaysia: Service tax rate increased and scope of tax expanded"
+  - title: "マレーシア：サービス税率が引き上げられ、課税範囲が拡大 (Malaysia: Service tax rate increased and scope of tax expanded)"
     url: "https://www.bdo.global/en-gb/insights/tax/indirect-tax/malaysia-service-tax-rate-increased-and-scope-of-tax-expanded"
     publisher: "BDO"
-  - title: "Cover Story: Getting what you pay for"
+  - title: "カバーストーリー：支払った分の価値を得る (Cover Story: Getting what you pay for)"
     url: "https://theedgemalaysia.com/article/cover-story-getting-what-you-pay"
     publisher: "The Edge Malaysia"
 

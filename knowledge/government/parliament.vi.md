@@ -47,18 +47,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Federal Constitution (Reprint as at 15 October 2020)"
+  - title: "Hiến pháp Liên bang (Bản in lại tính đến ngày 15 tháng 10 năm 2020) (Federal Constitution (Reprint as at 15 October 2020))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "List of Members — House of Representatives"
+    publisher: "Phòng Chưởng lý"
+  - title: "Danh sách nghị sĩ — Hạ viện (List of Members — House of Representatives)"
     url: "https://www.parlimen.gov.my/ahli-dewan.html?uweb=dr&lang=en"
-    publisher: "Parliament of Malaysia"
-  - title: "Official Portal of the Parliament of Malaysia"
+    publisher: "Nghị viện Malaysia"
+  - title: "Cổng thông tin chính thức của Nghị viện Malaysia (Official Portal of the Parliament of Malaysia)"
     url: "https://www.parlimen.gov.my/index.php?lang=en"
-    publisher: "Parliament of Malaysia"
-  - title: "Federal Constitution — Laws of Malaysia"
+    publisher: "Nghị viện Malaysia"
+  - title: "Hiến pháp Liên bang — Laws of Malaysia (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "Phòng Chưởng lý Malaysia"
 
 entity: "Parliament of Malaysia"
 wikidata: "Q2986392"

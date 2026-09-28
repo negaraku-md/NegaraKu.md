@@ -40,19 +40,19 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint 2020) — Article 38, Third Schedule, Fifth Schedule"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ (ฉบับพิมพ์ซ้ำ 2020) — มาตรา 38 ตารางที่สาม ตารางที่ห้า (Federal Constitution (Reprint 2020) — Article 38, Third Schedule, Fifth Schedule)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย (Attorney General's Chambers)"
     date: "2020-10-15"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Persekutuan"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ — พอร์ทัลกฎหมายสหพันธรัฐ (Perlembagaan Persekutuan — Portal Perundangan Persekutuan)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Peranan Majlis Raja-Raja"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
+  - title: "บทบาทของที่ประชุมเจ้าผู้ครองรัฐ (Peranan Majlis Raja-Raja)"
     url: "https://www.majlisraja-raja.gov.my/ms/peranan-majlis-raja-raja"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
-  - title: "Maklumat Majlis Raja-Raja"
+    publisher: "สำนักผู้เก็บรักษาตราแผ่นดินแห่งบรรดาเจ้าผู้ครองรัฐ"
+  - title: "ข้อมูลที่ประชุมเจ้าผู้ครองรัฐ (Maklumat Majlis Raja-Raja)"
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
+    publisher: "สำนักผู้เก็บรักษาตราแผ่นดินแห่งบรรดาเจ้าผู้ครองรัฐ"
 
 entity: "Majlis Raja-Raja"
 wikidata: "Q5159925"

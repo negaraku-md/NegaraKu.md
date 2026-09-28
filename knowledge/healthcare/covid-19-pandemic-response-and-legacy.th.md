@@ -50,22 +50,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Chronology of MCO phases in the country"
+  - title: "ลำดับเหตุการณ์ระยะต่าง ๆ ของ MCO ในประเทศ (Chronology of MCO phases in the country)"
     url: "https://bernama.com/en/general/news.php?id=1920867"
     publisher: "Bernama"
-  - title: "Examining Malaysia's Covid-19 vaccination response"
+  - title: "การตรวจสอบการรับมือด้านการฉีดวัคซีนโควิด-19 ของมาเลเซีย (Examining Malaysia's Covid-19 vaccination response)"
     url: "https://www.thestar.com.my/lifestyle/health/the-doctor-says/2025/11/25/examining-malaysias-covid-19-vaccination-response"
     publisher: "The Star"
-  - title: "Khairy: Government Owns MySejahtera App's IP, Personal Data, Source Code"
+  - title: "ไครี: รัฐบาลเป็นเจ้าของทรัพย์สินทางปัญญา ข้อมูลส่วนบุคคล และซอร์สโค้ดของแอป MySejahtera (Khairy: Government Owns MySejahtera App's IP, Personal Data, Source Code)"
     url: "https://codeblue.galencentre.org/2022/03/khairy-government-owns-mysejahtera-apps-ip-personal-data-source-code/"
     publisher: "CodeBlue, Galen Centre"
-  - title: "Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships"
+  - title: "สมุดปกขาวด้านสุขภาพมาเลเซีย 2023: เส้นทางสู่การปฏิรูประบบสุขภาพของมาเลเซียผ่านความร่วมมือภาครัฐและเอกชน (Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships)"
     url: "https://www.mondaq.com/healthcare/1348400/malaysia-health-white-paper-2023-malaysias-path-to-health-system-reform-through-public-private-partnerships"
     publisher: "Mondaq"
-  - title: "Malaysia impact story (Investment Round)"
+  - title: "เรื่องราวผลกระทบของมาเลเซีย (รอบการลงทุน) (Malaysia impact story (Investment Round))"
     url: "https://www.who.int/about/funding/invest-in-who/investment-round/four-years-forward/malaysia-impact-story"
     publisher: "World Health Organization"
-  - title: "COVID-19 Inpatient Deaths and Brought-in-Dead Cases in Malaysia"
+  - title: "ผู้ป่วยในที่เสียชีวิตจากโควิด-19 และกรณีเสียชีวิตก่อนถึงโรงพยาบาลในมาเลเซีย (COVID-19 Inpatient Deaths and Brought-in-Dead Cases in Malaysia)"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9298663/"
     publisher: "PMC (National Library of Medicine)"
 

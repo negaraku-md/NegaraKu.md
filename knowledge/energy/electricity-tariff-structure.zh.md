@@ -52,19 +52,19 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Jadual Elektrik Baharu: Lebih 23.6 Juta Pengguna Domestik Semenanjung Nikmati Kadar Lebih Adil"
+  - title: "全新电费表：半岛逾 2360 万家庭用户享有更公平的费率 (Jadual Elektrik Baharu: Lebih 23.6 Juta Pengguna Domestik Semenanjung Nikmati Kadar Lebih Adil)"
     url: "https://www.st.gov.my/jadual-elektrik-baharu-lebih-236-juta-pengguna-domestik-semenanjung-nikmati-kadar-lebih-adil"
-    publisher: "Suruhanjaya Tenaga (Energy Commission)"
-  - title: "Energy Commission declares August 2025 AFA rebate of 1.45 sen/kWh for domestic users"
+    publisher: "能源委员会（Suruhanjaya Tenaga）"
+  - title: "能源委员会宣布 2025 年 8 月家庭用户 AFA 回扣为每千瓦时 1.45 仙 (Energy Commission declares August 2025 AFA rebate of 1.45 sen/kWh for domestic users)"
     url: "https://soyacincau.com/2025/07/30/tnb-electricity-bill-afa-rebate-st-august-2025/"
     publisher: "SoyaCincau"
-  - title: "TNB Electricity Bill changes starting July 2025. What's new?"
+  - title: "TNB 电费账单自 2025 年 7 月起变动，有何新变化？ (TNB Electricity Bill changes starting July 2025. What's new?)"
     url: "https://soyacincau.com/2025/06/21/tnb-domestic-electricity-tariff-structure-july-2025-impact-changes/"
     publisher: "SoyaCincau"
-  - title: "Big changes to domestic TNB bill structure - base tariff up 13.64% from July 2025"
+  - title: "家庭 TNB 账单结构大变动——基础电价自 2025 年 7 月起上调 13.64% (Big changes to domestic TNB bill structure - base tariff up 13.64% from July 2025)"
     url: "https://paultan.org/2025/06/20/big-changes-to-domestic-tnb-bill-structure-no-more-tiered-rates-base-tariff-up-by-13-64-from-july-2025/"
     publisher: "paultan.org"
-  - title: "Your New TNB Bill Explained: Understanding the Monthly Tariff Changes"
+  - title: "解读你的全新 TNB 账单：了解每月电价变动 (Your New TNB Bill Explained: Understanding the Monthly Tariff Changes)"
     url: "https://ringgitplus.com/en/blog/personal-finance-news/your-new-tnb-bill-explained-understanding-the-monthly-tariff-changes.html"
     publisher: "RinggitPlus"
 

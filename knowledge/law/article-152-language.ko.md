@@ -40,11 +40,11 @@ updated: 2026-07-24
 sources:
   - title: "Federal Constitution (Reprint 2020) — Article 128 (Jurisdiction of Federal Court), Article 152 (National language), Article 160 (Interpretation, incl. \"Merdeka Day\" and \"Malaysia Day\") and Article 161 (Use of English and of native languages in States of Sabah and Sarawak)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "말레이시아 법무장관실"
     date: "2020"
-  - title: "National Language Acts 1963/67 [Act 32]"
+  - title: "National Language Acts 1963/67 [Act 32] (National Language Acts 1963/67 [Act 32])"
     url: "https://lom.agc.gov.my/principal.php?type=updated"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "말레이시아 법무장관실"
     date: "1967"
 
 entity: "Article 152, Federal Constitution of Malaysia"

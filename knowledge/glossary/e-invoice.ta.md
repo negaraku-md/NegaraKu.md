@@ -33,9 +33,9 @@ sensitivity: "none"
 
 updated: 2026-07-10
 sources:
-  - title: "LHDN e-Invoice Guideline"
+  - title: "LHDN மின்-விலைப்பட்டியல் வழிகாட்டி (LHDN e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/e-invois/"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "e-Invoice"
 relations:

@@ -52,16 +52,16 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "FAQ Service Tax (MySST)"
+  - title: "சேவை வரி அடிக்கடி கேட்கப்படும் கேள்விகள் (MySST) (FAQ Service Tax (MySST))"
     url: "https://mysst.customs.gov.my/faq-services-tax/"
-    publisher: "Royal Malaysian Customs Department"
-  - title: "Proposed increase in service tax rate and expansion of taxable services"
+    publisher: "மலேசிய அரச சுங்கத் துறை"
+  - title: "சேவை வரி விகித அதிகரிப்பு மற்றும் வரிக்குட்பட்ட சேவைகளை விரிவுபடுத்துவதற்கான முன்மொழிவு (Proposed increase in service tax rate and expansion of taxable services)"
     url: "https://kpmg.com/my/en/home/insights/2024/01/proposed-increase-in-service-tax-rate-and-expansion-of-taxable-services.html"
     publisher: "KPMG Malaysia"
-  - title: "Malaysia: Service tax rate increased and scope of tax expanded"
+  - title: "மலேசியா: சேவை வரி விகிதம் அதிகரிக்கப்பட்டது, வரியின் நோக்கம் விரிவுபடுத்தப்பட்டது (Malaysia: Service tax rate increased and scope of tax expanded)"
     url: "https://www.bdo.global/en-gb/insights/tax/indirect-tax/malaysia-service-tax-rate-increased-and-scope-of-tax-expanded"
     publisher: "BDO"
-  - title: "Cover Story: Getting what you pay for"
+  - title: "அட்டைப்படக் கதை: நீங்கள் செலுத்தியதற்கு ஏற்பது கிடைத்தல் (Cover Story: Getting what you pay for)"
     url: "https://theedgemalaysia.com/article/cover-story-getting-what-you-pay"
     publisher: "The Edge Malaysia"
 

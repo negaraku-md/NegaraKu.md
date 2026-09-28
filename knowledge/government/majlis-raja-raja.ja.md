@@ -39,19 +39,19 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint 2020) — Article 38, Third Schedule, Fifth Schedule"
+  - title: "連邦憲法（2020年再版）— 第38条、附則第3、附則第5 (Federal Constitution (Reprint 2020) — Article 38, Third Schedule, Fifth Schedule)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "マレーシア法務長官府（Attorney General's Chambers）"
     date: "2020-10-15"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Persekutuan"
+  - title: "連邦憲法 — 連邦法令ポータル (Perlembagaan Persekutuan — Portal Perundangan Persekutuan)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Peranan Majlis Raja-Raja"
+    publisher: "マレーシア法務長官府"
+  - title: "統治者会議の役割 (Peranan Majlis Raja-Raja)"
     url: "https://www.majlisraja-raja.gov.my/ms/peranan-majlis-raja-raja"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
-  - title: "Maklumat Majlis Raja-Raja"
+    publisher: "統治者国璽尚書局"
+  - title: "統治者会議に関する情報 (Maklumat Majlis Raja-Raja)"
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
-    publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
+    publisher: "統治者国璽尚書局"
 
 entity: "Majlis Raja-Raja"
 wikidata: "Q5159925"

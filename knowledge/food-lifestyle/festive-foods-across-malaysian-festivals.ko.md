@@ -56,23 +56,23 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "The food culture behind Sabah and Sarawak's Kaamatan and Hari Gawai celebrations"
+  - title: "사바와 사라왁의 카아마탄과 하리 가와이 축제 뒤에 있는 음식 문화 (The food culture behind Sabah and Sarawak's Kaamatan and Hari Gawai celebrations)"
     url: "https://www.thestar.com.my/lifestyle/living/2026/05/31/the-food-culture-behind-sabah-and-sarawaks-kaamatan-and-hari-gawai-celebrations"
     publisher: "The Star"
     date: "2026-05-31"
-  - title: "Yee Sang, The Prosperity Toss Dish — The Higher You Toss, The Better The New Year"
+  - title: "이생(Yee Sang), 번영을 기원하는 토스 요리 — 높이 던질수록 좋은 새해 (Yee Sang, The Prosperity Toss Dish — The Higher You Toss, The Better The New Year)"
     url: "https://www.therakyatpost.com/living/2023/01/18/yee-sang-the-prosperity-toss-dish-the-higher-you-toss-the-better-the-new-year/"
     publisher: "The Rakyat Post"
     date: "2023-01-18"
-  - title: "Sabahans Prepare For A Warm And Joyous Christmas Celebration"
+  - title: "사바 주민들, 따뜻하고 즐거운 크리스마스 축제를 준비하다 (Sabahans Prepare For A Warm And Joyous Christmas Celebration)"
     url: "https://www.bernama.com/en/news.php?id=2376683"
     publisher: "Bernama"
-  - title: "A guide to Deepavali snacks: Titbits for the festive season"
+  - title: "디파발리 간식 가이드: 축제 시즌의 주전부리 (A guide to Deepavali snacks: Titbits for the festive season)"
     url: "https://www.periuk.my/stories/a-guide-to-deepavali-snacks/"
     publisher: "Periuk.my"
-  - title: "Memahami Aidilfitri: Kemeriahan Perayaan Hari Raya"
+  - title: "아이딜피트리 이해하기: 하리 라야 축제의 흥겨움 (Memahami Aidilfitri: Kemeriahan Perayaan Hari Raya)"
     url: "https://library.sabah.gov.my/index.php/ms/pautan/paparan-artikel/memahami-aidilfitri-kemeriahan-perayaan-hari-raya"
-    publisher: "Perpustakaan Negeri Sabah"
+    publisher: "사바주립도서관"
 
 entity: "Juadah perayaan Malaysia"
 relations:

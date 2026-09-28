@@ -47,16 +47,16 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "NCR Basics"
+  - title: "พื้นฐาน NCR (NCR Basics)"
     url: "https://landsurvey.sarawak.gov.my/web/subpage/webpage_view/614"
-    publisher: "Land and Survey Department, Sarawak"
-  - title: "A Travesty to Native Rights: A Commentary on the Case of TR Sandah"
+    publisher: "กรมที่ดินและการสำรวจซาราวัก (Land and Survey Department, Sarawak)"
+  - title: "การย่ำยีสิทธิชนพื้นเมือง: บทวิเคราะห์คดี TR Sandah (A Travesty to Native Rights: A Commentary on the Case of TR Sandah)"
     url: "https://universityofmalaya-law-review.squarespace.com/lex1/a-travesty-to-native-rights-a-commentary-on-the-case-of-tr-sandah"
     publisher: "University of Malaya Law Review"
-  - title: "Press Release — 'TR Sandah' Federal Court Review: A Judicial Opportunity Missed"
+  - title: "ข่าวประชาสัมพันธ์ — การทบทวนของศาลกลางคดี 'TR Sandah': โอกาสทางตุลาการที่พลาดไป (Press Release — 'TR Sandah' Federal Court Review: A Judicial Opportunity Missed)"
     url: "https://www.malaysianbar.org.my/article/news/press-statements/press-statements/press-release-tr-sandah-federal-court-review-a-judicial-opportunity-missed-legislative-action-to-uphold-malaysia-agreement-needed"
     publisher: "The Malaysian Bar"
-  - title: "Land Rights, Land Titles, and Native Customary Rights (NCR) in Sabah: A Link to MSPO Standard"
+  - title: "สิทธิที่ดิน กรรมสิทธิ์ที่ดิน และสิทธิตามจารีตของชนพื้นเมือง (NCR) ในซาบาห์: ความเชื่อมโยงกับมาตรฐาน MSPO (Land Rights, Land Titles, and Native Customary Rights (NCR) in Sabah: A Link to MSPO Standard)"
     url: "https://mspo.org.my/land-rights-land-titles-and-native-customary-rights-ncr-in-sabah-a-link-to-mspo-standard/"
     publisher: "Malaysian Sustainable Palm Oil (MSPO)"
 

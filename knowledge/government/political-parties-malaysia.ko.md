@@ -58,22 +58,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Societies Act 1966 (Act 832) (Revised — 2021)"
+  - title: "1966년 결사법 (제832호 법) (2021년 개정판) (Societies Act 1966 (Act 832) (Revised — 2021))"
     url: "https://lom.agc.gov.my/act-detail.php?act=832&lang=BI&date=2021-11-15"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "말레이시아 법무장관실 (Attorney General's Chambers)"
     date: "2021-11-15"
-  - title: "Societies Act 1966 (Malaysia) — full text (long title and arrangement of sections)"
+  - title: "1966년 결사법 (말레이시아) — 전문 (장문 제목 및 조문 배열) (Societies Act 1966 (Malaysia) — full text (long title and arrangement of sections))"
     url: "https://www.icnl.org/research/library/malaysia_malaysiasocieties/"
     publisher: "International Center for Not-for-Profit Law (ICNL)"
-  - title: "Anwar Ibrahim sworn in as 10th Prime Minister of Malaysia"
+  - title: "안와르 이브라힘, 말레이시아 제10대 총리로 취임 선서 (Anwar Ibrahim sworn in as 10th Prime Minister of Malaysia)"
     url: "https://bernama.com/en/news.php?id=2141779"
     publisher: "Bernama"
     date: "2022-11-24"
-  - title: "Agong names Anwar as 10th PM with reminder against politicking"
+  - title: "국왕, 정쟁 자제 당부와 함께 안와르를 제10대 총리로 지명 (Agong names Anwar as 10th PM with reminder against politicking)"
     url: "https://www.malaysianow.com/news/2022/11/24/agong-names-anwar-as-10th-pm"
     publisher: "MalaysiaNow"
     date: "2022-11-24"
-  - title: "GE15 Results — Dewan Rakyat seat tally by coalition"
+  - title: "제15대 총선 결과 — 연합별 하원 의석 집계 (GE15 Results — Dewan Rakyat seat tally by coalition)"
     url: "https://www.malaysianow.com/election/general/ge15/results"
     publisher: "MalaysiaNow"
 

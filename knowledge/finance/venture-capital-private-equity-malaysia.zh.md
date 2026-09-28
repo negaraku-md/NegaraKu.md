@@ -53,21 +53,21 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Venture Capital and Private Equity Registration"
+  - title: "风险投资与私募股权注册 (Venture Capital and Private Equity Registration)"
     url: "https://www.sc.com.my/regulation/licensing/venture-capital-and-private-equity-registration"
-    publisher: "Securities Commission Malaysia"
-  - title: "Guidelines on the Registration of Venture Capital and Private Equity Corporations and Management Corporations"
+    publisher: "马来西亚证券监督委员会"
+  - title: "风险投资与私募股权公司及管理公司注册指引 (Guidelines on the Registration of Venture Capital and Private Equity Corporations and Management Corporations)"
     url: "https://www.sc.com.my/regulation/guidelines"
-    publisher: "Securities Commission Malaysia"
-  - title: "Venture Capital and Private Equity Tax Incentives"
+    publisher: "马来西亚证券监督委员会"
+  - title: "风险投资与私募股权税务优惠 (Venture Capital and Private Equity Tax Incentives)"
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
-    publisher: "Securities Commission Malaysia"
-  - title: "Public Ruling No. 7/2022: Venture Capital Tax Incentives"
+    publisher: "马来西亚证券监督委员会"
+  - title: "公共裁定第7/2022号：风险投资税务优惠 (Public Ruling No. 7/2022: Venture Capital Tax Incentives)"
     url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "SC Revises Venture Capital and Private Equity Framework"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "证监会修订风险投资与私募股权框架 (SC Revises Venture Capital and Private Equity Framework)"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"
-    publisher: "Securities Commission Malaysia"
+    publisher: "马来西亚证券监督委员会"
 
 entity: "Venture Capital and Private Equity (Malaysia)"
 relations:

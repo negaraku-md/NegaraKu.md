@@ -38,15 +38,15 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Portal JPN — MyKad Application For Children Aged 12"
+  - title: "JPNポータル — 12歳の子どものMyKad申請 (Portal JPN — MyKad Application For Children Aged 12)"
     url: "https://www.jpn.gov.my/en/core-business/identity-card/mykad-12-eng"
-    publisher: "Jabatan Pendaftaran Negara"
-  - title: "Identity Card — Portal Jabatan Pendaftaran Negara"
+    publisher: "国民登録局 (JPN)"
+  - title: "身分証明書 — 国民登録局ポータル (Identity Card — Portal Jabatan Pendaftaran Negara)"
     url: "https://www.jpn.gov.my/en/services/identity-card/"
-    publisher: "Jabatan Pendaftaran Negara"
-  - title: "About MyKad — Portal Rasmi Kerajaan Malaysia"
+    publisher: "国民登録局 (JPN)"
+  - title: "MyKadについて — マレーシア政府公式ポータル (About MyKad — Portal Rasmi Kerajaan Malaysia)"
     url: "https://www.malaysia.gov.my/en/categories/personal-identification/identity-card-application/about-mykad"
-    publisher: "Kerajaan Malaysia"
+    publisher: "マレーシア政府"
 
 entity: "MyKad"
 wikidata: "Q985846"

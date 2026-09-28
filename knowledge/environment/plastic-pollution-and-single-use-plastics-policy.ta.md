@@ -53,18 +53,18 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "Malaysia's Roadmap Towards Zero Single-Use Plastics 2018-2030"
+  - title: "ஒற்றைப் பயன்பாட்டு பிளாஸ்டிக் இல்லாத நிலையை நோக்கிய மலேசியாவின் வழித்திட்டம் 2018-2030 (Malaysia's Roadmap Towards Zero Single-Use Plastics 2018-2030)"
     url: "https://www.pmo.gov.my/wp-content/uploads/2019/07/Malaysia-Roadmap-Towards-Zero-Single-Use-Plastics-2018-2030-m-min.pdf"
-    publisher: "Pejabat Perdana Menteri Malaysia (MESTECC)"
-  - title: "Malaysia sets plastic roadmap with sustainability targets up to 2030"
+    publisher: "மலேசியப் பிரதமர் அலுவலகம் (MESTECC)"
+  - title: "2030 வரையிலான நிலைத்தன்மை இலக்குகளுடன் மலேசியா பிளாஸ்டிக் வழித்திட்டத்தை உருவாக்குகிறது (Malaysia sets plastic roadmap with sustainability targets up to 2030)"
     url: "https://enviliance.com/regions/southeast-asia/my/report_5716"
     publisher: "Enviliance ASIA"
-  - title: "All states agree to 20 sen pollution charge for plastic bags"
+  - title: "பிளாஸ்டிக் பைகளுக்கு 20 சென் மாசு கட்டணம் விதிக்க அனைத்து மாநிலங்களும் ஒப்புக்கொண்டன (All states agree to 20 sen pollution charge for plastic bags)"
     url: "https://www.thevibes.com/articles/news/61124/all-states-agree-to-20-sen-pollution-charge-for-plastic-bags-tuan-ibrahim"
     publisher: "The Vibes"
-  - title: "Penang to Go Fully Plastic Bag-Free Starting March 1"
+  - title: "பினாங்கு மார்ச் 1 முதல் முழுமையாக பிளாஸ்டிக் பை இல்லாததாக மாறுகிறது (Penang to Go Fully Plastic Bag-Free Starting March 1)"
     url: "https://www.mgtc.gov.my/2025/02/penang-to-go-fully-plastic-bag-free-starting-march-1/"
-    publisher: "Malaysian Green Technology and Climate Change Corporation (MGTC)"
+    publisher: "மலேசிய பசுமைத் தொழில்நுட்ப மற்றும் காலநிலை மாற்றக் கழகம் (MGTC)"
 
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:

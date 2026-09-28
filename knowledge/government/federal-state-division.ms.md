@@ -39,13 +39,13 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint 2020) — Articles 74, 75, 76, 76A, 77, 95B and the Ninth Schedule (Legislative Lists)"
+  - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 74, 75, 76, 76A, 77, 95B dan Jadual Kesembilan (Senarai Perundangan) (Federal Constitution (Reprint 2020) — Articles 74, 75, 76, 76A, 77, 95B and the Ninth Schedule (Legislative Lists))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "Jabatan Peguam Negara Malaysia"
     date: "2020"
-  - title: "Federal Constitution — Ninth Schedule [Articles 74, 77]: List I Federal List, List II State List, List IIA, List III Concurrent List, List IIIA"
+  - title: "Perlembagaan Persekutuan — Jadual Kesembilan [Perkara 74, 77]: Senarai I Senarai Persekutuan, Senarai II Senarai Negeri, Senarai IIA, Senarai III Senarai Bersama, Senarai IIIA (Federal Constitution — Ninth Schedule [Articles 74, 77]: List I Federal List, List II State List, List IIA, List III Concurrent List, List IIIA)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/NinthSchedule.pdf"
-    publisher: "State Attorney-General's Chambers, Sabah"
+    publisher: "Jabatan Peguam Besar Negeri Sabah"
     date: "2012"
 
 entity: "Ninth Schedule, Federal Constitution of Malaysia"

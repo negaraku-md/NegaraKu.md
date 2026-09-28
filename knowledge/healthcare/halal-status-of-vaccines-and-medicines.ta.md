@@ -47,19 +47,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Irsyad Hukum Ke-30: Hukum Vaksin daripada Perspektif Islam"
+  - title: "இர்ஷாத் ஹுக்கும் எண். 30: இஸ்லாமியக் கண்ணோட்டத்தில் தடுப்பூசியின் மார்க்கத் தீர்ப்பு (Irsyad Hukum Ke-30: Hukum Vaksin daripada Perspektif Islam)"
     url: "https://muftiwp.gov.my/ms/artikel/irsyad-hukum/umum/2069-30"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Bayan Linnas Siri Ke-167: Kewajiban Mengambil Vaksin Mengikut Jadual Imunisasi Kebangsaan daripada Perspektif Islam"
+    publisher: "கூட்டாட்சிப் பிரதேச முஃப்தி அலுவலகம்"
+  - title: "பயான் லின்னாஸ் தொடர் எண். 167: இஸ்லாமியக் கண்ணோட்டத்தில் தேசிய நோய்த்தடுப்பு அட்டவணைப்படி தடுப்பூசி போடும் கடமை (Bayan Linnas Siri Ke-167: Kewajiban Mengambil Vaksin Mengikut Jadual Imunisasi Kebangsaan daripada Perspektif Islam)"
     url: "https://muftiwp.gov.my/ms/artikel/bayan-linnas/3129-"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Irsyad Fatwa Khas Ramadhan Siri Ke-176: Hukum Cucuk Vaksin COVID-19 pada Bulan Ramadan"
+    publisher: "கூட்டாட்சிப் பிரதேச முஃப்தி அலுவலகம்"
+  - title: "சிறப்பு ரமலான் இர்ஷாத் ஃபத்வா தொடர் எண். 176: ரமலான் மாதத்தில் கோவிட்-19 தடுப்பூசி போடுவதற்கான மார்க்கத் தீர்ப்பு (Irsyad Fatwa Khas Ramadhan Siri Ke-176: Hukum Cucuk Vaksin COVID-19 pada Bulan Ramadan)"
     url: "https://www.muftiwp.gov.my/ms/artikel/irsyad-hukum/edisi-ramadhan/4746-irsyad-fatwa-khas-ramadhan-siri-ke-176-apakah-hukum-cucuk-vaksin-covid-19-pada-bulan-ramadhan"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Fatwa Gelatin dalam Ubat"
+    publisher: "கூட்டாட்சிப் பிரதேச முஃப்தி அலுவலகம்"
+  - title: "மருந்தில் ஜெலட்டின் தொடர்பான ஃபத்வா (Fatwa Gelatin dalam Ubat)"
     url: "https://www.pkppippum.org.my/v2/fatwa-gelatin-dalam-ubat/"
     publisher: "Persatuan Kakitangan Pegawai & Penolong Pegawai Islam, PPUM"
-  - title: "Vaksin Covid-19: Keputusan Muzakarah perlu disokong"
+  - title: "கோவிட்-19 தடுப்பூசி: முஜாகரா தீர்மானத்திற்கு ஆதரவு தேவை (Vaksin Covid-19: Keputusan Muzakarah perlu disokong)"
     url: "https://www.sinarharian.com.my/article/116228/BERITA/Nasional/Vaksin-Covid-19-Keputusan-Muzakarah-perlu-disokong"
     publisher: "Sinar Harian"
 

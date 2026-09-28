@@ -39,12 +39,12 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Hierarki Mahkamah — Portal Rasmi Badan Kehakiman Malaysia"
+  - title: "ลำดับชั้นศาล — พอร์ทัลทางการของฝ่ายตุลาการมาเลเซีย (Hierarki Mahkamah — Portal Rasmi Badan Kehakiman Malaysia)"
     url: "https://www.kehakiman.gov.my/ms/mengenai-kami/mahkamah/mahkamah-persekutuan/hierarki-mahkamah"
-    publisher: "Badan Kehakiman Malaysia"
-  - title: "Perlembagaan Persekutuan (Perkara 121 — Mahkamah Persekutuan)"
+    publisher: "ฝ่ายตุลาการมาเลเซีย"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ (มาตรา 121 — ศาลสหพันธรัฐ) (Perlembagaan Persekutuan (Perkara 121 — Mahkamah Persekutuan))"
     url: "https://lom.agc.gov.my/"
-    publisher: "Jabatan Peguam Negara"
+    publisher: "สำนักงานอัยการสูงสุด (AGC)"
 
 entity: "Mahkamah"
 relations:

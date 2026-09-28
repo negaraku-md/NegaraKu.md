@@ -50,22 +50,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Chronology of MCO phases in the country"
+  - title: "국내 MCO(이동제한명령) 단계별 연대기 (Chronology of MCO phases in the country)"
     url: "https://bernama.com/en/general/news.php?id=1920867"
     publisher: "Bernama"
-  - title: "Examining Malaysia's Covid-19 vaccination response"
+  - title: "말레이시아의 코로나19 백신 접종 대응 검토 (Examining Malaysia's Covid-19 vaccination response)"
     url: "https://www.thestar.com.my/lifestyle/health/the-doctor-says/2025/11/25/examining-malaysias-covid-19-vaccination-response"
     publisher: "The Star"
-  - title: "Khairy: Government Owns MySejahtera App's IP, Personal Data, Source Code"
+  - title: "카이리: 정부가 MySejahtera 앱의 지식재산·개인정보·소스코드를 소유 (Khairy: Government Owns MySejahtera App's IP, Personal Data, Source Code)"
     url: "https://codeblue.galencentre.org/2022/03/khairy-government-owns-mysejahtera-apps-ip-personal-data-source-code/"
     publisher: "CodeBlue, Galen Centre"
-  - title: "Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships"
+  - title: "말레이시아 보건 백서 2023: 민관 협력을 통한 말레이시아의 보건 시스템 개혁 경로 (Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships)"
     url: "https://www.mondaq.com/healthcare/1348400/malaysia-health-white-paper-2023-malaysias-path-to-health-system-reform-through-public-private-partnerships"
     publisher: "Mondaq"
-  - title: "Malaysia impact story (Investment Round)"
+  - title: "말레이시아 임팩트 스토리(투자 라운드) (Malaysia impact story (Investment Round))"
     url: "https://www.who.int/about/funding/invest-in-who/investment-round/four-years-forward/malaysia-impact-story"
     publisher: "World Health Organization"
-  - title: "COVID-19 Inpatient Deaths and Brought-in-Dead Cases in Malaysia"
+  - title: "말레이시아의 코로나19 입원 사망 및 도착 시 사망(BID) 사례 (COVID-19 Inpatient Deaths and Brought-in-Dead Cases in Malaysia)"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9298663/"
     publisher: "PMC (National Library of Medicine)"
 

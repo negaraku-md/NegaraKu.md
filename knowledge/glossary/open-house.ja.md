@@ -37,21 +37,21 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Tinta Minda BERNAMA - Rumah Terbuka: Antara Budaya, Trend & Ekspresi"
+  - title: "BERNAMA 思索のインク - ルマ・トゥルブカ（オープンハウス）：文化、トレンド、表現のはざまで (Tinta Minda BERNAMA - Rumah Terbuka: Antara Budaya, Trend & Ekspresi)"
     url: "https://www.bernama.com/bm/tintaminda/news.php?id=2293338"
     publisher: "BERNAMA"
-  - title: "Rumah Terbuka Malaysia Madani Usaha Dekati Rakyat, Kerajaan Negeri"
+  - title: "マレーシア・マダニ・オープンハウス — 国民と州政府に寄り添う取り組み (Rumah Terbuka Malaysia Madani Usaha Dekati Rakyat, Kerajaan Negeri)"
     url: "https://www.penerangan.gov.my/rumah-terbuka-malaysia-madani-usaha-dekati-rakyat-kerajaan-negeri/"
-    publisher: "Jabatan Penerangan Malaysia"
-  - title: "PM Anwar Akan Hadir Majlis Rumah Terbuka Aidilfitri Madani di Kedah, Kelantan dan Terengganu"
+    publisher: "マレーシア情報局"
+  - title: "アンワル首相、ケダ・クランタン・トレンガヌのマダニ・アイディルフィトリ・オープンハウス行事に出席へ (PM Anwar Akan Hadir Majlis Rumah Terbuka Aidilfitri Madani di Kedah, Kelantan dan Terengganu)"
     url: "https://www.pmo.gov.my/ms/beritabahasamelayu/pm-anwar-akan-hadir-majlis-rumah-terbuka-aidilfitri-madani-di-kedah-kelantan-dan-terengganu/"
-    publisher: "Pejabat Perdana Menteri (PMO)"
-  - title: "Rumah Terbuka Erat Perpaduan Kaum"
+    publisher: "首相府 (PMO)"
+  - title: "オープンハウスが民族の団結を強める (Rumah Terbuka Erat Perpaduan Kaum)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/rumah-terbuka-erat-perpaduan-kaum/"
-    publisher: "Radio Televisyen Malaysia (RTM)"
-  - title: "Laman Utama Kementerian Perpaduan Negara"
+    publisher: "マレーシア放送協会 (RTM)"
+  - title: "国民統合省ホームページ (Laman Utama Kementerian Perpaduan Negara)"
     url: "https://www.perpaduan.gov.my/index.php/en/"
-    publisher: "Kementerian Perpaduan Negara (KPN)"
+    publisher: "国民統合省 (KPN)"
 entity: "Rumah terbuka"
 relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }

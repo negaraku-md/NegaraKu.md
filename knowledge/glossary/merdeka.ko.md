@@ -41,13 +41,13 @@ updated: 2026-07-24
 sources:
   - title: "Kamus Dewan Edisi Keempat — carian \"merdeka\""
     url: "https://prpm.dbp.gov.my/Cari1?keyword=merdeka"
-    publisher: "Dewan Bahasa dan Pustaka (DBP)"
-  - title: "Pengisytiharan Kemerdekaan Tanah Melayu"
+    publisher: "국립언어문학원 (DBP)"
+  - title: "말라야 독립 선언 (Pengisytiharan Kemerdekaan Tanah Melayu)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/pengisytiharan-kemerdekaan-tanah-melayu"
-    publisher: "Arkib Negara Malaysia"
-  - title: "Sejarah Kemerdekaan Malaysia"
+    publisher: "말레이시아 국립기록원"
+  - title: "말레이시아 독립사 (Sejarah Kemerdekaan Malaysia)"
     url: "https://www.mkn.gov.my/web/ms/2024/08/25/sejarah-kemerdekaan-malaysia/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
+    publisher: "국가안보회의 (MKN)"
     date: "2024-08-25"
 
 entity: "Merdeka"

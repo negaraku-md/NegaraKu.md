@@ -51,13 +51,13 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Frequently Asked Questions (FAQs)"
+  - title: "คำถามที่พบบ่อย (Frequently Asked Questions (FAQs))"
     url: "https://hospismalaysia.org/faqs/"
     publisher: "Hospis Malaysia"
-  - title: "Malaysia aims for 50 palliative care specialists in two years to meet ageing nation's needs, says health minister"
+  - title: "มาเลเซียตั้งเป้ามีแพทย์เฉพาะทางด้านการดูแลแบบประคับประคอง 50 คนภายในสองปีเพื่อตอบสนองความต้องการของสังคมสูงวัย รัฐมนตรีสาธารณสุขระบุ (Malaysia aims for 50 palliative care specialists in two years to meet ageing nation's needs, says health minister)"
     url: "https://www.malaymail.com/news/malaysia/2025/10/11/malaysia-aims-for-50-palliative-care-specialists-in-two-years-to-meet-ageing-nations-needs-says-health-minister/194231"
     publisher: "Malay Mail"
-  - title: "Malaysia Launches First National Policy on Palliative Care"
+  - title: "มาเลเซียเปิดตัวนโยบายแห่งชาติด้านการดูแลแบบประคับประคองฉบับแรก (Malaysia Launches First National Policy on Palliative Care)"
     url: "https://aphn.org/malaysia-launches-first-national-policy-on-palliative-care/"
     publisher: "Asia Pacific Hospice Palliative Care Network (APHN)"
 

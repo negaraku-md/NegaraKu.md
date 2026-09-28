@@ -40,15 +40,15 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Maternal and Women's Health"
+  - title: "สุขภาพมารดาและสตรี (Maternal and Women's Health)"
     url: "https://www.malaysia.gov.my/en/categories/health/maternal-and-womens-health"
-    publisher: "Malaysia.gov.my (Malaysian Government Official Portal), citing Ministry of Health Malaysia (MOH)"
-  - title: "Kelahiran (Birth Registration Services)"
+    publisher: "Malaysia.gov.my (พอร์ทัลอย่างเป็นทางการของรัฐบาลมาเลเซีย), อ้างอิงกระทรวงสาธารณสุขมาเลเซีย (MOH)"
+  - title: "การเกิด (บริการจดทะเบียนการเกิด) (Kelahiran (Birth Registration Services))"
     url: "https://www.jpn.gov.my/my/perkhidmatan/kelahiran"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department, JPN)"
-  - title: "JPN official post: birth registration period in Peninsular Malaysia is 60 days from date of birth"
+    publisher: "กรมทะเบียนราษฎร์ (JPN)"
+  - title: "โพสต์ทางการของ JPN: ระยะเวลาการจดทะเบียนการเกิดในคาบสมุทรมาเลเซียคือ 60 วันนับจากวันเกิด (JPN official post: birth registration period in Peninsular Malaysia is 60 days from date of birth)"
     url: "https://www.facebook.com/jpnhqofficial/posts/tempoh-pendaftaran-kelahiran-di-semenanjung-malaysia-ialah-60-hari-dari-tarikh-k/3939708826075137/"
-    publisher: "Jabatan Pendaftaran Negara (JPN), official department channel"
+    publisher: "กรมทะเบียนราษฎร์ (JPN), ช่องทางอย่างเป็นทางการของกรม"
     date: "2021-05-02"
 
 entity: "maternity care pathway in Malaysia"

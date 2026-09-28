@@ -44,18 +44,18 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Fees Act 1951 [Act 209]"
+  - title: "พระราชบัญญัติค่าธรรมเนียม ค.ศ. 1951 [ฉบับที่ 209] (Fees Act 1951 [Act 209])"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20209.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (AGC) — Laws of Malaysia Online"
-  - title: "Caj dan Bayaran Warganegara"
+    publisher: "สำนักงานอัยการสูงสุดมาเลเซีย (AGC) — กฎหมายแห่งมาเลเซียออนไลน์"
+  - title: "ค่าธรรมเนียมและค่าใช้จ่ายสำหรับพลเมือง (Caj dan Bayaran Warganegara)"
     url: "https://portal.appshtaa.moh.gov.my/index.php/perkhidmatan/caj-dan-bayaran/caj-dan-bayaran-warganegara"
-    publisher: "Hospital Tengku Ampuan Afzan (HTAA), Kementerian Kesihatan Malaysia"
-  - title: "Caj dan Bayaran Warga Asing"
+    publisher: "Hospital Tengku Ampuan Afzan (HTAA), กระทรวงสาธารณสุขมาเลเซีย"
+  - title: "ค่าธรรมเนียมและค่าใช้จ่ายสำหรับชาวต่างชาติ (Caj dan Bayaran Warga Asing)"
     url: "https://portal.appshtaa.moh.gov.my/index.php/perkhidmatan/caj-dan-bayaran/caj-dan-bayaran-warga-asing"
-    publisher: "Hospital Tengku Ampuan Afzan (HTAA), Kementerian Kesihatan Malaysia"
-  - title: "Fasiliti dan Kemudahan Kesihatan"
+    publisher: "Hospital Tengku Ampuan Afzan (HTAA), กระทรวงสาธารณสุขมาเลเซีย"
+  - title: "สถานพยาบาลและสิ่งอำนวยความสะดวกด้านสุขภาพ (Fasiliti dan Kemudahan Kesihatan)"
     url: "https://www.malaysia.gov.my/my/categories/kesihatan/fasiliti-dan-kemudahan-kesihatan"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
+    publisher: "พอร์ทัลอย่างเป็นทางการของรัฐบาลมาเลเซีย (MyGovernment)"
 
 entity: "Hospital Kerajaan Malaysia (kemudahan hospital di bawah Kementerian Kesihatan Malaysia)"
 relations:

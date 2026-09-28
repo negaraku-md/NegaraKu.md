@@ -41,10 +41,10 @@ sensitivity: "race"
 
 updated: 2026-07-24
 sources:
-  - title: "mamak — Wiktionary"
+  - title: "mamak — 维基词典 (mamak — Wiktionary)"
     url: "https://en.wiktionary.org/wiki/mamak"
     publisher: "Wiktionary"
-  - title: "Breakfast culture in Malaysia: dining experience in a multi-ethnic society (elemen 02113)"
+  - title: "马来西亚的早餐文化：多元族群社会中的餐饮体验（元素02113）(Breakfast culture in Malaysia: dining experience in a multi-ethnic society (elemen 02113))"
     url: "https://ich.unesco.org/en/RL/breakfast-culture-in-malaysia-dining-experience-in-a-multi-ethnic-society-02113"
     publisher: "UNESCO"
     date: "2024-12-01"

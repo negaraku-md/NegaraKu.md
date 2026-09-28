@@ -53,18 +53,18 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Listing Criteria"
+  - title: "Kriteria Penyenaraian (Listing Criteria)"
     url: "https://www.bursamalaysia.com/listing/get_listed/listing_criteria"
     publisher: "Bursa Malaysia"
-  - title: "Listing Process"
+  - title: "Proses Penyenaraian (Listing Process)"
     url: "https://www.bursamalaysia.com/listing/get_listed/listing_process"
     publisher: "Bursa Malaysia"
-  - title: "Cost of Listing"
+  - title: "Kos Penyenaraian (Cost of Listing)"
     url: "https://www.bursamalaysia.com/listing/get_listed/cost_of_listing"
     publisher: "Bursa Malaysia"
-  - title: "Bumiputera Equity Requirement For Public Listed Companies — Regulatory FAQs"
+  - title: "Keperluan Ekuiti Bumiputera bagi Syarikat Tersenarai Awam — Soalan Lazim Kawal Selia (Bumiputera Equity Requirement For Public Listed Companies — Regulatory FAQs)"
     url: "https://www.sc.com.my/regulation/regulatory-faqs/bumiputera-equity-requirement-for-public-listed-companies"
-    publisher: "Securities Commission Malaysia"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
 
 entity: "Initial Public Offering (Bursa Malaysia)"
 relations:

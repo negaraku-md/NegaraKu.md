@@ -56,19 +56,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Unit Trust Funds Remain Largest CIS Component With RM546.08 Bln NAV"
+  - title: "Dana Unit Amanah Kekal Komponen CIS Terbesar Dengan NAV RM546.08 Bilion (Unit Trust Funds Remain Largest CIS Component With RM546.08 Bln NAV)"
     url: "https://www.bernama.com/en/news.php?id=2404272"
     publisher: "Bernama"
-  - title: "Charges & Fees"
+  - title: "Caj & Yuran (Charges & Fees)"
     url: "https://www.fimm.com.my/investors/understanding-investing/charges-fees-2/"
     publisher: "Federation of Investment Managers Malaysia (FIMM)"
-  - title: "Trends: Unit trust fees and charges down, sustainable funds on the rise"
+  - title: "Trend: Yuran dan caj unit amanah menurun, dana lestari meningkat (Trends: Unit trust fees and charges down, sustainable funds on the rise)"
     url: "https://theedgemalaysia.com/article/trends-unit-trust-fees-and-charges-down-sustainable-funds-rise"
     publisher: "The Edge Malaysia"
-  - title: "Public Mutual — Our Profile"
+  - title: "Public Mutual — Profil Kami (Public Mutual — Our Profile)"
     url: "https://www.publicmutual.com.my/pmb/Our-Profile"
     publisher: "Public Mutual Berhad"
-  - title: "EPF Adds Five New Platforms To Its i-Invest Investment Facility"
+  - title: "KWSP Menambah Lima Platform Baharu ke Kemudahan Pelaburan i-Invest (EPF Adds Five New Platforms To Its i-Invest Investment Facility)"
     url: "https://ringgitplus.com/en/blog/investment/epf-adds-five-new-platforms-to-its-i-invest-investment-facility.html"
     publisher: "RinggitPlus"
 

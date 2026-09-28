@@ -53,21 +53,21 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Venture Capital and Private Equity Registration"
+  - title: "Pendaftaran Modal Teroka dan Ekuiti Persendirian (Venture Capital and Private Equity Registration)"
     url: "https://www.sc.com.my/regulation/licensing/venture-capital-and-private-equity-registration"
-    publisher: "Securities Commission Malaysia"
-  - title: "Guidelines on the Registration of Venture Capital and Private Equity Corporations and Management Corporations"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
+  - title: "Garis Panduan Pendaftaran Perbadanan Modal Teroka dan Ekuiti Persendirian serta Perbadanan Pengurusan (Guidelines on the Registration of Venture Capital and Private Equity Corporations and Management Corporations)"
     url: "https://www.sc.com.my/regulation/guidelines"
-    publisher: "Securities Commission Malaysia"
-  - title: "Venture Capital and Private Equity Tax Incentives"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
+  - title: "Insentif Cukai Modal Teroka dan Ekuiti Persendirian (Venture Capital and Private Equity Tax Incentives)"
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
-    publisher: "Securities Commission Malaysia"
-  - title: "Public Ruling No. 7/2022: Venture Capital Tax Incentives"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
+  - title: "Ketetapan Umum No. 7/2022: Insentif Cukai Modal Teroka (Public Ruling No. 7/2022: Venture Capital Tax Incentives)"
     url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "SC Revises Venture Capital and Private Equity Framework"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "SC Menyemak Semula Rangka Kerja Modal Teroka dan Ekuiti Persendirian (SC Revises Venture Capital and Private Equity Framework)"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"
-    publisher: "Securities Commission Malaysia"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
 
 entity: "Venture Capital and Private Equity (Malaysia)"
 relations:

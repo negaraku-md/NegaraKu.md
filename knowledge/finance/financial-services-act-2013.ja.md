@@ -41,21 +41,21 @@ revisions:
 verificationNeeded: []
 updated: 2026-08-14
 sources:
-  - title: "Financial Services Act 2013 and Islamic Financial Services Act 2013 Come Into Force"
+  - title: "Financial Services Act 2013 および Islamic Financial Services Act 2013 が施行 (Financial Services Act 2013 and Islamic Financial Services Act 2013 Come Into Force)"
     url: "https://www.bnm.gov.my/-/financial-services-act-2013-and-islamic-financial-services-act-2013-come-into-force"
-    publisher: "Bank Negara Malaysia"
-  - title: "Financial Services Act 2013 (full text, Act 758)"
+    publisher: "マレーシア国立銀行"
+  - title: "Financial Services Act 2013（全文、Act 758） (Financial Services Act 2013 (full text, Act 758))"
     url: "https://www.bnm.gov.my/documents/20124/820862/Financial+Services+Act+2013.pdf"
-    publisher: "Bank Negara Malaysia"
-  - title: "Financial Services Act 2013 — Wikipedia"
+    publisher: "マレーシア国立銀行"
+  - title: "Financial Services Act 2013 — Wikipedia (Financial Services Act 2013 — Wikipedia)"
     url: "https://en.wikipedia.org/wiki/Financial_Services_Act_2013"
     publisher: "Wikipedia"
-  - title: "Financial Services Act 2013 – Part 1"
+  - title: "Financial Services Act 2013 – パート1 (Financial Services Act 2013 – Part 1)"
     url: "https://www.lowpartners.com/financial-services-act-2013-part-1/"
     publisher: "Low & Partners"
-  - title: "Financial Services Act 2013 (Act 758), consolidated text as at 1 August 2021 — Arrangement of Sections (Parts I-XVII, sections 1-281, Schedules 1-16), commencement note, and sections 271-272 (repeal and savings)"
+  - title: "Financial Services Act 2013 (Act 758)、2021年8月1日現在の統合条文 — 条文構成（第I〜XVII編、第1〜281条、附則1〜16）、施行に関する注記、および第271〜272条（廃止および経過規定） (Financial Services Act 2013 (Act 758), consolidated text as at 1 August 2021 — Arrangement of Sections (Parts I-XVII, sections 1-281, Schedules 1-16), commencement note, and sections 271-272 (repeal and savings))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1691496_BI/ACT%20758_2.8.2021.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
+    publisher: "マレーシア司法長官府（マレーシア法令集）"
 entity: "Financial Services Act 2013"
 relations: []
 related: []

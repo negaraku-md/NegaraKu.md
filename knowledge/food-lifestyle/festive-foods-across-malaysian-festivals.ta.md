@@ -56,23 +56,23 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "The food culture behind Sabah and Sarawak's Kaamatan and Hari Gawai celebrations"
+  - title: "சபா மற்றும் சரவாக்கின் காமாத்தான் மற்றும் ஹரி கவாய் கொண்டாட்டங்களுக்குப் பின்னால் உள்ள உணவுப் பண்பாடு (The food culture behind Sabah and Sarawak's Kaamatan and Hari Gawai celebrations)"
     url: "https://www.thestar.com.my/lifestyle/living/2026/05/31/the-food-culture-behind-sabah-and-sarawaks-kaamatan-and-hari-gawai-celebrations"
     publisher: "The Star"
     date: "2026-05-31"
-  - title: "Yee Sang, The Prosperity Toss Dish — The Higher You Toss, The Better The New Year"
+  - title: "யீ சாங், செழிப்பை குலுக்கும் உணவு — உயரமாக குலுக்கினால், புத்தாண்டு சிறப்பாக இருக்கும் (Yee Sang, The Prosperity Toss Dish — The Higher You Toss, The Better The New Year)"
     url: "https://www.therakyatpost.com/living/2023/01/18/yee-sang-the-prosperity-toss-dish-the-higher-you-toss-the-better-the-new-year/"
     publisher: "The Rakyat Post"
     date: "2023-01-18"
-  - title: "Sabahans Prepare For A Warm And Joyous Christmas Celebration"
+  - title: "அன்பான மற்றும் மகிழ்ச்சியான கிறிஸ்துமஸ் கொண்டாட்டத்திற்கு சபாவாசிகள் தயாராகின்றனர் (Sabahans Prepare For A Warm And Joyous Christmas Celebration)"
     url: "https://www.bernama.com/en/news.php?id=2376683"
     publisher: "Bernama"
-  - title: "A guide to Deepavali snacks: Titbits for the festive season"
+  - title: "தீபாவளி சிற்றுண்டிகளுக்கான வழிகாட்டி: பண்டிகைக் காலத்திற்கான சிற்றுண்டிகள் (A guide to Deepavali snacks: Titbits for the festive season)"
     url: "https://www.periuk.my/stories/a-guide-to-deepavali-snacks/"
     publisher: "Periuk.my"
-  - title: "Memahami Aidilfitri: Kemeriahan Perayaan Hari Raya"
+  - title: "ஐடில்ஃபித்ரியைப் புரிந்துகொள்ளுதல்: ஹரி ராயா கொண்டாட்டத்தின் களிப்பு (Memahami Aidilfitri: Kemeriahan Perayaan Hari Raya)"
     url: "https://library.sabah.gov.my/index.php/ms/pautan/paparan-artikel/memahami-aidilfitri-kemeriahan-perayaan-hari-raya"
-    publisher: "Perpustakaan Negeri Sabah"
+    publisher: "சபா மாநில நூலகம்"
 
 entity: "Juadah perayaan Malaysia"
 relations:

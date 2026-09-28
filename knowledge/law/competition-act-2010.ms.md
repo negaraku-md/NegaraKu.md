@@ -58,22 +58,22 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Antitrust and Competition Laws in Malaysia"
+  - title: "Undang-Undang Antitrust dan Persaingan di Malaysia (Antitrust and Competition Laws in Malaysia)"
     url: "https://www.globalcompliancenews.com/antitrust-and-competition-laws-in-malaysia/"
     publisher: "Global Compliance News (Baker McKenzie)"
-  - title: "Basics of Competition Law in Malaysia: What Every Business Owner and Company Director Should Know"
+  - title: "Asas Undang-Undang Persaingan di Malaysia: Apa yang Setiap Pemilik Perniagaan dan Pengarah Syarikat Perlu Tahu (Basics of Competition Law in Malaysia: What Every Business Owner and Company Director Should Know)"
     url: "https://dnh.com.my/basics-of-competition-law-in-malaysia-what-every-business-owner-and-company-director-should-know/"
     publisher: "Donovan & Ho"
-  - title: "RM415 Million For Fixing The Price Of Chicken Feed: How Malaysia Actually Punishes Cartels"
+  - title: "RM415 Juta Kerana Menetapkan Harga Makanan Ayam: Bagaimana Malaysia Sebenarnya Menghukum Kartel (RM415 Million For Fixing The Price Of Chicken Feed: How Malaysia Actually Punishes Cartels)"
     url: "https://asklegal.my/p/malaysian-companies-fine-industry-monopoly-anti-competition-mycc"
     publisher: "AskLegal.my"
-  - title: "Malaysia's Competition (Amendment) Bill 2026 and Competition Commission (Amendment) Bill 2026"
+  - title: "Competition (Amendment) Bill 2026 dan Competition Commission (Amendment) Bill 2026 Malaysia (Malaysia's Competition (Amendment) Bill 2026 and Competition Commission (Amendment) Bill 2026)"
     url: "https://www.ziclegal.com/resources/malaysias-competition-amendment-bill-2026-and-competition-commission-amendment-bill-2026"
     publisher: "ZICO Law"
-  - title: "Senate passes competition bill to strengthen fight against cartels, monopolies"
+  - title: "Dewan Negara meluluskan rang undang-undang persaingan untuk mengukuhkan perjuangan menentang kartel dan monopoli (Senate passes competition bill to strengthen fight against cartels, monopolies)"
     url: "https://www.malaymail.com/news/malaysia/2026/07/27/senate-passes-competition-bill-to-strengthen-fight-against-cartels-monopolies/229163"
     publisher: "Malay Mail"
-  - title: "MyCC imposed RM667.3 million in penalties on 270 companies between 2012 and July 2026, Dewan Negara told"
+  - title: "MyCC mengenakan penalti RM667.3 juta ke atas 270 syarikat antara 2012 dan Julai 2026, Dewan Negara diberitahu (MyCC imposed RM667.3 million in penalties on 270 companies between 2012 and July 2026, Dewan Negara told)"
     url: "https://mediaselangor.com/en/2026/07/386718"
     publisher: "Media Selangor (Selangor Journal)"
 

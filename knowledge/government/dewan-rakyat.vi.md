@@ -54,20 +54,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula)"
+  - title: "Hiến pháp Liên bang (Bản tái bản) (Perlembagaan Persekutuan (Cetakan Semula))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
+    publisher: "Phủ Thủ tướng"
     date: "2020"
-  - title: "Federal Constitution — Laws of Malaysia"
+  - title: "Hiến pháp Liên bang — Luật Malaysia (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Peraturan-peraturan Majlis Mesyuarat Dewan Rakyat, Cetakan Ketiga Belas"
+    publisher: "Phòng Tổng Chưởng lý Malaysia"
+  - title: "Nội quy phiên họp Dewan Rakyat, Ấn bản thứ Mười ba (Peraturan-peraturan Majlis Mesyuarat Dewan Rakyat, Cetakan Ketiga Belas)"
     url: "https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf"
-    publisher: "Parlimen Malaysia"
+    publisher: "Quốc hội Malaysia"
     date: "2013"
-  - title: "Maklumat Umum — Dewan Rakyat"
+  - title: "Thông tin chung — Dewan Rakyat (Hạ viện) (Maklumat Umum — Dewan Rakyat)"
     url: "https://www.parlimen.gov.my/maklumat-umum.html?uweb=dr"
-    publisher: "Parlimen Malaysia"
+    publisher: "Quốc hội Malaysia"
 
 entity: "Dewan Rakyat"
 wikidata: "Q1207092"

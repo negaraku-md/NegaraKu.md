@@ -41,16 +41,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula) — Perkara 71, 72, 73, 74, 75 dan Jadual Kelapan (Peruntukan yang Hendaklah Dimasukkan ke dalam Perlembagaan Negeri)"
+  - title: "Hiến pháp Liên bang (Bản in lại) — Điều 71, 72, 73, 74, 75 và Phụ lục Tám (Các điều khoản phải đưa vào Hiến pháp bang) (Perlembagaan Persekutuan (Cetakan Semula) — Perkara 71, 72, 73, 74, 75 dan Jadual Kelapan (Peruntukan yang Hendaklah Dimasukkan ke dalam Perlembagaan Negeri))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
+    publisher: "Văn phòng Thủ tướng (JPM)"
     date: "2020"
-  - title: "Federal Constitution — Laws of Malaysia"
+  - title: "Hiến pháp Liên bang — Luật pháp Malaysia (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Akta Perlembagaan (Pindaan) 2019 [Akta A1603] — penurunan had umur mengundi dan kelayakan menjadi ahli badan perundangan kepada 18 tahun (berkuat kuasa 15 Disember 2021)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
+  - title: "Luật Hiến pháp (Sửa đổi) 2019 [Đạo luật A1603] — hạ độ tuổi bầu cử và điều kiện làm thành viên cơ quan lập pháp xuống 18 tuổi (có hiệu lực 15 tháng 12 năm 2021) (Akta Perlembagaan (Pindaan) 2019 [Akta A1603] — penurunan had umur mengundi dan kelayakan menjadi ahli badan perundangan kepada 18 tahun (berkuat kuasa 15 Disember 2021))"
     url: "https://lom.agc.gov.my/act-detail.php?type=amendment&act=A1603"
-    publisher: "Jabatan Peguam Negara Malaysia"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
     date: "2019"
 
 entity: "Dewan Undangan Negeri"

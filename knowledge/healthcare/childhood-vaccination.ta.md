@@ -43,23 +43,23 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Jadual Imunisasi Kebangsaan (Kemaskini Ogos 2023)"
+  - title: "தேசிய நோய்த்தடுப்பு அட்டவணை (2023 ஆகஸ்ட் புதுப்பிப்பு) (Jadual Imunisasi Kebangsaan (Kemaskini Ogos 2023))"
     url: "https://infosihat.moh.gov.my/penerbitan-multimedia/infografik/item/jadual-imunisasi-kebangsaan-kemaskini-ogos-2023.html"
-    publisher: "Bahagian Pendidikan Kesihatan, Kementerian Kesihatan Malaysia (KKM), portal Info Sihat"
+    publisher: "சுகாதாரக் கல்விப் பிரிவு, மலேசிய சுகாதார அமைச்சு (KKM), Info Sihat போர்டல்"
     date: "2023-08"
-  - title: "Jadual Imunisasi Kebangsaan Terkini (garis panduan)"
+  - title: "சமீபத்திய தேசிய நோய்த்தடுப்பு அட்டவணை (வழிகாட்டி) (Jadual Imunisasi Kebangsaan Terkini (garis panduan))"
     url: "https://infosihat.moh.gov.my/penerbitan-multimedia/garis-panduan/item/jadual-imunisasi-kebangsaan-terkini.html"
-    publisher: "Bahagian Pendidikan Kesihatan, Kementerian Kesihatan Malaysia (KKM), portal Info Sihat"
+    publisher: "சுகாதாரக் கல்விப் பிரிவு, மலேசிய சுகாதார அமைச்சு (KKM), Info Sihat போர்டல்"
     date: "2021"
-  - title: "The Malaysian National Immunisation Programme (NIP)"
+  - title: "மலேசிய தேசிய நோய்த்தடுப்புத் திட்டம் (NIP) (The Malaysian National Immunisation Programme (NIP))"
     url: "https://immunise4life.my/the-malaysian-national-immunisation-programme-nip/"
-    publisher: "Immunise4Life — inisiatif digerakkan bersama Kementerian Kesihatan Malaysia (KKM), Persatuan Pediatrik Malaysia (MPA) dan Persatuan Penyakit Berjangkit & Kemoterapi Malaysia (MSIDC)"
-  - title: "Program Imunisasi Bayi dan Kanak-kanak"
+    publisher: "Immunise4Life — மலேசிய சுகாதார அமைச்சு (KKM), மலேசிய குழந்தை மருத்துவ சங்கம் (MPA) மற்றும் மலேசிய தொற்றுநோய் & வேதிச்சிகிச்சை சங்கம் (MSIDC) இணைந்து இயக்கும் முயற்சி"
+  - title: "குழந்தை மற்றும் சிறார் நோய்த்தடுப்புத் திட்டம் (Program Imunisasi Bayi dan Kanak-kanak)"
     url: "https://www.malaysia.gov.my/my/personas/ibu-hamil/fasa-selepas-bersalin/program-imunisasi-bayi-dan-kanak-kanak"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Kenali Buku Rekod Kesihatan Bayi dan Kanak-Kanak"
+    publisher: "மலேசிய அரசாங்கத்தின் அதிகாரப்பூர்வ போர்டல் (MyGovernment)"
+  - title: "குழந்தை மற்றும் சிறார் சுகாதாரப் பதிவேட்டைப் பற்றி அறிந்துகொள்ளுங்கள் (Kenali Buku Rekod Kesihatan Bayi dan Kanak-Kanak)"
     url: "https://www.malaysia.gov.my/my/topics/kenali-buku-rekod-kesihatan-bayi-dan-kanak-kanak"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
+    publisher: "மலேசிய அரசாங்கத்தின் அதிகாரப்பூர்வ போர்டல் (MyGovernment)"
 
 entity: "Program Imunisasi Kebangsaan (PIK) Malaysia"
 relations:

@@ -57,21 +57,21 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Sole Proprietorship / Partnership — Business Information"
+  - title: "தனியொருவர் உரிமையாண்மை / கூட்டாண்மை — வணிகத் தகவல் (Sole Proprietorship / Partnership — Business Information)"
     url: "https://malaysiabiz.gov.my/en/portal/sole-proprietership-partnership"
     publisher: "MalaysiaBiz (BizChannel, Suruhanjaya Syarikat Malaysia)"
-  - title: "Section 5 — Registration (Registration of Businesses Act 1956, Act 197)"
+  - title: "பிரிவு 5 — பதிவு (Registration of Businesses Act 1956, Act 197) (Section 5 — Registration (Registration of Businesses Act 1956, Act 197))"
     url: "https://www.ssm.com.my/acts/fscommand/a0197s0005.htm"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Section 12 — Offences (Registration of Businesses Act 1956, Act 197)"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "பிரிவு 12 — குற்றங்கள் (Registration of Businesses Act 1956, Act 197) (Section 12 — Offences (Registration of Businesses Act 1956, Act 197))"
     url: "https://www.ssm.com.my/acts/fscommand/a0197s0012.htm"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Step to Register — Legalising Your Business"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "பதிவு செய்யும் படிநிலை — உங்கள் வணிகத்தைச் சட்டப்பூர்வமாக்குதல் (Step to Register — Legalising Your Business)"
     url: "https://www.smeinfo.com.my/legalising-your-business/step-to-register/"
-    publisher: "SME Corporation Malaysia (SMEinfo Portal)"
-  - title: "ITRF Deadlines — Income Tax Return Form Filing Programme"
+    publisher: "SME Corp. மலேசியா (SMEinfo இணையவாயில்)"
+  - title: "ITRF இறுதித் தேதிகள் — வருமான வரி அறிக்கைப் படிவம் தாக்கல் திட்டம் (ITRF Deadlines — Income Tax Return Form Filing Programme)"
     url: "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Sole Proprietorship"
 relations:

@@ -59,16 +59,16 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Rukun Negara — Kenali Malaysia"
+  - title: "Rukun Negara — மலேசியாவை அறிந்துகொள் (Rukun Negara — Kenali Malaysia)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Lima Prinsip Rukun Negara"
+    publisher: "மலேசிய அரசாங்கத்தின் அதிகாரப்பூர்வ இணையவாயில் (MyGovernment)"
+  - title: "Rukun Negara இன் ஐந்து கோட்பாடுகள் (Lima Prinsip Rukun Negara)"
     url: "https://www.mkn.gov.my/web/ms/2024/09/24/lima-prinsip-rukun-negara/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
+    publisher: "தேசியப் பாதுகாப்பு மன்றம் (MKN)"
     date: "2024-09-24"
-  - title: "Trivia Kemerdekaan: Pembentukan Rukun Negara"
+  - title: "சுதந்திரம் பற்றிய சிறுதகவல்: Rukun Negara உருவாக்கம் (Trivia Kemerdekaan: Pembentukan Rukun Negara)"
     url: "https://www.mkn.gov.my/web/ms/2022/08/03/trivia-kemerdekaan-pembentukan-rukun-negara/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
+    publisher: "தேசியப் பாதுகாப்பு மன்றம் (MKN)"
     date: "2022-08-03"
 
 entity: "Rukun Negara"

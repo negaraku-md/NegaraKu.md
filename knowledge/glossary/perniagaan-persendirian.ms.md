@@ -57,19 +57,19 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Sole Proprietorship / Partnership — Business Information"
+  - title: "Pemilikan Tunggal / Perkongsian — Maklumat Perniagaan (Sole Proprietorship / Partnership — Business Information)"
     url: "https://malaysiabiz.gov.my/en/portal/sole-proprietership-partnership"
     publisher: "MalaysiaBiz (BizChannel, Suruhanjaya Syarikat Malaysia)"
-  - title: "Section 5 — Registration (Registration of Businesses Act 1956, Act 197)"
+  - title: "Seksyen 5 — Pendaftaran (Registration of Businesses Act 1956, Act 197) (Section 5 — Registration (Registration of Businesses Act 1956, Act 197))"
     url: "https://www.ssm.com.my/acts/fscommand/a0197s0005.htm"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Section 12 — Offences (Registration of Businesses Act 1956, Act 197)"
+  - title: "Seksyen 12 — Kesalahan (Registration of Businesses Act 1956, Act 197) (Section 12 — Offences (Registration of Businesses Act 1956, Act 197))"
     url: "https://www.ssm.com.my/acts/fscommand/a0197s0012.htm"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Step to Register — Legalising Your Business"
+  - title: "Langkah untuk Mendaftar — Menghalalkan Perniagaan Anda (Step to Register — Legalising Your Business)"
     url: "https://www.smeinfo.com.my/legalising-your-business/step-to-register/"
-    publisher: "SME Corporation Malaysia (SMEinfo Portal)"
-  - title: "ITRF Deadlines — Income Tax Return Form Filing Programme"
+    publisher: "SME Corp. Malaysia (Portal SMEinfo)"
+  - title: "Tarikh Akhir ITRF — Program Pemfailan Borang Nyata Cukai Pendapatan (ITRF Deadlines — Income Tax Return Form Filing Programme)"
     url: "https://www.hasil.gov.my/borang/program-memfail-borang-nyata/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
 

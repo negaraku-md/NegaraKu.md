@@ -37,9 +37,9 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint 2020) — Article 159 (Amendment of the Constitution), Article 161E (Safeguards for constitutional position of States of Sabah and Sarawak), and Article 38 (Conference of Rulers)"
+  - title: "連邦憲法（2020年再版）— 第159条（憲法の改正）、第161E条（サバ州およびサラワク州の憲法上の地位に対する保障）、および第38条（統治者会議） (Federal Constitution (Reprint 2020) — Article 159 (Amendment of the Constitution), Article 161E (Safeguards for constitutional position of States of Sabah and Sarawak), and Article 38 (Conference of Rulers))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "マレーシア司法長官府"
     date: "2020"
 
 entity: "Article 159, Federal Constitution of Malaysia"

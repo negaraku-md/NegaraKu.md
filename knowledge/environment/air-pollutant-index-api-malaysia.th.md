@@ -51,18 +51,18 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Air Pollutant Index Management System (APIMS) — dataset"
+  - title: "ระบบจัดการดัชนีมลพิษทางอากาศ (APIMS) — ชุดข้อมูล (Air Pollutant Index Management System (APIMS) — dataset)"
     url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
-    publisher: "Kementerian Sains, Teknologi dan Inovasi (MOSTI) — RADARS open-data catalogue (gov.my)"
-  - title: "Pengiraan Indeks Pencemar Udara (IPU) / Air Pollutant Index (API) Calculation"
+    publisher: "กระทรวงวิทยาศาสตร์ เทคโนโลยี และนวัตกรรม (MOSTI) — แคตตาล็อกข้อมูลเปิด RADARS (gov.my)"
+  - title: "การคำนวณดัชนีมลพิษทางอากาศ (IPU) / Air Pollutant Index (API) (Pengiraan Indeks Pencemar Udara (IPU) / Air Pollutant Index (API) Calculation)"
     url: "https://www.doe.gov.my/wp-content/uploads/2021/09/API_Calculation.pdf"
-    publisher: "Jabatan Alam Sekitar (Department of Environment)"
-  - title: "General Information of Air Pollutant Index (API)"
+    publisher: "กรมสิ่งแวดล้อม (Jabatan Alam Sekitar / Department of Environment)"
+  - title: "ข้อมูลทั่วไปเกี่ยวกับดัชนีมลพิษทางอากาศ (API) (General Information of Air Pollutant Index (API))"
     url: "https://www.doe.gov.my/wp-content/uploads/2021/10/General-Information-of-Air-Pollutant-Index.pdf"
-    publisher: "Jabatan Alam Sekitar (Department of Environment)"
-  - title: "Air Pollution Index — What to do when API reach certain levels"
+    publisher: "กรมสิ่งแวดล้อม (Jabatan Alam Sekitar / Department of Environment)"
+  - title: "ดัชนีมลพิษทางอากาศ — สิ่งที่ควรทำเมื่อ API ถึงระดับที่กำหนด (Air Pollution Index — What to do when API reach certain levels)"
     url: "https://www.doe.gov.my/en/air-pollution-index/"
-    publisher: "Jabatan Alam Sekitar (Department of Environment)"
+    publisher: "กรมสิ่งแวดล้อม (Jabatan Alam Sekitar / Department of Environment)"
 
 entity: "Indeks Pencemar Udara (IPU)"
 relations:

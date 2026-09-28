@@ -39,18 +39,18 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan — Cetakan Semula sebagaimana pada 15 Oktober 2020 (Perkara 44–48, 54, 56, 66–68, 159 dan Jadual Ketujuh)"
+  - title: "Hiến pháp Liên bang — Bản tái bản tính đến ngày 15 tháng 10 năm 2020 (các Điều 44–48, 54, 56, 66–68, 159 và Phụ lục thứ Bảy) (Perlembagaan Persekutuan — Cetakan Semula sebagaimana pada 15 Oktober 2020 (Perkara 44–48, 54, 56, 66–68, 159 dan Jadual Ketujuh))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Persekutuan"
+    publisher: "Phòng Tổng Chưởng lý Malaysia"
+  - title: "Hiến pháp Liên bang — Cổng Pháp luật Liên bang (Perlembagaan Persekutuan — Portal Perundangan Persekutuan)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Maklumat Umum — Dewan Negara"
+    publisher: "Phòng Tổng Chưởng lý Malaysia"
+  - title: "Thông tin chung — Dewan Negara (Thượng viện) (Maklumat Umum — Dewan Negara)"
     url: "https://www.parlimen.gov.my/maklumat-umum.html?uweb=dn"
-    publisher: "Parlimen Malaysia"
-  - title: "Reforming the Dewan Negara: Its Evolution and Options for Reform, Journal of the Malaysian Parliament, Jilid 2 (2022)"
+    publisher: "Quốc hội Malaysia"
+  - title: "Cải cách Dewan Negara: Sự tiến triển và các phương án cải cách, Journal of the Malaysian Parliament, Tập 2 (2022) (Reforming the Dewan Negara: Its Evolution and Options for Reform, Journal of the Malaysian Parliament, Jilid 2 (2022))"
     url: "https://journalmp.parlimen.gov.my/jurnal/index.php/jmp/article/download/55/26/314"
-    publisher: "Parlimen Malaysia"
+    publisher: "Quốc hội Malaysia"
     date: "2022"
 
 entity: "Dewan Negara"

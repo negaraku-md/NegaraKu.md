@@ -57,17 +57,17 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020"
+  - title: "คู่มือขั้นตอนการรับรองฮาลาลมาเลเซีย (ในประเทศ) 2020 (Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/pdf/panduan/MPPHMDomestik2020.pdf"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+    publisher: "กรมพัฒนาศาสนาอิสลามมาเลเซีย (JAKIM)"
     date: "2020"
-  - title: "Kenyataan Media Ketua Pengarah JAKIM Berkenaan Pelaksanaan Sijil Pengesahan Halal Malaysia (SPHM) Secara Elektronik (e-Cert)"
+  - title: "แถลงการณ์สื่อของอธิบดี JAKIM เกี่ยวกับการดำเนินการใบรับรองฮาลาลมาเลเซีย (SPHM) แบบอิเล็กทรอนิกส์ (e-Cert) (Kenyataan Media Ketua Pengarah JAKIM Berkenaan Pelaksanaan Sijil Pengesahan Halal Malaysia (SPHM) Secara Elektronik (e-Cert))"
     url: "https://www.islam.gov.my/ms/kenyataan-media/4704-kenyataan-media-ketua-pengarah-jabatan-kemajuan-islam-malaysia-berkenaan-pelaksanaan-sijil-pengesahan-halal-malaysia-sphm-secara-elektronik-e-cert"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+    publisher: "กรมพัฒนาศาสนาอิสลามมาเลเซีย (JAKIM)"
     date: "2025-05-08"
-  - title: "Kenyataan Media JAKIM Berkaitan Cadangan Kerajaan Negeri Untuk Mewajibkan Pengusaha Premis Makanan Dan Minuman Memiliki Sijil Halal Sebelum Memperbaharui Lesen Perniagaan"
+  - title: "แถลงการณ์สื่อของ JAKIM เกี่ยวกับข้อเสนอของรัฐบาลรัฐที่จะกำหนดให้ผู้ประกอบการร้านอาหารและเครื่องดื่มต้องมีใบรับรองฮาลาลก่อนต่ออายุใบอนุญาตประกอบธุรกิจ (Kenyataan Media JAKIM Berkaitan Cadangan Kerajaan Negeri Untuk Mewajibkan Pengusaha Premis Makanan Dan Minuman Memiliki Sijil Halal Sebelum Memperbaharui Lesen Perniagaan)"
     url: "https://www.islam.gov.my/en/media-statement/4581-kenyataan-media-jabatan-kemajuan-islam-malaysia-berkaitan-cadangan-kerajaan-negeri-untuk-mewajibkan-pengusaha-premis-makanan-dan-minuman-memiliki-sijil-halal-sebelum-memperbaharui-lesen-perniagaan"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+    publisher: "กรมพัฒนาศาสนาอิสลามมาเลเซีย (JAKIM)"
     date: "2024-12-29"
 
 entity: "Sistem Pensijilan Halal Malaysia"

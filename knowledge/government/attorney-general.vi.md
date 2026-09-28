@@ -40,16 +40,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution — Laws of Malaysia (Article 145)"
+  - title: "Hiến pháp Liên bang — Luật Malaysia (Điều 145) (Federal Constitution — Laws of Malaysia (Article 145))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Federal Constitution (Reprint 2020)"
+    publisher: "Phòng Tổng Chưởng lý Malaysia"
+  - title: "Hiến pháp Liên bang (Bản tái bản 2020) (Federal Constitution (Reprint 2020))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
-  - title: "Attorney General's Chambers of Malaysia — Official Portal"
+    publisher: "Phủ Thủ tướng"
+  - title: "Phòng Tổng Chưởng lý Malaysia — Cổng thông tin chính thức (Attorney General's Chambers of Malaysia — Official Portal)"
     url: "https://www.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Constitution of Malaysia (full text, Article 145)"
+    publisher: "Phòng Tổng Chưởng lý Malaysia"
+  - title: "Hiến pháp Malaysia (toàn văn, Điều 145) (Constitution of Malaysia (full text, Article 145))"
     url: "https://www.constituteproject.org/constitution/Malaysia_2007"
     publisher: "Constitute Project"
 

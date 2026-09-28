@@ -42,21 +42,21 @@ revisions:
 verificationNeeded: []
 updated: 2026-08-14
 sources:
-  - title: "Financial Services Act 2013 and Islamic Financial Services Act 2013 Come Into Force"
+  - title: "Financial Services Act 2013 dan Islamic Financial Services Act 2013 Berkuat Kuasa (Financial Services Act 2013 and Islamic Financial Services Act 2013 Come Into Force)"
     url: "https://www.bnm.gov.my/-/financial-services-act-2013-and-islamic-financial-services-act-2013-come-into-force"
     publisher: "Bank Negara Malaysia"
-  - title: "Financial Services Act 2013 (full text, Act 758)"
+  - title: "Financial Services Act 2013 (teks penuh, Act 758) (Financial Services Act 2013 (full text, Act 758))"
     url: "https://www.bnm.gov.my/documents/20124/820862/Financial+Services+Act+2013.pdf"
     publisher: "Bank Negara Malaysia"
-  - title: "Financial Services Act 2013 — Wikipedia"
+  - title: "Financial Services Act 2013 — Wikipedia (Financial Services Act 2013 — Wikipedia)"
     url: "https://en.wikipedia.org/wiki/Financial_Services_Act_2013"
     publisher: "Wikipedia"
-  - title: "Financial Services Act 2013 – Part 1"
+  - title: "Financial Services Act 2013 – Bahagian 1 (Financial Services Act 2013 – Part 1)"
     url: "https://www.lowpartners.com/financial-services-act-2013-part-1/"
     publisher: "Low & Partners"
-  - title: "Financial Services Act 2013 (Act 758), consolidated text as at 1 August 2021 — Arrangement of Sections (Parts I-XVII, sections 1-281, Schedules 1-16), commencement note, and sections 271-272 (repeal and savings)"
+  - title: "Financial Services Act 2013 (Act 758), teks disatukan pada 1 Ogos 2021 — Susunan Seksyen (Bahagian I-XVII, seksyen 1-281, Jadual 1-16), nota permulaan kuat kuasa, dan seksyen 271-272 (pemansuhan dan pengecualian) (Financial Services Act 2013 (Act 758), consolidated text as at 1 August 2021 — Arrangement of Sections (Parts I-XVII, sections 1-281, Schedules 1-16), commencement note, and sections 271-272 (repeal and savings))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1691496_BI/ACT%20758_2.8.2021.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
+    publisher: "Jabatan Peguam Negara Malaysia (Undang-Undang Malaysia)"
 entity: "Financial Services Act 2013"
 relations: []
 related: []

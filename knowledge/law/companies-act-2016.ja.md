@@ -48,20 +48,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Act 777 — Companies Act 2016, principal Act timeline and subsidiary legislation"
+  - title: "第777号法 — Companies Act 2016、主法の経緯および附属法令 (Act 777 — Companies Act 2016, principal Act timeline and subsidiary legislation)"
     url: "https://lom.agc.gov.my/act-detail.php?act=777"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    publisher: "マレーシア企業委員会 (SSM)"
+  - title: "Companies Act 2016（第777号法）、2022年8月1日現在の再版 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2022-08-01"
-  - title: "Companies (Amendment) Act 2024 (Act A1701)"
+  - title: "Companies (Amendment) Act 2024（第A1701号法） (Companies (Amendment) Act 2024 (Act A1701))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2024-02-02"
-  - title: "Companies Act 2016 — legal framework"
+  - title: "Companies Act 2016 — 法的枠組み (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
 
 entity: "Companies Act 2016"
 relations:

@@ -38,13 +38,13 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint 2020) — Articles 74, 75, 76, 76A, 77, 95B and the Ninth Schedule (Legislative Lists)"
+  - title: "Hiến pháp Liên bang (Bản tái bản 2020) — các Điều 74, 75, 76, 76A, 77, 95B và Phụ lục thứ Chín (Danh mục Lập pháp) (Federal Constitution (Reprint 2020) — Articles 74, 75, 76, 76A, 77, 95B and the Ninth Schedule (Legislative Lists))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "Phòng Tổng Chưởng lý Malaysia"
     date: "2020"
-  - title: "Federal Constitution — Ninth Schedule [Articles 74, 77]: List I Federal List, List II State List, List IIA, List III Concurrent List, List IIIA"
+  - title: "Hiến pháp Liên bang — Phụ lục thứ Chín [Điều 74, 77]: Danh mục I Danh mục Liên bang, Danh mục II Danh mục Bang, Danh mục IIA, Danh mục III Danh mục Đồng thời, Danh mục IIIA (Federal Constitution — Ninth Schedule [Articles 74, 77]: List I Federal List, List II State List, List IIA, List III Concurrent List, List IIIA)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/NinthSchedule.pdf"
-    publisher: "State Attorney-General's Chambers, Sabah"
+    publisher: "Phòng Tổng Chưởng lý Bang Sabah"
     date: "2012"
 
 entity: "Ninth Schedule, Federal Constitution of Malaysia"

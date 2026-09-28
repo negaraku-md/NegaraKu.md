@@ -47,16 +47,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Act 533 — Inland Revenue Board of Malaysia Act 1995"
+  - title: "พระราชบัญญัติที่ 533 — พระราชบัญญัติกรมสรรพากรมาเลเซีย ค.ศ. 1995 (Act 533 — Inland Revenue Board of Malaysia Act 1995)"
     url: "https://lom.agc.gov.my/act-detail.php?act=533"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
     date: "1995-03-01"
-  - title: "Profil Korporat — Lembaga Hasil Dalam Negeri Malaysia"
+  - title: "ข้อมูลองค์กร — กรมสรรพากรมาเลเซีย (Profil Korporat — Lembaga Hasil Dalam Negeri Malaysia)"
     url: "https://www.hasil.gov.my/mengenai-hasil/profil-korporat/"
-    publisher: "LHDN"
-  - title: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "กรมสรรพากรมาเลเซีย (Lembaga Hasil Dalam Negeri Malaysia)"
     url: "https://www.hasil.gov.my/"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
 
 entity: "LHDN"
 wikidata: "Q7377230"

@@ -60,19 +60,19 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "Halal exports hit record RM61.79b as Malaysia maintains global leadership, says Tengku Zafrul"
+  - title: "Eksport halal cecah rekod RM61.79 bilion apabila Malaysia kekalkan kepimpinan global, kata Tengku Zafrul (Halal exports hit record RM61.79b as Malaysia maintains global leadership, says Tengku Zafrul)"
     url: "https://www.malaymail.com/news/malaysia/2025/05/01/halal-exports-hit-record-rm6179b-as-malaysia-maintains-global-leadership-says-tengku-zafrul/175108"
     publisher: "Malay Mail"
-  - title: "Malaysia records RM45.04b in halal product exports from January to September 2024 — MITI"
+  - title: "Malaysia catat eksport produk halal RM45.04 bilion dari Januari hingga September 2024 — MITI (Malaysia records RM45.04b in halal product exports from January to September 2024 — MITI)"
     url: "https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Malaysia: The Halal Industry Master Plan 2030 (HIMP 2030)"
+    publisher: "Lembaga Pembangunan Pelaburan Malaysia (MIDA)"
+  - title: "Malaysia: Pelan Induk Industri Halal 2030 (HIMP 2030) (Malaysia: The Halal Industry Master Plan 2030 (HIMP 2030))"
     url: "https://halalfocus.com/malaysia-the-halal-industry-master-plan-2030-himp-2030/"
     publisher: "HalalFocus"
-  - title: "Malaysia and the Global Halal Industry"
+  - title: "Malaysia dan Industri Halal Global (Malaysia and the Global Halal Industry)"
     url: "https://malaysia.incorp.asia/blogs/malaysia-global-halal-industry/"
     publisher: "InCorp Malaysia"
-  - title: "Halal Hub in Malaysia: Perfect Destination for Development"
+  - title: "Hab Halal di Malaysia: Destinasi Sempurna untuk Pembangunan (Halal Hub in Malaysia: Perfect Destination for Development)"
     url: "https://www.industrialmalaysia.com.my/article/halal-hub"
     publisher: "Industrial Malaysia"
 

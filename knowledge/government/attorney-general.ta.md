@@ -41,16 +41,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution — Laws of Malaysia (Article 145)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு — மலேசியச் சட்டங்கள் (உறுப்பு 145) (Federal Constitution — Laws of Malaysia (Article 145))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Federal Constitution (Reprint 2020)"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அறையகம்"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (2020 மறுபதிப்பு) (Federal Constitution (Reprint 2020))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
-  - title: "Attorney General's Chambers of Malaysia — Official Portal"
+    publisher: "பிரதமர் துறை"
+  - title: "மலேசிய அட்டர்னி ஜெனரல் அறையகம் — அதிகாரப்பூர்வ இணையவாயில் (Attorney General's Chambers of Malaysia — Official Portal)"
     url: "https://www.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Constitution of Malaysia (full text, Article 145)"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அறையகம்"
+  - title: "மலேசிய அரசியலமைப்பு (முழு உரை, உறுப்பு 145) (Constitution of Malaysia (full text, Article 145))"
     url: "https://www.constituteproject.org/constitution/Malaysia_2007"
     publisher: "Constitute Project"
 

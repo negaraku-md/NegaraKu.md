@@ -53,18 +53,18 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Listing Criteria"
+  - title: "பட்டியலிடல் அளவுகோல்கள் (Listing Criteria)"
     url: "https://www.bursamalaysia.com/listing/get_listed/listing_criteria"
     publisher: "Bursa Malaysia"
-  - title: "Listing Process"
+  - title: "பட்டியலிடல் செயல்முறை (Listing Process)"
     url: "https://www.bursamalaysia.com/listing/get_listed/listing_process"
     publisher: "Bursa Malaysia"
-  - title: "Cost of Listing"
+  - title: "பட்டியலிடல் செலவு (Cost of Listing)"
     url: "https://www.bursamalaysia.com/listing/get_listed/cost_of_listing"
     publisher: "Bursa Malaysia"
-  - title: "Bumiputera Equity Requirement For Public Listed Companies — Regulatory FAQs"
+  - title: "பொது பட்டியலிடப்பட்ட நிறுவனங்களுக்கான பூமிபுத்ரா பங்கு தேவை — ஒழுங்குமுறை அடிக்கடி கேட்கப்படும் கேள்விகள் (Bumiputera Equity Requirement For Public Listed Companies — Regulatory FAQs)"
     url: "https://www.sc.com.my/regulation/regulatory-faqs/bumiputera-equity-requirement-for-public-listed-companies"
-    publisher: "Securities Commission Malaysia"
+    publisher: "மலேசிய பங்குப் பத்திர ஆணையம்"
 
 entity: "Initial Public Offering (Bursa Malaysia)"
 relations:

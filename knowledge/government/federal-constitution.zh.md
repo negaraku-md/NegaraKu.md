@@ -52,13 +52,13 @@ verificationNeeded:
   - "确认 Perkara 159(5) 的条文清单及 Perkara 159(4) 的例外，在 2020 年重印之后的任何修订中均未改变。"
 updated: 2026-08-01
 sources:
-  - title: "Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI"
+  - title: "联邦宪法(重印本,截至2020年10月15日) — 第4条、第159条、第160条、第十一部分 (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "马来西亚总检察署"
     date: "2020-10-15"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Malaysia (Laws of Malaysia)"
+  - title: "联邦宪法 — 马来西亚立法门户 (Laws of Malaysia) (Perlembagaan Persekutuan — Portal Perundangan Malaysia (Laws of Malaysia))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "马来西亚总检察署"
 
 entity: "Perlembagaan Persekutuan Malaysia"
 wikidata: "Q1003080"

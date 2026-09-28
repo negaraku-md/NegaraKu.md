@@ -33,9 +33,9 @@ sensitivity: "none"
 
 updated: 2026-07-23
 sources:
-  - title: "Companies Commission of Malaysia (SSM)"
+  - title: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM) (Companies Commission of Malaysia (SSM))"
     url: "https://www.ssm.com.my/"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Sdn Bhd"
 wikidata: "Q63439508"

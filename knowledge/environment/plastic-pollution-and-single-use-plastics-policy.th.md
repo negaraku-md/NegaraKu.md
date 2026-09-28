@@ -53,18 +53,18 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "Malaysia's Roadmap Towards Zero Single-Use Plastics 2018-2030"
+  - title: "แผนที่นำทางของมาเลเซียสู่การเลิกใช้พลาสติกแบบใช้ครั้งเดียว 2018-2030 (Malaysia's Roadmap Towards Zero Single-Use Plastics 2018-2030)"
     url: "https://www.pmo.gov.my/wp-content/uploads/2019/07/Malaysia-Roadmap-Towards-Zero-Single-Use-Plastics-2018-2030-m-min.pdf"
-    publisher: "Pejabat Perdana Menteri Malaysia (MESTECC)"
-  - title: "Malaysia sets plastic roadmap with sustainability targets up to 2030"
+    publisher: "สำนักนายกรัฐมนตรีมาเลเซีย (MESTECC)"
+  - title: "มาเลเซียจัดทำแผนที่นำทางพลาสติกพร้อมเป้าหมายความยั่งยืนถึงปี 2030 (Malaysia sets plastic roadmap with sustainability targets up to 2030)"
     url: "https://enviliance.com/regions/southeast-asia/my/report_5716"
     publisher: "Enviliance ASIA"
-  - title: "All states agree to 20 sen pollution charge for plastic bags"
+  - title: "ทุกรัฐเห็นชอบเก็บค่าธรรมเนียมมลพิษถุงพลาสติก 20 เซน (All states agree to 20 sen pollution charge for plastic bags)"
     url: "https://www.thevibes.com/articles/news/61124/all-states-agree-to-20-sen-pollution-charge-for-plastic-bags-tuan-ibrahim"
     publisher: "The Vibes"
-  - title: "Penang to Go Fully Plastic Bag-Free Starting March 1"
+  - title: "ปีนังเลิกใช้ถุงพลาสติกอย่างสมบูรณ์ตั้งแต่ 1 มีนาคม (Penang to Go Fully Plastic Bag-Free Starting March 1)"
     url: "https://www.mgtc.gov.my/2025/02/penang-to-go-fully-plastic-bag-free-starting-march-1/"
-    publisher: "Malaysian Green Technology and Climate Change Corporation (MGTC)"
+    publisher: "บรรษัทเทคโนโลยีสีเขียวและการเปลี่ยนแปลงสภาพภูมิอากาศมาเลเซีย (MGTC)"
 
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:

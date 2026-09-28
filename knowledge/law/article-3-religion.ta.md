@@ -41,16 +41,16 @@ sensitivity: "religion"
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint as at 15 October 2020) — Article 3, Article 4, Article 11, Article 121, Article 159, Ninth Schedule"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (15 அக்டோபர் 2020 நிலவரப்படி மறுபதிப்பு) — சரத்து 3, சரத்து 4, சரத்து 11, சரத்து 121, சரத்து 159, ஒன்பதாம் அட்டவணை (Federal Constitution (Reprint as at 15 October 2020) — Article 3, Article 4, Article 11, Article 121, Article 159, Ninth Schedule)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Commissioner of Law Revision / Attorney General's Chambers of Malaysia"
+    publisher: "சட்டத் திருத்த ஆணையர் / மலேசிய அட்டர்னி ஜெனரல் அலுவலகம்"
     date: "2020-10-15"
-  - title: "Malaysian Federal Constitution — principal document page"
+  - title: "மலேசிய கூட்டாட்சி அரசியலமைப்பு — முதன்மை ஆவணப் பக்கம் (Malaysian Federal Constitution — principal document page)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Agama Rasmi (Official Religion)"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம்"
+  - title: "உத்தியோகபூர்வ மதம் (Agama Rasmi (Official Religion))"
     url: "https://www.malaysia.gov.my/en/government/kenali-malaysia/agama-rasmi"
-    publisher: "MyGovernment Portal, Government of Malaysia"
+    publisher: "MyGovernment இணையதளம், மலேசிய அரசாங்கம்"
 
 entity: "Article 3, Federal Constitution of Malaysia"
 relations:

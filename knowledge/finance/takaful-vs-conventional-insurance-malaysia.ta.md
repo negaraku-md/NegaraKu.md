@@ -51,18 +51,18 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Islamic Financial Services Act 2013 (Act 759), Laws of Malaysia — official text"
+  - title: "Islamic Financial Services Act 2013 (Act 759), மலேசியச் சட்டங்கள் — அதிகாரப்பூர்வ உரை (Islamic Financial Services Act 2013 (Act 759), Laws of Malaysia — official text)"
     url: "https://www.investmalaysia.gov.my/media/drcdqgbk/islamic-financial-services-act-2013.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (via Invest Malaysia)"
-  - title: "Financial Services Act 2013 (Act 758), Laws of Malaysia — official text"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம் (Invest Malaysia வழியாக)"
+  - title: "Financial Services Act 2013 (Act 758), மலேசியச் சட்டங்கள் — அதிகாரப்பூர்வ உரை (Financial Services Act 2013 (Act 758), Laws of Malaysia — official text)"
     url: "https://www.investmalaysia.gov.my/media/xrnl0vfp/financial-services-act-2013.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (via Invest Malaysia)"
-  - title: "Takaful Industry Distributes RM10.20 Bln In Benefits In 2024 – MTA"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம் (Invest Malaysia வழியாக)"
+  - title: "2024-இல் தகாஃபுல் தொழில் RM10.20 பில்லியன் நலன்களை வழங்கியது – MTA (Takaful Industry Distributes RM10.20 Bln In Benefits In 2024 – MTA)"
     url: "https://www.bernama.com/en/news.php?id=2413230"
     publisher: "Bernama (Malaysian National News Agency)"
-  - title: "Islamic Financial Services Act 2013 (Act 759)"
+  - title: "Islamic Financial Services Act 2013 (Act 759) (Islamic Financial Services Act 2013 (Act 759))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20130322_759_BI_Combined.pdf"
-    publisher: "Attorney General's Chambers (Laws of Malaysia)"
+    publisher: "அட்டர்னி ஜெனரல் அலுவலகம் (மலேசியச் சட்டங்கள்)"
 
 relations:
   - { rel: "compares-with", to: "conventional-insurance-malaysia" }

@@ -33,9 +33,9 @@ sensitivity: "none"
 
 updated: 2026-07-10
 sources:
-  - title: "Royal Malaysian Customs Department — MySST"
+  - title: "Jabatan Kastam Diraja Malaysia — MySST (Royal Malaysian Customs Department — MySST)"
     url: "https://mysst.customs.gov.my/"
-    publisher: "Royal Malaysian Customs Department"
+    publisher: "Jabatan Kastam Diraja Malaysia"
 
 entity: "SST"
 relations:

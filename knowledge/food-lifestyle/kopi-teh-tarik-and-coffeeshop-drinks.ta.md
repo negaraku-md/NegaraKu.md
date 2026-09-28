@@ -51,22 +51,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Breakfast culture in Malaysia: dining experience in a multi-ethnic society"
+  - title: "மலேசியாவில் காலை உணவுப் பண்பாடு: பல்லின சமூகத்தில் உணவு அனுபவம் (Breakfast culture in Malaysia: dining experience in a multi-ethnic society)"
     url: "https://ich.unesco.org/en/RL/breakfast-culture-in-malaysia-dining-experience-in-a-multi-ethnic-society-02113"
     publisher: "UNESCO"
-  - title: "Kopi C, Kopi O & Kopitiam Coffee Terms Explained"
+  - title: "Kopi C, Kopi O மற்றும் கோபிதியாம் காபி சொற்கள் விளக்கம் (Kopi C, Kopi O & Kopitiam Coffee Terms Explained)"
     url: "https://coffeeteaculture.com/guides/kopi-c-o-coffee-shop-terms-explained"
     publisher: "Coffee & Tea Culture"
-  - title: "How To Order Kopitiam Drinks Like A Boss"
+  - title: "கோபிதியாம் பானங்களை நிபுணர் போல் ஆர்டர் செய்வது எப்படி (How To Order Kopitiam Drinks Like A Boss)"
     url: "https://says.com/my/lifestyle/ordering-your-drinks-at-a-malaysian-kopitiam"
     publisher: "SAYS"
-  - title: "What does C in Teh-C mean?"
+  - title: "Teh-C இல் C என்றால் என்ன? (What does C in Teh-C mean?)"
     url: "https://makansutra.com/what-does-c-in-teh-c-mean/"
     publisher: "Makansutra"
-  - title: "Teh Tarik: Malaysia's Iconic Beverage That's Made By 'Pulling' Tea"
+  - title: "தே தாரிக்: தேநீரை 'இழுத்து' தயாரிக்கப்படும் மலேசியாவின் அடையாளப் பானம் (Teh Tarik: Malaysia's Iconic Beverage That's Made By 'Pulling' Tea)"
     url: "https://thesmartlocal.my/teh-tarik/"
     publisher: "TheSmartLocal Malaysia"
-  - title: "Mamak: Uncovering the Magic of Malaysia's 24-Hour Heartbeat"
+  - title: "மாமாக்: மலேசியாவின் 24 மணிநேர இதயத் துடிப்பின் மாயத்தை வெளிப்படுத்துதல் (Mamak: Uncovering the Magic of Malaysia's 24-Hour Heartbeat)"
     url: "https://www.read.com.my/manglish/mamak/"
     publisher: "READ (Manglish)"
 

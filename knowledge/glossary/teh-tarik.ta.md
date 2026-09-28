@@ -45,21 +45,21 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Warisan Kebangsaan 2009 — Senarai Perisytiharan Warisan Kebangsaan"
+  - title: "தேசிய பாரம்பரியம் 2009 — தேசிய பாரம்பரியப் பிரகடனப் பட்டியல் (Warisan Kebangsaan 2009 — Senarai Perisytiharan Warisan Kebangsaan)"
     url: "https://www.heritage.gov.my/en/2009.html"
-    publisher: "Jabatan Warisan Negara"
+    publisher: "தேசிய பாரம்பரியத் துறை"
     date: "2009-02-14"
-  - title: "Breakfast culture in Malaysia: dining experience in a multi-ethnic society (elemen 02113)"
+  - title: "மலேசியாவின் காலை உணவுப் பண்பாடு: பல்லின சமூகத்தில் உணவு அனுபவம் (உறுப்பு 02113) (Breakfast culture in Malaysia: dining experience in a multi-ethnic society (elemen 02113))"
     url: "https://ich.unesco.org/en/RL/breakfast-culture-in-malaysia-dining-experience-in-a-multi-ethnic-society-02113"
     publisher: "UNESCO"
     date: "2024-12-01"
-  - title: "Effect of homogenisation in foam and emulsion mix beverage colloidal system: A case in Teh Tarik"
+  - title: "நுரை மற்றும் குழம்பு கலவைப் பானக் கூழ்ம அமைப்பில் சமப்படுத்தலின் விளைவு: Teh Tarik ஒரு வழக்கு (Effect of homogenisation in foam and emulsion mix beverage colloidal system: A case in Teh Tarik)"
     url: "https://doi.org/10.1016/j.ijgfs.2021.100310"
-    publisher: "International Journal of Gastronomy and Food Science, jilid 23"
+    publisher: "International Journal of Gastronomy and Food Science, தொகுதி 23"
     date: "2021-01-29"
-  - title: "Makanan Warisan — Cawangan Adat dan Budaya"
+  - title: "பாரம்பரிய உணவு — பழக்கவழக்கம் மற்றும் பண்பாட்டுப் பிரிவு (Makanan Warisan — Cawangan Adat dan Budaya)"
     url: "https://www.heritage.gov.my/en/pengenalan-cawangan-adat-budaya/makanan-warisan.html"
-    publisher: "Jabatan Warisan Negara"
+    publisher: "தேசிய பாரம்பரியத் துறை"
 
 entity: "Teh Tarik"
 relations:

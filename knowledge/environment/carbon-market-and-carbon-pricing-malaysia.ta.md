@@ -52,22 +52,22 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem"
+  - title: "மலேசியாவின் கார்பன் சந்தை சூழலமைப்பை வழிநடத்த தேசிய கார்பன் சந்தை கொள்கை அறிமுகம் (National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem)"
     url: "https://theedgemalaysia.com/node/800680"
     publisher: "The Edge Malaysia"
-  - title: "Emissions Trading Worldwide: Malaysia"
+  - title: "உலகளாவிய உமிழ்வு வர்த்தகம்: மலேசியா (Emissions Trading Worldwide: Malaysia)"
     url: "https://icapcarbonaction.com/en/ets/malaysia"
     publisher: "International Carbon Action Partnership (ICAP)"
-  - title: "Cover Story: National Carbon Market Policy to set foundation for carbon tax"
+  - title: "அட்டைக் கதை: தேசிய கார்பன் சந்தை கொள்கை கார்பன் வரிக்கு அடித்தளம் அமைக்கும் (Cover Story: National Carbon Market Policy to set foundation for carbon tax)"
     url: "https://theedgemalaysia.com/node/803600"
     publisher: "The Edge Malaysia"
-  - title: "Carbon Capture, Utilization and Storage Act 2025 (Act 870 of 2025)"
+  - title: "Carbon Capture, Utilization and Storage Act 2025 (Act 870 of 2025) (Carbon Capture, Utilization and Storage Act 2025 (Act 870 of 2025))"
     url: "https://www.informea.org/en/content/legislation/carbon-capture-utilization-and-storage-act-2025-act-870-2025"
     publisher: "InforMEA (UN Environment Programme)"
-  - title: "A Closer Look into Malaysia's First Carbon Auction by Bursa Carbon Exchange"
+  - title: "Bursa Carbon Exchange நடத்திய மலேசியாவின் முதல் கார்பன் ஏலம் குறித்த நெருக்கமான பார்வை (A Closer Look into Malaysia's First Carbon Auction by Bursa Carbon Exchange)"
     url: "https://www.azmilaw.com/insights/malaysia-first-carbon-auction-by-bursa-carbon-exchange/"
     publisher: "Azmi & Associates"
-  - title: "About the Bursa Carbon Exchange"
+  - title: "Bursa Carbon Exchange பற்றி (About the Bursa Carbon Exchange)"
     url: "https://bcx.bursamalaysia.com/about.html"
     publisher: "Bursa Malaysia"
 

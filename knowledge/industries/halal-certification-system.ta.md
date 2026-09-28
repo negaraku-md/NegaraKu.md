@@ -57,17 +57,17 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020"
+  - title: "மலேசியா ஹலால் சான்றளிப்பு நடைமுறை கையேடு (உள்நாட்டு) 2020 (Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/pdf/panduan/MPPHMDomestik2020.pdf"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+    publisher: "மலேசிய இஸ்லாமிய முன்னேற்றத் திணைக்களம் (JAKIM)"
     date: "2020"
-  - title: "Kenyataan Media Ketua Pengarah JAKIM Berkenaan Pelaksanaan Sijil Pengesahan Halal Malaysia (SPHM) Secara Elektronik (e-Cert)"
+  - title: "மலேசியா ஹலால் உறுதிப்படுத்தல் சான்றிதழை (SPHM) மின்னணு முறையில் (e-Cert) செயல்படுத்துவது தொடர்பான JAKIM தலைமை இயக்குநரின் ஊடக அறிக்கை (Kenyataan Media Ketua Pengarah JAKIM Berkenaan Pelaksanaan Sijil Pengesahan Halal Malaysia (SPHM) Secara Elektronik (e-Cert))"
     url: "https://www.islam.gov.my/ms/kenyataan-media/4704-kenyataan-media-ketua-pengarah-jabatan-kemajuan-islam-malaysia-berkenaan-pelaksanaan-sijil-pengesahan-halal-malaysia-sphm-secara-elektronik-e-cert"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+    publisher: "மலேசிய இஸ்லாமிய முன்னேற்றத் திணைக்களம் (JAKIM)"
     date: "2025-05-08"
-  - title: "Kenyataan Media JAKIM Berkaitan Cadangan Kerajaan Negeri Untuk Mewajibkan Pengusaha Premis Makanan Dan Minuman Memiliki Sijil Halal Sebelum Memperbaharui Lesen Perniagaan"
+  - title: "உணவு மற்றும் பானக நிறுவன உரிமையாளர்கள் வணிக உரிமத்தை புதுப்பிக்கும் முன் ஹலால் சான்றிதழ் பெற்றிருக்க வேண்டும் என மாநில அரசாங்கம் முன்மொழிந்தது தொடர்பான JAKIM ஊடக அறிக்கை (Kenyataan Media JAKIM Berkaitan Cadangan Kerajaan Negeri Untuk Mewajibkan Pengusaha Premis Makanan Dan Minuman Memiliki Sijil Halal Sebelum Memperbaharui Lesen Perniagaan)"
     url: "https://www.islam.gov.my/en/media-statement/4581-kenyataan-media-jabatan-kemajuan-islam-malaysia-berkaitan-cadangan-kerajaan-negeri-untuk-mewajibkan-pengusaha-premis-makanan-dan-minuman-memiliki-sijil-halal-sebelum-memperbaharui-lesen-perniagaan"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+    publisher: "மலேசிய இஸ்லாமிய முன்னேற்றத் திணைக்களம் (JAKIM)"
     date: "2024-12-29"
 
 entity: "Sistem Pensijilan Halal Malaysia"

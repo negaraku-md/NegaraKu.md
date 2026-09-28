@@ -54,16 +54,16 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Govt aims to have Bumiputera holding 70% of high-skilled jobs, 30% equity ownership by 2035"
+  - title: "政府目标在 2035 年前让土著持有 70% 高技能职位与 30% 股权 (Govt aims to have Bumiputera holding 70% of high-skilled jobs, 30% equity ownership by 2035)"
     url: "https://teraju.gov.my/govt-aims-to-have-bumiputera-holding-70-of-high-skilled-jobs-30-equity-ownership-by-2035/?lang=en"
-    publisher: "TERAJU (Unit Peneraju Agenda Bumiputera)"
-  - title: "Malaysia OGSE Industry Initiatives — Vendor Development Programme"
+    publisher: "土著议程主导单位 (TERAJU)"
+  - title: "马来西亚油气服务与设备 (OGSE) 行业倡议 — 供应商发展计划 (Malaysia OGSE Industry Initiatives — Vendor Development Programme)"
     url: "https://www.petronas.com/partner-us/malaysia-ogse-industry-initiatives"
     publisher: "PETRONAS"
-  - title: "Malaysia's New Economic Policy and the 30% Bumiputera Equity Target: Time for a Revisit and a Reset"
+  - title: "马来西亚新经济政策与 30% 土著股权目标：重新审视与重置之时 (Malaysia's New Economic Policy and the 30% Bumiputera Equity Target: Time for a Revisit and a Reset)"
     url: "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/malaysias-new-economic-policy-and-the-30-bumiputera-equity-target-time-for-a-revisit-and-a-reset-by-lee-hwok-aun/"
     publisher: "ISEAS – Yusof Ishak Institute"
-  - title: "Introduction to the Legal and Regulatory Canvas of the Malaysian Petroleum Industry"
+  - title: "马来西亚石油行业法律与监管框架导论 (Introduction to the Legal and Regulatory Canvas of the Malaysian Petroleum Industry)"
     url: "https://www.lowpartners.com/introduction-to-the-legal-and-regulatory-canvas-of-the-malaysian-petroleum-industry/"
     publisher: "Low & Partners"
 

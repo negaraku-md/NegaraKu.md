@@ -55,19 +55,19 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "Minister: Malayan tiger numbers bouncing back"
+  - title: "Menteri: Bilangan harimau Malaya semakin pulih (Minister: Malayan tiger numbers bouncing back)"
     url: "https://www.thestar.com.my/news/nation/2026/07/28/minister-malayan-tiger-numbers-bouncing-back"
     publisher: "The Star"
-  - title: "Malayan Tiger Crisis Action Plan To Address Population Crisis"
+  - title: "Pelan Tindakan Krisis Harimau Malaya untuk Menangani Krisis Populasi (Malayan Tiger Crisis Action Plan To Address Population Crisis)"
     url: "https://www.bernama.com/en/news.php?id=2332507"
     publisher: "Bernama"
-  - title: "Perhilitan intensifying efforts to conserve endangered Malayan tigers, Parliament told"
+  - title: "Perhilitan mempergiat usaha memulihara harimau Malaya yang terancam, Parlimen diberitahu (Perhilitan intensifying efforts to conserve endangered Malayan tigers, Parliament told)"
     url: "https://www.thestar.com.my/news/nation/2024/11/19/perhilitan-intensifying-efforts-to-conserve-endangered-malayan-tigers-parliament-told"
     publisher: "The Star"
-  - title: "Pahang, UAE sign agreement for RM99.8mil grant to protect Malayan Tiger"
+  - title: "Pahang, UAE tandatangani perjanjian geran RM99.8 juta untuk melindungi Harimau Malaya (Pahang, UAE sign agreement for RM99.8mil grant to protect Malayan Tiger)"
     url: "https://www.thestar.com.my/news/nation/2025/01/16/pahang-uae-sign-agreement-for-rm998mil-grant-to-protect-malayan-tiger"
     publisher: "The Star"
-  - title: "Panthera tigris jacksoni (Malayan Tiger)"
+  - title: "Panthera tigris jacksoni (Harimau Malaya) (Panthera tigris jacksoni (Malayan Tiger))"
     url: "https://www.mybis.gov.my/art/137"
     publisher: "Malaysia Biodiversity Information System (MyBIS)"
 

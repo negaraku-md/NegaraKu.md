@@ -42,16 +42,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula) — Perkara 71, 72, 73, 74, 75 dan Jadual Kelapan (Peruntukan yang Hendaklah Dimasukkan ke dalam Perlembagaan Negeri)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (மறுபதிப்பு) — பிரிவுகள் 71, 72, 73, 74, 75 மற்றும் எட்டாவது அட்டவணை (மாநில அரசியலமைப்பில் சேர்க்கப்பட வேண்டிய விதிகள்) (Perlembagaan Persekutuan (Cetakan Semula) — Perkara 71, 72, 73, 74, 75 dan Jadual Kelapan (Peruntukan yang Hendaklah Dimasukkan ke dalam Perlembagaan Negeri))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
+    publisher: "பிரதமர் துறை (JPM)"
     date: "2020"
-  - title: "Federal Constitution — Laws of Malaysia"
+  - title: "கூட்டாட்சி அரசியலமைப்பு — மலேசியச் சட்டங்கள் (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Akta Perlembagaan (Pindaan) 2019 [Akta A1603] — penurunan had umur mengundi dan kelayakan menjadi ahli badan perundangan kepada 18 tahun (berkuat kuasa 15 Disember 2021)"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம் (AGC)"
+  - title: "2019 அரசியலமைப்பு (திருத்தம்) சட்டம் [சட்டம் A1603] — வாக்களிக்கும் வயது மற்றும் சட்டமன்ற உறுப்பினராகும் தகுதியை 18 ஆகக் குறைத்தல் (2021 திசம்பர் 15 அன்று அமலுக்கு வந்தது) (Akta Perlembagaan (Pindaan) 2019 [Akta A1603] — penurunan had umur mengundi dan kelayakan menjadi ahli badan perundangan kepada 18 tahun (berkuat kuasa 15 Disember 2021))"
     url: "https://lom.agc.gov.my/act-detail.php?type=amendment&act=A1603"
-    publisher: "Jabatan Peguam Negara Malaysia"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம் (AGC)"
     date: "2019"
 
 entity: "Dewan Undangan Negeri"

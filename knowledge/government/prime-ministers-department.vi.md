@@ -40,18 +40,18 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Sejarah Pentadbiran Jabatan Perdana Menteri (Dari Tahun 1957 hingga Tahun 1966)"
+  - title: "Lịch sử hành chính của Văn phòng Thủ tướng (Từ năm 1957 đến năm 1966) (Sejarah Pentadbiran Jabatan Perdana Menteri (Dari Tahun 1957 hingga Tahun 1966))"
     url: "https://www.jpm.gov.my/images/sejarah/TAHUN_1957-1966.pdf"
-    publisher: "Jabatan Perdana Menteri Malaysia"
-  - title: "Jabatan Perdana Menteri — Contact Us"
+    publisher: "Văn phòng Thủ tướng Malaysia"
+  - title: "Văn phòng Thủ tướng — Liên hệ (Jabatan Perdana Menteri — Contact Us)"
     url: "https://www.jpm.gov.my/en/contact-us"
-    publisher: "Jabatan Perdana Menteri Malaysia"
+    publisher: "Văn phòng Thủ tướng Malaysia"
   - title: "Perdana Putra"
     url: "https://www.pmo.gov.my/ms/perdana-putra/"
-    publisher: "Pejabat Perdana Menteri Malaysia (Prime Minister's Office)"
-  - title: "Prime Minister's Department Official Portal"
+    publisher: "Văn phòng Thủ tướng Malaysia"
+  - title: "Cổng thông tin chính thức của Văn phòng Thủ tướng (Prime Minister's Department Official Portal)"
     url: "https://www.jpm.gov.my/en/"
-    publisher: "Jabatan Perdana Menteri Malaysia"
+    publisher: "Văn phòng Thủ tướng Malaysia"
 
 entity: "Jabatan Perdana Menteri (Prime Minister's Department)"
 wikidata: "Q7243278"

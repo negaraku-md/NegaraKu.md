@@ -59,17 +59,17 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Petroleum Development Act 1974 (Act 144), online updated text as at 1 June 2013"
+  - title: "Petroleum Development Act 1974 (Act 144), ข้อความปรับปรุงออนไลน์ ณ วันที่ 1 มิถุนายน 2013 (Petroleum Development Act 1974 (Act 144), online updated text as at 1 June 2013)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20144%20-%20Petroleum%20Development%20Act%201974.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "สำนักงานอัยการสูงสุดมาเลเซีย (Attorney General's Chambers of Malaysia)"
     date: "2013-06-01"
-  - title: "Introduction to the Legal and Regulatory Canvas of the Malaysian Petroleum Industry"
+  - title: "บทนำสู่ภูมิทัศน์กฎหมายและการกำกับดูแลของอุตสาหกรรมปิโตรเลียมมาเลเซีย (Introduction to the Legal and Regulatory Canvas of the Malaysian Petroleum Industry)"
     url: "https://www.lowpartners.com/introduction-to-the-legal-and-regulatory-canvas-of-the-malaysian-petroleum-industry/"
     publisher: "Low & Partners"
-  - title: "Petronas vs Petros: A timeline of the 62-year-long legal battle for oil and gas rights in Sarawak"
+  - title: "Petronas ปะทะ Petros: ไทม์ไลน์การต่อสู้ทางกฎหมาย 62 ปีเพื่อสิทธิน้ำมันและก๊าซในซาราวัก (Petronas vs Petros: A timeline of the 62-year-long legal battle for oil and gas rights in Sarawak)"
     url: "https://www.adillegal.com/petronas-vs-petros-a-timeline-of-the-62-year-long-legal-battle-for-oil-and-gas-rights-in-sarawak/"
     publisher: "Adil Legal"
-  - title: "MA63 grants Sarawak broader autonomy, but no O&G provisions in agreement — Azalina"
+  - title: "MA63 มอบอำนาจปกครองตนเองที่กว้างขึ้นแก่ซาราวัก แต่ไม่มีบทบัญญัติน้ำมันและก๊าซในข้อตกลง — Azalina (MA63 grants Sarawak broader autonomy, but no O&G provisions in agreement — Azalina)"
     url: "https://theedgemalaysia.com/node/790701"
     publisher: "The Edge Malaysia"
 

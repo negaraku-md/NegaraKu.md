@@ -50,22 +50,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Chronology of MCO phases in the country"
+  - title: "நாட்டில் MCO கட்டங்களின் காலவரிசை (Chronology of MCO phases in the country)"
     url: "https://bernama.com/en/general/news.php?id=1920867"
     publisher: "Bernama"
-  - title: "Examining Malaysia's Covid-19 vaccination response"
+  - title: "மலேசியாவின் கோவிட்-19 தடுப்பூசி பதிலளிப்பை ஆய்வு செய்தல் (Examining Malaysia's Covid-19 vaccination response)"
     url: "https://www.thestar.com.my/lifestyle/health/the-doctor-says/2025/11/25/examining-malaysias-covid-19-vaccination-response"
     publisher: "The Star"
-  - title: "Khairy: Government Owns MySejahtera App's IP, Personal Data, Source Code"
+  - title: "கைரி: MySejahtera செயலியின் அறிவுசார் சொத்து, தனிப்பட்ட தரவு மற்றும் மூலக்குறியீடு அரசாங்கத்திற்கு சொந்தம் (Khairy: Government Owns MySejahtera App's IP, Personal Data, Source Code)"
     url: "https://codeblue.galencentre.org/2022/03/khairy-government-owns-mysejahtera-apps-ip-personal-data-source-code/"
     publisher: "CodeBlue, Galen Centre"
-  - title: "Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships"
+  - title: "மலேசியா சுகாதார வெள்ளை அறிக்கை 2023: பொது-தனியார் கூட்டாண்மைகள் மூலம் சுகாதார அமைப்பு சீர்திருத்தத்திற்கான மலேசியாவின் பாதை (Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships)"
     url: "https://www.mondaq.com/healthcare/1348400/malaysia-health-white-paper-2023-malaysias-path-to-health-system-reform-through-public-private-partnerships"
     publisher: "Mondaq"
-  - title: "Malaysia impact story (Investment Round)"
+  - title: "மலேசியா தாக்கக் கதை (முதலீட்டு சுற்று) (Malaysia impact story (Investment Round))"
     url: "https://www.who.int/about/funding/invest-in-who/investment-round/four-years-forward/malaysia-impact-story"
     publisher: "World Health Organization"
-  - title: "COVID-19 Inpatient Deaths and Brought-in-Dead Cases in Malaysia"
+  - title: "மலேசியாவில் கோவிட்-19 உள்நோயாளர் இறப்புகள் மற்றும் இறந்த நிலையில் கொண்டுவரப்பட்ட வழக்குகள் (COVID-19 Inpatient Deaths and Brought-in-Dead Cases in Malaysia)"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9298663/"
     publisher: "PMC (National Library of Medicine)"
 

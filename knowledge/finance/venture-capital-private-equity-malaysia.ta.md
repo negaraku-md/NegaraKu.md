@@ -53,21 +53,21 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Venture Capital and Private Equity Registration"
+  - title: "துணிகர மூலதனம் மற்றும் தனியார் பங்கு பதிவு (Venture Capital and Private Equity Registration)"
     url: "https://www.sc.com.my/regulation/licensing/venture-capital-and-private-equity-registration"
-    publisher: "Securities Commission Malaysia"
-  - title: "Guidelines on the Registration of Venture Capital and Private Equity Corporations and Management Corporations"
+    publisher: "மலேசிய பங்குப் பத்திர ஆணையம்"
+  - title: "துணிகர மூலதனம் மற்றும் தனியார் பங்கு நிறுவனங்கள் மற்றும் மேலாண்மை நிறுவனங்களின் பதிவு தொடர்பான வழிகாட்டுதல்கள் (Guidelines on the Registration of Venture Capital and Private Equity Corporations and Management Corporations)"
     url: "https://www.sc.com.my/regulation/guidelines"
-    publisher: "Securities Commission Malaysia"
-  - title: "Venture Capital and Private Equity Tax Incentives"
+    publisher: "மலேசிய பங்குப் பத்திர ஆணையம்"
+  - title: "துணிகர மூலதனம் மற்றும் தனியார் பங்கு வரி சலுகைகள் (Venture Capital and Private Equity Tax Incentives)"
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
-    publisher: "Securities Commission Malaysia"
-  - title: "Public Ruling No. 7/2022: Venture Capital Tax Incentives"
+    publisher: "மலேசிய பங்குப் பத்திர ஆணையம்"
+  - title: "பொது தீர்ப்பு எண். 7/2022: துணிகர மூலதன வரி சலுகைகள் (Public Ruling No. 7/2022: Venture Capital Tax Incentives)"
     url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "SC Revises Venture Capital and Private Equity Framework"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "துணிகர மூலதனம் மற்றும் தனியார் பங்கு கட்டமைப்பை SC திருத்துகிறது (SC Revises Venture Capital and Private Equity Framework)"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"
-    publisher: "Securities Commission Malaysia"
+    publisher: "மலேசிய பங்குப் பத்திர ஆணையம்"
 
 entity: "Venture Capital and Private Equity (Malaysia)"
 relations:

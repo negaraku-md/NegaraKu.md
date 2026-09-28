@@ -52,19 +52,19 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Jadual Elektrik Baharu: Lebih 23.6 Juta Pengguna Domestik Semenanjung Nikmati Kadar Lebih Adil"
+  - title: "새 전기요금표: 반도의 2,360만 명이 넘는 가정용 사용자가 더 공정한 요율 혜택 (Jadual Elektrik Baharu: Lebih 23.6 Juta Pengguna Domestik Semenanjung Nikmati Kadar Lebih Adil)"
     url: "https://www.st.gov.my/jadual-elektrik-baharu-lebih-236-juta-pengguna-domestik-semenanjung-nikmati-kadar-lebih-adil"
-    publisher: "Suruhanjaya Tenaga (Energy Commission)"
-  - title: "Energy Commission declares August 2025 AFA rebate of 1.45 sen/kWh for domestic users"
+    publisher: "에너지위원회(Suruhanjaya Tenaga)"
+  - title: "에너지위원회, 2025년 8월 가정용 사용자 대상 AFA 리베이트 1.45센/kWh 발표 (Energy Commission declares August 2025 AFA rebate of 1.45 sen/kWh for domestic users)"
     url: "https://soyacincau.com/2025/07/30/tnb-electricity-bill-afa-rebate-st-august-2025/"
     publisher: "SoyaCincau"
-  - title: "TNB Electricity Bill changes starting July 2025. What's new?"
+  - title: "2025년 7월부터 시작되는 TNB 전기요금 청구서 변경. 무엇이 달라지나? (TNB Electricity Bill changes starting July 2025. What's new?)"
     url: "https://soyacincau.com/2025/06/21/tnb-domestic-electricity-tariff-structure-july-2025-impact-changes/"
     publisher: "SoyaCincau"
-  - title: "Big changes to domestic TNB bill structure - base tariff up 13.64% from July 2025"
+  - title: "가정용 TNB 청구 구조 대변화 - 기본요금 2025년 7월부터 13.64% 인상 (Big changes to domestic TNB bill structure - base tariff up 13.64% from July 2025)"
     url: "https://paultan.org/2025/06/20/big-changes-to-domestic-tnb-bill-structure-no-more-tiered-rates-base-tariff-up-by-13-64-from-july-2025/"
     publisher: "paultan.org"
-  - title: "Your New TNB Bill Explained: Understanding the Monthly Tariff Changes"
+  - title: "새로운 TNB 청구서 해설: 월별 요금 변경 이해하기 (Your New TNB Bill Explained: Understanding the Monthly Tariff Changes)"
     url: "https://ringgitplus.com/en/blog/personal-finance-news/your-new-tnb-bill-explained-understanding-the-monthly-tariff-changes.html"
     publisher: "RinggitPlus"
 

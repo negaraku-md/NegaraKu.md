@@ -47,19 +47,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Irsyad Hukum Ke-30: Hukum Vaksin daripada Perspektif Islam"
+  - title: "อีรชาดฮูกม ฉบับที่ 30: คำวินิจฉัยเรื่องวัคซีนจากมุมมองอิสลาม (Irsyad Hukum Ke-30: Hukum Vaksin daripada Perspektif Islam)"
     url: "https://muftiwp.gov.my/ms/artikel/irsyad-hukum/umum/2069-30"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Bayan Linnas Siri Ke-167: Kewajiban Mengambil Vaksin Mengikut Jadual Imunisasi Kebangsaan daripada Perspektif Islam"
+    publisher: "สำนักงานมุฟตีแห่งเขตสหพันธ์"
+  - title: "บายันลินนาส ชุดที่ 167: หน้าที่ในการรับวัคซีนตามตารางการสร้างเสริมภูมิคุ้มกันแห่งชาติจากมุมมองอิสลาม (Bayan Linnas Siri Ke-167: Kewajiban Mengambil Vaksin Mengikut Jadual Imunisasi Kebangsaan daripada Perspektif Islam)"
     url: "https://muftiwp.gov.my/ms/artikel/bayan-linnas/3129-"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Irsyad Fatwa Khas Ramadhan Siri Ke-176: Hukum Cucuk Vaksin COVID-19 pada Bulan Ramadan"
+    publisher: "สำนักงานมุฟตีแห่งเขตสหพันธ์"
+  - title: "อีรชาดฟัตวาพิเศษรอมฎอน ชุดที่ 176: คำวินิจฉัยการฉีดวัคซีนโควิด-19 ในเดือนรอมฎอน (Irsyad Fatwa Khas Ramadhan Siri Ke-176: Hukum Cucuk Vaksin COVID-19 pada Bulan Ramadan)"
     url: "https://www.muftiwp.gov.my/ms/artikel/irsyad-hukum/edisi-ramadhan/4746-irsyad-fatwa-khas-ramadhan-siri-ke-176-apakah-hukum-cucuk-vaksin-covid-19-pada-bulan-ramadhan"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Fatwa Gelatin dalam Ubat"
+    publisher: "สำนักงานมุฟตีแห่งเขตสหพันธ์"
+  - title: "ฟัตวาเรื่องเจลาตินในยา (Fatwa Gelatin dalam Ubat)"
     url: "https://www.pkppippum.org.my/v2/fatwa-gelatin-dalam-ubat/"
     publisher: "Persatuan Kakitangan Pegawai & Penolong Pegawai Islam, PPUM"
-  - title: "Vaksin Covid-19: Keputusan Muzakarah perlu disokong"
+  - title: "วัคซีนโควิด-19: มติของมูซาการาห์ควรได้รับการสนับสนุน (Vaksin Covid-19: Keputusan Muzakarah perlu disokong)"
     url: "https://www.sinarharian.com.my/article/116228/BERITA/Nasional/Vaksin-Covid-19-Keputusan-Muzakarah-perlu-disokong"
     publisher: "Sinar Harian"
 

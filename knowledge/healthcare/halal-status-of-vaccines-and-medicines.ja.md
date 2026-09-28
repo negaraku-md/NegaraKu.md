@@ -47,19 +47,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Irsyad Hukum Ke-30: Hukum Vaksin daripada Perspektif Islam"
+  - title: "イルシャード・フクム第30号：イスラムの視点からのワクチンの法的判断 (Irsyad Hukum Ke-30: Hukum Vaksin daripada Perspektif Islam)"
     url: "https://muftiwp.gov.my/ms/artikel/irsyad-hukum/umum/2069-30"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Bayan Linnas Siri Ke-167: Kewajiban Mengambil Vaksin Mengikut Jadual Imunisasi Kebangsaan daripada Perspektif Islam"
+    publisher: "連邦直轄領ムフティ庁"
+  - title: "バヤーン・リンナース第167号：イスラムの視点から見た国家予防接種スケジュールに従ったワクチン接種の義務 (Bayan Linnas Siri Ke-167: Kewajiban Mengambil Vaksin Mengikut Jadual Imunisasi Kebangsaan daripada Perspektif Islam)"
     url: "https://muftiwp.gov.my/ms/artikel/bayan-linnas/3129-"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Irsyad Fatwa Khas Ramadhan Siri Ke-176: Hukum Cucuk Vaksin COVID-19 pada Bulan Ramadan"
+    publisher: "連邦直轄領ムフティ庁"
+  - title: "特別ラマダン・イルシャード・ファトワ第176号：ラマダン月における新型コロナウイルス（COVID-19）ワクチン接種の法的判断 (Irsyad Fatwa Khas Ramadhan Siri Ke-176: Hukum Cucuk Vaksin COVID-19 pada Bulan Ramadan)"
     url: "https://www.muftiwp.gov.my/ms/artikel/irsyad-hukum/edisi-ramadhan/4746-irsyad-fatwa-khas-ramadhan-siri-ke-176-apakah-hukum-cucuk-vaksin-covid-19-pada-bulan-ramadhan"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Fatwa Gelatin dalam Ubat"
+    publisher: "連邦直轄領ムフティ庁"
+  - title: "医薬品中のゼラチンに関するファトワ (Fatwa Gelatin dalam Ubat)"
     url: "https://www.pkppippum.org.my/v2/fatwa-gelatin-dalam-ubat/"
     publisher: "Persatuan Kakitangan Pegawai & Penolong Pegawai Islam, PPUM"
-  - title: "Vaksin Covid-19: Keputusan Muzakarah perlu disokong"
+  - title: "COVID-19ワクチン：ムザカラ（ファトワ委員会）の決定は支持されるべき (Vaksin Covid-19: Keputusan Muzakarah perlu disokong)"
     url: "https://www.sinarharian.com.my/article/116228/BERITA/Nasional/Vaksin-Covid-19-Keputusan-Muzakarah-perlu-disokong"
     publisher: "Sinar Harian"
 

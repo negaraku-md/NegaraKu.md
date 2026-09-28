@@ -55,20 +55,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (மறுபதிப்பு) (Perlembagaan Persekutuan (Cetakan Semula))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
+    publisher: "பிரதமர் துறை"
     date: "2020"
-  - title: "Federal Constitution — Laws of Malaysia"
+  - title: "கூட்டாட்சி அரசியலமைப்பு — மலேசியச் சட்டங்கள் (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Peraturan-peraturan Majlis Mesyuarat Dewan Rakyat, Cetakan Ketiga Belas"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அறையகம்"
+  - title: "Dewan Rakyat கூட்டத்தின் நிலையியல்பு விதிகள், பதின்மூன்றாம் பதிப்பு (Peraturan-peraturan Majlis Mesyuarat Dewan Rakyat, Cetakan Ketiga Belas)"
     url: "https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf"
-    publisher: "Parlimen Malaysia"
+    publisher: "மலேசியப் பாராளுமன்றம்"
     date: "2013"
-  - title: "Maklumat Umum — Dewan Rakyat"
+  - title: "பொதுத் தகவல் — Dewan Rakyat (Maklumat Umum — Dewan Rakyat)"
     url: "https://www.parlimen.gov.my/maklumat-umum.html?uweb=dr"
-    publisher: "Parlimen Malaysia"
+    publisher: "மலேசியப் பாராளுமன்றம்"
 
 entity: "Dewan Rakyat"
 wikidata: "Q1207092"

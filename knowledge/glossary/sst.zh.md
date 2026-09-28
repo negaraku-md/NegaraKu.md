@@ -34,9 +34,9 @@ sensitivity: "none"
 
 updated: 2026-07-10
 sources:
-  - title: "Royal Malaysian Customs Department — MySST"
+  - title: "马来西亚皇家关税局 — MySST (Royal Malaysian Customs Department — MySST)"
     url: "https://mysst.customs.gov.my/"
-    publisher: "Royal Malaysian Customs Department"
+    publisher: "马来西亚皇家关税局"
 
 entity: "SST"
 relations:

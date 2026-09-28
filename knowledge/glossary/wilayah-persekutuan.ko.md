@@ -38,12 +38,12 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Portal Rasmi Kerajaan Malaysia"
+  - title: "말레이시아 정부 공식 포털 (Portal Rasmi Kerajaan Malaysia)"
     url: "https://www.malaysia.gov.my/"
-    publisher: "Kerajaan Malaysia"
-  - title: "Perlembagaan Persekutuan"
+    publisher: "말레이시아 정부"
+  - title: "연방헌법 (Perlembagaan Persekutuan)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Jabatan Peguam Negara"
+    publisher: "법무장관실"
 
 entity: "Wilayah Persekutuan"
 relations:

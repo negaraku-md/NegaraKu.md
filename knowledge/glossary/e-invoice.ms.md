@@ -33,9 +33,9 @@ sensitivity: "none"
 
 updated: 2026-07-10
 sources:
-  - title: "LHDN e-Invoice Guideline"
+  - title: "Garis Panduan e-Invois LHDN (LHDN e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/e-invois/"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
 
 entity: "e-Invoice"
 relations:

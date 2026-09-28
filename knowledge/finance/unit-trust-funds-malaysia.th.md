@@ -56,19 +56,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Unit Trust Funds Remain Largest CIS Component With RM546.08 Bln NAV"
+  - title: "กองทุนรวมยังคงเป็นองค์ประกอบ CIS ที่ใหญ่ที่สุด ด้วย NAV RM546.08 พันล้าน (Unit Trust Funds Remain Largest CIS Component With RM546.08 Bln NAV)"
     url: "https://www.bernama.com/en/news.php?id=2404272"
     publisher: "Bernama"
-  - title: "Charges & Fees"
+  - title: "ค่าใช้จ่ายและค่าธรรมเนียม (Charges & Fees)"
     url: "https://www.fimm.com.my/investors/understanding-investing/charges-fees-2/"
     publisher: "Federation of Investment Managers Malaysia (FIMM)"
-  - title: "Trends: Unit trust fees and charges down, sustainable funds on the rise"
+  - title: "แนวโน้ม: ค่าธรรมเนียมกองทุนรวมลดลง กองทุนยั่งยืนเพิ่มขึ้น (Trends: Unit trust fees and charges down, sustainable funds on the rise)"
     url: "https://theedgemalaysia.com/article/trends-unit-trust-fees-and-charges-down-sustainable-funds-rise"
     publisher: "The Edge Malaysia"
-  - title: "Public Mutual — Our Profile"
+  - title: "Public Mutual — ข้อมูลของเรา (Public Mutual — Our Profile)"
     url: "https://www.publicmutual.com.my/pmb/Our-Profile"
     publisher: "Public Mutual Berhad"
-  - title: "EPF Adds Five New Platforms To Its i-Invest Investment Facility"
+  - title: "EPF เพิ่มห้าแพลตฟอร์มใหม่ให้สิ่งอำนวยความสะดวกการลงทุน i-Invest (EPF Adds Five New Platforms To Its i-Invest Investment Facility)"
     url: "https://ringgitplus.com/en/blog/investment/epf-adds-five-new-platforms-to-its-i-invest-investment-facility.html"
     publisher: "RinggitPlus"
 

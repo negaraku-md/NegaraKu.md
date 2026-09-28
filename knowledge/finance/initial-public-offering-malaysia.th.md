@@ -53,18 +53,18 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Listing Criteria"
+  - title: "เกณฑ์การจดทะเบียน (Listing Criteria)"
     url: "https://www.bursamalaysia.com/listing/get_listed/listing_criteria"
     publisher: "Bursa Malaysia"
-  - title: "Listing Process"
+  - title: "กระบวนการจดทะเบียน (Listing Process)"
     url: "https://www.bursamalaysia.com/listing/get_listed/listing_process"
     publisher: "Bursa Malaysia"
-  - title: "Cost of Listing"
+  - title: "ต้นทุนการจดทะเบียน (Cost of Listing)"
     url: "https://www.bursamalaysia.com/listing/get_listed/cost_of_listing"
     publisher: "Bursa Malaysia"
-  - title: "Bumiputera Equity Requirement For Public Listed Companies — Regulatory FAQs"
+  - title: "ข้อกำหนดสัดส่วนหุ้นภูมิบุตรสำหรับบริษัทจดทะเบียน — คำถามที่พบบ่อยด้านการกำกับดูแล (Bumiputera Equity Requirement For Public Listed Companies — Regulatory FAQs)"
     url: "https://www.sc.com.my/regulation/regulatory-faqs/bumiputera-equity-requirement-for-public-listed-companies"
-    publisher: "Securities Commission Malaysia"
+    publisher: "คณะกรรมการกำกับหลักทรัพย์มาเลเซีย"
 
 entity: "Initial Public Offering (Bursa Malaysia)"
 relations:

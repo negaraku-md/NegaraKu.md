@@ -47,13 +47,13 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Search for Registered Doctor (MeRITS)"
+  - title: "登録医師の検索（MeRITS）(Search for Registered Doctor (MeRITS))"
     url: "https://merits.mmc.gov.my/search"
-    publisher: "Majlis Perubatan Malaysia (MMC)"
-  - title: "Registrations"
+    publisher: "マレーシア医療評議会 (MMC)"
+  - title: "登録 (Registrations)"
     url: "https://mmc.gov.my/registrations/"
-    publisher: "Majlis Perubatan Malaysia (MMC)"
-  - title: "MAHPC Extends Allied Health Practitioners' Registration Deadline To Dec 2026"
+    publisher: "マレーシア医療評議会 (MMC)"
+  - title: "MAHPC、医療関連職従事者の登録期限を2026年12月まで延長 (MAHPC Extends Allied Health Practitioners' Registration Deadline To Dec 2026)"
     url: "https://www.bernama.com/en/news.php?id=2437599"
     publisher: "Bernama"
 

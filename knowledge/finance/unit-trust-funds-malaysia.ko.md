@@ -56,19 +56,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Unit Trust Funds Remain Largest CIS Component With RM546.08 Bln NAV"
+  - title: "유닛 트러스트 펀드, NAV RM5,460.8억으로 최대 CIS 구성요소 유지 (Unit Trust Funds Remain Largest CIS Component With RM546.08 Bln NAV)"
     url: "https://www.bernama.com/en/news.php?id=2404272"
     publisher: "Bernama"
-  - title: "Charges & Fees"
+  - title: "요금 및 수수료 (Charges & Fees)"
     url: "https://www.fimm.com.my/investors/understanding-investing/charges-fees-2/"
     publisher: "Federation of Investment Managers Malaysia (FIMM)"
-  - title: "Trends: Unit trust fees and charges down, sustainable funds on the rise"
+  - title: "트렌드: 유닛 트러스트 수수료 하락, 지속가능 펀드 증가 (Trends: Unit trust fees and charges down, sustainable funds on the rise)"
     url: "https://theedgemalaysia.com/article/trends-unit-trust-fees-and-charges-down-sustainable-funds-rise"
     publisher: "The Edge Malaysia"
-  - title: "Public Mutual — Our Profile"
+  - title: "Public Mutual — 회사 소개 (Public Mutual — Our Profile)"
     url: "https://www.publicmutual.com.my/pmb/Our-Profile"
     publisher: "Public Mutual Berhad"
-  - title: "EPF Adds Five New Platforms To Its i-Invest Investment Facility"
+  - title: "EPF, i-Invest 투자 시설에 5개 신규 플랫폼 추가 (EPF Adds Five New Platforms To Its i-Invest Investment Facility)"
     url: "https://ringgitplus.com/en/blog/investment/epf-adds-five-new-platforms-to-its-i-invest-investment-facility.html"
     publisher: "RinggitPlus"
 

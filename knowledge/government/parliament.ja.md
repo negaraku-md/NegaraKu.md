@@ -48,18 +48,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Federal Constitution (Reprint as at 15 October 2020)"
+  - title: "連邦憲法（2020年10月15日現在の再版） (Federal Constitution (Reprint as at 15 October 2020))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "List of Members — House of Representatives"
+    publisher: "法務長官府"
+  - title: "議員一覧 — 下院 (List of Members — House of Representatives)"
     url: "https://www.parlimen.gov.my/ahli-dewan.html?uweb=dr&lang=en"
-    publisher: "Parliament of Malaysia"
-  - title: "Official Portal of the Parliament of Malaysia"
+    publisher: "マレーシア国会"
+  - title: "マレーシア国会公式ポータル (Official Portal of the Parliament of Malaysia)"
     url: "https://www.parlimen.gov.my/index.php?lang=en"
-    publisher: "Parliament of Malaysia"
-  - title: "Federal Constitution — Laws of Malaysia"
+    publisher: "マレーシア国会"
+  - title: "連邦憲法 — Laws of Malaysia (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "マレーシア法務長官府"
 
 entity: "Parliament of Malaysia"
 wikidata: "Q2986392"

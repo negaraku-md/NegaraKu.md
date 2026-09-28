@@ -53,19 +53,19 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "i-Invest: Member Investment Scheme"
+  - title: "i-Invest：会员投资计划 (i-Invest: Member Investment Scheme)"
     url: "https://www.kwsp.gov.my/en/member/savings/i-invest"
-    publisher: "Employees Provident Fund (KWSP)"
-  - title: "EPF Launches i-Invest Online Platform Enabling Unit Trust Investment Directly From EPF Account"
+    publisher: "雇员公积金局 (KWSP)"
+  - title: "EPF推出i-Invest在线平台，让会员直接从EPF账户投资单位信托 (EPF Launches i-Invest Online Platform Enabling Unit Trust Investment Directly From EPF Account)"
     url: "https://www.kwsp.gov.my/en/w/epf-launches-i-invest-online-platform-enabling-unit-trust-investment-directly-from-epf-account"
-    publisher: "Employees Provident Fund (KWSP)"
-  - title: "Members Investment Scheme (MIS) — Eligibility Leaflet"
+    publisher: "雇员公积金局 (KWSP)"
+  - title: "会员投资计划（MIS） — 资格须知单张 (Members Investment Scheme (MIS) — Eligibility Leaflet)"
     url: "https://www.kwsp.gov.my/documents/d/guest/a19_en_members-investment-scheme-mis-005"
-    publisher: "Employees Provident Fund (KWSP)"
-  - title: "Employees Provident Fund (EPF) — Members Investment Scheme FAQ"
+    publisher: "雇员公积金局 (KWSP)"
+  - title: "雇员公积金局（EPF） — 会员投资计划常见问题 (Employees Provident Fund (EPF) — Members Investment Scheme FAQ)"
     url: "https://www.eunittrust.com.my/Home/EPFFaq"
-    publisher: "Eastspring Investments (EPF-appointed fund management institution)"
-  - title: "EPF Announces Fee Reductions For EPF Members Investment Scheme"
+    publisher: "Eastspring Investments（EPF委任的基金管理机构）"
+  - title: "EPF宣布下调会员投资计划费用 (EPF Announces Fee Reductions For EPF Members Investment Scheme)"
     url: "https://www.malaymail.com/news/malaysia/2020/04/30/epf-announces-fee-reductions-for-epf-members-investment-scheme/1861785"
     publisher: "Malay Mail"
 

@@ -48,18 +48,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Federal Constitution (Reprint as at 15 October 2020)"
+  - title: "கூட்டரசு அரசியலமைப்பு (2020 அக்டோபர் 15 நிலவரப்படி மறுபதிப்பு) (Federal Constitution (Reprint as at 15 October 2020))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "List of Members — House of Representatives"
+    publisher: "சட்ட மா அதிபர் அறையகம்"
+  - title: "உறுப்பினர்கள் பட்டியல் — மக்கள் மன்றம் (List of Members — House of Representatives)"
     url: "https://www.parlimen.gov.my/ahli-dewan.html?uweb=dr&lang=en"
-    publisher: "Parliament of Malaysia"
-  - title: "Official Portal of the Parliament of Malaysia"
+    publisher: "மலேசிய நாடாளுமன்றம்"
+  - title: "மலேசிய நாடாளுமன்றத்தின் அதிகாரப்பூர்வ இணையவாயில் (Official Portal of the Parliament of Malaysia)"
     url: "https://www.parlimen.gov.my/index.php?lang=en"
-    publisher: "Parliament of Malaysia"
-  - title: "Federal Constitution — Laws of Malaysia"
+    publisher: "மலேசிய நாடாளுமன்றம்"
+  - title: "கூட்டரசு அரசியலமைப்பு — Laws of Malaysia (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "மலேசிய சட்ட மா அதிபர் அறையகம்"
 
 entity: "Parliament of Malaysia"
 wikidata: "Q2986392"

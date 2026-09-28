@@ -57,21 +57,21 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia 2020-2024"
+  - title: "供应与利用账户 部分农业商品，马来西亚 2020-2024 (Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia 2020-2024)"
     url: "https://www.dosm.gov.my/portal-main/release-content/supply-and-utilization-accounts-selected-agricultural-commodities-malaysia-2020-2024"
-    publisher: "Department of Statistics Malaysia"
+    publisher: "马来西亚统计局"
     date: "2025-12-15"
-  - title: "Protokol Keperluan Fitosanitari bagi Eksport Durian Segar dari Malaysia ke China"
+  - title: "马来西亚鲜食榴莲出口中国的植物检疫要求议定书 (Protokol Keperluan Fitosanitari bagi Eksport Durian Segar dari Malaysia ke China)"
     url: "https://www.doa.gov.my/doa/resources/aktiviti_sumber/sumber_awam/maklumat_biosekuriti/kelulusan_protokol_fitosanitari_durian_segar_Malaysia_China.pdf"
-    publisher: "Jabatan Pertanian Malaysia"
-  - title: "Malaysia Exports Durians Worth RM6.37 Bln To China From 2018-2025"
+    publisher: "马来西亚农业局"
+  - title: "2018至2025年马来西亚向中国出口价值63.7亿令吉的榴莲 (Malaysia Exports Durians Worth RM6.37 Bln To China From 2018-2025)"
     url: "https://www.bernama.com/en/news.php?id=2475446"
     publisher: "Bernama"
-  - title: "First shipment of Malaysian fresh durian arrives in China"
+  - title: "首批马来西亚鲜食榴莲抵达中国 (First shipment of Malaysian fresh durian arrives in China)"
     url: "https://www.fruitnet.com/asiafruit/first-shipment-of-malaysian-fresh-durian-arrives-in-china/262032.article"
     publisher: "Fruitnet / Asiafruit"
     date: "2024-08-27"
-  - title: "Geographical indications in Malaysia: Recent developments and progress"
+  - title: "马来西亚的地理标志：近期发展与进展 (Geographical indications in Malaysia: Recent developments and progress)"
     url: "https://asiaiplaw.com/article/geographical-indications-in-malaysia-recent-developments-and-progress"
     publisher: "Asia IP"
 

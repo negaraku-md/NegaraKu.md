@@ -59,16 +59,16 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Rukun Negara — Kenali Malaysia"
+  - title: "Rukun Negara(国家原則)— マレーシアを知る (Rukun Negara — Kenali Malaysia)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Lima Prinsip Rukun Negara"
+    publisher: "マレーシア政府公式ポータル (MyGovernment)"
+  - title: "Rukun Negara の五原則 (Lima Prinsip Rukun Negara)"
     url: "https://www.mkn.gov.my/web/ms/2024/09/24/lima-prinsip-rukun-negara/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
+    publisher: "国家安全保障評議会 (MKN)"
     date: "2024-09-24"
-  - title: "Trivia Kemerdekaan: Pembentukan Rukun Negara"
+  - title: "独立トリビア:Rukun Negara(国家原則)の制定 (Trivia Kemerdekaan: Pembentukan Rukun Negara)"
     url: "https://www.mkn.gov.my/web/ms/2022/08/03/trivia-kemerdekaan-pembentukan-rukun-negara/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
+    publisher: "国家安全保障評議会 (MKN)"
     date: "2022-08-03"
 
 entity: "Rukun Negara"

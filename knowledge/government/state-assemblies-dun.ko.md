@@ -42,16 +42,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula) — Perkara 71, 72, 73, 74, 75 dan Jadual Kelapan (Peruntukan yang Hendaklah Dimasukkan ke dalam Perlembagaan Negeri)"
+  - title: "연방헌법(재판) — 제71, 72, 73, 74, 75조 및 제8부칙(주 헌법에 삽입되어야 할 규정) (Perlembagaan Persekutuan (Cetakan Semula) — Perkara 71, 72, 73, 74, 75 dan Jadual Kelapan (Peruntukan yang Hendaklah Dimasukkan ke dalam Perlembagaan Negeri))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
+    publisher: "총리실 (JPM)"
     date: "2020"
-  - title: "Federal Constitution — Laws of Malaysia"
+  - title: "연방헌법 — 말레이시아 법령 (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Akta Perlembagaan (Pindaan) 2019 [Akta A1603] — penurunan had umur mengundi dan kelayakan menjadi ahli badan perundangan kepada 18 tahun (berkuat kuasa 15 Disember 2021)"
+    publisher: "말레이시아 법무장관실 (AGC)"
+  - title: "2019년 헌법(개정)법 [법령 A1603] — 투표 연령 및 입법기관 의원 자격을 18세로 하향(2021년 12월 15일 시행) (Akta Perlembagaan (Pindaan) 2019 [Akta A1603] — penurunan had umur mengundi dan kelayakan menjadi ahli badan perundangan kepada 18 tahun (berkuat kuasa 15 Disember 2021))"
     url: "https://lom.agc.gov.my/act-detail.php?type=amendment&act=A1603"
-    publisher: "Jabatan Peguam Negara Malaysia"
+    publisher: "말레이시아 법무장관실 (AGC)"
     date: "2019"
 
 entity: "Dewan Undangan Negeri"

@@ -57,21 +57,21 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Sole Proprietorship / Partnership — Business Information"
+  - title: "개인사업자 / 파트너십 — 사업 정보 (Sole Proprietorship / Partnership — Business Information)"
     url: "https://malaysiabiz.gov.my/en/portal/sole-proprietership-partnership"
     publisher: "MalaysiaBiz (BizChannel, Suruhanjaya Syarikat Malaysia)"
-  - title: "Section 5 — Registration (Registration of Businesses Act 1956, Act 197)"
+  - title: "제5조 — 등록 (Registration of Businesses Act 1956, Act 197) (Section 5 — Registration (Registration of Businesses Act 1956, Act 197))"
     url: "https://www.ssm.com.my/acts/fscommand/a0197s0005.htm"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Section 12 — Offences (Registration of Businesses Act 1956, Act 197)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "제12조 — 위반 (Registration of Businesses Act 1956, Act 197) (Section 12 — Offences (Registration of Businesses Act 1956, Act 197))"
     url: "https://www.ssm.com.my/acts/fscommand/a0197s0012.htm"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Step to Register — Legalising Your Business"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "등록 절차 — 사업 합법화 (Step to Register — Legalising Your Business)"
     url: "https://www.smeinfo.com.my/legalising-your-business/step-to-register/"
-    publisher: "SME Corporation Malaysia (SMEinfo Portal)"
-  - title: "ITRF Deadlines — Income Tax Return Form Filing Programme"
+    publisher: "SME Corporation Malaysia (SMEinfo 포털)"
+  - title: "ITRF 마감일 — 소득세 신고서 제출 프로그램 (ITRF Deadlines — Income Tax Return Form Filing Programme)"
     url: "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    publisher: "말레이시아 국내세입청 (LHDN)"
 
 entity: "Sole Proprietorship"
 relations:

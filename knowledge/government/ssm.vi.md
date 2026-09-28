@@ -46,16 +46,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Act 614 — Companies Commission of Malaysia Act 2001"
+  - title: "Luật Ủy ban Doanh nghiệp Malaysia 2001, Đạo luật số 614 (Act 614 — Companies Commission of Malaysia Act 2001)"
     url: "https://lom.agc.gov.my/act-detail.php?act=614"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
     date: "2002-04-16"
-  - title: "Companies Act 2016 — legal framework"
+  - title: "Luật Doanh nghiệp 2016 — khung pháp lý (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
-  - title: "Suruhanjaya Syarikat Malaysia"
+    publisher: "Ủy ban Doanh nghiệp Malaysia (SSM)"
+  - title: "Ủy ban Doanh nghiệp Malaysia (Suruhanjaya Syarikat Malaysia)"
     url: "https://www.ssm.com.my/"
-    publisher: "SSM"
+    publisher: "Ủy ban Doanh nghiệp Malaysia (SSM)"
 
 entity: "SSM"
 wikidata: "Q1121232"

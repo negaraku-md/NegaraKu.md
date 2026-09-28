@@ -51,21 +51,21 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 153"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (2020 மறுபதிப்பு) — பிரிவு 153 (Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 153)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Pejabat Peguam Negara (AGC)"
-  - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 160 (Tafsiran)"
+    publisher: "அட்டர்னி ஜெனரல் அலுவலகம் (AGC)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (2020 மறுபதிப்பு) — பிரிவு 160 (விளக்கம்) (Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 160 (Tafsiran))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Pejabat Peguam Negara (AGC)"
-  - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 161A"
+    publisher: "அட்டர்னி ஜெனரல் அலுவலகம் (AGC)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (2020 மறுபதிப்பு) — பிரிவு 161A (Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 161A)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Pejabat Peguam Negara (AGC)"
-  - title: "Perlembagaan Persekutuan — Cetakan Semula 2020 (teks penuh, PDF)"
+    publisher: "அட்டர்னி ஜெனரல் அலுவலகம் (AGC)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு — 2020 மறுபதிப்பு (முழு உரை, PDF) (Perlembagaan Persekutuan — Cetakan Semula 2020 (teks penuh, PDF))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri (Bahagian Hal Ehwal Undang-Undang) / AGC"
-  - title: "Akta Orang Asli 1954 (Akta 134)"
+    publisher: "பிரதமர் துறை (சட்ட விவகாரப் பிரிவு) / AGC"
+  - title: "Aboriginal Peoples Act 1954 (சட்டம் 134) (Akta Orang Asli 1954 (Akta 134))"
     url: "https://lom.agc.gov.my/act-detail.php?act=134&lang=BM"
-    publisher: "Pejabat Peguam Negara (AGC)"
+    publisher: "அட்டர்னி ஜெனரல் அலுவலகம் (AGC)"
 entity: "Bumiputera"
 relations:
   - { rel: "part-of", to: "malaysia" }

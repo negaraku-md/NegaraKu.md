@@ -55,13 +55,13 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Federal Constitution (Reprint — As at 15 October 2020) — Article 153; and Articles 8, 38(5), 89, 136, 159(5), 160(2), 161A, 10(4)"
+  - title: "連邦憲法(再版 — 2020年10月15日現在) — 第153条;及び第8条、第38条(5)、第89条、第136条、第159条(5)、第160条(2)、第161A条、第10条(4) (Federal Constitution (Reprint — As at 15 October 2020) — Article 153; and Articles 8, 38(5), 89, 136, 159(5), 160(2), 161A, 10(4))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "マレーシア司法長官府"
     date: "2020-10-15"
-  - title: "Federal Constitution — Portal Perundangan Persekutuan (Federal Legislation Portal)"
+  - title: "連邦憲法 — 連邦法令ポータル (Federal Legislation Portal) (Federal Constitution — Portal Perundangan Persekutuan (Federal Legislation Portal))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "マレーシア司法長官府"
 
 entity: "Perkara 153, Perlembagaan Persekutuan Malaysia"
 relations:

@@ -41,16 +41,16 @@ sensitivity: "religion"
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint as at 15 October 2020) — Article 3, Article 4, Article 11, Article 121, Article 159, Ninth Schedule"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ (ฉบับพิมพ์ซ้ำ ณ วันที่ 15 ตุลาคม 2020) — มาตรา 3, มาตรา 4, มาตรา 11, มาตรา 121, มาตรา 159, ตารางที่เก้า (Federal Constitution (Reprint as at 15 October 2020) — Article 3, Article 4, Article 11, Article 121, Article 159, Ninth Schedule)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Commissioner of Law Revision / Attorney General's Chambers of Malaysia"
+    publisher: "คณะกรรมาธิการปรับปรุงกฎหมาย / สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
     date: "2020-10-15"
-  - title: "Malaysian Federal Constitution — principal document page"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐมาเลเซีย — หน้าเอกสารหลัก (Malaysian Federal Constitution — principal document page)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Agama Rasmi (Official Religion)"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
+  - title: "ศาสนาประจำชาติ (Agama Rasmi (Official Religion))"
     url: "https://www.malaysia.gov.my/en/government/kenali-malaysia/agama-rasmi"
-    publisher: "MyGovernment Portal, Government of Malaysia"
+    publisher: "พอร์ทัล MyGovernment รัฐบาลมาเลเซีย"
 
 entity: "Article 3, Federal Constitution of Malaysia"
 relations:

@@ -54,16 +54,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula — sebagaimana pada 15 Oktober 2020)"
+  - title: "Hiến pháp Liên bang (Bản in lại — tính đến ngày 15 tháng 10 năm 2020) (Perlembagaan Persekutuan (Cetakan Semula — sebagaimana pada 15 Oktober 2020))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
-    publisher: "Pesuruhjaya Penyemak Undang-Undang, Malaysia / Jabatan Peguam Negara"
+    publisher: "Ủy viên Rà soát Pháp luật, Malaysia / Phòng Chưởng lý"
     date: "2020"
-  - title: "Laws of Malaysia — portal rasmi perundangan persekutuan (Federal Constitution)"
+  - title: "Luật pháp Malaysia — cổng thông tin chính thức về pháp luật liên bang (Hiến pháp Liên bang) (Laws of Malaysia — portal rasmi perundangan persekutuan (Federal Constitution))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Portal Rasmi Parlimen Malaysia"
+    publisher: "Phòng Chưởng lý Malaysia"
+  - title: "Cổng thông tin chính thức của Nghị viện Malaysia (Portal Rasmi Parlimen Malaysia)"
     url: "https://www.parlimen.gov.my/"
-    publisher: "Parlimen Malaysia"
+    publisher: "Nghị viện Malaysia"
 
 entity: "Jemaah Menteri Malaysia"
 wikidata: "Q846488"

@@ -38,13 +38,13 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Khazanah Nasional Berhad"
+  - title: "คาซานาห์ นาซิอองนัล เบอร์ฮาด (Khazanah Nasional Berhad)"
     url: "https://www.khazanah.com.my/"
     publisher: "Khazanah Nasional"
-  - title: "Ministry of Finance Malaysia"
+  - title: "กระทรวงการคลังมาเลเซีย (Ministry of Finance Malaysia)"
     url: "https://www.mof.gov.my/"
-    publisher: "Ministry of Finance"
-  - title: "Bursa Malaysia"
+    publisher: "กระทรวงการคลังมาเลเซีย (MOF)"
+  - title: "Bursa Malaysia (Bursa Malaysia)"
     url: "https://www.bursamalaysia.com/"
     publisher: "Bursa Malaysia"
 

@@ -52,22 +52,22 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem"
+  - title: "Dasar Pasaran Karbon Negara dilancarkan untuk memandu ekosistem pasaran karbon Malaysia (National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem)"
     url: "https://theedgemalaysia.com/node/800680"
     publisher: "The Edge Malaysia"
-  - title: "Emissions Trading Worldwide: Malaysia"
+  - title: "Perdagangan Pelepasan di Seluruh Dunia: Malaysia (Emissions Trading Worldwide: Malaysia)"
     url: "https://icapcarbonaction.com/en/ets/malaysia"
     publisher: "International Carbon Action Partnership (ICAP)"
-  - title: "Cover Story: National Carbon Market Policy to set foundation for carbon tax"
+  - title: "Cover Story: Dasar Pasaran Karbon Negara akan meletakkan asas untuk cukai karbon (Cover Story: National Carbon Market Policy to set foundation for carbon tax)"
     url: "https://theedgemalaysia.com/node/803600"
     publisher: "The Edge Malaysia"
-  - title: "Carbon Capture, Utilization and Storage Act 2025 (Act 870 of 2025)"
+  - title: "Carbon Capture, Utilization and Storage Act 2025 (Act 870 of 2025) (Carbon Capture, Utilization and Storage Act 2025 (Act 870 of 2025))"
     url: "https://www.informea.org/en/content/legislation/carbon-capture-utilization-and-storage-act-2025-act-870-2025"
     publisher: "InforMEA (UN Environment Programme)"
-  - title: "A Closer Look into Malaysia's First Carbon Auction by Bursa Carbon Exchange"
+  - title: "Tinjauan Lebih Dekat terhadap Lelong Karbon Pertama Malaysia oleh Bursa Carbon Exchange (A Closer Look into Malaysia's First Carbon Auction by Bursa Carbon Exchange)"
     url: "https://www.azmilaw.com/insights/malaysia-first-carbon-auction-by-bursa-carbon-exchange/"
     publisher: "Azmi & Associates"
-  - title: "About the Bursa Carbon Exchange"
+  - title: "Mengenai Bursa Carbon Exchange (About the Bursa Carbon Exchange)"
     url: "https://bcx.bursamalaysia.com/about.html"
     publisher: "Bursa Malaysia"
 

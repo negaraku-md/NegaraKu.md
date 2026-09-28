@@ -52,13 +52,13 @@ verificationNeeded:
   - "第159条(5)の規定一覧及び第159条(4)の適用除外が、2020年重印版以降のいかなる改正によっても変更されていないことを確認すること。"
 updated: 2026-08-01
 sources:
-  - title: "Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI"
+  - title: "連邦憲法(再版、2020年10月15日現在) — 第4条、第159条、第160条、第XI部 (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "マレーシア司法長官府"
     date: "2020-10-15"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Malaysia (Laws of Malaysia)"
+  - title: "連邦憲法 — マレーシア法令ポータル (Laws of Malaysia) (Perlembagaan Persekutuan — Portal Perundangan Malaysia (Laws of Malaysia))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "マレーシア司法長官府"
 
 entity: "Perlembagaan Persekutuan Malaysia"
 wikidata: "Q1003080"

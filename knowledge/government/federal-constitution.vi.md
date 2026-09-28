@@ -51,13 +51,13 @@ verificationNeeded:
   - "Xác nhận danh sách các quy định của Điều 159(5) và các ngoại lệ của Điều 159(4) không thay đổi trong bất kỳ sửa đổi nào sau bản in lại 2020."
 updated: 2026-08-01
 sources:
-  - title: "Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI"
+  - title: "Hiến pháp Liên bang (Bản tái bản, Tính đến ngày 15 tháng 10 năm 2020) — Điều 4, Điều 159, Điều 160, Phần XI (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "Phòng Tổng Chưởng lý Malaysia"
     date: "2020-10-15"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Malaysia (Laws of Malaysia)"
+  - title: "Hiến pháp Liên bang — Cổng Pháp luật Malaysia (Laws of Malaysia) (Perlembagaan Persekutuan — Portal Perundangan Malaysia (Laws of Malaysia))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "Phòng Tổng Chưởng lý Malaysia"
 
 entity: "Perlembagaan Persekutuan Malaysia"
 wikidata: "Q1003080"

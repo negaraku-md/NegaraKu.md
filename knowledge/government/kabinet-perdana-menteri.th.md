@@ -55,16 +55,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula — sebagaimana pada 15 Oktober 2020)"
+  - title: "รัฐธรรมนูญแห่งสหพันธรัฐ (ฉบับพิมพ์ซ้ำ — ณ วันที่ 15 ตุลาคม 2020) (Perlembagaan Persekutuan (Cetakan Semula — sebagaimana pada 15 Oktober 2020))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
-    publisher: "Pesuruhjaya Penyemak Undang-Undang, Malaysia / Jabatan Peguam Negara"
+    publisher: "กรรมาธิการชำระกฎหมาย มาเลเซีย / สำนักงานอัยการสูงสุด"
     date: "2020"
-  - title: "Laws of Malaysia — portal rasmi perundangan persekutuan (Federal Constitution)"
+  - title: "กฎหมายมาเลเซีย — พอร์ทัลทางการของกฎหมายสหพันธรัฐ (รัฐธรรมนูญแห่งสหพันธรัฐ) (Laws of Malaysia — portal rasmi perundangan persekutuan (Federal Constitution))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Portal Rasmi Parlimen Malaysia"
+    publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
+  - title: "พอร์ทัลทางการของรัฐสภามาเลเซีย (Portal Rasmi Parlimen Malaysia)"
     url: "https://www.parlimen.gov.my/"
-    publisher: "Parlimen Malaysia"
+    publisher: "รัฐสภามาเลเซีย"
 
 entity: "Jemaah Menteri Malaysia"
 wikidata: "Q846488"

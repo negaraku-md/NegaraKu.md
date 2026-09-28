@@ -50,15 +50,15 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Laws of Malaysia, Act A1603 — Constitution (Amendment) Act 2019 (Seksyen 2, 3, 4: pindaan Perkara 47, Perkara 119, Jadual Kelapan)"
+  - title: "மலேசியச் சட்டங்கள், சட்டம் A1603 — 2019 அரசியலமைப்பு (திருத்தம்) சட்டம் (பிரிவுகள் 2, 3, 4: பிரிவு 47, பிரிவு 119, எட்டாவது அட்டவணை திருத்தம்) (Laws of Malaysia, Act A1603 — Constitution (Amendment) Act 2019 (Seksyen 2, 3, 4: pindaan Perkara 47, Perkara 119, Jadual Kelapan))"
     url: "https://www.zulrafique.com.my/ckfinder/userfiles/files/legislation%20update/Constitution%20(Amendment)%20Act%202019%20(01813532xA335E).pdf"
-    publisher: "Percetakan Nasional Malaysia Berhad (teks Akta rasmi)"
+    publisher: "Percetakan Nasional Malaysia Berhad (அதிகாரப்பூர்வ சட்ட உரை)"
     date: "2019"
-  - title: "Soalan-Soalan Lazim: Pelaksanaan Umur Kelayakan Pengundi 18 Tahun dan Pendaftaran Pemilih Secara Automatik (PPSA)"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள்: 18 வயது வாக்காளர் தகுதி வயது மற்றும் தானியங்கி வாக்காளர் பதிவு (PPSA) அமலாக்கம் (Soalan-Soalan Lazim: Pelaksanaan Umur Kelayakan Pengundi 18 Tahun dan Pendaftaran Pemilih Secara Automatik (PPSA))"
     url: "https://spr.gov.my/wp-content/uploads/2024/10/Final-FAQ-Pengundi-18-Tahun-dan-PPSA_0.pdf"
-    publisher: "Suruhanjaya Pilihan Raya Malaysia (SPR)"
+    publisher: "மலேசியத் தேர்தல் ஆணையம் (SPR)"
     date: "2024"
-  - title: "Undi18: Pendaftaran automatik berkuat kuasa 15 Dis"
+  - title: "Undi18: தானியங்கி பதிவு திசம்பர் 15 அன்று அமலுக்கு வருகிறது (Undi18: Pendaftaran automatik berkuat kuasa 15 Dis)"
     url: "https://www.bernama.com/bm/news.php?id=2029289"
     publisher: "BERNAMA"
     date: "2021-12-02"

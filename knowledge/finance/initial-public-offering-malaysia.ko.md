@@ -53,18 +53,18 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Listing Criteria"
+  - title: "상장 요건 (Listing Criteria)"
     url: "https://www.bursamalaysia.com/listing/get_listed/listing_criteria"
     publisher: "Bursa Malaysia"
-  - title: "Listing Process"
+  - title: "상장 절차 (Listing Process)"
     url: "https://www.bursamalaysia.com/listing/get_listed/listing_process"
     publisher: "Bursa Malaysia"
-  - title: "Cost of Listing"
+  - title: "상장 비용 (Cost of Listing)"
     url: "https://www.bursamalaysia.com/listing/get_listed/cost_of_listing"
     publisher: "Bursa Malaysia"
-  - title: "Bumiputera Equity Requirement For Public Listed Companies — Regulatory FAQs"
+  - title: "상장회사의 부미푸트라 지분 요건 — 규제 FAQ (Bumiputera Equity Requirement For Public Listed Companies — Regulatory FAQs)"
     url: "https://www.sc.com.my/regulation/regulatory-faqs/bumiputera-equity-requirement-for-public-listed-companies"
-    publisher: "Securities Commission Malaysia"
+    publisher: "말레이시아 증권위원회"
 
 entity: "Initial Public Offering (Bursa Malaysia)"
 relations:

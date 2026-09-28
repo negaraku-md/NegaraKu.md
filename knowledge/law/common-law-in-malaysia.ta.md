@@ -41,20 +41,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Act 67 — Civil Law Act 1956, principal act detail and amendment history"
+  - title: "சட்டம் 67 — Civil Law Act 1956, முதன்மைச் சட்ட விவரம் மற்றும் திருத்த வரலாறு (Act 67 — Civil Law Act 1956, principal act detail and amendment history)"
     url: "https://lom.agc.gov.my/act-detail.php?act=67&lang=BI"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Civil Law Act 1956 (Act 67) — full text of sections 3, 5 and 6"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம்"
+  - title: "Civil Law Act 1956 (சட்டம் 67) — பிரிவுகள் 3, 5 மற்றும் 6இன் முழு உரை (Civil Law Act 1956 (Act 67) — full text of sections 3, 5 and 6)"
     url: "https://www.easylaw.com.my/statutes/general-litigation/civil-law-act-1956"
     publisher: "Easy Law"
-  - title: "Federal Constitution (Reprint 2020)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (2020 மறுபதிப்பு) (Federal Constitution (Reprint 2020))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம்"
     date: "2020-10-15"
-  - title: "National Land Code (Act No. 56 of 1965)"
+  - title: "National Land Code (1965ஆம் ஆண்டின் சட்டம் எண். 56) (National Land Code (Act No. 56 of 1965))"
     url: "https://www.ecolex.org/details/legislation/national-land-code-act-no-56-of-1965-lex-faoc005145/"
     publisher: "FAOLEX/ECOLEX, citing Laws of Malaysia Act 56"
-  - title: "Current application of English law: sections 3, 5 and 6 of the Civil Law Act 1956"
+  - title: "ஆங்கிலச் சட்டத்தின் தற்போதைய பயன்பாடு: Civil Law Act 1956இன் பிரிவுகள் 3, 5 மற்றும் 6 (Current application of English law: sections 3, 5 and 6 of the Civil Law Act 1956)"
     url: "https://research.monash.edu/en/publications/current-application-of-english-law-sections-3-5-and-6-of-the-civi/"
     publisher: "Monash University"
 

@@ -42,16 +42,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula) — Perkara 71, 72, 73, 74, 75 dan Jadual Kelapan (Peruntukan yang Hendaklah Dimasukkan ke dalam Perlembagaan Negeri)"
+  - title: "联邦宪法（重印本）——第71、72、73、74、75条及第八附表（应纳入州宪法的条款）(Perlembagaan Persekutuan (Cetakan Semula) — Perkara 71, 72, 73, 74, 75 dan Jadual Kelapan (Peruntukan yang Hendaklah Dimasukkan ke dalam Perlembagaan Negeri))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
+    publisher: "首相署 (JPM)"
     date: "2020"
-  - title: "Federal Constitution — Laws of Malaysia"
+  - title: "联邦宪法——马来西亚法律 (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Akta Perlembagaan (Pindaan) 2019 [Akta A1603] — penurunan had umur mengundi dan kelayakan menjadi ahli badan perundangan kepada 18 tahun (berkuat kuasa 15 Disember 2021)"
+    publisher: "马来西亚总检察署 (AGC)"
+  - title: "2019年宪法（修正）法令 [法令A1603]——将投票年龄及成为立法机构议员的资格下调至18岁（2021年12月15日生效）(Akta Perlembagaan (Pindaan) 2019 [Akta A1603] — penurunan had umur mengundi dan kelayakan menjadi ahli badan perundangan kepada 18 tahun (berkuat kuasa 15 Disember 2021))"
     url: "https://lom.agc.gov.my/act-detail.php?type=amendment&act=A1603"
-    publisher: "Jabatan Peguam Negara Malaysia"
+    publisher: "马来西亚总检察署 (AGC)"
     date: "2019"
 
 entity: "Dewan Undangan Negeri"

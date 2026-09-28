@@ -54,16 +54,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan — Undang-Undang Malaysia"
+  - title: "Hiến pháp Liên bang — Luật pháp Malaysia (Perlembagaan Persekutuan — Undang-Undang Malaysia)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Perlembagaan Persekutuan (Cetakan Semula)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
+  - title: "Hiến pháp Liên bang (Bản in lại) (Perlembagaan Persekutuan (Cetakan Semula))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
-  - title: "Pemilihan Yang di-Pertuan Agong"
+    publisher: "Văn phòng Thủ tướng (JPM)"
+  - title: "Việc bầu chọn Yang di-Pertuan Agong (Pemilihan Yang di-Pertuan Agong)"
     url: "https://www.majlisraja-raja.gov.my/ms/pilih"
-    publisher: "Majlis Raja-Raja Malaysia"
-  - title: "Malaysia saksi pertabalan Sultan Ibrahim sebagai Yang di-Pertuan Agong ke-17"
+    publisher: "Hội nghị các Quân chủ Malaysia"
+  - title: "Malaysia chứng kiến lễ đăng quang của Sultan Ibrahim với tư cách Yang di-Pertuan Agong thứ 17 (Malaysia saksi pertabalan Sultan Ibrahim sebagai Yang di-Pertuan Agong ke-17)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/malaysia-saksi-pertabalan-sultan-ibrahim-sebagai-yang-di-pertuan-agong-ke-17/"
     publisher: "Radio Televisyen Malaysia"
     date: "2024-07-20"

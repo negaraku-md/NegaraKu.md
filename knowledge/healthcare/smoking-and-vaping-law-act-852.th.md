@@ -48,16 +48,16 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Control of Smoking Products for Public Health Act 2024 (Act 852) — Federal Legislation"
+  - title: "พระราชบัญญัติควบคุมผลิตภัณฑ์ยาสูบเพื่อสุขภาพประชาชน ค.ศ. 2024 (พระราชบัญญัติ 852) — กฎหมายสหพันธ์ (Control of Smoking Products for Public Health Act 2024 (Act 852) — Federal Legislation)"
     url: "https://lom.agc.gov.my/act-detail.php?language=BI&act=852"
-    publisher: "Pejabat Peguam Negara Malaysia (AGC)"
-  - title: "Tobacco/Vape Regulations Enforced: Bans On Retail Display, Online And Vending Machine Sale"
+    publisher: "สำนักงานอัยการสูงสุดมาเลเซีย (AGC)"
+  - title: "บังคับใช้กฎระเบียบยาสูบ/บุหรี่ไฟฟ้า: ห้ามการจัดแสดงในร้านค้าปลีก การขายออนไลน์และตู้จำหน่ายอัตโนมัติ (Tobacco/Vape Regulations Enforced: Bans On Retail Display, Online And Vending Machine Sale)"
     url: "https://codeblue.galencentre.org/2024/10/tobacco-vape-regulations-enforced-bans-on-retail-display-online-and-vending-machine-sale/"
     publisher: "CodeBlue (Galen Centre)"
-  - title: "Attorney-General Confirms Tobacco GEG Unconstitutional, Claims Stance Consistent Since 2022"
+  - title: "อัยการสูงสุดยืนยันว่า GEG ยาสูบขัดรัฐธรรมนูญ อ้างว่าจุดยืนสอดคล้องกันตั้งแต่ปี 2022 (Attorney-General Confirms Tobacco GEG Unconstitutional, Claims Stance Consistent Since 2022)"
     url: "https://codeblue.galencentre.org/2023/11/attorney-general-confirms-tobacco-geg-unconstitutional-claims-stance-consistent-since-2022/"
     publisher: "CodeBlue (Galen Centre)"
-  - title: "Tobacco, vape control Act to take effect on Oct 1"
+  - title: "พระราชบัญญัติควบคุมยาสูบและบุหรี่ไฟฟ้าจะมีผลบังคับใช้ในวันที่ 1 ตุลาคม (Tobacco, vape control Act to take effect on Oct 1)"
     url: "https://www.freemalaysiatoday.com/category/nation/2024/09/25/tobacco-vape-control-act-to-take-effect-on-oct-1"
     publisher: "Free Malaysia Today"
 

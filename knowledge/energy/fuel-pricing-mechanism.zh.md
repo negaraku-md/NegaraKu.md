@@ -50,19 +50,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences"
+  - title: "随着 BUDI95 启动，无补贴 RON95 零售价定于每公升 RM2.60 (Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/non-subsidised-ron95-retail-price-set-at-rm2-60-per-litre-as-budi95-commences"
-    publisher: "Kementerian Kewangan Malaysia (MOF)"
-  - title: "Price of Petroleum & Diesel"
+    publisher: "马来西亚财政部（MOF）"
+  - title: "汽油与柴油价格 (Price of Petroleum & Diesel)"
     url: "https://open.dosm.gov.my/data-catalogue/fuelprice"
-    publisher: "OpenDOSM, Jabatan Perangkaan Malaysia"
-  - title: "Government Reduces Non-Subsidised RON95, RON97 And Diesel Retail Prices From 25 December 2025 To 31 December 2025"
+    publisher: "OpenDOSM，马来西亚统计局（Jabatan Perangkaan Malaysia）"
+  - title: "政府自 2025 年 12 月 25 日至 2025 年 12 月 31 日下调无补贴 RON95、RON97 及柴油零售价 (Government Reduces Non-Subsidised RON95, RON97 And Diesel Retail Prices From 25 December 2025 To 31 December 2025)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/retail-price/government-reduces-non-subsidised-ron95-ron97-and-diesel-retail-prices-from-25-december-2025-to-31-december-2025"
-    publisher: "Kementerian Kewangan Malaysia (MOF)"
-  - title: "Government Implements Targeted Diesel Subsidy For Peninsular Malaysia Effective 10 June 2024"
+    publisher: "马来西亚财政部（MOF）"
+  - title: "政府自 2024 年 6 月 10 日起为马来西亚半岛实施针对性柴油补贴 (Government Implements Targeted Diesel Subsidy For Peninsular Malaysia Effective 10 June 2024)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
-    publisher: "Kementerian Kewangan Malaysia (MOF)"
-  - title: "March 2021 week two fuel price — weekly cycle now revised to Wednesday"
+    publisher: "马来西亚财政部（MOF）"
+  - title: "2021 年 3 月第二周燃油价格 — 每周调价周期现改为星期三 (March 2021 week two fuel price — weekly cycle now revised to Wednesday)"
     url: "https://paultan.org/2021/03/03/march-2021-week-two-fuel-price-all-prices-unchanged-weekly-cycle-now-revised-thursday-to-wednesday/"
     publisher: "paultan.org"
 

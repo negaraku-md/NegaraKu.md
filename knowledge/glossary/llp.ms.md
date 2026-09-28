@@ -42,18 +42,18 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Limited Liability Partnerships Act 2012 (Act 743)"
+  - title: "Limited Liability Partnerships Act 2012 (Akta 743) (Limited Liability Partnerships Act 2012 (Act 743))"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/LLP/LLP-Document/LLP-ACT-2012-For-Portal-new.pdf"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Starting a Limited Liability Partnership (LLP)"
+  - title: "Memulakan Perkongsian Liabiliti Terhad (LLP) (Starting a Limited Liability Partnership (LLP))"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/LLP/Starting-a-Limited-Liability-Partnership-(LLP).aspx"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Comparison of Business Entities in Malaysia"
+  - title: "Perbandingan Entiti Perniagaan di Malaysia (Comparison of Business Entities in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Business/Business-Document/Comparisons-of-business-entities-in-Msia.pdf"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 1 November 2023"
+  - title: "Income Tax Act 1967 (Akta 53), cetakan semula setakat 1 November 2023 (Income Tax Act 1967 (Act 53), reprint as at 1 November 2023)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1822739_BI/ACT%2053%20AS%20AT%201.11.2023%20(REPRINT%20ONLINE%20VERSION)%20FINAL.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "Jabatan Peguam Negara Malaysia (AGC)"
     date: "2023-11-01"
 
 entity: "Limited Liability Partnership"

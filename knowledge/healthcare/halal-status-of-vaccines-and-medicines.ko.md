@@ -47,19 +47,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Irsyad Hukum Ke-30: Hukum Vaksin daripada Perspektif Islam"
+  - title: "이르샤드 후쿰 제30호: 이슬람 관점에서 본 백신의 교법적 판단 (Irsyad Hukum Ke-30: Hukum Vaksin daripada Perspektif Islam)"
     url: "https://muftiwp.gov.my/ms/artikel/irsyad-hukum/umum/2069-30"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Bayan Linnas Siri Ke-167: Kewajiban Mengambil Vaksin Mengikut Jadual Imunisasi Kebangsaan daripada Perspektif Islam"
+    publisher: "연방직할구 무프티 사무소"
+  - title: "바얀 린나스 시리즈 제167호: 이슬람 관점에서 본 국가 예방접종 일정에 따른 백신 접종의 의무 (Bayan Linnas Siri Ke-167: Kewajiban Mengambil Vaksin Mengikut Jadual Imunisasi Kebangsaan daripada Perspektif Islam)"
     url: "https://muftiwp.gov.my/ms/artikel/bayan-linnas/3129-"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Irsyad Fatwa Khas Ramadhan Siri Ke-176: Hukum Cucuk Vaksin COVID-19 pada Bulan Ramadan"
+    publisher: "연방직할구 무프티 사무소"
+  - title: "특별 라마단 이르샤드 파트와 시리즈 제176호: 라마단 기간 코로나19 백신 접종에 대한 교법적 판단 (Irsyad Fatwa Khas Ramadhan Siri Ke-176: Hukum Cucuk Vaksin COVID-19 pada Bulan Ramadan)"
     url: "https://www.muftiwp.gov.my/ms/artikel/irsyad-hukum/edisi-ramadhan/4746-irsyad-fatwa-khas-ramadhan-siri-ke-176-apakah-hukum-cucuk-vaksin-covid-19-pada-bulan-ramadhan"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Fatwa Gelatin dalam Ubat"
+    publisher: "연방직할구 무프티 사무소"
+  - title: "의약품 내 젤라틴에 관한 파트와 (Fatwa Gelatin dalam Ubat)"
     url: "https://www.pkppippum.org.my/v2/fatwa-gelatin-dalam-ubat/"
     publisher: "Persatuan Kakitangan Pegawai & Penolong Pegawai Islam, PPUM"
-  - title: "Vaksin Covid-19: Keputusan Muzakarah perlu disokong"
+  - title: "코로나19 백신: 무자카라(파트와 위원회)의 결정은 지지되어야 한다 (Vaksin Covid-19: Keputusan Muzakarah perlu disokong)"
     url: "https://www.sinarharian.com.my/article/116228/BERITA/Nasional/Vaksin-Covid-19-Keputusan-Muzakarah-perlu-disokong"
     publisher: "Sinar Harian"
 

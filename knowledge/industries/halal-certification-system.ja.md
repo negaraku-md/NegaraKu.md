@@ -57,17 +57,17 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020"
+  - title: "マレーシア・ハラル認証手続きマニュアル（国内）2020 (Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/pdf/panduan/MPPHMDomestik2020.pdf"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+    publisher: "マレーシア・イスラム開発局 (JAKIM)"
     date: "2020"
-  - title: "Kenyataan Media Ketua Pengarah JAKIM Berkenaan Pelaksanaan Sijil Pengesahan Halal Malaysia (SPHM) Secara Elektronik (e-Cert)"
+  - title: "マレーシア・ハラル確認証明書（SPHM）の電子的実施（e-Cert）に関するJAKIM長官のメディア声明 (Kenyataan Media Ketua Pengarah JAKIM Berkenaan Pelaksanaan Sijil Pengesahan Halal Malaysia (SPHM) Secara Elektronik (e-Cert))"
     url: "https://www.islam.gov.my/ms/kenyataan-media/4704-kenyataan-media-ketua-pengarah-jabatan-kemajuan-islam-malaysia-berkenaan-pelaksanaan-sijil-pengesahan-halal-malaysia-sphm-secara-elektronik-e-cert"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+    publisher: "マレーシア・イスラム開発局 (JAKIM)"
     date: "2025-05-08"
-  - title: "Kenyataan Media JAKIM Berkaitan Cadangan Kerajaan Negeri Untuk Mewajibkan Pengusaha Premis Makanan Dan Minuman Memiliki Sijil Halal Sebelum Memperbaharui Lesen Perniagaan"
+  - title: "飲食店事業者に営業許可の更新前にハラル証明書の保有を義務付けるとの州政府提案に関するJAKIMメディア声明 (Kenyataan Media JAKIM Berkaitan Cadangan Kerajaan Negeri Untuk Mewajibkan Pengusaha Premis Makanan Dan Minuman Memiliki Sijil Halal Sebelum Memperbaharui Lesen Perniagaan)"
     url: "https://www.islam.gov.my/en/media-statement/4581-kenyataan-media-jabatan-kemajuan-islam-malaysia-berkaitan-cadangan-kerajaan-negeri-untuk-mewajibkan-pengusaha-premis-makanan-dan-minuman-memiliki-sijil-halal-sebelum-memperbaharui-lesen-perniagaan"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
+    publisher: "マレーシア・イスラム開発局 (JAKIM)"
     date: "2024-12-29"
 
 entity: "Sistem Pensijilan Halal Malaysia"

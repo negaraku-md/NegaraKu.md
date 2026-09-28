@@ -42,18 +42,18 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Limited Liability Partnerships Act 2012 (Act 743)"
+  - title: "Limited Liability Partnerships Act 2012 (சட்டம் 743) (Limited Liability Partnerships Act 2012 (Act 743))"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/LLP/LLP-Document/LLP-ACT-2012-For-Portal-new.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Starting a Limited Liability Partnership (LLP)"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "வரையறுக்கப்பட்ட பொறுப்புக் கூட்டாண்மையைத் (LLP) தொடங்குதல் (Starting a Limited Liability Partnership (LLP))"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/LLP/Starting-a-Limited-Liability-Partnership-(LLP).aspx"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Comparison of Business Entities in Malaysia"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "மலேசியாவில் வணிக அமைப்புகளின் ஒப்பீடு (Comparison of Business Entities in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Business/Business-Document/Comparisons-of-business-entities-in-Msia.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 1 November 2023"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "Income Tax Act 1967 (சட்டம் 53), 1 நவம்பர் 2023 நிலவரப்படி மறுபதிப்பு (Income Tax Act 1967 (Act 53), reprint as at 1 November 2023)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1822739_BI/ACT%2053%20AS%20AT%201.11.2023%20(REPRINT%20ONLINE%20VERSION)%20FINAL.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் துறை (AGC)"
     date: "2023-11-01"
 
 entity: "Limited Liability Partnership"

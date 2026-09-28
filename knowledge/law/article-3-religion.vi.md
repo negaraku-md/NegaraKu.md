@@ -40,16 +40,16 @@ sensitivity: "religion"
 
 updated: 2026-07-24
 sources:
-  - title: "Federal Constitution (Reprint as at 15 October 2020) — Article 3, Article 4, Article 11, Article 121, Article 159, Ninth Schedule"
+  - title: "Hiến pháp Liên bang (Tái bản tính đến ngày 15 tháng 10 năm 2020) — Điều 3, Điều 4, Điều 11, Điều 121, Điều 159, Phụ lục Thứ chín (Federal Constitution (Reprint as at 15 October 2020) — Article 3, Article 4, Article 11, Article 121, Article 159, Ninth Schedule)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Commissioner of Law Revision / Attorney General's Chambers of Malaysia"
+    publisher: "Ủy viên Sửa đổi Pháp luật / Văn phòng Tổng Chưởng lý Malaysia"
     date: "2020-10-15"
-  - title: "Malaysian Federal Constitution — principal document page"
+  - title: "Hiến pháp Liên bang Malaysia — trang tài liệu chính (Malaysian Federal Constitution — principal document page)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Agama Rasmi (Official Religion)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
+  - title: "Tôn giáo chính thức (Agama Rasmi (Official Religion))"
     url: "https://www.malaysia.gov.my/en/government/kenali-malaysia/agama-rasmi"
-    publisher: "MyGovernment Portal, Government of Malaysia"
+    publisher: "Cổng thông tin MyGovernment, Chính phủ Malaysia"
 
 entity: "Article 3, Federal Constitution of Malaysia"
 relations:

@@ -39,18 +39,18 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "JPKK dan JPKKP"
+  - title: "JPKK 与 JPKKP (JPKK dan JPKKP)"
     url: "https://www.rurallink.gov.my/jpkk-dan-jpkkp/"
-    publisher: "Kementerian Kemajuan Desa dan Wilayah (KKDW)"
-  - title: "Portal Rasmi Kementerian Kemajuan Desa dan Wilayah"
+    publisher: "乡村及地区发展部 (KKDW)"
+  - title: "乡村及地区发展部官方门户 (Portal Rasmi Kementerian Kemajuan Desa dan Wilayah)"
     url: "https://www.rurallink.gov.my/"
-    publisher: "Kementerian Kemajuan Desa dan Wilayah (KKDW)"
-  - title: "Peranan KRT, RA, JKKK dan MPKK"
+    publisher: "乡村及地区发展部 (KKDW)"
+  - title: "KRT、RA、JKKK 与 MPKK 的角色 (Peranan KRT, RA, JKKK dan MPKK)"
     url: "https://dewan.selangor.gov.my/question/peranan-krt-ra-jkkk-dan-mpkk/"
-    publisher: "Dewan Negeri Selangor"
-  - title: "Penghulu Mukim dan Ketua Kampung"
+    publisher: "雪兰莪州议会"
+  - title: "巫金总管与甘榜村长 (Penghulu Mukim dan Ketua Kampung)"
     url: "https://klang.selangor.gov.my/index.php/pages/view/39?mid=102"
-    publisher: "Pejabat Daerah dan Tanah Klang"
+    publisher: "巴生县及土地局"
 
 entity: "Kampung"
 relations:

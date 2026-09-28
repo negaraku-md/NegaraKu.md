@@ -50,16 +50,16 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "MMC Guideline on Telemedicine"
+  - title: "MMC 远程医疗指南 (MMC Guideline on Telemedicine)"
     url: "https://mmc.gov.my/wp-content/uploads/2024/01/MMC-Guideline-on-Telemedicine.pdf"
-    publisher: "Malaysian Medical Council"
-  - title: "Telemedicine Act 1997 (WIPO Lex record)"
+    publisher: "马来西亚医药理事会 (MMC)"
+  - title: "1997年远程医疗法令（WIPO Lex 记录） (Telemedicine Act 1997 (WIPO Lex record))"
     url: "https://www.wipo.int/wipolex/en/legislation/details/8180"
     publisher: "WIPO Lex"
-  - title: "Telemedicine Act 1997 (Act 564)"
+  - title: "1997年远程医疗法令（第564号法令） (Telemedicine Act 1997 (Act 564))"
     url: "https://www.msc.com.my/cyberlaws/telemedicine-act.html"
     publisher: "MSC Malaysia"
-  - title: "Regulating Remote Care: A Legal Overview of Telemedicine"
+  - title: "规范远程医疗：远程医疗的法律概览 (Regulating Remote Care: A Legal Overview of Telemedicine)"
     url: "https://www.rdslawpartners.com/post/regulating-remote-care-a-legal-overview-of-telemedicine"
     publisher: "RDS Law Partners"
 

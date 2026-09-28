@@ -38,9 +38,9 @@ sensitivity: "none"
 
 updated: 2026-07-10
 sources:
-  - title: "Companies Act 2016 (Act 777)"
+  - title: "2016 ஆம் ஆண்டு நிறுவனங்கள் சட்டம் (Companies Act 2016 (Act 777))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Paid-up Capital"
 relations:

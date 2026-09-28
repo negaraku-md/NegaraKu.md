@@ -51,18 +51,18 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Air Pollutant Index Management System (APIMS) — dataset"
+  - title: "காற்று மாசுபடுத்தி குறியீட்டு மேலாண்மை அமைப்பு (APIMS) — தரவுத்தொகுப்பு (Air Pollutant Index Management System (APIMS) — dataset)"
     url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
-    publisher: "Kementerian Sains, Teknologi dan Inovasi (MOSTI) — RADARS open-data catalogue (gov.my)"
-  - title: "Pengiraan Indeks Pencemar Udara (IPU) / Air Pollutant Index (API) Calculation"
+    publisher: "அறிவியல், தொழில்நுட்பம் மற்றும் புத்தாக்க அமைச்சு (MOSTI) — RADARS திறந்த தரவு பட்டியல் (gov.my)"
+  - title: "காற்று மாசுபடுத்தி குறியீடு (IPU) / Air Pollutant Index (API) கணக்கீடு (Pengiraan Indeks Pencemar Udara (IPU) / Air Pollutant Index (API) Calculation)"
     url: "https://www.doe.gov.my/wp-content/uploads/2021/09/API_Calculation.pdf"
-    publisher: "Jabatan Alam Sekitar (Department of Environment)"
-  - title: "General Information of Air Pollutant Index (API)"
+    publisher: "சுற்றுச்சூழல் திணைக்களம் (Jabatan Alam Sekitar / Department of Environment)"
+  - title: "காற்று மாசுபடுத்தி குறியீடு (API) பற்றிய பொது தகவல் (General Information of Air Pollutant Index (API))"
     url: "https://www.doe.gov.my/wp-content/uploads/2021/10/General-Information-of-Air-Pollutant-Index.pdf"
-    publisher: "Jabatan Alam Sekitar (Department of Environment)"
-  - title: "Air Pollution Index — What to do when API reach certain levels"
+    publisher: "சுற்றுச்சூழல் திணைக்களம் (Jabatan Alam Sekitar / Department of Environment)"
+  - title: "காற்று மாசு குறியீடு — API குறிப்பிட்ட நிலைகளை எட்டும்போது என்ன செய்வது (Air Pollution Index — What to do when API reach certain levels)"
     url: "https://www.doe.gov.my/en/air-pollution-index/"
-    publisher: "Jabatan Alam Sekitar (Department of Environment)"
+    publisher: "சுற்றுச்சூழல் திணைக்களம் (Jabatan Alam Sekitar / Department of Environment)"
 
 entity: "Indeks Pencemar Udara (IPU)"
 relations:

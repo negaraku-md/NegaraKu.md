@@ -49,17 +49,17 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Malaysia Healthcare Travel Council Launches MYMT 2026, Malaysia's First Medical Tourism Year"
+  - title: "மலேசிய சுகாதாரப் பயண மன்றம் MYMT 2026 ஐ அறிமுகப்படுத்துகிறது, மலேசியாவின் முதல் மருத்துவச் சுற்றுலா ஆண்டு (Malaysia Healthcare Travel Council Launches MYMT 2026, Malaysia's First Medical Tourism Year)"
     url: "https://www.prnewswire.com/apac/news-releases/malaysia-healthcare-travel-council-launches-mymt-2026-malaysias-first-medical-tourism-year-302513594.html"
-    publisher: "Malaysia Healthcare Travel Council (MHTC), via PR Newswire"
+    publisher: "மலேசிய சுகாதாரப் பயண மன்றம் (MHTC), PR Newswire வழியாக"
     date: "2025-07-24"
-  - title: "About MHTC"
+  - title: "MHTC பற்றி (About MHTC)"
     url: "https://malaysiahealthcare.org/about-mhtc"
-    publisher: "Malaysia Healthcare Travel Council (MHTC)"
-  - title: "Malaysia Healthcare — homepage"
+    publisher: "மலேசிய சுகாதாரப் பயண மன்றம் (MHTC)"
+  - title: "Malaysia Healthcare — முகப்புப் பக்கம் (Malaysia Healthcare — homepage)"
     url: "https://malaysiahealthcare.org/"
-    publisher: "Malaysia Healthcare Travel Council (MHTC)"
-  - title: "Beyond Treatment, Why Malaysia Continues to Earn Patients' Trust"
+    publisher: "மலேசிய சுகாதாரப் பயண மன்றம் (MHTC)"
+  - title: "சிகிச்சைக்கு அப்பால், மலேசியா ஏன் நோயாளிகளின் நம்பிக்கையைத் தொடர்ந்து பெறுகிறது (Beyond Treatment, Why Malaysia Continues to Earn Patients' Trust)"
     url: "https://mrem.bernama.com/viewsm.php?idm=54055"
     publisher: "BERNAMA"
 

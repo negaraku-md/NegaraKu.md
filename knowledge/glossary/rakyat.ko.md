@@ -39,16 +39,16 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Rakyat — Pusat Rujukan Persuratan Melayu (PRPM), Kamus Dewan Edisi Keempat"
+  - title: "Rakyat(국민) — 말레이 문헌 참조 센터 (PRPM), Kamus Dewan 제4판 (Rakyat — Pusat Rujukan Persuratan Melayu (PRPM), Kamus Dewan Edisi Keempat)"
     url: "https://prpm.dbp.gov.my/Cari1?keyword=rakyat"
-    publisher: "Dewan Bahasa dan Pustaka"
-  - title: "Trivia Kemerdekaan: Pembentukan Rukun Negara"
+    publisher: "국립 언어문학원 (DBP)"
+  - title: "독립 상식: Rukun Negara(국가원칙)의 제정 (Trivia Kemerdekaan: Pembentukan Rukun Negara)"
     url: "https://www.mkn.gov.my/web/ms/2022/08/03/trivia-kemerdekaan-pembentukan-rukun-negara/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
+    publisher: "국가안전보장회의 (MKN)"
     date: "2022-08-03"
-  - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — Bahagian III, Perkara 14"
+  - title: "연방헌법 (2020년 재발행) — 제III편, 제14조 (Perlembagaan Persekutuan (Cetakan Semula 2020) — Bahagian III, Perkara 14)"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri (Bahagian Hal Ehwal Undang-Undang) / AGC"
+    publisher: "총리실 (법무국) / AGC"
     date: "2020-10-15"
 
 entity: "Rakyat"

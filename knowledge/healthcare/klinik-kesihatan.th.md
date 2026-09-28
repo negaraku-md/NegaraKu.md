@@ -44,16 +44,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Fasiliti dan Kemudahan Kesihatan"
+  - title: "สถานพยาบาลและสิ่งอำนวยความสะดวกด้านสุขภาพ (Fasiliti dan Kemudahan Kesihatan)"
     url: "https://www.malaysia.gov.my/my/categories/kesihatan/fasiliti-dan-kemudahan-kesihatan"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Permohonan Tempahan Temujanji Pemeriksaan Kesihatan"
+    publisher: "พอร์ทัลทางการของรัฐบาลมาเลเซีย (MyGovernment)"
+  - title: "การยื่นขอจองนัดหมายตรวจสุขภาพ (Permohonan Tempahan Temujanji Pemeriksaan Kesihatan)"
     url: "https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment), perkhidmatan dikendalikan oleh Kementerian Kesihatan Malaysia (KKM) melalui MySejahtera"
-  - title: "Carian Klinik Komuniti"
+    publisher: "พอร์ทัลทางการของรัฐบาลมาเลเซีย (MyGovernment) โดยบริการดำเนินการโดยกระทรวงสาธารณสุขมาเลเซีย (KKM) ผ่าน MySejahtera"
+  - title: "การค้นหาคลินิกชุมชน (Carian Klinik Komuniti)"
     url: "https://www.malaysia.gov.my/my/digital-services/carian-klinik-komuniti"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Soalan Lazim — PeKa B40 dan Skim Perubatan MADANI"
+    publisher: "พอร์ทัลทางการของรัฐบาลมาเลเซีย (MyGovernment)"
+  - title: "คำถามที่พบบ่อย — PeKa B40 และโครงการรักษาพยาบาล MADANI (Soalan Lazim — PeKa B40 dan Skim Perubatan MADANI)"
     url: "https://protecthealth.com.my/soalan-lazim/"
     publisher: "ProtectHealth Corporation Sdn Bhd (pengendali skim rasmi di bawah Kementerian Kesihatan Malaysia)"
 

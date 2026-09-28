@@ -50,22 +50,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Over Two Million Adults In Malaysia Live With Three NCDs: NHMS 2023"
+  - title: "马来西亚超过两百万成人同时患有三种非传染性疾病（NCD）：NHMS 2023 (Over Two Million Adults In Malaysia Live With Three NCDs: NHMS 2023)"
     url: "https://codeblue.galencentre.org/2024/05/over-two-million-adults-in-malaysia-live-with-three-ncds-nhms-2023/"
     publisher: "CodeBlue (Galen Centre)"
-  - title: "Rising Obesity in Malaysia (1990–2023): A Comprehensive Analysis of Temporal Trends"
+  - title: "马来西亚肥胖率上升（1990–2023）：时间趋势的全面分析 (Rising Obesity in Malaysia (1990–2023): A Comprehensive Analysis of Temporal Trends)"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12900780/"
     publisher: "PubMed Central / NCBI"
   - title: "PeKa B40"
     url: "https://protecthealth.com.my/peka-b40-eng/"
-    publisher: "ProtectHealth Corporation (Kementerian Kesihatan Malaysia)"
-  - title: "Malaysia to impose new sugar tax on beverages"
+    publisher: "ProtectHealth Corporation（马来西亚卫生部）"
+  - title: "马来西亚将对饮料征收新糖税 (Malaysia to impose new sugar tax on beverages)"
     url: "https://theedgemalaysia.com/article/malaysia-impose-new-sugar-tax-beverages"
     publisher: "The Edge Malaysia"
-  - title: "Sugary drink tax to be raised to 90 sen per litre next year, from 50 sen now"
+  - title: "含糖饮料税明年将从目前的每公升50仙上调至90仙 (Sugary drink tax to be raised to 90 sen per litre next year, from 50 sen now)"
     url: "https://theedgemalaysia.com/node/730731"
     publisher: "The Edge Malaysia"
-  - title: "List of Certifications for Home-Based Food Business in Malaysia (Healthier Choice Logo)"
+  - title: "马来西亚家庭式食品业认证清单（更健康选择标志）(List of Certifications for Home-Based Food Business in Malaysia (Healthier Choice Logo))"
     url: "https://www.foodipedia.my/healthier-choice-logo-guidelines/"
     publisher: "Foodipedia"
 

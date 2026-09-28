@@ -52,11 +52,11 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "FAQ — Registrar of Credit Reporting Agencies (PPK)"
+  - title: "FAQ — 신용정보기관 등록관 (PPK) (FAQ — Registrar of Credit Reporting Agencies (PPK))"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/ppk/faq-en.pdf"
-    publisher: "Ministry of Finance Malaysia"
+    publisher: "말레이시아 재무부"
     date: "2020-12-10"
-  - title: "How Is My CTOS Score Calculated?"
+  - title: "나의 CTOS 점수는 어떻게 산정되는가? (How Is My CTOS Score Calculated?)"
     url: "https://ctoscredit.com.my/learn/how-is-my-ctos-score-calculated/"
     publisher: "CTOS Data Systems"
     accessed: 2026-08-01

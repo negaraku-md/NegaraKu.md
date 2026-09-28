@@ -53,19 +53,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Power Generation"
+  - title: "発電 (Power Generation)"
     url: "https://www.sarawakenergy.com/what-we-do/power-generation"
     publisher: "Sarawak Energy Berhad"
-  - title: "About Us — Power To Grow"
+  - title: "私たちについて — Power To Grow (About Us — Power To Grow)"
     url: "https://www.sarawakenergy.com/about-us"
     publisher: "Sarawak Energy Berhad"
-  - title: "Bakun Hydroelectric Plant"
+  - title: "Bakun水力発電所 (Bakun Hydroelectric Plant)"
     url: "https://www.sarawakenergy.com/bakun-hydroelectric-plant"
     publisher: "Sarawak Energy Berhad"
-  - title: "Sarawak's Progress Powered By Renewable Hydropower"
+  - title: "再生可能な水力発電が支えるサラワクの発展 (Sarawak's Progress Powered By Renewable Hydropower)"
     url: "https://www.sarawakenergy.com/media-info/media-releases/2025/sarawaks-progress-powered-by-renewable-hydropower"
     publisher: "Sarawak Energy Berhad"
-  - title: "RAM Ratings affirms Sarawak Energy's AAA sukuk rating"
+  - title: "RAM Ratings、Sarawak EnergyのAAAスクーク格付けを確認 (RAM Ratings affirms Sarawak Energy's AAA sukuk rating)"
     url: "https://www.ram.com.my/pressrelease/?prviewid=7128"
     publisher: "RAM Rating Services Berhad"
 

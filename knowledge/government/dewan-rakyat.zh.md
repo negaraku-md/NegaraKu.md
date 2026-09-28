@@ -55,20 +55,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula)"
+  - title: "联邦宪法(重印本) (Perlembagaan Persekutuan (Cetakan Semula))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri"
+    publisher: "总理府"
     date: "2020"
-  - title: "Federal Constitution — Laws of Malaysia"
+  - title: "联邦宪法 — 马来西亚法律 (Federal Constitution — Laws of Malaysia)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia"
-  - title: "Peraturan-peraturan Majlis Mesyuarat Dewan Rakyat, Cetakan Ketiga Belas"
+    publisher: "马来西亚总检察署"
+  - title: "下议院会议常规,第十三版 (Peraturan-peraturan Majlis Mesyuarat Dewan Rakyat, Cetakan Ketiga Belas)"
     url: "https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf"
-    publisher: "Parlimen Malaysia"
+    publisher: "马来西亚国会"
     date: "2013"
-  - title: "Maklumat Umum — Dewan Rakyat"
+  - title: "一般资料 — 下议院(Dewan Rakyat) (Maklumat Umum — Dewan Rakyat)"
     url: "https://www.parlimen.gov.my/maklumat-umum.html?uweb=dr"
-    publisher: "Parlimen Malaysia"
+    publisher: "马来西亚国会"
 
 entity: "Dewan Rakyat"
 wikidata: "Q1207092"

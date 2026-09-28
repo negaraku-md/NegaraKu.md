@@ -52,13 +52,13 @@ verificationNeeded:
   - "சரத்து 159(5) விதிகளின் பட்டியல் மற்றும் சரத்து 159(4) விதிவிலக்கு 2020 மறுபதிப்பிற்குப் பிறகான எந்தத் திருத்தத்திலும் மாறவில்லை என்பதை உறுதிப்படுத்தவும்."
 updated: 2026-08-01
 sources:
-  - title: "Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (மறுபதிப்பு, 2020 அக்டோபர் 15 நிலவரப்படி) — உறுப்பு 4, உறுப்பு 159, உறுப்பு 160, பகுதி XI (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அறையகம்"
     date: "2020-10-15"
-  - title: "Perlembagaan Persekutuan — Portal Perundangan Malaysia (Laws of Malaysia)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு — மலேசிய சட்டமியற்றல் இணையவாயில் (Laws of Malaysia) (Perlembagaan Persekutuan — Portal Perundangan Malaysia (Laws of Malaysia))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அறையகம்"
 
 entity: "Perlembagaan Persekutuan Malaysia"
 wikidata: "Q1003080"

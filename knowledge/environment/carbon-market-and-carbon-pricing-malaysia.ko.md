@@ -52,22 +52,22 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem"
+  - title: "말레이시아 탄소시장 생태계를 이끌기 위한 국가 탄소시장 정책 발표 (National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem)"
     url: "https://theedgemalaysia.com/node/800680"
     publisher: "The Edge Malaysia"
-  - title: "Emissions Trading Worldwide: Malaysia"
+  - title: "전 세계 배출권 거래: 말레이시아 (Emissions Trading Worldwide: Malaysia)"
     url: "https://icapcarbonaction.com/en/ets/malaysia"
     publisher: "International Carbon Action Partnership (ICAP)"
-  - title: "Cover Story: National Carbon Market Policy to set foundation for carbon tax"
+  - title: "커버스토리: 국가 탄소시장 정책이 탄소세의 토대를 마련 (Cover Story: National Carbon Market Policy to set foundation for carbon tax)"
     url: "https://theedgemalaysia.com/node/803600"
     publisher: "The Edge Malaysia"
-  - title: "Carbon Capture, Utilization and Storage Act 2025 (Act 870 of 2025)"
+  - title: "Carbon Capture, Utilization and Storage Act 2025(Act 870 of 2025) (Carbon Capture, Utilization and Storage Act 2025 (Act 870 of 2025))"
     url: "https://www.informea.org/en/content/legislation/carbon-capture-utilization-and-storage-act-2025-act-870-2025"
     publisher: "InforMEA (UN Environment Programme)"
-  - title: "A Closer Look into Malaysia's First Carbon Auction by Bursa Carbon Exchange"
+  - title: "Bursa Carbon Exchange의 말레이시아 첫 탄소 경매 자세히 보기 (A Closer Look into Malaysia's First Carbon Auction by Bursa Carbon Exchange)"
     url: "https://www.azmilaw.com/insights/malaysia-first-carbon-auction-by-bursa-carbon-exchange/"
     publisher: "Azmi & Associates"
-  - title: "About the Bursa Carbon Exchange"
+  - title: "Bursa Carbon Exchange 소개 (About the Bursa Carbon Exchange)"
     url: "https://bcx.bursamalaysia.com/about.html"
     publisher: "Bursa Malaysia"
 

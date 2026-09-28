@@ -55,13 +55,13 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Federal Constitution (Reprint — As at 15 October 2020) — Article 153; and Articles 8, 38(5), 89, 136, 159(5), 160(2), 161A, 10(4)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு (மறுபதிப்பு — 2020 அக்டோபர் 15 நிலவரப்படி) — உறுப்பு 153; மற்றும் உறுப்புகள் 8, 38(5), 89, 136, 159(5), 160(2), 161A, 10(4) (Federal Constitution (Reprint — As at 15 October 2020) — Article 153; and Articles 8, 38(5), 89, 136, 159(5), 160(2), 161A, 10(4))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அறையகம்"
     date: "2020-10-15"
-  - title: "Federal Constitution — Portal Perundangan Persekutuan (Federal Legislation Portal)"
+  - title: "கூட்டாட்சி அரசியலமைப்பு — கூட்டாட்சி சட்டமியற்றல் இணையவாயில் (Federal Legislation Portal) (Federal Constitution — Portal Perundangan Persekutuan (Federal Legislation Portal))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia (Attorney General's Chambers)"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அறையகம்"
 
 entity: "Perkara 153, Perlembagaan Persekutuan Malaysia"
 relations:

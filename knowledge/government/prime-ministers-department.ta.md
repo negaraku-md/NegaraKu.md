@@ -41,18 +41,18 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Sejarah Pentadbiran Jabatan Perdana Menteri (Dari Tahun 1957 hingga Tahun 1966)"
+  - title: "பிரதமர் துறையின் நிர்வாக வரலாறு (1957 முதல் 1966 வரை) (Sejarah Pentadbiran Jabatan Perdana Menteri (Dari Tahun 1957 hingga Tahun 1966))"
     url: "https://www.jpm.gov.my/images/sejarah/TAHUN_1957-1966.pdf"
-    publisher: "Jabatan Perdana Menteri Malaysia"
-  - title: "Jabatan Perdana Menteri — Contact Us"
+    publisher: "மலேசியா பிரதமர் துறை"
+  - title: "பிரதமர் துறை — எங்களைத் தொடர்பு கொள்ள (Jabatan Perdana Menteri — Contact Us)"
     url: "https://www.jpm.gov.my/en/contact-us"
-    publisher: "Jabatan Perdana Menteri Malaysia"
+    publisher: "மலேசியா பிரதமர் துறை"
   - title: "Perdana Putra"
     url: "https://www.pmo.gov.my/ms/perdana-putra/"
-    publisher: "Pejabat Perdana Menteri Malaysia (Prime Minister's Office)"
-  - title: "Prime Minister's Department Official Portal"
+    publisher: "மலேசியா பிரதமர் அலுவலகம்"
+  - title: "பிரதமர் துறையின் அதிகாரப்பூர்வ போர்டல் (Prime Minister's Department Official Portal)"
     url: "https://www.jpm.gov.my/en/"
-    publisher: "Jabatan Perdana Menteri Malaysia"
+    publisher: "மலேசியா பிரதமர் துறை"
 
 entity: "Jabatan Perdana Menteri (Prime Minister's Department)"
 wikidata: "Q7243278"

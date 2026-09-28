@@ -50,21 +50,21 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 153"
+  - title: "連邦憲法（2020年再版）— 第153条 (Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 153)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Pejabat Peguam Negara (AGC)"
-  - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 160 (Tafsiran)"
+    publisher: "司法長官府 (AGC)"
+  - title: "連邦憲法（2020年再版）— 第160条（解釈）(Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 160 (Tafsiran))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Pejabat Peguam Negara (AGC)"
-  - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 161A"
+    publisher: "司法長官府 (AGC)"
+  - title: "連邦憲法（2020年再版）— 第161A条 (Perlembagaan Persekutuan (Cetakan Semula 2020) — Perkara 161A)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Pejabat Peguam Negara (AGC)"
-  - title: "Perlembagaan Persekutuan — Cetakan Semula 2020 (teks penuh, PDF)"
+    publisher: "司法長官府 (AGC)"
+  - title: "連邦憲法 — 2020年再版（全文、PDF）(Perlembagaan Persekutuan — Cetakan Semula 2020 (teks penuh, PDF))"
     url: "https://bhess.jpm.gov.my/wp-content/uploads/2024/06/Perlembagaan-Persekutuan-Cetakan-Semula-2020-1.pdf"
-    publisher: "Jabatan Perdana Menteri (Bahagian Hal Ehwal Undang-Undang) / AGC"
-  - title: "Akta Orang Asli 1954 (Akta 134)"
+    publisher: "首相府（法務局）/ AGC"
+  - title: "Aboriginal Peoples Act 1954（Act 134）(Akta Orang Asli 1954 (Akta 134))"
     url: "https://lom.agc.gov.my/act-detail.php?act=134&lang=BM"
-    publisher: "Pejabat Peguam Negara (AGC)"
+    publisher: "司法長官府 (AGC)"
 entity: "Bumiputera"
 relations:
   - { rel: "part-of", to: "malaysia" }

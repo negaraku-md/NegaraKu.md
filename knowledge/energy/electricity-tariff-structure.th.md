@@ -52,19 +52,19 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Jadual Elektrik Baharu: Lebih 23.6 Juta Pengguna Domestik Semenanjung Nikmati Kadar Lebih Adil"
+  - title: "ตารางค่าไฟฟ้าใหม่: ผู้ใช้ครัวเรือนกว่า 23.6 ล้านรายในคาบสมุทรได้รับอัตราที่เป็นธรรมยิ่งขึ้น (Jadual Elektrik Baharu: Lebih 23.6 Juta Pengguna Domestik Semenanjung Nikmati Kadar Lebih Adil)"
     url: "https://www.st.gov.my/jadual-elektrik-baharu-lebih-236-juta-pengguna-domestik-semenanjung-nikmati-kadar-lebih-adil"
-    publisher: "Suruhanjaya Tenaga (Energy Commission)"
-  - title: "Energy Commission declares August 2025 AFA rebate of 1.45 sen/kWh for domestic users"
+    publisher: "คณะกรรมการพลังงาน (Suruhanjaya Tenaga)"
+  - title: "คณะกรรมการพลังงานประกาศส่วนลด AFA เดือนสิงหาคม 2025 ที่ 1.45 เซ็น/kWh สำหรับผู้ใช้ครัวเรือน (Energy Commission declares August 2025 AFA rebate of 1.45 sen/kWh for domestic users)"
     url: "https://soyacincau.com/2025/07/30/tnb-electricity-bill-afa-rebate-st-august-2025/"
     publisher: "SoyaCincau"
-  - title: "TNB Electricity Bill changes starting July 2025. What's new?"
+  - title: "การเปลี่ยนแปลงบิลค่าไฟฟ้า TNB เริ่มกรกฎาคม 2025 มีอะไรใหม่? (TNB Electricity Bill changes starting July 2025. What's new?)"
     url: "https://soyacincau.com/2025/06/21/tnb-domestic-electricity-tariff-structure-july-2025-impact-changes/"
     publisher: "SoyaCincau"
-  - title: "Big changes to domestic TNB bill structure - base tariff up 13.64% from July 2025"
+  - title: "การเปลี่ยนแปลงครั้งใหญ่ของโครงสร้างบิล TNB ครัวเรือน - อัตราฐานเพิ่มขึ้น 13.64% ตั้งแต่กรกฎาคม 2025 (Big changes to domestic TNB bill structure - base tariff up 13.64% from July 2025)"
     url: "https://paultan.org/2025/06/20/big-changes-to-domestic-tnb-bill-structure-no-more-tiered-rates-base-tariff-up-by-13-64-from-july-2025/"
     publisher: "paultan.org"
-  - title: "Your New TNB Bill Explained: Understanding the Monthly Tariff Changes"
+  - title: "อธิบายบิล TNB ใหม่ของคุณ: ทำความเข้าใจการเปลี่ยนแปลงอัตราค่าไฟรายเดือน (Your New TNB Bill Explained: Understanding the Monthly Tariff Changes)"
     url: "https://ringgitplus.com/en/blog/personal-finance-news/your-new-tnb-bill-explained-understanding-the-monthly-tariff-changes.html"
     publisher: "RinggitPlus"
 
