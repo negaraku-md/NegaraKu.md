@@ -67,11 +67,16 @@ const isPublic = (p) =>
   !p.hidden && LIVE.has(p.status) && (!p.sensitivity || p.sensitivity === 'none' || !!p.reviewer);
 
 const rel = (f) => path.relative(ROOT, f).replace(/\\/g, '/');
-const stripLocale = (segs) =>
-  segs[0] === 'en' || segs[0] === 'zh' || segs[0] === 'ta' || segs[0] === 'ja' ? segs.slice(1) : segs;
+const LOCALE_SEGS = new Set(['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi']);
+const stripLocale = (segs) => (LOCALE_SEGS.has(segs[0]) ? segs.slice(1) : segs);
 
 const files = await walk(KNOWLEDGE);
-const parsed = await Promise.all(files.map(parse));
+// Batch the reads: Promise.all over every file (now ~8k) exhausts the OS file-handle
+// limit (EMFILE) on Windows. Parse in chunks to cap concurrent open handles.
+const parsed = [];
+for (let i = 0; i < files.length; i += 200) {
+  parsed.push(...(await Promise.all(files.slice(i, i + 200).map(parse))));
+}
 
 // Group into topics; the topic's MASTER decides public reachability (routes fall
 // back to the master, so a live master means every locale route exists).

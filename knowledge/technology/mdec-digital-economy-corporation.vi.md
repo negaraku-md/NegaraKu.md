@@ -29,7 +29,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "published"
+status: "draft"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

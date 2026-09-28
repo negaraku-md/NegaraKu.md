@@ -42,7 +42,7 @@ lang: "vi"
 masterLanguage: "ms"
 translationStatus: "pending"
 
-status: "published"
+status: "draft"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
