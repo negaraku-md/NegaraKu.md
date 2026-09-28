@@ -48,21 +48,21 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Licensed Warehouse — Licensing (Pelesenan Gudang Berlesen)"
+  - title: "உரிமம் பெற்ற கிடங்கு — உரிமம் வழங்கல் (Licensed Warehouse — Licensing (Pelesenan Gudang Berlesen))"
     url: "https://www.customs.gov.my/en/business/facilitation/licensed-warehouse/licensing"
-    publisher: "Royal Malaysian Customs Department (JKDM)"
-  - title: "Licensed Manufacturing Warehouse (LMW) — Introduction"
+    publisher: "மலேசிய அரச சுங்கத் துறை (JKDM)"
+  - title: "உரிமம் பெற்ற உற்பத்திக் கிடங்கு (LMW) — அறிமுகம் (Licensed Manufacturing Warehouse (LMW) — Introduction)"
     url: "https://www.customs.gov.my/en/business/facilitation/license-manufacturing-warehouse-lmw/introduction"
-    publisher: "Royal Malaysian Customs Department (JKDM)"
+    publisher: "மலேசிய அரச சுங்கத் துறை (JKDM)"
   - title: "Customs Act 1967 (Act 235)"
     url: "https://www.customs.gov.my/ms/pg/Akta%20Kastam/AKTA%20KASTAM%201967-1.pdf"
-    publisher: "Royal Malaysian Customs Department (JKDM)"
-  - title: "Glossary: Licensed Manufacturing Warehouse (LMW)"
+    publisher: "மலேசிய அரச சுங்கத் துறை (JKDM)"
+  - title: "சொற்களஞ்சியம்: உரிமம் பெற்ற உற்பத்திக் கிடங்கு (LMW) (Glossary: Licensed Manufacturing Warehouse (LMW))"
     url: "https://www.miti.gov.my/index.php/glossary/term/117"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Fire Certificate (Perakuan Bomba)"
+    publisher: "முதலீடு, வர்த்தகம் மற்றும் தொழில்துறை அமைச்சு (MITI)"
+  - title: "தீ சான்றிதழ் (Fire Certificate (Perakuan Bomba))"
     url: "https://www.bomba.gov.my/en/perakuan-bomba/"
-    publisher: "Fire and Rescue Department of Malaysia (BOMBA)"
+    publisher: "மலேசிய தீயணைப்பு மற்றும் மீட்புத் துறை (BOMBA)"
 
 entity: "Warehouse Licence (Malaysia)"
 relations:

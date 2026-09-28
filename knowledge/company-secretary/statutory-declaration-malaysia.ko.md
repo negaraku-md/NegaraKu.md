@@ -46,15 +46,15 @@ revisions:
 
 updated: 2026-09-07
 sources:
-  - title: "Statutory Declarations Act 1960 (Act 783)"
+  - title: "Statutory Declarations Act 1960 (Act 783) (Statutory Declarations Act 1960 (Act 783))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20783.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Penal Code (Act 574) — sections 199, 200 and 193"
+    publisher: "말레이시아 법무장관실"
+  - title: "Penal Code (Act 574) — 제199, 200 및 193조 (Penal Code (Act 574) — sections 199, 200 and 193)"
     url: "https://lom.agc.gov.my/act-detail.php?act=574"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Companies Act 2016 (Act 777) — sections 14, 113 and 443"
+    publisher: "말레이시아 법무장관실"
+  - title: "Companies Act 2016 (Act 777) — 제14, 113 및 443조 (Companies Act 2016 (Act 777) — sections 14, 113 and 443)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "말레이시아 법무장관실"
 
 entity: "Statutory Declaration (Malaysia)"
 relations:

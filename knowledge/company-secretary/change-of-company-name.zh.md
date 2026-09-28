@@ -49,18 +49,18 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777)，SSM 2022年8月1日重印本 (Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Akta Syarikat 2016 (Akta 777) — Seksyen 28 & 30"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "Akta Syarikat 2016 (Akta 777) — 第28及30条 (Akta Syarikat 2016 (Akta 777) — Seksyen 28 & 30)"
     url: "https://www.ssm.com.my/acts/aktaBM_20160915_AktaSyarikat2016Akta777.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Guidelines for Change of Name Local Company Under Section 28 of the Companies Act 2016"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "本地公司根据 Companies Act 2016 第28条变更名称指南 (Guidelines for Change of Name Local Company Under Section 28 of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/GUIDELINES/Guidelines-For-Change-Of-A-Local-Company%20-Name.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Act 2016 Section 28 — Application for Change of Name"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "Companies Act 2016 第28条 — 更改名称申请 (Companies Act 2016 Section 28 — Application for Change of Name)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/4._application_for_change_of_name_-_section_28.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 entity: "Suruhanjaya Syarikat Malaysia (SSM)"
 wikidata: "Q1121232"

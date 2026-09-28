@@ -85,17 +85,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–296 resolutions"
+  - title: "Companies Act 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி மறுபதிப்பு — பிரிவுகள் 290–296 தீர்மானங்கள் (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–296 resolutions)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.309–326 meetings and notice of meetings"
+  - title: "Companies Act 2016 (Act 777) — பிரிவுகள் 309–326 கூட்டங்கள் மற்றும் கூட்ட அறிவிப்பு (Companies Act 2016 (Act 777) — ss.309–326 meetings and notice of meetings)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.297–308 written resolutions and s.334 proxies"
+  - title: "Companies Act 2016 (Act 777) — பிரிவுகள் 297–308 எழுத்துப்பூர்வ தீர்மானங்கள் மற்றும் பிரிவு 334 பதிலாள்கள் (Companies Act 2016 (Act 777) — ss.297–308 written resolutions and s.334 proxies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
 
 entity: "Notice periods for company meetings and resolutions"

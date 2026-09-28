@@ -78,17 +78,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–308"
+  - title: "Companies Act 2016 (Act 777), 2022년 8월 1일자 재발행본 — 제290–308조 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–308)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — s.206 removal of directors and s.276 removal of auditors"
+  - title: "Companies Act 2016 (Act 777) — 제206조 이사 해임 및 제276조 감사인 해임 (Companies Act 2016 (Act 777) — s.206 removal of directors and s.276 removal of auditors)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "Companies (Amendment) Act 2024 (Act A1701)"
+  - title: "Companies (Amendment) Act 2024 (Act A1701) (Companies (Amendment) Act 2024 (Act A1701))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-02-02"
 
 entity: "Written resolution of a private company"

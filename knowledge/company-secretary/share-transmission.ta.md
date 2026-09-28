@@ -75,17 +75,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.105, 109, 110"
+  - title: "Companies Act 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி மறுபதிப்பு — பிரிவுகள் 105, 109, 110 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.105, 109, 110)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.51, 101, 209 and 321"
+  - title: "Companies Act 2016 (Act 777) — பிரிவுகள் 51, 101, 209 மற்றும் 321 (Companies Act 2016 (Act 777) — ss.51, 101, 209 and 321)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "Garis Panduan Mengenai Duti Setem Ke Atas Suratcara Pindah Milik Saham Bagi Saham Syarikat Yang Tidak Tersenarai Di Bursa Malaysia Berhad"
+  - title: "புர்சா மலேசியா பெர்ஹாட்டில் பட்டியலிடப்படாத நிறுவனங்களின் பங்குகளுக்கான பங்கு பரிமாற்ற ஆவணங்களின் முத்திரை வரி தொடர்பான வழிகாட்டுதல்கள் (Garis Panduan Mengenai Duti Setem Ke Atas Suratcara Pindah Milik Saham Bagi Saham Syarikat Yang Tidak Tersenarai Di Bursa Malaysia Berhad)"
     url: "https://www.hasil.gov.my/wp-content/uploads/GP_SAHAM_2019_23062020_1.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2019-11-06"
 
 entity: "Transmission of shares"

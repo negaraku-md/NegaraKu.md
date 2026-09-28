@@ -56,16 +56,16 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Moody's Affirms Malaysia's Sovereign Credit Rating At 'A3'; Outlook Stable (25 January 2025 affirmation)"
+  - title: "무디스, 말레이시아 국가신용등급 'A3' 유지, 전망 안정적(2025년 1월 25일 확인) (Moody's Affirms Malaysia's Sovereign Credit Rating At 'A3'; Outlook Stable (25 January 2025 affirmation))"
     url: "https://www.mof.gov.my/portal/en/news/press-release/moodys-affirms-malaysias-sovereign-credit-rating-at-a3-outlook-stable"
-    publisher: "Ministry of Finance Malaysia"
-  - title: "Sovereign Credit Rating Snapshot"
+    publisher: "말레이시아 재무부"
+  - title: "국가신용등급 스냅샷 (Sovereign Credit Rating Snapshot)"
     url: "https://www.investmalaysia.gov.my/invest-in-malaysia/sovereign-credit-rating-snapshot/"
     publisher: "InvestMalaysia (MIDA)"
-  - title: "S&P affirms Malaysia's credit rating with stable outlook, citing fiscal reforms and resilient growth"
+  - title: "S&P, 재정 개혁과 견조한 성장을 근거로 말레이시아 신용등급을 안정적 전망으로 유지 (S&P affirms Malaysia's credit rating with stable outlook, citing fiscal reforms and resilient growth)"
     url: "https://theedgemalaysia.com/node/770912"
     publisher: "The Edge Malaysia"
-  - title: "Fitch affirms Malaysia's rating at 'BBB+' with stable outlook"
+  - title: "피치, 말레이시아 등급 'BBB+' 유지, 전망 안정적 (Fitch affirms Malaysia's rating at 'BBB+' with stable outlook)"
     url: "https://english.news.cn/asiapacific/20251208/9af87ab789c447c594645a308611f699/c.html"
     publisher: "Xinhua"
 

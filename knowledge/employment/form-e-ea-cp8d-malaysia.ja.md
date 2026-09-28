@@ -79,19 +79,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Program Memfail Borang Nyata (BN) Bagi Tahun 2026"
+  - title: "2026年度確定申告書（BN）提出プログラム (Program Memfail Borang Nyata (BN) Bagi Tahun 2026)"
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
     date: "2025-12-30"
-  - title: "Return Form (RF) Filing Programme"
+  - title: "確定申告書（RF）提出プログラム (Return Form (RF) Filing Programme)"
     url: "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
-    publisher: "LHDN"
-  - title: "Employers — Employer's Responsibility"
+    publisher: "内国歳入庁 (LHDN)"
+  - title: "雇用主 — 雇用主の責任 (Employers — Employer's Responsibility)"
     url: "https://www.hasil.gov.my/en/majikan/"
-    publisher: "LHDN"
-  - title: "Offences, Fines and Penalties"
+    publisher: "内国歳入庁 (LHDN)"
+  - title: "違反、罰金および罰則 (Offences, Fines and Penalties)"
     url: "https://www.hasil.gov.my/en/perundangan/kesalahan-denda-dan-penalti/"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
 
 entity: "Form E, Form EA and CP8D annual employer filing"
 relations:

@@ -68,19 +68,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016: Practice Note No. 3/2018 — Clarification on Application for Extension of Time"
+  - title: "Companies Act 2016: Nota Amalan No. 3/2018 — Penjelasan mengenai Permohonan Pelanjutan Masa (Companies Act 2016: Practice Note No. 3/2018 — Clarification on Application for Extension of Time)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2018-07-26"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 259, 340 and 609"
+  - title: "Companies Act 2016 (Act 777), teks dikemas kini pada 1 Ogos 2022 — seksyen 259, 340 dan 609 (Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 259, 340 and 609)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Part M — Annual Returns and Financial Reporting (SSM FAQ)"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Bahagian M — Penyata Tahunan dan Pelaporan Kewangan (FAQ SSM) (Part M — Annual Returns and Financial Reporting (SSM FAQ))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20M.pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Jadual Fi — Pendaftaran Syarikat (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "Extension of time (EOT)"
 relations:

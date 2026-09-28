@@ -49,18 +49,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Malaysia Federal Legislation portal"
+  - title: "マレーシア連邦法令ポータル (Malaysia Federal Legislation portal)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers"
-  - title: "BLESS — Latar Belakang"
+    publisher: "司法長官府"
+  - title: "BLESS — 背景 (BLESS — Latar Belakang)"
     url: "https://portal.bless.gov.my/latar-belakang/"
-    publisher: "Ministry of Entrepreneur Development and Cooperatives (KUSKOP)"
-  - title: "MalaysiaBiz — Business Licensing"
+    publisher: "起業家育成・協同組合省 (KUSKOP)"
+  - title: "MalaysiaBiz — 事業ライセンス (MalaysiaBiz — Business Licensing)"
     url: "https://malaysiabiz.gov.my/en/services/business-licensing"
     publisher: "MalaysiaBiz"
-  - title: "Federal Constitution, Ninth Schedule — Legislative Lists"
+  - title: "連邦憲法 第九附表 — 立法リスト (Federal Constitution, Ninth Schedule — Legislative Lists)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/NinthSchedule.pdf"
-    publisher: "State Attorney-General's Chambers, Sabah"
+    publisher: "サバ州司法長官府"
 
 entity: "Malaysian sector regulators and licensing statutes"
 relations:

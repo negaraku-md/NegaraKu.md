@@ -39,12 +39,12 @@ sensitivity: "none"
 
 updated: 2026-07-10
 sources:
-  - title: "Department of Statistics Malaysia (DOSM)"
+  - title: "말레이시아 통계청 (DOSM) (Department of Statistics Malaysia (DOSM))"
     url: "https://www.dosm.gov.my/"
-    publisher: "DOSM"
-  - title: "Bank Negara Malaysia — Economic and Financial Data"
+    publisher: "말레이시아 통계청 (DOSM)"
+  - title: "말레이시아 중앙은행 — 경제 및 금융 데이터 (Bank Negara Malaysia — Economic and Financial Data)"
     url: "https://www.bnm.gov.my/"
-    publisher: "Bank Negara Malaysia"
+    publisher: "말레이시아 중앙은행"
 
 entity: "Malaysia GDP"
 relations:

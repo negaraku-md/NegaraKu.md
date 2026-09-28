@@ -69,15 +69,15 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Contribution For Non-Malaysian Citizen Employees"
+  - title: "เงินสมทบสำหรับลูกจ้างที่ไม่ใช่พลเมืองมาเลเซีย (Contribution For Non-Malaysian Citizen Employees)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/non-malaysian-citizen-employees"
-    publisher: "KWSP"
-  - title: "Third Schedule effective 1 October 2025"
+    publisher: "กองทุนสำรองเลี้ยงชีพลูกจ้าง (KWSP)"
+  - title: "บัญชีแนบท้ายที่สาม มีผล 1 ตุลาคม 2025 (Third Schedule effective 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "KWSP"
-  - title: "Employer Mandatory Contribution"
+    publisher: "กองทุนสำรองเลี้ยงชีพลูกจ้าง (KWSP)"
+  - title: "เงินสมทบภาคบังคับของนายจ้าง (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
-    publisher: "KWSP"
+    publisher: "กองทุนสำรองเลี้ยงชีพลูกจ้าง (KWSP)"
 
 entity: "EPF contributions for non-Malaysian citizen employees"
 relations:

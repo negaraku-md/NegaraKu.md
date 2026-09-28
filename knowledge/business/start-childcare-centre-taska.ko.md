@@ -48,18 +48,18 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Childcare Centre (TASKA)"
+  - title: "보육센터 (TASKA) (Childcare Centre (TASKA))"
     url: "https://www.malaysia.gov.my/en/categories/school--education/early-childhood-education-/childcare-centre-taska"
-    publisher: "Government of Malaysia (MyGovernment portal)"
-  - title: "Soalan Lazim: Penubuhan TASKA (FAQ on establishing a TASKA)"
+    publisher: "말레이시아 정부 (MyGovernment 포털)"
+  - title: "자주 묻는 질문: TASKA 설립 (Soalan Lazim: Penubuhan TASKA (FAQ on establishing a TASKA))"
     url: "https://www.jkm.gov.my/main/article/soalan-lazim-penubuhan-taska"
-    publisher: "Department of Social Welfare (Jabatan Kebajikan Masyarakat, JKM)"
-  - title: "Panduan Permohonan Pendaftaran TASKA (TASKA registration application guide)"
+    publisher: "사회복지국 (JKM)"
+  - title: "TASKA 등록 신청 안내 (Panduan Permohonan Pendaftaran TASKA (TASKA registration application guide))"
     url: "https://www.jkm.gov.my/jkm/uploads/files/Bahagian%20KK/Panduan%20Permohonan%20Pendaftaran%20TASKA%20%5BFINAL%5D.pdf"
-    publisher: "Department of Social Welfare (Jabatan Kebajikan Masyarakat, JKM)"
-  - title: "Pendaftaran TASKA (online registration portal)"
+    publisher: "사회복지국 (JKM)"
+  - title: "TASKA 등록 (온라인 등록 포털) (Pendaftaran TASKA (online registration portal))"
     url: "https://online.jkm.gov.my/pendaftaran-taska"
-    publisher: "Department of Social Welfare (Jabatan Kebajikan Masyarakat, JKM)"
+    publisher: "사회복지국 (JKM)"
 
 entity: "TASKA (Childcare Centre, Malaysia)"
 relations: []

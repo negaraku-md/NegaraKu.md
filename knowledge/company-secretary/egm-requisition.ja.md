@@ -78,17 +78,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.310–314 convening meetings"
+  - title: "Companies Act 2016 (Act 777)、2022年8月1日現在の再版 — 第310条〜第314条 会議の招集 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.310–314 convening meetings)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.292, 316 notice periods and s.340(5) court-ordered meetings"
+  - title: "Companies Act 2016 (Act 777) — 第292条・第316条 通知期間および第340条(5) 裁判所命令による会議 (Companies Act 2016 (Act 777) — ss.292, 316 notice periods and s.340(5) court-ordered meetings)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — s.297 written resolutions and s.206 removal of directors"
+  - title: "Companies Act 2016 (Act 777) — 第297条 書面決議および第206条 取締役の解任 (Companies Act 2016 (Act 777) — s.297 written resolutions and s.206 removal of directors)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2022-08-01"
 
 entity: "Requisition of a meeting of members"

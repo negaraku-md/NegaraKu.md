@@ -51,18 +51,18 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG)"
+  - title: "专业通令第4/2004号：家长教师协会（PIBG）章程 (Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG))"
     url: "https://jpwpkl.moe.gov.my/muat-turun/sektor-pengurusan-sekolah/surat-pekeliling-iktisas-surat-pekeliling/556-surat-pekeliling-ikhtisas-bil-4-2004-perlembagaan-persatuan-ibu-bapa-guru/file"
-    publisher: "Jabatan Pendidikan WP Kuala Lumpur, Kementerian Pendidikan Malaysia"
-  - title: "Surat Pekeliling Ikhtisas Bil. 5/2001: Batasan Kuasa Persatuan Ibu Bapa Dan Guru (PIBG) Di Sekolah"
+    publisher: "吉隆坡联邦直辖区教育局，马来西亚教育部"
+  - title: "专业通令第5/2001号：学校家长教师协会（PIBG）权限的限制 (Surat Pekeliling Ikhtisas Bil. 5/2001: Batasan Kuasa Persatuan Ibu Bapa Dan Guru (PIBG) Di Sekolah)"
     url: "https://www.moe.gov.my/surat-pekeliling-ikhtisas-bil-52001-batasan-kuasa-"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Surat Pekeliling Ikhtisas Bilangan 13 Tahun 2007: Pemansuhan Yuran Khas dan Garis Panduan Sistem Pakej Bayaran Tambahan"
+    publisher: "马来西亚教育部"
+  - title: "专业通令2007年第13号：废除特别费用及附加付款配套系统指南 (Surat Pekeliling Ikhtisas Bilangan 13 Tahun 2007: Pemansuhan Yuran Khas dan Garis Panduan Sistem Pakej Bayaran Tambahan)"
     url: "https://www.moe.gov.my/surat-pekeliling-ikhtisas-bilangan-13-tahun-2007-p"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Senarai Pekeliling Ikhtisas KPM"
+    publisher: "马来西亚教育部"
+  - title: "教育部专业通令清单 (Senarai Pekeliling Ikhtisas KPM)"
     url: "https://www.moe.gov.my/pekeliling"
-    publisher: "Kementerian Pendidikan Malaysia"
+    publisher: "马来西亚教育部"
 
 entity: "Persatuan Ibu Bapa-Guru (PIBG)"
 relations:

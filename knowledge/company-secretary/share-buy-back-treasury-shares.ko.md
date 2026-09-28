@@ -49,13 +49,13 @@ verificationNeeded:
   - "오후 6시 30분 기한(규정 12.19/12.20/12.21)과 15% 가격 한도(규정 12.17)를 현행 부르사(Bursa) 판과 대조하여 확인하십시오."
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777), Section 127 — Purchase by a company of its own shares"
+  - title: "Companies Act 2016 (Act 777), Section 127 — 회사의 자기주식 취득 (Companies Act 2016 (Act 777), Section 127 — Purchase by a company of its own shares)"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/Companies_Act_2016_Act_777.pdf"
-    publisher: "Laws of Malaysia / Kementerian Kewangan Malaysia"
-  - title: "Main Market Listing Requirements — Chapter 12: Share Buy-Backs"
+    publisher: "말레이시아 법령 / 말레이시아 재정부"
+  - title: "메인마켓 상장 요건 — 제12장: 자사주 매입 (Main Market Listing Requirements — Chapter 12: Share Buy-Backs)"
     url: "https://www.bursamalaysia.com/regulation/listing_requirements/main_market"
     publisher: "Bursa Malaysia Securities Berhad"
-  - title: "ACE Market Listing Requirements — Chapter 12: Share Buy-Backs"
+  - title: "ACE 마켓 상장 요건 — 제12장: 자사주 매입 (ACE Market Listing Requirements — Chapter 12: Share Buy-Backs)"
     url: "https://www.bursamalaysia.com/regulation/listing_requirements/ace_market"
     publisher: "Bursa Malaysia Securities Berhad"
 

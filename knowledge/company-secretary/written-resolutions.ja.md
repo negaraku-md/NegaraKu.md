@@ -82,17 +82,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–308"
+  - title: "Companies Act 2016 (Act 777)、2022年8月1日現在の再版 — 第290〜308条 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–308)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — s.206 removal of directors and s.276 removal of auditors"
+  - title: "Companies Act 2016 (Act 777) — 第206条 取締役の解任および第276条 監査人の解任 (Companies Act 2016 (Act 777) — s.206 removal of directors and s.276 removal of auditors)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2022-08-01"
-  - title: "Companies (Amendment) Act 2024 (Act A1701)"
+  - title: "Companies (Amendment) Act 2024 (Act A1701) (Companies (Amendment) Act 2024 (Act A1701))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2024-02-02"
 
 entity: "Written resolution of a private company"

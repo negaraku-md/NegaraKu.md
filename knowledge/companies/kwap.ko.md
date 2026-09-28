@@ -53,18 +53,18 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Overview — KWAP"
+  - title: "개요 — KWAP (Overview — KWAP)"
     url: "https://www.kwap.gov.my/corporate/overview/"
-    publisher: "Kumpulan Wang Persaraan (Diperbadankan)"
+    publisher: "퇴직연금기금(법인) (KWAP)"
   - title: "KWAP Sees Unprecedented Growth — RM158억 Increase in 2024"
     url: "https://www.kwap.gov.my/media-centre/kwap-sees-unprecedented-growth-rm15-8-billion-increase-in-2024-2/"
-    publisher: "Kumpulan Wang Persaraan (Diperbadankan)"
+    publisher: "퇴직연금기금(법인) (KWAP)"
   - title: "KWAP Fund Size Grew to RM1,698억, an increase of RM117억 in 2023"
     url: "https://www.kwap.gov.my/media-centre/kwap-fund-size-grew-to-rm169-8-billion-an-increase-of-rm11-7-billion-in-2023/"
-    publisher: "Kumpulan Wang Persaraan (Diperbadankan)"
+    publisher: "퇴직연금기금(법인) (KWAP)"
   - title: "EPF's investment funds stand at RM1.1조 as of August 2023"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/epf-s-investment-funds-stand-at-rm1-1-trillion-as-of-august-2023-steven-sim"
-    publisher: "Kementerian Kewangan Malaysia"
+    publisher: "말레이시아 재무부"
 
 entity: "Kumpulan Wang Persaraan (Diperbadankan)"
 wikidata: "Q60460782"

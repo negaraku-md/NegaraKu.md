@@ -81,18 +81,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), bản in lại tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2022-08-01"
   - title: "Companies (Amendment) Act 2024 (Act A1701)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2024-02-02"
 
-  - title: "FAQ Part E — Notification of Particulars and Change in Register of Directors, Manager and Secretaries"
+  - title: "Câu hỏi thường gặp Phần E — Thông báo chi tiết và thay đổi trong Sổ đăng ký Giám đốc, Quản lý và Thư ký (FAQ Part E — Notification of Particulars and Change in Register of Directors, Manager and Secretaries)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQS-ON-COMPANIES-ACT-2016-AND-TRANSITIONAL-ISSUES/part_e.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2017-06-09"
 
 entity: "Appointment and resignation of directors under the Companies Act 2016"

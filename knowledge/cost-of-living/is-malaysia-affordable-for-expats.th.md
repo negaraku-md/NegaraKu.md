@@ -40,21 +40,21 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Household Income Survey Report, Malaysia & States, 2024"
+  - title: "รายงานการสำรวจรายได้ครัวเรือน มาเลเซียและรัฐต่าง ๆ 2024 (Household Income Survey Report, Malaysia & States, 2024)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "กรมสถิติมาเลเซีย (DOSM)"
     date: "2025-10-08"
-  - title: "Household Expenditure Survey Report, Malaysia & States, 2024"
+  - title: "รายงานการสำรวจรายจ่ายครัวเรือน มาเลเซียและรัฐต่าง ๆ 2024 (Household Expenditure Survey Report, Malaysia & States, 2024)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "กรมสถิติมาเลเซีย (DOSM)"
     date: "2025-10-08"
-  - title: "Analysis of Annual Consumer Price Index, Malaysia, 2025"
+  - title: "การวิเคราะห์ดัชนีราคาผู้บริโภครายปี มาเลเซีย 2025 (Analysis of Annual Consumer Price Index, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/portal-main/release-content/analysis-of-annual-consumer-price-index-malaysia-2025"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "กรมสถิติมาเลเซีย (DOSM)"
     date: "2026-04-29"
-  - title: "Gaji minimum RM1,700 berkuat kuasa Februari 2025"
+  - title: "ค่าจ้างขั้นต่ำ RM1,700 มีผลบังคับใช้เดือนกุมภาพันธ์ 2025 (Gaji minimum RM1,700 berkuat kuasa Februari 2025)"
     url: "https://jtksm.mohr.gov.my/ms/media/keratan-akhbar/gaji-minimum-rm1700-berkuat-kuasa-februari-2025"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM), Kementerian Sumber Manusia"
+    publisher: "กรมแรงงานคาบสมุทรมาเลเซีย (JTKSM), กระทรวงทรัพยากรมนุษย์"
 
 entity: "Cost of living for expatriates and remote workers in Malaysia"
 relations:

@@ -53,9 +53,9 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777) — seksyen 247, 248, 258, 259"
+  - title: "Companies Act 2016 (Act 777) — பிரிவுகள் 247, 248, 258, 259 (Companies Act 2016 (Act 777) — seksyen 247, 248, 258, 259)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies%20-Act%20-1965-(Repealed)/aktabi_20160915_companiesact2016act777_0.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Suruhanjaya Syarikat Malaysia (SSM)"
 wikidata: "Q1121232"

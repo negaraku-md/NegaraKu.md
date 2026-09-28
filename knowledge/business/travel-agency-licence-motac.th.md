@@ -48,21 +48,21 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Tourism Industry Act 1992 (Act 482)"
+  - title: "Tourism Industry Act 1992 (Act 482) (Tourism Industry Act 1992 (Act 482))"
     url: "https://www.motac.gov.my/en/muat-turun/act-482-muktamad-tourism-industry-act-1992-en-2/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Travel Agency — Licence Application"
+    publisher: "กระทรวงการท่องเที่ยว ศิลปะ และวัฒนธรรม (MOTAC)"
+  - title: "บริษัทนำเที่ยว — การยื่นขอใบอนุญาต (Travel Agency — Licence Application)"
     url: "https://www.motac.gov.my/en/services/license-application/travel-agency"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Travel Agency (TOBTAB) — Licensed Agency Registry and Categories"
+    publisher: "กระทรวงการท่องเที่ยว ศิลปะ และวัฒนธรรม (MOTAC)"
+  - title: "บริษัทนำเที่ยว (TOBTAB) — ทะเบียนและประเภทบริษัทที่ได้รับใบอนุญาต (Travel Agency (TOBTAB) — Licensed Agency Registry and Categories)"
     url: "https://www.motac.gov.my/en/kategori-semakan-new/travel-agency-tobtab/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Tourism Licensing and Enforcement Division"
+    publisher: "กระทรวงการท่องเที่ยว ศิลปะ และวัฒนธรรม (MOTAC)"
+  - title: "ฝ่ายการออกใบอนุญาตและบังคับใช้กฎหมายการท่องเที่ยว (Tourism Licensing and Enforcement Division)"
     url: "https://www.motac.gov.my/en/bahagian-dan-unit/tourism-licensing-and-enforcement-division/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Enforcement Action Against Unlicensed Tourism Activities"
+    publisher: "กระทรวงการท่องเที่ยว ศิลปะ และวัฒนธรรม (MOTAC)"
+  - title: "การบังคับใช้กฎหมายต่อกิจกรรมการท่องเที่ยวที่ไม่มีใบอนุญาต (Enforcement Action Against Unlicensed Tourism Activities)"
     url: "https://www.motac.gov.my/en/enforcement-action-against-unlicensed-tourism-activities/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
+    publisher: "กระทรวงการท่องเที่ยว ศิลปะ และวัฒนธรรม (MOTAC)"
 
 entity: "Travel Agency Licence (MOTAC, Malaysia)"
 relations:

@@ -58,16 +58,16 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Industrial Relations Act 1967 (Act 177) — official text"
+  - title: "Industrial Relations Act 1967 (Act 177) — அதிகாரப்பூர்வ உரை (Industrial Relations Act 1967 (Act 177) — official text)"
     url: "https://www.investmalaysia.gov.my/media/d32lepas/industrial-relations-act-1967.pdf"
     publisher: "InvestMalaysia / MIDA"
-  - title: "Industrial Relation — setting up business content"
+  - title: "தொழில் உறவு — வணிகம் தொடங்குதல் தொடர்பான உள்ளடக்கம் (Industrial Relation — setting up business content)"
     url: "https://www.mida.gov.my/setting-up-content/industrial-relation/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Industrial Relations Act 1967 amended to expedite dispute resolution processes"
+    publisher: "மலேசிய முதலீட்டு மேம்பாட்டு ஆணையம் (MIDA)"
+  - title: "பிணக்குத் தீர்வு நடைமுறைகளை விரைவுபடுத்த Industrial Relations Act 1967 திருத்தம் (Industrial Relations Act 1967 amended to expedite dispute resolution processes)"
     url: "https://www.allenandgledhill.com/publication/articles/17815/industrial-relations-act-1967-amended-to-expedite-dispute-resolution-processes"
     publisher: "Allen & Gledhill"
-  - title: "2022 Amendments to the Trade Unions Act 1959"
+  - title: "Trade Unions Act 1959 இன் 2022 திருத்தங்கள் (2022 Amendments to the Trade Unions Act 1959)"
     url: "https://dnh.com.my/2022-amendments-to-the-trade-unions-act-1959/"
     publisher: "Donovan & Ho"
 

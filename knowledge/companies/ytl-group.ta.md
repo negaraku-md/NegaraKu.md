@@ -54,22 +54,22 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "YTL Corp ends FY2024 on positive footing, pays 4.5 sen dividend"
+  - title: "YTL Corp FY2024-ஐ சாதகமான நிலையில் நிறைவு செய்தது, 4.5 சென் ஈவுத்தொகை வழங்கியது (YTL Corp ends FY2024 on positive footing, pays 4.5 sen dividend)"
     url: "https://theedgemalaysia.com/node/723704"
     publisher: "The Edge Malaysia"
-  - title: "YTL Power completes first Nvidia-powered AI data centre in Johor, YTL AI Cloud now operational"
+  - title: "YTL Power ஜோகூரில் Nvidia இயங்கும் முதல் AI தரவு மையத்தை நிறைவு செய்தது, YTL AI Cloud இப்போது செயல்பாட்டில் (YTL Power completes first Nvidia-powered AI data centre in Johor, YTL AI Cloud now operational)"
     url: "https://theedgemalaysia.com/node/776142"
     publisher: "The Edge Malaysia"
-  - title: "Malayan Cement: explosive profit growth from infrastructure boom (FY2024 results)"
+  - title: "Malayan Cement: உள்கட்டமைப்பு ஏற்றத்தால் இலாபத்தில் வெடிப்பு வளர்ச்சி (FY2024 முடிவுகள்) (Malayan Cement: explosive profit growth from infrastructure boom (FY2024 results))"
     url: "https://theedgemalaysia.com/node/772495"
     publisher: "The Edge Malaysia"
-  - title: "RM5.9 Billion Cross-Ministry Allocation To Keep Malaysia At Forefront Of AI Development - PM Anwar"
+  - title: "AI மேம்பாட்டில் மலேசியாவை முன்னணியில் வைத்திருக்க RM5.9 Billion அமைச்சுகளுக்கிடையேயான ஒதுக்கீடு - பிரதமர் அன்வர் (RM5.9 Billion Cross-Ministry Allocation To Keep Malaysia At Forefront Of AI Development - PM Anwar)"
     url: "https://www.bernama.com/en/news.php?id=2477137"
     publisher: "Bernama"
-  - title: "About YTL Power International Berhad"
+  - title: "YTL Power International Berhad பற்றி (About YTL Power International Berhad)"
     url: "https://www.ytlpowerinternational.com/about-us/about-ytl-power-international/"
     publisher: "YTL Power International Berhad"
-  - title: "Data Centers — YTL Power International Berhad"
+  - title: "தரவு மையங்கள் — YTL Power International Berhad (Data Centers — YTL Power International Berhad)"
     url: "https://www.ytlpowerinternational.com/our-businesses/data-centers/"
     publisher: "YTL Power International Berhad"
 

@@ -40,16 +40,16 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Labour Force Statistics, May 2026"
+  - title: "노동력 통계, 2026년 5월 (Labour Force Statistics, May 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026"
-    publisher: "DOSM"
+    publisher: "말레이시아 통계청 (DOSM)"
     date: "2026-07-10"
-  - title: "Labour Force Survey Report, First Quarter 2026"
+  - title: "노동력 조사 보고서, 2026년 1분기 (Labour Force Survey Report, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
-    publisher: "DOSM"
-  - title: "Labour Market Review, First Quarter 2026"
+    publisher: "말레이시아 통계청 (DOSM)"
+  - title: "노동시장 리뷰, 2026년 1분기 (Labour Market Review, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-market-review-lmr-q12026"
-    publisher: "DOSM"
+    publisher: "말레이시아 통계청 (DOSM)"
 
 entity: "Malaysia unemployment rate"
 relations:

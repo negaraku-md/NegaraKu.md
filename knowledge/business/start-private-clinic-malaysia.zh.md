@@ -48,21 +48,21 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Private Healthcare Facilities and Services Act 1998 (Act 586)"
+  - title: "Private Healthcare Facilities and Services Act 1998 (Act 586) (Private Healthcare Facilities and Services Act 1998 (Act 586))"
     url: "https://www.moh.gov.my/index.php/database_stores/attach_download/317/27"
-    publisher: "Ministry of Health Malaysia"
-  - title: "Annual Practising Certificate (APC)"
+    publisher: "马来西亚卫生部"
+  - title: "年度执业证书 (APC) (Annual Practising Certificate (APC))"
     url: "https://mmc.gov.my/annual-practicing-certificates-apc/"
-    publisher: "Malaysian Medical Council (MMC)"
-  - title: "Annual Practising Certificate (APC) — Dental"
+    publisher: "马来西亚医药理事会 (MMC)"
+  - title: "年度执业证书 (APC) — 牙科 (Annual Practising Certificate (APC) — Dental)"
     url: "https://hq.moh.gov.my/ohp/mdc/index.php/?id=29"
-    publisher: "Malaysian Dental Council (MDC), Ministry of Health Malaysia"
-  - title: "Issuance of Poison Licence Type A / B / E / Permit NaOH"
+    publisher: "马来西亚牙科理事会 (MDC)，马来西亚卫生部"
+  - title: "毒药执照 A / B / E 类及 NaOH 准证的签发 (Issuance of Poison Licence Type A / B / E / Permit NaOH)"
     url: "https://pharmacy.moh.gov.my/en/content/issuance-poison-licence-type-b-e-permit-naoh.html"
-    publisher: "Pharmaceutical Services Programme, Ministry of Health Malaysia"
-  - title: "Poisons Act 1952 (Act 366)"
+    publisher: "药剂服务计划，马来西亚卫生部"
+  - title: "Poisons Act 1952 (Act 366) (Poisons Act 1952 (Act 366))"
     url: "https://pharmacy.moh.gov.my/sites/default/files/document-upload/poisons-act-1952-act-366.pdf"
-    publisher: "Pharmaceutical Services Programme, Ministry of Health Malaysia"
+    publisher: "药剂服务计划，马来西亚卫生部"
 
 entity: "Private Clinic (Malaysia)"
 relations: []

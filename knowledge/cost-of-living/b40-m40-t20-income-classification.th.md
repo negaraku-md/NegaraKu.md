@@ -50,12 +50,12 @@ verificationNeeded:
   - "ว่ารัฐบาลใช้การแบ่งกลุ่มที่ละเอียดขึ้นอย่างเป็นทางการ (เช่น T15) สำหรับการกำหนดเป้าหมายเงินอุดหนุนหรือไม่ — ข้อความเดิมถูกลบออกเนื่องจากไม่มีแหล่งข้อมูลอย่างเป็นทางการในรายงาน DOSM ที่อ้างอิง; ยืนยันแหล่งข้อมูลก่อนเพิ่มกลับเข้าไป."
 updated: 2026-08-08
 sources:
-  - title: "Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08)"
+  - title: "รายงานการสำรวจรายได้ครัวเรือน มาเลเซียและรัฐต่าง ๆ 2024 (เผยแพร่ 2025-10-08) (Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
-  - title: "Household Income Survey Report, Malaysia & States 2022"
+    publisher: "กรมสถิติมาเลเซีย (DOSM)"
+  - title: "รายงานการสำรวจรายได้ครัวเรือน มาเลเซียและรัฐต่าง ๆ 2022 (Household Income Survey Report, Malaysia & States 2022)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+    publisher: "กรมสถิติมาเลเซีย (DOSM)"
 
 entity: "Jabatan Perangkaan Malaysia (DOSM)"
 wikidata: "Q7354425"

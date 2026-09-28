@@ -54,16 +54,16 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Public Ruling No. 11/2012: Employee Share Scheme Benefit"
+  - title: "பொது தீர்ப்பு எண். 11/2012: ஊழியர் பங்கு திட்ட பயன் (Public Ruling No. 11/2012: Employee Share Scheme Benefit)"
     url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR11_2012.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Companies Act 2016 (Act 777)"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "Companies Act 2016 (Act 777) (Companies Act 2016 (Act 777))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Public Ruling No. 5/2019: Perquisites from Employment"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம்"
+  - title: "பொது தீர்ப்பு எண். 5/2019: வேலைவாய்ப்பிலிருந்து கூடுதல் சலுகைகள் (Public Ruling No. 5/2019: Perquisites from Employment)"
     url: "http://lampiran2.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Main Market Listing Requirements — Chapter 6 (New Issues of Securities)"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "பிரதான சந்தை பட்டியலிடல் தேவைகள் — அத்தியாயம் 6 (பத்திரங்களின் புதிய வெளியீடுகள்) (Main Market Listing Requirements — Chapter 6 (New Issues of Securities))"
     url: "https://www.bursamalaysia.com/regulation/listing_requirements/main_market"
     publisher: "Bursa Malaysia Securities Berhad"
 

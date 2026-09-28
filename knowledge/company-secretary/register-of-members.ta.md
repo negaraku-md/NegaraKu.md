@@ -80,17 +80,17 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி மறுபதிப்பு (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "FAQ Part I — Return of Allotment of Shares (ROA) and Register of Members (ROM)"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் பகுதி I — பங்கு ஒதுக்கீட்டு அறிக்கை (ROA) மற்றும் உறுப்பினர்கள் பதிவேடு (ROM) (FAQ Part I — Return of Allotment of Shares (ROA) and Register of Members (ROM))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20I%20s50s51%20311224.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-12-31"
-  - title: "Companies Act 2016 — legal framework"
+  - title: "Companies Act 2016 — சட்டக் கட்டமைப்பு (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Register of Members"
 relations:

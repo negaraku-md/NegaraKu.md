@@ -54,16 +54,16 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Public Ruling No. 11/2012: Employee Share Scheme Benefit"
+  - title: "公共裁定第11/2012号：员工股份计划利益 (Public Ruling No. 11/2012: Employee Share Scheme Benefit)"
     url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR11_2012.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Companies Act 2016 (Act 777)"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "Companies Act 2016 (Act 777) (Companies Act 2016 (Act 777))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Public Ruling No. 5/2019: Perquisites from Employment"
+    publisher: "马来西亚总检察署"
+  - title: "公共裁定第5/2019号：受雇所得的额外津贴 (Public Ruling No. 5/2019: Perquisites from Employment)"
     url: "http://lampiran2.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Main Market Listing Requirements — Chapter 6 (New Issues of Securities)"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "主板上市要求 — 第6章（证券的新发行） (Main Market Listing Requirements — Chapter 6 (New Issues of Securities))"
     url: "https://www.bursamalaysia.com/regulation/listing_requirements/main_market"
     publisher: "Bursa Malaysia Securities Berhad"
 

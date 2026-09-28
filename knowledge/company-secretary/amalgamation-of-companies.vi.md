@@ -55,13 +55,13 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777), Subdivision 2 - Arrangements and Reconstructions, ss.365-371"
+  - title: "Companies Act 2016 (Act 777), Tiểu mục 2 - Thỏa thuận và Tái cấu trúc, các điều 365-371 (Companies Act 2016 (Act 777), Subdivision 2 - Arrangements and Reconstructions, ss.365-371)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Scheme of Arrangement Under Section 366: A Guide for Malaysian Companies"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Phương án Thỏa thuận theo Điều 366: Hướng dẫn cho các công ty Malaysia (Scheme of Arrangement Under Section 366: A Guide for Malaysian Companies)"
     url: "https://www.saifudinco.com/insights/scheme-of-arrangement-section-366-malaysia"
     publisher: "Saifudin & Co"
-  - title: "Introduction to a Scheme of Arrangement under the Companies Act 2016"
+  - title: "Giới thiệu về Phương án Thỏa thuận theo Companies Act 2016 (Introduction to a Scheme of Arrangement under the Companies Act 2016)"
     url: "https://www.mondaq.com/corporate-and-company-law/1188694/introduction-to-a-scheme-of-arrangement-under-the-companies-act-2016"
     publisher: "MahWengKwai & Associates"
     author: "Hannah Patrick"

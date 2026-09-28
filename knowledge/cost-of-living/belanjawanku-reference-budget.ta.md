@@ -53,19 +53,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "12 December 2024 | The Launch of Belanjawanku 2024/2025"
+  - title: "2024 டிசம்பர் 12 | Belanjawanku 2024/2025 அறிமுகம் (12 December 2024 | The Launch of Belanjawanku 2024/2025)"
     url: "https://swrc.um.edu.my/events/12-december-2024-the-launch-of-belanjawanku-2024-2025"
     publisher: "Pusat Penyelidikan Kesejahteraan Sosial (SWRC), Universiti Malaya"
-  - title: "Cost of living in the Klang Valley up by 6.7 per cent"
+  - title: "கிள்ளான் பள்ளத்தாக்கில் வாழ்க்கைச் செலவு 6.7 சதவீதம் அதிகரிப்பு (Cost of living in the Klang Valley up by 6.7 per cent)"
     url: "https://www.thevibes.com/articles/business/104297/cost-of-living-in-the-klang-valley-up-by-6.7-per-cent"
     publisher: "The Vibes"
-  - title: "How much to spend monthly and save for later: Your guide to EPF's new Belanjawanku and retirement framework"
+  - title: "மாதந்தோறும் எவ்வளவு செலவழிக்க வேண்டும், எதிர்காலத்திற்கு எவ்வளவு சேமிக்க வேண்டும்: EPF இன் புதிய Belanjawanku மற்றும் ஓய்வூதிய கட்டமைப்புக்கான உங்கள் வழிகாட்டி (How much to spend monthly and save for later: Your guide to EPF's new Belanjawanku and retirement framework)"
     url: "https://www.malaymail.com/news/malaysia/2024/12/13/how-much-to-spend-monthly-and-save-for-later-day-your-guide-to-understanding-epfs-new-belanjawanku-and-retirement-framework/159667"
     publisher: "Malay Mail"
-  - title: "EPF Releases Belanjawanku 2024/2025 And Retirement Income Adequacy Framework (siaran akhbar rasmi, 12 Disember 2024)"
+  - title: "EPF Belanjawanku 2024/2025 மற்றும் ஓய்வூதிய வருமான போதுமான கட்டமைப்பை வெளியிடுகிறது (அதிகாரப்பூர்வ பத்திரிகை அறிக்கை, 2024 டிசம்பர் 12) (EPF Releases Belanjawanku 2024/2025 And Retirement Income Adequacy Framework (siaran akhbar rasmi, 12 Disember 2024))"
     url: "https://www.maicsa.org.my/media/9802/technical_announcements_241213_1_1.pdf"
-    publisher: "Kumpulan Wang Simpanan Pekerja (KWSP)"
-  - title: "Launching of 'BELANJAWANKU Guidebook 2019' by EPF — Collaboration between University of Malaya and EPF"
+    publisher: "ஊழியர் வருங்கால வைப்பு நிதி (KWSP)"
+  - title: "EPF ஆல் 'BELANJAWANKU Guidebook 2019' அறிமுகம் — மலாயா பல்கலைக்கழகம் மற்றும் EPF இடையேயான கூட்டு முயற்சி (Launching of 'BELANJAWANKU Guidebook 2019' by EPF — Collaboration between University of Malaya and EPF)"
     url: "https://swrc.um.edu.my/events/launching-of-lsquo-belanjawanku-guidebook-2019-rsquo-by-epf-collaboration-between-university-of-malaya-and-epf"
     publisher: "Pusat Penyelidikan Kesejahteraan Sosial (SWRC), Universiti Malaya"
 

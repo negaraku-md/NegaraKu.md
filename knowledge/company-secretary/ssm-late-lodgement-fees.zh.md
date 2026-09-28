@@ -47,19 +47,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016: Practice Directive No. 1/2017 (Revised 1 October 2024) — Documents under the Companies Act 2016, the Lodgement Requirements and Related Matters"
+  - title: "Companies Act 2016: Practice Directive No. 1/2017（2024年10月1日修订）— 依据 Companies Act 2016 提交的文件、提交要求及相关事项 (Companies Act 2016: Practice Directive No. 1/2017 (Revised 1 October 2024) — Documents under the Companies Act 2016, the Lodgement Requirements and Related Matters)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2024-10-01"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 68, 258, 259 and 260"
+  - title: "Companies Act 2016 (Act 777)，2022年8月1日更新文本 — 第68、258、259及260条 (Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 68, 258, 259 and 260)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "收费表 — 公司注册 (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
-  - title: "Frequently Asked Questions — MBRS"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "常见问题 — MBRS (Frequently Asked Questions — MBRS)"
     url: "https://www.ssm.com.my/Pages/FAQ/FAQ-MBRS.aspx"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 entity: "SSM late lodgement penalty"
 relations:

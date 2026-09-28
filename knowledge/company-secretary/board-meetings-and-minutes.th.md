@@ -73,17 +73,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — s.212 and Third Schedule"
+  - title: "Companies Act 2016 (Act 777), ฉบับพิมพ์ซ้ำ ณ วันที่ 1 สิงหาคม 2022 — มาตรา 212 และตารางที่สาม (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — s.212 and Third Schedule)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทมาเลเซีย (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.47, 211, 221, 341"
+  - title: "Companies Act 2016 (Act 777) — มาตรา 47, 211, 221, 341 (Companies Act 2016 (Act 777) — ss.47, 211, 221, 341)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทมาเลเซีย (SSM)"
     date: "2022-08-01"
-  - title: "Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons"
+  - title: "คำวินิจฉัยสาธารณะ ฉบับที่ 9/2019 — สถานะผู้มีถิ่นที่อยู่ของบริษัทและคณะบุคคล (Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_09_2019.pdf"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
     date: "2019-12-06"
 
 entity: "Proceedings of the Board under the Third Schedule"

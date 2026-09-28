@@ -48,24 +48,24 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Tourism Industry Act 1992 (Act 482)"
+  - title: "Tourism Industry Act 1992 (Act 482) (Tourism Industry Act 1992 (Act 482))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1684998_BI/Act%20482%20(Muktamad).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Frequently Asked Questions — Tourist Accommodation Premises Registration"
+    publisher: "말레이시아 법무장관실"
+  - title: "자주 묻는 질문 — 관광 숙박시설 등록 (Frequently Asked Questions — Tourist Accommodation Premises Registration)"
     url: "https://www.motac.gov.my/en/frequently-asked-questions-faqs/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Hotel Grading (Star and Orchid Rating)"
+    publisher: "관광예술문화부 (MOTAC)"
+  - title: "호텔 등급 (스타 및 오키드 등급) (Hotel Grading (Star and Orchid Rating))"
     url: "https://www.motac.gov.my/en/kategori-semakan-new/hotel-grading/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Fire Certificate (Perakuan Bomba)"
+    publisher: "관광예술문화부 (MOTAC)"
+  - title: "소방 증명서 (Perakuan Bomba) (Fire Certificate (Perakuan Bomba))"
     url: "https://www.bomba.gov.my/en/public/doing-business/perakuan-bomba"
-    publisher: "Fire and Rescue Department of Malaysia (BOMBA)"
-  - title: "Homestay & Kampungstay Experience Programme"
+    publisher: "말레이시아 소방구조청 (BOMBA)"
+  - title: "홈스테이 & 캄풍스테이 체험 프로그램 (Homestay & Kampungstay Experience Programme)"
     url: "https://www.motac.gov.my/en/homestay-malaysia-experience-program/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Companies Commission of Malaysia (SSM) — business and company registration"
+    publisher: "관광예술문화부 (MOTAC)"
+  - title: "말레이시아 기업위원회 (SSM) — 사업 및 회사 등록 (Companies Commission of Malaysia (SSM) — business and company registration)"
     url: "https://www.ssm.com.my/"
-    publisher: "Companies Commission of Malaysia (SSM)"
+    publisher: "말레이시아 기업위원회 (SSM)"
 
 relations: []
 related: []

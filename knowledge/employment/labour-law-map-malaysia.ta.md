@@ -46,17 +46,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Laws of Malaysia — Federal Legislation Portal"
+  - title: "Laws of Malaysia — கூட்டாட்சி சட்டவாக்க இணையவாயில் (Laws of Malaysia — Federal Legislation Portal)"
     url: "https://lom.agc.gov.my"
-    publisher: "Attorney General's Chambers"
+    publisher: "தலைமை வழக்கறிஞர் அலுவலகம்"
     date: "2026-07-20"
-  - title: "Ministry of Human Resources official portal"
+  - title: "மனிதவள அமைச்சின் அதிகாரப்பூர்வ இணையவாயில் (Ministry of Human Resources official portal)"
     url: "https://www.mohr.gov.my"
-    publisher: "Ministry of Human Resources"
+    publisher: "மனிதவள அமைச்சு"
     date: "2026-07-20"
-  - title: "Gig Workers Act 2025 (Act 872)"
+  - title: "Gig Workers Act 2025 (Act 872) (Gig Workers Act 2025 (Act 872))"
     url: "https://www.mohr.gov.my/aktapekerjagig2025/assets/documents/Act%20872.pdf"
-    publisher: "Ministry of Human Resources"
+    publisher: "மனிதவள அமைச்சு"
     date: "2025-12-31"
 
 entity: "Malaysian employment law framework"

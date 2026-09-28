@@ -48,24 +48,24 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Tourism Industry Act 1992 (Act 482)"
+  - title: "Tourism Industry Act 1992 (Act 482) (Tourism Industry Act 1992 (Act 482))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1684998_BI/Act%20482%20(Muktamad).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Frequently Asked Questions — Tourist Accommodation Premises Registration"
+    publisher: "மலேசியா அட்டர்னி ஜெனரல் அலுவலகம்"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் — சுற்றுலா தங்குமிட வளாகப் பதிவு (Frequently Asked Questions — Tourist Accommodation Premises Registration)"
     url: "https://www.motac.gov.my/en/frequently-asked-questions-faqs/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Hotel Grading (Star and Orchid Rating)"
+    publisher: "சுற்றுலா, கலை மற்றும் பண்பாட்டு அமைச்சு (MOTAC)"
+  - title: "ஹோட்டல் தரப்படுத்தல் (நட்சத்திர மற்றும் ஆர்க்கிட் மதிப்பீடு) (Hotel Grading (Star and Orchid Rating))"
     url: "https://www.motac.gov.my/en/kategori-semakan-new/hotel-grading/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Fire Certificate (Perakuan Bomba)"
+    publisher: "சுற்றுலா, கலை மற்றும் பண்பாட்டு அமைச்சு (MOTAC)"
+  - title: "தீ சான்றிதழ் (Perakuan Bomba) (Fire Certificate (Perakuan Bomba))"
     url: "https://www.bomba.gov.my/en/public/doing-business/perakuan-bomba"
-    publisher: "Fire and Rescue Department of Malaysia (BOMBA)"
-  - title: "Homestay & Kampungstay Experience Programme"
+    publisher: "மலேசிய தீயணைப்பு மற்றும் மீட்புத் துறை (BOMBA)"
+  - title: "ஹோம்ஸ்டே & கம்பங்ஸ்டே அனுபவத் திட்டம் (Homestay & Kampungstay Experience Programme)"
     url: "https://www.motac.gov.my/en/homestay-malaysia-experience-program/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Companies Commission of Malaysia (SSM) — business and company registration"
+    publisher: "சுற்றுலா, கலை மற்றும் பண்பாட்டு அமைச்சு (MOTAC)"
+  - title: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM) — வணிக மற்றும் நிறுவனப் பதிவு (Companies Commission of Malaysia (SSM) — business and company registration)"
     url: "https://www.ssm.com.my/"
-    publisher: "Companies Commission of Malaysia (SSM)"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 relations: []
 related: []

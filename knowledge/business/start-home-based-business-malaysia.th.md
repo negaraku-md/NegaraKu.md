@@ -48,15 +48,15 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Garis Panduan Kawal Selia Perniagaan Dari Rumah"
+  - title: "แนวทางการกำกับดูแลธุรกิจจากที่บ้าน (Garis Panduan Kawal Selia Perniagaan Dari Rumah)"
     url: "https://www.kuskop.gov.my/admin/files/med/image/portal/PDF/Penerbitan/Garis-Panduan-Kawal-Selia-Perniagaan-Dari-Rumah-v10.pdf"
-    publisher: "Kementerian Pembangunan Usahawan dan Koperasi (KUSKOP)"
-  - title: "Guidelines for Registration of New Business"
+    publisher: "กระทรวงพัฒนาผู้ประกอบการและสหกรณ์ (KUSKOP)"
+  - title: "แนวทางการจดทะเบียนธุรกิจใหม่ (Guidelines for Registration of New Business)"
     url: "https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf"
-    publisher: "Companies Commission of Malaysia (SSM)"
-  - title: "Online (e-Daftar) — Individual Registration"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "ออนไลน์ (e-Daftar) — การลงทะเบียนบุคคล (Online (e-Daftar) — Individual Registration)"
     url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
 
 entity: "Home-Based Business (Malaysia)"
 relations: []

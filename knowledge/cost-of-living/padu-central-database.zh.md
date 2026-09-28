@@ -51,16 +51,16 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "PADU dilancar pastikan subsidi sampai, ukur sosioekonomi rakyat lebih tepat"
+  - title: "PADU 推介以确保补贴到位、更精准衡量人民的社会经济状况 (PADU dilancar pastikan subsidi sampai, ukur sosioekonomi rakyat lebih tepat)"
     url: "https://malaysiamadani.gov.my/2024/01/padu-dilancar-pastikan-subsidi-sampai-ukur-sosioekonomi-rakyat-lebih-tepat/"
-    publisher: "Malaysia MADANI (Jabatan Penerangan Malaysia)"
-  - title: "Padu, a tool to ensure govt's efficiency in delivering targeted subsidies, to be launched today"
+    publisher: "Malaysia MADANI（马来西亚新闻局）"
+  - title: "Padu，一项确保政府高效发放定向补贴的工具，将于今日推介 (Padu, a tool to ensure govt's efficiency in delivering targeted subsidies, to be launched today)"
     url: "https://www.malaymail.com/news/malaysia/2024/01/02/padu-a-tool-to-ensure-govts-efficiency-in-delivering-targeted-subsidies-to-be-launched-today/110085"
     publisher: "Malay Mail"
-  - title: "PADU: basic info will be entered into system for those that didn't sign up; 10.85 mil registered at deadline"
+  - title: "PADU：未登记者的基本资料将录入系统；截止时已有 1085 万人登记 (PADU: basic info will be entered into system for those that didn't sign up; 10.85 mil registered at deadline)"
     url: "https://paultan.org/2024/04/01/padu-deadline-registration-statistics/"
     publisher: "Paul Tan's Automotive News"
-  - title: "No plans to extend Padu deadline, says Rafizi"
+  - title: "拉菲兹称无意延长 Padu 截止日期 (No plans to extend Padu deadline, says Rafizi)"
     url: "https://www.freemalaysiatoday.com/category/nation/2024/03/23/no-plans-to-extend-padu-deadline-says-rafizi/"
     publisher: "Free Malaysia Today"
 

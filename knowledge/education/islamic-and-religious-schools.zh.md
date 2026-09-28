@@ -52,19 +52,19 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Sekolah Agama Bantuan Kerajaan (SABK)"
+  - title: "政府资助宗教学校（SABK） (Sekolah Agama Bantuan Kerajaan (SABK))"
     url: "https://www.moe.gov.my/sekolah-agama-bantuan-kerajaan-sabk"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Kelas Al-Quran & Fardu Ain (KAFA)"
+    publisher: "马来西亚教育部"
+  - title: "古兰经与个人义务课程（KAFA） (Kelas Al-Quran & Fardu Ain (KAFA))"
     url: "https://www.islam.gov.my/ms/pendidikan/kafa"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
-  - title: "Lessons From Tahfiz Fires, No Compromise On Safety"
+    publisher: "马来西亚伊斯兰发展局 (JAKIM)"
+  - title: "塔菲兹火灾的教训，安全绝不妥协 (Lessons From Tahfiz Fires, No Compromise On Safety)"
     url: "https://www.bernama.com/en/news.php?id=2229859"
     publisher: "Bernama"
-  - title: "234 sekolah agama seluruh negara berdaftar sebagai SABK - KPM"
+  - title: "全国234所宗教学校注册为SABK——教育部 (234 sekolah agama seluruh negara berdaftar sebagai SABK - KPM)"
     url: "https://sinarbestari.sinarharian.com.my/buletin/234-sekolah-agama-seluruh-negara-berdaftar-sebagai-sabk-kpm"
     publisher: "Sinar Harian"
-  - title: "Malaysia dormitory fire at Islamic school in Kuala Lumpur kills teen students"
+  - title: "吉隆坡伊斯兰学校宿舍火灾致青少年学生死亡 (Malaysia dormitory fire at Islamic school in Kuala Lumpur kills teen students)"
     url: "https://www.cbsnews.com/news/malaysia-dormitory-fire-islamic-school-kuala-lumpur-kills-teen-students/"
     publisher: "CBS News"
 

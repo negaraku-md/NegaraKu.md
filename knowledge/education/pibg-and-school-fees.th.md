@@ -51,18 +51,18 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG)"
+  - title: "หนังสือเวียนวิชาชีพ ฉบับที่ 4/2004: ธรรมนูญสมาคมผู้ปกครองและครู (PIBG) (Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG))"
     url: "https://jpwpkl.moe.gov.my/muat-turun/sektor-pengurusan-sekolah/surat-pekeliling-iktisas-surat-pekeliling/556-surat-pekeliling-ikhtisas-bil-4-2004-perlembagaan-persatuan-ibu-bapa-guru/file"
-    publisher: "Jabatan Pendidikan WP Kuala Lumpur, Kementerian Pendidikan Malaysia"
-  - title: "Surat Pekeliling Ikhtisas Bil. 5/2001: Batasan Kuasa Persatuan Ibu Bapa Dan Guru (PIBG) Di Sekolah"
+    publisher: "สำนักงานการศึกษาเขตปกครองสหพันธ์กัวลาลัมเปอร์, กระทรวงศึกษาธิการมาเลเซีย"
+  - title: "หนังสือเวียนวิชาชีพ ฉบับที่ 5/2001: การจำกัดอำนาจของสมาคมผู้ปกครองและครู (PIBG) ในโรงเรียน (Surat Pekeliling Ikhtisas Bil. 5/2001: Batasan Kuasa Persatuan Ibu Bapa Dan Guru (PIBG) Di Sekolah)"
     url: "https://www.moe.gov.my/surat-pekeliling-ikhtisas-bil-52001-batasan-kuasa-"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Surat Pekeliling Ikhtisas Bilangan 13 Tahun 2007: Pemansuhan Yuran Khas dan Garis Panduan Sistem Pakej Bayaran Tambahan"
+    publisher: "กระทรวงศึกษาธิการมาเลเซีย"
+  - title: "หนังสือเวียนวิชาชีพ ฉบับที่ 13 ปี 2007: การยกเลิกค่าธรรมเนียมพิเศษและแนวทางระบบแพ็กเกจการชำระเงินเพิ่มเติม (Surat Pekeliling Ikhtisas Bilangan 13 Tahun 2007: Pemansuhan Yuran Khas dan Garis Panduan Sistem Pakej Bayaran Tambahan)"
     url: "https://www.moe.gov.my/surat-pekeliling-ikhtisas-bilangan-13-tahun-2007-p"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Senarai Pekeliling Ikhtisas KPM"
+    publisher: "กระทรวงศึกษาธิการมาเลเซีย"
+  - title: "รายการหนังสือเวียนวิชาชีพ KPM (Senarai Pekeliling Ikhtisas KPM)"
     url: "https://www.moe.gov.my/pekeliling"
-    publisher: "Kementerian Pendidikan Malaysia"
+    publisher: "กระทรวงศึกษาธิการมาเลเซีย"
 
 entity: "Persatuan Ibu Bapa-Guru (PIBG)"
 relations:

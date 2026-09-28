@@ -40,16 +40,16 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "OPR data — Financial Markets Investor Portal"
+  - title: "隔夜政策利率数据——金融市场投资者门户 (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
-    publisher: "Bank Negara Malaysia"
+    publisher: "马来西亚国家银行"
     date: "2026-07-24"
-  - title: "OPR Decisions"
+  - title: "隔夜政策利率决议 (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
-    publisher: "Bank Negara Malaysia"
-  - title: "MPC Meeting Schedule 2026"
+    publisher: "马来西亚国家银行"
+  - title: "2026年货币政策委员会会议日程 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
-    publisher: "Bank Negara Malaysia"
+    publisher: "马来西亚国家银行"
 
 entity: "Overnight Policy Rate"
 relations:

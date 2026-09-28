@@ -55,22 +55,22 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Gamuda FY25 profit hits RM1bil; order book at record RM38bil"
+  - title: "Gamuda、FY25 の利益が RM1bil に到達、受注残高は過去最高の RM38bil (Gamuda FY25 profit hits RM1bil; order book at record RM38bil)"
     url: "https://gamuda.com/2025/09/gamuda-fy25-profit-hits-rm1bil-order-book-at-record-rm38bil/news/"
     publisher: "Gamuda Berhad"
-  - title: "Gamuda FY25 profit hits RM1bil; order book at record RM38bil"
+  - title: "Gamuda、FY25 の利益が RM1bil に到達、受注残高は過去最高の RM38bil (Gamuda FY25 profit hits RM1bil; order book at record RM38bil)"
     url: "https://www.thestar.com.my/business/business-news/2025/09/19/gamuda-fy25-profit-hits-rm1bil-order-book-at-record-rm38bil"
     publisher: "The Star"
-  - title: "Gamuda announces new Aussie projects, order book soars to RM46bil"
+  - title: "Gamuda、オーストラリアの新規案件を発表、受注残高が RM46bil に急増 (Gamuda announces new Aussie projects, order book soars to RM46bil)"
     url: "https://www.thestar.com.my/business/business-news/2025/12/18/gamuda-announces-new-aussie-projects-order-book-soars-to-rm46bil"
     publisher: "The Star"
-  - title: "Gamuda secures its biggest win to date in Taiwan with RM4.3B MRT"
+  - title: "Gamuda、RM4.3B の MRT で台湾における過去最大の受注を獲得 (Gamuda secures its biggest win to date in Taiwan with RM4.3B MRT)"
     url: "https://gamuda.com/2024/10/gamuda-secures-its-biggest-win-to-date-in-taiwan-with-rm4-3b-mrt/press-releases/"
     publisher: "Gamuda Berhad"
-  - title: "Gamuda-developed autonomous TBMs make history in Sydney"
+  - title: "Gamuda 開発の自律型 TBM がシドニーで歴史を刻む (Gamuda-developed autonomous TBMs make history in Sydney)"
     url: "https://www.thestar.com.my/news/nation/2024/08/29/gamuda-developed-autonomous-tbms-make-history-in-sydney"
     publisher: "The Star"
-  - title: "Milestones"
+  - title: "沿革 (Milestones)"
     url: "https://gamuda.com/who-we-are/milestones/"
     publisher: "Gamuda Berhad"
 

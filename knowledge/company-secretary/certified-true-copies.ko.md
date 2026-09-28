@@ -49,17 +49,17 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "MAICSA Updated Best Practice on Certification and Sighted Original of Documents by a Company Secretary"
+  - title: "회사비서의 문서 인증 및 원본 확인에 관한 MAICSA 최신 모범 실무 (MAICSA Updated Best Practice on Certification and Sighted Original of Documents by a Company Secretary)"
     url: "https://www.maicsa.org.my/resources/technical-research/technical-announcements/2025/250428-maicsa-updated-best-practice-on-certification-and-sighted-original-of-documents-by-a-company-secretary"
     publisher: "MAICSA"
     date: "2025-04-29"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 2022년 8월 1일 기준 재발행본 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "FAQ Part I — Return of Allotment of Shares (ROA) and Register of Members (ROM)"
+  - title: "FAQ 파트 I — 주식 배정 신고서 (ROA) 및 사원 명부 (ROM) (FAQ Part I — Return of Allotment of Shares (ROA) and Register of Members (ROM))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20I%20s50s51%20311224.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-12-31"
 
 entity: "Certified True Copy"

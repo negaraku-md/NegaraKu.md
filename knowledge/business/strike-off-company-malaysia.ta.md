@@ -75,20 +75,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.549–556"
+  - title: "Companies Act 2016 (Act 777), மறுபதிப்பு, 2022 ஆகஸ்ட் 1 நிலவரப்படி, பிரிவுகள் 549–556 (Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.549–556)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "Companies Act 2016 இன் பிரிவு 550 இன் கீழ் நிறுவனத்தின் பெயரை நீக்குவதற்கு இயக்குநர்கள் அல்லது உறுப்பினர்களின் விண்ணப்பம் தொடர்பான வழிகாட்டிகள் (Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20_Section%20549_190419.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2019-04-19"
-  - title: "Guidelines for the Application to Strike a Company Off the Register under Section 550 during the Moratorium Period from 16 April 2025 to 30 September 2025"
+  - title: "2025 ஏப்ரல் 16 முதல் 2025 செப்டம்பர் 30 வரையிலான தவணைக் காலத்தில் பிரிவு 550 இன் கீழ் நிறுவனத்தைப் பதிவேட்டிலிருந்து நீக்குவதற்கான விண்ணப்ப வழிகாட்டிகள் (Guidelines for the Application to Strike a Company Off the Register under Section 550 during the Moratorium Period from 16 April 2025 to 30 September 2025)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20During%20the%20Moratorium%20Period%20(16.4.2025)_Final.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2025-04-16"
-  - title: "Practice Directive 1/2017 (Revised 1 October 2024) — late lodgement penalties and prescribed forms"
+  - title: "நடைமுறை உத்தரவு 1/2017 (2024 அக்டோபர் 1 திருத்தப்பட்டது) — தாமதப் பதிவு அபராதங்கள் மற்றும் நிர்ணயிக்கப்பட்ட படிவங்கள் (Practice Directive 1/2017 (Revised 1 October 2024) — late lodgement penalties and prescribed forms)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-10-01"
 
 entity: "Striking off under section 550"

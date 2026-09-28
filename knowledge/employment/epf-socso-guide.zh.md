@@ -43,12 +43,12 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Employees Provident Fund (KWSP)"
+  - title: "雇员公积金局 (KWSP) (Employees Provident Fund (KWSP))"
     url: "https://www.kwsp.gov.my/"
-    publisher: "EPF"
-  - title: "Social Security Organisation (PERKESO)"
+    publisher: "雇员公积金局 (EPF)"
+  - title: "社会保险机构 (PERKESO) (Social Security Organisation (PERKESO))"
     url: "https://www.perkeso.gov.my/"
-    publisher: "PERKESO"
+    publisher: "社会保险机构 (PERKESO)"
 
 entity: "Malaysian statutory contributions"
 relations:

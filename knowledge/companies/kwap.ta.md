@@ -53,18 +53,18 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Overview — KWAP"
+  - title: "மேலோட்டம் — KWAP (Overview — KWAP)"
     url: "https://www.kwap.gov.my/corporate/overview/"
-    publisher: "Kumpulan Wang Persaraan (Diperbadankan)"
-  - title: "KWAP Sees Unprecedented Growth — RM15.8 billion Increase in 2024"
+    publisher: "ஓய்வூதிய நிதியம் (பெருநிறுவனமாக்கப்பட்டது) (KWAP)"
+  - title: "KWAP முன்னெப்போதும் இல்லாத வளர்ச்சியைக் கண்டது — 2024-இல் RM15.8 billion அதிகரிப்பு (KWAP Sees Unprecedented Growth — RM15.8 billion Increase in 2024)"
     url: "https://www.kwap.gov.my/media-centre/kwap-sees-unprecedented-growth-rm15-8-billion-increase-in-2024-2/"
-    publisher: "Kumpulan Wang Persaraan (Diperbadankan)"
-  - title: "KWAP Fund Size Grew to RM169.8 billion, an increase of RM11.7 billion in 2023"
+    publisher: "ஓய்வூதிய நிதியம் (பெருநிறுவனமாக்கப்பட்டது) (KWAP)"
+  - title: "KWAP நிதி அளவு RM169.8 billion ஆக வளர்ந்தது, 2023-இல் RM11.7 billion அதிகரிப்பு (KWAP Fund Size Grew to RM169.8 billion, an increase of RM11.7 billion in 2023)"
     url: "https://www.kwap.gov.my/media-centre/kwap-fund-size-grew-to-rm169-8-billion-an-increase-of-rm11-7-billion-in-2023/"
-    publisher: "Kumpulan Wang Persaraan (Diperbadankan)"
-  - title: "EPF's investment funds stand at RM1.1 trillion as of August 2023"
+    publisher: "ஓய்வூதிய நிதியம் (பெருநிறுவனமாக்கப்பட்டது) (KWAP)"
+  - title: "2023 ஆகஸ்ட் நிலவரப்படி, EPF முதலீட்டு நிதி RM1.1 டிரில்லியனில் (EPF's investment funds stand at RM1.1 trillion as of August 2023)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/epf-s-investment-funds-stand-at-rm1-1-trillion-as-of-august-2023-steven-sim"
-    publisher: "Kementerian Kewangan Malaysia"
+    publisher: "மலேசிய நிதி அமைச்சு"
 
 entity: "Kumpulan Wang Persaraan (Diperbadankan)"
 wikidata: "Q60460782"

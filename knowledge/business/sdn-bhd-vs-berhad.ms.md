@@ -43,15 +43,15 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "SSM ROC Table of Fees — s.41 conversion notice lodgement RM500"
+  - title: "Jadual Fi ROC SSM — pemfailan notis penukaran s.41 RM500 (SSM ROC Table of Fees — s.41 conversion notice lodgement RM500)"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777), pada 1 Ogos 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Companies Act 2016 — rangka kerja perundangan (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "Private company and public company (Malaysia)"
 relations:

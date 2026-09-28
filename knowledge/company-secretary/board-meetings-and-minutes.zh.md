@@ -74,17 +74,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — s.212 and Third Schedule"
+  - title: "Companies Act 2016 (Act 777)，2022年8月1日重印本 — 第212条及第三附表 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — s.212 and Third Schedule)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.47, 211, 221, 341"
+  - title: "Companies Act 2016 (Act 777) — 第47、211、221、341条 (Companies Act 2016 (Act 777) — ss.47, 211, 221, 341)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2022-08-01"
-  - title: "Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons"
+  - title: "公共裁定第9/2019号 — 公司及人员团体的居民身份 (Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_09_2019.pdf"
-    publisher: "LHDN"
+    publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2019-12-06"
 
 entity: "Proceedings of the Board under the Third Schedule"

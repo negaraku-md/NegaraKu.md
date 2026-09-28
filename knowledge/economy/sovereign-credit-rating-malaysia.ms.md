@@ -56,16 +56,16 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Moody's Affirms Malaysia's Sovereign Credit Rating At 'A3'; Outlook Stable (25 January 2025 affirmation)"
+  - title: "Moody's Sahkan Penarafan Kredit Kedaulatan Malaysia Pada 'A3'; Tinjauan Stabil (pengesahan 25 Januari 2025) (Moody's Affirms Malaysia's Sovereign Credit Rating At 'A3'; Outlook Stable (25 January 2025 affirmation))"
     url: "https://www.mof.gov.my/portal/en/news/press-release/moodys-affirms-malaysias-sovereign-credit-rating-at-a3-outlook-stable"
-    publisher: "Ministry of Finance Malaysia"
-  - title: "Sovereign Credit Rating Snapshot"
+    publisher: "Kementerian Kewangan Malaysia"
+  - title: "Gambaran Penarafan Kredit Kedaulatan (Sovereign Credit Rating Snapshot)"
     url: "https://www.investmalaysia.gov.my/invest-in-malaysia/sovereign-credit-rating-snapshot/"
     publisher: "InvestMalaysia (MIDA)"
-  - title: "S&P affirms Malaysia's credit rating with stable outlook, citing fiscal reforms and resilient growth"
+  - title: "S&P sahkan penarafan kredit Malaysia dengan tinjauan stabil, memetik reformasi fiskal dan pertumbuhan berdaya tahan (S&P affirms Malaysia's credit rating with stable outlook, citing fiscal reforms and resilient growth)"
     url: "https://theedgemalaysia.com/node/770912"
     publisher: "The Edge Malaysia"
-  - title: "Fitch affirms Malaysia's rating at 'BBB+' with stable outlook"
+  - title: "Fitch sahkan penarafan Malaysia pada 'BBB+' dengan tinjauan stabil (Fitch affirms Malaysia's rating at 'BBB+' with stable outlook)"
     url: "https://english.news.cn/asiapacific/20251208/9af87ab789c447c594645a308611f699/c.html"
     publisher: "Xinhua"
 

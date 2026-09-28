@@ -53,12 +53,12 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Soalan Lazim Berkaitan Pendidikan Swasta"
+  - title: "คำถามที่พบบ่อยเกี่ยวกับการศึกษาเอกชน (Soalan Lazim Berkaitan Pendidikan Swasta)"
     url: "https://www.moe.gov.my/bpswasta-lazim"
-    publisher: "Kementerian Pendidikan Malaysia (Bahagian Pendidikan Swasta)"
-  - title: "Unit Pendidikan Swasta JPN Johor — FAQ"
+    publisher: "กระทรวงศึกษาธิการมาเลเซีย (ฝ่ายการศึกษาเอกชน)"
+  - title: "หน่วยการศึกษาเอกชน กรมการศึกษารัฐยะโฮร์ — FAQ (Unit Pendidikan Swasta JPN Johor — FAQ)"
     url: "https://sites.google.com/view/upsjpnjohor/faq"
-    publisher: "Jabatan Pendidikan Negeri Johor"
+    publisher: "กรมการศึกษารัฐยะโฮร์"
 
 entity: "Pusat tuisyen"
 relations:

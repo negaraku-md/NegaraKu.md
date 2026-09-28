@@ -46,13 +46,13 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Contracts Act 1950 (Act 136), reprint incorporating all amendments up to 1 January 2006"
+  - title: "Contracts Act 1950 (Act 136)，重印本（纳入截至2006年1月1日的所有修订） (Contracts Act 1950 (Act 136), reprint incorporating all amendments up to 1 January 2006)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20136.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "总检察署"
     date: "2006-01-01"
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Employment Act 1955 (Act 265)，更新文本（截至2023年1月1日） (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "马来西亚半岛劳工局"
     date: "2023-01-01"
 
 entity: "Restraint of trade under s.28 of the Contracts Act 1950"

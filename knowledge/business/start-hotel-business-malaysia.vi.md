@@ -47,24 +47,24 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Tourism Industry Act 1992 (Act 482)"
+  - title: "Tourism Industry Act 1992 (Act 482) (Tourism Industry Act 1992 (Act 482))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1684998_BI/Act%20482%20(Muktamad).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Frequently Asked Questions — Tourist Accommodation Premises Registration"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
+  - title: "Câu hỏi Thường gặp — Đăng ký Cơ sở Lưu trú Du lịch (Frequently Asked Questions — Tourist Accommodation Premises Registration)"
     url: "https://www.motac.gov.my/en/frequently-asked-questions-faqs/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Hotel Grading (Star and Orchid Rating)"
+    publisher: "Bộ Du lịch, Nghệ thuật và Văn hóa (MOTAC)"
+  - title: "Xếp hạng Khách sạn (Xếp hạng Sao và Phong lan) (Hotel Grading (Star and Orchid Rating))"
     url: "https://www.motac.gov.my/en/kategori-semakan-new/hotel-grading/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Fire Certificate (Perakuan Bomba)"
+    publisher: "Bộ Du lịch, Nghệ thuật và Văn hóa (MOTAC)"
+  - title: "Giấy chứng nhận Phòng cháy (Perakuan Bomba) (Fire Certificate (Perakuan Bomba))"
     url: "https://www.bomba.gov.my/en/public/doing-business/perakuan-bomba"
-    publisher: "Fire and Rescue Department of Malaysia (BOMBA)"
-  - title: "Homestay & Kampungstay Experience Programme"
+    publisher: "Cục Cứu hỏa và Cứu hộ Malaysia (BOMBA)"
+  - title: "Chương trình Trải nghiệm Homestay & Kampungstay (Homestay & Kampungstay Experience Programme)"
     url: "https://www.motac.gov.my/en/homestay-malaysia-experience-program/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Companies Commission of Malaysia (SSM) — business and company registration"
+    publisher: "Bộ Du lịch, Nghệ thuật và Văn hóa (MOTAC)"
+  - title: "Ủy ban Công ty Malaysia (SSM) — đăng ký doanh nghiệp và công ty (Companies Commission of Malaysia (SSM) — business and company registration)"
     url: "https://www.ssm.com.my/"
-    publisher: "Companies Commission of Malaysia (SSM)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 relations: []
 related: []

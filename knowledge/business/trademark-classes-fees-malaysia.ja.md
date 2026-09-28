@@ -57,18 +57,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Trademark Forms and Fees (Trademarks Act 2019)"
+  - title: "商標の様式および料金 (Trademarks Act 2019) (Trademark Forms and Fees (Trademarks Act 2019))"
     url: "https://www.myipo.gov.my/trademark-forms-and-fees/"
-    publisher: "MyIPO"
-  - title: "Applying for a Trademark — classification of goods and services"
+    publisher: "マレーシア知的財産公社 (MyIPO)"
+  - title: "商標の出願 — 商品および役務の分類 (Applying for a Trademark — classification of goods and services)"
     url: "https://www.myipo.gov.my/applying-for-a-trademark/"
-    publisher: "MyIPO"
-  - title: "Trademarks Act 2019 (Act 815)"
+    publisher: "マレーシア知的財産公社 (MyIPO)"
+  - title: "Trademarks Act 2019 (Act 815) (Trademarks Act 2019 (Act 815))"
     url: "https://www.myipo.gov.my/wp-content/uploads/2025/09/Trademarks-Act-2019-Act-815.pdf"
-    publisher: "MyIPO"
-  - title: "Trademarks (Reduction of Fee) Regulations 2025, P.U. (A) 315/2025"
+    publisher: "マレーシア知的財産公社 (MyIPO)"
+  - title: "Trademarks (Reduction of Fee) Regulations 2025, P.U. (A) 315/2025 (Trademarks (Reduction of Fee) Regulations 2025, P.U. (A) 315/2025)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/3050811/PUA%20315.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "司法長官府"
     date: "2025-08-28"
 
 entity: "Nice classification and MyIPO trademark fees"

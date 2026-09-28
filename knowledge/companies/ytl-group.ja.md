@@ -54,22 +54,22 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "YTL Corp ends FY2024 on positive footing, pays 4.5 sen dividend"
+  - title: "YTL Corp、FY2024 を好調に終え、4.5 セン配当を支払い (YTL Corp ends FY2024 on positive footing, pays 4.5 sen dividend)"
     url: "https://theedgemalaysia.com/node/723704"
     publisher: "The Edge Malaysia"
-  - title: "YTL Power completes first Nvidia-powered AI data centre in Johor, YTL AI Cloud now operational"
+  - title: "YTL Power、ジョホールで Nvidia 搭載の初の AI データセンターを完成、YTL AI Cloud が稼働開始 (YTL Power completes first Nvidia-powered AI data centre in Johor, YTL AI Cloud now operational)"
     url: "https://theedgemalaysia.com/node/776142"
     publisher: "The Edge Malaysia"
-  - title: "Malayan Cement: explosive profit growth from infrastructure boom (FY2024 results)"
+  - title: "Malayan Cement: インフラ需要急増による利益の爆発的成長 (FY2024 決算) (Malayan Cement: explosive profit growth from infrastructure boom (FY2024 results))"
     url: "https://theedgemalaysia.com/node/772495"
     publisher: "The Edge Malaysia"
-  - title: "RM5.9 Billion Cross-Ministry Allocation To Keep Malaysia At Forefront Of AI Development - PM Anwar"
+  - title: "AI 開発でマレーシアを最前線に保つため RM5.9 Billion の省庁横断予算 - アンワル首相 (RM5.9 Billion Cross-Ministry Allocation To Keep Malaysia At Forefront Of AI Development - PM Anwar)"
     url: "https://www.bernama.com/en/news.php?id=2477137"
     publisher: "Bernama"
-  - title: "About YTL Power International Berhad"
+  - title: "YTL Power International Berhad について (About YTL Power International Berhad)"
     url: "https://www.ytlpowerinternational.com/about-us/about-ytl-power-international/"
     publisher: "YTL Power International Berhad"
-  - title: "Data Centers — YTL Power International Berhad"
+  - title: "データセンター — YTL Power International Berhad (Data Centers — YTL Power International Berhad)"
     url: "https://www.ytlpowerinternational.com/our-businesses/data-centers/"
     publisher: "YTL Power International Berhad"
 

@@ -51,18 +51,18 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG)"
+  - title: "தொழில்முறை சுற்றறிக்கை எண். 4/2004: பெற்றோர்-ஆசிரியர் சங்கம் (PIBG) அரசியலமைப்பு (Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG))"
     url: "https://jpwpkl.moe.gov.my/muat-turun/sektor-pengurusan-sekolah/surat-pekeliling-iktisas-surat-pekeliling/556-surat-pekeliling-ikhtisas-bil-4-2004-perlembagaan-persatuan-ibu-bapa-guru/file"
-    publisher: "Jabatan Pendidikan WP Kuala Lumpur, Kementerian Pendidikan Malaysia"
-  - title: "Surat Pekeliling Ikhtisas Bil. 5/2001: Batasan Kuasa Persatuan Ibu Bapa Dan Guru (PIBG) Di Sekolah"
+    publisher: "கோலாலம்பூர் கூட்டாட்சிப் பிரதேச கல்வித் திணைக்களம், மலேசியக் கல்வி அமைச்சு"
+  - title: "தொழில்முறை சுற்றறிக்கை எண். 5/2001: பள்ளியில் பெற்றோர்-ஆசிரியர் சங்கத்தின் (PIBG) அதிகார வரம்புகள் (Surat Pekeliling Ikhtisas Bil. 5/2001: Batasan Kuasa Persatuan Ibu Bapa Dan Guru (PIBG) Di Sekolah)"
     url: "https://www.moe.gov.my/surat-pekeliling-ikhtisas-bil-52001-batasan-kuasa-"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Surat Pekeliling Ikhtisas Bilangan 13 Tahun 2007: Pemansuhan Yuran Khas dan Garis Panduan Sistem Pakej Bayaran Tambahan"
+    publisher: "மலேசியக் கல்வி அமைச்சு"
+  - title: "தொழில்முறை சுற்றறிக்கை எண். 13, 2007: சிறப்புக் கட்டணங்கள் ரத்து மற்றும் கூடுதல் கட்டணத் தொகுப்பு முறைக்கான வழிகாட்டி (Surat Pekeliling Ikhtisas Bilangan 13 Tahun 2007: Pemansuhan Yuran Khas dan Garis Panduan Sistem Pakej Bayaran Tambahan)"
     url: "https://www.moe.gov.my/surat-pekeliling-ikhtisas-bilangan-13-tahun-2007-p"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Senarai Pekeliling Ikhtisas KPM"
+    publisher: "மலேசியக் கல்வி அமைச்சு"
+  - title: "KPM தொழில்முறை சுற்றறிக்கைகளின் பட்டியல் (Senarai Pekeliling Ikhtisas KPM)"
     url: "https://www.moe.gov.my/pekeliling"
-    publisher: "Kementerian Pendidikan Malaysia"
+    publisher: "மலேசியக் கல்வி அமைச்சு"
 
 entity: "Persatuan Ibu Bapa-Guru (PIBG)"
 relations:

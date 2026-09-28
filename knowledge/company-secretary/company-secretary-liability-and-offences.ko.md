@@ -48,13 +48,13 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777) — Reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777) — 2022년 8월 1일 기준 재발행본 (Companies Act 2016 (Act 777) — Reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "Common Offences Under Companies Act 2016 — Corporate Governance Offences"
+  - title: "Companies Act 2016 하의 일반적 위반 — 기업 지배구조 위반 (Common Offences Under Companies Act 2016 — Corporate Governance Offences)"
     url: "https://www.cwca.com.my/v3/wp-content/uploads/2024/04/SSM-P2-Common-Offences-under-CA2016-Part-2-03102018.pdf.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2018-10-03"
 
 relations:

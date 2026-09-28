@@ -69,19 +69,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016: Practice Note No. 3/2018 — Clarification on Application for Extension of Time"
+  - title: "Companies Act 2016：实务指引第3/2018号 — 关于延长时间申请的澄清 (Companies Act 2016: Practice Note No. 3/2018 — Clarification on Application for Extension of Time)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2018-07-26"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 259, 340 and 609"
+  - title: "Companies Act 2016 (Act 777)，截至2022年8月1日更新文本 — 第259、340及609条 (Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 259, 340 and 609)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Part M — Annual Returns and Financial Reporting (SSM FAQ)"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "M部分 — 年报及财务报告（SSM 常见问题） (Part M — Annual Returns and Financial Reporting (SSM FAQ))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20M.pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "收费表 — 公司注册 (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 entity: "Extension of time (EOT)"
 relations:

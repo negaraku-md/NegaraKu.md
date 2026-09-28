@@ -53,19 +53,19 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "Corporate Profile"
+  - title: "ข้อมูลบริษัท (Corporate Profile)"
     url: "https://www.genting.com/corporate_profile/"
     publisher: "Genting Berhad"
-  - title: "Corporate Profile"
+  - title: "ข้อมูลบริษัท (Corporate Profile)"
     url: "https://www.gentingplantations.com/corporate_profile/"
     publisher: "Genting Plantations Berhad"
-  - title: "Special Report: Genting details VGO rationale, plans for Las Vegas and Singapore operations"
+  - title: "รายงานพิเศษ: Genting เผยรายละเอียดเหตุผล VGO และแผนการดำเนินงานในลาสเวกัสและสิงคโปร์ (Special Report: Genting details VGO rationale, plans for Las Vegas and Singapore operations)"
     url: "https://theedgemalaysia.com/node/774749"
     publisher: "The Edge Malaysia"
-  - title: "Malaysia's only casino is in the political crosshairs as an Islamic party calls for its closure"
+  - title: "คาสิโนแห่งเดียวของมาเลเซียตกเป็นเป้าทางการเมือง เมื่อพรรคอิสลามเรียกร้องให้ปิดกิจการ (Malaysia's only casino is in the political crosshairs as an Islamic party calls for its closure)"
     url: "https://fortune.com/asia/2024/09/16/malaysia-only-casino-genting-targeted-islamic-political-party/"
     publisher: "Fortune"
-  - title: "Gambling in Malaysia: an overview"
+  - title: "การพนันในมาเลเซีย: ภาพรวม (Gambling in Malaysia: an overview)"
     url: "https://www.cambridge.org/core/journals/bjpsych-international/article/gambling-in-malaysia-an-overview/EE105ABC13FAA57A743EC766D2A3F179"
     publisher: "BJPsych International (Cambridge University Press)"
 

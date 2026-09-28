@@ -48,21 +48,21 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Tourism Industry Act 1992 (Act 482)"
+  - title: "Tourism Industry Act 1992 (Act 482) (Tourism Industry Act 1992 (Act 482))"
     url: "https://www.motac.gov.my/en/muat-turun/act-482-muktamad-tourism-industry-act-1992-en-2/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Travel Agency — Licence Application"
+    publisher: "観光・芸術・文化省 (MOTAC)"
+  - title: "旅行代理店 — ライセンス申請 (Travel Agency — Licence Application)"
     url: "https://www.motac.gov.my/en/services/license-application/travel-agency"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Travel Agency (TOBTAB) — Licensed Agency Registry and Categories"
+    publisher: "観光・芸術・文化省 (MOTAC)"
+  - title: "旅行代理店 (TOBTAB) — 認可代理店登録および区分 (Travel Agency (TOBTAB) — Licensed Agency Registry and Categories)"
     url: "https://www.motac.gov.my/en/kategori-semakan-new/travel-agency-tobtab/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Tourism Licensing and Enforcement Division"
+    publisher: "観光・芸術・文化省 (MOTAC)"
+  - title: "観光ライセンス・取締課 (Tourism Licensing and Enforcement Division)"
     url: "https://www.motac.gov.my/en/bahagian-dan-unit/tourism-licensing-and-enforcement-division/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Enforcement Action Against Unlicensed Tourism Activities"
+    publisher: "観光・芸術・文化省 (MOTAC)"
+  - title: "無許可の観光活動に対する取締り措置 (Enforcement Action Against Unlicensed Tourism Activities)"
     url: "https://www.motac.gov.my/en/enforcement-action-against-unlicensed-tourism-activities/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
+    publisher: "観光・芸術・文化省 (MOTAC)"
 
 entity: "Travel Agency Licence (MOTAC, Malaysia)"
 relations:

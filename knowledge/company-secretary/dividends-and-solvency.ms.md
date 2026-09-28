@@ -67,17 +67,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.112, 131–133"
+  - title: "Companies Act 2016 (Act 777), cetakan semula pada 1 Ogos 2022 — seksyen 112, 131–133 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.112, 131–133)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.213–218 directors' duties"
+  - title: "Companies Act 2016 (Act 777) — seksyen 213–218 tugas pengarah (Companies Act 2016 (Act 777) — ss.213–218 directors' duties)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — Schedule 1 Part XXII"
+  - title: "Income Tax Act 1967 (Act 53), cetakan semula pada 21 Mei 2024 — Jadual 1 Bahagian XXII (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — Schedule 1 Part XXII)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2024-05-21"
 
 entity: "Distribution to shareholders"

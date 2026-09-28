@@ -50,18 +50,18 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Company Tax Rate (SME 15% / 17% / 24%)"
+  - title: "Thuế suất Doanh nghiệp (DNVVN 15% / 17% / 24%) (Company Tax Rate (SME 15% / 17% / 24%))"
     url: "https://www.hasil.gov.my/en/syarikat/kadar-cukai-syarikat/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "MySST — Service Tax (Professional Services, Group G)"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
+  - title: "MySST — Thuế Dịch vụ (Dịch vụ Chuyên môn, Nhóm G) (MySST — Service Tax (Professional Services, Group G))"
     url: "https://mysst.customs.gov.my/"
-    publisher: "Royal Malaysian Customs Department (RMCD)"
-  - title: "Accountants Act 1967 and MIA Membership"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
+  - title: "Accountants Act 1967 và Tư cách Thành viên MIA (Accountants Act 1967 and MIA Membership)"
     url: "https://mia.org.my/regulatory-public-interest/accountants-act-1967/"
-    publisher: "Malaysian Institute of Accountants (MIA)"
-  - title: "Starting a Limited Liability Partnership (LLP)"
+    publisher: "Viện Kế toán Malaysia (MIA)"
+  - title: "Thành lập Hợp danh Trách nhiệm Hữu hạn (LLP) (Starting a Limited Liability Partnership (LLP))"
     url: "https://www.ssm.com.my/"
-    publisher: "Companies Commission of Malaysia (SSM)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Consultancy / Professional Services Firm (Malaysia)"
 relations:

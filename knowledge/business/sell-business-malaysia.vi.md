@@ -59,18 +59,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Stamp Act 1949 (Act 378), First Schedule and Third Schedule, text as at 1 January 2024"
+  - title: "Stamp Act 1949 (Act 378), Phụ lục Thứ nhất và Phụ lục Thứ ba, văn bản tính đến ngày 1 tháng 1 năm 2024 (Stamp Act 1949 (Act 378), First Schedule and Third Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
-    publisher: "Attorney General's Chambers"
-  - title: "Stamp Duty Exemptions and Relief — relief under section 15 and section 15A"
+    publisher: "Văn phòng Tổng Chưởng lý"
+  - title: "Miễn và Giảm thuế tem — giảm theo mục 15 và mục 15A (Stamp Duty Exemptions and Relief — relief under section 15 and section 15A)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
-    publisher: "LHDN"
-  - title: "Companies Act 2016 (Act 777), s.105 and s.106 — transfer and registration of securities"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
+  - title: "Companies Act 2016 (Act 777), mục 105 và mục 106 — chuyển nhượng và đăng ký chứng khoán (Companies Act 2016 (Act 777), s.105 and s.106 — transfer and registration of securities)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guideline on Application for Manufacturing Licence (ML)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Hướng dẫn Nộp đơn xin Giấy phép Sản xuất (ML) (Guideline on Application for Manufacturing Licence (ML))"
     url: "https://www.mida.gov.my/wp-content/uploads/2022/11/GD_ML_03112022.pdf"
-    publisher: "MIDA"
+    publisher: "Cục Phát triển Đầu tư Malaysia (MIDA)"
     date: "2022-11-03"
 
 entity: "Sale of a business"

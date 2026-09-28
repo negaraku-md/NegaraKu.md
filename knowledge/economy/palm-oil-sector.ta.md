@@ -35,12 +35,12 @@ sensitivity: "none"
 
 updated: 2026-07-10
 sources:
-  - title: "Malaysian Palm Oil Board (MPOB)"
+  - title: "மலேசிய பாமாயில் வாரியம் (MPOB) (Malaysian Palm Oil Board (MPOB))"
     url: "https://www.mpob.gov.my/"
-    publisher: "MPOB"
-  - title: "Malaysian Palm Oil Council (MPOC)"
+    publisher: "மலேசிய பாமாயில் வாரியம் (MPOB)"
+  - title: "மலேசிய பாமாயில் கவுன்சில் (MPOC) (Malaysian Palm Oil Council (MPOC))"
     url: "https://mpoc.org.my/"
-    publisher: "MPOC"
+    publisher: "மலேசிய பாமாயில் கவுன்சில் (MPOC)"
 
 entity: "Malaysia Palm Oil Sector"
 relations:

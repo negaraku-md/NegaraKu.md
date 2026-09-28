@@ -54,22 +54,22 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "IOI Group — History & Milestones"
+  - title: "IOI Group — 沿革とマイルストーン (IOI Group — History & Milestones)"
     url: "https://www.ioigroup.com/about-us/history-milestones/"
     publisher: "IOI Corporation Berhad"
-  - title: "IOI Group — Our Founder (Tan Sri Dato' Lee Shin Cheng, 1939–2019)"
+  - title: "IOI Group — 創業者 (Tan Sri Dato' Lee Shin Cheng, 1939–2019) (IOI Group — Our Founder (Tan Sri Dato' Lee Shin Cheng, 1939–2019))"
     url: "https://www.ioigroup.com/about-us/our-founder/"
     publisher: "IOI Corporation Berhad"
-  - title: "IOI Corp posts ninefold rise in 4Q profit, declares five sen dividend"
+  - title: "IOI Corp、第4四半期利益が9倍に増加、5セン配当を発表 (IOI Corp posts ninefold rise in 4Q profit, declares five sen dividend)"
     url: "https://www.ioigroup.com/news/ioi-corp-posts-ninefold-rise-in-4q-profit-declares-five-sen-dividend/"
     publisher: "IOI Corporation Berhad"
-  - title: "IOI Corporation Berhad (IOICORP, stock code 1961) — stock profile"
+  - title: "IOI Corporation Berhad (IOICORP、銘柄コード 1961) — 株式プロフィール (IOI Corporation Berhad (IOICORP, stock code 1961) — stock profile)"
     url: "https://www.klsescreener.com/v2/stocks/view/1961"
     publisher: "KLSE Screener"
-  - title: "IOI Corporation Bhd — Palm oil producer assessment"
+  - title: "IOI Corporation Bhd — パーム油生産者評価 (IOI Corporation Bhd — Palm oil producer assessment)"
     url: "https://www.spott.org/palm-oil/ioi-corporation-bhd/"
     publisher: "SPOTT, Zoological Society of London"
-  - title: "IOI Properties relists as a stronger entity"
+  - title: "IOI Properties、より強固な事業体として再上場 (IOI Properties relists as a stronger entity)"
     url: "https://theedgemalaysia.com/article/ioi-properties-relists-stronger-entity"
     publisher: "The Edge Malaysia"
 

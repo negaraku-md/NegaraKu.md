@@ -40,11 +40,11 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Financial Markets Investor Portal — reference rates and turnover"
+  - title: "Portal Pelabur Pasaran Kewangan — kadar rujukan dan pusing ganti (Financial Markets Investor Portal — reference rates and turnover)"
     url: "https://financialmarkets.bnm.gov.my/"
     publisher: "Bank Negara Malaysia"
     date: "2026-07-24"
-  - title: "Foreign Exchange Policy"
+  - title: "Dasar Pertukaran Asing (Foreign Exchange Policy)"
     url: "https://www.bnm.gov.my/"
     publisher: "Bank Negara Malaysia"
 

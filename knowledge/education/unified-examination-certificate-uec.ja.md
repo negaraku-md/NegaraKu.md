@@ -56,19 +56,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Explained: The debate on UEC recognition"
+  - title: "解説：UEC承認をめぐる論争 (Explained: The debate on UEC recognition)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/12/14/explained-the-debate-on-uec-recognition"
     publisher: "Free Malaysia Today"
-  - title: "What Is Dong Zong & Why Are They Fighting For UEC To Be Recognised?"
+  - title: "董総（Dong Zong）とは何か、なぜUECの承認を求めて闘っているのか？ (What Is Dong Zong & Why Are They Fighting For UEC To Be Recognised?)"
     url: "https://www.therakyatpost.com/news/2025/12/15/what-is-dong-zong-why-are-they-fighting-for-uec-to-be-recognised/"
     publisher: "The Rakyat Post"
-  - title: "Hampir 1 daripada 5 pelajar sekolah menengah Cina ikut sistem UEC"
+  - title: "華文中等学校の生徒のほぼ5人に1人がUEC制度で学ぶ (Hampir 1 daripada 5 pelajar sekolah menengah Cina ikut sistem UEC)"
     url: "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/07/16/hampir-1-daripada-5-pelajar-sekolah-menengah-cina-ikut-sistem-uec"
     publisher: "Free Malaysia Today"
-  - title: "UEC's Recognition Underscores the Robustness of the National Education System, a Guarantee of Our Shared Future"
+  - title: "UECの承認は国家教育制度の堅固さを裏付け、我々の共有する未来を保証する (UEC's Recognition Underscores the Robustness of the National Education System, a Guarantee of Our Shared Future)"
     url: "https://www.dongzong.my/en/339831/"
     publisher: "Dong Zong"
-  - title: "Dong Zong (United Chinese School Committees' Association of Malaysia)"
+  - title: "董総（マレーシア華校董事連合会総会） (Dong Zong (United Chinese School Committees' Association of Malaysia))"
     url: "https://www.dongzong.my/en/"
     publisher: "Dong Zong"
 

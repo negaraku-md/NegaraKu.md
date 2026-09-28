@@ -70,15 +70,15 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Contribution For Non-Malaysian Citizen Employees"
+  - title: "非马来西亚公民雇员的缴款 (Contribution For Non-Malaysian Citizen Employees)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/non-malaysian-citizen-employees"
-    publisher: "KWSP"
-  - title: "Third Schedule effective 1 October 2025"
+    publisher: "雇员公积金局 (KWSP)"
+  - title: "第三附表，2025年10月1日生效 (Third Schedule effective 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "KWSP"
-  - title: "Employer Mandatory Contribution"
+    publisher: "雇员公积金局 (KWSP)"
+  - title: "雇主强制性缴款 (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
-    publisher: "KWSP"
+    publisher: "雇员公积金局 (KWSP)"
 
 entity: "EPF contributions for non-Malaysian citizen employees"
 relations:

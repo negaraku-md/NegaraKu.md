@@ -40,14 +40,14 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "OPR data — Financial Markets Investor Portal"
+  - title: "Data OPR — Portal Pelabur Pasaran Kewangan (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
     publisher: "Bank Negara Malaysia"
     date: "2026-07-24"
-  - title: "OPR Decisions"
+  - title: "Keputusan OPR (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "Bank Negara Malaysia"
-  - title: "MPC Meeting Schedule 2026"
+  - title: "Jadual Mesyuarat MPC 2026 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "Bank Negara Malaysia"
 

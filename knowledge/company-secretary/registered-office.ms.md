@@ -81,16 +81,16 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), cetakan semula pada 1 Ogos 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Notification for a Change in the Registered Address — Section 46"
+  - title: "Pemberitahuan Perubahan Alamat Berdaftar — Section 46 (Notification for a Change in the Registered Address — Section 46)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/14._notification_for_a_change_in_the_registered_address_-_section_46.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Companies Act 2016 — rangka kerja perundangan (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "Registered Office"
 relations:

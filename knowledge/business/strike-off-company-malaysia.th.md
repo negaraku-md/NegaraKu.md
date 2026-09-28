@@ -75,20 +75,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.549–556"
+  - title: "Companies Act 2016 (Act 777) ฉบับพิมพ์ซ้ำ ณ วันที่ 1 สิงหาคม 2022 มาตรา 549–556 (Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.549–556)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "แนวทางการยื่นคำขอโดยกรรมการหรือสมาชิกเพื่อเพิกถอนชื่อบริษัทตามมาตรา 550 ของ Companies Act 2016 (Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20_Section%20549_190419.pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2019-04-19"
-  - title: "Guidelines for the Application to Strike a Company Off the Register under Section 550 during the Moratorium Period from 16 April 2025 to 30 September 2025"
+  - title: "แนวทางการยื่นคำขอเพิกถอนบริษัทออกจากทะเบียนตามมาตรา 550 ในช่วงพักการบังคับตั้งแต่ 16 เมษายน 2025 ถึง 30 กันยายน 2025 (Guidelines for the Application to Strike a Company Off the Register under Section 550 during the Moratorium Period from 16 April 2025 to 30 September 2025)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20During%20the%20Moratorium%20Period%20(16.4.2025)_Final.pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2025-04-16"
-  - title: "Practice Directive 1/2017 (Revised 1 October 2024) — late lodgement penalties and prescribed forms"
+  - title: "คำสั่งปฏิบัติ 1/2017 (แก้ไข 1 ตุลาคม 2024) — ค่าปรับการยื่นล่าช้าและแบบฟอร์มที่กำหนด (Practice Directive 1/2017 (Revised 1 October 2024) — late lodgement penalties and prescribed forms)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2024-10-01"
 
 entity: "Striking off under section 550"

@@ -54,19 +54,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Malaysia records RM45.04b in halal product exports from January to September 2024 – MITI"
+  - title: "말레이시아, 2024년 1월부터 9월까지 할랄 제품 수출 RM450억 4천만 기록 – MITI (Malaysia records RM45.04b in halal product exports from January to September 2024 – MITI)"
     url: "https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Halal product exports surpassed RM61bil in 2024, says Miti"
+    publisher: "말레이시아 투자개발청 (MIDA)"
+  - title: "2024년 할랄 제품 수출이 RM610억을 넘었다고 Miti 밝혀 (Halal product exports surpassed RM61bil in 2024, says Miti)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/04/30/halal-product-exports-surpassed-rm61bil-in-2024-says-miti"
-    publisher: "Free Malaysia Today (laporan pengumuman MITI)"
-  - title: "Islamic Finance and the Development of Malaysia's Halal Economy"
+    publisher: "Free Malaysia Today (MITI 발표 보도)"
+  - title: "이슬람 금융과 말레이시아 할랄 경제의 발전 (Islamic Finance and the Development of Malaysia's Halal Economy)"
     url: "https://www.mof.gov.my/portal/en/news/speech/islamic-finance-and-the-development-of-malaysia-s-halal-economy"
-    publisher: "Ministry of Finance Malaysia (MOF)"
-  - title: "Economic Census 2023: Halal Statistics"
+    publisher: "말레이시아 재무부 (MOF)"
+  - title: "경제 센서스 2023: 할랄 통계 (Economic Census 2023: Halal Statistics)"
     url: "https://www.dosm.gov.my/portal-main/release-content/economic-census-2023-halal-statistics"
-    publisher: "Department of Statistics Malaysia (DOSM)"
-  - title: "Govt to form halal commission to drive RM80bil export target"
+    publisher: "말레이시아 통계청 (DOSM)"
+  - title: "정부, RM800억 수출 목표 견인 위해 할랄 위원회 설립 예정 (Govt to form halal commission to drive RM80bil export target)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/07/31/govt-to-form-halal-commission-to-drive-rm80bil-export-target"
     publisher: "Free Malaysia Today"
 

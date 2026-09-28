@@ -46,16 +46,16 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "FAQ — Implementation of the Electronic Beneficial Ownership System (e-BOS)"
+  - title: "常见问题 — 电子受益所有权系统 (e-BOS) 的实施 (FAQ — Implementation of the Electronic Beneficial Ownership System (e-BOS))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQ%20BO%20(OPERATION%20BI).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 9/2024 — Lodgement of Beneficial Ownership Information under the Companies Act 2016 through e-BOS"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "实务指令第9/2024号 — 通过 e-BOS 依据 Companies Act 2016 呈报受益所有权信息 (Practice Directive No. 9/2024 — Lodgement of Beneficial Ownership Information under the Companies Act 2016 through e-BOS)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%209%202024%20(Final)%20Uploaded%20version.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2024-05-13"
-  - title: "Beneficial Ownership Information — product page"
+  - title: "受益所有权信息 — 产品页面 (Beneficial Ownership Information — product page)"
     url: "https://www.ssm.com.my/Pages/Product/Beneficial-Ownership-Information.aspx"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 entity: "e-BOS"
 relations:

@@ -51,19 +51,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Striking Off a Company Under Section 549(a) and 550 of the Companies Act 2016"
+  - title: "การขีดชื่อบริษัทออกภายใต้มาตรา 549(a) และ 550 ของ Companies Act 2016 (Striking Off a Company Under Section 549(a) and 550 of the Companies Act 2016)"
     url: "https://mahwengkwai.com/striking-off-a-company-under-section-549a-and-550-of-the-companies-act-2016/"
     publisher: "Mah Weng Kwai & Associates"
-  - title: "Application to Reinstate Company Name under Section 555(1) of the Companies Act 2016"
+  - title: "การยื่นขอคืนชื่อบริษัทภายใต้มาตรา 555(1) ของ Companies Act 2016 (Application to Reinstate Company Name under Section 555(1) of the Companies Act 2016)"
     url: "https://www.bestar-my.com/post/application-to-reinst-ate-company-under-section-555-1-of-the-companies-act-2016"
     publisher: "Bestar"
-  - title: "How to Reinstate a Struck-Off Company in Malaysia"
+  - title: "วิธีคืนชื่อบริษัทที่ถูกขีดชื่อออกในมาเลเซีย (How to Reinstate a Struck-Off Company in Malaysia)"
     url: "https://icomsec.com.my/reinstate-struck-off-company-malaysia/"
     publisher: "iComSec"
-  - title: "SSM Guidelines for Application to Reinstate Company Name (issued 30 January 2023)"
+  - title: "แนวปฏิบัติ SSM สำหรับการยื่นขอคืนชื่อบริษัท (ออกเมื่อ 30 มกราคม 2023) (SSM Guidelines for Application to Reinstate Company Name (issued 30 January 2023))"
     url: "https://maicsa.org.my/resources/technical-research/technical-announcements/2023/230210-ssm-guidelines-for-application-to-reinstate-company-name"
     publisher: "Chartered Secretaries Malaysia (MAICSA)"
-  - title: "SSM Updates Guideline for Reinstating Name of Company that has been Struck Off"
+  - title: "SSM ปรับปรุงแนวปฏิบัติสำหรับการคืนชื่อบริษัทที่ถูกขีดชื่อออก (SSM Updates Guideline for Reinstating Name of Company that has been Struck Off)"
     url: "https://www.tacpro.com.my/post/ssm-updates-guideline-for-reinstating-name-of-company-that-has-been-struck-off"
     publisher: "TAC Professional (Thang & Co.)"
 

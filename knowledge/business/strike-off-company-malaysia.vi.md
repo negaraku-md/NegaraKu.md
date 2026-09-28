@@ -74,20 +74,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.549–556"
+  - title: "Companies Act 2016 (Act 777), bản in lại, tính đến ngày 1 tháng 8 năm 2022, mục 549–556 (Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.549–556)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Hướng dẫn về việc Giám đốc hoặc Thành viên nộp đơn Xóa tên Công ty theo Mục 550 của Companies Act 2016 (Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20_Section%20549_190419.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2019-04-19"
-  - title: "Guidelines for the Application to Strike a Company Off the Register under Section 550 during the Moratorium Period from 16 April 2025 to 30 September 2025"
+  - title: "Hướng dẫn Nộp đơn Xóa Công ty khỏi Sổ đăng ký theo Mục 550 trong Thời gian Hoãn từ ngày 16 tháng 4 năm 2025 đến ngày 30 tháng 9 năm 2025 (Guidelines for the Application to Strike a Company Off the Register under Section 550 during the Moratorium Period from 16 April 2025 to 30 September 2025)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20During%20the%20Moratorium%20Period%20(16.4.2025)_Final.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2025-04-16"
-  - title: "Practice Directive 1/2017 (Revised 1 October 2024) — late lodgement penalties and prescribed forms"
+  - title: "Chỉ thị Thực hành 1/2017 (Sửa đổi ngày 1 tháng 10 năm 2024) — phạt nộp muộn và biểu mẫu quy định (Practice Directive 1/2017 (Revised 1 October 2024) — late lodgement penalties and prescribed forms)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2024-10-01"
 
 entity: "Striking off under section 550"

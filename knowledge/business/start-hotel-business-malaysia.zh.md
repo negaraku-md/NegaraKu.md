@@ -48,24 +48,24 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Tourism Industry Act 1992 (Act 482)"
+  - title: "Tourism Industry Act 1992 (Act 482) (Tourism Industry Act 1992 (Act 482))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1684998_BI/Act%20482%20(Muktamad).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Frequently Asked Questions — Tourist Accommodation Premises Registration"
+    publisher: "马来西亚总检察署"
+  - title: "常见问题 — 旅游住宿场所注册 (Frequently Asked Questions — Tourist Accommodation Premises Registration)"
     url: "https://www.motac.gov.my/en/frequently-asked-questions-faqs/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Hotel Grading (Star and Orchid Rating)"
+    publisher: "旅游、艺术及文化部 (MOTAC)"
+  - title: "酒店评级 (星级与兰花评级) (Hotel Grading (Star and Orchid Rating))"
     url: "https://www.motac.gov.my/en/kategori-semakan-new/hotel-grading/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Fire Certificate (Perakuan Bomba)"
+    publisher: "旅游、艺术及文化部 (MOTAC)"
+  - title: "消防证书 (Perakuan Bomba) (Fire Certificate (Perakuan Bomba))"
     url: "https://www.bomba.gov.my/en/public/doing-business/perakuan-bomba"
-    publisher: "Fire and Rescue Department of Malaysia (BOMBA)"
-  - title: "Homestay & Kampungstay Experience Programme"
+    publisher: "马来西亚消防及拯救局 (BOMBA)"
+  - title: "民宿与乡村住宿体验计划 (Homestay & Kampungstay) (Homestay & Kampungstay Experience Programme)"
     url: "https://www.motac.gov.my/en/homestay-malaysia-experience-program/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Companies Commission of Malaysia (SSM) — business and company registration"
+    publisher: "旅游、艺术及文化部 (MOTAC)"
+  - title: "马来西亚公司委员会 (SSM) — 商业与公司注册 (Companies Commission of Malaysia (SSM) — business and company registration)"
     url: "https://www.ssm.com.my/"
-    publisher: "Companies Commission of Malaysia (SSM)"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 relations: []
 related: []

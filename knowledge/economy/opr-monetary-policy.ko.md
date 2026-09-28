@@ -40,16 +40,16 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "OPR data — Financial Markets Investor Portal"
+  - title: "OPR(익일물 정책금리) 데이터 — 금융시장 투자자 포털 (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
-    publisher: "Bank Negara Malaysia"
+    publisher: "말레이시아 국립은행(방크 느가라 말레이시아)"
     date: "2026-07-24"
-  - title: "OPR Decisions"
+  - title: "OPR(익일물 정책금리) 결정 (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
-    publisher: "Bank Negara Malaysia"
-  - title: "MPC Meeting Schedule 2026"
+    publisher: "말레이시아 국립은행(방크 느가라 말레이시아)"
+  - title: "2026 MPC(통화정책위원회) 회의 일정 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
-    publisher: "Bank Negara Malaysia"
+    publisher: "말레이시아 국립은행(방크 느가라 말레이시아)"
 
 entity: "Overnight Policy Rate"
 relations:

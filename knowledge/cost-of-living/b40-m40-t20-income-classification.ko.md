@@ -50,12 +50,12 @@ verificationNeeded:
   - "정부가 보조금 대상 선정을 위해 더 세분화된 구분(예: T15)을 공식적으로 사용하는지 여부 — 인용된 DOSM 보고서에 공식 출처가 없어 원래 주장은 삭제함. 다시 추가하기 전 출처를 확인할 것."
 updated: 2026-08-08
 sources:
-  - title: "Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08)"
+  - title: "가계소득조사 보고서, 말레이시아 및 주 2024 (2025-10-08 발표) (Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
-  - title: "Household Income Survey Report, Malaysia & States 2022"
+    publisher: "말레이시아 통계청 (DOSM)"
+  - title: "가계소득조사 보고서, 말레이시아 및 주 2022 (Household Income Survey Report, Malaysia & States 2022)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+    publisher: "말레이시아 통계청 (DOSM)"
 
 entity: "Jabatan Perangkaan Malaysia (DOSM)"
 wikidata: "Q7354425"

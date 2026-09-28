@@ -55,20 +55,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Garis Panduan Penubuhan Sekolah Antarabangsa (International School Establishment Guideline)"
+  - title: "국제학교 설립 지침 (Garis Panduan Penubuhan Sekolah Antarabangsa (International School Establishment Guideline))"
     url: "https://jpwpkl.moe.gov.my/muat-turun/sektor-pengurusan-sekolah/unit-pendidikan-swasta/garis-panduan-penubuhan-institut-pendidikan-swasta/91-gp-a3-penubuhan-sekolah-antarabangsa/file"
-    publisher: "Bahagian Pendidikan Swasta, Kementerian Pendidikan Malaysia (Private Education Division, Ministry of Education Malaysia)"
+    publisher: "사립교육부문, 말레이시아 교육부"
     date: "2021-02-04"
-  - title: "Laws of Malaysia, Act 550 — Education Act 1996"
+  - title: "말레이시아 법령, 제550호법 — 1996년 교육법 (Laws of Malaysia, Act 550 — Education Act 1996)"
     url: "https://www.moe.gov.my/storage/files/shares/Dasar/Kurikulum%20Kebangsaan/Akta%20550%20-%20Akta%20Pendidikan%201996.pdf"
-    publisher: "Kementerian Pendidikan Malaysia (KPM) / Pesuruhjaya Penyemak Undang-Undang"
-  - title: "Semakan Kadar Cukai Jualan, Peluasan Skop Cukai Perkhidmatan Berkuat Kuasa 1 Julai"
+    publisher: "말레이시아 교육부 (KPM) / 법률개정위원"
+  - title: "판매세율 검토, 서비스세 범위 확대 7월 1일 시행 (Semakan Kadar Cukai Jualan, Peluasan Skop Cukai Perkhidmatan Berkuat Kuasa 1 Julai)"
     url: "https://www.mof.gov.my/portal/ms/berita/akhbar/semakan-kadar-cukai-jualan-peluasan-skop-cukai-perkhidmatan-berkuat-kuasa-1-julai-mof"
-    publisher: "Kementerian Kewangan Malaysia (Ministry of Finance Malaysia)"
+    publisher: "말레이시아 재무부"
     date: "2025-06-09"
-  - title: "FAQ: Expansion of Service Tax Scope 2025"
+  - title: "FAQ: 서비스세 범위 확대 2025 (FAQ: Expansion of Service Tax Scope 2025)"
     url: "https://mysst.customs.gov.my/ms/faq-expansion-of-service-tax-scope-2025/"
-    publisher: "Jabatan Kastam Diraja Malaysia (Royal Malaysian Customs Department) — MySST"
+    publisher: "말레이시아 왕립관세청 — MySST"
 
 entity: "International schools (Malaysia)"
 relations:

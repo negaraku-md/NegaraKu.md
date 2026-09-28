@@ -60,18 +60,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Stamp Act 1949 (Act 378), First Schedule and Third Schedule, text as at 1 January 2024"
+  - title: "Stamp Act 1949 (Act 378), 제1부표 및 제3부표, 2024년 1월 1일 기준 조문 (Stamp Act 1949 (Act 378), First Schedule and Third Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
-    publisher: "Attorney General's Chambers"
-  - title: "Stamp Duty Exemptions and Relief — relief under section 15 and section 15A"
+    publisher: "법무장관실"
+  - title: "인지세 면제 및 경감 — 제15조 및 제15A조에 따른 경감 (Stamp Duty Exemptions and Relief — relief under section 15 and section 15A)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
-    publisher: "LHDN"
-  - title: "Companies Act 2016 (Act 777), s.105 and s.106 — transfer and registration of securities"
+    publisher: "말레이시아 국세청 (LHDN)"
+  - title: "Companies Act 2016 (Act 777), 제105조 및 제106조 — 증권의 양도 및 등록 (Companies Act 2016 (Act 777), s.105 and s.106 — transfer and registration of securities)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guideline on Application for Manufacturing Licence (ML)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "제조 라이선스 (ML) 신청 지침 (Guideline on Application for Manufacturing Licence (ML))"
     url: "https://www.mida.gov.my/wp-content/uploads/2022/11/GD_ML_03112022.pdf"
-    publisher: "MIDA"
+    publisher: "말레이시아 투자개발청 (MIDA)"
     date: "2022-11-03"
 
 entity: "Sale of a business"

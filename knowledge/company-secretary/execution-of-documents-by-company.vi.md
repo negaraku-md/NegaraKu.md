@@ -56,19 +56,19 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777) — full text (nota permulaan kuat kuasa: 31 Januari 2017, P.U. (B) 50/2017)"
+  - title: "Companies Act 2016 (Act 777) — toàn văn (ghi chú ngày bắt đầu hiệu lực: 31 tháng 1 năm 2017, P.U. (B) 50/2017) (Companies Act 2016 (Act 777) — full text (nota permulaan kuat kuasa: 31 Januari 2017, P.U. (B) 50/2017))"
     url: "https://www.investmalaysia.gov.my/media/isofddz0/companies-act-2016.pdf"
     publisher: "InvestMalaysia (MIDA) / Laws of Malaysia"
-  - title: "FAQs on Companies Act 2016 and Transitional Issues — Part G: Execution of Documents"
+  - title: "Câu hỏi thường gặp về Companies Act 2016 và Vấn đề Chuyển tiếp — Phần G: Ký kết Tài liệu (FAQs on Companies Act 2016 and Transitional Issues — Part G: Execution of Documents)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQS-ON-COMPANIES-ACT-2016-AND-TRANSITIONAL-ISSUES/part_g.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Execution of Document Under The New Companies Act 2016"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Ký kết Tài liệu theo Companies Act 2016 Mới (Execution of Document Under The New Companies Act 2016)"
     url: "https://www.azamlaw.com/publications/?a=18"
     publisher: "Azam & Rahman Advocates & Solicitors"
-  - title: "Signing a Contract on Behalf of the Company"
+  - title: "Ký Hợp đồng Thay mặt Công ty (Signing a Contract on Behalf of the Company)"
     url: "https://www.thomasphilip.com.my/articles/signing-a-contract-on-behalf-of-the-company/"
     publisher: "Thomas Philip Advocates & Solicitors"
-  - title: "Uncertainty in Signing Documents under the Companies Act 2016?"
+  - title: "Sự Bất định khi Ký Tài liệu theo Companies Act 2016? (Uncertainty in Signing Documents under the Companies Act 2016?)"
     url: "https://themalaysianlawyer.com/2017/03/07/uncertainty-in-signing-documents-under-the-companies-act-2016/"
     publisher: "The Malaysian Lawyer (LEE & POH Partnership)"
 

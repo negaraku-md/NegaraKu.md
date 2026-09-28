@@ -40,16 +40,16 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Malaysia's Trade Hits Historic High in January 2026; E&E Exports Continue to Lead Growth"
+  - title: "말레이시아 무역, 2026년 1월 사상 최고치 기록; E&E 수출이 계속 성장 주도 (Malaysia's Trade Hits Historic High in January 2026; E&E Exports Continue to Lead Growth)"
     url: "https://www.investmalaysia.gov.my/resources/latest-announcements/malaysias-trade-hits-historic-high-in-january-2026-ee-exports-continue-to-lead-growth/"
-    publisher: "MIDA / InvestMalaysia"
+    publisher: "말레이시아 투자개발청 (MIDA) / InvestMalaysia"
     date: "2026-02-20"
-  - title: "Monthly External Trade Statistics"
+  - title: "월간 대외 무역 통계 (Monthly External Trade Statistics)"
     url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026"
-    publisher: "DOSM"
-  - title: "Ministry of Investment, Trade and Industry (MITI)"
+    publisher: "말레이시아 통계청 (DOSM)"
+  - title: "투자통상산업부 (MITI) (Ministry of Investment, Trade and Industry (MITI))"
     url: "https://www.miti.gov.my/"
-    publisher: "MITI"
+    publisher: "투자통상산업부 (MITI)"
 
 entity: "Malaysia electronics and semiconductor sector"
 relations:

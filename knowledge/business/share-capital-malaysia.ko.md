@@ -85,18 +85,18 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 2022년 8월 1일 기준 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "수수료표 — 회사 등록 (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "Companies Act 2016 — 법적 체계 (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
-  - title: "Perdagangan Pengedaran (Distributive Trade)"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "유통업 (Perdagangan Pengedaran (Distributive Trade))"
     url: "https://www.kpdn.gov.my/ms/orang-awam/14-perdagangan/perniagaan/perdagangan-pengedaran"
-    publisher: "KPDN"
+    publisher: "국내통상생활비부 (KPDN)"
 
 entity: "Share capital (Malaysian company)"
 relations:

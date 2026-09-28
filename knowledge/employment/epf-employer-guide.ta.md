@@ -75,19 +75,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Employer Mandatory Contribution"
+  - title: "முதலாளியின் கட்டாய பங்களிப்பு (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
-    publisher: "KWSP"
-  - title: "EPF Act 1991 Third Schedule"
+    publisher: "ஊழியர் சேமநல நிதி (KWSP)"
+  - title: "EPF Act 1991 மூன்றாம் அட்டவணை (EPF Act 1991 Third Schedule)"
     url: "https://www.kwsp.gov.my/en/epf-act-1991-third-schedule"
-    publisher: "KWSP"
+    publisher: "ஊழியர் சேமநல நிதி (KWSP)"
     date: "2026-05-26"
-  - title: "Third Schedule effective 1 October 2025"
+  - title: "மூன்றாம் அட்டவணை, 2025 அக்டோபர் 1 முதல் அமல் (Third Schedule effective 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "KWSP"
-  - title: "Contribution For Non-Malaysian Citizen Employees"
+    publisher: "ஊழியர் சேமநல நிதி (KWSP)"
+  - title: "மலேசியக் குடிமக்கள் அல்லாத ஊழியர்களுக்கான பங்களிப்பு (Contribution For Non-Malaysian Citizen Employees)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/non-malaysian-citizen-employees"
-    publisher: "KWSP"
+    publisher: "ஊழியர் சேமநல நிதி (KWSP)"
 
 entity: "EPF employer contributions"
 relations:

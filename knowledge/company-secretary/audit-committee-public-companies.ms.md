@@ -61,24 +61,24 @@ revisions:
 
 updated: 2026-07-21
 sources:
-  - title: "Main Market Listing Requirements, Chapter 15 — Corporate Governance"
+  - title: "Keperluan Penyenaraian Pasaran Utama, Bab 15 — Tadbir Urus Korporat (Main Market Listing Requirements, Chapter 15 — Corporate Governance)"
     url: "https://www.bursamalaysia.com/sites/5bb54be15f36ca0af339077a/content_entry5ce3b50239fba2627b2864be/5ce3b5ce5b711a163beae1bd/files/MAIN_Chap15_COI_Ors_Amendments_1July2023_.pdf"
     publisher: "Bursa Malaysia"
     date: "2023-07-01"
-  - title: "ACE Market Listing Requirements, Chapter 15 — Corporate Governance"
+  - title: "Keperluan Penyenaraian Pasaran ACE, Bab 15 — Tadbir Urus Korporat (ACE Market Listing Requirements, Chapter 15 — Corporate Governance)"
     url: "https://www.bursamalaysia.com/sites/5bb54be15f36ca0af339077a/content_entry5ce3b50239fba2627b2864be/5ce3ba6f5b711a155e950749/files/ACE_Chap15_COI_Ors_Amendments__1July2023_.pdf"
     publisher: "Bursa Malaysia"
     date: "2023-07-01"
-  - title: "Malaysian Code on Corporate Governance, as at 28 April 2021"
+  - title: "Kod Tadbir Urus Korporat Malaysia, setakat 28 April 2021 (Malaysian Code on Corporate Governance, as at 28 April 2021)"
     url: "https://www.sc.com.my/regulation/corporate-governance"
-    publisher: "Securities Commission Malaysia"
+    publisher: "Suruhanjaya Sekuriti Malaysia"
     date: "2021-04-28"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), cetakan semula pada 1 Ogos 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
   - title: "Companies (Amendment) Act 2024 (Act A1701)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "Audit committee of a Malaysian public company"
 relations:

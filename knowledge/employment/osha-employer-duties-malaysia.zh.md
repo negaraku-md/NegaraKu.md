@@ -94,17 +94,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Occupational Safety and Health Act 1994 (Act 514), updated text of reprint as at 1 June 2024"
+  - title: "Occupational Safety and Health Act 1994 (Act 514)，重印本更新文本（截至2024年6月1日） (Occupational Safety and Health Act 1994 (Act 514), updated text of reprint as at 1 June 2024)"
     url: "https://dosh.gov.my/wp-content/uploads/2025/01/Occupational-Safety-and-Health-Act-1994-Act-514_Reprint-Version-1.6.2024_English.pdf"
-    publisher: "Department of Occupational Safety and Health"
+    publisher: "职业安全与卫生局"
     date: "2024-06-01"
-  - title: "Occupational Safety and Health Act 1994 (Act 514) Reprint Version (1.6.2024) — download page"
+  - title: "Occupational Safety and Health Act 1994 (Act 514) 重印版（1.6.2024）— 下载页面 (Occupational Safety and Health Act 1994 (Act 514) Reprint Version (1.6.2024) — download page)"
     url: "https://dosh.gov.my/en/sdm_downloads/occupational-safety-and-health-act-1994-act-514_reprint-version-1-6-2024/"
-    publisher: "Department of Occupational Safety and Health"
+    publisher: "职业安全与卫生局"
     date: "2025-01-01"
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Employment Act 1955 (Act 265)，更新文本（截至2023年1月1日） (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "马来西亚半岛劳工局"
     date: "2023-01-01"
 
 entity: "Employer duties under the Occupational Safety and Health Act 1994"

@@ -61,9 +61,9 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Employment Act 1955 (Act 265), 2023 ஜனவரி 1 நிலவரப்படி புதுப்பிக்கப்பட்ட உரை (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "மலேசியத் தீபகற்பத் தொழிலாளர் துறை (JTKSM)"
     date: "2023-01-01"
 
 entity: "Flexible working arrangement under Part XIIC of the Employment Act 1955"

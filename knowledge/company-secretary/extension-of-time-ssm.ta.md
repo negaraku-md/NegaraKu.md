@@ -68,19 +68,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016: Practice Note No. 3/2018 — Clarification on Application for Extension of Time"
+  - title: "Companies Act 2016: நடைமுறை குறிப்பு எண். 3/2018 — கால நீட்டிப்பு விண்ணப்பம் தொடர்பான தெளிவுபடுத்தல் (Companies Act 2016: Practice Note No. 3/2018 — Clarification on Application for Extension of Time)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2018-07-26"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 259, 340 and 609"
+  - title: "Companies Act 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி புதுப்பிக்கப்பட்ட உரை — பிரிவுகள் 259, 340 மற்றும் 609 (Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 259, 340 and 609)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Part M — Annual Returns and Financial Reporting (SSM FAQ)"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "பகுதி M — வருடாந்திர அறிக்கைகள் மற்றும் நிதி அறிக்கையிடல் (SSM FAQ) (Part M — Annual Returns and Financial Reporting (SSM FAQ))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20M.pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "கட்டண அட்டவணை — நிறுவனப் பதிவு (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Extension of time (EOT)"
 relations:

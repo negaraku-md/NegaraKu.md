@@ -56,16 +56,16 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Moody's Affirms Malaysia's Sovereign Credit Rating At 'A3'; Outlook Stable (25 January 2025 affirmation)"
+  - title: "穆迪确认马来西亚主权信用评级为'A3'；展望稳定（2025年1月25日确认） (Moody's Affirms Malaysia's Sovereign Credit Rating At 'A3'; Outlook Stable (25 January 2025 affirmation))"
     url: "https://www.mof.gov.my/portal/en/news/press-release/moodys-affirms-malaysias-sovereign-credit-rating-at-a3-outlook-stable"
-    publisher: "Ministry of Finance Malaysia"
-  - title: "Sovereign Credit Rating Snapshot"
+    publisher: "马来西亚财政部"
+  - title: "主权信用评级概览 (Sovereign Credit Rating Snapshot)"
     url: "https://www.investmalaysia.gov.my/invest-in-malaysia/sovereign-credit-rating-snapshot/"
     publisher: "InvestMalaysia (MIDA)"
-  - title: "S&P affirms Malaysia's credit rating with stable outlook, citing fiscal reforms and resilient growth"
+  - title: "标普确认马来西亚信用评级并维持稳定展望，理由是财政改革与稳健增长 (S&P affirms Malaysia's credit rating with stable outlook, citing fiscal reforms and resilient growth)"
     url: "https://theedgemalaysia.com/node/770912"
     publisher: "The Edge Malaysia"
-  - title: "Fitch affirms Malaysia's rating at 'BBB+' with stable outlook"
+  - title: "惠誉确认马来西亚评级为'BBB+'，展望稳定 (Fitch affirms Malaysia's rating at 'BBB+' with stable outlook)"
     url: "https://english.news.cn/asiapacific/20251208/9af87ab789c447c594645a308611f699/c.html"
     publisher: "Xinhua"
 

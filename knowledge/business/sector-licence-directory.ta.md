@@ -49,18 +49,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Malaysia Federal Legislation portal"
+  - title: "மலேசிய கூட்டாட்சி சட்டவாக்கப் போர்ட்டல் (Malaysia Federal Legislation portal)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers"
-  - title: "BLESS — Latar Belakang"
+    publisher: "அட்டர்னி ஜெனரல் அலுவலகம்"
+  - title: "BLESS — பின்னணி (BLESS — Latar Belakang)"
     url: "https://portal.bless.gov.my/latar-belakang/"
-    publisher: "Ministry of Entrepreneur Development and Cooperatives (KUSKOP)"
-  - title: "MalaysiaBiz — Business Licensing"
+    publisher: "தொழில்முனைவோர் மேம்பாடு மற்றும் கூட்டுறவு அமைச்சு (KUSKOP)"
+  - title: "MalaysiaBiz — வணிக உரிமம் (MalaysiaBiz — Business Licensing)"
     url: "https://malaysiabiz.gov.my/en/services/business-licensing"
     publisher: "MalaysiaBiz"
-  - title: "Federal Constitution, Ninth Schedule — Legislative Lists"
+  - title: "கூட்டாட்சி அரசியலமைப்பு, ஒன்பதாம் அட்டவணை — சட்டமியற்றல் பட்டியல்கள் (Federal Constitution, Ninth Schedule — Legislative Lists)"
     url: "https://sagc.sabah.gov.my/sites/default/files/law/NinthSchedule.pdf"
-    publisher: "State Attorney-General's Chambers, Sabah"
+    publisher: "சபா மாநில அட்டர்னி ஜெனரல் அலுவலகம்"
 
 entity: "Malaysian sector regulators and licensing statutes"
 relations:

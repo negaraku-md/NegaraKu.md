@@ -80,17 +80,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.31, 33, 316, 340"
+  - title: "Companies Act 2016 (Act 777), bản in lại tính đến ngày 1 tháng 8 năm 2022 — các điều 31, 33, 316, 340 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.31, 33, 316, 340)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Practice Note No. 3/2018 — Application for Extension of Time under Sections 259, 260 and 340"
+  - title: "Bản Lưu ý Thực hành số 3/2018 — Đơn xin gia hạn thời gian theo các Điều 259, 260 và 340 (Practice Note No. 3/2018 — Application for Extension of Time under Sections 259, 260 and 340)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2018-01-01"
-  - title: "Companies Act 2016 (Act 777) — ss.258, 259 circulation and lodgement of financial statements"
+  - title: "Companies Act 2016 (Act 777) — các điều 258, 259 việc lưu hành và nộp báo cáo tài chính (Companies Act 2016 (Act 777) — ss.258, 259 circulation and lodgement of financial statements)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2022-08-01"
 
 entity: "Annual general meeting"

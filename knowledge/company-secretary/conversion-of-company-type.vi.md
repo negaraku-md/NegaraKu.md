@@ -49,13 +49,13 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Guidelines for Conversion of Company Status"
+  - title: "Hướng dẫn Chuyển đổi Trạng thái Công ty (Guidelines for Conversion of Company Status)"
     url: "https://ssm.com.my/Pages/Legal_Framework/GUIDELINES/gl8_bi_guidelines_for_conversion_of_company_status_201117_0.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Conversion of Company Status"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Chuyển đổi Trạng thái Công ty (Conversion of Company Status)"
     url: "https://chooi.com.my/conversion-of-company-status/"
     publisher: "Chooi & Company + Cheang & Ariff"
-  - title: "Board Resolutions in Malaysia: Ordinary, Special & Circular Resolutions"
+  - title: "Nghị quyết Hội đồng Quản trị tại Malaysia: Nghị quyết Thường, Đặc biệt & Luân chuyển (Board Resolutions in Malaysia: Ordinary, Special & Circular Resolutions)"
     url: "https://www.naiduchambers.com/blog/board-resolutions-in-malaysia-a-complete-guide-to-ordinary-s.html"
     publisher: "Naidu Chambers"
 

@@ -78,17 +78,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.310–314 convening meetings"
+  - title: "Companies Act 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி மறுபதிப்பு — பிரிவுகள் 310–314 கூட்டங்களை கூட்டுதல் (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.310–314 convening meetings)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.292, 316 notice periods and s.340(5) court-ordered meetings"
+  - title: "Companies Act 2016 (Act 777) — பிரிவுகள் 292, 316 அறிவிப்பு காலம் மற்றும் பிரிவு 340(5) நீதிமன்ற உத்தரவின் கூட்டங்கள் (Companies Act 2016 (Act 777) — ss.292, 316 notice periods and s.340(5) court-ordered meetings)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — s.297 written resolutions and s.206 removal of directors"
+  - title: "Companies Act 2016 (Act 777) — பிரிவு 297 எழுத்துப்பூர்வ தீர்மானங்கள் மற்றும் பிரிவு 206 இயக்குநர்களை நீக்குதல் (Companies Act 2016 (Act 777) — s.297 written resolutions and s.206 removal of directors)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
 
 entity: "Requisition of a meeting of members"

@@ -39,16 +39,16 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "OPR data — Financial Markets Investor Portal"
+  - title: "OPR（翌日物政策金利）データ——金融市場投資家ポータル (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
-    publisher: "Bank Negara Malaysia"
+    publisher: "マレーシア国立銀行（バンク・ヌガラ・マレーシア）"
     date: "2026-07-24"
-  - title: "OPR Decisions"
+  - title: "OPR（翌日物政策金利）の決定 (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
-    publisher: "Bank Negara Malaysia"
-  - title: "MPC Meeting Schedule 2026"
+    publisher: "マレーシア国立銀行（バンク・ヌガラ・マレーシア）"
+  - title: "2026年MPC（金融政策委員会）会合スケジュール (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
-    publisher: "Bank Negara Malaysia"
+    publisher: "マレーシア国立銀行（バンク・ヌガラ・マレーシア）"
 
 entity: "Overnight Policy Rate"
 relations:

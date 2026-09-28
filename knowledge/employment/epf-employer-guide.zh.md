@@ -76,19 +76,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Employer Mandatory Contribution"
+  - title: "雇主强制性缴款 (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
-    publisher: "KWSP"
-  - title: "EPF Act 1991 Third Schedule"
+    publisher: "雇员公积金局 (KWSP)"
+  - title: "EPF Act 1991 第三附表 (EPF Act 1991 Third Schedule)"
     url: "https://www.kwsp.gov.my/en/epf-act-1991-third-schedule"
-    publisher: "KWSP"
+    publisher: "雇员公积金局 (KWSP)"
     date: "2026-05-26"
-  - title: "Third Schedule effective 1 October 2025"
+  - title: "第三附表，2025年10月1日生效 (Third Schedule effective 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "KWSP"
-  - title: "Contribution For Non-Malaysian Citizen Employees"
+    publisher: "雇员公积金局 (KWSP)"
+  - title: "非马来西亚公民雇员的缴款 (Contribution For Non-Malaysian Citizen Employees)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/non-malaysian-citizen-employees"
-    publisher: "KWSP"
+    publisher: "雇员公积金局 (KWSP)"
 
 entity: "EPF employer contributions"
 relations:

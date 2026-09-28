@@ -58,19 +58,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Children and Young Persons (Employment) Act 1966 (Act 350), Reprint as at 1 October 2019"
+  - title: "Children and Young Persons (Employment) Act 1966 (Act 350), bản in lại tính đến ngày 1 tháng 10 năm 2019 (Children and Young Persons (Employment) Act 1966 (Act 350), Reprint as at 1 October 2019)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-03/5.%20Children%20and%20Young%20Persons%20(Employment)%20Act%201966_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM), Kementerian Sumber Manusia"
-  - title: "Children and Young Persons (Employment) Act 1966 (Act 350)"
+    publisher: "Cục Lao động Bán đảo Malaysia (JTKSM), Bộ Nhân lực"
+  - title: "Children and Young Persons (Employment) Act 1966 (Act 350) (Children and Young Persons (Employment) Act 1966 (Act 350))"
     url: "https://eakta.mohr.gov.my/assets/pdf/akta_perburuhan/Act%20350%20-%20Children%20and%20Young%20Persons%20(Employment)%20Act%201966.pdf"
-    publisher: "Portal e-Akta, Kementerian Sumber Manusia"
-  - title: "Children and Young Persons (Employment) (Amendment) Act 2019 (Act A1586)"
+    publisher: "Cổng e-Akta, Bộ Nhân lực"
+  - title: "Children and Young Persons (Employment) (Amendment) Act 2019 (Act A1586) (Children and Young Persons (Employment) (Amendment) Act 2019 (Act A1586))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/A1586%20BI%20(1).pdf"
-    publisher: "Laws of Malaysia, Pejabat Peguam Negara Malaysia (Attorney General's Chambers)"
-  - title: "Children and Young Persons (Employment) (Amendment) Act 2019 — nota kuat kuasa 1 Februari 2019"
+    publisher: "Luật Malaysia, Văn phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers)"
+  - title: "Children and Young Persons (Employment) (Amendment) Act 2019 — ghi chú hiệu lực ngày 1 tháng 2 năm 2019 (Children and Young Persons (Employment) (Amendment) Act 2019 — nota kuat kuasa 1 Februari 2019)"
     url: "https://ccs-co.com/post/ccslibrary38-2021-11/"
     publisher: "CCS & Co PLT (Chartered Accountants)"
-  - title: "'Dilarang ambil pekerja bawah 15 tahun atau penjara 5 tahun'"
+  - title: "‘Cấm tuyển lao động dưới 15 tuổi nếu không sẽ bị phạt tù 5 năm’ ('Dilarang ambil pekerja bawah 15 tahun atau penjara 5 tahun')"
     url: "https://www.freemalaysiatoday.com/category/bahasa/2018/10/17/dilarang-ambil-pekerja-bawah-15-tahun-atau-penjara-5-tahun"
     publisher: "Free Malaysia Today"
 

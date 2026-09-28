@@ -53,13 +53,13 @@ verificationNeeded:
   - "인용된 SSM 통합본 회사법(Companies Act 2016) PDF가 이용 시점에 현행 유효 조문으로 남아 있는지 여부(이후 개정 여부 확인)."
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777), Subdivision 2 - Arrangements and Reconstructions, ss.365-371"
+  - title: "Companies Act 2016 (Act 777), 세부구분 2 - 조정 및 재구성, 제365-371조 (Companies Act 2016 (Act 777), Subdivision 2 - Arrangements and Reconstructions, ss.365-371)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Scheme of Arrangement Under Section 366: A Guide for Malaysian Companies"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "제366조에 따른 조정 계획: 말레이시아 기업을 위한 안내서 (Scheme of Arrangement Under Section 366: A Guide for Malaysian Companies)"
     url: "https://www.saifudinco.com/insights/scheme-of-arrangement-section-366-malaysia"
     publisher: "Saifudin & Co"
-  - title: "Introduction to a Scheme of Arrangement under the Companies Act 2016"
+  - title: "Companies Act 2016에 따른 조정 계획 소개 (Introduction to a Scheme of Arrangement under the Companies Act 2016)"
     url: "https://www.mondaq.com/corporate-and-company-law/1188694/introduction-to-a-scheme-of-arrangement-under-the-companies-act-2016"
     publisher: "MahWengKwai & Associates"
     author: "Hannah Patrick"

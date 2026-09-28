@@ -45,16 +45,16 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "FAQ — Implementation of the Electronic Beneficial Ownership System (e-BOS)"
+  - title: "FAQ — Pelaksanaan Sistem Pemilik Benefisial Elektronik (e-BOS) (FAQ — Implementation of the Electronic Beneficial Ownership System (e-BOS))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQ%20BO%20(OPERATION%20BI).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 9/2024 — Lodgement of Beneficial Ownership Information under the Companies Act 2016 through e-BOS"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Arahan Amalan No. 9/2024 — Pemfailan Maklumat Pemilik Benefisial di bawah Companies Act 2016 melalui e-BOS (Practice Directive No. 9/2024 — Lodgement of Beneficial Ownership Information under the Companies Act 2016 through e-BOS)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%209%202024%20(Final)%20Uploaded%20version.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2024-05-13"
-  - title: "Beneficial Ownership Information — product page"
+  - title: "Maklumat Pemilik Benefisial — laman produk (Beneficial Ownership Information — product page)"
     url: "https://www.ssm.com.my/Pages/Product/Beneficial-Ownership-Information.aspx"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "e-BOS"
 relations:

@@ -40,16 +40,16 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Monthly External Trade Statistics, June 2026"
+  - title: "Statistik Perdagangan Luar Bulanan, Jun 2026 (Monthly External Trade Statistics, June 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026"
-    publisher: "DOSM"
+    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
     date: "2026-07-20"
-  - title: "Export Import Statistics by State, May 2026"
+  - title: "Statistik Eksport Import mengikut Negeri, Mei 2026 (Export Import Statistics by State, May 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/export-import-statistics-by-state-may2026"
-    publisher: "DOSM"
-  - title: "Ministry of Investment, Trade and Industry (MITI)"
+    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+  - title: "Kementerian Pelaburan, Perdagangan dan Industri (MITI) (Ministry of Investment, Trade and Industry (MITI))"
     url: "https://www.miti.gov.my/"
-    publisher: "MITI"
+    publisher: "Kementerian Pelaburan, Perdagangan dan Industri (MITI)"
 
 entity: "Malaysia external trade"
 relations:

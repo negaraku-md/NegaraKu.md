@@ -80,20 +80,20 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties"
+  - title: "Practice Directive No. 1/2017（2024年10月1日改訂）— 提出遅延に対する罰則 (Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    publisher: "マレーシア企業委員会 (SSM)"
+  - title: "Companies Act 2016 (Act 777)、2022年8月1日現在の再版 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2022-08-01"
-  - title: "FAQ Part E — Notification of Particulars and Change in Register of Directors, Manager and Secretaries"
+  - title: "FAQ パートE — 取締役・管理者・秘書役登録簿における明細の届出および変更 (FAQ Part E — Notification of Particulars and Change in Register of Directors, Manager and Secretaries)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQS-ON-COMPANIES-ACT-2016-AND-TRANSITIONAL-ISSUES/part_e.pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2017-06-09"
-  - title: "Notification of Change in the Register of Directors, Managers and Secretaries — Section 58"
+  - title: "取締役・管理者・秘書役登録簿の変更届出 — Section 58 (Notification of Change in the Register of Directors, Managers and Secretaries — Section 58)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/21._notification_of_change_in_the_register_of_directors_secretaries_and_.pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
 
 entity: "Register of Directors, Managers and Secretaries"
 relations:

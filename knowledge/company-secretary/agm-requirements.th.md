@@ -81,17 +81,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.31, 33, 316, 340"
+  - title: "Companies Act 2016 (Act 777), ฉบับพิมพ์ซ้ำ ณ วันที่ 1 สิงหาคม 2022 — มาตรา 31, 33, 316, 340 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.31, 33, 316, 340)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2022-08-01"
-  - title: "Practice Note No. 3/2018 — Application for Extension of Time under Sections 259, 260 and 340"
+  - title: "หนังสือแนวปฏิบัติเลขที่ 3/2018 — การขอขยายเวลาตามมาตรา 259, 260 และ 340 (Practice Note No. 3/2018 — Application for Extension of Time under Sections 259, 260 and 340)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2018-01-01"
-  - title: "Companies Act 2016 (Act 777) — ss.258, 259 circulation and lodgement of financial statements"
+  - title: "Companies Act 2016 (Act 777) — มาตรา 258, 259 การเวียนและการยื่นงบการเงิน (Companies Act 2016 (Act 777) — ss.258, 259 circulation and lodgement of financial statements)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2022-08-01"
 
 entity: "Annual general meeting"

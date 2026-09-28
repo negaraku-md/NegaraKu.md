@@ -50,12 +50,12 @@ verificationNeeded:
   - "அரசாங்கம் மானியக் குறிவைப்புக்காக இன்னும் நுட்பமான பிரிவுகளை (எ.கா. T15) அதிகாரப்பூர்வமாகப் பயன்படுத்துகிறதா என்பது — மேற்கோள் காட்டப்பட்ட DOSM அறிக்கையில் அதிகாரப்பூர்வ ஆதாரம் இல்லாததால் அசல் கூற்று நீக்கப்பட்டது; மீண்டும் சேர்ப்பதற்கு முன் ஆதாரத்தை உறுதிசெய்யவும்."
 updated: 2026-08-08
 sources:
-  - title: "Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08)"
+  - title: "வீட்டு வருமான ஆய்வு அறிக்கை, மலேசியா மற்றும் மாநிலங்கள் 2024 (2025-10-08 அன்று வெளியிடப்பட்டது) (Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
-  - title: "Household Income Survey Report, Malaysia & States 2022"
+    publisher: "மலேசியா புள்ளியியல் திணைக்களம் (DOSM)"
+  - title: "வீட்டு வருமான ஆய்வு அறிக்கை, மலேசியா மற்றும் மாநிலங்கள் 2022 (Household Income Survey Report, Malaysia & States 2022)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+    publisher: "மலேசியா புள்ளியியல் திணைக்களம் (DOSM)"
 
 entity: "Jabatan Perangkaan Malaysia (DOSM)"
 wikidata: "Q7354425"

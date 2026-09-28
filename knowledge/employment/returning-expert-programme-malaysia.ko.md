@@ -52,10 +52,10 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Returning Expert Programme (REP)"
+  - title: "귀국 전문가 프로그램 (REP) (Returning Expert Programme (REP))"
     url: "https://www.talentcorp.com.my/our-initiatives/for-professionals/rep/"
     publisher: "TalentCorp Malaysia"
-  - title: "FAQ — Returning Expert Programme (REP)"
+  - title: "자주 묻는 질문 — 귀국 전문가 프로그램 (REP) (FAQ — Returning Expert Programme (REP))"
     url: "https://myheart.my/faq-returning-expert-programme/"
     publisher: "TalentCorp Malaysia (MyHeart Portal)"
 

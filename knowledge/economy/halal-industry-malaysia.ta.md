@@ -54,19 +54,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Malaysia records RM45.04b in halal product exports from January to September 2024 – MITI"
+  - title: "2024 ஜனவரி முதல் செப்டம்பர் வரை மலேசியா RM45.04 பில்லியன் ஹலால் தயாரிப்பு ஏற்றுமதியைப் பதிவு செய்தது – MITI (Malaysia records RM45.04b in halal product exports from January to September 2024 – MITI)"
     url: "https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Halal product exports surpassed RM61bil in 2024, says Miti"
+    publisher: "மலேசிய முதலீட்டு மேம்பாட்டு ஆணையம் (MIDA)"
+  - title: "2024-இல் ஹலால் தயாரிப்பு ஏற்றுமதி RM61 பில்லியனைத் தாண்டியது என Miti கூறுகிறது (Halal product exports surpassed RM61bil in 2024, says Miti)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/04/30/halal-product-exports-surpassed-rm61bil-in-2024-says-miti"
-    publisher: "Free Malaysia Today (laporan pengumuman MITI)"
-  - title: "Islamic Finance and the Development of Malaysia's Halal Economy"
+    publisher: "Free Malaysia Today (MITI அறிவிப்பை அறிக்கையிடுகிறது)"
+  - title: "இஸ்லாமிய நிதி மற்றும் மலேசியாவின் ஹலால் பொருளாதார வளர்ச்சி (Islamic Finance and the Development of Malaysia's Halal Economy)"
     url: "https://www.mof.gov.my/portal/en/news/speech/islamic-finance-and-the-development-of-malaysia-s-halal-economy"
-    publisher: "Ministry of Finance Malaysia (MOF)"
-  - title: "Economic Census 2023: Halal Statistics"
+    publisher: "மலேசிய நிதி அமைச்சு (MOF)"
+  - title: "பொருளாதாரக் கணக்கெடுப்பு 2023: ஹலால் புள்ளிவிவரம் (Economic Census 2023: Halal Statistics)"
     url: "https://www.dosm.gov.my/portal-main/release-content/economic-census-2023-halal-statistics"
-    publisher: "Department of Statistics Malaysia (DOSM)"
-  - title: "Govt to form halal commission to drive RM80bil export target"
+    publisher: "மலேசியா புள்ளிவிவரத் திணைக்களம் (DOSM)"
+  - title: "RM80 பில்லியன் ஏற்றுமதி இலக்கை நோக்கிச் செலுத்த அரசு ஹலால் ஆணையத்தை உருவாக்கவுள்ளது (Govt to form halal commission to drive RM80bil export target)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/07/31/govt-to-form-halal-commission-to-drive-rm80bil-export-target"
     publisher: "Free Malaysia Today"
 

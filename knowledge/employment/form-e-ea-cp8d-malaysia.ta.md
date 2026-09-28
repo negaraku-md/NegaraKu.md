@@ -79,19 +79,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Program Memfail Borang Nyata (BN) Bagi Tahun 2026"
+  - title: "2026 ஆம் ஆண்டிற்கான வருமான அறிக்கைப் படிவம் (BN) தாக்கல் திட்டம் (Program Memfail Borang Nyata (BN) Bagi Tahun 2026)"
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-12-30"
-  - title: "Return Form (RF) Filing Programme"
+  - title: "வருமான அறிக்கைப் படிவம் (RF) தாக்கல் திட்டம் (Return Form (RF) Filing Programme)"
     url: "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
-    publisher: "LHDN"
-  - title: "Employers — Employer's Responsibility"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "முதலாளிகள் — முதலாளியின் பொறுப்பு (Employers — Employer's Responsibility)"
     url: "https://www.hasil.gov.my/en/majikan/"
-    publisher: "LHDN"
-  - title: "Offences, Fines and Penalties"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "குற்றங்கள், அபராதங்கள் மற்றும் தண்டனைகள் (Offences, Fines and Penalties)"
     url: "https://www.hasil.gov.my/en/perundangan/kesalahan-denda-dan-penalti/"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Form E, Form EA and CP8D annual employer filing"
 relations:

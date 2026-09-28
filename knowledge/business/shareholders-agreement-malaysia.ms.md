@@ -60,18 +60,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), cetakan semula pada 1 Ogos 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), AGC updated text"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777), teks dikemas kini AGC (Companies Act 2016 (Act 777), AGC updated text)"
     url: "https://lom.agc.gov.my/act-detail.php?act=777"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Contracts Act 1950 (Act 136), updated text"
+    publisher: "Jabatan Peguam Negara Malaysia"
+  - title: "Contracts Act 1950 (Act 136), teks dikemas kini (Contracts Act 1950 (Act 136), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20136.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "Jabatan Peguam Negara Malaysia"
+  - title: "Companies Act 2016 — rangka kerja perundangan (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "Shareholders agreement (Malaysia)"
 relations:

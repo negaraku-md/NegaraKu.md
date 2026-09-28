@@ -55,20 +55,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Garis Panduan Penubuhan Sekolah Antarabangsa (International School Establishment Guideline)"
+  - title: "சர்வதேசப் பள்ளி நிறுவுதல் வழிகாட்டி (Garis Panduan Penubuhan Sekolah Antarabangsa (International School Establishment Guideline))"
     url: "https://jpwpkl.moe.gov.my/muat-turun/sektor-pengurusan-sekolah/unit-pendidikan-swasta/garis-panduan-penubuhan-institut-pendidikan-swasta/91-gp-a3-penubuhan-sekolah-antarabangsa/file"
-    publisher: "Bahagian Pendidikan Swasta, Kementerian Pendidikan Malaysia (Private Education Division, Ministry of Education Malaysia)"
+    publisher: "தனியார் கல்விப் பிரிவு, மலேசியக் கல்வி அமைச்சு"
     date: "2021-02-04"
-  - title: "Laws of Malaysia, Act 550 — Education Act 1996"
+  - title: "மலேசியச் சட்டங்கள், சட்டம் 550 — 1996 ஆம் ஆண்டு கல்விச் சட்டம் (Laws of Malaysia, Act 550 — Education Act 1996)"
     url: "https://www.moe.gov.my/storage/files/shares/Dasar/Kurikulum%20Kebangsaan/Akta%20550%20-%20Akta%20Pendidikan%201996.pdf"
-    publisher: "Kementerian Pendidikan Malaysia (KPM) / Pesuruhjaya Penyemak Undang-Undang"
-  - title: "Semakan Kadar Cukai Jualan, Peluasan Skop Cukai Perkhidmatan Berkuat Kuasa 1 Julai"
+    publisher: "மலேசியக் கல்வி அமைச்சு (KPM) / சட்ட மறுஆய்வு ஆணையர்"
+  - title: "விற்பனை வரி விகித மறுஆய்வு, சேவை வரி எல்லை விரிவாக்கம் ஜூலை 1 முதல் அமல் (Semakan Kadar Cukai Jualan, Peluasan Skop Cukai Perkhidmatan Berkuat Kuasa 1 Julai)"
     url: "https://www.mof.gov.my/portal/ms/berita/akhbar/semakan-kadar-cukai-jualan-peluasan-skop-cukai-perkhidmatan-berkuat-kuasa-1-julai-mof"
-    publisher: "Kementerian Kewangan Malaysia (Ministry of Finance Malaysia)"
+    publisher: "மலேசிய நிதி அமைச்சு"
     date: "2025-06-09"
-  - title: "FAQ: Expansion of Service Tax Scope 2025"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள்: சேவை வரி எல்லை விரிவாக்கம் 2025 (FAQ: Expansion of Service Tax Scope 2025)"
     url: "https://mysst.customs.gov.my/ms/faq-expansion-of-service-tax-scope-2025/"
-    publisher: "Jabatan Kastam Diraja Malaysia (Royal Malaysian Customs Department) — MySST"
+    publisher: "மலேசிய அரச சுங்கத் திணைக்களம் — MySST"
 
 entity: "International schools (Malaysia)"
 relations:

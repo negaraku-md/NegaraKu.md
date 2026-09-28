@@ -68,15 +68,15 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Contribution For Non-Malaysian Citizen Employees"
+  - title: "Đóng góp cho người lao động không phải công dân Malaysia (Contribution For Non-Malaysian Citizen Employees)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/non-malaysian-citizen-employees"
-    publisher: "KWSP"
-  - title: "Third Schedule effective 1 October 2025"
+    publisher: "Quỹ Tiết kiệm Nhân viên (KWSP)"
+  - title: "Phụ lục thứ Ba có hiệu lực từ 1 tháng 10 năm 2025 (Third Schedule effective 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "KWSP"
-  - title: "Employer Mandatory Contribution"
+    publisher: "Quỹ Tiết kiệm Nhân viên (KWSP)"
+  - title: "Đóng góp bắt buộc của người sử dụng lao động (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
-    publisher: "KWSP"
+    publisher: "Quỹ Tiết kiệm Nhân viên (KWSP)"
 
 entity: "EPF contributions for non-Malaysian citizen employees"
 relations:

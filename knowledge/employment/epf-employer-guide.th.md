@@ -75,19 +75,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Employer Mandatory Contribution"
+  - title: "เงินสมทบภาคบังคับของนายจ้าง (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
-    publisher: "KWSP"
-  - title: "EPF Act 1991 Third Schedule"
+    publisher: "กองทุนสำรองเลี้ยงชีพลูกจ้าง (KWSP)"
+  - title: "บัญชีแนบท้ายที่สามของ EPF Act 1991 (EPF Act 1991 Third Schedule)"
     url: "https://www.kwsp.gov.my/en/epf-act-1991-third-schedule"
-    publisher: "KWSP"
+    publisher: "กองทุนสำรองเลี้ยงชีพลูกจ้าง (KWSP)"
     date: "2026-05-26"
-  - title: "Third Schedule effective 1 October 2025"
+  - title: "บัญชีแนบท้ายที่สาม มีผล 1 ตุลาคม 2025 (Third Schedule effective 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "KWSP"
-  - title: "Contribution For Non-Malaysian Citizen Employees"
+    publisher: "กองทุนสำรองเลี้ยงชีพลูกจ้าง (KWSP)"
+  - title: "เงินสมทบสำหรับลูกจ้างที่ไม่ใช่พลเมืองมาเลเซีย (Contribution For Non-Malaysian Citizen Employees)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/non-malaysian-citizen-employees"
-    publisher: "KWSP"
+    publisher: "กองทุนสำรองเลี้ยงชีพลูกจ้าง (KWSP)"
 
 entity: "EPF employer contributions"
 relations:

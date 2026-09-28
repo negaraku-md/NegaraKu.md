@@ -63,17 +63,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.112, 131–133"
+  - title: "Companies Act 2016 (Act 777), 2022년 8월 1일 기준 재발행본 — 제112조, 제131–133조 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.112, 131–133)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.213–218 directors' duties"
+  - title: "Companies Act 2016 (Act 777) — 제213–218조 이사의 의무 (Companies Act 2016 (Act 777) — ss.213–218 directors' duties)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — Schedule 1 Part XXII"
+  - title: "Income Tax Act 1967 (Act 53), 2024년 5월 21일 기준 재발행본 — 별표 1 제XXII부 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — Schedule 1 Part XXII)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "말레이시아 국내세입청 (LHDN)"
     date: "2024-05-21"
 
 entity: "Distribution to shareholders"

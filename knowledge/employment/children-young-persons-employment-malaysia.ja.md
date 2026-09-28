@@ -59,19 +59,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Children and Young Persons (Employment) Act 1966 (Act 350), Reprint as at 1 October 2019"
+  - title: "Children and Young Persons (Employment) Act 1966 (Act 350)、2019年10月1日現在の再版 (Children and Young Persons (Employment) Act 1966 (Act 350), Reprint as at 1 October 2019)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-03/5.%20Children%20and%20Young%20Persons%20(Employment)%20Act%201966_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM), Kementerian Sumber Manusia"
-  - title: "Children and Young Persons (Employment) Act 1966 (Act 350)"
+    publisher: "マレーシア半島労働局 (JTKSM)、人的資源省"
+  - title: "Children and Young Persons (Employment) Act 1966 (Act 350) (Children and Young Persons (Employment) Act 1966 (Act 350))"
     url: "https://eakta.mohr.gov.my/assets/pdf/akta_perburuhan/Act%20350%20-%20Children%20and%20Young%20Persons%20(Employment)%20Act%201966.pdf"
-    publisher: "Portal e-Akta, Kementerian Sumber Manusia"
-  - title: "Children and Young Persons (Employment) (Amendment) Act 2019 (Act A1586)"
+    publisher: "e-Aktaポータル、人的資源省"
+  - title: "Children and Young Persons (Employment) (Amendment) Act 2019 (Act A1586) (Children and Young Persons (Employment) (Amendment) Act 2019 (Act A1586))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/A1586%20BI%20(1).pdf"
-    publisher: "Laws of Malaysia, Pejabat Peguam Negara Malaysia (Attorney General's Chambers)"
-  - title: "Children and Young Persons (Employment) (Amendment) Act 2019 — nota kuat kuasa 1 Februari 2019"
+    publisher: "マレーシア法令、マレーシア司法長官府 (Attorney General's Chambers)"
+  - title: "Children and Young Persons (Employment) (Amendment) Act 2019 — 2019年2月1日施行に関する注記 (Children and Young Persons (Employment) (Amendment) Act 2019 — nota kuat kuasa 1 Februari 2019)"
     url: "https://ccs-co.com/post/ccslibrary38-2021-11/"
     publisher: "CCS & Co PLT (Chartered Accountants)"
-  - title: "'Dilarang ambil pekerja bawah 15 tahun atau penjara 5 tahun'"
+  - title: "「15歳未満の労働者の雇用は禁止、違反すれば5年の禁錮」 ('Dilarang ambil pekerja bawah 15 tahun atau penjara 5 tahun')"
     url: "https://www.freemalaysiatoday.com/category/bahasa/2018/10/17/dilarang-ambil-pekerja-bawah-15-tahun-atau-penjara-5-tahun"
     publisher: "Free Malaysia Today"
 

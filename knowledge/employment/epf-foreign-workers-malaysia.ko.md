@@ -69,15 +69,15 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Contribution For Non-Malaysian Citizen Employees"
+  - title: "비말레이시아 국적 근로자에 대한 기여 (Contribution For Non-Malaysian Citizen Employees)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/non-malaysian-citizen-employees"
-    publisher: "KWSP"
-  - title: "Third Schedule effective 1 October 2025"
+    publisher: "직원공제기금 (KWSP)"
+  - title: "제3부칙, 2025년 10월 1일 시행 (Third Schedule effective 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "KWSP"
-  - title: "Employer Mandatory Contribution"
+    publisher: "직원공제기금 (KWSP)"
+  - title: "고용주 의무 기여 (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
-    publisher: "KWSP"
+    publisher: "직원공제기금 (KWSP)"
 
 entity: "EPF contributions for non-Malaysian citizen employees"
 relations:

@@ -43,15 +43,15 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "BAYAN LINNAS SIRI KE-149: Status Pelangsaian Pinjaman PTPTN Menurut Perspektif Syarak"
+  - title: "バヤン・リンナス第149号：シャリーア（イスラム法）の観点から見たPTPTNローン返済完了の位置づけ (BAYAN LINNAS SIRI KE-149: Status Pelangsaian Pinjaman PTPTN Menurut Perspektif Syarak)"
     url: "https://muftiwp.gov.my/en/artikel/bayan-linnas/2620-bayan-linnas-siri-ke-149-status-pelangsaian-pinjaman-ptptn-menurut-perspektif-syarak"
-    publisher: "Pejabat Mufti Wilayah Persekutuan"
-  - title: "Portal Rasmi PTPTN"
+    publisher: "連邦直轄領ムフティ庁"
+  - title: "PTPTN公式ポータル (Portal Rasmi PTPTN)"
     url: "https://www.ptptn.gov.my/"
-    publisher: "PTPTN (Perbadanan Tabung Pendidikan Tinggi Nasional)"
-  - title: "Akta Perbadanan Tabung Pendidikan Tinggi Nasional 1997 (Akta 566)"
-    publisher: "Jabatan Peguam Negara (AGC)"
-  - title: "Perbadanan Tabung Pendidikan Tinggi Nasional"
+    publisher: "国家高等教育基金公社 (PTPTN)"
+  - title: "National Higher Education Fund Corporation Act 1997 (Act 566) (Akta Perbadanan Tabung Pendidikan Tinggi Nasional 1997 (Akta 566))"
+    publisher: "司法長官府 (AGC)"
+  - title: "国家高等教育基金公社 (Perbadanan Tabung Pendidikan Tinggi Nasional)"
     url: "https://en.wikipedia.org/wiki/Perbadanan_Tabung_Pendidikan_Tinggi_Nasional"
     publisher: "Wikipedia"
 

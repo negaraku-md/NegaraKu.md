@@ -53,16 +53,16 @@ verificationNeeded:
   - "Các nguồn thứ cấp (Allen & Gledhill và MahWengKwai) mô tả phiên bản 2019 (10 điều kiện, 30 ngày) đã bị thay thế; giữ lại chỉ làm bối cảnh."
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), bản in lại của SSM tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016 (9 June 2017, Revised 14 July 2026)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Hướng dẫn về việc giám đốc hoặc thành viên nộp đơn xin xóa tên công ty theo Điều 550 của Companies Act 2016 (9 tháng 6 năm 2017, sửa đổi ngày 14 tháng 7 năm 2026) (Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016 (9 June 2017, Revised 14 July 2026))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20Section%20549(a)_140726.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Commission of Malaysia issues revised guidelines on application to strike off name of company under section 550 of Companies Act 2016 (covers the superseded 19 April 2019 version)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Ủy ban Công ty Malaysia ban hành hướng dẫn sửa đổi về đơn xin xóa tên công ty theo điều 550 của Companies Act 2016 (bao gồm phiên bản ngày 19 tháng 4 năm 2019 đã bị thay thế) (Companies Commission of Malaysia issues revised guidelines on application to strike off name of company under section 550 of Companies Act 2016 (covers the superseded 19 April 2019 version))"
     url: "https://www.allenandgledhill.com/publication/articles/10978/companies-commission-issues-revised-guidelines-on-application-to-strike-off-name-of-company-under-section-550-of-companies-act-2016"
     publisher: "Allen & Gledhill"
-  - title: "Striking off a company under section 549(a) and 550 of the Companies Act 2016 (describes the 2019 framework)"
+  - title: "Xóa tên công ty theo điều 549(a) và 550 của Companies Act 2016 (mô tả khung năm 2019) (Striking off a company under section 549(a) and 550 of the Companies Act 2016 (describes the 2019 framework))"
     url: "https://mahwengkwai.com/striking-off-a-company-under-section-549a-and-550-of-the-companies-act-2016/"
     publisher: "MahWengKwai & Associates"
 

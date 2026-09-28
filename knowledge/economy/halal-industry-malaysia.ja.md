@@ -54,19 +54,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Malaysia records RM45.04b in halal product exports from January to September 2024 – MITI"
+  - title: "マレーシア、2024年1月から9月のハラール製品輸出でRM450.4億を記録 – MITI (Malaysia records RM45.04b in halal product exports from January to September 2024 – MITI)"
     url: "https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Halal product exports surpassed RM61bil in 2024, says Miti"
+    publisher: "マレーシア投資開発庁 (MIDA)"
+  - title: "2024年のハラール製品輸出がRM610億を超えたとMitiが発表 (Halal product exports surpassed RM61bil in 2024, says Miti)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/04/30/halal-product-exports-surpassed-rm61bil-in-2024-says-miti"
-    publisher: "Free Malaysia Today (laporan pengumuman MITI)"
-  - title: "Islamic Finance and the Development of Malaysia's Halal Economy"
+    publisher: "Free Malaysia Today（MITIの発表を報道）"
+  - title: "イスラム金融とマレーシアのハラール経済の発展 (Islamic Finance and the Development of Malaysia's Halal Economy)"
     url: "https://www.mof.gov.my/portal/en/news/speech/islamic-finance-and-the-development-of-malaysia-s-halal-economy"
-    publisher: "Ministry of Finance Malaysia (MOF)"
-  - title: "Economic Census 2023: Halal Statistics"
+    publisher: "マレーシア財務省 (MOF)"
+  - title: "経済センサス2023：ハラール統計 (Economic Census 2023: Halal Statistics)"
     url: "https://www.dosm.gov.my/portal-main/release-content/economic-census-2023-halal-statistics"
-    publisher: "Department of Statistics Malaysia (DOSM)"
-  - title: "Govt to form halal commission to drive RM80bil export target"
+    publisher: "マレーシア統計局 (DOSM)"
+  - title: "政府がRM800億の輸出目標を推進するためハラール委員会を設立へ (Govt to form halal commission to drive RM80bil export target)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/07/31/govt-to-form-halal-commission-to-drive-rm80bil-export-target"
     publisher: "Free Malaysia Today"
 

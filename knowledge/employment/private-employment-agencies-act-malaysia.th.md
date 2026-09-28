@@ -52,16 +52,16 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Private Employment Agencies — Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
+  - title: "สำนักงานจัดหางานเอกชน — กรมแรงงานคาบสมุทรมาเลเซีย (JTKSM) (Private Employment Agencies — Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM))"
     url: "https://jtksm.mohr.gov.my/en/services/private-employment-agencies"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
-  - title: "Garis Panduan Prosedur Perlesenan Agensi Pekerjaan Swasta (APS)"
+    publisher: "กรมแรงงานคาบสมุทรมาเลเซีย (JTKSM)"
+  - title: "แนวทางขั้นตอนการออกใบอนุญาตสำนักงานจัดหางานเอกชน (APS) (Garis Panduan Prosedur Perlesenan Agensi Pekerjaan Swasta (APS))"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2026-02/1.%20Garis%20Panduan%20Prosedur%20Perlesenan%20APS.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
-  - title: "Amendments to the Private Employment Agencies Act"
+    publisher: "กรมแรงงานคาบสมุทรมาเลเซีย (JTKSM)"
+  - title: "การแก้ไข Private Employment Agencies Act (Amendments to the Private Employment Agencies Act)"
     url: "https://dnh.com.my/amendments-to-the-private-employment-agencies-act/"
     publisher: "Donovan & Ho"
-  - title: "Malaysia — Amendments To The Private Employment Agencies Act"
+  - title: "มาเลเซีย — การแก้ไข Private Employment Agencies Act (Malaysia — Amendments To The Private Employment Agencies Act)"
     url: "https://conventuslaw.com/report/malaysia-amendments-to-the-private-employment/"
     publisher: "Conventus Law"
 

@@ -79,20 +79,20 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties"
+  - title: "Practice Directive No. 1/2017 (Sửa đổi ngày 1 tháng 10 năm 2024) — Tiền phạt nộp trễ (Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777), bản in lại tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "FAQ Part E — Notification of Particulars and Change in Register of Directors, Manager and Secretaries"
+  - title: "FAQ Phần E — Thông báo chi tiết và thay đổi trong Sổ đăng ký Giám đốc, Quản lý và Thư ký (FAQ Part E — Notification of Particulars and Change in Register of Directors, Manager and Secretaries)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQS-ON-COMPANIES-ACT-2016-AND-TRANSITIONAL-ISSUES/part_e.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2017-06-09"
-  - title: "Notification of Change in the Register of Directors, Managers and Secretaries — Section 58"
+  - title: "Thông báo thay đổi trong Sổ đăng ký Giám đốc, Quản lý và Thư ký — Section 58 (Notification of Change in the Register of Directors, Managers and Secretaries — Section 58)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/21._notification_of_change_in_the_register_of_directors_secretaries_and_.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Register of Directors, Managers and Secretaries"
 relations:

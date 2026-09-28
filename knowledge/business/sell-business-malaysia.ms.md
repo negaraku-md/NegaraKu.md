@@ -60,18 +60,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Stamp Act 1949 (Act 378), First Schedule and Third Schedule, text as at 1 January 2024"
+  - title: "Stamp Act 1949 (Act 378), Jadual Pertama dan Jadual Ketiga, teks pada 1 Januari 2024 (Stamp Act 1949 (Act 378), First Schedule and Third Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
-    publisher: "Attorney General's Chambers"
-  - title: "Stamp Duty Exemptions and Relief — relief under section 15 and section 15A"
+    publisher: "Jabatan Peguam Negara"
+  - title: "Pengecualian dan Pelepasan Duti Setem — pelepasan di bawah seksyen 15 dan seksyen 15A (Stamp Duty Exemptions and Relief — relief under section 15 and section 15A)"
     url: "https://www.hasil.gov.my/duti-setem/pengecualian-dan-relief/"
-    publisher: "LHDN"
-  - title: "Companies Act 2016 (Act 777), s.105 and s.106 — transfer and registration of securities"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Companies Act 2016 (Act 777), s.105 dan s.106 — pemindahan dan pendaftaran sekuriti (Companies Act 2016 (Act 777), s.105 and s.106 — transfer and registration of securities)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guideline on Application for Manufacturing Licence (ML)"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Garis Panduan Permohonan Lesen Pembuatan (ML) (Guideline on Application for Manufacturing Licence (ML))"
     url: "https://www.mida.gov.my/wp-content/uploads/2022/11/GD_ML_03112022.pdf"
-    publisher: "MIDA"
+    publisher: "Lembaga Pembangunan Pelaburan Malaysia (MIDA)"
     date: "2022-11-03"
 
 entity: "Sale of a business"

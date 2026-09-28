@@ -60,10 +60,10 @@ sources:
   - title: "GIC Invests RM7.5억 in Sunway Healthcare"
     url: "https://www.sunway.com.my/media/press-release/gic-invests-rm750-million-in-sunway-healthcare/"
     publisher: "Sunway Berhad"
-  - title: "Sunway Healthcare ends Main Market debut 28% higher"
+  - title: "Sunway Healthcare, 메인 마켓 상장 첫날 28% 상승 마감 (Sunway Healthcare ends Main Market debut 28% higher)"
     url: "https://theedgemalaysia.com/node/796630"
     publisher: "The Edge Malaysia"
-  - title: "About SMCD — Sunway Medical Centre Damansara"
+  - title: "SMCD 소개 — Sunway Medical Centre Damansara (About SMCD — Sunway Medical Centre Damansara)"
     url: "https://www.sunwaymedicaldamansara.com.my/en/about-smcd/"
     publisher: "Sunway Medical Centre Damansara"
 

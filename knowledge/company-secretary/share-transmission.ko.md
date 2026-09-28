@@ -71,17 +71,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.105, 109, 110"
+  - title: "Companies Act 2016 (Act 777), 2022년 8월 1일자 재발행본 — 제105, 109, 110조 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.105, 109, 110)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.51, 101, 209 and 321"
+  - title: "Companies Act 2016 (Act 777) — 제51, 101, 209 및 321조 (Companies Act 2016 (Act 777) — ss.51, 101, 209 and 321)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "Garis Panduan Mengenai Duti Setem Ke Atas Suratcara Pindah Milik Saham Bagi Saham Syarikat Yang Tidak Tersenarai Di Bursa Malaysia Berhad"
+  - title: "부르사 말레이시아 버하드에 상장되지 않은 회사 주식의 주식 양도 증서에 대한 인지세 지침 (Garis Panduan Mengenai Duti Setem Ke Atas Suratcara Pindah Milik Saham Bagi Saham Syarikat Yang Tidak Tersenarai Di Bursa Malaysia Berhad)"
     url: "https://www.hasil.gov.my/wp-content/uploads/GP_SAHAM_2019_23062020_1.pdf"
-    publisher: "LHDN"
+    publisher: "말레이시아 국내세입청 (LHDN)"
     date: "2019-11-06"
 
 entity: "Transmission of shares"

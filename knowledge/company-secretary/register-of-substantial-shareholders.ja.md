@@ -55,15 +55,15 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777), Subdivision 7 — Substantial Shareholdings (sections 134–145)"
+  - title: "Companies Act 2016 (Act 777)、第7細分 — 実質株式保有（第134〜145条） (Companies Act 2016 (Act 777), Subdivision 7 — Substantial Shareholdings (sections 134–145))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Companies Commission of Malaysia (SSM)"
-  - title: "Notice of Interest of Substantial Shareholder (prescribed form, sections 137, 138 & 141)"
+    publisher: "マレーシア企業委員会 (SSM)"
+  - title: "実質株主の持分の通知（所定様式、第137条・138条・141条） (Notice of Interest of Substantial Shareholder (prescribed form, sections 137, 138 & 141))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Notice%20of%20interest%20of%20substantial%20shareholder_ss%20137,%20138,%20138%20&%20141_r2.pdf"
-    publisher: "Companies Commission of Malaysia (SSM)"
-  - title: "Companies Act 2016 (Act 777) — reprint as at 1 August 2022"
+    publisher: "マレーシア企業委員会 (SSM)"
+  - title: "Companies Act 2016 (Act 777)、2022年8月1日現在の再版 (Companies Act 2016 (Act 777) — reprint as at 1 August 2022)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
-    publisher: "Attorney General's Chambers (Laws of Malaysia)"
+    publisher: "司法長官府（マレーシア法令）"
 
 entity: "Register of substantial shareholders"
 relations:

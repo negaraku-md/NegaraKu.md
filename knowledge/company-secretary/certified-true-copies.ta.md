@@ -52,17 +52,17 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "MAICSA Updated Best Practice on Certification and Sighted Original of Documents by a Company Secretary"
+  - title: "நிறுவனச் செயலாளரால் ஆவணங்களை சான்றளித்தல் மற்றும் மூல ஆவணத்தைக் காணுதல் தொடர்பான MAICSA புதுப்பிக்கப்பட்ட சிறந்த நடைமுறை (MAICSA Updated Best Practice on Certification and Sighted Original of Documents by a Company Secretary)"
     url: "https://www.maicsa.org.my/resources/technical-research/technical-announcements/2025/250428-maicsa-updated-best-practice-on-certification-and-sighted-original-of-documents-by-a-company-secretary"
     publisher: "MAICSA"
     date: "2025-04-29"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி மறுபதிப்பு (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2022-08-01"
-  - title: "FAQ Part I — Return of Allotment of Shares (ROA) and Register of Members (ROM)"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் பகுதி I — பங்கு ஒதுக்கீட்டு அறிக்கை (ROA) மற்றும் உறுப்பினர் பதிவேடு (ROM) (FAQ Part I — Return of Allotment of Shares (ROA) and Register of Members (ROM))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20I%20s50s51%20311224.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-12-31"
 
 entity: "Certified True Copy"

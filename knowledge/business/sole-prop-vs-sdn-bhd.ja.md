@@ -42,15 +42,15 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777)、再版、2022年8月1日現在 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+    publisher: "マレーシア企業委員会 (SSM)"
+  - title: "Income Tax Act 1967 (Act 53)、再版、2024年5月21日現在 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
-  - title: "Companies Commission of Malaysia (SSM)"
+    publisher: "マレーシア内国歳入庁 (LHDN)"
+  - title: "マレーシア企業委員会 (SSM) (Companies Commission of Malaysia (SSM))"
     url: "https://www.ssm.com.my/"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
 
 entity: "Choice between a sole proprietorship and a Sdn Bhd"
 relations:

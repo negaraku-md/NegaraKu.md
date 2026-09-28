@@ -38,20 +38,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal)"
+  - title: "国家賃金諮問評議会事務局（Minimum Wages Order 2024ポータル）(Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal))"
     url: "https://gajiminimum.mohr.gov.my/"
-    publisher: "Ministry of Human Resources (MOHR)"
-  - title: "Perintah Gaji Minimum 2024 — P.U.(A) 376"
+    publisher: "人的資源省 (MOHR)"
+  - title: "Minimum Wages Order 2024 — P.U.(A) 376 (Perintah Gaji Minimum 2024 — P.U.(A) 376)"
     url: "https://gajiminimum.mohr.gov.my/wp-content/uploads/PUA%20376.pdf"
-    publisher: "Attorney General's Chambers / MOHR"
+    publisher: "司法長官府 / MOHR"
     date: "2024-12-04"
-  - title: "Household Income Survey Report 2024 (Malaysia & States)"
+  - title: "世帯所得調査報告書 2024（マレーシア及び各州）(Household Income Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "マレーシア統計局 (DOSM)"
     date: "2025-10-08"
-  - title: "Salaries and Wages Survey Report 2024"
+  - title: "給与・賃金調査報告書 2024 (Salaries and Wages Survey Report 2024)"
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "マレーシア統計局 (DOSM)"
     date: "2025-09-29"
 
 entity: "Malaysia minimum wage and median income"

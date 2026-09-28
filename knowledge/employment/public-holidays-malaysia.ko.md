@@ -56,17 +56,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026"
+  - title: "2026년 연방 및 주 공휴일 일정표 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026)"
     url: "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
-    publisher: "Bahagian Kabinet, Perlembagaan dan Perhubungan Antara Kerajaan, Jabatan Perdana Menteri"
+    publisher: "내각·헌법·정부간관계국, 총리실"
     date: "2025-08-01"
-  - title: "Holidays Act 1951 (Act 369), updated text"
+  - title: "Holidays Act 1951 (Act 369), 개정 본문 (Holidays Act 1951 (Act 369), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20369%20-%20Holiday%20Act%201951.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "법무장관실"
     date: "1951-01-01"
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Employment Act 1955 (Act 265), 2023년 1월 1일 기준 개정 본문 (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "말레이시아 반도 노동청"
     date: "2023-01-01"
 
 entity: "Public holidays in Malaysia"

@@ -54,16 +54,16 @@ verificationNeeded:
   - "二手来源（Allen & Gledhill与MahWengKwai）所描述的是已被取代的2019年版本（10项条件、30天）；此处仅作为背景保留。"
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777)，SSM 2022年8月1日重印本 (Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016 (9 June 2017, Revised 14 July 2026)"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "关于董事或成员根据 Companies Act 2016 第550条申请注销公司名称的指南（2017年6月9日，2026年7月14日修订） (Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016 (9 June 2017, Revised 14 July 2026))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20Section%20549(a)_140726.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Commission of Malaysia issues revised guidelines on application to strike off name of company under section 550 of Companies Act 2016 (covers the superseded 19 April 2019 version)"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "马来西亚公司委员会发布关于根据 Companies Act 2016 第550条申请注销公司名称的修订指南（涵盖已被取代的2019年4月19日版本） (Companies Commission of Malaysia issues revised guidelines on application to strike off name of company under section 550 of Companies Act 2016 (covers the superseded 19 April 2019 version))"
     url: "https://www.allenandgledhill.com/publication/articles/10978/companies-commission-issues-revised-guidelines-on-application-to-strike-off-name-of-company-under-section-550-of-companies-act-2016"
     publisher: "Allen & Gledhill"
-  - title: "Striking off a company under section 549(a) and 550 of the Companies Act 2016 (describes the 2019 framework)"
+  - title: "根据 Companies Act 2016 第549(a)及550条注销公司（描述2019年框架） (Striking off a company under section 549(a) and 550 of the Companies Act 2016 (describes the 2019 framework))"
     url: "https://mahwengkwai.com/striking-off-a-company-under-section-549a-and-550-of-the-companies-act-2016/"
     publisher: "MahWengKwai & Associates"
 

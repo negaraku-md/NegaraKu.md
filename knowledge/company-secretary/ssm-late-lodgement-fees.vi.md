@@ -45,19 +45,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016: Practice Directive No. 1/2017 (Revised 1 October 2024) — Documents under the Companies Act 2016, the Lodgement Requirements and Related Matters"
+  - title: "Companies Act 2016: Practice Directive No. 1/2017 (Sửa đổi ngày 1 tháng 10 năm 2024) — Các tài liệu theo Companies Act 2016, yêu cầu nộp hồ sơ và các vấn đề liên quan (Companies Act 2016: Practice Directive No. 1/2017 (Revised 1 October 2024) — Documents under the Companies Act 2016, the Lodgement Requirements and Related Matters)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2024-10-01"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 68, 258, 259 and 260"
+  - title: "Companies Act 2016 (Act 777), văn bản cập nhật tính đến ngày 1 tháng 8 năm 2022 — các điều 68, 258, 259 và 260 (Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 68, 258, 259 and 260)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Biểu phí — Đăng ký công ty (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
-  - title: "Frequently Asked Questions — MBRS"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Câu hỏi thường gặp — MBRS (Frequently Asked Questions — MBRS)"
     url: "https://www.ssm.com.my/Pages/FAQ/FAQ-MBRS.aspx"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "SSM late lodgement penalty"
 relations:

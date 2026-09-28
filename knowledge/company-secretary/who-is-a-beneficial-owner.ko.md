@@ -54,20 +54,20 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Guidelines for the Reporting Framework for Beneficial Ownership of Companies (Revised 10 January 2025)"
+  - title: "회사의 실소유권 보고 체계 지침 (2025년 1월 10일 개정) (Guidelines for the Reporting Framework for Beneficial Ownership of Companies (Revised 10 January 2025))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guideline%20BO%20(Revised)%202025%20fair.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2025-01-10"
-  - title: "Companies (Amendment) Act 2024 [Act A1701]"
+  - title: "Companies (Amendment) Act 2024 [Act A1701] (Companies (Amendment) Act 2024 [Act A1701])"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-02-02"
-  - title: "FAQ — Beneficial Ownership Reporting Framework of Companies"
+  - title: "FAQ — 회사의 실소유권 보고 체계 (FAQ — Beneficial Ownership Reporting Framework of Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQs%20on%20BO%20(English).pdf"
-    publisher: "SSM"
-  - title: "Case Studies and Illustrations of the Guidelines for the Reporting Framework for Beneficial Ownership of Companies"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "회사의 실소유권 보고 체계 지침의 사례 연구 및 예시 (Case Studies and Illustrations of the Guidelines for the Reporting Framework for Beneficial Ownership of Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/02_Case%20Studies%20&%20Illustrations%20(Post%20T&P)%20Final%20Uploaded%20Version.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
 
 entity: "Beneficial Owner"
 relations:

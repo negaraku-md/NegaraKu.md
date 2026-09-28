@@ -75,20 +75,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.549–556"
+  - title: "Companies Act 2016 (Act 777), 재판, 2022년 8월 1일 기준, 제549–556조 (Companies Act 2016 (Act 777), reprint as at 1 August 2022, ss.549–556)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "Companies Act 2016 제550조에 따라 이사 또는 사원이 회사명 말소를 신청하는 지침 (Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20_Section%20549_190419.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2019-04-19"
-  - title: "Guidelines for the Application to Strike a Company Off the Register under Section 550 during the Moratorium Period from 16 April 2025 to 30 September 2025"
+  - title: "2025년 4월 16일부터 2025년 9월 30일까지의 유예 기간 중 제550조에 따라 회사를 등기부에서 말소하는 신청 지침 (Guidelines for the Application to Strike a Company Off the Register under Section 550 during the Moratorium Period from 16 April 2025 to 30 September 2025)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20for%20Striking%20Off%20During%20the%20Moratorium%20Period%20(16.4.2025)_Final.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2025-04-16"
-  - title: "Practice Directive 1/2017 (Revised 1 October 2024) — late lodgement penalties and prescribed forms"
+  - title: "실무지침 1/2017 (2024년 10월 1일 개정) — 지연 접수 과태료 및 소정 양식 (Practice Directive 1/2017 (Revised 1 October 2024) — late lodgement penalties and prescribed forms)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-10-01"
 
 entity: "Striking off under section 550"

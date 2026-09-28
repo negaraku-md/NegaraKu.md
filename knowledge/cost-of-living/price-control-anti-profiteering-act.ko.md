@@ -52,13 +52,13 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "My Say: Key rules for businesses to know about the law on profiteering"
+  - title: "My Say: 폭리 관련 법률에 대해 기업이 알아야 할 주요 규칙 (My Say: Key rules for businesses to know about the law on profiteering)"
     url: "https://theedgemalaysia.com/node/722450"
     publisher: "The Edge Malaysia"
-  - title: "Ops Catut 2023: KPDN Issues 1,149 Notices"
+  - title: "Ops Catut 2023: KPDN, 1,149건의 통지서 발부 (Ops Catut 2023: KPDN Issues 1,149 Notices)"
     url: "https://www.bernama.com/en/general/news.php?id=2210744"
     publisher: "Bernama"
-  - title: "KPDN records enforcement gains as govt tightens control over subsidy leakages and price stability"
+  - title: "정부가 보조금 누수와 가격 안정에 대한 통제를 강화하면서 KPDN이 단속 성과 기록 (KPDN records enforcement gains as govt tightens control over subsidy leakages and price stability)"
     url: "https://www.thevibes.com/articles/news/122224/kpdn-records-enforcement-gains-as-govt-tightens-control-over-subsidy-leakages-and-price-stability"
     publisher: "The Vibes"
 

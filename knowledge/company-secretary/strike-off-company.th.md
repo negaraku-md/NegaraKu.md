@@ -54,16 +54,16 @@ verificationNeeded:
   - "แหล่งทุติยภูมิ (Allen & Gledhill และ MahWengKwai) อธิบายฉบับปี 2019 (10 เงื่อนไข 30 วัน) ที่ถูกแทนที่แล้ว; คงไว้เป็นภูมิหลังเท่านั้น"
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), SSM ฉบับพิมพ์ซ้ำ ณ วันที่ 1 สิงหาคม 2022 (Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016 (9 June 2017, Revised 14 July 2026)"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "แนวปฏิบัติเกี่ยวกับการยื่นคำขอโดยกรรมการหรือสมาชิกเพื่อขีดชื่อบริษัทออกภายใต้มาตรา 550 ของ Companies Act 2016 (9 มิถุนายน 2017, แก้ไข 14 กรกฎาคม 2026) (Guidelines on Application by Directors or Members to Strike Off the Name of a Company under Section 550 of the Companies Act 2016 (9 June 2017, Revised 14 July 2026))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines%20Section%20549(a)_140726.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Commission of Malaysia issues revised guidelines on application to strike off name of company under section 550 of Companies Act 2016 (covers the superseded 19 April 2019 version)"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "คณะกรรมการบริษัทแห่งมาเลเซียออกแนวปฏิบัติฉบับแก้ไขเกี่ยวกับการยื่นขอขีดชื่อบริษัทออกภายใต้มาตรา 550 ของ Companies Act 2016 (ครอบคลุมฉบับ 19 เมษายน 2019 ที่ถูกแทนที่) (Companies Commission of Malaysia issues revised guidelines on application to strike off name of company under section 550 of Companies Act 2016 (covers the superseded 19 April 2019 version))"
     url: "https://www.allenandgledhill.com/publication/articles/10978/companies-commission-issues-revised-guidelines-on-application-to-strike-off-name-of-company-under-section-550-of-companies-act-2016"
     publisher: "Allen & Gledhill"
-  - title: "Striking off a company under section 549(a) and 550 of the Companies Act 2016 (describes the 2019 framework)"
+  - title: "การขีดชื่อบริษัทออกภายใต้มาตรา 549(a) และ 550 ของ Companies Act 2016 (อธิบายกรอบปี 2019) (Striking off a company under section 549(a) and 550 of the Companies Act 2016 (describes the 2019 framework))"
     url: "https://mahwengkwai.com/striking-off-a-company-under-section-549a-and-550-of-the-companies-act-2016/"
     publisher: "MahWengKwai & Associates"
 

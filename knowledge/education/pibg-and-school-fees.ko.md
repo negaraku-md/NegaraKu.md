@@ -51,18 +51,18 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG)"
+  - title: "전문 회람 제4/2004호: 학부모교사협회(PIBG) 규약 (Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG))"
     url: "https://jpwpkl.moe.gov.my/muat-turun/sektor-pengurusan-sekolah/surat-pekeliling-iktisas-surat-pekeliling/556-surat-pekeliling-ikhtisas-bil-4-2004-perlembagaan-persatuan-ibu-bapa-guru/file"
-    publisher: "Jabatan Pendidikan WP Kuala Lumpur, Kementerian Pendidikan Malaysia"
-  - title: "Surat Pekeliling Ikhtisas Bil. 5/2001: Batasan Kuasa Persatuan Ibu Bapa Dan Guru (PIBG) Di Sekolah"
+    publisher: "쿠알라룸푸르 연방직할구 교육청, 말레이시아 교육부"
+  - title: "전문 회람 제5/2001호: 학교 내 학부모교사협회(PIBG) 권한의 제한 (Surat Pekeliling Ikhtisas Bil. 5/2001: Batasan Kuasa Persatuan Ibu Bapa Dan Guru (PIBG) Di Sekolah)"
     url: "https://www.moe.gov.my/surat-pekeliling-ikhtisas-bil-52001-batasan-kuasa-"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Surat Pekeliling Ikhtisas Bilangan 13 Tahun 2007: Pemansuhan Yuran Khas dan Garis Panduan Sistem Pakej Bayaran Tambahan"
+    publisher: "말레이시아 교육부"
+  - title: "전문 회람 2007년 제13호: 특별 요금 폐지 및 추가 납부 패키지 제도 지침 (Surat Pekeliling Ikhtisas Bilangan 13 Tahun 2007: Pemansuhan Yuran Khas dan Garis Panduan Sistem Pakej Bayaran Tambahan)"
     url: "https://www.moe.gov.my/surat-pekeliling-ikhtisas-bilangan-13-tahun-2007-p"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Senarai Pekeliling Ikhtisas KPM"
+    publisher: "말레이시아 교육부"
+  - title: "KPM 전문 회람 목록 (Senarai Pekeliling Ikhtisas KPM)"
     url: "https://www.moe.gov.my/pekeliling"
-    publisher: "Kementerian Pendidikan Malaysia"
+    publisher: "말레이시아 교육부"
 
 entity: "Persatuan Ibu Bapa-Guru (PIBG)"
 relations:

@@ -59,17 +59,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Labour Ordinance of Sarawak (Amendment) Act 2025 (Act A1754)"
+  - title: "Labour Ordinance of Sarawak (Amendment) Act 2025 (Act A1754) (Labour Ordinance of Sarawak (Amendment) Act 2025 (Act A1754))"
     url: "https://www.jtkswk.gov.my/v2/wp-content/uploads/2025/04/Act-A1754-LABOUR-ORDINANCE-OF-SARAWAK-AMENDMENT-ACT-2025-1.pdf"
-    publisher: "Jabatan Tenaga Kerja Sarawak"
+    publisher: "サラワク労働局"
     date: "2025-04-14"
-  - title: "Labour Ordinance (Sarawak Cap. 76), updated text as at 1 October 2024"
+  - title: "Labour Ordinance (Sarawak Cap. 76)、2024年10月1日現在の更新版テキスト (Labour Ordinance (Sarawak Cap. 76), updated text as at 1 October 2024)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2162184_BI/Labour%20Ord.%20%5BSarawak%20Cap.76%5D%20as%20at%201%20Oct%202024%20Online%20Final.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "司法長官府"
     date: "2024-10-01"
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Employment Act 1955 (Act 265)、2023年1月1日現在の更新版テキスト (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "マレーシア半島労働局"
     date: "2023-01-01"
 
 entity: "Labour Ordinances of Sabah and Sarawak"

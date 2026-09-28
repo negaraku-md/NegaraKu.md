@@ -57,19 +57,19 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777) — full text (nota permulaan kuat kuasa: 31 Januari 2017, P.U. (B) 50/2017)"
+  - title: "Companies Act 2016 (Act 777) — முழு உரை (அமலுக்கு வந்த குறிப்பு: 2017 ஜனவரி 31, P.U. (B) 50/2017) (Companies Act 2016 (Act 777) — full text (nota permulaan kuat kuasa: 31 Januari 2017, P.U. (B) 50/2017))"
     url: "https://www.investmalaysia.gov.my/media/isofddz0/companies-act-2016.pdf"
     publisher: "InvestMalaysia (MIDA) / Laws of Malaysia"
-  - title: "FAQs on Companies Act 2016 and Transitional Issues — Part G: Execution of Documents"
+  - title: "Companies Act 2016 மற்றும் இடைநிலை பிரச்சினைகள் குறித்த அடிக்கடி கேட்கப்படும் கேள்விகள் — பகுதி G: ஆவணங்களை நிறைவேற்றுதல் (FAQs on Companies Act 2016 and Transitional Issues — Part G: Execution of Documents)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQS-ON-COMPANIES-ACT-2016-AND-TRANSITIONAL-ISSUES/part_g.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Execution of Document Under The New Companies Act 2016"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "புதிய Companies Act 2016 இன் கீழ் ஆவணத்தை நிறைவேற்றுதல் (Execution of Document Under The New Companies Act 2016)"
     url: "https://www.azamlaw.com/publications/?a=18"
     publisher: "Azam & Rahman Advocates & Solicitors"
-  - title: "Signing a Contract on Behalf of the Company"
+  - title: "நிறுவனத்தின் சார்பாக ஒப்பந்தத்தில் கையெழுத்திடுதல் (Signing a Contract on Behalf of the Company)"
     url: "https://www.thomasphilip.com.my/articles/signing-a-contract-on-behalf-of-the-company/"
     publisher: "Thomas Philip Advocates & Solicitors"
-  - title: "Uncertainty in Signing Documents under the Companies Act 2016?"
+  - title: "Companies Act 2016 இன் கீழ் ஆவணங்களில் கையெழுத்திடுவதில் நிச்சயமற்ற தன்மை? (Uncertainty in Signing Documents under the Companies Act 2016?)"
     url: "https://themalaysianlawyer.com/2017/03/07/uncertainty-in-signing-documents-under-the-companies-act-2016/"
     publisher: "The Malaysian Lawyer (LEE & POH Partnership)"
 

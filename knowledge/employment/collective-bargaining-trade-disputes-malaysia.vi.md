@@ -57,16 +57,16 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Industrial Relations Act 1967 (Act 177) — official text"
+  - title: "Industrial Relations Act 1967 (Act 177) — văn bản chính thức (Industrial Relations Act 1967 (Act 177) — official text)"
     url: "https://www.investmalaysia.gov.my/media/d32lepas/industrial-relations-act-1967.pdf"
     publisher: "InvestMalaysia / MIDA"
-  - title: "Industrial Relation — setting up business content"
+  - title: "Quan hệ lao động — nội dung thành lập doanh nghiệp (Industrial Relation — setting up business content)"
     url: "https://www.mida.gov.my/setting-up-content/industrial-relation/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Industrial Relations Act 1967 amended to expedite dispute resolution processes"
+    publisher: "Cơ quan Phát triển Đầu tư Malaysia (MIDA)"
+  - title: "Industrial Relations Act 1967 được sửa đổi để đẩy nhanh quy trình giải quyết tranh chấp (Industrial Relations Act 1967 amended to expedite dispute resolution processes)"
     url: "https://www.allenandgledhill.com/publication/articles/17815/industrial-relations-act-1967-amended-to-expedite-dispute-resolution-processes"
     publisher: "Allen & Gledhill"
-  - title: "2022 Amendments to the Trade Unions Act 1959"
+  - title: "Các sửa đổi năm 2022 đối với Trade Unions Act 1959 (2022 Amendments to the Trade Unions Act 1959)"
     url: "https://dnh.com.my/2022-amendments-to-the-trade-unions-act-1959/"
     publisher: "Donovan & Ho"
 

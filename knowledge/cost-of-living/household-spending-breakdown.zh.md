@@ -38,17 +38,17 @@ sensitivity: "none"
 updated: 2026-07-24
 sourceContentHash: "4c5994da7bcbecd8"
 sources:
-  - title: "Household Expenditure Survey Report 2024"
+  - title: "家庭开支调查报告 2024 (Household Expenditure Survey Report 2024)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "马来西亚统计局 (DOSM)"
     date: "2025-10-08"
-  - title: "Household Expenditure Survey Report 2022"
+  - title: "家庭开支调查报告 2022 (Household Expenditure Survey Report 2022)"
     url: "https://www.dosm.gov.my/site/downloadrelease?id=household-expenditure-survey-report--malaysia--states-&lang=English&admin_view="
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "马来西亚统计局 (DOSM)"
     date: "2023-07-28"
-  - title: "Household Income and Expenditure Survey — Technical Notes"
+  - title: "家庭收入与开支调查 — 技术说明 (Household Income and Expenditure Survey — Technical Notes)"
     url: "https://open.dosm.gov.my/publications/technical-notes/hies-technotes"
-    publisher: "OpenDOSM / Department of Statistics Malaysia"
+    publisher: "OpenDOSM / 马来西亚统计局"
 
 entity: "Malaysia household expenditure structure"
 relations:

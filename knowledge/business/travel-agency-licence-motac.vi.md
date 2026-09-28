@@ -47,21 +47,21 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Tourism Industry Act 1992 (Act 482)"
+  - title: "Tourism Industry Act 1992 (Act 482) (Tourism Industry Act 1992 (Act 482))"
     url: "https://www.motac.gov.my/en/muat-turun/act-482-muktamad-tourism-industry-act-1992-en-2/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Travel Agency — Licence Application"
+    publisher: "Bộ Du lịch, Nghệ thuật và Văn hóa (MOTAC)"
+  - title: "Đại lý Du lịch — Đơn xin Giấy phép (Travel Agency — Licence Application)"
     url: "https://www.motac.gov.my/en/services/license-application/travel-agency"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Travel Agency (TOBTAB) — Licensed Agency Registry and Categories"
+    publisher: "Bộ Du lịch, Nghệ thuật và Văn hóa (MOTAC)"
+  - title: "Đại lý Du lịch (TOBTAB) — Sổ đăng ký và Phân loại Đại lý được Cấp phép (Travel Agency (TOBTAB) — Licensed Agency Registry and Categories)"
     url: "https://www.motac.gov.my/en/kategori-semakan-new/travel-agency-tobtab/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Tourism Licensing and Enforcement Division"
+    publisher: "Bộ Du lịch, Nghệ thuật và Văn hóa (MOTAC)"
+  - title: "Phòng Cấp phép và Thực thi Du lịch (Tourism Licensing and Enforcement Division)"
     url: "https://www.motac.gov.my/en/bahagian-dan-unit/tourism-licensing-and-enforcement-division/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
-  - title: "Enforcement Action Against Unlicensed Tourism Activities"
+    publisher: "Bộ Du lịch, Nghệ thuật và Văn hóa (MOTAC)"
+  - title: "Hành động Thực thi đối với Hoạt động Du lịch không Giấy phép (Enforcement Action Against Unlicensed Tourism Activities)"
     url: "https://www.motac.gov.my/en/enforcement-action-against-unlicensed-tourism-activities/"
-    publisher: "Ministry of Tourism, Arts and Culture (MOTAC)"
+    publisher: "Bộ Du lịch, Nghệ thuật và Văn hóa (MOTAC)"
 
 entity: "Travel Agency Licence (MOTAC, Malaysia)"
 relations:

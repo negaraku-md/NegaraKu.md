@@ -48,21 +48,21 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Licensed Warehouse — Licensing (Pelesenan Gudang Berlesen)"
+  - title: "持牌仓库 — 牌照 (Licensed Warehouse — Licensing (Pelesenan Gudang Berlesen))"
     url: "https://www.customs.gov.my/en/business/facilitation/licensed-warehouse/licensing"
-    publisher: "Royal Malaysian Customs Department (JKDM)"
-  - title: "Licensed Manufacturing Warehouse (LMW) — Introduction"
+    publisher: "马来西亚皇家关税局 (JKDM)"
+  - title: "持牌制造仓库 (LMW) — 简介 (Licensed Manufacturing Warehouse (LMW) — Introduction)"
     url: "https://www.customs.gov.my/en/business/facilitation/license-manufacturing-warehouse-lmw/introduction"
-    publisher: "Royal Malaysian Customs Department (JKDM)"
+    publisher: "马来西亚皇家关税局 (JKDM)"
   - title: "Customs Act 1967 (Act 235)"
     url: "https://www.customs.gov.my/ms/pg/Akta%20Kastam/AKTA%20KASTAM%201967-1.pdf"
-    publisher: "Royal Malaysian Customs Department (JKDM)"
-  - title: "Glossary: Licensed Manufacturing Warehouse (LMW)"
+    publisher: "马来西亚皇家关税局 (JKDM)"
+  - title: "术语表：持牌制造仓库 (LMW) (Glossary: Licensed Manufacturing Warehouse (LMW))"
     url: "https://www.miti.gov.my/index.php/glossary/term/117"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Fire Certificate (Perakuan Bomba)"
+    publisher: "投资、贸易及工业部 (MITI)"
+  - title: "消防证书 (Fire Certificate (Perakuan Bomba))"
     url: "https://www.bomba.gov.my/en/perakuan-bomba/"
-    publisher: "Fire and Rescue Department of Malaysia (BOMBA)"
+    publisher: "马来西亚消防及拯救局 (BOMBA)"
 
 entity: "Warehouse Licence (Malaysia)"
 relations:

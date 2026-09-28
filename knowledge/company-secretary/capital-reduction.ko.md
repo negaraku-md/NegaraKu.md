@@ -91,17 +91,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.112–122"
+  - title: "Companies Act 2016 (Act 777), 2022년 8월 1일 기준 재발행본 — 제112–122조 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.112–122)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.292 and 316 on special resolutions and notice"
+  - title: "Companies Act 2016 (Act 777) — 특별결의 및 통지에 관한 제292조 및 제316조 (Companies Act 2016 (Act 777) — ss.292 and 316 on special resolutions and notice)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "SSM Table of Fees — Registration of Companies"
+  - title: "SSM 수수료표 — 회사 등록 (SSM Table of Fees — Registration of Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-10-01"
 
 entity: "Reduction of share capital"

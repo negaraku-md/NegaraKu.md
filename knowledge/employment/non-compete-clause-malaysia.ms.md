@@ -45,11 +45,11 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Contracts Act 1950 (Act 136), reprint incorporating all amendments up to 1 January 2006"
+  - title: "Contracts Act 1950 (Act 136), cetakan semula yang menggabungkan semua pindaan sehingga 1 Januari 2006 (Contracts Act 1950 (Act 136), reprint incorporating all amendments up to 1 January 2006)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20136.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Jabatan Peguam Negara"
     date: "2006-01-01"
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Employment Act 1955 (Act 265), teks dikemas kini setakat 1 Januari 2023 (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
     publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
     date: "2023-01-01"

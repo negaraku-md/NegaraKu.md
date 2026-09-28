@@ -77,17 +77,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Employment Act 1955 (Act 265)"
+  - title: "Employment Act 1955 (Act 265) (Employment Act 1955 (Act 265))"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "JTKSM"
+    publisher: "马来西亚半岛劳工局 (JTKSM)"
     date: "2022-01-01"
-  - title: "Employment (Termination and Lay-Off Benefits) Regulations 1980"
+  - title: "Employment (Termination and Lay-Off Benefits) Regulations 1980 (Employment (Termination and Lay-Off Benefits) Regulations 1980)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-03/8.%20EMPLOYMENT%20(TERMINATION%20&%20LAY%20OFF%20BENEFITS)%20REGULATIONS%201980_0.pdf"
-    publisher: "JTKSM"
+    publisher: "马来西亚半岛劳工局 (JTKSM)"
     date: "1980-10-01"
-  - title: "Jabatan Tenaga Kerja Semenanjung Malaysia — official portal"
+  - title: "马来西亚半岛劳工局 — 官方门户网站 (Jabatan Tenaga Kerja Semenanjung Malaysia — official portal)"
     url: "https://jtksm.mohr.gov.my/en"
-    publisher: "JTKSM"
+    publisher: "马来西亚半岛劳工局 (JTKSM)"
     date: "2026-01-01"
 
 entity: "Domestic inquiry"

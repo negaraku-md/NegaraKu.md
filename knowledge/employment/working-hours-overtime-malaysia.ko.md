@@ -69,17 +69,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Employment Act 1955 (Act 265), 2023년 1월 1일 기준 개정 본문 (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "말레이시아 반도 노동청"
     date: "2023-01-01"
-  - title: "Employment (Limitation of Overtime Work) Regulations 1980"
+  - title: "Employment (Limitation of Overtime Work) Regulations 1980 (Employment (Limitation of Overtime Work) Regulations 1980)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-03/7.%20EMPLOYMENT%20(LIMITATION%20OF%20OVERTIME%20WORK)%20REGULATIONS%201980_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "말레이시아 반도 노동청"
     date: "1991-10-17"
-  - title: "Minimum Wages Order 2024, P.U.(A) 376"
+  - title: "Minimum Wages Order 2024, P.U.(A) 376 (Minimum Wages Order 2024, P.U.(A) 376)"
     url: "https://gajiminimum.mohr.gov.my/wp-content/uploads/PUA%20376.pdf"
-    publisher: "Ministry of Human Resources"
+    publisher: "인적자원부"
     date: "2024-12-04"
 
 entity: "Overtime under the Employment Act 1955"

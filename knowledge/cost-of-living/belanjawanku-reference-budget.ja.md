@@ -53,19 +53,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "12 December 2024 | The Launch of Belanjawanku 2024/2025"
+  - title: "2024年12月12日 | Belanjawanku 2024/2025の発表 (12 December 2024 | The Launch of Belanjawanku 2024/2025)"
     url: "https://swrc.um.edu.my/events/12-december-2024-the-launch-of-belanjawanku-2024-2025"
     publisher: "Pusat Penyelidikan Kesejahteraan Sosial (SWRC), Universiti Malaya"
-  - title: "Cost of living in the Klang Valley up by 6.7 per cent"
+  - title: "クランバレーの生活費が6.7％上昇 (Cost of living in the Klang Valley up by 6.7 per cent)"
     url: "https://www.thevibes.com/articles/business/104297/cost-of-living-in-the-klang-valley-up-by-6.7-per-cent"
     publisher: "The Vibes"
-  - title: "How much to spend monthly and save for later: Your guide to EPF's new Belanjawanku and retirement framework"
+  - title: "毎月いくら使い、将来にいくら貯めるか：EPFの新しいBelanjawankuと退職フレームワークのガイド (How much to spend monthly and save for later: Your guide to EPF's new Belanjawanku and retirement framework)"
     url: "https://www.malaymail.com/news/malaysia/2024/12/13/how-much-to-spend-monthly-and-save-for-later-day-your-guide-to-understanding-epfs-new-belanjawanku-and-retirement-framework/159667"
     publisher: "Malay Mail"
-  - title: "EPF Releases Belanjawanku 2024/2025 And Retirement Income Adequacy Framework (siaran akhbar rasmi, 12 Disember 2024)"
+  - title: "EPFがBelanjawanku 2024/2025および退職所得充足フレームワークを公表（公式プレスリリース、2024年12月12日） (EPF Releases Belanjawanku 2024/2025 And Retirement Income Adequacy Framework (siaran akhbar rasmi, 12 Disember 2024))"
     url: "https://www.maicsa.org.my/media/9802/technical_announcements_241213_1_1.pdf"
-    publisher: "Kumpulan Wang Simpanan Pekerja (KWSP)"
-  - title: "Launching of 'BELANJAWANKU Guidebook 2019' by EPF — Collaboration between University of Malaya and EPF"
+    publisher: "従業員積立基金 (KWSP)"
+  - title: "EPFによる『BELANJAWANKU Guidebook 2019』の発表 — マラヤ大学とEPFの協働 (Launching of 'BELANJAWANKU Guidebook 2019' by EPF — Collaboration between University of Malaya and EPF)"
     url: "https://swrc.um.edu.my/events/launching-of-lsquo-belanjawanku-guidebook-2019-rsquo-by-epf-collaboration-between-university-of-malaya-and-epf"
     publisher: "Pusat Penyelidikan Kesejahteraan Sosial (SWRC), Universiti Malaya"
 

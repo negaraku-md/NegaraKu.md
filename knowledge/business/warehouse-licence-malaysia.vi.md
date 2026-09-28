@@ -47,21 +47,21 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Licensed Warehouse — Licensing (Pelesenan Gudang Berlesen)"
+  - title: "Kho hàng được cấp phép — Cấp phép (Licensed Warehouse — Licensing (Pelesenan Gudang Berlesen))"
     url: "https://www.customs.gov.my/en/business/facilitation/licensed-warehouse/licensing"
-    publisher: "Royal Malaysian Customs Department (JKDM)"
-  - title: "Licensed Manufacturing Warehouse (LMW) — Introduction"
+    publisher: "Tổng cục Hải quan Hoàng gia Malaysia (JKDM)"
+  - title: "Kho sản xuất được cấp phép (LMW) — Giới thiệu (Licensed Manufacturing Warehouse (LMW) — Introduction)"
     url: "https://www.customs.gov.my/en/business/facilitation/license-manufacturing-warehouse-lmw/introduction"
-    publisher: "Royal Malaysian Customs Department (JKDM)"
+    publisher: "Tổng cục Hải quan Hoàng gia Malaysia (JKDM)"
   - title: "Customs Act 1967 (Act 235)"
     url: "https://www.customs.gov.my/ms/pg/Akta%20Kastam/AKTA%20KASTAM%201967-1.pdf"
-    publisher: "Royal Malaysian Customs Department (JKDM)"
-  - title: "Glossary: Licensed Manufacturing Warehouse (LMW)"
+    publisher: "Tổng cục Hải quan Hoàng gia Malaysia (JKDM)"
+  - title: "Thuật ngữ: Kho sản xuất được cấp phép (LMW) (Glossary: Licensed Manufacturing Warehouse (LMW))"
     url: "https://www.miti.gov.my/index.php/glossary/term/117"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Fire Certificate (Perakuan Bomba)"
+    publisher: "Bộ Đầu tư, Thương mại và Công nghiệp (MITI)"
+  - title: "Giấy chứng nhận phòng cháy chữa cháy (Fire Certificate (Perakuan Bomba))"
     url: "https://www.bomba.gov.my/en/perakuan-bomba/"
-    publisher: "Fire and Rescue Department of Malaysia (BOMBA)"
+    publisher: "Cục Phòng cháy và Cứu hộ Malaysia (BOMBA)"
 
 entity: "Warehouse Licence (Malaysia)"
 relations:

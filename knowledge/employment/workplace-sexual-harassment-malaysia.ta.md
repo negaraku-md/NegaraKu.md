@@ -87,17 +87,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023 — Part XVA"
+  - title: "Employment Act 1955 (Act 265), 2023 ஜனவரி 1 வரையிலான புதுப்பிக்கப்பட்ட உரை — பகுதி XVA (Employment Act 1955 (Act 265), updated text as at 1 January 2023 — Part XVA)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "மலேசியத் தீபகற்பத் தொழிலாளர் துறை"
     date: "2023-01-01"
-  - title: "Anti-Sexual Harassment Act 2022 (Act 840)"
+  - title: "Anti-Sexual Harassment Act 2022 (Act 840) (Anti-Sexual Harassment Act 2022 (Act 840))"
     url: "https://lom.agc.gov.my/act-detail.php?language=BI&act=840"
-    publisher: "Attorney General's Chambers"
+    publisher: "தலைமை வழக்கறிஞர் அலுவலகம்"
     date: "2022-10-18"
-  - title: "P.U.(B) 77/2024 — appointment of date of coming into operation, Anti-Sexual Harassment Act 2022"
+  - title: "P.U.(B) 77/2024 — அமலுக்கு வரும் தேதி நியமனம், Anti-Sexual Harassment Act 2022 (P.U.(B) 77/2024 — appointment of date of coming into operation, Anti-Sexual Harassment Act 2022)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2052792/PUB77.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "தலைமை வழக்கறிஞர் அலுவலகம்"
     date: "2024-03-07"
 
 entity: "Sexual harassment at work in Malaysia"

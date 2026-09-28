@@ -51,16 +51,16 @@ verificationNeeded:
   - "인용된 부르사(Bursa) 수치는 메인 시장 상장규정(Main Market Listing Requirements, 제6장 Part G, 2025년 1월 2일 기준)에서 나온 것으로, ACE 시장의 상응 규정은 다를 수 있습니다. 제도가 ACE 상장 발행인과 관련되는 경우 그에 상응하는 ACE 규정을 확인하고, 발행 시점에 공개 예규 11/2012호(Public Ruling 11/2012)가 대체되지 않았는지 다시 확인하십시오."
 updated: 2026-09-07
 sources:
-  - title: "Public Ruling No. 11/2012: Employee Share Scheme Benefit"
+  - title: "공개 예규 제11/2012호: 종업원 주식 제도 혜택 (Public Ruling No. 11/2012: Employee Share Scheme Benefit)"
     url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR11_2012.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Companies Act 2016 (Act 777)"
+    publisher: "말레이시아 국내세입청 (LHDN)"
+  - title: "Companies Act 2016 (Act 777) (Companies Act 2016 (Act 777))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Public Ruling No. 5/2019: Perquisites from Employment"
+    publisher: "말레이시아 법무장관실"
+  - title: "공개 예규 제5/2019호: 고용으로 인한 부가급여 (Public Ruling No. 5/2019: Perquisites from Employment)"
     url: "http://lampiran2.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Main Market Listing Requirements — Chapter 6 (New Issues of Securities)"
+    publisher: "말레이시아 국내세입청 (LHDN)"
+  - title: "메인 마켓 상장 요건 — 제6장 (증권의 신규 발행) (Main Market Listing Requirements — Chapter 6 (New Issues of Securities))"
     url: "https://www.bursamalaysia.com/regulation/listing_requirements/main_market"
     publisher: "Bursa Malaysia Securities Berhad"
 

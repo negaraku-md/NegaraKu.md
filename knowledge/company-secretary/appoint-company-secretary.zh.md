@@ -82,19 +82,19 @@ obligations:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777)，2022年8月1日重印本 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "Companies Act 2016 — 法律框架 (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
   - title: "Companies Commission of Malaysia Act 2001 (Act 614)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Commission-of-Malaysia-Act-2001.aspx"
-    publisher: "SSM"
-  - title: "e-Secretary — practising certificate for secretaries"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "e-Secretary — 秘书执业证书 (e-Secretary — practising certificate for secretaries)"
     url: "https://esecretary.ssm.com.my/"
-    publisher: "SSM"
-  - title: "Malaysian Institute of Chartered Secretaries and Administrators (MAICSA)"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "马来西亚特许秘书及行政人员协会 (MAICSA) (Malaysian Institute of Chartered Secretaries and Administrators (MAICSA))"
     url: "https://www.maicsa.org.my/"
     publisher: "MAICSA"
 

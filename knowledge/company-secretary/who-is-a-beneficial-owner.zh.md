@@ -58,20 +58,20 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Guidelines for the Reporting Framework for Beneficial Ownership of Companies (Revised 10 January 2025)"
+  - title: "公司实益拥有权报告框架指南（2025年1月10日修订） (Guidelines for the Reporting Framework for Beneficial Ownership of Companies (Revised 10 January 2025))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guideline%20BO%20(Revised)%202025%20fair.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2025-01-10"
-  - title: "Companies (Amendment) Act 2024 [Act A1701]"
+  - title: "Companies (Amendment) Act 2024 [Act A1701] (Companies (Amendment) Act 2024 [Act A1701])"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2024-02-02"
-  - title: "FAQ — Beneficial Ownership Reporting Framework of Companies"
+  - title: "常见问题 — 公司实益拥有权报告框架 (FAQ — Beneficial Ownership Reporting Framework of Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQs%20on%20BO%20(English).pdf"
-    publisher: "SSM"
-  - title: "Case Studies and Illustrations of the Guidelines for the Reporting Framework for Beneficial Ownership of Companies"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "公司实益拥有权报告框架指南的案例研究与图解 (Case Studies and Illustrations of the Guidelines for the Reporting Framework for Beneficial Ownership of Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/02_Case%20Studies%20&%20Illustrations%20(Post%20T&P)%20Final%20Uploaded%20Version.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
 
 entity: "Beneficial Owner"
 relations:

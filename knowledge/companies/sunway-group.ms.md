@@ -54,16 +54,16 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "Sunway Berhad Posts Profit Before Tax of RM1.5 Billion With Record-High Revenue of RM7.9 Billion for FY2024"
+  - title: "Sunway Berhad Catat Keuntungan Sebelum Cukai RM1.5 Billion Dengan Hasil Rekod Tertinggi RM7.9 Billion Bagi FY2024 (Sunway Berhad Posts Profit Before Tax of RM1.5 Billion With Record-High Revenue of RM7.9 Billion for FY2024)"
     url: "https://www.sunway.com.my/media/press-release/sunway-berhad-posts-profit-before-tax-of-rm1-5-billion-with-record-high-revenue-of-rm7-9-billion-for-fy2024/"
     publisher: "Sunway Berhad"
-  - title: "GIC Invests RM750 Million in Sunway Healthcare"
+  - title: "GIC Melabur RM750 Million dalam Sunway Healthcare (GIC Invests RM750 Million in Sunway Healthcare)"
     url: "https://www.sunway.com.my/media/press-release/gic-invests-rm750-million-in-sunway-healthcare/"
     publisher: "Sunway Berhad"
-  - title: "Sunway Healthcare ends Main Market debut 28% higher"
+  - title: "Sunway Healthcare menamatkan debut Pasaran Utama 28% lebih tinggi (Sunway Healthcare ends Main Market debut 28% higher)"
     url: "https://theedgemalaysia.com/node/796630"
     publisher: "The Edge Malaysia"
-  - title: "About SMCD — Sunway Medical Centre Damansara"
+  - title: "Perihal SMCD — Sunway Medical Centre Damansara (About SMCD — Sunway Medical Centre Damansara)"
     url: "https://www.sunwaymedicaldamansara.com.my/en/about-smcd/"
     publisher: "Sunway Medical Centre Damansara"
 

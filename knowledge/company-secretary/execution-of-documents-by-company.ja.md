@@ -57,19 +57,19 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777) — full text (nota permulaan kuat kuasa: 31 Januari 2017, P.U. (B) 50/2017)"
+  - title: "Companies Act 2016 (Act 777) — 全文（施行開始の注記：2017年1月31日、P.U. (B) 50/2017） (Companies Act 2016 (Act 777) — full text (nota permulaan kuat kuasa: 31 Januari 2017, P.U. (B) 50/2017))"
     url: "https://www.investmalaysia.gov.my/media/isofddz0/companies-act-2016.pdf"
     publisher: "InvestMalaysia (MIDA) / Laws of Malaysia"
-  - title: "FAQs on Companies Act 2016 and Transitional Issues — Part G: Execution of Documents"
+  - title: "Companies Act 2016 および経過措置に関するFAQ — パートG：書類の締結 (FAQs on Companies Act 2016 and Transitional Issues — Part G: Execution of Documents)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQS-ON-COMPANIES-ACT-2016-AND-TRANSITIONAL-ISSUES/part_g.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Execution of Document Under The New Companies Act 2016"
+    publisher: "マレーシア企業委員会 (SSM)"
+  - title: "新しいCompanies Act 2016に基づく書類の締結 (Execution of Document Under The New Companies Act 2016)"
     url: "https://www.azamlaw.com/publications/?a=18"
     publisher: "Azam & Rahman Advocates & Solicitors"
-  - title: "Signing a Contract on Behalf of the Company"
+  - title: "会社を代表しての契約の署名 (Signing a Contract on Behalf of the Company)"
     url: "https://www.thomasphilip.com.my/articles/signing-a-contract-on-behalf-of-the-company/"
     publisher: "Thomas Philip Advocates & Solicitors"
-  - title: "Uncertainty in Signing Documents under the Companies Act 2016?"
+  - title: "Companies Act 2016 に基づく書類署名における不確実性？ (Uncertainty in Signing Documents under the Companies Act 2016?)"
     url: "https://themalaysianlawyer.com/2017/03/07/uncertainty-in-signing-documents-under-the-companies-act-2016/"
     publisher: "The Malaysian Lawyer (LEE & POH Partnership)"
 

@@ -76,20 +76,20 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies (Amendment) Act 2024 [Act A1701]"
+  - title: "Companies (Amendment) Act 2024 [Act A1701] (Companies (Amendment) Act 2024 [Act A1701])"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2024-02-02"
-  - title: "Guidelines for the Reporting Framework for Beneficial Ownership of Companies (Revised 10 January 2025)"
+  - title: "Hướng dẫn về Khung Báo cáo Chủ sở hữu hưởng lợi của Công ty (Sửa đổi ngày 10 tháng 1 năm 2025) (Guidelines for the Reporting Framework for Beneficial Ownership of Companies (Revised 10 January 2025))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guideline%20BO%20(Revised)%202025%20fair.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2025-01-10"
-  - title: "FAQ — Beneficial Ownership Reporting Framework of Companies"
+  - title: "Câu hỏi thường gặp — Khung Báo cáo Chủ sở hữu hưởng lợi của Công ty (FAQ — Beneficial Ownership Reporting Framework of Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQs%20on%20BO%20(English).pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 [Act 777]"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Companies Act 2016 [Act 777] (Companies Act 2016 [Act 777])"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Register of Beneficial Owners"
 relations:

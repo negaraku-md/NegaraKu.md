@@ -74,19 +74,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Employer Mandatory Contribution"
+  - title: "Đóng góp bắt buộc của người sử dụng lao động (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
-    publisher: "KWSP"
-  - title: "EPF Act 1991 Third Schedule"
+    publisher: "Quỹ Tiết kiệm Nhân viên (KWSP)"
+  - title: "Phụ lục thứ Ba của EPF Act 1991 (EPF Act 1991 Third Schedule)"
     url: "https://www.kwsp.gov.my/en/epf-act-1991-third-schedule"
-    publisher: "KWSP"
+    publisher: "Quỹ Tiết kiệm Nhân viên (KWSP)"
     date: "2026-05-26"
-  - title: "Third Schedule effective 1 October 2025"
+  - title: "Phụ lục thứ Ba có hiệu lực từ 1 tháng 10 năm 2025 (Third Schedule effective 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "KWSP"
-  - title: "Contribution For Non-Malaysian Citizen Employees"
+    publisher: "Quỹ Tiết kiệm Nhân viên (KWSP)"
+  - title: "Đóng góp cho người lao động không phải công dân Malaysia (Contribution For Non-Malaysian Citizen Employees)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/non-malaysian-citizen-employees"
-    publisher: "KWSP"
+    publisher: "Quỹ Tiết kiệm Nhân viên (KWSP)"
 
 entity: "EPF employer contributions"
 relations:

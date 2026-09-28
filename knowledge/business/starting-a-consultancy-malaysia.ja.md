@@ -51,18 +51,18 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Company Tax Rate (SME 15% / 17% / 24%)"
+  - title: "法人税率 (中小企業 15% / 17% / 24%) (Company Tax Rate (SME 15% / 17% / 24%))"
     url: "https://www.hasil.gov.my/en/syarikat/kadar-cukai-syarikat/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "MySST — Service Tax (Professional Services, Group G)"
+    publisher: "マレーシア内国歳入庁 (LHDN)"
+  - title: "MySST — サービス税 (専門サービス、グループG) (MySST — Service Tax (Professional Services, Group G))"
     url: "https://mysst.customs.gov.my/"
-    publisher: "Royal Malaysian Customs Department (RMCD)"
-  - title: "Accountants Act 1967 and MIA Membership"
+    publisher: "マレーシア王立関税局 (RMCD)"
+  - title: "Accountants Act 1967 および MIA 会員資格 (Accountants Act 1967 and MIA Membership)"
     url: "https://mia.org.my/regulatory-public-interest/accountants-act-1967/"
-    publisher: "Malaysian Institute of Accountants (MIA)"
-  - title: "Starting a Limited Liability Partnership (LLP)"
+    publisher: "マレーシア会計士協会 (MIA)"
+  - title: "有限責任事業組合 (LLP) の設立 (Starting a Limited Liability Partnership (LLP))"
     url: "https://www.ssm.com.my/"
-    publisher: "Companies Commission of Malaysia (SSM)"
+    publisher: "マレーシア企業委員会 (SSM)"
 
 entity: "Consultancy / Professional Services Firm (Malaysia)"
 relations:

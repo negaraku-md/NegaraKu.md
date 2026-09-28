@@ -55,18 +55,18 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Consumer Protection (Electronic Trade Transaction) Regulations 2024 (P.U.(A) 449/2024)"
+  - title: "Consumer Protection (Electronic Trade Transaction) Regulations 2024 (P.U.(A) 449/2024) (Consumer Protection (Electronic Trade Transaction) Regulations 2024 (P.U.(A) 449/2024))"
     url: "https://lom.agc.gov.my/"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Sales Tax on Imported Low-Value Goods Sold Online (press release)"
+    publisher: "மலேசியா அட்டர்னி ஜெனரல் அலுவலகம்"
+  - title: "ஆன்லைனில் விற்கப்படும் இறக்குமதி செய்யப்பட்ட குறைந்த மதிப்புள்ள பொருட்களுக்கான விற்பனை வரி (செய்திக் குறிப்பு) (Sales Tax on Imported Low-Value Goods Sold Online (press release))"
     url: "https://www.mof.gov.my/portal/en/news/press-release/sales-tax-on-imported-low-value-goods-sold-online"
-    publisher: "Ministry of Finance Malaysia"
-  - title: "e-Invoice"
+    publisher: "மலேசிய நிதி அமைச்சு"
+  - title: "மின்-விலைப்பட்டியல் (e-Invoice)"
     url: "https://www.hasil.gov.my/en/e-invoice/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Registration of Business (ROB) — ezBIZ Online"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "வணிகப் பதிவு (ROB) — ezBIZ Online (Registration of Business (ROB) — ezBIZ Online)"
     url: "https://ezbiz.ssm.com.my/"
-    publisher: "Companies Commission of Malaysia (SSM)"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "E-commerce / Online Business (Malaysia)"
 relations:

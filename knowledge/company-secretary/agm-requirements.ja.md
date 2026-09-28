@@ -81,17 +81,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.31, 33, 316, 340"
+  - title: "Companies Act 2016 (Act 777)、2022年8月1日現在の再版 — 第31、33、316、340条 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.31, 33, 316, 340)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア会社委員会 (SSM)"
     date: "2022-08-01"
-  - title: "Practice Note No. 3/2018 — Application for Extension of Time under Sections 259, 260 and 340"
+  - title: "実務ノート第 3/2018 号 — 第 259、260 および 340 条に基づく期間延長の申請 (Practice Note No. 3/2018 — Application for Extension of Time under Sections 259, 260 and 340)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
-    publisher: "SSM"
+    publisher: "マレーシア会社委員会 (SSM)"
     date: "2018-01-01"
-  - title: "Companies Act 2016 (Act 777) — ss.258, 259 circulation and lodgement of financial statements"
+  - title: "Companies Act 2016 (Act 777) — 第258、259条 財務諸表の回付および提出 (Companies Act 2016 (Act 777) — ss.258, 259 circulation and lodgement of financial statements)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア会社委員会 (SSM)"
     date: "2022-08-01"
 
 entity: "Annual general meeting"

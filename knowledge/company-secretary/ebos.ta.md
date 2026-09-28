@@ -45,16 +45,16 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "FAQ — Implementation of the Electronic Beneficial Ownership System (e-BOS)"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் — மின்னணு பயனாளி உரிமையாளர் அமைப்பு (e-BOS) செயல்படுத்தல் (FAQ — Implementation of the Electronic Beneficial Ownership System (e-BOS))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQ%20BO%20(OPERATION%20BI).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 9/2024 — Lodgement of Beneficial Ownership Information under the Companies Act 2016 through e-BOS"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "நடைமுறை ஆணை எண். 9/2024 — e-BOS மூலம் Companies Act 2016 இன் கீழ் பயனாளி உரிமையாளர் தகவலை தாக்கல் செய்தல் (Practice Directive No. 9/2024 — Lodgement of Beneficial Ownership Information under the Companies Act 2016 through e-BOS)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%209%202024%20(Final)%20Uploaded%20version.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-05-13"
-  - title: "Beneficial Ownership Information — product page"
+  - title: "பயனாளி உரிமையாளர் தகவல் — தயாரிப்பு பக்கம் (Beneficial Ownership Information — product page)"
     url: "https://www.ssm.com.my/Pages/Product/Beneficial-Ownership-Information.aspx"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "e-BOS"
 relations:

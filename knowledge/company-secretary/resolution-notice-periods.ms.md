@@ -85,17 +85,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–296 resolutions"
+  - title: "Companies Act 2016 (Act 777), cetakan semula pada 1 Ogos 2022 — s.290–296 ketetapan (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–296 resolutions)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.309–326 meetings and notice of meetings"
+  - title: "Companies Act 2016 (Act 777) — s.309–326 mesyuarat dan notis mesyuarat (Companies Act 2016 (Act 777) — ss.309–326 meetings and notice of meetings)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.297–308 written resolutions and s.334 proxies"
+  - title: "Companies Act 2016 (Act 777) — s.297–308 ketetapan bertulis dan s.334 proksi (Companies Act 2016 (Act 777) — ss.297–308 written resolutions and s.334 proxies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2022-08-01"
 
 entity: "Notice periods for company meetings and resolutions"

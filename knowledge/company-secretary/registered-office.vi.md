@@ -80,16 +80,16 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), bản in lại tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Notification for a Change in the Registered Address — Section 46"
+  - title: "Thông báo thay đổi địa chỉ đăng ký — Section 46 (Notification for a Change in the Registered Address — Section 46)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/14._notification_for_a_change_in_the_registered_address_-_section_46.pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Companies Act 2016 — khung pháp lý (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Registered Office"
 relations:

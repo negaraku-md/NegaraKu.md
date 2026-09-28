@@ -96,17 +96,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.75–78, 84, 85"
+  - title: "Companies Act 2016 (Act 777)、2022年8月1日現在の再版 — 第75〜78条・84条・85条 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.75–78, 84, 85)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2022-08-01"
-  - title: "SSM FAQ Part I — Sections 50 and 51, updated 31 December 2024"
+  - title: "SSM FAQ パートI — 第50条および51条、2024年12月31日更新 (SSM FAQ Part I — Sections 50 and 51, updated 31 December 2024)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PART%20I%20s50s51%20311224.pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2024-12-31"
-  - title: "Practice Directive 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties"
+  - title: "Practice Directive 1/2017（2024年10月1日改訂）— 提出遅延に対する罰則 (Practice Directive 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "マレーシア企業委員会 (SSM)"
     date: "2024-10-01"
 
 entity: "Allotment of shares"

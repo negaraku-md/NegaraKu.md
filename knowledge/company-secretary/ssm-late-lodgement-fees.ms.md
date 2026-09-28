@@ -46,19 +46,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016: Practice Directive No. 1/2017 (Revised 1 October 2024) — Documents under the Companies Act 2016, the Lodgement Requirements and Related Matters"
+  - title: "Companies Act 2016: Practice Directive No. 1/2017 (Disemak 1 Oktober 2024) — Dokumen di bawah Companies Act 2016, Keperluan Pemfailan dan Perkara Berkaitan (Companies Act 2016: Practice Directive No. 1/2017 (Revised 1 October 2024) — Documents under the Companies Act 2016, the Lodgement Requirements and Related Matters)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2024-10-01"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 68, 258, 259 and 260"
+  - title: "Companies Act 2016 (Act 777), teks dikemas kini pada 1 Ogos 2022 — seksyen 68, 258, 259 dan 260 (Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 68, 258, 259 and 260)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Jadual Fi — Pendaftaran Syarikat (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
-  - title: "Frequently Asked Questions — MBRS"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Soalan Lazim — MBRS (Frequently Asked Questions — MBRS)"
     url: "https://www.ssm.com.my/Pages/FAQ/FAQ-MBRS.aspx"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
 
 entity: "SSM late lodgement penalty"
 relations:

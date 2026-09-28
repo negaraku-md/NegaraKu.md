@@ -52,13 +52,13 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Companies Act 2016 (Act 777), Section 127 — Purchase by a company of its own shares"
+  - title: "Companies Act 2016 (Act 777)、Section 127 — 会社による自己株式の取得 (Companies Act 2016 (Act 777), Section 127 — Purchase by a company of its own shares)"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/Companies_Act_2016_Act_777.pdf"
-    publisher: "Laws of Malaysia / Kementerian Kewangan Malaysia"
-  - title: "Main Market Listing Requirements — Chapter 12: Share Buy-Backs"
+    publisher: "マレーシア法／マレーシア財務省"
+  - title: "メインマーケット上場要件 — 第12章：自社株買い (Main Market Listing Requirements — Chapter 12: Share Buy-Backs)"
     url: "https://www.bursamalaysia.com/regulation/listing_requirements/main_market"
     publisher: "Bursa Malaysia Securities Berhad"
-  - title: "ACE Market Listing Requirements — Chapter 12: Share Buy-Backs"
+  - title: "ACEマーケット上場要件 — 第12章：自社株買い (ACE Market Listing Requirements — Chapter 12: Share Buy-Backs)"
     url: "https://www.bursamalaysia.com/regulation/listing_requirements/ace_market"
     publisher: "Bursa Malaysia Securities Berhad"
 

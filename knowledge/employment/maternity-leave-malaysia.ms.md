@@ -75,17 +75,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Employment Act 1955 (Act 265), teks dikemas kini setakat 1 Januari 2023 (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
     publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
     date: "2023-01-01"
-  - title: "Industrial Relations Act 1967 (Act 177), updated text as at 1 November 2021"
+  - title: "Industrial Relations Act 1967 (Act 177), teks dikemas kini setakat 1 November 2021 (Industrial Relations Act 1967 (Act 177), updated text as at 1 November 2021)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690019_BI/010721_Act%20177_final.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Jabatan Peguam Negara"
     date: "2021-11-01"
-  - title: "Employees' Social Security Act 1969 (Act 4), updated text as at 1 October 2024"
+  - title: "Employees' Social Security Act 1969 (Act 4), teks dikemas kini setakat 1 Oktober 2024 (Employees' Social Security Act 1969 (Act 4), updated text as at 1 October 2024)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3226981_BI/Act%204%20(Online%202026).pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Jabatan Peguam Negara"
     date: "2024-10-01"
 
 entity: "Maternity leave under Part IX of the Employment Act 1955"

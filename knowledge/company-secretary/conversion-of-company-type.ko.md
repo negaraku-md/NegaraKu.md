@@ -47,13 +47,13 @@ verificationNeeded:
   - "제출 수수료 RM500이 SSM의 최신 수수료표에 따라 여전히 적용되는지 확인하십시오."
 updated: 2026-08-07
 sources:
-  - title: "Guidelines for Conversion of Company Status"
+  - title: "회사 지위 전환 지침 (Guidelines for Conversion of Company Status)"
     url: "https://ssm.com.my/Pages/Legal_Framework/GUIDELINES/gl8_bi_guidelines_for_conversion_of_company_status_201117_0.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Conversion of Company Status"
+    publisher: "말레이시아 기업위원회 (SSM)"
+  - title: "회사 지위 전환 (Conversion of Company Status)"
     url: "https://chooi.com.my/conversion-of-company-status/"
     publisher: "Chooi & Company + Cheang & Ariff"
-  - title: "Board Resolutions in Malaysia: Ordinary, Special & Circular Resolutions"
+  - title: "말레이시아의 이사회 결의: 보통결의, 특별결의 및 서면회람결의 (Board Resolutions in Malaysia: Ordinary, Special & Circular Resolutions)"
     url: "https://www.naiduchambers.com/blog/board-resolutions-in-malaysia-a-complete-guide-to-ordinary-s.html"
     publisher: "Naidu Chambers"
 

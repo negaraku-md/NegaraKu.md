@@ -51,19 +51,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Striking Off a Company Under Section 549(a) and 550 of the Companies Act 2016"
+  - title: "Companies Act 2016 இன் பிரிவு 549(a) மற்றும் 550 இன் கீழ் ஒரு நிறுவனத்தை பதிவு நீக்கம் செய்தல் (Striking Off a Company Under Section 549(a) and 550 of the Companies Act 2016)"
     url: "https://mahwengkwai.com/striking-off-a-company-under-section-549a-and-550-of-the-companies-act-2016/"
     publisher: "Mah Weng Kwai & Associates"
-  - title: "Application to Reinstate Company Name under Section 555(1) of the Companies Act 2016"
+  - title: "Companies Act 2016 இன் பிரிவு 555(1) இன் கீழ் நிறுவனப் பெயரை மீட்டெடுக்க விண்ணப்பம் (Application to Reinstate Company Name under Section 555(1) of the Companies Act 2016)"
     url: "https://www.bestar-my.com/post/application-to-reinst-ate-company-under-section-555-1-of-the-companies-act-2016"
     publisher: "Bestar"
-  - title: "How to Reinstate a Struck-Off Company in Malaysia"
+  - title: "மலேசியாவில் பதிவு நீக்கம் செய்யப்பட்ட நிறுவனத்தை எவ்வாறு மீட்டெடுப்பது (How to Reinstate a Struck-Off Company in Malaysia)"
     url: "https://icomsec.com.my/reinstate-struck-off-company-malaysia/"
     publisher: "iComSec"
-  - title: "SSM Guidelines for Application to Reinstate Company Name (issued 30 January 2023)"
+  - title: "நிறுவனப் பெயரை மீட்டெடுக்கும் விண்ணப்பத்திற்கான SSM வழிகாட்டுதல்கள் (2023 ஜனவரி 30 வெளியிடப்பட்டது) (SSM Guidelines for Application to Reinstate Company Name (issued 30 January 2023))"
     url: "https://maicsa.org.my/resources/technical-research/technical-announcements/2023/230210-ssm-guidelines-for-application-to-reinstate-company-name"
     publisher: "Chartered Secretaries Malaysia (MAICSA)"
-  - title: "SSM Updates Guideline for Reinstating Name of Company that has been Struck Off"
+  - title: "பதிவு நீக்கம் செய்யப்பட்ட நிறுவனத்தின் பெயரை மீட்டெடுப்பதற்கான வழிகாட்டுதலை SSM புதுப்பிக்கிறது (SSM Updates Guideline for Reinstating Name of Company that has been Struck Off)"
     url: "https://www.tacpro.com.my/post/ssm-updates-guideline-for-reinstating-name-of-company-that-has-been-struck-off"
     publisher: "TAC Professional (Thang & Co.)"
 

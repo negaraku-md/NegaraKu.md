@@ -69,13 +69,13 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), cetakan semula pada 1 Ogos 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Practice Note No. 4/2018 — Procedures on Resignation of Secretary under Section 237"
+  - title: "Practice Note No. 4/2018 — Prosedur Peletakan Jawatan Setiausaha di bawah Section 237 (Practice Note No. 4/2018 — Procedures on Resignation of Secretary under Section 237)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PN4-2018_(BI).pdf"
-    publisher: "SSM"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2018-10-01"
 
 entity: "Vacancy in the office of company secretary"

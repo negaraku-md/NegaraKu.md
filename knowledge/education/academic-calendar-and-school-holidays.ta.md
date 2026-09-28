@@ -53,16 +53,16 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Surat Siaran KPM Bil. 3 Tahun 2025 — Kalendar Akademik Tahun 2026 bagi Sekolah KPM"
+  - title: "KPM சுற்றறிக்கை எண். 3, 2025 — KPM பள்ளிகளுக்கான 2026 கல்வியாண்டு நாட்காட்டி (Surat Siaran KPM Bil. 3 Tahun 2025 — Kalendar Akademik Tahun 2026 bagi Sekolah KPM)"
     url: "https://www.moe.gov.my/surat-siaran-kpm-bil-3-tahun-2025-kalendar-akademi"
-    publisher: "Kementerian Pendidikan Malaysia (moe.gov.my)"
-  - title: "2025: Johor Cuti Hujung Minggu Sabtu, Ahad — Antara Perkara Baharu Berkuat Kuasa Esok"
+    publisher: "மலேசியக் கல்வி அமைச்சு (moe.gov.my)"
+  - title: "2025: ஜொகூர் வார இறுதி விடுமுறை சனி, ஞாயிறு — நாளை அமலுக்கு வரும் புதிய விஷயங்களில் ஒன்று (2025: Johor Cuti Hujung Minggu Sabtu, Ahad — Antara Perkara Baharu Berkuat Kuasa Esok)"
     url: "https://www.mkn.gov.my/web/ms/2024/12/31/2025-johor-cuti-hujung-minggu-sabtu-ahad-antara-perkara-baharu-berkuat-kuasa-esok/"
-    publisher: "Majlis Keselamatan Negara (mkn.gov.my)"
-  - title: "Hari Raya Aidilfitri 2025, 2026 dan 2027 — Tarikh Cuti Umum"
+    publisher: "தேசிய பாதுகாப்பு கவுன்சில் (mkn.gov.my)"
+  - title: "ஹரி ராயா ஐதில்ஃபித்ரி 2025, 2026 மற்றும் 2027 — பொது விடுமுறைத் தேதிகள் (Hari Raya Aidilfitri 2025, 2026 dan 2027 — Tarikh Cuti Umum)"
     url: "https://publicholidays.com.my/ms/hari-raya-aidilfitri/"
     publisher: "PublicHolidays.com.my"
-  - title: "Cuti Sekolah 2026 — Takwim Akademik KPM (mengulang semula Surat Siaran KPM Bil. 3 Tahun 2025)"
+  - title: "பள்ளி விடுமுறை 2026 — KPM கல்வி நாட்காட்டி (KPM சுற்றறிக்கை எண். 3, 2025 ஐ மீண்டும் தருகிறது) (Cuti Sekolah 2026 — Takwim Akademik KPM (mengulang semula Surat Siaran KPM Bil. 3 Tahun 2025))"
     url: "https://ecentral.my/cuti-sekolah-2026/"
     publisher: "eCentral"
 

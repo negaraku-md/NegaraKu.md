@@ -80,20 +80,20 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties"
+  - title: "Practice Directive No. 1/2017 (แก้ไข 1 ตุลาคม 2024) — ค่าปรับการยื่นล่าช้า (Practice Directive No. 1/2017 (Revised 1 October 2024) — Late Lodgement Penalties)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
+  - title: "Companies Act 2016 (Act 777), ฉบับพิมพ์ซ้ำ ณ วันที่ 1 สิงหาคม 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2022-08-01"
-  - title: "FAQ Part E — Notification of Particulars and Change in Register of Directors, Manager and Secretaries"
+  - title: "คำถามที่พบบ่อย ส่วน E — การแจ้งรายละเอียดและการเปลี่ยนแปลงในทะเบียนกรรมการ ผู้จัดการ และเลขานุการ (FAQ Part E — Notification of Particulars and Change in Register of Directors, Manager and Secretaries)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQS-ON-COMPANIES-ACT-2016-AND-TRANSITIONAL-ISSUES/part_e.pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2017-06-09"
-  - title: "Notification of Change in the Register of Directors, Managers and Secretaries — Section 58"
+  - title: "การแจ้งการเปลี่ยนแปลงในทะเบียนกรรมการ ผู้จัดการ และเลขานุการ — Section 58 (Notification of Change in the Register of Directors, Managers and Secretaries — Section 58)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/21._notification_of_change_in_the_register_of_directors_secretaries_and_.pdf"
-    publisher: "SSM"
+    publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
 
 entity: "Register of Directors, Managers and Secretaries"
 relations:

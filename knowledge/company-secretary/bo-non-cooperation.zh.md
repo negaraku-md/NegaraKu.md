@@ -44,16 +44,16 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Guidelines for the Reporting Framework for Beneficial Ownership of Companies (Revised 10 January 2025)"
+  - title: "公司受益所有权申报框架指南（2025年1月10日修订） (Guidelines for the Reporting Framework for Beneficial Ownership of Companies (Revised 10 January 2025))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Guideline%20BO%20(Revised)%202025%20fair.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2025-01-10"
-  - title: "FAQ — Beneficial Ownership Reporting Framework of Companies"
+  - title: "常见问题 — 公司受益所有权申报框架 (FAQ — Beneficial Ownership Reporting Framework of Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQs%20on%20BO%20(English).pdf"
-    publisher: "SSM"
-  - title: "Companies (Amendment) Act 2024 [Act A1701]"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "Companies (Amendment) Act 2024 [Act A1701] (Companies (Amendment) Act 2024 [Act A1701])"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
-    publisher: "SSM"
+    publisher: "马来西亚公司委员会 (SSM)"
     date: "2024-02-02"
 
 entity: "Beneficial Ownership Non-Cooperation"

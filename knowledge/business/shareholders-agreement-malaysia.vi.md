@@ -59,18 +59,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), bản in lại, tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), AGC updated text"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777), văn bản cập nhật bởi AGC (Companies Act 2016 (Act 777), AGC updated text)"
     url: "https://lom.agc.gov.my/act-detail.php?act=777"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Contracts Act 1950 (Act 136), updated text"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
+  - title: "Contracts Act 1950 (Act 136), văn bản cập nhật (Contracts Act 1950 (Act 136), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20136.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
+  - title: "Companies Act 2016 — khung pháp lý (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Shareholders agreement (Malaysia)"
 relations:

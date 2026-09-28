@@ -53,13 +53,13 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Laws of Malaysia — Act 265, Employment Act 1955 (teks cetakan kemas kini), Seksyen 22, 24"
+  - title: "Laws of Malaysia — Act 265, Employment Act 1955 (புதுப்பிக்கப்பட்ட அச்சுப் பதிப்பு), பிரிவு 22, 24 (Laws of Malaysia — Act 265, Employment Act 1955 (teks cetakan kemas kini), Seksyen 22, 24)"
     url: "https://www.mp.gov.my/images/doc/legislation/EA1955.pdf"
-    publisher: "Laws of Malaysia (teks cetakan rasmi, portal Kerajaan Malaysia .gov.my)"
-  - title: "Employment Act 1955 (Amendment) 2022 — FAQ (perluasan 1 Januari 2023)"
+    publisher: "Laws of Malaysia (அதிகாரப்பூர்வ அச்சுப் பதிப்பு, மலேசிய அரசாங்க இணையவாயில் .gov.my)"
+  - title: "Employment Act 1955 (Amendment) 2022 — அடிக்கடி கேட்கப்படும் கேள்விகள் (2023 ஜனவரி 1 விரிவாக்கம்) (Employment Act 1955 (Amendment) 2022 — FAQ (perluasan 1 Januari 2023))"
     url: "https://jtksm.mohr.gov.my/en/frequently-asked-questions/employment-act-1955-amendment-2022"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
-  - title: "When Can Your Employer Deduct Your Salary? (penjelasan sekunder)"
+    publisher: "மலேசியத் தீபகற்பத் தொழிலாளர் துறை (JTKSM)"
+  - title: "உங்கள் முதலாளி எப்போது உங்கள் ஊதியத்தைக் கழிக்கலாம்? (இரண்டாம் நிலை விளக்கம்) (When Can Your Employer Deduct Your Salary? (penjelasan sekunder))"
     url: "https://dnh.com.my/when-can-your-employer-deduct-your-salary/"
     publisher: "Donovan & Ho"
 

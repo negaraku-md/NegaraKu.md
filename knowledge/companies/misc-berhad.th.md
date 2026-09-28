@@ -53,13 +53,13 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "MISC Group Financial Results for the Fourth Quarter of 2024"
+  - title: "ผลประกอบการทางการเงินของ MISC Group สำหรับไตรมาสที่สี่ของปี 2024 (MISC Group Financial Results for the Fourth Quarter of 2024)"
     url: "https://www.miscgroup.com/media/media-releases/misc-group-financial-results-for-the-fourth-quarter-of-2024"
     publisher: "MISC Group"
-  - title: "PETRONAS Optimises its Portfolio of Shareholdings in MISC Berhad and KLCCP Stapled Group"
+  - title: "PETRONAS ปรับพอร์ตการถือหุ้นใน MISC Berhad และ KLCCP Stapled Group ให้เหมาะสม (PETRONAS Optimises its Portfolio of Shareholdings in MISC Berhad and KLCCP Stapled Group)"
     url: "https://www.petronas.com/media/media-releases/petronas-optimises-its-portfolio-shareholdings-misc-berhad-and-klccp-stapled"
     publisher: "PETRONAS"
-  - title: "MISC Berhad's largest shareholders are private companies with 52% ownership, institutions own 26%"
+  - title: "ผู้ถือหุ้นรายใหญ่ที่สุดของ MISC Berhad คือบริษัทเอกชนที่ถือหุ้น 52% สถาบันถือ 26% (MISC Berhad's largest shareholders are private companies with 52% ownership, institutions own 26%)"
     url: "https://finance.yahoo.com/news/misc-berhads-klse-misc-largest-005805866.html"
     publisher: "Simply Wall St / Yahoo Finance"
     date: "2024-09-15"

@@ -60,18 +60,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), மறுபதிப்பு, 2022 ஆகஸ்ட் 1 நிலவரப்படி (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Companies Act 2016 (Act 777), AGC updated text"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "Companies Act 2016 (Act 777), AGC புதுப்பிக்கப்பட்ட உரை (Companies Act 2016 (Act 777), AGC updated text)"
     url: "https://lom.agc.gov.my/act-detail.php?act=777"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Contracts Act 1950 (Act 136), updated text"
+    publisher: "மலேசியா அட்டர்னி ஜெனரல் அலுவலகம்"
+  - title: "Contracts Act 1950 (Act 136), புதுப்பிக்கப்பட்ட உரை (Contracts Act 1950 (Act 136), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20136.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Companies Act 2016 — legal framework"
+    publisher: "மலேசியா அட்டர்னி ஜெனரல் அலுவலகம்"
+  - title: "Companies Act 2016 — சட்டக் கட்டமைப்பு (Companies Act 2016 — legal framework)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "Shareholders agreement (Malaysia)"
 relations:

@@ -40,16 +40,16 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Consumer Price Index, May 2026"
+  - title: "소비자물가지수, 2026년 5월 (Consumer Price Index, May 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-may2026"
-    publisher: "DOSM"
+    publisher: "말레이시아 통계청 (DOSM)"
     date: "2026-06-19"
-  - title: "Consumer Price Index — OpenDOSM data portal"
+  - title: "소비자물가지수 — OpenDOSM 데이터 포털 (Consumer Price Index — OpenDOSM data portal)"
     url: "https://open.dosm.gov.my/publications/cpi_2026-04"
-    publisher: "DOSM"
-  - title: "Bank Negara Malaysia — Economic and Financial Data"
+    publisher: "말레이시아 통계청 (DOSM)"
+  - title: "말레이시아 중앙은행 — 경제 및 금융 데이터 (Bank Negara Malaysia — Economic and Financial Data)"
     url: "https://www.bnm.gov.my/"
-    publisher: "Bank Negara Malaysia"
+    publisher: "말레이시아 중앙은행"
 
 entity: "Malaysia Consumer Price Index"
 relations:

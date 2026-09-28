@@ -68,20 +68,20 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Fees (Employment Pass, Visit Pass (Temporary Employment) and Work Pass) (Amendment) Order 2016, P.U.(A) 67/2016"
+  - title: "Fees (Employment Pass, Visit Pass (Temporary Employment) and Work Pass) (Amendment) Order 2016, P.U.(A) 67/2016 (Fees (Employment Pass, Visit Pass (Temporary Employment) and Work Pass) (Amendment) Order 2016, P.U.(A) 67/2016)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20160318_P.U.%20(A)%2067.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "அட்டர்னி ஜெனரல் அறையகம் (AGC)"
     date: "2016-03-18"
-  - title: "Foreign Worker — levy, pass and process fees by sector"
+  - title: "வெளிநாட்டுத் தொழிலாளர் — துறை வாரியாக வரி, அனுமதிச்சீட்டு மற்றும் செயலாக்கக் கட்டணங்கள் (Foreign Worker — levy, pass and process fees by sector)"
     url: "https://www.imi.gov.my/index.php/en/main-services/foreign-worker/"
-    publisher: "Immigration Department of Malaysia"
-  - title: "Thirteenth Malaysia Plan (RMK-13)"
+    publisher: "மலேசிய குடிவரவுத் துறை"
+  - title: "பதின்மூன்றாவது மலேசியத் திட்டம் (RMK-13) (Thirteenth Malaysia Plan (RMK-13))"
     url: "https://rmk13.ekonomi.gov.my/wp-content/uploads/2025/07/Buku_Utama_RMK13.pdf"
-    publisher: "Ministry of Economy"
+    publisher: "பொருளாதார அமைச்சு"
     date: "2025-07-31"
-  - title: "Employment Act 1955 (Act 265), s.24"
+  - title: "Employment Act 1955 (Act 265), பிரிவு 24 (Employment Act 1955 (Act 265), s.24)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "மலேசியத் தீபகற்பத் தொழிலாளர் துறை (JTKSM)"
 
 entity: "Foreign worker levy (Malaysia)"
 relations:

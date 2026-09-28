@@ -79,19 +79,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Perintah Gaji Minimum 2024 — P.U.(A) 376"
+  - title: "2024年最低薪金令 — P.U.(A) 376 (Perintah Gaji Minimum 2024 — P.U.(A) 376)"
     url: "https://gajiminimum.mohr.gov.my/wp-content/uploads/PUA%20376.pdf"
-    publisher: "Attorney General's Chambers / MOHR"
+    publisher: "总检察署 / 人力资源部 (MOHR)"
     date: "2024-12-04"
-  - title: "Sekretariat Majlis Perundingan Gaji Negara"
+  - title: "国家薪资咨询理事会秘书处 (Sekretariat Majlis Perundingan Gaji Negara)"
     url: "https://gajiminimum.mohr.gov.my/"
-    publisher: "MOHR"
-  - title: "Employment Act 1955 (Act 265) — updated text of reprint"
+    publisher: "人力资源部 (MOHR)"
+  - title: "Employment Act 1955 (Act 265) — 重印本更新文本 (Employment Act 1955 (Act 265) — updated text of reprint)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "JTKSM"
-  - title: "National Wages Consultative Council Act 2011 (Act 732)"
+    publisher: "马来西亚半岛劳工局 (JTKSM)"
+  - title: "National Wages Consultative Council Act 2011 (Act 732) (National Wages Consultative Council Act 2011 (Act 732))"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-03/3.%20National%20Wages%20Consultative%20Council%20Act%202011.pdf"
-    publisher: "JTKSM"
+    publisher: "马来西亚半岛劳工局 (JTKSM)"
 
 entity: "Malaysian minimum wage"
 relations:

@@ -50,12 +50,12 @@ verificationNeeded:
   - "政府が補助金の対象選定においてより細かい区分（例：T15）を公式に用いているかどうか——引用元のDOSM報告書に公式な出典が見当たらなかったため、元の記述は削除した。再度追加する前に出典を確認すること。"
 updated: 2026-08-08
 sources:
-  - title: "Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08)"
+  - title: "世帯所得調査報告、マレーシアおよび各州 2024（2025-10-08発表） (Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
-  - title: "Household Income Survey Report, Malaysia & States 2022"
+    publisher: "マレーシア統計局 (DOSM)"
+  - title: "世帯所得調査報告、マレーシアおよび各州 2022 (Household Income Survey Report, Malaysia & States 2022)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+    publisher: "マレーシア統計局 (DOSM)"
 
 entity: "Jabatan Perangkaan Malaysia (DOSM)"
 wikidata: "Q7354425"

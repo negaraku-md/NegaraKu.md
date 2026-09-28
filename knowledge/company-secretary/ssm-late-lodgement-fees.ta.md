@@ -46,19 +46,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016: Practice Directive No. 1/2017 (Revised 1 October 2024) — Documents under the Companies Act 2016, the Lodgement Requirements and Related Matters"
+  - title: "Companies Act 2016: Practice Directive No. 1/2017 (2024 அக்டோபர் 1 திருத்தம்) — Companies Act 2016 இன் கீழ் ஆவணங்கள், தாக்கல் தேவைகள் மற்றும் தொடர்புடைய விடயங்கள் (Companies Act 2016: Practice Directive No. 1/2017 (Revised 1 October 2024) — Documents under the Companies Act 2016, the Lodgement Requirements and Related Matters)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Practice%20Directive%201_2017%20(Revised)%201%20Oct%202024.pdf"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-10-01"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 68, 258, 259 and 260"
+  - title: "Companies Act 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி புதுப்பிக்கப்பட்ட உரை — பிரிவுகள் 68, 258, 259 மற்றும் 260 (Companies Act 2016 (Act 777), updated text as at 1 August 2022 — sections 68, 258, 259 and 260)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Table of Fees — Registration of Company (ROC)"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "கட்டண அட்டவணை — நிறுவனப் பதிவு (ROC) (Table of Fees — Registration of Company (ROC))"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx"
-    publisher: "SSM"
-  - title: "Frequently Asked Questions — MBRS"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் — MBRS (Frequently Asked Questions — MBRS)"
     url: "https://www.ssm.com.my/Pages/FAQ/FAQ-MBRS.aspx"
-    publisher: "SSM"
+    publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
 
 entity: "SSM late lodgement penalty"
 relations:

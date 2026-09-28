@@ -52,13 +52,13 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "My Say: Key rules for businesses to know about the law on profiteering"
+  - title: "My Say: กฎสำคัญเกี่ยวกับกฎหมายการค้ากำไรเกินควรที่ธุรกิจต้องรู้ (My Say: Key rules for businesses to know about the law on profiteering)"
     url: "https://theedgemalaysia.com/node/722450"
     publisher: "The Edge Malaysia"
-  - title: "Ops Catut 2023: KPDN Issues 1,149 Notices"
+  - title: "Ops Catut 2023: KPDN ออกหนังสือแจ้ง 1,149 ฉบับ (Ops Catut 2023: KPDN Issues 1,149 Notices)"
     url: "https://www.bernama.com/en/general/news.php?id=2210744"
     publisher: "Bernama"
-  - title: "KPDN records enforcement gains as govt tightens control over subsidy leakages and price stability"
+  - title: "KPDN บันทึกผลการบังคับใช้กฎหมายที่ดีขึ้น ขณะรัฐบาลคุมเข้มการรั่วไหลของเงินอุดหนุนและเสถียรภาพราคา (KPDN records enforcement gains as govt tightens control over subsidy leakages and price stability)"
     url: "https://www.thevibes.com/articles/news/122224/kpdn-records-enforcement-gains-as-govt-tightens-control-over-subsidy-leakages-and-price-stability"
     publisher: "The Vibes"
 

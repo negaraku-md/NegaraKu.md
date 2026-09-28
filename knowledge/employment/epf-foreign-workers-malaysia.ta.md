@@ -69,15 +69,15 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Contribution For Non-Malaysian Citizen Employees"
+  - title: "மலேசியக் குடிமக்கள் அல்லாத ஊழியர்களுக்கான பங்களிப்பு (Contribution For Non-Malaysian Citizen Employees)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/non-malaysian-citizen-employees"
-    publisher: "KWSP"
-  - title: "Third Schedule effective 1 October 2025"
+    publisher: "ஊழியர் சேமநல நிதி (KWSP)"
+  - title: "மூன்றாம் அட்டவணை, 2025 அக்டோபர் 1 முதல் அமல் (Third Schedule effective 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "KWSP"
-  - title: "Employer Mandatory Contribution"
+    publisher: "ஊழியர் சேமநல நிதி (KWSP)"
+  - title: "முதலாளியின் கட்டாய பங்களிப்பு (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
-    publisher: "KWSP"
+    publisher: "ஊழியர் சேமநல நிதி (KWSP)"
 
 entity: "EPF contributions for non-Malaysian citizen employees"
 relations:

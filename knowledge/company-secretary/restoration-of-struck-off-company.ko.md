@@ -48,19 +48,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Striking Off a Company Under Section 549(a) and 550 of the Companies Act 2016"
+  - title: "Companies Act 2016 제549(a)조 및 550조에 따른 회사 말소 (Striking Off a Company Under Section 549(a) and 550 of the Companies Act 2016)"
     url: "https://mahwengkwai.com/striking-off-a-company-under-section-549a-and-550-of-the-companies-act-2016/"
     publisher: "Mah Weng Kwai & Associates"
-  - title: "Application to Reinstate Company Name under Section 555(1) of the Companies Act 2016"
+  - title: "Companies Act 2016 제555(1)조에 따른 회사명 회복 신청 (Application to Reinstate Company Name under Section 555(1) of the Companies Act 2016)"
     url: "https://www.bestar-my.com/post/application-to-reinst-ate-company-under-section-555-1-of-the-companies-act-2016"
     publisher: "Bestar"
-  - title: "How to Reinstate a Struck-Off Company in Malaysia"
+  - title: "말레이시아에서 말소된 회사를 회복하는 방법 (How to Reinstate a Struck-Off Company in Malaysia)"
     url: "https://icomsec.com.my/reinstate-struck-off-company-malaysia/"
     publisher: "iComSec"
-  - title: "SSM Guidelines for Application to Reinstate Company Name (issued 30 January 2023)"
+  - title: "회사명 회복 신청을 위한 SSM 지침 (2023년 1월 30일 발행) (SSM Guidelines for Application to Reinstate Company Name (issued 30 January 2023))"
     url: "https://maicsa.org.my/resources/technical-research/technical-announcements/2023/230210-ssm-guidelines-for-application-to-reinstate-company-name"
     publisher: "Chartered Secretaries Malaysia (MAICSA)"
-  - title: "SSM Updates Guideline for Reinstating Name of Company that has been Struck Off"
+  - title: "SSM, 말소된 회사명 회복 지침 갱신 (SSM Updates Guideline for Reinstating Name of Company that has been Struck Off)"
     url: "https://www.tacpro.com.my/post/ssm-updates-guideline-for-reinstating-name-of-company-that-has-been-struck-off"
     publisher: "TAC Professional (Thang & Co.)"
 

@@ -54,19 +54,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Malaysia records RM45.04b in halal product exports from January to September 2024 – MITI"
+  - title: "马来西亚 2024 年 1 月至 9 月清真产品出口达 RM450.4 亿 — MITI (Malaysia records RM45.04b in halal product exports from January to September 2024 – MITI)"
     url: "https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Halal product exports surpassed RM61bil in 2024, says Miti"
+    publisher: "马来西亚投资发展局 (MIDA)"
+  - title: "Miti 称 2024 年清真产品出口超过 RM610 亿 (Halal product exports surpassed RM61bil in 2024, says Miti)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/04/30/halal-product-exports-surpassed-rm61bil-in-2024-says-miti"
-    publisher: "Free Malaysia Today (laporan pengumuman MITI)"
-  - title: "Islamic Finance and the Development of Malaysia's Halal Economy"
+    publisher: "Free Malaysia Today（报道 MITI 的公告）"
+  - title: "伊斯兰金融与马来西亚清真经济的发展 (Islamic Finance and the Development of Malaysia's Halal Economy)"
     url: "https://www.mof.gov.my/portal/en/news/speech/islamic-finance-and-the-development-of-malaysia-s-halal-economy"
-    publisher: "Ministry of Finance Malaysia (MOF)"
-  - title: "Economic Census 2023: Halal Statistics"
+    publisher: "马来西亚财政部 (MOF)"
+  - title: "2023 年经济普查：清真统计 (Economic Census 2023: Halal Statistics)"
     url: "https://www.dosm.gov.my/portal-main/release-content/economic-census-2023-halal-statistics"
-    publisher: "Department of Statistics Malaysia (DOSM)"
-  - title: "Govt to form halal commission to drive RM80bil export target"
+    publisher: "马来西亚统计局 (DOSM)"
+  - title: "政府将成立清真委员会以推动 RM800 亿出口目标 (Govt to form halal commission to drive RM80bil export target)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/07/31/govt-to-form-halal-commission-to-drive-rm80bil-export-target"
     publisher: "Free Malaysia Today"
 

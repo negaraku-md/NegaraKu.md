@@ -50,12 +50,12 @@ verificationNeeded:
   - "政府是否正式采用更细的分层（例如 T15）来进行补贴对象锁定——原有说法已删除，因为所引用的 DOSM 报告中没有官方来源；在重新加入前请核实来源。"
 updated: 2026-08-08
 sources:
-  - title: "Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08)"
+  - title: "家庭收入调查报告，马来西亚及各州 2024（发布于 2025-10-08） (Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
-  - title: "Household Income Survey Report, Malaysia & States 2022"
+    publisher: "马来西亚统计局 (DOSM)"
+  - title: "家庭收入调查报告，马来西亚及各州 2022 (Household Income Survey Report, Malaysia & States 2022)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+    publisher: "马来西亚统计局 (DOSM)"
 
 entity: "Jabatan Perangkaan Malaysia (DOSM)"
 wikidata: "Q7354425"

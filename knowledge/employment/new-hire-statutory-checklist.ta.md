@@ -95,21 +95,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Employment Act 1955 (Act 265), 2023 ஜனவரி 1 வரையிலான புதுப்பிக்கப்பட்ட உரை (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "மலேசியத் தீபகற்பத் தொழிலாளர் துறை"
     date: "2023-01-01"
-  - title: "Occupational Safety and Health Act 1994 (Act 514), updated text of reprint as at 1 June 2024"
+  - title: "Occupational Safety and Health Act 1994 (Act 514), 2024 ஜூன் 1 வரையிலான மறுபதிப்பின் புதுப்பிக்கப்பட்ட உரை (Occupational Safety and Health Act 1994 (Act 514), updated text of reprint as at 1 June 2024)"
     url: "https://dosh.gov.my/wp-content/uploads/2025/01/Occupational-Safety-and-Health-Act-1994-Act-514_Reprint-Version-1.6.2024_English.pdf"
-    publisher: "Department of Occupational Safety and Health"
+    publisher: "தொழில் பாதுகாப்பு மற்றும் சுகாதாரத் துறை"
     date: "2024-06-01"
-  - title: "Pembangunan Sumber Manusia Berhad (Amendment of First Schedule) Order 2021, P.U.(A) 84/2021"
+  - title: "Pembangunan Sumber Manusia Berhad (முதல் அட்டவணை திருத்தம்) ஆணை 2021, P.U.(A) 84/2021 (Pembangunan Sumber Manusia Berhad (Amendment of First Schedule) Order 2021, P.U.(A) 84/2021)"
     url: "https://hrdcorp.gov.my/wp-content/uploads/2021/03/12.FEDERAL-GOVERMENT-GAZETTE-PEMBANGUNAN-SUMBER-MANUSIA-BERHAD-AMENDMENT-OF-FIRST-SCHEDULE-ORDER-2021.pdf"
     publisher: "HRD Corp"
     date: "2021-03-01"
-  - title: "EPF Third Schedule, rates from 1 October 2025"
+  - title: "EPF மூன்றாம் அட்டவணை, 2025 அக்டோபர் 1 முதல் விகிதங்கள் (EPF Third Schedule, rates from 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "Kumpulan Wang Simpanan Pekerja"
+    publisher: "ஊழியர் சேமநல நிதி"
     date: "2025-10-01"
 
 entity: "New-hire statutory obligations in Malaysia"

@@ -82,17 +82,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–296 resolutions"
+  - title: "Companies Act 2016 (Act 777), 2022년 8월 1일자 재발행본 — 제290–296조 결의 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.290–296 resolutions)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.309–326 meetings and notice of meetings"
+  - title: "Companies Act 2016 (Act 777) — 제309–326조 회의 및 회의 통지 (Companies Act 2016 (Act 777) — ss.309–326 meetings and notice of meetings)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "Companies Act 2016 (Act 777) — ss.297–308 written resolutions and s.334 proxies"
+  - title: "Companies Act 2016 (Act 777) — 제297–308조 서면결의 및 제334조 대리인 (Companies Act 2016 (Act 777) — ss.297–308 written resolutions and s.334 proxies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
 
 entity: "Notice periods for company meetings and resolutions"

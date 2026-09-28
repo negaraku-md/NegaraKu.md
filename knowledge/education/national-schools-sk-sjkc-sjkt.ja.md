@@ -45,15 +45,15 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Sistem Pendidikan"
+  - title: "教育制度 (Sistem Pendidikan)"
     url: "https://www.moe.gov.my/sistem-pendidikan"
-    publisher: "Kementerian Pendidikan Malaysia (KPM)"
-  - title: "Akta Pendidikan 1996 (Akta 550)"
+    publisher: "マレーシア教育省 (KPM)"
+  - title: "1996年教育法（第550号法） (Akta Pendidikan 1996 (Akta 550))"
     url: "https://lom.agc.gov.my/act-detail.php?act=550&lang=BM"
-    publisher: "Pejabat Peguam Negara (AGC)"
-  - title: "Pendaftaran (Pendaftaran Murid Tahun 1)"
+    publisher: "司法長官府 (AGC)"
+  - title: "登録（第1学年児童登録） (Pendaftaran (Pendaftaran Murid Tahun 1))"
     url: "https://www.moe.gov.my/pendaftaran-sr"
-    publisher: "Kementerian Pendidikan Malaysia (KPM)"
+    publisher: "マレーシア教育省 (KPM)"
 
 entity: "Sekolah kebangsaan dan sekolah jenis kebangsaan"
 relations:
