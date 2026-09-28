@@ -23,7 +23,13 @@ _Recorded BEFORE mass translation so the whole `vi` corpus is consistent (the ta
   - million → **triệu** (e.g. RM240 million → RM240 triệu)
   - billion → **tỷ** (e.g. RM6.37 billion → RM6.37 tỷ)
   - trillion → **nghìn tỷ** (e.g. RM1.2 trillion → RM1.2 nghìn tỷ)
-- Leave comma-digit numerals as-is (RM2,500,000). Leave English source-citation titles + SEO keywords in English. A deterministic script does the scale-word conversion (agents scaling-slip); run it during translation.
+- Leave comma-digit numerals as-is (RM2,500,000). Leave SEO keywords in English. A deterministic script does the scale-word conversion (agents scaling-slip); run it during translation.
+
+## Sources / citations (DECISION 2026-09-28 — REVERSES the earlier "leave titles English")
+User decision: **translate all citation fields, keeping the original in parentheses** — so a reader in-language sees a readable citation, but the original stays findable/verifiable. Applies to EVERY translated language (ta/ja/ko/th/vi), done via a deterministic map (translate each UNIQUE title/publisher once per language, then apply to all `.{lang}.md`) for consistency + scale.
+- `title` → `<translated title> (<original title>)`. EXCEPTION: statute titles keep the canonical English short title + Act number per the statute rule (Vietnamese descriptor + canonical English name) — do not double-wrap.
+- `publisher` → localize GOVERNMENT AGENCIES to their Vietnamese descriptor + keep the acronym (Department of Statistics Malaysia (DOSM) → Cục Thống kê Malaysia (DOSM)); keep NEWS OUTLETS and other proper-noun publishers VERBATIM (The Star, Bernama, Malay Mail, The Edge Malaysia, Free Malaysia Today, Wikipedia).
+- `url`, `date` → verbatim, never changed.
 
 ## Body structure
 - Preserve markdown EXACTLY: same headings, tables, list items, FAQ count, links.
