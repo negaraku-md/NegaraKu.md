@@ -72,9 +72,15 @@ export const PAGES = {
   // by adding it to LANGS + LANG_POLICY once its corpus ships.
   ja: process.env.FB_PAGE_ID_JA || '1234264816444540',
   ko: process.env.FB_PAGE_ID_KO || '1308994995630346',
-  // th Page created 2026-09-28 (facebook.com/negaraku.md.th). FILL the numeric
-  // Graph/business-asset id below once known (blank id = safely skipped, not posted).
-  th: process.env.FB_PAGE_ID_TH || '',
+  // th ACTIVATED 2026-09-28 — Thai is a full public language (1,073 published
+  // articles at /th); its Page (facebook.com/negaraku.md.th) is assigned to the
+  // "NegaraKu Poster" system user with Full access, so it's in LANGS above.
+  th: process.env.FB_PAGE_ID_TH || '1328187273714373',
+  // vi Page created 2026-09-28 (facebook.com/negaraku.md.vi), assigned to the
+  // system user with Full access. NOT in LANGS/LANG_POLICY yet: Vietnamese is
+  // still a soft-launch (no published /vi corpus), so there is nothing to post.
+  // Activate by adding vi to LANGS + LANG_POLICY once the /vi corpus ships.
+  vi: process.env.FB_PAGE_ID_VI || '1351336844728158',
 };
 
 // The URL locale prefix for a language: ms lives at "/", en at "/en", zh at "/zh".
@@ -90,7 +96,7 @@ export function articleBases(files) {
     const p = f.replace(/\\/g, '/');
     if (!p.startsWith('knowledge/') || !p.endsWith('.md')) continue;
     if (p.startsWith('knowledge/about/')) continue;
-    bases.add(p.replace(/\.(ms|en|zh|ta|ja|ko)\.md$/, '').replace(/\.md$/, ''));
+    bases.add(p.replace(/\.(ms|en|zh|ta|ja|ko|th|vi)\.md$/, '').replace(/\.md$/, ''));
   }
   return [...bases];
 }
