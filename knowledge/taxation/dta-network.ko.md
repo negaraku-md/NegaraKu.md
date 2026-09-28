@@ -46,19 +46,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Kadar Cukai Pegangan PPPDK — treaty withholding tax rates"
+  - title: "PPPDK 원천징수세율 — 조약 원천징수세율 (Kadar Cukai Pegangan PPPDK — treaty withholding tax rates)"
     url: "https://www.hasil.gov.my/antarabangsa/perjanjian-pengelakan-pencukaian-dua-kali-pppdk/kadar-cukai-pegangan/"
-    publisher: "LHDN"
+    publisher: "내국세입청 (LHDN)"
     date: "2026-07-12"
-  - title: "PPPDK Menyeluruh — comprehensive double taxation agreements"
+  - title: "포괄적 PPPDK — 포괄적 이중과세방지협정 (PPPDK Menyeluruh — comprehensive double taxation agreements)"
     url: "https://www.hasil.gov.my/antarabangsa/perjanjian-pengelakan-pencukaian-dua-kali-pppdk/pppdk-menyeluruh/"
-    publisher: "LHDN"
-  - title: "Instrumen Multilateral (MLI)"
+    publisher: "내국세입청 (LHDN)"
+  - title: "다자간 협약 (MLI) (Instrumen Multilateral (MLI))"
     url: "https://www.hasil.gov.my/antarabangsa/instrumen-multilateral-mli/"
-    publisher: "LHDN"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.132"
+    publisher: "내국세입청 (LHDN)"
+  - title: "Income Tax Act 1967 (Act 53), 2024년 5월 21일 기준 재판 — 제132조 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.132)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "내국세입청 (LHDN)"
     date: "2024-05-21"
 
 entity: "Malaysia's double taxation agreement network"

@@ -66,19 +66,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Guidelines on Capital Gains Tax for Unlisted Shares, LHDN.AG.600-1/7/3"
+  - title: "Hướng dẫn về Thuế Lãi vốn đối với Cổ phần chưa niêm yết, LHDN.AG.600-1/7/3 (Guidelines on Capital Gains Tax for Unlisted Shares, LHDN.AG.600-1/7/3)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20250721-guidelines-on-capital-gains-tax-for-unlisted-shares.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2025-07-21"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "Income Tax Act 1967 (Act 53), bản in lại tính đến ngày 21 tháng 5 năm 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
-  - title: "Finance (No. 2) Act 2023 (Act 851)"
+    publisher: "Cục Thuế Nội địa (LHDN)"
+  - title: "Finance (No. 2) Act 2023 (Act 851) (Finance (No. 2) Act 2023 (Act 851))"
     url: "https://myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "CGT Return Form Filing Programme"
+    publisher: "Văn phòng Tổng Chưởng lý"
+  - title: "Chương trình Nộp Tờ khai Thuế Lãi vốn (CGT) (CGT Return Form Filing Programme)"
     url: "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata-ckm/"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
 
 entity: "Capital gains tax"
 relations:

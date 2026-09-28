@@ -44,19 +44,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Service Tax (Persons Exempted from Payment of Tax) Order 2018, P.U.(A) 380/2018"
+  - title: "Service Tax (Persons Exempted from Payment of Tax) Order 2018, P.U.(A) 380/2018 (Service Tax (Persons Exempted from Payment of Tax) Order 2018, P.U.(A) 380/2018)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Person-Exempted-From-Payment-Of-Tax-Order-2018.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "Service Tax (Persons Exempted from Payment of Tax) (Amendment) Order 2025, P.U.(A) 174/2025"
+    publisher: "マレーシア司法長官府 (AGC)"
+  - title: "Service Tax (Persons Exempted from Payment of Tax) (Amendment) Order 2025, P.U.(A) 174/2025 (Service Tax (Persons Exempted from Payment of Tax) (Amendment) Order 2025, P.U.(A) 174/2025)"
     url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+174%2F2025"
-    publisher: "Attorney General's Chambers"
+    publisher: "マレーシア司法長官府 (AGC)"
     date: "2025-06-09"
-  - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — regulation 10"
+  - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — 規則10 (Service Tax Regulations 2018, P.U.(A) 214/2018 — regulation 10)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "Service Tax Policy No. 6/2025 — Private Healthcare Services"
+    publisher: "マレーシア司法長官府 (AGC)"
+  - title: "Service Tax Policy No. 6/2025 — 民間医療サービス (Service Tax Policy No. 6/2025 — Private Healthcare Services)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/12/STP-6-2025-Private-Healthcare.pdf"
-    publisher: "RMCD"
+    publisher: "マレーシア王立関税局 (RMCD)"
     date: "2025-10-23"
 
 entity: "B2B exemption"

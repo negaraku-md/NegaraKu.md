@@ -56,22 +56,22 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "MyCEB — Home (Malaysia's Business Events Achievements Since 2009)"
+  - title: "MyCEB — முகப்பு (2009 முதல் மலேசியாவின் வணிக நிகழ்வுச் சாதனைகள்) (MyCEB — Home (Malaysia's Business Events Achievements Since 2009))"
     url: "https://www.myceb.com.my/"
     publisher: "Malaysia Convention & Exhibition Bureau (MyCEB)"
-  - title: "MyCEB Elevates Malaysia's Global Profile at The Meetings Show London 2024"
+  - title: "The Meetings Show London 2024 இல் MyCEB மலேசியாவின் உலகளாவிய முகத்தை உயர்த்துகிறது (MyCEB Elevates Malaysia's Global Profile at The Meetings Show London 2024)"
     url: "https://www.myceb.com.my/about-us/media-centre/press-release/myceb-elevates-malaysias-global-profile-at-the-meetings-show-london-2024"
     publisher: "Malaysia Convention & Exhibition Bureau (MyCEB)"
-  - title: "MITEC — Malaysia International Trade & Exhibition Centre (Official Site)"
+  - title: "MITEC — மலேசியா சர்வதேச வர்த்தக & கண்காட்சி மையம் (அதிகாரப்பூர்வ தளம்) (MITEC — Malaysia International Trade & Exhibition Centre (Official Site))"
     url: "https://www.mitec.com.my/"
     publisher: "Malaysia International Trade & Exhibition Centre"
-  - title: "Malaysia International Trade & Exhibition Centre (MITEC)"
+  - title: "மலேசியா சர்வதேச வர்த்தக & கண்காட்சி மையம் (MITEC) (Malaysia International Trade & Exhibition Centre (MITEC))"
     url: "https://www.cidb.gov.my/eng/malaysia-international-trade-exhibition-centre-mitec/"
     publisher: "Construction Industry Development Board Malaysia (CIDB)"
-  - title: "Kuala Lumpur Convention Centre (Official Site)"
+  - title: "கோலாலம்பூர் மாநாட்டு மையம் (அதிகாரப்பூர்வ தளம்) (Kuala Lumpur Convention Centre (Official Site))"
     url: "https://www.klccconventioncentre.com/"
     publisher: "Kuala Lumpur Convention Centre"
-  - title: "BCCK expansion strengthens Sarawak's business events capacity"
+  - title: "BCCK விரிவாக்கம் சரவாக்கின் வணிக நிகழ்வுத் திறனை வலுப்படுத்துகிறது (BCCK expansion strengthens Sarawak's business events capacity)"
     url: "https://www.ttgmice.com/2025/07/30/bcck-expansion-strengthens-sarawaks-business-events-capacity/"
     publisher: "TTGmice"
 

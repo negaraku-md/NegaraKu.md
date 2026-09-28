@@ -54,19 +54,19 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Recognition of Forest Research Institute Malaysia (FRIM) Forest Park Selangor as a UNESCO World Heritage Site"
+  - title: "马来西亚森林研究院（FRIM）雪兰莪森林公园获认可为联合国教科文组织世界遗产 (Recognition of Forest Research Institute Malaysia (FRIM) Forest Park Selangor as a UNESCO World Heritage Site)"
     url: "https://www.motac.gov.my/en/recognition-of-forest-research-institute-malaysia-frim-forest-park-selangor-fps-as-a-unesco-world-heritage-site/"
-    publisher: "Ministry of Tourism, Arts and Culture Malaysia (MOTAC)"
-  - title: "Homestay Malaysia Experience Program (PPHM)"
+    publisher: "马来西亚旅游、艺术及文化部 (MOTAC)"
+  - title: "马来西亚民宿体验计划（PPHM） (Homestay Malaysia Experience Program (PPHM))"
     url: "https://www.motac.gov.my/en/homestay-malaysia-experience-program/"
-    publisher: "Ministry of Tourism, Arts and Culture Malaysia (MOTAC)"
-  - title: "Malaysian Homestay Experience Program (PPHM)"
+    publisher: "马来西亚旅游、艺术及文化部 (MOTAC)"
+  - title: "马来西亚民宿体验计划（PPHM） (Malaysian Homestay Experience Program (PPHM))"
     url: "https://www.malaysia.gov.my/en/topics/program-pengalaman-homestay-malaysia-pphm"
-    publisher: "Government of Malaysia (MyGovernment portal)"
-  - title: "About GTWHS — George Town UNESCO World Heritage Site"
+    publisher: "马来西亚政府（MyGovernment 门户）"
+  - title: "关于 GTWHS — 乔治市联合国教科文组织世界遗产 (About GTWHS — George Town UNESCO World Heritage Site)"
     url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
     publisher: "George Town World Heritage Incorporated (GTWHI)"
-  - title: "Sarawak's Niah Caves Recognised As UNESCO World Heritage Site"
+  - title: "砂拉越尼亚石洞获认可为联合国教科文组织世界遗产 (Sarawak's Niah Caves Recognised As UNESCO World Heritage Site)"
     url: "https://www.bernama.com/en/news.php?id=2322602"
     publisher: "Bernama (Malaysian National News Agency)"
 

@@ -57,16 +57,16 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "999 Emergency Services"
+  - title: "บริการฉุกเฉิน 999 (999 Emergency Services)"
     url: "https://www.civildefence.gov.my/999-emergency-services/?lang=en"
-    publisher: "Angkatan Pertahanan Awam Malaysia (Malaysian Civil Defence Force)"
-  - title: "MCMC introduces mandatory standard to tighten prepaid SIM card registration"
+    publisher: "กองกำลังป้องกันภัยฝ่ายพลเรือนมาเลเซีย"
+  - title: "MCMC ออกมาตรฐานบังคับเพื่อเข้มงวดการลงทะเบียนซิมการ์ดแบบเติมเงิน (MCMC introduces mandatory standard to tighten prepaid SIM card registration)"
     url: "https://www.thestar.com.my/news/nation/2026/02/26/mcmc-introduces-mandatory-standard-to-tighten-prepaid-sim-card-registration"
     publisher: "The Star"
-  - title: "Weather Phenomena — Monsoons"
+  - title: "ปรากฏการณ์สภาพอากาศ — มรสุม (Weather Phenomena — Monsoons)"
     url: "https://www.met.gov.my/en/pendidikan/fenomena-cuaca/"
-    publisher: "Malaysian Meteorological Department (MET Malaysia)"
-  - title: "Malaysia — Traveler View, Travelers' Health"
+    publisher: "กรมอุตุนิยมวิทยามาเลเซีย (MET Malaysia)"
+  - title: "มาเลเซีย — มุมมองนักเดินทาง สุขภาพนักเดินทาง (Malaysia — Traveler View, Travelers' Health)"
     url: "https://wwwnc.cdc.gov/travel/destinations/traveler/none/malaysia"
     publisher: "U.S. Centers for Disease Control and Prevention (CDC)"
 

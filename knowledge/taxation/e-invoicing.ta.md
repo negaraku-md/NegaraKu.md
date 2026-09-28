@@ -42,17 +42,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "IRBM e-Invoice Guideline"
+  - title: "IRBM மின்-விலைப்பட்டியல் வழிகாட்டி (IRBM e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2026-07-07"
-  - title: "IRBM e-Invoice Specific Guideline"
+  - title: "IRBM மின்-விலைப்பட்டியல் குறிப்பிட்ட வழிகாட்டி (IRBM e-Invoice Specific Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2026-07-07"
-  - title: "MyInvois Portal"
+  - title: "MyInvois போர்டல் (MyInvois Portal)"
     url: "https://myinvois.hasil.gov.my/"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "e-Invoicing and MyInvois"
 relations:

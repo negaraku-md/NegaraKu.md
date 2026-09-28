@@ -55,13 +55,13 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Conservation Charge & Fee Rates"
+  - title: "பாதுகாப்புக் கட்டணம் & கட்டண விகிதங்கள் (Conservation Charge & Fee Rates)"
     url: "https://www.dof.gov.my/en/services/marine-park-resource-management/conservation-charge-fee-rates/"
-    publisher: "Department of Fisheries Malaysia"
-  - title: "Management of Marine Parks, Turtle Centres and Sanctuaries"
+    publisher: "மலேசிய மீன்வளத் திணைக்களம்"
+  - title: "கடல் பூங்காக்கள், ஆமை மையங்கள் மற்றும் சரணாலயங்களின் மேலாண்மை (Management of Marine Parks, Turtle Centres and Sanctuaries)"
     url: "https://www.dof.gov.my/en/services/marine-park-resource-management/marine-park-management/"
-    publisher: "Department of Fisheries Malaysia"
-  - title: "Sabah Parks director: Tighter restrictions for Sipadan diving permits to preserve marine life"
+    publisher: "மலேசிய மீன்வளத் திணைக்களம்"
+  - title: "சபா பார்க்ஸ் இயக்குநர்: கடல் உயிரினங்களைப் பாதுகாக்க சிபடான் டைவிங் அனுமதிகளுக்கு இறுக்கமான கட்டுப்பாடுகள் (Sabah Parks director: Tighter restrictions for Sipadan diving permits to preserve marine life)"
     url: "https://www.malaymail.com/news/malaysia/2022/09/29/sabah-parks-director-tighter-restrictions-for-sipadan-diving-permits-to-preserve-marine-life/30839"
     publisher: "Malay Mail"
 

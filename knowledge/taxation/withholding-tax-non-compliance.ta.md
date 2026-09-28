@@ -53,17 +53,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, section 14"
+  - title: "Public Ruling No. 10/2019 — சிறப்பு வருமான வகைகளுக்கான நிறுத்திவைப்பு வரி, பிரிவு 14 (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, section 14)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2019-12-10"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.39(1)(f), 39(1)(i), 39(1)(j), 106, 109B(2), 113(2), 131A"
+  - title: "Income Tax Act 1967 (Act 53), 2024 மே 21 நிலவரப்படி மறுபதிப்பு — பிரிவுகள் 39(1)(f), 39(1)(i), 39(1)(j), 106, 109B(2), 113(2), 131A (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.39(1)(f), 39(1)(i), 39(1)(j), 106, 109B(2), 113(2), 131A)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2024-05-21"
-  - title: "Withholding Tax — Enforcement"
+  - title: "நிறுத்திவைப்பு வரி — அமலாக்கம் (Withholding Tax — Enforcement)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Withholding tax non-compliance"
 relations:

@@ -55,13 +55,13 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Conservation Charge & Fee Rates"
+  - title: "保全料金と料金表 (Conservation Charge & Fee Rates)"
     url: "https://www.dof.gov.my/en/services/marine-park-resource-management/conservation-charge-fee-rates/"
-    publisher: "Department of Fisheries Malaysia"
-  - title: "Management of Marine Parks, Turtle Centres and Sanctuaries"
+    publisher: "マレーシア水産局"
+  - title: "海洋公園、ウミガメセンターおよび保護区の管理 (Management of Marine Parks, Turtle Centres and Sanctuaries)"
     url: "https://www.dof.gov.my/en/services/marine-park-resource-management/marine-park-management/"
-    publisher: "Department of Fisheries Malaysia"
-  - title: "Sabah Parks director: Tighter restrictions for Sipadan diving permits to preserve marine life"
+    publisher: "マレーシア水産局"
+  - title: "サバ・パークス局長：海洋生物保護のためシパダンのダイビング許可を厳格化 (Sabah Parks director: Tighter restrictions for Sipadan diving permits to preserve marine life)"
     url: "https://www.malaymail.com/news/malaysia/2022/09/29/sabah-parks-director-tighter-restrictions-for-sipadan-diving-permits-to-preserve-marine-life/30839"
     publisher: "Malay Mail"
 

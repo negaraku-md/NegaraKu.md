@@ -48,15 +48,15 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Targeted Revision of Sales Tax Rate and Expansion of Service Tax Scope Effective 1 July 2025"
+  - title: "2025 ஜூலை 1 முதல் அமலுக்கு வரும் விற்பனை வரி விகித இலக்குத் திருத்தம் மற்றும் சேவை வரி எல்லை விரிவாக்கம் (Targeted Revision of Sales Tax Rate and Expansion of Service Tax Scope Effective 1 July 2025)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/targeted-revision-of-sales-tax-rate-and-expansion-of-service-tax-scope-effective-1-july-2025"
-    publisher: "Ministry of Finance Malaysia"
-  - title: "Revision to the Expanded Sales Tax and Service Tax Take Into Account Public and Industry Feedback"
+    publisher: "மலேசிய நிதி அமைச்சு"
+  - title: "விரிவாக்கப்பட்ட விற்பனை வரி மற்றும் சேவை வரிக்கான திருத்தம் பொது மக்கள் மற்றும் தொழில்துறையின் கருத்துகளைக் கருத்தில் கொள்கிறது (Revision to the Expanded Sales Tax and Service Tax Take Into Account Public and Industry Feedback)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/revision-to-the-expanded-sales-tax-and-service-tax-take-into-account-public-and-industry-feedback"
-    publisher: "Ministry of Finance Malaysia"
-  - title: "FAQ — Expansion of Service Tax Scope 2025 (Rental or Leasing Services)"
+    publisher: "மலேசிய நிதி அமைச்சு"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் — 2025 சேவை வரி எல்லை விரிவாக்கம் (வாடகை அல்லது குத்தகைச் சேவைகள்) (FAQ — Expansion of Service Tax Scope 2025 (Rental or Leasing Services))"
     url: "https://mysst.customs.gov.my/faq-expansion-of-service-tax-scope-2025/"
-    publisher: "Royal Malaysian Customs Department (RMCD) / MySST"
+    publisher: "மலேசிய அரச சுங்கத் துறை (RMCD) / MySST"
 
 entity: "Service Tax on Rental or Leasing (Malaysia)"
 relations:

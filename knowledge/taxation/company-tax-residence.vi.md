@@ -58,20 +58,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons"
+  - title: "Phán quyết Công khai số 9/2019 — Tình trạng Cư trú của Công ty và Tổ chức của Cá nhân (Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_09_2019.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2019-12-06"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 8 and 61(3), Schedule 1 Part I"
+  - title: "Income Tax Act 1967 (Act 53), bản in lại tính đến ngày 21 tháng 5 năm 2024 — điều 8 và 61(3), Phụ lục 1 Phần I (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 8 and 61(3), Schedule 1 Part I)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2024-05-21"
-  - title: "Company Resident Status"
+  - title: "Tình trạng Cư trú của Công ty (Company Resident Status)"
     url: "https://www.hasil.gov.my/en/syarikat/taraf-mastautin-syarikat/"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 2/2025 — Group Relief for Companies"
+    publisher: "Cục Thuế Nội địa (LHDN)"
+  - title: "Phán quyết Công khai số 2/2025 — Miễn giảm theo Nhóm cho Công ty (Public Ruling No. 2/2025 — Group Relief for Companies)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-2-2025-group-relief-for-companies.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2025-07-31"
 
 entity: "Company tax residence"

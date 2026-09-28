@@ -53,21 +53,21 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Establishment Of Digital Ministry A Challenge, But Progressing Well – Gobind"
+  - title: "设立数字部是一项挑战，但进展顺利 – 哥宾星 (Establishment Of Digital Ministry A Challenge, But Progressing Well – Gobind)"
     url: "https://www.bernama.com/en/general/news.php?id=2361704"
     publisher: "Bernama"
-  - title: "Mampu to come under Gobind's ministry"
+  - title: "MAMPU 将纳入哥宾星的部门 (Mampu to come under Gobind's ministry)"
     url: "https://www.thestar.com.my/news/nation/2023/12/15/mampu-to-come-under-gobinds-ministry"
     publisher: "The Star"
-  - title: "DNB and CyberSecurity Malaysia to go under Digital Ministry"
+  - title: "DNB 与 CyberSecurity Malaysia 将归入数字部 (DNB and CyberSecurity Malaysia to go under Digital Ministry)"
     url: "https://soyacincau.com/2024/01/10/digital-nasional-berhad-cybersecurity-malaysia-digital-ministry/"
     publisher: "SoyaCincau"
-  - title: "Ministry Of Digital Elevates Nation's Digital Economy To New Heights"
+  - title: "数字部将国家数字经济提升至新高度 (Ministry Of Digital Elevates Nation's Digital Economy To New Heights)"
     url: "https://www.businesstoday.com.my/2024/12/24/ministry-of-digital-elevates-nations-digital-economy-to-new-heights/"
     publisher: "Business Today"
-  - title: "About Us — National Cyber Security Agency (NACSA)"
+  - title: "关于我们 — 国家网络安全局（NACSA） (About Us — National Cyber Security Agency (NACSA))"
     url: "https://www.nacsa.gov.my"
-    publisher: "NACSA (Agensi Keselamatan Siber Negara)"
+    publisher: "国家网络安全局 (NACSA)"
 
 entity: "Kementerian Digital (Ministry of Digital, Malaysia)"
 wikidata: "Q124289531"

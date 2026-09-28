@@ -55,16 +55,16 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "National Cyber Security Agency (NACSA) — Official Portal"
+  - title: "국가사이버보안청(NACSA) — 공식 포털 (National Cyber Security Agency (NACSA) — Official Portal)"
     url: "https://www.nacsa.gov.my/"
-    publisher: "National Cyber Security Agency (NACSA)"
-  - title: "Cyber Security Act 2024 [Act 854]"
+    publisher: "국가사이버보안청 (NACSA)"
+  - title: "사이버보안법 2024 [Act 854] (Cyber Security Act 2024 [Act 854])"
     url: "https://www.nacsa.gov.my/act854.php"
-    publisher: "National Cyber Security Agency (NACSA)"
-  - title: "Corporate Overview"
+    publisher: "국가사이버보안청 (NACSA)"
+  - title: "기업 개요 (Corporate Overview)"
     url: "https://www.cybersecurity.my/portal-main/about-us/corporate-overview"
     publisher: "CyberSecurity Malaysia"
-  - title: "MyCERT — Malaysia Computer Emergency Response Team"
+  - title: "MyCERT — 말레이시아 컴퓨터 침해사고 대응팀 (MyCERT — Malaysia Computer Emergency Response Team)"
     url: "https://www.mycert.org.my/"
     publisher: "MyCERT, CyberSecurity Malaysia"
 

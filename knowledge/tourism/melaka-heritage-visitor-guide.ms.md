@@ -64,13 +64,13 @@ verificationNeeded:
   - "Pengasasan Melaka sekitar 1400 dan pengaitannya dengan Parameswara."
   - "Tarikh era kolonial dalam jadual garis masa — penaklukan Portugis 1511, pengambilalihan Belanda 1641, Anglo-Dutch Treaty 1824 — standard tetapi tidak disahkan terhadap sumber primer yang diperoleh dalam pusingan ini."
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "Melaka dan George Town, Bandar Bersejarah Selat Melaka (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223/"
     publisher: "UNESCO World Heritage Centre"
-  - title: "George Town UNESCO World Heritage Site (About GTWHS / OUV)"
+  - title: "Tapak Warisan Dunia UNESCO George Town (Mengenai GTWHS / OUV) (George Town UNESCO World Heritage Site (About GTWHS / OUV))"
     url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
     publisher: "George Town World Heritage Incorporated (GTWHI)"
-  - title: "Baba & Nyonya Heritage Museum — About / Visit"
+  - title: "Muzium Warisan Baba & Nyonya — Mengenai / Lawati (Baba & Nyonya Heritage Museum — About / Visit)"
     url: "https://babanyonyamuseum.com/"
     publisher: "Baba & Nyonya Heritage Museum"
 

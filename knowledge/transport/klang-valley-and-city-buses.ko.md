@@ -54,16 +54,16 @@ verificationNeeded:
   - "래피드 쿠안탄(Rapid Kuantan)의 현재 상태(운영 중단으로 보도됨) — 1차 출처가 나올 때까지 여기서는 제외함."
 updated: 2026-08-08
 sources:
-  - title: "Rapid KL — Bus"
+  - title: "Rapid KL — 버스 (Rapid KL — Bus)"
     url: "https://myrapid.com.my/bus-train/rapid-kl/bus/"
     publisher: "Prasarana Malaysia Berhad (MyRapid)"
-  - title: "Rapid Bus To Restructure Klang Valley Routes For Better Service"
+  - title: "Rapid Bus, 더 나은 서비스를 위해 클랑밸리 노선 개편 (Rapid Bus To Restructure Klang Valley Routes For Better Service)"
     url: "https://bernama.com/en/news.php?id=2511120"
     publisher: "Bernama"
-  - title: "Rapid Bus to restructure Klang Valley routes for better service"
+  - title: "Rapid Bus, 더 나은 서비스를 위해 클랑밸리 노선 개편 (Rapid Bus to restructure Klang Valley routes for better service)"
     url: "https://www.thestar.com.my/metro/metro-news/2026/01/11/rapid-bus-to-restructure-klang-valley-routes-for-better-service"
     publisher: "The Star"
-  - title: "Prasarana Subsidiaries — Rapid Bus"
+  - title: "Prasarana 자회사 — Rapid Bus (Prasarana Subsidiaries — Rapid Bus)"
     url: "https://www.prasarana.com.my/rapid-bus/"
     publisher: "Prasarana Malaysia Berhad"
 

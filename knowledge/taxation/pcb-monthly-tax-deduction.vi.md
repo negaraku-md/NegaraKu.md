@@ -56,17 +56,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — s.77C and s.107"
+  - title: "Income Tax Act 1967 (Act 53), bản in lại ngày 21 tháng 5 năm 2024 — s.77C và s.107 (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — s.77C and s.107)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
     date: "2024-05-21"
-  - title: "Kaedah-Kaedah Cukai Pendapatan (Potongan daripada Saraan) 1994 (Pindaan) 2021, P.U.(A) 123/2021"
+  - title: "Kaedah-Kaedah Cukai Pendapatan (Potongan daripada Saraan) 1994 (Pindaan) 2021, P.U.(A) 123/2021 (Kaedah-Kaedah Cukai Pendapatan (Potongan daripada Saraan) 1994 (Pindaan) 2021, P.U.(A) 123/2021)"
     url: "https://www.hasil.gov.my/wp-content/uploads/Kaedah_Kaedah_Cukai_Pendapatan_Potongan_Daripada_Saraan_1994_Pindaan_2021.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
     date: "2021-03-19"
-  - title: "Program Memfail Borang Nyata (BN) Bagi Tahun 2026"
+  - title: "Chương trình nộp Tờ khai thuế (BN) cho năm 2026 (Program Memfail Borang Nyata (BN) Bagi Tahun 2026)"
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
     date: "2025-12-30"
 
 entity: "Monthly Tax Deduction (PCB / MTD)"

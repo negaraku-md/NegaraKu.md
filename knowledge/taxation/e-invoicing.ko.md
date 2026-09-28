@@ -42,17 +42,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "IRBM e-Invoice Guideline"
+  - title: "IRBM 전자세금계산서 지침 (IRBM e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "내국세입청 (LHDN)"
     date: "2026-07-07"
-  - title: "IRBM e-Invoice Specific Guideline"
+  - title: "IRBM 전자세금계산서 특정 지침 (IRBM e-Invoice Specific Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "내국세입청 (LHDN)"
     date: "2026-07-07"
-  - title: "MyInvois Portal"
+  - title: "MyInvois 포털 (MyInvois Portal)"
     url: "https://myinvois.hasil.gov.my/"
-    publisher: "LHDN"
+    publisher: "내국세입청 (LHDN)"
 
 entity: "e-Invoicing and MyInvois"
 relations:

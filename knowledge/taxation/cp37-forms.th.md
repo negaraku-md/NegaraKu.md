@@ -54,18 +54,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Withholding Tax — types of payment, provisions, rates and forms"
+  - title: "ภาษีหัก ณ ที่จ่าย — ประเภทการจ่ายเงิน บทบัญญัติ อัตรา และแบบฟอร์ม (Withholding Tax — types of payment, provisions, rates and forms)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
-  - title: "Form CP37 (Pin. 1/2024) — Account of Deduction from Royalty and Interest to a Non-Resident Person"
+    publisher: "กรมสรรพากร (LHDN)"
+  - title: "แบบฟอร์ม CP37 (Pin. 1/2024) — บัญชีการหักจากค่าสิทธิและดอกเบี้ยที่จ่ายแก่ผู้ไม่มีถิ่นที่อยู่ (Form CP37 (Pin. 1/2024) — Account of Deduction from Royalty and Interest to a Non-Resident Person)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37-pin-1_2024.pdf"
-    publisher: "LHDN"
-  - title: "Form CP37S (Pin. 1/2025) — Small Value Withholding Tax Payments, Royalty and Interest"
+    publisher: "กรมสรรพากร (LHDN)"
+  - title: "แบบฟอร์ม CP37S (Pin. 1/2025) — การชำระภาษีหัก ณ ที่จ่ายมูลค่าน้อย ค่าสิทธิและดอกเบี้ย (Form CP37S (Pin. 1/2025) — Small Value Withholding Tax Payments, Royalty and Interest)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37s-pin-1_2025.pdf"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, sections 13 and 17"
+    publisher: "กรมสรรพากร (LHDN)"
+  - title: "คำวินิจฉัยสาธารณะ ฉบับที่ 10/2019 — ภาษีหัก ณ ที่จ่ายสำหรับเงินได้ประเภทพิเศษ มาตรา 13 และ 17 (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, sections 13 and 17)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากร (LHDN)"
     date: "2019-12-10"
 
 entity: "CP37 withholding tax forms"

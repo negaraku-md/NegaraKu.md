@@ -57,19 +57,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.12 and s.13(2)"
+  - title: "Income Tax Act 1967 (Act 53)、2024年5月21日現在の再版 — s.12およびs.13(2) (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.12 and s.13(2))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "マレーシア内国歳入庁 (LHDN)"
     date: "2024-05-21"
-  - title: "Instrumen Multilateral (MLI)"
+  - title: "多国間協定（MLI） (Instrumen Multilateral (MLI))"
     url: "https://www.hasil.gov.my/antarabangsa/instrumen-multilateral-mli/"
-    publisher: "LHDN"
-  - title: "Synthesised text of the Malaysia-Japan double taxation agreement and the MLI"
+    publisher: "マレーシア内国歳入庁 (LHDN)"
+  - title: "マレーシア・日本租税条約とMLIの統合テキスト (Synthesised text of the Malaysia-Japan double taxation agreement and the MLI)"
     url: "https://www.hasil.gov.my/wp-content/uploads/st-japan.pdf"
-    publisher: "LHDN"
-  - title: "Malaysia Transfer Pricing Guidelines 2024 — documentation for a permanent establishment"
+    publisher: "マレーシア内国歳入庁 (LHDN)"
+  - title: "マレーシア移転価格ガイドライン2024 — 恒久的施設に関する文書化 (Malaysia Transfer Pricing Guidelines 2024 — documentation for a permanent establishment)"
     url: "https://www.hasil.gov.my/wp-content/uploads/malaysia-transfer-pricing-guidelines-2024.pdf"
-    publisher: "LHDN"
+    publisher: "マレーシア内国歳入庁 (LHDN)"
     date: "2024-12-24"
 
 entity: "Permanent establishment"

@@ -39,22 +39,22 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Cars and Motorcycles Registered in Malaysia"
+  - title: "மலேசியாவில் பதிவு செய்யப்பட்ட கார்கள் மற்றும் மோட்டார் சைக்கிள்கள் (Cars and Motorcycles Registered in Malaysia)"
     url: "https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html"
-    publisher: "Land Transport Authority (LTA), Singapore"
-  - title: "Updates for Foreign-Registered Vehicles Entering Singapore"
+    publisher: "தரைவழிப் போக்குவரத்து ஆணையம் (LTA), சிங்கப்பூர்"
+  - title: "சிங்கப்பூருக்குள் நுழையும் வெளிநாட்டில் பதிவு செய்யப்பட்ட வாகனங்களுக்கான புதுப்பிப்புகள் (Updates for Foreign-Registered Vehicles Entering Singapore)"
     url: "https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/2/news-releases/updates-foreign-registered-vehicles-entering-singapore.html"
-    publisher: "Land Transport Authority (LTA), Singapore"
+    publisher: "தரைவழிப் போக்குவரத்து ஆணையம் (LTA), சிங்கப்பூர்"
     date: "2026-02-06"
-  - title: "Vehicle Entry Permit (VEP)"
+  - title: "வாகன நுழைவு அனுமதி (Vehicle Entry Permit (VEP))"
     url: "https://www.jpj.my/vep/"
-    publisher: "Jabatan Pengangkutan Jalan Malaysia (JPJ)"
-  - title: "Temporary importing and exporting foreign Thai vehicles by land"
+    publisher: "மலேசிய தரைவழிப் போக்குவரத்துத் துறை (JPJ)"
+  - title: "வெளிநாட்டு தாய் வாகனங்களை தரைவழியாக தற்காலிகமாக இறக்குமதி மற்றும் ஏற்றுமதி செய்தல் (Temporary importing and exporting foreign Thai vehicles by land)"
     url: "https://www.thailand.go.th/issue-focus-detail/001_01_163"
-    publisher: "Royal Thai Government (Thailand.go.th)"
-  - title: "Cross-Border Insurance Vital Before Driving Into Thailand"
+    publisher: "தாய்லாந்து அரச அரசாங்கம் (Thailand.go.th)"
+  - title: "தாய்லாந்துக்குள் வாகனம் ஓட்டுவதற்கு முன் எல்லை தாண்டிய காப்பீடு அவசியம் (Cross-Border Insurance Vital Before Driving Into Thailand)"
     url: "https://piam.org.my/news-media/stay-ahead/articles/page/piam-cross-border-insurance-vital-before-driving-into-thailand/"
-    publisher: "Persatuan Insurans Am Malaysia (PIAM)"
+    publisher: "மலேசிய பொது காப்பீட்டு சங்கம் (PIAM)"
 
 entity: "Cross-Border Driving from Malaysia"
 relations:

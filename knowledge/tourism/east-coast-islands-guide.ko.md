@@ -54,13 +54,13 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Conservation Charge & Fee Rates"
+  - title: "보전 요금 및 수수료율 (Conservation Charge & Fee Rates)"
     url: "https://www.dof.gov.my/en/services/marine-park-resource-management/conservation-charge-fee-rates/"
-    publisher: "Department of Fisheries Malaysia"
-  - title: "Management of Marine Parks, Turtle Centres and Sanctuaries"
+    publisher: "말레이시아 수산청"
+  - title: "해양공원, 바다거북 센터 및 보호구역 관리 (Management of Marine Parks, Turtle Centres and Sanctuaries)"
     url: "https://www.dof.gov.my/en/services/marine-park-resource-management/marine-park-management/"
-    publisher: "Department of Fisheries Malaysia"
-  - title: "As tourist arrivals rise, Terengganu islands close resorts and hotels in preparation for northeast monsoon"
+    publisher: "말레이시아 수산청"
+  - title: "관광객 증가 속에, 트렝가누 섬들이 북동 몬순 대비해 리조트와 호텔 폐쇄 (As tourist arrivals rise, Terengganu islands close resorts and hotels in preparation for northeast monsoon)"
     url: "https://www.malaymail.com/news/malaysia/2024/09/27/as-tourist-arrivals-rise-terengganu-islands-close-resorts-and-hotels-in-preparation-for-northeast-monsoon/151773"
     publisher: "Malay Mail"
 

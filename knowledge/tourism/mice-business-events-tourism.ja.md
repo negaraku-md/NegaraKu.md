@@ -56,22 +56,22 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "MyCEB — Home (Malaysia's Business Events Achievements Since 2009)"
+  - title: "MyCEB — ホーム（2009年以降のマレーシアのビジネスイベントの実績） (MyCEB — Home (Malaysia's Business Events Achievements Since 2009))"
     url: "https://www.myceb.com.my/"
     publisher: "Malaysia Convention & Exhibition Bureau (MyCEB)"
-  - title: "MyCEB Elevates Malaysia's Global Profile at The Meetings Show London 2024"
+  - title: "MyCEB、The Meetings Show London 2024でマレーシアの世界的知名度を高める (MyCEB Elevates Malaysia's Global Profile at The Meetings Show London 2024)"
     url: "https://www.myceb.com.my/about-us/media-centre/press-release/myceb-elevates-malaysias-global-profile-at-the-meetings-show-london-2024"
     publisher: "Malaysia Convention & Exhibition Bureau (MyCEB)"
-  - title: "MITEC — Malaysia International Trade & Exhibition Centre (Official Site)"
+  - title: "MITEC — マレーシア国際貿易展示センター（公式サイト） (MITEC — Malaysia International Trade & Exhibition Centre (Official Site))"
     url: "https://www.mitec.com.my/"
     publisher: "Malaysia International Trade & Exhibition Centre"
-  - title: "Malaysia International Trade & Exhibition Centre (MITEC)"
+  - title: "マレーシア国際貿易展示センター（MITEC） (Malaysia International Trade & Exhibition Centre (MITEC))"
     url: "https://www.cidb.gov.my/eng/malaysia-international-trade-exhibition-centre-mitec/"
     publisher: "Construction Industry Development Board Malaysia (CIDB)"
-  - title: "Kuala Lumpur Convention Centre (Official Site)"
+  - title: "クアラルンプール・コンベンションセンター（公式サイト） (Kuala Lumpur Convention Centre (Official Site))"
     url: "https://www.klccconventioncentre.com/"
     publisher: "Kuala Lumpur Convention Centre"
-  - title: "BCCK expansion strengthens Sarawak's business events capacity"
+  - title: "BCCKの拡張がサラワクのビジネスイベント能力を強化 (BCCK expansion strengthens Sarawak's business events capacity)"
     url: "https://www.ttgmice.com/2025/07/30/bcck-expansion-strengthens-sarawaks-business-events-capacity/"
     publisher: "TTGmice"
 

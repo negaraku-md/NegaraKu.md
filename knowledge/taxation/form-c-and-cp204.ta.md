@@ -94,23 +94,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 77A, 107C, 112, 120"
+  - title: "Income Tax Act 1967 (Act 53), 21 மே 2024 நிலவரப்படி மறுபதிப்பு — பிரிவுகள் 77A, 107C, 112, 120 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 77A, 107C, 112, 120)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2024-05-21"
-  - title: "Tax Estimation — Submission of Estimated Tax Payable Under Section 107C"
+  - title: "வரி மதிப்பீடு — பிரிவு 107Cஇன் கீழ் செலுத்த வேண்டிய வரி மதிப்பீட்டைச் சமர்ப்பித்தல் (Tax Estimation — Submission of Estimated Tax Payable Under Section 107C)"
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "பொது தீர்ப்பு எண். 8/2025 — நுண், சிறு மற்றும் நடுத்தர நிறுவனங்களுக்கான வரி நடைமுறை (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-12-22"
-  - title: "Return Form Filing Programme for the Year 2026"
+  - title: "2026 ஆண்டிற்கான வருமான அறிக்கைப் படிவம் தாக்கல் திட்டம் (Return Form Filing Programme for the Year 2026)"
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
-    publisher: "LHDN"
-  - title: "Offences, Fines and Penalties"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "குற்றங்கள், அபராதங்கள் மற்றும் தண்டனைகள் (Offences, Fines and Penalties)"
     url: "https://www.hasil.gov.my/en/perundangan/kesalahan-denda-dan-penalti/"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Company tax estimate and return"
 relations:

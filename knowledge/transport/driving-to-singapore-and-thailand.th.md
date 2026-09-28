@@ -39,22 +39,22 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Cars and Motorcycles Registered in Malaysia"
+  - title: "รถยนต์และรถจักรยานยนต์ที่จดทะเบียนในมาเลเซีย (Cars and Motorcycles Registered in Malaysia)"
     url: "https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html"
-    publisher: "Land Transport Authority (LTA), Singapore"
-  - title: "Updates for Foreign-Registered Vehicles Entering Singapore"
+    publisher: "องค์การขนส่งทางบก (LTA), สิงคโปร์"
+  - title: "ข้อมูลอัปเดตสำหรับยานพาหนะที่จดทะเบียนต่างประเทศที่เข้าสิงคโปร์ (Updates for Foreign-Registered Vehicles Entering Singapore)"
     url: "https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/2/news-releases/updates-foreign-registered-vehicles-entering-singapore.html"
-    publisher: "Land Transport Authority (LTA), Singapore"
+    publisher: "องค์การขนส่งทางบก (LTA), สิงคโปร์"
     date: "2026-02-06"
-  - title: "Vehicle Entry Permit (VEP)"
+  - title: "ใบอนุญาตนำยานพาหนะเข้า (Vehicle Entry Permit (VEP))"
     url: "https://www.jpj.my/vep/"
-    publisher: "Jabatan Pengangkutan Jalan Malaysia (JPJ)"
-  - title: "Temporary importing and exporting foreign Thai vehicles by land"
+    publisher: "กรมการขนส่งทางบกมาเลเซีย (JPJ)"
+  - title: "การนำเข้าและส่งออกยานพาหนะไทยจากต่างประเทศชั่วคราวทางบก (Temporary importing and exporting foreign Thai vehicles by land)"
     url: "https://www.thailand.go.th/issue-focus-detail/001_01_163"
-    publisher: "Royal Thai Government (Thailand.go.th)"
-  - title: "Cross-Border Insurance Vital Before Driving Into Thailand"
+    publisher: "รัฐบาลไทย (Thailand.go.th)"
+  - title: "ประกันภัยข้ามพรมแดนสำคัญยิ่งก่อนขับรถเข้าประเทศไทย (Cross-Border Insurance Vital Before Driving Into Thailand)"
     url: "https://piam.org.my/news-media/stay-ahead/articles/page/piam-cross-border-insurance-vital-before-driving-into-thailand/"
-    publisher: "Persatuan Insurans Am Malaysia (PIAM)"
+    publisher: "สมาคมประกันภัยทั่วไปมาเลเซีย (PIAM)"
 
 entity: "Cross-Border Driving from Malaysia"
 relations:

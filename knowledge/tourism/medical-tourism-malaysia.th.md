@@ -59,16 +59,16 @@ verificationNeeded:
 
 updated: 2026-07-28
 sources:
-  - title: "Industry Overview"
+  - title: "ภาพรวมอุตสาหกรรม (Industry Overview)"
     url: "https://malaysiahealthcare.org/industry-overview"
     publisher: "Malaysia Healthcare Travel Council"
-  - title: "Malaysia Unveils First Flagship Medical Tourism Hospital Award Winner"
+  - title: "มาเลเซียเปิดตัวผู้ชนะรางวัลโรงพยาบาลท่องเที่ยวเชิงการแพทย์เรือธงรายแรก (Malaysia Unveils First Flagship Medical Tourism Hospital Award Winner)"
     url: "https://www.prnewswire.com/apac/news-releases/malaysia-unveils-first-flagship-medical-tourism-hospital-award-winner-to-drive-global-economy-competitiveness-302637303.html"
     publisher: "PR Newswire / MHTC"
-  - title: "The quiet but growing economic ripple of medical tourism"
+  - title: "ระลอกทางเศรษฐกิจที่เงียบแต่กำลังเติบโตของการท่องเที่ยวเชิงการแพทย์ (The quiet but growing economic ripple of medical tourism)"
     url: "https://www.freemalaysiatoday.com/category/nation/2026/03/17/the-quiet-but-growing-economic-ripple-of-medical-tourism"
     publisher: "Free Malaysia Today"
-  - title: "Malaysia Healthcare Travel Council"
+  - title: "สภาการเดินทางเพื่อสุขภาพมาเลเซีย (Malaysia Healthcare Travel Council)"
     url: "https://malaysiahealthcare.org/"
     publisher: "Malaysia Healthcare Travel Council"
 

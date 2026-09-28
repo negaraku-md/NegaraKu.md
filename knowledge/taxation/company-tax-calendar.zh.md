@@ -150,16 +150,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Program Memfail Borang Nyata (BN) Bagi Tahun 2026"
+  - title: "2026年报税表（BN）申报计划 (Program Memfail Borang Nyata (BN) Bagi Tahun 2026)"
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
-    publisher: "LHDN"
+    publisher: "内陆税收局 (LHDN)"
     date: "2025-12-30"
-  - title: "Income Tax Act 1967 (Act 53), consolidated text"
+  - title: "Income Tax Act 1967 (Act 53)，合订本 (Income Tax Act 1967 (Act 53), consolidated text)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53&lang=BI"
-    publisher: "Attorney General's Chambers"
-  - title: "Labuan Business Activity Tax Act 1990 (Act 445)"
+    publisher: "总检察署"
+  - title: "Labuan Business Activity Tax Act 1990 (Act 445) (Labuan Business Activity Tax Act 1990 (Act 445))"
     url: "https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Legislation/2022/Draft%20ACT%20445%20BI%20update%202021%20-%20Website%20purpose%2012%20DEC%202022.pdf"
-    publisher: "Labuan FSA"
+    publisher: "纳闽金融服务管理局 (Labuan FSA)"
 
 entity: "Company tax compliance calendar"
 relations:

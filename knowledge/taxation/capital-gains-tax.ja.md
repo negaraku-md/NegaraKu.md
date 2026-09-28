@@ -67,19 +67,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Guidelines on Capital Gains Tax for Unlisted Shares, LHDN.AG.600-1/7/3"
+  - title: "非上場株式に係るキャピタルゲイン税ガイドライン、LHDN.AG.600-1/7/3 (Guidelines on Capital Gains Tax for Unlisted Shares, LHDN.AG.600-1/7/3)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20250721-guidelines-on-capital-gains-tax-for-unlisted-shares.pdf"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
     date: "2025-07-21"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
+  - title: "Income Tax Act 1967 (Act 53)、2024年5月21日現在の再版 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
-  - title: "Finance (No. 2) Act 2023 (Act 851)"
+    publisher: "内国歳入庁 (LHDN)"
+  - title: "Finance (No. 2) Act 2023 (Act 851) (Finance (No. 2) Act 2023 (Act 851))"
     url: "https://myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "CGT Return Form Filing Programme"
+    publisher: "司法長官府"
+  - title: "キャピタルゲイン税（CGT）申告書提出プログラム (CGT Return Form Filing Programme)"
     url: "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata-ckm/"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
 
 entity: "Capital gains tax"
 relations:

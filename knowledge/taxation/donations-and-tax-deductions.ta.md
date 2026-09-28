@@ -44,20 +44,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Garis Panduan Kelulusan di bawah Subseksyen 44(6) ACP 1967, para 8.1 (5-year approval)"
+  - title: "1967 வருமான வரிச் சட்டத்தின் துணைப்பிரிவு 44(6)இன் கீழ் அனுமதி வழிகாட்டி, பத்தி 8.1 (5 ஆண்டு அனுமதி) (Garis Panduan Kelulusan di bawah Subseksyen 44(6) ACP 1967, para 8.1 (5-year approval))"
     url: "https://www.hasil.gov.my/wp-content/uploads/GP_44_6_1_05092019_P.pdf"
-    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.44(6) to s.44(12)"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "Income Tax Act 1967 (Act 53), 21 மே 2024 நிலவரப்படி மறுபதிப்பு — பிரிவு 44(6) முதல் பிரிவு 44(12) வரை (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.44(6) to s.44(12))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2024-05-21"
-  - title: "Public Ruling No. 7/2025 — Taxation of a Resident Individual Part I, Gifts or Contributions and Allowable Deductions"
+  - title: "பொது தீர்ப்பு எண். 7/2025 — குடியிருப்பாளர் தனிநபரின் வரிவிதிப்பு பகுதி I, பரிசுகள் அல்லது பங்களிப்புகள் மற்றும் அனுமதிக்கப்பட்ட கழிவுகள் (Public Ruling No. 7/2025 — Taxation of a Resident Individual Part I, Gifts or Contributions and Allowable Deductions)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-7-2025.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-12-05"
-  - title: "Semakan Kelulusan Derma — approved donation checker"
+  - title: "நன்கொடை அனுமதி சரிபார்ப்பு — அங்கீகரிக்கப்பட்ட நன்கொடை சரிபார்ப்பாளர் (Semakan Kelulusan Derma — approved donation checker)"
     url: "https://www.hasil.gov.my/institusiorganisasitabung-bukan-berasaskan-keuntungan/semakan-kelulusan-derma/"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Section 44(6) donation deduction"
 relations:

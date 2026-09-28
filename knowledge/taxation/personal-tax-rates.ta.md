@@ -55,17 +55,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Kadar Cukai — Individu"
+  - title: "வரி விகிதங்கள் — தனிநபர் (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2026-06-26"
-  - title: "Rebat — Individu"
+  - title: "வரித் தள்ளுபடி — தனிநபர் (Rebat — Individu)"
     url: "https://www.hasil.gov.my/individu/rebat/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2026-07-10"
-  - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — Schedule 1 and s.6A"
+  - title: "Income Tax Act 1967 (Act 53), 2024 மே 21 மறுபதிப்பு — அட்டவணை 1 மற்றும் s.6A (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — Schedule 1 and s.6A)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "மலேசிய சட்ட மா அதிபர் அலுவலகம்"
     date: "2024-05-21"
 
 entity: "Malaysian individual income tax rates"

@@ -42,17 +42,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.6A, 45, 45A, 46, 47"
+  - title: "Income Tax Act 1967 (Act 53), bản in lại ngày 21 tháng 5 năm 2024 — ss.6A, 45, 45A, 46, 47 (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.6A, 45, 45A, 46, 47)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia"
     date: "2024-05-21"
-  - title: "Kadar Cukai — Individu"
+  - title: "Thuế suất — Cá nhân (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
     date: "2026-06-26"
-  - title: "Rebat — Individu"
+  - title: "Khoản giảm trừ (rebate) — Cá nhân (Rebat — Individu)"
     url: "https://www.hasil.gov.my/individu/rebat/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
     date: "2026-07-10"
 
 entity: "Joint and separate assessment of spouses"

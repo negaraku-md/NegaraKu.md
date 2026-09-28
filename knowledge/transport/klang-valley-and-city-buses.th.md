@@ -54,16 +54,16 @@ verificationNeeded:
   - "สถานะปัจจุบันของ Rapid Kuantan (มีรายงานว่ายุติการดำเนินงาน) — ไม่รวมไว้ที่นี่จนกว่าจะมีแหล่งข้อมูลปฐมภูมิ"
 updated: 2026-08-08
 sources:
-  - title: "Rapid KL — Bus"
+  - title: "Rapid KL — รถบัส (Rapid KL — Bus)"
     url: "https://myrapid.com.my/bus-train/rapid-kl/bus/"
     publisher: "Prasarana Malaysia Berhad (MyRapid)"
-  - title: "Rapid Bus To Restructure Klang Valley Routes For Better Service"
+  - title: "Rapid Bus ปรับโครงสร้างเส้นทางในหุบเขากลังเพื่อบริการที่ดีขึ้น (Rapid Bus To Restructure Klang Valley Routes For Better Service)"
     url: "https://bernama.com/en/news.php?id=2511120"
     publisher: "Bernama"
-  - title: "Rapid Bus to restructure Klang Valley routes for better service"
+  - title: "Rapid Bus ปรับโครงสร้างเส้นทางในหุบเขากลังเพื่อบริการที่ดีขึ้น (Rapid Bus to restructure Klang Valley routes for better service)"
     url: "https://www.thestar.com.my/metro/metro-news/2026/01/11/rapid-bus-to-restructure-klang-valley-routes-for-better-service"
     publisher: "The Star"
-  - title: "Prasarana Subsidiaries — Rapid Bus"
+  - title: "บริษัทในเครือ Prasarana — Rapid Bus (Prasarana Subsidiaries — Rapid Bus)"
     url: "https://www.prasarana.com.my/rapid-bus/"
     publisher: "Prasarana Malaysia Berhad"
 

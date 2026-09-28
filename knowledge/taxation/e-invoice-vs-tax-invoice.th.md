@@ -44,23 +44,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Finance (No. 2) Act 2023 (Act 851) — section 82C"
+  - title: "Finance (No. 2) Act 2023 (Act 851) — มาตรา 82C (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
-    publisher: "Government of Malaysia"
+    publisher: "รัฐบาลมาเลเซีย"
     date: "2023-12-29"
-  - title: "Service Tax Regulations 2018 — regulation 10"
+  - title: "Service Tax Regulations 2018 — ข้อ 10 (Service Tax Regulations 2018 — regulation 10)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
-    publisher: "RMCD"
-  - title: "Sales Tax Regulations 2018 — regulation 7"
+    publisher: "กรมศุลกากรมาเลเซีย (RMCD)"
+  - title: "Sales Tax Regulations 2018 — ข้อ 7 (Sales Tax Regulations 2018 — regulation 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
-    publisher: "RMCD"
-  - title: "e-Invoice Guideline (Version 4.7)"
+    publisher: "กรมศุลกากรมาเลเซีย (RMCD)"
+  - title: "แนวปฏิบัติใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.7) (e-Invoice Guideline (Version 4.7))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากร (LHDN)"
     date: "2026-07-07"
-  - title: "MySST — Issuing Invoices"
+  - title: "MySST — การออกใบแจ้งหนี้ (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
-    publisher: "RMCD"
+    publisher: "กรมศุลกากรมาเลเซีย (RMCD)"
 
 entity: "e-Invoice compared with the SST tax invoice"
 relations:

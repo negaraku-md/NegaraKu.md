@@ -59,21 +59,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 1/2022 — Time Limit for Unabsorbed Adjusted Business Losses Carried Forward"
+  - title: "பொது தீர்ப்பு எண். 1/2022 — உறிஞ்சப்படாத சரிசெய்யப்பட்ட வணிக இழப்புகளை முன்னெடுத்துச் செல்வதற்கான கால வரம்பு (Public Ruling No. 1/2022 — Time Limit for Unabsorbed Adjusted Business Losses Carried Forward)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_01_2022.pdf"
-    publisher: "LHDN"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2022-06-30"
-  - title: "Public Ruling No. 2/2025 — Group Relief for Companies"
+  - title: "பொது தீர்ப்பு எண். 2/2025 — நிறுவனங்களுக்கான குழு நிவாரணம் (Public Ruling No. 2/2025 — Group Relief for Companies)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-2-2025-group-relief-for-companies.pdf"
-    publisher: "LHDN"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-07-31"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 43, 44, 44A and Schedule 3 paragraphs 75, 75A, 75B"
+  - title: "Income Tax Act 1967 (Act 53), 2024 மே 21 நிலவரப்படி மறுபதிப்பு — பிரிவுகள் 43, 44, 44A மற்றும் அட்டவணை 3 பத்திகள் 75, 75A, 75B (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 43, 44, 44A and Schedule 3 paragraphs 75, 75A, 75B)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2024-05-21"
-  - title: "Public Rulings index"
+  - title: "பொது தீர்ப்புகள் அட்டவணை (Public Rulings index)"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
-    publisher: "LHDN"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Business loss relief"
 relations:

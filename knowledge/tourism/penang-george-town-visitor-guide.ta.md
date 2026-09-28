@@ -60,21 +60,21 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "George Town UNESCO World Heritage Site (About GTWHS / OUV)"
+  - title: "ஜார்ஜ் டவுன் யுனெஸ்கோ உலகப் பாரம்பரியத் தலம் (GTWHS / OUV பற்றி) (George Town UNESCO World Heritage Site (About GTWHS / OUV))"
     url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
     publisher: "George Town World Heritage Incorporated (GTWHI)"
-  - title: "Penang Hill Funicular — Tickets (fares, hours, and RM6 sunrise round-trip rate)"
+  - title: "பினாங் மலை ஃபுனிக்யுலர் — டிக்கெட்டுகள் (கட்டணங்கள், நேரங்கள், மற்றும் RM6 சூரிய உதய போக்குவரத்து விகிதம்) (Penang Hill Funicular — Tickets (fares, hours, and RM6 sunrise round-trip rate))"
     url: "https://www.penanghill.gov.my/index.php/en/tickets"
     publisher: "Penang Hill Corporation"
-  - title: "Street Art of Penang"
+  - title: "பினாங்கின் தெரு கலை (Street Art of Penang)"
     url: "https://www.mypenang.my/index.php/penang-attractions/284-penang-street-art/301-street-art-of-penang"
     publisher: "Penang Global Tourism (mypenang)"
-  - title: "Getting to Penang Airport by Bus (states 16 km / 9.9 mi to George Town, plus routes 102/306/401E and RM2–3 fares)"
+  - title: "பேருந்தில் பினாங் விமான நிலையம் செல்வது (ஜார்ஜ் டவுன் வரை 16 கிமீ / 9.9 மைல், மற்றும் 102/306/401E வழிகள் மற்றும் RM2–3 கட்டணங்கள்) (Getting to Penang Airport by Bus (states 16 km / 9.9 mi to George Town, plus routes 102/306/401E and RM2–3 fares))"
     url: "https://penangairport.com/penang-airport-transfers/bus/"
     publisher: "Penang International Airport"
-  - title: "Malaysia Digital Arrival Card (MDAC) for Foreign Visitors"
+  - title: "வெளிநாட்டு பார்வையாளர்களுக்கான மலேசியா டிஜிட்டல் வருகை அட்டை (MDAC) (Malaysia Digital Arrival Card (MDAC) for Foreign Visitors)"
     url: "https://www.imi.gov.my/index.php/en/pengumuman/malaysia-digital-arrival-card-mdac-for-foreign-visitors-2/"
-    publisher: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
+    publisher: "மலேசியக் குடிவரவுத் திணைக்களம்"
 
 entity: "George Town, Penang"
 wikidata: "Q61092"

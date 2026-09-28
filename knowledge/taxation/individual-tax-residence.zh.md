@@ -56,20 +56,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+  - title: "公共裁定索引（Ketetapan Umum）— LHDN列表确认截至2026年未发布任何取代性裁定 (Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026)"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
-    publisher: "LHDN"
-  - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — s.7"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "Income Tax Act 1967 (Act 53)，2024年5月21日重印本 — s.7 (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — s.7)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "马来西亚总检察署"
     date: "2024-05-21"
-  - title: "Ketetapan Umum No. 11/2017 — Taraf Mastautin Individu"
+  - title: "第11/2017号公共裁定 — 个人居民身份 (Ketetapan Umum No. 11/2017 — Taraf Mastautin Individu)"
     url: "https://www.hasil.gov.my/wp-content/uploads/KU_11_2017.pdf"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2017-12-22"
-  - title: "Taraf Mastautin — Individu"
+  - title: "居民身份 — 个人 (Taraf Mastautin — Individu)"
     url: "https://www.hasil.gov.my/individu/taraf-mastautin/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2026-06-18"
 
 entity: "Individual tax residence in Malaysia"

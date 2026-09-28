@@ -95,23 +95,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 77A, 107C, 112, 120"
+  - title: "Income Tax Act 1967 (Act 53)，2024年5月21日重印本——第77A、107C、112、120条 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 77A, 107C, 112, 120)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "内陆税收局 (LHDN)"
     date: "2024-05-21"
-  - title: "Tax Estimation — Submission of Estimated Tax Payable Under Section 107C"
+  - title: "税额预估——依据第107C条提交应缴税额预估 (Tax Estimation — Submission of Estimated Tax Payable Under Section 107C)"
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies"
+    publisher: "内陆税收局 (LHDN)"
+  - title: "公共裁定第8/2025号——微型、小型及中型公司的税务处理 (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
-    publisher: "LHDN"
+    publisher: "内陆税收局 (LHDN)"
     date: "2025-12-22"
-  - title: "Return Form Filing Programme for the Year 2026"
+  - title: "2026年报税表申报计划 (Return Form Filing Programme for the Year 2026)"
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
-    publisher: "LHDN"
-  - title: "Offences, Fines and Penalties"
+    publisher: "内陆税收局 (LHDN)"
+  - title: "罪行、罚款与罚则 (Offences, Fines and Penalties)"
     url: "https://www.hasil.gov.my/en/perundangan/kesalahan-denda-dan-penalti/"
-    publisher: "LHDN"
+    publisher: "内陆税收局 (LHDN)"
 
 entity: "Company tax estimate and return"
 relations:

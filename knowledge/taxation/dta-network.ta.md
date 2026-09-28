@@ -46,19 +46,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Kadar Cukai Pegangan PPPDK — treaty withholding tax rates"
+  - title: "PPPDK நிறுத்திவைப்பு வரி விகிதம் — ஒப்பந்த நிறுத்திவைப்பு வரி விகிதங்கள் (Kadar Cukai Pegangan PPPDK — treaty withholding tax rates)"
     url: "https://www.hasil.gov.my/antarabangsa/perjanjian-pengelakan-pencukaian-dua-kali-pppdk/kadar-cukai-pegangan/"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2026-07-12"
-  - title: "PPPDK Menyeluruh — comprehensive double taxation agreements"
+  - title: "PPPDK Menyeluruh — விரிவான இரட்டை வரி தவிர்ப்பு ஒப்பந்தங்கள் (PPPDK Menyeluruh — comprehensive double taxation agreements)"
     url: "https://www.hasil.gov.my/antarabangsa/perjanjian-pengelakan-pencukaian-dua-kali-pppdk/pppdk-menyeluruh/"
-    publisher: "LHDN"
-  - title: "Instrumen Multilateral (MLI)"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "பலதரப்பு கருவி (MLI) (Instrumen Multilateral (MLI))"
     url: "https://www.hasil.gov.my/antarabangsa/instrumen-multilateral-mli/"
-    publisher: "LHDN"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.132"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "Income Tax Act 1967 (Act 53), 21 மே 2024 நிலவரப்படி மறுபதிப்பு — பிரிவு 132 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.132)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2024-05-21"
 
 entity: "Malaysia's double taxation agreement network"

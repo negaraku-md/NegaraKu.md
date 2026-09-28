@@ -64,13 +64,13 @@ verificationNeeded:
   - "மலாக்கா 1400 ஆம் ஆண்டு அளவில் நிறுவப்பட்டது மற்றும் அது Parameswara விற்குக் காரணம் காட்டப்படுவது."
   - "காலவரிசை அட்டவணையில் உள்ள காலனித்துவ காலத் தேதிகள் — போர்த்துகீசிய கைப்பற்றல் 1511, டச்சு கையகப்படுத்தல் 1641, Anglo-Dutch Treaty 1824 — நிலையானவை ஆனால் இந்தச் சுற்றில் பெறப்பட்ட ஒரு முதன்மை ஆதாரத்திற்கு எதிராக உறுதிப்படுத்தப்படவில்லை."
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "மலாக்கா மற்றும் ஜார்ஜ் டவுன், மலாக்கா ஜலசந்தியின் வரலாற்று நகரங்கள் (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223/"
     publisher: "UNESCO World Heritage Centre"
-  - title: "George Town UNESCO World Heritage Site (About GTWHS / OUV)"
+  - title: "ஜார்ஜ் டவுன் யுனெஸ்கோ உலகப் பாரம்பரியத் தலம் (GTWHS / OUV பற்றி) (George Town UNESCO World Heritage Site (About GTWHS / OUV))"
     url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
     publisher: "George Town World Heritage Incorporated (GTWHI)"
-  - title: "Baba & Nyonya Heritage Museum — About / Visit"
+  - title: "பாபா & நோன்யா பாரம்பரிய அருங்காட்சியகம் — பற்றி / பார்வையிடு (Baba & Nyonya Heritage Museum — About / Visit)"
     url: "https://babanyonyamuseum.com/"
     publisher: "Baba & Nyonya Heritage Museum"
 

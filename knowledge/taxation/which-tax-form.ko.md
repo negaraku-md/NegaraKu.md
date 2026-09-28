@@ -54,13 +54,13 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Program Memfail Borang Nyata (BN) Bagi Tahun 2026"
+  - title: "2026년 신고서(BN) 제출 프로그램 (Program Memfail Borang Nyata (BN) Bagi Tahun 2026)"
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "말레이시아 국내세입청 (LHDN)"
     date: "2025-12-30"
-  - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.77, 83, 103, 112, 120"
+  - title: "Income Tax Act 1967 (Act 53), 2024년 5월 21일 재판 — 제77조, 83조, 103조, 112조, 120조 (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.77, 83, 103, 112, 120)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "말레이시아 법무장관실 (AGC)"
     date: "2024-05-21"
 
 obligations:

@@ -53,21 +53,21 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Establishment Of Digital Ministry A Challenge, But Progressing Well – Gobind"
+  - title: "디지털부 설립은 도전이지만 순조롭게 진행 – 고빈드 (Establishment Of Digital Ministry A Challenge, But Progressing Well – Gobind)"
     url: "https://www.bernama.com/en/general/news.php?id=2361704"
     publisher: "Bernama"
-  - title: "Mampu to come under Gobind's ministry"
+  - title: "MAMPU, 고빈드 장관의 부처 산하로 (Mampu to come under Gobind's ministry)"
     url: "https://www.thestar.com.my/news/nation/2023/12/15/mampu-to-come-under-gobinds-ministry"
     publisher: "The Star"
-  - title: "DNB and CyberSecurity Malaysia to go under Digital Ministry"
+  - title: "DNB와 CyberSecurity Malaysia, 디지털부 산하로 (DNB and CyberSecurity Malaysia to go under Digital Ministry)"
     url: "https://soyacincau.com/2024/01/10/digital-nasional-berhad-cybersecurity-malaysia-digital-ministry/"
     publisher: "SoyaCincau"
-  - title: "Ministry Of Digital Elevates Nation's Digital Economy To New Heights"
+  - title: "디지털부, 국가 디지털 경제를 새로운 차원으로 끌어올려 (Ministry Of Digital Elevates Nation's Digital Economy To New Heights)"
     url: "https://www.businesstoday.com.my/2024/12/24/ministry-of-digital-elevates-nations-digital-economy-to-new-heights/"
     publisher: "Business Today"
-  - title: "About Us — National Cyber Security Agency (NACSA)"
+  - title: "회사 소개 — 국가사이버보안청(NACSA) (About Us — National Cyber Security Agency (NACSA))"
     url: "https://www.nacsa.gov.my"
-    publisher: "NACSA (Agensi Keselamatan Siber Negara)"
+    publisher: "국가사이버보안청 (NACSA)"
 
 entity: "Kementerian Digital (Ministry of Digital, Malaysia)"
 wikidata: "Q124289531"

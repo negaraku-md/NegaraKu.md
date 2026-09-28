@@ -43,20 +43,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Garis Panduan Kelulusan di bawah Subseksyen 44(6) ACP 1967, para 8.1 (5-year approval)"
+  - title: "Hướng dẫn Phê duyệt theo Khoản phụ 44(6) Đạo luật Thuế Thu nhập 1967, đoạn 8.1 (phê duyệt 5 năm) (Garis Panduan Kelulusan di bawah Subseksyen 44(6) ACP 1967, para 8.1 (5-year approval))"
     url: "https://www.hasil.gov.my/wp-content/uploads/GP_44_6_1_05092019_P.pdf"
-    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.44(6) to s.44(12)"
+    publisher: "Cục Thuế Nội địa (LHDN)"
+  - title: "Income Tax Act 1967 (Act 53), bản in lại tính đến ngày 21 tháng 5 năm 2024 — điều 44(6) đến điều 44(12) (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — s.44(6) to s.44(12))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2024-05-21"
-  - title: "Public Ruling No. 7/2025 — Taxation of a Resident Individual Part I, Gifts or Contributions and Allowable Deductions"
+  - title: "Phán quyết Công khai số 7/2025 — Đánh thuế Cá nhân Cư trú Phần I, Quà tặng hoặc Đóng góp và các Khoản khấu trừ được phép (Public Ruling No. 7/2025 — Taxation of a Resident Individual Part I, Gifts or Contributions and Allowable Deductions)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-7-2025.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2025-12-05"
-  - title: "Semakan Kelulusan Derma — approved donation checker"
+  - title: "Kiểm tra Phê duyệt Quyên góp — công cụ kiểm tra khoản quyên góp được duyệt (Semakan Kelulusan Derma — approved donation checker)"
     url: "https://www.hasil.gov.my/institusiorganisasitabung-bukan-berasaskan-keuntungan/semakan-kelulusan-derma/"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
 
 entity: "Section 44(6) donation deduction"
 relations:

@@ -43,23 +43,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Finance (No. 2) Act 2023 (Act 851) — section 82C"
+  - title: "Finance (No. 2) Act 2023 (Act 851) — điều 82C (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
-    publisher: "Government of Malaysia"
+    publisher: "Chính phủ Malaysia"
     date: "2023-12-29"
-  - title: "Service Tax Regulations 2018 — regulation 10"
+  - title: "Service Tax Regulations 2018 — quy định 10 (Service Tax Regulations 2018 — regulation 10)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
-    publisher: "RMCD"
-  - title: "Sales Tax Regulations 2018 — regulation 7"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
+  - title: "Sales Tax Regulations 2018 — quy định 7 (Sales Tax Regulations 2018 — regulation 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
-    publisher: "RMCD"
-  - title: "e-Invoice Guideline (Version 4.7)"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
+  - title: "Hướng dẫn Hóa đơn Điện tử (Phiên bản 4.7) (e-Invoice Guideline (Version 4.7))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2026-07-07"
-  - title: "MySST — Issuing Invoices"
+  - title: "MySST — Phát hành Hóa đơn (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
-    publisher: "RMCD"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
 
 entity: "e-Invoice compared with the SST tax invoice"
 relations:

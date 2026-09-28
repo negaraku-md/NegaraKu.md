@@ -59,20 +59,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons"
+  - title: "Ketetapan Umum No. 9/2019 — Taraf Mastautin Syarikat dan Badan Orang (Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_09_2019.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2019-12-06"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 8 and 61(3), Schedule 1 Part I"
+  - title: "Income Tax Act 1967 (Act 53), cetakan semula pada 21 Mei 2024 — seksyen 8 dan 61(3), Jadual 1 Bahagian I (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 8 and 61(3), Schedule 1 Part I)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2024-05-21"
-  - title: "Company Resident Status"
+  - title: "Taraf Mastautin Syarikat (Company Resident Status)"
     url: "https://www.hasil.gov.my/syarikat/taraf-mastautin-syarikat/"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 2/2025 — Group Relief for Companies"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
+  - title: "Ketetapan Umum No. 2/2025 — Pelepasan Kumpulan bagi Syarikat (Public Ruling No. 2/2025 — Group Relief for Companies)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-2-2025-group-relief-for-companies.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2025-07-31"
 
 entity: "Company tax residence"

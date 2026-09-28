@@ -52,19 +52,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Kategori Kenderaan Mikromobiliti Yang Dilarang Di Atas Jalanraya"
+  - title: "도로에서 금지된 마이크로모빌리티 차량 범주 (Kategori Kenderaan Mikromobiliti Yang Dilarang Di Atas Jalanraya)"
     url: "https://www.mkn.gov.my/web/ms/2022/04/27/kategori-kenderaan-mikromobiliti-yang-dilarang-di-atas-jalanraya/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
-  - title: "QuickCheck: Is it legal to ride an electric scooter or e-bike on public roads?"
+    publisher: "국가안전보장회의 (MKN)"
+  - title: "QuickCheck: 공공 도로에서 전동 스쿠터나 전기 자전거를 타는 것은 합법인가? (QuickCheck: Is it legal to ride an electric scooter or e-bike on public roads?)"
     url: "https://www.thestar.com.my/news/true-or-not/2026/07/20/quickcheck-is-it-legal-to-ride-an-electric-scooter-or-e-bike-on-public-roads"
     publisher: "The Star"
-  - title: "E-scooters and mopeds banned on Malaysian roads, says transport ministry - bicycles exempt from ruling"
+  - title: "전동 스쿠터와 모페드는 말레이시아 도로에서 금지된다고 교통부가 밝혀 - 자전거는 규정에서 제외 (E-scooters and mopeds banned on Malaysian roads, says transport ministry - bicycles exempt from ruling)"
     url: "https://paultan.org/2022/04/26/certain-micro-mobility-vehicles-banned-on-malaysian-roads/"
     publisher: "Paul Tan's Automotive News"
-  - title: "Illegal to ride e-scooters on public roads, says JPJ"
+  - title: "공공 도로에서 전동 스쿠터를 타는 것은 불법이라고 JPJ가 밝혀 (Illegal to ride e-scooters on public roads, says JPJ)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/05/04/illegal-to-ride-e-scooters-on-public-roads-says-jpj"
     publisher: "Free Malaysia Today"
-  - title: "Wee Ka Siong: Moped and eScooters banned from public roads, but not bicycles and eBikes"
+  - title: "Wee Ka Siong: 모페드와 전동 스쿠터는 공공 도로에서 금지되지만 자전거와 전기 자전거는 아니다 (Wee Ka Siong: Moped and eScooters banned from public roads, but not bicycles and eBikes)"
     url: "https://soyacincau.com/2022/04/26/wee-ka-siong-moped-and-escooters-banned-from-public-roads-but-not-bicycles-and-ebikes/"
     publisher: "SoyaCincau"
 

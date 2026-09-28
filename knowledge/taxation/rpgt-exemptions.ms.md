@@ -52,18 +52,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Real Property Gains Tax Act 1976 (Act 169), consolidated text"
+  - title: "Real Property Gains Tax Act 1976 (Act 169), teks disatukan (Real Property Gains Tax Act 1976 (Act 169), consolidated text)"
     url: "https://lom.agc.gov.my/act-detail.php?act=169"
-    publisher: "Attorney General's Chambers"
-  - title: "RPGT Exemption"
+    publisher: "Jabatan Peguam Negara"
+  - title: "Pengecualian RPGT (RPGT Exemption)"
     url: "https://www.hasil.gov.my/ckht/pengecualian/"
-    publisher: "LHDN"
-  - title: "Types of RPGT Return Forms"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Jenis Borang Nyata RPGT (Types of RPGT Return Forms)"
     url: "https://www.hasil.gov.my/ckht/jenis-borang-nyata-ckht/"
-    publisher: "LHDN"
-  - title: "Retention and Remittance of Money by Acquirer"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Penahanan dan Penyerahan Wang oleh Pemeroleh (Retention and Remittance of Money by Acquirer)"
     url: "https://www.hasil.gov.my/ckht/pegangan-dan-remitan-wang-oleh-pemeroleh/"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
 
 entity: "RPGT exemptions"
 relations:

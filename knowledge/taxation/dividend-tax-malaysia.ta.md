@@ -48,14 +48,14 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Finance Act 2024 (Act 862)"
+  - title: "Finance Act 2024 (Act 862) (Finance Act 2024 (Act 862))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2592589_BI/Act%20862%20-FINANCE%20ACT%202024.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025 [P.U. (A) 148/2025]"
-    publisher: "Attorney General's Chambers of Malaysia (Federal Government Gazette)"
-  - title: "Frequently Asked Questions (Individual)"
+    publisher: "மலேசியா சட்ட மா அதிபர் அலுவலகம்"
+  - title: "வருமான வரி (ஈவுத்தொகை தொடர்பாக ஒரு தனிநபரின் வரிக்குட்பட்ட வருமானத்தை நிர்ணயித்தல்) விதிகள் 2025 [P.U. (A) 148/2025] (Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025 [P.U. (A) 148/2025])"
+    publisher: "மலேசியா சட்ட மா அதிபர் அலுவலகம் (கூட்டரசு அரசிதழ்)"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் (தனிநபர்) (Frequently Asked Questions (Individual))"
     url: "https://www.hasil.gov.my/en/individual/others/frequently-asked-question-individual/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+    publisher: "மலேசியா உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Dividend Tax (Malaysia)"
 relations: []

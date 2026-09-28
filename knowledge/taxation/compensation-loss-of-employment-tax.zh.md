@@ -48,12 +48,12 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Public Ruling No. 1/2012: Compensation for Loss of Employment"
+  - title: "公共裁定第1/2012号：失业补偿 (Public Ruling No. 1/2012: Compensation for Loss of Employment)"
     url: "https://phl.hasil.gov.my/pdf/pdfam/PR1_2012.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Income Tax Act 1967 (Act 53) — Schedule 6, Exemptions From Tax (updated to 1.11.2023)"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "Income Tax Act 1967 (Act 53) — 附表6，免税项目（更新至2023年11月1日） (Income Tax Act 1967 (Act 53) — Schedule 6, Exemptions From Tax (updated to 1.11.2023))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1822739_BI/ACT%2053%20AS%20AT%201.11.2023%20(REPRINT%20ONLINE%20VERSION)%20FINAL.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "马来西亚总检察署"
 
 entity: "Compensation for Loss of Employment (Malaysia)"
 relations:

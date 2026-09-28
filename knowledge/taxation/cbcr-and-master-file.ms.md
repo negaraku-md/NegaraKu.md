@@ -69,20 +69,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax (Country-by-Country Reporting) Rules 2016, P.U.(A) 357/2016"
+  - title: "Kaedah-Kaedah Cukai Pendapatan (Pelaporan Mengikut Negara) 2016, P.U.(A) 357/2016 (Income Tax (Country-by-Country Reporting) Rules 2016, P.U.(A) 357/2016)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20161223_(008)%20%2011%2011%202016%20%20Draf%20muktamad.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Jabatan Peguam Negara"
     date: "2016-12-23"
-  - title: "Income Tax (Country-by-Country Reporting) (Amendment) Rules 2017, P.U.(A) 416/2017"
+  - title: "Kaedah-Kaedah Cukai Pendapatan (Pelaporan Mengikut Negara) (Pindaan) 2017, P.U.(A) 416/2017 (Income Tax (Country-by-Country Reporting) (Amendment) Rules 2017, P.U.(A) 416/2017)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20171228_P.U.(A)416.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Jabatan Peguam Negara"
     date: "2017-12-27"
-  - title: "Country-by-Country Reporting (CbCR)"
+  - title: "Pelaporan Mengikut Negara (CbCR) (Country-by-Country Reporting (CbCR))"
     url: "https://www.hasil.gov.my/antarabangsa/country-by-country-reporting-cbcr/"
-    publisher: "LHDN"
-  - title: "Malaysia Transfer Pricing Guidelines 2024 — Chapter 11"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
+  - title: "Garis Panduan Penentuan Harga Pindahan Malaysia 2024 — Bab 11 (Malaysia Transfer Pricing Guidelines 2024 — Chapter 11)"
     url: "https://www.hasil.gov.my/wp-content/uploads/malaysia-transfer-pricing-guidelines-2024.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2024-12-24"
 
 entity: "Country-by-country reporting"

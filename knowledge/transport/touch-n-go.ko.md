@@ -47,16 +47,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Touch 'n Go — laman rasmi (halaman utama)"
+  - title: "Touch 'n Go — 공식 사이트(홈페이지) (Touch 'n Go — laman rasmi (halaman utama))"
     url: "https://www.touchngo.com.my/"
     publisher: "Touch 'n Go Sdn Bhd"
-  - title: "Enhanced Touch 'n Go Card"
+  - title: "향상된 Touch 'n Go 카드 (Enhanced Touch 'n Go Card)"
     url: "https://www.touchngo.com.my/consumer/toll/card/"
     publisher: "Touch 'n Go Sdn Bhd"
-  - title: "TNG eWallet: Your trusted all-in-one app"
+  - title: "TNG eWallet: 신뢰할 수 있는 올인원 앱 (TNG eWallet: Your trusted all-in-one app)"
     url: "https://www.tngdigital.com.my/"
     publisher: "TNG Digital Sdn Bhd"
-  - title: "Just like a Touch 'n Go Card, works like a Charm"
+  - title: "Touch 'n Go 카드처럼 완벽하게 작동 (Just like a Touch 'n Go Card, works like a Charm)"
     url: "https://www.touchngo.com.my/consumer/toll/card/touchngo-charm"
     publisher: "Touch 'n Go Sdn Bhd"
 entity: "터치 앤 고(Touch 'n Go)"

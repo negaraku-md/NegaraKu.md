@@ -52,19 +52,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Kategori Kenderaan Mikromobiliti Yang Dilarang Di Atas Jalanraya"
+  - title: "道路上での使用が禁止されているマイクロモビリティ車両の区分 (Kategori Kenderaan Mikromobiliti Yang Dilarang Di Atas Jalanraya)"
     url: "https://www.mkn.gov.my/web/ms/2022/04/27/kategori-kenderaan-mikromobiliti-yang-dilarang-di-atas-jalanraya/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
-  - title: "QuickCheck: Is it legal to ride an electric scooter or e-bike on public roads?"
+    publisher: "国家安全保障会議 (MKN)"
+  - title: "QuickCheck：公道で電動スクーターや電動自転車に乗るのは合法か？ (QuickCheck: Is it legal to ride an electric scooter or e-bike on public roads?)"
     url: "https://www.thestar.com.my/news/true-or-not/2026/07/20/quickcheck-is-it-legal-to-ride-an-electric-scooter-or-e-bike-on-public-roads"
     publisher: "The Star"
-  - title: "E-scooters and mopeds banned on Malaysian roads, says transport ministry - bicycles exempt from ruling"
+  - title: "電動スクーターとモペットはマレーシアの道路で禁止と運輸省が発表 - 自転車は規制の対象外 (E-scooters and mopeds banned on Malaysian roads, says transport ministry - bicycles exempt from ruling)"
     url: "https://paultan.org/2022/04/26/certain-micro-mobility-vehicles-banned-on-malaysian-roads/"
     publisher: "Paul Tan's Automotive News"
-  - title: "Illegal to ride e-scooters on public roads, says JPJ"
+  - title: "公道で電動スクーターに乗るのは違法と JPJ が発表 (Illegal to ride e-scooters on public roads, says JPJ)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/05/04/illegal-to-ride-e-scooters-on-public-roads-says-jpj"
     publisher: "Free Malaysia Today"
-  - title: "Wee Ka Siong: Moped and eScooters banned from public roads, but not bicycles and eBikes"
+  - title: "Wee Ka Siong：モペットと電動スクーターは公道で禁止、ただし自転車と電動自転車は対象外 (Wee Ka Siong: Moped and eScooters banned from public roads, but not bicycles and eBikes)"
     url: "https://soyacincau.com/2022/04/26/wee-ka-siong-moped-and-escooters-banned-from-public-roads-but-not-bicycles-and-ebikes/"
     publisher: "SoyaCincau"
 

@@ -58,21 +58,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 1/2022 — Time Limit for Unabsorbed Adjusted Business Losses Carried Forward"
+  - title: "Phán quyết công số 1/2022 — Thời hạn đối với lỗ kinh doanh điều chỉnh chưa được khấu trừ chuyển sang năm sau (Public Ruling No. 1/2022 — Time Limit for Unabsorbed Adjusted Business Losses Carried Forward)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_01_2022.pdf"
-    publisher: "LHDN"
+    publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
     date: "2022-06-30"
-  - title: "Public Ruling No. 2/2025 — Group Relief for Companies"
+  - title: "Phán quyết công số 2/2025 — Miễn giảm theo nhóm cho các công ty (Public Ruling No. 2/2025 — Group Relief for Companies)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-2-2025-group-relief-for-companies.pdf"
-    publisher: "LHDN"
+    publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
     date: "2025-07-31"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 43, 44, 44A and Schedule 3 paragraphs 75, 75A, 75B"
+  - title: "Income Tax Act 1967 (Act 53), bản in lại tính đến ngày 21 tháng 5 năm 2024 — các điều 43, 44, 44A và Phụ lục 3 các đoạn 75, 75A, 75B (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 43, 44, 44A and Schedule 3 paragraphs 75, 75A, 75B)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
     date: "2024-05-21"
-  - title: "Public Rulings index"
+  - title: "Chỉ mục Phán quyết công (Public Rulings index)"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
-    publisher: "LHDN"
+    publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
 
 entity: "Business loss relief"
 relations:

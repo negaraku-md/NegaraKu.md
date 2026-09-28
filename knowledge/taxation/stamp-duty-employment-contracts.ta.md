@@ -64,20 +64,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Soalan Lazim — Penyeteman Kontrak Penggajian Di Malaysia"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் — மலேசியாவில் வேலைவாய்ப்பு ஒப்பந்தங்களை முத்திரையிடல் (Soalan Lazim — Penyeteman Kontrak Penggajian Di Malaysia)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20250703-pkpe_faq-penyeteman-kontrak-penggajian-di-malaysia.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-07-03"
-  - title: "Media Release HASiL/2025/06/06 — 50, Stamp Duty Exemption for Employment Contracts Finalised Before 1 January 2025"
+  - title: "Media Release HASiL/2025/06/06 — 50, 2025 ஜனவரி 1-க்கு முன் இறுதிசெய்யப்பட்ட வேலைவாய்ப்பு ஒப்பந்தங்களுக்கான முத்திரை வரி விலக்கு (Media Release HASiL/2025/06/06 — 50, Stamp Duty Exemption for Employment Contracts Finalised Before 1 January 2025)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20250606_kenyataan-media-hasil_pengecualian-pengenaan-ds-untuk-kontrak-penggajian-yang-dimuktamadkan-sebelum-1-januari-2025.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-06-06"
-  - title: "Stamp Act 1949 (Act 378), text as at 1 January 2024"
+  - title: "Stamp Act 1949 (Act 378), 2024 ஜனவரி 1 நிலவரப்படி உரை (Stamp Act 1949 (Act 378), text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
-    publisher: "Attorney General's Chambers"
-  - title: "Finance Act 2025 (Act 874) — amendment of the First Schedule, item 4"
+    publisher: "மலேசிய தலைமை வழக்கறிஞர் அலுவலகம் (AGC)"
+  - title: "Finance Act 2025 (Act 874) — முதல் அட்டவணையின் திருத்தம், உருப்படி 4 (Finance Act 2025 (Act 874) — amendment of the First Schedule, item 4)"
     url: "https://lom.agc.gov.my/act-detail.php?act=874"
-    publisher: "Attorney General's Chambers"
+    publisher: "மலேசிய தலைமை வழக்கறிஞர் அலுவலகம் (AGC)"
 
 entity: "Stamp duty on employment contracts"
 relations:

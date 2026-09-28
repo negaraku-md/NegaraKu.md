@@ -60,21 +60,21 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "George Town UNESCO World Heritage Site (About GTWHS / OUV)"
+  - title: "เมืองมรดกโลกยูเนสโกจอร์จทาวน์ (เกี่ยวกับ GTWHS / OUV) (George Town UNESCO World Heritage Site (About GTWHS / OUV))"
     url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
     publisher: "George Town World Heritage Incorporated (GTWHI)"
-  - title: "Penang Hill Funicular — Tickets (fares, hours, and RM6 sunrise round-trip rate)"
+  - title: "รถรางปีนังฮิลล์ — ตั๋ว (ค่าโดยสาร เวลา และอัตราไป-กลับชมพระอาทิตย์ขึ้น RM6) (Penang Hill Funicular — Tickets (fares, hours, and RM6 sunrise round-trip rate))"
     url: "https://www.penanghill.gov.my/index.php/en/tickets"
     publisher: "Penang Hill Corporation"
-  - title: "Street Art of Penang"
+  - title: "ศิลปะข้างถนนของปีนัง (Street Art of Penang)"
     url: "https://www.mypenang.my/index.php/penang-attractions/284-penang-street-art/301-street-art-of-penang"
     publisher: "Penang Global Tourism (mypenang)"
-  - title: "Getting to Penang Airport by Bus (states 16 km / 9.9 mi to George Town, plus routes 102/306/401E and RM2–3 fares)"
+  - title: "การเดินทางไปสนามบินปีนังโดยรถบัส (ระบุระยะ 16 กม. / 9.9 ไมล์ ถึงจอร์จทาวน์ พร้อมเส้นทาง 102/306/401E และค่าโดยสาร RM2–3) (Getting to Penang Airport by Bus (states 16 km / 9.9 mi to George Town, plus routes 102/306/401E and RM2–3 fares))"
     url: "https://penangairport.com/penang-airport-transfers/bus/"
     publisher: "Penang International Airport"
-  - title: "Malaysia Digital Arrival Card (MDAC) for Foreign Visitors"
+  - title: "บัตรขาเข้าดิจิทัลมาเลเซีย (MDAC) สำหรับนักท่องเที่ยวต่างชาติ (Malaysia Digital Arrival Card (MDAC) for Foreign Visitors)"
     url: "https://www.imi.gov.my/index.php/en/pengumuman/malaysia-digital-arrival-card-mdac-for-foreign-visitors-2/"
-    publisher: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
+    publisher: "สำนักงานตรวจคนเข้าเมืองมาเลเซีย"
 
 entity: "George Town, Penang"
 wikidata: "Q61092"

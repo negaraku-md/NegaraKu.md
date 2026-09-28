@@ -65,20 +65,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Withholding Tax"
+  - title: "Thuế Khấu trừ tại Nguồn (Withholding Tax)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — Schedule 1 and ss.107A, 107D, 109, 109A, 109B, 109F"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
+  - title: "Income Tax Act 1967 (Act 53), bản tái bản tính đến ngày 21 tháng 5 năm 2024 — Phụ lục 1 và mục 107A, 107D, 109, 109A, 109B, 109F (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — Schedule 1 and ss.107A, 107D, 109, 109A, 109B, 109F)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2024-05-21"
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income"
+  - title: "Public Ruling No. 10/2019 — Thuế Khấu trừ tại Nguồn đối với các Loại Thu nhập Đặc biệt (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2019-12-10"
-  - title: "Double Taxation Avoidance Agreement (DTA/DTAA)"
+  - title: "Hiệp định Tránh đánh Thuế Hai lần (DTA/DTAA) (Double Taxation Avoidance Agreement (DTA/DTAA))"
     url: "https://www.hasil.gov.my/en/antarabangsa/perjanjian-pengelakan-pencukaian-dua-kali-pppdk/"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
 
 entity: "Malaysian withholding tax rates"
 relations:

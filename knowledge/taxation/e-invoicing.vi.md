@@ -41,17 +41,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "IRBM e-Invoice Guideline"
+  - title: "Hướng dẫn Hóa đơn Điện tử của IRBM (IRBM e-Invoice Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2026-07-07"
-  - title: "IRBM e-Invoice Specific Guideline"
+  - title: "Hướng dẫn Cụ thể về Hóa đơn Điện tử của IRBM (IRBM e-Invoice Specific Guideline)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2026-07-07"
-  - title: "MyInvois Portal"
+  - title: "Cổng MyInvois (MyInvois Portal)"
     url: "https://myinvois.hasil.gov.my/"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
 
 entity: "e-Invoicing and MyInvois"
 relations:

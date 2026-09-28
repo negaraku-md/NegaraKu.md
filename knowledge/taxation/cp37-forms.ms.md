@@ -54,18 +54,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Withholding Tax — types of payment, provisions, rates and forms"
+  - title: "Cukai Pegangan — jenis bayaran, peruntukan, kadar dan borang (Withholding Tax — types of payment, provisions, rates and forms)"
     url: "https://www.hasil.gov.my/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
-  - title: "Form CP37 (Pin. 1/2024) — Account of Deduction from Royalty and Interest to a Non-Resident Person"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
+  - title: "Borang CP37 (Pin. 1/2024) — Akaun Potongan daripada Royalti dan Faedah kepada Orang Bukan Pemastautin (Form CP37 (Pin. 1/2024) — Account of Deduction from Royalty and Interest to a Non-Resident Person)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37-pin-1_2024.pdf"
-    publisher: "LHDN"
-  - title: "Form CP37S (Pin. 1/2025) — Small Value Withholding Tax Payments, Royalty and Interest"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
+  - title: "Borang CP37S (Pin. 1/2025) — Bayaran Cukai Pegangan Bernilai Kecil, Royalti dan Faedah (Form CP37S (Pin. 1/2025) — Small Value Withholding Tax Payments, Royalty and Interest)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37s-pin-1_2025.pdf"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, sections 13 and 17"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
+  - title: "Ketetapan Umum No. 10/2019 — Cukai Pegangan ke atas Kelas Pendapatan Khas, seksyen 13 dan 17 (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, sections 13 and 17)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2019-12-10"
 
 entity: "CP37 withholding tax forms"

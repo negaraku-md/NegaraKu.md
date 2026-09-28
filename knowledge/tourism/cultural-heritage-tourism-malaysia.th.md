@@ -54,19 +54,19 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Recognition of Forest Research Institute Malaysia (FRIM) Forest Park Selangor as a UNESCO World Heritage Site"
+  - title: "การรับรองสวนป่าสถาบันวิจัยป่าไม้มาเลเซีย (FRIM) รัฐสลังงอร์เป็นมรดกโลกยูเนสโก (Recognition of Forest Research Institute Malaysia (FRIM) Forest Park Selangor as a UNESCO World Heritage Site)"
     url: "https://www.motac.gov.my/en/recognition-of-forest-research-institute-malaysia-frim-forest-park-selangor-fps-as-a-unesco-world-heritage-site/"
-    publisher: "Ministry of Tourism, Arts and Culture Malaysia (MOTAC)"
-  - title: "Homestay Malaysia Experience Program (PPHM)"
+    publisher: "กระทรวงการท่องเที่ยว ศิลปะ และวัฒนธรรมมาเลเซีย (MOTAC)"
+  - title: "โครงการสัมผัสประสบการณ์โฮมสเตย์มาเลเซีย (PPHM) (Homestay Malaysia Experience Program (PPHM))"
     url: "https://www.motac.gov.my/en/homestay-malaysia-experience-program/"
-    publisher: "Ministry of Tourism, Arts and Culture Malaysia (MOTAC)"
-  - title: "Malaysian Homestay Experience Program (PPHM)"
+    publisher: "กระทรวงการท่องเที่ยว ศิลปะ และวัฒนธรรมมาเลเซีย (MOTAC)"
+  - title: "โครงการสัมผัสประสบการณ์โฮมสเตย์มาเลเซีย (PPHM) (Malaysian Homestay Experience Program (PPHM))"
     url: "https://www.malaysia.gov.my/en/topics/program-pengalaman-homestay-malaysia-pphm"
-    publisher: "Government of Malaysia (MyGovernment portal)"
-  - title: "About GTWHS — George Town UNESCO World Heritage Site"
+    publisher: "รัฐบาลมาเลเซีย (พอร์ทัล MyGovernment)"
+  - title: "เกี่ยวกับ GTWHS — เมืองมรดกโลกยูเนสโกจอร์จทาวน์ (About GTWHS — George Town UNESCO World Heritage Site)"
     url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
     publisher: "George Town World Heritage Incorporated (GTWHI)"
-  - title: "Sarawak's Niah Caves Recognised As UNESCO World Heritage Site"
+  - title: "ถ้ำเนียห์ของรัฐซาราวักได้รับการรับรองเป็นมรดกโลกยูเนสโก (Sarawak's Niah Caves Recognised As UNESCO World Heritage Site)"
     url: "https://www.bernama.com/en/news.php?id=2322602"
     publisher: "Bernama (Malaysian National News Agency)"
 

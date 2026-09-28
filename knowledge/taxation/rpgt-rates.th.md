@@ -63,21 +63,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Real Property Gains Tax (RPGT) Rates"
+  - title: "อัตราภาษีกำไรจากอสังหาริมทรัพย์ (RPGT) (Real Property Gains Tax (RPGT) Rates)"
     url: "https://www.hasil.gov.my/en/ckht/kadar-cukai-keuntungan-harta-tanah/"
-    publisher: "LHDN"
-  - title: "Disposal Price and Acquisition Price"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "ราคาจำหน่ายและราคาได้มา (Disposal Price and Acquisition Price)"
     url: "https://www.hasil.gov.my/en/ckht/harga-pelupusan-dan-harga-pemerolehan/"
-    publisher: "LHDN"
-  - title: "Retention and Remittance of Money by Acquirer"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "การกักและการนำส่งเงินโดยผู้ได้มา (Retention and Remittance of Money by Acquirer)"
     url: "https://www.hasil.gov.my/en/ckht/pegangan-dan-remitan-wang-oleh-pemeroleh/"
-    publisher: "LHDN"
-  - title: "Imposition of Penalties and Increases of Tax"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "การกำหนดค่าปรับและการเพิ่มภาษี (Imposition of Penalties and Increases of Tax)"
     url: "https://www.hasil.gov.my/en/ckht/pengenaan-penalti-dan-kenaikan-atas-taksiran-cukai/"
-    publisher: "LHDN"
-  - title: "Real Property Gains Tax Act 1976 (Act 169)"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "Real Property Gains Tax Act 1976 (Act 169) (Real Property Gains Tax Act 1976 (Act 169))"
     url: "https://lom.agc.gov.my/act-detail.php?act=169"
-    publisher: "Attorney General's Chambers"
+    publisher: "สำนักงานอัยการสูงสุดมาเลเซีย"
 
 entity: "Real property gains tax"
 relations:

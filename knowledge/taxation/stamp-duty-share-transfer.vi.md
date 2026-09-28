@@ -64,20 +64,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Garis Panduan Mengenai Duti Setem Ke Atas Suratcara Pindah Milik Saham Bagi Saham Syarikat Yang Tidak Tersenarai Di Bursa Malaysia Berhad"
+  - title: "Hướng dẫn về Thuế tem đối với Văn kiện Chuyển nhượng Cổ phần của Cổ phần của các Công ty Không niêm yết trên Bursa Malaysia Berhad (Garis Panduan Mengenai Duti Setem Ke Atas Suratcara Pindah Milik Saham Bagi Saham Syarikat Yang Tidak Tersenarai Di Bursa Malaysia Berhad)"
     url: "https://www.hasil.gov.my/wp-content/uploads/GP_SAHAM_2019_23062020_1.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2019-11-06"
-  - title: "Guidelines on Capital Gains Tax for Unlisted Shares, LHDN.AG.600-1/7/3"
+  - title: "Hướng dẫn về Thuế Lãi vốn đối với Cổ phần Chưa niêm yết, LHDN.AG.600-1/7/3 (Guidelines on Capital Gains Tax for Unlisted Shares, LHDN.AG.600-1/7/3)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20250721-guidelines-on-capital-gains-tax-for-unlisted-shares.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2025-07-21"
-  - title: "Section 105 — Form of Transfer of Securities"
+  - title: "Mục 105 — Mẫu Chuyển nhượng Chứng khoán (Section 105 — Form of Transfer of Securities)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/section_105-_form_of_transfer_of_securities_130317.pdf"
-    publisher: "SSM"
-  - title: "Garis Panduan Operasi — Permohonan Penyeteman Melalui Sistem Taksir Sendiri Duti Setem"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Hướng dẫn Nghiệp vụ — Đơn xin Đóng dấu qua Hệ thống Tự đánh giá Thuế tem (Garis Panduan Operasi — Permohonan Penyeteman Melalui Sistem Taksir Sendiri Duti Setem)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20251226-garis-panduan-operasi-permohonan-penyeteman-melalui-sistem-taksir-sendiri-duti-setem.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2025-12-26"
 
 entity: "Stamp duty on share transfers"

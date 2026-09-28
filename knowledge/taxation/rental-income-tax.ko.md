@@ -40,16 +40,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+  - title: "공개 예규 색인(Ketetapan Umum) — 2026년 현재 대체 예규가 발행되지 않았음을 LHDN 목록이 확인 (Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026)"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
-    publisher: "LHDN"
-  - title: "Ketetapan Umum No. 12/2018 — Pendapatan Daripada Sewaan Harta Tanah"
+    publisher: "말레이시아 내국세청 (LHDN)"
+  - title: "공개 예규 제12/2018호 — 부동산 임대 소득 (Ketetapan Umum No. 12/2018 — Pendapatan Daripada Sewaan Harta Tanah)"
     url: "https://www.hasil.gov.my/wp-content/uploads/KU_12_2018.pdf"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "말레이시아 내국세청 (LHDN)"
     date: "2018-12-19"
-  - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4(a), 4(d), 33(1), 39(1)"
+  - title: "Income Tax Act 1967 (Act 53), 2024년 5월 21일 재발행본 — ss.4(a), 4(d), 33(1), 39(1) (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4(a), 4(d), 33(1), 39(1))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "말레이시아 법무장관실"
     date: "2024-05-21"
 
 entity: "Taxation of rental income in Malaysia"

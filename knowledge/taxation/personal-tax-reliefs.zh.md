@@ -35,12 +35,12 @@ sensitivity: "none"
 
 updated: 2026-07-10
 sources:
-  - title: "LHDN — Individual Tax Relief"
+  - title: "LHDN — 个人税务减免 (LHDN — Individual Tax Relief)"
     url: "https://www.hasil.gov.my/en/individual/"
-    publisher: "LHDN"
-  - title: "Income Tax Act 1967"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "Income Tax Act 1967 (Income Tax Act 1967)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
-    publisher: "Attorney General's Chambers"
+    publisher: "马来西亚总检察署"
 
 entity: "Personal income tax relief"
 relations:

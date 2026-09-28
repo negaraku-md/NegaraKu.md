@@ -55,13 +55,13 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Conservation Charge & Fee Rates"
+  - title: "Caj Pemuliharaan & Kadar Yuran (Conservation Charge & Fee Rates)"
     url: "https://www.dof.gov.my/en/services/marine-park-resource-management/conservation-charge-fee-rates/"
-    publisher: "Department of Fisheries Malaysia"
-  - title: "Management of Marine Parks, Turtle Centres and Sanctuaries"
+    publisher: "Jabatan Perikanan Malaysia"
+  - title: "Pengurusan Taman Laut, Pusat Penyu dan Santuari (Management of Marine Parks, Turtle Centres and Sanctuaries)"
     url: "https://www.dof.gov.my/en/services/marine-park-resource-management/marine-park-management/"
-    publisher: "Department of Fisheries Malaysia"
-  - title: "Sabah Parks director: Tighter restrictions for Sipadan diving permits to preserve marine life"
+    publisher: "Jabatan Perikanan Malaysia"
+  - title: "Pengarah Sabah Parks: Sekatan lebih ketat untuk permit menyelam Sipadan bagi memelihara hidupan laut (Sabah Parks director: Tighter restrictions for Sipadan diving permits to preserve marine life)"
     url: "https://www.malaymail.com/news/malaysia/2022/09/29/sabah-parks-director-tighter-restrictions-for-sipadan-diving-permits-to-preserve-marine-life/30839"
     publisher: "Malay Mail"
 

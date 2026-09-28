@@ -48,21 +48,21 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "HASiL e-Services (e-Perkhidmatan) — ByrHASiL and e-Anggaran (CP204)"
+  - title: "HASiL மின்-சேவைகள் (e-Perkhidmatan) — ByrHASiL மற்றும் e-Anggaran (CP204) (HASiL e-Services (e-Perkhidmatan) — ByrHASiL and e-Anggaran (CP204))"
     url: "https://www.hasil.gov.my/en/e-perkhidmatan/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Balance of Tax Payment (Individual) — instalment appeals, CP38, CP500"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "வரி இருப்புத் தொகை செலுத்துதல் (தனிநபர்) — தவணை மேல்முறையீடுகள், CP38, CP500 (Balance of Tax Payment (Individual) — instalment appeals, CP38, CP500)"
     url: "https://www.hasil.gov.my/en/individu/bayaran/baki-cukai-kena-bayar/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025)"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "ஊடக அறிக்கை: MyTax-இல் e-Ansuran மூலம் வரி இருப்பு அல்லது வரி நிலுவைத் தொகைக்கான தவணை விண்ணப்பம் ஆன்லைனில் (18 மார்ச் 2025) (Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025))"
     url: "https://www.hasil.gov.my/media/p24d2bzq/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "MyTax portal"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "MyTax இணையவாயில் (MyTax portal)"
     url: "https://mytax.hasil.gov.my/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "ByrHASiL online tax payment (FPX)"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "ByrHASiL ஆன்லைன் வரி செலுத்துதல் (FPX) (ByrHASiL online tax payment (FPX))"
     url: "https://byrhasil.hasil.gov.my/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 relations: []
 related: []

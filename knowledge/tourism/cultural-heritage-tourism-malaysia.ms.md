@@ -54,19 +54,19 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Recognition of Forest Research Institute Malaysia (FRIM) Forest Park Selangor as a UNESCO World Heritage Site"
+  - title: "Pengiktirafan Taman Hutan Institut Penyelidikan Perhutanan Malaysia (FRIM) Selangor sebagai Tapak Warisan Dunia UNESCO (Recognition of Forest Research Institute Malaysia (FRIM) Forest Park Selangor as a UNESCO World Heritage Site)"
     url: "https://www.motac.gov.my/en/recognition-of-forest-research-institute-malaysia-frim-forest-park-selangor-fps-as-a-unesco-world-heritage-site/"
-    publisher: "Ministry of Tourism, Arts and Culture Malaysia (MOTAC)"
-  - title: "Homestay Malaysia Experience Program (PPHM)"
+    publisher: "Kementerian Pelancongan, Seni dan Budaya Malaysia (MOTAC)"
+  - title: "Program Pengalaman Homestay Malaysia (PPHM) (Homestay Malaysia Experience Program (PPHM))"
     url: "https://www.motac.gov.my/en/homestay-malaysia-experience-program/"
-    publisher: "Ministry of Tourism, Arts and Culture Malaysia (MOTAC)"
-  - title: "Malaysian Homestay Experience Program (PPHM)"
+    publisher: "Kementerian Pelancongan, Seni dan Budaya Malaysia (MOTAC)"
+  - title: "Program Pengalaman Homestay Malaysia (PPHM) (Malaysian Homestay Experience Program (PPHM))"
     url: "https://www.malaysia.gov.my/en/topics/program-pengalaman-homestay-malaysia-pphm"
-    publisher: "Government of Malaysia (MyGovernment portal)"
-  - title: "About GTWHS — George Town UNESCO World Heritage Site"
+    publisher: "Kerajaan Malaysia (portal MyGovernment)"
+  - title: "Mengenai GTWHS — Tapak Warisan Dunia UNESCO George Town (About GTWHS — George Town UNESCO World Heritage Site)"
     url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
     publisher: "George Town World Heritage Incorporated (GTWHI)"
-  - title: "Sarawak's Niah Caves Recognised As UNESCO World Heritage Site"
+  - title: "Gua Niah Sarawak Diiktiraf Sebagai Tapak Warisan Dunia UNESCO (Sarawak's Niah Caves Recognised As UNESCO World Heritage Site)"
     url: "https://www.bernama.com/en/news.php?id=2322602"
     publisher: "Bernama (Malaysian National News Agency)"
 

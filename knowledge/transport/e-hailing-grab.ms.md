@@ -42,24 +42,24 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Taxi and e-hailing"
+  - title: "Teksi dan e-hailing (Taxi and e-hailing)"
     url: "https://www.apad.gov.my/index.php/en/services/taxi-and-ehailing"
     publisher: "Agensi Pengangkutan Awam Darat (APAD)"
-  - title: "e-Hailing Services"
+  - title: "Perkhidmatan e-Hailing (e-Hailing Services)"
     url: "https://www.mot.gov.my/en/land/infrastructure/e-hailing-services"
-    publisher: "Ministry of Transport Malaysia"
-  - title: "Permohonan Lesen Vokasional (GDL, PSV Dan Konduktor) — Vocational Licence Application (GDL, PSV and Conductor)"
+    publisher: "Kementerian Pengangkutan Malaysia"
+  - title: "Permohonan Lesen Vokasional (GDL, PSV dan Konduktor) (Permohonan Lesen Vokasional (GDL, PSV Dan Konduktor) — Vocational Licence Application (GDL, PSV and Conductor))"
     url: "https://www.jpj.gov.my/en/jpj-service-information/vocational-license-application-gdl-psv-and-conductor/"
     publisher: "Jabatan Pengangkutan Jalan (JPJ)"
-  - title: "Application for PSV License (E-hailing driver)"
+  - title: "Permohonan Lesen PSV (Pemandu e-hailing) (Application for PSV License (E-hailing driver))"
     url: "https://www.jpj.my/misc/application_for_psv_license.htm"
     publisher: "Jabatan Pengangkutan Jalan (JPJ)"
-  - title: "Land Public Transport Act 2010 (Act 715)"
+  - title: "Akta Pengangkutan Awam Darat 2010 (Land Public Transport Act 2010 (Act 715))"
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&act=715"
-    publisher: "Attorney General's Chambers (AGC) — Laws of Malaysia Online"
-  - title: "Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah"
+    publisher: "Jabatan Peguam Negara (AGC) — Laws of Malaysia Online"
+  - title: "Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah (Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah)"
     url: "https://sabah.gov.my/directory/lpkp"
-    publisher: "Sabah State Government"
+    publisher: "Kerajaan Negeri Sabah"
 
 entity: "E-hailing"
 relations:

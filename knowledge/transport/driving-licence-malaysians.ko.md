@@ -44,21 +44,21 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Permohonan Lesen Memandu Kompeten (CDL)"
+  - title: "정식 운전면허(CDL) 신청 (Permohonan Lesen Memandu Kompeten (CDL))"
     url: "https://www.jpj.gov.my/en/jpj-service-information/competent-driver-license-cdl-application/"
-    publisher: "Jabatan Pengangkutan Jalan (JPJ)"
-  - title: "Informasi Perkhidmatan JPJ"
+    publisher: "육상교통청 (JPJ)"
+  - title: "JPJ 서비스 정보 (Informasi Perkhidmatan JPJ)"
     url: "https://www.jpj.gov.my/en/jpj-service-information/"
-    publisher: "Jabatan Pengangkutan Jalan (JPJ)"
-  - title: "Soalan Lazim Lesen Memandu"
+    publisher: "육상교통청 (JPJ)"
+  - title: "운전면허 자주 묻는 질문 (Soalan Lazim Lesen Memandu)"
     url: "https://www.jpj.gov.my/en/faq-driving/"
-    publisher: "Jabatan Pengangkutan Jalan (JPJ)"
-  - title: "Soalan Lazim Sistem KEJARA"
+    publisher: "육상교통청 (JPJ)"
+  - title: "KEJARA 시스템 자주 묻는 질문 (Soalan Lazim Sistem KEJARA)"
     url: "https://www.jpj.gov.my/en/faq-kejara/"
-    publisher: "Jabatan Pengangkutan Jalan (JPJ)"
-  - title: "Memohon Lesen Memandu"
+    publisher: "육상교통청 (JPJ)"
+  - title: "운전면허 신청하기 (Memohon Lesen Memandu)"
     url: "https://www.malaysia.gov.my/my/categories/pengangkutan/lesen-memandu/memohon-lesen-memandu"
-    publisher: "Portal Rasmi Kerajaan Malaysia"
+    publisher: "말레이시아 정부 공식 포털"
 
 entity: "말레이시아 운전면허 취득 과정 (JPJ)"
 relations:

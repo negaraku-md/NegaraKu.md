@@ -51,12 +51,12 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "General Guide of Departure Levy"
+  - title: "புறப்பாட்டு வரி பொது வழிகாட்டி (General Guide of Departure Levy)"
     url: "https://mydlv.customs.gov.my/www/admin/files/JKDM/resources/assets/pdf/General_Guide_of_Departure_Levy.pdf"
-    publisher: "Jabatan Kastam Diraja Malaysia (RMCD)"
-  - title: "Sistem Levi Pelepasan (MyDLv)"
+    publisher: "மலேசிய அரச சுங்கத் துறை (RMCD)"
+  - title: "புறப்பாட்டு வரி அமைப்பு (MyDLv) (Sistem Levi Pelepasan (MyDLv))"
     url: "https://mydlv.customs.gov.my/www/index.php?r=site%2Findex&page_id=1&language=en"
-    publisher: "Jabatan Kastam Diraja Malaysia (RMCD)"
+    publisher: "மலேசிய அரச சுங்கத் துறை (RMCD)"
 
 entity: "Levi Pelepasan"
 relations:

@@ -55,17 +55,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Sijil Taraf Mastautin / e-Residence"
+  - title: "குடியிருப்பு நிலைச் சான்றிதழ் / e-Residence (Sijil Taraf Mastautin / e-Residence)"
     url: "https://www.hasil.gov.my/antarabangsa/sijil-taraf-mastautin-e-residence/"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2026-07-17"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.7, 8 and 61(3)"
+  - title: "Income Tax Act 1967 (Act 53), 21 மே 2024 நிலவரப்படி மறுபதிப்பு — பிரிவுகள் 7, 8 மற்றும் 61(3) (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.7, 8 and 61(3))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2024-05-21"
-  - title: "Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons"
+  - title: "பொது தீர்ப்பு எண். 9/2019 — நிறுவனங்கள் மற்றும் நபர்களின் அமைப்புகளின் குடியிருப்பு நிலை (Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_09_2019.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2019-12-06"
 
 entity: "Certificate of Residence"

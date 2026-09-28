@@ -64,13 +64,13 @@ verificationNeeded:
   - "1400년경 믈라카의 건국과 파라메스와라(Parameswara)에게 귀속되는 점."
   - "연표의 식민지 시대 연도 — 포르투갈 정복 1511년, 네덜란드 인수 1641년, 영란 조약 1824년 — 은 표준적이나 이번 작업에서 확보된 일차 출처와 대조하여 확인되지 않음."
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "말라카와 조지타운, 말라카 해협의 역사 도시 (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223/"
     publisher: "UNESCO World Heritage Centre"
-  - title: "George Town UNESCO World Heritage Site (About GTWHS / OUV)"
+  - title: "조지타운 유네스코 세계유산 (GTWHS / OUV 소개) (George Town UNESCO World Heritage Site (About GTWHS / OUV))"
     url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
     publisher: "George Town World Heritage Incorporated (GTWHI)"
-  - title: "Baba & Nyonya Heritage Museum — About / Visit"
+  - title: "바바 뇨냐 헤리티지 박물관 — 소개 / 방문 (Baba & Nyonya Heritage Museum — About / Visit)"
     url: "https://babanyonyamuseum.com/"
     publisher: "Baba & Nyonya Heritage Museum"
 

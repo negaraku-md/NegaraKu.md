@@ -65,20 +65,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Garis Panduan Mengenai Duti Setem Ke Atas Suratcara Pindah Milik Saham Bagi Saham Syarikat Yang Tidak Tersenarai Di Bursa Malaysia Berhad"
+  - title: "பர்சா மலேசியா பெர்ஹாட்-டில் பட்டியலிடப்படாத நிறுவனங்களின் பங்குகளுக்கான பங்கு பரிமாற்ற ஆவணத்தின் மீதான முத்திரை வரி குறித்த வழிகாட்டி (Garis Panduan Mengenai Duti Setem Ke Atas Suratcara Pindah Milik Saham Bagi Saham Syarikat Yang Tidak Tersenarai Di Bursa Malaysia Berhad)"
     url: "https://www.hasil.gov.my/wp-content/uploads/GP_SAHAM_2019_23062020_1.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2019-11-06"
-  - title: "Guidelines on Capital Gains Tax for Unlisted Shares, LHDN.AG.600-1/7/3"
+  - title: "பட்டியலிடப்படாத பங்குகளுக்கான மூலதன ஆதாய வரி குறித்த வழிகாட்டி, LHDN.AG.600-1/7/3 (Guidelines on Capital Gains Tax for Unlisted Shares, LHDN.AG.600-1/7/3)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20250721-guidelines-on-capital-gains-tax-for-unlisted-shares.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-07-21"
-  - title: "Section 105 — Form of Transfer of Securities"
+  - title: "பிரிவு 105 — பத்திரங்கள் பரிமாற்றப் படிவம் (Section 105 — Form of Transfer of Securities)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/section_105-_form_of_transfer_of_securities_130317.pdf"
-    publisher: "SSM"
-  - title: "Garis Panduan Operasi — Permohonan Penyeteman Melalui Sistem Taksir Sendiri Duti Setem"
+    publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "செயல்பாட்டு வழிகாட்டி — முத்திரை வரி சுய-மதிப்பீட்டு முறை மூலம் முத்திரையிடல் விண்ணப்பம் (Garis Panduan Operasi — Permohonan Penyeteman Melalui Sistem Taksir Sendiri Duti Setem)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20251226-garis-panduan-operasi-permohonan-penyeteman-melalui-sistem-taksir-sendiri-duti-setem.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-12-26"
 
 entity: "Stamp duty on share transfers"

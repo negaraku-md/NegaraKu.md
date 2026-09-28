@@ -94,23 +94,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 77A, 107C, 112, 120"
+  - title: "Income Tax Act 1967 (Act 53), cetakan semula pada 21 Mei 2024 — seksyen 77A, 107C, 112, 120 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 77A, 107C, 112, 120)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2024-05-21"
-  - title: "Tax Estimation — Submission of Estimated Tax Payable Under Section 107C"
+  - title: "Anggaran Cukai — Penyerahan Anggaran Cukai Kena Dibayar di bawah Seksyen 107C (Tax Estimation — Submission of Estimated Tax Payable Under Section 107C)"
     url: "https://www.hasil.gov.my/syarikat/anggaran-cukai/"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
+  - title: "Ketetapan Umum No. 8/2025 — Layanan Cukai bagi Syarikat Mikro, Kecil dan Sederhana (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2025-12-22"
-  - title: "Return Form Filing Programme for the Year 2026"
+  - title: "Program Pemfailan Borang Nyata bagi Tahun 2026 (Return Form Filing Programme for the Year 2026)"
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
-    publisher: "LHDN"
-  - title: "Offences, Fines and Penalties"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
+  - title: "Kesalahan, Denda dan Penalti (Offences, Fines and Penalties)"
     url: "https://www.hasil.gov.my/perundangan/kesalahan-denda-dan-penalti/"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
 
 entity: "Company tax estimate and return"
 relations:

@@ -55,17 +55,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Sijil Taraf Mastautin / e-Residence"
+  - title: "Sijil Taraf Mastautin / e-Residence (Sijil Taraf Mastautin / e-Residence)"
     url: "https://www.hasil.gov.my/antarabangsa/sijil-taraf-mastautin-e-residence/"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2026-07-17"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.7, 8 and 61(3)"
+  - title: "Income Tax Act 1967 (Act 53), cetakan semula pada 21 Mei 2024 — ss.7, 8 dan 61(3) (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.7, 8 and 61(3))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2024-05-21"
-  - title: "Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons"
+  - title: "Ketetapan Umum No. 9/2019 — Taraf Mastautin Syarikat dan Badan Orang (Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_09_2019.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2019-12-06"
 
 entity: "Certificate of Residence"

@@ -44,21 +44,21 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Permohonan Lesen Memandu Kompeten (CDL)"
+  - title: "தகுதி ஓட்டுநர் உரிமம் (CDL) விண்ணப்பம் (Permohonan Lesen Memandu Kompeten (CDL))"
     url: "https://www.jpj.gov.my/en/jpj-service-information/competent-driver-license-cdl-application/"
-    publisher: "Jabatan Pengangkutan Jalan (JPJ)"
-  - title: "Informasi Perkhidmatan JPJ"
+    publisher: "தரைவழிப் போக்குவரத்துத் துறை (JPJ)"
+  - title: "JPJ சேவைத் தகவல் (Informasi Perkhidmatan JPJ)"
     url: "https://www.jpj.gov.my/en/jpj-service-information/"
-    publisher: "Jabatan Pengangkutan Jalan (JPJ)"
-  - title: "Soalan Lazim Lesen Memandu"
+    publisher: "தரைவழிப் போக்குவரத்துத் துறை (JPJ)"
+  - title: "ஓட்டுநர் உரிமம் அடிக்கடி கேட்கப்படும் கேள்விகள் (Soalan Lazim Lesen Memandu)"
     url: "https://www.jpj.gov.my/en/faq-driving/"
-    publisher: "Jabatan Pengangkutan Jalan (JPJ)"
-  - title: "Soalan Lazim Sistem KEJARA"
+    publisher: "தரைவழிப் போக்குவரத்துத் துறை (JPJ)"
+  - title: "KEJARA அமைப்பு அடிக்கடி கேட்கப்படும் கேள்விகள் (Soalan Lazim Sistem KEJARA)"
     url: "https://www.jpj.gov.my/en/faq-kejara/"
-    publisher: "Jabatan Pengangkutan Jalan (JPJ)"
-  - title: "Memohon Lesen Memandu"
+    publisher: "தரைவழிப் போக்குவரத்துத் துறை (JPJ)"
+  - title: "ஓட்டுநர் உரிமத்திற்கு விண்ணப்பித்தல் (Memohon Lesen Memandu)"
     url: "https://www.malaysia.gov.my/my/categories/pengangkutan/lesen-memandu/memohon-lesen-memandu"
-    publisher: "Portal Rasmi Kerajaan Malaysia"
+    publisher: "மலேசிய அரசாங்கத்தின் அதிகாரப்பூர்வ போர்டல்"
 
 entity: "Proses lesen memandu Malaysia (JPJ)"
 relations:

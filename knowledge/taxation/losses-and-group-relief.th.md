@@ -59,21 +59,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 1/2022 — Time Limit for Unabsorbed Adjusted Business Losses Carried Forward"
+  - title: "คำวินิจฉัยสาธารณะ ฉบับที่ 1/2022 — ระยะเวลาจำกัดสำหรับผลขาดทุนทางธุรกิจที่ปรับปรุงแล้วซึ่งยังไม่ได้ใช้ที่ยกไป (Public Ruling No. 1/2022 — Time Limit for Unabsorbed Adjusted Business Losses Carried Forward)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_01_2022.pdf"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
     date: "2022-06-30"
-  - title: "Public Ruling No. 2/2025 — Group Relief for Companies"
+  - title: "คำวินิจฉัยสาธารณะ ฉบับที่ 2/2025 — การหักลดหย่อนแบบกลุ่มสำหรับบริษัท (Public Ruling No. 2/2025 — Group Relief for Companies)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-2-2025-group-relief-for-companies.pdf"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
     date: "2025-07-31"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 43, 44, 44A and Schedule 3 paragraphs 75, 75A, 75B"
+  - title: "Income Tax Act 1967 (Act 53), ฉบับพิมพ์ซ้ำ ณ วันที่ 21 พฤษภาคม 2024 — มาตรา 43, 44, 44A และบัญชีแนบท้าย 3 วรรค 75, 75A, 75B (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 43, 44, 44A and Schedule 3 paragraphs 75, 75A, 75B)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
     date: "2024-05-21"
-  - title: "Public Rulings index"
+  - title: "ดัชนีคำวินิจฉัยสาธารณะ (Public Rulings index)"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
 
 entity: "Business loss relief"
 relations:

@@ -34,12 +34,12 @@ sensitivity: "none"
 
 updated: 2026-07-10
 sources:
-  - title: "LHDN — Individual Tax Relief"
+  - title: "LHDN — Pelepasan Cukai Individu (LHDN — Individual Tax Relief)"
     url: "https://www.hasil.gov.my/individu/"
-    publisher: "LHDN"
-  - title: "Income Tax Act 1967"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Income Tax Act 1967 (Income Tax Act 1967)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
-    publisher: "Attorney General's Chambers"
+    publisher: "Jabatan Peguam Negara"
 
 entity: "Personal income tax relief"
 relations:

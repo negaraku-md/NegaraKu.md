@@ -50,12 +50,12 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "General Guide of Departure Levy"
+  - title: "Hướng dẫn Chung về Phí Xuất cảnh (General Guide of Departure Levy)"
     url: "https://mydlv.customs.gov.my/www/admin/files/JKDM/resources/assets/pdf/General_Guide_of_Departure_Levy.pdf"
-    publisher: "Jabatan Kastam Diraja Malaysia (RMCD)"
-  - title: "Sistem Levi Pelepasan (MyDLv)"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
+  - title: "Hệ thống Phí Xuất cảnh (MyDLv) (Sistem Levi Pelepasan (MyDLv))"
     url: "https://mydlv.customs.gov.my/www/index.php?r=site%2Findex&page_id=1&language=en"
-    publisher: "Jabatan Kastam Diraja Malaysia (RMCD)"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
 
 entity: "Levi Pelepasan"
 relations:

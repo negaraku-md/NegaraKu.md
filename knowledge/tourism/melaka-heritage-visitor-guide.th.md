@@ -64,13 +64,13 @@ verificationNeeded:
   - "การก่อตั้งมะละการาวปี 1400 และการยกให้ปารเมศวร (Parameswara)"
   - "วันที่ในยุคอาณานิคมในตารางเส้นเวลา การพิชิตของโปรตุเกส 1511 การเข้ายึดของดัตช์ 1641 สนธิสัญญาอังกฤษ-ดัตช์ 1824 เป็นมาตรฐานแต่ไม่ได้ยืนยันกับแหล่งข้อมูลปฐมภูมิที่ดึงมาในการตรวจสอบครั้งนี้"
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "มะละกาและจอร์จทาวน์ เมืองประวัติศาสตร์แห่งช่องแคบมะละกา (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223/"
     publisher: "UNESCO World Heritage Centre"
-  - title: "George Town UNESCO World Heritage Site (About GTWHS / OUV)"
+  - title: "เมืองมรดกโลกยูเนสโกจอร์จทาวน์ (เกี่ยวกับ GTWHS / OUV) (George Town UNESCO World Heritage Site (About GTWHS / OUV))"
     url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
     publisher: "George Town World Heritage Incorporated (GTWHI)"
-  - title: "Baba & Nyonya Heritage Museum — About / Visit"
+  - title: "พิพิธภัณฑ์มรดกบาบ๋า-ย่าหยา — เกี่ยวกับ / เยี่ยมชม (Baba & Nyonya Heritage Museum — About / Visit)"
     url: "https://babanyonyamuseum.com/"
     publisher: "Baba & Nyonya Heritage Museum"
 

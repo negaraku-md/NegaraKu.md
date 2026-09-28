@@ -40,16 +40,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+  - title: "ดัชนีคำวินิจฉัยสาธารณะ (Ketetapan Umum) — รายการของ LHDN ยืนยันว่าไม่มีคำวินิจฉัยที่มาแทนที่ออกใช้ ณ ปี 2026 (Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026)"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
-    publisher: "LHDN"
-  - title: "Ketetapan Umum No. 12/2018 — Pendapatan Daripada Sewaan Harta Tanah"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "คำวินิจฉัยสาธารณะ ฉบับที่ 12/2018 — เงินได้จากการให้เช่าอสังหาริมทรัพย์ (Ketetapan Umum No. 12/2018 — Pendapatan Daripada Sewaan Harta Tanah)"
     url: "https://www.hasil.gov.my/wp-content/uploads/KU_12_2018.pdf"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
     date: "2018-12-19"
-  - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4(a), 4(d), 33(1), 39(1)"
+  - title: "Income Tax Act 1967 (Act 53), ฉบับพิมพ์ซ้ำ 21 พฤษภาคม 2024 — ss.4(a), 4(d), 33(1), 39(1) (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4(a), 4(d), 33(1), 39(1))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "สำนักงานอัยการสูงสุดมาเลเซีย"
     date: "2024-05-21"
 
 entity: "Taxation of rental income in Malaysia"

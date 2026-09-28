@@ -64,13 +64,13 @@ verificationNeeded:
   - "1400年ごろのマラッカ建国と、それをパラメスワラに帰する説。"
   - "年表中の植民地時代の年——ポルトガルの征服1511年、オランダの掌握1641年、英蘭協定1824年——標準的な説だが、本稿の作業では取得した一次資料と照合して確認していない。"
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "マラッカとジョージタウン、マラッカ海峡の歴史都市 (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223/"
     publisher: "UNESCO World Heritage Centre"
-  - title: "George Town UNESCO World Heritage Site (About GTWHS / OUV)"
+  - title: "ジョージタウン・ユネスコ世界遺産（GTWHS / OUVについて） (George Town UNESCO World Heritage Site (About GTWHS / OUV))"
     url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
     publisher: "George Town World Heritage Incorporated (GTWHI)"
-  - title: "Baba & Nyonya Heritage Museum — About / Visit"
+  - title: "ババ・ニョニャ・ヘリテージ博物館 — 概要 / 訪問 (Baba & Nyonya Heritage Museum — About / Visit)"
     url: "https://babanyonyamuseum.com/"
     publisher: "Baba & Nyonya Heritage Museum"
 

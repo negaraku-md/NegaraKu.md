@@ -65,20 +65,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Soalan Lazim — Penyeteman Kontrak Penggajian Di Malaysia"
+  - title: "常见问答 — 马来西亚雇佣合约盖章 (Soalan Lazim — Penyeteman Kontrak Penggajian Di Malaysia)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20250703-pkpe_faq-penyeteman-kontrak-penggajian-di-malaysia.pdf"
-    publisher: "LHDN"
+    publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2025-07-03"
-  - title: "Media Release HASiL/2025/06/06 — 50, Stamp Duty Exemption for Employment Contracts Finalised Before 1 January 2025"
+  - title: "Media Release HASiL/2025/06/06 — 50，2025年1月1日前签订的雇佣合约印花税豁免 (Media Release HASiL/2025/06/06 — 50, Stamp Duty Exemption for Employment Contracts Finalised Before 1 January 2025)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20250606_kenyataan-media-hasil_pengecualian-pengenaan-ds-untuk-kontrak-penggajian-yang-dimuktamadkan-sebelum-1-januari-2025.pdf"
-    publisher: "LHDN"
+    publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2025-06-06"
-  - title: "Stamp Act 1949 (Act 378), text as at 1 January 2024"
+  - title: "Stamp Act 1949 (Act 378), 截至2024年1月1日的文本 (Stamp Act 1949 (Act 378), text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
-    publisher: "Attorney General's Chambers"
-  - title: "Finance Act 2025 (Act 874) — amendment of the First Schedule, item 4"
+    publisher: "马来西亚总检察署 (AGC)"
+  - title: "Finance Act 2025 (Act 874) — 第一附表第4项的修订 (Finance Act 2025 (Act 874) — amendment of the First Schedule, item 4)"
     url: "https://lom.agc.gov.my/act-detail.php?act=874"
-    publisher: "Attorney General's Chambers"
+    publisher: "马来西亚总检察署 (AGC)"
 
 entity: "Stamp duty on employment contracts"
 relations:

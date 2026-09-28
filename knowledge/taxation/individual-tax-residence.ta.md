@@ -55,20 +55,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026"
+  - title: "பொது தீர்ப்புகள் அட்டவணை (Ketetapan Umum) — 2026 வரை எந்த மாற்றுத் தீர்ப்பும் வெளியிடப்படவில்லை என்பதை LHDN பட்டியல் உறுதிப்படுத்துகிறது (Public Rulings index (Ketetapan Umum) — LHDN listing confirms no superseding ruling issued as at 2026)"
     url: "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
-    publisher: "LHDN"
-  - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — s.7"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "Income Tax Act 1967 (Act 53), 2024 மே 21 மறுபதிப்பு — s.7 (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — s.7)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "மலேசிய சட்ட மா அதிபர் அலுவலகம்"
     date: "2024-05-21"
-  - title: "Ketetapan Umum No. 11/2017 — Taraf Mastautin Individu"
+  - title: "பொது தீர்ப்பு எண். 11/2017 — தனிநபர் வதிவிட நிலை (Ketetapan Umum No. 11/2017 — Taraf Mastautin Individu)"
     url: "https://www.hasil.gov.my/wp-content/uploads/KU_11_2017.pdf"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2017-12-22"
-  - title: "Taraf Mastautin — Individu"
+  - title: "வதிவிட நிலை — தனிநபர் (Taraf Mastautin — Individu)"
     url: "https://www.hasil.gov.my/individu/taraf-mastautin/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2026-06-18"
 
 entity: "Individual tax residence in Malaysia"

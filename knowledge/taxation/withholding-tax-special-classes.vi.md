@@ -66,20 +66,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income"
+  - title: "Public Ruling No. 10/2019 — Thuế Khấu trừ tại Nguồn đối với các Loại Thu nhập Đặc biệt (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2019-12-10"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.4A, 15A, 39(1)(j), 109B, 109H and Schedule 1 Part V"
+  - title: "Income Tax Act 1967 (Act 53), bản tái bản tính đến ngày 21 tháng 5 năm 2024 — mục 4A, 15A, 39(1)(j), 109B, 109H và Phụ lục 1 Phần V (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.4A, 15A, 39(1)(j), 109B, 109H and Schedule 1 Part V)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2024-05-21"
-  - title: "Withholding Tax"
+  - title: "Thuế Khấu trừ tại Nguồn (Withholding Tax)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
-  - title: "Form CP37D (Pin. 1/2024) — Account of Deductions from Special Classes of Income under Section 4A"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
+  - title: "Mẫu CP37D (Pin. 1/2024) — Bảng kê Khấu trừ từ các Loại Thu nhập Đặc biệt theo Mục 4A (Form CP37D (Pin. 1/2024) — Account of Deductions from Special Classes of Income under Section 4A)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37d-pin-1_2024.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
 
 entity: "Section 109B withholding tax"
 relations:

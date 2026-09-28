@@ -53,16 +53,16 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "How much taxes do gaming companies, NFOs and breweries pay?"
+  - title: "博彩公司、NFO与酿酒商缴纳多少税？ (How much taxes do gaming companies, NFOs and breweries pay?)"
     url: "https://theedgemalaysia.com/article/how-much-taxes-do-gaming-companies-nfos-and-breweries-pay"
     publisher: "The Edge Malaysia"
-  - title: "It pays to dabble in bets and booze as these sectors contribute RM20 billion in revenue"
+  - title: "涉足博彩与酒类有利可图：这些行业贡献200亿令吉收入 (It pays to dabble in bets and booze as these sectors contribute RM20 billion in revenue)"
     url: "https://theedgemalaysia.com/article/it-pays-dabble-bets-and-booze-these-sectors-contributes-rm20-billion-revenue"
     publisher: "The Edge Malaysia"
-  - title: "Where does a RM2 bet on Sports Toto go?"
+  - title: "在Sports Toto投注2令吉，钱去了哪里？ (Where does a RM2 bet on Sports Toto go?)"
     url: "https://www.klsescreener.com/v2/news/view/1463773/Where_does_a_RM2_bet_on_Sports_Toto_go"
     publisher: "KLSE Screener"
-  - title: "Malaysia — Corporate — Taxes on corporate income"
+  - title: "马来西亚 — 企业 — 企业所得税 (Malaysia — Corporate — Taxes on corporate income)"
     url: "https://taxsummaries.pwc.com/malaysia/corporate/taxes-on-corporate-income"
     publisher: "PwC (Worldwide Tax Summaries)"
 

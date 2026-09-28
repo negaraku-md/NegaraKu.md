@@ -57,18 +57,18 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Taman Negara Pahang, Kuala Tahan (official park page)"
+  - title: "타만 느가라 파항, 쿠알라 타한 (공식 공원 페이지) (Taman Negara Pahang, Kuala Tahan (official park page))"
     url: "https://www.wildlife.gov.my/en/taman-negara-pahang-kuala-tahan/"
-    publisher: "Department of Wildlife and National Parks (PERHILITAN)"
-  - title: "Frequently Asked Questions — Ecotourism"
+    publisher: "야생동물국립공원청 (PERHILITAN)"
+  - title: "자주 묻는 질문 — 생태관광 (Frequently Asked Questions — Ecotourism)"
     url: "https://www.wildlife.gov.my/en/soalan-lazim-ekopelancongan/"
-    publisher: "Department of Wildlife and National Parks (PERHILITAN)"
-  - title: "Historical and Current Legislations of Taman Negara National Park Peninsular Malaysia"
+    publisher: "야생동물국립공원청 (PERHILITAN)"
+  - title: "말레이반도 타만 느가라 국립공원의 역사적 및 현행 법제 (Historical and Current Legislations of Taman Negara National Park Peninsular Malaysia)"
     url: "https://ccsenet.org/journal/index.php/jpl/article/view/384"
     publisher: "Journal of Politics and Law, Vol. 2 No. 1 (2009)"
-  - title: "Taman Negara guides urge partial reopening of canopy walkways before VMY 2026"
+  - title: "타만 느가라 가이드들, VMY 2026 이전 캐노피 워크웨이 부분 재개방 촉구 (Taman Negara guides urge partial reopening of canopy walkways before VMY 2026)"
     url: "https://pahangtourism.org.my/index.php?option=com_content&view=article&id=82"
-    publisher: "Tourism Pahang Official Portal"
+    publisher: "Tourism Pahang 공식 포털"
 
 entity: "타만 네가라"
 wikidata: "Q728141"

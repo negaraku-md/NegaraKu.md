@@ -52,19 +52,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Kategori Kenderaan Mikromobiliti Yang Dilarang Di Atas Jalanraya"
+  - title: "சாலைகளில் தடைசெய்யப்பட்ட நுண்நகர்வு வாகன வகைகள் (Kategori Kenderaan Mikromobiliti Yang Dilarang Di Atas Jalanraya)"
     url: "https://www.mkn.gov.my/web/ms/2022/04/27/kategori-kenderaan-mikromobiliti-yang-dilarang-di-atas-jalanraya/"
-    publisher: "Majlis Keselamatan Negara (MKN)"
-  - title: "QuickCheck: Is it legal to ride an electric scooter or e-bike on public roads?"
+    publisher: "தேசிய பாதுகாப்பு கவுன்சில் (MKN)"
+  - title: "QuickCheck: பொது சாலைகளில் மின்சார ஸ்கூட்டர் அல்லது இ-பைக் ஓட்டுவது சட்டப்பூர்வமானதா? (QuickCheck: Is it legal to ride an electric scooter or e-bike on public roads?)"
     url: "https://www.thestar.com.my/news/true-or-not/2026/07/20/quickcheck-is-it-legal-to-ride-an-electric-scooter-or-e-bike-on-public-roads"
     publisher: "The Star"
-  - title: "E-scooters and mopeds banned on Malaysian roads, says transport ministry - bicycles exempt from ruling"
+  - title: "மலேசிய சாலைகளில் இ-ஸ்கூட்டர்கள் மற்றும் மோப்பெட்கள் தடைசெய்யப்பட்டுள்ளன என போக்குவரத்து அமைச்சு தெரிவிக்கிறது - சைக்கிள்களுக்கு இவ்விதிமுறையிலிருந்து விலக்கு (E-scooters and mopeds banned on Malaysian roads, says transport ministry - bicycles exempt from ruling)"
     url: "https://paultan.org/2022/04/26/certain-micro-mobility-vehicles-banned-on-malaysian-roads/"
     publisher: "Paul Tan's Automotive News"
-  - title: "Illegal to ride e-scooters on public roads, says JPJ"
+  - title: "பொது சாலைகளில் இ-ஸ்கூட்டர் ஓட்டுவது சட்டவிரோதம் என JPJ தெரிவிக்கிறது (Illegal to ride e-scooters on public roads, says JPJ)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/05/04/illegal-to-ride-e-scooters-on-public-roads-says-jpj"
     publisher: "Free Malaysia Today"
-  - title: "Wee Ka Siong: Moped and eScooters banned from public roads, but not bicycles and eBikes"
+  - title: "Wee Ka Siong: மோப்பெட் மற்றும் இ-ஸ்கூட்டர்கள் பொது சாலைகளில் தடைசெய்யப்பட்டுள்ளன, ஆனால் சைக்கிள்கள் மற்றும் இ-பைக்குகள் அல்ல (Wee Ka Siong: Moped and eScooters banned from public roads, but not bicycles and eBikes)"
     url: "https://soyacincau.com/2022/04/26/wee-ka-siong-moped-and-escooters-banned-from-public-roads-but-not-bicycles-and-ebikes/"
     publisher: "SoyaCincau"
 

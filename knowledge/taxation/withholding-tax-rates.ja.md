@@ -66,20 +66,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Withholding Tax"
+  - title: "源泉徴収税 (Withholding Tax)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — Schedule 1 and ss.107A, 107D, 109, 109A, 109B, 109F"
+    publisher: "内国歳入庁 (LHDN)"
+  - title: "Income Tax Act 1967 (Act 53), 2024年5月21日現在の再版 — 附則1および第107A条、107D条、109条、109A条、109B条、109F条 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — Schedule 1 and ss.107A, 107D, 109, 109A, 109B, 109F)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
     date: "2024-05-21"
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income"
+  - title: "Public Ruling No. 10/2019 — 特別区分の所得に対する源泉徴収税 (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
     date: "2019-12-10"
-  - title: "Double Taxation Avoidance Agreement (DTA/DTAA)"
+  - title: "二重課税防止協定（DTA/DTAA） (Double Taxation Avoidance Agreement (DTA/DTAA))"
     url: "https://www.hasil.gov.my/en/antarabangsa/perjanjian-pengelakan-pencukaian-dua-kali-pppdk/"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
 
 entity: "Malaysian withholding tax rates"
 relations:

@@ -53,18 +53,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Service Tax Act 2018 (Act 807), s.26A"
+  - title: "Service Tax Act 2018 (Act 807), s.26A (Service Tax Act 2018 (Act 807), s.26A)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Act-2018.pdf"
-    publisher: "RMCD"
-  - title: "Form SST-02A — Service Tax Declaration by Person Other Than Registered Person"
+    publisher: "马来西亚皇家关税局 (RMCD)"
+  - title: "表格 SST-02A — 非注册人的服务税申报 (Form SST-02A — Service Tax Declaration by Person Other Than Registered Person)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/SST-02A-Latest-Release.pdf"
-    publisher: "RMCD"
-  - title: "SST Forms"
+    publisher: "马来西亚皇家关税局 (RMCD)"
+  - title: "SST 表格 (SST Forms)"
     url: "https://mysst.customs.gov.my/sst-forms/"
-    publisher: "RMCD"
-  - title: "Service Tax (Rate of Tax) (Amendment) Order 2025, P.U.(A) 173/2025"
+    publisher: "马来西亚皇家关税局 (RMCD)"
+  - title: "Service Tax (Rate of Tax) (Amendment) Order 2025, P.U.(A) 173/2025 (Service Tax (Rate of Tax) (Amendment) Order 2025, P.U.(A) 173/2025)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2905104/PUA%20173%20(2025).pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "马来西亚总检察署"
     date: "2025-06-09"
 
 entity: "Imported taxable services"

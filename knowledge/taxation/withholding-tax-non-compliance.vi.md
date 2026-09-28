@@ -52,17 +52,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, section 14"
+  - title: "Public Ruling No. 10/2019 — Thuế Khấu trừ tại Nguồn đối với các Loại Thu nhập Đặc biệt, mục 14 (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, section 14)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2019-12-10"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.39(1)(f), 39(1)(i), 39(1)(j), 106, 109B(2), 113(2), 131A"
+  - title: "Income Tax Act 1967 (Act 53), bản tái bản tính đến ngày 21 tháng 5 năm 2024 — mục 39(1)(f), 39(1)(i), 39(1)(j), 106, 109B(2), 113(2), 131A (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.39(1)(f), 39(1)(i), 39(1)(j), 106, 109B(2), 113(2), 131A)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2024-05-21"
-  - title: "Withholding Tax — Enforcement"
+  - title: "Thuế Khấu trừ tại Nguồn — Cưỡng chế (Withholding Tax — Enforcement)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
 
 entity: "Withholding tax non-compliance"
 relations:

@@ -67,20 +67,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income"
+  - title: "Public Ruling No. 10/2019 — 특수 소득 유형에 대한 원천징수세 (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "말레이시아 국내세입청 (LHDN)"
     date: "2019-12-10"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.4A, 15A, 39(1)(j), 109B, 109H and Schedule 1 Part V"
+  - title: "Income Tax Act 1967 (Act 53), 2024년 5월 21일 기준 재판 — 제4A조, 15A조, 39(1)(j)조, 109B조, 109H조 및 부표 1 제V부 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.4A, 15A, 39(1)(j), 109B, 109H and Schedule 1 Part V)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "말레이시아 국내세입청 (LHDN)"
     date: "2024-05-21"
-  - title: "Withholding Tax"
+  - title: "원천징수세 (Withholding Tax)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
-  - title: "Form CP37D (Pin. 1/2024) — Account of Deductions from Special Classes of Income under Section 4A"
+    publisher: "말레이시아 국내세입청 (LHDN)"
+  - title: "양식 CP37D (Pin. 1/2024) — 제4A조에 따른 특수 소득 유형으로부터의 공제 내역 (Form CP37D (Pin. 1/2024) — Account of Deductions from Special Classes of Income under Section 4A)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37d-pin-1_2024.pdf"
-    publisher: "LHDN"
+    publisher: "말레이시아 국내세입청 (LHDN)"
 
 entity: "Section 109B withholding tax"
 relations:

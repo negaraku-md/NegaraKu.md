@@ -60,21 +60,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "e-Invoice Specific Guideline (Version 4.8)"
+  - title: "แนวปฏิบัติเฉพาะใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.8) (e-Invoice Specific Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากร (LHDN)"
     date: "2026-07-07"
-  - title: "e-Invoice Guideline (Version 4.7)"
+  - title: "แนวปฏิบัติใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.7) (e-Invoice Guideline (Version 4.7))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากร (LHDN)"
     date: "2026-07-07"
-  - title: "Finance (No. 2) Act 2023 (Act 851) — section 82C(7)"
+  - title: "Finance (No. 2) Act 2023 (Act 851) — มาตรา 82C(7) (Finance (No. 2) Act 2023 (Act 851) — section 82C(7))"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
-    publisher: "Government of Malaysia"
+    publisher: "รัฐบาลมาเลเซีย"
     date: "2023-12-29"
-  - title: "MyInvois SDK — document validation rules"
+  - title: "MyInvois SDK — กฎการตรวจสอบเอกสาร (MyInvois SDK — document validation rules)"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
-    publisher: "LHDN"
+    publisher: "กรมสรรพากร (LHDN)"
 
 entity: "Consolidated e-Invoice"
 relations:

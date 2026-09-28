@@ -48,21 +48,21 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "HASiL e-Services (e-Perkhidmatan) — ByrHASiL and e-Anggaran (CP204)"
+  - title: "e-Perkhidmatan HASiL — ByrHASiL dan e-Anggaran (CP204) (HASiL e-Services (e-Perkhidmatan) — ByrHASiL and e-Anggaran (CP204))"
     url: "https://www.hasil.gov.my/en/e-perkhidmatan/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Balance of Tax Payment (Individual) — instalment appeals, CP38, CP500"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Bayaran Baki Cukai (Individu) — rayuan ansuran, CP38, CP500 (Balance of Tax Payment (Individual) — instalment appeals, CP38, CP500)"
     url: "https://www.hasil.gov.my/en/individu/bayaran/baki-cukai-kena-bayar/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025)"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Kenyataan media: permohonan ansuran bagi baki cukai atau tunggakan cukai secara dalam talian melalui e-Ansuran di MyTax (18 Mac 2025) (Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025))"
     url: "https://www.hasil.gov.my/media/p24d2bzq/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "MyTax portal"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Portal MyTax (MyTax portal)"
     url: "https://mytax.hasil.gov.my/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "ByrHASiL online tax payment (FPX)"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Pembayaran cukai dalam talian ByrHASiL (FPX) (ByrHASiL online tax payment (FPX))"
     url: "https://byrhasil.hasil.gov.my/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
 
 relations: []
 related: []

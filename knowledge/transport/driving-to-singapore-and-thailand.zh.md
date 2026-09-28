@@ -39,22 +39,22 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Cars and Motorcycles Registered in Malaysia"
+  - title: "在马来西亚注册的汽车与摩托车 (Cars and Motorcycles Registered in Malaysia)"
     url: "https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html"
-    publisher: "Land Transport Authority (LTA), Singapore"
-  - title: "Updates for Foreign-Registered Vehicles Entering Singapore"
+    publisher: "陆路交通管理局 (LTA)，新加坡"
+  - title: "进入新加坡的外国注册车辆更新事项 (Updates for Foreign-Registered Vehicles Entering Singapore)"
     url: "https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/2/news-releases/updates-foreign-registered-vehicles-entering-singapore.html"
-    publisher: "Land Transport Authority (LTA), Singapore"
+    publisher: "陆路交通管理局 (LTA)，新加坡"
     date: "2026-02-06"
-  - title: "Vehicle Entry Permit (VEP)"
+  - title: "车辆入境准证 (Vehicle Entry Permit (VEP))"
     url: "https://www.jpj.my/vep/"
-    publisher: "Jabatan Pengangkutan Jalan Malaysia (JPJ)"
-  - title: "Temporary importing and exporting foreign Thai vehicles by land"
+    publisher: "马来西亚陆路交通局 (JPJ)"
+  - title: "外国泰国车辆经陆路临时进出口 (Temporary importing and exporting foreign Thai vehicles by land)"
     url: "https://www.thailand.go.th/issue-focus-detail/001_01_163"
-    publisher: "Royal Thai Government (Thailand.go.th)"
-  - title: "Cross-Border Insurance Vital Before Driving Into Thailand"
+    publisher: "泰国皇家政府 (Thailand.go.th)"
+  - title: "驶入泰国前跨境保险至关重要 (Cross-Border Insurance Vital Before Driving Into Thailand)"
     url: "https://piam.org.my/news-media/stay-ahead/articles/page/piam-cross-border-insurance-vital-before-driving-into-thailand/"
-    publisher: "Persatuan Insurans Am Malaysia (PIAM)"
+    publisher: "马来西亚普通保险协会 (PIAM)"
 
 entity: "Cross-Border Driving from Malaysia"
 relations:

@@ -59,20 +59,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons"
+  - title: "パブリックルーリング第9/2019号 — 法人および人的団体の居住者ステータス (Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_09_2019.pdf"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
     date: "2019-12-06"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 8 and 61(3), Schedule 1 Part I"
+  - title: "Income Tax Act 1967 (Act 53)、2024年5月21日現在の再版 — 第8・61(3)条、附則1第I編 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 8 and 61(3), Schedule 1 Part I)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
     date: "2024-05-21"
-  - title: "Company Resident Status"
+  - title: "法人の居住者ステータス (Company Resident Status)"
     url: "https://www.hasil.gov.my/en/syarikat/taraf-mastautin-syarikat/"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 2/2025 — Group Relief for Companies"
+    publisher: "内国歳入庁 (LHDN)"
+  - title: "パブリックルーリング第2/2025号 — 法人のグループ救済 (Public Ruling No. 2/2025 — Group Relief for Companies)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-2-2025-group-relief-for-companies.pdf"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
     date: "2025-07-31"
 
 entity: "Company tax residence"

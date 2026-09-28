@@ -68,20 +68,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax (Country-by-Country Reporting) Rules 2016, P.U.(A) 357/2016"
+  - title: "Quy tắc Thuế Thu nhập (Báo cáo theo Quốc gia) năm 2016, P.U.(A) 357/2016 (Income Tax (Country-by-Country Reporting) Rules 2016, P.U.(A) 357/2016)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20161223_(008)%20%2011%2011%202016%20%20Draf%20muktamad.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Văn phòng Tổng Chưởng lý"
     date: "2016-12-23"
-  - title: "Income Tax (Country-by-Country Reporting) (Amendment) Rules 2017, P.U.(A) 416/2017"
+  - title: "Quy tắc Thuế Thu nhập (Báo cáo theo Quốc gia) (Sửa đổi) năm 2017, P.U.(A) 416/2017 (Income Tax (Country-by-Country Reporting) (Amendment) Rules 2017, P.U.(A) 416/2017)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20171228_P.U.(A)416.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Văn phòng Tổng Chưởng lý"
     date: "2017-12-27"
-  - title: "Country-by-Country Reporting (CbCR)"
+  - title: "Báo cáo theo Quốc gia (CbCR) (Country-by-Country Reporting (CbCR))"
     url: "https://www.hasil.gov.my/antarabangsa/country-by-country-reporting-cbcr/"
-    publisher: "LHDN"
-  - title: "Malaysia Transfer Pricing Guidelines 2024 — Chapter 11"
+    publisher: "Cục Thuế Nội địa (LHDN)"
+  - title: "Hướng dẫn Định giá Chuyển giao Malaysia 2024 — Chương 11 (Malaysia Transfer Pricing Guidelines 2024 — Chapter 11)"
     url: "https://www.hasil.gov.my/wp-content/uploads/malaysia-transfer-pricing-guidelines-2024.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2024-12-24"
 
 entity: "Country-by-country reporting"

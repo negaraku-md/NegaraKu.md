@@ -64,13 +64,13 @@ verificationNeeded:
   - "Melaka约于1400年建立及其归功于Parameswara一事。"
   - "时间线表中殖民时期的年份——葡萄牙征服1511年、荷兰接管1641年、Anglo-Dutch Treaty 1824年——属标准说法，但本轮未对照所抓取的原始来源加以确认。"
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "马六甲与乔治市，马六甲海峡历史名城 (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223/"
     publisher: "UNESCO World Heritage Centre"
-  - title: "George Town UNESCO World Heritage Site (About GTWHS / OUV)"
+  - title: "乔治市联合国教科文组织世界遗产（关于 GTWHS / OUV） (George Town UNESCO World Heritage Site (About GTWHS / OUV))"
     url: "https://gtwhi.com.my/about-us/george-town-unesco-world-heritage-site/"
     publisher: "George Town World Heritage Incorporated (GTWHI)"
-  - title: "Baba & Nyonya Heritage Museum — About / Visit"
+  - title: "峇峇娘惹传统博物馆 — 关于 / 参观 (Baba & Nyonya Heritage Museum — About / Visit)"
     url: "https://babanyonyamuseum.com/"
     publisher: "Baba & Nyonya Heritage Museum"
 

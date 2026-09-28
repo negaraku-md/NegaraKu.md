@@ -53,18 +53,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Withholding Tax — types of payment, provisions, rates and forms"
+  - title: "Thuế khấu trừ tại nguồn — các loại thanh toán, quy định, thuế suất và biểu mẫu (Withholding Tax — types of payment, provisions, rates and forms)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
-  - title: "Form CP37 (Pin. 1/2024) — Account of Deduction from Royalty and Interest to a Non-Resident Person"
+    publisher: "Cục Thuế Nội địa (LHDN)"
+  - title: "Mẫu CP37 (Pin. 1/2024) — Bảng khấu trừ từ Tiền bản quyền và Lãi trả cho Người không cư trú (Form CP37 (Pin. 1/2024) — Account of Deduction from Royalty and Interest to a Non-Resident Person)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37-pin-1_2024.pdf"
-    publisher: "LHDN"
-  - title: "Form CP37S (Pin. 1/2025) — Small Value Withholding Tax Payments, Royalty and Interest"
+    publisher: "Cục Thuế Nội địa (LHDN)"
+  - title: "Mẫu CP37S (Pin. 1/2025) — Nộp Thuế khấu trừ tại nguồn giá trị nhỏ, Tiền bản quyền và Lãi (Form CP37S (Pin. 1/2025) — Small Value Withholding Tax Payments, Royalty and Interest)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37s-pin-1_2025.pdf"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, sections 13 and 17"
+    publisher: "Cục Thuế Nội địa (LHDN)"
+  - title: "Phán quyết Công khai số 10/2019 — Thuế khấu trừ tại nguồn đối với các Loại Thu nhập Đặc biệt, điều 13 và 17 (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, sections 13 and 17)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2019-12-10"
 
 entity: "CP37 withholding tax forms"

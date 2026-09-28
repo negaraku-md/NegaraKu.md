@@ -58,16 +58,16 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Routine Inspection"
+  - title: "வழக்கமான பரிசோதனை (Routine Inspection)"
     url: "https://www.puspakom.com.my/routine-inspection/"
     publisher: "PUSPAKOM"
-  - title: "Frequently Asked Questions (FAQ)"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் (FAQ) (Frequently Asked Questions (FAQ))"
     url: "https://www.puspakom.com.my/faq/"
     publisher: "PUSPAKOM"
-  - title: "PUSPAKOM inspections explained: every type, when you need them, what they cost and what they check"
+  - title: "PUSPAKOM பரிசோதனைகள் விளக்கம்: ஒவ்வொரு வகையும், எப்போது தேவை, செலவு எவ்வளவு, என்ன சரிபார்க்கிறார்கள் (PUSPAKOM inspections explained: every type, when you need them, what they cost and what they check)"
     url: "https://paultan.org/2026/05/12/puspakom-inspections-explained-every-type-when-you-need-them-what-they-cost-and-what-they-check/"
     publisher: "Paul Tan's Automotive News"
-  - title: "Pembaharuan Cukai Jalan Kenderaan E-Hailing"
+  - title: "இ-ஹெய்லிங் வாகன சாலை வரி புதுப்பித்தல் (Pembaharuan Cukai Jalan Kenderaan E-Hailing)"
     url: "https://www.grab.com/my/e-hailing-road-tax-renewal-bm/"
     publisher: "Grab Malaysia"
 

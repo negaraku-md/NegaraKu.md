@@ -48,21 +48,21 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "HASiL e-Services (e-Perkhidmatan) — ByrHASiL and e-Anggaran (CP204)"
+  - title: "HASiL 电子服务（e-Perkhidmatan）— ByrHASiL 与 e-Anggaran (CP204) (HASiL e-Services (e-Perkhidmatan) — ByrHASiL and e-Anggaran (CP204))"
     url: "https://www.hasil.gov.my/en/e-perkhidmatan/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Balance of Tax Payment (Individual) — instalment appeals, CP38, CP500"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "税款余额缴付（个人）— 分期付款上诉、CP38、CP500 (Balance of Tax Payment (Individual) — instalment appeals, CP38, CP500)"
     url: "https://www.hasil.gov.my/en/individu/bayaran/baki-cukai-kena-bayar/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025)"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "媒体声明：通过MyTax上的e-Ansuran在线申请税款余额或欠税的分期付款（2025年3月18日） (Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025))"
     url: "https://www.hasil.gov.my/media/p24d2bzq/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "MyTax portal"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "MyTax 门户网站 (MyTax portal)"
     url: "https://mytax.hasil.gov.my/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "ByrHASiL online tax payment (FPX)"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "ByrHASiL 在线税款缴付（FPX） (ByrHASiL online tax payment (FPX))"
     url: "https://byrhasil.hasil.gov.my/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+    publisher: "马来西亚内陆税收局 (LHDN)"
 
 relations: []
 related: []

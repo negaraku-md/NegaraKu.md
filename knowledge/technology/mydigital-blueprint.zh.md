@@ -58,19 +58,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Malaysia Digital Economy Blueprint"
+  - title: "马来西亚数字经济蓝图 (Malaysia Digital Economy Blueprint)"
     url: "https://ekonomi.gov.my/sites/default/files/2021-02/malaysia-digital-economy-blueprint.pdf"
-    publisher: "Economic Planning Unit, Prime Minister's Department"
-  - title: "Malaysia Digital"
+    publisher: "经济策划局，首相署"
+  - title: "马来西亚数字 (Malaysia Digital)"
     url: "https://mdec.my/malaysia-digital"
     publisher: "Malaysia Digital Economy Corporation (MDEC)"
-  - title: "Malaysia Digital Status"
+  - title: "马来西亚数字身份 (Malaysia Digital Status)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/malaysia-digital-status"
     publisher: "EY Malaysia"
-  - title: "Malaysia Digital 2030 (MD2030)"
+  - title: "马来西亚数字 2030（MD2030） (Malaysia Digital 2030 (MD2030))"
     url: "https://www.mydigital.gov.my/"
-    publisher: "MyDIGITAL Corporation, Ministry of Digital"
-  - title: "Anwar unveils Malaysia Digital 2030: Targets 30pc GDP, 500,000 jobs, 95pc services online by 2030"
+    publisher: "MyDIGITAL Corporation，数字部"
+  - title: "安华公布马来西亚数字2030：目标到2030年数字经济占GDP 30%、创造50万个就业机会、95%服务在线化 (Anwar unveils Malaysia Digital 2030: Targets 30pc GDP, 500,000 jobs, 95pc services online by 2030)"
     url: "https://www.malaymail.com/news/malaysia/2026/06/29/anwar-unveils-malaysia-digital-2030-targets-30pc-gdp-500000-jobs-95pc-services-online-by-2030/225648"
     publisher: "Malay Mail"
 

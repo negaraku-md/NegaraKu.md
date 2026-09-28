@@ -57,18 +57,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Service Tax Act 2018 (Act 807), ss.25 and 26"
+  - title: "Service Tax Act 2018 (Act 807), มาตรา 25 และ 26 (Service Tax Act 2018 (Act 807), ss.25 and 26)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Act-2018.pdf"
-    publisher: "RMCD"
-  - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — regulations 12 and 14"
+    publisher: "กรมศุลกากรหลวงมาเลเซีย (RMCD)"
+  - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — ระเบียบข้อ 12 และ 14 (Service Tax Regulations 2018, P.U.(A) 214/2018 — regulations 12 and 14)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "Penalties"
+    publisher: "สำนักงานอัยการสูงสุดมาเลเซีย (AGC)"
+  - title: "บทลงโทษ (Penalties)"
     url: "https://mysst.customs.gov.my/penalties/"
-    publisher: "RMCD"
-  - title: "Filing and returns"
+    publisher: "กรมศุลกากรหลวงมาเลเซีย (RMCD)"
+  - title: "การยื่นและแบบแสดงรายการ (Filing and returns)"
     url: "https://mysst.customs.gov.my/filing-text-returns/"
-    publisher: "RMCD"
+    publisher: "กรมศุลกากรหลวงมาเลเซีย (RMCD)"
 
 entity: "SST-02 return"
 relations:

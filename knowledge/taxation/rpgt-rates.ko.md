@@ -63,21 +63,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Real Property Gains Tax (RPGT) Rates"
+  - title: "부동산 양도소득세(RPGT) 세율 (Real Property Gains Tax (RPGT) Rates)"
     url: "https://www.hasil.gov.my/en/ckht/kadar-cukai-keuntungan-harta-tanah/"
-    publisher: "LHDN"
-  - title: "Disposal Price and Acquisition Price"
+    publisher: "말레이시아 내국세청 (LHDN)"
+  - title: "처분가격 및 취득가격 (Disposal Price and Acquisition Price)"
     url: "https://www.hasil.gov.my/en/ckht/harga-pelupusan-dan-harga-pemerolehan/"
-    publisher: "LHDN"
-  - title: "Retention and Remittance of Money by Acquirer"
+    publisher: "말레이시아 내국세청 (LHDN)"
+  - title: "취득자에 의한 금전의 유보 및 송금 (Retention and Remittance of Money by Acquirer)"
     url: "https://www.hasil.gov.my/en/ckht/pegangan-dan-remitan-wang-oleh-pemeroleh/"
-    publisher: "LHDN"
-  - title: "Imposition of Penalties and Increases of Tax"
+    publisher: "말레이시아 내국세청 (LHDN)"
+  - title: "벌칙 부과 및 세액 증액 (Imposition of Penalties and Increases of Tax)"
     url: "https://www.hasil.gov.my/en/ckht/pengenaan-penalti-dan-kenaikan-atas-taksiran-cukai/"
-    publisher: "LHDN"
-  - title: "Real Property Gains Tax Act 1976 (Act 169)"
+    publisher: "말레이시아 내국세청 (LHDN)"
+  - title: "Real Property Gains Tax Act 1976 (Act 169) (Real Property Gains Tax Act 1976 (Act 169))"
     url: "https://lom.agc.gov.my/act-detail.php?act=169"
-    publisher: "Attorney General's Chambers"
+    publisher: "말레이시아 법무장관실"
 
 entity: "Real property gains tax"
 relations:

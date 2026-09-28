@@ -54,17 +54,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Sijil Taraf Mastautin / e-Residence"
+  - title: "Giấy chứng nhận Tình trạng Cư trú / e-Residence (Sijil Taraf Mastautin / e-Residence)"
     url: "https://www.hasil.gov.my/antarabangsa/sijil-taraf-mastautin-e-residence/"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2026-07-17"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.7, 8 and 61(3)"
+  - title: "Income Tax Act 1967 (Act 53), bản in lại tính đến ngày 21 tháng 5 năm 2024 — điều 7, 8 và 61(3) (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.7, 8 and 61(3))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2024-05-21"
-  - title: "Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons"
+  - title: "Phán quyết Công khai số 9/2019 — Tình trạng Cư trú của Công ty và Tổ chức của Cá nhân (Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_09_2019.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2019-12-06"
 
 entity: "Certificate of Residence"

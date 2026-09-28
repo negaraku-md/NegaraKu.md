@@ -64,21 +64,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Real Property Gains Tax (RPGT) Rates"
+  - title: "不动产利得税（RPGT）税率 (Real Property Gains Tax (RPGT) Rates)"
     url: "https://www.hasil.gov.my/en/ckht/kadar-cukai-keuntungan-harta-tanah/"
-    publisher: "LHDN"
-  - title: "Disposal Price and Acquisition Price"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "处置价格与取得价格 (Disposal Price and Acquisition Price)"
     url: "https://www.hasil.gov.my/en/ckht/harga-pelupusan-dan-harga-pemerolehan/"
-    publisher: "LHDN"
-  - title: "Retention and Remittance of Money by Acquirer"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "取得人对款项的扣留与汇缴 (Retention and Remittance of Money by Acquirer)"
     url: "https://www.hasil.gov.my/en/ckht/pegangan-dan-remitan-wang-oleh-pemeroleh/"
-    publisher: "LHDN"
-  - title: "Imposition of Penalties and Increases of Tax"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "罚款的征收与税款的增加 (Imposition of Penalties and Increases of Tax)"
     url: "https://www.hasil.gov.my/en/ckht/pengenaan-penalti-dan-kenaikan-atas-taksiran-cukai/"
-    publisher: "LHDN"
-  - title: "Real Property Gains Tax Act 1976 (Act 169)"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "Real Property Gains Tax Act 1976 (Act 169) (Real Property Gains Tax Act 1976 (Act 169))"
     url: "https://lom.agc.gov.my/act-detail.php?act=169"
-    publisher: "Attorney General's Chambers"
+    publisher: "马来西亚总检察署"
 
 entity: "Real property gains tax"
 relations:

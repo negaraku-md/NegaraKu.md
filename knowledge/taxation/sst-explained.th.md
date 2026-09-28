@@ -42,12 +42,12 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Royal Malaysian Customs Department — MySST"
+  - title: "กรมศุลกากรหลวงมาเลเซีย — MySST (Royal Malaysian Customs Department — MySST)"
     url: "https://mysst.customs.gov.my/"
-    publisher: "RMCD"
-  - title: "Royal Malaysian Customs Department — legislation"
+    publisher: "กรมศุลกากรหลวงมาเลเซีย (RMCD)"
+  - title: "กรมศุลกากรหลวงมาเลเซีย — กฎหมาย (Royal Malaysian Customs Department — legislation)"
     url: "https://www.customs.gov.my/en/legislation/acts"
-    publisher: "RMCD"
+    publisher: "กรมศุลกากรหลวงมาเลเซีย (RMCD)"
 
 entity: "Sales and Service Tax (SST)"
 relations:

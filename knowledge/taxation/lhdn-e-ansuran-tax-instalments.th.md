@@ -48,21 +48,21 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "HASiL e-Services (e-Perkhidmatan) — ByrHASiL and e-Anggaran (CP204)"
+  - title: "บริการอิเล็กทรอนิกส์ HASiL (e-Perkhidmatan) — ByrHASiL และ e-Anggaran (CP204) (HASiL e-Services (e-Perkhidmatan) — ByrHASiL and e-Anggaran (CP204))"
     url: "https://www.hasil.gov.my/en/e-perkhidmatan/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Balance of Tax Payment (Individual) — instalment appeals, CP38, CP500"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "การชำระภาษีคงเหลือ (บุคคลธรรมดา) — การอุทธรณ์การผ่อนชำระ, CP38, CP500 (Balance of Tax Payment (Individual) — instalment appeals, CP38, CP500)"
     url: "https://www.hasil.gov.my/en/individu/bayaran/baki-cukai-kena-bayar/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025)"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "แถลงข่าว: การยื่นขอผ่อนชำระภาษีคงเหลือหรือภาษีค้างชำระออนไลน์ผ่าน e-Ansuran บน MyTax (18 มีนาคม 2025) (Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025))"
     url: "https://www.hasil.gov.my/media/p24d2bzq/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "MyTax portal"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "พอร์ทัล MyTax (MyTax portal)"
     url: "https://mytax.hasil.gov.my/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "ByrHASiL online tax payment (FPX)"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
+  - title: "การชำระภาษีออนไลน์ ByrHASiL (FPX) (ByrHASiL online tax payment (FPX))"
     url: "https://byrhasil.hasil.gov.my/"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
+    publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
 
 relations: []
 related: []

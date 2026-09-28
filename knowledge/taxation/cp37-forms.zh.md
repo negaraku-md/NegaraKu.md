@@ -55,18 +55,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Withholding Tax — types of payment, provisions, rates and forms"
+  - title: "预扣税——付款类型、条文、税率及表格 (Withholding Tax — types of payment, provisions, rates and forms)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
-  - title: "Form CP37 (Pin. 1/2024) — Account of Deduction from Royalty and Interest to a Non-Resident Person"
+    publisher: "内陆税收局 (LHDN)"
+  - title: "CP37表格（Pin. 1/2024）——向非居民支付的特许权使用费及利息之扣除账目 (Form CP37 (Pin. 1/2024) — Account of Deduction from Royalty and Interest to a Non-Resident Person)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37-pin-1_2024.pdf"
-    publisher: "LHDN"
-  - title: "Form CP37S (Pin. 1/2025) — Small Value Withholding Tax Payments, Royalty and Interest"
+    publisher: "内陆税收局 (LHDN)"
+  - title: "CP37S表格（Pin. 1/2025）——小额预扣税缴付，特许权使用费及利息 (Form CP37S (Pin. 1/2025) — Small Value Withholding Tax Payments, Royalty and Interest)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37s-pin-1_2025.pdf"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, sections 13 and 17"
+    publisher: "内陆税收局 (LHDN)"
+  - title: "公共裁定第10/2019号——特殊类别所得的预扣税，第13及17条 (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, sections 13 and 17)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "内陆税收局 (LHDN)"
     date: "2019-12-10"
 
 entity: "CP37 withholding tax forms"

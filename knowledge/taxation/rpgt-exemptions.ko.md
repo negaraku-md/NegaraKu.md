@@ -52,18 +52,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Real Property Gains Tax Act 1976 (Act 169), consolidated text"
+  - title: "Real Property Gains Tax Act 1976 (Act 169), 통합본 (Real Property Gains Tax Act 1976 (Act 169), consolidated text)"
     url: "https://lom.agc.gov.my/act-detail.php?act=169"
-    publisher: "Attorney General's Chambers"
-  - title: "RPGT Exemption"
+    publisher: "말레이시아 법무장관실"
+  - title: "RPGT 면제 (RPGT Exemption)"
     url: "https://www.hasil.gov.my/en/ckht/pengecualian/"
-    publisher: "LHDN"
-  - title: "Types of RPGT Return Forms"
+    publisher: "말레이시아 내국세청 (LHDN)"
+  - title: "RPGT 신고서 양식의 종류 (Types of RPGT Return Forms)"
     url: "https://www.hasil.gov.my/en/ckht/jenis-borang-nyata-ckht/"
-    publisher: "LHDN"
-  - title: "Retention and Remittance of Money by Acquirer"
+    publisher: "말레이시아 내국세청 (LHDN)"
+  - title: "취득자에 의한 금전의 유보 및 송금 (Retention and Remittance of Money by Acquirer)"
     url: "https://www.hasil.gov.my/en/ckht/pegangan-dan-remitan-wang-oleh-pemeroleh/"
-    publisher: "LHDN"
+    publisher: "말레이시아 내국세청 (LHDN)"
 
 entity: "RPGT exemptions"
 relations:

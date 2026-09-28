@@ -53,17 +53,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, section 14"
+  - title: "Public Ruling No. 10/2019 — 特別区分の所得に対する源泉徴収税、第14項 (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, section 14)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
     date: "2019-12-10"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.39(1)(f), 39(1)(i), 39(1)(j), 106, 109B(2), 113(2), 131A"
+  - title: "Income Tax Act 1967 (Act 53), 2024年5月21日現在の再版 — 第39(1)(f)条、39(1)(i)条、39(1)(j)条、106条、109B(2)条、113(2)条、131A条 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.39(1)(f), 39(1)(i), 39(1)(j), 106, 109B(2), 113(2), 131A)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
     date: "2024-05-21"
-  - title: "Withholding Tax — Enforcement"
+  - title: "源泉徴収税 — 執行 (Withholding Tax — Enforcement)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
+    publisher: "内国歳入庁 (LHDN)"
 
 entity: "Withholding tax non-compliance"
 relations:

@@ -59,20 +59,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons"
+  - title: "பொது தீர்ப்பு எண். 9/2019 — நிறுவனங்கள் மற்றும் நபர்களின் அமைப்புகளின் குடியிருப்பு நிலை (Public Ruling No. 9/2019 — Residence Status of Companies and Bodies of Persons)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_09_2019.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2019-12-06"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 8 and 61(3), Schedule 1 Part I"
+  - title: "Income Tax Act 1967 (Act 53), 21 மே 2024 நிலவரப்படி மறுபதிப்பு — பிரிவுகள் 8 மற்றும் 61(3), அட்டவணை 1 பகுதி I (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — sections 8 and 61(3), Schedule 1 Part I)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2024-05-21"
-  - title: "Company Resident Status"
+  - title: "நிறுவனத்தின் குடியிருப்பு நிலை (Company Resident Status)"
     url: "https://www.hasil.gov.my/en/syarikat/taraf-mastautin-syarikat/"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 2/2025 — Group Relief for Companies"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "பொது தீர்ப்பு எண். 2/2025 — நிறுவனங்களுக்கான குழு நிவாரணம் (Public Ruling No. 2/2025 — Group Relief for Companies)"
     url: "https://www.hasil.gov.my/wp-content/uploads/pr-2-2025-group-relief-for-companies.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-07-31"
 
 entity: "Company tax residence"

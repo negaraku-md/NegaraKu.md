@@ -44,17 +44,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — Schedule 3 paragraph 2(2) and s.39(1)(k)"
+  - title: "Income Tax Act 1967 (Act 53), 2024 மே 21 நிலவரப்படி மறுபதிப்பு — அட்டவணை 3 பத்தி 2(2) மற்றும் s.39(1)(k) (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — Schedule 3 paragraph 2(2) and s.39(1)(k))"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2024-05-21"
-  - title: "Public Ruling No. 6/2015 — Qualifying Expenditure and Computation of Capital Allowances"
+  - title: "பொது தீர்ப்பு எண். 6/2015 — தகுதிவாய்ந்த செலவினம் மற்றும் மூலதனக் கழிவுத் தொகை கணக்கீடு (Public Ruling No. 6/2015 — Qualifying Expenditure and Computation of Capital Allowances)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_6_2015.pdf"
-    publisher: "LHDN"
+    publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2015-08-27"
-  - title: "Income Tax (Deduction for Rental Payments) (Electric Motor Vehicles) Rules 2026, P.U.(A) 232/2026"
+  - title: "Income Tax (Deduction for Rental Payments) (Electric Motor Vehicles) Rules 2026, P.U.(A) 232/2026 (Income Tax (Deduction for Rental Payments) (Electric Motor Vehicles) Rules 2026, P.U.(A) 232/2026)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/3571327/PUA%20232%20%282026%29.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "மலேசிய சட்ட மா அதிபர் அலுவலகம்"
     date: "2026-06-26"
 
 entity: "Motor vehicle capital allowance restriction"

@@ -48,15 +48,15 @@ revisions: []
 
 updated: 2026-09-10
 sources:
-  - title: "Targeted Revision of Sales Tax Rate and Expansion of Service Tax Scope Effective 1 July 2025"
+  - title: "การปรับอัตราภาษีการขายแบบเจาะจงและการขยายขอบเขตภาษีบริการ มีผลบังคับใช้ 1 กรกฎาคม 2025 (Targeted Revision of Sales Tax Rate and Expansion of Service Tax Scope Effective 1 July 2025)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/targeted-revision-of-sales-tax-rate-and-expansion-of-service-tax-scope-effective-1-july-2025"
-    publisher: "Ministry of Finance Malaysia"
-  - title: "Revision to the Expanded Sales Tax and Service Tax Take Into Account Public and Industry Feedback"
+    publisher: "กระทรวงการคลังมาเลเซีย"
+  - title: "การปรับปรุงภาษีการขายและภาษีบริการที่ขยายขอบเขตโดยคำนึงถึงความคิดเห็นของประชาชนและภาคอุตสาหกรรม (Revision to the Expanded Sales Tax and Service Tax Take Into Account Public and Industry Feedback)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/revision-to-the-expanded-sales-tax-and-service-tax-take-into-account-public-and-industry-feedback"
-    publisher: "Ministry of Finance Malaysia"
-  - title: "FAQ — Expansion of Service Tax Scope 2025 (Rental or Leasing Services)"
+    publisher: "กระทรวงการคลังมาเลเซีย"
+  - title: "คำถามที่พบบ่อย — การขยายขอบเขตภาษีบริการ 2025 (บริการเช่าหรือลีสซิ่ง) (FAQ — Expansion of Service Tax Scope 2025 (Rental or Leasing Services))"
     url: "https://mysst.customs.gov.my/faq-expansion-of-service-tax-scope-2025/"
-    publisher: "Royal Malaysian Customs Department (RMCD) / MySST"
+    publisher: "กรมศุลกากรหลวงมาเลเซีย (RMCD) / MySST"
 
 entity: "Service Tax on Rental or Leasing (Malaysia)"
 relations:

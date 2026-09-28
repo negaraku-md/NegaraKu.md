@@ -54,18 +54,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Withholding Tax — types of payment, provisions, rates and forms"
+  - title: "நிறுத்திவைப்பு வரி — கட்டண வகைகள், விதிகள், விகிதங்கள் மற்றும் படிவங்கள் (Withholding Tax — types of payment, provisions, rates and forms)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
-  - title: "Form CP37 (Pin. 1/2024) — Account of Deduction from Royalty and Interest to a Non-Resident Person"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "படிவம் CP37 (Pin. 1/2024) — குடியிருப்பாளர் அல்லாதவருக்கான ராயல்டி மற்றும் வட்டியிலிருந்து கழிப்பு கணக்கு (Form CP37 (Pin. 1/2024) — Account of Deduction from Royalty and Interest to a Non-Resident Person)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37-pin-1_2024.pdf"
-    publisher: "LHDN"
-  - title: "Form CP37S (Pin. 1/2025) — Small Value Withholding Tax Payments, Royalty and Interest"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "படிவம் CP37S (Pin. 1/2025) — சிறு மதிப்பு நிறுத்திவைப்பு வரிச் செலுத்துதல்கள், ராயல்டி மற்றும் வட்டி (Form CP37S (Pin. 1/2025) — Small Value Withholding Tax Payments, Royalty and Interest)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37s-pin-1_2025.pdf"
-    publisher: "LHDN"
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, sections 13 and 17"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+  - title: "பொது தீர்ப்பு எண். 10/2019 — சிறப்பு வகை வருமானம் மீதான நிறுத்திவைப்பு வரி, பிரிவுகள் 13 மற்றும் 17 (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income, sections 13 and 17)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2019-12-10"
 
 entity: "CP37 withholding tax forms"

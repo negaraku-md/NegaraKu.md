@@ -63,20 +63,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Soalan Lazim — Penyeteman Kontrak Penggajian Di Malaysia"
+  - title: "Câu hỏi Thường gặp — Đóng dấu Hợp đồng Lao động tại Malaysia (Soalan Lazim — Penyeteman Kontrak Penggajian Di Malaysia)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20250703-pkpe_faq-penyeteman-kontrak-penggajian-di-malaysia.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2025-07-03"
-  - title: "Media Release HASiL/2025/06/06 — 50, Stamp Duty Exemption for Employment Contracts Finalised Before 1 January 2025"
+  - title: "Media Release HASiL/2025/06/06 — 50, Miễn Thuế tem cho Hợp đồng Lao động Được Hoàn tất Trước ngày 1 tháng 1 năm 2025 (Media Release HASiL/2025/06/06 — 50, Stamp Duty Exemption for Employment Contracts Finalised Before 1 January 2025)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20250606_kenyataan-media-hasil_pengecualian-pengenaan-ds-untuk-kontrak-penggajian-yang-dimuktamadkan-sebelum-1-januari-2025.pdf"
-    publisher: "LHDN"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2025-06-06"
-  - title: "Stamp Act 1949 (Act 378), text as at 1 January 2024"
+  - title: "Stamp Act 1949 (Act 378), văn bản tính đến ngày 1 tháng 1 năm 2024 (Stamp Act 1949 (Act 378), text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
-    publisher: "Attorney General's Chambers"
-  - title: "Finance Act 2025 (Act 874) — amendment of the First Schedule, item 4"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
+  - title: "Finance Act 2025 (Act 874) — sửa đổi Phụ lục Thứ nhất, mục 4 (Finance Act 2025 (Act 874) — amendment of the First Schedule, item 4)"
     url: "https://lom.agc.gov.my/act-detail.php?act=874"
-    publisher: "Attorney General's Chambers"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
 
 entity: "Stamp duty on employment contracts"
 relations:

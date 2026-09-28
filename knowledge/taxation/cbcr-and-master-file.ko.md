@@ -69,20 +69,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Income Tax (Country-by-Country Reporting) Rules 2016, P.U.(A) 357/2016"
+  - title: "소득세(국가별 보고) 규칙 2016, P.U.(A) 357/2016 (Income Tax (Country-by-Country Reporting) Rules 2016, P.U.(A) 357/2016)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20161223_(008)%20%2011%2011%202016%20%20Draf%20muktamad.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "법무장관실"
     date: "2016-12-23"
-  - title: "Income Tax (Country-by-Country Reporting) (Amendment) Rules 2017, P.U.(A) 416/2017"
+  - title: "소득세(국가별 보고)(개정) 규칙 2017, P.U.(A) 416/2017 (Income Tax (Country-by-Country Reporting) (Amendment) Rules 2017, P.U.(A) 416/2017)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20171228_P.U.(A)416.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "법무장관실"
     date: "2017-12-27"
-  - title: "Country-by-Country Reporting (CbCR)"
+  - title: "국가별 보고 (CbCR) (Country-by-Country Reporting (CbCR))"
     url: "https://www.hasil.gov.my/antarabangsa/country-by-country-reporting-cbcr/"
-    publisher: "LHDN"
-  - title: "Malaysia Transfer Pricing Guidelines 2024 — Chapter 11"
+    publisher: "내국세입청 (LHDN)"
+  - title: "말레이시아 이전가격 지침 2024 — 제11장 (Malaysia Transfer Pricing Guidelines 2024 — Chapter 11)"
     url: "https://www.hasil.gov.my/wp-content/uploads/malaysia-transfer-pricing-guidelines-2024.pdf"
-    publisher: "LHDN"
+    publisher: "내국세입청 (LHDN)"
     date: "2024-12-24"
 
 entity: "Country-by-country reporting"

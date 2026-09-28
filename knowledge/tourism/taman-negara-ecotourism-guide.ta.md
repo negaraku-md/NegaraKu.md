@@ -57,18 +57,18 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Taman Negara Pahang, Kuala Tahan (official park page)"
+  - title: "தமன் நெகாரா பகாங், குவாலா தாஹான் (அதிகாரப்பூர்வ பூங்கா பக்கம்) (Taman Negara Pahang, Kuala Tahan (official park page))"
     url: "https://www.wildlife.gov.my/en/taman-negara-pahang-kuala-tahan/"
-    publisher: "Department of Wildlife and National Parks (PERHILITAN)"
-  - title: "Frequently Asked Questions — Ecotourism"
+    publisher: "வனவிலங்கு மற்றும் தேசியப் பூங்காக்கள் திணைக்களம் (PERHILITAN)"
+  - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் — சூழலியல் சுற்றுலா (Frequently Asked Questions — Ecotourism)"
     url: "https://www.wildlife.gov.my/en/soalan-lazim-ekopelancongan/"
-    publisher: "Department of Wildlife and National Parks (PERHILITAN)"
-  - title: "Historical and Current Legislations of Taman Negara National Park Peninsular Malaysia"
+    publisher: "வனவிலங்கு மற்றும் தேசியப் பூங்காக்கள் திணைக்களம் (PERHILITAN)"
+  - title: "தீபகற்ப மலேசியாவின் தமன் நெகாரா தேசியப் பூங்காவின் வரலாற்று மற்றும் தற்போதைய சட்டங்கள் (Historical and Current Legislations of Taman Negara National Park Peninsular Malaysia)"
     url: "https://ccsenet.org/journal/index.php/jpl/article/view/384"
     publisher: "Journal of Politics and Law, Vol. 2 No. 1 (2009)"
-  - title: "Taman Negara guides urge partial reopening of canopy walkways before VMY 2026"
+  - title: "VMY 2026க்கு முன் விதான நடைபாதைகளைப் பகுதியளவில் மீண்டும் திறக்குமாறு தமன் நெகாரா வழிகாட்டிகள் வலியுறுத்துகின்றனர் (Taman Negara guides urge partial reopening of canopy walkways before VMY 2026)"
     url: "https://pahangtourism.org.my/index.php?option=com_content&view=article&id=82"
-    publisher: "Tourism Pahang Official Portal"
+    publisher: "Tourism Pahang அதிகாரப்பூர்வ போர்ட்டல்"
 
 entity: "Taman Negara"
 wikidata: "Q728141"

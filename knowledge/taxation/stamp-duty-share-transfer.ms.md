@@ -65,20 +65,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Garis Panduan Mengenai Duti Setem Ke Atas Suratcara Pindah Milik Saham Bagi Saham Syarikat Yang Tidak Tersenarai Di Bursa Malaysia Berhad"
+  - title: "Garis Panduan Mengenai Duti Setem Ke Atas Suratcara Pindah Milik Saham Bagi Saham Syarikat Yang Tidak Tersenarai Di Bursa Malaysia Berhad (Garis Panduan Mengenai Duti Setem Ke Atas Suratcara Pindah Milik Saham Bagi Saham Syarikat Yang Tidak Tersenarai Di Bursa Malaysia Berhad)"
     url: "https://www.hasil.gov.my/wp-content/uploads/GP_SAHAM_2019_23062020_1.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2019-11-06"
-  - title: "Guidelines on Capital Gains Tax for Unlisted Shares, LHDN.AG.600-1/7/3"
+  - title: "Garis Panduan mengenai Cukai Keuntungan Modal bagi Saham Tidak Tersenarai, LHDN.AG.600-1/7/3 (Guidelines on Capital Gains Tax for Unlisted Shares, LHDN.AG.600-1/7/3)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20250721-guidelines-on-capital-gains-tax-for-unlisted-shares.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2025-07-21"
-  - title: "Section 105 — Form of Transfer of Securities"
+  - title: "Seksyen 105 — Borang Pindah Milik Sekuriti (Section 105 — Form of Transfer of Securities)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%202/section_105-_form_of_transfer_of_securities_130317.pdf"
-    publisher: "SSM"
-  - title: "Garis Panduan Operasi — Permohonan Penyeteman Melalui Sistem Taksir Sendiri Duti Setem"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Garis Panduan Operasi — Permohonan Penyeteman Melalui Sistem Taksir Sendiri Duti Setem (Garis Panduan Operasi — Permohonan Penyeteman Melalui Sistem Taksir Sendiri Duti Setem)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20251226-garis-panduan-operasi-permohonan-penyeteman-melalui-sistem-taksir-sendiri-duti-setem.pdf"
-    publisher: "LHDN"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2025-12-26"
 
 entity: "Stamp duty on share transfers"

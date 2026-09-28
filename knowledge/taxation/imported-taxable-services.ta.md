@@ -52,18 +52,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Service Tax Act 2018 (Act 807), s.26A"
+  - title: "Service Tax Act 2018 (Act 807), s.26A (Service Tax Act 2018 (Act 807), s.26A)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Act-2018.pdf"
-    publisher: "RMCD"
-  - title: "Form SST-02A — Service Tax Declaration by Person Other Than Registered Person"
+    publisher: "மலேசிய அரச சுங்கத் துறை (RMCD)"
+  - title: "படிவம் SST-02A — பதிவு செய்யப்படாத நபரால் சேவை வரி பிரகடனம் (Form SST-02A — Service Tax Declaration by Person Other Than Registered Person)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/SST-02A-Latest-Release.pdf"
-    publisher: "RMCD"
-  - title: "SST Forms"
+    publisher: "மலேசிய அரச சுங்கத் துறை (RMCD)"
+  - title: "SST படிவங்கள் (SST Forms)"
     url: "https://mysst.customs.gov.my/sst-forms/"
-    publisher: "RMCD"
-  - title: "Service Tax (Rate of Tax) (Amendment) Order 2025, P.U.(A) 173/2025"
+    publisher: "மலேசிய அரச சுங்கத் துறை (RMCD)"
+  - title: "Service Tax (Rate of Tax) (Amendment) Order 2025, P.U.(A) 173/2025 (Service Tax (Rate of Tax) (Amendment) Order 2025, P.U.(A) 173/2025)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2905104/PUA%20173%20(2025).pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "மலேசிய சட்ட மா அதிபர் அலுவலகம்"
     date: "2025-06-09"
 
 entity: "Imported taxable services"

@@ -68,20 +68,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income"
+  - title: "公共裁定第10/2019号 — 特殊类别收入的预扣税 (Public Ruling No. 10/2019 — Withholding Tax on Special Classes of Income)"
     url: "https://www.hasil.gov.my/wp-content/uploads/PR_10_2019.pdf"
-    publisher: "LHDN"
+    publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2019-12-10"
-  - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.4A, 15A, 39(1)(j), 109B, 109H and Schedule 1 Part V"
+  - title: "Income Tax Act 1967 (Act 53), 截至2024年5月21日的重印本 — 第4A、15A、39(1)(j)、109B、109H条及附表1第V部 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — ss.4A, 15A, 39(1)(j), 109B, 109H and Schedule 1 Part V)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
-    publisher: "LHDN"
+    publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2024-05-21"
-  - title: "Withholding Tax"
+  - title: "预扣税 (Withholding Tax)"
     url: "https://www.hasil.gov.my/en/perundangan/cukai-pegangan/"
-    publisher: "LHDN"
-  - title: "Form CP37D (Pin. 1/2024) — Account of Deductions from Special Classes of Income under Section 4A"
+    publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "CP37D表格（Pin. 1/2024） — 第4A条下特殊类别收入扣除账目 (Form CP37D (Pin. 1/2024) — Account of Deductions from Special Classes of Income under Section 4A)"
     url: "https://www.hasil.gov.my/wp-content/uploads/cp37d-pin-1_2024.pdf"
-    publisher: "LHDN"
+    publisher: "马来西亚内陆税收局 (LHDN)"
 
 entity: "Section 109B withholding tax"
 relations:

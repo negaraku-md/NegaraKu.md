@@ -54,13 +54,13 @@ revisions:
 
 updated: 2026-07-28
 sources:
-  - title: "Conservation Charge & Fee Rates"
+  - title: "Caj Pemuliharaan & Kadar Yuran (Conservation Charge & Fee Rates)"
     url: "https://www.dof.gov.my/en/services/marine-park-resource-management/conservation-charge-fee-rates/"
-    publisher: "Department of Fisheries Malaysia"
-  - title: "Management of Marine Parks, Turtle Centres and Sanctuaries"
+    publisher: "Jabatan Perikanan Malaysia"
+  - title: "Pengurusan Taman Laut, Pusat Penyu dan Santuari (Management of Marine Parks, Turtle Centres and Sanctuaries)"
     url: "https://www.dof.gov.my/en/services/marine-park-resource-management/marine-park-management/"
-    publisher: "Department of Fisheries Malaysia"
-  - title: "As tourist arrivals rise, Terengganu islands close resorts and hotels in preparation for northeast monsoon"
+    publisher: "Jabatan Perikanan Malaysia"
+  - title: "Ketika ketibaan pelancong meningkat, pulau-pulau Terengganu tutup resort dan hotel sebagai persediaan menghadapi monsun timur laut (As tourist arrivals rise, Terengganu islands close resorts and hotels in preparation for northeast monsoon)"
     url: "https://www.malaymail.com/news/malaysia/2024/09/27/as-tourist-arrivals-rise-terengganu-islands-close-resorts-and-hotels-in-preparation-for-northeast-monsoon/151773"
     publisher: "Malay Mail"
 

@@ -56,18 +56,18 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Service Tax Act 2018 (Act 807), ss.25 and 26"
+  - title: "Service Tax Act 2018 (Act 807), mục 25 và 26 (Service Tax Act 2018 (Act 807), ss.25 and 26)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Act-2018.pdf"
-    publisher: "RMCD"
-  - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — regulations 12 and 14"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
+  - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — quy định 12 và 14 (Service Tax Regulations 2018, P.U.(A) 214/2018 — regulations 12 and 14)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
-    publisher: "Attorney General's Chambers"
-  - title: "Penalties"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
+  - title: "Các hình phạt (Penalties)"
     url: "https://mysst.customs.gov.my/penalties/"
-    publisher: "RMCD"
-  - title: "Filing and returns"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
+  - title: "Nộp hồ sơ và tờ khai (Filing and returns)"
     url: "https://mysst.customs.gov.my/filing-text-returns/"
-    publisher: "RMCD"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
 
 entity: "SST-02 return"
 relations:

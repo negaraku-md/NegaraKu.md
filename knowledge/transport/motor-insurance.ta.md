@@ -40,18 +40,18 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Act 333 — Road Transport Act 1987"
+  - title: "சட்டம் 333 — Road Transport Act 1987 (Act 333 — Road Transport Act 1987)"
     url: "https://www.jpj.gov.my/en/act-333/"
-    publisher: "Jabatan Pengangkutan Jalan Malaysia (JPJ)"
-  - title: "Motor Vehicle License Renewal Guide (LKM)"
+    publisher: "மலேசிய தரைவழிப் போக்குவரத்துத் துறை (JPJ)"
+  - title: "மோட்டார் வாகன உரிமப் புதுப்பித்தல் வழிகாட்டி (LKM) (Motor Vehicle License Renewal Guide (LKM))"
     url: "https://www.jpj.gov.my/en/motor-vehicle-license-renewal-guide-lkm/"
-    publisher: "Jabatan Pengangkutan Jalan Malaysia (JPJ)"
-  - title: "Insurans Kenderaan"
+    publisher: "மலேசிய தரைவழிப் போக்குவரத்துத் துறை (JPJ)"
+  - title: "வாகனக் காப்பீடு (Insurans Kenderaan)"
     url: "https://piam.org.my/bm/insurance-101/individual/motor/"
-    publisher: "Persatuan Insurans Am Malaysia (PIAM)"
-  - title: "Liberalisation of Motor Insurance"
+    publisher: "மலேசிய பொது காப்பீட்டு சங்கம் (PIAM)"
+  - title: "மோட்டார் காப்பீட்டு தாராளமயமாக்கல் (Liberalisation of Motor Insurance)"
     url: "https://www.bnm.gov.my/-/liberalisation-of-motor-insurance-1"
-    publisher: "Bank Negara Malaysia (BNM)"
+    publisher: "மலேசிய தேசிய வங்கி (BNM)"
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
