@@ -22,9 +22,9 @@ appliesTo: "Độc giả muốn biết các mục tiêu, chỉ tiêu và khung t
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

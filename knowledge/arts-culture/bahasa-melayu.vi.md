@@ -36,9 +36,9 @@ socialTitle: "Tiếng Mã Lai trở thành ngôn ngữ quốc gia ra sao — và
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

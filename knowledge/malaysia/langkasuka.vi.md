@@ -20,7 +20,7 @@ appliesTo: "Độc giả muốn biết điều gì đã tồn tại ở Bán đ�
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

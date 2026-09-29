@@ -46,7 +46,7 @@ verificationNeeded:
   - "Bản RFP 'JP2' của Giai đoạn 2 JENDELA được The Edge báo cáo là ban hành vào 'ngày 31 tháng 3'; xác nhận năm là 2026 đối chiếu với một nguồn của MCMC/Bộ Truyền thông."
   - "Ngày ban hành Chỉ thị Bộ trưởng số 3 năm 2021 (31 tháng 5 năm 2021) được lấy từ SoyaCincau; xác nhận đối chiếu với công báo chính thức hoặc hồ sơ của MCMC."
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

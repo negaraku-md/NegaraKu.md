@@ -43,7 +43,7 @@ translationStatus: "pending"
 verificationNeeded:
   - "Liệu một trang hộ chiếu trống có được yêu cầu chính thức để nhập cảnh hay không (không được nêu trên nguồn MIDA được trích dẫn)."
 
-status: "draft"
+status: "published"
 publishedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null

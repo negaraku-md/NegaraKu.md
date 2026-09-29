@@ -165,9 +165,9 @@ const CHANNEL_COLORS: Record<string, string> = { search: '#FFC000', ai: '#c084fc
 const trendDays = Object.entries(series.days ?? {})
   .sort(([a], [b]) => a.localeCompare(b))
   .map(([day, dd]) => ({ day, readers: dd.readers ?? 0, ai: dd.ai ?? 0, search: dd.search ?? 0, byChannel: dd.byChannel ?? {}, byLang: dd.byLang ?? {}, aiByBot: dd.aiByBot ?? {} }));
-const LANG_COLORS: Record<string, string> = { ms: '#FFC000', en: '#60a5fa', zh: '#f472b6', ta: '#4ade80', ja: '#c084fc', ko: '#fb923c', th: '#38bdf8' };
-const LANG_ORDER = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th'];
-const langLabels: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語', ko: '한국어', th: 'ไทย' };
+const LANG_COLORS: Record<string, string> = { ms: '#FFC000', en: '#60a5fa', zh: '#f472b6', ta: '#4ade80', ja: '#c084fc', ko: '#fb923c', th: '#38bdf8', vi: '#f87171' };
+const LANG_ORDER = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi'];
+const langLabels: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語', ko: '한국어', th: 'ไทย', vi: 'Tiếng Việt' };
 const chLabels: Record<string, string> = Object.fromEntries(CH_ORDER.map((id) => [id, CHANNEL_META[id]?.label ?? id]));
 const seoMonths = Object.entries(gsc.byMonth ?? {})
   .sort(([a], [b]) => a.localeCompare(b))

@@ -202,6 +202,29 @@ const redirects = {
   '/th/technology/mcmc-malaysia': '/th/government/mcmc-communications-multimedia-commission',
   '/th/government/ma63-sabah-sarawak-autonomy': '/th/malaysia/ma63',
   '/th/glossary/dasar-ekonomi-baru': '/th/malaysia/new-economic-policy',
+  // /vi mirrors of every retired-dupe redirect above (added 2026-09-29 at Vietnamese
+  // open launch; the .vi dupes are archived like their ms/en/zh/ta/ja/ko/th siblings).
+  '/vi/government/national-registration-department-jpn': '/vi/government/jpn',
+  '/vi/government/ministry-of-investment-trade-industry-miti': '/vi/government/miti',
+  '/vi/glossary/bank-negara-malaysia': '/vi/economy/bank-negara-malaysia',
+  '/vi/government/bank-negara-malaysia': '/vi/economy/bank-negara-malaysia',
+  '/vi/energy/petronas': '/vi/companies/petronas',
+  '/vi/industries/petronas-industry-profile': '/vi/companies/petronas',
+  '/vi/law/personal-data-protection-act-2010': '/vi/law/pdpa-2010',
+  '/vi/business/cyber-security-act-malaysia': '/vi/technology/cyber-security-act-2024',
+  '/vi/companies/pnb-and-asnb': '/vi/economy/pnb',
+  '/vi/glossary/felda': '/vi/agriculture/felda-land-settlement-scheme',
+  '/vi/glossary/orang-asli': '/vi/arts-culture/orang-asli',
+  '/vi/energy/tnb-tenaga-nasional': '/vi/companies/tenaga-nasional',
+  '/vi/companies/khazanah-nasional': '/vi/economy/khazanah',
+  '/vi/glossary/khazanah-nasional': '/vi/economy/khazanah',
+  '/vi/economy/deposit-insurance-pidm': '/vi/finance/pidm-deposit-and-takaful-insurance-protection',
+  '/vi/glossary/polis-diraja-malaysia': '/vi/government/pdrm',
+  '/vi/public-safety/royal-malaysia-police-pdrm': '/vi/government/pdrm',
+  '/vi/glossary/suruhanjaya-pilihan-raya': '/vi/government/spr-election-commission',
+  '/vi/technology/mcmc-malaysia': '/vi/government/mcmc-communications-multimedia-commission',
+  '/vi/government/ma63-sabah-sarawak-autonomy': '/vi/malaysia/ma63',
+  '/vi/glossary/dasar-ekonomi-baru': '/vi/malaysia/new-economic-policy',
 };
 
 export default defineConfig({
@@ -240,12 +263,9 @@ export default defineConfig({
   integrations: [
     mdx(),
     sitemap({
-      // ms/en/zh/ta/ja/ko/th are fully launched (in LOCALES, indexed, in this sitemap).
-      // Vietnamese (`vi`) is SOFT-LAUNCHED (Phase 0): routes/chrome build for preview
-      // but held OUT of LOCALES (→ noindex) and out of this sitemap via the filter,
-      // until launch-ready. Remove the filter + add vi to the locales map (and to
-      // LOCALES in i18n.ts) at open launch.
-      filter: (page) => !/\/vi(\/|$)/.test(page),
+      // ms/en/zh/ta/ja/ko/th/vi are all fully launched (in LOCALES, indexed, in this
+      // sitemap). vi joined at its Phase 3 open launch (2026-09-29) — the soft-launch
+      // filter that excluded /vi was removed then.
       i18n: {
         defaultLocale: 'ms',
         locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi' },

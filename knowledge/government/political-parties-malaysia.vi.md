@@ -43,9 +43,9 @@ lang: "vi"
 masterLanguage: "ms"
 translationStatus: "pending"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

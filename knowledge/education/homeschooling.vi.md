@@ -21,7 +21,7 @@ appliesTo: "Cha mẹ Malaysia đang cân nhắc giáo dục tại nhà cho một
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

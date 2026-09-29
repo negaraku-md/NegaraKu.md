@@ -39,7 +39,7 @@ lang: "vi"
 masterLanguage: "ms"
 translationStatus: "pending"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

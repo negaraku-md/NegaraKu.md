@@ -21,7 +21,7 @@ appliesTo: "Học sinh, giáo viên, các nhà nghiên cứu và độc giả ph
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

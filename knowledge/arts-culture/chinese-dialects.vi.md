@@ -34,7 +34,7 @@ socialTitle: "Cùng là người Hoa, vì sao lại nói tiếng khác nhau? B�
 lang: "vi"
 masterLanguage: "zh"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

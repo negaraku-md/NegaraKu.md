@@ -19,7 +19,7 @@ appliesTo: "Độc giả từng nghe cái tên Gangga Negara trong giờ học l
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

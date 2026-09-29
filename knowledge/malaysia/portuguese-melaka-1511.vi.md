@@ -21,7 +21,7 @@ appliesTo: "Độc giả muốn hiểu các nguyên nhân kỹ thuật và chín
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

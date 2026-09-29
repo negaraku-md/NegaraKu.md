@@ -22,7 +22,7 @@ appliesTo: "Bất kỳ ai muốn hiểu sự khác biệt về nguồn gốc, â
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

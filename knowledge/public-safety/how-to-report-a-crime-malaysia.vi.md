@@ -47,7 +47,7 @@ verificationNeeded:
   - "Điều kiện đủ điều kiện của e-Reporting (công dân Malaysia, từ 18 tuổi trở lên) và danh sách đầy đủ các mục có thể báo cáo — cổng chính thức ereporting.rmp.gov.my không thể truy cập để xác minh trực tiếp; xác nhận đối chiếu với cổng chính thức."
   - "Liệu người không phải công dân có thực sự bị loại trừ hoàn toàn khỏi e-Reporting hay không (bản thảo không còn nêu sự loại trừ này một cách rõ ràng)."
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -20,7 +20,7 @@ appliesTo: "Học sinh sau Lớp 3 hoặc SPM, phụ huynh đang lập kế ho�
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

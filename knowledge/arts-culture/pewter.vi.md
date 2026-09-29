@@ -18,7 +18,7 @@ appliesTo: "Bất kỳ ai tò mò về các truyền thống thủ công của M
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

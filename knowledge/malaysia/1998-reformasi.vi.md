@@ -22,9 +22,9 @@ appliesTo: "Độc giả muốn có một tường thuật có nguồn, có th�
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

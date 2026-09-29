@@ -21,7 +21,7 @@ appliesTo: "Bất kỳ ai tái định cư đến Malaysia — người Malaysia
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

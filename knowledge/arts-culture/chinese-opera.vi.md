@@ -21,7 +21,7 @@ appliesTo: "Bất kỳ ai muốn hiểu các loại hí kịch truyền thống 
 lang: "vi"
 masterLanguage: "zh"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

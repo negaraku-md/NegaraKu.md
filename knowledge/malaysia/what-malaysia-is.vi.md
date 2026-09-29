@@ -20,9 +20,9 @@ appliesTo: "Bất kỳ ai mới đến Malaysia muốn hiểu đây là loại q
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

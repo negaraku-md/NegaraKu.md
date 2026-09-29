@@ -242,4 +242,28 @@ export const MILESTONES: Milestone[] = [
       vi: '1,073 bài viết được dịch sang tiếng Thái; /th trở thành một ngôn ngữ đầy đủ, được lập chỉ mục và có thể khám phá.',
     },
   },
+  {
+    date: '2026-09-29',
+    icon: '🇻🇳',
+    title: {
+      ms: 'Vietnam dilancarkan — bahasa ke-8',
+      en: 'Vietnamese launched — the 8th language',
+      zh: '越南语上线——第八种语言',
+      ta: 'வியட்நாமியம் தொடங்கப்பட்டது — 8வது மொழி',
+      ja: 'ベトナム語を公開——8番目の言語',
+      ko: '베트남어 출시 — 8번째 언어',
+      th: 'เปิดตัวภาษาเวียดนาม — ภาษาที่ 8',
+      vi: 'Ra mắt tiếng Việt — ngôn ngữ thứ 8',
+    },
+    body: {
+      ms: '1,073 artikel diterjemahkan ke bahasa Vietnam; /vi menjadi bahasa penuh yang diindeks dan boleh ditemui.',
+      en: '1,073 articles translated to Vietnamese; /vi becomes a full, indexed, discoverable language.',
+      zh: '1,073 篇文章翻译为越南语；/vi 成为完整、可被索引和检索的语言。',
+      ta: '1,073 கட்டுரைகள் வியட்நாமிய மொழியில் மொழிபெயர்க்கப்பட்டன; /vi ஒரு முழுமையான, குறியிடப்பட்ட, கண்டறியக்கூடிய மொழியாகிறது.',
+      ja: '1,073 本の記事をベトナム語に翻訳；/vi が完全でインデックス化され、発見可能な言語になりました。',
+      ko: '1,073개 기사가 베트남어로 번역되었습니다; /vi가 완전하고 색인화되어 검색 가능한 언어가 됩니다.',
+      th: 'แปลบทความ 1,073 บทความเป็นภาษาเวียดนาม; /vi กลายเป็นภาษาที่สมบูรณ์ ถูกจัดทำดัชนี และค้นพบได้',
+      vi: '1,073 bài viết được dịch sang tiếng Việt; /vi trở thành một ngôn ngữ đầy đủ, được lập chỉ mục và có thể khám phá.',
+    },
+  },
 ];

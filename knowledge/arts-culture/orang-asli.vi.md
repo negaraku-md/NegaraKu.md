@@ -37,9 +37,9 @@ socialTitle: "Orang Asli là ai — ba nhóm, 18 tộc người, và cơ quan ch
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0
