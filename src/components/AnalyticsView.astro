@@ -99,8 +99,8 @@ const gscMonths = Object.keys(gsc.byMonth ?? {}).length;
 
 // Facebook engagement (archive: analytics/facebook.json) — per-language Page numbers.
 const fb = getFacebook();
-const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語', ko: '한국어', th: 'ไทย' };
-const fbRows = (['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th'] as const)
+const FB_LANG: Record<string, string> = { ms: 'Bahasa Malaysia', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語', ko: '한국어', th: 'ไทย', vi: 'Tiếng Việt' };
+const fbRows = (['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi'] as const)
   .map((l) => {
     const p = fb.pages?.[l] ?? {};
     return { lang: l, label: p.name || `NegaraKu.md · ${FB_LANG[l]}`, pageId: p.pageId, followers: p.followers, posts: p.posts, reactions: p.reactions, comments: p.comments, shares: p.shares };

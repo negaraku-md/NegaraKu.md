@@ -76,6 +76,7 @@ const PROMPT = {
     ja: 'マレーシアをもっと深く知りたいですか？',
     ko: '말레이시아를 더 깊이 이해하고 싶으신가요?',
     th: 'อยากเข้าใจมาเลเซียให้ลึกซึ้งยิ่งขึ้นไหม?',
+    vi: 'Muốn hiểu Malaysia sâu sắc hơn?',
   },
   'living': {
     ms: 'Tinggal, bekerja atau belajar di Malaysia?',
@@ -85,6 +86,7 @@ const PROMPT = {
     ja: 'マレーシアで暮らす・働く・学んでいますか？',
     ko: '말레이시아에서 살거나 일하거나 공부하고 계신가요?',
     th: 'อาศัย ทำงาน หรือเรียนอยู่ในมาเลเซียใช่ไหม?',
+    vi: 'Đang sống, làm việc hay học tập tại Malaysia?',
   },
   'doing-business': {
     ms: 'Memulakan atau mengembangkan perniagaan di Malaysia?',
@@ -94,6 +96,7 @@ const PROMPT = {
     ja: 'マレーシアでビジネスを始める・成長させる予定ですか？',
     ko: '말레이시아에서 사업을 시작하거나 키우고 계신가요?',
     th: 'กำลังเริ่มต้นหรือขยายธุรกิจในมาเลเซียใช่ไหม?',
+    vi: 'Đang khởi nghiệp hay mở rộng kinh doanh tại Malaysia?',
   },
 };
 // Caption mode: precedes the tappable link on line 2. Comment mode: points to
@@ -106,6 +109,7 @@ const CTA_CAPTION = {
   ja: '🔗 完全ガイドを読む：',
   ko: '🔗 전체 가이드 읽기:',
   th: '🔗 อ่านคู่มือฉบับเต็ม:',
+  vi: '🔗 Đọc hướng dẫn đầy đủ:',
 };
 const CTA_COMMENT = {
   ms: '🔗 Panduan penuh dalam komen pertama 👇',
@@ -115,6 +119,7 @@ const CTA_COMMENT = {
   ja: '🔗 完全ガイドは最初のコメントへ 👇',
   ko: '🔗 전체 가이드는 첫 번째 댓글에서 👇',
   th: '🔗 คู่มือฉบับเต็มอยู่ในคอมเมนต์แรก 👇',
+  vi: '🔗 Hướng dẫn đầy đủ ở bình luận đầu tiên 👇',
 };
 // Prefixed to the title so it stands out above the caption (FB text can't be
 // bold). Matches the per-publish poster's 📌. Set to '' to drop it.

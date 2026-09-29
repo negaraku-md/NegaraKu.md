@@ -53,6 +53,9 @@ const LANGS = [
   { code: 'th', label: 'ไทย', file: 'NegaraKu.md.th.Facebook-Cover-Photo.png',
     tagline: 'ให้โลกได้รู้จักมาเลเซีย',
     subtitle: 'ฐานความรู้เกี่ยวกับมาเลเซียแบบโอเพนซอร์สและเป็นมิตรกับ AI' },
+  { code: 'vi', label: 'Tiếng Việt', file: 'NegaraKu.md.vi.Facebook-Cover-Photo.png',
+    tagline: 'Hãy để thế giới biết đến Malaysia',
+    subtitle: 'Cơ sở tri thức mã nguồn mở, thân thiện với AI về Malaysia' },
 ];
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');

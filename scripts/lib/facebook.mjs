@@ -11,7 +11,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 
 export const GRAPH = 'https://graph.facebook.com/v21.0';
-export const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th']; // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th
+export const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi']; // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi
 
 // Posting WINDOWS = Malaysia's daily engagement peaks. The cron fires one tick per
 // window (see .github/workflows/facebook-backlog.yml: 08:17 / 13:17 / 20:17 MYT).
@@ -50,6 +50,9 @@ export const LANG_POLICY = {
   // th ACTIVATED 2026-09-28 — Thai is a full public language (1,073 published
   // articles at /th); its Page is assigned to the system user, so it's in LANGS.
   th: { enabled: true, perDay: 5, since: '2026-09-28', windows: ALL_WINDOWS },
+  // vi ACTIVATED 2026-09-29 — Vietnamese is a full public language (1,073 published
+  // articles at /vi); its Page is assigned to the system user, so it's in LANGS.
+  vi: { enabled: true, perDay: 5, since: '2026-09-29', windows: ALL_WINDOWS },
 };
 
 // One Facebook Page PER language. Page IDs are PUBLIC (they appear in each Page's
@@ -158,9 +161,9 @@ function catNameMap() {
       path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../src/lib/categories.ts'),
       'utf8',
     );
-    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'(?:\s*,\s*ta:\s*'([^']*)')?(?:\s*,\s*ja:\s*'([^']*)')?(?:\s*,\s*ko:\s*'([^']*)')?(?:\s*,\s*th:\s*'([^']*)')?/g;
+    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'(?:\s*,\s*ta:\s*'([^']*)')?(?:\s*,\s*ja:\s*'([^']*)')?(?:\s*,\s*ko:\s*'([^']*)')?(?:\s*,\s*th:\s*'([^']*)')?(?:\s*,\s*vi:\s*'([^']*)')?/g;
     let m;
-    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4], ta: m[5] || '', ja: m[6] || '', ko: m[7] || '', th: m[8] || '' };
+    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4], ta: m[5] || '', ja: m[6] || '', ko: m[7] || '', th: m[8] || '', vi: m[9] || '' };
   } catch { /* graceful — no localized names, category tag is skipped */ }
   return _catNames;
 }
@@ -198,7 +201,7 @@ export function keywordTag(kw) {
   return t.length <= 25 ? t : '';
 }
 
-const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா', ja: '#マレーシア', ko: '#말레이시아', th: '#มาเลเซีย' };
+const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா', ja: '#マレーシア', ko: '#말레이시아', th: '#มาเลเซีย', vi: '#Malaysia' };
 // Tamil block U+0B80–U+0BFF — used so ta posts keep only Tamil-script (or numeric) tags.
 const hasTamil = (s) => /[஀-௿]/.test(String(s));
 const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));
