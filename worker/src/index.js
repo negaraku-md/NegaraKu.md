@@ -23,7 +23,7 @@ import { handleQuery } from './query.js';
 // src/lib/i18n.ts — a missing code silently mis-attributes that locale's traffic
 // to Malay (the ko/ta/ja bug fixed 2026-09-27: en/zh/ta/ja were listed, ko/th
 // were not, so /ko and /th hits counted as ms).
-const VIEW_LOCALES = ['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi'];
+const VIEW_LOCALES = ['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id'];
 function localeOf(pathname) {
   const seg = (pathname || '').split('/')[1];
   return VIEW_LOCALES.includes(seg) ? seg : 'ms';

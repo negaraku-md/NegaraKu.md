@@ -13,7 +13,7 @@ import { loadManifest, saveManifest } from './lib/fb-queue.mjs';
 
 const DRY_RUN = process.env.FB_DRY_RUN === '1';
 const TOKEN = process.env.FB_PAGE_ACCESS_TOKEN;
-const SUFFIX = /\.(ms|en|zh|ta|ja|ko|th|vi)$/;
+const SUFFIX = /\.(ms|en|zh|ta|ja|ko|th|vi|id)$/;
 // Optional: also delete posts made at/after this ISO timestamp (e.g. redo a day's
 // batch after fixing the OG cards). Removing their manifest entries lets the poster
 // re-post them cleanly.

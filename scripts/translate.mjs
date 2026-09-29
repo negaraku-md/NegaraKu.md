@@ -61,7 +61,7 @@ async function walk(dir) {
     const full = path.join(dir, e.name);
     if (e.isDirectory()) out.push(...(await walk(full)));
     // Master files are the bare `<slug>.md` (no `.en`/`.zh`/`.ms` locale suffix).
-    else if (e.name.endsWith('.md') && !/\.(ms|en|zh|ta|ja|ko|th|vi)\.md$/.test(e.name)) out.push(full);
+    else if (e.name.endsWith('.md') && !/\.(ms|en|zh|ta|ja|ko|th|vi|id)\.md$/.test(e.name)) out.push(full);
   }
   return out;
 }

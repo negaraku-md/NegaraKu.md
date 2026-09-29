@@ -34,7 +34,7 @@ export function listPublishedBases() {
   for (const f of files) {
     const rel = `knowledge/${String(f).replace(/\\/g, '/')}`;
     if (!rel.endsWith('.md')) continue;
-    if (/\.(ms|en|zh|ta|ja|ko|th|vi)\.md$/.test(rel)) continue; // translation, not a master. KEEP THIS LIST COMPLETE for every launched locale — a missing one (ta, then th/vi) makes .<lang>.md files phantom "bases" that post the wrong-language title to every Page.
+    if (/\.(ms|en|zh|ta|ja|ko|th|vi|id)\.md$/.test(rel)) continue; // translation, not a master. KEEP THIS LIST COMPLETE for every launched locale — a missing one (ta, then th/vi) makes .<lang>.md files phantom "bases" that post the wrong-language title to every Page.
     if (rel.startsWith('knowledge/about/')) continue;
     const base = rel.replace(/\.md$/, '');
     let data;

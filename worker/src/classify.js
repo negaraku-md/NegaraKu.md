@@ -94,7 +94,7 @@ export function pathKey(pathname) {
   const seg = p.split('/');
   // Strip a leading locale prefix so all languages fold to one article key.
   // Keep in sync with LOCALES (src/lib/i18n.ts); ko/th added 2026-09-27.
-  if (['en', 'zh', 'ms', 'ta', 'ja', 'ko', 'th', 'vi'].includes(seg[0])) seg.shift();
+  if (['en', 'zh', 'ms', 'ta', 'ja', 'ko', 'th', 'vi', 'id'].includes(seg[0])) seg.shift();
   return seg.join('/') || 'home';
 }
 

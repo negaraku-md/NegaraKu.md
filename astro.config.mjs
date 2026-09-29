@@ -255,20 +255,23 @@ export default defineConfig({
   },
   i18n: {
     defaultLocale: 'ms',
-    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi'],
+    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id'],
     routing: {
-      prefixDefaultLocale: false, // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi
+      prefixDefaultLocale: false, // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi, id /id
     },
   },
   integrations: [
     mdx(),
     sitemap({
-      // ms/en/zh/ta/ja/ko/th/vi are all fully launched (in LOCALES, indexed, in this
-      // sitemap). vi joined at its Phase 3 open launch (2026-09-29) — the soft-launch
-      // filter that excluded /vi was removed then.
+      // ms/en/zh/ta/ja/ko/th/vi are fully launched (in LOCALES, indexed, in this sitemap).
+      // Indonesian (`id`) is SOFT-LAUNCHED (Phase 0): routes/chrome build for preview but
+      // held OUT of LOCALES (→ noindex) and out of this sitemap via the filter below, until
+      // its open launch. Remove the filter + add id to the locales map (and to LOCALES in
+      // i18n.ts) at Phase 3.
+      filter: (page) => !/\/id(\/|$)/.test(page),
       i18n: {
         defaultLocale: 'ms',
-        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi' },
+        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id' },
       },
       serialize(item) {
         const lastmod = lastmodFor(item.url);

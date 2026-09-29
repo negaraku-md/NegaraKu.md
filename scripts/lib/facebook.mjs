@@ -84,6 +84,10 @@ export const PAGES = {
   // still a soft-launch (no published /vi corpus), so there is nothing to post.
   // Activate by adding vi to LANGS + LANG_POLICY once the /vi corpus ships.
   vi: process.env.FB_PAGE_ID_VI || '1351336844728158',
+  // id Page created 2026-09-29 (facebook.com/negaraku.md.id). NOT in LANGS/LANG_POLICY
+  // yet — Indonesian is soft-launch (no published /id corpus). Activate at Phase 4 (also
+  // assign the Page to the "NegaraKu Poster" system user, currently only Ashton/Yvonne).
+  id: process.env.FB_PAGE_ID_ID || '1344600845403169',
 };
 
 // The URL locale prefix for a language: ms lives at "/", en at "/en", zh at "/zh".
@@ -99,7 +103,7 @@ export function articleBases(files) {
     const p = f.replace(/\\/g, '/');
     if (!p.startsWith('knowledge/') || !p.endsWith('.md')) continue;
     if (p.startsWith('knowledge/about/')) continue;
-    bases.add(p.replace(/\.(ms|en|zh|ta|ja|ko|th|vi)\.md$/, '').replace(/\.md$/, ''));
+    bases.add(p.replace(/\.(ms|en|zh|ta|ja|ko|th|vi|id)\.md$/, '').replace(/\.md$/, ''));
   }
   return [...bases];
 }
