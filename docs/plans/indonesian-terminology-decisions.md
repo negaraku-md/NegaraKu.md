@@ -63,6 +63,15 @@ Putrajaya). On first mention give an Indonesian descriptor + the Malaysian name/
 - Dates: translate month words to Indonesian (Januari, Februari, Maret, April, Mei, Juni,
   Juli, Agustus, September, Oktober, November, Desember); keep numeric forms.
 
+## Ethnonyms, countries & festivals (respectful baku register — apply consistently)
+- People/community/culture/language: ms **Cina** → id **Tionghoa** (never "Cina", which is derogatory in id).
+- Country: ms **China** → id **Tiongkok**. ms **Parsi** → id **Persia**.
+- Festivals localized to Indonesian forms: **Tahun Baharu Cina → Tahun Baru Imlek**;
+  **Krismas → Natal**; **Wesak → Waisak**; **Perayaan Tanglung → Perayaan Lampion**.
+- Keep shared/recognizable festival proper names: Aidilfitri, Deepavali, Thaipusam, Kaamatan, Gawai.
+- Statute cross-refs: ms **Perkara/Seksyen N → Pasal N**; **Perlembagaan Persekutuan → Konstitusi Federal**
+  (but a NAMED Act still keeps its English title, per the rule above).
+
 ## Register & voice
 Formal written Indonesian (baku), encyclopaedic and neutral — the register of Kompas / a
 government reference, not colloquial Jakartan. Faithful adaptation, never authoring.
