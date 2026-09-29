@@ -52,17 +52,17 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — teks sah bahasa Melayu"
+  - title: "Hiến pháp Liên bang (Bản in lại 2020) — văn bản chính thức bằng tiếng Mã Lai (Perlembagaan Persekutuan (Cetakan Semula 2020) — teks sah bahasa Melayu)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (AGC)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
     date: "2020"
-  - title: "Federal Constitution (Reprint 2020) — teks bahasa Inggeris"
+  - title: "Hiến pháp Liên bang (Bản in lại 2020) — văn bản tiếng Anh (Federal Constitution (Reprint 2020) — teks bahasa Inggeris)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia (AGC)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
     date: "2020"
-  - title: "Federal Constitution — Laws of Malaysia portal"
+  - title: "Hiến pháp Liên bang — Cổng thông tin Laws of Malaysia (Federal Constitution — Laws of Malaysia portal)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
-    publisher: "Jabatan Peguam Negara Malaysia (AGC)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
 
 entity: "Perlembagaan Persekutuan"
 wikidata: "Q1003080"

@@ -52,13 +52,13 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Laws of Malaysia — Act 265, Employment Act 1955 (teks cetakan kemas kini), Seksyen 22, 24"
+  - title: "Laws of Malaysia — Act 265, Employment Act 1955 (bản in cập nhật), Mục 22, 24 (Laws of Malaysia — Act 265, Employment Act 1955 (teks cetakan kemas kini), Seksyen 22, 24)"
     url: "https://www.mp.gov.my/images/doc/legislation/EA1955.pdf"
-    publisher: "Laws of Malaysia (teks cetakan rasmi, portal Kerajaan Malaysia .gov.my)"
-  - title: "Employment Act 1955 (Amendment) 2022 — FAQ (perluasan 1 Januari 2023)"
+    publisher: "Laws of Malaysia (bản in chính thức, cổng thông tin Chính phủ Malaysia .gov.my)"
+  - title: "Employment Act 1955 (Amendment) 2022 — Câu hỏi thường gặp (mở rộng ngày 1 tháng 1 năm 2023) (Employment Act 1955 (Amendment) 2022 — FAQ (perluasan 1 Januari 2023))"
     url: "https://jtksm.mohr.gov.my/en/frequently-asked-questions/employment-act-1955-amendment-2022"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM)"
-  - title: "When Can Your Employer Deduct Your Salary? (penjelasan sekunder)"
+    publisher: "Cục Lao động Bán đảo Malaysia (JTKSM)"
+  - title: "Khi nào chủ lao động được khấu trừ lương của bạn? (giải thích thứ cấp) (When Can Your Employer Deduct Your Salary? (penjelasan sekunder))"
     url: "https://dnh.com.my/when-can-your-employer-deduct-your-salary/"
     publisher: "Donovan & Ho"
 

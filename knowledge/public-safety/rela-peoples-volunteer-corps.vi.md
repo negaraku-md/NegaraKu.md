@@ -51,15 +51,15 @@ verificationNeeded:
   - "Xác minh trình tự và tên viết tắt đầy đủ của các cấp bậc đối chiếu với Phụ lục hiện hành được sửa đổi bởi P.U. (A) 165/2024."
 updated: 2026-08-01
 sources:
-  - title: "Act 752 — Jabatan Sukarelawan Malaysia (RELA)"
+  - title: "Act 752 — Cục Tình nguyện viên Malaysia (RELA) (Act 752 — Jabatan Sukarelawan Malaysia (RELA))"
     url: "https://www.rela.gov.my/?page_id=5611&lang=en"
-    publisher: "Jabatan Sukarelawan Malaysia (RELA)"
-  - title: "Akta Pasukan Sukarelawan Malaysia 2012 (Akta 752) — Versi Dalam Talian Teks Cetakan Semula Yang Kemas Kini (sebagaimana pada 1 Julai 2024)"
+    publisher: "Cục Tình nguyện viên Malaysia (RELA)"
+  - title: "Đạo luật Lực lượng Tình nguyện Malaysia 2012 (Akta 752) — Phiên bản trực tuyến của văn bản in lại đã cập nhật (tính đến ngày 1 tháng 7 năm 2024) (Akta Pasukan Sukarelawan Malaysia 2012 (Akta 752) — Versi Dalam Talian Teks Cetakan Semula Yang Kemas Kini (sebagaimana pada 1 Julai 2024))"
     url: "https://www.moha.gov.my/utama/images/akta-pekeliling-garispanduan/bhg-kepenjaraan-antidadah-rela/akta/Akta_752_-_Akta_Pasukan_Sukarelawan_Malaysia_2012.pdf"
-    publisher: "Jabatan Peguam Negara (teks kemas kini dalam talian, dihoskan di portal Kementerian Dalam Negeri)"
-  - title: "Enforcement — Malaysian Immigration Department"
+    publisher: "Phòng Tổng Chưởng lý (AGC) (văn bản cập nhật trực tuyến, đăng tải trên cổng của Bộ Nội vụ)"
+  - title: "Thực thi — Cục Di trú Malaysia (Enforcement — Malaysian Immigration Department)"
     url: "https://www.imi.gov.my/index.php/en/enforcement/"
-    publisher: "Jabatan Imigresen Malaysia"
+    publisher: "Cục Di trú Malaysia (JIM)"
 
 entity: "Pasukan Sukarelawan Malaysia (RELA)"
 wikidata: "Q2750770"

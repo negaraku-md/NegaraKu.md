@@ -51,19 +51,19 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Sekolah Agama Bantuan Kerajaan (SABK)"
+  - title: "Trường Tôn giáo được Chính phủ Hỗ trợ (SABK) (Sekolah Agama Bantuan Kerajaan (SABK))"
     url: "https://www.moe.gov.my/sekolah-agama-bantuan-kerajaan-sabk"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Kelas Al-Quran & Fardu Ain (KAFA)"
+    publisher: "Bộ Giáo dục Malaysia (Kementerian Pendidikan Malaysia)"
+  - title: "Lớp học Al-Quran & Fardu Ain (KAFA) (Kelas Al-Quran & Fardu Ain (KAFA))"
     url: "https://www.islam.gov.my/ms/pendidikan/kafa"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
-  - title: "Lessons From Tahfiz Fires, No Compromise On Safety"
+    publisher: "Cục Phát triển Hồi giáo Malaysia (JAKIM)"
+  - title: "Bài học từ các vụ cháy trường Tahfiz, không nhân nhượng về an toàn (Lessons From Tahfiz Fires, No Compromise On Safety)"
     url: "https://www.bernama.com/en/news.php?id=2229859"
     publisher: "Bernama"
-  - title: "234 sekolah agama seluruh negara berdaftar sebagai SABK - KPM"
+  - title: "234 trường tôn giáo trên cả nước đăng ký làm SABK - KPM (234 sekolah agama seluruh negara berdaftar sebagai SABK - KPM)"
     url: "https://sinarbestari.sinarharian.com.my/buletin/234-sekolah-agama-seluruh-negara-berdaftar-sebagai-sabk-kpm"
     publisher: "Sinar Harian"
-  - title: "Malaysia dormitory fire at Islamic school in Kuala Lumpur kills teen students"
+  - title: "Vụ cháy ký túc xá tại trường Hồi giáo ở Kuala Lumpur khiến các học sinh thiếu niên thiệt mạng (Malaysia dormitory fire at Islamic school in Kuala Lumpur kills teen students)"
     url: "https://www.cbsnews.com/news/malaysia-dormitory-fire-islamic-school-kuala-lumpur-kills-teen-students/"
     publisher: "CBS News"
 

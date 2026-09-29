@@ -56,21 +56,21 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Sole Proprietorship / Partnership — Business Information"
+  - title: "Doanh nghiệp tư nhân một chủ / Hợp danh — Thông tin kinh doanh (Sole Proprietorship / Partnership — Business Information)"
     url: "https://malaysiabiz.gov.my/en/portal/sole-proprietership-partnership"
-    publisher: "MalaysiaBiz (BizChannel, Suruhanjaya Syarikat Malaysia)"
-  - title: "Section 5 — Registration (Registration of Businesses Act 1956, Act 197)"
+    publisher: "MalaysiaBiz (BizChannel, Ủy ban Công ty Malaysia)"
+  - title: "Mục 5 — Đăng ký (Registration of Businesses Act 1956, Act 197) (Section 5 — Registration (Registration of Businesses Act 1956, Act 197))"
     url: "https://www.ssm.com.my/acts/fscommand/a0197s0005.htm"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Section 12 — Offences (Registration of Businesses Act 1956, Act 197)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Mục 12 — Các hành vi vi phạm (Registration of Businesses Act 1956, Act 197) (Section 12 — Offences (Registration of Businesses Act 1956, Act 197))"
     url: "https://www.ssm.com.my/acts/fscommand/a0197s0012.htm"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Step to Register — Legalising Your Business"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Các bước đăng ký — Hợp pháp hóa doanh nghiệp của bạn (Step to Register — Legalising Your Business)"
     url: "https://www.smeinfo.com.my/legalising-your-business/step-to-register/"
     publisher: "SME Corporation Malaysia (SMEinfo Portal)"
-  - title: "ITRF Deadlines — Income Tax Return Form Filing Programme"
+  - title: "Hạn nộp ITRF — Chương trình nộp Tờ khai thuế thu nhập (ITRF Deadlines — Income Tax Return Form Filing Programme)"
     url: "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
-    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
 
 entity: "Sole Proprietorship"
 relations:

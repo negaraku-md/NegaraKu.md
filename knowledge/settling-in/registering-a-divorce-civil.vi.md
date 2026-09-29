@@ -56,13 +56,13 @@ verificationNeeded:
   - "Liệu hội đồng hòa giải hôn nhân JPN, trong thực tiễn hiện hành, có phải là cơ quan hòa giải mặc định cho một địa phương nhất định hay không (Section 106(2) cho phép bất kỳ cơ quan nào được cả hai bên chấp nhận)."
 updated: 2026-08-07
 sources:
-  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint"
+  - title: "Law Reform (Marriage and Divorce) Act 1976 (Act 164) — bản tái bản chính thức (Law Reform (Marriage and Divorce) Act 1976 (Act 164) — official reprint)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
-  - title: "How to refer to Marriage Tribunal JPN Malaysia?"
+    publisher: "Phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia)"
+  - title: "Làm thế nào để chuyển vụ việc đến Tòa Hòa giải Hôn nhân JPN Malaysia? (How to refer to Marriage Tribunal JPN Malaysia?)"
     url: "https://arinaong.com/refer-marriage-tribunal-jpn-malaysia/"
     publisher: "Arina Ong & Co (law firm)"
-  - title: "Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce"
+  - title: "Hôn nhân, Ly hôn & Thừa kế của người không theo đạo Hồi — Hôn nhân & Ly hôn Dân sự (Non-Muslim Marriage, Divorce & Inheritance — Civil Marriage & Divorce)"
     url: "https://www.wccpenang.org/non-muslim-marriage-sec1-civil-marriage/"
     publisher: "Women's Centre for Change (WCC), Penang"
 

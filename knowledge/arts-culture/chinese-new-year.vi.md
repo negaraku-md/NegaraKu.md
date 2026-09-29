@@ -47,16 +47,16 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Current Population Estimates, Malaysia, 2025"
+  - title: "Ước tính Dân số Hiện tại, Malaysia, 2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
     date: "2025-07-31"
-  - title: "Laws of Malaysia — Act 369, Holidays Act 1951"
+  - title: "Luật pháp Malaysia — Đạo luật 369, Đạo luật Ngày lễ 1951 (Holidays Act 1951, Act 369) (Laws of Malaysia — Act 369, Holidays Act 1951)"
     url: "https://www.kabinet.gov.my/storage/2024/11/1951_12_31_act369.pdf"
-    publisher: "Jabatan Perdana Menteri / Attorney General's Chambers"
-  - title: "Chinese New Year — official destination information"
+    publisher: "Văn phòng Thủ tướng / Văn phòng Tổng Chưởng lý"
+  - title: "Tết Nguyên đán — thông tin điểm đến chính thức (Chinese New Year — official destination information)"
     url: "https://www.tourism.gov.my/media/view/chinese-new-year"
-    publisher: "Tourism Malaysia (Kementerian Pelancongan, Seni dan Budaya Malaysia)"
+    publisher: "Tourism Malaysia (Bộ Du lịch, Nghệ thuật và Văn hóa Malaysia)"
 entity: "农历新年（马来西亚）"
 wikidata: "Q131772"
 relations:

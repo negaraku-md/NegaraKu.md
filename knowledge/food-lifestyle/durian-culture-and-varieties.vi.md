@@ -56,21 +56,21 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia 2020-2024"
+  - title: "Tài khoản Cung ứng và Sử dụng các Mặt hàng Nông nghiệp Chọn lọc, Malaysia 2020-2024 (Supply and Utilization Accounts Selected Agricultural Commodities, Malaysia 2020-2024)"
     url: "https://www.dosm.gov.my/portal-main/release-content/supply-and-utilization-accounts-selected-agricultural-commodities-malaysia-2020-2024"
-    publisher: "Department of Statistics Malaysia"
+    publisher: "Cục Thống kê Malaysia (Department of Statistics Malaysia)"
     date: "2025-12-15"
-  - title: "Protokol Keperluan Fitosanitari bagi Eksport Durian Segar dari Malaysia ke China"
+  - title: "Nghị định thư về Yêu cầu Kiểm dịch Thực vật đối với Xuất khẩu Sầu riêng Tươi từ Malaysia sang Trung Quốc (Protokol Keperluan Fitosanitari bagi Eksport Durian Segar dari Malaysia ke China)"
     url: "https://www.doa.gov.my/doa/resources/aktiviti_sumber/sumber_awam/maklumat_biosekuriti/kelulusan_protokol_fitosanitari_durian_segar_Malaysia_China.pdf"
-    publisher: "Jabatan Pertanian Malaysia"
-  - title: "Malaysia Exports Durians Worth RM6.37 Bln To China From 2018-2025"
+    publisher: "Cục Nông nghiệp Malaysia (Jabatan Pertanian Malaysia)"
+  - title: "Malaysia xuất khẩu sầu riêng trị giá 6,37 tỷ RM sang Trung Quốc giai đoạn 2018-2025 (Malaysia Exports Durians Worth RM6.37 Bln To China From 2018-2025)"
     url: "https://www.bernama.com/en/news.php?id=2475446"
     publisher: "Bernama"
-  - title: "First shipment of Malaysian fresh durian arrives in China"
+  - title: "Lô sầu riêng tươi đầu tiên của Malaysia đến Trung Quốc (First shipment of Malaysian fresh durian arrives in China)"
     url: "https://www.fruitnet.com/asiafruit/first-shipment-of-malaysian-fresh-durian-arrives-in-china/262032.article"
     publisher: "Fruitnet / Asiafruit"
     date: "2024-08-27"
-  - title: "Geographical indications in Malaysia: Recent developments and progress"
+  - title: "Chỉ dẫn địa lý tại Malaysia: Những phát triển và tiến bộ gần đây (Geographical indications in Malaysia: Recent developments and progress)"
     url: "https://asiaiplaw.com/article/geographical-indications-in-malaysia-recent-developments-and-progress"
     publisher: "Asia IP"
 

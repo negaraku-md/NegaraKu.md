@@ -43,13 +43,13 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Healing hands need legal papers"
+  - title: "Đôi tay chữa lành cần giấy tờ hợp pháp (Healing hands need legal papers)"
     url: "https://www.thestar.com.my/news/nation/2025/03/01/healing-hands-need-legal-papers"
     publisher: "The Star"
-  - title: "Unregistered traditional medicine practitioners to face fines, jail from tomorrow, says MOH"
+  - title: "Người hành nghề y học cổ truyền chưa đăng ký sẽ bị phạt tiền, phạt tù từ ngày mai, MOH cho biết (Unregistered traditional medicine practitioners to face fines, jail from tomorrow, says MOH)"
     url: "https://www.malaymail.com/news/malaysia/2025/02/28/unregistered-traditional-medicine-practitioners-to-face-fines-jail-from-tomorrow-says-moh/168277"
     publisher: "Malay Mail"
-  - title: "Registration of Traditional and Complementary Medicine Practitioners"
+  - title: "Đăng ký Người hành nghề Y học Cổ truyền và Bổ sung (Registration of Traditional and Complementary Medicine Practitioners)"
     url: "https://www.thoopartners.com/registration-of-traditional-and-complementary-medicine-practitioners/"
     publisher: "Thoo & Partners"
 

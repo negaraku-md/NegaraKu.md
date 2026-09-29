@@ -49,23 +49,23 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Senarai Seni Halus Warisan Kebangsaan 2015"
+  - title: "Danh sách Nghệ thuật Tinh xảo Di sản Quốc gia 2015 (Senarai Seni Halus Warisan Kebangsaan 2015)"
     url: "https://www.heritage.gov.my/en/kraf.html?view=article&id=235:senarai-seni-halus-warisan-kebangsaan-2015&catid=17:info-jwn"
-    publisher: "Jabatan Warisan Negara"
+    publisher: "Cục Di sản Quốc gia (Jabatan Warisan Negara)"
     date: "2015"
-  - title: "Muzium Diraja (Istana Kenangan), Bukit Chandan, Kuala Kangsar, Perak"
+  - title: "Bảo tàng Hoàng gia (Istana Kenangan), Bukit Chandan, Kuala Kangsar, Perak (Muzium Diraja (Istana Kenangan), Bukit Chandan, Kuala Kangsar, Perak)"
     url: "https://www.heritage.gov.my/en/muzium-diraja-istana-kenangan-bukit-chandan-kuala-kangsar-perak.html"
-    publisher: "Jabatan Warisan Negara"
-  - title: "Seni Kraf Kayu: Motif & Teknik"
+    publisher: "Cục Di sản Quốc gia (Jabatan Warisan Negara)"
+  - title: "Nghệ thuật Thủ công Gỗ: Họa tiết & Kỹ thuật (Seni Kraf Kayu: Motif & Teknik)"
     url: "https://kraftangan.gov.my/info/penerbitan/seni-kraf-kayu-motif-teknik"
-    publisher: "Perbadanan Kemajuan Kraftangan Malaysia / Institut Kraf Negara"
+    publisher: "Tập đoàn Phát triển Thủ công Malaysia / Viện Thủ công Quốc gia (Perbadanan Kemajuan Kraftangan Malaysia / Institut Kraf Negara)"
     date: "2009"
-  - title: "Kompleks Kraf Kuala Lumpur"
+  - title: "Khu phức hợp Thủ công Kuala Lumpur (Kompleks Kraf Kuala Lumpur)"
     url: "https://kraftangan.gov.my/en/craft-complex/kuala-lumpur-craft-complex"
-    publisher: "Perbadanan Kemajuan Kraftangan Malaysia"
-  - title: "Desa Ukiran Kayu"
+    publisher: "Tập đoàn Phát triển Thủ công Malaysia (Perbadanan Kemajuan Kraftangan Malaysia)"
+  - title: "Làng Chạm khắc Gỗ (Desa Ukiran Kayu)"
     url: "https://mdb.terengganu.gov.my/index.php/ms/pelawat/destinasi-menarik/desa-ukiran-kayu"
-    publisher: "Majlis Daerah Besut"
+    publisher: "Hội đồng Huyện Besut (Majlis Daerah Besut)"
 entity: "Ukiran Kayu Melayu"
 relations:
   - { rel: "part-of", to: "malaysia" }

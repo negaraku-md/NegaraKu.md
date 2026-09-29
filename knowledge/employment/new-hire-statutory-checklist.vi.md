@@ -94,21 +94,21 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Đạo luật Việc làm 1955 — Employment Act 1955 (Act 265), văn bản cập nhật đến ngày 1 tháng 1 năm 2023 (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "Cục Lao động Bán đảo Malaysia (JTKSM)"
     date: "2023-01-01"
-  - title: "Occupational Safety and Health Act 1994 (Act 514), updated text of reprint as at 1 June 2024"
+  - title: "Đạo luật An toàn và Sức khỏe Nghề nghiệp 1994 — Occupational Safety and Health Act 1994 (Act 514), văn bản in lại cập nhật đến ngày 1 tháng 6 năm 2024 (Occupational Safety and Health Act 1994 (Act 514), updated text of reprint as at 1 June 2024)"
     url: "https://dosh.gov.my/wp-content/uploads/2025/01/Occupational-Safety-and-Health-Act-1994-Act-514_Reprint-Version-1.6.2024_English.pdf"
-    publisher: "Department of Occupational Safety and Health"
+    publisher: "Cục An toàn và Sức khỏe Nghề nghiệp (DOSH)"
     date: "2024-06-01"
-  - title: "Pembangunan Sumber Manusia Berhad (Amendment of First Schedule) Order 2021, P.U.(A) 84/2021"
+  - title: "Lệnh Pembangunan Sumber Manusia Berhad (Sửa đổi Phụ lục Thứ nhất) 2021 — P.U.(A) 84/2021 (Pembangunan Sumber Manusia Berhad (Amendment of First Schedule) Order 2021, P.U.(A) 84/2021)"
     url: "https://hrdcorp.gov.my/wp-content/uploads/2021/03/12.FEDERAL-GOVERMENT-GAZETTE-PEMBANGUNAN-SUMBER-MANUSIA-BERHAD-AMENDMENT-OF-FIRST-SCHEDULE-ORDER-2021.pdf"
     publisher: "HRD Corp"
     date: "2021-03-01"
-  - title: "EPF Third Schedule, rates from 1 October 2025"
+  - title: "Phụ lục Thứ ba EPF, tỷ lệ áp dụng từ 1 tháng 10 năm 2025 (EPF Third Schedule, rates from 1 October 2025)"
     url: "https://www.kwsp.gov.my/documents/d/guest/third_schedule_from_-1-october-2025"
-    publisher: "Kumpulan Wang Simpanan Pekerja"
+    publisher: "Quỹ Tiết kiệm Người lao động (KWSP)"
     date: "2025-10-01"
 
 entity: "New-hire statutory obligations in Malaysia"

@@ -48,7 +48,7 @@ verificationNeeded:
   - "Danh sách luật định nguyên văn đầy đủ về các chức năng của Hội đồng từ chính Luật, khác với các chức năng được diễn giải trên các trang thứ cấp."
 updated: 2026-08-14
 sources:
-  - title: "National Sports Council of Malaysia Act 1971 (Act 29) — Reprint"
+  - title: "National Sports Council of Malaysia Act 1971 (Act 29) — Bản tái bản (National Sports Council of Malaysia Act 1971 (Act 29) — Reprint)"
     url: "https://www.kbs.gov.my/akta-dasar.html?download=537%3Anational-sports-council-of-malaysia-act-1971-act-29"
     publisher: "Ủy viên Rà soát Pháp luật, Malaysia (Commissioner of Law Revision, Malaysia) (bản in lại của AGC, qua KBS)"
   - title: "Hội đồng Thể thao Quốc gia Malaysia (National Sports Council of Malaysia)"
@@ -56,10 +56,10 @@ sources:
     publisher: "Wikipedia"
   - title: "Lịch sử — Hội đồng Thể thao Quốc gia Malaysia (Sejarah — Majlis Sukan Negara Malaysia)"
     url: "https://www.nsc.gov.my/sejarah/"
-    publisher: "Majlis Sukan Negara Malaysia (nsc.gov.my)"
+    publisher: "Hội đồng Thể thao Quốc gia Malaysia (nsc.gov.my)"
   - title: "Majlis Sukan Negara Malaysia — Trang web Chính thức (Majlis Sukan Negara Malaysia — Official Website)"
     url: "https://www.nsc.gov.my/en/"
-    publisher: "Majlis Sukan Negara Malaysia (nsc.gov.my)"
+    publisher: "Hội đồng Thể thao Quốc gia Malaysia (nsc.gov.my)"
 entity: "Majlis Sukan Negara Malaysia (National Sports Council of Malaysia, MSN)"
 wikidata: "Q97208190"
 relations: []

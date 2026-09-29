@@ -57,16 +57,16 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Routine Inspection"
+  - title: "Kiểm tra định kỳ (Routine Inspection)"
     url: "https://www.puspakom.com.my/routine-inspection/"
     publisher: "PUSPAKOM"
-  - title: "Frequently Asked Questions (FAQ)"
+  - title: "Câu hỏi thường gặp (FAQ) (Frequently Asked Questions (FAQ))"
     url: "https://www.puspakom.com.my/faq/"
     publisher: "PUSPAKOM"
-  - title: "PUSPAKOM inspections explained: every type, when you need them, what they cost and what they check"
+  - title: "Giải thích về các cuộc kiểm tra của PUSPAKOM: từng loại, khi nào bạn cần, chi phí và những gì được kiểm tra (PUSPAKOM inspections explained: every type, when you need them, what they cost and what they check)"
     url: "https://paultan.org/2026/05/12/puspakom-inspections-explained-every-type-when-you-need-them-what-they-cost-and-what-they-check/"
     publisher: "Paul Tan's Automotive News"
-  - title: "Pembaharuan Cukai Jalan Kenderaan E-Hailing"
+  - title: "Gia hạn thuế đường bộ cho phương tiện gọi xe điện tử (Pembaharuan Cukai Jalan Kenderaan E-Hailing)"
     url: "https://www.grab.com/my/e-hailing-road-tax-renewal-bm/"
     publisher: "Grab Malaysia"
 

@@ -49,22 +49,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Chronology of MCO phases in the country"
+  - title: "Niên biểu các giai đoạn MCO trong nước (Chronology of MCO phases in the country)"
     url: "https://bernama.com/en/general/news.php?id=1920867"
     publisher: "Bernama"
-  - title: "Examining Malaysia's Covid-19 vaccination response"
+  - title: "Xem xét phản ứng tiêm chủng Covid-19 của Malaysia (Examining Malaysia's Covid-19 vaccination response)"
     url: "https://www.thestar.com.my/lifestyle/health/the-doctor-says/2025/11/25/examining-malaysias-covid-19-vaccination-response"
     publisher: "The Star"
-  - title: "Khairy: Government Owns MySejahtera App's IP, Personal Data, Source Code"
+  - title: "Khairy: Chính phủ Sở hữu Quyền Sở hữu Trí tuệ, Dữ liệu Cá nhân, Mã Nguồn của Ứng dụng MySejahtera (Khairy: Government Owns MySejahtera App's IP, Personal Data, Source Code)"
     url: "https://codeblue.galencentre.org/2022/03/khairy-government-owns-mysejahtera-apps-ip-personal-data-source-code/"
     publisher: "CodeBlue, Galen Centre"
-  - title: "Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships"
+  - title: "Sách Trắng Y tế Malaysia 2023: Con đường Cải cách Hệ thống Y tế của Malaysia Thông qua Quan hệ Đối tác Công-Tư (Malaysia Health White Paper 2023: Malaysia's Path To Health System Reform Through Public-Private Partnerships)"
     url: "https://www.mondaq.com/healthcare/1348400/malaysia-health-white-paper-2023-malaysias-path-to-health-system-reform-through-public-private-partnerships"
     publisher: "Mondaq"
-  - title: "Malaysia impact story (Investment Round)"
+  - title: "Câu chuyện tác động Malaysia (Vòng Đầu tư) (Malaysia impact story (Investment Round))"
     url: "https://www.who.int/about/funding/invest-in-who/investment-round/four-years-forward/malaysia-impact-story"
     publisher: "World Health Organization"
-  - title: "COVID-19 Inpatient Deaths and Brought-in-Dead Cases in Malaysia"
+  - title: "Các ca Tử vong Nội trú và Tử vong Trước khi Nhập viện do COVID-19 tại Malaysia (COVID-19 Inpatient Deaths and Brought-in-Dead Cases in Malaysia)"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9298663/"
     publisher: "PMC (National Library of Medicine)"
 

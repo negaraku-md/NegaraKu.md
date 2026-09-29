@@ -49,10 +49,10 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Kanun Keseksaan (Akta 574) — Seksyen 96–106, Hak Mempertahankan Diri (cetakan semula, seperti pada 1 Oktober 2018)"
+  - title: "Bộ luật Hình sự (Act 574) — Điều 96–106, Quyền tự vệ (bản in lại, tính đến ngày 1 tháng 10 năm 2018) (Kanun Keseksaan (Akta 574) — Seksyen 96–106, Hak Mempertahankan Diri (cetakan semula, seperti pada 1 Oktober 2018))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Penal%20Code%2018%20Dis%202018.pdf"
-    publisher: "Pejabat Peguam Negara Malaysia (AGC) — Laws of Malaysia, Portal e-LoM"
-  - title: "Self-Defence 101 — hak pertahanan diri, kemunasabahan dan 'empat justifikasi kardinal'"
+    publisher: "Phòng Tổng Chưởng lý Malaysia (AGC) — Laws of Malaysia, Cổng e-LoM"
+  - title: "Self-Defence 101 — quyền tự vệ, tính hợp lý và 'bốn lý lẽ biện minh cốt yếu' (Self-Defence 101 — hak pertahanan diri, kemunasabahan dan 'empat justifikasi kardinal')"
     url: "http://mathews.my/self-defence-101/"
     publisher: "Aaron Mathews Advocates & Solicitors"
 

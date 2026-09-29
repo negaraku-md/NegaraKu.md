@@ -52,21 +52,21 @@ verificationNeeded:
 
 updated: 2026-09-07
 sources:
-  - title: "Venture Capital and Private Equity Registration"
+  - title: "Đăng ký Đầu tư mạo hiểm và Vốn cổ phần tư nhân (Venture Capital and Private Equity Registration)"
     url: "https://www.sc.com.my/regulation/licensing/venture-capital-and-private-equity-registration"
-    publisher: "Securities Commission Malaysia"
-  - title: "Guidelines on the Registration of Venture Capital and Private Equity Corporations and Management Corporations"
+    publisher: "Ủy ban Chứng khoán Malaysia (Securities Commission Malaysia)"
+  - title: "Hướng dẫn về Đăng ký các Tập đoàn Đầu tư mạo hiểm và Vốn cổ phần tư nhân và các Tập đoàn Quản lý (Guidelines on the Registration of Venture Capital and Private Equity Corporations and Management Corporations)"
     url: "https://www.sc.com.my/regulation/guidelines"
-    publisher: "Securities Commission Malaysia"
-  - title: "Venture Capital and Private Equity Tax Incentives"
+    publisher: "Ủy ban Chứng khoán Malaysia (Securities Commission Malaysia)"
+  - title: "Ưu đãi thuế cho Đầu tư mạo hiểm và Vốn cổ phần tư nhân (Venture Capital and Private Equity Tax Incentives)"
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
-    publisher: "Securities Commission Malaysia"
-  - title: "Public Ruling No. 7/2022: Venture Capital Tax Incentives"
+    publisher: "Ủy ban Chứng khoán Malaysia (Securities Commission Malaysia)"
+  - title: "Phán quyết Công khai số 7/2022: Ưu đãi thuế Đầu tư mạo hiểm (Public Ruling No. 7/2022: Venture Capital Tax Incentives)"
     url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
-    publisher: "Inland Revenue Board of Malaysia (LHDN)"
-  - title: "SC Revises Venture Capital and Private Equity Framework"
+    publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
+  - title: "SC sửa đổi Khung Đầu tư mạo hiểm và Vốn cổ phần tư nhân (SC Revises Venture Capital and Private Equity Framework)"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"
-    publisher: "Securities Commission Malaysia"
+    publisher: "Ủy ban Chứng khoán Malaysia (Securities Commission Malaysia)"
 
 entity: "Venture Capital and Private Equity (Malaysia)"
 relations:

@@ -53,18 +53,18 @@ verificationNeeded:
   - "Dòng liêm chính trong bảng điều kiện: văn bản luật (Mục 264) không ấn định bất kỳ thời hạn nào đối với việc bị kết án gian lận/thiếu trung thực (để mở). Hãy xác minh liệu hướng dẫn hành chính của JANM có áp đặt bất kỳ thời hạn cụ thể nào hay không."
 updated: 2026-08-08
 sources:
-  - title: "Approval & Licence Renewal of Auditor / Company Liquidator (FAQ)"
+  - title: "Phê duyệt & Gia hạn Giấy phép cho Kiểm toán viên / Thanh lý viên Công ty (Câu hỏi Thường gặp) (Approval & Licence Renewal of Auditor / Company Liquidator (FAQ))"
     url: "https://www.anm.gov.my/en/faqs/approval-licence-renewal-of-auditor-company-liquidator"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "Who can be an Auditor and sign the Auditor's Report?"
+    publisher: "Cục Kế toán Nhà nước Malaysia (JANM)"
+  - title: "Ai có thể là Kiểm toán viên và ký Báo cáo Kiểm toán? (Who can be an Auditor and sign the Auditor's Report?)"
     url: "https://ccs-co.com/post/who-can-be-an-auditor-and-sign-the-auditor-s-report/"
     publisher: "CCS & Co (Chartered Accountants)"
-  - title: "Companies Act 2016 (Act 777) — official reprint (ss.263 & 264)"
+  - title: "Đạo luật Công ty 2016 (Companies Act 2016, Act 777) — bản tái bản chính thức (các điều 263 & 264) (Companies Act 2016 (Act 777) — official reprint (ss.263 & 264))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Guidelines Pursuant to Subsection 264(4A) of the Companies Act 2016"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Hướng dẫn theo Tiểu mục 264(4A) của Đạo luật Công ty 2016 (Companies Act 2016) (Guidelines Pursuant to Subsection 264(4A) of the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/01_Guidelines%20Pursuant%20to%20Section%20264(4A)%20of%20the%20CA%202016.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Juruaudit Syarikat yang Diluluskan"
 relations:

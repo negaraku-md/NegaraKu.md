@@ -51,19 +51,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Common Gaming Houses Act 1953 (Act 289)"
+  - title: "Common Gaming Houses Act 1953 (Act 289) (Common Gaming Houses Act 1953 (Act 289))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20289.pdf"
     publisher: "Phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia)"
-  - title: "Betting Act 1953 (Act 495)"
+  - title: "Betting Act 1953 (Act 495) (Betting Act 1953 (Act 495))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20495.pdf"
     publisher: "Phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia)"
-  - title: "Pool Betting Act 1967 (Act 384)"
+  - title: "Pool Betting Act 1967 (Act 384) (Pool Betting Act 1967 (Act 384))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20384.pdf"
     publisher: "Phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia)"
   - title: "Malaysian Anti-Corruption Commission Act 2009 (Act 694) — có hiệu lực 1 tháng 1 năm 2009"
     url: "https://lom.agc.gov.my/act-detail.php?act=694"
     publisher: "Phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia)"
-  - title: "Sports Development Act 1997 (Act 576)"
+  - title: "Sports Development Act 1997 (Act 576) (Sports Development Act 1997 (Act 576))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20576.pdf"
     publisher: "Phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia)"
   - title: "Tòa phúc thẩm phán quyết cờ bạc trực tuyến là một tội danh theo Luật Nhà Cờ bạc Công cộng 1953 (Appeals court rules online gambling an offence under Common Gaming Houses Act 1953)"

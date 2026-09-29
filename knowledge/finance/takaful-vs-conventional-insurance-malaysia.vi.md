@@ -50,18 +50,18 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Islamic Financial Services Act 2013 (Act 759), Laws of Malaysia — official text"
+  - title: "Đạo luật Dịch vụ Tài chính Hồi giáo 2013 (Islamic Financial Services Act 2013) (Act 759), Laws of Malaysia — văn bản chính thức (Islamic Financial Services Act 2013 (Act 759), Laws of Malaysia — official text)"
     url: "https://www.investmalaysia.gov.my/media/drcdqgbk/islamic-financial-services-act-2013.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (via Invest Malaysia)"
-  - title: "Financial Services Act 2013 (Act 758), Laws of Malaysia — official text"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia, qua Invest Malaysia)"
+  - title: "Đạo luật Dịch vụ Tài chính 2013 (Financial Services Act 2013) (Act 758), Laws of Malaysia — văn bản chính thức (Financial Services Act 2013 (Act 758), Laws of Malaysia — official text)"
     url: "https://www.investmalaysia.gov.my/media/xrnl0vfp/financial-services-act-2013.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (via Invest Malaysia)"
-  - title: "Takaful Industry Distributes RM10.20 Bln In Benefits In 2024 – MTA"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia, qua Invest Malaysia)"
+  - title: "Ngành Takaful chi trả 10,20 tỷ RM quyền lợi trong năm 2024 – MTA (Takaful Industry Distributes RM10.20 Bln In Benefits In 2024 – MTA)"
     url: "https://www.bernama.com/en/news.php?id=2413230"
     publisher: "Bernama (Malaysian National News Agency)"
-  - title: "Islamic Financial Services Act 2013 (Act 759)"
+  - title: "Đạo luật Dịch vụ Tài chính Hồi giáo 2013 (Act 759) (Islamic Financial Services Act 2013 (Act 759))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20130322_759_BI_Combined.pdf"
-    publisher: "Attorney General's Chambers (Laws of Malaysia)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers, Laws of Malaysia)"
 
 relations:
   - { rel: "compares-with", to: "conventional-insurance-malaysia" }

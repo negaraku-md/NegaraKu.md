@@ -58,23 +58,23 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "National Sustainability Reporting Framework"
+  - title: "Khung Báo cáo Phát triển Bền vững Quốc gia (National Sustainability Reporting Framework)"
     url: "https://www.sc.com.my/api/documentms/download.ashx?id=e98c3900-7b35-4cf5-a07d-fd17acf8734e"
-    publisher: "Securities Commission Malaysia"
+    publisher: "Ủy ban Chứng khoán Malaysia (SC)"
     date: "2024-09-24"
-  - title: "National Sustainability Reporting Framework — implementation summary and additional transition reliefs"
+  - title: "Khung Báo cáo Phát triển Bền vững Quốc gia — tóm tắt triển khai và các miễn giảm chuyển đổi bổ sung (National Sustainability Reporting Framework — implementation summary and additional transition reliefs)"
     url: "https://www.sc.com.my/api/documentms/download.ashx?id=20efbd8f-b5a0-4122-994f-edbccd53c2b2"
-    publisher: "Securities Commission Malaysia"
-  - title: "National Sustainability Reporting Framework"
+    publisher: "Ủy ban Chứng khoán Malaysia (SC)"
+  - title: "Khung Báo cáo Phát triển Bền vững Quốc gia (National Sustainability Reporting Framework)"
     url: "https://www.sc.com.my/nsrf"
-    publisher: "Securities Commission Malaysia"
-  - title: "Consultative Document on the Proposed Amendments to the Companies Act 2016 [Act 777] on Sustainability Reporting"
+    publisher: "Ủy ban Chứng khoán Malaysia (SC)"
+  - title: "Tài liệu tham vấn về các sửa đổi đề xuất đối với Companies Act 2016 [Act 777] về báo cáo phát triển bền vững (Consultative Document on the Proposed Amendments to the Companies Act 2016 [Act 777] on Sustainability Reporting)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/%5BENG%5D20260422_External%20ESG%20Framework_Consultative%20Document_BI.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2026-04-22"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), văn bản cập nhật tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "National Sustainability Reporting Framework (NSRF)"
 relations:

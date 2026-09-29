@@ -53,9 +53,9 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Akta Cukai Pendapatan 1967 (Akta 53) — teks dikemas kini, setakat 1 November 2023 (Seksyen 6, 6A, 44, 82, 82A dan Jadual 1)"
+  - title: "Đạo luật Thuế Thu nhập năm 1967 (Akta 53) — văn bản cập nhật, tính đến ngày 1 tháng 11 năm 2023 (Điều 6, 6A, 44, 82, 82A và Phụ lục 1) (Akta Cukai Pendapatan 1967 (Akta 53) — teks dikemas kini, setakat 1 November 2023 (Seksyen 6, 6A, 44, 82, 82A dan Jadual 1))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1822739_BI/ACT%2053%20AS%20AT%201.11.2023%20(REPRINT%20ONLINE%20VERSION)%20FINAL.pdf"
-    publisher: "Pejabat Peguam Negara Malaysia (AGC), Laws of Malaysia"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC), Laws of Malaysia"
 
 relations:
   - { rel: "governs", to: "income-tax-act-1967" }

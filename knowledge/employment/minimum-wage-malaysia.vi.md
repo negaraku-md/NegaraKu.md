@@ -77,19 +77,19 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Perintah Gaji Minimum 2024 — P.U.(A) 376"
+  - title: "Lệnh Lương Tối thiểu 2024 — P.U.(A) 376 (Perintah Gaji Minimum 2024 — P.U.(A) 376)"
     url: "https://gajiminimum.mohr.gov.my/wp-content/uploads/PUA%20376.pdf"
-    publisher: "Attorney General's Chambers / MOHR"
+    publisher: "Văn phòng Tổng Chưởng lý / MOHR"
     date: "2024-12-04"
-  - title: "Sekretariat Majlis Perundingan Gaji Negara"
+  - title: "Ban Thư ký Hội đồng Tư vấn Lương Quốc gia (Sekretariat Majlis Perundingan Gaji Negara)"
     url: "https://gajiminimum.mohr.gov.my/"
-    publisher: "MOHR"
-  - title: "Employment Act 1955 (Act 265) — updated text of reprint"
+    publisher: "Bộ Nhân lực (MOHR)"
+  - title: "Đạo luật Việc làm 1955 — Employment Act 1955 (Act 265) — văn bản in lại cập nhật (Employment Act 1955 (Act 265) — updated text of reprint)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "JTKSM"
-  - title: "National Wages Consultative Council Act 2011 (Act 732)"
+    publisher: "Cục Lao động Bán đảo Malaysia (JTKSM)"
+  - title: "Đạo luật Hội đồng Tư vấn Lương Quốc gia 2011 — National Wages Consultative Council Act 2011 (Act 732) (National Wages Consultative Council Act 2011 (Act 732))"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-03/3.%20National%20Wages%20Consultative%20Council%20Act%202011.pdf"
-    publisher: "JTKSM"
+    publisher: "Cục Lao động Bán đảo Malaysia (JTKSM)"
 
 entity: "Malaysian minimum wage"
 relations:

@@ -36,21 +36,21 @@ revisions:
     reviewer: null
 updated: 2026-07-24
 sources:
-  - title: "PeKa B40"
+  - title: "PeKa B40 (PeKa B40)"
     url: "https://protecthealth.com.my/peka-b40/"
-    publisher: "ProtectHealth Corporation Sdn Bhd (pengendali skim rasmi PeKa B40 bagi pihak Kementerian Kesihatan Malaysia)"
-  - title: "Skim Peduli Kesihatan untuk Kumpulan B40 (PeKa B40)"
+    publisher: "ProtectHealth Corporation Sdn Bhd (đơn vị vận hành chính thức chương trình PeKa B40 thay mặt Bộ Y tế Malaysia)"
+  - title: "Chương trình Chăm sóc Sức khỏe cho Nhóm B40 (PeKa B40) (Skim Peduli Kesihatan untuk Kumpulan B40 (PeKa B40))"
     url: "https://manfaat.mof.gov.my/b2026/individu/pekab40"
-    publisher: "Kementerian Kewangan Malaysia (MOF) — Portal Manfaat"
-  - title: "Skim Peduli Kesihatan (PEKA) untuk Kumpulan B40"
+    publisher: "Bộ Tài chính Malaysia (MOF) — Cổng Phúc lợi (Portal Manfaat)"
+  - title: "Chương trình Chăm sóc Sức khỏe (PEKA) cho Nhóm B40 (Skim Peduli Kesihatan (PEKA) untuk Kumpulan B40)"
     url: "https://ihsanmadani.gov.my/inisiatif/kesihatan/skim-peduli-kesihatan-peka-untuk-kumpulan-b40-0"
-    publisher: "Portal Ihsan MADANI, Jabatan Perdana Menteri"
-  - title: "Semakan Kelayakan PeKa B40"
+    publisher: "Portal Ihsan MADANI, Văn phòng Thủ tướng (Jabatan Perdana Menteri)"
+  - title: "Kiểm tra Điều kiện Tham gia PeKa B40 (Semakan Kelayakan PeKa B40)"
     url: "https://kelayakan.pekab40.com.my/semakan-kelayakan"
-    publisher: "ProtectHealth Corporation Sdn Bhd (portal semakan kelayakan rasmi PeKa B40)"
-  - title: "mySalam — Soalan Lazim: Kelayakan"
+    publisher: "ProtectHealth Corporation Sdn Bhd (cổng kiểm tra điều kiện tham gia chính thức của PeKa B40)"
+  - title: "mySalam — Câu hỏi Thường gặp: Điều kiện Tham gia (mySalam — Soalan Lazim: Kelayakan)"
     url: "https://www.mysalam.com.my/mys/info/?url=faq_kelayakan"
-    publisher: "mySalam, dikendalikan oleh Great Eastern Takaful Berhad di bawah Kementerian Kewangan Malaysia"
+    publisher: "mySalam, do Great Eastern Takaful Berhad vận hành dưới sự quản lý của Bộ Tài chính Malaysia"
 entity: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40)"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }

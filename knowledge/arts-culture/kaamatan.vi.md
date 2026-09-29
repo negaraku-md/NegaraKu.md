@@ -53,18 +53,18 @@ verificationNeeded:
 
 updated: 2026-07-24
 sources:
-  - title: "Harvest Festival (Pesta Kaamatan)"
+  - title: "Lễ hội Mùa gặt (Harvest Festival (Pesta Kaamatan))"
     url: "https://sabahtourism.com/article/harvest-festival-pesta-kaamatan/"
     publisher: "Sabah Tourism Board"
-  - title: "Kaamatan, A Celebration of Culture"
+  - title: "Kaamatan, lễ tôn vinh văn hóa (Kaamatan, A Celebration of Culture)"
     url: "https://sabahtourism.com/article/kaamatan-a-celebration-of-culture/"
     publisher: "Sabah Tourism Board"
-  - title: "About Us — KDCA Sabah"
+  - title: "Về chúng tôi — KDCA Sabah (About Us — KDCA Sabah)"
     url: "https://kdca.org.my/about-us/"
     publisher: "Kadazan Dusun Cultural Association (KDCA)"
-  - title: "Kaamatan Festival: A Celebration of Gratitude and Cultural Heritage"
+  - title: "Lễ hội Kaamatan: Tôn vinh lòng biết ơn và di sản văn hóa (Kaamatan Festival: A Celebration of Gratitude and Cultural Heritage)"
     url: "https://library.sabah.gov.my/index.php/en/our-links/featured-articles/kaamatan-festival-a-celebration-of-gratitude-and-cultural-heritage"
-    publisher: "Sabah State Library"
+    publisher: "Thư viện Bang Sabah"
   - title: "Unduk Ngadau"
     url: "https://en.wikipedia.org/wiki/Unduk_Ngadau"
     publisher: "Wikipedia"

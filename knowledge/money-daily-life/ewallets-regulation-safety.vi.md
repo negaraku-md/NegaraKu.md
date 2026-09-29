@@ -57,15 +57,15 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Electronic Money (E-Money) Policy Document (issued 31 January 2025)"
+  - title: "Tài liệu Chính sách về Tiền Điện tử (E-Money) (ban hành ngày 31 tháng 1 năm 2025) (Electronic Money (E-Money) Policy Document (issued 31 January 2025))"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"
-    publisher: "Bank Negara Malaysia"
-  - title: "Non-bank E-money issuers"
+    publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
+  - title: "Các tổ chức phát hành tiền điện tử phi ngân hàng (Non-bank E-money issuers)"
     url: "https://www.bnm.gov.my/non-bank-e-money-issuers"
-    publisher: "Bank Negara Malaysia"
-  - title: "Deposit Insurance System"
+    publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
+  - title: "Hệ thống Bảo hiểm Tiền gửi (Deposit Insurance System)"
     url: "https://www.pidm.gov.my/general/how-we-protect-you/dis"
-    publisher: "Perbadanan Insurans Deposit Malaysia (PIDM)"
+    publisher: "Tổng công ty Bảo hiểm Tiền gửi Malaysia (PIDM)"
 
 entity: "Pengeluar e-wang (e-money issuer, EMI)"
 relations:

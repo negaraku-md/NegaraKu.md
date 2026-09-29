@@ -47,21 +47,21 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "AES FAQ"
+  - title: "Câu hỏi thường gặp về AES (AES FAQ)"
     url: "https://www.jpj.gov.my/en/aes-faq/"
-    publisher: "Jabatan Pengangkutan Jalan Malaysia (JPJ)"
-  - title: "MyJPJ - Portal Rasmi JPJ"
+    publisher: "Cục Giao thông Đường bộ Malaysia (JPJ)"
+  - title: "MyJPJ - Cổng thông tin Chính thức JPJ (MyJPJ - Portal Rasmi JPJ)"
     url: "https://www.jpj.gov.my/myjpj/"
-    publisher: "Jabatan Pengangkutan Jalan Malaysia (JPJ)"
-  - title: "Semakan Saman"
+    publisher: "Cục Giao thông Đường bộ Malaysia (JPJ)"
+  - title: "Kiểm tra giấy phạt (Semakan Saman)"
     url: "https://www.malaysia.gov.my/my/digital-services/semakan-saman"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "MyBayar - Portal Rasmi PDRM"
+    publisher: "Cổng thông tin Chính thức Chính phủ Malaysia (MyGovernment)"
+  - title: "MyBayar - Cổng thông tin Chính thức PDRM (MyBayar - Portal Rasmi PDRM)"
     url: "https://mybayar.rmp.gov.my/"
-    publisher: "Polis Diraja Malaysia (PDRM)"
+    publisher: "Cảnh sát Hoàng gia Malaysia (PDRM)"
   - title: "PBTPay 2.0"
     url: "https://pbtpay.kpkt.gov.my/"
-    publisher: "Jabatan Kerajaan Tempatan, Kementerian Perumahan dan Kerajaan Tempatan (KPKT)"
+    publisher: "Cục Chính quyền Địa phương, Bộ Nhà ở và Chính quyền Địa phương (KPKT)"
 
 entity: "Saman trafik Malaysia"
 relations:

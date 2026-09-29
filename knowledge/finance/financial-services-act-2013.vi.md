@@ -41,21 +41,21 @@ revisions:
 verificationNeeded: []
 updated: 2026-08-14
 sources:
-  - title: "Financial Services Act 2013 and Islamic Financial Services Act 2013 Come Into Force"
+  - title: "Đạo luật Dịch vụ Tài chính 2013 và Đạo luật Dịch vụ Tài chính Hồi giáo 2013 có hiệu lực (Financial Services Act 2013 and Islamic Financial Services Act 2013 Come Into Force)"
     url: "https://www.bnm.gov.my/-/financial-services-act-2013-and-islamic-financial-services-act-2013-come-into-force"
-    publisher: "Bank Negara Malaysia"
-  - title: "Financial Services Act 2013 (full text, Act 758)"
+    publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
+  - title: "Đạo luật Dịch vụ Tài chính 2013 (toàn văn, Act 758) (Financial Services Act 2013 (full text, Act 758))"
     url: "https://www.bnm.gov.my/documents/20124/820862/Financial+Services+Act+2013.pdf"
-    publisher: "Bank Negara Malaysia"
-  - title: "Financial Services Act 2013 — Wikipedia"
+    publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
+  - title: "Đạo luật Dịch vụ Tài chính 2013 — Wikipedia (Financial Services Act 2013 — Wikipedia)"
     url: "https://en.wikipedia.org/wiki/Financial_Services_Act_2013"
     publisher: "Wikipedia"
-  - title: "Financial Services Act 2013 – Part 1"
+  - title: "Đạo luật Dịch vụ Tài chính 2013 – Phần 1 (Financial Services Act 2013 – Part 1)"
     url: "https://www.lowpartners.com/financial-services-act-2013-part-1/"
     publisher: "Low & Partners"
-  - title: "Financial Services Act 2013 (Act 758), consolidated text as at 1 August 2021 — Arrangement of Sections (Parts I-XVII, sections 1-281, Schedules 1-16), commencement note, and sections 271-272 (repeal and savings)"
+  - title: "Đạo luật Dịch vụ Tài chính 2013 (Act 758), văn bản hợp nhất tính đến ngày 1 tháng 8 năm 2021 — Sắp xếp các Điều (Phần I-XVII, mục 1-281, Phụ lục 1-16), ghi chú thi hành, và mục 271-272 (bãi bỏ và điều khoản chuyển tiếp) (Financial Services Act 2013 (Act 758), consolidated text as at 1 August 2021 — Arrangement of Sections (Parts I-XVII, sections 1-281, Schedules 1-16), commencement note, and sections 271-272 (repeal and savings))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1691496_BI/ACT%20758_2.8.2021.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Laws of Malaysia)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia, Laws of Malaysia)"
 entity: "Financial Services Act 2013"
 relations: []
 related: []

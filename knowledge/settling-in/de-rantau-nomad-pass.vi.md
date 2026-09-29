@@ -53,13 +53,13 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "DE Rantau Pass Frequently Asked Questions (FAQ) V8"
+  - title: "Câu hỏi thường gặp về DE Rantau Pass (FAQ) V8 (DE Rantau Pass Frequently Asked Questions (FAQ) V8)"
     url: "https://www.mdec.my/static/pdf/derantau/251105_DE%20Rantau_Pass_FAQ_V8.pdf"
     publisher: "Malaysia Digital Economy Corporation (MDEC)"
-  - title: "DE Rantau Nomad Pass eligibility expanded"
+  - title: "Mở rộng điều kiện đủ tiêu chuẩn của DE Rantau Nomad Pass (DE Rantau Nomad Pass eligibility expanded)"
     url: "https://www.digital.gov.my/en-GB/siaran/DE-Rantau-Nomad-Pass-eligibility-expanded"
-    publisher: "Ministry of Digital, Malaysia (digital.gov.my)"
-  - title: "DE Rantau — For Foreign Digital Nomads"
+    publisher: "Bộ Kỹ thuật số, Malaysia (digital.gov.my)"
+  - title: "DE Rantau — Dành cho những người du mục kỹ thuật số nước ngoài (DE Rantau — For Foreign Digital Nomads)"
     url: "https://mdec.my/derantau/foreign"
     publisher: "Malaysia Digital Economy Corporation (MDEC)"
 

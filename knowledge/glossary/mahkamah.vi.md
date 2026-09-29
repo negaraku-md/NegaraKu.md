@@ -38,12 +38,12 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Hierarki Mahkamah — Portal Rasmi Badan Kehakiman Malaysia"
+  - title: "Hệ thống phân cấp tòa án — Cổng thông tin chính thức của Cơ quan Tư pháp Malaysia (Hierarki Mahkamah — Portal Rasmi Badan Kehakiman Malaysia)"
     url: "https://www.kehakiman.gov.my/ms/mengenai-kami/mahkamah/mahkamah-persekutuan/hierarki-mahkamah"
-    publisher: "Badan Kehakiman Malaysia"
-  - title: "Perlembagaan Persekutuan (Perkara 121 — Mahkamah Persekutuan)"
+    publisher: "Cơ quan Tư pháp Malaysia"
+  - title: "Hiến pháp Liên bang (Điều 121 — Tòa án Liên bang) (Perlembagaan Persekutuan (Perkara 121 — Mahkamah Persekutuan))"
     url: "https://lom.agc.gov.my/"
-    publisher: "Jabatan Peguam Negara"
+    publisher: "Văn phòng Tổng Chưởng lý (AGC)"
 
 entity: "Mahkamah"
 relations:

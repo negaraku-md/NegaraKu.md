@@ -49,12 +49,12 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Companies Act 2016 (Act 777), online updated text of reprint as at 1 August 2022"
+  - title: "Đạo luật Công ty 2016 (Companies Act 2016, Act 777), văn bản cập nhật trực tuyến của bản tái bản tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), online updated text of reprint as at 1 August 2022)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
-    publisher: "Attorney General's Chambers of Malaysia (AGC), Federal Legislation Portal"
-  - title: "Companies Act 2016 (Act 777), Part V Division 1 — Foreign Companies (incl. ss.263, 266, 574, 575 and 576)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC), Cổng Pháp luật Liên bang"
+  - title: "Đạo luật Công ty 2016 (Companies Act 2016, Act 777), Phần V Chương 1 — Công ty Nước ngoài (bao gồm các điều 263, 266, 574, 575 và 576) (Companies Act 2016 (Act 777), Part V Division 1 — Foreign Companies (incl. ss.263, 266, 574, 575 and 576))"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "Companies Commission of Malaysia (SSM)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Companies Commission of Malaysia (SSM)"
 wikidata: "Q1121232"

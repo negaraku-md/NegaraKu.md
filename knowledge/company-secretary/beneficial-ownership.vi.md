@@ -94,7 +94,7 @@ sensitivity: "none"
 
 updated: 2026-07-20
 sources:
-  - title: "Companies (Amendment) Act 2024 [Act A1701]"
+  - title: "Đạo luật Công ty (Sửa đổi) 2024 (Companies (Amendment) Act 2024) [Act A1701] (Companies (Amendment) Act 2024 [Act A1701])"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/A1701%20BI.pdf"
     publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2024-02-02"
@@ -112,7 +112,7 @@ sources:
   - title: "Câu hỏi thường gặp — Khung Báo cáo Chủ sở hữu Hưởng lợi của Công ty (FAQ — Beneficial Ownership Reporting Framework of Companies)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/FAQs%20on%20BO%20(English).pdf"
     publisher: "Ủy ban Công ty Malaysia (SSM)"
-  - title: "Companies Act 2016 [Act 777]"
+  - title: "Đạo luật Công ty 2016 (Companies Act 2016) [Act 777] (Companies Act 2016 [Act 777])"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "Ủy ban Công ty Malaysia (SSM)"
   - title: "Điều 68(7) Báo cáo Thường niên + Phụ lục Chủ sở hữu Hưởng lợi (Section 68(7) Annual Return + Beneficial Ownership Annexure)"

@@ -53,19 +53,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Latar Belakang — FAMA"
+  - title: "Bối cảnh — FAMA (Latar Belakang — FAMA)"
     url: "https://www.fama.gov.my/latar-belakang"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "Objektif / Undang-Undang — FAMA"
+    publisher: "Cơ quan Tiếp thị Nông nghiệp Liên bang (FAMA)"
+  - title: "Mục tiêu / Pháp luật — FAMA (Objektif / Undang-Undang — FAMA)"
     url: "https://www.fama.gov.my/objektif-undang-undang"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "Akta / Peraturan (Regulatori) — FAMA"
+    publisher: "Cơ quan Tiếp thị Nông nghiệp Liên bang (FAMA)"
+  - title: "Đạo luật / Quy định (Quản lý) — FAMA (Akta / Peraturan (Regulatori) — FAMA)"
     url: "https://www.fama.gov.my/akta-/-peraturan-regulatori"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "Soalan Lazim (FAQ) — FAMA"
+    publisher: "Cơ quan Tiếp thị Nông nghiệp Liên bang (FAMA)"
+  - title: "Câu hỏi thường gặp (FAQ) — FAMA (Soalan Lazim (FAQ) — FAMA)"
     url: "https://www.fama.gov.my/faq"
-    publisher: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
-  - title: "FAMA outlets record RM122m of sales in less than two months"
+    publisher: "Cơ quan Tiếp thị Nông nghiệp Liên bang (FAMA)"
+  - title: "Các cửa hàng FAMA đạt doanh thu 122 triệu RM trong chưa đầy hai tháng (FAMA outlets record RM122m of sales in less than two months)"
     url: "https://www.malaymail.com/news/malaysia/2021/10/24/fama-outlets-record-rm122m-of-sales-in-less-than-two-months/2015626"
     publisher: "Malay Mail"
 

@@ -38,20 +38,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal)"
+  - title: "Ban Thư ký Hội đồng Tham vấn Lương Quốc gia (cổng thông tin Minimum Wages Order 2024) (Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal))"
     url: "https://gajiminimum.mohr.gov.my/"
-    publisher: "Ministry of Human Resources (MOHR)"
-  - title: "Perintah Gaji Minimum 2024 — P.U.(A) 376"
+    publisher: "Bộ Nguồn Nhân lực (MOHR)"
+  - title: "Lệnh Lương Tối thiểu (Perintah Gaji Minimum) 2024 — P.U.(A) 376 (Perintah Gaji Minimum 2024 — P.U.(A) 376)"
     url: "https://gajiminimum.mohr.gov.my/wp-content/uploads/PUA%20376.pdf"
-    publisher: "Attorney General's Chambers / MOHR"
+    publisher: "Phòng Tổng Chưởng lý / MOHR"
     date: "2024-12-04"
-  - title: "Household Income Survey Report 2024 (Malaysia & States)"
+  - title: "Báo cáo Khảo sát Thu nhập Hộ gia đình 2024 (Malaysia và các bang) (Household Income Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
     date: "2025-10-08"
-  - title: "Salaries and Wages Survey Report 2024"
+  - title: "Báo cáo Khảo sát Lương và Tiền công 2024 (Salaries and Wages Survey Report 2024)"
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
-    publisher: "Department of Statistics Malaysia (DOSM)"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
     date: "2025-09-29"
 
 entity: "Malaysia minimum wage and median income"

@@ -57,22 +57,22 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Implementation of MPERS — private entity definition"
+  - title: "Việc triển khai MPERS — định nghĩa đơn vị tư nhân (Implementation of MPERS — private entity definition)"
     url: "https://www.masb.org.my/pages.php?id=275"
-    publisher: "MASB"
-  - title: "MASB Approved Accounting Standards for Private Entities"
+    publisher: "Hội đồng Chuẩn mực Kế toán Malaysia (MASB)"
+  - title: "Chuẩn mực Kế toán được MASB phê duyệt cho các đơn vị tư nhân (MASB Approved Accounting Standards for Private Entities)"
     url: "https://www.masb.org.my/pages.php?id=20"
-    publisher: "MASB"
-  - title: "Malaysian Financial Reporting Standards — status and effective dates"
+    publisher: "Hội đồng Chuẩn mực Kế toán Malaysia (MASB)"
+  - title: "Chuẩn mực Báo cáo Tài chính Malaysia — trạng thái và ngày hiệu lực (Malaysian Financial Reporting Standards — status and effective dates)"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "MASB"
-  - title: "MPERS (2025)"
+    publisher: "Hội đồng Chuẩn mực Kế toán Malaysia (MASB)"
+  - title: "Chuẩn mực Báo cáo Đơn vị Tư nhân Malaysia (MPERS) (2025) (MPERS (2025))"
     url: "https://www.masb.org.my/pages.php?id=615"
-    publisher: "MASB"
+    publisher: "Hội đồng Chuẩn mực Kế toán Malaysia (MASB)"
     date: "2025-10-10"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), bản in lại tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "MFRS and MPERS financial reporting frameworks"
 relations:

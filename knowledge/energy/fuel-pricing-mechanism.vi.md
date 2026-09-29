@@ -49,19 +49,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences"
+  - title: "Giá bán lẻ RON95 không trợ giá ấn định ở mức RM2,60/lít khi BUDI95 bắt đầu (Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/non-subsidised-ron95-retail-price-set-at-rm2-60-per-litre-as-budi95-commences"
-    publisher: "Kementerian Kewangan Malaysia (MOF)"
-  - title: "Price of Petroleum & Diesel"
+    publisher: "Bộ Tài chính Malaysia (MOF)"
+  - title: "Giá xăng dầu & diesel (Price of Petroleum & Diesel)"
     url: "https://open.dosm.gov.my/data-catalogue/fuelprice"
-    publisher: "OpenDOSM, Jabatan Perangkaan Malaysia"
-  - title: "Government Reduces Non-Subsidised RON95, RON97 And Diesel Retail Prices From 25 December 2025 To 31 December 2025"
+    publisher: "OpenDOSM, Cục Thống kê Malaysia (DOSM)"
+  - title: "Chính phủ giảm giá bán lẻ RON95, RON97 và diesel không trợ giá từ ngày 25 tháng 12 năm 2025 đến ngày 31 tháng 12 năm 2025 (Government Reduces Non-Subsidised RON95, RON97 And Diesel Retail Prices From 25 December 2025 To 31 December 2025)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/retail-price/government-reduces-non-subsidised-ron95-ron97-and-diesel-retail-prices-from-25-december-2025-to-31-december-2025"
-    publisher: "Kementerian Kewangan Malaysia (MOF)"
-  - title: "Government Implements Targeted Diesel Subsidy For Peninsular Malaysia Effective 10 June 2024"
+    publisher: "Bộ Tài chính Malaysia (MOF)"
+  - title: "Chính phủ triển khai trợ giá diesel có mục tiêu cho Bán đảo Malaysia có hiệu lực từ ngày 10 tháng 6 năm 2024 (Government Implements Targeted Diesel Subsidy For Peninsular Malaysia Effective 10 June 2024)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
-    publisher: "Kementerian Kewangan Malaysia (MOF)"
-  - title: "March 2021 week two fuel price — weekly cycle now revised to Wednesday"
+    publisher: "Bộ Tài chính Malaysia (MOF)"
+  - title: "Giá nhiên liệu tuần thứ hai tháng 3 năm 2021 — chu kỳ hàng tuần nay đổi sang thứ Tư (March 2021 week two fuel price — weekly cycle now revised to Wednesday)"
     url: "https://paultan.org/2021/03/03/march-2021-week-two-fuel-price-all-prices-unchanged-weekly-cycle-now-revised-thursday-to-wednesday/"
     publisher: "paultan.org"
 

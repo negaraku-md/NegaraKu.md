@@ -58,17 +58,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Labour Ordinance of Sarawak (Amendment) Act 2025 (Act A1754)"
+  - title: "Đạo luật Sửa đổi Pháp lệnh Lao động Sarawak 2025 — Labour Ordinance of Sarawak (Amendment) Act 2025 (Act A1754) (Labour Ordinance of Sarawak (Amendment) Act 2025 (Act A1754))"
     url: "https://www.jtkswk.gov.my/v2/wp-content/uploads/2025/04/Act-A1754-LABOUR-ORDINANCE-OF-SARAWAK-AMENDMENT-ACT-2025-1.pdf"
-    publisher: "Jabatan Tenaga Kerja Sarawak"
+    publisher: "Cục Lao động Sarawak"
     date: "2025-04-14"
-  - title: "Labour Ordinance (Sarawak Cap. 76), updated text as at 1 October 2024"
+  - title: "Pháp lệnh Lao động (Sarawak Cap. 76), văn bản cập nhật đến ngày 1 tháng 10 năm 2024 (Labour Ordinance (Sarawak Cap. 76), updated text as at 1 October 2024)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2162184_BI/Labour%20Ord.%20%5BSarawak%20Cap.76%5D%20as%20at%201%20Oct%202024%20Online%20Final.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Văn phòng Tổng Chưởng lý"
     date: "2024-10-01"
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Đạo luật Việc làm 1955 — Employment Act 1955 (Act 265), văn bản cập nhật đến ngày 1 tháng 1 năm 2023 (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "Cục Lao động Bán đảo Malaysia (JTKSM)"
     date: "2023-01-01"
 
 entity: "Labour Ordinances of Sabah and Sarawak"

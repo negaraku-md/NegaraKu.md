@@ -57,17 +57,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "RPG 7 (Revised) — A Guide to Charging for Professional Assurance Services (Withdrawn with effect from 1 June 2015)"
+  - title: "RPG 7 (Sửa đổi) — Hướng dẫn về Thu phí Dịch vụ Đảm bảo Chuyên nghiệp (Đã thu hồi có hiệu lực từ ngày 1 tháng 6 năm 2015) (RPG 7 (Revised) — A Guide to Charging for Professional Assurance Services (Withdrawn with effect from 1 June 2015))"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_RPG_07_2010_REVISED.pdf"
-    publisher: "MIA"
+    publisher: "Viện Kế toán Malaysia (MIA)"
     date: "2010-03-01"
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024"
+  - title: "Quy chế (về Đạo đức Nghề nghiệp, Ứng xử và Hành nghề) của Viện Kế toán Malaysia (Malaysian Institute of Accountants), cập nhật ngày 5 tháng 11 năm 2024 (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants, updated 5 November 2024)"
     url: "https://mia.org.my/wp-content/uploads/2024/11/By-Laws-updated-Nov-2024-%E2%80%93-Effective-15-December-2024.pdf"
-    publisher: "MIA"
+    publisher: "Viện Kế toán Malaysia (MIA)"
     date: "2024-11-05"
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Đạo luật Công ty 2016 (Companies Act 2016, Act 777), bản tái bản tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2022-08-01"
 
 entity: "Statutory audit fees"

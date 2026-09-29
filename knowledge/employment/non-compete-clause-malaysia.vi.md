@@ -44,13 +44,13 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Contracts Act 1950 (Act 136), reprint incorporating all amendments up to 1 January 2006"
+  - title: "Đạo luật Hợp đồng 1950 — Contracts Act 1950 (Act 136), bản in lại bao gồm tất cả các sửa đổi đến ngày 1 tháng 1 năm 2006 (Contracts Act 1950 (Act 136), reprint incorporating all amendments up to 1 January 2006)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20136.pdf"
-    publisher: "Attorney General's Chambers"
+    publisher: "Văn phòng Tổng Chưởng lý"
     date: "2006-01-01"
-  - title: "Employment Act 1955 (Act 265), updated text as at 1 January 2023"
+  - title: "Đạo luật Việc làm 1955 — Employment Act 1955 (Act 265), văn bản cập nhật đến ngày 1 tháng 1 năm 2023 (Employment Act 1955 (Act 265), updated text as at 1 January 2023)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
-    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"
+    publisher: "Cục Lao động Bán đảo Malaysia (JTKSM)"
     date: "2023-01-01"
 
 entity: "Restraint of trade under s.28 of the Contracts Act 1950"

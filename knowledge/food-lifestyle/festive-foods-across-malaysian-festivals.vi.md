@@ -55,23 +55,23 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "The food culture behind Sabah and Sarawak's Kaamatan and Hari Gawai celebrations"
+  - title: "Văn hóa ẩm thực đằng sau lễ hội Kaamatan và Hari Gawai của Sabah và Sarawak (The food culture behind Sabah and Sarawak's Kaamatan and Hari Gawai celebrations)"
     url: "https://www.thestar.com.my/lifestyle/living/2026/05/31/the-food-culture-behind-sabah-and-sarawaks-kaamatan-and-hari-gawai-celebrations"
     publisher: "The Star"
     date: "2026-05-31"
-  - title: "Yee Sang, The Prosperity Toss Dish — The Higher You Toss, The Better The New Year"
+  - title: "Yee Sang, món gỏi cầu thịnh vượng — Tung càng cao, năm mới càng tốt lành (Yee Sang, The Prosperity Toss Dish — The Higher You Toss, The Better The New Year)"
     url: "https://www.therakyatpost.com/living/2023/01/18/yee-sang-the-prosperity-toss-dish-the-higher-you-toss-the-better-the-new-year/"
     publisher: "The Rakyat Post"
     date: "2023-01-18"
-  - title: "Sabahans Prepare For A Warm And Joyous Christmas Celebration"
+  - title: "Người dân Sabah chuẩn bị cho một lễ Giáng sinh ấm áp và vui tươi (Sabahans Prepare For A Warm And Joyous Christmas Celebration)"
     url: "https://www.bernama.com/en/news.php?id=2376683"
     publisher: "Bernama"
-  - title: "A guide to Deepavali snacks: Titbits for the festive season"
+  - title: "Hướng dẫn về món ăn vặt Deepavali: Những món nhỏ cho mùa lễ hội (A guide to Deepavali snacks: Titbits for the festive season)"
     url: "https://www.periuk.my/stories/a-guide-to-deepavali-snacks/"
     publisher: "Periuk.my"
-  - title: "Memahami Aidilfitri: Kemeriahan Perayaan Hari Raya"
+  - title: "Hiểu về Aidilfitri: Không khí rộn ràng của lễ Hari Raya (Memahami Aidilfitri: Kemeriahan Perayaan Hari Raya)"
     url: "https://library.sabah.gov.my/index.php/ms/pautan/paparan-artikel/memahami-aidilfitri-kemeriahan-perayaan-hari-raya"
-    publisher: "Perpustakaan Negeri Sabah"
+    publisher: "Thư viện Bang Sabah (Perpustakaan Negeri Sabah)"
 
 entity: "Juadah perayaan Malaysia"
 relations:

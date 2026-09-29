@@ -53,19 +53,19 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Malaysia records RM45.04b in halal product exports from January to September 2024 – MITI"
+  - title: "Malaysia ghi nhận RM45,04 tỷ xuất khẩu sản phẩm halal từ tháng 1 đến tháng 9 năm 2024 – MITI (Malaysia records RM45.04b in halal product exports from January to September 2024 – MITI)"
     url: "https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/"
-    publisher: "Malaysian Investment Development Authority (MIDA)"
-  - title: "Halal product exports surpassed RM61bil in 2024, says Miti"
+    publisher: "Cơ quan Phát triển Đầu tư Malaysia (MIDA)"
+  - title: "Xuất khẩu sản phẩm halal vượt RM61 tỷ trong năm 2024, Miti cho biết (Halal product exports surpassed RM61bil in 2024, says Miti)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/04/30/halal-product-exports-surpassed-rm61bil-in-2024-says-miti"
-    publisher: "Free Malaysia Today (laporan pengumuman MITI)"
-  - title: "Islamic Finance and the Development of Malaysia's Halal Economy"
+    publisher: "Free Malaysia Today (đưa tin về thông báo của MITI)"
+  - title: "Tài chính Hồi giáo và sự phát triển của Nền kinh tế Halal Malaysia (Islamic Finance and the Development of Malaysia's Halal Economy)"
     url: "https://www.mof.gov.my/portal/en/news/speech/islamic-finance-and-the-development-of-malaysia-s-halal-economy"
-    publisher: "Ministry of Finance Malaysia (MOF)"
-  - title: "Economic Census 2023: Halal Statistics"
+    publisher: "Bộ Tài chính Malaysia (MOF)"
+  - title: "Tổng điều tra Kinh tế 2023: Thống kê Halal (Economic Census 2023: Halal Statistics)"
     url: "https://www.dosm.gov.my/portal-main/release-content/economic-census-2023-halal-statistics"
-    publisher: "Department of Statistics Malaysia (DOSM)"
-  - title: "Govt to form halal commission to drive RM80bil export target"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
+  - title: "Chính phủ sẽ thành lập ủy ban halal để thúc đẩy mục tiêu xuất khẩu RM80 tỷ (Govt to form halal commission to drive RM80bil export target)"
     url: "https://www.freemalaysiatoday.com/category/nation/2025/07/31/govt-to-form-halal-commission-to-drive-rm80bil-export-target"
     publisher: "Free Malaysia Today"
 

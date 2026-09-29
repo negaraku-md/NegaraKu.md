@@ -38,22 +38,22 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Cars and Motorcycles Registered in Malaysia"
+  - title: "Ô tô và xe máy đăng ký tại Malaysia (Cars and Motorcycles Registered in Malaysia)"
     url: "https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html"
-    publisher: "Land Transport Authority (LTA), Singapore"
-  - title: "Updates for Foreign-Registered Vehicles Entering Singapore"
+    publisher: "Cơ quan Giao thông Đường bộ (LTA), Singapore"
+  - title: "Cập nhật cho phương tiện đăng ký nước ngoài vào Singapore (Updates for Foreign-Registered Vehicles Entering Singapore)"
     url: "https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/2/news-releases/updates-foreign-registered-vehicles-entering-singapore.html"
-    publisher: "Land Transport Authority (LTA), Singapore"
+    publisher: "Cơ quan Giao thông Đường bộ (LTA), Singapore"
     date: "2026-02-06"
-  - title: "Vehicle Entry Permit (VEP)"
+  - title: "Giấy phép nhập cảnh phương tiện (VEP) (Vehicle Entry Permit (VEP))"
     url: "https://www.jpj.my/vep/"
-    publisher: "Jabatan Pengangkutan Jalan Malaysia (JPJ)"
-  - title: "Temporary importing and exporting foreign Thai vehicles by land"
+    publisher: "Cục Giao thông Đường bộ Malaysia (JPJ)"
+  - title: "Tạm nhập và tái xuất phương tiện Thái Lan nước ngoài bằng đường bộ (Temporary importing and exporting foreign Thai vehicles by land)"
     url: "https://www.thailand.go.th/issue-focus-detail/001_01_163"
-    publisher: "Royal Thai Government (Thailand.go.th)"
-  - title: "Cross-Border Insurance Vital Before Driving Into Thailand"
+    publisher: "Chính phủ Hoàng gia Thái Lan (Thailand.go.th)"
+  - title: "Bảo hiểm xuyên biên giới là điều thiết yếu trước khi lái xe vào Thái Lan (Cross-Border Insurance Vital Before Driving Into Thailand)"
     url: "https://piam.org.my/news-media/stay-ahead/articles/page/piam-cross-border-insurance-vital-before-driving-into-thailand/"
-    publisher: "Persatuan Insurans Am Malaysia (PIAM)"
+    publisher: "Hiệp hội Bảo hiểm Tổng hợp Malaysia (PIAM)"
 
 entity: "Cross-Border Driving from Malaysia"
 relations:

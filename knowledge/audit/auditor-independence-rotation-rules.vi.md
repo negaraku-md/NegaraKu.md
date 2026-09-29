@@ -60,18 +60,18 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants — Section 540 and Section 600"
+  - title: "Quy chế (về Đạo đức Nghề nghiệp, Ứng xử và Hành nghề) của Viện Kế toán Malaysia (Malaysian Institute of Accountants) — Mục 540 và Mục 600 (By-Laws (On Professional Ethics, Conduct and Practice) of the Malaysian Institute of Accountants — Section 540 and Section 600)"
     url: "https://mia.org.my/wp-content/uploads/2024/04/MIA-By-Laws-2024-UPDATED.pdf"
-    publisher: "Malaysian Institute of Accountants"
-  - title: "Audit Firm and Audit Partner Fined for Breach of Partner Rotation Requirement"
+    publisher: "Viện Kế toán Malaysia (Malaysian Institute of Accountants)"
+  - title: "Công ty Kiểm toán và Thành viên Hợp danh Kiểm toán bị Phạt vì Vi phạm Yêu cầu Luân chuyển Thành viên Hợp danh (Audit Firm and Audit Partner Fined for Breach of Partner Rotation Requirement)"
     url: "https://www.sc.com.my/resources/media/media-release/audit-firm-and-audit-partner-fined-for-breach-of-partner-rotation-requirement"
-    publisher: "Securities Commission Malaysia"
-  - title: "Ethics Standards Board Annual Report 2018 — Changes in Audit Partner Rotation Requirements"
+    publisher: "Ủy ban Chứng khoán Malaysia (Securities Commission Malaysia)"
+  - title: "Báo cáo Thường niên 2018 của Ban Chuẩn mực Đạo đức — Các Thay đổi trong Yêu cầu Luân chuyển Thành viên Hợp danh Kiểm toán (Ethics Standards Board Annual Report 2018 — Changes in Audit Partner Rotation Requirements)"
     url: "https://mia.org.my/wp-content/uploads/2022/04/MIA_ESB_Annual_Report_2018.pdf"
-    publisher: "Malaysian Institute of Accountants"
-  - title: "MIA Enhances its Professional Ethics Standards on Public Interest Entities, Effective 15 December 2024"
+    publisher: "Viện Kế toán Malaysia (Malaysian Institute of Accountants)"
+  - title: "MIA Nâng cao Chuẩn mực Đạo đức Nghề nghiệp về các Đơn vị có Lợi ích Công chúng, Có hiệu lực từ ngày 15 tháng 12 năm 2024 (MIA Enhances its Professional Ethics Standards on Public Interest Entities, Effective 15 December 2024)"
     url: "https://mia.org.my/mia-enhances-its-professional-ethics-standards-on-public-interest-entities-effective-15-december-2024/"
-    publisher: "Malaysian Institute of Accountants"
+    publisher: "Viện Kế toán Malaysia (Malaysian Institute of Accountants)"
 
 entity: "Malaysian Institute of Accountants"
 wikidata: "Q6741971"

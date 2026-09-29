@@ -49,12 +49,12 @@ verificationNeeded:
   - "Liệu chính phủ có chính thức sử dụng các phân đoạn chi tiết hơn (ví dụ T15) để nhắm mục tiêu trợ giá hay không — khẳng định ban đầu đã bị loại bỏ vì không có nguồn chính thức trong báo cáo DOSM được trích dẫn; xác minh nguồn trước khi thêm lại."
 updated: 2026-08-08
 sources:
-  - title: "Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08)"
+  - title: "Báo cáo Khảo sát Thu nhập Hộ gia đình, Malaysia & các Bang 2024 (phát hành 2025-10-08) (Household Income Survey Report, Malaysia & States 2024 (dikeluarkan 2025-10-08))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
-  - title: "Household Income Survey Report, Malaysia & States 2022"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
+  - title: "Báo cáo Khảo sát Thu nhập Hộ gia đình, Malaysia & các Bang 2022 (Household Income Survey Report, Malaysia & States 2022)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
 
 entity: "Jabatan Perangkaan Malaysia (DOSM)"
 wikidata: "Q7354425"

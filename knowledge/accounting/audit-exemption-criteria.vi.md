@@ -54,18 +54,18 @@ revisions:
 
 updated: 2026-08-14
 sources:
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+  - title: "Chỉ thị Thực hành số 10/2024 — Tiêu chí đủ điều kiện miễn kiểm toán cho một số công ty tư nhân tại Malaysia (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PRACTICE-DIRECTIVE-10-2024.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "New Qualifying Criteria for Audit Exemption (Announcement)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Tiêu chí đủ điều kiện mới để miễn kiểm toán (Thông báo) (New Qualifying Criteria for Audit Exemption (Announcement))"
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/AD%202024%20-%20New%20Audit%20Exemption%20Qualifying%20Criteria.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Companies Act 2016 (Act 777) — Reprint, seksyen 2 (takrif 'exempt private company')"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777) — Bản in lại, mục 2 (định nghĩa 'exempt private company') (Companies Act 2016 (Act 777) — Reprint, seksyen 2 (takrif 'exempt private company'))"
     url: "https://www.ssm.com.my/pages/legal_framework/document/act%20777%20reprint.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Laws of Malaysia — Act 777 Companies Act 2016 (interpretation, s2, 'exempt private company', p33; s260, p262)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Luật pháp Malaysia — Act 777 Companies Act 2016 (phần giải thích, s2, 'exempt private company', tr.33; s260, tr.262) (Laws of Malaysia — Act 777 Companies Act 2016 (interpretation, s2, 'exempt private company', p33; s260, p262))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBI_20160915_CompaniesAct2016Act777.pdf"
-    publisher: "Attorney General's Chambers of Malaysia (AGC), Laws of Malaysia (lom.agc.gov.my)"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC), Luật pháp Malaysia (lom.agc.gov.my)"
 
 entity: "Suruhanjaya Syarikat Malaysia (SSM)"
 wikidata: "Q1121232"

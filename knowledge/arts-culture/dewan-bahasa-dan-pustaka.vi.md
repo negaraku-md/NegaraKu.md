@@ -52,19 +52,19 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Pengenalan — Sejarah Dewan Bahasa dan Pustaka"
+  - title: "Giới thiệu — Lịch sử Dewan Bahasa dan Pustaka (Pengenalan — Sejarah Dewan Bahasa dan Pustaka)"
     url: "https://dbp.gov.my/pengenalan/"
-    publisher: "Dewan Bahasa dan Pustaka"
-  - title: "Akta — Dewan Bahasa dan Pustaka"
+    publisher: "Viện Ngôn ngữ và Văn học (DBP)"
+  - title: "Đạo luật — Dewan Bahasa dan Pustaka (Akta — Dewan Bahasa dan Pustaka)"
     url: "https://dbp.gov.my/akta/"
-    publisher: "Dewan Bahasa dan Pustaka"
-  - title: "Anugerah Sastera Negara"
+    publisher: "Viện Ngôn ngữ và Văn học (DBP)"
+  - title: "Giải thưởng Văn học Quốc gia (Anugerah Sastera Negara)"
     url: "https://dbp.gov.my/anugerah-sastera-negara/"
-    publisher: "Dewan Bahasa dan Pustaka"
-  - title: "Kamus Dewan Perdana dalam Talian"
+    publisher: "Viện Ngôn ngữ và Văn học (DBP)"
+  - title: "Từ điển Kamus Dewan Perdana trực tuyến (Kamus Dewan Perdana dalam Talian)"
     url: "https://kamus.dbp.gov.my/"
-    publisher: "Dewan Bahasa dan Pustaka"
-  - title: "Mana Sikana diumumkan sebagai penerima Sasterawan Negara Ke-16"
+    publisher: "Viện Ngôn ngữ và Văn học (DBP)"
+  - title: "Mana Sikana được công bố là người nhận danh hiệu Nhà văn Quốc gia thứ 16 (Mana Sikana diumumkan sebagai penerima Sasterawan Negara Ke-16)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/mana-sikana-diumumkan-sebagai-penerima-sasterawan-negara-ke-16/"
     publisher: "Radio Televisyen Malaysia (RTM)"
 

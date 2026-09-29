@@ -37,7 +37,7 @@ sensitivity: "constitution"
 
 updated: 2026-07-24
 sources:
-  - title: "Kawasanku — Sabah"
+  - title: "Kawasanku — Sabah (Kawasanku — Sabah)"
     url: "https://open.dosm.gov.my/dashboard/kawasanku/Sabah"
     publisher: "Cục Thống kê Malaysia (Department of Statistics Malaysia)"
   - title: "Sabah nằm trong sáu nơi đóng góp hàng đầu cho GDP 2023 của Malaysia (Sabah among top six contributors to Malaysia's 2023 GDP)"
@@ -60,7 +60,7 @@ sources:
   - title: "Thỏa thuận liên quan đến Malaysia, Tuyển tập Điều ước Liên Hợp Quốc Tập 750, Số 10760 (Agreement relating to Malaysia, United Nations Treaty Series Volume 750, No. 10760)"
     url: "https://treaties.un.org/doc/publication/unts/volume%20750/volume-750-i-10760-english.pdf"
     publisher: "Liên Hợp Quốc (United Nations)"
-  - title: "Constitution (Amendment) Act 2022 [Act A1642]"
+  - title: "Constitution (Amendment) Act 2022 [Act A1642] (Constitution (Amendment) Act 2022 [Act A1642])"
     url: "https://lom.agc.gov.my/act-detail.php?act=A1642&lang=BI"
     publisher: "Văn phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia)"
     date: "2022-02-10"

@@ -46,13 +46,13 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Search for Registered Doctor (MeRITS)"
+  - title: "Tìm kiếm Bác sĩ Đã đăng ký (MeRITS) (Search for Registered Doctor (MeRITS))"
     url: "https://merits.mmc.gov.my/search"
-    publisher: "Majlis Perubatan Malaysia (MMC)"
-  - title: "Registrations"
+    publisher: "Hội đồng Y khoa Malaysia (MMC)"
+  - title: "Đăng ký hành nghề (Registrations)"
     url: "https://mmc.gov.my/registrations/"
-    publisher: "Majlis Perubatan Malaysia (MMC)"
-  - title: "MAHPC Extends Allied Health Practitioners' Registration Deadline To Dec 2026"
+    publisher: "Hội đồng Y khoa Malaysia (MMC)"
+  - title: "MAHPC Gia hạn Thời hạn Đăng ký cho Các Hành nghề viên Y tế Đồng minh Đến tháng 12 năm 2026 (MAHPC Extends Allied Health Practitioners' Registration Deadline To Dec 2026)"
     url: "https://www.bernama.com/en/news.php?id=2437599"
     publisher: "Bernama"
 

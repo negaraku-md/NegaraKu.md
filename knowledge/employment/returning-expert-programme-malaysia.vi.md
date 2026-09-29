@@ -51,10 +51,10 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Returning Expert Programme (REP)"
+  - title: "Chương trình Chuyên gia Hồi hương (REP) (Returning Expert Programme (REP))"
     url: "https://www.talentcorp.com.my/our-initiatives/for-professionals/rep/"
     publisher: "TalentCorp Malaysia"
-  - title: "FAQ — Returning Expert Programme (REP)"
+  - title: "Câu hỏi Thường gặp — Chương trình Chuyên gia Hồi hương (REP) (FAQ — Returning Expert Programme (REP))"
     url: "https://myheart.my/faq-returning-expert-programme/"
     publisher: "TalentCorp Malaysia (MyHeart Portal)"
 

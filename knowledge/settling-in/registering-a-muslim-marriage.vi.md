@@ -56,24 +56,24 @@ verificationNeeded:
 
 updated: 2026-08-07
 sources:
-  - title: "Family Institution — Marriage of Muslim Couples"
+  - title: "Thiết chế Gia đình — Kết hôn của các Cặp đôi Hồi giáo (Family Institution — Marriage of Muslim Couples)"
     url: "https://www.malaysia.gov.my/en/categories/family-institution/marriage-of-muslim-couples"
     publisher: "MyGovernment (Government of Malaysia)"
-  - title: "Marriage Registration (SPPIM)"
+  - title: "Đăng ký Kết hôn (SPPIM) (Marriage Registration (SPPIM))"
     url: "https://www.malaysia.gov.my/en/digital-services/marriage-registration-sppim"
     publisher: "MyGovernment (Government of Malaysia)"
-  - title: "Ujian Saringan HIV Praperkahwinan (Pre-Marriage HIV Screening Test)"
+  - title: "Xét nghiệm Sàng lọc HIV Trước hôn nhân (Ujian Saringan HIV Praperkahwinan (Pre-Marriage HIV Screening Test))"
     url: "https://www.malaysia.gov.my/my/personas/pasangan-ingin-berkahwin/merancang-perkahwinan/ujian-saringan-hiv-praperkahwinan"
     publisher: "MyGovernment (Government of Malaysia)"
-  - title: "Permohonan Kursus Pra Perkahwinan"
+  - title: "Đăng ký Khóa học Tiền hôn nhân (Permohonan Kursus Pra Perkahwinan)"
     url: "https://www.islam.gov.my/ms/kekeluargaan/permohonan-kursus-pra-perkahwinan"
-    publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
-  - title: "Soalan Lazim (Frequently Asked Questions)"
+    publisher: "Cục Phát triển Hồi giáo Malaysia (JAKIM)"
+  - title: "Câu hỏi thường gặp (Soalan Lazim (Frequently Asked Questions))"
     url: "https://www.jais.gov.my/en/soalan-lazim/"
-    publisher: "Jabatan Agama Islam Selangor (JAIS)"
-  - title: "Islamic Family Law (Federal Territories) Act 1984 (Act 303), reprint dated 2014-03-11"
+    publisher: "Cục Tôn giáo Hồi giáo Selangor (JAIS)"
+  - title: "Islamic Family Law (Federal Territories) Act 1984 (Act 303), bản tái bản ngày 2014-03-11 (Islamic Family Law (Federal Territories) Act 1984 (Act 303), reprint dated 2014-03-11)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20303%20(11.3.2014).pdf"
-    publisher: "Attorney General's Chambers of Malaysia"
+    publisher: "Phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia)"
 
 entity: "State Islamic Religious Department"
 relations:

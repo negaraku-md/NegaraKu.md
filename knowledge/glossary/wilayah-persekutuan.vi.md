@@ -37,12 +37,12 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Portal Rasmi Kerajaan Malaysia"
+  - title: "Cổng thông tin Chính thức của Chính phủ Malaysia (Portal Rasmi Kerajaan Malaysia)"
     url: "https://www.malaysia.gov.my/"
-    publisher: "Kerajaan Malaysia"
-  - title: "Perlembagaan Persekutuan"
+    publisher: "Chính phủ Malaysia"
+  - title: "Hiến pháp Liên bang (Perlembagaan Persekutuan)"
     url: "https://lom.agc.gov.my/"
-    publisher: "Jabatan Peguam Negara"
+    publisher: "Phòng Tổng Chưởng lý (AGC)"
 
 entity: "Wilayah Persekutuan"
 relations:

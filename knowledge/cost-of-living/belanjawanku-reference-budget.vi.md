@@ -52,21 +52,21 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "12 December 2024 | The Launch of Belanjawanku 2024/2025"
+  - title: "Ngày 12 tháng 12 năm 2024 | Lễ ra mắt Belanjawanku 2024/2025 (12 December 2024 | The Launch of Belanjawanku 2024/2025)"
     url: "https://swrc.um.edu.my/events/12-december-2024-the-launch-of-belanjawanku-2024-2025"
-    publisher: "Pusat Penyelidikan Kesejahteraan Sosial (SWRC), Universiti Malaya"
-  - title: "Cost of living in the Klang Valley up by 6.7 per cent"
+    publisher: "Trung tâm Nghiên cứu Phúc lợi Xã hội (SWRC), Đại học Malaya"
+  - title: "Chi phí sinh hoạt tại Thung lũng Klang tăng 6,7 phần trăm (Cost of living in the Klang Valley up by 6.7 per cent)"
     url: "https://www.thevibes.com/articles/business/104297/cost-of-living-in-the-klang-valley-up-by-6.7-per-cent"
     publisher: "The Vibes"
-  - title: "How much to spend monthly and save for later: Your guide to EPF's new Belanjawanku and retirement framework"
+  - title: "Chi tiêu hàng tháng và tiết kiệm cho tương lai bao nhiêu: Hướng dẫn về Belanjawanku mới của EPF và khung hưu trí (How much to spend monthly and save for later: Your guide to EPF's new Belanjawanku and retirement framework)"
     url: "https://www.malaymail.com/news/malaysia/2024/12/13/how-much-to-spend-monthly-and-save-for-later-day-your-guide-to-understanding-epfs-new-belanjawanku-and-retirement-framework/159667"
     publisher: "Malay Mail"
-  - title: "EPF Releases Belanjawanku 2024/2025 And Retirement Income Adequacy Framework (siaran akhbar rasmi, 12 Disember 2024)"
+  - title: "EPF công bố Belanjawanku 2024/2025 và Khung Đầy đủ Thu nhập Hưu trí (thông cáo báo chí chính thức, 12 tháng 12 năm 2024) (EPF Releases Belanjawanku 2024/2025 And Retirement Income Adequacy Framework (siaran akhbar rasmi, 12 Disember 2024))"
     url: "https://www.maicsa.org.my/media/9802/technical_announcements_241213_1_1.pdf"
-    publisher: "Kumpulan Wang Simpanan Pekerja (KWSP)"
-  - title: "Launching of 'BELANJAWANKU Guidebook 2019' by EPF — Collaboration between University of Malaya and EPF"
+    publisher: "Quỹ Tiết kiệm Nhân viên (KWSP)"
+  - title: "Lễ ra mắt 'Sách hướng dẫn BELANJAWANKU 2019' bởi EPF — Hợp tác giữa Đại học Malaya và EPF (Launching of 'BELANJAWANKU Guidebook 2019' by EPF — Collaboration between University of Malaya and EPF)"
     url: "https://swrc.um.edu.my/events/launching-of-lsquo-belanjawanku-guidebook-2019-rsquo-by-epf-collaboration-between-university-of-malaya-and-epf"
-    publisher: "Pusat Penyelidikan Kesejahteraan Sosial (SWRC), Universiti Malaya"
+    publisher: "Trung tâm Nghiên cứu Phúc lợi Xã hội (SWRC), Đại học Malaya"
 
 entity: "Belanjawanku"
 relations:

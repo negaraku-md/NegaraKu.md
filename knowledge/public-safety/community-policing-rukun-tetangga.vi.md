@@ -48,24 +48,24 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Skim Rondaan Sukarela (SRS)"
+  - title: "Chương trình Tuần tra Tình nguyện (SRS) (Skim Rondaan Sukarela (SRS))"
     url: "https://www.perpaduan.gov.my/index.php/en/36-jentera-perpaduan/62-skim-rondaan-sukarela"
-    publisher: "Jabatan Perpaduan Negara dan Integrasi Nasional (JPNIN)"
-  - title: "Portal Rasmi Kementerian Perpaduan Negara"
+    publisher: "Cục Đoàn kết Quốc gia và Hòa nhập Quốc gia (JPNIN)"
+  - title: "Cổng thông tin chính thức của Bộ Đoàn kết Quốc gia (Portal Rasmi Kementerian Perpaduan Negara)"
     url: "https://www.perpaduan.gov.my"
-    publisher: "Kementerian Perpaduan Negara"
-  - title: "KPN Cadang Pinda Akta 751, Panjangkan Tempoh Pelantikan AJK RT Kepada Tiga Tahun"
+    publisher: "Bộ Đoàn kết Quốc gia"
+  - title: "KPN đề xuất sửa đổi Đạo luật 751, kéo dài nhiệm kỳ bổ nhiệm ủy viên RT lên ba năm (KPN Cadang Pinda Akta 751, Panjangkan Tempoh Pelantikan AJK RT Kepada Tiga Tahun)"
     url: "https://www.bernama.com/bm/news.php?id=2462200"
     publisher: "BERNAMA"
-  - title: "Lima Peratus Daripada 8,529 KRT Seluruh Negara Pasif"
+  - title: "Năm phần trăm trong số 8.529 KRT trên toàn quốc không hoạt động (Lima Peratus Daripada 8,529 KRT Seluruh Negara Pasif)"
     url: "https://www.bernama.com/bm/news.php?id=2390741"
     publisher: "BERNAMA"
-  - title: "SRS dan KRT Perkukuh Keselamatan, Keharmonian Komuniti"
+  - title: "SRS và KRT củng cố an ninh, sự hòa hợp cộng đồng (SRS dan KRT Perkukuh Keselamatan, Keharmonian Komuniti)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/srs-dan-krt-perkukuh-keselamatan-keharmonian-komuniti/"
     publisher: "Portal Berita RTM"
-  - title: "Jawatankuasa Kemajuan & Keselamatan Kampung (JKKK)"
+  - title: "Ủy ban Phát triển và An ninh Làng (JKKK) (Jawatankuasa Kemajuan & Keselamatan Kampung (JKKK))"
     url: "https://kplb.sabah.gov.my/en/jawatankuasa-kemajuan-keselamatan-kampung-jkkk/"
-    publisher: "Kementerian Pembangunan Luar Bandar Sabah"
+    publisher: "Bộ Phát triển Nông thôn Sabah"
 
 entity: "Rukun Tetangga"
 relations:

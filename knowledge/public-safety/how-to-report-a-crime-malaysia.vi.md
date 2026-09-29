@@ -62,24 +62,24 @@ revisions:
 
 updated: 2026-08-14
 sources:
-  - title: "Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23 (tangkap tanpa waran)"
+  - title: "Bộ luật Tố tụng Hình sự (Act 593), Chương XIII — Điều 107, 108, 108A, 110; Điều 23 (bắt giữ không cần lệnh) (Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23 (tangkap tanpa waran))"
     url: "https://ccid.rmp.gov.my/Laws/Criminal_Prosedure_Code_Act_593.pdf"
-    publisher: "Polis DiRaja Malaysia (Jabatan Siasatan Jenayah Komersial)"
-  - title: "National Scam Response Centre (NSRC) — About NSRC (talian 997 beroperasi 8 pagi–8 malam; laporan polis berasingan diperlukan dalam 24 jam)"
+    publisher: "Cảnh sát Hoàng gia Malaysia (Cục Điều tra Tội phạm Thương mại)"
+  - title: "Trung tâm Ứng phó Lừa đảo Quốc gia (NSRC) — Giới thiệu về NSRC (đường dây 997 hoạt động từ 8 giờ sáng đến 8 giờ tối; cần báo cáo cảnh sát riêng trong vòng 24 giờ) (National Scam Response Centre (NSRC) — About NSRC (talian 997 beroperasi 8 pagi–8 malam; laporan polis berasingan diperlukan dalam 24 jam))"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"
-    publisher: "Pusat Anti Jenayah Kewangan Kebangsaan (NFCC), Jabatan Perdana Menteri"
-  - title: "Maklumat mengenai NSRC — 997 beroperasi 8.00 pagi–8.00 malam; 'anda juga perlu membuat laporan polis'"
+    publisher: "Trung tâm Quốc gia Chống Tội phạm Tài chính (NFCC), Văn phòng Thủ tướng"
+  - title: "Thông tin về NSRC — 997 hoạt động từ 8.00 sáng đến 8.00 tối; 'bạn cũng cần làm báo cáo cảnh sát' (Maklumat mengenai NSRC — 997 beroperasi 8.00 pagi–8.00 malam; 'anda juga perlu membuat laporan polis')"
     url: "https://nfcc.jpm.gov.my/index.php/en/component/content/article/nsrc-info-link?catid=11&Itemid=114"
-    publisher: "NFCC, Jabatan Perdana Menteri"
-  - title: "997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September (pengumuman 26 Julai 2025)"
+    publisher: "NFCC, Văn phòng Thủ tướng"
+  - title: "Đường dây nóng chống lừa đảo 997 sẽ hoạt động 24 giờ, các cuộc gọi được xem như báo cáo cảnh sát kể từ tháng 9 (thông báo ngày 26 tháng 7 năm 2025) (997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September (pengumuman 26 Julai 2025))"
     url: "https://www.bernama.com/en/news.php?id=2449632"
     publisher: "Bernama"
-  - title: "Apa Itu MERS 999?"
+  - title: "MERS 999 là gì? (Apa Itu MERS 999?)"
     url: "https://999.gov.my/mers-999/apa-itu-mers-999/"
-    publisher: "MERS 999 / Kementerian Komunikasi"
-  - title: "e-Reporting PDRM (Portal Rasmi) — Panduan"
+    publisher: "MERS 999 / Bộ Truyền thông"
+  - title: "e-Reporting PDRM (Cổng chính thức) — Hướng dẫn (e-Reporting PDRM (Portal Rasmi) — Panduan)"
     url: "https://ereporting.rmp.gov.my/panduan.aspx"
-    publisher: "Polis DiRaja Malaysia (PDRM)"
+    publisher: "Cảnh sát Hoàng gia Malaysia (PDRM)"
 
 relations:
   - { rel: "related-to", to: "online-safety-act-malaysia" }

@@ -43,18 +43,18 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Fasiliti dan Kemudahan Kesihatan"
+  - title: "Cơ sở và Tiện ích Y tế (Fasiliti dan Kemudahan Kesihatan)"
     url: "https://www.malaysia.gov.my/my/categories/kesihatan/fasiliti-dan-kemudahan-kesihatan"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Permohonan Tempahan Temujanji Pemeriksaan Kesihatan"
+    publisher: "Cổng thông tin Chính thức của Chính phủ Malaysia (MyGovernment)"
+  - title: "Đăng ký Đặt lịch hẹn Khám Sức khỏe (Permohonan Tempahan Temujanji Pemeriksaan Kesihatan)"
     url: "https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment), perkhidmatan dikendalikan oleh Kementerian Kesihatan Malaysia (KKM) melalui MySejahtera"
-  - title: "Carian Klinik Komuniti"
+    publisher: "Cổng thông tin Chính thức của Chính phủ Malaysia (MyGovernment), dịch vụ do Bộ Y tế Malaysia (KKM) vận hành thông qua MySejahtera"
+  - title: "Tìm kiếm Phòng khám Cộng đồng (Carian Klinik Komuniti)"
     url: "https://www.malaysia.gov.my/my/digital-services/carian-klinik-komuniti"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Soalan Lazim — PeKa B40 dan Skim Perubatan MADANI"
+    publisher: "Cổng thông tin Chính thức của Chính phủ Malaysia (MyGovernment)"
+  - title: "Câu hỏi Thường gặp — PeKa B40 và Chương trình Y tế MADANI (Soalan Lazim — PeKa B40 dan Skim Perubatan MADANI)"
     url: "https://protecthealth.com.my/soalan-lazim/"
-    publisher: "ProtectHealth Corporation Sdn Bhd (pengendali skim rasmi di bawah Kementerian Kesihatan Malaysia)"
+    publisher: "ProtectHealth Corporation Sdn Bhd (đơn vị vận hành chương trình chính thức thuộc Bộ Y tế Malaysia)"
 
 entity: "Klinik Kesihatan (kemudahan penjagaan kesihatan primer kerajaan Malaysia)"
 relations:

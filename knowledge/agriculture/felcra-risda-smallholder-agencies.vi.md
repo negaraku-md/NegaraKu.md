@@ -51,18 +51,18 @@ verificationNeeded:
   - "Tình trạng hợp nhất/sáp nhập FELDA, FELCRA và RISDA sau tháng 3 năm 2023 — hãy xác nhận liệu nó có còn là một thảo luận chính sách không có sự sáp nhập đầy đủ hay không."
 updated: 2026-08-01
 sources:
-  - title: "Company Overview — FELCRA Berhad"
+  - title: "Tổng quan công ty — FELCRA Berhad (Company Overview — FELCRA Berhad)"
     url: "https://felcra.com.my/corporate-information/company-overview/"
     publisher: "FELCRA Berhad"
-  - title: "Profile — Official Portal RISDA"
+  - title: "Hồ sơ — Cổng thông tin chính thức RISDA (Profile — Official Portal RISDA)"
     url: "https://www.risda.gov.my/en/about-risda/profile"
-    publisher: "RISDA (Pihak Berkuasa Kemajuan Pekebun Kecil Perusahaan Getah)"
-  - title: "FGV calls for consolidation of smallholders from Felda, Felcra and Risda for sustainable palm oil production"
+    publisher: "Cơ quan Phát triển Tiểu điền chủ Công nghiệp Cao su (RISDA)"
+  - title: "FGV kêu gọi hợp nhất các tiểu điền chủ từ Felda, Felcra và Risda để sản xuất dầu cọ bền vững (FGV calls for consolidation of smallholders from Felda, Felcra and Risda for sustainable palm oil production)"
     url: "https://theedgemalaysia.com/node/658166"
     publisher: "The Edge Malaysia"
-  - title: "Felda, Felcra, Risda urged to form consortium for downstream projects"
+  - title: "Felda, Felcra, Risda được kêu gọi thành lập tập đoàn cho các dự án hạ nguồn (Felda, Felcra, Risda urged to form consortium for downstream projects)"
     url: "https://prestasisawit.mpob.gov.my/en/palmnews/news/6639"
-    publisher: "Malaysian Palm Oil Board (Prestasi Sawit)"
+    publisher: "Ủy ban Dầu cọ Malaysia (MPOB), Prestasi Sawit"
 
 entity: "FELCRA Berhad dan RISDA"
 relations:

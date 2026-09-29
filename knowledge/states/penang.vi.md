@@ -51,7 +51,7 @@ sensitivity: "none"
 
 updated: 2026-07-23
 sources:
-  - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
+  - title: "Melaka và George Town, các Thành phố Lịch sử của Eo biển Malacca (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
     publisher: "Trung tâm Di sản Thế giới UNESCO (UNESCO World Heritage Centre)"
     date: "2008-01-01"
@@ -61,7 +61,7 @@ sources:
   - title: "Cổng Chính quyền Bang Penang (Penang State Government Portal)"
     url: "https://www.penang.gov.my/"
     publisher: "Chính quyền Bang Penang (Penang State Government)"
-  - title: "InvestPenang"
+  - title: "InvestPenang (InvestPenang)"
     url: "https://investpenang.gov.my/"
     publisher: "InvestPenang"
 

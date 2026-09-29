@@ -39,16 +39,16 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Labour Force Statistics, May 2026"
+  - title: "Thống kê Lực lượng Lao động, tháng 5 năm 2026 (Labour Force Statistics, May 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026"
-    publisher: "DOSM"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
     date: "2026-07-10"
-  - title: "Labour Force Survey Report, First Quarter 2026"
+  - title: "Báo cáo Khảo sát Lực lượng Lao động, Quý Một 2026 (Labour Force Survey Report, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
-    publisher: "DOSM"
-  - title: "Labour Market Review, First Quarter 2026"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
+  - title: "Đánh giá Thị trường Lao động, Quý Một 2026 (Labour Market Review, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-market-review-lmr-q12026"
-    publisher: "DOSM"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
 
 entity: "Malaysia unemployment rate"
 relations:

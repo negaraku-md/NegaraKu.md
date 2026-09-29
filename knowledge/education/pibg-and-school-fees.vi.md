@@ -50,18 +50,18 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG)"
+  - title: "Thông tư Chuyên môn Số 4/2004: Điều lệ Hội Phụ huynh-Giáo viên (PIBG) (Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG))"
     url: "https://jpwpkl.moe.gov.my/muat-turun/sektor-pengurusan-sekolah/surat-pekeliling-iktisas-surat-pekeliling/556-surat-pekeliling-ikhtisas-bil-4-2004-perlembagaan-persatuan-ibu-bapa-guru/file"
-    publisher: "Jabatan Pendidikan WP Kuala Lumpur, Kementerian Pendidikan Malaysia"
-  - title: "Surat Pekeliling Ikhtisas Bil. 5/2001: Batasan Kuasa Persatuan Ibu Bapa Dan Guru (PIBG) Di Sekolah"
+    publisher: "Sở Giáo dục Lãnh thổ Liên bang Kuala Lumpur, Bộ Giáo dục Malaysia (Jabatan Pendidikan WP Kuala Lumpur, Kementerian Pendidikan Malaysia)"
+  - title: "Thông tư Chuyên môn Số 5/2001: Giới hạn Quyền hạn của Hội Phụ huynh và Giáo viên (PIBG) tại Trường học (Surat Pekeliling Ikhtisas Bil. 5/2001: Batasan Kuasa Persatuan Ibu Bapa Dan Guru (PIBG) Di Sekolah)"
     url: "https://www.moe.gov.my/surat-pekeliling-ikhtisas-bil-52001-batasan-kuasa-"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Surat Pekeliling Ikhtisas Bilangan 13 Tahun 2007: Pemansuhan Yuran Khas dan Garis Panduan Sistem Pakej Bayaran Tambahan"
+    publisher: "Bộ Giáo dục Malaysia (Kementerian Pendidikan Malaysia)"
+  - title: "Thông tư Chuyên môn Số 13 Năm 2007: Bãi bỏ Phí Đặc biệt và Hướng dẫn Hệ thống Gói Thanh toán Bổ sung (Surat Pekeliling Ikhtisas Bilangan 13 Tahun 2007: Pemansuhan Yuran Khas dan Garis Panduan Sistem Pakej Bayaran Tambahan)"
     url: "https://www.moe.gov.my/surat-pekeliling-ikhtisas-bilangan-13-tahun-2007-p"
-    publisher: "Kementerian Pendidikan Malaysia"
-  - title: "Senarai Pekeliling Ikhtisas KPM"
+    publisher: "Bộ Giáo dục Malaysia (Kementerian Pendidikan Malaysia)"
+  - title: "Danh sách Thông tư Chuyên môn KPM (Senarai Pekeliling Ikhtisas KPM)"
     url: "https://www.moe.gov.my/pekeliling"
-    publisher: "Kementerian Pendidikan Malaysia"
+    publisher: "Bộ Giáo dục Malaysia (Kementerian Pendidikan Malaysia)"
 
 entity: "Persatuan Ibu Bapa-Guru (PIBG)"
 relations:

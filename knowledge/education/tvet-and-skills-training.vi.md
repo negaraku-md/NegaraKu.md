@@ -34,13 +34,13 @@ revisions:
 sensitivity: "none"
 updated: 2026-07-24
 sources:
-  - title: "Sijil Kemahiran Malaysia (SKM)"
+  - title: "Chứng chỉ Kỹ năng Malaysia (SKM) (Sijil Kemahiran Malaysia (SKM))"
     url: "https://www.dsd.gov.my/en/service/malaysian-skills-certificate-skm"
     publisher: "Cục Phát triển Kỹ năng (JPK), Bộ Nguồn Nhân lực"
   - title: "Hệ thống Chứng chỉ Kỹ năng Malaysia — Chứng chỉ Kỹ năng Malaysia (SKM) (Sistem Persijilan Kemahiran Malaysia — Sijil Kemahiran Malaysia (SKM))"
     url: "https://mpkm.dsd.gov.my/ms/perkhidmatan/sijil-kemahiran-malaysia-skm"
     publisher: "Cục Phát triển Kỹ năng (JPK), Bộ Nguồn Nhân lực"
-  - title: "Akta 652 — National Skills Development Act 2006"
+  - title: "Đạo luật Phát triển Kỹ năng Quốc gia 2006 — National Skills Development Act 2006 (Act 652) (Akta 652 — National Skills Development Act 2006)"
     url: "https://www.dsd.gov.my/en/legislation/2323-akta-652-national-skills-development-act-2006"
     publisher: "Cục Phát triển Kỹ năng (JPK), Bộ Nguồn Nhân lực"
   - title: "Cao đẳng Nghề (Kolej Vokasional)"

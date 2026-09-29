@@ -39,13 +39,13 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Financial Markets Investor Portal — reference rates and turnover"
+  - title: "Cổng thông tin Nhà đầu tư Thị trường Tài chính — tỷ giá tham chiếu và khối lượng giao dịch (Financial Markets Investor Portal — reference rates and turnover)"
     url: "https://financialmarkets.bnm.gov.my/"
-    publisher: "Bank Negara Malaysia"
+    publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
     date: "2026-07-24"
-  - title: "Foreign Exchange Policy"
+  - title: "Chính sách Ngoại hối (Foreign Exchange Policy)"
     url: "https://www.bnm.gov.my/"
-    publisher: "Bank Negara Malaysia"
+    publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
 
 entity: "Malaysian ringgit"
 wikidata: "Q163712"

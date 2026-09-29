@@ -57,14 +57,14 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 45, 46, 55, 71, 72, 73, 74, 75, 76, 160 dan Jadual Kelapan Bahagian I (seksyen 2–14)"
+  - title: "Hiến pháp Liên bang (Bản in lại tính đến ngày 15 tháng 10 năm 2020) — các Điều 45, 46, 55, 71, 72, 73, 74, 75, 76, 160 và Phụ lục Thứ tám Phần I (mục 2–14) (Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 45, 46, 55, 71, 72, 73, 74, 75, 76, 160 dan Jadual Kelapan Bahagian I (seksyen 2–14))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
-    publisher: "Jabatan Peguam Negara Malaysia"
+    publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
     date: "2020-10-15"
-  - title: "Jadual Penduduk: Dewan Undangan Negeri (DUN) — 600 kawasan DUN di 13 negeri"
+  - title: "Bảng dân số: Hội đồng Lập pháp Bang (DUN) — 600 khu vực DUN tại 13 bang (Jadual Penduduk: Dewan Undangan Negeri (DUN) — 600 kawasan DUN di 13 negeri)"
     url: "https://open.dosm.gov.my/ms-MY/data-catalogue/population_dun"
-    publisher: "Jabatan Perangkaan Malaysia (DOSM)"
-  - title: "Sarawak tables bill to grow state assembly from 82 to 99 seats"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
+  - title: "Sarawak trình dự luật tăng số ghế hội đồng lập pháp bang từ 82 lên 99 (Sarawak tables bill to grow state assembly from 82 to 99 seats)"
     url: "https://www.malaymail.com/news/malaysia/2025/07/07/sarawak-tables-bill-to-grow-state-assembly-from-82-to-99-seats/183076"
     publisher: "Malay Mail"
     date: "2025-07-07"

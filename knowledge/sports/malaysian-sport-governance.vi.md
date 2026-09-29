@@ -60,7 +60,7 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Sports Development Act 1997 (Act 576) — Reprint"
+  - title: "Sports Development Act 1997 (Act 576) — Bản tái bản (Sports Development Act 1997 (Act 576) — Reprint)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20576.pdf"
     publisher: "Phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia)"
     date: "1997-09-25"

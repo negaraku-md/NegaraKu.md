@@ -54,20 +54,20 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Garis Panduan Penubuhan Sekolah Antarabangsa (International School Establishment Guideline)"
+  - title: "Hướng dẫn Thành lập Trường Quốc tế (Garis Panduan Penubuhan Sekolah Antarabangsa (International School Establishment Guideline))"
     url: "https://jpwpkl.moe.gov.my/muat-turun/sektor-pengurusan-sekolah/unit-pendidikan-swasta/garis-panduan-penubuhan-institut-pendidikan-swasta/91-gp-a3-penubuhan-sekolah-antarabangsa/file"
-    publisher: "Bahagian Pendidikan Swasta, Kementerian Pendidikan Malaysia (Private Education Division, Ministry of Education Malaysia)"
+    publisher: "Ban Giáo dục Tư thục, Bộ Giáo dục Malaysia (Bahagian Pendidikan Swasta, Kementerian Pendidikan Malaysia)"
     date: "2021-02-04"
-  - title: "Laws of Malaysia, Act 550 — Education Act 1996"
+  - title: "Luật pháp Malaysia, Đạo luật 550 — Đạo luật Giáo dục 1996 (Laws of Malaysia, Act 550 — Education Act 1996)"
     url: "https://www.moe.gov.my/storage/files/shares/Dasar/Kurikulum%20Kebangsaan/Akta%20550%20-%20Akta%20Pendidikan%201996.pdf"
-    publisher: "Kementerian Pendidikan Malaysia (KPM) / Pesuruhjaya Penyemak Undang-Undang"
-  - title: "Semakan Kadar Cukai Jualan, Peluasan Skop Cukai Perkhidmatan Berkuat Kuasa 1 Julai"
+    publisher: "Bộ Giáo dục Malaysia (KPM) / Ủy viên Rà soát Pháp luật (Pesuruhjaya Penyemak Undang-Undang)"
+  - title: "Rà soát Thuế suất Thuế Bán hàng, Mở rộng Phạm vi Thuế Dịch vụ có hiệu lực từ ngày 1 tháng 7 (Semakan Kadar Cukai Jualan, Peluasan Skop Cukai Perkhidmatan Berkuat Kuasa 1 Julai)"
     url: "https://www.mof.gov.my/portal/ms/berita/akhbar/semakan-kadar-cukai-jualan-peluasan-skop-cukai-perkhidmatan-berkuat-kuasa-1-julai-mof"
-    publisher: "Kementerian Kewangan Malaysia (Ministry of Finance Malaysia)"
+    publisher: "Bộ Tài chính Malaysia (Kementerian Kewangan Malaysia)"
     date: "2025-06-09"
-  - title: "FAQ: Expansion of Service Tax Scope 2025"
+  - title: "Câu hỏi thường gặp: Mở rộng Phạm vi Thuế Dịch vụ 2025 (FAQ: Expansion of Service Tax Scope 2025)"
     url: "https://mysst.customs.gov.my/ms/faq-expansion-of-service-tax-scope-2025/"
-    publisher: "Jabatan Kastam Diraja Malaysia (Royal Malaysian Customs Department) — MySST"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (Jabatan Kastam Diraja Malaysia) — MySST"
 
 entity: "International schools (Malaysia)"
 relations:

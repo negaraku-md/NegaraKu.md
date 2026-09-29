@@ -72,19 +72,19 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), văn bản cập nhật tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Chỉ thị Thực hành số 10/2024 — Tiêu chí đủ điều kiện miễn kiểm toán cho một số công ty tư nhân tại Malaysia (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2024-12-16"
-  - title: "MBRS 2.0 SSM Taxonomy 2022 (SSMxT_2022) Architecture Document"
+  - title: "Tài liệu kiến trúc Phân loại SSM 2022 của MBRS 2.0 (SSMxT_2022) (MBRS 2.0 SSM Taxonomy 2022 (SSMxT_2022) Architecture Document)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/SSMxT2022_Architecture_Document.pdf"
-    publisher: "SSM"
-  - title: "Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, version 2.4"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Hệ thống Báo cáo Doanh nghiệp Malaysia (MBRS) — Câu hỏi thường gặp, phiên bản 2.4 (Malaysian Business Reporting System (MBRS) — Frequently Asked Questions, version 2.4)"
     url: "https://www.ssm.com.my/Pages/Register_Business_Company_LLP/Company/document/FAQs_Malaysian_Business_Reporting_System_MBRS.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2024-10-01"
 
 entity: "Statutory financial statement pack"

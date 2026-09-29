@@ -49,16 +49,16 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "MMC Guideline on Telemedicine"
+  - title: "Hướng dẫn của MMC về Y tế Từ xa (MMC Guideline on Telemedicine)"
     url: "https://mmc.gov.my/wp-content/uploads/2024/01/MMC-Guideline-on-Telemedicine.pdf"
-    publisher: "Malaysian Medical Council"
-  - title: "Telemedicine Act 1997 (WIPO Lex record)"
+    publisher: "Hội đồng Y khoa Malaysia (MMC)"
+  - title: "Đạo luật Y tế Từ xa 1997 (bản ghi WIPO Lex) (Telemedicine Act 1997 (WIPO Lex record))"
     url: "https://www.wipo.int/wipolex/en/legislation/details/8180"
     publisher: "WIPO Lex"
-  - title: "Telemedicine Act 1997 (Act 564)"
+  - title: "Đạo luật Y tế Từ xa 1997 (Act 564) (Telemedicine Act 1997 (Act 564))"
     url: "https://www.msc.com.my/cyberlaws/telemedicine-act.html"
     publisher: "MSC Malaysia"
-  - title: "Regulating Remote Care: A Legal Overview of Telemedicine"
+  - title: "Điều chỉnh Chăm sóc Từ xa: Tổng quan Pháp lý về Y tế Từ xa (Regulating Remote Care: A Legal Overview of Telemedicine)"
     url: "https://www.rdslawpartners.com/post/regulating-remote-care-a-legal-overview-of-telemedicine"
     publisher: "RDS Law Partners"
 

@@ -48,12 +48,12 @@ verificationNeeded:
   - "Đoạn 'Thực hành nghề nghiệp' là một khái quát hóa chung về các yêu cầu của cơ quan nghề nghiệp (ví dụ MIA) và không được hỗ trợ bởi một nguồn luật định nào trong sources[]; hãy xác nhận hoặc xóa trước khi công bố."
 updated: 2026-08-08
 sources:
-  - title: "Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia)"
+  - title: "Act 743 — Đạo luật Hợp danh Trách nhiệm Hữu hạn 2012 (Limited Liability Partnerships Act 2012) (Luật Malaysia) (Akta 743 — Akta Perkongsian Liabiliti Terhad 2012 (Undang-Undang Malaysia))"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ssm/Act%20743.pdf"
-    publisher: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN)"
-  - title: "Limited Liability Partnership (Booklet)"
+    publisher: "Bộ Nội thương và Chi phí Sinh hoạt (KPDN)"
+  - title: "Hợp danh Trách nhiệm Hữu hạn (Cẩm nang) (Limited Liability Partnership (Booklet))"
     url: "https://www.ssm.com.my/Pages/Publication/Booklet/document/LLP_bkengLS_update.PDF"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Perkongsian Liabiliti Terhad (PLT)"
 relations:

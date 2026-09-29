@@ -57,18 +57,18 @@ revisions:
 
 updated: 2026-08-08
 sources:
-  - title: "Akta Perkongsian Liabiliti Terhad 2012 (Akta 743), teks kemas kini pada 1 Ogos 2022"
+  - title: "Limited Liability Partnerships Act 2012 (Act 743), văn bản cập nhật tính đến ngày 1 tháng 8 năm 2022 (Akta Perkongsian Liabiliti Terhad 2012 (Akta 743), teks kemas kini pada 1 Ogos 2022)"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ssm/Akta%20743.pdf"
-    publisher: "Jabatan Peguam Negara / SSM"
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+    publisher: "Văn phòng Tổng Chưởng lý / Ủy ban Công ty Malaysia (SSM)"
+  - title: "Companies Act 2016 (Act 777), văn bản cập nhật tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.mof.gov.my/portal/pdf/bahagian/gic/Companies_Act_2016_Act_777.pdf"
-    publisher: "Attorney General's Chambers / SSM"
-  - title: "Limited Liability Partnerships Act — Legal Framework"
+    publisher: "Văn phòng Tổng Chưởng lý / Ủy ban Công ty Malaysia (SSM)"
+  - title: "Limited Liability Partnerships Act — Khung pháp lý (Limited Liability Partnerships Act — Legal Framework)"
     url: "https://www.ssm.com.my/bm/Pages/Legal_Framework/Limited-Liability-Partnerships-Act.aspx"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
-  - title: "Manual Serah Simpan Perakuan Tahunan oleh PLT Secara Dalam Talian"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Sổ tay nộp lưu Bản khai thường niên trực tuyến của công ty hợp danh trách nhiệm hữu hạn (LLP) (Manual Serah Simpan Perakuan Tahunan oleh PLT Secara Dalam Talian)"
     url: "https://www.ssm.com.my/Documents/Manual/ANNUAL-DECLARATION.pdf"
-    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Perkongsian Liabiliti Terhad"
 relations:

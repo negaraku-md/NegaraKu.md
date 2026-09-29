@@ -37,21 +37,21 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Tinta Minda BERNAMA - Rumah Terbuka: Antara Budaya, Trend & Ekspresi"
+  - title: "Tinta Minda BERNAMA - Nhà mở (Rumah Terbuka): Giữa văn hóa, xu hướng & sự thể hiện (Tinta Minda BERNAMA - Rumah Terbuka: Antara Budaya, Trend & Ekspresi)"
     url: "https://www.bernama.com/bm/tintaminda/news.php?id=2293338"
     publisher: "BERNAMA"
-  - title: "Rumah Terbuka Malaysia Madani Usaha Dekati Rakyat, Kerajaan Negeri"
+  - title: "Nhà mở Malaysia Madani, nỗ lực đến gần người dân và chính quyền bang (Rumah Terbuka Malaysia Madani Usaha Dekati Rakyat, Kerajaan Negeri)"
     url: "https://www.penerangan.gov.my/rumah-terbuka-malaysia-madani-usaha-dekati-rakyat-kerajaan-negeri/"
-    publisher: "Jabatan Penerangan Malaysia"
-  - title: "PM Anwar Akan Hadir Majlis Rumah Terbuka Aidilfitri Madani di Kedah, Kelantan dan Terengganu"
+    publisher: "Cục Thông tin Malaysia"
+  - title: "Thủ tướng Anwar sẽ tham dự tiệc Nhà mở Aidilfitri Madani tại Kedah, Kelantan và Terengganu (PM Anwar Akan Hadir Majlis Rumah Terbuka Aidilfitri Madani di Kedah, Kelantan dan Terengganu)"
     url: "https://www.pmo.gov.my/ms/beritabahasamelayu/pm-anwar-akan-hadir-majlis-rumah-terbuka-aidilfitri-madani-di-kedah-kelantan-dan-terengganu/"
-    publisher: "Pejabat Perdana Menteri (PMO)"
-  - title: "Rumah Terbuka Erat Perpaduan Kaum"
+    publisher: "Phủ Thủ tướng (PMO)"
+  - title: "Nhà mở thắt chặt tinh thần đoàn kết các sắc tộc (Rumah Terbuka Erat Perpaduan Kaum)"
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/rumah-terbuka-erat-perpaduan-kaum/"
     publisher: "Radio Televisyen Malaysia (RTM)"
-  - title: "Laman Utama Kementerian Perpaduan Negara"
+  - title: "Trang chủ Bộ Đoàn kết Quốc gia (Laman Utama Kementerian Perpaduan Negara)"
     url: "https://www.perpaduan.gov.my/index.php/en/"
-    publisher: "Kementerian Perpaduan Negara (KPN)"
+    publisher: "Bộ Đoàn kết Quốc gia (KPN)"
 entity: "Rumah terbuka"
 relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }

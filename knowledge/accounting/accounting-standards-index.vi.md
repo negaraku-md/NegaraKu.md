@@ -43,17 +43,17 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Malaysian Financial Reporting Standards (MFRSs)"
+  - title: "Chuẩn mực Báo cáo Tài chính Malaysia (MFRSs) (Malaysian Financial Reporting Standards (MFRSs))"
     url: "https://www.masb.org.my/pages.php?id=89"
-    publisher: "MASB"
-  - title: "MASB Approved Accounting Standards for Private Entities"
+    publisher: "Hội đồng Chuẩn mực Kế toán Malaysia (MASB)"
+  - title: "Chuẩn mực Kế toán được MASB phê duyệt cho các đơn vị tư nhân (MASB Approved Accounting Standards for Private Entities)"
     url: "https://www.masb.org.my/pages.php?id=20"
-    publisher: "MASB"
-  - title: "MPERS (2025)"
+    publisher: "Hội đồng Chuẩn mực Kế toán Malaysia (MASB)"
+  - title: "Chuẩn mực Báo cáo Đơn vị Tư nhân Malaysia (MPERS) (2025) (MPERS (2025))"
     url: "https://www.masb.org.my/pages.php?id=615"
-    publisher: "MASB"
+    publisher: "Hội đồng Chuẩn mực Kế toán Malaysia (MASB)"
     date: "2025-10-10"
-  - title: "IFRS for SMEs Accounting Standard, third edition"
+  - title: "Chuẩn mực Kế toán IFRS cho các Doanh nghiệp nhỏ và vừa (SME), ấn bản thứ ba (IFRS for SMEs Accounting Standard, third edition)"
     url: "https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html"
     publisher: "IFRS Foundation"
 

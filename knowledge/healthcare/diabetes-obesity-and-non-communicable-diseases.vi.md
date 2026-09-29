@@ -49,22 +49,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Over Two Million Adults In Malaysia Live With Three NCDs: NHMS 2023"
+  - title: "Hơn Hai Triệu Người Trưởng thành Ở Malaysia Sống Chung Với Ba Bệnh Không Lây (NCD): NHMS 2023 (Over Two Million Adults In Malaysia Live With Three NCDs: NHMS 2023)"
     url: "https://codeblue.galencentre.org/2024/05/over-two-million-adults-in-malaysia-live-with-three-ncds-nhms-2023/"
     publisher: "CodeBlue (Galen Centre)"
-  - title: "Rising Obesity in Malaysia (1990–2023): A Comprehensive Analysis of Temporal Trends"
+  - title: "Béo phì Gia tăng ở Malaysia (1990–2023): Một Phân tích Toàn diện về Xu hướng Theo Thời gian (Rising Obesity in Malaysia (1990–2023): A Comprehensive Analysis of Temporal Trends)"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12900780/"
     publisher: "PubMed Central / NCBI"
   - title: "PeKa B40"
     url: "https://protecthealth.com.my/peka-b40-eng/"
-    publisher: "ProtectHealth Corporation (Kementerian Kesihatan Malaysia)"
-  - title: "Malaysia to impose new sugar tax on beverages"
+    publisher: "ProtectHealth Corporation (Bộ Y tế Malaysia)"
+  - title: "Malaysia áp thuế đường mới đối với đồ uống (Malaysia to impose new sugar tax on beverages)"
     url: "https://theedgemalaysia.com/article/malaysia-impose-new-sugar-tax-beverages"
     publisher: "The Edge Malaysia"
-  - title: "Sugary drink tax to be raised to 90 sen per litre next year, from 50 sen now"
+  - title: "Thuế đồ uống có đường sẽ tăng lên 90 sen mỗi lít vào năm tới, từ mức 50 sen hiện nay (Sugary drink tax to be raised to 90 sen per litre next year, from 50 sen now)"
     url: "https://theedgemalaysia.com/node/730731"
     publisher: "The Edge Malaysia"
-  - title: "List of Certifications for Home-Based Food Business in Malaysia (Healthier Choice Logo)"
+  - title: "Danh sách Chứng nhận cho Doanh nghiệp Thực phẩm Tại nhà ở Malaysia (Logo Lựa chọn Lành mạnh hơn) (List of Certifications for Home-Based Food Business in Malaysia (Healthier Choice Logo))"
     url: "https://www.foodipedia.my/healthier-choice-logo-guidelines/"
     publisher: "Foodipedia"
 

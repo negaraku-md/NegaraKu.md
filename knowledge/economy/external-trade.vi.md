@@ -39,16 +39,16 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Monthly External Trade Statistics, June 2026"
+  - title: "Thống kê Ngoại thương Hàng tháng, tháng 6 năm 2026 (Monthly External Trade Statistics, June 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026"
-    publisher: "DOSM"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
     date: "2026-07-20"
-  - title: "Export Import Statistics by State, May 2026"
+  - title: "Thống kê Xuất Nhập khẩu theo Bang, tháng 5 năm 2026 (Export Import Statistics by State, May 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/export-import-statistics-by-state-may2026"
-    publisher: "DOSM"
-  - title: "Ministry of Investment, Trade and Industry (MITI)"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
+  - title: "Bộ Đầu tư, Thương mại và Công nghiệp (MITI) (Ministry of Investment, Trade and Industry (MITI))"
     url: "https://www.miti.gov.my/"
-    publisher: "MITI"
+    publisher: "Bộ Đầu tư, Thương mại và Công nghiệp (MITI)"
 
 entity: "Malaysia external trade"
 relations:

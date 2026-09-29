@@ -58,20 +58,20 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), reprint as at 1 August 2022"
+  - title: "Đạo luật Công ty 2016 (Companies Act 2016, Act 777), bản tái bản tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), reprint as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016"
+  - title: "AAPG 1 — Báo cáo kiểm toán về báo cáo tài chính được lập theo khuôn khổ MFRS và Đạo luật Công ty 2016 (Companies Act 2016) (AAPG 1 — Auditors report on financial statements prepared in accordance with the MFRS framework and Companies Act 2016)"
     url: "https://mia.org.my/wp-content/uploads/2022/06/MIA_Audit_and_Assurance_Practice_Guide_AAPG_1-1.pdf"
-    publisher: "MIA"
+    publisher: "Viện Kế toán Malaysia (MIA)"
     date: "2021-06-01"
-  - title: "Malaysian Accounting Standards Board — approved accounting standards"
+  - title: "Ủy ban Chuẩn mực Kế toán Malaysia — các chuẩn mực kế toán được phê duyệt (Malaysian Accounting Standards Board — approved accounting standards)"
     url: "https://www.masb.org.my/pages.php?id=19"
-    publisher: "MASB"
-  - title: "ISA 580, Written Representations"
+    publisher: "Ủy ban Chuẩn mực Kế toán Malaysia (MASB)"
+  - title: "ISA 580, Giải trình bằng Văn bản (ISA 580, Written Representations)"
     url: "https://mia.org.my/box/2022/04/ISA_580.pdf"
-    publisher: "MIA"
+    publisher: "Viện Kế toán Malaysia (MIA)"
 
 entity: "Audit request list (prepared by client)"
 relations:

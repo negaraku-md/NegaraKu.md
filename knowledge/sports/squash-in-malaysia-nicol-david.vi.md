@@ -51,7 +51,7 @@ verificationNeeded:
 
 updated: 2026-08-01
 sources:
-  - title: "Nicol David — Laureus World Sports Academy"
+  - title: "Nicol David — Học viện Thể thao Thế giới Laureus (Nicol David — Laureus World Sports Academy)"
     url: "https://www.laureus.com/world-sports-academy/members/nicol-david"
     publisher: "Laureus"
   - title: "Nicol David — Hồ sơ Vận động viên (Nicol David — Player Profile)"
@@ -63,7 +63,7 @@ sources:
   - title: "Bóng quần: Sivasangari đạt thứ hạng cao nhất sự nghiệp là số 6 thế giới (Squash: Sivasangari reaches career-high world No. 6 ranking)"
     url: "https://www.thestar.com.my/sport/squash/2025/10/20/sivasangari-reaches-career-high-world-no-6-ranking"
     publisher: "The Star"
-  - title: "ACE Malaysia Squash Cup 2024"
+  - title: "ACE Malaysia Squash Cup 2024 (ACE Malaysia Squash Cup 2024)"
     url: "https://www.psasquashtour.com/tournament/ace-malaysia-squash-cup-2024/"
     publisher: "PSA Squash Tour"
   - title: "Malaysia giành suất tại Giải Vô địch Bóng quần Thế giới 2024 (Malaysia clinches spot in 2024 World Squash Championships)"

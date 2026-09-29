@@ -42,23 +42,23 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "Jadual Imunisasi Kebangsaan (Kemaskini Ogos 2023)"
+  - title: "Lịch Tiêm chủng Quốc gia (Cập nhật tháng 8 năm 2023) (Jadual Imunisasi Kebangsaan (Kemaskini Ogos 2023))"
     url: "https://infosihat.moh.gov.my/penerbitan-multimedia/infografik/item/jadual-imunisasi-kebangsaan-kemaskini-ogos-2023.html"
-    publisher: "Bahagian Pendidikan Kesihatan, Kementerian Kesihatan Malaysia (KKM), portal Info Sihat"
+    publisher: "Ban Giáo dục Sức khỏe, Bộ Y tế Malaysia (KKM), cổng Info Sihat"
     date: "2023-08"
-  - title: "Jadual Imunisasi Kebangsaan Terkini (garis panduan)"
+  - title: "Lịch Tiêm chủng Quốc gia Mới nhất (hướng dẫn) (Jadual Imunisasi Kebangsaan Terkini (garis panduan))"
     url: "https://infosihat.moh.gov.my/penerbitan-multimedia/garis-panduan/item/jadual-imunisasi-kebangsaan-terkini.html"
-    publisher: "Bahagian Pendidikan Kesihatan, Kementerian Kesihatan Malaysia (KKM), portal Info Sihat"
+    publisher: "Ban Giáo dục Sức khỏe, Bộ Y tế Malaysia (KKM), cổng Info Sihat"
     date: "2021"
-  - title: "The Malaysian National Immunisation Programme (NIP)"
+  - title: "Chương trình Tiêm chủng Quốc gia Malaysia (NIP) (The Malaysian National Immunisation Programme (NIP))"
     url: "https://immunise4life.my/the-malaysian-national-immunisation-programme-nip/"
-    publisher: "Immunise4Life — inisiatif digerakkan bersama Kementerian Kesihatan Malaysia (KKM), Persatuan Pediatrik Malaysia (MPA) dan Persatuan Penyakit Berjangkit & Kemoterapi Malaysia (MSIDC)"
-  - title: "Program Imunisasi Bayi dan Kanak-kanak"
+    publisher: "Immunise4Life — sáng kiến được đồng vận hành bởi Bộ Y tế Malaysia (KKM), Hiệp hội Nhi khoa Malaysia (MPA) và Hiệp hội Bệnh Truyền nhiễm & Hóa trị Malaysia (MSIDC)"
+  - title: "Chương trình Tiêm chủng cho Trẻ sơ sinh và Trẻ em (Program Imunisasi Bayi dan Kanak-kanak)"
     url: "https://www.malaysia.gov.my/my/personas/ibu-hamil/fasa-selepas-bersalin/program-imunisasi-bayi-dan-kanak-kanak"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
-  - title: "Kenali Buku Rekod Kesihatan Bayi dan Kanak-Kanak"
+    publisher: "Cổng thông tin Chính thức của Chính phủ Malaysia (MyGovernment)"
+  - title: "Tìm hiểu Sổ Ghi chép Sức khỏe Trẻ sơ sinh và Trẻ em (Kenali Buku Rekod Kesihatan Bayi dan Kanak-Kanak)"
     url: "https://www.malaysia.gov.my/my/topics/kenali-buku-rekod-kesihatan-bayi-dan-kanak-kanak"
-    publisher: "Portal Rasmi Kerajaan Malaysia (MyGovernment)"
+    publisher: "Cổng thông tin Chính thức của Chính phủ Malaysia (MyGovernment)"
 
 entity: "Program Imunisasi Kebangsaan (PIK) Malaysia"
 relations:

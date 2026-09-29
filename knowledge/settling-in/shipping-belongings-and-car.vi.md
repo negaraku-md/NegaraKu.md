@@ -34,21 +34,21 @@ revisions:
     reviewer: null
 updated: 2026-07-24
 sources:
-  - title: "Panduan Kemudahan Membawa Barangan Rumah (Household Effects) Dan Barangan Persendirian (Personal Effects) Dari Luar Negara"
+  - title: "Hướng dẫn về việc mang Đồ dùng Gia đình (Household Effects) và Đồ dùng Cá nhân (Personal Effects) từ Nước ngoài (Panduan Kemudahan Membawa Barangan Rumah (Household Effects) Dan Barangan Persendirian (Personal Effects) Dari Luar Negara)"
     url: "https://www.customs.gov.my/en/cp/Pages/cp_hepe.aspx"
-    publisher: "Jabatan Kastam Diraja Malaysia (Royal Malaysian Customs Department)"
-  - title: "Approved Permit (AP)"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (Jabatan Kastam Diraja Malaysia)"
+  - title: "Giấy phép được Chấp thuận (AP) (Approved Permit (AP))"
     url: "https://www.miti.gov.my/index.php/pages/view/10605"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Individual AP"
+    publisher: "Bộ Đầu tư, Thương mại và Công nghiệp (MITI)"
+  - title: "AP Cá nhân (Individual AP)"
     url: "https://www.miti.gov.my/index.php/pages/view/10643"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Approved Permit — FAQ"
+    publisher: "Bộ Đầu tư, Thương mại và Công nghiệp (MITI)"
+  - title: "Giấy phép được Chấp thuận — Câu hỏi thường gặp (Approved Permit — FAQ)"
     url: "https://www.miti.gov.my/index.php/pages/view/10621"
-    publisher: "Ministry of Investment, Trade and Industry (MITI)"
-  - title: "Implementation of Import Vehicle Registration"
+    publisher: "Bộ Đầu tư, Thương mại và Công nghiệp (MITI)"
+  - title: "Triển khai Đăng ký Xe Nhập khẩu (Implementation of Import Vehicle Registration)"
     url: "https://www.jpj.gov.my/en/implementation-of-import-vehicle-registration/"
-    publisher: "Jabatan Pengangkutan Jalan (JPJ)"
+    publisher: "Cục Giao thông Đường bộ (JPJ)"
 entity: "Household effects and vehicle import (Kastam / MITI / JPJ)"
 relations:
   - { rel: "administered-by", to: "miti" }

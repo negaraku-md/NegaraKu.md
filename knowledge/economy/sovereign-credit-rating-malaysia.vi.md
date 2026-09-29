@@ -55,16 +55,16 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Moody's Affirms Malaysia's Sovereign Credit Rating At 'A3'; Outlook Stable (25 January 2025 affirmation)"
+  - title: "Moody's xác nhận Xếp hạng Tín nhiệm Quốc gia của Malaysia ở mức 'A3'; Triển vọng Ổn định (xác nhận ngày 25 tháng 1 năm 2025) (Moody's Affirms Malaysia's Sovereign Credit Rating At 'A3'; Outlook Stable (25 January 2025 affirmation))"
     url: "https://www.mof.gov.my/portal/en/news/press-release/moodys-affirms-malaysias-sovereign-credit-rating-at-a3-outlook-stable"
-    publisher: "Ministry of Finance Malaysia"
-  - title: "Sovereign Credit Rating Snapshot"
+    publisher: "Bộ Tài chính Malaysia (Ministry of Finance Malaysia)"
+  - title: "Tổng quan Xếp hạng Tín nhiệm Quốc gia (Sovereign Credit Rating Snapshot)"
     url: "https://www.investmalaysia.gov.my/invest-in-malaysia/sovereign-credit-rating-snapshot/"
     publisher: "InvestMalaysia (MIDA)"
-  - title: "S&P affirms Malaysia's credit rating with stable outlook, citing fiscal reforms and resilient growth"
+  - title: "S&P xác nhận xếp hạng tín nhiệm của Malaysia với triển vọng ổn định, viện dẫn cải cách tài khóa và tăng trưởng vững vàng (S&P affirms Malaysia's credit rating with stable outlook, citing fiscal reforms and resilient growth)"
     url: "https://theedgemalaysia.com/node/770912"
     publisher: "The Edge Malaysia"
-  - title: "Fitch affirms Malaysia's rating at 'BBB+' with stable outlook"
+  - title: "Fitch xác nhận xếp hạng của Malaysia ở mức 'BBB+' với triển vọng ổn định (Fitch affirms Malaysia's rating at 'BBB+' with stable outlook)"
     url: "https://english.news.cn/asiapacific/20251208/9af87ab789c447c594645a308611f699/c.html"
     publisher: "Xinhua"
 

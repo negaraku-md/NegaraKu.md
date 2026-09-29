@@ -60,16 +60,16 @@ revisions:
 
 updated: 2026-07-20
 sources:
-  - title: "Companies Act 2016 (Act 777), updated text as at 1 August 2022"
+  - title: "Companies Act 2016 (Act 777), văn bản cập nhật tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), updated text as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
-    publisher: "SSM"
-  - title: "Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Chỉ thị Thực hành số 10/2024 — Tiêu chí đủ điều kiện miễn kiểm toán cho một số công ty tư nhân tại Malaysia (Practice Directive No. 10/2024 — Qualifying Criteria for Audit Exemption for Certain Private Companies in Malaysia)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/PD10-2024-Qualifying-Criteria-for-Audit-Exemption-for-Certain-Categories-of-Private-Companies.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2024-12-16"
-  - title: "Practice Note No. 3/2018 — Clarification on Application for Extension of Time under the Companies Act 2016"
+  - title: "Thông báo Thực hành số 3/2018 — Làm rõ về đơn xin gia hạn thời gian theo Companies Act 2016 (Practice Note No. 3/2018 — Clarification on Application for Extension of Time under the Companies Act 2016)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/PDF%20Tab%205/pn_ss_609_2592_3404_eot.pdf"
-    publisher: "SSM"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2018-07-26"
 
 entity: "First financial year"

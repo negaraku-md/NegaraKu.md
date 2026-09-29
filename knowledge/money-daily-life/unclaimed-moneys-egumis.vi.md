@@ -50,15 +50,15 @@ verificationNeeded:
   - "Năm ra mắt cổng eGUMIS — chỉ xuất hiện trong các bản tóm tắt thứ cấp, chưa được xác nhận từ nguồn chính thức."
 updated: 2026-08-08
 sources:
-  - title: "Unclaimed Money"
+  - title: "Tiền chưa được nhận (Unclaimed Money)"
     url: "https://www.anm.gov.my/en/public/unclaimed-money"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "FAQ - eGUMIS"
+    publisher: "Cục Kế toán Nhà nước Malaysia (JANM)"
+  - title: "Câu hỏi thường gặp - eGUMIS (FAQ - eGUMIS)"
     url: "https://egumis.anm.gov.my/faq?lang=en"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
-  - title: "Unclaimed Moneys and CDS-MOF (FAQ)"
+    publisher: "Cục Kế toán Nhà nước Malaysia (JANM)"
+  - title: "Tiền chưa được nhận và CDS-MOF (Câu hỏi thường gặp) (Unclaimed Moneys and CDS-MOF (FAQ))"
     url: "https://www.anm.gov.my/en/faqs/unclaimed-moneys-and-cds-mof"
-    publisher: "Jabatan Akauntan Negara Malaysia (JANM)"
+    publisher: "Cục Kế toán Nhà nước Malaysia (JANM)"
 
 entity: "eGUMIS"
 relations:

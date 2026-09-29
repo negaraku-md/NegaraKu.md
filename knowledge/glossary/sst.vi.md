@@ -32,9 +32,9 @@ sensitivity: "none"
 
 updated: 2026-07-10
 sources:
-  - title: "Royal Malaysian Customs Department — MySST"
+  - title: "Cục Hải quan Hoàng gia Malaysia — MySST (Royal Malaysian Customs Department — MySST)"
     url: "https://mysst.customs.gov.my/"
-    publisher: "Royal Malaysian Customs Department"
+    publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
 
 entity: "SST"
 relations:

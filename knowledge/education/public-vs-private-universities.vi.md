@@ -38,10 +38,10 @@ revisions:
     reviewer: null
 updated: 2026-07-24
 sources:
-  - title: "Senarai Universiti Awam (List of Public Universities) — MyInfo@IPTA"
+  - title: "Danh sách các Trường Đại học Công lập (List of Public Universities) — MyInfo@IPTA (Senarai Universiti Awam (List of Public Universities) — MyInfo@IPTA)"
     url: "https://myinfoipta.mohe.gov.my/CoverPage/InstitusiUA.aspx"
     publisher: "Bộ Giáo dục Đại học Malaysia (Kementerian Pendidikan Tinggi, MOHE)"
-  - title: "UPU — Bahagian Pengurusan Kemasukan Pelajar (Student Admission Management Division)"
+  - title: "UPU — Bộ phận Quản lý Tuyển sinh Sinh viên (Student Admission Management Division) (UPU — Bahagian Pengurusan Kemasukan Pelajar (Student Admission Management Division))"
     url: "https://upu.mohe.gov.my/"
     publisher: "Cục Giáo dục Đại học, Bộ Giáo dục Đại học Malaysia (Jabatan Pendidikan Tinggi, MOHE)"
   - title: "Cổng thông tin chính thức của MQA (The Official Portal of MQA)"

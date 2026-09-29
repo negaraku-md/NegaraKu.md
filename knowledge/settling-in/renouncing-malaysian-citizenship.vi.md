@@ -52,19 +52,19 @@ revisions:
 
 updated: 2026-08-07
 sources:
-  - title: "Federal Constitution (Reprint As at 15 October 2020) — Articles 23 & 24"
+  - title: "Federal Constitution (Bản tái bản tính đến ngày 15 tháng 10 năm 2020) — Điều 23 & 24 (Federal Constitution (Reprint As at 15 October 2020) — Articles 23 & 24)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
-    publisher: "Attorney General's Chambers of Malaysia (Pejabat Peguam Negara)"
-  - title: "Application for Renunciation of Citizenship Status Under Article 23 of the Federal Constitution"
+    publisher: "Phòng Tổng Chưởng lý Malaysia (Pejabat Peguam Negara)"
+  - title: "Đơn xin Từ bỏ Tư cách Công dân Theo Điều 23 của Hiến pháp Liên bang (Application for Renunciation of Citizenship Status Under Article 23 of the Federal Constitution)"
     url: "https://www.jpn.gov.my/en/services/citizenship/application-for-renunciation-of-citizenship-status-under-article-23-of-the-federal-constitution/"
-    publisher: "Jabatan Pendaftaran Negara (National Registration Department)"
-  - title: "Renunciation of Malaysian Citizenship"
+    publisher: "Cục Đăng ký Quốc gia (Jabatan Pendaftaran Negara)"
+  - title: "Từ bỏ Quốc tịch Malaysia (Renunciation of Malaysian Citizenship)"
     url: "https://www.malaysia.gov.my/en/categories/personal-identification/kewarganegaraan/renunciation-of-malaysian-citizenship"
     publisher: "MyGovernment Portal (Malaysian Administrative Modernisation and Management Planning Unit)"
-  - title: "No Policy Change In Case Of Dual Citizenship Holders Surrendering MyKad"
+  - title: "Không thay đổi chính sách đối với người mang hai quốc tịch nộp lại MyKad (No Policy Change In Case Of Dual Citizenship Holders Surrendering MyKad)"
     url: "https://www.bernama.com/en/news.php?id=2503691"
     publisher: "Bernama"
-  - title: "Malaysia does not recognise dual citizenship, says home minister"
+  - title: "Malaysia không công nhận hai quốc tịch, Bộ trưởng Nội vụ cho biết (Malaysia does not recognise dual citizenship, says home minister)"
     url: "https://www.malaymail.com/news/malaysia/2019/03/21/malaysia-does-not-recognise-dual-citizenship-says-home-minister/1735018"
     publisher: "Malay Mail"
 

@@ -55,7 +55,7 @@ verificationNeeded:
   - "Các con số hóa đơn minh họa là một minh họa chung về cơ chế khoản cố định, chứ không phải một sự tái hiện nguyên văn của bất kỳ ví dụ có đánh số đơn lẻ nào trong Hướng dẫn Chung của RMCD."
 updated: 2026-07-28
 sources:
-  - title: "Tourism Tax Act 2017 (Act 791)"
+  - title: "Đạo luật Thuế Du lịch 2017 (Tourism Tax Act 2017 (Act 791))"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2022/05/APPENDIX-1-Tourism-Tax-Act-2017.pdf"
     publisher: "Cục Hải quan Hoàng gia Malaysia (Royal Malaysian Customs Department)"
   - title: "Hướng dẫn Chung về Thuế Du lịch (General Guide on Tourism Tax)"
@@ -67,7 +67,7 @@ sources:
   - title: "Chính sách Thuế Du lịch (TTx) Số 2/2023 (Tourism Tax (TTx) Policy No. 2/2023)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2023/04/POLICY-TTX-BI-NO.2-2023-DPSP-TTx-extension-1-apr-23-31-dis-25.pdf"
     publisher: "Cục Hải quan Hoàng gia Malaysia (Royal Malaysian Customs Department)"
-  - title: "Tourism Tax (Amendment) Act 2021 (Act A1633)"
+  - title: "Đạo luật Thuế Du lịch (Sửa đổi) 2021 (Tourism Tax (Amendment) Act 2021 (Act A1633))"
     url: "https://lom.agc.gov.my/act-detail.php?act=A1633"
     publisher: "Phòng Tổng Chưởng lý Malaysia (Attorney General's Chambers of Malaysia) (Laws of Malaysia)"
 

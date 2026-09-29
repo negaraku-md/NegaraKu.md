@@ -39,24 +39,24 @@ revisions:
 
 updated: 2026-07-24
 sources:
-  - title: "JENDELA (Jalinan Digital Negara) — official overview and Phase 1 targets"
+  - title: "JENDELA (Jalinan Digital Negara) — tổng quan chính thức và mục tiêu Giai đoạn 1 (JENDELA (Jalinan Digital Negara) — official overview and Phase 1 targets)"
     url: "https://myjendela.my/"
-    publisher: "JENDELA / Malaysian Communications and Multimedia Commission (MCMC)"
-  - title: "Unifi homepage — Unifi Home, Unifi Air, Fibre-To-The-Room and Check Coverage tool"
+    publisher: "JENDELA / Ủy ban Truyền thông và Đa phương tiện Malaysia (MCMC)"
+  - title: "Trang chủ Unifi — Unifi Home, Unifi Air, Fibre-To-The-Room và công cụ Kiểm tra Vùng phủ sóng (Unifi homepage — Unifi Home, Unifi Air, Fibre-To-The-Room and Check Coverage tool)"
     url: "https://www.unifi.com.my/"
     publisher: "Telekom Malaysia (TM)"
-  - title: "Maxis Home Fibre — plans, coverage check and family/mobile bundling"
+  - title: "Maxis Home Fibre — các gói, kiểm tra vùng phủ sóng và gói kết hợp gia đình/di động (Maxis Home Fibre — plans, coverage check and family/mobile bundling)"
     url: "https://www.maxis.com.my/en/broadband/"
     publisher: "Maxis"
-  - title: "TIME Check Coverage"
+  - title: "TIME Kiểm tra Vùng phủ sóng (TIME Check Coverage)"
     url: "https://www.time.com.my/check-coverage"
     publisher: "TIME dotCom"
-  - title: "TIME Fibre for Landed Homes"
+  - title: "TIME Fibre cho Nhà đất (TIME Fibre for Landed Homes)"
     url: "https://www.time.com.my/internet-for-landed-homes"
     publisher: "TIME dotCom"
-  - title: "Technical Standard of In-Building Fibre Cabling for Fibre-to-the-Premise (MTSFB TC G007)"
+  - title: "Tiêu chuẩn Kỹ thuật về Đi cáp Quang trong Tòa nhà cho Fibre-to-the-Premise (MTSFB TC G007) (Technical Standard of In-Building Fibre Cabling for Fibre-to-the-Premise (MTSFB TC G007))"
     url: "https://www.mcmc.gov.my/skmmgovmy/media/General/pdf/MTSFB-002-2009-TECHNICAL-STANDARD-OF-IN-BUILDING-FIBRE-CABLING-FOR-FIBRE-TO-THE-PREMISE.pdf"
-    publisher: "Malaysian Communications and Multimedia Commission (MCMC) / MTSFB"
+    publisher: "Ủy ban Truyền thông và Đa phương tiện Malaysia (MCMC) / MTSFB"
 
 entity: "Home fibre broadband in Malaysia"
 relations:

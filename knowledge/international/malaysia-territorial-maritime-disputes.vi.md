@@ -48,22 +48,22 @@ revisions:
 
 updated: 2026-08-01
 sources:
-  - title: "Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore)"
+  - title: "Chủ quyền đối với Pedra Branca/Pulau Batu Puteh, Middle Rocks và South Ledge (Malaysia/Singapore) (Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore))"
     url: "https://www.icj-cij.org/case/130"
     publisher: "International Court of Justice"
-  - title: "Malaysia — Partial Submission to the Commission on the Limits of the Continental Shelf (12 December 2019)"
+  - title: "Malaysia — Đệ trình Một phần lên Ủy ban Ranh giới Thềm lục địa (12 tháng 12 năm 2019) (Malaysia — Partial Submission to the Commission on the Limits of the Continental Shelf (12 December 2019))"
     url: "https://www.un.org/Depts/los/clcs_new/submissions_files/submission_mys_12_12_2019.html"
     publisher: "United Nations — Commission on the Limits of the Continental Shelf"
-  - title: "Pedra Branca — Key Issues"
+  - title: "Pedra Branca — Các Vấn đề Chính (Pedra Branca — Key Issues)"
     url: "https://www.mfa.gov.sg/about-mfa/key-issues/pedra-branca/"
     publisher: "Ministry of Foreign Affairs, Singapore"
-  - title: "Joint Press Statement: Ninth Meeting of the Malaysia-Singapore Joint Technical Committee, 23 November 2021"
+  - title: "Tuyên bố Báo chí Chung: Cuộc họp lần thứ Chín của Ủy ban Kỹ thuật Chung Malaysia-Singapore, 23 tháng 11 năm 2021 (Joint Press Statement: Ninth Meeting of the Malaysia-Singapore Joint Technical Committee, 23 November 2021)"
     url: "https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/11/20211125-Malaysia-Singapore-Joint-Press-Statement"
     publisher: "Ministry of Foreign Affairs, Singapore"
-  - title: "Island Tracker — Malaysia"
+  - title: "Island Tracker — Malaysia (Island Tracker — Malaysia)"
     url: "https://amti.csis.org/island-tracker/malaysia/"
     publisher: "Asia Maritime Transparency Initiative, CSIS"
-  - title: "'Indisputable sovereignty': Philippines' UN filing reignites Sabah dispute with Malaysia"
+  - title: "'Chủ quyền không thể tranh cãi': Hồ sơ gửi Liên Hợp Quốc của Philippines làm bùng lại tranh chấp Sabah với Malaysia ('Indisputable sovereignty': Philippines' UN filing reignites Sabah dispute with Malaysia)"
     url: "https://www.scmp.com/week-asia/politics/article/3269063/indisputable-sovereignty-philippines-un-filing-reignites-sabah-dispute-malaysia"
     publisher: "South China Morning Post"
 

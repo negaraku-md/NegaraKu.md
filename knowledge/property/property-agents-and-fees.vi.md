@@ -50,15 +50,15 @@ verificationNeeded:
 
 updated: 2026-08-08
 sources:
-  - title: "Fees — Estate Agency scale of fees (Seventh Schedule / Rule 48)"
+  - title: "Phí — Biểu phí Dịch vụ Môi giới Bất động sản (Phụ lục Thứ bảy / Quy tắc 48) (Fees — Estate Agency scale of fees (Seventh Schedule / Rule 48))"
     url: "https://lpeph.gov.my/fees"
-    publisher: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
-  - title: "Role of the Board"
+    publisher: "Hội đồng Thẩm định viên, Định giá viên, Đại lý Bất động sản và Quản lý Tài sản (LPEPH/BOVAEP)"
+  - title: "Vai trò của Hội đồng (Role of the Board)"
     url: "https://lpeph.gov.my/role"
-    publisher: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
-  - title: "Search Listing (semakan pendaftaran & maklumat hubungan)"
+    publisher: "Hội đồng Thẩm định viên, Định giá viên, Đại lý Bất động sản và Quản lý Tài sản (LPEPH/BOVAEP)"
+  - title: "Tra cứu Danh sách (kiểm tra đăng ký & thông tin liên hệ) (Search Listing (semakan pendaftaran & maklumat hubungan))"
     url: "https://lpeph.gov.my/search-listing"
-    publisher: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
+    publisher: "Hội đồng Thẩm định viên, Định giá viên, Đại lý Bất động sản và Quản lý Tài sản (LPEPH/BOVAEP)"
 
 entity: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
 relations:
