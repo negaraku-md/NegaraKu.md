@@ -4,11 +4,26 @@ Living tracker of open work toward the mission **"let the world know about Malay
 Update this file as tasks move; check items off when done. Owner tags: **[you]** = user
 action (accounts, credentials, approvals — Claude can't do these), **[me]** = Claude.
 
-_Last updated: 2026-09-21._
+_Last updated: 2026-09-29._
 
 ---
 
 ## 🌐 Distribution push — ON HOLD (2026-09-18, "come back later")
+
+### ⭐ AI-citation diagnosis (2026-09-29) — "why doesn't Claude.ai cite us for business entities?"
+Diagnosed from real GSC data (`analytics/gsc.json`, →2026-09-25): the site **is** indexed and
+ranking — **58,873 impressions, 520 clicks, avg position 12.5** (page ~2); `business` alone 4,614
+impr. It wins **long-tail/specific** queries (ranks 6–9) but loses **broad head terms** ("business
+entities in Malaysia"), where established firms (Acclime, ASEAN Briefing, Foundingbird) sit 1–10.
+AI answer-engines only pull **top-ranked** results into their candidate set, so at position 12+ we
+never enter it. **Not an indexing / content / on-page problem** — on-page GEO is already best-in-class
+(rich JSON-LD, per-locale llms.txt, `max-snippet:-1`). The gap is **off-page**:
+1. **[you] Third-party citations** — the Wikipedia Phase 2b playbook (COI-careful, sparse). Biggest lever, highest risk.
+2. **Domain authority + time** — site is months old; backlinks (LinkedIn/IG posts, genuine community citations) + age lift head-term ranking. Compounds; no shortcut.
+3. **[me] Head-term consolidation** — make `knowledge/business/business-structures-malaysia.md` a dense hub internally linking every entity-type article (Sdn Bhd, LLP, Labuan, sole-prop, the `vs` pages). The only purely-internal lever.
+- **[me] increment:** expand the HF dataset from ms/en/zh/ta → +ja/ko/th/vi/id.
+- **Decision:** parked here; finish Indonesian Phase 2 first, then do #3 (option b). See memory [[negaraku-distribution-channels]].
+
 
 The 4 discovery modes and where we stand:
 
