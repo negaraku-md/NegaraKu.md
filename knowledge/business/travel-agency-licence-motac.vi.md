@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0139
 title: "Cách xin giấy phép đại lý du lịch với MOTAC tại Malaysia"
-seoTitle: "MOTAC Travel Agency Licence Malaysia: Inbound, Outbound, Ticketing"
+seoTitle: "Giấy phép đại lý du lịch MOTAC tại Malaysia: Nhận khách quốc tế, đưa khách ra nước ngoài, bán vé"
 slug: "travel-agency-licence-motac"
 category: "business"
 subcategory: ["licensing"]

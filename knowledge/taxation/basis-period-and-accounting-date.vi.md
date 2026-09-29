@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0013
 title: "Kỳ cơ sở và việc thay đổi ngày kết thúc kế toán của bạn"
-seoTitle: "Basis Period Malaysia: First Year and Accounting Date"
+seoTitle: "Kỳ cơ sở Malaysia: Năm đầu tiên và ngày kết thúc kế toán"
 slug: "basis-period-and-accounting-date"
 category: "taxation"
 subcategory: ["corporate-tax"]
@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Các Sdn Bhd, LLP, tổ chức tín thác và hợp tác xã mới thành lập, và bất kỳ công ty nào thay đổi ngày kết thúc năm tài chính của mình."
 
 verificationNeeded:
-  - "Confirm the current CP204B submission address and whether e-filing of CP204B is available; the LHDN page states deadlines are printed on the reverse of the form"
+  - "Xác nhận địa chỉ nộp CP204B hiện hành và liệu có thể nộp CP204B qua e-filing hay không; trang của LHDN nêu rằng các hạn chót được in ở mặt sau của mẫu"
 
 obligations:
   - what: "Thông báo một sự thay đổi ngày kết thúc kế toán trên Mẫu CP204B"

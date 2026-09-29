@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0121
 title: "Ưu đãi thuế cho nhà đầu tư thiên thần — thời hạn được đăng công báo đã trôi qua vào ngày 31 tháng 12 năm 2023"
-seoTitle: "Angel Investor Tax Incentive Malaysia — Status and Conditions"
+seoTitle: "Ưu đãi thuế cho nhà đầu tư thiên thần Malaysia — Tình trạng và điều kiện"
 slug: "angel-investor-tax-incentive"
 category: "taxation"
 subcategory: ["incentives"]
@@ -34,9 +34,9 @@ faq:
     a: "Đoạn 5(a) yêu cầu nhà đầu tư phải cư trú tại Malaysia, có thu nhập không chỉ từ kinh doanh, nắm giữ không quá 30 phần trăm tổng vốn cổ phần đã góp của công ty nhận đầu tư, và đầu tư chỉ để tài trợ cho các hoạt động được Bộ trưởng phê duyệt. Nó cũng loại nhà đầu tư nếu một cha mẹ hoặc cha mẹ vợ/chồng, con cái bao gồm con riêng hoặc con nuôi, anh chị em ruột, ông bà, cháu hoặc vợ/chồng thực hiện bất kỳ khoản đầu tư nào vào cùng công ty nhận đầu tư. Đoạn 6 loại trừ bất kỳ ai đã yêu cầu một khoản khấu trừ theo P.U.(A) 76/2005."
 
 verificationNeeded:
-  - "Whether an Income Tax (Exemption) (No. 3) 2014 (Amendment) Order extending paragraph 5(a)(ii) beyond 31 December 2023 has been gazetted — none appears on the AGC subsidiary legislation index, which was current to July 2026 when checked"
-  - "Whether the Angel Tax Incentive Office continues to accept and process new investor accreditation or investee certification applications administratively notwithstanding the gazetted deadline"
-  - "The current list of activities approved by the Minister — Public Ruling 12/2020 gives nine high-growth and high-technology fields as at 2020 and describes them as the position at that time"
+  - "Liệu một Income Tax (Exemption) (No. 3) 2014 (Amendment) Order gia hạn đoạn 5(a)(ii) quá ngày 31 tháng 12 năm 2023 đã được đăng công báo hay chưa — không có văn bản nào xuất hiện trên chỉ mục pháp luật thứ cấp của AGC, vốn được cập nhật đến tháng 7 năm 2026 khi kiểm tra"
+  - "Liệu Văn phòng Ưu đãi Thuế Thiên thần (Angel Tax Incentive Office) có tiếp tục nhận và xử lý các đơn công nhận nhà đầu tư mới hoặc chứng nhận công ty nhận đầu tư trên phương diện hành chính bất chấp thời hạn được đăng công báo hay không"
+  - "Danh sách hiện hành các hoạt động được Bộ trưởng phê duyệt — Public Ruling 12/2020 đưa ra chín lĩnh vực tăng trưởng cao và công nghệ cao tính đến năm 2020 và mô tả chúng là tình trạng tại thời điểm đó"
 
 lang: "vi"
 masterLanguage: "en"

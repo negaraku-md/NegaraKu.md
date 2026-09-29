@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0137
 title: "Nhà máy cần những giấy phép nào để hoạt động tại Malaysia"
-seoTitle: "Factory Operating Licences Malaysia: DOSH, CCC, BOMBA, DOE"
+seoTitle: "Giấy phép Vận hành Nhà máy tại Malaysia: DOSH, CCC, BOMBA, DOE"
 slug: "factory-operating-licences-malaysia"
 category: "business"
 subcategory: ["licensing"]

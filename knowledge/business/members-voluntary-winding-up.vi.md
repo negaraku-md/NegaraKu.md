@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0063
 title: "Giải thể tự nguyện theo quyết định của các thành viên đối với một công ty có khả năng thanh toán"
-seoTitle: "Members Voluntary Winding Up Malaysia"
+seoTitle: "Giải thể Tự nguyện theo Quyết định của Thành viên (Members Voluntary Winding Up) tại Malaysia"
 slug: "members-voluntary-winding-up"
 category: "business"
 subcategory: ["closing"]
@@ -36,9 +36,9 @@ faq:
     a: "Đáng kể. Xóa tên tốn RM100 phí SSM và không có người thanh lý. Một cuộc giải thể tự nguyện theo quyết định của các thành viên cần một người thanh lý được phê duyệt mà thù lao do công ty ấn định, cộng với các quảng cáo trên báo bằng hai ngôn ngữ ở cả giai đoạn nghị quyết và giai đoạn cuộc họp cuối cùng, cộng với các hồ sơ luật định của người thanh lý. Sự đánh đổi là nó là tuyến duy nhất có sẵn ở nơi công ty có tài sản, vốn hoặc các công ty con."
 
 verificationNeeded:
-  - "Liquidators' fee scales in a members' voluntary winding up are commercially negotiated and are not published by SSM — no cost range is stated here for that reason"
-  - "Whether the Companies (Winding Up) Rules prescribe additional forms or timelines beyond the Act was not examined and should be checked with the appointed liquidator"
-  - "The lodgement fees for winding-up documents are not itemised in the SSM figures confirmed for this article and should be read from the current Companies Regulations 2017 Schedule of Fees"
+  - "Biểu phí của người thanh lý trong một cuộc giải thể tự nguyện theo quyết định của thành viên được thương lượng thương mại và không được SSM công bố — vì lý do đó không nêu khoảng chi phí nào ở đây"
+  - "Liệu Companies (Winding Up) Rules có quy định thêm biểu mẫu hay mốc thời gian ngoài Đạo luật hay không thì chưa được xem xét và nên được kiểm tra với người thanh lý được chỉ định"
+  - "Phí nộp lưu cho các tài liệu giải thể không được liệt kê chi tiết trong các con số của SSM đã được xác nhận cho bài viết này và nên được tra từ Schedule of Fees của Companies Regulations 2017 hiện hành"
 
 obligations:
   - what: "Nộp nghị quyết đặc biệt về giải thể tự nguyện"

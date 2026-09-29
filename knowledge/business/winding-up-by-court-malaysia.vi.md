@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0120
 title: "Giải thể bắt buộc bởi tòa án: Đơn yêu cầu của chủ nợ tại Malaysia"
-seoTitle: "Winding Up by the Court Malaysia: Section 466 Creditor Petitions"
+seoTitle: "Giải thể bởi tòa án Malaysia: Đơn yêu cầu của chủ nợ theo Điều 466"
 slug: "winding-up-by-court-malaysia"
 category: "business"
 subcategory: ["insolvency"]
@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Neutral citation/pinpoint for the Fortuna case as adopted by Malaysian courts (Malaysian judgments cite both (1976) 2 ACLR 349 and [1978] VR 83)."
-  - "Confirm the full statutory list of petitioners under section 464 of the Companies Act 2016 against the current reprint, including whether regulator-specific petitioners (e.g. Bank Negara Malaysia, PIDM) should be mentioned."
-  - "Confirm Gazette Notification No. 4159/2021 remains the operative instrument and RM50,000 threshold has not been amended since publication."
+  - "Trích dẫn trung lập/điểm dẫn chính xác cho vụ Fortuna như được các tòa án Malaysia áp dụng (các bản án của Malaysia trích dẫn cả (1976) 2 ACLR 349 lẫn [1978] VR 83)."
+  - "Xác nhận danh sách đầy đủ theo luật định về những người có quyền nộp đơn yêu cầu theo điều 464 của Luật Công ty (Companies Act 2016) so với bản in lại hiện hành, bao gồm cả việc liệu có nên đề cập đến những người nộp đơn đặc thù của cơ quan quản lý (ví dụ Bank Negara Malaysia, PIDM) hay không."
+  - "Xác nhận Gazette Notification No. 4159/2021 vẫn là văn bản có hiệu lực và ngưỡng RM50,000 chưa được sửa đổi kể từ khi công bố."
 
 updated: 2026-08-07
 sources:

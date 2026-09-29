@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0054
 title: "Chi phí tiếp khách: 50 phần trăm hay 100 phần trăm?"
-seoTitle: "Entertainment Expenses Malaysia: 50% or 100% Rule"
+seoTitle: "Chi phí tiếp khách Malaysia: Quy tắc 50% hay 100%"
 slug: "entertainment-expenses"
 category: "taxation"
 subcategory: ["deductions-and-allowances"]

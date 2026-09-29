@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0005
 title: "Hóa đơn điện tử hợp nhất và các ngành không thể sử dụng chúng"
-seoTitle: "Consolidated e-Invoice Malaysia: Rules and Exclusions"
+seoTitle: "Hóa đơn điện tử hợp nhất Malaysia: Quy tắc và Trường hợp loại trừ"
 slug: "consolidated-e-invoice"
 category: "taxation"
 subcategory: ["e-invoicing"]
@@ -38,8 +38,8 @@ faq:
     a: "Không. Theo mục 3.6.10 và 4.3.5, LHDN chỉ thông báo cho nhà cung cấp, không có lộ trình từ chối của người mua, và hóa đơn điện tử hợp nhất đã được thẩm định là bằng chứng thu nhập của nhà cung cấp. Nó không được chia sẻ với người mua."
 
 verificationNeeded:
-  - "The activation date and scope for the luxury goods and jewellery category in Table 3.6 — LHDN states details will be released in due course and consolidation remains allowed until further notice"
-  - "Whether the casino and gaming-machine carve-out from the betting pay-out rule has an end date — LHDN states until further notice"
+  - "Ngày có hiệu lực và phạm vi áp dụng cho nhóm hàng xa xỉ và trang sức trong Table 3.6 — LHDN cho biết các chi tiết sẽ được công bố vào thời điểm thích hợp và việc hợp nhất vẫn được cho phép cho đến khi có thông báo mới"
+  - "Việc liệu ngoại lệ dành cho sòng bạc và máy trò chơi khỏi quy tắc chi trả tiền cá cược có thời hạn kết thúc hay không — LHDN cho biết cho đến khi có thông báo mới"
 
 lang: "vi"
 masterLanguage: "en"

@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0061
 title: "Mạng lưới hiệp định tránh đánh thuế hai lần của Malaysia — Mức thuế theo hiệp định theo từng quốc gia"
-seoTitle: "Malaysia DTA Rates — Dividends, Interest, Royalties"
+seoTitle: "Thuế suất DTA Malaysia — Cổ tức, Lãi vay, Tiền bản quyền"
 slug: "dta-network"
 category: "taxation"
 subcategory: ["international-tax"]
@@ -23,9 +23,9 @@ keyTakeaways:
 appliesTo: "Người trả tại Malaysia khấu trừ thuế trên các khoản thanh toán xuyên biên giới, và những người không cư trú yêu cầu ưu đãi theo hiệp định trên thu nhập có nguồn gốc Malaysia."
 
 verificationNeeded:
-  - "Several 'Effective from' dates precede the 'Treaty in force' date — Kuwait (effective 1 January 1988, in force 29 May 2007) and Sudan are the extreme cases. These reproduce LHDN's own published DTA table verbatim (confirmed against LHDN and PwC's Malaysian Tax Booklet); the anomaly is in the source, not a transcription error. Treat any single effective date as indicative and confirm it against the relevant gazette order before relying on it"
-  - "Footnote (iv) qualifying the Belgium interest rate as 15/10 and footnote (v) qualifying the technical fee column were not retrievable as text from the LHDN rate page — read them on the page itself before relying on either column for those cases"
-  - "Rates are the general treaty ceilings published by LHDN, not article-by-article rates. Several treaties reduce interest to nil for payments to a government, central bank or approved institution; check the relevant article before applying the table rate"
+  - "Một số ngày 'Effective from' đứng trước ngày 'Treaty in force' — Kuwait (có hiệu lực 1 January 1988, có hiệu lực điều ước 29 May 2007) và Sudan là các trường hợp cực đoan. Các dữ liệu này tái hiện nguyên văn bảng DTA do chính LHDN công bố (đã đối chiếu với LHDN và PwC's Malaysian Tax Booklet); điểm bất thường nằm ở nguồn, không phải lỗi sao chép. Hãy coi mỗi ngày hiệu lực đơn lẻ là mang tính tham khảo và đối chiếu với lệnh công báo liên quan trước khi dựa vào nó"
+  - "Chú thích (iv) xác định thuế suất lãi vay của Belgium là 15/10 và chú thích (v) xác định cột phí kỹ thuật không thể truy xuất dưới dạng văn bản từ trang thuế suất của LHDN — hãy đọc chúng trực tiếp trên trang trước khi dựa vào bất kỳ cột nào cho các trường hợp đó"
+  - "Các thuế suất là mức trần chung của điều ước do LHDN công bố, không phải thuế suất theo từng điều khoản. Một số điều ước giảm thuế lãi vay xuống 0 đối với các khoản thanh toán cho chính phủ, ngân hàng trung ương hoặc tổ chức được phê duyệt; hãy kiểm tra điều khoản liên quan trước khi áp dụng thuế suất trong bảng"
 
 lang: "vi"
 masterLanguage: "en"

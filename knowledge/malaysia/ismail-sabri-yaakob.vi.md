@@ -27,9 +27,9 @@ faq:
     a: "Một Biên bản Ghi nhớ về 'Chuyển đổi và Ổn định Chính trị', ký vào tháng 9 năm 2021 giữa chính phủ của ông và phe đối lập Pakatan Harapan, được ghi nhận là đã giúp thông qua các cải cách như luật chống nhảy đảng và hạ độ tuổi bỏ phiếu xuống 18."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal review before publication. This biography refers to a Malaysian Anti-Corruption Commission (MACC) investigation and a charge relating to an asset-declaration notice (legal proceedings). These are stated only as public record and neutrally; there is no conviction and the matter is before the courts."
-  - "CRITICAL / TIME-SENSITIVE: as of the drafting date (August 2026) a court appearance was scheduled but its outcome was unconfirmed. The status — whether any charge was read, the plea, or any postponement — MUST be re-verified against current court reporting before publication, and nothing beyond what sources confirm should be stated."
-  - "Exact dates (premiership start/end, DPM appointment) to be confirmed against the Prime Minister's Office and official records."
+  - "NHẠY CẢM / cần con người + xem xét pháp lý trước khi công bố. Tiểu sử này đề cập đến một cuộc điều tra của Ủy ban Chống Tham nhũng Malaysia (Malaysian Anti-Corruption Commission, MACC) và một cáo buộc liên quan đến một thông báo kê khai tài sản (legal proceedings). Những điều này chỉ được nêu như hồ sơ công khai và một cách trung lập; không có bản kết án nào và vụ việc đang được các tòa án thụ lý."
+  - "TỐI QUAN TRỌNG / NHẠY CẢM VỀ THỜI GIAN: tính đến ngày soạn thảo (tháng 8 năm 2026) một phiên ra tòa đã được ấn định nhưng kết quả của nó chưa được xác nhận. Tình trạng — liệu có cáo buộc nào được đọc lên hay không, lời khai nhận tội, hay bất kỳ sự hoãn lại nào — PHẢI được xác minh lại so với tường thuật tòa án hiện thời trước khi công bố, và không được nêu bất kỳ điều gì vượt quá những gì các nguồn xác nhận."
+  - "Các ngày chính xác (thời điểm bắt đầu/kết thúc nhiệm kỳ thủ tướng, việc bổ nhiệm Phó Thủ tướng) cần được xác nhận so với Văn phòng Thủ tướng (Prime Minister's Office) và hồ sơ chính thức."
 
 lang: "vi"
 masterLanguage: "en"

@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0055
 title: "Chấp nhận thanh toán tại Malaysia: Khi nào bạn cần sự phê duyệt của Ngân hàng Trung ương Malaysia"
-seoTitle: "Payment Regulation Malaysia: When BNM Approval Applies"
+seoTitle: "Quy định thanh toán Malaysia: Khi nào cần phê duyệt của BNM"
 slug: "payment-regulation-malaysia"
 category: "business"
 subcategory: ["banking-finance"]
@@ -24,9 +24,9 @@ keyTakeaways:
 appliesTo: "Những người sáng lập xây dựng ví, các sản phẩm lưu trữ giá trị, các chương trình khách hàng thân thiết và tưởng thưởng, các sàn giao dịch nắm giữ tiền, và bất kỳ ai được nói rằng họ cần một giấy phép thanh toán."
 
 verificationNeeded:
-  - "Whether a specific marketplace or escrow-style flow amounts to operating a payment system under Schedule 1 turns on the facts; BNM publishes no general perimeter guidance and the position should be confirmed with the Bank"
-  - "Remittance and cross-border money transfer sit under the Money Services Business Act 2011, a separate licensing regime not covered here"
-  - "BNM's own Gazette Order page for payment systems does not list P.U.(A) 468/2024, which amends the registered business requirements — treat that index as incomplete and check the AGC gazette portal"
+  - "Việc một luồng marketplace hoặc kiểu ký quỹ (escrow) cụ thể có cấu thành việc vận hành một hệ thống thanh toán theo Schedule 1 hay không phụ thuộc vào các tình tiết thực tế; BNM không công bố hướng dẫn chung về ranh giới quản lý và vị thế này nên được xác nhận với Ngân hàng"
+  - "Chuyển tiền và chuyển tiền xuyên biên giới thuộc phạm vi Money Services Business Act 2011, một chế độ cấp phép riêng không được đề cập ở đây"
+  - "Trang Gazette Order của chính BNM về các hệ thống thanh toán không liệt kê P.U.(A) 468/2024, vốn sửa đổi các yêu cầu về doanh nghiệp được đăng ký — hãy coi chỉ mục đó là chưa đầy đủ và kiểm tra cổng công báo của AGC"
 
 lang: "vi"
 masterLanguage: "en"

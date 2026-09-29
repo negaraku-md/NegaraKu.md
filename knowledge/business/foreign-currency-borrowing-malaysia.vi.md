@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0047
 title: "Vay bằng ngoại tệ: một công ty Malaysia được phép làm gì"
-seoTitle: "Foreign Currency Borrowing Malaysia: BNM Limits"
+seoTitle: "Vay ngoại tệ tại Malaysia: Giới hạn của BNM"
 slug: "foreign-currency-borrowing-malaysia"
 category: "business"
 subcategory: ["banking-finance"]
@@ -24,8 +24,8 @@ keyTakeaways:
 appliesTo: "Các công ty Malaysia huy động nợ ở nước ngoài, nhận các khoản vay của cổ đông từ một công ty mẹ nước ngoài, hoặc lập kế hoạch tài trợ ngân quỹ nội bộ tập đoàn."
 
 verificationNeeded:
-  - "Bank Negara publishes a separate FAQ on resident ringgit and foreign currency borrowing which elaborates on the group test and on permitted source and receipt accounts — check the current FAQ before structuring a facility"
-  - "Where a proposed facility exceeds the RM100 million equivalent limit, the written approval process and its assessment criteria are not published in full; the FAQ notes only that BNM will take stated factors into account"
+  - "Bank Negara công bố một FAQ riêng về việc người cư trú vay bằng ringgit và ngoại tệ, trong đó trình bày chi tiết về phép kiểm tra theo tập đoàn (group test) cùng các tài khoản nguồn và tài khoản nhận được phép — hãy kiểm tra FAQ hiện hành trước khi cấu trúc một khoản vay"
+  - "Khi một khoản vay đề xuất vượt quá giới hạn tương đương RM100 triệu, quy trình phê duyệt bằng văn bản và các tiêu chí đánh giá không được công bố đầy đủ; FAQ chỉ lưu ý rằng BNM sẽ cân nhắc các yếu tố đã nêu"
 
 lang: "vi"
 masterLanguage: "en"

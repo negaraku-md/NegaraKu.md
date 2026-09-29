@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0124
 title: "Malaysia đánh thuế tiền mã hóa và tài sản kỹ thuật số như thế nào"
-seoTitle: "Cryptocurrency and Digital Asset Tax in Malaysia"
+seoTitle: "Thuế tiền mã hóa và tài sản kỹ thuật số tại Malaysia"
 slug: "cryptocurrency-and-digital-asset-tax"
 category: "taxation"
 subcategory: ["digital-assets"]
@@ -40,10 +40,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Exact section of the Income Tax Act 1967 under which crypto income is charged: the charging provision is s.3, while the Ministry of Finance's Aug 2025 statement refers to crypto income being taxed as business income under s.4 — confirm the precise citation for the article's framing."
-  - "Whether the August 2025 Ministry of Finance statement changes the law or merely clarifies that existing service tax already applies to crypto trading-platform services, and the applicable service-tax rate and registration threshold."
-  - "The current e-Invoice (MyInvois) phase, deadline and turnover threshold applicable to a specific crypto business — thresholds and dates are being revised (RM1 million exemption per latest IRBM guidance)."
-  - "FIFO cost-basis tracking and the treatment of airdrops and hard-fork tokens as stated here are drawn from professional summaries of the LHDN guidelines; confirm against the current guideline text before relying on them."
+  - "Điều khoản chính xác của Income Tax Act 1967 mà theo đó thu nhập từ tiền mã hóa bị đánh thuế: điều khoản đánh thuế là s.3, trong khi tuyên bố tháng 8 năm 2025 của Bộ Tài chính (Ministry of Finance) đề cập đến việc thu nhập từ tiền mã hóa bị đánh thuế như thu nhập kinh doanh theo s.4 — hãy xác nhận trích dẫn chính xác cho cách trình bày của bài viết."
+  - "Liệu tuyên bố tháng 8 năm 2025 của Bộ Tài chính (Ministry of Finance) thay đổi luật hay chỉ làm rõ rằng thuế dịch vụ hiện hành vốn đã áp dụng cho các dịch vụ nền tảng giao dịch tiền mã hóa, cùng mức thuế dịch vụ và ngưỡng đăng ký áp dụng."
+  - "Giai đoạn hóa đơn điện tử (MyInvois) hiện hành, thời hạn và ngưỡng doanh thu áp dụng cho một doanh nghiệp tiền mã hóa cụ thể — các ngưỡng và mốc thời gian đang được điều chỉnh (miễn trừ RM1 triệu theo hướng dẫn mới nhất của IRBM)."
+  - "Việc theo dõi giá gốc theo phương pháp FIFO và cách xử lý airdrop cùng token hard-fork như nêu tại đây được rút ra từ các bản tóm tắt chuyên môn về hướng dẫn của LHDN; hãy đối chiếu với nội dung hướng dẫn hiện hành trước khi dựa vào chúng."
 revisions:
   - revision: 0
     date: 2026-08-07

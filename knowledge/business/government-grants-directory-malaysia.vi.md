@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0124
 title: "Trợ cấp và tài trợ của chính phủ cho doanh nghiệp Malaysia: Một danh mục"
-seoTitle: "Malaysia Government Grants Directory: SME & Startup Funding by Agency"
+seoTitle: "Danh bạ Trợ cấp Chính phủ Malaysia: Tài trợ cho SME & Startup theo Cơ quan"
 slug: "government-grants-directory-malaysia"
 category: "business"
 subcategory: ["financing"]
@@ -48,9 +48,9 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Cradle CIP Spark (up to RM150,000) and CIP Sprint (up to RM600,000) figures and eligibility were confirmed from cradle.com.my; MDEC MDCG (up to 50%/RM1 million ceiling) and MDAG (closed, deadline 28 July 2023) from mdec.my. Re-confirm all at publish time as programme cohorts open and close."
-  - "Several figures are secondary/SERP-only and must be re-verified against the official agency page before publishing as fact: SME Corp BAP 3.0 (50% up to RM400,000; official page returned 403); MSME Digital Grant MADANI (50%/RM5,000); MATRADE Market Development Grant lifetime cap (RM300,000 vs RM200,000 conflict); MTDC CRDF amounts (RM500,000 / RM4 million, 70%); MIDA DISF (only a 2018 guideline located); HRD Corp levy rate (1% / 0.5%). The MDEC MDCG minimum paid-up capital showed a RM50,000 vs RM500,000 discrepancy across sources — read the MDCG page carefully."
-  - "This is a fast-decaying topic: grant amounts, paid-up-capital minimums and open/closed windows change at least annually, usually with the October Budget. Every figure should carry a 'verified as of' stamp and any programme whose official page cannot be loaded fresh should be labelled status-unconfirmed."
+  - "Các con số và điều kiện đủ tư cách của Cradle CIP Spark (tối đa RM150,000) và CIP Sprint (tối đa RM600,000) được xác nhận từ cradle.com.my; MDEC MDCG (tối đa 50%/trần RM1 triệu) và MDAG (đã đóng, hạn chót 28 tháng 7 năm 2023) từ mdec.my. Hãy xác nhận lại tất cả vào thời điểm công bố khi các đợt chương trình mở và đóng."
+  - "Một số con số chỉ mang tính thứ cấp/chỉ từ SERP và phải được xác minh lại với trang chính thức của cơ quan trước khi công bố như một sự thật: SME Corp BAP 3.0 (50% tối đa RM400,000; trang chính thức trả về 403); MSME Digital Grant MADANI (50%/RM5,000); trần trọn đời của MATRADE Market Development Grant (xung đột RM300,000 với RM200,000); các mức MTDC CRDF (RM500,000 / RM4 triệu, 70%); MIDA DISF (chỉ tìm thấy một hướng dẫn năm 2018); mức thu HRD Corp (1% / 0.5%). Vốn góp tối thiểu của MDEC MDCG cho thấy sự chênh lệch RM50,000 với RM500,000 giữa các nguồn — hãy đọc kỹ trang MDCG."
+  - "Đây là một chủ đề mau lỗi thời: số tiền trợ cấp, mức vốn góp tối thiểu và các đợt mở/đóng thay đổi ít nhất hằng năm, thường theo Ngân sách tháng 10. Mỗi con số nên kèm dấu 'verified as of' và bất kỳ chương trình nào có trang chính thức không thể tải mới đều nên được gắn nhãn status-unconfirmed."
 
 updated: 2026-09-07
 sources:

@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0127
 title: "Thuế tiêu thụ đặc biệt tại Malaysia: Ô tô, rượu, thuốc lá và đồ uống có đường"
-seoTitle: "Duti Eksais Malaysia: Kadar Kereta, Rokok, Alkohol & Minuman Bergula"
+seoTitle: "Thuế tiêu thụ đặc biệt Malaysia: Mức thuế Ô tô, Thuốc lá, Rượu & Đồ uống có đường"
 slug: "excise-duty"
 category: "taxation"
 subcategory: ["excise"]

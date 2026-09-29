@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0126
 title: "Phí xuất cảnh: Thuế xuất cảnh cho các chuyến bay từ Malaysia"
-seoTitle: "Levi Pelepasan Malaysia: Kadar, Siapa Bayar, Pengecualian"
+seoTitle: "Phí khởi hành Malaysia: Mức thu, Đối tượng nộp, Miễn trừ"
 slug: "departure-levy"
 category: "taxation"
 subcategory: ["levi"]
@@ -39,9 +39,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Sahkan kadar dan pengecualian masih terpakai pada 2026 — Panduan RMCD bertarikh 20 Ogos 2019; pastikan tiada pindaan kepada Akta Levi Pelepasan 2019 atau perintah-perintahnya sejak itu."
-  - "Sahkan bahawa pengecualian pengangkutan darat dan laut (peringkat pelaksanaan awal, di bawah kuasa Menteri Kewangan) masih berkuat kuasa pada 2026."
-  - "Sahkan prosedur tepat pendaftaran ejen dalam talian bagi pengendali asing yang tiada tempat perniagaan di Malaysia, serta pasangan borang DL-01 (pendaftaran) dan DL-02 (penyata pemungutan)."
+  - "Xác nhận mức thu và các trường hợp miễn trừ vẫn còn áp dụng vào năm 2026 — Hướng dẫn của RMCD đề ngày 20 tháng 8 năm 2019; hãy bảo đảm không có sửa đổi nào đối với Departure Levy Act 2019 hoặc các lệnh kèm theo kể từ đó."
+  - "Xác nhận rằng việc miễn trừ đối với vận tải đường bộ và đường biển (giai đoạn triển khai ban đầu, theo thẩm quyền của Bộ trưởng Tài chính) vẫn còn hiệu lực vào năm 2026."
+  - "Xác nhận quy trình chính xác đăng ký đại lý trực tuyến đối với các đơn vị vận hành nước ngoài không có địa điểm kinh doanh tại Malaysia, cùng cặp mẫu DL-01 (đăng ký) và DL-02 (tờ khai thu nộp)."
 revisions:
   - revision: 0
     date: 2026-08-07

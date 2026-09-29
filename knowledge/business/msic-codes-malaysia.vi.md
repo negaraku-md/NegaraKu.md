@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0011
 title: "Mã MSIC: Cách chọn mã của bạn, và nó quyết định gì về sau"
-seoTitle: "MSIC Code Malaysia: How to Choose Yours"
+seoTitle: "Mã MSIC tại Malaysia: Cách chọn mã phù hợp"
 slug: "msic-codes-malaysia"
 category: "business"
 subcategory: ["formation"]
@@ -33,9 +33,9 @@ faq:
     a: "Cục Thống kê Malaysia duy trì MSIC 2008 và công bố cả một hệ thống có thể tra cứu tại msic.stats.gov.my và bộ dữ liệu thông qua OpenDOSM. SSM công bố các danh sách mã MSIC riêng của mình cho việc đăng ký ROB và ROC."
 
 verificationNeeded:
-  - "Confirm how many MSIC codes SSM currently permits at incorporation and on a change of activity — the commonly quoted figure of three is practitioner guidance, not an SSM publication we have verified"
-  - "Confirm whether SSM currently uses MSIC 2008 version 1.0 or a later revision for ROC registration; the DOSM system publishes version 1.0"
-  - "Bank risk classification by MSIC is institution-specific and not published — treat the effect described here as a pattern, not a rule"
+  - "Xác nhận SSM hiện cho phép bao nhiêu mã MSIC khi thành lập và khi thay đổi hoạt động — con số ba thường được trích dẫn là hướng dẫn của người hành nghề, không phải một ấn phẩm của SSM mà chúng tôi đã xác minh"
+  - "Xác nhận liệu SSM hiện dùng MSIC 2008 version 1.0 hay một bản sửa đổi sau đó cho việc đăng ký ROC; hệ thống DOSM công bố version 1.0"
+  - "Việc phân loại rủi ro theo MSIC của ngân hàng là đặc thù theo từng tổ chức và không được công bố — hãy coi tác động được mô tả ở đây là một khuôn mẫu, không phải một quy tắc"
 
 lang: "vi"
 masterLanguage: "en"

@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0002
 title: "Sdn Bhd là gì? Một hướng dẫn bằng ngôn ngữ dễ hiểu"
-seoTitle: "What Is a Sdn Bhd in Malaysia?"
+seoTitle: "Sdn Bhd tại Malaysia là gì?"
 slug: "what-is-sdn-bhd"
 category: "business"
 subcategory: ["formation"]

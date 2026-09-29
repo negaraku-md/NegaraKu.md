@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0123
 title: "Thuế carbon sắp tới của Malaysia đối với sắt, thép và năng lượng"
-seoTitle: "Malaysia Carbon Tax: Rate, Sectors and Timeline"
+seoTitle: "Thuế carbon Malaysia: Mức thuế, Lĩnh vực và Lộ trình"
 slug: "carbon-tax-malaysia"
 category: "taxation"
 subcategory: ["carbon"]
@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "No official carbon tax rate has been gazetted as of this pass. The RM35-45 (US$8-11)/tonne figure is media/advisory-reported and unconfirmed; other, lower estimates have circulated in later reporting. A human should confirm the actual rate once published."
-  - "Sensitivity is set to 'none', but this is a politically-charged fiscal and climate policy topic. A human editor should confirm whether that classification is appropriate."
-  - "Current parliamentary status and expected tabling window of the Climate Change Bill (RUU PIN)."
-  - "Whether the 'by 2026' start date still holds given official signals that implementation may be reviewed."
+  - "Chưa có mức thuế carbon chính thức nào được công báo tính đến lần rà soát này. Con số RM35-45 (US$8-11)/tấn là do truyền thông/đơn vị tư vấn đưa tin và chưa được xác nhận; các ước tính khác, thấp hơn, đã lan truyền trong các bản tin sau đó. Cần có người xác nhận mức thuế thực tế khi được công bố."
+  - "Độ nhạy cảm được đặt là 'none', nhưng đây là một chủ đề chính sách tài khóa và khí hậu mang tính chính trị. Một biên tập viên là người cần xác nhận liệu phân loại đó có phù hợp hay không."
+  - "Tình trạng hiện tại tại nghị viện và thời điểm dự kiến trình Climate Change Bill (RUU PIN)."
+  - "Liệu mốc khởi động 'by 2026' có còn hiệu lực hay không, xét đến các tín hiệu chính thức rằng việc triển khai có thể được xem xét lại."
 
 updated: 2026-08-07
 sources:

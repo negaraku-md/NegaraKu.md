@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0057
 title: "Những doanh nghiệp nào phải đăng ký theo PDPA?"
-seoTitle: "PDPA Registration Classes Malaysia: All 13 Listed"
+seoTitle: "Các loại đăng ký PDPA tại Malaysia: Đầy đủ 13 loại"
 slug: "pdpa-registration-classes"
 category: "business"
 subcategory: ["digital-compliance"]
@@ -24,9 +24,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ người kiểm soát dữ liệu Malaysia nào kiểm tra liệu mình có phải nắm giữ một giấy chứng nhận đăng ký từ Ủy viên Bảo vệ Dữ liệu Cá nhân hay không."
 
 verificationNeeded:
-  - "Whether JPDP reads class 9(b) as conjunctive, requiring both retail and wholesale dealing, or as covering either — no published interpretation exists"
-  - "Whether the references to the Companies Act 1965 in classes 9(a), 9(b) and 9(c) are read as references to the Companies Act 2016 by operation of the Interpretation Acts — the order has never been amended"
-  - "Whether an online retailer selling only non-controlled articles falls within the Control of Supplies Act 1961 definitions of retail and wholesale dealing"
+  - "Liệu JPDP có diễn giải loại 9(b) theo nghĩa liên kết, đòi hỏi cả buôn bán lẻ lẫn buôn bán buôn, hay theo nghĩa bao gồm một trong hai — không tồn tại diễn giải chính thức nào được công bố"
+  - "Liệu các dẫn chiếu đến Companies Act 1965 trong các loại 9(a), 9(b) và 9(c) có được hiểu là dẫn chiếu đến Companies Act 2016 theo hiệu lực của Interpretation Acts hay không — lệnh này chưa bao giờ được sửa đổi"
+  - "Liệu một nhà bán lẻ trực tuyến chỉ bán các mặt hàng không bị kiểm soát có thuộc các định nghĩa về buôn bán lẻ và buôn bán buôn trong Control of Supplies Act 1961 hay không"
 
 obligations:
   - what: "Nộp đơn xin gia hạn giấy chứng nhận đăng ký"

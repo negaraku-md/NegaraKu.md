@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0021
 title: "Công ty hợp danh tại Malaysia: Cấu trúc mà hầu hết mọi người nên tránh"
-seoTitle: "Partnership Malaysia: Liability Under the Partnership Act"
+seoTitle: "Công ty hợp danh Malaysia: Trách nhiệm pháp lý theo Partnership Act"
 slug: "partnership-malaysia"
 category: "business"
 subcategory: ["choosing-a-structure"]
@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai sắp đăng ký một công ty hợp danh với SSM, và các thành viên hiện hữu chưa bao giờ đọc thỏa thuận công ty hợp danh của mình."
 
 verificationNeeded:
-  - "Confirm the current ROB registration position for partnerships in Sabah and Sarawak, which register under state ordinances rather than the Registration of Businesses Act 1956"
+  - "Xác nhận vị thế đăng ký ROB hiện hành đối với các công ty hợp danh tại Sabah và Sarawak, vốn đăng ký theo các pháp lệnh của bang thay vì Registration of Businesses Act 1956"
 
 lang: "vi"
 masterLanguage: "en"

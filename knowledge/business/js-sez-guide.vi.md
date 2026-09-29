@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0051
 title: "Đặc khu Kinh tế Johor-Singapore — Ưu đãi, điều kiện và các khoản thu hồi"
-seoTitle: "JS-SEZ Tax Incentives Malaysia Explained"
+seoTitle: "Giải thích Ưu đãi Thuế JS-SEZ tại Malaysia"
 socialTitle: "Mức 5 phần trăm của JS-SEZ là thật. Nó cũng có điều kiện, hằng năm, và chưa được công bố trong công báo."
 slug: "js-sez-guide"
 category: "business"
@@ -39,7 +39,7 @@ faq:
     a: "Chưa, tính đến tháng 7 năm 2026. Một tìm kiếm trong công báo liên bang của AGC không trả về P.U.(A) nào có tiêu đề đề cập đến Đặc khu Kinh tế Johor-Singapore. Chính hướng dẫn của MIDA mô tả cơ chế ở thì tương lai — ưu đãi sẽ được cung cấp thông qua luật thứ cấp theo mục 65B của Luật Thuế thu nhập năm 1967 (Income Tax Act 1967). Trái ngược với Forest City, nơi mười một văn bản được công bố trong công báo vào ngày 3 tháng 10 năm 2025."
 
 verificationNeeded:
-  - "The administering agency and application route for the JS-SEZ knowledge worker incentive is not stated in the MIDA guideline — Appendix B of the snapshot lists it under other incentives without naming a route. Confirm with MIDA or IRDA before advising."
+  - "Cơ quan quản lý và tuyến nộp hồ sơ cho ưu đãi lao động tri thức (knowledge worker) của JS-SEZ không được nêu trong hướng dẫn của MIDA — Appendix B của bản tóm lược liệt kê nó trong mục các ưu đãi khác mà không nêu tên tuyến nộp. Hãy xác nhận với MIDA hoặc IRDA trước khi tư vấn."
 
 lang: "vi"
 masterLanguage: "en"

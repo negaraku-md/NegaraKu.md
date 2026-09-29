@@ -27,9 +27,9 @@ faq:
     a: "Ông được biết đến rộng rãi là Muhyiddin Yassin; tên được ghi trên thẻ căn cước của ông là Mahiaddin bin Md Yassin."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal review before publication. This biography refers to corruption and money-laundering charges (legal proceedings). These are stated only as public record, neutrally and without detail, and the status of the charges changed over 2023–2025 (an acquittal that was later reversed on appeal); the current status must be re-checked against primary court records and reviewed by a qualified reviewer before publication."
-  - "It also touches the February 2020 change of government and the King's appointment discretion (constitution/royalty). All characterisations are neutral and must be reviewed."
-  - "Exact dates (premiership, resignation, emergency period) to be confirmed against the Prime Minister's Office and official records."
+  - "NHẠY CẢM / cần con người + xem xét pháp lý trước khi công bố. Tiểu sử này đề cập đến các cáo buộc tham nhũng và rửa tiền (legal proceedings). Những điều này chỉ được nêu như hồ sơ công khai, một cách trung lập và không đi vào chi tiết, và tình trạng của các cáo buộc đã thay đổi trong giai đoạn 2023–2025 (một phán quyết tha bổng về sau bị đảo ngược khi kháng cáo); tình trạng hiện thời phải được kiểm tra lại so với các hồ sơ tòa án sơ cấp và được một người phê duyệt đủ trình độ xem xét trước khi công bố."
+  - "Nó cũng chạm đến sự thay đổi chính phủ tháng 2 năm 2020 và quyền tùy nghi bổ nhiệm của Nhà Vua (constitution/royalty). Tất cả các cách đặc trưng hóa đều trung lập và phải được xem xét."
+  - "Các ngày chính xác (nhiệm kỳ thủ tướng, việc từ chức, thời kỳ khẩn cấp) cần được xác nhận so với Văn phòng Thủ tướng (Prime Minister's Office) và hồ sơ chính thức."
 
 lang: "vi"
 masterLanguage: "en"

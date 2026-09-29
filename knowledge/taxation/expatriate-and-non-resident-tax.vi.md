@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0059
 title: "Thuế cho chuyên gia nước ngoài và người không cư trú: mức cố định 30% và các lối thoát"
-seoTitle: "Expatriate Tax Malaysia: Non-Resident Rates"
+seoTitle: "Thuế đối với người nước ngoài tại Malaysia: Thuế suất cho người không cư trú"
 slug: "expatriate-and-non-resident-tax"
 category: "taxation"
 subcategory: ["personal-tax"]
@@ -36,9 +36,9 @@ faq:
     a: "15% trên thu nhập chịu thuế, theo Schedule 1 Part XIV, đối với một cá nhân là lao động tri thức cư trú trong một khu vực được chỉ định và thực hiện công việc với một người thực hiện một hoạt động đủ điều kiện tại đó. Các định nghĩa về lao động tri thức, hoạt động đủ điều kiện và khu vực được chỉ định được đặt ra bởi các quy tắc của Bộ trưởng. Các cá nhân được phê duyệt theo Chương trình Chuyên gia Hồi hương được cùng mức 15% theo Part XV."
 
 verificationNeeded:
-  - "The Ministerial rules defining knowledge worker, qualified activity and specified region under Schedule 1 Part XIV were not retrieved — the widely quoted Iskandar Malaysia designation and the P.U.(A) instrument number should be confirmed against the gazette before publication"
-  - "The number of years of assessment for which the Returning Expert Programme 15% rate runs is set by Ministerial rules and was not verified; Schedule 1 Part XV refers only to a specified year of assessment"
-  - "Schedule 1 Part XVIII caps the rate for a resident non-citizen in a key position under an approved incentive scheme at not more than 20% — the applicable rate is prescribed scheme by scheme and was not verified"
+  - "Các quy tắc do Bộ trưởng ban hành xác định lao động tri thức (knowledge worker), hoạt động đủ điều kiện và khu vực được chỉ định theo Schedule 1 Part XIV chưa được truy xuất — việc chỉ định Iskandar Malaysia được trích dẫn rộng rãi và số hiệu văn bản P.U.(A) cần được xác nhận với công báo trước khi xuất bản"
+  - "Số năm tính thuế mà mức thuế suất 15% của Returning Expert Programme áp dụng được ấn định bởi các quy tắc do Bộ trưởng ban hành và chưa được kiểm chứng; Schedule 1 Part XV chỉ đề cập đến một năm tính thuế được chỉ định"
+  - "Schedule 1 Part XVIII giới hạn thuế suất đối với người không phải công dân nhưng cư trú giữ vị trí then chốt theo một chương trình ưu đãi được phê duyệt ở mức không quá 20% — thuế suất áp dụng được quy định theo từng chương trình và chưa được kiểm chứng"
 
 lang: "vi"
 masterLanguage: "en"

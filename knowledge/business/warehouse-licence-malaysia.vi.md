@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0138
 title: "Cách xin giấy phép kho hàng tại Malaysia"
-seoTitle: "Warehouse Licence Malaysia: General Premise vs Bonded Warehouse & LMW"
+seoTitle: "Giấy phép kho hàng Malaysia: Cơ sở thông thường so với kho ngoại quan & LMW"
 slug: "warehouse-licence-malaysia"
 category: "business"
 subcategory: ["licensing"]

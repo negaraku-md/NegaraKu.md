@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Pelabelan subseksyen bagi hukuman pindaan Seksyen 233 (subseksyen mana yang membawa denda RM500,000 / penjara 2 tahun bagi penyalahgunaan am, dan subseksyen mana yang membawa hukuman kesalahan melibatkan kanak-kanak RM500,000 / penjara 5 tahun) — semak terhadap teks Akta Komunikasi dan Multimedia (Pindaan) yang telah diwartakan."
-  - "Angka hukuman kesalahan melibatkan kanak-kanak (RM500,000 / 5 tahun) — sahkan terhadap teks pindaan yang diwartakan."
-  - "Status dan tarikh permulaan kuat kuasa Pindaan 2024 — Rang Undang-Undang diluluskan kedua-dua Dewan pada Disember 2024 tetapi mula berkuat kuasa pada tarikh yang ditetapkan Menteri melalui warta; sahkan sama ada dan bila ia telah berkuat kuasa."
-  - "Ambang 'lapan juta pengguna' dan tarikh kuat kuasa 1 Januari 2025 bagi lesen kelas media sosial — sahkan terhadap arahan/perintah rasmi SKMM."
+  - "Cách gán nhãn tiểu mục cho hình phạt sửa đổi của Mục 233 (tiểu mục nào mang mức phạt RM500,000 / phạt tù 2 năm cho hành vi lạm dụng chung, và tiểu mục nào mang hình phạt cho tội liên quan đến trẻ em RM500,000 / phạt tù 5 năm) — hãy đối chiếu với văn bản Đạo luật Truyền thông và Đa phương tiện (Sửa đổi) đã được đăng công báo."
+  - "Con số hình phạt cho tội liên quan đến trẻ em (RM500,000 / 5 năm) — hãy xác nhận đối chiếu với văn bản sửa đổi đã được đăng công báo."
+  - "Tình trạng và ngày bắt đầu có hiệu lực của Bản sửa đổi năm 2024 — Dự luật đã được cả hai Viện thông qua vào tháng 12 năm 2024 nhưng bắt đầu có hiệu lực vào ngày do Bộ trưởng ấn định thông qua công báo; hãy xác nhận liệu nó đã có hiệu lực hay chưa và khi nào."
+  - "Ngưỡng 'tám triệu người dùng' và ngày có hiệu lực 1 tháng 1 năm 2025 cho giấy phép loại đối với mạng xã hội — hãy xác nhận đối chiếu với chỉ thị/lệnh chính thức của SKMM."
 updated: 2026-08-07
 sources:
   - title: "Luật Malaysia Đạo luật 588 — Communications and Multimedia Act 1998 (văn bản chính thức) (Laws of Malaysia Act 588 — Communications and Multimedia Act 1998 (official text))"

@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0041
 title: "Giấy phép cho một nhà hàng hoặc quán cà phê tại Malaysia"
-seoTitle: "Restaurant Licence Malaysia: The Full Stack"
+seoTitle: "Giấy phép Nhà hàng tại Malaysia: Trọn bộ giấy phép"
 slug: "fnb-licence-malaysia"
 category: "business"
 subcategory: ["licensing"]
@@ -41,7 +41,7 @@ faq:
     a: "Không phải Hải quan. Theo mục s.31 của Luật Thuế tiêu thụ đặc biệt năm 1976 (Excise Act 1976, Act 176), Bộ trưởng thành lập các Hội đồng Cấp phép (Licensing Boards), và s.35(1) trao cho Hội đồng của một khu vực thẩm quyền theo quyết định của mình để cấp hoặc chuyển nhượng giấy phép. Mục s.35(1) đặt ra bốn loại — một giấy phép quán nhậu (public house licence) và một giấy phép quán bia (beer house licence) để tiêu thụ tại mặt bằng, một giấy phép cửa hàng bán lẻ (retail shop licence) để tiêu thụ ngoài mặt bằng, và một giấy phép đại lý bán buôn (wholesale dealer's licence). Mục s.35(3) cho phép Hội đồng từ chối, đình chỉ hoặc hủy bỏ mà không cần nêu bất kỳ lý do nào và không bồi thường, đó là lý do vì sao kết quả khác nhau rõ rệt giữa các khu vực."
 
 verificationNeeded:
-  - "Any published liquor licensing policy for individual states such as Kelantan or Terengganu — none was confirmed, and variation appears to flow from Licensing Board discretion rather than published policy"
+  - "Bất kỳ chính sách cấp phép rượu được công bố nào cho từng bang như Kelantan hay Terengganu — không có chính sách nào được xác nhận, và sự khác biệt dường như xuất phát từ quyền quyết định của Licensing Board hơn là từ chính sách được công bố"
 
 lang: "vi"
 masterLanguage: "en"

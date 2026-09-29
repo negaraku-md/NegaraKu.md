@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0044
 title: "Các mẫu thuế khấu trừ tại nguồn CP37 — Mẫu nào, và khi nào"
-seoTitle: "CP37 Forms Malaysia — Withholding Tax Form Directory"
+seoTitle: "Mẫu CP37 Malaysia — Danh mục mẫu thuế khấu trừ tại nguồn"
 slug: "cp37-forms"
 category: "taxation"
 subcategory: ["withholding-tax"]
@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "Người trả tại Malaysia nộp thuế khấu trừ tại nguồn cho LHDN và các nhân viên tài chính chuẩn bị các mẫu."
 
 verificationNeeded:
-  - "LHDN's Withholding Tax page states that payment forms and supporting documents need not be submitted and should be retained, while Public Ruling 10/2019 para 13.1 requires CP37D to be completed and submitted with invoice copies and remittance evidence, and para 18.1(a) requires a certificate of residence to be submitted with CP37D. The two have not been reconciled in any document retrieved — confirm current practice with the Revenue Management Centre before relying on either"
-  - "Form CP107D and its appendix CP107D(1) for the s.107D 2 per cent deduction, and Form CP154 for non-resident public entertainers, could not be retrieved from any live hasil.gov.my path"
+  - "Trang Withholding Tax của LHDN nêu rằng các mẫu thanh toán và tài liệu chứng minh không cần nộp mà nên lưu giữ, trong khi Public Ruling 10/2019 para 13.1 yêu cầu điền và nộp CP37D kèm bản sao hóa đơn và bằng chứng chuyển tiền, còn para 18.1(a) yêu cầu nộp giấy chứng nhận cư trú kèm CP37D. Hai nguồn này chưa được dung hòa trong bất kỳ tài liệu nào được truy xuất — hãy xác nhận thông lệ hiện hành với Revenue Management Centre trước khi dựa vào bất kỳ nguồn nào"
+  - "Mẫu CP107D và phụ lục CP107D(1) cho khoản khấu trừ 2 phần trăm theo s.107D, cùng Mẫu CP154 dành cho nghệ sĩ biểu diễn công chúng không cư trú, không thể truy xuất được từ bất kỳ đường dẫn hoạt động nào trên hasil.gov.my"
 
 obligations:
   - what: "Nộp thuế khấu trừ tại nguồn với mẫu thuộc dòng CP37 đúng và một số hóa đơn được tạo ra"

@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0031
 title: "Vốn đã góp tối thiểu cho một công ty Malaysia do nước ngoài sở hữu"
-seoTitle: "Paid-Up Capital Foreign Company Malaysia"
+seoTitle: "Vốn Góp của Công ty Nước ngoài tại Malaysia"
 socialTitle: "Luật Công ty hoàn toàn không đặt ra vốn đã góp tối thiểu. Mọi con số bạn được báo đều đến từ nơi khác."
 slug: "paid-up-capital-foreign-company"
 category: "business"
@@ -36,11 +36,11 @@ faq:
     a: "Vốn đã góp không phải là một khoản tiền gửi và không có yêu cầu luật định nào phải giữ nó bằng tiền mặt. Đó là vốn được đóng góp để đổi lấy cổ phần, và nó có thể được chi cho doanh nghiệp. Nhưng việc giảm vốn cổ phần đã phát hành sau đó là một quy trình chính thức theo Luật Công ty, và một cơ quan quản lý đã cấp một giấy phép dựa trên một con số vốn nói chung sẽ coi việc giảm là một sự thay đổi cần được thông báo."
 
 verificationNeeded:
-  - "MIDA Booklet 8 (2021) refers to the distributive trade guidelines as amended in 2010, but KPDN refers to a Pindaan 2022 edition — Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia. Obtain the 2022 text and confirm whether the format thresholds changed."
-  - "The term WRT and the form reference WRT1 are used by ESD and across the market, but the KPDN guideline is not officially titled a WRT licence — confirm the correct name of the approval instrument"
-  - "Confirm whether the ESD Online Guidebook paid-up capital table was revised alongside the Employment Pass salary policy effective 1 June 2026 — version 6 dated 14 April 2025 was the current published edition at the time of writing"
-  - "Confirm the current minimum capital for a Bank Negara Malaysia licensed institution — bnm.gov.my is behind a web application firewall that defeats automated retrieval, so no BNM figure is published here"
-  - "The RM5,000 minimum expatriate salary stated in MIDA Booklet 8 for distributive trade predates the Employment Pass salary policy revised with effect from 1 June 2026 and should be read against the current bands"
+  - "MIDA Booklet 8 (2021) đề cập đến các hướng dẫn về thương mại phân phối được sửa đổi năm 2010, nhưng KPDN đề cập đến ấn bản Pindaan 2022 — Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia. Hãy lấy văn bản năm 2022 và xác nhận liệu các ngưỡng định dạng có thay đổi hay không."
+  - "Thuật ngữ WRT và ký hiệu mẫu WRT1 được ESD và toàn thị trường sử dụng, nhưng hướng dẫn của KPDN không chính thức mang tên là giấy phép WRT — hãy xác nhận tên đúng của văn kiện phê duyệt"
+  - "Xác nhận liệu bảng vốn góp trong ESD Online Guidebook có được sửa đổi cùng với chính sách lương Employment Pass có hiệu lực từ ngày 1 tháng 6 năm 2026 hay không — version 6 ghi ngày 14 tháng 4 năm 2025 là ấn bản được công bố hiện hành tại thời điểm viết bài"
+  - "Xác nhận mức vốn tối thiểu hiện hành cho một tổ chức được Bank Negara Malaysia cấp phép — bnm.gov.my nằm sau một tường lửa ứng dụng web ngăn cản việc truy xuất tự động, nên không có con số nào của BNM được công bố ở đây"
+  - "Mức lương tối thiểu RM5,000 cho chuyên gia nước ngoài nêu trong MIDA Booklet 8 đối với thương mại phân phối có trước chính sách lương Employment Pass được sửa đổi có hiệu lực từ ngày 1 tháng 6 năm 2026 và nên được đọc đối chiếu với các bậc hiện hành"
 
 lang: "vi"
 masterLanguage: "en"

@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0122
 title: "Các ưu đãi thuế R&D tại Malaysia — không hề có một khoản trợ cấp nghiên cứu được phê duyệt"
-seoTitle: "R&D Tax Incentive Malaysia — s.34A, s.34B and MIDA Status"
+seoTitle: "Ưu đãi thuế R&D Malaysia — s.34A, s.34B và trạng thái R&D của MIDA"
 slug: "approved-research-allowance"
 category: "taxation"
 subcategory: ["deductions-and-allowances"]
@@ -38,8 +38,8 @@ faq:
     a: "Không. Định nghĩa tại s.2, được sửa đổi có hiệu lực từ ngày 28 tháng 12 năm 2018, yêu cầu nghiên cứu có hệ thống, có tính điều tra và thực nghiệm liên quan đến sự mới lạ hoặc rủi ro kỹ thuật trong khoa học hoặc công nghệ, và loại trừ rõ ràng kiểm soát chất lượng hoặc thử nghiệm thông thường, nghiên cứu trong khoa học xã hội hoặc nhân văn, thu thập dữ liệu thông thường, khảo sát hiệu quả và nghiên cứu quản lý, nghiên cứu thị trường và xúc tiến bán hàng, sửa đổi thông thường đối với vật liệu, thiết bị, quy trình hoặc phương pháp sản xuất, và các thay đổi về mỹ thuật hoặc kiểu dáng."
 
 verificationNeeded:
-  - "Whether MIDA has issued a guideline for Contract R&D and R&D company applications later than the 31 March 2021 edition"
-  - "Whether the LHDN procedural guideline for s.34A applications has been revised since the 26 June 2023 amendment — only the Malay edition was located"
+  - "Liệu MIDA có ban hành một hướng dẫn cho các đơn xin dành cho công ty R&D hợp đồng (Contract R&D) và công ty R&D muộn hơn ấn bản ngày 31 tháng 3 năm 2021 hay không"
+  - "Liệu hướng dẫn thủ tục của LHDN cho các đơn theo s.34A đã được sửa đổi kể từ bản sửa đổi ngày 26 tháng 6 năm 2023 hay chưa — chỉ tìm thấy ấn bản tiếng Mã Lai"
 obligations:
   - what: "Nộp Mẫu 1 để có được phê duyệt cho hoạt động R&D theo s.34A"
     trigger: "financial-year-end"

@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0123
 title: "Thành lập một công ty holding và cấu trúc tập đoàn tại Malaysia"
-seoTitle: "Holding Company Malaysia: Group Structure, IHC Tax and Group Relief"
+seoTitle: "Công ty Nắm giữ (Holding Company) tại Malaysia: Cấu trúc Tập đoàn, Thuế IHC và Group Relief"
 slug: "holding-company-malaysia"
 category: "business"
 subcategory: ["structuring"]

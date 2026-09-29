@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0037
 title: "Danh mục khấu trừ kép và khấu trừ bổ sung — các Income Tax Rules được đăng công báo"
-seoTitle: "Double Deduction Malaysia — Gazette Order Directory"
+seoTitle: "Khấu trừ kép Malaysia — Danh mục lệnh công báo"
 slug: "double-deduction-list"
 category: "taxation"
 subcategory: ["deductions-and-allowances"]
@@ -23,9 +23,9 @@ keyTakeaways:
 appliesTo: "Người chuẩn bị thuế công ty, các nhóm tài chính nội bộ và cố vấn kiểm tra xem một ưu đãi có còn tồn tại hay không."
 
 verificationNeeded:
-  - "Pre-2000 double deductions (approved training P.U.(A) 61/1992, export credit insurance premiums, promotion of exports) are not retrievable in full text from the AGC subsidiary-legislation database — the Promotion of Exports Rules survive only as amendment P.U.(A) 267/2003. Confirm current status with LHDN before claiming."
-  - "Income Tax (Deductions for the Employment of Disabled Persons) Rules 1982, P.U.(A) 73/1982 — only the 2019 amending instrument is retrievable; the parent text was not located, so the mechanism is described from the amendment."
-  - "Whether P.U.(A) 164/2019 was further extended beyond YA2025 by an instrument gazetted after this page was written."
+  - "Các khoản khấu trừ kép trước năm 2000 (đào tạo được phê duyệt P.U.(A) 61/1992, phí bảo hiểm tín dụng xuất khẩu, xúc tiến xuất khẩu) không thể truy xuất toàn văn từ cơ sở dữ liệu văn bản dưới luật của AGC — Promotion of Exports Rules chỉ còn tồn tại dưới dạng văn bản sửa đổi P.U.(A) 267/2003. Hãy xác nhận tình trạng hiện hành với LHDN trước khi kê khai."
+  - "Income Tax (Deductions for the Employment of Disabled Persons) Rules 1982, P.U.(A) 73/1982 — chỉ truy xuất được văn bản sửa đổi năm 2019; không tìm thấy văn bản gốc, nên cơ chế được mô tả dựa trên văn bản sửa đổi."
+  - "Liệu P.U.(A) 164/2019 có được gia hạn thêm vượt quá YA2025 bởi một văn bản được công báo sau khi trang này được soạn hay không."
 
 lang: "vi"
 masterLanguage: "en"

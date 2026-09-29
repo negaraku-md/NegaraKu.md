@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0017
 title: "LLP so với Sdn Bhd: Cái nào thực sự phù hợp"
-seoTitle: "LLP vs Sdn Bhd Malaysia: The Real Differences"
+seoTitle: "LLP so với Sdn Bhd tại Malaysia: Những khác biệt thực chất"
 slug: "llp-vs-sdn-bhd"
 category: "business"
 subcategory: ["choosing-a-structure"]
@@ -38,9 +38,9 @@ faq:
     a: "Có. Phần V của Luật LLP năm 2012 quy định việc chuyển đổi từ một công ty hợp danh thông thường (s.29) và từ một công ty tư nhân (s.30), với các tuyên bố phải nộp được nêu ra trong s.31. Mục 41 bảo tồn các trách nhiệm và nghĩa vụ của các thành viên từ trước khi chuyển đổi, và s.42 yêu cầu thông báo về việc chuyển đổi trên hóa đơn và thư từ. SSM tính RM500 cho một đơn xin chuyển đổi."
 
 verificationNeeded:
-  - "Confirm the current preferential tax rate and the capital-contribution threshold that an LLP must meet to access it, against the Income Tax Act 1967 and the current LHDN Public Ruling"
-  - "Confirm whether the Accountants Act 1967 and the current MIA By-Laws permit any form of incorporated public practice for non-audit accounting services"
-  - "Confirm the position for other regulated professions, including architects, engineers and medical practitioners, whose governing statutes permit incorporation on conditions"
+  - "Xác nhận thuế suất ưu đãi hiện hành và ngưỡng vốn góp mà một LLP phải đáp ứng để được hưởng, đối chiếu với Income Tax Act 1967 và LHDN Public Ruling hiện hành"
+  - "Xác nhận liệu Accountants Act 1967 và MIA By-Laws hiện hành có cho phép bất kỳ hình thức hành nghề công khai dưới dạng pháp nhân nào cho các dịch vụ kế toán phi kiểm toán hay không"
+  - "Xác nhận vị thế đối với các ngành nghề được quản lý khác, bao gồm kiến trúc sư, kỹ sư và người hành nghề y, mà các đạo luật điều chỉnh cho phép thành lập pháp nhân theo điều kiện"
 
 obligations:
   - what: "Nộp tờ khai thường niên của LLP"

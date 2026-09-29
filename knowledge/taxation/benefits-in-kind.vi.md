@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0040
 title: "Lợi ích bằng hiện vật và các khoản phụ cấp — cả hai phía của giao dịch"
-seoTitle: "Benefits in Kind Malaysia — Employer and Employee Tax"
+seoTitle: "Lợi ích bằng hiện vật Malaysia — Thuế của người sử dụng lao động và người lao động"
 slug: "benefits-in-kind"
 category: "taxation"
 subcategory: ["deductions-and-allowances"]
@@ -38,7 +38,7 @@ faq:
     a: "Vẫn có, nhưng giá trị quy định của phần xe được giảm xuống một nửa. Sự giảm trừ đó chỉ có sẵn theo phương pháp giá trị quy định — Public Ruling 11/2019 đoạn 6.1.8 nêu rõ ràng rằng nó không áp dụng khi phương pháp công thức được sử dụng."
 
 verificationNeeded:
-  - "The full text of the Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009, P.U.(A) 153/2009, was not retrieved from a primary source; its scope is described as cited in paragraph 12.1 of Public Ruling 11/2019."
+  - "Toàn văn của Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009, P.U.(A) 153/2009, không được truy xuất từ một nguồn sơ cấp; phạm vi của nó được mô tả theo cách được trích dẫn trong đoạn 12.1 của Public Ruling 11/2019."
 
 lang: "vi"
 masterLanguage: "en"

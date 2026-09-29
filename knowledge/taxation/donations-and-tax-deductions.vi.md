@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0039
 title: "Quyên góp, tặng cho và các tổ chức được phê duyệt theo điều 44(6)"
-seoTitle: "Tax Deductible Donations Malaysia — s.44(6) Explained"
+seoTitle: "Quyên góp được khấu trừ thuế tại Malaysia — Giải thích s.44(6)"
 slug: "donations-and-tax-deductions"
 category: "taxation"
 subcategory: ["deductions-and-allowances"]
@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Các cá nhân và công ty thực hiện quyên góp từ thiện, và các nhóm tài chính kiểm tra một biên lai trước khi yêu cầu."
 
 verificationNeeded:
-  - "The required particulars of a valid s.44(6) donation receipt — LHDN's receipt-usage explainer page could not be retrieved."
+  - "Các thông tin bắt buộc của một biên nhận quyên góp hợp lệ theo s.44(6) — trang giải thích về cách sử dụng biên nhận của LHDN không thể truy xuất được."
 
 lang: "vi"
 masterLanguage: "en"

@@ -49,8 +49,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Bilangan peguam kerajaan di Jabatan Peguam Negara dan tahun penubuhan agensi — dikeluarkan kerana tiada sumber sahih (bukan Wikipedia); tambah semula jika sumber rasmi (cth. agc.gov.my) diperoleh."
-  - "Klasifikasi sensitivity kekal 'none' mengikut arahan tier 2; topik menyentuh pendakwaan berprofil tinggi/politik semasa (kes Najib, pertuduhan semula 2018) — semak semula sama ada 'none' memadai."
+  - "Số lượng luật sư của chính phủ tại Cục Tổng Chưởng lý (Jabatan Peguam Negara) và năm thành lập cơ quan — đã được gỡ bỏ vì không có nguồn xác thực (không phải Wikipedia); bổ sung lại nếu có được một nguồn chính thức (ví dụ agc.gov.my)."
+  - "Phân loại sensitivity giữ ở mức 'none' theo chỉ thị tier 2; chủ đề chạm đến việc truy tố nổi bật/chính trị đương thời (vụ Najib, việc truy tố lại năm 2018) — hãy xem xét lại liệu 'none' có thỏa đáng hay không."
 
 updated: 2026-08-14
 sources:

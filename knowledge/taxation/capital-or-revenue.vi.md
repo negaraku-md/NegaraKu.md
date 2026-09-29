@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0043
 title: "Vốn hay doanh thu? Định tuyến một khoản lãi vào CGT, RPGT hay thuế thu nhập"
-seoTitle: "Capital or Revenue: CGT, RPGT or Income Tax"
+seoTitle: "Bản chất vốn hay thu nhập: CGT, RPGT hay Thuế thu nhập"
 slug: "capital-or-revenue"
 category: "taxation"
 subcategory: ["capital-taxes"]
@@ -36,9 +36,9 @@ faq:
     a: "Không phải tự nó. Public Ruling của LHDN về phát triển bất động sản đề cập đến các nhà phát triển cho thuê các căn chưa bán và coi đó là không tương đương với việc rút hàng tồn, nên một giao dịch bán sau đó vẫn chịu thuế như thu nhập kinh doanh theo đoạn 4(a). Cho thuê có thể là bằng chứng về một ý định đầu tư, nhưng tự nó không chuyển đổi hàng tồn kinh doanh thành một tài sản vốn."
 
 verificationNeeded:
-  - "LHDN publishes its enumerated badges of trade in the Guidelines on Tax Treatment on Digital Currency Transaction — the framework is general but it has not been reissued as a cross-asset Public Ruling, so its application to property and shares is by analogy rather than by express LHDN statement"
-  - "No LHDN Public Ruling or guideline was found stating when share dealing becomes a business under paragraph 4(a); the badges framework is the only official analytical tool located"
-  - "No Malaysian case authority on badges of trade was found cited in any official LHDN document, so no case law is stated on this page"
+  - "LHDN công bố các dấu hiệu của hoạt động thương mại (badges of trade) được liệt kê trong Guidelines on Tax Treatment on Digital Currency Transaction — khung phân tích này mang tính tổng quát nhưng chưa được ban hành lại dưới dạng Public Ruling áp dụng cho nhiều loại tài sản, nên việc áp dụng nó cho bất động sản và cổ phần là theo phép loại suy chứ không phải theo tuyên bố minh thị của LHDN"
+  - "Không tìm thấy Public Ruling hay hướng dẫn nào của LHDN quy định khi nào việc giao dịch cổ phần trở thành hoạt động kinh doanh theo paragraph 4(a); khung dấu hiệu của hoạt động thương mại là công cụ phân tích chính thức duy nhất được tìm thấy"
+  - "Không tìm thấy án lệ nào của Malaysia về các dấu hiệu của hoạt động thương mại được viện dẫn trong bất kỳ tài liệu chính thức nào của LHDN, nên trang này không nêu án lệ"
 
 lang: "vi"
 masterLanguage: "en"

@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0029
 title: "Người nước ngoài có thể sở hữu 100% một công ty Malaysia không? Theo từng lĩnh vực"
-seoTitle: "Foreign Ownership Limits Malaysia by Sector"
+seoTitle: "Giới hạn Sở hữu Nước ngoài tại Malaysia theo Ngành"
 socialTitle: "Không có luật Malaysia nào giới hạn sở hữu nước ngoài. Các mức trần nằm bên trong giấy phép của từng lĩnh vực — và điều đó thay đổi nơi bạn phải tìm."
 slug: "foreign-ownership-malaysia"
 category: "business"
@@ -42,10 +42,10 @@ faq:
     a: "Các trường hợp loại trừ rõ ràng nhất nằm trong thương mại phân phối. Sự tham gia của nước ngoài không được phép trong các siêu thị và mini-market dưới 3.000 mét vuông, cửa hàng tạp hóa và người bán hàng tổng hợp, cửa hàng tiện lợi 24 giờ, đại lý báo và cửa hàng hàng hóa linh tinh, hiệu thuốc (medical hall), trạm nhiên liệu có cửa hàng tiện lợi, chợ ẩm cố định và cửa hàng vỉa hè, các vấn đề thuộc lợi ích chiến lược quốc gia, và cửa hàng dệt may, nhà hàng không cao cấp, quán bistro và cửa hàng trang sức."
 
 verificationNeeded:
-  - "The commonly quoted 30 percent foreign shareholding cap for commercial banks and 70 percent for insurers and investment banks could not be verified. bnm.gov.my sits behind a web application firewall that defeats automated retrieval, so BNM's 27 April 2009 liberalisation announcement and its Shareholder Suitability policy document were not read. Verify manually before treating either figure as current."
-  - "The repeal of the Foreign Investment Committee guidelines on 30 June 2009 is universally reported but no official government page confirming it was located. Note that MCMC's own 2025 Licensing Guidebook still requests documentation on compliance with Foreign Investment Committee requirements in its annexure checklist — a stale reference, not a live requirement."
-  - "MIDA Booklet 8 (2021) refers to the distributive trade guidelines as amended in 2010, while KPDN refers to a Pindaan 2022 edition. Obtain the 2022 text and confirm whether the format thresholds or the exclusion list changed."
-  - "Per-state minimum purchase price thresholds for foreign property acquisition were not verified against state land office sources. The RM1,000,000 figure is the federal floor; states set their own, often higher."
+  - "Không thể xác minh mức trần sở hữu cổ phần nước ngoài thường được trích dẫn là 30 phần trăm đối với ngân hàng thương mại và 70 phần trăm đối với công ty bảo hiểm và ngân hàng đầu tư. bnm.gov.my nằm sau một tường lửa ứng dụng web ngăn cản việc truy xuất tự động, nên thông báo tự do hóa ngày 27 tháng 4 năm 2009 của BNM cùng tài liệu chính sách Shareholder Suitability của cơ quan này chưa được đọc. Hãy xác minh thủ công trước khi coi bất kỳ con số nào là hiện hành."
+  - "Việc bãi bỏ các hướng dẫn của Foreign Investment Committee vào ngày 30 tháng 6 năm 2009 được đưa tin rộng rãi nhưng không tìm thấy trang chính thức nào của chính phủ xác nhận điều đó. Lưu ý rằng chính Licensing Guidebook 2025 của MCMC vẫn yêu cầu tài liệu về việc tuân thủ các yêu cầu của Foreign Investment Committee trong danh mục kiểm tra phụ lục — một tham chiếu lỗi thời, không phải là yêu cầu còn hiệu lực."
+  - "MIDA Booklet 8 (2021) đề cập đến các hướng dẫn về thương mại phân phối được sửa đổi năm 2010, trong khi KPDN đề cập đến ấn bản Pindaan 2022. Hãy lấy văn bản năm 2022 và xác nhận liệu các ngưỡng định dạng hay danh sách loại trừ có thay đổi hay không."
+  - "Các ngưỡng giá mua tối thiểu theo từng bang đối với việc người nước ngoài mua bất động sản chưa được xác minh với nguồn của các sở đất đai bang. Con số RM1,000,000 là mức sàn liên bang; các bang tự đặt mức của mình, thường cao hơn."
 
 lang: "vi"
 masterLanguage: "en"

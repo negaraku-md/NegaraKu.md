@@ -23,10 +23,10 @@ keyTakeaways:
 appliesTo: "Các thư ký công ty, quản lý tài chính và đại lý thuế duy trì lịch tuân thủ hằng năm cho một Sdn Bhd, LLP, tổ chức tín thác, hợp tác xã hoặc thực thể Labuan."
 
 verificationNeeded:
-  - "SST-02 taxable periods, due dates and the late-payment penalty tiers under the Sales Tax Act 2018 and Service Tax Act 2018 — not verified against RMCD for this page"
-  - "Current MyInvois e-Invoice phase dates and the turnover exemption threshold"
-  - "The Country-by-Country Report notification and filing deadlines under the CbCR Rules 2016"
-  - "PCB remittance date and the Income Tax (Deduction from Remuneration) Rules 1994 text — the 15th of the following month is widely reported but was not read off the gazette for this page"
+  - "Các kỳ tính thuế SST-02, thời hạn nộp và các mức phạt chậm nộp theo Sales Tax Act 2018 và Service Tax Act 2018 — chưa được đối chiếu với RMCD cho trang này"
+  - "Các mốc thời gian giai đoạn hóa đơn điện tử MyInvois hiện hành và ngưỡng doanh thu được miễn"
+  - "Thời hạn thông báo và nộp Country-by-Country Report theo CbCR Rules 2016"
+  - "Ngày nộp PCB và nội dung Income Tax (Deduction from Remuneration) Rules 1994 — ngày 15 của tháng kế tiếp được đưa tin rộng rãi nhưng chưa được đọc trực tiếp từ công báo cho trang này"
 
 obligations:
   - what: "Nộp Form C — tờ khai thuế thu nhập doanh nghiệp"

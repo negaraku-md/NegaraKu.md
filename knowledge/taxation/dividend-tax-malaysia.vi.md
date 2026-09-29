@@ -1,7 +1,7 @@
 ---
 topicId: "MY-TAX-0138"
 title: "Thuế 2% của Malaysia trên thu nhập cổ tức (từ YA 2025)"
-seoTitle: "Malaysia Dividend Tax: 2% on Income Above RM100,000"
+seoTitle: "Thuế cổ tức Malaysia: 2% đối với thu nhập trên RM100,000"
 slug: "dividend-tax-malaysia"
 category: "taxation"
 subcategory: ["personal-tax"]

@@ -27,8 +27,8 @@ faq:
     a: "Đây là lần đầu tiên liên minh cầm quyền giữ được đa số nghị viện trong khi giành được thiểu số phiếu phổ thông — BN khoảng 47.4% so với khoảng 50.9% của PR — điều đã thổi bùng cuộc tranh luận về hệ thống bầu cử."
 
 verificationNeeded:
-  - "SENSITIVE / needs human review before publication. This article concerns an election and touches ethnic framing used at the time (race). Seat counts, vote shares and turnout are stated from secondary compilations of Election Commission (SPR) results and must be re-checked against the SPR's official figures. Allegations of electoral irregularities are attributed, not established, and any ethnic characterisation of the result must remain strictly neutral and attributed."
-  - "All figures to be confirmed against the Election Commission of Malaysia (Suruhanjaya Pilihan Raya)."
+  - "NHẠY CẢM / cần con người xem xét trước khi công bố. Bài viết này liên quan đến một cuộc bầu cử và đề cập đến khung diễn giải sắc tộc được dùng vào thời điểm đó (race). Số ghế, tỷ lệ phiếu và tỷ lệ cử tri đi bầu được nêu từ các bản tổng hợp thứ cấp về kết quả của Ủy ban Bầu cử (Election Commission, SPR) và phải được kiểm tra lại so với các con số chính thức của SPR. Các cáo buộc về bất thường bầu cử là được quy dẫn, chưa được xác lập, và bất kỳ sự đặc trưng hóa sắc tộc nào về kết quả đều phải giữ thái độ trung lập nghiêm ngặt và được quy dẫn."
+  - "Tất cả các con số cần được xác nhận so với Ủy ban Bầu cử Malaysia (Suruhanjaya Pilihan Raya)."
 
 lang: "vi"
 masterLanguage: "en"

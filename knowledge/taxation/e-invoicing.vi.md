@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0003
 title: "Hóa đơn điện tử tại Malaysia: Bắt đầu từ đâu với MyInvois"
-seoTitle: "e-Invoicing Malaysia: MyInvois Starting Point"
+seoTitle: "Hóa đơn điện tử Malaysia: Điểm khởi đầu MyInvois"
 slug: "e-invoicing"
 category: "taxation"
 subcategory: ["e-invoicing"]

@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0028
 title: "Giấy phép WRT: Phê duyệt thương mại phân phối cho các công ty có vốn nước ngoài"
-seoTitle: "WRT Licence Malaysia: What KPDN Actually Requires"
+seoTitle: "Giấy phép WRT Malaysia: KPDN thực sự yêu cầu những gì"
 slug: "wrt-licence-malaysia"
 category: "business"
 subcategory: ["licensing"]
@@ -36,7 +36,7 @@ faq:
     a: "Qua BLESS 2.0. Danh mục kiểm tra của KPDN nêu BLESS là kênh nộp đơn, chỉ nộp tại quầy như một phương án dự phòng khi hệ thống ngừng hoạt động. Bản thân thời hạn hiệu lực không được công bố, nhưng KPDN có nêu rằng một đơn gia hạn phải được nộp ít nhất ba tháng trước ngày hết hạn — vì vậy hãy tìm ra ngày hết hạn của chính bạn từ sớm và tính ngược lại từ đó."
 
 verificationNeeded:
-  - "The length of a WRT approval's validity period — only the three-month renewal lead time is published"
+  - "Thời hạn hiệu lực của một phê duyệt WRT — chỉ có thời gian báo trước ba tháng để gia hạn là được công bố"
 
 lang: "vi"
 masterLanguage: "en"

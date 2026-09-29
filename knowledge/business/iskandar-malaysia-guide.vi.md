@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0050
 title: "Iskandar Malaysia và IRDA — Điều gì còn tồn tại khi JS-SEZ phủ lên nó"
-seoTitle: "Iskandar Malaysia Incentives and IRDA Today"
+seoTitle: "Ưu đãi Iskandar Malaysia và IRDA hiện nay"
 socialTitle: "Các ưu đãi thuế Iskandar chưa bao giờ bị JS-SEZ thay thế. Chúng hết hạn vào ngày 31 tháng 12 năm 2024, và các đơn JS-SEZ mở vào ngày hôm sau."
 slug: "iskandar-malaysia-guide"
 category: "business"
@@ -39,9 +39,9 @@ faq:
     a: "Nó lập kế hoạch, tạo thuận lợi và điều phối phát triển theo Kế hoạch Phát triển Toàn diện iii (Comprehensive Development Plan iii) cho giai đoạn 2022 đến 2030, và nó đồng dẫn dắt Trung tâm Tạo thuận lợi Đầu tư Malaysia Johor (Invest Malaysia Facilitation Centre Johor) cùng Invest Johor và MIDA. IMFC-J cấp xác nhận về vị trí trong một đặc khu chủ lực (flagship zone) của JS-SEZ mà MIDA yêu cầu như một điều kiện tiên quyết của đơn."
 
 verificationNeeded:
-  - "P.U.(B) 56/2007, the original determination of the Iskandar Development Region containing the mukim-level delineation, is listed as not available on the AGC portal. Do not publish a mukim list."
-  - "Whether the approved developer limbs of P.U.(A) 417/2007 were extended by any amendment gazetted between 2008 and 2010. AGC coverage of that period is sparse, so a negative search is not conclusive."
-  - "All widely repeated corporate facts about Medini Iskandar Malaysia Sdn Bhd and its shareholders come from non-official sources and were not verified"
+  - "P.U.(B) 56/2007, văn kiện xác định ban đầu của Iskandar Development Region chứa việc phân định ở cấp mukim, được ghi là không có sẵn trên cổng AGC. Không công bố danh sách mukim."
+  - "Liệu các nhánh về nhà phát triển được phê duyệt (approved developer) của P.U.(A) 417/2007 có được gia hạn bởi bất kỳ sửa đổi nào đăng công báo trong giai đoạn 2008 đến 2010 hay không. Phạm vi bao quát của AGC cho giai đoạn đó thưa thớt, nên một kết quả tìm kiếm âm tính không mang tính kết luận."
+  - "Tất cả các thông tin doanh nghiệp được lặp lại rộng rãi về Medini Iskandar Malaysia Sdn Bhd và các cổ đông của công ty đều đến từ nguồn không chính thức và chưa được xác minh"
 
 lang: "vi"
 masterLanguage: "en"

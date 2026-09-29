@@ -27,8 +27,8 @@ faq:
     a: "Sau các cuộc đàm phán và sự can thiệp của Yang di-Pertuan Agong, Anwar Ibrahim được bổ nhiệm và tuyên thệ nhậm chức Thủ tướng thứ 10 vào ngày 24 tháng 11 năm 2022, lập nên một 'chính phủ đoàn kết' quy tụ các đối thủ cũ bao gồm cả Barisan Nasional."
 
 verificationNeeded:
-  - "SENSITIVE / needs human review before publication. This article concerns an election and the King's role in government formation (constitution/royalty). Seat counts and turnout are stated from secondary compilations of Election Commission (SPR) results and must be re-checked against official figures. Characterisations of the 'green wave' and any ethnic framing must remain neutral and attributed."
-  - "All figures to be confirmed against the Election Commission of Malaysia (Suruhanjaya Pilihan Raya); note that final tallies differ slightly from election-night figures due to a postponed seat."
+  - "NHẠY CẢM / cần con người xem xét trước khi công bố. Bài viết này liên quan đến một cuộc bầu cử và vai trò của Nhà Vua trong việc thành lập chính phủ (constitution/royalty). Số ghế và tỷ lệ cử tri đi bầu được nêu từ các bản tổng hợp thứ cấp về kết quả của Ủy ban Bầu cử (Election Commission, SPR) và phải được kiểm tra lại so với các con số chính thức. Việc đặc trưng hóa 'làn sóng xanh' và bất kỳ khung diễn giải sắc tộc nào đều phải giữ thái độ trung lập và được quy dẫn."
+  - "Tất cả các con số cần được xác nhận so với Ủy ban Bầu cử Malaysia (Suruhanjaya Pilihan Raya); lưu ý rằng kết quả kiểm phiếu cuối cùng khác biệt đôi chút so với các con số trong đêm bầu cử do một ghế bị hoãn."
 
 lang: "vi"
 masterLanguage: "en"

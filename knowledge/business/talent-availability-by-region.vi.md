@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0103
 title: "Lực lượng lao động của Malaysia thực sự ở đâu — và chi phí theo từng bang là bao nhiêu"
-seoTitle: "Talent Availability by Region Malaysia"
+seoTitle: "Nguồn nhân lực sẵn có theo vùng tại Malaysia"
 socialTitle: "Mức lương trung vị của Putrajaya gấp 2,4 lần Kelantan. Nhưng mức lương tối thiểu ở cả hai nơi là như nhau."
 slug: "talent-availability-by-region"
 category: "business"

@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0030
 title: "Giấy phép sản xuất và miễn trừ theo ICA 1975"
-seoTitle: "Manufacturing Licence Malaysia: ICA 1975 and ICA 10"
+seoTitle: "Giấy phép Sản xuất tại Malaysia: ICA 1975 và ICA 10"
 slug: "manufacturing-licence-malaysia"
 category: "business"
 subcategory: ["licensing"]
@@ -39,10 +39,10 @@ faq:
     a: "Không cho sản xuất. MITI đã công bố rằng Khuôn khổ Ưu đãi Mới (New Incentive Framework) có hiệu lực từ ngày 1 tháng 3 năm 2026, bắt đầu với lĩnh vực sản xuất, và rằng Chính phủ sẽ không còn chấp nhận các đơn xin ưu đãi sản xuất mới theo Luật Xúc tiến Đầu tư năm 1986 (Promotion of Investments Act 1986) — hạn chót cuối cùng là ngày 28 tháng 2 năm 2026. Các công ty đã được phê duyệt và đang hưởng các ưu đãi PIA 1986 không bị ảnh hưởng và các sự phê duyệt của họ vẫn có hiệu lực theo các điều khoản đã được phê duyệt."
 
 verificationNeeded:
-  - "The P.U.(A) number, date and gazette text of the exemption order under s.11 of the ICA 1975 — the AGC subsidiary legislation database returns only a licence revocation notification for Act 156, and MITI's own ICA page lists no exemption order"
-  - "The form number for a manufacturing licence application — MIDA publishes a guideline and an online portal link but no form number, so the ICA 1 designation in circulation is unconfirmed"
-  - "Whether the relaxation of the 80 per cent Malaysian workforce condition was extended beyond 31 December 2024"
-  - "Whether the ICA 10 confirmation letter supports bank facility applications — MIDA does not say so"
+  - "Số P.U.(A), ngày và văn bản công báo của lệnh miễn trừ theo s.11 của ICA 1975 — cơ sở dữ liệu văn bản dưới luật của AGC chỉ trả về một thông báo thu hồi giấy phép cho Act 156, và chính trang ICA của MITI không liệt kê lệnh miễn trừ nào"
+  - "Số biểu mẫu cho đơn xin giấy phép sản xuất — MIDA công bố một hướng dẫn và một liên kết cổng trực tuyến nhưng không có số biểu mẫu, nên ký hiệu ICA 1 đang lưu hành là chưa được xác nhận"
+  - "Liệu việc nới lỏng điều kiện 80 phần trăm lực lượng lao động Malaysia có được gia hạn quá ngày 31 tháng 12 năm 2024 hay không"
+  - "Liệu thư xác nhận ICA 10 có hỗ trợ cho hồ sơ vay vốn ngân hàng hay không — MIDA không nói vậy"
 
 lang: "vi"
 masterLanguage: "en"

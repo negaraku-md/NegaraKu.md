@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0140
 title: "e-WHT: Nộp và trả thuế khấu trừ tại nguồn trực tuyến tại Malaysia"
-seoTitle: "e-WHT Malaysia: Submit and Pay Withholding Tax Online via MyTax"
+seoTitle: "e-WHT Malaysia: Nộp và thanh toán thuế khấu trừ tại nguồn trực tuyến qua MyTax"
 slug: "e-wht-electronic-withholding-tax"
 category: "taxation"
 subcategory: ["withholding-tax"]

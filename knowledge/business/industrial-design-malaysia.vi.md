@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0043
 title: "Đăng ký kiểu dáng công nghiệp tại Malaysia"
-seoTitle: "Industrial Design Registration Malaysia (MyIPO)"
+seoTitle: "Đăng ký Kiểu dáng Công nghiệp tại Malaysia (MyIPO)"
 slug: "industrial-design-malaysia"
 category: "business"
 subcategory: ["intellectual-property"]
@@ -35,9 +35,9 @@ faq:
     a: "Có, theo mục s.15, miễn là chúng liên quan đến cùng một lớp của Phân loại Quốc tế về Kiểu dáng Công nghiệp hoặc đến cùng một bộ hay tổ hợp sản phẩm. Mỗi kiểu dáng bổ sung trong đơn vẫn mang khoản phí RM480 riêng của nó."
 
 verificationNeeded:
-  - "The Industrial Designs Act 1996 PDF hosted on myipo.gov.my is the reprint as at 1 January 2013 and does NOT include the Industrial Designs (Amendment) Act 2013 (Act A1449) — the commencement notification for A1449 could not be located; 1 July 2013 is inferred from the Industrial Designs (Amendment) Regulations 2013 [P.U. (A) 182/2013], which came into force on that date"
-  - "Confirm with MyIPO whether the Registrar conducts a substantive novelty search on an industrial design application or only a formalities check"
-  - "Confirm the current edition of the International Classification for Industrial Designs (Locarno) applied by MyIPO"
+  - "Tệp PDF của Industrial Designs Act 1996 đăng trên myipo.gov.my là bản tái bản tính đến ngày 1 tháng 1 năm 2013 và KHÔNG bao gồm Industrial Designs (Amendment) Act 2013 (Act A1449) — không tìm thấy thông báo ngày có hiệu lực của A1449; ngày 1 tháng 7 năm 2013 được suy ra từ Industrial Designs (Amendment) Regulations 2013 [P.U. (A) 182/2013], vốn có hiệu lực vào ngày đó"
+  - "Xác nhận với MyIPO liệu Cơ quan Đăng ký (Registrar) có tiến hành tra cứu tính mới về mặt nội dung đối với đơn kiểu dáng công nghiệp hay chỉ kiểm tra thủ tục hình thức"
+  - "Xác nhận ấn bản hiện hành của International Classification for Industrial Designs (Locarno) mà MyIPO áp dụng"
 
 obligations:
   - what: "Nộp đơn gia hạn thời hạn đăng ký một kiểu dáng công nghiệp"

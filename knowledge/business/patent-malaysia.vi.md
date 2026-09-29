@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0054
 title: "Sáng chế và đổi mới hữu ích tại Malaysia"
-seoTitle: "Patent Malaysia: Utility Innovation vs Patent"
+seoTitle: "Bằng sáng chế Malaysia: Đổi mới hữu ích so với bằng sáng chế"
 slug: "patent-malaysia"
 category: "business"
 subcategory: ["intellectual-property"]
@@ -35,10 +35,10 @@ faq:
     a: "Nếu bạn là một người cư trú, thực tế là có. Mục 23A cấm một người cư trú nộp một đơn sáng chế ngoài Malaysia trừ khi một đơn cho cùng sáng chế được nộp tại Văn phòng Đăng ký Sáng chế ít nhất hai tháng trước đó, hoặc Cơ quan Đăng ký đã cấp thẩm quyền bằng văn bản trên Mẫu 1B (RM200). Vi phạm là một tội theo s.62A."
 
 verificationNeeded:
-  - "MyIPO's fee schedule lists Form 1 (Request for Grant of Patent) at RM290 and Form 14 (Application for Grant of a Certificate for a Utility Innovation) at RM140 — confirm with MyIPO which form and fee combination applies to a first utility innovation filing"
-  - "The Patents Regulations 1986 consolidation hosted on myipo.gov.my predates the 2022 and 2025 amendments — it still shows a two-month period to respond to an examiner's report, which P.U. (A) 68/2022 changed to three months. Check any regulation against the amending instruments"
-  - "Section 14 of the Patents (Amendment) Act 2022, inserting s.26C on the deposit of microorganisms, does not appear in any commencement notification located — confirm its status with MyIPO before relying on it"
-  - "MyIPO publishes no standard end-to-end grant timeline for a patent or a utility innovation"
+  - "Biểu phí của MyIPO liệt kê Form 1 (Request for Grant of Patent) ở mức RM290 và Form 14 (Application for Grant of a Certificate for a Utility Innovation) ở mức RM140 — xác nhận với MyIPO xem tổ hợp mẫu và phí nào áp dụng cho một đơn đổi mới hữu ích lần đầu"
+  - "Bản hợp nhất Patents Regulations 1986 được đăng trên myipo.gov.my có trước các sửa đổi năm 2022 và 2025 — nó vẫn nêu thời hạn hai tháng để phản hồi báo cáo của thẩm định viên, mà P.U. (A) 68/2022 đã đổi thành ba tháng. Hãy đối chiếu mọi quy định với các văn bản sửa đổi"
+  - "Section 14 của Patents (Amendment) Act 2022, bổ sung s.26C về việc nộp lưu vi sinh vật, không xuất hiện trong bất kỳ thông báo có hiệu lực nào được tìm thấy — xác nhận tình trạng của nó với MyIPO trước khi dựa vào"
+  - "MyIPO không công bố một khung thời gian cấp bằng đầu-cuối tiêu chuẩn cho một bằng sáng chế hoặc một đổi mới hữu ích"
 
 obligations:
   - what: "Nộp một yêu cầu thẩm định thực chất hoặc thẩm định thực chất được sửa đổi"

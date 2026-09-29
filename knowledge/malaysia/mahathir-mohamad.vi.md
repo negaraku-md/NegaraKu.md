@@ -27,8 +27,8 @@ faq:
     a: "Ông sinh ngày 10 tháng 7 năm 1925 và tròn 100 tuổi vào tháng 7 năm 2025."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal review before publication. This biography touches multiple 3R+1 areas — the 1988 judiciary crisis and the 1983/1993 curbing of the Rulers' powers (royalty), the New Economic Policy and Malay/Bumiputera policy (race), and the 1987 Operation Lalang ISA detentions (security). All characterisations are summarised neutrally and must be re-checked against primary sources and reviewed by a qualified reviewer."
-  - "Exact dates (premiership, resignation) to be confirmed against the Prime Minister's Office and the Perdana Leadership Foundation."
+  - "NHẠY CẢM / cần con người + xem xét pháp lý trước khi công bố. Tiểu sử này chạm đến nhiều lĩnh vực 3R+1 — cuộc khủng hoảng tư pháp năm 1988 và việc hạn chế quyền lực của các Quân vương vào năm 1983/1993 (royalty), Chính sách Kinh tế Mới (New Economic Policy) và chính sách về người Mã Lai/Bumiputera (race), và các vụ giam giữ theo ISA trong Chiến dịch Lalang năm 1987 (security). Tất cả các cách đặc trưng hóa đều được tóm tắt một cách trung lập và phải được kiểm tra lại so với các nguồn sơ cấp và được một người phê duyệt đủ trình độ xem xét."
+  - "Các ngày chính xác (nhiệm kỳ thủ tướng, việc từ chức) cần được xác nhận so với Văn phòng Thủ tướng (Prime Minister's Office) và Perdana Leadership Foundation."
 
 lang: "vi"
 masterLanguage: "en"

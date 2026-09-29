@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0063
 title: "Giấy chứng nhận cư trú Malaysia — Nộp đơn qua e-Residence"
-seoTitle: "Certificate of Residence Malaysia — e-Residence Application"
+seoTitle: "Giấy chứng nhận cư trú Malaysia — Đăng ký e-Residence"
 slug: "certificate-of-residence"
 category: "taxation"
 subcategory: ["international-tax"]
@@ -33,8 +33,8 @@ faq:
     a: "e-Residence bao gồm các nước có hiệp định. Đối với một nước không có hiệp định tránh đánh thuế hai lần với Malaysia, người nộp đơn nộp Form STM1 với các tài liệu hỗ trợ qua email thay vào đó."
 
 verificationNeeded:
-  - "The e-Residence user manual and FAQ linked from the LHDN page were not retrieved; screen-level detail such as field validation and rejection codes is not confirmed here"
-  - "Whether a Certificate of Residence can be issued for a year in which the residence test is only met after the application date was not addressed on the LHDN page"
+  - "Hướng dẫn sử dụng e-Residence và mục FAQ được liên kết từ trang LHDN chưa được truy xuất; các chi tiết ở cấp độ màn hình như kiểm tra hợp lệ trường dữ liệu và mã từ chối chưa được xác nhận tại đây"
+  - "Việc liệu một Giấy chứng nhận cư trú có thể được cấp cho một năm mà tiêu chí cư trú chỉ được đáp ứng sau ngày nộp đơn hay không đã không được đề cập trên trang LHDN"
 
 lang: "vi"
 masterLanguage: "en"

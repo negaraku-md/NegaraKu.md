@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0104
 title: "Cảng, sân bay, đường sắt và băng thông rộng theo vùng của Malaysia — các con số chính thức"
-seoTitle: "Malaysia Infrastructure by Region"
+seoTitle: "Hạ tầng Malaysia theo Vùng"
 socialTitle: "Hai cảng của Malaysia đã xử lý 88 phần trăm số container của cả nước trong năm 2025. Ở mọi nơi khác, logistics là một câu chuyện kinh doanh khác."
 slug: "infrastructure-connectivity-by-region"
 category: "business"
@@ -37,16 +37,16 @@ faq:
     a: "Có, và nhiều hơn mọi người nghĩ. KTMB đã di chuyển 6,0 triệu tấn và 540.446 TEU trong năm 2024, trong đó container hàng hải là 3,84 triệu tấn — khoảng 64 phần trăm sản lượng hàng hóa đường sắt. Padang Besar, Butterworth, Northport và Pasir Gudang được phục vụ. Không có tuyên bố chính thức hợp nhất nào về việc cảng nào có đường nhánh (siding) đang hoạt động, nên hãy xác nhận cảng cụ thể trước khi thiết kế quanh nó."
 
 verificationNeeded:
-  - "Confirm the Northport and Westports split of Port Klang's 15.14 million TEU — MOT publishes only the combined figure and no operator breakdown was found on an official source"
-  - "Confirm a standalone Kota Kinabalu port figure — MOT reports Sabah as a single aggregate of all ports"
-  - "Confirm full-year 2025 air cargo by airport — only Q4 2025 is published and the 2025 transport statistics yearbook does not yet exist. Malaysia Airports publishes no traffic statistics beyond December 2024 and never published cargo tonnage by airport"
-  - "Confirm any official ECRL freight capacity in tonnes, TEU or train frequency — no such figure was located. The commonly quoted 53 million tonnes and 13.7 million tonnes figures have no official source and must not be published"
-  - "Confirm the ECRL route length — the Ministry of Transport's own page says 640 km while Malaysia Rail Link and the ECRL project site both say 665 km. The ministry page is materially stale and 665 km is used here"
-  - "Confirm the ECRL station list against a live official page — the 20-station list rests on an archived copy of MRL's official alignment map, which neither live site currently publishes as text"
-  - "Confirm SAIDI by state — neither the Energy Commission nor TNB publishes a state-level breakdown beyond the Peninsular aggregate, Labuan, Sabah and Kuala Lumpur"
-  - "Confirm fixed broadband penetration per 100 households — MCMC publishes per 100 premises only, and its own note says the figure includes business and government subscriptions"
-  - "Confirm the current rail siding status at Port of Tanjung Pelepas and Westports — both are listed by KTMB but neither port authority confirms an active siding"
-  - "Confirm the Gemas to Johor Bahru electrified double track formal launch date and project cost — neither was located"
+  - "Xác nhận phần chia giữa Northport và Westports trong 15.14 triệu TEU của Port Klang — MOT chỉ công bố con số gộp và không tìm thấy phân tách theo nhà điều hành trên nguồn chính thức nào"
+  - "Xác nhận một con số riêng cho cảng Kota Kinabalu — MOT báo cáo Sabah như một tổng gộp duy nhất của tất cả các cảng"
+  - "Xác nhận hàng hóa hàng không cả năm 2025 theo sân bay — chỉ có Q4 2025 được công bố và niên giám thống kê giao thông 2025 chưa tồn tại. Malaysia Airports không công bố số liệu lưu lượng sau tháng 12 năm 2024 và chưa từng công bố khối lượng hàng hóa theo sân bay"
+  - "Xác nhận bất kỳ công suất vận tải hàng hóa chính thức nào của ECRL tính bằng tấn, TEU hay tần suất tàu — không tìm thấy con số nào như vậy. Các con số thường được trích dẫn 53 triệu tấn và 13.7 triệu tấn không có nguồn chính thức và không được công bố"
+  - "Xác nhận chiều dài tuyến ECRL — trang của chính Ministry of Transport ghi 640 km trong khi Malaysia Rail Link và trang dự án ECRL đều ghi 665 km. Trang của bộ đã lỗi thời đáng kể và ở đây dùng 665 km"
+  - "Xác nhận danh sách nhà ga ECRL với một trang chính thức trực tuyến — danh sách 20 nhà ga dựa vào một bản lưu trữ của bản đồ tuyến chính thức của MRL, vốn không trang trực tuyến nào hiện công bố dưới dạng văn bản"
+  - "Xác nhận SAIDI theo bang — cả Energy Commission lẫn TNB đều không công bố phân tách cấp bang ngoài tổng gộp Bán đảo (Peninsular), Labuan, Sabah và Kuala Lumpur"
+  - "Xác nhận tỷ lệ thâm nhập băng rộng cố định trên 100 hộ gia đình — MCMC chỉ công bố trên 100 cơ sở (premises), và chính ghi chú của cơ quan này nói rằng con số bao gồm cả thuê bao doanh nghiệp và chính phủ"
+  - "Xác nhận tình trạng nhánh đường sắt (rail siding) hiện tại tại Port of Tanjung Pelepas và Westports — cả hai đều được KTMB liệt kê nhưng không cơ quan cảng nào xác nhận có nhánh đang hoạt động"
+  - "Xác nhận ngày khánh thành chính thức và chi phí dự án tuyến đường đôi điện khí hóa Gemas đến Johor Bahru — không tìm thấy thông tin nào"
 
 lang: "vi"
 masterLanguage: "en"

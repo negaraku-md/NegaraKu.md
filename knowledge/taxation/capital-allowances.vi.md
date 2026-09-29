@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0051
 title: "Khấu hao vốn theo Schedule 3, tính toán từ đầu đến cuối"
-seoTitle: "Capital Allowances Malaysia: Schedule 3 Explained"
+seoTitle: "Khấu hao vốn Malaysia: Schedule 3 được giải thích"
 slug: "capital-allowances"
 category: "taxation"
 subcategory: ["deductions-and-allowances"]

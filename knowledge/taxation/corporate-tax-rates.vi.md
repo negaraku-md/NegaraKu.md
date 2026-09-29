@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0001
 title: "Các mức thuế doanh nghiệp của Malaysia"
-seoTitle: "Malaysia Corporate Tax Rates & SME Test (2026)"
+seoTitle: "Thuế suất thuế thu nhập doanh nghiệp Malaysia & Tiêu chí SME (2026)"
 slug: "corporate-tax-rates"
 category: "taxation"
 subcategory: ["corporate-tax"]
@@ -36,7 +36,7 @@ faq:
     a: "Một công ty hiện hữu nộp không muộn hơn 30 ngày trước khi kỳ cơ sở bắt đầu. Một công ty mới có kỳ cơ sở đầu tiên ít nhất sáu tháng nộp trong vòng ba tháng kể từ khi bắt đầu hoạt động, với các đợt nộp bắt đầu từ tháng thứ sáu. Các sửa đổi được phép trong tháng thứ 6, thứ 9 hoặc thứ 11."
 
 verificationNeeded:
-  - "Confirm whether Budget 2027 or any subsequent Finance Act alters the SME bands or the 20% foreign-ownership limb"
+  - "Xác nhận liệu Budget 2027 hay bất kỳ Finance Act nào sau đó có thay đổi các bậc thuế áp dụng cho SME hoặc nhánh sở hữu nước ngoài 20% hay không"
 
 obligations:
   - what: "Nộp dự toán thuế phải nộp CP204"

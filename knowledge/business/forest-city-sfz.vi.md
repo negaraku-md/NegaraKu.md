@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0048
 title: "Đặc khu Tài chính Forest City — Không giống với JS-SEZ"
-seoTitle: "Forest City Special Financial Zone Explained"
+seoTitle: "Giải thích về Đặc khu Tài chính Forest City (Special Financial Zone)"
 socialTitle: "Forest City là một đặc khu tài chính do Ủy ban Chứng khoán quản lý. JS-SEZ là một gói ưu đãi về sản xuất và dịch vụ do MIDA điều hành. Chúng là những chương trình khác nhau."
 slug: "forest-city-sfz"
 category: "business"
@@ -39,9 +39,9 @@ faq:
     a: "Không. Các quy tắc loại một công ty mà trong các năm tính thuế được nêu cụ thể yêu cầu khoản khấu trừ đầu tư theo Phụ lục 7B (Schedule 7B), nắm giữ một ưu đãi theo Luật Xúc tiến Đầu tư năm 1986 (Promotion of Investments Act 1986), có một miễn trừ theo mục 127(3)(b) hoặc 127(3A), hoặc có một chương trình ưu đãi theo mục 154 được phê duyệt khác. Chỉ ba quy tắc khấu trừ được loại ra — các khoản khấu trừ theo Phụ lục 3, chi phí kiểm toán, và phí thư ký và nộp hồ sơ thuế."
 
 verificationNeeded:
-  - "No gazetted concessionary corporate tax rate order for Forest City financial institutions generally could be located. The eleven instruments of 3 October 2025 cover the single family office scheme, non-resident withholding relief, industrial building allowance, relocation cost deduction, real property gains tax and stamp duty. A separate concessionary rate for licensed banks or capital markets licensees, if announced, was not found in the gazette."
-  - "Whether Securities Commission guidelines issued under paragraph 6(d) of P.U.(A) 350/2025 impose further conditions beyond those in the rules — the rules require compliance with any such guidelines but do not reproduce them"
-  - "The number of family offices actually certified is reported in press coverage but was not verified against a Securities Commission publication"
+  - "Không tìm thấy lệnh về thuế suất thuế doanh nghiệp ưu đãi được đăng công báo áp dụng chung cho các tổ chức tài chính tại Forest City. Mười một văn kiện ngày 3 tháng 10 năm 2025 bao gồm chương trình single family office, miễn giảm thuế khấu trừ cho người không cư trú, khấu trừ nhà xưởng công nghiệp (industrial building allowance), khấu trừ chi phí di dời, thuế lãi vốn bất động sản (real property gains tax) và thuế tem (stamp duty). Một mức thuế suất ưu đãi riêng cho các ngân hàng được cấp phép hoặc bên được cấp phép thị trường vốn, nếu có công bố, không được tìm thấy trong công báo."
+  - "Liệu các hướng dẫn của Securities Commission ban hành theo đoạn 6(d) của P.U.(A) 350/2025 có áp đặt thêm điều kiện ngoài những điều kiện trong quy tắc hay không — quy tắc yêu cầu tuân thủ bất kỳ hướng dẫn nào như vậy nhưng không tái hiện nội dung của chúng"
+  - "Số lượng family office thực sự được chứng nhận được đưa tin trên báo chí nhưng chưa được xác minh với một ấn phẩm của Securities Commission"
 
 lang: "vi"
 masterLanguage: "en"

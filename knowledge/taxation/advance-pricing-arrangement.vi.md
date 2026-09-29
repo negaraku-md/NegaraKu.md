@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0120
 title: "Thỏa thuận định giá trước tại Malaysia — Ai đủ điều kiện, chi phí bao nhiêu và các mốc thời gian dài đến đâu"
-seoTitle: "Advance Pricing Arrangement Malaysia — Rules, Fees, Rollback"
+seoTitle: "Thỏa thuận định giá trước Malaysia — Quy tắc, phí, hồi tố"
 slug: "advance-pricing-arrangement"
 category: "taxation"
 subcategory: ["international-tax"]
@@ -38,9 +38,9 @@ faq:
     a: "Đối với các giao dịch được bảo hộ trong kỳ được bảo hộ thì có. Đoạn 23.1 của Hướng dẫn nêu rằng không có hình phạt nào theo Đạo luật sẽ được áp đặt trong khi thỏa thuận còn hiệu lực và người nộp thuế tuân thủ các điều khoản của nó. Đoạn 23.2 loại trừ các năm hồi tố — các điều chỉnh đối với những năm đó vẫn có thể chịu các điều khoản về hình phạt hoặc phụ thu liên quan, bao gồm cả khoản phụ thu theo s.140A(3C)."
 
 verificationNeeded:
-  - "The typical elapsed time from pre-filing request to a signed arrangement in Malaysia — LHDN publishes no service standard for this and paragraph 19.1 of the Guidelines expressly declines to state one"
-  - "Whether LHDN maintains a published statistic of APAs concluded, in progress or declined — no such publication was located on hasil.gov.my"
-  - "Paragraph 9.3 of the Guidelines sets a permissible period for preliminary discussion of at least three months before the pre-filing request; confirm the current practice with the Department of International Taxation before scheduling"
+  - "Thời gian trôi qua điển hình từ yêu cầu tiền nộp hồ sơ đến một thỏa thuận được ký tại Malaysia — LHDN không công bố tiêu chuẩn dịch vụ nào cho việc này và đoạn 19.1 của Hướng dẫn từ chối một cách rõ ràng việc nêu ra một tiêu chuẩn"
+  - "Liệu LHDN có duy trì một thống kê được công bố về các APA đã kết thúc, đang tiến hành hay bị từ chối hay không — không tìm thấy ấn phẩm nào như vậy trên hasil.gov.my"
+  - "Đoạn 9.3 của Hướng dẫn đặt ra một khoảng thời gian cho phép để thảo luận sơ bộ ít nhất ba tháng trước yêu cầu tiền nộp hồ sơ; hãy xác nhận thực tiễn hiện hành với Cục Thuế Quốc tế (Department of International Taxation) trước khi lên lịch"
 
 obligations:
   - what: "Nộp yêu cầu bằng văn bản cho một cuộc họp tiền nộp hồ sơ"

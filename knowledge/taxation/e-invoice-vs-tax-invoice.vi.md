@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0006
 title: "Hóa đơn điện tử và hóa đơn thuế SST: Hai chế độ, hai tài liệu"
-seoTitle: "e-Invoice vs Tax Invoice Malaysia: LHDN vs RMCD"
+seoTitle: "Hóa đơn điện tử so với hóa đơn thuế Malaysia: LHDN so với RMCD"
 slug: "e-invoice-vs-tax-invoice"
 category: "taxation"
 subcategory: ["e-invoicing"]
@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Các doanh nghiệp đã đăng ký SST mà cũng nằm trong phạm vi của hóa đơn điện tử, và bất kỳ ai thiết kế một mẫu hóa đơn phải thỏa mãn cả hai cơ quan quản lý."
 
 verificationNeeded:
-  - "Whether RMCD has issued a dedicated guide reconciling the e-Invoice visual representation with the SST invoice particulars — none was located on mysst.customs.gov.my"
+  - "Liệu RMCD đã ban hành một hướng dẫn chuyên biệt dung hòa bản thể hiện trực quan của hóa đơn điện tử với các thông tin bắt buộc của hóa đơn SST hay chưa — không tìm thấy hướng dẫn nào trên mysst.customs.gov.my"
 
 lang: "vi"
 masterLanguage: "en"

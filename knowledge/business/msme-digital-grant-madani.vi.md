@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0141
 title: "MSME Digital Grant MADANI: Một khoản trợ cấp đối ứng 50% để số hóa"
-seoTitle: "MSME Digital Grant MADANI Malaysia: How the 50% Matching Grant Works"
+seoTitle: "MSME Digital Grant MADANI tại Malaysia: Cách hoạt động của Trợ cấp Đối ứng 50%"
 slug: "msme-digital-grant-madani"
 category: "business"
 subcategory: ["financing"]

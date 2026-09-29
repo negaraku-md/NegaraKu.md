@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0036
 title: "Tình trạng Malaysia Digital — Cái gì đã thay thế MSC Malaysia, và ai đủ điều kiện"
-seoTitle: "Malaysia Digital Status MDEC Explained"
+seoTitle: "Giải thích Malaysia Digital Status của MDEC"
 socialTitle: "MSC Malaysia được đổi thương hiệu, không phải thay thế. Và tình trạng Malaysia Digital tự nó hoàn toàn không cho bạn miễn trừ thuế."
 slug: "mdec-digital-status"
 category: "business"
@@ -39,10 +39,10 @@ faq:
     a: "Các hướng dẫn loại trừ rõ ràng thương mại, sản xuất, các dịch vụ viễn thông, ngân hàng số, thuê ngoài phi kỹ thuật như các trung tâm cuộc gọi giá trị thấp, nhập liệu và thuê ngoài quy trình tuyển dụng, và các chuỗi cung ứng cho thuốc lá, rượu và cờ bạc. Lưu ý rằng danh sách điều kiện cho Tình trạng MD rộng hơn danh sách đủ điều kiện cho ưu đãi thuế."
 
 verificationNeeded:
-  - "The gazetted subsidiary legislation for the current MD Tax Incentive could not be located on lom.agc.gov.my or hasil.gov.my. The guidelines state the reduced rate is granted under s.65B and the allowance under s.127(3)(b) of the Income Tax Act 1967 and refer to the subsidiary legislation in the future tense — do not cite a P.U.(A) number for the MD incentive until one is confirmed."
-  - "Confirm the current list of designated MD Cybercities and Cybercentres, and how existing designations map onto the MD Hub, MD Nexus and MD Tech Zone categories under MD Location Recognition"
-  - "Confirm whether the MD Tax Incentive application window closing 31 December 2027 has been extended"
-  - "DESAC (the Digital Ecosystem Acceleration Scheme) is published by MIDA, not MDEC, and is not listed on MDEC's Malaysia Digital incentives page — confirm the relationship between DESAC and the MD Tax Incentive before treating them as alternatives"
+  - "Không tìm thấy văn bản dưới luật được đăng công báo cho MD Tax Incentive hiện hành trên lom.agc.gov.my hay hasil.gov.my. Các hướng dẫn nêu rằng thuế suất giảm được cấp theo s.65B và khoản khấu trừ theo s.127(3)(b) của Income Tax Act 1967 và đề cập đến văn bản dưới luật ở thì tương lai — không trích dẫn số P.U.(A) cho ưu đãi MD cho đến khi có số được xác nhận."
+  - "Xác nhận danh sách hiện hành các MD Cybercities và Cybercentres được chỉ định, và cách các chỉ định hiện có ánh xạ vào các hạng mục MD Hub, MD Nexus và MD Tech Zone theo MD Location Recognition"
+  - "Xác nhận liệu thời hạn nộp hồ sơ MD Tax Incentive đóng vào ngày 31 tháng 12 năm 2027 có được gia hạn hay không"
+  - "DESAC (the Digital Ecosystem Acceleration Scheme) do MIDA công bố, không phải MDEC, và không được liệt kê trên trang ưu đãi Malaysia Digital của MDEC — hãy xác nhận mối quan hệ giữa DESAC và MD Tax Incentive trước khi coi chúng là các lựa chọn thay thế"
 
 obligations:
   - what: "Đáp ứng các điều kiện sau khi trao của Tình trạng MD"

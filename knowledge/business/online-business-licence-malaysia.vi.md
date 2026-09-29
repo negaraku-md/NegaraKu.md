@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0033
 title: "Bạn có cần một giấy phép để bán hàng trực tuyến tại Malaysia không?"
-seoTitle: "Online Business Licence Malaysia: The Real Rules"
+seoTitle: "Giấy phép Kinh doanh Trực tuyến tại Malaysia: Những quy tắc thực sự"
 slug: "online-business-licence-malaysia"
 category: "business"
 subcategory: ["licensing"]
@@ -38,7 +38,7 @@ faq:
     a: "Điều đó phụ thuộc hoàn toàn vào hội đồng, và họ thực sự bất đồng. Selangor đã ban hành một hướng dẫn năm 2022 cho việc cấp phép kinh doanh trực tuyến, rõ ràng theo mục s.107(1) của Luật Chính quyền Địa phương năm 1976 (Local Government Act 1976), và MBPJ công bố một giấy phép kinh doanh trực tuyến tại nhà với các điều kiện — kinh doanh được tiến hành hoàn toàn trực tuyến, một mức trần 25 phần trăm diện tích sàn xây dựng, sự đồng ý của hàng xóm và ban quản lý, và một danh sách các hoạt động bị cấm. Các hội đồng khác công bố điều ngược lại hoặc không gì cả. Hãy hỏi hội đồng của bạn."
 
 verificationNeeded:
-  - "Whether an offence created by subsidiary legislation attracts the general penalty in s.145 of the Consumer Protection Act 1999 — regulation 9 creates the offence but prescribes no penalty, so this is an inference"
+  - "Liệu một hành vi phạm tội do văn bản dưới luật tạo ra có chịu hình phạt chung tại s.145 của Consumer Protection Act 1999 hay không — regulation 9 tạo ra hành vi phạm tội nhưng không quy định hình phạt, nên đây là một suy luận"
 
 lang: "vi"
 masterLanguage: "en"

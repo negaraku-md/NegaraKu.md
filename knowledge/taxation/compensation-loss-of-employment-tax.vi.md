@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0142
 title: "Khoản bồi thường cho việc mất việc làm có chịu thuế tại Malaysia không?"
-seoTitle: "Compensation for Loss of Employment: Tax in Malaysia (Schedule 6)"
+seoTitle: "Bồi thường mất việc làm: Thuế tại Malaysia (Schedule 6)"
 slug: "compensation-loss-of-employment-tax"
 category: "taxation"
 subcategory: ["personal-tax"]

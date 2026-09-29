@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0073
 title: "Tòa án Malaysia nào xét xử tranh chấp kinh doanh của bạn"
-seoTitle: "Malaysian Court Jurisdiction for Business Disputes"
+seoTitle: "Thẩm quyền của Tòa án Malaysia đối với Tranh chấp Kinh doanh"
 slug: "malaysia-courts-business-disputes"
 category: "business"
 subcategory: ["contracts-disputes"]
@@ -24,9 +24,9 @@ keyTakeaways:
 appliesTo: "Các doanh nghiệp đang quyết định nộp một khiếu kiện thương mại ở đâu, và bất kỳ ai định giá chi phí và rủi ro kháng cáo của một tranh chấp trước khi nó bắt đầu."
 
 verificationNeeded:
-  - "Current filing, sealing and service fees for each registry — no official fee schedule was retrievable at the time of writing"
-  - "Limitation periods for contract claims arising in Sabah and Sarawak, which are governed by their own ordinances and not by the Limitation Act 1953"
-  - "The practice directions constituting the specialised High Court divisions (New Commercial Court, Construction Court, Intellectual Property Court) and their allocation criteria — these are administrative arrangements of the Judiciary, not statutory courts"
+  - "Các mức phí nộp đơn, đóng dấu và tống đạt hiện hành cho từng cơ quan đăng ký (registry) — không truy xuất được biểu phí chính thức nào tại thời điểm viết bài"
+  - "Thời hiệu đối với các khiếu kiện hợp đồng phát sinh tại Sabah và Sarawak, vốn chịu sự điều chỉnh của các pháp lệnh riêng của từng bang chứ không phải Limitation Act 1953"
+  - "Các chỉ thị thực hành (practice directions) cấu thành các phân tòa chuyên trách của High Court (New Commercial Court, Construction Court, Intellectual Property Court) và tiêu chí phân bổ của chúng — đây là các sắp xếp hành chính của ngành Tư pháp, không phải các tòa án luật định"
 
 lang: "vi"
 masterLanguage: "en"

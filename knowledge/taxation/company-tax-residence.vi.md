@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0012
 title: "Khi nào một công ty là đối tượng cư trú thuế tại Malaysia?"
-seoTitle: "Company Tax Residence Malaysia: Management and Control"
+seoTitle: "Cư trú thuế của công ty tại Malaysia: Quản lý và Kiểm soát"
 slug: "company-tax-residence"
 category: "taxation"
 subcategory: ["corporate-tax"]
@@ -38,7 +38,7 @@ faq:
     a: "Điều 8(2) quy định rằng một khi Tổng Giám đốc đã xác lập nơi cư trú cho một năm tính thuế, công ty được coi là cư trú cho mỗi năm tính thuế tiếp theo cho đến khi có bằng chứng ngược lại. Gánh nặng chuyển sang công ty để chứng minh rằng việc quản lý và kiểm soát đã chuyển ra ngoài."
 
 verificationNeeded:
-  - "Confirm current Certificate of Residence application requirements and processing times on the LHDN e-Residence service; the residence test itself is sourced but the application mechanics are not covered by Public Ruling No. 9/2019"
+  - "Xác nhận các yêu cầu nộp đơn xin Giấy chứng nhận cư trú hiện hành và thời gian xử lý trên dịch vụ e-Residence của LHDN; bản thân tiêu chí cư trú đã có nguồn nhưng cơ chế nộp đơn không được đề cập trong Public Ruling No. 9/2019"
 
 lang: "vi"
 masterLanguage: "en"

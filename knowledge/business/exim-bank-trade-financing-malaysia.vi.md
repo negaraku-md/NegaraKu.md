@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0114
 title: "EXIM Bank Malaysia: Bảo hiểm tín dụng xuất khẩu và tài trợ thương mại"
-seoTitle: "EXIM Bank Malaysia: Trade Credit Takaful, Insurance and Export Financing"
+seoTitle: "EXIM Bank Malaysia: Trade Credit Takaful, Bảo hiểm và Tài trợ Xuất khẩu"
 slug: "exim-bank-trade-financing-malaysia"
 category: "business"
 subcategory: ["trade"]
@@ -39,10 +39,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Current pricing, eligibility, and coverage caps for Trade Credit Takaful/Insurance (confirm against the latest Product Disclosure Sheet before relying on the 90%/95% figures)."
-  - "The specific overseas markets EXIM Bank prioritises — the source pages describe 'non-traditional markets' generically without naming regions."
-  - "ECR pre-shipment (120-day) and post-shipment (183-day) tenures and the no-collateral term, which may be updated periodically."
-  - "Details of EXIM Bank's Islamic banking window licence and its integration under the BPMB group post-1 May 2025."
+  - "Mức giá, điều kiện đủ tư cách và giới hạn bảo hiểm hiện hành đối với Trade Credit Takaful/Insurance (hãy xác nhận với Product Disclosure Sheet mới nhất trước khi dựa vào các con số 90%/95%)."
+  - "Các thị trường nước ngoài cụ thể mà EXIM Bank ưu tiên — các trang nguồn mô tả 'non-traditional markets' một cách chung chung mà không nêu tên khu vực."
+  - "Kỳ hạn ECR trước giao hàng (120 ngày) và sau giao hàng (183 ngày) cùng điều khoản không cần tài sản bảo đảm, vốn có thể được cập nhật định kỳ."
+  - "Chi tiết về giấy phép cửa sổ ngân hàng Hồi giáo (Islamic banking window) của EXIM Bank và việc hợp nhất dưới tập đoàn BPMB sau ngày 1 tháng 5 năm 2025."
 revisions:
   - revision: 0
     date: 2026-08-07

@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0049
 title: "Ai sở hữu sở hữu trí tuệ do nhân viên và nhà thầu của bạn tạo ra?"
-seoTitle: "IP Ownership Malaysia: Employees and Contractors"
+seoTitle: "Sở hữu IP tại Malaysia: Người lao động và Nhà thầu"
 slug: "ip-ownership-malaysia"
 category: "business"
 subcategory: ["intellectual-property"]
@@ -39,9 +39,9 @@ faq:
     a: "Vì các mặc định luật định trông như thể chúng giải quyết mọi thứ, nên không ai lập giấy tờ về chuỗi quyền sở hữu — và rồi một bên mua lại yêu cầu một sự chuyển nhượng có chữ ký cho mỗi tác phẩm trọng yếu và không có tờ nào. Trao quyền luật định là một quy tắc của luật, không phải một văn bản. Ở nơi các điều khoản của chính nhà thầu loại trừ nó, ở nơi tác phẩm có trước sự thuê mướn, hoặc ở nơi một đồng sáng lập xây phiên bản đầu tiên trước khi công ty tồn tại, mặc định hoàn toàn không giúp gì cho bạn."
 
 verificationNeeded:
-  - "There is no Malaysian statutory definition of course of employment for copyright or patent purposes — the boundary is a question of fact and case law; take advice on a specific dispute"
-  - "Confirm whether MyIPO currently requires the original executed assignment or accepts a certified copy for recordal under Trademarks s.65, Patents s.39 and Industrial Designs s.30"
-  - "Confirm the treatment of works created by an independent contractor engaged through a corporate intermediary, where the individual author is neither employed by nor directly commissioned by the paying party"
+  - "Không có định nghĩa luật định của Malaysia về course of employment cho mục đích bản quyền hay bằng sáng chế — ranh giới là vấn đề của sự kiện thực tế và án lệ; hãy tìm tư vấn cho từng tranh chấp cụ thể"
+  - "Xác nhận liệu MyIPO hiện có yêu cầu bản gốc văn bản chuyển nhượng đã ký hay chấp nhận bản sao có chứng thực để ghi nhận theo Trademarks s.65, Patents s.39 và Industrial Designs s.30"
+  - "Xác nhận cách xử lý đối với các tác phẩm do nhà thầu độc lập tạo ra thông qua một pháp nhân trung gian, khi tác giả cá nhân không được bên chi trả thuê làm việc cũng không được bên đó đặt hàng trực tiếp"
 
 obligations:
   - what: "Ghi nhận một sự chuyển nhượng hoặc chuyển giao một nhãn hiệu đã đăng ký"

@@ -27,8 +27,8 @@ faq:
     a: "Ông từng là Bộ trưởng Tài chính (1991–1998) và Phó Thủ tướng (1993–1998), cùng các chức vụ nội các trước đó, trước khi bị cách chức năm 1998."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal review before publication. This biography refers to criminal charges, convictions and a royal pardon (legal-proceedings). These are stated only as matters of public record, neutrally and without detail, and must be re-checked against primary sources (court records, the royal pardon) and reviewed by a qualified reviewer before publication."
-  - "Exact dates (cabinet posts, dismissal, release, appointment as PM) to be confirmed against the Prime Minister's Office and court records."
+  - "NHẠY CẢM / cần con người + xem xét pháp lý trước khi công bố. Tiểu sử này đề cập đến các cáo buộc hình sự, các bản kết án và một lệnh ân xá của hoàng gia (legal-proceedings). Những điều này chỉ được nêu như các vấn đề thuộc hồ sơ công khai, một cách trung lập và không đi vào chi tiết, và phải được kiểm tra lại so với các nguồn sơ cấp (hồ sơ tòa án, lệnh ân xá của hoàng gia) và được một người phê duyệt đủ trình độ xem xét trước khi công bố."
+  - "Các ngày chính xác (các chức vụ nội các, việc cách chức, việc được trả tự do, việc bổ nhiệm làm Thủ tướng) cần được xác nhận so với Văn phòng Thủ tướng (Prime Minister's Office) và hồ sơ tòa án."
 
 lang: "vi"
 masterLanguage: "en"

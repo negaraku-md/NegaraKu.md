@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0014
 title: "Tham chiếu các trường dữ liệu hóa đơn điện tử"
-seoTitle: "e-Invoice Data Fields Malaysia: 55 Fields Reference"
+seoTitle: "Trường dữ liệu hóa đơn điện tử Malaysia: Tham chiếu 55 trường"
 slug: "e-invoice-data-fields"
 category: "taxation"
 subcategory: ["e-invoicing"]
@@ -24,8 +24,8 @@ keyTakeaways:
 appliesTo: "Các nhà phát triển xây dựng một tích hợp MyInvois, các chuyên gia tư vấn ERP ánh xạ dữ liệu chủ, và các nhóm tài chính gỡ lỗi các lần nộp bị từ chối."
 
 verificationNeeded:
-  - "The full published list of granular validation error codes (CF, DS, ST prefixes) — the SDK documents the seven validator categories and standard HTTP error codes but does not publish an exhaustive code-to-condition table"
-  - "Per-endpoint API rate limits — the SDK refers to Integration Practices without stating numeric limits on the FAQ page"
+  - "Danh sách đầy đủ được công bố về các mã lỗi kiểm tra hợp lệ chi tiết (tiền tố CF, DS, ST) — SDK ghi nhận bảy nhóm bộ kiểm tra và các mã lỗi HTTP tiêu chuẩn nhưng không công bố bảng ánh xạ đầy đủ từ mã sang điều kiện"
+  - "Giới hạn tần suất gọi API theo từng endpoint — SDK dẫn chiếu đến Integration Practices mà không nêu các giới hạn bằng số trên trang FAQ"
 
 lang: "vi"
 masterLanguage: "en"

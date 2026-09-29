@@ -1,7 +1,7 @@
 ---
 topicId: "MY-BIZ-0121"
 title: "MyIPO: Cơ quan Sở hữu Trí tuệ của Malaysia và cách đăng ký mọi loại sở hữu trí tuệ"
-seoTitle: "MyIPO: Malaysia's Intellectual Property Office"
+seoTitle: "MyIPO: Cơ quan Sở hữu Trí tuệ của Malaysia"
 socialTitle: "Sáng chế, nhãn hiệu, bản quyền: MyIPO thực sự bảo hộ những gì tại Malaysia (và những gì nó không thể)"
 slug: "myipo-intellectual-property-corporation"
 category: "business"
@@ -41,9 +41,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Exact current patent official fee schedule (search summaries cite ~RM500 online filing plus separate examination fees / ~RM1,390 all-in) — confirm each line item against MyIPO's official Patent Forms and Fees page before stating a total"
-  - "Latest annual IP application/registration statistics (trademark and patent filings per year) from MyIPO's Statistic page for a current scale figure"
-  - "Current headcount of registered GIs beyond the 127 figure (as of December 2024) if a newer number is published"
+  - "Biểu phí chính thức chính xác hiện hành cho bằng sáng chế (các bản tóm tắt tìm kiếm nêu ~RM500 nộp trực tuyến cộng phí thẩm định riêng / ~RM1,390 trọn gói) — hãy xác nhận từng khoản mục với trang Patent Forms and Fees chính thức của MyIPO trước khi nêu tổng"
+  - "Số liệu thống kê nộp đơn/đăng ký IP thường niên mới nhất (số đơn nhãn hiệu và bằng sáng chế mỗi năm) từ trang Statistic của MyIPO để có một con số quy mô hiện hành"
+  - "Số lượng GI đã đăng ký hiện tại vượt quá con số 127 (tính đến tháng 12 năm 2024) nếu có con số mới hơn được công bố"
 updated: 2026-08-14
 sources:
   - title: "Bộ Thương mại Nội địa và Chi phí Sinh hoạt (KPDN) — trang chính thức (Ministry of Domestic Trade and Cost of Living (KPDN) — official site)"

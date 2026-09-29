@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0117
 title: "Chứng nhận halal cho doanh nghiệp Malaysia: Quy trình JAKIM, chi phí và thời gian"
-seoTitle: "JAKIM Halal Certification Malaysia: Process, Fees and Timeline"
+seoTitle: "Chứng nhận Halal JAKIM tại Malaysia: Quy trình, Phí và Tiến độ"
 slug: "halal-certification-malaysia"
 category: "business"
 subcategory: ["halal"]
@@ -46,9 +46,9 @@ revisions:
 
 updated: 2026-08-07
 verificationNeeded:
-  - "Confirm all fee figures (RM20/RM200 processing; RM100/400/700/1,000 annual bands) against the current official MYeHALAL fee schedule at myehalal.halal.gov.my — the four load-bearing citations are commercial/consultancy sources, not the primary JAKIM schedule."
-  - "Confirm the renewal window (submit six-to-three months before expiry) against JAKIM's Malaysian Halal Certification Procedure Manual (MPPHM), which is the primary rule behind the cited secondary source."
-  - "The commercial market-access point (that many retailers and institutional buyers prefer or require certified suppliers) is a general industry observation, not a cited statistic — confirm or attribute before treating as fact."
+  - "Xác nhận tất cả các con số phí (RM20/RM200 phí xử lý; các bậc thường niên RM100/400/700/1,000) với biểu phí MYeHALAL chính thức hiện hành tại myehalal.halal.gov.my — bốn trích dẫn cốt lõi là nguồn thương mại/tư vấn, không phải biểu phí gốc của JAKIM."
+  - "Xác nhận khoảng thời gian gia hạn (nộp từ sáu đến ba tháng trước khi hết hạn) với Malaysian Halal Certification Procedure Manual (MPPHM) của JAKIM, vốn là quy tắc gốc đứng sau nguồn thứ cấp được trích dẫn."
+  - "Luận điểm về tiếp cận thị trường thương mại (rằng nhiều nhà bán lẻ và người mua tổ chức ưu tiên hoặc yêu cầu nhà cung cấp được chứng nhận) là một nhận định chung của ngành, không phải một số liệu được trích dẫn — hãy xác nhận hoặc dẫn nguồn trước khi coi là sự thật."
 sources:
   - title: "P.U. (A) 431 — Lệnh Mô tả Thương mại (Chứng nhận và Ghi nhãn Halal) 2011 (P.U. (A) 431 — Trade Descriptions (Certification and Marking of Halal) Order 2011)"
     url: "https://food.chemlinked.com/database/view/5640"

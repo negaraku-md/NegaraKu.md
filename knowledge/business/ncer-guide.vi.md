@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0052
 title: "Hành lang phía Bắc (NCER) — NCIA thực sự có thể cho bạn những gì"
-seoTitle: "NCER Northern Corridor Incentives Malaysia"
+seoTitle: "Ưu đãi NCER Hành lang phía Bắc (Northern Corridor) tại Malaysia"
 socialTitle: "NCIA không thể cấp cho bạn một ưu đãi thuế. Mục 6(e) của chính Đạo luật của nó nói nó chỉ có thể khuyến nghị một ưu đãi."
 slug: "ncer-guide"
 category: "business"
@@ -39,11 +39,11 @@ faq:
     a: "Các chương trình trợ cấp và nhân tài mà nó tự giải ngân, chủ yếu là Trung tâm Đổi mới Công nghệ NCER (NCER Technology Innovation Centre). Theo dòng ATMP của nó, phí khóa học được giới hạn ở RM6,000 mỗi người và trợ cấp ở RM600 mỗi người mỗi tháng trong sáu tháng, với tối thiểu 64 giờ đào tạo. Việc giải ngân theo hoàn trả, lũy tiến, trừ đi một khoản phí hành chính 5 phần trăm."
 
 verificationNeeded:
-  - "NCIA's own NTAX page cited its broad-based incentives as resting on P.U.(A) 112 and 113 of the Income Tax Act 1967 without a year. That citation could not be resolved against the AGC gazette for 2010, 2012 or 2013 — do not reproduce it."
-  - "No gazetted income tax exemption order naming the Northern Corridor Economic Region could be located on lom.agc.gov.my as at 20 July 2026"
-  - "Whether NCIA has published a successor to the NCER Strategic Development Plan 2021–2025, which expired at the end of 2025"
-  - "The APIRC targets widely reported as 12 SMEs and RM8.5 billion by 2030 appear only in news media and could not be verified on any NCIA or MIDA source"
-  - "Whether any tax incentive specific to the National Semiconductor Strategy has been gazetted — none was found"
+  - "Chính trang NTAX của NCIA trích dẫn các ưu đãi trên diện rộng của mình là dựa trên P.U.(A) 112 và 113 của Income Tax Act 1967 mà không nêu năm. Trích dẫn đó không thể đối chiếu được với công báo AGC cho năm 2010, 2012 hay 2013 — không tái hiện nó."
+  - "Không tìm thấy lệnh miễn thuế thu nhập được đăng công báo nào nêu tên Northern Corridor Economic Region trên lom.agc.gov.my tính đến ngày 20 tháng 7 năm 2026"
+  - "Liệu NCIA đã công bố một văn bản kế nhiệm cho NCER Strategic Development Plan 2021–2025, vốn hết hiệu lực vào cuối năm 2025, hay chưa"
+  - "Các mục tiêu APIRC được đưa tin rộng rãi là 12 SME và RM8.5 tỷ vào năm 2030 chỉ xuất hiện trên truyền thông báo chí và không thể được xác minh trên bất kỳ nguồn nào của NCIA hay MIDA"
+  - "Liệu có bất kỳ ưu đãi thuế nào riêng cho National Semiconductor Strategy đã được đăng công báo hay không — không tìm thấy ưu đãi nào"
 
 lang: "vi"
 masterLanguage: "en"

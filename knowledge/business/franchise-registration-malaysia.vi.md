@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0115
 title: "Nhượng quyền thương mại tại Malaysia: Đăng ký bên nhượng quyền hoặc bên nhận quyền"
-seoTitle: "Franchise Registration in Malaysia: Franchisor & Franchisee Guide"
+seoTitle: "Đăng ký Nhượng quyền tại Malaysia: Hướng dẫn cho Bên nhượng quyền & Bên nhận quyền"
 slug: "franchise-registration-malaysia"
 category: "business"
 subcategory: ["franchise"]
@@ -44,9 +44,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Current prescribed official fees for franchisor, franchisee and renewal applications under MyFEX 2.0 — the article no longer states amounts because no authoritative current figure could be confirmed (only a superseded RM1,000 fee under the Franchise (Forms and Fees) Regulations 1999). Confirm on the MyFEX 2.0 portal."
-  - "Exact MyFEX 2.0 launch date: most sources (Nixon Peabody, ICLG) give 28 July 2022, but ZICO Law gives 29 July 2022."
-  - "Current exact English name and acronym of the administering ministry — sources use both 'Ministry of Entrepreneur Development and Cooperatives (KUSKOP)' and 'Ministry of Entrepreneur and Cooperatives Development (MECD)'; the portal domain is kuskop.gov.my."
+  - "Các mức phí chính thức quy định hiện hành cho hồ sơ của bên nhượng quyền, bên nhận quyền và gia hạn theo MyFEX 2.0 — bài viết không còn nêu số tiền vì không thể xác nhận con số hiện hành có thẩm quyền (chỉ có mức phí RM1,000 đã bị thay thế theo Franchise (Forms and Fees) Regulations 1999). Hãy xác nhận trên cổng MyFEX 2.0."
+  - "Ngày ra mắt chính xác của MyFEX 2.0: hầu hết các nguồn (Nixon Peabody, ICLG) ghi là ngày 28 tháng 7 năm 2022, nhưng ZICO Law ghi là ngày 29 tháng 7 năm 2022."
+  - "Tên tiếng Anh và từ viết tắt chính xác hiện hành của bộ chủ quản — các nguồn dùng cả 'Ministry of Entrepreneur Development and Cooperatives (KUSKOP)' và 'Ministry of Entrepreneur and Cooperatives Development (MECD)'; tên miền cổng thông tin là kuskop.gov.my."
 revisions:
   - revision: 0
     date: 2026-08-07

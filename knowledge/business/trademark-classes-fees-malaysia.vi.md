@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0071
 title: "Các hạng nhãn hiệu và biểu phí MyIPO"
-seoTitle: "Trademark Classes and Fees Malaysia (MyIPO)"
+seoTitle: "Các hạng nhãn hiệu và biểu phí tại Malaysia (MyIPO)"
 slug: "trademark-classes-fees-malaysia"
 category: "business"
 subcategory: ["intellectual-property"]

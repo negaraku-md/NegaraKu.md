@@ -28,7 +28,7 @@ faq:
     a: "Nhiều vụ truy tố theo sau tại Malaysia và ở nước ngoài. Cựu Thủ tướng Najib Razak bị kết án trong vụ án liên quan SRC International (2020) và trong phiên xét xử 1MDB chính (tháng 12 năm 2025), và đã kháng cáo; nhà tài phiệt Jho Low vẫn đang lẩn trốn. Khi các vụ án hình sự và các kháng cáo tiếp diễn, đây là một vấn đề pháp lý đang diễn ra."
 
 verificationNeeded:
-  - "SENSITIVE / needs human + legal sign-off before publication (legal-proceedings). Key facts have been checked against reputable sources: the 26 Dec 2025 main-1MDB conviction and 15-year/RM11.4b sentence (CNN, Al Jazeera, PBS, Malay Mail), the 30 Dec 2025 appeal (Malay Mail), the Feb 2024 halving of the SRC sentence (CNN), the DOJ US$4.5b/US$1.1b figures (DOJ), and Jho Low's fugitive status. All convictions are under appeal and are described as such. A qualified human reviewer should still confirm current status before publishing, as it is a live matter."
+  - "NHẠY CẢM / cần con người + phê duyệt pháp lý trước khi công bố (legal-proceedings). Các dữ kiện chính đã được đối chiếu với các nguồn uy tín: bản kết án vụ 1MDB chính ngày 26 Dec 2025 và mức án 15 năm/RM11.4b (CNN, Al Jazeera, PBS, Malay Mail), đơn kháng cáo ngày 30 Dec 2025 (Malay Mail), việc giảm một nửa mức án SRC vào tháng 2 năm 2024 (CNN), các con số US$4.5b/US$1.1b của DOJ (DOJ), và tình trạng lẩn trốn của Jho Low. Tất cả các bản kết án đều đang bị kháng cáo và được mô tả như vậy. Một người phê duyệt đủ trình độ vẫn nên xác nhận tình trạng hiện hành trước khi công bố, vì đây là một vấn đề đang diễn ra."
 
 lang: "vi"
 masterLanguage: "en"

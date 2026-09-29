@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0118
 title: "Cấp phép nhập khẩu và xuất khẩu tại Malaysia: Chồng đăng ký của thương nhân"
-seoTitle: "Import & Export Licence Malaysia: AP, SIRIM, MAQIS & Customs Registration"
+seoTitle: "Giấy phép Nhập khẩu & Xuất khẩu tại Malaysia: AP, SIRIM, MAQIS & Đăng ký Hải quan"
 slug: "import-export-licence-malaysia"
 category: "business"
 subcategory: ["trade"]
@@ -47,10 +47,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Whether batik/textiles currently require a MITI Approved Permit — the live MITI AP portal (miti.gov.my/ap) lists motor vehicles, heavy machinery, iron & steel, and chemicals, not batik; confirm against the current Customs (Prohibition of Imports) Order."
-  - "Permit lead times in the planning table are practitioner-reported (DNE Logistics), not official SLAs — confirm current processing times with each agency; note MITI's own AP portal quotes 2–5 working days for processing, distinct from the arrival-planning buffer."
-  - "Exact current uCustoms declaration form designations across all ports — K1 (import) and K2 (export) are confirmed in use under uCustoms at major ports, but rollout was station-by-station."
-  - "MAQIS import-permit validity periods vary by commodity — verify the specific validity for any given consignment directly with MAQIS."
+  - "Liệu batik/hàng dệt may hiện có cần Approved Permit (AP) của MITI hay không — cổng AP trực tuyến của MITI (miti.gov.my/ap) liệt kê xe cơ giới, máy móc hạng nặng, sắt thép và hóa chất, chứ không có batik; hãy xác nhận với Customs (Prohibition of Imports) Order hiện hành."
+  - "Thời gian chờ cấp phép trong bảng kế hoạch do người hành nghề báo cáo (DNE Logistics), không phải SLA chính thức — hãy xác nhận thời gian xử lý hiện hành với từng cơ quan; lưu ý rằng chính cổng AP của MITI nêu 2–5 ngày làm việc để xử lý, khác với khoảng đệm dự phòng cho việc lập kế hoạch đến hàng."
+  - "Ký hiệu chính xác hiện hành của các mẫu khai báo uCustoms tại tất cả các cảng — K1 (nhập khẩu) và K2 (xuất khẩu) được xác nhận đang sử dụng trong uCustoms tại các cảng lớn, nhưng việc triển khai diễn ra theo từng trạm."
+  - "Thời hạn hiệu lực của giấy phép nhập khẩu MAQIS thay đổi theo mặt hàng — hãy xác minh thời hạn cụ thể cho từng lô hàng trực tiếp với MAQIS."
 
 updated: 2026-08-07
 sources:

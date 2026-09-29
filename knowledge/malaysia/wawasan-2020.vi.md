@@ -42,9 +42,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Rendering rasmi tajuk kertas kerja dalam bahasa Melayu ('Malaysia: Melangkah Ke Hadapan'): teks asal yang dirujuk berbahasa Inggeris ('Malaysia: The Way Forward'). Sahkan tajuk Melayu rasmi daripada arkib kerajaan."
-  - "Angka purata pertumbuhan tahunan 5.8% (1990-2018) berasal daripada laporan media (The Rakyat Post) yang memetik data Bank Dunia, bukan siaran rasmi Bank Dunia secara langsung; sahkan terhadap data pertumbuhan KDNK rasmi."
-  - "Tarikh dan tempat pelancaran (28 Februari 1991, mesyuarat sulung Majlis Perdagangan Malaysia) disahkan menerusi teks ucapan dan kertas akademik; sahkan sekali lagi terhadap arkib rasmi Jabatan Perdana Menteri jika tersedia."
+  - "Cách thể hiện chính thức tiêu đề của bản tham luận trong tiếng Mã Lai ('Malaysia: Melangkah Ke Hadapan'): văn bản gốc được dẫn là tiếng Anh ('Malaysia: The Way Forward'). Hãy xác nhận tiêu đề tiếng Mã Lai chính thức từ kho lưu trữ của chính phủ."
+  - "Con số tăng trưởng bình quân hằng năm 5.8% (1990-2018) bắt nguồn từ một bản tin của truyền thông (The Rakyat Post) trích dẫn dữ liệu của Ngân hàng Thế giới, không phải trực tiếp từ một thông cáo chính thức của Ngân hàng Thế giới; hãy đối chiếu với dữ liệu tăng trưởng GDP chính thức."
+  - "Ngày và địa điểm công bố (28 tháng 2 năm 1991, cuộc họp đầu tiên của Hội đồng Thương mại Malaysia) được xác nhận thông qua văn bản bài phát biểu và các bài viết học thuật; hãy xác nhận lại một lần nữa đối chiếu với kho lưu trữ chính thức của Văn phòng Thủ tướng (Jabatan Perdana Menteri) nếu có."
 revisions:
   - revision: 0
     date: 2026-08-08

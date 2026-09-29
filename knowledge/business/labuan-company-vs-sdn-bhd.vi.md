@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0019
 title: "Công ty Labuan so với Sdn Bhd: Khi nào Labuan là câu trả lời sai"
-seoTitle: "Labuan Company vs Sdn Bhd: An Honest Comparison"
+seoTitle: "Công ty Labuan so với Sdn Bhd: Một so sánh trung thực"
 slug: "labuan-company-vs-sdn-bhd"
 category: "business"
 subcategory: ["choosing-a-structure"]

@@ -35,9 +35,9 @@ faq:
     a: "Đoạn 34A(5A) của Schedule 2 của Real Property Gains Tax Act 1976 không áp dụng các điều khoản về RPC đối với việc mua hoặc chuyển nhượng cổ phần bởi một công ty, LLP, tổ chức tín thác hoặc hợp tác xã vào hoặc sau ngày 1 tháng 1 năm 2024. Những lần chuyển nhượng đó nay rơi vào CGT thay vào đó. Cá nhân chuyển nhượng cổ phần RPC vẫn thuộc RPGT."
 
 verificationNeeded:
-  - "The full list of CGT exemption orders beyond P.U.(A) 410/2023 and P.U.(A) 57/2024 — including any exemption for initial public offering restructurings and intra-group reorganisations — was not enumerated from a gazetted source and should be confirmed against the Federal Gazette before relying on any exemption"
-  - "Whether the rate election under Part XXI Schedule 1 is irrevocable once made in the e-CKM return is not stated in the Guidelines and was not confirmed"
-  - "The penalty rates applied specifically to a late or incorrect CGT return were not published in the Guidelines; section 112 and section 113 of the Income Tax Act 1967 apply in principle but the administrative rates were not verified"
+  - "Danh sách đầy đủ các lệnh miễn thuế CGT ngoài P.U.(A) 410/2023 và P.U.(A) 57/2024 — bao gồm bất kỳ sự miễn trừ nào cho việc tái cấu trúc phục vụ phát hành cổ phiếu lần đầu ra công chúng (IPO) và các cuộc tái tổ chức trong nội bộ tập đoàn — không được liệt kê từ một nguồn đã đăng công báo và nên được xác nhận so với Công báo Liên bang (Federal Gazette) trước khi dựa vào bất kỳ sự miễn trừ nào"
+  - "Việc lựa chọn mức thuế theo Part XXI Schedule 1 có phải là không thể thay đổi một khi đã được thực hiện trong tờ khai e-CKM hay không thì không được nêu trong Hướng dẫn và chưa được xác nhận"
+  - "Các mức phạt áp dụng cụ thể cho một tờ khai CGT nộp muộn hoặc không chính xác không được công bố trong Hướng dẫn; điều 112 và điều 113 của Luật Thuế thu nhập (Income Tax Act 1967) áp dụng về nguyên tắc nhưng các mức hành chính chưa được xác minh"
 
 obligations:
   - what: "Nộp tờ khai thuế lãi vốn và trả thuế"

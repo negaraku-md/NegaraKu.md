@@ -44,10 +44,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Pilihan rakyat mengikut wilayah bercanggah antara sumber rasmi: malaysia.gov.my menyebut penduduk Pantai Timur cenderung kepada bunga raya, manakala MKN menyebut mereka cenderung kepada bunga mawar (kedua-dua sumber setuju Pantai Barat cenderung kepada bunga melur). Kekal umum sehingga disahkan manusia."
-  - "Penggunaan imej bunga raya pada duit syiling, dokumen rasmi, atau artifak tertentu tidak dapat disahkan daripada mana-mana sumber rasmi yang dibuka; perlu pengesahan sebelum dinyatakan secara khusus."
-  - "Maksud warna merah (keberanian serta keteguhan politik dan ekonomi) disandarkan hanya kepada satu sumber (UPM); wajar disahkan silang dengan sumber rasmi lain."
-  - "Perkaitan lima kelopak dengan lima prinsip Rukun Negara ialah lambang yang dibina kemudian (Rukun Negara diisytiharkan 1970, sepuluh tahun selepas pemilihan bunga); pastikan pembingkaian ini kekal jelas."
+  - "Lựa chọn của người dân theo vùng có sự mâu thuẫn giữa các nguồn chính thức: malaysia.gov.my nói rằng cư dân Bờ Đông thiên về bông dâm bụt, trong khi MKN nói rằng họ thiên về hoa hồng (cả hai nguồn đều đồng ý rằng Bờ Tây thiên về hoa nhài). Giữ ở mức chung chung cho đến khi được con người xác nhận."
+  - "Việc sử dụng hình ảnh bông dâm bụt trên tiền xu, tài liệu chính thức, hoặc một số hiện vật nhất định không thể được xác nhận từ bất kỳ nguồn chính thức nào được mở ra; cần xác nhận trước khi nêu một cách cụ thể."
+  - "Ý nghĩa của màu đỏ (lòng dũng cảm cùng với sự vững vàng về chính trị và kinh tế) chỉ dựa vào một nguồn duy nhất (UPM); nên được kiểm chứng chéo với các nguồn chính thức khác."
+  - "Sự liên hệ giữa năm cánh hoa với năm nguyên tắc của Rukun Negara là một biểu tượng được xây dựng về sau (Rukun Negara được tuyên bố năm 1970, mười năm sau khi chọn loài hoa); hãy bảo đảm rằng cách diễn giải này vẫn rõ ràng."
 
 updated: 2026-08-08
 sources:

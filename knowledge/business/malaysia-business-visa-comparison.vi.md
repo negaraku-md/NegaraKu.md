@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0034
 title: "Thị thực cho chủ doanh nghiệp — So sánh Employment Pass, MM2H, PVIP và Dependant Pass"
-seoTitle: "Malaysia Business Visa Comparison"
+seoTitle: "So sánh Thị thực Kinh doanh Malaysia"
 socialTitle: "MM2H không cho phép bạn làm việc — trừ khi bạn nắm giữ hạng Platinum, nơi MOTAC nói cơ hội nghề nghiệp được cho phép một cách rõ ràng."
 slug: "malaysia-business-visa-comparison"
 category: "business"
@@ -39,10 +39,10 @@ faq:
     a: "Không theo chương trình hiện hành. Cả bốn hạng do MOTAC công bố đều yêu cầu hiện diện tại Malaysia trong 90 ngày tích lũy trong một năm. Đối với những người tham gia từ 25 đến 49 tuổi, yêu cầu có thể được người chính và/hoặc những người phụ thuộc của họ đáp ứng. Quy tắc cũ rằng những người trên 50 tuổi không có yêu cầu lưu trú không được các trang chính thức hiện hành ủng hộ."
 
 verificationNeeded:
-  - "S-MM2H, the separately administered Sarawak programme, could not be verified — the Sarawak MTCP page returns a web application firewall rejection. The commonly quoted deposit and income figures for S-MM2H are not published here."
-  - "PVIP does not appear in the Immigration Department's main pass index and is published only on the eServices document server — confirm the programme is still open before relying on it. Several PVIP-branded websites are not government domains."
-  - "Confirm whether an MM2H Platinum holder permitted to undertake business activities may be appointed a director of a Malaysian company without a separate pass, and how that interacts with the ordinarily-resident test in s.196(4) of the Companies Act 2016"
-  - "DE Rantau is a Professional Visit Pass and local employment is generally understood to be excluded, but no explicit prohibition was found in the official FAQ — do not assert one"
+  - "S-MM2H, chương trình của Sarawak được quản lý riêng, không thể được xác minh — trang Sarawak MTCP trả về từ chối của tường lửa ứng dụng web. Các con số tiền gửi và thu nhập thường được trích dẫn cho S-MM2H không được công bố ở đây."
+  - "PVIP không xuất hiện trong danh mục giấy phép chính của Immigration Department và chỉ được công bố trên máy chủ tài liệu eServices — hãy xác nhận chương trình vẫn còn mở trước khi dựa vào nó. Một số trang web mang thương hiệu PVIP không phải là tên miền của chính phủ."
+  - "Xác nhận liệu người giữ MM2H Platinum được phép tiến hành hoạt động kinh doanh có thể được bổ nhiệm làm giám đốc của một công ty Malaysia mà không cần giấy phép riêng hay không, và điều đó tương tác thế nào với phép kiểm tra thường trú (ordinarily-resident) tại s.196(4) của Companies Act 2016"
+  - "DE Rantau là một Professional Visit Pass và việc làm tại địa phương thường được hiểu là bị loại trừ, nhưng không tìm thấy điều cấm rõ ràng nào trong FAQ chính thức — không được khẳng định có điều cấm đó"
 
 lang: "vi"
 masterLanguage: "en"

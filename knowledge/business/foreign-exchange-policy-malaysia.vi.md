@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0039
 title: "Chính sách Ngoại hối của Malaysia: Hướng dẫn cho người sáng lập về các Thông báo FEP"
-seoTitle: "Foreign Exchange Policy Malaysia: FEP Rules"
+seoTitle: "Chính sách Ngoại hối tại Malaysia: Quy tắc FEP"
 slug: "foreign-exchange-policy-malaysia"
 category: "business"
 subcategory: ["banking-finance"]

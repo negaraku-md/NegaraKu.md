@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0053
 title: "Luật An toàn Trực tuyến năm 2025: Ai bị ràng buộc và nó yêu cầu gì"
-seoTitle: "Online Safety Act 2025 Malaysia: Duties and Deadlines"
+seoTitle: "Online Safety Act 2025 tại Malaysia: Nghĩa vụ và Thời hạn"
 slug: "online-safety-act-malaysia"
 category: "business"
 subcategory: ["digital-compliance"]
@@ -38,9 +38,9 @@ faq:
     a: "Một số có thể. Quy định về An toàn Trực tuyến (Nộp phạt thay Tố tụng đối với các Tội) năm 2026 (Online Safety (Compounding of Offences) Regulations 2026) có hiệu lực vào ngày 1 tháng 7 năm 2026 và quy định mười một tiểu mục của Đạo luật là có thể nộp phạt thay tố tụng, cộng với quy định 3 của Quy định về Thời hạn và quy định 5 của Quy định về Kế hoạch An toàn Trực tuyến. Mục s.74(2) giới hạn một khoản nộp phạt thay tố tụng ở 50 phần trăm của mức phạt tối đa, và lời đề nghị có hiệu lực trong 30 ngày."
 
 verificationNeeded:
-  - "The content of the code to be issued under s.80, which supplies the actual measures required by ss.13 and 18 — no code text was retrievable at the time of writing"
-  - "Whether MCMC has published guidance on the interaction between an Online Safety Plan and the ASP(C) licence conditions; mcmc.gov.my was returning HTTP 522 across all paths when checked on 20 July 2026"
-  - "Whether any further Online Safety subsidiary instruments have been gazetted after P.U.(A) 255/2026 of 14 July 2026"
+  - "Nội dung của bộ quy tắc (code) sẽ được ban hành theo s.80, vốn cung cấp các biện pháp thực tế mà ss.13 và 18 yêu cầu — không truy xuất được văn bản quy tắc nào tại thời điểm viết bài"
+  - "Liệu MCMC đã công bố hướng dẫn về sự tương tác giữa một Online Safety Plan và các điều kiện giấy phép ASP(C) hay chưa; mcmc.gov.my trả về HTTP 522 trên mọi đường dẫn khi được kiểm tra vào ngày 20 tháng 7 năm 2026"
+  - "Liệu có thêm văn kiện dưới luật nào về Online Safety được đăng công báo sau P.U.(A) 255/2026 ngày 14 tháng 7 năm 2026 hay không"
 
 obligations:
   - what: "Chuẩn bị một Kế hoạch An toàn Trực tuyến và nộp một bản sao cho MCMC"

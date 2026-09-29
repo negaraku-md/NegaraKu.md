@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0125
 title: "Thuế nhập khẩu (hải quan) tại Malaysia: Biểu thuế, mã HS và ưu đãi ATIGA"
-seoTitle: "Malaysia Import Customs Duty: Tariffs, HS Codes, ATIGA Rates"
+seoTitle: "Thuế nhập khẩu hải quan Malaysia: Biểu thuế, Mã HS, Thuế suất ATIGA"
 slug: "customs-import-duty"
 category: "taxation"
 subcategory: ["customs"]
@@ -47,9 +47,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The RM500 import-duty/sales-tax de minimis threshold at the border remains current."
-  - "Form D processing time (~3 working days) and 2-year validity of exporter authorisation to issue Form D."
-  - "Live duty rates and tariff codes change each budget cycle and AHTN revision — confirm against RMCD's current tariff schedule before relying on any specific rate."
+  - "Ngưỡng tối thiểu (de minimis) RM500 đối với thuế nhập khẩu/thuế bán hàng tại biên giới vẫn còn hiệu lực."
+  - "Thời gian xử lý Form D (~3 ngày làm việc) và thời hạn hiệu lực 2 năm của việc cấp phép cho nhà xuất khẩu được phát hành Form D."
+  - "Thuế suất thực tế và mã biểu thuế thay đổi theo từng chu kỳ ngân sách và mỗi lần sửa đổi AHTN — hãy đối chiếu với biểu thuế hiện hành của RMCD trước khi dựa vào bất kỳ mức thuế cụ thể nào."
 updated: 2026-08-16
 sources:
   - title: "Điều chỉnh có mục tiêu Thuế suất Bán hàng và Mở rộng phạm vi Thuế Dịch vụ, có hiệu lực ngày 1 tháng 7 năm 2025 — Thuế Bán hàng giữ ở mức 5% và 10% (Targeted Revision of Sales Tax Rate and Expansion of Service Tax Scope, effective 1 July 2025 — Sales Tax remains at 5% and 10%)"

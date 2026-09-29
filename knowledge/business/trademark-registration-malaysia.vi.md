@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0072
 title: "Đăng ký nhãn hiệu với MyIPO"
-seoTitle: "Trademark Registration Malaysia: Process and Cost"
+seoTitle: "Đăng ký nhãn hiệu Malaysia: Quy trình và chi phí"
 slug: "trademark-registration-malaysia"
 category: "business"
 subcategory: ["intellectual-property"]

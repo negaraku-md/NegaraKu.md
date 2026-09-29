@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0080
 title: "Gọi vốn cộng đồng bằng cổ phần và tài trợ P2P cho doanh nghiệp Malaysia"
-seoTitle: "ECF and P2P Financing Malaysia: SME Guide"
+seoTitle: "Gọi vốn cộng đồng cổ phần và Tài trợ P2P Malaysia: Hướng dẫn cho SME"
 slug: "equity-crowdfunding-p2p-malaysia"
 category: "business"
 subcategory: ["banking-finance"]
@@ -38,10 +38,10 @@ faq:
     a: "Chỉ khi nền tảng có sự chấp thuận của SC để vận hành một thị trường thứ cấp, và chỉ đối với cổ phần được đăng và huy động thành công trên nền tảng đó. Giao dịch có thể bắt đầu không sớm hơn sáu tháng sau khi chiến dịch huy động vốn hoàn tất, và cổ phần của người sáng lập chỉ có thể được bán thêm sáu tháng sau khi giao dịch bắt đầu."
 
 verificationNeeded:
-  - "The SC's dedicated List of Registered Recognized Market Operators page was returning an error and could not be read; operator names were taken from the SC Digital Initiatives page, which carries no last-updated date. Confirm current registration status on the SC's register before relying on any name"
-  - "No ECF or P2P specific funds-raised figure for 2025 could be located on an SC page — the RM5.7 billion in the Annual Report 2025 landing page is a broader alternative fundraising category and is not an ECF and P2P figure"
-  - "Whether any operator registration has been revoked or withdrawn could not be verified from an SC source"
-  - "The Guidelines prescribe no minimum or maximum tenure for a P2P investment note; only a 3-month minimum remaining repayment period for secondary market admission was located"
+  - "Trang List of Registered Recognized Market Operators chuyên biệt của SC báo lỗi và không thể đọc được; tên các đơn vị vận hành được lấy từ trang SC Digital Initiatives, vốn không có ngày cập nhật gần nhất. Hãy xác nhận tình trạng đăng ký hiện hành trên sổ đăng ký của SC trước khi dựa vào bất kỳ tên nào"
+  - "Không tìm thấy con số huy động vốn cụ thể của ECF hoặc P2P cho năm 2025 trên trang nào của SC — con số RM5.7 tỷ trên trang giới thiệu Annual Report 2025 là một nhóm huy động vốn thay thế rộng hơn và không phải là con số của ECF và P2P"
+  - "Việc liệu có đăng ký của đơn vị vận hành nào đã bị thu hồi hoặc rút lại hay không không thể kiểm chứng từ nguồn của SC"
+  - "Các Hướng dẫn không quy định thời hạn tối thiểu hay tối đa cho một chứng chỉ đầu tư P2P; chỉ tìm thấy quy định về thời gian trả nợ còn lại tối thiểu 3 tháng để được chấp nhận trên thị trường thứ cấp"
 
 lang: "vi"
 masterLanguage: "en"

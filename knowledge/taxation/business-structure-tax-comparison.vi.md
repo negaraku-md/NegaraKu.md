@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0015
 title: "Sdn Bhd và hộ kinh doanh cá thể và hợp danh: So sánh về thuế"
-seoTitle: "Sdn Bhd vs Sole Prop Tax Malaysia: Worked Comparison"
+seoTitle: "Thuế Sdn Bhd so với hộ kinh doanh cá thể tại Malaysia: So sánh có tính toán"
 slug: "business-structure-tax-comparison"
 category: "taxation"
 subcategory: ["corporate-tax"]
@@ -38,7 +38,7 @@ faq:
     a: "Có, từ YA2024. Đoạn 2B(d) của Part I của Schedule 1 loại bỏ các mức ưu đãi khi hơn 20% vốn cổ phần thường đã góp được sở hữu trực tiếp hoặc gián tiếp bởi một hoặc nhiều công ty được thành lập bên ngoài Malaysia hoặc bởi một hoặc nhiều cá nhân không phải công dân. Public Ruling No. 8/2025 Ví dụ 15 áp dụng nó cho một công ty Malaysia được nắm giữ hoàn toàn bởi một công ty Singapore thuộc sở hữu của hai người Malaysia, và công ty vẫn không đạt."
 
 verificationNeeded:
-  - "Confirm whether directors fees paid to a non-executive director outside a contract of service are wages for EPF purposes; EPF confirms salaried directors contribute but does not address fees directly"
+  - "Xác nhận liệu thù lao giám đốc trả cho một giám đốc không điều hành ngoài một hợp đồng lao động có phải là tiền lương cho mục đích EPF hay không; EPF xác nhận các giám đốc hưởng lương phải đóng góp nhưng không đề cập trực tiếp đến khoản thù lao"
 
 lang: "vi"
 masterLanguage: "en"

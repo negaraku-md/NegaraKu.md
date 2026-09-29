@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0056
 title: "Tuân thủ PDPA tại Malaysia sau bản sửa đổi năm 2024"
-seoTitle: "PDPA Malaysia: Compliance Guide After Act A1727"
+seoTitle: "PDPA Malaysia: Hướng dẫn tuân thủ sau Act A1727"
 slug: "pdpa-compliance-malaysia"
 category: "business"
 subcategory: ["digital-compliance"]
@@ -38,7 +38,7 @@ faq:
     a: "Bảy nguyên tắc trong các mục ss.5 đến 12 của Act 709 không bị đánh số lại hay viết lại. Cái đã thay đổi là ai bị chúng ràng buộc và chúng tốn kém bao nhiêu. Nguyên tắc An ninh trong s.9 nay đọc như một nghĩa vụ của một người kiểm soát dữ liệu và một đơn vị xử lý dữ liệu, nên một đơn vị xử lý không còn nấp sau các bảo đảm của người kiểm soát. Mức phạt tối đa theo s.5(2) đã tăng gấp ba."
 
 verificationNeeded:
-  - "The outcome of Public Consultation Paper 4/2025 on proposed amendments to the Personal Data Protection Regulations 2013 (issued 25 August 2025) — still at public consultation with no gazetted amendment as at 14 August 2026"
+  - "Kết quả của Public Consultation Paper 4/2025 về các sửa đổi được đề xuất đối với Personal Data Protection Regulations 2013 (ban hành ngày 25 tháng 8 năm 2025) — vẫn đang trong giai đoạn tham vấn công khai, chưa có sửa đổi nào được công bố trong công báo tính đến ngày 14 tháng 8 năm 2026"
 
 obligations:
   - what: "Thông báo cho Ủy viên về một vi phạm dữ liệu cá nhân gây ra hoặc có khả năng gây ra tổn hại đáng kể"

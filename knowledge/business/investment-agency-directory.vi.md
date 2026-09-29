@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0035
 title: "Cơ quan Malaysia nào phê duyệt cái gì — và theo trình tự nào"
-seoTitle: "Malaysia Investment Agency Directory"
+seoTitle: "Danh bạ Cơ quan Đầu tư Malaysia"
 socialTitle: "SSM thành lập bạn. Nó không phê duyệt gì khác. Chín cơ quan khác quyết định liệu bạn có thực sự có thể kinh doanh hay không."
 slug: "investment-agency-directory"
 category: "business"
@@ -37,10 +37,10 @@ faq:
     a: "Thành lập với SSM, có được bất kỳ giấy phép ngành hoặc tình trạng nào kiểm soát hoạt động của bạn, rồi đăng ký với ESD cho các thị thực người nước ngoài, rồi MyIPO cho các nhãn hiệu. Làm ESD trước là lỗi sắp xếp trình tự thường gặp nhất, vì một công ty trong một phân ngành thương mại phân phối bị hạn chế không thể có được một thị thực dài hạn ở bất kỳ mức vốn nào."
 
 verificationNeeded:
-  - "InvestKL could not be verified — neither investkl.gov.my nor the www variant resolved from two networks. Its current name, parent ministry and whether it issues anything were not confirmed, so it is omitted from the directory below rather than described."
-  - "ecerdc.com.my did not resolve at the time of writing — confirm the East Coast Economic Region Development Council's current domain"
-  - "KPDN publishes the Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia (Pindaan 2022), but the acronym WRT and the form reference WRT1 appear only in secondary sources and the KPDN forms URL returns 404 — confirm the correct official name of the approval instrument"
-  - "Confirm whether SEDIA, NCER and ECERDC hold expatriate-pass approving authority equivalent to IRDA's, which was not established"
+  - "Không thể xác minh InvestKL — cả investkl.gov.my lẫn biến thể www đều không phân giải được từ hai mạng. Tên hiện tại, bộ chủ quản và việc cơ quan này có cấp phát gì hay không đều chưa được xác nhận, nên nó bị lược bỏ khỏi danh bạ bên dưới thay vì được mô tả."
+  - "ecerdc.com.my không phân giải được tại thời điểm viết bài — hãy xác nhận tên miền hiện tại của East Coast Economic Region Development Council"
+  - "KPDN công bố Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia (Pindaan 2022), nhưng từ viết tắt WRT và ký hiệu mẫu WRT1 chỉ xuất hiện trong các nguồn thứ cấp và URL biểu mẫu của KPDN trả về 404 — hãy xác nhận tên chính thức đúng của văn kiện phê duyệt"
+  - "Xác nhận liệu SEDIA, NCER và ECERDC có thẩm quyền phê duyệt giấy phép chuyên gia nước ngoài (expatriate-pass) tương đương với IRDA hay không, điều chưa được xác lập"
 
 lang: "vi"
 masterLanguage: "en"

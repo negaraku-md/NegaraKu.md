@@ -1,7 +1,7 @@
 ---
 topicId: MY-TAX-0049
 title: "Báo cáo theo từng quốc gia và Hồ sơ Chính (Master File) tại Malaysia"
-seoTitle: "CbCR Malaysia — Threshold, Notification and Filing"
+seoTitle: "CbCR Malaysia — Ngưỡng, Thông báo và Nộp hồ sơ"
 slug: "cbcr-and-master-file"
 category: "taxation"
 subcategory: ["international-tax"]
@@ -33,8 +33,8 @@ faq:
     a: "Điều 112A của Luật Thuế thu nhập (Income Tax Act 1967) khiến việc vi phạm là một hành vi vi phạm chịu, khi bị kết án, một khoản phạt không dưới RM20,000 và không quá RM100,000, hoặc phạt tù đến sáu tháng, hoặc cả hai. Gánh nặng chứng minh rằng báo cáo đã được nộp thuộc về bị cáo, và tòa án có thể ra lệnh tuân thủ trong vòng 30 ngày."
 
 verificationNeeded:
-  - "The Labuan equivalent in P.U.(A) 409/2017 is referenced by LHDN as carrying the same rule 6 and rule 7 deadlines; the Labuan regulations were not read in full"
-  - "The IRBM Country-by-Country Reporting Guidelines currently published are dated 1 January 2019 and predate the HiDEF platform detail on the LHDN CbCR page — where the two differ, the page is the later source"
+  - "Quy định tương ứng cho Labuan tại P.U.(A) 409/2017 được LHDN dẫn chiếu là có cùng thời hạn theo rule 6 và rule 7; các quy định của Labuan chưa được đọc đầy đủ"
+  - "IRBM Country-by-Country Reporting Guidelines hiện được công bố mang ngày 1 January 2019 và có trước các chi tiết về nền tảng HiDEF trên trang CbCR của LHDN — khi hai nguồn khác nhau, trang này là nguồn cập nhật hơn"
 
 obligations:
   - what: "Thông báo cho LHDN về trạng thái thực thể báo cáo hoặc thực thể không báo cáo"

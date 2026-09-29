@@ -1,7 +1,7 @@
 ---
 topicId: MY-BIZ-0143
 title: "Các khoản trợ cấp kinh tế số của MDEC: Catalyst Grant và X-Port Grant"
-seoTitle: "MDEC Digital Grants Malaysia: MDCG and MDXG Explained"
+seoTitle: "Trợ cấp Số MDEC tại Malaysia: Giải thích MDCG và MDXG"
 slug: "mdec-digital-grants"
 category: "business"
 subcategory: ["financing"]
