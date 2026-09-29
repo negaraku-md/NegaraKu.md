@@ -6,14 +6,14 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string) => (locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 ---
 
-<aside class="cv-welcome" data-pagefind-ignore aria-label={L('Orientasi penyumbang', 'Contributor orientation', '贡献者引导', 'பங்களிப்பாளர் அறிமுகம்', '貢献者オリエンテーション', '기여자 오리엔테이션', 'การแนะนำผู้มีส่วนร่วม', 'Định hướng người đóng góp')}>
+<aside class="cv-welcome" data-pagefind-ignore aria-label={L('Orientasi penyumbang', 'Contributor orientation', '贡献者引导', 'பங்களிப்பாளர் அறிமுகம்', '貢献者オリエンテーション', '기여자 오리엔테이션', 'การแนะนำผู้มีส่วนร่วม', 'Định hướng người đóng góp', 'Orientasi kontributor')}>
   <div class="container cv-inner">
     <span class="cv-ico" aria-hidden="true">🚀</span>
     <div class="cv-text">
-      <b>{L('Selamat datang ke Paparan Penyumbang', 'Welcome to Contributor View', '欢迎来到贡献者视图', 'பங்களிப்பாளர் காட்சிக்கு வரவேற்கிறோம்', '貢献者ビューへようこそ', '기여자 뷰에 오신 것을 환영합니다', 'ยินดีต้อนรับสู่มุมมองผู้มีส่วนร่วม', 'Chào mừng đến với Chế độ xem Người đóng góp')}</b>
+      <b>{L('Selamat datang ke Paparan Penyumbang', 'Welcome to Contributor View', '欢迎来到贡献者视图', 'பங்களிப்பாளர் காட்சிக்கு வரவேற்கிறோம்', '貢献者ビューへようこそ', '기여자 뷰에 오신 것을 환영합니다', 'ยินดีต้อนรับสู่มุมมองผู้มีส่วนร่วม', 'Chào mừng đến với Chế độ xem Người đóng góp', 'Selamat datang di Tampilan Kontributor')}</b>
       <p>{L(
         'Ini pelancar anda — barisan semakan, draf, senarai kerja, papan pemuka dan deploy, kebanyakannya terus ke GitHub.',
         'This is your launchpad — review queue, drafts, worklist, dashboard and deploy, mostly straight into GitHub.',
@@ -23,10 +23,11 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
         '이곳은 여러분의 시작점입니다 — 검토 대기열, 초안, 작업 목록, 대시보드, 배포까지 대부분 GitHub로 바로 연결됩니다.',
         'นี่คือจุดเริ่มต้นของคุณ — คิวการตรวจทาน ฉบับร่าง รายการงาน แดชบอร์ด และการดีพลอย ส่วนใหญ่เชื่อมตรงไปยัง GitHub',
         'Đây là bệ phóng của bạn — hàng đợi đánh giá, bản nháp, danh sách công việc, bảng điều khiển và triển khai, chủ yếu đi thẳng đến GitHub.',
+        'Ini landasan peluncur Anda — antrean tinjauan, draf, daftar kerja, dasbor, dan deploy, sebagian besar langsung ke GitHub.',
       )}</p>
     </div>
-    <a class="btn btn-ghost cv-go" href={localePath('/contributor-guide', locale)}>{L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி', '貢献者ガイド', '기여자 가이드', 'คู่มือผู้มีส่วนร่วม', 'Hướng dẫn người đóng góp')} →</a>
-    <button type="button" class="cv-x" data-cv-dismiss aria-label={L('Tutup', 'Dismiss', '关闭', 'மூடு', '閉じる', '닫기', 'ปิด', 'Đóng')}>✕</button>
+    <a class="btn btn-ghost cv-go" href={localePath('/contributor-guide', locale)}>{L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி', '貢献者ガイド', '기여자 가이드', 'คู่มือผู้มีส่วนร่วม', 'Hướng dẫn người đóng góp', 'Panduan kontributor')} →</a>
+    <button type="button" class="cv-x" data-cv-dismiss aria-label={L('Tutup', 'Dismiss', '关闭', 'மூடு', '閉じる', '닫기', 'ปิด', 'Đóng', 'Tutup')}>✕</button>
   </div>
 </aside>
 

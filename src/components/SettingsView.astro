@@ -10,16 +10,16 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string) => (locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ'), href: localePath('/', locale) },
-    { label: L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定', '설정', 'การตั้งค่า', 'Cài đặt') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
+    { label: L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定', '설정', 'การตั้งค่า', 'Cài đặt', 'Pengaturan') },
   ]}
-  title={L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定', '설정', 'การตั้งค่า', 'Cài đặt')}
+  title={L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定', '설정', 'การตั้งค่า', 'Cài đặt', 'Pengaturan')}
   desc={L(
     'Sesuaikan cara anda membaca NegaraKu.md. Tetapan disimpan dalam pelayar anda sahaja.',
     'Tune how you read NegaraKu.md. Preferences are saved in your browser only.',
@@ -29,13 +29,14 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
     'NegaraKu.md를 읽는 방식을 조정하세요. 설정은 귀하의 브라우저에만 저장됩니다.',
     'ปรับแต่งวิธีที่คุณอ่าน NegaraKu.md การตั้งค่าจะถูกบันทึกไว้ในเบราว์เซอร์ของคุณเท่านั้น',
     'Tùy chỉnh cách bạn đọc NegaraKu.md. Các tùy chọn chỉ được lưu trong trình duyệt của bạn.',
+    'Sesuaikan cara Anda membaca NegaraKu.md. Pengaturan hanya disimpan di peramban Anda.',
   )}
 />
 
 <div class="settings" id="settings">
   <!-- Default language -->
   <section class="set-card">
-    <h2>{L('Bahasa lalai', 'Default language', '默认语言', 'இயல்பு மொழி', '既定の言語', '기본 언어', 'ภาษาเริ่มต้น', 'Ngôn ngữ mặc định')}</h2>
+    <h2>{L('Bahasa lalai', 'Default language', '默认语言', 'இயல்பு மொழி', '既定の言語', '기본 언어', 'ภาษาเริ่มต้น', 'Ngôn ngữ mặc định', 'Bahasa bawaan')}</h2>
     <p class="note">
       {L(
         'Bahasa pilihan anda apabila melawat laman utama. Anda sentiasa boleh menukar bahasa dengan suis MS / EN / ZH.',
@@ -46,10 +47,11 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
         '홈페이지에 처음 방문할 때 사용할 선호 언어입니다. MS / EN / ZH 전환으로 언제든지 언어를 바꿀 수 있습니다.',
         'ภาษาที่คุณต้องการเมื่อเข้าสู่หน้าแรก คุณสามารถสลับภาษาได้เสมอด้วยปุ่ม MS / EN / ZH',
         'Ngôn ngữ ưu tiên của bạn khi truy cập trang chủ. Bạn luôn có thể chuyển đổi bằng nút MS / EN / ZH.',
+        'Bahasa pilihan Anda saat mengunjungi beranda. Anda selalu dapat mengganti bahasa dengan tombol MS / EN / ZH.',
       )}
     </p>
     <div class="opts" data-group="lang">
-      <label class="opt"><input type="radio" name="deflang" value="auto" /><span>{L('Automatik', 'Auto', '自动', 'தானியங்கி', '自動', '자동', 'อัตโนมัติ', 'Tự động')}</span></label>
+      <label class="opt"><input type="radio" name="deflang" value="auto" /><span>{L('Automatik', 'Auto', '自动', 'தானியங்கி', '自動', '자동', 'อัตโนมัติ', 'Tự động', 'Otomatis')}</span></label>
       <label class="opt"><input type="radio" name="deflang" value="ms" /><span>Bahasa Melayu (MS)</span></label>
       <label class="opt"><input type="radio" name="deflang" value="en" /><span>English (EN)</span></label>
       <label class="opt"><input type="radio" name="deflang" value="zh" /><span>中文 (ZH)</span></label>
@@ -58,27 +60,27 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
 
   <!-- 3. Reading -->
   <section class="set-card">
-    <h2>{L('Bacaan', 'Reading', '阅读', 'வாசிப்பு', '表示', '읽기', 'การอ่าน', 'Đọc')}</h2>
+    <h2>{L('Bacaan', 'Reading', '阅读', 'வாசிப்பு', '表示', '읽기', 'การอ่าน', 'Đọc', 'Bacaan')}</h2>
     <div class="row">
-      <span class="row-label">{L('Tema', 'Theme', '主题', 'தீம்', 'テーマ', '테마', 'ธีม', 'Giao diện')}</span>
+      <span class="row-label">{L('Tema', 'Theme', '主题', 'தீம்', 'テーマ', '테마', 'ธีม', 'Giao diện', 'Tema')}</span>
       <div class="seg" data-group="theme">
-        <button type="button" data-value="black-gold"><span class="sw sw-gold" aria-hidden="true"></span>{L('Emas', 'Gold', '金色', 'தங்கம்', 'ゴールド', '골드', 'ทอง', 'Vàng')}</button>
-        <button type="button" data-value="black-red"><span class="sw sw-red" aria-hidden="true"></span>{L('Merah', 'Red', '红色', 'சிவப்பு', 'レッド', '레드', 'แดง', 'Đỏ')}</button>
+        <button type="button" data-value="black-gold"><span class="sw sw-gold" aria-hidden="true"></span>{L('Emas', 'Gold', '金色', 'தங்கம்', 'ゴールド', '골드', 'ทอง', 'Vàng', 'Emas')}</button>
+        <button type="button" data-value="black-red"><span class="sw sw-red" aria-hidden="true"></span>{L('Merah', 'Red', '红色', 'சிவப்பு', 'レッド', '레드', 'แดง', 'Đỏ', 'Merah')}</button>
       </div>
     </div>
     <div class="row">
-      <span class="row-label">{L('Saiz teks', 'Text size', '字号', 'எழுத்து அளவு', '文字サイズ', '글자 크기', 'ขนาดตัวอักษร', 'Cỡ chữ')}</span>
+      <span class="row-label">{L('Saiz teks', 'Text size', '字号', 'எழுத்து அளவு', '文字サイズ', '글자 크기', 'ขนาดตัวอักษร', 'Cỡ chữ', 'Ukuran teks')}</span>
       <div class="seg" data-group="size">
-        <button type="button" data-value="standard">{L('Biasa', 'Standard', '标准', 'சாதாரண', '標準', '표준', 'มาตรฐาน', 'Tiêu chuẩn')}</button>
-        <button type="button" data-value="large">{L('Besar', 'Large', '大', 'பெரிய', '大', '크게', 'ใหญ่', 'Lớn')}</button>
-        <button type="button" data-value="xlarge">{L('Sangat besar', 'X-Large', '特大', 'மிகப் பெரிய', '特大', '아주 크게', 'ใหญ่พิเศษ', 'Rất lớn')}</button>
+        <button type="button" data-value="standard">{L('Biasa', 'Standard', '标准', 'சாதாரண', '標準', '표준', 'มาตรฐาน', 'Tiêu chuẩn', 'Biasa')}</button>
+        <button type="button" data-value="large">{L('Besar', 'Large', '大', 'பெரிய', '大', '크게', 'ใหญ่', 'Lớn', 'Besar')}</button>
+        <button type="button" data-value="xlarge">{L('Sangat besar', 'X-Large', '特大', 'மிகப் பெரிய', '特大', '아주 크게', 'ใหญ่พิเศษ', 'Rất lớn', 'Sangat besar')}</button>
       </div>
     </div>
   </section>
 
   <!-- 4. Card display -->
   <section class="set-card">
-    <h2>{L('Paparan kad', 'Card display', '卡片显示', 'அட்டை காட்சி', 'カード表示', '카드 표시', 'การแสดงการ์ด', 'Hiển thị thẻ')}</h2>
+    <h2>{L('Paparan kad', 'Card display', '卡片显示', 'அட்டை காட்சி', 'カード表示', '카드 표시', 'การแสดงการ์ด', 'Hiển thị thẻ', 'Tampilan kartu')}</h2>
     <p class="note">
       {L(
         'Baris maklumat untuk dipaparkan pada kad artikel dalam senarai.',
@@ -89,19 +91,20 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
         '목록의 기사 카드에 표시할 정보 행을 선택합니다.',
         'แถวข้อมูลที่จะแสดงบนการ์ดบทความในรายการ',
         'Các hàng thông tin hiển thị trên thẻ bài viết trong danh sách.',
+        'Baris informasi yang ditampilkan pada kartu artikel dalam daftar.',
       )}
     </p>
     <div class="opts" data-group="rows">
-      <label class="opt"><input type="checkbox" value="path" /><span>{L('Laluan', 'Path', '路径', 'பாதை', 'パス', '경로', 'เส้นทาง', 'Đường dẫn')}</span></label>
-      <label class="opt"><input type="checkbox" value="details" /><span>{L('Butiran', 'Details', '详情', 'விவரங்கள்', '詳細', '세부 정보', 'รายละเอียด', 'Chi tiết')}</span></label>
-      <label class="opt"><input type="checkbox" value="custody" /><span>{L('Status', 'Status', '状态', 'நிலை', 'ステータス', '상태', 'สถานะ', 'Trạng thái')}</span></label>
-      <label class="opt"><input type="checkbox" value="visitors" /><span>{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者', '방문자', 'ผู้เยี่ยมชม', 'Khách truy cập')}</span></label>
+      <label class="opt"><input type="checkbox" value="path" /><span>{L('Laluan', 'Path', '路径', 'பாதை', 'パス', '경로', 'เส้นทาง', 'Đường dẫn', 'Jalur')}</span></label>
+      <label class="opt"><input type="checkbox" value="details" /><span>{L('Butiran', 'Details', '详情', 'விவரங்கள்', '詳細', '세부 정보', 'รายละเอียด', 'Chi tiết', 'Rincian')}</span></label>
+      <label class="opt"><input type="checkbox" value="custody" /><span>{L('Status', 'Status', '状态', 'நிலை', 'ステータス', '상태', 'สถานะ', 'Trạng thái', 'Status')}</span></label>
+      <label class="opt"><input type="checkbox" value="visitors" /><span>{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者', '방문자', 'ผู้เยี่ยมชม', 'Khách truy cập', 'Pengunjung')}</span></label>
     </div>
   </section>
 
   <div class="actions">
-    <button type="button" id="set-reset" class="reset">{L('Set semula semua', 'Reset all', '全部重置', 'அனைத்தையும் மீட்டமை', 'すべてリセット', '모두 초기화', 'รีเซ็ตทั้งหมด', 'Đặt lại tất cả')}</button>
-    <span id="set-saved" class="saved" hidden>{L('Disimpan', 'Saved', '已保存', 'சேமிக்கப்பட்டது', '保存しました', '저장됨', 'บันทึกแล้ว', 'Đã lưu')}</span>
+    <button type="button" id="set-reset" class="reset">{L('Set semula semua', 'Reset all', '全部重置', 'அனைத்தையும் மீட்டமை', 'すべてリセット', '모두 초기화', 'รีเซ็ตทั้งหมด', 'Đặt lại tất cả', 'Setel ulang semua')}</button>
+    <span id="set-saved" class="saved" hidden>{L('Disimpan', 'Saved', '已保存', 'சேமிக்கப்பட்டது', '保存しました', '저장됨', 'บันทึกแล้ว', 'Đã lưu', 'Tersimpan')}</span>
   </div>
 </div>
 

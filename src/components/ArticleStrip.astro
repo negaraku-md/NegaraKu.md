@@ -24,7 +24,7 @@ interface Props {
   exclude?: string[];
 }
 const { locale, articles, limit = 4, moreHref, sort = 'reads', exclude = [] } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string) => (locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const analytics = getAnalytics();
 const readsOf = (a: Article): number => {
@@ -44,8 +44,8 @@ const top = [...articles]
   .slice(0, limit);
 
 const heading = sort === 'recent'
-  ? L('Terkini', 'Latest', '最新', 'சமீபத்தியவை', '最新', '최신', 'ล่าสุด', 'Mới nhất')
-  : L('Paling banyak dibaca', 'Most read', '最多阅读', 'அதிகம் படிக்கப்பட்டவை', 'よく読まれている', '가장 많이 읽은', 'อ่านมากที่สุด', 'Được đọc nhiều nhất');
+  ? L('Terkini', 'Latest', '最新', 'சமீபத்தியவை', '最新', '최신', 'ล่าสุด', 'Mới nhất', 'Terbaru')
+  : L('Paling banyak dibaca', 'Most read', '最多阅读', 'அதிகம் படிக்கப்பட்டவை', 'よく読まれている', '가장 많이 읽은', 'อ่านมากที่สุด', 'Được đọc nhiều nhất', 'Paling banyak dibaca');
 const headIcon = sort === 'recent' ? '🆕' : '🔥';
 
 // "See all" href: localise the path, keep the trailing slash GitHub Pages serves,
@@ -65,7 +65,7 @@ if (moreHref) {
         <h2><span class="mr-ico" aria-hidden="true">{headIcon}</span>{heading}</h2>
         {moreUrl && (
           <a class="mr-more" href={moreUrl}>
-            {L('Lihat semua', 'See all', '查看全部', 'அனைத்தையும் காண்க', 'すべて見る', '모두 보기', 'ดูทั้งหมด', 'Xem tất cả')} →
+            {L('Lihat semua', 'See all', '查看全部', 'அனைத்தையும் காண்க', 'すべて見る', '모두 보기', 'ดูทั้งหมด', 'Xem tất cả', 'Lihat semua')} →
           </a>
         )}
       </div>

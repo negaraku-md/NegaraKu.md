@@ -17,7 +17,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string) => (locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const stats = await siteStats(locale);
 const items = await articlesForLocale(locale);
@@ -30,7 +30,7 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
     { label: t('nav.categories', locale) },
   ]}
   title={t('nav.categories', locale)}
@@ -43,12 +43,13 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
     '카테고리를 기둥별로 둘러보고 — 하나를 선택하여 그 주제와 기사를 탐색하세요.',
     'เรียกดูทุกหมวดหมู่ตามเสาหลัก — เลือกหนึ่งหมวดเพื่อสำรวจหัวข้อและบทความ',
     'Duyệt mọi danh mục theo trụ cột — chọn một để khám phá các chủ đề và bài viết của nó.',
+    'Telusuri setiap kategori berdasarkan pilar — pilih satu untuk menjelajahi topik dan artikelnya.',
   )}
   stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'trụ cột') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리', 'หมวดหมู่', 'danh mục') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리', 'หมวดหมู่ย่อย', 'danh mục con') },
-    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', '主題', '주제', 'หัวข้อ', 'chủ đề') },
+    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'trụ cột', 'pilar') },
+    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리', 'หมวดหมู่', 'danh mục', 'kategori') },
+    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리', 'หมวดหมู่ย่อย', 'danh mục con', 'subkategori') },
+    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', '主題', '주제', 'หัวข้อ', 'chủ đề', 'topik') },
   ]}
 />
 
@@ -59,13 +60,13 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
       id="cat-filter"
       type="text"
       autocomplete="off"
-      placeholder={L('Tapis kategori…', 'Filter categories…', '筛选分类…', 'வகைகளை வடிகட்டு…', 'カテゴリーを絞り込む…', '카테고리 필터링…', 'กรองหมวดหมู่…', 'Lọc danh mục…')}
-      aria-label={L('Tapis kategori', 'Filter categories', '筛选分类', 'வகைகளை வடிகட்டு', 'カテゴリーを絞り込む', '카테고리 필터링', 'กรองหมวดหมู่', 'Lọc danh mục')}
+      placeholder={L('Tapis kategori…', 'Filter categories…', '筛选分类…', 'வகைகளை வடிகட்டு…', 'カテゴリーを絞り込む…', '카테고리 필터링…', 'กรองหมวดหมู่…', 'Lọc danh mục…', 'Saring kategori…')}
+      aria-label={L('Tapis kategori', 'Filter categories', '筛选分类', 'வகைகளை வடிகட்டு', 'カテゴリーを絞り込む', '카테고리 필터링', 'กรองหมวดหมู่', 'Lọc danh mục', 'Saring kategori')}
     />
   </div>
 
   <p id="cat-empty" class="empty" hidden>
-    {L('Tiada kategori sepadan.', 'No categories match your search.', '没有符合的分类。', 'உங்கள் தேடலுக்குப் பொருந்தும் வகைகள் இல்லை.', '検索に一致するカテゴリーはありません。', '검색과 일치하는 카테고리가 없습니다.', 'ไม่มีหมวดหมู่ที่ตรงกับการค้นหาของคุณ', 'Không có danh mục nào khớp với tìm kiếm của bạn.')}
+    {L('Tiada kategori sepadan.', 'No categories match your search.', '没有符合的分类。', 'உங்கள் தேடலுக்குப் பொருந்தும் வகைகள் இல்லை.', '検索に一致するカテゴリーはありません。', '검색과 일치하는 카테고리가 없습니다.', 'ไม่มีหมวดหมู่ที่ตรงกับการค้นหาของคุณ', 'Không có danh mục nào khớp với tìm kiếm của bạn.', 'Tidak ada kategori yang cocok.')}
   </p>
 
   {

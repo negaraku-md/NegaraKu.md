@@ -18,7 +18,7 @@ interface Props {
   pillar: Pillar;
 }
 const { locale, pillar } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string) => (locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const def = getPillarDef(pillar)!;
 const cats = categoriesInPillar(pillar);
@@ -36,14 +36,14 @@ const mrKeys = mostReadKeys(inPillar, STRIP);
 
 <PageHero
   locale={locale}
-  crumb={[{ label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ'), href: localePath('/', locale) }, { label: loc(def.name, locale) }]}
+  crumb={[{ label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) }, { label: loc(def.name, locale) }]}
   title={loc(def.name, locale)}
   desc={loc(def.tagline, locale)}
   stats={[
-    { value: PILLARS.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'trụ cột') },
-    { value: cats.length, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ', '카테고리', 'หมวดหมู่', 'danh mục') },
-    { value: topicCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ', '하위 카테고리', 'หมวดหมู่ย่อย', 'danh mục con') },
-    { value: inPillar.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ', 'chủ đề') },
+    { value: PILLARS.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'trụ cột', 'pilar') },
+    { value: cats.length, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ', '카테고리', 'หมวดหมู่', 'danh mục', 'kategori') },
+    { value: topicCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ', '하위 카테고리', 'หมวดหมู่ย่อย', 'danh mục con', 'subkategori') },
+    { value: inPillar.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ', 'chủ đề', 'topik') },
   ]}
 />
 

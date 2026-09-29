@@ -7,13 +7,13 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string) => (locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 ---
 
 <section class="become container block" data-pre-contributor data-pagefind-ignore>
   <div class="become-card">
     <div class="become-text">
-      <b class="become-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md', 'NegaraKu.md-ஐ கட்டியெழுப்ப உதவுங்கள்', 'NegaraKu.md の構築を手伝う', 'NegaraKu.md 구축을 도와주세요', 'ช่วยกันสร้าง NegaraKu.md', 'Giúp xây dựng NegaraKu.md')}</b>
+      <b class="become-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md', 'NegaraKu.md-ஐ கட்டியெழுப்ப உதவுங்கள்', 'NegaraKu.md の構築を手伝う', 'NegaraKu.md 구축을 도와주세요', 'ช่วยกันสร้าง NegaraKu.md', 'Giúp xây dựng NegaraKu.md', 'Bantu bangun NegaraKu.md')}</b>
       <p>{L(
         'Sesiapa boleh menambah baik — betulkan kesilapan, isi kekurangan, atau cadang topik baharu. Semuanya terbuka di GitHub, dan setiap perubahan disemak.',
         'Anyone can improve it — fix an error, fill a gap, or suggest a new topic. It’s all open on GitHub, and every change is reviewed.',
@@ -23,11 +23,12 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
         '누구나 개선할 수 있습니다 — 오류를 고치고, 부족한 부분을 채우고, 새로운 주제를 제안할 수 있습니다. 모든 것이 GitHub에 공개되어 있으며, 모든 변경 사항은 검토됩니다.',
         'ใครก็ปรับปรุงได้ — แก้ไขข้อผิดพลาด เติมเต็มส่วนที่ขาด หรือเสนอหัวข้อใหม่ ทุกอย่างเปิดเผยบน GitHub และทุกการเปลี่ยนแปลงจะได้รับการตรวจทาน',
         'Bất kỳ ai cũng có thể cải thiện nó — sửa lỗi, lấp đầy chỗ thiếu, hoặc đề xuất chủ đề mới. Tất cả đều mở trên GitHub, và mọi thay đổi đều được đánh giá.',
+        'Siapa saja bisa menyempurnakannya — perbaiki kesalahan, lengkapi yang kurang, atau usulkan topik baru. Semuanya terbuka di GitHub, dan setiap perubahan ditinjau.',
       )}</p>
     </div>
     <div class="become-actions">
-      <a class="btn btn-primary" href={REPO} rel="noopener">★ {L('Bintangkan di GitHub', 'Star on GitHub', '在 GitHub 点星', 'GitHub-இல் நட்சத்திரமிடுங்கள்', 'GitHub でスターを付ける', 'GitHub에서 별표 주기', 'ให้ดาวบน GitHub', 'Gắn sao trên GitHub')}</a>
-      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Cara menyumbang', 'How to contribute', '如何贡献', 'எப்படி பங்களிப்பது', '貢献の方法', '기여하는 방법', 'วิธีการมีส่วนร่วม', 'Cách đóng góp')} →</a>
+      <a class="btn btn-primary" href={REPO} rel="noopener">★ {L('Bintangkan di GitHub', 'Star on GitHub', '在 GitHub 点星', 'GitHub-இல் நட்சத்திரமிடுங்கள்', 'GitHub でスターを付ける', 'GitHub에서 별표 주기', 'ให้ดาวบน GitHub', 'Gắn sao trên GitHub', 'Beri bintang di GitHub')}</a>
+      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Cara menyumbang', 'How to contribute', '如何贡献', 'எப்படி பங்களிப்பது', '貢献の方法', '기여하는 방법', 'วิธีการมีส่วนร่วม', 'Cách đóng góp', 'Cara berkontribusi')} →</a>
     </div>
   </div>
 </section>

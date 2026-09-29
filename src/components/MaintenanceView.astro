@@ -7,7 +7,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string) => (locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // "Expected back by" — only when the operator set MAINTENANCE_UNTIL. Format it
 // readably for the locale; if it isn't a valid date, show the raw value.
@@ -32,7 +32,7 @@ if (MAINTENANCE_UNTIL) {
     </div>
 
     <div class="mtext">
-      <h1>{L('Kami akan kembali sebentar lagi', 'We’ll be right back', '我们很快就回来', 'நாங்கள் உடனே திரும்பி வருகிறோம்', 'まもなく戻ります', '잠시 후 다시 돌아오겠습니다', 'เราจะกลับมาในไม่ช้า', 'Chúng tôi sẽ quay lại ngay')}</h1>
+      <h1>{L('Kami akan kembali sebentar lagi', 'We’ll be right back', '我们很快就回来', 'நாங்கள் உடனே திரும்பி வருகிறோம்', 'まもなく戻ります', '잠시 후 다시 돌아오겠습니다', 'เราจะกลับมาในไม่ช้า', 'Chúng tôi sẽ quay lại ngay', 'Kami akan segera kembali')}</h1>
       <p class="mlead">
         {L(
           'NegaraKu.md sedang menjalani penyelenggaraan ringkas untuk menjadi lebih baik. Terima kasih atas kesabaran anda.',
@@ -43,11 +43,12 @@ if (MAINTENANCE_UNTIL) {
           'NegaraKu.md는 더 나은 서비스를 위해 짧은 점검을 진행하고 있습니다. 기다려 주셔서 감사합니다.',
           'NegaraKu.md กำลังอยู่ระหว่างการบำรุงรักษาสั้น ๆ เพื่อให้ดียิ่งขึ้น ขอบคุณสำหรับความอดทนของคุณ',
           'NegaraKu.md đang được bảo trì ngắn để cải thiện chất lượng. Cảm ơn sự kiên nhẫn của bạn.',
+          'NegaraKu.md sedang menjalani pemeliharaan singkat agar menjadi lebih baik. Terima kasih atas kesabaran Anda.',
         )}
       </p>
       {untilText && (
         <p class="muntil">
-          <span class="mlabel">{L('Dijangka kembali menjelang', 'Expected back by', '预计恢复时间', 'திரும்ப எதிர்பார்க்கப்படும் நேரம்', '復旧予定', '복구 예정 시각', 'คาดว่าจะกลับมาภายใน', 'Dự kiến quay lại trước')}</span>
+          <span class="mlabel">{L('Dijangka kembali menjelang', 'Expected back by', '预计恢复时间', 'திரும்ப எதிர்பார்க்கப்படும் நேரம்', '復旧予定', '복구 예정 시각', 'คาดว่าจะกลับมาภายใน', 'Dự kiến quay lại trước', 'Diperkirakan kembali sebelum')}</span>
           <b>{untilText}</b>
         </p>
       )}
@@ -67,7 +68,7 @@ if (MAINTENANCE_UNTIL) {
            preview it opens the live home; during a real takeover it reloads the
            home, so it doubles as a "check if we're back" link. -->
       <a class="mhome" href={localePath('/', locale)}>
-        <span aria-hidden="true">←</span>{L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ')}
+        <span aria-hidden="true">←</span>{L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda')}
       </a>
     </div>
   </div>

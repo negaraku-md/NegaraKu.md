@@ -13,7 +13,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string) => (locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Show only articles that ACTUALLY EXIST in this locale, not master fallbacks.
 // articlesForLocale() returns one entry per topic and falls back to the master
@@ -29,10 +29,10 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ'), href: localePath('/', locale) },
-    { label: L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด', 'Tất cả bài viết') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
+    { label: L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด', 'Tất cả bài viết', 'Semua artikel') },
   ]}
-  title={L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด', 'Tất cả bài viết')}
+  title={L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด', 'Tất cả bài viết', 'Semua artikel')}
   desc={L(
     'Semak imbas keseluruhan pangkalan pengetahuan — isih, tapis dan cari.',
     'Browse the whole knowledge base — sort, filter and search.',
@@ -41,12 +41,13 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
     'ナレッジベース全体を閲覧できます——並べ替え、絞り込み、検索が可能です。',
     '지식 베이스 전체를 둘러보세요 — 정렬, 필터링, 검색이 가능합니다.',
     'เรียกดูฐานความรู้ทั้งหมด — จัดเรียง กรอง และค้นหา.', 'Duyệt toàn bộ cơ sở kiến thức — sắp xếp, lọc và tìm kiếm.',
+    'Jelajahi seluruh basis pengetahuan — urutkan, filter, dan cari.',
   )}
   stats={[
-    { value: secCount, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'trụ cột') },
-    { value: catCount, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리', 'หมวดหมู่', 'danh mục') },
-    { value: topCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리', 'หมวดหมู่ย่อย', 'danh mục con') },
-    { value: canonical.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ', 'chủ đề') },
+    { value: secCount, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'trụ cột', 'pilar') },
+    { value: catCount, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리', 'หมวดหมู่', 'danh mục', 'kategori') },
+    { value: topCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리', 'หมวดหมู่ย่อย', 'danh mục con', 'subkategori') },
+    { value: canonical.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ', 'chủ đề', 'topik') },
   ]}
 />
 

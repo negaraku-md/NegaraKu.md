@@ -11,7 +11,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string) => (locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Latest + Most-read strips on the home page (same pairing as /explore and the
 // section hubs). Latest excludes what Most-read shows so the two don't overlap.
@@ -46,6 +46,7 @@ const stats = [
           '말레이시아에 관한 오픈소스이며 AI 친화적인 지식 베이스',
           'ฐานความรู้แบบโอเพนซอร์สที่เป็นมิตรกับ AI เกี่ยวกับมาเลเซีย',
           'Cơ sở tri thức mã nguồn mở, thân thiện với AI về Malaysia',
+          'Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia',
         )}
       </p>
       <p class="pitch pitch-sub">
@@ -58,6 +59,7 @@ const stats = [
           '다양한 관점에서 구축 — 세계가 말레이시아를 알 수 있도록',
           'สร้างจากมุมมองที่หลากหลาย — เพื่อให้โลกได้รู้จักมาเลเซีย',
           'Được xây dựng từ nhiều góc nhìn khác nhau — để thế giới biết đến Malaysia',
+          'Dibangun dari beragam perspektif — agar dunia mengenal Malaysia',
         )}
       </p>
       <form class="hsearch" action={localePath('/search', locale)} method="get" role="search">
@@ -66,16 +68,16 @@ const stats = [
           type="search"
           name="q"
           placeholder={t('search.placeholder', locale)}
-          aria-label={L('Cari', 'Search', '搜索', 'தேடு', '検索', '검색', 'ค้นหา', 'Tìm kiếm')}
+          aria-label={L('Cari', 'Search', '搜索', 'தேடு', '検索', '검색', 'ค้นหา', 'Tìm kiếm', 'Cari')}
         />
-        <button type="submit">{L('Cari', 'Search', '搜索', 'தேடு', '検索', '검색', 'ค้นหา', 'Tìm kiếm')}</button>
+        <button type="submit">{L('Cari', 'Search', '搜索', 'தேடு', '検索', '검색', 'ค้นหา', 'Tìm kiếm', 'Cari')}</button>
       </form>
       <div class="cta">
-        <a class="btn btn-primary" href={localePath('/explore', locale)}>{L('Mula Terokai', 'Start exploring', '开始探索', 'ஆராயத் தொடங்குங்கள்', '探索を始める', '탐색 시작하기', 'เริ่มสำรวจ', 'Bắt đầu khám phá')} →</a>
+        <a class="btn btn-primary" href={localePath('/explore', locale)}>{L('Mula Terokai', 'Start exploring', '开始探索', 'ஆராயத் தொடங்குங்கள்', '探索を始める', '탐색 시작하기', 'เริ่มสำรวจ', 'Bắt đầu khám phá', 'Mulai Menjelajah')} →</a>
       </div>
     </div>
 
-    <dl class="stats" aria-label={L('Malaysia sepintas lalu', 'Malaysia at a glance', '马来西亚概览', 'மலேசியா ஒரு பார்வையில்', 'マレーシアの概要', '말레이시아 개요', 'มาเลเซียโดยสังเขป', 'Malaysia trong nháy mắt')}>
+    <dl class="stats" aria-label={L('Malaysia sepintas lalu', 'Malaysia at a glance', '马来西亚概览', 'மலேசியா ஒரு பார்வையில்', 'マレーシアの概要', '말레이시아 개요', 'มาเลเซียโดยสังเขป', 'Malaysia trong nháy mắt', 'Malaysia sekilas')}>
       {stats.map((s) => (
         <div class="stat">
           <span class="sicon" aria-hidden="true">{s.icon}</span>
@@ -90,14 +92,14 @@ const stats = [
 <WelcomeCard locale={locale} />
 
 <section class="container block">
-  <h2 class="ways-title">{L('Apa yang membawa anda ke sini?', 'What brings you here?', '您为何而来？', 'உங்களை இங்கே கொண்டுவந்தது எது?', 'どんな目的でお越しですか？', '무엇을 찾으러 오셨습니까?', 'อะไรนำคุณมาที่นี่?', 'Điều gì đưa bạn đến đây?')}</h2>
+  <h2 class="ways-title">{L('Apa yang membawa anda ke sini?', 'What brings you here?', '您为何而来？', 'உங்களை இங்கே கொண்டுவந்தது எது?', 'どんな目的でお越しですか？', '무엇을 찾으러 오셨습니까?', 'อะไรนำคุณมาที่นี่?', 'Điều gì đưa bạn đến đây?', 'Apa yang membawa Anda ke sini?')}</h2>
   <div class="pillars">
     {PILLARS.map((p) => (
       <a class="card pillar" href={localePath(`/${p.id}`, locale)} style={`--c:${getPillarColor(p.id)}`}>
         <span class="picon" aria-hidden="true">{p.icon}</span>
         <b>{loc(p.name, locale)}</b>
         <span class="pdesc">{loc(p.tagline, locale)}</span>
-        <span class="pgo">{L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探索', '탐색', 'สำรวจ', 'Khám phá')} →</span>
+        <span class="pgo">{L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探索', '탐색', 'สำรวจ', 'Khám phá', 'Jelajahi')} →</span>
       </a>
     ))}
   </div>
