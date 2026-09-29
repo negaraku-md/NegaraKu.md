@@ -27,6 +27,7 @@ export const MILESTONES: Milestone[] = [
       ja: 'NegaraKu.md 公開',
       th: 'NegaraKu.md เปิดตัว',
       vi: 'NegaraKu.md chính thức ra mắt',
+      id: 'NegaraKu.md diluncurkan',
     },
     body: {
       ms: 'Pangkalan pengetahuan sumber terbuka, mesra-AI tentang Malaysia bermula — dengan model amanah rantaian jagaan (tiada kandungan sensitif diterbitkan tanpa penyemak bernama).',
@@ -36,6 +37,7 @@ export const MILESTONES: Milestone[] = [
       ja: 'マレーシアに関するオープンソースで AI フレンドリーな知識ベースが始動——チェーン・オブ・カストディの信頼モデルの上に構築（記名レビュアーなしにセンシティブなコンテンツは公開されません）。',
       th: 'ฐานความรู้เกี่ยวกับมาเลเซียแบบโอเพนซอร์สและเป็นมิตรกับ AI เริ่มต้นขึ้น — สร้างบนแบบจำลองความน่าเชื่อถือแบบห่วงโซ่การกำกับดูแล (เนื้อหาอ่อนไหวจะไม่เผยแพร่หากไม่มีผู้ตรวจทานที่ระบุชื่อ)',
       vi: 'Cơ sở tri thức mã nguồn mở, thân thiện với AI về Malaysia bắt đầu — được xây dựng trên mô hình tin cậy theo chuỗi giám sát (không nội dung nhạy cảm nào được xuất bản mà thiếu người đánh giá được nêu tên).',
+      id: 'Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia dimulai — dengan model kepercayaan rantai pengawasan (tidak ada konten sensitif yang diterbitkan tanpa peninjau yang disebutkan namanya).',
     },
   },
   {
@@ -49,6 +51,7 @@ export const MILESTONES: Milestone[] = [
       ja: '完全な三言語対応',
       th: 'ความเท่าเทียมสามภาษาอย่างสมบูรณ์',
       vi: 'Tương đương đầy đủ ba ngôn ngữ',
+      id: 'Kesetaraan tiga bahasa',
     },
     body: {
       ms: 'Setiap topik tersedia dalam Bahasa Melayu, Inggeris dan Cina.',
@@ -58,6 +61,7 @@ export const MILESTONES: Milestone[] = [
       ja: 'すべてのトピックがマレー語、英語、中国語で利用可能。',
       th: 'ทุกหัวข้อมีให้บริการในภาษามลายู อังกฤษ และจีน',
       vi: 'Mọi chủ đề đều có bằng tiếng Mã Lai, tiếng Anh và tiếng Trung.',
+      id: 'Setiap topik tersedia dalam Bahasa Melayu, Inggris, dan Tionghoa.',
     },
   },
   {
@@ -71,6 +75,7 @@ export const MILESTONES: Milestone[] = [
       ja: 'アナリティクスとナレッジグラフ',
       th: 'การวิเคราะห์และกราฟความรู้',
       vi: 'Phân tích & Đồ thị tri thức',
+      id: 'Analitik & Graf Pengetahuan',
     },
     body: {
       ms: 'Analitik pelawat langsung dan graf pengetahuan interaktif menghubungkan setiap topik.',
@@ -80,6 +85,7 @@ export const MILESTONES: Milestone[] = [
       ja: 'リアルタイムの訪問者アナリティクスと、すべてのトピックをつなぐインタラクティブなグラフ。',
       th: 'การวิเคราะห์ผู้เข้าชมแบบเรียลไทม์และกราฟเชิงโต้ตอบที่เชื่อมโยงทุกหัวข้อ',
       vi: 'Phân tích người truy cập theo thời gian thực và một đồ thị tương tác liên kết mọi chủ đề.',
+      id: 'Analitik pengunjung langsung dan graf pengetahuan interaktif yang menghubungkan setiap topik.',
     },
   },
   {
@@ -93,6 +99,7 @@ export const MILESTONES: Milestone[] = [
       ja: 'ライフサイクルと貢献システム',
       th: 'ระบบวงจรชีวิตและการมีส่วนร่วม',
       vi: 'Hệ thống vòng đời & đóng góp',
+      id: 'Siklus hidup & kontribusi',
     },
     body: {
       ms: 'Aliran kerja editorial penuh dan model sumbangan terbuka — paparan Pembaca/Penyumbang dengan log masuk GitHub.',
@@ -102,6 +109,7 @@ export const MILESTONES: Milestone[] = [
       ja: '完全な編集ワークフローとオープンな貢献モデル——GitHub サインインによる読者/貢献者ビュー。',
       th: 'ขั้นตอนการทำงานด้านบรรณาธิการที่ครบถ้วนและแบบจำลองการมีส่วนร่วมแบบเปิด — มุมมองผู้อ่าน/ผู้มีส่วนร่วมพร้อมการเข้าสู่ระบบด้วย GitHub',
       vi: 'Một quy trình biên tập đầy đủ và mô hình đóng góp mở — chế độ xem Người đọc/Người đóng góp với đăng nhập GitHub.',
+      id: 'Alur kerja editorial lengkap dan model kontribusi terbuka — tampilan Pembaca/Kontributor dengan masuk melalui GitHub.',
     },
   },
   {
@@ -115,6 +123,7 @@ export const MILESTONES: Milestone[] = [
       ja: 'Facebook 自動投稿',
       th: 'การโพสต์อัตโนมัติบน Facebook',
       vi: 'Tự động đăng bài lên Facebook',
+      id: 'Penyiaran otomatis Facebook',
     },
     body: {
       ms: 'Setiap artikel baharu sampai kepada pembaca secara automatik, dalam setiap bahasa.',
@@ -124,6 +133,7 @@ export const MILESTONES: Milestone[] = [
       ja: 'すべての新しい記事が、各言語で自動的に読者に届きます。',
       th: 'ทุกบทความใหม่เข้าถึงผู้อ่านโดยอัตโนมัติในแต่ละภาษา',
       vi: 'Mọi bài viết mới đều tự động đến với độc giả, bằng từng ngôn ngữ.',
+      id: 'Setiap artikel baru sampai kepada pembaca secara otomatis, dalam setiap bahasa.',
     },
   },
   {
@@ -137,6 +147,7 @@ export const MILESTONES: Milestone[] = [
       ja: 'タミル語を公開——4番目の言語',
       th: 'เปิดตัวภาษาทมิฬ — ภาษาที่ 4',
       vi: 'Ra mắt tiếng Tamil — ngôn ngữ thứ 4',
+      id: 'Tamil diluncurkan — bahasa ke-4',
     },
     body: {
       ms: '1,073 artikel diterjemahkan ke bahasa Tamil; /ta menjadi bahasa penuh yang diindeks dan boleh ditemui.',
@@ -146,6 +157,7 @@ export const MILESTONES: Milestone[] = [
       ja: '1,073 本の記事をタミル語に翻訳；/ta が完全でインデックス化され、発見可能な言語になりました。',
       th: 'แปลบทความ 1,073 บทความเป็นภาษาทมิฬ; /ta กลายเป็นภาษาที่สมบูรณ์ ถูกจัดทำดัชนี และค้นพบได้',
       vi: '1,073 bài viết được dịch sang tiếng Tamil; /ta trở thành một ngôn ngữ đầy đủ, được lập chỉ mục và có thể khám phá.',
+      id: '1,073 artikel diterjemahkan ke bahasa Tamil; /ta menjadi bahasa lengkap yang terindeks dan dapat ditemukan.',
     },
   },
   {
@@ -159,6 +171,7 @@ export const MILESTONES: Milestone[] = [
       ja: 'スマートソーシャルエンジン',
       th: 'เอนจินโซเชียลอัจฉริยะ',
       vi: 'Công cụ mạng xã hội thông minh',
+      id: 'Mesin sosial pintar',
     },
     body: {
       ms: 'Penyiaran mengikut permintaan setiap bahasa, pada waktu puncak audiens, memanas mengikut usia Halaman.',
@@ -168,6 +181,7 @@ export const MILESTONES: Milestone[] = [
       ja: '言語ごとに需要順で、それぞれの読者のピーク時間帯に投稿し、各ページの成長に応じて徐々に配信量を増やします。',
       th: 'การโพสต์ที่จัดอันดับตามความต้องการของแต่ละภาษา ในช่วงเวลาพีคของผู้ชมแต่ละกลุ่ม และค่อย ๆ เพิ่มปริมาณตามอายุของแต่ละเพจ',
       vi: 'Đăng bài theo từng ngôn ngữ, xếp hạng theo nhu cầu vào giờ cao điểm của mỗi nhóm độc giả, tăng dần theo độ tuổi của mỗi Trang.',
+      id: 'Penyiaran berdasarkan permintaan tiap bahasa, pada waktu puncak audiens, meningkat sesuai usia Halaman.',
     },
   },
   {
@@ -182,6 +196,7 @@ export const MILESTONES: Milestone[] = [
       ko: '일본어 출시 — 5번째 언어',
       th: 'เปิดตัวภาษาญี่ปุ่น — ภาษาที่ 5',
       vi: 'Ra mắt tiếng Nhật — ngôn ngữ thứ 5',
+      id: 'Jepang diluncurkan — bahasa ke-5',
     },
     body: {
       ms: '1,073 artikel diterjemahkan ke bahasa Jepun; /ja menjadi bahasa penuh yang diindeks dan boleh ditemui.',
@@ -192,6 +207,7 @@ export const MILESTONES: Milestone[] = [
       ko: '1,073개 기사가 일본어로 번역되었습니다; /ja가 완전하고 색인화되어 검색 가능한 언어가 됩니다.',
       th: 'แปลบทความ 1,073 บทความเป็นภาษาญี่ปุ่น; /ja กลายเป็นภาษาที่สมบูรณ์ ถูกจัดทำดัชนี และค้นพบได้',
       vi: '1,073 bài viết được dịch sang tiếng Nhật; /ja trở thành một ngôn ngữ đầy đủ, được lập chỉ mục và có thể khám phá.',
+      id: '1,073 artikel diterjemahkan ke bahasa Jepang; /ja menjadi bahasa lengkap yang terindeks dan dapat ditemukan.',
     },
   },
   {
@@ -206,6 +222,7 @@ export const MILESTONES: Milestone[] = [
       ko: '한국어 출시 — 6번째 언어',
       th: 'เปิดตัวภาษาเกาหลี — ภาษาที่ 6',
       vi: 'Ra mắt tiếng Hàn — ngôn ngữ thứ 6',
+      id: 'Korea diluncurkan — bahasa ke-6',
     },
     body: {
       ms: '1,073 artikel diterjemahkan ke bahasa Korea; /ko menjadi bahasa penuh yang diindeks dan boleh ditemui.',
@@ -216,6 +233,7 @@ export const MILESTONES: Milestone[] = [
       ko: '1,073개 기사가 한국어로 번역되었습니다; /ko가 완전하고 색인화되어 검색 가능한 언어가 됩니다.',
       th: 'แปลบทความ 1,073 บทความเป็นภาษาเกาหลี; /ko กลายเป็นภาษาที่สมบูรณ์ ถูกจัดทำดัชนี และค้นพบได้',
       vi: '1,073 bài viết được dịch sang tiếng Hàn; /ko trở thành một ngôn ngữ đầy đủ, được lập chỉ mục và có thể khám phá.',
+      id: '1,073 artikel diterjemahkan ke bahasa Korea; /ko menjadi bahasa lengkap yang terindeks dan dapat ditemukan.',
     },
   },
   {
@@ -230,6 +248,7 @@ export const MILESTONES: Milestone[] = [
       ko: '태국어 출시 — 7번째 언어',
       th: 'เปิดตัวภาษาไทย — ภาษาที่ 7',
       vi: 'Ra mắt tiếng Thái — ngôn ngữ thứ 7',
+      id: 'Thai diluncurkan — bahasa ke-7',
     },
     body: {
       ms: '1,073 artikel diterjemahkan ke bahasa Thai; /th menjadi bahasa penuh yang diindeks dan boleh ditemui.',
@@ -240,6 +259,7 @@ export const MILESTONES: Milestone[] = [
       ko: '1,073개 기사가 태국어로 번역되었습니다; /th가 완전하고 색인화되어 검색 가능한 언어가 됩니다.',
       th: 'แปลบทความ 1,073 บทความเป็นภาษาไทย; /th กลายเป็นภาษาที่สมบูรณ์ ถูกจัดทำดัชนี และค้นพบได้',
       vi: '1,073 bài viết được dịch sang tiếng Thái; /th trở thành một ngôn ngữ đầy đủ, được lập chỉ mục và có thể khám phá.',
+      id: '1,073 artikel diterjemahkan ke bahasa Thai; /th menjadi bahasa lengkap yang terindeks dan dapat ditemukan.',
     },
   },
   {
@@ -254,6 +274,7 @@ export const MILESTONES: Milestone[] = [
       ko: '베트남어 출시 — 8번째 언어',
       th: 'เปิดตัวภาษาเวียดนาม — ภาษาที่ 8',
       vi: 'Ra mắt tiếng Việt — ngôn ngữ thứ 8',
+      id: 'Vietnam diluncurkan — bahasa ke-8',
     },
     body: {
       ms: '1,073 artikel diterjemahkan ke bahasa Vietnam; /vi menjadi bahasa penuh yang diindeks dan boleh ditemui.',
@@ -264,6 +285,7 @@ export const MILESTONES: Milestone[] = [
       ko: '1,073개 기사가 베트남어로 번역되었습니다; /vi가 완전하고 색인화되어 검색 가능한 언어가 됩니다.',
       th: 'แปลบทความ 1,073 บทความเป็นภาษาเวียดนาม; /vi กลายเป็นภาษาที่สมบูรณ์ ถูกจัดทำดัชนี และค้นพบได้',
       vi: '1,073 bài viết được dịch sang tiếng Việt; /vi trở thành một ngôn ngữ đầy đủ, được lập chỉ mục và có thể khám phá.',
+      id: '1,073 artikel diterjemahkan ke bahasa Vietnam; /vi menjadi bahasa lengkap yang terindeks dan dapat ditemukan.',
     },
   },
 ];

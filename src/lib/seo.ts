@@ -29,6 +29,7 @@ export function organizationJsonLd(locale: Locale = 'en'): Record<string, unknow
     ko: '말레이시아에 관한 오픈소스이자 AI 친화적인 지식 베이스 — Bahasa Melayu, English, 中文, தமிழ்.',
     th: 'ฐานความรู้เกี่ยวกับมาเลเซียแบบโอเพนซอร์สและเป็นมิตรกับ AI — Bahasa Melayu, English, 中文 และ தமிழ்.',
     vi: 'Cơ sở tri thức mã nguồn mở, thân thiện với AI về Malaysia — Bahasa Melayu, English, 中文 và தமிழ்.',
+    id: 'Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia — Bahasa Melayu, English, 中文, dan தமிழ்.',
   }[locale] ?? '';
   return {
     '@context': 'https://schema.org',
@@ -139,7 +140,7 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
     // liftable answer AI assistants and answer engines quote — previously it
     // only existed as on-page text, invisible to structured-data consumers.
     ...(d.answer ? { abstract: d.answer } : {}),
-    inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : locale === 'ko' ? 'ko' : 'en',
+    inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : locale === 'ko' ? 'ko' : locale === 'id' ? 'id' : 'en',
     datePublished: (d.created ?? d.updated).toISOString(),
     dateModified: d.updated.toISOString(),
     mainEntityOfPage: url,
@@ -270,6 +271,7 @@ export function websiteJsonLd(locale: Locale = 'en'): Record<string, unknown> {
     ko: '말레이시아에 관한 오픈소스이자 AI 친화적인 지식 베이스.',
     th: 'ฐานความรู้เกี่ยวกับมาเลเซียแบบโอเพนซอร์สและเป็นมิตรกับ AI.',
     vi: 'Cơ sở tri thức mã nguồn mở, thân thiện với AI về Malaysia.',
+    id: 'Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia.',
   }[locale] ?? '';
   return {
     '@context': 'https://schema.org',

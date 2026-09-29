@@ -42,6 +42,7 @@ export const DATASETS: Record<string, Provenance> = {
       ko: '부르사 말레이시아(Bursa Malaysia) 상장 기업',
       th: 'บริษัทจดทะเบียนในตลาดหลักทรัพย์บูร์ซามาเลเซีย (Bursa Malaysia)',
       vi: 'Các công ty niêm yết trên Bursa Malaysia',
+      id: 'Perusahaan tercatat di Bursa Malaysia',
     },
     verification: 'unverified',
     reviewer: null,
@@ -54,6 +55,7 @@ export const DATASETS: Record<string, Provenance> = {
       ko: '시가총액과 매출 수치는 예시용 근사 시드 값에 불과하며, 부르사 말레이시아(Bursa Malaysia)와 아직 대조되지 않았습니다. 어떠한 의사결정의 근거로도 삼지 마십시오.',
       th: 'ตัวเลขมูลค่าตามราคาตลาดและรายได้เป็นค่าเริ่มต้นโดยประมาณเพื่อการอธิบายเท่านั้น — ยังไม่ได้ตรวจสอบกับบูร์ซามาเลเซีย (Bursa Malaysia) อย่าใช้เป็นพื้นฐานในการตัดสินใจใด ๆ',
       vi: 'Số liệu vốn hóa thị trường và doanh thu là các giá trị khởi tạo gần đúng chỉ nhằm mục đích minh họa — chưa được đối chiếu với Bursa Malaysia. Không dựa vào chúng cho bất kỳ quyết định nào.',
+      id: 'Angka kapitalisasi pasar dan pendapatan adalah nilai awal perkiraan untuk tujuan ilustrasi saja — belum diverifikasi terhadap Bursa Malaysia. Jangan jadikan dasar keputusan.',
     },
   },
 };
