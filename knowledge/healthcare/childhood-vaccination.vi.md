@@ -125,4 +125,3 @@ Bài viết này cố ý không nêu độ tuổi hay liều tiêm cụ thể, v
 ## Tiếp theo
 
 Để hiểu vị trí của Klinik Kesihatan trong hệ thống y tế công của Malaysia một cách rộng hơn — bao gồm các dịch vụ khác được cung cấp tại cùng cơ sở — hãy đọc [Klinik Kesihatan: Cách Hệ thống Chăm sóc Ban đầu của Chính phủ Malaysia thực sự vận hành](/vi/healthcare/klinik-kesihatan). Đối với cha mẹ vẫn ở giai đoạn mang thai, [Sinh con ở Malaysia](/vi/healthcare/having-a-baby-in-malaysia) giải thích lộ trình chăm sóc trước sinh trước khi chào đời, bao gồm cả sổ ghi chép sức khỏe của người mẹ vốn tách biệt khỏi sổ ghi chép của trẻ em được bàn ở đây.
-</content>

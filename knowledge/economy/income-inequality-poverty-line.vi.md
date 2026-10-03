@@ -196,4 +196,3 @@ Vì các ngưỡng B40/M40/T20 được tính lại mỗi cuộc khảo sát, m�
 - Kiểm tra vị trí của chính bạn bằng cách so sánh thu nhập **hộ gia đình** (không phải lương cá nhân) với các ngưỡng 2022 trong bảng ở trên.
 - Để có các con số mới nhất theo bang và huyện, hãy tham khảo trực tiếp cổng **OpenDOSM** (open.dosm.gov.my) vốn cung cấp dữ liệu thô ở định dạng CSV và Parquet.
 - Khi đọc các bản tin cho rằng «nghèo tăng» hoặc «khoảng cách nới rộng», hãy kiểm tra xem thay đổi đó đến từ thực tế kinh tế hay từ một **cuộc rà soát phương pháp** — như việc nâng PGK năm 2019 — vì cả hai trông giống nhau trong các tiêu đề tin tức nhưng có nghĩa rất khác nhau.
-</content>

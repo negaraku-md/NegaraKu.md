@@ -154,5 +154,3 @@ CPI என்பது ஒரு சராசரி குடும்பம் 
   [DOSM-இன் Consumer Price Index பக்கத்தில்](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-may2026)
   அல்லது இயந்திரம் படிக்கக்கூடிய தொடரை
   [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-04)-இல் பாருங்கள்.
-</content>
-</invoke>

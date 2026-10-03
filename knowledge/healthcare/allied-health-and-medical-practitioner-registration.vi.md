@@ -105,4 +105,3 @@ Bạn có quyền hỏi. Cách đơn giản nhất:
 ## Tiếp theo
 
 Hãy bắt đầu với việc tra cứu MeRITS cho bất kỳ bác sĩ nào — nó miễn phí và mất chưa đến một phút. Đối với điều dưỡng viên, dược sĩ và các nghề y tế liên kết, hãy liên hệ ban hoặc hội đồng tương ứng qua cổng chính thức của Bộ Y tế Malaysia để xác nhận trạng thái. Nếu bạn nghi ngờ một người hành nghề mà không có trình độ hoặc đối mặt với hành vi sai trái nghề nghiệp, hãy báo cáo cho cơ quan quản lý ngành nghề đó, vốn có quyền kỷ luật theo đạo luật của nó. Như một quy tắc cơ bản: nếu tên không tồn tại trong sổ đăng ký, đừng đặt sức khỏe của bạn vào tay họ.
-</content>

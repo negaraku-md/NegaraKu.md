@@ -114,4 +114,3 @@ Một dịch chuyển của đồng tiền không bao giờ đơn giản là «t
 - Mối liên hệ chênh lệch lãi suất: [Lãi suất Chính sách Qua đêm](/vi/economy/opr-monetary-policy)
 - Các dòng thương mại đằng sau đồng tiền: [Cán cân Thương mại của Malaysia](/vi/economy/external-trade)
 - Tỷ giá tham chiếu trực tiếp: [BNM Financial Markets Investor Portal](https://financialmarkets.bnm.gov.my/)
-</content>

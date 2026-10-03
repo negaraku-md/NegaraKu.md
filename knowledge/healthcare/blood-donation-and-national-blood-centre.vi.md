@@ -120,4 +120,3 @@ Hãy mang **giấy tờ gốc** nhận dạng cá nhân — Thẻ Căn cước, 
 ## Tiếp theo
 
 Hãy xem lại các điều kiện đủ tiêu chuẩn và bảo đảm bạn ngủ đủ cùng đã ăn trước khi đến. Để có thông tin mới nhất, giờ hoạt động và địa điểm của các chiến dịch lưu động, hãy truy cập cổng chính thức của Trung tâm Máu Quốc gia tại pdn.gov.my hoặc liên hệ PDN ở số 03-2613 2688.
-</content>

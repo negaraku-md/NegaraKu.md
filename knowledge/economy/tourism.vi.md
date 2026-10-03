@@ -237,4 +237,3 @@ Thứ hai, công suất trung bình quốc gia và giá phòng trung bình. Lư�
 Thứ ba, Tourism Satellite Account hằng năm của DOSM, nơi GDP trực tiếp của du lịch là con số trả lời «điều này đáng giá gì với nền kinh tế» mà không vay tín dụng từ bán lẻ nội địa.
 
 Để đọc thêm liên quan, xem [tổng quan GDP Malaysia](/vi/economy/gdp-overview), [thương mại đối ngoại](/vi/economy/external-trade) — nơi nguồn thu lữ hành đi vào tài khoản dịch vụ — và [Vương quốc Malacca (Melaka Sultanate)](/vi/malaysia/melaka-sultanate), câu chuyện di sản mà VM2026 xây dựng lễ khởi động quanh nó.
-</content>

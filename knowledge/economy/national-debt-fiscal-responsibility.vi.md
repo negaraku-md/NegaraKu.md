@@ -145,4 +145,3 @@ Luật cũng cho phép sai lệch tạm thời trong **các hoàn cảnh bất t
 Để theo dõi diễn biến nợ quốc gia, hãy kiểm tra **Fiscal Outlook** hằng năm được Bộ Tài chính công bố cùng mỗi Ngân sách (thường là tháng 10) — nó chứa các con số nợ mới nhất, tỷ lệ GDP, và đánh giá tính bền vững của nợ. Báo cáo rủi ro tài khóa hằng năm và báo cáo JRFL cung cấp bức tranh về các khoản nợ tiềm tàng.
 
 Để hiểu bức tranh tài khóa rộng hơn, hãy khám phá các bài viết liên quan về [Ngân sách Liên bang](/vi/economy/federal-budget), [tổng quan GDP Malaysia](/vi/economy/gdp-overview), [xếp hạng tín nhiệm quốc gia](/vi/economy/sovereign-credit-rating-malaysia), và [hợp lý hóa trợ giá](/vi/economy/subsidy-rationalisation-padu) vốn ảnh hưởng trực tiếp đến lộ trình củng cố tài khóa của quốc gia.
-</content>

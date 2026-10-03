@@ -108,4 +108,3 @@ Nó cũng làm tập trung rủi ro. Ba mức phơi nhiễm đi thẳng từ cá
 - Các số liệu thương mại mà ngành này nằm trong đó: [Cán cân Thương mại của Malaysia](/vi/economy/external-trade)
 - Câu chuyện xuất khẩu cũ hơn: [Ngành Dầu cọ của Malaysia](/vi/economy/palm-oil-sector)
 - Dữ liệu đầu tư chính thức: [MIDA / InvestMalaysia](https://www.investmalaysia.gov.my/)
-</content>

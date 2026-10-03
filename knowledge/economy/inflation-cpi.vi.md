@@ -109,4 +109,3 @@ Lạm phát của Malaysia có một số đặc điểm cấu trúc khiến nó
 
 - So sánh với sản lượng: [Tổng quan GDP Malaysia](/vi/economy/gdp-overview)
 - Tham khảo trực tiếp bản công bố sơ cấp tại [trang Chỉ số Giá Tiêu dùng của DOSM](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-may2026) hoặc chuỗi dữ liệu máy đọc được trên [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-04).
-</content>

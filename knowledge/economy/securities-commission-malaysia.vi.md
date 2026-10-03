@@ -147,4 +147,3 @@ SC được đứng đầu bởi một Chủ tịch Điều hành. Dato' Mohamma
 ## Tiếp theo
 
 Nếu bạn giao dịch với chứng khoán Malaysia ở bất kỳ vai trò nào, chính trang của SC là tài liệu tham chiếu có thẩm quyền: hãy kiểm tra sổ đăng ký cấp phép trước khi tương tác với bất kỳ công ty môi giới hay cố vấn nào, và tham khảo Investor Alert List để sàng lọc các nền tảng không được phép. Về chi tiết pháp lý, Capital Markets and Services Act 2007 và các hướng dẫn phụ trợ của nó đặt ra các nghĩa vụ cụ thể áp dụng cho mỗi hoạt động được quản lý.
-</content>

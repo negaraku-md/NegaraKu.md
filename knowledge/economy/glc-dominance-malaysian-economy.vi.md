@@ -156,4 +156,3 @@ Nếu bạn muốn đi sâu hơn, các bước tiếp theo hữu ích là:
 - **Theo dõi việc thực hiện tiếp theo của PERKUKUH** — quan sát xem việc «crowding in» khu vực tư nhân có thực sự giảm sự thống trị của GLIC hay không, hay các cam kết như mục tiêu đầu tư trong nước RM120 tỷ lại đào sâu nó.
 - **Theo dõi các xu hướng sở hữu nước ngoài** trên Bursa Malaysia — sự tham gia của nước ngoài càng giảm, thị trường càng dựa vào các quỹ nhà nước, và câu hỏi này càng quan trọng.
 - **Kiểm tra các con số sơ cấp** mỗi năm qua các câu trả lời tại nghị viện và báo cáo thường niên của các GLIC thay vì các bản tóm tắt tiêu đề, vì tỷ trọng vốn hóa thị trường dịch chuyển theo giá.
-</content>

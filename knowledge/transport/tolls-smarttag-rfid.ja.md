@@ -125,5 +125,3 @@ RFID も ANPR/JustGO も、いずれも読み取りに成功したあとに上�
 ## 次に何をすべきか
 
 あなたの車両がまだ SmartTAG を使っているなら、即座の対応は不要である——当該の高速道路がその装置に対応している限り、有効であり続ける。切り替えたい人にとっては、RFID の登録が現在 Touch 'n Go が推奨する経路である。RFID としばしば混同される Touch 'n Go カード、Enhanced/NFC カード、eWallet アプリの違いについては、[/transport/touch-n-go](/transport/touch-n-go) を参照されたい。PLUS 網を頻繁に利用する運転者は、このシステムがなお段階的に発展中であることを踏まえ、JustGO をさらなる料金所へ拡大することに関する PLUS の公式発表に注意を払うことも勧められる。
-</content>
-</invoke>

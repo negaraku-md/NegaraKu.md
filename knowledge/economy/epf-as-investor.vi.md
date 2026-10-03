@@ -156,4 +156,3 @@ Quy mô đó cũng là lý do vì sao thu nhập đầu tư của chính EPF nh�
 - Nơi các khoản nắm giữ cổ phiếu của EPF thực sự được giao dịch, và cách chỉ số chuẩn được xây dựng: [Bursa Malaysia](/vi/economy/bursa-malaysia)
 - Ngân hàng trung ương mà EPF là một đơn vị nắm giữ lớn trên thị trường trái phiếu của nó: [Bank Negara Malaysia](/vi/economy/bank-negara-malaysia)
 - Cách EPF hòa vào bức tranh Công ty Liên kết với Chính phủ rộng lớn hơn: [GLC](/vi/glossary/glc)
-</content>

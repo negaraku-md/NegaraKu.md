@@ -130,4 +130,3 @@ keywords: ["getting married in Malaysia", "Malaysia marriage law", "civil marria
 
 - 非穆斯林夫妇应直接参阅[在马来西亚注册民事婚姻](/zh/settling-in/registering-a-marriage-civil)，了解完整的JPN程序。
 - 穆斯林夫妇，或其中一方正在皈依的夫妇，应向婚姻将注册所在州属的伊斯兰宗教局确认确切的程序、表格、婚前课程安排及费用——以上概要描述的是该程序的大致轮廓，而非单一固定的全国程序。
-</content>

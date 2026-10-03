@@ -77,4 +77,3 @@ Malaysia là một nền kinh tế thu nhập trung bình cao, định hướng 
 ## Kiến thức liên quan
 
 - [Ngành Dầu cọ](/vi/economy/palm-oil-sector)
-</content>

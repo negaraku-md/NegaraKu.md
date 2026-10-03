@@ -77,4 +77,3 @@ Ngành này ảnh hưởng đến các tiểu điền chủ và công nhân đ�
 ## Kiến thức liên quan
 
 - [Tổng quan GDP Malaysia](/vi/economy/gdp-overview)
-</content>

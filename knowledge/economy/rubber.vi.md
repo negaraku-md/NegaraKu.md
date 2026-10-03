@@ -134,4 +134,3 @@ Gánh nặng tuân thủ đó giáng xuống những bên nhỏ nhất — chín
 - Xem các sản phẩm cao su nằm ở đâu trong [thương mại đối ngoại của Malaysia](/vi/economy/external-trade) bên cạnh điện tử và hàng hóa nguyên liệu.
 - Đọc ngành này trong bối cảnh ở [tổng quan GDP](/vi/economy/gdp-overview).
 - Để có các con số hằng tháng hiện hành, hãy tham khảo bản công bố *Monthly Rubber Statistics* của DOSM và Malaysian Rubber Board trực tiếp — các chuỗi sản lượng, tồn kho và giá được điều chỉnh và dịch chuyển mạnh từ tháng này sang tháng khác.
-</content>

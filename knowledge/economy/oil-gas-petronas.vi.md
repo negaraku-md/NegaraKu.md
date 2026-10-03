@@ -192,4 +192,3 @@ Về mặt tài khóa, MOF đã lập ngân sách hạng thu liên quan đến d
 Về mặt vận hành, sản lượng đang dịu lại chứ không tăng — sản lượng tập đoàn tụt trong năm 2025 — trong khi PETRONAS mô tả khoản đầu tư Malaysia của mình nhằm duy trì và gia tăng sản lượng. Sự kết hợp đó hàm ý chi tiêu vốn nặng chỉ để giữ nguyên mức.
 
 Mục chưa được giải quyết là thỏa thuận liên bang-bang. Mọi bước kể từ năm 2020 đều mang tính thương mại — các thỏa thuận dàn xếp, tham gia vốn, bổ nhiệm vai trò tổng hợp, một tuyên bố chung — trong khi mục 2 của Act 144 vẫn y hệt như Nghị viện ban hành vào năm 1974. Liệu điều đó có được giữ vững hay không, và trên những điều khoản thương mại nào, là câu hỏi đáng theo dõi.
-</content>

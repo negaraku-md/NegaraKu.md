@@ -145,4 +145,3 @@ Theo Tổ chức Y tế Thế giới (WHO), Sách Trắng này nhận được s
 Malaysia đã chuyển từ quản lý đại dịch sang giai đoạn dịch lưu hành (endemic), với các hạn chế toàn diện được chấm dứt và trọng tâm chuyển sang phục hồi hệ thống y tế dài hạn. Các diễn biến tiếp theo liên quan bao gồm việc thực hiện theo từng giai đoạn của Sách Trắng Y tế, việc cải thiện nguồn cung lực lượng y tế công, và việc tiếp tục sử dụng hạ tầng số như MySejahtera trong các dịch vụ y tế.
 
 Bản nháp này được soạn với sự hỗ trợ của AI và cần được người rà soát. Tất cả các con số và ngày tháng cần được xác nhận lại đối chiếu với các nguồn chính thức mới nhất như bảng điều khiển COVIDNOW/KKMNOW của Bộ Y tế trước khi xuất bản.
-</content>

@@ -240,4 +240,3 @@ Với bất cứ điều gì mang tính then chốt, hãy đến nguồn sơ c�
 - Dữ liệu giá cả nó nhắm tới: [lạm phát và CPI](/vi/economy/inflation-cpi)
 - Thanh toán mà nó giám sát: [quản lý thanh toán tại Malaysia](/vi/business/payment-regulation-malaysia)
 - Đọc chính văn bản luật tại [Act 701 trên cổng Laws of Malaysia của AGC](https://lom.agc.gov.my/act-detail.php?act=701&lang=BI) hoặc [trang lập pháp của BNM](https://www.bnm.gov.my/legislation).
-</content>

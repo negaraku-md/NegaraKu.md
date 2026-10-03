@@ -166,4 +166,3 @@ Một điểm quan trọng cần hiểu về mặt mô tả: **Điều 153 khôn
 Tài liệu và các chỉ tiêu đầy đủ của PuTERA35 có sẵn tại cổng chính thức của Bộ Kinh tế ở putera35.ekonomi.gov.my.
 
 Trang này mang một dấu hiệu nhạy cảm và vẫn ở dạng bản nháp cho đến khi được một người rà soát được nêu tên xem xét và xác nhận.
-</content>

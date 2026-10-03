@@ -209,4 +209,3 @@ Sarawak, semak semula kelayakan kerja lebih masa, kelayakan bersalin dan paterni
 prosedur kerja fleksibel berdasarkan Ordinan yang berkenaan dan bukan Akta 265. Kemudian
 sahkan status permulaan semasa Bahagian IVA terus dengan JTK Sabah atau JTK Sarawak — itulah
 satu-satunya bahagian yang masih bergerak.
-</content>

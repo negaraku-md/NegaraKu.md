@@ -221,4 +221,3 @@ Bên trong Malaysia, theo thước đo dựa trên tài sản của IFSB tại Q
 Nếu bạn đang so sánh một lời chào tài trợ, trước tiên hãy lấy tên hợp đồng — murabahah, tawarruq, ijarah hay musharakah mutanaqisah — rồi hỏi công thức ibra' và các điều khoản ta'widh bằng văn bản, vì hai điều khoản đó quyết định việc tất toán sớm và trả chậm thực sự tốn của bạn bao nhiêu.
 
 Nếu bạn đang theo dõi ngành, hai chuỗi sơ cấp cần theo dõi là số liệu thống kê thị trường thường niên của Ủy ban Chứng khoán cho thị trường vốn Hồi giáo và báo cáo ổn định của IFSB để so sánh giữa các quốc gia. Để biết phông nền tiền tệ làm dịch chuyển các tỷ lệ lợi nhuận song song với việc định giá thông thường, xem [OPR và chính sách tiền tệ](/vi/economy/opr-monetary-policy).
-</content>

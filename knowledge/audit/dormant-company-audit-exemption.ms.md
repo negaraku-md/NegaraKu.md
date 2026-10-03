@@ -165,5 +165,3 @@ Tidak kira laluan mana yang memberikan anda pengecualian — dorman atau
 ambang — kewajipan pemfailan, penyimpanan rekod dan tanggungjawab pengarah di
 sebalik itu adalah sama, dan di situlah penjimatan yang disangka wujud
 sebenarnya habis dibelanjakan secara senyap-senyap.
-</content>
-</invoke>

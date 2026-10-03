@@ -135,4 +135,3 @@ Những vấn đề này liên quan đến diễn giải chính sách và, trong
 ## Tiếp theo
 
 Bản nháp này sắp xếp các con số chính thức hiện có và vẫn cần được người rà soát. Một số diễn biến đáng được theo dõi qua các nguồn chính thức: việc triển khai ủy ban halal được đề xuất theo RMK-13 và các hàm ý của nó đối với cấu trúc quản trị JAKIM–MAIN; các cập nhật thống kê halal của DOSM sau năm tham chiếu 2022; cùng các con số xuất khẩu cả năm do MITI/MIDA công bố. Độc giả cần các chi tiết chứng nhận được khuyến khích tham khảo trực tiếp cổng chính thức của JAKIM và KPDN, vì các yêu cầu kỹ thuật và danh sách các tổ chức được công nhận được cập nhật theo thời gian.
-</content>

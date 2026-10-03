@@ -104,4 +104,3 @@ Ngoài vấn đề đơn thuốc, một câu hỏi khác thường nảy sinh �
 ## Tiếp theo
 
 Đối với bệnh nhân dùng thuốc dài hạn, hãy đọc về [bảo hiểm y tế](/vi/healthcare/medical-insurance) để hiểu chi phí thuốc được các gói sức khỏe chi trả đến mức nào. Đối với người cao tuổi hoặc gia đình quản lý thuốc tiếp theo một cách định kỳ, [chăm sóc sức khỏe người cao tuổi](/vi/healthcare/healthcare-for-seniors) cũng giải thích các dịch vụ giá trị gia tăng của nhà thuốc như thuốc qua bưu điện vốn giảm nhu cầu đến quầy mỗi tháng.
-</content>

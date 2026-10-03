@@ -197,4 +197,3 @@ Nếu các mục tiêu đó không đạt được, mục 27 buộc Bộ trưở
 Để tự đọc các nguồn chính: Phần VII của [Hiến pháp Liên bang](/vi/law/federal-constitution) (Điều 96–107) cung cấp khuôn khổ hiến định; Nội quy 65 đến 67 cung cấp thủ tục chi tiết của Hạ viện; và Act 850 cung cấp các nghĩa vụ báo cáo cùng các mục tiêu tài khóa.
 
 Để có bối cảnh vĩ mô đằng sau các con số hạng thu và thâm hụt, xem [tổng quan GDP Malaysia](/vi/economy/gdp-overview). Để biết cách Nghị viện vận hành ngoài mùa ngân sách, xem [Nghị viện Malaysia](/vi/government/parliament).
-</content>

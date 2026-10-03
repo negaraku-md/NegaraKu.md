@@ -192,4 +192,3 @@ Hai chương trình cuối được Bộ Thương mại Nội địa và Chi ph�
 Để tự kiểm tra: thông cáo báo chí giá dầu mỏ của Bộ Tài chính được công bố mỗi thứ Tư, và chuỗi giá đầy đủ có sẵn dưới dạng dữ liệu mở tại catalog OpenDOSM. Điều kiện và hạn ngạch cá nhân theo BUDI95 và BUDI Diesel được kiểm tra qua cổng BUDI MADANI, trong khi các chương trình đội xe SKPS và SKDS được điều hành qua MySubsidi của KPDN.
 
 Để có bối cảnh vĩ mô rộng hơn — cách các cú sốc giá nhiên liệu chảy vào lạm phát tổng thể và các cân nhắc lãi suất — xem [tỷ lệ lạm phát và CPI](/vi/economy/inflation-cpi) cùng [Lãi suất Chính sách Qua đêm và chính sách tiền tệ](/vi/economy/opr-monetary-policy).
-</content>

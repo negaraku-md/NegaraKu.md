@@ -140,5 +140,3 @@ DBKL——クアラルンプール市庁——は独自の**「クアラルン�
 が日々どのように都市を移動しているかについての関連する読み物としては、
 [クランバレーの鉄道](/ja/transport/klang-valley-rail)と
 [配車サービス（e-ハイリング）の規制](/ja/transport/e-hailing-grab)を参照。
-</content>
-</invoke>

@@ -159,4 +159,3 @@ Vị thế của luật phá thai tại Malaysia xoay quanh một thế cân b�
 Đối với bất kỳ ai cần thông tin liên quan đến tình huống thực tế của họ, bước hợp lý nhất là tham khảo trực tiếp một người hành nghề y đã đăng ký hoặc tìm lời khuyên pháp lý chuyên nghiệp, vì mỗi trường hợp phụ thuộc vào các sự kiện và đánh giá lâm sàng của riêng nó.
 
 Bản nháp này được soạn với sự hỗ trợ của AI và vẫn đang chờ người rà soát. Nó nhằm giải thích khuôn khổ pháp lý một cách trung lập, chứ không thay thế cho lời khuyên chính thức.
-</content>

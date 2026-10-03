@@ -122,4 +122,3 @@ Tỷ lệ thất nghiệp của Malaysia đã ở mức thấp theo tiêu chuẩ
 - Đọc cùng với giá cả: [Tỷ lệ lạm phát của Malaysia](/vi/economy/inflation-cpi)
 - Và sản lượng: [Tổng quan GDP Malaysia](/vi/economy/gdp-overview)
 - Nguồn sơ cấp: [DOSM Labour Force Statistics](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026)
-</content>

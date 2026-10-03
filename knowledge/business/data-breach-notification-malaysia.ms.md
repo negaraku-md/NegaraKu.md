@@ -190,5 +190,3 @@ Perenggan 10.1 memerlukan pemberitahuan itu **langsung dan individu**, dalam bah
 Sediakan pelan tindakan sebelum anda memerlukannya: siapa yang menjalankan siasatan awal, siapa yang meluluskan penilaian kemudaratan ketara berdasarkan lima cabang itu, siapa yang mengemukakan laporan, dan siapa yang menyediakan notis individu. Pinda perjanjian pemprosesan data anda supaya pemproses mesti memberitahu anda dalam masa beberapa jam, bukan beberapa hari.
 
 Kemudian baca s.12A bersama-sama dengannya. Di mana DPO adalah wajib, perenggan 7.8 menjadikan pegawai itu titik hubungan utama Pesuruhjaya bagi pelanggaran itu; di mana ia tidak wajib, anda tetap perlu menamakan seorang wakil yang mempunyai kekananan dan kepakaran yang mencukupi.
-</content>
-</invoke>

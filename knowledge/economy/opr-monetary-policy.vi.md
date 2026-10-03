@@ -125,4 +125,3 @@ Một chuỗi dài các quyết định «không thay đổi», như trong năm 
 - Điều mà OPR đang cố kiểm soát: [Tỷ lệ lạm phát của Malaysia](/vi/economy/inflation-cpi)
 - Phía tăng trưởng của sứ mệnh: [Tổng quan GDP Malaysia](/vi/economy/gdp-overview)
 - Dữ liệu sơ cấp: [BNM Financial Markets Investor Portal](https://financialmarkets.bnm.gov.my/data-download-opr)
-</content>

@@ -167,4 +167,3 @@ Từ góc độ tài khóa, mục tiêu của chính sách này là bảo đảm
 Hãy chú ý ba điều. Thứ nhất, liệu và cách cơ chế RON95 có mục tiêu dựa trên thu nhập cuối cùng được thực hiện — bao gồm cách ngưỡng thu nhập được chuyển thành trải nghiệm thực tế tại trạm bơm và quy trình khiếu nại cho những người bị phân loại nhầm. Thứ hai, mức độ của khoản tiết kiệm RON95 thực tế (sau khi tính đến các khoản chuyển tiền mặt được mở rộng) so với khoản tiết kiệm diesel đã được chứng minh. Thứ ba, việc quản trị dữ liệu của chính PADU — ai có thể truy cập 30,4 triệu hồ sơ đó và cách tính chính xác của nó được duy trì theo thời gian.
 
 Để kiểm tra tình trạng hoặc cập nhật hồ sơ của bạn, hãy truy cập cổng chính thức của PADU tại padu.gov.my. Để hiểu cơ chế giá tại trạm bơm tách biệt khỏi việc sàng lọc điều kiện này, hãy tham khảo hướng dẫn trợ giá nhiên liệu BUDI MADANI.
-</content>

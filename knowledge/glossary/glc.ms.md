@@ -92,4 +92,3 @@ perniagaan Malaysia.
 ## Istilah berkaitan
 
 - [Sdn Bhd](/glossary/sdn-bhd)
-</content>

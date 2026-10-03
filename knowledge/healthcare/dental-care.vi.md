@@ -127,4 +127,3 @@ Nha sĩ hành nghề — dù ở khu vực chính phủ hay tư nhân — đều
 ## Tiếp theo
 
 Để có thông tin khác liên quan đến chăm sóc sức khỏe ở Malaysia — từ cơ sở bệnh viện chính phủ đến bảo hiểm sức khỏe tư nhân — hãy truy cập hạng mục [Y tế](/vi/healthcare). Đối với những người muốn tìm phòng khám nha khoa chính phủ gần đó, dịch vụ tra cứu chính thức có thể được truy cập qua cổng [MyGovernment](https://www.malaysia.gov.my/my/digital-services/carian-klinik-pergigian-kerajaan).
-</content>

@@ -166,4 +166,3 @@ Quy trình phê duyệt của nó cũng theo con đường thông thường củ
 Để hiểu cách một phần nhỏ của RM430 tỷ RMK13 được chuyển hóa thành khoản phân bổ thực tế mỗi năm, xem [Chu trình Ngân sách Liên bang](/vi/economy/federal-budget). Để có bối cảnh GDP và các chỉ báo vĩ mô làm cơ sở cho các chỉ tiêu kết quả của RMK13, xem [Tổng quan GDP Malaysia](/vi/economy/gdp-overview). Để biết cách một kiến nghị như RMK13 thực sự được tranh luận và phê duyệt, xem [Nghị viện Malaysia](/vi/government/parliament).
 
 Tài liệu đầy đủ của RMK13 — bao gồm Sách Chính, tóm tắt điều hành và văn bản bài phát biểu trình bày — có sẵn tại cổng chính thức của Bộ Kinh tế ở rmk13.ekonomi.gov.my.
-</content>

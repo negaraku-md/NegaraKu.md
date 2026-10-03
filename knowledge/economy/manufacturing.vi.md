@@ -188,4 +188,3 @@ Các công cụ được nêu tên trong Kế hoạch là New Industrial Master 
 Hãy theo dõi bốn chuỗi thay vì tỷ trọng chủ đạo. Bản công bố năng suất lao động hằng quý của DOSM cho thấy khoảng cách giá-trị-mỗi-giờ so với dịch vụ có tiếp tục nới rộng hay không. Bản công bố GDP theo phương pháp thu nhập hằng năm cho thấy tỷ trọng tiền lương có rời khỏi mức 33-34% hay không. Các phê duyệt hằng quý của MIDA cho thấy tỷ trọng trong nước của đầu tư chế tạo có tăng trên một phần tư hay không. Và chi tiết tiểu khu vực trong mỗi bản công bố GDP hằng quý cho thấy tăng trưởng có mở rộng ra ngoài điện tử hay không.
 
 Để có bức tranh rộng hơn, hãy bắt đầu với [tổng quan GDP](/vi/economy/gdp-overview), rồi đọc [điện tử và bán dẫn](/vi/economy/electronics-semiconductors) để biết khu vực chi phối cả sản lượng chế tạo lẫn [thương mại đối ngoại](/vi/economy/external-trade).
-</content>

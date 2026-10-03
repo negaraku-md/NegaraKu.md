@@ -209,4 +209,3 @@ billion——约占 Bursa Malaysia 总市值的 9%，高于五年历史平均值
   [Bank Negara Malaysia](/zh/economy/bank-negara-malaysia)
 - EPF 如何融入更广泛的政府关联公司（Government-Linked Company）版图：
   [GLC](/zh/glossary/glc)
-</content>

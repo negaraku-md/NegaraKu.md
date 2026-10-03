@@ -221,4 +221,3 @@ pihak beragama Islam, bukan pilihan peribadi. Dari situ:
   dan yuran yang tepat dengan jabatan agama Islam negeri tempat
   perkahwinan itu akan didaftarkan — gambaran di atas menerangkan bentuk
   umum proses ini, bukan satu prosedur negara yang tetap.
-</content>

@@ -130,5 +130,3 @@ PVPのESD申請料は、2024年9月1日に発効した料金表のもとで**RM1
 ## 次のステップ
 
 その取り決めが実際にはマレーシア企業を雇用主にすることになるのであれば、正しいパスは[エンプロイメントパス](/ja/settling-in/employment-pass)であって、本来の目的を超えて引き伸ばされたPVPではない。外国人がマレーシアで就労するために利用できるあらゆる経路——エンプロイメントパスの各カテゴリー、DE Rantau Nomad Pass、Residence Pass-Talentを含む——の横並び比較については、[マレーシアの就労パス比較](/ja/employment/work-passes-malaysia)を参照されたい。そして、これらすべてを所管する部門については、[Jabatan Imigresen Malaysia](/ja/government/imigresen)を参照されたい。
-</content>
-</invoke>

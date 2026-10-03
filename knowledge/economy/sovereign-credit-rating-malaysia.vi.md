@@ -132,4 +132,3 @@ Vì Malaysia vay chủ yếu bằng chính đồng tiền của mình, xếp h�
 Câu hỏi trước mắt là liệu Malaysia có thể giữ thâm hụt của mình trên một lộ trình đi xuống về phía mức dưới 3% mà S&P đã nêu cho một lần nâng bậc, trong khi duy trì tăng trưởng và ổn định chính trị mà các hãng coi trọng. Hãy theo dõi Ngân sách hằng năm để biết quỹ đạo thâm hụt, nhịp độ hợp lý hóa trợ giá, và mỗi lần rà soát theo lịch của từng hãng — S&P, Moody's và Fitch thường xem lại xếp hạng ít nhất một lần một năm, và Bộ Tài chính công bố mỗi quyết định.
 
 Về các công cụ cơ sở và bức tranh nợ, xem các ghi chú liên quan về Chứng khoán Chính phủ Malaysia và nợ chính phủ liên bang. Hãy luôn kiểm tra thông cáo báo chí mới nhất của hãng hoặc bản chụp nhanh xếp hạng InvestMalaysia để có các con số hiện hành, vì xếp hạng và triển vọng có thể thay đổi giữa các lần rà soát.
-</content>

@@ -168,4 +168,3 @@ Sự phân biệt trong thực tế: nếu bạn là một người lao động,
 - Quỹ thực sự bán đơn vị cho công chúng: [PNB](/vi/economy/pnb)
 - GLC là gì, và nó khác GLIC như thế nào: [GLC](/vi/glossary/glc)
 - Ngân hàng trung ương của Malaysia, một cơ quan luật định hoàn toàn riêng biệt: [Bank Negara Malaysia](/vi/economy/bank-negara-malaysia)
-</content>

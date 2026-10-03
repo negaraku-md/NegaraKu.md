@@ -176,4 +176,3 @@ Các hướng song phương khác cũng đã xuất hiện trong đường ống
 Nếu bạn xuất khẩu hay nhập khẩu, bước thực dụng là kiểm tra cổng FTA chính thức của MITI (`fta.miti.gov.my`) để biết biểu thuế cụ thể và các yêu cầu quy tắc xuất xứ áp dụng cho sản phẩm và điểm đến của bạn — các ngày đưa vào dần và ngưỡng hàm lượng nội địa khác nhau theo từng hiệp định và từng dòng thuế. Đối với hầu hết hàng chế tạo hướng tới ASEAN hoặc Đông Á, chế độ quy tắc xuất xứ duy nhất của RCEP đáng được mô hình hóa đối chiếu với các thỏa thuận ASEAN-cộng cũ hơn để xem thỏa thuận nào mang lại kết quả tốt hơn.
 
 Hãy theo dõi các hướng EU và EFTA. Một thỏa thuận EU đã hoàn tất sẽ là hiệp định toàn diện đầu tiên của Malaysia với khối này và sẽ định hình lại quyền tiếp cận cho dầu cọ, điện tử và dịch vụ như nhau. Để biết nền tảng khu vực cơ sở, xem bài tổng quan đồng hành của chúng tôi về tư cách thành viên ASEAN của Malaysia.
-</content>

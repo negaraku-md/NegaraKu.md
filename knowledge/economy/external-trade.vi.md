@@ -114,4 +114,3 @@ Một con chip nhập khẩu trị giá RM90, được lắp vào một thiết 
 - Sản lượng và cơ cấu: [Tổng quan GDP Malaysia](/vi/economy/gdp-overview)
 - Một ngành xuất khẩu lớn: [Ngành Dầu cọ của Malaysia](/vi/economy/palm-oil-sector)
 - Nguồn sơ cấp: [DOSM Monthly External Trade Statistics](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026)
-</content>

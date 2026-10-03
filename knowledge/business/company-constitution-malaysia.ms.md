@@ -278,5 +278,3 @@ perjanjian pemegang saham, atau kedua-duanya.
 statut adalah kepada Akta Syarikat 2016 (Akta 777) sebagaimana diterbitkan oleh SSM. Ini
 adalah huraian tentang lalai berkanun, bukan nasihat mengenai susunan pemegangan saham
 tertentu.
-</content>
-</invoke>

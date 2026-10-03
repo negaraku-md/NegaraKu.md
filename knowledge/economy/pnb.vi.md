@@ -218,4 +218,3 @@ Kế hoạch mang một mục tiêu chủ đạo RM400 tỷ tài sản quản l�
 - Nguồn tiết kiệm lớn khác liên kết với Bumiputera, và vì sao ASB không phải là một phần của nó: [EPF](/vi/glossary/epf)
 - Nơi việc tăng hạn mức đầu tư năm 2023 được công bố: [ngân sách liên bang](/vi/economy/federal-budget)
 - Tự đọc chi tiết ở cấp quỹ tại [các trang sản phẩm của ASNB](https://www.asnb.com.my) hoặc trang riêng của PNB tại [pnb.com.my](https://www.pnb.com.my).
-</content>

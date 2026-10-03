@@ -156,4 +156,3 @@ Nói ngắn gọn, cơ cấu biểu giá mới tưởng thưởng cho những ng
 Điều thiết thực nhất cần theo dõi là **mức AFA hằng tháng** do Ủy ban Năng lượng công bố — đó là yếu tố quyết định thực sự việc hóa đơn tăng hay giảm mỗi tháng. Hãy kiểm tra công cụ tính biểu giá chính thức của TNB để ước tính hóa đơn của bạn theo hồ sơ tiêu thụ, và nếu mức sử dụng của bạn gần 1.000 kWh, các biện pháp hiệu quả năng lượng có thể giữ bạn trong vùng ưu đãi.
 
 Đối với doanh nghiệp, RP4 kéo dài đến ngày 31 tháng 12 năm 2027, vì vậy đây là lúc để đánh giá kiểm toán năng lượng và các lựa chọn điện mặt trời áp mái. Đối với nhà đầu tư, các dự án chủ lực của NETR và các đòn bẩy như hydro và CCUS là những mảng cần theo dõi khi các chi tiết triển khai và ưu đãi xanh như GITA/GITE được mở rộng. Hãy xem lại trang này khi các điều chỉnh biểu giá và việc đạt các mục tiêu NETR 2025 được cập nhật chính thức.
-</content>
