@@ -23,7 +23,7 @@ appliesTo: "Siapa pun yang memerlukan fakta dasar Malaysia — populasi, luas, i
 lang: "id"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

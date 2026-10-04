@@ -20,7 +20,7 @@ appliesTo: "Pelajar setelah Tingkatan 3 atau SPM, orang tua yang membuat perenca
 lang: "id"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

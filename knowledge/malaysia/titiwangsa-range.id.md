@@ -20,7 +20,7 @@ appliesTo: "Cocok untuk pembaca yang menginginkan penjelasan yang jelas dan terv
 lang: "id"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

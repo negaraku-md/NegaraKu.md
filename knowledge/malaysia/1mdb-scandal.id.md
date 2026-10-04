@@ -34,9 +34,9 @@ lang: "id"
 masterLanguage: "en"
 translationStatus: "pending"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-27
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

@@ -23,7 +23,7 @@ appliesTo: "Siapa saja yang berusaha mengetahui tingkat pemerintahan mana yang p
 lang: "id"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

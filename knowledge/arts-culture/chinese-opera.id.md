@@ -21,7 +21,7 @@ appliesTo: "Siapa saja yang ingin memahami jenis-jenis wayang Tionghoa tradision
 lang: "id"
 masterLanguage: "zh"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

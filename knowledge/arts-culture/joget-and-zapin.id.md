@@ -22,7 +22,7 @@ appliesTo: "Siapa saja yang ingin memahami perbedaan asal usul, musik, dan gerak
 lang: "id"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

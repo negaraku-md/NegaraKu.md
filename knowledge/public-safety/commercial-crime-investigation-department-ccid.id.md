@@ -35,7 +35,7 @@ lang: "id"
 masterLanguage: "ms"
 translationStatus: "pending"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

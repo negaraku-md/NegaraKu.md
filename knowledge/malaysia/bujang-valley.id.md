@@ -21,7 +21,7 @@ appliesTo: "Siapa saja yang ingin memahami asal usul peradaban awal di tanah Mel
 lang: "id"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

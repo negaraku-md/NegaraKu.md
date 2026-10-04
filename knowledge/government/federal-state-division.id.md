@@ -24,9 +24,9 @@ appliesTo: "Siapa saja yang perlu mengetahui, subjek demi subjek, apakah Perseku
 lang: "id"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -43,7 +43,7 @@ translationStatus: "pending"
 verificationNeeded:
   - "Apakah halaman paspor kosong secara formal diperlukan untuk masuk (tidak dinyatakan pada sumber MIDA yang dikutip)."
 
-status: "draft"
+status: "published"
 publishedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null

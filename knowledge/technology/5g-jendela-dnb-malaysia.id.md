@@ -46,7 +46,7 @@ verificationNeeded:
   - "RFP JENDELA Fase 2 'JP2' dilaporkan oleh The Edge sebagai dikeluarkan pada '31 Maret'; pastikan bahwa tahunnya adalah 2026 terhadap sumber MCMC/Kementerian Komunikasi."
   - "Tanggal pengeluaran Ministerial Direction No. 3 of 2021 (31 Mei 2021) diambil dari SoyaCincau; pastikan terhadap warta resmi atau rekod MCMC."
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

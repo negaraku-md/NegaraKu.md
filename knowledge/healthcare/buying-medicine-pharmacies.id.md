@@ -20,7 +20,7 @@ appliesTo: "Siapa saja yang membeli obat di farmasi pemerintah atau swasta di Ma
 lang: "id"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

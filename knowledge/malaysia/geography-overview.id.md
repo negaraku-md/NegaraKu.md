@@ -19,7 +19,7 @@ appliesTo: "Siapa saja yang mencoba memahami mengapa populasi, kota, dan risiko 
 lang: "id"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

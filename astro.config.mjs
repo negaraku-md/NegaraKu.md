@@ -225,6 +225,29 @@ const redirects = {
   '/vi/technology/mcmc-malaysia': '/vi/government/mcmc-communications-multimedia-commission',
   '/vi/government/ma63-sabah-sarawak-autonomy': '/vi/malaysia/ma63',
   '/vi/glossary/dasar-ekonomi-baru': '/vi/malaysia/new-economic-policy',
+  // /id mirrors of every retired-dupe redirect above (added 2026-10-04 at Indonesian
+  // open launch; the .id dupes are archived like their ms/en/zh/ta/ja/ko/th/vi siblings).
+  '/id/government/national-registration-department-jpn': '/id/government/jpn',
+  '/id/government/ministry-of-investment-trade-industry-miti': '/id/government/miti',
+  '/id/glossary/bank-negara-malaysia': '/id/economy/bank-negara-malaysia',
+  '/id/government/bank-negara-malaysia': '/id/economy/bank-negara-malaysia',
+  '/id/energy/petronas': '/id/companies/petronas',
+  '/id/industries/petronas-industry-profile': '/id/companies/petronas',
+  '/id/law/personal-data-protection-act-2010': '/id/law/pdpa-2010',
+  '/id/business/cyber-security-act-malaysia': '/id/technology/cyber-security-act-2024',
+  '/id/companies/pnb-and-asnb': '/id/economy/pnb',
+  '/id/glossary/felda': '/id/agriculture/felda-land-settlement-scheme',
+  '/id/glossary/orang-asli': '/id/arts-culture/orang-asli',
+  '/id/energy/tnb-tenaga-nasional': '/id/companies/tenaga-nasional',
+  '/id/companies/khazanah-nasional': '/id/economy/khazanah',
+  '/id/glossary/khazanah-nasional': '/id/economy/khazanah',
+  '/id/economy/deposit-insurance-pidm': '/id/finance/pidm-deposit-and-takaful-insurance-protection',
+  '/id/glossary/polis-diraja-malaysia': '/id/government/pdrm',
+  '/id/public-safety/royal-malaysia-police-pdrm': '/id/government/pdrm',
+  '/id/glossary/suruhanjaya-pilihan-raya': '/id/government/spr-election-commission',
+  '/id/technology/mcmc-malaysia': '/id/government/mcmc-communications-multimedia-commission',
+  '/id/government/ma63-sabah-sarawak-autonomy': '/id/malaysia/ma63',
+  '/id/glossary/dasar-ekonomi-baru': '/id/malaysia/new-economic-policy',
 };
 
 export default defineConfig({
@@ -263,12 +286,9 @@ export default defineConfig({
   integrations: [
     mdx(),
     sitemap({
-      // ms/en/zh/ta/ja/ko/th/vi are fully launched (in LOCALES, indexed, in this sitemap).
-      // Indonesian (`id`) is SOFT-LAUNCHED (Phase 0): routes/chrome build for preview but
-      // held OUT of LOCALES (→ noindex) and out of this sitemap via the filter below, until
-      // its open launch. Remove the filter + add id to the locales map (and to LOCALES in
-      // i18n.ts) at Phase 3.
-      filter: (page) => !/\/id(\/|$)/.test(page),
+      // ms/en/zh/ta/ja/ko/th/vi/id are all fully launched (in LOCALES, indexed, in this
+      // sitemap). Indonesian (`id`) opened 2026-10-04 (Phase 3): the soft-launch filter that
+      // held /id out of the sitemap was removed and id added to LOCALES + the locales map.
       i18n: {
         defaultLocale: 'ms',
         locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id' },

@@ -20,9 +20,9 @@ appliesTo: "Siapa pun yang baru di Malaysia dan ingin memahami jenis negara apa 
 lang: "id"
 masterLanguage: "en"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

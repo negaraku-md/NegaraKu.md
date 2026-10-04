@@ -37,9 +37,9 @@ socialTitle: "Siapa Orang Asli — tiga kelompok, 18 suku, dan lembaga yang menj
 lang: "id"
 masterLanguage: "ms"
 translationStatus: "pending"
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

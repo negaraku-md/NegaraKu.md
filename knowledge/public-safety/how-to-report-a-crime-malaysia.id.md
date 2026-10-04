@@ -47,7 +47,7 @@ verificationNeeded:
   - "Syarat kelayakan e-Reporting (warga negara Malaysia, usia 18 tahun ke atas) dan daftar lengkap item yang dapat dilaporkan — portal resmi ereporting.rmp.gov.my tidak dapat diakses untuk konfirmasi langsung; konfirmasikan terhadap portal resmi."
   - "Apakah bukan warga negara benar-benar dikecualikan sepenuhnya dari e-Reporting (draf tidak lagi menyatakan pengecualian ini secara eksplisit)."
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
