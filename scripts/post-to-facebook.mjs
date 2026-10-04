@@ -30,7 +30,7 @@ import matter from 'gray-matter';
 import {
   PAGES, LANGS, GRAPH, localePrefix,
   articleBases, langFile, isPublishedBase,
-  hashtags, withUtm, articleUrl, pageTokenFor,
+  hashtags, withUtm, articleUrl, pageTokenFor, gfetch,
 } from './lib/facebook.mjs';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
@@ -130,7 +130,7 @@ async function post(t) {
     return false;
   }
   const body = new URLSearchParams({ message: p.message, link: p.link, access_token: pageToken });
-  const res = await fetch(`${GRAPH}/${pageId}/feed`, { method: 'POST', body });
+  const res = await gfetch(`${GRAPH}/${pageId}/feed`, { method: 'POST', body }, { label: `feed ${t.lang}` });
   const json = await res.json().catch(() => ({}));
   if (!res.ok) {
     console.error(`[fb] FAILED [${t.lang}] ${p.link}:`, JSON.stringify(json));
@@ -154,7 +154,15 @@ async function main() {
   }
 
   let posted = 0;
-  for (const t of ts) if (await post(t)) posted++;
+  for (const t of ts) {
+    // Isolate each target: a hard network failure (gfetch exhausting its retries)
+    // on one language must not abort the rest — the job still goes red below.
+    try {
+      if (await post(t)) posted++;
+    } catch (err) {
+      console.error(`[fb] FAILED [${t.lang}] ${t.file}:`, err.message);
+    }
+  }
   console.log(`[fb] done — ${posted}/${ts.length} posted.`);
   // Fail the job (red ❌) if any post failed — no more false green.
   if (posted !== ts.length) {

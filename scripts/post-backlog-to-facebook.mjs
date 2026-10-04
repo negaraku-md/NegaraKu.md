@@ -29,7 +29,7 @@ import matter from 'gray-matter';
 import {
   PAGES, LANGS, LANG_POLICY, WINDOWS, GRAPH, localePrefix,
   articleBases, langFile, isPublishedBase,
-  hashtags, withUtm, articleUrl, pillarOf, pageTokenFor,
+  hashtags, withUtm, articleUrl, pillarOf, pageTokenFor, gfetch,
 } from './lib/facebook.mjs';
 import {
   loadManifest, saveManifest, isDone, hasPost, entryFor, markPost, markComment,
@@ -294,7 +294,9 @@ async function readPost(t) {
 // as a 404 (e.g. a page not yet deployed). Any network error counts as not-live.
 async function isLive(url) {
   try {
-    const res = await fetch(url, { redirect: 'follow' });
+    // Short timeout + no retries: a liveness probe that hangs or flaps should just
+    // read as "not live" and skip this post, not stall the run or burn backoff.
+    const res = await gfetch(url, { redirect: 'follow' }, { timeout: 10000, retries: 1, label: 'liveness' });
     return res.ok;
   } catch {
     return false;
@@ -326,10 +328,10 @@ async function tokenFor(lang) {
 
 // Post the article link as a comment on an existing story. True on success.
 async function postComment(storyId, link, pageToken) {
-  const res = await fetch(`${GRAPH}/${storyId}/comments`, {
+  const res = await gfetch(`${GRAPH}/${storyId}/comments`, {
     method: 'POST',
     body: new URLSearchParams({ message: link, access_token: pageToken }),
-  });
+  }, { label: `comment ${storyId}` });
   if (res.ok) return true;
   const j = await res.json().catch(() => ({}));
   console.error(`[fb-backlog] COMMENT FAILED ${storyId}:`, JSON.stringify(j));
@@ -367,10 +369,10 @@ async function handle(t, manifest) {
     console.error(`[fb-backlog] SKIP [${t.lang}] page not live (not HTTP 200): ${p.link}`);
     return 'error';
   }
-  const photoRes = await fetch(`${GRAPH}/${PAGES[t.lang]}/photos`, {
+  const photoRes = await gfetch(`${GRAPH}/${PAGES[t.lang]}/photos`, {
     method: 'POST',
     body: new URLSearchParams({ url: p.image, caption: p.caption, published: 'true', access_token: pageToken }),
-  });
+  }, { label: `photo ${t.lang}` });
   const photoJson = await photoRes.json().catch(() => ({}));
   if (!photoRes.ok) {
     console.error(`[fb-backlog] FAILED [${t.lang}] photo ${p.image}:`, JSON.stringify(photoJson));
@@ -404,14 +406,14 @@ async function handle(t, manifest) {
 async function reportScopes() {
   try {
     const pageToken = await pageTokenFor(PAGES.ms, TOKEN);
-    const dbg = await (await fetch(`${GRAPH}/debug_token?input_token=${encodeURIComponent(pageToken)}&access_token=${encodeURIComponent(TOKEN)}`)).json().catch(() => ({}));
+    const dbg = await (await gfetch(`${GRAPH}/debug_token?input_token=${encodeURIComponent(pageToken)}&access_token=${encodeURIComponent(TOKEN)}`, {}, { label: 'debug_token' })).json().catch(() => ({}));
     const scopes = dbg?.data?.scopes;
     if (Array.isArray(scopes)) {
       console.log(`[fb-backlog] page-token scopes: ${scopes.join(', ') || '(none)'}`);
       console.log(`[fb-backlog] scope pages_manage_engagement: ${scopes.includes('pages_manage_engagement') ? 'YES ✅' : 'NO ❌'}`);
     }
     // Page-level tasks — MODERATE is what comment-creation requires.
-    const acc = await (await fetch(`${GRAPH}/me/accounts?fields=id,name,tasks&access_token=${encodeURIComponent(TOKEN)}`)).json().catch(() => ({}));
+    const acc = await (await gfetch(`${GRAPH}/me/accounts?fields=id,name,tasks&access_token=${encodeURIComponent(TOKEN)}`, {}, { label: 'me/accounts' })).json().catch(() => ({}));
     if (Array.isArray(acc?.data) && acc.data.length) {
       for (const pg of acc.data) {
         const tasks = pg.tasks || [];
@@ -444,7 +446,18 @@ async function main() {
   if (LINK_MODE === 'comment') await reportScopes(); // scope/task diagnostic matters only for comments
 
   const tally = { full: 0, 'comment-ok': 0, 'comment-pending': 0, error: 0, skip: 0 };
-  for (const t of ts) tally[await handle(t, manifest)] += 1;
+  for (const t of ts) {
+    // Isolate each target: a hard network failure (gfetch exhausting its retries)
+    // on one language must not abort the rest — count it as an error and continue,
+    // so one flaky Page never costs every other Page its daily post. Post ids are
+    // already persisted incrementally inside handle(), so nothing is lost.
+    try {
+      tally[await handle(t, manifest)] += 1;
+    } catch (err) {
+      console.error(`[fb-backlog] FAILED [${t.lang}] ${t.base}:`, err.message);
+      tally.error += 1;
+    }
+  }
   console.log(`[fb-backlog] done — post+comment ${tally.full}, comment-retried ${tally['comment-ok']}, comment-pending ${tally['comment-pending']}, error ${tally.error}; ${Object.keys(manifest.posted).length} in manifest.`);
 
   // A pending comment is SOFT: the post is saved and a later run retries only the

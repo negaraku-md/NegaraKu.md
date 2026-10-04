@@ -159,9 +159,9 @@ User pointed at Cloudflare's Domain Dashboard ("i expect this type… even can c
 ## 🛠 Other standing project items
 - [ ] **Facebook comment-mode** — blocked by App Review / Advanced Access (parked; caption-mode is live)
 - [ ] **Compliance calendar** — planned further redesign
-- [ ] **FB fetch-timeout hardening** (reliability follow-up)
+- [x] **FB fetch-timeout hardening** DONE 2026-10-04 — every Graph/FB network call now goes through `gfetch()` in `scripts/lib/facebook.mjs` (AbortController timeout, default 20s; retries 429/5xx/timeout/network with exp-backoff+jitter; returns the final 429/5xx so callers still log the Graph error). Wired in both posters + the insights puller; both posters' main loops now isolate each target so one hard failure can't abort the other languages. Tunable via `FB_FETCH_TIMEOUT_MS` / `FB_FETCH_RETRIES`.
 - [ ] Optional: switch ms IG flagship login email to `ig-ms@negaraku.md`
-- [ ] Minor ja residuals (accepted, left for ta too): OG-card pillar/sensitivity labels render EN on `/ja` & `/ta` cards (`build-og.mjs` L helper); `llms.ts` INTRO is ms/en/zh only; `intros.ts` CATEGORY_INTRO export is unwired dead code
+- [x] Minor ja/ta residuals — **ACCEPTED, won't-fix** (cosmetic, non-indexed/internal): OG-card pillar/sensitivity labels render EN on `/ja` & `/ta` cards (`build-og.mjs` L helper); `llms.ts` INTRO is ms/en/zh only; `intros.ts` CATEGORY_INTRO export is unwired dead code
 
 ---
 

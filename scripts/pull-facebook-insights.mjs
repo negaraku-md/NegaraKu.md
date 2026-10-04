@@ -19,6 +19,7 @@ import { writeFile, mkdir, readFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { gfetch } from './lib/facebook.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'analytics', 'facebook.json');
@@ -35,7 +36,7 @@ const pageTokenCache = new Map();
 async function pageTokenFor(pageId) {
   if (pageTokenCache.has(pageId)) return pageTokenCache.get(pageId);
   const url = `${GRAPH}/${pageId}?fields=access_token&access_token=${encodeURIComponent(TOKEN)}`;
-  const res = await fetch(url);
+  const res = await gfetch(url, {}, { label: `mint-token ${pageId}` });
   const json = await res.json().catch(() => ({}));
   if (!res.ok || !json.access_token) {
     throw new Error(`could not mint a Page token for ${pageId}: ${JSON.stringify(json)}`);
@@ -45,7 +46,7 @@ async function pageTokenFor(pageId) {
 }
 
 async function get(url) {
-  const res = await fetch(url);
+  const res = await gfetch(url, {}, { label: 'insights' });
   const json = await res.json().catch(() => ({}));
   if (!res.ok) throw new Error(`${res.status}: ${JSON.stringify(json).slice(0, 300)}`);
   return json;

@@ -268,6 +268,48 @@ export function withUtm(url, source, medium) {
   return u.toString();
 }
 
+// --- hardened fetch --------------------------------------------------------
+
+// Every Facebook/Graph network call goes through gfetch, never bare fetch. The
+// posters run headless on a GitHub cron with no one watching: a plain fetch() has
+// NO timeout, and a stalled TCP connection (dropped mid-handshake, a Graph edge
+// hanging) never rejects — it just hangs until the job's wall-clock limit kills
+// the whole run, so a single stuck call can make a language miss its window. An
+// AbortController enforces a per-attempt deadline, and transient failures
+// (timeout, network error, HTTP 429/5xx) are retried with exponential backoff +
+// jitter. A non-retryable response (a 4xx other than 429) is returned unchanged
+// so callers keep their existing `res.ok` / `res.json()` handling. On a 429/5xx
+// the LAST attempt's response is also returned, so the caller still sees and logs
+// the real Graph error body instead of a generic throw.
+export const FB_FETCH_TIMEOUT_MS = Number(process.env.FB_FETCH_TIMEOUT_MS) || 20000;
+export const FB_FETCH_RETRIES = Math.max(1, Number(process.env.FB_FETCH_RETRIES) || 3);
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+export async function gfetch(url, opts = {}, { timeout = FB_FETCH_TIMEOUT_MS, retries = FB_FETCH_RETRIES, label = '' } = {}) {
+  let lastErr;
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), timeout);
+    try {
+      const res = await fetch(url, { ...opts, signal: ctrl.signal });
+      clearTimeout(timer);
+      // Retry throttling/server errors; return everything else (incl. the final
+      // 429/5xx so the caller can read the Graph error body).
+      if ((res.status === 429 || res.status >= 500) && attempt < retries) {
+        lastErr = new Error(`HTTP ${res.status}`);
+      } else {
+        return res;
+      }
+    } catch (err) {
+      clearTimeout(timer);
+      lastErr = err?.name === 'AbortError' ? new Error(`timed out after ${timeout}ms`) : err;
+      if (attempt >= retries) break;
+    }
+    await sleep(Math.min(1000 * 2 ** (attempt - 1), 8000) + Math.floor(Math.random() * 250));
+  }
+  throw new Error(`fetch failed${label ? ` (${label})` : ''} after ${retries} attempts for ${String(url).split('?')[0]}: ${lastErr?.message || lastErr}`);
+}
+
 // --- Graph token -----------------------------------------------------------
 
 // Posting to a Page needs that Page's OWN access token. FB_PAGE_ACCESS_TOKEN (a
@@ -278,7 +320,7 @@ const _pageTokenCache = new Map();
 export async function pageTokenFor(pageId, token) {
   if (_pageTokenCache.has(pageId)) return _pageTokenCache.get(pageId);
   const url = `${GRAPH}/${pageId}?fields=access_token&access_token=${encodeURIComponent(token)}`;
-  const res = await fetch(url);
+  const res = await gfetch(url, {}, { label: `mint-token ${pageId}` });
   const json = await res.json().catch(() => ({}));
   if (!res.ok || !json.access_token) {
     throw new Error(`could not mint a Page token for page ${pageId} from FB_PAGE_ACCESS_TOKEN (is the Page assigned to the system user?): ${JSON.stringify(json)}`);
