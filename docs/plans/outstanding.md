@@ -154,7 +154,7 @@ User pointed at Cloudflare's Domain Dashboard ("i expect this type… even can c
   - `worker/src/query.js` + `/_a/q` route in index.js: whitelisted AE SQL group-by (dims country/region/city/device/browser/os/locale/channel/source/bot/path × bucket readers/search/ai/all × 1–90d), gated by an `/api/auth/me` subrequest (contributors only, fail-closed), filter values escaped, caps + ~5-min edge cache. `CF_ACCOUNT_ID` var in wrangler.toml.
   - `AnalyticsView.astro` "Live query" panel (hidden unless `<html data-contributor>`): dim chips (max 3) × audience × range → POST /_a/q → bars. Verified in dev (renders for contributors, max-3 enforced, graceful off-worker failure).
 - [x] **Stage 4 ACTIVATED + LIVE + verified 2026-09-21** — worker deployed (AUTH service binding gate + `AE_API_TOKEN` secret set), `/_a/q` returns real AE data end-to-end (US/MY/SG by country, device×browser, etc.). Naming aligned (humans = "Readers"/"Pembaca" matching the article Visitors box; CF panels keep "Requests"/"Visits"); live-query hides pre-capture "(none)" rows. See [[negaraku-cf-graphql-analytics]] for the two-login + service-binding + masked-paste gotchas.
-- [ ] **[me]** Optional Stage 4 polish (later): saved-view presets, CSV export, a second filter row, and a "hide (none)" toggle on the baked explorer to match the live query.
+- [x] **[me]** Stage 4 polish DONE 2026-10-04 (commit 3859cc6d): hide-blanks toggle (default on, matches live query), saved-view presets (Save/load/Reset via localStorage tx.views.v1), per-panel CSV export (full breakdown). "Second filter row" was already covered by the accumulating filter-chip control.
 
 ## 🛠 Other standing project items
 - [ ] **Facebook comment-mode** — blocked by App Review / Advanced Access (parked; caption-mode is live)
