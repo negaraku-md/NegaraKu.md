@@ -51,10 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Perkataan tepat, subseksyen dan status berkuat kuasa semasa Act 164 ss 3, 50, 51, 52, 53, 54 dan 106 — cetakan semula AGC yang disebut hanya menggabungkan pindaan sehingga 1 Januari 2006, dan Act 164 kemudiannya dipinda (contohnya oleh Act A1546 pada 2017); sahkan terhadap teks berkuat kuasa terkini."
-  - "Prosedur perceraian Islam khusus mengikut negeri (bentuk talak, taklik, fasakh, khuluk; peraturan melaporkan talak luar mahkamah dalam tempoh 7 hari; iddah) sebagaimana ditetapkan oleh enakmen negeri tertentu yang berkaitan dengan pembaca, kerana ini berbeza mengikut negeri."
-  - "Liputan dan operasi semasa sistem pengurusan kes e-Syariah persekutuan merentasi negeri-negeri."
-  - "Persoalan penukaran/hak jagaan Section 51 yang dipertikaikan, yang bergantung pada fakta dan undang-undang kes yang berkembang dan hendaklah disahkan dengan pengamal bertauliah."
+  - "Kata-kata persis, subpasal dan status keberlakuan terkini Act 164 ss 3, 50, 51, 52, 53, 54 dan 106 — cetak ulang AGC yang disebut hanya menggabungkan amendemen sampai 1 Januari 2006, dan Act 164 kemudian diamendemen (contohnya oleh Act A1546 pada 2017); verifikasi terhadap teks yang berlaku terkini."
+  - "Prosedur perceraian Islam khusus menurut negara bagian (bentuk talak, taklik, fasakh, khuluk; aturan pelaporan talak di luar pengadilan dalam jangka waktu 7 hari; iddah) sebagaimana ditetapkan oleh enakmen negara bagian tertentu yang relevan bagi pembaca, karena hal ini berbeda menurut negara bagian."
+  - "Cakupan dan operasi terkini sistem pengelolaan kasus e-Syariah federal lintas negara bagian."
+  - "Persoalan konversi agama/hak asuh Section 51 yang dipersengketakan, yang bergantung pada fakta dan yurisprudensi yang berkembang dan harus diverifikasi dengan praktisi bersertifikat."
 
 updated: 2026-08-07
 sources:

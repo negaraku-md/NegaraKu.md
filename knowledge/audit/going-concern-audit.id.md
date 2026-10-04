@@ -33,7 +33,7 @@ faq:
     a: "Paragraf 20 ISA 580 mewajibkan auditor tidak menyatakan pendapat jika dua representasi wajib tersebut tidak diberikan, atau jika terdapat keraguan yang cukup tentang integritas pihak manajemen sehingga representasi tersebut tidak dapat dipercaya. Opini tidak menyatakan pendapat adalah hasil yang lebih buruk daripada opini wajar dengan pengecualian mana pun."
 
 verificationNeeded:
-  - "Sahkan sama ada mana-mana amalan waad perbankan Malaysia atau keperluan penyenaraian Bursa Malaysia mengaitkan akibat tertentu dengan seksyen Material Uncertainty Related to Going Concern — kesan komersial yang diterangkan di sini adalah pemerhatian pengamal, bukan peraturan yang diterbitkan"
+  - "Pastikan apakah ada praktik kovenan perbankan Malaysia atau persyaratan pencatatan Bursa Malaysia yang mengaitkan konsekuensi tertentu dengan bagian Material Uncertainty Related to Going Concern — dampak komersial yang dijelaskan di sini merupakan pengamatan praktisi, bukan peraturan yang diterbitkan"
 
 lang: "id"
 masterLanguage: "en"

@@ -36,8 +36,8 @@ faq:
     a: "Ya. Pasal 68(3)(a) mewajibkan laporan tahunan menyatakan alamat kantor terdaftar, dan Pasal 68(3)(d) serta (e) mewajibkan alamat tempat daftar anggota dan catatan keuangan disimpan jika ia tidak berada di kantor terdaftar."
 
 verificationNeeded:
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang arahan amalan atau garis panduan yang menetapkan standard minimum atau dokumentasi bagi alamat pejabat berdaftar melebihi s.46 — tiada arahan sedemikian ditemui di ssm.com.my"
-  - "Sahkan skala yuran penyerahan lewat SSM semasa bagi notifikasi s.46(3) terhadap arahan amalan SSM semasa mengenai penalti penyerahan lewat"
+  - "Pastikan apakah SSM telah mengeluarkan arahan praktik atau pedoman apa pun yang menetapkan standar minimum atau dokumentasi bagi alamat kantor terdaftar melebihi s.46 — tidak ada arahan semacam itu ditemukan di ssm.com.my"
+  - "Pastikan skala biaya penyampaian terlambat SSM terkini untuk notifikasi s.46(3) terhadap arahan praktik SSM terkini mengenai penalti penyampaian terlambat"
 
 obligations:
   - what: "Memberitahu Pendaftar tentang perubahan pada alamat kantor terdaftar"

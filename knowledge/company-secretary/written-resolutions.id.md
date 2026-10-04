@@ -38,7 +38,7 @@ faq:
     a: "Tidak sebagai suatu kelas. Tidak ada kewajiban umum untuk menyampaikan setiap resolusi. Kewajiban penyampaian melekat pada hal khusus — sebagai contoh, persetujuan untuk mengalokasikan saham harus disampaikan dalam jangka waktu 14 hari berdasarkan s.76(2), perubahan konstitusi dalam jangka waktu 30 hari berdasarkan s.36(3), dan pemberitahuan pemberhentian auditor dalam jangka waktu 14 hari berdasarkan s.278(1)."
 
 verificationNeeded:
-  - "Sama ada SSM pernah mengeluarkan sebarang practice directive atau garis panduan tentang bentuk pengesahan (authentication) yang boleh diterima bagi penyataan persetujuan secara elektronik di bawah s.306 — tiada satu pun dapat dikesan dalam perpustakaan legal framework SSM"
+  - "Apakah SSM pernah mengeluarkan practice directive atau pedoman apa pun tentang bentuk autentikasi (authentication) yang dapat diterima bagi pernyataan persetujuan secara elektronik di bawah s.306 — tidak satu pun dapat ditemukan dalam perpustakaan legal framework SSM"
 
 obligations:
   - what: "Edarkan resolusi tertulis yang diminta oleh anggota kepada setiap anggota yang layak"

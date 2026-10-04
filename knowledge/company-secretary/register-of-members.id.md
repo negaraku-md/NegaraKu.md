@@ -35,7 +35,7 @@ faq:
     a: "Ya, dalam batas tertentu. Pasal 54(1) membolehkan daftar dan indeks disimpan di kantor lain perusahaan di Malaysia tempat ia disiapkan, atau di kantor agen di Malaysia yang menyiapkannya. Alamat itu harus diungkapkan dalam laporan tahunan di bawah Pasal 68(3)(d) jika ia bukan kantor terdaftar."
 
 verificationNeeded:
-  - "Sahkan skala fi pemfailan lewat SSM semasa bagi notifikasi s.51 berbanding arahan amalan SSM yang sedang berkuat kuasa mengenai penalti pemfailan lewat"
+  - "Pastikan skala biaya penyampaian terlambat SSM terkini untuk notifikasi s.51 terhadap arahan praktik SSM yang sedang berlaku mengenai penalti penyampaian terlambat"
 
 obligations:
   - what: "Mencatat nama penerima pemindahan dalam daftar anggota"

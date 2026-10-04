@@ -46,11 +46,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Angka EIU adalah daripada tinjauan Worldwide Cost of Living November 2023 (edisi 2023); sahkan semula terhadap edisi EIU terkini sebelum penerbitan."
-  - "Indeks Numbeo diperoleh secara sumber ramai dan dikemas kini secara berterusan; tarik semula indeks negara Asia Tenggara dan halaman Malaysia pada masa penerbitan."
-  - "Sahkan Mercer secara eksplisit mencirikan Johor Bahru sebagai bandar Asia Tenggara yang paling murah dan bukannya sekadar menjadi entri Asia Tenggara berkedudukan terendah yang ditunjukkan dalam terbitan 2023."
-  - "Sahkan semula senarai kualiti kehidupan 'lapan bandar' Mercer 2024 terhadap laman kedudukan bandar Mercer semasa."
-  - "Sahkan pencirian metodologi CPI / Household Expenditure Survey DOSM terhadap nota teknikal DOSM."
+  - "Angka EIU berasal dari tinjauan Worldwide Cost of Living November 2023 (edisi 2023); verifikasi ulang terhadap edisi EIU terbaru sebelum publikasi."
+  - "Indeks Numbeo diperoleh secara urun daya (crowdsourced) dan diperbarui secara terus-menerus; tarik ulang indeks negara Asia Tenggara dan halaman Malaysia pada saat publikasi."
+  - "Verifikasi bahwa Mercer secara eksplisit mencirikan Johor Bahru sebagai kota Asia Tenggara yang paling murah dan bukan sekadar menjadi entri Asia Tenggara berperingkat terendah yang ditunjukkan dalam terbitan 2023."
+  - "Verifikasi ulang daftar kualitas hidup 'delapan kota' Mercer 2024 terhadap halaman peringkat kota Mercer terkini."
+  - "Verifikasi pencirian metodologi CPI / Household Expenditure Survey DOSM terhadap nota teknis DOSM."
 
 updated: 2026-08-08
 sources:

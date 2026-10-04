@@ -50,9 +50,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Kedudukan di bawah Akta Syarikat 1965 yang dimansuhkan: sahkan sama ada cop mohor benar-benar diwajibkan untuk setiap syarikat (dakwaan ini telah dilembutkan kepada 'perubahan kedudukan' kerana tiada petikan sumber primer diperoleh; sumber yang dipetik hanya mengesahkan cop mohor kini pilihan di bawah Seksyen 61(1))."
-  - "Petikan verbatim Bahasa Inggeris SSM FAQ Part G telah disahkan byte-by-byte terhadap PDF SSM pada 2026-08-07; pengulas manusia digalakkan membuka semula PDF sebagai semakan akhir."
-  - "Keperluan penyempurnaan khusus semasa pihak berkuasa lain (contohnya Pejabat Tanah, bank) yang mungkin melangkaui Akta Syarikat 2016 — sahkan mengikut transaksi sebenar."
+  - "Posisi di bawah Companies Act 1965 yang telah dicabut: pastikan apakah stempel resmi benar-benar diwajibkan untuk setiap perusahaan (klaim ini telah diperlunak menjadi 'perubahan posisi' karena tidak ada kutipan sumber primer yang diperoleh; sumber yang dikutip hanya mengonfirmasi bahwa stempel resmi kini opsional di bawah Pasal 61(1))."
+  - "Kutipan verbatim bahasa Inggris SSM FAQ Part G telah diverifikasi byte-demi-byte terhadap PDF SSM pada 2026-08-07; peninjau manusia dianjurkan untuk membuka kembali PDF sebagai pemeriksaan akhir."
+  - "Persyaratan penyempurnaan khusus dari otoritas lain (misalnya Pejabat Tanah, bank) yang mungkin melampaui Companies Act 2016 — verifikasi berdasarkan transaksi yang sebenarnya."
 
 updated: 2026-08-07
 sources:

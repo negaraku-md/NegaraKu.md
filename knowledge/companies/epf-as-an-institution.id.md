@@ -39,12 +39,12 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Tarikh pelantikan Ketua Pegawai Eksekutif Ahmad Zulqarnain Onn (dilaporkan berkuat kuasa 19 Februari 2024) — tidak diliputi oleh mana-mana sumber yang disenaraikan."
-  - "Tarikh penubuhan 1 Oktober 1951 dan rujukan Ordinan KWSP 1951 — fakta institusi/perundangan tanpa sumber utama yang di-fetch; sahkan dengan penerbitan rasmi KWSP atau Warta Kerajaan."
-  - "Rujukan Akta KWSP 1991 dan penempatan KWSP di bawah Kementerian Kewangan — sahkan dengan teks akta atau laman rasmi KWSP."
-  - "Bulan pelancaran Simpanan Shariah (dilaporkan Januari 2017) — katalog data terbuka menunjukkan dividen Shariah bermula 2017, tetapi bulan tepat belum disahkan dengan sumber utama."
-  - "Angka aset pelaburan 2023 (RM1.13 trilion) yang digunakan untuk pengiraan pertumbuhan — sahkan terhadap penyata kewangan rasmi KWSP."
-  - "Jumlah pendapatan pelaburan mengikut kelas aset dalam RM (bukan hanya % dan ROI) — sahkan dengan Laporan Tahunan / penyata rasmi KWSP 2024."
+  - "Tanggal pengangkatan Ketua Pegawai Eksekutif Ahmad Zulqarnain Onn (dilaporkan berlaku 19 Februari 2024) — tidak tercakup oleh sumber mana pun yang terdaftar."
+  - "Tanggal pendirian 1 Oktober 1951 dan rujukan Ordinan KWSP 1951 — fakta institusi/perundang-undangan tanpa sumber primer yang di-fetch; verifikasi dengan publikasi resmi KWSP atau Warta Kerajaan."
+  - "Rujukan Akta KWSP 1991 dan penempatan KWSP di bawah Kementerian Kewangan — verifikasi dengan teks undang-undang atau situs resmi KWSP."
+  - "Bulan peluncuran Simpanan Shariah (dilaporkan Januari 2017) — katalog data terbuka menunjukkan dividen Shariah dimulai 2017, tetapi bulan tepatnya belum diverifikasi dengan sumber primer."
+  - "Angka aset investasi 2023 (RM1.13 triliun) yang digunakan untuk perhitungan pertumbuhan — verifikasi terhadap laporan keuangan resmi KWSP."
+  - "Total pendapatan investasi menurut kelas aset dalam RM (bukan hanya % dan ROI) — verifikasi dengan Laporan Tahunan / laporan resmi KWSP 2024."
 revisions:
   - revision: 0
     date: 2026-07-28

@@ -39,10 +39,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Nama rasmi kementerian induk MARA yang tepat dan sejarah pertukaran namanya (Kementerian Pembangunan Luar Bandar berbanding Kementerian Kemajuan Desa dan Wilayah)."
-  - "Tempoh Rancangan Malaysia yang dikaitkan dengan pengembangan SBP: halaman rasmi KPM melabel tempoh 1975–1980 sebagai 'Rancangan Malaysia Kedua', tetapi mengikut garis masa lazim Rancangan Malaysia Kedua ialah 1971–1975 (1976–1980 ialah Rancangan Malaysia Ketiga). Perlu disahkan sumber rasmi."
-  - "Bilangan SBP semasa (halaman KPM tidak menyenaraikan jumlah pada teks; sumber sekunder menyebut angka berbeza)."
-  - "Syarat akademik terperinci kemasukan SBP Tingkatan 1 dan Tingkatan 4 mengikut pekeliling/portal PKSK KPM terkini."
+  - "Nama resmi persis kementerian induk MARA dan sejarah perubahan namanya (Kementerian Pembangunan Luar Bandar dibandingkan Kementerian Kemajuan Desa dan Wilayah)."
+  - "Periode Rancangan Malaysia yang dikaitkan dengan pengembangan SBP: halaman resmi KPM melabeli periode 1975–1980 sebagai 'Rancangan Malaysia Kedua', tetapi menurut garis waktu yang lazim Rancangan Malaysia Kedua adalah 1971–1975 (1976–1980 adalah Rancangan Malaysia Ketiga). Perlu diverifikasi sumber resmi."
+  - "Jumlah SBP terkini (halaman KPM tidak mencantumkan jumlah pada teks; sumber sekunder menyebut angka berbeda)."
+  - "Syarat akademik terperinci penerimaan SBP Tingkatan 1 dan Tingkatan 4 menurut surat edaran/portal PKSK KPM terkini."
 revisions:
   - revision: 0
     date: 2026-08-08

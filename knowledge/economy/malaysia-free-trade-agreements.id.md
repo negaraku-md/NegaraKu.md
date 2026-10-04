@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh tepat Malaysia mendepositkan instrumen ratifikasi RCEP-nya (dilaporkan secara meluas sebagai 17 Januari 2022) tiada dalam sumber yang disenaraikan."
-  - "Whether a Malaysia–Iran preferential trade agreement remains an active negotiating track."
-  - "EU–Malaysia FTA first negotiating round date (reported late June 2025) against the European Commission's own updates."
+  - "Tanggal persis Malaysia mendepositkan instrumen ratifikasi RCEP-nya (dilaporkan secara luas sebagai 17 Januari 2022) tidak ada dalam sumber yang tercantum."
+  - "Apakah perjanjian perdagangan preferensial Malaysia–Iran masih menjadi jalur perundingan yang aktif."
+  - "Tanggal putaran perundingan pertama FTA UE–Malaysia (dilaporkan akhir Juni 2025) terhadap pembaruan Komisi Eropa sendiri."
 updated: 2026-08-08
 sources:
   - title: "Ratifikasi CPTPP oleh Malaysia / Sertifikat Asal Preferensial (MITI) (Malaysia's Ratification of CPTPP / Preferential Certificate of Origin (MITI))"

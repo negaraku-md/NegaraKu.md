@@ -36,7 +36,7 @@ faq:
     a: "Ya. Pasal 224(7) menetapkan bahwa tidak ada apa pun dalam pasal ini yang mencegah perusahaan menuntut kembali jumlah pinjaman mana pun, atau jumlah mana pun yang menjadikannya bertanggung jawab di bawah penjaminan atau agunan yang diberikan bertentangan dengan pasal ini. Pasal 225(3) mengandung aturan yang setara bagi pinjaman kepada orang yang terkait. Pinjaman itu tetap dapat dituntut kembali walaupun tindakan memberikannya adalah suatu pelanggaran."
 
 verificationNeeded:
-  - "Sahkan takrifan statutori semasa dan syarat kelayakan untuk syarikat persendirian dikecualikan seperti yang diamalkan oleh SSM dalam praktik, termasuk laluan sijil s.260"
+  - "Pastikan definisi statutori terkini dan syarat kelayakan untuk perusahaan swasta yang dikecualikan sebagaimana diterapkan oleh SSM dalam praktiknya, termasuk jalur sertifikat s.260"
 
 obligations:
   - what: "Memperoleh persetujuan perusahaan melalui resolusi bagi pinjaman, penjaminan atau agunan yang diberikan kepada direktur tanpa persetujuan terlebih dahulu — perusahaan swasta"

@@ -39,10 +39,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Sahkan petikan tepat Seksyen 14(1) (kesalahan) dan seksyen penalti (dilaporkan Seksyen 18) terhadap teks rasmi Akta 723 atau laman FAQ KPDN — laman KPDN tidak dapat diambil secara automatik ketika semakan ini."
-  - "Sahkan butiran mekanisme 2018 (margin/markup berbanding awal tahun kewangan atau kalendar; senarai faktor) terhadap Peraturan Mekanisme 2018 yang rasmi; sesetengah sumber KPDN merujuk kenaikan peratusan dalam beberapa tahun terdahulu, jadi tempoh asas sebenar perlu disahkan."
-  - "Sahkan angka penguatkuasaan terkini: notis Ops Catut 2023 (1,149; 1 Jan–30 Jun 2023) dan Ops Kesan 4.0/5.0 (1,443 kertas siasatan; RM142,200 kompaun, dilaporkan April 2026) mungkin telah dikemas kini oleh operasi lebih baharu (cth. Ops Kesan 6.0)."
-  - "Sahkan sama ada Ops Catut dan Ops Kesan masih menggunakan penomboran/versi ini pada tarikh penerbitan."
+  - "Verifikasi kutipan persis Pasal 14(1) (tindak pidana) dan pasal penalti (dilaporkan Pasal 18) terhadap teks resmi Akta 723 atau halaman FAQ KPDN — situs KPDN tidak dapat diambil secara otomatis saat peninjauan ini."
+  - "Verifikasi rincian mekanisme 2018 (margin/markup dibandingkan awal tahun keuangan atau kalender; daftar faktor) terhadap Peraturan Mekanisme 2018 yang resmi; sebagian sumber KPDN merujuk kenaikan persentase dalam beberapa tahun sebelumnya, sehingga periode dasar yang sebenarnya perlu diverifikasi."
+  - "Verifikasi angka penegakan terbaru: pemberitahuan Ops Catut 2023 (1,149; 1 Jan–30 Jun 2023) dan Ops Kesan 4.0/5.0 (1,443 berkas penyidikan; RM142,200 kompaun, dilaporkan April 2026) mungkin telah diperbarui oleh operasi yang lebih baru (mis. Ops Kesan 6.0)."
+  - "Verifikasi apakah Ops Catut dan Ops Kesan masih menggunakan penomoran/versi ini pada tanggal publikasi."
 revisions:
   - revision: 0
     date: 2026-08-08

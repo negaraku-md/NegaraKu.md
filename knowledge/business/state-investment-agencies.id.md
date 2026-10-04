@@ -36,14 +36,14 @@ faq:
     a: "Tidak dengan kapasitas yang sama, dan tidak semua memiliki kehadiran web yang dapat diverifikasi. Pulau Pinang, Selangor, Johor, Melaka, Perak, Sabah, dan Sarawak menjalankan agensi yang domain resminya dapat diakses dan menerbitkan saluran permohonan. Bagi beberapa negara bagian lain, fungsi investasi terletak di dalam unit perencana ekonomi negara bagian atau korporasi pembangunan negara bagian, bukannya agensi bermerek terpisah. Jangan mengira nama yang Anda baca pada laman konsultan itu mewakili badan yang benar-benar ada."
 
 verificationNeeded:
-  - "Sahkan saluran promosi pelaburan rasmi semasa bagi Kedah, Pahang, Negeri Sembilan, Terengganu, Kelantan dan Perlis — tiada domain agensi berjenama berasingan dapat disahkan bagi negeri-negeri ini, dan investkedah.com.my mengalih hala ke laman komersial yang tidak berkaitan"
-  - "Sahkan sama ada IRDA, ECERDC, NCIA, SEDIA atau RECODA memegang kuasa meluluskan pas ekspatriat yang diwakilkan, dan atas instrumen apa"
-  - "Sahkan tempoh pemprosesan Surat Tiada Bantahan dan sebarang fi bagi setiap negeri — tiada satu pun agensi negeri menerbitkan piawaian perkhidmatan atau fi pada laman NOL masing-masing"
-  - "Sahkan apa yang menggantikan pakej NTAX NCER bagi permohonan yang dibuat mulai 1 Januari 2025, dan sama ada sebarang pelepasan peralihan terpakai kepada permohonan yang difailkan sebelum tarikh tersebut"
-  - "Sahkan instrumen berkanun semasa yang mentadbir RECODA — VERIFIED-SOURCES merekodkan bahawa Sarawak menjalankan dua siri penomboran bab selari dan bahawa ordinan RECODA ialah Cap. 64 siri semasa"
-  - "PDF enakmen SEDIA yang dihoskan di sedia.com.my bertera air FOR REFERENCE ONLY August 2010 — semak teks yang digazetkan untuk sebarang pindaan sejak itu"
-  - "Padankan dua jumlah pelaburan 2025 yang diterbitkan oleh MIDA — RM426,736.8 juta dalam Laporan Prestasi Pelaburan Mac 2026 dan RM431,080.6 juta dalam jadual mengikut negeri yang disemak semula Jun 2026"
-  - "Sahkan sama ada mana-mana perundangan subsidiari telah digazetkan sejak itu untuk menetapkan kadar JS-SEZ, National Global Services Hub atau New Investment Incentive Framework di bawah s.65B Akta Cukai Pendapatan 1967"
+  - "Verifikasi saluran promosi investasi resmi terkini untuk Kedah, Pahang, Negeri Sembilan, Terengganu, Kelantan, dan Perlis — tidak ada domain agensi bermerek terpisah yang dapat diverifikasi untuk negara-negara bagian ini, dan investkedah.com.my mengalihkan ke situs komersial yang tidak terkait"
+  - "Verifikasi apakah IRDA, ECERDC, NCIA, SEDIA, atau RECODA memegang kewenangan yang didelegasikan untuk menyetujui pas ekspatriat, dan berdasarkan instrumen apa"
+  - "Verifikasi jangka waktu pemrosesan Surat Tiada Bantahan dan biaya apa pun untuk setiap negara bagian — tidak ada satu pun agensi negara bagian yang menerbitkan standar layanan atau biaya pada halaman NOL masing-masing"
+  - "Verifikasi apa yang menggantikan paket NTAX NCER untuk permohonan yang diajukan mulai 1 Januari 2025, dan apakah ada keringanan transisi yang berlaku untuk permohonan yang diajukan sebelum tanggal tersebut"
+  - "Verifikasi instrumen hukum terkini yang mengatur RECODA — VERIFIED-SOURCES mencatat bahwa Sarawak menjalankan dua seri penomoran bab paralel dan bahwa ordonansi RECODA adalah Cap. 64 seri terkini"
+  - "PDF enakmen SEDIA yang di-host di sedia.com.my bertanda air FOR REFERENCE ONLY August 2010 — periksa teks yang diwartakan untuk setiap amendemen sejak saat itu"
+  - "Cocokkan dua total investasi 2025 yang diterbitkan oleh MIDA — RM426,736.8 juta dalam Laporan Prestasi Pelaburan Maret 2026 dan RM431,080.6 juta dalam jadwal menurut negara bagian yang direvisi Juni 2026"
+  - "Verifikasi apakah ada peraturan pelaksana yang telah diwartakan sejak saat itu untuk menetapkan tarif JS-SEZ, National Global Services Hub, atau New Investment Incentive Framework berdasarkan s.65B Akta Cukai Pendapatan 1967"
 
 lang: "id"
 masterLanguage: "en"

@@ -35,10 +35,10 @@ faq:
     a: "Jika Anda seorang penduduk, pada dasarnya ya. Pasal 23A melarang penduduk mengajukan permohonan paten di luar Malaysia kecuali permohonan untuk ciptaan yang sama telah diajukan di Kantor Pendaftaran Paten sekurang-kurangnya dua bulan lebih awal, atau Pendaftar telah memberikan izin tertulis melalui Formulir 1B (RM200). Pelanggaran merupakan tindak pidana berdasarkan Pasal 62A."
 
 verificationNeeded:
-  - "Jadual yuran MyIPO menyenaraikan Form 1 (Request for Grant of Patent) pada RM290 dan Form 14 (Application for Grant of a Certificate for a Utility Innovation) pada RM140 — sahkan dengan MyIPO kombinasi borang dan yuran yang mana terpakai bagi pemfailan inovasi utiliti pertama"
-  - "Penyatuan Patents Regulations 1986 yang dihoskan di myipo.gov.my mendahului pindaan 2022 dan 2025 — ia masih menunjukkan tempoh dua bulan untuk membalas laporan pemeriksa, yang telah diubah oleh P.U. (A) 68/2022 kepada tiga bulan. Semak mana-mana peraturan terhadap instrumen pindaan"
-  - "Section 14 of the Patents (Amendment) Act 2022, yang memasukkan s.26C mengenai deposit mikroorganisma, tidak muncul dalam sebarang notifikasi permulaan kuat kuasa yang ditemui — sahkan statusnya dengan MyIPO sebelum bergantung padanya"
-  - "MyIPO publishes no standard end-to-end grant timeline for a patent or a utility innovation"
+  - "Jadwal biaya MyIPO mencantumkan Form 1 (Request for Grant of Patent) sebesar RM290 dan Form 14 (Application for Grant of a Certificate for a Utility Innovation) sebesar RM140 — konfirmasikan dengan MyIPO kombinasi formulir dan biaya mana yang berlaku bagi pengajuan inovasi utilitas pertama"
+  - "Konsolidasi Patents Regulations 1986 yang dihosting di myipo.gov.my mendahului perubahan 2022 dan 2025 — masih menunjukkan jangka waktu dua bulan untuk menanggapi laporan pemeriksa, yang telah diubah oleh P.U. (A) 68/2022 menjadi tiga bulan. Periksa setiap peraturan terhadap instrumen perubahan"
+  - "Section 14 of the Patents (Amendment) Act 2022, yang memasukkan s.26C mengenai deposit mikroorganisme, tidak muncul dalam notifikasi mulai berlaku apa pun yang ditemukan — konfirmasikan statusnya dengan MyIPO sebelum mengandalkannya"
+  - "MyIPO tidak menerbitkan jadwal waktu standar menyeluruh (end-to-end) untuk pemberian paten atau inovasi utilitas"
 
 obligations:
   - what: "Ajukan permohonan pemeriksaan substantif atau pemeriksaan substantif yang dimodifikasi"

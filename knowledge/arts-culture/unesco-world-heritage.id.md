@@ -45,8 +45,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Keluasan harta yang disenaraikan (hektar) bagi keenam-enam harta — sengaja digugurkan daripada jadual sehingga setiap angka dibaca terus daripada rekod harta UNESCO masing-masing."
-  - "Penentuan tarikh Perak Man seperti yang direkodkan oleh UNESCO atau Jabatan Warisan Negara."
+  - "Luas properti yang terdaftar (hektar) bagi keenam properti — sengaja dihilangkan dari tabel hingga setiap angka dibaca langsung dari catatan properti UNESCO masing-masing."
+  - "Penentuan penanggalan Perak Man sebagaimana dicatat oleh UNESCO atau Jabatan Warisan Negara."
 
 updated: 2026-07-24
 sources:

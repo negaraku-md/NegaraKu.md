@@ -39,11 +39,11 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Peranan pencen tentera: sumber hanya sahkan KWAP menampung pesara penjawat awam Persekutuan; pencen tentera biasanya dikendalikan LTAT — perlu disahkan manusia."
-  - "Perbandingan saiz EPF vs KWAP menggunakan tarikh rujukan berbeza (EPF ~RM1.1 trilion pada Ogos 2023 vs KWAP RM185.6 bilion pada akhir 2024) — sahkan angka EPF yang lebih terkini jika ada."
-  - "Angka pendapatan 2023 (pendapatan bersih RM9.7b) dan 2024 (pendapatan pelaburan RM18.0b) ialah ukuran berbeza; pastikan pembaca tidak menganggap ia setara."
-  - "Sebarang perkembangan reformasi pencen (mis. skim caruman tertakrif untuk penjawat awam baharu) perlu dirujuk kepada sumber rasmi sebelum dinyatakan."
-  - "Masa lazim penerbitan Laporan Tahunan / siaran media KWAP tidak disahkan oleh sumber rasmi."
+  - "Peran pensiun militer: sumber hanya mengonfirmasi KWAP menanggung pensiunan pegawai negeri Persekutuan; pensiun militer biasanya ditangani LTAT — perlu diverifikasi manusia."
+  - "Perbandingan ukuran EPF vs KWAP menggunakan tanggal rujukan berbeda (EPF ~RM1.1 triliun pada Agustus 2023 vs KWAP RM185.6 miliar pada akhir 2024) — verifikasi angka EPF yang lebih terkini jika ada."
+  - "Angka pendapatan 2023 (pendapatan bersih RM9.7b) dan 2024 (pendapatan investasi RM18.0b) merupakan ukuran yang berbeda; pastikan pembaca tidak menganggapnya setara."
+  - "Perkembangan reformasi pensiun apa pun (mis. skema iuran pasti untuk pegawai negeri baru) perlu dirujuk ke sumber resmi sebelum dinyatakan."
+  - "Waktu lazim penerbitan Laporan Tahunan / siaran media KWAP tidak diverifikasi oleh sumber resmi."
 revisions:
   - revision: 0
     date: 2026-07-28

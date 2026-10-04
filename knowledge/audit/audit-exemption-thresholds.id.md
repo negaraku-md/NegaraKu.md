@@ -32,7 +32,7 @@ faq:
     a: "Karyawan penuh waktu dalam daftar gaji pada akhir setiap tahun keuangan yang berlaku. SSM mendefinisikan penuh waktu sebagai karyawan bergaji yang bekerja tidak kurang dari 6 jam sehari selama sekurang-kurangnya 20 hari sebulan, atau sekurang-kurangnya 120 jam sebulan. Karyawan lokal, asing, kontrak, dan dalam masa percobaan dihitung. Direktur-karyawan, pemegang saham-karyawan, serta anggota keluarga atau teman yang tidak dibayar atau bergaji tidak tetap tidak dihitung."
 
 verificationNeeded:
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang pindaan kepada PD 10/2024 yang menyemak semula ambang Fasa 3 — arahan itu menandakannya sebagai tidak berubah melainkan disemak semula oleh Pendaftar"
+  - "Pastikan apakah SSM telah mengeluarkan amandemen apa pun terhadap PD 10/2024 yang merevisi ambang Fase 3 — arahan tersebut menandainya sebagai tidak berubah kecuali ditinjau ulang oleh Pendaftar"
 
 obligations:
   - what: "Ambil pengecualian audit untuk perusahaan sendirian yang tetap dalam batas ukuran"

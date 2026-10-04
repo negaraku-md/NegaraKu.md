@@ -46,10 +46,10 @@ revisions:
 updated: 2026-07-28
 
 verificationNeeded:
-  - "Panjang tepat Lebuh Raya Utara-Selatan dalam km — sumber tidak konsisten (772 km berbanding 848 km) dan tiada sumber primer/berautoriti yang disahkan; figura km khusus telah dikeluarkan sementara menunggu pengesahan."
-  - "Tarikh pengenalan pertama kad Touch 'n Go — sumber rasmi Touch 'n Go hanya mengesahkan tahun 1997, bukan tarikh (hari/bulan) tepat."
-  - "Sebarang butiran integrasi MyPLUS / MYJalan (KKR) dan tahunnya — dakwaan produk-dan-tarikh telah dikeluarkan kerana tiada sumber; sahkan sebelum ditambah semula."
-  - "Pecahan pengurangan tol 18% mengikut setiap lebuh raya — contoh sen/km (13.6 kepada 11.15) yang disumberkan hanya untuk Lebuh Raya Utara-Selatan."
+  - "Panjang persis Lebuh Raya Utara-Selatan dalam km — sumber tidak konsisten (772 km dibandingkan 848 km) dan tidak ada sumber primer/otoritatif yang terverifikasi; angka km spesifik telah dihapus sementara menunggu konfirmasi."
+  - "Tanggal pengenalan pertama kartu Touch 'n Go — sumber resmi Touch 'n Go hanya mengonfirmasi tahun 1997, bukan tanggal (hari/bulan) yang tepat."
+  - "Rincian integrasi MyPLUS / MYJalan (KKR) apa pun dan tahunnya — klaim produk-dan-tanggal telah dihapus karena tidak ada sumber; verifikasi sebelum ditambahkan kembali."
+  - "Rincian pengurangan tol 18% menurut setiap jalan tol — contoh sen/km (13.6 ke 11.15) yang bersumber hanya untuk Lebuh Raya Utara-Selatan."
 
 sources:
   - title: "PLUS Malaysia Berhad — Korporat"

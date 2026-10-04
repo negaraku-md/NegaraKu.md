@@ -45,10 +45,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Umur minimum kemasukan ke tingkat permainan kasino (lazim dilaporkan sebagai 21) — tiada sumber utama yang dibuka mengesahkannya; halaman kasino Resorts World Genting rasmi sedang dalam penyelenggaraan semasa disemak."
-  - "Sama ada Resorts World Genting secara operasi menafikan kemasukan orang Islam di pintu, berbeza daripada larangan undang-undang Syariah terhadap orang Islam berjudi — tidak ditetapkan oleh mana-mana sumber yang dipetik (Fortune secara eksplisit tidak menyatakan orang Islam dihalang daripada lantai kasino)."
-  - "Peratusan pegangan saham tepat sebelum dan selepas tawaran yang dipegang oleh Genting Berhad dalam Genting Malaysia — The Edge mengesahkan harga RM2.35/saham dan pegangan permulaan di bawah 50% tetapi bukan angka yang tepat."
-  - "Penalti Syariah (amaun denda dan tempoh penjara) bagi orang Islam yang ditangkap berjudi — diperihalkan hanya secara kualitatif di sini; angka berkanun yang tepat tidak diperoleh daripada sumber."
+  - "Usia minimum masuk ke lantai permainan kasino (lazim dilaporkan sebagai 21) — tidak ada sumber primer yang dibuka yang mengonfirmasinya; halaman kasino resmi Resorts World Genting sedang dalam pemeliharaan saat ditinjau."
+  - "Apakah Resorts World Genting secara operasional menolak masuknya orang Islam di pintu, berbeda dari larangan hukum Syariah terhadap orang Islam berjudi — tidak ditetapkan oleh sumber mana pun yang dikutip (Fortune secara eksplisit tidak menyatakan orang Islam dihalangi dari lantai kasino)."
+  - "Persentase kepemilikan saham yang tepat sebelum dan setelah penawaran yang dipegang oleh Genting Berhad dalam Genting Malaysia — The Edge mengonfirmasi harga RM2.35/saham dan kepemilikan awal di bawah 50% tetapi bukan angka yang tepat."
+  - "Penalti Syariah (jumlah denda dan masa penjara) bagi orang Islam yang ditangkap berjudi — hanya diuraikan secara kualitatif di sini; angka statutori yang tepat tidak diperoleh dari sumber."
 
 updated: 2026-07-28
 sources:

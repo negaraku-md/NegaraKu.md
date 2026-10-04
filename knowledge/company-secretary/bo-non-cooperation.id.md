@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Sekretaris perusahaan dan direktur yang berhadapan dengan pemegang saham yang tidak kooperatif atau pengendali yang tidak dapat diidentifikasi."
 
 verificationNeeded:
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang panduan penguatkuasaan mengenai sela masa yang dijangka antara notis s.60C pertama dan kedua"
+  - "Verifikasi apakah SSM telah menerbitkan panduan penegakan apa pun mengenai jeda waktu yang diperkirakan antara pemberitahuan s.60C pertama dan kedua"
 
 lang: "id"
 masterLanguage: "en"

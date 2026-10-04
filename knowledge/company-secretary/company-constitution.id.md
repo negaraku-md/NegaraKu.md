@@ -50,8 +50,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Autoriti common law bagi had pengukuhan (syarikat tidak boleh melucutkan sepenuhnya kuasa berkanunnya untuk meminda perlembagaan) — pengesahan manusia diperlukan untuk kes rujukan yang tepat (contohnya Allen v Gold Reefs of West Africa Ltd [1900] 1 Ch 656; Russell v Northern Bank Development Corp Ltd) sebelum penerbitan."
-  - "Sahkan petikan penuh dan ringkasan fakta kes Chew Meu Jong v Lysaght (Malaysia) Sdn Bhd [2018] 1 LNS 1132 terhadap laporan penghakiman rasmi."
+  - "Otoritas common law untuk batas pengukuhan (perusahaan tidak dapat sepenuhnya mencabut kewenangan statutorinya untuk mengubah konstitusi) — verifikasi manusia diperlukan untuk kasus rujukan yang tepat (misalnya Allen v Gold Reefs of West Africa Ltd [1900] 1 Ch 656; Russell v Northern Bank Development Corp Ltd) sebelum penerbitan."
+  - "Verifikasi kutipan lengkap dan ringkasan fakta kasus Chew Meu Jong v Lysaght (Malaysia) Sdn Bhd [2018] 1 LNS 1132 terhadap laporan putusan resmi."
 updated: 2026-08-07
 sources:
   - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"

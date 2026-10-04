@@ -22,8 +22,8 @@ keyTakeaways:
 appliesTo: "Investor, pencari kerja, wartawan, dan siapa saja yang mencoba memahami siapa yang sebenarnya memiliki perusahaan terkait pemerintah Malaysia."
 
 verificationNeeded:
-  - "Angka FY2025 (RM105bn aset bersih, RM5.6bn keuntungan, pulangan 5.2%) adalah angka semasa satu-satu masa daripada keputusan Khazanah yang dikeluarkan pada Februari 2026 — semak semula berbanding bilik berita Khazanah sebelum setiap semakan"
-  - "Jumlah aset pelaburan dan jumlah keahlian EPF tidak dapat disahkan secara bebas melalui fetch langsung ke kwsp.gov.my (laman itu memulangkan HTTP 403 kepada fetch automatik); artikel ini sengaja mengetepikan sebarang angka AUM atau bilangan ahli EPF yang tepat berbanding menerbitkan angka yang tidak disahkan — tambah kedua-duanya, dengan sumber kwsp.gov.my, pada semakan manusia pertama"
+  - "Angka FY2025 (RM105bn aset bersih, RM5.6bn keuntungan, imbal hasil 5.2%) adalah angka terkini pada satu titik waktu dari hasil Khazanah yang dirilis pada Februari 2026 — periksa ulang terhadap ruang berita Khazanah sebelum setiap peninjauan"
+  - "Total aset investasi dan total keanggotaan EPF tidak dapat diverifikasi secara independen melalui fetch langsung ke kwsp.gov.my (situs itu mengembalikan HTTP 403 terhadap fetch otomatis); artikel ini sengaja mengesampingkan angka AUM apa pun atau jumlah anggota EPF yang persis daripada menerbitkan angka yang tidak terverifikasi — tambahkan keduanya, dengan sumber kwsp.gov.my, pada peninjauan manusia pertama"
 
 lang: "id"
 masterLanguage: "en"

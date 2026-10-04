@@ -43,9 +43,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada terdapat tempoh pemprosesan rasmi bagi penukaran syarikat awam kepada sendirian (s.41(1)) — garis panduan SSM yang dirujuk tidak menyatakan sebarang tempoh untuk arah ini."
-  - "Sama ada syarikat boleh memohon menukar semula status secara sukarela di bawah seksyen 41 (selain sekatan s.42(6)), dan syarat yang berkenaan — tidak dinyatakan dalam sumber yang dirujuk."
-  - "Sahkan fi pemfailan RM500 masih terpakai mengikut jadual fi SSM terkini."
+  - "Apakah terdapat periode pemrosesan resmi untuk konversi perusahaan publik menjadi persendirian (s.41(1)) — pedoman SSM yang dirujuk tidak menyatakan periode apa pun untuk arah ini."
+  - "Apakah perusahaan dapat mengajukan permohonan untuk mengubah kembali statusnya secara sukarela di bawah pasal 41 (selain pembatasan s.42(6)), dan syarat yang berlaku — tidak dinyatakan dalam sumber yang dirujuk."
+  - "Verifikasi apakah biaya pengajuan RM500 masih berlaku menurut jadwal biaya SSM terkini."
 
 updated: 2026-08-07
 sources:

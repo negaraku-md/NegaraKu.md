@@ -36,9 +36,9 @@ faq:
     a: "Pasal 415A yang baru, disisipkan oleh Act A1701, memperbolehkan Pengadilan, atas permohonan pengurus kehakiman, memberikan prioritas tertinggi kepada utang yang timbul dari pembiayaan penyelamatan. Perintah itu dapat menempatkan utang tersebut tepat setelah biaya dan pengeluaran likuidasi berdasarkan s.527(1)(a), terlepas dari s.527(1), atau memperbolehkannya dijaminkan atas harta yang tidak terbebani atau melalui kepentingan sekuritas subordinat."
 
 verificationNeeded:
-  - "Nombor P.U.(B) tepat yang melantik tarikh permulaan kuat kuasa Act A1701 tidak diperoleh daripada Warta Persekutuan; tarikh 1 April 2024 dan 31 Januari 2025 dilaporkan secara konsisten oleh sumber pengamal dan hendaklah disahkan terhadap notifikasi warta sebelum dijadikan sandaran"
-  - "Sama ada Jadual Kelapan telah dipinda oleh mana-mana instrumen selepas Act A1701 untuk menyelaraskan perenggan 1 dengan s.395 yang telah digantikan — tiada pindaan sedemikian ditemui"
-  - "Yuran pemfailan mahkamah dan saraan pengamal insolvensi bagi setiap mekanisme tidak diterbitkan secara berpusat dan tiada julat kos dinyatakan di sini"
+  - "Nomor P.U.(B) tepat yang menetapkan tanggal mulai berlakunya Act A1701 tidak diperoleh dari Warta Persekutuan; tanggal 1 April 2024 dan 31 Januari 2025 dilaporkan secara konsisten oleh sumber praktisi dan harus dikonfirmasi terhadap notifikasi warta sebelum dijadikan dasar"
+  - "Apakah Jadwal Kedelapan telah diubah oleh instrumen mana pun setelah Act A1701 untuk menyelaraskan paragraf 1 dengan s.395 yang telah digantikan — tidak ada perubahan demikian yang ditemukan"
+  - "Biaya pengajuan ke pengadilan dan remunerasi praktisi insolvensi bagi setiap mekanisme tidak diterbitkan secara terpusat dan tidak ada rentang biaya yang dinyatakan di sini"
 
 lang: "id"
 masterLanguage: "en"

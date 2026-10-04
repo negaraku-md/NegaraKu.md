@@ -38,7 +38,7 @@ faq:
     a: "Tidak. Kerja lapangan dilaksanakan berdasarkan neraca saldo yang telah dikunci. Jika neraca saldo terus berubah, setiap jadwal yang telah diuji perlu ditelaah dan dicocokkan ulang, dan itulah cara paling cepat untuk mengubah kerja lapangan dua minggu menjadi enam minggu."
 
 verificationNeeded:
-  - "Sahkan keperluan pendedahan MFRS 124 semasa dan sebarang pindaan yang berkuat kuasa bagi tahun kewangan berkenaan terhadap piawaian terbitan MASB"
+  - "Pastikan persyaratan pengungkapan MFRS 124 terkini dan amandemen apa pun yang berlaku bagi tahun keuangan bersangkutan terhadap standar terbitan MASB"
 
 lang: "id"
 masterLanguage: "en"

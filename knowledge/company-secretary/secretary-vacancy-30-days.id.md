@@ -31,7 +31,7 @@ faq:
     a: "Ia dapat terus berusaha, tetapi ia tidak dapat mematuhi undang-undang. Penyampaian statutori dilakukan oleh sekretaris dalam kapasitas itu, dan nota praktik SSM menegaskan bahwa seseorang yang telah berhenti memegang jabatan itu tidak lagi dapat menyampaikan dokumen atas nama perusahaan. Sebuah perusahaan tanpa sekretaris, menurut definisinya, berada dalam pelanggaran s.235(1)."
 
 verificationNeeded:
-  - "Sahkan sama ada SSM mengenakan sebarang penalti kompaun atau pentadbiran bagi pelanggaran s.240 atau s.235 dalam amalan, dan pada kadar berapa — SSM tidak menerbitkan jadual kompaun bagi seksyen ini bersama teks Akta"
+  - "Pastikan apakah SSM mengenakan penalti kompaun atau administratif apa pun bagi pelanggaran s.240 atau s.235 dalam praktik, dan pada tarif berapa — SSM tidak menerbitkan jadwal kompaun bagi pasal-pasal ini bersama teks undang-undang"
 
 obligations:
   - what: "Isi jabatan sekretaris perusahaan yang kosong"

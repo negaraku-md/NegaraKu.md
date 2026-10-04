@@ -29,8 +29,8 @@ faq:
     a: "Tidak. Pasal 599(1) Companies Act 2016 memberikan salinan atau kutipan dari dokumen yang disampaikan kepada Pendaftar, yang disahkan sebagai salinan benar serta ditandatangani dan dibubuhi meterai oleh Pendaftar, keterterimaan sebagai bukti dengan keabsahan yang sama seperti dokumen asli. Status statutori itu berlaku bagi pengesahan Pendaftar, bukan bagi pengesahan sekretaris perusahaan."
 
 verificationNeeded:
-  - "Sahkan perkataan pengesahan, langkah proses dan tarikh berkuat kuasa yang ditetapkan dalam teks penuh MAICSA Updated Best Practice — dokumen itu sendiri terhad kepada ahli dan hanya ringkasan pengumuman awam dapat disahkan"
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang arahan amalan atau garis panduan tentang pengesahan dokumen oleh setiausaha syarikat — tiada ditemui pada ssm.com.my"
+  - "Verifikasi kata-kata pengesahan, langkah proses, dan tanggal berlaku yang ditetapkan dalam teks lengkap MAICSA Updated Best Practice — dokumen itu sendiri terbatas untuk anggota dan hanya ringkasan pengumuman publik yang dapat diverifikasi"
+  - "Verifikasi apakah SSM telah menerbitkan arahan praktik atau pedoman apa pun tentang pengesahan dokumen oleh sekretaris perusahaan — tidak ada yang ditemukan di ssm.com.my"
 
 lang: "id"
 masterLanguage: "en"

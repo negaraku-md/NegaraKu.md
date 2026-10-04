@@ -38,8 +38,8 @@ faq:
     a: "Laporan keuangan dan laporan diedarkan kepada anggota dalam periode enam bulan dari akhir tahun buku di bawah s.258, dan disampaikan kepada Pendaftar dalam periode 30 hari dari tanggal pengedaran di bawah s.259. Penyampaian dijalankan melalui MBRS dalam format XBRL; laporan keuangan yang diaudit berpindah ke MBRS 2.0 dalam Fase 3, berlaku 1 Juni 2025."
 
 verificationNeeded:
-  - "Sahkan titik masuk MBRS 2.0 semasa dan versi templat mTool untuk penyata kewangan beraudit terhadap halaman MBRS SSM sebelum memetik laluan penyerahan"
-  - "Sahkan sama ada MIA telah mengguna pakai ISA for Less Complex Entities, yang dikuatkuasakan oleh IAASB bagi tempoh bermula pada atau selepas 15 Disember 2025 — keputusan penerimaan pakai Malaysia tidak dapat disahkan"
+  - "Pastikan titik masuk MBRS 2.0 terkini dan versi templat mTool untuk laporan keuangan teraudit terhadap halaman MBRS SSM sebelum mengutip jalur penyerahan"
+  - "Pastikan apakah MIA telah mengadopsi ISA for Less Complex Entities, yang diberlakukan oleh IAASB bagi periode yang dimulai pada atau setelah 15 Desember 2025 — keputusan adopsi Malaysia tidak dapat diverifikasi"
 
 lang: "id"
 masterLanguage: "en"

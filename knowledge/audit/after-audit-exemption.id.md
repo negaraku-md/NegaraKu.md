@@ -37,8 +37,8 @@ faq:
     a: "Itu keputusan komersial, bukan keputusan hukum. Banyak bank, tuan tanah, lembaga pemberi hibah, dan panel tender di Malaysia meminta akun yang diaudit sebagai syarat fasilitas, sewa, atau pemberian. Periksa persyaratan ini sebelum Anda meniadakan audit, karena menugaskan audit terlambat lebih mahal daripada mempertahankannya."
 
 verificationNeeded:
-  - "Sahkan teks dan status semasa pengumuman LHDN mengenai subseksyen 77A(4) terus dengan LHDN — laman pengumuman tersebut tidak dapat diakses semasa penulisan dan dipetik di sini melalui FAQ pengecualian audit SSM"
-  - "Sahkan tarikh fasa mandatori MBRS 2.0 semasa dan titik masuk pada laman MBRS SSM"
+  - "Pastikan teks dan status terkini pengumuman LHDN mengenai Pasal 77A ayat (4) langsung dengan LHDN — halaman pengumuman tersebut tidak dapat diakses saat penulisan dan dikutip di sini melalui FAQ pengecualian audit SSM"
+  - "Pastikan tanggal fase wajib MBRS 2.0 terkini dan titik masuk pada halaman MBRS SSM"
 lang: "id"
 masterLanguage: "en"
 translationStatus: "pending"

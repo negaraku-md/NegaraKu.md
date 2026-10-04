@@ -31,7 +31,7 @@ faq:
     a: "Tidak. Perusahaan yang dikecualikan tetap harus menyampaikan laporan keuangan yang tidak diaudit kepada Pendaftar, disertai laporan direktur, pernyataan oleh direktur, deklarasi statutori, dan sertifikat pengecualian audit yang ditandatangani."
 
 verificationNeeded:
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang pindaan atau arahan amalan lanjut selepas PD 10/2024 yang mengubah ambang Fasa 2 atau Fasa 3"
+  - "Pastikan apakah SSM telah mengeluarkan amandemen atau arahan praktik lanjutan apa pun setelah PD 10/2024 yang mengubah ambang Fase 2 atau Fase 3"
 
 lang: "id"
 masterLanguage: "en"

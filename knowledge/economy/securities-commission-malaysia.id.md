@@ -45,7 +45,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh permulaan kuat kuasa bahagian CMSA 2007 tertentu (cth. Division 2 of Part VI) jika tahap perincian itu dipulihkan — petik warta/notis permulaan kuat kuasa."
+  - "Tanggal mulai berlakunya bagian-bagian tertentu CMSA 2007 (mis. Division 2 of Part VI) jika tingkat perincian itu dipulihkan — kutip warta/pemberitahuan mulai berlaku."
 updated: 2026-08-08
 sources:
   - title: "Tentang SC (About the SC)"

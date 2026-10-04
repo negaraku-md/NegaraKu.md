@@ -50,7 +50,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Jumlah bilangan kampus cawangan asing ('kira-kira sedozen' / 'lebih kurang sebelas') — sahkan terhadap daftar MOHE atau MQA semasa."
+  - "Jumlah total kampus cabang asing ('kira-kira selusin' / 'kurang lebih sebelas') — verifikasi terhadap daftar MOHE atau MQA terkini."
 
 updated: 2026-08-08
 sources:

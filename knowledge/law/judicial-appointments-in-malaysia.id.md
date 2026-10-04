@@ -46,7 +46,7 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Butiran peristiwa 2025 (tarikh persaraan Ketua Hakim Negara ketika itu dan status lanjutan tempoh perkhidmatan): sahkan dengan pengumuman rasmi terkini."
+  - "Rincian peristiwa 2025 (tanggal pensiun Ketua Hakim Negara saat itu dan status perpanjangan masa jabatan): verifikasi dengan pengumuman resmi terkini."
 updated: 2026-08-07
 sources:
   - title: "Federal Constitution (Reprint As at 15 October 2020)"

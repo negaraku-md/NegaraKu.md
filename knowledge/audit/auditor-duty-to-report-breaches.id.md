@@ -39,7 +39,7 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 verificationNeeded:
-  - "Semakan peguam terhadap pernyataan skop undang-undang bahawa perlindungan suci hati seksyen 266(10) terhad kepada laporan subseksyen (9) dan tidak dinyatakan secara nyata bagi laporan subseksyen (8)."
+  - "Tinjauan pengacara terhadap pernyataan ruang lingkup hukum bahwa perlindungan itikad baik Pasal 266 ayat (10) terbatas pada laporan ayat (9) dan tidak dinyatakan secara tegas bagi laporan ayat (8)."
 revision: 0
 revisions:
   - revision: 0

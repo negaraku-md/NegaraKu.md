@@ -23,9 +23,9 @@ keyTakeaways:
 appliesTo: "Perusahaan baru yang sedang memilih alamat, dan perusahaan yang menggunakan alamat sekretaris perusahaan atau penyedia kantor virtual."
 
 verificationNeeded:
-  - "Sahkan keperluan KPDN semasa untuk premis perniagaan fizikal dalam permohonan WRT / perdagangan pengedaran terhadap Guidelines on Foreign Participation in the Distributive Trade Services"
-  - "Keperluan lesen premis pihak berkuasa tempatan (lesen premis) berbeza mengikut majlis — sahkan dengan PBT tertentu dan bukannya mengandaikan peraturan kebangsaan"
-  - "Sahkan sama ada LHDN dan bank-bank pada masa ini menerima alamat setiausaha syarikat atau alamat pejabat maya sebagai alamat surat-menyurat bagi tujuan onboarding mereka sendiri"
+  - "Konfirmasikan persyaratan KPDN terkini untuk tempat usaha fisik dalam permohonan WRT / perdagangan distribusi terhadap Guidelines on Foreign Participation in the Distributive Trade Services"
+  - "Persyaratan izin tempat usaha pemerintah daerah (izin premis) berbeda-beda menurut dewan — konfirmasikan dengan PBT tertentu dan bukan mengasumsikan peraturan nasional"
+  - "Konfirmasikan apakah LHDN dan bank-bank saat ini menerima alamat sekretaris perusahaan atau alamat kantor virtual sebagai alamat surat-menyurat untuk tujuan onboarding mereka sendiri"
 
 obligations:
   - what: "Pertahankan kantor terdaftar di Malaysia, terbuka dan dapat diakses oleh publik pada jam kerja biasa"

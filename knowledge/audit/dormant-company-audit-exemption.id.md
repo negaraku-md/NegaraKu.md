@@ -14,8 +14,8 @@ contentType: "guide"
 answer: "Sebuah perusahaan dorman dikecualikan dari audit di bawah Practice Directive 10/2024 jika ia telah dorman sejak pendirian, atau dorman sepanjang tahun buku berjalan dan tahun buku sebelumnya. Dorman berarti perusahaan tidak menjalankan bisnis apa pun dan tidak ada transaksi akuntansi yang terjadi. Transaksi yang timbul dari kewajiban yang diwajibkan oleh undang-undang untuk dibayar oleh perusahaan, dan biaya kepatuhan terkait, tidak mematahkan status dorman. Jalur ini terpisah dari ambang pendapatan, aset, dan karyawan."
 
 verificationNeeded:
-  - "Sahkan dengan SSM sama ada peruntukan saham pelanggan semasa pemerbadanan dianggap memecahkan status dorman bagi syarikat yang bergantung pada tuntutan dorman-sejak-pemerbadanan"
-  - "Sahkan layanan SSM terhadap caj bank dan faedah yang dikreditkan pada akaun syarikat dorman — arahan itu hanya mengecualikan obligasi yang syarikat diwajibkan membayar dari segi undang-undang"
+  - "Pastikan dengan SSM apakah penjatahan saham pendiri (subscriber) saat pendirian dianggap menggugurkan status dorman bagi perusahaan yang bergantung pada klaim dorman-sejak-pendirian"
+  - "Pastikan perlakuan SSM terhadap biaya bank dan bunga yang dikreditkan pada rekening perusahaan dorman — arahan tersebut hanya mengecualikan kewajiban yang secara hukum wajib dibayar perusahaan"
 
 lang: "id"
 masterLanguage: "en"

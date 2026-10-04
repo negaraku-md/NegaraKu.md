@@ -39,7 +39,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Nama rasmi semasa pusat: laman UKM menggunakan kedua-dua 'PERMATA@Pintar Negara' dan 'GENIUS@Pintar Negara' (halaman sejarah bertajuk 'Sejarah Pusat GENIUS@Pintar Negara'). Sahkan penjenamaan rasmi terkini dan kemas kini tajuk/entity jika perlu."
+  - "Nama resmi terkini pusat: situs UKM menggunakan baik 'PERMATA@Pintar Negara' maupun 'GENIUS@Pintar Negara' (halaman sejarah berjudul 'Sejarah Pusat GENIUS@Pintar Negara'). Verifikasi penamaan resmi terkini dan perbarui judul/entity jika perlu."
 revisions:
   - revision: 0
     date: 2026-08-08

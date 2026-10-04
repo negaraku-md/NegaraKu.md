@@ -38,9 +38,9 @@ faq:
     a: "Tidak. Tindakan pengaman (safeguard) terletak di bawah statuta terpisah, yaitu Safeguards Act 2006 (Act 657), dan menanggapi lonjakan impor alih-alih harga tidak adil atau subsidi. Tindakan pengaman berlaku bagi semua sumber alih-alih negara yang disebutkan, dan tidak ada temuan dumping atau subsidi yang diperlukan."
 
 verificationNeeded:
-  - "Malaysia tidak menerbitkan jumlah keseluruhan berterusan langkah timbal balas yang pernah dikenakan — jadual langkah-langkah berkuat kuasa menunjukkan tiada langkah timbal balas setakat Julai 2026, tetapi MITI tidak menyatakannya secara jelas"
-  - "MITI tidak menerbitkan peratusan kadar duti dalam jadual langkah-langkah berkuat kuasanya; kadar mesti dibaca daripada setiap Perintah Kastam yang diwartakan secara individu dan tidak dijadualkan di sini"
-  - "Tempoh balasan bagi soal selidik tambahan ditetapkan mengikut kes dalam soal selidik itu sendiri dan tidak ditetapkan oleh Peraturan-Peraturan tersebut"
+  - "Malaysia tidak menerbitkan jumlah kumulatif berkelanjutan tindakan countervailing yang pernah dikenakan — daftar tindakan yang berlaku menunjukkan tidak ada tindakan countervailing hingga Juli 2026, tetapi MITI tidak menyatakannya secara jelas"
+  - "MITI tidak menerbitkan persentase tarif bea dalam daftar tindakan yang berlakunya; tarif harus dibaca dari setiap Perintah Kastam yang diundangkan secara individual dan tidak ditabulasikan di sini"
+  - "Jangka waktu untuk menanggapi kuesioner tambahan ditetapkan berdasarkan kasus per kasus dalam kuesioner itu sendiri dan tidak ditetapkan oleh Peraturan tersebut"
 
 lang: "id"
 masterLanguage: "en"

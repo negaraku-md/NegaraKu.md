@@ -37,7 +37,7 @@ faq:
     a: "Pasal 60B(5) mewajibkan perusahaan menyimpan informasi seseorang yang telah berhenti menjadi pemilik benefisial selama tujuh tahun sejak tanggal pemberhentian itu. Dokumen pendukung serta pemberitahuan dan jawaban s.60C harus disimpan bersama daftar untuk jangka waktu yang sama."
 
 verificationNeeded:
-  - "Sahkan skala yuran pemfailan lewat sebenar yang dikenakan pada pemfailan pemilikan benefisial selepas 30 September 2024 terhadap jadual yuran yang diterbitkan SSM — SSM menyatakan yuran pemfailan lewat dikenakan tetapi jumlahnya tidak dinyatakan dalam PD 9/2024"
+  - "Verifikasi skala biaya pengajuan terlambat yang sebenarnya yang dikenakan pada pengajuan kepemilikan manfaat setelah 30 September 2024 terhadap jadwal biaya yang diterbitkan SSM — SSM menyatakan biaya pengajuan terlambat dikenakan tetapi jumlahnya tidak dinyatakan dalam PD 9/2024"
 
 obligations:
   - what: "Record beneficial ownership information in the register of beneficial owners"

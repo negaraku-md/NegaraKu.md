@@ -38,7 +38,7 @@ faq:
     a: "Ya. Pasal 221(2) mengecualikan kepentingan yang timbul dari menjadi anggota atau kreditor suatu badan korporat yang berkepentingan dalam kontrak itu, di mana kepentingan itu tidak material. Pasal 221(3) menetapkan bahwa seorang direktur tidak dianggap berkepentingan semata-mata karena telah menjamin pinjaman kepada perusahaan, atau di mana kontrak itu adalah dengan badan korporat yang dianggap terkait berdasarkan s.7 — namun s.221(3) secara tegas tidak mengatasi ketentuan yang lebih ketat dalam konstitusi perusahaan itu sendiri."
 
 verificationNeeded:
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang arahan amalan atau panduan mengenai bentuk notis am s.221(4) — tiada ditemui dalam perpustakaan rangka kerja perundangan SSM"
+  - "Verifikasi apakah SSM telah menerbitkan arahan praktik atau panduan apa pun mengenai bentuk pemberitahuan umum s.221(4) — tidak ada yang ditemukan dalam perpustakaan kerangka kerja perundang-undangan SSM"
 
 obligations:
   - what: "Mengungkapkan sifat kepentingan dalam suatu kontrak atau usulan kontrak dengan perusahaan pada suatu rapat dewan direksi"

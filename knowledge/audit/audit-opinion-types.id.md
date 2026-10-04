@@ -38,7 +38,7 @@ faq:
     a: "MIA menerbitkan laporan auditor ilustratif dalam AAPG 1 untuk kerangka MFRS dan AAPG 2 untuk MPERS, keduanya dibaca bersama Companies Act 2016. Ilustrasi 4 hingga 7 dalam setiap panduan mencakup opini wajar dengan pengecualian untuk salah saji, opini wajar dengan pengecualian untuk ketidakmampuan memperoleh bukti, opini tidak wajar, dan opini tidak menyatakan pendapat, masing-masing."
 
 verificationNeeded:
-  - "Sahkan bahawa AAPG 1 dan AAPG 2 yang disemak Jun 2021 masih kekal sebagai laporan ilustratif MIA semasa dan belum digantikan oleh semakan yang lebih terkini"
+  - "Pastikan bahwa AAPG 1 dan AAPG 2 yang ditinjau Juni 2021 masih tetap menjadi laporan ilustratif MIA saat ini dan belum digantikan oleh revisi yang lebih baru"
 
 lang: "id"
 masterLanguage: "en"

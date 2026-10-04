@@ -40,7 +40,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Sahkan tarikh khusus pelanggan: tarikh akhir tahun kewangan cawangan dan tarikh AGM yang menetapkan tempoh penyerahan dua bulan di bawah s.575(1)."
+  - "Pastikan tanggal spesifik klien: tanggal akhir tahun keuangan cabang dan tanggal AGM yang menetapkan jangka waktu penyerahan dua bulan di bawah s.575(1)."
 revisions:
   - revision: 0
     date: 2026-08-08

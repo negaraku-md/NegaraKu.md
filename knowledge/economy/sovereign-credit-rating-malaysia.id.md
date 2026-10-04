@@ -48,10 +48,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh tepat tindakan penarafan S&P September 2025: petikan InvestMalaysia menunjukkan 'setakat 20 September 2025', manakala The Edge melaporkan pengesahan pada 19 September 2025."
-  - "Kenyataan akhbar khusus daripada Moody's atau MoF yang mengesahkan pengesahan A3 pada 14 Julai 2026. Hanya petikan InvestMalaysia kini mendokumentasikan tarikh tersebut; angka defisit 3.8%/4.3%, atribusi Public Finance and Fiscal Responsibility Act 2023 dan baris 'ekonomi berpangkat A yang paling pesat berkembang' semuanya berpunca daripada pengesahan Moody's yang lebih awal pada 25 Januari 2025."
-  - "Tarikh tepat tindakan Fitch pada Disember 2025: Xinhua melaporkan pengesahan pada 8 Disember 2025, manakala petikan InvestMalaysia menunjukkan 'as of 9 December 2025'."
-  - "Perkataan tepat Moody's yang mengiktiraf Public Finance and Fiscal Responsibility Act 2023 dalam pengesahan 25 January 2025 (pertanyaan penyemak fakta menandakan atribusi ini; teks siaran MoF hendaklah dipetik kata demi kata oleh manusia)."
+  - "Tanggal persis tindakan pemeringkatan S&P September 2025: kutipan InvestMalaysia menunjukkan 'per 20 September 2025', sedangkan The Edge melaporkan konfirmasi pada 19 September 2025."
+  - "Siaran pers khusus dari Moody's atau MoF yang memastikan konfirmasi A3 pada 14 Juli 2026. Hanya kutipan InvestMalaysia yang kini mendokumentasikan tanggal tersebut; angka defisit 3.8%/4.3%, atribusi Public Finance and Fiscal Responsibility Act 2023 dan baris 'ekonomi berperingkat A yang paling pesat berkembang' semuanya berasal dari konfirmasi Moody's yang lebih awal pada 25 Januari 2025."
+  - "Tanggal persis tindakan Fitch pada Desember 2025: Xinhua melaporkan konfirmasi pada 8 Desember 2025, sedangkan kutipan InvestMalaysia menunjukkan 'as of 9 December 2025'."
+  - "Kata-kata persis Moody's yang mengakui Public Finance and Fiscal Responsibility Act 2023 dalam konfirmasi 25 Januari 2025 (pertanyaan pemeriksa fakta menandai atribusi ini; teks siaran MoF harus dikutip kata demi kata oleh manusia)."
 
 updated: 2026-08-08
 sources:

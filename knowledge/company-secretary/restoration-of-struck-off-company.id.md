@@ -38,9 +38,9 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "URL sumber Bestar mengandungi pemisah 'reinst-ate' di tengah perkataan (…/application-to-reinst-ate-company-under-section-555-1-…). Ia menghasilkan HTTP 200 (slug kanonik sebenar Wix), tetapi sahkan secara manual token itu tidak rosak atau tersalin secara senyap."
-  - "Tarikh 30 Januari 2023 bagi Garis Panduan SSM di bawah Seksyen 555(1) disahkan melalui pengumuman teknikal MAICSA dan TACPro; sahkan terhadap salinan garis panduan rasmi SSM sendiri jika boleh diakses."
-  - "Rujukan Aturan 88 Kaedah 2 Kaedah-Kaedah Mahkamah 2012 disebut dalam sumber sekunder (MAICSA/TACPro); sahkan terhadap teks Kaedah-Kaedah Mahkamah 2012 yang berkuat kuasa."
+  - "URL sumber Bestar mengandung pemisah 'reinst-ate' di tengah kata (…/application-to-reinst-ate-company-under-section-555-1-…). URL ini menghasilkan HTTP 200 (slug kanonik asli Wix), tetapi pastikan secara manual bahwa token itu tidak rusak atau tersalin secara diam-diam."
+  - "Tanggal 30 Januari 2023 bagi Pedoman SSM di bawah Pasal 555(1) diverifikasi melalui pengumuman teknis MAICSA dan TACPro; pastikan terhadap salinan pedoman resmi SSM sendiri jika dapat diakses."
+  - "Rujukan Order 88 Rule 2 Rules of Court 2012 disebutkan dalam sumber sekunder (MAICSA/TACPro); pastikan terhadap teks Rules of Court 2012 yang berlaku."
 
 revisions:
   - revision: 0

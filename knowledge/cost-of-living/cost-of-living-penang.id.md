@@ -37,8 +37,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Seorang pengulas manusia bernama dengan pengetahuan pasaran Pulau Pinang semasa perlu mengesahkan penerangan kualitatif kos George Town berbanding Seberang Perai di bawah ini berdasarkan Laporan Pasaran Hartanah NAPIC yang terkini, sebaik sahaja jadual peringkat negerinya diekstrak dalam format yang boleh disemak."
-  - "IHP peringkat negeri adalah siri bulanan; angka Januari 2025 yang dipetik di sini perlu dikemas kini berdasarkan keluaran IHP DOSM terkini sebelum halaman ini digunakan untuk perbandingan bulan semasa."
+  - "Seorang peninjau manusia bernama yang memiliki pengetahuan tentang pasar Pulau Pinang terkini perlu memverifikasi penjelasan kualitatif biaya George Town dibandingkan Seberang Perai di bawah ini berdasarkan Laporan Pasar Properti NAPIC terbaru, begitu tabel tingkat negara bagiannya diekstrak dalam format yang dapat diperiksa."
+  - "IHK tingkat negara bagian merupakan seri bulanan; angka Januari 2025 yang dikutip di sini perlu diperbarui berdasarkan rilis IHK DOSM terbaru sebelum halaman ini digunakan untuk perbandingan bulan berjalan."
 
 updated: 2026-07-24
 sources:

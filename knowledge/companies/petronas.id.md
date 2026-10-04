@@ -45,12 +45,12 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Angka kewangan tepat 2024 (hasil ~RM320 bilion, untung bersih ~RM55.1 bilion, dan perbandingan 2023 RM343.6 bilion / RM80.7 bilion) — sahkan terhadap Keputusan Kewangan Kumpulan PETRONAS FY2024 yang diumumkan 5 Februari 2025 (dokumen PDF rasmi)."
-  - "Angka 2024 tambahan (jumlah aset RM766.7 bilion; jumlah sumbangan kerajaan RM72.4 bilion dengan pecahan RM32.0b dividen + RM26.8b cukai + RM13.1b bayaran tunai + RM0.5b Kumpulan Wang Amanah Negara) — sahkan terhadap PETRONAS Integrated Report 2024. Angka terkumpul (~RM1.5 trilion sejak 1974; ~RM13.5 bilion ke dalam Kumpulan Wang Amanah Negara) dilaporkan sendiri oleh Petronas dan belum disahkan secara bebas."
-  - "Anggaran hasil 'sehingga RM20 bilion setahun' untuk Sarawak — anggaran penganalisis, bukan angka rasmi; sahkan sumber dan asas pengiraan."
-  - "Peratusan kargo LNG Petronas yang berasal daripada atau melalui Sarawak — angka spesifik telah dibuang kerana tiada sumber utama yang disahkan."
-  - "Tarikh dan kandungan tepat perjanjian tambahan royalti 5% (1975-76) antara Petronas dan negeri-negeri."
-  - "Status terkini rundingan dan sebarang tindakan undang-undang Petronas-PETROS selepas tarikh sumber (Mei 2025)."
+  - "Angka keuangan 2024 yang tepat (pendapatan ~RM320 miliar, laba bersih ~RM55.1 miliar, dan perbandingan 2023 RM343.6 miliar / RM80.7 miliar) — verifikasi terhadap Hasil Keuangan Grup PETRONAS FY2024 yang diumumkan 5 Februari 2025 (dokumen PDF resmi)."
+  - "Angka 2024 tambahan (total aset RM766.7 miliar; total kontribusi pemerintah RM72.4 miliar dengan rincian RM32.0b dividen + RM26.8b pajak + RM13.1b pembayaran tunai + RM0.5b Kumpulan Wang Amanah Negara) — verifikasi terhadap PETRONAS Integrated Report 2024. Angka kumulatif (~RM1.5 triliun sejak 1974; ~RM13.5 miliar ke dalam Kumpulan Wang Amanah Negara) dilaporkan sendiri oleh Petronas dan belum diverifikasi secara independen."
+  - "Estimasi pendapatan 'hingga RM20 miliar setahun' untuk Sarawak — estimasi analis, bukan angka resmi; verifikasi sumber dan dasar perhitungan."
+  - "Persentase kargo LNG Petronas yang berasal dari atau melalui Sarawak — angka spesifik telah dihapus karena tidak ada sumber primer yang terverifikasi."
+  - "Tanggal dan isi persis perjanjian tambahan royalti 5% (1975-76) antara Petronas dan negara-negara bagian."
+  - "Status terkini perundingan dan tindakan hukum apa pun Petronas-PETROS setelah tanggal sumber (Mei 2025)."
 revisions:
   - revision: 0
     date: 2026-07-28

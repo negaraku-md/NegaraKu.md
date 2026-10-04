@@ -37,8 +37,8 @@ faq:
     a: "Paragraf 7 Practice Note 3/2018 menetapkan bahwa dokumen yang disampaikan setelah batas waktu dianggap disampaikan dalam jangka waktu yang ditetapkan jika ia disampaikan dalam masa perpanjangan yang disetujui. Perpanjangan waktu ini menetralkan keterlambatan itu sepenuhnya, bukan sekadar mengurangi penalti."
 
 verificationNeeded:
-  - "Sahkan saluran semasa untuk mengemukakan permohonan lanjutan masa — Practice Note 3/2018 mendahului MBRS 2.0, dan permohonan lanjutan kini termasuk dalam skop mandatori MBRS 2.0 yang diumumkan pada 26 November 2024"
-  - "Sahkan sama ada SSM menerbitkan tempoh lanjutan maksimum; Practice Note 3/2018 menyerahkan tempohnya kepada budi bicara Pendaftar dan tidak menyatakan sebarang had"
+  - "Pastikan saluran terkini untuk mengajukan permohonan perpanjangan waktu — Practice Note 3/2018 mendahului MBRS 2.0, dan permohonan perpanjangan kini termasuk dalam ruang lingkup mandatori MBRS 2.0 yang diumumkan pada 26 November 2024"
+  - "Pastikan apakah SSM menerbitkan jangka waktu perpanjangan maksimum; Practice Note 3/2018 menyerahkan jangka waktunya kepada diskresi Pendaftar dan tidak menyebutkan batasan apa pun"
 
 obligations:
   - what: "Memohon perpanjangan waktu untuk mengedarkan atau menyampaikan laporan keuangan"

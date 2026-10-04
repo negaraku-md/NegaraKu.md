@@ -51,8 +51,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Senarai tepat negeri yang mewartakan Thaipusam sebagai cuti umum boleh berbeza dari tahun ke tahun; sahkan terhadap notis cuti rasmi setiap negeri bagi tahun berkenaan."
-  - "Angka kehadiran penganut ialah anggaran yang berbeza secara ketara antara sumber; hanya angka Tourism Selangor (sehingga 1.5 juta) dipetik di sini."
+  - "Daftar tepat negara bagian yang menetapkan Thaipusam sebagai hari libur umum dapat berbeda dari tahun ke tahun; pastikan terhadap pemberitahuan libur resmi setiap negara bagian untuk tahun yang bersangkutan."
+  - "Angka kehadiran penganut merupakan perkiraan yang berbeda secara signifikan antarsumber; hanya angka Tourism Selangor (hingga 1.5 juta) yang dikutip di sini."
 
 updated: 2026-07-24
 sources:

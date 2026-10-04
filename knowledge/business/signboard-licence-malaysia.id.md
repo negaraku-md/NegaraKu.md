@@ -36,8 +36,8 @@ faq:
     a: "Seksyen 102(c) Akta Kerajaan Tempatan 1976 secara tegas mencakup kuasa untuk membongkar iklan, dan s.104 membatasi penalti peraturan daerah pada denda hingga RM2,000, penjara hingga satu tahun, atau keduanya, ditambah RM200 untuk setiap hari pelanggaran itu dilanjutkan setelah putusan bersalah. Dalam praktiknya, otoritas lokal lebih dahulu menggunakan penyitaan deposit apabila papan tanda tidak diturunkan."
 
 verificationNeeded:
-  - "Amaun kompaun khusus bagi papan tanda tanpa lesen di mana-mana daripada empat majlis tersebut — hanya siling berkanun dalam s.104 yang disahkan"
-  - "Tarif papan tanda tahunan berdasarkan keluasan MBSA — hanya yuran pemprosesan iklan dan kadar rata bunting dan sepanduk yang diterbitkan"
+  - "Jumlah kompon khusus untuk papan reklame tanpa izin di salah satu dari keempat majelis tersebut — hanya plafon menurut undang-undang dalam s.104 yang terverifikasi"
+  - "Tarif papan reklame tahunan berdasarkan luas MBSA — hanya biaya pemrosesan iklan dan tarif rata untuk bunting dan spanduk yang diterbitkan"
 
 lang: "id"
 masterLanguage: "en"

@@ -24,13 +24,13 @@ keyTakeaways:
 appliesTo: "UKM dan usaha mikro milik Malaysia yang memerlukan modal kerja, pembiayaan belanja modal, atau hibah tahap awal."
 
 verificationNeeded:
-  - "Kadar PENJANA Tourism Financing semasa bagi kelulusan selepas 31 Disember 2025 tidak diterbitkan oleh BNM atau SME Bank — angka 3.5% terpakai hanya kepada pembiayaan yang diluluskan menjelang tarikh tersebut"
-  - "Peruntukan bagi Micro Enterprises Facility, PENJANA Tourism Financing dan Relief and Adaptation Facility tidak diterbitkan"
-  - "Terma skim jaminan BNM-CGC bernilai RM10 bilion terletak di cgc.com.my dan tidak disahkan terhadap sumber primer BNM"
-  - "SME Bank tidak menerbitkan status terbuka atau tertutup bagi mana-mana program, dan tidak menerbitkan Base Financing Rate semasa, jadi semua kadar berkaitan BFR adalah spread dan bukannya kadar berkesan"
-  - "Cradle tidak menyatakan sama ada permohonan CIP Spark atau CIP Sprint kini dibuka; Cradle Elevate langsung tidak dapat dibaca"
-  - "MTDC tidak menerbitkan status bagi mana-mana dana kecuali SemiconStart, yang halamannya mengiklankan dirinya sebagai terbuka melepasi tarikh tutup yang dinyatakannya sendiri"
-  - "TEKUN tidak menerbitkan penanda buka atau tutup bagi setiap skim, dan angka Ar Rahnu 4unya cacat secara tipografi pada laman langsung"
+  - "Tarif PENJANA Tourism Financing terkini untuk persetujuan setelah 31 Desember 2025 tidak diterbitkan oleh BNM atau SME Bank — angka 3.5% hanya berlaku untuk pembiayaan yang disetujui menjelang tanggal tersebut"
+  - "Alokasi untuk Micro Enterprises Facility, PENJANA Tourism Financing, dan Relief and Adaptation Facility tidak diterbitkan"
+  - "Ketentuan skema jaminan BNM-CGC senilai RM10 miliar berada di cgc.com.my dan belum diverifikasi terhadap sumber primer BNM"
+  - "SME Bank tidak menerbitkan status terbuka atau tertutup untuk program mana pun, dan tidak menerbitkan Base Financing Rate terkini, sehingga semua tarif terkait BFR merupakan spread dan bukan tarif efektif"
+  - "Cradle tidak menyatakan apakah pengajuan CIP Spark atau CIP Sprint saat ini dibuka; Cradle Elevate sama sekali tidak dapat dibaca"
+  - "MTDC tidak menerbitkan status untuk dana mana pun kecuali SemiconStart, yang halamannya mengiklankan dirinya sebagai terbuka melewati tanggal penutupan yang dinyatakannya sendiri"
+  - "TEKUN tidak menerbitkan penanda buka atau tutup untuk setiap skema, dan angka Ar Rahnu-nya cacat secara tipografi pada halaman langsung"
 
 lang: "id"
 masterLanguage: "en"

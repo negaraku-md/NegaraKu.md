@@ -38,8 +38,8 @@ faq:
     a: "Ya. Apabila terdapat jumlah yang masih belum dibayar atas suatu saham, direktur dapat melakukan satu panggilan (call), dan Pasal 83 menetapkan prosedur penghapusan hak (forfeiture) jika panggilan itu tidak dibayar, termasuk satu pemberitahuan yang menyatakan tanggal pembayaran dan peringatan penghapusan hak. Pemegang saham yang dihapus haknya tetap bertanggung jawab atas uang yang jatuh tempo pada tanggal penghapusan hak tersebut."
 
 verificationNeeded:
-  - "Angka modal berbayar minimum yang dipetik untuk syarikat milik asing, pelesenan WRT dan permohonan pas penggajian ditetapkan oleh KPDN, MIDA dan Imigresen, bukan oleh SSM — sahkan setiap satu terhadap pihak berkuasa yang bertanggungjawab dan bukannya angka umum"
-  - "Sahkan layanan duti setem semasa ke atas pemindahan saham dalam syarikat Malaysia sebelum merancang penstrukturan semula"
+  - "Angka modal disetor minimum yang dikutip untuk perusahaan milik asing, perizinan WRT dan permohonan pas kerja ditetapkan oleh KPDN, MIDA dan Imigresen, bukan oleh SSM — konfirmasikan masing-masing terhadap otoritas yang bertanggung jawab dan bukan angka umum"
+  - "Konfirmasikan perlakuan bea meterai terkini atas pengalihan saham dalam perusahaan Malaysia sebelum merencanakan restrukturisasi"
 
 obligations:
   - what: "Memperoleh persetujuan anggota terlebih dahulu sebelum direktur mengalokasikan saham atau memberikan hak"

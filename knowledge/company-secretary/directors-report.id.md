@@ -38,7 +38,7 @@ faq:
     a: "Pasal 252(4) memaparkan direktur mana pun yang gagal mengambil semua langkah wajar untuk memastikan kepatuhan s.252(1) pada denda hingga RM500,000 atau penjara hingga satu tahun atau keduanya. Pasal 252(5) mengenakan denda pada perusahaan dan setiap pejabat hingga RM20,000 bagi pelanggaran keperluan persetujuan dan tanda tangan dalam s.252(2). Pasal 251(4) membawa RM500,000 atau satu tahun atau keduanya bagi bagian laporan keuangan."
 
 verificationNeeded:
-  - "Sahkan sama ada Pendaftar telah menetapkan sebarang butiran laporan pengarah tambahan di bawah perenggan 1(p) Jadual Kelima, yang membenarkan sebarang butiran lain sebagaimana ditentukan oleh Pendaftar"
+  - "Verifikasi apakah Pendaftar telah menetapkan rincian laporan direktur tambahan apa pun di bawah paragraf 1(p) Jadwal Kelima, yang memperbolehkan rincian lain apa pun sebagaimana ditentukan oleh Pendaftar"
 
 obligations:
   - what: "Prepare a directors' report for the financial year and attach it to the financial statements"

@@ -45,9 +45,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan URL rasmi PDF Bab 12 (Share Buy-Backs) Keperluan Penyenaraian Pasaran Utama dan Pasaran ACE terus dari bursamalaysia.com (WebFetch disekat 403 semasa pas pembetulan ini) dan pastikan nombor kaedah 12.03/12.07(3)/12.09/12.10/12.11/12.17/12.19/12.20/12.21 serta Apendiks 12A masih sepadan dalam edisi terkini."
-  - "Sahkan sama ada artikel patut memberi fokus kepada Pasaran Utama, Pasaran ACE, atau kedua-duanya; nombor kaedah adalah sama dalam kedua-dua rangka kerja tetapi harga rujukan dokumen berbeza."
-  - "Sahkan tempoh 6.30 petang (Kaedah 12.19/12.20/12.21) dan had harga 15% (Kaedah 12.17) terhadap edisi Bursa semasa."
+  - "Pastikan URL resmi PDF Bab 12 (Share Buy-Backs) Persyaratan Pencatatan Pasar Utama dan Pasar ACE langsung dari bursamalaysia.com (WebFetch diblokir 403 selama pas koreksi ini) dan pastikan nomor aturan 12.03/12.07(3)/12.09/12.10/12.11/12.17/12.19/12.20/12.21 serta Apendiks 12A masih sesuai dalam edisi terkini."
+  - "Pastikan apakah artikel sebaiknya berfokus pada Pasar Utama, Pasar ACE, atau keduanya; nomor aturan sama dalam kedua kerangka tersebut tetapi harga rujukan dokumen berbeda."
+  - "Pastikan batas waktu pukul 6.30 petang (Aturan 12.19/12.20/12.21) dan batas harga 15% (Aturan 12.17) terhadap edisi Bursa terkini."
 
 updated: 2026-08-07
 sources:

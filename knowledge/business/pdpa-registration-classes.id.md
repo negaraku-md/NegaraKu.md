@@ -24,9 +24,9 @@ keyTakeaways:
 appliesTo: "Pengendali data mana pun di Malaysia yang ingin memeriksa apakah ia perlu memegang sertifikat pendaftaran dari Komisioner Perlindungan Data Pribadi."
 
 verificationNeeded:
-  - "Sama ada JPDP membaca kelas 9(b) sebagai konjunktif, memerlukan kedua-dua urus niaga runcit dan borong, atau sebagai meliputi mana-mana satu — tiada tafsiran diterbitkan wujud"
-  - "Sama ada rujukan kepada Companies Act 1965 dalam kelas 9(a), 9(b) dan 9(c) dibaca sebagai rujukan kepada Companies Act 2016 melalui operasi Interpretation Acts — perintah itu tidak pernah dipinda"
-  - "Sama ada peruncit dalam talian yang menjual hanya barang tidak dikawal termasuk dalam definisi urusan runcit dan borong Control of Supplies Act 1961"
+  - "Apakah JPDP membaca kelas 9(b) sebagai konjungtif, mensyaratkan kedua transaksi ritel dan grosir, atau sebagai mencakup salah satunya — belum ada penafsiran yang diterbitkan"
+  - "Apakah rujukan kepada Companies Act 1965 dalam kelas 9(a), 9(b) dan 9(c) dibaca sebagai rujukan kepada Companies Act 2016 melalui operasi Interpretation Acts — perintah itu tidak pernah diubah"
+  - "Apakah peritel daring yang hanya menjual barang tidak dikendalikan termasuk dalam definisi urusan ritel dan grosir Control of Supplies Act 1961"
 
 obligations:
   - what: "Ajukan pembaruan sertifikat pendaftaran"

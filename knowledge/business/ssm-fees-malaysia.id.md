@@ -23,9 +23,9 @@ keyTakeaways:
 appliesTo: "Pendiri, sekretaris perusahaan, dan tim keuangan yang menganggarkan biaya pengajuan SSM."
 
 verificationNeeded:
-  - "Yuran pendaftaran perniagaan RM30 / RM60 / RM5 / RM10 diambil daripada garis panduan yang diterbitkan SSM dan bukan daripada jadual berwarta yang diperoleh di bawah Registration of Businesses Rules 1957 sebagaimana dipinda — sahkan terhadap Rules tersebut sebelum bergantung padanya dalam sebutan harga yuran"
-  - "Sahkan sama ada mana-mana pengecualian yuran atau skim insentif sedang dibuka — skim SPPP dan S1O1P yang dirujuk dalam garis panduan EzBiz SSM membawa syarat kelayakan dan tarikh tamatnya sendiri"
-  - "SSM tidak menerbitkan sebarang piagam standard tempoh pemprosesan umum bagi pemerbadanan syarikat; angka yang diberikan di sini datang daripada garis panduan individu yang berbeza tarikh"
+  - "Biaya pendaftaran usaha RM30 / RM60 / RM5 / RM10 diambil dari pedoman yang diterbitkan SSM dan bukan dari jadwal yang diwartakan berdasarkan Registration of Businesses Rules 1957 sebagaimana diamendemen — verifikasi terhadap Rules tersebut sebelum mengandalkannya dalam penawaran harga biaya"
+  - "Verifikasi apakah ada pengecualian biaya atau skema insentif yang sedang dibuka — skema SPPP dan S1O1P yang dirujuk dalam pedoman EzBiz SSM memiliki syarat kelayakan dan tanggal berakhirnya sendiri"
+  - "SSM tidak menerbitkan piagam standar apa pun mengenai jangka waktu pemrosesan umum untuk pendirian perusahaan; angka yang diberikan di sini berasal dari pedoman individual dengan tanggal yang berbeda"
 
 lang: "id"
 masterLanguage: "en"

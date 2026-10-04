@@ -36,8 +36,8 @@ faq:
     a: "Karena biaya mengikuti upaya audit, bukan pendapatan (revenue). Konsolidasi grup, kehadiran menghitung stok, saldo awal tahun pertama, buku besar yang lemah atau tidak direkonsiliasi, transaksi pihak berelasi yang memerlukan pengungkapan MFRS 124, serta persyaratan manajemen mutu di bawah ISQM 1, semuanya menggerakkan jam kerja secara signifikan. Dua perusahaan dengan pendapatan yang sama bisa berbeda hingga tiga kali lipat."
 
 verificationNeeded:
-  - "Julat pasaran yang diperhatikan dalam artikel ini tidak dapat disahkan berbanding mana-mana sumber rasmi — tiada pihak berkuasa menerbitkan skala yuran audit di Malaysia dan tiada skala sedemikian patut disimpulkan daripada angka-angka ini"
-  - "Sahkan alasan yang dinyatakan bagi penarikan balik RPG 7, iaitu Competition Act 2010, berbanding sesuatu pekeliling MIA atau resolusi Majlis — hanya tarikh penarikan balik yang dapat disahkan daripada dokumen rasmi"
+  - "Rentang pasar yang diamati dalam artikel ini tidak dapat diverifikasi terhadap sumber resmi mana pun — tidak ada otoritas yang menerbitkan skala biaya audit di Malaysia dan tidak ada skala semacam itu yang patut disimpulkan dari angka-angka ini"
+  - "Pastikan alasan yang dinyatakan bagi penarikan RPG 7, yaitu Competition Act 2010, dibandingkan dengan suatu surat edaran MIA atau resolusi Dewan — hanya tanggal penarikan yang dapat diverifikasi dari dokumen resmi"
 
 lang: "id"
 masterLanguage: "en"

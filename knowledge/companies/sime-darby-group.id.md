@@ -46,10 +46,10 @@ revisions:
 
 updated: 2026-07-28
 verificationNeeded:
-  - "Tarikh penubuhan Guthrie & Co (1821) dan Sime, Darby and Co. (1910), dan tarikh penggabungan Synergy Drive Januari 2007 — sahkan terhadap sumber utama/warisan syarikat; tidak diambil semula secara bebas dalam pusingan ini."
-  - "Peratusan pegangan saham semasa sebenar PNB dalam setiap tiga syarikat itu — sahkan daripada laporan tahunan terkini / pemfailan Bursa."
-  - "Sama ada Sime Darby Property ialah pemaju tersenarai 'terbesar' tunggal mengikut bank tanah berbanding 'salah satu yang terbesar' — sahkan kedudukan dan keluasan bank tanah semasa daripada sumber berautoriti."
-  - "Sama ada Sime Darby Berhad telah, menjelang penjenamaan semula Nov 2024, melupuskan sepenuhnya perniagaan perdagangan, logistik dan penjagaan kesihatan yang dikekalkannya semasa penyahcantuman 2017."
+  - "Tanggal pendirian Guthrie & Co (1821) dan Sime, Darby and Co. (1910), serta tanggal penggabungan Synergy Drive Januari 2007 — verifikasi terhadap sumber utama/warisan perusahaan; tidak diambil ulang secara independen dalam putaran ini."
+  - "Persentase kepemilikan saham aktual terkini PNB di masing-masing dari ketiga perusahaan tersebut — verifikasi dari laporan tahunan terbaru / dokumen yang diajukan ke Bursa."
+  - "Apakah Sime Darby Property merupakan pengembang tercatat 'terbesar' tunggal berdasarkan bank tanah ataukah 'salah satu yang terbesar' — verifikasi peringkat dan luas bank tanah terkini dari sumber otoritatif."
+  - "Apakah Sime Darby Berhad telah, menjelang penggantian merek November 2024, sepenuhnya melepaskan bisnis perdagangan, logistik, dan layanan kesehatan yang dipertahankannya saat pemisahan 2017."
 sources:
   - title: "Direktori Penyenaraian Bursa Malaysia — SD Guthrie Berhad (SDG, 5285) (Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285))"
     url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"

@@ -39,7 +39,7 @@ faq:
     a: "Ya, dan ini adalah kewajiban terpisah dengan penaltinya sendiri. Pasal 57 mewajibkan perusahaan menyimpan daftar direktur, manajer, dan sekretaris di kantor terdaftarnya dan melaksanakan perubahan dalam jangka waktu empat belas hari. Menyampaikan pemberitahuan s.58 kepada SSM tidak melepaskan kewajiban berdasarkan s.57."
 
 verificationNeeded:
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang nota amalan 2025 mengenai perlantikan pengarah atau prosedur pengesahan — pelan menandakan kewujudannya, tetapi tiada nota sedemikian ditemui dalam perpustakaan rangka kerja undang-undang SSM"
+  - "Verifikasi apakah SSM telah menerbitkan nota praktik 2025 apa pun mengenai penunjukan direktur atau prosedur verifikasi — rencana menandai keberadaannya, tetapi tidak ada nota demikian yang ditemukan dalam perpustakaan kerangka kerja hukum SSM"
 
 obligations:
   - what: "Memberitahukan kepada Pendaftar bahwa seseorang telah menjadi atau berhenti menjadi direktur, dengan rincian yang diwajibkan berdasarkan s.57"

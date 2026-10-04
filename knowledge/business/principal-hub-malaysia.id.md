@@ -46,8 +46,8 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Kadar Global Services Hub (syarikat baharu 0%/5%; syarikat sedia ada 5%/10% ke atas pendapatan nilai tambah; kadar individu 15% untuk C-suite bukan warganegara pada RM35,000/bulan) bergantung pada garis panduan GS-Hub MIDA; rekod repo sendiri mencatatkan tiada instrumen kadar yang diwartakan untuk National Global Services Hub telah ditemui setakat 8 Julai 2026 (garis panduan menyatakan instrumen itu masih perlu dibuat). Anggap semua kadar GSH sebagai 'mengikut garis panduan MIDA, warta belum keluar' sehingga disahkan, dan ambil ambang perbelanjaan operasi dan pekerja setiap tier yang tepat daripada PDF garis panduan GS-Hub MIDA sebelum menerbitkan."
-  - "Sahkan status tutup Principal Hub: garis panduan Global Services Hub MIDA mencatatkan Principal Hub sebagai berakhir 31 Disember 2022, tetapi halaman utama Principal Hub MIDA masih diterbitkan dan sesetengah halaman nasihat masih mengulangi lanjutan 'sehingga 31 Disember 2025' yang tidak pernah dikuatkuasakan. Nyatakan sebagai ditutup berdasarkan kekuatan garis panduan GSH MIDA."
+  - "Tarif Global Services Hub (perusahaan baru 0%/5%; perusahaan yang sudah ada 5%/10% atas penghasilan nilai tambah; tarif individu 15% untuk C-suite bukan warga negara pada RM35,000/bulan) bergantung pada pedoman GS-Hub MIDA; catatan repo sendiri mencatat tidak ada instrumen tarif yang diundangkan untuk National Global Services Hub yang ditemukan hingga 8 Juli 2026 (pedoman menyatakan instrumen itu masih harus dibuat). Anggap semua tarif GSH sebagai 'sesuai pedoman MIDA, warta belum terbit' hingga dikonfirmasi, dan ambil ambang pengeluaran operasional dan pekerja setiap tier yang tepat dari PDF pedoman GS-Hub MIDA sebelum menerbitkan."
+  - "Konfirmasikan status penutupan Principal Hub: pedoman Global Services Hub MIDA mencatat Principal Hub berakhir 31 Desember 2022, tetapi halaman utama Principal Hub MIDA masih diterbitkan dan sebagian halaman nasihat masih mengulang perpanjangan 'hingga 31 Desember 2025' yang tidak pernah diberlakukan. Nyatakan sebagai ditutup atas dasar kekuatan pedoman GSH MIDA."
 
 updated: 2026-09-07
 sources:

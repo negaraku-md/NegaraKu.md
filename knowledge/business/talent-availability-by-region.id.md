@@ -40,11 +40,11 @@ faq:
     a: "Tidak ada pihak resmi yang tahu. Kementerian Tenaga Manusia Singapura menerbitkan tenaga kerja asingnya menurut jenis pas tanpa rincian kewarganegaraan, dan DOSM tidak memelihara set data ulang-alik lintas batas. Angka yang sering diulang sekitar 300.000 tidak dapat dilacak ke pemerintah mana pun. Anggap dampak gaji atas Johor sebagai nyata dan jumlah kepala sebagai tidak terverifikasi."
 
 verificationNeeded:
-  - "Selaraskan dua siri 2025 DOSM sendiri — Labour Force Survey tahunan memberikan pengangguran Sabah pada 7.2 peratus dan LFPR Selangor pada 78.4 peratus, manakala jadual suku tahunan yang disemak semula membayangkan 6.3 peratus dan 77.4 peratus. Perbezaan ini nampaknya merupakan perbezaan asas populasi khusus bagi versi 2025 dan tidak dijelaskan dalam mana-mana penerbitan"
-  - "Sahkan guna tenaga pembuatan atau sektor mengikut negeri — DOSM tidak menerbitkan sebarang data terbuka, dan pecahan mengikut negeri bagi terbitan Employment Statistics berada di sebalik log masuk eStatistik"
-  - "Sahkan stok pekerja elektrik dan elektronik di Pulau Pinang — tiada angka rasmi wujud di InvestPenang, portal negeri Pulau Pinang atau MIDA"
-  - "Sahkan pengeluaran graduan mengikut negeri — Kementerian Pengajian Tinggi menerbitkan enrolmen mengikut negeri kampus tetapi bukan pengeluaran mengikut negeri"
-  - "Sahkan kiraan pekerja asing berdokumen yang memegang PLKS, secara nasional dan mengikut negeri — DOSM menerbitkan populasi bukan warganegara, yang termasuk tanggungan, pelajar, pemastautin tetap dan individu tanpa dokumen"
+  - "Selaraskan dua seri 2025 milik DOSM sendiri — Labour Force Survey tahunan memberikan pengangguran Sabah pada 7.2 persen dan LFPR Selangor pada 78.4 persen, sementara jadwal kuartalan yang direvisi mengisyaratkan 6.3 persen dan 77.4 persen. Perbedaan ini tampaknya merupakan perbedaan basis populasi khusus untuk versi 2025 dan tidak dijelaskan dalam publikasi mana pun"
+  - "Verifikasi tenaga kerja manufaktur atau sektor menurut negara bagian — DOSM tidak menerbitkan data terbuka apa pun, dan rincian menurut negara bagian untuk terbitan Employment Statistics berada di balik login eStatistik"
+  - "Verifikasi jumlah pekerja listrik dan elektronik di Pulau Pinang — tidak ada angka resmi yang tersedia di InvestPenang, portal negara bagian Pulau Pinang, atau MIDA"
+  - "Verifikasi keluaran lulusan menurut negara bagian — Kementerian Pengajian Tinggi menerbitkan pendaftaran menurut negara bagian kampus tetapi bukan keluaran menurut negara bagian"
+  - "Verifikasi jumlah pekerja asing berdokumen yang memegang PLKS, secara nasional dan menurut negara bagian — DOSM menerbitkan populasi non-warga negara, yang mencakup tanggungan, pelajar, penduduk tetap, dan individu tanpa dokumen"
 
 lang: "id"
 masterLanguage: "en"

@@ -38,8 +38,8 @@ faq:
     a: "Paragraf 7.7 memerlukan pemberitahuan tertulis kepada Komisioner yang menyatakan alasan-alasan keterlambatan itu beserta bukti pendukung — kronologi insiden, komunikasi internal, dan faktor teknis atau eksternal apa pun — diajukan bersama-sama dengan pemberitahuan itu. Kewajiban itu tidak gugur; ia menjadi pemberitahuan terlambat yang disertai penjelasan."
 
 verificationNeeded:
-  - "Sama ada JPDP telah menerbitkan sebarang keputusan penguatkuasaan atau kompaun di bawah s.12B(3) sejak 1 Jun 2025"
-  - "Sama ada borang pemberitahuan dalam talian di pdp.gov.my mengenakan sebarang medan wajib selain daripada yang disenaraikan dalam perenggan 7.4 garis panduan"
+  - "Apakah JPDP telah menerbitkan keputusan penegakan atau denda kompaun apa pun berdasarkan s.12B(3) sejak 1 Juni 2025"
+  - "Apakah formulir pemberitahuan daring di pdp.gov.my mewajibkan bidang isian wajib apa pun selain yang tercantum dalam paragraf 7.4 pedoman"
 
 obligations:
   - what: "Memberitahu Komisioner tentang pelanggaran data pribadi yang menyebabkan atau berkemungkinan menyebabkan bahaya signifikan"

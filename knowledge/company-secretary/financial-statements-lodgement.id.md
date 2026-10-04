@@ -37,7 +37,7 @@ faq:
     a: "Dua hal terjadi. Satu penalti administratif karena terlambat menyampaikan dikenakan di bawah Practice Directive 1/2017 — RM50 hingga RM200 bagi perusahaan swasta bergantung pada lama keterlambatan. Secara terpisah, Pasal 259(3) menjadikannya suatu pelanggaran bagi setiap pejabat, dapat dihukum apabila dinyatakan bersalah dengan denda sampai RM50,000 ditambah sampai RM1,000 untuk setiap hari pelanggaran itu dilanjutkan."
 
 verificationNeeded:
-  - "Sahkan sama ada Companies (Amendment) Act 2024 membuat sebarang perubahan berbangkit kepada seksyen 257 hingga 260 — teks Akta yang dirujuk ialah cetakan semula yang dikemas kini setakat 1 Ogos 2022"
+  - "Pastikan apakah Companies (Amendment) Act 2024 membuat perubahan konsekuensial apa pun pada Pasal 257 hingga 260 — teks undang-undang yang dirujuk adalah cetak ulang yang dimutakhirkan hingga 1 Agustus 2022"
 
 obligations:
   - what: "Mengedarkan laporan keuangan dan laporan kepada anggota"

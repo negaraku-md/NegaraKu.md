@@ -39,11 +39,11 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Asas statutori tepat bagi keperluan bahawa pemfail memegang sijil amalan di bawah Section 241 Companies Act 2016 — sumber bercanggah; sahkan seksyen dan perkataan tepat sebelum menyatakannya."
-  - "Definisi/ambang tepat 'syarikat persendirian dikecualikan' (EPC) di bawah Companies Act 2016 dan apa sebenarnya yang difailkan oleh EPC (sijil EPC) berbanding penyata kewangan XBRL penuh — sahkan pada sumber primer SSM sebelum memperincikan."
-  - "Nombor versi mTool dan mPortal semasa yang tepat — ini berubah dari semasa ke semasa; sahkan versi langsung di ssm.com.my atau tinggalkan."
-  - "Skop sebenar Fasa 2 (FS beraudit di bawah Companies Act 1965) berbanding Fasa 1/3 — sahkan pembahagian CA 1965 berbanding CA 2016 terhadap pekeliling asal SSM 26 November 2024, bukan ringkasan sekunder."
-  - "Sama ada syarikat asing yang didaftarkan di Malaysia mempunyai templat atau tarikh akhir pemfailan MBRS yang berasingan — sahkan butiran khusus dengan SSM."
+  - "Dasar statutori yang tepat bagi persyaratan bahwa pihak pemfail memegang sertifikat praktik di bawah Section 241 Companies Act 2016 — sumber bertentangan; pastikan pasal dan kata-kata yang tepat sebelum menyatakannya."
+  - "Definisi/ambang batas yang tepat untuk 'perusahaan swasta yang dikecualikan' (EPC) di bawah Companies Act 2016 dan apa sebenarnya yang disampaikan oleh EPC (sertifikat EPC) dibandingkan laporan keuangan XBRL lengkap — pastikan pada sumber primer SSM sebelum merincinya."
+  - "Nomor versi mTool dan mPortal terkini yang tepat — ini berubah dari waktu ke waktu; pastikan versi langsung di ssm.com.my atau hilangkan."
+  - "Lingkup sebenarnya Fase 2 (FS teraudit di bawah Companies Act 1965) dibandingkan Fase 1/3 — pastikan pembagian CA 1965 dibandingkan CA 2016 terhadap surat edaran asli SSM 26 November 2024, bukan ringkasan sekunder."
+  - "Apakah perusahaan asing yang didaftarkan di Malaysia memiliki templat atau tenggat penyampaian MBRS yang terpisah — pastikan rincian spesifik dengan SSM."
 updated: 2026-08-14
 sources:
   - title: "FAQ Bagian M — Laporan Tahunan dan Pelaporan Keuangan (Companies Act 2016) (FAQ Part M — Annual Returns and Financial Reporting (Companies Act 2016))"

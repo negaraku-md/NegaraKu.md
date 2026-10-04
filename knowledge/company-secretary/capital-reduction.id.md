@@ -38,7 +38,7 @@ faq:
     a: "Di bawah jalur pengadilan, s.116(6) menetapkan bahwa resolusi itu, sebagaimana disahkan oleh perintah itu, berlaku saat perintah itu disampaikan kepada Pendaftar. Di bawah jalur solvensi, s.119(3) menetapkan bahwa pengurangan itu berlaku saat Pendaftar telah mencatat informasi yang disampaikan itu dalam daftar yang berkaitan."
 
 verificationNeeded:
-  - "Sama ada SSM menetapkan borang atau templat khusus bagi penyata kesolvenan di bawah s.113(1)(a), yang menghendaki ia dibuat mengikut cara yang ditentukan oleh Pendaftar — tiada templat diterbitkan ditemui"
+  - "Apakah SSM menetapkan formulir atau templat khusus untuk pernyataan solvabilitas di bawah s.113(1)(a), yang mengharuskan hal itu dibuat menurut cara yang ditentukan oleh Pendaftar — tidak ada templat yang diterbitkan yang ditemukan"
 
 obligations:
   - what: "Send notice of the capital reduction resolution to the Registrar and to the Director General of Inland Revenue"

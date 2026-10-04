@@ -45,9 +45,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Wording of the Najib Razak statement is an unofficial Malay rendering of an English-language remark reported in the ISEAS commentary; a human should confirm the exact original wording and preferred translation before publication."
-  - "The June 2016 attack attributed to an Islamic State-linked group and its causal framing relative to the Act should be confirmed against a primary news report, not only the ISEAS commentary."
-  - "The claim that the 12 January 2021 Emergency suspended Parliament and State Legislative Assemblies should be confirmed against the emergency ordinance text or an official Parliament record."
+  - "Rumusan pernyataan Najib Razak merupakan alih bahasa tidak resmi ke dalam bahasa Melayu dari sebuah ucapan berbahasa Inggris yang dilaporkan dalam komentar ISEAS; manusia harus mengonfirmasi rumusan asli yang persis dan terjemahan yang lebih disukai sebelum publikasi."
+  - "Serangan Juni 2016 yang diatribusikan kepada kelompok yang terkait dengan Islamic State dan pembingkaian kausalnya relatif terhadap Undang-Undang tersebut harus dikonfirmasi terhadap laporan berita primer, bukan hanya komentar ISEAS."
+  - "Klaim bahwa Keadaan Darurat 12 Januari 2021 menangguhkan Parlemen dan Dewan Undangan Negeri harus dikonfirmasi terhadap teks ordonansi darurat atau catatan resmi Parlemen."
 updated: 2026-08-01
 sources:
   - title: "National Security Council Act 2016 (Act 776)"

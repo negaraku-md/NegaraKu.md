@@ -40,9 +40,9 @@ faq:
     a: "Tidak. Status zona bebas adalah suatu perimeter pabean dan tidak membawa tarif pajak, periode pengecualian, atau tunjangan apa pun. Setiap insentif fiskal datang dari instrumen nasional terpisah yang dimohon melalui MIDA. Sejak pukul 15.00 pada 28 Februari 2026, Taraf Perintis telah ditutup bagi permohonan manufaktur baru, dan permohonan insentif manufaktur baru dinilai di bawah Kerangka Insentif Baru mulai 1 Maret 2026."
 
 verificationNeeded:
-  - "P.U.(A) 356/1974, pengisytiharan Free Trade Zones asal bagi Bayan Lepas, tidak dapat diperoleh — pangkalan data perundangan subsidiari AGC tidak mengindeks siri P.U.(A) sejauh itu ke belakang. Tajuknya dan tarikh warta 10 Oktober 1974 disahkan hanya melalui pernyataan dalam P.U.(B) 510/2024."
-  - "Pihak Berkuasa Zon Bebas bagi Bayan Lepas Fasa II dan seterusnya masih belum diselesaikan. RMCD menyenaraikan Fasa I sahaja, dan pengisytiharan semula 2024 meliputi empat pelan sebagai satu entri zon tunggal, yang mungkin telah menggantikan struktur fasa tersebut."
-  - "Angka RM435 bilion eksport Pulau Pinang yang tersebar luas, atau 31 peratus daripada eksport negara, tidak dapat dikaitkan dengan mana-mana laman rasmi."
+  - "P.U.(A) 356/1974, penetapan Free Trade Zones awal bagi Bayan Lepas, tidak dapat diperoleh — basis data perundang-undangan subsider AGC tidak mengindeks seri P.U.(A) sejauh itu ke belakang. Judulnya dan tanggal warta 10 Oktober 1974 dikonfirmasi hanya melalui pernyataan dalam P.U.(B) 510/2024."
+  - "Otoritas Zona Bebas bagi Bayan Lepas Fase II dan seterusnya masih belum terselesaikan. RMCD hanya mencantumkan Fase I, dan penetapan ulang 2024 mencakup empat denah sebagai satu entri zona tunggal, yang mungkin telah menggantikan struktur fase tersebut."
+  - "Angka RM435 miliar ekspor Pulau Pinang yang tersebar luas, atau 31 persen dari ekspor negara, tidak dapat dikaitkan dengan situs resmi mana pun."
 
 lang: "id"
 masterLanguage: "en"

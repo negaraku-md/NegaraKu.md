@@ -40,10 +40,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Tarikh akhir tepat pemfailan Borang CP204B bagi tempoh perakaunan yang dipendekkan (kurang 12 bulan) berbanding yang dipanjangkan (melebihi 12 bulan) — perlu disahkan terhadap Ketetapan Umum LHDN semasa; tiada sumber primer LHDN dapat dicapai untuk mengesahkan angka '30 hari sebelum'."
-  - "Kewujudan dan kandungan Ketetapan Umum (Public Ruling) 4/2025 serta dakwaan bahawa notis manual (surat) tidak lagi diterima — tidak dapat disahkan; URL LHDN yang didakwa (hasil.gov.my/en/company/change-in-accounting-period/) mengembalikan HTTP 404."
-  - "Sama ada penyata tahunan (annual return) atau mana-mana borang SSM lain turut merekodkan FYE yang ditukar secara berasingan — artikel hanya menyatakan SSM mengetahui FYE baharu melalui penyata kewangan yang difailkan (s.259)."
-  - "Pemakaian tempoh penyelarasan dua tahun s.247 secara khusus kepada perubahan FYE sukarela oleh syarikat berdiri sendiri (s.247 mengawal subsidiari dalam kumpulan, bukan syarikat tunggal)."
+  - "Tanggal akhir tepat pengajuan Borang CP204B untuk periode akuntansi yang dipersingkat (kurang dari 12 bulan) dibandingkan yang diperpanjang (melebihi 12 bulan) — perlu diverifikasi terhadap Ketetapan Umum LHDN terkini; tidak ada sumber primer LHDN yang dapat diakses untuk memverifikasi angka '30 hari sebelum'."
+  - "Keberadaan dan isi Ketetapan Umum (Public Ruling) 4/2025 serta klaim bahwa pemberitahuan manual (surat) tidak lagi diterima — tidak dapat diverifikasi; URL LHDN yang diklaim (hasil.gov.my/en/company/change-in-accounting-period/) mengembalikan HTTP 404."
+  - "Apakah laporan tahunan (annual return) atau formulir SSM lain mana pun turut mencatatkan FYE yang diubah secara terpisah — artikel hanya menyatakan SSM mengetahui FYE baru melalui laporan keuangan yang diajukan (s.259)."
+  - "Penerapan periode penyelarasan dua tahun s.247 secara khusus pada perubahan FYE sukarela oleh perusahaan yang berdiri sendiri (s.247 mengatur anak perusahaan dalam grup, bukan perusahaan tunggal)."
 revisions:
   - revision: 0
     date: 2026-08-07

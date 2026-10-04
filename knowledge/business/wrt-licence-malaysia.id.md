@@ -36,7 +36,7 @@ faq:
     a: "Melalui BLESS 2.0. Daftar periksa KPDN menamai BLESS sebagai salurannya, dengan penyerahan di loket hanya sebagai cadangan ketika sistem tidak berfungsi. Masa berlaku itu sendiri tidak diterbitkan, tetapi KPDN memang menyatakan bahwa permohonan pembaruan harus diserahkan sekurang-kurangnya tiga bulan sebelum tanggal berakhir — jadi ketahui tanggal berakhir Anda sendiri sejak awal dan hitung mundur darinya."
 
 verificationNeeded:
-  - "Tempoh sah bagi sesuatu kelulusan WRT — hanya tempoh masa pembaharuan tiga bulan diterbitkan"
+  - "Masa berlaku suatu persetujuan WRT — hanya jangka waktu pembaruan tiga bulan yang diterbitkan"
 
 lang: "id"
 masterLanguage: "en"

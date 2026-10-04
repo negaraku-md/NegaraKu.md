@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "Siapa pun yang membaca dokumen korporat Malaysia, faktur sekretaris perusahaan, atau panduan lama yang masih merujuk pada formulir-formulir Akta Syarikat 1965."
 
 verificationNeeded:
-  - "Nama portal dan URL SSM berubah dari semasa ke semasa — sahkan portal semasa bagi setiap perkhidmatan di ssm.com.my sebelum memfailkan"
-  - "Sahkan skop semasa agensi yang menyertai BLESS dan MalaysiaBiz, yang diperluas secara berkala"
+  - "Nama portal dan URL SSM berubah dari waktu ke waktu — verifikasi portal terkini untuk setiap layanan di ssm.com.my sebelum melakukan pengajuan"
+  - "Verifikasi cakupan terkini agensi yang tergabung dalam BLESS dan MalaysiaBiz, yang diperluas secara berkala"
 
 lang: "id"
 masterLanguage: "en"

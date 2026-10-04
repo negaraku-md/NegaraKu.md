@@ -38,7 +38,7 @@ faq:
     a: "Tidak. Keduanya adalah kewajiban yang terpisah. Pasal 77(1) mensyaratkan alokasi itu didaftarkan dalam daftar anggota dalam jangka waktu 14 hari dari tanggal alokasi. Pasal 78(1) mensyaratkan laporan alokasi disampaikan kepada Pendaftar dalam jangka waktu 14 hari dari tanggal alokasi. Pasal 51(1) secara terpisah mensyaratkan notifikasi perubahan dalam daftar dalam jangka waktu 14 hari dari tanggal perubahan."
 
 verificationNeeded:
-  - "Sama ada SSM menganggap penyata peruntukan s.78 sebagai turut melepaskan kewajipan pemberitahuan s.51 apabila satu-satunya perubahan daftar ialah peruntukan itu — tiada arahan amalan yang menangani pertindihan itu ditemui"
+  - "Apakah SSM menganggap pernyataan alokasi s.78 sekaligus memenuhi kewajiban pemberitahuan s.51 apabila satu-satunya perubahan daftar adalah alokasi tersebut — tidak ada arahan praktik yang menangani tumpang tindih itu ditemukan"
 
 obligations:
   - what: "Sampaikan kepada Pendaftar resolusi yang menyetujui penggunaan kuasa untuk mengalokasikan saham"

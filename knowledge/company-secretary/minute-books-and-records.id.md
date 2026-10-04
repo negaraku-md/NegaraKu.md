@@ -36,7 +36,7 @@ faq:
     a: "Hanya bagi operasi di luar Malaysia, dan tunduk pada syarat tertentu. Pasal 245(5) membolehkan catatan operasi di luar Malaysia disimpan di luar negeri dengan syarat ia dikirim ke dan disimpan di suatu tempat di Malaysia serta disediakan untuk pemeriksaan oleh para direktur setiap saat. Di bawah Pasal 245(7), Pendaftar dapat mewajibkan catatan tersebut dikemukakan di Malaysia."
 
 verificationNeeded:
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang garis panduan yang menetapkan had masa untuk memasukkan minit ke dalam buku minit — tiada yang ditemui dalam Akta Syarikat 2016, Jadual Ketiga, atau di ssm.com.my"
+  - "Pastikan apakah SSM telah mengeluarkan pedoman apa pun yang menetapkan batas waktu untuk memasukkan risalah ke dalam buku risalah — tidak ada yang ditemukan dalam Companies Act 2016, Jadwal Ketiga, atau di ssm.com.my"
 
 obligations:
   - what: "Membuat pencatatan yang sepatutnya dalam catatan akuntansi dan catatan lain"

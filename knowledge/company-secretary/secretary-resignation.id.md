@@ -36,9 +36,9 @@ faq:
     a: "Tidak. SSM menegaskan bahwa nama sekretaris tetap ada pada profil korporat perusahaan sampai perusahaan memperbaruinya berdasarkan s.58. Jika Anda telah menyampaikan salinan pemberitahuan pengunduran diri Anda kepada Pendaftar berdasarkan Practice Note 4/2018, dokumen itu disediakan kepada siapa pun dengan membayar biaya yang ditetapkan, itulah cara pengunduran diri menjadi terlihat walaupun perusahaan tidak bekerja sama."
 
 verificationNeeded:
-  - "Sahkan yuran ditetapkan yang dikenakan SSM untuk membekalkan salinan notis peletakan jawatan yang difailkan di bawah Practice Note 4/2018, perenggan 10"
-  - "Sahkan saluran pemfailan semasa dan sebarang yuran bagi Notice of Intention to Vacate the Office of Secretary di bawah s.237(2), yang diterbitkan SSM sebagai borang berasingan"
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang Practice Note yang menggantikan atau menambah PN 4/2018 selepas kemas kini FAQ 13 March 2023"
+  - "Pastikan biaya yang ditetapkan yang dikenakan SSM untuk menyediakan salinan pemberitahuan pengunduran diri yang disampaikan di bawah Practice Note 4/2018, paragraf 10"
+  - "Pastikan saluran penyampaian terkini dan biaya apa pun untuk Notice of Intention to Vacate the Office of Secretary di bawah s.237(2), yang diterbitkan SSM sebagai formulir terpisah"
+  - "Pastikan apakah SSM telah mengeluarkan Practice Note apa pun yang menggantikan atau menambah PN 4/2018 setelah pemutakhiran FAQ 13 Maret 2023"
 
 obligations:
   - what: "Sekretaris berhenti memegang jabatan setelah pemberitahuan pengunduran diri kepada Dewan"

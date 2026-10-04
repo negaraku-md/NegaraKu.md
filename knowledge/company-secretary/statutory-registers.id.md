@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Sekretaris perusahaan dan direktur yang bertanggung jawab atas rekaman statutori berkelanjutan sebuah Sdn Bhd di Malaysia."
 
 verificationNeeded:
-  - "Sahkan skala fi pemfailan lewat SSM semasa bagi pemberitahuan berkaitan daftar terhadap arahan amalan SSM semasa mengenai penalti pemfailan lewat"
+  - "Pastikan skala biaya penyampaian terlambat SSM terkini untuk pemberitahuan terkait daftar terhadap arahan praktik SSM terkini mengenai penalti penyampaian terlambat"
 
 lang: "id"
 masterLanguage: "en"

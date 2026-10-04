@@ -37,8 +37,8 @@ faq:
     a: "Kerangka perpanjangan waktu SSM berdasarkan Practice Note 3/2018 terutama tertuju pada pengedaran dan penyampaian laporan keuangan serta penyelenggaraan rapat. Jangan membuat rencana berdasarkan andaian perpanjangan waktu bagi laporan tahunan — tenggat waktunya tetap dan sudah diketahui setahun lebih awal."
 
 verificationNeeded:
-  - "Sahkan senarai tepat butiran yang dikehendaki oleh s.68(3) berdasarkan teks Akta sebelum menghasilkannya semula sebagai senarai semak"
-  - "Sahkan apa yang diubah oleh Companies (Amendment) Act 2024 (Act A1701) dalam s.68, apa yang termasuk dalam skop pindaannya, dan sama ada sebarang perubahan itu sudah berkuat kuasa"
+  - "Verifikasi daftar tepat rincian yang diwajibkan oleh s.68(3) berdasarkan teks Undang-Undang sebelum mereproduksinya sebagai daftar periksa"
+  - "Verifikasi apa yang diubah oleh Companies (Amendment) Act 2024 (Act A1701) dalam s.68, apa yang termasuk dalam cakupan amendemennya, dan apakah perubahan tersebut sudah berlaku"
 
 lang: "id"
 masterLanguage: "en"

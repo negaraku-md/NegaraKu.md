@@ -45,11 +45,11 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Pecahan segmen setahun penuh FY2024: draf hanya memetik jadual Q4 FY2024; sahkan bahawa pembinaan merupakan penyumbang hasil terbesar bagi setahun penuh."
-  - "Selaraskan peningkatan katil berlesen yang dilaporkan kumpulan (1,240 kepada 1,396) dengan kapasiti yang dinyatakan SMC Damansara sendiri iaitu lebih daripada 345 katil."
-  - "Baki pegangan saham GIC dan struktur pegangan saham pasca-penyenaraian penuh SUNMED selepas IPO 18 March 2026."
-  - "Sama ada Tan Sri Dato' (Dr.) Chew Chee Kin kekal sebagai presiden kumpulan setakat penerbitan."
-  - "Sama ada dividen 6.00 sen adalah jumlah yang diisytiharkan bagi FY2024 atau satu pengagihan tunggal."
+  - "Rincian segmen setahun penuh FY2024: draf hanya mengutip tabel Q4 FY2024; verifikasi bahwa konstruksi merupakan penyumbang pendapatan terbesar untuk setahun penuh."
+  - "Selaraskan peningkatan tempat tidur berlisensi yang dilaporkan grup (1,240 menjadi 1,396) dengan kapasitas yang dinyatakan SMC Damansara sendiri yaitu lebih dari 345 tempat tidur."
+  - "Sisa kepemilikan saham GIC dan struktur kepemilikan saham pascapencatatan penuh SUNMED setelah IPO 18 Maret 2026."
+  - "Apakah Tan Sri Dato' (Dr.) Chew Chee Kin tetap menjabat sebagai presiden grup pada saat penerbitan."
+  - "Apakah dividen 6.00 sen merupakan jumlah yang diumumkan untuk FY2024 atau satu distribusi tunggal."
 
 updated: 2026-07-28
 sources:

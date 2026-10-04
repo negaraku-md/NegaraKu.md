@@ -38,7 +38,7 @@ faq:
     a: "Undang-Undang tersebut tidak membedakan antara keduanya. Pasal 131 dan 132 merujuk pada distribusi, yang didefinisikan dengan merujuk pada perusahaan yang mendistribusikan kepada pemegang saham, dan persyaratan laba serta solvensi yang sama berlaku kapan pun distribusi itu dilakukan. Perbedaan praktisnya adalah dividen interim dinilai berdasarkan angka manajemen dan bukan angka yang telah diaudit, yang menaikkan tingkat kebutuhan bukti bagi keyakinan direktur."
 
 verificationNeeded:
-  - "Sama ada SSM telah mengeluarkan sebarang panduan mengenai bukti yang perlu disimpan oleh pengarah untuk menunjukkan kepuasan hati di bawah s.132(2) — tiada arahan amalan atau nota amalan mengenai perkara itu ditemui"
+  - "Apakah SSM telah menerbitkan panduan apa pun mengenai bukti yang perlu disimpan oleh direktur untuk menunjukkan keyakinan di bawah s.132(2) — tidak ada arahan praktik atau nota praktik mengenai hal itu yang ditemukan"
 
 obligations:
   - what: "Mengambil semua langkah yang perlu untuk mencegah distribusi jika direktur tidak lagi yakin atas solvensi"

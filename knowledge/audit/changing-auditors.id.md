@@ -38,7 +38,7 @@ faq:
     a: "Bisa. Pengunduran diri di tengah jalan dalam suatu perikatan, atau pemberhentian yang diikuti penunjukan baru tepat sebelum laporan seharusnya disiapkan, terlihat pada berkas SSM dan merupakan penanda pemeriksaan kredit yang standar. Banyak perjanjian fasilitas mewajibkan pemberitahuan tentang penggantian auditor, dan manajer hubungan biasanya akan bertanya apa yang diberitahukan kepada firma yang keluar."
 
 verificationNeeded:
-  - "Sahkan sama ada SSM menetapkan borang tertentu bagi notis pemecatan s.278 dan notis peletakan jawatan s.282, dan fi pemfailan yang terpakai, terhadap ROC Table of Fees semasa"
+  - "Pastikan apakah SSM menetapkan formulir tertentu bagi pemberitahuan pemecatan s.278 dan pemberitahuan pengunduran diri s.282, dan biaya pengajuan yang berlaku, terhadap ROC Table of Fees terkini"
 
 lang: "id"
 masterLanguage: "en"

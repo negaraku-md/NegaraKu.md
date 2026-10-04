@@ -22,8 +22,8 @@ keyTakeaways:
 appliesTo: "Sekretaris perusahaan, agen dan siapa saja yang perlu memahami apa itu e-BOS dan apa yang disimpannya."
 
 verificationNeeded:
-  - "Sahkan jadual yuran semasa bagi penyerahan lewat dan pembetulan melalui e-BOS terhadap yuran yang diterbitkan SSM"
-  - "Sahkan sama ada akses dalam talian kepada maklumat pemilikan benefisial telah menggantikan kemudahan di kaunter sahaja di Menara SSM@Sentral"
+  - "Verifikasi jadwal biaya terkini untuk penyerahan terlambat dan koreksi melalui e-BOS terhadap biaya yang diterbitkan SSM"
+  - "Verifikasi apakah akses daring ke informasi kepemilikan manfaat telah menggantikan fasilitas yang hanya tersedia di loket di Menara SSM@Sentral"
 
 lang: "id"
 masterLanguage: "en"

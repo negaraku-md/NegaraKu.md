@@ -38,7 +38,7 @@ faq:
     a: "Jadwal Ketiga tidak menetapkan jangka minimum. Paragraf 3 membolehkan seorang direktur, atau sekretaris jika diminta oleh seorang direktur, memanggil rapat dengan memberikan pemberitahuan berdasarkan paragraf 4, yang mewajibkan tanggal, waktu, tempat, dan hal yang akan dibahas. Apa yang wajar bergantung pada keadaan, dan konstitusi boleh menetapkan suatu jangka."
 
 verificationNeeded:
-  - "Sama ada SSM pernah mengeluarkan panduan tentang apa yang dianggap notis munasabah bagi mesyuarat Lembaga Pengarah apabila perlembagaan tidak menyebut apa-apa — tiada practice directive atau practice note mengenai perkara ini dapat dikesan"
+  - "Apakah SSM pernah menerbitkan panduan tentang apa yang dianggap pemberitahuan yang wajar untuk rapat Dewan Direksi apabila konstitusi tidak menyebutkan apa pun — tidak ada practice directive atau practice note mengenai hal ini yang dapat ditemukan"
 
 obligations:
   - what: "Menyimpan risalah Dewan Direksi di kantor terdaftar"

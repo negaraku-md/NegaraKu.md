@@ -38,9 +38,9 @@ faq:
     a: "Dari segi biaya pendaftaran, sebuah Sdn Bhd yang didirikan secara lokal pada RM1,000 jauh lebih murah dibandingkan biaya minimum cabang sebesar RM5,000. Dari segi pelaporan tahunan, cabang membayar RM500 untuk laporan tahunan dan RM200 untuk laporan keuangan, dibandingkan RM150 dan RM50 bagi perusahaan swasta. Cabang juga menanggung laporan teraudit Malaysia di bawah Pasal 575(5) dan mengungkap keseluruhan perusahaan asing itu dibandingkan sebuah entitas lokal yang berpagar."
 
 verificationNeeded:
-  - "Sahkan masa pemprosesan SSM semasa bagi pendaftaran syarikat asing — garis panduan menyatakan notis pendaftaran dalam satu hari bekerja, tetapi garis panduan itu bertarikh 2017"
-  - "Sahkan laluan pemfailan MyCoID atau MBRS semasa bagi penyata tahunan dan penyata kewangan syarikat asing berikutan pelancaran MBRS 2.0 Fasa 2"
-  - "Sama ada sijil pendaftaran syarikat asing dikeluarkan hanya atas permintaan dan yuran yang ditetapkan baginya — garis panduan SSM menyatakan atas permintaan tanpa menyatakan jumlahnya"
+  - "Konfirmasikan waktu pemrosesan SSM terkini bagi pendaftaran perusahaan asing — pedoman menyatakan notis pendaftaran dalam satu hari kerja, tetapi pedoman itu bertanggal 2017"
+  - "Konfirmasikan jalur pengajuan MyCoID atau MBRS terkini bagi laporan tahunan dan laporan keuangan perusahaan asing menyusul peluncuran MBRS 2.0 Fase 2"
+  - "Apakah sertifikat pendaftaran perusahaan asing diterbitkan hanya atas permintaan dan biaya yang ditetapkan untuknya — pedoman SSM menyatakan atas permintaan tanpa menyatakan jumlahnya"
 
 obligations:
   - what: "Sampaikan kepada Pendaftar lokasi kantor terdaftar di Malaysia"

@@ -49,9 +49,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Halaman pejabat perwakilan serantau MIDA mencampuradukkan tahun: pelaburan RM145.1 juta dilabelkan sebagai 2025 manakala pecahan mengikut negara sumber (Singapura 15, China 11, Korea 8, Jepun 6, Sepanyol 5) dilabelkan sebagai 2023. Sahkan sama ada jumlah 70 kelulusan dan 787 pekerjaan adalah angka 2025 dan cari pecahan negara bagi tahun yang sama sebelum menerbitkan."
-  - "Halaman MIDA yang sama menyenaraikan 47 RE (57.3%) dan 35 RO (42.7%), yang berjumlah 82 dan bukan jumlah 70 yang turut ditunjukkan. Sahkan pembahagian RE-lawan-RO semasa MIDA dan jumlah yang betul daripada jadual statistik berwibawa."
-  - "Ambang OPEX, gaji minimum ekspatriat RM5,000, tempoh minimum dua tahun, tempoh lanjutan tiga bulan, peringkat kelayakan dan nisbah ekspatriat 2:1 diambil daripada PDF garis panduan RE/RO bertarikh 24 March 2023; sahkan tiada garis panduan yang lebih baru telah menggantikan angka-angka ini sebelum memfailkan."
+  - "Halaman kantor perwakilan regional MIDA mencampuradukkan tahun: investasi RM145.1 juta dilabeli sebagai 2025 sedangkan rincian menurut negara sumber (Singapura 15, Tiongkok 11, Korea 8, Jepang 6, Spanyol 5) dilabeli sebagai 2023. Konfirmasikan apakah jumlah 70 persetujuan dan 787 lapangan kerja merupakan angka 2025 dan cari rincian negara untuk tahun yang sama sebelum menerbitkan."
+  - "Halaman MIDA yang sama mencantumkan 47 RE (57.3%) dan 35 RO (42.7%), yang berjumlah 82 dan bukan jumlah 70 yang turut ditampilkan. Konfirmasikan pembagian RE-lawan-RO terkini MIDA dan jumlah yang benar dari tabel statistik yang otoritatif."
+  - "Ambang OPEX, gaji minimum ekspatriat RM5,000, jangka waktu minimum dua tahun, jangka waktu perpanjangan tiga bulan, tingkat kelayakan dan rasio ekspatriat 2:1 diambil dari PDF pedoman RE/RO bertanggal 24 Maret 2023; konfirmasikan tidak ada pedoman yang lebih baru yang telah menggantikan angka-angka ini sebelum mengajukan."
 
 updated: 2026-08-07
 sources:

@@ -45,10 +45,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan pegangan saham semasa PETRONAS yang tepat terhadap 'Analysis of Shareholdings' dalam Laporan Bersepadu/Tahunan terkini MISC (dilaporkan sebagai 2,276,583,900 saham = 51% pada 2025-03-05); angka di sini bersumberkan data Simply Wall St bertarikh 2024-09-15."
-  - "Sahkan tahun pemerbadanan 1968, penjenamaan semula kepada MISC Berhad pada September 2005, dan kod saham Bursa 3816 terhadap sumber primer MISC atau Bursa (tidak diperoleh untuk draf ini)."
-  - "Sahkan empat takrifan segmen dan hubungan anak syarikat AET Tankers / Malaysia Marine and Heavy Engineering (MMHE) terhadap laporan tahunan MISC yang terkini."
-  - "Angka 36.0 sen dinyatakan sebagai dividen jumlah yang dicadangkan dalam kenyataan yang dipetik; sahkan jumlah akhir yang diisytiharkan."
+  - "Verifikasi kepemilikan saham terkini PETRONAS yang tepat terhadap 'Analysis of Shareholdings' dalam Laporan Terpadu/Tahunan terkini MISC (dilaporkan sebagai 2,276,583,900 saham = 51% pada 2025-03-05); angka di sini bersumber dari data Simply Wall St bertanggal 2024-09-15."
+  - "Verifikasi tahun pendirian 1968, penggantian nama menjadi MISC Berhad pada September 2005, dan kode saham Bursa 3816 terhadap sumber primer MISC atau Bursa (tidak diperoleh untuk draf ini)."
+  - "Verifikasi empat definisi segmen dan hubungan anak perusahaan AET Tankers / Malaysia Marine and Heavy Engineering (MMHE) terhadap laporan tahunan MISC yang terkini."
+  - "Angka 36.0 sen dinyatakan sebagai total dividen yang diusulkan dalam pernyataan yang dikutip; verifikasi jumlah akhir yang diumumkan."
 
 updated: 2026-07-28
 sources:

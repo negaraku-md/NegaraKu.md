@@ -34,7 +34,7 @@ faq:
     a: "Tidak. SSM telah menegaskan bahwa auditor tidak diwajibkan menyatakan dalam laporan mereka kekurangan, kegagalan, atau kelemahan apa pun terkait daftar pemilik benefisial, dan oleh karena itu tidak memerlukan akses kepadanya untuk tujuan audit."
 
 verificationNeeded:
-  - "Sahkan sama ada Menteri telah menetapkan orang atau kelas orang tambahan yang mempunyai akses kepada daftar yang disimpan di pejabat berdaftar di bawah s.60B(9), selain pihak berkuasa yang kompeten, agensi penguatkuasaan undang-undang dan pemilik benefisial itu sendiri"
+  - "Verifikasi apakah Menteri telah menetapkan orang atau golongan orang tambahan yang memiliki akses ke daftar yang disimpan di kantor terdaftar di bawah s.60B(9), selain otoritas yang kompeten, lembaga penegak hukum, dan pemilik manfaat itu sendiri"
 
 obligations:
   - what: "Mencatat informasi kepemilikan benefisial dalam daftar pemilik benefisial"

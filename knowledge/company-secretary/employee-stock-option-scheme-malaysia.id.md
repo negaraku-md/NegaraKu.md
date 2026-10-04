@@ -48,8 +48,8 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Borang pelaporan majikan yang dinamakan dalam Ketetapan Umum LHDN Public Ruling 11/2012 (Form BT/MSSP/2012, Appendix C) bertarikh 2012; aliran kerja pemberitahuan e-filing/ESS LHDN semasa mungkin berbeza dari segi operasi walaupun ketetapan itu tidak dipinda. Sahkan saluran pemfailan langsung di hasil.gov.my sebelum membentangkan prosedur langkah demi langkah."
-  - "Angka Bursa yang dipetik adalah daripada Main Market Listing Requirements (Chapter 6, Part G, seperti pada 2 Januari 2025); persamaan bagi ACE Market mungkin berbeza. Sahkan peruntukan ACE yang selari jika skim itu melibatkan penerbit tersenarai ACE, dan semak semula bahawa Public Ruling 11/2012 belum digantikan pada masa penerbitan."
+  - "Formulir pelaporan pemberi kerja yang disebutkan dalam Ketetapan Umum LHDN Public Ruling 11/2012 (Form BT/MSSP/2012, Appendix C) tertanggal 2012; alur kerja pemberitahuan e-filing/ESS LHDN terkini mungkin berbeda secara operasional meskipun ketetapan itu tidak diubah. Verifikasi saluran pengajuan langsung di hasil.gov.my sebelum menyajikan prosedur langkah demi langkah."
+  - "Angka Bursa yang dikutip berasal dari Main Market Listing Requirements (Chapter 6, Part G, per 2 Januari 2025); padanan untuk ACE Market mungkin berbeda. Verifikasi ketentuan ACE yang sejajar jika skema itu melibatkan penerbit yang tercatat di ACE, dan periksa kembali bahwa Public Ruling 11/2012 belum digantikan pada saat penerbitan."
 
 updated: 2026-09-07
 sources:

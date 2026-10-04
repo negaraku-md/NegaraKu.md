@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Peratusan pemilikan YTL yang tepat dalam Malayan Cement: sumber bercanggah (The Edge memetik 72.09%; laporan lain memetik 76.98% meningkat kepada unjuran ~78.58% selepas transaksi yang dicadangkan dan penempatan persendirian). Sahkan angka semasa daripada pemfailan Bursa sebelum menyatakan semula angka yang tepat."
-  - "Permodalan pasaran YTL Power ialah angka yang berubah (RM35.99 bilion / USD8.78 bilion dinyatakan setakat '2026-06-30' pada laman About syarikat); sahkan nilai terkini sebelum bergantung padanya."
-  - "YTL Corporation FY2024 headline figures (revenue RM30.53bn, net profit RM2.14bn, 4.5 sen dividend) against the audited annual report / Bursa announcement."
-  - "Sasaran pembinaan penuh 600MW dan garis masa bagi taman pusat data di Kulai, Johor, serta kapasiti operasi semasa, terhadap pendedahan syarikat terkini."
+  - "Persentase kepemilikan YTL yang tepat di Malayan Cement: sumber-sumber saling bertentangan (The Edge mengutip 72.09%; laporan lain mengutip 76.98% meningkat menjadi proyeksi ~78.58% setelah transaksi yang diusulkan dan penempatan privat). Verifikasi angka terkini dari dokumen yang diajukan ke Bursa sebelum menyatakan kembali angka yang tepat."
+  - "Kapitalisasi pasar YTL Power merupakan angka yang berubah-ubah (RM35.99 miliar / USD8.78 miliar dinyatakan per '2026-06-30' pada halaman About perusahaan); verifikasi nilai terkini sebelum mengandalkannya."
+  - "Angka utama YTL Corporation FY2024 (pendapatan RM30.53 miliar, laba bersih RM2.14 miliar, dividen 4.5 sen) terhadap laporan tahunan yang telah diaudit / pengumuman Bursa."
+  - "Target konstruksi penuh 600MW dan lini masa untuk kawasan pusat data di Kulai, Johor, serta kapasitas operasi terkini, terhadap pengungkapan perusahaan terkini."
 
 updated: 2026-07-28
 sources:

@@ -36,8 +36,8 @@ faq:
     a: "Pernyataan pelunasan atau pelepasan di bawah Pasal 360(1), disampaikan kepada Pendaftar dalam jangka waktu empat belas hari dari pembayaran, pelunasan, pelepasan atau penghentian itu, didukung oleh bukti yang mencukupi di bawah Pasal 360(2). Ini merupakan batas waktu yang lebih singkat dibandingkan jangka waktu 30 hari yang dibolehkan untuk mendaftarkan pembebanan itu pada mulanya."
 
 verificationNeeded:
-  - "Sahkan fi yang ditetapkan SSM semasa untuk mengemukakan penyata butiran gadaian di bawah s.352(1) berdasarkan jadual fi Peraturan-Peraturan Syarikat 2017"
-  - "Sahkan skala fi lodgement lewat SSM semasa bagi pemfailan berkaitan gadaian berdasarkan arahan amalan SSM yang berkuat kuasa mengenai penalti lodgement lewat"
+  - "Pastikan biaya yang ditetapkan SSM terkini untuk menyampaikan pernyataan rincian pembebanan (charge) di bawah s.352(1) berdasarkan jadwal biaya Companies Regulations 2017"
+  - "Pastikan skala biaya penyampaian terlambat SSM terkini untuk penyampaian terkait pembebanan (charge) berdasarkan arahan praktik SSM yang berlaku mengenai penalti penyampaian terlambat"
 
 obligations:
   - what: "Menyampaikan pernyataan rincian pembebanan kepada Pendaftar"

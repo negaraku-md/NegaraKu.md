@@ -42,7 +42,7 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Peruntukan subsidi elektrik separuh pertama dan kos operasi PADU sengaja ditinggalkan kerana sumber utama tidak dapat disahkan; tambah hanya jika sumber rasmi diperoleh."
+  - "Alokasi subsidi listrik paruh pertama dan biaya operasional PADU sengaja ditinggalkan karena sumber primer tidak dapat diverifikasi; tambahkan hanya jika sumber resmi diperoleh."
 revisions:
   - revision: 0
     date: 2026-08-14

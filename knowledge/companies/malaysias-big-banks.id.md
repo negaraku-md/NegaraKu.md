@@ -47,9 +47,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Angka jumlah aset kumpulan dan kedudukan saiz bagi Maybank, CIMB, Public Bank dan Hong Leong. Angka aset tertentu telah dibuang kerana tiada satu pun daripada terbitan keputusan FY2024 yang disebut mendedahkannya; hanya kira-kira RM350 bilion RHB yang bersumber (Bernama). Seorang manusia perlu menambah jumlah aset teraudit setiap bank daripada penyata kewangannya atau failan Bursa Malaysia dan mengesahkan susunan saiznya."
-  - "Sama ada keuntungan bersih FY2024 Maybank sebanyak RM10.09 bilion merupakan rekod kumpulan (kenyataan itu tidak menggunakan perkataan tersebut)."
-  - "Angka FY2024 Hong Leong Bank adalah bagi tahun kewangan berakhir 30 Jun 2024, bukan Disember — sahkan kebolehbandingan sebelum membuat kesimpulan yang sensitif terhadap masa."
+  - "Angka total aset grup dan peringkat ukuran bagi Maybank, CIMB, Public Bank, dan Hong Leong. Angka aset tertentu telah dihapus karena tidak satu pun dari terbitan hasil FY2024 yang disebut mengungkapkannya; hanya sekitar RM350 miliar RHB yang bersumber (Bernama). Seorang manusia perlu menambahkan total aset teraudit setiap bank dari laporan keuangannya atau pengajuan Bursa Malaysia dan mengonfirmasi urutan ukurannya."
+  - "Apakah keuntungan bersih FY2024 Maybank sebesar RM10.09 miliar merupakan rekor grup (pernyataan itu tidak menggunakan kata tersebut)."
+  - "Angka FY2024 Hong Leong Bank adalah untuk tahun keuangan yang berakhir 30 Juni 2024, bukan Desember — verifikasi keterbandingan sebelum membuat kesimpulan yang sensitif terhadap waktu."
 updated: 2026-07-28
 sources:
   - title: "Financial Services Act 2013 (Act 758) — Undang-Undang Malaysia (Financial Services Act 2013 (Act 758) — Laws of Malaysia)"

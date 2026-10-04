@@ -36,8 +36,8 @@ faq:
     a: "Ia membatasi laporan tersebut. Kata-kata ilustrasi MIA menyatakan bahwa laporan dibuat semata-mata untuk anggota perusahaan (members) sebagai satu badan, menurut Section 266 Companies Act 2016, dan untuk tidak ada tujuan lain, dan bahwa auditor tidak memikul tanggung jawab kepada pihak lain mana pun atas isinya. Pemberi pinjaman yang bergantung pada laporan itu bergantung padanya tanpa perlindungan tersebut."
 
 verificationNeeded:
-  - "Sahkan bahawa AAPG 1 dan AAPG 2 yang disemak Jun 2021 kekal sebagai laporan ilustratif semasa MIA dan bahawa tiada semakan kemudian telah mengubah susunan seksyen atau format blok tandatangan"
-  - "Sahkan format dan konvensyen tamat tempoh nombor kelulusan juruaudit Menteri Kewangan yang dicetak di sebelah tandatangan rakan kongsi — pemegang tempat ilustrasi menunjukkan sesuatu struktur tetapi MIA tidak menjelaskannya"
+  - "Pastikan bahwa AAPG 1 dan AAPG 2 yang ditinjau Juni 2021 tetap menjadi laporan ilustratif MIA saat ini dan bahwa tidak ada revisi selanjutnya yang mengubah susunan bagian atau format blok tanda tangan"
+  - "Pastikan format dan konvensi kedaluwarsa nomor persetujuan auditor Menteri Keuangan yang dicetak di samping tanda tangan rekan — placeholder ilustrasi menunjukkan suatu struktur tetapi MIA tidak menjelaskannya"
 
 lang: "id"
 masterLanguage: "en"

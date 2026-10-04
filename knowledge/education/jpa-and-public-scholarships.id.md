@@ -39,11 +39,11 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Nama rasmi semasa program Tunas Yayasan Peneraju (rujukan awam menyebut 'Tunas Potensi', tetapi laman rasmi kini menyenaraikan 'Peneraju Tunas') serta syarat pendapatan/keluarga terkini."
-  - "Senarai penuh dan nama rasmi setiap program penajaan JPA lepasan SPM/STPM di portal penajaan.jpa.gov.my — kuota, bidang dan negara destinasi berubah setiap tahun."
-  - "Angka PTPTN 2026 (RM120 juta setahun / ~5,800 pelajar; RM90 juta setahun / ~6,000 peminjam) — kini bersumberkan laporan media; sahkan dengan pengumuman/dokumen belanjawan rasmi."
-  - "Syarat bayaran balik 50%-100% bagi penerima JPA yang berkhidmat di GLC/swasta — berasal daripada rencana pendapat 2016; sahkan sama ada masih terpakai."
-  - "Nisbah/peratusan penajaan JPA yang berbentuk pinjaman boleh ubah berbanding biasiswa penuh."
+  - "Nama resmi terkini program Tunas Yayasan Peneraju (rujukan publik menyebut 'Tunas Potensi', tetapi situs resmi kini mencantumkan 'Peneraju Tunas') serta syarat pendapatan/keluarga terkini."
+  - "Daftar lengkap dan nama resmi setiap program pembiayaan JPA lulusan SPM/STPM di portal penajaan.jpa.gov.my — kuota, bidang dan negara tujuan berubah setiap tahun."
+  - "Angka PTPTN 2026 (RM120 juta setahun / ~5,800 pelajar; RM90 juta setahun / ~6,000 peminjam) — kini bersumber dari laporan media; verifikasi dengan pengumuman/dokumen anggaran resmi."
+  - "Syarat pembayaran kembali 50%-100% bagi penerima JPA yang bekerja di GLC/swasta — berasal dari artikel opini 2016; verifikasi apakah masih berlaku."
+  - "Rasio/persentase pembiayaan JPA yang berbentuk pinjaman konvertibel dibandingkan beasiswa penuh."
 revisions:
   - revision: 0
     date: 2026-08-08

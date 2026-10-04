@@ -36,10 +36,10 @@ faq:
     a: "Tidak. Akta Kerajaan Tempatan 1976 hanya berlaku bagi Semenanjung Malaysia. Sabah menjalankan Local Government Ordinance 1961, yang Pasal 49(1)-nya membawa kuasa paralel atas premis yang digunakan untuk perdagangan, usaha, industri, atau profesi. Sarawak menjalankan Local Authorities Ordinance 1996 (Cap. 20), yang Pasal 91(b)-nya adalah kuasa periklanan dan Pasal 145-nya analog dari Pasal 107. Di Kota Kinabalu, lisensi usaha utama sama sekali bukan lisensi peraturan daerah pemerintah daerah — ia adalah lisensi perdagangan di bawah Trades Licensing Ordinance (Sabah Cap. 144)."
 
 verificationNeeded:
-  - "Angka yuran lesen premis dan perdagangan MBPJ — MBPJ merujuk silang kepada Second Schedule to its Food Establishment By-Laws 2007 tanpa menerbitkan semula kadarnya"
-  - "Tempoh sah lesen MBSA, tarikh akhir pembaharuan dan penalti bayaran lewat, serta penalti pembaharuan lewat khusus DBKK — ini masih tidak diterbitkan (tempoh sah DBKK sendiri kini ditetapkan oleh Cap 144 s.6 kepada 31 Disember)"
-  - "Sama ada DBKK memerlukan sebarang kelulusan jabatan bomba — tiada keperluan sedemikian muncul dalam senarai terbitannya, yang merupakan ketiadaan bukti dan bukannya bukti ketiadaan"
-  - "Sama ada pendaftaran SSM secara formal diperlukan untuk pemilik tunggal Sabah — DBKK tidak menyenaraikannya antara dokumen yang diperlukan"
+  - "Angka biaya izin tempat usaha dan perdagangan MBPJ — MBPJ merujuk silang ke Second Schedule to its Food Establishment By-Laws 2007 tanpa menerbitkan ulang tarifnya"
+  - "Masa berlaku izin MBSA, batas akhir perpanjangan dan penalti pembayaran terlambat, serta penalti perpanjangan terlambat khusus DBKK — ini masih belum diterbitkan (masa berlaku DBKK sendiri kini ditetapkan oleh Cap 144 s.6 menjadi 31 Desember)"
+  - "Apakah DBKK mensyaratkan persetujuan dinas pemadam kebakaran apa pun — tidak ada persyaratan demikian yang muncul dalam daftar terbitannya, yang merupakan ketiadaan bukti dan bukan bukti ketiadaan"
+  - "Apakah pendaftaran SSM secara formal diperlukan untuk pemilik tunggal Sabah — DBKK tidak mencantumkannya di antara dokumen yang diperlukan"
 
 lang: "id"
 masterLanguage: "en"

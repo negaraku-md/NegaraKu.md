@@ -38,7 +38,7 @@ faq:
     a: "Tujuh prinsip dalam Pasal 5 hingga 12 Akta 709 tidak dinomori ulang atau ditulis ulang. Yang berubah adalah siapa yang terikat olehnya dan berapa biayanya. Prinsip Keamanan dalam Pasal 9 kini berbunyi sebagai kewajiban pengendali data dan pemroses data, sehingga pemroses tidak lagi berlindung di balik jaminan pengendali. Penalti maksimum di bawah Pasal 5(2) menjadi tiga kali lipat."
 
 verificationNeeded:
-  - "Hasil Public Consultation Paper 4/2025 mengenai cadangan pindaan kepada Personal Data Protection Regulations 2013 (dikeluarkan 25 Ogos 2025) — masih di peringkat perundingan awam tanpa pindaan yang diwartakan setakat 14 Ogos 2026"
+  - "Hasil Public Consultation Paper 4/2025 mengenai usulan perubahan terhadap Personal Data Protection Regulations 2013 (dikeluarkan 25 Agustus 2025) — masih pada tahap konsultasi publik tanpa perubahan yang diundangkan hingga 14 Agustus 2026"
 
 obligations:
   - what: "Memberitahu Komisioner tentang pelanggaran data pribadi yang menyebabkan atau berkemungkinan menyebabkan kerugian yang signifikan"

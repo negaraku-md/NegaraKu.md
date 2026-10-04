@@ -39,7 +39,7 @@ faq:
     a: "Tidak. Berbeda dengan konstitusi, yang diajukan di bawah s.32(4) dan tersedia dalam rekaman publik, perjanjian pemegang saham tetap bersifat pribadi. Sifat pribadi itu adalah salah satu kelebihan utamanya dan juga salah satu kelemahan utamanya."
 
 verificationNeeded:
-  - "Sahkan yuran pemfailan SSM semasa yang terpakai bagi penerimaan pakai perlembagaan buat pertama kali berbanding pindaan"
+  - "Konfirmasikan biaya pengajuan SSM terkini yang berlaku bagi pengadopsian anggaran dasar perusahaan untuk pertama kali dibandingkan dengan perubahan"
 
 lang: "id"
 masterLanguage: "en"

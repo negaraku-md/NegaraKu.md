@@ -24,11 +24,11 @@ keyTakeaways:
 appliesTo: "Siapa pun yang mencoba mengidentifikasi otoritas mana yang meregulasi aktivitas mereka, dan dalam urutan mana persetujuan perlu diperoleh."
 
 verificationNeeded:
-  - "Kelas lesen dan jadual yuran semasa bagi setiap pengawal selia — ini kerap berubah dan tidak dikeluarkan semula di sini"
-  - "Statut yang mentadbir pelesenan stesen minyak — belum disahkan"
-  - "Sama ada Environmental Quality (Amendment) Act 2026 (Act A1793), yang diterbitkan pada 30 April 2026, telah dikuatkuasakan"
-  - "Tajuk ringkas Bahasa Malaysia semasa bagi perundangan perkhidmatan kewangan Labuan berikutan penukaran nama Labuan — portal AGC masih menggunakan perkataan sebelum penukaran nama tersebut"
-  - "Tajuk ringkas Bahasa Inggeris yang digunakan oleh JAKIM dan Pendaftar Pertubuhan — kedua-duanya tidak terdapat pada laman web agensi masing-masing"
+  - "Kelas izin dan jadwal biaya terkini bagi setiap regulator — ini sering berubah dan tidak diterbitkan ulang di sini"
+  - "Statuta yang mengatur perizinan stasiun bahan bakar — belum dikonfirmasi"
+  - "Apakah Environmental Quality (Amendment) Act 2026 (Act A1793), yang diterbitkan pada 30 April 2026, telah diberlakukan"
+  - "Judul singkat Bahasa Malaysia terkini bagi perundang-undangan jasa keuangan Labuan menyusul penggantian nama Labuan — portal AGC masih menggunakan kata sebelum penggantian nama tersebut"
+  - "Judul singkat Bahasa Inggris yang digunakan oleh JAKIM dan Pendaftar Pertubuhan — keduanya tidak terdapat pada situs web instansi masing-masing"
 
 lang: "id"
 masterLanguage: "en"

@@ -36,9 +36,9 @@ faq:
     a: "Permohonan masih dapat diajukan. Paragraf 5(a) pedoman itu memperbolehkannya apabila mayoritas yang diperlukan tidak dapat diperoleh karena seorang pemegang saham tidak dapat dilacak, dengan syarat upaya telah dilakukan melalui pos tercatat ke alamat kediaman dalam catatan Pendaftar, dan bukti upaya tersebut dilampirkan."
 
 verificationNeeded:
-  - "SSM tidak menerbitkan sebarang piagam perkhidmatan untuk jumlah masa berlalu bagi pembatalan seksyen 550 — sebarang julat bulan harus dianggap sebagai amalan yang diperhatikan, bukan komitmen yang diterbitkan"
-  - "Sama ada SSM telah mengeluarkan moratorium pemotongan nama lanjut selepas tempoh 16 April hingga 30 September 2025 — tiada yang ditemui dalam perpustakaan rangka kerja perundangan SSM setakat Julai 2026"
-  - "Sama ada amalan pelepasan cukai yang dirujuk dalam perenggan 5(e) garis panduan kini dikendalikan melalui borang LHDN khusus atau langkah portal hendaklah disahkan dengan LHDN sebelum bergantung pada tempoh pusing ganti yang dinyatakan"
+  - "SSM tidak menerbitkan piagam layanan apa pun untuk total waktu yang berlalu bagi pembatalan Pasal 550 — rentang bulan apa pun harus dianggap sebagai praktik yang teramati, bukan komitmen yang diterbitkan"
+  - "Apakah SSM telah mengeluarkan moratorium pencoretan nama lebih lanjut setelah periode 16 April hingga 30 September 2025 — tidak ada yang ditemukan dalam perpustakaan kerangka kerja perundang-undangan SSM per Juli 2026"
+  - "Apakah praktik pelepasan pajak yang dirujuk dalam paragraf 5(e) pedoman kini ditangani melalui formulir LHDN khusus atau langkah portal harus diverifikasi dengan LHDN sebelum mengandalkan waktu penyelesaian yang dinyatakan"
 
 obligations:
   - what: "Respond to the Registrar's notice of intention to strike off"

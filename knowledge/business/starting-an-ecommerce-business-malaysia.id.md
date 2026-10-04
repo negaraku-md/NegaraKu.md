@@ -48,9 +48,9 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Ambang e-invois amat tidak menentu — pengecualian telah beralih daripada RM500,000 kepada RM1 juta dan kini kepada RM3 juta (menurut FAQ e-Invois LHDN bertarikh 4 September 2026), dengan pelonggaran interim untuk pembayar cukai sehingga RM5 juta hingga 31 Disember 2027. Semak semula garis panduan/FAQ e-Invois LHDN semasa di hasil.gov.my sebelum bergantung pada mana-mana ambang atau tarikh."
-  - "Status keperluan bahasa penyenaraian dalam Bahasa Malaysia di bawah Peraturan-Peraturan Perlindungan Pengguna (Transaksi Perdagangan Elektronik) 2024 (penguatkuasaan dilaporkan sebagai ditangguhkan/dalam semakan), dan butiran pindaan PDPA 2024 (tarikh kuat kuasa pemberitahuan pelanggaran, ambang pelantikan DPO), hendaklah disahkan terhadap pdp.gov.my dan AGC sebelum bergantung pada butiran tertentu."
-  - "Yuran pendaftaran SSM (RM30/RM60) dan kadar serta ambang SST/cukai perkhidmatan digital semasa hendaklah disahkan terhadap laman rasmi ssm.com.my dan RMCD pada masa penerbitan. Ingatkan pembaca bahawa domain yang menyerupai seperti penjual semula bergaya ssm-ezbiz bukanlah laman SSM rasmi (ssm.com.my / ezbiz.ssm.com.my)."
+  - "Ambang batas e-invois sangat tidak pasti — pengecualian telah bergeser dari RM500,000 ke RM1 juta dan kini ke RM3 juta (menurut FAQ e-Invois LHDN bertanggal 4 September 2026), dengan kelonggaran interim untuk wajib pajak hingga RM5 juta sampai 31 Desember 2027. Periksa kembali pedoman/FAQ e-Invois LHDN terkini di hasil.gov.my sebelum mengandalkan ambang batas atau tanggal apa pun."
+  - "Status persyaratan bahasa pencantuman dalam Bahasa Malaysia berdasarkan Peraturan-Peraturan Perlindungan Pengguna (Transaksi Perdagangan Elektronik) 2024 (penegakan dilaporkan ditangguhkan/dalam peninjauan), dan rincian amendemen PDPA 2024 (tanggal berlakunya pemberitahuan pelanggaran, ambang batas penunjukan DPO), harus diverifikasi terhadap pdp.gov.my dan AGC sebelum mengandalkan rincian tertentu."
+  - "Biaya pendaftaran SSM (RM30/RM60) serta tarif dan ambang batas SST/pajak layanan digital terkini harus diverifikasi terhadap situs resmi ssm.com.my dan RMCD pada saat penerbitan. Ingatkan pembaca bahwa domain yang menyerupai seperti penjual ulang bergaya ssm-ezbiz bukanlah situs SSM resmi (ssm.com.my / ezbiz.ssm.com.my)."
 
 updated: 2026-09-07
 sources:

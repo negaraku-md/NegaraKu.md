@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Direktur dan sekretaris perusahaan bagi perusahaan tertutup yang dikecualikan audit yang bersiap menyampaikan kepada SSM."
 
 verificationNeeded:
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang pindaan kepada Practice Directive 10/2024 yang mempengaruhi kandungan sijil dalam Appendix 1"
+  - "Pastikan apakah SSM telah mengeluarkan amandemen apa pun terhadap Practice Directive 10/2024 yang memengaruhi isi sertifikat dalam Appendix 1"
 
 obligations:
   - what: "Sampaikan laporan keuangan tidak diaudit beserta sertifikat pengecualian audit"

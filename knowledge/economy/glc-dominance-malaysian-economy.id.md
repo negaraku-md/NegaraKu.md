@@ -48,10 +48,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tarikh setakat sebenar untuk angka AUM setiap dana (diambil daripada jawapan parlimen bertulis Timbalan Menteri Kewangan Steven Sim; pegangan ekuiti RM451.3 bilion adalah setakat 30 Sep 2023, nilai portfolio Khazanah RM122.5 bilion adalah setakat 31 Dis 2022, dan angka AUM yang selebihnya harus dipadankan dengan tarikh pelaporannya terhadap Hansard)."
-  - "Sama ada peratusan 'share held in local listed equities' setiap dana (EPF 24.4%, PNB 74.4%, KWAP 45.2%, LTH 18.3%, LTAT 52%) kekal semasa, dan bahawa ia dibaca sebagai bahagian-dana-dalam-ekuiti-tempatan dan bukannya peratusan peruntukan-domestik."
-  - "Rangka lapan GLIC: PERKUKUH dikenakan kepada enam GLIC dan PCG dari segi sejarah menyenaraikan lima; sahkan penyenaraian rasmi semasa sebelum penerbitan."
-  - "Susulan terhadap ikrar GEAR-uP/GLIC 2025 (RM120b DDI, pertumbuhan permodalan pasaran RM100b, pulangan 7.5%, pegangan Bursa RM540b, gaji sara hidup RM3,100 untuk ~153,000 kakitangan) terhadap pendedahan MoF dan GLIC terkini."
+  - "Tanggal acuan sebenarnya untuk angka AUM setiap dana (diambil dari jawaban parlemen tertulis Wakil Menteri Keuangan Steven Sim; kepemilikan ekuitas RM451.3 miliar adalah per 30 Sep 2023, nilai portofolio Khazanah RM122.5 miliar adalah per 31 Des 2022, dan angka AUM selebihnya harus dicocokkan dengan tanggal pelaporannya terhadap Hansard)."
+  - "Apakah persentase 'share held in local listed equities' setiap dana (EPF 24.4%, PNB 74.4%, KWAP 45.2%, LTH 18.3%, LTAT 52%) tetap terkini, dan bahwa angka tersebut dibaca sebagai bagian-dana-dalam-ekuitas-lokal dan bukan persentase alokasi-domestik."
+  - "Kerangka delapan GLIC: PERKUKUH diterapkan pada enam GLIC dan PCG secara historis mencantumkan lima; verifikasi daftar resmi terkini sebelum publikasi."
+  - "Tindak lanjut atas ikrar GEAR-uP/GLIC 2025 (RM120b DDI, pertumbuhan kapitalisasi pasar RM100b, imbal hasil 7.5%, kepemilikan Bursa RM540b, upah layak hidup RM3,100 untuk ~153,000 karyawan) terhadap pengungkapan MoF dan GLIC terkini."
 
 updated: 2026-08-08
 sources:

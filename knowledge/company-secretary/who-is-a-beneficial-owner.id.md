@@ -34,8 +34,8 @@ faq:
     a: "Hanya jika mereka seorang orang perorangan. Jika mereka seorang individu yang memegang 20% atau lebih saham biasa, mereka memenuhi Kriteria A. Namun, memegang mayoritas saham tidak cukup bagi keseluruhan analisis — Anda tetap perlu menilai keenam kriteria, karena orang lain mungkin secara terpisah memenuhi Kriteria C, D, E atau F."
 
 verificationNeeded:
-  - "Sahkan layanan SSM terhadap amanah budi bicara yang tiada benefisiari mempunyai kepentingan terletak hak, terhadap garis panduan berasingan mengenai pemilikan benefisial pengaturan perundangan yang telah dinyatakan oleh SSM akan dikeluarkan bagi pengaturan amanah"
-  - "Sama ada syarikat amanah yang didaftarkan di bawah Trust Companies Act 1949 semestinya syarikat awam yang tertakluk kepada rangka kerja pemilikan benefisial penuh — ditegaskan dalam sesetengah ulasan tetapi tidak dikaitkan dengan sesuatu peruntukan Akta tersebut"
+  - "Pastikan perlakuan SSM terhadap perwalian diskresioner yang tidak ada benefisiari memiliki kepentingan yang telah melekat (vested), terhadap pedoman terpisah mengenai kepemilikan benefisial atas pengaturan hukum yang telah dinyatakan SSM akan dikeluarkan bagi pengaturan perwalian"
+  - "Apakah perusahaan perwalian yang didaftarkan di bawah Trust Companies Act 1949 mestilah perusahaan publik yang tunduk pada kerangka kepemilikan benefisial penuh — ditegaskan dalam sebagian ulasan tetapi tidak dikaitkan dengan ketentuan tertentu dari undang-undang tersebut"
 
 lang: "id"
 masterLanguage: "en"

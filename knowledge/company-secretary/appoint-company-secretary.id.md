@@ -37,7 +37,7 @@ faq:
     a: "Mintalah untuk melihat sertifikat praktik terkini yang dikeluarkan berdasarkan s.241(4)(b) dan catat nomornya, karena SSM mewajibkan nomor itu disebutkan setiap kali sekretaris melaksanakan atau menyampaikan suatu dokumen. Sejak November 2024 SSM turut menerbitkan Company Secretary Information Data (CSID) melalui portal datanya, yang mencakup kualifikasi sekretaris dan jenis penggajian."
 
 verificationNeeded:
-  - "Sahkan borang preskripsi SSM semasa dan sebarang fi bagi pemberitahuan s.58 pelantikan setiausaha terhadap panduan failan langsung SSM, memandangkan MBRS 2.0 telah mengubah laluan penyerahan"
+  - "Verifikasi formulir yang ditetapkan SSM terkini dan biaya apa pun untuk pemberitahuan s.58 penunjukan sekretaris terhadap panduan pengajuan langsung SSM, mengingat MBRS 2.0 telah mengubah jalur penyerahan"
 
 lang: "id"
 masterLanguage: "en"

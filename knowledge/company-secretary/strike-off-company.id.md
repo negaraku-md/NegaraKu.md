@@ -48,9 +48,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Tempoh bantahan/penarikan balik 60 hari: Garis Panduan SSM (Semakan 14 Julai 2026) perenggan 11 dan 13 menyatakan 'enam puluh hari', tetapi Akta Syarikat 2016 subseksyen 552(1) (cetakan semula 1.8.2022) dan beberapa sumber sekunder masih menyebut 30 hari. Sahkan sama ada seksyen 551/552 telah dipinda (contohnya melalui Akta Syarikat (Pindaan) 2024) supaya 60 hari yang terpakai."
-  - "Sahkan nombor/format borang CRS dan Jadual Fi terkini di portal SSM sebelum memfailkan permohonan sebenar."
-  - "Sumber sekunder (Allen & Gledhill dan MahWengKwai) memerihalkan versi 2019 (10 syarat, 30 hari) yang telah digantikan; dikekalkan sebagai latar belakang sahaja."
+  - "Periode keberatan/penarikan kembali 60 hari: Pedoman SSM (Revisi 14 Juli 2026) paragraf 11 dan 13 menyatakan 'enam puluh hari', tetapi Companies Act 2016 ayat 552(1) (cetak ulang 1.8.2022) dan beberapa sumber sekunder masih menyebut 30 hari. Pastikan apakah Pasal 551/552 telah diamandemen (misalnya melalui Companies (Amendment) Act 2024) sehingga 60 hari yang berlaku."
+  - "Pastikan nomor/format formulir CRS dan Jadwal Biaya terkini di portal SSM sebelum mengajukan permohonan yang sebenarnya."
+  - "Sumber sekunder (Allen & Gledhill dan MahWengKwai) menjelaskan versi 2019 (10 syarat, 30 hari) yang telah digantikan; dipertahankan sebagai latar belakang saja."
 updated: 2026-08-07
 sources:
   - title: "Companies Act 2016 (Act 777), SSM reprint as at 1 August 2022"

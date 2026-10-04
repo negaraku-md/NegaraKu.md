@@ -38,8 +38,8 @@ faq:
     a: "Ya. Pasal 5(8) ROBA 1956 menyatakan dengan jelas bahwa pendaftaran tidak menyiratkan bahwa keperluan undang-undang lain mana pun telah dipenuhi, dan SSM mengulangi hal ini dalam pedomannya. Lisensi premis, lisensi papan nama, dan permit sektor dari pemerintah daerah dan badan pengawas Anda adalah permohonan yang terpisah."
 
 verificationNeeded:
-  - "Garis panduan pembaharuan SSM membenarkan pembaharuan sehingga dua belas bulan selepas tamat tempoh, manakala s.5A(1) ROBA 1956 menyatakan permohonan hendaklah dibuat dalam tempoh tiga puluh hari sebelum tamat tempoh — sahkan amalan pentadbiran semasa dengan SSM sebelum bergantung pada tempoh tangguh"
-  - "Sahkan syarat kelayakan semasa dan tarikh tamat bagi insentif fi Skim Pendaftaran Perniagaan Perihatin (SPPP) dan Skim 1 OKU 1 Perniagaan (S1O1P)"
+  - "Pedoman perpanjangan SSM mengizinkan perpanjangan hingga dua belas bulan setelah masa berlaku berakhir, sedangkan s.5A(1) ROBA 1956 menyatakan permohonan harus dibuat dalam jangka waktu tiga puluh hari sebelum masa berlaku berakhir — konfirmasikan praktik administrasi terkini dengan SSM sebelum mengandalkan tenggang waktu"
+  - "Konfirmasikan syarat kelayakan terkini dan tanggal berakhir bagi insentif biaya Skim Pendaftaran Perniagaan Perihatin (SPPP) dan Skim 1 OKU 1 Perniagaan (S1O1P)"
 obligations:
   - what: "Ajukan pendaftaran usaha kepada Pendaftar"
     trigger: "ongoing"

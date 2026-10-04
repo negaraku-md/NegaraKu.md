@@ -49,9 +49,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sama ada mesyuarat skim section 366(1) boleh dikecualikan bagi penyusunan semula dalaman milik penuh atau tanpa pertikaian - suatu isu tafsiran yang dipertikaikan dan sensitif kepada fakta; sahkan panduan mahkamah Malaysia semasa sebelum bergantung pada mana-mana kedudukan."
-  - "Sama ada section 371 (ambang pengambilalihan wajib 90%) dan interaksinya dengan penggabungan berasaskan aset dicirikan dengan betul bagi urus niaga khusus pembaca."
-  - "Bahawa PDF Companies Act 2016 bersepadu SSM yang dipetik kekal sebagai teks berkuat kuasa semasa pada masa penggunaan (semak pindaan kemudian)."
+  - "Apakah rapat skema section 366(1) dapat dikecualikan untuk reorganisasi internal yang dimiliki penuh atau tanpa sengketa - suatu isu penafsiran yang diperdebatkan dan sensitif terhadap fakta; verifikasi panduan pengadilan Malaysia terkini sebelum mengandalkan posisi apa pun."
+  - "Apakah section 371 (ambang batas pengambilalihan wajib 90%) dan interaksinya dengan penggabungan berbasis aset dikarakterisasi dengan benar untuk transaksi khusus pembaca."
+  - "Bahwa PDF Companies Act 2016 konsolidasi SSM yang dikutip tetap menjadi teks yang berlaku saat ini pada saat penggunaan (periksa amendemen berikutnya)."
 
 updated: 2026-08-07
 sources:

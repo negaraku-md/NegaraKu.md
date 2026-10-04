@@ -44,8 +44,8 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Pengaitan janggau (Aporosa confusa) secara khusus dengan 'ton perang' — The Star menyenaraikan tarum, engkudu dan janggau bersama sebagai penghasil warna perang kemerahan dan hitam, tanpa memecahkan warna mengikut setiap tumbuhan."
-  - "Butiran struktur kain 'dua panel bercermin yang dijahit bersama' dan kemasyhurannya kepada dunia luar 'selepas tahun 1920' — sahkan terhadap Jabatan Muzium Sarawak / EC-APR."
+  - "Pengaitan janggau (Aporosa confusa) secara khusus dengan 'rona cokelat' — The Star mencantumkan tarum, engkudu, dan janggau bersama sebagai penghasil warna cokelat kemerahan dan hitam, tanpa memerinci warna menurut masing-masing tumbuhan."
+  - "Rincian struktur kain 'dua panel bercermin yang dijahit bersama' dan kemasyhurannya ke dunia luar 'setelah tahun 1920' — pastikan terhadap Jabatan Muzium Sarawak / EC-APR."
 revisions:
   - revision: 0
     date: 2026-08-01

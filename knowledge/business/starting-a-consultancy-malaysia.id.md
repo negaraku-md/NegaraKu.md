@@ -46,7 +46,7 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Skop mandatori berbanding sukarela SOCSO bekerja sendiri (SESSS, Akta 789) mengikut sektor, dan terma insentif EPF i-Saraan, harus disahkan terhadap perkeso.gov.my dan kwsp.gov.my; yuran pendaftaran SSM harus disahkan di ssm.com.my."
+  - "Cakupan wajib versus sukarela SOCSO untuk pekerja mandiri (SESSS, Akta 789) menurut sektor, dan ketentuan insentif EPF i-Saraan, harus diverifikasi terhadap perkeso.gov.my dan kwsp.gov.my; biaya pendaftaran SSM harus diverifikasi di ssm.com.my."
 
 updated: 2026-09-07
 sources:

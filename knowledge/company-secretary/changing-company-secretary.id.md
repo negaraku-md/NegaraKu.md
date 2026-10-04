@@ -36,9 +36,9 @@ faq:
     a: "Pasal 341 mengenakan kewajiban penyimpanan, bukan tenggat waktu pencatatan. Ia mewajibkan catatan resolusi anggota dan risalah rapat anggota disimpan sekurang-kurangnya tujuh tahun, dan s.341(3) membawa denda tidak melebihi RM10,000 dengan RM500 bagi setiap hari pelanggaran berlanjut itu berlangsung. Banyak panduan menyatakan jangka tetap untuk memasukkan risalah ke dalam buku risalah; pasal itu sendiri tidak menetapkan jangka seperti itu."
 
 verificationNeeded:
-  - "Sahkan prosedur semasa dan sebarang yuran SSM bagi memindahkan akses MBRS dan MyCoID antara firma setiausaha — SSM mendokumenkan sistem tersebut tetapi tidak menerbitkan prosedur penyerahan yang bersepadu"
-  - "Sahkan tempoh pengekalan daftar pemilik benefisial dan tarikh akhir pemfailan di bawah Division 8A, yang dimasukkan oleh Companies (Amendment) Act 2024 dan tiada dalam cetakan semula Act 777 bertarikh 1 Ogos 2022"
-  - "Sahkan sama ada SSM menganggap pertukaran firma kesetiausahaan di alamat pejabat berdaftar yang sama sebagai memerlukan pemberitahuan s.46(3) apabila rentetan alamat tidak berubah"
+  - "Verifikasi prosedur terkini dan biaya SSM apa pun untuk mengalihkan akses MBRS dan MyCoID antara firma sekretaris — SSM mendokumentasikan sistem tersebut tetapi tidak menerbitkan prosedur penyerahan yang terpadu"
+  - "Verifikasi periode retensi daftar pemilik manfaat dan tanggal akhir pengajuan di bawah Division 8A, yang dimasukkan oleh Companies (Amendment) Act 2024 dan tidak ada dalam cetak ulang Act 777 tertanggal 1 Agustus 2022"
+  - "Verifikasi apakah SSM menganggap pergantian firma kesekretariatan di alamat kantor terdaftar yang sama sebagai memerlukan pemberitahuan s.46(3) apabila rangkaian alamat tidak berubah"
 
 obligations:
   - what: "Notify SSM that a person has ceased to be, and that a person has become, company secretary"

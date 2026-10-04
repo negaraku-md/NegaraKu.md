@@ -46,10 +46,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Hari penyelesaian sah pelupusan yang tepat: bilik berita AirAsia menetapkan penyelesaian pada '2026-01-18', manakala The Star merangka pemindahan sebagai '2026-01-16' dengan saham AAX baharu disenaraikan pada '2026-01-19'. Sahkan tarikh mana yang dianggap syarikat sebagai penyelesaian."
-  - "Komposisi semasa unit bukan penerbangan Capital A: pelan penyusunan semula Mac 2025 merujuk kepada enam perniagaan (termasuk BigPay dan ABC International), manakala pelaporan 2026 menyenaraikan lima (ADE, Teleport, AirAsia MOVE, AirAsia Next, Santan). Sahkan susunan lima unit itu terhadap pendedahan terkini Capital A."
-  - "Bahawa AirAsia Group Berhad mengekalkan ticker AAGB dan kod saham 5238 selepas penamaan semula Julai 2026 — sahkan terhadap penyenaraian Bursa Malaysia semasa."
-  - "Metrik operasi selepas penyatuan bagi AirAsia Group Berhad (saiz armada, rangkaian laluan, keuntungan) masih belum ada dalam pemfailan; sahkan apabila diterbitkan."
+  - "Hari penyelesaian sah divestasi yang tepat: ruang berita AirAsia menetapkan penyelesaian pada '2026-01-18', sementara The Star membingkai pengalihan sebagai '2026-01-16' dengan saham AAX baru dicatatkan pada '2026-01-19'. Verifikasi tanggal mana yang dianggap perusahaan sebagai penyelesaian."
+  - "Komposisi terkini unit non-penerbangan Capital A: rencana restrukturisasi Maret 2025 merujuk pada enam bisnis (termasuk BigPay dan ABC International), sementara pelaporan 2026 mencantumkan lima (ADE, Teleport, AirAsia MOVE, AirAsia Next, Santan). Verifikasi susunan lima unit tersebut terhadap pengungkapan terkini Capital A."
+  - "Bahwa AirAsia Group Berhad mempertahankan ticker AAGB dan kode saham 5238 setelah penamaan ulang Juli 2026 — verifikasi terhadap pencatatan Bursa Malaysia terkini."
+  - "Metrik operasi pasca-konsolidasi untuk AirAsia Group Berhad (ukuran armada, jaringan rute, keuntungan) masih belum tersedia dalam pengajuan; verifikasi ketika diterbitkan."
 
 updated: 2026-07-28
 sources:

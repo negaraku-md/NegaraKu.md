@@ -40,7 +40,7 @@ faq:
     a: "Majlis Perbandaran Sepang, yang memindahkan kantor pusatnya ke Cyberjaya pada tahun 2008. Lisensi premis, lisensi papan reklame, dan persetujuan perencanaan dikelola oleh MPSepang berdasarkan Local Government Act 1976 dengan cara yang sama seperti di mana saja di daerah itu. Tidak ada otoritas perizinan Cyberjaya yang terpisah."
 
 verificationNeeded:
-  - "Sahkan sama ada Cyberjaya memegang, atau telah memohon, pengiktirafan sebagai MD Hub, MD Nexus atau MD Tech Zone, dan bagaimana penetapan MD Cybercity dan Cybercentre sedia ada dipetakan kepada MD Location Recognition. Sehingga 2026-08-14 tiada sumber utama MDEC menamakan Cyberjaya di bawah mana-mana kategori, dan satu-satunya MD Location Recognition yang diberikan setakat ini ialah Menara Merdeka 118, yang dilancarkan sebagai MD Nexus pertama Malaysia pada 5 Februari 2026."
+  - "Konfirmasikan apakah Cyberjaya memegang, atau telah mengajukan, pengakuan sebagai MD Hub, MD Nexus atau MD Tech Zone, dan bagaimana penetapan MD Cybercity dan Cybercentre yang ada dipetakan ke MD Location Recognition. Hingga 2026-08-14 tidak ada sumber utama MDEC yang menamai Cyberjaya di bawah kategori mana pun, dan satu-satunya MD Location Recognition yang diberikan sejauh ini adalah Menara Merdeka 118, yang diluncurkan sebagai MD Nexus pertama Malaysia pada 5 Februari 2026."
 
 lang: "id"
 masterLanguage: "en"

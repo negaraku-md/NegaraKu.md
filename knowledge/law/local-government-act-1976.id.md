@@ -41,11 +41,11 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Bilangan semasa yang tepat dan pecahan pihak berkuasa tempatan (majlis bandaraya berbanding majlis perbandaran berbanding majlis daerah) bagi 2024–2026 — JKT/KPKT menyenaraikan 155 PBT setakat Ogos 2021; kiraan dan peningkatan taraf bandaraya berubah dari semasa ke semasa."
-  - "Tarikh sejarah tepat pilihan raya kerajaan tempatan digantung (biasa dipetik sebagai 1 March 1965) dan peranan Suruhanjaya Diraja Athi Nahappan serta Local Government (Temporary Provisions) Act 1973 — sahkan terhadap sumber utama sebelum menyatakannya."
-  - "Bilangan muktamad Akta pindaan dan sama ada sebarang pindaan kepada Act 171 wujud selepas 2007."
-  - "Official criteria/thresholds (population, annual revenue) for conferring City or Municipal status — needs an official KPKT source."
-  - "Bilangan tepat Bahagian/seksyen/jadual dalam cetakan semula terkini yang berkuat kuasa (Wikipedia menyatakan 16 Bahagian/166 seksyen/2 jadual setakat 1 Dis 2012; sahkan tiada perubahan struktur sejak itu)."
+  - "Jumlah terkini yang persis dan rincian pihak berkuasa tempatan (majlis bandaraya dibandingkan majlis perbandaran dibandingkan majlis daerah) untuk 2024–2026 — JKT/KPKT mencantumkan 155 PBT per Agustus 2021; penghitungan dan peningkatan status bandaraya berubah dari waktu ke waktu."
+  - "Tanggal historis persis pemilihan pemerintah daerah ditangguhkan (biasa dikutip sebagai 1 Maret 1965) dan peran Suruhanjaya Diraja Athi Nahappan serta Local Government (Temporary Provisions) Act 1973 — verifikasi terhadap sumber primer sebelum menyatakannya."
+  - "Jumlah final Akta amendemen dan apakah ada amendemen terhadap Act 171 setelah 2007."
+  - "Kriteria/ambang resmi (populasi, pendapatan tahunan) untuk pemberian status bandaraya atau perbandaran — perlu sumber resmi KPKT."
+  - "Jumlah persis Bagian/pasal/Lampiran dalam cetak ulang terkini yang berlaku (Wikipedia menyatakan 16 Bagian/166 pasal/2 Lampiran per 1 Des 2012; verifikasi tidak ada perubahan struktur sejak itu)."
 updated: 2026-08-14
 sources:
   - title: "Undang-Undang Malaysia, Act 171 Local Government Act 1976 (cetakan semula rasmi yang menggabungkan pindaan sehingga 1 Januari 2006) (Laws of Malaysia, Act 171 Local Government Act 1976 (official reprint incorporating amendments up to 1 January 2006))"

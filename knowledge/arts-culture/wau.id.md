@@ -30,9 +30,9 @@ faq:
     a: "Terbitan Malaysia Airlines sendiri, Going Places, menyatakan logo maskapai itu diilhami oleh wau bulan. Ada perdebatan publik yang mengklaim bentuk sebenarnya lebih dekat ke wau kucing, tetapi kami belum menemukan konfirmasi resmi atas klaim itu, jadi ia tidak dinyatakan di sini sebagai fakta."
 
 verificationNeeded:
-  - "Dakwaan popular bahawa Wau Bulan muncul pada syiling 50 sen Malaysia — laman Bank Negara Malaysia tidak dapat dicapai untuk pengesahan semasa penulisan, jadi dakwaan ini sengaja ditinggalkan daripada badan artikel."
-  - "Dakwaan bahawa logo Malaysia Airlines sebenarnya wau kucing dan bukan wau bulan — tiada sumber rasmi ditemui; hanya kenyataan Malaysia Airlines sendiri (wau bulan) yang dipetik."
-  - "Senarai 'wau kebangsaan' yang kerap dikaitkan dengan Majlis Pelayang Malaysia (wau bulan, wau kucing, wau jala budi) — tiada penerbitan rasmi ditemui."
+  - "Klaim populer bahwa Wau Bulan muncul pada koin 50 sen Malaysia — situs Bank Negara Malaysia tidak dapat diakses untuk verifikasi saat penulisan, sehingga klaim ini sengaja ditinggalkan dari badan artikel."
+  - "Klaim bahwa logo Malaysia Airlines sebenarnya wau kucing dan bukan wau bulan — tidak ada sumber resmi yang ditemukan; hanya pernyataan Malaysia Airlines sendiri (wau bulan) yang dikutip."
+  - "Daftar 'wau kebangsaan' yang kerap dikaitkan dengan Majlis Pelayang Malaysia (wau bulan, wau kucing, wau jala budi) — tidak ada publikasi resmi yang ditemukan."
 
 lang: "id"
 masterLanguage: "ms"

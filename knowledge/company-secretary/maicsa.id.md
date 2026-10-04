@@ -31,10 +31,10 @@ faq:
     a: "MAICSA didirikan pada 1959 sebagai badan afiliasi The Chartered Governance Institute, yang dahulu dikenal sebagai The Institute of Chartered Secretaries and Administrators (ICSA), dan kini merupakan salah satu divisi CGI. Penjenamaan ulang dari ICSA menjadi CGI adalah sebabnya sumber Malaysia yang lebih lama merujuk pada hubungan yang sama di bawah nama yang berbeda."
 
 verificationNeeded:
-  - "Sahkan bentuk perundangan dan pendaftaran MAICSA di Malaysia — sama ada ia didaftarkan sebagai persatuan atau diperbadankan sebagai syarikat berhad menurut jaminan — yang tidak dinyatakan oleh halaman profil awamnya"
-  - "Sahkan huruf sebutan semasa yang ahli MAICSA berhak menggunakannya, dan sama ada bentuk era ICSA telah digantikan berikutan penjenamaan semula CGI"
-  - "Sahkan tarikh setakat bagi angka keahlian yang diterbitkan MAICSA, dan keperluan kemasukan dan peperiksaan semasa bagi setiap kelas keahlian"
-  - "Sahkan rujukan pemberitahuan Warta yang menetapkan MAICSA sebagai badan yang diluluskan, dan sama ada sebarang terma atau syarat dikenakan di bawah s.235(3)"
+  - "Pastikan bentuk hukum dan pendaftaran MAICSA di Malaysia — apakah ia didaftarkan sebagai perkumpulan atau diinkorporasikan sebagai perusahaan terbatas berdasarkan jaminan — yang tidak dinyatakan oleh halaman profil publiknya"
+  - "Pastikan huruf gelar terkini yang berhak digunakan oleh anggota MAICSA, dan apakah bentuk era ICSA telah digantikan menyusul penjenamaan ulang CGI"
+  - "Pastikan tanggal acuan bagi angka keanggotaan yang diterbitkan MAICSA, dan persyaratan penerimaan serta ujian terkini bagi setiap kelas keanggotaan"
+  - "Pastikan rujukan pemberitahuan Warta (Gazette) yang menetapkan MAICSA sebagai badan yang disetujui, dan apakah ada syarat atau ketentuan apa pun yang dikenakan di bawah s.235(3)"
 
 lang: "id"
 masterLanguage: "en"

@@ -39,9 +39,9 @@ faq:
     a: "Pasal 209(3) mengharuskan sekretaris perusahaan memanggil satu rapat ahli waris terdekat, perwakilan pribadi, atau anggota secepat yang praktis. Jika tidak ada direktur yang ditunjuk dalam waktu enam bulan setelah kematian direktur terakhir, Pasal 209(5) memperbolehkan Pendaftar mengarahkan perusahaan itu dicoret dari daftar."
 
 verificationNeeded:
-  - "Sahkan bukti dokumentar apa yang kini diterima oleh SSM sebagai bukti tempat kediaman utama di Malaysia semasa pemerbadanan dan apabila berlaku pertukaran pengarah"
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang nota amalan atau garis panduan yang menambah baik ujian bermastautin biasa di bawah s.196(4)"
-  - "Tiada jadual yuran rasmi atau rejim pelesenan wujud untuk perkhidmatan pengarah penama di Malaysia — harga pasaran yang diterangkan di sini adalah laporan pengamal industri, bukan angka rasmi"
+  - "Konfirmasikan bukti dokumenter apa yang kini diterima oleh SSM sebagai bukti tempat tinggal utama di Malaysia pada saat pendirian perseroan dan ketika terjadi pergantian direktur"
+  - "Konfirmasikan apakah SSM telah menerbitkan nota praktik atau pedoman apa pun yang menyempurnakan uji bertempat tinggal biasa berdasarkan s.196(4)"
+  - "Tidak ada jadwal biaya resmi atau rezim perizinan yang ada untuk layanan direktur nominee di Malaysia — harga pasar yang dijelaskan di sini adalah laporan praktisi industri, bukan angka resmi"
 
 obligations:
   - what: "Mempertahankan jumlah minimum direktur yang biasanya berdomisili di Malaysia"

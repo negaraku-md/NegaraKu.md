@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "Sekretaris perusahaan dan direktur yang mengoordinasikan penyampaian terlambat atau menilai risiko atas penyampaian yang tertunggak."
 
 verificationNeeded:
-  - "Sahkan sama ada SSM telah mengeluarkan sebarang pengecualian yuran pengemukaan lewat selepas pengecualian tempoh puncak tamat tempoh pada 31 Mac 2026"
-  - "Kadar kompaun bagi kesalahan tertentu di bawah Akta Syarikat 2016 ditetapkan oleh jadual kompaun SSM di bawah s.588 dan tidak diterbitkan dalam Arahan Amalan 1/2017 — tiada angka kompaun dinyatakan pada halaman ini kerana tiada satu pun dapat disahkan menerusi sumber rasmi"
+  - "Pastikan apakah SSM telah mengeluarkan pembebasan biaya penyampaian terlambat apa pun setelah pembebasan periode puncak berakhir pada 31 Maret 2026"
+  - "Tarif kompaun untuk pelanggaran tertentu di bawah Companies Act 2016 ditetapkan oleh jadwal kompaun SSM di bawah s.588 dan tidak diterbitkan dalam Arahan Amalan 1/2017 — tidak ada angka kompaun yang disebutkan pada halaman ini karena tidak satu pun dapat diverifikasi melalui sumber resmi"
 
 lang: "id"
 masterLanguage: "en"

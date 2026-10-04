@@ -52,8 +52,8 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Rujukan Schedule tepat di bawah Part IIIA of the SCMA 1993 yang mentakrifkan 'public interest entity' dan 'schedule fund' — draf ini mengaitkannya dengan Part IIIA secara umum dan bukannya menetapkan nombor Schedule yang khusus."
-  - "Tarikh semakan 13 Jun 2024 bagi AOB Handbook for Registration dan butiran pengiktirafan Form 3 / Form 4 terhadap buku panduan AOB semasa di laman web SC."
+  - "Rujukan Schedule yang tepat di bawah Part IIIA of the SCMA 1993 yang mendefinisikan 'public interest entity' dan 'schedule fund' — draf ini mengaitkannya dengan Part IIIA secara umum dan bukan menetapkan nomor Schedule yang spesifik."
+  - "Tanggal revisi 13 Juni 2024 bagi AOB Handbook for Registration dan rincian pengakuan Form 3 / Form 4 terhadap buku panduan AOB terkini di situs web SC."
 
 updated: 2026-08-08
 sources:

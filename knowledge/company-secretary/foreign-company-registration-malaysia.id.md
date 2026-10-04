@@ -43,7 +43,7 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Sama ada aktiviti terancang tertentu sebenarnya terjumlah kepada 'menjalankan perniagaan' di bawah section 561(3) bagi entiti berkenaan."
+  - "Apakah aktivitas terencana tertentu sebenarnya tergolong sebagai 'menjalankan usaha' di bawah section 561(3) bagi entitas yang bersangkutan."
 revisions:
   - revision: 0
     date: 2026-08-07

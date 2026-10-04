@@ -38,9 +38,9 @@ faq:
     a: "Ya, dengan mengajukan Borang TMA4 beserta RM1,000 per kelas dan alasan yang dinyatakan — kepentingan negara atau publik, masalah pelanggaran, kebutuhan pembiayaan pemerintah atau institusi, atau alasan wajar lain seperti kebutuhan usaha yang mendesak. Manual Pemeriksaan MyIPO menempatkan jalur dipercepat pada sekitar empat bulan dua minggu bagi kasus yang jelas. Jika pemeriksa mengajukan keberatan sebenarnya, permohonan itu kembali ke antrean biasa."
 
 verificationNeeded:
-  - "MyIPO tidak menerbitkan sebarang tempoh pemprosesan hujung-ke-hujung piawai bagi permohonan cap dagangan biasa (tidak dipercepatkan) — angka 12 hingga 24 bulan yang lazim disebut tidak dapat dikesan kepada mana-mana sumber MyIPO dan tidak diterbitkan di sini"
-  - "Sahkan edisi Pengelasan Nice (Nice Classification) yang kini digunakan oleh MyIPO, dan tarikh senarai barang dan perkhidmatan yang diluluskan terlebih dahulu yang terkini"
-  - "Trademarks (Reduction of Fee) Regulations 2025 [P.U. (A) 315/2025] mengurangkan fi permohonan setiap kelas sebanyak RM300 tetapi tamat tempoh pada 31 Disember 2025 — sahkan sama ada instrumen penggantinya telah diwartakan sebelum bergantung kepada fi piawai"
+  - "MyIPO tidak menerbitkan jangka waktu pemrosesan ujung-ke-ujung standar apa pun untuk permohonan merek dagang biasa (tidak dipercepat) — angka 12 hingga 24 bulan yang lazim disebut tidak dapat dilacak ke sumber MyIPO mana pun dan tidak diterbitkan di sini"
+  - "Verifikasi edisi Pengelasan Nice (Nice Classification) yang kini digunakan oleh MyIPO, dan tanggal daftar barang dan layanan yang telah disetujui sebelumnya yang terkini"
+  - "Trademarks (Reduction of Fee) Regulations 2025 [P.U. (A) 315/2025] mengurangi biaya permohonan setiap kelas sebesar RM300 tetapi berakhir pada 31 Desember 2025 — verifikasi apakah instrumen penggantinya telah diwartakan sebelum mengandalkan biaya standar"
 
 obligations:
   - what: "Perbarui pendaftaran suatu merek dagang"

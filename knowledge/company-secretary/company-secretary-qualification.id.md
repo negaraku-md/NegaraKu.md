@@ -36,9 +36,9 @@ faq:
     a: "Seorang direktur boleh memegang kedua jabatan itu, tetapi s.242 Companies Act 2016 melarang bertindak dalam kapasitas ganda di mana Undang-Undang mewajibkan atau membolehkan sesuatu hal dilakukan oleh seorang direktur dan seorang sekretaris. Dalam praktik, ini berarti seorang direktur tunggal tidak boleh menandatangani instrumen yang sama dalam kedua kapasitas, dan perusahaan berdirektur tunggal harus menunjuk orang lain sebagai sekretaris."
 
 verificationNeeded:
-  - "Sahkan yuran yang dikenakan untuk membeli Company Secretary Information Data (CSID) — notis SSM menyatakan ia tersedia dalam format Excel melalui portal yang dibenarkan tetapi tidak menerbitkan harga"
-  - "Sahkan sama ada badan Fourth Schedule dipetik dengan betul sebagai Sabah Law Society (Act 777 Fourth Schedule) atau Sabah Law Association (SSM Part K FAQ) — kedua-dua dokumen SSM berbeza"
-  - "Sahkan yuran permohonan yang ditetapkan semasa dan kriteria kelayakan bagi lesen s.20G, yang diterbitkan SSM secara berasingan daripada yuran sijil amalan s.241"
+  - "Verifikasi biaya yang dikenakan untuk membeli Company Secretary Information Data (CSID) — pemberitahuan SSM menyatakan data tersebut tersedia dalam format Excel melalui portal yang diizinkan tetapi tidak menerbitkan harga"
+  - "Verifikasi apakah badan Fourth Schedule dikutip dengan benar sebagai Sabah Law Society (Act 777 Fourth Schedule) atau Sabah Law Association (SSM Part K FAQ) — kedua dokumen SSM tersebut berbeda"
+  - "Verifikasi biaya permohonan yang ditetapkan terkini dan kriteria kelayakan untuk lisensi s.20G, yang diterbitkan SSM secara terpisah dari biaya sertifikat praktik s.241"
 
 obligations:
   - what: "Renew the SSM practising certificate for secretaries"

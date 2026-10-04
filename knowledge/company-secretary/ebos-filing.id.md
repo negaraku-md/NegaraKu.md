@@ -34,8 +34,8 @@ faq:
     a: "Melalui portal SSM4U di ssm4u.com.my. Pengguna harus menjadi pengguna SSM4U yang terdaftar dan terverifikasi, kemudian mengajukan permohonan untuk ditingkatkan menjadi Verified Professional User melalui dasbor e-BOS sebelum pengajuan dapat dilakukan."
 
 verificationNeeded:
-  - "Sahkan skala fi pemfailan lewat semasa yang dikenakan ke atas pemfailan pemilikan benefisial selepas 30 September 2024 berdasarkan jadual fi yang diterbitkan oleh SSM"
-  - "Sahkan tarikh permulaan kuat kuasa perenggan 68(3)(ia) Akta Syarikat 2016, yang akan mewajibkan maklumat pemilikan benefisial difailkan bersama penyata tahunan — SSM menyatakan bahawa ini akan dikuatkuasakan pada tarikh yang akan ditentukan oleh Pendaftar"
+  - "Verifikasi skala biaya pengajuan terlambat terkini yang dikenakan pada pengajuan kepemilikan manfaat setelah 30 September 2024 berdasarkan jadwal biaya yang diterbitkan oleh SSM"
+  - "Verifikasi tanggal mulai berlaku paragraf 68(3)(ia) Companies Act 2016, yang akan mewajibkan informasi kepemilikan manfaat diajukan bersama laporan tahunan — SSM menyatakan bahwa ini akan diberlakukan pada tanggal yang akan ditentukan oleh Pendaftar"
 
 obligations:
   - what: "Menyampaikan informasi kepemilikan benefisial kepada Pendaftar melalui e-BOS"

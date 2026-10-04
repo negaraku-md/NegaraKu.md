@@ -37,7 +37,7 @@ faq:
     a: "Tidak secara otomatis. Di bawah Prosedur Jalur Cepat (Fast Track Procedure) AIAC, putusan perlu dibuat dalam periode enam bulan dari pembentukan tribunal, dan prosedur ini tersedia ketika para pihak menyetujui, ketika jumlah sengketa di bawah USD3,000,000 bagi arbitrase internasional atau RM2,000,000 bagi arbitrase domestik, atau ketika ada keadaan darurat yang luar biasa. Arbitrase penuh tiga anggota bagi sengketa konstruksi yang kompleks bukanlah cepat."
 
 verificationNeeded:
-  - "Sahkan jadual yuran dan keperluan deposit AIAC semasa terus daripada AIAC sebelum menasihati mengenai kos"
+  - "Konfirmasikan jadwal biaya dan persyaratan deposit AIAC terkini langsung dari AIAC sebelum memberikan nasihat mengenai biaya"
 
 lang: "id"
 masterLanguage: "en"

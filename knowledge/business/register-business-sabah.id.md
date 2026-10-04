@@ -38,9 +38,9 @@ faq:
     a: "Pedoman perizinan yang diterbitkan DBKK mengharuskan pemohon menjadi penduduk lokal atau penduduk tetap Sabah, atau memegang pas kerja jika mereka dari Sarawak atau Semenanjung Malaysia. Formulir permohonannya mengulangi hal ini bagi direktur perusahaan yang ditunjuk sebagai pengelola lisensi. Otonomi imigrasi Sabah bersandar pada Pasal 161E Konstitusi Federal dan Bagian VII Akta Imigresen 1959/63."
 
 verificationNeeded:
-  - "Teks berkuat kuasa semasa dan sejarah pindaan Trades Licensing Ordinance (Sabah Cap. 144) — versi yang diterbitkan oleh Sabah State Attorney-General's Chambers dicap FOR REFERENCE ONLY (Oktober 2011) dan tidak mengandungi jadual pindaan"
-  - "Jadual yuran lesen perniagaan yang diterbitkan bagi Majlis Perbandaran Sandakan, Majlis Perbandaran Tawau dan majlis-majlis daerah — hanya DBKK menerbitkan kadar"
-  - "Kelas pas, tempoh dan kos tertentu bagi pas kerja Sabah untuk pemilik perniagaan warga Malaysia bukan Sabah — Jabatan Imigresen Sabah tidak menerbitkan maklumat ini dalam bentuk yang boleh diperoleh"
+  - "Teks yang berlaku saat ini dan riwayat perubahan Trades Licensing Ordinance (Sabah Cap. 144) — versi yang diterbitkan oleh Sabah State Attorney-General's Chambers dicap FOR REFERENCE ONLY (Oktober 2011) dan tidak memuat jadwal perubahan"
+  - "Jadwal biaya izin usaha yang diterbitkan bagi Majlis Perbandaran Sandakan, Majlis Perbandaran Tawau dan dewan-dewan daerah — hanya DBKK yang menerbitkan tarif"
+  - "Kelas pas, jangka waktu dan biaya tertentu bagi pas kerja Sabah untuk pemilik usaha warga Malaysia bukan Sabah — Jabatan Imigresen Sabah tidak menerbitkan informasi ini dalam bentuk yang dapat diperoleh"
 
 obligations:
   - what: "Memegang lisensi usaha yang sah bagi setiap tempat usaha sebelum menjalankan usaha apa pun di Sabah"

@@ -38,9 +38,9 @@ faq:
     a: "Tidak. Pasal 12A(4) menyatakan bahwa penunjukan itu tidak melepaskan pengendali data atau pemroses data dari kewajiban atau fungsi apa pun di bawah Undang-Undang, dan paragraf 6.1 pedoman itu mengulangi hal yang sama. Organisasi itu tetap bertanggung jawab dan bertanggung gugat atas ketidakpatuhan."
 
 verificationNeeded:
-  - "Sama ada JPDP menganggap alat analitik pihak pertama tanpa pemprofilan tingkah laku sebagai pemantauan berkala dan sistematik — garis panduan memberikan contoh tetapi tiada ujian"
-  - "Teks penuh DPO Competency Guideline bertarikh 1 August 2025 dan sama ada ia menetapkan sebarang latihan mandatori"
-  - "Sama ada kewajipan pendaftaran 21 hari dalam perenggan 7.1 terpakai kepada pemproses data, yang melantik di bawah s.12A(2) tetapi tidak dinamakan dalam perenggan tersebut"
+  - "Apakah JPDP menganggap alat analitik pihak pertama tanpa pemrofilan perilaku sebagai pemantauan berkala dan sistematis — pedoman memberikan contoh tetapi tidak ada uji"
+  - "Teks lengkap DPO Competency Guideline bertanggal 1 Agustus 2025 dan apakah ia menetapkan pelatihan wajib apa pun"
+  - "Apakah kewajiban pendaftaran 21 hari dalam paragraf 7.1 berlaku bagi pemroses data, yang ditunjuk berdasarkan s.12A(2) tetapi tidak disebutkan dalam paragraf tersebut"
 
 obligations:
   - what: "Daftarkan pejabat perlindungan data yang ditunjuk kepada Komisioner"

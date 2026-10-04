@@ -40,13 +40,13 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Angka portfolio tenaga boleh baharu (4.6 GW: 3.3 GW Semenanjung termasuk 2.5 GW hidro besar + 1.3 GW luar negara) — semak nilai terkini kerana kapasiti berubah dari semasa ke semasa."
-  - "Kiraan '11 juta pelanggan sehingga 30 September 2025' — sahkan tarikh rujukan dan angka pada laporan TNB terbaharu."
-  - "Sumbangan Genco kira-kira 54% daripada jumlah kapasiti terpasang di Semenanjung — sahkan dengan laporan tahunan TNB terkini."
-  - "Pegangan TNB dalam Sabah Electricity (82.75%) dan pelan pemindahan penuh kepada Kerajaan Negeri Sabah menjelang 2030 — sahkan dengan laporan tahunan TNB atau pengumuman rasmi terkini kerana struktur ini berubah."
-  - "Tarikh penubuhan Bahagian Runcit (2018) — sahkan tarikh penubuhan rasmi."
-  - "Sambungan silang grid ke Thailand dan Singapura — sahkan status dan kapasiti terkini."
-  - "Nombor pendaftaran syarikat (199001009294 / 200866-W) — sahkan dengan SSM/Bursa."
+  - "Angka portofolio energi terbarukan (4.6 GW: 3.3 GW Semenanjung termasuk 2.5 GW hidro besar + 1.3 GW luar negeri) — periksa nilai terkini karena kapasitas berubah dari waktu ke waktu."
+  - "Perhitungan '11 juta pelanggan per 30 September 2025' — verifikasi tanggal rujukan dan angka pada laporan TNB terbaru."
+  - "Kontribusi Genco sekitar 54% dari total kapasitas terpasang di Semenanjung — verifikasi dengan laporan tahunan TNB terkini."
+  - "Kepemilikan TNB di Sabah Electricity (82.75%) dan rencana pengalihan penuh kepada Pemerintah Negeri Sabah menjelang 2030 — verifikasi dengan laporan tahunan TNB atau pengumuman resmi terkini karena struktur ini berubah."
+  - "Tanggal pendirian Divisi Ritel (2018) — verifikasi tanggal pendirian resmi."
+  - "Interkoneksi grid ke Thailand dan Singapura — verifikasi status dan kapasitas terkini."
+  - "Nomor pendaftaran perusahaan (199001009294 / 200866-W) — verifikasi dengan SSM/Bursa."
 updated: 2026-07-28
 sources:
   - title: "History — Tenaga Nasional Berhad"

@@ -38,9 +38,9 @@ faq:
     a: "Ya. Peraturan Bursa 15.27 mewajibkan emiten tercatat membentuk fungsi audit internal yang independen dari aktivitas yang diauditnya, dan fungsi itu harus melapor langsung kepada komite audit — bukan kepada CEO atau CFO."
 
 verificationNeeded:
-  - "Practice Note 13 (Pasaran Utama) dan Guidance Note 9 (Pasaran ACE), yang dirujuk silang daripada peraturan 15.09 mengenai cabang-cabang kelayakan, tidak diperoleh dan tidak diringkaskan di sini"
-  - "Keperluan jawatankuasa audit khusus sektor yang dikenakan oleh Bank Negara ke atas institusi kewangan berlesen tidak disahkan dan berada di luar skop artikel ini"
-  - "Dakwaan yang kerap diulang bahawa jawatankuasa itu mesti bertemu juruaudit luar dua kali setahun tanpa kehadiran pengarah eksekutif tidak mempunyai asas dalam Bab 15, yang hanya menyebut apabila difikirkan perlu — ia mungkin berasal daripada satu dokumen panduan yang tidak diperoleh di sini"
+  - "Practice Note 13 (Pasar Utama) dan Guidance Note 9 (Pasar ACE), yang dirujuk silang dari peraturan 15.09 mengenai cabang-cabang kelayakan, tidak diperoleh dan tidak diringkas di sini"
+  - "Persyaratan komite audit khusus sektor yang dikenakan oleh Bank Negara terhadap institusi keuangan berlisensi tidak diverifikasi dan berada di luar cakupan artikel ini"
+  - "Klaim yang sering diulang bahwa komite tersebut harus bertemu auditor eksternal dua kali setahun tanpa kehadiran direktur eksekutif tidak memiliki dasar dalam Bab 15, yang hanya menyebut apabila dianggap perlu — hal itu mungkin berasal dari satu dokumen panduan yang tidak diperoleh di sini"
 
 lang: "id"
 masterLanguage: "en"

@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "Operator platform yang menilai apakah perizinan Malaysia berlaku bagi mereka, serta usaha dan pembuat konten Malaysia yang diberi tahu bahwa mereka memerlukan lisensi media sosial."
 
 verificationNeeded:
-  - "Teks Perisytiharan Menteri yang dikeluarkan di bawah s.46A yang menamakan aktiviti yang dianggap — MCMC menyatakan ia diterbitkan di laman webnya tetapi instrumen itu sendiri tidak dapat diperoleh pada masa penulisan"
-  - "Bagaimana MCMC mengukur kiraan lapan juta pengguna dalam amalan, dan tempoh rujukan yang digunakan"
+  - "Teks Perisytiharan Menteri yang dikeluarkan berdasarkan s.46A yang menyebutkan aktivitas yang dianggap — MCMC menyatakan bahwa teks tersebut diterbitkan di situs webnya tetapi instrumen itu sendiri tidak dapat diperoleh pada saat penulisan"
+  - "Bagaimana MCMC mengukur jumlah delapan juta pengguna dalam praktik, dan periode rujukan yang digunakan"
 
 lang: "id"
 masterLanguage: "en"

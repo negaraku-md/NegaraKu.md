@@ -45,10 +45,10 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Masa pemprosesan Labuan FSA semasa bagi permohonan seksyen 16 dan sebarang tempoh pegangan pemeliharaan nama — tiada angka diterbitkan yang berwibawa ditemui; sahkan dengan syarikat amanah Labuan berlesen dan Labuan FSA."
-  - "Yuran ditetapkan semasa bagi pendaftaran seksyen 16 dan kelulusan prinsip seksyen 17."
-  - "Sama ada bidang kuasa asal pemohon membenarkan penerusan keluar / pemindahan domisil — ini khusus mengikut bidang kuasa dan mesti disahkan kes demi kes."
-  - "Teks section 16, 17 dan 133 telah disahkan baris demi baris terhadap PDF Act 441 yang diterbitkan oleh InvestMalaysia dan Labuan FSA; sahkan terhadap cetakan semula berkuat kuasa terkini sebelum menerbitkan."
+  - "Waktu pemrosesan Labuan FSA terkini untuk permohonan Pasal 16 dan periode penahanan pemeliharaan nama apa pun — tidak ada angka berwibawa yang diterbitkan ditemukan; pastikan dengan perusahaan perwalian Labuan berlisensi dan Labuan FSA."
+  - "Biaya yang ditetapkan terkini untuk pendaftaran Pasal 16 dan persetujuan prinsip Pasal 17."
+  - "Apakah yurisdiksi asal pemohon mengizinkan penerusan keluar / pemindahan domisili — ini spesifik menurut yurisdiksi dan harus dipastikan kasus per kasus."
+  - "Teks section 16, 17 dan 133 telah diverifikasi baris demi baris terhadap PDF Act 441 yang diterbitkan oleh InvestMalaysia dan Labuan FSA; pastikan terhadap cetak ulang yang berlaku terkini sebelum menerbitkan."
 revisions:
   - revision: 0
     date: 2026-08-07

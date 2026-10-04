@@ -22,8 +22,8 @@ keyTakeaways:
 appliesTo: "Siapa pun yang menganggarkan perpindahan ke Johor Bahru, membandingkan gaji lokal dengan pendapatan rumah tangga terkait Singapura, atau pemberi kerja yang menetapkan gaji Johor Bahru dibandingkan level gaji minimum nasional Malaysia."
 
 verificationNeeded:
-  - "Jumlah tepat pengulang-alik rentas sempadan harian atau lintasan kenderaan di pusat pemeriksaan Johor Bahru–Singapura tidak dapat disahkan pada sumber rasmi dalam semakan ini dan telah ditinggalkan dan bukannya dianggarkan."
-  - "Tiada indeks sewa rasmi khusus untuk Johor Bahru dapat dijumpai; kenyataan tentang tekanan sewa daripada permintaan berkaitan Singapura bersifat kualitatif, tidak disokong oleh angka yang diterbitkan."
+  - "Jumlah tepat penglaju lintas batas harian atau penyeberangan kendaraan di pos pemeriksaan Johor Bahru–Singapura tidak dapat dipastikan pada sumber resmi dalam tinjauan ini dan telah dihilangkan alih-alih diperkirakan."
+  - "Tidak ada indeks sewa resmi khusus untuk Johor Bahru yang dapat ditemukan; pernyataan tentang tekanan sewa dari permintaan terkait Singapura bersifat kualitatif, tidak didukung oleh angka yang diterbitkan."
 
 lang: "id"
 masterLanguage: "en"

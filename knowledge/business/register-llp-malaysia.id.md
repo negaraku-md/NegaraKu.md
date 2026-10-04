@@ -38,9 +38,9 @@ faq:
     a: "Di bawah Pasal 27(3) hingga (5), petugas kepatuhan memberi pemberitahuan tertulis kepada PLT, kemudian dapat mengajukan pemberitahuan ke Pendaftar, dan berhenti memegang jabatan itu setelah berakhirnya jangka waktu satu bulan sejak tanggal pemberitahuan itu diajukan. Sampai saat itu, liabilitas pribadi di bawah Pasal 27(7) masih berlaku."
 
 verificationNeeded:
-  - "Section 27(1) of the LLP Act 2012 masih merujuk kepada orang yang layak bertindak sebagai setiausaha di bawah Companies Act 1965, yang telah dimansuhkan oleh Companies Act 2016 — sahkan dengan SSM bagaimana kelayakan itu dinilai dalam amalan pada masa ini"
-  - "Sahkan masa pemprosesan MyLLP semasa; SSM tidak menerbitkan standard perkhidmatan bagi pendaftaran LLP yang setanding dengan angka satu hari bekerja yang diterbitkannya bagi pendaftaran syarikat asing"
-  - "Sahkan keperluan semasa bagi pegawai pematuhan untuk hadir ke pejabat SSM secara peribadi bagi pengesahan identiti — ini muncul dalam General Guidelines for Registration of LLP dan mungkin telah digantikan oleh pengesahan dalam talian"
+  - "Section 27(1) of the LLP Act 2012 masih merujuk kepada orang yang memenuhi syarat untuk bertindak sebagai sekretaris berdasarkan Companies Act 1965, yang telah dicabut oleh Companies Act 2016 — konfirmasikan dengan SSM bagaimana kelayakan itu dinilai dalam praktik saat ini"
+  - "Konfirmasikan waktu pemrosesan MyLLP terkini; SSM tidak menerbitkan standar layanan bagi pendaftaran LLP yang setara dengan angka satu hari kerja yang diterbitkannya bagi pendaftaran perusahaan asing"
+  - "Konfirmasikan persyaratan terkini bagi petugas kepatuhan untuk hadir ke kantor SSM secara langsung untuk verifikasi identitas — ini muncul dalam General Guidelines for Registration of LLP dan mungkin telah digantikan oleh verifikasi daring"
 
 obligations:
   - what: "Sampaikan pemberitahuan setiap perubahan pada rincian terdaftar PLT"

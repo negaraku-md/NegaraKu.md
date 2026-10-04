@@ -53,10 +53,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Angka By-Laws dipetik daripada edisi April 2024 (pengaki 'Updated 2 January 2024'). Seorang manusia perlu mengesahkan peruntukan penggiliran dan tempoh bersara Section 540 terhadap edisi semasa (dikemas kini November 2024, berkuat kuasa 15 Disember 2024)."
-  - "Takrifan PIE telah diperluas berkuat kuasa 15 Disember 2024, menambah penilaian kepentingan sektoral sesuatu entiti dan potensi kesan sistemik untuk menentukan sama ada entiti lain harus dianggap sebagai PIE. Sahkan susunan kata tepat bagi empat kategori yang disenaraikan dalam edisi By-Laws semasa."
-  - "Lajur jadual penggiliran sejarah 'Previous regime (before 15 Dec 2018)' ialah label editorial; laporan ESB 2018 menajukkan lajur itu sebagai 'Current'. Sahkan label itu terbaca dengan tepat untuk penerbitan."
-  - "Kenyataan media SC menerangkan penglibatan rakan kongsi Grant Thornton (2013–2017) secara umum; sahkan gelaran peranannya yang tepat (rakan kongsi tugasan dan/atau pengulas kualiti tugasan) jika perbezaan itu dinyatakan dalam kandungannya."
+  - "Angka By-Laws dikutip dari edisi April 2024 (footer 'Updated 2 January 2024'). Seorang manusia perlu memverifikasi ketentuan rotasi dan masa jeda Section 540 terhadap edisi terkini (diperbarui November 2024, berlaku 15 Desember 2024)."
+  - "Definisi PIE telah diperluas berlaku 15 Desember 2024, menambahkan penilaian kepentingan sektoral suatu entitas dan potensi dampak sistemik untuk menentukan apakah entitas lain harus dianggap sebagai PIE. Pastikan susunan kata yang tepat bagi empat kategori yang tercantum dalam edisi By-Laws terkini."
+  - "Kolom tabel rotasi historis 'Previous regime (before 15 Dec 2018)' merupakan label editorial; laporan ESB 2018 memberi judul kolom tersebut sebagai 'Current'. Pastikan label tersebut terbaca dengan tepat untuk publikasi."
+  - "Siaran pers SC menjelaskan keterlibatan rekan Grant Thornton (2013–2017) secara umum; pastikan sebutan perannya yang tepat (rekan penugasan dan/atau pengulas kualitas penugasan) jika perbedaan tersebut dinyatakan dalam isinya."
 
 updated: 2026-08-08
 sources:

@@ -46,9 +46,9 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Petikan neutral/pinpoint bagi kes Fortuna sebagaimana diterima pakai oleh mahkamah Malaysia (penghakiman Malaysia memetik kedua-dua (1976) 2 ACLR 349 dan [1978] VR 83)."
-  - "Sahkan senarai statutori penuh pempetisyen di bawah section 464 Companies Act 2016 terhadap cetakan semula semasa, termasuk sama ada pempetisyen khusus pengawal selia (cth. Bank Negara Malaysia, PIDM) perlu disebut."
-  - "Sahkan Gazette Notification No. 4159/2021 kekal sebagai instrumen yang berkuat kuasa dan ambang RM50,000 belum dipinda sejak penerbitan."
+  - "Kutipan netral/pinpoint untuk kasus Fortuna sebagaimana diadopsi oleh pengadilan Malaysia (putusan Malaysia mengutip baik (1976) 2 ACLR 349 maupun [1978] VR 83)."
+  - "Verifikasi daftar statutori lengkap pemohon petisi berdasarkan section 464 Companies Act 2016 terhadap cetak ulang terkini, termasuk apakah pemohon petisi khusus regulator (mis. Bank Negara Malaysia, PIDM) perlu disebutkan."
+  - "Verifikasi Gazette Notification No. 4159/2021 tetap sebagai instrumen yang berlaku dan ambang batas RM50,000 belum diamendemen sejak penerbitan."
 
 updated: 2026-08-07
 sources:

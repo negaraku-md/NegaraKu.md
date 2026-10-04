@@ -43,9 +43,9 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Tarikh akhir 7 hari untuk menyerahkan resolusi penggulungan sukarela ahli kepada SSM di bawah s.439(2)(a) — sahkan seksyen tepat dan kiraan hari terhadap statut/borang SSM."
-  - "Pecahan subseksyen s.316 yang tepat bagi notis urusan biasa (persendirian dan awam kedua-duanya 14 hari, dan peraturan 21 hari bagi resolusi khas) — sahkan penomboran subseksyen yang tepat."
-  - "Sama ada mekanik undian angkat tangan berbanding undi rasmi terdapat dalam s.291(2)/(3) dan s.292(3)/(4) tepat seperti yang diringkaskan — sahkan nombor subseksyen."
+  - "Tenggat 7 hari untuk menyampaikan resolusi pembubaran sukarela anggota kepada SSM di bawah s.439(2)(a) — pastikan pasal yang tepat dan penghitungan hari terhadap undang-undang/formulir SSM."
+  - "Rincian ayat s.316 yang tepat untuk pemberitahuan urusan biasa (swasta dan publik keduanya 14 hari, serta aturan 21 hari untuk resolusi khusus) — pastikan penomoran ayat yang tepat."
+  - "Apakah mekanisme pemungutan suara dengan angkat tangan dibandingkan pemungutan suara resmi (poll) dalam s.291(2)/(3) dan s.292(3)/(4) tepat sebagaimana diringkas — pastikan nomor ayat."
 updated: 2026-08-14
 sources:
   - title: "Companies Act 2016 (Act 777), teks resmi bahasa Inggris (Companies Act 2016 (Act 777), official English text)"

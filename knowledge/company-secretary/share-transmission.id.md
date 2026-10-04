@@ -38,7 +38,7 @@ faq:
     a: "Pasal 109(3) mengenakan segala batasan, pembatasan dan ketentuan subbagian yang berkaitan dengan hak untuk melakukan pengalihan dan pendaftaran pengalihan atas suatu pemberitahuan atau pengalihan berdasarkan s.109(2) — yaitu, atas kasus di mana orang yang berhak itu memilih untuk mendaftarkan orang lain. Oleh karena itu, kuasa apa pun untuk menolak harus dilacak kembali ke Undang-Undang itu atau konstitusi perusahaan, sebagaimana bagi suatu pengalihan biasa berdasarkan s.106(1)(a)."
 
 verificationNeeded:
-  - "Layanan duti setem terhadap peralihan hakmilik di mana tiada surat cara pindah milik disempurnakan tidak disahkan terhadap garis panduan atau ketetapan LHDN semasa; garis panduan penilaian saham 2019 menangani pindah milik, bukan peralihan hakmilik, dan kedudukan itu harus disahkan dengan Pejabat Pengarah Negeri LHDN"
+  - "Perlakuan bea meterai terhadap transmisi hak milik ketika tidak ada instrumen pemindahan hak milik yang disempurnakan belum diverifikasi terhadap pedoman atau ketetapan LHDN terkini; pedoman penilaian saham 2019 menangani pemindahan hak milik, bukan transmisi hak milik, dan posisi itu harus dipastikan dengan Pejabat Pengarah Negeri LHDN"
 
 obligations:
   - what: "Daftarkan orang yang berhak karena peralihan sebagai pemegang saham"

@@ -32,8 +32,8 @@ faq:
     a: "Itulah sebenarnya yang disasar oleh pasal 528. Pembayaran atau pemindahan yang menguntungkan seorang kreditor oleh perusahaan yang tidak mampu membayar utangnya dianggap sebagai preferensi, dan dianggap curang serta batal, apabila likuidasi terjadi dalam periode enam bulan. Untuk likuidasi sukarela, periode enam bulan itu dihitung mundur dari tanggal likuidasi itu dianggap dimulai."
 
 verificationNeeded:
-  - "Companies (Winding Up) Rules menetapkan borang dan perincian prosedur bagi mesyuarat pemiutang yang tidak diteliti di sini dan harus dikendalikan oleh pelikuidasi yang dilantik"
-  - "Sama ada keutamaan gaji pekerja RM15,000 di bawah s.527(1)(b) telah diubah oleh sesuatu instrumen penetapan tidak disahkan — Akta membenarkan jumlah lain ditetapkan"
+  - "Companies (Winding Up) Rules menetapkan formulir dan rincian prosedur bagi rapat kreditor yang tidak ditelaah di sini dan harus ditangani oleh likuidator yang ditunjuk"
+  - "Apakah prioritas gaji pekerja RM15,000 berdasarkan s.527(1)(b) telah diubah oleh suatu instrumen penetapan belum dikonfirmasi — Undang-undang mengizinkan jumlah lain ditetapkan"
 
 obligations:
   - what: "Mengadakan rapat perusahaan dan rapat kreditornya setelah deklarasi berdasarkan s.440"

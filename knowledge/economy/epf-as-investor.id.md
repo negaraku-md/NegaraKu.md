@@ -20,9 +20,9 @@ keyTakeaways:
 appliesTo: "Anggota yang ingin memahami ke mana sebenarnya simpanan EPF mereka pergi, dan siapa saja yang mengkaji peran EPF sebagai investor institusi domestik bersama Khazanah, PNB, dan KWAP."
 
 verificationNeeded:
-  - "Cubaan fetch automatik terus ke kwsp.gov.my memulangkan HTTP 403; setiap angka bersumberkan EPF dalam artikel ini sebaliknya disemak silang dengan sekurang-kurangnya satu laporan bersindiket bagi kenyataan media rasmi yang sama (Malay Mail, Free Malaysia Today, The Vibes, The Edge Malaysia) yang berjaya di-fetch, dengan angka yang sepadan antara sumber — tetapi seorang penyemak manusia harus mengesahkan semula angka utama terus daripada kwsp.gov.my sebelum penerbitan."
-  - "Angka pegangan 28% MGS/GII dan 12% permodalan pasaran FBM Top 100 adalah setakat Disember 2023, pecahan paling terkini yang dilaporkan secara rasmi yang dijumpai; semak semula untuk pendedahan EPF yang lebih terkini bagi metrik yang sama pada semakan seterusnya."
-  - "Angka RM188 bilion / 9% permodalan pasaran ekuiti domestik adalah setakat akhir 2024 mengikut The Edge Malaysia; semak semula berbanding pendedahan EPF sendiri jika ia tersedia."
+  - "Upaya fetch otomatis langsung ke kwsp.gov.my mengembalikan HTTP 403; setiap angka bersumber EPF dalam artikel ini sebagai gantinya diperiksa silang dengan setidaknya satu laporan bersindikasi atas pernyataan media resmi yang sama (Malay Mail, Free Malaysia Today, The Vibes, The Edge Malaysia) yang berhasil di-fetch, dengan angka yang cocok antarsumber — tetapi seorang peninjau manusia harus memverifikasi ulang angka utama langsung dari kwsp.gov.my sebelum publikasi."
+  - "Angka kepemilikan 28% MGS/GII dan 12% kapitalisasi pasar FBM Top 100 adalah per Desember 2023, rincian paling terkini yang dilaporkan secara resmi yang ditemukan; periksa ulang untuk pengungkapan EPF yang lebih terkini atas metrik yang sama pada peninjauan berikutnya."
+  - "Angka RM188 miliar / 9% kapitalisasi pasar ekuitas domestik adalah per akhir 2024 menurut The Edge Malaysia; periksa ulang terhadap pengungkapan EPF sendiri jika tersedia."
 
 lang: "id"
 masterLanguage: "en"

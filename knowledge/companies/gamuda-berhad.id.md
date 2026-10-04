@@ -42,10 +42,10 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Hasil FY2025 dilaporkan sebagai RM15.97 bilion (+20%) oleh The Star dan siaran keputusan Gamuda sendiri, tetapi sesetengah media memetik angka hasil kumpulan ~RM16.4 bilion. Sahkan asas yang mana (hasil berkanun berbanding termasuk bahagian usaha sama/syarikat bersekutu) yang harus digunakan oleh artikel akhir."
-  - "Baris jadual MRT Xizhi Donghu menunjukkan nilai kontrak penuh RM4.3 bilion bagi keselarasan dengan baris Australia; bahagian usaha sama 75% Gamuda ialah kira-kira RM3.2 bilion. Sahkan asas mana yang lebih disukai oleh editor manusia untuk dibentangkan."
-  - "Rekod prestasi metro Taiwan Gamuda yang terdahulu: kenyataan akhbar Oktober 2024 menyebut Xizhi Donghu sebagai 'biggest win to date in Taiwan,' mengesahkan kemenangan terdahulu, tetapi tidak menyatakan bila rekod prestasi itu bermula. Tarikh permulaan 'early 2000s' yang telah dibuang tidak disahkan dan harus disahkan sebelum ditambah semula."
-  - "TBM autonomi yang dipetik bagi Sydney Metro West digunakan pada Western Tunnelling Package yang lebih awal (dianugerahkan 2022), pakej yang berbeza daripada baris Stations Package West (A$2.7 bilion) dalam jadual. Sahkan bahawa kedua-duanya tidak dikelirukan dalam salinan akhir."
+  - "Pendapatan FY2025 dilaporkan sebesar RM15.97 miliar (+20%) oleh The Star dan rilis hasil Gamuda sendiri, tetapi sebagian media mengutip angka pendapatan grup ~RM16.4 miliar. Verifikasi basis mana (pendapatan statutori versus termasuk bagian ventura bersama/perusahaan asosiasi) yang harus digunakan oleh artikel final."
+  - "Baris tabel MRT Xizhi Donghu menunjukkan nilai kontrak penuh RM4.3 miliar demi keselarasan dengan baris Australia; bagian ventura bersama 75% Gamuda sekitar RM3.2 miliar. Verifikasi basis mana yang lebih disukai oleh editor manusia untuk disajikan."
+  - "Rekam jejak metro Taiwan Gamuda yang terdahulu: siaran pers Oktober 2024 menyebut Xizhi Donghu sebagai 'biggest win to date in Taiwan,' yang menegaskan kemenangan terdahulu, tetapi tidak menyatakan kapan rekam jejak itu dimulai. Tanggal mula 'early 2000s' yang telah dihapus tidak terverifikasi dan harus diverifikasi sebelum ditambahkan kembali."
+  - "TBM otonom yang dikutip untuk Sydney Metro West digunakan pada Western Tunnelling Package yang lebih awal (dianugerahkan 2022), paket yang berbeda dari baris Stations Package West (A$2.7 miliar) dalam tabel. Verifikasi bahwa keduanya tidak dikacaukan dalam salinan final."
 revisions:
   - revision: 0
     date: 2026-07-28

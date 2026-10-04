@@ -44,8 +44,8 @@ reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
 verificationNeeded:
-  - "Sahkan angka-angka ini terhadap teks Companies Act 2016 yang berkuat kuasa semasa pada tarikh penggunaan (semak sebarang pindaan selepas cetakan semula 1.8.2022)."
-  - "Penalti pemberitahuan dikaitkan dengan 'seksyen 137–139' sebagai singkatan; setiap seksyen 137, 138 dan 139 membawa peruntukan kesalahan subseksyen (5) tersendiri (denda sahaja, tanpa pemenjaraan). Sahkan bahawa perkataan ini boleh diterima untuk khalayak yang dituju."
+  - "Pastikan angka-angka ini terhadap teks Companies Act 2016 yang berlaku saat ini pada tanggal penggunaan (periksa amandemen apa pun setelah cetak ulang 1.8.2022)."
+  - "Penalti pemberitahuan dikaitkan dengan 'Pasal 137–139' sebagai singkatan; setiap Pasal 137, 138 dan 139 memuat ketentuan pelanggaran ayat (5) tersendiri (denda saja, tanpa pemenjaraan). Pastikan bahwa rumusan kata ini dapat diterima untuk khalayak yang dituju."
 revisions:
   - revision: 0
     date: 2026-08-07

@@ -48,9 +48,9 @@ revisions:
     change: "Reviewed and published."
 
 verificationNeeded:
-  - "Yuran pendaftaran perniagaan dan pihak berkuasa tempatan (yuran enterpris/Sdn Bhd SSM; yuran lesen premis dan papan tanda PBT, yang berbeza mengikut majlis dan keluasan lantai) adalah indikatif daripada panduan sekunder — sahkan terhadap jadual yuran SSM dan pihak berkuasa tempatan tertentu (DBKL/MBPJ/MBSA) sebelum menerbitkan angka."
-  - "Nombor peraturan tepat untuk latihan pengendali makanan dan vaksinasi tifoid (biasanya dipetik sebagai peraturan 30 dan 31 Peraturan-Peraturan Kebersihan Makanan 2009), perubahan sijil 'sah sepanjang hayat', dan selang pembaharuan tifoid harus disahkan verbatim terhadap Peraturan-Peraturan Kebersihan Makanan 2009 yang diterbitkan AGC sebelum memetik nombor tertentu."
-  - "Tarikh akhir 30 hari SOCSO/EIS yang biasa dipetik untuk majikan baharu mendaftar tidak dapat disokong terhadap sumber utama PERKESO — satu-satunya tempoh 30 hari yang ditemui terpakai kepada penamatan status majikan, bukan pendaftaran majikan baharu — jadi sahkan pemasaan pendaftaran semasa dengan PERKESO."
+  - "Biaya pendaftaran usaha dan pemerintah daerah (biaya enterprise/Sdn Bhd SSM; biaya izin premis dan papan reklame PBT, yang berbeda menurut majelis dan luas lantai) bersifat indikatif dari panduan sekunder — verifikasi terhadap jadwal biaya SSM dan pemerintah daerah tertentu (DBKL/MBPJ/MBSA) sebelum menerbitkan angka."
+  - "Nomor peraturan yang tepat untuk pelatihan penjamah makanan dan vaksinasi tifoid (biasanya dikutip sebagai peraturan 30 dan 31 Peraturan-Peraturan Kebersihan Makanan 2009), perubahan sertifikat 'sah seumur hidup', dan interval pembaruan tifoid harus diverifikasi verbatim terhadap Peraturan-Peraturan Kebersihan Makanan 2009 yang diterbitkan AGC sebelum mengutip nomor tertentu."
+  - "Tenggat 30 hari SOCSO/EIS yang biasa dikutip untuk pemberi kerja baru mendaftar tidak dapat didukung terhadap sumber primer PERKESO — satu-satunya periode 30 hari yang ditemukan berlaku untuk pemutusan status pemberi kerja, bukan pendaftaran pemberi kerja baru — jadi verifikasi penentuan waktu pendaftaran terkini dengan PERKESO."
 
 updated: 2026-09-07
 sources:

@@ -23,8 +23,8 @@ keyTakeaways:
 appliesTo: "Pemegang saham asing perusahaan Malaysia dan kepala keuangan yang merencanakan pembagian kepada perusahaan induk di luar negeri."
 
 verificationNeeded:
-  - "Sahkan mekanisme pengiraan pendapatan dividen individu yang boleh dicukai berdasarkan peraturan yang diwartakan sebagai P.U.(A) 148/2025 dan mana-mana garis panduan LHDN yang berikutnya"
-  - "Sahkan sama ada perjanjian percukaian dua hala yang berkenaan mengubah kedudukan seseorang individu bukan pemastautin di bawah Bahagian XXII Jadual 1 — tiada keputusan LHDN mengenai perkara ini ditemui"
+  - "Konfirmasikan mekanisme penghitungan penghasilan dividen individu yang dapat dikenai pajak berdasarkan peraturan yang diundangkan sebagai P.U.(A) 148/2025 dan pedoman LHDN mana pun yang berikutnya"
+  - "Konfirmasikan apakah perjanjian perpajakan bilateral yang berkenaan mengubah posisi seorang individu bukan penduduk berdasarkan Bagian XXII Jadwal 1 — tidak ada keputusan LHDN mengenai hal ini yang ditemukan"
 
 lang: "id"
 masterLanguage: "en"
