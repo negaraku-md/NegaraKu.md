@@ -47,6 +47,13 @@ const aiPillarMax = Math.max(1, ...aiPillars.map((p) => p.n));
 const aiTop = aiTopRaw.sort((a, b) => b.total - a.total).slice(0, 8)
   .map((x) => ({ ...x, title: titleByKey.get(x.key) ?? x.key }));
 const aiTopMax = Math.max(1, ...aiTop.map((x) => x.total));
+// AI explorer — one metric (fetches) × crawler / pillar / article.
+const axMetrics = [{ k: 'fetches', label: L('Lawatan', 'Fetches', '抓取', 'பெறுதல்கள்', '取得', '가져오기', 'การดึง', 'Lượt lấy', 'Pengambilan') }];
+const axDims = [
+  { k: 'bot', label: L('Perayap', 'Crawler', '爬虫', 'கிராலர்', 'クローラー', '크롤러', 'บอต', 'Trình thu thập', 'Perayap'), rows: aiBots.map((b) => ({ label: b.bot, fetches: b.n })) },
+  { k: 'pillar', label: L('Tunjang', 'Pillar', '支柱', 'தூண்', '柱', '기둥', 'เสาหลัก', 'Trụ cột', 'Pilar'), rows: aiPillars.map((p) => ({ label: `${p.icon} ${p.name}`, fetches: p.n })) },
+  { k: 'article', label: L('Artikel', 'Article', '文章', 'கட்டுரை', '記事', '기사', 'บทความ', 'Bài viết', 'Artikel'), rows: aiTop.map((a) => ({ label: a.title, fetches: a.total, href: localePath(`/${a.key}`, locale) })) },
+];
 
 // Traffic by channel — where human readers arrive from (search / AI / social /
 // messaging / other / direct), classified from the referrer + UTM at the edge
@@ -76,6 +83,12 @@ const refChMax = Math.max(1, ...refChannels.map((c) => c.n));
 const refSources = [...refBySource.entries()].filter(([s]) => s !== 'direct')
   .sort((a, b) => b[1] - a[1]).slice(0, 10).map(([source, n]) => ({ source, n }));
 const refSourceMax = Math.max(1, ...refSources.map((s) => s.n));
+// Readers channel explorer — visits × channel / source.
+const rxMetrics = [{ k: 'visits', label: L('Lawatan', 'Visits', '访问', 'வருகைகள்', '訪問', '방문', 'การเข้าชม', 'Lượt truy cập', 'Kunjungan') }];
+const rxDims = [
+  { k: 'channel', label: L('Saluran', 'Channel', '渠道', 'சேனல்', 'チャネル', '채널', 'ช่องทาง', 'Kênh', 'Saluran'), rows: refChannels.map((c) => ({ label: `${c.icon} ${c.label}`, visits: c.n })) },
+  { k: 'source', label: L('Sumber', 'Source', '来源', 'மூலம்', '流入元', '소스', 'แหล่งที่มา', 'Nguồn', 'Sumber'), rows: refSources.map((s) => ({ label: s.source, visits: s.n })) },
+];
 
 // Google Search performance (archive: analytics/gsc.json) — trailing-90-day
 // totals, impressions grouped to pillars from the per-category split, and top
@@ -179,6 +192,22 @@ const metricLabels = {
   search: L('Perayap carian', 'Search crawlers', '搜索爬虫', 'தேடல் கிராலர்கள்', '検索クローラー', '검색 크롤러', 'โปรแกรมรวบรวมข้อมูลการค้นหา', 'Trình thu thập dữ liệu tìm kiếm', 'Perayap pencarian'),
 };
 const seoLabels = { impressions: L('Tera', 'Impressions', '展示', 'காட்சிகள்', '表示', '노출', 'การแสดงผล', 'Lượt hiển thị', 'Tayangan'), clicks: L('Klik', 'Clicks', '点击', 'கிளிக்குகள்', 'クリック', '클릭', 'การคลิก', 'Lượt nhấp', 'Klik') };
+// Search explorer — metric × dimension (impressions first-class). Impressions /
+// Clicks / CTR, broken down by query or by pillar. All combos baked server-side;
+// a tiny toggle picks one (bars are %-width, so nothing breaks when hidden).
+const val = (r: Record<string, number>, k: string) => (r[k] ?? 0);
+const sxFmt = (m: string, v: number) => (m === 'ctr' ? `${(v * 100).toFixed(1)}%` : Math.round(v).toLocaleString());
+const gscQ = (gsc.latest?.topQueries ?? []).slice(0, 12).map((q) => ({ label: q.query, impressions: q.impressions || 0, clicks: q.clicks || 0, ctr: q.impressions ? q.clicks / q.impressions : 0 }));
+const gscP = gscPillars.map((p) => ({ label: `${p.icon} ${p.name}`, impressions: p.impressions, clicks: p.clicks, ctr: p.impressions ? p.clicks / p.impressions : 0 }));
+const sxDims = [
+  { k: 'query', label: L('Kata carian', 'Query', '搜索词', 'வினவல்', 'クエリ', '검색어', 'คำค้นหา', 'Truy vấn', 'Kueri'), rows: gscQ },
+  { k: 'pillar', label: L('Tunjang', 'Pillar', '支柱', 'தூண்', '柱', '기둥', 'เสาหลัก', 'Trụ cột', 'Pilar'), rows: gscP },
+];
+const sxMetrics = [
+  { k: 'impressions', label: seoLabels.impressions },
+  { k: 'clicks', label: seoLabels.clicks },
+  { k: 'ctr', label: 'CTR' },
+];
 const aiBotAccruing = L(
   'Data setiap bot mula terkumpul — carta muncul apabila cukup hari direkodkan.',
   'Per-bot data is accumulating — the chart appears once enough days are recorded.',
@@ -1033,41 +1062,38 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
               `AI/LLM 크롤러가 ${aiBots.length}개의 서로 다른 크롤러로부터 이 사이트를 ${aiPages.toLocaleString()}개 기사에 걸쳐 ${aiTotal.toLocaleString()}회 가져갔습니다 — 전체 기간.`, `โปรแกรมรวบรวมข้อมูล AI/LLM ได้ดึงข้อมูลเว็บไซต์นี้ ${aiTotal.toLocaleString()} ครั้ง ครอบคลุม ${aiPages.toLocaleString()} บทความ จากโปรแกรมรวบรวมข้อมูลที่แตกต่างกัน ${aiBots.length} รายการ — ตลอดกาล`, `Trình thu thập dữ liệu AI/LLM đã truy xuất trang này ${aiTotal.toLocaleString()} lần trên ${aiPages.toLocaleString()} bài viết, từ ${aiBots.length} trình thu thập khác nhau — toàn thời gian.`, `Perayap AI/LLM telah mengambil situs ini ${aiTotal.toLocaleString()} kali mencakup ${aiPages.toLocaleString()} artikel, dari ${aiBots.length} perayap berbeda — sepanjang waktu.`,
             )}
           </p>
-          <div class="ai-grid">
-            <div>
-              <p class="ai-h">{L('Mengikut perayap', 'By crawler', '按爬虫', 'கிராலர் வாரியாக', 'クローラー別', '크롤러별', 'ตามโปรแกรมรวบรวมข้อมูล', 'Theo trình thu thập', 'Berdasarkan perayap')}</p>
-              <div class="cov-cats">
-                {aiBots.map((b) => (
-                  <div class="cov-row ai-row">
-                    <span class="cov-name" title={b.bot}>{b.bot}</span>
-                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((b.n / aiBotMax) * 100))}%`} /></span>
-                    <span class="cov-num">{b.n.toLocaleString()}</span>
-                  </div>
+          <div class="sx" data-sx>
+            <div class="sx-ctrls">
+              <span class="sx-by">{L('mengikut', 'by', '按', 'வாரியாக', '別', '기준', 'ตาม', 'theo', 'menurut')}</span>
+              <div class="sx-grp" role="group" aria-label="Dimension">
+                {axDims.map((dmn, i) => (
+                  <button type="button" class:list={['sx-pill', { on: i === 0 }]} data-sx-d={dmn.k}>{dmn.label}</button>
                 ))}
               </div>
             </div>
-            <div>
-              <p class="ai-h">{L('Mengikut tunjang', 'By pillar', '按支柱', 'தூண் வாரியாக', '柱別', '기둥별', 'ตามเสาหลัก', 'Theo trụ cột', 'Berdasarkan pilar')}</p>
-              <div class="cov-cats">
-                {aiPillars.map((p) => (
-                  <div class="cov-row ai-row">
-                    <span class="cov-name">{p.icon} {p.name}</span>
-                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((p.n / aiPillarMax) * 100))}%`} /></span>
-                    <span class="cov-num">{p.n.toLocaleString()}</span>
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-          <p class="ai-h ai-h-top">{L('Artikel paling banyak dirayapi', 'Most-crawled articles', '被抓取最多的文章', 'அதிகம் கிராலர் பெற்ற கட்டுரைகள்', '最も多くクロールされた記事', '가장 많이 크롤링된 기사', 'บทความที่ถูกรวบรวมข้อมูลมากที่สุด', 'Bài viết được thu thập nhiều nhất', 'Artikel paling banyak dirayapi')}</p>
-          <div class="cov-cats ai-top">
-            {aiTop.map((a) => (
-              <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
-                <span class="cov-name" title={a.title}>{a.title}</span>
-                <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((a.total / aiTopMax) * 100))}%`} /></span>
-                <span class="cov-num">{a.total.toLocaleString()}</span>
-              </a>
-            ))}
+            {axDims.map((dmn) => axMetrics.map((m) => {
+              const max = Math.max(1, ...dmn.rows.map((r) => val(r, m.k)));
+              const rows = [...dmn.rows].sort((a, b) => val(b, m.k) - val(a, m.k));
+              return (
+                <div class="sx-view cov-cats" data-sx-view data-d={dmn.k} data-m={m.k} hidden={!(dmn.k === 'bot')}>
+                  {rows.map((r) => (
+                    r.href ? (
+                      <a class="cov-row" href={r.href}>
+                        <span class="cov-name" title={r.label}>{r.label}</span>
+                        <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((val(r, m.k) / max) * 100))}%`} /></span>
+                        <span class="cov-num">{val(r, m.k).toLocaleString()}</span>
+                      </a>
+                    ) : (
+                      <div class="cov-row ai-row">
+                        <span class="cov-name" title={r.label}>{r.label}</span>
+                        <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((val(r, m.k) / max) * 100))}%`} /></span>
+                        <span class="cov-num">{val(r, m.k).toLocaleString()}</span>
+                      </div>
+                    )
+                  ))}
+                </div>
+              );
+            }))}
           </div>
         </>
       )}
@@ -1098,35 +1124,30 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
             `${refTotal.toLocaleString()} 件の読者訪問を流入元別に分類しました — 累計。`,
             `${refTotal.toLocaleString()}회의 독자 방문을 유입 경로별로 분류했습니다 — 전체 기간.`, `${refTotal.toLocaleString()} การเข้าชมของผู้อ่านถูกจำแนกตามแหล่งที่มา — ตลอดกาล`, `${refTotal.toLocaleString()} lượt truy cập của độc giả được phân loại theo nguồn đến — toàn thời gian.`, `${refTotal.toLocaleString()} kunjungan pembaca diklasifikasikan berdasarkan asal rujukan — sepanjang waktu.`,
           )}</p>
-          <div class="ai-grid">
-            <div>
-              <p class="ai-h">{L('Mengikut saluran', 'By channel', '按渠道', 'சேனல் வாரியாக', 'チャネル別', '채널별', 'ตามช่องทาง', 'Theo kênh', 'Berdasarkan saluran')}</p>
-              <div class="cov-cats">
-                {refChannels.map((c) => (
-                  <div class="cov-row ai-row">
-                    <span class="cov-name">{c.icon} {c.label}</span>
-                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((c.n / refChMax) * 100))}%`} /></span>
-                    <span class="cov-num">{c.n.toLocaleString()}</span>
-                  </div>
+          <div class="sx" data-sx>
+            <div class="sx-ctrls">
+              <span class="sx-by">{L('mengikut', 'by', '按', 'வாரியாக', '別', '기준', 'ตาม', 'theo', 'menurut')}</span>
+              <div class="sx-grp" role="group" aria-label="Dimension">
+                {rxDims.map((dmn, i) => (
+                  <button type="button" class:list={['sx-pill', { on: i === 0 }]} data-sx-d={dmn.k}>{dmn.label}</button>
                 ))}
               </div>
             </div>
-            <div>
-              <p class="ai-h">{L('Sumber teratas', 'Top sources', '主要来源', 'முதன்மை மூலங்கள்', '主な流入元', '주요 소스', 'แหล่งที่มายอดนิยม', 'Nguồn hàng đầu', 'Sumber teratas')}</p>
-              {refSources.length === 0 ? (
-                <p class="hint" style="margin:0">{L('Kebanyakannya trafik terus.', 'Mostly direct traffic.', '大多为直接访问。', 'பெரும்பாலும் நேரடி போக்குவரத்து.', 'ほとんどが直接トラフィックです。', '대부분 직접 유입입니다.', 'ส่วนใหญ่เป็นทราฟฟิกโดยตรง', 'Chủ yếu là lưu lượng trực tiếp.', 'Sebagian besar lalu lintas langsung.')}</p>
-              ) : (
-                <div class="cov-cats">
-                  {refSources.map((s) => (
+            {rxDims.map((dmn) => rxMetrics.map((m) => {
+              const max = Math.max(1, ...dmn.rows.map((r) => val(r, m.k)));
+              const rows = [...dmn.rows].sort((a, b) => val(b, m.k) - val(a, m.k));
+              return (
+                <div class="sx-view cov-cats" data-sx-view data-d={dmn.k} data-m={m.k} hidden={!(dmn.k === 'channel')}>
+                  {rows.map((r) => (
                     <div class="cov-row ai-row">
-                      <span class="cov-name" title={s.source}>{s.source}</span>
-                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((s.n / refSourceMax) * 100))}%`} /></span>
-                      <span class="cov-num">{s.n.toLocaleString()}</span>
+                      <span class="cov-name" title={r.label}>{r.label}</span>
+                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((val(r, m.k) / max) * 100))}%`} /></span>
+                      <span class="cov-num">{val(r, m.k).toLocaleString()}</span>
                     </div>
                   ))}
                 </div>
-              )}
-            </div>
+              );
+            }))}
           </div>
         </>
       )}
@@ -1181,35 +1202,35 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
             `過去90日: ${gscTotals.impressions.toLocaleString()} 表示 · ${gscTotals.clicks.toLocaleString()} クリック · CTR ${gscTotals.ctr}% · 平均掲載順位 ${gscTotals.position}。${gscMonths} か月分をアーカイブ。`,
             `지난 90일: ${gscTotals.impressions.toLocaleString()} 노출 · ${gscTotals.clicks.toLocaleString()} 클릭 · CTR ${gscTotals.ctr}% · 평균 순위 ${gscTotals.position}. ${gscMonths}개월 보관됨.`, `90 วันล่าสุด: ${gscTotals.impressions.toLocaleString()} การแสดงผล · ${gscTotals.clicks.toLocaleString()} การคลิก · CTR ${gscTotals.ctr}% · อันดับเฉลี่ย ${gscTotals.position}. เก็บถาวรไว้ ${gscMonths} เดือน`, `90 ngày qua: ${gscTotals.impressions.toLocaleString()} lượt hiển thị · ${gscTotals.clicks.toLocaleString()} lượt nhấp · CTR ${gscTotals.ctr}% · vị trí trung bình ${gscTotals.position}. Đã lưu trữ ${gscMonths} tháng.`, `90 hari terakhir: ${gscTotals.impressions.toLocaleString()} tayangan · ${gscTotals.clicks.toLocaleString()} klik · CTR ${gscTotals.ctr}% · posisi rata-rata ${gscTotals.position}. ${gscMonths} bulan diarsipkan.`,
           )}</p>
-          <div class="ai-grid">
-            <div>
-              <p class="ai-h">{L('Tera mengikut tunjang', 'Impressions by pillar', '各支柱展示', 'தூண் வாரியான காட்சிகள்', '柱別の表示回数', '기둥별 노출', 'การแสดงผลตามเสาหลัก', 'Lượt hiển thị theo trụ cột', 'Tayangan berdasarkan pilar')}</p>
-              {gscPillars.length === 0 ? <p class="hint" style="margin:0">—</p> : (
-                <div class="cov-cats">
-                  {gscPillars.map((p) => (
+          <div class="sx" data-sx>
+            <div class="sx-ctrls">
+              <div class="sx-grp" role="group" aria-label="Metric">
+                {sxMetrics.map((m, i) => (
+                  <button type="button" class:list={['sx-pill', { on: i === 0 }]} data-sx-m={m.k}>{m.label}</button>
+                ))}
+              </div>
+              <span class="sx-by">{L('mengikut', 'by', '按', 'வாரியாக', '別', '기준', 'ตาม', 'theo', 'menurut')}</span>
+              <div class="sx-grp" role="group" aria-label="Dimension">
+                {sxDims.map((dmn, i) => (
+                  <button type="button" class:list={['sx-pill', { on: i === 0 }]} data-sx-d={dmn.k}>{dmn.label}</button>
+                ))}
+              </div>
+            </div>
+            {sxDims.map((dmn) => sxMetrics.map((m) => {
+              const max = Math.max(1, ...dmn.rows.map((r) => val(r, m.k)));
+              const rows = [...dmn.rows].sort((a, b) => val(b, m.k) - val(a, m.k));
+              return (
+                <div class="sx-view cov-cats" data-sx-view data-d={dmn.k} data-m={m.k} hidden={!(dmn.k === 'query' && m.k === 'impressions')}>
+                  {rows.map((r) => (
                     <div class="cov-row ai-row">
-                      <span class="cov-name">{p.icon} {p.name}</span>
-                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((p.impressions / gscPillarMax) * 100))}%`} /></span>
-                      <span class="cov-num">{p.impressions.toLocaleString()}</span>
+                      <span class="cov-name" title={r.label}>{r.label}</span>
+                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((val(r, m.k) / max) * 100))}%`} /></span>
+                      <span class="cov-num">{sxFmt(m.k, val(r, m.k))}</span>
                     </div>
                   ))}
                 </div>
-              )}
-            </div>
-            <div>
-              <p class="ai-h">{L('Carian teratas', 'Top queries', '热门搜索', 'முதன்மை வினவல்கள்', '上位クエリ', '상위 쿼리', 'คำค้นหายอดนิยม', 'Truy vấn hàng đầu', 'Kueri teratas')}</p>
-              {gscQueries.length === 0 ? <p class="hint" style="margin:0">—</p> : (
-                <div class="cov-cats">
-                  {gscQueries.map((q) => (
-                    <div class="cov-row ai-row">
-                      <span class="cov-name" title={q.query}>{q.query}</span>
-                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((q.impressions / gscQueryMax) * 100))}%`} /></span>
-                      <span class="cov-num">{q.impressions.toLocaleString()}</span>
-                    </div>
-                  ))}
-                </div>
-              )}
-            </div>
+              );
+            }))}
           </div>
         </>
       )}
@@ -1405,6 +1426,29 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 </div>
 
 <script>
+  // Metric × dimension explorers (Search, …): toggle which pre-rendered view shows.
+  document.querySelectorAll<HTMLElement>('[data-sx]').forEach((sx) => {
+    // Defaults = whichever view the server rendered visible (so each explorer can
+    // bring its own metrics/dimensions — Search, AI, Readers, …).
+    const def = sx.querySelector<HTMLElement>('[data-sx-view]:not([hidden])') || sx.querySelector<HTMLElement>('[data-sx-view]');
+    let m = def?.dataset.m || '', d = def?.dataset.d || '';
+    const apply = () => {
+      sx.querySelectorAll<HTMLElement>('[data-sx-m]').forEach((b) => b.classList.toggle('on', b.dataset.sxM === m));
+      sx.querySelectorAll<HTMLElement>('[data-sx-d]').forEach((b) => b.classList.toggle('on', b.dataset.sxD === d));
+      sx.querySelectorAll<HTMLElement>('[data-sx-view]').forEach((v) => { v.hidden = !(v.dataset.d === d && v.dataset.m === m); });
+    };
+    sx.addEventListener('click', (e) => {
+      const t = (e.target as HTMLElement).closest<HTMLElement>('[data-sx-m],[data-sx-d]');
+      if (!t) return;
+      if (t.dataset.sxM) m = t.dataset.sxM;
+      if (t.dataset.sxD) d = t.dataset.sxD;
+      apply();
+    });
+    apply();
+  });
+</script>
+
+<script>
   // Scroll-spy: highlight the zone pill for the section currently in view.
   const pills = [...document.querySelectorAll<HTMLAnchorElement>('.a-zpill')];
   const zones = pills.map((p) => document.getElementById(p.dataset.zone || '')).filter((z): z is HTMLElement => !!z);
@@ -1482,6 +1526,15 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     .a-zones::-webkit-scrollbar { display: none; }
     .a-zh h2 { font-size: 1.25rem; }
   }
+
+  /* Metric × dimension explorer (pick a metric, pick a dimension → bar list). */
+  .sx-ctrls { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.7rem; margin-bottom: 1rem; }
+  .sx-by { color: var(--muted); font-size: 0.82rem; }
+  .sx-grp { display: inline-flex; gap: 0.1rem; background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 0.15rem; }
+  .sx-pill { font: inherit; font-size: 0.78rem; font-weight: 700; line-height: 1.4; padding: 0.25rem 0.75rem; border-radius: 999px; border: 0; background: transparent; color: var(--muted); cursor: pointer; transition: background 0.12s ease, color 0.12s ease; }
+  .sx-pill:hover { color: var(--gold); }
+  .sx-pill.on { background: var(--gold); color: var(--accent-contrast); }
+  .sx-view[hidden] { display: none; }
   .acc-note {
     border: 1px solid var(--line); border-left: 3px solid var(--gold); border-radius: 10px;
     background: var(--surface); color: var(--ink-soft); font-size: 0.85rem; line-height: 1.6;
