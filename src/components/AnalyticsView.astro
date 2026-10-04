@@ -401,7 +401,22 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   )}
 />
 
-<section class="container block">
+<nav class="a-zones container" aria-label={L('Bahagian analitik', 'Analytics sections', '分析板块', 'பகுப்பாய்வு பிரிவுகள்', '分析セクション', '분석 섹션', 'ส่วนการวิเคราะห์', 'Mục phân tích', 'Bagian analitik')}>
+  <a href="#z-overview" class="a-zpill" data-zone="z-overview">{L('Gambaran', 'Overview', '概览', 'கண்ணோட்டம்', '概要', '개요', 'ภาพรวม', 'Tổng quan', 'Ikhtisar')}</a>
+  <a href="#z-readers" class="a-zpill" data-zone="z-readers"><span aria-hidden="true">👤</span> {metricLabels.visitors}</a>
+  <a href="#z-search" class="a-zpill" data-zone="z-search"><span aria-hidden="true">🔍</span> {CHANNEL_META.search.label}</a>
+  <a href="#z-ai" class="a-zpill" data-zone="z-ai"><span aria-hidden="true">✨</span> AI</a>
+  <a href="#z-social" class="a-zpill" data-zone="z-social"><span aria-hidden="true">💬</span> {CHANNEL_META.social.label}</a>
+</nav>
+
+<div class="a-flow">
+  <header class="a-zh" id="z-overview" style="order:9"><h2>{L('Gambaran keseluruhan', 'Overview', '概览', 'ஒட்டுமொத்தக் கண்ணோட்டம்', '概要', '개요', 'ภาพรวม', 'Tổng quan', 'Ikhtisar')}</h2><p>{L('Ketiga-tiga jenis pelawat dari masa ke masa, dengan alat penerokaan.', 'All three visitor types over time, with the exploration tools.', '三类访客随时间变化，附探索工具。', 'மூன்று வருகையாளர் வகைகளும் காலப்போக்கில், ஆய்வுக் கருவிகளுடன்.', '3種類の訪問者の推移と探索ツール。', '시간에 따른 세 가지 방문자 유형과 탐색 도구.', 'ผู้เยี่ยมชมทั้งสามประเภทตามเวลา พร้อมเครื่องมือสำรวจ', 'Cả ba loại khách theo thời gian, cùng công cụ khám phá.', 'Ketiga jenis pengunjung dari waktu ke waktu, dengan alat eksplorasi.')}</p></header>
+  <header class="a-zh" id="z-readers" style="order:20"><h2><span aria-hidden="true">👤</span> {metricLabels.visitors}</h2><p>{L('Manusia — dari mana mereka datang, apa yang mereka baca, dan berapa lama.', 'Humans — where they come from, what they read, and for how long.', '真人——他们来自哪里、阅读什么、停留多久。', 'மனிதர்கள் — அவர்கள் எங்கிருந்து வருகிறார்கள், எதைப் படிக்கிறார்கள், எவ்வளவு நேரம்.', '人間 — どこから来て、何を読み、どれくらい滞在するか。', '사람 — 어디에서 오고, 무엇을 읽고, 얼마나 머무는지.', 'มนุษย์ — มาจากไหน อ่านอะไร และนานแค่ไหน', 'Con người — họ đến từ đâu, đọc gì và trong bao lâu.', 'Manusia — dari mana mereka datang, apa yang mereka baca, dan berapa lama.')}</p></header>
+  <header class="a-zh" id="z-search" style="order:30"><h2><span aria-hidden="true">🔍</span> {CHANNEL_META.search.label}</h2><p>{L('Enjin carian — tera, klik dan kedudukan dari Google & Bing.', 'Search engines — impressions, clicks and position from Google & Bing.', '搜索引擎——来自 Google 和 Bing 的展示、点击与排名。', 'தேடல் இயந்திரங்கள் — Google & Bing இலிருந்து காட்சிகள், கிளிக்குகள், தரவரிசை.', '検索エンジン — Google と Bing の表示・クリック・順位。', '검색 엔진 — Google 및 Bing의 노출, 클릭, 순위.', 'เครื่องมือค้นหา — การแสดงผล คลิก และอันดับจาก Google และ Bing', 'Công cụ tìm kiếm — lượt hiển thị, nhấp và vị trí từ Google & Bing.', 'Mesin pencari — tayangan, klik, dan posisi dari Google & Bing.')}</p></header>
+  <header class="a-zh" id="z-ai" style="order:40"><h2><span aria-hidden="true">✨</span> AI</h2><p>{L('Perayap LLM — bot mana yang membaca artikel mana.', 'LLM crawlers — which bots read which articles.', 'LLM 爬虫——哪些机器人读取哪些文章。', 'LLM கிராலர்கள் — எந்த bot-கள் எந்தக் கட்டுரைகளைப் படிக்கின்றன.', 'LLM クローラー — どのボットがどの記事を読むか。', 'LLM 크롤러 — 어떤 봇이 어떤 기사를 읽는지.', 'โปรแกรมรวบรวมข้อมูล LLM — บอตใดอ่านบทความใด', 'Trình thu thập LLM — bot nào đọc bài viết nào.', 'Perayap LLM — bot mana membaca artikel mana.')}</p></header>
+  <header class="a-zh" id="z-social" style="order:50"><h2><span aria-hidden="true">💬</span> {CHANNEL_META.social.label}</h2><p>{L('Halaman Facebook setiap bahasa.', 'The per-language Facebook Pages.', '各语言的 Facebook 主页。', 'ஒவ்வொரு மொழியின் Facebook பக்கங்கள்.', '言語別の Facebook ページ。', '언어별 Facebook 페이지.', 'เพจ Facebook แยกตามภาษา', 'Các Trang Facebook theo ngôn ngữ.', 'Halaman Facebook per bahasa.')}</p></header>
+
+  <section class="container block">
   <div class="tx-tiles">
     <div class="tx-tile">
       <span class="tx-k">{exLabels.visitors}</span>
@@ -1387,9 +1402,86 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     </div>
   </div>
 </section>
+</div>
+
+<script>
+  // Scroll-spy: highlight the zone pill for the section currently in view.
+  const pills = [...document.querySelectorAll<HTMLAnchorElement>('.a-zpill')];
+  const zones = pills.map((p) => document.getElementById(p.dataset.zone || '')).filter((z): z is HTMLElement => !!z);
+  if (zones.length && 'IntersectionObserver' in window) {
+    let active = '';
+    const setCur = (id: string) => {
+      if (id === active) return;
+      active = id;
+      pills.forEach((p) => p.classList.toggle('current', p.dataset.zone === id));
+    };
+    const io = new IntersectionObserver((entries) => {
+      const vis = entries.filter((e) => e.isIntersecting).sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+      if (vis[0]) setCur((vis[0].target as HTMLElement).id);
+    }, { rootMargin: '-82px 0px -68% 0px', threshold: 0 });
+    zones.forEach((z) => io.observe(z));
+    setCur(zones[0].id);
+  }
+</script>
 
 <style>
   .block { margin-top: 1.6rem; }
+
+  /* --- Analytics zones -----------------------------------------------------
+     Group the sections by VISITOR TYPE (Overview · Readers · Search · AI ·
+     Social) using flex `order` — so nothing moves in the DOM and no width-
+     measuring chart is ever hidden (which display:none tabs would break).
+     The nth-of-type map follows the DOM order of the 13 top-level sections. */
+  .a-flow { display: flex; flex-direction: column; }
+  .a-flow > section:nth-of-type(1)  { order: 10; } /* headline tiles        → Overview */
+  .a-flow > section:nth-of-type(2)  { order: 12; } /* traffic explorer      → Overview */
+  .a-flow > section:nth-of-type(3)  { order: 13; } /* live query            → Overview */
+  .a-flow > section:nth-of-type(4)  { order: 11; } /* trends over time      → Overview */
+  .a-flow > section:nth-of-type(5)  { order: 14; } /* explore pivot         → Overview */
+  .a-flow > section:nth-of-type(6)  { order: 41; } /* AI crawlers           → AI */
+  .a-flow > section:nth-of-type(7)  { order: 21; } /* traffic by channel    → Readers */
+  .a-flow > section:nth-of-type(8)  { order: 22; } /* most-read articles    → Readers */
+  .a-flow > section:nth-of-type(9)  { order: 31; } /* Google Search         → Search */
+  .a-flow > section:nth-of-type(10) { order: 51; } /* Facebook engagement   → Social */
+  .a-flow > section:nth-of-type(11) { order: 23; } /* on-site engagement    → Readers */
+  .a-flow > section:nth-of-type(12) { order: 24; } /* what readers open next→ Readers */
+  .a-flow > section:nth-of-type(13) { order: 32; } /* Bing & Copilot        → Search */
+
+  /* Zone heading banner before each group. */
+  .a-zh { scroll-margin-top: 76px; margin-top: 2.2rem; }
+  .a-zh:first-of-type { margin-top: 1.4rem; }
+  .a-zh h2 {
+    display: flex; align-items: center; gap: 0.5rem;
+    margin: 0 0 0.2rem; font-family: var(--font-title); font-weight: 800;
+    font-size: 1.5rem; letter-spacing: -0.01em; color: var(--ink);
+    padding-bottom: 0.5rem; border-bottom: 2px solid color-mix(in srgb, var(--gold) 45%, var(--line));
+  }
+  .a-zh p { margin: 0.5rem 0 0; color: var(--muted); font-size: 0.9rem; line-height: 1.5; }
+
+  /* Sticky jump-nav — a floating pill tray centred at container width. */
+  .a-zones {
+    position: sticky; top: 8px; z-index: 30;
+    display: flex; flex-wrap: wrap; gap: 0.35rem;
+    margin-top: 1.1rem; padding: 0.4rem;
+    background: color-mix(in srgb, var(--surface) 88%, transparent);
+    backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+    border: 1px solid var(--line); border-radius: 999px;
+    box-shadow: var(--shadow-card);
+  }
+  .a-zpill {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    padding: 0.35rem 0.8rem; border-radius: 999px;
+    font-size: 0.82rem; font-weight: 700; letter-spacing: 0.01em;
+    color: var(--ink-soft); text-decoration: none; white-space: nowrap;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+  .a-zpill:hover { background: var(--surface-2); color: var(--gold); }
+  .a-zpill.current { background: var(--gold); color: var(--accent-contrast); }
+  @media (max-width: 640px) {
+    .a-zones { overflow-x: auto; flex-wrap: nowrap; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+    .a-zones::-webkit-scrollbar { display: none; }
+    .a-zh h2 { font-size: 1.25rem; }
+  }
   .acc-note {
     border: 1px solid var(--line); border-left: 3px solid var(--gold); border-radius: 10px;
     background: var(--surface); color: var(--ink-soft); font-size: 0.85rem; line-height: 1.6;
