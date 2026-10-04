@@ -23,9 +23,12 @@ ClaudeBot/GPTBot/PerplexityBot/…). Buckets are set by User-Agent in `worker/sr
 **[me] Redesign — ✅ PHASE 1 (structure) DONE 2026-10-04 (commit c2acc3ac):** /analytics reorganized
 from a flat scroll into zones by visitor type — sticky jump-nav (Overview · Readers · Search · AI ·
 Social) with scroll-spy, zone headers, sections regrouped via CSS flex `order`+nth-of-type (no DOM
-move, nothing display:none'd so charts never break). Verified live all 5 zones. **PHASE 2 (remaining):**
-unify each zone's panels into ONE consistent metric×dimension explorer (toggle metric, pick dimension),
-and surface impressions as a first-class Search metric — see the metrics×dimensions model below.
+move, nothing display:none'd so charts never break). Verified live all 5 zones. **✅ PHASE 2 DONE 2026-10-04 (commit 67c66ee9):** each zone's lead panel is now one consistent
+metric×dimension explorer (shared widget, pre-rendered views toggled by a tiny controller) —
+Search: Impressions/Clicks/CTR × Query/Pillar (impressions first-class, the user ask); AI: Fetches ×
+Crawler/Pillar/Article; Readers: Visits × Channel/Source. Verified live. Possible future polish:
+extend the Readers explorer to more metrics (dwell/scroll) and add geo/device dims once the edge cube
+accrues them; fold FB reach/impressions into Social when the archive has data.
 
 **Model it as METRICS × DIMENSIONS** (user ask 2026-10-04 — "include impression"):
 - **Metrics (what we count):** visits · **impressions** · clicks · CTR · position · dwell · scroll · reach.
