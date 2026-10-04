@@ -239,6 +239,7 @@ const pivotRows = Object.entries(analytics).map(([key, row]) => {
   const cat = key.split('/')[0];
   const pillar = getPillar(cat) ?? 'understand';
   return {
+    key,
     title: titleByKey.get(key) ?? key,
     cat: catNameOf(cat),
     pillar: pillarNameOf(pillar),
@@ -246,10 +247,37 @@ const pivotRows = Object.entries(analytics).map(([key, row]) => {
     ai: bTotal(row.ai),
     search: bTotal(row.search),
     dwellW: (row.engage?.avgSeconds ?? 0) * (row.engage?.samples ?? 0),
+    scrollW: (row.engage?.avgScroll ?? 0) * (row.engage?.samples ?? 0),
     samples: row.engage?.samples ?? 0,
     ch: row.ref?.byChannel ?? {},
   };
 }).filter((r) => r.readers > 0 || r.ai > 0 || r.search > 0 || r.samples > 0);
+
+// Readers content explorer — Visits / Dwell / Scroll × Pillar / Category / Article.
+// Aggregated from the per-article pivot rows (dwell & scroll are sample-weighted).
+function cxAgg(keyer: (r: typeof pivotRows[number]) => { k: string; label: string; href?: string } | null) {
+  const m = new Map<string, { label: string; href?: string; visits: number; dwellW: number; scrollW: number; samples: number }>();
+  for (const r of pivotRows) {
+    const g = keyer(r);
+    if (!g) continue;
+    const e = m.get(g.k) ?? { label: g.label, href: g.href, visits: 0, dwellW: 0, scrollW: 0, samples: 0 };
+    e.visits += r.readers; e.dwellW += r.dwellW; e.scrollW += r.scrollW; e.samples += r.samples;
+    m.set(g.k, e);
+  }
+  return [...m.values()].map((e) => ({ label: e.label, href: e.href, visits: e.visits, dwell: e.samples ? e.dwellW / e.samples : 0, scroll: e.samples ? e.scrollW / e.samples : 0 }));
+}
+const cxDims = [
+  { k: 'pillar', label: L('Tunjang', 'Pillar', '支柱', 'தூண்', '柱', '기둥', 'เสาหลัก', 'Trụ cột', 'Pilar'), rows: cxAgg((r) => ({ k: r.pillar, label: r.pillar })) },
+  { k: 'category', label: L('Kategori', 'Category', '分类', 'வகை', 'カテゴリー', '카테고리', 'หมวดหมู่', 'Danh mục', 'Kategori'), rows: cxAgg((r) => ({ k: r.cat, label: r.cat })) },
+  { k: 'article', label: L('Artikel', 'Article', '文章', 'கட்டுரை', '記事', '기사', 'บทความ', 'Bài viết', 'Artikel'), rows: cxAgg((r) => ({ k: r.key, label: r.title, href: localePath(`/${r.key}`, locale) })) },
+];
+const cxMetrics = [
+  { k: 'visits', label: L('Lawatan', 'Visits', '访问', 'வருகைகள்', '訪問', '방문', 'การเข้าชม', 'Lượt truy cập', 'Kunjungan') },
+  { k: 'dwell', label: L('Masa dibaca', 'Dwell', '停留', 'தங்கல்', '滞在', '체류', 'เวลาอ่าน', 'Thời gian', 'Waktu baca') },
+  { k: 'scroll', label: L('Skrol', 'Scroll', '滚动', 'உருள்', 'スクロール', '스크롤', 'เลื่อน', 'Cuộn', 'Gulir') },
+];
+const cxFmt = (m: string, v: number) => (m === 'dwell' ? fmtDur(Math.round(v)) : m === 'scroll' ? `${Math.round(v)}%` : Math.round(v).toLocaleString());
+const cxHas = pivotRows.length > 0;
 const pivotChannels = CH_ORDER.filter((c) => pivotRows.some((r) => (r.ch[c] ?? 0) > 0))
   .map((c) => ({ id: c, label: CHANNEL_META[c]?.label ?? c }));
 const pivotJSON = JSON.stringify({
@@ -1285,9 +1313,9 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Penglibatan di laman', 'On-site engagement', '站内参与', 'தளத்தில் ஈடுபாடு', 'サイト内エンゲージメント', '사이트 내 참여', 'การมีส่วนร่วมบนเว็บไซต์', 'Mức độ tương tác trên trang', 'Keterlibatan di situs')}</span></header>
+    <header><span>{L('Prestasi kandungan', 'Content performance', '内容表现', 'உள்ளடக்கச் செயல்திறன்', 'コンテンツのパフォーマンス', '콘텐츠 성과', 'ประสิทธิภาพเนื้อหา', 'Hiệu suất nội dung', 'Kinerja konten')}</span></header>
     <div class="psec-body">
-      {!engHas ? (
+      {!cxHas ? (
         <p class="hint">{L(
           'Belum ada data penglibatan — mula direkod setelah beacon disiarkan (deploy Worker) dan pelawat tiba.',
           'No engagement data yet — recording begins after the beacon ships (Worker deploy) and visitors arrive.',
@@ -1306,31 +1334,43 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
             `ページ滞在時間の平均 ${fmtDur(engAvgSecs)} · 平均スクロール ${engAvgScroll}% · 計測された ${engSamples.toLocaleString()} 件の訪問から。`,
             `페이지 평균 체류 시간 ${fmtDur(engAvgSecs)} · 평균 스크롤 ${engAvgScroll}% · 측정된 ${engSamples.toLocaleString()}회 방문 기준.`, `เวลาเฉลี่ยบนหน้า ${fmtDur(engAvgSecs)} · การเลื่อนเฉลี่ย ${engAvgScroll}% · จากการเข้าชมที่วัดได้ ${engSamples.toLocaleString()} ครั้ง`, `Thời gian trung bình trên trang ${fmtDur(engAvgSecs)} · cuộn trung bình ${engAvgScroll}% · từ ${engSamples.toLocaleString()} lượt truy cập được đo.`, `Rata-rata waktu di halaman ${fmtDur(engAvgSecs)} · rata-rata gulir ${engAvgScroll}% · dari ${engSamples.toLocaleString()} kunjungan yang diukur.`,
           )}</p>
-          <div class="ai-grid">
-            <div>
-              <p class="ai-h">{L('Masa mengikut tunjang', 'Avg time by pillar', '各支柱平均时长', 'தூண் வாரியான சராசரி நேரம்', '柱別の平均時間', '기둥별 평균 시간', 'เวลาเฉลี่ยตามเสาหลัก', 'Thời gian trung bình theo trụ cột', 'Waktu berdasarkan pilar')}</p>
-              <div class="cov-cats">
-                {engPillars.map((p) => (
-                  <div class="cov-row ai-row">
-                    <span class="cov-name">{p.icon} {p.name}</span>
-                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((p.avg / engPillarMax) * 100))}%`} /></span>
-                    <span class="cov-num">{fmtDur(p.avg)}</span>
-                  </div>
+          <div class="sx" data-sx>
+            <div class="sx-ctrls">
+              <div class="sx-grp" role="group" aria-label="Metric">
+                {cxMetrics.map((m, i) => (
+                  <button type="button" class:list={['sx-pill', { on: i === 0 }]} data-sx-m={m.k}>{m.label}</button>
+                ))}
+              </div>
+              <span class="sx-by">{L('mengikut', 'by', '按', 'வாரியாக', '別', '기준', 'ตาม', 'theo', 'menurut')}</span>
+              <div class="sx-grp" role="group" aria-label="Dimension">
+                {cxDims.map((dmn, i) => (
+                  <button type="button" class:list={['sx-pill', { on: i === 0 }]} data-sx-d={dmn.k}>{dmn.label}</button>
                 ))}
               </div>
             </div>
-            <div>
-              <p class="ai-h">{L('Paling melibatkan', 'Most engaging', '最吸引', 'அதிகம் ஈடுபடுத்தும்', '最も惹きつける', '가장 참여도가 높은', 'มีส่วนร่วมมากที่สุด', 'Thu hút nhất', 'Paling menarik')}</p>
-              <div class="cov-cats">
-                {engTop.map((a) => (
-                  <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
-                    <span class="cov-name" title={a.title}>{a.title}</span>
-                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((a.avgSeconds / engTopMax) * 100))}%`} /></span>
-                    <span class="cov-num">{fmtDur(a.avgSeconds)}</span>
-                  </a>
-                ))}
-              </div>
-            </div>
+            {cxDims.map((dmn) => cxMetrics.map((m) => {
+              const max = Math.max(1, ...dmn.rows.map((r) => val(r, m.k)));
+              const rows = [...dmn.rows].sort((a, b) => val(b, m.k) - val(a, m.k)).slice(0, 15);
+              return (
+                <div class="sx-view cov-cats" data-sx-view data-d={dmn.k} data-m={m.k} hidden={!(dmn.k === 'pillar' && m.k === 'visits')}>
+                  {rows.map((r) => (
+                    r.href ? (
+                      <a class="cov-row" href={r.href}>
+                        <span class="cov-name" title={r.label}>{r.label}</span>
+                        <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((val(r, m.k) / max) * 100))}%`} /></span>
+                        <span class="cov-num">{cxFmt(m.k, val(r, m.k))}</span>
+                      </a>
+                    ) : (
+                      <div class="cov-row ai-row">
+                        <span class="cov-name" title={r.label}>{r.label}</span>
+                        <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((val(r, m.k) / max) * 100))}%`} /></span>
+                        <span class="cov-num">{cxFmt(m.k, val(r, m.k))}</span>
+                      </div>
+                    )
+                  ))}
+                </div>
+              );
+            }))}
           </div>
         </>
       )}
