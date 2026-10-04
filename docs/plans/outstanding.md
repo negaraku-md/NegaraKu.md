@@ -24,6 +24,15 @@ ClaudeBot/GPTBot/PerplexityBot/…). Buckets are set by User-Agent in `worker/sr
 relevant dimensions (e.g. Readers → channel+engagement+geo+device; Search → GSC queries+engine+geo;
 AI → crawler+path+geo), instead of the current flat panel stack. First-pass dimension map above.
 
+**Model it as METRICS × DIMENSIONS** (user ask 2026-10-04 — "include impression"):
+- **Metrics (what we count):** visits · **impressions** · clicks · CTR · position · dwell · scroll · reach.
+- **Dimensions (how we slice):** country/region/city · device/browser/OS · path/article · language · referral channel+source · bot/engine · GSC query.
+- **IMPRESSIONS are real only where the source provides one** — include them honestly, don't fabricate:
+  - **Search = yes, headline metric** (GSC: impressions + clicks + CTR + position; already in `analytics/gsc.json`).
+  - **Readers = no impression** (we only see a human on arrival) → visits + engagement + click-through.
+  - **AI = no true impression** (nothing reports AI citations) → crawler **fetches** per bot/article as the reach proxy; don't label it "impressions".
+  - **Social/FB (if folded in) = yes** — FB insights give post impressions/reach (facebook-insights workflow).
+
 ## 🔤 Language switcher redesign — OUTSTANDING (2026-10-04)
 Flat 2-letter row (MS EN ZH TA JA KO TH VI ID) works at 9 but won't scale to 13 (+ar/hi/es/fr) —
 wraps/overflows on mobile, tiny tap targets, codes not self-evident. **[me]** Proposed: a compact
