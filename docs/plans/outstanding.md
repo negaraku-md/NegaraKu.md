@@ -8,6 +8,29 @@ _Last updated: 2026-09-29._
 
 ---
 
+## 📊 Analytics redesign — OUTSTANDING (2026-10-04)
+Goal: redesign the /analytics page around the three VISITOR types in the Visitors box —
+**Readers** (humans), **Search** (search crawlers: Googlebot/Bingbot/…), **AI** (LLM crawlers:
+ClaudeBot/GPTBot/PerplexityBot/…). Buckets are set by User-Agent in `worker/src/classify.js`.
+
+**Dimensions we already capture** (per page-view, logged by `worker/src/index.js` → Analytics Engine):
+- **Shared by all 3 buckets:** article/path · language (locale) · country · region · city · device · browser · OS · bot name (the specific engine/crawler — meaningful for Search & AI) · hit count · time-trend.
+- **Readers only (richest):** referral **channel** + **source** (direct/search/ai/social/referral — how they arrived) · **engagement** (dwell seconds, scroll %) · **click-throughs** (internal "what they open next" + outbound links). Cookieless beacon at `/_a/e`.
+- **Search extra feed:** Google Search Console (`analytics/gsc.json`) — query · page · country · device · clicks/impressions/CTR/position.
+- **AI extra:** which AI crawler, by path/locale/geo (no query data — AI crawlers don't send one).
+- **Cross-check feed:** Cloudflare GraphQL zone analytics — country/device/browser/os/path/status/cache (24–72h retention only).
+
+**[me] Redesign task:** reorganize /analytics so each of Readers/Search/AI is explorable by its own
+relevant dimensions (e.g. Readers → channel+engagement+geo+device; Search → GSC queries+engine+geo;
+AI → crawler+path+geo), instead of the current flat panel stack. First-pass dimension map above.
+
+## 🔤 Language switcher redesign — OUTSTANDING (2026-10-04)
+Flat 2-letter row (MS EN ZH TA JA KO TH VI ID) works at 9 but won't scale to 13 (+ar/hi/es/fr) —
+wraps/overflows on mobile, tiny tap targets, codes not self-evident. **[me]** Proposed: a compact
+language menu showing each language in its native name (Bahasa Melayu · English · 中文 · … ·
+Bahasa Indonesia), current one highlighted; inline row on wide desktop capped with a "+N" overflow,
+single-button dropdown on mobile; each entry a real `<a href>` (keeps hreflang + works no-JS).
+
 ## 🌐 Distribution push — ON HOLD (2026-09-18, "come back later")
 
 ### ⭐ AI-citation diagnosis (2026-09-29) — "why doesn't Claude.ai cite us for business entities?"
