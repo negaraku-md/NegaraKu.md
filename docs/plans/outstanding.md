@@ -33,12 +33,12 @@ AI → crawler+path+geo), instead of the current flat panel stack. First-pass di
   - **AI = no true impression** (nothing reports AI citations) → crawler **fetches** per bot/article as the reach proxy; don't label it "impressions".
   - **Social/FB (if folded in) = yes** — FB insights give post impressions/reach (facebook-insights workflow).
 
-## 🔤 Language switcher redesign — OUTSTANDING (2026-10-04)
-Flat 2-letter row (MS EN ZH TA JA KO TH VI ID) works at 9 but won't scale to 13 (+ar/hi/es/fr) —
-wraps/overflows on mobile, tiny tap targets, codes not self-evident. **[me]** Proposed: a compact
-language menu showing each language in its native name (Bahasa Melayu · English · 中文 · … ·
-Bahasa Indonesia), current one highlighted; inline row on wide desktop capped with a "+N" overflow,
-single-button dropdown on mobile; each entry a real `<a href>` (keeps hreflang + works no-JS).
+## 🔤 Language switcher redesign — ✅ DONE 2026-10-04 (commit 5e3253b7, pushed/live)
+Replaced the flat 2-letter row with ONE native `<details>` dropdown at every width (Header.astro):
+desktop summary = globe + current language's native name; narrow = globe + code; dropdown lists every
+language in its own script with a code badge, current highlighted, capped-height + scrollable (scales
+to 13+). Pure HTML/CSS, each option a real `<a href hreflang>` (no-JS, keeps SEO). Verified live
+desktop + 380px.
 
 ## 🌐 Distribution push — ON HOLD (2026-09-18, "come back later")
 
