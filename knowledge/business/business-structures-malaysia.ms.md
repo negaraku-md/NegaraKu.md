@@ -83,13 +83,22 @@ relations:
   - { rel: "compares-with", to: "branch-vs-subsidiary-malaysia" }
   - { rel: "related-to", to: "partnership-malaysia" }
 related:
-  - "sole-prop-vs-sdn-bhd"
   - "what-is-sdn-bhd"
+  - "sole-prop-vs-sdn-bhd"
   - "llp-vs-sdn-bhd"
   - "sdn-bhd-vs-berhad"
   - "labuan-company-vs-sdn-bhd"
   - "branch-vs-subsidiary-malaysia"
   - "partnership-malaysia"
+  - "holding-company-malaysia"
+  - "company-limited-by-guarantee-malaysia"
+  - "register-sdn-bhd"
+  - "register-llp-malaysia"
+  - "register-enterprise-ezbiz"
+  - "register-foreign-branch-malaysia"
+  - "register-business-sabah"
+  - "register-business-sarawak"
+  - "close-sole-proprietorship-partnership"
 keywords:
   - "struktur perniagaan Malaysia"
   - "jenis entiti perniagaan Malaysia"
