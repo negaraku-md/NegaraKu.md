@@ -337,6 +337,13 @@ const exLabels = {
   allTime: L('sepanjang masa', 'all-time', '累计', 'எல்லா காலமும்', '累計', '전체 기간', 'ตลอดกาล', 'toàn thời gian', 'sepanjang waktu'),
   last90: L('90 hari', '90 days', '90 天', '90 நாட்கள்', '90日間', '90일', '90 วัน', '90 ngày', '90 hari'),
   window24: L('tetingkap semasa', 'current window', '当前时段', 'தற்போதைய சாளரம்', '現在の期間', '현재 기간', 'ช่วงเวลาปัจจุบัน', 'khung thời gian hiện tại', 'jendela saat ini'),
+  hideNone: L('Sembunyi kosong', 'Hide blanks', '隐藏空值', 'வெறுமையை மறை', '空欄を隠す', '빈 값 숨기기', 'ซ่อนค่าว่าง', 'Ẩn mục trống', 'Sembunyikan kosong'),
+  csv: L('CSV', 'CSV', 'CSV', 'CSV', 'CSV', 'CSV', 'CSV', 'CSV', 'CSV'),
+  saveView: L('Simpan paparan', 'Save view', '保存视图', 'காட்சியைச் சேமி', 'ビューを保存', '보기 저장', 'บันทึกมุมมอง', 'Lưu chế độ xem', 'Simpan tampilan'),
+  savedViews: L('Paparan…', 'Views…', '视图…', 'காட்சிகள்…', 'ビュー…', '보기…', 'มุมมอง…', 'Chế độ xem…', 'Tampilan…'),
+  resetView: L('Set semula', 'Reset', '重置', 'மீட்டமை', 'リセット', '재설정', 'รีเซ็ต', 'Đặt lại', 'Atur ulang'),
+  deleteView: L('Padam paparan ini?', 'Delete this view?', '删除此视图？', 'இந்தக் காட்சியை நீக்கவா?', 'このビューを削除しますか？', '이 보기를 삭제할까요?', 'ลบมุมมองนี้?', 'Xóa chế độ xem này?', 'Hapus tampilan ini?'),
+  namePrompt: L('Nama paparan:', 'Name this view:', '为该视图命名：', 'இந்தக் காட்சிக்குப் பெயரிடு:', 'このビューに名前を付ける:', '이 보기의 이름:', 'ตั้งชื่อมุมมองนี้:', 'Đặt tên chế độ xem:', 'Beri nama tampilan:'),
   dims: {
     country: L('Negara', 'Country', '国家/地区', 'நாடு', '国', '국가', 'ประเทศ', 'Quốc gia', 'Negara'),
     device: L('Peranti', 'Device', '设备', 'சாதனம்', 'デバイス', '기기', 'อุปกรณ์', 'Thiết bị', 'Perangkat'),
@@ -544,8 +551,12 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
       { dim: 'page', measure: 'requests', view: 'bars' },
       { dim: 'status', measure: 'requests', view: 'donut' },
     ];
-    let state = { src: SRC, filters: {}, panels: DEFAULT_PANELS.map((p) => ({ ...p })) };
-    try { const s = JSON.parse(localStorage.getItem('tx.v1') || 'null'); if (s && s.panels) state = s; } catch { /* ignore */ }
+    let state = { src: SRC, filters: {}, hideNone: true, panels: DEFAULT_PANELS.map((p) => ({ ...p })) };
+    try { const s = JSON.parse(localStorage.getItem('tx.v1') || 'null'); if (s && s.panels) state = { hideNone: true, ...s }; } catch { /* ignore */ }
+    // Saved-view presets (named snapshots of the whole config).
+    const VKEY = 'tx.views.v1';
+    const loadViews = () => { try { return JSON.parse(localStorage.getItem(VKEY) || '{}') || {}; } catch { return {}; } };
+    const saveViews = (v) => { try { localStorage.setItem(VKEY, JSON.stringify(v)); } catch { /* ignore */ } };
     SRC = (state.src === 'ae' && aeOk) || (state.src === 'cf' && cfOk) ? state.src : SRC;
     state.src = SRC;
     const save = () => { try { localStorage.setItem('tx.v1', JSON.stringify(state)); } catch { /* ignore */ } };
@@ -582,6 +593,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
         for (const fk in f) { const ci = filterCols[fk]; if (ci != null && row[ci] !== f[fk]) { skip = true; break; } }
         if (skip) continue;
         const key = row[dimIdx] ?? '';
+        if (state.hideNone && (key === '' || key == null)) continue;
         const val = Number(row[measIdx]) || 0;
         if (val <= 0) continue;
         // hide asset/utility paths on the page panel
@@ -621,6 +633,20 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
     // --- panel + chrome ------------------------------------------------------
     function measureLabel(m) { return m === 'visits' ? (LB.visits || 'Visits') : (SRC === 'ae' ? (LB.visitors || 'Readers') : (LB.requests || 'Requests')); }
+    // Export a panel's full breakdown (all rows, not just the top 12) as CSV.
+    function exportCSV(i) {
+      const p = state.panels[i]; if (!p) return; fixPanel(p);
+      const { rows, total } = aggregate(p.dim, p.measure);
+      const q = (s) => '"' + String(s).replace(/"/g, '""') + '"';
+      const lines = [[q(DIMS[p.dim] || p.dim), q(measureLabel(p.measure)), q('%')].join(',')];
+      for (const r of rows) lines.push([q(r.label), r.value, (total ? (r.value / total) * 100 : 0).toFixed(1)].join(','));
+      const blob = new Blob(['﻿' + lines.join('\r\n')], { type: 'text/csv;charset=utf-8' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = `negaraku-${SRC}-${p.dim}-${p.measure}.csv`;
+      document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+    }
     function panelHTML(p, i) {
       fixPanel(p);
       const { rows, total } = aggregate(p.dim, p.measure);
@@ -635,7 +661,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
           <label>${esc(LB.configure || 'Configure')}<select data-act="dim">${dimOpts}</select></label>
           <label>${esc(LB.measure || 'Measure')}<select data-act="measure"${SRC !== 'cf' ? ' disabled' : ''}>${measOpts}</select></label>
           <label>${esc(LB.viewAs || 'View as')}<select data-act="view">${viewOpts}</select></label>
-          <div class="tx-cfg-btns"><button data-act="dup">${esc(LB.duplicate || 'Duplicate')}</button><button data-act="del" class="tx-del">${esc(LB.remove || 'Remove')}</button></div>
+          <div class="tx-cfg-btns"><button data-act="csv">⬇ ${esc(LB.csv || 'CSV')}</button><button data-act="dup">${esc(LB.duplicate || 'Duplicate')}</button><button data-act="del" class="tx-del">${esc(LB.remove || 'Remove')}</button></div>
         </div>
         <div class="tx-pbody">${body}</div></div>`;
     }
@@ -657,8 +683,15 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     }
     function toolbarHTML() {
       const srcBtn = (id, on, label, ok) => `<button class="tx-src${on ? ' is-on' : ''}" data-act="src" data-src="${id}"${ok ? '' : ' disabled'}>${esc(label)}</button>`;
+      const vn = Object.keys(loadViews());
+      const vsel = `<select class="tx-vsel" data-act="loadview" aria-label="${esc(LB.savedViews || 'Views')}"><option value="">${esc(LB.savedViews || 'Views…')}</option>${vn.map((n) => `<option value="${esc(n)}">${esc(n)}</option>`).join('')}</select>`;
       return `<div class="tx-toolbar">
         <div class="tx-srcs">${srcBtn('cf', SRC === 'cf', LB.srcCf || 'Cloudflare', cfOk || !aeOk)}${srcBtn('ae', SRC === 'ae', LB.srcAe || 'Readers', aeOk)}</div>
+        <label class="tx-hn"><input type="checkbox" data-act="hidenone"${state.hideNone ? ' checked' : ''}> ${esc(LB.hideNone || 'Hide blanks')}</label>
+        <span class="tx-sp"></span>
+        ${vn.length ? vsel : ''}
+        <button class="tx-vbtn" data-act="saveview">${esc(LB.saveView || 'Save view')}</button>
+        <button class="tx-vbtn" data-act="resetview">${esc(LB.resetView || 'Reset')}</button>
         <button class="tx-addp" data-act="addp">+ ${esc(LB.addPanel || 'Add panel')}</button>
       </div>`;
     }
@@ -692,10 +725,19 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
       if (act === 'del') { const i = +t.closest('.tx-panel').getAttribute('data-i'); state.panels.splice(i, 1); render(); return; }
       if (act === 'unchip') { delete state.filters[t.getAttribute('data-k')]; render(); return; }
       if (act === 'clearf') { state.filters = {}; render(); return; }
+      if (act === 'csv') { const i = +t.closest('.tx-panel').getAttribute('data-i'); exportCSV(i); return; }
+      if (act === 'saveview') { const name = (prompt(LB.namePrompt || 'View name:') || '').trim(); if (!name) return; const v = loadViews(); v[name] = JSON.parse(JSON.stringify(state)); saveViews(v); render(); return; }
+      if (act === 'resetview') { state = { src: SRC, filters: {}, hideNone: true, panels: DEFAULT_PANELS.map((p) => ({ ...p })) }; render(); return; }
     });
     app.addEventListener('keydown', (e) => { if ((e.key === 'Enter' || e.key === ' ') && e.target.classList && e.target.classList.contains('tx-click')) { e.preventDefault(); addFilter(e.target.getAttribute('data-dim'), e.target.getAttribute('data-val')); } });
     app.addEventListener('change', (e) => {
       const t = e.target; const act = t.getAttribute('data-act');
+      if (act === 'hidenone') { state.hideNone = t.checked; render(); return; }
+      if (act === 'loadview') {
+        const v = loadViews()[t.value];
+        if (v) { state = { hideNone: true, ...v }; SRC = (state.src === 'ae' && aeOk) || (state.src === 'cf' && cfOk) ? state.src : SRC; render(); }
+        return;
+      }
       if (act === 'dim' || act === 'measure' || act === 'view') {
         const i = +t.closest('.tx-panel').getAttribute('data-i');
         state.panels[i][act] = t.value; render(); return;
@@ -1658,6 +1700,13 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   #tx-app .tx-src:disabled { opacity: 0.4; cursor: not-allowed; }
   #tx-app .tx-addp { border: 1px dashed var(--line); background: transparent; color: var(--ink-soft); font: inherit; font-size: 0.78rem; font-weight: 700; padding: 0.3rem 0.7rem; border-radius: 8px; cursor: pointer; }
   #tx-app .tx-addp:hover { border-color: var(--gold); color: var(--gold); }
+  #tx-app .tx-toolbar { justify-content: flex-start; }
+  #tx-app .tx-sp { flex: 1 1 auto; }
+  #tx-app .tx-hn { display: inline-flex; align-items: center; gap: 0.35rem; font-size: 0.78rem; font-weight: 600; color: var(--ink-soft); cursor: pointer; white-space: nowrap; }
+  #tx-app .tx-hn input { accent-color: var(--gold); }
+  #tx-app .tx-vsel { border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft); font: inherit; font-size: 0.78rem; padding: 0.3rem 0.5rem; border-radius: 8px; cursor: pointer; max-width: 11rem; }
+  #tx-app .tx-vbtn { border: 1px solid var(--line); background: transparent; color: var(--ink-soft); font: inherit; font-size: 0.78rem; font-weight: 700; padding: 0.3rem 0.65rem; border-radius: 8px; cursor: pointer; white-space: nowrap; }
+  #tx-app .tx-vbtn:hover { border-color: var(--gold); color: var(--gold); }
 
   #tx-app .tx-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; margin-bottom: 0.5rem; }
   #tx-app .tx-chip { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.76rem; background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 0.2rem 0.3rem 0.2rem 0.6rem; color: var(--ink-soft); }
