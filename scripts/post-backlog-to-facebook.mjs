@@ -43,7 +43,7 @@ const DRY_RUN = process.env.FB_DRY_RUN === '1';
 // path). With files/CHANGED_FILES, post exactly those (manual/one-off).
 const QUEUE = process.env.FB_BACKLOG_QUEUE === '1';
 // Set only on GitHub `schedule` (cron) runs. The cron fires DAILY_TICKS times a
-// day; each scheduled tick tops up toward the daily target (perRunArticles), so a
+// day; each scheduled tick tops up toward the daily target (perLangPerDay), so a
 // skipped 13:00 tick is self-healed by a later one AND the day's articles are
 // spread across the ticks instead of dumped in one feed-flooding burst. Manual
 // dispatches never set it, so a manual run always posts the full day's batch.
@@ -77,6 +77,7 @@ const PROMPT = {
     ko: '말레이시아를 더 깊이 이해하고 싶으신가요?',
     th: 'อยากเข้าใจมาเลเซียให้ลึกซึ้งยิ่งขึ้นไหม?',
     vi: 'Muốn hiểu Malaysia sâu sắc hơn?',
+    id: 'Ingin memahami Malaysia lebih dalam?',
   },
   'living': {
     ms: 'Tinggal, bekerja atau belajar di Malaysia?',
@@ -87,6 +88,7 @@ const PROMPT = {
     ko: '말레이시아에서 살거나 일하거나 공부하고 계신가요?',
     th: 'อาศัย ทำงาน หรือเรียนอยู่ในมาเลเซียใช่ไหม?',
     vi: 'Đang sống, làm việc hay học tập tại Malaysia?',
+    id: 'Tinggal, bekerja, atau belajar di Malaysia?',
   },
   'doing-business': {
     ms: 'Memulakan atau mengembangkan perniagaan di Malaysia?',
@@ -97,6 +99,7 @@ const PROMPT = {
     ko: '말레이시아에서 사업을 시작하거나 키우고 계신가요?',
     th: 'กำลังเริ่มต้นหรือขยายธุรกิจในมาเลเซียใช่ไหม?',
     vi: 'Đang khởi nghiệp hay mở rộng kinh doanh tại Malaysia?',
+    id: 'Memulai atau mengembangkan bisnis di Malaysia?',
   },
 };
 // Caption mode: precedes the tappable link on line 2. Comment mode: points to
@@ -110,6 +113,7 @@ const CTA_CAPTION = {
   ko: '🔗 전체 가이드 읽기:',
   th: '🔗 อ่านคู่มือฉบับเต็ม:',
   vi: '🔗 Đọc hướng dẫn đầy đủ:',
+  id: '🔗 Baca panduan lengkap:',
 };
 const CTA_COMMENT = {
   ms: '🔗 Panduan penuh dalam komen pertama 👇',
@@ -120,6 +124,7 @@ const CTA_COMMENT = {
   ko: '🔗 전체 가이드는 첫 번째 댓글에서 👇',
   th: '🔗 คู่มือฉบับเต็มอยู่ในคอมเมนต์แรก 👇',
   vi: '🔗 Hướng dẫn đầy đủ ở bình luận đầu tiên 👇',
+  id: '🔗 Panduan lengkap di komentar pertama 👇',
 };
 // Prefixed to the title so it stands out above the caption (FB text can't be
 // bold). Matches the per-publish poster's 📌. Set to '' to drop it.
@@ -225,6 +230,17 @@ function resolveTargets(files, manifest, { scheduled }) {
       // because a Page's reach is earned by engagement and engagement is highest at
       // peak audience times — so a single daily post lands in the evening, not 8am.
       budget = windowBudget(dayTarget, already, win, langWindows);
+      // Resilience vs GitHub cron drift: a young Page's single daily post is
+      // allocated PEAK-FIRST (evening), but GH frequently fires the evening tick
+      // hours late so it lands in the next MYT morning — meaning NO run is ever
+      // classified 'evening' and a target-1 language would post 0 all day (this
+      // silently froze ja/ko/th/vi). Floor: if a language has posted nothing today,
+      // guarantee its first article on whatever tick fires first. Later ticks see
+      // already>0 and self-limit via windowBudget, so this never double-posts.
+      if (budget <= 0 && already === 0) {
+        budget = 1;
+        console.log(`[fb-backlog] [${lang}] cron-drift floor — posting 1 (no tick reached its peak window today).`);
+      }
       if (budget <= 0) {
         console.log(`[fb-backlog] [${lang}] nothing due this window (${win}) — waits for a later peak.`);
         continue;

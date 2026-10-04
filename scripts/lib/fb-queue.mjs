@@ -186,21 +186,11 @@ export function markComment(m, base, lang, status) {
 
 // --- warm-up ramp ----------------------------------------------------------
 
-// Articles to post per DAY, ramping as the rollout ages so the young Pages warm
-// up before volume climbs: 1/day weeks 1-2, 3/day weeks 3-4, then 5/day. Each
-// article posts once to each language Page, and the daily total is split across
-// the day's cron ticks (see the poster) so it drips rather than flooding the feed.
-// Deliberately conservative to protect per-post reach while the Pages are young —
-// raise the tail rate here (e.g. 10) or set FB_BACKLOG_PER_DAY once they warm up.
-export function perRunArticles(manifest, now = Date.now()) {
-  const override = Number(process.env.FB_BACKLOG_PER_DAY);
-  if (Number.isFinite(override) && override > 0) return override;
-  const started = manifest.meta?.startedAt ? Date.parse(manifest.meta.startedAt) : now;
-  const days = Math.max(0, Math.floor((now - started) / 86400000));
-  if (days < 14) return 1;
-  if (days < 28) return 3;
-  return 5;
-}
+// NOTE: posting volume is PER-LANGUAGE (perLangPerDay below), ramped by EACH
+// Page's own age from its LANG_POLICY.since — not a single global rate. A former
+// global `perRunArticles` (keyed off the whole backlog's startedAt) was removed;
+// it would have throttled all Pages by the oldest Page's age. The per-language
+// ramp is the single source of truth.
 
 // Whether a language is currently posting at all (LANG_POLICY.enabled, default on
 // for anything in LANGS). A disabled language is skipped without touching others.

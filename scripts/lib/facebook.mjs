@@ -11,7 +11,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 
 export const GRAPH = 'https://graph.facebook.com/v21.0';
-export const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi']; // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi
+export const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id']; // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi, id /id
 
 // Posting WINDOWS = Malaysia's daily engagement peaks. The cron fires one tick per
 // window (see .github/workflows/facebook-backlog.yml: 08:17 / 13:17 / 20:17 MYT).
@@ -22,7 +22,7 @@ export const WINDOWS = ['morning', 'lunch', 'evening'];
 //    demand — see fb-queue.mjs), because the most-wanted article differs by
 //    audience: an English and a Tamil reader do not click the same things;
 //  • RAMPS its daily volume by how NEW its Page is (`since` = Page launch date).
-//    The AGREED ramp is 1/3/5 (perRunArticles): 1/day the first 2 weeks, 3/day
+//    The AGREED ramp is 1/3/5 (perLangPerDay, by each Page's own age): 1/day the first 2 weeks, 3/day
 //    weeks 3-4, then 5/day — same for every language. `perDay` is just the ceiling
 //    and is set to 5 so the ramp is the pure 1/3/5 schedule; raising to 10 is ON
 //    HOLD (decided 2026-09-11) — monitor 1/3/5 first, then adjust if it helps growth;
@@ -53,6 +53,10 @@ export const LANG_POLICY = {
   // vi ACTIVATED 2026-09-29 — Vietnamese is a full public language (1,073 published
   // articles at /vi); its Page is assigned to the system user, so it's in LANGS.
   vi: { enabled: true, perDay: 5, since: '2026-09-29', windows: ALL_WINDOWS },
+  // id ACTIVATED 2026-10-04 — Indonesian is a full public language (1,073 published
+  // articles at /id); its Page (facebook.com/negaraku.md.id) is assigned to the
+  // "NegaraKu Poster" system user with Full access, so it's in LANGS above.
+  id: { enabled: true, perDay: 5, since: '2026-10-04', windows: ALL_WINDOWS },
 };
 
 // One Facebook Page PER language. Page IDs are PUBLIC (they appear in each Page's
@@ -165,9 +169,9 @@ function catNameMap() {
       path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../src/lib/categories.ts'),
       'utf8',
     );
-    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'(?:\s*,\s*ta:\s*'([^']*)')?(?:\s*,\s*ja:\s*'([^']*)')?(?:\s*,\s*ko:\s*'([^']*)')?(?:\s*,\s*th:\s*'([^']*)')?(?:\s*,\s*vi:\s*'([^']*)')?/g;
+    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'(?:\s*,\s*ta:\s*'([^']*)')?(?:\s*,\s*ja:\s*'([^']*)')?(?:\s*,\s*ko:\s*'([^']*)')?(?:\s*,\s*th:\s*'([^']*)')?(?:\s*,\s*vi:\s*'([^']*)')?(?:\s*,\s*id:\s*'([^']*)')?/g;
     let m;
-    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4], ta: m[5] || '', ja: m[6] || '', ko: m[7] || '', th: m[8] || '', vi: m[9] || '' };
+    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4], ta: m[5] || '', ja: m[6] || '', ko: m[7] || '', th: m[8] || '', vi: m[9] || '', id: m[10] || '' };
   } catch { /* graceful — no localized names, category tag is skipped */ }
   return _catNames;
 }
@@ -205,7 +209,7 @@ export function keywordTag(kw) {
   return t.length <= 25 ? t : '';
 }
 
-const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா', ja: '#マレーシア', ko: '#말레이시아', th: '#มาเลเซีย', vi: '#Malaysia' };
+const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா', ja: '#マレーシア', ko: '#말레이시아', th: '#มาเลเซีย', vi: '#Malaysia', id: '#Malaysia' };
 // Tamil block U+0B80–U+0BFF — used so ta posts keep only Tamil-script (or numeric) tags.
 const hasTamil = (s) => /[஀-௿]/.test(String(s));
 const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));
