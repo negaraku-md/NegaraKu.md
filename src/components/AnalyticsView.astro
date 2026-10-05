@@ -216,7 +216,20 @@ const aiBotAccruing = L(
   'ボット別データを蓄積中です — 十分な日数が記録されるとグラフが表示されます。',
   '봇별 데이터가 누적되고 있습니다 — 충분한 일수가 기록되면 차트가 표시됩니다.', 'ข้อมูลแยกตามบอตกำลังสะสม — กราฟจะปรากฏเมื่อมีการบันทึกจำนวนวันเพียงพอ', 'Dữ liệu theo từng bot đang được tích lũy — biểu đồ sẽ xuất hiện khi đủ số ngày được ghi nhận.', 'Data setiap bot mulai terkumpul — grafik muncul saat cukup hari tercatat.',
 );
-const trendJSON = JSON.stringify({ days: trendDays, chColors: CHANNEL_COLORS, chLabels, chOrder: CH_ORDER, langColors: LANG_COLORS, langLabels, langOrder: LANG_ORDER, seo: seoMonths, metricLabels, seoLabels, aiBotAccruing });
+const trendUI = {
+  from: L('Dari', 'From', '从', 'முதல்', '開始', '시작', 'จาก', 'Từ', 'Dari'),
+  to: L('Hingga', 'To', '至', 'வரை', '終了', '종료', 'ถึง', 'Đến', 'Hingga'),
+  apply: L('Guna', 'Apply', '应用', 'பயன்படுத்து', '適用', '적용', 'ใช้', 'Áp dụng', 'Terapkan'),
+  tooShort: L(
+    'Pilih julat sekurang-kurangnya dua hari.',
+    'Select a range of at least two days.',
+    '请选择至少两天的范围。',
+    'குறைந்தது இரண்டு நாட்கள் வரம்பைத் தேர்ந்தெடுக்கவும்.',
+    '少なくとも2日間の範囲を選択してください。',
+    '최소 이틀 이상의 범위를 선택하세요.', 'เลือกช่วงอย่างน้อยสองวัน', 'Chọn khoảng ít nhất hai ngày.', 'Pilih rentang minimal dua hari.',
+  ),
+};
+const trendJSON = JSON.stringify({ days: trendDays, chColors: CHANNEL_COLORS, chLabels, chOrder: CH_ORDER, langColors: LANG_COLORS, langLabels, langOrder: LANG_ORDER, seo: seoMonths, metricLabels, seoLabels, aiBotAccruing, trendUI });
 
 // Most-read articles (human readers, all-time from analytics.json). Fills the
 // content-performance gap alongside most-crawled + most-engaging.
@@ -885,10 +898,18 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
         )}</p>
       ) : (
         <>
-          <div class="tr-ranges" role="group" aria-label="range">
-            <button type="button" class="tr-btn is-on" data-range="30">30{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ngày', 'h')}</button>
-            <button type="button" class="tr-btn" data-range="90">90{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ngày', 'h')}</button>
-            <button type="button" class="tr-btn" data-range="all">{L('Semua', 'All', '全部', 'அனைத்தும்', 'すべて', '전체', 'ทั้งหมด', 'Tất cả', 'Semua')}</button>
+          <div class="tr-head">
+            <div class="tr-ranges" role="group" aria-label="range">
+              <button type="button" class="tr-btn is-on" data-range="30">30{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ngày', 'h')}</button>
+              <button type="button" class="tr-btn" data-range="90">90{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ngày', 'h')}</button>
+              <button type="button" class="tr-btn" data-range="all">{L('Semua', 'All', '全部', 'அனைத்தும்', 'すべて', '전체', 'ทั้งหมด', 'Tất cả', 'Semua')}</button>
+            </div>
+            <span class="tr-custom">
+              <input type="date" id="tr-from" class="tr-date" aria-label={trendUI.from} />
+              <span class="tr-dash" aria-hidden="true">–</span>
+              <input type="date" id="tr-to" class="tr-date" aria-label={trendUI.to} />
+              <button type="button" id="tr-apply" class="tr-apply">{trendUI.apply}</button>
+            </span>
           </div>
           <p class="ai-h">{L('Pembaca, perayap AI & carian setiap hari', 'Readers, AI & search crawlers per day', '每日读者、AI 与搜索爬虫', 'தினசரி வாசகர்கள், AI & தேடல்', '日次の読者・AI・検索クローラー', '일별 독자, AI 및 검색 크롤러', 'ผู้อ่าน โปรแกรมรวบรวมข้อมูล AI และการค้นหา ต่อวัน', 'Độc giả, trình thu thập dữ liệu AI & tìm kiếm mỗi ngày', 'Pembaca, perayap AI & pencarian setiap hari')}</p>
           <div id="chart-daily" class="chart"></div>
@@ -928,6 +949,14 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     let data;
     try { data = JSON.parse(el.textContent || '{}'); } catch { return; }
     const days = data.days || [];
+    // One filter for presets AND the custom range. A preset is 'all' or a day
+    // count; a custom range is {from,to} (inclusive, ISO YYYY-MM-DD — string
+    // compare is correct for ISO dates). days[] is sorted ascending.
+    const filterDays = (range) => {
+      if (range && typeof range === 'object') return days.filter((d) => d.day >= range.from && d.day <= range.to);
+      return range === 'all' ? days : days.slice(-parseInt(range, 10));
+    };
+    const tooShortHTML = () => `<p class="hint" style="margin:0">${(data.trendUI && data.trendUI.tooShort) || '—'}</p>`;
     const NS = 'http://www.w3.org/2000/svg';
     const cssVar = (n, f) => (getComputedStyle(document.documentElement).getPropertyValue(n).trim() || f);
     const muted = cssVar('--muted', '#8a8a8a');
@@ -967,7 +996,13 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     }
 
     function renderDaily(range) {
-      const rows0 = range === 'all' ? days : days.slice(-parseInt(range, 10));
+      const rows0 = filterDays(range);
+      if (rows0.length < 2) {
+        const el = document.getElementById('chart-daily'); if (el) el.innerHTML = tooShortHTML();
+        const lg = document.getElementById('legend-daily'); if (lg) lg.innerHTML = '';
+        const cb = document.getElementById('chan-bars'); if (cb) cb.innerHTML = '<p class="hint" style="margin:0">—</p>';
+        return;
+      }
       const rows = rows0.map((d) => ({ label: (d.day || '').slice(5), values: { readers: d.readers, ai: d.ai, search: d.search } }));
       const ml = data.metricLabels || {};
       const totals = lineChart(document.getElementById('chart-daily'), rows, [
@@ -988,12 +1023,13 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     }
 
     function renderLang(range) {
-      const rows0 = range === 'all' ? days : days.slice(-parseInt(range, 10));
+      const rows0 = filterDays(range);
       const order = data.langOrder || [];
       const present = order.filter((l) => rows0.some((d) => ((d.byLang || {})[l] || 0) > 0));
       const el = document.getElementById('chart-lang');
       const lg = document.getElementById('legend-lang');
       if (!el) return;
+      if (rows0.length < 2) { el.innerHTML = tooShortHTML(); if (lg) lg.innerHTML = ''; return; }
       if (!present.length) { el.innerHTML = '<p class="hint" style="margin:0">—</p>'; if (lg) lg.innerHTML = ''; return; }
       const series = present.map((l) => ({ key: l, label: (data.langLabels || {})[l] || l, color: (data.langColors || {})[l] || muted }));
       const rows = rows0.map((d) => ({ label: (d.day || '').slice(5), values: Object.fromEntries(present.map((l) => [l, (d.byLang || {})[l] || 0])) }));
@@ -1001,7 +1037,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     }
 
     function renderAiBot(range) {
-      const rows0 = range === 'all' ? days : days.slice(-parseInt(range, 10));
+      const rows0 = filterDays(range);
       const el = document.getElementById('chart-aibot');
       const lg = document.getElementById('legend-aibot');
       if (!el) return;
@@ -1021,11 +1057,29 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     }
 
     function renderAll(range) { renderDaily(range); renderLang(range); renderAiBot(range); }
-    document.querySelectorAll('.tr-btn').forEach((btn) => btn.addEventListener('click', () => {
-      document.querySelectorAll('.tr-btn').forEach((b) => b.classList.remove('is-on'));
-      btn.classList.add('is-on');
+    const presetBtns = document.querySelectorAll('.tr-btn');
+    const fromEl = document.getElementById('tr-from');
+    const toEl = document.getElementById('tr-to');
+    const applyEl = document.getElementById('tr-apply');
+    const clearActive = () => { presetBtns.forEach((b) => b.classList.remove('is-on')); if (applyEl) applyEl.classList.remove('is-on'); };
+    presetBtns.forEach((btn) => btn.addEventListener('click', () => {
+      clearActive(); btn.classList.add('is-on');
       renderAll(btn.getAttribute('data-range'));
     }));
+    // Seed the date inputs to the data's real bounds (so you can't pick outside
+    // what's recorded) and prefill the last-30-days window as a sensible default.
+    if (fromEl && toEl && days.length) {
+      const minD = days[0].day, maxD = days[days.length - 1].day;
+      fromEl.min = toEl.min = minD; fromEl.max = toEl.max = maxD;
+      fromEl.value = (days.slice(-30)[0] || days[0]).day; toEl.value = maxD;
+    }
+    if (applyEl) applyEl.addEventListener('click', () => {
+      const f = fromEl && fromEl.value, t = toEl && toEl.value;
+      if (!f || !t) return;
+      const from = f <= t ? f : t, to = f <= t ? t : f; // tolerate a reversed pick
+      clearActive(); applyEl.classList.add('is-on');
+      renderAll({ from, to });
+    });
     if (document.getElementById('chart-daily')) renderAll('30');
 
     const seo = data.seo || [];
@@ -1668,10 +1722,19 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   .fbtable td, .fbtable th:not(.chan) { text-align: right; font-variant-numeric: tabular-nums; }
 
   /* Trend charts */
-  .tr-ranges { display: inline-flex; gap: 0.25rem; margin: 0 0 0.9rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.2rem; background: var(--surface-2); }
+  .tr-head { display: flex; flex-wrap: wrap; gap: 0.5rem 0.8rem; align-items: center; margin: 0 0 0.9rem; }
+  .tr-ranges { display: inline-flex; gap: 0.25rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.2rem; background: var(--surface-2); }
   .tr-btn { border: 0; background: transparent; color: var(--muted); font: inherit; font-size: 0.78rem; font-weight: 700; padding: 0.25rem 0.7rem; border-radius: 999px; cursor: pointer; }
   .tr-btn:hover { color: var(--ink-soft); }
   .tr-btn.is-on { background: var(--gold); color: #1a1400; }
+  .tr-custom { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 0.3rem; }
+  .tr-date { font: inherit; font-size: 0.74rem; color: var(--ink); background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px; padding: 0.2rem 0.4rem; cursor: text; color-scheme: dark; }
+  .tr-date:focus { outline: none; border-color: var(--gold); }
+  .tr-dash { color: var(--muted); }
+  .tr-apply { border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft); font: inherit; font-size: 0.74rem; font-weight: 700; padding: 0.22rem 0.65rem; border-radius: 8px; cursor: pointer; }
+  .tr-apply:hover { border-color: var(--gold); color: var(--gold); }
+  .tr-apply.is-on { background: var(--gold); color: #1a1400; border-color: var(--gold); }
+  :root[data-theme='light'] .tr-date { color-scheme: light; }
   .chart { width: 100%; }
   .chart-svg { width: 100%; height: auto; display: block; overflow: visible; }
   .chart-legend { display: flex; flex-wrap: wrap; gap: 0.4rem 1.1rem; margin: 0.5rem 0 0; font-size: 0.78rem; color: var(--ink-soft); }
