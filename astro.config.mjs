@@ -254,6 +254,10 @@ export default defineConfig({
   site: SITE,
   trailingSlash: 'ignore',
   redirects,
+  // Hide the floating Astro dev-toolbar island in `npm run dev` — it only ever
+  // appears in development (never in the production build), but it clutters
+  // visual reviews/screenshots. Turn back on if you need its audits.
+  devToolbar: { enabled: false },
   // Honor a harness/CI-assigned PORT (enables preview autoPort when 4321 is
   // busy); fall back to Astro's default 4321 for a plain `npm run dev`.
   server: { port: Number(process.env.PORT) || 4321, host: true },
