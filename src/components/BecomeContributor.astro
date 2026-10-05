@@ -8,6 +8,9 @@ interface Props {
 }
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// The lowest-barrier contribution: a prefilled GitHub issue (report / suggest).
+const issueUrl = `${REPO}/issues/new?labels=content&title=${encodeURIComponent('Report an issue / suggest a topic')}&body=${encodeURIComponent('Issue or topic:\n\nArticle URL (if any):\n\nDetails / sources:\n')}`;
 ---
 
 <section class="become container block" data-pre-contributor data-pagefind-ignore>
@@ -15,19 +18,20 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
     <div class="become-text">
       <b class="become-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md', 'NegaraKu.md-ஐ கட்டியெழுப்ப உதவுங்கள்', 'NegaraKu.md の構築を手伝う', 'NegaraKu.md 구축을 도와주세요', 'ช่วยกันสร้าง NegaraKu.md', 'Giúp xây dựng NegaraKu.md', 'Bantu bangun NegaraKu.md')}</b>
       <p>{L(
-        'Sesiapa boleh melaporkan isu atau mencadangkan topik — penulisan kini melalui jemputan sahaja. Semuanya terbuka di GitHub, dan setiap perubahan disemak.',
-        'Anyone can report an issue or suggest a topic — authoring is currently invitation-only. It’s all open on GitHub, and every change is reviewed.',
-        '任何人都可以报告问题或建议主题——目前撰稿仅限受邀。一切都在 GitHub 上公开，每处改动都会经过审阅。',
-        'யார் வேண்டுமானாலும் ஒரு சிக்கலைப் புகாரளிக்கலாம் அல்லது ஒரு தலைப்பைப் பரிந்துரைக்கலாம் — எழுதுதல் தற்போது அழைப்பின் பேரில் மட்டுமே. அனைத்தும் GitHub-இல் திறந்துள்ளது; ஒவ்வொரு மாற்றமும் மதிப்பாய்வு செய்யப்படுகிறது.',
-        'だれでも問題を報告したり、トピックを提案したりできます — 執筆は現在、招待制です。すべて GitHub 上で公開され、あらゆる変更がレビューされます。',
-        '누구나 문제를 신고하거나 주제를 제안할 수 있습니다 — 집필은 현재 초대제입니다. 모든 것이 GitHub에 공개되어 있으며, 모든 변경 사항은 검토됩니다.',
-        'ใครก็รายงานปัญหาหรือเสนอหัวข้อได้ — ขณะนี้การเขียนเปิดเฉพาะผู้ได้รับเชิญ ทุกอย่างเปิดเผยบน GitHub และทุกการเปลี่ยนแปลงจะได้รับการตรวจทาน',
-        'Bất kỳ ai cũng có thể báo lỗi hoặc đề xuất chủ đề — việc biên soạn hiện chỉ dành cho người được mời. Tất cả đều mở trên GitHub, và mọi thay đổi đều được đánh giá.',
-        'Siapa saja bisa melaporkan masalah atau mengusulkan topik — penulisan saat ini hanya melalui undangan. Semuanya terbuka di GitHub, dan setiap perubahan ditinjau.',
+        'Sesiapa boleh melaporkan isu atau mencadangkan topik — penulisan kini melalui jemputan sahaja. Semuanya terbuka di GitHub, dan setiap perubahan disemak sebelum disiarkan.',
+        'Anyone can report an issue or suggest a topic — authoring is currently invitation-only. It’s all open on GitHub, and every change is reviewed before it goes live.',
+        '任何人都可以报告问题或建议主题——目前撰稿仅限受邀。一切都在 GitHub 上公开，每处改动在上线前都会经过审阅。',
+        'யார் வேண்டுமானாலும் ஒரு சிக்கலைப் புகாரளிக்கலாம் அல்லது ஒரு தலைப்பைப் பரிந்துரைக்கலாம் — எழுதுதல் தற்போது அழைப்பின் பேரில் மட்டுமே. அனைத்தும் GitHub-இல் திறந்துள்ளது; ஒவ்வொரு மாற்றமும் நேரலையாகும் முன் மதிப்பாய்வு செய்யப்படுகிறது.',
+        'だれでも問題を報告したり、トピックを提案したりできます — 執筆は現在、招待制です。すべて GitHub 上で公開され、あらゆる変更が公開前にレビューされます。',
+        '누구나 문제를 신고하거나 주제를 제안할 수 있습니다 — 집필은 현재 초대제입니다. 모든 것이 GitHub에 공개되어 있으며, 모든 변경 사항은 공개 전에 검토됩니다.',
+        'ใครก็รายงานปัญหาหรือเสนอหัวข้อได้ — ขณะนี้การเขียนเปิดเฉพาะผู้ได้รับเชิญ ทุกอย่างเปิดเผยบน GitHub และทุกการเปลี่ยนแปลงจะได้รับการตรวจทานก่อนเผยแพร่',
+        'Bất kỳ ai cũng có thể báo lỗi hoặc đề xuất chủ đề — việc biên soạn hiện chỉ dành cho người được mời. Tất cả đều mở trên GitHub, và mọi thay đổi đều được rà soát trước khi công khai.',
+        'Siapa saja bisa melaporkan masalah atau mengusulkan topik — penulisan saat ini hanya melalui undangan. Semuanya terbuka di GitHub, dan setiap perubahan ditinjau sebelum ditayangkan.',
       )}</p>
     </div>
     <div class="become-actions">
-      <a class="btn btn-primary" href={REPO} rel="noopener">★ {L('Bintangkan di GitHub', 'Star on GitHub', '在 GitHub 点星', 'GitHub-இல் நட்சத்திரமிடுங்கள்', 'GitHub でスターを付ける', 'GitHub에서 별표 주기', 'ให้ดาวบน GitHub', 'Gắn sao trên GitHub', 'Beri bintang di GitHub')}</a>
+      <a class="btn btn-primary" href={issueUrl} target="_blank" rel="noopener">{L('Laporkan isu / cadangkan topik', 'Report an issue / suggest a topic', '报告问题 / 建议主题', 'சிக்கலைப் புகாரளி / தலைப்பைப் பரிந்துரை', '問題を報告 / トピックを提案', '문제 신고 / 주제 제안', 'รายงานปัญหา / เสนอหัวข้อ', 'Báo lỗi / đề xuất chủ đề', 'Laporkan masalah / usulkan topik')} ↗</a>
+      <a class="btn btn-ghost" href={REPO} rel="noopener">★ {L('Bintangkan', 'Star on GitHub', '点星', 'நட்சத்திரமிடு', 'スター', '별표', 'ให้ดาว', 'Gắn sao', 'Beri bintang')}</a>
       <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Cara menyumbang', 'How to contribute', '如何贡献', 'எப்படி பங்களிப்பது', '貢献の方法', '기여하는 방법', 'วิธีการมีส่วนร่วม', 'Cách đóng góp', 'Cara berkontribusi')} →</a>
     </div>
   </div>

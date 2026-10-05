@@ -1,8 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { PILLARS, getPillarColor, loc } from '@/lib/categories';
-import { localePath, LOCALES } from '@/lib/i18n';
-import { REPO } from '@/lib/site';
+import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import BecomeContributor from './BecomeContributor.astro';
 
@@ -11,9 +10,6 @@ interface Props {
 }
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
-
-// Live language count — never hard-code "three"/"nine" in prose.
-const nLang = LOCALES.length;
 
 // Search example chips — each opens REAL results at /search?q=…
 const chips = [
@@ -31,9 +27,6 @@ const starts = [
   { icon: '🪪', href: '/glossary/mykad', label: L('MyKad & identiti', 'MyKad & identity', 'MyKad 与身份', 'MyKad & அடையாளம்', 'MyKad と身分証', 'MyKad와 신분', 'MyKad และตัวตน', 'MyKad & danh tính', 'MyKad & identitas') },
   { icon: '🚓', href: '/public-safety/how-to-report-a-crime-malaysia', label: L('Buat laporan polis', 'Make a police report', '报案', 'காவல் புகார் செய்தல்', '警察への届け出', '경찰 신고하기', 'แจ้งความตำรวจ', 'Trình báo công an', 'Membuat laporan polisi') },
 ];
-
-// Prefilled GitHub issue for low-barrier suggestions (needs a GitHub account).
-const issueUrl = `${REPO}/issues/new?labels=content&title=${encodeURIComponent('Suggest a topic / report an error')}&body=${encodeURIComponent('Topic or error:\n\nArticle URL (if any):\n\nDetails / sources:\n')}`;
 
 // How to read & verify — two primary step cards.
 const guides = [
@@ -53,6 +46,7 @@ const guides = [
       L('Buka artikel daripada laluan, kategori atau carian.', 'Open an article from a path, category, or search.', '从路径、分类或搜索打开文章。', 'ஒரு பாதை, வகை அல்லது தேடலில் இருந்து ஒரு கட்டுரையைத் திறங்கள்.', 'パス、カテゴリ、または検索から記事を開きます。', '경로, 카테고리 또는 검색에서 기사를 여세요.', 'เปิดบทความจากเส้นทาง หมวดหมู่ หรือการค้นหา', 'Mở một bài viết từ một hướng, danh mục hoặc tìm kiếm.', 'Buka artikel dari jalur, kategori atau pencarian.'),
       L('Tatal ke bahagian “Sumber” di hujung — rujukannya disenaraikan di sana.', 'Scroll to the “Sources” at the foot — its references are listed there.', '滚动到末尾的“来源”——参考资料都列在那里。', 'அடிப்பகுதியில் உள்ள “ஆதாரங்கள்” வரை உருட்டுங்கள் — அதன் குறிப்புகள் அங்கே பட்டியலிடப்பட்டுள்ளன.', '末尾の「出典」までスクロールします — 参照元はそこに一覧化されています。', '하단의 “출처”까지 스크롤하세요 — 참고 자료가 거기에 나열되어 있습니다.', 'เลื่อนไปที่ส่วน “แหล่งที่มา” ท้ายบทความ — รายการอ้างอิงอยู่ที่นั่น', 'Cuộn xuống phần “Nguồn” ở cuối bài — các tài liệu tham khảo được liệt kê ở đó.', 'Gulir ke bagian “Sumber” di bawah — rujukannya tercantum di sana.'),
       L('Ikuti pautan sumber untuk mengesahkan sendiri.', 'Follow a source link to verify it yourself.', '点击来源链接自行查证。', 'நீங்களே சரிபார்க்க ஒரு ஆதாரச் சுட்டியைப் பின்தொடருங்கள்.', '出典リンクをたどって自分で確認します。', '직접 확인하려면 출처 링크를 따라가세요.', 'ตามลิงก์แหล่งที่มาเพื่อตรวจสอบด้วยตนเอง', 'Theo liên kết nguồn để tự mình xác minh.', 'Ikuti tautan sumber untuk memverifikasinya sendiri.'),
+      L('Semak tarikh kemas kini terakhir artikel untuk menilai kesegaran.', 'Check the article’s last-updated date to judge freshness.', '查看文章的最后更新日期以判断时效性。', 'புத்தநிலையை மதிப்பிட கட்டுரையின் கடைசி புதுப்பிப்பு தேதியைச் சரிபார்க்கவும்.', '記事の最終更新日を確認して鮮度を判断します。', '최신성을 판단하려면 기사의 마지막 업데이트 날짜를 확인하세요.', 'ตรวจสอบวันที่อัปเดตล่าสุดของบทความเพื่อประเมินความใหม่', 'Kiểm tra ngày cập nhật gần nhất của bài viết để đánh giá độ mới.', 'Periksa tanggal pembaruan terakhir artikel untuk menilai kesegaran.'),
     ],
   },
 ];
@@ -66,15 +60,15 @@ const guides = [
   ]}
   title={L('Mula di sini', 'Start here', '从这里开始', 'இங்கே தொடங்குங்கள்', 'ここから始める', '여기서 시작', 'เริ่มต้นที่นี่', 'Bắt đầu tại đây', 'Mulai di sini')}
   desc={L(
-    'Titik permulaan anda untuk memahami Malaysia — panduan bersumber dan mudah difahami tentang rakyat, institusi, kehidupan harian dan perniagaannya, dibina untuk manusia dan AI. Inilah cara mencari jalan anda.',
-    'Your starting point for understanding Malaysia — sourced, plain-language guides to its people, institutions, daily life and business, built for people and AI. Here is how to find your way around.',
-    '你认识马来西亚的起点——关于其人民、制度、日常生活与商业的注明来源、通俗易懂的指南，为人类与 AI 而建。下面教你如何上手。',
-    'மலேசியாவைப் புரிந்துகொள்ள உங்கள் தொடக்கப் புள்ளி — அதன் மக்கள், நிறுவனங்கள், அன்றாட வாழ்க்கை மற்றும் வணிகம் குறித்த ஆதாரம் காட்டப்பட்ட, எளிய மொழி வழிகாட்டிகள், மனிதர்களுக்கும் AI-க்கும் கட்டமைக்கப்பட்டவை. வழியைக் கண்டறிவது இப்படி.',
-    'マレーシアを理解するための出発点 — その人々、制度、日常生活、ビジネスに関する、出典付きでわかりやすいガイド。人にも AI にも使えるように作られています。使い方は以下のとおりです。',
-    '말레이시아를 이해하기 위한 출발점 — 사람, 제도, 일상, 비즈니스에 대한 출처 기반의 쉬운 안내서로, 사람과 AI 모두를 위해 만들어졌습니다. 이용 방법은 아래와 같습니다.',
-    'จุดเริ่มต้นของคุณในการทำความเข้าใจมาเลเซีย — คู่มือที่อ้างอิงแหล่งที่มาและเข้าใจง่ายเกี่ยวกับผู้คน สถาบัน ชีวิตประจำวัน และธุรกิจ สร้างขึ้นสำหรับทั้งคนและ AI นี่คือวิธีเริ่มต้นใช้งาน',
-    'Điểm khởi đầu của bạn để hiểu Malaysia — những hướng dẫn có dẫn nguồn, dễ hiểu về con người, thể chế, đời sống hằng ngày và kinh doanh, được xây dựng cho cả con người lẫn AI. Đây là cách để bắt đầu.',
-    'Titik awal Anda untuk memahami Malaysia — panduan bersumber dan mudah dipahami tentang rakyat, institusi, kehidupan sehari-hari, dan bisnisnya, dibangun untuk manusia dan AI. Berikut cara menjelajahinya.',
+    'Titik permulaan anda untuk memahami Malaysia — panduan bersumber untuk manusia dan AI.',
+    'Your starting point for understanding Malaysia — sourced guides for people and AI.',
+    '你认识马来西亚的起点——为人类与 AI 打造的注明来源指南。',
+    'மலேசியாவைப் புரிந்துகொள்ள உங்கள் தொடக்கப் புள்ளி — மனிதர்களுக்கும் AI-க்கும் ஆதாரம் காட்டப்பட்ட வழிகாட்டிகள்.',
+    'マレーシアを理解するための出発点 — 人にも AI にも使える出典付きガイド。',
+    '말레이시아를 이해하기 위한 출발점 — 사람과 AI를 위한 출처 기반 안내서.',
+    'จุดเริ่มต้นของคุณในการทำความเข้าใจมาเลเซีย — คู่มืออ้างอิงแหล่งที่มาสำหรับคนและ AI',
+    'Điểm khởi đầu để hiểu Malaysia — hướng dẫn có dẫn nguồn cho con người và AI.',
+    'Titik awal Anda untuk memahami Malaysia — panduan bersumber untuk manusia dan AI.',
   )}
 />
 
@@ -83,17 +77,7 @@ const guides = [
   <div class="psec">
     <header><span>{L('Apa yang anda mahu lakukan?', 'What would you like to do?', '你想做什么？', 'நீங்கள் என்ன செய்ய விரும்புகிறீர்கள்?', '何をしたいですか？', '무엇을 하시겠어요?', 'คุณอยากทำอะไร?', 'Bạn muốn làm gì?', 'Apa yang ingin Anda lakukan?')}</span></header>
     <div class="psec-body">
-      <p class="lead">{L(
-        `NegaraKu.md ialah pangkalan pengetahuan percuma dan terbuka tentang Malaysia, dalam ${nLang} bahasa, dibina untuk manusia dan AI. Cari di bawah, atau pilih satu laluan.`,
-        `NegaraKu.md is a free, open knowledge base about Malaysia, in ${nLang} languages, built for people and AI. Search below, or pick a path.`,
-        `NegaraKu.md 是一个免费、开放的马来西亚知识库，提供 ${nLang} 种语言，为人类与 AI 而建。在下方搜索，或选择一条路径。`,
-        `NegaraKu.md என்பது மலேசியா பற்றிய இலவச, திறந்த அறிவுத் தளம், ${nLang} மொழிகளில், மனிதர்களுக்கும் AI-க்கும் கட்டமைக்கப்பட்டது. கீழே தேடுங்கள், அல்லது ஒரு பாதையைத் தேர்ந்தெடுங்கள்.`,
-        `NegaraKu.md は、マレーシアに関する無料でオープンな知識ベースで、${nLang} 言語で提供し、人にも AI にも使えます。下で検索するか、進む道を選んでください。`,
-        `NegaraKu.md는 말레이시아에 관한 무료 오픈 지식 베이스로, ${nLang}개 언어로 제공되며 사람과 AI 모두를 위해 만들어졌습니다. 아래에서 검색하거나 경로를 선택하세요.`,
-        `NegaraKu.md คือฐานความรู้เกี่ยวกับมาเลเซียที่ฟรีและเปิดกว้าง มีให้ ${nLang} ภาษา สร้างขึ้นสำหรับทั้งคนและ AI ค้นหาด้านล่าง หรือเลือกเส้นทาง`,
-        `NegaraKu.md là một cơ sở tri thức miễn phí, mở về Malaysia, bằng ${nLang} ngôn ngữ, được xây dựng cho cả con người lẫn AI. Tìm kiếm bên dưới, hoặc chọn một hướng đi.`,
-        `NegaraKu.md adalah basis pengetahuan gratis dan terbuka tentang Malaysia, dalam ${nLang} bahasa, dibangun untuk manusia dan AI. Cari di bawah, atau pilih jalur.`,
-      )}</p>
+      <p class="lead">{L('Cari sesuatu yang khusus, atau pilih satu laluan di bawah.', 'Search for something specific, or choose a path below.', '搜索具体内容，或在下方选择一条路径。', 'குறிப்பிட்ட ஒன்றைத் தேடுங்கள், அல்லது கீழே ஒரு பாதையைத் தேர்ந்தெடுங்கள்.', '具体的に検索するか、下から進む道を選んでください。', '구체적으로 검색하거나, 아래에서 경로를 선택하세요.', 'ค้นหาสิ่งที่เฉพาะเจาะจง หรือเลือกเส้นทางด้านล่าง', 'Tìm kiếm điều gì đó cụ thể, hoặc chọn một hướng đi bên dưới.', 'Cari sesuatu yang spesifik, atau pilih jalur di bawah.')}</p>
       <div class="search-row">
         <a class="cta-btn cta-primary" href={localePath('/search', locale)}><span aria-hidden="true">🔍</span> {L('Cari Malaysia', 'Search Malaysia', '搜索马来西亚', 'மலேசியாவைத் தேடு', 'マレーシアを検索', '말레이시아 검색', 'ค้นหามาเลเซีย', 'Tìm kiếm Malaysia', 'Cari Malaysia')} →</a>
       </div>
@@ -124,9 +108,7 @@ const guides = [
         ))}
       </div>
       <div class="orient-more">
-        <a class="omore" href={localePath('/categories', locale)}>{L('Semua kategori', 'All categories', '所有分类', 'அனைத்து வகைகள்', 'すべてのカテゴリ', '모든 카테고리', 'ทุกหมวดหมู่', 'Tất cả danh mục', 'Semua kategori')} →</a>
-        <a class="omore" href={localePath('/graph', locale)}>{L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱', 'அறிவு வரைபடம்', 'ナレッジグラフ', '지식 그래프', 'กราฟความรู้', 'Đồ thị tri thức', 'Graf Pengetahuan')} →</a>
-        <a class="omore" href={localePath('/explore', locale)}>{L('Terokai Malaysia', 'Explore Malaysia', '探索马来西亚', 'மலேசியாவை ஆராயுங்கள்', 'マレーシアを探索', '말레이시아 탐색', 'สำรวจมาเลเซีย', 'Khám phá Malaysia', 'Jelajahi Malaysia')} →</a>
+        <a class="omore" href={localePath('/explore', locale)}>{L('Lebih banyak cara meneroka', 'More ways to explore', '更多探索方式', 'ஆராய மேலும் வழிகள்', 'さらに探索する方法', '더 둘러보는 방법', 'วิธีสำรวจเพิ่มเติม', 'Thêm cách khám phá', 'Cara lain menjelajah')} →</a>
       </div>
     </div>
   </div>
@@ -135,7 +117,7 @@ const guides = [
 <!-- 3. Popular starting points -->
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Titik permulaan popular', 'Popular starting points', '热门起点', 'பிரபல தொடக்கப் புள்ளிகள்', '人気の出発点', '인기 시작점', 'จุดเริ่มต้นยอดนิยม', 'Điểm khởi đầu phổ biến', 'Titik awal populer')}</span></header>
+    <header><span>{L('Titik permulaan yang dicadangkan', 'Suggested starting points', '推荐起点', 'பரிந்துரைக்கப்பட்ட தொடக்கப் புள்ளிகள்', 'おすすめの出発点', '추천 시작점', 'จุดเริ่มต้นที่แนะนำ', 'Điểm khởi đầu gợi ý', 'Titik awal yang disarankan')}</span></header>
     <div class="psec-body">
       <div class="starts">
         {starts.map((s) => (
@@ -185,15 +167,6 @@ const guides = [
           {L('salin Markdown artikel (atau tambah .md pada URL) ke dalam alat AI anda.', 'copy an article’s Markdown (or append .md to the URL) into your AI tool.', '将文章的 Markdown（或在网址后加 .md）复制到你的 AI 工具中。', 'கட்டுரையின் Markdown-ஐ (அல்லது URL-ல் .md சேர்த்து) உங்கள் AI கருவியில் நகலெடுங்கள்.', '記事の Markdown（または URL に .md）を AI ツールにコピーします。', '기사의 Markdown(또는 URL에 .md 추가)을 AI 도구에 복사하세요.', 'คัดลอก Markdown ของบทความ (หรือเพิ่ม .md ต่อท้าย URL) ลงในเครื่องมือ AI ของคุณ', 'sao chép Markdown của bài viết (hoặc thêm .md vào URL) vào công cụ AI của bạn.', 'salin Markdown artikel (atau tambahkan .md ke URL) ke alat AI Anda.')}
           {' '}
           <a href={localePath('/llms', locale)}>{L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI')} →</a>
-        </p>
-        <p class="um">
-          <b><span aria-hidden="true">✍️</span> {L('Cadangkan pembetulan atau topik', 'Suggest a correction or topic', '建议更正或新主题', 'திருத்தம் அல்லது தலைப்பைப் பரிந்துரையுங்கள்', '修正やトピックを提案', '수정 또는 주제 제안', 'เสนอการแก้ไขหรือหัวข้อ', 'Đề xuất chỉnh sửa hoặc chủ đề', 'Sarankan koreksi atau topik')}</b>
-          {' — '}
-          <a href={issueUrl} target="_blank" rel="noopener">{L('buka isu GitHub', 'open a GitHub issue', '提交 GitHub issue', 'GitHub issue திறக்க', 'GitHub で issue を開く', 'GitHub 이슈 열기', 'เปิด GitHub issue', 'mở một issue GitHub', 'buka isu GitHub')} ↗</a>
-          {' '}
-          <span class="um-note">{L('(akaun GitHub diperlukan)', '(GitHub account required)', '（需要 GitHub 账户）', '(GitHub கணக்கு தேவை)', '（GitHub アカウントが必要）', '(GitHub 계정 필요)', '(ต้องมีบัญชี GitHub)', '(cần tài khoản GitHub)', '(perlu akun GitHub)')}</span>
-          {' '}
-          {L('Penulisan kini melalui jemputan sahaja.', 'Authoring is currently invitation-only.', '目前仅限受邀撰稿。', 'எழுதுதல் தற்போது அழைப்பின் பேரில் மட்டுமே.', '現在、執筆は招待制です。', '현재 집필은 초대제로 운영됩니다.', 'ขณะนี้การเขียนเปิดเฉพาะผู้ได้รับเชิญเท่านั้น', 'Hiện việc biên soạn chỉ dành cho người được mời.', 'Penulisan saat ini hanya melalui undangan.')}
         </p>
       </div>
     </div>
