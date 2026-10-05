@@ -1,7 +1,9 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { loc } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
 import { MILESTONES } from '@/lib/milestones';
+import PageHero from './PageHero.astro';
 
 interface Props {
   locale: Locale;
@@ -20,23 +22,27 @@ const dateFmt = (d: string) =>
   });
 ---
 
-<section class="container block">
-  <p class="eyebrow">{L('Projek', 'Project', '项目', 'திட்டம்', 'プロジェクト', '프로젝트', 'โครงการ', 'Dự án', 'Proyek')}</p>
-  <h1>{L('Pencapaian Penting', 'Milestones', '里程碑', 'மைல்கற்கள்', 'マイルストーン', '주요 이정표', 'เหตุการณ์สำคัญ', 'Cột mốc quan trọng', 'Tonggak Pencapaian')}</h1>
-  <p class="lede">
-    {L(
-      'Perjalanan NegaraKu.md setakat ini — detik-detik penting yang menandakan sejauh mana pangkalan pengetahuan ini telah berkembang.',
-      'The journey of NegaraKu.md so far — the moments that mark how far this knowledge base has come.',
-      'NegaraKu.md 至今的历程——标记这个知识库走了多远的重要时刻。',
-      'NegaraKu.md-இன் இதுவரையிலான பயணம் — இந்த அறிவுத் தளம் எவ்வளவு தூரம் வளர்ந்துள்ளது என்பதைக் குறிக்கும் தருணங்கள்.',
-      'NegaraKu.md のこれまでの歩み — この知識ベースがどこまで来たかを刻む節目の数々。',
-      'NegaraKu.md의 지금까지의 여정 — 이 지식 베이스가 얼마나 발전해 왔는지를 보여주는 순간들.',
-      'เส้นทางของ NegaraKu.md จนถึงปัจจุบัน — ช่วงเวลาสำคัญที่บ่งบอกว่าฐานความรู้นี้ได้ก้าวหน้ามาไกลเพียงใด',
-      'Hành trình của NegaraKu.md cho đến nay — những khoảnh khắc đánh dấu chặng đường phát triển của cơ sở tri thức này.',
-      'Perjalanan NegaraKu.md sejauh ini — momen-momen penting yang menandai sejauh mana basis pengetahuan ini telah berkembang.',
-    )}
-  </p>
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
+    { label: L('Pencapaian Penting', 'Milestones', '里程碑', 'மைல்கற்கள்', 'マイルストーン', '주요 이정표', 'เหตุการณ์สำคัญ', 'Cột mốc quan trọng', 'Tonggak Pencapaian') },
+  ]}
+  title={L('Pencapaian Penting', 'Milestones', '里程碑', 'மைல்கற்கள்', 'マイルストーン', '주요 이정표', 'เหตุการณ์สำคัญ', 'Cột mốc quan trọng', 'Tonggak Pencapaian')}
+  desc={L(
+    'Perjalanan NegaraKu.md setakat ini — detik-detik penting yang menandakan sejauh mana pangkalan pengetahuan ini telah berkembang.',
+    'The journey of NegaraKu.md so far — the moments that mark how far this knowledge base has come.',
+    'NegaraKu.md 至今的历程——标记这个知识库走了多远的重要时刻。',
+    'NegaraKu.md-இன் இதுவரையிலான பயணம் — இந்த அறிவுத் தளம் எவ்வளவு தூரம் வளர்ந்துள்ளது என்பதைக் குறிக்கும் தருணங்கள்.',
+    'NegaraKu.md のこれまでの歩み — この知識ベースがどこまで来たかを刻む節目の数々。',
+    'NegaraKu.md의 지금까지의 여정 — 이 지식 베이스가 얼마나 발전해 왔는지를 보여주는 순간들.',
+    'เส้นทางของ NegaraKu.md จนถึงปัจจุบัน — ช่วงเวลาสำคัญที่บ่งบอกว่าฐานความรู้นี้ได้ก้าวหน้ามาไกลเพียงใด',
+    'Hành trình của NegaraKu.md cho đến nay — những khoảnh khắc đánh dấu chặng đường phát triển của cơ sở tri thức này.',
+    'Perjalanan NegaraKu.md sejauh ini — momen-momen penting yang menandai sejauh mana basis pengetahuan ini telah berkembang.',
+  )}
+/>
 
+<section class="container block">
   <ol class="timeline">
     {
       items.map((m) => (
@@ -68,10 +74,6 @@ const dateFmt = (d: string) =>
 </section>
 
 <style>
-  .eyebrow { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); font-weight: 700; margin: 0 0 0.4rem; }
-  h1 { margin: 0 0 0.5rem; }
-  .lede { color: var(--ink-soft); max-width: 64ch; margin: 0 0 2.4rem; }
-
   .timeline { list-style: none; margin: 0; padding: 0; position: relative; }
   /* The vertical spine. */
   .timeline::before {
