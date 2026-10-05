@@ -22,16 +22,18 @@
       if (localStorage.getItem('nk:cv-oriented') === '1') d.dataset.cvOriented = '1';
       // Default-language preference (Settings): only redirect from the home
       // roots, only once per session, never mid-browse. Manual MS/EN/ZH always wins.
+      var LOCS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id'];
+      var NONDEF = ['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id'];
       var pref = localStorage.getItem('nk-default-lang');
-      if ((pref === 'ms' || pref === 'en' || pref === 'zh') && !sessionStorage.getItem('nk-lang-redirected')) {
+      if (pref && LOCS.indexOf(pref) !== -1 && !sessionStorage.getItem('nk-lang-redirected')) {
         var p = location.pathname.replace(/\/+$/, '') || '/';
-        var isHome = p === '' || p === '/' || p === '/en' || p === '/zh';
-        if (isHome) {
-          var cur = p === '/en' ? 'en' : p === '/zh' ? 'zh' : 'ms';
-          if (cur !== pref) {
-            sessionStorage.setItem('nk-lang-redirected', '1');
-            location.replace(pref === 'ms' ? '/' : '/' + pref);
-          }
+        var seg = p.split('/').filter(Boolean)[0] || '';
+        var cur = NONDEF.indexOf(seg) !== -1 ? seg : 'ms';
+        // Only redirect from a language HOME root, never mid-browse.
+        var isHome = p === '/' || (NONDEF.indexOf(p.replace(/^\//, '')) !== -1);
+        if (isHome && cur !== pref) {
+          sessionStorage.setItem('nk-lang-redirected', '1');
+          location.replace(pref === 'ms' ? '/' : '/' + pref);
         }
       }
     } catch (e) {}

@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { localePath } from '@/lib/i18n';
+import { localePath, LOCALES, LOCALE_NAMES } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 
 // Visitor preferences, persisted to localStorage. No account needed; everything
@@ -52,9 +52,9 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
     </p>
     <div class="opts" data-group="lang">
       <label class="opt"><input type="radio" name="deflang" value="auto" /><span>{L('Automatik', 'Auto', '自动', 'தானியங்கி', '自動', '자동', 'อัตโนมัติ', 'Tự động', 'Otomatis')}</span></label>
-      <label class="opt"><input type="radio" name="deflang" value="ms" /><span>Bahasa Melayu (MS)</span></label>
-      <label class="opt"><input type="radio" name="deflang" value="en" /><span>English (EN)</span></label>
-      <label class="opt"><input type="radio" name="deflang" value="zh" /><span>中文 (ZH)</span></label>
+      {LOCALES.map((l) => (
+        <label class="opt"><input type="radio" name="deflang" value={l} /><span>{LOCALE_NAMES[l]} ({l.toUpperCase()})</span></label>
+      ))}
     </div>
   </section>
 
@@ -131,14 +131,43 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
   const flash = () => { if (!savedFlag) return; savedFlag.hidden = false; clearTimeout(flashT); flashT = setTimeout(() => (savedFlag.hidden = true), 1200); };
 
   if (el) {
-    // --- Default language (nk-default-lang) ---
+    const setRaw = (k: string, v: string) => { try { localStorage.setItem(k, v); } catch {} };
+    const NONDEFAULT = ['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id'];
+
+    // Remember where the visitor came FROM, captured on load (not at Save time,
+    // since changing language navigates and loses the referrer). Only an in-site
+    // (same-origin) page is stored; an off-site referrer clears it → Save goes home.
+    const RETURN_KEY = 'nk:settings-return';
+    try {
+      const ref = document.referrer;
+      const here = location.pathname.replace(/\/+$/, '');
+      if (ref) {
+        const u = new URL(ref);
+        if (u.origin !== location.origin) sessionStorage.removeItem(RETURN_KEY);
+        else if (u.pathname.replace(/\/+$/, '') !== here) sessionStorage.setItem(RETURN_KEY, u.pathname);
+        // else: reloaded Settings itself → keep whatever was stored
+      }
+    } catch {}
+
+    // Strip a leading locale prefix → bare path; then re-add the chosen locale.
+    const delocalize = (path: string) => {
+      const segs = path.split('/').filter(Boolean);
+      if (segs.length && NONDEFAULT.includes(segs[0])) return '/' + segs.slice(1).join('/');
+      return path.startsWith('/') ? path : '/' + path;
+    };
+    const relocalize = (bare: string, loc: string) => {
+      const clean = !bare || bare === '/' ? '/' : bare.startsWith('/') ? bare : '/' + bare;
+      if (loc === 'ms') return clean;
+      return clean === '/' ? '/' + loc : '/' + loc + clean;
+    };
+
+    // --- Default language (nk-default-lang) — BUFFERED, applied on Save ---
     const dl = get('nk-default-lang') || 'auto';
     el.querySelectorAll<HTMLInputElement>('[data-group="lang"] input').forEach((r) => {
       r.checked = r.value === dl;
-      r.addEventListener('change', () => { if (r.checked) { if (r.value === 'auto') del('nk-default-lang'); else set('nk-default-lang', r.value); } });
     });
 
-    // --- 3. Reading: theme + text size (shared keys with the Aa control) ---
+    // --- Reading: text size — LIVE (instant preview, the one exception) ---
     const seg = (group: string, key: string, dataAttr: string, dflt: string) => {
       const cur = root.getAttribute(dataAttr) || dflt;
       const btns = el.querySelectorAll<HTMLElement>(`[data-group="${group}"] button`);
@@ -154,54 +183,56 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
     };
     seg('size', 'nk-text-size', 'data-text-size', 'standard');
 
-    // --- 4. Card rows (nk-card-rows-hidden = array of HIDDEN row keys) ---
+    // --- Card rows (nk-card-rows-hidden = HIDDEN keys) — BUFFERED, applied on Save ---
     const ALL_ROWS = ['path', 'details', 'custody', 'visitors'];
     const readHidden = () => { try { const v = JSON.parse(get('nk-card-rows-hidden') || '[]'); return Array.isArray(v) ? v : []; } catch { return []; } };
-    let hidden = readHidden();
     // Default (no key yet) matches ArticleList: all rows hidden by default.
-    const rowsInit = get('nk-card-rows-hidden') === null ? ALL_ROWS.slice() : hidden;
+    const rowsInit = get('nk-card-rows-hidden') === null ? ALL_ROWS.slice() : readHidden();
     el.querySelectorAll<HTMLInputElement>('[data-group="rows"] input').forEach((b) => {
       b.checked = !rowsInit.includes(b.value); // checked = shown
-      b.addEventListener('change', () => {
-        const h = ALL_ROWS.filter((r) => !el.querySelector<HTMLInputElement>(`[data-group="rows"] input[value="${r}"]`)?.checked);
-        set('nk-card-rows-hidden', JSON.stringify(h));
-      });
     });
 
-    // --- Reset all ---
+    // --- Welcome card toggle (nk:welcomed = '1' means dismissed) — BUFFERED ---
+    const welcomeCb = document.getElementById('set-welcome-cb') as HTMLInputElement | null;
+    if (welcomeCb) welcomeCb.checked = get('nk:welcomed') !== '1';
+
+    // --- Reset all (clears everything + reloads) ---
     document.getElementById('set-reset')?.addEventListener('click', () => {
-      ['nk-visible-status', 'nk-default-lang', 'nk-theme', 'nk-text-size', 'nk-card-rows-hidden'].forEach(del);
+      ['nk-visible-status', 'nk-default-lang', 'nk-theme', 'nk-text-size', 'nk-card-rows-hidden', 'nk:welcomed'].forEach(del);
+      try { sessionStorage.removeItem('nk-lang-redirected'); } catch {}
       root.removeAttribute('data-text-size');
+      root.removeAttribute('data-welcomed');
       flash();
       setTimeout(() => location.reload(), 300);
     });
 
-    // --- Save & return: settings apply live, so this just goes back to the page
-    // the visitor came from (same-origin), or home if there's no in-site history. ---
+    // --- Save: commit the buffered choices, then return to the previous page
+    // (re-localized to the chosen language when one was picked). ---
     const doneBtn = document.getElementById('set-done');
     doneBtn?.addEventListener('click', () => {
-      const home = doneBtn.getAttribute('data-home') || '/';
-      try {
-        const ref = document.referrer;
-        if (ref && new URL(ref).origin === location.origin && history.length > 1) {
-          history.back();
-          return;
-        }
-      } catch {}
-      location.href = home;
-    });
+      // 1. default language
+      const sel = (el.querySelector('[data-group="lang"] input:checked') as HTMLInputElement | null)?.value || 'auto';
+      if (sel === 'auto') del('nk-default-lang'); else setRaw('nk-default-lang', sel);
+      // 2. card rows
+      const h = ALL_ROWS.filter((r) => !(el.querySelector(`[data-group="rows"] input[value="${r}"]`) as HTMLInputElement | null)?.checked);
+      setRaw('nk-card-rows-hidden', JSON.stringify(h));
+      // 3. welcome card
+      if (welcomeCb && !welcomeCb.checked) setRaw('nk:welcomed', '1'); else del('nk:welcomed');
+      // A fresh default-language choice should take effect even in this session.
+      try { sessionStorage.removeItem('nk-lang-redirected'); } catch {}
 
-    // --- Welcome card toggle (nk:welcomed = '1' means dismissed) ---
-    // Checked = card shows on the home page; unchecked = dismissed.
-    const welcomeCb = document.getElementById('set-welcome-cb');
-    if (welcomeCb) {
-      welcomeCb.checked = get('nk:welcomed') !== '1';
-      welcomeCb.addEventListener('change', () => {
-        if (welcomeCb.checked) { del('nk:welcomed'); root.removeAttribute('data-welcomed'); }
-        else { try { localStorage.setItem('nk:welcomed', '1'); } catch {} root.setAttribute('data-welcomed', '1'); }
-        flash();
-      });
-    }
+      // 4. return to the previous in-site page, re-localized if a language was chosen
+      let ret: string | null = null;
+      try { ret = sessionStorage.getItem(RETURN_KEY); } catch {}
+      let target: string;
+      if (sel === 'auto') {
+        target = ret || (doneBtn.getAttribute('data-home') || '/');
+      } else {
+        target = relocalize(ret ? delocalize(ret) : '/', sel);
+      }
+      try { sessionStorage.removeItem(RETURN_KEY); } catch {}
+      location.href = target;
+    });
   }
 </script>
 
