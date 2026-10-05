@@ -4,6 +4,7 @@ import { CATEGORY_COLORS, getCategory, loc } from '@/lib/categories';
 import { getGraph } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
+import { stat } from '@/lib/pageStats';
 
 interface Props {
   locale: Locale;
@@ -47,10 +48,7 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
     'Mọi chủ đề và cách chúng kết nối — được tạo ra từ các tham chiếu chéo thực tế trong kho nội dung.',
     'Setiap topik dan bagaimana kaitannya — dihasilkan dari referensi silang nyata dalam korpus.',
   )}
-  stats={[
-    { value: g.nodeCount, label: L('nod', 'nodes', '节点', 'கணுக்கள்', 'ノード', '노드', 'โหนด', 'nút', 'simpul') },
-    { value: g.linkCount, label: L('pautan', 'links', '连接', 'இணைப்புகள்', 'リンク', '링크', 'ลิงก์', 'liên kết', 'tautan') },
-  ]}
+  stats={[stat.nodes(g.nodeCount, locale), stat.links(g.linkCount, locale)]}
 />
 
 <section class="container gwrap">

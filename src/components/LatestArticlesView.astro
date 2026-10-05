@@ -3,6 +3,7 @@ import type { Locale } from '@/lib/categories';
 import { articlesForLocale, siteStats } from '@/lib/content';
 import { localePath, t } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
+import { stat } from '@/lib/pageStats';
 import ArticleList from './ArticleList.astro';
 
 // Latest Articles — the whole corpus as a reverse-chronological timeline. Same
@@ -53,12 +54,7 @@ const stats = await siteStats(locale);
     'บทความที่ปรับปรุงล่าสุด (สูงสุด 100 บทความ) จัดกลุ่มตามวันที่.', 'Các bài viết được cập nhật gần đây nhất (tối đa 100), nhóm theo ngày.',
     'Pembaruan terbaru — artikel yang paling baru diperbarui (hingga 100), dikelompokkan menurut tanggal.',
   )}
-  stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'trụ cột', 'pilar') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ', '카테고리', 'หมวดหมู่', 'danh mục', 'kategori') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ', '하위 카테고리', 'หมวดหมู่ย่อย', 'danh mục con', 'subkategori') },
-    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ', 'chủ đề', 'topik') },
-  ]}
+  stats={[stat.pillars(stats.sections, locale), stat.categories(stats.categories, locale), stat.subcategories(stats.topics, locale), stat.topics(stats.articles, locale)]}
 />
 
 <ArticleList locale={locale} articles={canonical} filters={['sec', 'cat', 'top', 'status']} hideSort groupByDate />

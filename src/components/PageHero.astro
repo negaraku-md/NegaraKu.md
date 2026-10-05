@@ -32,6 +32,12 @@ const articleCount = hasOwn ? 0 : (await articlesForLocale(locale)).length;
 const heroStats = hasOwn ? stats! : kbGlanceStats(locale, articleCount);
 const statsLabel = hasOwn ? undefined : KB_GLANCE_LABEL[locale];
 
+// One number standard for every hero card: a raw number is rendered with
+// thousands separators (1000 → 1,000); pre-formatted strings ("130M", "9 → 1",
+// "—") pass through untouched.
+const fmtStat = (v: string | number) =>
+  typeof v === 'number' ? v.toLocaleString('en-US') : v;
+
 // Brand consistency: wherever the "NegaraKu.md" wordmark appears in a hero title
 // OR description, render the ".md" in gold to match the header/footer/home wordmark.
 const WM = 'NegaraKu.md';
@@ -83,7 +89,7 @@ const descIdx = desc ? desc.indexOf(WM) : -1;
           {heroStats.map((s) => (
             <div class="stat">
               {s.icon && <span class="sicon" aria-hidden="true">{s.icon}</span>}
-              <dt>{s.value}</dt>
+              <dt>{fmtStat(s.value)}</dt>
               <dd>{s.label}</dd>
             </div>
           ))}

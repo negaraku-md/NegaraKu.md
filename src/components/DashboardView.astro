@@ -5,6 +5,7 @@ import { corpusTopics, isPublishable } from '@/lib/content';
 import { getDashboard } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
+import { stat } from '@/lib/pageStats';
 
 interface Props {
   locale: Locale;
@@ -115,35 +116,30 @@ const avgSources = sourced ? (sources / sourced).toFixed(1) : '0';
     'Trạng thái của cơ sở tri thức NegaraKu.md — được tính lại mỗi lần build.',
     'Keadaan basis pengetahuan NegaraKu.md — dihitung ulang pada setiap build.',
   )}
-  stats={[
-    { value: sections.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'trụ cột', 'pilar') },
-    { value: catSet.size, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리', 'หมวดหมู่', 'danh mục', 'kategori') },
-    { value: subcatSet.size, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리', 'หมวดหมู่ย่อย', 'danh mục con', 'subkategori') },
-    { value: totalTopics, label: L('topik', 'topics', '主题', 'தலைப்புகள்', '主題', '주제', 'หัวข้อ', 'chủ đề', 'topik') },
-  ]}
+  stats={[stat.pillars(sections.length, locale), stat.categories(catSet.size, locale), stat.subcategories(subcatSet.size, locale), stat.topics(totalTopics, locale)]}
 />
 
 <section class="container block">
   <div class="counters">
     <div>
-      <b>{d.totals.masterArticles ?? d.totals.articles}</b>
+      <b>{(d.totals.masterArticles ?? d.totals.articles).toLocaleString('en-US')}</b>
       <span>{L('artikel induk', 'master articles', '主文章', 'முதன்மைக் கட்டுரைகள்', 'マスター記事', '마스터 기사', 'บทความหลัก', 'bài viết gốc', 'artikel induk')}</span>
       <small>{L('satu setiap subjek', 'one per subject', '每个主题一篇', 'ஒவ்வொரு தலைப்புக்கும் ஒன்று', '主題ごとに1つ', '주제당 하나', 'หนึ่งบทความต่อหนึ่งเรื่อง', 'một bài cho mỗi chủ đề', 'satu per subjek')}</small>
     </div>
     <div>
-      <b>{d.totals.files}</b>
+      <b>{d.totals.files.toLocaleString('en-US')}</b>
       <span>{L('fail bahasa', 'language files', '语言文件', 'மொழி கோப்புகள்', '言語ファイル', '언어 파일', 'ไฟล์ภาษา', 'tệp ngôn ngữ', 'berkas bahasa')}</span>
-      <small>MS {d.totals.filesByLang.ms} · EN {d.totals.filesByLang.en} · ZH {d.totals.filesByLang.zh}</small>
+      <small>MS {d.totals.filesByLang.ms.toLocaleString('en-US')} · EN {d.totals.filesByLang.en.toLocaleString('en-US')} · ZH {d.totals.filesByLang.zh.toLocaleString('en-US')}</small>
     </div>
     <div>
       <b>{d.trilingual.fullPct}%</b>
       <span>{L('semua bahasa penuh', 'fully localized', '各语言齐全', 'அனைத்து மொழிகளும்', '全言語対応', '전체 언어 완비', 'แปลครบทุกภาษา', 'đầy đủ mọi ngôn ngữ', 'semua bahasa lengkap')}</span>
-      <small>{d.trilingual.full}/{d.trilingual.topics} {L('subjek', 'subjects', '主题', 'தலைப்புகள்', '主題', '주제', 'เรื่อง', 'chủ đề', 'subjek')}</small>
+      <small>{d.trilingual.full.toLocaleString('en-US')}/{d.trilingual.topics.toLocaleString('en-US')} {L('subjek', 'subjects', '主题', 'தலைப்புகள்', '主題', '주제', 'เรื่อง', 'chủ đề', 'subjek')}</small>
     </div>
     <div>
       <b>{Math.round(((d.statusDist.published ?? 0) / (d.totals.masterArticles || 1)) * 100)}%</b>
       <span>{L('diterbitkan', 'published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '공개됨', 'เผยแพร่แล้ว', 'đã xuất bản', 'diterbitkan')}</span>
-      <small>{d.statusDist.published}/{d.totals.masterArticles} {L('subjek terbit', 'subjects live', '主题已上线', 'தலைப்புகள் நேரலையில்', '公開中の主題', '공개된 주제', 'เรื่องที่เผยแพร่', 'chủ đề đã xuất bản', 'subjek terbit')}</small>
+      <small>{(d.statusDist.published ?? 0).toLocaleString('en-US')}/{(d.totals.masterArticles ?? d.totals.articles).toLocaleString('en-US')} {L('subjek terbit', 'subjects live', '主题已上线', 'தலைப்புகள் நேரலையில்', '公開中の主題', '공개된 주제', 'เรื่องที่เผยแพร่', 'chủ đề đã xuất bản', 'subjek terbit')}</small>
     </div>
   </div>
   <p class="xlink"><a href={localePath('/analytics', locale)}>{L(

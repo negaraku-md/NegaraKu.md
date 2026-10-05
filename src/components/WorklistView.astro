@@ -45,10 +45,10 @@ for (const a of inProgress) {
 const assigneeSummary = Object.entries(byAssignee).map(([k, n]) => `${k}: ${n}`).join('  ·  ');
 
 const stats = [
-  { value: needsUpdate.length, label: L('perlu kemas kini', 'needs update', '需更新', 'புதுப்பிக்க வேண்டியவை', '要更新', '업데이트 필요', 'ต้องอัปเดต', 'cần cập nhật', 'perlu diperbarui') },
-  { value: reqRedraft.length + reqArchive.length, label: L('permintaan', 'requests', '请求', 'கோரிக்கைகள்', 'リクエスト', '요청', 'คำร้องขอ', 'yêu cầu', 'permintaan') },
-  { value: inProgress.length, label: L('dalam proses', 'in progress', '进行中', 'நடைபெறுகிறது', '進行中', '진행 중', 'กำลังดำเนินการ', 'đang tiến hành', 'dalam proses') },
-  { value: awaiting.length, label: L('menunggu kelulusan', 'awaiting', '待批准', 'ஒப்புதலுக்குக் காத்திருக்கிறது', '承認待ち', '대기 중', 'รอดำเนินการ', 'chờ phê duyệt', 'menunggu persetujuan') },
+  { icon: '🔧', value: needsUpdate.length, label: L('perlu kemas kini', 'needs update', '需更新', 'புதுப்பிக்க வேண்டியவை', '要更新', '업데이트 필요', 'ต้องอัปเดต', 'cần cập nhật', 'perlu diperbarui') },
+  { icon: '📨', value: reqRedraft.length + reqArchive.length, label: L('permintaan', 'requests', '请求', 'கோரிக்கைகள்', 'リクエスト', '요청', 'คำร้องขอ', 'yêu cầu', 'permintaan') },
+  { icon: '⏳', value: inProgress.length, label: L('dalam proses', 'in progress', '进行中', 'நடைபெறுகிறது', '進行中', '진행 중', 'กำลังดำเนินการ', 'đang tiến hành', 'dalam proses') },
+  { icon: '⏰', value: awaiting.length, label: L('menunggu kelulusan', 'awaiting', '待批准', 'ஒப்புதலுக்குக் காத்திருக்கிறது', '承認待ち', '대기 중', 'รอดำเนินการ', 'chờ phê duyệt', 'menunggu persetujuan') },
 ];
 ---
 

@@ -3,6 +3,7 @@ import type { Locale } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import { getCredits } from '@/lib/apidata';
 import PageHero from './PageHero.astro';
+import { stat } from '@/lib/pageStats';
 
 interface Props {
   locale: Locale;
@@ -50,12 +51,7 @@ const num = (n: number) => n.toLocaleString(locale === 'zh' ? 'zh' : 'en');
     'Những người viết, biên tập và đánh giá NegaraKu.md. Trang này được tạo tự động từ lịch sử thay đổi của từng bài viết.',
     'Orang-orang yang menulis, menyunting, dan meninjau NegaraKu.md. Halaman ini dihasilkan otomatis dari riwayat perubahan setiap artikel.',
   )}
-  stats={[
-    { value: stats.people, label: L('orang', 'people', '人', 'பேர்', '人', '명', 'คน', 'người', 'orang') },
-    { value: stats.reviews, label: L('semakan', 'reviews', '审阅', 'மறுஆய்வுகள்', 'レビュー', '검토', 'การตรวจทาน', 'lượt đánh giá', 'tinjauan') },
-    { value: stats.topics, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ', 'chủ đề', 'topik') },
-    { value: stats.aiAssistedTopics, label: L('draf AI', 'AI-drafted', 'AI 起草', 'AI வரைவு', 'AI 下書き', 'AI 초안', 'ร่างโดย AI', 'bản nháp do AI', 'draf AI') },
-  ]}
+  stats={[stat.people(stats.people, locale), stat.reviews(stats.reviews, locale), stat.topics(stats.topics, locale), stat.aiDrafted(stats.aiAssistedTopics, locale)]}
 />
 
 <!-- AI-assist honesty note (§13) -->

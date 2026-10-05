@@ -5,6 +5,7 @@ import { getChangelog } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
 import PageHero from './PageHero.astro';
+import { stat } from '@/lib/pageStats';
 
 interface Props {
   locale: Locale;
@@ -86,11 +87,7 @@ const enNote = L(
     'Mọi thay đổi đối với NegaraKu.md — nội dung, bản dịch và cải tiến — theo ngày và người đóng góp.',
     'Setiap perubahan pada NegaraKu.md — konten, terjemahan dan peningkatan — berdasarkan tanggal dan kontributor.',
   )}
-  stats={[
-    { value: c.total, label: L('kemas kini', 'updates', '次更新', 'புதுப்பிப்புகள்', '更新', '업데이트', 'การอัปเดต', 'cập nhật', 'pembaruan') },
-    { value: filters.length - 1, label: L('jenis', 'types', '类型', 'வகைகள்', '種類', '유형', 'ประเภท', 'loại', 'jenis') },
-    { value: (c.tally.content ?? 0) + (c.tally.translate ?? 0), label: L('kandungan', 'content', '内容', 'உள்ளடக்கம்', 'コンテンツ', '콘텐츠', 'เนื้อหา', 'nội dung', 'konten') },
-  ]}
+  stats={[stat.updates(c.total, locale), stat.types(filters.length - 1, locale), stat.content((c.tally.content ?? 0) + (c.tally.translate ?? 0), locale)]}
 />
 
 <section class="container clwrap" id="clwrap">

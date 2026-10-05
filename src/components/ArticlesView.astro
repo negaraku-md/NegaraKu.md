@@ -4,6 +4,7 @@ import { getPillar } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
+import { stat } from '@/lib/pageStats';
 import ArticleList from './ArticleList.astro';
 
 // All Articles — the whole corpus in the shared ArticleList, with every filter
@@ -43,12 +44,7 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
     'เรียกดูฐานความรู้ทั้งหมด — จัดเรียง กรอง และค้นหา.', 'Duyệt toàn bộ cơ sở kiến thức — sắp xếp, lọc và tìm kiếm.',
     'Jelajahi seluruh basis pengetahuan — urutkan, filter, dan cari.',
   )}
-  stats={[
-    { value: secCount, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'trụ cột', 'pilar') },
-    { value: catCount, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리', 'หมวดหมู่', 'danh mục', 'kategori') },
-    { value: topCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리', 'หมวดหมู่ย่อย', 'danh mục con', 'subkategori') },
-    { value: canonical.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ', 'chủ đề', 'topik') },
-  ]}
+  stats={[stat.pillars(secCount, locale), stat.categories(catCount, locale), stat.subcategories(topCount, locale), stat.topics(canonical.length, locale)]}
 />
 
 <ArticleList locale={locale} articles={canonical} filters={['sec', 'cat', 'top', 'status']} />

@@ -4,6 +4,7 @@ import { PILLARS, categoriesInPillar, getCategoryColor, loc } from '@/lib/catego
 import { articlesForLocale, siteStats } from '@/lib/content';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
+import { stat } from '@/lib/pageStats';
 
 // The /categories hub — the definitive "browse everything" surface. Every
 // launched category, grouped by its section (Understand / Living / Business),
@@ -45,12 +46,7 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
     'Duyệt mọi danh mục theo trụ cột — chọn một để khám phá các chủ đề và bài viết của nó.',
     'Telusuri setiap kategori berdasarkan pilar — pilih satu untuk menjelajahi topik dan artikelnya.',
   )}
-  stats={[
-    { value: stats.sections, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'trụ cột', 'pilar') },
-    { value: stats.categories, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリー', '카테고리', 'หมวดหมู่', 'danh mục', 'kategori') },
-    { value: stats.topics, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリー', '하위 카테고리', 'หมวดหมู่ย่อย', 'danh mục con', 'subkategori') },
-    { value: stats.articles, label: L('topik', 'topics', '主题', 'தலைப்புகள்', '主題', '주제', 'หัวข้อ', 'chủ đề', 'topik') },
-  ]}
+  stats={[stat.pillars(stats.sections, locale), stat.categories(stats.categories, locale), stat.subcategories(stats.topics, locale), stat.topics(stats.articles, locale)]}
 />
 
 <section class="container block">

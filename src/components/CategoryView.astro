@@ -5,6 +5,7 @@ import type { Article } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
+import { stat } from '@/lib/pageStats';
 import HubGroups from './HubGroups.astro';
 import ArticleStrip from './ArticleStrip.astro';
 
@@ -32,10 +33,10 @@ const catCount = pillar ? categoriesInPillar(pillar).length : 0;
 // Hero stats: drop the "categories" tile for a category with no parent pillar,
 // rather than showing a meaningless "0 categories".
 const heroStats = [
-  { value: PILLARS.length, label: L('tonggak', 'pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'trụ cột', 'pilar') },
-  ...(pillar ? [{ value: catCount, label: L('kategori', 'categories', '分类', 'வகைகள்', 'カテゴリ', '카테고리', 'หมวดหมู่', 'danh mục', 'kategori') }] : []),
-  { value: topicCount, label: L('subkategori', 'subcategories', '子分类', 'துணை வகைகள்', 'サブカテゴリ', '하위 카테고리', 'หมวดหมู่ย่อย', 'danh mục con', 'subkategori') },
-  { value: articles.length, label: L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ', 'chủ đề', 'topik') },
+  stat.pillars(PILLARS.length, locale),
+  ...(pillar ? [stat.categories(catCount, locale)] : []),
+  stat.subcategories(topicCount, locale),
+  stat.topics(articles.length, locale),
 ];
 
 // Every category uses the service archetype now — one uniform, scalable body.
