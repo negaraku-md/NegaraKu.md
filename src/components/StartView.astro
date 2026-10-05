@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { PILLARS, getPillarColor, loc } from '@/lib/categories';
-import { localePath } from '@/lib/i18n';
+import { localePath, LOCALES } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 import BecomeContributor from './BecomeContributor.astro';
 
@@ -11,86 +11,19 @@ interface Props {
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
-// What you can do here — each action names the "how" in one line.
-const actions = [
-  {
-    icon: '📖',
-    title: L('Baca', 'Read', '阅读', 'படியுங்கள்', '読む', '읽기', 'อ่าน', 'Đọc', 'Baca'),
-    body: L(
-      'Semak lalu tiga tonggak — Fahami, Hidup, Bisnes — atau layari mengikut kategori.',
-      'Browse the three pillars — Understand, Living, Business — or dive in by category.',
-      '浏览三大支柱——认识、生活、营商——或按分类深入了解。',
-      'மூன்று தூண்களையும் — புரிதல், வாழ்க்கை, வணிகம் — உலவிப் பாருங்கள், அல்லது வகை வாரியாக ஆழமாகச் செல்லுங்கள்.',
-      '三つの柱 — 理解、暮らし、ビジネス — をざっと見るか、カテゴリ別に掘り下げてください。',
-      '세 가지 기둥 — 이해, 생활, 비즈니스 — 을 둘러보거나, 카테고리별로 자세히 살펴보세요.',
-      'เลือกดูสามเสาหลัก — ทำความเข้าใจ ใช้ชีวิต ธุรกิจ — หรือเจาะลึกตามหมวดหมู่',
-      'Duyệt qua ba trụ cột — Thấu hiểu, Đời sống, Kinh doanh — hoặc tìm hiểu sâu theo danh mục.',
-      'Telusuri tiga pilar — Pahami, Hidup, Bisnis — atau jelajahi berdasarkan kategori.',
-    ),
-  },
-  {
-    icon: '🔍',
-    title: L('Cari', 'Search', '搜索', 'தேடுங்கள்', '検索', '검색', 'ค้นหา', 'Tìm kiếm', 'Cari'),
-    body: L(
-      'Tekan “/” di mana-mana, atau ketik ikon carian, dan taip apa sahaja.',
-      'Press “/” anywhere, or tap the search icon, and type anything.',
-      '在任意页面按“/”，或点击搜索图标，输入任何内容。',
-      'எங்கு வேண்டுமானாலும் “/” அழுத்துங்கள், அல்லது தேடல் சின்னத்தைத் தட்டுங்கள், பிறகு எதை வேண்டுமானாலும் தட்டச்சு செய்யுங்கள்.',
-      'どこでも「/」を押すか、検索アイコンをタップして、何でも入力してください。',
-      '어디서든 “/”를 누르거나 검색 아이콘을 탭한 뒤, 무엇이든 입력하세요.',
-      'กด “/” ที่ใดก็ได้ หรือแตะไอคอนค้นหา แล้วพิมพ์อะไรก็ได้',
-      'Nhấn “/” ở bất kỳ đâu, hoặc chạm vào biểu tượng tìm kiếm, rồi nhập bất cứ nội dung nào.',
-      'Tekan “/” di mana saja, atau ketuk ikon pencarian, lalu ketik apa saja.',
-    ),
-  },
-  {
-    icon: '📌',
-    title: L('Petik', 'Cite', '引用', 'மேற்கோள் காட்டுங்கள்', '引用する', '인용', 'อ้างอิง', 'Trích dẫn', 'Kutip'),
-    body: L(
-      'Setiap dakwaan yang boleh disemak membawa sumbernya, disenaraikan di hujung artikel.',
-      'Every checkable claim carries its source, listed at the foot of each article.',
-      '每条可核查的陈述都附有来源，列于文章末尾。',
-      'சரிபார்க்கக்கூடிய ஒவ்வொரு கூற்றும் அதன் ஆதாரத்தைக் கொண்டுள்ளது — ஒவ்வொரு கட்டுரையின் அடிப்பகுதியில் பட்டியலிடப்பட்டுள்ளது.',
-      '検証可能な主張にはすべて出典があり、各記事の末尾に一覧化されています。',
-      '검증 가능한 모든 주장에는 출처가 있으며, 각 기사 하단에 나열되어 있습니다.',
-      'ทุกข้อกล่าวอ้างที่ตรวจสอบได้จะมีแหล่งที่มากำกับ โดยระบุไว้ที่ท้ายบทความแต่ละบทความ',
-      'Mọi khẳng định có thể kiểm chứng đều kèm theo nguồn của nó, được liệt kê ở cuối mỗi bài viết.',
-      'Setiap klaim yang dapat diperiksa menyertakan sumbernya, tercantum di akhir artikel.',
-    ),
-  },
-  {
-    icon: '🤖',
-    title: L('Tanya AI', 'Ask an AI', '询问 AI', 'AI-யிடம் கேளுங்கள்', 'AIに聞く', 'AI에게 질문', 'ถาม AI', 'Hỏi AI', 'Tanya AI'),
-    body: L(
-      'Kandungannya Markdown biasa — salin dan tampal terus ke dalam alat AI anda.',
-      'The content is plain Markdown — copy and paste it straight into your AI tool.',
-      '内容是纯 Markdown——直接复制粘贴到你的 AI 工具中。',
-      'உள்ளடக்கம் எளிய Markdown — அதை நகலெடுத்து நேரடியாக உங்கள் AI கருவியில் ஒட்டுங்கள்.',
-      'コンテンツはプレーンな Markdown — そのままコピーして AI ツールに貼り付けてください。',
-      '콘텐츠는 순수 Markdown입니다 — 복사하여 AI 도구에 바로 붙여넣으세요.',
-      'เนื้อหาเป็น Markdown ธรรมดา — คัดลอกและวางลงในเครื่องมือ AI ของคุณได้โดยตรง',
-      'Nội dung là Markdown thuần túy — sao chép và dán trực tiếp vào công cụ AI của bạn.',
-      'Kontennya Markdown biasa — salin dan tempel langsung ke alat AI Anda.',
-    ),
-  },
-  {
-    icon: '✍️',
-    title: L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献する', '기여하기', 'มีส่วนร่วม', 'Đóng góp', 'Berkontribusi'),
-    body: L(
-      'Pangkalan pengetahuan ini dibina bersama komunitinya — tambah topik, perdalam artikel, atau perbaiki yang sedia ada. Semuanya terbuka di GitHub, dan sesiapa boleh menyumbang.',
-      'This knowledge base is built by its community — add a topic, deepen an article, or improve an existing one. It is all open on GitHub, and anyone can contribute.',
-      '这个知识库由社区共同建设——新增主题、深化文章，或改进现有内容。一切都在 GitHub 上开放，人人都能贡献。',
-      'இந்த அறிவுத் தளம் அதன் சமூகத்தால் இணைந்து கட்டமைக்கப்படுகிறது — ஒரு தலைப்பைச் சேர்க்கவும், கட்டுரையை ஆழப்படுத்தவும், அல்லது இருப்பதை மேம்படுத்தவும். அனைத்தும் GitHub-இல் திறந்துள்ளது, யார் வேண்டுமானாலும் பங்களிக்கலாம்.',
-      'この知識ベースはコミュニティとともに作られています — トピックを追加し、記事を深め、既存の内容を改善できます。すべて GitHub で公開されており、誰でも貢献できます。',
-      '이 지식 베이스는 커뮤니티가 함께 만듭니다 — 주제를 추가하고, 기사를 보강하고, 기존 내용을 개선하세요. 모든 것이 GitHub에 공개되어 있으며 누구나 기여할 수 있습니다.',
-      'ฐานความรู้นี้สร้างขึ้นร่วมกับชุมชน — เพิ่มหัวข้อ ขยายความบทความ หรือปรับปรุงเนื้อหาที่มีอยู่ ทุกอย่างเปิดบน GitHub และใครก็ร่วมสร้างได้',
-      'Cơ sở tri thức này được xây dựng cùng cộng đồng — thêm chủ đề, mở rộng bài viết, hoặc cải thiện nội dung hiện có. Tất cả đều mở trên GitHub, và bất kỳ ai cũng có thể đóng góp.',
-      'Basis pengetahuan ini dibangun bersama komunitasnya — tambahkan topik, perdalam artikel, atau tingkatkan yang sudah ada. Semuanya terbuka di GitHub, dan siapa saja bisa berkontribusi.',
-    ),
-  },
+// Live language count — never hard-code "three"/"nine" in prose again.
+const nLang = LOCALES.length;
+
+// Concrete, high-intent starting points (real published articles, one per pillar
+// + a daily-life glossary term) so a newcomer immediately sees something relevant.
+const starts = [
+  { icon: '🏢', href: '/business/business-structures-malaysia', label: L('Mulakan perniagaan', 'Starting a business', '创业', 'வணிகம் தொடங்குதல்', 'ビジネスを始める', '사업 시작하기', 'เริ่มต้นธุรกิจ', 'Khởi nghiệp', 'Memulai bisnis') },
+  { icon: '🏛️', href: '/government/parliament', label: L('Cara Malaysia ditadbir', 'How Malaysia is governed', '马来西亚如何治理', 'மலேசியா எப்படி ஆளப்படுகிறது', 'マレーシアの統治', '말레이시아의 통치 방식', 'มาเลเซียปกครองอย่างไร', 'Malaysia được quản trị thế nào', 'Bagaimana Malaysia diperintah') },
+  { icon: '🪪', href: '/glossary/mykad', label: L('MyKad & identiti', 'MyKad & identity', 'MyKad 与身份', 'MyKad & அடையாளம்', 'MyKad と身分証', 'MyKad와 신분', 'MyKad และตัวตน', 'MyKad & danh tính', 'MyKad & identitas') },
+  { icon: '🚓', href: '/public-safety/how-to-report-a-crime-malaysia', label: L('Buat laporan polis', 'Make a police report', '报案', 'காவல் புகார் செய்தல்', '警察への届け出', '경찰 신고하기', 'แจ้งความตำรวจ', 'Trình báo công an', 'Membuat laporan polisi') },
 ];
 
-// Step-by-step mini-guides for the four things newcomers most want to do.
+// Step-by-step mini-guides — the practical "How to use it" section.
 const guides = [
   {
     icon: '🔍',
@@ -108,6 +41,15 @@ const guides = [
       L('Buka artikel daripada tonggak, kategori atau carian.', 'Open an article from a pillar, category, or search.', '从支柱、分类或搜索打开文章。', 'ஒரு தூண், வகை அல்லது தேடலில் இருந்து ஒரு கட்டுரையைத் திறங்கள்.', '柱、カテゴリ、または検索から記事を開きます。', '기둥, 카테고리 또는 검색에서 기사를 여세요.', 'เปิดบทความจากเสาหลัก หมวดหมู่ หรือการค้นหา', 'Mở một bài viết từ trụ cột, danh mục hoặc tìm kiếm.', 'Buka artikel dari pilar, kategori atau pencarian.'),
       L('Tatal ke bahagian “Sumber” di hujung — setiap fakta membawa rujukannya.', 'Scroll to the “Sources” at the foot — every fact carries its reference.', '滚动到末尾的“来源”——每条事实都附有引用。', 'அடிப்பகுதியில் உள்ள “ஆதாரங்கள்” வரை உருட்டுங்கள் — ஒவ்வொரு உண்மையும் அதன் குறிப்பைக் கொண்டுள்ளது.', '末尾の「出典」までスクロールします — すべての事実に参照元があります。', '하단의 “출처”까지 스크롤하세요 — 모든 사실에는 참고 자료가 있습니다.', 'เลื่อนไปที่ส่วน “แหล่งที่มา” ท้ายบทความ — ทุกข้อเท็จจริงจะมีการอ้างอิงกำกับ', 'Cuộn xuống phần “Nguồn” ở cuối bài — mỗi dữ kiện đều kèm theo tài liệu tham khảo của nó.', 'Gulir ke bagian “Sumber” di bawah — setiap fakta menyertakan rujukannya.'),
       L('Ikuti pautan sumber untuk mengesahkan sendiri.', 'Follow a source link to verify it yourself.', '点击来源链接自行查证。', 'நீங்களே சரிபார்க்க ஒரு ஆதாரச் சுட்டியைப் பின்தொடருங்கள்.', '出典リンクをたどって自分で確認します。', '직접 확인하려면 출처 링크를 따라가세요.', 'ตามลิงก์แหล่งที่มาเพื่อตรวจสอบด้วยตนเอง', 'Theo liên kết nguồn để tự mình xác minh.', 'Ikuti tautan sumber untuk memverifikasinya sendiri.'),
+    ],
+  },
+  {
+    icon: '🤖',
+    title: L('Guna dengan AI anda', 'Use with your AI', '配合你的 AI 使用', 'உங்கள் AI உடன் பயன்படுத்துங்கள்', 'お使いの AI で使う', '당신의 AI와 함께 사용', 'ใช้กับ AI ของคุณ', 'Dùng với AI của bạn', 'Gunakan dengan AI Anda'),
+    steps: [
+      L('Buka mana-mana artikel, kemudian “Salin Markdown” — atau tambah .md pada URLnya.', 'Open any article, then “Copy Markdown” — or append .md to its URL.', '打开任意文章，点击“复制 Markdown”——或在其网址后追加 .md。', 'எந்த கட்டுரையையும் திறந்து “Markdown நகலெடு” — அல்லது அதன் URL-ல் .md சேர்க்கவும்.', '任意の記事を開き「Markdown をコピー」— または URL に .md を付けます。', '아무 기사나 열고 “Markdown 복사” — 또는 URL에 .md를 붙이세요.', 'เปิดบทความใดก็ได้ แล้ว “คัดลอก Markdown” — หรือเพิ่ม .md ต่อท้าย URL', 'Mở bất kỳ bài viết nào, rồi “Sao chép Markdown” — hoặc thêm .md vào URL.', 'Buka artikel mana pun, lalu “Salin Markdown” — atau tambahkan .md ke URL-nya.'),
+      L('Tampalnya ke dalam alat AI anda — ia Markdown bersih yang berpetikan sumber.', 'Paste it into your AI tool — it is clean, sourced Markdown.', '粘贴到你的 AI 工具中——它是干净、注明来源的 Markdown。', 'அதை உங்கள் AI கருவியில் ஒட்டுங்கள் — இது சுத்தமான, ஆதாரம் காட்டப்பட்ட Markdown.', 'お使いの AI ツールに貼り付けます — 出典付きのクリーンな Markdown です。', '당신의 AI 도구에 붙여넣으세요 — 출처가 있는 깔끔한 Markdown입니다.', 'วางลงในเครื่องมือ AI ของคุณ — เป็น Markdown ที่สะอาดและมีแหล่งอ้างอิง', 'Dán vào công cụ AI của bạn — đó là Markdown sạch, có dẫn nguồn.', 'Tempel ke alat AI Anda — Markdown bersih yang bersumber.'),
+      L('Untuk korpus penuh, lihat halaman Untuk AI (llms.txt).', 'For the whole corpus, see the For AI page (llms.txt).', '若需完整语料，请查看“面向 AI”页面（llms.txt）。', 'முழு கார்பஸுக்கு, “AI-க்கு” பக்கத்தைப் (llms.txt) பார்க்கவும்.', '全コーパスは「AI 向け」ページ（llms.txt）をご覧ください。', '전체 코퍼스는 “AI를 위해” 페이지(llms.txt)를 참고하세요.', 'สำหรับคลังข้อความทั้งหมด ดูหน้า “สำหรับ AI” (llms.txt)', 'Để xem toàn bộ kho văn bản, hãy xem trang “Dành cho AI” (llms.txt).', 'Untuk korpus lengkap, lihat halaman Untuk AI (llms.txt).'),
     ],
   },
   {
@@ -130,32 +72,37 @@ const guides = [
   ]}
   title={L('Mula di sini', 'Start here', '从这里开始', 'இங்கே தொடங்குங்கள்', 'ここから始める', '여기서 시작', 'เริ่มต้นที่นี่', 'Bắt đầu tại đây', 'Mulai di sini')}
   desc={L(
-    'Baharu di NegaraKu.md? Inilah apa ia, cara ia disusun, dan segala yang boleh anda lakukan — dalam dua minit.',
-    'New to NegaraKu.md? Here’s what it is, how it’s organized, and everything you can do — in two minutes.',
-    '初次来到 NegaraKu.md？这里用两分钟讲清楚：它是什么、如何组织，以及你能做的一切。',
-    'NegaraKu.md-க்குப் புதியவரா? அது என்ன, எப்படி ஒழுங்கமைக்கப்பட்டுள்ளது, மற்றும் நீங்கள் செய்யக்கூடிய அனைத்தும் — இரண்டு நிமிடங்களில், இதோ.',
-    'NegaraKu.md は初めてですか？それが何か、どう構成され、何ができるのか — 2分でご紹介します。',
-    'NegaraKu.md가 처음이신가요? 그것이 무엇인지, 어떻게 구성되어 있는지, 그리고 할 수 있는 모든 것을 — 2분 안에 소개합니다.',
-    'เพิ่งเริ่มใช้ NegaraKu.md ใช่ไหม? นี่คือคำอธิบายว่ามันคืออะไร จัดระเบียบอย่างไร และทุกสิ่งที่คุณทำได้ — ภายในสองนาที',
-    'Mới đến với NegaraKu.md? Đây là những gì nó là, cách nó được tổ chức, và mọi điều bạn có thể làm — chỉ trong hai phút.',
-    'Baru di NegaraKu.md? Inilah apa itu, cara penyusunannya, dan segala yang bisa Anda lakukan — dalam dua menit.',
+    'Titik permulaan anda untuk memahami Malaysia — panduan bersumber dan mudah difahami tentang rakyat, institusi, kehidupan harian dan perniagaannya, dibina untuk manusia dan AI. Inilah cara mencari jalan anda.',
+    'Your starting point for understanding Malaysia — sourced, plain-language guides to its people, institutions, daily life and business, built for people and AI. Here is how to find your way around.',
+    '你认识马来西亚的起点——关于其人民、制度、日常生活与商业的注明来源、通俗易懂的指南，为人类与 AI 而建。下面教你如何上手。',
+    'மலேசியாவைப் புரிந்துகொள்ள உங்கள் தொடக்கப் புள்ளி — அதன் மக்கள், நிறுவனங்கள், அன்றாட வாழ்க்கை மற்றும் வணிகம் குறித்த ஆதாரம் காட்டப்பட்ட, எளிய மொழி வழிகாட்டிகள், மனிதர்களுக்கும் AI-க்கும் கட்டமைக்கப்பட்டவை. வழியைக் கண்டறிவது இப்படி.',
+    'マレーシアを理解するための出発点 — その人々、制度、日常生活、ビジネスに関する、出典付きでわかりやすいガイド。人にも AI にも使えるように作られています。使い方は以下のとおりです。',
+    '말레이시아를 이해하기 위한 출발점 — 사람, 제도, 일상, 비즈니스에 대한 출처 기반의 쉬운 안내서로, 사람과 AI 모두를 위해 만들어졌습니다. 이용 방법은 아래와 같습니다.',
+    'จุดเริ่มต้นของคุณในการทำความเข้าใจมาเลเซีย — คู่มือที่อ้างอิงแหล่งที่มาและเข้าใจง่ายเกี่ยวกับผู้คน สถาบัน ชีวิตประจำวัน และธุรกิจ สร้างขึ้นสำหรับทั้งคนและ AI นี่คือวิธีเริ่มต้นใช้งาน',
+    'Điểm khởi đầu của bạn để hiểu Malaysia — những hướng dẫn có dẫn nguồn, dễ hiểu về con người, thể chế, đời sống hằng ngày và kinh doanh, được xây dựng cho cả con người lẫn AI. Đây là cách để bắt đầu.',
+    'Titik awal Anda untuk memahami Malaysia — panduan bersumber dan mudah dipahami tentang rakyat, institusi, kehidupan sehari-hari, dan bisnisnya, dibangun untuk manusia dan AI. Berikut cara menjelajahinya.',
   )}
 />
+
+<nav class="start-cta container" aria-label={L('Mula pantas', 'Quick start', '快速开始', 'விரைவுத் தொடக்கம்', 'クイックスタート', '빠른 시작', 'เริ่มอย่างรวดเร็ว', 'Bắt đầu nhanh', 'Mulai cepat')}>
+  <a class="cta-btn cta-primary" href={localePath('/search', locale)}><span aria-hidden="true">🔍</span> {L('Cari Malaysia', 'Search Malaysia', '搜索马来西亚', 'மலேசியாவைத் தேடு', 'マレーシアを検索', '말레이시아 검색', 'ค้นหามาเลเซีย', 'Tìm kiếm Malaysia', 'Cari Malaysia')}</a>
+  <a class="cta-btn" href={localePath('/explore', locale)}>{L('Layari tiga tonggak', 'Browse the three pillars', '浏览三大支柱', 'மூன்று தூண்களை உலாவு', '3つの柱を見る', '세 가지 기둥 둘러보기', 'ดูสามเสาหลัก', 'Duyệt ba trụ cột', 'Jelajahi tiga pilar')} →</a>
+</nav>
 
 <section class="container block">
   <div class="psec">
     <header><span>{L('Apa itu NegaraKu.md', 'What is NegaraKu.md', '什么是 NegaraKu.md', 'NegaraKu.md என்றால் என்ன', 'NegaraKu.md とは', 'NegaraKu.md란 무엇인가', 'NegaraKu.md คืออะไร', 'NegaraKu.md là gì', 'Apa itu NegaraKu.md')}</span></header>
     <div class="psec-body prose">
       <p>{L(
-        'Pangkalan pengetahuan sumber terbuka tentang Malaysia — setiap topik ialah satu fail Markdown, dipetik sumbernya, dan disemak komuniti. Dibina supaya manusia dan AI sama-sama boleh membacanya, dalam Bahasa Melayu, Inggeris dan Cina.',
-        'An open-source knowledge base about Malaysia — every topic is a Markdown file, sourced and community-reviewed. Built so people and AI can both read it, in Malay, English, and Chinese.',
-        '一个关于马来西亚的开源知识库——每个主题都是一个注明来源、经社区审阅的 Markdown 文件。它面向人类与 AI，皆可阅读，提供马来文、英文和中文。',
-        'மலேசியா பற்றிய ஒரு திறந்த மூல அறிவுத் தளம் — ஒவ்வொரு தலைப்பும் ஒரு Markdown கோப்பு, ஆதாரம் காட்டப்பட்டு சமூகத்தால் மறுஆய்வு செய்யப்பட்டது. மனிதர்களும் AI-யும் இருவரும் படிக்கும் வகையில் — மலாய், ஆங்கிலம் மற்றும் சீன மொழியில் — உருவாக்கப்பட்டது.',
-        'マレーシアに関するオープンソースの知識ベース — 各トピックは出典付きでコミュニティが査読した Markdown ファイルです。人も AI もどちらも読めるように、マレー語・英語・中国語で構築されています。',
-        '말레이시아에 관한 오픈소스 지식 베이스입니다 — 모든 주제는 출처가 명시되고 커뮤니티가 검토한 Markdown 파일입니다. 사람과 AI가 모두 읽을 수 있도록 말레이어, 영어, 중국어로 구축되었습니다.',
-        'ฐานความรู้แบบโอเพนซอร์สเกี่ยวกับมาเลเซีย — ทุกหัวข้อคือไฟล์ Markdown ที่ระบุแหล่งที่มาและผ่านการตรวจทานโดยชุมชน สร้างขึ้นเพื่อให้ทั้งมนุษย์และ AI อ่านได้ ในภาษามลายู อังกฤษ และจีน',
-        'Một cơ sở tri thức mã nguồn mở về Malaysia — mỗi chủ đề là một tệp Markdown, có dẫn nguồn và được cộng đồng rà soát. Được xây dựng để cả con người lẫn AI đều đọc được, bằng tiếng Mã Lai, tiếng Anh và tiếng Trung.',
-        'Basis pengetahuan sumber terbuka tentang Malaysia — setiap topik adalah satu berkas Markdown, disertai sumbernya, dan ditinjau komunitas. Dibangun agar manusia dan AI sama-sama dapat membacanya, dalam bahasa Melayu, Inggris dan Mandarin.',
+        `Pangkalan pengetahuan sumber terbuka tentang Malaysia — setiap topik ialah satu fail Markdown, dipetik sumbernya, dan disemak komuniti. Dibina supaya manusia dan AI sama-sama boleh membacanya — setiap artikel, dalam ${nLang} bahasa.`,
+        `An open-source knowledge base about Malaysia — every topic is a Markdown file, sourced and community-reviewed. Built so people and AI can both read it — every article, in ${nLang} languages.`,
+        `一个关于马来西亚的开源知识库——每个主题都是一个注明来源、经社区审阅的 Markdown 文件。它面向人类与 AI 皆可阅读——每篇文章都提供 ${nLang} 种语言。`,
+        `மலேசியா பற்றிய ஒரு திறந்த மூல அறிவுத் தளம் — ஒவ்வொரு தலைப்பும் ஒரு Markdown கோப்பு, ஆதாரம் காட்டப்பட்டு சமூகத்தால் மறுஆய்வு செய்யப்பட்டது. மனிதர்களும் AI-யும் படிக்கும் வகையில் — ஒவ்வொரு கட்டுரையும் ${nLang} மொழிகளில்.`,
+        `マレーシアに関するオープンソースの知識ベース — 各トピックは出典付きでコミュニティが査読した Markdown ファイルです。人も AI も読めるように — 全記事を ${nLang} 言語で提供しています。`,
+        `말레이시아에 관한 오픈소스 지식 베이스입니다 — 모든 주제는 출처가 명시되고 커뮤니티가 검토한 Markdown 파일입니다. 사람과 AI가 모두 읽을 수 있도록 — 모든 기사를 ${nLang}개 언어로 제공합니다.`,
+        `ฐานความรู้แบบโอเพนซอร์สเกี่ยวกับมาเลเซีย — ทุกหัวข้อคือไฟล์ Markdown ที่ระบุแหล่งที่มาและผ่านการตรวจทานโดยชุมชน สร้างขึ้นเพื่อให้ทั้งมนุษย์และ AI อ่านได้ — ทุกบทความมีให้ใน ${nLang} ภาษา`,
+        `Một cơ sở tri thức mã nguồn mở về Malaysia — mỗi chủ đề là một tệp Markdown, có dẫn nguồn và được cộng đồng rà soát. Được xây dựng để cả con người lẫn AI đều đọc được — mọi bài viết, bằng ${nLang} ngôn ngữ.`,
+        `Basis pengetahuan sumber terbuka tentang Malaysia — setiap topik adalah satu berkas Markdown, disertai sumbernya, dan ditinjau komunitas. Dibangun agar manusia dan AI sama-sama dapat membacanya — setiap artikel, dalam ${nLang} bahasa.`,
       )}</p>
       <p class="more-about"><a href={localePath('/about', locale)}>{L('Baca kisah penuh di Tentang Kami', 'Read the full story on About', '在“关于”阅读完整故事', '“எங்களைப் பற்றி” பக்கத்தில் முழுக் கதையையும் படியுங்கள்', '「概要」で全文を読む', '「소개」에서 전체 이야기를 읽어보세요', 'อ่านเรื่องราวฉบับเต็มที่หน้าเกี่ยวกับเรา', 'Đọc toàn bộ câu chuyện tại trang Về chúng tôi', 'Baca kisah lengkap di Tentang Kami')} →</a></p>
     </div>
@@ -197,17 +144,15 @@ const guides = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Apa yang boleh anda lakukan', 'What you can do here', '你能做什么', 'இங்கே நீங்கள் என்ன செய்யலாம்', 'ここでできること', '여기서 할 수 있는 일', 'สิ่งที่คุณทำได้ที่นี่', 'Những gì bạn có thể làm ở đây', 'Apa yang bisa Anda lakukan')}</span></header>
+    <header><span>{L('Titik permulaan popular', 'Popular starting points', '热门起点', 'பிரபல தொடக்கப் புள்ளிகள்', '人気の出発点', '인기 시작점', 'จุดเริ่มต้นยอดนิยม', 'Điểm khởi đầu phổ biến', 'Titik awal populer')}</span></header>
     <div class="psec-body">
-      <div class="acards">
-        {actions.map((a) => (
-          <div class="acard">
-            <span class="aico" aria-hidden="true">{a.icon}</span>
-            <div>
-              <b>{a.title}</b>
-              <p>{a.body}</p>
-            </div>
-          </div>
+      <div class="starts">
+        {starts.map((s) => (
+          <a class="start-card" href={localePath(s.href, locale)}>
+            <span class="sico" aria-hidden="true">{s.icon}</span>
+            <b>{s.label}</b>
+            <span class="sgo" aria-hidden="true">→</span>
+          </a>
         ))}
       </div>
     </div>
@@ -216,7 +161,7 @@ const guides = [
 
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Panduan ringkas', 'Quick guide', '快速指南', 'விரைவு வழிகாட்டி', 'クイックガイド', '빠른 가이드', 'คู่มือฉบับย่อ', 'Hướng dẫn nhanh', 'Panduan ringkas')}</span></header>
+    <header><span>{L('Cara menggunakannya', 'How to use it', '如何使用', 'எப்படிப் பயன்படுத்துவது', '使い方', '사용 방법', 'วิธีใช้งาน', 'Cách sử dụng', 'Cara menggunakannya')}</span></header>
     <div class="psec-body">
       <div class="guides">
         {guides.map((g) => (
@@ -268,12 +213,29 @@ const guides = [
   .omore { color: var(--gold); text-decoration: none; font-weight: 700; font-size: 0.9rem; }
   .omore:hover { text-decoration: underline; }
 
-  /* Action cards — icon + one-line "how". */
-  .acards { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
-  .acard { display: flex; gap: 0.85rem; background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1.1rem; }
-  .aico { font-size: 1.5rem; line-height: 1; flex: none; }
-  .acard b { display: block; font-family: var(--font-title); font-size: 1.02rem; color: var(--ink); margin-bottom: 0.2rem; }
-  .acard p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.55; }
+  /* Hero quick-start CTA row. */
+  .start-cta { display: flex; flex-wrap: wrap; gap: 0.7rem; margin-top: 1.4rem; }
+  .cta-btn {
+    display: inline-flex; align-items: center; gap: 0.4rem; text-decoration: none;
+    font-family: var(--font-title); font-weight: 700; font-size: 0.95rem;
+    padding: 0.6rem 1.2rem; border-radius: 10px;
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); color: var(--ink);
+  }
+  .cta-btn:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
+  .cta-primary { background: var(--gold); color: var(--accent-contrast); border-color: var(--gold); }
+  .cta-primary:hover { background: var(--gold-600); }
+
+  /* Popular starting points — concrete entry links. */
+  .starts { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 0.8rem; }
+  .start-card {
+    display: flex; align-items: center; gap: 0.7rem; text-decoration: none;
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 0.9rem 1.05rem;
+    transition: border-color 0.15s, transform 0.15s;
+  }
+  .start-card:hover { border-color: var(--gold); transform: translateY(-2px); }
+  .start-card .sico { font-size: 1.4rem; line-height: 1; flex: none; }
+  .start-card b { font-family: var(--font-title); font-size: 0.98rem; color: var(--ink); flex: 1; }
+  .start-card .sgo { color: var(--gold); font-weight: 700; }
 
   /* Quick guide — numbered steps in cards. */
   .guides { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: 1rem; }

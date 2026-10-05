@@ -3,7 +3,10 @@ import type { ContentLocale, Locale } from './categories';
 import { getCategory } from './categories';
 import { subcatLabel, SUBCATEGORY_LABELS } from './subcategories';
 import { SITE } from './site';
-import { localePath, withTrailingSlash } from './i18n';
+import { localePath, withTrailingSlash, LOCALES } from './i18n';
+
+// BCP-47 language tags for every launched locale (for schema.org inLanguage).
+const BCP47: Record<Locale, string> = { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id' };
 
 /** Stable @id for the site's Organization entity — linked from publisher/sponsor. */
 export const ORG_ID = `${SITE}/#organization`;
@@ -20,16 +23,17 @@ function pageUrl(path: string, locale: Locale): string {
  * elsewhere reference it by @id.
  */
 export function organizationJsonLd(locale: Locale = 'en'): Record<string, unknown> {
+  const n = LOCALES.length;
   const description = {
-    ms: 'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — Bahasa Melayu, English, 中文 dan தமிழ்.',
-    en: 'An open-source, AI-friendly knowledge base about Malaysia — Bahasa Melayu, English, 中文 and தமிழ்.',
-    zh: '关于马来西亚的开源、AI 友好知识库——Bahasa Melayu、English、中文与தமிழ்。',
-    ta: 'மலேசியா பற்றிய திறந்த-மூல, AI-நட்பு அறிவுத் தளம் — Bahasa Melayu, English, 中文 மற்றும் தமிழ்.',
-    ja: 'マレーシアに関するオープンソースで AI フレンドリーな知識ベース — Bahasa Melayu、English、中文、தமிழ்。',
-    ko: '말레이시아에 관한 오픈소스이자 AI 친화적인 지식 베이스 — Bahasa Melayu, English, 中文, தமிழ்.',
-    th: 'ฐานความรู้เกี่ยวกับมาเลเซียแบบโอเพนซอร์สและเป็นมิตรกับ AI — Bahasa Melayu, English, 中文 และ தமிழ்.',
-    vi: 'Cơ sở tri thức mã nguồn mở, thân thiện với AI về Malaysia — Bahasa Melayu, English, 中文 và தமிழ்.',
-    id: 'Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia — Bahasa Melayu, English, 中文, dan தமிழ்.',
+    ms: `Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — dalam ${n} bahasa.`,
+    en: `An open-source, AI-friendly knowledge base about Malaysia — in ${n} languages.`,
+    zh: `关于马来西亚的开源、AI 友好知识库——提供 ${n} 种语言。`,
+    ta: `மலேசியா பற்றிய திறந்த-மூல, AI-நட்பு அறிவுத் தளம் — ${n} மொழிகளில்.`,
+    ja: `マレーシアに関するオープンソースで AI フレンドリーな知識ベース — ${n} 言語で提供。`,
+    ko: `말레이시아에 관한 오픈소스이자 AI 친화적인 지식 베이스 — ${n}개 언어로 제공.`,
+    th: `ฐานความรู้เกี่ยวกับมาเลเซียแบบโอเพนซอร์สและเป็นมิตรกับ AI — มีให้ ${n} ภาษา`,
+    vi: `Cơ sở tri thức mã nguồn mở, thân thiện với AI về Malaysia — bằng ${n} ngôn ngữ.`,
+    id: `Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia — dalam ${n} bahasa.`,
   }[locale] ?? '';
   return {
     '@context': 'https://schema.org',
@@ -279,7 +283,7 @@ export function websiteJsonLd(locale: Locale = 'en'): Record<string, unknown> {
     name: 'NegaraKu.md',
     alternateName: 'negaraku.md',
     url: SITE,
-    inLanguage: ['ms-MY', 'en', 'zh-Hans'],
+    inLanguage: LOCALES.map((l) => BCP47[l]),
     description,
     publisher: { '@id': ORG_ID },
     sponsor: {
