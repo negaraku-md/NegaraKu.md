@@ -95,6 +95,24 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
     </div>
   </section>
 
+  <!-- 5. Welcome tour -->
+  <section class="set-card">
+    <h2>{L('Panduan aluan', 'Welcome tour', '欢迎导览', 'வரவேற்பு சுற்றுலா', 'ようこそツアー', '환영 둘러보기', 'ทัวร์ต้อนรับ', 'Hướng dẫn chào mừng', 'Tur selamat datang')}</h2>
+    <div class="opts" data-group="welcome">
+      <label class="opt"><input type="checkbox" id="set-welcome-cb" /><span>{L(
+        'Tunjukkan kad aluan "Mula di sini" di laman utama',
+        'Show the "Start here" welcome card on the home page',
+        '在首页显示“从这里开始”欢迎卡片',
+        'முகப்புப் பக்கத்தில் "இங்கே தொடங்குங்கள்" வரவேற்பு அட்டையைக் காட்டு',
+        'ホームページに「ここから始める」ウェルカムカードを表示',
+        '홈페이지에 "여기서 시작하기" 환영 카드 표시',
+        'แสดงการ์ดต้อนรับ "เริ่มต้นที่นี่" บนหน้าแรก',
+        'Hiển thị thẻ chào mừng "Bắt đầu tại đây" trên trang chủ',
+        'Tampilkan kartu sambutan "Mulai di sini" di beranda',
+      )}</span></label>
+    </div>
+  </section>
+
   <div class="actions">
     <button type="button" id="set-reset" class="reset">{L('Set semula semua', 'Reset all', '全部重置', 'அனைத்தையும் மீட்டமை', 'すべてリセット', '모두 초기화', 'รีเซ็ตทั้งหมด', 'Đặt lại tất cả', 'Setel ulang semua')}</button>
     <span id="set-saved" class="saved" hidden>{L('Disimpan', 'Saved', '已保存', 'சேமிக்கப்பட்டது', '保存しました', '저장됨', 'บันทึกแล้ว', 'Đã lưu', 'Tersimpan')}</span>
@@ -156,6 +174,18 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
       flash();
       setTimeout(() => location.reload(), 300);
     });
+
+    // --- Welcome card toggle (nk:welcomed = '1' means dismissed) ---
+    // Checked = card shows on the home page; unchecked = dismissed.
+    const welcomeCb = document.getElementById('set-welcome-cb');
+    if (welcomeCb) {
+      welcomeCb.checked = get('nk:welcomed') !== '1';
+      welcomeCb.addEventListener('change', () => {
+        if (welcomeCb.checked) { del('nk:welcomed'); root.removeAttribute('data-welcomed'); }
+        else { try { localStorage.setItem('nk:welcomed', '1'); } catch {} root.setAttribute('data-welcomed', '1'); }
+        flash();
+      });
+    }
   }
 </script>
 
