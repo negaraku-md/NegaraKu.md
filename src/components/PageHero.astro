@@ -1,6 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { glanceStats, HERO_STATS_LABEL } from '@/lib/heroStats';
+import { kbGlanceStats, KB_GLANCE_LABEL } from '@/lib/heroStats';
+import { articlesForLocale } from '@/lib/content';
 
 // Shared page hero for every non-home page (section, category, topic, articles).
 // Follows the HOME hero language: a big left-aligned headline on the gold-tinted
@@ -24,10 +25,12 @@ interface Props {
 }
 const { locale, crumb, title, desc, stats } = Astro.props;
 
-// Page-specific stats win; otherwise fall back to the brand "at a glance" cards.
+// Page-specific stats win; otherwise fall back to the "NegaraKu.md at a glance"
+// knowledge-base cards (real project scale), never a bare hero.
 const hasOwn = Array.isArray(stats) && stats.length > 0;
-const heroStats = hasOwn ? stats! : glanceStats(locale);
-const statsLabel = hasOwn ? undefined : HERO_STATS_LABEL[locale];
+const articleCount = hasOwn ? 0 : (await articlesForLocale(locale)).length;
+const heroStats = hasOwn ? stats! : kbGlanceStats(locale, articleCount);
+const statsLabel = hasOwn ? undefined : KB_GLANCE_LABEL[locale];
 
 // Brand consistency: wherever the "NegaraKu.md" wordmark appears in a hero title
 // OR description, render the ".md" in gold to match the header/footer/home wordmark.

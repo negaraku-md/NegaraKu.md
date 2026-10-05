@@ -484,6 +484,12 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     '世界が NegaraKu.md をどう見つけているか — チャネル、検索、AI、ソーシャル、読者エンゲージメント。',
     '세계가 NegaraKu.md를 어떻게 발견하는가 — 채널, 검색, AI, 소셜 및 독자 참여.', 'โลกค้นพบ NegaraKu.md ได้อย่างไร — ช่องทาง การค้นหา AI โซเชียลมีเดีย และการมีส่วนร่วมของผู้อ่าน', 'Cách thế giới tìm thấy NegaraKu.md — kênh, tìm kiếm, AI, mạng xã hội và mức độ tương tác của độc giả.', 'Bagaimana dunia menemukan NegaraKu.md — saluran, pencarian, AI, media sosial, dan keterlibatan pembaca.',
   )}
+  stats={[
+    { icon: '👤', value: totalReaders > 0 ? totalReaders.toLocaleString() : '—', label: L('pembaca (sepanjang masa)', 'readers (all-time)', '读者（累计）', 'வாசகர்கள் (மொத்தம்)', '読者（累計）', '독자 (전체 기간)', 'ผู้อ่าน (ตลอดกาล)', 'độc giả (toàn thời gian)', 'pembaca (sepanjang waktu)') },
+    { icon: '🔍', value: impressionsTotal > 0 ? impressionsTotal.toLocaleString() : '—', label: L('tera carian (90 hari)', 'search impressions (90d)', '搜索展示（90天）', 'தேடல் காட்சிகள் (90 நாட்கள்)', '検索表示（90日）', '검색 노출 (90일)', 'การแสดงผลค้นหา (90 วัน)', 'lượt hiển thị tìm kiếm (90 ngày)', 'tayangan pencarian (90 hari)') },
+    { icon: '✨', value: aiTotal > 0 ? aiTotal.toLocaleString() : '—', label: L('capaian perayap AI', 'AI crawler fetches', 'AI 爬虫抓取', 'AI கிராலர் அணுகல்கள்', 'AIクローラー取得', 'AI 크롤러 가져오기', 'การดึงข้อมูลโดยบอต AI', 'lượt AI thu thập', 'pengambilan perayap AI') },
+    { icon: '💬', value: (fbTotals?.followers ?? 0) > 0 ? fbTotals.followers.toLocaleString() : '—', label: L('pengikut sosial', 'social followers', '社交粉丝', 'சமூக பின்தொடர்பவர்கள்', 'ソーシャルフォロワー', '소셜 팔로워', 'ผู้ติดตามโซเชียล', 'người theo dõi mạng xã hội', 'pengikut sosial') },
+  ]}
 />
 
 <nav class="a-zones container" aria-label={L('Bahagian analitik', 'Analytics sections', '分析板块', 'பகுப்பாய்வு பிரிவுகள்', '分析セクション', '분석 섹션', 'ส่วนการวิเคราะห์', 'Mục phân tích', 'Bagian analitik')}>
