@@ -4,6 +4,7 @@ import { getPillar, PILLARS, getPillarColor, loc } from '@/lib/categories';
 import { articlesForLocale, siteStats } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
 import { localePath, t } from '@/lib/i18n';
+import { exploreFeatures } from '@/lib/exploreFeatures';
 import PageHero from './PageHero.astro';
 import { stat } from '@/lib/pageStats';
 import ArticleStrip from './ArticleStrip.astro';
@@ -28,16 +29,12 @@ const pillarStats = PILLARS.map((p) => {
   return { id: p.id, name: loc(p.name, locale), icon: p.icon, blurb: loc(p.tagline, locale), arts };
 });
 
-// "More ways to explore" — the non-section entry points, mirroring the Explore
-// menu so the page and the dropdown stay in step. The exhaustive category index
-// lives at /categories; Explore only points to it rather than duplicating it.
-// Latest and Most-read are already rendered as full strips above, so this grid
-// only carries the entry points the page doesn't already show inline.
-const ways = [
-  { href: '/categories', icon: '🗂️', color: '#38BDF8', title: t('nav.categories', locale), blurb: L('Semak imbas kesemua kategori.', 'Browse the full category index.', '浏览完整分类索引。', 'முழு வகை அட்டவணையையும் உலாவுங்கள்.', 'カテゴリー一覧をすべて閲覧できます。', '전체 카테고리 색인을 둘러보세요.', 'เรียกดูดัชนีหมวดหมู่ทั้งหมด', 'Duyệt toàn bộ mục lục danh mục.', 'Jelajahi seluruh indeks kategori.') },
-  { href: '/malaysia/timeline-of-malaysia', icon: '📜', color: '#FFC000', title: t('nav.timeline', locale), blurb: L('Sejarah Malaysia dalam satu garis masa.', "Malaysia's history on one timeline.", '一条时间线看马来西亚历史。', 'மலேசியாவின் வரலாறு ஒரே காலவரிசையில்.', 'マレーシアの歴史を一つの年表で。', '하나의 연표로 보는 말레이시아 역사.', 'ประวัติศาสตร์มาเลเซียบนเส้นเวลาเดียว', 'Lịch sử Malaysia trên một dòng thời gian.', 'Sejarah Malaysia dalam satu garis waktu.') },
-  { href: '/graph', icon: '🕸️', color: '#A78BFA', title: t('nav.graph', locale), blurb: L('Setiap topik dan cara ia berhubung.', 'Every topic and how it connects.', '每个主题及其关联。', 'ஒவ்வொரு தலைப்பும் அது எவ்வாறு தொடர்பு கொள்கிறது என்பதும்.', 'すべてのトピックとそのつながり。', '모든 주제와 그 연결 관계.', 'ทุกหัวข้อและวิธีที่เชื่อมโยงกัน', 'Mọi chủ đề và cách chúng kết nối.', 'Setiap topik dan bagaimana kaitannya.') },
-];
+// "More ways to explore" — the full set of discovery surfaces, shared with /start
+// (single source of truth in lib/exploreFeatures.ts). We drop the ones /explore
+// already shows as full strips above (Latest, Most-read) and its own self-link;
+// everything else — incl. Dashboard, Analytics, For AI — now appears here too.
+const STRIP_HREFS = new Set(['/explore', '/latest', '/most-read']);
+const ways = exploreFeatures(locale).filter((f) => !STRIP_HREFS.has(f.href));
 ---
 
 <PageHero
@@ -122,7 +119,7 @@ const ways = [
           <a class="cat-card" href={localePath(w.href, locale)} style={`--cat:${w.color}`}>
             <span class="bar" aria-hidden="true" />
             <span class="ci-row"><span class="ci" aria-hidden="true">{w.icon}</span></span>
-            <b>{w.title}</b>
+            <b>{t(w.key, locale)}</b>
             <span class="cd">{w.blurb}</span>
           </a>
         ))}
