@@ -142,6 +142,11 @@ const isPublished = d.status === 'published';
 const draftBy = d.aiAssisted
   ? L('Dibantu AI', 'AI-assisted', 'AI 辅助', 'AI உதவியுடன்', 'AI 支援', 'AI 지원', 'ช่วยเหลือโดย AI', 'Có hỗ trợ của AI', 'Dibantu AI')
   : (d.author ?? L('Manusia', 'Human', '人工', 'மனிதர்', '人間', '사람', 'มนุษย์', 'Con người', 'Manusia'));
+// Published actor: a general (non-sensitive) article is honestly "AI-published"
+// (AI drafted, verified AND published it); a sensitive one must carry the NAMED
+// human who signed it off — "no sensitive content publishes without a named reviewer".
+const aiPublished = L('Diterbitkan AI', 'AI-published', 'AI 发布', 'AI வெளியிட்டது', 'AI が公開', 'AI 공개', 'เผยแพร่โดย AI', 'Được AI xuất bản', 'Diterbitkan AI');
+const publishedBy = sensitive ? (d.publishedBy ?? d.reviewer ?? aiPublished) : aiPublished;
 const lifecycle = [
   {
     key: 'drafted',
@@ -165,7 +170,7 @@ const lifecycle = [
     key: 'published',
     label: L('Diterbitkan', 'Published', '发布', 'வெளியிடப்பட்டது', '公開済み', '공개 완료', 'เผยแพร่แล้ว', 'Đã xuất bản', 'Diterbitkan'),
     date: isPublished ? (d.published ?? d.reviewed) : null,
-    by: isPublished ? (d.publishedBy ?? d.reviewer) : null,
+    by: isPublished ? publishedBy : null,
     done: isPublished,
   },
 ];

@@ -78,6 +78,9 @@ const SENS_LABEL: Record<string, string> = {
 };
 
 const iso = (v: unknown) => (v ? new Date(v as string).toISOString().slice(0, 10) : '');
+// Published actor: general articles are honestly "AI-published"; sensitive ones
+// keep the named human (matches ArticleView's chain of custody).
+const AI_PUBLISHED = L('Diterbitkan AI', 'AI-published', 'AI 发布', 'AI வெளியிட்டது', 'AI が公開', 'AI 공개', 'เผยแพร่โดย AI', 'Được AI xuất bản', 'Diterbitkan AI');
 
 const rows = articles.map((a, i) => {
   const d = a.data;
@@ -100,7 +103,7 @@ const rows = articles.map((a, i) => {
   const custody = [
     [d.aiAssisted ? null : first?.contributor ?? d.author ?? null, iso(d.created ?? first?.date ?? d.updated), true],
     [isReviewed ? d.reviewer ?? null : null, isReviewed ? iso(d.reviewed) : '', isReviewed],
-    [isPublished ? d.publishedBy ?? d.reviewer ?? null : null, isPublished ? iso(d.published ?? d.reviewed) : '', isPublished],
+    [isPublished ? (sens ? (d.publishedBy ?? d.reviewer ?? AI_PUBLISHED) : AI_PUBLISHED) : null, isPublished ? iso(d.published ?? d.reviewed) : '', isPublished],
   ];
   return {
     t: d.title,
