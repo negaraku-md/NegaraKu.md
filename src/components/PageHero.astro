@@ -1,10 +1,15 @@
 ---
 import type { Locale } from '@/lib/categories';
+import { glanceStats, HERO_STATS_LABEL } from '@/lib/heroStats';
 
 // Shared page hero for every non-home page (section, category, topic, articles).
 // Follows the HOME hero language: a big left-aligned headline on the gold-tinted
 // gradient, with stat figures as boxes on the right — not a bordered card — so
 // the whole site's heroes read as one family.
+//
+// When a page passes no stats of its own, the hero falls back to the home's
+// "Malaysia at a glance" cards (with icons) so NO page's hero is ever bare — the
+// one exception is article pages, which use their own hero (ArticleView).
 
 export interface Crumb {
   label: string;
@@ -15,9 +20,14 @@ interface Props {
   crumb: Crumb[];
   title: string;
   desc?: string;
-  stats?: { value: string | number; label: string }[];
+  stats?: { value: string | number; label: string; icon?: string }[];
 }
-const { crumb, title, desc, stats } = Astro.props;
+const { locale, crumb, title, desc, stats } = Astro.props;
+
+// Page-specific stats win; otherwise fall back to the brand "at a glance" cards.
+const hasOwn = Array.isArray(stats) && stats.length > 0;
+const heroStats = hasOwn ? stats! : glanceStats(locale);
+const statsLabel = hasOwn ? undefined : HERO_STATS_LABEL[locale];
 
 // Brand consistency: wherever the "NegaraKu.md" wordmark appears in a hero title
 // OR description, render the ".md" in gold to match the header/footer/home wordmark.
@@ -65,10 +75,11 @@ const descIdx = desc ? desc.indexOf(WM) : -1;
       )}
     </div>
     {
-      stats && stats.length > 0 && (
-        <dl class="stats" data-pagefind-ignore>
-          {stats.map((s) => (
+      heroStats.length > 0 && (
+        <dl class={hasOwn ? 'stats' : 'stats stats-glance'} aria-label={statsLabel} data-pagefind-ignore>
+          {heroStats.map((s) => (
             <div class="stat">
+              {s.icon && <span class="sicon" aria-hidden="true">{s.icon}</span>}
               <dt>{s.value}</dt>
               <dd>{s.label}</dd>
             </div>
@@ -118,6 +129,12 @@ const descIdx = desc ? desc.indexOf(WM) : -1;
   }
   .stats dt { font-family: var(--font-title); font-weight: 800; font-size: clamp(1.7rem, 3vw, 2.3rem); line-height: 1; color: var(--gold); }
   .stats dd { margin: 0; color: var(--muted); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; }
+  /* "At a glance" fallback cards match the home hero exactly: an icon + a
+     sentence-case caption (not the uppercase labels used for page-specific stats). */
+  .sicon { font-size: 1.6rem; line-height: 1; }
+  .stats-glance .stat { gap: 0.35rem; }
+  .stats-glance .stat:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); }
+  .stats-glance dd { text-transform: none; letter-spacing: normal; font-size: 0.88rem; }
 
   @media (max-width: 820px) {
     .hero-inner { grid-template-columns: 1fr; }
