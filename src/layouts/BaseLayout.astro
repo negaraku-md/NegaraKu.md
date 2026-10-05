@@ -149,6 +149,11 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
     {ogType === 'article' && <meta property="article:publisher" content="https://www.facebook.com/negaraku.md" />}
 
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    {/* PNG fallbacks: browsers that don't use the SVG for tab/shortcut/home-screen
+        icons (notably mobile Chrome's shortcut tile and iOS Safari) need a concrete
+        PNG, otherwise they fall back to a generated letter monogram. */}
+    <link rel="icon" href="/brand/negaraku-icon-192.png" type="image/png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="/brand/negaraku-icon-192.png" />
     <link rel="manifest" href="/site.webmanifest" />
     <link
       rel="alternate"
