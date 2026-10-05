@@ -62,13 +62,6 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
   <section class="set-card">
     <h2>{L('Bacaan', 'Reading', '阅读', 'வாசிப்பு', '表示', '읽기', 'การอ่าน', 'Đọc', 'Bacaan')}</h2>
     <div class="row">
-      <span class="row-label">{L('Tema', 'Theme', '主题', 'தீம்', 'テーマ', '테마', 'ธีม', 'Giao diện', 'Tema')}</span>
-      <div class="seg" data-group="theme">
-        <button type="button" data-value="black-gold"><span class="sw sw-gold" aria-hidden="true"></span>{L('Emas', 'Gold', '金色', 'தங்கம்', 'ゴールド', '골드', 'ทอง', 'Vàng', 'Emas')}</button>
-        <button type="button" data-value="black-red"><span class="sw sw-red" aria-hidden="true"></span>{L('Merah', 'Red', '红色', 'சிவப்பு', 'レッド', '레드', 'แดง', 'Đỏ', 'Merah')}</button>
-      </div>
-    </div>
-    <div class="row">
       <span class="row-label">{L('Saiz teks', 'Text size', '字号', 'எழுத்து அளவு', '文字サイズ', '글자 크기', 'ขนาดตัวอักษร', 'Cỡ chữ', 'Ukuran teks')}</span>
       <div class="seg" data-group="size">
         <button type="button" data-value="standard">{L('Biasa', 'Standard', '标准', 'சாதாரண', '標準', '표준', 'มาตรฐาน', 'Tiêu chuẩn', 'Biasa')}</button>
@@ -140,7 +133,6 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
         });
       });
     };
-    seg('theme', 'nk-theme', 'data-theme', 'black-gold');
     seg('size', 'nk-text-size', 'data-text-size', 'standard');
 
     // --- 4. Card rows (nk-card-rows-hidden = array of HIDDEN row keys) ---
@@ -160,7 +152,6 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
     // --- Reset all ---
     document.getElementById('set-reset')?.addEventListener('click', () => {
       ['nk-visible-status', 'nk-default-lang', 'nk-theme', 'nk-text-size', 'nk-card-rows-hidden'].forEach(del);
-      root.removeAttribute('data-theme');
       root.removeAttribute('data-text-size');
       flash();
       setTimeout(() => location.reload(), 300);
@@ -181,16 +172,8 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
   .row-label { min-width: 7rem; font-size: 0.85rem; color: var(--ink-soft); }
   .seg { display: inline-flex; gap: 0.3rem; }
   .seg button { padding: 0.4rem 0.75rem; font-size: 0.85rem; font-weight: 600; border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); border-radius: 8px; background: var(--bg); color: var(--ink-soft); cursor: pointer; }
-  .seg:not([data-group='theme']) button:not([aria-pressed='true']):hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
+  .seg button:not([aria-pressed='true']):hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
   .seg button[aria-pressed='true'] { background: var(--gold); color: var(--accent-contrast); border-color: var(--gold); }
-  /* Theme buttons: black bg + white border, accent (gold/red) as the content. */
-  .seg[data-group='theme'] button { background: #000; border-color: rgba(255, 255, 255, 0.4); font-weight: 700; }
-  .seg[data-group='theme'] button[data-value='black-gold'] { color: #ffc000; }
-  .seg[data-group='theme'] button[data-value='black-red'] { color: #ff3333; }
-  .seg[data-group='theme'] button[aria-pressed='true'] { background: #000; border-color: #fff; box-shadow: inset 0 0 0 1px #fff; }
-  .sw { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 5px; vertical-align: middle; border: 1px solid rgba(255, 255, 255, 0.25); }
-  .sw-gold { background: #ffc000; }
-  .sw-red { background: #ff3333; }
   .actions { display: flex; align-items: center; gap: 1rem; }
   .reset { padding: 0.5rem 1rem; font-weight: 700; border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); border-radius: 8px; background: var(--bg); color: var(--ink-soft); cursor: pointer; }
   .reset:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); color: var(--gold); }

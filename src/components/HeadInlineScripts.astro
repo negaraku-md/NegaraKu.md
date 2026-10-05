@@ -7,11 +7,8 @@
   (function () {
     try {
       var d = document.documentElement;
-      // Accent theme: default is Black · Gold (no attribute). Black · Red is
-      // selectable. The White · Black (light) theme stays defined but is not
-      // offered in the UI, so a stale 'light' preference is intentionally ignored.
-      var theme = localStorage.getItem('nk-theme');
-      if (theme === 'black-red') d.setAttribute('data-theme', theme);
+      // Accent theme is fixed to Black · Gold (the 1company brand). The theme
+      // switcher was removed, so any stale nk-theme preference is ignored.
       var size = localStorage.getItem('nk-text-size');
       if (size === 'large' || size === 'xlarge') d.setAttribute('data-text-size', size);
       // Reader / Contributor view mode (see Header.astro). Set before paint so the

@@ -93,15 +93,6 @@
   --font-reading: 'Noto Sans', 'Lato', 'Lato fallback', 'Calibri', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
-/* Black · Red — a selectable dark theme with a red accent instead of gold.
-   Everything reads the accent through --gold / --accent, so only the accent
-   pair needs overriding; the true-black canvas stays. */
-:root[data-theme='black-red'] {
-  --gold: #ff3333; /* bright red */
-  --gold-600: #e01f1f;
-  --accent-contrast: #ffffff; /* white text on red fills (black is for gold) */
-}
-
 /* Opt-in light reading mode (dark stays the default 1company canvas).
    Gold is darkened so links/text stay legible on white; fills keep black text. */
 :root[data-theme='light'] {
