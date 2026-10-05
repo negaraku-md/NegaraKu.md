@@ -1,0 +1,153 @@
+---
+import type { Locale } from '@/lib/categories';
+import { t, localePath } from '@/lib/i18n';
+import { REPO } from '@/lib/site';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// The Contributor View landing (home). A workspace, not the reader hero: it
+// deep-links into the real tools on GitHub (@me queries resolve to the signed-in
+// GitHub user) and into the site's own lifecycle pages. No backend needed — so
+// it stays static — and crucially it grants NO permissions: review/merge/deploy
+// actions only ever appear on GitHub per the person's authorised role.
+const ghIssues = (q: string) => `${REPO}/issues?q=${encodeURIComponent(q)}`;
+const ghPulls = (q: string) => `${REPO}/pulls?q=${encodeURIComponent(q)}`;
+
+type Link = { key?: string; label?: string; href: string; external?: boolean };
+type Section = { icon: string; title: string; links: Link[] };
+
+const sections: Section[] = [
+  {
+    icon: '👤',
+    title: L('Kerja saya', 'My work', '我的工作', 'எனது பணி', '自分の作業', '내 작업', 'งานของฉัน', 'Việc của tôi', 'Pekerjaan saya'),
+    links: [
+      { label: L('Pull request saya', 'My pull requests', '我的 pull request', 'எனது pull request-கள்', '自分の pull request', '내 pull request', 'pull request ของฉัน', 'Pull request của tôi', 'Pull request saya'), href: ghPulls('is:pr author:@me'), external: true },
+      { label: L('Ditugaskan kepada saya', 'Assigned to me', '分配给我的', 'எனக்கு ஒதுக்கப்பட்டவை', '自分の担当', '나에게 할당됨', 'ที่มอบหมายให้ฉัน', 'Được giao cho tôi', 'Ditugaskan ke saya'), href: ghIssues('is:issue is:open assignee:@me'), external: true },
+      { label: L('Semakan diminta', 'Review requested', '请求我审阅', 'மதிப்பாய்வு கோரப்பட்டது', 'レビュー依頼', '검토 요청됨', 'ถูกขอให้รีวิว', 'Được yêu cầu duyệt', 'Diminta meninjau'), href: ghPulls('is:pr is:open review-requested:@me'), external: true },
+    ],
+  },
+  {
+    icon: '🧭',
+    title: L('Cari tugas', 'Find a task', '寻找任务', 'ஒரு பணியைக் கண்டறி', 'タスクを探す', '작업 찾기', 'หางานทำ', 'Tìm một việc', 'Cari tugas'),
+    links: [
+      { label: L('Isu pertama yang baik', 'Good first issues', '适合新手的 issue', 'தொடக்கநிலை issue-கள்', '初心者向け issue', '입문용 이슈', 'issue สำหรับมือใหม่', 'Issue cho người mới', 'Issue untuk pemula'), href: ghIssues('is:issue is:open label:good-first-issue'), external: true },
+      { label: L('Permintaan artikel', 'Article requests', '文章请求', 'கட்டுரை கோரிக்கைகள்', '記事リクエスト', '기사 요청', 'คำขอบทความ', 'Yêu cầu bài viết', 'Permintaan artikel'), href: ghIssues('is:issue is:open label:article-request'), external: true },
+      { label: L('Jurang terjemahan', 'Translation gaps', '翻译缺口', 'மொழிபெயர்ப்பு இடைவெளிகள்', '翻訳の欠落', '번역 누락', 'ช่องว่างการแปล', 'Thiếu bản dịch', 'Celah terjemahan'), href: ghIssues('is:issue is:open label:translation-issue'), external: true },
+      { key: 'nav.worklist', href: '/worklist' },
+    ],
+  },
+  {
+    icon: '⚠️',
+    title: L('Perlu perhatian', 'Needs attention', '需要关注', 'கவனம் தேவை', '要対応', '주의 필요', 'ต้องให้ความสนใจ', 'Cần chú ý', 'Perlu perhatian'),
+    links: [
+      { label: L('Pull request untuk disemak', 'Pull requests to review', '待审阅的 pull request', 'மதிப்பாய்வு செய்ய வேண்டிய pull request-கள்', 'レビュー待ちの pull request', '검토할 pull request', 'pull request ที่ต้องรีวิว', 'Pull request cần duyệt', 'Pull request untuk ditinjau'), href: ghPulls('is:pr is:open review:required'), external: true },
+      { label: L('Isu artikel terbuka', 'Open article issues', '未关闭的文章问题', 'திறந்த கட்டுரை issue-கள்', '未解決の記事 issue', '열린 기사 이슈', 'issue บทความที่เปิดอยู่', 'Issue bài viết đang mở', 'Issue artikel yang terbuka'), href: ghIssues('is:issue is:open label:article-issue'), external: true },
+      { label: L('Status bina & lancar', 'Build & deploy status', '构建与部署状态', 'உருவாக்கம் & வெளியீட்டு நிலை', 'ビルドとデプロイ状況', '빌드 및 배포 상태', 'สถานะการ build และ deploy', 'Trạng thái build & deploy', 'Status build & deploy'), href: `${REPO}/actions`, external: true },
+    ],
+  },
+  {
+    icon: '✍️',
+    title: L('Mula menyumbang', 'Start contributing', '开始贡献', 'பங்களிக்கத் தொடங்கு', '貢献を始める', '기여 시작', 'เริ่มมีส่วนร่วม', 'Bắt đầu đóng góp', 'Mulai berkontribusi'),
+    links: [
+      { key: 'nav.reportIssue', href: '/contribute#report' },
+      { key: 'nav.suggest', href: '/contribute#suggest' },
+      { key: 'nav.submitArticle', href: '/contribute#contribute' },
+      { key: 'nav.siteBug', href: '/contribute#site' },
+    ],
+  },
+  {
+    icon: '📊',
+    title: L('Kesihatan projek', 'Project health', '项目健康', 'திட்ட நலன்', 'プロジェクトの状態', '프로젝트 상태', 'สุขภาพโครงการ', 'Tình trạng dự án', 'Kesehatan proyek'),
+    links: [
+      { key: 'nav.dashboard', href: '/dashboard' },
+      { key: 'nav.analytics', href: '/analytics' },
+      { key: 'nav.changelog', href: '/changelog' },
+    ],
+  },
+  {
+    icon: '📚',
+    title: L('Panduan & sokongan', 'Guides & support', '指南与支持', 'வழிகாட்டிகள் & ஆதரவு', 'ガイドとサポート', '가이드 및 지원', 'คู่มือและการสนับสนุน', 'Hướng dẫn & hỗ trợ', 'Panduan & dukungan'),
+    links: [
+      { key: 'cnav.guide', href: '/contributor-guide' },
+      { key: 'nav.roles', href: '/roles' },
+      { label: L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南', 'முழுப் பங்களிப்பு வழிகாட்டி', '貢献ガイド全文', '전체 기여 가이드', 'คู่มือการมีส่วนร่วมฉบับเต็ม', 'Hướng dẫn đóng góp đầy đủ', 'Panduan kontribusi lengkap'), href: `${REPO}/blob/main/CONTRIBUTING.md`, external: true },
+      { label: L('Baru dengan GitHub?', 'New to GitHub?', 'GitHub 新手？', 'GitHub-இல் புதியவரா?', 'GitHub は初めて？', 'GitHub이 처음?', 'เพิ่งใช้ GitHub?', 'Mới dùng GitHub?', 'Baru di GitHub?'), href: 'https://skills.github.com/', external: true },
+    ],
+  },
+];
+---
+
+<section class="cv-home container block" data-pagefind-ignore>
+  <header class="cvh-head">
+    <div>
+      <h1>{L('Ruang kerja penyumbang', 'Contributor workspace', '贡献者工作区', 'பங்களிப்பாளர் பணியிடம்', '貢献者ワークスペース', '기여자 작업 공간', 'พื้นที่ทำงานของผู้มีส่วนร่วม', 'Không gian làm việc của người đóng góp', 'Ruang kerja kontributor')}</h1>
+      <p class="cvh-sub">{L('Pelancar anda untuk sumbangan, semakan, dan kerja kitaran hayat.', 'Your launchpad for contributions, reviews, and lifecycle work.', '你进行贡献、审阅与生命周期工作的启动台。', 'பங்களிப்புகள், மதிப்பாய்வுகள், மற்றும் வாழ்க்கைச் சுழற்சி பணிக்கான உங்கள் தொடக்க மேடை.', '貢献・レビュー・ライフサイクル作業の出発点です。', '기여, 검토, 라이프사이클 작업을 위한 출발점입니다.', 'จุดเริ่มต้นสำหรับการมีส่วนร่วม การรีวิว และงานวงจรชีวิต', 'Bệ phóng cho đóng góp, duyệt, và công việc vòng đời.', 'Landasan Anda untuk kontribusi, tinjauan, dan pekerjaan siklus hidup.')}</p>
+    </div>
+    <a class="cvh-cta" href={localePath('/contributor-guide', locale)}>{t('cnav.guide', locale)} →</a>
+  </header>
+
+  <p class="cvh-note"><span aria-hidden="true">🔒</span> {L(
+    'Memilih Paparan Penyumbang tidak memberi kebenaran — tindakan semak, gabung, dan lancar muncul mengikut peranan GitHub anda.',
+    "Choosing Contributor View doesn't grant permissions — review, merge, and deploy actions appear according to your GitHub role.",
+    '选择贡献者视图不会授予权限——审阅、合并与部署操作将根据你的 GitHub 角色显示。',
+    'பங்களிப்பாளர் காட்சியைத் தேர்ந்தெடுப்பது அனுமதிகளை வழங்காது — மதிப்பாய்வு, இணைப்பு, வெளியீட்டுச் செயல்கள் உங்கள் GitHub பங்கின்படி தோன்றும்.',
+    '貢献者ビューを選んでも権限は付与されません — レビュー・マージ・デプロイの操作は GitHub の役割に応じて表示されます。',
+    '기여자 뷰를 선택해도 권한이 부여되지 않습니다 — 검토, 병합, 배포 작업은 GitHub 역할에 따라 표시됩니다.',
+    'การเลือกมุมมองผู้มีส่วนร่วมไม่ได้ให้สิทธิ์ — การรีวิว รวม และ deploy จะปรากฏตามบทบาท GitHub ของคุณ',
+    'Chọn Chế độ xem Người đóng góp không cấp quyền — các thao tác duyệt, hợp nhất, và triển khai hiển thị theo vai trò GitHub của bạn.',
+    'Memilih Tampilan Kontributor tidak memberikan izin — tindakan tinjau, gabung, dan deploy muncul sesuai peran GitHub Anda.',
+  )}</p>
+
+  <div class="cvh-grid">
+    {sections.map((s) => (
+      <div class="cvh-card">
+        <b class="cvh-ct"><span class="cvh-ico" aria-hidden="true">{s.icon}</span>{s.title}</b>
+        <ul>
+          {s.links.map((l) => (
+            <li>
+              <a
+                href={l.external ? l.href : localePath(l.href, locale)}
+                target={l.external ? '_blank' : undefined}
+                rel={l.external ? 'noopener' : undefined}
+              >{l.key ? t(l.key as any, locale) : l.label}{l.external ? ' ↗' : ''}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+</section>
+
+<style>
+  /* Shown ONLY to a recognised contributor who has switched to Contributor View.
+     Hidden by default (and for readers / no-JS / bots), so the reader home shows
+     normally. HomeView hides its own reader content under the same condition. */
+  .cv-home { display: none; margin-top: 2.4rem; }
+  :global(html[data-contributor='true'][data-view='contributor']) .cv-home { display: block; }
+
+  .cvh-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem 2rem; flex-wrap: wrap; margin-bottom: 1rem; }
+  .cvh-head h1 { font-family: var(--font-title); font-size: clamp(1.7rem, 3.5vw, 2.3rem); margin: 0 0 0.35rem; color: var(--ink); }
+  .cvh-sub { margin: 0; color: var(--ink-soft); font-size: 1.02rem; line-height: 1.6; max-width: 60ch; }
+  .cvh-cta {
+    flex: none; text-decoration: none; font-family: var(--font-title); font-weight: 700; font-size: 0.95rem;
+    padding: 0.6rem 1.2rem; border-radius: 10px; background: var(--gold); color: var(--accent-contrast, #07070a); border: 1px solid var(--gold);
+  }
+  .cvh-cta:hover { background: var(--gold-600); border-color: var(--gold-600); }
+
+  .cvh-note {
+    margin: 0 0 1.6rem; color: var(--muted); font-size: 0.88rem; line-height: 1.55;
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 0.7rem 0.95rem;
+  }
+
+  .cvh-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1rem; }
+  .cvh-card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1.1rem 1.25rem; }
+  .cvh-ct { display: flex; align-items: center; gap: 0.5rem; font-family: var(--font-title); font-size: 1.1rem; color: var(--ink); margin-bottom: 0.7rem; }
+  .cvh-ico { font-size: 1.3rem; }
+  .cvh-card ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.5rem; }
+  .cvh-card a { color: var(--gold); text-decoration: none; font-weight: 600; font-size: 0.92rem; }
+  .cvh-card a:hover { text-decoration: underline; }
+</style>

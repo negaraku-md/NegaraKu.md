@@ -667,10 +667,9 @@ const NAV_GROUPS = [
   :global(html[data-view='contributor']) [data-view-nav='reader'] { display: none; }
   :global(html[data-view='contributor']) [data-view-nav='contributor'] { display: contents; }
 
-  /* A recognised contributor already knows how to take part, so drop the Reader
-     "Contribute" menu (the "how to join" menu) for them — the Contributor View
-     carries the real tools. Everyone else still sees it. */
-  :global(html[data-contributor='true']) [data-view-nav='reader'] [data-nav-key='nav.contribute'] { display: none; }
+  /* "Contribute" stays in the Reader menu for everyone, including recognised
+     contributors: it explains the *ways to take part*, which is distinct from
+     "Contributor View" (the workspace). The two serve different purposes. */
 
   /* GitHub is a contributor concern, not a reader one — hide the header GitHub
      icon by default (Reader view / no-JS) and show it only in the Contributor

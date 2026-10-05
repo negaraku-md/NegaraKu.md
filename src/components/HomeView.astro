@@ -6,6 +6,7 @@ import { articlesForLocale } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
 import ArticleStrip from './ArticleStrip.astro';
 import WelcomeCard from './WelcomeCard.astro';
+import ContributorHomeView from './ContributorHomeView.astro';
 import { HERO_STATS as stats } from '@/lib/heroStats';
 
 interface Props {
@@ -24,6 +25,7 @@ const mrKeys = mostReadKeys(items, STRIP);
 // `stats` from src/lib/heroStats.ts (also PageHero's default on non-article pages).
 ---
 
+<div class="reader-home">
 <section class="hero">
   <div class="container hero-inner">
     <div class="hero-lead">
@@ -101,8 +103,16 @@ const mrKeys = mostReadKeys(items, STRIP);
 <ArticleStrip locale={locale} articles={items} moreHref="/latest" sort="recent" limit={STRIP} exclude={mrKeys} />
 
 <ArticleStrip locale={locale} articles={items} moreHref="/most-read" limit={STRIP} />
+</div>
+
+<ContributorHomeView locale={locale} />
 
 <style>
+  /* Home — reader hero + (for contributors) the workspace swap. */
+  /* The reader home is replaced by the Contributor workspace when a recognised
+     contributor switches to Contributor View (same condition as ContributorHomeView). */
+  :global(html[data-contributor='true'][data-view='contributor']) .reader-home { display: none; }
+
   /* Microsoft-style structure, 1company brand: eyebrow → headline → pitch →
      search → one CTA on the left; the unique-Malaysia stats are the right-hand
      "visual" (meaningful, not a stock image); a quick-link anchor bar below. */

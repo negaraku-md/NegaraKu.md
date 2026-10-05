@@ -134,6 +134,9 @@ export const CONTRIBUTOR_NAV: NavMenu[] = [
     label: 'nav.about',
     items: [
       { label: 'nav.grpAbout', href: '', heading: true },
+      // Start Here stays reachable in every state (review: it introduces both
+      // Explore and Contribute); the Contributor Guide above is the deeper onboarding.
+      { label: 'nav.startHere', href: '/start' },
       { label: 'nav.aboutPage', href: '/about' },
       { label: 'nav.milestones', href: '/milestones' },
       { label: 'nav.faq', href: '/faq' },
