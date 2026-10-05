@@ -5,6 +5,9 @@ export interface NavItem {
   label: StringKey;
   href: string; // locale-agnostic path; Header applies localePath(). External URLs pass through untouched.
   external?: boolean;
+  /** Open in a new tab (target="_blank"). For same-origin links that are better
+      viewed alongside the site, e.g. the raw llms.txt AI index. */
+  newTab?: boolean;
   /** Hidden from the dropdown by default; toggled on/off with Ctrl+Alt+Shift+A
       (persisted in localStorage). The page stays reachable by URL regardless. */
   secret?: boolean;
@@ -67,7 +70,7 @@ export const NAV: NavMenu[] = [
       { label: 'nav.analytics', href: '/analytics' },
       { label: 'nav.changelog', href: '/changelog' },
       { label: 'nav.settings', href: '/settings' },
-      { label: 'nav.forAI', href: '/llms.txt' },
+      { label: 'nav.forAI', href: '/llms.txt', newTab: true },
       { label: 'nav.siteBug', href: '/contribute#site' },
     ],
   },
@@ -138,7 +141,7 @@ export const CONTRIBUTOR_NAV: NavMenu[] = [
       { label: 'nav.grpThisSite', href: '', heading: true },
       { label: 'nav.changelog', href: '/changelog' },
       { label: 'cnav.deploy', href: `${REPO}/actions/workflows/deploy.yml`, external: true },
-      { label: 'nav.forAI', href: '/llms.txt' },
+      { label: 'nav.forAI', href: '/llms.txt', newTab: true },
       { label: 'nav.settings', href: '/settings' },
       { label: 'cnav.signout', href: '/api/auth/logout', external: true },
     ],

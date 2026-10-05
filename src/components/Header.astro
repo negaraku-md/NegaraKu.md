@@ -61,6 +61,8 @@ const NAV_GROUPS = [
                       ) : (
                         <a
                           href={it.external ? it.href : localePath(it.href, locale)}
+                          target={it.newTab || it.external ? '_blank' : undefined}
+                          rel={it.newTab || it.external ? 'noopener' : undefined}
                           data-secret-nav={it.secret ? '' : undefined}
                           hidden={it.secret}
                         >
