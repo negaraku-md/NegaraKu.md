@@ -9,7 +9,7 @@ const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 ---
 
-<section class="welcome container" data-pre-contributor data-pagefind-ignore>
+<section class="welcome container" data-pagefind-ignore>
   <div class="welcome-card">
     <span class="welcome-ico" aria-hidden="true">👋</span>
     <div class="welcome-text">
