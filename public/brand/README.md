@@ -4,14 +4,11 @@ The logo (v2) is a **black rounded hexagon** (1company badge shape) with the
 **gold Bunga Raya** — an exact vector trace of Malaysia's national-flower emblem
 — in place of the "1". `build-logo.mjs` is the single source of truth (shape in
 `scripts/logo-flower.mjs`); it also writes `public/favicon.svg`, so the site
-icon and this kit can never drift. **Version 1** (the abstract blossom) is
-archived in `public/brand/v1/`.
+icon and this kit can never drift.
 
-Two accents are provided: **Gold** (default file names) and **Bright Red**
-(same names with a `-red` suffix), matching the site's Black·Gold and Black·Red
-themes.
+A single **Gold** accent (the 1company brand) on the black badge canvas.
 
-## Files (each exists in Gold and `-red`)
+## Files
 | File | Use |
 |---|---|
 | `negaraku-icon.svg` / `-icon-1024.png` / `-512.png` | The hexagon badge — favicon, app icon, avatar, primary logo |
@@ -19,12 +16,8 @@ themes.
 | `negaraku-lockup.svg` / `-lockup-transparent-1800.png` | Badge + wordmark, transparent |
 | `negaraku-lockup-dark.svg` / `-lockup-dark-1800.png` | Badge + wordmark on the dark brand canvas |
 
-Red variants: `negaraku-icon-red.svg`, `negaraku-mark-red.svg`,
-`negaraku-lockup-red.svg`, etc.
-
 ## Colours
 - Gold accent: `#FFC000`
-- Bright-red accent: `#FF2020`
 - Badge black: `#0A0A0A`
 - Dark canvas: `#07070A`
 - Ink (wordmark): `#F4F4F8`

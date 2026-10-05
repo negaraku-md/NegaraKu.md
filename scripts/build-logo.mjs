@@ -13,7 +13,6 @@ import { FLOWER_D, FLOWER_VB, FLOWER_CX, FLOWER_CY } from './logo-flower.mjs';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'public', 'brand');
 const GOLD = '#FFC000';
-const RED = '#FF3333'; // bright red — matches the Black·Red theme accent
 const BADGE_BLACK = '#0A0A0A';
 const BORDER = '#FFFFFF';
 const DARK = '#07070A';
@@ -29,9 +28,8 @@ const HEX = { Ro: 255, border: 11, gap: 0, cr: 34 };
 
 // ── The Bunga Raya (hibiscus) object ─────────────────────────────────────────
 // v2 logo: an exact vector trace of the national-flower emblem (see
-// scripts/logo-flower.mjs), replacing the v1 abstract blossom. The white
-// creases are negative space (fill-rule evenodd), so the badge black shows
-// through them. Version 1 is archived in public/brand/v1/.
+// scripts/logo-flower.mjs). The white creases are negative space (fill-rule
+// evenodd), so the badge black shows through them.
 //
 // Place the flower so its CENTROID (FLOWER_CX,FLOWER_CY in the FLOWER_VB box)
 // lands at (cx,cy) — optical centring — sized so its larger side spans `size`.
@@ -98,24 +96,20 @@ async function main() {
   // The favicon IS the gold badge — one source of truth for the site icon.
   await writeFile(path.join(ROOT, 'public', 'favicon.svg'), badgeSvg(512, GOLD));
 
-  // Brand kit in BOTH accents: Gold (default names) and Red (`-red` suffix).
-  const variants = [
-    { accent: GOLD, suffix: '' },
-    { accent: RED, suffix: '-red' },
-  ];
-  for (const { accent, suffix } of variants) {
-    await writeFile(path.join(OUT, `negaraku-icon${suffix}.svg`), badgeSvg(512, accent));
-    await writeFile(path.join(OUT, `negaraku-mark${suffix}.svg`), markSvg(512, accent));
-    await writeFile(path.join(OUT, `negaraku-lockup${suffix}.svg`), lockupSvg(900, 300, null, accent));
-    await writeFile(path.join(OUT, `negaraku-lockup-dark${suffix}.svg`), lockupSvg(900, 300, DARK, accent));
+  // Brand kit — a single Gold accent (the 1company brand). The badge black canvas
+  // stays; only the blossom + wordmark accent is gold.
+  const accent = GOLD;
+  await writeFile(path.join(OUT, 'negaraku-icon.svg'), badgeSvg(512, accent));
+  await writeFile(path.join(OUT, 'negaraku-mark.svg'), markSvg(512, accent));
+  await writeFile(path.join(OUT, 'negaraku-lockup.svg'), lockupSvg(900, 300, null, accent));
+  await writeFile(path.join(OUT, 'negaraku-lockup-dark.svg'), lockupSvg(900, 300, DARK, accent));
 
-    await png(badgeSvg(1024, accent), `negaraku-icon${suffix}-1024.png`, 1024);
-    await png(badgeSvg(512, accent), `negaraku-icon${suffix}-512.png`, 512);
-    await png(markSvg(1024, accent), `negaraku-mark${suffix}-1024.png`, 1024);
-    await png(markSvg(512, accent), `negaraku-mark${suffix}-512.png`, 512);
-    await png(lockupSvg(1800, 600, null, accent), `negaraku-lockup-transparent${suffix}-1800.png`, 1800, 600);
-    await png(lockupSvg(1800, 600, DARK, accent), `negaraku-lockup-dark${suffix}-1800.png`, 1800, 600);
-  }
+  await png(badgeSvg(1024, accent), 'negaraku-icon-1024.png', 1024);
+  await png(badgeSvg(512, accent), 'negaraku-icon-512.png', 512);
+  await png(markSvg(1024, accent), 'negaraku-mark-1024.png', 1024);
+  await png(markSvg(512, accent), 'negaraku-mark-512.png', 512);
+  await png(lockupSvg(1800, 600, null, accent), 'negaraku-lockup-transparent-1800.png', 1800, 600);
+  await png(lockupSvg(1800, 600, DARK, accent), 'negaraku-lockup-dark-1800.png', 1800, 600);
 
   const readme = `# NegaraKu.md — brand assets
 
@@ -123,14 +117,11 @@ The logo (v2) is a **black rounded hexagon** (1company badge shape) with the
 **gold Bunga Raya** — an exact vector trace of Malaysia's national-flower emblem
 — in place of the "1". \`build-logo.mjs\` is the single source of truth (shape in
 \`scripts/logo-flower.mjs\`); it also writes \`public/favicon.svg\`, so the site
-icon and this kit can never drift. **Version 1** (the abstract blossom) is
-archived in \`public/brand/v1/\`.
+icon and this kit can never drift.
 
-Two accents are provided: **Gold** (default file names) and **Bright Red**
-(same names with a \`-red\` suffix), matching the site's Black·Gold and Black·Red
-themes.
+A single **Gold** accent (the 1company brand) on the black badge canvas.
 
-## Files (each exists in Gold and \`-red\`)
+## Files
 | File | Use |
 |---|---|
 | \`negaraku-icon.svg\` / \`-icon-1024.png\` / \`-512.png\` | The hexagon badge — favicon, app icon, avatar, primary logo |
@@ -138,12 +129,8 @@ themes.
 | \`negaraku-lockup.svg\` / \`-lockup-transparent-1800.png\` | Badge + wordmark, transparent |
 | \`negaraku-lockup-dark.svg\` / \`-lockup-dark-1800.png\` | Badge + wordmark on the dark brand canvas |
 
-Red variants: \`negaraku-icon-red.svg\`, \`negaraku-mark-red.svg\`,
-\`negaraku-lockup-red.svg\`, etc.
-
 ## Colours
 - Gold accent: \`#FFC000\`
-- Bright-red accent: \`#FF2020\`
 - Badge black: \`#0A0A0A\`
 - Dark canvas: \`#07070A\`
 - Ink (wordmark): \`#F4F4F8\`
