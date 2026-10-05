@@ -1,0 +1,8 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import LlmsView from '@/components/LlmsView.astro';
+const locale = 'vi';
+---
+<BaseLayout locale={locale} title="Dành cho AI" path="/llms">
+  <LlmsView locale={locale} />
+</BaseLayout>

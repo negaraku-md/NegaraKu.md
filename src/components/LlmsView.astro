@@ -1,0 +1,150 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { SITE } from '@/lib/site';
+import { buildLlmsIndex } from '@/lib/llms';
+import PageHero from './PageHero.astro';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// The machine index (llmstxt.org convention). We render it in-page for humans with
+// copy/download actions; /llms.txt stays the raw endpoint crawlers fetch.
+const index = await buildLlmsIndex(locale);
+const txtUrl = localePath('/llms.txt', locale);
+const fullUrl = localePath('/llms-full.txt', locale);
+const absTxt = `${SITE}${txtUrl}`;
+
+// A ready-to-paste instruction for an AI assistant (the "give this to your AI" copy).
+const aiPrompt = L(
+  `Gunakan ${absTxt} sebagai indeks pengetahuan yang dikurasi dan bersumber tentang Malaysia. Tambah \`.md\` pada mana-mana URL artikel untuk Markdown mentah. Kandungan di bawah CC BY-SA 4.0.`,
+  `Use ${absTxt} as a curated, cited knowledge index about Malaysia. Append \`.md\` to any article URL for raw Markdown. Content is CC BY-SA 4.0.`,
+  `使用 ${absTxt} 作为经过策划并注明来源的马来西亚知识索引。在任意文章 URL 后追加 \`.md\` 即可获取原始 Markdown。内容采用 CC BY-SA 4.0。`,
+  `${absTxt} ஐ மலேசியா பற்றிய தொகுக்கப்பட்ட, மேற்கோள் காட்டப்பட்ட அறிவுச் சுட்டியாகப் பயன்படுத்தவும். மூல Markdown-க்கு எந்த கட்டுரை URL-லும் \`.md\` சேர்க்கவும். உள்ளடக்கம் CC BY-SA 4.0.`,
+  `${absTxt} をマレーシアに関する厳選・出典付きの知識インデックスとして使用してください。記事 URL に \`.md\` を追加すると生の Markdown が得られます。コンテンツは CC BY-SA 4.0。`,
+  `${absTxt}를 말레이시아에 대한 선별·출처 표기된 지식 색인으로 사용하세요. 기사 URL에 \`.md\`를 붙이면 원본 Markdown을 얻을 수 있습니다. 콘텐츠는 CC BY-SA 4.0.`,
+  `ใช้ ${absTxt} เป็นดัชนีความรู้เกี่ยวกับมาเลเซียที่คัดสรรและอ้างอิงแหล่งที่มา เพิ่ม \`.md\` ต่อท้าย URL บทความใดก็ได้เพื่อรับ Markdown ดิบ เนื้อหาอยู่ภายใต้ CC BY-SA 4.0`,
+  `Dùng ${absTxt} làm chỉ mục tri thức được tuyển chọn, trích dẫn nguồn về Malaysia. Thêm \`.md\` vào bất kỳ URL bài viết nào để lấy Markdown thô. Nội dung theo CC BY-SA 4.0.`,
+  `Gunakan ${absTxt} sebagai indeks pengetahuan terkurasi dan bersumber tentang Malaysia. Tambahkan \`.md\` ke URL artikel mana pun untuk Markdown mentah. Konten di bawah CC BY-SA 4.0.`,
+);
+
+const ui = {
+  copyIndex: L('Salin indeks', 'Copy index', '复制索引', 'சுட்டியை நகலெடு', 'インデックスをコピー', '색인 복사', 'คัดลอกดัชนี', 'Sao chép chỉ mục', 'Salin indeks'),
+  copyPrompt: L('Salin arahan AI', 'Copy AI prompt', '复制 AI 指令', 'AI அறிவுறுத்தலை நகலெடு', 'AI プロンプトをコピー', 'AI 프롬프트 복사', 'คัดลอกคำสั่ง AI', 'Sao chép lời nhắc AI', 'Salin perintah AI'),
+  download: L('Muat turun .txt', 'Download .txt', '下载 .txt', '.txt பதிவிறக்கு', '.txt をダウンロード', '.txt 다운로드', 'ดาวน์โหลด .txt', 'Tải .txt', 'Unduh .txt'),
+  openRaw: L('Buka mentah', 'Open raw', '打开原文', 'மூலத்தைத் திற', '生データを開く', '원본 열기', 'เปิดต้นฉบับ', 'Mở bản thô', 'Buka mentah'),
+  copied: L('Disalin!', 'Copied!', '已复制！', 'நகலெடுக்கப்பட்டது!', 'コピーしました！', '복사됨!', 'คัดลอกแล้ว!', 'Đã sao chép!', 'Tersalin!'),
+  previewTitle: L('Indeks (llms.txt)', 'Index (llms.txt)', '索引 (llms.txt)', 'சுட்டி (llms.txt)', 'インデックス (llms.txt)', '색인 (llms.txt)', 'ดัชนี (llms.txt)', 'Chỉ mục (llms.txt)', 'Indeks (llms.txt)'),
+  fullTitle: L('Korpus penuh (llms-full.txt)', 'Full corpus (llms-full.txt)', '完整语料 (llms-full.txt)', 'முழு கார்பஸ் (llms-full.txt)', '全文コーパス (llms-full.txt)', '전체 코퍼스 (llms-full.txt)', 'คลังข้อความเต็ม (llms-full.txt)', 'Toàn bộ kho văn bản (llms-full.txt)', 'Korpus lengkap (llms-full.txt)'),
+  fullNote: L(
+    'Setiap artikel digabungkan sebagai satu fail Markdown — terlalu besar untuk pratonton di sini.',
+    'Every article concatenated into one Markdown file — too large to preview here.',
+    '所有文章合并为一个 Markdown 文件——太大，无法在此预览。',
+    'ஒவ்வொரு கட்டுரையும் ஒரே Markdown கோப்பாக இணைக்கப்பட்டது — இங்கே முன்தோற்றம் காண மிகப் பெரியது.',
+    '全記事を1つの Markdown ファイルに連結 — ここでプレビューするには大きすぎます。',
+    '모든 기사를 하나의 Markdown 파일로 연결 — 여기서 미리 보기에는 너무 큽니다.',
+    'รวมทุกบทความไว้ในไฟล์ Markdown เดียว — ใหญ่เกินกว่าจะแสดงตัวอย่างที่นี่',
+    'Mọi bài viết được nối thành một tệp Markdown — quá lớn để xem trước tại đây.',
+    'Setiap artikel digabungkan menjadi satu berkas Markdown — terlalu besar untuk pratinjau di sini.',
+  ),
+};
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
+    { label: L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI') },
+  ]}
+  title={L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI')}
+  desc={L(
+    'Indeks mesra-AI untuk NegaraKu.md — mengikut konvensyen llms.txt. Berikannya kepada mana-mana pembantu AI, atau tambah `.md` pada mana-mana URL artikel untuk Markdown mentah.',
+    'An AI-friendly index for NegaraKu.md — following the llms.txt convention. Hand it to any AI assistant, or append `.md` to any article URL for raw Markdown.',
+    'NegaraKu.md 的 AI 友好索引——遵循 llms.txt 约定。将其提供给任何 AI 助手，或在任意文章 URL 后追加 `.md` 以获取原始 Markdown。',
+    'NegaraKu.md-க்கான AI-நட்பு சுட்டி — llms.txt மரபைப் பின்பற்றுகிறது. எந்த AI உதவியாளருக்கும் கொடுக்கவும், அல்லது மூல Markdown-க்கு எந்த கட்டுரை URL-லும் `.md` சேர்க்கவும்.',
+    'NegaraKu.md の AI フレンドリーなインデックス — llms.txt 規約に準拠。任意の AI アシスタントに渡すか、記事 URL に `.md` を追加して生の Markdown を取得できます。',
+    'NegaraKu.md를 위한 AI 친화적 색인 — llms.txt 규약을 따릅니다. 어떤 AI 어시스턴트에게든 전달하거나, 기사 URL에 `.md`를 붙여 원본 Markdown을 받으세요.',
+    'ดัชนีที่เป็นมิตรกับ AI สำหรับ NegaraKu.md — เป็นไปตามข้อตกลง llms.txt มอบให้กับผู้ช่วย AI ใด ๆ หรือเพิ่ม `.md` ต่อท้าย URL บทความเพื่อรับ Markdown ดิบ',
+    'Một chỉ mục thân thiện với AI cho NegaraKu.md — theo quy ước llms.txt. Đưa cho bất kỳ trợ lý AI nào, hoặc thêm `.md` vào URL bài viết để lấy Markdown thô.',
+    'Indeks ramah-AI untuk NegaraKu.md — mengikuti konvensi llms.txt. Berikan ke asisten AI mana pun, atau tambahkan `.md` ke URL artikel mana pun untuk Markdown mentah.',
+  )}
+/>
+
+<section class="container block">
+  <div class="llms">
+    <div class="llms-head">
+      <h2>{ui.previewTitle}</h2>
+      <div class="llms-actions">
+        <button type="button" class="la-btn" data-copy="#llms-index">{ui.copyIndex}</button>
+        <button type="button" class="la-btn" data-copy="#llms-prompt">{ui.copyPrompt}</button>
+        <a class="la-btn" href={txtUrl} download="llms.txt">{ui.download}</a>
+        <a class="la-btn" href={txtUrl} target="_blank" rel="noopener">{ui.openRaw} ↗</a>
+      </div>
+    </div>
+    <pre id="llms-index" class="llms-pre" data-pagefind-ignore>{index}</pre>
+    <textarea id="llms-prompt" class="sr-only" readonly aria-hidden="true">{aiPrompt}</textarea>
+
+    <div class="llms-head llms-head-2">
+      <h2>{ui.fullTitle}</h2>
+      <div class="llms-actions">
+        <a class="la-btn" href={fullUrl} download="llms-full.txt">{ui.download}</a>
+        <a class="la-btn" href={fullUrl} target="_blank" rel="noopener">{ui.openRaw} ↗</a>
+      </div>
+    </div>
+    <p class="note">{ui.fullNote}</p>
+  </div>
+</section>
+
+<script define:vars={{ copied: ui.copied }}>
+  document.querySelectorAll('[data-copy]').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const src = document.querySelector(btn.getAttribute('data-copy'));
+      if (!src) return;
+      const text = src.value ?? src.textContent ?? '';
+      try {
+        await navigator.clipboard.writeText(text);
+      } catch {
+        // Fallback for insecure contexts / older browsers.
+        const ta = document.createElement('textarea');
+        ta.value = text; document.body.appendChild(ta); ta.select();
+        try { document.execCommand('copy'); } catch {}
+        ta.remove();
+      }
+      const prev = btn.textContent;
+      btn.textContent = copied;
+      btn.classList.add('is-done');
+      setTimeout(() => { btn.textContent = prev; btn.classList.remove('is-done'); }, 1400);
+    });
+  });
+</script>
+
+<style>
+  .llms { max-width: 72rem; }
+  .llms-head { display: flex; flex-wrap: wrap; gap: 0.6rem 1rem; align-items: center; justify-content: space-between; margin: 0 0 0.8rem; }
+  .llms-head-2 { margin-top: 2.4rem; }
+  .llms-head h2 { font-size: 1.05rem; margin: 0; }
+  .llms-actions { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .la-btn {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    font: inherit; font-size: 0.8rem; font-weight: 700; text-decoration: none;
+    color: var(--ink-soft); background: var(--surface-2);
+    border: 1px solid var(--line); border-radius: 8px; padding: 0.4rem 0.8rem; cursor: pointer;
+  }
+  .la-btn:hover { border-color: var(--gold); color: var(--gold); }
+  .la-btn.is-done { border-color: var(--green, #4ade80); color: var(--green, #4ade80); }
+  .llms-pre {
+    margin: 0; max-height: 60vh; overflow: auto;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+    padding: 1rem 1.1rem; font-size: 0.8rem; line-height: 1.6;
+    white-space: pre-wrap; word-break: break-word; color: var(--ink-soft);
+    font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace;
+  }
+  .note { color: var(--muted); font-size: 0.85rem; margin: 0.4rem 0 0; }
+  .sr-only {
+    position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+  }
+</style>
