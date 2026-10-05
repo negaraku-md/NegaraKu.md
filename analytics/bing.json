@@ -1,20 +1,36 @@
 {
-  "updatedAt": "2026-09-28T12:26:10.055Z",
+  "updatedAt": "2026-10-05T13:06:22.221Z",
   "site": "https://www.negaraku.md/",
   "byMonth": {
     "2026-09": {
-      "clicks": 18,
-      "impressions": 311
+      "clicks": 45,
+      "impressions": 1002
+    },
+    "2026-10": {
+      "clicks": 15,
+      "impressions": 384
     }
   },
   "latest": {
     "totals": {
-      "clicks": 18,
-      "impressions": 311
+      "clicks": 60,
+      "impressions": 1386
     },
     "topQueries": [
       {
+        "query": "masb malaysia",
+        "clicks": 0,
+        "impressions": 6,
+        "position": 9
+      },
+      {
         "query": "parliament is not legally supreme federal constitution malaysia legislative powers",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 4
+      },
+      {
+        "query": "jabatan alam sekitar eia aktiviti pembangunan pantai malaysia",
         "clicks": 0,
         "impressions": 4,
         "position": 4
@@ -26,13 +42,7 @@
         "position": 5
       },
       {
-        "query": "sjkt primary school curriculum",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 1
-      },
-      {
-        "query": "jabatan alam sekitar eia aktiviti pembangunan pantai malaysia",
+        "query": "malaysia members of parliament state level comparison state assemblyman adun",
         "clicks": 0,
         "impressions": 4,
         "position": 4
@@ -44,21 +54,45 @@
         "position": 2
       },
       {
+        "query": "sjkt primary school curriculum",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 1
+      },
+      {
         "query": "lembaga pemasaran pertanian fama terengganu",
         "clicks": 0,
         "impressions": 4,
         "position": 5
       },
       {
-        "query": "malaysia members of parliament state level comparison state assemblyman adun",
+        "query": "yuran permohonan pendaftaran trademark malaysia myipo",
         "clicks": 0,
         "impressions": 4,
-        "position": 4
+        "position": 5
       },
       {
-        "query": "and do i need to include my muet? i took it on 2017 for degree entrance and got band 4",
+        "query": "kos daftar cap dagangan malaysia 2025 2026",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
+        "position": 2
+      },
+      {
+        "query": "perkara 152 + bahasa kebangsaan 1. bahasa kebangsaan adalah bahasa melayu dan hendaklah ditulis dengan apa-apa tulisan sebagaimana yang diperintahkan dengan undang-undang oleh parlimen: dengan syarat bahawa- (a) tiada sesiapa pun boleh dilarang atau ditahan daripada menggunakan (bagi apa-apa maksud, lain daripada maksud rasmi), atau daripada mengajar atau belajar apa-apa bahsa lain;°",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 6
+      },
+      {
+        "query": "雪邦赛道为什么退出f1",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 6
+      },
+      {
+        "query": "马来西亚破产流程",
+        "clicks": 0,
+        "impressions": 4,
         "position": 2
       },
       {
@@ -72,6 +106,12 @@
         "clicks": 0,
         "impressions": 3,
         "position": 6
+      },
+      {
+        "query": "and do i need to include my muet? i took it on 2017 for degree entrance and got band 4",
+        "clicks": 0,
+        "impressions": 3,
+        "position": 2
       },
       {
         "query": "what is section 219 ssm",
@@ -98,70 +138,34 @@
         "position": 4
       },
       {
+        "query": "mpers convert mfrs",
+        "clicks": 1,
+        "impressions": 3,
+        "position": 5
+      },
+      {
+        "query": "administrator menjual aset si mati selepas 5 tahun kematian adakah boleh dikenakan cukai keuntungan",
+        "clicks": 0,
+        "impressions": 3,
+        "position": 6
+      },
+      {
+        "query": "bidang kuasa mati kl court",
+        "clicks": 0,
+        "impressions": 3,
+        "position": 7
+      },
+      {
+        "query": "perkara  153  perlembagaan persekutuan",
+        "clicks": 0,
+        "impressions": 3,
+        "position": 10
+      },
+      {
         "query": "pk form applicable if employees resign",
         "clicks": 0,
         "impressions": 2,
         "position": 10
-      },
-      {
-        "query": "borang pk (employment retrenchment notification 2004)",
-        "clicks": 0,
-        "impressions": 2,
-        "position": 6
-      },
-      {
-        "query": "industrial building allowance iba",
-        "clicks": 1,
-        "impressions": 2,
-        "position": 8
-      },
-      {
-        "query": "tenun pua kumbu",
-        "clicks": 0,
-        "impressions": 2,
-        "position": 7
-      },
-      {
-        "query": "mfrs 1 and mfrs2",
-        "clicks": 0,
-        "impressions": 2,
-        "position": 5
-      },
-      {
-        "query": "malaysia retrenchment notification form pk",
-        "clicks": 0,
-        "impressions": 2,
-        "position": 3
-      },
-      {
-        "query": "ketetapan umum elaun bangunan industri",
-        "clicks": 0,
-        "impressions": 2,
-        "position": 9
-      },
-      {
-        "query": "fama merupakan sebuah agensi pemasaran pertanian yang ditubuhkan di bawah____________",
-        "clicks": 0,
-        "impressions": 2,
-        "position": 10
-      },
-      {
-        "query": "what do we call the schools  as sjkc and sjkt is it vernacular",
-        "clicks": 0,
-        "impressions": 2,
-        "position": 2
-      },
-      {
-        "query": "akta 613 in malay",
-        "clicks": 0,
-        "impressions": 2,
-        "position": 8
-      },
-      {
-        "query": "hierarki mahkamah malaysia",
-        "clicks": 0,
-        "impressions": 2,
-        "position": 9
       }
     ]
   }
