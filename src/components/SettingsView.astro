@@ -114,6 +114,7 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
   </section>
 
   <div class="actions">
+    <button type="button" id="set-done" class="btn btn-primary" data-home={localePath('/', locale)}>{L('Simpan', 'Save', '保存', 'சேமி', '保存', '저장', 'บันทึก', 'Lưu', 'Simpan')}</button>
     <button type="button" id="set-reset" class="reset">{L('Set semula semua', 'Reset all', '全部重置', 'அனைத்தையும் மீட்டமை', 'すべてリセット', '모두 초기화', 'รีเซ็ตทั้งหมด', 'Đặt lại tất cả', 'Setel ulang semua')}</button>
     <span id="set-saved" class="saved" hidden>{L('Disimpan', 'Saved', '已保存', 'சேமிக்கப்பட்டது', '保存しました', '저장됨', 'บันทึกแล้ว', 'Đã lưu', 'Tersimpan')}</span>
   </div>
@@ -173,6 +174,21 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
       root.removeAttribute('data-text-size');
       flash();
       setTimeout(() => location.reload(), 300);
+    });
+
+    // --- Save & return: settings apply live, so this just goes back to the page
+    // the visitor came from (same-origin), or home if there's no in-site history. ---
+    const doneBtn = document.getElementById('set-done');
+    doneBtn?.addEventListener('click', () => {
+      const home = doneBtn.getAttribute('data-home') || '/';
+      try {
+        const ref = document.referrer;
+        if (ref && new URL(ref).origin === location.origin && history.length > 1) {
+          history.back();
+          return;
+        }
+      } catch {}
+      location.href = home;
     });
 
     // --- Welcome card toggle (nk:welcomed = '1' means dismissed) ---
