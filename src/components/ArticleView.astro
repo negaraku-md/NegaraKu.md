@@ -634,10 +634,37 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
             {L('Laporkan masalah terjemahan', 'Report a translation problem', '报告翻译问题', 'மொழிபெயர்ப்புச் சிக்கலைப் புகாரளிக்கவும்', '翻訳の問題を報告', '번역 문제 신고', 'รายงานปัญหาการแปล', 'Báo cáo lỗi bản dịch', 'Laporkan masalah terjemahan')} ↗
           </a>
         )}
-        <a class="edit" href={localePath(path, locale) + '.md'}>
+        <a class="edit" href={localePath(path, locale) + '.md'} target="_blank" rel="noopener">
           {L('Markdown mentah', 'Raw Markdown', '原始 Markdown', 'மூல Markdown', '生の Markdown', '원본 Markdown', 'Markdown ดิบ', 'Markdown thô', 'Markdown mentah')} ↗
         </a>
+        <button type="button" class="edit edit-copy" data-copy-md={localePath(path, locale) + '.md'}>
+          {L('Salin Markdown', 'Copy Markdown', '复制 Markdown', 'Markdown நகலெடு', 'Markdown をコピー', 'Markdown 복사', 'คัดลอก Markdown', 'Sao chép Markdown', 'Salin Markdown')}
+        </button>
       </div>
+
+    <script define:vars={{ copiedLabel: L('Disalin!', 'Copied!', '已复制！', 'நகலெடுக்கப்பட்டது!', 'コピーしました！', '복사됨!', 'คัดลอกแล้ว!', 'Đã sao chép!', 'Tersalin!') }}>
+      document.querySelectorAll('[data-copy-md]').forEach((btn) => {
+        btn.addEventListener('click', async () => {
+          const url = btn.getAttribute('data-copy-md');
+          const orig = btn.textContent;
+          let md = '';
+          try { md = await fetch(url).then((r) => (r.ok ? r.text() : '')); } catch {}
+          if (md) {
+            try {
+              await navigator.clipboard.writeText(md);
+            } catch {
+              const ta = document.createElement('textarea');
+              ta.value = md; document.body.appendChild(ta); ta.select();
+              try { document.execCommand('copy'); } catch {}
+              ta.remove();
+            }
+          }
+          btn.textContent = copiedLabel;
+          btn.classList.add('is-done');
+          setTimeout(() => { btn.textContent = orig; btn.classList.remove('is-done'); }, 1400);
+        });
+      });
+    </script>
     </aside>
   </div>
 </article>
@@ -913,6 +940,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .edit:first-of-type { padding-top: 0.6rem; }
   .edit:last-of-type { padding-bottom: 0.6rem; }
   .edit:hover { color: var(--gold); }
+  button.edit { width: 100%; text-align: left; background: none; border: 0; font-family: inherit; cursor: pointer; }
+  button.edit.is-done { color: var(--green, #4ade80); }
 
   /* Floating prev/next arrows — sit just left of the site back-to-top button. */
   .artnav {
