@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { PILLARS, getPillarColor, loc } from '@/lib/categories';
-import { localePath, t } from '@/lib/i18n';
+import { localePath, t, LOCALES } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
 import PageHero from './PageHero.astro';
 
@@ -48,27 +48,29 @@ const contributeFeatures = [
   { key: 'nav.github', href: REPO, external: true, icon: '🐙', color: '#E2E8F0', blurb: L('Sumber kod, isu, dan pull request.', 'The source, issues, and pull requests.', '源代码、issue 与 pull request。', 'மூலக் குறியீடு, சிக்கல்கள், மற்றும் pull request-கள்.', 'ソースコード・issue・pull request。', '소스 코드, 이슈, 풀 리퀘스트.', 'ซอร์สโค้ด issue และ pull request', 'Mã nguồn, issue, và pull request.', 'Kode sumber, issue, dan pull request.') },
 ];
 
-// How to read & verify — two primary step cards.
-const guides = [
-  {
-    icon: '🔍',
-    title: L('Cari sesuatu', 'Find something', '查找内容', 'ஏதேனும் தேடுங்கள்', '何かを探す', '무언가 찾기', 'ค้นหาบางสิ่ง', 'Tìm một điều gì đó', 'Cari sesuatu'),
-    steps: [
-      L('Tekan “/” pada papan kekunci, atau ketik ikon carian di bar atas.', 'Press “/” on your keyboard, or tap the search icon in the top bar.', '按键盘上的“/”，或点击顶栏的搜索图标。', 'உங்கள் விசைப்பலகையில் “/” அழுத்துங்கள், அல்லது மேல் பட்டியில் உள்ள தேடல் சின்னத்தைத் தட்டுங்கள்.', 'キーボードで「/」を押すか、上部バーの検索アイコンをタップします。', '키보드에서 “/”를 누르거나, 상단 바의 검색 아이콘을 탭하세요.', 'กด “/” บนแป้นพิมพ์ หรือแตะไอคอนค้นหาในแถบด้านบน', 'Nhấn “/” trên bàn phím, hoặc chạm vào biểu tượng tìm kiếm ở thanh trên cùng.', 'Tekan “/” pada papan ketik, atau ketuk ikon pencarian di bilah atas.'),
-      L('Taip nama orang, tempat atau peristiwa — carian sepadan semasa anda menaip.', 'Type a person, place, or event — it matches as you type.', '输入人物、地点或事件——边输入边匹配。', 'ஒரு நபர், இடம் அல்லது நிகழ்வைத் தட்டச்சு செய்யுங்கள் — நீங்கள் தட்டச்சு செய்யும்போதே அது பொருந்தும்.', '人物、場所、または出来事を入力すると、入力に応じて一致します。', '인물, 장소 또는 사건을 입력하세요 — 입력하는 동안 바로 일치 결과가 나타납니다.', 'พิมพ์ชื่อบุคคล สถานที่ หรือเหตุการณ์ — ระบบจะจับคู่ผลลัพธ์ขณะที่คุณพิมพ์', 'Nhập tên một người, địa điểm hoặc sự kiện — kết quả khớp ngay khi bạn gõ.', 'Ketik nama orang, tempat atau peristiwa — hasilnya cocok saat Anda mengetik.'),
-      L('Buka mana-mana hasil untuk membaca artikel penuh.', 'Open any result to read the full article.', '打开任意结果即可阅读全文。', 'முழு கட்டுரையையும் படிக்க எந்த முடிவையும் திறங்கள்.', 'いずれかの結果を開いて記事全文を読みます。', '전체 기사를 읽으려면 아무 결과나 여세요.', 'เปิดผลลัพธ์ใดก็ได้เพื่ออ่านบทความฉบับเต็ม', 'Mở bất kỳ kết quả nào để đọc toàn văn bài viết.', 'Buka hasil mana pun untuk membaca artikel lengkap.'),
-    ],
-  },
-  {
-    icon: '📖',
-    title: L('Baca & sahkan', 'Read & verify', '阅读与核实', 'படித்து சரிபார்', '読んで検証', '읽고 검증', 'อ่านและตรวจสอบ', 'Đọc & kiểm chứng', 'Baca & verifikasi'),
-    steps: [
-      L('Buka artikel daripada laluan, kategori atau carian.', 'Open an article from a path, category, or search.', '从路径、分类或搜索打开文章。', 'ஒரு பாதை, வகை அல்லது தேடலில் இருந்து ஒரு கட்டுரையைத் திறங்கள்.', 'パス、カテゴリ、または検索から記事を開きます。', '경로, 카테고리 또는 검색에서 기사를 여세요.', 'เปิดบทความจากเส้นทาง หมวดหมู่ หรือการค้นหา', 'Mở một bài viết từ một hướng, danh mục hoặc tìm kiếm.', 'Buka artikel dari jalur, kategori atau pencarian.'),
-      L('Tatal ke bahagian “Sumber” di hujung — rujukannya disenaraikan di sana.', 'Scroll to the “Sources” at the foot — its references are listed there.', '滚动到末尾的“来源”——参考资料都列在那里。', 'அடிப்பகுதியில் உள்ள “ஆதாரங்கள்” வரை உருட்டுங்கள் — அதன் குறிப்புகள் அங்கே பட்டியலிடப்பட்டுள்ளன.', '末尾の「出典」までスクロールします — 参照元はそこに一覧化されています。', '하단의 “출처”까지 스크롤하세요 — 참고 자료가 거기에 나열되어 있습니다.', 'เลื่อนไปที่ส่วน “แหล่งที่มา” ท้ายบทความ — รายการอ้างอิงอยู่ที่นั่น', 'Cuộn xuống phần “Nguồn” ở cuối bài — các tài liệu tham khảo được liệt kê ở đó.', 'Gulir ke bagian “Sumber” di bawah — rujukannya tercantum di sana.'),
-      L('Ikuti pautan sumber untuk mengesahkan sendiri.', 'Follow a source link to verify it yourself.', '点击来源链接自行查证。', 'நீங்களே சரிபார்க்க ஒரு ஆதாரச் சுட்டியைப் பின்தொடருங்கள்.', '出典リンクをたどって自分で確認します。', '직접 확인하려면 출처 링크를 따라가세요.', 'ตามลิงก์แหล่งที่มาเพื่อตรวจสอบด้วยตนเอง', 'Theo liên kết nguồn để tự mình xác minh.', 'Ikuti tautan sumber untuk memverifikasinya sendiri.'),
-      L('Semak tarikh kemas kini terakhir artikel untuk menilai kesegaran.', 'Check the article’s last-updated date to judge freshness.', '查看文章的最后更新日期以判断时效性。', 'புத்தநிலையை மதிப்பிட கட்டுரையின் கடைசி புதுப்பிப்பு தேதியைச் சரிபார்க்கவும்.', '記事の最終更新日を確認して鮮度を判断します。', '최신성을 판단하려면 기사의 마지막 업데이트 날짜를 확인하세요.', 'ตรวจสอบวันที่อัปเดตล่าสุดของบทความเพื่อประเมินความใหม่', 'Kiểm tra ngày cập nhật gần nhất của bài viết để đánh giá độ mới.', 'Periksa tanggal pembaruan terakhir artikel untuk menilai kesegaran.'),
-    ],
-  },
+const nLang = LOCALES.length;
+
+// What's in an article — the real anatomy of every article page, so a first-time
+// reader knows what they'll find and how to use it. Titles mirror ArticleView's
+// own section headings; these are informational cards (not links).
+const articleFeatures = [
+  { icon: '⚡', title: L('Jawapan pantas', '30-second answer', '30 秒速答', '30 வினாடி பதில்', '30秒でわかる答え', '30초 답변', 'คำตอบใน 30 วินาที', 'Câu trả lời 30 giây', 'Jawaban 30 detik'), blurb: L('Ringkasan pantas di bahagian atas — intinya sekali pandang.', 'A quick summary at the top — the gist in one glance.', '页面顶部的快速摘要——一眼看懂要点。', 'மேலே ஒரு விரைவு சுருக்கம் — ஒரே பார்வையில் சாராம்சம்.', 'ページ上部の要約 — ひと目で要点がわかる。', '맨 위의 빠른 요약 — 한눈에 핵심 파악.', 'สรุปสั้น ๆ ที่ด้านบน — เข้าใจใจความในพริบตา', 'Tóm tắt nhanh ở đầu trang — nắm ý chính trong một cái nhìn.', 'Ringkasan cepat di bagian atas — intinya dalam sekejap.') },
+  { icon: '📄', title: L('Penjelasan penuh', 'Full explanation', '完整说明', 'முழு விளக்கம்', '詳しい説明', '전체 설명', 'คำอธิบายฉบับเต็ม', 'Giải thích đầy đủ', 'Penjelasan lengkap'), blurb: L('Huraian penuh bersumber di bawah ringkasan.', 'The complete, sourced write-up beneath the summary.', '摘要下方是注明来源的完整内容。', 'சுருக்கத்திற்குக் கீழே ஆதாரம் காட்டப்பட்ட முழு விவரம்.', '要約の下に、出典付きの詳しい本文。', '요약 아래의 출처가 명시된 전체 본문.', 'เนื้อหาฉบับเต็มพร้อมแหล่งอ้างอิงใต้บทสรุป', 'Bài viết đầy đủ, có nguồn, bên dưới phần tóm tắt.', 'Uraian lengkap bersumber di bawah ringkasan.') },
+  { icon: '🧭', title: L('Dalam halaman ini', 'On this page', '本页目录', 'இந்தப் பக்கத்தில்', 'このページの目次', '이 페이지에서', 'ในหน้านี้', 'Trong trang này', 'Dalam halaman ini'), blurb: L('Senarai kandungan untuk terus ke mana-mana bahagian.', 'A contents list to jump straight to any section.', '目录，可直接跳转到任意章节。', 'எந்தப் பகுதிக்கும் நேரடியாகச் செல்ல உள்ளடக்கப் பட்டியல்.', '任意のセクションへ飛べる目次。', '원하는 섹션으로 바로 이동하는 목차.', 'สารบัญสำหรับข้ามไปยังหัวข้อใดก็ได้', 'Mục lục để nhảy thẳng đến bất kỳ phần nào.', 'Daftar isi untuk langsung ke bagian mana pun.') },
+  { icon: '🔗', title: L('Sumber', 'Sources', '来源', 'ஆதாரங்கள்', '出典', '출처', 'แหล่งที่มา', 'Nguồn', 'Sumber'), blurb: L('Rujukan bagi setiap dakwaan, disenaraikan dan boleh disemak.', "Every claim's references, listed and checkable.", '每项陈述的参考资料，可查证。', 'ஒவ்வொரு கூற்றின் குறிப்புகளும், பட்டியலிடப்பட்டு சரிபார்க்கக்கூடியவை.', 'すべての記述の参照元を一覧化、確認可能。', '모든 주장의 참고 자료, 확인 가능하게 나열.', 'รายการอ้างอิงของทุกข้อความ ตรวจสอบได้', 'Tài liệu tham khảo cho mọi nhận định, có thể kiểm chứng.', 'Rujukan untuk setiap klaim, tercantum dan bisa diperiksa.') },
+  { icon: '🪢', title: L('Pengetahuan berkaitan', 'Related knowledge', '相关知识', 'தொடர்புடைய அறிவு', '関連する知識', '관련 지식', 'ความรู้ที่เกี่ยวข้อง', 'Kiến thức liên quan', 'Pengetahuan terkait'), blurb: L('Pautan ke topik berkaitan untuk diterokai seterusnya.', 'Links to connected topics to explore next.', '通往相关主题的链接，继续探索。', 'அடுத்து ஆராய தொடர்புடைய தலைப்புகளுக்கான இணைப்புகள்.', '次に読む関連トピックへのリンク。', '다음에 둘러볼 연결된 주제 링크.', 'ลิงก์ไปยังหัวข้อที่เกี่ยวข้องเพื่อสำรวจต่อ', 'Liên kết đến các chủ đề liên quan để khám phá tiếp.', 'Tautan ke topik terkait untuk dijelajahi berikutnya.') },
+  { icon: '🕓', title: L('Semakan & kesegaran', 'Revision & freshness', '修订与时效', 'திருத்தம் & புத்தநிலை', '改訂と鮮度', '개정 및 최신성', 'การแก้ไขและความใหม่', 'Phiên bản & độ mới', 'Revisi & kesegaran'), blurb: L('Siapa menerbitkannya, bila, dan sejarah perubahan penuhnya.', 'Who published it, when, and its full change history.', '谁发布、何时发布，以及完整修改历史。', 'யார் வெளியிட்டார், எப்போது, மற்றும் அதன் முழு மாற்ற வரலாறு.', '誰がいつ公開したか、変更履歴のすべて。', '누가 언제 발행했는지와 전체 변경 이력.', 'ใครเผยแพร่ เมื่อใด และประวัติการแก้ไขทั้งหมด', 'Ai đã đăng, khi nào, và toàn bộ lịch sử thay đổi.', 'Siapa yang menerbitkan, kapan, dan riwayat perubahan lengkapnya.') },
+  { icon: '🌐', title: L('Dalam bahasa anda', 'In your language', '以你的语言', 'உங்கள் மொழியில்', 'あなたの言語で', '당신의 언어로', 'ในภาษาของคุณ', 'Bằng ngôn ngữ của bạn', 'Dalam bahasa Anda'), blurb: L(`Baca artikel yang sama dalam ${nLang} bahasa.`, `Read the same article in ${nLang} languages.`, `以 ${nLang} 种语言阅读同一篇文章。`, `அதே கட்டுரையை ${nLang} மொழிகளில் படியுங்கள்.`, `同じ記事を ${nLang} 言語で読めます。`, `같은 기사를 ${nLang}개 언어로.`, `อ่านบทความเดียวกันใน ${nLang} ภาษา`, `Đọc cùng bài viết bằng ${nLang} ngôn ngữ.`, `Baca artikel yang sama dalam ${nLang} bahasa.`) },
+  { icon: '🤖', title: L('Salin Markdown · Untuk AI', 'Copy Markdown · For AI', '复制 Markdown · 面向 AI', 'Markdown நகல் · AI-க்கு', 'Markdown をコピー · AI 向け', 'Markdown 복사 · AI용', 'คัดลอก Markdown · สำหรับ AI', 'Sao chép Markdown · Cho AI', 'Salin Markdown · Untuk AI'), blurb: L('Ambil Markdown mentah untuk alat AI anda.', 'Grab the raw Markdown for your AI tool.', '获取原始 Markdown，用于你的 AI 工具。', 'உங்கள் AI கருவிக்கு மூல Markdown-ஐப் பெறுங்கள்.', '生の Markdown を取得して AI ツールへ。', 'AI 도구용 원본 Markdown 가져오기.', 'ดึง Markdown ดิบไปใช้กับเครื่องมือ AI ของคุณ', 'Lấy Markdown thô cho công cụ AI của bạn.', 'Ambil Markdown mentah untuk alat AI Anda.') },
+];
+
+// How we keep it accurate — the verification / trust story. Moved from Explore to
+// Contribute: it's the project's quality promise and the reason to take part.
+const accuracy = [
+  { icon: '✅', text: L('Setiap dakwaan dipetik; sumber disenaraikan dan boleh disemak.', 'Every claim is cited; sources are listed and checkable.', '每项陈述均注明出处；来源可查证。', 'ஒவ்வொரு கூற்றும் மேற்கோள் காட்டப்படுகிறது; ஆதாரங்கள் பட்டியலிடப்பட்டு சரிபார்க்கக்கூடியவை.', 'すべての記述に出典があり、ソースは一覧化され確認できます。', '모든 주장에 출처가 있고, 소스는 나열되어 확인 가능합니다.', 'ทุกข้อความมีการอ้างอิง แหล่งที่มาระบุไว้และตรวจสอบได้', 'Mọi nhận định đều được dẫn nguồn; nguồn được liệt kê và kiểm chứng được.', 'Setiap klaim dikutip; sumber tercantum dan bisa diperiksa.') },
+  { icon: '🔗', text: L('Ikuti mana-mana pautan sumber untuk mengesahkannya sendiri.', 'Follow any source link to verify it for yourself.', '点击任意来源链接，自行查证。', 'எந்த ஆதாரச் சுட்டியையும் பின்தொடர்ந்து நீங்களே சரிபார்க்கலாம்.', 'どの出典リンクからも、自分で確認できます。', '아무 출처 링크나 따라가 직접 확인하세요.', 'คลิกลิงก์แหล่งที่มาใดก็ได้เพื่อตรวจสอบด้วยตนเอง', 'Theo bất kỳ liên kết nguồn nào để tự mình kiểm chứng.', 'Ikuti tautan sumber mana pun untuk memverifikasinya sendiri.') },
+  { icon: '👤', text: L('Topik sensitif disemak oleh penyelenggara bernama sebelum terbit.', 'Sensitive topics get a named-maintainer review before publishing.', '敏感主题在发布前由具名维护者审阅。', 'உணர்திறன் மிக்க தலைப்புகள் வெளியிடுவதற்கு முன் பெயரிடப்பட்ட பராமரிப்பாளரால் மதிப்பாய்வு செய்யப்படுகின்றன.', '扱いに注意が必要なトピックは公開前に名前のある管理者がレビューします。', '민감한 주제는 발행 전에 이름이 공개된 관리자가 검토합니다.', 'หัวข้อที่ละเอียดอ่อนได้รับการตรวจทานโดยผู้ดูแลที่ระบุชื่อก่อนเผยแพร่', 'Chủ đề nhạy cảm được người bảo trì có tên duyệt trước khi đăng.', 'Topik sensitif ditinjau oleh pengelola bernama sebelum terbit.') },
+  { icon: '🕓', text: L('Kesegaran dijejaki dan sejarah perubahan penuh adalah terbuka.', 'Freshness is tracked and the full change history is public.', '时效性受到跟踪，完整修改历史公开。', 'புத்தநிலை கண்காணிக்கப்படுகிறது, முழு மாற்ற வரலாறும் பொதுவானது.', '鮮度は追跡され、変更履歴はすべて公開されています。', '최신성은 추적되고 전체 변경 이력은 공개됩니다.', 'มีการติดตามความใหม่ และประวัติการเปลี่ยนแปลงทั้งหมดเปิดเผยต่อสาธารณะ', 'Độ mới được theo dõi và toàn bộ lịch sử thay đổi được công khai.', 'Kesegaran dilacak dan riwayat perubahan lengkap bersifat publik.') },
 ];
 
 const guideHref = `${REPO}/blob/main/CONTRIBUTING.md`;
@@ -154,27 +156,26 @@ const guideHref = `${REPO}/blob/main/CONTRIBUTING.md`;
         ))}
       </div>
 
-      <h3 class="subhead">{L('Cara membaca & mengesahkan artikel', 'How to read & verify an article', '如何阅读与核实文章', 'ஒரு கட்டுரையை எப்படிப் படிப்பது & சரிபார்ப்பது', '記事の読み方と検証', '기사를 읽고 검증하는 방법', 'วิธีอ่านและตรวจสอบบทความ', 'Cách đọc & kiểm chứng một bài viết', 'Cara membaca & memverifikasi artikel')}</h3>
+      <h3 class="subhead">{L('Apa yang ada dalam artikel', "What's in an article", '一篇文章里有什么', 'ஒரு கட்டுரையில் என்ன இருக்கிறது', '記事の構成', '기사의 구성', 'ในบทความมีอะไรบ้าง', 'Một bài viết có gì', 'Apa yang ada dalam artikel')}</h3>
       <p class="lead">{L(
-        'Artikel dibantu AI dengan sumber disenaraikan. Topik sensitif disemak oleh penyelenggara bernama. Begini cara membaca dan menyemaknya:',
-        'AI-assisted articles with listed sources. Sensitive topics receive review by a named maintainer. Here is how to read and check one:',
-        'AI 辅助撰写、附来源的文章。敏感主题由具名维护者审阅。以下是阅读与核查的方法：',
-        'ஆதாரங்கள் பட்டியலிடப்பட்ட AI-உதவி கட்டுரைகள். உணர்திறன் மிக்க தலைப்புகள் பெயரிடப்பட்ட பராமரிப்பாளரால் மதிப்பாய்வு செய்யப்படுகின்றன. ஒன்றைப் படித்துச் சரிபார்ப்பது இப்படி:',
-        '出典付きの AI 支援記事です。センシティブな話題は名前のある管理者がレビューします。読んで確認する方法は次のとおりです：',
-        '출처가 명시된 AI 지원 기사입니다. 민감한 주제는 이름이 공개된 관리자가 검토합니다. 읽고 확인하는 방법은 다음과 같습니다:',
-        'บทความที่ช่วยเขียนโดย AI พร้อมระบุแหล่งที่มา หัวข้อที่ละเอียดอ่อนได้รับการตรวจทานโดยผู้ดูแลที่ระบุชื่อ นี่คือวิธีอ่านและตรวจสอบ:',
-        'Các bài viết có hỗ trợ AI kèm nguồn được liệt kê. Chủ đề nhạy cảm được một người bảo trì có tên duyệt. Đây là cách đọc và kiểm tra:',
-        'Artikel berbantuan AI dengan sumber yang tercantum. Topik sensitif ditinjau oleh pengelola bernama. Berikut cara membaca dan memeriksanya:',
+        'Setiap artikel dibina dengan cara yang sama — ini yang akan anda temui dan cara membacanya.',
+        'Every article is built the same way — here is what you will find and how to read it.',
+        '每篇文章结构一致——以下是你会看到的内容及阅读方式。',
+        'ஒவ்வொரு கட்டுரையும் ஒரே விதத்தில் கட்டப்படுகிறது — நீங்கள் காண்பது மற்றும் படிக்கும் முறை இதோ.',
+        'どの記事も同じ構成です — 何があり、どう読むかを紹介します。',
+        '모든 기사는 같은 방식으로 구성됩니다 — 무엇이 있고 어떻게 읽는지 안내합니다.',
+        'ทุกบทความสร้างในรูปแบบเดียวกัน — นี่คือสิ่งที่คุณจะพบและวิธีอ่าน',
+        'Mọi bài viết đều có cùng cấu trúc — đây là những gì bạn sẽ thấy và cách đọc.',
+        'Setiap artikel dibangun dengan cara yang sama — inilah yang akan Anda temukan dan cara membacanya.',
       )}</p>
-      <div class="guides">
-        {guides.map((g) => (
-          <div class="guide">
-            <b class="ghead"><span class="gico" aria-hidden="true">{g.icon}</span>{g.title}</b>
-            <ol class="gsteps">
-              {g.steps.map((s) => (
-                <li>{s}</li>
-              ))}
-            </ol>
+      <div class="afeat-grid">
+        {articleFeatures.map((f) => (
+          <div class="afeat">
+            <span class="afico" aria-hidden="true">{f.icon}</span>
+            <div>
+              <b>{f.title}</b>
+              <span class="afdesc">{f.blurb}</span>
+            </div>
           </div>
         ))}
       </div>
@@ -216,6 +217,14 @@ const guideHref = `${REPO}/blob/main/CONTRIBUTING.md`;
           </a>
         ))}
       </div>
+
+      <h3 class="subhead">{L('Bagaimana kami memastikan ketepatan', 'How we keep it accurate', '我们如何确保准确', 'துல்லியத்தை நாங்கள் எப்படிப் பேணுகிறோம்', '正確さを保つ方法', '정확성을 유지하는 방법', 'เรารักษาความถูกต้องอย่างไร', 'Cách chúng tôi giữ cho nội dung chính xác', 'Bagaimana kami menjaga keakuratan')}</h3>
+      <p class="lead">{L('Kepercayaan datang daripada cara setiap artikel dibina:', 'Trust comes from how every article is made:', '信任源于每篇文章的制作方式：', 'ஒவ்வொரு கட்டுரையும் உருவாக்கப்படும் விதத்திலிருந்து நம்பிக்கை வருகிறது:', '信頼は、記事の作られ方から生まれます：', '신뢰는 모든 기사가 만들어지는 방식에서 나옵니다:', 'ความน่าเชื่อถือมาจากวิธีที่ทุกบทความถูกสร้างขึ้น:', 'Niềm tin đến từ cách mỗi bài viết được tạo ra:', 'Kepercayaan datang dari cara setiap artikel dibuat:')}</p>
+      <ul class="acc-list">
+        {accuracy.map((a) => (
+          <li><span class="accico" aria-hidden="true">{a.icon}</span>{a.text}</li>
+        ))}
+      </ul>
 
       <div class="cbtns">
         <a class="cta-btn cta-primary" href={localePath('/contribute', locale)}>{t('nav.whyContribute', locale)} →</a>
@@ -311,13 +320,21 @@ const guideHref = `${REPO}/blob/main/CONTRIBUTING.md`;
   .feat b { font-family: var(--font-title); font-size: 1rem; color: var(--ink); }
   .feat .fdesc { color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
 
-  /* Read & verify. */
-  .guides { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: 1rem; }
-  .guide { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.2rem; }
-  .ghead { display: flex; align-items: center; gap: 0.5rem; font-family: var(--font-title); font-size: 1.05rem; color: var(--ink); margin-bottom: 0.6rem; }
-  .gico { font-size: 1.25rem; }
-  .gsteps { margin: 0; padding-left: 1.3rem; display: grid; gap: 0.5rem; color: var(--ink-soft); font-size: 0.92rem; line-height: 1.55; }
-  .gsteps li::marker { color: var(--gold); font-weight: 700; }
+  /* What's in an article — informational cards (not links). */
+  .afeat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 0.8rem; }
+  .afeat {
+    display: flex; gap: 0.75rem; align-items: flex-start;
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 0.95rem 1.05rem;
+  }
+  .afeat .afico { font-size: 1.45rem; line-height: 1.2; flex: none; }
+  .afeat b { display: block; font-family: var(--font-title); font-size: 0.98rem; color: var(--ink); margin-bottom: 0.15rem; }
+  .afeat .afdesc { color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
+
+  /* How we keep it accurate — the verify / trust list. */
+  .acc-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.6rem; }
+  .acc-list li { display: flex; gap: 0.6rem; align-items: flex-start; color: var(--ink-soft); line-height: 1.6; font-size: 0.95rem; }
+  .acc-list .accico { flex: none; font-size: 1.1rem; line-height: 1.5; }
+
   .um { margin: 1.1rem 0 0; color: var(--ink-soft); font-size: 0.92rem; line-height: 1.6; }
   .um b { color: var(--ink); font-family: var(--font-title); font-weight: 700; }
   .um a { color: var(--gold); text-decoration: none; font-weight: 700; }
