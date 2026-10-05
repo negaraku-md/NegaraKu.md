@@ -1620,7 +1620,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     const io = new IntersectionObserver((entries) => {
       const vis = entries.filter((e) => e.isIntersecting).sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
       if (vis[0]) setCur((vis[0].target as HTMLElement).id);
-    }, { rootMargin: '-82px 0px -68% 0px', threshold: 0 });
+    }, { rootMargin: '-140px 0px -60% 0px', threshold: 0 });
     zones.forEach((z) => io.observe(z));
     setCur(zones[0].id);
   }
@@ -1650,7 +1650,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   .a-flow > section:nth-of-type(13) { order: 32; } /* Bing & Copilot        → Search */
 
   /* Zone heading banner before each group. */
-  .a-zh { scroll-margin-top: 76px; margin-top: 2.2rem; }
+  .a-zh { scroll-margin-top: calc(var(--nav-height) + 64px); margin-top: 2.2rem; }
   .a-zh:first-of-type { margin-top: 1.4rem; }
   .a-zh h2 {
     display: flex; align-items: center; gap: 0.5rem;
@@ -1662,7 +1662,8 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
   /* Sticky jump-nav — a floating pill tray centred at container width. */
   .a-zones {
-    position: sticky; top: 8px; z-index: 30;
+    /* Stick BELOW the site header (sticky, 72px, z-index 30), never over it. */
+    position: sticky; top: calc(var(--nav-height) + 8px); z-index: 20;
     display: flex; flex-wrap: wrap; gap: 0.35rem;
     margin-top: 1.1rem; padding: 0.4rem;
     background: color-mix(in srgb, var(--surface) 88%, transparent);
