@@ -91,7 +91,7 @@ const NAV_GROUPS = [
     <div class="tools">
       {/* Reader/Contributor switch — hidden unless a verified contributor is
           recognised (html[data-contributor]); label flips with the current view. */}
-      <button type="button" class="view-toggle" data-view-toggle aria-label={t('cnav.viewSwitch', locale)}>
+      <button type="button" class="view-toggle" data-view-toggle data-home={localePath('/', locale)} aria-label={t('cnav.viewSwitch', locale)}>
         <span class="vt-ico" aria-hidden="true">⇄</span>
         <span data-when-view="reader">{t('cnav.toContributor', locale)}</span>
         <span data-when-view="contributor">{t('cnav.toReader', locale)}</span>
@@ -191,10 +191,31 @@ const NAV_GROUPS = [
     else delete root.dataset.contributor;
   };
 
+  // Each view (Reader / Contributor) remembers its OWN last-visited URL, so the
+  // two behave like separate workspaces: switching restores where you last were
+  // in the target view (falling back to that view's home). Recorded on every load
+  // for the active view, and again at the moment of switching.
+  const URL_KEYS: Record<string, string> = { reader: 'nk:reader-url', contributor: 'nk:contributor-url' };
+  const here = () => location.pathname + location.search + location.hash;
+  const recordUrl = () => {
+    const v = root.dataset.view === 'contributor' ? 'contributor' : 'reader';
+    try { localStorage.setItem(URL_KEYS[v], here()); } catch {}
+  };
+  recordUrl();
+  window.addEventListener('pageshow', recordUrl); // covers bfcache restores
+
   document.querySelectorAll('[data-view-toggle]').forEach((btn) =>
     btn.addEventListener('click', () => {
-      const next = root.dataset.view === 'contributor' ? 'reader' : 'contributor';
+      const cur = root.dataset.view === 'contributor' ? 'contributor' : 'reader';
+      const next = cur === 'contributor' ? 'reader' : 'contributor';
+      // Save where we are in the current view, then restore the other view's page.
+      try { localStorage.setItem(URL_KEYS[cur], here()); } catch {}
       localStorage.setItem(VIEW_KEY, next);
+      let dest = '';
+      try { dest = localStorage.getItem(URL_KEYS[next]) || ''; } catch {}
+      if (!dest) dest = btn.getAttribute('data-home') || '/';
+      // Navigate to the saved page if it's elsewhere; otherwise flip in place.
+      if (dest !== here()) { location.assign(dest); return; }
       applyView(next);
       // On phones the nav is collapsed in the hamburger, so a bare tap has no
       // visible effect. Open the menu to reveal the view you just switched to.

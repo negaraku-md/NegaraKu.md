@@ -102,48 +102,76 @@ export const NAV: NavMenu[] = [
 /** The Reader nav is the default nav (everyone, incl. bots). Alias for clarity. */
 export const READER_NAV = NAV;
 
-// Contributor View — a launchpad, NOT a second copy of the site. It re-arranges
-// the nav around the article lifecycle and deep-links into the real tooling on
-// GitHub (PRs, issues, Actions); nothing private is exposed — drafts live in the
-// repo where GitHub enforces access. Lean 3-menu cut: Lifecycle / About / Site.
-// Shown client-side only when a verified contributor switches to it (see the
-// view-mode script in Header.astro + the /api/auth/me gate). About/Site reuse the
-// existing i18n keys; the lifecycle labels are the new cnav.* strings.
+// Contributor View — a launchpad, NOT a second copy of the site. Its nav MIRRORS
+// the Contributor workspace home (ContributorHomeView): Workspace · My work ·
+// Find a task · Project · Guides · About. Work surfaces deep-link into GitHub
+// (@me queries resolve to the signed-in user); nothing private is exposed — GitHub
+// enforces real access on click-through. Labels are shared cnav.*/nav.* i18n keys
+// so the nav and the workspace cards never drift. Shown only when a recognised
+// contributor switches to this view (Header view-mode script + /api/auth/me gate).
+const GH_Q = (base: string, q: string) => `${base}?q=${encodeURIComponent(q)}`;
 export const CONTRIBUTOR_NAV: NavMenu[] = [
+  // The workspace launchpad itself (home) — a one-click plain link.
+  { label: 'cnav.workspace', href: '/' },
   {
-    label: 'cnav.lifecycle',
+    label: 'cnav.myWork',
+    items: [
+      { label: 'cnav.myPrs', href: GH_Q(`${REPO}/pulls`, 'is:pr author:@me'), external: true },
+      { label: 'cnav.assigned', href: GH_Q(`${REPO}/issues`, 'is:issue is:open assignee:@me'), external: true },
+      { label: 'cnav.reviewRequested', href: GH_Q(`${REPO}/pulls`, 'is:pr is:open review-requested:@me'), external: true },
+      { label: 'cnav.grpNeedsAttention', href: '', heading: true },
+      { label: 'cnav.prsToReview', href: GH_Q(`${REPO}/pulls`, 'is:pr is:open review:required'), external: true },
+      { label: 'cnav.openArticleIssues', href: GH_Q(`${REPO}/issues`, 'is:issue is:open label:article-issue'), external: true },
+      { label: 'cnav.buildStatus', href: `${REPO}/actions`, external: true },
+    ],
+  },
+  {
+    label: 'cnav.findTask',
+    items: [
+      { label: 'nav.worklist', href: '/worklist' },
+      { label: 'cnav.goodFirst', href: GH_Q(`${REPO}/issues`, 'is:issue is:open label:good-first-issue'), external: true },
+      { label: 'cnav.articleRequests', href: GH_Q(`${REPO}/issues`, 'is:issue is:open label:article-request'), external: true },
+      { label: 'cnav.translationGaps', href: GH_Q(`${REPO}/issues`, 'is:issue is:open label:translation-issue'), external: true },
+      { label: 'cnav.grpStartContributing', href: '', heading: true },
+      { label: 'nav.reportIssue', href: '/contribute#report' },
+      { label: 'nav.suggest', href: '/contribute#suggest' },
+      { label: 'nav.submitArticle', href: '/contribute#contribute' },
+      { label: 'nav.siteBug', href: '/contribute#site' },
+    ],
+  },
+  {
+    label: 'cnav.project',
     items: [
       { label: 'cnav.grpOnSite', href: '', heading: true },
-      { label: 'cnav.guide', href: '/contributor-guide' },
-      { label: 'nav.worklist', href: '/worklist' },
       { label: 'nav.dashboard', href: '/dashboard' },
       { label: 'nav.analytics', href: '/analytics' },
       { label: 'nav.changelog', href: '/changelog' },
       { label: 'cnav.grpOnGitHub', href: '', heading: true },
-      { label: 'cnav.reviewQueue', href: `${REPO}/pulls?q=is%3Apr+is%3Aopen`, external: true },
-      { label: 'cnav.drafts', href: 'https://github.com/search?q=repo%3Anegaraku-md%2FNegaraKu.md+%22status%3A+%5C%22draft%5C%22%22&type=code', external: true },
-      { label: 'cnav.articleIssues', href: `${REPO}/issues?q=is%3Aissue+is%3Aopen+label%3Aarticle-issue`, external: true },
-      { label: 'cnav.articleRequests', href: `${REPO}/issues?q=is%3Aissue+is%3Aopen+label%3Aarticle-request`, external: true },
-      { label: 'cnav.translationIssues', href: `${REPO}/issues?q=is%3Aissue+is%3Aopen+label%3Atranslation-issue`, external: true },
-      { label: 'cnav.grpBuild', href: '', heading: true },
-      { label: 'cnav.newArticle', href: `${REPO}/blob/main/docs/ARTICLE-TEMPLATE.md`, external: true },
       { label: 'cnav.actions', href: `${REPO}/actions`, external: true },
+      { label: 'cnav.deploy', href: `${REPO}/actions/workflows/deploy.yml`, external: true },
+    ],
+  },
+  {
+    label: 'cnav.guides',
+    items: [
+      { label: 'cnav.guide', href: '/contributor-guide' },
+      { label: 'nav.roles', href: '/roles' },
+      { label: 'cnav.fullGuide', href: `${REPO}/blob/main/CONTRIBUTING.md`, external: true },
+      { label: 'cnav.newToGithub', href: 'https://skills.github.com/', external: true },
     ],
   },
   {
     label: 'nav.about',
     items: [
       { label: 'nav.grpAbout', href: '', heading: true },
-      // Start Here stays reachable in every state (review: it introduces both
-      // Explore and Contribute); the Contributor Guide above is the deeper onboarding.
+      // Start Here stays reachable in every state (it introduces both Explore and
+      // Contribute); the Contributor Guide (in Guides) is the deeper onboarding.
       { label: 'nav.startHere', href: '/start' },
       { label: 'nav.aboutPage', href: '/about' },
       { label: 'nav.milestones', href: '/milestones' },
       { label: 'nav.faq', href: '/faq' },
       { label: 'nav.contributors', href: '/contributors' },
       { label: 'nav.grpThisSite', href: '', heading: true },
-      { label: 'nav.changelog', href: '/changelog' },
-      { label: 'cnav.deploy', href: `${REPO}/actions/workflows/deploy.yml`, external: true },
       { label: 'nav.forAI', href: '/llms' },
       { label: 'nav.settings', href: '/settings' },
       { label: 'cnav.signout', href: '/api/auth/logout', external: true },
