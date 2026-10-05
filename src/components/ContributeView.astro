@@ -183,8 +183,8 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
 
 <!-- Lifecycle -->
 <section class="container block">
-  <div class="psec">
-    <header><span>{L('Kitaran hayat sumbangan', 'The contribution lifecycle', '贡献的生命周期', 'பங்களிப்பின் வாழ்க்கைச் சுழற்சி', '貢献のライフサイクル', '기여 라이프사이클', 'วงจรชีวิตของการมีส่วนร่วม', 'Vòng đời của một đóng góp', 'Siklus hidup kontribusi')}</span></header>
+  <details class="psec fold">
+    <summary>{L('Kitaran hayat sumbangan', 'The contribution lifecycle', '贡献的生命周期', 'பங்களிப்பின் வாழ்க்கைச் சுழற்சி', '貢献のライフサイクル', '기여 라이프사이클', 'วงจรชีวิตของการมีส่วนร่วม', 'Vòng đời của một đóng góp', 'Siklus hidup kontribusi')}</summary>
     <div class="psec-body">
       <div class="lc-enters" aria-hidden="true">
         <span class="lc-enter">🚩 {L('Lapor', 'Report', '报告', 'புகாரளி', '報告', '신고', 'รายงาน', 'Báo cáo', 'Laporkan')}</span>
@@ -202,7 +202,7 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
         ))}
       </ol>
     </div>
-  </div>
+  </details>
 </section>
 
 <!-- SUGGEST -->
@@ -210,29 +210,32 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
   <div class="psec">
     <header><span>💡 {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进', 'ஒரு மேம்பாட்டைப் பரிந்துரையுங்கள்', '改善を提案', '개선 제안', 'เสนอการปรับปรุง', 'Đề xuất cải tiến', 'Sarankan perbaikan')}</span></header>
     <div class="psec-body">
-      <p class="lead">{L('Pilih di mana topik anda sesuai. Jika kategori atau topik belum ada, cadangkan yang baharu.', 'Choose where your topic fits. If the category or topic doesn’t exist yet, propose a new one.', '选择你的主题所属位置。若分类或主题尚不存在，可提议新增。', 'உங்கள் தலைப்பு எங்கு பொருந்துகிறது என்பதைத் தேர்ந்தெடுங்கள். வகை அல்லது தலைப்பு இன்னும் இல்லையென்றால், புதிதாக ஒன்றைப் பரிந்துரையுங்கள்.', 'トピックが当てはまる場所を選んでください。カテゴリーやトピックがまだ存在しない場合は、新しいものを提案してください。', '주제가 어디에 해당하는지 선택하세요. 카테고리나 주제가 아직 없다면, 새로운 것을 제안하세요.', 'เลือกว่าหัวข้อของคุณเข้ากันตรงไหน หากยังไม่มีหมวดหมู่หรือหัวข้อนั้น ให้เสนอหัวข้อใหม่', 'Chọn nơi chủ đề của bạn phù hợp. Nếu danh mục hoặc chủ đề chưa tồn tại, hãy đề xuất một cái mới.', 'Pilih di mana topik Anda sesuai. Jika kategori atau topik belum ada, usulkan yang baru.')}</p>
+      <p class="lead">{L('Beritahu kami topik dan sebab ia penting. Mengelaskannya pilihan sahaja — kami akan menyusunnya.', 'Tell us the topic and why it matters. Classifying it is optional — we’ll sort that out.', '告诉我们主题以及它为何重要。归类是可选的——我们会处理。', 'தலைப்பையும் அது ஏன் முக்கியம் என்பதையும் சொல்லுங்கள். வகைப்படுத்துவது விருப்பம் மட்டுமே — அதை நாங்கள் சரிசெய்வோம்.', 'トピックと、それがなぜ重要かを教えてください。分類は任意です — こちらで整理します。', '주제와 그것이 왜 중요한지 알려주세요. 분류는 선택 사항입니다 — 저희가 정리하겠습니다.', 'บอกเราถึงหัวข้อและเหตุผลที่สำคัญ การจัดหมวดหมู่เป็นทางเลือก — เราจะจัดการให้เอง', 'Hãy cho chúng tôi biết chủ đề và vì sao nó quan trọng. Phân loại là tùy chọn — chúng tôi sẽ sắp xếp.', 'Beri tahu kami topiknya dan mengapa itu penting. Mengklasifikasikannya opsional — kami yang akan menatanya.')}</p>
+      <details class="fold">
+      <summary>{L('Buka borang cadangan', 'Open the suggestion form', '打开建议表单', 'பரிந்துரை படிவத்தைத் திற', '提案フォームを開く', '제안 양식 열기', 'เปิดแบบฟอร์มเสนอแนะ', 'Mở biểu mẫu đề xuất', 'Buka formulir saran')}</summary>
       <div class="form-grid">
       <form class="cform sform" data-repo={REPO} data-labels={SUGGEST_LABELS}>
-        <label>{L('Tonggak', 'Pillar', '支柱', 'தூண்', '柱', '기둥', 'เสาหลัก', 'Trụ cột', 'Pilar')}
-          <select name="section" required>
-            <option value="" disabled selected>{L('Pilih tonggak…', 'Choose a pillar…', '选择支柱……', 'ஒரு தூணைத் தேர்ந்தெடுக்கவும்…', '柱を選択…', '기둥을 선택하세요…', 'เลือกเสาหลัก…', 'Chọn một trụ cột…', 'Pilih pilar…')}</option>
-            {taxonomy.map((s) => <option value={s.id}>{s.name}</option>)}
-          </select>
-        </label>
-        <label>{L('Kategori', 'Category', '分类', 'வகை', 'カテゴリー', '카테고리', 'หมวดหมู่', 'Danh mục', 'Kategori')}
-          <select name="category" required disabled>
-            <option value="" disabled selected>{L('Pilih tonggak dahulu…', 'Choose a pillar first…', '请先选择支柱……', 'முதலில் ஒரு தூணைத் தேர்ந்தெடுக்கவும்…', '先に柱を選択…', '먼저 기둥을 선택하세요…', 'เลือกเสาหลักก่อน…', 'Hãy chọn một trụ cột trước…', 'Pilih pilar terlebih dahulu…')}</option>
-          </select>
-        </label>
-        <label class="newcat-wrap" hidden>{L('Nama kategori baharu', 'New category name', '新分类名称', 'புதிய வகையின் பெயர்', '新しいカテゴリー名', '새 카테고리 이름', 'ชื่อหมวดหมู่ใหม่', 'Tên danh mục mới', 'Nama kategori baru')}
-          <input name="newcategory" placeholder={L('cth. Insurans', 'e.g. Insurance', '例如：保险', 'எ.கா. காப்பீடு', '例：保険', '예: 보험', 'เช่น ประกันภัย', 'ví dụ: Bảo hiểm', 'mis. Asuransi')} />
-        </label>
         <label>{L('Topik', 'Topic', '主题', 'தலைப்பு', 'トピック', '주제', 'หัวข้อ', 'Chủ đề', 'Topik')}
           <input name="topic" list="topics" required autocomplete="off" placeholder={L('cth. Cukai jualan untuk PKS', 'e.g. Sales tax for SMEs', '例如：中小企业销售税', 'எ.கா. சிறு-நடுத்தர நிறுவனங்களுக்கான விற்பனை வரி', '例：中小企業向けの売上税', '예: 중소기업 매출세', 'เช่น ภาษีขายสำหรับ SME', 'ví dụ: Thuế bán hàng cho doanh nghiệp vừa và nhỏ', 'mis. Pajak penjualan untuk UKM')} />
           <datalist id="topics"></datalist>
           <small class="dupe-hint" hidden></small>
         </label>
         <label>{L('Kenapa ia penting?', 'Why it matters', '为何重要', 'ஏன் இது முக்கியம்', 'なぜ重要か', '왜 중요한가', 'เหตุใดจึงสำคัญ', 'Vì sao điều này quan trọng', 'Mengapa ini penting?')}<textarea name="why" rows="3" placeholder={L('Siapa yang memerlukannya dan mengapa…', 'Who needs it and why…', '谁需要它、为什么……', 'யாருக்கு இது தேவை, ஏன்…', '誰が必要とし、なぜか…', '누가 필요로 하고 왜인지…', 'ใครต้องการและเพราะเหตุใด…', 'Ai cần nó và vì sao…', 'Siapa yang membutuhkannya dan mengapa…')}></textarea></label>
+        <p class="field-group">{L('Di mana ia sesuai (pilihan)', 'Where it fits (optional)', '归类（可选）', 'எங்கு பொருந்துகிறது (விருப்பம்)', '分類（任意）', '분류 (선택)', 'จัดหมวดหมู่ (ไม่บังคับ)', 'Phân loại (tùy chọn)', 'Di mana cocoknya (opsional)')}</p>
+        <label>{L('Tonggak', 'Pillar', '支柱', 'தூண்', '柱', '기둥', 'เสาหลัก', 'Trụ cột', 'Pilar')}
+          <select name="section">
+            <option value="" selected>{L('Belum pasti (pilihan)', 'Not sure yet (optional)', '尚不确定（可选）', 'இன்னும் உறுதியில்லை (விருப்பம்)', 'まだ不明（任意）', '아직 모름 (선택)', 'ยังไม่แน่ใจ (ไม่บังคับ)', 'Chưa chắc (tùy chọn)', 'Belum yakin (opsional)')}</option>
+            {taxonomy.map((s) => <option value={s.id}>{s.name}</option>)}
+          </select>
+        </label>
+        <label>{L('Kategori', 'Category', '分类', 'வகை', 'カテゴリー', '카테고리', 'หมวดหมู่', 'Danh mục', 'Kategori')}
+          <select name="category" disabled>
+            <option value="" disabled selected>{L('Pilih tonggak dahulu…', 'Choose a pillar first…', '请先选择支柱……', 'முதலில் ஒரு தூணைத் தேர்ந்தெடுக்கவும்…', '先に柱を選択…', '먼저 기둥을 선택하세요…', 'เลือกเสาหลักก่อน…', 'Hãy chọn một trụ cột trước…', 'Pilih pilar terlebih dahulu…')}</option>
+          </select>
+        </label>
+        <label class="newcat-wrap" hidden>{L('Nama kategori baharu', 'New category name', '新分类名称', 'புதிய வகையின் பெயர்', '新しいカテゴリー名', '새 카테고리 이름', 'ชื่อหมวดหมู่ใหม่', 'Tên danh mục mới', 'Nama kategori baru')}
+          <input name="newcategory" placeholder={L('cth. Insurans', 'e.g. Insurance', '例如：保险', 'எ.கா. காப்பீடு', '例：保険', '예: 보험', 'เช่น ประกันภัย', 'ví dụ: Bảo hiểm', 'mis. Asuransi')} />
+        </label>
         <label>{L('Sumber (pilihan)', 'Sources (optional)', '来源（可选）', 'ஆதாரங்கள் (விருப்பத்தேர்வு)', '出典（任意）', '출처 (선택)', 'แหล่งอ้างอิง (ไม่บังคับ)', 'Nguồn (tùy chọn)', 'Sumber (opsional)')}<input name="source" placeholder="https://…" /></label>
         <p class="muted handoff">{L('Anda akan menyemak dan menghantar isu itu di GitHub — akaun GitHub diperlukan. Tiada jemputan diperlukan untuk mencadang.', 'You’ll review and submit the issue on GitHub — a GitHub account is required. No invitation needed to suggest.', '你将在 GitHub 上查看并提交该 issue——需要 GitHub 账户。提交建议无需邀请。', 'நீங்கள் GitHub-இல் அந்த issue-ஐ மறுபார்வையிட்டு சமர்ப்பிப்பீர்கள் — GitHub கணக்கு தேவை. பரிந்துரைக்க எந்த அழைப்பும் தேவையில்லை.', 'GitHub で内容を確認して issue を送信します — GitHub アカウントが必要です。提案に招待は不要です。', 'GitHub에서 issue를 검토하고 제출하게 됩니다 — GitHub 계정이 필요합니다. 제안하는 데 초대는 필요하지 않습니다.', 'คุณจะตรวจทานและส่ง issue บน GitHub — ต้องมีบัญชี GitHub ไม่ต้องมีคำเชิญเพื่อเสนอแนะ', 'Bạn sẽ xem lại và gửi issue trên GitHub — cần tài khoản GitHub. Không cần lời mời để đề xuất.', 'Anda akan meninjau dan mengirim issue di GitHub — perlu akun GitHub. Tidak perlu undangan untuk menyarankan.')}</p>
         <button type="submit" class="btn btn-primary">{L('Teruskan di GitHub', 'Continue on GitHub', '在 GitHub 继续', 'GitHub-இல் தொடரவும்', 'GitHub で続ける', 'GitHub에서 계속', 'ดำเนินการต่อบน GitHub', 'Tiếp tục trên GitHub', 'Lanjutkan di GitHub')} →</button>
@@ -253,6 +256,7 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
         </ol>
       </aside>
       </div>
+      </details>
     </div>
   </div>
 </section>
@@ -263,6 +267,8 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
     <header><span>🚩 {L('Laporkan isu', 'Report an issue', '报告问题', 'ஒரு சிக்கலைப் புகாரளியுங்கள்', '問題を報告', '문제 신고', 'รายงานปัญหา', 'Báo cáo sự cố', 'Laporkan masalah')}</span></header>
     <div class="psec-body">
       <p class="lead">{L('Laporan berkaitan halaman tertentu. Cara terpantas: guna pautan “Laporkan isu” di bahagian bawah mana-mana artikel — ia telah mengisi tajuk dan URL untuk anda.', 'A report is about a specific page. The fastest way: use the “Report an issue” link at the bottom of any article — it pre-fills the title and URL for you.', '报告针对具体页面。最快方式：使用任意文章底部的"报告问题"链接——它已为你预填标题和网址。', 'ஒரு புகார் ஒரு குறிப்பிட்ட பக்கத்தைப் பற்றியது. விரைவான வழி: எந்தக் கட்டுரையின் அடிப்பகுதியிலும் உள்ள “ஒரு சிக்கலைப் புகாரளியுங்கள்” இணைப்பைப் பயன்படுத்துங்கள் — அது உங்களுக்காகத் தலைப்பையும் URL-ஐயும் முன்பே நிரப்புகிறது.', '報告は特定のページに関するものです。最も速い方法は、記事の下部にある「問題を報告」リンクを使うことです — タイトルと URL があらかじめ入力されます。', '신고는 특정 페이지에 관한 것입니다. 가장 빠른 방법: 아무 기사 하단의 “문제 신고” 링크를 사용하세요 — 제목과 URL이 미리 채워집니다.', 'รายงานเกี่ยวกับหน้าใดหน้าหนึ่งโดยเฉพาะ วิธีที่เร็วที่สุด: ใช้ลิงก์ “รายงานปัญหา” ที่ด้านล่างของบทความใดก็ได้ — จะกรอกชื่อเรื่องและ URL ให้คุณล่วงหน้า', 'Một báo cáo là về một trang cụ thể. Cách nhanh nhất: dùng liên kết “Báo cáo sự cố” ở cuối bất kỳ bài viết nào — nó điền sẵn tiêu đề và URL cho bạn.', 'Laporan berkaitan dengan halaman tertentu. Cara tercepat: gunakan tautan “Laporkan masalah” di bagian bawah artikel mana pun — tautan itu sudah mengisi judul dan URL untuk Anda.')}</p>
+      <details class="fold">
+      <summary>{L('Buka borang laporan', 'Open the report form', '打开报告表单', 'புகார் படிவத்தைத் திற', '報告フォームを開く', '신고 양식 열기', 'เปิดแบบฟอร์มรายงาน', 'Mở biểu mẫu báo cáo', 'Buka formulir laporan')}</summary>
       <div class="form-grid">
       <form class="cform rform" data-repo={REPO} data-labels={REPORT_LABELS}>
         <label>{L('URL halaman', 'Page URL', '页面网址', 'பக்கத்தின் URL', 'ページ URL', '페이지 URL', 'URL ของหน้า', 'URL của trang', 'URL halaman')}<input name="url" required placeholder="https://negaraku.md/…" /></label>
@@ -300,6 +306,7 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
         </ol>
       </aside>
       </div>
+      </details>
     </div>
   </div>
 </section>
@@ -383,8 +390,16 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
     secSel.addEventListener('change', () => {
       const sec = byId(secSel.value);
       catSel.innerHTML = '';
-      catSel.appendChild(optionEl('', sec ? 'Choose a category…' : ''));
-      (sec?.categories || []).forEach((c) => catSel.appendChild(optionEl(c.id, c.name)));
+      if (!sec) {
+        // "Not sure yet" — classification is optional, so leave category off.
+        catSel.appendChild(optionEl('', 'Choose a pillar first…'));
+        catSel.disabled = true;
+        newCatWrap.hidden = true;
+        topicList.innerHTML = '';
+        return;
+      }
+      catSel.appendChild(optionEl('', 'Choose a category (optional)…'));
+      (sec.categories || []).forEach((c) => catSel.appendChild(optionEl(c.id, c.name)));
       catSel.appendChild(optionEl(NEW, '➕ Propose a new category'));
       catSel.disabled = false;
       catSel.value = '';
@@ -416,12 +431,15 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
       const newCat = catSel.value === NEW;
       const catName = newCat ? (newCatInput.value.trim() || 'New category') : (sec?.categories.find((c) => c.id === catSel.value)?.name || catSel.value);
       const topic = topicInput.value.trim();
+      // Classification is optional; only include it when a pillar was chosen.
+      const hasCat = !!sec && (newCat || !!catSel.value);
+      const fit = sec ? (hasCat ? `${sec.name} › ${catName}` : sec.name) : '';
       // Base label(s) come from feedback.ts via data-labels; add new-category when proposing one.
       const labels = [sform.dataset.labels, newCat ? 'new-category' : ''].filter(Boolean).join(',');
-      const title = `Suggestion: ${topic} (${sec?.name} › ${catName})`;
+      const title = fit ? `Suggestion: ${topic} (${fit})` : `Suggestion: ${topic}`;
       const body = [
-        `**Section:** ${sec?.name || ''}`,
-        `**Category:** ${catName}${newCat ? ' _(new)_' : ''}`,
+        `**Section:** ${sec?.name || '_(unsure)_'}`,
+        `**Category:** ${hasCat ? `${catName}${newCat ? ' _(new)_' : ''}` : '_(unsure)_'}`,
         `**Topic:** ${topic}`,
         `**Why it matters:** ${sform.querySelector('[name="why"]').value.trim() || '—'}`,
         `**Sources:** ${sform.querySelector('[name="source"]').value.trim() || '—'}`,
@@ -461,6 +479,19 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
     });
   }
 
+  // Reveal the collapsed form when a reader jumps to its section (path card,
+  // in-page anchor, or a direct #suggest / #report link).
+  const openFoldFor = (hash) => {
+    const sec = hash && document.querySelector(hash);
+    const fold = sec && sec.querySelector('details.fold:not(.psec)');
+    if (fold && !fold.open) fold.open = true;
+  };
+  openFoldFor(location.hash);
+  window.addEventListener('hashchange', () => openFoldFor(location.hash));
+  document.querySelectorAll('a.pathcard[href^="#"]').forEach((a) => {
+    a.addEventListener('click', () => openFoldFor(a.getAttribute('href')));
+  });
+
   // Copy-prompt button.
   document.querySelectorAll('.copy-prompt').forEach((btn) => {
     btn.addEventListener('click', async () => {
@@ -484,6 +515,32 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
   }
   .psec > header span { color: var(--gold); }
   .psec-body { padding: 1.2rem; }
+
+  /* Collapsible disclosure — lifecycle (as a .psec) and the two inline forms. */
+  details.psec > summary {
+    padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid transparent;
+    font-family: var(--font-title); color: var(--gold); cursor: pointer; list-style: none;
+    display: flex; align-items: center; gap: 0.5rem;
+  }
+  details.psec[open] > summary { border-bottom-color: var(--line); }
+  details.psec > summary::-webkit-details-marker { display: none; }
+  details.psec > summary::before { content: '▸'; color: var(--muted); font-size: 0.8rem; transition: transform 0.15s; }
+  details.psec[open] > summary::before { transform: rotate(90deg); }
+
+  /* Form fold: a clear button-like toggle inside a section body. */
+  .fold:not(.psec) { margin: 0; }
+  .fold:not(.psec) > summary {
+    cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 0.5rem;
+    font-family: var(--font-title); font-weight: 700; font-size: 0.92rem; color: var(--ink);
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px; padding: 0.6rem 1rem;
+    transition: border-color 0.15s;
+  }
+  .fold:not(.psec) > summary:hover { border-color: var(--gold); }
+  .fold:not(.psec) > summary::-webkit-details-marker { display: none; }
+  .fold:not(.psec) > summary::before { content: '▸'; color: var(--gold); font-size: 0.8rem; transition: transform 0.15s; }
+  .fold:not(.psec)[open] > summary { border-color: var(--gold); margin-bottom: 1.1rem; }
+  .fold:not(.psec)[open] > summary::before { transform: rotate(90deg); }
   .lead { margin: 0 0 1.1rem; color: var(--ink-soft); line-height: 1.6; }
   .hint { font-size: 0.82rem; color: var(--muted); margin: 0 0 0.8rem; }
 
@@ -531,6 +588,7 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
   .cform input:focus, .cform select:focus, .cform textarea:focus { outline: none; border-color: var(--gold); }
   .cform select:disabled { opacity: 0.5; }
   .cform button { justify-self: start; }
+  .field-group { margin: 0.2rem 0 -0.3rem; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.02em; text-transform: uppercase; color: var(--muted); }
   .site-acts { display: flex; flex-wrap: wrap; gap: 0.7rem; margin-bottom: 0.8rem; }
   .dupe-hint { color: var(--gold); font-weight: 600; font-size: 0.8rem; }
   .muted { color: var(--muted); font-size: 0.85rem; }
