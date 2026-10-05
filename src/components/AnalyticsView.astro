@@ -436,6 +436,14 @@ const liveL = {
       'クエリ失敗 — 本番サイトでコントリビューター向けに利用可能。',
       '쿼리 실패 — 라이브 사이트에서 기여자에게 제공됩니다.', 'การสืบค้นล้มเหลว — ใช้งานได้สำหรับผู้ร่วมสร้างบนเว็บไซต์จริง', 'Truy vấn thất bại — có sẵn cho người đóng góp trên trang trực tiếp.', 'Kueri gagal — tersedia untuk kontributor di situs langsung.',
     ),
+    localDev: L(
+      'Kueri langsung berjalan di laman yang telah disiarkan — tiada dalam pratonton tempatan.',
+      'Live query runs on the deployed site — not available in local preview.',
+      '实时查询在已部署的站点上运行——本地预览不可用。',
+      'நேரடி வினவல் வெளியிடப்பட்ட தளத்தில் இயங்குகிறது — உள்ளூர் முன்தோற்றத்தில் கிடைக்காது.',
+      'ライブクエリは公開サイトで動作します — ローカルプレビューでは利用できません。',
+      '실시간 쿼리는 배포된 사이트에서 실행됩니다 — 로컬 미리보기에서는 사용할 수 없습니다.', 'การสืบค้นแบบสดทำงานบนเว็บไซต์ที่เผยแพร่แล้ว — ไม่พร้อมใช้งานในการแสดงตัวอย่างในเครื่อง', 'Truy vấn trực tiếp chạy trên trang đã triển khai — không khả dụng trong bản xem trước cục bộ.', 'Kueri langsung berjalan di situs yang telah dipublikasikan — tidak tersedia dalam pratinjau lokal.',
+    ),
     days7: L('7 hari', '7 days', '7 天', '7 நாட்கள்', '7日', '7일', '7 วัน', '7 ngày', '7 hari'),
     days30: L('30 hari', '30 days', '30 天', '30 நாட்கள்', '30日', '30일', '30 วัน', '30 ngày', '30 hari'),
     days90: L('90 hari', '90 days', '90 天', '90 நாட்கள்', '90日', '90일', '90 วัน', '90 ngày', '90 hari'),
@@ -786,6 +794,13 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     const metaEl = document.getElementById('tl-meta');
     const outEl = document.getElementById('tl-results');
     if (!dimsEl || !bucketEl || !daysEl || !runEl || !outEl) return;
+    // The /_a/q endpoint is a Cloudflare Worker that only exists on the deployed
+    // site; in local preview there's no Worker, so a run would 404. Detect that up
+    // front and show a calm note (not a scary "query failed") — the panel stays
+    // interactive so a contributor can still see the controls.
+    const isLocal = /^(localhost|127\.0\.0\.1|\[::1\]|0\.0\.0\.0)$/.test(location.hostname) || location.hostname.endsWith('.local');
+    const noteHTML = (msg) => `<p class="hint" style="margin:0">${msg}</p>`;
+    if (isLocal) outEl.innerHTML = noteHTML(L.ui.localDev);
     const DIM_ORDER = ['country', 'region', 'city', 'device', 'browser', 'os', 'locale', 'channel', 'source', 'bot', 'path'];
     let selected = ['country'];
     const paint = () => dimsEl.querySelectorAll('.tl-chip').forEach((c) => c.classList.toggle('is-on', selected.includes(c.getAttribute('data-d'))));
@@ -812,6 +827,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
     };
 
     runEl.addEventListener('click', async () => {
+      if (isLocal) { outEl.innerHTML = noteHTML(L.ui.localDev); metaEl.textContent = ''; return; }
       runEl.disabled = true; metaEl.textContent = L.ui.running; outEl.innerHTML = '';
       try {
         const spec = { dims: selected.slice(), bucket: bucketEl.value, days: parseInt(daysEl.value, 10), limit: 50 };
