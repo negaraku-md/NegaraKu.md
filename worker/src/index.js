@@ -114,6 +114,28 @@ export default {
     } catch {
       // Never let logging break the page — fall through to the origin.
     }
-    return fetch(request);
+
+    // Edge-cache cacheable GETs on the passthrough. The site is static (GitHub
+    // Pages), but Cloudflare doesn't cache text/html by default and this Worker
+    // used to proxy every page straight to origin — so the cache hit rate sat at
+    // ~11%. We now let the edge cache pages and assets, which cuts origin load
+    // and global TTFB. Dynamic endpoints always bypass: the analytics beacons
+    // (/_a/*) are already short-circuited above; /api/* (auth, session) and
+    // /cdn-cgi/* must never be cached. Pages use a short 10-min edge TTL so a
+    // deploy goes live quickly even without a purge; content-hashed /_astro/
+    // assets are immutable (1y); other assets get 1 day. 5xx is never cached.
+    const u = new URL(request.url);
+    const p = u.pathname;
+    if (request.method !== 'GET' || p.startsWith('/api/') || p.startsWith('/_a/') || p.startsWith('/cdn-cgi/')) {
+      return fetch(request);
+    }
+    const immutable = p.startsWith('/_astro/');
+    const isAsset = immutable || /\.(?:woff2?|css|js|mjs|map|png|jpe?g|svg|webp|avif|ico|gif)$/i.test(p);
+    const cf = immutable
+      ? { cacheEverything: true, cacheTtl: 31536000 }
+      : isAsset
+        ? { cacheEverything: true, cacheTtl: 86400 }
+        : { cacheEverything: true, cacheTtlByStatus: { '200-299': 600, '301-308': 3600, '404': 30, '500-599': -1 } };
+    return fetch(request, { cf });
   },
 };

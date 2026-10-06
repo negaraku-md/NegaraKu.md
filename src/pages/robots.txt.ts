@@ -24,6 +24,18 @@ const AI_AGENTS = [
   'DuckAssistBot',
 ];
 
+// Backlink / SEO-index crawlers with no discovery value here (they feed
+// third-party SEO databases). Disallowed to reclaim bandwidth.
+const SEO_SCRAPERS = [
+  'SemrushBot',
+  'AhrefsBot',
+  'MJ12bot',
+  'DotBot',
+  'BLEXBot',
+  'DataForSeoBot',
+  'PetalBot',
+];
+
 export const GET: APIRoute = () => {
   const lines: string[] = [];
 
@@ -33,6 +45,15 @@ export const GET: APIRoute = () => {
   // Named AI agents, explicitly allowed (some operators only honour named rules).
   for (const ua of AI_AGENTS) {
     lines.push(`User-agent: ${ua}`, 'Allow: /', '');
+  }
+
+  // Backlink / SEO-index scrapers: disallowed. They were the top bandwidth
+  // consumers (SemrushBot ~2k, AhrefsBot ~1.2k req/day) and add nothing to this
+  // project's discovery — search engines and AI agents (above) already cover it.
+  // Remove SemrushBot / AhrefsBot here if you use those tools for your own SEO
+  // monitoring. (robots.txt is advisory; a Cloudflare WAF rule enforces it.)
+  for (const ua of SEO_SCRAPERS) {
+    lines.push(`User-agent: ${ua}`, 'Disallow: /', '');
   }
 
   lines.push(`Sitemap: ${SITE}/sitemap-index.xml`);

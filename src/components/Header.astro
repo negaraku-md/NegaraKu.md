@@ -252,23 +252,33 @@ const NAV_GROUPS = [
   // yet) leaves any manual dev preview untouched. A 200 is authoritative: it
   // reveals the switch for members and, for everyone else — including expired
   // sessions — clears recognition and drops back to Reader.
-  fetch('/api/auth/me', { credentials: 'same-origin', headers: { accept: 'application/json' } })
-    .then((r) => (r.ok ? r.json() : null))
-    .then((d) => {
-      if (!d) return;
-      if (d.isContributor) {
-        setContributor(true);
-        localStorage.setItem(CONTRIB_KEY, '1');
-      } else {
-        setContributor(false);
-        localStorage.removeItem(CONTRIB_KEY);
-        if (root.dataset.view === 'contributor') {
-          localStorage.setItem(VIEW_KEY, 'reader');
-          applyView('reader');
+  //
+  // Skip the probe entirely for the anonymous majority: the auth Worker sets a
+  // readable `nk_auth=1` hint cookie beside the (HttpOnly) session, so we only
+  // ask when that hint is present — or when this browser was recognised before
+  // (localStorage), which migrates pre-hint sessions and self-heals expired ones
+  // (that /api/auth/me call clears both the flag and the stale hint).
+  const hasAuthHint = /(?:^|;\s*)nk_auth=1(?:;|$)/.test(document.cookie);
+  const wasContributor = localStorage.getItem(CONTRIB_KEY) === '1';
+  if (hasAuthHint || wasContributor) {
+    fetch('/api/auth/me', { credentials: 'same-origin', headers: { accept: 'application/json' } })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => {
+        if (!d) return;
+        if (d.isContributor) {
+          setContributor(true);
+          localStorage.setItem(CONTRIB_KEY, '1');
+        } else {
+          setContributor(false);
+          localStorage.removeItem(CONTRIB_KEY);
+          if (root.dataset.view === 'contributor') {
+            localStorage.setItem(VIEW_KEY, 'reader');
+            applyView('reader');
+          }
         }
-      }
-    })
-    .catch(() => {});
+      })
+      .catch(() => {});
+  }
 
   // Clean sign-out: clear the client view flags before the browser follows the
   // link to /api/auth/logout (which clears the cookie server-side), so we land

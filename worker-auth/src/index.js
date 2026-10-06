@@ -110,25 +110,36 @@ async function handleCallback(url, env) {
   const login = await ghLogin(token);
   const contributor = login ? await ghIsOrgMember(token, org(env)) : false;
 
-  // Mint the session and hand it back as a signed HttpOnly cookie.
+  // Mint the session (signed, HttpOnly) + set the readable hint for contributors.
   const session = await makeToken(env, { login, contributor }, SESSION_TTL);
-  return redirect(returnTo, {
-    'set-cookie': cookie(cookieName(env), session, SESSION_TTL),
-  });
+  return redirect(returnTo, {}, [
+    cookie(cookieName(env), session, SESSION_TTL),
+    hint(contributor ? '1' : '', contributor ? SESSION_TTL : 0),
+  ]);
 }
 
 async function handleMe(request, env) {
   const tok = readCookie(request, cookieName(env));
   const payload = tok ? await verifyToken(env, tok) : null;
+  const isC = !!(payload && payload.contributor);
   const body = payload
-    ? { login: payload.login || null, isContributor: !!payload.contributor }
+    ? { login: payload.login || null, isContributor: isC }
     : { isContributor: false };
-  return json(body, 200, { 'cache-control': 'no-store' });
+  // Keep the readable hint in sync: refresh it for contributors, clear it for
+  // everyone else (incl. expired sessions) so a stale hint self-heals and the
+  // visitor stops probing on later pages.
+  return json(body, 200, {
+    'cache-control': 'no-store',
+    'set-cookie': hint(isC ? '1' : '', isC ? SESSION_TTL : 0),
+  });
 }
 
 function handleLogout(url, env) {
   const returnTo = safePath(url.searchParams.get('return'));
-  return redirect(returnTo, { 'set-cookie': cookie(cookieName(env), '', 0) });
+  return redirect(returnTo, {}, [
+    cookie(cookieName(env), '', 0),
+    hint('', 0),
+  ]);
 }
 
 // ---- GitHub -----------------------------------------------------------------
@@ -219,6 +230,13 @@ function safePath(p) {
 function cookie(name, value, maxAge) {
   return `${name}=${value}; HttpOnly; Secure; SameSite=Lax; Path=/; Max-Age=${maxAge}`;
 }
+// Readable (NON-HttpOnly) hint cookie. Carries no identity — just "a contributor
+// session exists here" — so the site can skip the /api/auth/me probe for the
+// anonymous majority (that probe was the #1 uncached path). The real gate stays
+// the signed HttpOnly session; this only decides whether to bother asking.
+function hint(value, maxAge) {
+  return `nk_auth=${value}; Secure; SameSite=Lax; Path=/; Max-Age=${maxAge}`;
+}
 function readCookie(request, name) {
   const header = request.headers.get('cookie') || '';
   for (const part of header.split(';')) {
@@ -235,8 +253,10 @@ function json(obj, status = 200, extra = {}) {
     headers: { 'content-type': 'application/json; charset=utf-8', ...extra },
   });
 }
-function redirect(location, extra = {}) {
-  return new Response(null, { status: 302, headers: { location, ...extra } });
+function redirect(location, extra = {}, setCookies = []) {
+  const headers = new Headers({ location, ...extra });
+  for (const c of setCookies) headers.append('set-cookie', c);
+  return new Response(null, { status: 302, headers });
 }
 
 function randomHex(nBytes) {

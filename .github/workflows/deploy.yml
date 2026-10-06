@@ -151,3 +151,27 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v5
+
+      # Pages are now edge-cached by the analytics Worker (10-min TTL), so purge
+      # Cloudflare's cache after each deploy to make the new build live at once
+      # instead of waiting for the TTL. Soft-fails if the secrets aren't set, so
+      # a missing token never blocks the deploy (pages still refresh within 10 min).
+      # Needs CF_API_TOKEN with the "Cache Purge" permission + CF_ZONE_ID.
+      - name: Purge Cloudflare cache
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+        run: |
+          if [ -z "$CF_API_TOKEN" ] || [ -z "$CF_ZONE_ID" ]; then
+            echo "CF_API_TOKEN / CF_ZONE_ID not set — skipping purge (pages refresh within the 10-min edge TTL)."
+            exit 0
+          fi
+          code=$(curl -s -o /tmp/purge.json -w '%{http_code}' -X POST \
+            "https://api.cloudflare.com/client/v4/zones/${CF_ZONE_ID}/purge_cache" \
+            -H "Authorization: Bearer ${CF_API_TOKEN}" \
+            -H "Content-Type: application/json" \
+            --data '{"purge_everything":true}')
+          echo "Purge HTTP $code"; cat /tmp/purge.json
+          if [ "$code" != "200" ]; then
+            echo "::warning::Cloudflare cache purge failed (HTTP $code) — new build will still go live within the 10-min edge TTL."
+          fi
