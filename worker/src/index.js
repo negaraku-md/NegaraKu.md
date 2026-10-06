@@ -132,11 +132,7 @@ export default {
     }
     const cache = caches.default;
     const hit = await cache.match(request);
-    if (hit) {
-      const h = new Response(hit.body, hit);
-      h.headers.set('x-nk-edge', 'hit'); // diagnostic: served from the Worker cache
-      return h;
-    }
+    if (hit) return hit; // edge HIT — served without touching origin
     const resp = await fetch(request);
     // Cache stable responses: 2xx and permanent redirects (301/308 — the bulk of
     // origin traffic is GitHub Pages' trailing-slash 301, e.g. /en → /en/). Skip
@@ -150,14 +146,13 @@ export default {
         // HTML/pages/redirects: cache at the EDGE (s-maxage) and keep the browser
         // revalidating, so a deploy + purge is visible at once — never a stale
         // browser copy. Content-hashed assets keep their far-future origin header.
+        // (Set Browser Cache TTL = "Respect Existing Headers" in the CF dashboard
+        // so this max-age=0 isn't overridden on cache hits.)
         cached.headers.set('Cache-Control', 'public, max-age=0, s-maxage=600, stale-while-revalidate=60');
       }
-      cached.headers.set('x-nk-edge', 'store'); // diagnostic: just stored to the cache
       ctx.waitUntil(cache.put(request, cached.clone()));
       return cached;
     }
-    const miss = new Response(resp.body, resp);
-    miss.headers.set('x-nk-edge', `nostore-${resp.status}`); // diagnostic: not cached
-    return miss;
+    return resp;
   },
 };
