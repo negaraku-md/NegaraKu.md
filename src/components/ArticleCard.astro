@@ -24,10 +24,11 @@ const secLabel = secDef ? loc(secDef.name, locale) : null;
 const topic = article.data.subcategory?.[0];
 const topLabel = topic ? subcatLabel(topic, locale) : null;
 // No per-article photos exist, but every article has an auto-generated OG card
-// (scripts/build-og.mjs) — reuse it as the thumbnail. Falls back to the category
-// glyph if the PNG is missing (e.g. a brand-new article on the dev server, where
-// build-og hasn't run). Generated at build for production, so it's always there.
-const ogSrc = `/og/${locale}/${category}/${slug}.png`;
+// (scripts/build-og.mjs) — reuse its small WebP thumbnail (.thumb.webp, ~640px,
+// ~10KB vs the ~42KB 1200×630 PNG) as the card image. Falls back to the category
+// glyph if it's missing (e.g. a brand-new article on the dev server, where
+// build-og hasn't run) via the data-og error handler below.
+const ogSrc = `/og/${locale}/${category}/${slug}.thumb.webp`;
 const mins = readingTime(article);
 const nSrc = article.data.sources.length;
 const citeLabel =
@@ -43,7 +44,7 @@ const minLabel = locale === 'zh' ? '分钟' : locale === 'ta' ? 'நிமிட
       ) : (
         <>
           <span class="glyph" aria-hidden="true">{cat?.icon}</span>
-          <img class="og" src={ogSrc} alt="" loading="lazy" data-og />
+          <img class="og" src={ogSrc} width="640" height="336" alt="" loading="lazy" decoding="async" data-og />
         </>
       )
     }

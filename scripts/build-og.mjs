@@ -31,15 +31,16 @@ const ogHash = (a, overdue, tv) =>
     ]))
     .digest('hex').slice(0, 16);
 
-// All .png files under public/og (for pruning cards of deleted articles).
-async function collectPngs(dir) {
+// All card files under public/og — PNG og:images + .thumb.webp card thumbnails
+// (for pruning cards of deleted articles).
+async function collectCards(dir) {
   const out = [];
   let entries = [];
   try { entries = await readdir(dir, { withFileTypes: true }); } catch { return out; }
   for (const e of entries) {
     const p = path.join(dir, e.name);
-    if (e.isDirectory()) out.push(...await collectPngs(p));
-    else if (e.name.endsWith('.png')) out.push(p);
+    if (e.isDirectory()) out.push(...await collectCards(p));
+    else if (e.name.endsWith('.png') || e.name.endsWith('.thumb.webp')) out.push(p);
   }
   return out;
 }
@@ -302,6 +303,11 @@ async function main() {
   // gold text + faint watermark, so quantisation cuts ~65% of bytes with no
   // visible loss — and stays PNG (safe as an og:image for every platform).
   const toPng = (svg, file) => sharp(Buffer.from(svg)).png({ compressionLevel: 9, palette: true, quality: 90, effort: 10 }).toFile(file);
+  // Small WebP thumbnail of each card for IN-PAGE use (ArticleCard). The full
+  // 1200×630 PNG stays the og:image for social; cards only need ~640px, and WebP
+  // cuts ~75% of the bytes (~42 KB PNG → ~10 KB) — a big saving on every listing
+  // page (home/explore/latest/most-read/sections/search) for the mobile audience.
+  const toThumb = (svg, file) => sharp(Buffer.from(svg)).resize(640, 336).webp({ quality: 72, effort: 6 }).toFile(file);
   // Localized default cards: /og/default.png (ms) + /og/{en,zh}/default.png.
   await mkdir(path.join(OUT_DIR, 'en'), { recursive: true });
   await mkdir(path.join(OUT_DIR, 'zh'), { recursive: true });
@@ -349,9 +355,14 @@ async function main() {
         const hash = ogHash(a, overdue, tv);
         next[key] = hash;
         const file = path.join(OUT_DIR, a.lang, a.category, `${a.slug}.png`);
-        if (prev[key] === hash && existsSync(file)) { cached++; return; } // unchanged
+        const thumb = path.join(OUT_DIR, a.lang, a.category, `${a.slug}.thumb.webp`);
+        const pngOk = prev[key] === hash && existsSync(file);
+        const thumbOk = existsSync(thumb);
+        if (pngOk && thumbOk) { cached++; return; } // both up to date
         await mkdir(path.dirname(file), { recursive: true });
-        await toPng(articleSvg(a), file);
+        const svg = articleSvg(a);
+        if (!pngOk) await toPng(svg, file);          // social og:image (unchanged)
+        if (!thumbOk || !pngOk) await toThumb(svg, thumb); // in-page card thumbnail
         made++;
       }),
     );
@@ -360,8 +371,8 @@ async function main() {
   // Prune cards for articles that no longer exist (keep the default cards).
   const keep = new Set(['default', 'en/default', 'zh/default']);
   let pruned = 0;
-  for (const p of await collectPngs(OUT_DIR)) {
-    const rel = path.relative(OUT_DIR, p).split(path.sep).join('/').replace(/\.png$/, '');
+  for (const p of await collectCards(OUT_DIR)) {
+    const rel = path.relative(OUT_DIR, p).split(path.sep).join('/').replace(/\.thumb\.webp$/, '').replace(/\.png$/, '');
     if (keep.has(rel) || wanted.has(rel)) continue;
     try { await unlink(p); pruned++; } catch { /* ignore */ }
   }
