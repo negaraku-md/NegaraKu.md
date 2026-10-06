@@ -132,22 +132,32 @@ export default {
     }
     const cache = caches.default;
     const hit = await cache.match(request);
-    if (hit) return hit;
+    if (hit) {
+      const h = new Response(hit.body, hit);
+      h.headers.set('x-nk-edge', 'hit'); // diagnostic: served from the Worker cache
+      return h;
+    }
     const resp = await fetch(request);
-    // Only cache successful, cookieless responses (GitHub Pages HTML is cookieless).
-    if (resp.ok && !resp.headers.has('set-cookie')) {
+    // Cache stable responses: 2xx and permanent redirects (301/308 — the bulk of
+    // origin traffic is GitHub Pages' trailing-slash 301, e.g. /en → /en/). Skip
+    // anything that sets a cookie.
+    const okToCache = (resp.ok || resp.status === 301 || resp.status === 308) && !resp.headers.has('set-cookie');
+    if (okToCache) {
       const immutable = p.startsWith('/_astro/');
       const isAsset = immutable || /\.(?:woff2?|css|js|mjs|map|png|jpe?g|svg|webp|avif|ico|gif)$/i.test(p);
       const cached = new Response(resp.body, resp);
       if (!isAsset) {
-        // HTML/pages: cache at the EDGE only (s-maxage) and keep the browser
+        // HTML/pages/redirects: cache at the EDGE (s-maxage) and keep the browser
         // revalidating, so a deploy + purge is visible at once — never a stale
         // browser copy. Content-hashed assets keep their far-future origin header.
         cached.headers.set('Cache-Control', 'public, max-age=0, s-maxage=600, stale-while-revalidate=60');
       }
+      cached.headers.set('x-nk-edge', 'store'); // diagnostic: just stored to the cache
       ctx.waitUntil(cache.put(request, cached.clone()));
       return cached;
     }
-    return resp;
+    const miss = new Response(resp.body, resp);
+    miss.headers.set('x-nk-edge', `nostore-${resp.status}`); // diagnostic: not cached
+    return miss;
   },
 };
