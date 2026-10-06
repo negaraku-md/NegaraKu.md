@@ -254,6 +254,15 @@ export default defineConfig({
   site: SITE,
   trailingSlash: 'ignore',
   redirects,
+  build: {
+    // Inline ALL page CSS into <head> as <style> instead of linking external
+    // stylesheets. The site's per-page CSS is small (~7–8 KB gzip) and two
+    // external sheets were the top render-blocking cost on mobile (~800 ms in
+    // PageSpeed) — inlining removes those blocking round-trips, cutting FCP and
+    // Speed Index. HTML is edge-cached (see worker/) so the inlined bytes are
+    // served fast and compressed. (Astro's default 'auto' only inlines <4 KB.)
+    inlineStylesheets: 'always',
+  },
   // Hide the floating Astro dev-toolbar island in `npm run dev` — it only ever
   // appears in development (never in the production build), but it clutters
   // visual reviews/screenshots. Turn back on if you need its audits.
@@ -262,6 +271,11 @@ export default defineConfig({
   // busy); fall back to Astro's default 4321 for a plain `npm run dev`.
   server: { port: Number(process.env.PORT) || 4321, host: true },
   vite: {
+    // Ship modern JS to evergreen browsers — avoids esbuild down-levelling and
+    // the polyfills Lighthouse flagged as "legacy JavaScript" (~11 KB). es2022
+    // (class fields, top-level await, Array.at, Object.hasOwn) is supported by
+    // every browser this site targets.
+    build: { target: 'es2022' },
     plugins: [
       // Generate metric-adjusted fallback @font-faces for the self-hosted brand
       // fonts (size-adjust / ascent/descent/line-gap-override tuned from each
