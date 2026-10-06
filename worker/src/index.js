@@ -115,27 +115,39 @@ export default {
       // Never let logging break the page — fall through to the origin.
     }
 
-    // Edge-cache cacheable GETs on the passthrough. The site is static (GitHub
-    // Pages), but Cloudflare doesn't cache text/html by default and this Worker
-    // used to proxy every page straight to origin — so the cache hit rate sat at
-    // ~11%. We now let the edge cache pages and assets, which cuts origin load
-    // and global TTFB. Dynamic endpoints always bypass: the analytics beacons
-    // (/_a/*) are already short-circuited above; /api/* (auth, session) and
-    // /cdn-cgi/* must never be cached. Pages use a short 10-min edge TTL so a
-    // deploy goes live quickly even without a purge; content-hashed /_astro/
-    // assets are immutable (1y); other assets get 1 day. 5xx is never cached.
+    // Edge-cache cacheable GETs via the Cache API. The site is static (GitHub
+    // Pages), but this Worker is on negaraku.md/* and intercepts every request
+    // (for the UA analytics above), so Cloudflare's own edge cache sits BEHIND
+    // the Worker and never serves these pages — the hit rate sat at ~11% and
+    // every page hit origin. `cf: { cacheEverything }` on the subrequest does NOT
+    // fix this for a same-zone Worker, so we keep an explicit edge-cache entry:
+    // on a hit we return it without touching origin; on a miss we fetch, store,
+    // and serve. The pageview is still logged above on EVERY request (hit or
+    // miss), so analytics is unaffected. Dynamic endpoints bypass: /_a/* is
+    // short-circuited earlier; /api/* and /cdn-cgi/* are never cached.
     const u = new URL(request.url);
     const p = u.pathname;
     if (request.method !== 'GET' || p.startsWith('/api/') || p.startsWith('/_a/') || p.startsWith('/cdn-cgi/')) {
       return fetch(request);
     }
-    const immutable = p.startsWith('/_astro/');
-    const isAsset = immutable || /\.(?:woff2?|css|js|mjs|map|png|jpe?g|svg|webp|avif|ico|gif)$/i.test(p);
-    const cf = immutable
-      ? { cacheEverything: true, cacheTtl: 31536000 }
-      : isAsset
-        ? { cacheEverything: true, cacheTtl: 86400 }
-        : { cacheEverything: true, cacheTtlByStatus: { '200-299': 600, '301-308': 3600, '404': 30, '500-599': -1 } };
-    return fetch(request, { cf });
+    const cache = caches.default;
+    const hit = await cache.match(request);
+    if (hit) return hit;
+    const resp = await fetch(request);
+    // Only cache successful, cookieless responses (GitHub Pages HTML is cookieless).
+    if (resp.ok && !resp.headers.has('set-cookie')) {
+      const immutable = p.startsWith('/_astro/');
+      const isAsset = immutable || /\.(?:woff2?|css|js|mjs|map|png|jpe?g|svg|webp|avif|ico|gif)$/i.test(p);
+      const cached = new Response(resp.body, resp);
+      if (!isAsset) {
+        // HTML/pages: cache at the EDGE only (s-maxage) and keep the browser
+        // revalidating, so a deploy + purge is visible at once — never a stale
+        // browser copy. Content-hashed assets keep their far-future origin header.
+        cached.headers.set('Cache-Control', 'public, max-age=0, s-maxage=600, stale-while-revalidate=60');
+      }
+      ctx.waitUntil(cache.put(request, cached.clone()));
+      return cached;
+    }
+    return resp;
   },
 };
