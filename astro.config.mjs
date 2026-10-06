@@ -254,15 +254,11 @@ export default defineConfig({
   site: SITE,
   trailingSlash: 'ignore',
   redirects,
-  build: {
-    // Inline ALL page CSS into <head> as <style> instead of linking external
-    // stylesheets. The site's per-page CSS is small (~7–8 KB gzip) and two
-    // external sheets were the top render-blocking cost on mobile (~800 ms in
-    // PageSpeed) — inlining removes those blocking round-trips, cutting FCP and
-    // Speed Index. HTML is edge-cached (see worker/) so the inlined bytes are
-    // served fast and compressed. (Astro's default 'auto' only inlines <4 KB.)
-    inlineStylesheets: 'always',
-  },
+  // NOTE: inlineStylesheets:'always' was tried to kill the ~800 ms render-blocking
+  // CSS, but inlining into ~9,700 pages OOM'd the build (6144 MB) and ~2x'd build
+  // time. Not worth it on a site this size / already at LCP 2.1s + CWV passed.
+  // Left at Astro's default 'auto'. A future render-blocking fix would need
+  // critical-CSS extraction or a preload trick, not blanket inlining.
   // Hide the floating Astro dev-toolbar island in `npm run dev` — it only ever
   // appears in development (never in the production build), but it clutters
   // visual reviews/screenshots. Turn back on if you need its audits.
