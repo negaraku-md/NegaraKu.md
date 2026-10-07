@@ -319,6 +319,12 @@ export default defineConfig({
         defaultLocale: 'ms',
         locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id' },
       },
+      // Keep noindex-by-design pages OUT of the sitemap. The per-locale
+      // /maintenance pages are chrome-less + `noindex` (BaseLayout), so listing
+      // them in the sitemap made Google report "Excluded by 'noindex' tag" for
+      // sitemap URLs. (Every other route is index,follow, so nothing else needs
+      // filtering.)
+      filter: (page) => !/\/maintenance\/?$/.test(page),
       serialize(item) {
         const lastmod = lastmodFor(item.url);
         if (lastmod) item.lastmod = lastmod;
