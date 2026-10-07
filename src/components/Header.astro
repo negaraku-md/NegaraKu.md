@@ -182,6 +182,17 @@ const NAV_GROUPS = [
     });
   }
 
+  // Desktop hover-menus: a MOUSE click on a menu button would focus it, and the
+  // CSS keeps a focused menu open (:focus-within) even after the pointer moves to
+  // another menu — so two dropdowns showed at once. Suppress focus for mouse
+  // pointers only; keyboard (Tab → :focus-within) and touch (tap → focus) are
+  // untouched, and hover still opens/closes normally.
+  document.querySelectorAll('.menu-btn').forEach((btn) =>
+    btn.addEventListener('pointerdown', (e) => {
+      if (e instanceof PointerEvent && e.pointerType === 'mouse') e.preventDefault();
+    }),
+  );
+
   // Reader / Contributor view mode. Both navs ship in the page; <html data-view>
   // decides which shows (set pre-paint by the inline script in BaseLayout). The
   // choice persists in localStorage (multi-page static site). P1: contributor
