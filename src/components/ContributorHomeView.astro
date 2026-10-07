@@ -2,6 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
+import PageHero from './PageHero.astro';
 
 interface Props {
   locale: Locale;
@@ -79,17 +80,23 @@ const sections: Section[] = [
     ],
   },
 ];
+
+// Hero text (reused in the breadcrumb). The workspace now uses the site's standard
+// PageHero — same hero + "at a glance" stat cards as every other non-article page.
+const wsTitle = L('Ruang kerja penyumbang', 'Contributor workspace', '贡献者工作区', 'பங்களிப்பாளர் பணியிடம்', '貢献者ワークスペース', '기여자 작업 공간', 'พื้นที่ทำงานของผู้มีส่วนร่วม', 'Không gian làm việc của người đóng góp', 'Ruang kerja kontributor');
+const wsDesc = L('Pelancar anda untuk sumbangan, semakan, dan kerja kitaran hayat.', 'Your launchpad for contributions, reviews, and lifecycle work.', '你进行贡献、审阅与生命周期工作的启动台。', 'பங்களிப்புகள், மதிப்பாய்வுகள், மற்றும் வாழ்க்கைச் சுழற்சி பணிக்கான உங்கள் தொடக்க மேடை.', '貢献・レビュー・ライフサイクル作業の出発点です。', '기여, 검토, 라이프사이클 작업을 위한 출발점입니다.', 'จุดเริ่มต้นสำหรับการมีส่วนร่วม การรีวิว และงานวงจรชีวิต', 'Bệ phóng cho đóng góp, duyệt, và công việc vòng đời.', 'Landasan Anda untuk kontribusi, tinjauan, dan pekerjaan siklus hidup.');
+const homeLabel = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda');
 ---
 
-<section class="cv-home container block" data-pagefind-ignore>
-  <header class="cvh-head">
-    <div>
-      <h1>{L('Ruang kerja penyumbang', 'Contributor workspace', '贡献者工作区', 'பங்களிப்பாளர் பணியிடம்', '貢献者ワークスペース', '기여자 작업 공간', 'พื้นที่ทำงานของผู้มีส่วนร่วม', 'Không gian làm việc của người đóng góp', 'Ruang kerja kontributor')}</h1>
-      <p class="cvh-sub">{L('Pelancar anda untuk sumbangan, semakan, dan kerja kitaran hayat.', 'Your launchpad for contributions, reviews, and lifecycle work.', '你进行贡献、审阅与生命周期工作的启动台。', 'பங்களிப்புகள், மதிப்பாய்வுகள், மற்றும் வாழ்க்கைச் சுழற்சி பணிக்கான உங்கள் தொடக்க மேடை.', '貢献・レビュー・ライフサイクル作業の出発点です。', '기여, 검토, 라이프사이클 작업을 위한 출발점입니다.', 'จุดเริ่มต้นสำหรับการมีส่วนร่วม การรีวิว และงานวงจรชีวิต', 'Bệ phóng cho đóng góp, duyệt, và công việc vòng đời.', 'Landasan Anda untuk kontribusi, tinjauan, dan pekerjaan siklus hidup.')}</p>
-    </div>
-    <a class="cvh-cta" href={localePath('/contributor-guide', locale)}>{t('cnav.guide', locale)} →</a>
-  </header>
-
+<section class="cv-home" data-pagefind-ignore>
+  <PageHero
+    locale={locale}
+    crumb={[{ label: homeLabel, href: localePath('/', locale) }, { label: wsTitle }]}
+    title={wsTitle}
+    desc={wsDesc}
+  />
+  <div class="container block cvh-body">
+  <div class="cvh-top">
   <p class="cvh-note"><span aria-hidden="true">🔒</span> {L(
     'Memilih Paparan Penyumbang tidak memberi kebenaran — tindakan semak, gabung, dan lancar muncul mengikut peranan GitHub anda.',
     "Choosing Contributor View doesn't grant permissions — review, merge, and deploy actions appear according to your GitHub role.",
@@ -101,6 +108,8 @@ const sections: Section[] = [
     'Chọn Chế độ xem Người đóng góp không cấp quyền — các thao tác duyệt, hợp nhất, và triển khai hiển thị theo vai trò GitHub của bạn.',
     'Memilih Tampilan Kontributor tidak memberikan izin — tindakan tinjau, gabung, dan deploy muncul sesuai peran GitHub Anda.',
   )}</p>
+    <a class="cvh-cta" href={localePath('/contributor-guide', locale)}>{t('cnav.guide', locale)} →</a>
+  </div>
 
   <div class="cvh-grid">
     {sections.map((s) => (
@@ -120,28 +129,27 @@ const sections: Section[] = [
       </div>
     ))}
   </div>
+  </div>
 </section>
 
 <style>
   /* Shown ONLY to a recognised contributor who has switched to Contributor View.
      Hidden by default (and for readers / no-JS / bots), so the reader home shows
      normally. HomeView hides its own reader content under the same condition. */
-  .cv-home { display: none; margin-top: 2.4rem; }
+  .cv-home { display: none; }
   :global(html[data-contributor='true'][data-view='contributor']) .cv-home { display: block; }
 
-  .cvh-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem 2rem; flex-wrap: wrap; margin-bottom: 1rem; }
-  .cvh-head h1 { font-family: var(--font-title); font-size: clamp(1.7rem, 3.5vw, 2.3rem); margin: 0 0 0.35rem; color: var(--ink); }
-  .cvh-sub { margin: 0; color: var(--ink-soft); font-size: 1.02rem; line-height: 1.6; max-width: 60ch; }
+  /* Permissions note + prominent guide CTA, in a row under the hero. */
+  .cvh-top { display: flex; align-items: center; justify-content: space-between; gap: 1rem 1.5rem; flex-wrap: wrap; margin-bottom: 1.6rem; }
+  .cvh-note {
+    flex: 1 1 24rem; margin: 0; color: var(--muted); font-size: 0.88rem; line-height: 1.55;
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 0.7rem 0.95rem;
+  }
   .cvh-cta {
     flex: none; text-decoration: none; font-family: var(--font-title); font-weight: 700; font-size: 0.95rem;
     padding: 0.6rem 1.2rem; border-radius: 10px; background: var(--gold); color: var(--accent-contrast, #07070a); border: 1px solid var(--gold);
   }
   .cvh-cta:hover { background: var(--gold-600); border-color: var(--gold-600); }
-
-  .cvh-note {
-    margin: 0 0 1.6rem; color: var(--muted); font-size: 0.88rem; line-height: 1.55;
-    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 0.7rem 0.95rem;
-  }
 
   .cvh-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1rem; }
   .cvh-card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1.1rem 1.25rem; }
