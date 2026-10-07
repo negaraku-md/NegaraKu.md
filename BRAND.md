@@ -45,15 +45,15 @@ Malaysia”* — remains the site’s meta/hero description.
 
 ## Mission
 
-> **To curate Malaysia’s knowledge into an open, cited, trilingual library that
+> **To curate Malaysia’s knowledge into an open, cited, multilingual library that
 > anyone — and any AI — can read, verify, and build on.**
 
-- **BM:** Menyusun pengetahuan Malaysia menjadi perpustakaan terbuka, bersumber dan tiga bahasa yang boleh dibaca, disahkan dan dikembangkan oleh sesiapa sahaja — dan mana-mana AI.
-- **中文:** 将马来西亚的知识整理成一个开放、有据可查、三语的知识库，让任何人——以及任何 AI——都能阅读、查证并在其之上继续建构。
+- **BM:** Menyusun pengetahuan Malaysia menjadi perpustakaan terbuka, bersumber dan pelbagai bahasa yang boleh dibaca, disahkan dan dikembangkan oleh sesiapa sahaja — dan mana-mana AI.
+- **中文:** 将马来西亚的知识整理成一个开放、有据可查、多语言的知识库，让任何人——以及任何 AI——都能阅读、查证并在其之上继续建构。
 
 Every word maps to something the site does: **curate** (editorial waves + health
 scanner) · **open** (open-source, GitHub, raw `.md`) · **cited** (every claim
-sourced) · **trilingual** (BM / EN / 中文 parity) · **read, verify, build on**
+sourced) · **multilingual** (9 languages — BM / EN / 中文 are co-equal masters, the rest faithful translations) · **read, verify, build on**
 (llms.txt, MCP server, permissive licence).
 
 ---
@@ -66,7 +66,7 @@ Short principles — what we stand for (distinct from the mechanical “how it w
 |---|---|---|---|
 | **Open by default** | Terbuka secara lalai | 默认开放 | Everything is source-visible on GitHub; every page offers its raw Markdown. |
 | **Cited, not claimed** | Dipetik, bukan didakwa | 有据可查，而非空谈 | Every checkable fact carries its source. |
-| **Trilingual parity** | Tiga bahasa setara | 三语对等 | Malay, English, and Chinese are treated as equals — no “main” language. |
+| **Multilingual, no main language** | Pelbagai bahasa, tiada bahasa utama | 多语言，无主语言 | Delivered in 9 languages; Malay, English, and Chinese are co-equal master languages — no “main” one — and the rest are faithful translations. |
 | **Neutral on sensitive ground** | Neutral pada isu sensitif | 敏感议题保持中立 | Race, religion, royalty, and the constitution — sourced, careful, human-reviewed. |
 
 ---
