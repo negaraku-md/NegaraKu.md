@@ -316,3 +316,12 @@ main img {
 html[data-contributor='true'] [data-pre-contributor] {
   display: none !important;
 }
+/* Inverse of data-pre-contributor: show ONLY to a recognised contributor (e.g.
+   the reader-menu "Sign out", which replaces "Contributor sign-in" once signed
+   in). Hidden by default; revealed when the /api/auth/me check sets the flag. */
+[data-contributor-only] {
+  display: none !important;
+}
+html[data-contributor='true'] [data-contributor-only] {
+  display: revert !important;
+}

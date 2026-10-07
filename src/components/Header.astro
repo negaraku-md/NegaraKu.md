@@ -64,6 +64,8 @@ const NAV_GROUPS = [
                           target={it.newTab || it.external ? '_blank' : undefined}
                           rel={it.newTab || it.external ? 'noopener' : undefined}
                           data-secret-nav={it.secret ? '' : undefined}
+                          data-pre-contributor={it.preContributor ? '' : undefined}
+                          data-contributor-only={it.contributorOnly ? '' : undefined}
                           hidden={it.secret}
                         >
                           {t(it.label, locale)}

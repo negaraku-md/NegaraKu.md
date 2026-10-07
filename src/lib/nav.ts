@@ -14,6 +14,11 @@ export interface NavItem {
   /** Non-interactive section label inside a dropdown (href ignored). Groups the
       items that follow it until the next heading. */
   heading?: boolean;
+  /** Hide this item for a recognised contributor (html[data-contributor]) — e.g.
+      the "Contributor sign-in" link, which makes no sense once signed in. */
+  preContributor?: boolean;
+  /** Show this item ONLY for a recognised contributor — e.g. "Sign out". */
+  contributorOnly?: boolean;
 }
 
 export interface NavMenu {
@@ -94,7 +99,9 @@ export const NAV: NavMenu[] = [
       { label: 'nav.github', href: REPO, external: true },
       // Establishes the contributor session; approved org members then get the
       // Reader/Contributor switch. Dark (503) until the auth Worker is configured.
-      { label: 'nav.signin', href: '/api/auth/login', external: true },
+      // Hidden once recognised; a "Sign out" takes its place (same menu slot).
+      { label: 'nav.signin', href: '/api/auth/login', external: true, preContributor: true },
+      { label: 'cnav.signout', href: '/api/auth/logout', external: true, contributorOnly: true },
     ],
   },
 ];
