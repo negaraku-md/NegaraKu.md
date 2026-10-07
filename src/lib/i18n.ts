@@ -296,11 +296,17 @@ export function t(key: StringKey, locale: Locale): string {
   return (entry as Record<string, string>)[locale] ?? entry[DEFAULT_LOCALE];
 }
 
-/** Build a locale-aware href. ms → "/path", en → "/en/path", zh → "/zh/path". */
+/** Build a locale-aware href. ms → "/path/", en → "/en/path/", zh → "/zh/path/".
+ *  Emits the TRAILING-SLASH form GitHub Pages actually serves, so internal links
+ *  hit the page directly (200) instead of the `/x` → `/x/` 301 that Search Console
+ *  reported as "Page with redirect". File routes (a dot in the last segment, e.g.
+ *  /llms.txt) are left slash-free by withTrailingSlash. */
 export function localePath(path: string, locale: Locale): string {
   const clean = path.startsWith('/') ? path : `/${path}`;
-  if (locale === DEFAULT_LOCALE) return clean === '/' ? '/' : clean;
-  return clean === '/' ? `/${locale}` : `/${locale}${clean}`;
+  const localized = locale === DEFAULT_LOCALE
+    ? clean
+    : clean === '/' ? `/${locale}` : `/${locale}${clean}`;
+  return withTrailingSlash(localized);
 }
 
 /**

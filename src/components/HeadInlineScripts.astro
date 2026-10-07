@@ -33,7 +33,7 @@
         var isHome = p === '/' || (NONDEF.indexOf(p.replace(/^\//, '')) !== -1);
         if (isHome && cur !== pref) {
           sessionStorage.setItem('nk-lang-redirected', '1');
-          location.replace(pref === 'ms' ? '/' : '/' + pref);
+          location.replace(pref === 'ms' ? '/' : '/' + pref + '/');
         }
       }
     } catch (e) {}
