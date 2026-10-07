@@ -189,6 +189,9 @@ const STRINGS = {
   'cnav.toReader': { ms: 'Paparan Pembaca', en: 'Reader view', zh: '读者视图', ta: 'வாசகர் காட்சி', ja: '読者ビュー', ko: '독자 보기', th: 'มุมมองผู้อ่าน', vi: 'Chế độ xem người đọc', id: 'Tampilan Pembaca' },
   'cnav.signout': { ms: 'Log keluar', en: 'Sign out', zh: '退出登录', ta: 'வெளியேறு', ja: 'ログアウト', ko: '로그아웃', th: 'ออกจากระบบ', vi: 'Đăng xuất', id: 'Keluar' },
   'cnav.viewSwitch': { ms: 'Tukar paparan (Pembaca / Penyumbang)', en: 'Switch view (Reader / Contributor)', zh: '切换视图（读者 / 贡献者）', ta: 'காட்சியை மாற்று (வாசகர் / பங்களிப்பாளர்)', ja: 'ビューを切り替え（読者 / 貢献者）', ko: '보기 전환 (독자 / 기여자)', th: 'สลับมุมมอง (ผู้อ่าน / ผู้มีส่วนร่วม)', vi: 'Chuyển chế độ xem (Người đọc / Người đóng góp)', id: 'Ganti tampilan (Pembaca / Kontributor)' },
+  // Short one-word labels for the segmented view switch.
+  'cnav.reader': { ms: 'Pembaca', en: 'Reader', zh: '读者', ta: 'வாசகர்', ja: '読者', ko: '독자', th: 'ผู้อ่าน', vi: 'Người đọc', id: 'Pembaca' },
+  'cnav.contributor': { ms: 'Penyumbang', en: 'Contributor', zh: '贡献者', ta: 'பங்களிப்பாளர்', ja: '貢献者', ko: '기여자', th: 'ผู้มีส่วนร่วม', vi: 'Người đóng góp', id: 'Kontributor' },
   'nav.signin': { ms: 'Log masuk penyumbang', en: 'Contributor sign-in', zh: '贡献者登录', ta: 'பங்களிப்பாளர் உள்நுழைவு', ja: '貢献者ログイン', ko: '기여자 로그인', th: 'เข้าสู่ระบบผู้มีส่วนร่วม', vi: 'Đăng nhập người đóng góp', id: 'Masuk kontributor' },
   'reader.title': { ms: 'Tetapan bacaan', en: 'Reading settings', zh: '阅读设置', ta: 'வாசிப்பு அமைப்புகள்', ja: '読書設定', ko: '읽기 설정', th: 'การตั้งค่าการอ่าน', vi: 'Cài đặt đọc', id: 'Pengaturan bacaan' },
   'reader.textSize': { ms: 'Saiz teks', en: 'Text size', zh: '字号', ta: 'எழுத்து அளவு', ja: '文字サイズ', ko: '글자 크기', th: 'ขนาดตัวอักษร', vi: 'Cỡ chữ', id: 'Ukuran teks' },

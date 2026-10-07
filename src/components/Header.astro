@@ -89,13 +89,18 @@ const NAV_GROUPS = [
     </nav>
 
     <div class="tools">
-      {/* Reader/Contributor switch — hidden unless a verified contributor is
-          recognised (html[data-contributor]); label flips with the current view. */}
-      <button type="button" class="view-toggle" data-view-toggle data-home={localePath('/', locale)} aria-label={t('cnav.viewSwitch', locale)}>
-        <span class="vt-ico" aria-hidden="true">⇄</span>
-        <span data-when-view="reader">{t('cnav.toContributor', locale)}</span>
-        <span data-when-view="contributor">{t('cnav.toReader', locale)}</span>
-      </button>
+      {/* Reader/Contributor view switch — a segmented toggle that SHOWS the current
+          view (highlighted) and the one you can switch to, instead of a single
+          flip-label button that was ambiguous. Hidden unless a verified contributor
+          is recognised (html[data-contributor]). */}
+      <div class="view-switch" data-view-toggle data-home={localePath('/', locale)} role="group" aria-label={t('cnav.viewSwitch', locale)}>
+        <button type="button" class="vs-seg" data-view-seg="reader">
+          <span class="vs-ico" aria-hidden="true">📖</span><span class="vs-label">{t('cnav.reader', locale)}</span>
+        </button>
+        <button type="button" class="vs-seg" data-view-seg="contributor">
+          <span class="vs-ico" aria-hidden="true">✍️</span><span class="vs-label">{t('cnav.contributor', locale)}</span>
+        </button>
+      </div>
       <a class="search-btn" data-search-link href={localePath('/search', locale)} aria-label={t('nav.search', locale)} title={`${t('nav.search', locale)} (/)`}>
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
         <kbd aria-hidden="true">/</kbd>
@@ -204,16 +209,19 @@ const NAV_GROUPS = [
   recordUrl();
   window.addEventListener('pageshow', recordUrl); // covers bfcache restores
 
-  document.querySelectorAll('[data-view-toggle]').forEach((btn) =>
-    btn.addEventListener('click', () => {
+  document.querySelectorAll('[data-view-toggle]').forEach((group) =>
+    group.addEventListener('click', (e) => {
+      const seg = (e.target instanceof Element) ? e.target.closest('[data-view-seg]') : null;
+      if (!seg) return;
+      const next = seg.getAttribute('data-view-seg') === 'contributor' ? 'contributor' : 'reader';
       const cur = root.dataset.view === 'contributor' ? 'contributor' : 'reader';
-      const next = cur === 'contributor' ? 'reader' : 'contributor';
-      // Save where we are in the current view, then restore the other view's page.
+      if (next === cur) return; // already in this view — the highlighted segment
+      // Save where we are in the current view, then restore the target view's page.
       try { localStorage.setItem(URL_KEYS[cur], here()); } catch {}
       localStorage.setItem(VIEW_KEY, next);
       let dest = '';
       try { dest = localStorage.getItem(URL_KEYS[next]) || ''; } catch {}
-      if (!dest) dest = btn.getAttribute('data-home') || '/';
+      if (!dest) dest = group.getAttribute('data-home') || '/';
       // Navigate to the saved page if it's elsewhere; otherwise flip in place.
       if (dest !== here()) { location.assign(dest); return; }
       applyView(next);
@@ -708,37 +716,35 @@ const NAV_GROUPS = [
   .gh-link { display: none; }
   :global(html[data-view='contributor']) .gh-link { display: grid; }
 
-  /* The switch is hidden until a contributor is recognised (html[data-contributor]).
-     Its label flips to match the current view. */
-  .view-toggle {
+  /* Segmented view switch — shows BOTH views; the current one is highlighted, so
+     a visitor sees "you are in Reader; click Contributor to switch" at a glance.
+     Hidden until a contributor is recognised (html[data-contributor]). */
+  .view-switch {
     display: none;
-    align-items: center; gap: 0.35rem;
-    height: 34px; padding: 0 0.7rem;
-    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
-    border-radius: 8px;
-    background: none; cursor: pointer;
-    font-family: var(--font-interface); font-weight: 600; font-size: 0.82rem;
-    color: var(--ink-soft); white-space: nowrap;
+    align-items: center; gap: 2px; height: 34px; padding: 2px;
+    border: 1px solid color-mix(in srgb, var(--gold) 40%, var(--line));
+    border-radius: 999px; background: var(--surface-2);
   }
-  :global(html[data-contributor='true']) .view-toggle { display: inline-flex; }
-  .view-toggle:hover {
-    border-color: var(--gold);
-    background: color-mix(in srgb, var(--gold) 10%, var(--surface));
-    color: var(--gold);
+  :global(html[data-contributor='true']) .view-switch { display: inline-flex; }
+  .vs-seg {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    height: 100%; padding: 0 0.7rem; border: 0; border-radius: 999px;
+    background: none; cursor: pointer; white-space: nowrap;
+    font-family: var(--font-interface); font-weight: 600; font-size: 0.8rem; color: var(--muted);
   }
-  /* Filled when Contributor View is active — a clear on/off signal, especially on
-     mobile where the button is icon-only and the nav change is behind the menu. */
-  :global(html[data-view='contributor']) .view-toggle {
-    background: var(--gold); border-color: var(--gold); color: var(--accent-contrast, #07070a);
+  .vs-seg:hover { color: var(--ink); }
+  .vs-ico { font-size: 0.95em; line-height: 1; }
+  /* The active segment (matches the current view) is filled gold and non-actionable;
+     the other segment is the switch. */
+  :global(html[data-view='reader']) .vs-seg[data-view-seg='reader'],
+  :global(html[data-view='contributor']) .vs-seg[data-view-seg='contributor'] {
+    background: var(--gold); color: var(--accent-contrast, #07070a); cursor: default;
   }
-  .view-toggle .vt-ico { font-size: 0.95em; opacity: 0.85; }
-  :global(html[data-view='reader']) .view-toggle [data-when-view='contributor'] { display: none; }
-  :global(html[data-view='contributor']) .view-toggle [data-when-view='reader'] { display: none; }
-  /* Phones: collapse the switch to its ⇄ icon so it doesn't crowd the bar
-     (the aria-label keeps it named for assistive tech). */
+  /* Phones: icons only, so the two-segment control stays compact in the bar
+     (the group's aria-label + each button keep it named for assistive tech). */
   @media (max-width: 900px) {
-    .view-toggle { padding: 0 0.55rem; gap: 0; }
-    .view-toggle [data-when-view] { display: none; }
-    .view-toggle .vt-ico { font-size: 1.05em; }
+    .vs-seg { padding: 0 0.5rem; }
+    .vs-label { display: none; }
+    .vs-ico { font-size: 1.05em; }
   }
 </style>
