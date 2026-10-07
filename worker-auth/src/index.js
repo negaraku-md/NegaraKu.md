@@ -58,7 +58,9 @@ async function handleLogin(url, env) {
   if (!configured(env)) return json({ error: 'auth_not_configured' }, 503);
   const returnTo = safePath(url.searchParams.get('return'));
   const state = await makeToken(env, { k: 'state', n: randomHex(16), r: returnTo }, STATE_TTL);
-  const redirectUri = `${url.origin}/api/auth/callback`;
+  // PUBLIC_BASE_URL lets local dev (wrangler dev behind the astro proxy) force the
+  // OAuth callback to http://localhost:4321; in prod it's unset → the live origin.
+  const redirectUri = `${env.PUBLIC_BASE_URL || url.origin}/api/auth/callback`;
   const authorize = new URL('https://github.com/login/oauth/authorize');
   authorize.searchParams.set('client_id', env.GITHUB_CLIENT_ID);
   authorize.searchParams.set('redirect_uri', redirectUri);
@@ -84,7 +86,7 @@ async function handleCallback(url, env) {
     client_id: env.GITHUB_CLIENT_ID,
     client_secret: env.GITHUB_CLIENT_SECRET,
     code,
-    redirect_uri: `${url.origin}/api/auth/callback`,
+    redirect_uri: `${env.PUBLIC_BASE_URL || url.origin}/api/auth/callback`,
   });
   const tokenRes = await fetch('https://github.com/login/oauth/access_token', {
     method: 'POST',

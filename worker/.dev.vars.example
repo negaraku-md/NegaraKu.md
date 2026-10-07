@@ -1,0 +1,10 @@
+# Local dev secrets for the analytics Worker. Copy to `.dev.vars` (gitignored).
+#
+# OPTIONAL — only needed to test the contributor-only Live Query (/_a/q) against
+# real Analytics Engine data. The pageview beacon (/_a/e) and the edge-cache
+# passthrough work in `wrangler dev` WITHOUT any secret, and the Live Query UI
+# already shows a calm "local dev" message on localhost, so most testing needs
+# nothing here.
+#
+#   AE_API_TOKEN   a Cloudflare token with "Account Analytics: Read"
+AE_API_TOKEN = "YOUR_AE_API_TOKEN"

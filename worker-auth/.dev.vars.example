@@ -1,0 +1,26 @@
+# Local dev secrets for the auth Worker. Copy this file to `.dev.vars` (same dir)
+# and fill it in. `wrangler dev` loads `.dev.vars` automatically. NEVER commit the
+# real `.dev.vars` — it is gitignored.
+#
+# ── One-time setup: a DEV GitHub OAuth App (separate from production) ──────────
+#   1. https://github.com/settings/developers  →  "New OAuth App"
+#        Application name:            NegaraKu.md (local dev)
+#        Homepage URL:                http://localhost:4321
+#        Authorization callback URL:  http://localhost:4321/api/auth/callback
+#   2. Copy its Client ID below, and "Generate a new client secret" → copy that too.
+#   (Use your OWN GitHub account for the app; sign-in still gates on negaraku-md
+#    org membership, so only members get Contributor View even locally.)
+# ──────────────────────────────────────────────────────────────────────────────
+
+# Forces the OAuth callback to localhost in dev. Prod leaves this UNSET → live origin.
+PUBLIC_BASE_URL = "http://localhost:4321"
+
+# Your DEV OAuth App's Client ID (overrides the prod id in wrangler.toml, locally only).
+GITHUB_CLIENT_ID = "YOUR_DEV_OAUTH_CLIENT_ID"
+
+# Your DEV OAuth App's Client Secret.
+GITHUB_CLIENT_SECRET = "YOUR_DEV_OAUTH_CLIENT_SECRET"
+
+# Any random 32+ byte hex string — signs the local session cookie. Generate with:
+#   node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+SESSION_SIGNING_KEY = "GENERATE_A_RANDOM_32_BYTE_HEX"

@@ -47,3 +47,7 @@ docs/TA-PIPELINE-RUNBOOK.md
 
 # Hugging Face dataset export (published to the HF dataset repo, not here)
 /dataset/
+
+# Local dev secrets for the Workers (wrangler dev loads these) — NEVER commit
+.dev.vars
+**/.dev.vars

@@ -288,6 +288,18 @@ export default defineConfig({
       // host is a random *.trycloudflare.com, which Vite otherwise blocks (403).
       // Dev-only; has no effect on `astro build` / production.
       allowedHosts: ['.trycloudflare.com'],
+      // Full-stack local testing: with LOCAL_WORKERS=1 and the two Workers running
+      // via `wrangler dev` (npm run dev:full — see docs/LOCAL-DEV.md), proxy their
+      // paths so login/auth (/api/auth/*) and the analytics beacon (/_a/*) work on
+      // http://localhost:4321 — the SAME origin, so the session cookie round-trips.
+      // changeOrigin:false keeps the Host as localhost so the OAuth callback matches.
+      // No effect on build/prod, and no effect when LOCAL_WORKERS is unset.
+      proxy: process.env.LOCAL_WORKERS
+        ? {
+            '/api/auth': { target: 'http://127.0.0.1:8788', changeOrigin: false },
+            '/_a': { target: 'http://127.0.0.1:8787', changeOrigin: false },
+          }
+        : undefined,
     },
   },
   i18n: {
