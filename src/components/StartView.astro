@@ -64,6 +64,12 @@ const accuracy = [
 ];
 
 const guideHref = `${REPO}/blob/main/CONTRIBUTING.md`;
+
+// Contribute links, grouped for the two-column layout: the active ways to take
+// part vs. the ways to support the project.
+const takeKeys = new Set(['nav.reportIssue', 'nav.suggest', 'nav.submitArticle', 'nav.worklist', 'nav.roles', 'nav.github']);
+const takePart = contributeFeatures.filter((f) => takeKeys.has(f.key));
+const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
 ---
 
 <PageHero
@@ -74,202 +80,199 @@ const guideHref = `${REPO}/blob/main/CONTRIBUTING.md`;
   ]}
   title={L('Mula di sini', 'Start here', '从这里开始', 'இங்கே தொடங்குங்கள்', 'ここから始める', '여기서 시작', 'เริ่มต้นที่นี่', 'Bắt đầu tại đây', 'Mulai di sini')}
   desc={L(
-    'Dua cara untuk bermula — terokai Malaysia, atau bantu membinanya. Semuanya bersumber, untuk manusia dan AI.',
-    'Two ways to begin — explore Malaysia, or help build it. All sourced, for people and AI.',
-    '两种开始方式——探索马来西亚，或帮助建设它。全部注明来源，为人类与 AI 打造。',
-    'தொடங்க இரண்டு வழிகள் — மலேசியாவை ஆராயுங்கள், அல்லது அதைக் கட்டியெழுப்ப உதவுங்கள். அனைத்தும் ஆதாரம் காட்டப்பட்டவை, மனிதர்களுக்கும் AI-க்கும்.',
-    '始める方法は2つ — マレーシアを探索するか、構築を手伝うか。すべて出典付きで、人にも AI にも。',
-    '시작하는 두 가지 방법 — 말레이시아를 탐색하거나, 함께 만들어가세요. 모두 출처 기반, 사람과 AI를 위해.',
-    'สองวิธีในการเริ่มต้น — สำรวจมาเลเซีย หรือช่วยกันสร้าง ทั้งหมดมีแหล่งอ้างอิง สำหรับคนและ AI',
-    'Hai cách để bắt đầu — khám phá Malaysia, hoặc giúp xây dựng nó. Tất cả đều có nguồn, cho con người và AI.',
-    'Dua cara untuk memulai — jelajahi Malaysia, atau bantu membangunnya. Semua bersumber, untuk manusia dan AI.',
+    'Dua cara untuk bermula — terokai Malaysia, atau bantu bina pangkalan pengetahuannya. Semuanya bersumber, untuk manusia dan AI.',
+    "Two ways to begin — explore Malaysia, or help build its knowledge base. All sourced, for people and AI.",
+    '两种开始方式——探索马来西亚，或帮助建设它的知识库。全部注明来源，为人类与 AI 打造。',
+    'தொடங்க இரண்டு வழிகள் — மலேசியாவை ஆராயுங்கள், அல்லது அதன் அறிவுத் தளத்தைக் கட்டியெழுப்ப உதவுங்கள். அனைத்தும் ஆதாரம் காட்டப்பட்டவை, மனிதர்களுக்கும் AI-க்கும்.',
+    '始める方法は2つ — マレーシアを探索するか、その知識ベースづくりを手伝うか。すべて出典付きで、人にも AI にも。',
+    '시작하는 두 가지 방법 — 말레이시아를 탐색하거나, 그 지식 베이스를 함께 만들어가세요. 모두 출처 기반, 사람과 AI를 위해.',
+    'สองวิธีในการเริ่มต้น — สำรวจมาเลเซีย หรือช่วยสร้างฐานความรู้ของมาเลเซีย ทั้งหมดมีแหล่งอ้างอิง สำหรับคนและ AI',
+    'Hai cách để bắt đầu — khám phá Malaysia, hoặc giúp xây dựng cơ sở tri thức của nó. Tất cả đều có nguồn, cho con người và AI.',
+    'Dua cara untuk memulai — jelajahi Malaysia, atau bantu bangun basis pengetahuannya. Semua bersumber, untuk manusia dan AI.',
   )}
 />
 
-<!-- 1. The two-way choice -->
+<!-- Two paths, side by side -->
 <section class="container block">
-  <div class="twopath">
-    <a class="tpcard tp-explore" href="#explore">
-      <span class="tpico" aria-hidden="true">🧭</span>
-      <span class="tptag">{L('Untuk pembaca', 'For readers', '面向读者', 'வாசகர்களுக்கு', '読者向け', '독자용', 'สำหรับผู้อ่าน', 'Dành cho người đọc', 'Untuk pembaca')}</span>
-      <b>{L('Terokai Malaysia', 'Explore Malaysia', '探索马来西亚', 'மலேசியாவை ஆராயுங்கள்', 'マレーシアを探索', '말레이시아 탐색', 'สำรวจมาเลเซีย', 'Khám phá Malaysia', 'Jelajahi Malaysia')}</b>
-      <p>{L('Baca panduan bersumber tentang cara negara ini berfungsi — untuk manusia dan AI.', 'Read sourced guides on how the country works — for people and AI.', '阅读关于这个国家如何运作的注明来源指南——为人类与 AI 打造。', 'நாடு எப்படி இயங்குகிறது என்பதைப் பற்றிய ஆதாரம் காட்டப்பட்ட வழிகாட்டிகளைப் படியுங்கள் — மனிதர்களுக்கும் AI-க்கும்.', 'この国の仕組みを出典付きガイドで読む — 人にも AI にも。', '이 나라가 어떻게 돌아가는지 출처 기반 안내서로 읽으세요 — 사람과 AI를 위해.', 'อ่านคู่มือที่มีแหล่งอ้างอิงว่าประเทศนี้ทำงานอย่างไร — สำหรับคนและ AI', 'Đọc các hướng dẫn có nguồn về cách đất nước vận hành — cho con người và AI.', 'Baca panduan bersumber tentang cara negara ini bekerja — untuk manusia dan AI.')}</p>
-      <span class="tpgo">{L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探索', '탐색', 'สำรวจ', 'Khám phá', 'Jelajahi')} →</span>
-    </a>
-    <a class="tpcard tp-contribute" href="#contribute">
-      <span class="tpico" aria-hidden="true">✍️</span>
-      <span class="tptag">{L('Untuk penyumbang', 'For contributors', '面向贡献者', 'பங்களிப்பாளர்களுக்கு', '貢献者向け', '기여자용', 'สำหรับผู้มีส่วนร่วม', 'Dành cho người đóng góp', 'Untuk kontributor')}</span>
-      <b>{L('Sumbang kepada Malaysia', 'Contribute to Malaysia', '为马来西亚做贡献', 'மலேசியாவுக்குப் பங்களியுங்கள்', 'マレーシアに貢献', '말레이시아에 기여', 'มีส่วนร่วมกับมาเลเซีย', 'Đóng góp cho Malaysia', 'Berkontribusi untuk Malaysia')}</b>
-      <p>{L('Lapor, cadang, atau tulis artikel — terbuka untuk semua melalui GitHub.', 'Report, suggest, or write articles — open to everyone via GitHub.', '报告、建议或撰写文章——通过 GitHub 向所有人开放。', 'புகாரளியுங்கள், பரிந்துரையுங்கள், அல்லது கட்டுரைகளை எழுதுங்கள் — GitHub மூலம் அனைவருக்கும் திறந்தது.', '報告・提案・記事の執筆 — GitHub で誰でも参加可能。', '신고, 제안, 기사 작성 — GitHub로 누구나 참여 가능.', 'รายงาน เสนอแนะ หรือเขียนบทความ — เปิดสำหรับทุกคนผ่าน GitHub', 'Báo cáo, đề xuất, hoặc viết bài — mở cho tất cả qua GitHub.', 'Laporkan, sarankan, atau tulis artikel — terbuka untuk semua melalui GitHub.')}</p>
-      <span class="tpgo">{L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献', '기여', 'มีส่วนร่วม', 'Đóng góp', 'Berkontribusi')} →</span>
-    </a>
+  <div class="paths">
+
+    <div class="pcol pc-explore anchor" id="explore">
+      <div class="phead">
+        <span class="phico" aria-hidden="true">🧭</span>
+        <span class="phtag">{L('Untuk pembaca', 'For readers', '面向读者', 'வாசகர்களுக்கு', '読者向け', '독자용', 'สำหรับผู้อ่าน', 'Dành cho người đọc', 'Untuk pembaca')}</span>
+        <b>{L('Terokai Malaysia', 'Explore Malaysia', '探索马来西亚', 'மலேசியாவை ஆராயுங்கள்', 'マレーシアを探索', '말레이시아 탐색', 'สำรวจมาเลเซีย', 'Khám phá Malaysia', 'Jelajahi Malaysia')}</b>
+        <p>{L('Baca panduan bersumber — untuk manusia dan AI.', 'Read sourced guides — for people and AI.', '阅读注明来源的指南——为人类与 AI。', 'ஆதாரம் காட்டப்பட்ட வழிகாட்டிகளைப் படியுங்கள் — மனிதர்களுக்கும் AI-க்கும்.', '出典付きガイドを読む — 人にも AI にも。', '출처 기반 안내서를 읽으세요 — 사람과 AI를 위해.', 'อ่านคู่มือที่มีแหล่งอ้างอิง — สำหรับคนและ AI', 'Đọc hướng dẫn có nguồn — cho con người và AI.', 'Baca panduan bersumber — untuk manusia dan AI.')}</p>
+      </div>
+      <div class="pbody">
+        <div class="search-row">
+          <a class="cta-btn cta-primary" href={localePath('/search', locale)}><span aria-hidden="true">🔍</span> {t('nav.search', locale)} →</a>
+        </div>
+        <div class="chips">
+          {chips.map((c) => (
+            <a class="chip" href={`${localePath('/search', locale)}?q=${encodeURIComponent(c.q)}`}><span aria-hidden="true">🔍</span> {c.label}</a>
+          ))}
+        </div>
+
+        <h3 class="subhead">{L('Semak imbas mengikut tonggak', 'Browse by pillar', '按支柱浏览', 'தூண்வாரியாக உலாவுங்கள்', '柱ごとに閲覧', '기둥별로 둘러보기', 'เรียกดูตามเสาหลัก', 'Duyệt theo trụ cột', 'Jelajahi berdasarkan pilar')}</h3>
+        <div class="prows">
+          {PILLARS.map((p) => (
+            <a class="prow" href={localePath(`/${p.id}`, locale)} style={`--c:${getPillarColor(p.id)}`}>
+              <span class="pico" aria-hidden="true">{p.icon}</span>
+              <span class="ptext">
+                <b>{loc(p.name, locale)}</b>
+                <span class="pdesc">{loc(p.tagline, locale)}</span>
+              </span>
+            </a>
+          ))}
+        </div>
+
+        <h3 class="subhead">{L('Alat & paparan', 'Tools & views', '工具与视图', 'கருவிகள் & காட்சிகள்', 'ツールとビュー', '도구 및 보기', 'เครื่องมือและมุมมอง', 'Công cụ & chế độ xem', 'Alat & tampilan')}</h3>
+        <div class="dense">
+          {exploreFeats.map((f) => (
+            <a class="drow" href={localePath(f.href, locale)}>
+              <span class="dico" aria-hidden="true">{f.icon}</span>
+              <span class="dlabel">{t(f.key as any, locale)}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <div class="pcol pc-contribute anchor" id="contribute">
+      <div class="phead">
+        <span class="phico" aria-hidden="true">✍️</span>
+        <span class="phtag">{L('Untuk penyumbang', 'For contributors', '面向贡献者', 'பங்களிப்பாளர்களுக்கு', '貢献者向け', '기여자용', 'สำหรับผู้มีส่วนร่วม', 'Dành cho người đóng góp', 'Untuk kontributor')}</span>
+        <b>{L('Bantu bina pangkalan pengetahuan Malaysia', "Help build Malaysia's knowledge base", '帮助建设马来西亚知识库', 'மலேசியாவின் அறிவுத் தளத்தை கட்டியெழுப்ப உதவுங்கள்', 'マレーシアの知識ベースづくりを手伝う', '말레이시아 지식 베이스 구축 돕기', 'ช่วยสร้างฐานความรู้มาเลเซีย', 'Giúp xây dựng cơ sở tri thức Malaysia', 'Bantu bangun basis pengetahuan Malaysia')}</b>
+        <p>{L('Semuanya terbuka — tiada jemputan diperlukan. Melalui GitHub.', 'All open — no invitation needed. Via GitHub.', '全部开放——无需邀请。通过 GitHub。', 'அனைத்தும் திறந்தவை — அழைப்பு தேவையில்லை. GitHub மூலம்.', 'すべて開放 — 招待不要。GitHub で。', '모두 열려 있음 — 초대 불필요. GitHub로.', 'เปิดทั้งหมด — ไม่ต้องมีคำเชิญ ผ่าน GitHub', 'Tất cả đều mở — không cần lời mời. Qua GitHub.', 'Semua terbuka — tanpa undangan. Melalui GitHub.')}</p>
+      </div>
+      <div class="pbody">
+        <h3 class="subhead">{L('Ambil bahagian', 'Take part', '参与方式', 'பங்கேற்பு', '参加する', '참여하기', 'เข้าร่วม', 'Tham gia', 'Ikut serta')}</h3>
+        <div class="dense">
+          {takePart.map((f) => (
+            <a class="drow" href={f.external ? f.href : localePath(f.href, locale)} {...(f.external ? { rel: 'noopener', target: '_blank' } : {})}>
+              <span class="dico" aria-hidden="true">{f.icon}</span>
+              <span class="dlabel">{t(f.key as any, locale)}{f.external ? ' ↗' : ''}</span>
+            </a>
+          ))}
+        </div>
+
+        <h3 class="subhead">{L('Sokongan & lain-lain', 'Support & more', '支持与其他', 'ஆதரவு & பிற', '支援とその他', '지원 및 기타', 'สนับสนุนและอื่น ๆ', 'Hỗ trợ & khác', 'Dukungan & lainnya')}</h3>
+        <div class="dense">
+          {support.map((f) => (
+            <a class="drow" href={f.external ? f.href : localePath(f.href, locale)} {...(f.external ? { rel: 'noopener', target: '_blank' } : {})}>
+              <span class="dico" aria-hidden="true">{f.icon}</span>
+              <span class="dlabel">{t(f.key as any, locale)}{f.external ? ' ↗' : ''}</span>
+            </a>
+          ))}
+        </div>
+
+        <div class="cbtns">
+          <a class="cta-btn cta-primary" href={localePath('/contribute', locale)}>{t('nav.whyContribute', locale)} →</a>
+          <a class="cta-btn" href={guideHref} rel="noopener" target="_blank">{L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南', 'முழுப் பங்களிப்பு வழிகாட்டி', '貢献ガイド全文', '전체 기여 가이드', 'คู่มือการมีส่วนร่วมฉบับเต็ม', 'Hướng dẫn đóng góp đầy đủ', 'Panduan kontribusi lengkap')} ↗</a>
+        </div>
+      </div>
+    </div>
+
   </div>
 </section>
 
-<!-- 2. EXPLORE — every way to read & discover -->
-<section class="container block anchor" id="explore">
-  <div class="psec">
-    <header><span>🧭 {L('Terokai Malaysia', 'Explore Malaysia', '探索马来西亚', 'மலேசியாவை ஆராயுங்கள்', 'マレーシアを探索', '말레이시아 탐색', 'สำรวจมาเลเซีย', 'Khám phá Malaysia', 'Jelajahi Malaysia')}</span></header>
-    <div class="psec-body">
-      <p class="lead">{L('Cari sesuatu yang khusus, semak imbas mengikut tonggak, atau gunakan mana-mana alat di bawah.', 'Search for something specific, browse by pillar, or use any of the tools below.', '搜索具体内容、按支柱浏览，或使用下方任意工具。', 'குறிப்பிட்ட ஒன்றைத் தேடுங்கள், தூண்வாரியாக உலாவுங்கள், அல்லது கீழே உள்ள எந்தக் கருவியையும் பயன்படுத்துங்கள்.', '具体的に検索する、柱ごとに閲覧する、または下のツールを使う。', '구체적으로 검색하거나, 기둥별로 둘러보거나, 아래 도구를 사용하세요.', 'ค้นหาสิ่งที่เฉพาะเจาะจง เรียกดูตามเสาหลัก หรือใช้เครื่องมือด้านล่าง', 'Tìm điều gì đó cụ thể, duyệt theo trụ cột, hoặc dùng bất kỳ công cụ nào bên dưới.', 'Cari sesuatu yang spesifik, jelajahi berdasarkan pilar, atau gunakan alat di bawah.')}</p>
-
-      <div class="search-row">
-        <a class="cta-btn cta-primary" href={localePath('/search', locale)}><span aria-hidden="true">🔍</span> {t('nav.search', locale)} →</a>
-      </div>
-      <div class="chips">
-        {chips.map((c) => (
-          <a class="chip" href={`${localePath('/search', locale)}?q=${encodeURIComponent(c.q)}`}><span aria-hidden="true">🔍</span> {c.label}</a>
-        ))}
-      </div>
-
-      <h3 class="subhead">{L('Semak imbas mengikut tonggak', 'Browse by pillar', '按支柱浏览', 'தூண்வாரியாக உலாவுங்கள்', '柱ごとに閲覧', '기둥별로 둘러보기', 'เรียกดูตามเสาหลัก', 'Duyệt theo trụ cột', 'Jelajahi berdasarkan pilar')}</h3>
-      <div class="pillars">
-        {PILLARS.map((p) => (
-          <a class="pillar" href={localePath(`/${p.id}`, locale)} style={`--c:${getPillarColor(p.id)}`}>
-            <span class="picon" aria-hidden="true">{p.icon}</span>
-            <b>{loc(p.name, locale)}</b>
-            <span class="pdesc">{loc(p.tagline, locale)}</span>
-            <span class="pgo">{L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探索', '탐색', 'สำรวจ', 'Khám phá', 'Jelajahi')} →</span>
-          </a>
-        ))}
-      </div>
-
-      <h3 class="subhead">{L('Lebih banyak cara meneroka', 'More ways to explore', '更多探索方式', 'ஆராய மேலும் வழிகள்', 'さらに探索する方法', '더 둘러보는 방법', 'วิธีสำรวจเพิ่มเติม', 'Thêm cách khám phá', 'Cara lain menjelajah')}</h3>
-      <div class="feat-grid">
-        {exploreFeats.map((f) => (
-          <a class="feat" href={localePath(f.href, locale)} style={`--c:${f.color}`}>
-            <span class="fbar" aria-hidden="true" />
-            <span class="fico" aria-hidden="true">{f.icon}</span>
-            <b>{t(f.key as any, locale)}</b>
-            <span class="fdesc">{f.blurb}</span>
-          </a>
-        ))}
-      </div>
-
-      <h3 class="subhead">{L('Apa yang ada dalam artikel', "What's in an article", '一篇文章里有什么', 'ஒரு கட்டுரையில் என்ன இருக்கிறது', '記事の構成', '기사의 구성', 'ในบทความมีอะไรบ้าง', 'Một bài viết có gì', 'Apa yang ada dalam artikel')}</h3>
-      <p class="lead">{L(
-        'Setiap artikel dibina dengan cara yang sama — ini yang akan anda temui dan cara membacanya.',
-        'Every article is built the same way — here is what you will find and how to read it.',
-        '每篇文章结构一致——以下是你会看到的内容及阅读方式。',
-        'ஒவ்வொரு கட்டுரையும் ஒரே விதத்தில் கட்டப்படுகிறது — நீங்கள் காண்பது மற்றும் படிக்கும் முறை இதோ.',
-        'どの記事も同じ構成です — 何があり、どう読むかを紹介します。',
-        '모든 기사는 같은 방식으로 구성됩니다 — 무엇이 있고 어떻게 읽는지 안내합니다.',
-        'ทุกบทความสร้างในรูปแบบเดียวกัน — นี่คือสิ่งที่คุณจะพบและวิธีอ่าน',
-        'Mọi bài viết đều có cùng cấu trúc — đây là những gì bạn sẽ thấy và cách đọc.',
-        'Setiap artikel dibangun dengan cara yang sama — inilah yang akan Anda temukan dan cara membacanya.',
-      )}</p>
-      <div class="afeat-grid">
-        {articleFeatures.map((f) => (
-          <div class="afeat">
-            <span class="afico" aria-hidden="true">{f.icon}</span>
-            <div>
-              <b>{f.title}</b>
-              <span class="afdesc">{f.blurb}</span>
+<!-- Explainers — collapsible, so the page stays short -->
+<section class="container block">
+  <div class="explainers">
+    <details class="xpl">
+      <summary>
+        <span class="xico" aria-hidden="true">👁️</span>
+        <b>{L('Apa yang ada dalam artikel', "What's in an article", '一篇文章里有什么', 'ஒரு கட்டுரையில் என்ன இருக்கிறது', '記事の構成', '기사의 구성', 'ในบทความมีอะไรบ้าง', 'Một bài viết có gì', 'Apa yang ada dalam artikel')}</b>
+        <span class="xchev" aria-hidden="true">▾</span>
+      </summary>
+      <div class="xbody">
+        <p class="lead">{L(
+          'Setiap artikel dibina dengan cara yang sama — ini yang akan anda temui dan cara membacanya.',
+          'Every article is built the same way — here is what you will find and how to read it.',
+          '每篇文章结构一致——以下是你会看到的内容及阅读方式。',
+          'ஒவ்வொரு கட்டுரையும் ஒரே விதத்தில் கட்டப்படுகிறது — நீங்கள் காண்பது மற்றும் படிக்கும் முறை இதோ.',
+          'どの記事も同じ構成です — 何があり、どう読むかを紹介します。',
+          '모든 기사는 같은 방식으로 구성됩니다 — 무엇이 있고 어떻게 읽는지 안내합니다.',
+          'ทุกบทความสร้างในรูปแบบเดียวกัน — นี่คือสิ่งที่คุณจะพบและวิธีอ่าน',
+          'Mọi bài viết đều có cùng cấu trúc — đây là những gì bạn sẽ thấy và cách đọc.',
+          'Setiap artikel dibangun dengan cara yang sama — inilah yang akan Anda temukan dan cara membacanya.',
+        )}</p>
+        <div class="afeat-grid">
+          {articleFeatures.map((f) => (
+            <div class="afeat">
+              <span class="afico" aria-hidden="true">{f.icon}</span>
+              <div>
+                <b>{f.title}</b>
+                <span class="afdesc">{f.blurb}</span>
+              </div>
             </div>
-          </div>
-        ))}
+          ))}
+        </div>
+        <p class="um">
+          <b><span aria-hidden="true">🤖</span> {L('Guna dengan AI anda', 'Use with your AI', '配合你的 AI 使用', 'உங்கள் AI உடன் பயன்படுத்து', 'お使いの AI で使う', '당신의 AI와 함께 사용', 'ใช้กับ AI ของคุณ', 'Dùng với AI của bạn', 'Gunakan dengan AI Anda')}</b>
+          {' — '}
+          {L('salin Markdown artikel (atau tambah .md pada URL) ke dalam alat AI anda.', 'copy an article’s Markdown (or append .md to the URL) into your AI tool.', '将文章的 Markdown（或在网址后加 .md）复制到你的 AI 工具中。', 'கட்டுரையின் Markdown-ஐ (அல்லது URL-ல் .md சேர்த்து) உங்கள் AI கருவியில் நகலெடுங்கள்.', '記事の Markdown（または URL に .md）を AI ツールにコピーします。', '기사의 Markdown(또는 URL에 .md 추가)을 AI 도구에 복사하세요.', 'คัดลอก Markdown ของบทความ (หรือเพิ่ม .md ต่อท้าย URL) ลงในเครื่องมือ AI ของคุณ', 'sao chép Markdown của bài viết (hoặc thêm .md vào URL) vào công cụ AI của bạn.', 'salin Markdown artikel (atau tambahkan .md ke URL) ke alat AI Anda.')}
+          {' '}
+          <a href={localePath('/llms', locale)}>{t('nav.forAI', locale)} →</a>
+        </p>
       </div>
-      <p class="um">
-        <b><span aria-hidden="true">🤖</span> {L('Guna dengan AI anda', 'Use with your AI', '配合你的 AI 使用', 'உங்கள் AI உடன் பயன்படுத்து', 'お使いの AI で使う', '당신의 AI와 함께 사용', 'ใช้กับ AI ของคุณ', 'Dùng với AI của bạn', 'Gunakan dengan AI Anda')}</b>
-        {' — '}
-        {L('salin Markdown artikel (atau tambah .md pada URL) ke dalam alat AI anda.', 'copy an article’s Markdown (or append .md to the URL) into your AI tool.', '将文章的 Markdown（或在网址后加 .md）复制到你的 AI 工具中。', 'கட்டுரையின் Markdown-ஐ (அல்லது URL-ல் .md சேர்த்து) உங்கள் AI கருவியில் நகலெடுங்கள்.', '記事の Markdown（または URL に .md）を AI ツールにコピーします。', '기사의 Markdown(또는 URL에 .md 추가)을 AI 도구에 복사하세요.', 'คัดลอก Markdown ของบทความ (หรือเพิ่ม .md ต่อท้าย URL) ลงในเครื่องมือ AI ของคุณ', 'sao chép Markdown của bài viết (hoặc thêm .md vào URL) vào công cụ AI của bạn.', 'salin Markdown artikel (atau tambahkan .md ke URL) ke alat AI Anda.')}
-        {' '}
-        <a href={localePath('/llms', locale)}>{t('nav.forAI', locale)} →</a>
-      </p>
-    </div>
-  </div>
-</section>
+    </details>
 
-<!-- 3. CONTRIBUTE — every way to take part -->
-<section class="container block anchor" id="contribute">
-  <div class="psec">
-    <header><span>✍️ {L('Sumbang kepada Malaysia', 'Contribute to Malaysia', '为马来西亚做贡献', 'மலேசியாவுக்குப் பங்களியுங்கள்', 'マレーシアに貢献', '말레이시아에 기여', 'มีส่วนร่วมกับมาเลเซีย', 'Đóng góp cho Malaysia', 'Berkontribusi untuk Malaysia')}</span></header>
-    <div class="psec-body">
-      <p class="lead">{L(
-        'Setiap cara untuk mengambil bahagian — semuanya terbuka. Tiada jemputan diperlukan untuk melapor, mencadang, atau menghantar melalui pull request. Topik sensitif disemak manusia sebelum terbit.',
-        'Every way to take part — all open. No invitation is needed to report, suggest, or submit via a pull request. Sensitive topics get a human review before publishing.',
-        '每一种参与方式——全部开放。报告、建议或通过 pull request 提交均无需邀请。敏感主题在发布前经人工审阅。',
-        'பங்கேற்க ஒவ்வொரு வழியும் — அனைத்தும் திறந்தவை. புகாரளிக்க, பரிந்துரைக்க, அல்லது pull request மூலம் சமர்ப்பிக்க எந்த அழைப்பும் தேவையில்லை. உணர்திறன் மிக்க தலைப்புகள் வெளியிடுவதற்கு முன் மனிதரால் மதிப்பாய்வு செய்யப்படுகின்றன.',
-        '参加するあらゆる方法 — すべて開かれています。報告・提案・pull request での投稿に招待は不要です。扱いに注意が必要なトピックは公開前に人がレビューします。',
-        '참여하는 모든 방법 — 모두 열려 있습니다. 신고, 제안, pull request 제출에 초대는 필요하지 않습니다. 민감한 주제는 발행 전에 사람이 검토합니다.',
-        'ทุกวิธีในการเข้าร่วม — เปิดทั้งหมด การรายงาน เสนอแนะ หรือส่งผ่าน pull request ไม่ต้องมีคำเชิญ หัวข้อที่ละเอียดอ่อนจะได้รับการตรวจทานโดยมนุษย์ก่อนเผยแพร่',
-        'Mọi cách để tham gia — tất cả đều mở. Không cần lời mời để báo cáo, đề xuất, hoặc gửi qua pull request. Chủ đề nhạy cảm được con người duyệt trước khi đăng.',
-        'Setiap cara untuk ikut serta — semuanya terbuka. Tidak perlu undangan untuk melaporkan, menyarankan, atau mengirim melalui pull request. Topik sensitif ditinjau manusia sebelum terbit.',
-      )}</p>
-
-      <div class="feat-grid">
-        {contributeFeatures.map((f) => (
-          <a class="feat" href={f.external ? f.href : localePath(f.href, locale)} style={`--c:${f.color}`} {...(f.external ? { rel: 'noopener', target: '_blank' } : {})}>
-            <span class="fbar" aria-hidden="true" />
-            <span class="fico" aria-hidden="true">{f.icon}</span>
-            <b>{t(f.key as any, locale)}{f.external ? ' ↗' : ''}</b>
-            <span class="fdesc">{f.blurb}</span>
-          </a>
-        ))}
+    <details class="xpl">
+      <summary>
+        <span class="xico" aria-hidden="true">🛡️</span>
+        <b>{L('Bagaimana kami memastikan ketepatan', 'How we keep it accurate', '我们如何确保准确', 'துல்லியத்தை நாங்கள் எப்படிப் பேணுகிறோம்', '正確さを保つ方法', '정확성을 유지하는 방법', 'เรารักษาความถูกต้องอย่างไร', 'Cách chúng tôi giữ cho nội dung chính xác', 'Bagaimana kami menjaga keakuratan')}</b>
+        <span class="xchev" aria-hidden="true">▾</span>
+      </summary>
+      <div class="xbody">
+        <p class="lead">{L('Kepercayaan datang daripada cara setiap artikel dibina:', 'Trust comes from how every article is made:', '信任源于每篇文章的制作方式：', 'ஒவ்வொரு கட்டுரையும் உருவாக்கப்படும் விதத்திலிருந்து நம்பிக்கை வருகிறது:', '信頼は、記事の作られ方から生まれます：', '신뢰는 모든 기사가 만들어지는 방식에서 나옵니다:', 'ความน่าเชื่อถือมาจากวิธีที่ทุกบทความถูกสร้างขึ้น:', 'Niềm tin đến từ cách mỗi bài viết được tạo ra:', 'Kepercayaan datang dari cara setiap artikel dibuat:')}</p>
+        <ul class="acc-list">
+          {accuracy.map((a) => (
+            <li><span class="accico" aria-hidden="true">{a.icon}</span>{a.text}</li>
+          ))}
+        </ul>
       </div>
-
-      <h3 class="subhead">{L('Bagaimana kami memastikan ketepatan', 'How we keep it accurate', '我们如何确保准确', 'துல்லியத்தை நாங்கள் எப்படிப் பேணுகிறோம்', '正確さを保つ方法', '정확성을 유지하는 방법', 'เรารักษาความถูกต้องอย่างไร', 'Cách chúng tôi giữ cho nội dung chính xác', 'Bagaimana kami menjaga keakuratan')}</h3>
-      <p class="lead">{L('Kepercayaan datang daripada cara setiap artikel dibina:', 'Trust comes from how every article is made:', '信任源于每篇文章的制作方式：', 'ஒவ்வொரு கட்டுரையும் உருவாக்கப்படும் விதத்திலிருந்து நம்பிக்கை வருகிறது:', '信頼は、記事の作られ方から生まれます：', '신뢰는 모든 기사가 만들어지는 방식에서 나옵니다:', 'ความน่าเชื่อถือมาจากวิธีที่ทุกบทความถูกสร้างขึ้น:', 'Niềm tin đến từ cách mỗi bài viết được tạo ra:', 'Kepercayaan datang dari cara setiap artikel dibuat:')}</p>
-      <ul class="acc-list">
-        {accuracy.map((a) => (
-          <li><span class="accico" aria-hidden="true">{a.icon}</span>{a.text}</li>
-        ))}
-      </ul>
-
-      <div class="cbtns">
-        <a class="cta-btn cta-primary" href={localePath('/contribute', locale)}>{t('nav.whyContribute', locale)} →</a>
-        <a class="cta-btn" href={guideHref} rel="noopener" target="_blank">{L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南', 'முழுப் பங்களிப்பு வழிகாட்டி', '貢献ガイド全文', '전체 기여 가이드', 'คู่มือการมีส่วนร่วมฉบับเต็ม', 'Hướng dẫn đóng góp đầy đủ', 'Panduan kontribusi lengkap')} ↗</a>
-      </div>
-    </div>
+    </details>
   </div>
 </section>
 
 <style>
-  /* Start — two-path launchpad (explore / contribute). */
+  /* Start — two-path launchpad (explore / help build), side by side. */
   .block { margin-top: 1.6rem; }
   .anchor { scroll-margin-top: calc(var(--nav-height, 56px) + 1rem); }
-  .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
-  .psec > header {
-    padding: 0.45rem 0.95rem; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.03em;
-    text-transform: uppercase; background: var(--surface-2); border-bottom: 1px solid var(--line);
-    font-family: var(--font-title);
-  }
-  .psec > header span { color: var(--gold); }
-  .psec-body { padding: 1.2rem; }
   .lead { margin: 0 0 1.1rem; color: var(--ink-soft); line-height: 1.7; }
   .subhead {
-    margin: 1.8rem 0 0.9rem; font-family: var(--font-title); font-size: 0.82rem; font-weight: 700;
+    margin: 1.6rem 0 0.8rem; font-family: var(--font-title); font-size: 0.82rem; font-weight: 700;
     letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted);
   }
-  .subhead:first-child, .psec-body > .search-row:first-child { margin-top: 0; }
+  .pbody > .subhead:first-child, .pbody > .search-row:first-child { margin-top: 0; }
 
-  /* Two-way choice — the first decision a visitor makes. */
-  .twopath { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
-  .tpcard {
-    position: relative; display: flex; flex-direction: column; gap: 0.45rem; text-decoration: none;
-    background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.5rem 1.6rem;
-    transition: border-color 0.15s, transform 0.15s; overflow: hidden;
+  /* Two columns = the two paths. */
+  .paths { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; align-items: start; }
+  @media (max-width: 820px) { .paths { grid-template-columns: 1fr; } }
+  .pcol {
+    background: var(--surface); border: 1px solid var(--line);
+    border-top: 3px solid var(--pc, var(--gold)); border-radius: 12px; overflow: hidden;
   }
-  .tpcard::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: var(--tc, var(--gold)); }
-  .tp-explore { --tc: #38BDF8; }
-  .tp-contribute { --tc: #4ADE80; }
-  .tpcard:hover { border-color: var(--tc); transform: translateY(-2px); }
-  .tpico { font-size: 2.2rem; line-height: 1; }
-  .tptag {
-    align-self: flex-start; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase;
-    color: var(--tc); border: 1px solid color-mix(in srgb, var(--tc) 45%, var(--line)); border-radius: 999px; padding: 0.15rem 0.6rem;
+  .pc-explore { --pc: #38BDF8; }
+  .pc-contribute { --pc: #4ADE80; }
+  .phead { padding: 1.1rem 1.2rem 0.95rem; background: var(--surface-2); border-bottom: 1px solid var(--line); }
+  .phico { font-size: 1.9rem; line-height: 1; display: block; }
+  .phtag {
+    display: inline-block; margin-top: 0.45rem; font-size: 0.66rem; font-weight: 700;
+    letter-spacing: 0.05em; text-transform: uppercase; color: var(--pc);
+    border: 1px solid color-mix(in srgb, var(--pc) 45%, var(--line)); border-radius: 999px; padding: 0.12rem 0.6rem;
   }
-  .tpcard b { font-family: var(--font-title); font-size: 1.4rem; color: var(--ink); margin-top: 0.2rem; }
-  .tpcard p { margin: 0; color: var(--ink-soft); line-height: 1.6; font-size: 0.95rem; }
-  .tpcard .tpgo { margin-top: 0.4rem; color: var(--tc); font-weight: 700; font-size: 0.95rem; }
-  @media (max-width: 720px) { .twopath { grid-template-columns: 1fr; } }
+  .phead b { display: block; margin-top: 0.5rem; font-family: var(--font-title); font-size: 1.3rem; line-height: 1.2; color: var(--ink); }
+  .phead p { margin: 0.35rem 0 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5; }
+  .pbody { padding: 1.1rem 1.2rem 1.2rem; }
 
   /* Search block. */
   .search-row { margin: 0 0 0.8rem; }
   .cta-btn {
     display: inline-flex; align-items: center; gap: 0.4rem; text-decoration: none;
-    font-family: var(--font-title); font-weight: 700; font-size: 0.98rem;
-    padding: 0.6rem 1.3rem; border-radius: 10px;
+    font-family: var(--font-title); font-weight: 700; font-size: 0.95rem;
+    padding: 0.55rem 1.2rem; border-radius: 10px;
     border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); color: var(--ink);
   }
   .cta-btn:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
@@ -278,57 +281,71 @@ const guideHref = `${REPO}/blob/main/CONTRIBUTING.md`;
   .chips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
   .chip {
     display: inline-flex; align-items: center; gap: 0.35rem; text-decoration: none;
-    font-size: 0.86rem; color: var(--ink-soft);
-    background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 0.35rem 0.85rem;
+    font-size: 0.84rem; color: var(--ink-soft);
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 0.3rem 0.8rem;
   }
   .chip:hover { border-color: var(--gold); color: var(--gold); }
 
-  /* Pillars. */
-  .pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
-  .pillar {
-    display: flex; flex-direction: column; gap: 0.4rem; text-decoration: none;
-    background: var(--surface-2); border: 1px solid var(--line); border-top: 3px solid var(--c);
-    border-radius: 10px; padding: 1.1rem 1.2rem; transition: border-color 0.15s, transform 0.15s;
+  /* Pillars — compact rows inside the Explore column. */
+  .prows { display: grid; gap: 0.5rem; }
+  .prow {
+    display: flex; gap: 0.7rem; align-items: center; text-decoration: none;
+    background: var(--surface-2); border: 1px solid var(--line); border-left: 3px solid var(--c);
+    border-radius: 8px; padding: 0.6rem 0.8rem; transition: border-color 0.15s, transform 0.15s;
   }
-  .pillar:hover { border-color: var(--c); transform: translateY(-2px); }
-  .pillar .picon { font-size: 1.8rem; }
-  .pillar b { font-family: var(--font-title); font-size: 1.15rem; color: var(--ink); }
-  .pillar .pdesc { color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5; }
-  .pillar .pgo { margin-top: auto; color: var(--gold); font-weight: 700; font-size: 0.9rem; }
-  @media (max-width: 720px) { .pillars { grid-template-columns: 1fr; } }
+  .prow:hover { border-color: var(--c); transform: translateX(2px); }
+  .prow .pico { font-size: 1.4rem; line-height: 1; flex: none; }
+  .prow .ptext { display: flex; flex-direction: column; min-width: 0; }
+  .prow .ptext b { font-family: var(--font-title); font-size: 1rem; color: var(--ink); }
+  .prow .pdesc { color: var(--ink-soft); font-size: 0.82rem; line-height: 1.4; }
 
-  /* Feature cards — the full launchpad grid (explore + contribute). */
-  .feat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 0.8rem; }
-  .feat {
-    position: relative; overflow: hidden; display: flex; flex-direction: column; gap: 0.5rem; align-items: flex-start;
-    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1.05rem;
-    text-decoration: none; transition: border-color 0.15s, transform 0.15s;
+  /* Dense destination rows (tools & views, take part, support). */
+  .dense { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem 0.8rem; }
+  @media (max-width: 460px) { .dense { grid-template-columns: 1fr; } }
+  .drow {
+    display: flex; gap: 0.5rem; align-items: center; text-decoration: none;
+    padding: 0.42rem 0.35rem; border-radius: 7px; color: var(--ink-soft);
+    transition: background 0.12s, color 0.12s;
   }
-  .feat .fbar { position: absolute; top: 0; left: 0; right: 0; height: 4px; background: var(--c, var(--gold)); }
-  .feat:hover { border-color: var(--c, var(--gold)); transform: translateY(-2px); }
-  .feat .fico { font-size: 1.6rem; line-height: 1; }
-  .feat b { font-family: var(--font-title); font-size: 1rem; color: var(--ink); }
-  .feat .fdesc { color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
+  .drow:hover { background: var(--surface-2); color: var(--gold); }
+  .drow .dico { font-size: 1.15rem; line-height: 1; flex: none; }
+  .drow .dlabel { font-size: 0.9rem; font-weight: 600; min-width: 0; }
 
-  /* What's in an article — informational cards (not links). */
-  .afeat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 0.8rem; }
+  .cbtns { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.4rem; }
+
+  /* Collapsible explainers below the two columns. */
+  .explainers { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; align-items: start; }
+  @media (max-width: 820px) { .explainers { grid-template-columns: 1fr; } }
+  .xpl { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .xpl > summary {
+    list-style: none; cursor: pointer; display: flex; align-items: center; gap: 0.6rem;
+    padding: 0.9rem 1.1rem; background: var(--surface-2);
+  }
+  .xpl > summary::-webkit-details-marker { display: none; }
+  .xpl > summary b { flex: 1; font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; color: var(--ink); }
+  .xpl .xico { font-size: 1.3rem; line-height: 1; }
+  .xpl .xchev { color: var(--muted); transition: transform 0.15s; }
+  .xpl[open] .xchev { transform: rotate(180deg); }
+  .xpl[open] > summary { border-bottom: 1px solid var(--line); }
+  .xbody { padding: 1.1rem; }
+
+  /* What's in an article — informational cards. */
+  .afeat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 0.7rem; }
   .afeat {
-    display: flex; gap: 0.75rem; align-items: flex-start;
-    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 0.95rem 1.05rem;
+    display: flex; gap: 0.7rem; align-items: flex-start;
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 0.85rem 0.95rem;
   }
-  .afeat .afico { font-size: 1.45rem; line-height: 1.2; flex: none; }
-  .afeat b { display: block; font-family: var(--font-title); font-size: 0.98rem; color: var(--ink); margin-bottom: 0.15rem; }
-  .afeat .afdesc { color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; }
+  .afeat .afico { font-size: 1.4rem; line-height: 1.2; flex: none; }
+  .afeat b { display: block; font-family: var(--font-title); font-size: 0.95rem; color: var(--ink); margin-bottom: 0.15rem; }
+  .afeat .afdesc { color: var(--ink-soft); font-size: 0.84rem; line-height: 1.5; }
 
-  /* How we keep it accurate — the verify / trust list. */
+  /* How we keep it accurate. */
   .acc-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.6rem; }
-  .acc-list li { display: flex; gap: 0.6rem; align-items: flex-start; color: var(--ink-soft); line-height: 1.6; font-size: 0.95rem; }
+  .acc-list li { display: flex; gap: 0.6rem; align-items: flex-start; color: var(--ink-soft); line-height: 1.6; font-size: 0.92rem; }
   .acc-list .accico { flex: none; font-size: 1.1rem; line-height: 1.5; }
 
-  .um { margin: 1.1rem 0 0; color: var(--ink-soft); font-size: 0.92rem; line-height: 1.6; }
+  .um { margin: 1.1rem 0 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.6; }
   .um b { color: var(--ink); font-family: var(--font-title); font-weight: 700; }
   .um a { color: var(--gold); text-decoration: none; font-weight: 700; }
   .um a:hover { text-decoration: underline; }
-
-  .cbtns { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.4rem; }
 </style>
