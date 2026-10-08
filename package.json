@@ -15,6 +15,7 @@
     "dev:auth": "cd worker-auth && npx wrangler dev --port 8788",
     "dev:analytics": "cd worker && npx wrangler dev --port 8787",
     "dev:full": "cross-env LOCAL_WORKERS=1 NODE_OPTIONS=--max-old-space-size=6144 concurrently -k -n astro,auth -c cyan,magenta \"astro dev\" \"npm:dev:auth\"",
+    "dev:tunnel": "cross-env LOCAL_WORKERS=1 NODE_OPTIONS=--max-old-space-size=6144 concurrently -k -n astro,auth,analytics -c cyan,magenta,green \"astro dev --host 0.0.0.0\" \"npm:dev:auth\" \"npm:dev:analytics\"",
     "start": "cross-env NODE_OPTIONS=--max-old-space-size=6144 astro dev",
     "build:og": "node scripts/build-og.mjs",
     "build:data": "node scripts/build-git-info.mjs && node scripts/build-changelog.mjs && node scripts/build-dashboard.mjs && node scripts/build-credits.mjs",

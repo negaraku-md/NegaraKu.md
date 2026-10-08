@@ -7,11 +7,12 @@ echo   NegaraKu.md  -  starting local dev server
 echo.
 echo   URL:   http://localhost:4321
 echo.
+echo   Full local stack: site + login (GitHub OAuth) + analytics.
 echo   Keep this window OPEN while you work.
 echo   Press Ctrl+C or close it to stop the server.
 echo ============================================================
 echo.
-call npm run dev
+call npm run dev:tunnel
 echo.
 echo Server stopped.
 pause
