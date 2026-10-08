@@ -104,6 +104,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
         <p>{L('Baca panduan bersumber — untuk manusia dan AI.', 'Read sourced guides — for people and AI.', '阅读注明来源的指南——为人类与 AI。', 'ஆதாரம் காட்டப்பட்ட வழிகாட்டிகளைப் படியுங்கள் — மனிதர்களுக்கும் AI-க்கும்.', '出典付きガイドを読む — 人にも AI にも。', '출처 기반 안내서를 읽으세요 — 사람과 AI를 위해.', 'อ่านคู่มือที่มีแหล่งอ้างอิง — สำหรับคนและ AI', 'Đọc hướng dẫn có nguồn — cho con người và AI.', 'Baca panduan bersumber — untuk manusia dan AI.')}</p>
       </div>
       <div class="pbody">
+        <h3 class="subhead">{t('nav.search', locale)}</h3>
         <div class="search-row">
           <a class="cta-btn cta-primary" href={localePath('/search', locale)}><span aria-hidden="true">🔍</span> {t('nav.search', locale)} →</a>
         </div>
@@ -294,7 +295,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
     border-radius: 8px; padding: 0.6rem 0.8rem; transition: border-color 0.15s, transform 0.15s;
   }
   .prow:hover { border-color: var(--c); transform: translateX(2px); }
-  .prow .pico { font-size: 1.4rem; line-height: 1; flex: none; }
+  .prow .pico { font-size: 1.4rem; line-height: 1; flex: none; width: 1.7rem; text-align: center; }
   .prow .ptext { display: flex; flex-direction: column; min-width: 0; }
   .prow .ptext b { font-family: var(--font-title); font-size: 1rem; color: var(--ink); }
   .prow .pdesc { color: var(--ink-soft); font-size: 0.82rem; line-height: 1.4; }
@@ -308,7 +309,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
     transition: background 0.12s, color 0.12s;
   }
   .drow:hover { background: var(--surface-2); color: var(--gold); }
-  .drow .dico { font-size: 1.15rem; line-height: 1; flex: none; }
+  .drow .dico { font-size: 1.15rem; line-height: 1; flex: none; width: 1.5rem; text-align: center; }
   .drow .dlabel { font-size: 0.9rem; font-weight: 600; min-width: 0; }
 
   .cbtns { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.4rem; }
