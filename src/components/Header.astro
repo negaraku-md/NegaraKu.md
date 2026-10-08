@@ -61,8 +61,8 @@ const NAV_GROUPS = [
                       ) : (
                         <a
                           href={it.external ? it.href : localePath(it.href, locale)}
-                          target={it.newTab || it.external ? '_blank' : undefined}
-                          rel={it.newTab || it.external ? 'noopener' : undefined}
+                          target={it.newTab || (it.external && /^https?:/i.test(it.href)) ? '_blank' : undefined}
+                          rel={it.newTab || (it.external && /^https?:/i.test(it.href)) ? 'noopener' : undefined}
                           data-secret-nav={it.secret ? '' : undefined}
                           data-pre-contributor={it.preContributor ? '' : undefined}
                           data-contributor-only={it.contributorOnly ? '' : undefined}
@@ -301,13 +301,28 @@ const NAV_GROUPS = [
       .catch(() => {});
   }
 
-  // Clean sign-out: clear the client view flags before the browser follows the
-  // link to /api/auth/logout (which clears the cookie server-side), so we land
-  // back on a fresh Reader state with no stale toggle or view.
+  // Sign-in / sign-out return you to the page you're on, in the SAME tab. The
+  // hrefs are the raw worker endpoints; we append ?return=<current path> at click
+  // time so the OAuth callback brings you back here instead of '/' (which the
+  // default-language script would then bounce to another locale, e.g. /zh/).
+  var authReturn = function () {
+    return '?return=' + encodeURIComponent(location.pathname + location.search);
+  };
+  document.querySelectorAll('a[href="/api/auth/login"]').forEach((a) =>
+    a.addEventListener('click', (e) => {
+      e.preventDefault();
+      location.href = '/api/auth/login' + authReturn();
+    }),
+  );
+  // Clean sign-out: clear the client view flags before following the link to
+  // /api/auth/logout (clears the cookie server-side), so we land back on a fresh
+  // Reader state with no stale toggle or view.
   document.querySelectorAll('a[href="/api/auth/logout"]').forEach((a) =>
-    a.addEventListener('click', () => {
+    a.addEventListener('click', (e) => {
       localStorage.removeItem(CONTRIB_KEY);
       localStorage.removeItem(VIEW_KEY);
+      e.preventDefault();
+      location.href = '/api/auth/logout' + authReturn();
     }),
   );
 </script>
