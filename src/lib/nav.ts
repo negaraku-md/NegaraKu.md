@@ -118,8 +118,9 @@ export const READER_NAV = NAV;
 // contributor switches to this view (Header view-mode script + /api/auth/me gate).
 const GH_Q = (base: string, q: string) => `${base}?q=${encodeURIComponent(q)}`;
 export const CONTRIBUTOR_NAV: NavMenu[] = [
-  // The workspace launchpad itself (home) — a one-click plain link.
-  { label: 'cnav.workspace', href: '/' },
+  // No explicit "Workspace"/Home item — the brand logo links to '/', which is the
+  // Contributor workspace in Contributor View (mirrors Reader View, where the logo
+  // is Home and the nav has no Home item).
   {
     label: 'cnav.myWork',
     items: [

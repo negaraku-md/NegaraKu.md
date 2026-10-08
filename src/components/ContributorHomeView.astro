@@ -2,7 +2,9 @@
 import type { Locale } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
-import PageHero from './PageHero.astro';
+import { kbGlanceStats, KB_GLANCE_LABEL } from '@/lib/heroStats';
+import { articlesForLocale } from '@/lib/content';
+import ContributorWelcome from './ContributorWelcome.astro';
 
 interface Props {
   locale: Locale;
@@ -85,32 +87,39 @@ const sections: Section[] = [
 // PageHero — same hero + "at a glance" stat cards as every other non-article page.
 const wsTitle = L('Ruang kerja penyumbang', 'Contributor workspace', '贡献者工作区', 'பங்களிப்பாளர் பணியிடம்', '貢献者ワークスペース', '기여자 작업 공간', 'พื้นที่ทำงานของผู้มีส่วนร่วม', 'Không gian làm việc của người đóng góp', 'Ruang kerja kontributor');
 const wsDesc = L('Pelancar anda untuk sumbangan, semakan, dan kerja kitaran hayat.', 'Your launchpad for contributions, reviews, and lifecycle work.', '你进行贡献、审阅与生命周期工作的启动台。', 'பங்களிப்புகள், மதிப்பாய்வுகள், மற்றும் வாழ்க்கைச் சுழற்சி பணிக்கான உங்கள் தொடக்க மேடை.', '貢献・レビュー・ライフサイクル作業の出発点です。', '기여, 검토, 라이프사이클 작업을 위한 출발점입니다.', 'จุดเริ่มต้นสำหรับการมีส่วนร่วม การรีวิว และงานวงจรชีวิต', 'Bệ phóng cho đóng góp, duyệt, và công việc vòng đời.', 'Landasan Anda untuk kontribusi, tinjauan, dan pekerjaan siklus hidup.');
-const homeLabel = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda');
+// Right-side cards: the project "at a glance" (articles · languages · categories ·
+// pillars) — same source PageHero used, now in the home hero's card treatment.
+const articleCount = (await articlesForLocale(locale)).length;
+const glance = kbGlanceStats(locale, articleCount);
+const glanceLabel = KB_GLANCE_LABEL[locale];
+const findTask = L('Cari tugas', 'Find a task', '寻找任务', 'ஒரு பணியைக் கண்டறி', 'タスクを探す', '작업 찾기', 'หางานทำ', 'Tìm một việc', 'Cari tugas');
 ---
 
 <section class="cv-home" data-pagefind-ignore>
-  <PageHero
-    locale={locale}
-    crumb={[{ label: homeLabel, href: localePath('/', locale) }, { label: wsTitle }]}
-    title={wsTitle}
-    desc={wsDesc}
-  />
-  <div class="container block cvh-body">
-  <div class="cvh-top">
-  <p class="cvh-note"><span aria-hidden="true">🔒</span> {L(
-    'Memilih Paparan Penyumbang tidak memberi kebenaran — tindakan semak, gabung, dan lancar muncul mengikut peranan GitHub anda.',
-    "Choosing Contributor View doesn't grant permissions — review, merge, and deploy actions appear according to your GitHub role.",
-    '选择贡献者视图不会授予权限——审阅、合并与部署操作将根据你的 GitHub 角色显示。',
-    'பங்களிப்பாளர் காட்சியைத் தேர்ந்தெடுப்பது அனுமதிகளை வழங்காது — மதிப்பாய்வு, இணைப்பு, வெளியீட்டுச் செயல்கள் உங்கள் GitHub பங்கின்படி தோன்றும்.',
-    '貢献者ビューを選んでも権限は付与されません — レビュー・マージ・デプロイの操作は GitHub の役割に応じて表示されます。',
-    '기여자 뷰를 선택해도 권한이 부여되지 않습니다 — 검토, 병합, 배포 작업은 GitHub 역할에 따라 표시됩니다.',
-    'การเลือกมุมมองผู้มีส่วนร่วมไม่ได้ให้สิทธิ์ — การรีวิว รวม และ deploy จะปรากฏตามบทบาท GitHub ของคุณ',
-    'Chọn Chế độ xem Người đóng góp không cấp quyền — các thao tác duyệt, hợp nhất, và triển khai hiển thị theo vai trò GitHub của bạn.',
-    'Memilih Tampilan Kontributor tidak memberikan izin — tindakan tinjau, gabung, dan deploy muncul sesuai peran GitHub Anda.',
-  )}</p>
-    <a class="cvh-cta" href={localePath('/contributor-guide', locale)}>{t('cnav.guide', locale)} →</a>
-  </div>
+  <section class="cv-hero">
+    <div class="container hero-inner">
+      <div class="hero-lead">
+        <h1 class="headline">{wsTitle}</h1>
+        <p class="pitch">{wsDesc}</p>
+        <div class="cta">
+          <a class="btn btn-primary" href={localePath('/worklist', locale)}>{findTask} →</a>
+        </div>
+      </div>
+      <dl class="stats stats-glance" aria-label={glanceLabel}>
+        {glance.map((s) => (
+          <div class="stat">
+            <span class="sicon" aria-hidden="true">{s.icon}</span>
+            <dt>{s.value}</dt>
+            <dd>{s.label}</dd>
+          </div>
+        ))}
+      </dl>
+    </div>
+  </section>
 
+  <ContributorWelcome locale={locale} />
+
+  <div class="container block cvh-body">
   <div class="cvh-grid">
     {sections.map((s) => (
       <div class="cvh-card">
@@ -139,17 +148,43 @@ const homeLabel = L('Laman Utama', 'Home', '首页', 'முகப்பு', '�
   .cv-home { display: none; }
   :global(html[data-contributor='true'][data-view='contributor']) .cv-home { display: block; }
 
-  /* Permissions note + prominent guide CTA, in a row under the hero. */
-  .cvh-top { display: flex; align-items: center; justify-content: space-between; gap: 1rem 1.5rem; flex-wrap: wrap; margin-bottom: 1.6rem; }
-  .cvh-note {
-    flex: 1 1 24rem; margin: 0; color: var(--muted); font-size: 0.88rem; line-height: 1.55;
-    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 0.7rem 0.95rem;
+  /* Home-style hero (matches HomeView): gold-tinted gradient band, big left
+     headline + pitch + one CTA, with the project "at a glance" cards on the right. */
+  .cv-hero {
+    background:
+      radial-gradient(700px 420px at 12% -10%, color-mix(in srgb, var(--gold) 12%, transparent), transparent),
+      radial-gradient(1100px 500px at 60% -20%, var(--surface-2), transparent);
+    padding-block: 4rem 0;
+    border-bottom: 1px solid color-mix(in srgb, var(--gold) 30%, var(--line));
   }
-  .cvh-cta {
-    flex: none; text-decoration: none; font-family: var(--font-title); font-weight: 700; font-size: 0.95rem;
-    padding: 0.6rem 1.2rem; border-radius: 10px; background: var(--gold); color: var(--accent-contrast, #07070a); border: 1px solid var(--gold);
+  .hero-inner {
+    display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 3rem; align-items: center;
+    padding-bottom: 3rem;
   }
-  .cvh-cta:hover { background: var(--gold-600); border-color: var(--gold-600); }
+  .hero-lead { min-width: 0; }
+  .headline {
+    font-family: var(--font-title); font-weight: 900; letter-spacing: -0.03em;
+    font-size: clamp(2.4rem, 5.5vw, 3.6rem); line-height: 1.03; margin: 0 0 0.9rem; color: var(--ink);
+  }
+  .pitch { color: var(--ink-soft); font-size: 1.1rem; line-height: 1.6; max-width: 52ch; margin: 0 0 1.6rem; }
+  .cta { display: flex; gap: 1.1rem; flex-wrap: wrap; align-items: center; }
+
+  .stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 0; }
+  .stat {
+    display: flex; flex-direction: column; align-items: flex-start; gap: 0.35rem;
+    border: 1px solid var(--line); border-radius: 16px;
+    background: color-mix(in srgb, var(--surface) 55%, transparent);
+    padding: 1.4rem 1.3rem; transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+  .stat:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
+  .sicon { font-size: 1.6rem; line-height: 1; }
+  .stats dt { font-family: var(--font-title); font-weight: 800; font-size: clamp(1.7rem, 3vw, 2.3rem); line-height: 1; color: var(--gold); }
+  .stats dd { margin: 0; color: var(--muted); font-size: 0.88rem; }
+  @media (max-width: 860px) {
+    .hero-inner { grid-template-columns: 1fr; gap: 2rem; }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+  }
+  .cvh-body { margin-top: 2.6rem; }
 
   .cvh-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1rem; }
   .cvh-card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1.1rem 1.25rem; }

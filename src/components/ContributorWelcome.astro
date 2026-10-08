@@ -9,8 +9,8 @@ const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 ---
 
-<aside class="cv-welcome" data-pagefind-ignore aria-label={L('Orientasi penyumbang', 'Contributor orientation', '贡献者引导', 'பங்களிப்பாளர் அறிமுகம்', '貢献者オリエンテーション', '기여자 오리엔테이션', 'การแนะนำผู้มีส่วนร่วม', 'Định hướng người đóng góp', 'Orientasi kontributor')}>
-  <div class="container cv-inner">
+<section class="cv-welcome container" data-pagefind-ignore aria-label={L('Orientasi penyumbang', 'Contributor orientation', '贡献者引导', 'பங்களிப்பாளர் அறிமுகம்', '貢献者オリエンテーション', '기여자 오리엔테이션', 'การแนะนำผู้มีส่วนร่วม', 'Định hướng người đóng góp', 'Orientasi kontributor')}>
+  <div class="cv-card">
     <span class="cv-ico" aria-hidden="true">🚀</span>
     <div class="cv-text">
       <b>{L('Selamat datang ke Paparan Penyumbang', 'Welcome to Contributor View', '欢迎来到贡献者视图', 'பங்களிப்பாளர் காட்சிக்கு வரவேற்கிறோம்', '貢献者ビューへようこそ', '기여자 뷰에 오신 것을 환영합니다', 'ยินดีต้อนรับสู่มุมมองผู้มีส่วนร่วม', 'Chào mừng đến với Chế độ xem Người đóng góp', 'Selamat datang di Tampilan Kontributor')}</b>
@@ -26,10 +26,10 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
         'Ini landasan peluncur Anda — antrean tinjauan, draf, daftar kerja, dasbor, dan deploy, sebagian besar langsung ke GitHub.',
       )}</p>
     </div>
-    <a class="btn btn-ghost cv-go" href={localePath('/contributor-guide', locale)}>{L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி', '貢献者ガイド', '기여자 가이드', 'คู่มือผู้มีส่วนร่วม', 'Hướng dẫn người đóng góp', 'Panduan kontributor')} →</a>
+    <a class="btn btn-primary cv-go" href={localePath('/contributor-guide', locale)}>{L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி', '貢献者ガイド', '기여자 가이드', 'คู่มือผู้มีส่วนร่วม', 'Hướng dẫn người đóng góp', 'Panduan kontributor')} →</a>
     <button type="button" class="cv-x" data-cv-dismiss aria-label={L('Tutup', 'Dismiss', '关闭', 'மூடு', '閉じる', '닫기', 'ปิด', 'Đóng', 'Tutup')}>✕</button>
   </div>
-</aside>
+</section>
 
 <script>
   document.querySelectorAll('[data-cv-dismiss]').forEach((b) =>
@@ -43,24 +43,30 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
 </script>
 
 <style>
-  /* Shown only the FIRST time a recognised contributor is in Contributor View
+  /* A card below the Contributor hero, matching the reader home's WelcomeCard.
+     Shown only the FIRST time a recognised contributor is in Contributor View
      (until dismissed → data-cv-oriented, set pre-paint by HeadInlineScripts). */
-  .cv-welcome { display: none; background: color-mix(in srgb, var(--gold) 8%, var(--surface)); border-bottom: 1px solid color-mix(in srgb, var(--gold) 35%, var(--line)); }
+  .cv-welcome { margin-top: 1.5rem; display: none; }
   :global(html[data-contributor='true'][data-view='contributor']:not([data-cv-oriented])) .cv-welcome { display: block; }
-  .cv-inner { position: relative; display: flex; align-items: center; gap: 1rem; padding: 0.7rem 2.4rem 0.7rem 0; }
-  .cv-ico { font-size: 1.5rem; flex: none; }
+  .cv-card {
+    position: relative; display: flex; align-items: center; gap: 1rem;
+    background: var(--surface);
+    border: 1px solid color-mix(in srgb, var(--gold) 35%, var(--line));
+    border-radius: 12px; padding: 0.9rem 2.4rem 0.9rem 1.1rem;
+  }
+  .cv-ico { font-size: 1.6rem; flex: none; }
   .cv-text { flex: 1; min-width: 0; }
-  .cv-text b { font-family: var(--font-title); color: var(--ink); font-size: 1rem; }
-  .cv-text p { margin: 0.1rem 0 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5; }
+  .cv-text b { font-family: var(--font-title); color: var(--ink); font-size: 1.02rem; }
+  .cv-text p { margin: 0.15rem 0 0; color: var(--ink-soft); font-size: 0.92rem; line-height: 1.5; }
   .cv-go { white-space: nowrap; flex: none; }
   .cv-x {
-    position: absolute; top: 50%; right: 0.2rem; transform: translateY(-50%);
+    position: absolute; top: 0.5rem; right: 0.55rem;
     background: none; border: 0; color: var(--muted); font-size: 0.95rem; line-height: 1;
     cursor: pointer; padding: 0.3rem 0.4rem; border-radius: 6px;
   }
   .cv-x:hover { color: var(--ink); background: var(--surface-2); }
   @media (max-width: 620px) {
-    .cv-inner { flex-wrap: wrap; }
+    .cv-card { flex-wrap: wrap; }
     .cv-text { flex-basis: 100%; }
     .cv-go { width: 100%; text-align: center; }
   }

@@ -403,6 +403,8 @@ const NAV_GROUPS = [
     padding: 0.5rem 0.7rem;
     border-radius: 8px;
     text-decoration: none;
+    white-space: nowrap; /* keep multi-word labels (e.g. "Find a task") on one line */
+    flex-shrink: 0; /* don't let a crowded Contributor nav squeeze labels into wraps */
   }
   /* The HTML `hidden` attribute must actually hide a secret nav link — the
      `.menu-link { display: inline-flex }` above would otherwise override the
