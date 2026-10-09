@@ -43,7 +43,7 @@ revision: 0
 verificationNeeded:
   - "Nilai SBR langsung dan BLR Hong Leong Bank (2.75% / 6.64% per tahun per 14 Juli 2025) — pastikan terhadap laman suku bunga acuan terkini yang diterbitkan bank sebelum bergantung padanya, dan periksa perubahan OPR/SBR apa pun setelah tanggal itu."
   - "Slug URL BNM Monetary Policy Statement yang tepat untuk keputusan OPR 9 Juli 2025 (situs BNM memblokir pengambilan otomatis; konten dipastikan melalui BERNAMA dan laporan sekunder)."
-  - "Angka Hire Purchase Act 1967 (uang muka minimum 10%, plafon biaya jangka waktu suku bunga flat 10%, aturan gagal bayar dua angsuran berturut-turut, pemberitahuan 21 hari, ambang perintah pengadilan 75%) — pastikan terhadap teks yang berlaku saat ini Act 212 dan peraturan turunan apa pun, karena ini telah mengalami amandemen."
+  - "Angka uang muka dan penarikan kembali Sewa Beli (uang muka minimum 10%; penarikan kembali setelah dua angsuran berturut-turut yang gagal dibayar dengan pemberitahuan 21 hari; ambang perintah pengadilan 75% dari harga tunai) — pastikan bahwa ini dipertahankan oleh Hire-Purchase (Amendment) Act 2026, yang merombak rezim biaya jangka waktu (kini berbasis tingkat efektif, dibatasi 17%/16% oleh Hire-Purchase (Terms Charges) Regulations 2026 sejak 1 Juni 2026) tetapi dipahami tidak mengubah aturan uang muka atau penarikan kembali."
   - "Bahwa angka 60% dalam contoh perhitungan hanyalah ambang kenyamanan ilustratif, bukan plafon yang diterbitkan bank; plafon DSR bank individual dan definisi pendapatan tidak diungkapkan secara umum."
 revisions:
   - revision: 0
@@ -80,6 +80,9 @@ sources:
   - title: "Sewa Beli — Hire Purchase Act 1967 (Hire Purchase — Hire Purchase Act 1967)"
     url: "https://www.ahpcm.com.my/hirePurchase.html"
     publisher: "Association of Hire Purchase Companies Malaysia"
+  - title: "Lima Sorotan Utama Hire-Purchase (Amendment) Act 2026 (Panduan Konsumen) (Five Key Highlights of the Hire-Purchase (Amendment) Act 2026 (Consumer Guide))"
+    url: "https://www.bnm.gov.my/documents/20124/40668/HP+Consumer+Guide_EN_2026.pdf"
+    publisher: "Bank Negara Malaysia"
 
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
@@ -152,8 +155,8 @@ Beli sebuah rumah dan Anda berada dalam dunia SBR-dan-DSR. Beli sebuah mobil dan
 Di bawah sewa beli, Anda tidak memiliki kendaraan itu sampai angsuran terakhir dibayar — pemberi pembiayaan memilikinya dan "menyewakannya" kepada Anda. Struktur itu memberi undang-undang ini kekuatan yang tidak dimiliki pinjaman biasa, dengan perlindungan tetap di kedua belah pihak:
 
 - **Uang muka:** minimum **10%** dari harga tunai, meskipun pemberi pembiayaan dapat menuntut lebih, membiayai hingga 90%.
-- **Biaya jangka waktu (term charges):** sewa beli suku bunga tetap dibatasi pada **10% flat per tahun**; perjanjian suku bunga variabel dikutip pada margin di atas suku bunga dasar. Setiap perjanjian harus menyatakan biaya jangka waktu dan tingkat persentase tahunan.
-- **Transparansi:** penyewa berhak mendapat salinan perjanjian, dapat meminta laporan saldo terutang, dan menerima **rabat atas biaya jangka waktu** untuk pelunasan awal.
+- **Biaya jangka waktu (term charges):** Sejak 1 Juni 2026 Hire-Purchase (Amendment) Act 2026 menghapus plafon lama 10% flat dan Rule of 78 — biaya kini ditetapkan atas dasar tingkat bunga efektif (saldo menurun), dibatasi oleh Hire-Purchase (Terms Charges) Regulations 2026 (digazetkan 15 April 2026) pada 17% per tahun untuk jangka waktu suku bunga tetap lima tahun atau kurang, 16% per tahun untuk jangka waktu suku bunga tetap yang lebih panjang, dan 17% per tahun untuk perjanjian suku bunga variabel. Perjanjian yang ditandatangani sebelum 1 Juni 2026 tetap tunduk pada aturan suku bunga flat lama. Setiap perjanjian tetap harus menyatakan biaya jangka waktu dan tingkat bunga efektif.
+- **Transparansi:** penyewa berhak mendapat salinan perjanjian dan dapat meminta laporan saldo terutang. Untuk perjanjian di bawah rezim baru, pelunasan awal dihitung ulang atas dasar saldo menurun alih-alih memberikan rabat biaya jangka waktu Rule of 78 yang lama.
 - **Asuransi:** penyewa bebas memilih penanggung asuransi dan tidak terbatas pada panel pemberi pembiayaan.
 - **Penarikan kembali:** pemberi pembiayaan secara umum hanya dapat menarik kembali setelah penyewa gagal membayar **dua angsuran berturut-turut**, dan harus menyampaikan pemberitahuan 21 hari terlebih dahulu. Yang penting, setelah penyewa membayar setidaknya **75%** dari harga tunai, pemberi pembiayaan **tidak dapat menarik kembali tanpa perintah pengadilan**.
 
@@ -164,7 +167,7 @@ Ambang 75% itu adalah angka tunggal paling berguna untuk diingat oleh setiap pem
 | Ciri | Pinjaman rumah / suku bunga mengambang | Sewa beli (mobil) |
 |---|---|---|
 | Kerangka pengaturan | Kerangka Suku Bunga Acuan BNM | Hire Purchase Act 1967 |
-| Dasar suku bunga | SBR + spread (SBR mengikuti OPR) | Suku bunga flat tetap (maks 10% per tahun) atau variabel |
+| Dasar suku bunga | SBR + spread (SBR mengikuti OPR) | Tingkat efektif, saldo menurun (maks 17% per tahun tetap ≤5thn, 16% >5thn) atau variabel |
 | Kepemilikan | Peminjam memiliki; bank memegang hak tanggungan | Pemberi pembiayaan memiliki sampai dibayar penuh |
 | Berapa banyak dapat dipinjam | Penilaian DSR bank | Hingga 90% harga tunai (uang muka min 10%) |
 | Perlindungan gagal bayar | Kontrak + aturan perilaku BNM | Aturan statutori 75% / perintah pengadilan |

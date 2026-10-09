@@ -43,7 +43,7 @@ revision: 0
 verificationNeeded:
   - "Live SBR and Hong Leong Bank BLR values (2.75% / 6.64% p.a. as at 14 July 2025) — confirm against the bank's current published reference-rate page before relying on them, and check for any OPR/SBR change after that date."
   - "Exact BNM Monetary Policy Statement URL slug for the 9 July 2025 OPR decision (the BNM site blocks automated fetching; content verified via BERNAMA and secondary reporting)."
-  - "Hire Purchase Act 1967 figures (10% minimum deposit, 10% flat-rate term-charge ceiling, two-successive-instalment default rule, 21-day notice, 75% court-order threshold) — confirm against the current in-force text of Act 212 and any subsidiary regulations, as these have been subject to amendment."
+  - "Hire Purchase deposit and repossession figures (10% minimum deposit; repossession after two successive defaulted instalments with 21-day notice; 75%-of-cash-price court-order threshold) — confirm these were retained by the Hire-Purchase (Amendment) Act 2026, which overhauled the term-charge regime (now effective-rate, capped 17%/16% by the Hire-Purchase (Terms Charges) Regulations 2026 from 1 June 2026) but is understood not to have changed the deposit or repossession rules."
   - "That the 60% figure in the worked example is only an illustrative comfort threshold, not a bank-published ceiling; individual bank DSR ceilings and income definitions are not publicly disclosed."
 revisions:
   - revision: 0
@@ -80,6 +80,9 @@ sources:
   - title: "Hire Purchase — Hire Purchase Act 1967"
     url: "https://www.ahpcm.com.my/hirePurchase.html"
     publisher: "Association of Hire Purchase Companies Malaysia"
+  - title: "Five Key Highlights of the Hire-Purchase (Amendment) Act 2026 (Consumer Guide)"
+    url: "https://www.bnm.gov.my/documents/20124/40668/HP+Consumer+Guide_EN_2026.pdf"
+    publisher: "Bank Negara Malaysia"
 
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
@@ -152,8 +155,8 @@ Buy a house and you are inside the SBR-and-DSR world. Buy a car and you cross in
 Under hire purchase, you do not own the vehicle until the final instalment is paid — the financier owns it and "hires" it to you. That structure gives the Act teeth that an ordinary loan does not have, with fixed protections on both sides:
 
 - **Deposit:** a minimum of **10%** of the cash price, though a financier may require more, financing up to 90%.
-- **Term charges:** fixed-rate hire purchase is capped at **10% flat per annum**; variable-rate agreements are quoted at a margin above a base rate. Every agreement must state the term charges and the annual percentage rate.
-- **Transparency:** the hirer is entitled to a copy of the agreement, may request a statement of the outstanding balance, and receives a **rebate on term charges** for early settlement.
+- **Term charges:** since **1 June 2026** the **Hire-Purchase (Amendment) Act 2026** abolished the old 10%-flat ceiling and the Rule of 78 — charges are now set on an **effective-interest-rate (reducing-balance) basis**, capped by the **Hire-Purchase (Terms Charges) Regulations 2026** (gazetted 15 April 2026) at **17% p.a.** for fixed-rate terms of five years or less, **16% p.a.** for longer fixed-rate terms, and **17% p.a.** for variable-rate agreements. Agreements signed before 1 June 2026 stay under the old flat-rate rules. Every agreement must still state the term charges and the effective interest rate.
+- **Transparency:** the hirer is entitled to a copy of the agreement and may request a statement of the outstanding balance. For agreements under the new regime, early settlement is recalculated on the reducing-balance basis rather than giving the old Rule-of-78 term-charge rebate.
 - **Insurance:** the hirer is free to choose the insurer and is not confined to the financier's panel.
 - **Repossession:** a financier may generally repossess only after the hirer defaults on **two successive instalments**, and must serve a 21-day notice first. Critically, once the hirer has paid at least **75%** of the cash price, the financier **cannot repossess without a court order**.
 
@@ -164,7 +167,7 @@ That 75% threshold is the single most useful number for any car buyer to remembe
 | Feature | Housing / floating-rate loan | Hire purchase (car) |
 |---|---|---|
 | Governing framework | BNM Reference Rate Framework | Hire Purchase Act 1967 |
-| Rate basis | SBR + spread (SBR tracks OPR) | Fixed flat rate (max 10% p.a.) or variable |
+| Rate basis | SBR + spread (SBR tracks OPR) | Effective rate, reducing-balance (max 17% p.a. fixed ≤5yr, 16% >5yr) or variable |
 | Ownership | Borrower owns; bank holds a charge | Financier owns until fully paid |
 | How much you can borrow | Bank's DSR assessment | Up to 90% of cash price (min 10% deposit) |
 | Default protection | Contract + BNM conduct rules | Statutory 75% / court-order rule |

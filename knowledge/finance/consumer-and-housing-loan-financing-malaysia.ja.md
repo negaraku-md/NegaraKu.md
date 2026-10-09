@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "736d6f3bf7c003b5"
+sourceContentHash: "6a3487bee5c6466c"
 
 status: "published"
 aiAssisted: true
@@ -44,7 +44,7 @@ revision: 0
 verificationNeeded:
   - "Live SBR and Hong Leong Bank BLR values (2.75% / 6.64% p.a. as at 14 July 2025) — confirm against the bank's current published reference-rate page before relying on them, and check for any OPR/SBR change after that date."
   - "Exact BNM Monetary Policy Statement URL slug for the 9 July 2025 OPR decision (the BNM site blocks automated fetching; content verified via BERNAMA and secondary reporting)."
-  - "Hire Purchase Act 1967 figures (10% minimum deposit, 10% flat-rate term-charge ceiling, two-successive-instalment default rule, 21-day notice, 75% court-order threshold) — confirm against the current in-force text of Act 212 and any subsidiary regulations, as these have been subject to amendment."
+  - "Hire Purchase deposit and repossession figures (10% minimum deposit; repossession after two successive defaulted instalments with 21-day notice; 75%-of-cash-price court-order threshold) — confirm these were retained by the Hire-Purchase (Amendment) Act 2026, which overhauled the term-charge regime (now effective-rate, capped 17%/16% by the Hire-Purchase (Terms Charges) Regulations 2026 from 1 June 2026) but is understood not to have changed the deposit or repossession rules."
   - "That the 60% figure in the worked example is only an illustrative comfort threshold, not a bank-published ceiling; individual bank DSR ceilings and income definitions are not publicly disclosed."
 revisions:
   - revision: 0
@@ -81,6 +81,9 @@ sources:
   - title: "ハイヤーパーチェス（分割払い購入）— Hire Purchase Act 1967 (Hire Purchase — Hire Purchase Act 1967)"
     url: "https://www.ahpcm.com.my/hirePurchase.html"
     publisher: "Association of Hire Purchase Companies Malaysia"
+  - title: "割賦購入（改正）法2026年の5つの主要ポイント（消費者ガイド） (Five Key Highlights of the Hire-Purchase (Amendment) Act 2026 (Consumer Guide))"
+    url: "https://www.bnm.gov.my/documents/20124/40668/HP+Consumer+Guide_EN_2026.pdf"
+    publisher: "マレーシア国立銀行"
 
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
@@ -153,8 +156,8 @@ DSRとは、すでに債務の返済に充てられているあなたの収入�
 割賦購入のもとでは、最後の分割払いが完了するまで、あなたはその車両を所有しない——融資会社が車両を所有し、それをあなたに「賃貸」する。この構造は、通常のローンにはない強制力を同法に与えており、両当事者に対して固定的な保護を設けている。
 
 - **頭金：** 現金価格の最低**10%**。融資会社はそれ以上を要求できる場合があり、最大90%までファイナンシング可能。
-- **期間手数料：** 固定利率の割賦購入は年率**10%の単利**が上限。変動利率の契約は、基準金利に対するマージンで提示される。すべての契約は、期間手数料と年率百分率（APR）を明記しなければならない。
-- **透明性：** 借主は契約書の写しを受け取る権利があり、未払残高の明細を請求でき、早期完済の場合には**期間手数料の払い戻し**を受けられる。
+- **期間手数料：** 2026年6月1日以降、2026年割賦購入（改正）法（Hire-Purchase (Amendment) Act 2026）は従来の年率10%の単利上限とRule of 78を廃止した——期間手数料は現在、実効金利（逓減残高）方式で設定され、2026年割賦購入（期間手数料）規則（Hire-Purchase (Terms Charges) Regulations 2026、2026年4月15日官報告示）により、5年以下の固定金利契約は年率17%、それより長期の固定金利契約は年率16%、変動金利契約は年率17%を上限とする。2026年6月1日より前に締結された契約には、従来の平準金利の規則が引き続き適用される。すべての契約は、期間手数料と実効金利を依然として明記しなければならない。
+- **透明性：** 借主は契約書の写しを受け取る権利があり、未払残高の明細を請求できる。新制度のもとでの契約では、早期完済は従来のRule of 78による期間手数料の払い戻しではなく、逓減残高方式で再計算される。
 - **保険：** 借主は保険会社を自由に選択でき、融資会社の指定業者に限定されない。
 - **車両回収：** 融資会社は原則として、借主が**連続2回**の分割払いを怠った後にのみ車両を回収でき、その前に21日間の通知を行わなければならない。決定的に重要なのは、借主が現金価格の少なくとも**75%**を支払った後は、融資会社が**裁判所の命令なしに車両を回収できない**ことである。
 
@@ -165,7 +168,7 @@ DSRとは、すでに債務の返済に充てられているあなたの収入�
 | 特徴 | 住宅／変動金利ローン | 割賦購入（自動車） |
 |---|---|---|
 | 規律する枠組み | BNM参照金利枠組み | 1967年割賦購入法 |
-| 金利の基礎 | SBR＋スプレッド（SBRはOPRに連動） | 固定平準金利（年率最大10%）または変動 |
+| 金利の基礎 | SBR＋スプレッド（SBRはOPRに連動） | 実効金利・逓減残高方式（固定5年以下は年率最大17%、5年超は16%）または変動 |
 | 所有権 | 借主が所有；銀行が担保権（charge）を保有 | 完済まで融資会社が所有 |
 | 借入可能額 | 銀行のDSR評価 | 現金価格の最大90%（最低頭金10%） |
 | 債務不履行時の保護 | 契約＋BNMの行為規範 | 法定の75%／裁判所命令ルール |

@@ -31,7 +31,7 @@ faq:
     a: "Di bawah Akta Sewa Beli 1967 pembiaya secara amnya hanya boleh memiliki semula selepas penyewa gagal membayar dua ansuran berturut-turut dan mengikuti proses notis 21 hari. Setelah anda membayar sekurang-kurangnya 75% daripada harga tunai, pembiaya memerlukan perintah mahkamah untuk memiliki semula."
 
 lang: "ms"
-sourceContentHash: "736d6f3bf7c003b5"
+sourceContentHash: "6a3487bee5c6466c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,7 +44,7 @@ revision: 0
 verificationNeeded:
   - "Nilai SBR langsung dan BLR Hong Leong Bank (2.75% / 6.64% setahun setakat 14 July 2025) — sahkan terhadap laman kadar rujukan semasa yang diterbitkan bank sebelum bergantung padanya, dan semak sebarang perubahan OPR/SBR selepas tarikh itu."
   - "Slug URL BNM Monetary Policy Statement yang tepat bagi keputusan OPR 9 Julai 2025 (tapak BNM menyekat pengambilan automatik; kandungan disahkan melalui BERNAMA dan laporan sekunder)."
-  - "Angka Hire Purchase Act 1967 (deposit minimum 10%, siling caj tempoh kadar rata 10%, peraturan mungkir dua ansuran berturut-turut, notis 21 hari, ambang perintah mahkamah 75%) — sahkan terhadap teks berkuat kuasa semasa Act 212 dan mana-mana peraturan subsidiari, kerana ini telah tertakluk pada pindaan."
+  - "Angka deposit dan pemilikan semula Sewa Beli (deposit minimum 10%; pemilikan semula selepas dua ansuran berturut-turut tertunggak dengan notis 21 hari; ambang perintah mahkamah 75% daripada harga tunai) — sahkan bahawa angka ini dikekalkan oleh Akta Sewa Beli (Pindaan) 2026, yang merombak rejim caj tempoh (kini kadar berkesan, dihadkan 17%/16% oleh Peraturan-Peraturan Sewa Beli (Caj Tempoh) 2026 dari 1 Jun 2026) tetapi difahami tidak mengubah peraturan deposit atau pemilikan semula."
   - "Bahawa angka 60% dalam contoh kerja hanyalah ambang keselesaan ilustrasi, bukan siling yang diterbitkan bank; siling DSR bank individu dan takrifan pendapatan tidak didedahkan secara umum."
 revisions:
   - revision: 0
@@ -81,6 +81,9 @@ sources:
   - title: "Sewa Beli — Hire Purchase Act 1967 (Hire Purchase — Hire Purchase Act 1967)"
     url: "https://www.ahpcm.com.my/hirePurchase.html"
     publisher: "Association of Hire Purchase Companies Malaysia"
+  - title: "Lima Sorotan Utama Akta Sewa Beli (Pindaan) 2026 (Panduan Pengguna) (Five Key Highlights of the Hire-Purchase (Amendment) Act 2026 (Consumer Guide))"
+    url: "https://www.bnm.gov.my/documents/20124/40668/HP+Consumer+Guide_EN_2026.pdf"
+    publisher: "Bank Negara Malaysia"
 
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
@@ -153,8 +156,8 @@ Beli sebuah rumah dan anda berada dalam dunia SBR-dan-DSR. Beli sebuah kereta da
 Di bawah sewa beli, anda tidak memiliki kenderaan itu sehingga ansuran terakhir dibayar — pembiaya memilikinya dan "menyewakannya" kepada anda. Struktur itu memberikan Akta ini kekuatan yang tidak dimiliki oleh pinjaman biasa, dengan perlindungan tetap di kedua-dua belah pihak:
 
 - **Deposit:** minimum **10%** daripada harga tunai, walaupun pembiaya boleh menuntut lebih, membiayai sehingga 90%.
-- **Caj tempoh:** sewa beli kadar tetap dihadkan pada **10% rata setahun**; perjanjian kadar berubah-ubah dikuota pada margin di atas kadar asas. Setiap perjanjian mesti menyatakan caj tempoh dan kadar peratusan tahunan.
-- **Ketelusan:** penyewa berhak mendapat salinan perjanjian, boleh meminta penyata baki tertunggak, dan menerima **rebat pada caj tempoh** untuk penyelesaian awal.
+- **Caj tempoh:** Sejak 1 Jun 2026, Akta Sewa Beli (Pindaan) 2026 memansuhkan siling lama kadar rata 10% dan Rule of 78 — caj kini ditetapkan atas asas kadar faedah berkesan (baki berkurangan), dihadkan oleh Peraturan-Peraturan Sewa Beli (Caj Tempoh) 2026 (diwartakan pada 15 April 2026) pada 17% setahun bagi tempoh kadar tetap lima tahun atau kurang, 16% setahun bagi tempoh kadar tetap yang lebih panjang, dan 17% setahun bagi perjanjian kadar berubah-ubah. Perjanjian yang ditandatangani sebelum 1 Jun 2026 kekal di bawah peraturan kadar rata lama. Setiap perjanjian masih mesti menyatakan caj tempoh dan kadar faedah berkesan.
+- **Ketelusan:** Penyewa berhak mendapat salinan perjanjian dan boleh meminta penyata baki tertunggak. Bagi perjanjian di bawah rejim baharu, penyelesaian awal dikira semula atas asas baki berkurangan dan bukannya memberikan rebat caj tempoh Rule of 78 yang lama.
 - **Insurans:** penyewa bebas memilih penginsurans dan tidak terhad kepada panel pembiaya.
 - **Pemilikan semula:** pembiaya secara amnya boleh memiliki semula hanya selepas penyewa gagal membayar **dua ansuran berturut-turut**, dan mesti menyampaikan notis 21 hari terlebih dahulu. Yang penting, setelah penyewa membayar sekurang-kurangnya **75%** daripada harga tunai, pembiaya **tidak boleh memiliki semula tanpa perintah mahkamah**.
 
@@ -165,7 +168,7 @@ Ambang 75% itu ialah nombor tunggal paling berguna untuk diingati oleh mana-mana
 | Ciri | Pinjaman rumah / kadar terapung | Sewa beli (kereta) |
 |---|---|---|
 | Rangka kerja pentadbiran | Rangka Kerja Kadar Rujukan BNM | Akta Sewa Beli 1967 |
-| Asas kadar | SBR + spread (SBR mengikuti OPR) | Kadar rata tetap (maks 10% setahun) atau berubah-ubah |
+| Asas kadar | SBR + spread (SBR mengikuti OPR) | Kadar berkesan, baki berkurangan (maks 17% setahun tetap ≤5thn, 16% >5thn) atau berubah-ubah |
 | Pemilikan | Peminjam memiliki; bank memegang gadaian | Pembiaya memiliki sehingga dibayar penuh |
 | Berapa banyak boleh dipinjam | Penilaian DSR bank | Sehingga 90% harga tunai (deposit min 10%) |
 | Perlindungan kegagalan bayaran | Kontrak + peraturan tatakelakuan BNM | Peraturan berkanun 75% / perintah mahkamah |

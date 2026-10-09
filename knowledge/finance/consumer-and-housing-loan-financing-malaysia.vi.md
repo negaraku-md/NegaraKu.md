@@ -43,7 +43,7 @@ revision: 0
 verificationNeeded:
   - "Các giá trị SBR trực tiếp và BLR của Hong Leong Bank (2.75% / 6.64% mỗi năm tính đến ngày 14 tháng 7 năm 2025) — xác nhận so với trang lãi suất tham chiếu hiện hành của ngân hàng trước khi dựa vào chúng, và kiểm tra bất kỳ thay đổi OPR/SBR nào sau ngày đó."
   - "Đoạn URL chính xác của Tuyên bố Chính sách Tiền tệ của BNM cho quyết định OPR ngày 9 tháng 7 năm 2025 (trang BNM chặn tải tự động; nội dung được xác minh qua BERNAMA và các bản tin thứ cấp)."
-  - "Các con số của Hire Purchase Act 1967 (đặt cọc tối thiểu 10%, trần phí kỳ hạn cố định 10%, quy tắc vỡ nợ hai kỳ liên tiếp, thông báo 21 ngày, ngưỡng lệnh tòa 75%) — xác nhận so với văn bản đang có hiệu lực của Act 212 và bất kỳ quy định phụ nào, vì những con số này đã từng bị sửa đổi."
+  - "Các con số về đặt cọc và thu hồi trong Thuê mua (đặt cọc tối thiểu 10%; thu hồi sau hai kỳ trả góp liên tiếp bị vỡ nợ với thông báo 21 ngày; ngưỡng lệnh tòa 75% giá tiền mặt) — xác nhận rằng chúng được giữ lại bởi Hire-Purchase (Amendment) Act 2026, vốn đã cải tổ toàn diện chế độ phí kỳ hạn (nay theo lãi suất hiệu dụng, bị giới hạn 17%/16% bởi Hire-Purchase (Terms Charges) Regulations 2026 từ ngày 1 tháng 6 năm 2026) nhưng được hiểu là không thay đổi các quy tắc về đặt cọc hay thu hồi."
   - "Rằng con số 60% trong ví dụ đã tính chỉ là một ngưỡng thoải mái mang tính minh họa, không phải một trần do ngân hàng công bố; các trần DSR của từng ngân hàng và định nghĩa thu nhập không được công khai."
 revisions:
   - revision: 0
@@ -80,6 +80,9 @@ sources:
   - title: "Thuê mua — Hire Purchase Act 1967 (Hire Purchase — Hire Purchase Act 1967)"
     url: "https://www.ahpcm.com.my/hirePurchase.html"
     publisher: "Association of Hire Purchase Companies Malaysia"
+  - title: "Năm điểm nổi bật chính của Hire-Purchase (Amendment) Act 2026 (Hướng dẫn cho người tiêu dùng) (Five Key Highlights of the Hire-Purchase (Amendment) Act 2026 (Consumer Guide))"
+    url: "https://www.bnm.gov.my/documents/20124/40668/HP+Consumer+Guide_EN_2026.pdf"
+    publisher: "Ngân hàng Trung ương Malaysia (BNM)"
 
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
@@ -152,8 +155,8 @@ Mua một căn nhà và bạn ở trong thế giới SBR-và-DSR. Mua một chi�
 Theo thuê mua, bạn không sở hữu chiếc xe cho đến khi khoản trả góp cuối cùng được thanh toán — bên tài trợ sở hữu nó và "cho thuê" nó cho bạn. Cấu trúc đó cho Đạo luật những "chiếc răng" mà một khoản vay thông thường không có, với các biện pháp bảo vệ cố định cho cả hai bên:
 
 - **Đặt cọc:** tối thiểu **10%** giá tiền mặt, dù một bên tài trợ có thể yêu cầu nhiều hơn, tài trợ đến 90%.
-- **Phí kỳ hạn:** thuê mua lãi suất cố định bị giới hạn ở **10% cố định mỗi năm**; các thỏa thuận lãi suất biến đổi được báo ở một biên độ trên một lãi suất cơ sở. Mọi thỏa thuận phải nêu rõ phí kỳ hạn và tỷ lệ phần trăm hằng năm.
-- **Minh bạch:** người thuê có quyền có một bản sao thỏa thuận, có thể yêu cầu một bản kê số dư còn nợ, và nhận một **khoản hoàn phí kỳ hạn** khi tất toán sớm.
+- **Phí kỳ hạn:** Kể từ ngày 1 tháng 6 năm 2026, Hire-Purchase (Amendment) Act 2026 đã bãi bỏ trần 10% cố định cũ và Rule of 78 — phí kỳ hạn nay được đặt trên cơ sở lãi suất hiệu dụng (số dư giảm dần), bị giới hạn bởi Hire-Purchase (Terms Charges) Regulations 2026 (công bố công báo ngày 15 tháng 4 năm 2026) ở mức 17% mỗi năm đối với các kỳ hạn lãi suất cố định từ năm năm trở xuống, 16% mỗi năm đối với các kỳ hạn lãi suất cố định dài hơn, và 17% mỗi năm đối với các thỏa thuận lãi suất biến đổi. Các thỏa thuận ký trước ngày 1 tháng 6 năm 2026 vẫn theo các quy tắc lãi suất cố định cũ. Mọi thỏa thuận vẫn phải nêu rõ phí kỳ hạn và tỷ lệ lãi suất hiệu dụng.
+- **Minh bạch:** người thuê có quyền có một bản sao thỏa thuận và có thể yêu cầu một bản kê số dư còn nợ. Đối với các thỏa thuận theo chế độ mới, việc tất toán sớm được tính lại trên cơ sở số dư giảm dần thay vì cho khoản hoàn phí kỳ hạn theo Rule of 78 cũ.
 - **Bảo hiểm:** người thuê được tự do chọn bên bảo hiểm và không bị giới hạn trong danh sách của bên tài trợ.
 - **Thu hồi:** một bên tài trợ nói chung chỉ có thể thu hồi sau khi người thuê vỡ nợ **hai kỳ trả góp liên tiếp**, và phải gửi thông báo 21 ngày trước. Điều then chốt, một khi người thuê đã trả ít nhất **75%** giá tiền mặt, bên tài trợ **không thể thu hồi mà không có một lệnh của tòa án**.
 
@@ -164,7 +167,7 @@ Ngưỡng 75% đó là con số hữu ích nhất mà bất kỳ người mua xe
 | Đặc điểm | Vay nhà / vay lãi suất thả nổi | Thuê mua (xe) |
 |---|---|---|
 | Khung điều chỉnh | Khung Lãi suất Tham chiếu của BNM | Hire Purchase Act 1967 |
-| Cơ sở lãi suất | SBR + biên độ (SBR theo OPR) | Lãi suất cố định (tối đa 10% mỗi năm) hoặc biến đổi |
+| Cơ sở lãi suất | SBR + biên độ (SBR theo OPR) | Lãi suất hiệu dụng, số dư giảm dần (tối đa 17% mỗi năm cố định ≤5 năm, 16% >5 năm) hoặc biến đổi |
 | Sở hữu | Người vay sở hữu; ngân hàng giữ một quyền cầm cố | Bên tài trợ sở hữu cho đến khi trả hết |
 | Bạn có thể vay bao nhiêu | Đánh giá DSR của ngân hàng | Đến 90% giá tiền mặt (đặt cọc tối thiểu 10%) |
 | Bảo vệ khi vỡ nợ | Hợp đồng + quy tắc ứng xử của BNM | Quy tắc 75% / lệnh tòa theo luật |
