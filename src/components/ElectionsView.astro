@@ -2,6 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { articlesInCategory } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
+import PageHero from './PageHero.astro';
 
 interface Props {
   locale: Locale;
@@ -18,12 +19,25 @@ const facts = [
   { n: '18', t: L('umur mengundi', 'voting age', '投票年龄', 'வாக்களிக்கும் வயது', '投票年齢', '선거 연령', 'อายุผู้มีสิทธิเลือกตั้ง', 'độ tuổi bầu cử', 'usia memilih') },
   { n: '5', t: L('tahun penggal maksimum', 'year max term', '年最长任期', 'ஆண்டு அதிகபட்சப் பதவிக்காலம்', '年（最長任期）', '년 최대 임기', 'ปี วาระสูงสุด', 'năm nhiệm kỳ tối đa', 'tahun masa jabatan maksimum') },
 ];
+
+// Hero now uses the shared PageHero (gradient + stat cards). The 4 facts become
+// its stat cards; the countdown stays below as this page's distinctive element.
+const homeLabel = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda');
+const hubLabel = L('Pusat Pilihan Raya', 'Elections Hub', '选举中心', 'தேர்தல் மையம்', '選挙ハブ', '선거 허브', 'ศูนย์การเลือกตั้ง', 'Trung tâm Bầu cử', 'Pusat Pemilihan Umum');
+const title = L('Pilihan Raya Umum Malaysia', 'Malaysian General Election', '马来西亚大选', 'மலேசியப் பொதுத் தேர்தல்', 'マレーシア総選挙', '말레이시아 총선', 'การเลือกตั้งทั่วไปของมาเลเซีย', 'Tổng tuyển cử Malaysia', 'Pemilihan Umum Malaysia');
+const desc = L('Panduan tak-berpihak tentang sistem pilihan raya Malaysia. Kiraan detik adalah anggaran.', 'A non-partisan guide to Malaysia\'s electoral system. The countdown is indicative.', '关于马来西亚选举制度的中立指南。倒计时为估计值。', 'மலேசியாவின் தேர்தல் அமைப்பு குறித்த ஒரு நடுநிலையான வழிகாட்டி. கவுண்ட்டவுன் ஒரு தோராயமான மதிப்பீடே.', 'マレーシアの選挙制度に関する中立的なガイド。カウントダウンは目安です。', '말레이시아 선거 제도에 대한 초당파적 안내입니다. 카운트다운은 참고용 추정치입니다.', 'คู่มือที่เป็นกลางเกี่ยวกับระบบการเลือกตั้งของมาเลเซีย การนับถอยหลังเป็นเพียงการประมาณการ', 'Hướng dẫn phi đảng phái về hệ thống bầu cử của Malaysia. Đồng hồ đếm ngược chỉ mang tính ước tính.', 'Panduan netral tentang sistem pemilihan umum Malaysia. Hitung mundur ini bersifat perkiraan.');
 ---
 
-<section class="container head">
-  <p class="kicker">🗳️ {L('Pusat Pilihan Raya', 'Elections Hub', '选举中心', 'தேர்தல் மையம்', '選挙ハブ', '선거 허브', 'ศูนย์การเลือกตั้ง', 'Trung tâm Bầu cử', 'Pusat Pemilihan Umum')}</p>
-  <h1>{L('Pilihan Raya Umum Malaysia', 'Malaysian General Election', '马来西亚大选', 'மலேசியப் பொதுத் தேர்தல்', 'マレーシア総選挙', '말레이시아 총선', 'การเลือกตั้งทั่วไปของมาเลเซีย', 'Tổng tuyển cử Malaysia', 'Pemilihan Umum Malaysia')}</h1>
-  <p class="lead">{L('Panduan tak-berpihak tentang sistem pilihan raya Malaysia. Kiraan detik adalah anggaran.', 'A non-partisan guide to Malaysia\'s electoral system. The countdown is indicative.', '关于马来西亚选举制度的中立指南。倒计时为估计值。', 'மலேசியாவின் தேர்தல் அமைப்பு குறித்த ஒரு நடுநிலையான வழிகாட்டி. கவுண்ட்டவுன் ஒரு தோராயமான மதிப்பீடே.', 'マレーシアの選挙制度に関する中立的なガイド。カウントダウンは目安です。', '말레이시아 선거 제도에 대한 초당파적 안내입니다. 카운트다운은 참고용 추정치입니다.', 'คู่มือที่เป็นกลางเกี่ยวกับระบบการเลือกตั้งของมาเลเซีย การนับถอยหลังเป็นเพียงการประมาณการ', 'Hướng dẫn phi đảng phái về hệ thống bầu cử của Malaysia. Đồng hồ đếm ngược chỉ mang tính ước tính.', 'Panduan netral tentang sistem pemilihan umum Malaysia. Hitung mundur ini bersifat perkiraan.')}</p>
+<PageHero
+  locale={locale}
+  crumb={[{ label: homeLabel, href: localePath('/', locale) }, { label: hubLabel }]}
+  title={title}
+  desc={desc}
+  stats={facts.map((f) => ({ value: f.n, label: f.t }))}
+/>
+
+<section class="container cd-band">
+  <p class="kicker">🗳️ {L('Kira detik ke PRU akan datang', 'Countdown to the next general election', '下届大选倒计时', 'அடுத்த பொதுத் தேர்தலுக்கான கவுண்ட்டவுன்', '次期総選挙までのカウントダウン', '다음 총선까지 카운트다운', 'นับถอยหลังสู่การเลือกตั้งทั่วไปครั้งถัดไป', 'Đếm ngược đến tổng tuyển cử tiếp theo', 'Hitung mundur ke pemilu berikutnya')}</p>
   <div class="countdown" data-target={target}>
     <div><b id="cd-days">–</b><span>{L('hari', 'days', '天', 'நாட்கள்', '日', '일', 'วัน', 'ngày', 'hari')}</span></div>
     <div><b id="cd-hrs">–</b><span>{L('jam', 'hours', '小时', 'மணி', '時間', '시간', 'ชั่วโมง', 'giờ', 'jam')}</span></div>
@@ -31,12 +45,6 @@ const facts = [
   </div>
   <p class="cd-expired" hidden>{L('Sasaran anggaran telah berlalu — PRU16 mungkin akan diadakan. Semak SPR untuk tarikh yang diwartakan.', 'The indicative date has passed — GE16 may be due. Check the SPR for the gazetted date.', '估计日期已过——GE16 可能即将举行。请查看 SPR 的正式日期。', 'தோராயமான தேதி கடந்துவிட்டது — GE16 நடைபெறலாம். வர்த்தமானியில் வெளியிடப்பட்ட தேதிக்கு SPR-ஐ பார்க்கவும்.', '目安の日付は過ぎました — GE16が実施される可能性があります。官報告示の日付はSPRでご確認ください。', '참고용 날짜가 지났습니다 — GE16(제16대 총선)이 실시될 수 있습니다. 관보에 고시된 날짜는 SPR에서 확인하세요.', 'วันที่ประมาณการได้ผ่านไปแล้ว — GE16 อาจจะจัดขึ้น ตรวจสอบวันที่ประกาศในราชกิจจานุเบกษาได้ที่ SPR', 'Ngày ước tính đã trôi qua — GE16 có thể sắp diễn ra. Kiểm tra SPR để biết ngày được công bố chính thức.', 'Target perkiraan telah berlalu — PRU16 mungkin akan diadakan. Periksa SPR untuk tanggal yang diumumkan resmi.')}</p>
   <p class="muted cd-target">{L('Sasaran anggaran', 'Indicative target', '估计目标', 'தோராயமான இலக்கு', '目安の目標', '참고용 목표일', 'เป้าหมายโดยประมาณ', 'Mục tiêu ước tính', 'Target perkiraan')}: {target}</p>
-</section>
-
-<section class="container block">
-  <div class="facts">
-    {facts.map((f) => <div class="card"><b>{f.n}</b><span>{f.t}</span></div>)}
-  </div>
 </section>
 
 <section class="container block two">
@@ -86,18 +94,14 @@ const facts = [
 </script>
 
 <style>
-  .head { padding-block: 2.5rem 1rem; }
-  .kicker { color: var(--gold); font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.8rem; margin: 0 0 0.3rem; }
-  .lead { color: var(--ink-soft); max-width: 62ch; }
-  .countdown { display: flex; gap: 1rem; margin-top: 1.25rem; }
+  .cd-band { padding-block: 1.6rem 0; }
+  .kicker { color: var(--gold); font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.8rem; margin: 0 0 0.5rem; }
+  .countdown { display: flex; flex-wrap: wrap; gap: 1rem; }
   .countdown div { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: 12px; padding: 0.8rem 1.2rem; text-align: center; background: var(--surface); min-width: 84px; }
   .countdown b { display: block; font-family: var(--font-title); font-size: 2rem; color: var(--gold); }
   .countdown span { color: var(--muted); font-size: 0.8rem; }
-  .muted { color: var(--muted); font-size: 0.82rem; }
+  .muted { color: var(--muted); font-size: 0.82rem; margin-top: 0.6rem; }
   .block { margin-top: 2.5rem; }
-  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); gap: 1rem; }
-  .facts b { display: block; font-family: var(--font-title); font-size: 1.5rem; color: var(--gold); }
-  .facts span { color: var(--ink-soft); font-size: 0.85rem; }
   .two { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; padding-bottom: 3rem; }
   .two h2 { font-size: 1.3rem; }
   .reads { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.4rem; }
