@@ -318,10 +318,17 @@ export function localePath(path: string, locale: Locale): string {
  */
 export function withTrailingSlash(pathname: string): string {
   if (!pathname) return '/';
-  if (pathname.endsWith('/')) return pathname;
-  const last = pathname.split('/').pop() ?? '';
-  if (last.includes('.')) return pathname; // file route — no slash
-  return `${pathname}/`;
+  // Split off any query/hash so the slash lands on the PATH, not after a
+  // fragment (e.g. `/contribute#report` → `/contribute/#report`, never
+  // `/contribute#report/` which breaks the anchor and 301-redirects).
+  const i = pathname.search(/[?#]/);
+  const path = i === -1 ? pathname : pathname.slice(0, i);
+  const rest = i === -1 ? '' : pathname.slice(i);
+  if (!path) return `/${rest}`;
+  if (path.endsWith('/')) return `${path}${rest}`;
+  const last = path.split('/').pop() ?? '';
+  if (last.includes('.')) return `${path}${rest}`; // file route — no slash
+  return `${path}/${rest}`;
 }
 
 /** Extract the active locale from an Astro URL pathname. */
