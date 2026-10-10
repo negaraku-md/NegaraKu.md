@@ -1,0 +1,47 @@
+name: Post an event campaign to Facebook
+
+# Manual, deliberate event campaigns (Budget, elections, major rulings) — a phased
+# sequence of posts across the attention curve. See docs/plans/fb-event-campaign.md
+# and scripts/post-campaign-to-facebook.mjs. Separate from the per-publish announcer
+# (facebook.yml) and the backlog drip (facebook-backlog.yml).
+
+on:
+  workflow_dispatch:
+    inputs:
+      campaign:
+        description: 'Campaign id (folder under campaigns/, e.g. budget-2027)'
+        required: true
+      only:
+        description: 'Post only this post id (e.g. explainer). Blank = all due posts.'
+        required: false
+      lang:
+        description: 'Comma-separated langs (e.g. en,ms). Blank = all.'
+        required: false
+      dry_run:
+        description: 'Dry run — log what would be posted, do NOT call the Facebook API'
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Post campaign to Facebook
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          SITE_URL: https://negaraku.md
+          FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: |
+          node scripts/post-campaign-to-facebook.mjs \
+            "${{ github.event.inputs.campaign }}" \
+            ${{ github.event.inputs.only && format('--only {0}', github.event.inputs.only) || '' }} \
+            ${{ github.event.inputs.lang && format('--lang {0}', github.event.inputs.lang) || '' }}
