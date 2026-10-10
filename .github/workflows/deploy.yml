@@ -6,9 +6,12 @@ on:
     # Analytics snapshots are committed by their own scheduled workflows (the
     # Visitors accumulate + the Facebook/Search archive); a change to one alone
     # must not trigger a full site rebuild — each refreshes on the next real
-    # deploy, which tops it up.
+    # deploy, which tops it up. The Facebook campaign crons likewise commit their
+    # sent-manifest (campaigns/**/.sent.json) — campaign copy is never built into
+    # the site, so campaigns/** never needs a rebuild either.
     paths-ignore:
       - 'analytics/**'
+      - 'campaigns/**'
   workflow_dispatch:
     inputs:
       maintenance:

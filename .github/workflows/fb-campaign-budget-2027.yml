@@ -1,0 +1,78 @@
+name: FB campaign — Budget 2027
+
+# Self-contained cron for the Budget 2027 Facebook follow-up series. Each campaign
+# gets its OWN scheduled workflow so its window, cadence and lifetime are explicit
+# and independent. One gated post releases per day across budget week:
+# scripts/post-campaign-to-facebook.mjs drains campaigns/budget-2027/*.json, each
+# post's `notBefore` gates its day, and campaigns/budget-2027/.sent.json (committed
+# back) guarantees no double-posting across runs.
+#
+# The schedule is SCOPED TO THE CAMPAIGN WINDOW (11–14 Oct), so the cron fires only
+# on those four days and then goes dormant on its own — no need to disable it after.
+# (A future October it would wake, find everything in .sent.json, and no-op.)
+#
+# Minute is :37, NOT :00 — GitHub delays or DROPS runs queued at the top of the hour,
+# and :37 also stays clear of the backlog drip's :17 ticks so the two never race on
+# the state-commit push. The gates are 00:00Z (start of the MYT day); firing at 00:37Z
+# (08:37 MYT) is safely AFTER each gate. Committing .sent.json does NOT trigger a
+# deploy (deploy.yml ignores campaigns/**).
+
+on:
+  schedule:
+    - cron: '37 0 11-14 10 *' # 08:37 MYT on 11–14 Oct — one gated post/day
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'Post only this post id (families|workers|smes|announced-vs-law). Blank = all due.'
+        required: false
+      lang:
+        description: 'Comma-separated langs (e.g. en,ms). Blank = all.'
+        required: false
+      dry_run:
+        description: 'Dry run — log what would be posted, do NOT call the Facebook API'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fb-campaign-budget-2027
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+
+      - name: Post campaign to Facebook
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          SITE_URL: https://negaraku.md
+          FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: |
+          node scripts/post-campaign-to-facebook.mjs budget-2027 \
+            ${{ github.event.inputs.only && format('--only {0}', github.event.inputs.only) || '' }} \
+            ${{ github.event.inputs.lang && format('--lang {0}', github.event.inputs.lang) || '' }}
+
+      - name: Commit the campaign sent-manifest if it changed
+        # always() so a sent record is committed even if the poster exits non-zero —
+        # the manifest is the record of what's live and must never be lost.
+        if: ${{ always() && github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add campaigns/budget-2027/.sent.json 2>/dev/null || true
+          if git diff --cached --quiet -- campaigns/budget-2027/.sent.json; then
+            echo ".sent.json unchanged — nothing to commit"
+          else
+            git commit -m "chore(fb): record budget-2027 campaign sends [skip deploy]"
+            git pull --rebase --autostash || true
+            git push
+          fi
