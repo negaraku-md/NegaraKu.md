@@ -43,6 +43,7 @@ export const DATASETS: Record<string, Provenance> = {
       th: 'บริษัทจดทะเบียนในตลาดหลักทรัพย์บูร์ซามาเลเซีย (Bursa Malaysia)',
       vi: 'Các công ty niêm yết trên Bursa Malaysia',
       id: 'Perusahaan tercatat di Bursa Malaysia',
+      ar: 'الشركات المُدرَجة في بورصة ماليزيا (Bursa Malaysia)',
     },
     verification: 'unverified',
     reviewer: null,
@@ -56,6 +57,7 @@ export const DATASETS: Record<string, Provenance> = {
       th: 'ตัวเลขมูลค่าตามราคาตลาดและรายได้เป็นค่าเริ่มต้นโดยประมาณเพื่อการอธิบายเท่านั้น — ยังไม่ได้ตรวจสอบกับบูร์ซามาเลเซีย (Bursa Malaysia) อย่าใช้เป็นพื้นฐานในการตัดสินใจใด ๆ',
       vi: 'Số liệu vốn hóa thị trường và doanh thu là các giá trị khởi tạo gần đúng chỉ nhằm mục đích minh họa — chưa được đối chiếu với Bursa Malaysia. Không dựa vào chúng cho bất kỳ quyết định nào.',
       id: 'Angka kapitalisasi pasar dan pendapatan adalah nilai awal perkiraan untuk tujuan ilustrasi saja — belum diverifikasi terhadap Bursa Malaysia. Jangan jadikan dasar keputusan.',
+      ar: 'أرقام القيمة السوقية والإيرادات هي قيم أولية تقريبية لأغراض التوضيح فقط — ولم يتم التحقق منها بعد مقابل بورصة ماليزيا (Bursa Malaysia). لا تعتمد عليها في اتخاذ أي قرار.',
     },
   },
 };

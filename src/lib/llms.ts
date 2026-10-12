@@ -52,6 +52,11 @@ const INTRO: Record<Locale, string[]> = {
     '> terkurasi dan bersumber, dapat disunting komunitas melalui GitHub, dalam sembilan',
     '> bahasa. Tambahkan `.md` ke URL artikel mana pun untuk Markdown mentah.',
   ],
+  ar: [
+    '> قاعدة معرفة مفتوحة المصدر وملائمة للذكاء الاصطناعي (AI) حول ماليزيا. Markdown',
+    '> منسّق وموثّق المصادر، قابل للتحرير من المجتمع عبر GitHub، بتسع لغات. أضِف `.md` إلى أي',
+    '> رابط مقال للحصول على Markdown الخام. لكل لغة ملف /<lang>/llms.txt خاص بها.',
+  ],
 };
 
 // Build the llmstxt.org-style index for a given language.
@@ -95,6 +100,7 @@ const CORPUS_HEADER: Record<Locale, string> = {
   th: 'ฐานความรู้เกี่ยวกับมาเลเซียแบบโอเพนซอร์ส ใบอนุญาต: CC BY-SA 4.0.',
   vi: 'Cơ sở tri thức mã nguồn mở về Malaysia. Giấy phép: CC BY-SA 4.0.',
   id: 'Basis pengetahuan sumber terbuka tentang Malaysia. Lisensi: CC BY-SA 4.0.',
+  ar: 'قاعدة معرفة مفتوحة المصدر حول ماليزيا. الرخصة: CC BY-SA 4.0.',
 };
 
 export async function buildLlmsFull(locale: Locale): Promise<string> {

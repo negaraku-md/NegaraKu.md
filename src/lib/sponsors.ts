@@ -36,6 +36,7 @@ export const SPONSORS: Record<string, Sponsor> = {
       th: 'ต้องการความช่วยเหลือจากผู้เชี่ยวชาญหรือไม่?',
       vi: 'Cần trợ giúp chuyên nghiệp?',
       id: 'Perlu bantuan profesional?',
+      ar: 'بحاجة إلى مساعدة احترافية؟',
     },
     blurb: {
       ms: ' menyediakan perkhidmatan penubuhan syarikat, setiausaha syarikat, perakaunan, audit dan cukai di Malaysia.',
@@ -47,8 +48,9 @@ export const SPONSORS: Record<string, Sponsor> = {
       th: ' ให้บริการจดทะเบียนบริษัท เลขานุการบริษัท บัญชี ตรวจสอบบัญชี และภาษีในมาเลเซีย.',
       vi: ' cung cấp dịch vụ thành lập công ty, thư ký công ty, kế toán, kiểm toán và thuế tại Malaysia.',
       id: ' menyediakan layanan pendirian perusahaan, sekretaris perusahaan, akuntansi, audit, dan pajak di Malaysia.',
+      ar: ' يقدّم خدمات تأسيس الشركات وأمانة سر الشركات والمحاسبة والتدقيق والضرائب في ماليزيا.',
     },
-    cta: { ms: 'Ketahui lebih lanjut', en: 'Learn more', zh: '了解更多', ta: 'மேலும் அறிக', ja: '詳しく見る', ko: '자세히 보기', th: 'เรียนรู้เพิ่มเติม', vi: 'Tìm hiểu thêm', id: 'Pelajari lebih lanjut' },
+    cta: { ms: 'Ketahui lebih lanjut', en: 'Learn more', zh: '了解更多', ta: 'மேலும் அறிக', ja: '詳しく見る', ko: '자세히 보기', th: 'เรียนรู้เพิ่มเติม', vi: 'Tìm hiểu thêm', id: 'Pelajari lebih lanjut', ar: 'اعرف المزيد' },
   },
 };
 
