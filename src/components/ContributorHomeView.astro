@@ -26,35 +26,35 @@ type Section = { icon: string; title: string; links: Link[] };
 const sections: Section[] = [
   {
     icon: '👤',
-    title: L('Kerja saya', 'My work', '我的工作', 'எனது பணி', '自分の作業', '내 작업', 'งานของฉัน', 'Việc của tôi', 'Pekerjaan saya'),
+    title: L('Kerja saya', 'My work', '我的工作', 'எனது பணி', '自分の作業', '내 작업', 'งานของฉัน', 'Việc của tôi', 'Pekerjaan saya', 'عملي'),
     links: [
-      { label: L('Pull request saya', 'My pull requests', '我的 pull request', 'எனது pull request-கள்', '自分の pull request', '내 pull request', 'pull request ของฉัน', 'Pull request của tôi', 'Pull request saya'), href: ghPulls('is:pr author:@me'), external: true },
-      { label: L('Ditugaskan kepada saya', 'Assigned to me', '分配给我的', 'எனக்கு ஒதுக்கப்பட்டவை', '自分の担当', '나에게 할당됨', 'ที่มอบหมายให้ฉัน', 'Được giao cho tôi', 'Ditugaskan ke saya'), href: ghIssues('is:issue is:open assignee:@me'), external: true },
-      { label: L('Semakan diminta', 'Review requested', '请求我审阅', 'மதிப்பாய்வு கோரப்பட்டது', 'レビュー依頼', '검토 요청됨', 'ถูกขอให้รีวิว', 'Được yêu cầu duyệt', 'Diminta meninjau'), href: ghPulls('is:pr is:open review-requested:@me'), external: true },
+      { label: L('Pull request saya', 'My pull requests', '我的 pull request', 'எனது pull request-கள்', '自分の pull request', '내 pull request', 'pull request ของฉัน', 'Pull request của tôi', 'Pull request saya', 'طلبات pull request الخاصة بي'), href: ghPulls('is:pr author:@me'), external: true },
+      { label: L('Ditugaskan kepada saya', 'Assigned to me', '分配给我的', 'எனக்கு ஒதுக்கப்பட்டவை', '自分の担当', '나에게 할당됨', 'ที่มอบหมายให้ฉัน', 'Được giao cho tôi', 'Ditugaskan ke saya', 'المُسندة إليّ'), href: ghIssues('is:issue is:open assignee:@me'), external: true },
+      { label: L('Semakan diminta', 'Review requested', '请求我审阅', 'மதிப்பாய்வு கோரப்பட்டது', 'レビュー依頼', '검토 요청됨', 'ถูกขอให้รีวิว', 'Được yêu cầu duyệt', 'Diminta meninjau', 'طُلبت مني المراجعة'), href: ghPulls('is:pr is:open review-requested:@me'), external: true },
     ],
   },
   {
     icon: '🧭',
-    title: L('Cari tugas', 'Find a task', '寻找任务', 'ஒரு பணியைக் கண்டறி', 'タスクを探す', '작업 찾기', 'หางานทำ', 'Tìm một việc', 'Cari tugas'),
+    title: L('Cari tugas', 'Find a task', '寻找任务', 'ஒரு பணியைக் கண்டறி', 'タスクを探す', '작업 찾기', 'หางานทำ', 'Tìm một việc', 'Cari tugas', 'ابحث عن مهمة'),
     links: [
-      { label: L('Isu pertama yang baik', 'Good first issues', '适合新手的 issue', 'தொடக்கநிலை issue-கள்', '初心者向け issue', '입문용 이슈', 'issue สำหรับมือใหม่', 'Issue cho người mới', 'Issue untuk pemula'), href: ghIssues('is:issue is:open label:good-first-issue'), external: true },
-      { label: L('Permintaan artikel', 'Article requests', '文章请求', 'கட்டுரை கோரிக்கைகள்', '記事リクエスト', '기사 요청', 'คำขอบทความ', 'Yêu cầu bài viết', 'Permintaan artikel'), href: ghIssues('is:issue is:open label:article-request'), external: true },
-      { label: L('Jurang terjemahan', 'Translation gaps', '翻译缺口', 'மொழிபெயர்ப்பு இடைவெளிகள்', '翻訳の欠落', '번역 누락', 'ช่องว่างการแปล', 'Thiếu bản dịch', 'Celah terjemahan'), href: ghIssues('is:issue is:open label:translation-issue'), external: true },
+      { label: L('Isu pertama yang baik', 'Good first issues', '适合新手的 issue', 'தொடக்கநிலை issue-கள்', '初心者向け issue', '입문용 이슈', 'issue สำหรับมือใหม่', 'Issue cho người mới', 'Issue untuk pemula', 'issues مناسبة للمبتدئين'), href: ghIssues('is:issue is:open label:good-first-issue'), external: true },
+      { label: L('Permintaan artikel', 'Article requests', '文章请求', 'கட்டுரை கோரிக்கைகள்', '記事リクエスト', '기사 요청', 'คำขอบทความ', 'Yêu cầu bài viết', 'Permintaan artikel', 'طلبات المقالات'), href: ghIssues('is:issue is:open label:article-request'), external: true },
+      { label: L('Jurang terjemahan', 'Translation gaps', '翻译缺口', 'மொழிபெயர்ப்பு இடைவெளிகள்', '翻訳の欠落', '번역 누락', 'ช่องว่างการแปล', 'Thiếu bản dịch', 'Celah terjemahan', 'فجوات الترجمة'), href: ghIssues('is:issue is:open label:translation-issue'), external: true },
       { key: 'nav.worklist', href: '/worklist' },
     ],
   },
   {
     icon: '⚠️',
-    title: L('Perlu perhatian', 'Needs attention', '需要关注', 'கவனம் தேவை', '要対応', '주의 필요', 'ต้องให้ความสนใจ', 'Cần chú ý', 'Perlu perhatian'),
+    title: L('Perlu perhatian', 'Needs attention', '需要关注', 'கவனம் தேவை', '要対応', '주의 필요', 'ต้องให้ความสนใจ', 'Cần chú ý', 'Perlu perhatian', 'بحاجة إلى اهتمام'),
     links: [
-      { label: L('Pull request untuk disemak', 'Pull requests to review', '待审阅的 pull request', 'மதிப்பாய்வு செய்ய வேண்டிய pull request-கள்', 'レビュー待ちの pull request', '검토할 pull request', 'pull request ที่ต้องรีวิว', 'Pull request cần duyệt', 'Pull request untuk ditinjau'), href: ghPulls('is:pr is:open review:required'), external: true },
-      { label: L('Isu artikel terbuka', 'Open article issues', '未关闭的文章问题', 'திறந்த கட்டுரை issue-கள்', '未解決の記事 issue', '열린 기사 이슈', 'issue บทความที่เปิดอยู่', 'Issue bài viết đang mở', 'Issue artikel yang terbuka'), href: ghIssues('is:issue is:open label:article-issue'), external: true },
-      { label: L('Status bina & lancar', 'Build & deploy status', '构建与部署状态', 'உருவாக்கம் & வெளியீட்டு நிலை', 'ビルドとデプロイ状況', '빌드 및 배포 상태', 'สถานะการ build และ deploy', 'Trạng thái build & deploy', 'Status build & deploy'), href: `${REPO}/actions`, external: true },
+      { label: L('Pull request untuk disemak', 'Pull requests to review', '待审阅的 pull request', 'மதிப்பாய்வு செய்ய வேண்டிய pull request-கள்', 'レビュー待ちの pull request', '검토할 pull request', 'pull request ที่ต้องรีวิว', 'Pull request cần duyệt', 'Pull request untuk ditinjau', 'طلبات pull request للمراجعة'), href: ghPulls('is:pr is:open review:required'), external: true },
+      { label: L('Isu artikel terbuka', 'Open article issues', '未关闭的文章问题', 'திறந்த கட்டுரை issue-கள்', '未解決の記事 issue', '열린 기사 이슈', 'issue บทความที่เปิดอยู่', 'Issue bài viết đang mở', 'Issue artikel yang terbuka', 'issues المقالات المفتوحة'), href: ghIssues('is:issue is:open label:article-issue'), external: true },
+      { label: L('Status bina & lancar', 'Build & deploy status', '构建与部署状态', 'உருவாக்கம் & வெளியீட்டு நிலை', 'ビルドとデプロイ状況', '빌드 및 배포 상태', 'สถานะการ build และ deploy', 'Trạng thái build & deploy', 'Status build & deploy', 'حالة build & deploy'), href: `${REPO}/actions`, external: true },
     ],
   },
   {
     icon: '✍️',
-    title: L('Mula menyumbang', 'Start contributing', '开始贡献', 'பங்களிக்கத் தொடங்கு', '貢献を始める', '기여 시작', 'เริ่มมีส่วนร่วม', 'Bắt đầu đóng góp', 'Mulai berkontribusi'),
+    title: L('Mula menyumbang', 'Start contributing', '开始贡献', 'பங்களிக்கத் தொடங்கு', '貢献を始める', '기여 시작', 'เริ่มมีส่วนร่วม', 'Bắt đầu đóng góp', 'Mulai berkontribusi', 'ابدأ المساهمة'),
     links: [
       { key: 'nav.reportIssue', href: '/contribute#report' },
       { key: 'nav.suggest', href: '/contribute#suggest' },
@@ -64,7 +64,7 @@ const sections: Section[] = [
   },
   {
     icon: '📊',
-    title: L('Kesihatan projek', 'Project health', '项目健康', 'திட்ட நலன்', 'プロジェクトの状態', '프로젝트 상태', 'สุขภาพโครงการ', 'Tình trạng dự án', 'Kesehatan proyek'),
+    title: L('Kesihatan projek', 'Project health', '项目健康', 'திட்ட நலன்', 'プロジェクトの状態', '프로젝트 상태', 'สุขภาพโครงการ', 'Tình trạng dự án', 'Kesehatan proyek', 'صحة المشروع'),
     links: [
       { key: 'nav.dashboard', href: '/dashboard' },
       { key: 'nav.analytics', href: '/analytics' },
@@ -73,26 +73,26 @@ const sections: Section[] = [
   },
   {
     icon: '📚',
-    title: L('Panduan & sokongan', 'Guides & support', '指南与支持', 'வழிகாட்டிகள் & ஆதரவு', 'ガイドとサポート', '가이드 및 지원', 'คู่มือและการสนับสนุน', 'Hướng dẫn & hỗ trợ', 'Panduan & dukungan'),
+    title: L('Panduan & sokongan', 'Guides & support', '指南与支持', 'வழிகாட்டிகள் & ஆதரவு', 'ガイドとサポート', '가이드 및 지원', 'คู่มือและการสนับสนุน', 'Hướng dẫn & hỗ trợ', 'Panduan & dukungan', 'الأدلة & الدعم'),
     links: [
       { key: 'cnav.guide', href: '/contributor-guide' },
       { key: 'nav.roles', href: '/roles' },
-      { label: L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南', 'முழுப் பங்களிப்பு வழிகாட்டி', '貢献ガイド全文', '전체 기여 가이드', 'คู่มือการมีส่วนร่วมฉบับเต็ม', 'Hướng dẫn đóng góp đầy đủ', 'Panduan kontribusi lengkap'), href: `${REPO}/blob/main/CONTRIBUTING.md`, external: true },
-      { label: L('Baru dengan GitHub?', 'New to GitHub?', 'GitHub 新手？', 'GitHub-இல் புதியவரா?', 'GitHub は初めて？', 'GitHub이 처음?', 'เพิ่งใช้ GitHub?', 'Mới dùng GitHub?', 'Baru di GitHub?'), href: 'https://skills.github.com/', external: true },
+      { label: L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南', 'முழுப் பங்களிப்பு வழிகாட்டி', '貢献ガイド全文', '전체 기여 가이드', 'คู่มือการมีส่วนร่วมฉบับเต็ม', 'Hướng dẫn đóng góp đầy đủ', 'Panduan kontribusi lengkap', 'دليل المساهمة الكامل'), href: `${REPO}/blob/main/CONTRIBUTING.md`, external: true },
+      { label: L('Baru dengan GitHub?', 'New to GitHub?', 'GitHub 新手？', 'GitHub-இல் புதியவரா?', 'GitHub は初めて？', 'GitHub이 처음?', 'เพิ่งใช้ GitHub?', 'Mới dùng GitHub?', 'Baru di GitHub?', 'جديد على GitHub؟'), href: 'https://skills.github.com/', external: true },
     ],
   },
 ];
 
 // Hero text (reused in the breadcrumb). The workspace now uses the site's standard
 // PageHero — same hero + "at a glance" stat cards as every other non-article page.
-const wsTitle = L('Ruang kerja penyumbang', 'Contributor workspace', '贡献者工作区', 'பங்களிப்பாளர் பணியிடம்', '貢献者ワークスペース', '기여자 작업 공간', 'พื้นที่ทำงานของผู้มีส่วนร่วม', 'Không gian làm việc của người đóng góp', 'Ruang kerja kontributor');
-const wsDesc = L('Pelancar anda untuk sumbangan, semakan, dan kerja kitaran hayat.', 'Your launchpad for contributions, reviews, and lifecycle work.', '你进行贡献、审阅与生命周期工作的启动台。', 'பங்களிப்புகள், மதிப்பாய்வுகள், மற்றும் வாழ்க்கைச் சுழற்சி பணிக்கான உங்கள் தொடக்க மேடை.', '貢献・レビュー・ライフサイクル作業の出発点です。', '기여, 검토, 라이프사이클 작업을 위한 출발점입니다.', 'จุดเริ่มต้นสำหรับการมีส่วนร่วม การรีวิว และงานวงจรชีวิต', 'Bệ phóng cho đóng góp, duyệt, và công việc vòng đời.', 'Landasan Anda untuk kontribusi, tinjauan, dan pekerjaan siklus hidup.');
+const wsTitle = L('Ruang kerja penyumbang', 'Contributor workspace', '贡献者工作区', 'பங்களிப்பாளர் பணியிடம்', '貢献者ワークスペース', '기여자 작업 공간', 'พื้นที่ทำงานของผู้มีส่วนร่วม', 'Không gian làm việc của người đóng góp', 'Ruang kerja kontributor', 'مساحة عمل المساهم');
+const wsDesc = L('Pelancar anda untuk sumbangan, semakan, dan kerja kitaran hayat.', 'Your launchpad for contributions, reviews, and lifecycle work.', '你进行贡献、审阅与生命周期工作的启动台。', 'பங்களிப்புகள், மதிப்பாய்வுகள், மற்றும் வாழ்க்கைச் சுழற்சி பணிக்கான உங்கள் தொடக்க மேடை.', '貢献・レビュー・ライフサイクル作業の出発点です。', '기여, 검토, 라이프사이클 작업을 위한 출발점입니다.', 'จุดเริ่มต้นสำหรับการมีส่วนร่วม การรีวิว และงานวงจรชีวิต', 'Bệ phóng cho đóng góp, duyệt, và công việc vòng đời.', 'Landasan Anda untuk kontribusi, tinjauan, dan pekerjaan siklus hidup.', 'منصّة انطلاقك للمساهمات والمراجعات وأعمال دورة الحياة.');
 // Right-side cards: the project "at a glance" (articles · languages · categories ·
 // pillars) — same source PageHero used, now in the home hero's card treatment.
 const articleCount = (await articlesForLocale(locale)).length;
 const glance = kbGlanceStats(locale, articleCount);
 const glanceLabel = KB_GLANCE_LABEL[locale];
-const findTask = L('Cari tugas', 'Find a task', '寻找任务', 'ஒரு பணியைக் கண்டறி', 'タスクを探す', '작업 찾기', 'หางานทำ', 'Tìm một việc', 'Cari tugas');
+const findTask = L('Cari tugas', 'Find a task', '寻找任务', 'ஒரு பணியைக் கண்டறி', 'タスクを探す', '작업 찾기', 'หางานทำ', 'Tìm một việc', 'Cari tugas', 'ابحث عن مهمة');
 ---
 
 <section class="cv-home" data-pagefind-ignore>

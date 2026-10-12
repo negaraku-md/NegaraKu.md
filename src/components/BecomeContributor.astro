@@ -16,7 +16,7 @@ const issueUrl = `${REPO}/issues/new?labels=content&title=${encodeURIComponent('
 <section class="become container block" data-pre-contributor data-pagefind-ignore>
   <div class="become-card">
     <div class="become-text">
-      <b class="become-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md', 'NegaraKu.md-ஐ கட்டியெழுப்ப உதவுங்கள்', 'NegaraKu.md の構築を手伝う', 'NegaraKu.md 구축을 도와주세요', 'ช่วยกันสร้าง NegaraKu.md', 'Giúp xây dựng NegaraKu.md', 'Bantu bangun NegaraKu.md')}</b>
+      <b class="become-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md', 'NegaraKu.md-ஐ கட்டியெழுப்ப உதவுங்கள்', 'NegaraKu.md の構築を手伝う', 'NegaraKu.md 구축을 도와주세요', 'ช่วยกันสร้าง NegaraKu.md', 'Giúp xây dựng NegaraKu.md', 'Bantu bangun NegaraKu.md', 'ساعد في بناء NegaraKu.md')}</b>
       <p>{L(
         'Sesiapa boleh melaporkan isu, mencadangkan topik, atau menghantar artikel melalui pull request. Penyelenggara meluluskan perubahan sebelum ia disiarkan; akses repositori terus diberikan secara berasingan.',
         'Anyone can report an issue, suggest a topic, or submit an article via a pull request. Maintainers approve changes before they go live; direct repository access is granted separately.',
@@ -27,12 +27,13 @@ const issueUrl = `${REPO}/issues/new?labels=content&title=${encodeURIComponent('
         'ใครก็รายงานปัญหา เสนอหัวข้อ หรือส่งบทความผ่าน pull request ได้ ผู้ดูแลจะอนุมัติการเปลี่ยนแปลงก่อนเผยแพร่ สิทธิ์เข้าถึงที่เก็บโดยตรงมอบให้แยกต่างหาก',
         'Bất kỳ ai cũng có thể báo lỗi, đề xuất chủ đề, hoặc gửi một bài viết qua pull request. Người bảo trì phê duyệt thay đổi trước khi công khai; quyền truy cập kho trực tiếp được cấp riêng.',
         'Siapa saja bisa melaporkan masalah, mengusulkan topik, atau mengirim artikel melalui pull request. Pengelola menyetujui perubahan sebelum tayang; akses repositori langsung diberikan secara terpisah.',
+        'يمكن لأي شخص الإبلاغ عن مشكلة، أو اقتراح موضوع، أو إرسال مقال عبر pull request. يعتمد المشرفون التغييرات قبل نشرها؛ ويُمنح الوصول المباشر إلى المستودع بشكل منفصل.',
       )}</p>
     </div>
     <div class="become-actions">
-      <a class="btn btn-primary" href={issueUrl} target="_blank" rel="noopener">{L('Laporkan isu / cadangkan topik', 'Report an issue / suggest a topic', '报告问题 / 建议主题', 'சிக்கலைப் புகாரளி / தலைப்பைப் பரிந்துரை', '問題を報告 / トピックを提案', '문제 신고 / 주제 제안', 'รายงานปัญหา / เสนอหัวข้อ', 'Báo lỗi / đề xuất chủ đề', 'Laporkan masalah / usulkan topik')} ↗</a>
-      <a class="btn btn-ghost" href={REPO} rel="noopener">★ {L('Bintangkan', 'Star on GitHub', '点星', 'நட்சத்திரமிடு', 'スター', '별표', 'ให้ดาว', 'Gắn sao', 'Beri bintang')}</a>
-      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Cara menyumbang', 'How to contribute', '如何贡献', 'எப்படி பங்களிப்பது', '貢献の方法', '기여하는 방법', 'วิธีการมีส่วนร่วม', 'Cách đóng góp', 'Cara berkontribusi')} →</a>
+      <a class="btn btn-primary" href={issueUrl} target="_blank" rel="noopener">{L('Laporkan isu / cadangkan topik', 'Report an issue / suggest a topic', '报告问题 / 建议主题', 'சிக்கலைப் புகாரளி / தலைப்பைப் பரிந்துரை', '問題を報告 / トピックを提案', '문제 신고 / 주제 제안', 'รายงานปัญหา / เสนอหัวข้อ', 'Báo lỗi / đề xuất chủ đề', 'Laporkan masalah / usulkan topik', 'أبلغ عن مشكلة / اقترح موضوعاً')} ↗</a>
+      <a class="btn btn-ghost" href={REPO} rel="noopener">★ {L('Bintangkan', 'Star on GitHub', '点星', 'நட்சத்திரமிடு', 'スター', '별표', 'ให้ดาว', 'Gắn sao', 'Beri bintang', 'أضف نجمة على GitHub')}</a>
+      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Cara menyumbang', 'How to contribute', '如何贡献', 'எப்படி பங்களிப்பது', '貢献の方法', '기여하는 방법', 'วิธีการมีส่วนร่วม', 'Cách đóng góp', 'Cara berkontribusi', 'كيفية المساهمة')} →</a>
     </div>
   </div>
 </section>

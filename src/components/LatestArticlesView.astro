@@ -40,7 +40,7 @@ const stats = await siteStats(locale);
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية'), href: localePath('/', locale) },
     { label: t('nav.latest', locale) },
   ]}
   title={t('nav.latest', locale)}
@@ -53,6 +53,7 @@ const stats = await siteStats(locale);
     '가장 최근에 업데이트된 기사(최대 100개)를 날짜별로 묶어 보여줍니다.',
     'บทความที่ปรับปรุงล่าสุด (สูงสุด 100 บทความ) จัดกลุ่มตามวันที่.', 'Các bài viết được cập nhật gần đây nhất (tối đa 100), nhóm theo ngày.',
     'Pembaruan terbaru — artikel yang paling baru diperbarui (hingga 100), dikelompokkan menurut tanggal.',
+    'أحدث المقالات تحديثاً (حتى 100)، مجمَّعة حسب التاريخ.',
   )}
   stats={[stat.pillars(stats.sections, locale), stat.categories(stats.categories, locale), stat.subcategories(stats.topics, locale), stat.topics(stats.articles, locale)]}
 />

@@ -30,10 +30,10 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
-    { label: L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด', 'Tất cả bài viết', 'Semua artikel') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية'), href: localePath('/', locale) },
+    { label: L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด', 'Tất cả bài viết', 'Semua artikel', 'جميع المقالات') },
   ]}
-  title={L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด', 'Tất cả bài viết', 'Semua artikel')}
+  title={L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด', 'Tất cả bài viết', 'Semua artikel', 'جميع المقالات')}
   desc={L(
     'Semak imbas keseluruhan pangkalan pengetahuan — isih, tapis dan cari.',
     'Browse the whole knowledge base — sort, filter and search.',
@@ -43,6 +43,7 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
     '지식 베이스 전체를 둘러보세요 — 정렬, 필터링, 검색이 가능합니다.',
     'เรียกดูฐานความรู้ทั้งหมด — จัดเรียง กรอง และค้นหา.', 'Duyệt toàn bộ cơ sở kiến thức — sắp xếp, lọc và tìm kiếm.',
     'Jelajahi seluruh basis pengetahuan — urutkan, filter, dan cari.',
+    'تصفَّح قاعدة المعرفة بالكامل — رتِّب وصفِّ وابحث.',
   )}
   stats={[stat.pillars(secCount, locale), stat.categories(catCount, locale), stat.subcategories(topCount, locale), stat.topics(canonical.length, locale)]}
 />

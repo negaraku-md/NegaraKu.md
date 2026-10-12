@@ -45,7 +45,7 @@ const stats = await siteStats(locale);
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية'), href: localePath('/', locale) },
     { label: t('nav.trending', locale) },
   ]}
   title={t('nav.trending', locale)}
@@ -59,6 +59,7 @@ const stats = await siteStats(locale);
     'บทความที่มีผู้อ่านมากที่สุด — จัดอันดับตามการเข้าชมของผู้อ่าน โดยแสดงบทความล่าสุดก่อนในระหว่างที่ข้อมูลวิเคราะห์ยังกำลังสะสม',
     'Các bài viết được đọc nhiều nhất — xếp hạng theo lượt truy cập của độc giả, ưu tiên bài mới nhất trong khi dữ liệu phân tích vẫn đang tích lũy.',
     'Artikel yang paling banyak dibaca — diurutkan berdasarkan kunjungan pembaca, dengan yang terbaru diutamakan selama data masih terkumpul.',
+    'المقالات الأكثر قراءة — مرتبة حسب زيارات القراء، مع عرض الأحدث أولاً بينما لا تزال بيانات التحليلات قيد التجميع.',
   )}
   stats={[stat.pillars(stats.sections, locale), stat.categories(stats.categories, locale), stat.subcategories(stats.topics, locale), stat.topics(stats.articles, locale)]}
 />
@@ -77,6 +78,7 @@ const stats = await siteStats(locale);
           'ข้อมูลวิเคราะห์ผู้อ่านยังกำลังสะสม ดังนั้นในตอนนี้รายการนี้จึงแสดงบทความที่อัปเดตล่าสุด — ยังไม่ใช่การจัดอันดับความนิยม',
           'Dữ liệu phân tích độc giả vẫn đang tích lũy, nên hiện tại danh sách này hiển thị các bài viết được cập nhật gần đây nhất — chưa phải bảng xếp hạng mức độ phổ biến.',
           'Analitik pembaca masih terkumpul, jadi untuk saat ini daftar ini menampilkan artikel yang paling baru diperbarui — bukan peringkat popularitas.',
+          'لا تزال بيانات تحليلات القراء قيد التجميع، لذا تعرض هذه القائمة حالياً المقالات الأحدث تحديثاً — وليست ترتيباً حسب الشعبية بعد.',
         )
       : L(
           'Disusun mengikut lawatan pembaca dan dikemas kini setiap hari. Artikel yang belum dijejak disusun mengikut kemas kini terbaharu, jadi senarai ini terus terisi apabila data bertambah.',
@@ -88,6 +90,7 @@ const stats = await siteStats(locale);
           'จัดอันดับตามการเข้าชมของผู้อ่านและอัปเดตทุกวัน บทความที่ยังไม่ได้ติดตามจะเรียงตามการอัปเดตล่าสุด ดังนั้นรายการจะเติมเต็มขึ้นเมื่อข้อมูลวิเคราะห์เพิ่มขึ้น',
           'Xếp hạng theo lượt truy cập của độc giả và được làm mới hằng ngày. Các bài viết chưa được theo dõi sẽ sắp xếp theo lần cập nhật gần nhất, nên danh sách sẽ đầy dần khi dữ liệu phân tích tăng lên.',
           'Diurutkan berdasarkan kunjungan pembaca dan diperbarui setiap hari. Artikel yang belum dilacak diurutkan berdasarkan pembaruan terbaru, jadi daftar ini terus terisi seiring bertambahnya data.',
+          'مرتبة حسب زيارات القراء ومحدَّثة يومياً. المقالات التي لم تُتتبَّع بعد مرتبة حسب أحدث تحديث، فتمتلئ القائمة مع نمو بيانات التحليلات.',
         )}
   </p>
 </section>

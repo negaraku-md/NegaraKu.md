@@ -29,16 +29,17 @@ const aiPrompt = L(
   `ใช้ ${absTxt} เป็นดัชนีความรู้เกี่ยวกับมาเลเซียที่คัดสรรและอ้างอิงแหล่งที่มา เพิ่ม \`.md\` ต่อท้าย URL บทความใดก็ได้เพื่อรับ Markdown ดิบ เนื้อหาอยู่ภายใต้ CC BY-SA 4.0`,
   `Dùng ${absTxt} làm chỉ mục tri thức được tuyển chọn, trích dẫn nguồn về Malaysia. Thêm \`.md\` vào bất kỳ URL bài viết nào để lấy Markdown thô. Nội dung theo CC BY-SA 4.0.`,
   `Gunakan ${absTxt} sebagai indeks pengetahuan terkurasi dan bersumber tentang Malaysia. Tambahkan \`.md\` ke URL artikel mana pun untuk Markdown mentah. Konten di bawah CC BY-SA 4.0.`,
+  `استخدم ${absTxt} كفهرس معرفي منسَّق وموثَّق المصادر عن ماليزيا. أضِف \`.md\` إلى أي عنوان URL لمقالة للحصول على Markdown الخام. المحتوى مرخَّص بموجب CC BY-SA 4.0.`,
 );
 
 const ui = {
-  copyIndex: L('Salin indeks', 'Copy index', '复制索引', 'சுட்டியை நகலெடு', 'インデックスをコピー', '색인 복사', 'คัดลอกดัชนี', 'Sao chép chỉ mục', 'Salin indeks'),
-  copyPrompt: L('Salin arahan AI', 'Copy AI prompt', '复制 AI 指令', 'AI அறிவுறுத்தலை நகலெடு', 'AI プロンプトをコピー', 'AI 프롬프트 복사', 'คัดลอกคำสั่ง AI', 'Sao chép lời nhắc AI', 'Salin perintah AI'),
-  download: L('Muat turun .txt', 'Download .txt', '下载 .txt', '.txt பதிவிறக்கு', '.txt をダウンロード', '.txt 다운로드', 'ดาวน์โหลด .txt', 'Tải .txt', 'Unduh .txt'),
-  openRaw: L('Buka mentah', 'Open raw', '打开原文', 'மூலத்தைத் திற', '生データを開く', '원본 열기', 'เปิดต้นฉบับ', 'Mở bản thô', 'Buka mentah'),
-  copied: L('Disalin!', 'Copied!', '已复制！', 'நகலெடுக்கப்பட்டது!', 'コピーしました！', '복사됨!', 'คัดลอกแล้ว!', 'Đã sao chép!', 'Tersalin!'),
-  previewTitle: L('Indeks (llms.txt)', 'Index (llms.txt)', '索引 (llms.txt)', 'சுட்டி (llms.txt)', 'インデックス (llms.txt)', '색인 (llms.txt)', 'ดัชนี (llms.txt)', 'Chỉ mục (llms.txt)', 'Indeks (llms.txt)'),
-  fullTitle: L('Korpus penuh (llms-full.txt)', 'Full corpus (llms-full.txt)', '完整语料 (llms-full.txt)', 'முழு கார்பஸ் (llms-full.txt)', '全文コーパス (llms-full.txt)', '전체 코퍼스 (llms-full.txt)', 'คลังข้อความเต็ม (llms-full.txt)', 'Toàn bộ kho văn bản (llms-full.txt)', 'Korpus lengkap (llms-full.txt)'),
+  copyIndex: L('Salin indeks', 'Copy index', '复制索引', 'சுட்டியை நகலெடு', 'インデックスをコピー', '색인 복사', 'คัดลอกดัชนี', 'Sao chép chỉ mục', 'Salin indeks', 'نسخ الفهرس'),
+  copyPrompt: L('Salin arahan AI', 'Copy AI prompt', '复制 AI 指令', 'AI அறிவுறுத்தலை நகலெடு', 'AI プロンプトをコピー', 'AI 프롬프트 복사', 'คัดลอกคำสั่ง AI', 'Sao chép lời nhắc AI', 'Salin perintah AI', 'نسخ موجّه AI'),
+  download: L('Muat turun .txt', 'Download .txt', '下载 .txt', '.txt பதிவிறக்கு', '.txt をダウンロード', '.txt 다운로드', 'ดาวน์โหลด .txt', 'Tải .txt', 'Unduh .txt', 'تنزيل .txt'),
+  openRaw: L('Buka mentah', 'Open raw', '打开原文', 'மூலத்தைத் திற', '生データを開く', '원본 열기', 'เปิดต้นฉบับ', 'Mở bản thô', 'Buka mentah', 'فتح الخام'),
+  copied: L('Disalin!', 'Copied!', '已复制！', 'நகலெடுக்கப்பட்டது!', 'コピーしました！', '복사됨!', 'คัดลอกแล้ว!', 'Đã sao chép!', 'Tersalin!', 'تم النسخ!'),
+  previewTitle: L('Indeks (llms.txt)', 'Index (llms.txt)', '索引 (llms.txt)', 'சுட்டி (llms.txt)', 'インデックス (llms.txt)', '색인 (llms.txt)', 'ดัชนี (llms.txt)', 'Chỉ mục (llms.txt)', 'Indeks (llms.txt)', 'الفهرس (llms.txt)'),
+  fullTitle: L('Korpus penuh (llms-full.txt)', 'Full corpus (llms-full.txt)', '完整语料 (llms-full.txt)', 'முழு கார்பஸ் (llms-full.txt)', '全文コーパス (llms-full.txt)', '전체 코퍼스 (llms-full.txt)', 'คลังข้อความเต็ม (llms-full.txt)', 'Toàn bộ kho văn bản (llms-full.txt)', 'Korpus lengkap (llms-full.txt)', 'المتن الكامل (llms-full.txt)'),
   fullNote: L(
     'Setiap artikel digabungkan sebagai satu fail Markdown — terlalu besar untuk pratonton di sini.',
     'Every article concatenated into one Markdown file — too large to preview here.',
@@ -49,6 +50,7 @@ const ui = {
     'รวมทุกบทความไว้ในไฟล์ Markdown เดียว — ใหญ่เกินกว่าจะแสดงตัวอย่างที่นี่',
     'Mọi bài viết được nối thành một tệp Markdown — quá lớn để xem trước tại đây.',
     'Setiap artikel digabungkan menjadi satu berkas Markdown — terlalu besar untuk pratinjau di sini.',
+    'كل المقالات مدمجة في ملف Markdown واحد — أكبر من أن يُعرَض هنا.',
   ),
 };
 ---
@@ -56,10 +58,10 @@ const ui = {
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
-    { label: L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الرئيسية'), href: localePath('/', locale) },
+    { label: L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI', 'من أجل AI') },
   ]}
-  title={L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI')}
+  title={L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI', 'من أجل AI')}
   desc={L(
     'Indeks mesra-AI untuk NegaraKu.md — mengikut konvensyen llms.txt. Berikannya kepada mana-mana pembantu AI, atau tambah `.md` pada mana-mana URL artikel untuk Markdown mentah.',
     'An AI-friendly index for NegaraKu.md — following the llms.txt convention. Hand it to any AI assistant, or append `.md` to any article URL for raw Markdown.',
@@ -70,6 +72,7 @@ const ui = {
     'ดัชนีที่เป็นมิตรกับ AI สำหรับ NegaraKu.md — เป็นไปตามข้อตกลง llms.txt มอบให้กับผู้ช่วย AI ใด ๆ หรือเพิ่ม `.md` ต่อท้าย URL บทความเพื่อรับ Markdown ดิบ',
     'Một chỉ mục thân thiện với AI cho NegaraKu.md — theo quy ước llms.txt. Đưa cho bất kỳ trợ lý AI nào, hoặc thêm `.md` vào URL bài viết để lấy Markdown thô.',
     'Indeks ramah-AI untuk NegaraKu.md — mengikuti konvensi llms.txt. Berikan ke asisten AI mana pun, atau tambahkan `.md` ke URL artikel mana pun untuk Markdown mentah.',
+    'فهرس ملائم للـ AI لموقع NegaraKu.md — يتبع اصطلاح llms.txt. قدّمه إلى أي مساعد AI، أو أضِف `.md` إلى أي عنوان URL لمقالة للحصول على Markdown الخام.',
   )}
 />
 

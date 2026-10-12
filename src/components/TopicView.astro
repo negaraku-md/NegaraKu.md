@@ -36,13 +36,13 @@ const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subc
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية'), href: localePath('/', locale) },
     ...(pillarDef ? [{ label: loc(pillarDef.name, locale), href: localePath(`/${pillar}`, locale) }] : []),
     { label: loc(cat.name, locale), href: localePath(`/${categoryId}`, locale) },
     { label },
   ]}
   title={label}
-  desc={L(`Setiap artikel dalam ${label}.`, `Every article in ${label}.`, `${label}的全部文章。`, `${label} பிரிவில் உள்ள ஒவ்வொரு கட்டுரையும்.`, `${label}のすべての記事。`, `${label}의 모든 기사.`, `บทความทั้งหมดใน${label}`, `Mọi bài viết trong ${label}.`, `Setiap artikel dalam ${label}.`)}
+  desc={L(`Setiap artikel dalam ${label}.`, `Every article in ${label}.`, `${label}的全部文章。`, `${label} பிரிவில் உள்ள ஒவ்வொரு கட்டுரையும்.`, `${label}のすべての記事。`, `${label}의 모든 기사.`, `บทความทั้งหมดใน${label}`, `Mọi bài viết trong ${label}.`, `Setiap artikel dalam ${label}.`, `كل مقال في ${label}.`)}
   stats={[stat.pillars(PILLARS.length, locale), stat.categories(pillar ? categoriesInPillar(pillar).length : 0, locale), stat.subcategories(topics.length, locale), stat.topics(articles.length, locale)]}
 />
 

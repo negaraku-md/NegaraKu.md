@@ -54,7 +54,7 @@ const mrKeys = showStrips ? mostReadKeys(articles, STRIP) : [];
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية'), href: localePath('/', locale) },
     ...(pillarDef ? [{ label: loc(pillarDef.name, locale), href: localePath(`/${pillar}`, locale) }] : []),
     { label: loc(category.name, locale) },
   ]}
