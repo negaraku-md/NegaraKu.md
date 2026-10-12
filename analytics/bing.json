@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T13:06:22.221Z",
+  "updatedAt": "2026-10-12T13:57:57.112Z",
   "site": "https://www.negaraku.md/",
   "byMonth": {
     "2026-09": {
@@ -7,14 +7,14 @@
       "impressions": 1002
     },
     "2026-10": {
-      "clicks": 15,
-      "impressions": 384
+      "clicks": 121,
+      "impressions": 2798
     }
   },
   "latest": {
     "totals": {
-      "clicks": 60,
-      "impressions": 1386
+      "clicks": 166,
+      "impressions": 3800
     },
     "topQueries": [
       {
@@ -24,34 +24,22 @@
         "position": 9
       },
       {
+        "query": "马来西亚需要签证吗",
+        "clicks": 0,
+        "impressions": 6,
+        "position": 8
+      },
+      {
+        "query": "马来西亚入境登记mdac",
+        "clicks": 0,
+        "impressions": 5,
+        "position": 10
+      },
+      {
         "query": "parliament is not legally supreme federal constitution malaysia legislative powers",
         "clicks": 0,
         "impressions": 4,
         "position": 4
-      },
-      {
-        "query": "jabatan alam sekitar eia aktiviti pembangunan pantai malaysia",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 4
-      },
-      {
-        "query": "muet band 4.0 university admissions indonesia",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 5
-      },
-      {
-        "query": "malaysia members of parliament state level comparison state assemblyman adun",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 4
-      },
-      {
-        "query": "malaysia vernacular schools sjkc sjkt political reasons",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 2
       },
       {
         "query": "sjkt primary school curriculum",
@@ -60,10 +48,34 @@
         "position": 1
       },
       {
+        "query": "muet band 4.0 university admissions indonesia",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 5
+      },
+      {
+        "query": "malaysia vernacular schools sjkc sjkt political reasons",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 2
+      },
+      {
+        "query": "malaysia members of parliament state level comparison state assemblyman adun",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 4
+      },
+      {
         "query": "lembaga pemasaran pertanian fama terengganu",
         "clicks": 0,
         "impressions": 4,
         "position": 5
+      },
+      {
+        "query": "jabatan alam sekitar eia aktiviti pembangunan pantai malaysia",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 4
       },
       {
         "query": "yuran permohonan pendaftaran trademark malaysia myipo",
@@ -72,16 +84,16 @@
         "position": 5
       },
       {
-        "query": "kos daftar cap dagangan malaysia 2025 2026",
+        "query": "马来西亚破产流程",
         "clicks": 0,
         "impressions": 4,
         "position": 2
       },
       {
-        "query": "perkara 152 + bahasa kebangsaan 1. bahasa kebangsaan adalah bahasa melayu dan hendaklah ditulis dengan apa-apa tulisan sebagaimana yang diperintahkan dengan undang-undang oleh parlimen: dengan syarat bahawa- (a) tiada sesiapa pun boleh dilarang atau ditahan daripada menggunakan (bagi apa-apa maksud, lain daripada maksud rasmi), atau daripada mengajar atau belajar apa-apa bahsa lain;°",
+        "query": "kos daftar cap dagangan malaysia 2025 2026",
         "clicks": 0,
         "impressions": 4,
-        "position": 6
+        "position": 2
       },
       {
         "query": "雪邦赛道为什么退出f1",
@@ -90,16 +102,22 @@
         "position": 6
       },
       {
-        "query": "马来西亚破产流程",
+        "query": "perkara 152 + bahasa kebangsaan 1. bahasa kebangsaan adalah bahasa melayu dan hendaklah ditulis dengan apa-apa tulisan sebagaimana yang diperintahkan dengan undang-undang oleh parlimen: dengan syarat bahawa- (a) tiada sesiapa pun boleh dilarang atau ditahan daripada menggunakan (bagi apa-apa maksud, lain daripada maksud rasmi), atau daripada mengajar atau belajar apa-apa bahsa lain;°",
         "clicks": 0,
         "impressions": 4,
-        "position": 2
+        "position": 6
       },
       {
-        "query": "sekolah jenis kebangsaan cina sjkc contoh dan ciri-ciri malaysia",
-        "clicks": 0,
-        "impressions": 3,
+        "query": "马来西亚ipu",
+        "clicks": 1,
+        "impressions": 4,
         "position": 6
+      },
+      {
+        "query": "马来西亚免签吗",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 7
       },
       {
         "query": "3e 3r framework chinese explanation education malaysia",
@@ -114,8 +132,20 @@
         "position": 2
       },
       {
+        "query": "sekolah jenis kebangsaan cina sjkc contoh dan ciri-ciri malaysia",
+        "clicks": 0,
+        "impressions": 3,
+        "position": 6
+      },
+      {
         "query": "what is section 219 ssm",
         "clicks": 4,
+        "impressions": 3,
+        "position": 4
+      },
+      {
+        "query": "sjkc curriculum subjects bahasa melayu medium",
+        "clicks": 0,
         "impressions": 3,
         "position": 4
       },
@@ -124,12 +154,6 @@
         "clicks": 0,
         "impressions": 3,
         "position": 5
-      },
-      {
-        "query": "sjkc curriculum subjects bahasa melayu medium",
-        "clicks": 0,
-        "impressions": 3,
-        "position": 4
       },
       {
         "query": "malaysia cp21 90 day rule salary release after clearance",
@@ -142,30 +166,6 @@
         "clicks": 1,
         "impressions": 3,
         "position": 5
-      },
-      {
-        "query": "administrator menjual aset si mati selepas 5 tahun kematian adakah boleh dikenakan cukai keuntungan",
-        "clicks": 0,
-        "impressions": 3,
-        "position": 6
-      },
-      {
-        "query": "bidang kuasa mati kl court",
-        "clicks": 0,
-        "impressions": 3,
-        "position": 7
-      },
-      {
-        "query": "perkara  153  perlembagaan persekutuan",
-        "clicks": 0,
-        "impressions": 3,
-        "position": 10
-      },
-      {
-        "query": "pk form applicable if employees resign",
-        "clicks": 0,
-        "impressions": 2,
-        "position": 10
       }
     ]
   }
