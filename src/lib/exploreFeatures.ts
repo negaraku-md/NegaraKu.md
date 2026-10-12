@@ -20,9 +20,10 @@ export interface ExploreFeature {
 const pick = (
   locale: Locale,
   ms: string, en: string, zh: string,
-  ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string,
+  ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string,
 ): string =>
-  locale === 'id' ? (id ?? ms)
+  locale === 'ar' ? (ar ?? ms)
+  : locale === 'id' ? (id ?? ms)
   : locale === 'vi' ? (vi ?? ms)
   : locale === 'th' ? (th ?? ms)
   : locale === 'ko' ? (ko ?? ms)
@@ -33,8 +34,8 @@ const pick = (
   : ms;
 
 export function exploreFeatures(locale: Locale): ExploreFeature[] {
-  const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) =>
-    pick(locale, ms, en, zh, ta, ja, ko, th, vi, id);
+  const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string) =>
+    pick(locale, ms, en, zh, ta, ja, ko, th, vi, id, ar);
   return [
     { key: 'nav.exploreMalaysia', href: '/explore', icon: '🧭', color: '#FFC000', blurb: L('Terbaharu, popular, dan setiap tonggak di satu tempat.', 'Latest, popular, and every pillar in one place.', '最新、热门与各支柱，尽在一处。', 'சமீபத்தியவை, பிரபலமானவை, ஒவ்வொரு தூணும் ஒரே இடத்தில்.', '最新・人気・すべての柱を一か所に。', '최신, 인기, 모든 기둥을 한곳에.', 'ล่าสุด ยอดนิยม และทุกเสาหลักในที่เดียว', 'Mới nhất, phổ biến, và mọi trụ cột ở một nơi.', 'Terbaru, populer, dan setiap pilar di satu tempat.') },
     { key: 'nav.categories', href: '/categories', icon: '🗂️', color: '#38BDF8', blurb: L('Indeks kategori penuh, A hingga Z.', 'The full category index, A to Z.', '完整分类索引，A 到 Z。', 'முழு வகை அட்டவணை, A முதல் Z வரை.', 'カテゴリー一覧を A〜Z で。', '전체 카테고리 색인, A부터 Z까지.', 'ดัชนีหมวดหมู่ทั้งหมด A ถึง Z', 'Toàn bộ mục lục danh mục, A đến Z.', 'Indeks kategori lengkap, A sampai Z.') },

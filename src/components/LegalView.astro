@@ -16,7 +16,7 @@ interface Props {
   doc: 'terms' | 'privacy' | 'cookies';
 }
 const { locale, doc } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string) => (locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string) => (locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const UPDATED = '2026-08-20';
 type Section = { h: string; p?: string[]; list?: string[] };
@@ -31,6 +31,7 @@ const contactP = L(
   `มีคำถามเกี่ยวกับนโยบายนี้หรือไม่? เปิด issue หรือการอภิปรายในคลัง GitHub ของเรา (${REPO}) ผู้ดำเนินโครงการควรเพิ่มนิติบุคคลและอีเมลติดต่ออย่างเป็นทางการไว้ที่นี่`,
   `Câu hỏi về chính sách này? Hãy mở một issue hoặc thảo luận trong kho lưu trữ GitHub của chúng tôi (${REPO}). Đơn vị vận hành dự án nên bổ sung pháp nhân và email liên hệ chính thức tại đây.`,
   `Pertanyaan tentang kebijakan ini? Buka isu atau diskusi di repositori GitHub kami (${REPO}). Operator proyek sebaiknya menambahkan badan hukum dan email kontak resmi di sini.`,
+  `أسئلة حول هذه السياسة؟ افتح issue أو نقاشًا في مستودع GitHub الخاص بنا (${REPO}). ينبغي لمشغّل المشروع إضافة كيان قانوني وبريد تواصل رسمي هنا.`,
 );
 
 const changesP = L(
@@ -43,11 +44,12 @@ const changesP = L(
   'เราอาจปรับปรุงนโยบายนี้เป็นครั้งคราว การเปลี่ยนแปลงที่สำคัญจะถูกบันทึกไว้ในประวัติ GitHub ของโครงการ และวันที่ "อัปเดต" ด้านบนจะเปลี่ยนไป การใช้งานต่อเนื่องหลังการเปลี่ยนแปลงถือว่าคุณยอมรับการเปลี่ยนแปลงนั้น',
   'Chúng tôi có thể cập nhật chính sách này theo thời gian. Những thay đổi quan trọng được ghi lại trong lịch sử GitHub của dự án và ngày "Cập nhật" ở trên sẽ thay đổi. Việc tiếp tục sử dụng sau một thay đổi có nghĩa là bạn chấp nhận thay đổi đó.',
   'Kami dapat memperbarui kebijakan ini dari waktu ke waktu. Perubahan penting akan dicatat dalam riwayat GitHub proyek dan tanggal "Diperbarui" di atas akan berubah. Penggunaan berkelanjutan setelah perubahan berarti Anda menerimanya.',
+  'قد نُحدِّث هذه السياسة من حين لآخر. تُسجَّل التغييرات الجوهرية في سجل GitHub الخاص بالمشروع، ويتغير تاريخ "آخر تحديث" أعلاه. استمرارك في الاستخدام بعد أي تغيير يعني قبولك له.',
 );
 
 const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Section[] }> = {
   terms: {
-    title: L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்', '利用規約', '이용 약관', 'ข้อกำหนดการใช้งาน', 'Điều khoản Sử dụng', 'Ketentuan Penggunaan'),
+    title: L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்', '利用規約', '이용 약관', 'ข้อกำหนดการใช้งาน', 'Điều khoản Sử dụng', 'Ketentuan Penggunaan', 'شروط الاستخدام'),
     tagline: L(
       'Syarat penggunaan NegaraKu.md — sila baca sebelum bergantung pada kandungannya.',
       'The terms for using NegaraKu.md — please read before relying on its content.',
@@ -58,10 +60,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
       'ข้อกำหนดสำหรับการใช้ NegaraKu.md — โปรดอ่านก่อนพึ่งพาเนื้อหาของเว็บไซต์',
       'Các điều khoản sử dụng NegaraKu.md — vui lòng đọc trước khi dựa vào nội dung của trang.',
       'Ketentuan penggunaan NegaraKu.md — silakan baca sebelum bergantung pada kontennya.',
+      'شروط استخدام NegaraKu.md — يُرجى القراءة قبل الاعتماد على محتواه.',
     ),
     sections: [
       {
-        h: L('Penerimaan', 'Acceptance', '接受条款', 'ஏற்றுக்கொள்ளல்', '同意', '동의', 'การยอมรับ', 'Chấp nhận', 'Penerimaan'),
+        h: L('Penerimaan', 'Acceptance', '接受条款', 'ஏற்றுக்கொள்ளல்', '同意', '동의', 'การยอมรับ', 'Chấp nhận', 'Penerimaan', 'القبول'),
         p: [L(
           'Dengan mengakses atau menggunakan NegaraKu.md ("laman ini"), anda bersetuju dengan terma ini. Jika anda tidak bersetuju, sila jangan gunakan laman ini.',
           'By accessing or using NegaraKu.md (the "site"), you agree to these terms. If you do not agree, please do not use the site.',
@@ -72,10 +75,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'การเข้าถึงหรือใช้ NegaraKu.md ("เว็บไซต์นี้") ถือว่าคุณยอมรับข้อกำหนดเหล่านี้ หากคุณไม่ยอมรับ โปรดอย่าใช้เว็บไซต์นี้',
           'Bằng việc truy cập hoặc sử dụng NegaraKu.md ("trang này"), bạn đồng ý với các điều khoản này. Nếu bạn không đồng ý, vui lòng không sử dụng trang này.',
           'Dengan mengakses atau menggunakan NegaraKu.md ("situs ini"), Anda menyetujui ketentuan ini. Jika Anda tidak setuju, silakan jangan gunakan situs ini.',
+          'بالوصول إلى NegaraKu.md ("الموقع") أو استخدامه، فإنك توافق على هذه الشروط. وإذا لم توافق، فيُرجى عدم استخدام الموقع.',
         )],
       },
       {
-        h: L('Apa itu laman ini', 'What this site is', '本网站是什么', 'இந்த தளம் என்ன', '本サイトについて', '본 사이트란', 'เว็บไซต์นี้คืออะไร', 'Trang này là gì', 'Apa itu situs ini'),
+        h: L('Apa itu laman ini', 'What this site is', '本网站是什么', 'இந்த தளம் என்ன', '本サイトについて', '본 사이트란', 'เว็บไซต์นี้คืออะไร', 'Trang này là gì', 'Apa itu situs ini', 'ما هذا الموقع'),
         p: [L(
           'NegaraKu.md ialah pangkalan pengetahuan sumber terbuka tentang Malaysia untuk tujuan maklumat am dan pendidikan. Ia diselenggara secara terbuka dan kandungannya berkembang.',
           'NegaraKu.md is an open-source knowledge base about Malaysia for general information and educational purposes. It is maintained openly and its content evolves.',
@@ -86,10 +90,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'NegaraKu.md เป็นฐานความรู้แบบโอเพนซอร์สเกี่ยวกับมาเลเซียเพื่อวัตถุประสงค์ด้านข้อมูลทั่วไปและการศึกษา ได้รับการดูแลอย่างเปิดเผยและเนื้อหามีการพัฒนาอยู่เสมอ',
           'NegaraKu.md là một cơ sở tri thức nguồn mở về Malaysia cho mục đích thông tin chung và giáo dục. Nó được duy trì một cách cởi mở và nội dung của nó không ngừng phát triển.',
           'NegaraKu.md adalah basis pengetahuan sumber terbuka tentang Malaysia untuk tujuan informasi umum dan pendidikan. Ia dikelola secara terbuka dan kontennya terus berkembang.',
+          'NegaraKu.md قاعدة معرفة مفتوحة المصدر عن ماليزيا لأغراض المعلومات العامة والتعليم. تُصان بشكل مفتوح ويتطور محتواها.',
         )],
       },
       {
-        h: L('Bukan nasihat profesional', 'Not professional advice', '并非专业建议', 'தொழில்முறை ஆலோசனை அல்ல', '専門的助言ではありません', '전문적 조언이 아님', 'ไม่ใช่คำแนะนำจากผู้เชี่ยวชาญ', 'Không phải tư vấn chuyên môn', 'Bukan nasihat profesional'),
+        h: L('Bukan nasihat profesional', 'Not professional advice', '并非专业建议', 'தொழில்முறை ஆலோசனை அல்ல', '専門的助言ではありません', '전문적 조언이 아님', 'ไม่ใช่คำแนะนำจากผู้เชี่ยวชาญ', 'Không phải tư vấn chuyên môn', 'Bukan nasihat profesional', 'ليست نصيحة مهنية'),
         p: [L(
           'Kandungan di sini — termasuk topik undang-undang, cukai, perakaunan dan perniagaan — adalah maklumat am sahaja dan BUKAN nasihat undang-undang, cukai, kewangan atau profesional lain. Undang-undang dan peraturan berubah, dan kes anda mungkin berbeza. Sahkan sebelum bertindak dengan sumber rasmi (cth. AGC, LHDN, SSM) atau seorang profesional bertauliah.',
           'The content here — including law, tax, accounting and business topics — is general information only and is NOT legal, tax, financial or other professional advice. Laws and rules change, and your situation may differ. Before acting, verify with official sources (e.g. AGC, LHDN, SSM) or a qualified professional.',
@@ -100,10 +105,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'เนื้อหาในที่นี้ — รวมถึงหัวข้อกฎหมาย ภาษี การบัญชี และธุรกิจ — เป็นข้อมูลทั่วไปเท่านั้น และไม่ใช่คำแนะนำทางกฎหมาย ภาษี การเงิน หรือคำแนะนำจากผู้เชี่ยวชาญอื่นใด กฎหมายและระเบียบต่าง ๆ เปลี่ยนแปลงได้ และสถานการณ์ของคุณอาจแตกต่างออกไป ก่อนดำเนินการ โปรดตรวจสอบกับแหล่งข้อมูลทางการ (เช่น AGC, LHDN, SSM) หรือผู้เชี่ยวชาญที่มีคุณสมบัติ',
           'Nội dung ở đây — bao gồm các chủ đề pháp luật, thuế, kế toán và kinh doanh — chỉ là thông tin chung và KHÔNG phải tư vấn pháp lý, thuế, tài chính hay tư vấn chuyên môn khác. Luật pháp và quy định thay đổi, và tình huống của bạn có thể khác. Trước khi hành động, hãy xác minh với các nguồn chính thức (ví dụ AGC, LHDN, SSM) hoặc một chuyên gia có đủ năng lực.',
           'Konten di sini — termasuk topik hukum, pajak, akuntansi, dan bisnis — hanyalah informasi umum dan BUKAN nasihat hukum, pajak, keuangan, atau profesional lainnya. Hukum dan peraturan berubah, dan situasi Anda mungkin berbeda. Sebelum bertindak, verifikasi dengan sumber resmi (mis. AGC, LHDN, SSM) atau seorang profesional yang berkualifikasi.',
+          'المحتوى هنا — بما في ذلك مواضيع القانون والضرائب والمحاسبة والأعمال — هو معلومات عامة فقط وليس نصيحة قانونية أو ضريبية أو مالية أو مهنية أخرى. تتغير القوانين والأنظمة، وقد تختلف حالتك. وقبل التصرف، تحقّق من المصادر الرسمية (مثل AGC وLHDN وSSM) أو من مختص مؤهّل.',
         )],
       },
       {
-        h: L('Ketepatan & tiada jaminan', 'Accuracy & no warranty', '准确性与免责', 'துல்லியம் & உத்தரவாதம் இல்லை', '正確性および無保証', '정확성 및 무보증', 'ความถูกต้องและการไม่มีการรับประกัน', 'Độ chính xác & không bảo đảm', 'Ketepatan & tanpa jaminan'),
+        h: L('Ketepatan & tiada jaminan', 'Accuracy & no warranty', '准确性与免责', 'துல்லியம் & உத்தரவாதம் இல்லை', '正確性および無保証', '정확성 및 무보증', 'ความถูกต้องและการไม่มีการรับประกัน', 'Độ chính xác & không bảo đảm', 'Ketepatan & tanpa jaminan', 'الدقة وعدم الضمان'),
         p: [L(
           'Kami berusaha memetik sumber utama dan memastikan ketepatan, tetapi laman ini disediakan "sebagaimana adanya" tanpa sebarang jaminan. Kami tidak bertanggungjawab atas kerugian yang timbul daripada pergantungan pada kandungannya, setakat yang dibenarkan undang-undang.',
           'We strive to cite primary sources and be accurate, but the site is provided "as is" without warranties of any kind. To the extent permitted by law, we are not liable for any loss arising from reliance on its content.',
@@ -114,10 +120,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'เรามุ่งมั่นที่จะอ้างอิงแหล่งข้อมูลปฐมภูมิและรักษาความถูกต้อง แต่เว็บไซต์นี้จัดให้ "ตามสภาพที่เป็นอยู่" โดยไม่มีการรับประกันใด ๆ ทั้งสิ้น เท่าที่กฎหมายอนุญาต เราไม่รับผิดชอบต่อความสูญเสียใด ๆ ที่เกิดจากการพึ่งพาเนื้อหาของเว็บไซต์',
           'Chúng tôi nỗ lực trích dẫn các nguồn sơ cấp và bảo đảm độ chính xác, nhưng trang này được cung cấp "nguyên trạng" mà không có bất kỳ bảo đảm nào. Trong phạm vi pháp luật cho phép, chúng tôi không chịu trách nhiệm về bất kỳ tổn thất nào phát sinh từ việc dựa vào nội dung của trang.',
           'Kami berupaya mengutip sumber primer dan memastikan ketepatan, tetapi situs ini disediakan "sebagaimana adanya" tanpa jaminan apa pun. Sejauh yang diizinkan oleh hukum, kami tidak bertanggung jawab atas kerugian yang timbul dari ketergantungan pada kontennya.',
+          'نسعى إلى الاستشهاد بالمصادر الأولية وإلى الدقة، لكن الموقع يُقدَّم "كما هو" دون أي ضمانات من أي نوع. وبالقدر الذي يسمح به القانون، لا نتحمل المسؤولية عن أي خسارة تنشأ عن الاعتماد على محتواه.',
         )],
       },
       {
-        h: L('Lesen & penggunaan kandungan', 'Licence & use of content', '许可与内容使用', 'உரிமம் & உள்ளடக்கப் பயன்பாடு', 'ライセンスおよびコンテンツの利用', '라이선스 및 콘텐츠 이용', 'ใบอนุญาตและการใช้เนื้อหา', 'Giấy phép & sử dụng nội dung', 'Lisensi & penggunaan konten'),
+        h: L('Lesen & penggunaan kandungan', 'Licence & use of content', '许可与内容使用', 'உரிமம் & உள்ளடக்கப் பயன்பாடு', 'ライセンスおよびコンテンツの利用', '라이선스 및 콘텐츠 이용', 'ใบอนุญาตและการใช้เนื้อหา', 'Giấy phép & sử dụng nội dung', 'Lisensi & penggunaan konten', 'الترخيص واستخدام المحتوى'),
         p: [L(
           'Kandungan artikel dilesenkan di bawah Creative Commons BY-SA 4.0: anda boleh berkongsi dan menyesuaikannya, dengan syarat memberi pengiktirafan dan berkongsi di bawah lesen yang sama. Kod sumber laman ini di bawah lesen MIT. Nama dan tanda dagangan "NegaraKu.md" dan "1company" tidak termasuk dalam lesen ini.',
           'Article content is licensed under Creative Commons BY-SA 4.0: you may share and adapt it, provided you give attribution and share under the same licence. The site’s source code is under the MIT licence. The "NegaraKu.md" and "1company" names and marks are not covered by these licences.',
@@ -128,18 +135,19 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'เนื้อหาบทความได้รับอนุญาตภายใต้ Creative Commons BY-SA 4.0: คุณสามารถแบ่งปันและดัดแปลงได้ โดยมีเงื่อนไขว่าต้องให้เครดิตแหล่งที่มาและแบ่งปันภายใต้ใบอนุญาตเดียวกัน ซอร์สโค้ดของเว็บไซต์อยู่ภายใต้ใบอนุญาต MIT ชื่อและเครื่องหมายการค้า "NegaraKu.md" และ "1company" ไม่รวมอยู่ในใบอนุญาตเหล่านี้',
           'Nội dung bài viết được cấp phép theo Creative Commons BY-SA 4.0: bạn có thể chia sẻ và chuyển thể, với điều kiện ghi công và chia sẻ theo cùng giấy phép. Mã nguồn của trang theo giấy phép MIT. Tên và nhãn hiệu "NegaraKu.md" và "1company" không nằm trong các giấy phép này.',
           'Konten artikel dilisensikan di bawah Creative Commons BY-SA 4.0: Anda dapat membagikan dan menyesuaikannya, dengan syarat memberi atribusi dan membagikan di bawah lisensi yang sama. Kode sumber situs ini di bawah lisensi MIT. Nama dan merek dagang "NegaraKu.md" dan "1company" tidak tercakup dalam lisensi ini.',
+          'محتوى المقالات مرخَّص بموجب Creative Commons BY-SA 4.0: يمكنك مشاركته وتعديله، شريطة نسب العمل إلى مصدره والمشاركة بموجب الترخيص نفسه. الشِّفرة المصدرية للموقع تخضع لترخيص MIT. اسمَا وعلامتا "NegaraKu.md" و"1company" غير مشمولين بهذه التراخيص.',
         )],
       },
       {
-        h: L('Penggunaan yang boleh diterima', 'Acceptable use', '可接受的使用', 'ஏற்கத்தக்க பயன்பாடு', '許容される利用', '허용되는 이용', 'การใช้งานที่ยอมรับได้', 'Sử dụng được chấp nhận', 'Penggunaan yang dapat diterima'),
+        h: L('Penggunaan yang boleh diterima', 'Acceptable use', '可接受的使用', 'ஏற்கத்தக்க பயன்பாடு', '許容される利用', '허용되는 이용', 'การใช้งานที่ยอมรับได้', 'Sử dụng được chấp nhận', 'Penggunaan yang dapat diterima', 'الاستخدام المقبول'),
         list: [
-          L('Jangan gunakan laman ini untuk tujuan menyalahi undang-undang atau memudaratkan.', 'Don’t use the site for unlawful or harmful purposes.', '请勿将本网站用于非法或有害目的。', 'சட்டவிரோதமான அல்லது தீங்கு விளைவிக்கும் நோக்கங்களுக்கு இந்தத் தளத்தைப் பயன்படுத்த வேண்டாம்.', '違法または有害な目的で本サイトを利用しないでください。', '본 사이트를 불법적이거나 유해한 목적으로 이용하지 마십시오.', 'อย่าใช้เว็บไซต์นี้เพื่อวัตถุประสงค์ที่ผิดกฎหมายหรือก่อให้เกิดอันตราย', 'Đừng sử dụng trang này cho các mục đích trái pháp luật hoặc gây hại.', 'Jangan gunakan situs ini untuk tujuan yang melanggar hukum atau merugikan.'),
-          L('Jangan cuba mengganggu, merosakkan atau mengakses laman ini secara tidak dibenarkan.', 'Don’t attempt to disrupt, damage, or gain unauthorised access to the site.', '请勿试图干扰、破坏或未经授权访问本网站。', 'இந்தத் தளத்தை சீர்குலைக்கவோ, சேதப்படுத்தவோ அல்லது அனுமதியின்றி அணுகவோ முயற்சிக்க வேண்டாம்.', '本サイトを妨害・破壊したり、無断でアクセスしたりしないでください。', '본 사이트를 방해하거나, 손상시키거나, 무단으로 접근하려 시도하지 마십시오.', 'อย่าพยายามรบกวน ทำลาย หรือเข้าถึงเว็บไซต์นี้โดยไม่ได้รับอนุญาต', 'Đừng cố gắng gây gián đoạn, phá hoại hoặc truy cập trái phép vào trang này.', 'Jangan mencoba mengganggu, merusak, atau mengakses situs ini tanpa izin.'),
-          L('Automasi/pengaisan yang munasabah dialu-alukan — Markdown mentah dan llms.txt disediakan untuk itu — tetapi jangan bebankan perkhidmatan.', 'Reasonable automation/scraping is welcome — raw Markdown and llms.txt are provided for it — but don’t overload the service.', '欢迎合理的自动化/抓取——我们为此提供原始 Markdown 和 llms.txt——但请勿使服务过载。', 'நியாயமான தன்னியக்கம்/ஸ்கிராப்பிங் வரவேற்கப்படுகிறது — அதற்காக raw Markdown மற்றும் llms.txt வழங்கப்பட்டுள்ளன — ஆனால் சேவையை அதிக சுமையாக்க வேண்டாம்.', '適度な自動化・スクレイピングは歓迎します（そのために生の Markdown と llms.txt を用意しています）が、サービスに過度な負荷をかけないでください。', '합리적인 자동화/스크래핑은 환영합니다 — 이를 위해 원본 Markdown과 llms.txt를 제공합니다 — 다만 서비스에 과부하를 주지 마십시오.', 'การทำงานอัตโนมัติ/การดึงข้อมูลที่สมเหตุสมผลเป็นสิ่งที่ยินดีต้อนรับ — เราจัดเตรียม Markdown ต้นฉบับและ llms.txt ไว้เพื่อการนี้ — แต่อย่าทำให้บริการรับภาระเกินควร', 'Việc tự động hóa/thu thập dữ liệu hợp lý được hoan nghênh — Markdown thô và llms.txt được cung cấp cho việc đó — nhưng đừng làm quá tải dịch vụ.', 'Otomatisasi/pengambilan data yang wajar disambut baik — Markdown mentah dan llms.txt disediakan untuk itu — tetapi jangan membebani layanan.'),
+          L('Jangan gunakan laman ini untuk tujuan menyalahi undang-undang atau memudaratkan.', 'Don’t use the site for unlawful or harmful purposes.', '请勿将本网站用于非法或有害目的。', 'சட்டவிரோதமான அல்லது தீங்கு விளைவிக்கும் நோக்கங்களுக்கு இந்தத் தளத்தைப் பயன்படுத்த வேண்டாம்.', '違法または有害な目的で本サイトを利用しないでください。', '본 사이트를 불법적이거나 유해한 목적으로 이용하지 마십시오.', 'อย่าใช้เว็บไซต์นี้เพื่อวัตถุประสงค์ที่ผิดกฎหมายหรือก่อให้เกิดอันตราย', 'Đừng sử dụng trang này cho các mục đích trái pháp luật hoặc gây hại.', 'Jangan gunakan situs ini untuk tujuan yang melanggar hukum atau merugikan.', 'لا تستخدم الموقع لأغراض غير قانونية أو ضارّة.'),
+          L('Jangan cuba mengganggu, merosakkan atau mengakses laman ini secara tidak dibenarkan.', 'Don’t attempt to disrupt, damage, or gain unauthorised access to the site.', '请勿试图干扰、破坏或未经授权访问本网站。', 'இந்தத் தளத்தை சீர்குலைக்கவோ, சேதப்படுத்தவோ அல்லது அனுமதியின்றி அணுகவோ முயற்சிக்க வேண்டாம்.', '本サイトを妨害・破壊したり、無断でアクセスしたりしないでください。', '본 사이트를 방해하거나, 손상시키거나, 무단으로 접근하려 시도하지 마십시오.', 'อย่าพยายามรบกวน ทำลาย หรือเข้าถึงเว็บไซต์นี้โดยไม่ได้รับอนุญาต', 'Đừng cố gắng gây gián đoạn, phá hoại hoặc truy cập trái phép vào trang này.', 'Jangan mencoba mengganggu, merusak, atau mengakses situs ini tanpa izin.', 'لا تحاول تعطيل الموقع أو الإضرار به أو الوصول إليه دون إذن.'),
+          L('Automasi/pengaisan yang munasabah dialu-alukan — Markdown mentah dan llms.txt disediakan untuk itu — tetapi jangan bebankan perkhidmatan.', 'Reasonable automation/scraping is welcome — raw Markdown and llms.txt are provided for it — but don’t overload the service.', '欢迎合理的自动化/抓取——我们为此提供原始 Markdown 和 llms.txt——但请勿使服务过载。', 'நியாயமான தன்னியக்கம்/ஸ்கிராப்பிங் வரவேற்கப்படுகிறது — அதற்காக raw Markdown மற்றும் llms.txt வழங்கப்பட்டுள்ளன — ஆனால் சேவையை அதிக சுமையாக்க வேண்டாம்.', '適度な自動化・スクレイピングは歓迎します（そのために生の Markdown と llms.txt を用意しています）が、サービスに過度な負荷をかけないでください。', '합리적인 자동화/스크래핑은 환영합니다 — 이를 위해 원본 Markdown과 llms.txt를 제공합니다 — 다만 서비스에 과부하를 주지 마십시오.', 'การทำงานอัตโนมัติ/การดึงข้อมูลที่สมเหตุสมผลเป็นสิ่งที่ยินดีต้อนรับ — เราจัดเตรียม Markdown ต้นฉบับและ llms.txt ไว้เพื่อการนี้ — แต่อย่าทำให้บริการรับภาระเกินควร', 'Việc tự động hóa/thu thập dữ liệu hợp lý được hoan nghênh — Markdown thô và llms.txt được cung cấp cho việc đó — nhưng đừng làm quá tải dịch vụ.', 'Otomatisasi/pengambilan data yang wajar disambut baik — Markdown mentah dan llms.txt disediakan untuk itu — tetapi jangan membebani layanan.', 'الأتمتة/الاستخلاص المعقول مُرحَّب به — تُوفَّر لذلك ملفات Markdown الخام وllms.txt — لكن لا تُثقِل الخدمة.'),
         ],
       },
       {
-        h: L('Pautan luar', 'External links', '外部链接', 'வெளிப் புற இணைப்புகள்', '外部リンク', '외부 링크', 'ลิงก์ภายนอก', 'Liên kết ngoài', 'Tautan eksternal'),
+        h: L('Pautan luar', 'External links', '外部链接', 'வெளிப் புற இணைப்புகள்', '外部リンク', '외부 링크', 'ลิงก์ภายนอก', 'Liên kết ngoài', 'Tautan eksternal', 'روابط خارجية'),
         p: [L(
           'Laman ini memaut ke laman pihak ketiga (cth. sumber rasmi, GitHub). Kami tidak mengawal dan tidak bertanggungjawab atas kandungan atau amalan mereka.',
           'The site links to third-party sites (e.g. official sources, GitHub). We don’t control and aren’t responsible for their content or practices.',
@@ -150,14 +158,15 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'เว็บไซต์นี้เชื่อมโยงไปยังเว็บไซต์ของบุคคลที่สาม (เช่น แหล่งข้อมูลทางการ, GitHub) เราไม่ได้ควบคุมและไม่รับผิดชอบต่อเนื้อหาหรือแนวปฏิบัติของเว็บไซต์เหล่านั้น',
           'Trang này liên kết đến các trang của bên thứ ba (ví dụ nguồn chính thức, GitHub). Chúng tôi không kiểm soát và không chịu trách nhiệm về nội dung hoặc cách làm của họ.',
           'Situs ini menautkan ke situs pihak ketiga (mis. sumber resmi, GitHub). Kami tidak mengendalikan dan tidak bertanggung jawab atas konten atau praktik mereka.',
+          'يرتبط الموقع بمواقع تابعة لجهات خارجية (مثل المصادر الرسمية وGitHub). نحن لا نتحكم في محتواها أو ممارساتها ولسنا مسؤولين عنها.',
         )],
       },
       {
-        h: L('Perubahan pada terma', 'Changes to these terms', '条款变更', 'இந்த விதிமுறைகளில் மாற்றங்கள்', '本規約の変更', '본 약관의 변경', 'การเปลี่ยนแปลงข้อกำหนดเหล่านี้', 'Thay đổi các điều khoản này', 'Perubahan pada ketentuan'),
+        h: L('Perubahan pada terma', 'Changes to these terms', '条款变更', 'இந்த விதிமுறைகளில் மாற்றங்கள்', '本規約の変更', '본 약관의 변경', 'การเปลี่ยนแปลงข้อกำหนดเหล่านี้', 'Thay đổi các điều khoản này', 'Perubahan pada ketentuan', 'التغييرات على هذه الشروط'),
         p: [changesP],
       },
       {
-        h: L('Undang-undang yang mentadbir', 'Governing law', '适用法律', 'ஆளும் சட்டம்', '準拠法', '준거법', 'กฎหมายที่ใช้บังคับ', 'Luật điều chỉnh', 'Hukum yang mengatur'),
+        h: L('Undang-undang yang mentadbir', 'Governing law', '适用法律', 'ஆளும் சட்டம்', '準拠法', '준거법', 'กฎหมายที่ใช้บังคับ', 'Luật điều chỉnh', 'Hukum yang mengatur', 'القانون الحاكم'),
         p: [L(
           'Terma ini ditadbir oleh undang-undang Malaysia, tanpa mengambil kira peruntukan percanggahan undang-undangnya.',
           'These terms are governed by the laws of Malaysia, without regard to its conflict-of-laws provisions.',
@@ -168,16 +177,17 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'ข้อกำหนดเหล่านี้อยู่ภายใต้กฎหมายของประเทศมาเลเซีย โดยไม่คำนึงถึงบทบัญญัติว่าด้วยการขัดกันแห่งกฎหมาย',
           'Các điều khoản này được điều chỉnh bởi luật pháp Malaysia, không xét đến các quy định về xung đột pháp luật của nó.',
           'Ketentuan ini diatur oleh hukum Malaysia, tanpa mempertimbangkan ketentuan pertentangan hukumnya.',
+          'تخضع هذه الشروط لقوانين ماليزيا، دون اعتبار لأحكام تنازع القوانين فيها.',
         )],
       },
       {
-        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு', 'お問い合わせ', '문의', 'ติดต่อ', 'Liên hệ', 'Kontak'),
+        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு', 'お問い合わせ', '문의', 'ติดต่อ', 'Liên hệ', 'Kontak', 'اتصل بنا'),
         p: [contactP],
       },
     ],
   },
   privacy: {
-    title: L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை', 'プライバシーポリシー', '개인정보 처리방침', 'นโยบายความเป็นส่วนตัว', 'Chính sách Quyền riêng tư', 'Kebijakan Privasi'),
+    title: L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை', 'プライバシーポリシー', '개인정보 처리방침', 'นโยบายความเป็นส่วนตัว', 'Chính sách Quyền riêng tư', 'Kebijakan Privasi', 'سياسة الخصوصية'),
     tagline: L(
       'Kami mengumpul sesedikit mungkin — tiada akaun, tiada kuki penjejak.',
       'We collect as little as possible — no accounts, no tracking cookies.',
@@ -188,10 +198,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
       'เราเก็บข้อมูลให้น้อยที่สุดเท่าที่จะทำได้ — ไม่มีบัญชี ไม่มีคุกกี้ติดตาม',
       'Chúng tôi thu thập càng ít càng tốt — không có tài khoản, không có cookie theo dõi.',
       'Kami mengumpulkan sesedikit mungkin — tanpa akun, tanpa cookie pelacak.',
+      'نجمع أقل قدر ممكن — لا حسابات، ولا ملفات تعريف ارتباط للتتبع.',
     ),
     sections: [
       {
-        h: L('Ringkasnya', 'In short', '简而言之', 'சுருக்கமாக', '要点', '요약', 'โดยสรุป', 'Tóm lại', 'Ringkasnya'),
+        h: L('Ringkasnya', 'In short', '简而言之', 'சுருக்கமாக', '要点', '요약', 'โดยสรุป', 'Tóm lại', 'Ringkasnya', 'باختصار'),
         p: [L(
           'NegaraKu.md ialah laman statik untuk dibaca. Ia tidak mempunyai akaun pengguna, borang log masuk, atau borang yang mengumpul data peribadi anda di laman ini. Ia tidak menetapkan kuki penjejak atau pengiklanan.',
           'NegaraKu.md is a static site you read. It has no user accounts, no login, and no forms that collect your personal data on the site. It sets no tracking or advertising cookies.',
@@ -202,10 +213,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'NegaraKu.md เป็นเว็บไซต์แบบสแตติกที่ไว้สำหรับอ่าน ไม่มีบัญชีผู้ใช้ ไม่มีการเข้าสู่ระบบ และไม่มีแบบฟอร์มที่เก็บข้อมูลส่วนบุคคลของคุณบนเว็บไซต์นี้ ไม่มีการตั้งค่าคุกกี้ติดตามหรือคุกกี้โฆษณา',
           'NegaraKu.md là một trang tĩnh để bạn đọc. Nó không có tài khoản người dùng, không có đăng nhập và không có biểu mẫu nào thu thập dữ liệu cá nhân của bạn trên trang này. Nó không đặt cookie theo dõi hay quảng cáo.',
           'NegaraKu.md adalah situs statis untuk dibaca. Situs ini tidak memiliki akun pengguna, formulir masuk, atau formulir yang mengumpulkan data pribadi Anda di situs ini. Situs ini tidak menetapkan cookie pelacak atau iklan.',
+          'NegaraKu.md موقع ثابت للقراءة. لا توجد به حسابات مستخدمين، ولا تسجيل دخول، ولا نماذج تجمع بياناتك الشخصية على الموقع. ولا يضع أي ملفات تعريف ارتباط للتتبع أو الإعلانات.',
         )],
       },
       {
-        h: L('Simpanan setempat (keutamaan anda)', 'Local storage (your preferences)', '本地存储（您的偏好）', 'உள்ளூர் சேமிப்பு (உங்கள் விருப்பங்கள்)', 'ローカルストレージ（あなたの設定）', '로컬 저장소(귀하의 설정)', 'ที่จัดเก็บข้อมูลในเครื่อง (การตั้งค่าของคุณ)', 'Lưu trữ cục bộ (tùy chọn của bạn)', 'Penyimpanan lokal (preferensi Anda)'),
+        h: L('Simpanan setempat (keutamaan anda)', 'Local storage (your preferences)', '本地存储（您的偏好）', 'உள்ளூர் சேமிப்பு (உங்கள் விருப்பங்கள்)', 'ローカルストレージ（あなたの設定）', '로컬 저장소(귀하의 설정)', 'ที่จัดเก็บข้อมูลในเครื่อง (การตั้งค่าของคุณ)', 'Lưu trữ cục bộ (tùy chọn của bạn)', 'Penyimpanan lokal (preferensi Anda)', 'التخزين المحلي (تفضيلاتك)'),
         p: [L(
           'Keutamaan bacaan anda — saiz teks (nk-text-size) dan bahasa lalai (nk-default-lang) — disimpan dalam pelayar anda menggunakan localStorage. Ia kekal di peranti anda, tidak pernah dihantar kepada kami, dan boleh dikosongkan bila-bila masa melalui tetapan pelayar anda.',
           'Your reading preferences — text size (nk-text-size) and default language (nk-default-lang) — are stored in your browser using localStorage. They stay on your device, are never sent to us, and can be cleared anytime via your browser settings.',
@@ -216,10 +228,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'การตั้งค่าการอ่านของคุณ — ขนาดข้อความ (nk-text-size) และภาษาเริ่มต้น (nk-default-lang) — ถูกจัดเก็บไว้ในเบราว์เซอร์ของคุณโดยใช้ localStorage ข้อมูลเหล่านี้อยู่ในอุปกรณ์ของคุณ ไม่เคยถูกส่งมาให้เรา และสามารถลบได้ทุกเมื่อผ่านการตั้งค่าเบราว์เซอร์ของคุณ',
           'Các tùy chọn đọc của bạn — cỡ chữ (nk-text-size) và ngôn ngữ mặc định (nk-default-lang) — được lưu trong trình duyệt của bạn bằng localStorage. Chúng ở lại trên thiết bị của bạn, không bao giờ được gửi cho chúng tôi, và có thể xóa bất cứ lúc nào qua cài đặt trình duyệt của bạn.',
           'Preferensi bacaan Anda — ukuran teks (nk-text-size) dan bahasa bawaan (nk-default-lang) — disimpan di peramban Anda menggunakan localStorage. Data ini tetap di perangkat Anda, tidak pernah dikirim kepada kami, dan dapat dihapus kapan saja melalui pengaturan peramban Anda.',
+          'تُخزَّن تفضيلات القراءة لديك — حجم النص (nk-text-size) واللغة الافتراضية (nk-default-lang) — في متصفحك باستخدام localStorage. تبقى على جهازك، ولا تُرسَل إلينا أبدًا، ويمكن مسحها في أي وقت عبر إعدادات متصفحك.',
         )],
       },
       {
-        h: L('Analitik', 'Analytics', '分析统计', 'பகுப்பாய்வு', 'アクセス解析', '분석', 'การวิเคราะห์', 'Phân tích', 'Analitik'),
+        h: L('Analitik', 'Analytics', '分析统计', 'பகுப்பாய்வு', 'アクセス解析', '분석', 'การวิเคราะห์', 'Phân tích', 'Analitik', 'التحليلات'),
         p: [L(
           'Kami menyimpan kiraan pelawat agregat (cth. bilangan bacaan) melalui analitik di peringkat edge, tanpa kuki dan tanpa menjejaki anda merentas laman. Kami tidak membina profil individu atau menjual data.',
           'We keep aggregate visitor counts (e.g. read counts) via edge-level analytics, without cookies and without tracking you across sites. We do not build individual profiles or sell data.',
@@ -230,10 +243,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'เราเก็บจำนวนผู้เข้าชมแบบรวม (เช่น จำนวนการอ่าน) ผ่านการวิเคราะห์ในระดับ edge โดยไม่ใช้คุกกี้และไม่ติดตามคุณข้ามเว็บไซต์ เราไม่สร้างโปรไฟล์รายบุคคลหรือขายข้อมูล',
           'Chúng tôi lưu số lượt truy cập tổng hợp (ví dụ số lượt đọc) thông qua phân tích ở cấp edge, không dùng cookie và không theo dõi bạn giữa các trang. Chúng tôi không xây dựng hồ sơ cá nhân hay bán dữ liệu.',
           'Kami menyimpan jumlah pengunjung agregat (mis. jumlah bacaan) melalui analitik di tingkat edge, tanpa cookie dan tanpa melacak Anda lintas situs. Kami tidak membangun profil individu atau menjual data.',
+          'نحتفظ بأعداد إجمالية للزوار (مثل عدد مرات القراءة) عبر تحليلات على مستوى الحافة (edge)، دون ملفات تعريف ارتباط ودون تتبّعك عبر المواقع. لا نُنشئ ملفات تعريف فردية ولا نبيع البيانات.',
         )],
       },
       {
-        h: L('Pengehosan & penghantaran', 'Hosting & delivery', '托管与分发', 'ஹோஸ்டிங் & வழங்கல்', 'ホスティングと配信', '호스팅 및 전송', 'การโฮสต์และการนำส่ง', 'Lưu trữ & phân phối', 'Hosting & pengiriman'),
+        h: L('Pengehosan & penghantaran', 'Hosting & delivery', '托管与分发', 'ஹோஸ்டிங் & வழங்கல்', 'ホスティングと配信', '호스팅 및 전송', 'การโฮสต์และการนำส่ง', 'Lưu trữ & phân phối', 'Hosting & pengiriman', 'الاستضافة والتسليم'),
         p: [L(
           'Laman ini dihoskan di GitHub Pages dan dihantar melalui Cloudflare. Untuk menghantar halaman dengan selamat, penyedia ini memproses data teknikal seperti alamat IP anda bagi tujuan penyampaian, keselamatan dan pencegahan penyalahgunaan. Amalan mereka dilindungi oleh dasar privasi GitHub dan Cloudflare masing-masing.',
           'The site is hosted on GitHub Pages and delivered through Cloudflare. To serve pages securely, these providers process technical data such as your IP address for delivery, security and abuse prevention. Their practices are covered by GitHub’s and Cloudflare’s respective privacy policies.',
@@ -244,10 +258,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'เว็บไซต์นี้โฮสต์อยู่บน GitHub Pages และนำส่งผ่าน Cloudflare เพื่อให้บริการหน้าเว็บอย่างปลอดภัย ผู้ให้บริการเหล่านี้ประมวลผลข้อมูลทางเทคนิค เช่น ที่อยู่ IP ของคุณ เพื่อการนำส่ง ความปลอดภัย และการป้องกันการใช้งานในทางที่ผิด แนวปฏิบัติของพวกเขาอยู่ภายใต้นโยบายความเป็นส่วนตัวของ GitHub และ Cloudflare ตามลำดับ',
           'Trang này được lưu trữ trên GitHub Pages và phân phối qua Cloudflare. Để phục vụ các trang một cách an toàn, các nhà cung cấp này xử lý dữ liệu kỹ thuật như địa chỉ IP của bạn cho mục đích phân phối, bảo mật và ngăn chặn lạm dụng. Cách làm của họ được điều chỉnh bởi chính sách quyền riêng tư tương ứng của GitHub và Cloudflare.',
           'Situs ini dihosting di GitHub Pages dan dikirim melalui Cloudflare. Untuk menyajikan halaman dengan aman, penyedia ini memproses data teknis seperti alamat IP Anda untuk tujuan pengiriman, keamanan, dan pencegahan penyalahgunaan. Praktik mereka diatur oleh kebijakan privasi GitHub dan Cloudflare masing-masing.',
+          'يُستضاف الموقع على GitHub Pages ويُسلَّم عبر Cloudflare. ولتقديم الصفحات بأمان، يعالج هذان المزوّدان بيانات تقنية مثل عنوان IP الخاص بك لأغراض التسليم والأمان ومنع إساءة الاستخدام. وتخضع ممارساتهما لسياستَي الخصوصية الخاصتين بـ GitHub وCloudflare على التوالي.',
         )],
       },
       {
-        h: L('Maklum balas & sumbangan', 'Feedback & contributions', '反馈与贡献', 'கருத்து & பங்களிப்புகள்', 'フィードバックと貢献', '피드백 및 기여', 'ข้อเสนอแนะและการมีส่วนร่วม', 'Phản hồi & đóng góp', 'Umpan balik & kontribusi'),
+        h: L('Maklum balas & sumbangan', 'Feedback & contributions', '反馈与贡献', 'கருத்து & பங்களிப்புகள்', 'フィードバックと貢献', '피드백 및 기여', 'ข้อเสนอแนะและการมีส่วนร่วม', 'Phản hồi & đóng góp', 'Umpan balik & kontribusi', 'الملاحظات والمساهمات'),
         p: [L(
           'Butang "Laporkan isu" dan "Cadang" membuka isu di GitHub. Apa sahaja yang anda taip di sana diuruskan oleh GitHub (di bawah dasar privasi mereka) dan biasanya boleh dilihat umum. Jangan sertakan maklumat sensitif dalam isu awam.',
           'The "Report an issue" and "Suggest" buttons open an issue on GitHub. Anything you type there is handled by GitHub (under their privacy policy) and is usually publicly visible. Don’t include sensitive information in a public issue.',
@@ -258,10 +273,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'ปุ่ม "รายงานปัญหา" และ "เสนอแนะ" จะเปิด issue บน GitHub สิ่งใดก็ตามที่คุณพิมพ์ที่นั่นจะถูกจัดการโดย GitHub (ภายใต้นโยบายความเป็นส่วนตัวของพวกเขา) และมักจะปรากฏต่อสาธารณะ อย่าใส่ข้อมูลที่ละเอียดอ่อนใน issue สาธารณะ',
           'Các nút "Báo cáo sự cố" và "Đề xuất" sẽ mở một issue trên GitHub. Bất cứ điều gì bạn nhập ở đó đều do GitHub xử lý (theo chính sách quyền riêng tư của họ) và thường hiển thị công khai. Đừng đưa thông tin nhạy cảm vào một issue công khai.',
           'Tombol "Laporkan isu" dan "Sarankan" membuka isu di GitHub. Apa pun yang Anda ketik di sana dikelola oleh GitHub (di bawah kebijakan privasi mereka) dan biasanya dapat dilihat publik. Jangan sertakan informasi sensitif dalam isu publik.',
+          'يفتح زرّا "الإبلاغ عن مشكلة" و"اقتراح" issue على GitHub. وأي شيء تكتبه هناك تتولّاه GitHub (بموجب سياسة الخصوصية الخاصة بها) ويكون عادةً ظاهرًا للعموم. لا تُضمّن معلومات حساسة في issue عام.',
         )],
       },
       {
-        h: L('Pautan luar & perkongsian', 'External links & sharing', '外部链接与分享', 'வெளிப் புற இணைப்புகள் & பகிர்வு', '外部リンクと共有', '외부 링크 및 공유', 'ลิงก์ภายนอกและการแบ่งปัน', 'Liên kết ngoài & chia sẻ', 'Tautan eksternal & berbagi'),
+        h: L('Pautan luar & perkongsian', 'External links & sharing', '外部链接与分享', 'வெளிப் புற இணைப்புகள் & பகிர்வு', '外部リンクと共有', '외부 링크 및 공유', 'ลิงก์ภายนอกและการแบ่งปัน', 'Liên kết ngoài & chia sẻ', 'Tautan eksternal & berbagi', 'الروابط الخارجية والمشاركة'),
         p: [L(
           'Butang kongsi memaut ke perkhidmatan pihak ketiga (WhatsApp, Telegram, X, dll.). Apabila anda menggunakannya, dasar privasi perkhidmatan tersebut terpakai.',
           'Share buttons link out to third-party services (WhatsApp, Telegram, X, etc.). When you use them, those services’ privacy policies apply.',
@@ -272,10 +288,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'ปุ่มแบ่งปันเชื่อมโยงออกไปยังบริการของบุคคลที่สาม (WhatsApp, Telegram, X ฯลฯ) เมื่อคุณใช้งาน นโยบายความเป็นส่วนตัวของบริการเหล่านั้นจะมีผลบังคับใช้',
           'Các nút chia sẻ liên kết ra các dịch vụ của bên thứ ba (WhatsApp, Telegram, X, v.v.). Khi bạn sử dụng chúng, chính sách quyền riêng tư của các dịch vụ đó sẽ được áp dụng.',
           'Tombol berbagi menautkan ke layanan pihak ketiga (WhatsApp, Telegram, X, dll.). Saat Anda menggunakannya, kebijakan privasi layanan tersebut berlaku.',
+          'تربط أزرار المشاركة بخدمات تابعة لجهات خارجية (WhatsApp وTelegram وX وغيرها). وعند استخدامها، تنطبق سياسات الخصوصية الخاصة بتلك الخدمات.',
         )],
       },
       {
-        h: L('Kanak-kanak', 'Children', '儿童', 'குழந்தைகள்', '子どもについて', '아동', 'เด็ก', 'Trẻ em', 'Anak-anak'),
+        h: L('Kanak-kanak', 'Children', '儿童', 'குழந்தைகள்', '子どもについて', '아동', 'เด็ก', 'Trẻ em', 'Anak-anak', 'الأطفال'),
         p: [L(
           'Laman ini untuk khalayak umum dan tidak ditujukan untuk mengumpul data daripada kanak-kanak. Kerana kami tidak mengumpul data peribadi di laman ini, tiada data khusus kanak-kanak dikumpul.',
           'The site is for a general audience and is not aimed at collecting data from children. Because we don’t collect personal data on the site, no child-specific data is collected.',
@@ -286,20 +303,21 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'เว็บไซต์นี้มีไว้สำหรับผู้ชมทั่วไปและไม่ได้มุ่งเก็บข้อมูลจากเด็ก เนื่องจากเราไม่เก็บข้อมูลส่วนบุคคลบนเว็บไซต์นี้ จึงไม่มีการเก็บข้อมูลเฉพาะของเด็ก',
           'Trang này dành cho công chúng nói chung và không nhằm thu thập dữ liệu từ trẻ em. Vì chúng tôi không thu thập dữ liệu cá nhân trên trang này, nên không có dữ liệu riêng của trẻ em nào được thu thập.',
           'Situs ini untuk khalayak umum dan tidak ditujukan untuk mengumpulkan data dari anak-anak. Karena kami tidak mengumpulkan data pribadi di situs ini, tidak ada data khusus anak-anak yang dikumpulkan.',
+          'الموقع موجّه لجمهور عام وليس هدفه جمع بيانات من الأطفال. ولأننا لا نجمع بيانات شخصية على الموقع، فلا تُجمع أي بيانات خاصة بالأطفال.',
         )],
       },
       {
-        h: L('Perubahan', 'Changes', '变更', 'மாற்றங்கள்', '変更', '변경', 'การเปลี่ยนแปลง', 'Thay đổi', 'Perubahan'),
+        h: L('Perubahan', 'Changes', '变更', 'மாற்றங்கள்', '変更', '변경', 'การเปลี่ยนแปลง', 'Thay đổi', 'Perubahan', 'التغييرات'),
         p: [changesP],
       },
       {
-        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு', 'お問い合わせ', '문의', 'ติดต่อ', 'Liên hệ', 'Kontak'),
+        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு', 'お問い合わせ', '문의', 'ติดต่อ', 'Liên hệ', 'Kontak', 'اتصل بنا'),
         p: [contactP],
       },
     ],
   },
   cookies: {
-    title: L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை', 'クッキーポリシー', '쿠키 정책', 'นโยบายคุกกี้', 'Chính sách Cookie', 'Kebijakan Cookie'),
+    title: L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை', 'クッキーポリシー', '쿠키 정책', 'นโยบายคุกกี้', 'Chính sách Cookie', 'Kebijakan Cookie', 'سياسة ملفات تعريف الارتباط'),
     tagline: L(
       'Versi pendek: laman ini tidak menetapkan kuki penjejak atau pengiklanan.',
       'The short version: this site sets no tracking or advertising cookies.',
@@ -310,10 +328,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
       'ฉบับสั้น: เว็บไซต์นี้ไม่ตั้งค่าคุกกี้ติดตามหรือคุกกี้โฆษณา',
       'Bản ngắn gọn: trang này không đặt cookie theo dõi hay quảng cáo.',
       'Versi pendek: situs ini tidak menetapkan cookie pelacak atau iklan.',
+      'النسخة المختصرة: هذا الموقع لا يضع أي ملفات تعريف ارتباط للتتبع أو الإعلانات.',
     ),
     sections: [
       {
-        h: L('Versi pendek', 'The short version', '简短版', 'சுருக்கமான பதிப்பு', '要点', '요약', 'ฉบับสั้น', 'Bản ngắn gọn', 'Versi pendek'),
+        h: L('Versi pendek', 'The short version', '简短版', 'சுருக்கமான பதிப்பு', '要点', '요약', 'ฉบับสั้น', 'Bản ngắn gọn', 'Versi pendek', 'النسخة المختصرة'),
         p: [L(
           'NegaraKu.md tidak menetapkan kuki penjejak, analitik atau pengiklanan. Kami tidak menggunakan kuki untuk memprofil anda.',
           'NegaraKu.md does not set tracking, analytics or advertising cookies. We do not use cookies to profile you.',
@@ -324,10 +343,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'NegaraKu.md ไม่ตั้งค่าคุกกี้ติดตาม คุกกี้วิเคราะห์ หรือคุกกี้โฆษณา เราไม่ใช้คุกกี้เพื่อสร้างโปรไฟล์ของคุณ',
           'NegaraKu.md không đặt cookie theo dõi, phân tích hay quảng cáo. Chúng tôi không dùng cookie để lập hồ sơ về bạn.',
           'NegaraKu.md tidak menetapkan cookie pelacak, analitik, atau iklan. Kami tidak menggunakan cookie untuk membuat profil Anda.',
+          'لا يضع NegaraKu.md أي ملفات تعريف ارتباط للتتبع أو التحليلات أو الإعلانات. ولا نستخدم ملفات تعريف الارتباط لتكوين ملف تعريفي عنك.',
         )],
       },
       {
-        h: L('Apa yang kami guna sebaliknya', 'What we use instead', '我们改用什么', 'அதற்குப் பதிலாக நாங்கள் எதைப் பயன்படுத்துகிறோம்', '代わりに使っているもの', '대신 사용하는 것', 'สิ่งที่เราใช้แทน', 'Thứ chúng tôi dùng thay thế', 'Apa yang kami gunakan sebagai gantinya'),
+        h: L('Apa yang kami guna sebaliknya', 'What we use instead', '我们改用什么', 'அதற்குப் பதிலாக நாங்கள் எதைப் பயன்படுத்துகிறோம்', '代わりに使っているもの', '대신 사용하는 것', 'สิ่งที่เราใช้แทน', 'Thứ chúng tôi dùng thay thế', 'Apa yang kami gunakan sebagai gantinya', 'ما نستخدمه بدلًا من ذلك'),
         p: [L(
           'Untuk mengingati keutamaan anda (tema, saiz teks, bahasa), kami menggunakan localStorage pelayar — bukan kuki. Data ini kekal di peranti anda dan tidak pernah dihantar kepada kami. Lihat Dasar Privasi kami untuk butiran.',
           'To remember your preferences (theme, text size, language), we use the browser’s localStorage — not cookies. This data stays on your device and is never sent to us. See our Privacy Policy for details.',
@@ -338,10 +358,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'เพื่อจดจำการตั้งค่าของคุณ (ธีม, ขนาดข้อความ, ภาษา) เราใช้ localStorage ของเบราว์เซอร์ — ไม่ใช่คุกกี้ ข้อมูลนี้อยู่ในอุปกรณ์ของคุณและไม่เคยถูกส่งมาให้เรา ดูรายละเอียดได้ในนโยบายความเป็นส่วนตัวของเรา',
           'Để ghi nhớ tùy chọn của bạn (giao diện, cỡ chữ, ngôn ngữ), chúng tôi dùng localStorage của trình duyệt — không phải cookie. Dữ liệu này ở lại trên thiết bị của bạn và không bao giờ được gửi cho chúng tôi. Xem Chính sách Quyền riêng tư của chúng tôi để biết chi tiết.',
           'Untuk mengingat preferensi Anda (tema, ukuran teks, bahasa), kami menggunakan localStorage peramban — bukan cookie. Data ini tetap di perangkat Anda dan tidak pernah dikirim kepada kami. Lihat Kebijakan Privasi kami untuk detailnya.',
+          'لتذكّر تفضيلاتك (السمة، وحجم النص، واللغة)، نستخدم localStorage الخاص بالمتصفح — لا ملفات تعريف الارتباط. تبقى هذه البيانات على جهازك ولا تُرسَل إلينا أبدًا. راجِع سياسة الخصوصية لدينا للتفاصيل.',
         )],
       },
       {
-        h: L('Kuki yang benar-benar perlu', 'Strictly necessary cookies', '严格必要的 cookie', 'கண்டிப்பாக அவசியமான குக்கீகள்', '必須クッキー', '반드시 필요한 쿠키', 'คุกกี้ที่จำเป็นอย่างยิ่ง', 'Cookie thật sự cần thiết', 'Cookie yang benar-benar diperlukan'),
+        h: L('Kuki yang benar-benar perlu', 'Strictly necessary cookies', '严格必要的 cookie', 'கண்டிப்பாக அவசியமான குக்கீகள்', '必須クッキー', '반드시 필요한 쿠키', 'คุกกี้ที่จำเป็นอย่างยิ่ง', 'Cookie thật sự cần thiết', 'Cookie yang benar-benar diperlukan', 'ملفات تعريف الارتباط الضرورية للغاية'),
         p: [L(
           'Penyedia infrastruktur kami (Cloudflare) mungkin menetapkan kuki yang benar-benar perlu untuk keselamatan dan prestasi (cth. mengurangkan serangan). Kuki jenis ini tidak menjejaki anda untuk pengiklanan dan biasanya tidak memerlukan persetujuan di bawah undang-undang privasi.',
           'Our infrastructure provider (Cloudflare) may set strictly necessary cookies for security and performance (e.g. mitigating attacks). These do not track you for advertising and generally do not require consent under privacy law.',
@@ -352,10 +373,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'ผู้ให้บริการโครงสร้างพื้นฐานของเรา (Cloudflare) อาจตั้งค่าคุกกี้ที่จำเป็นอย่างยิ่งเพื่อความปลอดภัยและประสิทธิภาพ (เช่น การบรรเทาการโจมตี) คุกกี้เหล่านี้ไม่ติดตามคุณเพื่อการโฆษณา และโดยทั่วไปไม่จำเป็นต้องได้รับความยินยอมภายใต้กฎหมายความเป็นส่วนตัว',
           'Nhà cung cấp hạ tầng của chúng tôi (Cloudflare) có thể đặt các cookie thật sự cần thiết cho bảo mật và hiệu năng (ví dụ giảm thiểu tấn công). Những cookie này không theo dõi bạn cho mục đích quảng cáo và thường không cần sự đồng ý theo luật quyền riêng tư.',
           'Penyedia infrastruktur kami (Cloudflare) mungkin menetapkan cookie yang benar-benar diperlukan untuk keamanan dan kinerja (mis. meredam serangan). Cookie jenis ini tidak melacak Anda untuk iklan dan biasanya tidak memerlukan persetujuan di bawah hukum privasi.',
+          'قد يضع مزوّد البنية التحتية لدينا (Cloudflare) ملفات تعريف ارتباط ضرورية للغاية لأغراض الأمان والأداء (مثل التخفيف من الهجمات). وهذه لا تتعقّبك لأغراض الإعلان ولا تتطلب عادةً موافقةً بموجب قانون الخصوصية.',
         )],
       },
       {
-        h: L('Tiada kuki pihak ketiga penjejak', 'No third-party tracking cookies', '无第三方跟踪 cookie', 'மூன்றாம் தரப்பு கண்காணிப்பு குக்கீகள் இல்லை', '第三者の追跡クッキーはありません', '제3자 추적 쿠키 없음', 'ไม่มีคุกกี้ติดตามของบุคคลที่สาม', 'Không có cookie theo dõi của bên thứ ba', 'Tanpa cookie pelacak pihak ketiga'),
+        h: L('Tiada kuki pihak ketiga penjejak', 'No third-party tracking cookies', '无第三方跟踪 cookie', 'மூன்றாம் தரப்பு கண்காணிப்பு குக்கீகள் இல்லை', '第三者の追跡クッキーはありません', '제3자 추적 쿠키 없음', 'ไม่มีคุกกี้ติดตามของบุคคลที่สาม', 'Không có cookie theo dõi của bên thứ ba', 'Tanpa cookie pelacak pihak ketiga', 'لا ملفات تعريف ارتباط تتبّع من جهات خارجية'),
         p: [L(
           'Kami tidak memuatkan skrip analitik atau pengiklanan pihak ketiga yang menetapkan kuki. Butang kongsi hanya memaut keluar; ia tidak menetapkan kuki melainkan anda melawat perkhidmatan tersebut.',
           'We don’t load third-party analytics or advertising scripts that set cookies. Share buttons only link out; they don’t set cookies unless you visit those services.',
@@ -366,10 +388,11 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'เราไม่โหลดสคริปต์วิเคราะห์หรือโฆษณาของบุคคลที่สามที่ตั้งค่าคุกกี้ ปุ่มแบ่งปันเพียงเชื่อมโยงออกไปภายนอกเท่านั้น จะไม่ตั้งค่าคุกกี้เว้นแต่คุณจะเข้าเยี่ยมชมบริการเหล่านั้น',
           'Chúng tôi không tải các script phân tích hay quảng cáo của bên thứ ba có đặt cookie. Các nút chia sẻ chỉ liên kết ra ngoài; chúng không đặt cookie trừ khi bạn truy cập các dịch vụ đó.',
           'Kami tidak memuat skrip analitik atau iklan pihak ketiga yang menetapkan cookie. Tombol berbagi hanya menautkan keluar; ia tidak menetapkan cookie kecuali Anda mengunjungi layanan tersebut.',
+          'لا نُحمّل نصوص تحليلات أو إعلانات برمجية من جهات خارجية تضع ملفات تعريف ارتباط. وأزرار المشاركة تربط بالخارج فقط؛ ولا تضع ملفات تعريف ارتباط ما لم تزُر تلك الخدمات.',
         )],
       },
       {
-        h: L('Mengurus simpanan', 'Managing storage', '管理存储', 'சேமிப்பை நிர்வகித்தல்', 'ストレージの管理', '저장소 관리', 'การจัดการที่จัดเก็บข้อมูล', 'Quản lý lưu trữ', 'Mengelola penyimpanan'),
+        h: L('Mengurus simpanan', 'Managing storage', '管理存储', 'சேமிப்பை நிர்வகித்தல்', 'ストレージの管理', '저장소 관리', 'การจัดการที่จัดเก็บข้อมูล', 'Quản lý lưu trữ', 'Mengelola penyimpanan', 'إدارة التخزين'),
         p: [L(
           'Anda boleh mengosongkan localStorage dan sebarang kuki melalui tetapan pelayar anda pada bila-bila masa. Mengosongkannya hanya menetapkan semula keutamaan anda; ia tidak menjejaskan keupayaan membaca laman ini.',
           'You can clear localStorage and any cookies through your browser settings at any time. Clearing them simply resets your preferences; it doesn’t affect your ability to read the site.',
@@ -380,14 +403,15 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
           'คุณสามารถลบ localStorage และคุกกี้ใด ๆ ผ่านการตั้งค่าเบราว์เซอร์ของคุณได้ทุกเมื่อ การลบเพียงแค่รีเซ็ตการตั้งค่าของคุณเท่านั้น ไม่ส่งผลต่อความสามารถในการอ่านเว็บไซต์นี้',
           'Bạn có thể xóa localStorage và mọi cookie qua cài đặt trình duyệt bất cứ lúc nào. Việc xóa chúng chỉ đơn giản đặt lại tùy chọn của bạn; nó không ảnh hưởng đến khả năng đọc trang của bạn.',
           'Anda dapat menghapus localStorage dan cookie apa pun melalui pengaturan peramban Anda kapan saja. Menghapusnya hanya menyetel ulang preferensi Anda; hal itu tidak memengaruhi kemampuan membaca situs ini.',
+          'يمكنك مسح localStorage وأي ملفات تعريف ارتباط عبر إعدادات متصفحك في أي وقت. ومسحها يُعيد ضبط تفضيلاتك فحسب؛ ولا يؤثر في قدرتك على قراءة الموقع.',
         )],
       },
       {
-        h: L('Perubahan', 'Changes', '变更', 'மாற்றங்கள்', '変更', '변경', 'การเปลี่ยนแปลง', 'Thay đổi', 'Perubahan'),
+        h: L('Perubahan', 'Changes', '变更', 'மாற்றங்கள்', '変更', '변경', 'การเปลี่ยนแปลง', 'Thay đổi', 'Perubahan', 'التغييرات'),
         p: [changesP],
       },
       {
-        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு', 'お問い合わせ', '문의', 'ติดต่อ', 'Liên hệ', 'Kontak'),
+        h: L('Hubungi', 'Contact', '联系我们', 'தொடர்பு', 'お問い合わせ', '문의', 'ติดต่อ', 'Liên hệ', 'Kontak', 'اتصل بنا'),
         p: [contactP],
       },
     ],
@@ -395,13 +419,13 @@ const DOCS: Record<Props['doc'], { title: string; tagline: string; sections: Sec
 };
 
 const d = DOCS[doc];
-const crumbLabel = L('Undang-undang', 'Legal', '法律', 'சட்டம்', '法務', '법률', 'กฎหมาย', 'Pháp lý', 'Hukum');
+const crumbLabel = L('Undang-undang', 'Legal', '法律', 'சட்டம்', '法務', '법률', 'กฎหมาย', 'Pháp lý', 'Hukum', 'الشؤون القانونية');
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الرئيسية'), href: localePath('/', locale) },
     { label: d.title },
   ]}
   title={d.title}
@@ -409,7 +433,7 @@ const crumbLabel = L('Undang-undang', 'Legal', '法律', 'சட்டம்', '
 />
 
 <section class="container legal-doc">
-  <p class="updated">{L('Dikemas kini', 'Updated', '更新', 'புதுப்பிக்கப்பட்டது', '更新日', '업데이트', 'อัปเดต', 'Cập nhật', 'Diperbarui')}: {UPDATED}</p>
+  <p class="updated">{L('Dikemas kini', 'Updated', '更新', 'புதுப்பிக்கப்பட்டது', '更新日', '업데이트', 'อัปเดต', 'Cập nhật', 'Diperbarui', 'آخر تحديث')}: {UPDATED}</p>
 
   <div class="disclaimer">
     {L(
@@ -422,6 +446,7 @@ const crumbLabel = L('Undang-undang', 'Legal', '法律', 'சட்டம்', '
       'เอกสารนี้จัดทำขึ้นเป็นแม่แบบทั่วไปที่ตรงไปตรงมาตามวิธีการทำงานของเว็บไซต์ ไม่ใช่คำแนะนำทางกฎหมาย ผู้ดำเนินการควรให้ทนายความตรวจทานและกรอกรายละเอียดนิติบุคคลและข้อมูลติดต่อก่อนพึ่งพาเอกสารนี้',
       'Tài liệu này được cung cấp như một mẫu chung trung thực dựa trên cách trang hoạt động. Nó không phải tư vấn pháp lý. Đơn vị vận hành nên nhờ luật sư rà soát và điền các chi tiết pháp nhân và liên hệ trước khi dựa vào nó.',
       'Dokumen ini disediakan sebagai templat umum yang jujur berdasarkan cara situs ini bekerja. Ini bukan nasihat hukum. Operator sebaiknya meninjaunya bersama pengacara dan mengisi detail badan hukum serta kontak sebelum bergantung padanya.',
+      'يُقدَّم هذا المستند بوصفه قالبًا عامًا صادقًا مبنيًّا على طريقة عمل الموقع. وهو ليس نصيحة قانونية. وينبغي للمشغّل أن يعرضه على محامٍ لمراجعته وأن يملأ بيانات الكيان القانوني والتواصل قبل الاعتماد عليه.',
     )}
   </div>
 
@@ -436,9 +461,9 @@ const crumbLabel = L('Undang-undang', 'Legal', '法律', 'சட்டம்', '
   ))}
 
   <nav class="cross" aria-label={crumbLabel}>
-    <a href={localePath('/terms', locale)} class={doc === 'terms' ? 'on' : ''}>{L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்', '利用規約', '이용 약관', 'ข้อกำหนดการใช้งาน', 'Điều khoản Sử dụng', 'Ketentuan Penggunaan')}</a>
-    <a href={localePath('/privacy', locale)} class={doc === 'privacy' ? 'on' : ''}>{L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை', 'プライバシーポリシー', '개인정보 처리방침', 'นโยบายความเป็นส่วนตัว', 'Chính sách Quyền riêng tư', 'Kebijakan Privasi')}</a>
-    <a href={localePath('/cookies', locale)} class={doc === 'cookies' ? 'on' : ''}>{L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை', 'クッキーポリシー', '쿠키 정책', 'นโยบายคุกกี้', 'Chính sách Cookie', 'Kebijakan Cookie')}</a>
+    <a href={localePath('/terms', locale)} class={doc === 'terms' ? 'on' : ''}>{L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்', '利用規約', '이용 약관', 'ข้อกำหนดการใช้งาน', 'Điều khoản Sử dụng', 'Ketentuan Penggunaan', 'شروط الاستخدام')}</a>
+    <a href={localePath('/privacy', locale)} class={doc === 'privacy' ? 'on' : ''}>{L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை', 'プライバシーポリシー', '개인정보 처리방침', 'นโยบายความเป็นส่วนตัว', 'Chính sách Quyền riêng tư', 'Kebijakan Privasi', 'سياسة الخصوصية')}</a>
+    <a href={localePath('/cookies', locale)} class={doc === 'cookies' ? 'on' : ''}>{L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை', 'クッキーポリシー', '쿠키 정책', 'นโยบายคุกกี้', 'Chính sách Cookie', 'Kebijakan Cookie', 'سياسة ملفات تعريف الارتباط')}</a>
   </nav>
 </section>
 
