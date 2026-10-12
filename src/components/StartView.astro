@@ -291,7 +291,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
   .prows { display: grid; gap: 0.5rem; }
   .prow {
     display: flex; gap: 0.7rem; align-items: center; text-decoration: none;
-    background: var(--surface-2); border: 1px solid var(--line); border-left: 3px solid var(--c);
+    background: var(--surface-2); border: 1px solid var(--line); border-inline-start: 3px solid var(--c);
     border-radius: 8px; padding: 0.6rem 0.8rem; transition: border-color 0.15s, transform 0.15s;
   }
   .prow:hover { border-color: var(--c); transform: translateX(2px); }

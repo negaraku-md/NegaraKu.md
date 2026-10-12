@@ -134,12 +134,12 @@ const ways = exploreFeatures(locale).filter((f) => !STRIP_HREFS.has(f.href));
   /* Gateway search — a prominent GET form that hands off to /search (?q=). */
   .ex-search { position: relative; display: flex; align-items: center; gap: 0.6rem; }
   .ex-sico {
-    position: absolute; left: 1rem; color: var(--muted);
+    position: absolute; inset-inline-start: 1rem; color: var(--muted);
     display: grid; place-items: center; pointer-events: none;
   }
   .ex-search input {
     flex: 1; min-width: 0; font: inherit; font-size: 1.05rem;
-    padding: 0.85rem 1rem 0.85rem 2.9rem;
+    padding-block: 0.85rem; padding-inline: 2.9rem 1rem;
     border-radius: 12px; border: 1px solid var(--line);
     background: var(--surface); color: var(--ink);
   }

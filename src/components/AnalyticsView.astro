@@ -1695,7 +1695,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   .sx-pill.on { background: var(--gold); color: var(--accent-contrast); }
   .sx-view[hidden] { display: none; }
   .acc-note {
-    border: 1px solid var(--line); border-left: 3px solid var(--gold); border-radius: 10px;
+    border: 1px solid var(--line); border-inline-start: 3px solid var(--gold); border-radius: 10px;
     background: var(--surface); color: var(--ink-soft); font-size: 0.85rem; line-height: 1.6;
     padding: 0.85rem 1rem; margin: 0;
   }
@@ -1717,7 +1717,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   .cov-row { display: grid; grid-template-columns: 8rem 1fr 2rem; gap: 0.6rem; align-items: center; text-decoration: none; color: inherit; }
   .cov-name { font-size: 0.82rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .cov-row:hover .cov-name { color: var(--gold); }
-  .cov-num { font-size: 0.8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+  .cov-num { font-size: 0.8rem; color: var(--muted); text-align: end; font-variant-numeric: tabular-nums; }
 
   /* AI / channel / SEO panels — reuse .cov-row/.track, wider name + number columns */
   .ai-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.4rem; }
@@ -1726,7 +1726,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   .ai-grid .ai-row { grid-template-columns: 9.5rem 1fr 3.4rem; }
   .ai-top .cov-row { grid-template-columns: minmax(0, 1fr) 5rem 3.4rem; }
   @media (max-width: 800px) { .ai-grid { grid-template-columns: 1fr; } }
-  .fbtable td, .fbtable th:not(.chan) { text-align: right; font-variant-numeric: tabular-nums; }
+  .fbtable td, .fbtable th:not(.chan) { text-align: end; font-variant-numeric: tabular-nums; }
 
   /* Trend charts */
   .tr-head { display: flex; flex-wrap: wrap; gap: 0.5rem 0.8rem; align-items: center; margin: 0 0 0.9rem; }
@@ -1767,14 +1767,14 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   #legend-daily .lg b, #legend-seo .lg b, #legend-lang .lg b, #legend-aibot .lg b { color: var(--ink); font-variant-numeric: tabular-nums; }
   #chan-bars .cov-row, #pv-results .cov-row { display: grid; grid-template-columns: minmax(0, 1fr) 5rem 4rem; gap: 0.6rem; align-items: center; }
   #chan-bars .cov-name, #pv-results .cov-name { font-size: 0.82rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  #chan-bars .cov-num, #pv-results .cov-num { font-size: 0.8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+  #chan-bars .cov-num, #pv-results .cov-num { font-size: 0.8rem; color: var(--muted); text-align: end; font-variant-numeric: tabular-nums; }
   #chan-bars .track, #pv-results .track { display: block; height: 9px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
   #chan-bars .track .fill, #pv-results .track .fill { display: block; height: 100%; border-radius: 999px; background: var(--gold); }
 
   /* Traffic explorer — headline tiles (static) + everything under #tx-app (JS-injected) */
   .tx-tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.9rem; }
   @media (max-width: 640px) { .tx-tiles { grid-template-columns: 1fr; } }
-  .tx-tile { background: var(--surface); border: 1px solid var(--line); border-left: 3px solid var(--gold); border-radius: 12px; padding: 0.9rem 1rem; display: flex; flex-direction: column; gap: 0.15rem; }
+  .tx-tile { background: var(--surface); border: 1px solid var(--line); border-inline-start: 3px solid var(--gold); border-radius: 12px; padding: 0.9rem 1rem; display: flex; flex-direction: column; gap: 0.15rem; }
   .tx-tile .tx-k { font-size: 0.72rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
   .tx-tile .tx-v { font-size: 1.7rem; font-weight: 800; color: var(--ink); font-variant-numeric: tabular-nums; font-family: var(--font-title); line-height: 1.15; }
   .tx-tile .tx-s { font-size: 0.72rem; color: var(--muted); }
@@ -1800,7 +1800,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   #tx-app .tx-chip button { border: 0; background: transparent; color: var(--muted); cursor: pointer; font-size: 0.95rem; line-height: 1; padding: 0 0.2rem; }
   #tx-app .tx-chip button:hover { color: #f87171; }
   #tx-app .tx-addf select, #tx-app .tx-cfg select { font: inherit; font-size: 0.8rem; color: var(--ink); background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px; padding: 0.25rem 0.4rem; cursor: pointer; }
-  #tx-app .tx-addf select { margin-right: 0.3rem; }
+  #tx-app .tx-addf select { margin-inline-end: 0.3rem; }
   #tx-app .tx-clear { border: 0; background: transparent; color: var(--muted); font: inherit; font-size: 0.76rem; text-decoration: underline; cursor: pointer; }
   #tx-app .tx-meta { margin: 0 0 0.9rem; }
 
@@ -1816,15 +1816,15 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   #tx-app .tx-cfg { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: end; padding: 0.5rem; margin-bottom: 0.6rem; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
   #tx-app .tx-cfg[hidden] { display: none; }
   #tx-app .tx-cfg label { display: flex; flex-direction: column; gap: 0.2rem; font-size: 0.66rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); }
-  #tx-app .tx-cfg-btns { display: flex; gap: 0.4rem; margin-left: auto; align-self: center; }
+  #tx-app .tx-cfg-btns { display: flex; gap: 0.4rem; margin-inline-start: auto; align-self: center; }
   #tx-app .tx-cfg-btns button { border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft); font: inherit; font-size: 0.74rem; font-weight: 700; padding: 0.35rem 0.6rem; border-radius: 8px; cursor: pointer; }
   #tx-app .tx-cfg-btns .tx-del:hover { border-color: #f87171; color: #f87171; }
 
   #tx-app .tx-pbody { display: grid; gap: 0.35rem; }
   #tx-app .cov-row { display: grid; grid-template-columns: minmax(6rem, 11rem) minmax(0, 1fr) 5.75rem; gap: 0.6rem; align-items: center; }
   #tx-app .cov-name { font-size: 0.8rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  #tx-app .cov-num { font-size: 0.78rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; display: inline-flex; gap: 0.35rem; align-items: baseline; justify-content: flex-end; }
-  #tx-app .tx-pct { color: var(--muted); font-size: 0.68rem; font-style: normal; min-width: 2.2rem; text-align: right; }
+  #tx-app .cov-num { font-size: 0.78rem; color: var(--muted); text-align: end; font-variant-numeric: tabular-nums; display: inline-flex; gap: 0.35rem; align-items: baseline; justify-content: flex-end; }
+  #tx-app .tx-pct { color: var(--muted); font-size: 0.68rem; font-style: normal; min-width: 2.2rem; text-align: end; }
   #tx-app .track { display: block; height: 9px; background: var(--line); border-radius: 999px; overflow: hidden; }
   #tx-app .track .fill { display: block; height: 100%; border-radius: 999px; background: var(--gold); }
   #tx-app .tx-click { cursor: pointer; }
@@ -1837,14 +1837,14 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   #tx-app .tx-legend { display: grid; gap: 0.3rem; font-size: 0.76rem; color: var(--ink-soft); flex: 1 1 8rem; min-width: 8rem; }
   #tx-app .tx-legend .tx-lg { display: inline-flex; align-items: center; gap: 0.4rem; }
   #tx-app .tx-legend .tx-lg i { width: 0.7rem; height: 0.7rem; border-radius: 3px; flex: 0 0 auto; }
-  #tx-app .tx-legend .tx-lg b { color: var(--ink); font-variant-numeric: tabular-nums; margin-left: auto; }
-  #tx-app .tx-legend .tx-lg em { color: var(--muted); font-style: normal; min-width: 2.4rem; text-align: right; }
+  #tx-app .tx-legend .tx-lg b { color: var(--ink); font-variant-numeric: tabular-nums; margin-inline-start: auto; }
+  #tx-app .tx-legend .tx-lg em { color: var(--muted); font-style: normal; min-width: 2.4rem; text-align: end; }
   #tx-app .tx-legend .tx-click:hover { color: var(--gold); }
 
   /* Live query (contributor-only) — hidden until <html data-contributor="true"> */
   .tx-live-wrap { display: none; }
   :root[data-contributor="true"] .tx-live-wrap { display: block; }
-  .tx-live-wrap .tx-badge { font-size: 0.6rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; color: #1a1400; background: var(--gold); padding: 0.1rem 0.45rem; border-radius: 999px; vertical-align: middle; margin-left: 0.5rem; font-style: normal; }
+  .tx-live-wrap .tx-badge { font-size: 0.6rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; color: #1a1400; background: var(--gold); padding: 0.1rem 0.45rem; border-radius: 999px; vertical-align: middle; margin-inline-start: 0.5rem; font-style: normal; }
   .tl-controls { display: flex; flex-wrap: wrap; gap: 0.8rem 1.1rem; align-items: flex-end; margin: 0.4rem 0 0.2rem; }
   .tl-field { display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); }
   .tl-field select { font: inherit; font-size: 0.85rem; font-weight: 600; text-transform: none; letter-spacing: normal; color: var(--ink); background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.5rem; cursor: pointer; }
@@ -1856,7 +1856,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   #tl-results { display: grid; gap: 0.35rem; }
   #tl-results .cov-row { display: grid; grid-template-columns: minmax(6rem, 11rem) minmax(0, 1fr) 4.25rem; gap: 0.6rem; align-items: center; }
   #tl-results .cov-name { font-size: 0.8rem; color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  #tl-results .cov-num { font-size: 0.78rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+  #tl-results .cov-num { font-size: 0.78rem; color: var(--muted); text-align: end; font-variant-numeric: tabular-nums; }
   #tl-results .track { display: block; height: 9px; background: var(--line); border-radius: 999px; overflow: hidden; }
   #tl-results .track .fill { display: block; height: 100%; border-radius: 999px; background: var(--gold); }
 </style>

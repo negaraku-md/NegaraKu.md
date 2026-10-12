@@ -23,3 +23,9 @@
   display: inline-block;
   transform: scaleX(-1);
 }
+
+/* StartView rows nudge "forward" (toward the reading direction) on hover — that's
+   rightward in LTR, so leftward under RTL. */
+[dir='rtl'] .prow:hover {
+  transform: translateX(-2px);
+}

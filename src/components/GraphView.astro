@@ -447,7 +447,7 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
   }
   .gs-ico {
     position: absolute;
-    left: 0.75rem;
+    inset-inline-start: 0.75rem;
     color: var(--muted);
     display: grid;
     place-items: center;
@@ -459,7 +459,7 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
     max-width: 420px;
     font: inherit;
     font-size: 0.92rem;
-    padding: 0.5rem 0.8rem 0.5rem 2.3rem;
+    padding-block: 0.5rem; padding-inline: 2.3rem 0.8rem;
     border-radius: 10px;
     border: 1px solid var(--line);
     background: var(--surface);

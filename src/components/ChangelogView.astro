@@ -287,7 +287,7 @@ const enNote = L(
   .pager-top { margin-top: 0; margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
   .pager:not(.pager-top) { padding-top: 1rem; border-top: 1px solid var(--line); }
   .pg-size { display: flex; align-items: center; gap: 0.8rem; color: var(--muted); }
-  .pg-size select { font: inherit; margin-left: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .pg-size select { font: inherit; margin-inline-start: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
   .pg-nav { display: flex; align-items: center; gap: 0.3rem; }
   .pg-nav button { min-width: 2rem; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); background: var(--surface); color: var(--ink); cursor: pointer; font-size: 1rem; line-height: 1; }
   .pg-nav button:hover:not(:disabled) { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); color: var(--gold); }
@@ -301,11 +301,11 @@ const enNote = L(
   .cl-list { display: flex; flex-direction: column; gap: 0.55rem; }
   .cl-list :global(.cl-row) {
     display: grid; grid-template-columns: auto 1fr; gap: 0.8rem; align-items: start;
-    border: 1px solid var(--line); border-left: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+    border: 1px solid var(--line); border-inline-start: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
     border-radius: 12px; background: var(--surface); padding: 0.9rem 1.1rem;
     transition: border-color 0.15s ease, background 0.15s ease;
   }
-  .cl-list :global(.cl-row:hover) { border-left-color: var(--gold); background: var(--surface-2); }
+  .cl-list :global(.cl-row:hover) { border-inline-start-color: var(--gold); background: var(--surface-2); }
   .cl-list :global(.cl-ico) { font-size: 1.1rem; line-height: 1.4; }
   .cl-list :global(.cl-title) { margin: 0 0 0.5rem; font-family: var(--font-title); font-weight: 700; font-size: 1rem; color: var(--ink); line-height: 1.4; }
   .cl-list :global(.cl-meta) { display: flex; flex-wrap: wrap; gap: 0.4rem; }

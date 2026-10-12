@@ -386,7 +386,7 @@ const more = [
   .story { position: relative; overflow: hidden; }
   .story .psec-body.prose { max-width: 62ch; position: relative; z-index: 1; }
   .story-bloom {
-    position: absolute; right: 1.5rem; bottom: 1.1rem;
+    position: absolute; inset-inline-end: 1.5rem; bottom: 1.1rem;
     width: clamp(140px, 15vw, 230px); height: auto;
     color: var(--gold); opacity: 0.08; pointer-events: none; z-index: 0;
   }
@@ -405,7 +405,7 @@ const more = [
 
   /* Core values — compact principles, gold titles, a left gold rule per item. */
   .values { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 1rem 1.5rem; }
-  .value { border-left: 2px solid var(--gold); padding-left: 0.85rem; }
+  .value { border-inline-start: 2px solid var(--gold); padding-inline-start: 0.85rem; }
   .value b { display: block; font-family: var(--font-title); font-size: 1rem; color: var(--ink); margin-bottom: 0.25rem; }
   .value p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.55; }
 
@@ -413,7 +413,7 @@ const more = [
   .gh-body .lead { margin: 0 0 1.2rem; color: var(--ink-soft); line-height: 1.7; }
   .gh-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem; }
   .gh-grid > div > b { display: block; font-family: var(--font-title); color: var(--gold); font-size: 0.95rem; margin: 0 0 0.55rem; }
-  .gh-grid ul { margin: 0; padding-left: 1.1rem; color: var(--ink-soft); line-height: 1.6; font-size: 0.92rem; display: grid; gap: 0.4rem; }
+  .gh-grid ul { margin: 0; padding-inline-start: 1.1rem; color: var(--ink-soft); line-height: 1.6; font-size: 0.92rem; display: grid; gap: 0.4rem; }
   .gh-note { margin: 1.4rem 0 0; padding-top: 1.1rem; border-top: 1px solid var(--line); color: var(--ink-soft); line-height: 1.65; }
   .gh-cta { margin: 1.3rem 0 0; }
   @media (max-width: 700px) { .gh-grid { grid-template-columns: 1fr; gap: 1.2rem; } }

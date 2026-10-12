@@ -77,7 +77,7 @@ const dateFmt = (d: string) =>
   .timeline { list-style: none; margin: 0; padding: 0; position: relative; }
   /* The vertical spine. */
   .timeline::before {
-    content: ''; position: absolute; left: 1.15rem; top: 0.6rem; bottom: 0.6rem;
+    content: ''; position: absolute; inset-inline-start: 1.15rem; top: 0.6rem; bottom: 0.6rem;
     width: 2px; background: linear-gradient(var(--gold), color-mix(in srgb, var(--gold) 20%, transparent));
   }
   .ms-item { position: relative; display: flex; gap: 1.1rem; padding: 0 0 1.9rem 0; }

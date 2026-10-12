@@ -206,9 +206,9 @@ const I18N = {
   .swrap { padding-block: 1.6rem 3rem; min-height: 50vh; }
 
   .s-form { position: relative; display: flex; align-items: center; margin-bottom: 1.2rem; }
-  .s-ico { position: absolute; left: 1rem; color: var(--muted); display: grid; place-items: center; pointer-events: none; }
+  .s-ico { position: absolute; inset-inline-start: 1rem; color: var(--muted); display: grid; place-items: center; pointer-events: none; }
   #search-input {
-    width: 100%; font: inherit; font-size: 1.05rem; padding: 0.85rem 1rem 0.85rem 2.9rem;
+    width: 100%; font: inherit; font-size: 1.05rem; padding-block: 0.85rem; padding-inline: 2.9rem 1rem;
     border-radius: 12px; border: 1px solid var(--line); background: var(--surface); color: var(--ink);
   }
   #search-input:focus { outline: none; border-color: var(--gold); }
@@ -218,11 +218,11 @@ const I18N = {
 
   .s-list { display: flex; flex-direction: column; gap: 0.55rem; }
   .s-list :global(.s-card) {
-    display: block; border: 1px solid var(--line); border-left: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+    display: block; border: 1px solid var(--line); border-inline-start: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
     border-radius: 12px; background: var(--surface); padding: 0.9rem 1.1rem; text-decoration: none; color: inherit;
     transition: border-color 0.15s ease, background 0.15s ease;
   }
-  .s-list :global(.s-card:hover) { border-left-color: var(--gold); background: var(--surface-2); }
+  .s-list :global(.s-card:hover) { border-inline-start-color: var(--gold); background: var(--surface-2); }
   .s-list :global(.s-title) { margin: 0 0 0.35rem; font-family: var(--font-title); font-weight: 700; font-size: 1.05rem; color: var(--ink); line-height: 1.35; }
   .s-list :global(.s-excerpt) { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.6; }
   .s-list :global(.s-excerpt mark) { background: color-mix(in srgb, var(--gold) 28%, transparent); color: var(--ink); border-radius: 3px; padding: 0 0.15em; }
@@ -232,7 +232,7 @@ const I18N = {
   .pager-top { margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
   .pager-bottom { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var(--line); }
   .pg-size { display: flex; align-items: center; gap: 0.8rem; color: var(--muted); }
-  .pg-size select { font: inherit; margin-left: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .pg-size select { font: inherit; margin-inline-start: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
   .pg-nav { display: flex; align-items: center; gap: 0.3rem; }
   .pg-nav button { min-width: 2rem; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); background: var(--surface); color: var(--ink); cursor: pointer; font-size: 1rem; line-height: 1; }
   .pg-nav button:hover:not(:disabled) { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); color: var(--gold); }
