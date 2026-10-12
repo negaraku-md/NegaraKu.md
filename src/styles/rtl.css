@@ -1,0 +1,25 @@
+/* rtl.css — RTL corrections that logical CSS properties can't express on their own,
+   mainly MIRRORING directional glyphs/icons. Every rule is scoped under [dir="rtl"]
+   (set on <html> for Arabic in BaseLayout), so the 9 LTR locales are never affected.
+   Imported globally after global.css. Prefer logical properties (margin-inline,
+   inset-inline, text-align:start/end) in components; use this only for glyph flips.
+
+   Keep in sync with the locale set: RTL applies to ar (and future ur/fa). */
+
+/* Pager navigation glyphs — first «, prev ‹, next ›, last » — point a physical way.
+   The flex row already reverses under RTL; this flips the glyph shape so « reads as »
+   and ‹ as › on the correct side. (ArticleList and any reused pager.) */
+[dir='rtl'] .pg-first,
+[dir='rtl'] .pg-prev,
+[dir='rtl'] .pg-next,
+[dir='rtl'] .pg-last {
+  display: inline-block;
+  transform: scaleX(-1);
+}
+
+/* Breadcrumb / flow connectors (the "›" between path or lifecycle steps) are a
+   directional chevron, so mirror them to "‹" under RTL. */
+[dir='rtl'] .sep {
+  display: inline-block;
+  transform: scaleX(-1);
+}

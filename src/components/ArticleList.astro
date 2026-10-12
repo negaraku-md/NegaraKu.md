@@ -702,7 +702,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .tgl-all:hover { color: var(--gold); text-decoration-color: var(--gold); }
   /* Hint that the Display toggles expand each card. */
-  .tgl-hint { font-size: 0.75rem; color: var(--muted); align-self: center; margin-right: 0.1rem; }
+  .tgl-hint { font-size: 0.75rem; color: var(--muted); align-self: center; margin-inline-end: 0.1rem; }
   .controls select, .tb-line input[type='search'] {
     font: inherit; font-size: 0.85rem; padding: 0.45rem 0.7rem; border-radius: 8px;
     border: 1px solid var(--line); background: var(--surface); color: var(--ink);
@@ -727,13 +727,13 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .acards :global(.dh-line) { flex: 1; height: 1px; background: var(--line); }
   .acards :global(.acard) {
-    border: 1px solid var(--line); border-left: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+    border: 1px solid var(--line); border-inline-start: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
     border-radius: 12px; background: var(--surface);
     padding: 1rem 1.15rem; transition: border-color 0.15s ease, background 0.15s ease;
   }
   .acards :global(.acard:hover) {
     border-color: color-mix(in srgb, var(--gold) 50%, var(--line));
-    border-left-color: var(--gold); background: var(--surface-2);
+    border-inline-start-color: var(--gold); background: var(--surface-2);
   }
   .acards :global(.atitle) {
     font-family: var(--font-title); font-weight: 700; font-size: 1.05rem; line-height: 1.35;
@@ -800,7 +800,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .acards :global(.custody .steps li) { display: inline-flex; align-items: center; gap: 0.4rem; color: var(--ink-soft); }
   .acards :global(.custody .steps li:not(:last-child))::after {
-    content: '›'; margin-left: 0.4rem; color: var(--muted); opacity: 0.55; font-size: 0.9rem;
+    content: '›'; margin-inline-start: 0.4rem; color: var(--muted); opacity: 0.55; font-size: 0.9rem;
   }
   .acards :global(.custody li.todo) { opacity: 0.6; }
   .acards :global(.custody .dot) { width: 0.5rem; height: 0.5rem; border-radius: 50%; flex: none; }
@@ -831,7 +831,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   /* Close the list with a matching rule, so it's bracketed top and bottom. */
   .pager:not(.pager-top) { padding-top: 1rem; border-top: 1px solid var(--line); }
   .pg-size { display: flex; align-items: center; gap: 0.8rem; color: var(--muted); }
-  .pg-size select { font: inherit; margin-left: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .pg-size select { font: inherit; margin-inline-start: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
   .pg-nav { display: flex; align-items: center; gap: 0.3rem; }
   .pg-nav button {
     min-width: 2rem; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid var(--line);

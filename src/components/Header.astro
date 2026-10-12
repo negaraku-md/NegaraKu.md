@@ -426,7 +426,7 @@ const NAV_GROUPS = [
   .dropdown {
     position: absolute;
     top: calc(100% + 4px);
-    left: 0;
+    inset-inline-start: 0;
     min-width: 240px;
     background: var(--surface);
     /* Light, clearly-visible edge: mostly the bright ink so it reads near-white
@@ -566,9 +566,9 @@ const NAV_GROUPS = [
   .lang-menu-list {
     position: absolute;
     top: calc(100% + 6px);
-    /* `.tools` sits at the bar's right edge on mobile, so open the menu leftward
-       (anchor its right edge) to stay on-screen rather than off the right edge. */
-    right: 0;
+    /* `.tools` sits at the bar's inline-end edge, so open the menu toward inline-start
+       (anchor its inline-end edge) to stay on-screen. Logical, so it mirrors under RTL. */
+    inset-inline-end: 0;
     min-width: 180px;
     display: flex;
     flex-direction: column;
@@ -627,8 +627,7 @@ const NAV_GROUPS = [
       display: none;
       position: absolute;
       top: var(--nav-height);
-      left: 0;
-      right: 0;
+      inset-inline: 0;
       flex-direction: column;
       align-items: stretch;
       gap: 0;

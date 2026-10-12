@@ -1,5 +1,6 @@
 ---
 import '@/styles/global.css';
+import '@/styles/rtl.css';
 // Self-hosted brand fonts (Fontsource, latin subset). Vite fingerprints and
 // bundles the woff2; no third-party request for the Latin fonts. Weights match
 // --font-title (Montserrat 600–900) and --font-reading (Lato 400/700).
@@ -525,7 +526,7 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
     <style>
       .to-top {
         position: fixed;
-        right: clamp(1rem, 3vw, 2rem);
+        inset-inline-end: clamp(1rem, 3vw, 2rem);
         bottom: clamp(1rem, 3vw, 2rem);
         z-index: 45;
         width: 44px;

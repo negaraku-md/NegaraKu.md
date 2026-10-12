@@ -167,7 +167,7 @@ img {
   font-size: 1.2rem;
 }
 .prose blockquote {
-  border-left: 3px solid var(--gold);
+  border-inline-start: 3px solid var(--gold);
   margin-inline: 0;
   padding-inline-start: 1rem;
   color: var(--ink-soft);
@@ -192,7 +192,7 @@ main img {
 /* Accessibility */
 .skip-link {
   position: absolute;
-  left: -9999px;
+  inset-inline-start: -9999px;
   top: 0;
   background: var(--gold);
   color: var(--accent-contrast);
@@ -201,7 +201,7 @@ main img {
   font-weight: 700;
 }
 .skip-link:focus {
-  left: 1rem;
+  inset-inline-start: 1rem;
   top: 1rem;
 }
 

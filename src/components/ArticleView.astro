@@ -692,7 +692,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .art-hero > .container { position: relative; }
   .hero-bloom {
     position: absolute;
-    right: 0.5rem;
+    inset-inline-end: 0.5rem;
     top: 50%;
     transform: translateY(-50%);
     width: clamp(190px, 22vw, 330px);
@@ -759,9 +759,9 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
     border-bottom: 1px solid var(--line);
   }
   /* Section-header label + leading icon. Monochrome, inherits header colour. */
-  .sec-h { display: inline-flex; align-items: center; gap: 0.42rem; position: relative; padding-left: 0.62rem; }
+  .sec-h { display: inline-flex; align-items: center; gap: 0.42rem; position: relative; padding-inline-start: 0.62rem; }
   .sec-h::before {
-    content: ''; position: absolute; left: 0; top: 50%; transform: translateY(-50%);
+    content: ''; position: absolute; inset-inline-start: 0; top: 50%; transform: translateY(-50%);
     width: 3px; height: 0.95em; border-radius: 2px; background: var(--muted);
   }
   .ico { display: inline-flex; flex: none; }
@@ -772,7 +772,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   /* Gold headers (answer, sponsor) keep the accent tick in their own colour. */
   .l1 > header .sec-h::before, .cta > header .sec-h::before { background: currentColor; opacity: 0.7; }
   .answer { font-size: 1.06rem; line-height: 1.65; margin: 0; }
-  .kt { margin: 0.9rem 0 0; padding-left: 1.15rem; }
+  .kt { margin: 0.9rem 0 0; padding-inline-start: 1.15rem; }
   .kt li { margin: 0.3rem 0; font-size: 0.94rem; }
   .applies {
     margin: 0.9rem 0 0; background: var(--surface-2); border-radius: 9px;
@@ -787,13 +787,13 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   /* Long code blocks / unbroken tokens must scroll inside their box, never the page. */
   .prose :global(pre) { overflow-x: auto; max-width: 100%; }
   .prose :global(code) { overflow-wrap: anywhere; }
-  .prose :global(th), .prose :global(td) { text-align: left; padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--line); }
+  .prose :global(th), .prose :global(td) { text-align: start; padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--line); }
   .prose :global(th) { color: var(--muted); font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.06em; }
   .prose :global(blockquote) {
-    border-left: 3px solid var(--gold); margin: 1.2rem 0; padding: 0.3rem 0 0.3rem 1rem;
+    border-inline-start: 3px solid var(--gold); margin: 1.2rem 0; padding-block: 0.3rem; padding-inline-start: 1rem;
     font-style: italic; color: var(--ink);
   }
-  .prose :global(ol), .prose :global(ul) { padding-left: 1.3rem; }
+  .prose :global(ol), .prose :global(ul) { padding-inline-start: 1.3rem; }
   .prose :global(li) { margin: 0.3rem 0; }
 
   .faqs details {
@@ -815,17 +815,17 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   }
   .verify b { color: #fbbf24; font-family: var(--font-title); font-size: 0.9rem; }
   .verify p { margin: 0.3rem 0 0.4rem; color: var(--ink-soft); font-size: 0.85rem; }
-  .verify ul { margin: 0; padding-left: 1.1rem; color: var(--ink-soft); font-size: 0.85rem; }
+  .verify ul { margin: 0; padding-inline-start: 1.1rem; color: var(--ink-soft); font-size: 0.85rem; }
   .verify li { margin: 0.2rem 0; }
 
-  .src { padding-left: 1.2rem; margin: 0.4rem 0 1.2rem; font-size: 0.89rem; }
+  .src { padding-inline-start: 1.2rem; margin: 0.4rem 0 1.2rem; font-size: 0.89rem; }
   .src a { color: var(--gold); }
   .pub { color: var(--muted); }
   h3 { font-size: 1rem; margin: 0 0 0.4rem; }
   .muted { color: var(--muted); font-size: 0.88rem; }
   .tblwrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; }
   .tblwrap table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
-  .tblwrap th, .tblwrap td { text-align: left; padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--line); }
+  .tblwrap th, .tblwrap td { text-align: start; padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--line); }
   .tblwrap th { color: var(--muted); font-size: 0.7rem; text-transform: uppercase; background: var(--surface-2); }
 
   .rel {
@@ -905,7 +905,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
     font-size: 0.62rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink);
   }
   .trust .r-custody-head .vnote { font-size: 0.68rem; font-style: italic; text-transform: none; letter-spacing: 0; }
-  .trust .r-visit span:first-child { padding-left: 0.2rem; }
+  .trust .r-visit span:first-child { padding-inline-start: 0.2rem; }
   .trust .r-visit .vval { color: var(--ink); font-weight: 700; font-variant-numeric: tabular-nums; }
   .trust .r-visit .vval[title] { cursor: help; text-decoration: underline dotted color-mix(in srgb, var(--muted) 60%, transparent); text-underline-offset: 3px; }
 
@@ -921,12 +921,12 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .chain .ch:last-child { padding-bottom: 0; }
   /* Connector line running through the dots. */
   .chain .ch::before {
-    content: ''; position: absolute; left: 4px; top: 0.72rem; bottom: -0.15rem;
+    content: ''; position: absolute; inset-inline-start: 4px; top: 0.72rem; bottom: -0.15rem;
     width: 2px; background: var(--line);
   }
   .chain .ch:last-child::before { display: none; }
   .chain .ch-dot {
-    position: absolute; left: 0; top: 0.32rem;
+    position: absolute; inset-inline-start: 0; top: 0.32rem;
     width: 10px; height: 10px; border-radius: 50%;
     background: var(--surface); border: 2px solid var(--line); box-sizing: border-box;
   }
@@ -945,14 +945,14 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .edit:first-of-type { padding-top: 0.6rem; }
   .edit:last-of-type { padding-bottom: 0.6rem; }
   .edit:hover { color: var(--gold); }
-  button.edit { width: 100%; text-align: left; background: none; border: 0; font-family: inherit; cursor: pointer; }
+  button.edit { width: 100%; text-align: start; background: none; border: 0; font-family: inherit; cursor: pointer; }
   button.edit.is-done { color: var(--green, #4ade80); }
 
   /* Floating prev/next arrows — sit just left of the site back-to-top button. */
   .artnav {
     position: fixed;
     bottom: clamp(1rem, 3vw, 2rem);
-    right: calc(clamp(1rem, 3vw, 2rem) + 44px + 0.6rem);
+    inset-inline-end: calc(clamp(1rem, 3vw, 2rem) + 44px + 0.6rem);
     z-index: 45;
     display: flex;
     gap: 0.5rem;
@@ -966,9 +966,11 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   }
   .artnav-btn:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
   .artnav-btn svg { width: 20px; height: 20px; }
+  /* RTL: the prev/next chevrons point left/right, so mirror them under dir=rtl. */
+  :global([dir='rtl']) .artnav-btn svg { transform: scaleX(-1); }
   @media (max-width: 560px) {
     /* Keep the row from crowding: tuck the arrows a touch tighter on phones. */
-    .artnav { gap: 0.4rem; right: calc(clamp(1rem, 3vw, 2rem) + 44px + 0.45rem); }
+    .artnav { gap: 0.4rem; inset-inline-end: calc(clamp(1rem, 3vw, 2rem) + 44px + 0.45rem); }
     .artnav-btn { width: 40px; height: 40px; }
   }
 
@@ -982,7 +984,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
     transition: border-color 0.15s;
   }
   .pg:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); }
-  .pg.next { text-align: right; }
+  .pg.next { text-align: end; }
   .pg .dir { color: var(--gold); font-size: 0.74rem; font-weight: 700; }
   .pg b { font-family: var(--font-title); font-size: 0.94rem; color: var(--ink); }
   .pg.empty { border: 0; background: none; }
@@ -990,7 +992,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   /* Heading anchors — hover a section heading to grab a deep link. */
   .prose :global(h2), .prose :global(h3) { position: relative; }
   .prose :global(.hanchor) {
-    position: absolute; left: -1.1rem; top: 0; width: 1.1rem;
+    position: absolute; inset-inline-start: -1.1rem; top: 0; width: 1.1rem;
     color: var(--gold); text-decoration: none; opacity: 0;
     font-weight: 700; transition: opacity 0.12s;
   }
