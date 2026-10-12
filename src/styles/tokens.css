@@ -41,9 +41,9 @@
      fallback occupies the same space as the web font — no reflow (CLS) when
      Montserrat/Lato swap in. They must sit right after the web font in the
      stack; fontaine only defines them, it does not splice custom properties. */
-  --font-title: 'Montserrat', 'Montserrat fallback', 'Noto Sans Tamil', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans Thai', 'Arial', sans-serif; /* headings + wordmark */
+  --font-title: 'Montserrat', 'Montserrat fallback', 'Noto Sans Tamil', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans Thai', 'Noto Sans Arabic', 'Arial', sans-serif; /* headings + wordmark */
   --font-reading: 'Lato', 'Lato fallback', 'Calibri', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, 'Noto Sans Tamil', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans Thai', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
+    Roboto, 'Helvetica Neue', Arial, 'Noto Sans Tamil', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans Thai', 'Noto Sans Arabic', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
   --font-interface: var(--font-reading); /* nav / buttons / meta */
   /* Legacy aliases */
   --font-serif: var(--font-title);
@@ -91,6 +91,15 @@
 :root:lang(vi) {
   --font-title: 'Noto Sans', 'Montserrat', 'Montserrat fallback', 'Arial', sans-serif;
   --font-reading: 'Noto Sans', 'Lato', 'Lato fallback', 'Calibri', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Arabic (first RTL locale): the Latin brand fonts have no Arabic glyphs, so on /ar
+   make Noto Sans Arabic (loaded in BaseLayout) the primary title + reading face, with
+   Montserrat/Lato kept only to render the Latin brand/number runs inside Arabic text.
+   Pairs with the dir="rtl" set on <html> in BaseLayout for ar. */
+:root:lang(ar) {
+  --font-title: 'Noto Sans Arabic', 'Montserrat', 'Montserrat fallback', 'Arial', sans-serif;
+  --font-reading: 'Noto Sans Arabic', 'Lato', 'Lato fallback', 'Calibri', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 /* Opt-in light reading mode (dark stays the default 1company canvas).

@@ -6,7 +6,7 @@ import { SITE } from './site';
 import { localePath, withTrailingSlash, LOCALES } from './i18n';
 
 // BCP-47 language tags for every launched locale (for schema.org inLanguage).
-const BCP47: Record<Locale, string> = { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id' };
+const BCP47: Record<Locale, string> = { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar' };
 
 /** Stable @id for the site's Organization entity — linked from publisher/sponsor. */
 export const ORG_ID = `${SITE}/#organization`;
@@ -34,6 +34,7 @@ export function organizationJsonLd(locale: Locale = 'en'): Record<string, unknow
     th: `ฐานความรู้เกี่ยวกับมาเลเซียแบบโอเพนซอร์สและเป็นมิตรกับ AI — มีให้ ${n} ภาษา`,
     vi: `Cơ sở tri thức mã nguồn mở, thân thiện với AI về Malaysia — bằng ${n} ngôn ngữ.`,
     id: `Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia — dalam ${n} bahasa.`,
+    ar: `قاعدة معرفة مفتوحة المصدر وصديقة للذكاء الاصطناعي عن ماليزيا — بـ ${n} لغات.`,
   }[locale] ?? '';
   return {
     '@context': 'https://schema.org',
@@ -144,7 +145,7 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
     // liftable answer AI assistants and answer engines quote — previously it
     // only existed as on-page text, invisible to structured-data consumers.
     ...(d.answer ? { abstract: d.answer } : {}),
-    inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : locale === 'ko' ? 'ko' : locale === 'id' ? 'id' : 'en',
+    inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : locale === 'ko' ? 'ko' : locale === 'id' ? 'id' : locale === 'ar' ? 'ar' : 'en',
     datePublished: (d.created ?? d.updated).toISOString(),
     dateModified: d.updated.toISOString(),
     mainEntityOfPage: url,
@@ -276,6 +277,7 @@ export function websiteJsonLd(locale: Locale = 'en'): Record<string, unknown> {
     th: 'ฐานความรู้เกี่ยวกับมาเลเซียแบบโอเพนซอร์สและเป็นมิตรกับ AI.',
     vi: 'Cơ sở tri thức mã nguồn mở, thân thiện với AI về Malaysia.',
     id: 'Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia.',
+    ar: 'قاعدة معرفة مفتوحة المصدر وصديقة للذكاء الاصطناعي عن ماليزيا.',
   }[locale] ?? '';
   return {
     '@context': 'https://schema.org',

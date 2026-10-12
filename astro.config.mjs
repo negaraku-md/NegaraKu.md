@@ -34,7 +34,7 @@ function lastmodFor(url) {
   let p = url.replace(SITE, '').replace(/^\/+|\/+$/g, ''); // e.g. "en/malaysia/slug"
   if (!p) return undefined; // homepage
   const seg = p.split('/');
-  const lang = seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ta' || seg[0] === 'ja' ? seg.shift() : 'ms';
+  const lang = seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ta' || seg[0] === 'ja' || seg[0] === 'ar' ? seg.shift() : 'ms';
   if (seg.length < 2) return undefined; // category/list page, not an article
   return lastmodByPath.get(`${lang}/${seg.join('/')}`);
 }
@@ -304,9 +304,9 @@ export default defineConfig({
   },
   i18n: {
     defaultLocale: 'ms',
-    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id'],
+    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar'],
     routing: {
-      prefixDefaultLocale: false, // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi, id /id
+      prefixDefaultLocale: false, // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi, id /id, ar /ar
     },
   },
   integrations: [
@@ -315,6 +315,9 @@ export default defineConfig({
       // ms/en/zh/ta/ja/ko/th/vi/id are all fully launched (in LOCALES, indexed, in this
       // sitemap). Indonesian (`id`) opened 2026-10-04 (Phase 3): the soft-launch filter that
       // held /id out of the sitemap was removed and id added to LOCALES + the locales map.
+      // Arabic (`ar`) is SOFT-LAUNCHED (2026-10-12, first RTL): its routes build but it is
+      // held OUT of this locales map + filtered out below, and out of LOCALES (so /ar pages
+      // are noindex via BaseLayout). At open launch, add ar here + drop the /ar filter.
       i18n: {
         defaultLocale: 'ms',
         locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id' },
@@ -322,9 +325,9 @@ export default defineConfig({
       // Keep noindex-by-design pages OUT of the sitemap. The per-locale
       // /maintenance pages are chrome-less + `noindex` (BaseLayout), so listing
       // them in the sitemap made Google report "Excluded by 'noindex' tag" for
-      // sitemap URLs. (Every other route is index,follow, so nothing else needs
-      // filtering.)
-      filter: (page) => !/\/maintenance\/?$/.test(page),
+      // sitemap URLs. The soft-launched `/ar` locale is likewise held out until open launch.
+      // (Every other route is index,follow, so nothing else needs filtering.)
+      filter: (page) => !/\/maintenance\/?$/.test(page) && !/\/ar(\/|$)/.test(page),
       serialize(item) {
         const lastmod = lastmodFor(item.url);
         if (lastmod) item.lastmod = lastmod;
