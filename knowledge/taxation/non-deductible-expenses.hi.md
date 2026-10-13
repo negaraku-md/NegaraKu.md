@@ -42,10 +42,11 @@ verificationNeeded:
   - "क्या P.U.(A) 425-2021 में s.39(1)(r) छूट को YA2025 से आगे बढ़ाया गया है — Labuan FSA परिपत्र 269/2021 प्रभावी अवधि YA2019 से YA2025 बताता है और कोई विस्तार आदेश नहीं मिला"
   - "क्या paragraphs 39(1)(o) और 39(1)(p), जो Goods and Services Tax Act 2014 का उल्लेख करते हैं, उस अधिनियम के निरसन के बाद भी प्रभावी रहते हैं"
 lang: "hi"
+sourceContentHash: "5306816ff4b971c7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

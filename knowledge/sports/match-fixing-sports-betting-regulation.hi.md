@@ -29,12 +29,13 @@ faq:
     a: "कानूनी सारांशों के अनुसार, रिश्वत अपराध 20 वर्ष तक के कारावास और रिश्वत के मूल्य के पाँच गुना से कम नहीं या RM10,000, जो भी अधिक हो, के जुर्माने से दंडनीय है। इन विवरणों की अधिनियम के पूर्ण पाठ के विरुद्ध पुनः जाँच की जानी चाहिए।"
 
 lang: "hi"
+sourceContentHash: "602c70742033a7cb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

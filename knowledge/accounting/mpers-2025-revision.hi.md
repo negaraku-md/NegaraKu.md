@@ -38,10 +38,11 @@ faq:
     a: "2027 की तिथि जितना सुझाती है उससे कम। पूर्वव्यापी अनुप्रयोग का अर्थ है कि तुलनात्मक अवधि को नए आधार पर तैयार करना होगा, इसलिए दिसंबर में वित्तीय वर्ष समाप्त करने वाली कंपनी 1 जनवरी 2026 से MPERS (2025) डेटा एकत्र कर रही है। यदि राजस्व अनुबंधों का पुनर्विश्लेषण आवश्यक है, तो काम संक्रमण वर्ष से पहले आरंभ होता है, उसमें नहीं।"
 
 lang: "hi"
+sourceContentHash: "016de66c249cb162"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

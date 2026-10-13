@@ -19,12 +19,13 @@ keyTakeaways:
 appliesTo: "ऐसे पाठक जो सबाह का एक तथ्यात्मक प्रोफ़ाइल चाहते हैं — इसका भूगोल, अर्थव्यवस्था और सरकार — और मलेशिया समझौता 1963 के तहत इसकी संवैधानिक स्थिति का एक तटस्थ विवरण।"
 
 lang: "hi"
+sourceContentHash: "d05db2b4db752c79"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

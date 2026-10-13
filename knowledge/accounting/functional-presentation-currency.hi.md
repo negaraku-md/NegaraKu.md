@@ -34,10 +34,11 @@ faq:
     a: "नहीं। कार्यात्मक मुद्रा अंतर्निहित लेनदेन और परिस्थितियों को प्रतिबिंबित करती है, इसलिए यह केवल तभी बदलती है जब वे तथ्य बदलते हैं — उदाहरण के लिए, उस मुद्रा में एक वास्तविक बदलाव जो बिक्री मूल्यों और लागतों को संचालित करती है। यह ऐसी लेखांकन नीति नहीं है जिसे आप अवधि-दर-अवधि चुनते हैं।"
 
 lang: "hi"
+sourceContentHash: "f9e8ad1f0c1fc778"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -30,10 +30,11 @@ faq:
     a: "नहीं। Act 852 सभी तंबाकू और वेप उत्पादों की ऑनलाइन प्लेटफ़ॉर्म और वेंडिंग मशीनों के माध्यम से बिक्री पर प्रतिबंध लगाता है।"
 
 lang: "hi"
+sourceContentHash: "41eadbd4f391ff30"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

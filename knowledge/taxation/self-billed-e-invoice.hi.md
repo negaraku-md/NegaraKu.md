@@ -41,10 +41,11 @@ verificationNeeded:
   - "क्या कैसीनो और गेमिंग मशीनों के लिए सट्टेबाजी और गेमिंग का अपवाद हटा दिया गया है — LHDN कहता है कि यह अगली सूचना तक लागू है, जिसका कोई प्रकाशित समाप्ति तिथि नहीं है"
 
 lang: "hi"
+sourceContentHash: "881bae66be5fb011"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

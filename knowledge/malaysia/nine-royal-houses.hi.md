@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "वे पाठक जो मलेशिया के नौ राजसी राज्यों को पहचानना और शासकों की संवैधानिक स्थिति को वर्णनात्मक रूप में समझना चाहते हैं — छात्र, शोधकर्ता, पत्रकार, लोक अधिकारी और सामान्य पाठक।"
 
 lang: "hi"
+sourceContentHash: "2e19d7c57053d5f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

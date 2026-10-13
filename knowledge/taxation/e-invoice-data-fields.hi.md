@@ -28,10 +28,11 @@ verificationNeeded:
   - "प्रति-एंडपॉइंट API दर-सीमाएँ — SDK FAQ पृष्ठ पर संख्यात्मक सीमाएँ बताए बिना Integration Practices की ओर संकेत करता है"
 
 lang: "hi"
+sourceContentHash: "7457966f1e6638bb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

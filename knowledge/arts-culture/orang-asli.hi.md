@@ -35,12 +35,13 @@ seoTitle: "Orang Asli: तीन मुख्य समूह, 18 उपसम�
 socialTitle: "Orang Asli कौन हैं — तीन समूह, 18 उपसमूह, और वह एजेंसी जो उनकी देखभाल करती है"
 
 lang: "hi"
+sourceContentHash: "22c8505f8289ae57"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

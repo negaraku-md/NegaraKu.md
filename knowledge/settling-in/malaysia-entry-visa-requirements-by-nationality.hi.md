@@ -34,10 +34,11 @@ faq:
     a: "एक अल्पकालिक सामाजिक यात्रा तस्दीक को आम तौर पर बढ़ाया नहीं जा सकता; अधिक समय रुकने के लिए आपको देश छोड़कर फिर से प्रवेश करना होगा। इसे कार्य या छात्र तस्दीक में भी नहीं बदला जा सकता — ये सही वीज़ा चैनल के ज़रिए तब व्यवस्थित की जानी चाहिए, इससे पहले कि आप रोज़गार या पढ़ाई शुरू करें।"
 
 lang: "hi"
+sourceContentHash: "cc706715a5a043c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

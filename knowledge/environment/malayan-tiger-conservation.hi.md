@@ -33,10 +33,11 @@ faq:
     a: "मुख्य कारक हैं बाघ के अंगों के लिए अवैध शिकार और अवैध वन्यजीव व्यापार, वन का क्षरण और आवास की हानि, सड़क पर मृत्यु तथा मानव–बाघ संघर्ष, और घटता शिकार।"
 
 lang: "hi"
+sourceContentHash: "4cb728294e2f0482"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

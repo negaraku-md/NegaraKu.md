@@ -34,10 +34,11 @@ faq:
     a: "मलेशिया विश्व बैंक लॉजिस्टिक्स परफॉर्मेंस इंडेक्स 2023 में 26वें स्थान पर रहा, जो 2018 के 41वें स्थान से ऊपर है, और आसियान देशों में सिंगापुर के बाद दूसरे स्थान पर है।"
 
 lang: "hi"
+sourceContentHash: "5308f8757b834449"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

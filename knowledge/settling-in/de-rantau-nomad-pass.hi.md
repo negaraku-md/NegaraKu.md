@@ -31,10 +31,11 @@ faq:
     a: "हाँ। एक पति/पत्नी या सहजीवी साथी, 18 वर्ष से कम उम्र के बच्चे, एक दिव्यांग बच्चा, और मुख्य धारक के माता-पिता आश्रितों के रूप में आवेदन कर सकते हैं, लेकिन पति/पत्नी इस पास के तहत काम नहीं कर सकते।"
 
 lang: "hi"
+sourceContentHash: "f5c5f5f455206b06"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

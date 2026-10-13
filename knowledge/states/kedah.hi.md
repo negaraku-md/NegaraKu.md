@@ -42,12 +42,13 @@ verificationNeeded:
   - "केदाह के 29वें सुल्तान के अभिषेक समारोह की तिथि की पुष्टि Istana Anak Bukit के आधिकारिक अभिलेखों के विरुद्ध करें; राज्य सरकार का आधिकारिक पृष्ठ केवल घोषणा की तिथि बताता है।"
 
 lang: "hi"
+sourceContentHash: "0d6884ea1dade121"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

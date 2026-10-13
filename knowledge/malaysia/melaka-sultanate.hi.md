@@ -29,11 +29,12 @@ faq:
     a: "दरबार बचा रहा। सुल्तान महमूद शाह और उनके वंशजों ने दक्षिण में मलय शासन फिर से स्थापित किया, सबसे महत्वपूर्ण रूप से जोहोर सल्तनत (Johor Sultanate) में, और मेलाका के दरबार-ढाँचे, विधि-संहिता और भाषा को आगे ले गए। वे संस्थाएँ नगर की स्वतंत्रता से सदियों अधिक टिकीं।"
 
 lang: "hi"
+sourceContentHash: "cf412842ff34bf8f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

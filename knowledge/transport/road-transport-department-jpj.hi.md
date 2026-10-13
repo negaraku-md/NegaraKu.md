@@ -25,9 +25,10 @@ faq:
   - q: "e-LKM क्या है?"
     a: "e-LKM डिजिटल मोटर वाहन लाइसेंस (डिजिटल सड़क कर) है जिसे JPJ ने 2023 से शुरू किया, जो भौतिक स्टिकर की जगह लेता है। इसे MyJPJ ऐप या MySIKAP पोर्टल के माध्यम से देखा जा सकता है।"
 lang: "hi"
+sourceContentHash: "5feaacc87ec61a6a"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

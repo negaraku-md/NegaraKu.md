@@ -31,10 +31,11 @@ faq:
     a: "CIMB स्वयं को एक ASEAN-केंद्रित समूह बताता है जो मलेशिया, इंडोनेशिया, सिंगापुर और थाईलैंड सहित बाजारों में काम करता है। RHB सात क्षेत्रीय बाजारों में काम करता है। Maybank तीन गृह बाजारों — मलेशिया, सिंगापुर और इंडोनेशिया — तक फैला है, साथ ही ASEAN भर में और प्रमुख वैश्विक वित्तीय केंद्रों में इसकी गतिविधियाँ हैं।"
 
 lang: "hi"
+sourceContentHash: "81a33a10e5b5e6c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

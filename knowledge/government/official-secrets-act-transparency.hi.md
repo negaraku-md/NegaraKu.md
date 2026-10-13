@@ -30,12 +30,13 @@ faq:
     a: "संघीय स्तर पर, इस लेख के प्रारूपण के समय तक कोई सूचना-स्वतंत्रता कानून लागू नहीं है। केवल Selangor (2011 में राजपत्रित, 2013 में लागू) और Penang (2010 का अधिनियम) राज्यों के पास सूचना-स्वतंत्रता अधिनियम हैं, जो संबंधित राज्य-सरकारों के अधिकार-क्षेत्र की सूचना तक सीमित हैं। एक संघीय विधेयक जुलाई 2026 में प्रस्तुत किया गया।"
 
 lang: "hi"
+sourceContentHash: "55b6d981106fab77"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

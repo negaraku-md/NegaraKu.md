@@ -31,10 +31,11 @@ faq:
     a: "स्वास्थ्य मंत्रालय निजी स्वास्थ्य सुविधाओं को लाइसेंस देता है और Malaysian Medical Council डॉक्टरों को पंजीकृत करती है और उन पर अनुशासनात्मक कार्रवाई करती है। कई अस्पतालों के पास Malaysian Society for Quality in Health (MSQH) या Joint Commission International (JCI) से स्वैच्छिक मान्यता भी होती है। MHTC उस नियामक शृंखला के बाहर है।"
 
 lang: "hi"
+sourceContentHash: "f3db9e92168dd3e0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

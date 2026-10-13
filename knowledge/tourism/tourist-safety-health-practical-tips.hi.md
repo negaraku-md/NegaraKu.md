@@ -31,12 +31,13 @@ faq:
     a: "कोई सार्वभौमिक प्रवेश टीका आवश्यकता नहीं है, पर US CDC यात्रियों को नियमित टीकों पर अद्यतन रहने और हेपेटाइटिस A तथा टाइफाइड पर विचार करने की सलाह देता है; अपने यात्रा-कार्यक्रम के आधार पर रेबीज़, जापानी एन्सेफ़लाइटिस और मलेरिया की गोलियों के बारे में एक यात्रा क्लिनिक से चर्चा करें।"
 
 lang: "hi"
+sourceContentHash: "e99fd08a031d5f4f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

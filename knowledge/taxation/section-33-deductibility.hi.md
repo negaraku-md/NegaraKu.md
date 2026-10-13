@@ -38,10 +38,11 @@ faq:
     a: "करदाता को। Income Tax Act 1967 की Schedule 5 का पैराग्राफ 13 यह साबित करने का भार कि कोई निर्धारण अत्यधिक या त्रुटिपूर्ण है, अपीलकर्ता पर रखता है। व्यवहार में इसका अर्थ है चालान, समझौते, भुगतान वाउचर और इस बात का प्रमाण कि सेवा वास्तव में दी गई थी — कई रिपोर्ट की गई अपीलें केवल इसलिए विफल हुईं क्योंकि व्यय का दायरा और उद्देश्य प्रलेखित नहीं किया जा सका।"
 
 lang: "hi"
+sourceContentHash: "669796e4c8074cfe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

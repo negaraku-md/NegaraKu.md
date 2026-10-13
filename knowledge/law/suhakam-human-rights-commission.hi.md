@@ -34,10 +34,11 @@ faq:
     a: "धारा 2 मानवाधिकारों को संघीय संविधान के भाग II में प्रतिष्ठापित मूलभूत स्वतंत्रताओं के रूप में परिभाषित करती है। धारा 4(4) यह जोड़ती है कि मानवाधिकारों की सार्वभौम घोषणा 1948 का उस सीमा तक ध्यान रखा जाएगा जहाँ तक वह संघीय संविधान से असंगत न हो।"
 
 lang: "hi"
+sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -34,10 +34,11 @@ faq:
     a: "हाँ। धारा 99 के तहत एक लिखित शिकायत अनुशासन बोर्ड को भेजी जा सकती है। यदि बोर्ड को उसमें सार मिलता है, तो वह शिकायत की जाँच के लिए धारा 100 के तहत एक अन्वेषण अधिकरण गठित करेगा।"
 
 lang: "hi"
+sourceContentHash: "b2af26646e05de04"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

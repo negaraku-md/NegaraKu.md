@@ -29,10 +29,11 @@ faq:
     a: "एक पूर्ण आवेदन प्राप्त होने के बाद JAKIM 15 से 30 कार्य दिवसों का लक्ष्य रखता है। व्यवहार में, दस्तावेज़ तैयारी, स्थल-पर अंकेक्षण और किसी भी सुधार को ध्यान में रखते हुए, व्यवसायों को आरंभ से प्रमाणपत्र तक तीन से छह महीनों का बजट रखना चाहिए।"
 
 lang: "hi"
+sourceContentHash: "5688169feeb631ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

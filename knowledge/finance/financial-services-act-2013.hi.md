@@ -25,9 +25,10 @@ faq:
   - q: "FSA 2013 और IFSA 2013 में क्या अंतर है?"
     a: "FSA (Act 758) पारंपरिक वित्तीय संस्थानों और बाज़ारों को नियंत्रित करता है, जबकि इस्लामी वित्तीय सेवा अधिनियम 2013 (IFSA) इसका शरीयत-अनुपालक समकक्ष है। दोनों 30 जून 2013 को लागू हुए; पारंपरिक कानून (जैसे बैंकिंग एवं वित्तीय संस्थान अधिनियम 1989 और बीमा अधिनियम 1996) FSA के तहत निरस्त किए गए, जबकि इस्लामी बैंकिंग अधिनियम 1983 (Islamic Banking Act 1983) और takaful अधिनियम 1984 (Takaful Act 1984) IFSA के तहत निरस्त किए गए।"
 lang: "hi"
+sourceContentHash: "fd80ff13fe1dede7"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

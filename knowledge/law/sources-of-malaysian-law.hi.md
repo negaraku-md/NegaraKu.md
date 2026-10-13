@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "पहली बार मलेशियाई कानूनी प्रणाली का मानचित्रण करने वाले कानून के विद्यार्थी और शोधकर्ता, वे सभी जो यह समझने का प्रयास कर रहे हैं कि किसी विशेष प्रश्न पर कानून की कौन-सी शाखा लागू होती है, तथा वे पाठक जो «कॉमन लॉ देश», «इस्लामी कानून» और «आदत» को बार-बार साथ-साथ प्रयोग होते देखते हैं पर जिन्हें यह नहीं बताया जाता कि ये वास्तव में कैसे परस्पर संबंधित हैं।"
 
 lang: "hi"
+sourceContentHash: "f4b71230618caa4c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

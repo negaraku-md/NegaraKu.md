@@ -33,10 +33,11 @@ faq:
     a: "प्रशासक एजेंसी की अपनी वेबसाइट पर जाएँ — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — न कि तृतीय-पक्ष सूचियों पर, जो अक्सर बंद कार्यक्रमों को उपलब्ध के रूप में सूचीबद्ध रखती हैं। सरकार MyStartup राष्ट्रीय-वित्तपोषण पोर्टल पर एक समेकित निर्देशिका भी चलाती है। अनुदान खिड़कियाँ वार्षिक बजट के साथ बदलती हैं, इसलिए किसी आवेदन में समय लगाने से पहले वर्तमान स्थिति की पुष्टि करें।"
 
 lang: "hi"
+sourceContentHash: "7466f2a7eef60107"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-09-07"

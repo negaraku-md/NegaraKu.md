@@ -31,10 +31,11 @@ faq:
     a: "एक एकल स्वामी के व्यवसाय लाभ पर मालिक के हाथों में व्यक्तिगत श्रेणीबद्ध दरों पर कर लगता है, जिसे 30 जून तक Form B पर दाखिल किया जाता है। एक निवासी SME Sdn Bhd (RM2.5 मिलियन तक प्रदत्त पूँजी और RM50 मिलियन तक सकल व्यवसाय आय) पर कर योग्य आय के पहले RM150,000 पर 15%, RM150,001 से RM600,000 तक 17%, और उससे ऊपर 24% कर लगता है। यदि कंपनी का 20% से अधिक विदेशी स्वामित्व में है तो तरजीही SME दर खो जाती है।"
 
 lang: "hi"
+sourceContentHash: "740dc0a630c55557"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

@@ -34,10 +34,11 @@ faq:
     a: "ज़रूरी नहीं। सर्वेक्षण में पाया गया कि देरामाकोट और सेगामा जैसे अच्छी तरह प्रबंधित, टिकाऊ ढंग से काटे गए वनों में आबादी 15 वर्षों तक स्थिर रही, जो दर्शाता है कि जब उत्पादन वन को सावधानी से प्रबंधित किया जाए और जुड़ा रखा जाए तो ऑरंगुटान उसमें टिक सकते हैं।"
 
 lang: "hi"
+sourceContentHash: "3e08558cd6bea030"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

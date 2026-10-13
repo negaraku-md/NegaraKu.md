@@ -30,10 +30,11 @@ faq:
     a: "हाँ। यह उन 10 व्यंजनों में से एक है जिन्हें 23 फ़रवरी 2024 को विरासत आयुक्त द्वारा राष्ट्रीय विरासत वस्तुओं के रूप में राजपत्रित किया गया।"
 
 lang: "hi"
+sourceContentHash: "99f9a99ac9dc7cef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

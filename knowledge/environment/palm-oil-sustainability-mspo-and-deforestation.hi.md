@@ -34,10 +34,11 @@ faq:
     a: "EUDR 29 जून 2023 को प्रभाव में आया। स्थगनों के बाद, दायित्व बड़े संचालकों और व्यापारियों के लिए 30 दिसंबर 2026 से और सूक्ष्म एवं लघु उद्यमों के लिए 30 जून 2027 से लागू होते हैं।"
 
 lang: "hi"
+sourceContentHash: "f8c253517f15928f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

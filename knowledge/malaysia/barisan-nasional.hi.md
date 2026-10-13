@@ -30,12 +30,13 @@ faq:
     a: "9 मई 2018 को 14वें आम चुनाव में, जब विपक्षी Pakatan Harapan ने 222 में से 113 सीटें जीतीं और BN ने 79, जो संघीय सरकार में उसकी पहली हार थी।"
 
 lang: "hi"
+sourceContentHash: "991005bf0f4cffdd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

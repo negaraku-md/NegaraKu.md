@@ -29,10 +29,11 @@ faq:
     a: "प्रकाशन के समय तक, कोई इंजन-क्षमता संबंधी प्रतिबंध प्रभावी नहीं है; इंजन क्षमता के आधार पर हाईवे पहुँच सीमित करने के प्रस्ताव अभी तक क़ानून नहीं बने हैं।"
 
 lang: "hi"
+sourceContentHash: "1c36a26778aafc7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

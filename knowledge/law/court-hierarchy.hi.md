@@ -38,10 +38,11 @@ faq:
     a: "प्रथम दृष्टया नहीं। रोज़गार दावे सत्र या मजिस्ट्रेट न्यायालय के बजाय अपने स्वयं के क़ानूनों द्वारा बनाए गए मंचों में शुरू होते हैं, और उपभोक्ता दावा ट्रिब्यूनल (Tribunal for Consumer Claims) Consumer Protection Act 1999 की धारा 85 के तहत स्थापित है। वे निर्णय बाद में अपील या न्यायिक समीक्षा द्वारा उच्च न्यायालय तक पहुँच सकते हैं, लेकिन प्रवेश-बिंदु इस पदानुक्रम का कोई न्यायालय नहीं है।"
 
 lang: "hi"
+sourceContentHash: "0ff02d452124fe9d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

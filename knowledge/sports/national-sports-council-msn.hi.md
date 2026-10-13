@@ -27,9 +27,10 @@ faq:
   - q: "MSN कहाँ स्थित है?"
     a: "राष्ट्रीय खेल परिसर (Kompleks Sukan Negara), बुकित जलील, 57000 सरी पेतालिंग, कुआलालंपुर में। यह कई अन्य राज्यों में भी प्रशिक्षण परिसर संचालित करती है।"
 lang: "hi"
+sourceContentHash: "d519f370c717d10a"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

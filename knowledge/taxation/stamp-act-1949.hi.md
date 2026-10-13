@@ -27,9 +27,10 @@ faq:
   - q: "यथामूल्य (ad valorem) और स्थिर शुल्क में क्या अंतर है?"
     a: "यथामूल्य (ad valorem) शुल्क लिखत की प्रकृति और उसमें शामिल प्रतिफल या बाज़ार-मूल्य के अनुसार बदलता है — उदाहरण के लिए कोई संपत्ति-हस्तांतरण या ऋण। स्थिर शुल्क उल्लिखित राशि से संबंध के बिना लगाया जाता है, जो सामान्यतः प्रति लिखत नाममात्र RM10 से शुरू होता है।"
 lang: "hi"
+sourceContentHash: "e9d01dfeb365b31f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

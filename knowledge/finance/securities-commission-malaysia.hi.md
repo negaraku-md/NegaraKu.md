@@ -32,10 +32,11 @@ faq:
     a: "हाँ। SC ने एक इक्विटी क्राउडफंडिंग ढाँचा (10 फ़रवरी 2015 से प्रभावी) और एक पीयर-टू-पीयर वित्तपोषण ढाँचा (अप्रैल 2016) पेश किया, दोनों इसके नियमों के तहत मान्यता-प्राप्त बाज़ारों के रूप में संचालित होते हैं।"
 
 lang: "hi"
+sourceContentHash: "e26f048f1170e63c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

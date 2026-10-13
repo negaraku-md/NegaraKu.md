@@ -34,12 +34,13 @@ faq:
     a: "हाँ। ASF को अगस्त 2025 में मलेशिया में स्थानिक घोषित किया गया। सेलांगोर (57 फार्मों में 76,000 सूअर) और पेनांग में बड़े प्रकोप हुए, जहाँ प्रसार को रोकने के लिए संक्रमित पशुधन की कलिंग की गई (CodeBlue)।"
 
 lang: "hi"
+sourceContentHash: "28ee8ace3a3090da"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

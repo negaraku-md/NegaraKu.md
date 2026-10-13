@@ -30,10 +30,11 @@ faq:
     a: "निर्णय पक्षों पर अंतिम और बाध्यकारी होता है और मजिस्ट्रेट न्यायालय (Magistrate's Court) के माध्यम से प्रवर्तनीय है। अपील का कोई सामान्य अधिकार नहीं है; असंतुष्ट पक्ष का उपाय न्यायिक समीक्षा के लिए उच्च न्यायालय (High Court) में आवेदन करना है।"
 
 lang: "hi"
+sourceContentHash: "7e827e839a62b8bc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

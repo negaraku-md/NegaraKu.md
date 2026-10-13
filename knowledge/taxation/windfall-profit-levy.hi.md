@@ -31,10 +31,11 @@ faq:
     a: "नहीं। छोटे किसानों को छूट प्राप्त है, और 2023 का आदेश केवल 40.46 हेक्टेयर (100 एकड़) से कम नहीं वाली ऑयल पाम जोतों पर लागू होता है; समूह बस्ती क्षेत्रों की जोतें भी इससे बाहर हैं।"
 
 lang: "hi"
+sourceContentHash: "90a5c1941df77b25"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

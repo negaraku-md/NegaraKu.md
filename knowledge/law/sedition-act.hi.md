@@ -34,12 +34,13 @@ faq:
     a: "राजद्रोह (संशोधन) अधिनियम 2015 (Act A1485) संसद द्वारा पारित किया गया और यह sections 2, 3 और 4 को संशोधित करता — अन्य बातों के साथ इलेक्ट्रॉनिक प्रकाशन जोड़ना, परिभाषा के हिस्सों को फिर से ढालना, और दंड बढ़ाना। महान्यायवादी कार्यालय के Laws of Malaysia पोर्टल पर, Act 15 का प्रभावी पाठ अभी भी केवल 1 January 2006 तक के संशोधनों को समाविष्ट करता है, और Act A1485 कोई प्रारंभ समयरेखा नहीं रखता। यहाँ वर्णित प्रचलित पाठ 1969 का संशोधन है।"
 
 lang: "hi"
+sourceContentHash: "8c2644ad71910b60"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

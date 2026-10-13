@@ -65,10 +65,11 @@ obligations:
     consequence: "s.107(4) के तहत कर्मचारी से देय कर की पूरी राशि के लिए दायित्व, सरकार को एक ऋण के रूप में"
 
 lang: "hi"
+sourceContentHash: "59c7042463497f7b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

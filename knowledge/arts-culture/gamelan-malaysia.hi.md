@@ -33,10 +33,11 @@ faq:
     a: "मूल गेमेलान सेट 1973 में पहांग लौटाया गया और पेकान स्थित पहांग संग्रहालय में प्रदर्शित है।"
 
 lang: "hi"
+sourceContentHash: "c60f9bc5987b416f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

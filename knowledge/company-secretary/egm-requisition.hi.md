@@ -60,10 +60,11 @@ obligations:
     consequence: "धारा 313 के अंतर्गत बैठक बुलाने का अधिकार समाप्त हो जाता है"
 
 lang: "hi"
+sourceContentHash: "7de2bc211affba0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -31,10 +31,11 @@ verificationNeeded:
   - "JAKIM और सोसाइटी रजिस्ट्रार द्वारा प्रयुक्त अंग्रेज़ी लघु-शीर्षक — दोनों में से कोई भी एजेंसी की अपनी साइट पर नहीं दिखता"
 
 lang: "hi"
+sourceContentHash: "de6126fff54d2ff3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

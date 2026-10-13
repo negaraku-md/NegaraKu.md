@@ -29,11 +29,12 @@ faq:
     a: "यह एक संयुक्त ज्ञापन था जो अलायंस ने 1956 में रीड आयोग को सौंपा, जिसमें मलय शासकों, संघ के धर्म के रूप में इस्लाम, मलय भाषा, मलयों की विशेष स्थिति और नागरिकता पर गठबंधन की सहमत स्थितियाँ निर्धारित की गई थीं। आयोग की 1957 की रिपोर्ट ने उसे प्राप्त ज्ञापनों में से एक के रूप में उस पर आधार लिया।"
 
 lang: "hi"
+sourceContentHash: "8468b6263efa9db8"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

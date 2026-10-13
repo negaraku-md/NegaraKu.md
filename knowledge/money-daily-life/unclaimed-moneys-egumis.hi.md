@@ -29,10 +29,11 @@ faq:
     a: "नहीं। रजिस्ट्रार कोई समय-सीमा नहीं लगाता — असली मालिक किसी भी समय दावा कर सकता है, और भुगतान या तो समेकित न्यास खाते (Consolidated Trust Account) से या राजस्व खाते (Revenue Account) से किया जा सकता है।"
 
 lang: "hi"
+sourceContentHash: "b0fa973557593199"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

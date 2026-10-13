@@ -31,10 +31,11 @@ faq:
     a: "सामान्यतः नहीं। जब कोष धारा 61A के तहत छूट-प्राप्त है, तो आय पर कर नहीं लगा है, इसलिए वितरण कोई धारा 110 कर-क्रेडिट नहीं ले जाता जिसे कोई यूनिट-धारक समायोजित कर सके। क्रेडिट केवल तभी उत्पन्न होता है जब कोष स्वयं कर-योग्य रहा हो (उदाहरण के लिए, जब उसने 90% से कम वितरित किया)।"
 
 lang: "hi"
+sourceContentHash: "74ef95198966c611"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

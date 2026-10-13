@@ -28,9 +28,10 @@ faq:
   - q: "HRD लेवी की गणना कैसे होती है और यह कब देय है?"
     a: "यह है (कुल मजदूरी या मूल वेतन + नियत भत्ते) × 1% (या स्वैच्छिक पंजीकृतों के लिए 0.5%), दंड से बचने हेतु प्रत्येक माह की 15 तारीख तक देय।"
 lang: "hi"
+sourceContentHash: "ff5d89d25eee1ca7"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "वह कोई भी जो मलेशिया में स्थानीय सरकार की संरचना, कानूनी ढाँचे और सदस्यता को समझना चाहता है — छात्र, शोधकर्ता, पत्रकार, अपनी स्थानीय परिषद से व्यवहार करने वाले निवासी, और वे सामान्य पाठक जो नगर, नगरपालिका और ज़िला परिषदों के बीच अंतर जानना चाहते हैं, और यह कि पार्षद निर्वाचित होने के बजाय मनोनीत क्यों किए जाते हैं।"
 
 lang: "hi"
+sourceContentHash: "76abb87d5a3ed499"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

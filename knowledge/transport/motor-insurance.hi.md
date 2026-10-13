@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "मलेशिया में मोटर वाहनों के मालिक और चालक — कारें, मोटरसाइकिलें और वाणिज्यिक वाहन — जो बीमा कवर के प्रकार और क़ानूनी आवश्यकताओं को समझना चाहते हैं।"
 
 lang: "hi"
+sourceContentHash: "d879ba5dcb3bf1ff"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

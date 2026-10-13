@@ -36,10 +36,11 @@ faq:
     a: "डिजिटल मंत्रालय द्वारा 2025 में शुरू की गई एक नीति, जिसका लक्ष्य 2030 तक मलेशिया को विश्व-स्तरीय क्लाउड केंद्र बनाना है, जो डेटा संप्रभुता पर आधारित है — यह सिद्धांत कि मलेशिया में उत्पन्न डेटा मलेशियाई कानून द्वारा शासित होता है — एक नियोजित संप्रभु AI क्लाउड के साथ।"
 
 lang: "hi"
+sourceContentHash: "16256b5ee4d19f22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

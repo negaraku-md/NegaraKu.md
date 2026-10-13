@@ -36,10 +36,11 @@ verificationNeeded:
   - "पुष्टि करें कि कोई मलेशियाई बैंकिंग प्रतिबंध-प्रथा (covenant practice) या बर्सा मलेशिया (Bursa Malaysia) सूचीयन अपेक्षा 'गोइंग कंसर्न से संबंधित जोखिमपूर्ण अनिश्चितता' खंड पर कोई विशिष्ट परिणाम जोड़ती है या नहीं — यहाँ वर्णित व्यावसायिक प्रभाव व्यवसायी-प्रेक्षण हैं, प्रकाशित नियम नहीं"
 
 lang: "hi"
+sourceContentHash: "272fa8b449a7b590"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -77,10 +77,11 @@ verificationNeeded:
   - "धारा 61 के रजिस्टर के लिए निर्धारित वर्तमान विवरणों की प्रचलित रोज़गार विनियमों (Employment Regulations) के विरुद्ध पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "84b81bd01d8b6ae2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

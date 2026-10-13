@@ -27,10 +27,11 @@ faq:
     a: "एक RA, Societies Act 1966 के तहत पंजीकृत एक सोसाइटी है, कोई सांविधिक निकाय नहीं — इसके पास भुगतान के लिए बाध्य करने की ऐसी शक्ति नहीं है जो किसी संयुक्त प्रबंधन निकाय या प्रबंधन निगम के पास होती है। न्यायालयों ने एक RA को यह अनुमति दी है कि वह भुगतान न करने वाले निवासी से साझा बूम गेट खुद चलवाए, लेकिन किसी निवासी को सीधे प्रवेश से मना करना एक वाद-योग्य उपद्रव (actionable nuisance) बनने का जोखिम रखता है।"
 
 lang: "hi"
+sourceContentHash: "03cf0cac851c0421"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

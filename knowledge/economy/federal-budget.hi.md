@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "छात्र, नीति विश्लेषक, पत्रकार, सरकारी अधिकारी, और हर वह व्यक्ति जिसे यह समझने की ज़रूरत है कि संघीय बजट कैसे तैयार, बहस और पारित किया जाता है।"
 
 lang: "hi"
+sourceContentHash: "8b64cd44c511fc05"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

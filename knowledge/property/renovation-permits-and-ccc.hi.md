@@ -28,10 +28,11 @@ faq:
     a: "CCC पुष्टि करता है कि घर स्वीकृत योजनाओं के अनुसार बना है और रहने के लिए सुरक्षित है। CCC के बिना, भवन आधिकारिक रूप से रहने योग्य नहीं है और उपयोगिता आपूर्ति प्रभावित हो सकती है।"
 
 lang: "hi"
+sourceContentHash: "47b5179ed98be754"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -34,10 +34,11 @@ faq:
     a: "DOE पर्यावरणीय शिकायतों के लिए एक शिकायत लाइन (03-8889 1972) और एक टोल-फ़्री हॉटलाइन (1-800-88-2727) प्रकाशित करता है। इन पर निर्भर होने से पहले doe.gov.my पर वर्तमान नंबर सत्यापित करें।"
 
 lang: "hi"
+sourceContentHash: "03cee8394623a8f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

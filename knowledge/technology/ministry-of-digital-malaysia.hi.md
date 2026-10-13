@@ -29,10 +29,11 @@ faq:
     a: "दो विभाग (राष्ट्रीय डिजिटल विभाग और व्यक्तिगत डेटा संरक्षण विभाग) और चार एजेंसियाँ: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad और MYNIC Berhad।"
 
 lang: "hi"
+sourceContentHash: "8890a54407574604"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

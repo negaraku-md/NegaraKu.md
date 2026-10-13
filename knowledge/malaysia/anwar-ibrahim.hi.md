@@ -31,12 +31,13 @@ verificationNeeded:
   - "सटीक तिथियाँ (मंत्रिमंडलीय पद, बर्खास्तगी, रिहाई, प्रधानमंत्री पद पर नियुक्ति) को प्रधानमंत्री कार्यालय और न्यायालय अभिलेखों के विरुद्ध पुष्ट किया जाना है।"
 
 lang: "hi"
+sourceContentHash: "ff741a6378247554"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-27
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

@@ -34,10 +34,11 @@ faq:
     a: "धारा 34A(4) के तहत महानिदेशक को कारण देने चाहिए, पर अस्वीकृति आपको रिपोर्ट को संशोधित कर मंज़ूरी के लिए फिर से प्रस्तुत करने से नहीं रोकती।"
 
 lang: "hi"
+sourceContentHash: "7002da8fcfa27b67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

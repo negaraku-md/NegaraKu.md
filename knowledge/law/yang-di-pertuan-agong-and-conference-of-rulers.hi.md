@@ -29,12 +29,13 @@ faq:
     a: "अनुच्छेद 38(6) शासक-परिषद को अगोंग को पदच्युत करने की शक्ति देता है। कानूनी टीका-टिप्पणी के अनुसार, देश के पूरे इतिहास में इस शक्ति का कभी उपयोग नहीं हुआ है।"
 
 lang: "hi"
+sourceContentHash: "f2d2c6ec105b4198"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

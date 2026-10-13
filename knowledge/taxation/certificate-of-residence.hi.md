@@ -37,10 +37,11 @@ verificationNeeded:
   - "क्या किसी ऐसे वर्ष के लिए निवास प्रमाणपत्र जारी किया जा सकता है जिसमें निवास परीक्षण केवल आवेदन की तारीख के बाद पूरा होता है, यह LHDN पृष्ठ पर संबोधित नहीं किया गया"
 
 lang: "hi"
+sourceContentHash: "11fa9fda7774dfda"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

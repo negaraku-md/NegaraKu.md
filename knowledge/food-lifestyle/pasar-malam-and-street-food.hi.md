@@ -31,10 +31,11 @@ faq:
     a: "खाद्य प्रतिष्ठान Food Hygiene Regulations 2009 के तहत नियंत्रित होते हैं। उपभोक्ताओं को A या B ग्रेड वाले स्टॉल चुनने के लिए प्रोत्साहित किया जाता है, जो गर्म और ताज़ा भोजन परोसते हैं, और सामान्यतः प्रदर्शित ग्रेड लेबल की जाँच करने के लिए कहा जाता है।"
 
 lang: "hi"
+sourceContentHash: "1f2264f16a54722d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

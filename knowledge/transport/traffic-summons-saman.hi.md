@@ -30,10 +30,11 @@ faq:
     a: "JPJ के अनुसार, जारी होने की तिथि से 60 दिनों के भीतर न निपटाई गई AwAS सूचना अदालती कार्रवाई का कारण बन सकती है, दोषसिद्धि पर RM300 और RM2,000 के बीच के जुर्माने के साथ।"
 
 lang: "hi"
+sourceContentHash: "b08ee8ca24ef947b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

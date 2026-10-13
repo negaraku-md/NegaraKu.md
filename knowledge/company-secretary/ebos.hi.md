@@ -26,10 +26,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या हिताधिकारी स्वामित्व की जानकारी तक ऑनलाइन पहुँच ने Menara SSM@Sentral पर केवल-काउंटर सुविधा का स्थान ले लिया है"
 
 lang: "hi"
+sourceContentHash: "a088732b82dc0e99"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

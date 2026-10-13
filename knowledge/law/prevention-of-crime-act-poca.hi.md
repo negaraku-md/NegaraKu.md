@@ -30,12 +30,13 @@ faq:
     a: "अपराध निवारण मंडल (Prevention of Crime Board) — एक निकाय जिसकी अध्यक्षता एक विधिक रूप से योग्य व्यक्ति करता है और जिसे सरकार नियुक्त करती है — न कि न्यायालय। मंडल मंत्री द्वारा नियुक्त एक जाँच अधिकारी (Inquiry Officer) की रिपोर्ट पर कार्य करता है।"
 
 lang: "hi"
+sourceContentHash: "a6b06f9b9fdb4839"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

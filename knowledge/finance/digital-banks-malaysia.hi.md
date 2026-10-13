@@ -30,10 +30,11 @@ faq:
     a: "GXBank परिचालन शुरू करने वाला पहला था, 2023 में। AEON Bank जनता के लिए खुलने वाला पहला इस्लामी डिजिटल बैंक था, 26 मई 2024 को।"
 
 lang: "hi"
+sourceContentHash: "e7e1910cb72bc76a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

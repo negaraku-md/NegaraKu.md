@@ -31,10 +31,11 @@ faq:
     a: "JBPM को आवास एवं स्थानीय सरकार मंत्रालय (KPKT) के अधीन एक विभाग के रूप में सूचीबद्ध किया गया है। मलेशिया में मंत्रालयी विभागों को समय-समय पर पुनर्गठित किया जाता है, इसलिए आधिकारिक दस्तावेज़ों में इस पर निर्भर होने से पहले kpkt.gov.my या bomba.gov.my पर वर्तमान व्यवस्था की पुष्टि करें।"
 
 lang: "hi"
+sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

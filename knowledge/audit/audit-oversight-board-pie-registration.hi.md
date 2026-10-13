@@ -36,10 +36,11 @@ faq:
     a: "2015 के संशोधनों के बाद, पंजीकरण को अब नवीनीकरण की आवश्यकता नहीं है, परन्तु पंजीकृत ऑडिटर प्रत्येक वर्ष 30 जून की स्थिति के अनुसार एक वार्षिक घोषणा प्रस्तुत करते हैं और अपने पंजीकरण की तारीख की वर्षगाँठ तक प्रति व्यक्तिगत ऑडिटर RM5,000 का शुल्क देते हैं।"
 
 lang: "hi"
+sourceContentHash: "046d2016ae30e969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "कोई भी जो यह समझने की कोशिश कर रहा हो कि एक सामान्य मलेशियाई घरेलू बजट कैसे संरचित है, या राष्ट्रीय पैटर्न के मुक़ाबले अपने स्वयं के खर्च का आकलन कर रहा हो।"
 
 lang: "hi"
+sourceContentHash: "4c5994da7bcbecd8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

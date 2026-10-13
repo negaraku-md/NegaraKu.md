@@ -29,10 +29,11 @@ faq:
     a: "आधिकारिक कैलेंडर हर साल सत्र शुरू होने से पहले MOE परिपत्रों और moe.gov.my पोर्टल के माध्यम से जारी किया जाता है। सटीक तारीखों के लिए आधिकारिक स्रोतों को देखें, क्योंकि वे हर साल बदलती हैं।"
 
 lang: "hi"
+sourceContentHash: "25b458d1ef0fef1f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

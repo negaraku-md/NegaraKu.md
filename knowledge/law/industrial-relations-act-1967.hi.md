@@ -34,10 +34,11 @@ faq:
     a: "यूनियन नियोक्ता को मान्यता का दावा प्रस्तुत करती है। नियोक्ता को धारा 9(3) के तहत 21 दिनों के भीतर या तो यूनियन को मान्यता देनी होती है या इनकार के आधारों की लिखित सूचना देनी होती है। इनकार होने पर, मामला DGIR को भेजा जाता है, जो गुप्त मतदान करा सकते हैं और ट्रेड यूनियन महानिदेशक के माध्यम से यूनियन की सक्षमता सत्यापित कर सकते हैं।"
 
 lang: "hi"
+sourceContentHash: "3e83f3a36eb3fa8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

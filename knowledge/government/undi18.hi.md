@@ -32,12 +32,13 @@ faq:
     a: "सभी नहीं। चुनाव आयोग कहता है कि JPN में अपूर्ण या सामान्य पते वाले लोग स्वचालित रूप से पंजीकृत नहीं होते क्योंकि निर्वाचन क्षेत्र निर्धारित नहीं किया जा सकता, और इसी तरह वे भी नहीं जो कानून के तहत मतदाता के रूप में अयोग्य हैं। चुनाव आयोग JPN, मलेशियाई कारागार विभाग, स्वास्थ्य मंत्रालय और विदेश मंत्रालय के साथ क्रॉस-चेक करता है।"
 
 lang: "hi"
+sourceContentHash: "091a7bd83f753abd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -34,10 +34,11 @@ faq:
     a: "अनन्य सामूहिक सौदेबाज़ी के अधिकार औद्योगिक संबंध अधिनियम 1967 (Industrial Relations Act 1967) के तहत तय किए जाते हैं। यदि कामगार किसी सहमति पर न पहुँच सकें, तो औद्योगिक संबंध महानिदेशक को आवेदन किया जा सकता है, जो सौदेबाज़ी एजेंट चुनने के लिए गुप्त मतदान करा सकता है।"
 
 lang: "hi"
+sourceContentHash: "3512cd3f05dbac9a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

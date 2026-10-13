@@ -31,12 +31,13 @@ faq:
     a: "इसका अर्थ है कि अभियोजन ने ऐसे साक्ष्य प्रस्तुत किए हैं जो, यदि खंडित या स्पष्ट न किए जाएँ, तो दोषसिद्धि को उचित ठहराएँगे। यदि कोई प्रथमदृष्टया मामला बनता है, तो अभियुक्त को बचाव प्रस्तुत करने के लिए बुलाया जाता है; यदि नहीं, तो अभियुक्त दोषमुक्त हो जाता है।"
 
 lang: "hi"
+sourceContentHash: "5c000067f01e0ea2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

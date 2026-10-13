@@ -31,10 +31,11 @@ faq:
     a: "उत्पादक स्थायी किसान बाज़ार, Agrobazaar, My Farm Outlet और ताज़ा फल स्टॉल जैसे FAMA चैनलों के माध्यम से सीधे उपभोक्ताओं को विपणन कर सकते हैं, या अनुबंध खेती और RANTAI जैसे कार्यक्रमों में भाग ले सकते हैं। भागीदारी का विवरण fama.gov.my पर पुष्ट किया जाता है।"
 
 lang: "hi"
+sourceContentHash: "f18be1d4180f5dbb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -41,10 +41,11 @@ verificationNeeded:
   - "क्या Free Zones Act 1990 के तहत बायन लेपस और पेराई मुक्त औद्योगिक क्षेत्र घोषणाओं में संशोधन हुआ है, और वर्तमान गजटित क्षेत्र सीमाएँ"
 
 lang: "hi"
+sourceContentHash: "764567a2c684af68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

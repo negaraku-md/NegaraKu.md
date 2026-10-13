@@ -29,11 +29,12 @@ faq:
     a: "दोनों क्षण वास्तविक हैं। संप्रभुता का क़ानूनी हस्तांतरण 31 अगस्त 1957 को आधी रात से प्रभावी हुआ, जिसे कुआलालंपुर के पडांग (padang) में झंडा समारोह ने चिह्नित किया। सात बार «मेरदेका» के उद्घोष वाला सार्वजनिक उद्घोषणा समारोह उसी सुबह बाद में Stadium Merdeka में हुआ।"
 
 lang: "hi"
+sourceContentHash: "9d15ea63aee3b87b"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-07-22
 revision: 0
 revisions:

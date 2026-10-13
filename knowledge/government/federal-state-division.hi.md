@@ -22,11 +22,12 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जिसे, विषय-दर-विषय, यह जानना है कि मलेशिया में किसी दिए गए कानून को बनाने की शक्ति संघ के पास है या किसी राज्य के पास।"
 
 lang: "hi"
+sourceContentHash: "d234775add600d74"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

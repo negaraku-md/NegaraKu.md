@@ -30,12 +30,13 @@ faq:
     a: "Act 303 की धारा 81 के तहत, माँ किसी छोटे बच्चे के हदानह की सबसे अधिक हक़दार व्यक्ति है। यदि माँ इस्लामी कानून के तहत अयोग्य है, तो अधिकार निर्धारित प्राथमिकता-क्रम के अनुसार हस्तांतरित होता है, जिसमें बच्चे का कल्याण सर्वोपरि विचार होता है।"
 
 lang: "hi"
+sourceContentHash: "4f9d82016cc77fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

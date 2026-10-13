@@ -29,10 +29,11 @@ faq:
     a: "इनमें 2025 तक प्लास्टिक पैकेजिंग के लिए 25% पुनर्चक्रण दर, 2030 तक 76% औसत संग्रहण-हेतु-पुनर्चक्रण दर (CFR), और 2030 तक 15% औसत पुनर्चक्रित सामग्री शामिल हैं। 2050 तक 100% पुनर्चक्रण दर का लक्ष्य है।"
 
 lang: "hi"
+sourceContentHash: "a24e4c1da4f3ae42"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

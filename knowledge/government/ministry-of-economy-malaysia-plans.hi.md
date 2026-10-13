@@ -35,10 +35,11 @@ faq:
     a: "नहीं। मलेशिया योजना संसदीय बहस और स्वीकृति के लिए एक नीति प्रस्ताव के रूप में प्रस्तुत की जाती है, न कि वार्षिक बजट को आधार देने वाले आपूर्ति विधेयक (Supply Bill) जैसे किसी विधेयक के रूप में।"
 
 lang: "hi"
+sourceContentHash: "6ea99ed513582ab7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

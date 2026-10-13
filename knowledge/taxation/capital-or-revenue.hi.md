@@ -41,10 +41,11 @@ verificationNeeded:
   - "किसी भी आधिकारिक LHDN दस्तावेज़ में व्यापार के चिह्नों पर कोई मलेशियाई मामला-प्राधिकरण उद्धृत नहीं मिला, इसलिए इस पृष्ठ पर कोई मामला-कानून नहीं बताया गया है"
 
 lang: "hi"
+sourceContentHash: "916f828ed466fba0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

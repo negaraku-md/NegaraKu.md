@@ -40,10 +40,11 @@ verificationNeeded:
   - "भागीदार हस्ताक्षर के बगल में मुद्रित वित्त मंत्री लेखा परीक्षक अनुमोदन संख्या के प्रारूप और समाप्ति परिपाटी की पुष्टि करें — दृष्टांत प्लेसहोल्डर एक संरचना दिखाता है लेकिन MIA इसे समझाता नहीं"
 
 lang: "hi"
+sourceContentHash: "46458a8295799022"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

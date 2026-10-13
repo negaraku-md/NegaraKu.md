@@ -31,10 +31,11 @@ faq:
     a: "नहीं — यह पुराने Companies Act 1965 से चली आ रही एक आम गलतफ़हमी है। Companies Act 2016 के अधीन, निगमन एक आवेदन के माध्यम से होता है जिसमें प्रत्येक निदेशक या प्रवर्तक एक कथन (धारा 14) देता है कि वह कार्य करने के लिए सहमत है और अयोग्य नहीं है। वह एक कथन है, वैधानिक घोषणा नहीं।"
 
 lang: "hi"
+sourceContentHash: "ca496f3d42e9b712"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

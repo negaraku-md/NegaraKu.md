@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "कोई भी — यात्री, नियोक्ता, विद्यार्थी, या मलेशियाई संघवाद का पाठक — जो सबाह और सरवाक के पास मौजूद संवैधानिक सुरक्षा-उपायों का एक सरल, वर्णनात्मक विवरण चाहता है, और यह जानना चाहता है कि प्रत्येक कहाँ लिखा है, बिना इस बहस में कोई पक्ष लिए कि उन्हें किस प्रकार क्रियान्वित किया जाता है।"
 
 lang: "hi"
+sourceContentHash: "468d0412b31978aa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

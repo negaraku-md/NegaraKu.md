@@ -32,9 +32,10 @@ seoTitle: "मलेशियाई चीनी बोलियाँ: क्�
 socialTitle: "वही चीनी, फिर अलग ज़ुबानें क्यों? मलेशिया की बोली-मानचित्र"
 
 lang: "hi"
+sourceContentHash: "c773c2be8c4e6544"
 masterLanguage: "zh"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

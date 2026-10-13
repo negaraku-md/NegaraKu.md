@@ -18,11 +18,12 @@ keyTakeaways:
   - "Nyonya वेशभूषा के केंद्र में स्थित kebaya को 2024 में Brunei, Indonesia, Malaysia, Singapore और Thailand के एक संयुक्त नामांकन में UNESCO की अमूर्त धरोहर सूची में अंकित किया गया"
 appliesTo: "वह हर व्यक्ति जो Peranakan (Baba-Nyonya) कौन हैं, और Melaka तथा Penang में उनके व्यंजन, वेशभूषा और भौतिक धरोहर को कैसे पहचानें — इसका एक तथ्यात्मक, सम्मानजनक अवलोकन चाहता है।"
 lang: "hi"
+sourceContentHash: "b8424f95164f1085"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

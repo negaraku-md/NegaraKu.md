@@ -36,10 +36,11 @@ faq:
     a: "PVIP को MOTAC के बजाय आव्रजन विभाग (गृह मामले) चलाता है, यह स्पष्ट रूप से काम और अध्ययन के अधिकार जोड़ता है, वाणिज्यिक तथा औद्योगिक संपत्ति (केवल आवासीय नहीं) की खरीद की अनुमति देता है, और कोई न्यूनतम प्रवास आरोपित नहीं करता। आवेदन MM2H एजेंटों के बजाय आव्रजन-नियुक्त एजेंटों के माध्यम से जाते हैं।"
 
 lang: "hi"
+sourceContentHash: "885b7aabccb192f1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

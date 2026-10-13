@@ -29,12 +29,13 @@ faq:
     a: "Genting मनोरंजन और आतिथ्य, ताड़-तेल बागान, बिजली उत्पादन, तेल और गैस, संपत्ति विकास, और जीवन विज्ञान में फैली है। Genting Plantations मलेशिया और इंडोनेशिया भर में लगभग 243,000 हेक्टेयर भूमि-भंडार का संचालन करती है।"
 
 lang: "hi"
+sourceContentHash: "1b5f1753141cba5e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

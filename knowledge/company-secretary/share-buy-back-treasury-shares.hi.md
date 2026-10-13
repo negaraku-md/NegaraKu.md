@@ -29,10 +29,11 @@ faq:
     a: "खरीद पूर्णतः कंपनी के प्रतिधारित लाभ से, कंपनी (समूह नहीं) के आधार पर, वित्तपोषित होनी चाहिए — Bursa सूचीकरण अपेक्षाओं के अध्याय 12 का नियम 12.10। उधार को धन के स्रोत के रूप में उपयोग किया जा सकता है बशर्ते खरीद प्रतिधारित लाभ की समतुल्य राशि द्वारा समर्थित हो (नियम 12.11)।"
 
 lang: "hi"
+sourceContentHash: "6bd8a430b49db96b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

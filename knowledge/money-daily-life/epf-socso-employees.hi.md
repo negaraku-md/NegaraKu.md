@@ -24,10 +24,11 @@ verificationNeeded:
   - "इस लेख के लिखे जाने के समय आधिकारिक kwsp.gov.my वेबसाइट ने स्वचालित पहुँच को अवरुद्ध (403) कर दिया था। उद्धृत KWSP अंशदान दरों (कर्मचारी 11 प्रतिशत; वेतन-बैंड के अनुसार नियोक्ता 13/12 प्रतिशत) की पुष्टि एक खोज के माध्यम से हुई जिसने स्वयं kwsp.gov.my के पाठ के सीधे अंश लौटाए, और ये इस साइट के epf-employer-guide लेख के अनुरूप हैं, जो kwsp.gov.my को भी उद्धृत करता है। साइट उपलब्ध होने पर कृपया सीधे kwsp.gov.my/en/epf-act-1991-third-schedule पर पुन: सत्यापित करें।"
 
 lang: "hi"
+sourceContentHash: "91cbd7d0dece19b9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

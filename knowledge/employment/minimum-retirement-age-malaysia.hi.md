@@ -34,10 +34,11 @@ faq:
     a: "नहीं। यह लोक सेवकों, प्रशिक्षुओं (apprentices), परिवीक्षाधीनों, विदेशी कर्मचारियों, घरेलू नौकरों, अंशकालिक कर्मचारियों, अस्थायी छात्रों, और कुछ निश्चित-अवधि अनुबंध कर्मचारियों पर लागू नहीं होता।"
 
 lang: "hi"
+sourceContentHash: "f2f42b17c86c3524"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

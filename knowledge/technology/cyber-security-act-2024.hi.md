@@ -38,12 +38,13 @@ faq:
     a: "नहीं। साइबर सुरक्षा अधिनियम महत्वपूर्ण अवसंरचना की सुरक्षा और लचीलेपन को नियंत्रित करता है। व्यक्तिगत-डेटा गोपनीयता को अलग से व्यक्तिगत डेटा संरक्षण अधिनियम 2010 (Personal Data Protection Act 2010) नियंत्रित करता है। कोई संगठन दोनों के अधीन हो सकता है।"
 
 lang: "hi"
+sourceContentHash: "3cca544d70c1185a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
 revision: 0

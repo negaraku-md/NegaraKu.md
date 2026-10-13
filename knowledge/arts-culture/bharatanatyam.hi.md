@@ -32,9 +32,10 @@ seoTitle: "मलेशिया में भरतनाट्यम: शा�
 socialTitle: "दक्षिण भारत के शास्त्रीय नृत्य ने मलेशिया में कैसे जड़ें जमाईं"
 
 lang: "hi"
+sourceContentHash: "f61cd4f8304d521c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

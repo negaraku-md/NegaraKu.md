@@ -38,10 +38,11 @@ verificationNeeded:
   - "MSIC द्वारा बैंक जोखिम-वर्गीकरण संस्था-विशिष्ट है और प्रकाशित नहीं — यहाँ वर्णित प्रभाव को एक पैटर्न मानें, नियम नहीं"
 
 lang: "hi"
+sourceContentHash: "353529e7e9ebf84a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

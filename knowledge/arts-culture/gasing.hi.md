@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो समझना चाहता है कि गासिंग कैसे खेला जाता है, गासिंग पांगकाह और गासिंग उरी में क्या अंतर है, और पूर्वी तट की विरासत से इसका क्या संबंध है।"
 
 lang: "hi"
+sourceContentHash: "fc40c99c7c7666a6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

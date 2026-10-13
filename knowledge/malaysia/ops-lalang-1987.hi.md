@@ -31,12 +31,13 @@ faq:
     a: "नहीं। ISA 1960 को 2012 में निरस्त किया गया और सुरक्षा अपराध (विशेष उपाय) अधिनियम 2012 (Security Offences (Special Measures) Act 2012, SOSMA) ने उसका स्थान लिया, जिस पर अधिकार समूह और सरकार लगातार बहस करते रहते हैं।"
 
 lang: "hi"
+sourceContentHash: "b64842ee4e12b6c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -125,10 +125,11 @@ obligations:
     statute: "Income Tax Act 1967"
 
 lang: "hi"
+sourceContentHash: "1af54f5d2bfdf5b4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

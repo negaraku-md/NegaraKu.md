@@ -34,10 +34,11 @@ faq:
     a: "राष्ट्रीय उद्यान अधिनियम 1980 की धारा 10 किसी राष्ट्रीय उद्यान के भीतर खनन और प्रॉस्पेक्टिंग को निषिद्ध करती है, जब तक कि राज्य प्राधिकरण, मंत्री से परामर्श के बाद, यह न पाए कि ऐसा असाधारण रूप से समृद्ध खनिज निक्षेप मौजूद है।"
 
 lang: "hi"
+sourceContentHash: "1f3622365daf3410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

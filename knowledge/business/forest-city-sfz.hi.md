@@ -44,10 +44,11 @@ verificationNeeded:
   - "वास्तव में प्रमाणित पारिवारिक कार्यालयों की संख्या प्रेस कवरेज में रिपोर्ट की गई है पर किसी प्रतिभूति आयोग (Securities Commission) प्रकाशन के विरुद्ध सत्यापित नहीं की गई।"
 
 lang: "hi"
+sourceContentHash: "437ac0257773795a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"

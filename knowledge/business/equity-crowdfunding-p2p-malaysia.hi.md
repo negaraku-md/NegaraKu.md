@@ -44,10 +44,11 @@ verificationNeeded:
   - "दिशानिर्देश P2P निवेश नोट के लिए कोई न्यूनतम या अधिकतम अवधि निर्धारित नहीं करते; केवल द्वितीयक बाज़ार में प्रवेश के लिए 3-महीने की न्यूनतम शेष चुकौती अवधि ही मिली"
 
 lang: "hi"
+sourceContentHash: "000a7355af87eb83"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -33,10 +33,11 @@ verificationNeeded:
   - "प्रकाशन से पहले पेनांग की वर्तमान जनसंख्या की पुष्टि DOSM के नवीनतम राज्य जनसंख्या विमोचन से करें।"
 
 lang: "hi"
+sourceContentHash: "a7862eb1a54ab895"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

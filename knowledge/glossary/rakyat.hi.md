@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "विद्यार्थी, अनुवादक, पत्रकार और वे सभी जो मलेशियाई संदर्भ में सामाजिक-राजनीतिक शब्द «rakyat» और कानूनी शब्द «warganegara» के बीच का अंतर समझना चाहते हैं।"
 
 lang: "hi"
+sourceContentHash: "4db392730fe2ab93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

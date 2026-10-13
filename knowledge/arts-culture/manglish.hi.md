@@ -31,9 +31,10 @@ faq:
     a: "हाँ। ऑक्सफ़ोर्ड इंग्लिश डिक्शनरी (Oxford English Dictionary) ने क्रमिक अद्यतनों में कई मलेशियाई अंग्रेज़ी शब्द जोड़े हैं, जिनमें 2016 में lepak, shiok और teh tarik, उसी वर्ष बाद में mamak, kopitiam और atas सहित कई मानग्लिश एवं मलेशियाई-भोजन के शब्द, और एक बाद के अद्यतन में boleh, agak-agak और wayang जैसे शब्द शामिल हैं — यह नई अंग्रेज़ी गढ़ने के बजाय स्थापित मलेशियाई प्रयोग को मान्यता देना है।"
 
 lang: "hi"
+sourceContentHash: "8f82ee70d6e9258e"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

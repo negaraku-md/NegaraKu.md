@@ -34,10 +34,11 @@ faq:
     a: "Bernama द्वारा रिपोर्ट किए गए एक संसदीय उत्तर के अनुसार, मलेशिया ने 2018 और 2025 के बीच चीन को RM6.37 बिलियन मूल्य का — लगभग 115,359 मीट्रिक टन — डूरियन निर्यात किया। 2030 के लिए निर्यात मूल्य लक्ष्य कुल 69,000 मीट्रिक टन के साथ RM1.8 बिलियन तक पहुँचने का अनुमान है।"
 
 lang: "hi"
+sourceContentHash: "c21f23e862b9d969"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

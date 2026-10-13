@@ -31,10 +31,11 @@ faq:
     a: "कोई अनुबंध हस्ताक्षरित करने से पहले KDN के eSIMS सत्यापन पोर्टल के माध्यम से कंपनी और उसके गार्डों की लाइसेंस स्थिति जाँचें। एक वैध एजेंसी के पास वर्तमान में सक्रिय निजी एजेंसी लाइसेंस होना चाहिए।"
 
 lang: "hi"
+sourceContentHash: "7778a33b10205faf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

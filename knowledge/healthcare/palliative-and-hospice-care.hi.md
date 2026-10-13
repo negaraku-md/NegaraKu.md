@@ -29,10 +29,11 @@ faq:
     a: "उपशामक देखभाल उम्र की परवाह किए बिना, बच्चों सहित, जीवन-सीमित बीमारियों से ग्रस्त मरीज़ों के आराम और लक्षण नियंत्रण पर केंद्रित है। इसके विपरीत, वृद्धजन देखभाल बुज़ुर्गों के लिए सामान्य देखभाल है, जिन्हें अंतिम-चरण की बीमारी न भी हो।"
 
 lang: "hi"
+sourceContentHash: "ff994cbda9925abc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

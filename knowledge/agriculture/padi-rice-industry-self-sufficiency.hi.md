@@ -34,10 +34,11 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) देश की एकमात्र चावल-आयातक भूमिका रखती है, एक भूमिका जो उसे राष्ट्रीय धान एवं चावल बोर्ड (LPN) से विरासत में मिली, जिसने 1973 के विश्व खाद्य संकट के बाद चावल आयात संभाला और 1974 में एकमात्र आयातक बना। BERNAS राष्ट्रीय चावल बफर स्टॉक का प्रबंधन भी करती है और भूमिपुत्र मिलरों को सहारा देती है। इसका 12 जनवरी 1996 को निजीकरण हुआ।"
 
 lang: "hi"
+sourceContentHash: "fb620a1ce6fe2341"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

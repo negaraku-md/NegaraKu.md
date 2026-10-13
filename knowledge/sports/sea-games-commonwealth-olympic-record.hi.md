@@ -34,10 +34,11 @@ faq:
     a: "कुआलालंपुर में 1998 के खेलों की मेज़बानी, जहाँ उसने 10 स्वर्ण पदकों की अपनी सर्वश्रेष्ठ झोली दर्ज की और समग्र रूप से चौथे स्थान पर रहा। यह एशिया में अब तक आयोजित पहला राष्ट्रमंडल खेल भी था।"
 
 lang: "hi"
+sourceContentHash: "d25df756ce38577d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

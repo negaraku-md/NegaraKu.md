@@ -29,12 +29,13 @@ faq:
     a: "आमतौर पर नहीं। JPA और MARA जैसी पूर्ण छात्रवृत्तियाँ आमतौर पर विद्यार्थियों से अध्ययन के उसी स्तर के लिए PTPTN छोड़ने की माँग करती हैं। संबंधित प्रायोजक के समझौते की शर्तें जाँचें।"
 
 lang: "hi"
+sourceContentHash: "8c6acea4f3592816"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "मलेशिया में किराए पर घर लेने, खरीदने या किसी घर में रहने जाने वाला कोई भी व्यक्ति जिसे फ़िक्स्ड ब्रॉडबैंड कनेक्ट कराने की ज़रूरत है।"
 
 lang: "hi"
+sourceContentHash: "651bab79a176221b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

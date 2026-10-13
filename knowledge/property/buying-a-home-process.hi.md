@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "मलेशियाई नागरिक, स्थायी निवासी, पहली बार घर खरीदने वाले, और विदेशी खरीदार (अतिरिक्त प्रतिबंधों और शुल्क दरों के अधीन)"
 
 lang: "hi"
+sourceContentHash: "819188850c359d23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

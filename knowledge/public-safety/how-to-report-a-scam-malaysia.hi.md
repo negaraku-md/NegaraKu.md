@@ -37,10 +37,11 @@ faq:
     a: "नहीं। 997 विशेष रूप से उन वित्तीय धोखाधड़ियों के लिए है जहाँ छल से पैसा स्थानांतरित किया गया हो। खोए हुए दस्तावेज़ों या गैर-धोखाधड़ी मामलों के लिए, किसी पुलिस थाने में या PDRM e-Reporting पोर्टल के ज़रिए रिपोर्ट दर्ज कराएँ।"
 
 lang: "hi"
+sourceContentHash: "ae9a54e76a608697"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

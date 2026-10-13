@@ -43,10 +43,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या बैंक Companies Act 2016 की धारा 60B और 60C के अंतर्गत रखे गए लाभकारी मालिकों के रजिस्टर को देखना चाहता है — यह सामान्य व्यवहार है परंतु नीति-दस्तावेज़ में बताई गई आवश्यकता नहीं है"
 
 lang: "hi"
+sourceContentHash: "75370094a3730df5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

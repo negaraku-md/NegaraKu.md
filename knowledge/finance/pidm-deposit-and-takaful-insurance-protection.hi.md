@@ -37,10 +37,11 @@ faq:
     a: "यदि कोई सदस्य बैंक विफल होता है, तो PIDM पात्र जमाकर्ताओं को RM250,000 की सीमा तक प्रतिपूर्ति करता है। यदि कोई बीमाकर्ता सदस्य विफल होता है, तो PIDM या तो आपके कवर की निरंतरता की व्यवस्था करता है या लागू सीमा तक सुरक्षित लाभों का भुगतान करता है।"
 
 lang: "hi"
+sourceContentHash: "6dadc68b3f5258f8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

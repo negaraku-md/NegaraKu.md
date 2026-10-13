@@ -59,10 +59,11 @@ obligations:
     statute: "Companies Act 2016, s.221"
 
 lang: "hi"
+sourceContentHash: "2f282a98f9127de8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

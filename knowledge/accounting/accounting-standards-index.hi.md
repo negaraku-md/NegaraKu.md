@@ -26,10 +26,11 @@ verificationNeeded:
   - "MFRS 139 remains listed by MASB; confirm its current application status for any entity still within its scope"
 
 lang: "hi"
+sourceContentHash: "e028c2fa0dbb47c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

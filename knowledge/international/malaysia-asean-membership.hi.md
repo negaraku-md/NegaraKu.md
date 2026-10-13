@@ -38,10 +38,11 @@ faq:
     a: "आसियान सचिवालय जकार्ता, इंडोनेशिया में स्थित है। इसका नेतृत्व आसियान के महासचिव करते हैं, जो वर्तमान में कंबोडिया के डॉ. काओ किम होर्न हैं।"
 
 lang: "hi"
+sourceContentHash: "a6367ba8ba6baac1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

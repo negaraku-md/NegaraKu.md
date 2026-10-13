@@ -27,10 +27,11 @@ verificationNeeded:
   - "अनुच्छेद 66(5) का उद्धृत पाठ महान्यायवादी कार्यालय द्वारा मलय-भाषा अनुवाद है; इसे प्रामाणिक अंग्रेज़ी पाठ के विरुद्ध सत्यापित करें।"
 
 lang: "hi"
+sourceContentHash: "f029a1ff1ebfdbf1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

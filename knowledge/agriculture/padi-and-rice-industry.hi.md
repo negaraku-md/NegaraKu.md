@@ -27,9 +27,10 @@ faq:
   - q: "मलेशिया का आयातित चावल कहाँ से आता है?"
     a: "BERNAS के अनुसार, अधिकांश आयात वियतनाम, थाईलैंड, पाकिस्तान, भारत और म्यांमार से होता है।"
 lang: "hi"
+sourceContentHash: "8a715f161404c46b"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

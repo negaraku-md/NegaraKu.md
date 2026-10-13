@@ -28,9 +28,10 @@ faq:
   - q: "मैं OKU (दिव्यांग व्यक्ति) के रूप में कैसे पंजीकरण कराऊँ?"
     a: "किसी सरकारी चिकित्सा विशेषज्ञ द्वारा प्रमाणित मलेशियाई नागरिक BPPOKU पंजीकरण फ़ॉर्म (संशोधन 2/2019) को एक चिकित्सकीय सत्यापन रिपोर्ट और MyKad की प्रति (या 12 वर्ष से कम आयु के आवेदकों के लिए जन्म प्रमाणपत्र) के साथ, या तो किसी JKM काउंटर पर या MyDaftar OKU पोर्टल के माध्यम से ऑनलाइन प्रस्तुत करते हैं। सफल आवेदक को एक OKU कार्ड मिलता है जो उनकी दिव्यांगता-श्रेणी दर्शाता है।"
 lang: "hi"
+sourceContentHash: "f9a688b158d9b46c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

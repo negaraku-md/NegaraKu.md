@@ -26,10 +26,11 @@ verificationNeeded:
   - "P.U.(A) 125/2026 का पूर्ण पाठ प्राप्त नहीं किया गया; इसके शीर्षक और 1 जनवरी 2026 के प्रभाव की पुष्टि AGC विधान पोर्टल और सेवा कर नीति संख्या 2/2025 (संशोधन संख्या 3) में संगत 2% छूट से हुई"
 
 lang: "hi"
+sourceContentHash: "a8607ba4409fa9bf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"

@@ -33,12 +33,13 @@ faq:
     a: "अनुच्छेद 153(4), (7) और (8) कहते हैं कि यह अनुच्छेद किसी व्यक्ति को उसके द्वारा पहले से भोगे या धारित किए जा रहे किसी लोक पद, छात्रवृत्ति, अधिकार, विशेषाधिकार, परमिट या लाइसेंस से वंचित नहीं कर सकता।"
 
 lang: "hi"
+sourceContentHash: "90a331e05e64e807"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

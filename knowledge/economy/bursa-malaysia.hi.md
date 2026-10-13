@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "IPO पर विचार कर रहे संस्थापक और CFO, सलाहकार और प्रायोजक, तथा वे निवेशक जो यह समझने की कोशिश कर रहे हैं कि किसी बोर्ड पर लिस्टिंग वास्तव में क्या संकेत देती है।"
 
 lang: "hi"
+sourceContentHash: "8a42caae2331fbbd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -38,10 +38,11 @@ verificationNeeded:
   - "Whether a trust company registered under the Trust Companies Act 1949 is necessarily a public company subject to the full beneficial ownership framework — asserted in some commentary but not pinned to a provision of that Act"
 
 lang: "hi"
+sourceContentHash: "d098cf8ee96defb7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

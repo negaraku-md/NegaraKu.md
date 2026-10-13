@@ -23,10 +23,11 @@ appliesTo: "मलेशिया में निम्न- और मध्य
 verificationNeeded:
   - "आधिकारिक STR 2026 FAQ (bantuantunai.hasil.gov.my/FAQ/ पर PDF) में पात्रता शर्तों और भुगतान राशियों पर अधिक विवरण हैं, लेकिन उस PDF में एम्बेडेड फ़ॉन्ट ने लेखन के समय स्वचालित पाठ निष्कर्षण को रोक दिया — पाठकों को प्रोत्साहित किया जाता है कि वे PDF स्वयं डाउनलोड करके जाँचें, या सटीक व्यक्तिगत विवरण के लिए MySTR में लॉग इन करें।"
 lang: "hi"
+sourceContentHash: "353147e69093acce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

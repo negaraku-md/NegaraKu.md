@@ -33,10 +33,11 @@ verificationNeeded:
   - "Act A1651 के ठीक प्रारंभ-लिखत (commencement instrument) की संघीय राजपत्र से पुष्टि करें; परियोजना का स्रोत-रजिस्टर 1 जनवरी 2023 की तिथि के लिए P.U.(B) 394/2022 दर्ज करता है।"
 
 lang: "hi"
+sourceContentHash: "ab52798a8bfb6a2f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -44,10 +44,11 @@ verificationNeeded:
   - "Medini Iskandar Malaysia Sdn Bhd और इसके शेयरधारकों के बारे में व्यापक रूप से दोहराए जाने वाले सभी कॉर्पोरेट तथ्य गैर-आधिकारिक स्रोतों से आते हैं और सत्यापित नहीं किए गए"
 
 lang: "hi"
+sourceContentHash: "61c45f9103d24eb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -34,10 +34,11 @@ faq:
     a: "CCRIS के लिए, रिपोर्टिंग करने वाली वित्तीय संस्था एक उचित अवधि के भीतर अशुद्ध जानकारी सुधारने के लिए बाध्य है। CTOS के लिए, आप सीधे एजेंसी के पास विवाद दाख़िल कर सकते हैं, जिसे वित्त मंत्रालय के अधीन क्रेडिट रिपोर्टिंग एजेंसी रजिस्ट्रार कार्यालय विनियमित करता है।"
 
 lang: "hi"
+sourceContentHash: "d56078b999db6074"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

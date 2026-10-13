@@ -32,10 +32,11 @@ faq:
     a: "आवासीय आगों में विद्युत-संबंधी समस्याएँ सबसे अधिक में से हैं — ख़राब वायरिंग, अधिक भार वाले सॉकेट और घिसे हुए एक्सटेंशन कॉर्ड। बिना निगरानी के छोड़ा गया खाना पकाना और LPG गैस रिसाव भी बड़े योगदानकर्ता हैं।"
 
 lang: "hi"
+sourceContentHash: "9ccf45c843ab8ebf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

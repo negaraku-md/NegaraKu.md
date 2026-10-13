@@ -41,10 +41,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या MASB ने ऐसे किसी कंपनी द्वारा MPERS को फिर से अपनाने पर कोई विशिष्ट मार्गदर्शन जारी किया है जो पहले MFRS में गया था"
 
 lang: "hi"
+sourceContentHash: "621bf2dc64ee78c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -34,10 +34,11 @@ faq:
     a: "नहीं। निर्धारित विकास वित्तीय संस्थान विकास वित्तीय संस्थान अधिनियम 2002 के तहत विनियमित होते हैं और Bank Negara Malaysia की निगरानी में रहते हैं, जो FSA और IFSA से एक अलग व्यवस्था है।"
 
 lang: "hi"
+sourceContentHash: "a9fc5401e6cabfb3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

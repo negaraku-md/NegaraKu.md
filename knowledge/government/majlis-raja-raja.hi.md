@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "वह कोई भी जो मलेशिया की संवैधानिक संरचना को समझना चाहता है — छात्र, शोधकर्ता, पत्रकार और सामान्य पाठक — साथ ही वह कोई भी जिसे यह जानना हो कि कौन-से प्रावधानों के लिए शासक सम्मेलन की सहमति या परामर्श आवश्यक है।"
 
 lang: "hi"
+sourceContentHash: "b582d091b8a771db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

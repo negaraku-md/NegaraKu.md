@@ -29,12 +29,13 @@ faq:
     a: "हाँ। कई हिंदू मलेशियाई गोमांस से बचते हैं, इसलिए गोमांस-रहित मेन्यू आम हैं, और अधिकांश भारतीय शाकाहारी रेस्तराँ बिल्कुल भी मांस नहीं परोसते। चीनी और मलय मेन्यू गोमांस का उपयोग करते हैं, इसलिए यदि आप इससे बचते हैं तो व्यंजन की जाँच करें।"
 
 lang: "hi"
+sourceContentHash: "b8a6bb42bf674ded"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

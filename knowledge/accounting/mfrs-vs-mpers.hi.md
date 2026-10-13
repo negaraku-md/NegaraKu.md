@@ -40,10 +40,11 @@ verificationNeeded:
   - "किसी भी ग्राहक-सम्मुख दस्तावेज़ में शब्दशः उद्धृत करने से पूर्व MASB कार्यान्वयन पृष्ठ के विरुद्ध MASB निजी संस्था परिभाषा की सटीक वर्तमान शब्दावली की पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "fdc2c021a877fc8a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

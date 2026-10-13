@@ -38,10 +38,11 @@ verificationNeeded:
   - "कैबिनेट प्रभाग की अनुसूची में परिवर्तन के अधीन चिह्नित तिथियों की पुष्टि करें — हरि राया पुआसा, हरि राया क़ुर्बान, दीपावली, आवल रमादान और हरि राया क़ुर्बान का दूसरा दिन सभी चिह्नित हैं"
 
 lang: "hi"
+sourceContentHash: "c9161f47701aa87c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

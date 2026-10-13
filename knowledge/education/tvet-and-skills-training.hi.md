@@ -18,9 +18,10 @@ keyTakeaways:
   - "सामुदायिक कॉलेज अधिक लचीले प्रवेश के साथ निचले-स्तर के प्रमाणपत्रों पर ध्यान केंद्रित करते हैं, जबकि पॉलिटेक्निक डिप्लोमा पर ध्यान केंद्रित करते हैं — दोनों की देखरेख उच्च शिक्षा मंत्रालय के अधीन JPPKK करता है"
 appliesTo: "फॉर्म 3 या SPM के बाद के छात्र, अपने बच्चे के करियर की योजना बनाने वाले माता-पिता, और वे वयस्क कर्मचारी जो SKM के ज़रिए मौजूदा कौशलों को प्रमाणित करना चाहते हैं।"
 lang: "hi"
+sourceContentHash: "75531562551211f2"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

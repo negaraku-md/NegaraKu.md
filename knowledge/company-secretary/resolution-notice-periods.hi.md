@@ -67,10 +67,11 @@ obligations:
     consequence: "बैठक s.309 के तहत विधिमान्य रूप से नहीं बुलाई जाती"
 
 lang: "hi"
+sourceContentHash: "1da247e6653d6ad4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

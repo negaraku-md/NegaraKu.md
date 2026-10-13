@@ -32,12 +32,13 @@ faq:
     a: "साझा समृद्धि विज़न 2030 (WKB 2030) को अक्टूबर 2019 में उत्तराधिकारी विज़न के रूप में प्रस्तुत किया गया, जो 2021 से 2030 की अवधि के लिए समतामूलक समृद्धि पर केंद्रित है।"
 
 lang: "hi"
+sourceContentHash: "d7d57585a7686755"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -31,10 +31,11 @@ faq:
     a: "JKM के अंतर्गत सहायक/कृत्रिम उपकरण सहायता (BAT) में मैन्युअल या इलेक्ट्रिक व्हीलचेयर, कृत्रिम पैर और हाथ, श्रवण यंत्र, सफ़ेद छड़ियाँ और ब्रेल मशीनें शामिल हैं, जो उपकरण की निर्धारित वास्तविक कीमत के अनुसार हैं।"
 
 lang: "hi"
+sourceContentHash: "eb1c377cbf19305d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

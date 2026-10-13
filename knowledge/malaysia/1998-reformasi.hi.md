@@ -20,11 +20,12 @@ keyTakeaways:
   - "USD1=RM3.80 खूँटी लगभग सात वर्षों तक बनी रही और 21 जुलाई 2005 को समाप्त हुई जब बैंक नेगारा मलेशिया ने एक प्रबंधित फ्लोट अपनाया"
 appliesTo: "वे पाठक जो मलेशिया की 1998 की आर्थिक प्रतिक्रिया (पूँजी नियंत्रण और रिंगिट खूँटी) और उस वर्ष की राजनीतिक घटनाओं का एक प्रलेखित, स्रोत तक खोजे जा सकने योग्य विवरण चाहते हैं, जो तटस्थ रूप से और किसी व्याख्या का समर्थन किए बिना प्रस्तुत हो।"
 lang: "hi"
+sourceContentHash: "3f82c848946b8ea4"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -33,10 +33,11 @@ faq:
     a: "हाँ, मध्यस्थता (संशोधन) अधिनियम 2024 के 1 जनवरी 2026 को लागू होने के बाद से। धाराएँ 46A–46I एक वैधानिक ढाँचा बनाती हैं, धारा 46C अनुरक्षण (maintenance) और शर्तबंदी (champerty) के विरुद्ध सामान्य-विधि नियमों को समाप्त करती है, और धारा 46G वित्तपोषण व्यवस्था और वित्तपोषक की पहचान का प्रकटीकरण अनिवार्य करती है।"
 
 lang: "hi"
+sourceContentHash: "dbaaa201e69ebe39"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

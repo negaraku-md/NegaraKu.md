@@ -30,10 +30,11 @@ faq:
     a: "Securities Commission Malaysia। पूँजी-बाज़ार नवाचार — वैकल्पिक वित्तपोषण, टोकनीकृत प्रतिभूतियाँ, द्वितीयक-बाज़ार प्लेटफ़ॉर्म — SC सैंडबॉक्स में जाते हैं, BNM के नहीं।"
 
 lang: "hi"
+sourceContentHash: "923d24c78b24d1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

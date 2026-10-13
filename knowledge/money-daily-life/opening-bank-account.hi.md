@@ -25,10 +25,11 @@ verificationNeeded:
   - "BNM's digital on-boarding / e-KYC policy page returned a 403 on automated fetch at time of writing; its existence and title are confirmed directly from bnm.gov.my search results, but granular eligibility detail should be re-checked directly on bnm.gov.my when accessible."
 
 lang: "hi"
+sourceContentHash: "52307f4fb8c11cd2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

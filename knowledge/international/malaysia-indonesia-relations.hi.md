@@ -36,10 +36,11 @@ faq:
     a: "इंडोनेशिया आसियान के भीतर मलेशिया के महत्वपूर्ण व्यापारिक साझेदारों में से एक है। 2024 में, इंडोनेशिया को मलेशिया के निर्यात का मूल्य RM54.40 बिलियन था, जो पिछले वर्ष से 6.9% (लगभग RM3.5 बिलियन) अधिक था और मलेशिया के आसियान को निर्यात का 12.4% था। इससे इंडोनेशिया, सिंगापुर और थाईलैंड के बाद, आसियान के भीतर मलेशिया का तीसरा सबसे बड़ा निर्यात-गंतव्य बन जाता है।"
 
 lang: "hi"
+sourceContentHash: "42425bd622f27615"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

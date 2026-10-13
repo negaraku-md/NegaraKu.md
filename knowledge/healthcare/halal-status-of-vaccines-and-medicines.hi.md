@@ -29,12 +29,13 @@ faq:
     a: "3 दिसंबर 2020 की विशेष मुज़ाकरह ने निर्णय दिया कि कोविड-19 टीकों का उपयोग सरकार द्वारा निर्दिष्ट समूहों के लिए अनुमेय और अनिवार्य है, इस शर्त पर कि उपयोग किए जाने वाले टीके हलाल और पवित्र (tayyiban) हों।"
 
 lang: "hi"
+sourceContentHash: "a63cd25d7840519b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

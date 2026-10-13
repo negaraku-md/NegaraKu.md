@@ -25,9 +25,10 @@ faq:
   - q: "JPDP में किसे पंजीकरण कराना होगा?"
     a: "Personal Data Protection (Class of Data Users) Order 2013 के तहत निर्दिष्ट 13 श्रेणियों में आने वाले डेटा उपयोगकर्ताओं (अब «डेटा नियंत्रक») को PDPA की धारा 14 के तहत पंजीकरण कराना होगा और पंजीकरण का एक वैध प्रमाणपत्र प्राप्त करना होगा। पंजीकरण daftar.pdp.gov.my पर SPDP पोर्टल के माध्यम से ऑनलाइन किया जाता है।"
 lang: "hi"
+sourceContentHash: "a86fa7aea38102ca"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

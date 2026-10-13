@@ -33,10 +33,11 @@ faq:
     a: "मलेशिया सांख्यिकी विभाग (DOSM) प्रतिवर्ष ICT सैटेलाइट खाता (मलेशिया डिजिटल इकोनॉमी रिलीज़) प्रकाशित करता है, जो GDP में ICT और ई-कॉमर्स का योगदान निर्धारित करता है। DOSM घरेलू और व्यक्तिगत पैठ आँकड़ों के लिए ICT उपयोग और पहुँच रिपोर्ट भी संचालित करता है। ब्रॉडबैंड पैठ दरें मलेशियाई संचार और मल्टीमीडिया आयोग (MCMC) द्वारा अलग से प्रकाशित की जाती हैं।"
 
 lang: "hi"
+sourceContentHash: "9a3a89f709e2b7ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

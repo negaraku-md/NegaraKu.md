@@ -31,10 +31,11 @@ faq:
     a: "मालिक संपत्ति का स्वामित्व बनाए रख सकता है (Section 69), लेकिन राष्ट्रीय धरोहर के स्वामित्व में परिवर्तन केवल उत्तराधिकार के माध्यम से या आयुक्त की पूर्व स्वीकृति से बिक्री द्वारा ही हो सकता है, और आयुक्त को इसे खरीदने की पहली प्राथमिकता दी जानी चाहिए (Section 70)।"
 
 lang: "hi"
+sourceContentHash: "ac4e452cf7f76ecc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

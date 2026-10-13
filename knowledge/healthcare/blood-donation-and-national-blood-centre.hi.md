@@ -29,10 +29,11 @@ faq:
     a: "इनमें उच्च-जोखिम गतिविधियों में शामिल लोग, गर्भवती/मासिक धर्म वाली/स्तनपान कराने वाली महिला दाता, वह कोई भी जो 1980 और 1996 के बीच 6 महीने या अधिक (संचयी) ब्रिटेन में रहा, या जो 1980 से अब तक 5 वर्ष या अधिक (संचयी) किसी यूरोपीय देश में रहा — दोनों vCJD जोखिम के कारण — शामिल हैं।"
 
 lang: "hi"
+sourceContentHash: "241fb7f03a5cd3d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

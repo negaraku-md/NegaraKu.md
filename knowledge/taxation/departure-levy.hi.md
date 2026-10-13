@@ -29,10 +29,11 @@ faq:
     a: "वे उड़ान-यात्री जो मलेशिया के किसी अंतरराष्ट्रीय हवाई अड्डे पर पहुँचते हैं और 12 घंटे से अधिक न होने वाली ट्रांज़िट-अवधि के भीतर किसी विदेशी गंतव्य के लिए आगे जुड़ते हैं, छूट-प्राप्त हैं।"
 
 lang: "hi"
+sourceContentHash: "5f586e52647f995b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

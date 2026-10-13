@@ -34,10 +34,11 @@ faq:
     a: "हाँ। कंपनी अधिनियम 2016 ने बचाव तंत्र पेश किए: न्यायिक प्रबंधन (धारा 403-430), जिसके तहत न्यायालय-नियुक्त न्यायिक प्रबंधक एक रोक (moratorium) के तहत कंपनी चलाता है, और कॉर्पोरेट स्वैच्छिक व्यवस्था (धारा 395)। धारा 366 के तहत व्यवस्था की एक योजना भी किसी कंपनी को मूल्य के आधार पर 75% अनुमोदन और न्यायालय की स्वीकृति से लेनदारों को समझौते में बाँधने देती है।"
 
 lang: "hi"
+sourceContentHash: "a85ad7d5133bf9fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

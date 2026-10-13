@@ -29,10 +29,11 @@ faq:
     a: "पंजीकरण की तारीख से दस वर्ष, आगे दस-वर्षीय अवधियों के लिए अनिश्चित काल तक नवीकरणीय (धारा 18 और 19)।"
 
 lang: "hi"
+sourceContentHash: "a1ee81a205bbd043"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

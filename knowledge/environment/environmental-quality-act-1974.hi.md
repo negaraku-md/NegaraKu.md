@@ -37,10 +37,11 @@ faq:
     a: "कभी-कभी। धारा 45 महानिदेशक को, लोक अभियोजक की लिखित सहमति से, एक ऐसे अपराध को समझौते से निपटाने की अनुमति देती है जिसे मंत्री ने शमनीय के रूप में निर्धारित किया है, ऐसी राशि में जो अधिकतम जुर्माने के 50% से अधिक न हो। हर अपराध शमनीय नहीं होता, और सबसे गंभीर अनिवार्य-कारावास वाले अपराधों पर आमतौर पर मुकदमा चलाया जाता है।"
 
 lang: "hi"
+sourceContentHash: "c5c03f44b4db2f68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -29,9 +29,10 @@ faq:
     a: "बाटिक शर्ट पुरुषों के लिए स्वीकृत औपचारिक पोशाक है, जो सूट और टाई के स्थान पर आधिकारिक समारोहों, विवाहों और राजनयिक अवसरों पर पहनी जाती है। सरकारी कार्यालय बाटिक-पहनने के दिन निर्धारित करते हैं, जो इसे समारोही उपयोग तक सीमित रखने के बजाय नियमित प्रचलन में बनाए रखता है।"
 
 lang: "hi"
+sourceContentHash: "239aa5ec5e035842"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

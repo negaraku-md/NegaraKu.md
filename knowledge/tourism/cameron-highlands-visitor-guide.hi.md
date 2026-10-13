@@ -31,10 +31,11 @@ faq:
     a: "ये सेमाई गाँवों में निर्देशित सांस्कृतिक भेंट हैं, जिनमें आमतौर पर एक ब्लोपाइप प्रदर्शन और वन-आधारित जीविका पर बातचीत होती है। किसी प्रतिष्ठित स्थानीय गाइड के साथ जाएँ, लोगों की तस्वीर लेने से पहले अनुमति लें, और इसे तमाशे के बजाय एक सम्मानजनक सांस्कृतिक आदान-प्रदान मानें।"
 
 lang: "hi"
+sourceContentHash: "3402603241935266"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

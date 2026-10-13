@@ -29,10 +29,11 @@ faq:
     a: "HSN उत्सव का मुख्य दिन है। 2019 से, KBS ने इस उत्सव को पूरे अक्टूबर माह में राष्ट्रीय खेल माह (BSN) के रूप में विस्तारित किया है।"
 
 lang: "hi"
+sourceContentHash: "51f2375791aa9f72"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

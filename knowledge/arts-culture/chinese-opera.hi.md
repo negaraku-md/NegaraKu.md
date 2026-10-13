@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो मलेशिया में पारंपरिक चीनी ऑपेरा के प्रकारों को समझना चाहता है, और मंदिर-मेलों तथा उत्सवों में «देव-कृतज्ञता ऑपेरा» (酬神戏) जो भूमिका निभाता है।"
 
 lang: "hi"
+sourceContentHash: "13b9c7f4fc9cc94d"
 masterLanguage: "zh"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

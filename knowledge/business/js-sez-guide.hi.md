@@ -42,10 +42,11 @@ verificationNeeded:
   - "JS-SEZ ज्ञान-कार्यकर्ता प्रोत्साहन के लिए प्रशासक एजेंसी और आवेदन मार्ग MIDA दिशानिर्देश में नहीं बताया गया — स्नैपशॉट का Appendix B इसे बिना किसी मार्ग का नाम लिए अन्य प्रोत्साहनों के अंतर्गत सूचीबद्ध करता है। सलाह देने से पहले MIDA या IRDA से पुष्टि करें।"
 
 lang: "hi"
+sourceContentHash: "6ef63a1c757e97dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

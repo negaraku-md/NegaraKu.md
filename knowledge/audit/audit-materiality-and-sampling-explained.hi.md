@@ -30,10 +30,11 @@ faq:
     a: "हाँ। मलेशियाई लेखाकार संस्थान IAASB की घोषणाओं को मलेशियाई अनुमोदित ऑडिटिंग मानकों के रूप में बिना संशोधन अपनाता है, इसलिए ISA 320, 450 और 530 मलेशियाई वैधानिक ऑडिट पर लागू होते हैं।"
 
 lang: "hi"
+sourceContentHash: "caf6b9d895d2d9ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -32,10 +32,11 @@ faq:
     a: "हाँ। कोई निजी कंपनी कंपनी अधिनियम 2016 के तहत सार्वजनिक कंपनी में परिवर्तित हो सकती है — आमतौर पर सदस्यों का एक विशेष संकल्प पारित करके, अपना नाम बदलकर «Berhad» पर समाप्त करके, और आवश्यक दस्तावेज़ Companies Commission of Malaysia (SSM) के पास जमा करके।"
 
 lang: "hi"
+sourceContentHash: "8327877494bab4c8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

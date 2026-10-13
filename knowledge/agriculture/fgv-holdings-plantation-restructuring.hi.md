@@ -32,10 +32,11 @@ faq:
     a: "FGV एक एकीकृत कृषि-व्यवसाय है जो बागान (ताड़ तेल, रबड़ और नवीकरणीय ऊर्जा), तेल एवं वसा, चीनी, लॉजिस्टिक्स एवं सहायक सेवाओं, और उपभोक्ता उत्पादों तक फैला है। अपने अनुसार, यह वैश्विक कच्चे ताड़ तेल उत्पादन का लगभग 3% योगदान देती है।"
 
 lang: "hi"
+sourceContentHash: "f7515e7869f5fdd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -41,10 +41,11 @@ verificationNeeded:
   - "पुष्टि करें कि NIF, Schedule 7A के तहत पुनर्निवेश भत्ते (Reinvestment Allowance) के साथ और विस्तारित या संशोधित की जा रही मौजूदा PIA अनुमोदनों के साथ किस तरह परस्पर क्रिया करता है"
 
 lang: "hi"
+sourceContentHash: "aa93955df38668cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -31,9 +31,10 @@ faq:
   - q: "मलेशिया की विदेश नीति में आसियान इतना केंद्रीय क्यों है?"
     a: "मलेशिया आसियान का संस्थापक सदस्य है (8 अगस्त 1967)। आसियान के ज़रिए सामूहिक रूप से कार्य करना एक मध्यम-आकार के, व्यापार-निर्भर देश को प्रमुख शक्तियों के साथ संबंध संभालने में अकेले की तुलना में कहीं अधिक मज़बूत आवाज़ देता है — यही कारण है कि आसियान केंद्रीयता को नीति की आधारशिला माना जाता है।"
 lang: "hi"
+sourceContentHash: "0119cb2bc48cc9ad"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

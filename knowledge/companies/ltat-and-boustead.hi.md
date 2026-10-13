@@ -29,12 +29,13 @@ faq:
     a: "यह LTAT और Boustead समूह के लिए एक पुनर्गठन योजना है जिसे LTAT बोर्ड ने 9 अगस्त 2024 को अनुमोदित किया और 13 दिसंबर 2024 को मंत्रिमंडल को सूचित किया गया; इसका उद्देश्य बलपूर्वक बिक्री से बचते हुए तीन वर्षों में रणनीतिक-परिसंपत्ति धारिता को 35% तक घटाना है।"
 
 lang: "hi"
+sourceContentHash: "bc79a003d2567110"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

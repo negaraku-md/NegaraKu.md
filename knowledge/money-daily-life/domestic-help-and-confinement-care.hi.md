@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "मलेशिया में वे परिवार जो प्रसव के बाद एक साथ-रहने वाली विदेशी घरेलू सहायिका, स्थानीय अंशकालिक सहायता, या प्रसवोत्तर देखभाल (दाई या केंद्र) पर विचार कर रहे हैं।"
 
 lang: "hi"
+sourceContentHash: "1482c677a5d90d95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

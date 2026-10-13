@@ -30,10 +30,11 @@ faq:
     a: "वर्तमान रियायत 2021 से 2031 की अवधि के लिए प्रभावी है। जुलाई 2026 में सरकार ने पुष्टि की कि वह रियायत समाप्त होने से पहले एकमात्र आयातक के रूप में BERNAS की भूमिका की समीक्षा करेगी।"
 
 lang: "hi"
+sourceContentHash: "887cca88638d8c9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

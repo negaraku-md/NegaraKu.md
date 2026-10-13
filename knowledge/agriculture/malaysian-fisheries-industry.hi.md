@@ -36,12 +36,13 @@ faq:
     a: "मत्स्य अधिनियम 1985 में 2019 के संशोधन (अधिनियम A1601) के बाद, घुसपैठ करने वाले विदेशी जहाज़ के मालिक या कप्तान के लिए अधिकतम जुर्माना RM1 मिलियन से बढ़ाकर RM6 मिलियन, और प्रत्येक चालक-दल सदस्य के लिए RM100,000 से बढ़ाकर RM600,000 कर दिया गया।"
 
 lang: "hi"
+sourceContentHash: "f5794964e422efce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

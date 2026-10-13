@@ -32,10 +32,11 @@ faq:
     a: "40 वर्ष और उससे अधिक आयु के Sumbangan Tunai Rahmah (STR) प्राप्तकर्ता पंजीकृत सरकारी या निजी क्लीनिकों में PeKa B40 के तहत मुफ़्त जाँच के पात्र हैं। सार्वजनिक स्वास्थ्य क्लीनिक भी बुनियादी जाँच प्रदान करते हैं।"
 
 lang: "hi"
+sourceContentHash: "bbc5ab5d7d67181c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

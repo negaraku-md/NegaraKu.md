@@ -62,10 +62,11 @@ obligations:
     consequence: "कंपनी और प्रत्येक अधिकारी पर RM50,000 से अनधिक जुर्माना"
 
 lang: "hi"
+sourceContentHash: "0c5ee4a6c8f640ee"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

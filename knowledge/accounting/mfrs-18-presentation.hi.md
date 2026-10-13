@@ -42,10 +42,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या Bursa Malaysia पहले MFRS 18 वर्ष में तिमाही रिपोर्टिंग के लिए संक्रमणकालीन मार्गदर्शन जारी करेगा"
 
 lang: "hi"
+sourceContentHash: "542671cd3c464e38"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

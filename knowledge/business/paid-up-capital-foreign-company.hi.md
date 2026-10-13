@@ -43,10 +43,11 @@ verificationNeeded:
   - "The RM5,000 minimum expatriate salary stated in MIDA Booklet 8 for distributive trade predates the Employment Pass salary policy revised with effect from 1 June 2026 and should be read against the current bands"
 
 lang: "hi"
+sourceContentHash: "7e020b10096556f2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

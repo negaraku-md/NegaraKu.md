@@ -18,9 +18,10 @@ keyTakeaways:
   - "यूनेस्को के सलाहकार निकाय इसे हिमालय और न्यू गिनी के बीच का सबसे ऊँचा पर्वत बताते हैं, और यह अनुमानित 5,000-6,000 संवहनी पादप प्रजातियों को आश्रय देता है, जिनमें लगभग 1,000 ऑर्किड प्रजातियाँ शामिल हैं"
 appliesTo: "वे पाठक जो माउंट किनाबालू की सत्यापित ऊँचाई और संरक्षित-क्षेत्र दर्जा चाहते हैं, और इस बात की सरल व्याख्या चाहते हैं कि सबाह में एक ग्रेनाइट पर्वत भूवैज्ञानिक रूप से इतना नया क्यों है।"
 lang: "hi"
+sourceContentHash: "9898433b2f4e9aa1"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -19,9 +19,10 @@ keyTakeaways:
   - "जापानी प्रशासन 1945 में आत्मसमर्पण के साथ समाप्त हुआ; इस क्षेत्र के लिए आत्मसमर्पण दस्तावेज़ 12 सितंबर 1945 को सिंगापुर के नगरपालिका भवन में हस्ताक्षरित हुआ"
 appliesTo: "विद्यार्थी, शिक्षक, शोधकर्ता और सामान्य पाठक जो पीड़ा के चरित्र-चित्रण या तुलना के बिना, मलाया और बोर्नियो में 1941–1945 के काल का स्रोत-समर्थित कालक्रम और वर्णनात्मक विवरण चाहते हैं।"
 lang: "hi"
+sourceContentHash: "8db8504e8559d165"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

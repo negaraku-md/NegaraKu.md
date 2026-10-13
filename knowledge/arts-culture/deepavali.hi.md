@@ -30,9 +30,10 @@ faq:
     a: "ये दीये — मिट्टी या धातु के छोटे दीये जिन्हें अकसर «दिया» (diyas) कहा जाता है — «रोशनी के पर्व» का दृश्य केंद्र हैं। इनकी पंक्तियाँ द्वारों और खिड़कियों पर जलाई जाती हैं, जो पर्व के नाम «रोशनी की एक पंक्ति» के अर्थ की प्रतिध्वनि हैं।"
 
 lang: "hi"
+sourceContentHash: "6b34554bb6701b65"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

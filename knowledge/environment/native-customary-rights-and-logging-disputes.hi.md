@@ -29,12 +29,13 @@ faq:
     a: "राज्य द्वारा जारी लकड़ी लाइसेंस और बागान पट्टे ऐसे क्षेत्रों को कवर कर सकते हैं जिन्हें समुदाय प्रथागत भूमि के रूप में दावा करते हैं। जहाँ पक्ष इस बात पर असहमत होते हैं कि कोई क्षेत्र NCR भूमि है या नहीं, वहाँ विवाद अक्सर अदालत में तय किया जाता है।"
 
 lang: "hi"
+sourceContentHash: "73a645ecf7076b5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -35,10 +35,11 @@ faq:
     a: "नहीं। एकल स्वामित्व या साझेदारी व्यवसाय पंजीकरण अधिनियम 1956 के तहत एक व्यवसाय पंजीकरण है, कोई अलग विधिक इकाई नहीं, अतः इसे «बंद करना» केवल SSM को यह सूचित करना है कि पंजीकरण समाप्त हो गया है — कोई परिसमापक नहीं, कोई नाम-हटाने का आवेदन नहीं, कोई शुल्क नहीं। एक Sdn Bhd कंपनी अधिनियम 2016 (Companies Act 2016) के तहत एक कंपनी है और उससे नाम हटाने या समापन के माध्यम से ही निकला जा सकता है। कंपनी बंद करने पर अलग मार्गदर्शिका देखें।"
 
 lang: "hi"
+sourceContentHash: "b7ee74767d9d900f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

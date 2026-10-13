@@ -32,10 +32,11 @@ faq:
     a: "यांग दी-पर्तुआन अगोंग प्रधानमंत्री की सलाह पर महान्यायवादी की नियुक्ति करता है। अभ्यर्थी को ऐसा कोई व्यक्ति होना चाहिए जो संघीय न्यायालय का न्यायाधीश बनने के योग्य हो।"
 
 lang: "hi"
+sourceContentHash: "8a9cf47766823c46"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

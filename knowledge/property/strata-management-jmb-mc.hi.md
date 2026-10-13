@@ -34,10 +34,11 @@ faq:
     a: "किसी अधिनिर्णय का पालन न करना धारा 123 के तहत एक आपराधिक अपराध है — RM250,000 से अधिक न होने वाला जुर्माना या 3 वर्ष से अधिक न होने वाला कारावास या दोनों, तथा निरंतर अपराध के लिए प्रति दिन RM5,000 तक का अतिरिक्त जुर्माना। शिकायत भवन आयुक्त (COB) को की जाती है।"
 
 lang: "hi"
+sourceContentHash: "f0b9ecff267db2f3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

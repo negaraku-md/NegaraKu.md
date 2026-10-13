@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "कोई भी व्यक्ति जो किसी कुत्ते या बिल्ली के साथ मलेशिया स्थानांतरित हो रहा हो, या किसी अन्य प्रयोजन के लिए कोई जानवर ला रहा हो, और जिसे प्रस्थान से पहले परमिट तथा संगरोध प्रक्रिया की योजना बनानी हो।"
 
 lang: "hi"
+sourceContentHash: "10bc44ecb02ea814"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

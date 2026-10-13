@@ -28,10 +28,11 @@ faq:
     a: "यह पहले से पूरे देश में पहचाना जाता था, आकर्षक रंग और आकार रखता था, एक समान नाम रखता था, आसानी से उपलब्ध था, और उस समय किसी अन्य देश का राष्ट्रीय पुष्प नहीं था।"
 
 lang: "hi"
+sourceContentHash: "a06373b8a03d8ae0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

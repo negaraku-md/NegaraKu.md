@@ -29,10 +29,11 @@ faq:
     a: "Azizulhasni Awang, दो बार के ओलंपिक पदक विजेता (कांस्य 2016, रजत 2020) और 2017 के कीरिन विश्व चैंपियन।"
 
 lang: "hi"
+sourceContentHash: "490abb68b2e39c44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

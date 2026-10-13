@@ -67,10 +67,11 @@ obligations:
     statute: "Trades Licensing Ordinance (Sabah Cap. 144), s.12(1)"
 
 lang: "hi"
+sourceContentHash: "727ac80fd0ce4789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

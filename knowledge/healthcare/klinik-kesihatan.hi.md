@@ -26,10 +26,11 @@ verificationNeeded:
   - "Klinik Kesihatan, Klinik Komuniti और Klinik Desa के बीच स्टाफ़िंग और उपचार के सटीक दायरे के मामले में विस्तृत अंतरों की लेखन के समय आधिकारिक KKM स्रोतों के विरुद्ध पूरी पुष्टि नहीं हो सकी; यह लेख केवल इतना बताता है कि तीनों अलग-अलग सुविधाएँ हैं।"
 
 lang: "hi"
+sourceContentHash: "a763d53f069e94c3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

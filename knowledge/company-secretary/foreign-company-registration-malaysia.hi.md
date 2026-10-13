@@ -33,10 +33,11 @@ faq:
     a: "एक पंजीकृत विदेशी कंपनी को अपनी पंजीकरण वर्षगाँठ के 30 दिन के भीतर एक वार्षिक विवरणी (धारा 576) जमा करनी होगी और SSM के पास वित्तीय विवरण (धारा 575) दाखिल करने होंगे, इसके अतिरिक्त अपने पंजीकृत कार्यालय और एजेंट विवरण को अद्यतन रखना होगा।"
 
 lang: "hi"
+sourceContentHash: "76459d3892f48c61"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

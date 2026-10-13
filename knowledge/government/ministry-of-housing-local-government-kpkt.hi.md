@@ -27,9 +27,10 @@ faq:
   - q: "KPKT पहले किस नाम से जाना जाता था, और नाम कब बदला?"
     a: "यह स्थानीय सरकार विकास मंत्रालय था; मंत्रिमंडल ने 13 दिसंबर 2023 को इसका नाम बदलकर आवास एवं स्थानीय सरकार मंत्रालय करने का निर्णय लिया, जिसकी घोषणा 26 दिसंबर 2023 को हुई।"
 lang: "hi"
+sourceContentHash: "44a0632c979d6de6"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

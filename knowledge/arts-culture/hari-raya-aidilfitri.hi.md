@@ -34,10 +34,11 @@ faq:
     a: "रुमाह तरबुका वह प्रथा है जिसमें रिश्तेदारों, पड़ोसियों और दोस्तों को — अन्य नस्लों और धर्मों के लोगों सहित — शव्वाल की पूरी अवधि में आने, मिलने और भोजन का आनंद लेने के लिए आमंत्रित किया जाता है। यह मलेशिया में एक व्यापक सामाजिक विशेषता बन गई है, और इसे अक्सर सरकारी एजेंसियाँ और कंपनियाँ भी आयोजित करती हैं, न कि केवल निजी घरों में।"
 
 lang: "hi"
+sourceContentHash: "93ccc705ae0a9141"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

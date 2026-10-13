@@ -32,12 +32,13 @@ faq:
     a: "नहीं। अनुच्छेद 114(3) के अनुसार SPR के किसी सदस्य को उसके पद से केवल उन्हीं आधारों पर और उसी रीति से हटाया जा सकता है जिस प्रकार संघीय न्यायालय के न्यायाधीश को—यह एक सुरक्षा-उपाय है जिसका उद्देश्य आयोग की स्वतंत्रता का समर्थन करना है।"
 
 lang: "hi"
+sourceContentHash: "4ee6643ef314a576"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

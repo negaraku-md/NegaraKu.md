@@ -18,11 +18,12 @@ keyTakeaways:
   - "1824 की एंग्लो-डच संधि और उसके परिणाम ने इस क्षेत्र को विभाजित किया: रियाउ-लिंगा डच के अधीन, जोहोर ब्रिटिश प्रभाव-क्षेत्र में"
 appliesTo: "हर वह व्यक्ति जो समझना चाहता है कि मलक्का की मलय राजसी संस्था किस तरह अखंड रूप से आधुनिक मलय राज्यों, विशेष रूप से जोहोर में जारी रही।"
 lang: "hi"
+sourceContentHash: "e2e07f7bcea9fc14"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

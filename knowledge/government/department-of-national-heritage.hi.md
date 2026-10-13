@@ -27,9 +27,10 @@ faq:
   - q: "क्या किसी जीवित व्यक्ति को राष्ट्रीय विरासत घोषित किया जा सकता है?"
     a: "हाँ। धारा 67 मंत्री को किसी जीवित व्यक्ति को राष्ट्रीय विरासत घोषित करने की अनुमति देती है, और राष्ट्रीय विरासत (जीवित व्यक्ति को राष्ट्रीय विरासत के रूप में घोषणा) आदेश 2012 'Warisan Orang Hidup' श्रेणी के लिए औपचारिक लिखत प्रदान करता है।"
 lang: "hi"
+sourceContentHash: "965829d0863e2f00"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

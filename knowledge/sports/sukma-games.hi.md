@@ -29,10 +29,11 @@ faq:
     a: "SUKMA वह राज्य मंच है जहाँ युवा खिलाड़ी अपनी प्रतिभा का प्रदर्शन करते हैं। संभावनाशील खिलाड़ियों को MSN के प्रतिभा-विकास और रिज़र्व कार्यक्रमों में, और आगे ISN के पोडियम कार्यक्रम में पदोन्नत किया जा सकता है, जो शीर्ष खिलाड़ियों को अंतरराष्ट्रीय खेलों के लिए तैयार करता है।"
 
 lang: "hi"
+sourceContentHash: "82263beab0c4a71a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

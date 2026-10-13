@@ -31,10 +31,11 @@ faq:
     a: "समुदाय की संख्या तेज़ी से गिरी है — सिंगापुर के राष्ट्रीय विरासत बोर्ड (Roots) के अनुसार 1980 के दशक में लगभग 400 परिवारों से घटकर आज 50 से कम परिवारों तक — जबकि एक Free Malaysia Today रिपोर्ट अनुमान लगाती है कि कामपुंग चेट्टी में अब भी केवल लगभग 20 से 30 परिवार रहते हैं। शोधकर्ता इस गिरावट को अंतर्विवाह, बाहर की ओर पलायन, और युवा पीढ़ियों के अपनी चेट्टी जड़ों से बढ़ते संपर्क-विच्छेद से जोड़ते हैं।"
 
 lang: "hi"
+sourceContentHash: "f11ad6d038f7a742"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

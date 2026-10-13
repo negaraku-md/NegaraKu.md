@@ -21,11 +21,12 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो प्रावधान-दर-प्रावधान यह जानना चाहता है कि संघीय संविधान के किसी दिए गए भाग को बदलने के लिए संसद में वास्तव में क्या लगता है।"
 
 lang: "hi"
+sourceContentHash: "34255dffcbbb4b20"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

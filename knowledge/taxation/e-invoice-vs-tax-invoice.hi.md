@@ -26,10 +26,11 @@ verificationNeeded:
   - "क्या RMCD ने e-Invoice दृश्य प्रस्तुति को SST चालान विवरणों के साथ मिलाने वाला कोई समर्पित गाइड जारी किया है — mysst.customs.gov.my पर कोई नहीं मिला"
 
 lang: "hi"
+sourceContentHash: "cf809540c51ed69e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

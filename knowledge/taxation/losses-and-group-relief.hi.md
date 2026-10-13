@@ -41,10 +41,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या s.44(5D) के तहत कोई मंत्रालयी छूट सामान्य YA2006 शिथिलीकरण से परे व्यक्तिगत मामलों में दी गई है; केवल सामान्य स्थिति ही प्रकाशित है"
 
 lang: "hi"
+sourceContentHash: "5db600f69d4d89ad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

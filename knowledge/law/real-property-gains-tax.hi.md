@@ -34,10 +34,11 @@ faq:
     a: "व्यक्तियों के लिए, हाँ — किसी अचल संपत्ति कंपनी (RPC) के शेयरों का व्ययन RPGT के अंतर्गत बना रहता है। तथापि, 1 मार्च 2024 से, कंपनियों, सीमित दायित्व भागीदारियों, न्यास-निकायों और सहकारियों द्वारा ऐसे शेयरों का व्ययन आयकर अधिनियम 1967 (Income Tax Act 1967) के अंतर्गत पूँजीगत लाभ कर व्यवस्था में स्थानांतरित हो जाता है।"
 
 lang: "hi"
+sourceContentHash: "7363fccb7997191f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

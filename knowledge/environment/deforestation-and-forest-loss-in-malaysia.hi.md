@@ -34,10 +34,11 @@ faq:
     a: "वृक्ष-आवरण हानि वृक्ष-छतरी के किसी भी हटाव को गिनती है — जिसमें बागानों की कटाई, आग और तूफ़ान से क्षति शामिल है — इसलिए इसमें वे हानियाँ भी शामिल हैं जो बाद में फिर उग आती हैं। प्राथमिक वन-हानि केवल अपूरणीय जैव-विविधता और कार्बन वाले परिपक्व प्राकृतिक वन के कटान को गिनती है, और स्थायी पारिस्थितिक हानि का बेहतर सूचक है।"
 
 lang: "hi"
+sourceContentHash: "0965237e8942626f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -36,10 +36,11 @@ faq:
     a: "EPF, EPF Act 1991 के अंतर्गत प्रति वर्ष 2.5% के न्यूनतम लाभांश की गारंटी देता है। वास्तविक लाभांश प्रायः अधिक होता है — 2024 के लिए 6.30% और 2025 के लिए 6.15% घोषित किया गया (Simpanan Konvensional)।"
 
 lang: "hi"
+sourceContentHash: "002bda1ea2b2e8d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

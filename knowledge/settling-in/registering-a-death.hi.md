@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "वारिस, निकटतम परिवार के सदस्य या सूचक जो मलेशिया में किसी व्यक्ति की मृत्यु पंजीकृत करने और उसके बाद आने वाले प्रशासनिक मामलों के लिए मृत्यु प्रमाणपत्र प्राप्त करने के लिए ज़िम्मेदार हैं।"
 
 lang: "hi"
+sourceContentHash: "729859064dd35894"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

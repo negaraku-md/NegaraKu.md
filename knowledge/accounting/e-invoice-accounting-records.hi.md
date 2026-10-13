@@ -42,10 +42,11 @@ verificationNeeded:
   - "इस विश्लेषण को SST दस्तावेज़ों तक विस्तृत करने से पहले बिक्री कर अधिनियम 2018 (Sales Tax Act 2018) और सेवा कर अधिनियम 2018 (Service Tax Act 2018) की अभिलेख प्रतिधारण अवधियों की अलग से पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "8f59afbef6de896e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

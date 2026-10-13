@@ -27,10 +27,11 @@ faq:
     a: "Companies Act 2016 की धारा 593 के तहत, Registrar (SSM) को झूठा कथन या रिपोर्ट 10 वर्ष तक के कारावास, RM3 मिलियन तक के जुर्माने, या दोनों से दंडनीय है।"
 
 lang: "hi"
+sourceContentHash: "e1c1cbfc3de7c89d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

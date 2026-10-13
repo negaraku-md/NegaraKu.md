@@ -29,10 +29,11 @@ faq:
     a: "इसका स्थान NADMA निर्देश सं. 1 ने ले लिया है, जिसे 1 अगस्त 2024 को प्रधानमंत्री की अध्यक्षता में हुई राष्ट्रीय सुरक्षा परिषद (MKN) की बैठक में अनुमोदित किया गया।"
 
 lang: "hi"
+sourceContentHash: "cb54d0894eec9ad2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

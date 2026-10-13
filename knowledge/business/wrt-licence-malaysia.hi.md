@@ -39,10 +39,11 @@ verificationNeeded:
   - "एक WRT अनुमोदन की वैधता अवधि की लंबाई — केवल तीन-महीने की नवीनीकरण अग्रिम-समय प्रकाशित है"
 
 lang: "hi"
+sourceContentHash: "01bb0853bba1972c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

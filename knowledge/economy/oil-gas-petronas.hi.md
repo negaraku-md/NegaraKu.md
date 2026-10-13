@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "कोई भी जो मलेशिया के तेल और गैस क्षेत्र का क़ानूनी आधार, पेट्रोलियम पर संघीय राजकोषीय निर्भरता, या संघ-राज्य संसाधन बहस को समझना चाहता है — विद्यार्थी, विश्लेषक, निवेशक और पत्रकार।"
 
 lang: "hi"
+sourceContentHash: "e00cfef3a5a059c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

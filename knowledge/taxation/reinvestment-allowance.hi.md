@@ -41,10 +41,11 @@ verificationNeeded:
   - "Schedule 7A के पैराग्राफ 3 के परंतुक में 100% छूट खोलने वाला निर्धारित उत्पादकता-स्तर मंत्री द्वारा तय किया जाता है और RA दावा-प्रपत्र पर परिकलित होता है; वर्तमान निर्धारित सीमा की किसी प्राथमिक स्रोत से पुष्टि नहीं हुई।"
 
 lang: "hi"
+sourceContentHash: "8240b93cc8d8dcd0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

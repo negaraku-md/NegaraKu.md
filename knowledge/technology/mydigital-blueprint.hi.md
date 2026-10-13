@@ -36,10 +36,11 @@ faq:
     a: "MyDIGITAL को राष्ट्रीय विकास नीतियों जैसे 12वीं मलेशिया योजना (RMKe-12) और साझा समृद्धि दृष्टिकोण 2030 (WKB 2030) का पूरक बनाने के लिए तैयार किया गया है, जो डिजिटल अर्थव्यवस्था को एक प्रमुख आर्थिक विकास गतिविधि के रूप में मान्यता देती हैं।"
 
 lang: "hi"
+sourceContentHash: "ac3f23832d2acdba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

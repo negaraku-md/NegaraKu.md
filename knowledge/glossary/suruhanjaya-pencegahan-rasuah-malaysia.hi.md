@@ -31,12 +31,13 @@ faq:
     a: "कोई संगठन स्वयं का बचाव कर सकता है यदि वह सिद्ध करे कि उसके पास भ्रष्टाचार रोकने के लिए पर्याप्त प्रक्रियाएँ मौजूद थीं। मार्गदर्शन प्रधानमंत्री विभाग द्वारा जारी Guidelines on Adequate Procedures में निहित पाँच T.R.U.S.T. सिद्धांत हैं, जो 4 दिसंबर 2018 के हैं।"
 
 lang: "hi"
+sourceContentHash: "bba5e6b3f79a29ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

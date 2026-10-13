@@ -18,11 +18,12 @@ keyTakeaways:
   - "सल्तनत संस्था संविधान में नौ मलय शासकों, शासक सम्मेलन, और यांग दी-पेर्तुआन अगोंग के माध्यम से जारी है"
 appliesTo: "कोई भी व्यक्ति जो पारंपरिक मलय सल्तनत संस्था की संरचना और भूमिका को समझना चाहता है और यह कि यह आज की संवैधानिक राजतंत्र प्रणाली से कैसे जुड़ती है।"
 lang: "hi"
+sourceContentHash: "95bf275cb438d0b7"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

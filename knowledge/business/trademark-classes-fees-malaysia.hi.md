@@ -39,10 +39,11 @@ verificationNeeded:
   - "Trademarks (Reduction of Fee) Regulations 2025 [P.U. (A) 315/2025] ने प्रति-वर्ग दाख़िल-शुल्क को RM300 घटाया, केवल रजिस्ट्रार के व्यवहार-निर्देशों की कसौटी पूरी करने वाले आवेदकों के काउंटर-दाख़िलों के लिए, 1 सितंबर और 31 दिसंबर 2025 के बीच — पुष्टि करें कि क्या कोई उत्तरवर्ती संलेख राजपत्रित हुआ है"
 
 lang: "hi"
+sourceContentHash: "2b920571a13b0794"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

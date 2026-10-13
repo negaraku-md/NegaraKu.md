@@ -30,9 +30,10 @@ faq:
     a: "ज़्यादातर सांस्कृतिक उत्सवों, संग्रहालय एवं धरोहर कार्यक्रमों, और पर्यटन प्रदर्शनों में, न कि गाँव के मनोरंजन के रूप में। निर्धारित प्रदर्शनों को खोजने के लिए राष्ट्रीय संस्कृति एवं कला विभाग और राज्य सांस्कृतिक निकाय व्यावहारिक आरंभ-बिंदु हैं।"
 
 lang: "hi"
+sourceContentHash: "d4cb6805f330e418"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

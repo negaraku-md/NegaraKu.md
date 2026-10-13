@@ -47,10 +47,11 @@ verificationNeeded:
   - "PLKS रखने वाले प्रलेखित विदेशी कामगारों की संख्या की पुष्टि करें, राष्ट्रीय और राज्यवार — DOSM ग़ैर-नागरिक आबादी प्रकाशित करता है, जिसमें आश्रित, छात्र, स्थायी निवासी और अप्रलेखित व्यक्ति शामिल हैं"
 
 lang: "hi"
+sourceContentHash: "266dea497fff19a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

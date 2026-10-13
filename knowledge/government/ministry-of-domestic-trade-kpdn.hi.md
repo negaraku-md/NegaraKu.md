@@ -27,9 +27,10 @@ faq:
   - q: "मूल्यों को नियंत्रित करने के लिए KPDN किन कानूनों का उपयोग करता है?"
     a: "यह मुख्यतः आपूर्ति नियंत्रण अधिनियम 1961 (Control of Supplies Act 1961) और मूल्य नियंत्रण एवं अति-लाभ-विरोधी अधिनियम 2011 (Price Control and Anti-Profiteering Act 2011) पर निर्भर करता है, जो इसे मूल्य-सीमाएँ निर्धारित करने, मूल्य प्रदर्शन अनिवार्य करने, और अनुचित रूप से उच्च लाभों के विरुद्ध कार्रवाई करने देते हैं।"
 lang: "hi"
+sourceContentHash: "bc54d858f6180b54"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

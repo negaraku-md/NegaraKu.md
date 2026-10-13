@@ -41,10 +41,11 @@ verificationNeeded:
   - "MASB द्वारा प्रकाशित मानक के विरुद्ध वर्तमान MFRS 124 प्रकटीकरण आवश्यकताओं और संबंधित वित्तीय वर्ष के लिए प्रभावी किसी भी संशोधन की पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "cc898ee41c4b1308"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

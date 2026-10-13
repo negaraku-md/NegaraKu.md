@@ -28,10 +28,11 @@ verificationNeeded:
   - "Act संख्या 612, 732, 789, 800, 840 और 872 की lom.agc.gov.my के विरुद्ध पुष्टि करें जब वे PDF उपलब्ध हों — वे वर्तमान में LOM भंडार के बजाय एजेंसी साइटों से पुष्ट हैं"
 
 lang: "hi"
+sourceContentHash: "debce12c53f16ed5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

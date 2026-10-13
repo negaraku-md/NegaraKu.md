@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "मलेशिया में हर वह व्यक्ति जो किसी निजी सुविधा में विशेषज्ञ परामर्श या अस्पताल में भर्ती का सामना कर रहा है — मरीज़, देखभालकर्ता, और नियोक्ता-प्रदत्त मेडिकल कार्ड या बीमा पर निर्भर कर्मचारी।"
 
 lang: "hi"
+sourceContentHash: "ae428a676e96d0c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

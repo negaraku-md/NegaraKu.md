@@ -33,12 +33,13 @@ faq:
     a: "नहीं। tuak, montoku और tumpung जैसी चावल की शराबें सारावाक के दायक समुदाय और सबाह के कादाज़ानदुसुन समुदाय के पारंपरिक पेय हैं, और The Star के अनुसार गवाई तथा कामातान भोज के केंद्र में हैं। वे उन समुदायों की त्योहारी मेज़ों का हिस्सा नहीं हैं जो हलाल भोजन और पेय का पालन करते हैं, जैसे हरि रया पर। कोई विशेष खुला घर क्या परोसता है, यह मेज़बान की आहार-प्रथाओं और परंपराओं पर निर्भर करता है।"
 
 lang: "hi"
+sourceContentHash: "58bbad87611b5d86"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

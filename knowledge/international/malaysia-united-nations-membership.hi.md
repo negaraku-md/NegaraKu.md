@@ -33,10 +33,11 @@ faq:
     a: "हाँ। 1960 में कांगो में अपनी पहली तैनाती के बाद से, मलेशिया ने संयुक्त राष्ट्र के अनुसार 38 से अधिक शांति-रक्षा अभियानों में 29,000 से अधिक शांति सैनिकों का योगदान दिया है। 1 जुलाई 2026 तक, मलेशिया लेबनान में UNIFIL में 516 कर्मी (अगस्त 2025 के 830 कर्मियों से कम) का योगदान देता है।"
 
 lang: "hi"
+sourceContentHash: "9173bdd2a2224732"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

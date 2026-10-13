@@ -32,10 +32,11 @@ faq:
     a: "नहीं। धारा 554(1)(a) के अधीन, कंपनी के प्रत्येक निदेशक, अधिकारी या सदस्य की देयता जारी रहती है और ऐसे प्रवर्तित की जा सकती है मानो कंपनी विघटित हुई ही न हो। निदेशकों को strike-off के बाद सात वर्षों तक कंपनी के अभिलेख भी रखने होते हैं।"
 
 lang: "hi"
+sourceContentHash: "bd012809619da49e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

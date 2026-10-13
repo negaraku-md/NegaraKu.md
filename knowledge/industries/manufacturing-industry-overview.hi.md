@@ -34,10 +34,11 @@ faq:
     a: "मलेशिया सांख्यिकी विभाग (DOSM) मासिक और वार्षिक विनिर्माण सांख्यिकी और GDP डेटा प्रकाशित करता है। मलेशियाई निवेश विकास प्राधिकरण (MIDA) विनिर्माण निवेश को बढ़ावा देता और मंज़ूरी देता है, जबकि निवेश, व्यापार और उद्योग मंत्रालय (MITI) NIMP 2030 का स्वामी है।"
 
 lang: "hi"
+sourceContentHash: "688fcd61cdea1a88"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -23,10 +23,11 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो यह समझना चाहता है कि मलेशियाई अदालतें अंग्रेज़ी केस-लॉ का हवाला क्यों देती हैं, मलेशियाई कानूनी प्रणाली के अध्ययनरत विधि-छात्र, और हर वह व्यक्ति जो यह शोध करता है कि कुछ क्षेत्र (भूमि, परिवार, इस्लामी कानून) कॉमन लॉ विरासत से बाहर क्यों बैठते हैं।"
 
 lang: "hi"
+sourceContentHash: "0e25f8448644480c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

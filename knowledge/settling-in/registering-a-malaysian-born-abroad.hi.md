@@ -30,12 +30,13 @@ faq:
     a: "2024 के संशोधन से पहले, अनुच्छेद 14(1)(b) के तहत कानून-के-प्रवर्तन वाला मार्ग तब लागू होता था जब पिता नागरिक हो; 5 अगस्त 2023 के अपील न्यायालय के निर्णय (Suriani Kempe & Ors बनाम मलेशिया सरकार का मामला) के बाद नागरिक माताओं द्वारा किए गए फ़ॉर्म D आवेदन रोक दिए गए, जैसा कि Family Frontiers की मार्गदर्शिका में दर्ज है। अक्टूबर 2024 में पारित संशोधन अधिनियम माताओं और पिताओं के अधिकारों को बराबर करता है, पर केवल उन बच्चों के लिए जो इसके प्रभावी होने के बाद जन्मे हों। उससे पहले जन्मे 18 वर्ष से कम उम्र के बच्चों के लिए अनुच्छेद 15(2) का मार्ग (फ़ॉर्म B) उपयोग होता है।"
 
 lang: "hi"
+sourceContentHash: "2a31c142e3a5bd2c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

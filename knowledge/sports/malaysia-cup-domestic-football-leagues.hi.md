@@ -31,12 +31,13 @@ faq:
     a: "MFL ने AFC प्रारूप के साथ संरेखित करने के लिए कैलेंडर स्थानांतरित किया। नया सीज़न मई 2024 में शुरू हुआ और अप्रैल 2025 में समाप्त हुआ, जिसमें AFC एशियन कप, 2026 विश्व कप क्वालीफिकेशन और रमज़ान के महीने को ध्यान में रखा गया।"
 
 lang: "hi"
+sourceContentHash: "fdb11bb0fa6c116e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -29,10 +29,11 @@ faq:
     a: "नहीं। RTS Link जोहोर बहरू और Woodlands के बीच एक छोटी सीमा-पार शटल है, जिसके 2026 में खुलने का लक्ष्य है। HSR कुआलालंपुर और सिंगापुर के बीच नियोजित एक अलग ~350 किमी हाई-स्पीड लाइन है।"
 
 lang: "hi"
+sourceContentHash: "b505d87f2fe5cea1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

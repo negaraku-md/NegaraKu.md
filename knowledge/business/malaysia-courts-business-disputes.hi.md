@@ -29,10 +29,11 @@ verificationNeeded:
   - "विशेषीकृत उच्च न्यायालय प्रभागों (New Commercial Court, Construction Court, Intellectual Property Court) का गठन करने वाले अभ्यास निर्देश और उनके आवंटन मानदंड — ये न्यायपालिका की प्रशासनिक व्यवस्थाएँ हैं, वैधानिक अदालतें नहीं"
 
 lang: "hi"
+sourceContentHash: "7a5b4212b0b3e35b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -269,6 +269,29 @@ const redirects = {
   '/ar/technology/mcmc-malaysia': '/ar/government/mcmc-communications-multimedia-commission',
   '/ar/government/ma63-sabah-sarawak-autonomy': '/ar/malaysia/ma63',
   '/ar/glossary/dasar-ekonomi-baru': '/ar/malaysia/new-economic-policy',
+  // /hi mirrors of every retired-dupe redirect above (added 2026-10-13 at Hindi
+  // open launch; the .hi dupes are archived like their ms/en/zh/ta/ja/ko/th/vi/id/ar siblings).
+  '/hi/government/national-registration-department-jpn': '/hi/government/jpn',
+  '/hi/government/ministry-of-investment-trade-industry-miti': '/hi/government/miti',
+  '/hi/glossary/bank-negara-malaysia': '/hi/economy/bank-negara-malaysia',
+  '/hi/government/bank-negara-malaysia': '/hi/economy/bank-negara-malaysia',
+  '/hi/energy/petronas': '/hi/companies/petronas',
+  '/hi/industries/petronas-industry-profile': '/hi/companies/petronas',
+  '/hi/law/personal-data-protection-act-2010': '/hi/law/pdpa-2010',
+  '/hi/business/cyber-security-act-malaysia': '/hi/technology/cyber-security-act-2024',
+  '/hi/companies/pnb-and-asnb': '/hi/economy/pnb',
+  '/hi/glossary/felda': '/hi/agriculture/felda-land-settlement-scheme',
+  '/hi/glossary/orang-asli': '/hi/arts-culture/orang-asli',
+  '/hi/energy/tnb-tenaga-nasional': '/hi/companies/tenaga-nasional',
+  '/hi/companies/khazanah-nasional': '/hi/economy/khazanah',
+  '/hi/glossary/khazanah-nasional': '/hi/economy/khazanah',
+  '/hi/economy/deposit-insurance-pidm': '/hi/finance/pidm-deposit-and-takaful-insurance-protection',
+  '/hi/glossary/polis-diraja-malaysia': '/hi/government/pdrm',
+  '/hi/public-safety/royal-malaysia-police-pdrm': '/hi/government/pdrm',
+  '/hi/glossary/suruhanjaya-pilihan-raya': '/hi/government/spr-election-commission',
+  '/hi/technology/mcmc-malaysia': '/hi/government/mcmc-communications-multimedia-commission',
+  '/hi/government/ma63-sabah-sarawak-autonomy': '/hi/malaysia/ma63',
+  '/hi/glossary/dasar-ekonomi-baru': '/hi/malaysia/new-economic-policy',
 };
 
 export default defineConfig({
@@ -338,20 +361,17 @@ export default defineConfig({
       // held /id out of the sitemap was removed and id added to LOCALES + the locales map.
       // Arabic (`ar`) OPEN-LAUNCHED 2026-10-13 (first RTL): in LOCALES, indexed, and in this
       // sitemap (the soft-launch /ar filter below was removed and ar added to the locales map).
-      // Hindi (`hi`) is SOFT-LAUNCHED 2026-10-13: routes build, but held OUT of this locales
-      // map and FILTERED OUT below so /hi stays noindex until its Phase 3 open launch (when the
-      // /hi filter is removed and hi is added here + to LOCALES).
+      // Hindi (`hi`) OPEN-LAUNCHED 2026-10-13 (Devanagari, LTR): in LOCALES, indexed, and in this
+      // sitemap (the soft-launch /hi filter below was removed and hi added to the locales map).
       i18n: {
         defaultLocale: 'ms',
-        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar' },
+        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar', hi: 'hi' },
       },
       // Keep noindex-by-design pages OUT of the sitemap. The per-locale
       // /maintenance pages are chrome-less + `noindex` (BaseLayout), so listing
       // them in the sitemap made Google report "Excluded by 'noindex' tag" for
-      // sitemap URLs. Soft-launched /hi is likewise held out (noindex) until Phase 3.
-      // (Every other route is index,follow, so nothing else needs filtering.)
-      filter: (page) =>
-        !/\/maintenance\/?$/.test(page) && !/\/hi(?:\/|$)/.test(new URL(page).pathname),
+      // sitemap URLs. (Every other route is index,follow, so nothing else needs filtering.)
+      filter: (page) => !/\/maintenance\/?$/.test(page),
       serialize(item) {
         const lastmod = lastmodFor(item.url);
         if (lastmod) item.lastmod = lastmod;

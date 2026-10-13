@@ -30,10 +30,11 @@ faq:
     a: "यदि LKM 3 साल से अधिक समय से नवीनीकृत नहीं हुआ है, तो JPJ आवश्यकता रखता है कि नवीनीकरण आवेदन को JPJ कार्यालय में संसाधित किए जाने से पहले वाहन को Puspakom में निरीक्षण के लिए लाया जाए ताकि B2 रिपोर्ट प्राप्त की जा सके (या विशेष रूप से व्यक्तिगत स्वामित्व वाली मोटरसाइकिलों के लिए PG10 निरीक्षण)।"
 
 lang: "hi"
+sourceContentHash: "20fe200c2e49f4f8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

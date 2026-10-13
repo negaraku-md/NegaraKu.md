@@ -50,10 +50,11 @@ obligations:
     consequence: "3 महीनों के भीतर कम पड़ी ड्यूटी का RM50 या 10% का दंड, उसके बाद RM100 या 20%, s.47A के तहत"
 
 lang: "hi"
+sourceContentHash: "5ec47f8a8774a786"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

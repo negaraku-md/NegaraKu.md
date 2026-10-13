@@ -32,10 +32,11 @@ faq:
     a: "हाँ। 2021 में शुरू की गई PERKUKUH पहल ने 20 पहलें निर्धारित कीं जिनका उद्देश्य, अन्य बातों के अलावा, हर GLIC को एक स्पष्ट अधिदेश देना, निजी-क्षेत्र की भागीदारी बढ़ाना («क्राउडिंग इन») और व्यापार में सरकार की भूमिका को सुव्यवस्थित करना है, साथ ही अधिक निवेश को उत्प्रेरक और विकासात्मक क्षेत्रों की ओर निर्देशित करना है।"
 
 lang: "hi"
+sourceContentHash: "72a029d7e3ea589d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

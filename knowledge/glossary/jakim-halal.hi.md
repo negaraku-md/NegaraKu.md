@@ -34,12 +34,13 @@ faq:
     a: "हाँ। विदेशी निर्माता JAKIM प्रमाणन के लिए आवेदन कर सकते हैं, या JAKIM द्वारा मान्यता प्राप्त किसी विदेशी हलाल प्रमाणन निकाय के प्रमाणपत्र का उपयोग कर सकते हैं। मान्यता प्राप्त निकायों की सूची की समीक्षा और अद्यतन JAKIM करता है।"
 
 lang: "hi"
+sourceContentHash: "86854384949bcaf4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -32,10 +32,11 @@ faq:
     a: "हाँ। दोनों Bursa Malaysia के मुख्य बाज़ार में कारोबार करती हैं। Top Glove इसके अतिरिक्त Singapore Exchange के मेनबोर्ड पर भी सूचीबद्ध है।"
 
 lang: "hi"
+sourceContentHash: "a45b971c54bb5789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

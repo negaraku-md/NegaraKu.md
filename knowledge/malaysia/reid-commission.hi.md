@@ -18,11 +18,12 @@ keyTakeaways:
   - "शासकों और गठबंधन (Alliance) प्रतिनिधियों तथा ब्रिटिश अधिकारियों वाले एक कार्य-दल ने प्रारूप को संशोधित किया, जो 31 अगस्त 1957 को संघीय संविधान के रूप में लागू हुआ"
 appliesTo: "वे विद्यार्थी, शोधकर्ता और सामान्य पाठक जो समझना चाहते हैं कि मलेशिया का संस्थापक संविधान वास्तव में किसने लिखा, किन निर्देशों पर, और कैसे एक आयोग की रिपोर्ट एक स्वतंत्र देश का क़ानून बनी।"
 lang: "hi"
+sourceContentHash: "274cb6f4918d991f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

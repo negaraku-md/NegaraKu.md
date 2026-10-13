@@ -37,12 +37,13 @@ verificationNeeded:
   - "यहाँ उल्लिखित देवान राक्यात के स्थायी आदेश (Standing Orders) तेरहवाँ प्रकाशन (अप्रैल 2013) हैं। स्थायी आदेशों को देवान राक्यात स्वयं अनुच्छेद 62(1) के तहत समय-समय पर संशोधित करता है — उन पर निर्भर होने से पहले स्थायी आदेश की संख्याओं और प्रक्रियागत आँकड़ों को parlimen.gov.my पर वर्तमान प्रकाशन से सत्यापित करें।"
 
 lang: "hi"
+sourceContentHash: "ce348e711538fac4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

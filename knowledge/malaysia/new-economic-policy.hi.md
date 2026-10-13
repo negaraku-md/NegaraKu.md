@@ -20,11 +20,12 @@ keyTakeaways:
   - "NEP 13 मई 1969 की घटनाओं के बाद बनाई गई और 1991 में इसके बाद राष्ट्रीय विकास नीति (National Development Policy) आई"
 appliesTo: "वे पाठक जो नई आर्थिक नीति के प्रलेखित उद्देश्य, लक्ष्य और समय-सीमा उसी रूप में चाहते हैं जैसे वे आधिकारिक मलेशियाई योजना-पाठों में बताए गए हैं, न कि उसका कोई पक्षपातपूर्ण विवरण।"
 lang: "hi"
+sourceContentHash: "6f9599be22d1ac5f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

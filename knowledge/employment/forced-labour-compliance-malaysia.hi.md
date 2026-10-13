@@ -32,10 +32,11 @@ verificationNeeded:
   - "यह पुष्टि करें कि Passports Act 1966 की s.12(1)(f) में «without lawful authority» शब्दों की व्याख्या कैसे की जाती है जहाँ कोई श्रमिक नियोक्ता की सुरक्षित-अभिरक्षा के लिए सहमति देता है — इस बिंदु पर कोई न्यायिक मिसाल या AGC मार्गदर्शन नहीं मिल सका"
 
 lang: "hi"
+sourceContentHash: "b59bcb20c9aa24c2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

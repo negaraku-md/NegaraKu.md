@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "मलेशिया में वे माता-पिता और छात्र जो राष्ट्रीय विद्यालयों, राष्ट्रीय-पाठ्यक्रम वाले निजी विद्यालयों और चीनी स्वतंत्र उच्च विद्यालयों के बीच चुनाव कर रहे हैं, और हर वह व्यक्ति जो समझना चाहता है कि SMJK, निजी विद्यालय या UEC प्रमाणपत्र वास्तव में क्या दर्शाता है।"
 
 lang: "hi"
+sourceContentHash: "ea334d9ab0b14453"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

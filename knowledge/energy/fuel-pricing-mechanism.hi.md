@@ -27,10 +27,11 @@ faq:
     a: "सब्सिडी वाली RON95 कीमत BUDI95 के तहत पात्र नागरिकों के लिए RM1.99 प्रति लीटर पर स्थिर रखी जाती है, लेकिन बिना सब्सिडी वाली सामान्य बाज़ार कीमत APM के अनुरूप उतार-चढ़ाव करती है।"
 
 lang: "hi"
+sourceContentHash: "77fbc98bce7fd506"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

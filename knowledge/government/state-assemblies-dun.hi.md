@@ -24,12 +24,13 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जिसे वर्णनात्मक रूप से समझने की आवश्यकता है कि संविधान के तहत राज्य विधानसभा कैसे गठित होती है, कितने समय तक चलती है, और कोई राज्य विधेयक इसके माध्यम से कानून बनने तक कैसे पारित होता है।"
 
 lang: "hi"
+sourceContentHash: "2a25e82c7f7bc759"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -36,12 +36,13 @@ faq:
     a: "ITU वैश्विक साइबर सुरक्षा सूचकांक 2020 (GCIv4) में मलेशिया ने 98.06 अंक प्राप्त किए और दुनिया में संयुक्त रूप से पाँचवें स्थान पर रहा। 2024 संस्करण में, जो पाँच-श्रेणी मॉडल का उपयोग करता है, मलेशिया को शीर्ष 'रोल-मॉडलिंग' श्रेणी में रखा गया है।"
 
 lang: "hi"
+sourceContentHash: "7722bdc160f9e488"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

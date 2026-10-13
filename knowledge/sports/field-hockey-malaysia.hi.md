@@ -33,10 +33,11 @@ faq:
     a: "मलेशियाई हॉकी कॉन्फेडरेशन (MHC) पुरुष और महिला फील्ड तथा इनडोर हॉकी का राष्ट्रीय संचालक निकाय है। यह एशियाई हॉकी फेडरेशन (AHF) और FIH से संबद्ध है, और कुआलालंपुर के बुकित जलिल में राष्ट्रीय हॉकी स्टेडियम से संचालित होता है।"
 
 lang: "hi"
+sourceContentHash: "e3b29244d5e5d634"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

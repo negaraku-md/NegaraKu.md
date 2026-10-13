@@ -29,12 +29,13 @@ faq:
     a: "PETRONAS लाइसेंस के लिए आवेदन करने वाली कंपनियों को संबंधित SWEC कोड के अनुसार बुमिपुत्र भागीदारी आवश्यकताओं को पूरा करना होगा। PETRONAS विक्रेता विकास कार्यक्रम के लिए, न्यूनतम 51% बुमिपुत्र स्वामित्व आवश्यक है (स्रोत: Low & Partners; PETRONAS)।"
 
 lang: "hi"
+sourceContentHash: "8653f4f58e0534c5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -41,10 +41,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या आयातित वस्तुओं के लिए Service Tax Act s.26A का कोई Sales Tax Act समतुल्य मौजूद है — 2018 पुनर्मुद्रण में कोई नहीं है"
 
 lang: "hi"
+sourceContentHash: "13790ae63f7d4cb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

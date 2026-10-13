@@ -26,10 +26,11 @@ verificationNeeded:
   - "The Malay-language text of the Federal Constitution is a translation by the Attorney General's Chambers. Unless and until declared authoritative under Article 160B, the English text is the authoritative text."
 
 lang: "hi"
+sourceContentHash: "bf114efc3f1d5751"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

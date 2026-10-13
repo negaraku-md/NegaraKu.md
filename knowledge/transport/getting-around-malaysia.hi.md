@@ -32,10 +32,11 @@ verificationNeeded:
   - "RTS Link का 2026-अंत का लक्ष्य-तिथि इस लेखन के समय तक संचालकों का स्वयं घोषित लक्ष्य है और प्रकाशन के समय के करीब इसकी पुनः पुष्टि की जानी चाहिए, क्योंकि सीमा-पार बुनियादी ढाँचे के उद्घाटन आमतौर पर खिसक जाते हैं।"
 
 lang: "hi"
+sourceContentHash: "cd13a733d0e3f471"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

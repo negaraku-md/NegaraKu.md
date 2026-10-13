@@ -27,9 +27,10 @@ faq:
   - q: "2020 के संशोधन से क्या बदला?"
     a: "सड़क परिवहन (संशोधन) अधिनियम 2020 23 October 2020 को प्रभावी हुआ। इसने लापरवाह और खतरनाक ड्राइविंग तथा नशे में ड्राइविंग (sections 41-45A) के लिए दंड और अयोग्यता अवधि बढ़ाई, निर्धारित अल्कोहल सीमाओं को WHO मानकों तक घटाया, और «micromobility vehicle» (सूक्ष्म-गतिशीलता वाहन) की एक परिभाषा जोड़ी।"
 lang: "hi"
+sourceContentHash: "e438c79ab71a1dba"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

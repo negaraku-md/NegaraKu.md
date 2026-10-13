@@ -56,10 +56,11 @@ obligations:
     consequence: "The grant of leave lapses"
 
 lang: "hi"
+sourceContentHash: "03035b145c07011e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

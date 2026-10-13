@@ -34,10 +34,11 @@ faq:
     a: "राष्ट्रीय विरासत विभाग में विरासत आयुक्त राष्ट्रीय विरासत अधिनियम 2005 (National Heritage Act 2005) [Act 645] की उप-धारा 49(1) के तहत, एक वार्षिक विरासत-वस्तु घोषणा के ज़रिये खाद्य-पदार्थों को विरासत-वस्तुओं के रूप में राजपत्रित करता है।"
 
 lang: "hi"
+sourceContentHash: "bdf1c88a62d4c6ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

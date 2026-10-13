@@ -31,10 +31,11 @@ faq:
     a: "ePermit, जो राष्ट्रीय एकल खिड़की के तहत Dagang Net Technologies द्वारा संचालित एक वेब सेवा है, आपको कई परमिट जारीकर्ता एजेंसियों के पास ऑनलाइन आवेदन करने देती है। अनुमोदित परमिट आपके घोषणा-पत्र के विरुद्ध सत्यापन के लिए सीमा शुल्क को इलेक्ट्रॉनिक रूप से भेजे जाते हैं।"
 
 lang: "hi"
+sourceContentHash: "f453f5001ae25d26"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

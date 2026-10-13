@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "कोई भी जिसे National Land Code को सही जगह रखने की ज़रूरत है — यह क्या करता है, किसे बाँधता है, और सबा या सारावाक का भूमि-प्रश्न इससे क्यों नहीं सुलझाया जा सकता — इससे पहले कि वह किसी विशिष्ट प्रक्रिया या विवाद की ओर बढ़े।"
 
 lang: "hi"
+sourceContentHash: "ea87aadccc95af5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

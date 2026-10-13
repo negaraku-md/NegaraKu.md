@@ -43,10 +43,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या Act 136 में 2006 के बाद कोई संशोधन मौजूद है; AGC का अद्यतन पाठ 1 जनवरी 2006 तक का बताया गया है और संशोधित धाराओं की उसकी सूची 1974 पर रुक जाती है"
 
 lang: "hi"
+sourceContentHash: "e471e60c661a356c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

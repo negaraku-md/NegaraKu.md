@@ -28,10 +28,11 @@ verificationNeeded:
   - "जहाँ एक प्रस्तावित सुविधा RM100 मिलियन समतुल्य सीमा से अधिक हो, वहाँ लिखित अनुमोदन प्रक्रिया और उसके मूल्यांकन मानदंड पूरी तरह प्रकाशित नहीं हैं; FAQ केवल यह नोट करता है कि BNM निर्दिष्ट कारकों को ध्यान में रखेगा"
 
 lang: "hi"
+sourceContentHash: "7f6734fed0eab6e8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

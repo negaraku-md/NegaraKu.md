@@ -45,10 +45,11 @@ verificationNeeded:
   - "पेनांग के निर्यातों के RM435 बिलियन, या राष्ट्रीय का 31 प्रतिशत, का व्यापक रूप से प्रसारित आँकड़ा किसी भी आधिकारिक पृष्ठ से नहीं जोड़ा जा सका।"
 
 lang: "hi"
+sourceContentHash: "6475dc27ed25022d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

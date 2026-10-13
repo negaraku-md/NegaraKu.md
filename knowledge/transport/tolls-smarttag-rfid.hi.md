@@ -28,10 +28,11 @@ faq:
     a: "RFID में अब भी वाहन को एक चिह्नित लेन से गुज़रना पड़ता है जिसमें एक बाधा होती है जो सफल पठन के बाद उठती है। JustGO PLUS जैसी ANPR एक कैमरे के माध्यम से वाहनों की पहचान करती है जो नंबर प्लेट पढ़ता है, जिससे पंजीकृत वाहन बिना किसी भौतिक टैग के ही किसी भी लेन से गुज़र सकते हैं — पूरी तरह बिना-बाधा प्रणाली (MLFF) की ओर एक और कदम।"
 
 lang: "hi"
+sourceContentHash: "c1392d940afe3b99"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -29,10 +29,11 @@ faq:
     a: "हाँ। DuitNow QR अंतर-संचालनीय है, इसलिए किसी व्यापारी के एक ही QR कोड को अलग-अलग बैंकों और ई-वॉलेट जैसे Touch 'n Go eWallet, GrabPay और Boost द्वारा स्कैन किया जा सकता है, बशर्ते वे इसमें भाग लेते हों।"
 
 lang: "hi"
+sourceContentHash: "d327e61449ac93b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

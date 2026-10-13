@@ -29,10 +29,11 @@ faq:
     a: "NRES द्वारा 21 अप्रैल 2026 को शुरू किया गया एक ढाँचा, जिसका उद्देश्य अनुपालन मूल्य-निर्धारण उपकरणों की शुरुआत से पहले एक उच्च-सत्यनिष्ठा कार्बन बाज़ार, एक राष्ट्रीय कार्बन रजिस्ट्री और निगरानी प्रणालियाँ बनाना है।"
 
 lang: "hi"
+sourceContentHash: "da637e665e1a9fd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

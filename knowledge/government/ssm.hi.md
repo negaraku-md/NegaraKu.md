@@ -30,10 +30,11 @@ faq:
     a: "SSM घरेलू व्यापार और जीवन-यापन लागत मंत्रालय (Ministry of Domestic Trade and Cost of Living) को रिपोर्ट करता है। मलेशिया में मंत्रालयी दायित्व समय-समय पर पुनर्गठित होते हैं, इसलिए किसी औपचारिक दस्तावेज़ में इस पर निर्भर होने से पहले वर्तमान मूल मंत्रालय की पुष्टि ssm.com.my पर कर लें।"
 
 lang: "hi"
+sourceContentHash: "f9b7af93b7253c9c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

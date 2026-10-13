@@ -27,11 +27,12 @@ faq:
   - q: "क्या कोनफ्रोंतासी एक घोषित युद्ध था?"
     a: "नहीं। यह एक सशस्त्र शत्रुता थी जिसे कभी औपचारिक रूप से युद्ध घोषित नहीं किया गया। यह दोनों देशों के बीच औपचारिक युद्ध-घोषणा के बजाय, मुख्यतः सीमा-पार छापों, घुसपैठ और सीमित हमलों के माध्यम से संचालित हुई।"
 lang: "hi"
+sourceContentHash: "08c14e8e17f8ad68"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

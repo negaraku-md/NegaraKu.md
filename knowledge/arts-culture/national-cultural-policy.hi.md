@@ -30,12 +30,13 @@ faq:
     a: "JKKN के अनुसार, DKK 1971 राष्ट्रीय संस्कृति नीति (DAKEN) 2021 का आधार बनाती है, जो सात स्तंभों पर आधारित है और जिसकी कार्यान्वयन-अवधि 2021-2025 है। JKKN यह भी बताता है कि DKK 1971 को कभी भी मंत्रिमंडल स्तर पर औपचारिक रूप से अनुमोदित नहीं किया गया, भले ही इसने लगभग 50 वर्षों तक प्रशासन का मार्गदर्शन किया।"
 
 lang: "hi"
+sourceContentHash: "8ad5677b6225effa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -30,10 +30,11 @@ faq:
     a: "सामान्य कारोबारी आय के रूप में। आप वस्तुओं या सेवाओं का मूल्य लेनदेन के समय सिक्कों के बाज़ार-मूल्य का उपयोग करते हुए रिंगिट में दर्ज करते हैं, और यह आपकी कर-योग्य बिक्री का हिस्सा बनता है।"
 
 lang: "hi"
+sourceContentHash: "fd506f4661f4b91a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

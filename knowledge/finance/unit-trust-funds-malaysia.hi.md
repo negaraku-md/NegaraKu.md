@@ -34,10 +34,11 @@ faq:
     a: "प्रति यूनिट NAV किसी फंड की परिसंपत्तियों का कुल बाज़ार मूल्य घटा उसकी देनदारियाँ, जारी यूनिटों की संख्या से विभाजित होता है। यह वह क़ीमत है जिस पर आप यूनिट खरीदते और बेचते हैं, और यह फंड की होल्डिंग्स के मूल्य के साथ प्रतिदिन बदलती है। बढ़ता हुआ प्रति यूनिट NAV इसका मतलब है कि फंड के निवेशों ने मूल्य प्राप्त किया है।"
 
 lang: "hi"
+sourceContentHash: "a2f63906e556e7a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

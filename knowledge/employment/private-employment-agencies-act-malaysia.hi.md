@@ -29,10 +29,11 @@ faq:
     a: "RM200,000 तक जुर्माना या तीन वर्ष तक कारावास, या दोनों।"
 
 lang: "hi"
+sourceContentHash: "f80441a5c89e8b43"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

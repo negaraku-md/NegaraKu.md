@@ -38,12 +38,13 @@ verificationNeeded:
   - "आधिकारिक राज्य पोर्टल पर जातीय संरचना प्रतिशतों (मलय 61.5%, चीनी 22.9%, भारतीय 15.1%, अन्य 0.5%) की तिथि और आधार की पुष्टि करें — यह आँकड़ा अदिनांकित है और 2020 जनगणना की वर्गीकरण संरचना से मेल नहीं खाता, जो गैर-नागरिकों को एक अलग श्रेणी के रूप में रिपोर्ट करती है।"
 
 lang: "hi"
+sourceContentHash: "41ba175b1dc7814a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

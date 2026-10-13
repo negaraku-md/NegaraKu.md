@@ -39,10 +39,11 @@ faq:
     a: "आपूर्ति विधेयक सरकार में वित्तीय विश्वास की एक परीक्षा है। चूँकि यह एक धन विधेयक है, इसे Dewan Rakyat में उत्पन्न होना चाहिए और केवल एक मंत्री द्वारा ही पेश किया जा सकता है। यदि Dewan Rakyat सरकार के आवंटन को अस्वीकार करता है, तो उसे पारंपरिक रूप से बहुमत के विश्वास के नुक़सान के रूप में समझा जाता है — संघीय संविधान के अनुच्छेद 67 और 68 के तहत Dewan Rakyat की वित्तीय शक्तियाँ देखें।"
 
 lang: "hi"
+sourceContentHash: "40747e3f92b37352"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

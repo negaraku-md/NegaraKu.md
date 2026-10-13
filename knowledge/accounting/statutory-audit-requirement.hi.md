@@ -37,10 +37,11 @@ faq:
     a: "कोई अंकेक्षक कंपनी के पंजीकृत कार्यालय को लिखित सूचना देकर इस्तीफ़ा दे सकता है (धारा 281); पद सूचना दिए जाने के 21 दिन बाद या उसमें उल्लिखित किसी बाद की तिथि को, जो भी बाद में हो, समाप्त होता है। सदस्य किसी आम बैठक में साधारण संकल्प द्वारा किसी भी समय अंकेक्षक को हटा सकते हैं (धारा 276), पर इसके लिए विशेष सूचना आवश्यक है (धारा 277)।"
 
 lang: "hi"
+sourceContentHash: "005bacdce3786440"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

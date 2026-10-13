@@ -28,10 +28,11 @@ faq:
     a: "नहीं। Section 102 के तहत, शरीर की रक्षा का अधिकार केवल तब तक जारी रहता है जब तक खतरे की उचित आशंका बनी रहती है। खतरा समाप्त हो जाने के बाद जारी रहने वाले कार्य को रक्षा नहीं, बल्कि पलटवार माना जा सकता है।"
 
 lang: "hi"
+sourceContentHash: "7668765b92f13005"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

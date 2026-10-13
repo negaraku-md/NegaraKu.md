@@ -29,10 +29,11 @@ faq:
     a: "हाँ। दोनों राज्यों के अपने ख़ुद के पर्यटन बोर्ड हैं जो राज्य को विपणित करते हैं, Tourism Malaysia के राष्ट्रीय प्रयासों के साथ।"
 
 lang: "hi"
+sourceContentHash: "353b6077a5a0f789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

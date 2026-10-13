@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "मलेशिया में कोई भी व्यक्ति जो गर्भवती है, गर्भावस्था की योजना बना रहा है, या गर्भावस्था के दौरान किसी साथी या परिवार के सदस्य का सहारा बन रहा है, और यह समझना चाहता है कि सार्वजनिक प्रसवपूर्व प्रणाली, निजी देखभाल और जन्म पंजीकरण किस प्रकार परस्पर जुड़ते हैं।"
 
 lang: "hi"
+sourceContentHash: "8182db0933e495e5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

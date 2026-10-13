@@ -38,10 +38,11 @@ faq:
     a: "नहीं। बौद्धिक संपदा अधिकार क्षेत्रीय हैं, इसलिए मलेशियाई ट्रेडमार्क या पेटेंट केवल मलेशिया को कवर करता है। अंतरराष्ट्रीय संरक्षण के लिए आप विदेश में दाख़िल करते हैं — ट्रेडमार्क के लिए, मलेशिया का मैड्रिड प्रोटोकॉल में शामिल होना आपको एक अंतरराष्ट्रीय आवेदन के माध्यम से कई देशों को नामित करने देता है।"
 
 lang: "hi"
+sourceContentHash: "9b9e8ce352a97c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

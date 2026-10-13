@@ -39,12 +39,13 @@ verificationNeeded:
   - "पुष्टि करें कि P.U. (A) 163/2009, P.U. (A) 164/2009 और P.U. (A) 384/2006 द्वारा निर्धारित न्यायाधीश-संख्या की सीमाओं का स्थान यांग दी-पर्तुआन अगोंग के किसी बाद के आदेश ने नहीं ले लिया है।"
 
 lang: "hi"
+sourceContentHash: "4d0744d3b1bfbe91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

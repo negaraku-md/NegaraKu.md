@@ -30,12 +30,13 @@ faq:
     a: "प्रत्येक सदस्य के लिए पंजीकरण की अवधि पंजीकरण की तारीख से पाँच वर्ष है, और इसे महानिदेशक या किसी प्राधिकृत अधिकारी द्वारा बढ़ाया जा सकता है (Section 9)।"
 
 lang: "hi"
+sourceContentHash: "a347a3b7cad0cfbb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

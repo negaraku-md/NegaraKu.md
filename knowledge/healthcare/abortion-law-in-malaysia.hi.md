@@ -31,12 +31,13 @@ faq:
     a: "स्वास्थ्य मंत्रालय के 2012 के दिशानिर्देश गर्भावस्था की समाप्ति को 22 सप्ताह से कम की गर्भ-आयु पर, या, जहाँ आयु अज्ञात हो, जहाँ भ्रूण का अनुमानित वज़न 500 ग्राम से कम हो, की जाने वाली प्रक्रिया के रूप में परिभाषित करते हैं।"
 
 lang: "hi"
+sourceContentHash: "58e08ea86f967964"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

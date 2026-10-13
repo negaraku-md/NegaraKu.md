@@ -60,10 +60,11 @@ obligations:
     statute: "Service Tax Act 2018, First Schedule"
 
 lang: "hi"
+sourceContentHash: "7320d2549d294308"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"

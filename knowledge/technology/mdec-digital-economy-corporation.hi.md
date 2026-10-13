@@ -27,9 +27,10 @@ faq:
   - q: "क्या MDEC और MSC Malaysia एक ही हैं?"
     a: "नहीं। MDEC एजेंसी है; MSC Malaysia उसका पुराना कार्यक्रम था। MSC Malaysia का नाम बदलकर Malaysia Digital किया गया है, और MD Status पूर्ववर्ती MSC Malaysia Status का उत्तराधिकारी है।"
 lang: "hi"
+sourceContentHash: "4aca195eadff6ca3"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

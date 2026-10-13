@@ -33,10 +33,11 @@ faq:
     a: "मुकिम ज़िले के नीचे का एक उप-विभाग है, जो मुख्यतः भूमि प्रशासन के उद्देश्यों के लिए होता है। पेंघुलु (penghulu) एक अधिकारी है जो ज़िले के भूमि प्रशासन के तहत मुकिम स्तर पर अधिकार क्षेत्र का प्रयोग करता है।"
 
 lang: "hi"
+sourceContentHash: "a75e04e291488dd9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

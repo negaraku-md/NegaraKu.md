@@ -20,9 +20,10 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो जोगेट और ज़ापिन के बीच दो अलग मलय लोकनृत्यों के रूप में उद्गम, संगीत और गति के अंतर को समझना चाहता है।"
 
 lang: "hi"
+sourceContentHash: "f85648fc29f5d316"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

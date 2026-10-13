@@ -32,10 +32,11 @@ faq:
     a: "नहीं। Wisma Putra के अपने कांसुलर प्रभाग के अनुसार, प्रमाणन केवल अधिकृत अधिकारी की मुहर और हस्ताक्षर की प्रामाणिकता की पुष्टि करता है — दस्तावेज़ की विषय-वस्तु की सत्यता की नहीं।"
 
 lang: "hi"
+sourceContentHash: "1c942b9ac8cdb96c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

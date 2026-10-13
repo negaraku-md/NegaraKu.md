@@ -30,10 +30,11 @@ faq:
     a: "TNB राष्ट्रीय ग्रिड नेटवर्क का स्वामित्व एवं संचालन करती है, जिसे नवीकरणीय ऊर्जा को आत्मसात करने के लिए उन्नत किया जाना चाहिए, जो राष्ट्रीय ऊर्जा संक्रमण रोडमैप (NETR) के लक्ष्यों के अनुरूप है।"
 
 lang: "hi"
+sourceContentHash: "12e743d05ab159ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

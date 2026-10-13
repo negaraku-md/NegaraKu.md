@@ -16,9 +16,10 @@ keyTakeaways:
   - "कंपनी ने अपना वर्तमान नाम 1992 में ही अपनाया, जो Selangor के सुल्तान से 1979 में मिले एक शाही अधिकार-पत्र (royal warrant) के बाद हुआ।"
 appliesTo: "वह हर व्यक्ति जो मलेशियाई शिल्प परंपराओं, टिन-खनन के इतिहास, या Royal Selangor के बारे में जिज्ञासु है"
 lang: "hi"
+sourceContentHash: "ab235dfd3f4f5c67"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

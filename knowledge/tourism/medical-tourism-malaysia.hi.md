@@ -34,12 +34,13 @@ faq:
     a: "हृदय चिकित्सा, कैंसर विज्ञान, प्रजनन/IVF, अस्थि-रोग और व्यापक स्वास्थ्य जाँच विदेशी रोगियों के लिए सबसे अधिक चाहे जाने वाले विशेषज्ञता-क्षेत्रों में हैं — इनमें से पहले चार MHTC के निर्दिष्ट उत्कृष्टता केंद्र हैं।"
 
 lang: "hi"
+sourceContentHash: "038cf5af7095fe8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

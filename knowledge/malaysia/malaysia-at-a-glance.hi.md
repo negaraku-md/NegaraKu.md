@@ -21,9 +21,10 @@ keyTakeaways:
 appliesTo: "वह हर कोई जिसे मलेशिया के बुनियादी तथ्य चाहिए — जनसंख्या, क्षेत्रफल, राजधानी, मुद्रा, भाषा, GDP — जिसमें हर आँकड़ा किसी बिना-स्रोत वाले सारांश के बजाय उस विशिष्ट आधिकारिक रिलीज़ से जोड़ा गया हो जो उसे प्रकाशित करती है।"
 
 lang: "hi"
+sourceContentHash: "dc264630ca2e722e"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

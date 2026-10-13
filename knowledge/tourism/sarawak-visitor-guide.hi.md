@@ -36,12 +36,13 @@ faq:
     a: "दोनों मौजूद हैं। कुचिंग के पास Annah Rais जैसे स्थान जीवित Bidayuh लॉन्गहाउस समुदाय हैं जहाँ परिवार अब भी रहते हैं, जबकि Santubong के पास सारावाक सांस्कृतिक गाँव एक उद्देश्य-निर्मित जीवित संग्रहालय है। एक कार्यरत लॉन्गहाउस की यात्रा पहले से व्यवस्थित करना सबसे अच्छा है और अक्सर एक गाइड के माध्यम से जो यात्रा की सम्मानपूर्वक व्याख्या कर सके।"
 
 lang: "hi"
+sourceContentHash: "484f5ee1df5a2a08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -20,12 +20,13 @@ keyTakeaways:
 appliesTo: "विद्यार्थी, शोधकर्ता, पत्रकार और वे सभी जो Yang di-Pertuan Agong की संवैधानिक स्थिति और Conference of Rulers द्वारा निर्वाचन की प्रणाली की वर्णनात्मक समझ चाहते हैं।"
 
 lang: "hi"
+sourceContentHash: "b3f6c2ddc1104e50"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

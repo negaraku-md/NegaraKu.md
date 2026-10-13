@@ -28,9 +28,10 @@ faq:
   - q: "अभी कौन-सी सेवा कर दर लागू है?"
     a: "1 मार्च 2024 से 8%, जो पहले 6% थी, सिवाय खाद्य एवं पेय, पार्किंग, लॉजिस्टिक्स और दूरसंचार सेवाओं के, जो 6% पर ही रहती हैं।"
 lang: "hi"
+sourceContentHash: "e4e06f1218191c40"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

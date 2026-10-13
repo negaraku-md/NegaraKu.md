@@ -33,10 +33,11 @@ faq:
     a: "चूँकि कारोबार कोई पृथक विधिक इकाई नहीं है, इसका लाभ आपकी व्यक्तिगत आय है। आप इसे Form B पर घोषित करते हैं और व्यक्तिगत (प्रगतिशील) दरों से कर चुकाते हैं, MyTax e-Filing पोर्टल के माध्यम से दाख़िल करते हुए। वैधानिक नियत तिथि 30 जून है; चूँकि कारोबारी आय वाले व्यक्तियों के लिए Form B को निर्धारण वर्ष 2024 से इलेक्ट्रॉनिक रूप से दाख़िल करना अनिवार्य है, इसलिए प्रभावी समय-सीमा 15 जुलाई की e-Filing रियायती तिथि है।"
 
 lang: "hi"
+sourceContentHash: "1a9f38c341cebf45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

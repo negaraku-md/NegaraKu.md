@@ -25,10 +25,11 @@ verificationNeeded:
   - "MM2H's specific income, deposit and duration figures per tier should be confirmed directly on the official MM2H portal (mm2h.gov.my) at the time of application, since the portal blocks automated fetching and its tiers have been restructured more than once in recent years."
 
 lang: "hi"
+sourceContentHash: "dd39883661ce9f6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

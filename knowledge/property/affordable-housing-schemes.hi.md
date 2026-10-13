@@ -31,10 +31,11 @@ faq:
     a: "रोक वह अवधि है जिसके दौरान आपको बिना स्वीकृति के घर दोबारा बेचने से मना किया जाता है। Residensi Wilayah 10-वर्षीय रोक और Rumah Selangorku 5-वर्षीय रोक लगाती है, ताकि सट्टेबाज़ी रुके और घर लक्षित समूह के लिए उपलब्ध बने रहें।"
 
 lang: "hi"
+sourceContentHash: "c2d113c9f6018d12"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

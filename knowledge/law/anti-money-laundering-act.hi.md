@@ -29,12 +29,13 @@ faq:
     a: "भाग VI के तहत, एक प्रवर्तन एजेंसी फ्रीज़िंग आदेश जारी कर सकती है, एक अन्वेषण अधिकारी जाँच के दौरान चल संपत्ति जब्त कर सकता है, और लोक अभियोजक के पास आगे की जब्ती एवं जब्ती-अधिग्रहण (forfeiture) की शक्तियाँ होती हैं।"
 
 lang: "hi"
+sourceContentHash: "03583a7602b0f6ef"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

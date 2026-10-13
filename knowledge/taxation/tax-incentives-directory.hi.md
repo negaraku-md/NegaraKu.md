@@ -29,10 +29,11 @@ verificationNeeded:
   - "BioNexus निवेश कटौती और Malaysia Digital स्थिति प्रोत्साहनों की वर्तमान स्थिति की पुष्टि करें, जिन दोनों का सत्यापन MIDA से भिन्न किसी एजेंसी द्वारा होता है और जिन्हें किसी एक राजपत्रित साधन तक पूर्णतः अनुरेखित नहीं किया जा सकता"
 
 lang: "hi"
+sourceContentHash: "d22536bf1bfa9c08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

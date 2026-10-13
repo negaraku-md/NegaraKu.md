@@ -34,10 +34,11 @@ verificationNeeded:
   - "AirBorneo की वर्तमान ग्रामीण हवाई सेवा मार्ग-संख्या और हवाई अड्डा सूची सीधे AirBorneo या CAAM से पुष्टि करें, क्योंकि लेखन के समय MAVCOM के सार्वजनिक RAS पृष्ठ पर मार्ग-स्तरीय विवरण नहीं था और कार्यक्रम ने हाल ही में संचालक बदला है।"
 
 lang: "hi"
+sourceContentHash: "a8248270057070e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

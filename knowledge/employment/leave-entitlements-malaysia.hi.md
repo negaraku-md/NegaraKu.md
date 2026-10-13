@@ -42,10 +42,11 @@ verificationNeeded:
   - "सबा और सारावाक के Labour Ordinances की 2025 में संशोधित समतुल्य वार्षिक, बीमारी और अस्पताल-भर्ती छुट्टी श्रेणियों की पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "4780eb76db51665d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -45,10 +45,11 @@ verificationNeeded:
   - "ECERDC का अपना प्रोत्साहन पृष्ठ ecerdc.com.my पर 404 लौटाता है, इसलिए ECERDC के अपने प्रोत्साहन रास्ते का वर्तमान कथन प्राप्त नहीं किया जा सका।"
 
 lang: "hi"
+sourceContentHash: "b4e723b19c6d6a1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

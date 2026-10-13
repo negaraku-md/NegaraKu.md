@@ -33,10 +33,11 @@ verificationNeeded:
   - "प्रकाशन से पहले कुआलालंपुर और ग्रेटर कुआलालंपुर (Greater Kuala Lumpur) के जनसंख्या आँकड़ों तथा प्रति-व्यक्ति GDP रैंकिंग की पुष्टि नवीनतम DOSM विज्ञप्तियों के विरुद्ध करें।"
 
 lang: "hi"
+sourceContentHash: "92f9b90511421d9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

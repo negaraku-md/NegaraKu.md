@@ -45,10 +45,11 @@ verificationNeeded:
   - "क्या ICA 10 पुष्टि-पत्र बैंक सुविधा आवेदनों का समर्थन करता है — MIDA ऐसा नहीं कहती"
 
 lang: "hi"
+sourceContentHash: "37caa4da5ba10819"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

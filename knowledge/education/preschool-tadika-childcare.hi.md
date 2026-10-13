@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "मलेशिया में अभिभावक या संरक्षक जो वर्ष 1 से पहले बच्चों के लिए शिशु-देखभाल और प्रारंभिक शिक्षा विकल्पों को समझने का प्रयास कर रहे हैं, साथ ही हर वह व्यक्ति जो taska या tadika स्थापित करना चाहता है और संबंधित प्राधिकरणों को जानना चाहता है।"
 
 lang: "hi"
+sourceContentHash: "5be629c8e1fa0846"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

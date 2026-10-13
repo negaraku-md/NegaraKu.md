@@ -34,10 +34,11 @@ faq:
     a: "धारा 619(3) के संक्रमणकालीन प्रावधान के तहत, अधिनियम के प्रारंभ पर प्रवृत्त किसी मौजूदा कंपनी का M&A ऐसे प्रवृत्त बना रहता है जैसे इस अधिनियम के तहत बनाया गया हो, जब तक कि कंपनी अन्यथा संकल्प न करे। वह M&A अब कंपनी का संविधान बन जाता है।"
 
 lang: "hi"
+sourceContentHash: "99c3208a68daac93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

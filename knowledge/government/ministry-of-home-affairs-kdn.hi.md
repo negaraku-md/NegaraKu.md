@@ -27,9 +27,10 @@ faq:
   - q: "गृह मंत्री कौन हैं?"
     a: "2026 तक गृह मंत्री Datuk Seri Panglima Saifuddin Nasution bin Ismail हैं, जो 3 दिसंबर 2022 से पद पर हैं। मंत्रिमंडल के विभाग फेरबदल के साथ बदलते हैं, इसलिए वर्तमान पदधारी की पुष्टि moha.gov.my पर करें।"
 lang: "hi"
+sourceContentHash: "84024caa253d8b49"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

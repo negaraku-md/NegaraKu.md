@@ -38,10 +38,11 @@ verificationNeeded:
   - "The exact current size (headcount) of the Malaysian public service — a precise, currently-dated figure could not be confirmed on an official page at time of writing."
 
 lang: "hi"
+sourceContentHash: "89bfb5455655a271"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

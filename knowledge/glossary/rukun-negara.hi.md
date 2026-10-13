@@ -34,12 +34,13 @@ faq:
     a: "आकांक्षाएँ (एकता और न्यायपूर्ण समाज जैसे पाँच राष्ट्रीय लक्ष्य) प्राप्त किए जाने वाले ध्येय हैं, जबकि पाँच सिद्धांत वे आधार और मार्गदर्शक हैं जिनके अनुसार जीवन जीकर उन आकांक्षाओं तक पहुँचा जाता है। साथ मिलकर वे Rukun Negara की पूरी शपथ बनाते हैं।"
 
 lang: "hi"
+sourceContentHash: "d94eca92454b00e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

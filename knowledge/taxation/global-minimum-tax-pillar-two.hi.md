@@ -59,10 +59,11 @@ obligations:
     consequence: "जहाँ उचित उपाय नहीं किए गए, वहाँ संक्रमणकालीन दंड राहत का नुक़सान"
 
 lang: "hi"
+sourceContentHash: "f4ebb2767afaf5b6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"

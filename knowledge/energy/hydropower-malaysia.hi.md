@@ -32,10 +32,11 @@ faq:
     a: "नहीं। Baram बाँध, जिससे 412 वर्ग किमी के जलमग्न होने और ~20,000 लोगों के विस्थापित होने की उम्मीद थी, 2015 में एक स्थगन के ज़रिए रोक दिया गया और लगातार आदिवासी विरोध के बाद 2016 में आधिकारिक रूप से रद्द कर दिया गया।"
 
 lang: "hi"
+sourceContentHash: "3900760aacdbc30f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

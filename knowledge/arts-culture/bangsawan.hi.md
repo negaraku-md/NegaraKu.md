@@ -34,10 +34,11 @@ faq:
     a: "यह 20वीं शताब्दी के मध्य में रेडियो, फ़िल्म और टेलीविज़न की प्रतिस्पर्धा के कारण गिर गया। 1930 के दशक के अंत तक कई बंगसावान हॉल सिनेमाघरों में बदल दिए गए, और युद्ध के बाद इस उद्योग ने अपना वित्तपोषण स्रोत खो दिया।"
 
 lang: "hi"
+sourceContentHash: "9acb0bf06bc5782c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

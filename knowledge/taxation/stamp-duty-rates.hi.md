@@ -29,10 +29,11 @@ verificationNeeded:
   - "मद 12 (समनुदेशन/assignment) Act 862 द्वारा प्रतिस्थापित की गई और इसकी संशोधित जीवन-बीमा स्लैबें यहाँ पुनरुत्पादित नहीं की गई हैं"
 
 lang: "hi"
+sourceContentHash: "bade86680d1436e5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

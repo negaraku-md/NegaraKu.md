@@ -34,12 +34,13 @@ faq:
     a: "MKI मलेशिया के राष्ट्रीय इस्लामी धार्मिक मामलों की परिषद है — वह राष्ट्रीय-स्तरीय परिषद जो इस्लामी मामलों के समन्वय एवं विचार-विमर्श के मंच के रूप में कार्य करती है। JAKIM इसके सचिवालय के रूप में कार्य करता है, अर्थात यह उन समिति-बैठकों और विशेषज्ञ पैनलों का प्रबंधन करता है जो राष्ट्रीय स्तर पर निर्णयों तक पहुँचने के लिए स्यारिया (syariah), अकीदा (aqidah) और संबंधित विषयों पर चर्चा करते हैं।"
 
 lang: "hi"
+sourceContentHash: "f6f58358eee27f91"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

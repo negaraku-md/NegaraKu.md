@@ -33,10 +33,11 @@ faq:
     a: "बाल देखभाल केंद्र अधिनियम 1984 के तहत ऐसा बाल-देखभाल केंद्र चलाना जो JKM के साथ पंजीकृत न हो, एक आपराधिक अपराध है। दोष-सिद्धि पर सज़ा RM10,000 तक का जुर्माना या दो वर्ष तक की जेल, या दोनों है, और दोबारा अपराध पर भारी सज़ा होती है। JKM केंद्र को बंद करने का आदेश भी दे सकता है। किसी भी बच्चे को लेने से पहले पंजीकरण कराएँ।"
 
 lang: "hi"
+sourceContentHash: "1ebf1ee2a2053f70"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

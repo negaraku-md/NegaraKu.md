@@ -35,9 +35,10 @@ faq:
     a: "ये एक साझा विषय वाले अलग-अलग पर्व हैं। गावाई दायक सारावाक का दायक फसल पर्व है, जो 1 और 2 जून को होता है। कामातान (Kaamatan) सबाह का कादाज़ानदुसुन फसल पर्व है, जो 30 और 31 मई को होता है। दोनों धान की फसल के लिए आभार व्यक्त करते हैं, पर समुदाय, रस्में और तिथियाँ भिन्न हैं।"
 
 lang: "hi"
+sourceContentHash: "5a38a61ecb8e6e5a"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

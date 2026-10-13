@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "कोई भी व्यक्ति जो राज्यों के आर-पार यात्रा, व्यवसाय या दैनिक कार्यों की योजना बना रहा है, और यह समझना चाहता है कि सार्वजनिक अवकाश सूची पूरे मलेशिया में एकसमान क्यों नहीं है।"
 
 lang: "hi"
+sourceContentHash: "3aa4c891e7b6b223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

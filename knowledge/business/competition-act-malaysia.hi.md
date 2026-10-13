@@ -27,10 +27,11 @@ faq:
     a: "Malaysia Competition Commission (MyCC), एक स्वतंत्र वैधानिक निकाय, संदिग्ध उल्लंघनों की जाँच करता है और वित्तीय दंड व निर्देश लागू कर सकता है।"
 
 lang: "hi"
+sourceContentHash: "6a2eea7b75db3f8c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -41,10 +41,11 @@ verificationNeeded:
   - "पूरे वर्ष 2024 और 2025 के लिए पेराक का अनुमोदित निवेश और उसका स्थान — MIDA केवल शीर्ष पांच राज्यों का नाम लेता है"
 
 lang: "hi"
+sourceContentHash: "b417e9b08cc2755f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

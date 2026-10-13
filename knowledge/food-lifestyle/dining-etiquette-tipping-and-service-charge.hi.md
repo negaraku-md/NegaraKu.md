@@ -29,10 +29,11 @@ faq:
     a: "केवल वे खाद्य-एवं-पेय व्यवसाय जिनका कर-योग्य कारोबार 12 महीने की अवधि में RM1,500,000 से अधिक है, उन्हें सेवा कर के लिए पंजीकरण कराना होगा, और सेवा शुल्क ज़्यादातर होटलों और पूर्ण-सेवा रेस्तराँओं द्वारा उपयोग किए जाते हैं। हॉकर और छोटे भोजनालय आमतौर पर केवल सूचीबद्ध मूल्य ही वसूलते हैं।"
 
 lang: "hi"
+sourceContentHash: "0474567c9b571270"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

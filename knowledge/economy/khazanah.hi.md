@@ -26,10 +26,11 @@ verificationNeeded:
   - "EPF की कुल निवेश परिसंपत्तियाँ और कुल सदस्यता आँकड़े kwsp.gov.my के सीधे फ़ेच के माध्यम से स्वतंत्र रूप से पुष्ट नहीं हो सके (साइट स्वचालित फ़ेचिंग को HTTP 403 लौटाती है); यह लेख किसी अपुष्ट आँकड़े को प्रकाशित करने के बजाय किसी भी सटीक EPF AUM या सदस्य-संख्या आँकड़े को जानबूझकर छोड़ देता है — पहली मानव समीक्षा पर दोनों को, एक kwsp.gov.my स्रोत के साथ, जोड़ें"
 
 lang: "hi"
+sourceContentHash: "bde519fccc17693d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

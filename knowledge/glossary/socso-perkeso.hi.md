@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "नियोक्ता, मानव संसाधन और वेतन टीमें, और मलेशिया के निजी-क्षेत्र के कर्मचारी जो वैधानिक वेतन कटौतियों को समझना चाहते हैं।"
 
 lang: "hi"
+sourceContentHash: "9085a7b0c1f610fb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

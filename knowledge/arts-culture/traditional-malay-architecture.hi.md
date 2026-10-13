@@ -27,10 +27,11 @@ faq:
     a: "एक मलय घर आमतौर पर एक ही परिवार को रखता है, जबकि एक लंबा घर (rumah panjang) एक ही लंबी संरचना के भीतर कई परिवारों को रखता है — प्रत्येक परिवार का अपना कमरा (bilek) होता है, जो ruai नामक एक साझा दीर्घा के साथ साझा किया जाता है।"
 
 lang: "hi"
+sourceContentHash: "6e6d63e898f4ad35"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

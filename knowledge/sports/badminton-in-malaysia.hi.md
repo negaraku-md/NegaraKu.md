@@ -37,10 +37,11 @@ faq:
     a: "ज़ी जिया ने 13 वर्ष की आयु से निकाय के साथ लगभग एक दशक रहने के बाद January 2022 में एक स्वतंत्र खिलाड़ी बनने के लिए BAM से इस्तीफा दे दिया। वह अपने प्रशिक्षण और अपनी रैंकिंग सुधारने पर ध्यान केंद्रित करना चाहते थे, और इस बात पर ज़ोर दिया कि चाहे राष्ट्रीय खिलाड़ी हो या स्वतंत्र खिलाड़ी, वे अब भी जलूर गेमिलांग (Jalur Gemilang) फहराते हैं।"
 
 lang: "hi"
+sourceContentHash: "a0c4b7207a1ac775"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

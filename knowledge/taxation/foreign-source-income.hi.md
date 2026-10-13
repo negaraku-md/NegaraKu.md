@@ -42,10 +42,11 @@ verificationNeeded:
   - "कंपनी/LLP की विदेशी-लाभांश छूट (Income Tax (Exemption) (No. 6) Order 2022, P.U.(A) 235/2022) को 31 दिसंबर 2030 तक बढ़ाने वाले संशोधन की सटीक P.U.(A) संख्या — पूँजीगत-परिसंपत्ति (P.U.(A) 275/2026) और यूनिट-ट्रस्ट (P.U.(A) 270/2026) सहोदर राजपत्रित होने की पुष्टि है, और फ़र्में बताती हैं कि लाभांश आदेश उसी जुलाई-2026 के अंतिम बैच में बढ़ाया गया, पर उसकी अपनी P.U.(A) संख्या को किसी प्राथमिक राजपत्र पाठ से तय नहीं किया जा सका। 2030 की लाभांश समाप्ति पर भरोसा करने से पहले पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "e5a0172051099281"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

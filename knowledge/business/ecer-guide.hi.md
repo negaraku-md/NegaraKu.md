@@ -42,10 +42,11 @@ verificationNeeded:
   - "कुआंतान न्यू डीप वॉटर टर्मिनल चरण 2 के लिए कोई 2025 या 2026 आधिकारिक लक्ष्य। अप्रैल 2025 तक चरण 2 योजना में ही था; मिला एकमात्र दृढ़ दिनांकित मील-पत्थर संविदात्मक है (2075 तक रियायत विस्तार सुरक्षित करने के लिए दिसंबर 2039 तक पूर्णता), कोई निकट-अवधि प्रारंभ या पूर्णता लक्ष्य नहीं।"
 
 lang: "hi"
+sourceContentHash: "a51699526b272fe8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

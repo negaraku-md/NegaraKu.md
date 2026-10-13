@@ -30,10 +30,11 @@ faq:
     a: "एयरलाइन निपटान के बाद, Capital A एक विमानन-सेवा और डिजिटल समूह है जो पाँच व्यवसायों के इर्द-गिर्द निर्मित है: Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next और Santan।"
 
 lang: "hi"
+sourceContentHash: "649108ce940fc47e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

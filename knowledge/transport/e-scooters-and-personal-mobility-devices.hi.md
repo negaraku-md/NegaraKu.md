@@ -27,10 +27,11 @@ faq:
     a: "विद्युत साइकिल को छूट केवल तभी है जब वह पैडल-सहायता वाले प्रकार की हो जो मलेशियाई मानक MS2514 के अनुरूप हो, जिसमें थ्रॉटल न हो, और जिसके पैडल स्थायी रूप से जुड़े रहें। थ्रॉटल-युक्त एक अस्वीकृत विद्युत साइकिल को PMD या मोपेड के रूप में वर्गीकृत किया जाता है और वह प्रतिबंधित है।"
 
 lang: "hi"
+sourceContentHash: "c96ca2ea918ba45a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

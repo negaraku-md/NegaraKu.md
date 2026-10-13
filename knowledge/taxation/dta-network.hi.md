@@ -28,10 +28,11 @@ verificationNeeded:
   - "दरें LHDN द्वारा प्रकाशित सामान्य संधि-अधिकतम हैं, अनुच्छेद-दर-अनुच्छेद दरें नहीं। कई संधियाँ किसी सरकार, केंद्रीय बैंक या अनुमोदित संस्थान को भुगतान के लिए ब्याज को शून्य कर देती हैं; तालिका दर लागू करने से पहले संबंधित अनुच्छेद जाँचें"
 
 lang: "hi"
+sourceContentHash: "2eae865a4f192515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

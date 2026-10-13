@@ -30,10 +30,11 @@ faq:
     a: "APM नागरिक सुरक्षा अधिनियम 1951 (Act 221) के तहत काम करता है, जो शांतिकाल और युद्धकाल में जीवन और संपत्ति की रक्षा के लिए उसके कर्तव्यों का प्रावधान करता है।"
 
 lang: "hi"
+sourceContentHash: "1cc8bccf4a7c831a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

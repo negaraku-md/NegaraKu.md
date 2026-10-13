@@ -29,10 +29,11 @@ faq:
     a: "न्यूनतम राशि प्रति लेनदेन RM1,000 है। आपकी पात्र राशि एक बार में तीन महीने के लिए वैध रहती है, इसलिए व्यवहार में उस अवधि के समाप्त होने के बाद आप एक नया स्थानांतरण कर सकते हैं।"
 
 lang: "hi"
+sourceContentHash: "d3f550dd37241cac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

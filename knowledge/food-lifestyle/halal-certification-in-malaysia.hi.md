@@ -36,12 +36,13 @@ faq:
     a: "हाँ। हलाल प्रमाणन उत्पाद, सामग्री और प्रक्रियाओं के MS 1500 तथा MPPHM की आवश्यकताओं के अनुपालन पर केंद्रित है, स्वामी के धर्म पर नहीं। ग़ैर-मुसलमानों के स्वामित्व वाली कंपनियाँ मलेशिया हलाल पुष्टिकरण प्रमाणपत्र के लिए आवेदन कर सकती हैं और प्राप्त कर सकती हैं, और कई करती भी हैं।"
 
 lang: "hi"
+sourceContentHash: "f2b9c9a9d90925a7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

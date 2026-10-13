@@ -30,12 +30,13 @@ faq:
     a: "दिवालियापन दिवाला अधिनियम 1967 (Insolvency Act 1967) के अंतर्गत एक न्यायालयी कार्यवाही है। दूसरी ओर, AKPK का DMP बैंक नेगारा मलेशिया की एक एजेंसी के अंतर्गत एक कार्यक्रम है जिसमें ऋणों की पुनर्संरचना के लिए वैकल्पिक रूप से (न्यायालयी आदेश से नहीं) शामिल हुआ जाता है; BNM के अनुसार, AKPK की सेवाएँ निःशुल्क प्रदान की जाती हैं। DMP उन व्यक्तियों के लिए उपलब्ध नहीं है जिन्हें पहले से ही दिवालिया घोषित किया जा चुका है।"
 
 lang: "hi"
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

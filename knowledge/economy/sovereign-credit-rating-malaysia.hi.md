@@ -32,10 +32,11 @@ faq:
     a: "ऊँची रेटिंग सरकार द्वारा अपने बॉन्डों पर चुकाए जाने वाले ब्याज को घटाती है, जिससे बजट में गुंजाइश बनती है और उधारी की व्यापक लागत स्थिर होती है। रेटिंग रिंगिट परिसंपत्तियों के लिए विदेशी निवेशकों की माँग को भी आकार देती है, जो अप्रत्यक्ष रूप से मुद्रा को प्रभावित करती है।"
 
 lang: "hi"
+sourceContentHash: "2be52c4fe36e74d8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

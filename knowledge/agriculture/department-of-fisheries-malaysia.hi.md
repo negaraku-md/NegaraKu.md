@@ -27,9 +27,10 @@ faq:
   - q: "DOF किस कानून का प्रशासन करता है?"
     a: "इसका प्रमुख कानून मत्स्य अधिनियम 1985 (Act 317) है, जो मलेशियाई जल में मछली पकड़ने और मत्स्य पालन के संरक्षण, प्रबंधन और विकास को कवर करता है, जिसमें लाइसेंसिंग, जलकृषि, जलीय स्तनधारी और कछुए शामिल हैं।"
 lang: "hi"
+sourceContentHash: "28c9963369f18b79"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

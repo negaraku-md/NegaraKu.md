@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो मलेशियाई जनसंख्या, श्रम या संपत्ति के आँकड़ों को सही ढंग से पढ़ना चाहता है — शोधकर्ता, नियोजक, और यह आकलन करने वाले व्यवसाय कि जनसंख्या और कार्यबल वास्तव में कहाँ हैं।"
 
 lang: "hi"
+sourceContentHash: "0362cd9a8f8b4f6a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -34,10 +34,11 @@ faq:
     a: "नहीं। जहाँ Monash, Nottingham, Xiamen और Heriot-Watt क्लांग घाटी (Klang Valley) और पुत्राजया (Putrajaya) के आसपास एकत्र हैं, वहीं EduCity Iskandar सिंगापुर के पास जोहोर (Johor) में कई परिसरों को केंद्रित करता है, और Curtin तथा Swinburne सारावाक (Sarawak) में संचालित होते हैं।"
 
 lang: "hi"
+sourceContentHash: "eb5708a4ddb8ff8d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

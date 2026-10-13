@@ -24,10 +24,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या SSM ने पहली और दूसरी s.60C सूचना के बीच अपेक्षित अंतराल पर कोई प्रवर्तन मार्गदर्शन जारी किया है"
 
 lang: "hi"
+sourceContentHash: "d0074a8a9e509a8c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

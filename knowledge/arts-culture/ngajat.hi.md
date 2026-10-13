@@ -30,10 +30,11 @@ faq:
     a: "JKKN द्वारा दर्ज किए गए प्रकारों में Ngajat Lesong (जिसे पुरुष एक लकड़ी के ओखली को दाँतों से पकड़कर करते हैं), Ngajat Indu (जिसे महिलाएँ pua kumbu बुनने की नकल करती गतियों के साथ करती हैं), Ngajat Pua Kumbu (pua kumbu कपड़े का उपयोग करते हुए) और Ngajat Ngiling Tikai शामिल हैं, जो Gawai Dayak उत्सव के समापन का प्रतीक है।"
 
 lang: "hi"
+sourceContentHash: "bc3c9b377ae4eddf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -30,12 +30,13 @@ faq:
     a: "लाइसेंस-प्राप्त गतिविधियाँ चार श्रेणियों में बाँटी गई हैं। 2024 के एक निर्देश के माध्यम से, मलेशिया में कम-से-कम अस्सी लाख (आठ मिलियन) उपयोगकर्ताओं वाले सोशल मीडिया और इंटरनेट मैसेजिंग प्रदाताओं से अपेक्षा की जाती है कि वे MCMC से एक वर्ग (class) लाइसेंस के लिए आवेदन करें, जो 1 जनवरी 2025 से प्रभावी है।"
 
 lang: "hi"
+sourceContentHash: "6cd84d5baa9c3ad8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

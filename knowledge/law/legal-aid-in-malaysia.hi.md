@@ -29,10 +29,11 @@ faq:
     a: "JBG दीवानी, पारिवारिक, शरिया तथा कुछ आपराधिक मामलों को संभालता है, जबकि YBGK आपराधिक मामलों के लिए मुफ्त कानूनी सहायता पर केंद्रित है, जिसमें गिरफ्तारी और रिमांड के चरण शामिल हैं।"
 
 lang: "hi"
+sourceContentHash: "91d7cfe993126653"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

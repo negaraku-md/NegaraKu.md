@@ -33,10 +33,11 @@ faq:
     a: "यह बाज़ार कीमतों के साथ बदलती है। RON95 और डीज़ल सब्सिडी का बोझ जनवरी 2026 में लगभग RM0.7 बिलियन था और अप्रैल 2026 में RM7.5 बिलियन के शिखर पर पहुँचा, इससे पहले कि जून 2026 में इसे प्रति माह लगभग RM3.5 बिलियन अनुमानित किया गया।"
 
 lang: "hi"
+sourceContentHash: "4d77f16bdf432b0a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

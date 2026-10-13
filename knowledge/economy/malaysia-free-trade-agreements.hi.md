@@ -32,10 +32,11 @@ faq:
     a: "हाँ। मलेशिया और EU ने जनवरी 2025 में FTA वार्ता फिर से शुरू की, और मलेशिया ने 11 अप्रैल 2025 को EFTA राज्यों (आइसलैंड, लिकटेंस्टाइन, नॉर्वे, स्विट्ज़रलैंड) के साथ एक आर्थिक साझेदारी समझौता संपन्न किया।"
 
 lang: "hi"
+sourceContentHash: "7239744fcdcf2f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

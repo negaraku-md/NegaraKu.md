@@ -28,10 +28,11 @@ faq:
     a: "नहीं। सेपांग ने 2017 तक फॉर्मूला 1 ग्रैंड प्रिक्स की मेज़बानी की; सर्किट अब MotoGP और अन्य मोटरस्पोर्ट आयोजनों पर केंद्रित है।"
 
 lang: "hi"
+sourceContentHash: "e8c2bc7d28bb0f71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

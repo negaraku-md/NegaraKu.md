@@ -41,10 +41,11 @@ verificationNeeded:
   - "पुष्टि करें कि जून 2021 में संशोधित AAPG 1 और AAPG 2 अब भी वर्तमान MIA दृष्टांत रिपोर्ट बने हुए हैं और किसी बाद के संशोधन से प्रतिस्थापित नहीं हुए हैं"
 
 lang: "hi"
+sourceContentHash: "b166913dca839ae9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -27,9 +27,10 @@ faq:
   - q: "क्या KKM निजी अस्पताल चलाता है?"
     a: "नहीं। KKM सार्वजनिक अस्पतालों और क्लिनिकों का संचालन करता है और निजी स्वास्थ्य देखभाल को अलग से निजी स्वास्थ्य देखभाल सुविधा एवं सेवा अधिनियम 1998 (Private Healthcare Facilities and Services Act 1998 (Act 586)) के तहत विनियमित करता है, जो न्यूनतम गुणवत्ता एवं सुरक्षा मानक निर्धारित करता है और प्रक्रियाओं के लिए डॉक्टरों द्वारा वसूले जा सकने वाले शुल्कों पर सीमा लगाता है।"
 lang: "hi"
+sourceContentHash: "3996608aeba4590f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

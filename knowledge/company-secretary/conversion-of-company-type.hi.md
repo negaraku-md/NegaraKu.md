@@ -27,10 +27,11 @@ faq:
     a: "SSM दिशानिर्देशों के अनुसार, पूर्ण दस्तावेज़ प्रस्तुत किए जाने और शर्तें पूरी होने के बाद सार्वजनिक कंपनी में रूपांतरण की सूचना एक कार्य-दिवस के भीतर जारी की जाती है। दिशानिर्देश किसी सार्वजनिक कंपनी को निजी में बदलने के लिए कोई विशिष्ट समय-सीमा नहीं बताते।"
 
 lang: "hi"
+sourceContentHash: "63145595a33eef52"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

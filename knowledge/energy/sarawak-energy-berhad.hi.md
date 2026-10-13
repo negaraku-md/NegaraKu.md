@@ -30,10 +30,11 @@ faq:
     a: "बाकुन जलविद्युत संयंत्र, जिसकी उपलब्ध क्षमता 2,520MW है, सारावाक की सबसे बड़ी उत्पादन सुविधा है।"
 
 lang: "hi"
+sourceContentHash: "585f9d0a1ccc7faf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

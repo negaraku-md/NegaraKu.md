@@ -30,12 +30,13 @@ faq:
     a: "TH ऐतिहासिक रूप से इस्लामी वित्त क्षेत्र से जुड़ा रहा है, जिसमें Bank Islam Malaysia और Syarikat Takaful Malaysia Keluarga शामिल हैं, साथ ही एक संस्थागत निवेशक के रूप में विभिन्न अन्य परिसंपत्ति वर्गों में हिस्सेदारियाँ भी। वर्तमान हिस्सेदारियों और ब्याज प्रतिशत के विवरण के लिए TH और संबंधित कंपनियों के आधिकारिक वित्तीय विवरणों का संदर्भ लेना चाहिए, क्योंकि स्वामित्व संरचना (उदाहरण के लिए 2023 में BIMB समूह का पुनर्गठन) बदल सकती है।"
 
 lang: "hi"
+sourceContentHash: "440a6d426804d717"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

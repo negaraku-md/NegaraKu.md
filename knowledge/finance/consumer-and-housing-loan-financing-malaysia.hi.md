@@ -31,10 +31,11 @@ faq:
     a: "किराया-खरीद अधिनियम 1967 (Hire Purchase Act 1967) के तहत एक वित्तपोषक आम तौर पर केवल तभी पुनर्कब्ज़ा कर सकता है जब किरायेदार लगातार दो किस्तों में चूक कर जाए और 21-दिन की सूचना प्रक्रिया का पालन करे। एक बार जब आप नकद मूल्य का कम से कम 75% चुका देते हैं, तो वित्तपोषक को पुनर्कब्ज़े के लिए अदालत के आदेश की आवश्यकता होती है।"
 
 lang: "hi"
+sourceContentHash: "6a3487bee5c6466c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

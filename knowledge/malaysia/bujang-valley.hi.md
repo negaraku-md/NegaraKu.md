@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "वे सभी जो मलायी सल्तनतों के अस्तित्व से पहले मलायी भूमि पर आरंभिक सभ्यता की उत्पत्ति को समझना चाहते हैं, या जो केदाह में पुरातात्विक स्थलों और संग्रहालय की यात्रा की योजना बना रहे हैं।"
 
 lang: "hi"
+sourceContentHash: "e95214b94dacf363"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

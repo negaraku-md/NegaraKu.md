@@ -41,10 +41,11 @@ verificationNeeded:
   - "LHDN e-Residence सेवा पर निवास प्रमाणपत्र (Certificate of Residence) की वर्तमान आवेदन आवश्यकताओं और प्रसंस्करण समय की पुष्टि करें; निवास परीक्षण स्वयं स्रोत-सहित है लेकिन आवेदन यांत्रिकी Public Ruling No. 9/2019 में कवर नहीं होती"
 
 lang: "hi"
+sourceContentHash: "2a0ef17e2859fe87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

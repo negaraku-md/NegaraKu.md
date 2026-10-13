@@ -30,10 +30,11 @@ faq:
     a: "सरकारी एम्बुलेंस 999 लाइन के ज़रिए मुफ़्त भेजी जाती हैं और इन्हें KKM द्वारा St John Ambulance और मलेशियाई रेड क्रीसेंट सोसाइटी जैसे स्वैच्छिक निकायों के साथ मिलकर प्रबंधित किया जाता है। दूसरी ओर, निजी एम्बुलेंस निजी कंपनियों या अस्पतालों द्वारा अपनी हॉटलाइन के माध्यम से संचालित होती हैं, और कॉल की प्रकृति के आधार पर एक सेवा शुल्क लेती हैं।"
 
 lang: "hi"
+sourceContentHash: "492fe31c078f6681"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

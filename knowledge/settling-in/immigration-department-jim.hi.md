@@ -27,9 +27,10 @@ faq:
   - q: "नया 10-वर्षीय पासपोर्ट कितने का है?"
     a: "10-वर्षीय पासपोर्ट 18–59 आयु के आवेदकों के लिए RM350, 60 वर्ष और उससे अधिक के वरिष्ठ नागरिकों के लिए RM175 का है, और शुल्क (पासपोर्ट एवं वीज़ा) (संशोधन) आदेश 2026 के तहत 18 वर्ष और उससे अधिक के OKU (दिव्यांग) कार्ड धारकों के लिए मुफ़्त है।"
 lang: "hi"
+sourceContentHash: "050995b2068c647c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

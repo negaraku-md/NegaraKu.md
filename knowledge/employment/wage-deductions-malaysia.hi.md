@@ -29,10 +29,11 @@ faq:
     a: "धारा 24(8) के तहत, सभी कटौतियों का कुल योग उस महीने में अर्जित वेतन के 50% से अधिक नहीं हो सकता। धारा 24(9) धारा 13(1) की क्षतिपूर्ति, रोज़गार समाप्ति पर देय अंतिम भुगतान, और आवास ऋण (महानिदेशक की अनुमति से 25% तक की एक अतिरिक्त राशि) को छूट देती है।"
 
 lang: "hi"
+sourceContentHash: "3388bf641e0109a3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

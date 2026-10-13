@@ -33,10 +33,11 @@ verificationNeeded:
   - "TEKUN प्रति योजना कोई खुली या बंद ध्वज प्रकाशित नहीं करता, और इसके Ar Rahnu 4u के आँकड़े लाइव पृष्ठ पर टाइपोग्राफ़िक रूप से विकृत हैं"
 
 lang: "hi"
+sourceContentHash: "3e2ae8690cffc294"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

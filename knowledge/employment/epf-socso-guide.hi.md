@@ -24,10 +24,11 @@ appliesTo: "नियोक्ता, HR और पेरोल प्रशा�
 verificationNeeded: []
 
 lang: "hi"
+sourceContentHash: "93eabace2772ea86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

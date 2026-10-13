@@ -26,10 +26,11 @@ verificationNeeded:
   - "किसी वैध धारा 44(6) दान रसीद में आवश्यक विवरण — LHDN का रसीद-उपयोग समझाने वाला पृष्ठ प्राप्त नहीं किया जा सका।"
 
 lang: "hi"
+sourceContentHash: "5f0966be244cdbe2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

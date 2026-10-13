@@ -18,9 +18,10 @@ keyTakeaways:
   - "श्रेणी का उच्च-ऊँचाई वाला इलाक़ा मलेशिया के पर्यावरण-संवेदी क्षेत्र संरक्षणों के सबसे कठोर स्तर के अंतर्गत आता है, जो उच्चभूमि और पर्वतीय पारिस्थितिक-तंत्रों को विकास से बचाता है"
 appliesTo: "वे पाठक जो यह स्पष्ट, सत्यापित विवरण चाहते हैं कि तितिवांगसा श्रेणी क्या है, कहाँ तक फैली है, और यह प्रायद्वीपीय मलेशिया की नदियों, जलवायु और बसावट-प्रतिमान को पश्चिमी-तट और पूर्वी-तट पक्षों में क्यों बाँटती है।"
 lang: "hi"
+sourceContentHash: "c92a68e675abc2cc"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

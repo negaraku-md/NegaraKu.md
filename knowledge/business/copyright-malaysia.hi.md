@@ -40,10 +40,11 @@ verificationNeeded:
   - "MyIPO का Notifying Copyright पृष्ठ बताता है कि स्वैच्छिक अधिसूचना का उसका स्पष्टीकरण 'वर्तमान में अद्यतन किया जा रहा है' — किसी भी प्रक्रियात्मक विवरण की पुष्टि सीधे Controller of Copyright से करें"
 
 lang: "hi"
+sourceContentHash: "a995d61bd790a6cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

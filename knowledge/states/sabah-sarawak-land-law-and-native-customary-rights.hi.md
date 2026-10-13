@@ -32,12 +32,13 @@ faq:
     a: "पूरी तरह नहीं। संघीय न्यायालय ने Madeli bin Salleh (2007) में NCR की सामान्य-विधि मान्यता की पुष्टि की, लेकिन TR Sandah (2016) में एक विभाजित न्यायालय ने प्रवर्तनीय अधिकारों को खेती की गई भूमि तक सीमित कर दिया और आसपास के सामुदायिक वन पर दावों को अस्वीकार कर दिया। NCR का दायरा विवादित बना हुआ है।"
 
 lang: "hi"
+sourceContentHash: "f1772b5d15bbbf86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -34,10 +34,11 @@ faq:
     a: "बिना पंजीकरण के परिचालन करना एक अपराध है। धारा 39 के तहत, एक निगमित निकाय पहले अपराध के लिए RM10,000 से RM50,000 और बाद के अपराध के लिए RM20,000 से RM100,000 का जुर्माना झेलता है; एक व्यक्ति पहले अपराध के लिए RM5,000 से RM25,000 या छह महीने तक का कारावास झेलता है।"
 
 lang: "hi"
+sourceContentHash: "86582fd00a53a2cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

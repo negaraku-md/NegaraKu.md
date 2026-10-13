@@ -135,10 +135,11 @@ obligations:
     consequence: "s.341(3) के अंतर्गत हर अधिकारी पर RM10,000 तक का जुर्माना तथा प्रति दिन RM500 तक"
 
 lang: "hi"
+sourceContentHash: "795508e7636dbf96"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

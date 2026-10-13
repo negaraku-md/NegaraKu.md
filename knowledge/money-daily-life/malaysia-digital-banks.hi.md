@@ -34,10 +34,11 @@ faq:
     a: "हाँ। आधारभूत चरण के दौरान (पहले तीन से पाँच वर्ष), BNM का ढाँचा प्रत्येक डिजिटल बैंक की कुल संपत्ति को RM3 बिलियन से अधिक नहीं होने देता। इससे BNM को बैंकों के बड़े होने से पहले प्रदर्शन और जोखिम देखने का अवसर मिलता है।"
 
 lang: "hi"
+sourceContentHash: "586acae3d2012d4e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

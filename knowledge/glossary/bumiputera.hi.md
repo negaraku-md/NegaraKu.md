@@ -34,11 +34,12 @@ seoTitle: "बूमिपुतेरा (Bumiputera): इस शब्द क�
 socialTitle: "बूमिपुतेरा — एक शब्द जो संविधान में नहीं मिलता, फिर भी अनुच्छेद 153, 160 और 161A में निहित है"
 
 lang: "hi"
+sourceContentHash: "924aa904a876b274"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

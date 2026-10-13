@@ -31,12 +31,13 @@ faq:
     a: "Langkawi और Labuan जैसे द्वीप शुल्क-मुक्त क्षेत्र हैं जहाँ शराब उत्पाद शुल्क के बिना बेची जाती है। यात्री आमतौर पर कुल मिलाकर एक लीटर से अधिक न होने वाली वाइन, स्पिरिट या माल्ट लिकर ला सकते हैं, न्यूनतम-अनुपस्थिति नियमों के अधीन जिनकी यात्रा से पहले सीमा-शुल्क विभाग से पुष्टि कर लेनी चाहिए।"
 
 lang: "hi"
+sourceContentHash: "56f47508696d66ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -29,10 +29,11 @@ verificationNeeded:
   - "सबाह और सरवाक में व्यवसायों की पंजीकरण-स्थिति की पुष्टि करें, जो Registration of Businesses Act 1956 के बजाय राज्य-अध्यादेशों के तहत संचालित होते हैं"
 
 lang: "hi"
+sourceContentHash: "aecfbddfa9393cec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

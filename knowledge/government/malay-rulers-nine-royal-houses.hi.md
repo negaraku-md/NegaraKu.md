@@ -31,12 +31,13 @@ faq:
     a: "किसी शासक के विरुद्ध उसकी व्यक्तिगत हैसियत में कार्यवाही केवल अनुच्छेद 182 के अंतर्गत स्थापित विशेष न्यायालय के समक्ष ही लाई जा सकती है, और वह महान्यायवादी (Attorney General) की सहमति के अधीन है।"
 
 lang: "hi"
+sourceContentHash: "3f9c93463dcbf28a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -30,10 +30,11 @@ faq:
     a: "धारा 266(9) के तहत किसी गंभीर अपराध की रिपोर्ट के लिए, नहीं। धारा 266(10) प्रावधान करती है कि जब तक उपधारा (9) में निर्दिष्ट किसी मामले पर रिपोर्ट सद्भावना से रजिस्ट्रार को दी जाती है, तब तक लेखा परीक्षक का कोई कर्तव्य केवल उस रिपोर्ट के कारण उल्लंघित नहीं माना जाएगा। यह स्पष्ट वैधानिक संरक्षण विशेष रूप से उपधारा (9) के तहत रिपोर्टों की ओर निर्देशित है।"
 
 lang: "hi"
+sourceContentHash: "9561fa4bff249209"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

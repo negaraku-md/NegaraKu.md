@@ -35,10 +35,11 @@ faq:
     a: "नहीं। बाजू कुरुंग एक लंबा, ढीला चोगा है जो शरीर के आकार को छिपाता है, जिसे लपेटे हुए कपड़े के साथ पहना जाता है। इसके विपरीत, कबाया सामने से खुलने वाली एक ब्लाउज़ है जो शरीर के आकार का अधिक निकटता से अनुसरण करती है, जिसे केरोंगसांग (kerongsang, एक ब्रूच) या बटनों से बंद किया जाता है, और सारोंग के साथ पहना जाता है। कबाया आमतौर पर बाजू कुरुंग की तुलना में अधिक कसी हुई होती है।"
 
 lang: "hi"
+sourceContentHash: "f68d5254e084ffde"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

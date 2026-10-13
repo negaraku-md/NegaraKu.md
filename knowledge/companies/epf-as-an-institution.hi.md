@@ -29,10 +29,11 @@ faq:
     a: "Conventional Savings को EPF Act 1991 के तहत प्रति वर्ष न्यूनतम 2.50% की गारंटी है। Shariah Savings, दूसरी ओर, पूरी तरह से पोर्टफोलियो के वास्तविक प्रदर्शन पर निर्भर करती है, जिस पर कोई न्यूनतम गारंटी नहीं है।"
 
 lang: "hi"
+sourceContentHash: "e680578dd6d6768e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

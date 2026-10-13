@@ -31,12 +31,13 @@ faq:
     a: "Cyber Security Act 2024 [Act 854] के तहत, साइबर सुरक्षा सेवाएँ प्रदान करने का आवेदन NACSA के मुख्य कार्यकारी को किया जाता है। विनियमित श्रेणियाँ हैं प्रबंधित सुरक्षा परिचालन केंद्र (SOC) निगरानी सेवा और प्रवेश-परीक्षण (penetration testing) सेवा।"
 
 lang: "hi"
+sourceContentHash: "a5256768a1d06815"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

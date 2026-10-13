@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "त्योहारी मौसमों में राजमार्ग उपयोगकर्ता, यात्रा एवं अवकाश की योजना बनाने वाले, खुदरा और परिवहन व्यवसाय, और कोई भी व्यक्ति जो मलेशिया के जनसंख्या-संचलन के ढर्रों को समझना चाहता है।"
 
 lang: "hi"
+sourceContentHash: "351c6944deba025a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

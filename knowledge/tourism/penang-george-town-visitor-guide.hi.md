@@ -36,10 +36,11 @@ faq:
     a: "पिनांग एक गर्म, आर्द्र उष्णकटिबंधीय जलवायु वाला साल भर का गंतव्य है। बारिश किसी भी महीने में हो सकती है पर मानसून के बीच की अवधि (मोटे तौर पर अप्रैल–मई और सितंबर–नवंबर) के आसपास सबसे भारी होती है; दिसंबर से फरवरी के आसपास की सूखी, ठंडी खिड़की लोकप्रिय है। सुबह और देर दोपहर पैदल चलने के लिए सबसे आरामदायक समय हैं।"
 
 lang: "hi"
+sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

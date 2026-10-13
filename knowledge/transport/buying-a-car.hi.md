@@ -29,10 +29,11 @@ faq:
     a: "बैंक या वित्त कंपनी को ऋण की अवधि भर किराया-खरीद अधिनियम 1967 (Hire-Purchase Act 1967) के तहत वाहन के कानूनी मालिक के रूप में पंजीकृत किया जाता है। खरीदार पंजीकृत धारक होता है जिसके पास वाहन का रोज़मर्रा का उपयोग होता है, और वह ऋण पूरी तरह चुकता होने और वित्तदाता द्वारा रिहाई जारी करने पर ही पंजीकृत मालिक बनता है।"
 
 lang: "hi"
+sourceContentHash: "fbeedb8341d7b377"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

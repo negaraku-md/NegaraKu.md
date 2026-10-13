@@ -32,10 +32,11 @@ faq:
     a: "संबंध की प्रकृति, लेनदेन की राशि, बकाया शेष और उसकी शर्तें, कोई प्राप्त या दी गई प्रतिभूति या गारंटी, और उस शेष से संबंधित संदिग्ध ऋणों के लिए प्रावधान।"
 
 lang: "hi"
+sourceContentHash: "ae54f875cbc22c20"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

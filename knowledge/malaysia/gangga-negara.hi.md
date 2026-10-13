@@ -17,9 +17,10 @@ keyTakeaways:
   - "जेम्स लो (James Low) (1849) और एच. जी. क्वारिच वेल्स (H.G. Quaritch Wales) जैसे इतिहासकारों ने इसके स्थान का पता लगाने की कोशिश की पर उसकी पुष्टि नहीं कर सके"
 appliesTo: "वे पाठक जिन्होंने इतिहास के पाठों में या सोशल मीडिया पर गंगा नेगारा नाम सुना है और जानना चाहते हैं कि वास्तव में क्या साबित किया जा सकता है, बनिस्बत उसके जो महज़ किंवदंती है।"
 lang: "hi"
+sourceContentHash: "4947488c0b12f663"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

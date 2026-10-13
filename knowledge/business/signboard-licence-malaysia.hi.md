@@ -40,10 +40,11 @@ verificationNeeded:
   - "MBSA का क्षेत्रफल-आधारित वार्षिक साइनबोर्ड शुल्क — केवल विज्ञापन प्रसंस्करण शुल्क और बंटिंग व बैनर की समतल दरें प्रकाशित हैं"
 
 lang: "hi"
+sourceContentHash: "e95a20cac513aa22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

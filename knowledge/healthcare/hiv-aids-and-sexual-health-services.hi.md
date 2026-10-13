@@ -34,12 +34,13 @@ faq:
     a: "कोई HIV-विशिष्ट कानून नहीं है। खतरनाक बीमारियों के फैलाव पर दंड संहिता (Penal Code) के सामान्य प्रावधान जैसे धारा 269 और 270 लागू हो सकते हैं, लेकिन आज तक HIV से संबंधित कोई ज्ञात अभियोजन नहीं हुआ है।"
 
 lang: "hi"
+sourceContentHash: "c335daac63ec7a97"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

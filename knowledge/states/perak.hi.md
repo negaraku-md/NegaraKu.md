@@ -40,12 +40,13 @@ verificationNeeded:
   - "जब DOSM का कोई नया विमोचन प्रकाशित हो, तब जनसंख्या और GDP आँकड़े अद्यतन करें।"
 
 lang: "hi"
+sourceContentHash: "79feefd0c909668c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

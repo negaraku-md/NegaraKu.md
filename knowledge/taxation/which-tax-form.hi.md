@@ -36,10 +36,11 @@ verificationNeeded:
   - "यहाँ की तिथियाँ 30 दिसंबर 2025 को जारी और 1 अप्रैल 2026 को अद्यतन किए गए दाख़िली कार्यक्रम से ली गई हैं, जो निर्धारण-वर्ष 2025 की विवरणियों को नियंत्रित करता है। LHDN हर वर्ष एक नया कार्यक्रम जारी करता है — किसी बाद के चक्र पर निर्भर होने से पहले इसे फिर से पढ़ें"
 
 lang: "hi"
+sourceContentHash: "1c422a60f1ab90e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

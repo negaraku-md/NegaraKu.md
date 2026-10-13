@@ -38,10 +38,11 @@ faq:
     a: "नहीं। 2015 के विनियमन संशोधन के बाद, कोई भी — स्टेकहोल्डर सॉलिसिटर सहित — बिक्री एवं क्रय अनुबंध पर हस्ताक्षर होने से पहले कोई भुगतान (बुकिंग शुल्क, बयाना आदि) नहीं वसूल सकता, सिवाय उसके जो बिक्री की संविदा द्वारा निर्धारित हो (regulation 11(2))।"
 
 lang: "hi"
+sourceContentHash: "b9b4698e2a0c2539"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -29,10 +29,11 @@ faq:
     a: "हाँ, यदि आप NFC टॉप-अप सुविधा का उपयोग करना चाहते हैं। पंजीकरण में पहचान सत्यापन (KYC) शामिल होता है ताकि कार्ड का शेष आपके eWallet खाते से जुड़ा रहे — यह कार्ड खो जाने पर सुरक्षा की एक परत भी जोड़ता है, एक गैर-पंजीकृत कार्ड की तुलना में जिसका शेष उसे पाने वाला कोई भी उपयोग कर सकता है।"
 
 lang: "hi"
+sourceContentHash: "a15af3c5fd918fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

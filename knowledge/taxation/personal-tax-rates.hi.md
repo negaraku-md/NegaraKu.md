@@ -37,10 +37,11 @@ verificationNeeded:
   - "पुष्टि करें कि Schedule 1 Part XXII के तहत 2% लाभांश परत निवासियों के साथ-साथ अनिवासी व्यक्तियों पर भी लागू होती है या नहीं; दर-तालिका स्वयं यह नहीं कहती"
 
 lang: "hi"
+sourceContentHash: "8166bbfff56fa0fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

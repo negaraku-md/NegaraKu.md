@@ -31,11 +31,12 @@ faq:
     a: "हाँ। मलेशिया की राष्ट्रीय शिक्षा प्रणाली में राष्ट्रीय-प्रकार के स्कूल (Sekolah Jenis Kebangsaan) शामिल हैं जो शिक्षा के माध्यम के रूप में मंदारिन (SJKC) या तमिल (SJKT) का उपयोग करते हैं, साथ ही राष्ट्रीय स्कूल (SK) जो बहासा मलयु का उपयोग करते हैं। तीनों शिक्षा मंत्रालय और एक ही राष्ट्रीय पाठ्यक्रम के अधीन आते हैं।"
 
 lang: "hi"
+sourceContentHash: "ab65f68bd17c67a2"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

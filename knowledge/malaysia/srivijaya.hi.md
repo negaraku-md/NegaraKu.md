@@ -17,9 +17,10 @@ keyTakeaways:
   - "परामेश्वर, लगभग 1400 में मेलाका सल्तनत के संस्थापक, को मलय परंपरा में और स्वयं मेलाका की राज्य सरकार द्वारा पालेमबांग — श्रीविजय की पूर्व गद्दी — के एक राजकुमार के रूप में वर्णित किया गया है"
 appliesTo: "वे पाठक जो यह समझना चाहते हैं कि मेलाका के शासन से पहले मेलाका जलडमरूमध्य पर किसका शासन था, और कैसे सुमात्रा-आधारित एक समुद्री शक्ति अंततः सीधे मलय प्रायद्वीप के अपने शाही इतिहास में समाहित हो गई।"
 lang: "hi"
+sourceContentHash: "9c0d3b0b3dd803ef"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

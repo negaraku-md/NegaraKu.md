@@ -40,10 +40,11 @@ verificationNeeded:
   - "लागत पर सलाह देने से पहले वर्तमान AIAC शुल्क अनुसूचियों और जमा आवश्यकताओं की सीधे AIAC से पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "8f87d032cb16f4b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

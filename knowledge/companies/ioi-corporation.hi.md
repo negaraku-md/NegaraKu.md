@@ -30,10 +30,11 @@ faq:
     a: "मलेशिया में (जोहोर, मलक्का, नेगेरी सेम्बिलान, पहांग, सबाह और सारावाक सहित) और इंडोनेशिया में (पश्चिम और मध्य कालीमंतान)।"
 
 lang: "hi"
+sourceContentHash: "1a35d39eb3932506"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

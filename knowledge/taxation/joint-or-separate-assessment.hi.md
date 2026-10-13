@@ -25,10 +25,11 @@ verificationNeeded:
   - "इस लेख में दिए गए दृष्टांत-रूपी ब्रेक-ईवन आँकड़े प्रकाशित बैंड तालिका पर अंकगणित हैं, न कि LHDN-प्रकाशित सीमा; वे प्रत्येक दंपति द्वारा वास्तव में दावा की गई राहतों के साथ बदलते हैं"
 
 lang: "hi"
+sourceContentHash: "9439aef0bb0b111f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

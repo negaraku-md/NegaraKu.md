@@ -29,12 +29,13 @@ faq:
     a: "इस्लामी मामलों में शासक की सहायता और उन्हें परामर्श देना, तथा राज्य अधिनियम के अनुसार ज़कात, वक़्फ़, मस्जिदों और संबंधित मामलों का प्रशासन करना। MAIN राज्य की वक़्फ़ संपत्ति का एकमात्र न्यासी भी है।"
 
 lang: "hi"
+sourceContentHash: "d6d15ba266fb5f4b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

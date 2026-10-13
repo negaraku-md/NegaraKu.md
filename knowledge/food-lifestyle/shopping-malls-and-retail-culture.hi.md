@@ -30,10 +30,11 @@ faq:
     a: "pasar malam एक रात्रि बाज़ार है — एक घूमता हुआ खुला सड़क-बाज़ार जो किसी मोहल्ले में एक निश्चित सप्ताह-रात को लगता है, और पका भोजन, ताज़ा उपज तथा कम-लागत का सामान बेचता है। यह दिन के पासार (गीले बाज़ार) और pasar tani (किसान बाज़ार) के साथ-साथ मलेशिया की गैर-मॉल खुदरा संस्कृति का हिस्सा है।"
 
 lang: "hi"
+sourceContentHash: "a2bc8ea503179f64"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

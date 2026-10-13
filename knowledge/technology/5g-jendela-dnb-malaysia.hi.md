@@ -36,8 +36,9 @@ faq:
     a: "नहीं। 7 मार्च 2026 को, CelcomDigi और Maxis ने प्रत्येक ने DNB में वित्त मंत्रालय के शेयरों की खरीद RM327,872,640.28 में पूरी की, जिसने 5G थोक व्यवसाय से सरकार के बाहर निकलने को चिह्नित किया और DNB को टेल्को तथा YTL के स्वामित्व वाली पूर्णतः निजी इकाई में बदल दिया।"
 
 lang: "hi"
+sourceContentHash: "c56c91a9d7764362"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "21 जून 2024 का मंत्रिस्तरीय निर्देश और सटीक 700MHz (2×20MHz) / 3.5GHz (100MHz) आवंटन वर्तमान में SoyaCincau की रिपोर्टिंग पर टिके हैं; MCMC के प्राथमिक प्रेस-विज्ञप्ति PDF और FAQ के विरुद्ध पुष्टि करें।"
@@ -46,7 +47,7 @@ verificationNeeded:
   - "JENDELA चरण 2 'JP2' RFP को The Edge द्वारा '31 मार्च' को जारी बताया गया है; किसी MCMC/संचार मंत्रालय स्रोत के विरुद्ध पुष्टि करें कि वर्ष 2026 है।"
   - "मंत्रिस्तरीय निर्देश संख्या 3, 2021 की जारी-तिथि (31 मई 2021) SoyaCincau से ली गई है; आधिकारिक राजपत्र या MCMC अभिलेख के विरुद्ध पुष्टि करें।"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

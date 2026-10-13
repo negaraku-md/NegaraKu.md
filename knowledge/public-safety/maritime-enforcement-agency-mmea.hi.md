@@ -29,12 +29,13 @@ faq:
     a: "अप्रैल 1999 में एक सरकारी अध्ययन में एजेंसियों के बीच अतिव्यापी कार्य, अतिव्यापी अधिकार-क्षेत्र और संसाधनों का अलाभकारी उपयोग पाया गया। समुद्री प्रवर्तन को एक एकल एजेंसी के अधीन एकीकृत करने के लिए MMEA की स्थापना की गई।"
 
 lang: "hi"
+sourceContentHash: "d5fb408e6cb3819a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

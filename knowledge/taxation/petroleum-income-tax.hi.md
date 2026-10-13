@@ -28,10 +28,11 @@ faq:
     a: "कर-योग्य आय के एक अंश की छूट पात्र सीमांत क्षेत्रों पर पेट्रोलियम आयकर की प्रभावी दर को 38% से घटाकर लगभग 25% कर देती है।"
 
 lang: "hi"
+sourceContentHash: "e3d164ca38c307ff"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

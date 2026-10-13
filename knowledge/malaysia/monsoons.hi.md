@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो समझना चाहता है कि मलेशिया का मौसम और बाढ़-जोखिम ऋतुओं के साथ क्यों बदलते हैं — तटीय क्षेत्रों के निवासी, यात्री, आपदा-योजनाकार, भूगोल के विद्यार्थी और हर वह व्यक्ति जो MetMalaysia की मौसम-चेतावनियाँ देखता है।"
 
 lang: "hi"
+sourceContentHash: "d977d1d40dd0956b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

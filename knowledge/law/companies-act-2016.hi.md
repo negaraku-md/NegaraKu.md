@@ -30,10 +30,11 @@ faq:
     a: "वे अधिनियम के अंतर्गत बनाए जाते हैं, न कि उसका हिस्सा हैं, पर उनका परिचालनात्मक बल होता है — लेखा-परीक्षा छूट मानदंड, विलंबित दाख़िली के दंड, और समय-विस्तार की प्रक्रिया सभी धारा-पाठ में नहीं, बल्कि Practice Directives में निहित हैं। केवल अधिनियम से दिया गया उत्तर अक्सर ग़लत होगा।"
 
 lang: "hi"
+sourceContentHash: "d0840945570101e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

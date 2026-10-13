@@ -34,10 +34,11 @@ faq:
     a: "क्योंकि समूह सापेक्ष है। यदि दूसरों की आय आपकी तुलना में तेज़ी से बढ़ती है, तो B40 सीमा भी बढ़ जाती है, इसलिए आपकी अपनी आय बढ़ने के बावजूद भी आप उसी समूह में आ सकते हैं।"
 
 lang: "hi"
+sourceContentHash: "83d77f4a9e3c0e88"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

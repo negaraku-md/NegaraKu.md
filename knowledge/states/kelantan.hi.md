@@ -41,12 +41,13 @@ verificationNeeded:
   - "राज्य विधानसभा (DUN) और संसद की सीटों की संख्या जानबूझकर नहीं बताई गई है, क्योंकि इस मसौदे को तैयार करते समय इसकी पुष्टि आधिकारिक SPR स्रोतों के विरुद्ध नहीं हो सकी।"
 
 lang: "hi"
+sourceContentHash: "869286bde4f6fa80"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

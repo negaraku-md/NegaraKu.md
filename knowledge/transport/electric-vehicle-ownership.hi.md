@@ -31,10 +31,11 @@ faq:
     a: "JPJ के विद्युत वाहन LKM दिशानिर्देशों के अनुसार, 50 kW और उससे कम रेटिंग वाले EV के लिए सालाना RM20। उच्च शक्ति के लिए दरें तरक्कीपसंद रूप से बढ़ती हैं।"
 
 lang: "hi"
+sourceContentHash: "926c690f458094f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

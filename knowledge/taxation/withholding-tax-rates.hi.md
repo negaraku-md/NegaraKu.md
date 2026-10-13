@@ -48,10 +48,11 @@ obligations:
     consequence: "अदत्त राशि को 10 प्रतिशत बढ़ाया जाता है और व्यय को धारा 39(1)(f), (i) या (j) के अंतर्गत अस्वीकृत कर दिया जाता है"
 
 lang: "hi"
+sourceContentHash: "091d81b974b404be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

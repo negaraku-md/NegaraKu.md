@@ -33,9 +33,10 @@ faq:
     a: "माग़ावाउ फ़सल के बाद चावल की आत्मा, बाम्बाज़ोन, का सम्मान करने और उसे 'घर बुलाने' का एक आभार अनुष्ठान है। इसका नेतृत्व परंपरागत रूप से एक बोबोहिज़ान (bobohizan, जिसे bobolian भी लिखा जाता है) करती है, जो अनुष्ठानिक मंत्रोच्चार करती है। यह कामातन के पुराने औपचारिक तत्वों में से एक है।"
 
 lang: "hi"
+sourceContentHash: "77931677eb9c36e1"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

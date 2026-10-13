@@ -29,10 +29,11 @@ faq:
     a: "चाय को ऊँचाई से दो पात्रों के बीच बार-बार उड़ेलने की प्रक्रिया — 'tarik' — पेय को ठंडा करती है, चाय को दूध के साथ मिलाती है, और ऊपर झाग की एक परत बनाती है। यह अपने आप में एक प्रदर्शन बन गया है, यहाँ तक कि teh tarik प्रतियोगिताएँ भी होती हैं।"
 
 lang: "hi"
+sourceContentHash: "9bbd745541ea86db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

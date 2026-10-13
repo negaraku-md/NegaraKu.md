@@ -31,10 +31,11 @@ faq:
     a: "सिवासंगारी सुब्रमणियम, जो अक्टूबर 2025 में करियर-उच्च विश्व नंबर 6 तक पहुँचीं, और एनजी एइन यो, जिन्होंने घरेलू ज़मीन पर 2024 ACE Malaysia Squash Cup जीता।"
 
 lang: "hi"
+sourceContentHash: "47a1ae4a8ea8c4dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -30,10 +30,11 @@ faq:
     a: "YTL Power, Kulai, Johor में एक बड़ा डेटा-सेंटर पार्क बना रही है, और उसने एक पहली Nvidia-संचालित AI सुविधा पूरी की जिसके अक्टूबर 2025 के अंत में परिचालन में आने की घोषणा हुई।"
 
 lang: "hi"
+sourceContentHash: "430ec56c95aad0ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

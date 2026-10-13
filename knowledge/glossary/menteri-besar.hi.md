@@ -28,12 +28,13 @@ verificationNeeded:
   - "प्रत्येक राजतांत्रिक राज्य के राज्याध्यक्ष का पदनाम (Sultan, Yang di-Pertuan Besar, Raja) MyGovernment पोर्टल और अनुच्छेद 160(2) में «Ruler» की परिभाषा से लिया गया है। आधिकारिक प्रयोग के लिए प्रत्येक राज्य के अपने संविधान से सत्यापित करें।"
 
 lang: "hi"
+sourceContentHash: "56751778ff042f02"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

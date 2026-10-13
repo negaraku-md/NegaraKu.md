@@ -18,9 +18,10 @@ keyTakeaways:
   - "Poisons Act 1952 की तीसरी अनुसूची के तहत मनोसक्रिय पदार्थ अलग विनियमों के अधीन हैं, जिनमें अनधिकृत अपराधों के लिए RM100,000 तक का जुर्माना या पाँच वर्ष का कारावास दंड है (धारा 30)"
 appliesTo: "मलेशिया में किसी सरकारी या निजी फार्मेसी से दवा खरीदने वाला वह हर व्यक्ति जो समझना चाहता है कि कुछ दवाओं के लिए नुस्खे की आवश्यकता क्यों होती है जबकि अन्य के लिए नहीं, और उस प्रक्रिया में पंजीकृत फार्मासिस्ट की भूमिका क्या है।"
 lang: "hi"
+sourceContentHash: "4ae828e3e8725114"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -40,10 +40,11 @@ verificationNeeded:
   - "उपधारा 77A(4) पर LHDN की घोषणा का वर्तमान पाठ और स्थिति सीधे LHDN से पुष्टि करें — लेखन के समय घोषणा-पृष्ठ तक पहुँचा नहीं जा सका और इसे यहाँ SSM के ऑडिट छूट FAQ के माध्यम से उद्धृत किया गया है"
   - "SSM के MBRS पृष्ठ पर वर्तमान MBRS 2.0 अनिवार्य चरण की तिथियाँ और प्रवेश-बिंदु पुष्टि करें"
 lang: "hi"
+sourceContentHash: "10c01141306ea188"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

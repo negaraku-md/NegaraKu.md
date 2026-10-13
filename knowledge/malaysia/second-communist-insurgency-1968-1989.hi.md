@@ -30,12 +30,13 @@ faq:
     a: "आर्किब नेगारा मलेशिया के अनुसार, हात याई समझौतों ने CPM से आत्मसमर्पण की माँग नहीं की। पार्टी उग्रवादी गतिविधि समाप्त करने, अपने सशस्त्र दस्तों को भंग करने और अपने हथियार नष्ट करने पर सहमत हुई, और इसके सदस्यों ने यांग दी-पर्तुआन अगोंग (Yang di-Pertuan Agong) के प्रति निष्ठा की शपथ ली।"
 
 lang: "hi"
+sourceContentHash: "02bbbc636e171599"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

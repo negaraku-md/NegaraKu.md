@@ -31,10 +31,11 @@ faq:
     a: "अधिकतर लैंडफिल में। मलेशिया 135 लैंडफिल संचालित करता है — 114 खुले डंपसाइट और 22 स्वच्छता लैंडफिल — और लैंडफिलिंग देश की प्रमुख निपटान पद्धति बनी हुई है।"
 
 lang: "hi"
+sourceContentHash: "1d664666863d04f5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

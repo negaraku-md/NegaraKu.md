@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "माता-पिता, अभिभावक या मलेशिया में जन्मे किसी बच्चे का जन्म पंजीकृत करने के लिए ज़िम्मेदार कोई भी व्यक्ति, जिसमें विलंबित पंजीकरण और जन्म प्रमाणपत्र के लिए पुनः-आवेदन के मामले शामिल हैं।"
 
 lang: "hi"
+sourceContentHash: "02c6a3d01833544f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

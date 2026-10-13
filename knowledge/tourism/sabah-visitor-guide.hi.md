@@ -35,12 +35,13 @@ faq:
     a: "सिपादान हर नवंबर रीफ़ पुनर्प्राप्ति के लिए बंद रहता है, इसलिए गोताख़ोरी यात्राओं की योजना दिसंबर और अक्टूबर के बीच बनाएँ। अन्यत्र, अधिक नम उत्तर-पूर्वी मानसून महीने (मोटे तौर पर नवंबर से मार्च) बोर्नियो में अधिक बारिश लाते हैं।"
 
 lang: "hi"
+sourceContentHash: "c9653441143f9da8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

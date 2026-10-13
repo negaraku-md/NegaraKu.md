@@ -29,12 +29,13 @@ faq:
     a: "कुछ तकाफुल योजनाएँ जोखिम कोष से वितरण-योग्य अधिशेष को पात्र सहभागियों के साथ साझा करने की अनुमति देती हैं, प्रमाणपत्र की शर्तों के अधीन। इस अधिशेष-साझाकरण विशेषता का अधिकांश पारंपरिक पॉलिसियों में कोई प्रत्यक्ष समकक्ष नहीं है।"
 
 lang: "hi"
+sourceContentHash: "94509152b2b8fc7d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

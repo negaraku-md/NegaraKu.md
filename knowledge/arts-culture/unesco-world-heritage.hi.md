@@ -30,9 +30,10 @@ faq:
     a: "हाँ। विश्व धरोहर केंद्र मलेशिया की अस्थायी सूची में तीन स्थल दर्ज करता है: प्रायद्वीपीय मलेशिया का राष्ट्रीय उद्यान (तामान नेगारा), गोम्बाक सेलांगोर क्वार्ट्ज कटक, और सुंगाई बुलोह कुष्ठ-आश्रम। एक अस्थायी सूचीयन नामांकन करने के इरादे की घोषणा है, अंकन नहीं।"
 
 lang: "hi"
+sourceContentHash: "2314ed1b6daf68a8"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

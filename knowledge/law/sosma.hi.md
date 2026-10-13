@@ -24,12 +24,13 @@ keyTakeaways:
 appliesTo: "वे पाठक जिन्हें SOSMA क्या है और यह कौन-सी विशेष प्रक्रियाएँ प्रदान करता है इसका एक तटस्थ, पाठगत विवरण चाहिए — छात्र, शोधकर्ता और वे सभी जो मलेशिया के सुरक्षा-कानून ढाँचे का मानचित्रण कर रहे हैं। यह एक वर्णनात्मक कानून अभिलेख है, कानूनी सलाह नहीं, और किसी मामले, अभियोजन या नीति बहस पर टिप्पणी नहीं करता।"
 
 lang: "hi"
+sourceContentHash: "23e4a7f81f4e58a1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

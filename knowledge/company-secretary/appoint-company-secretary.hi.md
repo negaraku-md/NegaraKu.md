@@ -40,10 +40,11 @@ verificationNeeded:
   - "Confirm the current SSM prescribed form and any fee for the s.58 notification of a secretary appointment against SSM's live filing guidance, as MBRS 2.0 changed the submission route"
 
 lang: "hi"
+sourceContentHash: "87bd6be0702424fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

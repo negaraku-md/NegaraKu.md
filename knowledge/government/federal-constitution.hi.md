@@ -31,12 +31,13 @@ faq:
     a: "पाठ पंद्रह भागों (भाग I से XV, साबाह और साराक के लिए भाग XIIA सहित) और तेरह अनुसूचियों में संगठित है, जिनमें से कुछ आधिकारिक पुनर्मुद्रण की विषय-सूची के अनुसार निरसित कर दी गई हैं।"
 
 lang: "hi"
+sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

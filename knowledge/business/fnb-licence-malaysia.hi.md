@@ -44,10 +44,11 @@ verificationNeeded:
   - "कलंतान या तेरेंगगानु जैसे व्यक्तिगत राज्यों के लिए कोई प्रकाशित शराब लाइसेंसिंग नीति — किसी की पुष्टि नहीं हुई, और भिन्नता प्रकाशित नीति के बजाय लाइसेंसिंग बोर्ड के विवेक से बहती प्रतीत होती है"
 
 lang: "hi"
+sourceContentHash: "8621ae7bf33716e8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

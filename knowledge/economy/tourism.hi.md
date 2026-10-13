@@ -23,10 +23,11 @@ appliesTo: "विश्लेषक, पत्रकार, छात्र, �
 seoTitle: "मलेशिया पर्यटन सांख्यिकी: आगमन बनाम प्राप्तियाँ"
 
 lang: "hi"
+sourceContentHash: "396de79b31be6ee8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

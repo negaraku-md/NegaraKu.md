@@ -32,10 +32,11 @@ faq:
     a: "Rapid Bus ने कम सवारी वाले 19 मार्गों — 16 MRT फीडर मार्ग और 3 मानक मार्ग, यानी नेटवर्क का लगभग 7% — को एक बुक-करने-योग्य Rapid KL On-Demand वैन सेवा में बदलना शुरू किया।"
 
 lang: "hi"
+sourceContentHash: "ef9c4ac09cb054b2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

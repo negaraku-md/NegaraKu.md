@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "मलेशिया के आर्थिक जोखिम का आकलन करने वाला कोई भी — निवेशक, नौकरी-खोजी, नीति-निर्माता और व्यापार के विद्यार्थी।"
 
 lang: "hi"
+sourceContentHash: "f587a0bc65cbc1af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

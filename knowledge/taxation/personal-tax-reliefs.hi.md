@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "अपनी वार्षिक Form BE/B फाइलिंग तैयार करने वाले और यह जाँचने वाले व्यक्तिगत करदाता कि वे कौन-सी छूटों का दावा कर सकते हैं।"
 
 lang: "hi"
+sourceContentHash: "3aaef5bbc4ffdb87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

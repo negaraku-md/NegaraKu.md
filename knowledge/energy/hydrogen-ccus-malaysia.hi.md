@@ -33,10 +33,11 @@ faq:
     a: "Kasawari CCS पहला CO2 इंजेक्शन 2027 जितनी जल्दी लक्षित कर रही है (पहले की 2029-2030 योजना से आगे बढ़ाकर)। सारावाक की हरित-हाइड्रोजन परियोजनाओं के अब आम तौर पर 2029 के आसपास चालू होने की उम्मीद है।"
 
 lang: "hi"
+sourceContentHash: "cf65984906bccf4e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

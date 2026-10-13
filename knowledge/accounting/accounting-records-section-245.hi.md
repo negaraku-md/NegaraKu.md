@@ -56,10 +56,11 @@ verificationNeeded:
   - "SSM publishes no compound schedule for s.245 offences — the fine stated is the maximum on conviction under s.245(9), not an administrative compound"
 
 lang: "hi"
+sourceContentHash: "45066b2b4838e7ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -33,10 +33,11 @@ faq:
     a: "नहीं। RCEP और CPTPP अलग-अलग सदस्यता और नियमों वाले अलग समझौते हैं। मलेशिया RCEP का एक पक्ष है; दोनों कई सदस्यों में परस्पर व्याप्त हैं लेकिन उन पर स्वतंत्र रूप से बातचीत होती है।"
 
 lang: "hi"
+sourceContentHash: "f7e0957c6988f3a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

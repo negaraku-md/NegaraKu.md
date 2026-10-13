@@ -36,10 +36,11 @@ faq:
     a: "NSS 60,000 उच्च-कुशल मलेशियाई इंजीनियरों को प्रशिक्षित और कौशल-उन्नत करना लक्षित करती है — लगभग 30,000 शिक्षा मंत्रालय के माध्यम से विकसित और लगभग 30,000 तकनीकी एवं व्यावसायिक (TVET) प्रतिभाएँ अन्य मंत्रालयों से।"
 
 lang: "hi"
+sourceContentHash: "1463f5cc1d397718"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

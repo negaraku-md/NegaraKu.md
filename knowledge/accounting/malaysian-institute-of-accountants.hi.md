@@ -33,10 +33,11 @@ faq:
     a: "MIA वित्त मंत्रालय के अधिकार-क्षेत्र के अंतर्गत संचालित होता है। जन-हित संस्थाओं के लेखा-परीक्षण के लिए, प्रतिभूति आयोग के तहत लेखा-परीक्षण निरीक्षण बोर्ड (AOB) द्वारा अतिरिक्त देखरेख की जाती है।"
 
 lang: "hi"
+sourceContentHash: "fb67f2b0a6c79587"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

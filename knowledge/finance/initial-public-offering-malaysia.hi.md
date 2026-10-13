@@ -33,10 +33,11 @@ faq:
     a: "सामान्य तौर पर, आकार और जटिलता के आधार पर, कुल लिस्टिंग लागत ACE बाज़ार के लिए लगभग RM3 मिलियन से RM7 मिलियन और मुख्य बाज़ार के लिए RM5 मिलियन से अधिक होती है। इसमें अंडरराइटिंग, प्लेसमेंट और ब्रोकरेज शुल्क (आमतौर पर शेयरों के मूल्य का 1% से 3%), पेशेवर शुल्क, और Securities Commission (मुख्य बाज़ार) या Bursa Malaysia (ACE बाज़ार) को देय नियामक शुल्क शामिल हैं।"
 
 lang: "hi"
+sourceContentHash: "4baad2385800a2d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

@@ -24,10 +24,11 @@ verificationNeeded:
   - "क्या चालक से जुड़ी कोई विशिष्ट शर्त (जैसे न्यूनतम आयु) लागू होती है, इसकी पुष्टि JPJ या संबंधित ई-हेलिंग संचालक से की जानी चाहिए, क्योंकि यह जिन आधिकारिक पृष्ठों को देखा गया उन पर पुष्टि-योग्य रूप में नहीं बताई गई थी"
 
 lang: "hi"
+sourceContentHash: "10f57c7f87a7c675"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

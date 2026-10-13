@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "नियोक्ता, मानव संसाधन (HR) टीमें और कर्मचारी जो मलेशिया के सेवानिवृत्ति बचत ढाँचे को समझना चाहते हैं।"
 
 lang: "hi"
+sourceContentHash: "c90387d901bf5d08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -47,10 +47,11 @@ verificationNeeded:
   - "2020 के बाद DFTZ की कोई मात्रा या व्यापार-मूल्य सांख्यिकी। किसी आधिकारिक स्रोत से कोई मौजूद नहीं है, और 25 February 2025 को MAHB की सूची-समाप्ति (delisting) के बाद कोई प्राप्त नहीं की जा सकती — यह संरचनात्मक रूप से अप्राप्य है, मात्र न मिलने वाली नहीं।"
 
 lang: "hi"
+sourceContentHash: "b20fb73bf5494f07"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

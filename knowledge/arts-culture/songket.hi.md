@@ -33,9 +33,10 @@ faq:
     a: "परंपरागत रूप से, महिलाएँ। यूनेस्को दर्ज करता है कि सोंगकेत की बुनाई हमेशा महिलाओं के हाथ में रही है, जबकि पुरुष बुनाई के उपकरण बनाकर इस प्रथा में भाग लेते हैं। ज्ञान परिवारों और गाँवों के भीतर हस्तांतरित होता है, और कुछ संस्थान प्रशिक्षण कार्यक्रम भी प्रदान करते हैं।"
 
 lang: "hi"
+sourceContentHash: "054643f8240fb22d"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

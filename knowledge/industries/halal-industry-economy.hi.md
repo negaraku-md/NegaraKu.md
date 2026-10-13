@@ -34,12 +34,13 @@ faq:
     a: "नहीं। हलाल प्रमाणन स्वच्छता, अनुरेखणीयता और गुणवत्ता मानकों का संकेत देता है, और यह क्षेत्र मुस्लिम व ग़ैर-मुस्लिम दोनों उपभोक्ताओं और ग़ैर-मुस्लिम-बहुल निर्यात गंतव्यों के लिए विपणन करता है।"
 
 lang: "hi"
+sourceContentHash: "e86c482e092e1722"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -31,12 +31,13 @@ faq:
     a: "कंपनियों के लिए, व्यावसायिक ज़कात को धारा 44(11A) के तहत कटौती (deduction) माना जाता है और यह समग्र आय के एक-चालीसवें हिस्से (2.5%) तक सीमित होती है, न कि व्यक्तियों की तरह रिंगिट-दर-रिंगिट छूट।"
 
 lang: "hi"
+sourceContentHash: "850b3fce0e9aa149"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

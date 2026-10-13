@@ -28,10 +28,11 @@ verificationNeeded:
   - "क्या P.U.(A) 164/2019 को इस पृष्ठ के लिखे जाने के बाद राजपत्रित किसी उपकरण द्वारा YA2025 से आगे और बढ़ाया गया।"
 
 lang: "hi"
+sourceContentHash: "94db45958fc37cd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

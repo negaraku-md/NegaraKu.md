@@ -30,12 +30,13 @@ faq:
     a: "FIFA ने खिलाड़ियों के योग्यता और नागरिकीकरण दस्तावेज़ों की जालसाज़ी से संबंधित FIFA अनुशासनात्मक संहिता की अनुच्छेद 22 का उल्लेख किया।"
 
 lang: "hi"
+sourceContentHash: "1434e805293f8f32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

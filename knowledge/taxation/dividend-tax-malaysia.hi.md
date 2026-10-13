@@ -33,10 +33,11 @@ faq:
     a: "इसे स्व-निर्धारित किया जाता है। आप निर्धारण-वर्ष 2025 से आगे अपने वार्षिक रिटर्न (निवासी के लिए Form BE, गैर-निवासी के लिए Form M) में लाभांश आय की रिपोर्ट करते हैं, और निर्धारण पर अपने अंतिम कर के साथ 2% चुकाते हैं — स्रोत पर कोई कटौती नहीं होती। YA 2025 से, कंपनियों को शेयरधारकों को एक लाभांश वाउचर भी जारी करना होगा जो सकल लाभांश दर्शाता है, जो आपकी घोषणा का समर्थन करता है।"
 
 lang: "hi"
+sourceContentHash: "046defae2c8d4bbf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

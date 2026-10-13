@@ -40,10 +40,11 @@ faq:
 verificationNeeded:
   - "क्या कोई गज़टित आदेश वर्तमान में पैराग्राफ 16 के तहत वार्षिक भत्ते के लिए तीन-सौवें के अलावा कोई अंश निर्धारित करता है"
 lang: "hi"
+sourceContentHash: "4788a314694d11fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"

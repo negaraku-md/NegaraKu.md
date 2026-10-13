@@ -32,10 +32,11 @@ faq:
     a: "एक संसदीय उत्तर के अनुसार, मलेशिया ने 2018 से मध्य-2025 के बीच चीन को RM6.37 बिलियन मूल्य का 115,359 टन ड्यूरियन निर्यात किया। अकेले 2025 की पहली छमाही में ताज़ा साबुत-ड्यूरियन निर्यात 773 टन (लगभग RM50 मिलियन) तक पहुँच गया।"
 
 lang: "hi"
+sourceContentHash: "31afd040d92018fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

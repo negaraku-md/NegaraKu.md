@@ -29,11 +29,12 @@ faq:
     a: "मलेशियाई संसद में एक मतदान के बाद सिंगापुर 9 अगस्त 1965 को अलग हो गया। पीपल्स एक्शन पार्टी और एलायंस सरकार के बीच आर्थिक नीति और राजनीतिक प्रतिस्पर्धा के आधार को लेकर राजनीतिक तनाव इस अलगाव से पहले का था। 1963 के विलय के समय किसी भी पक्ष ने उस परिणाम की योजना नहीं बनाई थी।"
 
 lang: "hi"
+sourceContentHash: "6eb2de3c5c01ceae"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-07-22
 revision: 0
 revisions:

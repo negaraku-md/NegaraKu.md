@@ -33,10 +33,11 @@ faq:
     a: "यह एक आपराधिक अपराध है। Act 520 की धारा 29 के तहत, धारा 25(1) का उल्लंघन दोष-सिद्धि पर RM10,000 से कम नहीं और RM100,000 से अधिक नहीं के जुर्माने से दंडनीय है। अलग से, धारा 30 के तहत CIDB एक लिखित नोटिस देकर आपको कार्य रोकने का आदेश दे सकता है; उस नोटिस की अनदेखी करना स्वयं एक अपराध है जिस पर RM5,000 तक का जुर्माना है, साथ ही अपराध जारी रहने के हर दिन के लिए RM1,000 तक।"
 
 lang: "hi"
+sourceContentHash: "d4cd90059b767133"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

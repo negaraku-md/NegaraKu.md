@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "मलेशिया में कोई भी व्यक्ति — नागरिक, निवासी, कार्य-पास धारक, छात्र या पर्यटक — जिसे स्थानीय मोबाइल SIM खरीदना या पंजीकृत करना है।"
 
 lang: "hi"
+sourceContentHash: "5f238099826ab02d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

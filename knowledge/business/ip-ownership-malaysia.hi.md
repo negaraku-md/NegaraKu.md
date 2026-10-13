@@ -58,10 +58,11 @@ obligations:
     consequence: "The assignment has no effect against third parties unless recorded in the Register"
 
 lang: "hi"
+sourceContentHash: "41c8e57255d3f72c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

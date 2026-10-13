@@ -43,10 +43,11 @@ verificationNeeded:
   - "MBPJ की वार्षिक परिसर लाइसेंस दरें — MBPJ द्वारा प्रकाशित उप-विधि PDF बिना टेक्स्ट-परत वाली स्कैन छवि है, इसलिए कोई रिंगिट दर मशीन-पठनीय नहीं है"
 
 lang: "hi"
+sourceContentHash: "45a4dcba0cb44c75"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

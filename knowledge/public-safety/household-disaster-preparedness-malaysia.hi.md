@@ -34,10 +34,11 @@ faq:
     a: "हाँ, विशेष रूप से सबाह में। 2015 के राणाऊ भूकंप, तीव्रता 6.0, ने माउंट किनाबालु पर 18 जानें लीं। 23 फरवरी 2026 को, कुदात के पास 678 किमी की गहराई पर 6.8 तीव्रता का एक अपतटीय भूकंप आया जिसमें कोई सुनामी ख़तरा नहीं था। प्रायद्वीप पर बड़े भूकंप का जोखिम कम है।"
 
 lang: "hi"
+sourceContentHash: "aacc807758e00d83"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

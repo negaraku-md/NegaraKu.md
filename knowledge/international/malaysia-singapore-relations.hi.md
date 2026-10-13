@@ -36,10 +36,11 @@ faq:
     a: "23 मई 2008 को, अंतरराष्ट्रीय न्यायालय ने फ़ैसला दिया कि पुलाउ बातु पुतेह (पेड्रा ब्रांका) सिंगापुर का है, मिडल रॉक्स मलेशिया का, और साउथ लेज उस राज्य का जिसके क्षेत्रीय जल में वह स्थित है।"
 
 lang: "hi"
+sourceContentHash: "47c25fa8a007fc27"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

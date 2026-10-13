@@ -32,10 +32,11 @@ faq:
     a: "इंत्रुदु (Intrudu) मलक्का के पुर्तगाली समुदाय का एक वार्षिक जल-त्योहार है जो ऐश वेडनेसडे (लेंट ऋतु की शुरुआत) से पहले वाले रविवार को मनाया जाता है। निवासी और आगंतुक पूरी पुर्तगाली बस्ती में एक-दूसरे पर पानी छिड़कते हैं, और इस उत्सव के साथ ब्रान्यो नृत्य होता है।"
 
 lang: "hi"
+sourceContentHash: "6be0336bb559138c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -34,10 +34,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या SSM ने PD 10/2024 के बाद कोई संशोधन या अतिरिक्त प्रैक्टिस डायरेक्टिव जारी किया है जो चरण 2 या चरण 3 की सीमाओं को बदलता हो"
 
 lang: "hi"
+sourceContentHash: "0adbb423bee3af8f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

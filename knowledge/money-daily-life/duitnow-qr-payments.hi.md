@@ -26,10 +26,11 @@ verificationNeeded:
   - "शुल्क और लेनदेन-सीमा के आँकड़े लेखन के समय सीधे आधिकारिक PayNet वेबसाइट से लिए गए हैं; PayNet बताता है कि वास्तविक शुल्क प्रत्येक बैंक/ई-वॉलेट के अनुसार भिन्न हो सकते हैं"
 
 lang: "hi"
+sourceContentHash: "1b31c1f5d1b3682f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

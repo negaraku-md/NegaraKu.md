@@ -34,12 +34,13 @@ faq:
     a: "हाँ, हालाँकि इसे तेज़ी से लुप्तप्राय माना जाता है। क्रिस्तांग व्यंजन मेलाका में पुर्तगाली-एशियाई यूरेशियन समुदाय की परंपरा है, जिसमें kari debal (devil's curry) जैसे व्यंजन हैं जो सिरका, सरसों के दाने और कैंडलनट का उपयोग करते हैं। मेलाका में कई रेस्तराँ और खाना पकाने की कक्षाएँ इस परंपरा को संरक्षित करने का प्रयास कर रही हैं क्योंकि युवा पीढ़ियाँ इसे कम-से-कम विरासत में ले रही हैं।"
 
 lang: "hi"
+sourceContentHash: "b5facc6867b131b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 verificationNeeded:

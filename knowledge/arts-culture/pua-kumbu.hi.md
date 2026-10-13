@@ -34,10 +34,11 @@ faq:
     a: "इसे जन्म से मृत्यु तक जीवन के संस्कार-अवसरों में, पवित्र अनुष्ठानों एवं रोग-मुक्ति अनुष्ठानों में प्रयोग किया जाता है, और यह पारंपरिक रूप से Iban योद्धा-परंपरा से बँधा है। इसकी आकृतियाँ महिलाओं के सारोंग, पुरुषों की लँगोटी और ओझा (shaman) के वस्त्रों में भी बुनी जाती हैं।"
 
 lang: "hi"
+sourceContentHash: "1d30a78fcc6cce68"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "ऐसे पाठक जो वर्णनात्मक रूप से यह समझना चाहते हैं कि एक मलेशियाई राज्य सरकार किस प्रकार संगठित है — विद्यार्थी, सिविल सेवक, पत्रकार, और कोई भी जो यह समझने की कोशिश कर रहा है कि कुछ राज्यों में मेंतेरी बेसार और इस्ताना नेगेरी क्यों हैं जबकि अन्य में मुख्यमंत्री और एक राज्यपाल।"
 
 lang: "hi"
+sourceContentHash: "0eb897c5d29d626d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

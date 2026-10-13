@@ -28,10 +28,11 @@ faq:
     a: "2020 के निर्णय के तहत, टोल दरें 1 फरवरी 2020 से 18% घटा दी गईं, और 2058 तक की विस्तारित रियायत अवधि भर में कोई टोल वृद्धि निर्धारित नहीं है।"
 
 lang: "hi"
+sourceContentHash: "6a089759a8d1ba8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

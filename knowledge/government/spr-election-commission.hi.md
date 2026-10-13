@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो मलेशिया में चुनाव कराने वाले निकाय की संवैधानिक स्थिति को समझना चाहता है — छात्र, शोधकर्ता, पत्रकार और सामान्य पाठक — साथ ही वे संवैधानिक प्रावधान जो निर्वाचन आयोग के अधिदेश, सदस्यता और कार्यकाल-संरक्षण को निर्धारित करते हैं।"
 
 lang: "hi"
+sourceContentHash: "6a46ae533ead9e08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

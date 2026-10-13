@@ -25,9 +25,10 @@ faq:
   - q: "क्या JTKSM पूरे मलेशिया को कवर करती है?"
     a: "नहीं। JTKSM प्रायद्वीपीय मलेशिया को कवर करती है। सबा और सारावाक के अपने अलग श्रम विभाग हैं।"
 lang: "hi"
+sourceContentHash: "1575ce3d33c667d0"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

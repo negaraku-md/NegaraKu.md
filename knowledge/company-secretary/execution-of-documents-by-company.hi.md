@@ -34,10 +34,11 @@ faq:
     a: "धारा 67(1) के अंतर्गत, कोई दस्तावेज़ विलेख के रूप में वैध रूप से निष्पादित होता है यदि वह कंपनी द्वारा विधिवत निष्पादित किया गया हो और विलेख के रूप में सुपुर्द किया गया हो। धारा 67(2) यह उपधारणा करती है कि विलेख के वैध रूप से निष्पादित होते ही सुपुर्दगी हो गई है, जब तक कि इसके विपरीत आशय सिद्ध न हो।"
 
 lang: "hi"
+sourceContentHash: "11a3057b821bdc34"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

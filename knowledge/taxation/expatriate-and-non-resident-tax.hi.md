@@ -41,10 +41,11 @@ verificationNeeded:
   - "Schedule 1 Part XVIII किसी अनुमोदित प्रोत्साहन योजना के अंतर्गत किसी प्रमुख पद पर निवासी ग़ैर-नागरिक के लिए दर को 20% से अधिक नहीं पर सीमित करता है — लागू दर योजना-दर-योजना निर्धारित है और सत्यापित नहीं की गई"
 
 lang: "hi"
+sourceContentHash: "361de000de2978ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

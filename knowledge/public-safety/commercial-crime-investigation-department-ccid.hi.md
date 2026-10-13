@@ -32,10 +32,11 @@ faq:
     a: "NSRC (राष्ट्रीय धोखाधड़ी प्रतिक्रिया केंद्र) राष्ट्रीय वित्तीय अपराध रोकथाम केंद्र (NFCC), RMP, Bank Negara Malaysia, MCMC तथा वित्तीय संस्थानों और दूरसंचार उद्योग का एक संयुक्त प्रयास है। इसकी घोषणा प्रधानमंत्री विभाग ने 14 अक्टूबर 2022 को 997 हॉटलाइन के ज़रिए ऑनलाइन वित्तीय धोखाधड़ी के विरुद्ध एक त्वरित-प्रतिक्रिया केंद्र के रूप में की थी। CCID इस अभियान में शामिल RMP की इकाइयों में से एक है।"
 
 lang: "hi"
+sourceContentHash: "9fa83d15365c9fba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

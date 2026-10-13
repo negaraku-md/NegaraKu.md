@@ -41,10 +41,11 @@ faq:
     a: "सटीक तिथि विवादित है। कुछ रिकॉर्ड राष्ट्रीय संचालक निकाय की स्थापना 1926 में रखते हैं, जबकि अन्य 1933 का उल्लेख करते हैं, जब सिंगापुर-आधारित फुटबॉल एसोसिएशन ऑफ मलाया ने मलाया कप का संचालन संभाला। जो स्पष्ट और सत्यापन-योग्य है वह है राष्ट्रीय संचालक निकाय, AFC के सदस्य, और 1984 में AFF के संस्थापक के रूप में इसकी आज की भूमिका।"
 
 lang: "hi"
+sourceContentHash: "ee9fdc30adb8894c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

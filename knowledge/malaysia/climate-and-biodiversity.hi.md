@@ -18,9 +18,10 @@ keyTakeaways:
   - "प्रायद्वीपीय मलेशिया और बोर्नियो (सबाह और सारावाक) दक्षिण चीन सागर द्वारा अलग किए गए हैं और भिन्न प्रजाति-समूहों की मेज़बानी करते हैं, जिसमें बोर्नियो देश के अधिकांश पीट दलदल और मैंग्रोव वन रखता है।"
 appliesTo: "राष्ट्रीय"
 lang: "hi"
+sourceContentHash: "9a6c3f25f0c58105"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

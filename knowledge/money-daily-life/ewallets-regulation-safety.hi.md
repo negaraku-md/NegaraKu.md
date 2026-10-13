@@ -34,10 +34,11 @@ faq:
     a: "हाँ। चारों — TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd (Boost), GPay Network (M) Sdn Bhd (GrabPay) और ShopeePay Malaysia Sdn Bhd — BNM की आधिकारिक सूची में गैर-बैंक ई-मनी जारीकर्ता के रूप में सूचीबद्ध हैं।"
 
 lang: "hi"
+sourceContentHash: "3baa675be6fcede6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

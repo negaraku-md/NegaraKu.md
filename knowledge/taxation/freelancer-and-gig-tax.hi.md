@@ -40,10 +40,11 @@ verificationNeeded:
   - "क्या प्लेटफ़ॉर्म संचालकों को व्यक्तिगत गिग वर्करों को भुगतान के लिए स्व-बिल्ड e-Invoice (self-billed e-Invoice) जारी करना आवश्यक है, और किस चरण में, इसे वर्तमान e-Invoice विशिष्ट दिशानिर्देश के विरुद्ध पुष्ट किया जाना चाहिए"
 
 lang: "hi"
+sourceContentHash: "4902766a1bf0ff6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

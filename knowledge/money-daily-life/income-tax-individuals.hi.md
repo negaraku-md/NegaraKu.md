@@ -27,10 +27,11 @@ verificationNeeded:
   - "वार्षिक दाखिल समय-सीमा (30 April मैनुअल / 15 May e-Filing) मूल्यांकन वर्ष 2025 के लिए LHDN के अपने दिनांकित मीडिया वक्तव्य से पुष्ट है; LHDN हर वर्ष एक नया दाखिल कार्यक्रम जारी करता है, इसलिए किसी भिन्न मूल्यांकन वर्ष के लिए भरोसा करने से पहले वर्तमान वर्ष की तिथियाँ फिर से जाँच लें।"
 
 lang: "hi"
+sourceContentHash: "027e674e99f0cfb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

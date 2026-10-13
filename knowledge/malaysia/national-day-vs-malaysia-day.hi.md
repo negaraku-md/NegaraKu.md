@@ -29,11 +29,12 @@ faq:
     a: "मलेशिया दिवस संघ के गठन के दशकों बाद ही एक देशव्यापी संघीय सार्वजनिक अवकाश बना। इससे पहले, 16 सितंबर केवल कुछ क्षेत्रों में अवकाश था और राष्ट्रीय स्तर पर एकसमान रूप से नहीं मनाया जाता था, यद्यपि यह 1963 से संघ के गठन की तिथि रही थी।"
 
 lang: "hi"
+sourceContentHash: "25064de19f113798"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

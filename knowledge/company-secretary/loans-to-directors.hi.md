@@ -55,10 +55,11 @@ obligations:
     consequence: "Authorising directors are jointly and severally liable to indemnify the company against any loss under s.224(6)"
 
 lang: "hi"
+sourceContentHash: "69f84a6ade0b88b1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

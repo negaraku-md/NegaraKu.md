@@ -31,12 +31,13 @@ faq:
     a: "सभी धार्मिक स्थलों पर अपने कंधे और घुटने ढकें। मस्जिदें इसके अतिरिक्त अपेक्षा करती हैं कि महिलाएँ अपने बाल ढकें और सभी जूते उतारें। हिंदू और चीनी मंदिरों में भी भीतरी गर्भगृह में प्रवेश से पहले जूते उतारने होते हैं।"
 
 lang: "hi"
+sourceContentHash: "93767c9cc05e1d13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

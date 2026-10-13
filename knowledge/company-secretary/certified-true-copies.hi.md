@@ -33,10 +33,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या SSM ने कंपनी सचिवों द्वारा दस्तावेज़ों के प्रमाणन पर कोई व्यवहार निर्देश या दिशानिर्देश जारी किया है — ssm.com.my पर कुछ नहीं मिला"
 
 lang: "hi"
+sourceContentHash: "9f90e2daf3ffcc00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

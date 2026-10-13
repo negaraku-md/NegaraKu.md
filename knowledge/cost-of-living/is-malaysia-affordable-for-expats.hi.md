@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "प्रवासी, दूरस्थ कार्यकर्ता और नए आने वाले जो स्थानांतरण से पहले एक पश्चिमी वेतन और खर्च आधार-रेखा के मुक़ाबले मलेशिया की रहन-सहन-लागत तौल रहे हैं।"
 
 lang: "hi"
+sourceContentHash: "4843205b62ed2e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

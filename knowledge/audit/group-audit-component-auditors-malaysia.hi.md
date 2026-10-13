@@ -30,10 +30,11 @@ faq:
     a: "यदि घटक की जानकारी या लेखापरीक्षकों तक पहुँच प्रतिबंधित हो और घटक महत्वपूर्ण हो, तो समूह-लेखापरीक्षक पर्याप्त उपयुक्त साक्ष्य प्राप्त करने में असमर्थ हो सकता है, जिससे समूह वित्तीय विवरणों पर एक तहफ़्फ़ुज़्ड (qualified) राय या राय देने से इनकार (disclaimer) हो सकता है।"
 
 lang: "hi"
+sourceContentHash: "871221203173410a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

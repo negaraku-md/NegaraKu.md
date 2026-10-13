@@ -31,10 +31,11 @@ faq:
     a: "प्राप्तकर्ताओं को एक राष्ट्रीय सम्मान-पत्र, RM60,000 नकद, RM500,000 तक मूल्य का प्रकाशन आवंटन (50,000 प्रतियों तक), सरकारी अस्पतालों में निःशुल्क प्रथम-श्रेणी-वार्ड चिकित्सा, और RM5,000 का मासिक भत्ता मिलता है।"
 
 lang: "hi"
+sourceContentHash: "c27d87b5dbf2077e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

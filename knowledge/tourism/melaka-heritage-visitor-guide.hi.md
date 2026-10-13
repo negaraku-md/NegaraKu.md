@@ -40,10 +40,11 @@ faq:
     a: "संग्रहालय, 48 और 50 जालान तुन तान चेंग लॉक पर, मंगलवार को बंद रहता है। यह कार्यदिवसों (मंगलवार को छोड़कर) में सुबह 10:00 बजे से शाम 4:15 बजे तक और सप्ताहांत में सुबह 10:00 बजे से शाम 4:45 बजे तक खुलता है। चूँकि समय और क़ीमतें बदल सकती हैं, जाने से पहले संग्रहालय की आधिकारिक साइट पर पुष्टि करें।"
 
 lang: "hi"
+sourceContentHash: "e6af87197b8f50e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

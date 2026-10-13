@@ -32,12 +32,13 @@ verificationNeeded:
   - "सटीक तिथियाँ और आँकड़े (प्रधानमंत्रित्व, GST दर, मामले के आँकड़े, सज़ा) प्रधानमंत्री कार्यालय, न्यायालयों और चुनाव आयोग के विरुद्ध पुष्ट किए जाने हैं।"
 
 lang: "hi"
+sourceContentHash: "b57664a883ee2959"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

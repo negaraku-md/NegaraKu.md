@@ -46,10 +46,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या उसके बाद से Income Tax Act 1967 की धारा 65B के तहत JS-SEZ, National Global Services Hub या New Investment Incentive Framework की दरें निर्धारित करने वाला कोई अधीनस्थ क़ानून राजपत्रित हुआ है"
 
 lang: "hi"
+sourceContentHash: "667fe9c1898504ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

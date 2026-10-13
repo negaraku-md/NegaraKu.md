@@ -44,10 +44,11 @@ verificationNeeded:
   - "JS-SEZ स्मार्ट लॉजिस्टिक्स कॉम्प्लेक्स ITA के लिए MIDA जिस सांविधिक आधार पर निर्भर है उसकी पुष्टि करें — दिशानिर्देश P.U.(A) 113/2006 का हवाला देता है, जो 2011-पूर्व का एक साधन है जो AGC की विश्वसनीय कवरेज के बाहर है, और इसका प्रवर्तनीय पाठ पुनः प्राप्त नहीं हुआ"
 
 lang: "hi"
+sourceContentHash: "2c106e0d7c225687"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -32,10 +32,11 @@ faq:
     a: "EU वनोन्मूलन विनियमन उत्पादों को 'वनोन्मूलन-मुक्त' तभी परिभाषित करता है जब वे ऐसी भूमि पर उगाए गए हों जिसका 31 दिसंबर 2020 के बाद वनोन्मूलन नहीं हुआ (विनियमन (EU) 2023/1115, अनुच्छेद 2)। इसके लिए भूखंड-स्तरीय भू-स्थान (बहुभुज मानचित्रण) की आवश्यकता होती है, जिसे छोटे, अक्सर वृद्ध, दूरदराज़ के किसानों के लिए स्वयं तैयार करना तकनीकी रूप से कठिन है।"
 
 lang: "hi"
+sourceContentHash: "88d679107671675c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

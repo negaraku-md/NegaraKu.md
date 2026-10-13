@@ -33,10 +33,11 @@ faq:
     a: "परिसर लाइसेंस, CCC और BOMBA अग्नि प्रमाणपत्र के अतिरिक्त, जोखिमपूर्ण या खतरनाक माल भंडारण Department of Occupational Safety and Health (DOSH) को शामिल कर लेता है — उदाहरण के लिए थोक खतरनाक पदार्थों के लिए औद्योगिक बड़ी-दुर्घटना जोखिम नियंत्रण व्यवस्था — और Department of Environment (DOE) को जहाँ अनुसूचित अपशिष्ट या नियंत्रित रसायन शामिल हों। यदि माल शुल्क-योग्य भी है और बॉन्ड के तहत भंडारित है, तो Customs लाइसेंस शर्तें भी लागू होती हैं। इन अनुमोदनों का दायरा जल्दी तय करें, क्योंकि ये पट्टे पर हस्ताक्षर करने से पहले ही भवन और स्थान को निर्धारित कर सकते हैं।"
 
 lang: "hi"
+sourceContentHash: "25fea0864e2d1d42"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

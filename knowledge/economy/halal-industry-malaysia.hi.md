@@ -29,12 +29,13 @@ faq:
     a: "मलेशिया के हलाल उत्पादों का निर्यात 2024 में RM61.79 बिलियन तक पहुँचा, जो 2023 के RM53.72 बिलियन से 15% अधिक है (MITI)। जनवरी–सितंबर 2024 की अवधि के लिए, निर्यात का मूल्य RM45.04 बिलियन था, जबकि 2023 की इसी अवधि में यह RM39.36 बिलियन था (MITI/MIDA)।"
 
 lang: "hi"
+sourceContentHash: "1b16a223e725d8d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

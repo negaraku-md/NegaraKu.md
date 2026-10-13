@@ -34,10 +34,11 @@ faq:
     a: "Act (थर्ड-पार्टी) कवर क़ानूनी न्यूनतम है और केवल थर्ड-पार्टी चोट या मृत्यु के लिए भुगतान करता है। थर्ड-पार्टी, अग्नि और चोरी कवर जोड़ता है यदि आपकी अपनी कार जल जाए या चोरी हो जाए। व्यापक (Comprehensive) सबसे विस्तृत है, जो आपके अपने वाहन को हुई आकस्मिक क्षति के लिए भी भुगतान करता है।"
 
 lang: "hi"
+sourceContentHash: "f3e95ab7db734acf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

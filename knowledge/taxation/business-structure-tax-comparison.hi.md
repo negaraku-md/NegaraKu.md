@@ -41,10 +41,11 @@ verificationNeeded:
   - "पुष्टि करें कि किसी सेवा-अनुबंध के बाहर गैर-कार्यकारी निदेशक को भुगतान किए गए निदेशक-शुल्क EPF प्रयोजनों के लिए मज़दूरी हैं या नहीं; EPF पुष्टि करता है कि वेतनभोगी निदेशक अंशदान करते हैं, परंतु शुल्क को सीधे संबोधित नहीं करता"
 
 lang: "hi"
+sourceContentHash: "b476e81782042301"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "किसी को भी जिसे मलेशिया के रबड़ क्षेत्र का एक अभिविन्यास-स्तरीय, स्रोत-समर्थित चित्र चाहिए: बागान फ़सल, व्यापार प्रवाह और दस्ताना विनिर्माण उद्योग जो अब इस पर हावी है।"
 
 lang: "hi"
+sourceContentHash: "0020c8d13fc47636"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

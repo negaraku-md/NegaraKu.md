@@ -19,9 +19,10 @@ keyTakeaways:
   - "जल्दी प्रवेश (आयु से कम) और वर्ष 1 का स्थगन दोनों अलग-अलग आधिकारिक नीतियों के रूप में मौजूद हैं — आवेदन JPN के माध्यम से किए जाते हैं, सामान्य idMe प्रणाली के माध्यम से नहीं, और स्थगन एक विशेषाधिकार है, स्वतः अधिकार नहीं"
 appliesTo: "मलेशियाई नागरिक माता-पिता या अभिभावक जिनका बच्चा सरकारी प्राथमिक स्कूल के वर्ष 1 या सरकारी माध्यमिक स्कूल के फॉर्म 1 में प्रवेश करने वाला है।"
 lang: "hi"
+sourceContentHash: "0c89415b8941ca0c"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

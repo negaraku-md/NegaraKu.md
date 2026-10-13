@@ -32,12 +32,13 @@ faq:
     a: "नहीं। शेष को फराइद के अनुसार वितरित करने से पहले संपत्ति से पहले अंत्येष्टि-प्रबंधन लागत, ऋण और वसीयतों का निपटान किया जाता है।"
 
 lang: "hi"
+sourceContentHash: "8922f0a1759aa852"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

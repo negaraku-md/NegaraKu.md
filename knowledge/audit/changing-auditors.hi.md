@@ -41,10 +41,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या SSM धारा 278 की हटाने की सूचना और धारा 282 की त्यागपत्र सूचना के लिए कोई विशिष्ट फॉर्म निर्धारित करता है, और वर्तमान ROC शुल्क तालिका (ROC Table of Fees) के विरुद्ध लागू दाखिला शुल्क"
 
 lang: "hi"
+sourceContentHash: "c932d3246ad62000"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

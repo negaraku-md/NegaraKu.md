@@ -31,10 +31,11 @@ faq:
     a: "उन्हें मलेशियाई कंपनी आयोग (SSM) के पास मलेशियाई व्यापार रिपोर्टिंग प्रणाली (MBRS) के ज़रिए दाखिल किया जाता है, जिसके लिए XBRL प्रारूप में वित्तीय विवरण आवश्यक हैं। MBRS, MFRS और MPERS दोनों ढाँचों का समर्थन करता है और समेकित एवं पृथक रिपोर्टिंग स्तंभ प्रदान करता है।"
 
 lang: "hi"
+sourceContentHash: "582764d653c4df0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

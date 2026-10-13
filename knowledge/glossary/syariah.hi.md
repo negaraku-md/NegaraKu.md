@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "वे सभी जो मलेशियाई कानून में 'Syariah' शब्द का अर्थ और यह समझना चाहते हैं कि Syariah अदालतों का अधिकार-क्षेत्र एक राज्य से दूसरे राज्य में क्यों भिन्न होता है।"
 
 lang: "hi"
+sourceContentHash: "2bb646d77c8ab722"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

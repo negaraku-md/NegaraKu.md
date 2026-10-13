@@ -39,10 +39,11 @@ verificationNeeded:
   - "पुष्टि करें कि किसी गैर-निवासी कर्मचारी पर लागू PCB कटौती दर, MTD Rules की दृष्टि से, Schedule 1 Part I para 1A की समान दर है, न कि केवल अंतर्निहित प्रभार की"
 
 lang: "hi"
+sourceContentHash: "8996f0535326898f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "व्यवसाय-स्वामी, वित्त टीमें और उपभोक्ता जो मलेशिया की अप्रत्यक्ष कर प्रणाली को समझना चाहते हैं।"
 
 lang: "hi"
+sourceContentHash: "7438db08db3298e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

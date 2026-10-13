@@ -35,10 +35,11 @@ faq:
     a: "धारा 14 में पहली बार के अपराध के लिए दो वर्ष तक का कारावास या RM50,000 तक का जुर्माना या दोनों का प्रावधान है, और दूसरे या बाद के अपराध के लिए पाँच वर्ष तक का कारावास या RM100,000 का जुर्माना। जो माता-पिता या संरक्षक जानबूझकर उल्लंघन होने देते हैं, उन्हें भी दंडित किया जा सकता है।"
 
 lang: "hi"
+sourceContentHash: "4ad258e80f1299ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

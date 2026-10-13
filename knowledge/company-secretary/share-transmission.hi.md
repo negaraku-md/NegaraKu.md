@@ -57,10 +57,11 @@ obligations:
     consequence: "RM20,000 से अनधिक जुर्माना और निरंतर अपराध के लिए प्रति दिन RM500 से अनधिक अतिरिक्त जुर्माना"
 
 lang: "hi"
+sourceContentHash: "bd60a59f70660bf4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

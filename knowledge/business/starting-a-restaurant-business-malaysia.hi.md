@@ -33,10 +33,11 @@ faq:
     a: "राष्ट्रीय न्यूनतम वेतन RM1,700 प्रति माह है, जो न्यूनतम वेतन आदेश 2024 द्वारा निर्धारित है। यह 1 फ़रवरी 2025 से पाँच या अधिक कर्मचारियों वाले नियोक्ताओं पर, और 1 अगस्त 2025 से बाक़ी सभी नियोक्ताओं पर लागू हुआ — इसलिए अगस्त 2025 से यह आकार की परवाह किए बिना अनिवार्य रूप से हर रेस्तराँ को कवर करता है।"
 
 lang: "hi"
+sourceContentHash: "8140436515390d62"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

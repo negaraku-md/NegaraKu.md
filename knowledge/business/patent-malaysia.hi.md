@@ -56,10 +56,11 @@ obligations:
     consequence: "पेटेंट समाप्त हो जाता है; संबंधित वर्ष की फीस के 100% के बराबर अधिभार (surcharge) के भुगतान पर छह महीने की छूट-अवधि लागू होती है"
 
 lang: "hi"
+sourceContentHash: "00f4afd78d3da72e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -30,10 +30,11 @@ faq:
     a: "वैश्विक सूचकांक एक प्रवासी या गतिशीलता टोकरी की क़ीमत आँकते हैं — आयातित वस्तुएँ, प्रवासी आवास, अंतरराष्ट्रीय स्कूली शिक्षा — और अक्सर लागतों को अमेरिकी डॉलर में व्यक्त करते हैं। मलेशिया के अपने उपभोक्ता मूल्य आँकड़े एक घरेलू परिवार टोकरी पर नज़र रखते हैं, इसलिए दोनों माप अलग-अलग चलते हैं।"
 
 lang: "hi"
+sourceContentHash: "a05c3ce9b85bce7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

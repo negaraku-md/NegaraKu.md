@@ -35,12 +35,13 @@ faq:
     a: "हाँ, संरचनात्मक दृष्टि से। पुलिस अधिनियम 1967 एक एकल बल स्थापित करता है जिसे मलेशिया में और उसके सम्पूर्ण क्षेत्र में नियोजित किया जाता है, जो पुलिस महानिरीक्षक के नेतृत्व वाली एक कमान-शृंखला के अधीन है। आधिकारिक सरकारी पोर्टल (malaysia.gov.my) भी धारा 3(3) के अंतर्गत बल की भूमिकाओं में से एक के रूप में सुरक्षा-आसूचना के संग्रह का उल्लेख करता है।"
 
 lang: "hi"
+sourceContentHash: "2fcb4ae755f95546"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -38,10 +38,11 @@ faq:
     a: "SSM उन नियमों का प्रशासन और प्रवर्तन करता है, पर वे कानून से उद्भूत होते हैं। वार्षिक विवरणी Companies Act 2016 के तहत आवश्यक है, और चुकता पूँजी की अवधारणा उसी अधिनियम से आती है। SSM दाखिले प्राप्त करता है, प्रक्रिया और दंड पर Practice Directives जारी करता है, और चूककर्ताओं के विरुद्ध प्रवर्तन कार्रवाई करता है।"
 
 lang: "hi"
+sourceContentHash: "48b70b131a01ea95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -31,12 +31,13 @@ verificationNeeded:
   - "सटीक तिथियों और सांसद संख्याओं (दलबदलू, राजा के परामर्श) की आधिकारिक अभिलेखों और समकालीन रिपोर्टिंग के मुकाबले पुष्टि की जानी चाहिए; होटल बैठक के सटीक दिन (21–23 फरवरी) पर स्रोत थोड़े भिन्न हैं।"
 
 lang: "hi"
+sourceContentHash: "d475393c9a7ff6eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

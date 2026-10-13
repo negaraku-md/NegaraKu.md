@@ -34,12 +34,13 @@ seoTitle: "बहासा मेलायू: अनुच्छेद 152 क�
 socialTitle: "बहासा मेलायू राष्ट्रभाषा कैसे बनी — और जावी से रूमी तक कैसे पहुँची"
 
 lang: "hi"
+sourceContentHash: "1578825625379e44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -36,12 +36,13 @@ faq:
     a: "प्रक्रिया नियमावली निर्धारित करती है कि सक्षम प्राधिकरण किसी तृतीय पक्ष या सलाहकार जैसे मध्यस्थ से गुज़रे बिना कंपनी या आवेदक से सीधे निपटेगा। सलाहकार दस्तावेज़ तैयार करने में मदद कर सकते हैं, लेकिन आवेदन और आधिकारिक संचार आवेदक व JAKIM/MAIN/JAIN के बीच ही रहते हैं।"
 
 lang: "hi"
+sourceContentHash: "7bb5b6fb5326f994"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

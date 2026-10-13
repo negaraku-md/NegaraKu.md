@@ -29,12 +29,13 @@ faq:
     a: "दोनों पक्षों ने जनवरी 2025 में एक बैठक के बाद सहमति दी कि Petros सारावाक की गैस समग्रक बनेगी (LNG को छोड़कर), और Petros ने 1 मार्च 2025 को समग्रक के रूप में कार्य करना शुरू किया। हालाँकि, विधिक व्याख्या और वाणिज्यिक विवरणों में कई मतभेद अभी भी वार्ता के अधीन हैं।"
 
 lang: "hi"
+sourceContentHash: "9fa405873e618d18"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -37,10 +37,11 @@ verificationNeeded:
   - "पुष्टि करें कि बर्सा मलेशिया (Bursa Malaysia) की मुख्य बाज़ार (Main Market), ACE बाज़ार और LEAP बाज़ार में मलेशियाई प्रयोजनों के लिए 'सूचीबद्ध इकाई' को कैसे परिभाषित किया जाता है, और क्या LEAP बाज़ार जारीकर्ता ISA 701 अपेक्षा के दायरे में आते हैं"
 
 lang: "hi"
+sourceContentHash: "573f87ce15adf16f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

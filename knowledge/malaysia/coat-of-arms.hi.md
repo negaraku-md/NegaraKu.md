@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "छात्र, शिक्षक, सरकारी कर्मचारी, पत्रकार और वे सभी जो पासपोर्ट, सिक्के, सरकारी पत्र या किसी आधिकारिक भवन पर जाता नेगारा देखते हैं और प्रत्येक तत्व का अर्थ जानना चाहते हैं।"
 
 lang: "hi"
+sourceContentHash: "d089f6e067d44f67"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

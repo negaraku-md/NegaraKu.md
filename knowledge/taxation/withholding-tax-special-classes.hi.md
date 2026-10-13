@@ -49,10 +49,11 @@ obligations:
     consequence: "धारा 109B(2) के अंतर्गत 10 प्रतिशत की वृद्धि और धारा 39(1)(j) के अंतर्गत व्यय का अस्वीकरण"
 
 lang: "hi"
+sourceContentHash: "096e6362dcef465c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

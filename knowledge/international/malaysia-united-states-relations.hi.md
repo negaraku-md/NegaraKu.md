@@ -32,10 +32,11 @@ faq:
     a: "USTR ने 2025 में कुल द्विपक्षीय वस्तु-व्यापार अनुमानित US$88.5 बिलियन (US$28.9 बिलियन अमेरिकी निर्यात, US$59.7 बिलियन आयात) रखा। अमेरिकी जनगणना डेटा ने 2024 के द्विपक्षीय वस्तु-व्यापार को US$80 बिलियन के करीब रखा था, और मलेशिया के विदेश मंत्रालय ने 2024 के लिए कुल व्यापार RM324.91 बिलियन (US$71.39 बिलियन) का हवाला दिया।"
 
 lang: "hi"
+sourceContentHash: "6acdeba029dc19eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

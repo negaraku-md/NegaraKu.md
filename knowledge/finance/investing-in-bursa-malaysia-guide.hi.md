@@ -34,10 +34,11 @@ faq:
     a: "खरीद और बिक्री दोनों पर तीन शुल्क लागू होते हैं: ब्रोकर का कमीशन (आपके ब्रोकर द्वारा निर्धारित), लेनदेन मूल्य का 0.03% का एक क्लियरिंग शुल्क जो RM1,000 तक सीमित है, और प्रति RM1,000 (या उसके अंश) मूल्य पर RM1 की स्टाम्प ड्यूटी जो RM1,000 तक सीमित है। Bursa Malaysia पर सूचीबद्ध शेयरों पर ब्रोकरेज वर्तमान में सेवा कर से छूट प्राप्त है।"
 
 lang: "hi"
+sourceContentHash: "2aa2d9243406a229"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

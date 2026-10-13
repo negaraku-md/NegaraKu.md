@@ -34,10 +34,11 @@ faq:
     a: "मलेशिया की आख़िरी किंग्स कप टीम रेगु खिताब जीत 1988 में थी। 2024 तक वह इंतज़ार लगभग 36 वर्ष तक पहुँच गया जब मलेशिया नाखोन रातचासिमा में मेज़बान थाईलैंड से 0-2 से हार गया।"
 
 lang: "hi"
+sourceContentHash: "a468b0e147901427"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

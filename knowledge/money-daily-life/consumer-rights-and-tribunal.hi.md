@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "मलेशिया में वे उपभोक्ता जिन्होंने सामान या सेवाएँ ख़रीदीं और जानना चाहते हैं कि उनके क्या अधिकार हैं और कम-लागत का दावा कैसे लाएँ — न कि दावे का बचाव करने वाले व्यवसाय, और न ही वे विवाद जिन्हें न्यायाधिकरण स्पष्ट रूप से बहिष्कृत करता है।"
 
 lang: "hi"
+sourceContentHash: "b22efe69c2b27bab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

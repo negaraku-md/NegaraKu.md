@@ -31,10 +31,11 @@ faq:
     a: "प्रायद्वीपीय समुद्री उद्यान मत्स्य अधिनियम 1985 के तहत राजपत्रित हैं। यह द्वीप से दो समुद्री मील का संरक्षण क्षेत्र स्थापित करता है जहाँ घोंसला बनाते कछुओं को परेशान करना और नवजात बच्चों को इकट्ठा करना जैसी गतिविधियाँ निषिद्ध हैं।"
 
 lang: "hi"
+sourceContentHash: "3ba84882f4818881"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

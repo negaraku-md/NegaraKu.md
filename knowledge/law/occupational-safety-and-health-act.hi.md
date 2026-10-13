@@ -30,10 +30,11 @@ faq:
     a: "घातक दुर्घटनाओं, गंभीर चोटों या खतरनाक घटनाओं की सूचना निकटतम DOSH कार्यालय को सबसे तेज़ माध्यम से देनी होगी, और NADOPOD 2004 के तहत फॉर्म JKKP 6 को 7 दिनों के भीतर जमा करना होगा।"
 
 lang: "hi"
+sourceContentHash: "e58617c97047711f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

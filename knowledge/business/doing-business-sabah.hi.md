@@ -44,10 +44,11 @@ verificationNeeded:
   - "POIC Lahad Datu और SOGIP Sipitang पर वर्तमान किरायेदार संख्या और प्रतिबद्ध निवेश — प्रचालक साइटों पर आँकड़े 2020 से 2022 के बीच के और आकांक्षात्मक कुल हैं"
 
 lang: "hi"
+sourceContentHash: "91f5a7840f804778"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -32,10 +32,11 @@ faq:
     a: "सरकार ज़ोर देकर कहती है कि ऐसा नहीं है। Rakan KKM जैसी पहलों को सार्वजनिक क्षेत्र में विशेषज्ञों को बनाए रखने के एक मॉडल के रूप में प्रस्तुत किया जाता है, निजीकरण के रूप में नहीं, हालाँकि कुछ पर्यवेक्षक इसके दीर्घकालिक प्रभावों के प्रति सतर्क बने हुए हैं।"
 
 lang: "hi"
+sourceContentHash: "f5aff2ea91b18549"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

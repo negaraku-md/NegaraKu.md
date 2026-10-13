@@ -31,10 +31,11 @@ faq:
     a: "दो विलंबों के बाद, यह 30 दिसंबर 2026 से बड़े और मध्यम संचालकों पर, और 30 जून 2027 से सूक्ष्म व छोटे उद्यमों पर लागू होता है। वनों-कटाई कट-ऑफ़ तिथि 31 दिसंबर 2020 है।"
 
 lang: "hi"
+sourceContentHash: "7368557f33452c6b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

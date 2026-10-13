@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "मलेशियाई नौकरी का ऑफ़र रखने वाले विदेशी नागरिक, और मलेशिया में पहले से एम्प्लॉयमेंट पास रखने या उसका नवीनीकरण करने वाले सभी लोग।"
 
 lang: "hi"
+sourceContentHash: "1684527edc9ec752"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

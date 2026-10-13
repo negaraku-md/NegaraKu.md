@@ -36,10 +36,11 @@ faq:
     a: "अपने कंधे और घुटने ढकें। यदि आपके कपड़े बहुत खुले हों तो प्रवेश द्वार पर आमतौर पर उधार लेने या किराए पर लेने के लिए सारोंग उपलब्ध होते हैं। मुख्य गुफा मंदिर तक की लंबी सीढ़ियों में आरामदायक जूते मदद करते हैं।"
 
 lang: "hi"
+sourceContentHash: "2716ca2d76a67d28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

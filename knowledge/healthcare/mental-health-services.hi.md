@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "मलेशिया में कोई भी व्यक्ति — नागरिक, निवासी या आगंतुक — जो अपने या किसी और के मानसिक स्वास्थ्य को लेकर चिंतित है, और ठोस रूप से जानना चाहता है कि कहाँ से शुरू करे: एक क्लीनिक, एक अस्पताल, एक निजी चिकित्सक, एक NGO, या एक हेल्पलाइन।"
 
 lang: "hi"
+sourceContentHash: "4ecc5497514e228e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

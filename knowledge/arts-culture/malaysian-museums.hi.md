@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "संग्रहालय-यात्रा की योजना बनाने वाले आगंतुक, मलेशिया के प्रमुख संग्रहों के पीछे की संस्थागत इतिहास चाहने वाले छात्र और शोधकर्ता, और हर वह व्यक्ति जिसने मान लिया कि मुज़ियम नेगारा देश का सबसे पुराना संग्रहालय था।"
 
 lang: "hi"
+sourceContentHash: "8802106dd859b55e"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

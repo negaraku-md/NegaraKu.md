@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "मलेशिया को हमेशा के लिए, या तीन महीने से अधिक के लिए, छोड़ने वाले मलेशियाई और प्रवासी, तथा वे HR या पेरोल टीमें जिन्हें उनकी ओर से कागज़ी कार्रवाई दाखिल करनी होती है।"
 
 lang: "hi"
+sourceContentHash: "00b0d352c02ac806"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

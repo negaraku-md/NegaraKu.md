@@ -31,10 +31,11 @@ faq:
     a: "सीधे तौर पर नहीं। वित्तीय गारंटियाँ आकस्मिक देयताएँ हैं; वे केवल साकार होने पर ही ऋण बनती हैं। Act 850 वित्तीय गारंटियों को GDP के 25% तक सीमित करता है और इस जोखिम को उजागर करने के लिए वार्षिक राजकोषीय जोखिम विवरण की अपेक्षा करता है।"
 
 lang: "hi"
+sourceContentHash: "1dc4f0df2320f2a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

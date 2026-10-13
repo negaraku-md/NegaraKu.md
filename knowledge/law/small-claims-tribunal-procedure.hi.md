@@ -36,10 +36,11 @@ faq:
     a: "आप एक कारण बताओ सूचना (Form 208) दाखिल करते हैं। तब न्यायालय निर्णय-ऋणी की संपत्ति के विरुद्ध एक जब्ती और बिक्री रिट (Form 84) जारी कर सकता है, किस्तों में भुगतान की अनुमति दे सकता है, या ऋणी को जेल में बंद करने का आदेश दे सकता है।"
 
 lang: "hi"
+sourceContentHash: "7f497323fdf0e52a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

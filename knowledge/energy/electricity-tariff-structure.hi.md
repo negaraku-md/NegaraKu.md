@@ -27,10 +27,11 @@ faq:
     a: "नहीं। प्रति माह 600 kWh या उससे कम उपयोग करने वाले घरों के लिए RM10 मासिक खुदरा शुल्क माफ़ कर दिया जाता है।"
 
 lang: "hi"
+sourceContentHash: "6f49b99389da2c61"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -29,12 +29,13 @@ faq:
     a: "धारा 6 के अंतर्गत, सदस्य हैं प्रधानमंत्री (अध्यक्ष), उप-प्रधानमंत्री, रक्षा मंत्री, गृह मंत्री, संचार एवं मल्टीमीडिया मंत्री, सरकार के मुख्य सचिव, रक्षा बलों के प्रमुख, और पुलिस महानिरीक्षक।"
 
 lang: "hi"
+sourceContentHash: "c3999252b2bdc0d7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

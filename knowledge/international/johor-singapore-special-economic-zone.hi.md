@@ -32,10 +32,11 @@ faq:
     a: "Iskandar Malaysia एक मलेशियाई विकास गलियारा है जो 2000 के दशक में शुरू हुआ और JS-SEZ के दायरे के भीतर स्थित है। JS-SEZ व्यापक और द्विपक्षीय है: यह सिंगापुर को सह-हस्ताक्षरकर्ता के रूप में जोड़ता है, क्षेत्र को Pengerang तक विस्तारित करता है, और ऊपर एक साझा प्रोत्साहन और सुविधा ढाँचा जोड़ता है।"
 
 lang: "hi"
+sourceContentHash: "91765fa012dff218"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

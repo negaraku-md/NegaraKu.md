@@ -26,10 +26,11 @@ verificationNeeded:
   - "क्या इलेक्ट्रिक वाहनों की खरीद (किराये के बजाय) के लिए कोई त्वरित या संवर्धित पूँजी भत्ता राजपत्रित किया गया है — AGC की अधीनस्थ-विधान डेटाबेस में ऐसा कोई प्रपत्र नहीं मिला।"
 
 lang: "hi"
+sourceContentHash: "9f0ef46f2f698cad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

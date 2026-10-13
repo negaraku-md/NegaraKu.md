@@ -42,10 +42,11 @@ verificationNeeded:
   - "क्या किसी राज्य ने नवीनतम Modernising Business Licensing दौर के बाद से अपनी व्यापार और परिसर लाइसेंसिंग को एक एकल उपकरण में समेकित किया है"
 
 lang: "hi"
+sourceContentHash: "2779e333b6f5b277"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

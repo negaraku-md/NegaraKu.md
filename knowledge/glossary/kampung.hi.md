@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "वे सभी जो «kampung» का शाब्दिक अर्थ से परे मतलब समझने की कोशिश कर रहे हैं — जिनमें ग्रामीण प्रशासन से जुड़े शोधकर्ता, लेखक, अधिकारी और नवागंतुक शामिल हैं।"
 
 lang: "hi"
+sourceContentHash: "179d1d79aa799fca"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

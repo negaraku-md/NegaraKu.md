@@ -39,10 +39,11 @@ verificationNeeded:
   - "अनुच्छेद 12 और 13 पर MLI के संबंध में मलेशिया के आरक्षणों और अधिसूचनाओं की पूर्ण सूची किसी मलेशियाई सरकारी स्रोत से नहीं ली गई। मलेशिया-जापान का संश्लेषित पाठ (synthesised text) पुष्टि करता है कि दोनों अनुच्छेद उस संधि-युग्म पर लागू होते हैं; किसी अन्य संधि पर उसका अपना संश्लेषित पाठ पढ़े बिना सामान्यीकरण न करें"
 
 lang: "hi"
+sourceContentHash: "7dd6ea1d4a097c43"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

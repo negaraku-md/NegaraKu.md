@@ -43,10 +43,11 @@ verificationNeeded:
   - "पूरक प्रश्नावलियों के लिए उत्तर अवधि प्रत्येक मामले में प्रश्नावली में ही निर्धारित की जाती है और विनियमों द्वारा तय नहीं है"
 
 lang: "hi"
+sourceContentHash: "362da92334d2fc8d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

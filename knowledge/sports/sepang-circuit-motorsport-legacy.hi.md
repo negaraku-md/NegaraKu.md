@@ -37,10 +37,11 @@ faq:
     a: "जर्मन इंजीनियर हरमन टिल्के ने इसे डिज़ाइन किया — उनका पहला विशेष रूप से निर्मित फॉर्मूला 1 सर्किट। ग्रैंड प्रिक्स लेआउट 5.543 किमी लंबा है जिसमें 15 मोड़ और 16 से 20 मीटर तक की ट्रैक चौड़ाई है।"
 
 lang: "hi"
+sourceContentHash: "a2a0e6bd77b78348"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

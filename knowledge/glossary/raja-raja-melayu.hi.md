@@ -29,12 +29,13 @@ faq:
     a: "शासक-सम्मेलन संघीय संविधान के अनुच्छेद 38 में निहित है, जिसके कार्य और प्रक्रियाएँ पाँचवीं अनुसूची में विस्तृत हैं।"
 
 lang: "hi"
+sourceContentHash: "145a64a2a5caf8b7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -34,10 +34,11 @@ faq:
     a: "इसे अक्सर 'मलेशियन न्यू वेव' (Malaysian New Wave) कहा जाता है, जो 2000 के दशक के आरंभ में स्वतंत्र फ़िल्मकारों की एक लहर थी। 2004 में तान चुई मुई (Tan Chui Mui), अमीर मुहम्मद (Amir Muhammad), जेम्स ली (James Lee) और लियू सेंग तात (Liew Seng Tat) द्वारा स्थापित दा हुआंग पिक्चर्स (Da Huang Pictures) इसका एक केंद्र बनी; तान की फ़िल्म *Love Conquers All* ने 2006 के बुसान अंतरराष्ट्रीय फ़िल्म महोत्सव में न्यू करंट्स और FIPRESCI पुरस्कार और रॉटरडैम में टाइगर अवार्ड जीते।"
 
 lang: "hi"
+sourceContentHash: "defc3df96dc13355"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

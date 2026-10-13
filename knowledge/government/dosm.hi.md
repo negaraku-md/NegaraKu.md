@@ -34,10 +34,11 @@ faq:
     a: "DOSM एक संघीय सरकारी विभाग है जो मंत्रालय की आधिकारिक एजेंसी-निर्देशिका में अर्थव्यवस्था मंत्रालय (Ministry of Economy) के अधीन सूचीबद्ध है। मलेशिया में मंत्रालयी विभाग समय-समय पर पुनर्गठित होते हैं, अतः किसी औपचारिक दस्तावेज़ में इस पर निर्भर होने से पहले वर्तमान व्यवस्था की पुष्टि ekonomi.gov.my या dosm.gov.my पर करें।"
 
 lang: "hi"
+sourceContentHash: "c71507e53dcd1423"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

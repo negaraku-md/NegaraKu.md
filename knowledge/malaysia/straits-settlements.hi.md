@@ -29,9 +29,10 @@ faq:
   - q: "अंत में स्ट्रेट्स सेटलमेंट्स का क्या हुआ?"
     a: "इसे 1 अप्रैल 1946 को भंग कर दिया गया। पेनांग और मेलाका को महासंघित और गैर-महासंघित मलय राज्यों के साथ मलायन यूनियन में समाहित किया गया, जबकि सिंगापुर को अपनी एक अलग क्राउन कॉलोनी के रूप में अलग कर दिया गया।"
 lang: "hi"
+sourceContentHash: "9cb8a0574c93b0cb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

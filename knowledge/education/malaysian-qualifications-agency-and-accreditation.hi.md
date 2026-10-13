@@ -32,10 +32,11 @@ faq:
     a: "हाँ। मलेशिया में संचालित किसी भी उच्च शिक्षा प्रदाता द्वारा प्रस्तावित कार्यक्रम, जिसमें विदेशी शाखा-परिसर शामिल हैं, MQF के अंतर्गत गुणवत्ता-आश्वासित होते हैं और MQR में दिखाई देते हैं। कुछ स्थापित विश्वविद्यालय स्व-मान्यता (self-accrediting) स्थिति रखते हैं, जो उन्हें MQF पर अपने ही कार्यक्रमों को मान्यता देने और उन कार्यक्रमों को MQR में पंजीकृत करने का अधिकार देती है।"
 
 lang: "hi"
+sourceContentHash: "ce3f16b64b60d59b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "मलेशियाई व्यापार सुर्खियाँ पढ़ने वाला कोई भी — निर्यातक, आयातक, निवेशक और विश्लेषक।"
 
 lang: "hi"
+sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

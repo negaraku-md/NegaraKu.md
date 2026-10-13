@@ -23,9 +23,10 @@ verificationNeeded:
   - "यह लेख किसी भी संस्थान के कार्यक्रम दाख़िले की संख्या, कोटा अनुपात, या विशिष्ट शुल्क के आँकड़े नहीं बताता — ये कार्यक्रम और परिसर के अनुसार भिन्न होते हैं और प्रत्येक दाख़िले में बदलते हैं; आवेदन करने से पहले सीधे UPU के e-Panduan (सार्वजनिक विश्वविद्यालयों के लिए) या संबंधित संस्थान (निजी विश्वविद्यालयों के लिए) से पुष्टि करें।"
   - "पंजीकृत IPTS प्रदाताओं की सटीक वर्तमान संख्या यहाँ नहीं बताई गई है क्योंकि इस लेख के लिए MOHE की प्रकाशित सांख्यिकी तालिकाएँ (Statistik Pendidikan Tinggi) पूरी तरह नहीं खोली जा सकीं — सटीक, वर्तमान आँकड़े के लिए सीधे MOHE के Statistik Pendidikan Tinggi प्रकाशन से परामर्श करें।"
 lang: "hi"
+sourceContentHash: "dec278a4f731f767"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

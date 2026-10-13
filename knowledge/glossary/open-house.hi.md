@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "वे सभी जिन्हें पहली बार किसी खुले घर में आमंत्रित किया गया है, समुदाय- या कंपनी-स्तर के खुले घरों के आयोजक, और वे सभी जो इस प्रथा को मलेशिया में एक अंतर-जातीय सामाजिक परिघटना के रूप में समझना चाहते हैं।"
 
 lang: "hi"
+sourceContentHash: "3bc3f6abab7fea70"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

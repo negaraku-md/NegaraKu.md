@@ -35,10 +35,11 @@ faq:
     a: "क्योंकि दोनों को अलग-अलग व्यवसायों के रूप में प्रबंधित किया जाता है। ताड़-तेल उपयुक्त भूमि पर एक बड़े-पैमाने की, लाभदायक निर्यात जिंस है, जबकि चावल सब्सिडी और सिंचाई पर निर्भर एक कम-मार्जिन वाली खाद्य फसल है। भूमि, पूँजी और श्रम अधिक लाभदायक जिंस-फसलों की ओर बहने की प्रवृत्ति रखते हैं।"
 
 lang: "hi"
+sourceContentHash: "c5cc2c29dde16362"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

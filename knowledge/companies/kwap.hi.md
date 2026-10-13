@@ -29,10 +29,11 @@ faq:
     a: "31 दिसंबर 2024 तक RM185.6 बिलियन, जो RM169.8 बिलियन (2023) और RM158.1 बिलियन (2022) से अधिक है।"
 
 lang: "hi"
+sourceContentHash: "4489ae23d6537356"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

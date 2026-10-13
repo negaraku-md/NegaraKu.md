@@ -47,10 +47,11 @@ verificationNeeded:
   - "राज्य-अनुसार कोई आधिकारिक माध्यिका औद्योगिक या कार्यालय किराया मौजूद नहीं है। पुष्टि करें कि क्या JPPH कोई किराया-शृंखला प्रकाशित करता है जो Property Stock Report या क्षेत्रीय Property Market Reports में दिखाई न देती हो"
 
 lang: "hi"
+sourceContentHash: "7197254874c986ae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

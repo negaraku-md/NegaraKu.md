@@ -32,10 +32,11 @@ faq:
     a: "योजना का उद्देश्य है कि AI, GDP में RM60 बिलियन से अधिक का योगदान करे और 2030 तक वैश्विक AI-तत्परता में मलेशिया को शीर्ष 20 देशों में स्थान दिलाए, जो 28 पहलों के माध्यम से क्रियान्वित होगा।"
 
 lang: "hi"
+sourceContentHash: "74e6c6495db49c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

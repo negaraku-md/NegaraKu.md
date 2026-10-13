@@ -38,10 +38,11 @@ faq:
     a: "हाँ। निष्पादक को LHDN को मृत्यु की सूचना देनी होगी, मृतक की अंतिम विवरणी और संपदा की विवरणियाँ दाखिल करनी होंगी, और संपदा वितरित करने से पहले किसी भी बकाया कर और दंड का निपटान करना होगा। जिस वर्ष LHDN को मृत्यु की सूचना मिलती है उसके अंत से तीन वर्ष तक LHDN के पास निर्धारण करने का समय होता है।"
 
 lang: "hi"
+sourceContentHash: "68ad2357941779d2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

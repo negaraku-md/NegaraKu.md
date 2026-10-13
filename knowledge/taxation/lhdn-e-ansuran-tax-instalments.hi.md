@@ -33,10 +33,11 @@ faq:
     a: "नहीं। LHDN बताती है कि e-Ansuran आवेदन का रद्दीकरण केवल किसी LHDN (HASiL) कार्यालय में व्यक्तिगत रूप से किया जा सकता है — यह पोर्टल के माध्यम से नहीं किया जा सकता। आवेदन स्वयं ऑनलाइन है और अनुमोदन स्वचालित है, लेकिन इसे बदलना या रद्द करना एक शाखा-मामला है।"
 
 lang: "hi"
+sourceContentHash: "f73e04ba5e0d7818"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

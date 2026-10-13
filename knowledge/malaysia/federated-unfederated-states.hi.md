@@ -33,9 +33,10 @@ faq:
   - q: "अंत में दोनों समूहों का क्या हुआ?"
     a: "संघबद्ध और असंघबद्ध मलय राज्य दोनों 1 अप्रैल 1946 को मलायन यूनियन में विलीन कर दिए गए, जिसे खुद कुछ ही वर्षों में मलाया संघ (Federation of Malaya) ने प्रतिस्थापित कर दिया।"
 lang: "hi"
+sourceContentHash: "3bcc3b32fd59d463"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

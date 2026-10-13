@@ -38,10 +38,11 @@ faq:
     a: "राष्ट्रीय खेल संस्थान (ISN)। इसे राष्ट्रीय खेल संस्थान अधिनियम 2011 [Act 729] द्वारा वैधानिक आधार पर रखा गया है और यह खेल विज्ञान तथा खेल चिकित्सा सेवाएँ, सलाह और परामर्श प्रदान करने, अनुसंधान करने, और एथलीट प्रदर्शन के वैज्ञानिक पहलुओं पर मंत्री को सलाह देने का कार्य करता है।"
 
 lang: "hi"
+sourceContentHash: "6410f4b09d840cf0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

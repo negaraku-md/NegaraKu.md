@@ -22,11 +22,12 @@ verificationNeeded:
   - "STPM, मैट्रिकुलेशन और A-Level समूहों के लिए वर्तमान वार्षिक प्रवेश क्षमता (स्थानों की संख्या) यहाँ नहीं बताई गई है — ये हर प्रवेश चक्र में बदलती हैं; किसी विशिष्ट संख्या पर निर्भर होने से पहले वर्तमान सत्र के आँकड़ों की सीधे MPM, मैट्रिकुलेशन प्रभाग, या संबंधित कॉलेज से पुष्टि करें।"
   - "फाउंडेशन कार्यक्रम संरचना पर MQA के दिशानिर्देश (Garis Panduan Kurikulum Asasi) इस लेख के लिए पूरी तरह निकाले नहीं जा सके — फाउंडेशन कार्यक्रमों के लिए MQA द्वारा निर्धारित न्यूनतम क्रेडिट-घंटा या अवधि नियम यहाँ केवल सामान्य शब्दों में वर्णित है; उद्धृत करने से पहले सटीक आँकड़ों की MQA या प्रस्तावकर्ता संस्थान से पुष्टि करें।"
 lang: "hi"
+sourceContentHash: "d0b49a1aee8b9177"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

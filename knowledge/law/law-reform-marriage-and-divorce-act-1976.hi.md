@@ -33,10 +33,11 @@ faq:
     a: "उच्च न्यायालय के पास धारा 76 के तहत विवाह के दौरान अर्जित संपत्तियों को विभाजित करने की शक्ति है, जिसमें वित्तीय और ग़ैर-वित्तीय योगदान, परिवार के लाभ के लिए किए गए ऋण, बच्चों की ज़रूरतें, और विवाह की अवधि को ध्यान में रखा जाता है। विभाजन आवश्यक रूप से 50:50 नहीं होता।"
 
 lang: "hi"
+sourceContentHash: "9844bf61f2e89ad7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

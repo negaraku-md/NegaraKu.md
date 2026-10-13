@@ -30,10 +30,11 @@ faq:
     a: "उन्हें एक अनुवाद मानें, स्रोत नहीं। LHDN के अंग्रेज़ी पृष्ठ मशीन-अनूदित हैं और उनमें ऐसी पुष्ट त्रुटियाँ हैं जो अर्थ को उलट देती हैं। किसी भी भारवाही बात के लिए, मलय मूल पृष्ठ पढ़ें और उसी से उद्धृत करें।"
 
 lang: "hi"
+sourceContentHash: "558a5f369fe484be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

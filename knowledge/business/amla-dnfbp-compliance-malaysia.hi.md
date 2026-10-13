@@ -30,10 +30,11 @@ faq:
     a: "नहीं। RM25,000 और उससे अधिक के नकद लेन-देन के लिए नकद सीमा रिपोर्ट केवल बैंकिंग संस्थानों, चयनित विकास वित्तीय संस्थानों, Lembaga Tabung Haji और लाइसेंस-प्राप्त कसीनो पर लागू होती है। DNFBP पर फिर भी STR का दायित्व रहता है।"
 
 lang: "hi"
+sourceContentHash: "ed7c9043d8d06f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

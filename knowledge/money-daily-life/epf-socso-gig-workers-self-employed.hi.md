@@ -33,10 +33,11 @@ faq:
     a: "Act 872 के अंतर्गत, मंच प्रदाता आपको स्व-रोज़गार योजना (Lindung Kendiri) के अंतर्गत पंजीकृत करने और आपकी कमाई से अंशदान काटने के लिए ज़िम्मेदार है। फिर भी, आपको यह सुनिश्चित करना होगा कि पंजीकरण पूरा है और यदि कटौती आपकी चुनी हुई योजना की न्यूनतम दर तक न पहुँचे तो शेष राशि चुकानी होगी।"
 
 lang: "hi"
+sourceContentHash: "759ef843044df58d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

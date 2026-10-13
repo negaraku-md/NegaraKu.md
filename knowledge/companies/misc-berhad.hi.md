@@ -29,10 +29,11 @@ faq:
     a: "MISC समूह ने वित्तीय वर्ष 2024 का राजस्व RM13,237.5 मिलियन बताया, जो वित्तीय वर्ष 2023 के RM14,271.7 मिलियन से 7.2% की गिरावट है, और कर-पश्चात लाभ RM1,233.2 मिलियन रहा।"
 
 lang: "hi"
+sourceContentHash: "29aaf63ab9013b28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

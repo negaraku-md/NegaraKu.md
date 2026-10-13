@@ -31,10 +31,11 @@ faq:
     a: "धारा 29(3) नियोक्ताओं से अपेक्षा करती है कि वे OKU की क्षमताओं का उचित आकलन करके, उपयुक्त कार्यस्थल और समुचित कार्य-प्रबंधन प्रदान करके स्थिर रोज़गार को बढ़ावा दें। OKU कर्मचारियों के लिए परिसर में बदलाव की लागत भी Income Tax Act 1967 के पैराग्राफ 34(6)(e) के तहत कर-कटौती के लिए पात्र है।"
 
 lang: "hi"
+sourceContentHash: "66843e99ec6b43d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

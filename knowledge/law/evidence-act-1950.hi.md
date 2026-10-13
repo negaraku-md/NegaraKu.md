@@ -30,12 +30,13 @@ faq:
     a: "धारा 25 कहती है कि इंस्पेक्टर (Inspector) से नीचे की श्रेणी के पुलिस अधिकारी को की गई संस्वीकृति अभियुक्त के विरुद्ध सिद्ध नहीं की जा सकती, जो अभिव्यक्त लिखित प्रावधानों के अधीन है। धारा 24 बदले में किसी संस्वीकृति को असुसंगत बना देती है यदि वह किसी प्राधिकार-सम्पन्न व्यक्ति के प्रलोभन, धमकी या वचन के कारण हुई हो।"
 
 lang: "hi"
+sourceContentHash: "8f64848838376657"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

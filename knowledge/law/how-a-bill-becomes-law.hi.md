@@ -36,10 +36,11 @@ faq:
     a: "Article 55(5) यह प्रावधान करता है कि जिस विधेयक का संसद में अभी तक निपटारा नहीं हुआ है, वह संसद के सत्रावसान के कारण व्यपगत नहीं होता। बदले में, Article 55(7) अनुमोदन की प्रतीक्षा कर रहे विधेयक को संसद के सत्रावसान या विघटन के कारण व्यपगत होने से बचाता है।"
 
 lang: "hi"
+sourceContentHash: "87bf8d58ce7f3cea"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

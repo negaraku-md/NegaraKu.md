@@ -31,10 +31,11 @@ faq:
     a: "यह गिरावट मुख्यतः गणना पद्धति में बदलाव का प्रभाव है, न कि केवल उत्पादन में गिरावट। नई पद्धति केवल उस साफ़ धान को गिनती है जिसे चावल में संसाधित किया जाता है और अब उसी वर्ष के भीतर बीज के लिए उपयोग किए गए धान को शामिल नहीं करती।"
 
 lang: "hi"
+sourceContentHash: "fcd35063d281dbc6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

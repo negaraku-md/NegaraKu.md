@@ -29,10 +29,11 @@ faq:
     a: "अक्सर नहीं। पूर्वी-तट के कई रिज़ॉर्ट और नाव संचालक पूर्वोत्तर मानसून से उठने वाले उथल-पुथल भरे समुद्र के कारण लगभग अक्टूबर से फरवरी तक स्वेच्छा से सेवाएँ निलंबित कर देते हैं।"
 
 lang: "hi"
+sourceContentHash: "baf74efaaf475bb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

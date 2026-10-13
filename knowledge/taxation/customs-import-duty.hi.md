@@ -31,10 +31,11 @@ faq:
     a: "RM500 या उससे कम मूल्य की खेप आम तौर पर सीमा पर आयात शुल्क और बिक्री कर से छूट-प्राप्त है। परंतु 1 जनवरी 2024 से ऐसी वस्तुओं पर जो ऑनलाइन बेची जाकर मलेशिया में भेजी जाती हैं, कम-मूल्य वस्तुओं (Low Value Goods) पर एक अलग 10% बिक्री कर लागू होता है, जिसे पंजीकृत विक्रेता या बाज़ार (marketplace) वसूलता है।"
 
 lang: "hi"
+sourceContentHash: "49578a6ca3069696"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

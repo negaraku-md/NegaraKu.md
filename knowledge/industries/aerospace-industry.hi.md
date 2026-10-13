@@ -34,10 +34,11 @@ faq:
     a: "दोनों, पर इसका गुरुत्व-केंद्र सेवाएँ हैं। MRO और कंपोनेंट विनिर्माण का दबदबा है; मलेशिया संरचनाएँ, कंपोजिट और इंजन के पुर्ज़े बनाता है और विमानों का रखरखाव करता है, लेकिन इसकी विमान-स्तरीय डिज़ाइन और विकास क्षमता कमज़ोर है।"
 
 lang: "hi"
+sourceContentHash: "5b97e205090548e0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -33,10 +33,11 @@ faq:
     a: "बिना वैध लाइसेंस के किसी पर्यटन-उद्यम का संचालन Tourism Industry Act 1992 के तहत एक अपराध है, जिसे MOTAC निरीक्षणों के माध्यम से सक्रिय रूप से प्रवर्तित करती है। दोषसिद्धि पर दंड RM500,000 तक जुर्माना या 10 वर्ष तक कारावास, या दोनों है। MOTAC क़ानून व विनियमों के अन्य उल्लंघनों के लिए लाइसेंसों का अभियोजन, निलंबन या निरसन भी कर सकती है।"
 
 lang: "hi"
+sourceContentHash: "267a25e0a7a19ed2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

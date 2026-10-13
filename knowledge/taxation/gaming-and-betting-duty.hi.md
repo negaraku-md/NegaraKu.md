@@ -29,10 +29,11 @@ faq:
     a: "RM2 के Sports Toto दाँव पर, 8% (16 सेन) गेमिंग कर के रूप में और अतिरिक्त 8% (14.72 सेन) पूल सट्टा शुल्क के रूप में काटा जाता है; लगभग 55% (RM1.10) पुरस्कार राशि के रूप में आवंटित होता है।"
 
 lang: "hi"
+sourceContentHash: "156aadc5edee33a0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

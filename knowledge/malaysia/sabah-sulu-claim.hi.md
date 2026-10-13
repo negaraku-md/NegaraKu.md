@@ -29,12 +29,13 @@ faq:
     a: "एक निजी मध्यस्थ ने 28 फरवरी 2022 को लगभग 14.92 बिलियन USD का फैसला जारी किया, परंतु मलेशिया ने कई न्यायक्षेत्रों में इसे चुनौती दी और पेरिस की अपील अदालत ने 9 दिसंबर 2025 को फैसले को रद्द कर दिया।"
 
 lang: "hi"
+sourceContentHash: "a5cefe938e99cef3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

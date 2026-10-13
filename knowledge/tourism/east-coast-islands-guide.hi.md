@@ -31,10 +31,11 @@ faq:
     a: "नहीं। समुद्री-उद्यान सीमाओं के भीतर मछली पकड़ना निषिद्ध है, और आगंतुक किसी समुद्री जीव के किसी भी भाग को — जीवित हो या मृत — नहीं इकट्ठा कर सकते, जिसमें मूँगे के टुकड़े और सीपियाँ शामिल हैं, न ही मूँगे को छू, उस पर खड़े हो या अन्यथा क्षति पहुँचा सकते हैं।"
 
 lang: "hi"
+sourceContentHash: "99085634b2f91e6e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

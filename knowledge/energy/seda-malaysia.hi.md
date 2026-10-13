@@ -30,10 +30,11 @@ faq:
     a: "NEM 3.0 कार्यक्रम जून 2025 के अंत में समाप्त हो गया। इसे Solar ATAP ने प्रतिस्थापित किया है, जो 1 जनवरी 2026 को प्रभावी होता है, जिसमें कोई समग्र कोटा सीमा नहीं और जिसका प्रबंधन SEDA के eATAP पोर्टल atap.seda.gov.my के माध्यम से होता है।"
 
 lang: "hi"
+sourceContentHash: "2d635eb062db955f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

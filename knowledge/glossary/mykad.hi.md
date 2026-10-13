@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "मलेशियाई नागरिक, अपने बच्चों के पंजीकरण को संभालने वाले माता-पिता, और कोई भी व्यक्ति जिसे मलेशिया में पहचान सत्यापित करने की आवश्यकता है।"
 
 lang: "hi"
+sourceContentHash: "7c8af58484cf7ac0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

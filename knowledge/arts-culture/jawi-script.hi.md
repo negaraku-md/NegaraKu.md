@@ -34,9 +34,10 @@ seoTitle: "जावी लिपि: इतिहास, प्रणाली 
 socialTitle: "वह अरबी वर्णमाला जिसने सात सदियों तक मलय लिखी है — जावी लिपि की कहानी"
 
 lang: "hi"
+sourceContentHash: "227837ea67cec8a8"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

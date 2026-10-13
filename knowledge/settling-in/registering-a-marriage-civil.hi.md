@@ -25,10 +25,11 @@ verificationNeeded:
   - "If either party has been married before, or is a foreign national, confirm the specific supporting documents (divorce decree, death certificate, single-status letter from your embassy) required for your case at the JPN counter, as these vary by circumstance"
 
 lang: "hi"
+sourceContentHash: "6a489eafa5d0a4e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

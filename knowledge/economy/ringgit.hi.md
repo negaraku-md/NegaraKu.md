@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "विनिमय दर के संपर्क में आने वाला हर व्यक्ति — आयातक, निर्यातक, यात्री, विदेश में छात्र और निवेशक।"
 
 lang: "hi"
+sourceContentHash: "5c03f2bbac4e0dca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

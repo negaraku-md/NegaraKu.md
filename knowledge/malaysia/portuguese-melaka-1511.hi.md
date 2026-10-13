@@ -19,9 +19,10 @@ keyTakeaways:
   - "मलक्का सल्तनत की वंश-परंपरा ने 1528 में जोहोर लामा में शासन पुनः आरंभ किया, और वह राजवंश 1699 तक चला"
 appliesTo: "वे पाठक जो 1511 में मलक्का के पतन के पीछे के तकनीकी और राजनीतिक कारणों को समझना चाहते हैं, और यह कि शहर खोने के बाद मलक्का की संस्थाओं और राजवंश-परंपरा का क्या हुआ।"
 lang: "hi"
+sourceContentHash: "b8ff8e81366e5986"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

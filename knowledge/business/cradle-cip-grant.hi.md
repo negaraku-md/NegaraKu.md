@@ -33,10 +33,11 @@ faq:
     a: "नहीं। CIP अनुदान सशर्त हैं। धन सहमत माइलस्टोन के विरुद्ध जारी किया जाता है (अग्रिम भुगतान और प्रतिपूर्ति के माध्यम से), और यदि प्राप्तकर्ता अपनी शर्तें भंग करता है या परियोजना समाप्त हो जाती है तो अनुदान वापस लिया जा सकता है। CIP Sprint विशेष रूप से एक परिवर्तनीय अनुदान के रूप में संरचित है। स्वीकार करने से पहले माइलस्टोन, रिपोर्टिंग और क्लॉबैक की शर्तें समझने के लिए अनुदान समझौता ध्यान से पढ़ें।"
 
 lang: "hi"
+sourceContentHash: "314f5c2c68cdde6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

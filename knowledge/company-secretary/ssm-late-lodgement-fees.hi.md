@@ -27,10 +27,11 @@ verificationNeeded:
   - "विशिष्ट Companies Act 2016 अपराधों के लिए समाधान (compound) दरें SSM की धारा 588 के अधीन समाधान अनुसूची द्वारा निर्धारित हैं और व्यावहारिक निर्देश 1/2017 में प्रकाशित नहीं हैं — इस पृष्ठ पर कोई समाधान आँकड़ा नहीं बताया गया है क्योंकि किसी आधिकारिक स्रोत के विरुद्ध किसी की पुष्टि नहीं हो सकी"
 
 lang: "hi"
+sourceContentHash: "352f3b9226a227c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -43,10 +43,11 @@ obligations:
     consequence: "s.99A के तहत RM50,000 तक का सामान्य दंड"
 
 lang: "hi"
+sourceContentHash: "870f648f0972037b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

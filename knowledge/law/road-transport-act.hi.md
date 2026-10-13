@@ -31,10 +31,11 @@ faq:
     a: "यह अपराधों और संसद द्वारा प्रत्येक के लिए निर्धारित अधिकतम दंड बनाता है, लेकिन सटीक आँकड़े अधीनस्थ विधान और प्रशासनिक सूचनाओं द्वारा अक्सर समायोजित किए जाते हैं (उदाहरण के लिए AWAS कंपाउंड प्रणाली)। इसी कारण यह पृष्ठ विशिष्ट जुर्माना राशियों को पुनः प्रस्तुत नहीं करता — वर्तमान आँकड़ों के लिए JPJ की अपनी प्रकाशित अनुसूचियाँ देखें।"
 
 lang: "hi"
+sourceContentHash: "082c1821680b3184"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

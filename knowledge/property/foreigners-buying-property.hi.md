@@ -26,10 +26,11 @@ verificationNeeded:
   - "राष्ट्रीय भूमि संहिता के उस संशोधन का सटीक उद्धरण और वर्ष जिसने राज्य प्राधिकरण की सहमति से औद्योगिक-भूमि की पहले की छूट को समाप्त किया, संशोधनकारी अधिनियम के अपने पाठ के विरुद्ध पुष्ट नहीं किया जा सका; इसे यहाँ किसी सीधे पढ़े गए प्राथमिक प्रावधान के बजाय अभिसरणी गौण क़ानूनी टिप्पणी के आधार पर वर्णित किया गया है।"
 
 lang: "hi"
+sourceContentHash: "2fddfa6e345670a4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

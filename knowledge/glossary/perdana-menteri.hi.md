@@ -34,10 +34,11 @@ faq:
     a: "फ़िलहाल संविधान कार्यकाल को सीमित नहीं करता। 2026 में, प्रधानमंत्री के कार्यकाल को कुल मिलाकर दस वर्ष तक सीमित करने के लिए एक संविधान संशोधन विधेयक प्रस्तावित किया गया था; उस संशोधन की अंतिम स्थिति आधिकारिक स्रोतों से जाँच लेनी चाहिए।"
 
 lang: "hi"
+sourceContentHash: "a4359d9c03eadb4d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -33,12 +33,13 @@ faq:
     a: "त्रि-स्तरीय व्यवस्था — अधीनस्थ शरीयत न्यायालय, उच्च शरीयत न्यायालय और शरीयत अपील न्यायालय — आम है, लेकिन प्रत्येक राज्य इसे अपने राज्य अधिनियम (enakmen) के माध्यम से स्थापित करता है, जबकि संघीय राज्यक्षेत्र Act 505 द्वारा शासित हैं। सिविल क्षेत्राधिकार पर मौद्रिक सीमाएँ संबंधित अधिनियम द्वारा निर्धारित होती हैं और राज्यों के बीच भिन्न हो सकती हैं।"
 
 lang: "hi"
+sourceContentHash: "8fac45bc244e70ad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

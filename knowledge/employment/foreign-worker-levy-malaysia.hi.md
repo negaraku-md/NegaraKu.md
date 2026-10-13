@@ -49,10 +49,11 @@ obligations:
     consequence: "The pass is not issued or extended"
 
 lang: "hi"
+sourceContentHash: "0112f2d641d155c5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

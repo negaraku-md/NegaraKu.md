@@ -29,10 +29,11 @@ faq:
     a: "सेरुनाई को वृत्तीय श्वसन (circular breathing) तकनीक से बजाया जाता है, जो इसकी ध्वनि को बिना किसी बाधा के निरंतर बनाए रखती है, जिससे यह नोबात में धुन का मुख्य वाहक बन जाता है।"
 
 lang: "hi"
+sourceContentHash: "ede0d9c6ebbbceef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -35,10 +35,11 @@ verificationNeeded:
   - "Principal Hub की बंद स्थिति की पुष्टि करें: MIDA की Global Services Hub मार्गदर्शिका Principal Hub को 31 दिसंबर 2022 को समाप्त के रूप में दर्ज करती है, पर MIDA का Principal Hub लैंडिंग पृष्ठ अब भी प्रकाशित है और कुछ सलाहकार-पृष्ठ अब भी कभी-लागू-न-हुए 'to 31 December 2025' विस्तार को दोहराते हैं। MIDA GSH मार्गदर्शिका के बल पर इसे बंद बताएँ।"
 
 lang: "hi"
+sourceContentHash: "1d7afd9b7e62d44a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

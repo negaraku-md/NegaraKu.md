@@ -41,10 +41,11 @@ verificationNeeded:
   - "राष्ट्रीय GDP में कुआलालंपुर का हिस्सा एक प्रकाशित प्रतिशत के रूप में — DOSM रिंगिट-मूल्य और रैंकिंग प्रकाशित करता है परंतु KL का हिस्सा सीधे नहीं"
 
 lang: "hi"
+sourceContentHash: "28302eb055d03d4e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

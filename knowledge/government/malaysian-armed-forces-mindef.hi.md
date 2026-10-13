@@ -32,12 +32,13 @@ faq:
     a: "इसे 2 दिसंबर 2019 को Dewan Rakyat में प्रस्तुत किया गया था।"
 
 lang: "hi"
+sourceContentHash: "3c6e38b833f827d4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -43,10 +43,11 @@ verificationNeeded:
   - "MyInvois पोर्टल बैच अपलोड स्प्रेडशीट में स्वीकृत पंक्तियों की अधिकतम संख्या — LHDN एक निश्चित संख्या का वर्णन करता है पर उसे बताता नहीं"
 
 lang: "hi"
+sourceContentHash: "12fac171732261f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

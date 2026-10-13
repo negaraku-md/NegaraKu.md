@@ -27,9 +27,10 @@ faq:
   - q: "MASB और वित्तीय रिपोर्टिंग फाउंडेशन के बीच क्या अंतर है?"
     a: "MASB मानकों को लिखता और जारी करता है। वित्तीय रिपोर्टिंग फाउंडेशन (FRF) MASB की देखरेख करता है, उसके प्रदर्शन की समीक्षा करता है और बजट अनुमोदित करने सहित उसके वित्तपोषण के लिए उत्तरदायी है — परंतु मानक-निर्धारण के लिए उसका कोई प्रत्यक्ष उत्तरदायित्व नहीं है, जो केवल MASB पर टिका है।"
 lang: "hi"
+sourceContentHash: "69128de74b5a73f9"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

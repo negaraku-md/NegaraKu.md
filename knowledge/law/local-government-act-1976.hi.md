@@ -27,9 +27,10 @@ faq:
   - q: "किस कानूनी आधार पर कोई परिषद मूल्यांकन कर वसूल सकती है?"
     a: "भाग XV (मूल्यांकन और निर्धारण)। धारा 127 किसी स्थानीय प्राधिकरण को अपने क्षेत्र की संपत्ति-धारिताओं पर दरें लगाने का अधिकार देती है, जिसका मूल्यांकन आधार धारा 130 में निर्धारित है।"
 lang: "hi"
+sourceContentHash: "ef5c1db3291f9813"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

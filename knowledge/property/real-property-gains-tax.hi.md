@@ -34,10 +34,11 @@ faq:
     a: "हाँ। ऐसे खर्च जो संपत्ति के मूल्य को बढ़ाते या बनाए रखते हैं, जैसे नवीनीकरण और सुधार लागत, घटाए जा सकते हैं, बशर्ते वे वैध रसीदों और दस्तावेज़ों से समर्थित हों।"
 
 lang: "hi"
+sourceContentHash: "86d17a7e3d5558a5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

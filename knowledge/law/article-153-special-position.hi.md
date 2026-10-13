@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "वह कोई भी जो अनुच्छेद 153 क्या प्रावधान करता है और क्या बाहर रखता है, इसका खंड-दर-खंड, वर्णनात्मक विवरण चाहता है, इसके इर्द-गिर्द की राजनीतिक बहस में निर्णय किए बिना।"
 
 lang: "hi"
+sourceContentHash: "db5076f747cd8ba7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -29,11 +29,12 @@ faq:
     a: "SJKC और SJKT के विद्यार्थी राष्ट्रीय माध्यमिक विद्यालय (SMK, जिसका शिक्षण माध्यम बहासा मलेशिया है) में या, कुछ SJKC विद्यार्थियों के लिए, राष्ट्रीय-प्रकार माध्यमिक विद्यालय (SMJK) में आगे बढ़ सकते हैं, जो एक सरकारी/सरकार-सहायता-प्राप्त विद्यालय भी है। प्राथमिक विद्यालय से राष्ट्रीय माध्यमिक विद्यालय में शिक्षण माध्यम का संक्रमण उन विद्यार्थियों के लिए संक्रमण कक्षाओं द्वारा समर्थित है जिन्हें इनकी आवश्यकता होती है।"
 
 lang: "hi"
+sourceContentHash: "2c9607178a97bd26"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

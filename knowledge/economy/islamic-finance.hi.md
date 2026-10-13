@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जिसे विपणन के बजाय क्रियाविधि को समझने की ज़रूरत है — छात्र, पत्रकार, कोषाध्यक्ष, वित्तपोषण विकल्पों की तुलना करने वाले संस्थापक, और मलेशिया की वित्तीय प्रणाली का मानचित्रण करने वाले शोधकर्ता।"
 
 lang: "hi"
+sourceContentHash: "baeef20a51fe9ad2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

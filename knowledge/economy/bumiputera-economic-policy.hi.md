@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "विद्यार्थी, नीति विश्लेषक, पत्रकार और वे सभी जो NEP से लेकर वर्तमान योजना तक बुमिपुतेरा आर्थिक नीति के लक्ष्यों की निरंतरता को समझना चाहते हैं।"
 
 lang: "hi"
+sourceContentHash: "0cfaf6ebc14f819b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -30,10 +30,11 @@ faq:
     a: "PETRA (Ministry of Energy Transition and Water Transformation) वह मंत्रालय है जो देश की ऊर्जा और जल नीति तैयार करता है। ऊर्जा आयोग वह वैधानिक नियामक निकाय है जो ऊर्जा आपूर्ति कानूनों को लागू और प्रवर्तित करता है। Act 610 की धारा 16 के तहत, ST मंत्री के प्रति जवाबदेह है और उसे मंत्री के सामान्य प्रकृति के निर्देशों को लागू करना होता है।"
 
 lang: "hi"
+sourceContentHash: "0a1f3c6792f9255a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

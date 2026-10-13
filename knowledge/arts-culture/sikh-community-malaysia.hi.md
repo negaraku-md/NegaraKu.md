@@ -34,10 +34,11 @@ faq:
     a: "पंजाबी अब भी जीवित है लेकिन भाषा-परिवर्तन से गुज़र रही है: कोटा किनाबालु में सिख समुदाय पर किए गए अकादमिक शोध में पाया गया कि अब अधिकांश परिवार घर में अंग्रेज़ी का उपयोग करते हैं। भाषा को संरक्षित करने के लिए, गुरुद्वारे पंजाबी कक्षाएँ चलाते हैं — उदाहरण के लिए गुरुद्वारा साहिब सेरेम्बान का पंजाबी शिक्षा केंद्र — जो बच्चों को गुरमुखी लिपि सिखाती हैं।"
 
 lang: "hi"
+sourceContentHash: "9ed6f6181f75f4d2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

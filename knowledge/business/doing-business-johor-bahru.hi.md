@@ -44,10 +44,11 @@ verificationNeeded:
   - "RTS Link की किराया-संरचना और यात्री-सेवा का पुष्ट पहला दिन — MRT Corp 2026 के अंत तक बुनियादी-ढांचा-पूर्णता लक्ष्य और January 2027 सेवा-आरंभ प्रकाशित करती है, जबकि Singapore LTA इसे December 2026 तक सेवा के रूप में व्यक्त करता है"
 
 lang: "hi"
+sourceContentHash: "4905d83a83912c4b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -31,10 +31,11 @@ faq:
     a: "Rukun Tetangga की देखरेख राष्ट्रीय एकता मंत्रालय के अधीन राष्ट्रीय एकता एवं समन्वय विभाग (JPNIN) करता है। इसका कानूनी आधार Rukun Tetangga अधिनियम 2012 (Act 751) है।"
 
 lang: "hi"
+sourceContentHash: "79fa6f589efc75aa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

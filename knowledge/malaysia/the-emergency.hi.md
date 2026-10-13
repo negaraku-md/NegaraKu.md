@@ -30,11 +30,12 @@ faq:
     a: "स्रोत दर्ज करते हैं कि दोनों प्रक्रियाएँ समानांतर चलीं, न कि एक ने दूसरी को उत्पन्न किया। स्वतंत्रता पर बातचीत हुई और वह 31 अगस्त 1957 को प्राप्त हुई जबकि आपातकाल अभी भी लागू था, और आपातकाल एक स्वतंत्र मलायी सरकार के अधीन लगभग तीन और वर्ष जारी रहा।"
 
 lang: "hi"
+sourceContentHash: "05c196a1a00207fa"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

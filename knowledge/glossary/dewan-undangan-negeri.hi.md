@@ -36,10 +36,11 @@ faq:
     a: "बिना शासक वाले चार राज्य — पेनांग, मलक्का, सबा और सारावाक — आठवीं अनुसूची के तहत 'शासक' को सौंपे गए कार्यों को अपने-अपने Yang di-Pertua Negeri के माध्यम से निभाते हैं, जो अनुच्छेद 160(2) में परिभाषित राज्य प्रमुख है।"
 
 lang: "hi"
+sourceContentHash: "8431620b21e8ef56"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

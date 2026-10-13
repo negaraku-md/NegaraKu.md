@@ -40,10 +40,11 @@ verificationNeeded:
   - "Employment (Termination and Lay-Off Benefits) Regulations 1980 के वर्तमान पाठ और पात्रता-शर्तों की पुष्टि करें जैसा कि वे किसी निश्चित अवधि की समाप्ति पर लागू होते हैं"
 
 lang: "hi"
+sourceContentHash: "529468bbc9f83e00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -37,10 +37,11 @@ faq:
     a: "आसियान मलेशिया की विदेश नीति की आधारशिला या नींव है। मलेशिया आसियान के संस्थापक देशों में से एक है और लगातार आसियान की अखंडता और केंद्रीयता को प्राथमिकता देता है, जबकि संयुक्त राष्ट्र (UN), इस्लामी सहयोग संगठन (OIC) और गुटनिरपेक्ष आंदोलन (NAM) जैसे अन्य मंचों में सक्रिय रहता है।"
 
 lang: "hi"
+sourceContentHash: "4cb0c08e4d974a16"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

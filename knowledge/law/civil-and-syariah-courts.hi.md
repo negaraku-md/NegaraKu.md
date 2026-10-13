@@ -40,12 +40,13 @@ faq:
     a: "नहीं। प्रत्येक राज्य अपने स्वयं के अधिनियम के अंतर्गत अपनी शरीयत अदालतें गठित करता है, और संघीय क्षेत्रों की अपनी अदालतें Act 505 के अंतर्गत हैं। Jabatan Kehakiman Syariah Malaysia, जो प्रधानमंत्री विभाग के अधीन एक एजेंसी है, अपनी भूमिका को पूरे मलेशिया में शरीयत कानून और न्यायपालिका के प्रशासन के समन्वय और मानकीकरण के रूप में वर्णित करती है — समन्वय, न कि कोई एकल राष्ट्रीय अदालत।"
 
 lang: "hi"
+sourceContentHash: "871806c1d22f2076"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

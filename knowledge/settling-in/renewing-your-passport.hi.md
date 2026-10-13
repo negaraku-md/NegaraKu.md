@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "ऐसे मलेशियाई नागरिक जो किसी मौजूदा अंतरराष्ट्रीय पासपोर्ट का नवीनीकरण करना चाहते हैं, या किसी खोए/क्षतिग्रस्त पासपोर्ट को बदलवाना चाहते हैं, चाहे ऑनलाइन हो या मलेशियाई आप्रवासन विभाग (JIM) / UTC के किसी काउंटर पर।"
 
 lang: "hi"
+sourceContentHash: "bf73b9b94f1050d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

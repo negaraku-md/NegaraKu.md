@@ -32,10 +32,11 @@ faq:
     a: "अधिकांश निवासी विदेशी दूतावास और उच्चायोग कुआलालंपुर और पुत्रजया में हैं, कुछ देश पेनांग, जोहोर बहरू, कोटा किनाबालू और कुचिंग जैसे शहरों में वाणिज्य दूतावास भी चलाते हैं।"
 
 lang: "hi"
+sourceContentHash: "7bb552ee1b28a75c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

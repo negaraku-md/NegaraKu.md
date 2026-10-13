@@ -29,12 +29,13 @@ faq:
     a: "धारा 7 मंत्री को राजपत्र में एक आदेश के माध्यम से किसी भी ऐसे प्रकाशन को प्रतिषिद्ध करने की अनुमति देती है जिसे लोक-व्यवस्था, सुरक्षा, नैतिकता, किसी विदेशी देश के साथ संबंधों या राष्ट्रीय हित के प्रतिकूल या प्रतिकूल होने की संभावना वाला समझा जाए।"
 
 lang: "hi"
+sourceContentHash: "614accf2d6e4feba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -26,9 +26,10 @@ faq:
   - q: "क्या विदेशी श्रमिकों को EPF में अंशदान करना होता है?"
     a: "हाँ। 1 अक्तूबर 2025 से प्रभावी, ग़ैर-मलेशियाई नागरिक कर्मचारियों के लिए EPF अंशदान अनिवार्य हो गया, जिसमें नियोक्ता और कर्मचारी प्रत्येक मासिक वेतन का 2% अंशदान करते हैं। 75 वर्ष से अधिक आयु के ग़ैर-नागरिकों को पंजीकरण या अंशदान की आवश्यकता नहीं है।"
 lang: "hi"
+sourceContentHash: "ef3ed3901e1145d3"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

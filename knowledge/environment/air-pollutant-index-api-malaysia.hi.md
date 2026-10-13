@@ -30,12 +30,13 @@ faq:
     a: "101–200 (अस्वास्थ्यकर) पर, संवेदनशील समूहों — बुज़ुर्ग, गर्भवती महिलाएँ, बच्चे, और हृदय या फेफड़ों की जटिलताओं वाले लोग — को बाहरी गतिविधि सीमित करनी चाहिए। 300 से ऊपर (खतरनाक) पर, बुज़ुर्गों और अधिक जोखिम वाले व्यक्तियों को बाहरी गतिविधि से रोका जाता है, और आम जनता को इससे बचने की सलाह दी जाती है।"
 
 lang: "hi"
+sourceContentHash: "fc387c28a9eb09b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

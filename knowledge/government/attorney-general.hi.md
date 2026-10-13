@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "विद्यार्थी, शोधकर्ता, पत्रकार और वे सभी जो संघीय संविधान के अनुच्छेद 145 के पाठ से ही महान्यायवादी के संवैधानिक पद को समझना चाहते हैं।"
 
 lang: "hi"
+sourceContentHash: "1cdb5bbdd1308bf3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

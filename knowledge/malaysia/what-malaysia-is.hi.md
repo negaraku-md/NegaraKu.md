@@ -18,11 +18,12 @@ keyTakeaways:
   - "विधि-निर्माण की शक्ति नौवीं अनुसूची की संघीय, राज्य तथा समवर्ती सूचियों द्वारा संघ और राज्यों के बीच बँटी है"
 appliesTo: "वह कोई भी जो मलेशिया में नया है और किसी एक संस्था में गहराई तक जाने से पहले यह समझना चाहता है कि संवैधानिक रूप से यह किस प्रकार का देश है।"
 lang: "hi"
+sourceContentHash: "8088b5defbdcad1c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

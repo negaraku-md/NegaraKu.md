@@ -37,13 +37,14 @@ faq:
     a: "63 पात्र देशों के यात्री मलेशिया के ऑटोगेट का उपयोग कर सकते हैं, बशर्ते उन्होंने यात्रा से कम से कम तीन दिन पहले MDAC जमा किया हो। पहली बार उपयोग करने वालों को गेट का उपयोग करने से पहले काउंटर पर पंजीकरण कराना पड़ सकता है।"
 
 lang: "hi"
+sourceContentHash: "cdbee74bde6667f6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "Whether a blank passport page is formally required for entry (not stated on the cited MIDA source)."
 
-status: "draft"
+status: "published"
 publishedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null

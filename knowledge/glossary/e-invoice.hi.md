@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "व्यवसाय मालिक, लेखाकार और वित्त टीमें जो e-Invoice अनुपालन की तैयारी कर रही हैं या उसका प्रबंधन कर रही हैं।"
 
 lang: "hi"
+sourceContentHash: "12ea69b29867be13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

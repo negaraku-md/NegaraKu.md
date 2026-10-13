@@ -32,10 +32,11 @@ faq:
     a: "U Mobile को दूसरा 5G नेटवर्क बनाने के लिए नियुक्त किया गया था, इसलिए उसने अपनी DNB हिस्सेदारी बेच दी और अपने स्वयं के रोलआउट पर ध्यान केंद्रित करने के लिए DNB के नेटवर्क से हट गई।"
 
 lang: "hi"
+sourceContentHash: "c1f7f6a84e1fec97"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

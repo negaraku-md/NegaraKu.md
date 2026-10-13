@@ -78,10 +78,11 @@ obligations:
     consequence: "व्यतिक्रमी कंपनी और हर अधिकारी पर RM10,000 से अनधिक जुर्माना"
 
 lang: "hi"
+sourceContentHash: "2eb4fd7f219b7fed"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

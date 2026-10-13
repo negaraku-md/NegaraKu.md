@@ -27,10 +27,11 @@ verificationNeeded:
   - "The number of seats by State under Article 46(2) may change through constitutional amendment following a review of electoral boundaries; verify against the latest reprint."
 
 lang: "hi"
+sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

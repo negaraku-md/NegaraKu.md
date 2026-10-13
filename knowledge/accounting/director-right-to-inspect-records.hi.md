@@ -26,10 +26,11 @@ verificationNeeded:
   - "सहायक कंपनियों वाले बिंदु को बरकरार रखने वाला अपील न्यायालय का निर्णय 27 September 2023 का प्रतिवेदित है; लिखित आधार किसी आधिकारिक न्यायिक स्रोत पर नहीं मिले"
 
 lang: "hi"
+sourceContentHash: "0aa2b1460e10e990"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

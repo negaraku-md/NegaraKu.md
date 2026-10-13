@@ -33,9 +33,10 @@ faq:
     a: "स्वतंत्रता की 40वीं वर्षगांठ मनाने के लिए यह नाम 31 अगस्त 1997 को दातारान मरदेका में घोषित किया गया।"
 
 lang: "hi"
+sourceContentHash: "f09e1191ce6cd425"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

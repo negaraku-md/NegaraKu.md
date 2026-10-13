@@ -29,10 +29,11 @@ faq:
     a: "मलेशियाई राज्य निवेश कोष Permodalan Nasional Berhad (PNB) सायम डार्बी की कंपनियों में एक प्रमुख शेयरधारक है, और Sime Darby Berhad द्वारा अधिग्रहीत UMW हिस्सेदारी का विक्रेता PNB ही था। शेयरधारिता के सटीक प्रतिशत समय के साथ बदलते हैं और इन्हें प्रत्येक कंपनी की नवीनतम Bursa Malaysia फाइलिंग के विरुद्ध जाँचा जाना चाहिए।"
 
 lang: "hi"
+sourceContentHash: "b6cfb2928f3fa4fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

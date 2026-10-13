@@ -18,10 +18,11 @@ keyTakeaways:
 appliesTo: "मलेशिया में हर व्यक्ति — बौद्ध हो या न हो — जो इस बात का एक सरल, सटीक विवरण चाहता है कि वेसाक दिवस क्या है, यह कब पड़ता है, और इसे कैसे मनाया जाता है, जिसमें सार्वजनिक-अवकाश की तिथि जाँचने वाले नियोक्ता और कर्मचारी भी शामिल हैं।"
 
 lang: "hi"
+sourceContentHash: "87814a02e5e75f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

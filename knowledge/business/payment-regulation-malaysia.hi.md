@@ -29,10 +29,11 @@ verificationNeeded:
   - "भुगतान प्रणालियों के लिए BNM का अपना गज़ट ऑर्डर पृष्ठ P.U.(A) 468/2024 को सूचीबद्ध नहीं करता, जो पंजीकृत-व्यवसाय आवश्यकताओं को संशोधित करता है — उस सूची को अधूरा मानें और AGC गज़ट पोर्टल की जाँच करें"
 
 lang: "hi"
+sourceContentHash: "312edd8d349c774c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

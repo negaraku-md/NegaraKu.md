@@ -42,10 +42,11 @@ verificationNeeded:
   - "क्या KPDN लाइसेंसधारी की शेयरधारिता में परिवर्तन पर नया WRT आवेदन माँगता है या परिवर्तन की अनुमति देता है, किसी KPDN दिशानिर्देश के विरुद्ध पुष्ट नहीं किया गया"
 
 lang: "hi"
+sourceContentHash: "9a4e03ec03d9397b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

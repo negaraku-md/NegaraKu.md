@@ -31,12 +31,13 @@ faq:
     a: "राष्ट्रीय फतवा परिषद ने 23-24 जून 1970 के अपने सम्मेलन में अंगदान को हारुस (अनुमेय) घोषित किया, जीवन बचाने की आपात स्थिति, खरीद-बिक्री के तत्व की अनुपस्थिति, और दाता या उसके उत्तराधिकारियों की सहमति प्राप्त करने जैसी शर्तों के तहत। इस फतवे को बाद में अन्य अंगों और ऊतकों तक विस्तारित किया गया।"
 
 lang: "hi"
+sourceContentHash: "55867275b6260a32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

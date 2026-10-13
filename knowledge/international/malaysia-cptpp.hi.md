@@ -34,10 +34,11 @@ faq:
     a: "राज्य-स्वामित्व वाले उद्यमों और निर्दिष्ट एकाधिकारों, बौद्धिक संपदा, श्रम, पर्यावरण, सरकारी खरीद, ई-कॉमर्स और सीमा-पार डेटा प्रवाह, और निवेश (निवेशक-राज्य विवाद-निपटान सहित) पर बाध्यकारी नियम। मलेशिया ने संक्रमण-अवधियाँ और साइड-लेटर हासिल किए — उदाहरण के लिए PETRONAS के लिए संरक्षण और अपने SOE के लिए लचीलापन।"
 
 lang: "hi"
+sourceContentHash: "9c8e25e6d3236954"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

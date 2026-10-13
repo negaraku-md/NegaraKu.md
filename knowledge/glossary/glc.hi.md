@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "निवेशक, नौकरी खोजने वाले, काम के लिए निविदा देने वाले आपूर्तिकर्ता, और वे सभी जो मलेशियाई व्यवसाय समाचार पढ़ते हैं।"
 
 lang: "hi"
+sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

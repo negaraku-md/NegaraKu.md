@@ -42,10 +42,11 @@ verificationNeeded:
   - "क्या सबाह के एकल-स्वामियों के लिए SSM पंजीकरण औपचारिक रूप से आवश्यक है — DBKK इसे आवश्यक दस्तावेज़ों में सूचीबद्ध नहीं करती"
 
 lang: "hi"
+sourceContentHash: "0a22774d2a85e872"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

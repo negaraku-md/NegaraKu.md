@@ -33,10 +33,11 @@ faq:
     a: "हाँ। धारा 29A किसी भी परिसर में खुले में जलाने को प्रतिषिद्ध करती है और यह RM500,000 तक के जुर्माने अथवा 5 वर्ष तक के कारावास अथवा दोनों से दंडनीय है। जब तक अन्यथा सिद्ध न हो, परिसर का स्वामी या अधिभोगी उत्तरदायी माना जाता है (धारा 29B)।"
 
 lang: "hi"
+sourceContentHash: "cd3834c25795a67e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

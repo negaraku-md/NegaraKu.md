@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "वह कोई भी जो धर्म पर सटीक संवैधानिक पाठ चाहता है — विद्यार्थी, शोधकर्ता और पाठक जो अनुच्छेद 3 और अनुच्छेद 11 के भावानुवादों से बार-बार टकराते हैं और स्वयं प्रावधानों को, आधिकारिक पुनर्मुद्रण से उद्धृत, चाहते हैं।"
 
 lang: "hi"
+sourceContentHash: "e8ee51ffbb017879"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

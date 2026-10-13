@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "कोई भी जो मलेशिया के पाम तेल उद्योग और उसकी आर्थिक भूमिका की एक अभिविन्यास-स्तरीय समझ चाहता है।"
 
 lang: "hi"
+sourceContentHash: "15826b7bb2b208ce"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

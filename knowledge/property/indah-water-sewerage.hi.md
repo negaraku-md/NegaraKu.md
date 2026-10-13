@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "प्रायद्वीपीय मलेशिया के गृहस्वामी, किरायेदार, स्ट्रैटा प्रबंधन निकाय और व्यवसाय संचालक जो समझना चाहते हैं कि IWK वास्तव में क्या है, वे किसके लिए भुगतान कर रहे हैं, और यह पानी के बिल से अलग क्यों है।"
 
 lang: "hi"
+sourceContentHash: "b457bd9b79e09115"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

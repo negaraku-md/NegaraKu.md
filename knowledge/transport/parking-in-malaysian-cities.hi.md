@@ -29,10 +29,11 @@ faq:
     a: "नहीं। पार्किंग शमन-जुर्माने स्थानीय प्राधिकरणों (PBT) द्वारा पार्किंग से संबंधित सड़क-यातायात आदेशों के तहत जारी किए जाते हैं, जबकि ड्राइविंग अपराधों के लिए यातायात समन PDRM या JPJ द्वारा जारी किए जाते हैं।"
 
 lang: "hi"
+sourceContentHash: "cec9d7c50b142e19"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

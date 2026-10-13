@@ -34,10 +34,11 @@ faq:
     a: "हाँ। क्षैतिज कार्टेल आचरण में शामिल व्यवसायों के लिए एक रियायत कार्यक्रम उपलब्ध है। जल्दी सहयोग करने से उन्मुक्ति (immunity) या 100% तक की दंड-कमी मिल सकती है, यद्यपि जिस उद्यम ने कार्टेल आरंभ किया या दूसरों को उसमें मजबूर किया उसे पूरी कमी मिलने की संभावना कम है। 2026 के संशोधनों के अंतर्गत, एक अलग निपटान-मार्ग भी दंड को 40% तक घटा सकता है।"
 
 lang: "hi"
+sourceContentHash: "f67186d884803b44"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

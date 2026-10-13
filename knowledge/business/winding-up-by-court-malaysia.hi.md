@@ -30,10 +30,11 @@ faq:
     a: "हाँ। जहाँ ऋण वास्तविक रूप से (bona fide) ठोस आधारों पर विवादित है, कंपनी लेनदार को याचिका प्रस्तुत करने से रोकने हेतु एक Fortuna निषेधाज्ञा (Fortuna injunction) के लिए आवेदन कर सकती है, क्योंकि समापन का उपयोग एक विवादित दावे को प्रवर्तित करने के लिए नहीं किया जाना चाहिए।"
 
 lang: "hi"
+sourceContentHash: "b91e135cb6354783"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

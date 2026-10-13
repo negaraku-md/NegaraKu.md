@@ -33,10 +33,11 @@ faq:
     a: "स्वतः नहीं। चूँकि दोनों राज्य अपने स्वयं के आप्रवासन को नियंत्रित करते हैं, विदेशी नागरिकों की सबाह/सरवाक प्रवेश बिंदु पर फिर से जाँच होती है और उन्हें एक अलग राज्य स्वीकृति या पास मिलता है।"
 
 lang: "hi"
+sourceContentHash: "61e0e60b5ca388ec"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

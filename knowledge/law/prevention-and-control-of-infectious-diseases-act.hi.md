@@ -30,12 +30,13 @@ faq:
     a: "ऐसे अपराधों के लिए जिनका कोई विशिष्ट दंड नहीं है, धारा 24 पहले अपराध हेतु दो वर्ष तक का कारावास या जुर्माना या दोनों का प्रावधान करती है। धारा 25 अधिनियम के मूल पाठ के अंतर्गत RM1,000 तक शमन की अनुमति देती है। ये दरें 2024 में Dewan Rakyat द्वारा पारित संशोधनों का विषय बनीं।"
 
 lang: "hi"
+sourceContentHash: "e9a7651147874f41"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

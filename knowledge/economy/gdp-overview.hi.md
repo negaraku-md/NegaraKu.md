@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो मलेशियाई अर्थव्यवस्था के पैमाने और स्वरूप की एक सामान्य, परिचयात्मक समझ चाहता है।"
 
 lang: "hi"
+sourceContentHash: "a15aa3483282907f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

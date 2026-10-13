@@ -25,9 +25,10 @@ faq:
   - q: "क्या 2025 की विलंब-दाखिली शुल्क छूट ने मेरी समयसीमा पीछे खिसका दी?"
     a: "नहीं। छूट 1 जून से 30 सितंबर 2025 तक चली और इसने केवल विलंब-दाखिली शुल्क हटाया। इसने कंपनी अधिनियम 2016 के अंतर्गत किसी वैधानिक दाखिली समयसीमा को नहीं बढ़ाया।"
 lang: "hi"
+sourceContentHash: "6cce56bdb89cd914"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

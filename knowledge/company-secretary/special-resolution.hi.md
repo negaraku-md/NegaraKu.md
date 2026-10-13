@@ -29,9 +29,10 @@ faq:
   - q: "कौन-से निर्णयों के लिए विशेष संकल्प चाहिए?"
     a: "संविधान में संशोधन, उसे अपनाना या रद्द करना (धारा 36), कंपनी का नाम बदलना (धारा 28), न्यायालय मार्ग से शेयर पूँजी घटाना (धारा 116) या विलायकता-विवरण (solvency-statement) मार्ग से (धारा 117), और सदस्यों के स्वैच्छिक समापन का आरंभ (धारा 439) — इन सभी के लिए विशेष संकल्प चाहिए।"
 lang: "hi"
+sourceContentHash: "b65d4a86d107f772"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

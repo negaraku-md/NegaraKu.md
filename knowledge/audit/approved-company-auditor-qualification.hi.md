@@ -34,10 +34,11 @@ faq:
     a: "यदि अनुमोदन समाप्त हो जाता है और एक वर्ष के भीतर पुनः सक्रिय नहीं किया जाता, तो आवेदक को एक नया आवेदन प्रस्तुत करना होगा और पुनः साक्षात्कार देना होगा।"
 
 lang: "hi"
+sourceContentHash: "e81ff5426724af5a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

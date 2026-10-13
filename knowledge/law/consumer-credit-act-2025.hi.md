@@ -33,10 +33,11 @@ faq:
     a: "हाँ। किराया-खरीद अधिनियम 1967 के तहत, न्यूनतम जमा नकद मूल्य का 10% है, हालाँकि वित्तदाता इससे अधिक राशि निर्धारित कर सकते हैं।"
 
 lang: "hi"
+sourceContentHash: "2d6f10d61a0f1ec1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

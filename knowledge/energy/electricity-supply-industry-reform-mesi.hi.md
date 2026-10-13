@@ -36,10 +36,11 @@ faq:
     a: "2020 में तत्कालीन ऊर्जा और प्राकृतिक संसाधन मंत्री, Datuk Dr Shamsul Anuar Nasarah ने संसद को बताया कि योजना की समीक्षा होनी चाहिए क्योंकि इसकी लागत है — सरकार पर लगभग RM5 बिलियन का वित्तीय बोझ, साथ ही RM60–80 बिलियन के बिजली-खरीद दायित्व जिन्हें सरकार को वहन करना पड़ता। तब से सुधार एक ही बड़े-धमाके वाले उदारीकरण के बजाय छोटे, लक्षित चरणों में आगे बढ़ा है।"
 
 lang: "hi"
+sourceContentHash: "5e135be7df9c9a11"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

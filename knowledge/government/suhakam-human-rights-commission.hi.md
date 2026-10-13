@@ -34,10 +34,11 @@ faq:
     a: "हाँ। धारा 4(2)(d) SUHAKAM को किसी भी निरोध-स्थल, संस्था और अन्य स्थान का दौरा करने और आवश्यक सिफारिशें करने की शक्ति देती है। धारा 4(3), जो 2024 के संशोधन द्वारा जोड़ी गई, कहती है कि जब तक निर्धारित प्रक्रियाओं का पालन किया जाता है, संबंधित स्थान के लिए उत्तरदायी व्यक्ति ऐसे दौरे से इनकार नहीं कर सकता।"
 
 lang: "hi"
+sourceContentHash: "41da53bbfb03e372"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

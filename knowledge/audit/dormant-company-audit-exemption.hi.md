@@ -18,10 +18,11 @@ verificationNeeded:
   - "किसी निष्क्रिय कंपनी खाते पर बैंक शुल्क और जमा किए गए ब्याज के SSM के व्यवहार की पुष्टि करें — निर्देश केवल उन दायित्वों को बाहर करता है जिन्हें कंपनी कानूनी रूप से चुकाने के लिए बाध्य है"
 
 lang: "hi"
+sourceContentHash: "71652677302d5a7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

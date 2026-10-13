@@ -32,12 +32,13 @@ faq:
     a: "यह वह ढाँचा है जिसे दोनों सरकारों ने संबंधों के अगले चरण का वर्णन करने के लिए अपनाया, जो 2013 में स्थापित व्यापक रणनीतिक साझेदारी पर आधारित है। अवधारणा 2023 से उठाई गई और राष्ट्रपति शी जिनपिंग की 17 अप्रैल 2025 की राजकीय यात्रा के दौरान एक संयुक्त वक्तव्य में औपचारिक रूप दी गई। यह व्यापार, प्रौद्योगिकी, अवसंरचना और जन-से-जन संपर्कों में सहयोग निर्धारित करती है।"
 
 lang: "hi"
+sourceContentHash: "72782c6871b15658"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -37,10 +37,11 @@ verificationNeeded:
   - "मेलाका घटक के लिए विशिष्ट मूल क्षेत्र (core zone) और बफर क्षेत्र के क्षेत्रफल की पुष्टि (संपूर्ण क्रमिक संपत्ति के बजाय) 1223bis नामांकन दस्तावेज़ के विरुद्ध करें।"
 
 lang: "hi"
+sourceContentHash: "68b18aa6f45a809f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

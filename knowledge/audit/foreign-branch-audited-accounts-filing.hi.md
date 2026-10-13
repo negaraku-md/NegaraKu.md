@@ -30,10 +30,11 @@ faq:
     a: "कंपनी के अपने वित्तीय विवरणों की एक प्रति दाखिल करनी ही होती है, परंतु धारा 575(5) इसके अतिरिक्त एक विधिवत लेखापरीक्षित विवरण की अपेक्षा करती है जो उसके मलेशियाई संचालन में प्रयुक्त आस्तियों और उससे उत्पन्न देयताओं को समेटे, तथा अनुमोदित लेखांकन मानकों के तहत एक सही और उचित चित्र प्रस्तुत करता हो।"
 
 lang: "hi"
+sourceContentHash: "857f2052ec7f627d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

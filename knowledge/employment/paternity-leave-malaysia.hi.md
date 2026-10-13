@@ -28,10 +28,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या बारह-महीने की सेवा-शर्त सेवा में किसी व्यवधान को सहन करती है, और धारा 60FA के लिए सतत सेवा की गणना कैसे की जाती है"
 
 lang: "hi"
+sourceContentHash: "97900bf02693ecc5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

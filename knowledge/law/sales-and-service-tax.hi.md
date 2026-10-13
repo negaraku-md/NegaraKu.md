@@ -37,10 +37,11 @@ faq:
     a: "कुछ B2B राहत मौजूद है। उदाहरण के लिए, जहाँ प्रदाता और प्राप्तकर्ता दोनों पंजीकृत हैं और वही कर योग्य सेवा प्रदान करते हैं, वहाँ एक B2B छूट लागू हो सकती है, और एक ही कॉर्पोरेट समूह की कंपनियों के बीच किराए या पट्टे के लिए समूह राहत उपलब्ध है। छूटें विशिष्ट हैं — अपने सेवा समूह के लिए RMCD मार्गदर्शन के विरुद्ध पात्रता की पुष्टि करें।"
 
 lang: "hi"
+sourceContentHash: "4d9e9ab785dd88ab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

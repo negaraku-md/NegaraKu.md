@@ -31,10 +31,11 @@ faq:
     a: "पूरी तरह नहीं। JPN पोर्टल जन्म और मृत्यु सेवाओं को प्रायद्वीपीय मलेशिया, सबाह और सारावाक के लिए अलग-अलग सूचीबद्ध करता है, जिनकी आवेदन-श्रेणियाँ और विधिक संदर्भ भिन्न हैं। Akta Pendaftaran Negara 1959 स्वयं प्रत्येक क्षेत्र में अलग-अलग तारीख़ पर प्रभावी हुआ। घटना जिस क्षेत्र में पंजीकृत की जा रही है, उसके अनुसार फ़ॉर्म की पुष्टि करें।"
 
 lang: "hi"
+sourceContentHash: "c1ba766163b08209"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

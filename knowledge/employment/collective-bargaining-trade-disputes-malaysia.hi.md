@@ -34,10 +34,11 @@ faq:
     a: "हाँ। Trade Unions Act 1959 (धारा 25A) के अंतर्गत, गुप्त मतदान आवश्यक है। संशोधनों के बाद, अपेक्षित सीमा को पिछली दो-तिहाई बहुमत की तुलना में, मतदान के अधिकारी कम-से-कम 60 प्रतिशत सदस्यों के वास्तव में मतदान करने के साथ, आधे से अधिक मतों तक घटा दिया गया।"
 
 lang: "hi"
+sourceContentHash: "d0b1ce6e61182113"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -35,9 +35,10 @@ verificationNeeded:
   - "'राष्ट्रीय वाउ' की सूची जो अक्सर मजलिस पेलायांग मलेशिया (Majlis Pelayang Malaysia) से जोड़ी जाती है (वाउ बुलान, वाउ कुचिंग, वाउ जाला बुदी) — इसके बारे में कोई आधिकारिक प्रकाशन नहीं मिला।"
 
 lang: "hi"
+sourceContentHash: "dca70ac2ef9b33e2"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

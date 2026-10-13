@@ -33,10 +33,11 @@ faq:
     a: "मलेशियाई निवेश विकास प्राधिकरण (MIDA) आवेदनों को स्वीकृत करता है, जो Invest Malaysia पोर्टल के माध्यम से प्रस्तुत किए जाते हैं। बैंकिंग एवं वित्तीय सेवाओं के आवेदन Bank Negara Malaysia (मलेशिया का केंद्रीय बैंक) द्वारा संभाले जाते हैं।"
 
 lang: "hi"
+sourceContentHash: "9170883af9a3f4af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

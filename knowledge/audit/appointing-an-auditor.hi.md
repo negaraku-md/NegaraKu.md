@@ -42,10 +42,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या वित्त मंत्री ने s.263 अनुमोदन-कार्य को औपचारिक रूप से प्रत्यायोजित किया है, और किस निकाय को, क्योंकि s.263(5) प्रत्यायोजन की अनुमति देती है पर बाध्य नहीं करती"
 
 lang: "hi"
+sourceContentHash: "171d2f5e74d8eb19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

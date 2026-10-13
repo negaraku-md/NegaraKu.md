@@ -36,10 +36,11 @@ faq:
     a: "व्यवहार निर्देश 10/2024 विशेष रूप से ऐसी निजी कंपनी पर लागू नहीं होता जो किसी सार्वजनिक कंपनी की सहायक कंपनी हो, न सूचीबद्ध कंपनियों सहित सार्वजनिक कंपनियों पर, न विदेशी कंपनियों पर, और न उन छूट-प्राप्त निजी कंपनियों (exempt private company) पर जिन्होंने CA 2016 की धारा 260 के तहत स्थिति का प्रमाण-पत्र दाखिल करना चुना हो।"
 
 lang: "hi"
+sourceContentHash: "1f9465f320d07544"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

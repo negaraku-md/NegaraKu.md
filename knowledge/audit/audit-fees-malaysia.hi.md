@@ -40,10 +40,11 @@ verificationNeeded:
   - "RPG 7 की वापसी के बताए गए कारण, अर्थात् Competition Act 2010, की पुष्टि किसी MIA परिपत्र या काउंसिल संकल्प के विरुद्ध करें — किसी आधिकारिक दस्तावेज़ से केवल वापसी की तारीख ही पुष्ट हो सकी"
 
 lang: "hi"
+sourceContentHash: "ecdf13a6ded6622d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

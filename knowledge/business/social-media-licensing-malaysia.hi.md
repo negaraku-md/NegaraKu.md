@@ -27,10 +27,11 @@ verificationNeeded:
   - "MCMC व्यवहार में आठ-मिलियन उपयोगकर्ता गणना को कैसे मापता है, और उपयोग की गई संदर्भ अवधि"
 
 lang: "hi"
+sourceContentHash: "4b67b928b9834e6c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

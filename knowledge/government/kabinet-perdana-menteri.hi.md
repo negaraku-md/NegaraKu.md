@@ -37,12 +37,13 @@ verificationNeeded:
   - "मंत्रिमंडल के वर्तमान आकार और मंत्रालयों की वर्तमान सूची को प्रधानमंत्री विभाग (Prime Minister's Department) के आधिकारिक प्रकाशनों के विरुद्ध सत्यापित करें — संविधान मंत्रियों की संख्या निर्धारित नहीं करता।"
 
 lang: "hi"
+sourceContentHash: "0f9a6fea7774269c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

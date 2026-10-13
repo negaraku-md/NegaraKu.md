@@ -27,9 +27,10 @@ faq:
   - q: "वित्त मंत्रालय का नेतृत्व कौन करता है?"
     a: "अगस्त 2026 तक, वित्त मंत्री Dato' Seri Anwar bin Ibrahim हैं, जिनके साथ Datuk Seri Amir Hamzah bin Azizan द्वितीय वित्त मंत्री और Datuk Johan Mahmood bin Merican खज़ाने के महासचिव हैं। मंत्रिमंडल फेरबदल के साथ पदधारी बदलते रहते हैं, इसलिए वर्तमान नामों की पुष्टि mof.gov.my पर करें।"
 lang: "hi"
+sourceContentHash: "d725c73359a7391e"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

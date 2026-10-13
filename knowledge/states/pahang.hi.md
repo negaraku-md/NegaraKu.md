@@ -41,12 +41,13 @@ verificationNeeded:
   - "राज्य पर्यटन पोर्टल 35,960 किमी² क्षेत्रफल बताता है जबकि राज्य सरकार का पोर्टल 35,965 किमी² बताता है; पहांग के राज्य सचिव कार्यालय से एकमात्र आधिकारिक आँकड़े की पुष्टि करें।"
 
 lang: "hi"
+sourceContentHash: "da77a92f707cbcd4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

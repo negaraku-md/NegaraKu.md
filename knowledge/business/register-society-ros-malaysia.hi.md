@@ -33,10 +33,11 @@ faq:
     a: "हाँ। धारा 14 के तहत, हर पंजीकृत सोसाइटी को अपनी वार्षिक आम बैठक के साठ दिनों के भीतर (या यदि कोई AGM न हो तो कैलेंडर वर्ष के अंत के साठ दिनों के भीतर) रजिस्ट्रार को पदाधिकारियों और सदस्य संख्या की अद्यतन सूची, नियमों में कोई संशोधन, अपना पता, और पिछले वित्तीय वर्ष के अपने खाते एवं तुलन-पत्र भेजने होते हैं। दाखिल न करने पर पंजीकरण रद्द हो सकता है।"
 
 lang: "hi"
+sourceContentHash: "b426932dcfc299b3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

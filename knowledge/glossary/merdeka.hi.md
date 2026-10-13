@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "कोई भी व्यक्ति जो «merdeka» शब्द का वास्तविक अर्थ और उत्पत्ति समझना चाहता है, न कि केवल 1957 की तिथि या समारोह।"
 
 lang: "hi"
+sourceContentHash: "194d82a69dbc1089"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

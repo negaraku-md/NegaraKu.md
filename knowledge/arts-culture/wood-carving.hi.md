@@ -33,9 +33,10 @@ faq:
     a: "अवान लारात का शास्त्रीय डिज़ाइन सिद्धांत वास्तव में मनुष्यों या जानवरों को प्राथमिक पैटर्न तत्व के रूप में चित्रित करने से बचता है। तथापि, मलय काष्ठ नक्काशी की अपनी एक अलग पशु अलंकरण श्रेणी भी है — जैसे मुर्गी, गैंडा और बतख की आकृतियाँ — जो दोहराव वाले अवान लारात पैटर्न से अलग प्रयोग की जाती है।"
 
 lang: "hi"
+sourceContentHash: "9f06d94e839f077d"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

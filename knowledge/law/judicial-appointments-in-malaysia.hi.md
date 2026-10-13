@@ -30,12 +30,13 @@ faq:
     a: "हाँ, लेकिन केवल अनुच्छेद 125 प्रक्रिया के माध्यम से। यांग दी-पर्टुआन अगोंग को एक अभ्यावेदन दिया जाता है, जो तब पाँच से कम न्यायिक पद धारण करने वाले या धारण कर चुके व्यक्तियों से न बने एक न्यायाधिकरण की स्थापना करते हैं। आधार आचार-संहिता के उल्लंघन या पद के कर्तव्यों को निभाने में असमर्थता तक सीमित हैं।"
 
 lang: "hi"
+sourceContentHash: "609ac0242c162e91"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

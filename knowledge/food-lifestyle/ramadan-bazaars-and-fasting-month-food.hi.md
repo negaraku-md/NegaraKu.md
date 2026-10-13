@@ -31,12 +31,13 @@ faq:
     a: "स्वास्थ्य मंत्रालय (KKM) बाज़ार स्टॉल पर निगरानी और निरीक्षण करता है, और Food Hygiene Regulations 2009 के तहत समझौता (compound) जारी कर सकता है। स्थानीय प्राधिकरण, KKM और KPDN भी भोजन की गुणवत्ता, स्वच्छता और मूल्य नियंत्रण के लिए रमज़ान भर दैनिक निरीक्षण करते हैं।"
 
 lang: "hi"
+sourceContentHash: "571a086b9bbbfa81"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

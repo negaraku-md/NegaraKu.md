@@ -47,12 +47,13 @@ verificationNeeded:
   - "बैंकिंग, बीमा और takaful लाइसेंसधारियों के लिए बुमिपुत्र या विदेशी शेयरधारिता की शर्तें। ऐसा कहने वाला कोई प्रकाशित Bank Negara दस्तावेज़ प्राप्त नहीं हुआ।"
 
 lang: "hi"
+sourceContentHash: "da83e3eaf6cc3765"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -47,10 +47,11 @@ obligations:
     consequence: "s.58(4) के तहत RM50,000 तक जुर्माना और निरंतर अपराध के लिए RM500 प्रतिदिन तक का अतिरिक्त जुर्माना"
 
 lang: "hi"
+sourceContentHash: "8a80c4606fe7ff91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

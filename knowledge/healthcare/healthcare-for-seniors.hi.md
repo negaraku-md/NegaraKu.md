@@ -21,9 +21,10 @@ appliesTo: "मलेशिया में वयस्क संतान औ�
 verificationNeeded:
   - "यह लेख निजी नर्सिंग होम शुल्क, बिस्तर क्षमता, या Rumah Seri Kenangan के लिए प्रतीक्षा-सूची की लंबाई नहीं बताता, क्योंकि ये अक्सर बदलते हैं और लिखते समय किसी आधिकारिक स्रोत पर पुष्ट नहीं थे — वर्तमान शुल्क और उपलब्धता की पुष्टि सीधे संचालक या ज़िला समाज कल्याण कार्यालय (Jabatan Kebajikan Masyarakat Daerah) से करें।"
 lang: "hi"
+sourceContentHash: "7ae419cbd6a2d437"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

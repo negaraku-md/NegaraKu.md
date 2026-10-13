@@ -28,10 +28,11 @@ verificationNeeded:
   - "Confirm HRD Corp registration liability against the First Schedule industry classes in P.U.(A) 84/2021 before assuming the levy applies"
 
 lang: "hi"
+sourceContentHash: "09bddb62f9842f1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

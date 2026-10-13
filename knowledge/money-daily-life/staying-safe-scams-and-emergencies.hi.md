@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "मलेशिया में रहने वाला या उसका दौरा करने वाला कोई भी व्यक्ति जो जानना चाहता है कि असली आपातकाल बनाम वित्तीय धोखाधड़ी के लिए कौन-सा नंबर डायल करे, और पैसे का हाथ बदलने से पहले सबसे आम धोखाधड़ी पैटर्न को कैसे पहचाने।"
 
 lang: "hi"
+sourceContentHash: "9fc1856c9ea17a12"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

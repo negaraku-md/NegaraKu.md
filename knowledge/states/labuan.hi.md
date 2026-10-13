@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "लाबुआन संरचना का मूल्यांकन कर रहे संस्थापक, कर सलाहकार और वित्त दल, तथा वे पाठक जो समझना चाहते हैं कि लाबुआन को शेष मलेशिया से अलग क्यों माना जाता है।"
 
 lang: "hi"
+sourceContentHash: "398103a0292eae47"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

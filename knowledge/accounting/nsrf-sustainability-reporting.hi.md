@@ -41,10 +41,11 @@ verificationNeeded:
   - "किसी गैर-सूचीबद्ध कंपनी के लिए NSRF को वैधानिक दायित्व मानने से पूर्व पुष्टि करें कि क्या NSRF के अनुभाग IX में सूचीबद्ध विधायी संशोधन अधिनियमित कर दिए गए हैं"
 
 lang: "hi"
+sourceContentHash: "580bb89b56c953ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

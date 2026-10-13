@@ -30,12 +30,13 @@ faq:
     a: "दोनों राज्यों को अनुच्छेद 112C के तहत विशेष अनुदान और दसवीं अनुसूची के भाग V के तहत अतिरिक्त राजस्व स्रोत प्राप्त होते हैं, जिनमें पेट्रोलियम उत्पादों पर शुल्क, लकड़ी एवं वन उपज पर निर्यात शुल्क, खनिज रॉयल्टी और राज्य बिक्री कर शामिल हैं।"
 
 lang: "hi"
+sourceContentHash: "f7789909fc78f01b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

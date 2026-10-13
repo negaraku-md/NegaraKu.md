@@ -33,10 +33,11 @@ faq:
     a: "नियोक्ता भुगतान को, उसके छूट-प्राप्त और कर-योग्य हिस्सों में विभाजित करके, वर्ष के लिए कर्मचारी के फ़ॉर्म EA (C.P.8A) में रिपोर्ट करता है, और कर-योग्य हिस्सा उस वर्ष के लिए कर्मचारी की आय में शामिल किया जाता है। अलग से, एक निजी-क्षेत्र के नियोक्ता को LHDN को सूचित करना होगा कि कर्मचारी रोज़गार समाप्त करने वाला है, आमतौर पर समाप्ति से कम-से-कम 30 दिन पहले फ़ॉर्म CP22A का उपयोग करते हुए, और अंतिम वेतन जारी करने से पहले कर निकासी (Surat Penyelesaian Cukai) लंबित रहते हुए धन रोक देना चाहिए।"
 
 lang: "hi"
+sourceContentHash: "8493c353cbce9515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

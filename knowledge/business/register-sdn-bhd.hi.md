@@ -37,10 +37,11 @@ faq:
     a: "पंजीकृत कार्यालय मलेशिया में होना चाहिए और ऐसा स्थान होना चाहिए जहाँ दस्तावेज़ तामील किए जा सकें और अभिलेखों का निरीक्षण किया जा सके (धारा 46)। कई कंपनियाँ इसके बजाय अपने कंपनी सचिव के कार्यालय का उपयोग करती हैं।"
 
 lang: "hi"
+sourceContentHash: "0220f937a06b83b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

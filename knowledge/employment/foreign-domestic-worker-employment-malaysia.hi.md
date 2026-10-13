@@ -34,10 +34,11 @@ faq:
     a: "राशि स्रोत-देश के अनुसार बदलती है — RM250 (इंडोनेशिया, थाईलैंड, कंबोडिया), RM750 (फ़िलीपींस, श्रीलंका, भारत) और RM1,500 (वियतनाम, लाओस) Immigration Department के अनुसार। कामगार के लौटने पर, शर्तों के अधीन, बॉन्ड वापस लिया जा सकता है।"
 
 lang: "hi"
+sourceContentHash: "80b7fb78bc8f91cd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

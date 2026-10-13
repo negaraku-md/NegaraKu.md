@@ -32,10 +32,11 @@ faq:
     a: "वे अलग-अलग परतें हैं। ISA 550 लेखापरीक्षा को नियंत्रित करता है; MFRS 124 नियंत्रित करता है कि वित्तीय विवरणों में किसका प्रकटन आवश्यक है; और बर्सा अध्याय 10 कॉर्पोरेट कार्रवाई को नियंत्रित करता है — कब किसी सूचीबद्ध निर्गमकर्ता को कोई लेनदेन घोषित करना होगा, एक परिपत्र जारी करना होगा, या पूर्व शेयरधारक अनुमोदन प्राप्त करना होगा, जिसमें इच्छुक निदेशक और प्रमुख शेयरधारक मतदान से विरत रहेंगे।"
 
 lang: "hi"
+sourceContentHash: "ea0ecab6bfc0f793"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

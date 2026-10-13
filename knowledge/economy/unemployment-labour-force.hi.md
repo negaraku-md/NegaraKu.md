@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "कोई भी जो मलेशिया के श्रम-बाज़ार के आँकड़ों की व्याख्या करता है — नौकरी खोजने वाले, नियोक्ता, नीति-निर्माता और विश्लेषक।"
 
 lang: "hi"
+sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

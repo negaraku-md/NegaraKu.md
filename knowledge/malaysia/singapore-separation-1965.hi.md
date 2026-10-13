@@ -29,11 +29,12 @@ faq:
     a: "नहीं। समझौते ने दोनों पक्षों को एक संयुक्त रक्षा परिषद के साथ बाह्य रक्षा पर एक भावी संधि के लिए, आर्थिक सहयोग के लिए, और सिंगापुर नगर परिषद एवं जोहोर राज्य की सरकार के बीच 1 सितंबर 1961 तथा 29 सितंबर 1962 के जल समझौतों की पारस्परिक राज्य-दर-राज्य गारंटियों के लिए प्रतिबद्ध किया। सिंगापुर के उच्च न्यायालय से अपीलें भी एक अस्थायी व्यवस्था के रूप में मलेशिया के संघीय न्यायालय में तब तक आती रहीं जब तक सिंगापुर ने अन्यथा विधान नहीं बनाया।"
 
 lang: "hi"
+sourceContentHash: "0de005f939d65ebf"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

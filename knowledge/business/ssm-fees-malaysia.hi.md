@@ -28,10 +28,11 @@ verificationNeeded:
   - "SSM कंपनी निगमन के लिए कोई सामान्य प्रसंस्करण-समय सेवा मानक प्रकाशित नहीं करता; यहाँ दिए गए आँकड़े विभिन्न तिथियों के व्यक्तिगत दिशानिर्देशों से आते हैं"
 
 lang: "hi"
+sourceContentHash: "30930e352d6a91ec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

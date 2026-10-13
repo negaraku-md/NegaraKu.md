@@ -35,12 +35,13 @@ verificationNeeded:
   - "पर्लिस इनलैंड पोर्ट के आवंटनों (RM318.0 मिलियन अवसंरचना, RM1.2 बिलियन निजी निवेश) और छह प्रशासनिक क्षेत्रों की MKN से पुनः पुष्टि करें जब mkn.gov.my पहुँच-योग्य हो; नवीनतम पुनः-सत्यापन चरण के दौरान साइट बंद थी, इसलिए ये आँकड़े मूल 2026-07-24 की जाँच पर टिके हैं।"
 
 lang: "hi"
+sourceContentHash: "f8950ccf72fcaab1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

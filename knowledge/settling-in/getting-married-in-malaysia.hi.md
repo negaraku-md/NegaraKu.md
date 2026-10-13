@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "मलेशिया में विवाह की योजना बनाने वाला कोई भी व्यक्ति — मलेशियाई नागरिक और विदेशी नागरिक, चाहे दोनों पक्ष ग़ैर-मुस्लिम हों, दोनों मुस्लिम हों, या एक पक्ष किसी मुस्लिम साथी से विवाह करने के लिए इस्लाम स्वीकार कर रहा हो — जिसे यह जानने की ज़रूरत है कि उसका विवाह किस क़ानूनी प्रणाली और किस प्राधिकरण के अंतर्गत आता है।"
 
 lang: "hi"
+sourceContentHash: "12e75b9b51367c03"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

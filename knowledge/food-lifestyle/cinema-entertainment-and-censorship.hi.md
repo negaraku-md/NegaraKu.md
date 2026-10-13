@@ -33,12 +33,13 @@ faq:
     a: "लाइसेंस या स्वीकृति के बिना किसी फिल्म को रखना, वितरित करना या प्रदर्शित करना Film Censorship Act 2002 के तहत एक अपराध है, जिसमें RM5,000 से RM30,000 के बीच का जुर्माना और/या अधिकतम 3 वर्ष की अवधि का कारावास है।"
 
 lang: "hi"
+sourceContentHash: "f25f07b35f2179e4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

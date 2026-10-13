@@ -36,10 +36,11 @@ faq:
     a: "15–30 MtCO₂eq लक्ष्य में से, 20 MtCO₂eq तक अशर्त है — मलेशिया इसके प्रति किसी भी स्थिति में प्रतिबद्ध है। एक और 10 MtCO₂eq सशर्त है, अर्थात यह केवल तभी पूरा किया जाएगा जब अंतरराष्ट्रीय जलवायु वित्त, प्रौद्योगिकी हस्तांतरण और क्षमता-निर्माण समर्थन प्रदान किया जाए।"
 
 lang: "hi"
+sourceContentHash: "7ad2136668e2982a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

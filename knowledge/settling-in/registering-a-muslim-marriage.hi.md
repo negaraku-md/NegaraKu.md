@@ -32,12 +32,13 @@ faq:
     a: "मलेशिया सरकार का सेवा पोर्टल बताता है कि विवाह-संस्कार एक विवाह अनुमति पत्र के आधार पर संपन्न होता है जो 90 दिनों तक वैध रहता है।"
 
 lang: "hi"
+sourceContentHash: "ddd87b097dd5f44c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

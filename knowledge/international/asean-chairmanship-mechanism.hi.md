@@ -30,10 +30,11 @@ faq:
     a: "एक पूरा कैलेंडर वर्ष, 1 जनवरी से 31 दिसंबर तक। फिलीपींस 1 जनवरी 2026 को मलेशिया से कार्यभार संभालता है।"
 
 lang: "hi"
+sourceContentHash: "be6127ce5cca4347"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

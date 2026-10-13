@@ -52,10 +52,11 @@ obligations:
     consequence: "MD दर्जा केवल तब तक सतत है जब तक शर्तें पूरी होती रहें"
 
 lang: "hi"
+sourceContentHash: "d30f4b105a3a1150"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

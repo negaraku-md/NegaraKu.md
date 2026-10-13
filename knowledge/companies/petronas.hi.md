@@ -35,12 +35,13 @@ faq:
     a: "दोनों राज्य 1975 के समझौते के आधार पर 5% रॉयल्टी का दावा करते हैं। Terengganu को भुगतान मिलता है (हालाँकि इन्हें एक बार लगभग 2000 में 'सद्भावना राशि' में बदल दिया गया था और 2009 में बहाल किया गया), जबकि Kelantan के 2010 के न्यायालयी दावे को 2019 में वापस ले लिया गया। मूल मुद्दा यह है कि संबंधित कुएँ राज्य के जल (तीन समुद्री मील की सीमा) के भीतर हैं या संघीय अधिकार-क्षेत्र के अंतर्गत।"
 
 lang: "hi"
+sourceContentHash: "fee9c9760c973ad8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

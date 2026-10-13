@@ -30,10 +30,11 @@ faq:
     a: "MOE के अनुसार, किसी अपंजीकृत निजी शैक्षिक संस्थान का संचालन RM30,000 का जुर्माना या 2 वर्ष की कैद या दोनों आमंत्रित कर सकता है।"
 
 lang: "hi"
+sourceContentHash: "2879304f7041420a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

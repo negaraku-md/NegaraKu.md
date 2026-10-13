@@ -32,12 +32,13 @@ faq:
     a: "MyGovernment पोर्टल बताता है कि निर्णय स्थायी और अपरिवर्तनीय है; जो व्यक्ति अपनी नागरिकता त्यागता है वह एक मलेशियाई नागरिक के रूप में सभी अधिकार और विशेषाधिकार स्थायी रूप से खो देता है।"
 
 lang: "hi"
+sourceContentHash: "350dd3e83765a9b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -48,12 +48,13 @@ verificationNeeded:
   - "विदेशी संपत्ति अधिग्रहण के लिए प्रति-राज्य न्यूनतम क्रय मूल्य सीमाएँ राज्य भूमि कार्यालय स्रोतों के विरुद्ध सत्यापित नहीं की गईं। RM1,000,000 का आँकड़ा संघीय न्यूनतम सीमा है; राज्य अपनी स्वयं की, प्रायः उससे अधिक, सीमाएँ निर्धारित करते हैं।"
 
 lang: "hi"
+sourceContentHash: "9eb59bf5dfe47262"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-22"
 reviewDue: "2027-07-22"
 revision: 0

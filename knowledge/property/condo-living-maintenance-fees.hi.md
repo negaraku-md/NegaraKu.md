@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "कोई भी व्यक्ति जो प्रायद्वीपीय मलेशिया या लाबुआन संघीय क्षेत्र में किसी मलेशियाई कॉन्डोमिनियम, अपार्टमेंट, या अन्य स्ट्रेटा (स्ट्रेटा-टाइटल वाली) संपत्ति में एक यूनिट का मालिक है, खरीद रहा है, या किराए पर ले रहा है।"
 
 lang: "hi"
+sourceContentHash: "cb88d8015d2b5a82"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

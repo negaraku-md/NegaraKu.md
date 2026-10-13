@@ -32,10 +32,11 @@ faq:
     a: "RENTAS (Real-Time Electronic Transfer of Funds and Securities) Bank Negara Malaysia की रीयल-टाइम सकल निपटान प्रणाली है। सरकारी प्रतिभूतियाँ इसके ज़रिए डिलीवरी-बनाम-भुगतान आधार पर निपटाई जाती हैं, इसलिए नक़दी और प्रतिभूतियाँ एक साथ हाथ बदलती हैं।"
 
 lang: "hi"
+sourceContentHash: "9da4da3090cd0bd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

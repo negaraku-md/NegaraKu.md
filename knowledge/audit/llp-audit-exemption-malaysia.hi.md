@@ -29,10 +29,11 @@ faq:
     a: "जिस वित्तीय वर्ष से लेनदेन संबंधित हों उसकी समाप्ति से कम-से-कम सात वर्ष तक (धारा 69(2))।"
 
 lang: "hi"
+sourceContentHash: "6c21f7bda1b829f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

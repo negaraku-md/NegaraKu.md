@@ -23,10 +23,11 @@ keyTakeaways:
 appliesTo: "वे सभी जो यह समझने का प्रयास कर रहे हैं कि प्रधानमंत्री विभाग वास्तव में क्या है, इतनी सारी प्रतीत में असंबद्ध संघीय एजेंसियाँ इसके अधीन क्यों आती हैं, और यह एक सामान्य मंत्रालय से कैसे भिन्न है।"
 
 lang: "hi"
+sourceContentHash: "e406cee4d2aa12d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

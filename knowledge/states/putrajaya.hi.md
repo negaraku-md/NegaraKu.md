@@ -38,10 +38,11 @@ verificationNeeded:
   - "प्रीसिंक्ट्स की संख्या (20) और 4,931 हेक्टेयर के क्षेत्रफल आँकड़े की पुष्टि पर्बादानन पुत्राजया के नवीनतम आधिकारिक प्रकाशन से करें — 2017 की वार्षिक रिपोर्ट ने एक बार एक भिन्न क्षेत्रफल आँकड़ा दर्ज किया था।"
 
 lang: "hi"
+sourceContentHash: "7ed3eafee80e71c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

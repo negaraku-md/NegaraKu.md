@@ -29,10 +29,11 @@ faq:
     a: "हाँ। SaveME 999 ऐप केवल वॉइस कॉल ही नहीं, बल्कि वीडियो-, टेक्स्ट- और मल्टीमीडिया-आधारित आपातकालीन अलर्ट भेजने में सक्षम बनाता है, जिससे दिव्यांगजन भी 999 ऑपरेटर तक पहुँच सकते हैं।"
 
 lang: "hi"
+sourceContentHash: "a2e869579c3095a1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

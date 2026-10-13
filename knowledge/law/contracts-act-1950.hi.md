@@ -32,10 +32,11 @@ faq:
     a: "आम तौर पर नहीं। धारा 26 कहती है कि प्रतिफल के बिना किया गया समझौता शून्य है, जो तीन अपवादों के अधीन है: एक-दूसरे से निकट संबंध में खड़े पक्षों के बीच स्वाभाविक प्रेम और स्नेह से किया गया एक लिखित और पंजीकृत वादा, पहले से स्वेच्छा से किए गए किसी कार्य के लिए क्षतिपूर्ति का वादा, और परिसीमा कानून द्वारा वर्जित ऋण चुकाने का वादा।"
 
 lang: "hi"
+sourceContentHash: "a078693f5e3c25a0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

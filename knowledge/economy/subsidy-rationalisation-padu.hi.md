@@ -31,10 +31,11 @@ faq:
     a: "वित्त मंत्रालय 10 जून 2024 को डीज़ल युक्तिकरण शुरू होने के बाद से प्रति वर्ष लगभग RM5 बिलियन की बचत का अनुमान लगाता है।"
 
 lang: "hi"
+sourceContentHash: "fb230f3e8cc5eada"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

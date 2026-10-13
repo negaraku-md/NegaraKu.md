@@ -35,10 +35,11 @@ faq:
     a: "2026 तक विदेश मंत्री Dato' Seri Utama Mohamad Hasan हैं। मंत्रिमंडल के विभाग फेरबदल के साथ बदलते हैं, इसलिए वर्तमान पदधारी की पुष्टि kln.gov.my पर करें।"
 
 lang: "hi"
+sourceContentHash: "e91cf1913840a424"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

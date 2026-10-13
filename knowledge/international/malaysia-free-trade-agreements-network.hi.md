@@ -30,10 +30,11 @@ faq:
     a: "नहीं। MITI बताता है कि MEEPA 23 जून 2025 को हस्ताक्षरित हुआ पर अभी लागू नहीं हुआ, इसलिए निर्यातक और आयातक इसकी तरजीहों का उपयोग तब तक नहीं कर सकते जब तक दोनों पक्ष अनुसमर्थन पूरा नहीं कर लेते।"
 
 lang: "hi"
+sourceContentHash: "2907ad666c9762d0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

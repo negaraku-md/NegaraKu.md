@@ -30,11 +30,12 @@ faq:
     a: "DOSM 'अन्य बुमिपुत्र' को सबा बुमिपुत्र (समूह का 55.3 प्रतिशत, जिसमें कादाज़ान/दुसुन, बाजाउ, मुरुत और अन्य सबा बुमिपुत्र समूह शामिल हैं), सारावाक बुमिपुत्र (32.3 प्रतिशत, जिसमें इबान, बिदायुह, मेलानाउ और अन्य सारावाक बुमिपुत्र समूह शामिल हैं), और शेष बनाने वाले अन्य प्रायद्वीपीय बुमिपुत्र समूहों में विभाजित करता है।"
 
 lang: "hi"
+sourceContentHash: "6a6100396bc06f2b"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

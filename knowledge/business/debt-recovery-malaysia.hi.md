@@ -45,10 +45,11 @@ verificationNeeded:
   - "मलेशिया के संघीय न्यायालय (Federal Court of Malaysia) या संबंधित रजिस्ट्री से वर्तमान न्यायालय दाखिल-शुल्क और मुद्रांकन-शुल्क की पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "572d5b41b321894d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

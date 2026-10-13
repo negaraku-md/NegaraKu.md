@@ -29,12 +29,13 @@ faq:
     a: "प्राथमिक अधिकार-क्षेत्र राज्य इस्लामी धार्मिक विभागों/परिषदों के पास है, क्योंकि संविधान के अंतर्गत इस्लामी धार्मिक मामले एक राज्य का विषय हैं। JAKIM संघीय स्तर पर समन्वय करता है, जबकि भवन सुरक्षा आवश्यकताओं में स्थानीय प्राधिकरण और अग्निशमन विभाग (Bomba) शामिल होते हैं।"
 
 lang: "hi"
+sourceContentHash: "e8c71a5517740e23"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

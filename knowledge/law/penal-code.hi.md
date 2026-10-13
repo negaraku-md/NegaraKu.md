@@ -31,10 +31,11 @@ faq:
     a: "क्योंकि यह उसी मसौदे की वंशज है। स्ट्रेट्स सेटलमेंट्स दंड संहिता Ordinance No. 4 of 1871 के रूप में अधिनियमित हुई और अगले वर्ष भारतीय दंड संहिता (Indian Penal Code) के स्थानीय पुनर्अधिनियमन के रूप में प्रभावी हुई, जिसका मसौदा स्वयं लॉर्ड मैकॉले के अधीन प्रथम भारतीय विधि आयोग ने तैयार किया था। 1936 की फेडरेटेड मलय स्टेट्स दंड संहिता ने उसी प्रतिमान का अनुसरण किया, और Act 574 उसका प्रत्यक्ष उत्तराधिकारी है।"
 
 lang: "hi"
+sourceContentHash: "7702e4996ec5b32e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

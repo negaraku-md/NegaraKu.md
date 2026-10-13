@@ -27,10 +27,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या किसी मलेशियाई न्यायालय ने रोज़गार-समाप्ति के बाद ग्राहकों की अपप्रेरण के किसी खंड को धारा 28 के बाहर मानते हुए बरकरार रखा है"
 
 lang: "hi"
+sourceContentHash: "d5d94ae67835a159"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

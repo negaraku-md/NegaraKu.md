@@ -25,10 +25,11 @@ verificationNeeded:
   - "SPIKPA के सटीक प्रीमियम और वार्षिक कवरेज सीमा की किसी आधिकारिक प्राथमिक स्रोत पर पुष्टि नहीं हुई (केवल अकादमिक और बीमा-दलाल द्वितीयक स्रोत मिले); यह लेख योजना के कार्य का वर्णन करता है — वर्क-परमिट नवीनीकरण से जुड़ा अनिवार्य बीमा, जिसकी पुष्टि आव्रजन विभाग (Immigration Department) की अपनी साइट पर होती है — बिना किसी असत्यापित प्रीमियम या कवरेज राशि का उल्लेख किए।"
 
 lang: "hi"
+sourceContentHash: "6d48887f5e7bc5dd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

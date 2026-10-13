@@ -24,10 +24,11 @@ appliesTo: "व्यवसाय-स्वामी और वित्त-क�
 verificationNeeded: []
 
 lang: "hi"
+sourceContentHash: "0ee2d291cdce3d2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

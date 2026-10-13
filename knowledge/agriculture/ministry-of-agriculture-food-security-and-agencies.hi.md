@@ -30,10 +30,11 @@ faq:
     a: "धान एवं चावल नियंत्रण अधिनियम 1994 (अधिनियम 522)। चावल एक नियंत्रित वस्तु है; धान एवं चावल नियामक का महानिदेशक मिलिंग, थोक, खुदरा, आयात, निर्यात और अंतर-राज्यीय आवागमन के लिए लाइसेंस और परमिट जारी करता है।"
 
 lang: "hi"
+sourceContentHash: "88877cb8976d9b28"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

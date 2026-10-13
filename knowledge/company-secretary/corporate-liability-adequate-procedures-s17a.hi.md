@@ -35,10 +35,11 @@ faq:
     a: "कोई निश्चित जाँच-सूची नहीं है, लेकिन पर्याप्त प्रक्रियाओं पर GIACC दिशानिर्देश पाँच सिद्धांत निर्धारित करते हैं, जिन्हें संक्षेप में T.R.U.S.T. के रूप में जाना जाता है, और यह तय करते समय कि प्रक्रियाएँ पर्याप्त थीं या नहीं, अदालत इन्हें तौलने की संभावना रखती है।"
 
 lang: "hi"
+sourceContentHash: "6d976fa3bddc473d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

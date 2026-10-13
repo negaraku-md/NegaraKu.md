@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "मलेशिया में विधिक दस्तावेज, समाचार या न्यायालय की कार्यवाही पढ़ने वाला कोई भी व्यक्ति जिसे यह समझना है कि «mahkamah» पद का अर्थ क्या है और प्रत्येक स्तर की सापेक्ष स्थिति क्या है।"
 
 lang: "hi"
+sourceContentHash: "1a30b6920b746dad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

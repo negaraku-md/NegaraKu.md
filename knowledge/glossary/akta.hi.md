@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "वे सभी जो मलेशियाई कानून पढ़ते या उद्धृत करते हैं — वकील, छात्र, व्यवसाय मालिक और शोधकर्ता।"
 
 lang: "hi"
+sourceContentHash: "fcd52a1ed198449a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

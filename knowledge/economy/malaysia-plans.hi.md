@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "छात्र, नीति-विश्लेषक, पत्रकार और हर वह व्यक्ति जो समझना चाहता है कि एक अकेले वित्तीय वर्ष से परे राष्ट्रीय विकास की योजना कैसे बनाई जाती है।"
 
 lang: "hi"
+sourceContentHash: "e044f4eddcd76b63"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

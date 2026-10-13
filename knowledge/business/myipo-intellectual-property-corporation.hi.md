@@ -27,9 +27,10 @@ faq:
   - q: "MyIPO किस मंत्रालय के अधीन आती है?"
     a: "MyIPO घरेलू व्यापार तथा जीवनयापन लागत मंत्रालय (KPDN) के अधीन एक संघीय वैधानिक एजेंसी है, जो मलेशिया में घरेलू व्यापार और उपभोक्ता मामलों के लिए जिम्मेदार मंत्रालय है।"
 lang: "hi"
+sourceContentHash: "1a13bdbeb8de806f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

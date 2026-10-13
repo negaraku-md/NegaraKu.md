@@ -37,12 +37,13 @@ faq:
     a: "संघीय सरकार से तेरेंगानु और केलंतान को किया गया एक भुगतान जो पेट्रोलियम राजस्व से जुड़ा है। वित्त मंत्रालय के एक वक्तव्य में पुष्टि की गई है कि वांग इहसान कानून में प्रतिष्ठापित संघीय सरकार का अनुदान नहीं है — अर्थात यह किसी क़ानून द्वारा प्रदत्त अधिकार नहीं है।"
 
 lang: "hi"
+sourceContentHash: "44eeeac1d9bc0d54"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

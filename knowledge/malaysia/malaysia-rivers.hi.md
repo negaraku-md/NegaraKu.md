@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "मलेशियाई भूगोल और इतिहास के विद्यार्थी, और हर वह व्यक्ति जो समझना चाहता है कि सरावाक, सबा और पहांग के प्रमुख नगर अपनी नदियों के किनारे विशिष्ट स्थानों पर क्यों बसे हैं।"
 
 lang: "hi"
+sourceContentHash: "c0dca023c22caa3e"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

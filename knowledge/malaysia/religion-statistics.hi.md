@@ -28,11 +28,12 @@ faq:
     a: "DOSM की Key Findings लॉन्च रिलीज़ के अनुसार, सेलांगोर ने मलेशिया के राज्यों में मुस्लिमों, बौद्धों और हिंदुओं की सबसे अधिक संख्या दर्ज की, जबकि सारावाक ने ईसाइयों की सबसे अधिक संख्या दर्ज की। रिलीज़ केवल रैंकिंग देती है, प्रत्येक धर्म के लिए राज्य-स्तरीय विभाजन नहीं।"
 
 lang: "hi"
+sourceContentHash: "9209ca0d039c5f34"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -29,10 +29,11 @@ faq:
     a: "स्ट्रैटा प्रबंधन अधिकरण में, जो अदालतों की तुलना में अधिक तेज़ी और सस्ते में RM250,000 तक के दावों को संभालता है। स्थानीय प्राधिकरण का भवन आयुक्त (COB) अधिनियम के अनुपालन को प्रवर्तित करता है।"
 
 lang: "hi"
+sourceContentHash: "788e401fa0ccd9ab"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

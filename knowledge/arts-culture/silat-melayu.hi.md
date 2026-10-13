@@ -37,10 +37,11 @@ faq:
     a: "यूनेस्को सिलात हरिमाउ को ऐसी शैली के उदाहरण के रूप में उद्धृत करता है जो आक्रमण और आत्मरक्षा की कला में बाघ की सौंदर्यपूर्ण गतियों का अनुकरण करती है। यह किसी जानवर या प्रकृति के तत्व के नाम पर रखी गई अनेक शैलियों में से एक है।"
 
 lang: "hi"
+sourceContentHash: "38ee41b476215220"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

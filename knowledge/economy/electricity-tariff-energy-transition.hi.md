@@ -31,10 +31,11 @@ faq:
     a: "NETR 2050 तक 70% नवीकरणीय ऊर्जा क्षमता और शुद्ध-शून्य ग्रीनहाउस गैस उत्सर्जन का लक्ष्य रखता है, जिसे 10 प्रमुख (flagship) परियोजनाओं का समर्थन प्राप्त है, जिनसे RM25 बिलियन से अधिक निवेश आकर्षित होने की उम्मीद है।"
 
 lang: "hi"
+sourceContentHash: "19a2c50c83298410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

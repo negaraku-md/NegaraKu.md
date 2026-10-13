@@ -35,10 +35,11 @@ faq:
     a: "वे MyTTx पोर्टल पर पंजीकरण करते हैं, एक तिमाही विवरणी (फ़ॉर्म TTx-03) दाख़िल करते हैं और प्रत्येक कर-योग्य अवधि के बाद वाले महीने के अंतिम दिन से पहले रॉयल मलेशियन कस्टम्स विभाग को कर जमा करते हैं।"
 
 lang: "hi"
+sourceContentHash: "90bb7645abb0046f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

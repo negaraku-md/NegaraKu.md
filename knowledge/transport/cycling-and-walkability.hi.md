@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "निवासी, योजनाकार, और कोई भी जो मलेशियाई शहरों की पैदल-चलने-योग्यता और साइकिल बुनियादी ढाँचे की तुलना अन्य देशों से कर रहा हो।"
 
 lang: "hi"
+sourceContentHash: "3d0d276aec4c1fe4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

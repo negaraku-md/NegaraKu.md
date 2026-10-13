@@ -33,10 +33,11 @@ faq:
     a: "यह चरण के अनुसार व्यापक रूप से भिन्न होता है। प्रारंभिक-चरण के वेंचर राउंड आमतौर पर कुछ मिलियन रिंगिट के दायरे में होते हैं; विकास और प्राइवेट-इक्विटी सौदे कहीं अधिक बड़े होते हैं। उद्योग स्तर पर, मलेशिया में प्रबंधनाधीन प्रतिबद्ध VC और PE फंड 2024 के अंत में लगभग RM24.7 बिलियन पर थे — लगभग RM18 बिलियन प्राइवेट इक्विटी में और RM6.7 बिलियन वेंचर कैपिटल में।"
 
 lang: "hi"
+sourceContentHash: "fd613f83fbe57e2f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

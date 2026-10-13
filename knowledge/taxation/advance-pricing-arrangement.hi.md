@@ -63,10 +63,11 @@ obligations:
     consequence: "rule 18(1)(c) के तहत व्यवस्था का रद्दीकरण"
 
 lang: "hi"
+sourceContentHash: "bb70ed44534a20cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

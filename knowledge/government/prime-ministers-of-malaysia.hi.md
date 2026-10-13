@@ -31,10 +31,11 @@ verificationNeeded:
   - "Tenure dates should be confirmed against the Prime Minister's Office and the Perdana Leadership Foundation. Ismail Sabri Yaakob remained caretaker Prime Minister after Parliament's dissolution (10 Oct 2022) until Anwar Ibrahim was sworn in on 24 November 2022 — the end date reflects the transfer of office. As a draft, this needs a human reviewer before publication."
 
 lang: "hi"
+sourceContentHash: "c027ec0df342599c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 published: 2026-08-27

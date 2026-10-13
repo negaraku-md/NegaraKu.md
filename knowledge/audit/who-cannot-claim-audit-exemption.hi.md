@@ -16,10 +16,11 @@ answer: "प्रैक्टिस डायरेक्टिव 10/2024 (Pra
 verificationNeeded: []
 
 lang: "hi"
+sourceContentHash: "776ac8951ed8d754"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

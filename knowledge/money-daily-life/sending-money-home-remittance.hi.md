@@ -26,10 +26,11 @@ verificationNeeded:
   - "No fee, exchange-rate or remittance-volume figure is stated anywhere in this article, per the assignment brief — all such figures should be obtained directly from the bank or licensed MSB at the time of transfer."
 
 lang: "hi"
+sourceContentHash: "7ef5c9d18c446cfa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

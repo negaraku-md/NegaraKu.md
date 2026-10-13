@@ -38,10 +38,11 @@ obligations:
     consequence: "समाप्ति के बाद प्रसंस्करण जारी रखने पर RM250,000 तक का जुर्माना या 2 वर्ष"
 
 lang: "hi"
+sourceContentHash: "0a5d002129db4742"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

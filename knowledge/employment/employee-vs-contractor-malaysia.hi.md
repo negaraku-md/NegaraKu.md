@@ -42,10 +42,11 @@ verificationNeeded:
   - "नियंत्रण और एकीकरण परीक्षणों पर प्रमुख मलेशियाई अपीलीय प्राधिकार की रिपोर्ट किए गए निर्णयों के विरुद्ध पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "8132a0298fe4934d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

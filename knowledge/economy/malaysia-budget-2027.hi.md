@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "व्यक्तिगत करदाता, कर्मचारी, गिग श्रमिक, SME और नियोक्ता, और हर वह व्यक्ति जो मलेशिया के बजट 2027 के कर, वेतन और नकद-सहायता बदलावों के इर्द-गिर्द योजना बना रहा है।"
 
 lang: "hi"
+sourceContentHash: "9667ec689364dcd2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 revision: 0
 reviewed: "2026-10-10"
 published: "2026-10-10"

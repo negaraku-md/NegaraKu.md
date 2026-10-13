@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "अस्थायी-दर ऋण वाले उधारकर्ता, बचतकर्ता, और कोई भी जो मलेशियाई ब्याज दर समाचार को समझना चाहता है।"
 
 lang: "hi"
+sourceContentHash: "54922b7bc9867b3f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

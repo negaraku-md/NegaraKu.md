@@ -27,10 +27,11 @@ verificationNeeded:
   - "BLESS और MalaysiaBiz में भाग लेने वाली एजेंसियों के वर्तमान दायरे की पुष्टि करें, जिसे समय-समय पर विस्तारित किया जाता है"
 
 lang: "hi"
+sourceContentHash: "d297b49cc580cf19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

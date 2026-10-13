@@ -38,10 +38,11 @@ verificationNeeded:
   - "Guidelines on Company Names के Lampiran 1 में निर्दिष्ट प्राधिकरणों और नियंत्रित शब्दों की सूची स्पष्ट रूप से गैर-संपूर्ण बताई गई है — इस पर निर्भर रहने से पहले SSM से वर्तमान सूची सत्यापित करें"
 
 lang: "hi"
+sourceContentHash: "7ac1590970b850fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

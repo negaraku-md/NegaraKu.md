@@ -37,10 +37,11 @@ verificationNeeded:
   - "उस राजपत्र (Gazette) अधिसूचना संदर्भ की पुष्टि करें जिसके द्वारा MAICSA को एक अनुमोदित संस्था के रूप में निर्धारित किया गया था, और क्या s.235(3) के तहत कोई शर्तें या निबंधन लगाए गए थे"
 
 lang: "hi"
+sourceContentHash: "b8d7278523a1c564"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -49,10 +49,11 @@ obligations:
     consequence: "धारा 132(5) के अंतर्गत पाँच वर्ष तक के कारावास या RM3 मिलियन तक के जुर्माने या दोनों का दायित्व, तथा धारा 133(2) के अंतर्गत व्यक्तिगत दायित्व"
 
 lang: "hi"
+sourceContentHash: "0f48f4bee9e4e684"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

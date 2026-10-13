@@ -20,12 +20,13 @@ keyTakeaways:
 appliesTo: "यात्री, व्यवसाय और वे सभी जो यह समझने की कोशिश कर रहे हैं कि «मलेशिया» कभी-कभी एक पासपोर्ट और एक झंडे को साझा करने वाले दो प्रशासनों की तरह क्यों व्यवहार करता है।"
 
 lang: "hi"
+sourceContentHash: "da887efa0f358f15"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

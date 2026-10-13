@@ -42,10 +42,11 @@ verificationNeeded:
   - "पुष्टि करें कि क्या MIA ने ISA for Less Complex Entities को अपनाया है, जिसे IAASB ने 15 दिसंबर 2025 को या उसके बाद शुरू होने वाली अवधियों के लिए प्रभावी किया — मलेशियाई अपनाने का निर्णय सत्यापित नहीं किया जा सका"
 
 lang: "hi"
+sourceContentHash: "35fbbbda43a0bf04"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

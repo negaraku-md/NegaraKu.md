@@ -25,10 +25,11 @@ verificationNeeded:
   - "न तो SSM और न ही LHDN इस बारे में मार्गदर्शन प्रकाशित करता है कि किसी विदेशी क्लाउड क्षेत्र पर होस्ट किया गया पर मलेशिया से पहुँच-योग्य डेटा 'मलेशिया-में-रखा' अपेक्षा को संतुष्ट करता है या नहीं — यहाँ बताई गई स्थिति वैधानिक शब्दावली का अनुसरण करती है, और कोई प्रकाशित प्रशासनिक रियायत नहीं है"
 
 lang: "hi"
+sourceContentHash: "d4690bd724bedb45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

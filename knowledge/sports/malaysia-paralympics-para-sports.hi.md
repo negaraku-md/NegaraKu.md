@@ -32,10 +32,11 @@ faq:
     a: "सबसे प्रमुख में चेआ लिएक होउ (बैडमिंटन SU5, टोक्यो 2020 और पेरिस 2024 में स्वर्ण), बोनी बुनयाउ गुस्टिन (पावरलिफ्टिंग, टोक्यो 2020 और पेरिस 2024 में स्वर्ण) और अब्दुल लतीफ रोमली (लंबी कूद T20, रियो 2016 और टोक्यो 2020 में स्वर्ण) हैं।"
 
 lang: "hi"
+sourceContentHash: "1cf985c7e961d813"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

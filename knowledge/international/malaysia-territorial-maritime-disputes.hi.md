@@ -31,12 +31,13 @@ faq:
     a: "पाँच विशेषताएँ: स्वैलो रीफ़ (तरुंबु लायांग-लायांग), अर्डेसियर रीफ़ (तरुंबु उबी), एरिका रीफ़ (तरुंबु सिपुत), इन्वेस्टिगेटर शोल (तरुंबु पेनिंजाउ) और मारिवेलेस रीफ़ (तरुंबु मोंटानानी), सभी सबा के पास द्वीपसमूह के दक्षिणी हिस्से में।"
 
 lang: "hi"
+sourceContentHash: "c7460cc1783b36b6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

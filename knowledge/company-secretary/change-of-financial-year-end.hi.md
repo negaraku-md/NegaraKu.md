@@ -30,10 +30,11 @@ faq:
     a: "हाँ। परिचालन की 6-महीने की अवधि (निजी कंपनियाँ, s.258) और SSM के पास दाखिल करने की 30-दिन की अवधि (s.259) नए वित्तीय वर्ष के अंत से पुनः गणना की जाती हैं।"
 
 lang: "hi"
+sourceContentHash: "518df847514632f2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

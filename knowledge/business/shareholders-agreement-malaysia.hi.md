@@ -42,10 +42,11 @@ verificationNeeded:
   - "किसी संविधान को पहली बार अपनाने पर लागू वर्तमान SSM दाखिले-शुल्क की, उसके संशोधन की तुलना में, पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "feb9a1bc3f5debaf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

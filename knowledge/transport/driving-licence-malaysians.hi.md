@@ -26,10 +26,11 @@ verificationNeeded:
   - "क्या CDL आवेदन अब MyJPJ ऐप के माध्यम से पूरी तरह ऑनलाइन किया जा सकता है — जाँची गई JPJ सेवा पृष्ठ बताता है कि आवेदन केवल राज्य JPJ काउंटर पर किए जाते हैं, पर यह जाँचे जाने की तिथि से बदल गया हो सकता है"
 
 lang: "hi"
+sourceContentHash: "994f31cbd16cea0e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

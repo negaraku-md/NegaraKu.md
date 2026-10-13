@@ -32,12 +32,13 @@ faq:
     a: "लिखित क़ानून के तहत स्थापित किसी धार्मिक प्राधिकरण को — यानी आपके राज्य के ज़कात बोर्ड या केंद्र को — और रसीद सँभालकर रखें। व्यक्तियों या निजी कोषों को किए गए भुगतान रिबेट के योग्य नहीं होते।"
 
 lang: "hi"
+sourceContentHash: "0477b9f160c18e84"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -33,10 +33,11 @@ faq:
     a: "ट्रिब्यूनल का अधिनिर्णय अंतिम और बाध्यकारी होता है और अदालत के आदेश की तरह प्रवर्तनीय होता है। अधिनिर्णय का पालन न करना एक अपराध है जिसके लिए RM10,000 से RM50,000 तक का जुर्माना या दो वर्ष तक का कारावास, या दोनों हो सकते हैं।"
 
 lang: "hi"
+sourceContentHash: "f08885d66ba27130"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

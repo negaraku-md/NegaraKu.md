@@ -42,10 +42,11 @@ verificationNeeded:
   - "क्या सट्टा-भुगतान नियम से कैसीनो और जुआ-मशीन कार्व-आउट की कोई समाप्ति तिथि है — LHDN अगली सूचना तक कहता है"
 
 lang: "hi"
+sourceContentHash: "1b4f5e59594a8f17"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

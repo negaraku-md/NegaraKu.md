@@ -28,9 +28,10 @@ faq:
   - q: "शिक्षा मंत्रालय का बजट कितना बड़ा है?"
     a: "बजट 2026 के तहत, KPM को RM66.2 बिलियन मिला — किसी भी संघीय मंत्रालय में सबसे बड़ा आवंटन — जो 2025 के RM64.2 बिलियन से अधिक है। इस आवंटन में 520 से अधिक जर्जर स्कूलों को उन्नत करने और 38 नए स्कूल बनाने के लिए लगभग RM2 बिलियन शामिल है।"
 lang: "hi"
+sourceContentHash: "4f75b1390b41bfeb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -26,10 +26,11 @@ verificationNeeded:
   - "मलाया के भारतीय मुस्लिम समुदाय के भीतर teh tarik की उत्पत्ति — इसका उल्लेख प्रायः किया जाता है, पर किसी भी आधिकारिक सरकारी स्रोत में कोई विशिष्ट तिथि या स्थान पुष्ट नहीं है।"
 
 lang: "hi"
+sourceContentHash: "445b06c48abc194e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

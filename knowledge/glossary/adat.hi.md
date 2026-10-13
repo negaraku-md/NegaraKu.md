@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "वे सभी जो पारंपरिक मलय कानून प्रणालियों को समझना चाहते हैं — इतिहास, कानून और मलेशियाई अध्ययन के छात्र, पत्रकार, लोक सेवक, और आदत पेरपातिह व आदत तेमेंगुंग के बीच अंतर को लेकर भ्रमित सामान्य पाठक।"
 
 lang: "hi"
+sourceContentHash: "d4460bfefd0c039f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

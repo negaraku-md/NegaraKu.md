@@ -29,10 +29,11 @@ faq:
     a: "बैंक नेगारा मलेशिया इसे विकास वित्तीय संस्थान अधिनियम 2002 (Development Financial Institutions Act 2002) के तहत एक निर्धारित विकास वित्तीय संस्थान के रूप में विनियमित करता है।"
 
 lang: "hi"
+sourceContentHash: "05f6bb75d143a12e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

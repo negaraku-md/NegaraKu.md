@@ -31,10 +31,11 @@ faq:
     a: "नहीं। शर्करायुक्त पेय पर उत्पाद शुल्क HS 2202 के अंतर्गत पीने-के-लिए-तैयार पेय को लक्षित करता है जिनमें प्रति 100 मि.ली. 5 ग्राम से अधिक शर्करा हो, दूध-आधारित पेय जो प्रति 100 मि.ली. 7 ग्राम शर्करा से अधिक हों, और HS 2009 के अंतर्गत फल या सब्ज़ी के रस जो प्रति 100 मि.ली. 12 ग्राम शर्करा से अधिक हों। सीमा श्रेणी के अनुसार भिन्न होती है।"
 
 lang: "hi"
+sourceContentHash: "84d4e95aaaa26789"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

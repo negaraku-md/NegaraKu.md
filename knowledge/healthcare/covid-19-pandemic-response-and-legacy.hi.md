@@ -32,12 +32,13 @@ faq:
     a: "यह संसद द्वारा 15 जून 2023 को पारित एक नीतिगत दस्तावेज़ है, जो मलेशिया की स्वास्थ्य प्रणाली के चरणबद्ध 15-वर्षीय सुधार की रूपरेखा प्रस्तुत करता है।"
 
 lang: "hi"
+sourceContentHash: "635c9f97868b06be"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

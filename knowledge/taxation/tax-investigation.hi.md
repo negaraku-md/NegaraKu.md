@@ -32,10 +32,11 @@ faq:
     a: "धोखाधड़ी, जानबूझकर कर-चोरी या उपेक्षा से जुड़े मामलों के लिए, कोई समय-सीमा नहीं है। धारा 113 जैसी कुछ अपराधों की आपराधिक कार्यवाही के लिए, 12 वर्ष की अवधि लागू होती है।"
 
 lang: "hi"
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

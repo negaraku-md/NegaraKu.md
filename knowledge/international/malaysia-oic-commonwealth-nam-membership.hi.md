@@ -31,12 +31,13 @@ faq:
     a: "OIC पूरे मुस्लिम विश्व के लिए एक राजनीतिक और एकजुटता निकाय है जिसमें 57 सदस्य हैं; इसके विपरीत, D-8 आठ (अब नौ) मुस्लिम-बहुल विकासशील देशों का एक छोटा आर्थिक सहयोग समूह है जो व्यापार और विकास पर अधिक केंद्रित है।"
 
 lang: "hi"
+sourceContentHash: "0bd4e9cbc79316f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

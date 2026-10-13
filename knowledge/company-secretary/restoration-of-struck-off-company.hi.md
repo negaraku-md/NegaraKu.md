@@ -28,10 +28,11 @@ faq:
     a: "नहीं। बहाली के लिए उच्च न्यायालय का आदेश आवश्यक है। रजिस्ट्रार (SSM) को प्रतिवादी नामित किया जाता है और वह सुनवाई से पहले आवेदन की समीक्षा करता है।"
 
 lang: "hi"
+sourceContentHash: "abcd7eea51de63b1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

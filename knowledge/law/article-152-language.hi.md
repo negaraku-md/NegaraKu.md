@@ -21,11 +21,12 @@ keyTakeaways:
 appliesTo: "वह कोई भी जो मलेशिया की राष्ट्रभाषा नीति के पीछे के सटीक संवैधानिक पाठ को चाहता है, न कि उसका केवल भावानुवाद।"
 
 lang: "hi"
+sourceContentHash: "b994c8be544c8680"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

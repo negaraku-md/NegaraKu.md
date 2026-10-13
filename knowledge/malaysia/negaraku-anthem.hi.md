@@ -32,11 +32,12 @@ faq:
     a: "अधिनियम 808 की धारा 8(1) उपस्थित सभी व्यक्तियों से सावधान की मुद्रा में खड़े होने की अपेक्षा करती है। धारा 8(3) प्रावधान करती है कि जो कोई किसी सार्वजनिक स्थान पर राष्ट्रगान के प्रति जानबूझकर अनादर दर्शाता है, उसे दोषसिद्धि पर RM100 से अनधिक जुर्माना या एक माह से अनधिक कारावास हो सकता है।"
 
 lang: "hi"
+sourceContentHash: "c84bd6935adf2871"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

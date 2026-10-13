@@ -37,10 +37,11 @@ faq:
     a: "विशिष्ट रूप से, पार्क तीन औपनिवेशिक-युग के राज्य अधिनियमों द्वारा नियंत्रित है — तामान नेगारा अधिनियम (पहांग) 1939, (केलंतान) 1938 और (तेरेंगानु) 1939 — न कि संघीय National Parks Act 1980 द्वारा। इसका कारण यह है कि मलेशिया के संघीय संविधान के तहत भूमि और वानिकी राज्य के मामले हैं, इसलिए संघीय अधिनियम तीनों राज्यों पर लागू नहीं होता।"
 
 lang: "hi"
+sourceContentHash: "7e8c332e4dfbfd08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

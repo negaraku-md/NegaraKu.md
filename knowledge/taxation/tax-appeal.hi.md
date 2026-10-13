@@ -57,10 +57,11 @@ obligations:
     consequence: "निर्णय-आदेश कायम रहता है, केवल पैरा 34(7) के तहत उच्च न्यायालय द्वारा दिए गए विस्तार के अधीन"
 
 lang: "hi"
+sourceContentHash: "d2e991c87917fcac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

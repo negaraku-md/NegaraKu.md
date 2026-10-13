@@ -31,10 +31,11 @@ faq:
     a: "नहीं। DMP दिवालियापन नहीं है और न ही कोई न्यायालयी अभिलेख। यह आपके, AKPK और आपके लेनदार बैंकों के बीच स्वैच्छिक रूप से तय की गई एक चुकौती योजना है।"
 
 lang: "hi"
+sourceContentHash: "4311ea106e7a34dc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "वह कोई भी जिसे यह पहचानना हो कि कोई विशेष मलेशियाई आव्रजन दस्तावेज़ — पासपोर्ट, वीज़ा, पास या परमिट — कौन-सा प्राधिकरण जारी करता है, और कौन-सा लेख प्रत्येक प्रक्रिया को समझाता है।"
 
 lang: "hi"
+sourceContentHash: "baf28f912e1a7295"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

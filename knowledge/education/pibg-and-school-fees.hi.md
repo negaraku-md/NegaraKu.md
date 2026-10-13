@@ -29,10 +29,11 @@ faq:
     a: "नहीं। सरकारी प्राथमिक और माध्यमिक विद्यालयों में शिक्षा में कोई ट्यूशन शुल्क नहीं लगता। जबकि विशेष शुल्क 2008 से SPI क्रमांक 13/2007 के माध्यम से समाप्त कर दिए गए हैं।"
 
 lang: "hi"
+sourceContentHash: "ae00ce2b2c55df71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

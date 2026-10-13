@@ -35,10 +35,11 @@ faq:
     a: "2007 में स्थापित मलेशियाई सड़क सुरक्षा अनुसंधान संस्थान (MIROS) साक्ष्य-आधारित अनुसंधान संभालता है, जबकि JPJ का सड़क सुरक्षा प्रभाग (पूर्व में JKJR) पैरोकारी और जागरूकता का नेतृत्व करता है। दोनों परिवहन मंत्रालय के अधीन आते हैं।"
 
 lang: "hi"
+sourceContentHash: "681af11f157961d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

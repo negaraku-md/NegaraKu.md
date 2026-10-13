@@ -34,10 +34,11 @@ faq:
     a: "एक अपराध जो दोषसिद्धि पर RM1 मिलियन से अनधिक जुर्माने से दंडनीय है, और दोषसिद्धि के बाद अपराध जितने दिन जारी रहे उसके लिए प्रत्येक दिन RM1,000 तक का अतिरिक्त जुर्माना (धारा 137, धारा 138 और 139 में समानांतर अपराधों सहित)।"
 
 lang: "hi"
+sourceContentHash: "608e7ade88de1522"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

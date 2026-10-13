@@ -44,10 +44,11 @@ verificationNeeded:
   - "Labour Ordinance of Sabah (Amendment) Act 2025 (Act A1753) के तहत सबाह की अपवाद-सूची नहीं पढ़ी जा सकी; होस्ट किया गया PDF 404 लौटाता है।"
 
 lang: "hi"
+sourceContentHash: "4b43de8c2a7470d1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

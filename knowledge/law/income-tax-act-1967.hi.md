@@ -30,10 +30,11 @@ faq:
     a: "अधिनियम के मुख्य भाग से नहीं। दरें Act 53 की अनुसूचियों में, मुख्यतः Schedule 1 में स्थित हैं, और वित्त अधिनियमों (Finance Acts) द्वारा बदली जाती हैं। राहतें, कटौतियाँ एवं छूटें बड़े पैमाने पर अधीनस्थ विधान — P.U.(A) आदेश एवं नियम — द्वारा दी जाती हैं, यही कारण है कि केवल संविधि किसी दर-संबंधी प्रश्न का उत्तर कभी नहीं देती।"
 
 lang: "hi"
+sourceContentHash: "e0dfb2c4642360c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

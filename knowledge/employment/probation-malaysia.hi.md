@@ -26,10 +26,11 @@ verificationNeeded:
   - "परिवीक्षाधीन की बर्ख़ास्तगी और आचरण द्वारा मानी गई पुष्टि पर प्रमुख अपीलीय प्राधिकार की पुष्टि प्रकाशित निर्णयों के मुक़ाबले करें"
 
 lang: "hi"
+sourceContentHash: "04bbb0ef0090fa14"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

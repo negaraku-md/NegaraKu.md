@@ -39,10 +39,11 @@ verificationNeeded:
   - "किसी भी सामान्य रूप से वर्णित नियम पर निर्भर रहने से पहले उस प्रवेश बिंदु (entry point) के लिए mTool 2.2 उपयोगकर्ता नियमावली के विरुद्ध विशिष्ट प्रवेश बिंदु के सत्यापन व्यवहार की पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "4cbf1a047bbd3c22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

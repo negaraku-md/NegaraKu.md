@@ -32,12 +32,13 @@ faq:
     a: "अधिनियम में कोई 'लोकहित' बचाव या मुखबिरों के लिए कोई विशिष्ट संरक्षण नहीं है। धारा 17A केवल उस व्यक्ति को बचाव प्रदान करती है जो यह सिद्ध करे कि उसने किसी आधिकारिक कर्तव्य के निर्वहन में या समुचित प्राधिकार के साथ कार्य किया। लोकहित बचाव का अभाव अधिनियम के आलोचकों द्वारा उठाए गए मुद्दों में से एक है।"
 
 lang: "hi"
+sourceContentHash: "b2289aaf85dc5684"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

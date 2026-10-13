@@ -30,12 +30,13 @@ faq:
     a: "अचल संपत्ति वाली और RM5 मिलियन से कम मूल्य की छोटी संपदा का प्रशासन भूमि प्रशासक जिला भूमि कार्यालय (District Land Office) के माध्यम से करता है, जो एक वितरण आदेश (Distribution Order) जारी करता है।"
 
 lang: "hi"
+sourceContentHash: "569aa98893242689"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

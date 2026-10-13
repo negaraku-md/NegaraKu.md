@@ -32,10 +32,11 @@ faq:
     a: "संशोधन किसी PFR को राजपत्र-विमोचित किए जा सकने से पहले एक सार्वजनिक जाँच को अनिवार्य बनाता है, और जुर्माने को RM20,000 से RM5 मिलियन के बीच साथ ही 7 से 20 वर्ष के बीच कारावास तक बढ़ाता है। यह 1 फरवरी 2025 को संघीय क्षेत्रों में प्रभावी हुआ।"
 
 lang: "hi"
+sourceContentHash: "068dc65beefd2227"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -30,10 +30,11 @@ faq:
     a: "ऋणदाता से एक निपटान पत्र प्राप्त करें और चुकाए जा चुके ऋण को अद्यतन करने के लिए उसे एजेंसी के पास ले जाएँ। कानून के अनुसार, एक एजेंसी आपके ऋण-मुक्ति की तिथि के दो साल बाद आपकी दिवालियापन स्थिति का खुलासा नहीं कर सकती।"
 
 lang: "hi"
+sourceContentHash: "0d23a5db0b086fe6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

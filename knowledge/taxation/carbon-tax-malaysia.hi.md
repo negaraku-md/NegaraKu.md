@@ -30,10 +30,11 @@ faq:
     a: "इसकी घोषणा 2026 तक पेश करने के लिए की गई थी, हालाँकि अधिकारियों ने संकेत दिया है कि समय-निर्धारण की समीक्षा की जा सकती है।"
 
 lang: "hi"
+sourceContentHash: "1b480b649a14d8fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

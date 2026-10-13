@@ -26,10 +26,11 @@ verificationNeeded:
   - "पेशेवर सेवाओं के लिए समूह-भीतर राहत और असंबद्ध पक्षों को प्रदान की गई सेवाओं पर किसी प्रतिशत सीमा का सत्यापन नहीं हुआ — आमतौर पर उद्धृत आँकड़े पर निर्भर न रहें"
 
 lang: "hi"
+sourceContentHash: "fdaf544799e718b4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

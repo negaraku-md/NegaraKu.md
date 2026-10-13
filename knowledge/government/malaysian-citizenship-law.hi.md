@@ -35,12 +35,13 @@ faq:
     a: "नहीं। मलेशिया एकल-नागरिकता की नीति अपनाता है। इसका संवैधानिक आधार अनुच्छेद 23 (नागरिकता का परित्याग) और अनुच्छेद 24 (किसी व्यक्ति द्वारा स्वेच्छा से किसी अन्य देश की नागरिकता प्राप्त करने पर नागरिकता से वंचित करना) है, और MyGovernment पोर्टल भी इस नीति की पुष्टि करता है। मलेशियाई नागरिकता त्यागने का निर्णय स्थायी होता है। अपनी विशिष्ट परिस्थितियों की जाँच राष्ट्रीय पंजीकरण विभाग (JPN) से करें।"
 
 lang: "hi"
+sourceContentHash: "32332ac0d26401bb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

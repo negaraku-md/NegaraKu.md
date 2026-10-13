@@ -29,12 +29,13 @@ faq:
     a: "मलायन यूनियन के विरुद्ध विरोध की लहर ने दर्जनों मलय संघों को एकजुट किया और 11 मई 1946 को जोहोर बहरू में UMNO की स्थापना की ओर ले गई।"
 
 lang: "hi"
+sourceContentHash: "d1accab37207bc8e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

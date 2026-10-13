@@ -29,12 +29,13 @@ faq:
     a: "कुछ परिस्थितियों में हो सकती है। अनुच्छेद 26(2) संघीय सरकार को अनुच्छेद 15(1) के तहत पंजीकृत किसी महिला को उसकी नागरिकता से वंचित करने की अनुमति देता है, यदि जिस विवाह पर पंजीकरण आधारित था वह विवाह की तिथि से दो वर्ष के भीतर (मृत्यु के अलावा किसी अन्य तरीके से) विच्छिन्न हो जाए।"
 
 lang: "hi"
+sourceContentHash: "28365cf20f843051"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

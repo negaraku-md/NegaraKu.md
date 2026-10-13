@@ -39,10 +39,11 @@ faq:
     a: "हाँ, लेकिन कुशल एम्पू की संख्या तेज़ी से घट रही है, जिससे ज्ञान का हस्तांतरण कठिन होता जा रहा है। UNESCO इस गिरावट को केरिस की स्थायित्व के लिए एक प्रमुख चुनौती के रूप में सूचीबद्ध करता है।"
 
 lang: "hi"
+sourceContentHash: "f542d42d76523ab4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

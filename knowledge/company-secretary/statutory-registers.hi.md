@@ -23,10 +23,11 @@ verificationNeeded:
   - "रजिस्टर-संबंधी सूचनाओं के लिए SSM के वर्तमान विलंबित दाखिल शुल्क पैमाने की, विलंबित दाखिल दंडों पर SSM के प्रचलित व्यावहारिक निर्देश के विरुद्ध, पुष्टि करें"
 
 lang: "hi"
+sourceContentHash: "ff4434b4487bfa3d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -29,10 +29,11 @@ faq:
     a: "यदि प्रबंधन पैराग्राफ 10 और 11 द्वारा अपेक्षित प्रतिनिधित्व प्रदान नहीं करता, तो लेखापरीक्षक ISA 705 के अनुसार वित्तीय विवरणों पर राय देने से इनकार करेगा (पैराग्राफ 20)।"
 
 lang: "hi"
+sourceContentHash: "b4dce9895318e6f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

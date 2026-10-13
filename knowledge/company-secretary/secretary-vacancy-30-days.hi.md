@@ -50,10 +50,11 @@ obligations:
     consequence: "कंपनी और धारा का उल्लंघन करने वाले हर व्यक्ति द्वारा अपराध"
 
 lang: "hi"
+sourceContentHash: "163b4a51c3a94a50"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

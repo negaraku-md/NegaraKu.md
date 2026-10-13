@@ -19,11 +19,12 @@ keyTakeaways:
   - "तुन डॉ. महाथिर मोहम्मद ने 10 मई 2018 को मलेशिया के सातवें प्रधानमंत्री के रूप में शपथ ली; डॉ. वान अज़ीज़ा वान इस्माइल उप प्रधानमंत्री के पद पर रहने वाली पहली महिला बनीं"
 appliesTo: "वे पाठक जो 14वें आम चुनाव में मलेशिया के पहले संघीय सरकार परिवर्तन के प्रलेखित तथ्य चाहते हैं — परिणाम, सीटों के आँकड़े, और संवैधानिक तंत्र — जो तटस्थ रूप से और स्रोत-सहित, बिना किसी पक्षपातपूर्ण व्याख्या के प्रस्तुत हों।"
 lang: "hi"
+sourceContentHash: "354e5f3719c345fc"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

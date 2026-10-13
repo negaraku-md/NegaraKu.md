@@ -29,10 +29,11 @@ faq:
     a: "Capital Markets and Services Act 2007 (Act 671), जो 28 सितंबर 2007 को लागू हुआ, पूँजी बाज़ार गतिविधियों, बाज़ारों और लाइसेंसधारी मध्यस्थों को नियंत्रित करता है।"
 
 lang: "hi"
+sourceContentHash: "d90c41e40d0daaa1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

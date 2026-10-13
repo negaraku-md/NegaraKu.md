@@ -38,10 +38,11 @@ faq:
     a: "वैध पास के बिना किसी विदेशी को नियोजित करना Section 55B के तहत अपराध है, जिस पर प्रत्येक श्रमिक के लिए RM10,000 से RM50,000 का जुर्माना या 12 माह तक की कैद लगती है। पाँच या अधिक बिना दस्तावेज़ों वाले श्रमिकों को रखना जोखिम को छह माह से पाँच वर्ष की कैद और संभावित बेंत तक बढ़ा देता है।"
 
 lang: "hi"
+sourceContentHash: "0a352a7bd7d5e1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

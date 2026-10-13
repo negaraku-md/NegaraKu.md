@@ -30,9 +30,10 @@ faq:
   - q: "स्थानीय सरकार राज्य का विषय क्यों है, संघीय क्यों नहीं?"
     a: "क्योंकि संघीय संविधान स्थानीय सरकार को राज्य सूची (सूची II का मद 4, नौवीं अनुसूची) में रखता है। नीति को सुसंगत रखने के लिए, अनुच्छेद 95A एक राष्ट्रीय स्थानीय सरकार परिषद स्थापित करता है जो ऐसी राष्ट्रीय नीति बनाती है जिसका पालन संघीय और राज्य दोनों सरकारों को करना होता है।"
 lang: "hi"
+sourceContentHash: "78de95ae401b9cbb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

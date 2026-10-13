@@ -30,10 +30,11 @@ faq:
     a: "धारा 28 का उल्लंघन एक अपराध है जो RM50,000 से अनधिक जुर्माने से दंडनीय है (धारा 28(8))। 30 दिनों के बाद विलंबित दाखिली विलंबित दाखिली शुल्क भी आकर्षित करती है।"
 
 lang: "hi"
+sourceContentHash: "fe0af342a9f2c24f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

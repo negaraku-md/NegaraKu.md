@@ -20,11 +20,12 @@ keyTakeaways:
   - "1948 संघ ने शासक सम्मेलन, संघीय विधान परिषद और संघीय कार्यकारी परिषद की स्थापना की, लेकिन कार्यकारी शक्ति अब भी ब्रिटिश उच्चायुक्त के पास थी"
 appliesTo: "वे छात्र, शोधकर्ता और सामान्य पाठक जो मलेशिया की संवैधानिक संरचना की उत्पत्ति को समझना चाहते हैं — विशेष रूप से यह कि मलय शासकों की स्थिति और नागरिकता की शर्तें मेरदेका से पहले पहली बार लिखित रूप में कैसे निर्धारित की गईं।"
 lang: "hi"
+sourceContentHash: "f8c770a08f5a6831"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

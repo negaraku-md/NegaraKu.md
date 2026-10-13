@@ -18,9 +18,10 @@ keyTakeaways:
   - "लगभग 15वीं शताब्दी तक अभिलेख से लुप्त हो गया, और अयुत्थया के प्रभाव-क्षेत्र जैसे उत्तरवर्ती राज्यों में समाहित हो गया"
 appliesTo: "वे पाठक जो इस बारे में जिज्ञासु हैं कि मलक्का से पहले मलय प्रायद्वीप पर क्या विद्यमान था, और उस आरंभिक इतिहास का कितना भाग सचमुच सुलझा हुआ है बनाम कितना अब भी विवादित है।"
 lang: "hi"
+sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

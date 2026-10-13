@@ -29,10 +29,11 @@ faq:
     a: "हाँ। Sunway Healthcare Holdings को 18 मार्च 2026 को Bursa Malaysia के मुख्य बाज़ार में SUNMED के रूप में सूचीबद्ध किया गया। सिंगापुर के GIC ने इससे पहले जून 2021 में स्वास्थ्यसेवा व्यवसाय में 16% हिस्सेदारी के लिए RM750 मिलियन निवेश करने पर सहमति दी थी।"
 
 lang: "hi"
+sourceContentHash: "b41845c9552f7efc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

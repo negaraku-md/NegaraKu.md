@@ -18,9 +18,10 @@ keyTakeaways:
   - "यह कला-रूप दक्षिणी थाईलैंड की एक दिकिर परंपरा से जुड़ा है जिसे कलंतान में पंतुन और कलंतानी बोली के जोड़ के साथ अनुकूलित किया गया"
 appliesTo: "हर वह व्यक्ति जो दिकिर बारात के प्रदर्शन-रूप, तुकांग कारुत और तोक जुआरा की भूमिकाओं, और एक मंडली की संरचना को समझना चाहता है।"
 lang: "hi"
+sourceContentHash: "8d1b65f59cb7dafe"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

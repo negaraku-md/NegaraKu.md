@@ -20,11 +20,12 @@ keyTakeaways:
   - "2 सितंबर 1970 की वितरण बैठक ने तय किया कि बहासा मलेशिया (Bahasa Malaysia) का पाठ मूल पाठ है; अन्य भाषाओं के संस्करण अनुवाद हैं"
 appliesTo: "छात्र, शिक्षक, सरकारी कर्मचारी और वे सभी जिन्हें रुकुन नेगारा के आधिकारिक पाठ और अभिलेखीय रिकॉर्ड पर आधारित उसके प्रारूपण की कालक्रमणिका का संदर्भ लेना है।"
 lang: "hi"
+sourceContentHash: "b7cede975bcf8a6f"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

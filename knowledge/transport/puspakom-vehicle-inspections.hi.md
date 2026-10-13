@@ -34,10 +34,11 @@ faq:
     a: "JPJ एक वैध निरीक्षण रिपोर्ट के बिना किसी वाणिज्यिक वाहन का सड़क कर नवीनीकृत नहीं करेगा, और बिना निरीक्षण के चलने वाले वाहन पर JPJ द्वारा एक शमन-जुर्माना या समन जारी किया जा सकता है।"
 
 lang: "hi"
+sourceContentHash: "6dfb76a4e260e0c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

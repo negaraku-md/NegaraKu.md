@@ -78,10 +78,11 @@ obligations:
     consequence: "s.75(2)(d) अपवाद उपलब्ध नहीं रहता, इसलिए आवंटन के लिए सदस्यों का पूर्व-अनुमोदन अपेक्षित है अन्यथा वह s.75(4) के अंतर्गत शून्य होता है"
 
 lang: "hi"
+sourceContentHash: "8cbd2aa6c4bb698a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -38,10 +38,11 @@ verificationNeeded:
   - "Industrial Relations Act 1967 की s.20 के तहत कार्यकारी निदेशकों को कामगार (workmen) के रूप में मानने की स्थिति की पुष्टि करें — यह संविधि के मुख पर नहीं, बल्कि मिसाल-विधि (case law) पर निर्भर करता है"
 
 lang: "hi"
+sourceContentHash: "aa6dbf128ae02aa9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -34,12 +34,13 @@ faq:
     a: "निर्वाचित स्थानीय परिषदें स्थानीय सरकार चुनाव अधिनियम 1960 (Local Government Elections Act 1960) और पहले के अध्यादेशों के तहत संचालित होती थीं। इंडोनेशिया के साथ टकराव (Konfrontasi) के दौरान आपातकालीन विनियमों द्वारा चुनाव 1 मार्च 1965 को निलंबित कर दिए गए। मौजूदा पार्षद तब तक पद पर बने रहे जब तक स्थानीय सरकार (अस्थायी प्रावधान) अधिनियम 1973 (Local Government (Temporary Provisions) Act 1973 [Act 124]) ने उनके कार्यकाल समाप्त नहीं कर दिए और उनके स्थान पर नियुक्त प्रबंधन मंडल नहीं बिठा दिए, और फिर स्थानीय सरकार अधिनियम 1976 (Local Government Act 1976 [Act 171]) ने स्थायी नियुक्त व्यवस्था स्थापित कर दी।"
 
 lang: "hi"
+sourceContentHash: "d540aa978984383a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0
