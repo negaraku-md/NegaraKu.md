@@ -84,7 +84,7 @@ const ui = {
         <button type="button" class="la-btn" data-copy="#llms-index">{ui.copyIndex}</button>
         <button type="button" class="la-btn" data-copy="#llms-prompt">{ui.copyPrompt}</button>
         <a class="la-btn" href={txtUrl} download="llms.txt">{ui.download}</a>
-        <a class="la-btn" href={txtUrl} target="_blank" rel="noopener">{ui.openRaw} ↗</a>
+        <a class="la-btn" href={txtUrl} target="_blank" rel="noopener">{ui.openRaw} <span class="dirx">↗</span></a>
       </div>
     </div>
     <pre id="llms-index" class="llms-pre" data-pagefind-ignore>{index}</pre>
@@ -94,7 +94,7 @@ const ui = {
       <h2>{ui.fullTitle}</h2>
       <div class="llms-actions">
         <a class="la-btn" href={fullUrl} download="llms-full.txt">{ui.download}</a>
-        <a class="la-btn" href={fullUrl} target="_blank" rel="noopener">{ui.openRaw} ↗</a>
+        <a class="la-btn" href={fullUrl} target="_blank" rel="noopener">{ui.openRaw} <span class="dirx">↗</span></a>
       </div>
     </div>
     <p class="note">{ui.fullNote}</p>

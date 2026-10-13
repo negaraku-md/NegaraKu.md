@@ -476,13 +476,13 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
             <header>
               <span>{L('Lagi dalam', 'More in', '更多内容：', 'இதில் மேலும்', 'その他：', '더 보기:', 'เพิ่มเติมใน', 'Xem thêm trong', 'Lainnya di', 'المزيد في')} {groupLabel}</span>
               <a class="more-topic" href={groupHref}>
-                {L('Lihat semua', 'View all', '查看全部', 'அனைத்தையும் காண்க', 'すべて表示', '전체 보기', 'ดูทั้งหมด', 'Xem tất cả', 'Lihat semua', 'عرض الكل')} {siblings.length} →
+                {L('Lihat semua', 'View all', '查看全部', 'அனைத்தையும் காண்க', 'すべて表示', '전체 보기', 'ดูทั้งหมด', 'Xem tất cả', 'Lihat semua', 'عرض الكل')} {siblings.length} <span class="dirx">→</span>
               </a>
             </header>
             <div class="lb pager">
               {prev ? (
                 <a class="pg" href={aHref(prev)}>
-                  <span class="dir">← {L('Sebelum', 'Previous', '上一篇', 'முந்தையது', '前の記事', '이전 글', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق')}</span>
+                  <span class="dir"><span class="dirx">←</span> {L('Sebelum', 'Previous', '上一篇', 'முந்தையது', '前の記事', '이전 글', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق')}</span>
                   <b>{prev.data.title}</b>
                 </a>
               ) : (
@@ -490,7 +490,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
               )}
               {next ? (
                 <a class="pg next" href={aHref(next)}>
-                  <span class="dir">{L('Seterusnya', 'Next', '下一篇', 'அடுத்தது', '次の記事', '다음 글', 'ถัดไป', 'Tiếp theo', 'Berikutnya', 'التالي')} →</span>
+                  <span class="dir">{L('Seterusnya', 'Next', '下一篇', 'அடுத்தது', '次の記事', '다음 글', 'ถัดไป', 'Tiếp theo', 'Berikutnya', 'التالي')} <span class="dirx">→</span></span>
                   <b>{next.data.title}</b>
                 </a>
               ) : (
@@ -629,21 +629,21 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       <div class="side-box">
         <b><span class="ico" set:html={ICON.edit} />{L('Sunting & sumber', 'Edit & source', '编辑与源码', 'திருத்து & மூலம்', '編集とソース', '편집 및 소스', 'แก้ไขและแหล่งที่มา', 'Chỉnh sửa & nguồn', 'Sunting & sumber', 'التحرير والمصدر')}</b>
         <a class="edit" href={`${REPO}/blob/main/${sourceFile}`} rel="noopener">
-          {L('Sunting di GitHub', 'Edit on GitHub', '在 GitHub 编辑', 'GitHub-இல் திருத்து', 'GitHub で編集', 'GitHub에서 편집', 'แก้ไขบน GitHub', 'Chỉnh sửa trên GitHub', 'Sunting di GitHub', 'التحرير على GitHub')} ↗
+          {L('Sunting di GitHub', 'Edit on GitHub', '在 GitHub 编辑', 'GitHub-இல் திருத்து', 'GitHub で編集', 'GitHub에서 편집', 'แก้ไขบน GitHub', 'Chỉnh sửa trên GitHub', 'Sunting di GitHub', 'التحرير على GitHub')} <span class="dirx">↗</span>
         </a>
         <a class="edit" href={suggestUrl} rel="noopener">
-          {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进', 'மேம்பாட்டைப் பரிந்துரைக்கவும்', '改善を提案', '개선 제안', 'เสนอการปรับปรุง', 'Đề xuất cải thiện', 'Sarankan perbaikan', 'اقتراح تحسين')} ↗
+          {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进', 'மேம்பாட்டைப் பரிந்துரைக்கவும்', '改善を提案', '개선 제안', 'เสนอการปรับปรุง', 'Đề xuất cải thiện', 'Sarankan perbaikan', 'اقتراح تحسين')} <span class="dirx">↗</span>
         </a>
         <a class="edit" href={reportUrl} rel="noopener">
-          {L('Laporkan isu', 'Report an issue', '报告问题', 'சிக்கலைப் புகாரளிக்கவும்', '問題を報告', '문제 신고', 'รายงานปัญหา', 'Báo cáo sự cố', 'Laporkan masalah', 'الإبلاغ عن مشكلة')} ↗
+          {L('Laporkan isu', 'Report an issue', '报告问题', 'சிக்கலைப் புகாரளிக்கவும்', '問題を報告', '문제 신고', 'รายงานปัญหา', 'Báo cáo sự cố', 'Laporkan masalah', 'الإبلاغ عن مشكلة')} <span class="dirx">↗</span>
         </a>
         {showTranslationReport && (
           <a class="edit" href={translationUrl} rel="noopener">
-            {L('Laporkan masalah terjemahan', 'Report a translation problem', '报告翻译问题', 'மொழிபெயர்ப்புச் சிக்கலைப் புகாரளிக்கவும்', '翻訳の問題を報告', '번역 문제 신고', 'รายงานปัญหาการแปล', 'Báo cáo lỗi bản dịch', 'Laporkan masalah terjemahan', 'الإبلاغ عن مشكلة في الترجمة')} ↗
+            {L('Laporkan masalah terjemahan', 'Report a translation problem', '报告翻译问题', 'மொழிபெயர்ப்புச் சிக்கலைப் புகாரளிக்கவும்', '翻訳の問題を報告', '번역 문제 신고', 'รายงานปัญหาการแปล', 'Báo cáo lỗi bản dịch', 'Laporkan masalah terjemahan', 'الإبلاغ عن مشكلة في الترجمة')} <span class="dirx">↗</span>
           </a>
         )}
         <a class="edit" href={localePath(path, locale) + '.md'} target="_blank" rel="noopener">
-          {L('Markdown mentah', 'Raw Markdown', '原始 Markdown', 'மூல Markdown', '生の Markdown', '원본 Markdown', 'Markdown ดิบ', 'Markdown thô', 'Markdown mentah', 'Markdown الخام')} ↗
+          {L('Markdown mentah', 'Raw Markdown', '原始 Markdown', 'மூல Markdown', '生の Markdown', '원본 Markdown', 'Markdown ดิบ', 'Markdown thô', 'Markdown mentah', 'Markdown الخام')} <span class="dirx">↗</span>
         </a>
         <button type="button" class="edit edit-copy" data-copy-md={localePath(path, locale) + '.md'}>
           {L('Salin Markdown', 'Copy Markdown', '复制 Markdown', 'Markdown நகலெடு', 'Markdown をコピー', 'Markdown 복사', 'คัดลอก Markdown', 'Sao chép Markdown', 'Salin Markdown', 'نسخ Markdown')}

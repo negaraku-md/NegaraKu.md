@@ -154,7 +154,7 @@ const links = [
                   <button type="button" class="copy" data-copy={s.code} aria-label={L('Salin', 'Copy', '复制', 'நகலெடு', 'コピー', '복사', 'คัดลอก', 'Sao chép', 'Salin', 'نسخ')}>⧉</button>
                 </div>
               )}
-              {s.link && <a class="steplink" href={s.link.href} rel="noopener">{s.link.label} ↗</a>}
+              {s.link && <a class="steplink" href={s.link.href} rel="noopener">{s.link.label} <span class="dirx">↗</span></a>}
             </div>
           </li>
         ))}
@@ -197,9 +197,9 @@ const links = [
   <div class="psec">
     <header><span>{L('Rujukan', 'References', '参考', 'குறிப்புகள்', '参考資料', '참고 자료', 'เอกสารอ้างอิง', 'Tài liệu tham khảo', 'Referensi', 'المراجع')}</span></header>
     <div class="psec-body links">
-      {links.map((l) => <a href={l.href} rel="noopener">{l.label} ↗</a>)}
-      <a href={localePath('/roles', locale)}>{L('Peranan & cara ia berfungsi', 'Roles & how it works', '角色与运作方式', 'பங்குகள் & அவை எவ்வாறு செயல்படுகின்றன', '役割と仕組み', '역할과 작동 방식', 'บทบาทและวิธีการทำงาน', 'Vai trò & cách thức hoạt động', 'Peran & cara kerjanya', 'الأدوار وكيفية عملها')} →</a>
-      <a href={localePath('/contribute', locale)}>{L('Semua cara untuk menyumbang', 'All the ways to contribute', '所有贡献方式', 'பங்களிக்க அனைத்து வழிகளும்', '貢献するすべての方法', '기여하는 모든 방법', 'ทุกวิธีในการมีส่วนร่วม', 'Mọi cách để đóng góp', 'Semua cara untuk berkontribusi', 'جميع طرق المساهمة')} →</a>
+      {links.map((l) => <a href={l.href} rel="noopener">{l.label} <span class="dirx">↗</span></a>)}
+      <a href={localePath('/roles', locale)}>{L('Peranan & cara ia berfungsi', 'Roles & how it works', '角色与运作方式', 'பங்குகள் & அவை எவ்வாறு செயல்படுகின்றன', '役割と仕組み', '역할과 작동 방식', 'บทบาทและวิธีการทำงาน', 'Vai trò & cách thức hoạt động', 'Peran & cara kerjanya', 'الأدوار وكيفية عملها')} <span class="dirx">→</span></a>
+      <a href={localePath('/contribute', locale)}>{L('Semua cara untuk menyumbang', 'All the ways to contribute', '所有贡献方式', 'பங்களிக்க அனைத்து வழிகளும்', '貢献するすべての方法', '기여하는 모든 방법', 'ทุกวิธีในการมีส่วนร่วม', 'Mọi cách để đóng góp', 'Semua cara untuk berkontribusi', 'جميع طرق المساهمة')} <span class="dirx">→</span></a>
     </div>
   </div>
 </section>

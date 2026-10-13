@@ -107,7 +107,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
       <div class="pbody">
         <h3 class="subhead">{t('nav.search', locale)}</h3>
         <div class="search-row">
-          <a class="cta-btn cta-primary" href={localePath('/search', locale)}><span aria-hidden="true">🔍</span> {t('nav.search', locale)} →</a>
+          <a class="cta-btn cta-primary" href={localePath('/search', locale)}><span aria-hidden="true">🔍</span> {t('nav.search', locale)} <span class="dirx">→</span></a>
         </div>
         <div class="chips">
           {chips.map((c) => (
@@ -169,8 +169,8 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
         </div>
 
         <div class="cbtns">
-          <a class="cta-btn cta-primary" href={localePath('/contribute', locale)}>{t('nav.whyContribute', locale)} →</a>
-          <a class="cta-btn" href={guideHref} rel="noopener" target="_blank">{L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南', 'முழுப் பங்களிப்பு வழிகாட்டி', '貢献ガイド全文', '전체 기여 가이드', 'คู่มือการมีส่วนร่วมฉบับเต็ม', 'Hướng dẫn đóng góp đầy đủ', 'Panduan kontribusi lengkap', 'دليل المساهمة الكامل')} ↗</a>
+          <a class="cta-btn cta-primary" href={localePath('/contribute', locale)}>{t('nav.whyContribute', locale)} <span class="dirx">→</span></a>
+          <a class="cta-btn" href={guideHref} rel="noopener" target="_blank">{L('Panduan sumbangan penuh', 'Full contribution guide', '完整贡献指南', 'முழுப் பங்களிப்பு வழிகாட்டி', '貢献ガイド全文', '전체 기여 가이드', 'คู่มือการมีส่วนร่วมฉบับเต็ม', 'Hướng dẫn đóng góp đầy đủ', 'Panduan kontribusi lengkap', 'دليل المساهمة الكامل')} <span class="dirx">↗</span></a>
         </div>
       </div>
     </div>
@@ -216,7 +216,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
           {' — '}
           {L('salin Markdown artikel (atau tambah .md pada URL) ke dalam alat AI anda.', 'copy an article’s Markdown (or append .md to the URL) into your AI tool.', '将文章的 Markdown（或在网址后加 .md）复制到你的 AI 工具中。', 'கட்டுரையின் Markdown-ஐ (அல்லது URL-ல் .md சேர்த்து) உங்கள் AI கருவியில் நகலெடுங்கள்.', '記事の Markdown（または URL に .md）を AI ツールにコピーします。', '기사의 Markdown(또는 URL에 .md 추가)을 AI 도구에 복사하세요.', 'คัดลอก Markdown ของบทความ (หรือเพิ่ม .md ต่อท้าย URL) ลงในเครื่องมือ AI ของคุณ', 'sao chép Markdown của bài viết (hoặc thêm .md vào URL) vào công cụ AI của bạn.', 'salin Markdown artikel (atau tambahkan .md ke URL) ke alat AI Anda.', 'انسخ Markdown الخاص بالمقال (أو أضِف .md إلى URL) إلى أداة AI لديك.')}
           {' '}
-          <a href={localePath('/llms', locale)}>{t('nav.forAI', locale)} →</a>
+          <a href={localePath('/llms', locale)}>{t('nav.forAI', locale)} <span class="dirx">→</span></a>
         </p>
       </div>
     </details>

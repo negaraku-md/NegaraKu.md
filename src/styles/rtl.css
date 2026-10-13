@@ -29,3 +29,14 @@
 [dir='rtl'] .prow:hover {
   transform: translateX(-2px);
 }
+
+/* Standalone directional arrow glyphs (→ ← ↗) in nav/CTA/external-link labels are
+   wrapped in .dirx; mirror them under RTL so "next" points left and the external-link
+   arrow points up-inline-start. (In-prose flow arrows are left to the bidi algorithm.) */
+[dir='rtl'] .dirx,
+[dir='rtl'] .arr,
+[dir='rtl'] .lc-join,
+[dir='rtl'] .lc-arrow {
+  display: inline-block;
+  transform: scaleX(-1);
+}

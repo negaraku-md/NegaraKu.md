@@ -128,7 +128,7 @@ const stats = [
                     {a.data.requestedBy && <> · {a.data.requestedBy}</>}
                     {sec.key === 'nu' && a.data.reviewDue && <> · {L('semakan', 'review due', '应审阅', 'மதிப்பாய்வு நிலுவை', '要レビュー', '검토 예정', 'ครบกำหนดตรวจทาน', 'đến hạn đánh giá', 'tinjauan', 'مراجعة مستحقة')} {new Date(a.data.reviewDue).toISOString().slice(0, 10)}</>}
                   </span>
-                  <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{sec.action} ↗</a>
+                  <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{sec.action} <span class="dirx">↗</span></a>
                 </li>
               ))}
             </ul>
@@ -152,7 +152,7 @@ const stats = [
                   <span class="wl-status">{a.data.status}</span> · {worker(a)}
                   {ageDays(a.data.claimedAt) != null && <> · {ageDays(a.data.claimedAt)}{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ng', 'h', 'ي')}</>}
                 </span>
-                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து', '編集', '편집', 'แก้ไข', 'Chỉnh sửa', 'Sunting', 'تحرير')} ↗</a>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து', '編集', '편집', 'แก้ไข', 'Chỉnh sửa', 'Sunting', 'تحرير')} <span class="dirx">↗</span></a>
               </li>
             ))}
           </ul>
@@ -172,7 +172,7 @@ const stats = [
               <li>
                 <span class="wl-title">{a.data.title}</span>
                 <span class="wl-meta">{catName(a)} · {L('dibuat oleh', 'did', '完成者', 'செய்தவர்', '作業者', '작업자', 'ทำโดย', 'thực hiện bởi', 'dibuat oleh', 'أنجزها')}: {worker(a)} · {L('perlu pelulus ≠', 'needs approver ≠', '需批准者≠', 'அங்கீகரிப்பவர் தேவை ≠', '承認者が必要 ≠', '승인자 필요 ≠', 'ต้องมีผู้อนุมัติ ≠', 'cần người phê duyệt ≠', 'perlu penyetuju ≠', 'يلزم مُوافِق ≠')} {worker(a)}</span>
-                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Luluskan', 'Approve', '批准', 'ஒப்புதலளி', '承認', '승인', 'อนุมัติ', 'Phê duyệt', 'Setujui', 'الموافقة')} ↗</a>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Luluskan', 'Approve', '批准', 'ஒப்புதலளி', '承認', '승인', 'อนุมัติ', 'Phê duyệt', 'Setujui', 'الموافقة')} <span class="dirx">↗</span></a>
               </li>
             ))}
           </ul>
@@ -196,7 +196,7 @@ const stats = [
                   {a.data.sensitivity !== 'none' && <> · <span class="wl-sens">🔒 {a.data.sensitivity}</span></>}
                   {ageDays(a.data.created) != null && <> · {ageDays(a.data.created)}{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ng', 'h', 'ي')}</>}
                 </span>
-                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து', '編集', '편집', 'แก้ไข', 'Chỉnh sửa', 'Sunting', 'تحرير')} ↗</a>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து', '編集', '편집', 'แก้ไข', 'Chỉnh sửa', 'Sunting', 'تحرير')} <span class="dirx">↗</span></a>
               </li>
             ))}
           </ul>

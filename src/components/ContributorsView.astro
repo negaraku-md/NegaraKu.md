@@ -118,8 +118,8 @@ const num = (n: number) => n.toLocaleString(locale === 'zh' ? 'zh' : 'en');
       <p>{L('Sesiapa boleh menyumbang. Ketahui peranan dan cara menyertai.', 'Anyone can contribute. Learn the roles and how to join.', '人人都能贡献。了解各角色及加入方式。', 'யார் வேண்டுமானாலும் பங்களிக்கலாம். பாத்திரங்களையும் சேரும் வழியையும் அறியுங்கள்.', 'だれでも貢献できます。役割と参加方法を知りましょう。', '누구나 기여할 수 있습니다. 역할과 참여 방법을 알아보세요.', 'ใครก็สามารถมีส่วนร่วมได้ เรียนรู้เกี่ยวกับบทบาทและวิธีการเข้าร่วม', 'Bất kỳ ai cũng có thể đóng góp. Tìm hiểu các vai trò và cách tham gia.', 'Siapa saja bisa berkontribusi. Pelajari perannya dan cara bergabung.', 'يمكن لأي شخص المساهمة. تعرّف على الأدوار وكيفية الانضمام.')}</p>
     </div>
     <div class="join-acts">
-      <a class="btn btn-primary" href={localePath('/roles', locale)}>{L('Peranan & cara ia berfungsi', 'Roles & how it works', '角色与运作方式', 'பாத்திரங்கள் & இது எப்படி வேலை செய்கிறது', '役割と仕組み', '역할과 작동 방식', 'บทบาทและวิธีการทำงาน', 'Vai trò & cách hoạt động', 'Peran & cara kerjanya', 'الأدوار & كيف تعمل')} →</a>
-      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献する', '기여하기', 'มีส่วนร่วม', 'Đóng góp', 'Berkontribusi', 'ساهِم')} →</a>
+      <a class="btn btn-primary" href={localePath('/roles', locale)}>{L('Peranan & cara ia berfungsi', 'Roles & how it works', '角色与运作方式', 'பாத்திரங்கள் & இது எப்படி வேலை செய்கிறது', '役割と仕組み', '역할과 작동 방식', 'บทบาทและวิธีการทำงาน', 'Vai trò & cách hoạt động', 'Peran & cara kerjanya', 'الأدوار & كيف تعمل')} <span class="dirx">→</span></a>
+      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献する', '기여하기', 'มีส่วนร่วม', 'Đóng góp', 'Berkontribusi', 'ساهِم')} <span class="dirx">→</span></a>
     </div>
   </div>
 </section>
