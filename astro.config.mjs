@@ -34,7 +34,7 @@ function lastmodFor(url) {
   let p = url.replace(SITE, '').replace(/^\/+|\/+$/g, ''); // e.g. "en/malaysia/slug"
   if (!p) return undefined; // homepage
   const seg = p.split('/');
-  const lang = seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ta' || seg[0] === 'ja' || seg[0] === 'ar' ? seg.shift() : 'ms';
+  const lang = seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ta' || seg[0] === 'ja' || seg[0] === 'ar' || seg[0] === 'hi' ? seg.shift() : 'ms';
   if (seg.length < 2) return undefined; // category/list page, not an article
   return lastmodByPath.get(`${lang}/${seg.join('/')}`);
 }
@@ -325,9 +325,9 @@ export default defineConfig({
   },
   i18n: {
     defaultLocale: 'ms',
-    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar'],
+    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi'],
     routing: {
-      prefixDefaultLocale: false, // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi, id /id, ar /ar
+      prefixDefaultLocale: false, // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi, id /id, ar /ar, hi /hi
     },
   },
   integrations: [
@@ -338,6 +338,9 @@ export default defineConfig({
       // held /id out of the sitemap was removed and id added to LOCALES + the locales map.
       // Arabic (`ar`) OPEN-LAUNCHED 2026-10-13 (first RTL): in LOCALES, indexed, and in this
       // sitemap (the soft-launch /ar filter below was removed and ar added to the locales map).
+      // Hindi (`hi`) is SOFT-LAUNCHED 2026-10-13: routes build, but held OUT of this locales
+      // map and FILTERED OUT below so /hi stays noindex until its Phase 3 open launch (when the
+      // /hi filter is removed and hi is added here + to LOCALES).
       i18n: {
         defaultLocale: 'ms',
         locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar' },
@@ -345,8 +348,10 @@ export default defineConfig({
       // Keep noindex-by-design pages OUT of the sitemap. The per-locale
       // /maintenance pages are chrome-less + `noindex` (BaseLayout), so listing
       // them in the sitemap made Google report "Excluded by 'noindex' tag" for
-      // sitemap URLs. (Every other route is index,follow, so nothing else needs filtering.)
-      filter: (page) => !/\/maintenance\/?$/.test(page),
+      // sitemap URLs. Soft-launched /hi is likewise held out (noindex) until Phase 3.
+      // (Every other route is index,follow, so nothing else needs filtering.)
+      filter: (page) =>
+        !/\/maintenance\/?$/.test(page) && !/\/hi(?:\/|$)/.test(new URL(page).pathname),
       serialize(item) {
         const lastmod = lastmodFor(item.url);
         if (lastmod) item.lastmod = lastmod;
