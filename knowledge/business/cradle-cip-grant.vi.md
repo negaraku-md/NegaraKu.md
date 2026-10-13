@@ -33,8 +33,9 @@ faq:
     a: "Không. Các khoản tài trợ CIP là có điều kiện. Các khoản tiền được giải phóng theo các mốc đã thống nhất (qua các khoản thanh toán trước và hoàn trả), và khoản tài trợ có thể bị thu hồi nếu người nhận vi phạm các điều kiện của nó hoặc dự án bị chấm dứt. CIP Sprint nói riêng được cấu trúc như một khoản tài trợ có thể chuyển đổi. Hãy đọc kỹ thỏa thuận tài trợ để bạn hiểu các điều khoản về mốc, báo cáo và thu hồi trước khi bạn chấp nhận."
 
 lang: "vi"
+sourceContentHash: "314f5c2c68cdde6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

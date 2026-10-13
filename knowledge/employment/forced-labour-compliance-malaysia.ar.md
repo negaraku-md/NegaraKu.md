@@ -36,10 +36,11 @@ verificationNeeded:
   - "التأكد من كيفية تفسير عبارة «دون سلطة مشروعة» (without lawful authority) في المادة 12(1)(f) من قانون جوازات السفر لسنة 1966 حين يوافق العامل على حفظ صاحب العمل للجواز أمانةً — لم يُعثر على أي سوابق قضائية أو إرشادات من النيابة العامة (AGC) بشأن هذه النقطة"
 
 lang: "ar"
+sourceContentHash: "b59bcb20c9aa24c2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -32,10 +32,11 @@ faq:
     a: "يُعيّن يانغ دي-برتوان أغونغ النائب العام بناءً على مشورة رئيس الوزراء. ويجب أن يكون المرشّح مؤهلاً لتولّي منصب قاضٍ في المحكمة الاتحادية."
 
 lang: "ar"
+sourceContentHash: "8a9cf47766823c46"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

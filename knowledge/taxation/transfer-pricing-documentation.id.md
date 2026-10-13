@@ -51,8 +51,9 @@ obligations:
     consequence: "Penalti bertingkat dari RM20,000 hingga RM100,000 bergantung pada keterlambatan, dan kemungkinan penuntutan"
 
 lang: "id"
+sourceContentHash: "5153fb940652449c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

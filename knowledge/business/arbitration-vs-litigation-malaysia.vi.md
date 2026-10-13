@@ -40,8 +40,9 @@ verificationNeeded:
   - "Xác nhận biểu phí và yêu cầu đặt cọc hiện hành của AIAC trực tiếp từ AIAC trước khi tư vấn về chi phí"
 
 lang: "vi"
+sourceContentHash: "8f87d032cb16f4b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -39,8 +39,9 @@ verificationNeeded:
   - "Danh sách đầy đủ các bảo lưu và thông báo MLI của Malaysia về các Điều 12 và 13 không được trích xuất từ một nguồn của chính phủ Malaysia. Văn bản tổng hợp Malaysia-Nhật Bản xác nhận cả hai điều áp dụng cho cặp hiệp định đó; đừng khái quát hóa cho một hiệp định khác mà không đọc văn bản tổng hợp của riêng nó"
 
 lang: "vi"
+sourceContentHash: "7dd6ea1d4a097c43"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

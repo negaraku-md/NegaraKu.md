@@ -29,12 +29,13 @@ faq:
     a: "نعم. يتجنَّب كثير من الماليزيين الهندوس لحم البقر، فالقوائم الخالية منه شائعة، ومعظم المطاعم النباتية الهندية لا تقدِّم اللحم إطلاقًا. أما القوائم الصينية والملايوية فتستخدم لحم البقر بالفعل، فتحقَّق من الطبق إن كنت تتجنَّبه."
 
 lang: "ar"
+sourceContentHash: "b8a6bb42bf674ded"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

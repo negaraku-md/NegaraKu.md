@@ -41,8 +41,9 @@ verificationNeeded:
   - "Xác nhận liệu thù lao giám đốc trả cho một giám đốc không điều hành ngoài một hợp đồng lao động có phải là tiền lương cho mục đích EPF hay không; EPF xác nhận các giám đốc hưởng lương phải đóng góp nhưng không đề cập trực tiếp đến khoản thù lao"
 
 lang: "vi"
+sourceContentHash: "b476e81782042301"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

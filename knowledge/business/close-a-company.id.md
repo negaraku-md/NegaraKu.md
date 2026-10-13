@@ -25,8 +25,9 @@ verificationNeeded:
   - "Halaman ini tidak menyatakan biaya, tarif, atau jangka pemrosesan apa pun sendiri; setiap angka terdapat pada halaman jalur yang ditautkan dan disumberkan di sana"
 
 lang: "id"
+sourceContentHash: "40a5acd6c21bafa9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -26,8 +26,9 @@ verificationNeeded:
   - "Putusan Mahkamah Rayuan yang mengukuhkan argumen anak perusahaan dilaporkan bertanggal 27 September 2023; alasan putusan tertulis tidak dapat ditemukan pada sumber peradilan resmi"
 
 lang: "id"
+sourceContentHash: "0aa2b1460e10e990"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

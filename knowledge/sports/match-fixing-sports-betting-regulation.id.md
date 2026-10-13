@@ -29,8 +29,9 @@ faq:
     a: "Menurut ringkasan undang-undang, pelanggaran suap dapat dihukum penjara hingga 20 tahun dan denda tidak kurang dari lima kali nilai suap atau RM10,000, mana yang lebih tinggi. Rincian ini perlu diperiksa ulang terhadap teks lengkap undang-undang."
 
 lang: "id"
+sourceContentHash: "602c70742033a7cb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

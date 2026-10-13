@@ -41,8 +41,9 @@ verificationNeeded:
   - "Số ghế trong Hội đồng Lập pháp Bang và Nghị viện được cố ý không nêu vì không thể xác minh trên nguồn chính thức của SPR khi soạn bản nháp này."
 
 lang: "vi"
+sourceContentHash: "869286bde4f6fa80"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

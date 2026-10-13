@@ -28,8 +28,9 @@ faq:
     a: "Ia sudah dikenal di seluruh negeri, memiliki warna dan bentuk yang menarik, nama yang seragam, mudah didapat, dan belum menjadi bunga nasional negara lain mana pun pada masa itu."
 
 lang: "id"
+sourceContentHash: "a06373b8a03d8ae0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,10 +29,11 @@ faq:
     a: "نعم. أُدرجت Sunway Healthcare Holdings في السوق الرئيسية لبورصة ماليزيا (Bursa Malaysia) باسم SUNMED في 18 مارس 2026. وكان صندوق GIC السنغافوري قد وافق سابقاً، في يونيو 2021، على استثمار RM750 مليون مقابل حصة 16% في أعمال الرعاية الصحية."
 
 lang: "ar"
+sourceContentHash: "b41845c9552f7efc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

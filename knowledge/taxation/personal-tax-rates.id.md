@@ -37,8 +37,9 @@ verificationNeeded:
   - "Konfirmasikan apakah lapisan dividen 2% di bawah Schedule 1 Part XXII berlaku bagi individu bukan residen selain residen; tabel tarif itu sendiri tidak menyatakannya"
 
 lang: "id"
+sourceContentHash: "8166bbfff56fa0fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

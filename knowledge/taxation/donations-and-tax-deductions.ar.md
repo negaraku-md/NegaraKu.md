@@ -26,10 +26,11 @@ verificationNeeded:
   - "البيانات المطلوبة في إيصال تبرع صحيح بموجب المادة 44(6) — تعذَّر استرجاع صفحة LHDN الموضِّحة لاستخدام الإيصالات."
 
 lang: "ar"
+sourceContentHash: "5f0966be244cdbe2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

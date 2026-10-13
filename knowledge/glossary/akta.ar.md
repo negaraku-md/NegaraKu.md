@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "كل من يقرأ القانون الماليزي أو يستشهد به — المحامون والطلاب وأصحاب الأعمال والباحثون."
 
 lang: "ar"
+sourceContentHash: "fcd52a1ed198449a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

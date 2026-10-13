@@ -29,12 +29,13 @@ faq:
     a: "تمتد Genting عبر الترفيه والضيافة، ومزارع نخيل الزيت، وتوليد الطاقة، والنفط والغاز، والتطوير العقاري، وعلوم الحياة. وتدير Genting Plantations نحو 243,000 هكتار من أرصدة الأراضي عبر ماليزيا وإندونيسيا."
 
 lang: "ar"
+sourceContentHash: "1b5f1753141cba5e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

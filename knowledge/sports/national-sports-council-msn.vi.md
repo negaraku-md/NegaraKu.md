@@ -27,8 +27,9 @@ faq:
   - q: "MSN đặt trụ sở ở đâu?"
     a: "Tại Khu phức hợp Thể thao Quốc gia (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. Nó cũng vận hành các khu phức hợp huấn luyện ở một số bang khác."
 lang: "vi"
+sourceContentHash: "d519f370c717d10a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

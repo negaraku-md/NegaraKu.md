@@ -36,12 +36,13 @@ faq:
     a: "ينص دليل الإجراءات على أن تتعامل السلطة المختصة مباشرة مع الشركة أو مقدم الطلب دون المرور بطرف ثالث أو وسيط مثل مستشار. وقد يساعد المستشارون في إعداد المستندات، لكن الطلب والمراسلات الرسمية تظل بين مقدم الطلب وJAKIM/MAIN/JAIN."
 
 lang: "ar"
+sourceContentHash: "7bb5b6fb5326f994"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

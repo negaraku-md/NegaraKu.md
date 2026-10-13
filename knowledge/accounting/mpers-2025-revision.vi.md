@@ -38,8 +38,9 @@ faq:
     a: "Ít hơn ngày 2027 gợi ý. Việc áp dụng hồi tố có nghĩa là kỳ so sánh phải được lập trên cơ sở mới, nên một công ty có cuối năm tháng 12 đang thu thập dữ liệu MPERS (2025) từ ngày 1 tháng 1 năm 2026 trở đi. Nếu các hợp đồng doanh thu cần phân tích lại, công việc bắt đầu trước năm chuyển tiếp, không phải trong nó."
 
 lang: "vi"
+sourceContentHash: "016de66c249cb162"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,12 +34,13 @@ faq:
     a: "لا يوجد قانون خاص بـ HIV. وقد تنطبق أحكام عامة من قانون العقوبات مثل المادتين 269 و270 على نشر الأمراض الخطيرة، لكن لم تُعرَف أي ملاحقات قضائية متعلّقة بـ HIV حتى الآن."
 
 lang: "ar"
+sourceContentHash: "c335daac63ec7a97"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

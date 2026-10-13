@@ -33,8 +33,9 @@ faq:
     a: "Theo truyền thống là phụ nữ. UNESCO ghi nhận rằng việc dệt songket luôn nằm trong tay phụ nữ, còn đàn ông tham gia thực hành đó bằng cách làm các dụng cụ dệt. Tri thức của nó được truyền lại trong gia đình và làng quê, và một số cơ sở cũng có các chương trình huấn luyện."
 
 lang: "vi"
+sourceContentHash: "054643f8240fb22d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

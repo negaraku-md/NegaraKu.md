@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "كل من ينتقل إلى ماليزيا بصحبة كلب أو قطة، أو يُدخِل حيواناً لأي غرض آخر، ويحتاج إلى التخطيط لعملية التصريح والحجر الصحي قبل المغادرة."
 
 lang: "ar"
+sourceContentHash: "10bc44ecb02ea814"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

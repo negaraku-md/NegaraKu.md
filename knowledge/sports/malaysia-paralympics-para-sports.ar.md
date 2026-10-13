@@ -32,10 +32,11 @@ faq:
     a: "من بين الأبرز تشيا ليك هو (تنس الريشة SU5، ذهبية طوكيو 2020 وباريس 2024)، وبوني بونياو غوستين (رفع الأثقال، ذهبية طوكيو 2020 وباريس 2024)، وعبد اللطيف روملي (الوثب الطويل T20، ذهبية ريو 2016 وطوكيو 2020)."
 
 lang: "ar"
+sourceContentHash: "1cf985c7e961d813"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

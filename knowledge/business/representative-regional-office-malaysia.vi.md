@@ -33,8 +33,9 @@ faq:
     a: "Cơ quan Phát triển Đầu tư Malaysia (Malaysian Investment Development Authority, MIDA) phê duyệt các đơn, được nộp qua cổng Invest Malaysia. Các đơn về ngân hàng và dịch vụ tài chính do Ngân hàng Trung ương Malaysia (Bank Negara Malaysia, the Central Bank of Malaysia) xử lý."
 
 lang: "vi"
+sourceContentHash: "9170883af9a3f4af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

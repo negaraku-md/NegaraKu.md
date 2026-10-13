@@ -31,12 +31,13 @@ faq:
     a: "غطِّ كتفيك وركبتيك في كل المواقع الدينية. وتتوقّع المساجد إضافةً إلى ذلك أن تغطّي النساء شعرهنّ وأن يخلع الجميع أحذيتهم. وتشترط المعابد الهندوسية والصينية أيضًا خلع الأحذية قبل دخول الحرم الداخلي."
 
 lang: "ar"
+sourceContentHash: "93767c9cc05e1d13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

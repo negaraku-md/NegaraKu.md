@@ -34,8 +34,9 @@ faq:
     a: "Bộ Nông nghiệp và An ninh Lương thực (Kementerian Pertanian dan Keterjaminan Makanan, KPKM) thông qua Bộ phận Phát triển Ngành Lúa, với các cơ quan thực thi như Ủy ban Tổ chức Nông dân (Lembaga Pertubuhan Peladang, LPP), MADA và KADA ở các vùng vựa lúa tương ứng."
 
 lang: "vi"
+sourceContentHash: "0db45e7ee2f93134"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

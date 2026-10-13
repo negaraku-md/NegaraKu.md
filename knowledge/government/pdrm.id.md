@@ -35,8 +35,9 @@ faq:
     a: "Ya, dari segi strukturnya. Police Act 1967 mewujudkan satu pasukan tunggal yang digunakan di dan di seluruh Malaysia, di bawah satu rantai komando yang dipimpin Ketua Polis Negara. Portal resmi pemerintah (malaysia.gov.my) juga menyatakan pengumpulan intelijen keamanan sebagai salah satu peran pasukan ini di bawah Pasal 3(3)."
 
 lang: "id"
+sourceContentHash: "2fcb4ae755f95546"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

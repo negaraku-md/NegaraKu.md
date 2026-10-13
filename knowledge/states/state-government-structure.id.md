@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Pembaca yang ingin memahami, secara deskriptif, bagaimana pemerintah negeri Malaysia diatur — pelajar, pegawai negeri, wartawan, dan siapa pun yang mencoba memahami mengapa sebagian negeri memiliki Menteri Besar dan Istana Negeri sedangkan negeri lain memiliki Ketua Menteri dan seorang gubernur."
 
 lang: "id"
+sourceContentHash: "0eb897c5d29d626d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

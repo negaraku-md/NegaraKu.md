@@ -33,8 +33,9 @@ faq:
     a: "Ya. Di bawah Hire-Purchase Act 1967, deposit minimum adalah 10% dari harga tunai, walaupun pembiaya dapat menetapkan jumlah yang lebih tinggi."
 
 lang: "id"
+sourceContentHash: "2d6f10d61a0f1ec1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

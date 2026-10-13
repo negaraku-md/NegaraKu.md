@@ -29,8 +29,9 @@ faq:
     a: "Murid SJKC dan SJKT dapat melanjutkan ke sekolah menengah kebangsaan (SMK, bahasa pengantar bahasa Melayu) atau, bagi sebagian murid SJKC, ke sekolah menengah jenis kebangsaan (SMJK) yang juga merupakan sekolah negeri/bantuan pemerintah. Peralihan bahasa pengantar dari sekolah dasar ke sekolah menengah kebangsaan didukung oleh kelas peralihan bagi murid yang memerlukannya."
 
 lang: "id"
+sourceContentHash: "2c9607178a97bd26"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

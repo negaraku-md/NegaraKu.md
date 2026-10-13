@@ -26,8 +26,9 @@ verificationNeeded:
   - "MFRS 139 masih terdaftar oleh MASB; verifikasi status penerapannya saat ini bagi entitas mana pun yang masih berada dalam lingkupnya"
 
 lang: "id"
+sourceContentHash: "e028c2fa0dbb47c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

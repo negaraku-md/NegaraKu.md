@@ -28,8 +28,9 @@ faq:
     a: "Tidak. Sepang menjadi tuan rumah Grand Prix Formula 1 hingga 2017; kini sirkuit itu berfokus pada MotoGP dan acara motorsport lain."
 
 lang: "id"
+sourceContentHash: "e8c2bc7d28bb0f71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

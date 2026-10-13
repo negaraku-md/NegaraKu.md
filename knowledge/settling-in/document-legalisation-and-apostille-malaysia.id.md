@@ -32,8 +32,9 @@ faq:
     a: "Tidak. Menurut Bahagian Konsular Wisma Putra sendiri, pengesahan hanya mengesahkan keaslian meterai dan tanda tangan pejabat yang diberi kuasa — bukan kebenaran isi dokumen."
 
 lang: "id"
+sourceContentHash: "1c942b9ac8cdb96c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

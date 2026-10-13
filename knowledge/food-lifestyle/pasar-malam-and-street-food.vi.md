@@ -31,8 +31,9 @@ faq:
     a: "Các cơ sở thực phẩm được quản lý theo Food Hygiene Regulations 2009. Người tiêu dùng được khuyến khích chọn các quầy hạng A hoặc B, vốn cung cấp thức ăn nóng và tươi, cùng kiểm tra nhãn hạng thường được trưng bày."
 
 lang: "vi"
+sourceContentHash: "1f2264f16a54722d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

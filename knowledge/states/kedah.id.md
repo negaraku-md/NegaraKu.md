@@ -42,8 +42,9 @@ verificationNeeded:
   - "Pastikan tanggal istiadat pertabalan Sultan Kedah ke-29 terhadap rekam resmi Istana Anak Bukit; halaman resmi pemerintah negeri hanya menyatakan tanggal pengisytiharan."
 
 lang: "id"
+sourceContentHash: "0d6884ea1dade121"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

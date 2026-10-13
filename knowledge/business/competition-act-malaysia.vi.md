@@ -27,8 +27,9 @@ faq:
     a: "Ủy ban Cạnh tranh Malaysia (MyCC), một cơ quan luật định độc lập, điều tra các vi phạm bị nghi ngờ và có thể áp đặt các khoản phạt tài chính và các chỉ thị."
 
 lang: "vi"
+sourceContentHash: "6a2eea7b75db3f8c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

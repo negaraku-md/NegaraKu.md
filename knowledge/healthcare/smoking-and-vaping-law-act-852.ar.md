@@ -30,10 +30,11 @@ faq:
     a: "لا. يحظر Act 852 بيع جميع منتجات التبغ والسجائر الإلكترونية (vape) عبر المنصات الإلكترونية وآلات البيع الذاتي."
 
 lang: "ar"
+sourceContentHash: "41eadbd4f391ff30"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

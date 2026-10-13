@@ -36,8 +36,9 @@ verificationNeeded:
   - "Verifikasi nomor Pasal dan seksyen terhadap teks lengkap Konstitusi Federal (Cetak Ulang 2020, AGC) jika kutipan tepat diperlukan."
 
 lang: "id"
+sourceContentHash: "0441017d6712ffd2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

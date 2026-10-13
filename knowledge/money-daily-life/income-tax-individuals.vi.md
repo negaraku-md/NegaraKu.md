@@ -27,8 +27,9 @@ verificationNeeded:
   - "Hạn chót nộp hằng năm (30 tháng 4 nộp thủ công / 15 tháng 5 e-Filing) được xác nhận cho Năm Đánh thuế 2025 qua thông cáo báo chí có ghi ngày của chính LHDN; LHDN ban hành một chương trình nộp mới mỗi năm, vì vậy hãy kiểm tra lại các ngày của năm hiện hành trước khi dựa vào chúng cho một năm đánh thuế khác."
 
 lang: "vi"
+sourceContentHash: "027e674e99f0cfb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

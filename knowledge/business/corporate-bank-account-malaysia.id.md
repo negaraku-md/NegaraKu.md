@@ -43,8 +43,9 @@ verificationNeeded:
   - "Verifikasi apakah bank memerlukan penelaahan daftar pemilik benefisial yang diselenggarakan di bawah ss.60B dan 60C Companies Act 2016 — ini adalah praktik biasa tetapi bukan persyaratan yang dinyatakan dalam dokumen kebijakan tersebut"
 
 lang: "id"
+sourceContentHash: "75370094a3730df5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,10 +29,11 @@ faq:
     a: "لا يجب التسجيل لضريبة الخدمة إلا على منشآت الأطعمة والمشروبات التي يتجاوز رقم أعمالها الخاضع للضريبة RM1,500,000 خلال فترة 12 شهرًا، ورسوم الخدمة تستخدمها غالبًا الفنادق والمطاعم ذات الخدمة الكاملة. أما الباعة والمطاعم الصغيرة فتفرض السعر المدرَج فقط عادةً."
 
 lang: "ar"
+sourceContentHash: "0474567c9b571270"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -29,8 +29,9 @@ faq:
     a: "Báo cáo của Tổng Kiểm toán Nhà nước được trình lên Quốc hội vào tháng 2 năm 2023 tiết lộ rằng thông tin cá nhân của 3 triệu người tiêm vắc-xin đã bị tải xuống qua tài khoản 'Super Admin' của hệ thống MyVAS trong khoảng từ 28 đến 31 tháng 10 năm 2021."
 
 lang: "vi"
+sourceContentHash: "1889bed64a5f738d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

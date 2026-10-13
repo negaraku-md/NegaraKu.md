@@ -43,8 +43,9 @@ verificationNeeded:
   - "Verifikasi apakah ada pindaan setelah 2006 pada Act 136; teks terkini AGC dinyatakan per 1 Januari 2006 dan daftar seksyen yang diubahnya berhenti pada 1974"
 
 lang: "id"
+sourceContentHash: "e471e60c661a356c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

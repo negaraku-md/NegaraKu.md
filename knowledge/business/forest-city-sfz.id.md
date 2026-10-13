@@ -44,8 +44,9 @@ verificationNeeded:
   - "Jumlah kantor keluarga yang benar-benar disahkan dilaporkan dalam liputan media tetapi tidak dipastikan berdasarkan penerbitan Suruhanjaya Sekuriti"
 
 lang: "id"
+sourceContentHash: "437ac0257773795a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

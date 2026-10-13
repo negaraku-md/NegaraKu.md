@@ -41,10 +41,11 @@ verificationNeeded:
   - "التأكد مما إذا كان MASB قد أصدر أي إرشاد محدد بشأن إعادة اعتماد MPERS من كيان سبق أن انتقل إلى MFRS"
 
 lang: "ar"
+sourceContentHash: "621bf2dc64ee78c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

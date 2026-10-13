@@ -59,10 +59,11 @@ obligations:
     consequence: "فقدان الإعفاء الانتقالي من الغرامات حيثما لم تُتخذ تدابير معقولة"
 
 lang: "ar"
+sourceContentHash: "f4ebb2767afaf5b6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"

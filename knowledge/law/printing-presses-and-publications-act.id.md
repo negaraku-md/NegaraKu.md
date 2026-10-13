@@ -29,8 +29,9 @@ faq:
     a: "Pasal 7 membolehkan Menteri, melalui perintah dalam Warta, melarang penerbitan yang dianggap merugikan atau berkemungkinan merugikan ketertiban umum, keamanan, moralitas, hubungan dengan negara asing, atau kepentingan negara."
 
 lang: "id"
+sourceContentHash: "614accf2d6e4feba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

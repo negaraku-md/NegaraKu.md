@@ -40,8 +40,9 @@ faq:
     a: "Báo cáo đã được ghi lại không thể bị xóa khỏi hồ sơ cảnh sát. Nếu có thông tin mới, sai sót về dữ kiện, hoặc diễn biến của vụ án, cách đúng là làm một báo cáo bổ sung tham chiếu số báo cáo gốc, chứ không phải yêu cầu bỏ báo cáo gốc."
 
 lang: "vi"
+sourceContentHash: "0ae54502024bdaab"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "Điều kiện đủ điều kiện của e-Reporting (công dân Malaysia, từ 18 tuổi trở lên) và danh sách đầy đủ các mục có thể báo cáo — cổng chính thức ereporting.rmp.gov.my không thể truy cập để xác minh trực tiếp; xác nhận đối chiếu với cổng chính thức."

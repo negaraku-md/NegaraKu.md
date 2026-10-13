@@ -34,10 +34,11 @@ faq:
     a: "نعم. خلال المرحلة التأسيسية (السنوات الثلاث إلى الخمس الأولى)، يُقيّد إطار BNM إجمالي أصول كل مصرف رقمي بما لا يتجاوز RM3 مليار. ويتيح هذا لـ BNM مراقبة الأداء والمخاطر قبل أن تكبر المصارف."
 
 lang: "ar"
+sourceContentHash: "586acae3d2012d4e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -29,8 +29,9 @@ faq:
     a: "Đến Tòa Trọng tài Quản lý Phân tầng, cơ quan xử lý các yêu cầu đến RM250,000 nhanh hơn và rẻ hơn so với tòa án. Ủy viên Xây dựng (Commissioner of Buildings, COB) tại chính quyền địa phương thì thực thi việc tuân thủ đạo luật."
 
 lang: "vi"
+sourceContentHash: "788e401fa0ccd9ab"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

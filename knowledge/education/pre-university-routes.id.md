@@ -22,8 +22,9 @@ verificationNeeded:
   - "Kapasitas penerimaan tahunan terkini (jumlah tempat) bagi kohort STPM, Matrikulasi, dan A-Level tidak dinyatakan di sini — angka ini berubah setiap siklus penerimaan; pastikan angka sesi terkini langsung dengan MPM, Bagian Matrikulasi, atau kolej terkait sebelum bergantung pada angka tertentu."
   - "Pedoman MQA mengenai struktur program Asasi (Garis Panduan Kurikulum Asasi) tidak dapat diperoleh sepenuhnya untuk artikel ini — aturan minimum jam kredit atau masa yang ditetapkan oleh MQA bagi program Asasi dijelaskan di sini secara umum saja; pastikan angka sebenarnya dengan MQA atau institusi yang menawarkannya sebelum mengutipnya."
 lang: "id"
+sourceContentHash: "d0b49a1aee8b9177"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

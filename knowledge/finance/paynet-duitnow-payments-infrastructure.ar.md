@@ -29,10 +29,11 @@ faq:
     a: "نعم. DuitNow QR قابل للتشغيل البيني، فيمكن مسح رمز QR واحد للتاجر من بنوك ومحافظ إلكترونية مختلفة مثل Touch 'n Go eWallet وGrabPay وBoost، ما دامت مشارِكة."
 
 lang: "ar"
+sourceContentHash: "d327e61449ac93b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

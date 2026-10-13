@@ -38,8 +38,9 @@ faq:
     a: "Ban Thư ký ASEAN đặt tại Jakarta, Indonesia. Nó do Tổng Thư ký ASEAN đứng đầu, hiện nay là Tiến sĩ Kao Kim Hourn của Cambodia."
 
 lang: "vi"
+sourceContentHash: "a6367ba8ba6baac1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

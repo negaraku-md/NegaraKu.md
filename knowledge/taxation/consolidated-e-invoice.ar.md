@@ -42,10 +42,11 @@ verificationNeeded:
   - "مسألة ما إذا كان استثناء الكازينو وآلات القمار من قاعدة مدفوعات الرهان له تاريخ انتهاء — تذكر LHDN أنه حتى إشعار آخر"
 
 lang: "ar"
+sourceContentHash: "1b4f5e59594a8f17"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

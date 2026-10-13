@@ -30,8 +30,9 @@ faq:
     a: "Không. Báo cáo Ngưỡng Tiền mặt cho các giao dịch tiền mặt từ RM25,000 trở lên chỉ áp dụng cho tổ chức ngân hàng, các định chế tài chính phát triển được lựa chọn, Lembaga Tabung Haji và sòng bạc được cấp phép. DNFBP vẫn có nghĩa vụ STR."
 
 lang: "vi"
+sourceContentHash: "ed7c9043d8d06f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

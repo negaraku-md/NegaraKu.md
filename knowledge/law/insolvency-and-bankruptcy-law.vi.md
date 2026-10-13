@@ -34,8 +34,9 @@ faq:
     a: "Có. Luật Công ty 2016 giới thiệu các cơ chế cứu vãn: quản lý tư pháp (Điều 403-430), theo đó một quản lý viên tư pháp do tòa chỉ định điều hành công ty dưới một lệnh hoãn thi hành, và thỏa thuận tự nguyện của doanh nghiệp (Điều 395). Một kế hoạch dàn xếp theo Điều 366 cũng cho phép một công ty ràng buộc các chủ nợ vào một thỏa hiệp với 75% chấp thuận theo giá trị và sự phê chuẩn của tòa."
 
 lang: "vi"
+sourceContentHash: "a85ad7d5133bf9fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

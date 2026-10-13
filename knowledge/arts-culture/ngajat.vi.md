@@ -30,8 +30,9 @@ faq:
     a: "Trong số các loại được JKKN ghi nhận có Ngajat Lesong (do nam giới múa trong khi cắn cối gỗ), Ngajat Indu (do nữ giới múa với động tác dệt pua kumbu), Ngajat Pua Kumbu (dùng tấm pua kumbu) và Ngajat Ngiling Tikai đánh dấu sự kết thúc của lễ mừng Gawai Dayak."
 
 lang: "vi"
+sourceContentHash: "bc3c9b377ae4eddf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

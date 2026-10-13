@@ -36,10 +36,11 @@ faq:
     a: "يضمن EPF حدّاً أدنى للعائد قدره 2.5% سنوياً بموجب EPF Act 1991. والعائد الفعلي أعلى عادةً — فقد أُعلن عن 6.30% لسنة 2024 و6.15% لسنة 2025 (Simpanan Konvensional)."
 
 lang: "ar"
+sourceContentHash: "002bda1ea2b2e8d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

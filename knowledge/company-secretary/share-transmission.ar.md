@@ -57,10 +57,11 @@ obligations:
     consequence: "غرامة لا تتجاوز RM20,000 وغرامة إضافية لا تتجاوز RM500 عن كل يوم في حالة الجريمة المستمرة"
 
 lang: "ar"
+sourceContentHash: "bd60a59f70660bf4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -32,8 +32,9 @@ faq:
     a: "Tidak sepenuhnya. Mahkamah Persekutuan menegaskan pengakuan common law terhadap NCR dalam Madeli bin Salleh (2007), tetapi dalam TR Sandah (2016) pengadilan yang terbelah membatasi hak yang dapat ditegakkan pada tanah yang digarap dan menolak tuntutan atas hutan komunal di sekelilingnya. Cakupan NCR masih diperdebatkan."
 
 lang: "id"
+sourceContentHash: "f1772b5d15bbbf86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

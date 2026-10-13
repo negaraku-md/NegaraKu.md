@@ -29,8 +29,9 @@ faq:
     a: "Membantu dan menasihati Raja dalam urusan Islam, serta mengelola zakat, wakaf, masjid dan hal terkait menurut enakmen negeri. MAIN juga menjadi pemegang amanah tunggal harta wakaf negeri."
 
 lang: "id"
+sourceContentHash: "d6d15ba266fb5f4b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

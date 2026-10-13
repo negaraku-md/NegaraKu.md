@@ -31,8 +31,9 @@ faq:
     a: "Penerima memperoleh Warkah Penghormatan Negara, uang tunai RM60,000, alokasi penerbitan bernilai hingga RM500,000 (hingga 50,000 naskah), perawatan medis gratis kelas satu di rumah sakit pemerintah, serta tunjangan RM5,000 sebulan."
 
 lang: "id"
+sourceContentHash: "c27d87b5dbf2077e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Người vay có các khoản vay lãi suất thả nổi, người tiết kiệm, và bất kỳ ai đang cố hiểu tin tức lãi suất của Malaysia."
 
 lang: "vi"
+sourceContentHash: "54922b7bc9867b3f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

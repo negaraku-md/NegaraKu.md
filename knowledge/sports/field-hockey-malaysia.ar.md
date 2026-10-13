@@ -33,10 +33,11 @@ faq:
     a: "اتحاد الهوكي الماليزي (Malaysian Hockey Confederation, MHC) هو الهيئة الوطنية الحاكمة لهوكي الحقل والهوكي الداخلي للرجال والنساء. وهو منتسب إلى اتحاد الهوكي الآسيوي (AHF) والاتحاد الدولي للهوكي (FIH)، ويعمل انطلاقًا من الاستاد الوطني للهوكي في بوكيت جليل بكوالالمبور."
 
 lang: "ar"
+sourceContentHash: "e3b29244d5e5d634"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

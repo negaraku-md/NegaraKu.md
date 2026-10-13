@@ -35,12 +35,13 @@ verificationNeeded:
   - "أعِد التحقق من مخصّصات ميناء بيرليس الداخلي (RM318.0 مليون للبنية التحتية، وRM1.2 مليار استثماراً خاصاً) ومن المناطق الإدارية الست مقابل MKN حالما يصير mkn.gov.my متاحاً؛ فالموقع كان معطّلاً أثناء أحدث جولة إعادة تحقّق، لذا تستند هذه الأرقام إلى الفحص الأصلي في 2026-07-24."
 
 lang: "ar"
+sourceContentHash: "f8950ccf72fcaab1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

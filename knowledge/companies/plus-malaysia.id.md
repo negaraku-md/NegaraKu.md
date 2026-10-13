@@ -28,8 +28,9 @@ faq:
     a: "Di bawah keputusan 2020, tarif tol dikurangi 18% mulai 1 Februari 2020 dan tidak ada kenaikan tol yang dijadwalkan sepanjang periode konsesi perpanjangan hingga 2058."
 
 lang: "id"
+sourceContentHash: "6a089759a8d1ba8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "Di antaranya tingkat daur ulang kemasan plastik 25% menjelang 2025, rata-rata tingkat pengumpulan-untuk-daur-ulang (CFR) 76% menjelang 2030, dan rata-rata kandungan daur ulang 15% menjelang 2030. Target tingkat daur ulang 100% ditargetkan menjelang 2050."
 
 lang: "id"
+sourceContentHash: "a24e4c1da4f3ae42"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

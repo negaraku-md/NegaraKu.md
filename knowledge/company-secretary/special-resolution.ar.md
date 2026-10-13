@@ -29,9 +29,10 @@ faq:
   - q: "أي القرارات يتطلب قراراً خاصاً؟"
     a: "تعديل الدستور أو اعتماده أو إلغاؤه (المادة 36)، وتغيير اسم الشركة (المادة 28)، وتخفيض رأس المال بمسار المحكمة (المادة 116) أو بمسار بيان الملاءة (المادة 117)، والشروع في تصفية اختيارية من قِبَل الأعضاء (المادة 439) جميعها تتطلب قراراً خاصاً."
 lang: "ar"
+sourceContentHash: "b65d4a86d107f772"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

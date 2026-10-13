@@ -32,8 +32,9 @@ faq:
     a: "Intrudu là lễ hội té nước thường niên của cộng đồng Bồ Đào Nha Malacca vào Chủ nhật trước Thứ Tư Lễ Tro (khởi đầu mùa Chay). Cư dân và khách té nước vào nhau dọc theo Làng Bồ Đào Nha, và lễ hội được đệm bằng điệu múa branyo."
 
 lang: "vi"
+sourceContentHash: "6be0336bb559138c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

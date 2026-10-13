@@ -26,8 +26,9 @@ verificationNeeded:
   - "Sự giảm nhẹ nội bộ tập đoàn cho các dịch vụ chuyên môn và bất kỳ giới hạn phần trăm nào về các dịch vụ cung cấp cho các bên không liên quan chưa được kiểm chứng — đừng dựa vào con số thường được trích dẫn"
 
 lang: "vi"
+sourceContentHash: "fdaf544799e718b4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

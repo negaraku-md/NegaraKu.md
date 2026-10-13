@@ -34,10 +34,11 @@ faq:
     a: "تقدّم النقابة طلب اعتراف إلى صاحب العمل. وعلى صاحب العمل، خلال 21 يومًا بموجب المادة 9(3)، إما الاعتراف بالنقابة أو إخطارها كتابيًا بأسباب الرفض. وإن رُفِض، تُحال المسألة إلى DGIR، الذي قد يجري اقتراعًا سريًا ويتحقق من كفاءة النقابة عبر المدير العام للنقابات العمالية."
 
 lang: "ar"
+sourceContentHash: "3e83f3a36eb3fa8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

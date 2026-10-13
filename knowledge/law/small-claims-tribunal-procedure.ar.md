@@ -36,10 +36,11 @@ faq:
     a: "تُقدِّم إشعار إبداء الأسباب (النموذج 208). عندئذٍ يجوز للمحكمة إصدار أمر حجز وبيع (النموذج 84) على أموال المحكوم عليه، أو السماح بالدفع على أقساط، أو الأمر بحبس المدين."
 
 lang: "ar"
+sourceContentHash: "7f497323fdf0e52a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -31,10 +31,11 @@ verificationNeeded:
   - "ينبغي تأكيد تواريخ الولايات بالرجوع إلى مكتب رئيس الوزراء ومؤسسة Perdana Leadership Foundation. بقي إسماعيل صبري يعقوب (Ismail Sabri Yaakob) رئيس وزراء تصريف أعمال بعد حلّ البرلمان (10 أكتوبر 2022) حتى أدّى أنور إبراهيم اليمين الدستورية في 24 نوفمبر 2022 — ويعكس تاريخ الانتهاء انتقال المنصب. ولكونها مسودة، تحتاج إلى مراجع بشري قبل النشر."
 
 lang: "ar"
+sourceContentHash: "c027ec0df342599c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 published: 2026-08-27

@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "المواطنون الماليزيون، والمقيمون الدائمون، ومشترو المنازل للمرة الأولى، والمشترون الأجانب (رهناً بقيود ومعدلات رسم إضافية)"
 
 lang: "ar"
+sourceContentHash: "819188850c359d23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

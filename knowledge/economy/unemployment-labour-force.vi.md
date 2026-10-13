@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai diễn giải dữ liệu thị trường lao động của Malaysia — người tìm việc, người sử dụng lao động, nhà hoạch định chính sách và nhà phân tích."
 
 lang: "vi"
+sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

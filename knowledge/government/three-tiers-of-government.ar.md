@@ -21,9 +21,10 @@ keyTakeaways:
 appliesTo: "كل من يحاول تحديد المستوى الحكومي الذي ينبغي اللجوء إليه لمشكلة معينة في ماليزيا، أو يريد أن يفهم لماذا يستطيع التصويت لعضو في البرلمان ولعضو في المجلس التشريعي للولاية لكنه لا يستطيع التصويت لعضو في مجلس محلي."
 
 lang: "ar"
+sourceContentHash: "c6bdf9ccfb5d174a"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

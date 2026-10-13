@@ -30,8 +30,9 @@ faq:
     a: "Có thể, nhưng chỉ qua quy trình Điều 125. Kiến nghị được đưa lên Yang di-Pertuan Agong, người sau đó thành lập một tribunal gồm không dưới năm người đang giữ hoặc từng giữ chức thẩm phán. Các căn cứ giới hạn ở việc vi phạm bộ quy tắc đạo đức hoặc mất khả năng thực hiện nhiệm vụ."
 
 lang: "vi"
+sourceContentHash: "609ac0242c162e91"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

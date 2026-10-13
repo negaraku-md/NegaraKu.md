@@ -38,8 +38,9 @@ faq:
     a: "Tidak. Setelah amandemen Peraturan 2015, tidak seorang pun — termasuk pengacara stakeholder — dapat memungut pembayaran apa pun (booking fee, uang panjar dan sejenisnya) sebelum perjanjian jual beli ditandatangani, kecuali seperti yang ditetapkan oleh kontrak penjualan (peraturan 11(2))."
 
 lang: "id"
+sourceContentHash: "b9b4698e2a0c2539"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

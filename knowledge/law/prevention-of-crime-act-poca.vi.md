@@ -30,8 +30,9 @@ faq:
     a: "Ủy ban Phòng chống Tội phạm — một cơ quan do một cá nhân có đủ tư cách pháp luật chủ trì và do chính phủ bổ nhiệm — chứ không phải tòa án. Ủy ban hành động dựa trên báo cáo của Cán bộ Điều tra do Bộ trưởng bổ nhiệm."
 
 lang: "vi"
+sourceContentHash: "a6b06f9b9fdb4839"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,12 +29,13 @@ faq:
     a: "مجلس الحكّام مكرَّس في المادة 38 من الدستور الاتحادي، مع تفصيل وظائفه وإجراءاته في الجدول الخامس."
 
 lang: "ar"
+sourceContentHash: "145a64a2a5caf8b7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

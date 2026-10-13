@@ -31,8 +31,9 @@ faq:
     a: "MITEC, tức Malaysia International Trade & Exhibition Centre, khai trương năm 2016 với 11 đại sảnh triển lãm và 52,000 mét vuông không gian triển lãm. CIDB ghi nhận một khu vực không cột rộng 12,530 mét vuông bên trong tòa nhà."
 
 lang: "vi"
+sourceContentHash: "25f7bdfa80a0bc8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

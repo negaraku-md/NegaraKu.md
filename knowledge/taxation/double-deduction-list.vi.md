@@ -28,8 +28,9 @@ verificationNeeded:
   - "Liệu P.U.(A) 164/2019 có được gia hạn thêm vượt quá YA2025 bởi một văn bản được công báo sau khi trang này được soạn hay không."
 
 lang: "vi"
+sourceContentHash: "94db45958fc37cd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

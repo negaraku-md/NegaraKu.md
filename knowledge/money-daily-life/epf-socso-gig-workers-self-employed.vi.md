@@ -33,8 +33,9 @@ faq:
     a: "Theo Act 872, nhà cung cấp nền tảng chịu trách nhiệm đăng ký bạn theo Chương trình Lindung Kendiri và khấu trừ khoản đóng góp từ thu nhập của bạn. Tuy nhiên bạn vẫn cần bảo đảm việc đăng ký hoàn tất và trả phần còn lại nếu khoản khấu trừ không đạt mức tối thiểu của gói bạn chọn."
 
 lang: "vi"
+sourceContentHash: "759ef843044df58d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

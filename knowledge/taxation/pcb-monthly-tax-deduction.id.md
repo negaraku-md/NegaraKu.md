@@ -39,8 +39,9 @@ verificationNeeded:
   - "Konfirmasikan bahwa tarif potongan PCB yang dikenakan kepada pekerja bukan residen adalah tarif rata Schedule 1 Part I paragraf 1A sebagai suatu hal di bawah MTD Rules, bukan hanya di bawah pengenaan dasarnya"
 
 lang: "id"
+sourceContentHash: "8996f0535326898f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

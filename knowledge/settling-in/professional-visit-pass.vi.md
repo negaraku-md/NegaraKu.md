@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Các công ty Malaysia đón chuyên gia, nhà nghiên cứu, thực tập sinh, tình nguyện viên hoặc người triển lãm nước ngoài cho một nhiệm vụ cố định, và các đội HR hoặc di chuyển nhân sự bảo lãnh nộp đơn cho họ."
 
 lang: "vi"
+sourceContentHash: "8d251b7426f433be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu hệ thống luật tục truyền thống của người Mã Lai — sinh viên sử học, luật học và nghiên cứu Malaysia, nhà báo, công chức, và độc giả phổ thông còn nhầm lẫn về sự khác biệt giữa Adat Perpatih và Adat Temenggung."
 
 lang: "vi"
+sourceContentHash: "d4460bfefd0c039f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -40,8 +40,9 @@ verificationNeeded:
   - "Konfirmasikan jadwal biaya dan persyaratan deposit AIAC terkini langsung dari AIAC sebelum memberikan nasihat mengenai biaya"
 
 lang: "id"
+sourceContentHash: "8f87d032cb16f4b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

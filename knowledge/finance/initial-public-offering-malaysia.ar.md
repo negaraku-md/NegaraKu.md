@@ -33,10 +33,11 @@ faq:
     a: "بوجه عام، تتراوح تكاليف الإدراج الإجمالية بين نحو RM3 مليون وRM7 مليون لسوق ACE وما يزيد على RM5 مليون للسوق الرئيسية، بحسب الحجم والتعقيد. ويشمل ذلك رسوم التغطية والتخصيص والوساطة (عادةً 1% إلى 3% من قيمة الأسهم)، والأتعاب المهنية، والرسوم التنظيمية المستحقة لهيئة الأوراق المالية (السوق الرئيسية) أو بورصة ماليزيا (سوق ACE)."
 
 lang: "ar"
+sourceContentHash: "4baad2385800a2d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

@@ -34,8 +34,9 @@ seoTitle: "Bumiputera: Arti Istilah dan Dasar Konstitusionalnya"
 socialTitle: "Bumiputera — istilah yang tidak ada dalam Konstitusi, tetapi berakar pada Pasal 153, 160, dan 161A"
 
 lang: "id"
+sourceContentHash: "924aa904a876b274"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

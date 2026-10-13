@@ -30,8 +30,9 @@ faq:
     a: "Dapatkan surat pelunasan dari pemberi pinjaman dan bawa ke agensi untuk memperbarui pinjaman yang telah dilunasi. Menurut undang-undang, agensi tidak dapat mengungkapkan status kebangkrutan Anda lebih dari dua tahun setelah tanggal Anda dilepaskan."
 
 lang: "id"
+sourceContentHash: "0d23a5db0b086fe6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

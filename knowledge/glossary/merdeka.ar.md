@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "كل من يريد فهم المعنى الحقيقي لكلمة «ميرديكا» وأصلها، لا مجرد تاريخ عام 1957 أو مراسمه."
 
 lang: "ar"
+sourceContentHash: "194d82a69dbc1089"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

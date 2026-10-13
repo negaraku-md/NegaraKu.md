@@ -34,8 +34,9 @@ faq:
     a: "Di bawah Pasal 67(1), dokumen sah dilaksanakan sebagai deed jika ia dilaksanakan secara sepatutnya oleh perusahaan DAN diserahkan (delivered) sebagai deed. Pasal 67(2) menganggap penyerahan telah terjadi segera setelah deed itu dilaksanakan secara sah, kecuali niat sebaliknya dibuktikan."
 
 lang: "id"
+sourceContentHash: "11a3057b821bdc34"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

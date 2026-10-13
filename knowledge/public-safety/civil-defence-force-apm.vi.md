@@ -30,8 +30,9 @@ faq:
     a: "APM hoạt động theo Civil Defence Act 1951 (Act 221), quy định các nhiệm vụ của nó trong thời bình và thời chiến để bảo vệ tính mạng và tài sản."
 
 lang: "vi"
+sourceContentHash: "1cc8bccf4a7c831a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

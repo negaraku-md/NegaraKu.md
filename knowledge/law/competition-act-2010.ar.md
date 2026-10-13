@@ -34,10 +34,11 @@ faq:
     a: "نعم. يتوافر برنامج تساهل للأعمال المتورطة في سلوك كارتل أفقي. والتعاون مبكرًا يمكن أن يكسب حصانةً أو خفضًا للعقوبة يصل إلى 100%، وإن كان من غير المرجح أن تحصل المنشأة التي بادرت بالكارتل أو أكرهت غيرها عليه على الخفض الكامل. وبموجب تعديلات عام 2026، يمكن أيضًا لمسار تسوية منفصل أن يخفّض العقوبة بما يصل إلى 40%."
 
 lang: "ar"
+sourceContentHash: "f67186d884803b44"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

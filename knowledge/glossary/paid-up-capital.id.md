@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Pendiri perusahaan, akuntan, dan siapa saja yang membaca konstitusi perusahaan atau laporan keuangan."
 
 lang: "id"
+sourceContentHash: "2025c24e85b0e3a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -44,8 +44,9 @@ verificationNeeded:
   - "Xác nhận cơ sở luật định mà MIDA dựa vào cho ITA của JS-SEZ Smart Logistics Complex — hướng dẫn trích dẫn P.U.(A) 113/2006, một công cụ trước 2011 nằm ngoài phạm vi bao phủ đáng tin cậy của AGC, và văn bản có hiệu lực của nó không được trích xuất"
 
 lang: "vi"
+sourceContentHash: "2c106e0d7c225687"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

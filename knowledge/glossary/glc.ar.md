@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "المستثمرون والباحثون عن عمل والموردون المتقدمون للمناقصات، وكل من يتابع التغطية الاقتصادية الماليزية."
 
 lang: "ar"
+sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

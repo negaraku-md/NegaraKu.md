@@ -30,8 +30,9 @@ faq:
     a: "Jumlah komunitas ini menyusut drastis — dari sekitar 400 keluarga pada 1980-an menjadi kurang dari 50 keluarga saat ini menurut Badan Warisan Nasional Singapura (Roots) — sementara sebuah laporan Free Malaysia Today memperkirakan hanya sekitar 20 hingga 30 keluarga yang masih tinggal di Kampung Chetti. Para peneliti mengaitkan kemerosotan ini dengan perkawinan campur, migrasi keluar, dan generasi muda yang semakin kehilangan hubungan dengan akar Chetti."
 
 lang: "id"
+sourceContentHash: "f11ad6d038f7a742"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

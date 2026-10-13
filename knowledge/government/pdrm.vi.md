@@ -35,8 +35,9 @@ faq:
     a: "Đúng, về mặt cấu trúc. Police Act 1967 lập ra một lực lượng duy nhất được sử dụng tại và trên toàn Malaysia, dưới một chuỗi chỉ huy duy nhất do Tổng Thanh tra Cảnh sát đứng đầu. Cổng thông tin chính thức của chính phủ (malaysia.gov.my) cũng nêu việc thu thập tình báo an ninh là một trong các vai trò của lực lượng này theo mục 3(3)."
 
 lang: "vi"
+sourceContentHash: "2fcb4ae755f95546"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

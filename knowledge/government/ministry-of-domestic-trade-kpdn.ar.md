@@ -27,9 +27,10 @@ faq:
   - q: "ما القوانين التي تستخدمها KPDN لضبط الأسعار؟"
     a: "تعتمد أساسًا على قانون ضبط الإمدادات لسنة 1961 (Control of Supplies Act 1961) وقانون ضبط الأسعار ومكافحة الاستغلال لسنة 2011 (Price Control and Anti-Profiteering Act 2011)، اللذين يتيحان لها فرض سقوف للأسعار، وإلزام عرض الأسعار، واتخاذ إجراءات ضد الأرباح المرتفعة بصورة غير معقولة."
 lang: "ar"
+sourceContentHash: "bc54d858f6180b54"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

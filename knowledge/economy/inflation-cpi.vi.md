@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố đọc chính xác các bản tin lạm phát của Malaysia — hộ gia đình, người sử dụng lao động ấn định lương, và nhà phân tích."
 
 lang: "vi"
+sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

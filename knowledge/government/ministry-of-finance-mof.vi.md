@@ -27,8 +27,9 @@ faq:
   - q: "Ai lãnh đạo Bộ Tài chính?"
     a: "Tính đến tháng 8 năm 2026, Bộ trưởng Tài chính là Dato' Seri Anwar bin Ibrahim, với Datuk Seri Amir Hamzah bin Azizan là Bộ trưởng Tài chính thứ II và Datuk Johan Mahmood bin Merican là Tổng Thư ký Kho bạc. Những người giữ chức vụ thay đổi theo các lần cải tổ Nội các, nên hãy xác minh tên hiện tại tại mof.gov.my."
 lang: "vi"
+sourceContentHash: "d725c73359a7391e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

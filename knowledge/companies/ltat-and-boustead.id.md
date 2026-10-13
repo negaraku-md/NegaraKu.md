@@ -29,8 +29,9 @@ faq:
     a: "Ia rencana restrukturisasi LTAT dan kelompok Boustead yang disetujui dewan LTAT pada 9 Agustus 2024 dan disampaikan kepada Kabinet pada 13 Desember 2024, bertujuan mengurangi kepemilikan aset strategis menjadi 35% dalam tiga tahun sambil menghindari penjualan paksa."
 
 lang: "id"
+sourceContentHash: "bc79a003d2567110"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

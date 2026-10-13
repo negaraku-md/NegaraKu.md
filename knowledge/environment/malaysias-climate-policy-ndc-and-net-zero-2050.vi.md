@@ -36,8 +36,9 @@ faq:
     a: "Trong mục tiêu 15–30 MtCO₂eq, lên đến 20 MtCO₂eq là không điều kiện — Malaysia cam kết với nó bất kể thế nào. Thêm 10 MtCO₂eq là có điều kiện, nghĩa là nó sẽ chỉ được thực hiện nếu tài chính khí hậu quốc tế, chuyển giao công nghệ và hỗ trợ xây dựng năng lực được cung cấp."
 
 lang: "vi"
+sourceContentHash: "7ad2136668e2982a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

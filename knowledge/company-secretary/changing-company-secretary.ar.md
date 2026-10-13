@@ -71,10 +71,11 @@ obligations:
     consequence: "Offence by the company and every director; general penalty under s.588"
 
 lang: "ar"
+sourceContentHash: "3b2da95f3d26c5dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

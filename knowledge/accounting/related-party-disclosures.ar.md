@@ -32,10 +32,11 @@ faq:
     a: "طبيعة العلاقة، ومبلغ المعاملات، والرصيد القائم وشروطه، وأي ضمان أو كفالة مُتسلَّمة أو ممنوحة، ومخصص الديون المشكوك في تحصيلها المتعلق بذلك الرصيد."
 
 lang: "ar"
+sourceContentHash: "ae54f875cbc22c20"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

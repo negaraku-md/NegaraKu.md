@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Pekerja yang menimbang perlindungan medis pemberi kerja dibanding kartu medis pribadi, dan siapa pun yang mencoba memahami arti 'pembayaran bersama' sebelum membeli atau memperbarui polis."
 
 lang: "id"
+sourceContentHash: "5d9b4b2567c4315f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

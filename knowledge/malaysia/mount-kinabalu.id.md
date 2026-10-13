@@ -18,8 +18,9 @@ keyTakeaways:
   - "Ia digambarkan oleh badan penasihat UNESCO sebagai gunung tertinggi antara Himalaya dan New Guinea, dan menampung perkiraan 5,000-6,000 spesies tumbuhan vaskular termasuk sekitar 1,000 spesies anggrek"
 appliesTo: "Pembaca yang menginginkan ketinggian yang disahkan dan status kawasan perlindungan Gunung Kinabalu, serta penjelasan sederhana mengapa sebuah gunung granit di Sabah secara geologi begitu muda."
 lang: "id"
+sourceContentHash: "9898433b2f4e9aa1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

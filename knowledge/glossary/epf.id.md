@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Pemberi kerja, tim HR, dan pekerja yang ingin memahami kerangka tabungan pensiun Malaysia."
 
 lang: "id"
+sourceContentHash: "c90387d901bf5d08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

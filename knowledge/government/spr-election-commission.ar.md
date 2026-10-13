@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "كل من يرغب في فهم المكانة الدستورية للهيئة التي تُجري الانتخابات في ماليزيا — من طلاب وباحثين وصحفيين وقرّاء عامّين — إلى جانب الأحكام الدستورية التي تحدد ولاية المفوضية وعضويتها وضمانات مدة ولايتها."
 
 lang: "ar"
+sourceContentHash: "6a46ae533ead9e08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

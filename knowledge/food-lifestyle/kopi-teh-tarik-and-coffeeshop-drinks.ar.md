@@ -29,10 +29,11 @@ faq:
     a: "عملية سكب الشاي مرارًا بين وعاءين من علوٍّ — «tarik» — تبرّد المشروب، وتمزج الشاي بالحليب، وتُنتج طبقة رغوة في الأعلى. وقد صارت عرضًا قائمًا بذاته، إلى حدّ وجود مسابقات لتيه تاريك."
 
 lang: "ar"
+sourceContentHash: "9bbd745541ea86db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

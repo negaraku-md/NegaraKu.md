@@ -31,8 +31,9 @@ verificationNeeded:
   - "NHẠY CẢM / cần con người + phê duyệt pháp lý trước khi công bố (legal-proceedings). Các dữ kiện chính đã được đối chiếu với các nguồn uy tín: bản kết án vụ 1MDB chính ngày 26 Dec 2025 và mức án 15 năm/RM11.4b (CNN, Al Jazeera, PBS, Malay Mail), đơn kháng cáo ngày 30 Dec 2025 (Malay Mail), việc giảm một nửa mức án SRC vào tháng 2 năm 2024 (CNN), các con số US$4.5b/US$1.1b của DOJ (DOJ), và tình trạng lẩn trốn của Jho Low. Tất cả các bản kết án đều đang bị kháng cáo và được mô tả như vậy. Một người phê duyệt đủ trình độ vẫn nên xác nhận tình trạng hiện hành trước khi công bố, vì đây là một vấn đề đang diễn ra."
 
 lang: "vi"
+sourceContentHash: "ccd0acf0bc2157a5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

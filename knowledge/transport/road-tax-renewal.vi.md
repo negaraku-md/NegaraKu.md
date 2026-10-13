@@ -30,8 +30,9 @@ faq:
     a: "Nếu LKM không được gia hạn hơn ba năm, JPJ yêu cầu phương tiện được đưa đi kiểm định tại Puspakom để có báo cáo B2 (hoặc kiểm định PG10 riêng cho xe máy thuộc sở hữu cá nhân) trước khi đơn gia hạn có thể được xử lý tại văn phòng JPJ."
 
 lang: "vi"
+sourceContentHash: "20fe200c2e49f4f8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

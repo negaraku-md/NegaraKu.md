@@ -28,8 +28,9 @@ verificationNeeded:
   - "SSM tidak menerbitkan piagam standar apa pun mengenai jangka waktu pemrosesan umum untuk pendirian perusahaan; angka yang diberikan di sini berasal dari pedoman individual dengan tanggal yang berbeda"
 
 lang: "id"
+sourceContentHash: "30930e352d6a91ec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

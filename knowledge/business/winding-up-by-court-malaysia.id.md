@@ -30,8 +30,9 @@ faq:
     a: "Ya. Ketika utang itu benar-benar (bona fide) dipersoalkan atas dasar yang substantif, perusahaan itu dapat mengajukan injunksi Fortuna untuk mencegah kreditur mengajukan petisi, karena pembubaran tidak seharusnya digunakan untuk menegakkan tuntutan yang dipersoalkan."
 
 lang: "id"
+sourceContentHash: "b91e135cb6354783"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

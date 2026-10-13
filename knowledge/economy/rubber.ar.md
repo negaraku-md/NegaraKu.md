@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "كل من يحتاج صورة توجيهية موثَّقة بالمصادر عن قطاع المطاط الماليزي: محصول المزارع، وتدفقات التجارة، وصناعة تصنيع القفازات التي تهيمن عليه الآن."
 
 lang: "ar"
+sourceContentHash: "0020c8d13fc47636"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

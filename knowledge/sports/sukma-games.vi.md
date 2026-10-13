@@ -29,8 +29,9 @@ faq:
     a: "SUKMA là sân khấu cấp bang để các vận động viên tuổi thiếu niên thể hiện tài năng. Các vận động viên tiềm năng có thể được nâng lên các chương trình phát triển tài năng và kế cận của MSN và tiếp đó đến Chương trình Podium của ISN vốn chuẩn bị các vận động viên tinh nhuệ cho các đại hội quốc tế."
 
 lang: "vi"
+sourceContentHash: "82263beab0c4a71a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

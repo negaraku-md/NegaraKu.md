@@ -28,9 +28,10 @@ faq:
   - q: "ما معدّل ضريبة الخدمات المطبَّق الآن؟"
     a: "8% منذ 1 مارس 2024، صعودًا من 6%، باستثناء خدمات الأطعمة والمشروبات، ومواقف السيارات، والخدمات اللوجستية، والاتصالات، التي تظلّ عند 6%."
 lang: "ar"
+sourceContentHash: "e4e06f1218191c40"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

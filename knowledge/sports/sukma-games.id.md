@@ -29,8 +29,9 @@ faq:
     a: "SUKMA adalah panggung negeri untuk atlet remaja menunjukkan bakat. Atlet berpotensi dapat dinaikkan ke program pembangunan bakat dan pelapis MSN dan selanjutnya ke Program Podium ISN yang mempersiapkan atlet elite untuk pesta olahraga internasional."
 
 lang: "id"
+sourceContentHash: "82263beab0c4a71a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

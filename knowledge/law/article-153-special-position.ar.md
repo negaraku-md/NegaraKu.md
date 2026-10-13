@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "كل من يبحث عن عرضٍ وصفي فقرةً فقرةً لما تنص عليه المادة 153 وما تستثنيه، دون الفصل في الجدل السياسي الدائر حولها."
 
 lang: "ar"
+sourceContentHash: "db5076f747cd8ba7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

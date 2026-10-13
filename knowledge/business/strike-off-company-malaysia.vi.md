@@ -57,8 +57,9 @@ obligations:
     consequence: "Việc xóa tên tiến hành và công ty bị giải thể khi công bố trên Công báo"
 
 lang: "vi"
+sourceContentHash: "503507980af8cdbc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

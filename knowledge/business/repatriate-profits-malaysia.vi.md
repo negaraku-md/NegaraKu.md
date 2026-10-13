@@ -27,8 +27,9 @@ verificationNeeded:
   - "Xác nhận liệu một hiệp định tránh đánh thuế hai lần áp dụng có thay đổi vị thế của một cá nhân không thường trú theo Phụ lục 1 Phần XXII hay không — không tìm thấy quyết định nào của LHDN về điểm này"
 
 lang: "vi"
+sourceContentHash: "efeb2f7c70d05ed0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

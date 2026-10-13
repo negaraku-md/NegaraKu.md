@@ -36,8 +36,9 @@ faq:
     a: "Câu hỏi chính là bảo vệ dữ liệu khi chính phủ nắm giữ dữ liệu của người dân. Cựu chủ tịch Đoàn Luật sư, Salim Bashir, nhấn mạnh rằng bất kỳ nỗ lực nào bắt buộc đăng ký đều phải được Quốc hội soạn thảo qua một Đạo luật Liên bang và phù hợp với Personal Data Protection Act (PDPA) 2010, đồng thời mô tả các vi phạm quyền riêng tư và an ninh dữ liệu là một thách thức đáng kể. Cựu Nghị sĩ Klang, Charles Santiago, và cựu chủ tịch Đoàn Luật sư đã kêu gọi chính phủ xây dựng niềm tin của công chúng trước, chứ không bắt buộc đăng ký qua luật pháp."
 
 lang: "vi"
+sourceContentHash: "45c9a9d998caed78"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

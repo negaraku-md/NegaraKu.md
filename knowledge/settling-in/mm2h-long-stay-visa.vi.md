@@ -23,8 +23,9 @@ verificationNeeded:
   - "Trang của chính MOTAC trả về lỗi 403 cho một số công cụ truy cập tự động; các con số ở đây được lấy bằng yêu cầu kiểu trình duyệt trực tiếp đến các trang hạng mục và hướng dẫn của mm2h.gov.my và được đối chiếu chéo với bảng so sánh Tổng quan Hạng mục của chính trang, nhưng chương trình đã thay đổi đáng kể kể từ năm 2024 và các điều khoản có thể được điều chỉnh lần nữa — hãy luôn xác nhận các con số hiện hành trên mm2h.gov.my trước khi dựa vào chúng cho một đơn."
 
 lang: "vi"
+sourceContentHash: "9a440d3b932f1d8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

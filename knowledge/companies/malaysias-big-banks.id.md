@@ -31,8 +31,9 @@ faq:
     a: "CIMB menggambarkan dirinya sebagai kelompok berfokus ASEAN yang beroperasi di berbagai pasar termasuk Malaysia, Indonesia, Singapura, dan Thailand. RHB beroperasi di tujuh pasar regional. Maybank mencakup tiga pasar utama — Malaysia, Singapura, dan Indonesia — serta operasi di seluruh ASEAN dan pusat keuangan global yang penting."
 
 lang: "id"
+sourceContentHash: "81a33a10e5b5e6c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

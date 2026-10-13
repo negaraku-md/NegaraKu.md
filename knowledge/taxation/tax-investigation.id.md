@@ -32,8 +32,9 @@ faq:
     a: "Bagi kasus yang melibatkan penipuan, penghindaran yang disengaja atau kelalaian, tidak ada batas waktu. Bagi proses pidana untuk pelanggaran tertentu seperti Pasal 113, berlaku jangka waktu 12 tahun."
 
 lang: "id"
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

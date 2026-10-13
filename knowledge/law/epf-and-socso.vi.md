@@ -36,8 +36,9 @@ faq:
     a: "EPF bảo đảm cổ tức tối thiểu 2.5% mỗi năm theo Luật KWSP 1991. Cổ tức thực tế thường cao hơn — 6.30% được công bố cho năm 2024 và 6.15% cho năm 2025 (Tiết kiệm Thông thường)."
 
 lang: "vi"
+sourceContentHash: "002bda1ea2b2e8d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

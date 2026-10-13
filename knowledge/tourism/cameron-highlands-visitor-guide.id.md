@@ -31,8 +31,9 @@ faq:
     a: "Ini adalah tur budaya berpemandu ke perkampungan Semai, biasanya dengan demonstrasi sumpit dan penjelasan tentang kehidupan hutan. Pergilah bersama pemandu lokal yang bereputasi baik, minta izin sebelum mengambil gambar orang, dan anggaplah sebagai pertukaran budaya yang penuh hormat dan bukan tontonan."
 
 lang: "id"
+sourceContentHash: "3402603241935266"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

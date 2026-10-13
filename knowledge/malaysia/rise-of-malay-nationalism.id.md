@@ -29,8 +29,9 @@ faq:
     a: "Gelombang perlawanan terhadap Malayan Union menyatukan puluhan perkumpulan Melayu lalu membawa kepada pendirian UMNO pada 11 Mei 1946 di Johor Bahru."
 
 lang: "id"
+sourceContentHash: "d1accab37207bc8e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

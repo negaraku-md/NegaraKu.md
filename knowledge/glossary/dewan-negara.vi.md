@@ -26,8 +26,9 @@ verificationNeeded:
   - "Văn bản tiếng Mã Lai của Hiến pháp Liên bang là bản dịch của Cục Chưởng lý (Jabatan Peguam Negara). Trừ khi và cho đến khi được xác lập là xác thực theo Điều 160B, văn bản tiếng Anh là văn bản xác thực."
 
 lang: "vi"
+sourceContentHash: "bf114efc3f1d5751"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

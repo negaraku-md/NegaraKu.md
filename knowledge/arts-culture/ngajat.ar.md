@@ -30,10 +30,11 @@ faq:
     a: "من بين الأنواع التي سجّلتها JKKN نغاجات ليسونغ (يؤديها الرجال وهم يعضّون على هاون خشبي)، ونغاجات إندو (تؤديها النساء بحركات تحاكي نسج بوا كومبو)، ونغاجات بوا كومبو (باستخدام قماش بوا كومبو)، ونغاجات نغيلينغ تيكاي التي تؤذن بانتهاء احتفال غاواي داياك."
 
 lang: "ar"
+sourceContentHash: "bc3c9b377ae4eddf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

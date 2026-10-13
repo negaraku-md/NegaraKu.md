@@ -29,8 +29,9 @@ verificationNeeded:
   - "Arahan praktik yang membentuk bagian khusus Mahkamah Tinggi (New Commercial Court, Construction Court, Intellectual Property Court) dan kriteria pengalokasiannya — ini adalah pengaturan administratif Badan Kehakiman, bukan pengadilan berkanun"
 
 lang: "id"
+sourceContentHash: "7a5b4212b0b3e35b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

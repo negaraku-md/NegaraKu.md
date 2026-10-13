@@ -43,10 +43,11 @@ obligations:
     consequence: "عقوبة عامة تصل إلى RM50,000 بموجب المادة 99A"
 
 lang: "ar"
+sourceContentHash: "870f648f0972037b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

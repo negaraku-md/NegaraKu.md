@@ -40,8 +40,9 @@ verificationNeeded:
   - "Verifikasi kata-kata tepat dan terkini definisi entitas privat MASB terhadap halaman pelaksanaan MASB sebelum mengutipnya kata demi kata dalam dokumen apa pun yang dihadapkan kepada klien"
 
 lang: "id"
+sourceContentHash: "fdc2c021a877fc8a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

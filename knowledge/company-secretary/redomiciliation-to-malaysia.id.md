@@ -35,8 +35,9 @@ faq:
     a: "Ya. Pasal 133 membolehkan pemindahan dari Labuan dengan persetujuan Otoritas, dengan syarat hukum tujuan membolehkannya, pemegang tidak kurang dari tiga perempat saham setiap kelas dan debentur mana pun setiap kelas serta semua direktur menyetujui, pemberitahuan niat diterbitkan dalam surat kabar Labuan sekurang-kurangnya 30 hari terlebih dahulu, dan afidavit direktur yang menyenaraikan kreditur serta menyatakan bahwa pemindahan itu tidak mungkin merugikan anggota, pemegang debentur atau kreditur disampaikan."
 
 lang: "id"
+sourceContentHash: "8ccef2426ade3a45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

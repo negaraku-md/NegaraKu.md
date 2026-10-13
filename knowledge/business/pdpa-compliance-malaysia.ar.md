@@ -57,10 +57,11 @@ obligations:
     consequence: "عدم امتثال لواجب بموجب القانون 709"
 
 lang: "ar"
+sourceContentHash: "25fcd95c5e3db0ce"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

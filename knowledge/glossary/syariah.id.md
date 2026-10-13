@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami makna istilah 'Syariah' dalam hukum Malaysia dan mengapa yurisdiksi Mahkamah Syariah berbeda dari satu negeri ke negeri lain."
 
 lang: "id"
+sourceContentHash: "2bb646d77c8ab722"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

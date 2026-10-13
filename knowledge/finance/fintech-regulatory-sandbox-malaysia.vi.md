@@ -30,8 +30,9 @@ faq:
     a: "Securities Commission Malaysia. Các đổi mới thị trường vốn — tài trợ thay thế, chứng khoán được token hóa, các nền tảng thị trường thứ cấp — đi đến sandbox của SC, không phải của BNM."
 
 lang: "vi"
+sourceContentHash: "923d24c78b24d1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "دارسو جغرافيا ماليزيا وتاريخها، وكل من يريد فهم سبب وقوع المدن الكبرى في ساراواك وصباح وباهانغ عند مواقع بعينها على امتداد أنهارها."
 
 lang: "ar"
+sourceContentHash: "c0dca023c22caa3e"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -40,8 +40,9 @@ verificationNeeded:
   - "Hãy xác nhận cách dùng từ hiện hành chính xác của định nghĩa thực thể tư nhân của MASB đối chiếu với trang triển khai của MASB trước khi trích dẫn nó nguyên văn trong bất kỳ tài liệu nào gửi khách hàng"
 
 lang: "vi"
+sourceContentHash: "fdc2c021a877fc8a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

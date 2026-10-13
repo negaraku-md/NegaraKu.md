@@ -32,8 +32,9 @@ faq:
     a: "Ya. Program yang ditawarkan oleh penyedia pendidikan tinggi mana pun yang beroperasi di Malaysia, termasuk kampus cabang asing, dijamin kualitasnya di bawah MQF dan tercantum dalam MQR. Sebagian universitas mapan memegang status swaakreditasi, yang memberi kewenangan kepada mereka untuk mengakreditasi program mereka sendiri pada MQF dan mendaftarkan program tersebut dalam MQR."
 
 lang: "id"
+sourceContentHash: "ce3f16b64b60d59b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "Satu tahun kalender penuh, dari 1 Januari hingga 31 Desember. Filipina mengambil alih dari Malaysia pada 1 Januari 2026."
 
 lang: "id"
+sourceContentHash: "be6127ce5cca4347"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

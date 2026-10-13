@@ -41,8 +41,9 @@ verificationNeeded:
   - "Konfirmasikan bagaimana NIF berinteraksi dengan Reinvestment Allowance di bawah Schedule 7A dan dengan persetujuan PIA yang sudah ada yang diperpanjang atau diubah"
 
 lang: "id"
+sourceContentHash: "aa93955df38668cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

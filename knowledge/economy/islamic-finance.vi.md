@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai cần hiểu cơ chế thay vì phần tiếp thị — học sinh sinh viên, nhà báo, thủ quỹ, nhà sáng lập so sánh các lựa chọn tài trợ, và nhà nghiên cứu lập bản đồ hệ thống tài chính của Malaysia."
 
 lang: "vi"
+sourceContentHash: "baeef20a51fe9ad2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
 
 verificationNeeded: []
 lang: "vi"
+sourceContentHash: "d7cdda88b95f694a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

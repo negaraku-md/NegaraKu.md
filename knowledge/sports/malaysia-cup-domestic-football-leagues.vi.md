@@ -31,8 +31,9 @@ faq:
     a: "MFL chuyển lịch để phù hợp với thể thức của AFC. Mùa giải mới bắt đầu vào tháng 5 năm 2024 và kết thúc vào tháng 4 năm 2025, có tính đến Asian Cup AFC, vòng loại World Cup 2026, và tháng Ramadan."
 
 lang: "vi"
+sourceContentHash: "fdb11bb0fa6c116e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

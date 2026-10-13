@@ -42,8 +42,9 @@ verificationNeeded:
   - "Pastikan apakah MIA telah mengadopsi ISA for Less Complex Entities, yang diberlakukan oleh IAASB bagi periode yang dimulai pada atau setelah 15 Desember 2025 — keputusan adopsi Malaysia tidak dapat diverifikasi"
 
 lang: "id"
+sourceContentHash: "35fbbbda43a0bf04"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

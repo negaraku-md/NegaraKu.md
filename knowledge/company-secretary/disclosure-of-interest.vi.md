@@ -61,8 +61,9 @@ obligations:
     consequence: "Tội danh — tù giam lên tới 5 năm hoặc phạt tiền lên tới RM3 triệu hoặc cả hai theo s.221(12)"
 
 lang: "vi"
+sourceContentHash: "9b85796eadc48e3c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -35,8 +35,9 @@ faq:
     a: "Không nhất thiết. Di sản có giá trị không vượt quá RM5 triệu có thể được quản lý qua Đơn vị Phân chia Di sản Nhỏ tại văn phòng đất đai theo Luật Di sản Nhỏ (Phân chia) (Small Estates (Distribution) Act 1955), thường không cần luật sư và không có phí nộp hồ sơ tại văn phòng đất đai. Kể từ khi bản sửa đổi có hiệu lực ngày 15 tháng 7 năm 2024, di sản không còn cần phải chứa bất động sản để đủ điều kiện đi theo con đường này."
 
 lang: "vi"
+sourceContentHash: "109171c4b389867e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -24,8 +24,9 @@ appliesTo: "Các chủ doanh nghiệp lần đầu ở Malaysia đang chọn gi�
 verificationNeeded: []
 
 lang: "vi"
+sourceContentHash: "5417c396f8f77b23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

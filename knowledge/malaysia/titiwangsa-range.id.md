@@ -18,8 +18,9 @@ keyTakeaways:
   - "Kawasan berketinggian tinggi pegunungan ini tergolong dalam tingkat paling ketat perlindungan Kawasan Sensitif Lingkungan Malaysia, yang melindungi ekosistem tanah tinggi dan pegunungan dari pembangunan"
 appliesTo: "Cocok untuk pembaca yang menginginkan penjelasan yang jelas dan terverifikasi tentang apa itu Banjaran Titiwangsa, ke mana ia membentang, dan mengapa ia membagi sungai, iklim, dan pola permukiman Semenanjung Malaysia menjadi sisi pantai barat dan pantai timur."
 lang: "id"
+sourceContentHash: "c92a68e675abc2cc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -31,10 +31,11 @@ faq:
     a: "عمومًا لا. حين يكون الصندوق معفى بموجب القسم 61A، يكون الدخل لم يخضع للضريبة، لذا لا يحمل التوزيع رصيدًا ضريبيًا بموجب القسم 110 يمكن لحامل الوحدة مقاصّته. ولا ينشأ الرصيد إلا حين يكون الصندوق نفسه قد خضع للضريبة (مثلًا، حين يوزّع أقل من 90%)."
 
 lang: "ar"
+sourceContentHash: "74ef95198966c611"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

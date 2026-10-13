@@ -57,8 +57,9 @@ obligations:
     consequence: "Cơ quan Đăng ký có thể từ chối tiếp tục xử lý đơn hoặc đăng ký"
 
 lang: "vi"
+sourceContentHash: "a70b312603adf60f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

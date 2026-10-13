@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "كل من يريد فهم أصول الحضارة المبكرة في الأراضي الملايوية قبل وجود السلطنات الملايوية، أو من يخطط لزيارة المواقع الأثرية والمتحف في ولاية كيداه."
 
 lang: "ar"
+sourceContentHash: "e95214b94dacf363"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

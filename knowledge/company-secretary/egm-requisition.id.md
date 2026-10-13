@@ -60,8 +60,9 @@ obligations:
     consequence: "Hak untuk memanggil rapat di bawah Pasal 313 gugur"
 
 lang: "id"
+sourceContentHash: "7de2bc211affba0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

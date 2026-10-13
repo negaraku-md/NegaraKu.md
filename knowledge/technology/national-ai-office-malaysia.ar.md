@@ -32,10 +32,11 @@ faq:
     a: "تهدف الخطة إلى أن يسهم الذكاء الاصطناعي بأكثر من RM60 مليار في الناتج المحلي الإجمالي وأن يضع ماليزيا بين أفضل 20 دولة في الجاهزية العالمية للذكاء الاصطناعي بحلول 2030، وذلك عبر 28 مبادرة."
 
 lang: "ar"
+sourceContentHash: "74e6c6495db49c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

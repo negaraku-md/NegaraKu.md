@@ -42,8 +42,9 @@ verificationNeeded:
   - "Liệu KPDN yêu cầu một đơn WRT mới hay cho phép sửa đổi khi có một sự thay đổi trong sở hữu cổ phần của bên được cấp phép hay không không được xác nhận đối chiếu với một hướng dẫn của KPDN"
 
 lang: "vi"
+sourceContentHash: "9a4e03ec03d9397b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

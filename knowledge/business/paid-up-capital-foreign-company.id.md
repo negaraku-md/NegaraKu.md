@@ -43,8 +43,9 @@ verificationNeeded:
   - "Gaji minimum ekspatriat RM5,000 yang dinyatakan dalam Booklet 8 MIDA untuk perdagangan distribusi mendahului kebijakan gaji Employment Pass yang direvisi berlaku 1 Juni 2026 dan harus dibaca berdasarkan tangga gaji saat ini"
 
 lang: "id"
+sourceContentHash: "7e020b10096556f2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

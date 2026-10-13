@@ -32,8 +32,9 @@ faq:
     a: "Hầu hết các đại sứ quán và cao ủy nước ngoài thường trú ở Kuala Lumpur và Putrajaya, với một số quốc gia cũng vận hành các lãnh sự quán ở các thành phố như Penang, Johor Bahru, Kota Kinabalu và Kuching."
 
 lang: "vi"
+sourceContentHash: "7bb552ee1b28a75c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

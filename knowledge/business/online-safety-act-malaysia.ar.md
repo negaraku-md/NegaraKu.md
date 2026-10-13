@@ -58,10 +58,11 @@ obligations:
     consequence: "Fine up to RM1 million under regulation 5"
 
 lang: "ar"
+sourceContentHash: "9ae3464820a97814"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -19,8 +19,9 @@ keyTakeaways:
   - "Tun Dr Mahathir Mohamad tuyên thệ nhậm chức Thủ tướng thứ bảy của Malaysia vào ngày 10 tháng 5 năm 2018; Dr Wan Azizah Wan Ismail trở thành người phụ nữ đầu tiên giữ chức Phó Thủ tướng"
 appliesTo: "Độc giả muốn có các sự kiện được ghi chép về lần thay đổi chính phủ liên bang đầu tiên của Malaysia tại cuộc tổng tuyển cử lần thứ 14 — kết quả, con số ghế, và cơ chế hiến pháp — được nêu trung lập và có nguồn, không có diễn giải đảng phái."
 lang: "vi"
+sourceContentHash: "354e5f3719c345fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

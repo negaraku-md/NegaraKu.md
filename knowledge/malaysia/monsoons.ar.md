@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "كل من يحاول فهم سبب تغيّر طقس ماليزيا ومخاطر الفيضان فيها مع الفصول — سكان المناطق الساحلية، والمسافرون، ومخطّطو مواجهة الكوارث، ودارسو الجغرافيا، وكل من يتابع تحذيرات MetMalaysia الجوية."
 
 lang: "ar"
+sourceContentHash: "d977d1d40dd0956b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

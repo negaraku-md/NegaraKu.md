@@ -29,8 +29,9 @@ faq:
     a: "Akta Pasaran Modal dan Perkhidmatan 2007 (Akta 671), yang mulai berlaku pada 28 September 2007, mengatur aktivitas pasar modal, pasar, dan perantara berlisensi."
 
 lang: "id"
+sourceContentHash: "d90c41e40d0daaa1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

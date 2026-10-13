@@ -34,8 +34,9 @@ faq:
     a: "Bảo hiểm Act (bên thứ ba) là mức tối thiểu theo luật và chỉ chi trả thương tích hoặc tử vong của bên thứ ba. Bảo hiểm bên thứ ba, hỏa hoạn và trộm cắp bổ sung bảo hiểm nếu chính chiếc xe của bạn bị cháy hoặc bị đánh cắp. Bảo hiểm toàn diện là rộng nhất, cũng chi trả cho thiệt hại do tai nạn đối với chính phương tiện của bạn."
 
 lang: "vi"
+sourceContentHash: "f3e95ab7db734acf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "Bukan dari bagian utama Undang-undang. Tarif terdapat dalam Jadwal pada Act 53, terutama Jadwal 1, dan diubah oleh Finance Act. Keringanan, potongan dan pengecualian sebagian besar disampaikan melalui perundang-undangan turunan — perintah dan peraturan P.U.(A) — dan itulah sebabnya statuta saja tidak pernah dapat menjawab pertanyaan tentang tarif."
 
 lang: "id"
+sourceContentHash: "e0dfb2c4642360c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

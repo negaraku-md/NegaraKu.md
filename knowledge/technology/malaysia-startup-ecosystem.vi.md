@@ -36,8 +36,9 @@ faq:
     a: "KL20 là kế hoạch hành động 2024 của chính phủ, công bố tại KL20 Summit ở Kuala Lumpur, để củng cố năng lực cạnh tranh khởi nghiệp của Malaysia. Nó nêu ra các sáng kiến trên ba lĩnh vực trọng tâm quan trọng — vốn, nhân tài và chất lượng của các startup — và nhắm mục tiêu biến Malaysia thành một trung tâm khởi nghiệp top-20 toàn cầu với RM400 tỷ định giá khởi nghiệp vào năm 2030. Nó phù hợp với Malaysia Venture Capital Roadmap 2024-2030 và mục tiêu biến Malaysia thành một trung tâm vốn mạo hiểm khu vực được ưa chuộng vào năm 2030."
 
 lang: "vi"
+sourceContentHash: "0c6b5fee40e498df"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

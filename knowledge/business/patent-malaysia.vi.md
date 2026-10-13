@@ -56,8 +56,9 @@ obligations:
     consequence: "Bằng sáng chế hết hiệu lực; một thời gian ân hạn sáu tháng áp dụng khi trả một khoản phụ phí bằng 100% phí cho năm liên quan"
 
 lang: "vi"
+sourceContentHash: "00f4afd78d3da72e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

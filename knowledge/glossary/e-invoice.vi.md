@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Chủ doanh nghiệp, kế toán và các bộ phận tài chính đang chuẩn bị hoặc quản lý việc tuân thủ e-Invoice."
 
 lang: "vi"
+sourceContentHash: "12ea69b29867be13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

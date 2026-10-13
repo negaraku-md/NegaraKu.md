@@ -40,8 +40,9 @@ faq:
     a: "Museum itu, di 48 & 50 Jalan Tun Tan Cheng Lock, tutup pada hari Selasa. Ia buka dari 10:00 pagi hingga 4:15 sore pada hari kerja (kecuali Selasa) dan 10:00 pagi hingga 4:45 sore pada akhir pekan. Karena jam dan harga bisa berubah, konfirmasikan di situs web resmi museum sebelum berkunjung."
 
 lang: "id"
+sourceContentHash: "e6af87197b8f50e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

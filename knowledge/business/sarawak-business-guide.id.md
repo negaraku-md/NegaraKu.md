@@ -46,8 +46,9 @@ verificationNeeded:
   - "Teks konsolidasi LawNet bagi Sarawak Labour Ordinance Cap. 76 hanya mutakhir hingga 31 Juli 2006 dan harus dibaca bersama Act A1754 dan bukan menggantikannya."
 
 lang: "id"
+sourceContentHash: "64142f66b268b952"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

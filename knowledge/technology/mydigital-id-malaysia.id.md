@@ -36,8 +36,9 @@ faq:
     a: "Persoalan utama adalah perlindungan data ketika pemerintah yang memegang data rakyat. Mantan presiden Majlis Peguam, Salim Bashir, menegaskan bahwa setiap upaya mewajibkan pendaftaran harus disahkan oleh Parlemen melalui Undang-Undang Federal dan diselaraskan dengan Personal Data Protection Act 2010 (PDPA), serta menyebut pelanggaran privasi dan keamanan data sebagai tantangan signifikan. Mantan Anggota Parlemen Klang, Charles Santiago, dan mantan presiden Majlis Peguam telah mendesak pemerintah membangun keyakinan publik dulu, dan bukan mewajibkan pendaftaran melalui undang-undang."
 
 lang: "id"
+sourceContentHash: "45c9a9d998caed78"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

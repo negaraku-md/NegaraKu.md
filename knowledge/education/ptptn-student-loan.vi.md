@@ -26,8 +26,9 @@ verificationNeeded:
   - "Việc tham chiếu đến thẩm quyền cưỡng chế (ví dụ hạn chế đi ra nước ngoài đối với người vay không thanh toán) chỉ được nêu chung dựa trên sự tồn tại của thẩm quyền theo Akta 566; số điều khoản cụ thể và các điều kiện kích hoạt của nó (như thời gian nợ quá hạn) chưa được xác minh trực tiếp từ văn bản luật hay cổng thông tin chính thức và cần được rà soát lại."
 
 lang: "vi"
+sourceContentHash: "36c7c223a86b45ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

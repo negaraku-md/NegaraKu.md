@@ -28,10 +28,11 @@ verificationNeeded:
   - "حيث يتجاوز التسهيل المقترح حدّ ما يعادل RM100 مليون، فإن عملية الموافقة الكتابية ومعايير تقييمها ليست منشورة بالكامل؛ ولا تذكر الأسئلة الشائعة سوى أن BNM سيأخذ عوامل محدّدة في الحسبان"
 
 lang: "ar"
+sourceContentHash: "7f6734fed0eab6e8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

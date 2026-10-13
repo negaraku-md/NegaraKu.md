@@ -37,8 +37,9 @@ faq:
     a: "Kartu Touch 'n Go. Ia berfungsi di LRT, MRT, monorel, BRT dan bus Rapid KL. Bus Rapid KL bersifat tanpa tunai, jadi kartu (atau aplikasi) pada dasarnya diperlukan untuk bus."
 
 lang: "id"
+sourceContentHash: "df3f033b8e40fec3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

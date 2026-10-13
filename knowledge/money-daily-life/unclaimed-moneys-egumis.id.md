@@ -29,8 +29,9 @@ faq:
     a: "Tidak ada. Pendaftar tidak mengenakan batas waktu — pemilik sah dapat menuntut kapan saja, dan pembayaran dapat dilakukan baik dari Akun Amanah Disatukan maupun Akun Hasil."
 
 lang: "id"
+sourceContentHash: "b0fa973557593199"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

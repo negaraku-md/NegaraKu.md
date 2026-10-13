@@ -33,10 +33,11 @@ faq:
     a: "بصفتك بائعاً، لا. فأنت تنضم إلى بوابة دفع تتولى خطوة التحقق من العمل؛ ومشغّل بوابة الدفع هو من يجب أن يعتمده بنك نيغارا ماليزيا (BNM)، لا أنت. وبحسب ما تبيعه، قد تنطبق قواعد خاصة بالقطاع — فمستحضرات التجميل والمنتجات الصحية مثلاً تتطلب إخطار الجهة الرقابية المعنية بصرف النظر عن قناة البيع."
 
 lang: "ar"
+sourceContentHash: "beb54faa40df4583"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

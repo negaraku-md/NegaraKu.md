@@ -31,8 +31,9 @@ faq:
     a: "Các đảo như Langkawi và Labuan là các khu miễn thuế nơi rượu bia được bán không có thuế tiêu thụ đặc biệt. Du khách nhìn chung có thể mang vào rượu vang, rượu mạnh hoặc rượu bia mạch nha không quá một lít tổng cộng, tùy thuộc vào các quy tắc về thời gian vắng mặt tối thiểu mà nên được xác nhận với hải quan trước khi đi."
 
 lang: "vi"
+sourceContentHash: "56f47508696d66ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

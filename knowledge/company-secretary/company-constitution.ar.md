@@ -34,10 +34,11 @@ faq:
     a: "بموجب الحكم الانتقالي في المادة 619(3)، يستمر سريان عقد التأسيس والنظام الأساسي (M&A) لشركة قائمة والنافذ عند بدء سريان القانون كما لو كان مُعَدّاً بموجب هذا القانون، ما لم تقرر الشركة خلاف ذلك. ويصبح ذلك العقد والنظام الآن دستور الشركة."
 
 lang: "ar"
+sourceContentHash: "99c3208a68daac93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

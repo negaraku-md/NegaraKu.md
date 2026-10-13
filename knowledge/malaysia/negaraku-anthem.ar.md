@@ -32,11 +32,12 @@ faq:
     a: "تلزم المادة 8(1) من القانون 808 كل من يحضر بالوقوف وقفة احترام. وتنص المادة 8(3) على أن كل من يُظهر عمداً عدم احترام للنشيد الوطني في مكان عام يجوز، عند إدانته، أن يُغرَّم بما لا يتجاوز RM100 أو يُسجَن مدة لا تتجاوز شهراً واحداً."
 
 lang: "ar"
+sourceContentHash: "c84bd6935adf2871"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

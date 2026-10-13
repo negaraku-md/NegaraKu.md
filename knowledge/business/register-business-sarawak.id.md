@@ -80,8 +80,9 @@ obligations:
     consequence: "Denda RM500"
 
 lang: "id"
+sourceContentHash: "637a7153821c7b55"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

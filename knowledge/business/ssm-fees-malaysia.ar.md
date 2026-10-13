@@ -28,10 +28,11 @@ verificationNeeded:
   - "لا تنشر SSM أي معيار خدمة عام لمدة معالجة تأسيس الشركات؛ والأرقام المذكورة هنا مأخوذة من إرشادات فردية ذات تواريخ متفاوتة"
 
 lang: "ar"
+sourceContentHash: "30930e352d6a91ec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

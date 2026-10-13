@@ -38,8 +38,9 @@ verificationNeeded:
   - "Xác nhận ngày tháng và cơ sở của tỷ lệ phần trăm thành phần dân tộc trên cổng chính thức của bang (Mã Lai 61.5%, Hoa 22.9%, Ấn 15.1%, khác 0.5%) — con số đó không có ngày tháng và không khớp với cơ cấu phân tích của Điều tra Dân số 2020 vốn tách riêng người không phải công dân."
 
 lang: "vi"
+sourceContentHash: "41ba175b1dc7814a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

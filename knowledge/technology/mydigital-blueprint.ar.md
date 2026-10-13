@@ -36,10 +36,11 @@ faq:
     a: "صُمّم MyDIGITAL ليكمّل سياسات التنمية الوطنية مثل خطة ماليزيا الثانية عشرة (RMKe-12) ورؤية الازدهار المشترك 2030 (WKB 2030)، اللتين تعترفان بالاقتصاد الرقمي بوصفه نشاطاً رئيسياً للنمو الاقتصادي."
 
 lang: "ar"
+sourceContentHash: "ac3f23832d2acdba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

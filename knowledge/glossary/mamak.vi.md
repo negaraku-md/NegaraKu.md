@@ -22,8 +22,9 @@ verificationNeeded:
   - "Ngày tháng và địa điểm cụ thể của quán mamak đầu tiên được thành lập ở Malaya — các nguồn tìm được nhắc đến thời kỳ thuộc địa Anh một cách chung chung, không có ngày tháng hay hồ sơ chính thức được xác nhận."
 
 lang: "vi"
+sourceContentHash: "3046b79972e90a21"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

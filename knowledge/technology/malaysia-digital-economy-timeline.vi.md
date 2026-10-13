@@ -39,8 +39,9 @@ faq:
     a: "Văn phòng AI Quốc gia (National AI Office, NAIO) là một cơ quan dưới Bộ Kỹ thuật số được Nội các phê duyệt vào ngày 28 tháng 8 năm 2024 và ra mắt vào ngày 12 tháng 12 năm 2024. Nó chịu trách nhiệm soạn thảo, lập kế hoạch, nghiên cứu, điều phối và thực hiện các sáng kiến AI của đất nước. Theo Tech For Good Institute, trách nhiệm của nó bao gồm dẫn dắt Chiến lược AI Quốc gia dự kiến bao trùm giai đoạn 2026-2030, như một sự tiếp nối của AI Roadmap 2021-2025; tên và phạm vi chính thức của chiến lược đó đang chờ xác nhận tài liệu chính thức."
 
 lang: "vi"
+sourceContentHash: "4d479bafdf246fa8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

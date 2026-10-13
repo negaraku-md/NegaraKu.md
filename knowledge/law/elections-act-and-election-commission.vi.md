@@ -32,8 +32,9 @@ faq:
     a: "Không. Điều 114(3) quy định rằng thành viên SPR không thể bị bãi nhiệm trừ khi với lý do và theo cách thức giống như một thẩm phán Tòa Liên bang, một sự bảo vệ nhằm nâng đỡ tính độc lập của ủy ban."
 
 lang: "vi"
+sourceContentHash: "4ee6643ef314a576"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

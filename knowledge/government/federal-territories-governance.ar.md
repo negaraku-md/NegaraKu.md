@@ -32,10 +32,11 @@ faq:
     a: "تنسّق دائرة الأقاليم الاتحادية (JWP) التابعة لدائرة رئيس الوزراء السياسة والتنمية عبر الأقاليم الثلاثة على المستوى الاتحادي، في حين أن DBKL وهيئة بوتراجايا وهيئة لابوان هي السلطات المحلية التي تتولى الشؤون اليومية مثل التراخيص والتخطيط العمراني والخدمات البلدية في أقاليمها."
 
 lang: "ar"
+sourceContentHash: "5739f9cd1afe168b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

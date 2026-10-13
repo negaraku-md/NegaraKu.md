@@ -32,8 +32,9 @@ faq:
     a: "Tidak. Biaya pengurusan jenazah, utang dan wasiat diselesaikan terlebih dahulu dari harta warisan sebelum sisanya dibagikan menurut faraid."
 
 lang: "id"
+sourceContentHash: "8922f0a1759aa852"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

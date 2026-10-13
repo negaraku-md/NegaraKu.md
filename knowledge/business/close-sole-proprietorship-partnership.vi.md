@@ -35,8 +35,9 @@ faq:
     a: "Không. Một doanh nghiệp cá thể hoặc hợp danh là một đăng ký kinh doanh theo Registration of Businesses Act 1956, không phải một pháp nhân riêng biệt, nên 'đóng' nó chỉ đơn giản là thông báo cho SSM rằng đăng ký đã chấm dứt — không có người thanh lý, không có đơn xin xóa tên, không có phí. Một Sdn Bhd là một công ty theo Companies Act 2016 và phải được thoát ra thông qua một cuộc xóa tên hoặc một cuộc thanh lý. Xem hướng dẫn riêng về việc đóng một công ty."
 
 lang: "vi"
+sourceContentHash: "b7ee74767d9d900f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

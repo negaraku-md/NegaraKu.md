@@ -25,8 +25,9 @@ faq:
   - q: "e-LKM là gì?"
     a: "e-LKM là Giấy phép Phương tiện Cơ giới số (thuế đường bộ số) mà JPJ giới thiệu bắt đầu từ năm 2023, thay thế miếng dán vật lý. Nó có thể được truy cập qua ứng dụng MyJPJ hoặc cổng MySIKAP."
 lang: "vi"
+sourceContentHash: "5feaacc87ec61a6a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

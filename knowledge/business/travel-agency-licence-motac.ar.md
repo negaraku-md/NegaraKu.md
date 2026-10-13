@@ -33,10 +33,11 @@ faq:
     a: "تشغيل منشأة سياحية من دون ترخيص سارٍ جريمة بموجب قانون صناعة السياحة لسنة 1992، تنفّذه MOTAC بنشاط عبر التفتيش. وعند الإدانة تكون العقوبة غرامة تصل إلى RM500,000 أو السجن حتى 10 سنوات، أو كليهما. كما يجوز لـ MOTAC أن تقاضي أو تعلّق أو تلغي التراخيص عن مخالفات أخرى للقانون واللوائح."
 
 lang: "ar"
+sourceContentHash: "267a25e0a7a19ed2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

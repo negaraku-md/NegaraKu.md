@@ -29,8 +29,9 @@ faq:
     a: "Tính đến thời điểm xuất bản, không có hạn chế dung tích động cơ nào có hiệu lực; các đề xuất giới hạn quyền vào đường cao tốc theo dung tích động cơ vẫn chưa trở thành luật."
 
 lang: "vi"
+sourceContentHash: "1c36a26778aafc7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

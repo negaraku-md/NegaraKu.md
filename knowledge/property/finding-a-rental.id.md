@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang sedang mencari rumah sewa di Malaysia, baik menyewa untuk pertama kalinya secara lokal maupun mengurus penyewaan dari luar negeri."
 
 lang: "id"
+sourceContentHash: "f6c07580a3e9b049"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

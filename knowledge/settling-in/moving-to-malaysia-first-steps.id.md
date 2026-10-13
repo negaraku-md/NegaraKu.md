@@ -25,8 +25,9 @@ verificationNeeded:
   - "Angka penghasilan, deposito, dan jangka waktu khusus MM2H bagi setiap tingkatan perlu dipastikan langsung di portal MM2H resmi (mm2h.gov.my) pada saat permohonan, karena portal itu membatasi pengambilan otomatis dan tingkatannya telah ditata ulang lebih dari sekali dalam tahun-tahun terakhir ini."
 
 lang: "id"
+sourceContentHash: "dd39883661ce9f6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

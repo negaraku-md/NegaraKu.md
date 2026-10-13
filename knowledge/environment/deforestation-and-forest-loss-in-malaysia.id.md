@@ -34,8 +34,9 @@ faq:
     a: "Kehilangan tutupan pohon menghitung segala penyingkiran kanopi pohon — termasuk pemanenan hutan tanaman, kerusakan kebakaran dan badai — jadi ini termasuk kehilangan yang kemudian tumbuh kembali. Kehilangan hutan primer hanya menghitung pembukaan hutan asli matang yang memiliki biodiversitas dan karbon yang tidak dapat diganti, dan merupakan indikator yang lebih baik bagi kehilangan ekologi permanen."
 
 lang: "id"
+sourceContentHash: "0965237e8942626f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

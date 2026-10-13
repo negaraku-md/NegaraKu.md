@@ -41,8 +41,9 @@ verificationNeeded:
   - "Pastikan apakah honorarium direktur yang dibayarkan kepada direktur non-eksekutif di luar kontrak kerja merupakan upah untuk tujuan EPF; EPF menegaskan direktur bergaji membayar iuran tetapi tidak membahas honorarium secara langsung"
 
 lang: "id"
+sourceContentHash: "b476e81782042301"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

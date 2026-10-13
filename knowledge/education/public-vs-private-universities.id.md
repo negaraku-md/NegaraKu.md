@@ -23,8 +23,9 @@ verificationNeeded:
   - "Artikel ini tidak menyatakan jumlah penerimaan program, tingkat kuota, atau angka biaya khusus bagi institusi mana pun — ini berbeda menurut program dan kampus serta berubah pada setiap penerimaan; pastikan langsung dengan e-Panduan UPU (bagi universitas negeri) atau institusi terkait (bagi universitas swasta) sebelum melamar."
   - "Jumlah sebenarnya penyedia IPTS terdaftar terkini tidak dinyatakan di sini karena tabel statistik yang diterbitkan oleh MOHE (Statistik Pendidikan Tinggi) tidak dibuka sepenuhnya untuk artikel ini — untuk angka yang tepat dan terkini, rujuk langsung penerbitan Statistik Pendidikan Tinggi MOHE."
 lang: "id"
+sourceContentHash: "dec278a4f731f767"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

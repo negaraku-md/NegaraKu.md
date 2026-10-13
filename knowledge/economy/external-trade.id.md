@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang membaca berita perdagangan Malaysia — eksportir, importir, investor, dan analis."
 
 lang: "id"
+sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

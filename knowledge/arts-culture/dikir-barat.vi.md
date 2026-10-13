@@ -18,8 +18,9 @@ keyTakeaways:
   - "Loại hình nghệ thuật này gắn với truyền thống dikir từ miền nam Thái Lan, được điều chỉnh ở Kelantan với việc bổ sung thơ pantun và phương ngữ Kelantan"
 appliesTo: "Bất kỳ ai muốn hiểu hình thức trình diễn Dikir Barat, vai trò của Tukang Karut và Tok Juara, cùng cấu trúc của một nhóm."
 lang: "vi"
+sourceContentHash: "8d1b65f59cb7dafe"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

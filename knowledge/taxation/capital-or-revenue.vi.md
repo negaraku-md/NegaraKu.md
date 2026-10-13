@@ -41,8 +41,9 @@ verificationNeeded:
   - "Không tìm thấy án lệ nào của Malaysia về các dấu hiệu của hoạt động thương mại được viện dẫn trong bất kỳ tài liệu chính thức nào của LHDN, nên trang này không nêu án lệ"
 
 lang: "vi"
+sourceContentHash: "916f828ed466fba0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

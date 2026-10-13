@@ -37,10 +37,11 @@ verificationNeeded:
   - "التحقق من مساحة المنطقة الأساسية والمنطقة العازلة الخاصة بمكوّن ملقا (في مقابل الملكية التسلسلية بأكملها) مقابل وثيقة الترشيح 1223bis."
 
 lang: "ar"
+sourceContentHash: "68b18aa6f45a809f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

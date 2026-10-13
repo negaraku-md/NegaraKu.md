@@ -30,8 +30,9 @@ faq:
     a: "Các chỉ số toàn cầu định giá một rổ của người nước ngoài hoặc dịch chuyển — hàng nhập khẩu, nhà ở cho người nước ngoài, trường quốc tế — và thường thể hiện chi phí bằng đô la Mỹ. Dữ liệu giá tiêu dùng của chính Malaysia theo dõi một rổ hộ gia đình nội địa, nên hai thước đo dịch chuyển khác nhau."
 
 lang: "vi"
+sourceContentHash: "a05c3ce9b85bce7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

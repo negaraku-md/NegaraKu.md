@@ -30,8 +30,9 @@ faq:
     a: "Vi phạm Section 28 là một vi phạm có thể bị phạt không quá RM50,000 (Section 28(8)). Nộp muộn sau 30 ngày cũng phải chịu phí nộp muộn."
 
 lang: "vi"
+sourceContentHash: "fe0af342a9f2c24f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

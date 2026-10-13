@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "كل من يضع ميزانية مقابل راتب ماليزي، أو يقيس الأجور، أو يحاول وضع رقم دخل معيّن في السياق الوطني."
 
 lang: "ar"
+sourceContentHash: "b4e7cfa473ebf879"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

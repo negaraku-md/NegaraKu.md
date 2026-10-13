@@ -32,10 +32,11 @@ faq:
     a: "لا. بموجب المادة 554(1)(a)، تستمر مسؤولية كل مدير أو مسؤول أو عضو في الشركة وتظل قابلة للإنفاذ كما لو أن الشركة لم تُحَلّ. كما يجب على المديرين الاحتفاظ بسجلات الشركة لمدة سبع سنوات بعد الشطب."
 
 lang: "ar"
+sourceContentHash: "bd012809619da49e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

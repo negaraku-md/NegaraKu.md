@@ -50,8 +50,9 @@ obligations:
     consequence: "Phí nộp trễ và hành động thực thi"
 
 lang: "vi"
+sourceContentHash: "dfd63c27558be655"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -23,8 +23,9 @@ appliesTo: "Pemberi kerja yang menentukan apakah seorang pekerja berhak menerima
 
 verificationNeeded: []
 lang: "id"
+sourceContentHash: "e20a9bba2377fd31"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

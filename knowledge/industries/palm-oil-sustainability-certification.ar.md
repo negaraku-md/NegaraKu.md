@@ -31,10 +31,11 @@ faq:
     a: "بعد تأجيلين، تسري على المشغّلين الكبار والمتوسطين اعتباراً من 30 ديسمبر 2026، وعلى المنشآت المتناهية الصغر والصغيرة اعتباراً من 30 يونيو 2027. وتاريخ قطع إزالة الغابات هو 31 ديسمبر 2020."
 
 lang: "ar"
+sourceContentHash: "7368557f33452c6b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

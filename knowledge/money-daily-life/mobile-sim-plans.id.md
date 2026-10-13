@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Siapa pun di Malaysia — warga negara, penduduk, pemegang pas kerja, pelajar, atau wisatawan — yang perlu membeli atau mendaftar kartu SIM seluler lokal."
 
 lang: "id"
+sourceContentHash: "5f238099826ab02d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

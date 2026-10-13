@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn biết, từng điều một, Phần II của Hiến pháp Liên bang thực sự bảo đảm những gì và cho phép rõ ràng những hạn chế nào."
 
 lang: "vi"
+sourceContentHash: "268ae1dcdac3c251"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

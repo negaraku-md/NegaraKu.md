@@ -35,10 +35,11 @@ faq:
     a: "لا. المنشأة الفردية أو الشراكة تسجيل عمل بموجب قانون تسجيل الأعمال التجارية لسنة 1956، لا كيان قانوني منفصل، لذا فإن «إغلاقها» هو مجرد إخطار لجنة الشركات الماليزية (SSM) بأن التسجيل قد انتهى — بلا مصفّي، وبلا طلب شطب، وبلا رسوم. أما شركة Sdn Bhd فهي شركة بموجب قانون الشركات لسنة 2016 (Companies Act 2016) ولا يمكن الخروج منها إلا عبر الشطب أو التصفية. انظر الدليل المنفصل حول إغلاق شركة."
 
 lang: "ar"
+sourceContentHash: "b7ee74767d9d900f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

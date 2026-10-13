@@ -39,8 +39,9 @@ verificationNeeded:
   - "Thời hạn hiệu lực của một phê duyệt WRT — chỉ có thời gian báo trước ba tháng để gia hạn là được công bố"
 
 lang: "vi"
+sourceContentHash: "01bb0853bba1972c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

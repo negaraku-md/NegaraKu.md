@@ -26,8 +26,9 @@ verificationNeeded:
   - "Apakah permohonan CDL kini dapat diajukan sepenuhnya secara daring melalui aplikasi MyJPJ — laman layanan JPJ yang diperiksa menyatakan permohonan diajukan di konter JPJ negara bagian saja, tetapi ini mungkin telah berubah setelah tanggal pemeriksaan"
 
 lang: "id"
+sourceContentHash: "994f31cbd16cea0e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

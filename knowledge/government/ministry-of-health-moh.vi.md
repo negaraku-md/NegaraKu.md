@@ -27,8 +27,9 @@ faq:
   - q: "KKM có vận hành các bệnh viện tư nhân không?"
     a: "Không. KKM vận hành các bệnh viện và phòng khám công và điều chỉnh riêng y tế tư nhân theo Luật Cơ sở và Dịch vụ Y tế Tư nhân (Private Healthcare Facilities and Services Act 1998, Act 586), đạo luật đặt ra các chuẩn tối thiểu về chất lượng và an toàn và giới hạn mức phí mà bác sĩ có thể tính cho các thủ thuật."
 lang: "vi"
+sourceContentHash: "3996608aeba4590f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

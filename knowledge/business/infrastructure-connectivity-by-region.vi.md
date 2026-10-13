@@ -49,8 +49,9 @@ verificationNeeded:
   - "Xác nhận ngày khánh thành chính thức và chi phí dự án tuyến đường đôi điện khí hóa Gemas đến Johor Bahru — không tìm thấy thông tin nào"
 
 lang: "vi"
+sourceContentHash: "300ad373430dce8b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

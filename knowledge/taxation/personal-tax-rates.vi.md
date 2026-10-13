@@ -37,8 +37,9 @@ verificationNeeded:
   - "Xác nhận liệu tầng thuế cổ tức 2% theo Schedule 1 Part XXII có áp dụng cho cả cá nhân không cư trú lẫn người cư trú hay không; chính bảng thuế suất không nói"
 
 lang: "vi"
+sourceContentHash: "8166bbfff56fa0fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

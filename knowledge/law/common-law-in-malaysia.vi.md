@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố hiểu vì sao các tòa án Malaysia trích dẫn án lệ Anh, sinh viên luật nghiên cứu hệ thống pháp luật Malaysia, và bất kỳ ai nghiên cứu vì sao một số lĩnh vực (đất đai, gia đình, luật Hồi giáo) nằm ngoài sự thừa kế thông luật."
 
 lang: "vi"
+sourceContentHash: "0e25f8448644480c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

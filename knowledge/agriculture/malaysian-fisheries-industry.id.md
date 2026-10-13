@@ -36,8 +36,9 @@ faq:
     a: "Setelah amandemen Akta Perikanan 1985 pada 2019 (Akta A1601), denda maksimum bagi pemilik atau nakhoda kapal asing yang menyusup dinaikkan dari RM1 juta menjadi RM6 juta, dan bagi setiap awak kapal dari RM100,000 menjadi RM600,000."
 
 lang: "id"
+sourceContentHash: "f5794964e422efce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

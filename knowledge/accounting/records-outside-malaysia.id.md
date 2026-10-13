@@ -25,8 +25,9 @@ verificationNeeded:
   - "Baik SSM maupun LHDN tidak menerbitkan panduan apakah data yang di-host di region cloud asing tetapi dapat diakses dari Malaysia memenuhi syarat 'disimpan di Malaysia' — posisi yang dinyatakan di sini mengikuti kata-kata statuta, dan tidak ada keringanan administratif yang diterbitkan"
 
 lang: "id"
+sourceContentHash: "d4690bd724bedb45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

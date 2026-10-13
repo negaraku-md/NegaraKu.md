@@ -38,10 +38,11 @@ faq:
     a: "بورصة الطاقة الماليزية (ENEGEM)، التي أطلقتها في 15 أبريل 2024 وزارة تحوّل الطاقة وتحويل المياه، هي أول منصة عابرة للحدود في ماليزيا لبيع الكهرباء المتجددة إلى دول الآسيان المجاورة. وقد عرض مزادها التجريبي 100 ميغاواط من الطاقة المتجددة لسنغافورة."
 
 lang: "ar"
+sourceContentHash: "d6cf99b70fef6280"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

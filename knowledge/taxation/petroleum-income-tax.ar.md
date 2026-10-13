@@ -28,10 +28,11 @@ faq:
     a: "إعفاء جزء من الدخل الخاضع للضريبة يخفّض المعدل الفعلي لضريبة الدخل البترولي على الحقول الحدّية المؤهَّلة من 38% إلى نحو 25%."
 
 lang: "ar"
+sourceContentHash: "e3d164ca38c307ff"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

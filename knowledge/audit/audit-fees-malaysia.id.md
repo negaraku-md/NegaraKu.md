@@ -40,8 +40,9 @@ verificationNeeded:
   - "Pastikan alasan yang dinyatakan bagi penarikan RPG 7, yaitu Competition Act 2010, dibandingkan dengan suatu surat edaran MIA atau resolusi Dewan — hanya tanggal penarikan yang dapat diverifikasi dari dokumen resmi"
 
 lang: "id"
+sourceContentHash: "ecdf13a6ded6622d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

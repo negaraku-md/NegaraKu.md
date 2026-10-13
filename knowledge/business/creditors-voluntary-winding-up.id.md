@@ -52,8 +52,9 @@ obligations:
     consequence: "Ketidakpatuhan merupakan pelanggaran berdasarkan ketentuan likuidasi"
 
 lang: "id"
+sourceContentHash: "7c0a23216627e7ee"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

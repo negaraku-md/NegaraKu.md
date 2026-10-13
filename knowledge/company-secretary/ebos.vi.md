@@ -26,8 +26,9 @@ verificationNeeded:
   - "Xác nhận liệu việc truy cập trực tuyến thông tin về chủ sở hữu hưởng lợi có thay thế cơ sở chỉ-tại-quầy tại Menara SSM@Sentral hay chưa"
 
 lang: "vi"
+sourceContentHash: "a088732b82dc0e99"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

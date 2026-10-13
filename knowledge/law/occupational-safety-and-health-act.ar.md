@@ -30,10 +30,11 @@ faq:
     a: "يجب إخطار أقرب مكتب لـ DOSH بالحوادث المميتة أو الإصابات الخطيرة أو الوقائع الخطرة بأسرع الوسائل، مع تقديم النموذج JKKP 6 خلال 7 أيام بموجب NADOPOD 2004."
 
 lang: "ar"
+sourceContentHash: "e58617c97047711f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

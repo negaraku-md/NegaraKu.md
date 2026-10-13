@@ -30,8 +30,9 @@ faq:
     a: "Điều 25 quy định lời nhận tội với cảnh sát có cấp bậc thấp hơn Thanh tra không thể được dùng để chứng minh chống lại bị cáo, tùy thuộc vào điều khoản thành văn rõ ràng. Điều 24 khiến lời nhận tội không liên quan nếu nó do sự dụ dỗ, đe dọa hoặc lời hứa từ người có quyền lực gây ra."
 
 lang: "vi"
+sourceContentHash: "8f64848838376657"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

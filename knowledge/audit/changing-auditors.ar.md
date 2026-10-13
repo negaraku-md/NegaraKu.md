@@ -41,10 +41,11 @@ verificationNeeded:
   - "التأكد مما إذا كانت SSM تنص على نموذج محدد لإشعار العزل بموجب المادة 278 وإشعار الاستقالة بموجب المادة 282، ورسم الإيداع المنطبق، مقابل جدول رسوم مسجِّل الشركات (ROC Table of Fees) الحالي"
 
 lang: "ar"
+sourceContentHash: "c932d3246ad62000"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

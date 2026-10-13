@@ -29,8 +29,9 @@ faq:
     a: "Seringnya tidak. Banyak resort dan operator perahu pantai timur secara sukarela menangguhkan layanan dari sekitar Oktober hingga Februari karena laut yang bergelora akibat monsun timur laut."
 
 lang: "id"
+sourceContentHash: "baf74efaaf475bb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

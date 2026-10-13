@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang lập ngân sách cho việc chuyển đến Kuala Lumpur hoặc Thung lũng Klang, so sánh các lời mời làm việc giữa các thành phố, hoặc cố gắng hiểu vì sao thủ đô luôn dẫn đầu các bảng xếp hạng chi phí sinh hoạt của Malaysia."
 
 lang: "vi"
+sourceContentHash: "5a6f8510ce30c077"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "القرّاء الراغبون في تحديد الولايات الملكية التسع في ماليزيا وفهم المكانة الدستورية للحكّام بأسلوب وصفي — الطلاب والباحثون والصحفيون والموظفون العموميون والقرّاء عامةً."
 
 lang: "ar"
+sourceContentHash: "2e19d7c57053d5f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

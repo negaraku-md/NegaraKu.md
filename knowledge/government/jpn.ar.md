@@ -31,10 +31,11 @@ faq:
     a: "ليست كذلك تمامًا. تُدرِج بوابة JPN خدمات الولادة والوفاة بصورة منفصلة لشبه الجزيرة الماليزية وصباح وساراواك، بفئات طلب ومراجع قانونية مختلفة. وقانون التسجيل الوطني لسنة 1959 نفسه دخل حيّز النفاذ في تاريخ مختلف في كل إقليم. تحقّق من النموذج بحسب الإقليم الذي يُسجَّل فيه الحدث."
 
 lang: "ar"
+sourceContentHash: "c1ba766163b08209"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

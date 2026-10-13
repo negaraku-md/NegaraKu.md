@@ -30,8 +30,9 @@ faq:
     a: "Pada pemilihan umum ke-14 pada 9 Mei 2018, ketika koalisi oposisi Pakatan Harapan memenangi 113 dari 222 kursi dan BN memenangi 79, kekalahan pertamanya bagi pemerintah federal."
 
 lang: "id"
+sourceContentHash: "991005bf0f4cffdd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

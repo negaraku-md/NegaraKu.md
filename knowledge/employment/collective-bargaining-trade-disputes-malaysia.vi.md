@@ -34,8 +34,9 @@ faq:
     a: "Có. Theo Trade Unions Act 1959 (mục 25A), cần bỏ phiếu kín. Sau sửa đổi, ngưỡng cần thiết được hạ xuống hơn một nửa số phiếu với ít nhất 60 phần trăm thành viên đủ điều kiện bỏ phiếu cùng tham gia bỏ phiếu, so với đa số hai phần ba trước đây."
 
 lang: "vi"
+sourceContentHash: "d0b1ce6e61182113"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

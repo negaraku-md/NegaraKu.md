@@ -35,8 +35,9 @@ faq:
     a: "Sipadan ditutup setiap November untuk pemulihan terumbu, jadi rencanakan perjalanan menyelam antara Desember dan Oktober. Di tempat lain, bulan-bulan Monsun Timur Laut yang lebih lembap (kira-kira November hingga Maret) membawa lebih banyak hujan ke Borneo."
 
 lang: "id"
+sourceContentHash: "c9653441143f9da8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

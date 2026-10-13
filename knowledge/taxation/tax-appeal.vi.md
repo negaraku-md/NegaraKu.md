@@ -57,8 +57,9 @@ obligations:
     consequence: "Lệnh quyết định được giữ nguyên, chỉ tùy thuộc vào một gia hạn do Tòa Thượng thẩm cấp theo đoạn 34(7)"
 
 lang: "vi"
+sourceContentHash: "d2e991c87917fcac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

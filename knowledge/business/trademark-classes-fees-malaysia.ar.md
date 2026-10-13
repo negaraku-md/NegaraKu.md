@@ -39,10 +39,11 @@ verificationNeeded:
   - "خفّضت لوائح العلامات التجارية (تخفيض الرسم) لسنة 2025 [P.U. (A) 315/2025] رسم التقديم لكل فئة بمقدار RM300 فقط للتقديمات الحضورية من مقدّمي الطلبات المستوفين للمعايير الواردة في التوجيهات العملية للمسجّل، بين 1 سبتمبر و31 ديسمبر 2025 — تحقّق مما إذا كان قد صدر أي صك خلف في الجريدة الرسمية"
 
 lang: "ar"
+sourceContentHash: "2b920571a13b0794"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

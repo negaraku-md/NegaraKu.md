@@ -41,10 +41,11 @@ verificationNeeded:
   - "رسوم الإيداع لدى المحكمة وأتعاب ممارس الإعسار لكل آلية غير منشورة مركزيًا ولا يُذكَر هنا أي نطاق للتكلفة"
 
 lang: "ar"
+sourceContentHash: "38faab1c30546d02"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

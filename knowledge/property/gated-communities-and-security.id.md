@@ -27,8 +27,9 @@ faq:
     a: "Sebuah RA adalah perkumpulan yang terdaftar di bawah Societies Act 1966, bukan badan statutori — ia tidak memiliki kuasa yang setara dengan Joint Management Body atau Management Corporation untuk memaksa pembayaran. Pengadilan telah mengizinkan sebuah RA meminta seorang penduduk yang tidak membayar untuk mengoperasikan sendiri palang jalan yang dibagi, tetapi menolak akses seorang penduduk secara total berisiko menjadi gangguan (nuisance) yang dapat digugat."
 
 lang: "id"
+sourceContentHash: "03cf0cac851c0421"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

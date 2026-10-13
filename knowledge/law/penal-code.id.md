@@ -31,8 +31,9 @@ faq:
     a: "Karena ia adalah keturunan dari draf yang sama. Straits Settlements Penal Code disusun sebagai Ordinance No. 4 of 1871 dan berlaku pada tahun berikutnya sebagai penyusunan ulang secara lokal atas Indian Penal Code, yang sendiri disusun oleh Komisi Hukum India pertama di bawah Lord Macaulay. Federated Malay States Penal Code of 1936 mengikuti model yang sama, dan Akta 574 adalah penerus langsungnya."
 
 lang: "id"
+sourceContentHash: "7702e4996ec5b32e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

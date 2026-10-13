@@ -33,8 +33,9 @@ faq:
     a: "Ia ditaksir sendiri. Anda melaporkan pendapatan dividen dalam formulir pajak tahunan (Borang BE bagi individu domisili, Borang M bagi bukan domisili) bagi tahun taksiran 2025 dan seterusnya, dan membayar 2% bersama pajak akhir Anda saat taksiran — tidak ada pemotongan pada sumber. Mulai TT 2025, perusahaan juga harus menerbitkan voucher dividen kepada pemegang saham yang menunjukkan dividen kotor, yang mendukung pernyataan Anda."
 
 lang: "id"
+sourceContentHash: "046defae2c8d4bbf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

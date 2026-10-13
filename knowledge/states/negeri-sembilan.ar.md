@@ -38,12 +38,13 @@ verificationNeeded:
   - "تحقّق من تاريخ وأساس نسب التركيب العِرقي المنشورة في البوابة الرسمية للولاية (الملايو 61.5%، الصينيون 22.9%، الهنود 15.1%، آخرون 0.5%) — فالرقم غير مؤرَّخ ولا يتطابق مع بنية تبويب تعداد 2020، الذي يبلّغ عن غير المواطنين كفئة منفصلة."
 
 lang: "ar"
+sourceContentHash: "41ba175b1dc7814a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

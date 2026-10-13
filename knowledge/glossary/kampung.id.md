@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami makna 'kampung' di luar arti harfiah — termasuk peneliti, penulis, pejabat, dan pendatang baru yang berurusan dengan administrasi desa."
 
 lang: "id"
+sourceContentHash: "179d1d79aa799fca"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

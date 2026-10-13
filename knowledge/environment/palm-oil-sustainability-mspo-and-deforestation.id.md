@@ -34,8 +34,9 @@ faq:
     a: "EUDR mulai berlaku pada 29 Juni 2023. Setelah penundaan, kewajiban berlaku mulai 30 Desember 2026 untuk operator dan pedagang besar serta 30 Juni 2027 untuk perusahaan mikro dan kecil."
 
 lang: "id"
+sourceContentHash: "f8c253517f15928f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

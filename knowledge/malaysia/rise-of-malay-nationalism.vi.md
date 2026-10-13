@@ -29,8 +29,9 @@ faq:
     a: "Làn sóng phản đối Malayan Union đã hợp nhất hàng chục hiệp hội Mã Lai rồi dẫn đến việc thành lập UMNO vào ngày 11 tháng 5 năm 1946 tại Johor Bahru."
 
 lang: "vi"
+sourceContentHash: "d1accab37207bc8e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

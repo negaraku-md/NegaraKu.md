@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang membaca dokumen hukum, berita, atau persidangan mahkamah di Malaysia dan perlu memahami arti istilah 'mahkamah' serta kedudukan relatif setiap tingkatnya."
 
 lang: "id"
+sourceContentHash: "1a30b6920b746dad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

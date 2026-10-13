@@ -33,8 +33,9 @@ faq:
     a: "Pemberi kerja melaporkan pembayaran itu, dipecah menjadi bagian yang dikecualikan dan kena pajak, dalam Borang EA (C.P.8A) karyawan untuk tahun tersebut, dan bagian kena pajak dimasukkan ke dalam pendapatan karyawan untuk tahun itu. Secara terpisah, pemberi kerja sektor swasta harus memberitahu LHDN bahwa karyawan hampir berhenti bekerja, umumnya menggunakan Borang CP22A sekurang-kurangnya 30 hari sebelum pemberhentian, dan sebaiknya menahan uang sambil menunggu keterangan pajak (surat penyelesaian pajak) sebelum melepaskan pembayaran akhir."
 
 lang: "id"
+sourceContentHash: "8493c353cbce9515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "Các giấy phép khai thác gỗ và hợp đồng thuê đồn điền do bang cấp có thể bao phủ các khu vực mà các cộng đồng yêu sách là đất tập quán. Nơi các bên bất đồng về việc liệu một khu vực có phải là đất NCR hay không, tranh chấp thường được quyết định tại tòa án."
 
 lang: "vi"
+sourceContentHash: "73a645ecf7076b5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

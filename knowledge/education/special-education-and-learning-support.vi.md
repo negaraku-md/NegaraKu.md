@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Phụ huynh và người chăm sóc một đứa trẻ tại Malaysia được chẩn đoán khuyết tật hoặc có khó khăn học tập đang cố xác định việc xếp lớp học nào và các bước đăng ký nào áp dụng."
 
 lang: "vi"
+sourceContentHash: "e0164ad51b29c01a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

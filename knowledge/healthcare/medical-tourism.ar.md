@@ -31,10 +31,11 @@ faq:
     a: "تمنح وزارة الصحة التراخيص للمرافق الصحية الخاصة، ويسجّل المجلس الطبي الماليزي (Malaysian Medical Council) الأطباء ويؤدّبهم. كما يحمل كثير من المستشفيات اعتماداً اختيارياً من الجمعية الماليزية لجودة الرعاية الصحية (MSQH) أو من اللجنة الدولية المشتركة (JCI). ويقع MHTC خارج تلك السلسلة التنظيمية."
 
 lang: "ar"
+sourceContentHash: "f3db9e92168dd3e0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

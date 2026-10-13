@@ -31,12 +31,13 @@ faq:
     a: "تجري وزارة الصحة (KKM) المراقبة والتفتيش في أكشاك الأسواق، ويمكنها إصدار غرامات إدارية بموجب لوائح نظافة الأغذية لسنة 2009. كما تجري السلطات المحلية وKKM وKPDN تفتيشًا يوميًا طوال رمضان لمراقبة جودة الطعام والنظافة وضبط الأسعار."
 
 lang: "ar"
+sourceContentHash: "571a086b9bbbfa81"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

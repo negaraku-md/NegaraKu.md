@@ -40,10 +40,11 @@ faq:
 verificationNeeded:
   - "ما إذا كان أي أمر منشور في الجريدة الرسمية يقرّر حاليًا كسرًا غير ثلاثة من مئة للبدل السنوي بموجب الفقرة 16"
 lang: "ar"
+sourceContentHash: "4788a314694d11fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"

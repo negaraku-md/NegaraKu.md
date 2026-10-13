@@ -29,8 +29,9 @@ faq:
     a: "Có. Sunway Healthcare Holdings được niêm yết trên Thị trường Chính của Bursa Malaysia với mã SUNMED vào ngày 18 tháng 3 năm 2026. Trước đó vào tháng 6 năm 2021, GIC của Singapore đã đồng ý đầu tư RM750 triệu để lấy cổ phần 16% trong mảng chăm sóc sức khỏe."
 
 lang: "vi"
+sourceContentHash: "b41845c9552f7efc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

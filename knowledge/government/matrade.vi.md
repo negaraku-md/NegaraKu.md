@@ -26,8 +26,9 @@ verificationNeeded:
   - "Con số 47 văn phòng ở nước ngoài được củng cố bởi hai bản tin năm 2026 có ngày độc lập trích dẫn chính chủ tịch và giám đốc điều hành của MATRADE, nhưng chưa được đối chiếu với một trang danh bạ văn phòng do MATRADE lưu trữ, mà các lần thử truy xuất của bài viết này không thể lấy được đầy đủ"
 
 lang: "vi"
+sourceContentHash: "53582e357950bce0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

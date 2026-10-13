@@ -29,8 +29,9 @@ faq:
   - q: "Khi nào một công ty mới phải đăng ký thuế thu nhập và SST?"
     a: "Một Sdn Bhd mới thành lập phải đăng ký một hồ sơ thuế thu nhập riêng với LHDN thông qua e-Daftar, thứ cấp Số Định danh Thuế (TIN) riêng của nó — điều này không được SSM làm tự động. Nó cũng phải cung cấp dự toán thuế đầu tiên (CP204) trong vòng ba tháng kể từ khi bắt đầu hoạt động nếu kỳ cơ sở đầu tiên của nó ít nhất sáu tháng. Đăng ký thuế Bán hàng và Dịch vụ (SST) trở nên bắt buộc một khi doanh thu chịu thuế hằng năm vượt ngưỡng RM500,000."
 lang: "vi"
+sourceContentHash: "187b776d2f8aa2b3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

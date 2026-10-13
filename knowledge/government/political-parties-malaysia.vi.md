@@ -40,8 +40,9 @@ verificationNeeded:
   - "Khoảng thời gian lịch sử mỗi liên minh cầm quyền và năm thành lập (ví dụ khi nào Barisan Nasional cầm quyền ở cấp liên bang, và khi nào Perikatan Nasional được thành lập) không được nêu như những mốc ngày chắc chắn trong trang này vì không có nguồn chính được đối chiếu cho nó trong đợt này. Cần bổ sung ngày có nguồn nếu cần."
 
 lang: "vi"
+sourceContentHash: "58782ac706653a76"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

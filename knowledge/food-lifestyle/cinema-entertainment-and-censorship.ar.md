@@ -33,12 +33,13 @@ faq:
     a: "حيازة فيلم أو توزيعه أو عرضه دون ترخيص أو موافقة جريمة بموجب قانون الرقابة على الأفلام لسنة 2002، عقوبتها غرامة تتراوح بين RM5,000 وRM30,000 و/أو السجن لمدة أقصاها 3 سنوات."
 
 lang: "ar"
+sourceContentHash: "f25f07b35f2179e4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -21,8 +21,9 @@ verificationNeeded:
   - "Rincian lengkap format dan mata pelajaran Matriks Pembelajaran Tingkatan 3 (mulai 2027) belum dipastikan secara terperinci pada laman resmi Lembaga Ujian saat penyusunan draf ini; hanya jadwal Tahun 4 2026 (4 mata pelajaran inti) yang dipastikan. Periksa ulang di lp.moe.gov.my ketika draf Tingkatan 3 diterbitkan."
   - "Apakah Majelis Penasihat Pendidikan Kebangsaan (MPPK) telah menerbitkan laporan lengkap kajian ulang UPSR/PT3 kepada Kabinet tidak dapat dipastikan pada sumber resmi saat penyusunan draf ini; pernyataan menteri pada Januari 2026 diambil sebagai kedudukan terkini yang tersedia."
 lang: "id"
+sourceContentHash: "4ac5d1a1458b81d6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

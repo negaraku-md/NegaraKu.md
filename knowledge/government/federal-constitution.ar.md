@@ -31,12 +31,13 @@ faq:
     a: "يُنظَّم النص في خمسة عشر جزءًا (الأجزاء I إلى XV، مع الجزء XIIA الخاص بصباح وساراواك) وثلاثة عشر جدولًا، أُلغي بعضها وفقًا لفهرس محتويات النسخة الرسمية المعاد طبعها."
 
 lang: "ar"
+sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

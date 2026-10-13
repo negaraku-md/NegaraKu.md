@@ -59,8 +59,9 @@ obligations:
     consequence: "Pelanggaran di bawah Employment Act 1955"
 
 lang: "id"
+sourceContentHash: "6a64b8221b81d34f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

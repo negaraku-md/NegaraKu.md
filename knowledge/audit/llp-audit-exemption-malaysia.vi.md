@@ -29,8 +29,9 @@ faq:
     a: "Ít nhất bảy năm kể từ ngày kết thúc năm tài chính liên quan đến các giao dịch đó (mục 69(2))."
 
 lang: "vi"
+sourceContentHash: "6c21f7bda1b829f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

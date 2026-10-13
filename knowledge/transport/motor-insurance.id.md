@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Pemilik dan pengemudi kendaraan bermotor di Malaysia — mobil, sepeda motor dan kendaraan komersial — yang ingin memahami jenis perlindungan asuransi dan persyaratan undang-undangnya."
 
 lang: "id"
+sourceContentHash: "d879ba5dcb3bf1ff"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ verificationNeeded:
   - "Semua angka perlu dipastikan dengan Suruhanjaya Pilihan Raya Malaysia (SPR)."
 
 lang: "id"
+sourceContentHash: "60045df88eb348ab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

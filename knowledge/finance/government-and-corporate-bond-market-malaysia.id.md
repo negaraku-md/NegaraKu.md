@@ -32,8 +32,9 @@ faq:
     a: "RENTAS (Real-Time Electronic Transfer of Funds and Securities) adalah sistem penyelesaian bruto waktu nyata Bank Negara Malaysia. Sekuritas pemerintah diselesaikan melaluinya atas dasar penyerahan-lawan-pembayaran, sehingga kas dan sekuritas berpindah tangan secara serentak."
 
 lang: "id"
+sourceContentHash: "9da4da3090cd0bd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -28,8 +28,9 @@ verificationNeeded:
   - "Các thuế suất là mức trần chung của điều ước do LHDN công bố, không phải thuế suất theo từng điều khoản. Một số điều ước giảm thuế lãi vay xuống 0 đối với các khoản thanh toán cho chính phủ, ngân hàng trung ương hoặc tổ chức được phê duyệt; hãy kiểm tra điều khoản liên quan trước khi áp dụng thuế suất trong bảng"
 
 lang: "vi"
+sourceContentHash: "2eae865a4f192515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

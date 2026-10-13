@@ -33,10 +33,11 @@ faq:
     a: "الموكيم (mukim) تقسيم فرعي دون مستوى المقاطعة، أساساً لأغراض إدارة الأراضي. والبِنغْهولو (penghulu) ضابط يمارس الاختصاص على مستوى الموكيم ضمن إدارة أراضي المقاطعة."
 
 lang: "ar"
+sourceContentHash: "a75e04e291488dd9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

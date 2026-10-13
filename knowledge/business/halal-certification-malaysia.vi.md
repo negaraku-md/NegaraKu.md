@@ -29,8 +29,9 @@ faq:
     a: "JAKIM đặt mục tiêu 15 đến 30 ngày làm việc một khi một đơn hoàn chỉnh được nhận. Trên thực tế, tính đến việc chuẩn bị tài liệu, cuộc kiểm tra tại chỗ và bất kỳ sửa chữa nào, các doanh nghiệp nên dự trù ba đến sáu tháng từ khi bắt đầu đến khi có giấy chứng nhận."
 
 lang: "vi"
+sourceContentHash: "5688169feeb631ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

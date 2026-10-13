@@ -16,8 +16,9 @@ keyTakeaways:
   - "Công ty chỉ lấy tên hiện nay vào năm 1992, sau một chứng chỉ hoàng gia năm 1979 của Sultan của Selangor."
 appliesTo: "Bất kỳ ai tò mò về các truyền thống thủ công của Malaysia, lịch sử khai thác thiếc, hoặc Royal Selangor"
 lang: "vi"
+sourceContentHash: "ab235dfd3f4f5c67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

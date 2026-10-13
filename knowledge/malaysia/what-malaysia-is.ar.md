@@ -18,11 +18,12 @@ keyTakeaways:
   - "تُقسَّم سلطة سنّ القوانين بين الاتحاد والولايات عبر القوائم الاتحادية والولائية والمشتركة في الجدول التاسع (Ninth Schedule)"
 appliesTo: "كل من هو جديد على ماليزيا ويرغب في فهم أي نوع من البلدان هي دستوريًا، قبل التعمّق في أي مؤسسة بعينها."
 lang: "ar"
+sourceContentHash: "8088b5defbdcad1c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

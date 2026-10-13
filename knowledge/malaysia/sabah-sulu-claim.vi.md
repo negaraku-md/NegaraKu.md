@@ -29,8 +29,9 @@ faq:
     a: "Một trọng tài viên tư nhân đã tuyên một phán quyết khoảng 14.92 tỷ USD vào ngày 28 tháng 2 năm 2022, nhưng Malaysia đã phản bác nó trên nhiều khu vực tài phán và Tòa Phúc thẩm Paris đã hủy bỏ phán quyết đó vào ngày 9 tháng 12 năm 2025."
 
 lang: "vi"
+sourceContentHash: "a5cefe938e99cef3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

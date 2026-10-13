@@ -23,8 +23,9 @@ appliesTo: "Nhà phân tích, nhà báo, học sinh sinh viên, nhà đầu tư 
 seoTitle: "Thống kê du lịch Malaysia: Lượt khách so với nguồn thu"
 
 lang: "vi"
+sourceContentHash: "396de79b31be6ee8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

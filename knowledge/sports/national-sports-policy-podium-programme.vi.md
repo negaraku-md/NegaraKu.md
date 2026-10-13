@@ -35,8 +35,9 @@ faq:
     a: "Các mục tiêu được gắn với chu kỳ của các đại hội chính — Olympic, Đại hội Thể thao Châu Á và Đại hội Thể thao Khối Thịnh vượng chung — và trọng tâm được đặt vào các môn được xác định có cơ hội thành công cao, phù hợp với Mục tiêu 8 của Chính sách Thể thao Quốc gia. Tài trợ được phân bổ theo chu kỳ (ví dụ RM60 triệu mỗi năm trong bốn năm), do Hội đồng Thể thao Quốc gia điều phối và được Viện Thể thao Quốc gia hỗ trợ về khoa học thể thao."
 
 lang: "vi"
+sourceContentHash: "7132b0584a8f785b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -19,8 +19,9 @@ keyTakeaways:
   - "Keturunan Kesultanan Melaka melanjutkan pemerintahan di Johor Lama pada 1528 dan dinasti itu bertahan hingga 1699"
 appliesTo: "Pembaca yang ingin memahami sebab teknis dan politik di balik kejatuhan Melaka 1511, dan apa yang terjadi pada institusi serta keturunan diraja Melaka setelah kota itu hilang."
 lang: "id"
+sourceContentHash: "b8ff8e81366e5986"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

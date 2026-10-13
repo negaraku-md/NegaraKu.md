@@ -36,8 +36,9 @@ faq:
     a: "Sebuah kebijakan yang diluncurkan oleh Kementerian Digital pada 2025 untuk menjadikan Malaysia hub awan bertaraf dunia menjelang 2030, berlandaskan kedaulatan data — prinsip bahwa data yang dihasilkan di Malaysia diatur oleh undang-undang Malaysia — bersama awan AI berdaulat yang direncanakan."
 
 lang: "id"
+sourceContentHash: "16256b5ee4d19f22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

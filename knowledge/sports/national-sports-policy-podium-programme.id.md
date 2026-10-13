@@ -35,8 +35,9 @@ faq:
     a: "Target dikaitkan dengan siklus pesta olahraga utama — Olimpiade, Asian Games dan Commonwealth Games — dan fokus diberikan kepada olahraga yang diidentifikasi memiliki peluang keberhasilan tinggi, sejalan dengan Tujuan 8 Dasar Sukan Negara. Pembiayaan disalurkan menurut siklus (contohnya RM60 juta setahun untuk empat tahun), dikoordinasi oleh Majlis Sukan Negara dan didukung sains olahraga oleh Institut Sukan Negara."
 
 lang: "id"
+sourceContentHash: "7132b0584a8f785b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

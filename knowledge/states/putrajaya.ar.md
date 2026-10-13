@@ -38,10 +38,11 @@ verificationNeeded:
   - "التأكد من عدد المناطق (20) ورقم المساحة البالغ 4,931 هكتارًا مقابل أحدث منشور رسمي لمؤسسة بوتراجايا — إذ سجّل التقرير السنوي لعام 2017 ذات مرة رقم مساحة مختلفًا."
 
 lang: "ar"
+sourceContentHash: "7ed3eafee80e71c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -21,11 +21,12 @@ keyTakeaways:
 appliesTo: "كل من يريد النص الدستوري الدقيق الكامن وراء سياسة اللغة الوطنية في ماليزيا، لا مجرد إعادة صياغة له."
 
 lang: "ar"
+sourceContentHash: "b994c8be544c8680"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

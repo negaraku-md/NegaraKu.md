@@ -34,8 +34,9 @@ faq:
     a: "DOSM adalah lembaga pemerintah federal yang terdaftar di bawah Kementerian Ekonomi dalam direktori lembaga resmi kementerian tersebut. Portofolio kementerian di Malaysia disusun ulang dari waktu ke waktu, jadi pastikan susunan terkini di ekonomi.gov.my atau dosm.gov.my sebelum bergantung padanya dalam dokumen resmi."
 
 lang: "id"
+sourceContentHash: "c71507e53dcd1423"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

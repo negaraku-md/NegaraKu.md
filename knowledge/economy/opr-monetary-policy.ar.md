@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "المقترضون أصحاب القروض ذات الأسعار المتغيرة، والمدّخرون، وكل من يحاول فهم أخبار أسعار الفائدة الماليزية."
 
 lang: "ar"
+sourceContentHash: "54922b7bc9867b3f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -53,8 +53,9 @@ obligations:
     consequence: "Pelanggaran di bawah Division 8A"
 
 lang: "id"
+sourceContentHash: "e1b33b50ef55b00c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

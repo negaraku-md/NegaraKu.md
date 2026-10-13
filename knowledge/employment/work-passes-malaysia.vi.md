@@ -38,8 +38,9 @@ verificationNeeded:
   - "Cần xác nhận liệu biến thể DE Rantau Sarawak có mang các mức thu nhập sàn hoặc thời hạn khác với DE Rantau Nomad Pass liên bang hay không"
 
 lang: "vi"
+sourceContentHash: "1cf0d4000ca23029"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

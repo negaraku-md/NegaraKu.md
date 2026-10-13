@@ -44,10 +44,11 @@ verificationNeeded:
   - "كل الوقائع المؤسسية المتكررة على نطاق واسع عن Medini Iskandar Malaysia Sdn Bhd ومساهميها مصدرها غير رسمي ولم تُتحقَّق"
 
 lang: "ar"
+sourceContentHash: "61c45f9103d24eb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố hiểu vì sao thời tiết và nguy cơ ngập lụt của Malaysia thay đổi theo mùa — cư dân vùng ven biển, du khách, người lập kế hoạch phòng chống thiên tai, học sinh học địa lý và bất kỳ ai theo dõi cảnh báo thời tiết của MetMalaysia."
 
 lang: "vi"
+sourceContentHash: "d977d1d40dd0956b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

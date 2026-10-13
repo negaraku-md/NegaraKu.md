@@ -34,8 +34,9 @@ faq:
     a: "Cita-cita (lima tujuan negara seperti perpaduan dan masyarakat adil) adalah tujuan yang hendak dicapai, sedangkan lima prinsip adalah dasar dan panduan hidup untuk mencapai cita-cita tersebut. Keduanya membentuk ikrar lengkap Rukun Negara."
 
 lang: "id"
+sourceContentHash: "d94eca92454b00e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

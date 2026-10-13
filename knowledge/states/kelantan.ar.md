@@ -41,12 +41,13 @@ verificationNeeded:
   - "لم يُذكر عدد مقاعد الجمعية التشريعية للولاية (DUN) والبرلمان عمداً لأنه تعذّر التحقق منه مقابل مصادر SPR الرسمية وقت إعداد هذه المسودة."
 
 lang: "ar"
+sourceContentHash: "869286bde4f6fa80"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

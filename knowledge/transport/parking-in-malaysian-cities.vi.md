@@ -29,8 +29,9 @@ faq:
     a: "Không. Phạt hòa giải đậu xe do PBT cấp theo lệnh giao thông đường bộ liên quan đến đậu xe, trong khi giấy phạt giao thông cho các lỗi lái xe do PDRM hoặc JPJ cấp."
 
 lang: "vi"
+sourceContentHash: "cec9d7c50b142e19"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

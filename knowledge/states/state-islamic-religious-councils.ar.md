@@ -29,12 +29,13 @@ faq:
     a: "إعانة الحاكم وإسداء المشورة إليه في الشؤون الإسلامية، وإدارة الزكاة والوقف والمساجد والمسائل المتصلة بها وفق مرسوم الولاية. كما أن MAIN هو الوصيّ الوحيد على ممتلكات الوقف في الولاية."
 
 lang: "ar"
+sourceContentHash: "d6d15ba266fb5f4b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -49,8 +49,9 @@ obligations:
     consequence: "Permohonan yang dibuat setelah jangka waktu habis tidak dapat dikabulkan; dokumen itu terlambat dan dikenakan penalti Practice Directive 1/2017"
 
 lang: "id"
+sourceContentHash: "311259c2c815e84c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

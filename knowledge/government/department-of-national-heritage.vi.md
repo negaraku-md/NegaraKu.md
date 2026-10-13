@@ -27,8 +27,9 @@ faq:
   - q: "Một người còn sống có thể được tuyên bố là Di sản Quốc gia không?"
     a: "Có. Điều 67 cho phép Bộ trưởng tuyên bố một người còn sống là Di sản Quốc gia, và Sắc lệnh Di sản Quốc gia (Tuyên bố Người còn sống là Di sản Quốc gia) 2012 cung cấp văn kiện chính thức cho hạng mục 'Warisan Orang Hidup'."
 lang: "vi"
+sourceContentHash: "965829d0863e2f00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -32,8 +32,9 @@ faq:
     a: "Secara umum tidak. Pasal 26 menyatakan bahwa perjanjian yang dibuat tanpa imbalan adalah tidak sah, tunduk pada tiga pengecualian: janji tertulis dan terdaftar yang dibuat atas dasar kasih sayang alami antara pihak-pihak yang memiliki hubungan dekat satu sama lain, janji untuk memberi kompensasi bagi sesuatu yang telah dilakukan secara sukarela, dan janji untuk membayar utang yang dihalangi oleh undang-undang kedaluwarsa."
 
 lang: "id"
+sourceContentHash: "a078693f5e3c25a0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "المواطنون الماليزيون الراغبون في تجديد جواز سفر دولي قائم، أو استبدال جواز مفقود/تالف، سواء عبر الإنترنت أو في كاونتر دائرة الهجرة الماليزية (JIM) / UTC."
 
 lang: "ar"
+sourceContentHash: "bf73b9b94f1050d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -31,8 +31,9 @@ faq:
     a: "Bộ Y tế (KKM) tiến hành giám sát và kiểm tra tại các quầy chợ, và có thể ra phạt hành chính theo Food Hygiene Regulations 2009. Chính quyền địa phương, KKM và KPDN cũng tiến hành kiểm tra hằng ngày suốt tháng Ramadan về chất lượng thức ăn, vệ sinh và kiểm soát giá."
 
 lang: "vi"
+sourceContentHash: "571a086b9bbbfa81"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

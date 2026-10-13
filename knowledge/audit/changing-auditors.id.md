@@ -41,8 +41,9 @@ verificationNeeded:
   - "Pastikan apakah SSM menetapkan formulir tertentu bagi pemberitahuan pemecatan s.278 dan pemberitahuan pengunduran diri s.282, dan biaya pengajuan yang berlaku, terhadap ROC Table of Fees terkini"
 
 lang: "id"
+sourceContentHash: "c932d3246ad62000"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

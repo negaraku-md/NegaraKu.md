@@ -33,8 +33,9 @@ faq:
     a: "Tidak, ia tidak dibuka secara permanen. Hibah ini dibiayai dari alokasi anggaran pemerintah yang tetap dan berjalan dalam putaran berkala yang dibuka dan ditutup, jadi ketersediaannya bergantung pada siklus terkini dan sisa dana. Di bawah aturan 2025, usaha yang telah menerima hibah pendamping digital secara umum tidak dapat menuntut lagi, kecuali bagi solusi e-invois. Selalu pastikan apakah suatu putaran sedang dibuka, dan ketentuan tepatnya, di portal resmi BSN atau MDEC."
 
 lang: "id"
+sourceContentHash: "1194109fce71d94d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

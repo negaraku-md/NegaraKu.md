@@ -41,10 +41,11 @@ verificationNeeded:
   - "تأكيد كيفية تفاعل NIF مع بدل إعادة الاستثمار (Reinvestment Allowance) بموجب الجدول 7A ومع موافقات PIA القائمة التي يجري تمديدها أو تعديلها"
 
 lang: "ar"
+sourceContentHash: "aa93955df38668cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

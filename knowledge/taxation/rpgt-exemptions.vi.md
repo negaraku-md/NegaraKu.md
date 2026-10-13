@@ -34,8 +34,9 @@ verificationNeeded:
   - "Tình trạng hiện hành của Form CKHT 502 như lộ trình thanh toán của người nhận chưa được xác nhận với trang thủ tục thanh toán của LHDN và có thể đã bị thay bởi phiếu xác nhận e-CKHT"
 
 lang: "vi"
+sourceContentHash: "6666571281397324"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

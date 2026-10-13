@@ -32,8 +32,9 @@ faq:
     a: "Sửa đổi bắt buộc điều tra công khai trước khi một HSK bị hủy công báo, và nâng mức phạt lên từ RM20,000 đến RM5 triệu cùng án tù từ 7 đến 20 năm. Nó có hiệu lực ở các Lãnh thổ Liên bang từ ngày 1 tháng 2 năm 2025."
 
 lang: "vi"
+sourceContentHash: "068dc65beefd2227"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

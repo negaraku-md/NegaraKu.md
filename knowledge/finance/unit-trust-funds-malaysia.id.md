@@ -34,8 +34,9 @@ faq:
     a: "NAB per unit adalah total nilai pasar aset dana dikurangi liabilitasnya, dibagi dengan jumlah unit yang diterbitkan. Ia adalah harga Anda membeli dan menjual unit, dan ia bergerak setiap hari mengikuti nilai kepemilikan dana. NAB per unit yang meningkat berarti investasi dana telah memperoleh nilai."
 
 lang: "id"
+sourceContentHash: "a2f63906e556e7a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

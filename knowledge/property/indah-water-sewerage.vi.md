@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Chủ nhà, người thuê nhà, ban quản lý phân tầng và người kinh doanh ở Bán đảo Malaysia muốn hiểu IWK thực sự là ai, họ trả cho cái gì, và vì sao nó tách biệt với hóa đơn nước."
 
 lang: "vi"
+sourceContentHash: "b457bd9b79e09115"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

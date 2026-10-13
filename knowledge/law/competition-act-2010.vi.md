@@ -34,8 +34,9 @@ faq:
     a: "Có. Một chương trình khoan hồng có sẵn cho các doanh nghiệp liên quan đến hành vi các-ten theo chiều ngang. Hợp tác sớm có thể được miễn trừ hoặc giảm hình phạt tới 100%, dù một doanh nghiệp đã khởi xướng hoặc ép buộc những bên khác vào các-ten khó có khả năng nhận được mức giảm đầy đủ. Theo các tu chính năm 2026, một con đường dàn xếp riêng cũng có thể giảm một khoản phạt tới 40%."
 
 lang: "vi"
+sourceContentHash: "f67186d884803b44"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

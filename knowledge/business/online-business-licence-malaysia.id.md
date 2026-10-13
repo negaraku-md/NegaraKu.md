@@ -41,8 +41,9 @@ verificationNeeded:
   - "Apakah suatu pelanggaran yang diciptakan oleh perundangan subsidier menarik penalti umum dalam s.145 Consumer Protection Act 1999 — peraturan 9 menciptakan pelanggaran itu tetapi tidak menetapkan penalti, sehingga ini adalah inferensi"
 
 lang: "id"
+sourceContentHash: "b5ad7450f8460c07"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

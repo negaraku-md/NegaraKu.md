@@ -28,8 +28,9 @@ faq:
     a: "Một khoản miễn một phần thu nhập chịu thuế làm giảm thuế suất thuế thu nhập dầu khí hiệu dụng trên các mỏ cận biên đủ điều kiện từ 38% xuống khoảng 25%."
 
 lang: "vi"
+sourceContentHash: "e3d164ca38c307ff"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

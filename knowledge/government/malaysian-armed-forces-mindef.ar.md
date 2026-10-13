@@ -32,12 +32,13 @@ faq:
     a: "عُرضت في مجلس النواب (Dewan Rakyat) في 2 ديسمبر 2019."
 
 lang: "ar"
+sourceContentHash: "3c6e38b833f827d4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -52,8 +52,9 @@ obligations:
     consequence: "Status MD bersifat kekal hanya selama syarat terus dipenuhi"
 
 lang: "id"
+sourceContentHash: "d30f4b105a3a1150"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -27,8 +27,9 @@ verificationNeeded:
   - "Tarif kompaun untuk pelanggaran tertentu di bawah Companies Act 2016 ditetapkan oleh jadwal kompaun SSM di bawah s.588 dan tidak diterbitkan dalam Arahan Amalan 1/2017 — tidak ada angka kompaun yang disebutkan pada halaman ini karena tidak satu pun dapat diverifikasi melalui sumber resmi"
 
 lang: "id"
+sourceContentHash: "352f3b9226a227c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

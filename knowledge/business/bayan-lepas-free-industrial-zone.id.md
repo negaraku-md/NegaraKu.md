@@ -45,8 +45,9 @@ verificationNeeded:
   - "Angka RM435 miliar ekspor Pulau Pinang yang tersebar luas, atau 31 persen dari ekspor negara, tidak dapat dikaitkan dengan situs resmi mana pun."
 
 lang: "id"
+sourceContentHash: "6475dc27ed25022d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

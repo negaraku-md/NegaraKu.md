@@ -30,8 +30,9 @@ faq:
     a: "Kedua negeri menerima hibah khusus di bawah Pasal 112C dan sumber pendapatan tambahan di bawah Bagian V Jadwal Kesepuluh, termasuk bea atas produk petroleum, bea ekspor kayu gelondongan dan hasil hutan, royalti mineral, serta pajak penjualan negeri."
 
 lang: "id"
+sourceContentHash: "f7789909fc78f01b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

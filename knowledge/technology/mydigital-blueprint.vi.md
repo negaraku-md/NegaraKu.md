@@ -36,8 +36,9 @@ faq:
     a: "MyDIGITAL được thiết kế để bổ trợ cho các chính sách phát triển quốc gia như Kế hoạch Malaysia lần thứ 12 (RMKe-12) và Tầm nhìn Thịnh vượng Chung 2030 (WKB 2030), vốn công nhận kinh tế số là một Hoạt động Tăng trưởng Kinh tế Chủ chốt."
 
 lang: "vi"
+sourceContentHash: "ac3f23832d2acdba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Sinh viên, nhà nghiên cứu, nhà báo và bất kỳ ai muốn hiểu chức vụ hiến định của Tổng Chưởng lý từ chính văn bản của Điều 145 của Hiến pháp Liên bang."
 
 lang: "vi"
+sourceContentHash: "1cdb5bbdd1308bf3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Konsumen di Malaysia yang membeli barang atau layanan dan ingin mengetahui hak apa yang mereka miliki serta cara mengajukan tuntutan berbiaya rendah — bukan bisnis yang mempertahankan suatu tuntutan, dan bukan sengketa yang dikecualikan secara jelas oleh Tribunal."
 
 lang: "id"
+sourceContentHash: "b22efe69c2b27bab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

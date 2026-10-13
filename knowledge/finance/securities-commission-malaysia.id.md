@@ -32,8 +32,9 @@ faq:
     a: "Ya. SC memperkenalkan kerangka urun dana berbasis ekuitas (berlaku 10 Februari 2015) dan kerangka pembiayaan peer-to-peer (April 2016), keduanya beroperasi sebagai pasar yang diakui di bawah peraturannya."
 
 lang: "id"
+sourceContentHash: "e26f048f1170e63c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

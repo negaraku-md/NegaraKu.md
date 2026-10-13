@@ -41,10 +41,11 @@ verificationNeeded:
   - "ما إذا كان الاستثناء الخاص بالمراهنات والألعاب للكازينوهات وآلات الألعاب قد رُفِع — تذكر LHDN أنه ينطبق حتى إشعار آخر بلا تاريخ انتهاء منشور"
 
 lang: "ar"
+sourceContentHash: "881bae66be5fb011"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

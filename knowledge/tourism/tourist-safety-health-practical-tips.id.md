@@ -31,8 +31,9 @@ faq:
     a: "Tiada persyaratan vaksin masuk universal, tetapi CDC Amerika Serikat menasihati wisatawan agar terkini dengan vaksin rutin dan mempertimbangkan hepatitis A dan tifoid; bahas pil rabies, ensefalitis Jepang dan malaria dengan klinik perjalanan berdasarkan rencana perjalanan Anda."
 
 lang: "id"
+sourceContentHash: "e99fd08a031d5f4f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

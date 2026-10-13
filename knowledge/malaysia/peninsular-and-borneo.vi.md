@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Du khách, doanh nghiệp và bất kỳ ai đang cố hiểu vì sao 'Malaysia' đôi khi hành xử như hai hệ thống hành chính chia sẻ một hộ chiếu và một lá cờ."
 
 lang: "vi"
+sourceContentHash: "da887efa0f358f15"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

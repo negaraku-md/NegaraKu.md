@@ -24,8 +24,9 @@ appliesTo: "Pemilik usaha dan staf keuangan yang mencoba mengidentifikasi bagian
 verificationNeeded: []
 
 lang: "id"
+sourceContentHash: "0ee2d291cdce3d2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

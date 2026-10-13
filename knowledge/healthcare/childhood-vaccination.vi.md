@@ -25,8 +25,9 @@ verificationNeeded:
   - "Chi tiết về vắc-xin bổ sung/tùy chọn (ví dụ vắc-xin không bắt buộc được cung cấp có tính phí) không thể được xác nhận trên nguồn chính thức của KKM tại thời điểm viết và do đó không được nêu cụ thể trong bài viết này."
 
 lang: "vi"
+sourceContentHash: "e3c51524a621f167"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

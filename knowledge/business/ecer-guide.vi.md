@@ -42,8 +42,9 @@ verificationNeeded:
   - "Bất kỳ mục tiêu chính thức năm 2025 hoặc 2026 nào cho Kuantan New Deep Water Terminal Phase 2. Tính đến tháng 4 năm 2025 Giai đoạn 2 vẫn đang trong quy hoạch; mốc có ngày tháng chắc chắn duy nhất tìm thấy là mang tính hợp đồng (hoàn tất trước tháng 12 năm 2039 để đảm bảo một gia hạn nhượng quyền đến năm 2075), không phải một mục tiêu khởi động hoặc hoàn tất trong ngắn hạn."
 
 lang: "vi"
+sourceContentHash: "a51699526b272fe8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

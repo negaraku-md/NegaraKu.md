@@ -29,8 +29,9 @@ faq:
     a: "Điều 38(6) trao cho Hội đồng các Quốc vương quyền phế truất Agong. Theo các bình luận pháp lý, quyền này chưa bao giờ được sử dụng trong suốt lịch sử quốc gia."
 
 lang: "vi"
+sourceContentHash: "f2d2c6ec105b4198"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

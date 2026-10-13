@@ -29,10 +29,11 @@ faq:
     a: "عزيز الحسني أوانغ، الحائز على ميداليتين أولمبيتين (برونزية 2016، فضية 2020) وبطل العالم في الكيرين عام 2017."
 
 lang: "ar"
+sourceContentHash: "490abb68b2e39c44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

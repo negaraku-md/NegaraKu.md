@@ -30,10 +30,11 @@ faq:
     a: "لا. تقرير عتبة النقد للمعاملات النقدية بقيمة RM25,000 فأكثر ينطبق فقط على المؤسسات المصرفية، ومؤسسات مالية تنموية مختارة، وLembaga Tabung Haji، والكازينو المرخَّص. ويظل على DNFBP التزام STR."
 
 lang: "ar"
+sourceContentHash: "ed7c9043d8d06f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

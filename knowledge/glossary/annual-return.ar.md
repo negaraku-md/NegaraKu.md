@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "مديرو الشركات وأمناء سر الشركات وكل من يتحمل مسؤولية الامتثال المؤسسي."
 
 lang: "ar"
+sourceContentHash: "4458f7c26c528c99"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

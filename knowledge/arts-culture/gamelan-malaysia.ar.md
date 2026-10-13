@@ -33,10 +33,11 @@ faq:
     a: "أُعيدت مجموعة الغاملان الأصلية إلى باهانغ عام 1973، وتُعرَض في متحف باهانغ في بيكان."
 
 lang: "ar"
+sourceContentHash: "c60f9bc5987b416f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

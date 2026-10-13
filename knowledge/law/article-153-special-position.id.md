@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang mencari penjelasan deskriptif ayat demi ayat tentang apa yang ditetapkan oleh Pasal 153 dan apa yang dikecualikannya, tanpa menghakimi perdebatan politik di sekitarnya."
 
 lang: "id"
+sourceContentHash: "db5076f747cd8ba7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

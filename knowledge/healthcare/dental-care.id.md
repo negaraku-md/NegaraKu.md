@@ -25,8 +25,9 @@ verificationNeeded:
   - "Jumlah tepat bidang kepakaran gigi di rumah sakit KKM dan rincian cakupan klinik gigi spesialis tidak dapat diverifikasi secara langsung karena laman resmi hq.moh.gov.my/ohp tidak dapat diakses (connection refused) saat penulisan; uraian dalam artikel ini tetap umum dan tidak menyatakan jumlah khusus."
   - "Kebijakan pengecualian biaya bagi lansia, anak-anak, dan kelompok tertentu di klinik gigi pemerintah disebut secara luas dalam sumber sekunder, tetapi tidak diverifikasi di sini karena artikel ini sengaja tidak menyatakan biaya — silakan rujuk loket pendaftaran klinik terkait untuk informasi terkini."
 lang: "id"
+sourceContentHash: "4e874b9f524ab414"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

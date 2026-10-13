@@ -32,8 +32,9 @@ faq:
     a: "Pasal 2 mendefinisikan perilaku tidak patut sebagai perilaku apa pun yang, jika dibuktikan, merupakan suatu pelanggaran disipliner atau suatu tindak pidana. 'Pelanggaran disipliner' didefinisikan secara terpisah untuk mencakup pelanggaran disiplin dalam suatu badan publik atau swasta di bawah suatu undang-undang, kode tata perilaku, kode etik, surat edaran, atau kontrak kerja, sehingga istilah itu mencakup berbagai jenis kesalahan, dari korupsi hingga pelanggaran di tempat kerja."
 
 lang: "id"
+sourceContentHash: "b93871feeca0ccf6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

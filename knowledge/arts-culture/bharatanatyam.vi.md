@@ -32,8 +32,9 @@ seoTitle: "Bharatanatyam ở Malaysia: Giải thích hình thức múa cổ đi�
 socialTitle: "Điệu múa cổ điển của Nam Ấn bén rễ ở Malaysia ra sao"
 
 lang: "vi"
+sourceContentHash: "f61cd4f8304d521c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

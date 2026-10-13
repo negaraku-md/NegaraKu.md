@@ -27,8 +27,9 @@ verificationNeeded:
   - "Cách MCMC đo số lượng người dùng tám triệu trên thực tế, và kỳ tham chiếu được dùng"
 
 lang: "vi"
+sourceContentHash: "4b67b928b9834e6c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

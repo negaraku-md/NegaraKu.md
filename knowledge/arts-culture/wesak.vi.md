@@ -18,8 +18,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai ở Malaysia — theo Phật giáo hay không — muốn có một trình bày rõ ràng, chính xác về Ngày Wesak là gì, rơi vào khi nào, và được cử hành ra sao, bao gồm cả người sử dụng lao động và người lao động kiểm tra ngày nghỉ lễ công cộng."
 
 lang: "vi"
+sourceContentHash: "87814a02e5e75f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

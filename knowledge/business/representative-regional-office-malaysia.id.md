@@ -33,8 +33,9 @@ faq:
     a: "Badan Pembangunan Investasi Malaysia (MIDA) menyetujui permohonan, yang diajukan melalui portal Invest Malaysia. Permohonan bagi perbankan dan jasa keuangan ditangani oleh Bank Negara Malaysia (Bank Sentral Malaysia)."
 
 lang: "id"
+sourceContentHash: "9170883af9a3f4af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

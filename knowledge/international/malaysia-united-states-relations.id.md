@@ -32,8 +32,9 @@ faq:
     a: "USTR menempatkan total perdagangan barang bilateral pada perkiraan US$88.5 miliar pada 2025 (US$28.9 miliar ekspor AS, US$59.7 miliar impor). Data Biro Sensus AS menempatkan perdagangan barang bilateral 2024 hampir US$80 miliar, dan kementerian luar negeri Malaysia mengutip total perdagangan sebesar RM324.91 miliar (US$71.39 miliar) untuk 2024."
 
 lang: "id"
+sourceContentHash: "6acdeba029dc19eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

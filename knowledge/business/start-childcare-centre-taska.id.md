@@ -33,8 +33,9 @@ faq:
     a: "Merupakan tindak pidana di bawah Akta Taman Asuhan Kanak-Kanak 1984 untuk mengelola pusat penitipan anak yang tidak didaftarkan dengan JKM. Ketika dinyatakan bersalah, penaltinya adalah denda hingga RM10,000 atau penjara hingga dua tahun, atau keduanya, dengan penalti yang lebih berat bagi pelanggaran berulang. JKM juga dapat memerintahkan pusat itu ditutup. Daftarlah sebelum Anda menerima anak mana pun."
 
 lang: "id"
+sourceContentHash: "1ebf1ee2a2053f70"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

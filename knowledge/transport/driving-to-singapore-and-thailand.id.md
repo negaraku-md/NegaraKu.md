@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Pengemudi Malaysia yang berencana mengemudi mobil sendiri melintasi Tambak Johor atau Laluan Kedua ke Singapura, atau melintasi perbatasan darat utara ke Thailand."
 
 lang: "id"
+sourceContentHash: "4dfab6647457152e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

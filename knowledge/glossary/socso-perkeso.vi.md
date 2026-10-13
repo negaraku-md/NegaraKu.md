@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Người sử dụng lao động, các bộ phận nhân sự và tính lương, cùng người lao động khu vực tư nhân ở Malaysia muốn hiểu về các khoản khấu trừ lương theo luật định."
 
 lang: "vi"
+sourceContentHash: "9085a7b0c1f610fb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

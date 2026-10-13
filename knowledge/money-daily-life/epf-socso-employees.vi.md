@@ -24,8 +24,9 @@ verificationNeeded:
   - "Trang chính thức kwsp.gov.my chặn truy cập tự động (403) tại thời điểm viết bài này. Mức đóng góp KWSP được trích dẫn (11 phần trăm người lao động; 13/12 phần trăm người sử dụng lao động theo bậc lương) được xác nhận qua tìm kiếm trích xuất trực tiếp đoạn văn từ chính văn bản kwsp.gov.my, và nhất quán với bài epf-employer-guide trên trang này vốn cũng trích dẫn kwsp.gov.my. Vui lòng xác nhận lại trực tiếp tại kwsp.gov.my/en/epf-act-1991-third-schedule khi trang đó có thể truy cập."
 
 lang: "vi"
+sourceContentHash: "91cbd7d0dece19b9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

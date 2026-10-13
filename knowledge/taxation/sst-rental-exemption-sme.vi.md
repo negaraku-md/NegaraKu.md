@@ -33,8 +33,9 @@ faq:
     a: "Không. Thuế dịch vụ áp dụng cho các dịch vụ cho thuê hoặc thuê tài chính được cung cấp từ ngày 1 tháng 7 năm 2025 trở đi. Tiền thuê liên quan đến một giai đoạn trước ngày đó không chịu thuế, bất kể được xuất hóa đơn hay thanh toán khi nào. Chính phủ cũng thông báo rằng sẽ không truy tố hoặc áp dụng hình phạt cho đến ngày 31 tháng 12 năm 2025 đối với các doanh nghiệp đang thực hiện các bước để tuân thủ, cho một thời gian ân hạn để đăng ký và điều chỉnh hệ thống."
 
 lang: "vi"
+sourceContentHash: "58ee2a784ad7e751"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -36,10 +36,11 @@ faq:
     a: "في 2020، أبلغ وزير الطاقة والموارد الطبيعية آنذاك، داتوك د. شمس الأنور نصارة (Datuk Dr Shamsul Anuar Nasarah)، البرلمان بأنه ينبغي مراجعة الخطة بسبب كلفتها — أثر مالي على الحكومة يناهز RM5 مليار، فوق التزامات شراء طاقة بقيمة RM60–80 مليار كان على الحكومة أن تتحمّلها. ومنذ ذلك الحين استمرّ الإصلاح في خطوات أصغر ومحددة الهدف بدلًا من تحرير واحد كبير دفعةً واحدة."
 
 lang: "ar"
+sourceContentHash: "5e135be7df9c9a11"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Pelajar dan peneliti hukum yang mencoba memetakan sistem hukum Malaysia untuk pertama kali, siapa saja yang mencoba mengidentifikasi badan hukum mana yang mengatur suatu persoalan tertentu, dan pembaca yang selalu melihat 'negara common law' dan 'hukum Islam' dan 'adat' digunakan berdampingan tanpa diberi tahu bagaimana sebenarnya mereka saling berkaitan."
 
 lang: "id"
+sourceContentHash: "f4b71230618caa4c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

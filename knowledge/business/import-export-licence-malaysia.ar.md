@@ -31,10 +31,11 @@ faq:
     a: "يتيح لك ePermit، وهو خدمة ويب تشغّلها Dagang Net Technologies ضمن النافذة الوطنية الموحّدة، التقدم بطلب إلى عدة جهات مختصة بإصدار التصاريح عبر الإنترنت. وتُرسَل التصاريح المعتمَدة إلكترونيًا إلى الجمارك للتحقق منها مقابل إقرارك."
 
 lang: "ar"
+sourceContentHash: "f453f5001ae25d26"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

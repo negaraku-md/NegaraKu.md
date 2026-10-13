@@ -31,10 +31,11 @@ faq:
     a: "تراجعت أعداد الجالية تراجعاً حاداً — من نحو 400 أسرة في الثمانينيات إلى أقل من 50 أسرة اليوم، بحسب مجلس التراث الوطني في سنغافورة (Roots) — في حين يقدّر تقرير لـ Free Malaysia Today أن نحو 20 إلى 30 أسرة فقط ما زالت تعيش في كامبونغ تشيتي. ويربط الباحثون هذا التراجع بالزواج المختلط والهجرة إلى الخارج وفقدان الأجيال الأصغر صلتها بجذورها التشيتية على نحو متزايد."
 
 lang: "ar"
+sourceContentHash: "f11ad6d038f7a742"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

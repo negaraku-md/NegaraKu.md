@@ -31,8 +31,9 @@ faq:
     a: "Rồi. Oxford English Dictionary đã bổ sung một số từ tiếng Anh Malaysia qua các lần cập nhật liên tiếp, gồm lepak, shiok và teh tarik năm 2016, một vài từ Manglish và từ chỉ món ăn Malaysia gồm mamak, kopitiam và atas cuối năm đó, và các từ như boleh, agak-agak và wayang trong một lần cập nhật sau đó — công nhận cách dùng đã xác lập của Malaysia chứ không phải phát minh ra tiếng Anh mới."
 
 lang: "vi"
+sourceContentHash: "8f82ee70d6e9258e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

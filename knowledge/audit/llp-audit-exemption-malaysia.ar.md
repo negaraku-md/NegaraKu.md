@@ -29,10 +29,11 @@ faq:
     a: "مدة لا تقل عن سبع سنوات من نهاية السنة المالية التي تتعلق بها المعاملات (المادة 69(2))."
 
 lang: "ar"
+sourceContentHash: "6c21f7bda1b829f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

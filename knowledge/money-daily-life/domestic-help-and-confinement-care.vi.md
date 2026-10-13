@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Các hộ gia đình tại Malaysia đang cân nhắc một người giúp việc gia đình nước ngoài sống tại nhà, giúp việc bán thời gian tại địa phương, hoặc chăm sóc ở cữ (người trông hoặc trung tâm) sau khi sinh."
 
 lang: "vi"
+sourceContentHash: "1482c677a5d90d95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -35,12 +35,13 @@ faq:
     a: "تُعدِّد المادة 106 استثناءات لا تُشترَط فيها الإحالة إلى هيئة صلح — مثلًا العرائض بموجب المادتين 51 (الاعتناق) و52 (الرضا المتبادل)، أو حيث يكون مكان الزوج مجهولًا، أو يقيم المدَّعى عليه في الخارج ومن غير المرجح دخوله الولاية القضائية خلال ستة أشهر، أو تعمّد عدم الحضور، أو كان مسجونًا خمس سنوات أو أكثر، أو يُزعَم أنه مصاب بمرض عقلي لا يُشفى، أو حيث تقتنع المحكمة بأن ظروفًا استثنائية تجعل الإحالة غير عملية."
 
 lang: "ar"
+sourceContentHash: "608158d08520f03a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu một cách mô tả cách các thượng nghị sĩ Malaysia được bầu và bổ nhiệm, và Dewan Negara có thể ảnh hưởng đến tiến trình của một dự luật đến mức nào."
 
 lang: "vi"
+sourceContentHash: "795be8860e769da6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "Hai cục (Cục Kỹ thuật số Quốc gia và Cục Bảo vệ Dữ liệu Cá nhân) cùng bốn cơ quan: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad và MYNIC Berhad."
 
 lang: "vi"
+sourceContentHash: "8890a54407574604"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

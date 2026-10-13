@@ -34,10 +34,11 @@ faq:
     a: "في الوقت الراهن، لا يحدّ الدستور مدة الولاية. وفي عام 2026، اقتُرح مشروع قانون لتعديل الدستور يحدّ مدة ولاية رئيس الوزراء بما مجموعه عشر سنوات؛ وينبغي التحقق من الوضع النهائي لذلك التعديل مقابل المصادر الرسمية."
 
 lang: "ar"
+sourceContentHash: "a4359d9c03eadb4d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

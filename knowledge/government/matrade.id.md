@@ -26,8 +26,9 @@ verificationNeeded:
   - "Angka 47 kantor luar negeri didukung oleh dua laporan berita 2026 yang bertanggal secara independen dan mengutip ketua serta ketua pegawai eksekutif MATRADE sendiri, tetapi tidak diperiksa silang dengan halaman direktori kantor yang dihosting oleh MATRADE, yang tidak dapat diperoleh sepenuhnya oleh upaya akses artikel ini"
 
 lang: "id"
+sourceContentHash: "53582e357950bce0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

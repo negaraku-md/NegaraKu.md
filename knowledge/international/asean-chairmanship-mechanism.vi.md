@@ -30,8 +30,9 @@ faq:
     a: "Một năm dương lịch trọn vẹn, từ ngày 1 tháng 1 đến ngày 31 tháng 12. Philippines tiếp quản từ Malaysia vào ngày 1 tháng 1 năm 2026."
 
 lang: "vi"
+sourceContentHash: "be6127ce5cca4347"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

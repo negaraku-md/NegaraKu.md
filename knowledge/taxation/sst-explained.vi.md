@@ -24,8 +24,9 @@ appliesTo: "Chủ doanh nghiệp và nhân viên tài chính đang cố xác đ�
 verificationNeeded: []
 
 lang: "vi"
+sourceContentHash: "0ee2d291cdce3d2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

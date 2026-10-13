@@ -27,8 +27,9 @@ faq:
   - q: "Undang-undang apa yang digunakan KPDN untuk mengendalikan harga?"
     a: "Ia bergantung terutama pada Akta Kawalan Bekalan 1961 dan Akta Kawalan Harga dan Anti-Pencatutan 2011, yang memungkinkannya menetapkan batas harga, mewajibkan pemajangan harga, dan bertindak terhadap keuntungan yang tidak wajar tinggi."
 lang: "id"
+sourceContentHash: "bc54d858f6180b54"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

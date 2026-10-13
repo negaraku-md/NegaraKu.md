@@ -39,8 +39,9 @@ obligations:
     consequence: "Chế tài 10%, tăng lên 25% ở 60 ngày và 40% ở 90 ngày, cộng với truy tố"
 
 lang: "vi"
+sourceContentHash: "07b54b26f9327d7f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

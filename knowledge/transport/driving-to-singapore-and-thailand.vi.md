@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Người lái xe Malaysia dự định lái chính chiếc xe của mình qua Causeway hoặc Second Link vào Singapore, hoặc qua biên giới đất liền phía bắc vào Thái Lan."
 
 lang: "vi"
+sourceContentHash: "4dfab6647457152e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

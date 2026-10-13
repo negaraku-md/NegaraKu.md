@@ -33,8 +33,9 @@ faq:
     a: "Hai khoản thuế có thể áp dụng. Chuyển nhượng cổ phần chịu thuế trước bạ theo giá trị (ad valorem) là 0,3% (RM3 trên mỗi RM1,000) trên giá trị cao hơn giữa khoản đối giá hoặc giá trị thị trường của cổ phần. Và kể từ khi thuế lãi vốn có hiệu lực đối với các công ty vào năm 2024, chuyển nhượng cổ phần của công ty Malaysia chưa niêm yết có thể kích hoạt CGT — nhìn chung là 10% khoản lãi ròng. Miễn giảm thuế trước bạ có thể có sẵn cho các chuyển nhượng giữa các công ty liên kết, nên hãy xác nhận các điều kiện hiện hành trước khi tái cấu trúc."
 
 lang: "vi"
+sourceContentHash: "f500684433842383"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

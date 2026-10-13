@@ -43,8 +43,9 @@ verificationNeeded:
   - "Xác nhận liệu có bất kỳ sửa đổi nào sau năm 2006 đối với Act 136 hay không; văn bản được cập nhật của AGC được nêu là tính đến ngày 1 tháng 1 năm 2006 và danh sách các mục được sửa đổi của nó dừng lại ở năm 1974"
 
 lang: "vi"
+sourceContentHash: "e471e60c661a356c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

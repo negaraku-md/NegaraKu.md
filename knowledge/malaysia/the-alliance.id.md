@@ -29,8 +29,9 @@ faq:
     a: "Sebuah memorandum bersama yang disampaikan oleh Perikatan kepada Suruhanjaya Reid pada 1956, yang menetapkan pendirian koalisi itu yang telah disepakati mengenai Raja-Raja Melayu, Islam sebagai agama Federasi, bahasa Melayu, kedudukan istimewa orang Melayu, dan kewarganegaraan. Laporan Suruhanjaya pada 1957 mempertimbangkan memorandum yang diterimanya, termasuk penyerahan Perikatan."
 
 lang: "id"
+sourceContentHash: "8468b6263efa9db8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

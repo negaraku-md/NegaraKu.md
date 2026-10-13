@@ -27,9 +27,10 @@ faq:
   - q: "هل تدير KKM المستشفيات الخاصة؟"
     a: "لا. تشغّل KKM المستشفيات والعيادات العامة، وتنظّم على نحو منفصل الرعاية الصحية الخاصة بموجب قانون مرافق وخدمات الرعاية الصحية الخاصة لسنة 1998 (Private Healthcare Facilities and Services Act 1998 (Act 586))، الذي يضع حدًا أدنى لمعايير الجودة والسلامة، ويحدّد سقفًا للرسوم التي يجوز للأطباء تقاضيها عن الإجراءات."
 lang: "ar"
+sourceContentHash: "3996608aeba4590f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

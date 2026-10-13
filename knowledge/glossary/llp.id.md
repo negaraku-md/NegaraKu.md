@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "Pendiri, praktisi profesional, dan penasihat yang sedang memilih antara LLP dan Sdn Bhd, atau yang membaca nama PLT pada suatu kontrak."
 
 lang: "id"
+sourceContentHash: "9e60329bba13d6ae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

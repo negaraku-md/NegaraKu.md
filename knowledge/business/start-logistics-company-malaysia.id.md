@@ -33,8 +33,9 @@ faq:
     a: "Tidak dengan mudah. Lisensi Pembawa A (sewa dan upah) memerlukan ekuitas mayoritas Malaysia dengan komponen Bumiputera dan modal disetor minimum, jadi sebuah perusahaan angkutan yang melayani pihak ketiga sebenarnya dikhususkan untuk perusahaan mayoritas lokal. Grup berafiliasi asing biasanya masuk melalui status IILS dan lisensi kastam/ekspedisi, atau dengan membawa barang mereka sendiri di bawah Lisensi Pembawa C. Verifikasi pembagian ekuitas dan tingkat modal yang tepat dengan APAD dan MIDA sebelum Anda menyusun kepemilikan saham."
 
 lang: "id"
+sourceContentHash: "20e231750b299d33"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

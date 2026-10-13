@@ -50,8 +50,9 @@ obligations:
     consequence: "Tội danh của công ty và mọi người vi phạm điều khoản"
 
 lang: "vi"
+sourceContentHash: "163b4a51c3a94a50"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

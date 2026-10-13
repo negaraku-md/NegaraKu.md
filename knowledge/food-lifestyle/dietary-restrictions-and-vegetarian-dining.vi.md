@@ -29,8 +29,9 @@ faq:
     a: "Có. Nhiều người Malaysia theo Hindu giáo tránh thịt bò, nên các thực đơn không thịt bò rất phổ biến, và hầu hết các nhà hàng chay Ấn Độ hoàn toàn không phục vụ thịt. Các thực đơn người Hoa và Malay có dùng thịt bò, nên hãy kiểm tra món ăn nếu bạn tránh nó."
 
 lang: "vi"
+sourceContentHash: "b8a6bb42bf674ded"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

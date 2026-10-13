@@ -32,12 +32,13 @@ faq:
     a: "تذكر بوابة MyGovernment أن القرار دائم ولا رجعة فيه؛ فالشخص الذي يتخلّى عن جنسيته يفقد بصفة دائمة كل الحقوق والامتيازات بوصفه مواطناً ماليزياً."
 
 lang: "ar"
+sourceContentHash: "350dd3e83765a9b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

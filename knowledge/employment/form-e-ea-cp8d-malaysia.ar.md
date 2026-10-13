@@ -60,10 +60,11 @@ obligations:
     consequence: "تُعامَل Form E على أنها غير مقدَّمة حتى تصل CP8D؛ مخالفة بموجب المادة 120(1) من ITA 1967"
 
 lang: "ar"
+sourceContentHash: "d4c8b31804f425e6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

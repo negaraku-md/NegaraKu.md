@@ -42,8 +42,9 @@ verificationNeeded:
   - "Apakah pendaftaran SSM secara formal diperlukan untuk pemilik tunggal Sabah — DBKK tidak mencantumkannya di antara dokumen yang diperlukan"
 
 lang: "id"
+sourceContentHash: "0a22774d2a85e872"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

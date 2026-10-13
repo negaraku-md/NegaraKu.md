@@ -32,8 +32,9 @@ faq:
     a: "Portal MyGovernment menyatakan keputusan itu permanen dan tidak dapat ditarik kembali; seseorang yang melepaskan kewarganegaraannya kehilangan secara permanen semua hak dan keistimewaan sebagai warga negara Malaysia."
 
 lang: "id"
+sourceContentHash: "350dd3e83765a9b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

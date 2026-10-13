@@ -59,8 +59,9 @@ obligations:
     consequence: "Hilangnya keringanan penalti transisi jika langkah-langkah wajar tidak diambil"
 
 lang: "id"
+sourceContentHash: "f4ebb2767afaf5b6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

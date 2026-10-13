@@ -56,8 +56,9 @@ obligations:
     consequence: "Pilihan tidak tersedia untuk tahun itu; begitu dibuat ia tidak pernah dapat dibalikkan"
 
 lang: "id"
+sourceContentHash: "f2863a53f5f454a9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

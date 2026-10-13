@@ -32,8 +32,9 @@ faq:
     a: "Keluarga Kristen merayakan hari ini secara keagamaan melalui ibadah gereja. Selain itu, Natal turut dirayakan secara lebih luas dalam kehidupan publik — pusat perbelanjaan dan hotel memasang hiasan serta menyelenggarakan penjualan musiman, dan tradisi rumah terbuka yang mengundang tamu berbagai latar belakang untuk makan bersama turut menjadi lazim. Keikutsertaan dalam aspek sosial dan kemeriahan musim ini tidak terbatas pada penganut Kristen saja."
 
 lang: "id"
+sourceContentHash: "4331ba5a016fc700"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

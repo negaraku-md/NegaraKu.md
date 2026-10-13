@@ -36,10 +36,11 @@ faq:
     a: "بينانغ وجهة لكل فصول السنة بمناخ استوائي حارّ ورطب. وقد يهطل المطر في أي شهر لكنه يميل إلى أن يكون أغزر حول فترتَي ما بين الرياح الموسمية (نحو أبريل–مايو وسبتمبر–نوفمبر)؛ والنافذة الأكثر جفافًا وبرودة نحو ديسمبر إلى فبراير شائعة. والصباح والعصر أكثر الأوقات راحةً للمشي."
 
 lang: "ar"
+sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

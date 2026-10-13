@@ -33,9 +33,10 @@ faq:
     a: "الماغاڤاو طقس شكر لتكريم روح الأرز بامبازون و«استدعائها إلى الديار» بعد الحصاد. وتقوده تقليديًا بوبوهيزان (bobohizan، وتُكتب أيضًا bobolian)، وهي كاهنة تتلو الأناشيد الطقسية. وهو أحد أقدم العناصر الاحتفالية في كامتان."
 
 lang: "ar"
+sourceContentHash: "77931677eb9c36e1"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

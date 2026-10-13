@@ -56,10 +56,11 @@ obligations:
     consequence: "تسقط البراءة؛ وتنطبق فترة سماح ستة أشهر مقابل دفع رسم إضافي يعادل 100% من رسم العام المعني"
 
 lang: "ar"
+sourceContentHash: "00f4afd78d3da72e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

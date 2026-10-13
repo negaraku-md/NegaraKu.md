@@ -37,8 +37,9 @@ faq:
 obligations: []
 
 lang: "vi"
+sourceContentHash: "536e73b2ed782672"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

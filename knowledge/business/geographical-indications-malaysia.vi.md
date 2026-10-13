@@ -29,8 +29,9 @@ faq:
     a: "Mười năm kể từ ngày đăng ký, có thể gia hạn cho các giai đoạn mười năm tiếp theo vô thời hạn (mục 18 và 19)."
 
 lang: "vi"
+sourceContentHash: "a1ee81a205bbd043"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

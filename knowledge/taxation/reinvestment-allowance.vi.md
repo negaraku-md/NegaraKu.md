@@ -41,8 +41,9 @@ verificationNeeded:
   - "Mức năng suất được quy định mở khóa khoản miễn 100% trong điều khoản bổ sung của paragraph 3 của Schedule 7A được Bộ trưởng đặt và được tính trên biểu mẫu yêu cầu RA; ngưỡng được quy định hiện hành chưa được xác nhận từ một nguồn sơ cấp."
 
 lang: "vi"
+sourceContentHash: "8240b93cc8d8dcd0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

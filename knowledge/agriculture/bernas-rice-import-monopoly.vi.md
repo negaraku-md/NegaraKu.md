@@ -30,8 +30,9 @@ faq:
     a: "Nhượng quyền hiện tại có hiệu lực cho giai đoạn 2021 đến 2031. Vào tháng 7 năm 2026, chính phủ xác nhận sẽ rà soát vai trò nhà nhập khẩu duy nhất của BERNAS trước khi nhượng quyền đó kết thúc."
 
 lang: "vi"
+sourceContentHash: "887cca88638d8c9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -40,8 +40,9 @@ faq:
 verificationNeeded: []
 
 lang: "id"
+sourceContentHash: "3785ffffd64c7cff"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

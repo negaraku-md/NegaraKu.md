@@ -25,10 +25,11 @@ verificationNeeded:
   - "أعادت صفحة سياسة التسجيل الرقمي / e-KYC لدى BNM خطأ 403 عند الجلب الآلي وقت الكتابة؛ ووجودها وعنوانها مؤكَّدان مباشرةً من نتائج بحث bnm.gov.my، لكن ينبغي إعادة التحقق من تفاصيل الأهلية الدقيقة مباشرةً على bnm.gov.my عند إتاحته."
 
 lang: "ar"
+sourceContentHash: "52307f4fb8c11cd2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

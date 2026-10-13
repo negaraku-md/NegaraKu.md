@@ -31,8 +31,9 @@ faq:
     a: "Các công viên biển ở Bán đảo được công báo theo Đạo luật Nghề cá 1985. Nó tạo ra một vùng bảo vệ hai hải lý từ đảo nơi các hoạt động như quấy rầy rùa làm tổ và nhặt rùa con bị cấm."
 
 lang: "vi"
+sourceContentHash: "3ba84882f4818881"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

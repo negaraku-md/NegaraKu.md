@@ -18,8 +18,9 @@ keyTakeaways:
   - "Quyền làm luật được chia giữa liên bang và các bang bởi các Danh mục Liên bang, Bang và Đồng thời của Phụ lục thứ Chín"
 appliesTo: "Bất kỳ ai mới đến Malaysia muốn hiểu đây là loại quốc gia gì về mặt hiến định, trước khi đi sâu vào bất kỳ định chế đơn lẻ nào."
 lang: "vi"
+sourceContentHash: "8088b5defbdcad1c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

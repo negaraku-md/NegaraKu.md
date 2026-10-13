@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai cần xác định cơ quan cấp một giấy tờ di trú Malaysia — hộ chiếu, thị thực, giấy phép lưu trú hoặc giấy phép nhập cảnh — và bài viết nào giải thích từng quy trình."
 
 lang: "vi"
+sourceContentHash: "baf28f912e1a7295"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Tidak secara langsung. Jaminan keuangan adalah liabilitas kontinjensi; hal itu menjadi utang hanya jika terealisasi. Akta 850 membatasi jaminan keuangan hingga 25% KDNK dan mewajibkan pernyataan risiko fiskal tahunan untuk mengungkapkan eksposur ini."
 
 lang: "id"
+sourceContentHash: "1dc4f0df2320f2a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

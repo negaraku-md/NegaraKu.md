@@ -57,10 +57,11 @@ obligations:
     consequence: "Fine up to RM50,000 plus up to RM500 per day on the company and every officer, under s.258(3)"
 
 lang: "ar"
+sourceContentHash: "c624788a072a7927"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -27,8 +27,9 @@ faq:
   - q: "Điều gì thay đổi với sửa đổi 2020?"
     a: "Luật Giao thông Đường bộ (Sửa đổi) 2020 có hiệu lực vào ngày 23 October 2020. Nó tăng các hình phạt và thời hạn tước quyền lái xe đối với lái xe ẩu và nguy hiểm cùng lái xe khi say (điều 41-45A), hạ các giới hạn nồng độ cồn quy định xuống chuẩn WHO, và bổ sung định nghĩa 'xe di chuyển vi mô' (micromobility vehicle)."
 lang: "vi"
+sourceContentHash: "e438c79ab71a1dba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

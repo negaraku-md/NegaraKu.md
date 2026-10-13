@@ -41,10 +41,11 @@ verificationNeeded:
   - "تأكَّد مما غيّره قانون الشركات (التعديل) لسنة 2024 (Companies (Amendment) Act 2024 (Act A1701)) في المادة 68، وهو داخل نطاق تعديله، ومما إذا كان أي تغيير قد دخل حيّز النفاذ بعد"
 
 lang: "ar"
+sourceContentHash: "333c372fcdca64b9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

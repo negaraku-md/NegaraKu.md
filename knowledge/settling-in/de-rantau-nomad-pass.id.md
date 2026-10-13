@@ -31,8 +31,9 @@ faq:
     a: "Ya. Pasangan atau pasangan de facto, anak di bawah 18 tahun, anak penyandang disabilitas, dan orang tua pemegang utama dapat mengajukan sebagai tanggungan, tetapi pasangan tidak boleh bekerja di bawah pas ini."
 
 lang: "id"
+sourceContentHash: "f5c5f5f455206b06"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

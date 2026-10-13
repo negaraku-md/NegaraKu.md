@@ -35,8 +35,9 @@ seoTitle: "Orang Asli: ba nhóm chính, 18 tộc người và JAKOA"
 socialTitle: "Orang Asli là ai — ba nhóm, 18 tộc người, và cơ quan chăm lo cho họ"
 
 lang: "vi"
+sourceContentHash: "22c8505f8289ae57"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

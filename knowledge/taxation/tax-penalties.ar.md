@@ -41,10 +41,11 @@ verificationNeeded:
   - "تأكّد مما إذا كان ثمة نظير في Sales Tax Act لـ s.26A من Service Tax Act بشأن السلع المستوردة — إذ لا تتضمّن نسخة 2018 المعاد طبعها أي حكم كهذا"
 
 lang: "ar"
+sourceContentHash: "13790ae63f7d4cb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

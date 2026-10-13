@@ -22,8 +22,9 @@ keyTakeaways:
 
 verificationNeeded: []
 lang: "id"
+sourceContentHash: "6d6596933af547dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "Người sử dụng lao động báo cáo khoản thanh toán, tách thành phần được miễn và phần chịu thuế, trong Form EA (C.P.8A) của người lao động cho năm đó, và phần chịu thuế được đưa vào thu nhập của người lao động cho năm đó. Riêng biệt, một người sử dụng lao động khu vực tư nhân phải thông báo cho LHDN rằng người lao động sắp chấm dứt việc làm, nói chung sử dụng Form CP22A ít nhất 30 ngày trước khi chấm dứt, và nên giữ lại các khoản tiền chờ thanh toán thuế (thư thanh toán thuế / Surat Penyelesaian Cukai) trước khi giải ngân khoản lương cuối cùng."
 
 lang: "vi"
+sourceContentHash: "8493c353cbce9515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

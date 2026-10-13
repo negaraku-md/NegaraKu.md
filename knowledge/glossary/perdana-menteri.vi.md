@@ -34,8 +34,9 @@ faq:
     a: "Cho đến nay Hiến pháp không giới hạn nhiệm kỳ. Vào năm 2026, một dự luật sửa đổi Hiến pháp được đề xuất nhằm giới hạn nhiệm kỳ Thủ tướng ở tổng cộng mười năm; tình trạng cuối cùng của sửa đổi đó cần được kiểm tra ở nguồn chính thức."
 
 lang: "vi"
+sourceContentHash: "a4359d9c03eadb4d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

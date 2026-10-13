@@ -26,8 +26,9 @@ verificationNeeded:
   - "Tổng tài sản đầu tư và tổng số thành viên của EPF không thể được xác nhận độc lập qua việc truy xuất trực tiếp kwsp.gov.my (trang này trả về HTTP 403 cho việc truy xuất tự động); bài viết này cố ý bỏ qua mọi con số AUM hay số lượng thành viên chính xác của EPF thay vì công bố một con số chưa được xác minh — bổ sung cả hai, với một nguồn kwsp.gov.my, tại lần rà soát đầu tiên của con người"
 
 lang: "vi"
+sourceContentHash: "bde519fccc17693d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

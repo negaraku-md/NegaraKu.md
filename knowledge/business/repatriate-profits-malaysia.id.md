@@ -27,8 +27,9 @@ verificationNeeded:
   - "Konfirmasikan apakah perjanjian perpajakan bilateral yang berkenaan mengubah posisi seorang individu bukan penduduk berdasarkan Bagian XXII Jadwal 1 — tidak ada keputusan LHDN mengenai hal ini yang ditemukan"
 
 lang: "id"
+sourceContentHash: "efeb2f7c70d05ed0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

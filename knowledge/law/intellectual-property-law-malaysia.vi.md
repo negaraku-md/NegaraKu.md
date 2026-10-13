@@ -38,8 +38,9 @@ faq:
     a: "Không. Các quyền sở hữu trí tuệ mang tính lãnh thổ, do đó một nhãn hiệu hoặc sáng chế Malaysia chỉ bao trùm Malaysia. Để bảo hộ quốc tế bạn nộp đơn ở nước ngoài — đối với nhãn hiệu, việc Malaysia gia nhập Nghị định thư Madrid cho phép bạn chỉ định nhiều nước qua một đơn quốc tế."
 
 lang: "vi"
+sourceContentHash: "9b9e8ce352a97c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -27,11 +27,12 @@ faq:
   - q: "هل كان الكونفرونتاسي حربًا معلنة؟"
     a: "لا. كان عداءً مسلّحًا لم يُعلَن رسميًا حربًا قط. وجرى أساسًا عبر غاراتٍ حدودية وتسلّلٍ وهجماتٍ محدودة، لا عبر إعلان حربٍ رسمي بين البلدين."
 lang: "ar"
+sourceContentHash: "08c14e8e17f8ad68"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

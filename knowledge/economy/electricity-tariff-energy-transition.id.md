@@ -31,8 +31,9 @@ faq:
     a: "NETR menyasarkan 70% kapasitas energi terbarukan dan emisi gas rumah kaca nol bersih menjelang 2050, didukung 10 proyek utama yang diperkirakan menarik investasi melebihi RM25 miliar."
 
 lang: "id"
+sourceContentHash: "19a2c50c83298410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

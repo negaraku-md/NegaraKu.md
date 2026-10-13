@@ -77,8 +77,9 @@ verificationNeeded:
   - "Cần xác nhận các chi tiết hiện được quy định cho sổ đăng ký s.61 đối chiếu với các Employment Regulations đang có hiệu lực"
 
 lang: "vi"
+sourceContentHash: "84b81bd01d8b6ae2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

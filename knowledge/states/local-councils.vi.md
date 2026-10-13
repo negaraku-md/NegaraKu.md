@@ -34,8 +34,9 @@ faq:
     a: "Các hội đồng địa phương được bầu hoạt động theo Local Government Elections Act 1960 và các pháp lệnh trước đó. Bầu cử bị đình chỉ vào ngày 1 tháng 3 năm 1965 bởi các quy định khẩn cấp trong cuộc đối đầu (Konfrontasi) với Indonesia. Các ủy viên hội đồng đương nhiệm ở lại cho đến khi Local Government (Temporary Provisions) Act 1973 [Act 124] chấm dứt nhiệm kỳ của họ và thay họ bằng các ban quản lý được bổ nhiệm, và Local Government Act 1976 [Act 171] sau đó thiết lập hệ thống bổ nhiệm thường trực."
 
 lang: "vi"
+sourceContentHash: "d540aa978984383a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Sedition (Amendment) Act 2015 (Act A1485) telah disahkan oleh Parlemen dan akan merevisi Pasal 2, 3, dan 4 — antara lain menambah penerbitan elektronik, menyusun ulang sebagian definisi, dan menaikkan hukuman. Pada portal Laws of Malaysia Attorney General's Chambers, teks Act 15 yang berlaku masih hanya menggabungkan amandemen hingga 1 Januari 2006, dan Act A1485 tidak membawa lini masa permulaan berlaku. Teks yang berlaku yang dijelaskan di sini adalah revisi 1969."
 
 lang: "id"
+sourceContentHash: "8c2644ad71910b60"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

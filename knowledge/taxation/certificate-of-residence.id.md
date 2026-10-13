@@ -37,8 +37,9 @@ verificationNeeded:
   - "Apakah Certificate of Residence bisa diterbitkan bagi tahun yang di dalamnya uji domisili baru terpenuhi setelah tanggal permohonan tidak ditangani pada laman LHDN"
 
 lang: "id"
+sourceContentHash: "11fa9fda7774dfda"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -60,10 +60,11 @@ obligations:
     consequence: "يسقط الحق في الدعوة إلى الاجتماع بموجب s.313"
 
 lang: "ar"
+sourceContentHash: "7de2bc211affba0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

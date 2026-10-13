@@ -27,8 +27,9 @@ verificationNeeded:
   - "Teks Pasal 66(5) yang dikutip adalah terjemahan Bahasa Melayu oleh Jabatan Peguam Negara; pastikan terhadap teks Bahasa Inggris yang sahih."
 
 lang: "id"
+sourceContentHash: "f029a1ff1ebfdbf1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

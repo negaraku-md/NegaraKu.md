@@ -35,12 +35,13 @@ faq:
     a: "تطالب الولايتان بإتاوة قدرها 5% استناداً إلى اتفاقية 1975. وتتلقى ترِنغانو مدفوعات (رغم أنها حُوِّلت مرةً إلى «أموال حُسن نيّة» نحو عام 2000 ثم أُعيدت في 2009)، في حين سُحبت دعوى كلنتان القضائية لعام 2010 في 2019. والمسألة الجوهرية هي ما إذا كانت الآبار المعنية تقع ضمن مياه الولاية (حدّ الأميال البحرية الثلاثة) أم تحت الولاية القضائية الاتحادية."
 
 lang: "ar"
+sourceContentHash: "fee9c9760c973ad8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

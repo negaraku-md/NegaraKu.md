@@ -31,8 +31,9 @@ faq:
     a: "Không trực tiếp. Bảo lãnh tài chính là một khoản nợ tiềm tàng; nó chỉ trở thành nợ nếu được hiện thực hóa. Act 850 giới hạn bảo lãnh tài chính ở 25% GDP và buộc phải có một báo cáo rủi ro tài khóa hằng năm để công bố mức phơi nhiễm này."
 
 lang: "vi"
+sourceContentHash: "1dc4f0df2320f2a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

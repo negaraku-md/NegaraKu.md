@@ -47,8 +47,9 @@ verificationNeeded:
   - "Các điều kiện về sở hữu cổ phần của Bumiputera hoặc nước ngoài đối với các đơn vị được cấp phép ngân hàng, bảo hiểm và takaful. Không truy xuất được tài liệu đã công bố nào của Bank Negara nêu một điều kiện như vậy."
 
 lang: "vi"
+sourceContentHash: "da83e3eaf6cc3765"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

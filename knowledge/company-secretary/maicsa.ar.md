@@ -37,10 +37,11 @@ verificationNeeded:
   - "التأكد من مرجع الإشعار في الجريدة الرسمية (Gazette) الذي بموجبه نُصَّ على اعتماد MAICSA كهيئة معتمدة، وما إذا كانت أي شروط أو أحكام قد فُرِضت بموجب المادة 235(3)"
 
 lang: "ar"
+sourceContentHash: "b8d7278523a1c564"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

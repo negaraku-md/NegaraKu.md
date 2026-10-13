@@ -33,10 +33,11 @@ faq:
     a: "يتفاوت ذلك تفاوتاً واسعاً بحسب المرحلة. فجولات المرحلة المبكّرة للرأس المال الجريء تكون عادةً في نطاق بضعة ملايين من الرينغيت؛ أما صفقات النموّ والأسهم الخاصة فأكبر بكثير. وعلى مستوى الصناعة، بلغت صناديق VC وPE المُلتَزَم بها تحت الإدارة في ماليزيا نحو RM24.7 مليار في نهاية 2024 — نحو RM18 مليار في الأسهم الخاصة وRM6.7 مليار في رأس المال الجريء."
 
 lang: "ar"
+sourceContentHash: "fd613f83fbe57e2f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

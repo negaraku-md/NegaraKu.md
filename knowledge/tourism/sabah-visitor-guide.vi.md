@@ -35,8 +35,9 @@ faq:
     a: "Sipadan đóng cửa vào mỗi tháng 11 để rạn san hô phục hồi, nên hãy lên kế hoạch các chuyến lặn từ tháng 12 đến tháng 10. Ở nơi khác, các tháng gió mùa Đông Bắc ẩm ướt hơn (khoảng tháng 11 đến tháng 3) mang nhiều mưa hơn đến Borneo."
 
 lang: "vi"
+sourceContentHash: "c9653441143f9da8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

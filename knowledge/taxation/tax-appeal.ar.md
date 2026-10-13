@@ -58,10 +58,11 @@ obligations:
     consequence: "يبقى أمر الفصل قائمًا، خاضعًا فقط لتمديد تمنحه المحكمة العليا بموجب الفقرة 34(7)"
 
 lang: "ar"
+sourceContentHash: "d2e991c87917fcac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

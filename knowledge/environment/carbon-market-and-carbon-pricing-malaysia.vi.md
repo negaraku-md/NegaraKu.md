@@ -29,8 +29,9 @@ faq:
     a: "Một khung do NRES ra mắt vào ngày 21 tháng 4 năm 2026 để xây dựng một thị trường carbon có tính toàn vẹn cao, một sổ đăng ký carbon quốc gia và các hệ thống giám sát trước khi các công cụ định giá tuân thủ được giới thiệu."
 
 lang: "vi"
+sourceContentHash: "da637e665e1a9fd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

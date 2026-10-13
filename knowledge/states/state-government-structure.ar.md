@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "القرّاء الراغبون في فهم كيفية تنظيم حكومة الولاية الماليزية بعبارات وصفية — الطلاب والموظفون الحكوميون والصحفيون، وكل من يحاول إدراك سبب وجود منتري بيسار وإستانا نيغري في بعض الولايات مقابل كبير وزراء وحاكم معيَّن في أخرى."
 
 lang: "ar"
+sourceContentHash: "0eb897c5d29d626d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

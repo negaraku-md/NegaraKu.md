@@ -25,8 +25,9 @@ verificationNeeded:
   - "Rujukan pada kewenangan penegakan (misalnya larangan perjalanan ke luar negeri bagi peminjam yang ingkar) disebut secara umum saja berdasarkan adanya kewenangan di bawah Akta 566; nomor pasal khusus dan syarat pemicunya (seperti lama tunggakan) tidak dipastikan langsung dari teks akta atau portal resmi dan perlu ditinjau ulang."
 
 lang: "id"
+sourceContentHash: "36c7c223a86b45ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

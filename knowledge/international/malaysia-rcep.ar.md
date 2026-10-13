@@ -33,10 +33,11 @@ faq:
     a: "لا. RCEP وCPTPP اتفاقيتان منفصلتان بعضويتين وقواعد مختلفتين. ماليزيا طرف في RCEP؛ وتتداخل الاتفاقيتان في عدد من الأعضاء لكنهما يُتفاوض عليهما بشكل مستقل."
 
 lang: "ar"
+sourceContentHash: "f7e0957c6988f3a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

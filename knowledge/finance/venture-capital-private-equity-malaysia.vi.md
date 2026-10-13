@@ -33,8 +33,9 @@ faq:
     a: "Nó khác nhau rộng rãi theo giai đoạn. Các vòng gọi vốn mạo hiểm giai đoạn đầu thường ở mức vài triệu ringgit một chữ số thấp; các thương vụ tăng trưởng và vốn tư nhân lớn hơn nhiều. Ở cấp ngành, các quỹ VC và PE được cam kết đang quản lý tại Malaysia đứng ở khoảng RM24.7 tỷ vào cuối năm 2024 — khoảng RM18 tỷ trong vốn tư nhân và RM6.7 tỷ trong vốn mạo hiểm."
 
 lang: "vi"
+sourceContentHash: "fd613f83fbe57e2f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

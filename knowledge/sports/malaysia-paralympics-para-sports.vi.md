@@ -32,8 +32,9 @@ faq:
     a: "Trong số nổi bật nhất là Cheah Liek Hou (cầu lông SU5, vàng Tokyo 2020 và Paris 2024), Bonnie Bunyau Gustin (cử tạ, vàng Tokyo 2020 và Paris 2024) và Abdul Latif Romly (nhảy xa T20, vàng Rio 2016 và Tokyo 2020)."
 
 lang: "vi"
+sourceContentHash: "1cf985c7e961d813"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

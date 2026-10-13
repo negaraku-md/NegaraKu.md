@@ -33,8 +33,9 @@ faq:
     a: "Đây là khuôn khổ của chính phủ cho ngành ô tô, gần đây nhất được cập nhật thành NAP 2020. Nó nhắm tới các dòng xe thế hệ mới (NxGV), Mobility-as-a-Service và năng lực Công nghiệp 4.0, và đang trong quá trình rà soát giữa kỳ; MITI đã khởi động cuộc rà soát (lập ra Hội đồng các Nhân vật Ô tô Tiêu biểu, Council of Automotive Eminent Persons, năm 2025) nhưng kết quả chưa được công bố theo mốc cuối năm 2025 và vẫn còn treo trong năm 2026."
 
 lang: "vi"
+sourceContentHash: "ce89b8f0036180e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

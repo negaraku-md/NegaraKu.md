@@ -38,8 +38,9 @@ faq:
     a: "SSM quản lý và thực thi các quy tắc đó, nhưng chúng bắt nguồn từ luật. Báo cáo thường niên được yêu cầu theo Luật Công ty (Companies Act 2016), và khái niệm vốn góp đến từ chính Luật đó. SSM tiếp nhận các hồ sơ, ban hành Chỉ thị Thực hành về quy trình và hình phạt, và tiến hành hành động cưỡng chế đối với những người vi phạm."
 
 lang: "vi"
+sourceContentHash: "48b70b131a01ea95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

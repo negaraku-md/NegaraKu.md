@@ -31,8 +31,9 @@ faq:
     a: "Có — nó hơn cả một việc đổi tên. Act A1738 và các Amendment Regulations 2025, có hiệu lực từ 1 tháng 1 năm 2026, thay 'KLRCA' bằng 'AIAC', siết chặt dòng thời gian phân xử để việc gia hạn nay đòi hỏi sự đồng ý của cả hai bên và người phân xử, đưa ra các yêu cầu về thông báo thanh toán được tăng cường và các mẫu được quy định, mở rộng các định nghĩa chủ chốt để giảm các tranh chấp về thẩm quyền, và củng cố lối đi thi hành. Khung quyết định cốt lõi 45 ngày làm việc vẫn còn, nhưng thủ tục xung quanh đã thay đổi, nên hãy dùng các mẫu hiện hành của AIAC."
 
 lang: "vi"
+sourceContentHash: "e21cf5dfaabc98af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

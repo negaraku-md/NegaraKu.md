@@ -24,10 +24,11 @@ verificationNeeded:
   - "ما إذا كان شرطٌ محدّد خاص بالسائق (مثل حدّ أدنى للسنّ) ينطبق ينبغي تأكيده مع JPJ أو مع مشغّل النقل التشاركي المعني، إذ لم يُذكَر بصيغة يمكن تأكيدها على الصفحات الرسمية التي جرى الرجوع إليها"
 
 lang: "ar"
+sourceContentHash: "10f57c7f87a7c675"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

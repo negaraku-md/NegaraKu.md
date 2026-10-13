@@ -49,8 +49,9 @@ obligations:
     consequence: "Mức tăng 10 phần trăm theo s.109B(2) và việc không cho phép chi phí theo s.39(1)(j)"
 
 lang: "vi"
+sourceContentHash: "096e6362dcef465c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

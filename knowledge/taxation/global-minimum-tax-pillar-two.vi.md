@@ -59,8 +59,9 @@ obligations:
     consequence: "Mất giảm nhẹ chế tài chuyển tiếp khi các biện pháp hợp lý không được thực hiện"
 
 lang: "vi"
+sourceContentHash: "f4ebb2767afaf5b6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

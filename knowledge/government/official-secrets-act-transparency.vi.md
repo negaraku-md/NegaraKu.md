@@ -30,8 +30,9 @@ faq:
     a: "Ở cấp liên bang, không có luật tự do thông tin nào có hiệu lực tính đến thời điểm soạn bản thảo này. Chỉ có bang Selangor (đăng công báo 2011, có hiệu lực 2013) và Pulau Pinang (Sắc lệnh 2010) có sắc lệnh tự do thông tin, giới hạn ở thông tin thuộc thẩm quyền của chính quyền bang liên quan. Một dự luật cấp liên bang được trình bày vào tháng 7 năm 2026."
 
 lang: "vi"
+sourceContentHash: "55b6d981106fab77"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

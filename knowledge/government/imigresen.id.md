@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang perlu mengidentifikasi otoritas yang mengeluarkan suatu dokumen imigrasi Malaysia — paspor, visa, pas atau permit — dan artikel mana yang menjelaskan setiap prosesnya."
 
 lang: "id"
+sourceContentHash: "baf28f912e1a7295"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

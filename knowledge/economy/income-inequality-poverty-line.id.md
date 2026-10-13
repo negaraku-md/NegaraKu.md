@@ -34,8 +34,9 @@ faq:
     a: "Karena kelompok ini relatif. Jika pendapatan orang lain naik lebih cepat daripada Anda, ambang B40 juga naik, jadi Anda mungkin masih berada dalam kelompok yang sama walaupun pendapatan Anda meningkat."
 
 lang: "id"
+sourceContentHash: "83d77f4a9e3c0e88"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -23,10 +23,11 @@ keyTakeaways:
 appliesTo: "كلّ من يحاول فهم ما هي دائرة رئيس الوزراء فعلًا، ولماذا تقع تحتها هذا العدد الكبير من الوكالات الاتحادية التي تبدو غير مترابطة، وكيف تختلف عن وزارة عادية."
 
 lang: "ar"
+sourceContentHash: "e406cee4d2aa12d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

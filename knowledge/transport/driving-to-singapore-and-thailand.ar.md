@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "سائقو السيارات الماليزيون الذين يخطّطون لقيادة سيارتهم عبر الجسر البري (Causeway) أو الرابط الثاني (Second Link) إلى سنغافورة، أو عبر الحدود البرية الشمالية إلى تايلاند."
 
 lang: "ar"
+sourceContentHash: "4dfab6647457152e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

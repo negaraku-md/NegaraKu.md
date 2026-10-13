@@ -28,8 +28,9 @@ faq:
   - q: "Thuế suất thuế dịch vụ nào áp dụng bây giờ?"
     a: "8% kể từ ngày 1 tháng 3 năm 2024, tăng từ 6%, trừ các dịch vụ thực phẩm và đồ uống, đỗ xe, logistics và viễn thông, vẫn ở 6%."
 lang: "vi"
+sourceContentHash: "e4e06f1218191c40"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

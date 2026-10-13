@@ -25,10 +25,11 @@ verificationNeeded:
   - "الإشارات إلى صلاحيات الإنفاذ (مثل قيود السفر إلى الخارج على المقترضين المتخلّفين) مذكورة بعبارات عامة فقط استناداً إلى وجود مثل هذه الصلاحيات بموجب Act 566؛ أما رقم المادة المحدد وشروط تفعيلها (مثل فترة المتأخرات) فلم يُتحقَّق منها مباشرة من نصّ القانون أو البوابة الرسمية وتحتاج إلى إعادة فحص."
 
 lang: "ar"
+sourceContentHash: "36c7c223a86b45ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

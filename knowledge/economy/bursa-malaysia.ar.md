@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "المؤسسون والمديرون الماليون الذين يدرسون طرحًا عامًا أوليًا (IPO)، والمستشارون والرعاة، والمستثمرون الذين يحاولون قراءة ما يشير إليه الإدراج في لوح ما فعليًا."
 
 lang: "ar"
+sourceContentHash: "8a42caae2331fbbd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

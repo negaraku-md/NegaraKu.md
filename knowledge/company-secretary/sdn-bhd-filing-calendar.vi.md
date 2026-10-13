@@ -135,8 +135,9 @@ obligations:
     consequence: "Phạt tiền lên tới RM10,000 cộng với lên tới RM500 mỗi ngày đối với mọi cán bộ theo s.341(3)"
 
 lang: "vi"
+sourceContentHash: "795508e7636dbf96"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

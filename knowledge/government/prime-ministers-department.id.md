@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang berusaha memahami apa sebenarnya Jabatan Perdana Menteri itu, mengapa begitu banyak lembaga federal yang tampak tidak berkaitan berada di bawahnya, dan bagaimana ia berbeda dari sebuah kementerian biasa."
 
 lang: "id"
+sourceContentHash: "e406cee4d2aa12d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

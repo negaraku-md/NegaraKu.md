@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "كلّ من ينتقل إلى منزل أو عقار جديد في ماليزيا ويحتاج إلى فتح حساب إمداد كهرباء أو نقله أو إغلاقه — سواء في شبه الجزيرة أو صباح أو ساراواك."
 
 lang: "ar"
+sourceContentHash: "6891503e50f70d6b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

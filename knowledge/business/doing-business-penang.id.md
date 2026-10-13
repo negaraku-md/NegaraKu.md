@@ -41,8 +41,9 @@ verificationNeeded:
   - "Apakah deklarasi zona perindustrian bebas Bayan Lepas dan Perai di bawah Free Zones Act 1990 telah diamandemen, dan batas zona yang diwartakan terkini"
 
 lang: "id"
+sourceContentHash: "764567a2c684af68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

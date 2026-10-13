@@ -32,8 +32,9 @@ faq:
     a: "Kadang-kadang. MMC lebih mengutamakan konsultasi virtual sebagai tindak lanjut setelah hubungan dokter-pasien yang sudah ada, tetapi mengizinkan konsultasi pertama kali secara daring, terutama dalam pelayanan primer, jika dokter mendokumentasikan alasannya. Dokter diarahkan untuk berhati-hati tentang memberi resep kepada pasien yang belum mereka periksa secara langsung dan untuk merujuk Anda secara tatap muka ketika medium daring tidak memadai untuk menilai Anda dengan aman."
 
 lang: "id"
+sourceContentHash: "abe1f652bf3edc8b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

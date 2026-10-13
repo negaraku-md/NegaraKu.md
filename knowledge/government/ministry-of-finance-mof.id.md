@@ -27,8 +27,9 @@ faq:
   - q: "Siapa yang mengetuai Kementerian Kewangan?"
     a: "Per Agustus 2026, Menteri Kewangan adalah Dato' Seri Anwar bin Ibrahim, dengan Datuk Seri Amir Hamzah bin Azizan sebagai Menteri Kewangan II dan Datuk Johan Mahmood bin Merican sebagai Ketua Setiausaha Perbendaharaan. Pemegang jabatan berubah dengan perombakan Kabinet, jadi pastikan nama terkini di mof.gov.my."
 lang: "id"
+sourceContentHash: "d725c73359a7391e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

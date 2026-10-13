@@ -44,8 +44,9 @@ verificationNeeded:
   - "Không đọc được danh sách loại trừ của Sabah theo Labour Ordinance of Sabah (Amendment) Act 2025 (Act A1753); tệp PDF được lưu trữ trả về lỗi 404."
 
 lang: "vi"
+sourceContentHash: "4b43de8c2a7470d1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

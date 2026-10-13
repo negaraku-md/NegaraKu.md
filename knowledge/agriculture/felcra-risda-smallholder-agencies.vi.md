@@ -30,8 +30,9 @@ faq:
     a: "Đề xuất hợp nhất các tiểu điền chủ của cả ba cơ quan đã được nêu ra (chẳng hạn bởi Thủ tướng vào năm 2009 và bởi FGV vào năm 2023), nhưng theo các nguồn được tham khảo, chưa có sự sáp nhập đầy đủ nào được thực hiện."
 
 lang: "vi"
+sourceContentHash: "a5eeffb434131b29"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

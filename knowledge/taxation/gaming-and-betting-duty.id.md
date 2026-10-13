@@ -29,8 +29,9 @@ faq:
     a: "Bagi taruhan Sports Toto RM2, 8% (16 sen) dipotong sebagai pajak permainan dan 8% lagi (14.72 sen) sebagai bea taruhan pool; sekitar 55% (RM1.10) dialokasikan sebagai hadiah."
 
 lang: "id"
+sourceContentHash: "156aadc5edee33a0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

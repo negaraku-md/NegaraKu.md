@@ -29,10 +29,11 @@ faq:
     a: "تقدّم عبر الإنترنت عبر منصة MyHeart التابعة لـ TalentCorp بينما لا تزال في الخارج، ويُفضَّل قبل عودتك المتوقّعة بشهر إلى شهرين. ويُعالَج الطلب المكتمل في غضون 45 يوم عمل كحدّ أقصى."
 
 lang: "ar"
+sourceContentHash: "f730c6823dee3d1e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

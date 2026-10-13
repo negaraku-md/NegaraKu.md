@@ -35,8 +35,9 @@ faq:
     a: "Keduanya perayaan terpisah dengan tema yang sama. Gawai Dayak adalah perayaan panen suku Dayak di Sarawak, dirayakan pada 1 dan 2 Juni. Kaamatan adalah perayaan panen suku Kadazandusun di Sabah, dirayakan pada 30 dan 31 Mei. Keduanya bersyukur atas hasil panen padi, tetapi suku, ritual, dan tanggalnya berbeda."
 
 lang: "id"
+sourceContentHash: "5a38a61ecb8e6e5a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

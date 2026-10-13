@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Pemberi kerja, tim HR dan payroll, serta pekerja sektor swasta di Malaysia yang ingin memahami potongan gaji statutori."
 
 lang: "id"
+sourceContentHash: "9085a7b0c1f610fb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

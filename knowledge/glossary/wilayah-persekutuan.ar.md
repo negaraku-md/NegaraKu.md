@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "كل من يحاول فهم التقسيمات الإدارية لماليزيا وسبب كون كوالالمبور ليست ولاية."
 
 lang: "ar"
+sourceContentHash: "451b4e1d1dcd4be4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

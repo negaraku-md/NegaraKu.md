@@ -26,8 +26,9 @@ verificationNeeded:
   - "Không tìm thấy chỉ số tiền thuê nhà chính thức riêng cho Johor Bahru; các tuyên bố về áp lực tiền thuê từ nhu cầu liên quan đến Singapore mang tính định tính, không được hậu thuẫn bởi một con số được công bố."
 
 lang: "vi"
+sourceContentHash: "8dc6ca7c0ae8183c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Tidak — ini adalah salah kaprah lazim yang terbawa dari Companies Act 1965 yang lama. Berdasarkan Companies Act 2016, pendirian dilakukan melalui permohonan di mana setiap direktur atau promotor memberikan suatu pernyataan (pasal 14) bahwa mereka setuju untuk bertindak dan tidak didiskualifikasi. Itu adalah pernyataan, bukan deklarasi statutori."
 
 lang: "id"
+sourceContentHash: "ca496f3d42e9b712"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

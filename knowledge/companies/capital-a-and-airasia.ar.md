@@ -30,10 +30,11 @@ faq:
     a: "بعد التخلّص من شركات الطيران، أصبحت Capital A مجموعةَ خدمات طيران ورقمية مبنيةً حول خمسة أعمال: Asia Digital Engineering، وTeleport، وAirAsia MOVE، وAirAsia Next، وSantan."
 
 lang: "ar"
+sourceContentHash: "649108ce940fc47e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

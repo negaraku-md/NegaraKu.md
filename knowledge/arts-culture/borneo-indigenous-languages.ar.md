@@ -34,9 +34,10 @@ faq:
     a: "نعم، بعضها، ضمن برنامج لغة التلميذ الأمّ (Pupil's Own Language, POL) التابع لوزارة التعليم، عادةً مادةً اختيارية. فالكادازاندوسون تُدرَّس في مدارس صباح الحكومية منذ مشروع تجريبي بدأ عام 1997، والإيبان تُدرَّس في مدارس ساراواك. وتتوقّف الإتاحة على الطلب وعلى بلوغ الحدّ الأدنى لحجم الصف الذي تحدّده السياسة."
 
 lang: "ar"
+sourceContentHash: "641d60c83d47ef35"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

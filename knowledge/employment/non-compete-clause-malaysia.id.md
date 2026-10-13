@@ -27,8 +27,9 @@ verificationNeeded:
   - "Pastikan apakah pengadilan Malaysia mana pun telah mempertahankan klausul larangan membujuk pelanggan setelah pemutusan sebagai berada di luar s.28"
 
 lang: "id"
+sourceContentHash: "d5d94ae67835a159"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

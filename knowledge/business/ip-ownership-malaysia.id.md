@@ -58,8 +58,9 @@ obligations:
     consequence: "Pengalihan hak tidak berlaku terhadap pihak ketiga kecuali dicatatkan dalam Daftar"
 
 lang: "id"
+sourceContentHash: "41c8e57255d3f72c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

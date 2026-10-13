@@ -42,10 +42,11 @@ verificationNeeded:
   - "هل وحّدت أي ولاية ترخيص تجارتها ومقرّها في أداة واحدة منذ آخر جولة من مبادرة تحديث ترخيص الأعمال (Modernising Business Licensing)"
 
 lang: "ar"
+sourceContentHash: "2779e333b6f5b277"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

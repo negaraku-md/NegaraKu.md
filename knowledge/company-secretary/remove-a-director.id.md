@@ -47,8 +47,9 @@ obligations:
     consequence: "Denda sampai RM50,000 dan denda tambahan sampai RM500 per hari untuk pelanggaran berkelanjutan di bawah s.58(4)"
 
 lang: "id"
+sourceContentHash: "8a80c4606fe7ff91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

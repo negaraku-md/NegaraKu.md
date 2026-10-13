@@ -31,8 +31,9 @@ faq:
     a: "Organisasi dapat membela diri jika membuktikan ia telah melaksanakan prosedur memadai untuk mencegah korupsi. Panduannya adalah lima prinsip T.R.U.S.T. dalam Garis Panduan Prosedur Mencukupi yang diterbitkan oleh Departemen Perdana Menteri, bertanggal 4 Desember 2018."
 
 lang: "id"
+sourceContentHash: "bba5e6b3f79a29ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

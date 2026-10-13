@@ -37,10 +37,11 @@ verificationNeeded:
   - "التأكد من كيفية تعريف «المنشأة المُدرجة» للأغراض الماليزية عبر السوق الرئيسية (Main Market) وسوق ACE وسوق LEAP في بورصة ماليزيا (Bursa Malaysia)، وما إذا كان مُصدِرو سوق LEAP يندرجون ضمن اشتراط ISA 701"
 
 lang: "ar"
+sourceContentHash: "573f87ce15adf16f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -30,8 +30,9 @@ faq:
     a: "Có. Viện Kế toán Malaysia (Malaysian Institute of Accountants) áp dụng các công bố của IAASB làm Chuẩn mực Kiểm toán được Phê duyệt của Malaysia mà không sửa đổi, nên ISA 320, 450 và 530 áp dụng cho các cuộc kiểm toán theo luật định tại Malaysia."
 
 lang: "vi"
+sourceContentHash: "caf6b9d895d2d9ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

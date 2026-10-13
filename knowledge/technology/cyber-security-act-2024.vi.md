@@ -38,8 +38,9 @@ faq:
     a: "Không. Cyber Security Act điều chỉnh an ninh và khả năng phục hồi của hạ tầng trọng yếu. Quyền riêng tư dữ liệu cá nhân được điều chỉnh riêng bởi Personal Data Protection Act 2010. Một tổ chức có thể chịu sự điều chỉnh của cả hai."
 
 lang: "vi"
+sourceContentHash: "3cca544d70c1185a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

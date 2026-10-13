@@ -62,8 +62,9 @@ obligations:
     consequence: "Denda tidak melebihi RM50,000 atas perusahaan dan setiap pejabat"
 
 lang: "id"
+sourceContentHash: "0c5ee4a6c8f640ee"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

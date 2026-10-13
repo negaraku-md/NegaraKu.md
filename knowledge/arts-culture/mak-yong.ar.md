@@ -33,9 +33,10 @@ faq:
     a: "العروض العامة في كلنتان مقيَّدة بموجب مرسوم ولائي لمراقبة الترفيه صدر عام 1998. وفي 25 سبتمبر 2019، أعلن نائب رئيس وزراء ولاية كلنتان داتوك محمد أمار نيك عبد الله (Datuk Mohd Amar Nik Abdullah) أن العروض مسموح بها رهناً بشروط متوافقة مع الشريعة تضعها حكومة الولاية، منها خلوّها من عناصر العبادة ووجوب ستر العورة، مع مراقبة مستمرة من حكومة الولاية والسلطات الدينية الولائية."
 
 lang: "ar"
+sourceContentHash: "fddcf6b015e88b34"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

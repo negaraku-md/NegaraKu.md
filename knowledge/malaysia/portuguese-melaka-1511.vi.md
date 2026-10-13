@@ -19,8 +19,9 @@ keyTakeaways:
   - "Hậu duệ của Vương triều Melaka nối lại nền cai trị ở Johor Lama vào năm 1528 và triều đại đó tồn tại đến năm 1699"
 appliesTo: "Độc giả muốn hiểu các nguyên nhân kỹ thuật và chính trị đằng sau sự thất thủ của Melaka năm 1511, và điều gì đã xảy ra với các định chế cùng hoàng tộc Melaka sau khi thành đó mất."
 lang: "vi"
+sourceContentHash: "b8ff8e81366e5986"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

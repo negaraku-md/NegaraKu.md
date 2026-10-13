@@ -37,10 +37,11 @@ faq:
     a: "يُثبَّت الديزل في صباح وساراواك ولابوان عند RM2.15 لكل لتر ولا يُعوَّم كما في شبه الجزيرة. ويسري سعر البنزين RON95 المدعوم البالغ RM1.99 على المواطنين المؤهلين في جميع أنحاء البلاد."
 
 lang: "ar"
+sourceContentHash: "b4fd92803516f862"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

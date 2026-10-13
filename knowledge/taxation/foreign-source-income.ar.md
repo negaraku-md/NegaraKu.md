@@ -42,10 +42,11 @@ verificationNeeded:
   - "رقم P.U.(A) الدقيق للتعديل الذي يمدِّد إعفاء الأرباح الأجنبية للشركات/الشراكات ذات المسؤولية المحدودة (LLP) (Income Tax (Exemption) (No. 6) Order 2022, P.U.(A) 235/2022) إلى 31 ديسمبر 2030 — فنظيراه الخاصان بالأصول الرأسمالية (P.U.(A) 275/2026) وبصناديق الوحدات الاستئمانية (P.U.(A) 270/2026) مؤكَّد نشرهما في الجريدة الرسمية، وتفيد الشركات بأن أمر الأرباح مُدِّد ضمن الدفعة نفسها في أواخر يوليو 2026، لكن رقم P.U.(A) الخاص به لم يُمكن تثبيته على نص أولي في الجريدة الرسمية. تأكّد قبل الاعتماد على انتهاء أرباح في 2030"
 
 lang: "ar"
+sourceContentHash: "e5a0172051099281"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

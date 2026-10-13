@@ -30,12 +30,13 @@ faq:
     a: "وفقًا لـ JKKN، تشكّل السياسة الثقافية الوطنية 1971 أساس السياسة الثقافية الوطنية (DAKEN) 2021 المبنية على سبع ركائز بفترة تنفيذ 2021-2025. وتذكر JKKN أيضًا أن السياسة الثقافية الوطنية 1971 لم تُقرّ رسميًا قط على مستوى مجلس الوزراء، وإن كانت قد وجّهت الإدارة نحو 50 عامًا."
 
 lang: "ar"
+sourceContentHash: "8ad5677b6225effa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

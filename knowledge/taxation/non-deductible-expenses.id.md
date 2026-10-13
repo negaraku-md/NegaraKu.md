@@ -42,8 +42,9 @@ verificationNeeded:
   - "Apakah pengecualian s.39(1)(r) dalam P.U.(A) 425-2021 telah diperpanjang melebihi YA2025 — surat edaran Labuan FSA 269/2021 menyatakan periode berlaku sebagai YA2019 hingga YA2025 dan tidak ada perintah perpanjangan yang ditemukan"
   - "Apakah huruf 39(1)(o) dan 39(1)(p), yang merujuk pada Goods and Services Tax Act 2014, tetap beroperasi setelah pencabutan Undang-Undang tersebut"
 lang: "id"
+sourceContentHash: "5306816ff4b971c7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Điều 126(2) quy định rằng bất kỳ ai sở hữu hoặc cung cấp hạ tầng mạng, dịch vụ mạng hoặc dịch vụ ứng dụng mà không có giấy phép hợp lệ đều phạm một tội và có thể, khi bị kết án, bị phạt tiền không quá RM500,000 hoặc phạt tù không quá năm năm hoặc cả hai, cùng khoản phạt bổ sung RM1,000 cho mỗi ngày tội đó tiếp diễn sau khi bị kết án."
 
 lang: "vi"
+sourceContentHash: "f7de1e94c09f1ce3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

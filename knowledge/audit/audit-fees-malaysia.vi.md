@@ -40,8 +40,9 @@ verificationNeeded:
   - "Xác minh lý do đã nêu cho việc rút RPG 7, cụ thể là Luật Cạnh tranh (Competition Act 2010), so với một thông tư của MIA hoặc nghị quyết của Hội đồng — chỉ có ngày rút là có thể được xác nhận từ một tài liệu chính thức"
 
 lang: "vi"
+sourceContentHash: "ecdf13a6ded6622d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

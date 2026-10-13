@@ -31,12 +31,13 @@ faq:
     a: "لا يوجد شرط لقاح دخول عام، لكن مراكز مكافحة الأمراض الأمريكية (CDC) تنصح المسافرين بأن يكونوا محدَّثين على اللقاحات الروتينية وأن ينظروا في التهاب الكبد A والتيفوئيد؛ وناقش حبوب داء الكلب والتهاب الدماغ الياباني والملاريا مع عيادة سفر بناءً على مسار رحلتك."
 
 lang: "ar"
+sourceContentHash: "e99fd08a031d5f4f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

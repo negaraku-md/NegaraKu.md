@@ -33,9 +33,10 @@ faq:
     a: "النساء، تقليديًا. تسجّل اليونسكو أن نسج السونغكيت كان دائمًا في أيدي النساء، بينما يشارك الرجال في الممارسة بصنع أدوات النسج. وتُورَّث المعرفة داخل الأُسر والقرى، كما تقدّم بعض المؤسسات برامج تدريب."
 
 lang: "ar"
+sourceContentHash: "054643f8240fb22d"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

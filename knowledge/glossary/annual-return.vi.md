@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Giám đốc công ty, thư ký công ty và bất kỳ ai chịu trách nhiệm về việc tuân thủ pháp lý của công ty."
 
 lang: "vi"
+sourceContentHash: "4458f7c26c528c99"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

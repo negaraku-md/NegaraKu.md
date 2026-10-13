@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang memiliki, sedang membeli, atau menyewa unit di sebuah kondominium, apartemen, atau properti berstrata (bermilik strata) lain di Semenanjung Malaysia atau Wilayah Persekutuan Labuan."
 
 lang: "id"
+sourceContentHash: "cb88d8015d2b5a82"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "Chúng được làm ra theo Đạo luật chứ không phải là một phần của nó, nhưng chúng mang hiệu lực vận hành — các tiêu chí miễn kiểm toán, các mức phạt nộp trễ và quy trình gia hạn thời gian đều nằm trong các Chỉ thị Thực hành, không phải trong văn bản của mục. Một câu hỏi được trả lời chỉ từ Đạo luật thường sẽ được trả lời sai."
 
 lang: "vi"
+sourceContentHash: "d0840945570101e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

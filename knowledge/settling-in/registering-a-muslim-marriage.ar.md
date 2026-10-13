@@ -32,12 +32,13 @@ faq:
     a: "تذكر بوابة خدمات حكومة ماليزيا أن عقد النكاح يُجرى بناءً على خطاب إذن بالزواج صالح لمدة 90 يوماً."
 
 lang: "ar"
+sourceContentHash: "ddd87b097dd5f44c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

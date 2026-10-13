@@ -29,8 +29,9 @@ faq:
     a: "Singapore tách ra vào ngày 9 tháng 8 năm 1965 sau một cuộc bỏ phiếu tại Nghị viện Malaysia. Căng thẳng chính trị giữa Đảng Hành động Nhân dân (People's Action Party) và chính phủ Liên minh Alliance về chính sách kinh tế và cơ sở của sự cạnh tranh chính trị đã diễn ra trước cuộc chia tách. Không bên nào đã lên kế hoạch cho kết cục đó tại cuộc hợp nhất năm 1963."
 
 lang: "vi"
+sourceContentHash: "6eb2de3c5c01ceae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

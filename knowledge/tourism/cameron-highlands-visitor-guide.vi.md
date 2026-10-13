@@ -31,8 +31,9 @@ faq:
     a: "Đây là các chuyến thăm văn hóa có hướng dẫn vào các làng Semai, thường có một màn trình diễn ống thổi và các buổi nói chuyện về sinh kế rừng. Hãy đi cùng một hướng dẫn viên địa phương uy tín, hỏi trước khi chụp ảnh người dân, và coi đó như một cuộc trao đổi văn hóa tôn trọng chứ không phải một màn trình diễn."
 
 lang: "vi"
+sourceContentHash: "3402603241935266"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

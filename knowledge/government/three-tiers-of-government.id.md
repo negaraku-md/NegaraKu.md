@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang berusaha mengetahui tingkat pemerintahan mana yang perlu dihubungi untuk suatu masalah di Malaysia, atau yang ingin memahami mengapa mereka dapat memilih seorang Anggota Parlemen dan seorang anggota dewan undangan negeri tetapi tidak dapat memilih seorang anggota majelis lokal."
 
 lang: "id"
+sourceContentHash: "c6bdf9ccfb5d174a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

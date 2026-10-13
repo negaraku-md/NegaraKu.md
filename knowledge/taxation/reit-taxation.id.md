@@ -31,8 +31,9 @@ faq:
     a: "Pada umumnya tidak. Ketika dana itu dikecualikan di bawah Pasal 61A, pendapatan tersebut belum dikenai pajak, jadi distribusi itu tidak membawa kredit pajak Pasal 110 yang dapat dikurangkan oleh pemegang unit. Kredit hanya timbul ketika dana itu sendiri telah dikenai pajak (contohnya, ketika ia mendistribusikan kurang dari 90%)."
 
 lang: "id"
+sourceContentHash: "74ef95198966c611"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

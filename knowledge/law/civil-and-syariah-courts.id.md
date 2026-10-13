@@ -40,8 +40,9 @@ faq:
     a: "Tidak. Setiap negeri membentuk Mahkamah Syariahnya sendiri di bawah enakmennya sendiri, dan Wilayah Persekutuan memiliki Mahkamah Syariah mereka sendiri di bawah Act 505. Jabatan Kehakiman Syariah Malaysia, sebuah lembaga di bawah Jabatan Perdana Menteri, menjelaskan perannya sebagai mengoordinasikan dan menyeragamkan administrasi hukum dan peradilan Syariah di seluruh Malaysia — koordinasi, bukan satu pengadilan nasional tunggal."
 
 lang: "id"
+sourceContentHash: "871806c1d22f2076"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

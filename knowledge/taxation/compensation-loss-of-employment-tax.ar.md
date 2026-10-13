@@ -33,10 +33,11 @@ faq:
     a: "يُبلِّغ صاحب العمل عن الدفع، مقسومًا إلى جزأيه المعفى والخاضع للضريبة، في نموذج EA (C.P.8A) الخاص بالموظف عن السنة، ويُدرَج الجزء الخاضع للضريبة في دخل الموظف عن تلك السنة. وبصورة منفصلة، على صاحب العمل في القطاع الخاص أن يُشعِر LHDN بأن الموظف على وشك إنهاء خدمته، مستخدمًا عمومًا نموذج CP22A قبل 30 يومًا على الأقل من الإنهاء، وينبغي أن يحتجز الأموال ريثما تصدر التسوية الضريبية (Surat Penyelesaian Cukai) قبل الإفراج عن الأجر النهائي."
 
 lang: "ar"
+sourceContentHash: "8493c353cbce9515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

@@ -33,8 +33,9 @@ faq:
     a: "Kunjungi situs web agensi pengelola sendiri — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — dan bukan daftar pihak ketiga, yang kerap mempertahankan program yang telah ditutup sebagai masih tersedia. Pemerintah juga mengelola direktori teragregasi di portal pembiayaan nasional MyStartup. Masa hibah berubah bersama Anggaran tahunan, jadi pastikan status terkini sebelum Anda menginvestasikan waktu dalam permohonan."
 
 lang: "id"
+sourceContentHash: "7466f2a7eef60107"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

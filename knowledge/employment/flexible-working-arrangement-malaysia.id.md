@@ -43,8 +43,9 @@ obligations:
     consequence: "Penalti umum hingga RM50,000 di bawah s.99A"
 
 lang: "id"
+sourceContentHash: "870f648f0972037b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

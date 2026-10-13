@@ -27,8 +27,9 @@ faq:
   - q: "Apa perbedaan antara MASB dengan Yayasan Pelaporan Keuangan?"
     a: "MASB menulis dan mengeluarkan standar. Yayasan Pelaporan Keuangan (FRF) mengawasi MASB, mengkaji kinerjanya dan bertanggung jawab atas pembiayaannya, termasuk menyetujui anggaran — tetapi ia tidak memiliki tanggung jawab langsung terhadap penetapan standar, yang terletak sepenuhnya pada MASB."
 lang: "id"
+sourceContentHash: "69128de74b5a73f9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

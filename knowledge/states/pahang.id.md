@@ -41,8 +41,9 @@ verificationNeeded:
   - "Portal pariwisata negeri menyebut luas 35,960 km persegi sementara portal pemerintah negeri menyebut 35,965 km persegi; verifikasi angka resmi tunggal dengan Kantor Sekretaris Pemerintah Pahang."
 
 lang: "id"
+sourceContentHash: "da77a92f707cbcd4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

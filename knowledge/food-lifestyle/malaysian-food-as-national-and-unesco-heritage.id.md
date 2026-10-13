@@ -30,8 +30,9 @@ faq:
     a: "Ya. Ia salah satu dari 10 hidangan yang diwartakan sebagai objek Warisan Kebangsaan oleh Pesuruhjaya Warisan pada 23 Februari 2024."
 
 lang: "id"
+sourceContentHash: "99f9a99ac9dc7cef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

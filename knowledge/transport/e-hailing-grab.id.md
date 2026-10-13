@@ -24,8 +24,9 @@ verificationNeeded:
   - "Apakah suatu persyaratan khusus pengemudi (seperti batas usia minimum) berlaku perlu diverifikasi dengan JPJ atau operator e-hailing terkait, karena hal itu tidak dinyatakan dalam bentuk yang dapat diverifikasi pada laman resmi yang dirujuk"
 
 lang: "id"
+sourceContentHash: "10f57c7f87a7c675"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

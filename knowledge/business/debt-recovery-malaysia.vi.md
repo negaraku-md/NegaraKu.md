@@ -45,8 +45,9 @@ verificationNeeded:
   - "Xác nhận các phí nộp hồ sơ tòa án và phí đóng dấu hiện hành từ Tòa Liên bang Malaysia hoặc cơ quan đăng ký liên quan"
 
 lang: "vi"
+sourceContentHash: "572d5b41b321894d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

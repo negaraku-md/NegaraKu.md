@@ -38,8 +38,9 @@ faq:
     a: "Energy Exchange Malaysia (ENEGEM), diluncurkan pada 15 April 2024 oleh Kementerian Peralihan Tenaga dan Transformasi Air, adalah platform lintas batas pertama Malaysia untuk menjual listrik terbarukan kepada negara tetangga ASEAN. Lelang perintisnya menawarkan 100 MW energi terbarukan kepada Singapura."
 
 lang: "id"
+sourceContentHash: "d6cf99b70fef6280"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

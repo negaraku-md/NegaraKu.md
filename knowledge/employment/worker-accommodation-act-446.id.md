@@ -62,8 +62,9 @@ obligations:
     consequence: "Penalti umum di bawah s.33 — denda hingga RM50,000 ditambah hingga RM1,000 untuk setiap hari pelanggaran berlanjut"
 
 lang: "id"
+sourceContentHash: "8cdaa2fd9d045eb3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

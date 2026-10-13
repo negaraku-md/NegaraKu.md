@@ -29,8 +29,9 @@ faq:
     a: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia) quản lý ngân hàng này với tư cách là một Tổ chức Tài chính Phát triển được quy định theo Luật các Tổ chức Tài chính Phát triển (Development Financial Institutions Act 2002)."
 
 lang: "vi"
+sourceContentHash: "05f6bb75d143a12e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

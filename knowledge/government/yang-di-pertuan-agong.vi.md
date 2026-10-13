@@ -37,8 +37,9 @@ verificationNeeded:
   - "Cần xác nhận danh sách bầu cử đang có hiệu lực hiện nay với thông báo chính thức của Người giữ Ấn Lớn của các Raja."
 
 lang: "vi"
+sourceContentHash: "acdf97d3f8926008"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

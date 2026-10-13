@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "كل من يريد فهم أنواع الأوبرا الصينية التقليدية في ماليزيا، والدور الذي تؤدّيه «أوبرا شكر الآلهة» (酬神戏) في موالد المعابد والأعياد."
 
 lang: "ar"
+sourceContentHash: "13b9c7f4fc9cc94d"
 masterLanguage: "zh"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -29,10 +29,11 @@ faq:
     a: "على رهان Sports Toto بقيمة RM2، يُقتطَع 8% (16 سِن) كضريبة ألعاب و8% أخرى (14.72 سِن) كرسم مراهنات تجميع؛ ويُخصَّص نحو 55% (RM1.10) كأموال جوائز."
 
 lang: "ar"
+sourceContentHash: "156aadc5edee33a0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

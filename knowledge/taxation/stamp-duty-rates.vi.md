@@ -29,8 +29,9 @@ verificationNeeded:
   - "Mục 12 (chuyển giao quyền, assignment) đã được thay thế bởi Act 862 và các khoảng bảo hiểm nhân thọ đã sửa đổi của nó không được tái hiện ở đây"
 
 lang: "vi"
+sourceContentHash: "bade86680d1436e5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

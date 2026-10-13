@@ -34,12 +34,13 @@ faq:
     a: "أُقرّ قانون التحريض (التعديل) لسنة 2015 (Act A1485) من البرلمان، وكان سينقّح المواد 2 و3 و4 — بإضافة النشر الإلكتروني، وإعادة صياغة أجزاء من التعريف، ورفع العقوبات، من بين أمور أخرى. غير أنه في بوابة Laws of Malaysia التابعة لمكتب النائب العام، لا يزال النص النافذ لـ Act 15 يتضمّن تعديلات حتى 1 يناير 2006 فقط، ولا يحمل Act A1485 جدولًا زمنيًا لبدء النفاذ. والنص المعمول به الموصوف هنا هو نسخة 1969."
 
 lang: "ar"
+sourceContentHash: "8c2644ad71910b60"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

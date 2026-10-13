@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đọc các tin tức thương mại của Malaysia — nhà xuất khẩu, nhà nhập khẩu, nhà đầu tư và nhà phân tích."
 
 lang: "vi"
+sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -35,8 +35,9 @@ faq:
     a: "Mereka mendaftar di portal MyTTx, mengajukan laporan triwulanan (Formulir TTx-03) dan menyetorkan pajak kepada Departemen Bea Cukai Diraja Malaysia selambat-lambatnya pada hari terakhir bulan setelah setiap periode pajak."
 
 lang: "id"
+sourceContentHash: "90bb7645abb0046f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

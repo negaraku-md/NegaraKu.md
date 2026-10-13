@@ -37,8 +37,9 @@ faq:
     a: "Có tồn tại một số miễn giảm B2B nhất định. Ví dụ, khi cả nhà cung cấp lẫn bên nhận đều đã đăng ký và cung cấp cùng một dịch vụ chịu thuế, một khoản miễn B2B có thể áp dụng, và miễn giảm theo nhóm có sẵn cho việc cho thuê giữa các công ty trong cùng một tập đoàn. Các khoản miễn là cụ thể — hãy xác nhận điều kiện đối chiếu với hướng dẫn của RMCD cho nhóm dịch vụ của bạn."
 
 lang: "vi"
+sourceContentHash: "4d9e9ab785dd88ab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

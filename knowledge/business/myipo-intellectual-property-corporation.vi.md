@@ -27,8 +27,9 @@ faq:
   - q: "MyIPO thuộc bộ nào?"
     a: "MyIPO là một cơ quan luật định liên bang thuộc Bộ Thương mại Nội địa và Chi phí Sinh hoạt (Ministry of Domestic Trade and Cost of Living, KPDN), bộ chịu trách nhiệm về thương mại nội địa và các vấn đề người tiêu dùng tại Malaysia."
 lang: "vi"
+sourceContentHash: "1a13bdbeb8de806f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

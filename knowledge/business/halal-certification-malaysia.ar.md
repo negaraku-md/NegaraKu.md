@@ -29,10 +29,11 @@ faq:
     a: "تستهدف JAKIM من 15 إلى 30 يوم عمل بمجرد استلام طلب مكتمل. أما عمليًا، ومع احتساب إعداد المستندات والتدقيق الميداني وأي تصحيحات، فينبغي للشركات أن تحسب حسابها لمدة ثلاثة إلى ستة أشهر من البداية حتى الحصول على الشهادة."
 
 lang: "ar"
+sourceContentHash: "5688169feeb631ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

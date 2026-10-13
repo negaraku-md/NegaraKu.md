@@ -48,8 +48,9 @@ obligations:
     consequence: "Chi phí còn lại vẫn bị giảm đi một khoản khấu hao hằng năm mà lẽ ra có thể được yêu cầu theo đoạn 68(c), nên một năm không yêu cầu là ưu đãi bị mất, không phải hoãn lại"
 
 lang: "vi"
+sourceContentHash: "f3aa2542969476e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

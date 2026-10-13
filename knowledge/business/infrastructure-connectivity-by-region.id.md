@@ -49,8 +49,9 @@ verificationNeeded:
   - "Pastikan tanggal peluncuran resmi dan biaya proyek jalur ganda elektrik Gemas ke Johor Bahru — keduanya tidak dapat ditemukan"
 
 lang: "id"
+sourceContentHash: "300ad373430dce8b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

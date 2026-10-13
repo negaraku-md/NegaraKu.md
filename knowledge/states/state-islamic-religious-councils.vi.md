@@ -29,8 +29,9 @@ faq:
     a: "Giúp và tư vấn cho Vương công trong các vấn đề Hồi giáo, cũng như quản lý zakat, wakaf, nhà thờ Hồi giáo và các việc liên quan theo đạo luật của bang. MAIN cũng là người được ủy thác duy nhất của tài sản wakaf của bang."
 
 lang: "vi"
+sourceContentHash: "d6d15ba266fb5f4b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

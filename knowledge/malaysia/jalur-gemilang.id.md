@@ -33,8 +33,9 @@ faq:
     a: "Nama itu dinyatakan pada 31 Agustus 1997 di Dataran Merdeka, dalam rangka peringatan 40 tahun kemerdekaan."
 
 lang: "id"
+sourceContentHash: "f09e1191ce6cd425"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

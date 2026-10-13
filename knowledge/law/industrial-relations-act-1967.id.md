@@ -34,8 +34,9 @@ faq:
     a: "Serikat menyerahkan tuntutan pengakuan kepada pemberi kerja. Pemberi kerja harus, dalam waktu 21 hari di bawah Pasal 9(3), mengakui serikat atau memberi tahu secara tertulis alasan penolakan. Jika ditolak, perkara dirujuk kepada KPPP yang dapat mengadakan pemungutan suara rahasia dan memeriksa kompetensi serikat melalui Ketua Pengarah Kesatuan Sekerja."
 
 lang: "id"
+sourceContentHash: "3e83f3a36eb3fa8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

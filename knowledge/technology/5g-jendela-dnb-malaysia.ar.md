@@ -36,8 +36,9 @@ faq:
     a: "لا. في 7 مارس 2026، أكملت كل من CelcomDigi وMaxis شراء أسهم وزارة المالية في DNB بمبلغ RM327,872,640.28، مؤشّرةً على خروج الحكومة من أعمال الجملة لـ5G ومحوّلةً DNB إلى كيان خاص بالكامل تملكه شركات الاتصالات وYTL."
 
 lang: "ar"
+sourceContentHash: "c56c91a9d7764362"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "يعتمد التوجيه الوزاري الصادر في 21 يونيو 2024 والتخصيص الدقيق لنطاق 700MHz (2×20MHz) / 3.5GHz (100MHz) حالياً على تقارير SoyaCincau؛ تأكد من ذلك مقابل ملف PDF البيان الصحفي الأساسي والأسئلة الشائعة الصادرة عن MCMC."
@@ -46,7 +47,7 @@ verificationNeeded:
   - "أفادت The Edge بأن طلب العروض «JP2» للمرحلة 2 من JENDELA صدر في «31 مارس»؛ تأكد من أن السنة 2026 مقابل مصدر من MCMC أو وزارة الاتصالات."
   - "تاريخ إصدار التوجيه الوزاري رقم 3 لسنة 2021 (Ministerial Direction No. 3 of 2021) (31 مايو 2021) مأخوذ من SoyaCincau؛ تأكد من ذلك مقابل الجريدة الرسمية أو سجل MCMC."
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

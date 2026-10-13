@@ -30,8 +30,9 @@ faq:
     a: "Bank Negara Malaysia mengatur dan mengawasi enam DFI yang ditetapkan di bawah Development Financial Institutions Act 2002, memastikan mereka kukuh secara keuangan dan menjalankan peran bermandat mereka dengan hati-hati."
 
 lang: "id"
+sourceContentHash: "2cd551f54c730d34"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

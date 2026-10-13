@@ -34,8 +34,9 @@ faq:
     a: "Pasal 3 menempatkan Petronas di bawah kendali dan arahan Perdana Menteri, yang arahannya mengikat korporasi itu. Pasal 6 mengharuskan izin Perdana Menteri sebelum siapa pun selain Petronas menjalankan pemrosesan, penyulingan atau pembuatan produk petrokimia, dan Pasal 7 memberi Perdana Menteri kuasa membuat peraturan."
 
 lang: "id"
+sourceContentHash: "7e742ec88e8babf9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

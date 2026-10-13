@@ -33,8 +33,9 @@ faq:
     a: "Mahkamah Tinggi berwenang membagi harta yang diperoleh sepanjang perkawinan di bawah Pasal 76, dengan mempertimbangkan kontribusi keuangan dan non-keuangan, utang untuk manfaat keluarga, kebutuhan anak, dan lama perkawinan. Pembagian tidak selalu 50:50."
 
 lang: "id"
+sourceContentHash: "9844bf61f2e89ad7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

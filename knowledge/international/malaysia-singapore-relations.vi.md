@@ -36,8 +36,9 @@ faq:
     a: "Vào ngày 23 tháng 5 năm 2008, Tòa án Công lý Quốc tế phán quyết đảo Batu Puteh (Pedra Branca) thuộc về Singapore, Middle Rocks thuộc về Malaysia, và South Ledge thuộc về quốc gia có vùng biển bao quanh nó."
 
 lang: "vi"
+sourceContentHash: "47c25fa8a007fc27"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

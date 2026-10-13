@@ -32,8 +32,9 @@ faq:
     a: "Rapid Bus mulai mengubah 19 jalur berpenumpang rendah — 16 jalur feeder MRT dan 3 jalur biasa, kira-kira 7% dari jaringan — menjadi layanan van yang dapat dipesan Rapid KL On-Demand."
 
 lang: "id"
+sourceContentHash: "ef9c4ac09cb054b2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

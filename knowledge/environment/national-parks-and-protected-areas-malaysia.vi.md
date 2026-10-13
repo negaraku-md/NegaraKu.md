@@ -34,8 +34,9 @@ faq:
     a: "Section 10 của Đạo luật Công viên Quốc gia 1980 cấm khai thác mỏ và thăm dò khoáng sản trong công viên quốc gia, trừ khi Cơ quan Nhà nước của Bang, sau khi tham vấn với Bộ trưởng, nhận thấy có tồn tại một mỏ khoáng sản đặc biệt giàu."
 
 lang: "vi"
+sourceContentHash: "1f3622365daf3410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

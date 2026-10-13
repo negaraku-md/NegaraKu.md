@@ -32,8 +32,9 @@ faq:
     a: "Một xếp hạng cao hơn làm giảm lãi mà chính phủ trả trên trái phiếu của mình, điều này giải phóng dư địa ngân sách và neo chi phí vay rộng hơn. Xếp hạng cũng định hình nhu cầu của nhà đầu tư nước ngoài đối với các tài sản ringgit, gián tiếp ảnh hưởng đến đồng tiền."
 
 lang: "vi"
+sourceContentHash: "2be52c4fe36e74d8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

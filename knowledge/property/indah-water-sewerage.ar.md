@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "أصحاب المنازل والمستأجرون وهيئات إدارة الملكية الطبقية وأصحاب الأعمال في شبه جزيرة ماليزيا الراغبون في فهم من هي IWK فعلًا، وما الذي يدفعون مقابله، ولماذا هي منفصلة عن فاتورة المياه."
 
 lang: "ar"
+sourceContentHash: "b457bd9b79e09115"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

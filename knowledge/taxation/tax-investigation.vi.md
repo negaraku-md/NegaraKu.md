@@ -32,8 +32,9 @@ faq:
     a: "Đối với các vụ liên quan đến gian lận, trốn thuế cố ý hoặc sơ suất, không có giới hạn thời gian. Đối với thủ tục hình sự cho một số vi phạm nhất định như Section 113, thời hạn 12 năm áp dụng."
 
 lang: "vi"
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

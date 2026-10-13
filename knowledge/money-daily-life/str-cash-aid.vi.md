@@ -23,8 +23,9 @@ appliesTo: "Cá nhân và hộ gia đình có thu nhập thấp và trung bình 
 verificationNeeded:
   - "FAQ chính thức STR 2026 (PDF tại bantuantunai.hasil.gov.my/FAQ/) chứa các chi tiết bổ sung về điều kiện đủ tư cách và số tiền chi trả, nhưng phông chữ nhúng trong PDF đó ngăn việc trích xuất văn bản tự động tại thời điểm viết bài — người đọc được khuyến khích tải xuống và tự kiểm tra PDF đó, hoặc đăng nhập MySTR để biết chi tiết cá nhân chính xác."
 lang: "vi"
+sourceContentHash: "353147e69093acce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

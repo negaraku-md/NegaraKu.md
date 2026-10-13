@@ -29,8 +29,9 @@ faq:
     a: "Hari Malaysia menjadi hari libur umum federal di seluruh negara baru beberapa dekade setelah federasi dibentuk. Sebelum itu, 16 September hanya hari libur di sebagian wilayah dan tidak dirayakan secara seragam di tingkat nasional, meskipun ia telah menjadi tanggal pembentukan federasi sejak 1963."
 
 lang: "id"
+sourceContentHash: "25064de19f113798"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

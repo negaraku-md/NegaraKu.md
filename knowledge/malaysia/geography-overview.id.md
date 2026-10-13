@@ -17,8 +17,9 @@ keyTakeaways:
   - "Monsun Timur Laut (Nov–Mar) membasahi pantai timur Semenanjung, barat Sarawak, dan utara Sabah; Monsun Barat Daya (Mei–Sep) secara relatif lebih kering — sebuah irama yang masih membentuk musim banjir dan kalender pertanian (Jabatan Meteorologi Malaysia)"
 appliesTo: "Siapa saja yang mencoba memahami mengapa populasi, kota, dan risiko banjir Malaysia terpusat di tempat-tempat tertentu — pelajar, pendatang baru, perencana, atau siapa saja yang bingung mengapa 'musim monsun' berarti berbeda di pantai yang berlainan."
 lang: "id"
+sourceContentHash: "1aadf1352cd31f55"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

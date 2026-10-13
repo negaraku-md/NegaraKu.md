@@ -32,8 +32,9 @@ faq:
     a: "Người thụ hưởng Sumbangan Tunai Rahmah (STR) từ 40 tuổi trở lên đủ điều kiện nhận sàng lọc miễn phí theo PeKa B40 tại các phòng khám chính phủ hoặc tư nhân đã đăng ký. Các Klinik Kesihatan công cũng cung cấp kiểm tra cơ bản."
 
 lang: "vi"
+sourceContentHash: "bbc5ab5d7d67181c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

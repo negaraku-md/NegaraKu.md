@@ -32,10 +32,11 @@ faq:
     a: "بالنسبة للقضايا التي تنطوي على احتيال أو تهرّب متعمّد أو إهمال، لا يوجد حدّ زمني. أما بالنسبة للإجراءات الجنائية لبعض الجرائم مثل المادة 113، فتنطبق مدة 12 عاماً."
 
 lang: "ar"
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

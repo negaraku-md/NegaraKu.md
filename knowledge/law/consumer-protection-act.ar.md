@@ -30,10 +30,11 @@ faq:
     a: "القرار نهائي وملزم للأطراف وقابل للتنفيذ عبر محكمة الصلح (Magistrate's Court). ولا يوجد حق استئناف عادي؛ وسبيل الطرف غير الراضي هو التقدم إلى المحكمة العليا (High Court) بطلب مراجعة قضائية."
 
 lang: "ar"
+sourceContentHash: "7e827e839a62b8bc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

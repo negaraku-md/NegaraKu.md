@@ -33,10 +33,11 @@ faq:
     a: "تُقيَّم ذاتياً. فأنت تُبلِّغ عن دخل الأرباح الموزَّعة في إقرارك السنوي (Form BE للمقيم، وForm M لغير المقيم) عن سنة التقييم 2025 فصاعداً، وتدفع نسبة 2% مع ضريبتك النهائية عند التقييم — فلا يوجد اقتطاع عند المصدر. واعتباراً من سنة التقييم 2025، يجب على الشركات أيضاً أن تُصدر للمساهمين قسيمة أرباح موزَّعة تبيّن الأرباح الإجمالية، وهو ما يدعم تصريحك."
 
 lang: "ar"
+sourceContentHash: "046defae2c8d4bbf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

@@ -34,10 +34,11 @@ faq:
     a: "الصين هي الوجهة الأكبر بفارق كبير، إذ أخذت نحو 49% من صادرات المطاط الطبيعي في ديسمبر 2024، تليها ألمانيا (12.9%)، والإمارات العربية المتحدة (7.3%)، والولايات المتحدة، والبرتغال."
 
 lang: "ar"
+sourceContentHash: "8dca8d58fbcc1a41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

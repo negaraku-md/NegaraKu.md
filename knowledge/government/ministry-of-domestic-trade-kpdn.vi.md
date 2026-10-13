@@ -27,8 +27,9 @@ faq:
   - q: "KPDN dùng những luật nào để kiểm soát giá?"
     a: "Nó chủ yếu dựa vào Luật Kiểm soát Nguồn cung (Control of Supplies Act 1961) và Luật Kiểm soát Giá và Chống Trục lợi (Price Control and Anti-Profiteering Act 2011), cho phép nó đặt mức trần giá, yêu cầu niêm yết giá, và hành động chống lại lợi nhuận cao một cách bất hợp lý."
 lang: "vi"
+sourceContentHash: "bc54d858f6180b54"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

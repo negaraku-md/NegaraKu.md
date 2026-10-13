@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Người Malaysia và người nước ngoài rời Malaysia vĩnh viễn, hoặc trong hơn ba tháng, và các đội HR hoặc bảng lương phải nộp giấy tờ thay mặt họ."
 
 lang: "vi"
+sourceContentHash: "00b0d352c02ac806"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

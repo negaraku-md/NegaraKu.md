@@ -44,8 +44,9 @@ verificationNeeded:
   - "Struktur tarif RTS Link dan hari pertama layanan penumpang yang dipastikan — MRT Corp menerbitkan target penyelesaian infrastruktur pada akhir 2026 dan mulainya layanan pada Januari 2027, sementara LTA Singapura menyatakannya sebagai layanan menjelang Desember 2026"
 
 lang: "id"
+sourceContentHash: "4905d83a83912c4b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,12 +29,13 @@ faq:
     a: "وجدت دراسة حكومية في أبريل 1999 تداخلًا في المهام وتداخلًا في الاختصاصات واستخدامًا غير اقتصادي للموارد بين الوكالات. وأُنشئت الوكالة الماليزية لإنفاذ القانون البحري لتوحيد الإنفاذ البحري تحت وكالة واحدة."
 
 lang: "ar"
+sourceContentHash: "d5fb408e6cb3819a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

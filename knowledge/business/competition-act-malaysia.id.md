@@ -27,8 +27,9 @@ faq:
     a: "Komisi Persaingan Malaysia (MyCC), sebuah badan statutori independen, menyelidiki pelanggaran yang diduga dan dapat mengenakan penalti keuangan serta arahan."
 
 lang: "id"
+sourceContentHash: "6a2eea7b75db3f8c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

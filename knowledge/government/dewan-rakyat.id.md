@@ -37,8 +37,9 @@ verificationNeeded:
   - "Peraturan-peraturan Majlis Mesyuarat Dewan Rakyat yang dirujuk di sini adalah Cetakan Ketiga Belas (April 2013). Peraturan Mesyuarat diamendemen dari waktu ke waktu oleh Dewan Rakyat sendiri di bawah Pasal 62(1) — pastikan nomor peraturan dan angka prosedur terhadap cetakan terkini di parlimen.gov.my sebelum bergantung padanya."
 
 lang: "id"
+sourceContentHash: "ce348e711538fac4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

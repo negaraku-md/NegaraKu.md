@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "كل من يتأثر بسعر الصرف — المستوردون والمصدّرون والمسافرون والطلاب في الخارج والمستثمرون."
 
 lang: "ar"
+sourceContentHash: "5c03f2bbac4e0dca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

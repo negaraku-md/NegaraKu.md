@@ -45,8 +45,9 @@ obligations:
     consequence: "Chế tài lên đến ba lần số thuế theo s.29(3), và một khoản tăng 10% trên người nhận theo s.21B(2)"
 
 lang: "vi"
+sourceContentHash: "00945edeadfe77b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

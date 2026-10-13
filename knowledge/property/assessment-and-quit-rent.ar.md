@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "أصحاب المنازل ومالكو الأراضي ومشترو العقارات في شبه جزيرة ماليزيا الذين يحتاجون إلى فهم فواتير الضرائب العقارية السنوية الخاصة بهم."
 
 lang: "ar"
+sourceContentHash: "466dc843a0553a23"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

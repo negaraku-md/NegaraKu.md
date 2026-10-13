@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Pelajar, analis kebijakan, wartawan, dan siapa saja yang ingin memahami bagaimana pembangunan negara direncanakan melampaui satu tahun keuangan."
 
 lang: "id"
+sourceContentHash: "e044f4eddcd76b63"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

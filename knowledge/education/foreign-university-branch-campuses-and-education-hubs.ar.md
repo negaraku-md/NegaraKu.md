@@ -34,10 +34,11 @@ faq:
     a: "لا. فبينما تتجمع Monash وNottingham وXiamen وHeriot-Watt حول وادي كلانج (Klang Valley) وبوتراجايا (Putrajaya)، تُركّز EduCity Iskandar عدة أحرام في ولاية جوهور (Johor) قرب سنغافورة، وتعمل Curtin وSwinburne في ولاية ساراواك (Sarawak)."
 
 lang: "ar"
+sourceContentHash: "eb5708a4ddb8ff8d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

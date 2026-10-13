@@ -65,8 +65,9 @@ obligations:
     consequence: "Trách nhiệm theo s.107(4) đối với toàn bộ khoản thuế mà nhân viên phải trả, như một khoản nợ đối với Chính phủ"
 
 lang: "vi"
+sourceContentHash: "59c7042463497f7b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

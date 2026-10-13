@@ -28,8 +28,9 @@ faq:
     a: "Theo quyết định 2020, mức phí được giảm 18% từ ngày 1 tháng 2 năm 2020 và không có đợt tăng phí nào được lên lịch suốt thời hạn nhượng quyền gia hạn đến năm 2058."
 
 lang: "vi"
+sourceContentHash: "6a089759a8d1ba8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

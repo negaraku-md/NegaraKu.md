@@ -27,8 +27,9 @@ faq:
   - q: "Apakah MDEC sama dengan MSC Malaysia?"
     a: "Tidak. MDEC adalah agensinya; MSC Malaysia adalah programnya yang terdahulu. MSC Malaysia telah diubah namanya menjadi Malaysia Digital, dan Status MD adalah pengganti Status MSC Malaysia yang terdahulu."
 lang: "id"
+sourceContentHash: "4aca195eadff6ca3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

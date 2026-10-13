@@ -34,10 +34,11 @@ faq:
     a: "التشغيل دون تسجيل جريمة. فبموجب المادة 39، يواجه الشخص الاعتباري غرامة من RM10,000 إلى RM50,000 عن الجريمة الأولى ومن RM20,000 إلى RM100,000 عن اللاحقة؛ ويواجه الفرد من RM5,000 إلى RM25,000 أو السجن حتى ستة أشهر عن الجريمة الأولى."
 
 lang: "ar"
+sourceContentHash: "86582fd00a53a2cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

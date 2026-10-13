@@ -32,8 +32,9 @@ faq:
     a: "Portal layanan Pemerintah Malaysia menyatakan bahwa akad nikah dijalankan atas surat izin menikah yang berlaku selama 90 hari."
 
 lang: "id"
+sourceContentHash: "ddd87b097dd5f44c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "ASASIpintar adalah program persiapan pra-universitas UKM untuk murid pintar berbakat, ditawarkan dalam tiga jalur yaitu Perdana, Komersial, dan Antarabangsa."
 
 lang: "id"
+sourceContentHash: "35e2f3422be13be3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

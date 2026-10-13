@@ -29,10 +29,11 @@ faq:
     a: "بموجب المادة 24(8)، لا يجوز أن يتجاوز مجموع كل الاقتطاعات 50% من الأجر المكتسب في ذلك الشهر. وتستثني المادة 24(9) التعويض بموجب المادة 13(1)، والمدفوعات النهائية المستحقة عند إنهاء العمل، وقروض الإسكان (مبلغ إضافي يصل إلى 25% بإذن المدير العام)."
 
 lang: "ar"
+sourceContentHash: "3388bf641e0109a3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

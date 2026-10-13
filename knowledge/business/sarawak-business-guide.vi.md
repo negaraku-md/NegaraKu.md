@@ -46,8 +46,9 @@ verificationNeeded:
   - "Văn bản hợp nhất trên LawNet của Sarawak Labour Ordinance Cap. 76 chỉ cập nhật đến ngày 31 tháng 7 năm 2006 và phải được đọc cùng với Act A1754 chứ không phải thay cho nó."
 
 lang: "vi"
+sourceContentHash: "64142f66b268b952"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

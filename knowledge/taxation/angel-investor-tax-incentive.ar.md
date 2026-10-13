@@ -39,10 +39,11 @@ verificationNeeded:
   - "القائمة الحالية للأنشطة التي وافق عليها الوزير — إذ يورد القرار العام 12/2020 (Public Ruling 12/2020) تسعة مجالات عالية النمو وعالية التقنية كما في 2020 ويصفها بأنها الوضع في ذلك الحين"
 
 lang: "ar"
+sourceContentHash: "490843a597d5164f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

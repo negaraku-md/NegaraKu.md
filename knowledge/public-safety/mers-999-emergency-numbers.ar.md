@@ -29,10 +29,11 @@ faq:
     a: "نعم. يتيح تطبيق SaveME 999 إرسال تنبيهات الطوارئ عبر الفيديو والنص والوسائط المتعددة، وليس المكالمات الصوتية فحسب، بحيث يستطيع ذوو الإعاقة أيضًا الوصول إلى مشغّل 999."
 
 lang: "ar"
+sourceContentHash: "a2e869579c3095a1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

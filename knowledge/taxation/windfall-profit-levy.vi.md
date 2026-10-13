@@ -31,8 +31,9 @@ faq:
     a: "Không. Các hộ nhỏ được miễn, và Lệnh năm 2023 chỉ áp dụng cho các diện tích cọ dầu không dưới 40.46 hecta (100 mẫu Anh); các diện tích trong khu vực định cư theo nhóm cũng được loại trừ."
 
 lang: "vi"
+sourceContentHash: "90a5c1941df77b25"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

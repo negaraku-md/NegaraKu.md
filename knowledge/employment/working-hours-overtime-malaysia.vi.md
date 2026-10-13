@@ -51,8 +51,9 @@ obligations:
     consequence: "Là tội danh theo s.59(4)"
 
 lang: "vi"
+sourceContentHash: "46ae2aa3c5adc6b5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

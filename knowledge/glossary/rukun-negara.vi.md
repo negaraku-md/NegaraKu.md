@@ -34,8 +34,9 @@ faq:
     a: "Khát vọng (năm mục tiêu quốc gia như đoàn kết và xã hội công bằng) là mục đích muốn đạt tới, còn năm nguyên tắc là nền tảng và kim chỉ nam sống để đạt tới các khát vọng đó. Cả hai tạo thành lời tuyên thệ đầy đủ của Rukun Negara."
 
 lang: "vi"
+sourceContentHash: "d94eca92454b00e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

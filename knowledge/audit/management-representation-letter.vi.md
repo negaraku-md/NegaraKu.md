@@ -29,8 +29,9 @@ faq:
     a: "Nếu ban quản lý không đưa ra các lời giải trình được yêu cầu bởi đoạn 10 và 11, kiểm toán viên phải từ chối ý kiến về báo cáo tài chính theo ISA 705 (đoạn 20)."
 
 lang: "vi"
+sourceContentHash: "b4dce9895318e6f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

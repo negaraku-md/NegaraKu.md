@@ -32,12 +32,13 @@ faq:
     a: "أُطلقت رؤية الازدهار المشترك 2030 (WKB 2030) في أكتوبر 2019 بوصفها الرؤية الخَلَف، مع التركيز على الازدهار المنصف للفترة من 2021 إلى 2030."
 
 lang: "ar"
+sourceContentHash: "d7d57585a7686755"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

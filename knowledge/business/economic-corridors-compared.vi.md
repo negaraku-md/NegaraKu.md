@@ -45,8 +45,9 @@ verificationNeeded:
   - "Trang các ưu đãi của chính ECERDC tại ecerdc.com.my trả về lỗi 404, nên phát biểu hiện hành của ECERDC về lối ưu đãi của chính nó không thể có được."
 
 lang: "vi"
+sourceContentHash: "b4e723b19c6d6a1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

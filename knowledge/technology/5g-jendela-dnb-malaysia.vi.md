@@ -36,8 +36,9 @@ faq:
     a: "Không. Vào ngày 7 tháng 3 năm 2026, CelcomDigi và Maxis mỗi bên hoàn tất việc mua cổ phần của Bộ Tài chính trong DNB với giá RM327,872,640.28, đánh dấu việc chính phủ rút khỏi hoạt động bán buôn 5G và biến DNB thành một thực thể hoàn toàn tư nhân do các nhà mạng và YTL sở hữu."
 
 lang: "vi"
+sourceContentHash: "c56c91a9d7764362"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "Chỉ thị Bộ trưởng ngày 21 tháng 6 năm 2024 và việc phân bổ chính xác 700MHz (2×20MHz) / 3.5GHz (100MHz) hiện dựa vào tường thuật của SoyaCincau; xác nhận đối chiếu với thông cáo báo chí sơ cấp dạng PDF và FAQ của MCMC."

@@ -29,10 +29,11 @@ faq:
     a: "ASASIpintar هو برنامج الأساس الجامعي التمهيدي في UKM للطلاب الموهوبين والمتفوقين، ويُقدَّم في ثلاثة مسارات: Perdana وCommercial وInternational."
 
 lang: "ar"
+sourceContentHash: "35e2f3422be13be3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -29,10 +29,11 @@ faq:
     a: "قانون أسواق رأس المال والخدمات لسنة 2007 (Act 671)، الذي بدأ العمل به في 28 سبتمبر 2007، يحكم أنشطة سوق رأس المال والأسواق والوسطاء المرخَّصين."
 
 lang: "ar"
+sourceContentHash: "d90c41e40d0daaa1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

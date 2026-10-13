@@ -29,8 +29,9 @@ faq:
     a: "Triều đình đã sống sót. Sultan Mahmud Shah và các hậu duệ của ngài tái lập nền cai trị Mã Lai về phương nam, quan trọng nhất là ở Vương triều Johor, mang theo cấu trúc triều đình, bộ luật và ngôn ngữ của Melaka. Các thiết chế đó tồn tại lâu hơn nền độc lập của thành phố hàng thế kỷ."
 
 lang: "vi"
+sourceContentHash: "cf412842ff34bf8f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

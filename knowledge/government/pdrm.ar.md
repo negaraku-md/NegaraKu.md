@@ -35,12 +35,13 @@ faq:
     a: "نعم، من حيث البنية. فقانون الشرطة لسنة 1967 ينشئ قوة واحدة تُوظَّف في ماليزيا وفي جميع أنحائها، تحت تسلسل قيادي واحد يرأسه المفتش العام للشرطة. كما تذكر البوابة الرسمية للحكومة (malaysia.gov.my) جمع الاستخبارات الأمنية بوصفه أحد أدوار القوة بموجب المادة 3(3)."
 
 lang: "ar"
+sourceContentHash: "2fcb4ae755f95546"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

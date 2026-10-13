@@ -36,8 +36,9 @@ faq:
     a: "Pulau Pinang adalah destinasi sepanjang tahun dengan iklim tropis yang panas dan lembap. Hujan bisa turun pada bulan mana pun tetapi cenderung paling lebat sekitar periode peralihan monsun (kira-kira April–Mei dan September–November); periode yang lebih kering dan sejuk sekitar Desember hingga Februari populer. Pagi hari dan sore hari adalah waktu paling nyaman untuk berjalan kaki."
 
 lang: "id"
+sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

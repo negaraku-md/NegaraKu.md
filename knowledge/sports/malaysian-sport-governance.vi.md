@@ -38,8 +38,9 @@ faq:
     a: "Viện Thể thao Quốc gia (ISN). Nó được đặt trên cơ sở luật định bởi Luật Viện Thể thao Quốc gia 2011 [Act 729] và có chức năng cung cấp dịch vụ, tư vấn và cố vấn về khoa học thể thao cũng như y học thể thao, tiến hành nghiên cứu, và cố vấn cho Bộ trưởng về các khía cạnh khoa học của thành tích vận động viên."
 
 lang: "vi"
+sourceContentHash: "6410f4b09d840cf0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

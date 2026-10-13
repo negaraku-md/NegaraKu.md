@@ -33,8 +33,9 @@ faq:
     a: "Perusahaan asing terdaftar harus menyampaikan laporan tahunan dalam jangka waktu 30 hari dari tanggal ulang tahun pendaftarannya (Pasal 576) dan menyampaikan laporan keuangan kepada SSM (Pasal 575), selain memastikan rincian kantor terdaftar dan agennya selalu mutakhir."
 
 lang: "id"
+sourceContentHash: "76459d3892f48c61"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

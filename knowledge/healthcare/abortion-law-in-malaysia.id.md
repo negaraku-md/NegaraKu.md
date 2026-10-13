@@ -31,8 +31,9 @@ faq:
     a: "Pedoman Kementerian Kesihatan 2012 mendefinisikan penghentian kehamilan sebagai prosedur pada usia kehamilan kurang dari 22 minggu, atau apabila usia tidak diketahui, janin diperkirakan kurang dari 500 gram."
 
 lang: "id"
+sourceContentHash: "58e08ea86f967964"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

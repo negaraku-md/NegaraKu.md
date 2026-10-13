@@ -27,8 +27,9 @@ faq:
     a: "Sepeda listrik dikecualikan hanya jika ia jenis pedal-assist yang memenuhi Standar Malaysia MS2514 tanpa pencekik (throttle) dan memiliki pedal yang tetap terpasang. Sepeda listrik berpencekik yang tidak disetujui diklasifikasikan sebagai PMD atau moped dan dilarang."
 
 lang: "id"
+sourceContentHash: "c96ca2ea918ba45a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

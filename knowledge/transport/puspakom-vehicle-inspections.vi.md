@@ -34,8 +34,9 @@ faq:
     a: "JPJ sẽ không gia hạn thuế đường bộ cho phương tiện thương mại nếu không có báo cáo kiểm định hợp lệ, và phương tiện hoạt động mà không có kiểm định có thể bị JPJ phạt hòa giải hoặc phạt giấy."
 
 lang: "vi"
+sourceContentHash: "6dfb76a4e260e0c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

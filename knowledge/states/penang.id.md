@@ -33,8 +33,9 @@ verificationNeeded:
   - "Konfirmasikan populasi Penang saat ini terhadap rilis populasi negara bagian DOSM terbaru sebelum penerbitan."
 
 lang: "id"
+sourceContentHash: "a7862eb1a54ab895"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

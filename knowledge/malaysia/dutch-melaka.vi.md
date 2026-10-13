@@ -20,8 +20,9 @@ keyTakeaways:
   - "Anglo-Dutch Treaty of 17 March 1824 nhượng Melaka vĩnh viễn cho Anh để đổi lấy Bencoolen; việc chuyển giao thực tế có hiệu lực vào ngày 1 tháng 3 năm 1825"
 appliesTo: "Độc giả đã biết Melaka đổi chủ từ tay người Bồ Đào Nha sang Hà Lan rồi sang Anh, và muốn hiểu vì sao 184 năm ở giữa lại trông khác biệt đến vậy so với 130 năm trước đó và 121 năm sau đó — cùng với việc chuyển giao cho Anh thực sự đã diễn ra như thế nào."
 lang: "vi"
+sourceContentHash: "c29f50bb16f23497"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

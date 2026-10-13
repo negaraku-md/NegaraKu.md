@@ -32,10 +32,11 @@ faq:
     a: "إنها طبقات منفصلة. فالمعيار ISA 550 يحكم التدقيق؛ والمعيار MFRS 124 يحكم ما يجب الإفصاح عنه في البيانات المالية؛ والفصل 10 من بورصة ماليزيا يحكم الإجراء الشركاتي — متى يجب على المُصدِر المدرج أن يعلن معاملة، أو يصدر تعميمًا، أو يحصل على موافقة مسبقة من المساهمين، مع امتناع المديرين والمساهمين الكبار المعنيين عن التصويت."
 
 lang: "ar"
+sourceContentHash: "ea0ecab6bfc0f793"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

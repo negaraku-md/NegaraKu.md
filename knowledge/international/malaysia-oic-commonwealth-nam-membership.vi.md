@@ -31,8 +31,9 @@ faq:
     a: "OIC là một cơ quan chính trị và đoàn kết của toàn bộ thế giới Hồi giáo với 57 thành viên; D-8 thì là một nhóm hợp tác kinh tế của tám (nay là chín) quốc gia đang phát triển có đa số dân theo Hồi giáo, nhỏ hơn và tập trung hơn vào thương mại và phát triển."
 
 lang: "vi"
+sourceContentHash: "0bd4e9cbc79316f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

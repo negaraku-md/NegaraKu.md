@@ -39,8 +39,9 @@ verificationNeeded:
   - "Hãy xác nhận hành vi xác thực của điểm nhập cụ thể đối chiếu với hướng dẫn người dùng mTool 2.2 cho điểm nhập đó trước khi dựa vào bất kỳ quy tắc nào được mô tả một cách chung chung"
 
 lang: "vi"
+sourceContentHash: "4cbf1a047bbd3c22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

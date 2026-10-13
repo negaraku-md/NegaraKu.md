@@ -32,12 +32,13 @@ verificationNeeded:
   - "التواريخ الدقيقة (بداية/نهاية رئاسة الوزراء، وتعيين نائب رئيس الوزراء) تحتاج إلى تأكيد مقابل مكتب رئيس الوزراء والسجلات الرسمية."
 
 lang: "ar"
+sourceContentHash: "01485efbacf83246"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

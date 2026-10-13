@@ -29,11 +29,12 @@ faq:
     a: "لا. ألزم الاتفاق الطرفين بمعاهدة مستقبلية بشأن الدفاع الخارجي مع مجلس دفاع مشترك، وبتعاون اقتصادي، وبضمانات متبادلة من دولة إلى دولة لاتفاقيتَي المياه المؤرختين 1 سبتمبر 1961 و29 سبتمبر 1962 بين مجلس بلدية سنغافورة وحكومة ولاية جوهور. كما استمرت الطعون من المحكمة العليا بسنغافورة تُرفع إلى المحكمة الاتحادية الماليزية بوصف ذلك ترتيبًا مؤقتًا إلى أن تشرّع سنغافورة خلاف ذلك."
 
 lang: "ar"
+sourceContentHash: "0de005f939d65ebf"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

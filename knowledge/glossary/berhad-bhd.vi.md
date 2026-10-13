@@ -32,8 +32,9 @@ faq:
     a: "Có. Một công ty tư nhân có thể chuyển đổi thành công ty đại chúng theo Luật Công ty (Companies Act 2016) — thường bằng cách thông qua một nghị quyết đặc biệt của các thành viên, đổi tên để kết thúc bằng 'Berhad', và nộp các tài liệu cần thiết cho Ủy ban Công ty Malaysia (SSM)."
 
 lang: "vi"
+sourceContentHash: "8327877494bab4c8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

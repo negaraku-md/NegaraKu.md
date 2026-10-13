@@ -29,8 +29,9 @@ faq:
     a: "Batas ringgit diperbarui setiap putaran survei (sekitar dua tahun) dan naik bersama pertumbuhan pendapatan. Banyak angka 'hingga RMx,xxx' yang beredar daring sebenarnya dari putaran lama."
 
 lang: "id"
+sourceContentHash: "26ffee570df18e65"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

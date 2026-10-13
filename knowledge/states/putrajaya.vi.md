@@ -38,8 +38,9 @@ verificationNeeded:
   - "Xác nhận số lượng khu (20) và con số diện tích 4,931 hecta so với ấn phẩm chính thức mới nhất của Tổng công ty Putrajaya — báo cáo thường niên 2017 từng ghi một con số diện tích khác."
 
 lang: "vi"
+sourceContentHash: "7ed3eafee80e71c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

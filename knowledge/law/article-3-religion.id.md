@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang menginginkan teks konstitusi yang tepat berkenaan agama — pelajar, peneliti, dan pembaca yang senantiasa menemukan parafrasa Pasal 3 dan Pasal 11 dan menginginkan ketentuan itu sendiri, dikutip dari cetak ulang resmi."
 
 lang: "id"
+sourceContentHash: "e8ee51ffbb017879"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

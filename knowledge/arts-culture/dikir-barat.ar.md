@@ -18,9 +18,10 @@ keyTakeaways:
   - "يرتبط هذا الفنّ بتقليد «ذِكر» من جنوب تايلاند جرى تكييفه في كلنتان بإضافة البانتون واللهجة الكلنتانية"
 appliesTo: "كل من يريد فهم شكل أداء ديكير بارات، ودوري توكانغ كاروت وتوك جوارا، وبنية الفرقة."
 lang: "ar"
+sourceContentHash: "8d1b65f59cb7dafe"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

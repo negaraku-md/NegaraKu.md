@@ -29,10 +29,11 @@ faq:
     a: "لا. وصلة النقل السريع (RTS Link) خدمة مكوكية قصيرة عابرة للحدود بين جوهور بهرو ووودلاندز، من المستهدف افتتاحها في 2026. أما السكة الحديدية فائقة السرعة فهي خط منفصل فائق السرعة يبلغ طوله نحو 350 كم ومخطط له بين كوالالمبور وسنغافورة."
 
 lang: "ar"
+sourceContentHash: "b505d87f2fe5cea1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -47,8 +47,9 @@ verificationNeeded:
   - "Không tồn tại số trung vị chính thức về thuê công nghiệp hoặc văn phòng theo bang. Xác nhận liệu JPPH có công bố bất kỳ chuỗi số về thuê nào không hiển thị trong Property Stock Report hoặc các Property Market Reports vùng hay không"
 
 lang: "vi"
+sourceContentHash: "7197254874c986ae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

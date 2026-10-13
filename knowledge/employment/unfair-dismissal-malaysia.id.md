@@ -59,8 +59,9 @@ obligations:
     consequence: "Award tetap berlaku dan menjadi dapat ditegakkan"
 
 lang: "id"
+sourceContentHash: "673d411271b17256"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

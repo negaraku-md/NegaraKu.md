@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Direktur perusahaan, sekretaris perusahaan, dan siapa saja yang bertanggung jawab atas kepatuhan korporat."
 
 lang: "id"
+sourceContentHash: "4458f7c26c528c99"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

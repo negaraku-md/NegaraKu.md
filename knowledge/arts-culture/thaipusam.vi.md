@@ -35,8 +35,9 @@ faq:
     a: "Chỉ ở các bang và lãnh thổ liên bang công bố công báo nó. Nó được nghỉ như ngày nghỉ lễ công cộng ở những nơi gồm Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor và Kedah, và không được công bố công báo là ngày nghỉ liên bang toàn quốc. Vì nó được ấn định theo từng đơn vị hành chính, danh sách chính xác có thể khác nhau qua từng năm — hãy luôn kiểm tra thông báo ngày nghỉ chính thức của bang liên quan."
 
 lang: "vi"
+sourceContentHash: "0b3f0235d5a676f2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

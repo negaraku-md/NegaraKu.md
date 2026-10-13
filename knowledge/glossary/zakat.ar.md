@@ -32,12 +32,13 @@ faq:
     a: "إلى سلطة دينية منشأة بموجب قانون مكتوب — أي لجنة أو مركز الزكاة في ولايتك — واحتفظ بالإيصال. أما المدفوعات للأفراد أو الصناديق الخاصة فلا تؤهِّل للرد."
 
 lang: "ar"
+sourceContentHash: "0477b9f160c18e84"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

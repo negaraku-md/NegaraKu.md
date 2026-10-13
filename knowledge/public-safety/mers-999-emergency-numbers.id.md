@@ -29,8 +29,9 @@ faq:
     a: "Ya. Aplikasi SaveME 999 memungkinkan peringatan darurat berbasis video, teks, dan multimedia, bukan hanya panggilan suara, agar penyandang disabilitas juga dapat menghubungi operator 999."
 
 lang: "id"
+sourceContentHash: "a2e869579c3095a1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

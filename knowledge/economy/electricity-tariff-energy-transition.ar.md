@@ -31,10 +31,11 @@ faq:
     a: "تستهدف خارطة الطريق NETR بلوغ 70% من قدرة الطاقة المتجددة وصافي انبعاثات صفري من غازات الدفيئة بحلول 2050، مدعومةً بعشرة مشاريع رائدة يُتوقّع أن تجذب استثمارات تزيد على RM25 مليار."
 
 lang: "ar"
+sourceContentHash: "19a2c50c83298410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

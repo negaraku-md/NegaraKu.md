@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "المواطنون الماليزيون، والآباء الذين يتولّون تسجيل أبنائهم، وكل من يحتاج إلى التحقق من الهوية في ماليزيا."
 
 lang: "ar"
+sourceContentHash: "7c8af58484cf7ac0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

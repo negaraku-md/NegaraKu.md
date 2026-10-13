@@ -31,10 +31,11 @@ faq:
     a: "لا. برنامج إدارة الديون ليس إفلاسًا وليس سجلًا قضائيًا. إنه خطة سداد يُتفاوَض عليها طوعًا بينك وبين AKPK ومصارفك الدائنة."
 
 lang: "ar"
+sourceContentHash: "4311ea106e7a34dc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

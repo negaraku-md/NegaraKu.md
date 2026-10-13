@@ -42,8 +42,9 @@ verificationNeeded:
   - "Xác nhận lệ phí nộp hiện hành của SSM áp dụng cho việc áp dụng lần đầu một điều lệ so với việc sửa đổi"
 
 lang: "vi"
+sourceContentHash: "feb9a1bc3f5debaf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

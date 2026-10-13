@@ -44,8 +44,9 @@ verificationNeeded:
   - "Tất cả các thông tin doanh nghiệp được lặp lại rộng rãi về Medini Iskandar Malaysia Sdn Bhd và các cổ đông của công ty đều đến từ nguồn không chính thức và chưa được xác minh"
 
 lang: "vi"
+sourceContentHash: "61c45f9103d24eb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

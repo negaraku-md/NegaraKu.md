@@ -42,10 +42,11 @@ verificationNeeded:
   - "ما إذا كان الإعفاء بموجب المادة 39(1)(r) في P.U.(A) 425-2021 قد مُدِّد إلى ما بعد YA2025 — يذكر تعميم هيئة لابوان للخدمات المالية (Labuan FSA) رقم 269/2021 أن فترة النفاذ من YA2019 إلى YA2025 ولم يُعثر على أي أمر تمديد"
   - "ما إذا كانت الفقرتان 39(1)(o) و39(1)(p)، اللتان تشيران إلى قانون ضريبة السلع والخدمات لسنة 2014 (Goods and Services Tax Act 2014)، لا تزالان ساريتين بعد إلغاء ذلك القانون"
 lang: "ar"
+sourceContentHash: "5306816ff4b971c7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Học sinh sinh viên, nhà phân tích chính sách, nhà báo, công chức và bất kỳ ai cần hiểu cách ngân sách liên bang được soạn thảo, tranh luận và phê duyệt."
 
 lang: "vi"
+sourceContentHash: "8b64cd44c511fc05"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

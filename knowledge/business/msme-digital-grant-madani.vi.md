@@ -33,8 +33,9 @@ faq:
     a: "Không, nó không mở vĩnh viễn. Khoản trợ cấp được tài trợ từ một khoản phân bổ ngân sách chính phủ cố định và chạy theo các vòng định kỳ mở và đóng, nên khả năng có sẵn phụ thuộc vào chu kỳ hiện hành và quỹ còn lại. Theo các quy tắc 2025, một doanh nghiệp đã nhận một khoản trợ cấp đối ứng số nói chung không thể đòi lại, trừ đối với các giải pháp hóa đơn điện tử. Hãy luôn xác minh liệu một vòng có đang mở, và các điều khoản chính xác, trên cổng chính thức của BSN hoặc MDEC."
 
 lang: "vi"
+sourceContentHash: "1194109fce71d94d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

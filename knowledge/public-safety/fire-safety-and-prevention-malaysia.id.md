@@ -32,8 +32,9 @@ faq:
     a: "Masalah terkait listrik termasuk yang tertinggi bagi kebakaran hunian — pengabelan rusak, soket kelebihan beban, dan kabel sambungan aus. Aktivitas memasak yang ditinggalkan tanpa pengawasan dan kebocoran gas LPG turut menjadi penyumbang utama."
 
 lang: "id"
+sourceContentHash: "9ccf45c843ab8ebf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

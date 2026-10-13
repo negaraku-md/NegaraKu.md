@@ -40,8 +40,9 @@ verificationNeeded:
   - "Hãy xác nhận văn bản và tình trạng hiện hành của thông báo của LHDN về tiểu mục 77A(4) trực tiếp với LHDN — trang thông báo không truy cập được tại thời điểm viết và được dẫn ở đây qua FAQ về miễn kiểm toán của SSM"
   - "Hãy xác nhận các ngày giai đoạn bắt buộc của MBRS 2.0 hiện hành và các điểm nhập trên trang MBRS của SSM"
 lang: "vi"
+sourceContentHash: "10c01141306ea188"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -28,10 +28,11 @@ verificationNeeded:
   - "المعدلات هي السقوف التعاهدية العامة المنشورة من LHDN، لا المعدلات مادةً مادةً. وعدة معاهدات تخفض الفائدة إلى الصفر للمدفوعات إلى حكومة أو بنك مركزي أو مؤسسة معتمدة؛ راجِع المادة ذات الصلة قبل تطبيق معدل الجدول"
 
 lang: "ar"
+sourceContentHash: "2eae865a4f192515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

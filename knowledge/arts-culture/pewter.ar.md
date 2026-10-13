@@ -16,9 +16,10 @@ keyTakeaways:
   - "لم تتّخذ الشركة اسمها الحالي إلا عام 1992، بعد مرسوم ملكي صدر عام 1979 من سلطان سلانغور."
 appliesTo: "كل مهتمّ بتقاليد الحِرَف الماليزية، أو تاريخ تعدين القصدير، أو شركة Royal Selangor"
 lang: "ar"
+sourceContentHash: "ab235dfd3f4f5c67"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

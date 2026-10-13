@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Học sinh sinh viên, nhà phân tích chính sách, nhà báo và bất kỳ ai muốn hiểu cách phát triển của quốc gia được hoạch định vượt ra ngoài một năm tài chính."
 
 lang: "vi"
+sourceContentHash: "e044f4eddcd76b63"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

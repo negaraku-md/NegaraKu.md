@@ -31,10 +31,11 @@ faq:
     a: "يحصل الفائزون على رسالة تكريم وطنية، ومبلغ RM60,000 نقداً، ومخصص نشر تصل قيمته إلى RM500,000 (حتى 50,000 نسخة)، وعلاج طبي مجاني في جناح الدرجة الأولى بالمستشفيات الحكومية، ومخصص شهري قدره RM5,000."
 
 lang: "ar"
+sourceContentHash: "c27d87b5dbf2077e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

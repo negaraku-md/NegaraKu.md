@@ -30,12 +30,13 @@ faq:
     a: "تتولى التركة الصغيرة المتضمّنة أموالًا غير منقولة والمُقدَّرة بأقل من RM5 مليون إدارةُ مدير الأراضي عبر مكتب الأراضي المحلي (District Land Office)، الذي يُصدر أمر توزيع (Distribution Order)."
 
 lang: "ar"
+sourceContentHash: "569aa98893242689"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

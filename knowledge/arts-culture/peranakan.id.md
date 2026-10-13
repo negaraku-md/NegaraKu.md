@@ -18,8 +18,9 @@ keyTakeaways:
   - "Kebaya, yang menjadi tumpuan pakaian Nyonya, masuk dalam daftar warisan takbenda UNESCO pada 2024 melalui pencalonan bersama oleh Brunei, Indonesia, Malaysia, Singapura, dan Thailand"
 appliesTo: "Siapa saja yang ingin mendapatkan gambaran yang tepat dan penuh hormat tentang siapa Peranakan (Baba-Nyonya), dan cara mengenali masakan, pakaian, serta warisan benda mereka di Melaka dan Pulau Pinang."
 lang: "id"
+sourceContentHash: "b8424f95164f1085"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

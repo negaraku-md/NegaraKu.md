@@ -40,8 +40,9 @@ verificationNeeded:
   - "Việc liệu các nhà vận hành nền tảng có bắt buộc phải phát hành e-Invoice tự lập hóa đơn (self-billed) cho các khoản chi trả cho từng lao động gig hay không, và ở giai đoạn nào, cần được xác nhận với Hướng dẫn cụ thể về e-Invoice hiện hành"
 
 lang: "vi"
+sourceContentHash: "4902766a1bf0ff6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

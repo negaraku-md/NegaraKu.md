@@ -33,8 +33,9 @@ faq:
     a: "Tidak. Hibah CIP bersyarat. Dana dikeluarkan mengikuti pencapaian tolok ukur yang disepakati (melalui pembayaran di muka dan penggantian), dan hibah dapat ditarik kembali jika penerima melanggar syaratnya atau proyek dihentikan. CIP Sprint khususnya distrukturkan sebagai hibah yang dapat dikonversi. Baca perjanjian hibah dengan teliti agar Anda memahami ketentuan tolok ukur, pelaporan, dan penarikan kembali sebelum Anda menerimanya."
 
 lang: "id"
+sourceContentHash: "314f5c2c68cdde6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

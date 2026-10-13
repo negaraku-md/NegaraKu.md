@@ -20,9 +20,10 @@ keyTakeaways:
 appliesTo: "كل من يريد فهم الفروق في الأصل والموسيقى والحركة بين الجوغيت والزابين بوصفهما رقصتين شعبيتين ملايويتين منفصلتين."
 
 lang: "ar"
+sourceContentHash: "f85648fc29f5d316"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

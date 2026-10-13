@@ -29,11 +29,12 @@ faq:
     a: "كلتا اللحظتين حقيقية. فقد سرى النقل القانوني للسيادة عند منتصف ليل 31 أغسطس 1957، وميّزته مراسم العلم في الساحة (padang) بكوالالمبور. أما مراسم الإعلان العام، مع هتاف الاستقلال (Merdeka) سبع مرات، فجرت لاحقاً صباح ذلك اليوم في ملعب ميرديكا (Stadium Merdeka)."
 
 lang: "ar"
+sourceContentHash: "9d15ea63aee3b87b"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-07-22
 revision: 0
 revisions:

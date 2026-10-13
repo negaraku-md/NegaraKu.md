@@ -34,10 +34,11 @@ faq:
     a: "نعم. جميعها الأربع — TNG Digital Sdn Bhd، وAxiata Digital E-code Sdn Bhd (Boost)، وGPay Network (M) Sdn Bhd (GrabPay)، وShopeePay Malaysia Sdn Bhd — مدرجة بوصفها مُصدِرة للنقود الإلكترونية من غير المصارف في القائمة الرسمية لـ BNM."
 
 lang: "ar"
+sourceContentHash: "3baa675be6fcede6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

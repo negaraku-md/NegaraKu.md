@@ -62,8 +62,9 @@ obligations:
     consequence: "Phạt tiền không quá RM50,000 đối với công ty và mọi cán bộ"
 
 lang: "vi"
+sourceContentHash: "0c5ee4a6c8f640ee"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

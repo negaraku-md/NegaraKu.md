@@ -24,12 +24,13 @@ keyTakeaways:
 appliesTo: "القرّاء الذين يحتاجون إلى عرض محايد ونصّي لماهية SOSMA والإجراءات الخاصة التي يوفّرها — الطلاب والباحثون وكل من يرسم إطار قانون الأمن في ماليزيا. وهو سجلّ تشريعي وصفي، لا نصيحة قانونية، ولا يعلّق على أي قضية أو ملاحقة أو جدل سياسي."
 
 lang: "ar"
+sourceContentHash: "23e4a7f81f4e58a1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

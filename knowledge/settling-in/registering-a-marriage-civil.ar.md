@@ -25,10 +25,11 @@ verificationNeeded:
   - "إذا كان أحد الطرفين قد تزوّج سابقاً، أو كان أجنبياً، فتحقّق من الوثائق الداعمة المحدَّدة (حكم الطلاق، شهادة الوفاة، خطاب إثبات العزوبية من سفارتك) المطلوبة لحالتك لدى كاونتر JPN، إذ تختلف هذه بحسب الظروف"
 
 lang: "ar"
+sourceContentHash: "6a489eafa5d0a4e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

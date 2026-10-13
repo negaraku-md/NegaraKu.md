@@ -33,10 +33,11 @@ faq:
     a: "نعم. منذ أول انتشار لها في الكونغو عام 1960، ساهمت ماليزيا بأكثر من 29,000 من قوات حفظ السلام عبر أكثر من 38 عملية لحفظ السلام وفقاً للأمم المتحدة. وحتى 1 يوليو 2026، تساهم ماليزيا بـ 516 فرداً في قوة UNIFIL في لبنان (بانخفاض عن 830 فرداً في أغسطس 2025)."
 
 lang: "ar"
+sourceContentHash: "9173bdd2a2224732"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố hiểu Văn phòng Thủ tướng thực sự là gì, vì sao rất nhiều cơ quan liên bang có vẻ không liên quan lại trực thuộc nó, và nó khác với một bộ thông thường như thế nào."
 
 lang: "vi"
+sourceContentHash: "e406cee4d2aa12d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

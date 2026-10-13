@@ -35,10 +35,11 @@ faq:
     a: "يتولى المعهد الماليزي لأبحاث السلامة على الطرق (MIROS)، المُنشأ في 2007، الأبحاث القائمة على الأدلة، بينما تقود شعبة السلامة على الطرق في JPJ (JKJR سابقاً) أنشطة المناصرة والتوعية. وكلاهما تحت وزارة النقل."
 
 lang: "ar"
+sourceContentHash: "681af11f157961d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

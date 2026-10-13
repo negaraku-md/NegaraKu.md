@@ -30,8 +30,9 @@ faq:
     a: "Đối với việc báo cáo tội nghiêm trọng theo mục 266(9), thì không. Mục 266(10) quy định rằng miễn là báo cáo về vấn đề được nêu trong tiểu mục (9) được thực hiện một cách thiện chí cho Cơ quan Đăng ký, thì không nghĩa vụ nào của kiểm toán viên bị coi là vi phạm chỉ vì việc báo cáo đó. Sự bảo vệ theo luật định rõ ràng này được đề cập cụ thể cho các báo cáo theo tiểu mục (9)."
 
 lang: "vi"
+sourceContentHash: "9561fa4bff249209"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Có. Vợ/chồng hoặc bạn đời chung sống, con dưới 18 tuổi, con khuyết tật, và cha mẹ của người giữ giấy phép chính có thể nộp đơn với tư cách người phụ thuộc, nhưng vợ/chồng không thể làm việc theo giấy phép này."
 
 lang: "vi"
+sourceContentHash: "f5c5f5f455206b06"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

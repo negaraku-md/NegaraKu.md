@@ -37,8 +37,9 @@ verificationNeeded:
   - "Xác nhận cách đơn vị niêm yết được định nghĩa cho các mục đích của Malaysia trên Bursa Malaysia Main Market, ACE Market và LEAP Market, và liệu các tổ chức phát hành trên LEAP Market có nằm trong yêu cầu của ISA 701 hay không"
 
 lang: "vi"
+sourceContentHash: "573f87ce15adf16f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

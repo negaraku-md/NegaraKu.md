@@ -32,10 +32,11 @@ faq:
     a: "نعم. استأنفت ماليزيا والاتحاد الأوروبي مفاوضات اتفاقية التجارة الحرة في يناير 2025، وأبرمت ماليزيا اتفاقية شراكة اقتصادية مع دول EFTA (آيسلندا وليختنشتاين والنرويج وسويسرا) في 11 أبريل 2025."
 
 lang: "ar"
+sourceContentHash: "7239744fcdcf2f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

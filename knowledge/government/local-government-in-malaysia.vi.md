@@ -30,8 +30,9 @@ faq:
   - q: "Vì sao chính quyền địa phương là vấn đề của bang chứ không phải liên bang?"
     a: "Vì Hiến pháp Liên bang đặt chính quyền địa phương vào Danh mục Tiểu bang (khoản 4 của Danh mục II, Phụ lục thứ Chín). Để giữ chính sách nhất quán, Điều 95A lập ra một Hội đồng Quốc gia về Chính quyền Địa phương để hoạch định chính sách quốc gia mà cả chính phủ liên bang lẫn bang đều phải tuân theo."
 lang: "vi"
+sourceContentHash: "78de95ae401b9cbb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

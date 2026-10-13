@@ -28,8 +28,9 @@ verificationNeeded:
   - "Cần xác nhận các số đạo luật 612, 732, 789, 800, 840 và 872 đối chiếu với lom.agc.gov.my một khi các tệp PDF đó được cung cấp — chúng hiện được xác nhận từ các trang cơ quan chứ không phải từ kho LOM"
 
 lang: "vi"
+sourceContentHash: "debce12c53f16ed5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

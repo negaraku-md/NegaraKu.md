@@ -34,12 +34,13 @@ faq:
     a: "التطلعات (خمسة أهداف وطنية مثل الوحدة والمجتمع العادل) هي الغايات المراد بلوغها، بينما المبادئ الخمسة هي الأسس وأدلة الحياة التي تُبلَغ بها تلك التطلعات. ومعًا يشكّلان القَسَم الكامل لركن نيغارا."
 
 lang: "ar"
+sourceContentHash: "d94eca92454b00e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

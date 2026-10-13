@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang mencoba membaca laporan inflasi Malaysia dengan tepat — rumah tangga, pemberi kerja yang menetapkan gaji, dan analis."
 
 lang: "id"
+sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

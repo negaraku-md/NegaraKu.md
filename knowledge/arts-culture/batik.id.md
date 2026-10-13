@@ -29,8 +29,9 @@ faq:
     a: "Kemeja batik adalah pakaian resmi yang diterima untuk pria, dipakai pada acara resmi, resepsi pernikahan dan acara diplomatik menggantikan setelan dan dasi. Kantor pemerintah menetapkan hari memakai batik, yang mempertahankannya dalam peredaran rutin dan tidak terbatas pada penggunaan seremonial semata."
 
 lang: "id"
+sourceContentHash: "239aa5ec5e035842"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

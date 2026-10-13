@@ -18,8 +18,9 @@ verificationNeeded:
   - "Xác nhận cách SSM xử lý phí ngân hàng và lãi được ghi có vào tài khoản của một công ty không hoạt động — chỉ thị chỉ loại trừ những nghĩa vụ mà công ty được luật yêu cầu phải trả"
 
 lang: "vi"
+sourceContentHash: "71652677302d5a7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -78,8 +78,9 @@ obligations:
     consequence: "Pengecualian s.75(2)(d) tidak tersedia, sehingga alokasi memerlukan persetujuan anggota terlebih dahulu atau batal berdasarkan s.75(4)"
 
 lang: "id"
+sourceContentHash: "8cbd2aa6c4bb698a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -35,8 +35,9 @@ faq:
     a: "Viện Nghiên cứu An toàn Giao thông Đường bộ Malaysia (MIROS), được thành lập năm 2007, thực hiện nghiên cứu dựa trên bằng chứng, trong khi Vụ An toàn Giao thông Đường bộ của JPJ (trước đây là JKJR) dẫn dắt công tác vận động và nâng cao nhận thức. Cả hai đều thuộc Bộ Giao thông."
 
 lang: "vi"
+sourceContentHash: "681af11f157961d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -42,10 +42,11 @@ verificationNeeded:
   - "تأكّد ممّا إذا كان MIA قد اعتمد معيار ISA for Less Complex Entities، الذي جعله IAASB ساريًا على الفترات التي تبدأ في 15 ديسمبر 2025 أو بعده — فقرار الاعتماد الماليزي تعذّر التحقق منه"
 
 lang: "ar"
+sourceContentHash: "35fbbbda43a0bf04"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

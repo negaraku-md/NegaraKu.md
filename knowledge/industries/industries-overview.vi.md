@@ -34,8 +34,9 @@ faq:
     a: "Vào năm 2024, dịch vụ thu hút RM252.7 tỷ đầu tư được phê duyệt (66.8% tổng số) và chế tạo RM120.5 tỷ (31.8%), trong tổng số kỷ lục RM378.5 tỷ (MIDA)."
 
 lang: "vi"
+sourceContentHash: "fd46cc26349bd735"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

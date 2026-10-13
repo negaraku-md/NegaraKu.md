@@ -34,8 +34,9 @@ faq:
     a: "Suatu pelanggaran yang dapat dihukum apabila dinyatakan bersalah dengan denda tidak melebihi RM1 juta, dan denda selanjutnya sampai RM1,000 untuk setiap hari pelanggaran itu berlanjut setelah vonis (Pasal 137, dengan pelanggaran paralel dalam Pasal 138 dan 139)."
 
 lang: "id"
+sourceContentHash: "608e7ade88de1522"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -45,10 +45,11 @@ verificationNeeded:
   - "ما إذا كان خطاب تأكيد ICA 10 يدعم طلبات التسهيلات المصرفية — فـ MIDA لا تقول ذلك"
 
 lang: "ar"
+sourceContentHash: "37caa4da5ba10819"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

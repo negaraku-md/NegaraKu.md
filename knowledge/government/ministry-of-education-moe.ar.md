@@ -28,9 +28,10 @@ faq:
   - q: "ما حجم ميزانية وزارة التعليم؟"
     a: "في إطار ميزانية 2026، تلقّت KPM مبلغ RM66.2 مليار — أكبر مخصصات بين الوزارات الاتحادية — مرتفعةً من RM64.2 مليار في 2025. وتشمل المخصصات نحو RM2 مليار لترقية أكثر من 520 مدرسة متهالكة وبناء 38 مدرسة جديدة."
 lang: "ar"
+sourceContentHash: "4f75b1390b41bfeb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

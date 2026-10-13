@@ -29,8 +29,9 @@ faq:
     a: "Phạt tiền lên đến RM200,000 hoặc phạt tù lên đến ba năm, hoặc cả hai."
 
 lang: "vi"
+sourceContentHash: "f80441a5c89e8b43"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

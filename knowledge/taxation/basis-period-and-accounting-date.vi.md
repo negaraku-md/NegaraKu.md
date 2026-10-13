@@ -35,8 +35,9 @@ obligations:
     consequence: "Các hình phạt và các khoản tăng nộp theo đợt dựa trên kỳ kế toán cũ vẫn có thể thu hồi theo s.112(3A) và s.107C(11B)"
 
 lang: "vi"
+sourceContentHash: "23049b8c7ea8c98a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

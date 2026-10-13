@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "كل من يريد النص الدستوري الدقيق في شأن الدين — الطلاب والباحثون والقرّاء الذين لا ينفكّون يصادفون صياغاتٍ معاد روايتها للمادة 3 والمادة 11 ويريدون الحكمين ذاتهما، مقتبسين من إعادة الطبع الرسمية."
 
 lang: "ar"
+sourceContentHash: "e8ee51ffbb017879"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

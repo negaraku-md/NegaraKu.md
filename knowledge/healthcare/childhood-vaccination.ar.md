@@ -25,10 +25,11 @@ verificationNeeded:
   - "تعذّر التحقق من تفاصيل اللقاحات الإضافية/الاختيارية (مثل اللقاحات غير الإلزامية المقدَّمة مقابل رسوم) مقابل المصادر الرسمية لـ KKM وقت الكتابة، ولذلك لم تُذكر على وجه التحديد في هذا المقال."
 
 lang: "ar"
+sourceContentHash: "e3c51524a621f167"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

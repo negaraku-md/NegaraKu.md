@@ -21,8 +21,9 @@ verificationNeeded:
   - "Tên chính xác của công ty nước bang cho Pahang, Negeri Sembilan và Kedah được liệt kê tại trang span.gov.my nhưng không thể trích xuất đầy đủ khi soạn bản thảo này; cần kiểm tra lại trực tiếp tại span.gov.my."
   - "Khuôn khổ pháp lý cụ thể của Sabah và Sarawak (tên sắc luật/pháp lệnh của bang liên quan) không được xác nhận trực tiếp trên nguồn chính thức khi soạn bản thảo này; PAAB xác nhận việc miễn trừ chung của cả hai bang khỏi mô hình PAAB, nhưng chi tiết pháp lý đầy đủ cần được kiểm tra lại."
 lang: "vi"
+sourceContentHash: "fb8c6f5861721815"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

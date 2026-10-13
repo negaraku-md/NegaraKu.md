@@ -27,9 +27,10 @@ faq:
   - q: "من وزير الداخلية؟"
     a: "اعتبارًا من 2026، وزير الداخلية هو داتو سري بانجليما سيف الدين ناسوتيون بن إسماعيل، في المنصب منذ 3 ديسمبر 2022. وتتغير الحقائب الوزارية مع التعديلات الحكومية، لذا تحقّق من شاغل المنصب الحالي على moha.gov.my."
 lang: "ar"
+sourceContentHash: "84024caa253d8b49"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

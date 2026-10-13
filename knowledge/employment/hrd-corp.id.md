@@ -28,8 +28,9 @@ faq:
   - q: "Bagaimana levi HRD dihitung dan kapan ia perlu dibayar?"
     a: "Ia adalah (total gaji atau gaji pokok + tunjangan tetap) × 1% (atau 0.5% bagi pendaftar sukarela), perlu dibayar menjelang tanggal 15 setiap bulan untuk menghindari penalti."
 lang: "id"
+sourceContentHash: "ff5d89d25eee1ca7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

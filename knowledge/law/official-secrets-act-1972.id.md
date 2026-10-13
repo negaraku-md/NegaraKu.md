@@ -32,8 +32,9 @@ faq:
     a: "Akta ini tidak memuat pembelaan 'kepentingan publik' atau perlindungan khusus bagi pemberi informasi (whistleblower). Pasal 17A menyediakan pembelaan hanya bagi seseorang yang membuktikan bahwa ia bertindak dalam menjalankan tugas resmi atau dengan kewenangan yang sepatutnya. Ketiadaan pembelaan kepentingan publik adalah salah satu isu yang diangkat oleh pengkritik akta."
 
 lang: "id"
+sourceContentHash: "b2289aaf85dc5684"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

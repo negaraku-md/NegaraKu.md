@@ -38,8 +38,9 @@ faq:
     a: "Pada 2024, PETRONAS menyumbang RM72.4 miliar dalam bentuk dividen, pajak, pembayaran tunai dan komitmen lain, termasuk dividen RM32.0 miliar. Ini di samping pajak yang dibayar oleh kontraktor dan perusahaan jasa lain dalam sektor tersebut."
 
 lang: "id"
+sourceContentHash: "7404112e163ed546"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

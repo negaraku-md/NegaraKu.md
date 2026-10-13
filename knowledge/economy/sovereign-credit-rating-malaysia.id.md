@@ -32,8 +32,9 @@ faq:
     a: "Peringkat yang lebih tinggi menurunkan bunga yang dibayar pemerintah atas obligasinya, yang membebaskan ruang anggaran dan menambatkan biaya pinjaman yang lebih luas. Peringkat juga membentuk permintaan investor asing terhadap aset ringgit, secara tidak langsung memengaruhi mata uang."
 
 lang: "id"
+sourceContentHash: "2be52c4fe36e74d8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

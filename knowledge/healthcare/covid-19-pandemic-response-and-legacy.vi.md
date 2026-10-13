@@ -32,8 +32,9 @@ faq:
     a: "Đó là một tài liệu chính sách được Nghị viện thông qua ngày 15 tháng 6 năm 2023, vạch ra cuộc cải cách hệ thống y tế Malaysia theo từng giai đoạn trong 15 năm."
 
 lang: "vi"
+sourceContentHash: "635c9f97868b06be"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

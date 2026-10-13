@@ -36,8 +36,9 @@ faq:
     a: "Một chính sách được Bộ Kỹ thuật số ra mắt vào năm 2025 để biến Malaysia thành một trung tâm đám mây đẳng cấp thế giới vào năm 2030, neo vào chủ quyền dữ liệu — nguyên tắc rằng dữ liệu được tạo ra ở Malaysia được điều chỉnh bởi luật pháp Malaysia — cùng với một đám mây AI có chủ quyền được lên kế hoạch."
 
 lang: "vi"
+sourceContentHash: "16256b5ee4d19f22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

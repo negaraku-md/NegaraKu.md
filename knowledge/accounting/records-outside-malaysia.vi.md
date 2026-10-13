@@ -25,8 +25,9 @@ verificationNeeded:
   - "Cả SSM lẫn LHDN đều không công bố hướng dẫn về việc liệu dữ liệu được lưu trữ trên một vùng đám mây nước ngoài nhưng truy cập được từ Malaysia có thỏa mãn yêu cầu lưu-giữ-tại-Malaysia hay không — vị thế được nêu ở đây theo cách dùng từ luật định, và không có nhượng bộ hành chính nào được công bố"
 
 lang: "vi"
+sourceContentHash: "d4690bd724bedb45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

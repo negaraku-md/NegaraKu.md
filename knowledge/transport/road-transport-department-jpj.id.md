@@ -25,8 +25,9 @@ faq:
   - q: "Apa itu e-LKM?"
     a: "e-LKM adalah Lisensi Kendaraan Bermotor digital (pajak jalan digital) yang diperkenalkan oleh JPJ mulai 2023, menggantikan stiker fisik. Ia dapat diakses melalui aplikasi MyJPJ atau portal MySIKAP."
 lang: "id"
+sourceContentHash: "5feaacc87ec61a6a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -26,8 +26,9 @@ verificationNeeded:
   - "Trích dẫn và năm chính xác của sửa đổi National Land Code vốn đóng lại miễn trừ trước đó cho đất công nghiệp khỏi sự đồng ý của Chính quyền Bang không thể xác nhận được so với chính văn bản của Đạo luật sửa đổi; nó được mô tả ở đây dựa trên bình luận pháp lý thứ cấp hội tụ chứ không phải một điều khoản gốc được đọc trực tiếp."
 
 lang: "vi"
+sourceContentHash: "2fddfa6e345670a4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

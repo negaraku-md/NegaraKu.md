@@ -32,8 +32,9 @@ faq:
     a: "Đạo luật này không chứa lời biện hộ 'lợi ích công cộng' hay sự bảo vệ cụ thể cho người tố giác (whistleblower). Điều 17A quy định một lời biện hộ chỉ cho người chứng minh được rằng mình hành động trong việc thực hiện nhiệm vụ chính thức hoặc với thẩm quyền thích đáng. Việc thiếu lời biện hộ lợi ích công cộng nằm trong số các vấn đề được những người chỉ trích đạo luật nêu ra."
 
 lang: "vi"
+sourceContentHash: "b2289aaf85dc5684"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

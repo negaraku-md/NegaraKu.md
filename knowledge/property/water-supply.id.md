@@ -21,8 +21,9 @@ verificationNeeded:
   - "Nama tepat perusahaan air negeri untuk Pahang, Negeri Sembilan dan Kedah tercantum di laman span.gov.my tetapi tidak dapat diekstrak sepenuhnya saat penyusunan draf ini; perlu ditinjau ulang langsung di span.gov.my."
   - "Kerangka perundang-undangan khusus Sabah dan Sarawak (nama enakmen/ordinan negeri bersangkutan) tidak dipastikan secara langsung pada sumber resmi saat penyusunan draf ini; PAAB memastikan pengecualian umum kedua negeri dari model PAAB, tetapi rincian perundang-undangan lengkap perlu ditinjau ulang."
 lang: "id"
+sourceContentHash: "fb8c6f5861721815"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

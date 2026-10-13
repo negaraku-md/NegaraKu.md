@@ -34,10 +34,11 @@ faq:
     a: "نعم. استحدث قانون الشركات لسنة 2016 آليات إنقاذ: الإدارة القضائية (المواد 403-430)، حيث يدير مديرٌ قضائي معيّن من المحكمة الشركة في ظل وقف إجراءات، والترتيب الطوعي للشركات (المادة 395). كما تتيح خطة ترتيب بموجب المادة 366 للشركة إلزام الدائنين بتسوية بموافقة 75% من حيث القيمة وبمصادقة المحكمة."
 
 lang: "ar"
+sourceContentHash: "a85ad7d5133bf9fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

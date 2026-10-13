@@ -26,8 +26,9 @@ verificationNeeded:
   - "Cần xác nhận án lệ phúc thẩm hàng đầu về việc sa thải người thử việc và về xác nhận được coi là bằng hành vi, đối chiếu với các bản án đã công bố"
 
 lang: "vi"
+sourceContentHash: "04bbb0ef0090fa14"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

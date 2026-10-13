@@ -28,8 +28,9 @@ faq:
     a: "CCC xác nhận ngôi nhà được xây dựng đúng theo bản vẽ được phê duyệt và an toàn để ở. Không có CCC, tòa nhà về mặt chính thức không đủ điều kiện để ở và việc cung cấp tiện ích có thể bị ảnh hưởng."
 
 lang: "vi"
+sourceContentHash: "47b5179ed98be754"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

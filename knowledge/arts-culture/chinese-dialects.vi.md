@@ -32,8 +32,9 @@ seoTitle: "Phương ngữ người Hoa Malaysia: phân bố tiếng Phúc Kiến
 socialTitle: "Cùng là người Hoa, vì sao lại nói tiếng khác nhau? Bản đồ phương ngữ Malaysia"
 
 lang: "vi"
+sourceContentHash: "c773c2be8c4e6544"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

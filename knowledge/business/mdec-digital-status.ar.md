@@ -52,10 +52,11 @@ obligations:
     consequence: "وضع MD دائم فقط ما دامت الالتزامات مستمرة الاستيفاء"
 
 lang: "ar"
+sourceContentHash: "d30f4b105a3a1150"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

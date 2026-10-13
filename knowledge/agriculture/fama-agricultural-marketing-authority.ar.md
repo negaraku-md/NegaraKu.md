@@ -31,10 +31,11 @@ faq:
     a: "يمكن للمنتجين التسويق مباشرة للمستهلكين عبر قنوات FAMA مثل أسواق المزارعين الدائمة، وAgrobazaar، وMy Farm Outlet، وأكشاك الفواكه الطازجة، أو المشاركة في برامج مثل الزراعة التعاقدية وRANTAI. وتُؤكَّد تفاصيل المشاركة على fama.gov.my."
 
 lang: "ar"
+sourceContentHash: "f18be1d4180f5dbb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -36,8 +36,9 @@ verificationNeeded:
   - "Inventaris portal selain MySST dan ezHS (MyTTx, MyDLV, sistem pita cukai, MNTR) tidak diverifikasi terhadap halaman RMCD mana pun yang dikutip; edisi terkini Customs Duties Order dan jumlah jadwal preferensi FTA dalam ezHS juga tidak diverifikasi dan dijelaskan secara kualitatif saja"
 
 lang: "id"
+sourceContentHash: "e8cda8bbe6ecdbc9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

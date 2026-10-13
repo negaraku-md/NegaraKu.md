@@ -29,8 +29,9 @@ faq:
     a: "Di bawah Bagian VI, lembaga penegak hukum dapat menerbitkan perintah pembekuan, petugas penyidik dapat menyita harta bergerak selama penyidikan, dan Pendakwa Raya memegang kewenangan penyitaan dan perampasan lebih lanjut."
 
 lang: "id"
+sourceContentHash: "03583a7602b0f6ef"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

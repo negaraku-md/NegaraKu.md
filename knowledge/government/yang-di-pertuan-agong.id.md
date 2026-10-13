@@ -37,8 +37,9 @@ verificationNeeded:
   - "Verifikasi daftar pemilihan yang berlaku pada saat ini terhadap pengumuman resmi Penyimpan Mohor Besar Raja-Raja."
 
 lang: "id"
+sourceContentHash: "acdf97d3f8926008"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

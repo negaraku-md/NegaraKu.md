@@ -32,8 +32,9 @@ faq:
     a: "Iskandar Malaysia adalah koridor pembangunan Malaysia yang diluncurkan pada tahun 2000-an dan terletak di dalam kawasan JS-SEZ. JS-SEZ lebih luas dan bersifat bilateral: ia menambah Singapura sebagai penanda tangan bersama, memperpanjang zona ke Pengerang, dan menyusun lapisan kerangka insentif dan fasilitasi bersama di atasnya."
 
 lang: "id"
+sourceContentHash: "91765fa012dff218"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

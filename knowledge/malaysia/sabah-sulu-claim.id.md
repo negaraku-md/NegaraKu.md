@@ -29,8 +29,9 @@ faq:
     a: "Seorang arbiter privat mengeluarkan putusan sekitar USD 14.92 miliar pada 28 Februari 2022, tetapi Malaysia menantangnya di beberapa yurisdiksi dan Mahkamah Banding Paris membatalkan putusan itu pada 9 Desember 2025."
 
 lang: "id"
+sourceContentHash: "a5cefe938e99cef3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

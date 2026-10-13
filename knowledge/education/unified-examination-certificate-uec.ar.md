@@ -30,12 +30,13 @@ faq:
     a: "نعم. اللغة الملايوية مادة إلزامية في منظومة UEC. كما يتقدّم كثير من طلاب UEC لامتحان SPM مرشحين مستقلين؛ وتفيد Dong Zong بأن نسبة النجاح في اللغة الملايوية في امتحان SPM بين طلاب المدارس الثانوية الصينية المستقلة تجاوزت 96% للأعوام 2022–2024 (97.38% في 2022، و97.11% في 2023، و96.65% في 2024)، باستخدام الورقة نفسها لامتحان SPM المقدَّمة لسائر المرشحين."
 
 lang: "ar"
+sourceContentHash: "899b0fd9ce10c90d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

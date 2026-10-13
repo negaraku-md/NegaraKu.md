@@ -31,8 +31,9 @@ verificationNeeded:
   - "SENSITIF / memerlukan persetujuan manusia + hukum sebelum penerbitan (proses hukum). Fakta utama telah ditinjau dengan sumber bereputasi: vonis sidang utama 1MDB pada 26 Des 2025 dan hukuman 15 tahun/RM11.4b (CNN, Al Jazeera, PBS, Malay Mail), banding pada 30 Des 2025 (Malay Mail), pengurangan separuh hukuman SRC pada Feb 2024 (CNN), angka US$4.5b/US$1.1b DOJ (DOJ), dan status buronan Jho Low. Semua vonis sedang dibanding dan digambarkan demikian. Peninjau manusia yang berkualifikasi masih perlu memastikan status terkini sebelum penerbitan, karena ini perkara yang masih aktif."
 
 lang: "id"
+sourceContentHash: "ccd0acf0bc2157a5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

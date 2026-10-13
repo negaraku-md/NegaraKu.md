@@ -34,8 +34,9 @@ faq:
     a: "Jika persetujuan kedaluwarsa dan tidak diaktifkan kembali dalam waktu satu tahun, pemohon perlu menyampaikan permohonan baru dan mengikuti wawancara ulang."
 
 lang: "id"
+sourceContentHash: "e81ff5426724af5a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

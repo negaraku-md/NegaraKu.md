@@ -30,10 +30,11 @@ faq:
     a: "يجب إيداع نسخة من البيانات المالية الخاصة بالشركة ذاتها، لكن المادة 575(5) تشترط إضافةً إلى ذلك بيانًا مُراجَعًا حسب الأصول يشمل الأصول المستخدمة في عملياتها الماليزية والالتزامات الناشئة عنها، يعرض صورةً صحيحة وعادلة بموجب معايير المحاسبة المعتمَدة."
 
 lang: "ar"
+sourceContentHash: "857f2052ec7f627d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -47,10 +47,11 @@ verificationNeeded:
   - "لا يوجد وسيط رسمي للإيجار الصناعي أو المكتبي حسب الولاية. التحقق مما إذا كانت JPPH تنشر أي سلسلة إيجارات غير ظاهرة في تقرير مخزون العقارات أو تقارير سوق العقارات الإقليمية"
 
 lang: "ar"
+sourceContentHash: "7197254874c986ae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

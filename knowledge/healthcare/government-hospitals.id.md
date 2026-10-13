@@ -26,8 +26,9 @@ verificationNeeded:
   - "Pembebasan/diskon biaya khusus untuk warga negara berusia 60 tahun ke atas — dilaporkan secara luas sebagai pembebasan biaya pendaftaran klinik spesialis RM5 dan pengurangan 50% biaya Kelas 3 — tidak dapat diverifikasi secara langsung pada laman resmi moh.gov.my (403 Forbidden saat percobaan akses), maka angka tersebut sengaja tidak dinyatakan sebagai fakta terverifikasi; mekanismenya saja dijelaskan secara umum."
   - "Statistik waktu tunggu (misalnya jumlah hari/jam rata-rata untuk janji temu spesialis atau operasi elektif) tidak dinyatakan karena tidak ada angka resmi KKM yang dapat diverifikasi ditemukan saat penulisan; realitas waktu tunggu dijelaskan secara kualitatif saja."
 lang: "id"
+sourceContentHash: "e787862480b6ac9a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

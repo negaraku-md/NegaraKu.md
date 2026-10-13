@@ -41,10 +41,11 @@ verificationNeeded:
   - "الاستثمار المعتمد في بيراق لكامل عامي 2024 و2025 وترتيبه — يذكر MIDA الولايات الخمس الأولى فقط"
 
 lang: "ar"
+sourceContentHash: "b417e9b08cc2755f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

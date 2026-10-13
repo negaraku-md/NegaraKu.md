@@ -44,8 +44,9 @@ verificationNeeded:
   - "Cơ cấu giá vé RTS Link và ngày đầu tiên được xác nhận của dịch vụ hành khách — MRT Corp công bố một mục tiêu hoàn tất hạ tầng cuối năm 2026 và một sự khởi động dịch vụ tháng 1 năm 2027, trong khi Singapore LTA diễn đạt nó là dịch vụ vào tháng 12 năm 2026"
 
 lang: "vi"
+sourceContentHash: "4905d83a83912c4b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

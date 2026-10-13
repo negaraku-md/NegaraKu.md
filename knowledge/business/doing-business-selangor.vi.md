@@ -43,8 +43,9 @@ verificationNeeded:
   - "Các mức giấy phép cơ sở thường niên của MBPJ — tệp PDF nội quy được MBPJ công bố là một hình ảnh quét không có lớp văn bản, nên không mức ringgit nào có thể đọc được bằng máy"
 
 lang: "vi"
+sourceContentHash: "45a4dcba0cb44c75"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

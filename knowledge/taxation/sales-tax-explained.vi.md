@@ -53,8 +53,9 @@ obligations:
     consequence: "Chế tài 10%, tăng lên 25% và 40%, và một khoản phạt lên đến RM50,000 hoặc ba năm tù"
 
 lang: "vi"
+sourceContentHash: "3746823d8f4516ea"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

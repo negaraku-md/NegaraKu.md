@@ -29,8 +29,9 @@ faq:
     a: "Di antaranya mereka yang terlibat dalam aktivitas berisiko tinggi, pendonor perempuan yang hamil/haid/menyusui, pernah tinggal di UK 1980-1996 selama 6 bulan atau lebih (terakumulasi), atau pernah tinggal di negara Eropa dari 1980 hingga sekarang selama 5 tahun atau lebih (terakumulasi) — keduanya atas risiko vCJD."
 
 lang: "id"
+sourceContentHash: "241fb7f03a5cd3d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

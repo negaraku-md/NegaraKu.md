@@ -34,10 +34,11 @@ faq:
     a: "PETRA (وزارة انتقال الطاقة وتحويل المياه) هي الوزارة التي تصوغ سياسة الطاقة والمياه الوطنية وتقود الانتقال نحو صافي انبعاثات صفرية بحلول 2050. أما لجنة الطاقة فهي الهيئة القانونية المنظِّمة التابعة لـ PETRA التي ترخّص وتحدّد التعرفات وتُنفّذ القوانين التي تحكم توريد الكهرباء والغاز."
 
 lang: "ar"
+sourceContentHash: "fc167e2fbc6949c3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

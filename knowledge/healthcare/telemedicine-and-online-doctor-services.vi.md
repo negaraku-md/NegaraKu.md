@@ -32,8 +32,9 @@ faq:
     a: "Đôi khi. MMC ưu tiên tư vấn ảo như một lần tái khám sau khi đã có mối quan hệ bác sĩ-bệnh nhân, nhưng cho phép một lần tư vấn trực tuyến đầu tiên, đặc biệt trong chăm sóc ban đầu, nếu bác sĩ ghi chép các lý do. Bác sĩ được yêu cầu thận trọng về việc kê đơn cho bệnh nhân họ chưa tự khám và chuyển bạn đến khám trực tiếp khi phương tiện trực tuyến không đủ để đánh giá bạn một cách an toàn."
 
 lang: "vi"
+sourceContentHash: "abe1f652bf3edc8b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

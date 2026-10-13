@@ -30,8 +30,9 @@ faq:
     a: "Anggap ia sebagai terjemahan, bukan sumber. Laman bahasa Inggris LHDN diterjemahkan secara mesin dan mengandung kesalahan yang terkonfirmasi yang membalikkan makna. Untuk apa pun yang penting, baca laman asli bahasa Malaysia dan kutip darinya."
 
 lang: "id"
+sourceContentHash: "558a5f369fe484be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Teksnya disusun menjadi lima belas Bagian (Bagian I hingga XV, dengan Bagian XIIA bagi Sabah dan Sarawak) dan tiga belas Jadwal, sebagiannya telah dicabut menurut daftar isi cetakan ulang resmi."
 
 lang: "id"
+sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

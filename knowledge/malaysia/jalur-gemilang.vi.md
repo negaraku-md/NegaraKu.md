@@ -33,8 +33,9 @@ faq:
     a: "Cái tên đó được tuyên bố vào ngày 31 tháng 8 năm 1997 tại Dataran Merdeka, nhân dịp kỷ niệm 40 năm độc lập."
 
 lang: "vi"
+sourceContentHash: "f09e1191ce6cd425"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

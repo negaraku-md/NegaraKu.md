@@ -44,8 +44,9 @@ verificationNeeded:
   - "Kebijakan perizinan minuman keras apa pun yang diterbitkan bagi negara bagian tertentu seperti Kelantan atau Terengganu — tidak ada yang dipastikan, dan variasi tampaknya berasal dari diskresi Lembaga Pelesenan dan bukan kebijakan yang diterbitkan"
 
 lang: "id"
+sourceContentHash: "8621ae7bf33716e8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,12 +30,13 @@ faq:
     a: "الإفلاس إجراء قضائي بموجب قانون الإعسار لسنة 1967 (Insolvency Act 1967). أما برنامج إدارة الديون لدى AKPK فهو برنامج تابع لوكالة من بنك نيغارا ماليزيا يُنضمّ إليه اختياريًا (لا بأمر قضائي) لإعادة هيكلة الديون؛ ووفق BNM، تُقدَّم خدمات AKPK مجانًا. والبرنامج غير متاح للأفراد الذين سبق إشهار إفلاسهم."
 
 lang: "ar"
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

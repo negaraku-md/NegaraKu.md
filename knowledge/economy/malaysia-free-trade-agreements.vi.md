@@ -32,8 +32,9 @@ faq:
     a: "Có. Malaysia và EU nối lại các cuộc đàm phán FTA vào tháng 1 năm 2025, và Malaysia đã hoàn tất một hiệp định đối tác kinh tế với các nước EFTA (Iceland, Liechtenstein, Na Uy, Thụy Sĩ) vào ngày 11 tháng 4 năm 2025."
 
 lang: "vi"
+sourceContentHash: "7239744fcdcf2f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

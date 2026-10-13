@@ -47,12 +47,13 @@ verificationNeeded:
   - "شروط حيازة الأسهم لبوميبوترا أو للأجانب للمرخَّص لهم في المصارف والتأمين والتكافل. ولم يُسترجَع أي مستند منشور من بنك نيغارا يذكر ذلك."
 
 lang: "ar"
+sourceContentHash: "da83e3eaf6cc3765"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

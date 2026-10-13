@@ -35,12 +35,13 @@ faq:
     a: "يتضمّن النظامان كلاهما مرحلة مصالحة. ففي الجانب المدني، تشترط المادة 106 من Act 164 عمومًا إحالة الأمر إلى هيئة مصالحة (محكمة زواج) قبل تقديم الالتماس، مع استثناءات محدودة. وفي الجانب الإسلامي، يُوجَّه الزوجان إلى الإرشاد في مكتب الشؤون الدينية الإسلامية بالولاية قبل تسجيل الطلاق في محكمة الشريعة."
 
 lang: "ar"
+sourceContentHash: "be15966c8bacd8fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

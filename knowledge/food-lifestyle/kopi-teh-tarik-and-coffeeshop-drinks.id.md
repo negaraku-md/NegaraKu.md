@@ -29,8 +29,9 @@ faq:
     a: "Proses menuang teh berulang antara dua wadah dari ketinggian — 'tarik' — menyejukkan minuman, menyatukan teh dengan susu, dan menghasilkan lapisan buih di atas. Ia menjadi pertunjukan tersendiri, sehingga ada kompetisi teh tarik."
 
 lang: "id"
+sourceContentHash: "9bbd745541ea86db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

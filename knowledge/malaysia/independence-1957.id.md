@@ -29,8 +29,9 @@ faq:
     a: "Kedua momen itu benar. Pemindahan kedaulatan secara hukum berlaku pada tengah malam 31 Agustus 1957, ditandai dengan upacara bendera di lapangan di Kuala Lumpur. Upacara pengumuman publik, dengan pekikan Merdeka sebanyak tujuh kali, berlangsung kemudian pada pagi itu di Stadium Merdeka."
 
 lang: "id"
+sourceContentHash: "9d15ea63aee3b87b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

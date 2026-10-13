@@ -36,8 +36,9 @@ faq:
     a: "Bạn nộp thông báo yêu cầu giải trình (Biểu mẫu 208). Sau đó tòa có thể ra trát tịch thu và bán (Biểu mẫu 84) đối với tài sản của người nợ theo phán quyết, cho phép trả góp, hoặc ra lệnh giam người nợ vào tù."
 
 lang: "vi"
+sourceContentHash: "7f497323fdf0e52a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

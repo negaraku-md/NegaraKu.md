@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tại Malaysia — công dân, cư dân hay du khách — đang lo lắng về sức khỏe tâm thần của bản thân hoặc của người khác, và muốn biết cụ thể nên bắt đầu ở đâu: một phòng khám, một bệnh viện, một người hành nghề tư nhân, một NGO, hay một đường dây trợ giúp."
 
 lang: "vi"
+sourceContentHash: "4ecc5497514e228e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

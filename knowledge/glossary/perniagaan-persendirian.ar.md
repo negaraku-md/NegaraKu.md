@@ -33,10 +33,11 @@ faq:
     a: "لأن العمل ليس كيانًا قانونيًا منفصلًا، فإن أرباحه هي دخلك الشخصي. تُبلّغ عنها في Form B وتدفع الضريبة بالمعدلات (التصاعدية) للأفراد، مقدِّمًا إقرارك عبر بوابة MyTax e-Filing. والموعد النهائي القانوني هو 30 يونيو؛ ولأن Form B للأفراد ذوي دخل الأعمال يجب تقديمه إلكترونيًا اعتبارًا من سنة التقدير 2024، فإن الموعد النهائي المعمول به هو تاريخ مهلة e-Filing في 15 يوليو."
 
 lang: "ar"
+sourceContentHash: "1a9f38c341cebf45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

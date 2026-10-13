@@ -56,8 +56,9 @@ obligations:
     consequence: "Lựa chọn không có sẵn cho năm đó; một khi đã thực hiện nó không bao giờ có thể bị đảo ngược"
 
 lang: "vi"
+sourceContentHash: "f2863a53f5f454a9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

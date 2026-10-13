@@ -28,8 +28,9 @@ faq:
     a: "Pengecualian sebagian dari pendapatan kena pajak mengurangi tarif efektif pajak penghasilan petroleum bagi medan marginal yang memenuhi syarat dari 38% menjadi sekitar 25%."
 
 lang: "id"
+sourceContentHash: "e3d164ca38c307ff"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "Một phán quyết là chung thẩm và có tính ràng buộc đối với các bên và có thể thi hành qua Tòa Quan tòa. Không có quyền kháng cáo thông thường; biện pháp của một bên không hài lòng là nộp đơn lên Tòa Thượng thẩm để xem xét tư pháp."
 
 lang: "vi"
+sourceContentHash: "7e827e839a62b8bc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

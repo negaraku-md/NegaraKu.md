@@ -18,9 +18,10 @@ keyTakeaways:
   - "تخضع المؤثرات العقلية بموجب الجدول الثالث من Poisons Act 1952 للوائح منفصلة، بعقوبات تصل إلى RM100,000 أو السجن خمس سنوات للمخالفات غير المرخَّص بها (المادة 30)"
 appliesTo: "كل من يشتري دواءً في صيدلية حكومية أو خاصة في ماليزيا ويريد أن يفهم لماذا تتطلّب بعض الأدوية وصفة طبية بينما لا تتطلّبها غيرها، ودور الصيدلي المسجَّل في تلك العملية."
 lang: "ar"
+sourceContentHash: "4ae828e3e8725114"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

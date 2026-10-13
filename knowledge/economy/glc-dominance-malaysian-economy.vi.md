@@ -32,8 +32,9 @@ faq:
     a: "Có. Sáng kiến PERKUKUH ra mắt năm 2021 đã đề ra 20 sáng kiến nhằm, trong số những điều khác, trao cho mỗi GLIC một sứ mệnh rõ ràng hơn, tăng sự tham gia của khu vực tư nhân ('crowding in') và tinh gọn vai trò của chính phủ trong kinh doanh, đồng thời hướng nhiều đầu tư hơn tới các lĩnh vực xúc tác và phát triển."
 
 lang: "vi"
+sourceContentHash: "72a029d7e3ea589d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

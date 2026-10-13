@@ -30,8 +30,9 @@ faq:
     a: "Ia dibuat di bawah Undang-Undang dan bukan bagian darinya, tetapi ia membawa kekuatan operatif — kriteria pengecualian audit, penalti keterlambatan pengajuan dan prosedur perpanjangan waktu semuanya tercakup dalam Practice Directive, bukan dalam teks pasal. Pertanyaan yang dijawab hanya berdasarkan Undang-Undang saja sering dijawab dengan salah."
 
 lang: "id"
+sourceContentHash: "d0840945570101e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

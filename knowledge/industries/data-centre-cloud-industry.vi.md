@@ -34,8 +34,9 @@ faq:
     a: "Guidelines for Sustainable Development of Data Centre của MITI (30 tháng 12 năm 2024) yêu cầu các bên vận hành khai báo PUE, WUE và CUE thiết kế so với các tiêu chuẩn ISO/IEC 30134, và cân nhắc các địa điểm ở Bán đảo Malaysia có chỉ số căng thẳng nước (water stress index, WSI) dưới 0.8, theo cách hướng dẫn diễn đạt điều kiện chọn địa điểm của nó."
 
 lang: "vi"
+sourceContentHash: "58d8713ab3d5317e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

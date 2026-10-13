@@ -29,8 +29,9 @@ faq:
     a: "Kedua pihak telah setuju Petros menjadi agregator gas Sarawak (tidak termasuk LNG) setelah pertemuan pada Januari 2025, dengan Petros mulai bertindak sebagai agregator pada 1 Maret 2025. Namun beberapa perbedaan tafsiran hukum dan rincian komersial masih dalam perundingan."
 
 lang: "id"
+sourceContentHash: "9fa405873e618d18"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

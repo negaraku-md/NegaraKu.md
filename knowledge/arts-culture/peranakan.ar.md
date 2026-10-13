@@ -18,11 +18,12 @@ keyTakeaways:
   - "أُدرجت الكِباية، المحورية في زي النيونيا، في قائمة اليونسكو للتراث غير المادي عام 2024 ضمن ترشيح مشترك من بروناي وإندونيسيا وماليزيا وسنغافورة وتايلاند"
 appliesTo: "كل من يسعى إلى نظرة عامة واقعية ومحترمة عن هوية البيراناكان (البابا-نيونيا)، وكيفية التعرّف على مطبخهم وأزيائهم وتراثهم المادي في ملاكا وبينانغ."
 lang: "ar"
+sourceContentHash: "b8424f95164f1085"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

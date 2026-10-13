@@ -29,12 +29,13 @@ faq:
     a: "يمكن ذلك في ظروف معينة. تجيز المادة 26(2) للحكومة الاتحادية حرمان المرأة المسجَّلة بموجب المادة 15(1) من جنسيتها إذا انحل الزواج الذي استند إليه التسجيل (بغير الوفاة) خلال عامين من تاريخ الزواج."
 
 lang: "ar"
+sourceContentHash: "28365cf20f843051"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

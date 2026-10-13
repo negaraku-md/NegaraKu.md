@@ -53,8 +53,9 @@ obligations:
     consequence: "Penalti penyampaian terlambat di bawah Practice Directive 1/2017; denda sampai RM50,000 atas setiap pejabat di bawah s.259(3)"
 
 lang: "id"
+sourceContentHash: "691334c408ec3598"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

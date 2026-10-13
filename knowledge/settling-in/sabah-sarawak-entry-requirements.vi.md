@@ -33,8 +33,9 @@ faq:
     a: "Không tự động. Vì cả hai bang kiểm soát việc nhập cư của riêng mình, người nước ngoài được kiểm tra lại tại điểm nhập cảnh Sabah/Sarawak và nhận sự chấp thuận hoặc giấy phép bang riêng."
 
 lang: "vi"
+sourceContentHash: "61e0e60b5ca388ec"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

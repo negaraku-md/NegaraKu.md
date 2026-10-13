@@ -35,9 +35,10 @@ faq:
     a: "هما مهرجانان منفصلان يتقاسمان الموضوع نفسه. فغاواي داياك مهرجان حصاد الداياك في ساراواك، يُقام في 1 و2 يونيو. أما كامتان (Kaamatan) فمهرجان حصاد الكادازاندوسون (Kadazandusun) في صباح، يُقام في 30 و31 مايو. وكلاهما يقدّم الشكر على حصاد الأرزّ، لكن المجتمعات والطقوس والتواريخ تختلف."
 
 lang: "ar"
+sourceContentHash: "5a38a61ecb8e6e5a"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

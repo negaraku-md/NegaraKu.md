@@ -29,8 +29,9 @@ faq:
     a: "Có, nếu muốn dùng tính năng nạp lại NFC. Quy trình đăng ký liên quan đến việc xác minh danh tính (KYC) để số dư của thẻ được liên kết với tài khoản eWallet của bạn — điều này cũng mang lại một lớp bảo vệ bổ sung nếu thẻ bị mất, so với thẻ chưa đăng ký mà số dư có thể được dùng bởi bất kỳ ai tìm thấy nó."
 
 lang: "vi"
+sourceContentHash: "a15af3c5fd918fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Một tổ chức có thể tự biện hộ nếu chứng minh rằng nó đã thực hiện các quy trình đầy đủ để ngăn chặn tham nhũng. Kim chỉ nam của nó là năm nguyên tắc T.R.U.S.T. trong Hướng dẫn về Các Quy trình Đầy đủ do Cục Thủ tướng ban hành, đề ngày 4 tháng 12 năm 2018."
 
 lang: "vi"
+sourceContentHash: "bba5e6b3f79a29ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

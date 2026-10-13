@@ -27,8 +27,9 @@ faq:
   - q: "Siapakah Menteri Dalam Negeri?"
     a: "Hingga 2026, Menteri Dalam Negeri adalah Datuk Seri Panglima Saifuddin Nasution bin Ismail, memegang jabatan sejak 3 Desember 2022. Portofolio Kabinet berubah seiring perombakan, jadi konfirmasikan pemegang jabatan saat ini di moha.gov.my."
 lang: "id"
+sourceContentHash: "84024caa253d8b49"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

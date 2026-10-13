@@ -26,8 +26,9 @@ verificationNeeded:
   - "Con số phí và hạn mức giao dịch được lấy trực tiếp từ trang chính thức của PayNet tại thời điểm viết bài; PayNet nêu rằng phí thực tế có thể khác nhau tùy từng ngân hàng/ví điện tử"
 
 lang: "vi"
+sourceContentHash: "1b31c1f5d1b3682f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,10 +34,11 @@ faq:
     a: "يُشار إليها كثيراً بـ«الموجة الماليزية الجديدة» (Malaysian New Wave)، وهي موجة من صنّاع الأفلام المستقلين في أوائل العقد الأول من الألفية. وصارت دا هوانغ بيكتشرز (Da Huang Pictures)، التي أسّسها عام 2004 تان تشوي موي (Tan Chui Mui) وأمير محمد (Amir Muhammad) وجيمس لي (James Lee) وليو سينغ تات (Liew Seng Tat)، إحدى مراكزها؛ وفاز فيلم تان الحب يقهر الجميع (Love Conquers All) بجائزتي نيو كارنتس (New Currents) والفيبريسي (FIPRESCI) في مهرجان بوسان السينمائي الدولي 2006 وجائزة التايغر (Tiger Award) في روتردام."
 
 lang: "ar"
+sourceContentHash: "defc3df96dc13355"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -29,8 +29,9 @@ verificationNeeded:
   - "Pedoman e-Invois dan Pedoman Khusus direvisi dengan sering — verifikasi versi terkini sebelum menganggap kebutuhan integrasi apa pun sebagai final"
 
 lang: "id"
+sourceContentHash: "2723b917b69eeed3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

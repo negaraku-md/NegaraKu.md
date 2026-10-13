@@ -26,8 +26,9 @@ faq:
     a: "Đối với lần vi phạm đầu tiên, phạt không quá RM30,000 hoặc tù không quá 2 năm, hoặc cả hai. Các lần vi phạm tiếp theo lên đến RM50,000 hoặc tù đến 3 năm."
 
 lang: "vi"
+sourceContentHash: "86f8ad16efa02a93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

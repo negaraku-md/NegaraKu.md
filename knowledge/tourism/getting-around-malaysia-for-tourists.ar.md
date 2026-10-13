@@ -37,10 +37,11 @@ faq:
     a: "بطاقة Touch 'n Go. تعمل عبر قطارات LRT وMRT والمونوريل وBRT وحافلات Rapid KL. وحافلات Rapid KL بلا نقد، فالبطاقة (أو التطبيق) مطلوبة فعليًّا للحافلات."
 
 lang: "ar"
+sourceContentHash: "df3f033b8e40fec3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

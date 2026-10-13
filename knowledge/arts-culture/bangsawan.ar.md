@@ -34,10 +34,11 @@ faq:
     a: "تراجع في منتصف القرن العشرين بسبب منافسة الراديو والفيلم والتلفزيون. وبحلول أواخر ثلاثينيات القرن العشرين حُوِّل كثير من قاعات البانجساوان إلى دور سينما، وبعد الحرب فقدت الصناعة مصدر تمويلها."
 
 lang: "ar"
+sourceContentHash: "9acb0bf06bc5782c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

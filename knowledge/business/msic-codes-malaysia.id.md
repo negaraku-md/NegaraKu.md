@@ -38,8 +38,9 @@ verificationNeeded:
   - "Klasifikasi risiko bank menurut MSIC bersifat khusus institusi dan tidak diterbitkan — anggap dampak yang dijelaskan di sini sebagai pola, bukan aturan"
 
 lang: "id"
+sourceContentHash: "353529e7e9ebf84a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

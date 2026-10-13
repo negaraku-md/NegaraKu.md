@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Pendiri dan CFO yang sedang mempertimbangkan IPO, penasihat dan penaja, serta investor yang mencoba memahami apa sebenarnya ditunjukkan oleh pencatatan di suatu papan."
 
 lang: "id"
+sourceContentHash: "8a42caae2331fbbd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

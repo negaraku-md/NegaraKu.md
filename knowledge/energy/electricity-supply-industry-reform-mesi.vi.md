@@ -36,8 +36,9 @@ faq:
     a: "Vào năm 2020, Bộ trưởng Năng lượng và Tài nguyên Thiên nhiên khi đó, Datuk Dr Shamsul Anuar Nasarah, nói với Nghị viện rằng kế hoạch nên được rà soát vì chi phí của nó — một tác động tài chính khoảng RM5 tỷ đối với chính phủ, cộng với các nghĩa vụ mua điện RM60–80 tỷ mà chính phủ sẽ cần phải gánh. Cải cách kể từ đó tiếp tục bằng các bước nhỏ, có mục tiêu chứ không phải một cuộc tự do hóa lớn một lần."
 
 lang: "vi"
+sourceContentHash: "5e135be7df9c9a11"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

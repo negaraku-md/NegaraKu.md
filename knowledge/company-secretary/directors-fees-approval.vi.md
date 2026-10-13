@@ -55,8 +55,9 @@ obligations:
     consequence: "Trừ khi sự phê duyệt được lấy bằng nghị quyết, khoản chi trả cấu thành một khoản nợ mà giám đốc phải trả cho công ty theo s.230(5)"
 
 lang: "vi"
+sourceContentHash: "b55d6be73a88fe6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami secara deskriptif bagaimana senator Malaysia dipilih dan diangkat, dan sejauh mana Dewan Negara dapat memengaruhi perjalanan suatu rang undang-undang."
 
 lang: "id"
+sourceContentHash: "795be8860e769da6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

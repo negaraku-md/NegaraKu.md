@@ -34,8 +34,9 @@ faq:
     a: "EUDR có hiệu lực vào ngày 29 tháng 6 năm 2023. Sau các lần hoãn, các nghĩa vụ áp dụng từ ngày 30 tháng 12 năm 2026 đối với các đơn vị vận hành và thương nhân lớn và ngày 30 tháng 6 năm 2027 đối với các doanh nghiệp siêu nhỏ và nhỏ."
 
 lang: "vi"
+sourceContentHash: "f8c253517f15928f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

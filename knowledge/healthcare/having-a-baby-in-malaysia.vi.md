@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tại Malaysia đang mang thai, dự định mang thai, hoặc hỗ trợ bạn đời hay người thân trong thai kỳ, và muốn hiểu cách hệ thống tiền sản công, chăm sóc tư nhân và đăng ký khai sinh khớp với nhau."
 
 lang: "vi"
+sourceContentHash: "8182db0933e495e5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

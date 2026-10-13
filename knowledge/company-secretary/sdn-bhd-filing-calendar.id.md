@@ -135,8 +135,9 @@ obligations:
     consequence: "Denda hingga RM10,000 ditambah hingga RM500 per hari atas setiap pejabat berdasarkan s.341(3)"
 
 lang: "id"
+sourceContentHash: "795508e7636dbf96"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

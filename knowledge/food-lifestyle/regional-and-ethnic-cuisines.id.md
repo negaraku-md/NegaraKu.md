@@ -34,8 +34,9 @@ faq:
     a: "Ya, meski ia dianggap semakin terancam. Masakan Kristang adalah tradisi masyarakat Eurasia berketurunan Portugis-Asia di Melaka, dengan hidangan seperti kari debal (devil's curry) yang menggunakan cuka, biji sawi, dan buah keras (kemiri). Beberapa restoran dan kelas memasak di Melaka berupaya mempertahankan tradisi ini karena generasi muda semakin kurang mewarisinya."
 
 lang: "id"
+sourceContentHash: "b5facc6867b131b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

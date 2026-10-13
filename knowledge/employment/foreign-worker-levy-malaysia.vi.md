@@ -49,8 +49,9 @@ obligations:
     consequence: "Giấy phép không được cấp hoặc gia hạn"
 
 lang: "vi"
+sourceContentHash: "0112f2d641d155c5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

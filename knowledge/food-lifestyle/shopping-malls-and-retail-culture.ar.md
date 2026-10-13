@@ -30,10 +30,11 @@ faq:
     a: "سوق الليل سوق يعمل مساءً — سوق شارع مكشوف متنقّل يُقام في حيٍّ في ليلة أسبوعية ثابتة، يبيع الطعام المطهوّ والمحاصيل الطازجة والسلع منخفضة الكلفة. وهو يوجد إلى جانب سوق النهار (السوق الرطبة) وسوق المزارعين (pasar tani) بوصفه جزءًا من ثقافة التجزئة خارج المراكز في ماليزيا."
 
 lang: "ar"
+sourceContentHash: "a2bc8ea503179f64"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

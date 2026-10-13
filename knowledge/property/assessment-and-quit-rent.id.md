@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Pemilik rumah, pemilik tanah dan pembeli properti di Semenanjung Malaysia yang perlu memahami tagihan pajak properti tahunan mereka."
 
 lang: "id"
+sourceContentHash: "466dc843a0553a23"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

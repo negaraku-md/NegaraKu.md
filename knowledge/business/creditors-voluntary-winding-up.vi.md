@@ -52,8 +52,9 @@ obligations:
     consequence: "Việc không tuân thủ là một tội theo các điều khoản về thanh lý"
 
 lang: "vi"
+sourceContentHash: "7c0a23216627e7ee"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

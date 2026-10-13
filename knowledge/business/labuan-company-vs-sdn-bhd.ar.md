@@ -73,10 +73,11 @@ obligations:
     statute: "Labuan Companies Act 1990, s.110(2)"
 
 lang: "ar"
+sourceContentHash: "7fc53d9768ad1b70"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

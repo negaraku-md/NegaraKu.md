@@ -31,8 +31,9 @@ faq:
   - q: "Mengapa ASEAN begitu penting bagi kebijakan luar negeri Malaysia?"
     a: "Malaysia adalah anggota pendiri ASEAN (8 Agustus 1967). Bertindak secara kolektif melalui ASEAN memberikan sebuah negara berukuran menengah yang bergantung pada perdagangan suara yang lebih kuat dalam mengelola hubungan dengan kekuatan besar dibanding jika sendirian — itulah sebabnya sentralitas ASEAN dianggap sebagai batu fondasi kebijakan tersebut."
 lang: "id"
+sourceContentHash: "0119cb2bc48cc9ad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

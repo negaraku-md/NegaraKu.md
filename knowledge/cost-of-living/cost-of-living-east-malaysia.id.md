@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang pindah ke atau menganggarkan untuk Sabah atau Sarawak, membandingkan harga Malaysia Timur dengan Semenanjung Malaysia, atau meneliti mengapa produk yang sama dapat membawa label harga berbeda di kedua sisi Laut Tiongkok Selatan."
 
 lang: "id"
+sourceContentHash: "327dd8ebe6d5d915"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

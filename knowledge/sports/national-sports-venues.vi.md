@@ -28,8 +28,9 @@ faq:
     a: "Không. Sepang là chủ nhà của Grand Prix Formula 1 cho đến năm 2017; nay trường đua đó tập trung vào MotoGP và các sự kiện đua xe khác."
 
 lang: "vi"
+sourceContentHash: "e8c2bc7d28bb0f71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

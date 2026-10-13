@@ -57,8 +57,9 @@ obligations:
     consequence: "Kenaikan 10% atas pajak yang tidak dibayar di bawah Pasal 103(5)"
 
 lang: "id"
+sourceContentHash: "ec56f6d5e38c8e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

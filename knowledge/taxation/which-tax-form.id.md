@@ -36,8 +36,9 @@ verificationNeeded:
   - "Tanggal di sini diambil dari program pengisian yang dikeluarkan 30 Desember 2025 dan diperbarui 1 April 2026, yang mengatur surat pemberitahuan bagi tahun taksiran 2025. LHDN mengeluarkan program baru setiap tahun — baca ulang sebelum bergantung pada siklus yang lebih kemudian"
 
 lang: "id"
+sourceContentHash: "1c422a60f1ab90e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

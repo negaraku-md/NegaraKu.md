@@ -21,8 +21,9 @@ verificationNeeded:
   - "Bài viết này không nêu danh sách đầy đủ 50 bệnh hiểm nghèo đủ điều kiện theo mySalam vì danh sách chi tiết không được xác nhận trực tiếp trên trang chính thức mysalam.com.my tại thời điểm soạn thảo; hãy kiểm tra cổng chính thức của mySalam để có danh sách đầy đủ."
   - "Thời hạn hiệu lực của các chương trình mySalam và PeKa B40 tùy thuộc vào quyết định Ngân sách hằng năm; các con số và điều kiện trong bài viết này được xác nhận dựa trên trang chính thức tại thời điểm soạn thảo (tháng 7 năm 2026) và có thể được cập nhật trong ngân sách sắp tới."
 lang: "vi"
+sourceContentHash: "46290890ce15acbd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

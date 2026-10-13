@@ -29,8 +29,9 @@ faq:
     a: "Tidak. Pendidikan di sekolah dasar dan menengah negeri tidak mengenakan biaya pengajaran. Biaya khusus pun telah dihapus sejak 2008 melalui SPI Bil. 13/2007."
 
 lang: "id"
+sourceContentHash: "ae00ce2b2c55df71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

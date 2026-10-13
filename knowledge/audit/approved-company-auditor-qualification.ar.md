@@ -34,10 +34,11 @@ faq:
     a: "إذا انتهت الموافقة ولم تُفعَّل من جديد خلال سنة واحدة، وجب على المتقدم تقديم طلب جديد واجتياز المقابلة مرة أخرى."
 
 lang: "ar"
+sourceContentHash: "e81ff5426724af5a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

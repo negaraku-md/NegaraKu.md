@@ -35,8 +35,9 @@ faq:
     a: "Không có danh mục kiểm tra cố định, nhưng GIACC Guidelines on Adequate Procedures đặt ra năm nguyên tắc được biết đến qua từ viết tắt T.R.U.S.T. mà một tòa án có khả năng cân nhắc khi quyết định liệu các quy trình có đầy đủ hay không."
 
 lang: "vi"
+sourceContentHash: "6d976fa3bddc473d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

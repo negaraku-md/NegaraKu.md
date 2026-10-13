@@ -36,8 +36,9 @@ faq:
     a: "Penang là điểm đến quanh năm với khí hậu nhiệt đới nóng ẩm. Mưa có thể rơi vào bất kỳ tháng nào nhưng thường nặng hạt nhất vào các giai đoạn giao mùa (khoảng tháng 4–5 và tháng 9–11); khoảng thời gian khô ráo, mát mẻ hơn từ tháng 12 đến tháng 2 được ưa chuộng. Buổi sáng và cuối chiều là những thời điểm dễ chịu nhất để đi bộ."
 
 lang: "vi"
+sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

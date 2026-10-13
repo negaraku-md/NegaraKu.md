@@ -31,8 +31,9 @@ verificationNeeded:
   - "Các mốc ngày nhiệm kỳ cần được xác nhận với Văn phòng Thủ tướng và Perdana Leadership Foundation. Ismail Sabri Yaakob vẫn là Thủ tướng tạm quyền sau khi Nghị viện giải tán (10 tháng 10 năm 2022) cho đến khi Anwar Ibrahim tuyên thệ nhậm chức vào ngày 24 tháng 11 năm 2022 — ngày kết thúc phản ánh việc chuyển giao chức vụ. Là một bản thảo, bài này cần một người rà soát trước khi xuất bản."
 
 lang: "vi"
+sourceContentHash: "c027ec0df342599c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

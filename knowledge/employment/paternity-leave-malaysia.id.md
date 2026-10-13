@@ -28,8 +28,9 @@ verificationNeeded:
   - "Pastikan apakah syarat masa kerja dua belas bulan memperbolehkan gangguan dalam masa kerja, dan bagaimana masa kerja berkelanjutan dihitung bagi s.60FA"
 
 lang: "id"
+sourceContentHash: "97900bf02693ecc5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

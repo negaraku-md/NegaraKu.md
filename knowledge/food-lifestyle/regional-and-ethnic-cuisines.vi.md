@@ -34,8 +34,9 @@ faq:
     a: "Có, dù nó được coi là ngày càng bị đe dọa. Ẩm thực Kristang là truyền thống của cộng đồng Á-Âu gốc Bồ Đào Nha-Á ở Melaka, với các món như kari debal (devil's curry) dùng giấm, hạt cải và buah keras. Một số nhà hàng và lớp học nấu ăn ở Melaka nỗ lực gìn giữ truyền thống này vì thế hệ trẻ ngày càng ít kế thừa nó."
 
 lang: "vi"
+sourceContentHash: "b5facc6867b131b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

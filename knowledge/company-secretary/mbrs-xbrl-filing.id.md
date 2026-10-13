@@ -25,8 +25,9 @@ faq:
   - q: "Apakah pengecualian biaya penyampaian terlambat 2025 memperpanjang batas waktu saya?"
     a: "Tidak. Pengecualian itu berjalan dari 1 Juni hingga 30 September 2025 dan hanya menghapus biaya penyampaian terlambat. Ia tidak memperpanjang batas waktu penyampaian statutori mana pun di bawah Companies Act 2016."
 lang: "id"
+sourceContentHash: "6cce56bdb89cd914"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

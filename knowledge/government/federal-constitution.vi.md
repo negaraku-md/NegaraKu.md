@@ -31,8 +31,9 @@ faq:
     a: "Văn bản được sắp xếp thành mười lăm Phần (Phần I đến XV, với Phần XIIA cho Sabah và Sarawak) và mười ba Phụ lục, một số trong đó đã bị bãi bỏ theo mục lục của bản in lại chính thức."
 
 lang: "vi"
+sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

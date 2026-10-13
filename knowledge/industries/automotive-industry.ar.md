@@ -36,10 +36,11 @@ faq:
     a: "نعم. أطلقت Proton سيارتها e.MAS 7 في ديسمبر 2024، أولى سياراتها الكهربائية، بسعر يبدأ من RM109,800. وأطلقت Perodua سيارتها QV-E — الموصوفة بأنها أولى سيارات ماليزيا الكهربائية محلية الصنع — في ديسمبر 2025 بسعر RM80,000 دون احتساب البطارية، طُوّرت بتكلفة RM800 مليون."
 
 lang: "ar"
+sourceContentHash: "67619f9b70d97b83"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

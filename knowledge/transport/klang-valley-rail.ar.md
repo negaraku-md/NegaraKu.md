@@ -34,10 +34,11 @@ verificationNeeded:
   - "تأكيد طول/عدد محطات خط MRT Kajang الحالي مباشرةً مع MRT Corp أو Rapid Rail قبل النشر — إذ تقدّم وزارة النقل وصفحة الخط لدى Rapid Rail نفسها أرقاماً مختلفة قليلاً (51 كم/31 محطة مقابل 46 كم/29 محطة)، وقد تجنّب هذا المقال تكرارها حرفياً بانتظار التوفيق بينها."
 
 lang: "ar"
+sourceContentHash: "8f5aa15915a64a18"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

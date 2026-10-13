@@ -32,8 +32,9 @@ verificationNeeded:
   - "Các ngày chính xác (thời điểm bắt đầu/kết thúc nhiệm kỳ thủ tướng, việc bổ nhiệm Phó Thủ tướng) cần được xác nhận so với Văn phòng Thủ tướng (Prime Minister's Office) và hồ sơ chính thức."
 
 lang: "vi"
+sourceContentHash: "01485efbacf83246"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "Serunai dimainkan dengan teknik pernapasan sirkular (circular breathing) yang memungkinkan bunyinya berlanjut tanpa terputus, menjadikannya pembawa utama melodi dalam Nobat."
 
 lang: "id"
+sourceContentHash: "ede0d9c6ebbbceef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

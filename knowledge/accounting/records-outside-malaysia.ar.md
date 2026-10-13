@@ -25,10 +25,11 @@ verificationNeeded:
   - "لا تنشر لجنة الشركات الماليزية (SSM) ولا الهيئة الماليزية للإيرادات الداخلية (LHDN) إرشادات بشأن ما إذا كانت البيانات المستضافة في منطقة سحابية أجنبية لكنها قابلة للوصول من ماليزيا تستوفي شرط الحفظ في ماليزيا — والموقف المذكور هنا يتبع نص القانون، ولا يوجد تساهل إداري منشور"
 
 lang: "ar"
+sourceContentHash: "d4690bd724bedb45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

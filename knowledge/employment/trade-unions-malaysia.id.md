@@ -34,8 +34,9 @@ faq:
     a: "Hak perundingan kolektif tunggal ditentukan di bawah Industrial Relations Act 1967. Jika pekerja tidak mencapai kata sepakat, permohonan dapat diajukan kepada Ketua Pengarah Perhubungan Perusahaan yang dapat mengadakan pemungutan suara rahasia untuk memilih agen perunding."
 
 lang: "id"
+sourceContentHash: "3512cd3f05dbac9a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "Pasal 366(1) mengatur rapat yang diperintahkan pengadilan bagi kelas yang terdampak, dan perintah pengalihan Pasal 370 mengandaikan skema yang disetujui berdasarkan Pasal 366. Apakah pengadilan dapat mengesampingkan rapat ketika hasilnya tidak benar-benar dipersengketakan merupakan persoalan terbuka yang telah diangkat oleh para praktisi, dan jawabannya bergantung pada fakta. Jangan mengandaikan rapat dapat dilewati; mintalah nasihat hukum Malaysia mengenai struktur yang spesifik."
 
 lang: "id"
+sourceContentHash: "c7201bb6830e2b18"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

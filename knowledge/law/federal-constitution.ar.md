@@ -20,12 +20,13 @@ keyTakeaways:
 appliesTo: "كل من يسعى إلى فهم بنيوي ووصفي للإطار الدستوري الماليزي."
 
 lang: "ar"
+sourceContentHash: "3635bd9fdb569d2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

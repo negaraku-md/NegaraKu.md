@@ -33,10 +33,11 @@ faq:
     a: "لا. منح CIP مشروطة. تُصرَف الأموال مقابل مراحل إنجاز متفق عليها (عبر دفعات مقدّمة وتعويض)، ويمكن استرداد المنحة إن خرق المستفيد شروطها أو أُنهي المشروع. وتُنظَّم CIP Sprint على وجه الخصوص كمنحة قابلة للتحويل. اقرأ اتفاقية المنحة بعناية لتفهم شروط مراحل الإنجاز والإبلاغ والاسترداد قبل أن تقبلها."
 
 lang: "ar"
+sourceContentHash: "314f5c2c68cdde6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

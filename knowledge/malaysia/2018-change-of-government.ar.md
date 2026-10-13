@@ -19,11 +19,12 @@ keyTakeaways:
   - "أدّى تون د. مهاتير محمد اليمين رئيسًا سابعًا لوزراء ماليزيا في 10 مايو 2018؛ وأصبحت د. وان عزيزة وان إسماعيل أول امرأة تتولى منصب نائب رئيس الوزراء"
 appliesTo: "القرّاء الراغبون في الوقائع الموثّقة لأول تغيير اتحادي للحكومة في ماليزيا في الانتخابات العامة الرابعة عشرة — النتيجة، وأرقام المقاعد، والآلية الدستورية — معروضةً بحياد ومع مصادرها، دون تفسير حزبي."
 lang: "ar"
+sourceContentHash: "354e5f3719c345fc"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -31,8 +31,9 @@ faq:
     a: "ePermit, sebuah layanan web yang dikelola oleh Dagang Net Technologies di bawah Jendela Tunggal Nasional, memungkinkan Anda mengajukan permohonan kepada berbagai Instansi Penerbit Permit secara daring. Permit yang disetujui dikirim secara elektronik kepada Bea Cukai untuk verifikasi terhadap deklarasi Anda."
 
 lang: "id"
+sourceContentHash: "f453f5001ae25d26"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

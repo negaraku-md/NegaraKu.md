@@ -50,10 +50,11 @@ obligations:
     consequence: "غرامة قدرها RM50 أو 10% من الرسم الناقص خلال 3 أشهر، وRM100 أو 20% بعد ذلك، بموجب المادة 47A"
 
 lang: "ar"
+sourceContentHash: "5ec47f8a8774a786"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

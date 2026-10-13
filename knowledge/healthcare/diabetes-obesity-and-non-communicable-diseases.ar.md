@@ -32,10 +32,11 @@ faq:
     a: "متلقّو المساعدة النقدية رحمة (Sumbangan Tunai Rahmah, STR) من سن 40 عامًا فأكثر مؤهّلون للفحص المجاني ضمن برنامج PeKa B40 في العيادات الحكومية أو الخاصة المسجّلة. كما تقدّم عيادات الصحة العامة فحوصًا أساسية."
 
 lang: "ar"
+sourceContentHash: "bbc5ab5d7d67181c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

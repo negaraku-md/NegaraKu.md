@@ -63,8 +63,9 @@ obligations:
     consequence: "Offence by the company and every officer in default, plus late lodgement penalties under SSM Practice Directive 1/2017 as revised"
 
 lang: "id"
+sourceContentHash: "49a0af6107cdceff"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

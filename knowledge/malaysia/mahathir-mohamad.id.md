@@ -31,8 +31,9 @@ verificationNeeded:
   - "Tanggal yang tepat (keperdanaan, pengunduran diri) perlu dipastikan dengan Departemen Perdana Menteri dan Perdana Leadership Foundation."
 
 lang: "id"
+sourceContentHash: "2b8cc04016656090"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

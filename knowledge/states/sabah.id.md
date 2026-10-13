@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Pembaca yang mencari profil faktual Sabah — geografi, ekonomi dan pemerintahannya — serta penjelasan netral mengenai kedudukan konstitusionalnya di bawah Perjanjian Malaysia 1963."
 
 lang: "id"
+sourceContentHash: "d05db2b4db752c79"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

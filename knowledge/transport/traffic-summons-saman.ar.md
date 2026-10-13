@@ -30,10 +30,11 @@ faq:
     a: "وفقًا لـ JPJ، فإن إشعار AwAS الذي لا يُسوّى خلال 60 يومًا من تاريخ إصداره قد يؤدي إلى إجراء قضائي، مع غرامة تتراوح بين RM300 و RM2,000 عند الإدانة."
 
 lang: "ar"
+sourceContentHash: "b08ee8ca24ef947b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -42,10 +42,11 @@ verificationNeeded:
   - "يُتحقق مما إذا كانت بورصة ماليزيا (Bursa Malaysia) ستصدر إرشادات انتقالية للتقارير الفصلية في السنة الأولى من MFRS 18"
 
 lang: "ar"
+sourceContentHash: "542671cd3c464e38"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -33,8 +33,9 @@ faq:
     a: "Departemen Statistik Malaysia (DOSM) menerbitkan Akun Satelit ICT setiap tahun (rilis Ekonomi Digital Malaysia), yang menetapkan kontribusi ICT dan e-dagang terhadap PDB. DOSM juga menjalankan Laporan Penggunaan dan Akses ICT bagi angka penetrasi rumah tangga dan individu. Tingkat penetrasi pita lebar diterbitkan secara terpisah oleh Komisi Komunikasi dan Multimedia Malaysia (SKMM/MCMC)."
 
 lang: "id"
+sourceContentHash: "9a3a89f709e2b7ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

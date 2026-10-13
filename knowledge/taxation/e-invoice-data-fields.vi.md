@@ -28,8 +28,9 @@ verificationNeeded:
   - "Giới hạn tần suất gọi API theo từng endpoint — SDK dẫn chiếu đến Integration Practices mà không nêu các giới hạn bằng số trên trang FAQ"
 
 lang: "vi"
+sourceContentHash: "7457966f1e6638bb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

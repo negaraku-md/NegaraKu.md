@@ -26,10 +26,11 @@ verificationNeeded:
   - "أرقام الرسوم وحدود المعاملات مأخوذة مباشرة من موقع PayNet الرسمي وقت الكتابة؛ وتذكر PayNet أن الرسوم الفعلية قد تختلف بحسب كل بنك/محفظة إلكترونية"
 
 lang: "ar"
+sourceContentHash: "1b31c1f5d1b3682f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

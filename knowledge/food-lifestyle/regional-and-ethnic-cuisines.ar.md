@@ -34,12 +34,13 @@ faq:
     a: "نعم، وإن كان يُعَدّ مهدَّدًا بالاندثار على نحوٍ متزايد. مطبخ Kristang تقليد مجتمع الأوراسيين من أصل برتغالي-آسيوي في ملقا، بأطباق مثل kari debal (كاري الشيطان) تستعمل الخلّ وبذور الخردل وثمرة الكمّري. وتعمل عدة مطاعم وصفوف طهي في ملقا على الحفاظ على هذا التقليد لأن الأجيال الشابة ترثه على نحوٍ أقلّ فأقلّ."
 
 lang: "ar"
+sourceContentHash: "b5facc6867b131b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 verificationNeeded:

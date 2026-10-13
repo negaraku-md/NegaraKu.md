@@ -23,8 +23,9 @@ appliesTo: "Analis, wartawan, pelajar, investor, dan operator yang perlu membaca
 seoTitle: "Statistik Pariwisata Malaysia: Kedatangan versus Penerimaan"
 
 lang: "id"
+sourceContentHash: "396de79b31be6ee8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

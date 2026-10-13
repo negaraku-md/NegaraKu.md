@@ -30,8 +30,9 @@ faq:
     a: "Ia diumumkan untuk diperkenalkan menjelang 2026, meskipun pejabat telah mengisyaratkan bahwa penetapan waktunya mungkin dikaji ulang."
 
 lang: "id"
+sourceContentHash: "1b480b649a14d8fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

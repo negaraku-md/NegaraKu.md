@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai so sánh chi phí sinh hoạt của Penang với Thung lũng Klang, hoặc quyết định giữa Đảo Penang và Seberang Perai trước khi chuyển đến, thuê nhà, hoặc mở doanh nghiệp."
 
 lang: "vi"
+sourceContentHash: "060d0c1609863cd7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Konfirmasikan apakah ada pengecualian Menteri di bawah s.44(5D) yang telah diberikan dalam kasus individual di luar pelonggaran umum YA2006; hanya posisi umum yang diterbitkan"
 
 lang: "id"
+sourceContentHash: "5db600f69d4d89ad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

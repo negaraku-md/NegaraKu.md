@@ -30,10 +30,11 @@ faq:
     a: "يملك TNB شبكة الكهرباء الوطنية ويشغّلها، وهي شبكة يجب تطويرها لاستيعاب الطاقة المتجددة، بما يتسق مع أهداف خارطة طريق التحول الطاقي الوطني (National Energy Transition Roadmap، NETR)."
 
 lang: "ar"
+sourceContentHash: "12e743d05ab159ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

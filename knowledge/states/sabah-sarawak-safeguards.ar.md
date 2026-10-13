@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "كل من — مسافرًا كان أم صاحب عمل أم طالبًا أم قارئًا للفدرالية الماليزية — يريد عرضًا بسيطًا ووصفيًا للضمانات الدستورية التي تملكها صباح وساراواك، وأين كُتبت كلٌّ منها، دون الانحياز في النقاش حول كيفية تنفيذها."
 
 lang: "ar"
+sourceContentHash: "468d0412b31978aa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

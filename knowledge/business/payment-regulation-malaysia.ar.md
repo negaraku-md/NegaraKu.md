@@ -29,10 +29,11 @@ verificationNeeded:
   - "لا تُدرج صفحة أوامر الجريدة الرسمية الخاصة بـ BNM لأنظمة الدفع P.U.(A) 468/2024 الذي يعدّل اشتراطات العمل المسجَّل — عامِل ذلك الفهرس على أنه غير مكتمل وراجع بوابة الجريدة الرسمية التابعة لـ AGC"
 
 lang: "ar"
+sourceContentHash: "312edd8d349c774c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

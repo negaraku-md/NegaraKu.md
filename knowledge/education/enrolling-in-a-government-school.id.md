@@ -19,8 +19,9 @@ keyTakeaways:
   - "Masuk awal (di bawah umur) dan penangguhan Tahun 1 keduanya ada sebagai kebijakan resmi terpisah — permohonan dilakukan melalui JPN, bukan melalui sistem idMe biasa, dan penangguhan adalah keistimewaan (privilege), bukan hak otomatis"
 appliesTo: "Orang tua atau wali warga negara Malaysia yang anaknya akan memasuki Tahun 1 sekolah rendah pemerintah atau Tingkatan 1 sekolah menengah pemerintah."
 lang: "id"
+sourceContentHash: "0c89415b8941ca0c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

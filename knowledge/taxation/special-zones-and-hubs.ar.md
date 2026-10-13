@@ -44,10 +44,11 @@ verificationNeeded:
   - "تأكّد من الأساس القانوني الذي تستند إليه MIDA لـ ITA مجمّع الخدمات اللوجستية الذكية في JS-SEZ — إذ تستشهد الإرشادات بـ P.U.(A) 113/2006، وهي أداة سابقة لعام 2011 خارج التغطية الموثوقة لـ AGC، ولم يُسترجَع نصّها الساري"
 
 lang: "ar"
+sourceContentHash: "2c106e0d7c225687"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

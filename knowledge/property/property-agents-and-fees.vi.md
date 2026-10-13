@@ -28,8 +28,9 @@ faq:
     a: "Phí cho thuê theo biểu chính thức là 1,25 đến 1,75 tháng tiền thuê gộp (với phí tối thiểu 1 tháng tiền thuê) tùy theo thời hạn thuê; ai gánh chịu là vấn đề thỏa thuận giữa các bên."
 
 lang: "vi"
+sourceContentHash: "d09e304bd5589019"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

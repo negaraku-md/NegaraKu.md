@@ -33,8 +33,9 @@ faq:
     a: "MOTAC mengelola skema pemeringkatan resmi — Peringkat Bintang bagi hotel (menilai kemewahan, fasilitas, dan kualitas layanan) dan Peringkat Orkid bagi penginapan bajet (memfokuskan kebersihan, keselamatan, dan kenyamanan dasar). Pemeringkatan diberi nilai sebagai persentase, dengan 90-100% memberikan lima bintang ke bawah hingga band yang lebih rendah; hotel juga dikategorikan menurut konsep (kota, resor, dataran tinggi, butik, inovatif, apartemen). Pemeringkatan menentukan peringkat yang boleh Anda iklankan dan berbeda dari pendaftaran dasar yang harus dimiliki oleh setiap premis untuk beroperasi secara sah."
 
 lang: "id"
+sourceContentHash: "65be551a77e4ae21"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

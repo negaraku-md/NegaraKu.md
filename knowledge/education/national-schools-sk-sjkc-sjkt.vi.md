@@ -29,8 +29,9 @@ faq:
     a: "Học sinh SJKC và SJKT có thể học tiếp lên trường trung học quốc gia (SMK, ngôn ngữ giảng dạy là tiếng Mã Lai) hoặc, đối với một số học sinh SJKC, lên trường trung học kiểu quốc gia (SMJK) cũng là trường công lập/được chính phủ hỗ trợ. Sự chuyển đổi ngôn ngữ giảng dạy từ tiểu học sang trung học quốc gia được hỗ trợ bởi lớp chuyển tiếp cho học sinh cần nó."
 
 lang: "vi"
+sourceContentHash: "2c9607178a97bd26"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

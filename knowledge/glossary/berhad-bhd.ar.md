@@ -32,10 +32,11 @@ faq:
     a: "نعم. يمكن للشركة الخاصة أن تتحول إلى شركة عامة بموجب قانون الشركات لسنة 2016 — عادةً بتمرير قرار خاص من الأعضاء، وتغيير اسمها لينتهي بـ«Berhad»، وإيداع المستندات المطلوبة لدى لجنة الشركات الماليزية (SSM)."
 
 lang: "ar"
+sourceContentHash: "8327877494bab4c8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

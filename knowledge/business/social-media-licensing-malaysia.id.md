@@ -27,8 +27,9 @@ verificationNeeded:
   - "Bagaimana MCMC mengukur jumlah delapan juta pengguna dalam praktik, dan periode rujukan yang digunakan"
 
 lang: "id"
+sourceContentHash: "4b67b928b9834e6c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

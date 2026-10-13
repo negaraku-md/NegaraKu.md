@@ -34,8 +34,9 @@ faq:
     a: "Ủy viên Di sản tại Cục Di sản Quốc gia công báo các món ăn là đối tượng di sản theo tiểu mục 49(1) của National Heritage Act 2005 [Act 645], thông qua Tuyên bố Đối tượng Di sản hằng năm."
 
 lang: "vi"
+sourceContentHash: "bdf1c88a62d4c6ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

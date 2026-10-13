@@ -31,8 +31,9 @@ faq:
     a: "Ia berarti pihak penuntut telah mengemukakan keterangan yang, jika tidak dipatahkan atau tidak dijelaskan, akan mewajarkan pemidanaan. Jika kasus prima facie dibuktikan, terdakwa diperintahkan membela diri; jika tidak, terdakwa dibebaskan."
 
 lang: "id"
+sourceContentHash: "5c000067f01e0ea2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

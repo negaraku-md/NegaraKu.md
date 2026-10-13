@@ -25,9 +25,10 @@ faq:
   - q: "هل مدَّد إعفاء رسوم التقديم المتأخر لعام 2025 موعدي النهائي؟"
     a: "لا. سرى الإعفاء من 1 يونيو إلى 30 سبتمبر 2025 وأزال رسوم التقديم المتأخر فقط. وهو لم يمدِّد أي موعد نهائي قانوني للتقديم بموجب قانون الشركات 2016."
 lang: "ar"
+sourceContentHash: "6cce56bdb89cd914"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

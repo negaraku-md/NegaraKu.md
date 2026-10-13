@@ -20,8 +20,9 @@ keyTakeaways:
   - "NEP được xây dựng sau các sự kiện ngày 13 tháng 5 năm 1969 và được kế tục bởi Chính sách Phát triển Quốc gia vào năm 1991"
 appliesTo: "Độc giả muốn biết các mục tiêu, chỉ tiêu và khung thời gian đã được ghi chép của Chính sách Kinh tế Mới đúng như được nêu trong các văn bản kế hoạch chính thức của Malaysia, thay vì một trình bày mang tính phe phái về nó."
 lang: "vi"
+sourceContentHash: "6f9599be22d1ac5f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

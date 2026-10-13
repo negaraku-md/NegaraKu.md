@@ -31,8 +31,9 @@ verificationNeeded:
   - "Tất cả các con số cần được xác nhận so với Ủy ban Bầu cử Malaysia (Suruhanjaya Pilihan Raya)."
 
 lang: "vi"
+sourceContentHash: "60045df88eb348ab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

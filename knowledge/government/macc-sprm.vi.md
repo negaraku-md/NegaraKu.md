@@ -32,8 +32,9 @@ faq:
     a: "Có. Điều 17A, được đưa vào bởi bản sửa đổi 2018 (Act A1567) và có hiệu lực từ ngày 1 tháng 6 năm 2020, khiến một tổ chức thương mại chịu trách nhiệm khi một người có liên quan đến nó đưa hoặc đề nghị hối lộ một cách tham nhũng để có được hoặc giữ được công việc kinh doanh. Riêng biệt, định nghĩa 'cơ quan công' trong điều 3 của Đạo luật vươn đến các công ty và công ty con mà một cơ quan công có quyền kiểm soát hoặc lợi ích trong đó."
 
 lang: "vi"
+sourceContentHash: "6d18558cf5584f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

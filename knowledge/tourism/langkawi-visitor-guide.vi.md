@@ -36,8 +36,9 @@ faq:
     a: "Khoảng thời gian khô hơn, êm ả hơn chạy từ khoảng tháng 11 đến tháng 3, tốt nhất cho việc dạo đảo, cáp treo và thời gian bãi biển. Tháng 9 và tháng 10 có xu hướng là các tháng ẩm ướt nhất, mặc dù mưa thường là các cơn mưa nhiệt đới ngắn chứ không phải mưa cả ngày."
 
 lang: "vi"
+sourceContentHash: "a1ed788de3d96eee"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

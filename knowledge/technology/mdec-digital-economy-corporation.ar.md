@@ -27,9 +27,10 @@ faq:
   - q: "هل MDEC هي نفسها MSC Malaysia؟"
     a: "لا. MDEC هي الوكالة؛ وMSC Malaysia كان برنامجها السابق. وقد أُعيدت تسمية MSC Malaysia إلى Malaysia Digital، ومركز MD هو خليفة مركز MSC Malaysia السابق."
 lang: "ar"
+sourceContentHash: "4aca195eadff6ca3"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

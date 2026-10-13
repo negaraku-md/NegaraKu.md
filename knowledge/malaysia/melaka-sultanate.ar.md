@@ -29,11 +29,12 @@ faq:
     a: "بقي البلاط. فقد أعاد السلطان محمود شاه وذرّيته تأسيس الحُكم الملايوي إلى الجنوب، وأهمّ ذلك في سلطنة جوهور (Johor)، حاملين معهم بنية بلاط ملقا وقانونها القضائي ولغتها. وقد عُمّرت تلك المؤسسات قروناً أطول من استقلال المدينة نفسها."
 
 lang: "ar"
+sourceContentHash: "cf412842ff34bf8f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

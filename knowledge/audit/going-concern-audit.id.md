@@ -36,8 +36,9 @@ verificationNeeded:
   - "Pastikan apakah ada praktik kovenan perbankan Malaysia atau persyaratan pencatatan Bursa Malaysia yang mengaitkan konsekuensi tertentu dengan bagian Material Uncertainty Related to Going Concern — dampak komersial yang dijelaskan di sini merupakan pengamatan praktisi, bukan peraturan yang diterbitkan"
 
 lang: "id"
+sourceContentHash: "272fa8b449a7b590"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -43,8 +43,9 @@ verificationNeeded:
   - "Pastikan apakah SEDIA, NCER, dan ECERDC memegang kewenangan persetujuan pas ekspatriat setara dengan IRDA, yang tidak dapat dipastikan"
 
 lang: "id"
+sourceContentHash: "dbc6e7a307297e3a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

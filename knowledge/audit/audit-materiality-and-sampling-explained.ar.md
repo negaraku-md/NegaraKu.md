@@ -30,10 +30,11 @@ faq:
     a: "نعم. يطبّق المعهد الماليزي للمحاسبين إصدارات IAASB بوصفها معايير التدقيق المعتمدة في ماليزيا دون تعديل، فتسري ISA 320 و450 و530 على التدقيق القانوني الماليزي."
 
 lang: "ar"
+sourceContentHash: "caf6b9d895d2d9ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

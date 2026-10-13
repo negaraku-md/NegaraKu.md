@@ -29,10 +29,11 @@ faq:
     a: "تركّز الرعاية التلطيفية على الراحة والتحكم في الأعراض للمرضى المصابين بأمراض تحدّ من العمر المتوقع، بصرف النظر عن السن، بما في ذلك الأطفال. أما رعاية كبار السن فهي رعاية عامة للمسنين الذين قد لا يكونون مصابين بمرض في مرحلته الأخيرة."
 
 lang: "ar"
+sourceContentHash: "ff994cbda9925abc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

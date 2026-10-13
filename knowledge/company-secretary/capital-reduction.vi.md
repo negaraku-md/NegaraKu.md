@@ -77,8 +77,9 @@ obligations:
     consequence: "Vi phạm bởi công ty và mỗi cán bộ vi phạm theo s.120(6)"
 
 lang: "vi"
+sourceContentHash: "6120d0d4e510c23d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

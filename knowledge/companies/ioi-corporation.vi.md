@@ -30,8 +30,9 @@ faq:
     a: "Tại Malaysia (bao gồm Johor, Malacca, Negeri Sembilan, Pahang, Sabah và Sarawak) và tại Indonesia (Tây và Trung Kalimantan)."
 
 lang: "vi"
+sourceContentHash: "1a35d39eb3932506"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,10 +30,11 @@ faq:
     a: "يعمل APM بموجب قانون الدفاع المدني لسنة 1951 (Act 221)، الذي ينص على واجباته في السلم والحرب لحماية الأرواح والممتلكات."
 
 lang: "ar"
+sourceContentHash: "1cc8bccf4a7c831a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

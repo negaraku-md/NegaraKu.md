@@ -32,8 +32,9 @@ faq:
     a: "Ia adalah kerangka yang digunakan oleh kedua pemerintah untuk menggambarkan fase hubungan berikutnya, dibangun di atas kemitraan strategis komprehensif yang dijalin pada 2013. Konsep ini dibangkitkan sejak 2023 dan diresmikan dalam pernyataan bersama saat kunjungan kenegaraan Presiden Xi Jinping pada 17 April 2025. Ia menggariskan kerja sama mencakup perdagangan, teknologi, infrastruktur dan hubungan rakyat ke rakyat."
 
 lang: "id"
+sourceContentHash: "72782c6871b15658"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

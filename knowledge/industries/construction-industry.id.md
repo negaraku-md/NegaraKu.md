@@ -34,8 +34,9 @@ faq:
     a: "NCP 2030 adalah kebijakan yang diluncurkan pada ICW 2021, menyusul berakhirnya periode Program Transformasi Industri Konstruksi (CITP) 2016–2020. Ia menguraikan enam pilar strategis untuk mentransformasi sektor konstruksi ke arah era digital menjelang 2030, termasuk target mendigitalkan 50% siklus industri."
 
 lang: "id"
+sourceContentHash: "77fa6bf333c3fa74"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "دافعو الضرائب الأفراد، والموظفون، وعمال الاقتصاد المؤقت (gig)، والمؤسسات الصغيرة والمتوسطة (SME) وأصحاب العمل، وكل من يخطط في ضوء تغييرات الضرائب والأجور والمساعدات النقدية في ميزانية ماليزيا 2027."
 
 lang: "ar"
+sourceContentHash: "9667ec689364dcd2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 revision: 0
 reviewed: "2026-10-10"
 published: "2026-10-10"

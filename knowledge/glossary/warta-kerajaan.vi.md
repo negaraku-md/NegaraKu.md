@@ -27,8 +27,9 @@ verificationNeeded:
   - "Văn bản Điều 66(5) được trích là bản dịch tiếng Mã Lai của Cục Chưởng lý; hãy xác minh đối chiếu với văn bản tiếng Anh xác thực."
 
 lang: "vi"
+sourceContentHash: "f029a1ff1ebfdbf1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

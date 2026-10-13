@@ -29,10 +29,11 @@ faq:
     a: "عشر سنوات من تاريخ التسجيل، قابلة للتجديد لفترات أخرى مدتها عشر سنوات إلى ما لا نهاية (المادتان 18 و19)."
 
 lang: "ar"
+sourceContentHash: "a1ee81a205bbd043"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

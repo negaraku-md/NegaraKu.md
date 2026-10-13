@@ -31,12 +31,13 @@ faq:
     a: "يعني أن النيابة قدَّمت أدلة من شأنها، إن لم تُدحَض أو تُفسَّر، أن تبرِّر الإدانة. فإن ثبتت قضية ظاهرة الوجاهة، دُعي المتهم إلى تقديم دفاعه؛ وإلا بُرِّئ."
 
 lang: "ar"
+sourceContentHash: "5c000067f01e0ea2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

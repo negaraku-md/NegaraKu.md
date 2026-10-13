@@ -32,8 +32,9 @@ faq:
     a: "Chúng là các tầng riêng biệt. ISA 550 điều chỉnh cuộc kiểm toán; MFRS 124 điều chỉnh điều gì phải được công bố trong báo cáo tài chính; và Chương 10 của Bursa điều chỉnh hành động doanh nghiệp — khi nào một tổ chức phát hành niêm yết phải công bố một giao dịch, phát hành một thông cáo, hoặc có được sự phê duyệt trước của cổ đông, với các giám đốc và cổ đông lớn có lợi ích bỏ phiếu trắng."
 
 lang: "vi"
+sourceContentHash: "ea0ecab6bfc0f793"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

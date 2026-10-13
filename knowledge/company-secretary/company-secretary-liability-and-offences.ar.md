@@ -27,10 +27,11 @@ faq:
     a: "بموجب المادة 593 من قانون الشركات لسنة 2016 (Companies Act 2016)، يُعاقَب على البيان أو التقرير الكاذب المقدَّم إلى المُسجِّل (SSM) بالسجن حتى 10 سنوات، أو بغرامة حتى RM3 مليون، أو بكلتيهما."
 
 lang: "ar"
+sourceContentHash: "e1c1cbfc3de7c89d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

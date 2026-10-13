@@ -29,8 +29,9 @@ faq:
     a: "Serunai được chơi bằng kỹ thuật hô hấp vòng (circular breathing) cho phép âm thanh của nó kéo dài không ngắt quãng, khiến nó trở thành nhạc cụ chính giữ giai điệu trong Nobat."
 
 lang: "vi"
+sourceContentHash: "ede0d9c6ebbbceef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

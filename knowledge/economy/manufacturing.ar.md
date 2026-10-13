@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "المستثمرون والباحثون عن عمل ومحللو السياسات والطلاب الذين يحاولون قراءة إحصاءات ماليزيا الصناعية بدقة."
 
 lang: "ar"
+sourceContentHash: "21e59589f33cf91e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

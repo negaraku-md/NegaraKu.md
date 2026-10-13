@@ -41,8 +41,9 @@ verificationNeeded:
   - "Xác nhận các yêu cầu công bố MFRS 124 hiện hành và bất kỳ sửa đổi nào có hiệu lực cho năm tài chính liên quan so với chuẩn mực do MASB công bố"
 
 lang: "vi"
+sourceContentHash: "cc898ee41c4b1308"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

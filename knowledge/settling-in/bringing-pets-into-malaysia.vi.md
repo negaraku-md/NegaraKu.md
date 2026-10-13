@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai chuyển đến Malaysia cùng một con chó hoặc mèo, hoặc mang một con vào vì bất kỳ mục đích nào khác, cần lên kế hoạch cho quy trình giấy phép và cách ly trước khi khởi hành."
 
 lang: "vi"
+sourceContentHash: "10bc44ecb02ea814"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

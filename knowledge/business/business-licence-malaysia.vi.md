@@ -42,8 +42,9 @@ verificationNeeded:
   - "Liệu có bang nào đã hợp nhất việc cấp phép thương mại và cơ sở của mình vào một văn kiện duy nhất kể từ vòng Modernising Business Licensing gần nhất hay không"
 
 lang: "vi"
+sourceContentHash: "2779e333b6f5b277"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

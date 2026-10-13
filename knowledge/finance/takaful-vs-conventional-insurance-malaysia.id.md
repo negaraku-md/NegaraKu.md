@@ -29,8 +29,9 @@ faq:
     a: "Beberapa paket takaful memperbolehkan surplus yang dapat didistribusikan dari dana risiko dibagi dengan peserta yang layak, tunduk pada ketentuan sertifikat. Fitur pembagian surplus ini tidak memiliki padanan langsung dalam kebanyakan polis konvensional."
 
 lang: "id"
+sourceContentHash: "94509152b2b8fc7d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "PETRA (Kementerian Peralihan Tenaga dan Transformasi Air) adalah kementerian yang merumuskan kebijakan energi dan air negara. Suruhanjaya Tenaga adalah badan statutori regulator yang melaksanakan dan menegakkan undang-undang pasokan energi. Di bawah Pasal 16 Akta 610, ST bertanggung jawab kepada Menteri dan harus memberlakukan arahan yang bersifat umum dari Menteri."
 
 lang: "id"
+sourceContentHash: "0a1f3c6792f9255a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

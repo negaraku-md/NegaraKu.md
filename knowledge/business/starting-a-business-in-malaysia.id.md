@@ -29,8 +29,9 @@ faq:
   - q: "Kapan perusahaan baru perlu mendaftar pajak pendapatan dan SST?"
     a: "Sdn Bhd yang baru didirikan harus mendaftar berkas pajak pendapatan terpisah dengan LHDN melalui e-Daftar, yang mengeluarkan Nomor Pengenalan Pajak tersendiri — ini tidak dilakukan secara otomatis oleh SSM. Ia juga harus mengajukan estimasi pajak pertamanya (CP204) dalam waktu tiga bulan setelah memulai operasi jika periode dasar pertamanya sekurang-kurangnya enam bulan. Pendaftaran Pajak Penjualan dan Layanan (SST) menjadi wajib apabila omzet kena pajak tahunan melampaui ambang RM500,000."
 lang: "id"
+sourceContentHash: "187b776d2f8aa2b3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -27,8 +27,9 @@ faq:
   - q: "Apa nama KPKT sebelumnya, dan kapan nama itu diubah?"
     a: "Ia dahulunya adalah Kementerian Pembangunan Kerajaan Tempatan; Kabinet memutuskan untuk menamainya ulang menjadi Kementerian Perumahan dan Kerajaan Tempatan pada 13 Desember 2023, diumumkan pada 26 Desember 2023."
 lang: "id"
+sourceContentHash: "44a0632c979d6de6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

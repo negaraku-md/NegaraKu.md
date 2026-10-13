@@ -29,8 +29,9 @@ faq:
     a: "Việc mua phải được tài trợ hoàn toàn từ lợi nhuận giữ lại của công ty trên cơ sở công ty (không phải tập đoàn) — Quy tắc 12.10 của Chapter 12 của Bursa Listing Requirements. Các khoản vay có thể được dùng làm nguồn vốn với điều kiện việc mua được hỗ trợ bởi một số lợi nhuận giữ lại tương đương (Quy tắc 12.11)."
 
 lang: "vi"
+sourceContentHash: "6bd8a430b49db96b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

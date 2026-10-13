@@ -26,8 +26,9 @@ verificationNeeded:
   - "Không có con số phí, tỷ giá hay khối lượng chuyển tiền nào được nêu ở bất kỳ đâu trong bài viết này, theo yêu cầu của nhiệm vụ — mọi con số như vậy nên được lấy trực tiếp từ ngân hàng hoặc MSB có giấy phép tại thời điểm chuyển tiền."
 
 lang: "vi"
+sourceContentHash: "7ef5c9d18c446cfa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

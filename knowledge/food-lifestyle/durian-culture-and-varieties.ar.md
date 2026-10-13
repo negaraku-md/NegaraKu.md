@@ -34,10 +34,11 @@ faq:
     a: "بحسب رد برلماني نقلته Bernama، صدَّرت ماليزيا دوريان بقيمة RM6.37 مليار — نحو 115,359 طنًا متريًا — إلى الصين بين 2018 و2025. ويُقدَّر هدف قيمة التصدير لعام 2030 بأن يبلغ RM1.8 مليار بإجمالي 69,000 طن متري."
 
 lang: "ar"
+sourceContentHash: "c21f23e862b9d969"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

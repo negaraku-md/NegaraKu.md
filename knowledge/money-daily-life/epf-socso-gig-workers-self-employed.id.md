@@ -33,8 +33,9 @@ faq:
     a: "Di bawah Act 872, penyedia platform bertanggung jawab mendaftarkan Anda di bawah Skema Lindung Kendiri dan memotong iuran dari pendapatan Anda. Namun Anda masih perlu memastikan pendaftaran lengkap dan membayar sisa jika potongan tidak mencapai tarif minimum paket pilihan Anda."
 
 lang: "id"
+sourceContentHash: "759ef843044df58d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

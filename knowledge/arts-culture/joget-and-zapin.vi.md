@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu sự khác biệt về nguồn gốc, âm nhạc và động tác giữa Joget và Zapin với tư cách hai điệu múa dân gian Mã Lai riêng biệt."
 
 lang: "vi"
+sourceContentHash: "f85648fc29f5d316"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

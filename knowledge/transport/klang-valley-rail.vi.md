@@ -34,8 +34,9 @@ verificationNeeded:
   - "Hãy xác nhận chiều dài/số ga hiện tại của Tuyến MRT Kajang trực tiếp với MRT Corp hoặc Rapid Rail trước khi xuất bản — Bộ Giao thông và trang tuyến của chính Rapid Rail đưa ra các con số hơi khác nhau (51km/31 ga so với 46km/29 ga), mà bài viết này đã tránh lặp lại nguyên văn trong khi chờ đối chiếu."
 
 lang: "vi"
+sourceContentHash: "8f5aa15915a64a18"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

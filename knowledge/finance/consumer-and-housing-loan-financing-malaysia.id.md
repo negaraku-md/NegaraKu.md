@@ -31,8 +31,9 @@ faq:
     a: "Di bawah Hire Purchase Act 1967 pemberi pembiayaan secara umum hanya dapat menarik kembali setelah penyewa gagal membayar dua angsuran berturut-turut dan mengikuti proses pemberitahuan 21 hari. Setelah Anda membayar setidaknya 75% dari harga tunai, pemberi pembiayaan memerlukan perintah pengadilan untuk menarik kembali."
 
 lang: "id"
+sourceContentHash: "6a3487bee5c6466c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -33,9 +33,10 @@ faq:
     a: "أُعلن الاسم في 31 أغسطس 1997 في ساحة مرديكا (Dataran Merdeka)، إحياءً للذكرى الأربعين للاستقلال."
 
 lang: "ar"
+sourceContentHash: "f09e1191ce6cd425"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

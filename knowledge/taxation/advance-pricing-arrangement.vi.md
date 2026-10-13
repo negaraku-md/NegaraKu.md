@@ -64,8 +64,9 @@ obligations:
     consequence: "Hủy bỏ thỏa thuận theo rule 18(1)(c)"
 
 lang: "vi"
+sourceContentHash: "bb70ed44534a20cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

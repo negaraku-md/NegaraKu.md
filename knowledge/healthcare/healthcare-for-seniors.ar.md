@@ -21,9 +21,10 @@ appliesTo: "الأبناء البالغون وأفراد الأسرة في ما�
 verificationNeeded:
   - "لا يذكر هذا المقال رسوم دور الرعاية الخاصة، أو عدد الأسِرّة، أو طول قائمة الانتظار لـ Rumah Seri Kenangan، لأن هذه تتغيّر كثيرًا ولم تُؤكَّد من مصدر رسمي وقت الكتابة — تأكّد من الرسوم والتوافر الحاليَّين مباشرةً مع المُشغِّل أو مكتب الرعاية الاجتماعية في المقاطعة (Jabatan Kebajikan Masyarakat Daerah)."
 lang: "ar"
+sourceContentHash: "7ae419cbd6a2d437"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

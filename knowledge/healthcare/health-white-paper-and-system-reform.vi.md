@@ -32,8 +32,9 @@ faq:
     a: "Chính phủ khẳng định là không. Các sáng kiến như Rakan KKM được định khung như một mô hình giữ chân chuyên gia trong khu vực công, chứ không phải tư nhân hóa, dù một số nhà quan sát vẫn thận trọng với tác động dài hạn của nó."
 
 lang: "vi"
+sourceContentHash: "f5aff2ea91b18549"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

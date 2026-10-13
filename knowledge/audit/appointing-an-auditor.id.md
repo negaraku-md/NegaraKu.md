@@ -42,8 +42,9 @@ verificationNeeded:
   - "Pastikan apakah Menteri Keuangan telah secara resmi mendelegasikan fungsi persetujuan s.263, dan kepada badan yang mana, mengingat s.263(5) mengizinkan tetapi tidak mewajibkan pendelegasian"
 
 lang: "id"
+sourceContentHash: "171d2f5e74d8eb19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

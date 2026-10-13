@@ -29,8 +29,9 @@ verificationNeeded:
   - "Pastikan status terkini potongan investasi BioNexus dan insentif status Malaysia Digital, yang keduanya disahkan oleh agensi selain MIDA dan tidak dapat dilacak sepenuhnya ke satu instrumen yang diwartakan"
 
 lang: "id"
+sourceContentHash: "d22536bf1bfa9c08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

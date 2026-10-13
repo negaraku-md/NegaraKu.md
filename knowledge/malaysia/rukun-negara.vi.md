@@ -20,8 +20,9 @@ keyTakeaways:
   - "Cuộc họp phân phối ngày 2 tháng 9 năm 1970 quyết định văn bản tiếng Malaysia là văn bản gốc; các phiên bản ngôn ngữ khác là bản dịch"
 appliesTo: "Học sinh sinh viên, giáo viên, công chức và bất kỳ ai cần tham chiếu văn bản chính thức của Rukun Negara cùng niên biểu soạn thảo của nó dựa trên hồ sơ lưu trữ."
 lang: "vi"
+sourceContentHash: "b7cede975bcf8a6f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

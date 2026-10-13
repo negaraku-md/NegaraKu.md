@@ -32,8 +32,9 @@ faq:
     a: "Nó được trình bày tại Dewan Rakyat vào ngày 2 tháng 12 năm 2019."
 
 lang: "vi"
+sourceContentHash: "3c6e38b833f827d4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

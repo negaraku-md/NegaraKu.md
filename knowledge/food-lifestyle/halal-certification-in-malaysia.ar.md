@@ -36,12 +36,13 @@ faq:
     a: "نعم. فاعتماد الحلال يركّز على امتثال المنتج والمكوّنات والعمليات لمتطلّبات MS 1500 وMPPHM، لا على دين المالك. فالشركات التي يملكها غير مسلمين يمكنها التقدّم للحصول على شهادة تأكيد الحلال الماليزية، وكثير منها يفعل ذلك فعلًا."
 
 lang: "ar"
+sourceContentHash: "f2b9c9a9d90925a7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

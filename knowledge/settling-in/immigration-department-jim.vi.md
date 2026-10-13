@@ -27,8 +27,9 @@ faq:
   - q: "Hộ chiếu 10 năm mới giá bao nhiêu?"
     a: "Hộ chiếu 10 năm có giá RM350 cho người nộp đơn từ 18–59 tuổi, RM175 cho người cao tuổi từ 60 trở lên, và miễn phí cho người giữ thẻ OKU (khuyết tật) từ 18 tuổi trở lên, theo Fees (Passports and Visas) (Amendment) Order 2026."
 lang: "vi"
+sourceContentHash: "050995b2068c647c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

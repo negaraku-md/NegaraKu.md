@@ -28,8 +28,9 @@ faq:
     a: "Không. Việc khôi phục yêu cầu một lệnh của Tòa án Cấp cao. Cơ quan Đăng ký (SSM) được nêu tên là bị đơn và rà soát đơn trước phiên xét xử."
 
 lang: "vi"
+sourceContentHash: "abcd7eea51de63b1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

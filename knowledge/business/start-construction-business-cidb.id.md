@@ -33,8 +33,9 @@ faq:
     a: "Itu suatu tindak pidana. Di bawah seksyen 29 Akta 520, melanggar seksyen 25(1) dapat dihukum ketika dinyatakan bersalah dengan denda tidak kurang dari RM10,000 dan tidak lebih dari RM100,000. Secara terpisah, di bawah seksyen 30, CIDB dapat menyampaikan notis tertulis yang memerintahkan Anda menghentikan kerja; mengabaikan notis itu sendiri merupakan pelanggaran yang membawa denda hingga RM5,000, serta hingga RM1,000 untuk setiap hari pelanggaran itu berlanjut."
 
 lang: "id"
+sourceContentHash: "d4cd90059b767133"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

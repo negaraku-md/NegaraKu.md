@@ -36,8 +36,9 @@ faq:
     a: "Trong Chỉ số An ninh mạng Toàn cầu 2020 của ITU (GCIv4), Malaysia đạt điểm 98.06 và xếp đồng hạng năm trên thế giới. Trong ấn bản 2024, sử dụng một mô hình năm tầng, Malaysia được xếp vào tầng 'làm gương' cao nhất."
 
 lang: "vi"
+sourceContentHash: "7722bdc160f9e488"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

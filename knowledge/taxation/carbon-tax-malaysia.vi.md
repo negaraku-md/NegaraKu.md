@@ -30,8 +30,9 @@ faq:
     a: "Nó được công bố để đưa vào áp dụng vào năm 2026, mặc dù các quan chức đã ra tín hiệu rằng thời điểm có thể được xem xét lại."
 
 lang: "vi"
+sourceContentHash: "1b480b649a14d8fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -45,10 +45,11 @@ verificationNeeded:
   - "رقم RM435 مليار من صادرات بينانغ المتداوَل على نطاق واسع، أو 31 بالمئة من الصادرات الوطنية، تعذّر ربطه بأي صفحة رسمية."
 
 lang: "ar"
+sourceContentHash: "6475dc27ed25022d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

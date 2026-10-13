@@ -60,8 +60,9 @@ obligations:
     consequence: "Form E dianggap belum diajukan sampai CP8D tiba; pelanggaran di bawah s.120(1) ITA 1967"
 
 lang: "id"
+sourceContentHash: "d4c8b31804f425e6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

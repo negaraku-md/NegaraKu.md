@@ -39,8 +39,9 @@ verificationNeeded:
   - "Xác nhận rằng các mức trần số thẩm phán do P.U. (A) 163/2009, P.U. (A) 164/2009 và P.U. (A) 384/2006 ấn định chưa bị thay thế bởi một sắc lệnh sau này của Yang di-Pertuan Agong."
 
 lang: "vi"
+sourceContentHash: "4d0744d3b1bfbe91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

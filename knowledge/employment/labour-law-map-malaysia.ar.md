@@ -28,10 +28,11 @@ verificationNeeded:
   - "التحقق من أرقام القوانين 612 و732 و789 و800 و840 و872 مقابل lom.agc.gov.my عند إتاحة ملفات PDF تلك — فهي مؤكَّدة حالياً من مواقع الجهات بدلاً من مستودع LOM"
 
 lang: "ar"
+sourceContentHash: "debce12c53f16ed5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

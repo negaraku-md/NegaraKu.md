@@ -34,8 +34,9 @@ faq:
     a: "Các đại học tư nhân nói chung cũng yêu cầu bằng chứng về năng lực tiếng Anh. Học sinh trong nước thường nộp kết quả MUET, trong khi các bằng cấp tương đương như IELTS hoặc TOEFL có thể được chấp nhận tùy thuộc vào chương trình và cơ sở."
 
 lang: "vi"
+sourceContentHash: "06e545a5dcaf1477"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

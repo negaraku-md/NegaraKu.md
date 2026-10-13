@@ -24,8 +24,9 @@ appliesTo: "Bất kỳ ai đang lựa chọn một cơ cấu kinh doanh, hoặc 
 verificationNeeded: []
 
 lang: "vi"
+sourceContentHash: "152f7dfdb9b1a474"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

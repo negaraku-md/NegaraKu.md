@@ -35,8 +35,9 @@ verificationNeeded:
   - "Daftar 'wau kebangsaan' yang kerap dikaitkan dengan Majlis Pelayang Malaysia (wau bulan, wau kucing, wau jala budi) — tidak ada publikasi resmi yang ditemukan."
 
 lang: "id"
+sourceContentHash: "dca70ac2ef9b33e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

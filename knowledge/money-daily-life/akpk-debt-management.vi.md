@@ -31,8 +31,9 @@ faq:
     a: "Không. PPK không phải là phá sản và không phải là hồ sơ tòa án. Nó là một kế hoạch trả nợ được đàm phán một cách tự nguyện giữa bạn, AKPK và các ngân hàng chủ nợ của bạn."
 
 lang: "vi"
+sourceContentHash: "4311ea106e7a34dc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

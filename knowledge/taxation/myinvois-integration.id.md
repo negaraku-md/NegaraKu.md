@@ -43,8 +43,9 @@ verificationNeeded:
   - "Jumlah maksimum baris yang diterima dalam lembar kerja unggah massal MyInvois Portal — LHDN menyebut suatu jumlah tanpa menyatakannya"
 
 lang: "id"
+sourceContentHash: "12fac171732261f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

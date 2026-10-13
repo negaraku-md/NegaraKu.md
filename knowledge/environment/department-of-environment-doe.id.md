@@ -34,8 +34,9 @@ faq:
     a: "JAS menerbitkan saluran pengaduan (03-8889 1972) dan saluran bebas pulsa (1-800-88-2727) untuk pengaduan lingkungan. Verifikasi nomor terkini di doe.gov.my sebelum mengandalkannya."
 
 lang: "id"
+sourceContentHash: "03cee8394623a8f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

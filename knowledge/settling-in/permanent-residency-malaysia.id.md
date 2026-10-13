@@ -34,8 +34,9 @@ faq:
     a: "Ya. Banding harus diajukan kepada Menteri Dalam Negeri dalam 30 hari dari tanggal surat penolakan, bersama surat banding, surat penolakan, dan dokumen pendukung."
 
 lang: "id"
+sourceContentHash: "d074952166cefba5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

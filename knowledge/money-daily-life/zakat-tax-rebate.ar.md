@@ -31,12 +31,13 @@ faq:
     a: "بالنسبة إلى الشركات، تُعامَل زكاة الأعمال بوصفها خصماً من الدخل (deduction) بموجب المادة 44(11A) وتُقيَّد بواحد من أربعين (2.5%) من الدخل الإجمالي، لا خصماً ضريبياً رينغيتاً برينغيت كما للأفراد."
 
 lang: "ar"
+sourceContentHash: "850b3fce0e9aa149"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

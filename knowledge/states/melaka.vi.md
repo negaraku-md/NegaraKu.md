@@ -37,8 +37,9 @@ verificationNeeded:
   - "Xác nhận diện tích vùng lõi và vùng đệm của phần Melaka cụ thể (so với toàn bộ tài sản nối tiếp) so với hồ sơ đề cử 1223bis."
 
 lang: "vi"
+sourceContentHash: "68b18aa6f45a809f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

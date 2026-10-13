@@ -33,10 +33,11 @@ faq:
     a: "GEAR-uP (برنامج تفعيل وإصلاح المؤسسات المرتبطة بالحكومة) برنامج تقوده وزارة المالية أُطلِق سنة 2024. وهو يُنسِّق GLICs الستة لإطلاق RM120 مليار من الاستثمار المحلي المباشر خلال خمس سنوات لدفع قطاعات ذات أولوية مثل أشباه الموصلات وتحوُّل الطاقة."
 
 lang: "ar"
+sourceContentHash: "46bcda576b948208"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

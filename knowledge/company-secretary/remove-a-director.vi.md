@@ -47,8 +47,9 @@ obligations:
     consequence: "Phạt tiền lên tới RM50,000 và một khoản tiền phạt thêm lên tới RM500 mỗi ngày cho một tội danh tiếp diễn theo s.58(4)"
 
 lang: "vi"
+sourceContentHash: "8a80c4606fe7ff91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

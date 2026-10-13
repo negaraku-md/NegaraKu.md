@@ -31,10 +31,11 @@ faq:
     a: "الشحنات بقيمة RM500 أو أقل معفاة عمومًا من رسوم الاستيراد وضريبة المبيعات عند الحدود. لكن منذ 1 يناير 2024 تُطبَّق ضريبة مبيعات منفصلة بنسبة 10% على البضائع منخفضة القيمة المباعة عبر الإنترنت والمشحونة إلى ماليزيا، ويحصّلها البائع أو السوق المسجَّل."
 
 lang: "ar"
+sourceContentHash: "49578a6ca3069696"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

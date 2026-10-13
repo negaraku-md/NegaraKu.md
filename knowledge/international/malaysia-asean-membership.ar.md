@@ -38,10 +38,11 @@ faq:
     a: "تقع أمانة آسيان في جاكرتا بإندونيسيا. ويرأسها الأمين العام لآسيان، وهو حالياً الدكتور كاو كيم هورن من كمبوديا."
 
 lang: "ar"
+sourceContentHash: "a6367ba8ba6baac1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

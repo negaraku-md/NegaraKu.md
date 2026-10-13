@@ -29,11 +29,12 @@ faq:
     a: "لم يصبح يوم ماليزيا عطلة عامة اتحادية على مستوى البلاد إلا بعد عقود من تشكيل الاتحاد. وقبل ذلك كان 16 سبتمبر عطلة في بعض الأقاليم فقط ولم يُحتفل به على نحو موحّد على المستوى الوطني، رغم أنه كان تاريخ تشكيل الاتحاد منذ 1963."
 
 lang: "ar"
+sourceContentHash: "25064de19f113798"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

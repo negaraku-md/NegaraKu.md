@@ -31,8 +31,9 @@ faq:
     a: "Taman laut Semenanjung diwartakan di bawah Fisheries Act 1985. Ia menciptakan zona perlindungan dua mil laut dari pulau, tempat aktivitas seperti mengganggu penyu bersarang dan memungut tukik dilarang."
 
 lang: "id"
+sourceContentHash: "3ba84882f4818881"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

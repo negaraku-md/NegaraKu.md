@@ -28,8 +28,9 @@ faq:
   - q: "Thuế HRD được tính ra sao và khi nào đến hạn?"
     a: "Nó là (tổng lương hoặc lương cơ bản + phụ cấp cố định) × 1% (hoặc 0,5% đối với người đăng ký tự nguyện), phải nộp trước ngày 15 mỗi tháng để tránh bị phạt."
 lang: "vi"
+sourceContentHash: "ff5d89d25eee1ca7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

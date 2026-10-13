@@ -24,12 +24,13 @@ keyTakeaways:
 appliesTo: "كل من يحتاج إلى فهم وصفي لكيفية تشكّل المجلس التشريعي للولاية بموجب الدستور، ومدة بقائه، وكيف يمرّ مشروع قانون للولاية عبره حتى يصبح قانونًا."
 
 lang: "ar"
+sourceContentHash: "2a25e82c7f7bc759"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -44,10 +44,11 @@ verificationNeeded:
   - "تعذّرت قراءة قائمة الاستثناءات في صباح بموجب مرسوم العمل في صباح (التعديل) لسنة 2025 (Labour Ordinance of Sabah (Amendment) Act 2025, Act A1753)؛ وملف PDF المستضاف يُرجع الخطأ 404."
 
 lang: "ar"
+sourceContentHash: "4b43de8c2a7470d1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

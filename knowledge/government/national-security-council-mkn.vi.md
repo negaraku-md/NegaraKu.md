@@ -29,8 +29,9 @@ faq:
     a: "Theo mục 6, các thành viên gồm Thủ tướng (Chủ tịch), Phó Thủ tướng, Bộ trưởng Quốc phòng, Bộ trưởng Nội vụ, Bộ trưởng Truyền thông và Đa phương tiện, Tổng Thư ký Chính phủ, Tổng Tư lệnh Quân đội, và Tổng Thanh tra Cảnh sát."
 
 lang: "vi"
+sourceContentHash: "c3999252b2bdc0d7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

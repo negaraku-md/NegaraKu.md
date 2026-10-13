@@ -31,10 +31,11 @@ faq:
     a: "يجوز للمالك الاستمرار في تملّك العقار (المادة 69)، لكن انتقال ملكية التراث الوطني لا يتم إلا بالميراث أو بالبيع بموافقة مسبقة من المفوّض، ويجب منح المفوّض أولوية الشراء (المادة 70)."
 
 lang: "ar"
+sourceContentHash: "ac4e452cf7f76ecc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

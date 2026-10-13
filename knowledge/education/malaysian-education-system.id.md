@@ -34,8 +34,9 @@ faq:
     a: "Pendidikan teknikal dan vokasional berjalan sebagiannya melalui kolese vokasional Kementerian Pendidikan dan sebagiannya melalui trek sertifikasi yang terpisah — Sijil Kemahiran Malaysia (SKM) dan Diploma Kemahiran Malaysia (DKM/DLKM) — dikeluarkan oleh Jabatan Pembangunan Kemahiran (Jabatan Pembangunan Kemahiran) di bawah Kementerian Sumber Daya Manusia, bukan Kementerian Pendidikan atau Kementerian Pendidikan Tinggi."
 
 lang: "id"
+sourceContentHash: "936fe1b2918f6934"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

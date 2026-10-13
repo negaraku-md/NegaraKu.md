@@ -34,10 +34,11 @@ faq:
     a: "بموجب المادة 34A(4) يجب على المدير العام تبيان الأسباب، لكن الرفض لا يمنعك من مراجعة التقرير وإعادة تقديمه للموافقة."
 
 lang: "ar"
+sourceContentHash: "7002da8fcfa27b67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

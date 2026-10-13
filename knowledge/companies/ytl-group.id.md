@@ -30,8 +30,9 @@ faq:
     a: "YTL Power sedang membangun sebuah taman pusat data yang besar di Kulai, Johor, dan menyelesaikan fasilitas AI bertenaga Nvidia pertama yang diumumkan beroperasi pada akhir Oktober 2025."
 
 lang: "id"
+sourceContentHash: "430ec56c95aad0ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

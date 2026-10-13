@@ -25,10 +25,11 @@ verificationNeeded:
   - "ينبغي التأكد من أرقام الدخل والوديعة والمدة الخاصة بكل فئة في MM2H مباشرةً على بوابة MM2H الرسمية (mm2h.gov.my) عند التقديم، إذ تحجب البوابة الجلب الآلي وقد أُعيدت هيكلة فئاتها أكثر من مرة في السنوات الأخيرة."
 
 lang: "ar"
+sourceContentHash: "dd39883661ce9f6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

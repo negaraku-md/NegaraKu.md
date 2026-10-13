@@ -32,8 +32,9 @@ faq:
     a: "Cho cơ quan tôn giáo có thẩm quyền được thành lập theo luật thành văn — tức cơ quan hoặc trung tâm zakat của bang bạn — và giữ biên lai. Việc trả cho cá nhân hoặc quỹ tư nhân không đủ điều kiện được giảm trừ."
 
 lang: "vi"
+sourceContentHash: "0477b9f160c18e84"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

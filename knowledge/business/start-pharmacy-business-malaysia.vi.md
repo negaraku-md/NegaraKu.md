@@ -33,8 +33,9 @@ faq:
     a: "Một nhà thuốc được cấp phép giữ một Giấy phép Chất độc Loại A và do đó có thể bán các chất độc được xếp loại — thuốc chỉ-kê-đơn và thuốc chỉ-bán-tại-nhà-thuốc — với việc bán dưới sự giám sát cá nhân trực tiếp của dược sĩ. Một nhà bán lẻ sản phẩm sức khỏe thông thường không có giấy phép chất độc chỉ có thể bán các mặt hàng không phải chất độc như các sản phẩm OTC bán chung, thực phẩm chức năng và đồ vệ sinh cá nhân, và không được tự nhận mình là một nhà thuốc hoặc bán thuốc được xếp loại. Poisons Act 1952 và Sale of Drugs Act 1952 là cái vạch ra ranh giới đó."
 
 lang: "vi"
+sourceContentHash: "7e68872d6cc1c02e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

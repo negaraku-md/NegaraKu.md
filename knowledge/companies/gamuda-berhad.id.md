@@ -32,8 +32,9 @@ faq:
     a: "Pasar luar negeri utamanya adalah Australia dan Taiwan untuk konstruksi, serta Vietnam, Britania Raya, Singapura, dan Australia untuk properti."
 
 lang: "id"
+sourceContentHash: "09f7639abce305e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

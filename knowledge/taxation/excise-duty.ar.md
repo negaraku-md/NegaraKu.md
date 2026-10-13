@@ -31,10 +31,11 @@ faq:
     a: "لا. تستهدف الرسوم الانتقائية على المشروبات المحلّاة المشروبات الجاهزة للشرب تحت HS 2202 التي تحتوي على أكثر من 5 غرامات سكر لكل 100 مل، والمشروبات القائمة على الحليب التي تتجاوز 7 غرامات سكر لكل 100 مل، وعصائر الفواكه أو الخضراوات تحت HS 2009 التي تتجاوز 12 غراماً سكر لكل 100 مل. وتختلف العتبة بحسب الفئة."
 
 lang: "ar"
+sourceContentHash: "84d4e95aaaa26789"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

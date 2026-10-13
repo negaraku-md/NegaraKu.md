@@ -29,8 +29,9 @@ faq:
     a: "Sampai penerbitan, tidak ada pembatasan kapasitas mesin yang berlaku; usulan membatasi akses jalan tol mengikuti kapasitas mesin masih belum menjadi undang-undang."
 
 lang: "id"
+sourceContentHash: "1c36a26778aafc7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

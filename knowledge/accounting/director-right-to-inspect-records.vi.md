@@ -26,8 +26,9 @@ verificationNeeded:
   - "Quyết định của Tòa Phúc thẩm giữ nguyên điểm về công ty con được báo cáo là ngày 27 tháng 9 năm 2023; văn bản lập luận không được tìm thấy trên một nguồn tư pháp chính thức"
 
 lang: "vi"
+sourceContentHash: "0aa2b1460e10e990"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

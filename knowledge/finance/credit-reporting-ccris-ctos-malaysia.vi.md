@@ -30,8 +30,9 @@ faq:
     a: "Lấy một thư tất toán từ bên cho vay và mang nó đến cơ quan để cập nhật một khoản vay đã trả hết. Theo luật, một cơ quan không được tiết lộ tình trạng phá sản của bạn quá hai năm sau ngày bạn được giải trừ."
 
 lang: "vi"
+sourceContentHash: "0d23a5db0b086fe6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

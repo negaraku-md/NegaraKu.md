@@ -40,8 +40,9 @@ verificationNeeded:
   - "Tarif papan reklame tahunan berdasarkan luas MBSA — hanya biaya pemrosesan iklan dan tarif rata untuk bunting dan spanduk yang diterbitkan"
 
 lang: "id"
+sourceContentHash: "e95a20cac513aa22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

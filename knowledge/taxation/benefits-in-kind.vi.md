@@ -41,8 +41,9 @@ verificationNeeded:
   - "Toàn văn của Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009, P.U.(A) 153/2009, không được truy xuất từ một nguồn sơ cấp; phạm vi của nó được mô tả theo cách được trích dẫn trong đoạn 12.1 của Public Ruling 11/2019."
 
 lang: "vi"
+sourceContentHash: "d4a3fc76b902795b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

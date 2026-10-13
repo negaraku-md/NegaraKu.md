@@ -41,8 +41,9 @@ verificationNeeded:
   - "Việc liệu khoản loại trừ cá cược và trò chơi cho các sòng bạc và máy trò chơi đã được gỡ hay chưa — LHDN nêu rằng nó áp dụng cho đến khi có thông báo thêm mà không có ngày kết thúc nào được công bố"
 
 lang: "vi"
+sourceContentHash: "881bae66be5fb011"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

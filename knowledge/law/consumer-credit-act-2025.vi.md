@@ -33,8 +33,9 @@ faq:
     a: "Có. Theo Đạo luật Thuê mua 1967, khoản đặt cọc tối thiểu là 10% giá tiền mặt, dù bên tài trợ có thể đặt một mức cao hơn."
 
 lang: "vi"
+sourceContentHash: "2d6f10d61a0f1ec1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

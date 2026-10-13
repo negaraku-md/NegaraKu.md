@@ -30,8 +30,9 @@ faq:
     a: "APM beroperasi di bawah Akta Pertahanan Awam 1951 (Akta 221), yang menetapkan tugasnya pada masa damai dan masa perang untuk melindungi nyawa dan harta benda."
 
 lang: "id"
+sourceContentHash: "1cc8bccf4a7c831a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

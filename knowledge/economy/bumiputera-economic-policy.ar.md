@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "الطلاب، ومحللو السياسات، والصحفيون، وكل من يريد فهم استمرارية أهداف السياسة الاقتصادية للبوميبوترا من السياسة الاقتصادية الجديدة إلى الخطة الحالية."
 
 lang: "ar"
+sourceContentHash: "0cfaf6ebc14f819b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

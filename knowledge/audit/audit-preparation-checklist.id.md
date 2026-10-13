@@ -41,8 +41,9 @@ verificationNeeded:
   - "Pastikan persyaratan pengungkapan MFRS 124 terkini dan amandemen apa pun yang berlaku bagi tahun keuangan bersangkutan terhadap standar terbitan MASB"
 
 lang: "id"
+sourceContentHash: "cc898ee41c4b1308"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

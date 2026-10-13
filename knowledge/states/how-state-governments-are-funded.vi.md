@@ -30,8 +30,9 @@ faq:
     a: "Cả hai bang nhận trợ cấp đặc biệt theo Điều 112C và các nguồn thu bổ sung theo Phần V Phụ lục thứ Mười, bao gồm thuế đối với các sản phẩm dầu mỏ, thuế xuất khẩu gỗ và lâm sản, tiền bản quyền khoáng sản, cùng thuế bán hàng của bang."
 
 lang: "vi"
+sourceContentHash: "f7789909fc78f01b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

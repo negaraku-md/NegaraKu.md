@@ -56,8 +56,9 @@ obligations:
     consequence: "Phạt không quá RM10,000 khi bị kết án"
 
 lang: "vi"
+sourceContentHash: "ed068401ca2edfe2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

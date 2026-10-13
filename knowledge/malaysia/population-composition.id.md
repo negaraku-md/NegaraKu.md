@@ -30,8 +30,9 @@ faq:
     a: "DOSM memecah Bumiputera Lain menjadi Bumiputera Sabah (55.3 persen dari kelompok itu, terdiri dari Kadazan/Dusun, Bajau, Murut, dan kelompok Bumiputera Sabah lain), Bumiputera Sarawak (32.3 persen, terdiri dari Iban, Bidayuh, Melanau, dan kelompok Bumiputera Sarawak lain), dan kelompok Bumiputera Semenanjung lain yang membentuk selebihnya."
 
 lang: "id"
+sourceContentHash: "6a6100396bc06f2b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

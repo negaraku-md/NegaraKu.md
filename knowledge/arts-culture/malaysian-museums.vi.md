@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Khách tham quan lên kế hoạch lịch trình bảo tàng, học sinh và nhà nghiên cứu muốn biết lịch sử định chế đằng sau các bộ sưu tập lớn của Malaysia, và bất kỳ ai từng cho rằng Muzium Negara là bảo tàng lâu đời nhất của đất nước."
 
 lang: "vi"
+sourceContentHash: "8802106dd859b55e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Teks lengkap Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009, P.U.(A) 153/2009, tidak diperoleh dari sumber utama; cakupannya diuraikan seperti yang dikutip dalam paragraf 12.1 Public Ruling 11/2019."
 
 lang: "id"
+sourceContentHash: "d4a3fc76b902795b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

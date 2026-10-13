@@ -58,8 +58,9 @@ obligations:
     consequence: "Semua sekutu dianggap sebagai pejabat kepatuhan jika tidak ada yang ditunjuk"
 
 lang: "id"
+sourceContentHash: "018f4b09e139ab24"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

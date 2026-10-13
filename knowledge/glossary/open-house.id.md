@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang diundang ke rumah terbuka untuk pertama kali, penyelenggara rumah terbuka tingkat komunitas atau perusahaan, dan siapa saja yang ingin memahami praktik ini sebagai fenomena sosial lintas etnis di Malaysia."
 
 lang: "id"
+sourceContentHash: "3bc3f6abab7fea70"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

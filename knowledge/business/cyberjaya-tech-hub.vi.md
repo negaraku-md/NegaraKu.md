@@ -43,8 +43,9 @@ verificationNeeded:
   - "Xác nhận liệu Cyberjaya có giữ, hoặc đã nộp đơn xin, sự công nhận là một MD Hub, MD Nexus hoặc MD Tech Zone hay không, và các chỉ định MD Cybercity và Cybercentre hiện có ánh xạ lên MD Location Recognition như thế nào. Tính đến ngày 2026-08-14 không nguồn gốc nào của MDEC nêu tên Cyberjaya dưới bất kỳ nhóm nào, và MD Location Recognition duy nhất được cấp đến nay là Menara Merdeka 118, được ra mắt là MD Nexus đầu tiên của Malaysia vào ngày 5 tháng 2 năm 2026."
 
 lang: "vi"
+sourceContentHash: "3159e752d7a7d37a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

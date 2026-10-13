@@ -48,8 +48,9 @@ obligations:
     consequence: "Pengeluaran sisa tetap dikurangi oleh elaun tahunan yang dapat dituntut di bawah paragraph 68(c), jadi tahun yang tidak dituntut adalah keringanan yang hilang, bukan ditunda"
 
 lang: "id"
+sourceContentHash: "f3aa2542969476e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

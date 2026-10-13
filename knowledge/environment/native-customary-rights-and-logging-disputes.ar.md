@@ -29,12 +29,13 @@ faq:
     a: "قد تشمل تراخيص الأخشاب وعقود إيجار المزارع الصادرة عن الولاية مناطق تطالب بها المجتمعات المحلية بوصفها أرضًا عرفية. وحيث يختلف الطرفان على ما إذا كانت منطقة ما أرض NCR، كثيرًا ما يُفصَل في النزاع أمام المحكمة."
 
 lang: "ar"
+sourceContentHash: "73a645ecf7076b5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

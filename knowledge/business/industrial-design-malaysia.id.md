@@ -48,8 +48,9 @@ obligations:
     consequence: "Pendaftaran gugur; tenggang waktu tersedia dengan biaya tambahan RM200 per bulan untuk maksimum enam bulan"
 
 lang: "id"
+sourceContentHash: "56878f9800c2837e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

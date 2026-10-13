@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tìm kiếm một trình bày mô tả, theo từng khoản, về những gì Điều 153 quy định và những gì nó loại trừ, mà không phân xử cuộc tranh luận chính trị quanh nó."
 
 lang: "vi"
+sourceContentHash: "db5076f747cd8ba7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

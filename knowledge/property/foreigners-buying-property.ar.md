@@ -26,10 +26,11 @@ verificationNeeded:
   - "لم يتسنَّ تأكيد الاستشهاد الدقيق وسنة تعديل قانون الأراضي الوطني الذي أغلق الإعفاء السابق للأراضي الصناعية من موافقة سلطة الولاية مقابل نصّ قانون التعديل نفسه؛ وهو موصوف هنا استنادًا إلى تعليق قانوني ثانوي متوافق لا إلى بند أوّلي مقروء مباشرة."
 
 lang: "ar"
+sourceContentHash: "2fddfa6e345670a4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

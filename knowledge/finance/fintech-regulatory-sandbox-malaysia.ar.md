@@ -30,10 +30,11 @@ faq:
     a: "لجنة الأوراق المالية الماليزية (SC). فابتكارات سوق رأس المال — التمويل البديل، والأوراق المالية المرمَّزة، ومنصات السوق الثانوية — تذهب إلى البيئة التجريبية لدى SC، لا إلى BNM."
 
 lang: "ar"
+sourceContentHash: "923d24c78b24d1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

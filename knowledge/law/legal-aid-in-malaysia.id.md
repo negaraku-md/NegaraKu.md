@@ -29,8 +29,9 @@ faq:
     a: "JBG menangani kasus perdata, keluarga, syariah dan pidana tertentu, sedangkan YBGK berfokus pada bantuan hukum gratis bagi kasus pidana, termasuk di tahap penangkapan dan penahanan."
 
 lang: "id"
+sourceContentHash: "91d7cfe993126653"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

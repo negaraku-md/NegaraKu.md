@@ -38,8 +38,9 @@ faq:
     a: "Ya. Wasi harus memberi tahu LHDN tentang kematian, menyampaikan laporan akhir pewaris dan laporan harta peninggalan, serta menyelesaikan pajak dan penalti tertunggak apa pun sebelum membagikan harta peninggalan. LHDN memiliki tiga tahun dari akhir tahun ia diberi tahu tentang kematian untuk menerbitkan ketetapan."
 
 lang: "id"
+sourceContentHash: "68ad2357941779d2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

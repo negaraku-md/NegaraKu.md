@@ -33,8 +33,9 @@ faq:
     a: "Vận hành một doanh nghiệp du lịch mà không có giấy phép còn hiệu lực là một hành vi vi phạm theo Luật Ngành Du lịch (Tourism Industry Act 1992), điều mà MOTAC tích cực thực thi thông qua các cuộc thanh tra. Khi bị kết án, mức phạt là một khoản tiền phạt lên tới RM500,000 hoặc phạt tù lên tới 10 năm, hoặc cả hai. MOTAC cũng có thể truy tố, đình chỉ hoặc thu hồi giấy phép vì các vi phạm khác đối với Đạo luật và các quy định."
 
 lang: "vi"
+sourceContentHash: "267a25e0a7a19ed2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

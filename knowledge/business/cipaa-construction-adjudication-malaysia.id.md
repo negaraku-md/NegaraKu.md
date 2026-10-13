@@ -31,8 +31,9 @@ faq:
     a: "Ya — ia lebih dari sekadar penggantian nama. Akta A1738 dan Peraturan (Pindaan) 2025, yang berlaku mulai 1 Januari 2026, mengganti 'KLRCA' dengan 'AIAC', memperketat garis waktu adjudikasi sehingga perpanjangan kini memerlukan persetujuan kedua pihak dan adjudikator, memperkenalkan persyaratan notis pembayaran yang ditingkatkan dan formulir yang ditetapkan, memperluas definisi utama untuk mengurangi sengketa yurisdiksi, dan memperkuat jalur penegakan. Kerangka inti keputusan 45 hari kerja tetap, tetapi prosedur di sekelilingnya telah berubah, jadi gunakan formulir AIAC terkini."
 
 lang: "id"
+sourceContentHash: "e21cf5dfaabc98af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

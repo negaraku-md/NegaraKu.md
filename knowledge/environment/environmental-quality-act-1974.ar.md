@@ -37,10 +37,11 @@ faq:
     a: "أحياناً. تُجيز المادة 45 للمدير العام، بموافقة خطية من النائب العام، أن يسوّي بالمصالحة مخالفةً قررها الوزير قابلةً للمصالحة، بمبلغ لا يتجاوز 50% من الغرامة القصوى. ولا تكون كل مخالفة قابلةً للمصالحة، أما أشد مخالفات السجن الإلزامي خطورةً فتُحال عادةً إلى المقاضاة."
 
 lang: "ar"
+sourceContentHash: "c5c03f44b4db2f68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

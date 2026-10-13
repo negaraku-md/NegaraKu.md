@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "Pembaca yang memerlukan uraian yang netral dan tekstual tentang apa itu SOSMA dan prosedur khusus yang disediakannya — pelajar, peneliti, dan siapa saja yang memetakan kerangka undang-undang keamanan Malaysia. Ia adalah catatan statuta yang deskriptif, bukan nasihat hukum, dan tidak mengulas kasus, penuntutan, atau perdebatan kebijakan apa pun."
 
 lang: "id"
+sourceContentHash: "23e4a7f81f4e58a1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

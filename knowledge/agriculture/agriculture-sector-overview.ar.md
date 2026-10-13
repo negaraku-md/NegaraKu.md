@@ -35,10 +35,11 @@ faq:
     a: "لأن الاثنين يُداران كعملين مختلفين. فزيت النخيل سلعة تصدير واسعة النطاق ومربحة على أرض مناسبة، في حين أن الأرز محصول غذائي ضئيل الهامش يعتمد على الدعم والري. وتميل الأرض ورأس المال والعمالة إلى التدفق نحو محاصيل السلع الأكثر ربحية."
 
 lang: "ar"
+sourceContentHash: "c5cc2c29dde16362"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

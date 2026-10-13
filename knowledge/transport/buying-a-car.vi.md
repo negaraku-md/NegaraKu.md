@@ -29,8 +29,9 @@ faq:
     a: "Ngân hàng hoặc công ty tài chính được đăng ký là chủ sở hữu hợp pháp của xe theo Luật Thuê mua 1967 (Hire-Purchase Act 1967) trong suốt thời hạn khoản vay. Người mua là người chiếm hữu được đăng ký với việc sử dụng xe hàng ngày, và chỉ trở thành chủ sở hữu đăng ký khi khoản vay được trả hết và bên tài trợ ban hành văn bản giải chấp."
 
 lang: "vi"
+sourceContentHash: "fbeedb8341d7b377"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

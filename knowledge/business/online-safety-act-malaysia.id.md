@@ -58,8 +58,9 @@ obligations:
     consequence: "Denda hingga RM1 juta di bawah peraturan 5"
 
 lang: "id"
+sourceContentHash: "9ae3464820a97814"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

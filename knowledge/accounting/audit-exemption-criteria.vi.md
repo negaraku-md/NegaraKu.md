@@ -36,8 +36,9 @@ faq:
     a: "Practice Directive 10/2024 cụ thể không áp dụng cho công ty tư nhân là công ty con của công ty đại chúng, công ty đại chúng bao gồm công ty niêm yết, công ty nước ngoài, và exempt private company đã chọn nộp giấy chứng nhận tình trạng theo section 260 CA 2016."
 
 lang: "vi"
+sourceContentHash: "1f9465f320d07544"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

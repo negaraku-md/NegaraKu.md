@@ -30,12 +30,13 @@ faq:
     a: "طُرحت مقترحات لتوحيد صغار المزارعين في الوكالات الثلاث (مثلًا من رئيس الوزراء في 2009 ومن FGV في 2023)، لكن بقدر ما تشير إليه المصادر المرجعية، لم يُنفَّذ أي دمج كامل."
 
 lang: "ar"
+sourceContentHash: "a5eeffb434131b29"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

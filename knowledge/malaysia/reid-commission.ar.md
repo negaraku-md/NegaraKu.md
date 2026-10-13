@@ -18,11 +18,12 @@ keyTakeaways:
   - "راجع فريق عمل مكوَّن من ممثلي الحكام وحزب التحالف (Alliance) ومسؤولين بريطانيين المسودةَ، التي دخلت حيز النفاذ بوصفها الدستور الاتحادي في 31 أغسطس 1957"
 appliesTo: "الطلاب والباحثون والقرّاء عمومًا ممن يريدون فهم مَن كتب فعليًّا دستور ماليزيا التأسيسي، وبناءً على أي تعليمات، وكيف تحوَّل تقرير لجنة إلى قانون بلد مستقل."
 lang: "ar"
+sourceContentHash: "274cb6f4918d991f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

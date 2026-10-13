@@ -26,10 +26,11 @@ verificationNeeded:
   - "ورد أن قرار محكمة الاستئناف المؤيِّد لمسألة الشركات التابعة صدر بتاريخ 27 سبتمبر 2023؛ ولم يُعثر على أسباب الحكم الخطية في مصدر قضائي رسمي"
 
 lang: "ar"
+sourceContentHash: "0aa2b1460e10e990"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

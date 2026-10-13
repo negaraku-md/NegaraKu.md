@@ -34,8 +34,9 @@ faq:
     a: "DOE công bố một đường dây khiếu nại (03-8889 1972) và một đường dây nóng miễn phí (1-800-88-2727) cho các khiếu nại về môi trường. Hãy xác minh các số hiện tại trên doe.gov.my trước khi dựa vào chúng."
 
 lang: "vi"
+sourceContentHash: "03cee8394623a8f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Tidak selalu. Survei itu menemukan bahwa populasi di hutan yang dikelola dengan baik dan ditebang secara lestari seperti Deramakot dan Segama tetap stabil selama 15 tahun, menunjukkan bahwa orangutan dapat terus hidup di hutan produksi ketika dikelola dengan hati-hati dan tetap terhubung."
 
 lang: "id"
+sourceContentHash: "3e08558cd6bea030"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

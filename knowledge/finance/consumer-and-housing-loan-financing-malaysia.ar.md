@@ -31,10 +31,11 @@ faq:
     a: "بموجب قانون الإيجار المنتهي بالتمليك لسنة 1967 (Hire Purchase Act 1967)، لا يمكن للمموِّل عمومًا الاسترداد إلا بعد أن يتخلّف المستأجِر عن قسطين متتاليين وبعد اتّباع إجراء إشعار مدته 21 يومًا. وبمجرد أن تسدّد ما لا يقل عن 75% من السعر النقدي، يحتاج المموِّل إلى أمر محكمة للاسترداد."
 
 lang: "ar"
+sourceContentHash: "6a3487bee5c6466c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "كل من يحاول قراءة إحصاءات السكّان أو العمالة أو العقارات الماليزية قراءةً صحيحة — الباحثون والمخطِّطون والشركات التي تقيّم أين يوجد السكّان والقوى العاملة فعلًا."
 
 lang: "ar"
+sourceContentHash: "0362cd9a8f8b4f6a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -43,10 +43,11 @@ verificationNeeded:
   - "تحقّق مما إذا كان البنك يطلب الاطلاع على سجل المالكين المنتفعين المُمسوك بموجب المادتين 60B و60C من قانون الشركات لسنة 2016 — فهذه ممارسة شائعة لكنها ليست اشتراطًا منصوصًا عليه في وثيقة السياسة"
 
 lang: "ar"
+sourceContentHash: "75370094a3730df5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "أصحاب الأعمال والمحاسبون والفرق المالية الذين يستعدّون للامتثال للفوترة الإلكترونية أو يديرونه."
 
 lang: "ar"
+sourceContentHash: "12ea69b29867be13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -25,9 +25,10 @@ faq:
   - q: "هل تغطّي JTKSM ماليزيا كلها؟"
     a: "لا. تغطّي JTKSM شبه جزيرة ماليزيا. ولصباح وساراواك إداراتهما العمالية المنفصلة الخاصة."
 lang: "ar"
+sourceContentHash: "1575ce3d33c667d0"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

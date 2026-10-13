@@ -37,8 +37,9 @@ faq:
     a: "Zii Jia từ chức khỏi BAM vào tháng 1 năm 2022 để trở thành vận động viên tự do sau gần một thập kỷ cùng cơ quan này kể từ năm 13 tuổi. Anh mong muốn tập trung vào tập luyện và nâng cao thứ hạng của riêng mình, và khẳng định rằng dù là vận động viên quốc gia hay vận động viên tự do, họ vẫn giương cao Jalur Gemilang."
 
 lang: "vi"
+sourceContentHash: "a0c4b7207a1ac775"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "U Mobile được chỉ định xây dựng mạng 5G thứ hai, nên nó thoái vốn khỏi cổ phần DNB và rút khỏi mạng của DNB để tập trung vào việc triển khai của riêng mình."
 
 lang: "vi"
+sourceContentHash: "c1f7f6a84e1fec97"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -25,8 +25,9 @@ faq:
   - q: "Sự miễn khoản phí nộp muộn năm 2025 có đẩy lùi thời hạn của tôi không?"
     a: "Không. Sự miễn chạy từ 1 tháng 6 đến 30 tháng 9 năm 2025 và chỉ gỡ bỏ các khoản phí nộp muộn. Nó không gia hạn bất kỳ thời hạn nộp theo luật định nào theo Companies Act 2016."
 lang: "vi"
+sourceContentHash: "6cce56bdb89cd914"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

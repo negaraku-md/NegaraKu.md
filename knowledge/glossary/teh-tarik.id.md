@@ -26,8 +26,9 @@ verificationNeeded:
   - "Asal usul teh tarik dalam komunitas India Muslim di Tanah Melayu — lazim disebut, tetapi tanggal dan tempat khusus tidak dikonfirmasi pada sumber resmi pemerintah mana pun."
 
 lang: "id"
+sourceContentHash: "445b06c48abc194e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

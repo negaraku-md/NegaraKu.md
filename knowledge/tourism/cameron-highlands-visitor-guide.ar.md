@@ -31,10 +31,11 @@ faq:
     a: "هذه زيارات ثقافية مرشَدة إلى قرى السيماي، تتضمّن عادةً عرضًا للنفخ بالسهام وأحاديث عن سُبل العيش في الغابة. اذهب مع مرشد محلي موثوق، واستأذن قبل تصوير الناس، وتعامل معها بوصفها تبادلًا ثقافيًا محترمًا لا مشهدًا للتفرّج."
 
 lang: "ar"
+sourceContentHash: "3402603241935266"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

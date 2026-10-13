@@ -27,8 +27,9 @@ faq:
   - q: "Sự khác biệt giữa MASB và Financial Reporting Foundation là gì?"
     a: "MASB viết và ban hành các chuẩn mực. Financial Reporting Foundation (FRF) giám sát MASB, đánh giá hiệu quả hoạt động của nó và chịu trách nhiệm về tài chính của nó, bao gồm phê duyệt ngân sách — nhưng nó không có trách nhiệm trực tiếp về việc thiết lập chuẩn mực, vốn thuộc riêng về MASB."
 lang: "vi"
+sourceContentHash: "69128de74b5a73f9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

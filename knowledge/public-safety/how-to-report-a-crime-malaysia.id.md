@@ -40,8 +40,9 @@ faq:
     a: "Laporan yang telah dicatat tidak dapat dihapus dari rekaman polisi. Jika terdapat informasi baru, kesalahan fakta, atau perkembangan kasus, cara yang benar adalah membuat laporan tambahan yang merujuk pada nomor laporan asli, bukan meminta laporan asli dibuang."
 
 lang: "id"
+sourceContentHash: "0ae54502024bdaab"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "Syarat kelayakan e-Reporting (warga negara Malaysia, usia 18 tahun ke atas) dan daftar lengkap item yang dapat dilaporkan — portal resmi ereporting.rmp.gov.my tidak dapat diakses untuk konfirmasi langsung; konfirmasikan terhadap portal resmi."

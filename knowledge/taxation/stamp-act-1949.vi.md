@@ -27,8 +27,9 @@ faq:
   - q: "Sự khác biệt giữa thuế theo giá trị (ad valorem) và thuế cố định là gì?"
     a: "Thuế theo giá trị (ad valorem) thay đổi theo bản chất của chứng thư và khoản đối ứng hoặc giá trị thị trường liên quan — ví dụ một lần chuyển nhượng bất động sản hoặc một khoản vay. Thuế cố định được thu không liên quan đến số tiền được nêu, thường bắt đầu ở mức danh nghĩa RM10 mỗi chứng thư."
 lang: "vi"
+sourceContentHash: "e9d01dfeb365b31f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

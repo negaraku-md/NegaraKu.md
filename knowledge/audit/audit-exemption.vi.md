@@ -34,8 +34,9 @@ verificationNeeded:
   - "Xác minh liệu SSM có ban hành bất kỳ sửa đổi hoặc chỉ thị thực hành nào khác sau PD 10/2024 làm thay đổi các ngưỡng của Giai đoạn 2 hoặc Giai đoạn 3 hay không"
 
 lang: "vi"
+sourceContentHash: "0adbb423bee3af8f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Xác nhận liệu có tồn tại một tương đương của Sales Tax Act cho s.26A của Service Tax Act đối với hàng hóa nhập khẩu hay không — bản in lại năm 2018 không chứa gì"
 
 lang: "vi"
+sourceContentHash: "13790ae63f7d4cb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

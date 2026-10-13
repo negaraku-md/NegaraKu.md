@@ -38,8 +38,9 @@ verificationNeeded:
   - "Việc phân loại rủi ro theo MSIC của ngân hàng là đặc thù theo từng tổ chức và không được công bố — hãy coi tác động được mô tả ở đây là một khuôn mẫu, không phải một quy tắc"
 
 lang: "vi"
+sourceContentHash: "353529e7e9ebf84a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

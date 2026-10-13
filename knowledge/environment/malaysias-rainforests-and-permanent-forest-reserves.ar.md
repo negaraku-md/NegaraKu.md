@@ -32,10 +32,11 @@ faq:
     a: "يجعل التعديل التحقيق العلني إلزاميًا قبل إلغاء نشر محمية غابات دائمة، ويرفع الغرامات إلى ما بين RM20,000 وRM5 مليون إلى جانب السجن مدةً تتراوح بين 7 و20 سنة. وقد دخل حيز النفاذ في الأقاليم الاتحادية في 1 فبراير 2025."
 
 lang: "ar"
+sourceContentHash: "068dc65beefd2227"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

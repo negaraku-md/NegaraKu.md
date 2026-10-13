@@ -34,10 +34,11 @@ faq:
     a: "السياسة الوطنية للإنشاءات NCP 2030 هي سياسة أُطلقت في أسبوع الإنشاءات الدولي ICW 2021، عقب انتهاء برنامج تحول صناعة الإنشاءات (CITP) 2016–2020. وتحدد ستة محاور استراتيجية لتحويل قطاع الإنشاءات نحو العصر الرقمي بحلول 2030، بما في ذلك هدف رقمنة 50% من دورة الصناعة."
 
 lang: "ar"
+sourceContentHash: "77fa6bf333c3fa74"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

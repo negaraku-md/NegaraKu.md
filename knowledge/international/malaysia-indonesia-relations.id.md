@@ -36,8 +36,9 @@ faq:
     a: "Indonesia salah satu mitra dagang penting Malaysia dalam ASEAN. Pada 2024, ekspor Malaysia ke Indonesia bernilai RM54.40 miliar, meningkat 6.9% (sekitar RM3.5 miliar) dibanding tahun sebelumnya dan mewakili 12.4% dari ekspor Malaysia ke ASEAN. Ini menjadikan Indonesia destinasi ekspor ke-3 terbesar Malaysia dalam ASEAN, setelah Singapura dan Thailand."
 
 lang: "id"
+sourceContentHash: "42425bd622f27615"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

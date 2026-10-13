@@ -29,10 +29,11 @@ faq:
     a: "أبلغت مجموعة MISC عن إيرادات للسنة المالية 2024 بلغت RM13,237.5 مليون، بانخفاض 7.2% عن RM14,271.7 مليون في السنة المالية 2023، مع ربح بعد الضريبة قدره RM1,233.2 مليون."
 
 lang: "ar"
+sourceContentHash: "29aaf63ab9013b28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

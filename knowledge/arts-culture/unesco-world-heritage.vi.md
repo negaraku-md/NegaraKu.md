@@ -30,8 +30,9 @@ faq:
     a: "Có. Trung tâm Di sản Thế giới ghi nhận ba di sản trên Danh sách Dự kiến của Malaysia: Công viên Quốc gia (Taman Negara) của bán đảo Malaysia, Dải Thạch anh Gombak Selangor, và Trại phong Sungai Buloh. Một mục dự kiến là tuyên bố ý định đề cử, chứ không phải một lần ghi danh."
 
 lang: "vi"
+sourceContentHash: "2314ed1b6daf68a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

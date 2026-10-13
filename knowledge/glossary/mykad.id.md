@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Warga negara Malaysia, orang tua yang mengurus pendaftaran anak, dan siapa saja yang perlu memverifikasi identitas di Malaysia."
 
 lang: "id"
+sourceContentHash: "7c8af58484cf7ac0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

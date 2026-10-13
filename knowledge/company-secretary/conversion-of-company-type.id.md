@@ -27,8 +27,9 @@ faq:
     a: "Menurut panduan SSM, pemberitahuan konversi menjadi perusahaan publik dikeluarkan dalam jangka satu hari kerja setelah dokumen lengkap diserahkan dan syarat dipatuhi. Panduan tersebut tidak menyatakan jangka khusus bagi konversi perusahaan publik menjadi swasta."
 
 lang: "id"
+sourceContentHash: "63145595a33eef52"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

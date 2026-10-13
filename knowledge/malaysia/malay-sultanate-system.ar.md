@@ -18,11 +18,12 @@ keyTakeaways:
   - "تستمر مؤسسة السلطنة في الدستور عبر الحكّام الملايويين التسعة، ومجلس الحكّام (Majlis Raja-Raja)، وملك البلاد (Yang di-Pertuan Agong)"
 appliesTo: "كل من يريد فهم بنية مؤسسة السلطنة الملايوية التقليدية ودورها، وكيف تتصل بنظام الملكية الدستورية اليوم."
 lang: "ar"
+sourceContentHash: "95bf275cb438d0b7"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

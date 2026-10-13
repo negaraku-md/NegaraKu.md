@@ -29,12 +29,13 @@ faq:
     a: "وحَّدت موجة الاحتجاج على اتحاد الملايو عشرات الجمعيات الملايوية، وأفضت إلى تأسيس UMNO في 11 مايو 1946 في جوهور بهرو."
 
 lang: "ar"
+sourceContentHash: "d1accab37207bc8e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

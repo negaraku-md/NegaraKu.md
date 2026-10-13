@@ -43,8 +43,9 @@ obligations:
     consequence: "Hình phạt chung lên đến RM50,000 theo s.99A"
 
 lang: "vi"
+sourceContentHash: "870f648f0972037b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

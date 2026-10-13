@@ -36,8 +36,9 @@ faq:
     a: "Dari sasaran 15–30 MtCO₂eq, hingga 20 MtCO₂eq bersifat tanpa syarat — Malaysia berkomitmen padanya tanpa memandang keadaan. Sebanyak 10 MtCO₂eq tambahan bersifat bersyarat, berarti ia hanya akan dicapai jika pembiayaan iklim internasional, alih teknologi dan dukungan pembangunan kapasitas tersedia."
 
 lang: "id"
+sourceContentHash: "7ad2136668e2982a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

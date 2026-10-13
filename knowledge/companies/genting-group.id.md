@@ -29,8 +29,9 @@ faq:
     a: "Genting mencakup rekreasi dan perhotelan, kebun kelapa sawit, pembangkitan energi, minyak dan gas, pengembangan properti, serta ilmu hayati. Genting Plantations mengelola sekitar 243,000 hektar bank tanah di seluruh Malaysia dan Indonesia."
 
 lang: "id"
+sourceContentHash: "1b5f1753141cba5e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

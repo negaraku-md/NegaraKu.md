@@ -58,8 +58,9 @@ obligations:
     consequence: "Sự chuyển nhượng không có hiệu lực đối với các bên thứ ba trừ khi được ghi nhận trong Sổ đăng ký"
 
 lang: "vi"
+sourceContentHash: "41c8e57255d3f72c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

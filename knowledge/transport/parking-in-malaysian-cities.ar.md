@@ -29,10 +29,11 @@ faq:
     a: "لا. تصدر الغرامات التصالحية لركن السيارات عن السلطات المحلية (PBT) بموجب أوامر المرور على الطرق المتعلقة بالركن، بينما تصدر مخالفات المرور الخاصة بمخالفات القيادة عن الشرطة الماليزية (PDRM) أو دائرة النقل البري (JPJ)."
 
 lang: "ar"
+sourceContentHash: "cec9d7c50b142e19"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

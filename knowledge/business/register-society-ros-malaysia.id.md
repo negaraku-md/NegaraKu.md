@@ -33,8 +33,9 @@ faq:
     a: "Ya. Di bawah Pasal 14, setiap perkumpulan terdaftar wajib, dalam waktu enam puluh hari setelah rapat umum tahunannya (atau dalam waktu enam puluh hari setelah akhir tahun kalender jika tidak ada AGM diadakan), mengirim kepada Pendaftar daftar pemegang jabatan dan jumlah anggota yang diperbarui, perubahan aturan apa pun, alamatnya, serta laporan keuangan dan neraca untuk tahun keuangan yang lalu. Kegagalan mengajukan dapat berujung pada pembatalan pendaftaran."
 
 lang: "id"
+sourceContentHash: "b426932dcfc299b3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

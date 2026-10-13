@@ -32,8 +32,9 @@ faq:
     a: "Cổng MyGovernment nêu rằng quyết định đó là vĩnh viễn và không thể thu hồi; một người từ bỏ quốc tịch của mình mất vĩnh viễn tất cả các quyền và đặc quyền với tư cách công dân Malaysia."
 
 lang: "vi"
+sourceContentHash: "350dd3e83765a9b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

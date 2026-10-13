@@ -31,8 +31,9 @@ faq:
     a: "Theo Hire Purchase Act 1967, một bên tài trợ nói chung chỉ có thể thu hồi sau khi người thuê đã vỡ nợ hai kỳ trả góp liên tiếp và tuân theo một quy trình thông báo 21 ngày. Một khi bạn đã trả ít nhất 75% giá tiền mặt, bên tài trợ cần một lệnh của tòa án để thu hồi."
 
 lang: "vi"
+sourceContentHash: "6a3487bee5c6466c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

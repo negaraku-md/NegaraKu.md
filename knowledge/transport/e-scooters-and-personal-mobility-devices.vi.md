@@ -27,8 +27,9 @@ faq:
     a: "Xe đạp điện chỉ được miễn trừ nếu nó thuộc loại trợ lực đạp tuân thủ Tiêu chuẩn Malaysia MS2514 không có tay ga (throttle) và có bàn đạp gắn cố định. Xe đạp điện có tay ga chưa được phê duyệt được phân loại là PMD hoặc moped và bị cấm."
 
 lang: "vi"
+sourceContentHash: "c96ca2ea918ba45a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

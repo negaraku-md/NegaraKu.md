@@ -43,8 +43,9 @@ verificationNeeded:
   - "Thời hạn trả lời cho các bảng câu hỏi bổ sung được ấn định theo từng vụ việc trong chính bảng câu hỏi và không được cố định bởi các Quy định"
 
 lang: "vi"
+sourceContentHash: "362da92334d2fc8d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

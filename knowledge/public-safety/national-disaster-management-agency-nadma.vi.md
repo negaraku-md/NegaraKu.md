@@ -29,8 +29,9 @@ faq:
     a: "Nó đã được thay thế bởi Chỉ thị NADMA số 1, được phê duyệt tại cuộc họp của Hội đồng An ninh Quốc gia (MKN) do Thủ tướng chủ trì vào ngày 1 tháng 8 năm 2024."
 
 lang: "vi"
+sourceContentHash: "cb54d0894eec9ad2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -36,10 +36,11 @@ faq:
     a: "إندونيسيا أحد الشركاء التجاريين المهمّين لماليزيا داخل آسيان. ففي 2024، بلغت صادرات ماليزيا إلى إندونيسيا RM54.40 مليار، بارتفاع 6.9% (نحو RM3.5 مليار) عن العام السابق، ممثّلةً 12.4% من صادرات ماليزيا إلى آسيان. وهذا يجعل إندونيسيا ثالث أكبر وجهة تصدير لماليزيا داخل آسيان، بعد سنغافورة وتايلند."
 
 lang: "ar"
+sourceContentHash: "42425bd622f27615"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

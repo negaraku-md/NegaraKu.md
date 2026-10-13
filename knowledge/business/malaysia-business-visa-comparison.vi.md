@@ -45,8 +45,9 @@ verificationNeeded:
   - "DE Rantau là một Professional Visit Pass và việc làm tại địa phương thường được hiểu là bị loại trừ, nhưng không tìm thấy điều cấm rõ ràng nào trong FAQ chính thức — không được khẳng định có điều cấm đó"
 
 lang: "vi"
+sourceContentHash: "73a4ba4e2aea155b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

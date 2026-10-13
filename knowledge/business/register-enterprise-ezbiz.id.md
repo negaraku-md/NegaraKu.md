@@ -68,8 +68,9 @@ obligations:
     consequence: "Denda RM2,000 atau penjara hingga 6 bulan atau keduanya (s.12(2))"
 
 lang: "id"
+sourceContentHash: "b0eaf47ac1dcf35a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

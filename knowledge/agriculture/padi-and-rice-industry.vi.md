@@ -27,8 +27,9 @@ faq:
   - q: "Gạo nhập khẩu của Malaysia đến từ đâu?"
     a: "Phần lớn lượng nhập khẩu được lấy từ Việt Nam, Thái Lan, Pakistan, Ấn Độ và Myanmar, theo BERNAS."
 lang: "vi"
+sourceContentHash: "8a715f161404c46b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

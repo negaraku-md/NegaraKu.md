@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "مالكو المركبات وسائقوها في ماليزيا — السيارات والدرّاجات النارية والمركبات التجارية — الذين يرغبون في فهم أنواع التغطية التأمينية والمتطلّبات القانونية."
 
 lang: "ar"
+sourceContentHash: "d879ba5dcb3bf1ff"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

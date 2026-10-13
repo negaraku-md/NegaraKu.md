@@ -29,8 +29,9 @@ faq:
     a: "Ajukan secara daring melalui platform MyHeart TalentCorp selagi masih di luar negeri, sebaiknya satu hingga dua bulan sebelum tanggal perkiraan pulang Anda. Permohonan yang lengkap diproses dalam waktu hingga 45 hari kerja."
 
 lang: "id"
+sourceContentHash: "f730c6823dee3d1e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

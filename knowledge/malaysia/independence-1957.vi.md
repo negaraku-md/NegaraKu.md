@@ -29,8 +29,9 @@ faq:
     a: "Cả hai khoảnh khắc đều có thật. Việc chuyển giao chủ quyền về mặt pháp lý có hiệu lực lúc nửa đêm ngày 31 tháng 8 năm 1957, được đánh dấu bằng lễ cờ tại padang (sân) ở Kuala Lumpur. Buổi lễ tuyên ngôn công khai, với tiếng hô Merdeka bảy lần, diễn ra sau đó vào sáng cùng ngày tại Stadium Merdeka."
 
 lang: "vi"
+sourceContentHash: "9d15ea63aee3b87b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -34,12 +34,13 @@ faq:
     a: "MKI هو المجلس الوطني للشؤون الدينية الإسلامية في ماليزيا — المجلس الوطني الذي يشكّل منصّة تنسيق الشؤون الإسلامية والتداول فيها. وتعمل JAKIM أمانةً له، أي تدير اجتماعات اللجان وأفرقة الخبراء التي تبحث مسائل الشريعة (syariah) والعقيدة (aqidah) وما يتصل بها للوصول إلى قرارات على المستوى الوطني."
 
 lang: "ar"
+sourceContentHash: "f6f58358eee27f91"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

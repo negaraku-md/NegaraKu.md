@@ -39,8 +39,9 @@ faq:
     a: "Có, nhưng số empu lành nghề suy giảm mạnh, khiến việc truyền nghề khó khăn. UNESCO liệt kê sự suy giảm này là thách thức chính đối với sự bền vững của keris."
 
 lang: "vi"
+sourceContentHash: "f542d42d76523ab4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

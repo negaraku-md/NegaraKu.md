@@ -49,10 +49,11 @@ obligations:
     consequence: "زيادة بنسبة 10 بالمئة بموجب المادة 109B(2) وعدم قبول خصم المصروف بموجب المادة 39(1)(j)"
 
 lang: "ar"
+sourceContentHash: "096e6362dcef465c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -50,8 +50,9 @@ obligations:
     consequence: "Biaya keterlambatan dan tindakan penegakan"
 
 lang: "id"
+sourceContentHash: "dfd63c27558be655"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

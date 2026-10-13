@@ -38,10 +38,11 @@ faq:
     a: "توظيف أجنبي دون تصريح ساري المفعول جريمة بموجب المادة 55B، وتحمل غرامة من RM10,000 إلى RM50,000 أو السجن حتى 12 شهرًا عن كل عامل. وتوظيف خمسة عمال غير موثّقين أو أكثر يرفع المخاطرة إلى السجن من ستة أشهر إلى خمس سنوات واحتمال الجلد."
 
 lang: "ar"
+sourceContentHash: "0a352a7bd7d5e1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

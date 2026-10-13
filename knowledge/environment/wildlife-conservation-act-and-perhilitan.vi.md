@@ -36,8 +36,9 @@ faq:
     a: "Không. Section 2 loại trừ một cách rõ ràng động vật hoang dã thuộc Danh mục II của Phụ lục Thứ chín của Hiến pháp Liên bang và thuộc Đạo luật Nghề cá (Fisheries Act 1985), nên các loài biển và hầu hết các loài thủy sản được điều chỉnh ở nơi khác."
 
 lang: "vi"
+sourceContentHash: "657883a3e9a64208"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

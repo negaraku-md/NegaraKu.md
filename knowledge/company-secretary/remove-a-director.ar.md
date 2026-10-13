@@ -47,10 +47,11 @@ obligations:
     consequence: "غرامة تصل إلى RM50,000 وغرامة إضافية تصل إلى RM500 يوميًا عن الجريمة المستمرة بموجب المادة s.58(4)"
 
 lang: "ar"
+sourceContentHash: "8a80c4606fe7ff91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

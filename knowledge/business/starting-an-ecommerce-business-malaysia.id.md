@@ -33,8 +33,9 @@ faq:
     a: "Sebagai penjual, tidak. Anda mendaftar dengan gerbang pembayaran (payment gateway), yang menangani langkah verifikasi usaha; operator gerbang pembayaran itulah yang harus disetujui oleh Bank Negara Malaysia, bukan Anda. Bergantung pada apa yang Anda jual, peraturan khusus sektor mungkin masih berlaku — misalnya kosmetik dan produk kesehatan memerlukan pemberitahuan kepada regulator terkait tanpa memandang saluran penjualan."
 
 lang: "id"
+sourceContentHash: "beb54faa40df4583"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

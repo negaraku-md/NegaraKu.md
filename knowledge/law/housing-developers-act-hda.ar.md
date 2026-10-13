@@ -38,10 +38,11 @@ faq:
     a: "لا. بعد تعديل اللوائح لسنة 2015، لا يجوز لأحد — بمن فيه المحامي الوسيط — تحصيل أي دفعة (رسم حجز، أو عربون، وما شابه) قبل توقيع اتفاقية البيع والشراء، إلا بما تنص عليه عقد البيع (اللائحة 11(2))."
 
 lang: "ar"
+sourceContentHash: "b9b4698e2a0c2539"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

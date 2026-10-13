@@ -31,10 +31,11 @@ faq:
     a: "تخضع المنشآت الغذائية للوائح نظافة الأغذية لسنة 2009. ويُنصَح المستهلكون باختيار الأكشاك المصنّفة A أو B التي تقدّم طعامًا ساخنًا وطازجًا، والتحقق من ملصق الدرجة المعروض عادةً."
 
 lang: "ar"
+sourceContentHash: "1f2264f16a54722d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

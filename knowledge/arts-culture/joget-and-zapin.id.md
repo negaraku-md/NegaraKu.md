@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami perbedaan asal usul, musik, dan gerakan antara Joget dan Zapin sebagai dua tarian rakyat Melayu yang terpisah."
 
 lang: "id"
+sourceContentHash: "f85648fc29f5d316"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

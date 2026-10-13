@@ -34,10 +34,11 @@ faq:
     a: "نعم. بموجب قانون النقابات العمالية لسنة 1959 (المادة 25A)، يُشترط اقتراع سري. وبعد التعديلات، خُفِّض النصاب المطلوب إلى أكثر من نصف الأصوات مع تصويت 60 بالمئة على الأقل من الأعضاء المحقّ لهم بالتصويت فعليًا، مقارنةً بأغلبية الثلثين السابقة."
 
 lang: "ar"
+sourceContentHash: "d0b1ce6e61182113"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

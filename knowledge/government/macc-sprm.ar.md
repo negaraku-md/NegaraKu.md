@@ -32,10 +32,11 @@ faq:
     a: "نعم. تجعل المادة 17A، التي أُدخلت بتعديل 2018 (Act A1567) ودخلت حيز النفاذ من 1 يونيو 2020، المنظمةَ التجارية مسؤولة متى قدّم شخص مرتبط بها أو عرض إكرامية على نحو فاسد لكسب عمل أو الاحتفاظ به. وبصورة منفصلة، فإن تعريف «الهيئة العامة» في المادة 3 من القانون يمتد ليشمل الشركات والشركات التابعة التي تملك فيها هيئة عامة صلاحية أو مصلحة مسيطرة."
 
 lang: "ar"
+sourceContentHash: "6d18558cf5584f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

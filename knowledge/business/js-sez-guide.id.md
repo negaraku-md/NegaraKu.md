@@ -42,8 +42,9 @@ verificationNeeded:
   - "Agensi pengelola dan jalur permohonan bagi insentif pekerja berpengetahuan JS-SEZ tidak dinyatakan dalam pedoman MIDA — Appendix B kutipan tersebut mencantumkannya di bawah insentif lain tanpa menyebutkan jalur. Pastikan dengan MIDA atau IRDA sebelum memberi nasihat."
 
 lang: "id"
+sourceContentHash: "6ef63a1c757e97dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

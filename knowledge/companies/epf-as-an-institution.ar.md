@@ -29,10 +29,11 @@ faq:
     a: "يُضمَن للادخار التقليدي حدّ أدنى قدره 2.50% سنويًا بموجب قانون EPF لسنة 1991. أما الادخار الشرعي، في المقابل، فيعتمد كليًا على الأداء الفعلي للمحفظة، دون ضمان بحدّ أدنى."
 
 lang: "ar"
+sourceContentHash: "e680578dd6d6768e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

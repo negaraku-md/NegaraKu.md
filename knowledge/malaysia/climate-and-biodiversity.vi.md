@@ -18,8 +18,9 @@ keyTakeaways:
   - "Bán đảo Malaysia và Borneo (Sabah và Sarawak) bị Biển Đông ngăn cách và là nơi cư trú của những tập hợp loài riêng biệt, với Borneo giữ phần lớn rừng đầm lầy than bùn và rừng ngập mặn của đất nước."
 appliesTo: "national"
 lang: "vi"
+sourceContentHash: "9a6c3f25f0c58105"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

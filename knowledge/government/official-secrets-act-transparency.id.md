@@ -30,8 +30,9 @@ faq:
     a: "Di tingkat federal, tidak ada undang-undang kebebasan informasi yang berlaku hingga penyusunan draf ini. Hanya negeri Selangor (diundangkan 2011, berlaku 2013) dan Pulau Pinang (Enakmen 2010) yang memiliki enakmen kebebasan informasi, yang terbatas pada informasi di bawah bidang kuasa pemerintah negeri berkenaan. Sebuah rancangan undang-undang federal diajukan pada Juli 2026."
 
 lang: "id"
+sourceContentHash: "55b6d981106fab77"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

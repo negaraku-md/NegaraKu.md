@@ -32,8 +32,9 @@ faq:
     a: "Ya. Malaysia dan EU membuka kembali perundingan FTA pada Januari 2025, dan Malaysia memfinalisasi perjanjian kemitraan ekonomi dengan negara EFTA (Islandia, Liechtenstein, Norwegia, Swiss) pada 11 April 2025."
 
 lang: "id"
+sourceContentHash: "7239744fcdcf2f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -25,8 +25,9 @@ faq:
   - q: "FSA 2013 khác IFSA 2013 thế nào?"
     a: "FSA (Act 758) điều chỉnh các tổ chức và thị trường tài chính thông thường, trong khi Islamic Financial Services Act 2013 (IFSA) là đối tác tuân thủ Shariah của nó. Cả hai có hiệu lực từ ngày 30 tháng 6 năm 2013; các luật thông thường (như Banking and Financial Institutions Act 1989 và Insurance Act 1996) bị bãi bỏ theo FSA, trong khi Islamic Banking Act 1983 và Takaful Act 1984 bị bãi bỏ theo IFSA."
 lang: "vi"
+sourceContentHash: "fd80ff13fe1dede7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

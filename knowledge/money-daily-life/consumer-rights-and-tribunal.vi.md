@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Người tiêu dùng ở Malaysia đã mua hàng hóa hoặc dịch vụ và muốn biết họ có quyền gì và cách đưa ra một khiếu nại chi phí thấp — không phải các doanh nghiệp bảo vệ trước một khiếu nại, và không phải các tranh chấp mà Tòa án loại trừ một cách rõ ràng."
 
 lang: "vi"
+sourceContentHash: "b22efe69c2b27bab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

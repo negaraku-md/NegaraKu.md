@@ -26,8 +26,9 @@ verificationNeeded:
   - "Total aset investasi dan total keanggotaan EPF tidak dapat diverifikasi secara independen melalui fetch langsung ke kwsp.gov.my (situs itu mengembalikan HTTP 403 terhadap fetch otomatis); artikel ini sengaja mengesampingkan angka AUM apa pun atau jumlah anggota EPF yang persis daripada menerbitkan angka yang tidak terverifikasi — tambahkan keduanya, dengan sumber kwsp.gov.my, pada peninjauan manusia pertama"
 
 lang: "id"
+sourceContentHash: "bde519fccc17693d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

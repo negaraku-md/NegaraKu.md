@@ -31,8 +31,9 @@ faq:
     a: "CIMB tự mô tả mình là một tập đoàn tập trung vào ASEAN hoạt động trên các thị trường bao gồm Malaysia, Indonesia, Singapore và Thái Lan. RHB hoạt động trên bảy thị trường khu vực. Maybank trải rộng qua ba thị trường quê nhà — Malaysia, Singapore và Indonesia — cộng với các hoạt động trên khắp ASEAN và các trung tâm tài chính toàn cầu chủ chốt."
 
 lang: "vi"
+sourceContentHash: "81a33a10e5b5e6c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

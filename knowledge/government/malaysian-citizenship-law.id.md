@@ -35,8 +35,9 @@ faq:
     a: "Tidak. Malaysia menerapkan kebijakan kewarganegaraan tunggal. Dasar konstitusionalnya adalah Pasal 23 (pelepasan kewarganegaraan) dan Pasal 24 (pencabutan kewarganegaraan apabila seseorang memperoleh kewarganegaraan negara lain secara sukarela), dan portal MyGovernment turut mengesahkan kebijakan ini. Keputusan melepaskan kewarganegaraan Malaysia bersifat permanen. Periksa keadaan khusus Anda dengan Jabatan Pendaftaran Negara (JPN)."
 
 lang: "id"
+sourceContentHash: "32332ac0d26401bb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

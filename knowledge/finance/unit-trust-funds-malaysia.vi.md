@@ -34,8 +34,9 @@ faq:
     a: "NAV trên mỗi đơn vị là tổng giá trị thị trường của các tài sản của một quỹ trừ các nghĩa vụ của nó, chia cho số đơn vị đang lưu hành. Đó là giá tại đó bạn mua và bán đơn vị, và nó di chuyển hằng ngày theo giá trị các khoản nắm giữ của quỹ. Một NAV trên mỗi đơn vị đang tăng có nghĩa là các khoản đầu tư của quỹ đã tăng giá trị."
 
 lang: "vi"
+sourceContentHash: "a2f63906e556e7a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

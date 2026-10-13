@@ -29,8 +29,9 @@ faq:
     a: "Có. Cả hai bang đều có các cục du lịch riêng tiếp thị cho bang, bên cạnh các nỗ lực quốc gia của Tourism Malaysia."
 
 lang: "vi"
+sourceContentHash: "353b6077a5a0f789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

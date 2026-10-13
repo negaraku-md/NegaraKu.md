@@ -34,8 +34,9 @@ faq:
     a: "Pas kunjungan sosial jangka pendek pada umumnya tidak dapat diperpanjang; untuk tinggal lebih lama Anda harus keluar dan masuk kembali. Ia juga tidak dapat diubah menjadi pas kerja atau pelajar — itu harus diurus melalui jalur visa yang benar sebelum Anda mulai bekerja atau belajar."
 
 lang: "id"
+sourceContentHash: "cc706715a5a043c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

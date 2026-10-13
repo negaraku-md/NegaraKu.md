@@ -43,8 +43,9 @@ verificationNeeded:
   - "Klaim yang sering diulang bahwa komite tersebut harus bertemu auditor eksternal dua kali setahun tanpa kehadiran direktur eksekutif tidak memiliki dasar dalam Bab 15, yang hanya menyebut apabila dianggap perlu — hal itu mungkin berasal dari satu dokumen panduan yang tidak diperoleh di sini"
 
 lang: "id"
+sourceContentHash: "fc979f0822a6b94f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

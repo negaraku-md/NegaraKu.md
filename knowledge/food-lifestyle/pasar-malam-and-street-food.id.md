@@ -31,8 +31,9 @@ faq:
     a: "Premis makanan diatur di bawah Peraturan-Peraturan Kebersihan Makanan 2009. Konsumen dianjurkan memilih gerai bergred A atau B, yang menyediakan makanan panas dan segar, serta memeriksa label gred yang biasanya dipajang."
 
 lang: "id"
+sourceContentHash: "1f2264f16a54722d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -40,8 +40,9 @@ verificationNeeded:
   - "Trang Notifying Copyright của MyIPO nêu rằng phần giải thích về thông báo tự nguyện của nó 'hiện đang được cập nhật' — xác nhận bất kỳ chi tiết thủ tục nào trực tiếp với Kiểm soát viên Bản quyền"
 
 lang: "vi"
+sourceContentHash: "a995d61bd790a6cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

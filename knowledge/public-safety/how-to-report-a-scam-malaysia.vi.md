@@ -37,8 +37,9 @@ faq:
     a: "Không. 997 dành riêng cho lừa đảo tài chính trong đó tiền đã bị chuyển đi qua lừa đảo. Đối với việc mất giấy tờ hoặc các vụ không phải lừa đảo, hãy làm báo cáo tại đồn cảnh sát hoặc qua cổng e-Reporting của PDRM."
 
 lang: "vi"
+sourceContentHash: "ae9a54e76a608697"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

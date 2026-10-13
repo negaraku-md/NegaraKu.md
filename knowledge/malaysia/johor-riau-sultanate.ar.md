@@ -18,11 +18,12 @@ keyTakeaways:
   - "قسمت المعاهدة الإنجليزية-الهولندية لسنة 1824 وما تلاها هذا الإقليم: رياو-لينغا تحت الهولنديين، وجوهر ضمن دائرة النفوذ البريطاني"
 appliesTo: "كل من يرغب في فهم كيف استمرّت المؤسسة الملكية الملايوية لملقا بلا انقطاع إلى الولايات الملايوية الحديثة، وبخاصة جوهر."
 lang: "ar"
+sourceContentHash: "e2e07f7bcea9fc14"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -34,8 +34,9 @@ faq:
     a: "Ya. Program leniency tersedia untuk bisnis yang terlibat dalam perilaku kartel horizontal. Bekerja sama lebih awal dapat memperoleh imunitas atau pengurangan penalti hingga 100%, walaupun perusahaan yang memulai atau memaksa pihak lain bergabung dengan kartel itu tidak mungkin menerima pengurangan penuh. Di bawah perubahan 2026, jalur penyelesaian (settlement) yang terpisah juga dapat mengurangi penalti hingga 40%."
 
 lang: "id"
+sourceContentHash: "f67186d884803b44"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

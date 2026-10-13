@@ -26,8 +26,9 @@ faq:
   - q: "Lao động nước ngoài có phải đóng góp vào EPF không?"
     a: "Có. Có hiệu lực từ ngày 1 tháng 10 năm 2025, các khoản đóng EPF trở thành bắt buộc đối với người lao động không phải công dân Malaysia, với người sử dụng lao động và người lao động mỗi bên đóng góp 2% lương hằng tháng. Người không phải công dân trên 75 tuổi không bắt buộc đăng ký hoặc đóng góp."
 lang: "vi"
+sourceContentHash: "ef3ed3901e1145d3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -32,10 +32,11 @@ faq:
     a: "لا. وفقًا للقسم القنصلي في وزارة الخارجية الماليزية (Wisma Putra) نفسه، لا يتحقّق التصديق إلا من صحة ختم الموظف المخوَّل وتوقيعه — لا من صحة محتوى المستند."
 
 lang: "ar"
+sourceContentHash: "1c942b9ac8cdb96c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

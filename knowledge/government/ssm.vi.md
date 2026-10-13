@@ -30,8 +30,9 @@ faq:
     a: "SSM báo cáo tới Bộ Thương mại Nội địa và Chi phí Sinh hoạt. Các danh mục cấp bộ tại Malaysia được tổ chức lại định kỳ, vì vậy hãy xác nhận bộ chủ quản hiện tại trên ssm.com.my trước khi dựa vào nó trong một tài liệu chính thức."
 
 lang: "vi"
+sourceContentHash: "f9b7af93b7253c9c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

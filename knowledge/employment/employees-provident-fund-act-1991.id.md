@@ -26,8 +26,9 @@ faq:
   - q: "Apakah pekerja asing perlu beriuran kepada KWSP?"
     a: "Ya. Berlaku 1 Oktober 2025, iuran KWSP menjadi wajib bagi pekerja bukan warga negara Malaysia, dengan pemberi kerja dan pekerja masing-masing beriuran 2% dari gaji bulanan. Bukan warga negara yang berusia melebihi 75 tahun tidak diwajibkan mendaftar atau beriuran."
 lang: "id"
+sourceContentHash: "ef3ed3901e1145d3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

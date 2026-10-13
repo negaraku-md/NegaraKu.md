@@ -38,8 +38,9 @@ verificationNeeded:
   - "Danh sách các cơ quan tham chiếu và các từ được kiểm soát trong Lampiran 1 của Guidelines on Company Names được nêu rõ là không đầy đủ — xác minh danh sách hiện hành với SSM trước khi dựa vào nó"
 
 lang: "vi"
+sourceContentHash: "7ac1590970b850fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

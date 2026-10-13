@@ -33,8 +33,9 @@ faq:
     a: "Một công ty nước ngoài đã đăng ký phải nộp một tờ khai thường niên trong vòng 30 ngày kể từ ngày kỷ niệm đăng ký của mình (section 576) và nộp báo cáo tài chính cho SSM (section 575), ngoài việc giữ các thông tin chi tiết về văn phòng đăng ký và đại lý của mình được cập nhật."
 
 lang: "vi"
+sourceContentHash: "76459d3892f48c61"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

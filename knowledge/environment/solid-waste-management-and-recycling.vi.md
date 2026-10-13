@@ -31,8 +31,9 @@ faq:
     a: "Phần lớn đến các bãi chôn lấp. Malaysia vận hành 135 bãi chôn lấp — 114 bãi đổ lộ thiên và 22 bãi chôn lấp hợp vệ sinh — và bãi chôn lấp vẫn là phương pháp xử lý chủ đạo của đất nước."
 
 lang: "vi"
+sourceContentHash: "1d664666863d04f5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

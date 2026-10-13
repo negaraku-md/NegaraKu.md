@@ -22,12 +22,13 @@ verificationNeeded:
   - "التاريخ والموقع المحدّدان لأول محلّ مامّاك أُنشئ في مالايا — المصادر التي عُثر عليها تشير إلى الحقبة الاستعمارية البريطانية بوجه عام، دون تاريخ مؤكَّد أو سجلّ رسمي."
 
 lang: "ar"
+sourceContentHash: "3046b79972e90a21"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

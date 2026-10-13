@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Cư dân, nhà quy hoạch, và bất kỳ ai so sánh khả năng đi bộ và hạ tầng đạp xe của các thành phố Malaysia với các quốc gia khác."
 
 lang: "vi"
+sourceContentHash: "3d0d276aec4c1fe4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

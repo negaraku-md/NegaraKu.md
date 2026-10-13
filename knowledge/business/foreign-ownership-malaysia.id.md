@@ -48,8 +48,9 @@ verificationNeeded:
   - "Ambang harga beli minimum menurut negara bagian bagi perolehan properti oleh warga asing tidak dipastikan terhadap sumber kantor tanah negara bagian. Angka RM1,000,000 adalah tingkat minimum federal; negara bagian menetapkan tingkat mereka sendiri, sering kali lebih tinggi."
 
 lang: "id"
+sourceContentHash: "9eb59bf5dfe47262"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

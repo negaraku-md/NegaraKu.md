@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Warga negara Malaysia dan ekspatriat yang meninggalkan Malaysia untuk selamanya, atau selama lebih dari tiga bulan, serta tim HR atau penggajian yang perlu mengajukan dokumen tersebut atas nama mereka."
 
 lang: "id"
+sourceContentHash: "00b0d352c02ac806"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

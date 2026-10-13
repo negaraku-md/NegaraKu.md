@@ -33,8 +33,9 @@ faq:
     a: "Mengelola klinik medis atau gigi swasta yang tidak didaftarkan di bawah Akta 586 adalah suatu pelanggaran. Kementerian Kesehatan telah menyatakan bahwa menyediakan layanan kesehatan di premis yang tidak terdaftar atau tidak berlisensi dapat membawa denda yang berat dan kemungkinan pemenjaraan, dan tindakan penegakan dapat menutup premis tersebut. Pendaftaran bukan formalitas yang boleh dikejar kemudian — ia harus disiapkan sebelum Anda menemui pasien."
 
 lang: "id"
+sourceContentHash: "950bc0096186009c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

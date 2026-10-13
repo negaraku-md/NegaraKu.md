@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu nghĩa thực sự và nguồn gốc của từ 'merdeka', chứ không chỉ là ngày tháng hay nghi lễ năm 1957."
 
 lang: "vi"
+sourceContentHash: "194d82a69dbc1089"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

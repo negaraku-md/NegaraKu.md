@@ -27,8 +27,9 @@ faq:
   - q: "Cơ sở pháp lý nào cho phép một hội đồng thu thuế định giá?"
     a: "Phần XV (Định giá và Xếp hạng). Điều 127 trao cho một cơ quan địa phương quyền áp thuế lên các bất động sản trong khu vực của nó, với cơ sở định giá được nêu trong Điều 130."
 lang: "vi"
+sourceContentHash: "ef5c1db3291f9813"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

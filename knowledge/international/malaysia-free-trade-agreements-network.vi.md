@@ -30,8 +30,9 @@ faq:
     a: "Chưa. MITI nêu rõ MEEPA được ký vào ngày 23 tháng 6 năm 2025 nhưng chưa có hiệu lực, nên các nhà xuất khẩu và nhập khẩu chưa thể sử dụng các ưu đãi của nó cho đến khi cả hai bên hoàn tất phê chuẩn."
 
 lang: "vi"
+sourceContentHash: "2907ad666c9762d0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -32,10 +32,11 @@ faq:
     a: "يمكن لكلا النوعين أن يكونا مُصرَّحًا لهما باستقبال الطلاب الدوليين، لكنهما يقعان تحت أجزاء مختلفة من إطار تصريح الطالب، وعادةً يختلفان في البرامج وسعة القبول المفتوحة للمتقدمين الأجانب مقابل المحليين. أكّد مباشرةً مع المكتب الدولي للمؤسسة أيٌّ من برامجك المستهدفة مفتوح لتسجيل غير المواطنين قبل التقديم."
 
 lang: "ar"
+sourceContentHash: "b1b055e68d2a5111"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -46,10 +46,11 @@ verificationNeeded:
   - "النص الموحَّد على LawNet لمرسوم عمل ساراواك الباب 76 (Sarawak Labour Ordinance Cap. 76) محدَّث فقط حتى 31 يوليو 2006 ويجب قراءته مع القانون A1754 لا بدلًا منه."
 
 lang: "ar"
+sourceContentHash: "64142f66b268b952"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -29,8 +29,9 @@ faq:
     a: "Đơn được nộp trực tuyến qua cổng của KPM và học sinh được sàng lọc qua Đánh giá Tuyển sinh Trường Đặc thù (PKSK), cùng với thành tích học tập và ngoại khóa."
 
 lang: "vi"
+sourceContentHash: "8256668a3fad86ff"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

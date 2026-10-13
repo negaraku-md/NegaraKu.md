@@ -23,8 +23,9 @@ appliesTo: "Individu dan rumah tangga berpendapatan rendah serta menengah di Mal
 verificationNeeded:
   - "FAQ resmi STR 2026 (PDF di bantuantunai.hasil.gov.my/FAQ/) berisi perincian lanjut tentang syarat kelayakan dan jumlah pembayaran, tetapi font yang tertanam dalam PDF tersebut menghalangi ekstraksi teks otomatis saat penulisan — pembaca dianjurkan mengunduh dan memeriksa PDF itu sendiri, atau masuk MySTR untuk perincian pribadi yang tepat."
 lang: "id"
+sourceContentHash: "353147e69093acce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

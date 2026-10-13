@@ -31,8 +31,9 @@ faq:
     a: "Người nhận được Warkah Penghormatan Negara (Thư Tôn vinh Quốc gia), tiền mặt RM60,000, khoản chi xuất bản trị giá đến RM500,000 (đến 50,000 bản), điều trị y tế miễn phí ở phòng hạng nhất tại bệnh viện chính phủ, cùng phụ cấp RM5,000 mỗi tháng."
 
 lang: "vi"
+sourceContentHash: "c27d87b5dbf2077e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

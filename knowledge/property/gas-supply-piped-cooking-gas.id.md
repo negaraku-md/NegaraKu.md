@@ -31,8 +31,9 @@ faq:
     a: "Subsidi LPG ditargetkan untuk penggunaan rumah tangga, bukan perdagangan. Bisnis yang lebih besar perlu menggunakan tabung komersial (tabung ungu) yang tidak bersubsidi dan lebih mahal. KPDN menyatakan pedagang mikro dan kecil masih dapat menggunakan LPG bersubsidi dalam batas tertentu."
 
 lang: "id"
+sourceContentHash: "7fc238e7f93ed817"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

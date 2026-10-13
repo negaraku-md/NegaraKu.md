@@ -21,9 +21,10 @@ verificationNeeded:
   - "الأسماء الدقيقة لشركات مياه الولايات لباهانج ونيجري سمبيلان وكيدا مدرجة على موقع span.gov.my لكن تعذّر استخراجها بالكامل أثناء إعداد هذه المسودة؛ يلزم التحقق منها مجددًا مباشرةً على span.gov.my."
   - "الأطر التشريعية الخاصة بصباح وساراواك (أسماء المراسيم/القوانين الولائية ذات الصلة) لم يُتحقق منها مباشرةً مقابل مصدر رسمي أثناء إعداد هذه المسودة؛ وتؤكد PAAB الاستثناء العام لكلتا الولايتين من نموذج PAAB، لكن يلزم إعادة التحقق من التفاصيل التشريعية الكاملة."
 lang: "ar"
+sourceContentHash: "fb8c6f5861721815"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

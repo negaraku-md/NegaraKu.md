@@ -33,8 +33,9 @@ faq:
     a: "Liên đoàn Khúc côn cầu Malaysia (Malaysian Hockey Confederation, MHC) là cơ quan chủ quản quốc gia đối với các đội tuyển khúc côn cầu trên sân và trong nhà, nam và nữ. Nó liên kết với Liên đoàn Khúc côn cầu Châu Á (AHF) và FIH, và hoạt động từ Sân vận động Khúc côn cầu Quốc gia ở Bukit Jalil, Kuala Lumpur."
 
 lang: "vi"
+sourceContentHash: "e3b29244d5e5d634"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

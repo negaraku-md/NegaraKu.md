@@ -30,8 +30,9 @@ faq:
     a: "Sau khi chuyển nhượng hãng hàng không, Capital A là một tập đoàn dịch vụ hàng không và số được xây dựng quanh năm hoạt động kinh doanh: Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next và Santan."
 
 lang: "vi"
+sourceContentHash: "649108ce940fc47e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

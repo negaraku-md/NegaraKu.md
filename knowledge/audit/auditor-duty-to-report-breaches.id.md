@@ -30,8 +30,9 @@ faq:
     a: "Bagi laporan tindak pidana serius di bawah Section 266(9), tidak. Section 266(10) menetapkan bahwa selama laporan mengenai perkara yang disebut dalam subsection (9) dibuat dengan iktikad baik kepada Pendaftar, tidak ada kewajiban auditor yang dianggap dilanggar semata-mata karena pelaporan tersebut. Perlindungan statutori yang eksplisit ini dirujuk secara khusus kepada laporan di bawah subsection (9)."
 
 lang: "id"
+sourceContentHash: "9561fa4bff249209"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

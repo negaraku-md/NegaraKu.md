@@ -38,10 +38,11 @@ verificationNeeded:
   - "التحقق من التواريخ المُشار إلى أنها قابلة للتغيير في جدول قسم مجلس الوزراء — عيد الفطر (Hari Raya Puasa)، وعيد الأضحى (Hari Raya Qurban)، وديبافالي (Deepavali)، وبداية رمضان (Awal Ramadan)، واليوم الثاني من عيد الأضحى، جميعها مُشار إليها"
 
 lang: "ar"
+sourceContentHash: "c9161f47701aa87c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

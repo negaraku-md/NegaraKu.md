@@ -34,10 +34,11 @@ faq:
     a: "ينشر مفوّض التراث في إدارة التراث الوطني الأطعمة في الجريدة الرسمية بوصفها أعيانًا تراثية بموجب البند الفرعي 49(1) من قانون التراث الوطني لسنة 2005 (National Heritage Act 2005) [القانون 645]، عبر إعلان سنوي للأعيان التراثية."
 
 lang: "ar"
+sourceContentHash: "bdf1c88a62d4c6ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

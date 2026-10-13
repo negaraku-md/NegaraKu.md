@@ -19,8 +19,9 @@ keyTakeaways:
   - "Tun Dr Mahathir Mohamad mengangkat sumpah sebagai Perdana Menteri ketujuh Malaysia pada 10 Mei 2018; Dr Wan Azizah Wan Ismail menjadi perempuan pertama yang berkhidmat sebagai Wakil Perdana Menteri"
 appliesTo: "Pembaca yang menginginkan fakta yang terdokumentasi mengenai perubahan pemerintah federal pertama Malaysia pada pemilihan umum ke-14 — hasilnya, angka kursi, dan mekanisme konstitusional — yang dinyatakan secara netral dan bersumber, tanpa tafsiran berpihak."
 lang: "id"
+sourceContentHash: "354e5f3719c345fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

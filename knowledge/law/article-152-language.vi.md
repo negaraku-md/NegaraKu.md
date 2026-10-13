@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn có văn bản hiến định chính xác đằng sau chính sách ngôn ngữ quốc gia của Malaysia, thay vì một bản diễn giải về nó."
 
 lang: "vi"
+sourceContentHash: "b994c8be544c8680"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -29,8 +29,9 @@ faq:
     a: "Hội đồng Quân vương được quy định trong Điều 38 Hiến pháp Liên bang, với các chức năng và thủ tục của nó được chi tiết hóa trong Phụ lục Năm."
 
 lang: "vi"
+sourceContentHash: "145a64a2a5caf8b7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

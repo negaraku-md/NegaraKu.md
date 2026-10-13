@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu cấu trúc hiến định của Malaysia — sinh viên, nhà nghiên cứu, nhà báo và độc giả phổ thông — cùng bất kỳ ai cần biết quy định nào cần sự đồng ý hoặc tham vấn của Hội đồng các Quốc vương."
 
 lang: "vi"
+sourceContentHash: "b582d091b8a771db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

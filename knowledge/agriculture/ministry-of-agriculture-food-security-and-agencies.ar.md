@@ -30,10 +30,11 @@ faq:
     a: "قانون مراقبة الأرز غير المقشور والأرز لسنة 1994 (القانون 522). الأرز سلعة خاضعة للرقابة؛ ويُصدر المدير العام لتنظيم الأرز غير المقشور والأرز التراخيص والتصاريح للطحن والبيع بالجملة والتجزئة والاستيراد والتصدير والنقل بين الولايات."
 
 lang: "ar"
+sourceContentHash: "88877cb8976d9b28"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

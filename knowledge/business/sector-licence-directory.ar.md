@@ -31,10 +31,11 @@ verificationNeeded:
   - "العناوين القصيرة الإنجليزية التي تستخدمها JAKIM ومسجّل الجمعيات — كلاهما لا يظهر على موقع الجهة المعنية نفسها"
 
 lang: "ar"
+sourceContentHash: "de6126fff54d2ff3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

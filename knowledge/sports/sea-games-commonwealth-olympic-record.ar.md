@@ -34,10 +34,11 @@ faq:
     a: "استضافة ألعاب 1998 في كوالالمبور، حيث سجّلت أفضل حصيلة لها بـ 10 ميداليات ذهبية وحلّت رابعة إجمالًا. وكانت أيضًا أول ألعاب كومنولث تُقام في آسيا على الإطلاق."
 
 lang: "ar"
+sourceContentHash: "d25df756ce38577d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

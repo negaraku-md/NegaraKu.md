@@ -37,8 +37,9 @@ verificationNeeded:
   - "Xác nhận tham chiếu thông báo Công báo mà theo đó MAICSA được quy định là một tổ chức được phê duyệt, và liệu có bất kỳ điều khoản hoặc điều kiện nào được áp đặt theo s.235(3) hay không"
 
 lang: "vi"
+sourceContentHash: "b8d7278523a1c564"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

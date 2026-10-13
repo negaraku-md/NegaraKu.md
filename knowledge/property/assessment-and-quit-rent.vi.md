@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Chủ nhà, chủ đất và người mua bất động sản ở Bán đảo Malaysia cần hiểu hóa đơn thuế bất động sản hằng năm của mình."
 
 lang: "vi"
+sourceContentHash: "466dc843a0553a23"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

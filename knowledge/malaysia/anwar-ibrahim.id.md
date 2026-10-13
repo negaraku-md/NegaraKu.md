@@ -31,8 +31,9 @@ verificationNeeded:
   - "Tanggal yang tepat (jabatan kabinet, pemecatan, pembebasan, pelantikan sebagai PM) perlu dipastikan dengan Departemen Perdana Menteri dan catatan pengadilan."
 
 lang: "id"
+sourceContentHash: "ff741a6378247554"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

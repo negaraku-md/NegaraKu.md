@@ -27,8 +27,9 @@ verificationNeeded:
   - "Cần xác nhận liệu có tòa án Malaysia nào đã công nhận một điều khoản không lôi kéo khách hàng sau khi chấm dứt là nằm ngoài s.28 hay chưa"
 
 lang: "vi"
+sourceContentHash: "d5d94ae67835a159"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

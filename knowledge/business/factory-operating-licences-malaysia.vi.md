@@ -33,8 +33,9 @@ faq:
     a: "Điều đó phụ thuộc vào hoạt động. Theo Luật Chất lượng Môi trường năm 1974 (Environmental Quality Act 1974), các dự án công nghiệp nặng hoặc quy mô lớn được liệt kê trong Lệnh về Chất lượng Môi trường (Hoạt động được quy định) (Đánh giá Tác động Môi trường) năm 2015 (Environmental Quality (Prescribed Activities) (Environmental Impact Assessment) Order 2015) phải có một EIA được phê duyệt trước khi dự án tiến hành. Một số ngành — dầu cọ thô, cao su thiên nhiên nguyên liệu, các cơ sở xử lý chất thải theo danh mục — là «mặt bằng được quy định» cần giấy phép bằng văn bản của DOE để xây dựng và một giấy phép để vận hành. Một nhà máy thông thường xả nước thải hoặc phát thải chất ô nhiễm không khí vẫn phải tuân thủ các quy định về nước thải và không khí sạch của DOE. Hãy xác nhận tình trạng hoạt động của bạn với DOE trước khi xây dựng."
 
 lang: "vi"
+sourceContentHash: "b9703e6c709c9e9a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

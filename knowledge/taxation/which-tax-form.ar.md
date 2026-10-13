@@ -36,10 +36,11 @@ verificationNeeded:
   - "التواريخ هنا مأخوذة من برنامج التقديم الصادر في 30 ديسمبر 2025 والمُحدَّث في 1 أبريل 2026، الذي يحكم الإقرارات الخاصة بسنة التقييم 2025. وتُصدر LHDN برنامجًا جديدًا كل سنة — فأعد قراءته قبل الاعتماد على دورة لاحقة"
 
 lang: "ar"
+sourceContentHash: "1c422a60f1ab90e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

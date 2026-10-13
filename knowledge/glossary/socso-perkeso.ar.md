@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "أصحاب العمل وفرق الموارد البشرية والرواتب، وموظفو القطاع الخاص في ماليزيا الراغبون في فهم خصومات الرواتب القانونية."
 
 lang: "ar"
+sourceContentHash: "9085a7b0c1f610fb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

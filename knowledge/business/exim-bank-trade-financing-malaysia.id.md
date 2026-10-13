@@ -29,8 +29,9 @@ faq:
     a: "Bank Negara Malaysia meregulasinya sebagai Institusi Keuangan Pembangunan yang ditetapkan di bawah Akta Institusi Kewangan Pembangunan 2002."
 
 lang: "id"
+sourceContentHash: "05f6bb75d143a12e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,10 +34,11 @@ faq:
     a: "نعم. يجوز إحالة شكوى كتابية إلى المجلس التأديبي بموجب المادة 99. وإذا وجد المجلس أن لها أساسًا، فإنه يشكّل محكمة تحقيق بموجب المادة 100 للتحقيق في الشكوى."
 
 lang: "ar"
+sourceContentHash: "b2af26646e05de04"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

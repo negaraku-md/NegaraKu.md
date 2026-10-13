@@ -33,8 +33,9 @@ faq:
     a: "Rumah terbuka adalah praktik mengundang kerabat, tetangga, dan teman — termasuk dari suku dan agama lain — datang berkunjung dan menikmati hidangan sepanjang bulan Syawal. Ia menjadi ciri sosial yang luas di Malaysia, dan sering diselenggarakan pula oleh instansi pemerintah dan perusahaan, bukan hanya di rumah pribadi."
 
 lang: "id"
+sourceContentHash: "93ccc705ae0a9141"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

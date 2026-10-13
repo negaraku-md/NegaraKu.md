@@ -49,8 +49,9 @@ obligations:
     consequence: "Kenaikan 10 persen di bawah s.109B(2) dan penolakan pengeluaran di bawah s.39(1)(j)"
 
 lang: "id"
+sourceContentHash: "096e6362dcef465c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

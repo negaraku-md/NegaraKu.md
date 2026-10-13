@@ -36,8 +36,9 @@ faq:
     a: "Ya. Sertifikasi halal tertumpu pada kepatuhan produk, bahan, dan proses terhadap persyaratan MS 1500 dan MPPHM, bukan pada agama pemilik. Perusahaan milik non-Muslim boleh dan banyak yang memohon serta memperoleh Sijil Pengesahan Halal Malaysia."
 
 lang: "id"
+sourceContentHash: "f2b9c9a9d90925a7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

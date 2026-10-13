@@ -24,8 +24,9 @@ appliesTo: "Pemilik usaha kali pertama di Malaysia yang memilih antara mendaftar
 verificationNeeded: []
 
 lang: "id"
+sourceContentHash: "5417c396f8f77b23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

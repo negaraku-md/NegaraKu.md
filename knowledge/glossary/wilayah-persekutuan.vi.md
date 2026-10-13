@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố hiểu sự phân chia hành chính của Malaysia và vì sao Kuala Lumpur không phải là một bang."
 
 lang: "vi"
+sourceContentHash: "451b4e1d1dcd4be4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

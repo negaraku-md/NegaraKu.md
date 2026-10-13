@@ -34,8 +34,9 @@ faq:
     a: "Malaysia xếp thứ 26 trong Chỉ số Hiệu suất Logistics của Ngân hàng Thế giới 2023, tăng từ vị trí thứ 41 năm 2018 và đứng thứ hai trong số các quốc gia ASEAN sau Singapore."
 
 lang: "vi"
+sourceContentHash: "5308f8757b834449"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -43,10 +43,11 @@ verificationNeeded:
   - "الحدّ الأقصى لعدد الصفوف المقبولة في جدول بيانات الرفع المجمّع ببوابة MyInvois — تذكر LHDN عددًا معيّنًا دون أن تصرّح به"
 
 lang: "ar"
+sourceContentHash: "12fac171732261f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

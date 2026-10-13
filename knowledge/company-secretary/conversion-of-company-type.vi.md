@@ -27,8 +27,9 @@ faq:
     a: "Theo hướng dẫn của SSM, thông báo chuyển đổi thành công ty đại chúng được ban hành trong vòng một ngày làm việc sau khi các văn bản đầy đủ được nộp và các điều kiện được tuân thủ. Hướng dẫn đó không nêu một thời hạn cụ thể cho việc chuyển đổi công ty đại chúng sang tư nhân."
 
 lang: "vi"
+sourceContentHash: "63145595a33eef52"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

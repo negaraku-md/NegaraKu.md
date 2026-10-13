@@ -41,8 +41,9 @@ verificationNeeded:
   - "Biaya pengajuan ke pengadilan dan remunerasi praktisi insolvensi bagi setiap mekanisme tidak diterbitkan secara terpusat dan tidak ada rentang biaya yang dinyatakan di sini"
 
 lang: "id"
+sourceContentHash: "38faab1c30546d02"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

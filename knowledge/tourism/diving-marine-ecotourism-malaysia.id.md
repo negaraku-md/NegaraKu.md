@@ -31,8 +31,9 @@ faq:
     a: "Tergantung pada lokasi. Taman laut di Semenanjung Malaysia dan Labuan adalah federal, dikelola oleh Departemen Perikanan Malaysia di bawah Akta Perikanan 1985. Taman di Sabah, termasuk Sipadan, dikelola oleh badan negara bagian Taman-Taman Sabah di bawah undang-undang negara bagian yang terpisah."
 
 lang: "id"
+sourceContentHash: "4a736d507026f7b4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

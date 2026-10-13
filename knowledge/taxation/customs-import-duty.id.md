@@ -31,8 +31,9 @@ faq:
     a: "Konsinyasi bernilai RM500 atau kurang umumnya dikecualikan dari bea masuk dan pajak penjualan di perbatasan. Namun, sejak 1 Januari 2024 pajak penjualan 10% terpisah atas Barang Bernilai Rendah dikenakan atas item demikian yang dijual daring dan dikirim ke Malaysia, dipungut oleh penjual atau pasar daring yang terdaftar."
 
 lang: "id"
+sourceContentHash: "49578a6ca3069696"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

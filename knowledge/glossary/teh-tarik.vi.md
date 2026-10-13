@@ -26,8 +26,9 @@ verificationNeeded:
   - "Nguồn gốc của teh tarik trong cộng đồng người Ấn theo đạo Hồi ở Malaya — thường được nhắc đến, nhưng ngày tháng và địa điểm cụ thể không được xác nhận ở bất kỳ nguồn chính thức nào của chính phủ."
 
 lang: "vi"
+sourceContentHash: "445b06c48abc194e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

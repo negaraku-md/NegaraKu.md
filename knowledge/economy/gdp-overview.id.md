@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memperoleh pemahaman umum tingkat orientasi tentang skala dan bentuk ekonomi Malaysia."
 
 lang: "id"
+sourceContentHash: "a15aa3483282907f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

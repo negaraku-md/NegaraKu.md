@@ -34,8 +34,9 @@ faq:
     a: "Majlis-majlis lokal terpilih beroperasi di bawah Local Government Elections Act 1960 dan ordonansi-ordonansi yang lebih awal. Pemilihan ditangguhkan pada 1 Maret 1965 melalui peraturan darurat saat konfrontasi (Konfrontasi) dengan Indonesia. Anggota majlis yang sedang bertugas tetap menjabat sampai Local Government (Temporary Provisions) Act 1973 [Act 124] mengakhiri masa mereka dan menggantikan mereka dengan lembaga-lembaga pengelolaan yang diangkat, dan Local Government Act 1976 [Act 171] kemudian membentuk sistem pengangkatan permanen itu."
 
 lang: "id"
+sourceContentHash: "d540aa978984383a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

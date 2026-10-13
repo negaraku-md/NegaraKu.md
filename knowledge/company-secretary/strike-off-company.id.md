@@ -32,8 +32,9 @@ faq:
     a: "Tidak. Menurut pasal 554(1)(a), tanggung jawab setiap direktur, pejabat atau anggota perusahaan berlanjut dan dapat ditegakkan seolah-olah perusahaan tidak dibubarkan. Direktur juga wajib menyimpan rekaman perusahaan selama tujuh tahun setelah penghapusan."
 
 lang: "id"
+sourceContentHash: "bd012809619da49e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

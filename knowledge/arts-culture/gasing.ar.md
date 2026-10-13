@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "كل من يريد فهم كيفية لعب الغاسينغ، والفرق بين «غاسينغ بانغكاه» و«غاسينغ أوري»، وصلته بتراث الساحل الشرقي."
 
 lang: "ar"
+sourceContentHash: "fc40c99c7c7666a6"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

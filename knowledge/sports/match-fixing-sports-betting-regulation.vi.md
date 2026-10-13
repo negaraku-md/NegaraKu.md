@@ -29,8 +29,9 @@ faq:
     a: "Theo tóm tắt pháp lý, tội hối lộ có thể bị phạt tù đến 20 năm và phạt tiền không dưới năm lần giá trị của khoản hối lộ hoặc RM10,000, tùy theo mức nào cao hơn. Chi tiết này cần được rà soát lại đối chiếu với toàn văn Luật."
 
 lang: "vi"
+sourceContentHash: "602c70742033a7cb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

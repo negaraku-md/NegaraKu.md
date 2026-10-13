@@ -26,10 +26,11 @@ verificationNeeded:
   - "لا يزال MFRS 139 مُدرَجاً لدى MASB؛ تحقّق من حالة تطبيقه الحالية لأي كيان ما زال ضمن نطاقه"
 
 lang: "ar"
+sourceContentHash: "e028c2fa0dbb47c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

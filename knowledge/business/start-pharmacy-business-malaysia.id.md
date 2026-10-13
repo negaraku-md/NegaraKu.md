@@ -33,8 +33,9 @@ faq:
     a: "Apotek berlisensi memegang Lisensi Racun Jenis A dan oleh karena itu boleh menjual racun terjadwal — obat resep saja dan obat farmasi saja — dengan penjualan berada di bawah penyeliaan pribadi langsung apoteker. Peritel produk kesehatan umum tanpa lisensi racun hanya boleh menjual barang bukan racun seperti produk OTC jualan umum, suplemen, dan toiletri, dan tidak boleh menampilkan diri sebagai apotek atau menjual obat terjadwal. Akta Racun 1952 dan Akta Jualan Dadah 1952 adalah yang menarik garis pemisah itu."
 
 lang: "id"
+sourceContentHash: "7e68872d6cc1c02e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

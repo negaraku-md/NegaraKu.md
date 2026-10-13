@@ -35,8 +35,9 @@ faq:
     a: "Cả hai bang đều đòi tiền bản quyền 5% dựa trên thỏa thuận 1975. Terengganu nhận khoản thanh toán (dù từng bị đổi thành 'wang ehsan' vào khoảng năm 2000 và được khôi phục vào năm 2009), trong khi vụ kiện của Kelantan năm 2010 bị bác vào năm 2019. Vấn đề then chốt là liệu các giếng liên quan có nằm trong vùng biển của bang (giới hạn ba hải lý) hay dưới thẩm quyền liên bang."
 
 lang: "vi"
+sourceContentHash: "fee9c9760c973ad8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

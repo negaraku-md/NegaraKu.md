@@ -37,8 +37,9 @@ faq:
     a: "UNESCO nhắc đến Silat Harimau như một ví dụ về phái mô phỏng dáng vẻ thẩm mỹ của con hổ trong nghệ thuật tấn công và tự vệ. Nó là một trong nhiều phái được đặt tên theo động vật hoặc các yếu tố của tự nhiên."
 
 lang: "vi"
+sourceContentHash: "38ee41b476215220"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

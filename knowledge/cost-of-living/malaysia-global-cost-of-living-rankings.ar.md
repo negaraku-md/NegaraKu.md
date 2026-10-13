@@ -30,10 +30,11 @@ faq:
     a: "تُسعّر المؤشرات العالمية سلّة وافدين أو تنقّل — السلع المستوردة، وإسكان الوافدين، والتعليم الدولي — وغالبًا ما تعبّر عن التكاليف بالدولار الأمريكي. أما بيانات أسعار المستهلك في ماليزيا نفسها فتتعقّب سلّة أسرية محلية، لذا يتحرّك المقياسان على نحو مختلف."
 
 lang: "ar"
+sourceContentHash: "a05c3ce9b85bce7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

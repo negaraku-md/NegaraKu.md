@@ -34,8 +34,9 @@ verificationNeeded:
   - "Pastikan apakah SSM telah mengeluarkan amandemen atau arahan praktik lanjutan apa pun setelah PD 10/2024 yang mengubah ambang Fase 2 atau Fase 3"
 
 lang: "id"
+sourceContentHash: "0adbb423bee3af8f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

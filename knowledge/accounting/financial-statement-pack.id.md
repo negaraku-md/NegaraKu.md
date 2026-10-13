@@ -55,8 +55,9 @@ obligations:
     consequence: "Fine up to RM50,000 on every officer, plus up to RM1,000 for each day the offence continues, under s.259(3)"
 
 lang: "id"
+sourceContentHash: "4e2872dc66850acf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

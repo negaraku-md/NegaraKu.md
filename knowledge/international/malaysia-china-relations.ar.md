@@ -32,12 +32,13 @@ faq:
     a: "هو الصياغة التي تبنّتها الحكومتان لوصف المرحلة التالية من العلاقات، بناءً على الشراكة الاستراتيجية الشاملة المُقامة في 2013. وأُثير المفهوم اعتباراً من 2023 وأُضفي عليه الطابع الرسمي في بيان مشترك خلال زيارة الدولة التي قام بها الرئيس شي جين بينغ في 17 أبريل 2025. وهو يحدّد تعاوناً عبر التجارة والتكنولوجيا والبنية التحتية والروابط بين الشعوب."
 
 lang: "ar"
+sourceContentHash: "72782c6871b15658"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

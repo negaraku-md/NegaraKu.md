@@ -32,10 +32,11 @@ faq:
     a: "نعم. أدخلت هيئة SC إطاراً للتمويل الجماعي بالأسهم (ساري المفعول في 10 فبراير 2015) وإطاراً للتمويل بين الأقران (أبريل 2016)، وكلاهما يعمل بوصفه سوقاً معترفاً بها بموجب قواعدها."
 
 lang: "ar"
+sourceContentHash: "e26f048f1170e63c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

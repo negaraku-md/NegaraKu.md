@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Warga negara Malaysia yang hendak memperbarui paspor internasional yang ada, atau mengganti paspor yang hilang/rusak, baik secara daring maupun di loket Jabatan Imigresen Malaysia (JIM) / UTC."
 
 lang: "id"
+sourceContentHash: "bf73b9b94f1050d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

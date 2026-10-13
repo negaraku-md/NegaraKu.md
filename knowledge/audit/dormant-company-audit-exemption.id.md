@@ -18,8 +18,9 @@ verificationNeeded:
   - "Pastikan perlakuan SSM terhadap biaya bank dan bunga yang dikreditkan pada rekening perusahaan dorman — arahan tersebut hanya mengecualikan kewajiban yang secara hukum wajib dibayar perusahaan"
 
 lang: "id"
+sourceContentHash: "71652677302d5a7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

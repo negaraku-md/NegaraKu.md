@@ -30,11 +30,12 @@ faq:
     a: "تسجّل المصادر أن العمليتين سارتا بالتوازي لا أن إحداهما تسبّبت في الأخرى. فقد جرى التفاوض على الاستقلال وتحقّق في 31 أغسطس 1957 بينما كانت الطوارئ لا تزال سارية، واستمرّت الطوارئ قرابة ثلاث سنوات أخرى في ظلّ حكومة مالاياوية مستقلّة."
 
 lang: "ar"
+sourceContentHash: "05c196a1a00207fa"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

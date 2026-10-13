@@ -30,8 +30,9 @@ faq:
     a: "Kecelakaan fatal, cedera serius atau kejadian berbahaya harus diberitahukan kepada kantor DOSH terdekat dengan cara tercepat, dan Formulir JKKP 6 dikirim dalam waktu 7 hari di bawah NADOPOD 2004."
 
 lang: "id"
+sourceContentHash: "e58617c97047711f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

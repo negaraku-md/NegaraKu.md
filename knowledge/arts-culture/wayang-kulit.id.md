@@ -30,8 +30,9 @@ faq:
     a: "Kebanyakan di festival kebudayaan, program museum dan warisan, serta pertunjukan pariwisata, bukan sebagai hiburan kampung. Departemen Kebudayaan dan Kesenian Negara dan badan kebudayaan negeri adalah titik awal yang praktis untuk mencari pertunjukan yang dijadwalkan."
 
 lang: "id"
+sourceContentHash: "d4cb6805f330e418"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

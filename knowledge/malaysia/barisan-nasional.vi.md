@@ -30,8 +30,9 @@ faq:
     a: "Tại cuộc tổng tuyển cử lần thứ 14 vào ngày 9 tháng 5 năm 2018, khi phe đối lập Pakatan Harapan giành được 113 trong số 222 ghế và BN giành được 79, lần mất chính phủ liên bang đầu tiên của nó."
 
 lang: "vi"
+sourceContentHash: "991005bf0f4cffdd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

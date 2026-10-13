@@ -30,8 +30,9 @@ faq:
     a: "Akta Kawalan Padi dan Beras 1994 (Akta 522). Beras adalah komoditas terkendali; Direktur Jenderal Kawalselia Padi dan Beras menerbitkan lisensi dan izin bagi penggilingan, perdagangan grosir, ritel, impor, ekspor dan pemindahan antarnegara bagian."
 
 lang: "id"
+sourceContentHash: "88877cb8976d9b28"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

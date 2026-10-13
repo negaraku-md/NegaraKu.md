@@ -34,10 +34,11 @@ faq:
     a: "ليس بالضرورة. فقد وجد المسح أن الأعداد في الغابات المُدارة جيدًا والمقطوعة قطعًا مستدامًا مثل ديراماكوت وسيغاما بقيت مستقرة على مدى 15 عامًا، مما يُظهر أن إنسان الغاب يمكن أن يستمر في غابات الإنتاج عندما تُدار بعناية وتبقى متصلة."
 
 lang: "ar"
+sourceContentHash: "3e08558cd6bea030"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

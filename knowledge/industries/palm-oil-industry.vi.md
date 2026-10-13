@@ -37,8 +37,9 @@ faq:
     a: "Ủy ban Dầu cọ Malaysia (MPOB), một cơ quan theo luật định trực thuộc Bộ Đồn điền và Hàng hóa, cấp phép và giám sát mọi giai đoạn từ trồng trọt đến xuất khẩu, và điều hành nghiên cứu và phát triển của ngành."
 
 lang: "vi"
+sourceContentHash: "6df254d9cadb68a3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

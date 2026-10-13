@@ -36,8 +36,9 @@ faq:
     a: "EPF menjamin dividen minimum 2.5% setahun di bawah Employees Provident Fund Act 1991. Dividen sebenarnya biasanya lebih tinggi — 6.30% diumumkan untuk tahun 2024 dan 6.15% untuk tahun 2025 (Simpanan Konvensional)."
 
 lang: "id"
+sourceContentHash: "002bda1ea2b2e8d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

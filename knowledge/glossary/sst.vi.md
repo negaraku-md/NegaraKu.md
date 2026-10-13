@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Chủ doanh nghiệp, các bộ phận tài chính và người tiêu dùng muốn hiểu hệ thống thuế gián thu của Malaysia."
 
 lang: "vi"
+sourceContentHash: "7438db08db3298e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

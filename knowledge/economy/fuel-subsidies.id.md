@@ -33,8 +33,9 @@ faq:
     a: "Ia berubah mengikuti harga pasar. Beban subsidi RON95 dan diesel sekitar RM0.7 miliar pada Januari 2026 dan memuncak pada RM7.5 miliar pada April 2026, sebelum diproyeksikan sekitar RM3.5 miliar per bulan pada Juni 2026."
 
 lang: "id"
+sourceContentHash: "4d77f16bdf432b0a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

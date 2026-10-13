@@ -32,10 +32,11 @@ faq:
     a: "المركز الوطني للاستجابة لعمليات الاحتيال (NSRC) هو جهد مشترك بين المركز الوطني لمكافحة الجرائم المالية (NFCC) والشرطة الملكية الماليزية والبنك المركزي الماليزي و MCMC والمؤسسات المالية وقطاع الاتصالات. وقد أعلنت عنه إدارة رئيس الوزراء في 14 أكتوبر 2022 كمركز استجابة سريعة لمكافحة الاحتيال المالي عبر الإنترنت من خلال الخط الساخن 997. و CCID هي إحدى وحدات الشرطة الملكية الماليزية المشاركة في هذه العملية."
 
 lang: "ar"
+sourceContentHash: "9fa83d15365c9fba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

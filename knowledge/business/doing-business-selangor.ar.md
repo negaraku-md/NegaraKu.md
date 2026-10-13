@@ -43,10 +43,11 @@ verificationNeeded:
   - "أسعار رخصة المبنى السنوية في MBPJ — ملف PDF للائحة الفرعية الذي نشرته MBPJ هو صورة ممسوحة ضوئيًا دون طبقة نصية، فلا يوجد سعر بالرينغيت قابل للقراءة آليًا"
 
 lang: "ar"
+sourceContentHash: "45a4dcba0cb44c75"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

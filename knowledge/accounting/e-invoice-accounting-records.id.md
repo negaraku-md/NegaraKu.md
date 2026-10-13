@@ -42,8 +42,9 @@ verificationNeeded:
   - "Verifikasi periode penyimpanan catatan berdasarkan Sales Tax Act 2018 dan Service Tax Act 2018 secara terpisah sebelum memperluas analisis ini ke dokumen SST"
 
 lang: "id"
+sourceContentHash: "8f59afbef6de896e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -33,10 +33,11 @@ faq:
     a: "يُعد جريمة جنائية بموجب قانون دور حضانة الأطفال لسنة 1984 أن تُشغِّل دار حضانة للأطفال غير مسجَّلة لدى JKM. وعند الإدانة تكون العقوبة غرامة تصل إلى RM10,000 أو السجن حتى سنتين، أو كلاهما، مع عقوبات أشد في حالة التكرار. ويمكن لـ JKM أيضًا أن تأمر بإغلاق الدار. سجِّل قبل أن تستقبل أي طفل."
 
 lang: "ar"
+sourceContentHash: "1ebf1ee2a2053f70"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

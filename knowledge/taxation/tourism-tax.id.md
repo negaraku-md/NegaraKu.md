@@ -32,8 +32,9 @@ faq:
     a: "Hanya operator yang menyewakan lima kamar atau lebih yang perlu mendaftar dan memungut TTx. Operator dengan empat kamar atau kurang tidak berkewajiban untuk mendaftar."
 
 lang: "id"
+sourceContentHash: "f102342b25c63a8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

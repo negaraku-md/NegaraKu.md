@@ -32,8 +32,9 @@ seoTitle: "Dialek Tionghoa Malaysia: Sebaran Wilayah Hokkien, Kantonis, dan Hakk
 socialTitle: "Sama-Sama Tionghoa, Mengapa Bahasa Tak Serupa? Peta Dialek Malaysia"
 
 lang: "id"
+sourceContentHash: "c773c2be8c4e6544"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

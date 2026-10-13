@@ -23,10 +23,11 @@ appliesTo: "المحللون والصحفيون والطلاب والمستثم�
 seoTitle: "إحصاءات السياحة في ماليزيا: الوافدون مقابل الإيرادات"
 
 lang: "ar"
+sourceContentHash: "396de79b31be6ee8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu cấu trúc, khung pháp lý và thành viên của chính quyền địa phương ở Malaysia — sinh viên, nhà nghiên cứu, nhà báo, cư dân giao dịch với hội đồng địa phương, và độc giả phổ thông muốn biết sự khác biệt giữa Hội đồng Thành phố, Đô thị và Quận cùng lý do ủy viên hội đồng được bổ nhiệm chứ không được bầu."
 
 lang: "vi"
+sourceContentHash: "76abb87d5a3ed499"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

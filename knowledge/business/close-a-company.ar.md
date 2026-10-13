@@ -25,10 +25,11 @@ verificationNeeded:
   - "لا تذكر هذه الصفحة أي رسوم أو معدلات أو مدد معالجة خاصة بها؛ فكل رقم مُدرَج في صفحات المسارات المرتبطة وموثَّق فيها"
 
 lang: "ar"
+sourceContentHash: "40a5acd6c21bafa9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

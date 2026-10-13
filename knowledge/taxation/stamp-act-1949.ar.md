@@ -27,9 +27,10 @@ faq:
   - q: "ما الفرق بين الرسم النسبي (ad valorem) والرسم الثابت؟"
     a: "يتفاوت الرسم النسبي (ad valorem) بحسب طبيعة الصك والمقابل أو القيمة السوقية المعنيّة — مثل نقل ملكية عقار أو قرض. أما الرسم الثابت فيُفرَض دون علاقة بالمبلغ المذكور، ويبدأ عموماً من مبلغ رمزي قدره RM10 لكل صك."
 lang: "ar"
+sourceContentHash: "e9d01dfeb365b31f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

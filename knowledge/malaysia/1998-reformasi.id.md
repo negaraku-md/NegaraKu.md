@@ -20,8 +20,9 @@ keyTakeaways:
   - "Patok USD1=RM3.80 dipertahankan hampir tujuh tahun dan berakhir pada 21 Juli 2005 ketika Bank Negara Malaysia menerapkan mengambang terkelola"
 appliesTo: "Pembaca yang menginginkan catatan yang terdokumentasi dan dapat ditelusuri ke sumber tentang reaksi ekonomi Malaysia pada 1998 (kontrol modal dan patok ringgit) serta peristiwa politik tahun itu, dikemukakan secara netral tanpa mendukung tafsiran mana pun."
 lang: "id"
+sourceContentHash: "3f82c848946b8ea4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

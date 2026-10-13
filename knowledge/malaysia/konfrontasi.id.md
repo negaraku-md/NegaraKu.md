@@ -27,8 +27,9 @@ faq:
   - q: "Apakah Konfrontasi sebuah perang yang dideklarasikan?"
     a: "Tidak. Ia merupakan permusuhan bersenjata yang tidak dideklarasikan secara resmi sebagai perang. Ia dijalankan terutama melalui serbuan lintas perbatasan, penyusupan, dan serangan terbatas, bukan melalui deklarasi perang formal antara dua negara."
 lang: "id"
+sourceContentHash: "08c14e8e17f8ad68"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

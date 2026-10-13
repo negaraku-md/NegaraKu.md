@@ -29,8 +29,9 @@ faq:
     a: "Arahan ini telah digantikan oleh Arahan NADMA No. 1, yang disetujui dalam rapat Majlis Keselamatan Negara (MKN) yang dipimpin Perdana Menteri pada 1 Agustus 2024."
 
 lang: "id"
+sourceContentHash: "cb54d0894eec9ad2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

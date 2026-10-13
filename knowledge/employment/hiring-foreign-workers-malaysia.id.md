@@ -77,8 +77,9 @@ obligations:
     consequence: "Pelanggaran di bawah Akta Kerja 1955"
 
 lang: "id"
+sourceContentHash: "558d661d33577f5e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

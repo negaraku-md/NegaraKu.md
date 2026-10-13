@@ -32,8 +32,9 @@ faq:
     a: "Không. Theo chính Cục Lãnh sự của Wisma Putra, việc xác nhận chỉ chứng thực tính xác thực của con dấu và chữ ký của cán bộ được ủy quyền — chứ không phải tính đúng đắn của nội dung giấy tờ."
 
 lang: "vi"
+sourceContentHash: "1c942b9ac8cdb96c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

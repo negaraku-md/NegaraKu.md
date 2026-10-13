@@ -34,8 +34,9 @@ faq:
     a: "JPJ tidak akan memperbarui pajak jalan kendaraan komersial tanpa laporan pemeriksaan yang sah, dan kendaraan yang beroperasi tanpa pemeriksaan dapat dikompaun atau ditilang oleh JPJ."
 
 lang: "id"
+sourceContentHash: "6dfb76a4e260e0c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

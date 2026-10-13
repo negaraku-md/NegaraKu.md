@@ -32,8 +32,9 @@ faq:
     a: "USTR ước tính tổng thương mại hàng hóa hai chiều khoảng US$88.5 tỷ vào năm 2025 (US$28.9 tỷ xuất khẩu của Hoa Kỳ, US$59.7 tỷ nhập khẩu). Dữ liệu US Census ước tính thương mại hàng hóa hai chiều năm 2024 gần US$80 tỷ, và bộ ngoại giao Malaysia dẫn tổng thương mại RM324.91 tỷ (US$71.39 tỷ) cho năm 2024."
 
 lang: "vi"
+sourceContentHash: "6acdeba029dc19eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

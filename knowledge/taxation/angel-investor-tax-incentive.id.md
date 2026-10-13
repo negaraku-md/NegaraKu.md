@@ -39,8 +39,9 @@ verificationNeeded:
   - "Daftar terkini aktivitas yang disetujui oleh Menteri — Public Ruling 12/2020 memberikan sembilan bidang pertumbuhan tinggi dan teknologi tinggi seperti pada 2020 dan menjelaskannya sebagai kedudukan pada masa itu"
 
 lang: "id"
+sourceContentHash: "490843a597d5164f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

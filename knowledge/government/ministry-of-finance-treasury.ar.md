@@ -39,10 +39,11 @@ faq:
     a: "مشروع قانون التزويد اختبارٌ للثقة المالية بالحكومة. ولأنه مشروع قانون مالي، ينبغي أن ينشأ في مجلس النواب (Dewan Rakyat) ولا يجوز أن يُقدّمه إلا وزير. وإذا رفض مجلس النواب مخصصات الحكومة، فإن ذلك يُفسَّر عُرفًا بأنه فقدانٌ لثقة الأغلبية — انظر الصلاحيات المالية لمجلس النواب بموجب المادتين 67 و68 من الدستور الاتحادي."
 
 lang: "ar"
+sourceContentHash: "40747e3f92b37352"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

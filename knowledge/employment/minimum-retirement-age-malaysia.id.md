@@ -34,8 +34,9 @@ faq:
     a: "Tidak. Ia tidak berlaku untuk pegawai negeri, peserta magang, pekerja percobaan, pekerja asing, pekerja rumah tangga, pekerja paruh waktu, pelajar sementara, dan pekerja kontrak jangka waktu tetap tertentu."
 
 lang: "id"
+sourceContentHash: "f2f42b17c86c3524"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

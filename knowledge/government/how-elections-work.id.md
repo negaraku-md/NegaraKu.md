@@ -36,8 +36,9 @@ verificationNeeded:
   - "Rincian prosedur hari pemungutan suara (waktu penamaan calon, masa berkampanye, deposit calon) diatur oleh Akta Pilihan Raya 1958 dan Peraturan-Peraturan Pilihan Raya (Perjalanan Pilihan Raya) 1981, yang dapat diamendemen dari waktu ke waktu. Pastikan angka waktu dan jumlah deposit terkini terhadap teks peraturan dan pengumuman resmi SPR di spr.gov.my sebelum bergantung padanya."
 
 lang: "id"
+sourceContentHash: "d5825383db9e28fe"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,10 +29,11 @@ faq:
     a: "يُعدّ صندوق الاستثمار الحكومي الماليزي Permodalan Nasional Berhad (PNB) مساهماً رئيسياً في شركات سايم داربي، وكان PNB بائع حصة UMW التي استحوذت عليها Sime Darby Berhad. تتغيّر نسب المساهمة الدقيقة مع الوقت وينبغي التحقق منها مقابل أحدث إفصاحات كل شركة لدى بورصة ماليزيا (Bursa Malaysia)."
 
 lang: "ar"
+sourceContentHash: "b6cfb2928f3fa4fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

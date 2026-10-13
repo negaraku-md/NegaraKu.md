@@ -30,8 +30,9 @@ faq:
     a: "Di sản nhỏ gồm tài sản bất động sản và có giá trị dưới RM5 triệu được xử lý bởi Người quản lý Đất đai (Land Administrator) qua Văn phòng Địa chính Quận, cơ quan cấp Lệnh Phân chia."
 
 lang: "vi"
+sourceContentHash: "569aa98893242689"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

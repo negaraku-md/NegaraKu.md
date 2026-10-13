@@ -29,9 +29,10 @@ faq:
     a: "قميص الباتيك زيٌّ رسمي مقبول للرجال، يُرتدى في المناسبات الرسمية وحفلات الزفاف والمناسبات الدبلوماسية بدلاً من البذلة ورابطة العنق. وتخصّص الدوائر الحكومية أياماً لارتداء الباتيك، مما يبقيه في التداول الاعتيادي بدلاً من حصره في الاستخدام الاحتفالي."
 
 lang: "ar"
+sourceContentHash: "239aa5ec5e035842"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

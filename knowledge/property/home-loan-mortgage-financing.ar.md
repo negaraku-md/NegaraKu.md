@@ -35,10 +35,11 @@ faq:
     a: "رسوم الدمغة هي 0.5% من مبلغ القرض بموجب قانون الدمغة لسنة 1949 (Stamp Act 1949). فمثلًا، يُفرض على قرض قدره RM450,000 رسم قدره RM2,250. ويجب الدفع خلال 30 يومًا من تاريخ توقيع الاتفاقية."
 
 lang: "ar"
+sourceContentHash: "9739f168cee000e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -33,8 +33,9 @@ faq:
     a: "Magavau adalah ritual syukur untuk menghormati dan 'memanggil pulang' semangat padi, Bambaazon, setelah panen. Ia secara tradisional dipimpin oleh seorang bobohizan (turut dieja bobolian), yaitu pendeta perempuan yang melafalkan jampi ritual. Ia merupakan salah satu unsur upacara Kaamatan yang lebih tua."
 
 lang: "id"
+sourceContentHash: "77931677eb9c36e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

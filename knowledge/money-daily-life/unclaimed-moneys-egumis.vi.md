@@ -29,8 +29,9 @@ faq:
     a: "Không. Cơ quan Đăng ký không đặt giới hạn thời gian — chủ sở hữu hợp pháp có thể yêu cầu bất cứ lúc nào, và khoản chi có thể được thực hiện hoặc từ Tài khoản Ủy thác Hợp nhất hoặc Tài khoản Thu ngân sách."
 
 lang: "vi"
+sourceContentHash: "b0fa973557593199"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

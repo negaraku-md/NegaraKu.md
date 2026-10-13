@@ -28,8 +28,9 @@ verificationNeeded:
   - "Apabila fasilitas yang diusulkan melebihi batas setara RM100 juta, proses persetujuan tertulis dan kriteria penilaiannya tidak diterbitkan sepenuhnya; FAQ hanya menyatakan bahwa BNM akan memperhitungkan faktor-faktor yang dinyatakan"
 
 lang: "id"
+sourceContentHash: "7f6734fed0eab6e8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

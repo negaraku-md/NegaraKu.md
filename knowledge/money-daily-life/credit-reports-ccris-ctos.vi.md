@@ -34,8 +34,9 @@ faq:
     a: "Đối với CCRIS, định chế tài chính báo cáo phải sửa thông tin không chính xác trong một thời hạn hợp lý. Đối với CTOS, bạn có thể đưa ra một khiếu nại trực tiếp với cơ quan đó, vốn được Văn phòng Đăng ký Cơ quan Báo cáo Tín dụng dưới Bộ Tài chính quản lý."
 
 lang: "vi"
+sourceContentHash: "d56078b999db6074"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

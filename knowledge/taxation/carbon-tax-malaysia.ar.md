@@ -30,10 +30,11 @@ faq:
     a: "أُعلن عن تطبيقها بحلول 2026، وإن كان مسؤولون قد أشاروا إلى أن التوقيت قد يخضع للمراجعة."
 
 lang: "ar"
+sourceContentHash: "1b480b649a14d8fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

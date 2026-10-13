@@ -22,8 +22,9 @@ verificationNeeded:
   - "Năng lực tuyển sinh hằng năm hiện tại (số chỗ) cho các nhóm STPM, Matrikulasi và A-Level không được nêu ở đây — những con số này thay đổi mỗi chu kỳ tuyển sinh; xác nhận các con số của kỳ hiện tại trực tiếp với MPM, Bộ phận Dự bị (Matriculation Division), hoặc từng cao đẳng trước khi dựa vào một con số cụ thể."
   - "Hướng dẫn của MQA về cấu trúc chương trình Foundation (Garis Panduan Kurikulum Asasi) không thể được trích xuất đầy đủ cho bài viết này — quy tắc số giờ tín chỉ tối thiểu hoặc thời lượng cụ thể do MQA đặt ra cho các chương trình Foundation chỉ được mô tả ở đây một cách chung chung; xác nhận các con số chính xác với MQA hoặc cơ sở cung cấp trước khi trích dẫn chúng."
 lang: "vi"
+sourceContentHash: "d0b49a1aee8b9177"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin tahu, ketentuan demi ketentuan, apa sebenarnya yang diperlukan di Parlemen untuk mengubah suatu bagian tertentu Konstitusi Federal."
 
 lang: "id"
+sourceContentHash: "34255dffcbbb4b20"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

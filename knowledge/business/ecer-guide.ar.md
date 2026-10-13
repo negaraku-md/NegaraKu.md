@@ -42,10 +42,11 @@ verificationNeeded:
   - "أي هدف رسمي لعامي 2025 أو 2026 لمرحلة 2 من محطة المياه العميقة الجديدة في كوانتان. فاعتبارًا من أبريل 2025 ظلّت المرحلة 2 في مرحلة التخطيط؛ والمعلم الوحيد المؤرّخ الثابت الذي عُثر عليه تعاقدي (الإنجاز بحلول ديسمبر 2039 لتأمين تمديد الامتياز حتى 2075)، لا هدف بدء أو إنجاز قريب الأجل."
 
 lang: "ar"
+sourceContentHash: "a51699526b272fe8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

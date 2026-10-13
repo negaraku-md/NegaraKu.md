@@ -30,12 +30,13 @@ faq:
     a: "في الانتخابات العامة الرابعة عشرة في 9 مايو 2018، حين فازت المعارضة Pakatan Harapan بـ113 من 222 مقعدًا وفاز BN بـ79، وهي أول خسارة له للحكومة الاتحادية."
 
 lang: "ar"
+sourceContentHash: "991005bf0f4cffdd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

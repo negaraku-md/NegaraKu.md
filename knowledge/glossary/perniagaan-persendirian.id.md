@@ -33,8 +33,9 @@ faq:
     a: "Karena usaha itu bukan entitas hukum yang terpisah, keuntungannya adalah penghasilan pribadi Anda. Anda melaporkannya menggunakan Borang B dan membayar pajak pada tarif individu (progresif), menyampaikan melalui portal e-Filing MyTax. Tenggat statutori adalah 30 Juni; karena Borang B bagi individu yang memiliki penghasilan usaha harus disampaikan secara elektronik mulai Tahun Taksiran 2024, tenggat yang berlaku adalah tanggal masa tenggang e-Filing pada 15 Juli."
 
 lang: "id"
+sourceContentHash: "1a9f38c341cebf45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

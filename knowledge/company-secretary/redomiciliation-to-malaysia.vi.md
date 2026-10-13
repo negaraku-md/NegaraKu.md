@@ -35,8 +35,9 @@ faq:
     a: "Có. Section 133 cho phép chuyển từ Labuan với sự phê duyệt của Cơ quan có thẩm quyền, với điều kiện luật của điểm đến cho phép, những người nắm giữ không dưới ba phần tư cổ phần của mỗi loại và của bất kỳ trái phiếu nào của mỗi loại và tất cả các giám đốc đồng ý, thông báo về ý định được công bố trên một tờ báo ở Labuan ít nhất 30 ngày trước, và một bản khai của giám đốc liệt kê các chủ nợ và nêu rằng việc chuyển không có khả năng gây bất lợi cho các thành viên, người nắm trái phiếu hoặc chủ nợ được nộp."
 
 lang: "vi"
+sourceContentHash: "8ccef2426ade3a45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

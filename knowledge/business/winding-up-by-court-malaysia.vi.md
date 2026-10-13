@@ -30,8 +30,9 @@ faq:
     a: "Có. Khi khoản nợ đang thực sự (một cách thiện chí) bị tranh chấp trên những căn cứ đáng kể, công ty có thể xin một lệnh cấm Fortuna để ngăn chủ nợ đệ trình đơn yêu cầu, vì việc giải thể không nên được dùng để thực thi một yêu cầu đang bị tranh chấp."
 
 lang: "vi"
+sourceContentHash: "b91e135cb6354783"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -47,8 +47,9 @@ obligations:
     consequence: "Hành vi phạm tội theo s.120(1); việc miễn hai năm trong s.107C(4A) không áp dụng cho các LLP"
 
 lang: "vi"
+sourceContentHash: "0632dd55307e891f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

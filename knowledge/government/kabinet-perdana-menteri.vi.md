@@ -37,8 +37,9 @@ verificationNeeded:
   - "Xác nhận tổng số thành viên Nội các và danh sách các bộ hiện tại đối chiếu với ấn phẩm chính thức của Văn phòng Thủ tướng — Hiến pháp không ấn định số Bộ trưởng."
 
 lang: "vi"
+sourceContentHash: "0f9a6fea7774269c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

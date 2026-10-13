@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "كل من يقيم في ماليزيا أو يزورها ويرغب في معرفة أي رقم يتصل به لحالة طوارئ حقيقية مقابل احتيال مالي، وكيفية التعرف على أكثر أنماط الاحتيال شيوعاً قبل أن تنتقل الأموال من يد إلى أخرى."
 
 lang: "ar"
+sourceContentHash: "9fc1856c9ea17a12"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

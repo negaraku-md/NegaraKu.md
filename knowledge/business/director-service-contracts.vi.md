@@ -38,8 +38,9 @@ verificationNeeded:
   - "Xác nhận việc đối xử với các giám đốc điều hành như là công nhân theo mục 20 của Industrial Relations Act 1967 — điều này xoay quanh án lệ, không phải trên bề mặt của đạo luật"
 
 lang: "vi"
+sourceContentHash: "aa6dbf128ae02aa9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

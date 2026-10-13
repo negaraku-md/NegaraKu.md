@@ -57,10 +57,11 @@ obligations:
     consequence: "زيادة قدرها 10% على الضريبة غير المدفوعة بموجب المادة 103(5)"
 
 lang: "ar"
+sourceContentHash: "ec56f6d5e38c8e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

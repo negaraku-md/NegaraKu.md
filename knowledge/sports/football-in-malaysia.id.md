@@ -41,8 +41,9 @@ faq:
     a: "Tanggal sebenarnya dipersengketakan. Sebagian catatan menempatkan pendirian badan induk nasional pada tahun 1926, sementara catatan lain merujuk 1933, ketika Football Association of Malaya yang berpangkalan di Singapura mengambil alih pengelolaan Piala Malaya. Yang jelas dan dapat dipastikan adalah perannya hari ini sebagai badan induk nasional, anggota AFC, dan pendiri AFF pada 1984."
 
 lang: "id"
+sourceContentHash: "ee9fdc30adb8894c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

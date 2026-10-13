@@ -34,8 +34,9 @@ faq:
     a: "Berdasarkan ketentuan peralihan pasal 619(3), M&A perusahaan yang ada yang berlaku pada saat dimulainya Undang-Undang terus berlaku seolah-olah dibuat berdasarkan Undang-Undang ini, kecuali perusahaan memutuskan sebaliknya. M&A itu kini menjadi konstitusi perusahaan yang bersangkutan."
 
 lang: "id"
+sourceContentHash: "99c3208a68daac93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

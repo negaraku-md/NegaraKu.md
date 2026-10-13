@@ -52,8 +52,9 @@ obligations:
     consequence: "Pelanggaran di bawah reg 12(2); pekerja dapat menuntut pernyataan dalam waktu 14 hari di bawah reg 12(3)"
 
 lang: "id"
+sourceContentHash: "2c74afc56ca4140f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

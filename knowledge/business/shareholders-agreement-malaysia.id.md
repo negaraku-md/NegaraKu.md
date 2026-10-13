@@ -42,8 +42,9 @@ verificationNeeded:
   - "Konfirmasikan biaya pengajuan SSM terkini yang berlaku bagi pengadopsian anggaran dasar perusahaan untuk pertama kali dibandingkan dengan perubahan"
 
 lang: "id"
+sourceContentHash: "feb9a1bc3f5debaf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

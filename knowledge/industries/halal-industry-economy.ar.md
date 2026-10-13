@@ -34,12 +34,13 @@ faq:
     a: "لا. يشير اعتماد الحلال إلى معايير النظافة وإمكانية التتبع والجودة، ويسوّق القطاع لكلٍّ من المستهلكين المسلمين وغير المسلمين وإلى وجهات تصديرية ذات أغلبية غير مسلمة."
 
 lang: "ar"
+sourceContentHash: "e86c482e092e1722"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

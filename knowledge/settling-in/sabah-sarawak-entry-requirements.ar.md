@@ -33,10 +33,11 @@ faq:
     a: "ليس تلقائيًا. لأن كلتا الولايتين تديران الهجرة بنفسيهما، يُعاد فحص الأجانب عند منفذ الدخول في صباح/ساراواك ويحصلون على موافقة أو تصريح ولاية منفصل."
 
 lang: "ar"
+sourceContentHash: "61e0e60b5ca388ec"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

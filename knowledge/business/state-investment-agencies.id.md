@@ -46,8 +46,9 @@ verificationNeeded:
   - "Verifikasi apakah ada peraturan pelaksana yang telah diwartakan sejak saat itu untuk menetapkan tarif JS-SEZ, National Global Services Hub, atau New Investment Incentive Framework berdasarkan s.65B Akta Cukai Pendapatan 1967"
 
 lang: "id"
+sourceContentHash: "667fe9c1898504ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

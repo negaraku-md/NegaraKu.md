@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "الورثة أو أفراد الأسرة المقرّبون أو المُبلِّغون المسؤولون عن تسجيل وفاة شخص في ماليزيا والحصول على شهادة وفاة للأمور الإدارية التي تتلوها."
 
 lang: "ar"
+sourceContentHash: "729859064dd35894"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

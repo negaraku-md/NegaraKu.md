@@ -31,8 +31,9 @@ verificationNeeded:
   - "Tất cả các con số cần được xác nhận so với Ủy ban Bầu cử Malaysia (Suruhanjaya Pilihan Raya); lưu ý rằng kết quả kiểm phiếu cuối cùng khác biệt đôi chút so với các con số trong đêm bầu cử do một ghế bị hoãn."
 
 lang: "vi"
+sourceContentHash: "acdebe065daafc2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "Di Malaysia (termasuk Johor, Melaka, Negeri Sembilan, Pahang, Sabah, dan Sarawak) dan di Indonesia (Kalimantan Barat dan Tengah)."
 
 lang: "id"
+sourceContentHash: "1a35d39eb3932506"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

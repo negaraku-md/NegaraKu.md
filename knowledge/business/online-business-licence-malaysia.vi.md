@@ -41,8 +41,9 @@ verificationNeeded:
   - "Liệu một hành vi phạm tội do văn bản dưới luật tạo ra có chịu hình phạt chung tại s.145 của Consumer Protection Act 1999 hay không — regulation 9 tạo ra hành vi phạm tội nhưng không quy định hình phạt, nên đây là một suy luận"
 
 lang: "vi"
+sourceContentHash: "b5ad7450f8460c07"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -28,8 +28,9 @@ faq:
     a: "Theo bản công bố ra mắt Key Findings của DOSM, Selangor ghi nhận số người Hồi giáo, Phật tử và tín đồ Ấn Độ giáo cao nhất trong các bang của Malaysia, còn Sarawak ghi nhận số tín đồ Cơ Đốc giáo cao nhất. Bản công bố chỉ đưa ra thứ hạng, không phải một phân chia cấp bang cho từng tôn giáo."
 
 lang: "vi"
+sourceContentHash: "9209ca0d039c5f34"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

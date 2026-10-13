@@ -34,8 +34,9 @@ faq:
     a: "Có. Trong giai đoạn nền tảng (ba đến năm năm đầu), khung của BNM giới hạn tổng tài sản của mỗi ngân hàng số ở mức không quá RM3 tỷ. Điều này cho phép BNM theo dõi hiệu quả hoạt động và rủi ro trước khi ngân hàng phát triển lớn hơn."
 
 lang: "vi"
+sourceContentHash: "586acae3d2012d4e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

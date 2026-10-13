@@ -37,12 +37,13 @@ faq:
     a: "مدفوعة من الحكومة الاتحادية إلى تيرينغانو وكلنتان مرتبطة بعائدات البترول. ويؤكّد بيان لوزارة المالية أن «وانغ إحسان» ليس مِنحة من الحكومة الاتحادية مكرَّسة في القانون — أي أنه ليس استحقاقًا يمنحه نصّ تشريعي."
 
 lang: "ar"
+sourceContentHash: "44eeeac1d9bc0d54"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

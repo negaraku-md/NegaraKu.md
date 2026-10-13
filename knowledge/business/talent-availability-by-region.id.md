@@ -47,8 +47,9 @@ verificationNeeded:
   - "Verifikasi jumlah pekerja asing berdokumen yang memegang PLKS, secara nasional dan menurut negara bagian — DOSM menerbitkan populasi non-warga negara, yang mencakup tanggungan, pelajar, penduduk tetap, dan individu tanpa dokumen"
 
 lang: "id"
+sourceContentHash: "266dea497fff19a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -57,8 +57,9 @@ obligations:
     consequence: "Kehilangan tunjangan melahirkan untuk periode sebelum pemberitahuan"
 
 lang: "id"
+sourceContentHash: "db2dc9cc0467b713"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

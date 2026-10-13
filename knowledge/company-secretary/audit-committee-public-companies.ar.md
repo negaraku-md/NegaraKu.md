@@ -43,10 +43,11 @@ verificationNeeded:
   - "الادّعاء الشائع بأن اللجنة يجب أن تجتمع بالمدقِّق الخارجي مرتين في السنة دون حضور المديرين التنفيذيين لا أساس له في الفصل 15، الذي لا يقول إلا «كلّما رُئي ذلك ضروريًّا» — وقد يكون مصدره وثيقة إرشادية لم تُسترجَع هنا"
 
 lang: "ar"
+sourceContentHash: "fc979f0822a6b94f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

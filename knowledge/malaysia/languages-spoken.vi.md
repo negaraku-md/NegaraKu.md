@@ -31,8 +31,9 @@ faq:
     a: "Có. Hệ thống giáo dục quốc gia của Malaysia bao gồm các trường loại quốc gia (Sekolah Jenis Kebangsaan) dùng tiếng Quan Thoại (SJKC) hoặc tiếng Tamil (SJKT) làm ngôn ngữ giảng dạy, bên cạnh các trường quốc gia (SK) dùng Bahasa Melayu. Cả ba đều thuộc Bộ Giáo dục và cùng một chương trình học quốc gia."
 
 lang: "vi"
+sourceContentHash: "ab65f68bd17c67a2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

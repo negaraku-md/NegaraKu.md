@@ -29,10 +29,11 @@ faq:
     a: "غرامة تصل إلى RM200,000 أو السجن حتى ثلاث سنوات، أو كليهما."
 
 lang: "ar"
+sourceContentHash: "f80441a5c89e8b43"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

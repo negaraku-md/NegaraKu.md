@@ -31,10 +31,11 @@ faq:
     a: "يعتمد ذلك على الموقع. الحدائق البحرية في شبه جزيرة ماليزيا ولابوان اتحادية، تديرها دائرة مصايد الأسماك الماليزية بموجب قانون المصايد لسنة 1985. أمّا الحدائق في صباح، ومنها سيبادان، فتديرها هيئة حدائق صباح التابعة للولاية بموجب قانون ولائي منفصل."
 
 lang: "ar"
+sourceContentHash: "4a736d507026f7b4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

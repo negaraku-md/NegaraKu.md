@@ -24,10 +24,11 @@ appliesTo: "أصحاب الأعمال لأول مرة في ماليزيا الذ
 verificationNeeded: []
 
 lang: "ar"
+sourceContentHash: "5417c396f8f77b23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

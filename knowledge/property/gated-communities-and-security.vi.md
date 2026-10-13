@@ -27,8 +27,9 @@ faq:
     a: "Hiệp hội cư dân là một hội đoàn đăng ký theo Luật Hội đoàn 1966 (Societies Act 1966), không phải cơ quan theo luật định — nó không có quyền tương đương một Ban Quản lý Chung hay Tập đoàn Quản lý để buộc phải trả tiền. Tòa án đã cho phép một hiệp hội cư dân yêu cầu một cư dân không đóng tiền tự vận hành barie dùng chung, nhưng việc từ chối thẳng thừng không cho cư dân vào có nguy cơ trở thành một hành vi gây phiền nhiễu có thể bị kiện."
 
 lang: "vi"
+sourceContentHash: "03cf0cac851c0421"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

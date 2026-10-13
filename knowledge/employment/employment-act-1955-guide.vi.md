@@ -66,8 +66,9 @@ obligations:
     consequence: "Tội theo s.91"
 
 lang: "vi"
+sourceContentHash: "61d3ae24699dff11"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

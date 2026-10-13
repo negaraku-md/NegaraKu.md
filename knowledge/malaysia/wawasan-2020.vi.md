@@ -32,8 +32,9 @@ faq:
     a: "Wawasan Kemakmuran Bersama 2030 (WKB 2030) được công bố vào tháng 10 năm 2019 như một tầm nhìn kế nhiệm tập trung vào sự thịnh vượng công bằng cho giai đoạn 2021 đến 2030."
 
 lang: "vi"
+sourceContentHash: "d7d57585a7686755"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

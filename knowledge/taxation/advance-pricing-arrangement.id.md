@@ -63,8 +63,9 @@ obligations:
     consequence: "Pembatalan pengaturan di bawah rule 18(1)(c)"
 
 lang: "id"
+sourceContentHash: "bb70ed44534a20cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

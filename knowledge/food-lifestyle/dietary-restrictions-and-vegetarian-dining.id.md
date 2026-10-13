@@ -29,8 +29,9 @@ faq:
     a: "Ya. Banyak warga Malaysia beretnis Hindu tidak makan daging sapi, sehingga menu tanpa daging sapi lazim, dan kebanyakan restoran vegetarian India sama sekali tidak menyajikan daging. Menu Tionghoa dan Melayu memang menggunakan daging sapi, jadi periksa hidangan jika Anda menghindarinya."
 
 lang: "id"
+sourceContentHash: "b8a6bb42bf674ded"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

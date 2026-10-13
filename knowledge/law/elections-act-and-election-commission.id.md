@@ -32,8 +32,9 @@ faq:
     a: "Tidak. Pasal 114(3) menetapkan bahwa anggota SPR tidak dapat diberhentikan dari jabatan kecuali atas alasan dan mengikut cara yang sama seperti seorang hakim Mahkamah Persekutuan, suatu perlindungan yang bertujuan menyokong independensi komisi."
 
 lang: "id"
+sourceContentHash: "4ee6643ef314a576"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

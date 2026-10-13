@@ -30,10 +30,11 @@ faq:
     a: "عامِلها بوصفها ترجمة، لا مصدرًا. فصفحات LHDN باللغة الإنجليزية مترجمة آليًا وتتضمّن أخطاءً مؤكّدة تقلب المعنى. ولأيّ أمر جوهري، اقرأ الصفحة الملايوية الأصلية واقتبس منها."
 
 lang: "ar"
+sourceContentHash: "558a5f369fe484be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

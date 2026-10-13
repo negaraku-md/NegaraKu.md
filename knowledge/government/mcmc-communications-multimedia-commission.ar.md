@@ -34,10 +34,11 @@ faq:
     a: "تنص المادة 126(2) على أن أي شخص يملك أو يقدّم مرفق شبكة أو خدمة شبكة أو خدمة تطبيقات دون ترخيص صالح يرتكب جريمة، ويجوز عند إدانته أن يتعرّض لغرامة لا تتجاوز RM500,000 أو السجن مدة لا تتجاوز خمس سنوات أو كليهما، إلى جانب غرامة إضافية قدرها RM1,000 عن كل يوم تستمر فيه الجريمة بعد الإدانة."
 
 lang: "ar"
+sourceContentHash: "f7de1e94c09f1ce3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

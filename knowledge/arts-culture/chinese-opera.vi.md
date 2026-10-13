@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu các loại hí kịch truyền thống của người Hoa Malaysia, cũng như vai trò của «hí tạ thần» trong hội đền miếu và lễ hội."
 
 lang: "vi"
+sourceContentHash: "13b9c7f4fc9cc94d"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

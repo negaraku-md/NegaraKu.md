@@ -33,8 +33,9 @@ verificationNeeded:
   - "TEKUN tidak menerbitkan penanda buka atau tutup untuk setiap skema, dan angka Ar Rahnu-nya cacat secara tipografi pada halaman langsung"
 
 lang: "id"
+sourceContentHash: "3e2ae8690cffc294"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

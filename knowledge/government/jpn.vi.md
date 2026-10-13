@@ -31,8 +31,9 @@ faq:
     a: "Không hoàn toàn. Cổng JPN liệt kê dịch vụ khai sinh và khai tử riêng cho Bán đảo, Sabah và Sarawak, với các nhóm đơn và tham chiếu pháp luật khác nhau. Bản thân Luật Đăng ký Quốc gia 1959 bắt đầu có hiệu lực vào các ngày khác nhau ở mỗi lãnh thổ. Hãy xác nhận mẫu đơn theo lãnh thổ nơi sự kiện đó được đăng ký."
 
 lang: "vi"
+sourceContentHash: "c1ba766163b08209"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

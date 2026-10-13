@@ -18,9 +18,10 @@ keyTakeaways:
   - "تلاشت من السجلات نحو القرن الخامس عشر، وانصهرت في دول خلَف مثل دائرة نفوذ أيوتثايا (Ayutthaya)"
 appliesTo: "القرّاء المهتمون بما كان قائمًا في شبه جزيرة الملايو قبل ملقا، وبمقدار ما هو محسوم فعلًا من ذلك التاريخ المبكر مقابل ما لا يزال محلّ نقاش."
 lang: "ar"
+sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

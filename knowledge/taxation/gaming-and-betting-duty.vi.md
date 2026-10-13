@@ -29,8 +29,9 @@ faq:
     a: "Đối với một khoản cá cược Sports Toto RM2, 8% (16 sen) được trích làm thuế trò chơi và thêm 8% (14.72 sen) làm thuế cá cược pool; khoảng 55% (RM1.10) được phân bổ làm tiền thưởng."
 
 lang: "vi"
+sourceContentHash: "156aadc5edee33a0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn biết, theo từng quy định, thực sự cần gì ở Nghị viện để thay đổi một phần nhất định của Hiến pháp Liên bang."
 
 lang: "vi"
+sourceContentHash: "34255dffcbbb4b20"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

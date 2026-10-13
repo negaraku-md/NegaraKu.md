@@ -30,8 +30,9 @@ faq:
     a: "Melanggar Pasal 28 adalah pelanggaran yang dapat didenda tidak melebihi RM50,000 (Pasal 28(8)). Penyampaian terlambat setelah 30 hari juga dikenai biaya penyampaian terlambat."
 
 lang: "id"
+sourceContentHash: "fe0af342a9f2c24f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

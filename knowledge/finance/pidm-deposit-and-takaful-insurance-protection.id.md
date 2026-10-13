@@ -37,8 +37,9 @@ faq:
     a: "Jika sebuah bank anggota gagal, PIDM membayar kembali deposan yang layak hingga batas RM250,000. Jika penanggung asuransi anggota gagal, PIDM baik mengatur kesinambungan perlindungan Anda atau membayar manfaat yang dilindungi hingga batas yang berlaku."
 
 lang: "id"
+sourceContentHash: "6dadc68b3f5258f8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

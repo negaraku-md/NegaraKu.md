@@ -33,8 +33,9 @@ faq:
     a: "Ya. Pasal 29A melarang pembakaran terbuka di tempat mana pun dan dapat dikenai denda hingga RM500,000 atau penjara hingga 5 tahun atau keduanya. Pemilik atau penghuni tempat dianggap bertanggung jawab kecuali dibuktikan sebaliknya (Pasal 29B)."
 
 lang: "id"
+sourceContentHash: "cd3834c25795a67e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

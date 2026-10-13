@@ -41,8 +41,9 @@ verificationNeeded:
   - "Đầu tư được phê duyệt của Perak cho cả năm 2024 và 2025 và thứ hạng của nó — MIDA chỉ nêu tên năm bang hàng đầu"
 
 lang: "vi"
+sourceContentHash: "b417e9b08cc2755f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

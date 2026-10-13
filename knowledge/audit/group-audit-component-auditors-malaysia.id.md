@@ -30,8 +30,9 @@ faq:
     a: "Jika akses ke informasi komponen atau auditor dibatasi dan komponen tersebut signifikan, auditor grup mungkin tidak dapat memperoleh bukti yang cukup dan tepat, yang dapat membawa pada opini wajar dengan pengecualian atau opini tidak menyatakan pendapat atas laporan keuangan grup."
 
 lang: "id"
+sourceContentHash: "871221203173410a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

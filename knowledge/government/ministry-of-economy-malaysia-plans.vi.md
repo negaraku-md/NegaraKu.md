@@ -35,8 +35,9 @@ faq:
     a: "Không. Kế hoạch Malaysia được trình như một kiến nghị chính sách để Nghị viện tranh luận và thông qua, không phải như một dự luật giống Dự luật Cấp phát tạo cơ sở cho Ngân sách hằng năm."
 
 lang: "vi"
+sourceContentHash: "6ea99ed513582ab7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

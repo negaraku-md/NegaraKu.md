@@ -29,8 +29,9 @@ faq:
     a: "Jika manajemen tidak memberikan representasi yang diwajibkan paragraf 10 dan 11, auditor harus tidak menyatakan pendapat atas laporan keuangan menurut ISA 705 (paragraf 20)."
 
 lang: "id"
+sourceContentHash: "b4dce9895318e6f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

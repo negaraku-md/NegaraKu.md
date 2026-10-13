@@ -43,8 +43,9 @@ verificationNeeded:
   - "Số hàng tối đa được chấp nhận trong bảng tính tải lên hàng loạt của MyInvois Portal — LHDN mô tả một số nhất định mà không nêu nó"
 
 lang: "vi"
+sourceContentHash: "12fac171732261f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

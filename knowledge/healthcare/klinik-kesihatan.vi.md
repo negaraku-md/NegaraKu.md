@@ -26,8 +26,9 @@ verificationNeeded:
   - "Sự khác biệt chi tiết giữa Klinik Kesihatan, Klinik Komuniti và Klinik Desa về nhân sự và phạm vi điều trị chính xác không thể xác minh đầy đủ trên nguồn chính thức của KKM tại thời điểm soạn thảo; bài viết này chỉ nêu rằng cả ba đều là các cơ sở riêng biệt."
 
 lang: "vi"
+sourceContentHash: "a763d53f069e94c3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

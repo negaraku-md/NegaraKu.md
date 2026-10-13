@@ -32,8 +32,9 @@ faq:
     a: "Di antara yang paling menonjol adalah Cheah Liek Hou (bulu tangkis SU5, emas Tokyo 2020 dan Paris 2024), Bonnie Bunyau Gustin (angkat berat, emas Tokyo 2020 dan Paris 2024) dan Abdul Latif Romly (lompat jauh T20, emas Rio 2016 dan Tokyo 2020)."
 
 lang: "id"
+sourceContentHash: "1cf985c7e961d813"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

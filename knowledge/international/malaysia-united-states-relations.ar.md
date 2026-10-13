@@ -32,10 +32,11 @@ faq:
     a: "قدّر مكتب الممثل التجاري للولايات المتحدة (USTR) إجمالي التجارة السلعية الثنائية بنحو US$88.5 مليار في 2025 (US$28.9 مليار صادرات أمريكية، وUS$59.7 مليار واردات). وكانت بيانات مكتب تعداد الولايات المتحدة قد قدّرت التجارة السلعية الثنائية لعام 2024 بقرابة US$80 مليار، فيما استشهدت وزارة الخارجية الماليزية بإجمالي تجارة قدره RM324.91 مليار (US$71.39 مليار) لعام 2024."
 
 lang: "ar"
+sourceContentHash: "6acdeba029dc19eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

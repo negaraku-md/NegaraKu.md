@@ -31,8 +31,9 @@ faq:
     a: "GSH menggunakan syarat berbasis hasil dan bukan satu ambang tetap tunggal. Sebuah perusahaan wajib didirikan di Malaysia, menjalankan layanan yang layak, dan berkomitmen pada sasaran atas belanja operasi tahunan, jumlah pekerja penuh waktu bernilai tinggi, perekrutan C-suite senior, penggunaan layanan pendukung lokal, kerja sama dengan institusi pendidikan lokal, pelatihan rakyat Malaysia, dan elemen lingkungan, sosial, dan tata kelola. Kinerja ditinjau, dan insentif dapat ditarik kembali jika syarat tidak dipenuhi."
 
 lang: "id"
+sourceContentHash: "1d7afd9b7e62d44a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

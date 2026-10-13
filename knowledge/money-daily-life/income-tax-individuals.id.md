@@ -27,8 +27,9 @@ verificationNeeded:
   - "Tenggat pengajuan tahunan (30 April manual / 15 Mei e-Filing) diverifikasi bagi Tahun Penilaian 2025 melalui pernyataan media bertanggal LHDN sendiri; LHDN menerbitkan program pengajuan baru setiap tahun, jadi periksa kembali tanggal tahun berjalan sebelum bergantung padanya bagi tahun penilaian yang berbeda."
 
 lang: "id"
+sourceContentHash: "027e674e99f0cfb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

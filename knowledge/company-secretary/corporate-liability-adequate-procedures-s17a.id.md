@@ -35,8 +35,9 @@ faq:
     a: "Tidak ada daftar periksa tetap, tetapi Panduan GIACC mengenai Prosedur Memadai menggariskan lima prinsip yang dikenal dengan akronim T.R.U.S.T. yang kemungkinan akan dipertimbangkan oleh pengadilan saat memutuskan apakah prosedur itu memadai."
 
 lang: "id"
+sourceContentHash: "6d976fa3bddc473d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

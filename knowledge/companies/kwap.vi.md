@@ -29,8 +29,9 @@ faq:
     a: "RM185.6 tỷ vào ngày 31 tháng 12 năm 2024, tăng từ RM169.8 tỷ (2023) và RM158.1 tỷ (2022)."
 
 lang: "vi"
+sourceContentHash: "4489ae23d6537356"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -58,8 +58,9 @@ obligations:
     consequence: "Jika melewati batas waktu, Direktur Jenderal tidak memiliki kewenangan untuk mengesampingkan keputusan"
 
 lang: "id"
+sourceContentHash: "8ee48ba95a64ad88"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

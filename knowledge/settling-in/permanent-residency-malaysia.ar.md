@@ -34,10 +34,11 @@ faq:
     a: "نعم. يجب تقديم الطعن إلى وزير الداخلية خلال 30 يومًا من تاريخ خطاب الرفض، مرفقًا بخطاب طعن وخطاب الرفض والمستندات الداعمة."
 
 lang: "ar"
+sourceContentHash: "d074952166cefba5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

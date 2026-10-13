@@ -45,8 +45,9 @@ verificationNeeded:
   - "Halaman insentif ECERDC sendiri di ecerdc.com.my mengembalikan 404, jadi pernyataan terkini ECERDC mengenai jalur insentifnya sendiri tidak dapat diperoleh."
 
 lang: "id"
+sourceContentHash: "b4e723b19c6d6a1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

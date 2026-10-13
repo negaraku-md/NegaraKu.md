@@ -49,10 +49,11 @@ verificationNeeded:
   - "تأكّد من تاريخ الإطلاق الرسمي للسكة المزدوجة المكهربة من غيماس (Gemas) إلى جوهور بهرو وتكلفة المشروع — لم يُعثَر على أي منهما"
 
 lang: "ar"
+sourceContentHash: "300ad373430dce8b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

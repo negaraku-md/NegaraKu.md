@@ -31,8 +31,9 @@ verificationNeeded:
   - "Các ngày tháng và số liệu nghị sĩ chính xác (những người đào nhiệm, các cuộc tham vấn của Quốc vương) cần được xác nhận với hồ sơ chính thức và tường thuật đương thời; các nguồn khác nhau đôi chút về ngày chính xác của cuộc gặp tại khách sạn (21–23 tháng 2)."
 
 lang: "vi"
+sourceContentHash: "d475393c9a7ff6eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,12 +31,13 @@ faq:
     a: "لا تُقام الإجراءات ضد حاكم بصفته الشخصية إلا أمام المحكمة الخاصة المُنشأة بموجب المادة 182، وتخضع لموافقة النائب العام (Peguam Negara)."
 
 lang: "ar"
+sourceContentHash: "3f9c93463dcbf28a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

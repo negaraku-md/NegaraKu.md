@@ -47,8 +47,9 @@ obligations:
     consequence: "Pelanggaran di bawah s.120(1); pengecualian dua tahun dalam s.107C(4A) tidak berlaku bagi LLP"
 
 lang: "id"
+sourceContentHash: "0632dd55307e891f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

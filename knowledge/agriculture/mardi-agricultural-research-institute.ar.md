@@ -31,10 +31,11 @@ faq:
     a: "من بين كثير غيرها، أطلق MARDI سلسلة MR (مثل MR 297 وMR 219)، وأصناف MRQ العطرية، وKADARIA 1، أول أرز هجين في ماليزيا."
 
 lang: "ar"
+sourceContentHash: "29fcbde70a256bf1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

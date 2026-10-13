@@ -33,8 +33,9 @@ faq:
     a: "Cục Thống kê Malaysia (DOSM) công bố Tài khoản Vệ tinh ICT hằng năm (bản phát hành Kinh tế Số Malaysia), thiết lập đóng góp của ICT và thương mại điện tử vào GDP. DOSM cũng thực hiện Báo cáo Sử dụng và Truy cập ICT cho các con số thâm nhập hộ gia đình và cá nhân. Tỷ lệ thâm nhập băng thông rộng được công bố riêng bởi Ủy ban Truyền thông và Đa phương tiện Malaysia (SKMM/MCMC)."
 
 lang: "vi"
+sourceContentHash: "9a3a89f709e2b7ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

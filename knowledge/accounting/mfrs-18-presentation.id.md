@@ -42,8 +42,9 @@ verificationNeeded:
   - "Verifikasi apakah Bursa Malaysia akan mengeluarkan panduan transisi bagi pelaporan kuartalan pada tahun pertama MFRS 18"
 
 lang: "id"
+sourceContentHash: "542671cd3c464e38"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

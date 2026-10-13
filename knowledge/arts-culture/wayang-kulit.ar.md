@@ -30,9 +30,10 @@ faq:
     a: "في المهرجانات الثقافية وبرامج المتاحف والتراث والعروض السياحية في الغالب، لا بوصفه ترفيهاً قروياً. والإدارة الوطنية للثقافة والفنون والهيئات الثقافية الولائية هي نقطة البداية العملية للعثور على عروض مجدوَلة."
 
 lang: "ar"
+sourceContentHash: "d4cb6805f330e418"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

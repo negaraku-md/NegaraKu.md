@@ -36,8 +36,9 @@ faq:
     a: "Tidak. Pada 7 Maret 2026, CelcomDigi dan Maxis masing-masing menyelesaikan pembelian saham Kementerian Keuangan dalam DNB berjumlah RM327,872,640.28, menandai pemerintah keluar dari bisnis grosir 5G dan menjadikan DNB entitas milik swasta sepenuhnya yang dimiliki oleh perusahaan telko dan YTL."
 
 lang: "id"
+sourceContentHash: "c56c91a9d7764362"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "Arahan Menteri 21 Juni 2024 dan alokasi tepat 700MHz (2×20MHz) / 3.5GHz (100MHz) saat ini bergantung pada laporan SoyaCincau; pastikan terhadap PDF siaran pers utama dan FAQ MCMC."

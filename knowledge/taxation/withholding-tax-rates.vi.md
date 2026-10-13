@@ -48,8 +48,9 @@ obligations:
     consequence: "Số tiền chưa trả bị tăng thêm 10 phần trăm và chi phí bị không cho phép theo s.39(1)(f), (i) hoặc (j)"
 
 lang: "vi"
+sourceContentHash: "091d81b974b404be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

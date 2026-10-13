@@ -33,8 +33,9 @@ faq:
     a: "Nói chung, tổng chi phí niêm yết dao động từ khoảng RM3 triệu đến RM7 triệu cho ACE Market và trên RM5 triệu cho Main Market, tùy quy mô và độ phức tạp. Điều này bao gồm phí bảo lãnh phát hành, phân phối và môi giới (thường là 1% đến 3% giá trị cổ phiếu), phí chuyên môn, và phí quản lý phải trả cho Securities Commission (Main Market) hoặc Bursa Malaysia (ACE Market)."
 
 lang: "vi"
+sourceContentHash: "4baad2385800a2d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

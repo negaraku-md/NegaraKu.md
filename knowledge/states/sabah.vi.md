@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Người đọc tìm một hồ sơ dựa trên sự kiện về Sabah — địa lý, kinh tế và chính quyền của nó — và một trình bày trung lập về vị thế hiến pháp của nó theo Thỏa thuận Malaysia 1963."
 
 lang: "vi"
+sourceContentHash: "d05db2b4db752c79"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

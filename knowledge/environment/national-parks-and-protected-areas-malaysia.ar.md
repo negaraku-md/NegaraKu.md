@@ -34,10 +34,11 @@ faq:
     a: "تحظر المادة 10 من قانون الحدائق الوطنية 1980 التعدين والتنقيب داخل حديقة وطنية، إلا إذا رأت السلطة في الولاية، بعد التشاور مع الوزير، وجود راسب معدني غنيّ على نحو استثنائي."
 
 lang: "ar"
+sourceContentHash: "1f3622365daf3410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -65,8 +65,9 @@ obligations:
     consequence: "Pemberitahuan tidak lengkap"
 
 lang: "id"
+sourceContentHash: "69d11280d19d99c8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

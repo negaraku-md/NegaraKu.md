@@ -32,8 +32,9 @@ verificationNeeded:
   - "Target akhir 2026 RTS Link adalah target yang dinyatakan sendiri oleh operator sampai penulisan ini dan perlu dipastikan ulang lebih dekat dengan penerbitan, mengingat pembukaan infrastruktur lintas batas lazimnya tergelincir."
 
 lang: "id"
+sourceContentHash: "cd13a733d0e3f471"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

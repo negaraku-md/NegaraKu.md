@@ -38,8 +38,9 @@ verificationNeeded:
   - "Ukuran (jumlah staf) aktual terkini layanan sipil Malaysia — angka yang tepat dan bertanggal terkini tidak dapat diverifikasi pada laman resmi mana pun pada saat penulisan."
 
 lang: "id"
+sourceContentHash: "89bfb5455655a271"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

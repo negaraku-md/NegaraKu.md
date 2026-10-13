@@ -28,10 +28,11 @@ faq:
     a: "لا. استضافت سيبانغ جائزة فورمولا 1 الكبرى حتى عام 2017؛ وتركّز الحلبة الآن على MotoGP وفعاليات رياضة السيارات الأخرى."
 
 lang: "ar"
+sourceContentHash: "e8c2bc7d28bb0f71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

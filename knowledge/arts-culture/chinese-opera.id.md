@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami jenis-jenis wayang Tionghoa tradisional di Malaysia, serta peran 「wayang syukur dewa」 (酬神戏) dalam pesta kelenteng dan perayaan."
 
 lang: "id"
+sourceContentHash: "13b9c7f4fc9cc94d"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

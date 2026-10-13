@@ -16,10 +16,11 @@ answer: "تُستبعَد أربع فئات من الإعفاء من التدق�
 verificationNeeded: []
 
 lang: "ar"
+sourceContentHash: "776ac8951ed8d754"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

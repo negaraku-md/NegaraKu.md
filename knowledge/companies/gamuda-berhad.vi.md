@@ -32,8 +32,9 @@ faq:
     a: "Các thị trường nước ngoài chính của tập đoàn là Úc và Đài Loan trong lĩnh vực xây dựng, và Việt Nam, Anh, Singapore và Úc trong lĩnh vực bất động sản."
 
 lang: "vi"
+sourceContentHash: "09f7639abce305e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -17,9 +17,10 @@ keyTakeaways:
   - "يُوصف براميسوارا، مؤسِّس سلطنة ملقا نحو عام 1400، في التقليد الملايوي ومن قِبل حكومة ولاية ملقا نفسها بوصفه أميرًا من باليمبانغ — المقر السابق لسريفيجايا"
 appliesTo: "القرّاء الراغبون في فهم ما الذي حكم مضيق ملقا قبل أن تحكمه ملقا، وكيف انتهت قوة بحرية مقرّها سومطرة إلى أن تصبّ مباشرةً في التاريخ الملكي لشبه جزيرة الملايو نفسها."
 lang: "ar"
+sourceContentHash: "9c0d3b0b3dd803ef"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

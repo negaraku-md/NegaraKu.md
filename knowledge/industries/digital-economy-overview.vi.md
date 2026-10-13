@@ -37,8 +37,9 @@ faq:
     a: "DE Rantau là một chương trình xúc tác của Malaysia Digital nhằm biến Malaysia thành một trung tâm du mục số ở ASEAN. Nó cấp Malaysia Digital Nomad Pass, có hiệu lực đến 12 tháng và có thể gia hạn."
 
 lang: "vi"
+sourceContentHash: "bfede7bb53cd6174"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

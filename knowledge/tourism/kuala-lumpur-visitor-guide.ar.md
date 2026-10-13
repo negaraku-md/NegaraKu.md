@@ -36,10 +36,11 @@ faq:
     a: "غطِّ كتفيك وركبتيك. وعادةً ما تتوفر أزرة (سارونغ) للاستعارة أو الاستئجار عند المدخل إذا كان لباسك مكشوفاً أكثر من اللازم. والأحذية المريحة تساعد في الدرج الطويل الصاعد إلى كهف المعبد الرئيسي."
 
 lang: "ar"
+sourceContentHash: "2716ca2d76a67d28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

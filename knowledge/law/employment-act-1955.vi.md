@@ -33,8 +33,9 @@ verificationNeeded:
   - "Xác nhận văn kiện chính xác về ngày có hiệu lực của Act A1651 so với Công báo Liên bang; sổ nguồn của dự án ghi nhận P.U.(B) 394/2022 cho ngày 1 January 2023."
 
 lang: "vi"
+sourceContentHash: "ab52798a8bfb6a2f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

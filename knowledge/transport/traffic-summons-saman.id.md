@@ -30,8 +30,9 @@ faq:
     a: "Menurut JPJ, notis AwAS yang tidak dibereskan dalam masa 60 hari dari tanggal dikeluarkan dapat membawa ke tindakan pengadilan, dengan denda antara RM300 hingga RM2,000 jika terbukti bersalah."
 
 lang: "id"
+sourceContentHash: "b08ee8ca24ef947b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

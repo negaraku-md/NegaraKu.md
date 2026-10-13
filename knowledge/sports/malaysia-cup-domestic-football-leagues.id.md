@@ -31,8 +31,9 @@ faq:
     a: "MFL mengalihkan kalender agar sejalan dengan format AFC. Musim baru dimulai Mei 2024 dan berakhir April 2025, dengan mempertimbangkan Piala Asia AFC, kualifikasi Piala Dunia 2026, dan bulan Ramadan."
 
 lang: "id"
+sourceContentHash: "fdb11bb0fa6c116e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

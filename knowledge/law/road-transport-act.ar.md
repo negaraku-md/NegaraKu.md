@@ -31,10 +31,11 @@ faq:
     a: "ينشئ المخالفات والعقوبات القصوى التي حدَّدها البرلمان لكل منها، لكن الأرقام الدقيقة تُعدَّل كثيرًا بموجب التشريعات الفرعية والإشعارات الإدارية (مثل نظام المخالفات المركّبة AWAS). ولهذا السبب لا تستنسخ هذه الصفحة مبالغ غرامات محددة — راجِع الجداول المنشورة الخاصة بـ JPJ للأرقام الحالية."
 
 lang: "ar"
+sourceContentHash: "082c1821680b3184"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "مستخدمو الطرق السريعة في مواسم الأعياد، ومخططو السفر والإجازات، وأعمال التجزئة والنقل، وكل من يحاول فهم أنماط حركة السكان في ماليزيا."
 
 lang: "ar"
+sourceContentHash: "351c6944deba025a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -34,8 +34,9 @@ faq:
     a: "Pada 2024, jasa menarik RM252.7 miliar investasi yang disetujui (66.8% dari jumlah keseluruhan) dan manufaktur RM120.5 miliar (31.8%), dari rekor RM378.5 miliar secara keseluruhan (MIDA)."
 
 lang: "id"
+sourceContentHash: "fd46cc26349bd735"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

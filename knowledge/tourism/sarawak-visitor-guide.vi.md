@@ -36,8 +36,9 @@ faq:
     a: "Cả hai đều tồn tại. Những nơi như Annah Rais gần Kuching là các cộng đồng nhà dài Bidayuh còn sinh sống nơi các gia đình vẫn cư trú, trong khi Sarawak Cultural Village gần Santubong là một bảo tàng sống được xây dựng chuyên biệt. Thăm một nhà dài đang sinh hoạt tốt nhất được sắp xếp trước và thường qua một hướng dẫn viên có thể diễn giải chuyến thăm một cách tôn trọng."
 
 lang: "vi"
+sourceContentHash: "484f5ee1df5a2a08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

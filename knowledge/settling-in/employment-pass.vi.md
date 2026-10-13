@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Người nước ngoài có một lời mời làm việc tại Malaysia, và bất kỳ ai đã giữ hoặc đang gia hạn một Employment Pass tại Malaysia."
 
 lang: "vi"
+sourceContentHash: "1684527edc9ec752"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

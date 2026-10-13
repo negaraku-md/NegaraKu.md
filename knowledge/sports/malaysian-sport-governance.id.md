@@ -38,8 +38,9 @@ faq:
     a: "Institut Sukan Negara (ISN). Ia diletakkan di atas landasan undang-undang oleh National Sports Institute Act 2011 [Act 729] dan berfungsi menyediakan layanan, nasihat dan konsultasi sains olahraga serta kedokteran olahraga, menjalankan penelitian, dan menasihati Menteri tentang aspek saintifik prestasi atlet."
 
 lang: "id"
+sourceContentHash: "6410f4b09d840cf0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -36,8 +36,9 @@ faq:
     a: "Arahan Praktik 10/2024 secara khusus tidak berlaku untuk perusahaan swasta yang merupakan anak perusahaan dari perusahaan publik, perusahaan publik termasuk perusahaan tercatat, perusahaan asing, dan exempt private company yang telah memilih untuk menyampaikan sertifikat status berdasarkan Pasal 260 CA 2016."
 
 lang: "id"
+sourceContentHash: "1f9465f320d07544"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

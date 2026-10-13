@@ -28,8 +28,9 @@ faq:
   - q: "Berapa besar belanjawan Kementerian Pendidikan?"
     a: "Di bawah Belanjawan 2026, KPM menerima RM66.2 miliar — alokasi terbesar dibandingkan kementerian federal mana pun — meningkat dari RM64.2 miliar pada 2025. Alokasi itu termasuk hampir RM2 miliar untuk menaikkan taraf lebih dari 520 buah sekolah usang dan membangun 38 buah sekolah baru."
 lang: "id"
+sourceContentHash: "4f75b1390b41bfeb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

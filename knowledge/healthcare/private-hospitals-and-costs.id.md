@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa pun di Malaysia yang berhadapan dengan konsultasi spesialis atau rawat inap rumah sakit di sebuah fasilitas swasta — pasien, pengasuh, dan pekerja yang bergantung pada kartu medis atau asuransi yang disediakan pemberi kerja."
 
 lang: "id"
+sourceContentHash: "ae428a676e96d0c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

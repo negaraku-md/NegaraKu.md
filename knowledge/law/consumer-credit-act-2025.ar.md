@@ -33,10 +33,11 @@ faq:
     a: "نعم. بموجب قانون البيع بالتقسيط لسنة 1967، الحد الأدنى للدفعة المقدمة هو 10% من السعر النقدي، وإن جاز للمموّلين تحديد مبلغ أعلى."
 
 lang: "ar"
+sourceContentHash: "2d6f10d61a0f1ec1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

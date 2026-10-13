@@ -26,8 +26,9 @@ verificationNeeded:
   - "Việc liệu có bất kỳ khấu trừ vốn tăng tốc hay nâng cao nào cụ thể cho việc mua (thay vì thuê) xe điện đã được đăng công báo hay không — không tìm thấy công cụ nào như vậy trong cơ sở dữ liệu pháp luật cấp dưới của AGC."
 
 lang: "vi"
+sourceContentHash: "9f0ef46f2f698cad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,10 +30,11 @@ faq:
     a: "PETRA (وزارة انتقال الطاقة وتحويل المياه) هي الوزارة التي تصوغ سياسة الطاقة والمياه الوطنية. أما لجنة الطاقة فهي الهيئة القانونية المنظِّمة التي تنفّذ قوانين توريد الطاقة وتُعنيها. وبموجب المادة 16 من Act 610، تخضع ST للمساءلة أمام الوزير وعليها تنفيذ التوجيهات ذات الطابع العام الصادرة عن الوزير."
 
 lang: "ar"
+sourceContentHash: "0a1f3c6792f9255a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -33,8 +33,9 @@ faq:
   - q: "Apa yang terjadi pada kedua kelompok itu pada akhirnya?"
     a: "Baik Negeri-Negeri Melayu Bersekutu maupun Tidak Bersekutu dibubarkan ke dalam Malayan Union pada 1 April 1946, yang sendirinya digantikan dalam beberapa tahun oleh Persekutuan Tanah Melayu."
 lang: "id"
+sourceContentHash: "3bcc3b32fd59d463"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

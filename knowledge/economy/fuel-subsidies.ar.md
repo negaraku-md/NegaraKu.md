@@ -33,10 +33,11 @@ faq:
     a: "يتفاوت حسب أسعار السوق. فقد بلغ عبء دعم RON95 والديزل نحو RM0.7 مليار في يناير 2026 وبلغ ذروته عند RM7.5 مليار في أبريل 2026، قبل أن يُتوقَّع عند نحو RM3.5 مليار شهرياً في يونيو 2026."
 
 lang: "ar"
+sourceContentHash: "4d77f16bdf432b0a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

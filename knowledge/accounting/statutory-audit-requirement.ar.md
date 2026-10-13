@@ -37,10 +37,11 @@ faq:
     a: "يجوز لمدقق الحسابات أن يستقيل عبر إشعار كتابي إلى المكتب المسجَّل للشركة (المادة 281)؛ وتنتهي مدة توليه المنصب بعد 21 يومًا من تقديم الإشعار أو في تاريخ لاحق محدد، أيهما أبعد. ويجوز للأعضاء عزل مدقق الحسابات في أي وقت بقرار عادي في اجتماع عام (المادة 276)، لكن يلزم إشعار خاص لذلك (المادة 277)."
 
 lang: "ar"
+sourceContentHash: "005bacdce3786440"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

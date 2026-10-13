@@ -31,9 +31,10 @@ faq:
   - q: "لماذا تحتل آسيان هذه المركزية في السياسة الخارجية لماليزيا؟"
     a: "ماليزيا عضو مؤسس في آسيان (8 أغسطس 1967). والعمل الجماعي عبر آسيان يمنح دولة متوسطة الحجم تعتمد على التجارة صوتًا أقوى في إدارة العلاقات مع القوى الكبرى مما كان سيكون لها بمفردها — ولهذا تُعامَل مركزية آسيان بوصفها حجر الزاوية في السياسة."
 lang: "ar"
+sourceContentHash: "0119cb2bc48cc9ad"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -34,8 +34,9 @@ faq:
     a: "Pasal 2 mendefinisikan hak asasi manusia sebagai kebebasan dasar sebagaimana termaktub dalam Bagian II Konstitusi Federal. Pasal 4(4) menambahkan bahwa Deklarasi Universal Hak Asasi Manusia 1948 harus diperhatikan sejauh tidak bertentangan dengan Konstitusi Federal."
 
 lang: "id"
+sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

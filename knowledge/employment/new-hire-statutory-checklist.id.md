@@ -77,8 +77,9 @@ verificationNeeded:
   - "Pastikan rincian terkini yang ditetapkan bagi daftar s.61 terhadap Employment Regulations yang berlaku"
 
 lang: "id"
+sourceContentHash: "84b81bd01d8b6ae2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

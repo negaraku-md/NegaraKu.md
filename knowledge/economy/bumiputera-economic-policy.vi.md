@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Học sinh sinh viên, nhà phân tích chính sách, nhà báo và bất kỳ ai muốn hiểu tính liên tục của các mục tiêu chính sách kinh tế Bumiputera từ DEB đến kế hoạch hiện hành."
 
 lang: "vi"
+sourceContentHash: "0cfaf6ebc14f819b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

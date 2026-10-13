@@ -31,10 +31,11 @@ faq:
     a: "تُدرج JBPM كدائرة تابعة لوزارة الإسكان والحكومة المحلية (KPKT). ويُعاد تنظيم الحقائب الوزارية في ماليزيا من وقت لآخر، لذا تأكد من الترتيب الحالي على kpkt.gov.my أو bomba.gov.my قبل الاعتماد عليه في الوثائق الرسمية."
 
 lang: "ar"
+sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

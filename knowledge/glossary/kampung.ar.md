@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "كل من يحاول فهم معنى «Kampung» أبعد من دلالته الحرفية — بمن في ذلك الباحثون والكُتّاب والمسؤولون والوافدون الجدد الذين يتعاملون مع الإدارة الريفية."
 
 lang: "ar"
+sourceContentHash: "179d1d79aa799fca"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

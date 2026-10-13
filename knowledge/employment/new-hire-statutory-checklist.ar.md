@@ -77,10 +77,11 @@ verificationNeeded:
   - "تأكيد البيانات الحالية المقرَّرة لسجل المادة 61 في ضوء لوائح العمل (Employment Regulations) السارية"
 
 lang: "ar"
+sourceContentHash: "84b81bd01d8b6ae2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

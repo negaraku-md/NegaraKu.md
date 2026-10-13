@@ -39,10 +39,11 @@ obligations:
     consequence: "غرامة 10%، ترتفع إلى 25% عند 60 يوماً و40% عند 90 يوماً، إضافةً إلى الملاحقة القضائية"
 
 lang: "ar"
+sourceContentHash: "07b54b26f9327d7f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

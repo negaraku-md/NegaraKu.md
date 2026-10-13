@@ -27,8 +27,9 @@ faq:
   - q: "Trước đây KPKT được gọi là gì, và tên được đổi khi nào?"
     a: "Đó là Bộ Phát triển Chính quyền Địa phương; Nội các đã quyết định đổi tên thành Bộ Nhà ở và Chính quyền Địa phương vào ngày 13 tháng 12 năm 2023, công bố vào ngày 26 tháng 12 năm 2023."
 lang: "vi"
+sourceContentHash: "44a0632c979d6de6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

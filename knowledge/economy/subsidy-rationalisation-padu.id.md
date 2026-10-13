@@ -31,8 +31,9 @@ faq:
     a: "Kementerian Keuangan memperkirakan penghematan sekitar RM5 miliar setahun sejak rasionalisasi diesel dimulai pada 10 Juni 2024."
 
 lang: "id"
+sourceContentHash: "fb230f3e8cc5eada"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

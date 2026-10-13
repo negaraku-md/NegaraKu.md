@@ -33,8 +33,9 @@ verificationNeeded:
   - "Verifikasi apakah SSM telah menerbitkan arahan praktik atau pedoman apa pun tentang pengesahan dokumen oleh sekretaris perusahaan — tidak ada yang ditemukan di ssm.com.my"
 
 lang: "id"
+sourceContentHash: "9f90e2daf3ffcc00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Nó thường được gọi là 'Malaysian New Wave', làn sóng các nhà làm phim độc lập đầu những năm 2000. Da Huang Pictures, thành lập năm 2004 bởi Tan Chui Mui, Amir Muhammad, James Lee và Liew Seng Tat, trở thành một trong những hạt nhân của nó; phim của Tan, Love Conquers All, đoạt Giải New Currents và FIPRESCI tại Liên hoan phim Quốc tế Busan 2006 cùng Giải Tiger tại Rotterdam."
 
 lang: "vi"
+sourceContentHash: "defc3df96dc13355"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

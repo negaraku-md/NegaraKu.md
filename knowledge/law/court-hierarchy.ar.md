@@ -38,10 +38,11 @@ faq:
     a: "ليس في الدرجة الأولى. تبدأ مطالبات العمل في منتديات أنشأتها قوانينها الخاصة بدلًا من محكمة الجلسات أو محكمة الصلح، ومحكمة مطالبات المستهلكين (Tribunal for Consumer Claims) مُنشأة بموجب المادة 85 من Consumer Protection Act 1999. وقد تبلغ تلك القرارات المحكمة العليا لاحقًا بالاستئناف أو المراجعة القضائية، لكن نقطة الدخول ليست محكمة في هذا التسلسل الهرمي."
 
 lang: "ar"
+sourceContentHash: "0ff02d452124fe9d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

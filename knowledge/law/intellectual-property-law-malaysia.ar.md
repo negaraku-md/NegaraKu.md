@@ -38,10 +38,11 @@ faq:
     a: "لا. حقوق الملكية الفكرية إقليمية، فلا تغطّي العلامة التجارية أو البراءة الماليزية سوى ماليزيا. وللحماية الدولية تُودِع في الخارج — وبالنسبة للعلامات التجارية، يتيح لك انضمام ماليزيا إلى بروتوكول مدريد تحديد عدة دول عبر طلب دولي واحد."
 
 lang: "ar"
+sourceContentHash: "9b9e8ce352a97c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang ingin mengetahui, pasal demi pasal, apa sebenarnya yang dijamin oleh Bagian II Konstitusi Federal dan pembatasan apa yang diperbolehkannya secara tegas."
 
 lang: "id"
+sourceContentHash: "268ae1dcdac3c251"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

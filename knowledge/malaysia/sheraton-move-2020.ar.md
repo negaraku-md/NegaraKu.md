@@ -31,12 +31,13 @@ verificationNeeded:
   - "ينبغي التأكد من التواريخ الدقيقة وأعداد النواب (المنشقّين، مشاورات الملك) مقابل السجلات الرسمية والتقارير المعاصرة؛ وتختلف المصادر قليلًا في اليوم الدقيق لاجتماع الفندق (21–23 فبراير)."
 
 lang: "ar"
+sourceContentHash: "d475393c9a7ff6eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

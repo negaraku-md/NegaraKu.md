@@ -32,8 +32,9 @@ faq:
     a: "Thông thường là không. Điều 26 quy định rằng một thỏa thuận được lập mà không có đối ứng là vô hiệu, với ba ngoại lệ: một lời hứa được lập thành văn bản và đăng ký, xuất phát từ tình cảm tự nhiên giữa các bên có quan hệ gần gũi với nhau; một lời hứa bồi thường cho việc đã được thực hiện một cách tự nguyện; và một lời hứa trả một khoản nợ đã bị luật thời hiệu ngăn cản."
 
 lang: "vi"
+sourceContentHash: "a078693f5e3c25a0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

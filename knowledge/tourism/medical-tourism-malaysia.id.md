@@ -34,8 +34,9 @@ faq:
     a: "Perawatan jantung, onkologi, kesuburan/IVF, ortopedi dan pemeriksaan kesehatan menyeluruh termasuk spesialisasi yang paling dicari oleh pasien asing — empat yang pertama adalah pusat keunggulan yang ditetapkan MHTC."
 
 lang: "id"
+sourceContentHash: "038cf5af7095fe8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

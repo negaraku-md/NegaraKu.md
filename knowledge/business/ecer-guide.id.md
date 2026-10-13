@@ -42,8 +42,9 @@ verificationNeeded:
   - "Target resmi 2025 atau 2026 apa pun bagi Kuantan New Deep Water Terminal Phase 2. Per April 2025 Fase 2 masih dalam tahap perencanaan; satu-satunya pencapaian bertanggal yang tetap ditemukan adalah kontraktual (selesai menjelang Desember 2039 untuk mendapatkan perpanjangan konsesi hingga 2075), bukan target mulai atau penyelesaian jangka dekat."
 
 lang: "id"
+sourceContentHash: "a51699526b272fe8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

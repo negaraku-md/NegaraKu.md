@@ -25,8 +25,9 @@ faq:
   - q: "JTKSM có bao trùm toàn bộ Malaysia không?"
     a: "Không. JTKSM bao trùm Bán đảo Malaysia. Sabah và Sarawak có các cục lao động riêng biệt của họ."
 lang: "vi"
+sourceContentHash: "1575ce3d33c667d0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

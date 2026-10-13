@@ -36,8 +36,9 @@ faq:
     a: "Sau khi sửa đổi Fisheries Act 1985 vào năm 2019 (Act A1601), mức phạt tối đa cho chủ hoặc thuyền trưởng tàu nước ngoài xâm phạm được nâng từ RM1 triệu lên RM6 triệu, và cho mỗi thuyền viên từ RM100,000 lên RM600,000."
 
 lang: "vi"
+sourceContentHash: "f5794964e422efce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

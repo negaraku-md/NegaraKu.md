@@ -30,8 +30,9 @@ faq:
     a: "Ia mulai berlaku pada 31 Agustus 1957 sebagai Konstitusi Persekutuan Tanah Melayu, dan kemudian diperluas serta digunakan bagi Persekutuan Malaysia yang terbentuk pada 16 September 1963."
 
 lang: "id"
+sourceContentHash: "b3ff63755f278553"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

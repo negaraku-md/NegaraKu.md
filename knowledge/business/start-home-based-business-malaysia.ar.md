@@ -33,10 +33,11 @@ faq:
     a: "يحمل الغذاء متطلبات صحية إضافية فوق تسجيل SSM والسلطة المحلية. فقائمة التحقق لفئة الغذاء في المبادئ التوجيهية تشترط أن يكون في المبنى مصيدة شحوم، وأن يكون مُدرَجًا ضمن فئة الغذاء المنزلي في نظام معلومات سلامة الغذاء الماليزي (Food Safety Information System of Malaysia, FoSIM)، وأن يحمل المُشغِّل شهادة تدريب لمتداولي الأغذية من مدرسة معترف بها لدى وزارة الصحة (KKM) إضافةً إلى إثبات التطعيم ضد التيفوئيد. وبعض الأطعمة لا يمكن صنعها في المنزل إطلاقًا، مثل حليب الأطفال ومياه الشرب/الثلج المعبّأة التي تتطلب ترخيصها الخاص."
 
 lang: "ar"
+sourceContentHash: "c4c8831642a77988"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

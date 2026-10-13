@@ -32,8 +32,9 @@ faq:
     a: "Sebagian besar kedutaan dan komisi tinggi asing yang berkedudukan tetap terletak di Kuala Lumpur dan Putrajaya, dengan beberapa negara juga mengoperasikan konsulat di kota seperti Pulau Pinang, Johor Bahru, Kota Kinabalu, dan Kuching."
 
 lang: "id"
+sourceContentHash: "7bb552ee1b28a75c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

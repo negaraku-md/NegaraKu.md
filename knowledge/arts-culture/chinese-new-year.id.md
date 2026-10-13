@@ -31,8 +31,9 @@ faq:
     a: "'Lo hei' (yee sang, atau 捞鱼生) adalah praktik tahun baru yang populer di Malaysia, Singapura, dan kawasan Nanyang yang lebih luas, biasanya dilakukan saat makan malam reuni keluarga atau acara tahun baru: semua orang berkumpul mengelilingi meja dan menggunakan sumpit untuk mengaduk sayur-sayuran dan buah-buahan yang diiris halus, irisan ikan mentah, serta berbagai bahan tinggi-tinggi ke udara bersama-sama, sambil mengucapkan ungkapan pembawa keberuntungan seperti 'semoga rezeki mengalir bagai angin dan air' dan 'semakin tinggi diaduk, semakin makmur jadinya'. Praktik ini sangat populer di sini, tetapi umumnya dianggap sebagai praktik yang dikembangkan oleh komunitas Tionghoa di kawasan Nanyang, bukan yang berasal dari Tiongkok kuno."
 
 lang: "id"
+sourceContentHash: "d2c30470773fa9b0"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

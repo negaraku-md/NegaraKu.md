@@ -29,8 +29,9 @@ faq:
     a: "Lisensi tebang dan sewa perkebunan yang dikeluarkan oleh negeri dapat meliputi kawasan yang diklaim oleh komunitas sebagai tanah adat. Ketika pihak-pihak berselisih apakah suatu kawasan itu tanah NCR, sengketa tersebut biasanya diputuskan di pengadilan."
 
 lang: "id"
+sourceContentHash: "73a645ecf7076b5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

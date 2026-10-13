@@ -40,8 +40,9 @@ verificationNeeded:
   - "Biểu giá biển hiệu hằng năm theo diện tích của MBSA — chỉ phí xử lý quảng cáo và các mức cố định cho bunting và banner được công bố"
 
 lang: "vi"
+sourceContentHash: "e95a20cac513aa22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

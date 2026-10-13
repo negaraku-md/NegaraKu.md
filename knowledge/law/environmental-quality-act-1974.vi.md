@@ -33,8 +33,9 @@ faq:
     a: "Có. Điều 29A cấm đốt lộ thiên tại bất kỳ cơ sở nào và có thể bị phạt đến RM500,000 hoặc phạt tù đến 5 năm hoặc cả hai. Chủ sở hữu hoặc người cư ngụ tại cơ sở được xem là chịu trách nhiệm trừ khi chứng minh được điều ngược lại (điều 29B)."
 
 lang: "vi"
+sourceContentHash: "cd3834c25795a67e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

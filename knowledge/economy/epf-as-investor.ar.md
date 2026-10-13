@@ -25,10 +25,11 @@ verificationNeeded:
   - "رقم RM188 مليار / 9% من القيمة السوقية للأسهم المحلية هو كما في نهاية 2024 بحسب The Edge Malaysia؛ يُعاد التحقق منه مقابل إفصاح EPF نفسه إن توفّر."
 
 lang: "ar"
+sourceContentHash: "a2dbf62e9ce69abb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

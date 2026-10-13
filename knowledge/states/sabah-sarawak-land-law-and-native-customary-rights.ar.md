@@ -32,12 +32,13 @@ faq:
     a: "ليس بالكامل. أكّدت محكمة الاتحاد الاعتراف بـ NCR في القانون العام في قضية Madeli bin Salleh (2007)، لكن في قضية TR Sandah (2016) قصرت محكمة منقسمة الحقوقَ القابلة للإنفاذ على الأرض المزروعة ورفضت المطالبات على الغابة المجتمعية المحيطة. ولا يزال نطاق NCR متنازَعًا عليه."
 
 lang: "ar"
+sourceContentHash: "f1772b5d15bbbf86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -32,8 +32,9 @@ faq:
     a: "Wawasan Kemakmuran Bersama 2030 (WKB 2030) diluncurkan pada Oktober 2019 sebagai gagasan penerus yang berfokus pada kemakmuran yang merata untuk periode 2021 hingga 2030."
 
 lang: "id"
+sourceContentHash: "d7d57585a7686755"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

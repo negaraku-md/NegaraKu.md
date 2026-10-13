@@ -34,8 +34,9 @@ faq:
     a: "PETRA (Bộ Chuyển đổi Năng lượng và Chuyển đổi Nước) là bộ soạn thảo chính sách năng lượng và nước của đất nước cùng thúc đẩy sự chuyển đổi hướng tới phát thải carbon bằng không vào năm 2050. Suruhanjaya Tenaga là cơ quan quản lý theo luật định trực thuộc PETRA cấp phép, đặt biểu giá và thực thi luật cung cấp điện và khí đốt."
 
 lang: "vi"
+sourceContentHash: "fc167e2fbc6949c3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

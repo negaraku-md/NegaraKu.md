@@ -30,8 +30,9 @@ faq:
     a: "Pasar malam adalah pasar waktu malam — pasar jalanan terbuka bergilir yang didirikan di suatu lingkungan pada malam hari kerja yang tetap, menjual makanan matang, hasil segar, dan barang berbiaya rendah. Ia hadir bersama pasar siang hari (pasar basah) dan pasar tani sebagai bagian dari budaya ritel non-mal di Malaysia."
 
 lang: "id"
+sourceContentHash: "a2bc8ea503179f64"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

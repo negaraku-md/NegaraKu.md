@@ -17,8 +17,9 @@ keyTakeaways:
   - "Gió mùa Đông Bắc (tháng 11–tháng 3) làm ướt sũng bờ đông Bán đảo, tây Sarawak và bắc Sabah; Gió mùa Tây Nam (tháng 5–tháng 9) tương đối khô hơn — một nhịp điệu vẫn định hình mùa lũ và lịch canh tác (Cục Khí tượng Malaysia)"
 appliesTo: "Bất kỳ ai đang cố hiểu vì sao dân số, các thành phố và nguy cơ lũ lụt của Malaysia lại tụ về nơi chúng tụ về — học sinh, người mới đến, các nhà quy hoạch, hay bất kỳ ai bối rối vì sao 'mùa gió mùa' lại có nghĩa khác nhau ở các bờ biển khác nhau."
 lang: "vi"
+sourceContentHash: "1aadf1352cd31f55"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

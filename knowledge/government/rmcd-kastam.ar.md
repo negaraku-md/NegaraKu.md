@@ -36,10 +36,11 @@ verificationNeeded:
   - "لم يُؤكَّد جرد البوابات بما يتجاوز MySST وezHS (أي MyTTx وMyDLV ونظام طوابع الضريبة وMNTR) مقابل صفحة من صفحات RMCD مذكورة؛ كما أن الإصدار الحالي من Customs Duties Order وعدد الجداول التفضيلية لاتفاقات التجارة الحرة (FTA) في ezHS غير مؤكّدين بالمثل، ووُصفا وصفًا نوعيًا"
 
 lang: "ar"
+sourceContentHash: "e8cda8bbe6ecdbc9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

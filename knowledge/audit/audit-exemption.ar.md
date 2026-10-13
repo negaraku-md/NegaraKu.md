@@ -34,10 +34,11 @@ verificationNeeded:
   - "التأكد مما إذا كانت SSM قد أصدرت أي تعديل أو توجيه عملي إضافي بعد التوجيه العملي 10/2024 يغيّر عتبات المرحلة الثانية أو المرحلة الثالثة"
 
 lang: "ar"
+sourceContentHash: "0adbb423bee3af8f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

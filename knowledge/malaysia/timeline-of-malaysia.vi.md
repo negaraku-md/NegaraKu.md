@@ -35,8 +35,9 @@ verificationNeeded:
   - "Mỗi cột mốc quan trọng liên kết đến bài viết đầy đủ và có dẫn nguồn nếu có; trang đó mang các trích dẫn nguồn. Niên biểu chính trị hiện đại (các thủ tướng, tổng tuyển cử, vụ 1MDB, 'Langkah Sheraton' 2020) là hồ sơ công khai mang tính sự thật, lấy từ Văn phòng Thủ tướng và Ủy ban Bầu cử, và được trình bày một cách trung lập. Các mục chạm đến các chủ đề 3R (chủng tộc / tôn giáo / vương thất) hoặc nhạy cảm — sự kiện ngày 13 tháng 5 năm 1969, Ops Lalang, khủng hoảng tư pháp năm 1988 — cần con người rà soát trước khi xuất bản."
 
 lang: "vi"
+sourceContentHash: "e58ff5504e70aafc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -42,8 +42,9 @@ verificationNeeded:
   - "Xác nhận ngày lễ đăng quang của Sultan Kedah thứ 29 so với hồ sơ chính thức của Istana Anak Bukit; trang chính thức của chính quyền bang chỉ nêu ngày tuyên bố."
 
 lang: "vi"
+sourceContentHash: "0d6884ea1dade121"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

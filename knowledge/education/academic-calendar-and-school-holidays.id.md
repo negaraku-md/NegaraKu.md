@@ -29,8 +29,9 @@ faq:
     a: "Kalender resmi dikeluarkan melalui Surat Siaran KPM dan portal moe.gov.my setiap tahun sebelum sesi dimulai. Rujuk sumber resmi untuk tanggal yang tepat karena ia berubah setiap tahun."
 
 lang: "id"
+sourceContentHash: "25b458d1ef0fef1f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

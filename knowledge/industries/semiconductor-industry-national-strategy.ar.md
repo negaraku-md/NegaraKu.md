@@ -36,10 +36,11 @@ faq:
     a: "تستهدف الاستراتيجية تدريب ورفع مهارات 60,000 مهندس ماليزي عالي المهارة — نحو 30,000 يُنمَّون عبر وزارة التعليم ونحو 30,000 من المواهب التقنية والمهنية (TVET) من وزارات أخرى."
 
 lang: "ar"
+sourceContentHash: "1463f5cc1d397718"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

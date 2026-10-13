@@ -27,9 +27,10 @@ faq:
   - q: "من أين يأتي الأرز المستورَد إلى ماليزيا؟"
     a: "تأتي غالبية الواردات من فيتنام وتايلاند وباكستان والهند وميانمار، بحسب BERNAS."
 lang: "ar"
+sourceContentHash: "8a715f161404c46b"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

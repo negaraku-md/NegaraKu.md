@@ -27,10 +27,11 @@ faq:
     a: "وفقاً لإرشادات SSM، يصدر إشعار التحويل إلى شركة عامة خلال يوم عمل واحد بعد تقديم المستندات كاملةً واستيفاء الشروط. ولا تحدّد الإرشادات مدةً معينة لتحويل شركة عامة إلى خاصة."
 
 lang: "ar"
+sourceContentHash: "63145595a33eef52"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

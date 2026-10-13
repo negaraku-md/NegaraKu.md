@@ -32,8 +32,9 @@ faq:
     a: "Có. SC đưa vào một khung gọi vốn cộng đồng cổ phần (có hiệu lực từ ngày 10 tháng 2 năm 2015) và một khung tài trợ ngang hàng (tháng 4 năm 2016), cả hai đều hoạt động như các thị trường được công nhận theo các quy tắc của nó."
 
 lang: "vi"
+sourceContentHash: "e26f048f1170e63c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

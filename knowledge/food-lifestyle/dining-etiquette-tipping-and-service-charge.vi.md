@@ -29,8 +29,9 @@ faq:
     a: "Chỉ các doanh nghiệp F&B có doanh thu chịu thuế trên RM1,500,000 trong giai đoạn 12 tháng mới phải đăng ký thuế phục vụ, và phí phục vụ chủ yếu được các khách sạn và nhà hàng phục vụ đầy đủ sử dụng. Các quầy hàng rong và quán ăn nhỏ thường chỉ tính giá được niêm yết."
 
 lang: "vi"
+sourceContentHash: "0474567c9b571270"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

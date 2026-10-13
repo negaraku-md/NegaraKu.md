@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Người dùng đường cao tốc trong mùa lễ hội, người lập kế hoạch chuyến đi và kỳ nghỉ, tiểu thương bán lẻ và vận tải, cùng bất kỳ ai đang cố hiểu về cơ cấu di chuyển của dân số Malaysia."
 
 lang: "vi"
+sourceContentHash: "351c6944deba025a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

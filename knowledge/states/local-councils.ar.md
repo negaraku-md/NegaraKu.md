@@ -34,12 +34,13 @@ faq:
     a: "عملت المجالس المحلية المنتخبة بموجب قانون انتخابات الحكومة المحلية لسنة 1960 (Local Government Elections Act 1960) وأنظمة سابقة. وعُلِّقت الانتخابات في 1 مارس 1965 بلوائح طوارئ أثناء المواجهة (Konfrontasi) مع إندونيسيا. وبقي الأعضاء الشاغلون في مناصبهم حتى أنهى قانون الحكومة المحلية (أحكام مؤقتة) لسنة 1973 (Local Government (Temporary Provisions) Act 1973 [Act 124]) مددهم واستبدل بهم مجالس إدارة معيَّنة، ثم أرسى قانون الحكومة المحلية لسنة 1976 (Local Government Act 1976 [Act 171]) نظام التعيين الدائم."
 
 lang: "ar"
+sourceContentHash: "d540aa978984383a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -29,8 +29,9 @@ faq:
     a: "Theo Mục 24(8), tổng tất cả các khoản khấu trừ không được vượt quá 50% lương kiếm được trong tháng đó. Mục 24(9) loại trừ khoản bồi thường Mục 13(1), khoản thanh toán cuối khi kết thúc việc làm, và khoản vay nhà ở (bổ sung lên đến 25% với sự cho phép của Tổng Giám đốc)."
 
 lang: "vi"
+sourceContentHash: "3388bf641e0109a3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

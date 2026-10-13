@@ -58,8 +58,9 @@ obligations:
     consequence: "Tất cả các thành viên được coi là cán bộ tuân thủ nếu không có ai được bổ nhiệm"
 
 lang: "vi"
+sourceContentHash: "018f4b09e139ab24"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

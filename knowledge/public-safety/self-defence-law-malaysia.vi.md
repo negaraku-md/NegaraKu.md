@@ -28,8 +28,9 @@ faq:
     a: "Không. Theo Mục 102, quyền tự vệ thân thể chỉ tiếp tục chừng nào sự lo sợ hợp lý về nguy hiểm còn tiếp diễn. Hành động kéo dài sau khi mối đe dọa kết thúc có thể bị coi là một cuộc tấn công trả đũa, chứ không phải tự vệ."
 
 lang: "vi"
+sourceContentHash: "7668765b92f13005"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Không. Chứng nhận halal báo hiệu các tiêu chuẩn vệ sinh, truy xuất nguồn gốc và chất lượng, và khu vực này tiếp thị tới cả người tiêu dùng Hồi giáo lẫn không theo Hồi giáo và tới các thị trường xuất khẩu không có đa số dân theo Hồi giáo."
 
 lang: "vi"
+sourceContentHash: "e86c482e092e1722"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Tidak. Meskipun Monash, Nottingham, Xiamen, dan Heriot-Watt berkelompok di sekitar Lembah Klang dan Putrajaya, EduCity Iskandar memusatkan beberapa kampus di Johor dekat Singapura, dan Curtin serta Swinburne beroperasi di Sarawak."
 
 lang: "id"
+sourceContentHash: "eb5708a4ddb8ff8d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

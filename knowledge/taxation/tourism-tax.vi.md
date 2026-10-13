@@ -32,8 +32,9 @@ faq:
     a: "Chỉ các đơn vị vận hành cho thuê năm phòng trở lên mới phải đăng ký và thu TTx. Một đơn vị vận hành có bốn phòng trở xuống không có trách nhiệm đăng ký."
 
 lang: "vi"
+sourceContentHash: "f102342b25c63a8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

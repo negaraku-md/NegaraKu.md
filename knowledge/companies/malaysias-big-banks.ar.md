@@ -31,10 +31,11 @@ faq:
     a: "يصف CIMB نفسه بأنه مجموعة تركّز على آسيان (ASEAN) تعمل في أسواق منها ماليزيا وإندونيسيا وسنغافورة وتايلند. ويعمل RHB في سبعة أسواق إقليمية. ويمتد Maybank عبر ثلاثة أسواق رئيسية — ماليزيا وسنغافورة وإندونيسيا — إضافةً إلى عمليات عبر آسيان والمراكز المالية العالمية الكبرى."
 
 lang: "ar"
+sourceContentHash: "81a33a10e5b5e6c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

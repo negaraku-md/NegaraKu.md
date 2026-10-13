@@ -29,8 +29,9 @@ faq:
     a: "Bank atau perusahaan pembiayaan didaftarkan sebagai pemilik sah kendaraan itu di bawah Hire-Purchase Act 1967 sepanjang jangka waktu pinjaman. Pembeli adalah pemegang terdaftar yang menggunakan kendaraan itu untuk keperluan harian, dan baru menjadi pemilik terdaftar ketika pinjaman itu dilunasi sepenuhnya dan pihak pembiaya mengeluarkan pelepasan."
 
 lang: "id"
+sourceContentHash: "fbeedb8341d7b377"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

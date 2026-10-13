@@ -32,8 +32,9 @@ faq:
     a: "Không. Theo điều 554(1)(a), trách nhiệm pháp lý của mỗi giám đốc, cán bộ hoặc thành viên của công ty vẫn tiếp tục và có thể được cưỡng chế thi hành như thể công ty chưa bị giải thể. Giám đốc cũng bắt buộc phải lưu giữ hồ sơ công ty trong bảy năm sau khi xóa tên."
 
 lang: "vi"
+sourceContentHash: "bd012809619da49e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

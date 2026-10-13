@@ -37,10 +37,11 @@ faq:
     a: "إذا أخفق بنك عضو، تعوّض PIDM المودِعين المؤهَّلين حتى سقف RM250,000. وإذا أخفق عضو من شركات التأمين، فإن PIDM إما ترتّب استمرارية تغطيتك أو تدفع المنافع المحميّة حتى السقف المعمول به."
 
 lang: "ar"
+sourceContentHash: "6dadc68b3f5258f8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

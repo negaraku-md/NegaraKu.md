@@ -25,8 +25,9 @@ verificationNeeded:
   - "Trang này không nêu phí, mức hay thời gian xử lý nào của riêng nó; mọi con số nằm trên các trang lối đi được liên kết và được cung cấp nguồn ở đó"
 
 lang: "vi"
+sourceContentHash: "40a5acd6c21bafa9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -47,8 +47,9 @@ verificationNeeded:
   - "Syarat kepemilikan saham Bumiputera atau asing bagi pemegang lisensi perbankan, asuransi, dan takaful. Tidak ada dokumen Bank Negara yang diterbitkan yang menyatakannya diperoleh."
 
 lang: "id"
+sourceContentHash: "da83e3eaf6cc3765"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

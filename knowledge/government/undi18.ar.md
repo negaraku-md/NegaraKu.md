@@ -32,12 +32,13 @@ faq:
     a: "ليس كلهم. تذكر لجنة الانتخابات أن أصحاب العناوين غير المكتملة أو العامة لدى JPN لا يُسجَّلون تلقائيًا لأنه لا يمكن تحديد الدائرة الانتخابية، وكذلك من فقدوا الأهلية كناخبين بموجب القانون. وتُجري لجنة الانتخابات تدقيقًا متقاطعًا مع JPN، ودائرة السجون الماليزية، ووزارة الصحة، ووزارة الخارجية."
 
 lang: "ar"
+sourceContentHash: "091a7bd83f753abd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

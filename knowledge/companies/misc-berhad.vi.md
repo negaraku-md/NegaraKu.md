@@ -29,8 +29,9 @@ faq:
     a: "Tập đoàn MISC báo cáo doanh thu FY2024 là RM13,237.5 triệu, giảm 7,2% từ RM14,271.7 triệu trong FY2023, với lợi nhuận sau thuế RM1,233.2 triệu."
 
 lang: "vi"
+sourceContentHash: "29aaf63ab9013b28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

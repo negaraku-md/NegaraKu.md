@@ -33,8 +33,9 @@ faq:
     a: "Rumah terbuka là tập tục mời họ hàng, hàng xóm và bạn bè — kể cả từ các cộng đồng và tôn giáo khác — đến thăm và thưởng thức món ăn suốt tháng Syawal. Nó trở thành một nét xã hội lan rộng ở Malaysia, và cũng thường được các cơ quan chính phủ và công ty tổ chức, chứ không chỉ ở nhà riêng."
 
 lang: "vi"
+sourceContentHash: "93ccc705ae0a9141"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

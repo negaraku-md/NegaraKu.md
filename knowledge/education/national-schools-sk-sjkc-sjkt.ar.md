@@ -29,11 +29,12 @@ faq:
     a: "يمكن لتلاميذ SJKC وSJKT الاستمرار إلى مدرسة ثانوية وطنية (SMK، لغة تدريسها الملايوية) أو، لبعض تلاميذ SJKC، إلى مدرسة ثانوية وطنية نوعية (SMJK)، وهي كذلك مدرسة حكومية/مدعومة من الحكومة. والانتقال في لغة التدريس من المدرسة الابتدائية إلى المدرسة الثانوية الوطنية مدعوم بصفوف انتقالية للتلاميذ الذين يحتاجونها."
 
 lang: "ar"
+sourceContentHash: "2c9607178a97bd26"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

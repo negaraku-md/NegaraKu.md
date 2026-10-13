@@ -26,8 +26,9 @@ verificationNeeded:
   - "Perbedaan terperinci antara Klinik Kesihatan, Klinik Komuniti dan Klinik Desa dari segi staf dan cakupan perawatan yang tepat tidak dapat disahkan sepenuhnya pada sumber resmi KKM saat penulisan; artikel ini hanya menyatakan bahwa ketiganya adalah fasilitas terpisah."
 
 lang: "id"
+sourceContentHash: "a763d53f069e94c3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

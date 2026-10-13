@@ -32,8 +32,9 @@ faq:
     a: "Rencana ini menargetkan AI untuk menyumbang lebih RM60 miliar kepada PDB dan menempatkan Malaysia di antara 20 negara teratas dalam kesiapan AI global menjelang 2030, dilaksanakan melalui 28 inisiatif."
 
 lang: "id"
+sourceContentHash: "74e6c6495db49c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

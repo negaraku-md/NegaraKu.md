@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Pengguna jalan tol saat musim perayaan, perencana perjalanan dan liburan, pedagang ritel dan transportasi, serta siapa saja yang mencoba memahami pola pergerakan penduduk Malaysia."
 
 lang: "id"
+sourceContentHash: "351c6944deba025a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

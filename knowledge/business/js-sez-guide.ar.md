@@ -42,10 +42,11 @@ verificationNeeded:
   - "الجهة المديرة ومسار الطلب لحافز العامل المعرفي في JS-SEZ غير مذكورين في دليل MIDA — إذ يُدرجه Appendix B من الملخص تحت حوافز أخرى دون تسمية مسار. تأكّد مع MIDA أو IRDA قبل تقديم المشورة."
 
 lang: "ar"
+sourceContentHash: "6ef63a1c757e97dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

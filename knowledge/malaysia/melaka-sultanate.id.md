@@ -29,8 +29,9 @@ faq:
     a: "Istananya. Sultan Mahmud Shah dan keturunannya menegakkan kembali pemerintahan Melayu di selatan, yang paling penting dalam Kesultanan Johor, membawa serta struktur istana, kitab hukum, dan bahasa Melaka. Institusi-institusi itu bertahan jauh lebih lama daripada kemerdekaan kota itu selama berabad-abad."
 
 lang: "id"
+sourceContentHash: "cf412842ff34bf8f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

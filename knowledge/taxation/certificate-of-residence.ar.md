@@ -37,10 +37,11 @@ verificationNeeded:
   - "مسألة ما إذا كان يمكن إصدار شهادة إقامة ضريبية عن سنة لا يُستوفى فيها اختبار الإقامة إلا بعد تاريخ الطلب لم تُعالَج في صفحة LHDN"
 
 lang: "ar"
+sourceContentHash: "11fa9fda7774dfda"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

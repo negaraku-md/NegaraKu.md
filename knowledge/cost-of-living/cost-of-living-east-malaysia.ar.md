@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "كل من ينتقل إلى صباح أو ساراواك أو يضع ميزانيةً لهما، أو يقارن أسعار ماليزيا الشرقية بشبه جزيرة ماليزيا، أو يبحث في سبب حمل المنتج نفسه سعرًا مختلفًا على جانبَي بحر الصين الجنوبي."
 
 lang: "ar"
+sourceContentHash: "327dd8ebe6d5d915"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

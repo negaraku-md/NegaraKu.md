@@ -30,8 +30,9 @@ faq:
     a: "Bagi tindak pidana tanpa penalti khusus, Pasal 24 mengatur pidana penjara hingga dua tahun atau denda atau keduanya bagi pelanggaran pertama. Pasal 25 membolehkan pengompaunan hingga RM1,000 di bawah teks asli akta. Tarif ini menjadi subjek amandemen yang disahkan Dewan Rakyat pada 2024."
 
 lang: "id"
+sourceContentHash: "e9a7651147874f41"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

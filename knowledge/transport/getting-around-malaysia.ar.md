@@ -32,10 +32,11 @@ verificationNeeded:
   - "تاريخ نهاية 2026 المستهدَف لـRTS Link هو الهدف المُعلَن من المشغّلين أنفسهم حتى كتابة هذا النص، وينبغي إعادة تأكيده قرب موعد النشر، إذ كثيرًا ما تتأخّر عمليات افتتاح البنية التحتية العابرة للحدود."
 
 lang: "ar"
+sourceContentHash: "cd13a733d0e3f471"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

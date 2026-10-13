@@ -21,8 +21,9 @@ verificationNeeded:
   - "Artikel ini tidak menyatakan daftar lengkap 50 penyakit kritis yang memenuhi syarat di bawah mySalam karena daftar terperinci tidak disahkan secara langsung pada laman resmi mysalam.com.my saat penulisan; silakan periksa portal resmi mySalam untuk daftar lengkap."
   - "Masa berlaku skema mySalam dan PeKa B40 tunduk pada keputusan Anggaran tahunan; angka dan syarat dalam artikel ini disahkan berdasarkan laman resmi saat penulisan (Juli 2026) dan mungkin diperbarui pada anggaran mendatang."
 lang: "id"
+sourceContentHash: "46290890ce15acbd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

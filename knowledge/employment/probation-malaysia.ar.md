@@ -26,10 +26,11 @@ verificationNeeded:
   - "التحقق من المرجع الاستئنافي الرئيسي بشأن فصل الموظف تحت الاختبار والتثبيت الضمني عبر السلوك مقابل الأحكام القضائية المنشورة"
 
 lang: "ar"
+sourceContentHash: "04bbb0ef0090fa14"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

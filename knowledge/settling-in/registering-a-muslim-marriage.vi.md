@@ -32,8 +32,9 @@ faq:
     a: "Cổng dịch vụ của Chính phủ Malaysia nêu rằng lễ cử hành được tiến hành trên một thư cho phép kết hôn có giá trị trong 90 ngày."
 
 lang: "vi"
+sourceContentHash: "ddd87b097dd5f44c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

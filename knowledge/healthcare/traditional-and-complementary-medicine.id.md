@@ -26,8 +26,9 @@ faq:
     a: "Bagi pelanggaran pertama, denda tidak melebihi RM30,000 atau penjara tidak melebihi 2 tahun, atau keduanya. Pelanggaran berikutnya hingga RM50,000 atau penjara hingga 3 tahun."
 
 lang: "id"
+sourceContentHash: "86f8ad16efa02a93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

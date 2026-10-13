@@ -39,8 +39,9 @@ obligations:
     consequence: "Penalti 10%, naik menjadi 25% pada 60 hari dan 40% pada 90 hari, ditambah penuntutan"
 
 lang: "id"
+sourceContentHash: "07b54b26f9327d7f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

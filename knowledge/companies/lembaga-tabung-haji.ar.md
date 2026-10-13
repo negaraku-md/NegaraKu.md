@@ -30,12 +30,13 @@ faq:
     a: "ارتبطت TH تاريخيًا بقطاع التمويل الإسلامي، بما فيه Bank Islam Malaysia وSyarikat Takaful Malaysia Keluarga، إلى جانب حصص في فئات أصول أخرى متنوعة بوصفها مستثمرًا مؤسسيًا. أما تفاصيل الحصص الراهنة ونسب المصالح فينبغي الرجوع فيها إلى البيانات المالية الرسمية لـ TH والشركات المرتبطة، لأن هيكل الملكية (مثل إعادة هيكلة مجموعة BIMB سنة 2023) قد يتغير."
 
 lang: "ar"
+sourceContentHash: "440a6d426804d717"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

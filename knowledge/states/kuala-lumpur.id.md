@@ -33,8 +33,9 @@ verificationNeeded:
   - "Pastikan angka penduduk Kuala Lumpur dan Greater Kuala Lumpur, serta peringkat KDNK per kapita, terhadap rilis DOSM terkini sebelum penerbitan."
 
 lang: "id"
+sourceContentHash: "92f9b90511421d9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

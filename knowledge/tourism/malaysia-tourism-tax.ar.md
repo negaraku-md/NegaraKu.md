@@ -35,10 +35,11 @@ faq:
     a: "تسجّل في بوابة MyTTx، وتقدّم إقراراً ربع سنوي (نموذج TTx-03) وتورّد الضريبة إلى دائرة الجمارك الملكية الماليزية (RMCD) في موعد أقصاه آخر يوم من الشهر التالي لكل فترة ضريبية."
 
 lang: "ar"
+sourceContentHash: "90bb7645abb0046f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

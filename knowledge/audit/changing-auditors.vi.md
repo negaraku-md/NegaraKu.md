@@ -41,8 +41,9 @@ verificationNeeded:
   - "Xác nhận liệu SSM có quy định một mẫu cụ thể cho thông báo bãi nhiệm theo s.278 và thông báo từ chức theo s.282 hay không, và lệ phí nộp hồ sơ áp dụng, so với Bảng Lệ phí ROC hiện hành"
 
 lang: "vi"
+sourceContentHash: "c932d3246ad62000"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

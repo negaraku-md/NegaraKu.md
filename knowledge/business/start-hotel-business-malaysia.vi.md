@@ -33,8 +33,9 @@ faq:
     a: "MOTAC vận hành một chương trình xếp hạng chính thức — một Star Rating cho khách sạn (đánh giá sự sang trọng, cơ sở vật chất và chất lượng dịch vụ) và một Orchid Rating cho lưu trú bình dân (tập trung vào sự sạch sẽ, an toàn và tiện nghi cơ bản). Xếp hạng được chấm theo phần trăm, với 90-100% cho năm sao xuống các băng thấp hơn; các khách sạn cũng được phân loại theo concept (thành phố, resort, cao nguyên, boutique, sáng tạo, căn hộ). Xếp hạng quyết định mức đánh giá bạn có thể quảng cáo và khác với đăng ký cơ sở mà mọi cơ sở phải có để hoạt động hợp pháp."
 
 lang: "vi"
+sourceContentHash: "65be551a77e4ae21"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

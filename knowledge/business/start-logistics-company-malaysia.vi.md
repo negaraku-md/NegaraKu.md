@@ -33,8 +33,9 @@ faq:
     a: "Không dễ dàng. Một Giấy phép Vận tải A (cho thuê và lấy thù lao) cần đa số vốn cổ phần Malaysia với một thành phần Bumiputera và một vốn góp tối thiểu, nên một nhà vận tải phục vụ bên thứ ba trên thực tế được dành cho các công ty đa số địa phương. Các tập đoàn liên kết với nước ngoài thường vào qua tư cách IILS và một giấy phép hải quan/giao nhận, hoặc bằng cách chở hàng của chính mình theo một Giấy phép Vận tải C. Hãy xác nhận chính xác tỷ lệ chia vốn cổ phần và mức sàn vốn với APAD và MIDA trước khi bạn cấu trúc sở hữu cổ phần."
 
 lang: "vi"
+sourceContentHash: "20e231750b299d33"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

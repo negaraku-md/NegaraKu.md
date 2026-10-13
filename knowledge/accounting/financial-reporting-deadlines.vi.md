@@ -101,8 +101,9 @@ obligations:
     consequence: "Tội theo s.245(9) với một khoản phạt đến RM500,000 hoặc phạt tù đến ba năm, hoặc cả hai"
 
 lang: "vi"
+sourceContentHash: "e16e3149a455f777"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

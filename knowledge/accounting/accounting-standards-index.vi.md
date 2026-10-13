@@ -26,8 +26,9 @@ verificationNeeded:
   - "MFRS 139 vẫn được MASB liệt kê; hãy xác nhận tình trạng áp dụng hiện hành của nó cho bất kỳ thực thể nào còn nằm trong phạm vi của nó"
 
 lang: "vi"
+sourceContentHash: "e028c2fa0dbb47c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

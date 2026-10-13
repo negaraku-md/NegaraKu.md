@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang mencoba memahami alasan pengadilan Malaysia mengutip kasus-kasus Inggris, mahasiswa hukum yang mengkaji sistem perundang-undangan Malaysia, dan siapa saja yang meneliti alasan bidang tertentu (tanah, keluarga, hukum Islam) berada di luar warisan common law."
 
 lang: "id"
+sourceContentHash: "0e25f8448644480c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

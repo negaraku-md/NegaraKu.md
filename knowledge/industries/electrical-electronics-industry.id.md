@@ -34,8 +34,9 @@ faq:
     a: "Nama global seperti Intel, AMD, Broadcom, Bosch dan OSRAM beroperasi di sini, bersama produsen kontrak (EMS) seperti Jabil, Flex, Plexus, Sanmina dan Benchmark, serta firma lokal termasuk Inari Amertron."
 
 lang: "id"
+sourceContentHash: "0fec58671ce8ac21"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

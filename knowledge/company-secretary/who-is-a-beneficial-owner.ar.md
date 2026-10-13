@@ -38,10 +38,11 @@ verificationNeeded:
   - "ما إذا كانت شركة الأمانة المسجَّلة بموجب قانون شركات الأمانة لسنة 1949 (Trust Companies Act 1949) تُعَدّ بالضرورة شركة عامة خاضعة لإطار الملكية المنفعية الكامل — وهو ما تؤكده بعض الشروحات لكنه غير مرتبط بحكم محدد من ذلك القانون"
 
 lang: "ar"
+sourceContentHash: "d098cf8ee96defb7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -34,8 +34,9 @@ faq:
     a: "Có. Nhà sản xuất ở nước ngoài có thể xin chứng nhận của JAKIM, hoặc sử dụng giấy chứng nhận từ một cơ quan chứng nhận halal nước ngoài được JAKIM công nhận. Danh sách các cơ quan được công nhận được JAKIM rà soát và cập nhật."
 
 lang: "vi"
+sourceContentHash: "86854384949bcaf4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

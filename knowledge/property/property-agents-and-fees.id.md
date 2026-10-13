@@ -28,8 +28,9 @@ faq:
     a: "Biaya sewa menurut skala resmi adalah 1.25 hingga 1.75 bulan sewa kotor (dengan biaya minimum 1 bulan sewa) bergantung jangka waktu penyewaan; siapa yang menanggungnya adalah hal perjanjian antarpihak."
 
 lang: "id"
+sourceContentHash: "d09e304bd5589019"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

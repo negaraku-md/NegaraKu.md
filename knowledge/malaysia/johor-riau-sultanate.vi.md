@@ -18,8 +18,9 @@ keyTakeaways:
   - "Anglo-Dutch Treaty 1824 và những gì theo sau chia cắt vùng này: Riau-Lingga dưới quyền Hà Lan, Johor trong phạm vi ảnh hưởng của Anh"
 appliesTo: "Bất kỳ ai muốn hiểu cách thiết chế hoàng gia Mã Lai của Melaka nối liền không đứt đoạn đến các bang Mã Lai hiện đại, đặc biệt là Johor."
 lang: "vi"
+sourceContentHash: "e2e07f7bcea9fc14"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

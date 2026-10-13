@@ -31,12 +31,13 @@ faq:
     a: "أصدر مجلس الفتوى الوطني حكماً بأن التبرع بالأعضاء جائز (مباح) في مؤتمره المنعقد في 23-24 يونيو 1970، وفق شروط مثل حالة الضرورة لإنقاذ الحياة، وانتفاء عنصر البيع والشراء، والحصول على موافقة المتبرع أو ورثته. وقد وُسِّعت هذه الفتوى لاحقاً لتشمل أعضاء وأنسجة أخرى."
 
 lang: "ar"
+sourceContentHash: "55867275b6260a32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

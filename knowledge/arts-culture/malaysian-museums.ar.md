@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "الزوار الذين يخططون لمسار زيارة متاحف، والطلاب والباحثون الراغبون في التاريخ المؤسسي وراء مجموعات ماليزيا الكبرى، وكل من افترض أن المتحف الوطني هو أقدم متاحف البلاد."
 
 lang: "ar"
+sourceContentHash: "8802106dd859b55e"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

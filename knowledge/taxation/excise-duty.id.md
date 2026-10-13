@@ -31,8 +31,9 @@ faq:
     a: "Tidak. Bea cukai minuman bergula menyasar minuman siap-minum di bawah HS 2202 yang mengandung lebih dari 5 gram gula per 100ml, minuman berbasis susu melebihi 7 gram gula per 100ml, dan jus buah atau sayur di bawah HS 2009 melebihi 12 gram gula per 100ml. Ambangnya berbeda menurut kategori."
 
 lang: "id"
+sourceContentHash: "84d4e95aaaa26789"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

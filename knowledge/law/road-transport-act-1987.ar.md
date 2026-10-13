@@ -27,9 +27,10 @@ faq:
   - q: "ما الذي تغيّر بتعديل 2020؟"
     a: "دخل قانون النقل البري (التعديل) 2020 حيز النفاذ في 23 أكتوبر 2020. فرفع العقوبات ومدد الحرمان من الرخصة للقيادة المتهورة والخطرة والقيادة تحت تأثير الكحول (المواد 41-45A)، وخفَّض حدود الكحول المقررة إلى معايير منظمة الصحة العالمية (WHO)، وأضاف تعريفًا لـ «مركبة التنقل الصغير» (micromobility vehicle)."
 lang: "ar"
+sourceContentHash: "e438c79ab71a1dba"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

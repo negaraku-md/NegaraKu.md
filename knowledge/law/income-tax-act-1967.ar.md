@@ -30,10 +30,11 @@ faq:
     a: "ليس من متن القانون. تقع المعدلات في الجداول الملحقة بـ Act 53، ولا سيما الجدول 1، وتُغيَّر بقوانين المالية (Finance Acts). أما الإعفاءات والخصومات فتُقدَّم إلى حد كبير عبر التشريعات الفرعية — أوامر وقواعد P.U.(A) — ولهذا السبب لا يجيب التشريع وحده أبدًا عن سؤال متعلق بالمعدلات."
 
 lang: "ar"
+sourceContentHash: "e0dfb2c4642360c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

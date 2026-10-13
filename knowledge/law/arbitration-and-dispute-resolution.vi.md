@@ -33,8 +33,9 @@ faq:
     a: "Có, kể từ khi Đạo luật Trọng tài (Sửa đổi) 2024 có hiệu lực vào ngày 1 tháng 1 năm 2026. Các Mục 46A–46I tạo ra một khuôn khổ theo luật, Mục 46C bãi bỏ các quy tắc thông luật chống lại maintenance và champerty, và Mục 46G yêu cầu công bố thỏa thuận tài trợ và danh tính của bên tài trợ."
 
 lang: "vi"
+sourceContentHash: "dbaaa201e69ebe39"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

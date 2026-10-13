@@ -37,8 +37,9 @@ verificationNeeded:
   - "Laman sejarah MIDA sendiri menyatakan pendiriannya pada 1967 di bawah Act 397, tetapi titik waktu nama bahasa Inggris otoritas itu berubah dari 'Malaysian Industrial Development Authority' menjadi 'Malaysian Investment Development Authority' tidak dikonfirmasi pada sumber resmi dan tidak dinyatakan dalam artikel ini"
 
 lang: "id"
+sourceContentHash: "384564550c625009"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

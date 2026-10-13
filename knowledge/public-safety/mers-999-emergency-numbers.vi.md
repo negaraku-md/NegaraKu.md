@@ -29,8 +29,9 @@ faq:
     a: "Có. Ứng dụng SaveME 999 cho phép cảnh báo khẩn cấp dựa trên video, văn bản và đa phương tiện, không chỉ cuộc gọi thoại, để người khuyết tật cũng có thể liên hệ với tổng đài viên 999."
 
 lang: "vi"
+sourceContentHash: "a2e869579c3095a1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "Mukim adalah subdivisi di bawah daerah, terutama untuk tujuan administrasi tanah. Penghulu adalah pejabat yang menjalankan kewenangan di tingkat mukim di bawah administrasi tanah daerah."
 
 lang: "id"
+sourceContentHash: "a75e04e291488dd9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

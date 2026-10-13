@@ -35,8 +35,9 @@ verificationNeeded:
   - "Danh sách 'wau quốc gia' thường được gắn với Majlis Pelayang Malaysia (wau bulan, wau kucing, wau jala budi) — không tìm thấy ấn phẩm chính thức nào."
 
 lang: "vi"
+sourceContentHash: "dca70ac2ef9b33e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

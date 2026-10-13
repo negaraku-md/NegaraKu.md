@@ -29,8 +29,9 @@ faq:
     a: "Theo Phần VI, một cơ quan thực thi có thể ban hành một lệnh phong tỏa, một điều tra viên có thể tịch thu động sản trong quá trình điều tra, và Công tố viên nắm giữ thêm các quyền tịch thu và tịch biên."
 
 lang: "vi"
+sourceContentHash: "03583a7602b0f6ef"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

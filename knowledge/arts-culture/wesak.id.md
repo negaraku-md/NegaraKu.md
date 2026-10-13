@@ -18,8 +18,9 @@ keyTakeaways:
 appliesTo: "Siapa saja di Malaysia — baik Buddha maupun bukan — yang ingin mengetahui catatan yang jelas dan tepat tentang apa itu Hari Wesak, kapan ia jatuh, dan bagaimana ia dirayakan, termasuk pemberi kerja dan pekerja yang memeriksa tanggal hari libur umum."
 
 lang: "id"
+sourceContentHash: "87814a02e5e75f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

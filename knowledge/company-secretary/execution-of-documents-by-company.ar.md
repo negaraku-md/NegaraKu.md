@@ -34,10 +34,11 @@ faq:
     a: "بموجب المادة 67(1)، يُنفَّذ المستند تنفيذاً صحيحاً بوصفه سنداً إذا نفَّذته الشركةُ حسب الأصول وسُلِّم بوصفه سنداً. وتفترض المادة 67(2) أنّ التسليم قد تمّ بمجرّد تنفيذ السند تنفيذاً صحيحاً، ما لم تُثبَت نيّة مخالِفة."
 
 lang: "ar"
+sourceContentHash: "11a3057b821bdc34"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

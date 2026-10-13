@@ -29,8 +29,9 @@ faq:
     a: "Majlis Raja-Raja diatur dalam Pasal 38 Konstitusi Federal, dengan fungsi dan tata caranya diperinci dalam Jadual Kelima."
 
 lang: "id"
+sourceContentHash: "145a64a2a5caf8b7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

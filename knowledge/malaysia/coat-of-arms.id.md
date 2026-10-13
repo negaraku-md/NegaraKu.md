@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Pelajar, guru, pegawai negeri, jurnalis, dan siapa saja yang melihat Jata Negara pada paspor, koin, surat pemerintah, atau bangunan resmi dan ingin mengenali makna setiap elemennya."
 
 lang: "id"
+sourceContentHash: "d089f6e067d44f67"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

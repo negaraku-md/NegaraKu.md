@@ -42,10 +42,11 @@ verificationNeeded:
   - "تحقّق من المرجع الاستئنافي الماليزي الرائد بشأن اختباري السيطرة والاندماج مقابل الأحكام القضائية المنشورة"
 
 lang: "ar"
+sourceContentHash: "8132a0298fe4934d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

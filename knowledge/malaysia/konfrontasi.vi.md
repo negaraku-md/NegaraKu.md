@@ -27,8 +27,9 @@ faq:
   - q: "Konfrontasi có phải là một cuộc chiến được tuyên bố không?"
     a: "Không. Nó là một cuộc thù địch vũ trang không được tuyên bố chính thức là chiến tranh. Nó được tiến hành chủ yếu qua các cuộc đột kích xuyên biên giới, xâm nhập và tấn công hạn chế, chứ không qua một tuyên bố chiến tranh chính thức giữa hai nước."
 lang: "vi"
+sourceContentHash: "08c14e8e17f8ad68"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

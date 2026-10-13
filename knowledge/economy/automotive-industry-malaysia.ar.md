@@ -33,10 +33,11 @@ faq:
     a: "هي إطار الحكومة لقطاع السيارات، وآخر تحديث لها هو NAP 2020. وتستهدف مركبات الجيل القادم (NxGV) والتنقّل كخدمة وقدرات الصناعة 4.0، وتخضع لمراجعة منتصف المدة؛ وأطلقت MITI المراجعة (بإنشاء مجلس لكبار شخصيات السيارات في 2025) لكن لم تُنشر نتيجتها في موعدها المستهدف بنهاية 2025 وظلّت معلّقة في 2026."
 
 lang: "ar"
+sourceContentHash: "ce89b8f0036180e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

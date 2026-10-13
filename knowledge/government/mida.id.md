@@ -41,8 +41,9 @@ verificationNeeded:
   - "Apakah IMFC-J satu-satunya lanjutan wilayah bagi model IMFC, atau apakah lebih banyak lokasi IMFC telah dibuka sejak pemerintah menyatakan niatnya untuk mengembangkannya pada 2026"
 
 lang: "id"
+sourceContentHash: "e0c5ddbcc6a8b0ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

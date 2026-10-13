@@ -33,8 +33,9 @@ faq:
     a: "Tidak secara otomatis. Karena kedua negeri mengendalikan imigrasi sendiri, warga asing diperiksa ulang di titik masuk Sabah/Sarawak dan menerima izin atau pas negeri yang terpisah."
 
 lang: "id"
+sourceContentHash: "61e0e60b5ca388ec"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

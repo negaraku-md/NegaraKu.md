@@ -16,8 +16,9 @@ answer: "Empat kategori disingkirkan dari pengecualian audit di bawah Practice D
 verificationNeeded: []
 
 lang: "id"
+sourceContentHash: "776ac8951ed8d754"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

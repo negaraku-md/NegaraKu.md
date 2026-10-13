@@ -31,11 +31,12 @@ faq:
     a: "نعم. يشمل نظام التعليم الوطني في ماليزيا المدارس من النوع الوطني (Sekolah Jenis Kebangsaan) التي تستعمل الماندرين (SJKC) أو التاميلية (SJKT) لغةً للتدريس، إلى جانب المدارس الوطنية (SK) التي تستعمل اللغة الملايوية. وتقع الأنواع الثلاثة جميعها تحت وزارة التربية والمنهج الوطني نفسه."
 
 lang: "ar"
+sourceContentHash: "ab65f68bd17c67a2"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

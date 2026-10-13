@@ -62,10 +62,11 @@ obligations:
     consequence: "غرامة لا تتجاوز RM50,000 على الشركة وكل مسؤول"
 
 lang: "ar"
+sourceContentHash: "0c5ee4a6c8f640ee"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

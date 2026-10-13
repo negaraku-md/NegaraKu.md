@@ -29,8 +29,9 @@ faq:
     a: "Một số gói takaful cho phép thặng dư có thể phân phối từ quỹ rủi ro được chia sẻ với những người tham gia đủ điều kiện, tùy theo các điều khoản của chứng chỉ. Tính năng chia sẻ thặng dư này không có tương đương trực tiếp trong hầu hết các hợp đồng thông thường."
 
 lang: "vi"
+sourceContentHash: "94509152b2b8fc7d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

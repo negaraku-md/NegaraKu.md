@@ -32,8 +32,9 @@ faq:
     a: "Kepada otoritas agama yang dibentuk di bawah undang-undang tertulis — yaitu lembaga atau pusat zakat negeri Anda — dan simpan resi. Pembayaran kepada individu atau dana pribadi tidak layak untuk rebat."
 
 lang: "id"
+sourceContentHash: "0477b9f160c18e84"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

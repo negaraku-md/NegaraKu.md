@@ -20,8 +20,9 @@ keyTakeaways:
   - "Pertemuan distribusi pada 2 September 1970 memutuskan teks Bahasa Malaysia adalah teks asli; versi bahasa lain adalah terjemahan"
 appliesTo: "Pelajar, guru, pegawai negeri, dan siapa saja yang perlu merujuk teks resmi Rukun Negara serta kronologi penyusunannya berdasarkan catatan arsip."
 lang: "id"
+sourceContentHash: "b7cede975bcf8a6f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

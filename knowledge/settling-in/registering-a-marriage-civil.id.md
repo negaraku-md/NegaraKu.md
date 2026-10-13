@@ -25,8 +25,9 @@ verificationNeeded:
   - "Jika salah satu pihak pernah menikah sebelumnya, atau merupakan warga asing, pastikan dokumen pendukung khusus (dekri perceraian, akta kematian, surat status lajang dari kedutaan Anda) yang diperlukan untuk kasus Anda di loket JPN, karena ini berbeda menurut keadaan"
 
 lang: "id"
+sourceContentHash: "6a489eafa5d0a4e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố đọc thống kê dân số, lao động hay bất động sản của Malaysia cho đúng — nhà nghiên cứu, nhà quy hoạch, và các doanh nghiệp đánh giá dân số và lực lượng lao động thực sự ở đâu."
 
 lang: "vi"
+sourceContentHash: "0362cd9a8f8b4f6a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

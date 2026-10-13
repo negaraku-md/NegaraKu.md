@@ -29,12 +29,13 @@ faq:
     a: "اتفق الطرفان على أن تصبح بتروس مجمِّع غاز ساراواك (باستثناء الغاز المسال) عقب لقاء في يناير 2025، وبدأت بتروس العمل مجمِّعًا في 1 مارس 2025. غير أن عدة فروق في التفسير القانوني وتفاصيل تجارية لا تزال قيد التفاوض."
 
 lang: "ar"
+sourceContentHash: "9fa405873e618d18"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

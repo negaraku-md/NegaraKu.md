@@ -62,8 +62,9 @@ obligations:
     consequence: "Một thay đổi trong phân bổ có thể ảnh hưởng đến điều kiện của người giữ giấy phép"
 
 lang: "vi"
+sourceContentHash: "55c7c72a565b9b9a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

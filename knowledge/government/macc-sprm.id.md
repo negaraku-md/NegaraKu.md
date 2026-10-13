@@ -32,8 +32,9 @@ faq:
     a: "Ya. Pasal 17A, yang diperkenalkan oleh amendemen 2018 (Act A1567) dan mulai berlaku pada 1 Juni 2020, menjadikan sebuah organisasi komersial bertanggung jawab apabila seseorang yang berkaitan dengannya secara korup memberi atau menawarkan gratifikasi untuk memperoleh atau mempertahankan bisnis. Secara terpisah, definisi 'badan awam' dalam Pasal 3 Akta itu menjangkau perusahaan dan anak perusahaan yang mana badan awam memiliki kuasa atau kepentingan pengendali."
 
 lang: "id"
+sourceContentHash: "6d18558cf5584f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

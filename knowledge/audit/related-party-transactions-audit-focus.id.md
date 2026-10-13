@@ -32,8 +32,9 @@ faq:
     a: "Ia merupakan lapisan yang terpisah. ISA 550 mengatur audit; MFRS 124 mengatur apa yang harus diungkapkan dalam laporan keuangan; dan Bab 10 Bursa mengatur aksi korporasi — kapan penerbit tercatat harus mengumumkan transaksi, menerbitkan surat edaran, atau memperoleh persetujuan pemegang saham terlebih dahulu, dengan direktur dan pemegang saham utama yang berkepentingan tidak memberikan suara."
 
 lang: "id"
+sourceContentHash: "ea0ecab6bfc0f793"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

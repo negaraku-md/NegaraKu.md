@@ -29,8 +29,9 @@ faq:
     a: "Bagi individu, denda hingga RM100,000 dan/atau penjara hingga 3 tahun untuk pelanggaran pertama, dan hingga RM250,000 dan/atau 5 tahun untuk pelanggaran berikutnya. Bagi badan korporat, denda hingga RM500,000, dan hingga RM1 juta untuk pelanggaran berikutnya."
 
 lang: "id"
+sourceContentHash: "8699ed0e058e98c7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

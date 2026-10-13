@@ -21,9 +21,10 @@ verificationNeeded:
   - "لا تذكر هذه المقالة القائمة الكاملة للأمراض الخطيرة الخمسين المشمولة بموجب mySalam، لأن القائمة التفصيلية لم يمكن التحقق منها مباشرةً على الموقع الرسمي mysalam.com.my وقت الكتابة؛ يُرجى مراجعة بوابة mySalam الرسمية للاطلاع على القائمة الكاملة."
   - "تخضع مدة سريان برنامجي mySalam وPeKa B40 لقرارات الميزانية السنوية؛ وقد جرى التحقق من الأرقام والشروط الواردة في هذه المقالة مقابل المواقع الرسمية وقت الكتابة (يوليو 2026)، وقد تُحدَّث في ميزانية مقبلة."
 lang: "ar"
+sourceContentHash: "46290890ce15acbd"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

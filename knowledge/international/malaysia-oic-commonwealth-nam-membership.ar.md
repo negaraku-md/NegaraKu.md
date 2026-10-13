@@ -31,12 +31,13 @@ faq:
     a: "منظمة التعاون الإسلامي هيئة سياسية وتضامنية للعالم الإسلامي بأسره وتضم 57 عضواً؛ أما مجموعة D-8 فهي تجمع أصغر للتعاون الاقتصادي يضم ثماني (والآن تسع) دول نامية ذات أغلبية مسلمة، وهو أكثر تركيزاً على التجارة والتنمية."
 
 lang: "ar"
+sourceContentHash: "0bd4e9cbc79316f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

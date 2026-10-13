@@ -20,12 +20,13 @@ keyTakeaways:
 appliesTo: "المسافرون والشركات وكل من يحاول فهم سبب تصرّف «ماليزيا» أحياناً كإدارتين تتقاسمان جواز سفر واحداً وعلماً واحداً."
 
 lang: "ar"
+sourceContentHash: "da887efa0f358f15"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

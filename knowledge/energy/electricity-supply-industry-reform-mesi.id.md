@@ -36,8 +36,9 @@ faq:
     a: "Pada 2020, Menteri Tenaga dan Sumber Asli saat itu, Datuk Dr Shamsul Anuar Nasarah, memberitahu Parlemen bahwa rencana itu patut ditinjau ulang karena biayanya — implikasi finansial kira-kira RM5 miliar kepada pemerintah, ditambah obligasi pembelian daya RM60–80 miliar yang terpaksa ditanggung oleh pemerintah. Reformasi sejak itu dilanjutkan dalam langkah-langkah yang lebih kecil dan bersasar, dan bukan satu liberalisasi besar-besaran sekaligus."
 
 lang: "id"
+sourceContentHash: "5e135be7df9c9a11"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

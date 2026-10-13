@@ -33,8 +33,9 @@ faq:
     a: "Ngoài giấy phép cơ sở, giấy CCC và giấy chứng nhận phòng cháy của BOMBA, việc lưu trữ hàng độc hại hoặc nguy hiểm còn có sự tham gia của Cục An toàn và Sức khỏe Nghề nghiệp (Department of Occupational Safety and Health, DOSH) — ví dụ chế độ kiểm soát nguy cơ tai nạn công nghiệp nghiêm trọng đối với các chất độc hại số lượng lớn — và Cục Môi trường (Department of Environment, DOE) khi có liên quan đến chất thải theo danh mục hoặc hóa chất bị kiểm soát. Nếu hàng cũng chịu thuế và được lưu trữ theo chế độ ngoại quan, thì các điều kiện giấy phép Hải quan cũng được áp dụng. Hãy xác định phạm vi của các phê duyệt này sớm, vì chúng có thể quyết định tòa nhà và địa điểm trước khi bạn ký một hợp đồng thuê."
 
 lang: "vi"
+sourceContentHash: "25fea0864e2d1d42"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "MKI là Hội đồng Quốc gia về các Vấn đề Tôn giáo Hồi giáo Malaysia — hội đồng cấp quốc gia là nền tảng điều phối và xem xét các vấn đề Hồi giáo. JAKIM đóng vai trò ban thư ký của nó, tức quản lý các cuộc họp của các ủy ban và ban chuyên gia thảo luận các vấn đề syariah, tín lý (akidah) và liên quan để xác định quyết định ở cấp quốc gia."
 
 lang: "vi"
+sourceContentHash: "f6f58358eee27f91"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

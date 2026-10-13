@@ -29,8 +29,9 @@ faq:
     a: "CLBG baru dapat mengajukan saat pendirian tetapi wajib mengumpulkan dana tunai RM1 juta dalam waktu enam bulan. CLBG yang sudah ada wajib telah didirikan sekurang-kurangnya dua tahun dan menunjukkan RM1 juta tunai di dalam bank dalam laporan keuangan terkininya."
 
 lang: "id"
+sourceContentHash: "9a66cfe119dbc531"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

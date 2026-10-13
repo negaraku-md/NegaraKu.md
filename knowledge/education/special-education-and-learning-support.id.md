@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Orang tua dan wali anak di Malaysia yang memiliki disabilitas atau kesulitan belajar yang terdiagnosis, yang berupaya memahami penempatan sekolah dan langkah pendaftaran mana yang berlaku."
 
 lang: "id"
+sourceContentHash: "e0164ad51b29c01a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

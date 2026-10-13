@@ -41,10 +41,11 @@ verificationNeeded:
   - "لم يُسترجَع النص الكامل لقواعد ضريبة الدخل (خصم المزية والهدية من صاحب العمل إلى الموظف) لسنة 2009 (Income Tax (Deduction for Benefit and Gift From Employer to Employee) Rules 2009)، P.U.(A) 153/2009، من مصدر أولي؛ ونطاقها موصوف كما هو مُستشهَد به في الفقرة 12.1 من القرار العام 11/2019 (Public Ruling 11/2019)."
 
 lang: "ar"
+sourceContentHash: "d4a3fc76b902795b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

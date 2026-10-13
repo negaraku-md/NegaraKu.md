@@ -30,8 +30,9 @@ faq:
     a: "Nếu quyền tiếp cận thông tin bộ phận hoặc kiểm toán viên bị hạn chế và bộ phận đó là đáng kể, kiểm toán viên tập đoàn có thể không thu thập được đủ bằng chứng thích hợp, điều này có thể dẫn đến một ý kiến ngoại trừ hoặc một sự từ chối đưa ra ý kiến về báo cáo tài chính tập đoàn."
 
 lang: "vi"
+sourceContentHash: "871221203173410a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

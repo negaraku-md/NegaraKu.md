@@ -20,11 +20,12 @@ keyTakeaways:
   - "أنشأ اتحاد 1948 مجلس الحكّام (Conference of Rulers)، والمجلس التشريعي الاتحادي، والمجلس التنفيذي الاتحادي، لكن السلطة التنفيذية ظلّت بيد المفوّض السامي البريطاني (High Commissioner)"
 appliesTo: "الطلاب والباحثون والقرّاء العامّون الراغبون في فهم أصول البنية الدستورية لماليزيا — خصوصًا كيف وُضعت كتابةً، لأول مرة قبل يوم الاستقلال، مكانةُ الحكّام الملايويين وشروطُ المواطنة."
 lang: "ar"
+sourceContentHash: "f8c770a08f5a6831"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

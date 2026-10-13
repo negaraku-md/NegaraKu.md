@@ -33,8 +33,9 @@ faq:
     a: "Ia adalah kerangka kerja pemerintah untuk sektor mobil, yang paling terkini diperbarui sebagai NAP 2020. Ia menyasarkan kendaraan generasi mendatang (NxGV), Mobilitas-sebagai-Layanan, dan kapabilitas Industri 4.0, dan sedang menjalani kajian paruh waktu; MITI meluncurkan kajian itu (membentuk Majlis Tokoh Automotif Terkemuka pada 2025) tetapi hasilnya tidak diterbitkan pada target akhir 2025 dan tetap tertunda pada 2026."
 
 lang: "id"
+sourceContentHash: "ce89b8f0036180e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

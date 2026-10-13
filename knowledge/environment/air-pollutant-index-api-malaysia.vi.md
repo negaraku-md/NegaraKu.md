@@ -30,8 +30,9 @@ faq:
     a: "Ở mức 101–200 (Không lành mạnh), các nhóm nhạy cảm — người cao tuổi, phụ nữ mang thai, trẻ em và người mắc biến chứng tim hoặc phổi — nên hạn chế hoạt động ngoài trời. Ở mức trên 300 (Nguy hiểm), người cao tuổi và người có nguy cơ cao bị cấm hoạt động ngoài trời, và công chúng được khuyên nên tránh."
 
 lang: "vi"
+sourceContentHash: "fc387c28a9eb09b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

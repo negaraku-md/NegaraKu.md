@@ -39,10 +39,11 @@ verificationNeeded:
   - "القائمة الكاملة لتحفظات ماليزيا وإخطاراتها بشأن MLI على المادتين 12 و13 لم تُستردّ من مصدر حكومي ماليزي. والنص المركّب (synthesised text) لماليزيا-اليابان يؤكّد انطباق المادتين على ذلك الزوج التعاهدي؛ فلا تُعمّم على معاهدة أخرى دون قراءة نصّها المركّب الخاص"
 
 lang: "ar"
+sourceContentHash: "7dd6ea1d4a097c43"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

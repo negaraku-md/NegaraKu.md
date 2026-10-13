@@ -34,8 +34,9 @@ faq:
     a: "Không nhất thiết. Cuộc khảo sát phát hiện rằng các quần thể trong các khu rừng được quản lý tốt, khai thác bền vững như Deramakot và Segama vẫn ổn định qua 15 năm, cho thấy đười ươi có thể tồn tại trong rừng sản xuất khi nó được quản lý cẩn thận và giữ được sự kết nối."
 
 lang: "vi"
+sourceContentHash: "3e08558cd6bea030"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

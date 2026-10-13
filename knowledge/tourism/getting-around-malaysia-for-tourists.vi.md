@@ -37,8 +37,9 @@ faq:
     a: "Một thẻ Touch 'n Go. Nó hoạt động trên LRT, MRT, monorail, BRT và xe buýt của Rapid KL. Xe buýt Rapid KL không dùng tiền mặt, vì vậy một thẻ (hoặc ứng dụng) thực tế là bắt buộc cho xe buýt."
 
 lang: "vi"
+sourceContentHash: "df3f033b8e40fec3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -35,8 +35,9 @@ faq:
     a: "Kedua negara bagian menuntut royalti 5% berdasarkan perjanjian 1975. Terengganu menerima pembayaran (walaupun pernah diganti menjadi 'wang ehsan' sekitar 2000 dan dipulihkan pada 2009), sementara tuntutan pengadilan Kelantan pada 2010 digugurkan pada 2019. Isu utamanya adalah apakah sumur yang bersangkutan terletak dalam perairan negara bagian (batas tiga mil laut) atau di bawah yurisdiksi federal."
 
 lang: "id"
+sourceContentHash: "fee9c9760c973ad8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

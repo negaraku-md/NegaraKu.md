@@ -36,8 +36,9 @@ faq:
     a: "PVIP dikelola oleh Departemen Imigrasi (Dalam Negeri) dan bukannya MOTAC, menambahkan hak bekerja dan belajar secara eksplisit, membolehkan pembelian properti komersial dan industri (bukan hanya hunian), dan tidak mengenakan masa tinggal minimum. Permohonan diajukan melalui agen yang ditunjuk Imigrasi dan bukannya agen MM2H."
 
 lang: "id"
+sourceContentHash: "885b7aabccb192f1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

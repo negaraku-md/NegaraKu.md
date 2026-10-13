@@ -34,8 +34,9 @@ faq:
     a: "Untuk CCRIS, lembaga keuangan yang melaporkan wajib memperbaiki informasi yang tidak akurat dalam waktu yang wajar. Untuk CTOS, Anda dapat mengajukan sengketa langsung dengan agensi tersebut, yang diatur oleh Kantor Pendaftar Agensi Pelaporan Kredit di bawah Kementerian Keuangan."
 
 lang: "id"
+sourceContentHash: "d56078b999db6074"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

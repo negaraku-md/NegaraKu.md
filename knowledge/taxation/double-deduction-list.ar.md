@@ -28,10 +28,11 @@ verificationNeeded:
   - "ما إذا كان P.U.(A) 164/2019 قد مُدِّد مرةً أخرى إلى ما بعد سنة التقييم 2025 بأداة نُشرت في الجريدة الرسمية بعد كتابة هذه الصفحة."
 
 lang: "ar"
+sourceContentHash: "94db45958fc37cd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

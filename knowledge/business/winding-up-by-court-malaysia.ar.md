@@ -30,10 +30,11 @@ faq:
     a: "نعم. حين يكون الدين متنازعًا عليه بصدق (bona fide) على أسس جوهرية، يمكن للشركة أن تطلب أمر فورتونا الزجري (Fortuna injunction) لمنع الدائن من تقديم الالتماس، لأن التصفية ينبغي ألا تُستخدم لإنفاذ مطالبة متنازع عليها."
 
 lang: "ar"
+sourceContentHash: "b91e135cb6354783"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -42,8 +42,9 @@ verificationNeeded:
   - "Cơ quan quản lý và tuyến nộp hồ sơ cho ưu đãi lao động tri thức (knowledge worker) của JS-SEZ không được nêu trong hướng dẫn của MIDA — Appendix B của bản tóm lược liệt kê nó trong mục các ưu đãi khác mà không nêu tên tuyến nộp. Hãy xác nhận với MIDA hoặc IRDA trước khi tư vấn."
 
 lang: "vi"
+sourceContentHash: "6ef63a1c757e97dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

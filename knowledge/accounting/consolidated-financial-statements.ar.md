@@ -31,10 +31,11 @@ faq:
     a: "تُودَع لدى لجنة الشركات الماليزية (SSM) عبر نظام التقارير التجارية الماليزي (MBRS)، الذي يتطلب قوائم مالية بصيغة XBRL. ويدعم MBRS إطارَي MFRS وMPERS معاً، ويوفّر أعمدة للتقارير الموحّدة والمنفصلة."
 
 lang: "ar"
+sourceContentHash: "582764d653c4df0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

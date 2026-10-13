@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố hiểu cơ sở pháp lý của ngành dầu khí Malaysia, sự phụ thuộc tài khóa của liên bang vào dầu mỏ, hoặc cuộc tranh luận tài nguyên liên bang-bang — học sinh sinh viên, nhà phân tích, nhà đầu tư và nhà báo."
 
 lang: "vi"
+sourceContentHash: "e00cfef3a5a059c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

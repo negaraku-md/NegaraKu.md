@@ -43,10 +43,11 @@ obligations:
     consequence: "Late lodgement penalty under PD 1/2017 and exposure to strike-off action"
 
 lang: "ar"
+sourceContentHash: "c47e879b49e93850"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

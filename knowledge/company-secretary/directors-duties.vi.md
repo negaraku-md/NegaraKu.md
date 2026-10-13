@@ -56,8 +56,9 @@ obligations:
     consequence: "Việc cấp phép hết hiệu lực"
 
 lang: "vi"
+sourceContentHash: "03035b145c07011e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

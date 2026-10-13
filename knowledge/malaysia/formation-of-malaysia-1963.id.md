@@ -29,8 +29,9 @@ faq:
     a: "Singapura berpisah pada 9 Agustus 1965 menyusul sebuah pemungutan suara di Parlemen Malaysia. Ketegangan politik antara Parti Tindakan Rakyat dan pemerintah Perikatan mengenai kebijakan ekonomi dan dasar persaingan politik telah mendahului perpisahan itu. Kedua pihak tidak merencanakan hasil demikian pada penggabungan 1963."
 
 lang: "id"
+sourceContentHash: "6eb2de3c5c01ceae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

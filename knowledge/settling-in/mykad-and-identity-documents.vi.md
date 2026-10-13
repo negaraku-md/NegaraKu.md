@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Công dân Malaysia không chắc thẻ nào bắt buộc phải có ở các giai đoạn tuổi khác nhau, thường trú nhân mới được phê duyệt Giấy phép Nhập cư, và người nước ngoài muốn biết liệu họ có giữ bất kỳ thẻ JPN nào không."
 
 lang: "vi"
+sourceContentHash: "873639e4a7149ab4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

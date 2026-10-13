@@ -33,9 +33,10 @@ faq:
   - q: "ماذا حلّ بالمجموعتين في النهاية؟"
     a: "حُلّت الولايات الملايوية المتّحدة وغير المتّحدة كلتاهما في اتّحاد الملايو (Malayan Union) في 1 أبريل 1946، الذي حلّ محلّه بدوره خلال سنوات قليلة اتّحاد مالايا (Federation of Malaya)."
 lang: "ar"
+sourceContentHash: "3bcc3b32fd59d463"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

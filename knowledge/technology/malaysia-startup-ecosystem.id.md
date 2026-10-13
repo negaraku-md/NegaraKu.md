@@ -36,8 +36,9 @@ faq:
     a: "KL20 adalah rencana aksi pemerintah 2024, yang diperkenalkan di KTT KL20 di Kuala Lumpur, untuk mengukuhkan daya saing startup Malaysia. Ia menggariskan inisiatif lintas tiga bidang fokus kritikal — modal, talenta dan kualitas startup — dan menyasar menjadikan Malaysia sebagai hub startup 20 terbaik global dengan valuasi startup RM400 miliar menjelang 2030. Ia diselaraskan dengan Peta Jalan Modal Ventura Malaysia 2024-2030 dan tujuan menjadikan Malaysia sebagai hub modal ventura regional pilihan menjelang 2030."
 
 lang: "id"
+sourceContentHash: "0c6b5fee40e498df"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

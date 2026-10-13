@@ -63,8 +63,9 @@ obligations:
     consequence: "Tội danh của công ty và mọi cán bộ vi phạm, cộng với các khoản phạt nộp muộn theo SSM Practice Directive 1/2017 đã sửa đổi"
 
 lang: "vi"
+sourceContentHash: "49a0af6107cdceff"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

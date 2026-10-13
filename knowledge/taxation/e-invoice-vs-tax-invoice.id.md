@@ -26,8 +26,9 @@ verificationNeeded:
   - "Apakah RMCD telah mengeluarkan panduan khusus yang menyelaraskan representasi visual e-Invois dengan rincian faktur SST — tidak ada yang ditemukan di mysst.customs.gov.my"
 
 lang: "id"
+sourceContentHash: "cf809540c51ed69e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

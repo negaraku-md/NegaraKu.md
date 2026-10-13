@@ -52,8 +52,9 @@ obligations:
     consequence: "Là tội danh theo reg 12(2); người lao động có thể yêu cầu bản tuyên bố trong vòng 14 ngày theo reg 12(3)"
 
 lang: "vi"
+sourceContentHash: "2c74afc56ca4140f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

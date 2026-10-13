@@ -28,10 +28,11 @@ verificationNeeded:
   - "حدود معدل استدعاء الـ API لكل نقطة نهاية — تُحيل الـ SDK إلى Integration Practices دون ذكر حدود رقمية على صفحة الأسئلة المتكرِّرة"
 
 lang: "ar"
+sourceContentHash: "7457966f1e6638bb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

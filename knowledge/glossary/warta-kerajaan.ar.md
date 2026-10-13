@@ -27,10 +27,11 @@ verificationNeeded:
   - "النص المقتبس للمادة 66(5) هو ترجمة بلغة الملايو من دائرة النائب العام؛ يجب التحقق منه مقابل النص الإنجليزي ذي الحجية."
 
 lang: "ar"
+sourceContentHash: "f029a1ff1ebfdbf1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -78,10 +78,11 @@ obligations:
     consequence: "لا يتاح استثناء s.75(2)(d)، فيستلزم التخصيص موافقة مسبقة من الأعضاء وإلا كان باطلاً بموجب s.75(4)"
 
 lang: "ar"
+sourceContentHash: "8cbd2aa6c4bb698a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

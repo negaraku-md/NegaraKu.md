@@ -31,8 +31,9 @@ faq:
     a: "Akta ini mewujudkan tindak pidana dan penalti plafon yang ditetapkan oleh Parlemen bagi masing-masing, tetapi angka sebenarnya kerap disesuaikan oleh perundangan subsidiari dan pemberitahuan administratif (misalnya sistem kompaun AWAS). Halaman ini tidak menampilkan jumlah denda tertentu karena itu — periksa tabel resmi JPJ yang diterbitkan untuk angka terkini."
 
 lang: "id"
+sourceContentHash: "082c1821680b3184"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

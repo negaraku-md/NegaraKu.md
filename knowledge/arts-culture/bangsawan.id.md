@@ -34,8 +34,9 @@ faq:
     a: "Ia merosot pada pertengahan abad ke-20 akibat persaingan dari radio, film dan televisi. Menjelang akhir 1930-an banyak panggung bangsawan diubah menjadi gedung bioskop, dan setelah perang industri itu kehilangan sumber dana."
 
 lang: "id"
+sourceContentHash: "9acb0bf06bc5782c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -28,8 +28,9 @@ faq:
   - q: "Ngân sách của Bộ Giáo dục lớn đến đâu?"
     a: "Theo Ngân sách 2026, KPM nhận được RM66.2 tỷ — khoản phân bổ lớn nhất của bất kỳ bộ liên bang nào — tăng từ RM64.2 tỷ năm 2025. Khoản phân bổ bao gồm gần RM2 tỷ để nâng cấp hơn 520 trường học xuống cấp và xây 38 trường mới."
 lang: "vi"
+sourceContentHash: "4f75b1390b41bfeb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

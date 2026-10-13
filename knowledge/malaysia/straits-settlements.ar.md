@@ -29,9 +29,10 @@ faq:
   - q: "ماذا حدث لمستوطنات المضائق في النهاية؟"
     a: "حُلّت في 1 أبريل 1946. أُدمجت بينانغ وملقا في اتحاد الملايو إلى جانب الولايات الملايوية المتحدة وغير المتحدة، بينما فُصلت سنغافورة لتصبح مستعمرة تاج منفصلة خاصة بها."
 lang: "ar"
+sourceContentHash: "9cb8a0574c93b0cb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

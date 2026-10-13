@@ -34,8 +34,9 @@ faq:
     a: "Beroperasi tanpa pendaftaran adalah pelanggaran. Di bawah Pasal 39, sebuah badan hukum boleh dikenakan denda RM10,000 hingga RM50,000 bagi pelanggaran pertama dan RM20,000 hingga RM100,000 bagi pelanggaran berikutnya; individu pula boleh dikenakan RM5,000 hingga RM25,000 atau penjara hingga enam bulan bagi pelanggaran pertama."
 
 lang: "id"
+sourceContentHash: "86582fd00a53a2cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

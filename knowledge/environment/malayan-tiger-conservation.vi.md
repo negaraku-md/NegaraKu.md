@@ -33,8 +33,9 @@ faq:
     a: "Các động lực chính là săn trộm và buôn bán động vật hoang dã bất hợp pháp lấy bộ phận hổ, suy thoái rừng và mất môi trường sống, tai nạn đường bộ và xung đột người–hổ, và con mồi suy giảm."
 
 lang: "vi"
+sourceContentHash: "4cb728294e2f0482"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

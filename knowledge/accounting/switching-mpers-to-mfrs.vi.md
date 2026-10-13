@@ -41,8 +41,9 @@ verificationNeeded:
   - "Hãy xác nhận liệu MASB đã ban hành bất kỳ hướng dẫn cụ thể nào về việc áp dụng lại MPERS bởi một thực thể trước đây đã chuyển sang MFRS hay chưa"
 
 lang: "vi"
+sourceContentHash: "621bf2dc64ee78c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

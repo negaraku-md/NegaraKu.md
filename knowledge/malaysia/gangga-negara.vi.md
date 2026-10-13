@@ -17,8 +17,9 @@ keyTakeaways:
   - "Các nhà sử học như James Low (1849) và H.G. Quaritch Wales cố xác định vị trí của nó nhưng không thành công trong việc chắc chắn về nó"
 appliesTo: "Độc giả từng nghe cái tên Gangga Negara trong giờ học lịch sử hay trên mạng xã hội và muốn biết điều gì thực sự có thể chứng minh được, so với điều chỉ là truyền thuyết."
 lang: "vi"
+sourceContentHash: "4947488c0b12f663"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -49,8 +49,9 @@ obligations:
     consequence: "Đánh thuế bởi Tổng Giám đốc, với các hình phạt theo Luật Thuế thu nhập (Income Tax Act 1967)"
 
 lang: "vi"
+sourceContentHash: "16cead0c42c9de23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

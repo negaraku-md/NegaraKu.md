@@ -34,8 +34,9 @@ faq:
     a: "Việc không tuân thủ phán quyết là một hành vi phạm tội theo Mục 123 — phạt không quá RM250,000 hoặc phạt tù không quá 3 năm hoặc cả hai, với mức phạt bổ sung đến RM5,000 mỗi ngày cho hành vi phạm tội tiếp diễn. Khiếu nại được gửi đến Ủy viên Xây dựng (COB)."
 
 lang: "vi"
+sourceContentHash: "f0b9ecff267db2f3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -40,8 +40,9 @@ faq:
     a: "Bảo tàng, tại số 48 & 50 Jalan Tun Tan Cheng Lock, đóng cửa vào thứ Ba. Nó mở cửa 10:00 đến 16:15 vào các ngày trong tuần (trừ thứ Ba) và 10:00 đến 16:45 vào cuối tuần. Vì giờ giấc và giá cả có thể thay đổi, hãy xác nhận trên trang chính thức của bảo tàng trước khi thăm."
 
 lang: "vi"
+sourceContentHash: "e6af87197b8f50e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

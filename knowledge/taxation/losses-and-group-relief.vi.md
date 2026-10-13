@@ -41,8 +41,9 @@ verificationNeeded:
   - "Xác nhận liệu có bất kỳ khoản miễn nào của Bộ trưởng theo s.44(5D) đã được cấp trong các trường hợp riêng lẻ ngoài việc nới lỏng chung YA2006 hay không; chỉ có lập trường chung được công bố"
 
 lang: "vi"
+sourceContentHash: "5db600f69d4d89ad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

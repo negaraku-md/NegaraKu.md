@@ -27,8 +27,9 @@ faq:
   - q: "Di mana MSN berkantor pusat?"
     a: "Di Kompleks Sukan Negara, Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. Ia juga mengelola kompleks pelatihan di beberapa negeri lain."
 lang: "id"
+sourceContentHash: "d519f370c717d10a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -26,8 +26,9 @@ verificationNeeded:
   - "Apakah ada capital allowance dipercepat atau ditingkatkan khusus untuk pembelian (dibanding sewa) kendaraan listrik yang telah diwartakan — tidak ada instrumen demikian yang ditemukan dalam basis data perundangan subsidier AGC."
 
 lang: "id"
+sourceContentHash: "9f0ef46f2f698cad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

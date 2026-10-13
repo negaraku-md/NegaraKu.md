@@ -46,8 +46,9 @@ verificationNeeded:
   - "Xác nhận liệu bất kỳ luật cấp dưới nào đã được đăng công báo kể từ đó đặt các mức JS-SEZ, National Global Services Hub hoặc New Investment Incentive Framework theo s.65B của Income Tax Act 1967 hay không"
 
 lang: "vi"
+sourceContentHash: "667fe9c1898504ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

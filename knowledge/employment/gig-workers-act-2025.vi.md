@@ -61,8 +61,9 @@ obligations:
     consequence: "Phạt tiền lên đến RM50,000, tù lên đến hai năm, hoặc cả hai, cộng lên đến RM500 một ngày cho một tội tiếp diễn"
 
 lang: "vi"
+sourceContentHash: "8a2909522637427b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

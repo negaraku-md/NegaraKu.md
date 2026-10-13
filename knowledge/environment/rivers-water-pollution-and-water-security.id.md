@@ -34,8 +34,9 @@ faq:
     a: "Menurut laporan Macaranga, amandemen pada 2023 terhadap Environmental Quality Act 1974 menetapkan denda minimum RM5,000 dan maksimum hingga RM10 juta, serta hukuman penjara wajib tidak melebihi lima tahun untuk pelanggaran pencemaran. Untuk pelanggaran di bawah rezim sempadan sungai Selangor (Pasal 48(1) Enakmen LUAS 1999), sanksinya adalah denda tidak melebihi RM50,000 atau penjara tidak melebihi dua tahun, atau keduanya. Angka amandemen Act 1974 ini berasal dari laporan sekunder dan perlu dipastikan terhadap teks Warta resmi."
 
 lang: "id"
+sourceContentHash: "1a7e38792ecc17c4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

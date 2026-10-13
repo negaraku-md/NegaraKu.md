@@ -24,8 +24,9 @@ verificationNeeded:
   - "Việc một yêu cầu cụ thể đối với người lái (như tuổi tối thiểu) có áp dụng hay không nên được xác nhận với JPJ hoặc đơn vị vận hành gọi xe điện tử riêng lẻ, vì nó không được nêu ở dạng xác nhận được trên các trang chính thức đã tham khảo"
 
 lang: "vi"
+sourceContentHash: "10f57c7f87a7c675"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

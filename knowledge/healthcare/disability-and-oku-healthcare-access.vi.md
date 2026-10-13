@@ -31,8 +31,9 @@ faq:
     a: "Trợ giúp Thiết bị hỗ trợ/Chân tay giả (BAT) thuộc JKM bao gồm xe lăn tay hoặc xe lăn điện, chân và tay giả, máy trợ thính, gậy trắng và máy chữ nổi braille, theo giá thực tế đã ấn định của thiết bị."
 
 lang: "vi"
+sourceContentHash: "eb1c377cbf19305d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

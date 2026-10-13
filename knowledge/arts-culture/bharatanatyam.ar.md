@@ -32,9 +32,10 @@ seoTitle: "البهاراتاناتيام في ماليزيا: شرح شكل ا�
 socialTitle: "كيف تجذّرت رقصة جنوب الهند الكلاسيكية في ماليزيا"
 
 lang: "ar"
+sourceContentHash: "f61cd4f8304d521c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

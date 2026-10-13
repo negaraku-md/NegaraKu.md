@@ -26,10 +26,11 @@ verificationNeeded:
   - "لم يتسنَّ التحقق باستقلالية من إجمالي أصول استثمار EPF وإجمالي أرقام العضوية عبر الجلب المباشر من kwsp.gov.my (يعيد الموقع HTTP 403 للجلب الآلي)؛ تتجاهل هذه المقالة عمدًا أي رقم دقيق لأصول EPF المدارة أو لعدد الأعضاء بدل نشر رقم غير محقَّق — أضِف كليهما، مع مصدر من kwsp.gov.my، عند أول مراجعة بشرية"
 
 lang: "ar"
+sourceContentHash: "bde519fccc17693d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

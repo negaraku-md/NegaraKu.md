@@ -35,8 +35,9 @@ faq:
     a: "Hanya di negeri dan wilayah persekutuan yang mewartakannya. Ia dirayakan sebagai libur umum di tempat-tempat termasuk Kuala Lumpur, Putrajaya, Selangor, Pulau Pinang, Perak, Negeri Sembilan, Johor, dan Kedah, dan tidak diwartakan sebagai libur persekutuan seluruh negara. Karena ia ditetapkan menurut yurisdiksi masing-masing, daftar tepatnya dapat berbeda dari tahun ke tahun — selalu periksa pengumuman libur resmi bagi negeri terkait."
 
 lang: "id"
+sourceContentHash: "0b3f0235d5a676f2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

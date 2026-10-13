@@ -29,8 +29,9 @@ verificationNeeded:
   - "Verifikasi posisi pendaftaran bagi usaha di Sabah dan Sarawak, yang beroperasi di bawah ordinan negara bagian dan bukan Registration of Businesses Act 1956"
 
 lang: "id"
+sourceContentHash: "aecfbddfa9393cec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

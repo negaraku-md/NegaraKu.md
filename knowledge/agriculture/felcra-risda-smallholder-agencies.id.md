@@ -30,8 +30,9 @@ faq:
     a: "Usulan menyatukan pekebun kecil ketiga lembaga telah diangkat (misalnya oleh Perdana Menteri pada 2009 dan oleh FGV pada 2023), tetapi sejauh sumber yang dirujuk, tidak ada penggabungan penuh yang dilaksanakan."
 
 lang: "id"
+sourceContentHash: "a5eeffb434131b29"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

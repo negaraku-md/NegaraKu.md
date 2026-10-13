@@ -30,10 +30,11 @@ faq:
     a: "تبني YTL Power مجمّع مراكز بيانات كبيراً في Kulai بجوهر (Johor)، وأكملت أول منشأة ذكاء اصطناعي مدعومة بـNvidia أُعلن تشغيلها في نهاية أكتوبر 2025."
 
 lang: "ar"
+sourceContentHash: "430ec56c95aad0ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -29,10 +29,11 @@ faq:
     a: "إلى محكمة إدارة الطبقات، التي تعالج المطالبات التي تصل إلى RM250,000 بصورة أسرع وأرخص من المحاكم. ويتولى مفوض المباني (COB) في السلطة المحلية إنفاذ الامتثال للقانون."
 
 lang: "ar"
+sourceContentHash: "788e401fa0ccd9ab"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

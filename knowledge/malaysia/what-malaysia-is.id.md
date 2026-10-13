@@ -18,8 +18,9 @@ keyTakeaways:
   - "Kuasa pembentukan undang-undang dibagi antara federasi dan negeri-negeri oleh Daftar Federal, Daftar Negeri, dan Daftar Bersama dalam Jadwal Kesembilan"
 appliesTo: "Siapa pun yang baru di Malaysia dan ingin memahami jenis negara apa ia dari segi konstitusional, sebelum mendalami salah satu institusi mana pun."
 lang: "id"
+sourceContentHash: "8088b5defbdcad1c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

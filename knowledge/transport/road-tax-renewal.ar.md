@@ -30,10 +30,11 @@ faq:
     a: "إذا لم تُجدَّد LKM منذ أكثر من ثلاث سنوات، تشترط JPJ إحضار المركبة للفحص لدى Puspakom للحصول على تقرير B2 (أو فحص PG10 المخصص للدراجات النارية المملوكة للأفراد) قبل أن يُعالَج طلب التجديد في مكتب JPJ."
 
 lang: "ar"
+sourceContentHash: "20fe200c2e49f4f8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

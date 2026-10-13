@@ -31,8 +31,9 @@ faq:
     a: "JBPM terdaftar sebagai departemen di bawah Kementerian Perumahan dan Kerajaan Tempatan (KPKT). Portofolio kementerian di Malaysia disusun ulang dari waktu ke waktu, jadi konfirmasikan susunan terkini di kpkt.gov.my atau bomba.gov.my sebelum bergantung padanya dalam dokumen resmi."
 
 lang: "id"
+sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

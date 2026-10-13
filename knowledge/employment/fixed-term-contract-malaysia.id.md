@@ -40,8 +40,9 @@ verificationNeeded:
   - "Pastikan teks terkini dan syarat kelayakan Employment (Termination and Lay-Off Benefits) Regulations 1980 sebagaimana ia berlaku untuk berakhirnya kontrak tetap"
 
 lang: "id"
+sourceContentHash: "529468bbc9f83e00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

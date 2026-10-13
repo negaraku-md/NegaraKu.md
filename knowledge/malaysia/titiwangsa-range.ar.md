@@ -18,9 +18,10 @@ keyTakeaways:
   - "تندرج الأراضي المرتفعة في السلسلة ضمن أشدّ مستويات حماية المناطق الحسّاسة بيئيًا في ماليزيا صرامةً، وهي الحماية التي تصون النظم البيئية المرتفعة والجبلية من التطوير العمراني"
 appliesTo: "القرّاء الراغبون في تفسير واضح وموثَّق لماهية سلسلة تيتيوانجسا، وأين تمتدّ، ولماذا تقسم أنهار شبه جزيرة ماليزيا ومناخها ونمط استيطانها إلى جانبٍ ساحلي غربي وجانبٍ ساحلي شرقي."
 lang: "ar"
+sourceContentHash: "c92a68e675abc2cc"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -30,10 +30,11 @@ faq:
     a: "إنها تصدر بموجب القانون لا أنها جزء منه، لكنها تحمل قوة تنفيذية — إذ تقع معايير الإعفاء من التدقيق وغرامات التأخر في الإيداع وإجراءات تمديد المهلة كلها في توجيهات الممارسة، لا في نص المواد. والسؤال الذي يُجاب عنه من القانون وحده كثيرًا ما يُجاب عنه خطأً."
 
 lang: "ar"
+sourceContentHash: "d0840945570101e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

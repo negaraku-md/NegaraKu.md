@@ -29,8 +29,9 @@ verificationNeeded:
   - "Các chỉ thị thực hành (practice directions) cấu thành các phân tòa chuyên trách của High Court (New Commercial Court, Construction Court, Intellectual Property Court) và tiêu chí phân bổ của chúng — đây là các sắp xếp hành chính của ngành Tư pháp, không phải các tòa án luật định"
 
 lang: "vi"
+sourceContentHash: "7a5b4212b0b3e35b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Schedule 1 Part XVIII membatasi tarif bagi bukan warga negara domisili dalam jabatan utama di bawah skema insentif yang disetujui pada tidak lebih dari 20% — tarif berlaku ditetapkan skema demi skema dan tidak dipastikan"
 
 lang: "id"
+sourceContentHash: "361de000de2978ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

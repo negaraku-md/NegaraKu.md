@@ -36,10 +36,11 @@ faq:
     a: "تمتد الفترة الأكثر جفافاً وهدوءاً نحو نوفمبر إلى مارس، وهي الأفضل لتنقّل الجزر والتلفريك ووقت الشاطئ. ويميل سبتمبر وأكتوبر إلى أن يكونا أرطب الأشهر، وإن كان المطر عادةً زخات مدارية قصيرة لا طمساً طوال اليوم."
 
 lang: "ar"
+sourceContentHash: "a1ed788de3d96eee"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

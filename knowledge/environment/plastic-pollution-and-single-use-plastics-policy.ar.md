@@ -29,10 +29,11 @@ faq:
     a: "من بينها معدل إعادة تدوير للعبوات البلاستيكية نسبته 25% بحلول 2025، ومعدل جمع لإعادة التدوير (CFR) متوسطه 76% بحلول 2030، ومحتوى معاد تدويره متوسطه 15% بحلول 2030. ويُستهدف بلوغ معدل إعادة تدوير 100% بحلول 2050."
 
 lang: "ar"
+sourceContentHash: "a24e4c1da4f3ae42"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -40,10 +40,11 @@ verificationNeeded:
   - "التأكد من صيغة رقم اعتماد المدقق الصادر من وزير المالية المطبوع بجانب توقيع الشريك وعرف انتهاء صلاحيته — فالنموذج التوضيحي يبيّن هيكلًا لكن MIA لا يشرحه"
 
 lang: "ar"
+sourceContentHash: "46458a8295799022"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

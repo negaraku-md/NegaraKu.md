@@ -31,8 +31,9 @@ faq:
     a: "Nó tạo ra các tội danh và các hình phạt trần mà Quốc hội đặt cho mỗi tội, nhưng các con số chính xác thường xuyên được điều chỉnh bởi văn bản pháp luật thứ cấp và thông báo hành chính (ví dụ hệ thống nộp phạt AWAS). Trang này không tái hiện các mức phạt cụ thể vì lý do đó — hãy kiểm tra các biểu do chính JPJ công bố để biết con số hiện hành."
 
 lang: "vi"
+sourceContentHash: "082c1821680b3184"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

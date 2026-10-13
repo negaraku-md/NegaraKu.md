@@ -30,10 +30,11 @@ faq:
     a: "بالنسبة لبلاغ عن جريمة خطيرة بموجب المادة 266(9)، لا. تنص المادة 266(10) على أنه ما دام البلاغ عن مسألة مشار إليها في الفقرة الفرعية (9) قد قُدّم بحسن نية إلى المُسجِّل، فلا يُعتبر أي واجب على المدقق مُخالَفًا لمجرد ذلك البلاغ. وهذه الحماية القانونية الصريحة مُحالة تحديدًا إلى البلاغات بموجب الفقرة الفرعية (9)."
 
 lang: "ar"
+sourceContentHash: "9561fa4bff249209"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -34,8 +34,9 @@ faq:
     a: "Nếu sự phê duyệt hết hạn và không được kích hoạt lại trong vòng một năm, người nộp đơn phải nộp một đơn mới và phỏng vấn lại."
 
 lang: "vi"
+sourceContentHash: "e81ff5426724af5a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

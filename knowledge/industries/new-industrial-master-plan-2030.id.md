@@ -36,8 +36,9 @@ faq:
     a: "Struktur tiga tingkat: sebuah Dewan Nasional yang diketuai oleh Perdana Menteri, sebuah Komite Pengarah yang dipimpin oleh Menteri MITI, dan sebuah Unit Manajemen Penyampaian yang dipimpin oleh Sekretaris Jenderal (KSU) MITI."
 
 lang: "id"
+sourceContentHash: "edde30241ce67971"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

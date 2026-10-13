@@ -38,8 +38,9 @@ verificationNeeded:
   - "Quy mô hiện tại chính xác (số lượng nhân sự) của nền công vụ Malaysia — một con số chính xác, có ngày tháng hiện tại không thể được xác nhận trên một trang chính thức tại thời điểm viết bài."
 
 lang: "vi"
+sourceContentHash: "89bfb5455655a271"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

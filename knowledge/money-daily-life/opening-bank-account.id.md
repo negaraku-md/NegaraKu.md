@@ -25,8 +25,9 @@ verificationNeeded:
   - "Halaman kebijakan pendaftaran digital/e-KYC BNM mengembalikan kesalahan 403 saat pengambilan otomatis pada saat penulisan; keberadaan dan judulnya diverifikasi langsung dari hasil pencarian bnm.gov.my, tetapi perincian kelayakan yang terperinci harus diperiksa kembali langsung di bnm.gov.my apabila dapat diakses."
 
 lang: "id"
+sourceContentHash: "52307f4fb8c11cd2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

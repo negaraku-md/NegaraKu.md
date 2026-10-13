@@ -61,8 +61,9 @@ obligations:
     consequence: "Cơ chế kháng nghị đóng lại và đơn kháng nghị không thể được nộp"
 
 lang: "vi"
+sourceContentHash: "10fdb6251948c8f0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

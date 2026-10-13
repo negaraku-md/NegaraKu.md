@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu nghĩa của 'kampung' ngoài nghĩa đen — bao gồm nhà nghiên cứu, người viết, cán bộ và người mới đến làm việc với chính quyền làng xã."
 
 lang: "vi"
+sourceContentHash: "179d1d79aa799fca"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

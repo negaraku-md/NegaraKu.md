@@ -34,8 +34,9 @@ faq:
     a: "Ya, terutama Sabah. Gempa Ranau 2015 berkekuatan magnitudo 6.0 merenggut 18 nyawa di Gunung Kinabalu. Pada 23 Februari 2026, gempa lepas pantai bermagnitudo 6.8 terjadi dekat Kudat pada kedalaman 678 km tanpa ancaman tsunami. Risiko gempa besar di Semenanjung rendah."
 
 lang: "id"
+sourceContentHash: "aacc807758e00d83"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

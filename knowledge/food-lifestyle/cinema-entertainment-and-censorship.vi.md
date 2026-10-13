@@ -33,8 +33,9 @@ faq:
     a: "Việc sở hữu, phân phối hoặc chiếu phim mà không có giấy phép hoặc sự phê duyệt là một hành vi vi phạm theo Film Censorship Act 2002, với mức phạt từ RM5,000 đến RM30,000 và/hoặc phạt tù đến tối đa 3 năm."
 
 lang: "vi"
+sourceContentHash: "f25f07b35f2179e4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

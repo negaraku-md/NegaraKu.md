@@ -18,8 +18,9 @@ keyTakeaways:
   - "Địa hình cao của dãy nằm dưới tầng bảo vệ nghiêm ngặt nhất của các quy định Khu vực Nhạy cảm về Môi trường của Malaysia, che chở các hệ sinh thái vùng cao và núi khỏi phát triển"
 appliesTo: "Độc giả muốn một giải thích rõ ràng, đã được kiểm chứng về Dãy Titiwangsa là gì, nó chạy ở đâu, và vì sao nó chia các con sông, khí hậu và khuôn mẫu định cư của Bán đảo Malaysia thành một phía bờ tây và một phía bờ đông."
 lang: "vi"
+sourceContentHash: "c92a68e675abc2cc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

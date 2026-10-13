@@ -30,12 +30,13 @@ faq:
     a: "تتلقّى الولايتان منحاً خاصة بموجب المادة 112C ومصادر إيراد إضافية بموجب الجزء الخامس من الجدول العاشر، تشمل رسوماً على المنتجات البترولية، ورسوم تصدير الأخشاب وحاصلات الغابات، وإتاوات المعادن، وضرائب المبيعات للولاية."
 
 lang: "ar"
+sourceContentHash: "f7789909fc78f01b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

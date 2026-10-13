@@ -61,8 +61,9 @@ obligations:
     consequence: "Denda hingga RM50,000, penjara hingga dua tahun, atau keduanya, ditambah hingga RM500 sehari untuk pelanggaran berkelanjutan"
 
 lang: "id"
+sourceContentHash: "8a2909522637427b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

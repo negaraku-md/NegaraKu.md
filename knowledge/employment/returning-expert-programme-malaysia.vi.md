@@ -29,8 +29,9 @@ faq:
     a: "Nộp đơn trực tuyến qua nền tảng MyHeart của TalentCorp trong khi vẫn ở nước ngoài, lý tưởng là một đến hai tháng trước khi trở về dự kiến. Một đơn đầy đủ được xử lý trong tối đa 45 ngày làm việc."
 
 lang: "vi"
+sourceContentHash: "f730c6823dee3d1e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

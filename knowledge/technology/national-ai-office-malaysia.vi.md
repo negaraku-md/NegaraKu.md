@@ -32,8 +32,9 @@ faq:
     a: "Kế hoạch nhằm để AI đóng góp hơn RM60 tỷ vào GDP và đưa Malaysia vào top 20 quốc gia về mức độ sẵn sàng AI toàn cầu vào năm 2030, được thực hiện qua 28 sáng kiến."
 
 lang: "vi"
+sourceContentHash: "74e6c6495db49c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

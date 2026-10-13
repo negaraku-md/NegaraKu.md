@@ -30,8 +30,9 @@ faq:
     a: "Trước bản sửa đổi năm 2024, tuyến theo hiệu lực của luật của Điều 14(1)(b) áp dụng khi cha là công dân; sau phán quyết của Tòa Phúc thẩm ngày 5 tháng 8 năm 2023 (vụ Suriani Kempe & Ors lwn Kerajaan Malaysia), hồ sơ Borang D do mẹ là công dân nộp đã bị đình lại, như được ghi nhận trong hướng dẫn của Family Frontiers. Đạo luật sửa đổi được thông qua vào tháng 10 năm 2024 cân bằng quyền của cha và mẹ, nhưng chỉ cho con sinh ra sau khi nó có hiệu lực. Đối với con dưới 18 tuổi sinh ra trước đó, tuyến Điều 15(2) (Borang B) được sử dụng."
 
 lang: "vi"
+sourceContentHash: "2a31c142e3a5bd2c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -24,8 +24,9 @@ verificationNeeded:
   - "Laman resmi kwsp.gov.my memblokir akses otomatis (403) saat penulisan artikel ini. Tarif iuran KWSP yang dikutip (11 persen pekerja; 13/12 persen pemberi kerja menurut jenjang gaji) diverifikasi melalui pencarian yang menghasilkan kutipan langsung dari teks kwsp.gov.my sendiri, dan selaras dengan artikel epf-employer-guide di laman ini yang juga mengutip kwsp.gov.my. Silakan verifikasi kembali langsung di kwsp.gov.my/en/epf-act-1991-third-schedule apabila laman itu dapat diakses."
 
 lang: "id"
+sourceContentHash: "91cbd7d0dece19b9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

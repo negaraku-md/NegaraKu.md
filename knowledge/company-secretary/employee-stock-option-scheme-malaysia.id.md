@@ -33,8 +33,9 @@ faq:
     a: "Dalam jangka waktu 30 hari setelah masa penerimaan opsi berakhir, pemberi kerja harus memberitahu Badan Pendapatan Dalam Negeri Malaysia (LHDN) tentang skema itu (suatu notifikasi di bawah Pasal 83 Income Tax Act 1967). Saat seorang karyawan melaksanakan, pemberi kerja melaporkan perkuisit itu dalam formulir EA (EA form) karyawan bagi tahun tersebut, menyampaikan rincian pelaksanaan kepada cabang LHDN, dan memotong pajak melalui potongan pajak bulanan (atau instruksi CP38) dalam bulan ia dilaksanakan."
 
 lang: "id"
+sourceContentHash: "e702999cb1629878"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

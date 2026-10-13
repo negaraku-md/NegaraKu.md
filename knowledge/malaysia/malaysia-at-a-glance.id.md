@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang memerlukan fakta dasar Malaysia — populasi, luas, ibu kota, mata uang, bahasa, PDB — dengan setiap angka disandarkan pada rilis resmi tertentu yang menerbitkannya, dan bukan ringkasan tanpa sumber."
 
 lang: "id"
+sourceContentHash: "dc264630ca2e722e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

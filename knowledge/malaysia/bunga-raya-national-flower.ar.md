@@ -28,10 +28,11 @@ faq:
     a: "كانت معروفةً بالفعل في جميع أنحاء البلاد، وذات لون وشكل جذّابين، واسم موحّد، وسهلة التوفّر، ولم تكن حينها الزهرة الوطنية لأي بلد آخر."
 
 lang: "ar"
+sourceContentHash: "a06373b8a03d8ae0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

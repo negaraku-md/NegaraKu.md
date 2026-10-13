@@ -31,10 +31,11 @@ faq:
     a: "لأنه سليل المسودة نفسها. سُنّ قانون عقوبات مستوطنات المضيق باسم Ordinance No. 4 of 1871 ودخل حيز التنفيذ في العام التالي بوصفه إعادة سنّ محلية لقانون العقوبات الهندي (Indian Penal Code)، الذي صاغته أول لجنة قانونية هندية برئاسة اللورد ماكولاي. وقد اتبع قانون عقوبات الولايات الملايوية المتحدة لسنة 1936 النموذج نفسه، وAct 574 هو خَلَفه المباشر."
 
 lang: "ar"
+sourceContentHash: "7702e4996ec5b32e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

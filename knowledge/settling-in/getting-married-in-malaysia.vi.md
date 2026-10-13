@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai dự định kết hôn tại Malaysia — công dân Malaysia và người nước ngoài, dù cả hai bên đều không theo Hồi giáo, cả hai đều theo Hồi giáo, hay một bên đang cải sang đạo Hồi để kết hôn với một người bạn đời Hồi giáo — cần biết cuộc hôn nhân của họ thuộc hệ thống pháp lý và cơ quan nào."
 
 lang: "vi"
+sourceContentHash: "12e75b9b51367c03"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

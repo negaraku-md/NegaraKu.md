@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang terpapar nilai tukar — pengimpor, pengekspor, wisatawan, pelajar di luar negeri, dan investor."
 
 lang: "id"
+sourceContentHash: "5c03f2bbac4e0dca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

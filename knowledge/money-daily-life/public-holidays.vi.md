@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai lên kế hoạch đi lại, kinh doanh hoặc công việc hằng ngày qua nhiều bang và muốn hiểu vì sao danh sách ngày lễ công cộng không đồng nhất trên khắp Malaysia."
 
 lang: "vi"
+sourceContentHash: "3aa4c891e7b6b223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

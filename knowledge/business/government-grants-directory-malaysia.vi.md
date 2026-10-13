@@ -33,8 +33,9 @@ faq:
     a: "Hãy vào chính trang web của cơ quan quản lý — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — chứ không phải các bài liệt kê của bên thứ ba, vốn thường xuyên giữ các chương trình đã đóng được liệt kê là còn khả dụng. Chính phủ cũng vận hành một danh mục tổng hợp tại cổng tài trợ quốc gia MyStartup. Các khung thời gian trợ cấp thay đổi theo Ngân sách hằng năm, nên hãy xác nhận tình trạng hiện hành trước khi bạn đầu tư thời gian vào một đơn."
 
 lang: "vi"
+sourceContentHash: "7466f2a7eef60107"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

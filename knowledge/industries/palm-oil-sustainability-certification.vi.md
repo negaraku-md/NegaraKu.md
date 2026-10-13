@@ -31,8 +31,9 @@ faq:
     a: "Sau hai lần trì hoãn, nó áp dụng cho các nhà điều hành lớn và vừa từ ngày 30 tháng 12 năm 2026, và cho các doanh nghiệp siêu nhỏ và nhỏ từ ngày 30 tháng 6 năm 2027. Ngày cắt phá rừng là 31 tháng 12 năm 2020."
 
 lang: "vi"
+sourceContentHash: "7368557f33452c6b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

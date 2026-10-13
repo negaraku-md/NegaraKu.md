@@ -31,8 +31,9 @@ faq:
     a: "Bagi perusahaan, zakat usaha diperlakukan sebagai potongan berdasarkan Pasal 44(11A) dan terbatas pada seperempat puluh (2.5%) dari pendapatan agregat, bukan rabat satu ringgit demi satu ringgit seperti individu."
 
 lang: "id"
+sourceContentHash: "850b3fce0e9aa149"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

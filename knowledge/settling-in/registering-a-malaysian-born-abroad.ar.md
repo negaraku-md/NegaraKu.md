@@ -30,12 +30,13 @@ faq:
     a: "قبل تعديل 2024، كان مسار قوة القانون بموجب المادة 14(1)(b) ينطبق عندما يكون الأب مواطناً؛ وعقب قرار محكمة الاستئناف في 5 أغسطس 2023 (قضية Suriani Kempe & Ors ضد حكومة ماليزيا)، جُمِّدت طلبات النموذج D المقدَّمة من أمهات مواطنات، وفق ما هو مدوَّن في دليل Family Frontiers. أما قانون التعديل الذي أُقِرّ في أكتوبر 2024 فيساوي بين حقوق الأمهات والآباء، لكن فقط للأطفال المولودين بعد دخوله حيّز النفاذ. وبالنسبة للأطفال دون 18 عاماً المولودين قبل ذلك، يُستخدم مسار المادة 15(2) (النموذج B)."
 
 lang: "ar"
+sourceContentHash: "2a31c142e3a5bd2c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

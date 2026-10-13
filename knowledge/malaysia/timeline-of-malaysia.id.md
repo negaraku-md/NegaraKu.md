@@ -35,8 +35,9 @@ verificationNeeded:
   - "Setiap momen penting tertaut ke artikel lengkap dan bersumber jika ada; halaman tersebut membawa kutipan sumber. Kronologi politik modern (perdana menteri, pemilihan umum, isu 1MDB, 'Langkah Sheraton' 2020) adalah catatan publik yang faktual, diambil dari Departemen Perdana Menteri dan Komisi Pemilihan Umum, dan disajikan secara netral. Entri yang menyentuh tema 3R (bangsa / agama / raja) atau sensitif — peristiwa 13 Mei 1969, Operasi Lalang, krisis kehakiman 1988 — memerlukan peninjauan manusia sebelum penerbitan."
 
 lang: "id"
+sourceContentHash: "e58ff5504e70aafc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -35,8 +35,9 @@ faq:
     a: "Tidak selalu. Warisan bernilai tidak melebihi RM5 juta dapat diurus melalui Unit Pembahagian Pusaka Kecil di kantor pertanahan di bawah Small Estates (Distribution) Act 1955, biasanya tanpa pengacara dan tanpa biaya pengajuan kantor pertanahan. Sejak amandemen berlaku 15 Juli 2024, warisan tidak lagi perlu mengandung harta tidak bergerak untuk memenuhi syarat jalur ini."
 
 lang: "id"
+sourceContentHash: "109171c4b389867e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

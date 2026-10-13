@@ -41,10 +41,11 @@ verificationNeeded:
   - "ما إذا كانت مخالفة يُنشئها تشريع فرعي تستوجب العقوبة العامة في المادة 145 من قانون حماية المستهلك لسنة 1999 (Consumer Protection Act 1999) — فاللائحة 9 تُنشئ المخالفة لكنها لا تنصّ على عقوبة، لذا فهذا استنتاج"
 
 lang: "ar"
+sourceContentHash: "b5ad7450f8460c07"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

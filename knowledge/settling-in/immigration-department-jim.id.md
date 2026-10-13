@@ -27,8 +27,9 @@ faq:
   - q: "Berapa harga paspor 10 tahun yang baru?"
     a: "Paspor 10 tahun berharga RM350 untuk pemohon berusia 18–59 tahun, RM175 untuk lansia 60 tahun ke atas, dan gratis untuk pemegang kartu OKU (penyandang disabilitas) berusia 18 tahun ke atas, di bawah Perintah Fi (Pasport dan Visa) (Pindaan) 2026."
 lang: "id"
+sourceContentHash: "050995b2068c647c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

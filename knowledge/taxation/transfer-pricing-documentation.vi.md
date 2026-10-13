@@ -51,8 +51,9 @@ obligations:
     consequence: "Khoản phạt lũy tiến từ RM20,000 đến RM100,000 tùy theo mức muộn, và có thể bị truy tố"
 
 lang: "vi"
+sourceContentHash: "5153fb940652449c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

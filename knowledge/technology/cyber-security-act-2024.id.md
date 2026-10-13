@@ -38,8 +38,9 @@ faq:
     a: "Tidak. Cyber Security Act mengatur keamanan dan ketahanan infrastruktur kritikal. Privasi data pribadi diatur secara terpisah oleh Personal Data Protection Act 2010. Sebuah organisasi dapat tunduk pada keduanya."
 
 lang: "id"
+sourceContentHash: "3cca544d70c1185a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

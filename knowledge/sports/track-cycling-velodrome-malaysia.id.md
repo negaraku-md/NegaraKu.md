@@ -29,8 +29,9 @@ faq:
     a: "Azizulhasni Awang, peraih dua medali Olimpik (perunggu 2016, perak 2020) dan juara dunia keirin 2017."
 
 lang: "id"
+sourceContentHash: "490abb68b2e39c44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

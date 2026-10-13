@@ -44,8 +44,9 @@ verificationNeeded:
   - "Daftar pengecualian Sabah di bawah Labour Ordinance of Sabah (Amendment) Act 2025 (Act A1753) tidak dapat dibaca; PDF yang dihosting mengembalikan galat 404."
 
 lang: "id"
+sourceContentHash: "4b43de8c2a7470d1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

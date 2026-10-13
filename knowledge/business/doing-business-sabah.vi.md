@@ -44,8 +44,9 @@ verificationNeeded:
   - "Số lượng người thuê hiện hành và đầu tư đã cam kết tại POIC Lahad Datu và SOGIP Sipitang — các trang của nhà điều hành mang các con số đề ngày 2020 đến 2022 và các tổng số kỳ vọng"
 
 lang: "vi"
+sourceContentHash: "91f5a7840f804778"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

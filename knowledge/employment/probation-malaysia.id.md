@@ -26,8 +26,9 @@ verificationNeeded:
   - "Verifikasi otoritas banding utama mengenai pemecatan pekerja dalam masa percobaan dan pengukuhan tersirat melalui tingkah laku terhadap putusan yang dilaporkan"
 
 lang: "id"
+sourceContentHash: "04bbb0ef0090fa14"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

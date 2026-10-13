@@ -40,8 +40,9 @@ verificationNeeded:
   - "Xác nhận định dạng và quy ước hết hạn của số phê duyệt kiểm toán viên của Bộ trưởng Bộ Tài chính được in bên cạnh chữ ký của thành viên hợp danh — trình giữ chỗ minh họa cho thấy một cấu trúc nhưng MIA không giải thích nó"
 
 lang: "vi"
+sourceContentHash: "46458a8295799022"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

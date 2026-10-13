@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Pelancong, pelaku bisnis, dan siapa saja yang mencoba memahami mengapa 'Malaysia' kadang berperilaku seperti dua administrasi yang berbagi satu paspor dan satu bendera."
 
 lang: "id"
+sourceContentHash: "da887efa0f358f15"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

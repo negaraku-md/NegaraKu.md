@@ -43,8 +43,9 @@ obligations:
     consequence: "Khoản phạt nộp muộn theo PD 1/2017 và nguy cơ bị xóa tên"
 
 lang: "vi"
+sourceContentHash: "c47e879b49e93850"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

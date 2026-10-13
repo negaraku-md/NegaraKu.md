@@ -42,8 +42,9 @@ verificationNeeded:
   - "Liệu đăng ký SSM có được yêu cầu chính thức đối với chủ hộ kinh doanh cá thể ở Sabah hay không — DBKK không liệt kê nó trong số các hồ sơ bắt buộc"
 
 lang: "vi"
+sourceContentHash: "0a22774d2a85e872"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

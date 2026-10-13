@@ -27,8 +27,9 @@ verificationNeeded:
   - "Jumlah kursi menurut Negeri dalam Pasal 46(2) bisa berubah melalui amandemen Konstitusi menyusul peninjauan ulang persempadanan; pastikan terhadap cetak ulang terkini."
 
 lang: "id"
+sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

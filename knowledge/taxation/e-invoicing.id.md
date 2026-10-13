@@ -24,8 +24,9 @@ appliesTo: "Pemilik usaha, tim keuangan dan administrator sistem yang bersiap un
 verificationNeeded: []
 
 lang: "id"
+sourceContentHash: "46533f76e2996181"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

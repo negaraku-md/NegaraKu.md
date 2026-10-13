@@ -29,8 +29,9 @@ faq:
     a: "JAKIM menargetkan 15 hingga 30 hari kerja begitu permohonan yang lengkap diterima. Dalam praktik, dengan memperhitungkan penyiapan dokumen, audit di lokasi dan koreksi apa pun, bisnis patut mengalokasikan tiga hingga enam bulan dari awal hingga sertifikat diperoleh."
 
 lang: "id"
+sourceContentHash: "5688169feeb631ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

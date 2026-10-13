@@ -45,8 +45,9 @@ verificationNeeded:
   - "DE Rantau adalah Pas Kunjungan Profesional dan pekerjaan lokal secara umum dipahami sebagai dikecualikan, tetapi tidak ada larangan eksplisit yang ditemukan dalam FAQ resmi — jangan menegaskan larangan apa pun"
 
 lang: "id"
+sourceContentHash: "73a4ba4e2aea155b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

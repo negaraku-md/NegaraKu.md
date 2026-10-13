@@ -42,8 +42,9 @@ verificationNeeded:
   - "Apakah KPDN mensyaratkan permohonan WRT baru atau mengizinkan variasi ketika terjadi perubahan kepemilikan saham pemegang izin belum dikonfirmasi terhadap pedoman KPDN"
 
 lang: "id"
+sourceContentHash: "9a4e03ec03d9397b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

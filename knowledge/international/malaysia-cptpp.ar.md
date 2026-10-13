@@ -34,10 +34,11 @@ faq:
     a: "قواعد مُلزِمة بشأن المؤسسات المملوكة للدولة والاحتكارات المعيّنة، والملكية الفكرية، والعمل، والبيئة، والمشتريات الحكومية، والتجارة الإلكترونية وتدفقات البيانات عبر الحدود، والاستثمار (بما في ذلك تسوية المنازعات بين المستثمر والدولة). وقد حصلت ماليزيا على فترات انتقالية ورسائل جانبية — مثل حماية PETRONAS ومرونات لمؤسساتها المملوكة للدولة."
 
 lang: "ar"
+sourceContentHash: "9c8e25e6d3236954"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

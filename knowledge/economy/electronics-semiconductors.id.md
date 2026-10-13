@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang menilai eksposur ekonomi Malaysia — investor, pencari kerja, perumus kebijakan, dan pelajar perdagangan."
 
 lang: "id"
+sourceContentHash: "f587a0bc65cbc1af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

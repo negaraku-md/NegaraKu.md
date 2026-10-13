@@ -30,8 +30,9 @@ faq:
     a: "Masa pendaftaran bagi setiap anggota adalah lima tahun sejak tanggal pendaftaran, dan dapat diperpanjang oleh Direktur Jenderal atau petugas yang diberi kuasa (pasal 9)."
 
 lang: "id"
+sourceContentHash: "a347a3b7cad0cfbb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

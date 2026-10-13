@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Công dân Malaysia, cha mẹ quản lý việc đăng ký cho con, và bất kỳ ai cần xác minh danh tính tại Malaysia."
 
 lang: "vi"
+sourceContentHash: "7c8af58484cf7ac0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

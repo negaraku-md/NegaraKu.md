@@ -34,10 +34,11 @@ faq:
     a: "تنشر الدائرة خط شكاوى (03-8889 1972) وخطاً مجانياً (1-800-88-2727) للشكاوى البيئية. تحقّق من الأرقام الحالية على doe.gov.my قبل الاعتماد عليها."
 
 lang: "ar"
+sourceContentHash: "03cee8394623a8f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -36,10 +36,11 @@ faq:
     a: "هيكل من ثلاث طبقات: مجلس وطني يرأسه رئيس الوزراء، ولجنة توجيهية يقودها وزير MITI، ووحدة إدارة تنفيذ يقودها الأمين العام (KSU) لوزارة MITI."
 
 lang: "ar"
+sourceContentHash: "edde30241ce67971"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -31,12 +31,13 @@ faq:
     a: "يجوز للمنظمة أن تدافع عن نفسها إذا أثبتت أنها كانت قد وضعت إجراءات كافية لمنع الفساد. والدليل الإرشادي هو مبادئ T.R.U.S.T. الخمسة الواردة في «الدليل الإرشادي بشأن الإجراءات الكافية» الصادر عن دائرة رئيس الوزراء، بتاريخ 4 ديسمبر 2018."
 
 lang: "ar"
+sourceContentHash: "bba5e6b3f79a29ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

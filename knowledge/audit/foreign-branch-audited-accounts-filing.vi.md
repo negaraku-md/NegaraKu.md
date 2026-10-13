@@ -30,8 +30,9 @@ faq:
     a: "Một bản sao báo cáo tài chính của chính công ty phải được nộp, nhưng mục 575(5) còn yêu cầu thêm một báo cáo đã được kiểm toán hợp lệ bao gồm các tài sản được sử dụng trong và các khoản nợ phải trả phát sinh từ hoạt động Malaysia của nó, đưa ra một cái nhìn trung thực và hợp lý theo các chuẩn mực kế toán được phê duyệt."
 
 lang: "vi"
+sourceContentHash: "857f2052ec7f627d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

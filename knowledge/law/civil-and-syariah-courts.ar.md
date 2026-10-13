@@ -40,12 +40,13 @@ faq:
     a: "لا. فكل ولاية تُشكّل محاكمها الشرعية بموجب مرسومها الخاص، وللأقاليم الاتحادية محاكمها بموجب Act 505. وتصف دائرة القضاء الشرعي الماليزية (Jabatan Kehakiman Syariah Malaysia)، وهي جهاز تابع لدائرة رئيس الوزراء، دورَها بأنه تنسيق وتوحيد إدارة القانون والقضاء الشرعيين في عموم ماليزيا — تنسيقٌ، لا محكمة وطنية واحدة."
 
 lang: "ar"
+sourceContentHash: "871806c1d22f2076"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

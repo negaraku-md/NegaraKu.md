@@ -27,8 +27,9 @@ verificationNeeded:
   - "Xác nhận phạm vi hiện hành của các cơ quan tham gia BLESS và MalaysiaBiz, vốn được mở rộng định kỳ"
 
 lang: "vi"
+sourceContentHash: "d297b49cc580cf19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -25,9 +25,10 @@ faq:
   - q: "ما هو e-LKM؟"
     a: "e-LKM هو رخصة المركبة الآلية الرقمية (ضريبة الطريق الرقمية) التي استحدثتها JPJ بدءًا من عام 2023، لتحل محل الملصق المادي. ويمكن الوصول إليها عبر تطبيق MyJPJ أو بوابة MySIKAP."
 lang: "ar"
+sourceContentHash: "5feaacc87ec61a6a"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

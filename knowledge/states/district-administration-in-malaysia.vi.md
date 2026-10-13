@@ -33,8 +33,9 @@ faq:
     a: "Mukim là một phân khu dưới địa hạt, chủ yếu cho mục đích hành chính đất đai. Penghulu là cán bộ thực thi thẩm quyền ở cấp mukim dưới sự quản trị đất đai của địa hạt."
 
 lang: "vi"
+sourceContentHash: "a75e04e291488dd9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

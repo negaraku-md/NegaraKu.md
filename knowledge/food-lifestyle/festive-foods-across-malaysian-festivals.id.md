@@ -33,8 +33,9 @@ faq:
     a: "Tidak. Air tapai seperti tuak, montoku, dan tumpung adalah minuman tradisi masyarakat Dayak di Sarawak dan Kadazandusun di Sabah, dan menjadi inti jamuan Gawai serta Kaamatan menurut The Star. Ia bukan bagian dari meja perayaan masyarakat yang berpegang pada makanan dan minuman halal, seperti pada Hari Raya. Isi hidangan sebuah rumah terbuka bergantung pada pantangan makan dan tradisi tuan rumah."
 
 lang: "id"
+sourceContentHash: "58bbad87611b5d86"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

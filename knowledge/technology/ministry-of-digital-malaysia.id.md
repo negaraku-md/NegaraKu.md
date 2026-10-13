@@ -29,8 +29,9 @@ faq:
     a: "Dua departemen (Jabatan Digital Negara dan Jabatan Perlindungan Data Peribadi) serta empat agensi: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad dan MYNIC Berhad."
 
 lang: "id"
+sourceContentHash: "8890a54407574604"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

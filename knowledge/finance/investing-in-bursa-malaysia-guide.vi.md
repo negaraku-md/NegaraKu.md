@@ -34,8 +34,9 @@ faq:
     a: "Ba khoản phí áp dụng trên cả lệnh mua và lệnh bán: hoa hồng của bên môi giới (do bên môi giới của bạn đặt), một phí thanh toán bù trừ 0.03% giá trị giao dịch giới hạn ở RM1,000, và thuế trước bạ RM1 cho mỗi RM1,000 (hoặc phần lẻ) giá trị, giới hạn ở RM1,000. Phí môi giới trên cổ phiếu niêm yết tại Bursa Malaysia hiện được miễn thuế dịch vụ."
 
 lang: "vi"
+sourceContentHash: "2aa2d9243406a229"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

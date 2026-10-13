@@ -34,10 +34,11 @@ faq:
     a: "نعم، خاصةً صباح. فزلزال راناو عام 2015، بقوة 6.0، أودى بحياة 18 شخصًا على جبل كينابالو. وفي 23 فبراير 2026، وقع زلزال بحري بقوة 6.8 قرب كودات على عمق 678 كم دون تهديد بتسونامي. أما خطر وقوع زلزال كبير في شبه الجزيرة فمنخفض."
 
 lang: "ar"
+sourceContentHash: "aacc807758e00d83"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

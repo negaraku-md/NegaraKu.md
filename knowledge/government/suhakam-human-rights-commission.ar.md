@@ -34,10 +34,11 @@ faq:
     a: "نعم. يمنح القسم 4(2)(d) SUHAKAM صلاحية زيارة أي مكان احتجاز أو مؤسسة أو مكان آخر، وتقديم التوصيات اللازمة. وينص القسم 4(3)، الذي أُدرج بتعديل 2024، على أنه لا يجوز للمسؤول عن المكان المعني رفض هذه الزيارة ما دامت الإجراءات المقررة مستوفاة."
 
 lang: "ar"
+sourceContentHash: "41da53bbfb03e372"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

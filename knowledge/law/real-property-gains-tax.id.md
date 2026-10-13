@@ -34,8 +34,9 @@ faq:
     a: "Bagi individu, ya — pelepasan saham perusahaan harta tanah (RPC) tetap di bawah CKHT. Namun mulai 1 Maret 2024, pelepasan saham tersebut oleh perusahaan, perkongsian liabiliti terhad, badan amanah, dan koperasi beralih ke rezim Pajak Keuntungan Modal di bawah Akta Cukai Pendapatan 1967."
 
 lang: "id"
+sourceContentHash: "7363fccb7997191f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

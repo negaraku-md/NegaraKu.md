@@ -33,8 +33,9 @@ faq:
     a: "Tidak. RCEP dan CPTPP adalah perjanjian yang terpisah dengan keanggotaan dan aturan yang berbeda. Malaysia adalah pihak dalam RCEP; keduanya tumpang tindih dalam beberapa anggota tetapi dirundingkan secara independen."
 
 lang: "id"
+sourceContentHash: "f7e0957c6988f3a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

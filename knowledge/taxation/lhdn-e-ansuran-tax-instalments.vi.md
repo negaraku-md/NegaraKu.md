@@ -33,8 +33,9 @@ faq:
     a: "Không. LHDN nêu rằng việc hủy một đơn e-Ansuran chỉ có thể được thực hiện trực tiếp tại một văn phòng LHDN (HASiL) — nó không thể được thực hiện qua cổng. Bản thân đơn là trực tuyến và sự phê duyệt là tự động, nhưng việc thay đổi hoặc hủy nó là một việc tại chi nhánh."
 
 lang: "vi"
+sourceContentHash: "f73e04ba5e0d7818"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

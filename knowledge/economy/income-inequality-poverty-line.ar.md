@@ -34,10 +34,11 @@ faq:
     a: "لأن المجموعة نسبية. فإذا ارتفعت دخول الآخرين أسرع من دخلك، ارتفعت عتبة B40 أيضاً، فقد تبقى ضمن المجموعة نفسها رغم ارتفاع دخلك أنت."
 
 lang: "ar"
+sourceContentHash: "83d77f4a9e3c0e88"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

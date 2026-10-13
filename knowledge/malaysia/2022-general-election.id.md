@@ -31,8 +31,9 @@ verificationNeeded:
   - "Semua angka perlu dipastikan dengan Suruhanjaya Pilihan Raya Malaysia (SPR); perhatikan bahwa jumlah akhir sedikit berbeda dari angka malam pemilihan karena satu kursi yang ditangguhkan."
 
 lang: "id"
+sourceContentHash: "acdebe065daafc2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

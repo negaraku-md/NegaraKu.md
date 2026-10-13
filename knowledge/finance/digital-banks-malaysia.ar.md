@@ -30,10 +30,11 @@ faq:
     a: "كان GXBank أول من بدأ العمليات، في عام 2023. وكان AEON Bank أول بنك رقمي إسلامي يُفتح للجمهور، في 26 مايو 2024."
 
 lang: "ar"
+sourceContentHash: "e7e1910cb72bc76a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

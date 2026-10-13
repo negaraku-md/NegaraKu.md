@@ -41,12 +41,13 @@ verificationNeeded:
   - "تذكر بوابة سياحة الولاية مساحة 35,960 كم² بينما تذكر بوابة حكومة الولاية 35,965 كم²؛ تأكّد من الرقم الرسمي الواحد مع مكتب سكرتير حكومة باهانغ."
 
 lang: "ar"
+sourceContentHash: "da77a92f707cbcd4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

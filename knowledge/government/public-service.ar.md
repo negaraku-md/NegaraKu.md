@@ -38,10 +38,11 @@ verificationNeeded:
   - "الحجم الحالي الدقيق (عدد الموظفين) للخدمة العامة الماليزية — تعذّر تأكيد رقم دقيق ومؤرّخ حاليًا على صفحة رسمية وقت الكتابة."
 
 lang: "ar"
+sourceContentHash: "89bfb5455655a271"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

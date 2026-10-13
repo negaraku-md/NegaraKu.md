@@ -42,8 +42,9 @@ verificationNeeded:
   - "Nomor P.U.(A) yang tepat bagi amandemen yang memperpanjang pengecualian dividen asing perusahaan/LLP (Income Tax (Exemption) (No. 6) Order 2022, P.U.(A) 235/2022) ke 31 Desember 2030 — padanan aset modal (P.U.(A) 275/2026) dan amanah saham unit (P.U.(A) 270/2026) dipastikan telah diwartakan, dan firma melaporkan perintah dividen itu diperpanjang dalam kelompok akhir Juli 2026 yang sama, tetapi nomor P.U.(A) tersendirinya tidak dapat dipastikan pada teks Warta utama. Pastikan sebelum bergantung pada berakhirnya dividen 2030"
 
 lang: "id"
+sourceContentHash: "e5a0172051099281"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

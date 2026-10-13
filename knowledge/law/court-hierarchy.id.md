@@ -38,8 +38,9 @@ faq:
     a: "Tidak pada tingkat pertama. Tuntutan ketenagakerjaan dimulai di forum yang dibentuk oleh statuta masing-masing dan bukan di Mahkamah Sesyen atau Mahkamah Majistret, sementara Tribunal Tuntutan Pengguna (Tribunal for Consumer Claims) dibentuk di bawah pasal 85 Consumer Protection Act 1999. Keputusan-keputusan tersebut mungkin kemudian sampai ke Mahkamah Tinggi melalui banding atau peninjauan yudisial (judicial review), tetapi titik awalnya bukanlah mahkamah dalam hierarki ini."
 
 lang: "id"
+sourceContentHash: "0ff02d452124fe9d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

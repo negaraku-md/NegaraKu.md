@@ -31,8 +31,9 @@ faq:
     a: "Mục 29(3) yêu cầu người sử dụng lao động cố gắng thúc đẩy việc làm ổn định bằng cách đánh giá năng lực của OKU một cách hợp lý, cung cấp một nơi làm việc phù hợp và quản lý việc làm đúng cách. Chi phí cải tạo cơ sở cho lao động OKU cũng đủ điều kiện khấu trừ thuế theo đoạn 34(6)(e) của Income Tax Act 1967."
 
 lang: "vi"
+sourceContentHash: "66843e99ec6b43d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -38,10 +38,11 @@ faq:
     a: "دافع الضرائب. فالفقرة 13 من الجدول الخامس (Schedule 5) من قانون ضريبة الدخل لسنة 1967 تضع عبء إثبات أن التقدير مُفرِط أو خاطئ على عاتق المستأنِف. وعملياً يعني ذلك الفواتير والاتفاقيات وسندات الدفع والدليل على أن الخدمة قُدِّمت فعلاً — إذ أخفقت عدة استئنافات مُبلَّغ عنها لمجرّد أن نطاق النفقة وغرضها لم يمكن توثيقهما."
 
 lang: "ar"
+sourceContentHash: "669796e4c8074cfe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

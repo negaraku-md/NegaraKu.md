@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang mencoba memahami dasar hukum sektor minyak dan gas Malaysia, ketergantungan fiskal federal terhadap petroleum, atau perdebatan sumber daya federal-negara bagian — pelajar, analis, investor, dan wartawan."
 
 lang: "id"
+sourceContentHash: "e00cfef3a5a059c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

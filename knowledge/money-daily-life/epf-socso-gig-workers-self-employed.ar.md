@@ -33,10 +33,11 @@ faq:
     a: "بموجب Act 872، يتحمّل مزوّد المنصّة مسؤولية تسجيلك ضمن مخطط العمل الحر (Lindung Kendiri) واقتطاع الاشتراكات من أرباحك. ومع ذلك، لا يزال عليك التأكد من اكتمال التسجيل ودفع الفرق إن لم يبلغ الاقتطاع الحدّ الأدنى لمعدل خطتك المختارة."
 
 lang: "ar"
+sourceContentHash: "759ef843044df58d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

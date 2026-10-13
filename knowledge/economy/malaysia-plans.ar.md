@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "الطلاب ومحللو السياسات والصحفيون وكل من يريد فهم كيفية التخطيط للتنمية الوطنية بما يتجاوز سنة مالية واحدة."
 
 lang: "ar"
+sourceContentHash: "e044f4eddcd76b63"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

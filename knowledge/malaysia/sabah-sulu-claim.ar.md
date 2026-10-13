@@ -29,12 +29,13 @@ faq:
     a: "أصدر محكَّم خاص حُكمًا بنحو 14.92 مليار USD في 28 فبراير 2022، لكن ماليزيا طعنت فيه عبر عدة ولايات قضائية، وأبطلت محكمة استئناف باريس الحُكم في 9 ديسمبر 2025."
 
 lang: "ar"
+sourceContentHash: "a5cefe938e99cef3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

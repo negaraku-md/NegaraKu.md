@@ -20,11 +20,12 @@ keyTakeaways:
   - "قرَّر اجتماع التوزيع في 2 سبتمبر 1970 أن نص لغة الملايو (Bahasa Malaysia) هو النص الأصلي؛ والنسخ باللغات الأخرى ترجمات"
 appliesTo: "الطلاب والمعلمون وموظفو الخدمة المدنية وكل مَن يحتاج إلى الرجوع إلى النص الرسمي لركن نيغارا وإلى التسلسل الزمني لصياغته استنادًا إلى السجلات الأرشيفية."
 lang: "ar"
+sourceContentHash: "b7cede975bcf8a6f"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

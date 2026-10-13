@@ -31,10 +31,11 @@ faq:
     a: "ليس مباشرةً. فالضمانات المالية التزامات محتملة؛ ولا تصير دينًا إلا إذا تحققت. ويحدّ Act 850 الضمانات المالية بـ25% من الناتج المحلي الإجمالي ويشترط بيان مخاطر مالية سنويًا للإفصاح عن هذا التعرّض."
 
 lang: "ar"
+sourceContentHash: "1dc4f0df2320f2a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

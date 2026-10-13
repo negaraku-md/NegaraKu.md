@@ -33,8 +33,9 @@ faq:
     a: "Konfederasi Hoki Malaysia (Malaysian Hockey Confederation, MHC) adalah badan induk nasional bagi tim hoki lapangan dan indoor putra serta putri. Ia berafiliasi dengan Federasi Hoki Asia (AHF) dan FIH, dan beroperasi dari Stadium Hoki Nasional di Bukit Jalil, Kuala Lumpur."
 
 lang: "id"
+sourceContentHash: "e3b29244d5e5d634"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "Pemerintah menegaskan tidak. Inisiatif seperti Rakan KKM dibingkai sebagai model untuk mempertahankan pakar di sektor publik, bukan penswastaan, meskipun sebagian pengamat tetap berhati-hati terhadap dampak jangka panjangnya."
 
 lang: "id"
+sourceContentHash: "f5aff2ea91b18549"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

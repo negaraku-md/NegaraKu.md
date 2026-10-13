@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Pelajar, analis kebijakan, wartawan, pejabat pemerintah, dan siapa saja yang perlu memahami cara anggaran federal disusun, diperdebatkan, dan disahkan."
 
 lang: "id"
+sourceContentHash: "8b64cd44c511fc05"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

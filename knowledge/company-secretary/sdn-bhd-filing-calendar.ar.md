@@ -135,10 +135,11 @@ obligations:
     consequence: "غرامة تصل إلى RM10,000 إضافةً إلى ما يصل إلى RM500 يوميًا على كل مسؤول بموجب المادة s.341(3)"
 
 lang: "ar"
+sourceContentHash: "795508e7636dbf96"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

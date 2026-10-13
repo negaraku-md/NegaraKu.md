@@ -27,10 +27,11 @@ faq:
     a: "يؤوي البيت الملايوي عادةً عائلة واحدة، في حين يؤوي البيت الطويل (rumah panjang) عائلات كثيرة ضمن بنية ممتدة واحدة — تملك كل عائلة غرفتها الخاصة (bilek)، وتتشارك في رواق جماعي يُسمى ruai."
 
 lang: "ar"
+sourceContentHash: "6e6d63e898f4ad35"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

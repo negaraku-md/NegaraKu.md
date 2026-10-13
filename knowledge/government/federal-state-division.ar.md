@@ -22,11 +22,12 @@ keyTakeaways:
 appliesTo: "كل من يحتاج أن يعرف، موضوعًا موضوعًا، ما إذا كان للاتحاد أو للولاية سلطة سنّ قانون معين في ماليزيا."
 
 lang: "ar"
+sourceContentHash: "d234775add600d74"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

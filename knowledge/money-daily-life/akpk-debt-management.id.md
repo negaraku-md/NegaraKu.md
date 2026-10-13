@@ -31,8 +31,9 @@ faq:
     a: "Tidak. PPK bukan kebangkrutan dan bukan catatan pengadilan. Ia adalah satu rencana pembayaran kembali yang dirundingkan secara sukarela antara Anda, AKPK, dan bank kreditor Anda."
 
 lang: "id"
+sourceContentHash: "4311ea106e7a34dc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

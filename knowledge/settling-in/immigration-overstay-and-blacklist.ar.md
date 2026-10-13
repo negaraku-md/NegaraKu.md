@@ -34,10 +34,11 @@ faq:
     a: "لا يوجد زرّ «إزالة» بسيط عبر الإنترنت. سدِّد أي كومباوند مستحق، وأكِّد حالتك وسببها مباشرة مع دائرة الهجرة، وقدّم طلباً أو استئنافاً خطياً (عبر سفارتك أو وكيل مرخَّص إذا كنت خارج ماليزيا)، موضّحاً الظروف. وتبتّ الدائرة وفق تقديرها؛ والمحاكم عموماً تتردد في إلغاء قرارات الهجرة."
 
 lang: "ar"
+sourceContentHash: "3656d41a5449e4a0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

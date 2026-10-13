@@ -36,8 +36,9 @@ faq:
     a: "NSS nhắm tới việc đào tạo và nâng cao kỹ năng cho 60,000 kỹ sư Malaysia có kỹ năng cao — khoảng 30,000 được bồi dưỡng qua Bộ Giáo dục và khoảng 30,000 nhân tài kỹ thuật và dạy nghề (TVET) từ các bộ khác."
 
 lang: "vi"
+sourceContentHash: "1463f5cc1d397718"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

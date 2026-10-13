@@ -37,8 +37,9 @@ faq:
     a: "Đôi khi. Section 45 cho phép Tổng Giám đốc, với sự đồng ý bằng văn bản của Công tố viên, dàn xếp một hành vi phạm tội mà Bộ trưởng đã quy định là có thể dàn xếp, cho một số tiền không quá 50% mức phạt tối đa. Không phải mọi hành vi phạm tội đều có thể dàn xếp, và các hành vi phạm tội có án tù bắt buộc nghiêm trọng nhất thường bị truy tố."
 
 lang: "vi"
+sourceContentHash: "c5c03f44b4db2f68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,10 +34,11 @@ verificationNeeded:
   - "لم يُؤكَّد الوضع الحالي لاستمارة CKHT 502 كمسار دفع المُقتني مقابل صفحة إجراءات الدفع لدى LHDN، وقد تكون استُبدِلت بقسيمة تأكيد e-CKHT"
 
 lang: "ar"
+sourceContentHash: "6666571281397324"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

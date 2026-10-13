@@ -39,12 +39,13 @@ verificationNeeded:
   - "تأكّد من أنّ الحدود القصوى لعدد القضاة التي حدّدتها P.U. (A) 163/2009 وP.U. (A) 164/2009 وP.U. (A) 384/2006 لم يحلّ محلّها أمر لاحق من يانغ دي-بيرتوان أغونغ."
 
 lang: "ar"
+sourceContentHash: "4d0744d3b1bfbe91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

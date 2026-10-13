@@ -36,8 +36,9 @@ obligations:
     consequence: "Tăng 10 phần trăm trên số tiền chưa trả và không cho phép khấu trừ chi phí cơ sở theo s.39"
 
 lang: "vi"
+sourceContentHash: "c1d4118e64c632ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

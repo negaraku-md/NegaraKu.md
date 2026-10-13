@@ -17,9 +17,10 @@ keyTakeaways:
   - "حاول مؤرخون مثل جيمس لو (James Low) عام 1849 وإتش. جي. كواريتش ويلز (H.G. Quaritch Wales) تتبّع موقعها لكنهما عجزا عن تأكيده"
 appliesTo: "القرّاء الذين سمعوا اسم غانغا نيغارا في دروس التاريخ أو على وسائل التواصل الاجتماعي ويريدون معرفة ما يمكن إثباته فعلاً، مقابل ما هو مجرّد أسطورة."
 lang: "ar"
+sourceContentHash: "4947488c0b12f663"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

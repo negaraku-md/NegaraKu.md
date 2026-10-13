@@ -32,10 +32,11 @@ faq:
     a: "عمومًا لا. تنص المادة 26 على أن الاتفاق المُبرم دون مقابل باطل، مع ثلاثة استثناءات: وعد مكتوب ومسجَّل مبعثه المحبة والمودة الطبيعية بين طرفين تربطهما صلة قرابة قريبة، ووعد بالتعويض عن شيء أُدِّي طوعًا من قبل، ووعد بسداد دَين سقط بالتقادم القانوني."
 
 lang: "ar"
+sourceContentHash: "a078693f5e3c25a0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

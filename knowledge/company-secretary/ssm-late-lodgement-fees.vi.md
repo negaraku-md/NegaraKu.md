@@ -27,8 +27,9 @@ verificationNeeded:
   - "Các mức dàn xếp cho các tội danh cụ thể theo Companies Act 2016 được đặt bởi biểu phí dàn xếp của SSM theo s.588 và không được công bố trong Practice Directive 1/2017 — không có con số dàn xếp nào được nêu trên trang này vì không cái nào có thể được xác nhận so với một nguồn chính thức"
 
 lang: "vi"
+sourceContentHash: "352f3b9226a227c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

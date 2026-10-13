@@ -34,10 +34,11 @@ faq:
     a: "تصريح الزيارة الاجتماعية القصير الأجل لا يمكن تمديده عموماً؛ وللبقاء مدة أطول عليك المغادرة ثم إعادة الدخول. كما لا يمكن تحويله إلى تصريح عمل أو طالب — فهذه يجب ترتيبها عبر قناة التأشيرة الصحيحة قبل أن تبدأ العمل أو الدراسة."
 
 lang: "ar"
+sourceContentHash: "cc706715a5a043c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

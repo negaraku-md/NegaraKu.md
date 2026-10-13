@@ -34,10 +34,11 @@ faq:
     a: "بالنسبة إلى الأفراد، نعم — يبقى التصرف في أسهم شركة الممتلكات العقارية (RPC) خاضعاً لـ RPGT. غير أنه اعتباراً من 1 مارس 2024، ينتقل التصرف في تلك الأسهم من جانب الشركات والشراكات ذات المسؤولية المحدودة والهيئات الائتمانية والتعاونيات إلى نظام ضريبة أرباح رأس المال بموجب قانون ضريبة الدخل لسنة 1967 (Income Tax Act 1967)."
 
 lang: "ar"
+sourceContentHash: "7363fccb7997191f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "كل من يريد أن يعرف، مادةً مادةً، ما يكفله فعليًا الجزء الثاني من الدستور الاتحادي وما يجيزه صراحةً من قيود."
 
 lang: "ar"
+sourceContentHash: "268ae1dcdac3c251"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

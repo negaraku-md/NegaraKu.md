@@ -48,8 +48,9 @@ verificationNeeded:
   - "Các ngưỡng giá mua tối thiểu theo từng bang đối với việc người nước ngoài mua bất động sản chưa được xác minh với nguồn của các sở đất đai bang. Con số RM1,000,000 là mức sàn liên bang; các bang tự đặt mức của mình, thường cao hơn."
 
 lang: "vi"
+sourceContentHash: "9eb59bf5dfe47262"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

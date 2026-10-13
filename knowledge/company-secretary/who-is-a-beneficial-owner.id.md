@@ -38,8 +38,9 @@ verificationNeeded:
   - "Apakah perusahaan perwalian yang didaftarkan di bawah Trust Companies Act 1949 mestilah perusahaan publik yang tunduk pada kerangka kepemilikan benefisial penuh — ditegaskan dalam sebagian ulasan tetapi tidak dikaitkan dengan ketentuan tertentu dari undang-undang tersebut"
 
 lang: "id"
+sourceContentHash: "d098cf8ee96defb7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

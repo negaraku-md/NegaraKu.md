@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "كل من يقرأ وثائق قانونية أو أخبارًا أو إجراءات محاكم في ماليزيا ويحتاج إلى فهم معنى مصطلح «mahkamah» والمرتبة النسبية لكل درجة."
 
 lang: "ar"
+sourceContentHash: "1a30b6920b746dad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

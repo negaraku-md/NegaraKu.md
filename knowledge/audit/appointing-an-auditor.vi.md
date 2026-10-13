@@ -42,8 +42,9 @@ verificationNeeded:
   - "Hãy xác nhận liệu Bộ trưởng Tài chính đã chính thức ủy quyền chức năng phê duyệt s.263 hay chưa, và cho cơ quan nào, vì s.263(5) cho phép nhưng không bắt buộc việc ủy quyền"
 
 lang: "vi"
+sourceContentHash: "171d2f5e74d8eb19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

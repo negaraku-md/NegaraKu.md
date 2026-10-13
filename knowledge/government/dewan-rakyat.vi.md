@@ -37,8 +37,9 @@ verificationNeeded:
   - "Quy tắc Họp của Dewan Rakyat được tham chiếu ở đây là Bản in thứ Mười ba (tháng 4 năm 2013). Quy tắc Họp được chính Dewan Rakyat sửa đổi theo từng thời điểm theo Điều 62(1) — xác nhận số quy tắc và các con số thủ tục đối chiếu với bản in mới nhất tại parlimen.gov.my trước khi dựa vào chúng."
 
 lang: "vi"
+sourceContentHash: "ce348e711538fac4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

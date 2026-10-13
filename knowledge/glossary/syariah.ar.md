@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "كل من يريد فهم معنى مصطلح «الشريعة» في القانون الماليزي، ولماذا يختلف اختصاص المحاكم الشرعية من ولاية إلى أخرى."
 
 lang: "ar"
+sourceContentHash: "2bb646d77c8ab722"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

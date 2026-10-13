@@ -34,8 +34,9 @@ faq:
     a: "DOSM là một cục của chính phủ liên bang được liệt kê thuộc Bộ Kinh tế trong danh bạ các cơ quan chính thức của bộ. Các danh mục bộ ở Malaysia được tái tổ chức theo định kỳ, nên hãy xác nhận cách sắp xếp hiện tại trên ekonomi.gov.my hoặc dosm.gov.my trước khi dựa vào nó trong một tài liệu chính thức."
 
 lang: "vi"
+sourceContentHash: "c71507e53dcd1423"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

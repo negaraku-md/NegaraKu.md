@@ -36,8 +36,9 @@ faq:
     a: "Có. Proton ra mắt e.MAS 7 vào tháng 12 năm 2024, xe điện đầu tiên của nó, giá từ RM109,800. Perodua ra mắt QV-E — được mô tả là xe điện nội địa đầu tiên của Malaysia — vào tháng 12 năm 2025 ở mức RM80,000 chưa gồm pin, được phát triển với chi phí RM800 triệu."
 
 lang: "vi"
+sourceContentHash: "67619f9b70d97b83"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

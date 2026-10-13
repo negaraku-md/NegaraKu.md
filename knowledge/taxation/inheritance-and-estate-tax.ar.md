@@ -38,10 +38,11 @@ faq:
     a: "نعم. على المنفِّذ أن يُخطر LHDN بالوفاة، ويقدّم الإقرار النهائي للمتوفى وإقرارات التركة، ويسوّي أي ضريبة وغرامات مستحقة قبل توزيع التركة. ولدى LHDN ثلاث سنوات من نهاية السنة التي تُخطَر فيها بالوفاة لإصدار التقديرات."
 
 lang: "ar"
+sourceContentHash: "68ad2357941779d2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

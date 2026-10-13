@@ -32,9 +32,10 @@ seoTitle: "لهجات الصينيين الماليزيين: الهوكين وا
 socialTitle: "صينيون أنفسهم، فلماذا ألسنة مختلفة؟ خريطة لهجات ماليزيا"
 
 lang: "ar"
+sourceContentHash: "c773c2be8c4e6544"
 masterLanguage: "zh"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

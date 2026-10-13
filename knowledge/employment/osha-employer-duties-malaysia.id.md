@@ -75,8 +75,9 @@ obligations:
     consequence: "Penuntutan di bawah Akta"
 
 lang: "id"
+sourceContentHash: "3632c2c27953365f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

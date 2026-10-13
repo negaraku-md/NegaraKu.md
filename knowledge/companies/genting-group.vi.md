@@ -29,8 +29,9 @@ faq:
     a: "Genting trải rộng qua giải trí và khách sạn, đồn điền cọ dầu, phát điện, dầu khí, phát triển bất động sản và khoa học đời sống. Genting Plantations vận hành khoảng 243.000 hecta quỹ đất trên khắp Malaysia và Indonesia."
 
 lang: "vi"
+sourceContentHash: "1b5f1753141cba5e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

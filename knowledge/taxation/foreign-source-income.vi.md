@@ -42,8 +42,9 @@ verificationNeeded:
   - "Số P.U.(A) chính xác cho bản sửa đổi gia hạn khoản miễn CỔ TỨC nước ngoài của công ty/LLP (Income Tax (Exemption) (No. 6) Order 2022, P.U.(A) 235/2022) đến 31 tháng 12 năm 2030 — các bản tương ứng về tài sản vốn (P.U.(A) 275/2026) và quỹ tín thác đầu tư (P.U.(A) 270/2026) đã được xác nhận đăng công báo, và các hãng báo cáo rằng lệnh cổ tức được gia hạn trong cùng đợt cuối tháng 7 năm 2026, nhưng số P.U.(A) riêng của nó không thể xác định được với một văn bản công báo sơ cấp. Hãy xác nhận trước khi dựa vào thời điểm hết hạn cổ tức năm 2030"
 
 lang: "vi"
+sourceContentHash: "e5a0172051099281"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Verifikasi apakah amendemen perundangan yang terdaftar dalam seksi IX NSRF telah disahkan sebelum menganggap NSRF sebagai kewajiban statutori bagi perusahaan yang tidak tercatat"
 
 lang: "id"
+sourceContentHash: "580bb89b56c953ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Sivasangari Subramaniam, người đạt vị trí cao nhất sự nghiệp là số 6 thế giới vào tháng 10 năm 2025, và Ng Eain Yow, người giành ACE Malaysia Squash Cup 2024 trên sân nhà."
 
 lang: "vi"
+sourceContentHash: "47a1ae4a8ea8c4dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

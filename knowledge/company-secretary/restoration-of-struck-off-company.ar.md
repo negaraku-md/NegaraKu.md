@@ -28,10 +28,11 @@ faq:
     a: "لا. تتطلب الاستعادة أمرًا من المحكمة العليا. ويُسمّى المُسجِّل (SSM) مدعى عليه ويراجع الطلب قبل جلسة الاستماع."
 
 lang: "ar"
+sourceContentHash: "abcd7eea51de63b1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

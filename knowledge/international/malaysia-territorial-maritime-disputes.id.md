@@ -31,8 +31,9 @@ faq:
     a: "Lima fitur: Terumbu Layang-Layang (Swallow Reef), Terumbu Ubi (Ardasier Reef), Terumbu Siput (Erica Reef), Terumbu Peninjau (Investigator Shoal), dan Terumbu Montanani (Mariveles Reef), semuanya di bagian selatan kepulauan itu dekat Sabah."
 
 lang: "id"
+sourceContentHash: "c7460cc1783b36b6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

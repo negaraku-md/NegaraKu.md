@@ -57,8 +57,9 @@ obligations:
     consequence: "Mất trợ cấp thai sản cho thời kỳ trước khi thông báo"
 
 lang: "vi"
+sourceContentHash: "db2dc9cc0467b713"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

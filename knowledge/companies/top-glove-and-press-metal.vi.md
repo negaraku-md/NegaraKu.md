@@ -32,8 +32,9 @@ faq:
     a: "Đúng. Cả hai đều giao dịch trên Thị trường Chính của Bursa Malaysia. Top Glove còn niêm yết thêm trên Bảng Chính của Singapore Exchange."
 
 lang: "vi"
+sourceContentHash: "a45b971c54bb5789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

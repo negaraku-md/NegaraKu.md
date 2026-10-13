@@ -30,12 +30,13 @@ faq:
     a: "تنصّ المادة 25 على أن الاعتراف المُدلى به لضابط شرطة برتبة أدنى من مفتّش (Inspector) لا يجوز إثباته ضدّ المتّهم، رهناً بأحكام خطّية صريحة. وتجعل المادة 24 بدورها الاعتراف غير ذي صلة إذا نشأ عن إغراء أو تهديد أو وعد من شخص ذي سلطة."
 
 lang: "ar"
+sourceContentHash: "8f64848838376657"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

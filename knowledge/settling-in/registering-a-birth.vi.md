@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Cha mẹ, người giám hộ hoặc bất kỳ ai có trách nhiệm đăng ký khai sinh cho con sinh ra tại Malaysia, bao gồm các trường hợp đăng ký muộn và xin cấp lại giấy khai sinh."
 
 lang: "vi"
+sourceContentHash: "02c6a3d01833544f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

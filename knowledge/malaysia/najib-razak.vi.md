@@ -32,8 +32,9 @@ verificationNeeded:
   - "Các ngày tháng và số liệu chính xác (nhiệm kỳ thủ tướng, thuế suất GST, số liệu vụ án, bản án) cần được xác nhận với Văn phòng Thủ tướng, các tòa án và Ủy ban Bầu cử."
 
 lang: "vi"
+sourceContentHash: "b57664a883ee2959"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

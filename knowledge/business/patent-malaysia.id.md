@@ -56,8 +56,9 @@ obligations:
     consequence: "Paten gugur; masa tenggang enam bulan berlaku dengan pembayaran biaya tambahan sebesar 100% dari biaya untuk tahun yang bersangkutan"
 
 lang: "id"
+sourceContentHash: "00f4afd78d3da72e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

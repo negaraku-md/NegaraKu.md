@@ -40,10 +40,11 @@ verificationNeeded:
   - "تعرفة MBSA السنوية للوحات الإعلانية القائمة على المساحة — لم يُنشَر سوى رسم معالجة الإعلان والأسعار الثابتة للرايات واللافتات"
 
 lang: "ar"
+sourceContentHash: "e95a20cac513aa22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

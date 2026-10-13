@@ -29,8 +29,9 @@ faq:
     a: "Capital Markets and Services Act 2007 (Act 671), có hiệu lực từ ngày 28 tháng 9 năm 2007, điều chỉnh các hoạt động thị trường vốn, các thị trường và các trung gian được cấp phép."
 
 lang: "vi"
+sourceContentHash: "d90c41e40d0daaa1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

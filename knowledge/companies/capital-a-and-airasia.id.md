@@ -30,8 +30,9 @@ faq:
     a: "Setelah pelepasan maskapai, Capital A adalah sebuah kelompok layanan penerbangan dan digital yang dibangun seputar lima bisnis: Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next, dan Santan."
 
 lang: "id"
+sourceContentHash: "649108ce940fc47e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

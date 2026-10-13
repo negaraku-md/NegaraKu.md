@@ -26,10 +26,11 @@ verificationNeeded:
   - "أصل تيه تاريك داخل جماعة المسلمين الهنود في شبه جزيرة الملايو — يُذكر كثيراً، لكن لم يُؤكَّد أي تاريخ أو موقع محدد في أي مصدر حكومي رسمي."
 
 lang: "ar"
+sourceContentHash: "445b06c48abc194e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

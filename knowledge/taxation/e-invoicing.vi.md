@@ -24,8 +24,9 @@ appliesTo: "Các chủ doanh nghiệp, nhóm tài chính và quản trị viên 
 verificationNeeded: []
 
 lang: "vi"
+sourceContentHash: "46533f76e2996181"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

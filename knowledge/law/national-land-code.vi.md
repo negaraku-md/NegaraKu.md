@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai cần đặt Bộ luật Đất đai Quốc gia đúng chỗ — nó làm gì, ràng buộc ai, và vì sao một câu hỏi về đất ở Sabah hay Sarawak không thể được trả lời từ nó — trước khi đi vào một thủ tục hoặc tranh chấp cụ thể."
 
 lang: "vi"
+sourceContentHash: "ea87aadccc95af5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

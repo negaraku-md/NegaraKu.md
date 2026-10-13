@@ -41,10 +41,11 @@ verificationNeeded:
   - "تأكّد من المتطلبات الحالية لطلب شهادة الإقامة الضريبية (Certificate of Residence) وأزمنة المعالجة على خدمة e-Residence لدى LHDN؛ فاختبار الإقامة نفسه مُسنَد إلى مصدر، لكن آليات الطلب لا يغطّيها القرار العام رقم 9/2019"
 
 lang: "ar"
+sourceContentHash: "2a0ef17e2859fe87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

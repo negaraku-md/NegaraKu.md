@@ -26,10 +26,11 @@ verificationNeeded:
   - "تأكّد ممّا إذا كان الاطلاع الإلكتروني على معلومات الملكية المنتفِعة قد حلّ محلّ التسهيلات المتاحة عبر المكتب فقط في Menara SSM@Sentral"
 
 lang: "ar"
+sourceContentHash: "a088732b82dc0e99"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

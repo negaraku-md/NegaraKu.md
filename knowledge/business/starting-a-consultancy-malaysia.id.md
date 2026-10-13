@@ -31,8 +31,9 @@ faq:
     a: "Keuntungan usaha pemilik tunggal dikenai pajak di tangan pemilik pada tarif bertingkat pribadi, diajukan melalui Borang B menjelang 30 Juni. Sebuah Sdn Bhd UKM residen (modal disetor hingga RM2.5 juta dan pendapatan usaha kotor hingga RM50 juta) dikenai pajak pada 15% bagi RM150,000 pertama pendapatan kena pajak, 17% dari RM150,001 hingga RM600,000, dan 24% di atas itu. Tarif UKM preferensial hilang jika lebih dari 20% perusahaan dimiliki asing."
 
 lang: "id"
+sourceContentHash: "740dc0a630c55557"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

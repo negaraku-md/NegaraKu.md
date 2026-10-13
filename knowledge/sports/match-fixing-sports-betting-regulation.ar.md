@@ -29,12 +29,13 @@ faq:
     a: "وفقاً للملخصات القانونية، يُعاقَب على جريمة الرشوة بالسجن مدة تصل إلى 20 عاماً وبغرامة لا تقل عن خمسة أضعاف قيمة الرشوة أو RM10,000 أيهما أعلى. وينبغي إعادة التحقق من هذه التفاصيل مقابل النص الكامل للقانون."
 
 lang: "ar"
+sourceContentHash: "602c70742033a7cb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

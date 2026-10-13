@@ -27,8 +27,9 @@ faq:
     a: "Berdasarkan pasal 593 Companies Act 2016, pernyataan atau laporan palsu kepada Pendaftar (SSM) dapat dihukum penjara hingga 10 tahun, denda hingga RM3 juta, atau keduanya."
 
 lang: "id"
+sourceContentHash: "e1c1cbfc3de7c89d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

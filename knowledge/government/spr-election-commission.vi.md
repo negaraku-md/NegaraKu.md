@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu vị trí hiến định của cơ quan tổ chức bầu cử tại Malaysia — học sinh, nhà nghiên cứu, nhà báo và độc giả phổ thông — cùng các điều khoản của Hiến pháp quy định nhiệm vụ, thành phần và bảo đảm nhiệm kỳ của SPR."
 
 lang: "vi"
+sourceContentHash: "6a46ae533ead9e08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

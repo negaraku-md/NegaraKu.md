@@ -31,8 +31,9 @@ faq:
     a: "Không có yêu cầu vắc-xin nhập cảnh phổ quát, nhưng CDC của Hoa Kỳ khuyên du khách nên cập nhật các vắc-xin thường quy và cân nhắc viêm gan A và thương hàn; hãy trao đổi về bệnh dại, viêm não Nhật Bản và thuốc sốt rét với một phòng khám du lịch dựa trên hành trình của bạn."
 
 lang: "vi"
+sourceContentHash: "e99fd08a031d5f4f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

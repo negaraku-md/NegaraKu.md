@@ -67,8 +67,9 @@ obligations:
     consequence: "Rapat tidak dipanggil secara sah di bawah s.309"
 
 lang: "id"
+sourceContentHash: "1da247e6653d6ad4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

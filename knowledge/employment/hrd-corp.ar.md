@@ -28,9 +28,10 @@ faq:
   - q: "كيف يُحتسب رسم HRD ومتى يُستحقّ؟"
     a: "هو (إجمالي الأجور أو الرواتب الأساسية + البدلات الثابتة) × 1% (أو 0.5% للمسجَّلين طوعاً)، ويُدفع بحلول الخامس عشر من كل شهر تفادياً للعقوبات."
 lang: "ar"
+sourceContentHash: "ff5d89d25eee1ca7"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -40,8 +40,9 @@ faq:
 verificationNeeded:
   - "Apakah ada perintah berwarta yang kini menetapkan pecahan selain tiga per seratus bagi annual allowance di bawah paragraf 16"
 lang: "id"
+sourceContentHash: "4788a314694d11fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

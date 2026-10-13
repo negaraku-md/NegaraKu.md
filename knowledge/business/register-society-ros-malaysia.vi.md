@@ -33,8 +33,9 @@ faq:
     a: "Có. Theo section 14, mỗi hội đã đăng ký phải, trong vòng sáu mươi ngày sau đại hội đồng thường niên của mình (hoặc trong vòng sáu mươi ngày sau khi kết thúc năm dương lịch nếu không tổ chức AGM), gửi cho Registrar một danh sách cập nhật những người giữ chức và số lượng thành viên, bất kỳ sửa đổi quy tắc nào, địa chỉ của mình, và sổ sách và bảng cân đối kế toán cho năm tài chính gần nhất. Không nộp có thể dẫn đến việc hủy đăng ký."
 
 lang: "vi"
+sourceContentHash: "b426932dcfc299b3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

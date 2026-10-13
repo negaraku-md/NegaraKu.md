@@ -34,8 +34,9 @@ faq:
     a: "Công đoàn nộp yêu cầu công nhận cho người sử dụng lao động. Người sử dụng lao động phải, trong vòng 21 ngày theo điều 9(3), hoặc công nhận công đoàn hoặc thông báo bằng văn bản lý do từ chối. Nếu bị từ chối, vấn đề được chuyển đến KPPP, cơ quan có thể tổ chức bỏ phiếu kín và rà soát năng lực của công đoàn thông qua Tổng Giám đốc Công đoàn."
 
 lang: "vi"
+sourceContentHash: "3e83f3a36eb3fa8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

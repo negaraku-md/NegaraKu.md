@@ -39,8 +39,9 @@ verificationNeeded:
   - "Masa berlaku suatu persetujuan WRT — hanya jangka waktu pembaruan tiga bulan yang diterbitkan"
 
 lang: "id"
+sourceContentHash: "01bb0853bba1972c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

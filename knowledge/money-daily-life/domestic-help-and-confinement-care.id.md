@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Rumah tangga di Malaysia yang sedang mempertimbangkan pembantu rumah tangga asing yang tinggal bersama, bantuan paruh waktu lokal, atau perawatan konfinemen (pengasuh atau pusat) pascapersalinan."
 
 lang: "id"
+sourceContentHash: "1482c677a5d90d95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -27,10 +27,11 @@ verificationNeeded:
   - "تُحدَّد معدلات المصالحة (compound) لجرائم معيَّنة بموجب قانون الشركات لسنة 2016 (Companies Act 2016) بجدول المصالحات لدى لجنة الشركات الماليزية (SSM) بموجب المادة 588 وهي غير منشورة في التوجيه العملي 1/2017 — ولا يُذكر أي رقم مصالحة في هذه الصفحة لأنه لم يمكن تأكيد أي منها في ضوء مصدر رسمي"
 
 lang: "ar"
+sourceContentHash: "352f3b9226a227c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

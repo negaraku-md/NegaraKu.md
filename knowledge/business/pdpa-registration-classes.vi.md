@@ -38,8 +38,9 @@ obligations:
     consequence: "Phạt tới RM250,000 hoặc 2 năm vì tiếp tục xử lý sau khi hết hạn"
 
 lang: "vi"
+sourceContentHash: "0a5d002129db4742"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

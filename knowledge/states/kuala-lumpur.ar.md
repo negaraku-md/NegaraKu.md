@@ -33,10 +33,11 @@ verificationNeeded:
   - "التحقق من أرقام سكان كوالالمبور وكوالالمبور الكبرى (Greater Kuala Lumpur)، وترتيب نصيب الفرد من الناتج المحلي الإجمالي، مقابل أحدث إصدارات DOSM قبل النشر."
 
 lang: "ar"
+sourceContentHash: "92f9b90511421d9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

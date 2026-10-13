@@ -30,9 +30,10 @@ faq:
   - q: "لماذا تُعدّ الحكومة المحلية مسألة ولائية لا اتحادية؟"
     a: "لأن الدستور الاتحادي يضع الحكومة المحلية في قائمة الولاية (البند 4 من القائمة II، الجدول التاسع). وللحفاظ على اتساق السياسة، تنشئ المادة 95A المجلس الوطني للحكومة المحلية لصياغة سياسة وطنية يلتزم بها كل من الحكومة الاتحادية وحكومات الولايات."
 lang: "ar"
+sourceContentHash: "78de95ae401b9cbb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

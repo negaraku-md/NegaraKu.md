@@ -33,8 +33,9 @@ faq:
     a: "Secara umum, total biaya pencatatan berkisar antara sekitar RM3 juta hingga RM7 juta untuk ACE Market dan melebihi RM5 juta untuk Main Market, bergantung pada ukuran dan kerumitan. Ini termasuk biaya penjaminan emisi, penempatan, dan pialang (biasanya 1% hingga 3% dari nilai saham), biaya profesional, dan biaya regulasi yang perlu dibayar kepada Securities Commission (Main Market) atau Bursa Malaysia (ACE Market)."
 
 lang: "id"
+sourceContentHash: "4baad2385800a2d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

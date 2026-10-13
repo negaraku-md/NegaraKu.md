@@ -29,10 +29,11 @@ faq:
     a: "RM185.6 مليار اعتبارًا من 31 ديسمبر 2024، صعودًا من RM169.8 مليار (2023) وRM158.1 مليار (2022)."
 
 lang: "ar"
+sourceContentHash: "4489ae23d6537356"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

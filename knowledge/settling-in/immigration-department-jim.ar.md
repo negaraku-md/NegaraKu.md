@@ -27,9 +27,10 @@ faq:
   - q: "كم يكلّف جواز السفر الجديد صالحية عشر سنوات؟"
     a: "يكلّف جواز السفر صالحية عشر سنوات RM350 لمقدّمي الطلبات من سن 18–59، وRM175 لكبار السن 60 فأكثر، وهو مجاني لحاملي بطاقة OKU (ذوي الإعاقة) من سن 18 فأكثر، بموجب أمر الرسوم (جوازات السفر والتأشيرات) (التعديل) 2026."
 lang: "ar"
+sourceContentHash: "050995b2068c647c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -27,9 +27,10 @@ faq:
   - q: "هل يمكن إعلان شخص على قيد الحياة تراثاً وطنياً؟"
     a: "نعم. تتيح المادة 67 للوزير إعلان شخص على قيد الحياة تراثاً وطنياً، ويوفّر أمر التراث الوطني (إعلان شخص على قيد الحياة تراثاً وطنياً) لسنة 2012 الأداة الرسمية لفئة «Warisan Orang Hidup» (التراث من الأشخاص الأحياء)."
 lang: "ar"
+sourceContentHash: "965829d0863e2f00"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

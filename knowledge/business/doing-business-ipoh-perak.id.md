@@ -41,8 +41,9 @@ verificationNeeded:
   - "Investasi yang disetujui untuk Perak sepanjang tahun penuh 2024 dan 2025 serta peringkatnya — MIDA hanya menyebutkan lima negara bagian teratas"
 
 lang: "id"
+sourceContentHash: "b417e9b08cc2755f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

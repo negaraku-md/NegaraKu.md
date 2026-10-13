@@ -33,8 +33,9 @@ faq:
     a: "Ya, sejak Arbitration (Amendment) Act 2024 berlaku efektif pada 1 Januari 2026. Pasal 46A–46I membentuk kerangka statutori, Pasal 46C menghapuskan kaidah common law terhadap maintenance dan champerty, dan Pasal 46G mengharuskan pengaturan pendanaan dan identitas pemberi dana diungkapkan."
 
 lang: "id"
+sourceContentHash: "dbaaa201e69ebe39"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

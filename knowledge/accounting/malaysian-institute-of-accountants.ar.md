@@ -33,10 +33,11 @@ faq:
     a: "يعمل المعهد ضمن اختصاص وزارة المالية. وفيما يخص تدقيق كيانات المصلحة العامة، يمارس مجلس الإشراف على التدقيق (AOB) التابع لهيئة الأوراق المالية رقابة إضافية."
 
 lang: "ar"
+sourceContentHash: "fb67f2b0a6c79587"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

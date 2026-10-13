@@ -42,8 +42,9 @@ verificationNeeded:
   - "Cần xác nhận án lệ phúc thẩm chủ đạo của Malaysia về các phép thử kiểm soát và tích hợp với các bản án đã công bố"
 
 lang: "vi"
+sourceContentHash: "8132a0298fe4934d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -28,8 +28,9 @@ verificationNeeded:
   - "Pastikan nomor Akta 612, 732, 789, 800, 840 dan 872 terhadap lom.agc.gov.my setelah PDF tersebut tersedia — ia kini dikonfirmasi dari situs lembaga dan bukan repositori LOM"
 
 lang: "id"
+sourceContentHash: "debce12c53f16ed5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

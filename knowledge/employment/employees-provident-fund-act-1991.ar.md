@@ -26,9 +26,10 @@ faq:
   - q: "هل يجب على العمّال الأجانب الاشتراك في EPF؟"
     a: "نعم. اعتباراً من 1 أكتوبر 2025، أصبحت اشتراكات EPF إلزامية للموظفين من غير المواطنين الماليزيين، إذ يشترك كلٌّ من صاحب العمل والموظف بنسبة 2% من الأجور الشهرية. ولا يُطلَب من غير المواطنين الذين تجاوزوا سنّ 75 عاماً التسجيل أو الاشتراك."
 lang: "ar"
+sourceContentHash: "ef3ed3901e1145d3"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -38,8 +38,9 @@ verificationNeeded:
   - "Pastikan tanggal dan dasar persentase komposisi etnis pada portal resmi negeri (Melayu 61.5%, Tionghoa 22.9%, India 15.1%, lain-lain 0.5%) — angka itu tidak bertanggal dan tidak sepadan dengan struktur pecahan Sensus 2020 yang memisahkan bukan warga negara."
 
 lang: "id"
+sourceContentHash: "41ba175b1dc7814a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

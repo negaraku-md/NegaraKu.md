@@ -37,8 +37,9 @@ faq:
     a: "ASEAN adalah pilar atau dasar kebijakan luar negeri Malaysia. Malaysia adalah salah satu negara pendiri ASEAN dan selalu mengutamakan keutuhan serta kedudukan sentral (centrality) ASEAN, sambil aktif dalam forum lain seperti Perserikatan Bangsa-Bangsa (PBB), Organisasi Kerja Sama Islam (OKI) dan Gerakan Non-Blok (NAM)."
 
 lang: "id"
+sourceContentHash: "4cb0c08e4d974a16"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

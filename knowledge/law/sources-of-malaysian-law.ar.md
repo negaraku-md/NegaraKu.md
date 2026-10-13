@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "طلاب القانون والباحثون الذين يرسمون منظومة القانون الماليزي لأول مرة، وكل من يحاول تحديد أي مجموعة قانونية تحكم مسألةً بعينها، والقرّاء الذين يرون دائمًا عبارات «دولة القانون العام» و«القانون الإسلامي» و«العُرف» مستعملةً جنبًا إلى جنب دون أن يُبيَّن لهم كيف تترابط فعلًا."
 
 lang: "ar"
+sourceContentHash: "f4b71230618caa4c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

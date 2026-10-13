@@ -38,10 +38,11 @@ faq:
     a: "تدير SSM تلك القواعد وتُنفذها، لكنها تنبع من النظام. فالإقرار السنوي مطلوب بموجب قانون الشركات 2016، ومفهوم رأس المال المدفوع يأتي من القانون نفسه. وتتلقّى SSM المستندات، وتُصدر توجيهات عملية (Practice Directives) بشأن الإجراءات والعقوبات، وتتخذ إجراءات إنفاذ ضد المتخلّفين."
 
 lang: "ar"
+sourceContentHash: "48b70b131a01ea95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

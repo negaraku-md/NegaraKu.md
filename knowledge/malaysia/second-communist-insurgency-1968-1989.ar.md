@@ -30,12 +30,13 @@ faq:
     a: "وفقًا للأرشيف الوطني الماليزي، لم تشترط اتفاقيات هات ياي على الحزب الشيوعي الملايوي الاستسلام. فقد وافق الحزب على إنهاء النشاط المسلّح، وحلّ وحداته المسلحة، وإتلاف أسلحته، وتعهّد أعضاؤه بالولاء لليانغ دي-برتوان أغونغ (Yang di-Pertuan Agong)."
 
 lang: "ar"
+sourceContentHash: "02bbbc636e171599"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

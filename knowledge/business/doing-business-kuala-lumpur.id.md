@@ -41,8 +41,9 @@ verificationNeeded:
   - "Porsi Kuala Lumpur dari PDB negara sebagai persentase yang diterbitkan — DOSM menerbitkan nilai ringgit dan peringkat tetapi bukan porsi KL secara langsung"
 
 lang: "id"
+sourceContentHash: "28302eb055d03d4e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

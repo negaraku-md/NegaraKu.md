@@ -33,8 +33,9 @@ faq:
     a: "Kepemilikan, pengedaran, atau penayangan film tanpa izin atau persetujuan adalah kesalahan di bawah Akta Penapisan Filem 2002, dengan denda antara RM5,000 hingga RM30,000 dan/atau penjara hingga maksimum 3 tahun."
 
 lang: "id"
+sourceContentHash: "f25f07b35f2179e4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

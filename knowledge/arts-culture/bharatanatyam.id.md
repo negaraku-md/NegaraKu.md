@@ -32,8 +32,9 @@ seoTitle: "Bharatanatyam di Malaysia: Penjelasan Bentuk Tari Klasik Ini"
 socialTitle: "Bagaimana tari klasik India Selatan berakar di Malaysia"
 
 lang: "id"
+sourceContentHash: "f61cd4f8304d521c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -28,8 +28,9 @@ faq:
     a: "RFID masih memerlukan kendaraan melalui jalur bertanda dengan palang yang naik setelah pembacaan berhasil. ANPR seperti JustGO PLUS mengenali kendaraan melalui kamera yang membaca pelat nomor, memungkinkan kendaraan terdaftar melalui jalur mana pun tanpa tag fisik sama sekali — satu lagi langkah ke arah sistem tanpa palang sepenuhnya (MLFF)."
 
 lang: "id"
+sourceContentHash: "c1392d940afe3b99"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

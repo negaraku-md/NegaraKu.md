@@ -39,8 +39,9 @@ faq:
     a: "Dự luật Cấp phát là một phép thử về sự tín nhiệm tài chính đối với chính phủ. Vì nó là dự luật ngân sách, nó phải bắt đầu tại Dewan Rakyat và chỉ có thể do một Bộ trưởng đưa ra. Nếu Dewan Rakyat bác bỏ khoản cấp phát của chính phủ, điều đó thường được diễn giải là mất sự tín nhiệm của đa số — xem quyền lực tài chính của Dewan Rakyat theo Điều 67 và 68 của Hiến pháp Liên bang."
 
 lang: "vi"
+sourceContentHash: "40747e3f92b37352"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

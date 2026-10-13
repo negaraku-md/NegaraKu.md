@@ -36,10 +36,11 @@ verificationNeeded:
   - "التأكد مما إذا كانت أي ممارسة تعهدات مصرفية ماليزية أو اشتراط إدراج في بورصة ماليزيا (Bursa Malaysia) يُرتِّب نتيجةً محدَّدة على قسم «عدم التيقّن الجوهري المتعلق بالاستمرارية» — فالآثار التجارية الموصوفة هنا ملاحظة ممارس، لا قاعدة منشورة"
 
 lang: "ar"
+sourceContentHash: "272fa8b449a7b590"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

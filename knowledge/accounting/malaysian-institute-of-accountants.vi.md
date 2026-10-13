@@ -33,8 +33,9 @@ faq:
     a: "MIA hoạt động dưới thẩm quyền của Bộ Tài chính. Đối với kiểm toán các thực thể vì lợi ích công, sự giám sát bổ sung được thực hiện bởi Ban Giám sát Kiểm toán (Audit Oversight Board, AOB) dưới Ủy ban Chứng khoán."
 
 lang: "vi"
+sourceContentHash: "fb67f2b0a6c79587"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

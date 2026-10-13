@@ -48,10 +48,11 @@ obligations:
     consequence: "يُزاد المبلغ غير المدفوع بنسبة 10 بالمئة ولا يُقبل خصم المصروف بموجب المادة 39(1)(f) أو (i) أو (j)"
 
 lang: "ar"
+sourceContentHash: "091d81b974b404be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

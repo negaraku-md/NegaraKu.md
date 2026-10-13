@@ -41,8 +41,9 @@ verificationNeeded:
   - "Jumlah kursi Dewan Undangan Negeri dan Parlemen sengaja tidak dinyatakan karena tidak dapat dipastikan pada sumber resmi SPR saat penyusunan draf ini."
 
 lang: "id"
+sourceContentHash: "869286bde4f6fa80"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -43,8 +43,9 @@ verificationNeeded:
   - "Tuyên bố được lặp lại rộng rãi rằng ủy ban phải gặp kiểm toán viên bên ngoài hai lần một năm mà không có các giám đốc điều hành có mặt không có cơ sở trong Chapter 15, vốn chỉ nói bất cứ khi nào được cho là cần thiết — nó có thể bắt nguồn từ một tài liệu hướng dẫn không được truy xuất ở đây"
 
 lang: "vi"
+sourceContentHash: "fc979f0822a6b94f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

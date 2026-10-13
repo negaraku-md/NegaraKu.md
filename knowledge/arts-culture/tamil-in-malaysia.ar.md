@@ -32,11 +32,12 @@ seoTitle: "اللغة التاميلية في ماليزيا: المتحدثون
 socialTitle: "كيف يُتحدَّث بالتاميلية وتُدرَّس وتُحمى في ماليزيا"
 
 lang: "ar"
+sourceContentHash: "c45b4b0470d4ef3d"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

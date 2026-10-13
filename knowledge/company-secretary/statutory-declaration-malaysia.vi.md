@@ -31,8 +31,9 @@ faq:
     a: "Không — đây là một quan niệm sai lầm phổ biến được mang theo từ Companies Act 1965 cũ. Theo Companies Act 2016, việc thành lập được thực hiện qua một đơn trong đó mỗi giám đốc hoặc người sáng lập cung cấp một tuyên bố (section 14) rằng họ đồng ý hành động và không bị mất tư cách. Đó là một tuyên bố, không phải một bản khai theo luật định."
 
 lang: "vi"
+sourceContentHash: "ca496f3d42e9b712"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

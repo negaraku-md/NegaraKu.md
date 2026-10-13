@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang lập ngân sách cho Malaysia, so sánh các lời mời lương với chi phí sinh hoạt thực tế, hoặc tìm kiếm dữ liệu DOSM sơ cấp đằng sau một khẳng định về chi phí sinh hoạt."
 
 lang: "vi"
+sourceContentHash: "0b3015ed818343fb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

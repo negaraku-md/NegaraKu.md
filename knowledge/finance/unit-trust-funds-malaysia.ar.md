@@ -34,10 +34,11 @@ faq:
     a: "صافي قيمة الأصول لكل وحدة هو إجمالي القيمة السوقية لأصول الصندوق مطروحاً منها التزاماته، مقسوماً على عدد الوحدات المُصدَرة. وهو السعر الذي تشتري به الوحدات وتبيعها، ويتحرّك يومياً مع قيمة ممتلكات الصندوق. وارتفاع صافي قيمة الأصول لكل وحدة يعني أن استثمارات الصندوق قد اكتسبت قيمة."
 
 lang: "ar"
+sourceContentHash: "a2f63906e556e7a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

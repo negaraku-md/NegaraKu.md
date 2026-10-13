@@ -29,10 +29,11 @@ faq:
     a: "الحد الأدنى هو RM1,000 لكل معاملة. ويظل مبلغك المؤهل ساريًا لمدة ثلاثة أشهر في كل مرة، ولذلك يمكنك عمليًا إجراء تحويل جديد بمجرد انقضاء تلك المدة."
 
 lang: "ar"
+sourceContentHash: "d3f550dd37241cac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

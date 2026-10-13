@@ -42,8 +42,9 @@ verificationNeeded:
   - "Apakah ada negara bagian yang telah menyatukan perizinan usaha dan premisnya ke dalam satu instrumen tunggal sejak putaran Modernising Business Licensing terakhir"
 
 lang: "id"
+sourceContentHash: "2779e333b6f5b277"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

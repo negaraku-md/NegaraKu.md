@@ -26,8 +26,9 @@ verificationNeeded:
   - "Verifikasi apakah akses daring ke informasi kepemilikan manfaat telah menggantikan fasilitas yang hanya tersedia di loket di Menara SSM@Sentral"
 
 lang: "id"
+sourceContentHash: "a088732b82dc0e99"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

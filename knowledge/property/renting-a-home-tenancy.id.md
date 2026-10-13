@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang menyewa atau menyewakan properti hunian di Malaysia — penyewa yang menandatangani perjanjian penyewaan pertama mereka, dan pemilik yang menyusun satu, di Semenanjung Malaysia, Sabah atau Sarawak."
 
 lang: "id"
+sourceContentHash: "82f3b97b7c53aec7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

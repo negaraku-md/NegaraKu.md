@@ -31,12 +31,13 @@ faq:
     a: "نقلت MFL الرزنامة لمواءمة صيغة AFC. فبدأ الموسم الجديد في مايو 2024 وانتهى في أبريل 2025، مع مراعاة كأس آسيا AFC، وتصفيات كأس العالم 2026، وشهر رمضان."
 
 lang: "ar"
+sourceContentHash: "fdb11bb0fa6c116e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

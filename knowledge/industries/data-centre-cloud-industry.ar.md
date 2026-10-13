@@ -34,10 +34,11 @@ faq:
     a: "تُلزِم إرشادات التطوير المستدام لمراكز البيانات الصادرة عن MITI (30 ديسمبر 2024) المشغّلين بالإفصاح عن قيم PUE وWUE وCUE التصميمية وفقاً لمعايير ISO/IEC 30134، وبمراعاة مواقع في شبه جزيرة ماليزيا ذات مؤشر إجهاد مائي (WSI) يقل عن 0.8، وفقاً للصياغة التي يحدد بها الدليل شرط اختيار الموقع."
 
 lang: "ar"
+sourceContentHash: "58d8713ab3d5317e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

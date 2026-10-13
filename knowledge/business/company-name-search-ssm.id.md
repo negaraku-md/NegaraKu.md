@@ -38,8 +38,9 @@ verificationNeeded:
   - "Daftar otoritas rujukan dan kata terkendali dalam Lampiran 1, Guidelines on Company Names, dinyatakan secara jelas sebagai tidak lengkap (non-exhaustive) — verifikasi daftar terkini dengan SSM sebelum bergantung padanya"
 
 lang: "id"
+sourceContentHash: "7ac1590970b850fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

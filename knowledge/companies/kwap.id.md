@@ -29,8 +29,9 @@ faq:
     a: "RM185.6 miliar pada 31 Desember 2024, naik dari RM169.8 miliar (2023) dan RM158.1 miliar (2022)."
 
 lang: "id"
+sourceContentHash: "4489ae23d6537356"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

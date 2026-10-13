@@ -32,10 +32,11 @@ faq:
     a: "لا. فقد عُلِّق سد بارام، الذي كان يُتوقَّع أن يُغرِق 412 كيلومتراً مربعاً ويهجّر ~20,000 شخص، بموجب وقف مؤقت في 2015 وأُلغي رسمياً في 2016 إثر احتجاجات السكان الأصليين المستمرة."
 
 lang: "ar"
+sourceContentHash: "3900760aacdbc30f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

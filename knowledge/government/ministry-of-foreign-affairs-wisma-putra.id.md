@@ -35,8 +35,9 @@ faq:
     a: "Hingga tahun 2026, Menteri Luar Negeri adalah Dato' Seri Utama Mohamad Hasan. Portofolio Kabinet berubah seiring perombakan, jadi konfirmasikan pemegang jabatan saat ini di kln.gov.my."
 
 lang: "id"
+sourceContentHash: "e91cf1913840a424"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Có. Mục 4(2)(d) trao cho SUHAKAM quyền thăm bất kỳ nơi giam giữ, cơ sở và địa điểm nào khác, và đưa ra kiến nghị cần thiết. Mục 4(3), được đưa vào bởi sửa đổi 2024, nêu rằng chuyến thăm đó không thể bị từ chối bởi người phụ trách địa điểm liên quan miễn là thủ tục được quy định được tuân thủ."
 
 lang: "vi"
+sourceContentHash: "41da53bbfb03e372"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

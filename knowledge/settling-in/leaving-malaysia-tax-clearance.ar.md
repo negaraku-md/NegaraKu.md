@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "الماليزيون والمغتربون المغادرون لماليزيا نهائياً، أو لأكثر من ثلاثة أشهر، وفِرق الموارد البشرية أو الرواتب التي عليها تقديم الأوراق نيابةً عنهم."
 
 lang: "ar"
+sourceContentHash: "00b0d352c02ac806"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

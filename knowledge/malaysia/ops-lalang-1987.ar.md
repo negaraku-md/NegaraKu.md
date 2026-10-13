@@ -31,12 +31,13 @@ faq:
     a: "لا. أُلغي قانون الأمن الداخلي لسنة 1960 عام 2012 وحلّ محله قانون جرائم الأمن (التدابير الخاصة) لسنة 2012 (Security Offences (Special Measures) Act 2012, SOSMA)، الذي لا تزال جماعات حقوقية والحكومة تتجادل بشأنه."
 
 lang: "ar"
+sourceContentHash: "b64842ee4e12b6c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

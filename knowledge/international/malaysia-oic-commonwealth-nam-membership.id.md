@@ -31,8 +31,9 @@ faq:
     a: "OIC adalah badan politik dan solidaritas seluruh dunia Islam dengan 57 anggota; sedangkan D-8 adalah kelompok kerja sama ekonomi delapan (kini sembilan) negara berkembang berpenduduk mayoritas Islam yang lebih kecil dan lebih berfokus pada perdagangan dan pembangunan."
 
 lang: "id"
+sourceContentHash: "0bd4e9cbc79316f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

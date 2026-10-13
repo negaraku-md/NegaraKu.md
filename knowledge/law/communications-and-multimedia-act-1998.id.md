@@ -30,8 +30,9 @@ faq:
     a: "Aktivitas berlisensi dibagi menjadi empat kategori. Melalui arahan 2024, penyedia media sosial dan perpesanan Internet dengan setidaknya delapan juta pengguna di Malaysia diwajibkan mengajukan lisensi kelas dari SKMM, berlaku 1 Januari 2025."
 
 lang: "id"
+sourceContentHash: "6cd84d5baa9c3ad8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai chuyển đến hoặc lập ngân sách cho Sabah hay Sarawak, so sánh giá cả Đông Malaysia với Bán đảo Malaysia, hoặc tìm hiểu vì sao cùng một sản phẩm lại có mức giá khác nhau ở hai bên Biển Đông."
 
 lang: "vi"
+sourceContentHash: "327dd8ebe6d5d915"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

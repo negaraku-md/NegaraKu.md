@@ -25,8 +25,9 @@ appliesTo: "Pendiri yang hampir mencapai lima puluh pemegang saham, perusahaan y
 
 verificationNeeded: []
 lang: "id"
+sourceContentHash: "8917207c150f9f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

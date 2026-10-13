@@ -38,8 +38,9 @@ verificationNeeded:
   - "Liệu một công ty tín thác đăng ký theo Trust Companies Act 1949 có nhất thiết là một công ty đại chúng chịu sự điều chỉnh của toàn bộ khuôn khổ chủ sở hữu hưởng lợi hay không — được khẳng định trong một số bình luận nhưng không gắn với một điều khoản của Luật đó"
 
 lang: "vi"
+sourceContentHash: "d098cf8ee96defb7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

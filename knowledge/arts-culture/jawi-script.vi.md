@@ -34,8 +34,9 @@ seoTitle: "Chữ Jawi: lịch sử, hệ thống và địa vị hiện nay"
 socialTitle: "Hệ chữ Ả Rập viết tiếng Mã Lai suốt bảy thế kỷ — câu chuyện của chữ Jawi"
 
 lang: "vi"
+sourceContentHash: "227837ea67cec8a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

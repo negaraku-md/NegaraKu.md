@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Học sinh, giáo viên, viên chức nhà nước, nhà báo và bất kỳ ai nhìn thấy Jata Negara trên hộ chiếu, đồng xu, thư từ chính phủ hoặc các tòa nhà chính thức và muốn nhận biết ý nghĩa của từng yếu tố của nó."
 
 lang: "vi"
+sourceContentHash: "d089f6e067d44f67"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

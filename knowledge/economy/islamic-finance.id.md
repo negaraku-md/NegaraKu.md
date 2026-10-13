@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang perlu memahami mekanismenya, bukan sekadar pemasarannya — pelajar, wartawan, bendahara, pendiri perusahaan yang membandingkan opsi pembiayaan, dan peneliti yang memetakan sistem keuangan Malaysia."
 
 lang: "id"
+sourceContentHash: "baeef20a51fe9ad2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

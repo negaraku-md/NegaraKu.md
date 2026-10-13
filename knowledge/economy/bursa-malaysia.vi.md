@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Nhà sáng lập và giám đốc tài chính cân nhắc IPO, các cố vấn và nhà bảo trợ, và nhà đầu tư đang cố đọc xem việc niêm yết ở một bảng thực sự báo hiệu điều gì."
 
 lang: "vi"
+sourceContentHash: "8a42caae2331fbbd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "Tidak. Kompaun parkir dikeluarkan oleh PBT di bawah perintah lalu lintas jalan terkait parkir, sementara tilang lalu lintas untuk pelanggaran mengemudi dikeluarkan oleh PDRM atau JPJ."
 
 lang: "id"
+sourceContentHash: "cec9d7c50b142e19"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

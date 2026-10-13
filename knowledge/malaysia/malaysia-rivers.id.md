@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Pelajar geografi dan sejarah Malaysia, serta siapa pun yang ingin memahami mengapa kota-kota utama di Sarawak, Sabah, dan Pahang terletak di posisi sungai tertentu."
 
 lang: "id"
+sourceContentHash: "c0dca023c22caa3e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

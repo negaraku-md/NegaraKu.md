@@ -36,8 +36,9 @@ verificationNeeded:
   - "Các ngày ở đây được lấy từ chương trình nộp được ban hành ngày 30 tháng 12 năm 2025 và cập nhật ngày 1 tháng 4 năm 2026, vốn điều chỉnh các tờ khai cho năm đánh giá 2025. LHDN ban hành một chương trình mới mỗi năm — hãy đọc lại nó trước khi dựa vào một chu kỳ sau này"
 
 lang: "vi"
+sourceContentHash: "1c422a60f1ab90e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

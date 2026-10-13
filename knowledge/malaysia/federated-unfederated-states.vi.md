@@ -33,8 +33,9 @@ faq:
   - q: "Cuối cùng điều gì đã xảy ra với hai nhóm này?"
     a: "Cả các Bang Mã Lai Liên hiệp và Không Liên hiệp đều bị giải thể vào Malayan Union vào ngày 1 tháng 4 năm 1946, mà bản thân nó trong vòng vài năm được thay thế bằng Liên bang Malaya (Federation of Malaya)."
 lang: "vi"
+sourceContentHash: "3bcc3b32fd59d463"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

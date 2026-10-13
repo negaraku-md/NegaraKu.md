@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Người đọc muốn hiểu, bằng thuật ngữ mô tả, cách một chính quyền bang của Malaysia được tổ chức — sinh viên, công chức, nhà báo, và bất kỳ ai đang cố tìm hiểu vì sao một số bang có một Menteri Besar và một Istana Negeri trong khi các bang khác có một Bộ trưởng Thứ nhất và một thống đốc."
 
 lang: "vi"
+sourceContentHash: "0eb897c5d29d626d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

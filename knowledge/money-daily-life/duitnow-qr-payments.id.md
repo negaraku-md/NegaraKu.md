@@ -26,8 +26,9 @@ verificationNeeded:
   - "Angka biaya dan batas transaksi diambil langsung dari laman resmi PayNet pada tanggal penulisan; PayNet menyatakan biaya sebenarnya dapat berbeda menurut bank/e-wallet individu"
 
 lang: "id"
+sourceContentHash: "1b31c1f5d1b3682f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

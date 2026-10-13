@@ -37,8 +37,9 @@ verificationNeeded:
   - "Việc liệu một Giấy chứng nhận cư trú có thể được cấp cho một năm mà tiêu chí cư trú chỉ được đáp ứng sau ngày nộp đơn hay không đã không được đề cập trên trang LHDN"
 
 lang: "vi"
+sourceContentHash: "11fa9fda7774dfda"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

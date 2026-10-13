@@ -30,8 +30,9 @@ faq:
     a: "Bank Negara Malaysia quản lý và giám sát sáu DFI được quy định theo Development Financial Institutions Act 2002, bảo đảm chúng lành mạnh về tài chính và thực hiện các vai trò được giao một cách thận trọng."
 
 lang: "vi"
+sourceContentHash: "2cd551f54c730d34"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

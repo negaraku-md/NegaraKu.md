@@ -37,8 +37,9 @@ faq:
     a: "Nếu một ngân hàng thành viên phá sản, PIDM hoàn trả cho những người gửi đủ điều kiện lên đến giới hạn RM250,000. Nếu một bên bảo hiểm thành viên phá sản, PIDM hoặc thu xếp để bảo hiểm của bạn được tiếp tục hoặc chi trả các quyền lợi được bảo vệ lên đến giới hạn áp dụng."
 
 lang: "vi"
+sourceContentHash: "6dadc68b3f5258f8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

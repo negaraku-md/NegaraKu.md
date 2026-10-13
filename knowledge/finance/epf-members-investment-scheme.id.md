@@ -29,8 +29,9 @@ faq:
     a: "Jumlah minimum adalah RM1,000 per transaksi. Jumlah yang layak berlaku selama tiga bulan pada satu waktu, sehingga dalam praktiknya Anda dapat membuat pemindahan baru segera setelah periode itu berakhir."
 
 lang: "id"
+sourceContentHash: "d3f550dd37241cac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

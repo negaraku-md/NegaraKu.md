@@ -43,8 +43,9 @@ verificationNeeded:
   - "Xác nhận liệu ngân hàng có yêu cầu xem sổ đăng ký các chủ sở hữu hưởng lợi được duy trì theo các mục 60B và 60C của Companies Act 2016 hay không — đây là thực hành phổ biến nhưng không phải là một yêu cầu được nêu trong tài liệu chính sách"
 
 lang: "vi"
+sourceContentHash: "75370094a3730df5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

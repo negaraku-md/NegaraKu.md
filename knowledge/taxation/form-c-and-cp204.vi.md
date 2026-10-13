@@ -76,8 +76,9 @@ obligations:
     consequence: "Chế tài lên đến ba lần số thuế theo s.112(3), hoặc truy tố theo s.112(1) với khoản phạt từ RM200 đến RM20,000"
 
 lang: "vi"
+sourceContentHash: "b156623175c87682"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

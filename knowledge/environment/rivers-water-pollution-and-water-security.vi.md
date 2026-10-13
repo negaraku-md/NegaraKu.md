@@ -34,8 +34,9 @@ faq:
     a: "Theo báo cáo của Macaranga, sửa đổi năm 2023 đối với Đạo luật Chất lượng Môi trường 1974 quy định mức phạt tối thiểu RM5,000 và tối đa lên đến RM10 triệu, cùng án phạt tù bắt buộc không quá năm năm cho các hành vi phạm tội ô nhiễm. Đối với các hành vi phạm tội dưới chế độ khu dành riêng ven sông của Selangor (Section 48(1) của Sắc lệnh LUAS 1999), hình phạt là mức phạt không quá RM50,000 hoặc phạt tù không quá hai năm, hoặc cả hai. Các con số sửa đổi Đạo luật 1974 này đến từ một báo cáo thứ cấp và nên được xác nhận so với văn bản Công báo chính thức."
 
 lang: "vi"
+sourceContentHash: "1a7e38792ecc17c4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

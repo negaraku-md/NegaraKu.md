@@ -55,8 +55,9 @@ obligations:
     consequence: "Phạt đến RM50,000 đối với mọi cán bộ, cộng với đến RM1,000 cho mỗi ngày tội tiếp diễn, theo s.259(3)"
 
 lang: "vi"
+sourceContentHash: "4e2872dc66850acf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

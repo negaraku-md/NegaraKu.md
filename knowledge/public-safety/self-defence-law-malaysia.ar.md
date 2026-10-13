@@ -28,10 +28,11 @@ faq:
     a: "لا. بموجب المادة 102، لا يستمر حق الدفاع عن الجسد إلا ما دامت الخشية المعقولة من الخطر قائمة. والفعل الذي يستمر بعد انتهاء التهديد قد يُعَد هجوماً مضاداً لا دفاعاً."
 
 lang: "ar"
+sourceContentHash: "7668765b92f13005"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

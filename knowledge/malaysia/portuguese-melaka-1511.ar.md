@@ -19,9 +19,10 @@ keyTakeaways:
   - "استأنفت سلالة سلطنة ملقا الحكم في جوهور لاما عام 1528، ودامت تلك السلالة حتى 1699"
 appliesTo: "القرّاء الراغبون في فهم الأسباب التقنية والسياسية وراء سقوط ملقا عام 1511، وما حلّ بمؤسسات ملقا وسلالتها الملكية بعد فقدان المدينة."
 lang: "ar"
+sourceContentHash: "b8ff8e81366e5986"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

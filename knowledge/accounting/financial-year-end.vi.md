@@ -57,8 +57,9 @@ obligations:
     consequence: "Phạt đến RM50,000 cộng với đến RM500 mỗi ngày đối với công ty và mọi cán bộ, theo s.258(3)"
 
 lang: "vi"
+sourceContentHash: "c624788a072a7927"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

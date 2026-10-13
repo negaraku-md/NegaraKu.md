@@ -26,10 +26,11 @@ verificationNeeded:
   - "ما إذا كان قد صدر أي إعفاء رأسمالي مُعجَّل أو مُعزَّز خاص بشراء (لا باستئجار) المركبات الكهربائية — لم يُعثر على أي صك من هذا القبيل في قاعدة بيانات التشريعات الفرعية لدى مكتب النائب العام (AGC)."
 
 lang: "ar"
+sourceContentHash: "9f0ef46f2f698cad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

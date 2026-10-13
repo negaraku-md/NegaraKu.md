@@ -37,8 +37,9 @@ faq:
     a: "Pembayaran dari Pemerintah Federal kepada Terengganu dan Kelantan terkait hasil petroleum. Pernyataan Kementerian Keuangan menegaskan bahwa Wang Ihsan bukan pemberian Pemerintah Federal yang termaktub dalam undang-undang, yaitu ia bukan hak yang ditetapkan oleh statuta."
 
 lang: "id"
+sourceContentHash: "44eeeac1d9bc0d54"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

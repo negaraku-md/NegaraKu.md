@@ -38,10 +38,11 @@ faq:
     a: "المعهد الوطني للرياضة (ISN). وُضِع على أساس نظامي بموجب قانون المعهد الوطني للرياضة لسنة 2011 [Act 729]، ويعمل على تقديم خدمات علوم الرياضة والطب الرياضي والمشورة والاستشارة، وإجراء البحوث، وإسداء المشورة إلى الوزير بشأن الجوانب العلمية لأداء الرياضيين."
 
 lang: "ar"
+sourceContentHash: "6410f4b09d840cf0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

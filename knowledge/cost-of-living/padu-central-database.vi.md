@@ -29,8 +29,9 @@ faq:
     a: "Không. Theo chính phủ, việc thu thập dữ liệu của PADU không liên quan đến hệ thống thông tin ngân hàng do các hạn chế pháp lý."
 
 lang: "vi"
+sourceContentHash: "47282ce02fd5a43d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

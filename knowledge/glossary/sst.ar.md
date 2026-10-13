@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "أصحاب الأعمال والفرق المالية والمستهلكون الراغبون في فهم نظام الضرائب غير المباشرة في ماليزيا."
 
 lang: "ar"
+sourceContentHash: "7438db08db3298e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

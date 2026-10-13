@@ -34,8 +34,9 @@ faq:
     a: "Có. Khiếu nại bằng văn bản có thể được chuyển đến Ủy ban Kỷ luật theo điều 99. Nếu Ủy ban thấy có căn cứ, nó sẽ lập một Tribunal Điều tra theo điều 100 để điều tra khiếu nại đó."
 
 lang: "vi"
+sourceContentHash: "b2af26646e05de04"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

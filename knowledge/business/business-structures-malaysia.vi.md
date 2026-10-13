@@ -29,8 +29,9 @@ verificationNeeded:
   - "Xác nhận vị thế đăng ký cho các doanh nghiệp ở Sabah và Sarawak, vốn vận hành theo các đạo luật của bang chứ không phải Registration of Businesses Act 1956"
 
 lang: "vi"
+sourceContentHash: "aecfbddfa9393cec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

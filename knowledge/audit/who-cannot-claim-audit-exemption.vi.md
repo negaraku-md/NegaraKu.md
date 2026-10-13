@@ -16,8 +16,9 @@ answer: "Bốn nhóm bị loại khỏi việc miễn kiểm toán theo Chỉ th
 verificationNeeded: []
 
 lang: "vi"
+sourceContentHash: "776ac8951ed8d754"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

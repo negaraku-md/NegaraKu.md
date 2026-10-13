@@ -35,8 +35,9 @@ faq:
     a: "Tính đến năm 2026, Bộ trưởng Ngoại giao là Dato' Seri Utama Mohamad Hasan. Các danh mục Nội các thay đổi theo các lần cải tổ, nên hãy xác nhận người giữ chức vụ hiện tại tại kln.gov.my."
 
 lang: "vi"
+sourceContentHash: "e91cf1913840a424"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

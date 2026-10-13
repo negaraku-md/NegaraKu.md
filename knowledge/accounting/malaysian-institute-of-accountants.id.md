@@ -33,8 +33,9 @@ faq:
     a: "MIA beroperasi di bawah yurisdiksi Kementerian Keuangan. Bagi audit entitas kepentingan publik, pengawasan tambahan dilakukan oleh Dewan Pengawasan Audit (AOB) di bawah Komisi Sekuritas."
 
 lang: "id"
+sourceContentHash: "fb67f2b0a6c79587"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

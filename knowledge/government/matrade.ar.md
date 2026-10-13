@@ -26,10 +26,11 @@ verificationNeeded:
   - "يؤكّد رقم الـ47 مكتبًا في الخارج تقريران إخباريان من 2026 مؤرّخان بشكل مستقل ويستشهدان برئيس MATRADE ورئيسها التنفيذي ذاتهما، لكنه لم يُراجَع تقاطعيًا مع صفحة دليل مكاتب مستضافة لدى MATRADE، التي لم تتمكّن محاولات الوصول في هذا المقال من استرجاعها بالكامل"
 
 lang: "ar"
+sourceContentHash: "53582e357950bce0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

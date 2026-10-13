@@ -29,8 +29,9 @@ verificationNeeded:
   - "e-Invoice Guideline và Specific Guideline được sửa đổi thường xuyên — hãy xác nhận phiên bản hiện hành trước khi coi bất kỳ yêu cầu tích hợp nào là đã ổn định"
 
 lang: "vi"
+sourceContentHash: "2723b917b69eeed3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

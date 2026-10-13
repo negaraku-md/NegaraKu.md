@@ -29,8 +29,9 @@ faq:
     a: "Pasal 38(6) memberi Majlis Raja-Raja kuasa untuk memberhentikan Agong. Menurut ulasan hukum, kuasa ini tidak pernah digunakan sepanjang sejarah negara."
 
 lang: "id"
+sourceContentHash: "f2d2c6ec105b4198"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

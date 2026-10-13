@@ -34,10 +34,11 @@ faq:
     a: "عدم الامتثال للقرار جريمة بموجب المادة 123 — غرامة لا تتجاوز RM250,000 أو السجن مدة لا تتجاوز 3 سنوات أو كلاهما، مع غرامة إضافية تصل إلى RM5,000 يوميًا عن الجريمة المستمرة. وتُقدَّم الشكوى إلى مفوّض المباني (COB)."
 
 lang: "ar"
+sourceContentHash: "f0b9ecff267db2f3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

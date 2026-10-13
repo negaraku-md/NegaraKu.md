@@ -31,10 +31,11 @@ faq:
     a: "يشرف على Rukun Tetangga دائرة الوحدة الوطنية والتكامل الوطني (JPNIN) التابعة لوزارة الوحدة الوطنية. ويستند قانونيًا إلى قانون Rukun Tetangga لسنة 2012 (القانون رقم 751)."
 
 lang: "ar"
+sourceContentHash: "79fa6f589efc75aa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

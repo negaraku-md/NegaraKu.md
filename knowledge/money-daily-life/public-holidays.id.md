@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang merencanakan perjalanan, bisnis, atau urusan harian lintas negeri dan ingin memahami sebab daftar hari libur umum tidak seragam di seluruh Malaysia."
 
 lang: "id"
+sourceContentHash: "3aa4c891e7b6b223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

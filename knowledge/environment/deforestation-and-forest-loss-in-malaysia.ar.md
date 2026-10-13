@@ -34,10 +34,11 @@ faq:
     a: "يحتسب فقدان الغطاء الشجري أي إزالة للمظلة الشجرية — بما في ذلك حصاد المزارع والأضرار الناجمة عن الحرائق والعواصف — فيشمل خسائر تعاود النمو لاحقاً. أما فقدان الغابات الأولية فلا يحتسب سوى إزالة الغابات الطبيعية الناضجة ذات التنوع البيولوجي والكربون غير القابلين للتعويض، وهو المؤشر الأفضل على الخسارة الإيكولوجية الدائمة."
 
 lang: "ar"
+sourceContentHash: "0965237e8942626f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -32,8 +32,9 @@ faq:
     a: "Ia disampaikan di Dewan Rakyat pada 2 Desember 2019."
 
 lang: "id"
+sourceContentHash: "3c6e38b833f827d4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

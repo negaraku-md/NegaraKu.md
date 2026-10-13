@@ -29,8 +29,9 @@ verificationNeeded:
   - "Item 12 (penyerahan hak) telah diganti oleh Act 862 dan jalur asuransi jiwanya yang direvisi tidak diterbitkan ulang di sini"
 
 lang: "id"
+sourceContentHash: "bade86680d1436e5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

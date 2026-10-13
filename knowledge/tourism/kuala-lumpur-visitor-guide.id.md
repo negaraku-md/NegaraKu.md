@@ -36,8 +36,9 @@ faq:
     a: "Tutup bahu dan lutut Anda. Kain sarung biasanya tersedia untuk dipinjam atau disewa di pintu masuk jika pakaian Anda terlalu terbuka. Alas kaki yang nyaman membantu untuk tangga panjang naik ke kuil gua utama."
 
 lang: "id"
+sourceContentHash: "2716ca2d76a67d28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

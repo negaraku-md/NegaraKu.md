@@ -29,10 +29,11 @@ faq:
     a: "يُعزف السيروناي بتقنية التنفس الدائري (circular breathing)، التي تتيح لصوته أن يستمر دون انقطاع، بما يجعله الحاملَ الرئيسي للّحن في النوبات (Nobat)."
 
 lang: "ar"
+sourceContentHash: "ede0d9c6ebbbceef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

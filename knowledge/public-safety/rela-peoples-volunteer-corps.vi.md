@@ -30,8 +30,9 @@ faq:
     a: "Thời hạn đăng ký cho mỗi thành viên là năm năm kể từ ngày đăng ký, và có thể được gia hạn bởi Tổng Giám đốc hoặc sĩ quan được trao quyền (mục 9)."
 
 lang: "vi"
+sourceContentHash: "a347a3b7cad0cfbb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

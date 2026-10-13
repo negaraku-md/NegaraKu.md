@@ -30,8 +30,9 @@ faq:
     a: "Ya. Institut Akuntan Malaysia menerapkan pernyataan IAASB sebagai Standar Pengauditan yang Disetujui Malaysia tanpa modifikasi, sehingga ISA 320, 450, dan 530 berlaku untuk audit statutori Malaysia."
 
 lang: "id"
+sourceContentHash: "caf6b9d895d2d9ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

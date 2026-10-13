@@ -34,8 +34,9 @@ faq:
     a: "Có, đặc biệt là Sabah. Động đất Ranau 2015 mạnh 6.0 độ đã cướp đi 18 sinh mạng ở Gunung Kinabalu. Vào ngày 23 tháng 2 năm 2026, một trận động đất ngoài khơi mạnh 6.8 độ xảy ra gần Kudat ở độ sâu 678 km mà không có mối đe dọa sóng thần. Nguy cơ động đất lớn ở Bán đảo là thấp."
 
 lang: "vi"
+sourceContentHash: "aacc807758e00d83"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -19,8 +19,9 @@ keyTakeaways:
   - "Pemerintahan Jepang berakhir dengan penyerahan pada 1945; dokumen penyerahan bagi kawasan ini ditandatangani di Bangunan Perbandaran, Singapura pada 12 September 1945"
 appliesTo: "Pelajar, guru, peneliti, dan pembaca umum yang menginginkan kronologi bersumber dan gambaran deskriptif tentang periode 1941–1945 di Tanah Melayu dan Borneo, tanpa karakterisasi atau perbandingan penderitaan."
 lang: "id"
+sourceContentHash: "8db8504e8559d165"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -32,10 +32,11 @@ faq:
     a: "تقع معظم السفارات والمفوضيات العليا الأجنبية المقيمة في كوالالمبور وبوتراجايا، مع تشغيل بعض الدول قنصليات في مدن مثل بينانغ وجوهور بهرو وكوتا كينابالو وكوتشينغ."
 
 lang: "ar"
+sourceContentHash: "7bb552ee1b28a75c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

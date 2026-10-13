@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami struktur konstitusional Malaysia — pelajar, peneliti, wartawan dan pembaca umum — serta siapa saja yang perlu tahu ketentuan mana yang memerlukan persetujuan atau perundingan Majlis Raja-Raja."
 
 lang: "id"
+sourceContentHash: "b582d091b8a771db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

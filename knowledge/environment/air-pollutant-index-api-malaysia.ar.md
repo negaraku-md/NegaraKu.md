@@ -30,12 +30,13 @@ faq:
     a: "عند 101–200 (غير صحي)، ينبغي للفئات الحساسة — كبار السن والحوامل والأطفال والمصابين بمضاعفات القلب أو الرئة — الحد من النشاط في الهواء الطلق. وفوق 300 (خطير)، يُمنع كبار السن والأشخاص الأكثر عرضة للخطر من النشاط في الهواء الطلق، ويُنصح عامة الناس بتجنبه."
 
 lang: "ar"
+sourceContentHash: "fc387c28a9eb09b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

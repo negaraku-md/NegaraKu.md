@@ -34,8 +34,9 @@ faq:
     a: "Chăm sóc tim mạch, ung thư, hiếm muộn/thụ tinh trong ống nghiệm, chỉnh hình và khám sức khỏe toàn diện nằm trong số các chuyên khoa được tìm kiếm nhiều nhất đối với bệnh nhân nước ngoài — bốn cái đầu là các trung tâm xuất sắc được MHTC chỉ định."
 
 lang: "vi"
+sourceContentHash: "038cf5af7095fe8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

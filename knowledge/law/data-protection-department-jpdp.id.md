@@ -25,8 +25,9 @@ faq:
   - q: "Siapa yang harus mendaftar dengan JPDP?"
     a: "Pengguna data (kini 'pengendali data') yang termasuk dalam 13 kelas yang ditetapkan di bawah Personal Data Protection (Class of Data Users) Order 2013 harus mendaftar di bawah pasal 14 PDPA dan memperoleh sertifikat pendaftaran yang sah. Pendaftaran dilakukan daring melalui portal SPDP di daftar.pdp.gov.my."
 lang: "id"
+sourceContentHash: "a86fa7aea38102ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

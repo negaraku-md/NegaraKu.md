@@ -28,11 +28,12 @@ faq:
     a: "بحسب إصدار إطلاق النتائج الرئيسية لـDOSM، سجَّلت سيلانغور أعلى عدد من المسلمين والبوذيين والهندوس بين ولايات ماليزيا، بينما سجَّلت ساراواك أعلى عدد من المسيحيين. ويقدِّم الإصدار الترتيب فقط، لا توزيعًا على مستوى الولايات لكل دين."
 
 lang: "ar"
+sourceContentHash: "9209ca0d039c5f34"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

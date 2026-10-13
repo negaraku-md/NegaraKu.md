@@ -42,8 +42,9 @@ verificationNeeded:
   - "Việc liệu khoản miễn s.39(1)(r) trong P.U.(A) 425-2021 đã được gia hạn sau YA2025 hay chưa — thông tư 269/2021 của Labuan FSA nêu kỳ hiệu lực là YA2019 đến YA2025 và không tìm thấy lệnh gia hạn nào"
   - "Việc liệu paragraphs 39(1)(o) và 39(1)(p), vốn tham chiếu đến Goods and Services Tax Act 2014, có còn hiệu lực sau khi bãi bỏ Đạo luật đó hay không"
 lang: "vi"
+sourceContentHash: "5306816ff4b971c7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

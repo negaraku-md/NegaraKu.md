@@ -27,10 +27,11 @@ verificationNeeded:
   - "تأكّد مما إذا كانت أي اتفاقية سارية لتجنّب الازدواج الضريبي تغيّر وضع الفرد غير المقيم بموجب الجزء XXII من الجدول 1 — لم يُعثر على أي تقرير من الهيئة الماليزية للإيرادات الداخلية (LHDN) بشأن هذه النقطة"
 
 lang: "ar"
+sourceContentHash: "efeb2f7c70d05ed0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

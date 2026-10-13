@@ -81,10 +81,11 @@ obligations:
     consequence: "Representations filed out of time cannot be entertained"
 
 lang: "ar"
+sourceContentHash: "d80998453b1bb373"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

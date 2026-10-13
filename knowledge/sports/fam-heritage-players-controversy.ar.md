@@ -30,12 +30,13 @@ faq:
     a: "أشار الفيفا إلى المادة 22 من اللائحة التأديبية للفيفا المتعلقة بتزوير وثائق تأهيل اللاعبين وتجنيسهم."
 
 lang: "ar"
+sourceContentHash: "1434e805293f8f32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

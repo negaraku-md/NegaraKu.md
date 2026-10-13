@@ -38,12 +38,13 @@ faq:
     a: "لا. ينظّم قانون الأمن السيبراني أمن البنية التحتية الحيوية ومرونتها. أما خصوصية البيانات الشخصية فينظّمها بصورة منفصلة قانون حماية البيانات الشخصية لسنة 2010 (Personal Data Protection Act 2010). ويمكن أن تخضع منظمة للقانونين معاً."
 
 lang: "ar"
+sourceContentHash: "3cca544d70c1185a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
 revision: 0

@@ -31,8 +31,9 @@ faq:
     a: "Pemilik dapat terus memiliki harta itu (Seksyen 69), tetapi peralihan kepemilikan Warisan Kebangsaan hanya dapat terjadi melalui pewarisan atau penjualan dengan persetujuan awal Komisaris, dan Komisaris harus diberi prioritas untuk membeli (Seksyen 70)."
 
 lang: "id"
+sourceContentHash: "ac4e452cf7f76ecc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

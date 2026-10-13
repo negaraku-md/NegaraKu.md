@@ -16,8 +16,9 @@ keyTakeaways:
   - "Perusahaan ini baru mengambil nama sekarangnya pada 1992, setelah waran diraja 1979 dari Sultan Selangor."
 appliesTo: "Siapa saja yang ingin tahu tentang tradisi kriya Malaysia, sejarah pertambangan timah, atau Royal Selangor"
 lang: "id"
+sourceContentHash: "ab235dfd3f4f5c67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -35,8 +35,9 @@ obligations:
     consequence: "Tindakan pemulihan di bawah s.106(1) dan penolakan pengeluaran yang berlanjut di bawah s.39"
 
 lang: "id"
+sourceContentHash: "c4d7fc178919f95f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

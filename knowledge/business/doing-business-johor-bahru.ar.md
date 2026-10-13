@@ -44,10 +44,11 @@ verificationNeeded:
   - "هيكل أجرة RTS Link وأول يوم مؤكد لخدمة الركاب — تنشر MRT Corp هدف إنجاز البنية التحتية بنهاية 2026 وبدء الخدمة في يناير 2027، في حين تصوغها هيئة النقل البري السنغافورية (LTA) على أنها خدمة بحلول ديسمبر 2026"
 
 lang: "ar"
+sourceContentHash: "4905d83a83912c4b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

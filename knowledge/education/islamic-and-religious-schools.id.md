@@ -29,8 +29,9 @@ faq:
     a: "Yurisdiksi utama terletak pada dinas/majelis agama Islam negara bagian, karena urusan agama Islam adalah perkara negara bagian di bawah Konstitusi. JAKIM menyelaraskan di tingkat federal, sementara persyaratan keselamatan bangunan melibatkan Otoritas Lokal dan Bomba (pemadam kebakaran)."
 
 lang: "id"
+sourceContentHash: "e8c71a5517740e23"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "كل من يحاول فهم الأساس القانوني لقطاع النفط والغاز في ماليزيا، أو الاعتماد المالي الفيدرالي على البترول، أو نقاش الموارد بين الاتحاد والولايات — الطلاب والمحللون والمستثمرون والصحفيون."
 
 lang: "ar"
+sourceContentHash: "e00cfef3a5a059c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

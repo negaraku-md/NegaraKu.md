@@ -45,8 +45,9 @@ verificationNeeded:
   - "Pastikan biaya pengajuan dan biaya meterai pengadilan terkini dari Mahkamah Persekutuan Malaysia atau registri yang bersangkutan"
 
 lang: "id"
+sourceContentHash: "572d5b41b321894d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

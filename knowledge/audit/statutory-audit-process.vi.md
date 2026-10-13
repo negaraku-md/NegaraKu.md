@@ -42,8 +42,9 @@ verificationNeeded:
   - "Xác nhận liệu MIA đã áp dụng ISA cho Đơn vị Ít Phức tạp (ISA for Less Complex Entities) hay chưa, mà IAASB đã cho có hiệu lực đối với các kỳ bắt đầu vào hoặc sau ngày 15 tháng 12 năm 2025 — quyết định áp dụng của Malaysia không thể được xác minh"
 
 lang: "vi"
+sourceContentHash: "35fbbbda43a0bf04"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

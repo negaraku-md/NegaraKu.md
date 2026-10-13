@@ -29,11 +29,12 @@ faq:
     a: "انفصلت سنغافورة في 9 أغسطس 1965 عقب تصويت في البرلمان الماليزي. وقد سبق الانفصالَ توترٌ سياسي بين حزب العمل الشعبي (People's Action Party) وحكومة التحالف (Alliance) حول السياسة الاقتصادية وأساس التنافس السياسي. ولم يكن أيٌّ من الطرفين قد خطّط لتلك النتيجة عند دمج 1963."
 
 lang: "ar"
+sourceContentHash: "6eb2de3c5c01ceae"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-07-22
 revision: 0
 revisions:

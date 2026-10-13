@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai chuyển đến một căn nhà hoặc cơ sở mới tại Malaysia và cần mở, chuyển tên, hoặc đóng tài khoản nguồn điện — dù ở Bán đảo, Sabah hay Sarawak."
 
 lang: "vi"
+sourceContentHash: "6891503e50f70d6b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

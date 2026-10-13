@@ -23,10 +23,11 @@ verificationNeeded:
   - "يعيد موقع MOTAC نفسه خطأ 403 لبعض أدوات الجلب الآلية؛ وقد جرى الحصول على الأرقام الواردة هنا عبر طلب بأسلوب المتصفح مباشرةً إلى صفحات الفئات والإرشادات في mm2h.gov.my، وقورنت بجدول المقارنة Category Overview في الموقع نفسه، غير أن البرنامج تغير تغيرًا كبيرًا منذ 2024 ويمكن مراجعة شروطه مجددًا — تحقق دائمًا من الأرقام الحالية في mm2h.gov.my قبل الاعتماد عليها في أي طلب."
 
 lang: "ar"
+sourceContentHash: "9a440d3b932f1d8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -25,9 +25,10 @@ faq:
   - q: "من الذي يجب أن يسجِّل لدى JPDP؟"
     a: "يجب على مستخدمي البيانات (الآن «مراقبي البيانات») الذين يقعون ضمن الفئات الثلاث عشرة المحددة بموجب Personal Data Protection (Class of Data Users) Order 2013 التسجيل بموجب المادة 14 من PDPA والحصول على شهادة تسجيل سارية. ويتم التسجيل عبر الإنترنت من خلال بوابة SPDP على daftar.pdp.gov.my."
 lang: "ar"
+sourceContentHash: "a86fa7aea38102ca"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

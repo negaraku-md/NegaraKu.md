@@ -34,8 +34,9 @@ faq:
     a: "Mất độ che phủ cây tính bất kỳ việc loại bỏ tán cây nào — bao gồm việc thu hoạch các đồn điền, thiệt hại do cháy và bão — nên nó bao gồm các tổn thất sau đó mọc lại. Mất rừng nguyên sinh chỉ tính việc phát quang rừng tự nhiên trưởng thành với đa dạng sinh học và carbon không thể thay thế, và là chỉ báo tốt hơn về tổn thất sinh thái vĩnh viễn."
 
 lang: "vi"
+sourceContentHash: "0965237e8942626f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Ia disampaikan ke Komisi Perusahaan Malaysia (SSM) melalui Sistem Pelaporan Bisnis Malaysia (MBRS), yang memerlukan laporan keuangan dalam format XBRL. MBRS mendukung kedua kerangka kerja MFRS dan MPERS serta menyediakan kolom pelaporan konsolidasian dan tersendiri."
 
 lang: "id"
+sourceContentHash: "582764d653c4df0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

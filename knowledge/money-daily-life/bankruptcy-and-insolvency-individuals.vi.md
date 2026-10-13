@@ -30,8 +30,9 @@ faq:
     a: "Phá sản là tố tụng của tòa án theo Đạo luật Phá sản 1967. DMP của AKPK thì là một chương trình dưới một cơ quan của Ngân hàng Trung ương Malaysia được tham gia một cách tự nguyện (không phải lệnh của tòa án) để cơ cấu lại nợ; theo BNM, các dịch vụ của AKPK được cung cấp miễn phí. DMP không mở cho các cá nhân đã bị tuyên bố phá sản."
 
 lang: "vi"
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

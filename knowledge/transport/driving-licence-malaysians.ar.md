@@ -26,10 +26,11 @@ verificationNeeded:
   - "ما إذا كان يمكن الآن تقديم طلب CDL بالكامل عبر الإنترنت من خلال تطبيق MyJPJ — تذكر صفحة خدمة JPJ التي جرى فحصها أن الطلبات تُقدَّم عند شبّاك JPJ في الولاية فقط، لكن هذا قد يكون تغيّر منذ تاريخ الفحص"
 
 lang: "ar"
+sourceContentHash: "994f31cbd16cea0e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

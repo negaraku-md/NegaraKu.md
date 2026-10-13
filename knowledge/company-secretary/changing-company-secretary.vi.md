@@ -71,8 +71,9 @@ obligations:
     consequence: "Vi phạm bởi công ty và mỗi giám đốc; khoản phạt chung theo s.588"
 
 lang: "vi"
+sourceContentHash: "3b2da95f3d26c5dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

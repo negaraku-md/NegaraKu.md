@@ -45,8 +45,9 @@ verificationNeeded:
   - "Liệu thư xác nhận ICA 10 có hỗ trợ cho hồ sơ vay vốn ngân hàng hay không — MIDA không nói vậy"
 
 lang: "vi"
+sourceContentHash: "37caa4da5ba10819"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

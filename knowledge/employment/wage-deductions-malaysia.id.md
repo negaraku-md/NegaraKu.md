@@ -29,8 +29,9 @@ faq:
     a: "Di bawah Pasal 24(8), jumlah semua potongan tidak boleh melebihi 50% gaji yang diperoleh dalam bulan itu. Pasal 24(9) mengecualikan indemnitas Pasal 13(1), pembayaran akhir saat berakhirnya pekerjaan, dan pinjaman perumahan (tambahan hingga 25% dengan izin Ketua Pengarah)."
 
 lang: "id"
+sourceContentHash: "3388bf641e0109a3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

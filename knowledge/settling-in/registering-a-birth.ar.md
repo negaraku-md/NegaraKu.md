@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "الوالدان أو الأوصياء أو أي شخص مسؤول عن تسجيل ميلاد طفل مولود في ماليزيا، بما في ذلك حالات التسجيل المتأخر وإعادة التقديم للحصول على شهادة ميلاد."
 
 lang: "ar"
+sourceContentHash: "02c6a3d01833544f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -40,8 +40,9 @@ verificationNeeded:
   - "Pastikan format dan konvensi kedaluwarsa nomor persetujuan auditor Menteri Keuangan yang dicetak di samping tanda tangan rekan — placeholder ilustrasi menunjukkan suatu struktur tetapi MIA tidak menjelaskannya"
 
 lang: "id"
+sourceContentHash: "46458a8295799022"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

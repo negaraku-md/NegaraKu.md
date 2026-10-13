@@ -32,8 +32,9 @@ faq:
     a: "Penyebab utamanya adalah kebakaran lahan dan hutan — termasuk kebakaran lahan gambut dan pembukaan lahan dengan cara bakar untuk pertanian — di Sumatera dan Kalimantan, yang menjadi lebih sering dan parah pada musim kemarau yang dipengaruhi fenomena El Nino."
 
 lang: "id"
+sourceContentHash: "f6dc09ddaaf77bcf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

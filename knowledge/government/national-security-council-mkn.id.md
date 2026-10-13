@@ -29,8 +29,9 @@ faq:
     a: "Menurut Pasal 6, anggotanya adalah Perdana Menteri (Ketua), Wakil Perdana Menteri, Menteri Pertahanan, Menteri Dalam Negeri, Menteri Komunikasi dan Multimedia, Ketua Setiausaha Negara, Panglima Angkatan Tentera, dan Ketua Polis Negara."
 
 lang: "id"
+sourceContentHash: "c3999252b2bdc0d7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

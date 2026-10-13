@@ -32,8 +32,9 @@ verificationNeeded:
   - "Tanggal yang tepat (masa jabatan perdana menteri, pengunduran diri, periode darurat) perlu disahkan dengan Kantor Perdana Menteri dan catatan resmi."
 
 lang: "id"
+sourceContentHash: "b981e60c4f8e26f9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

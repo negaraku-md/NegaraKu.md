@@ -30,8 +30,9 @@ faq:
     a: "Các hoạt động cần giấy phép được chia thành bốn nhóm. Qua chỉ thị năm 2024, các nhà cung cấp mạng xã hội và nhắn tin Internet có ít nhất tám triệu người dùng ở Malaysia được yêu cầu xin một giấy phép loại từ SKMM, có hiệu lực từ ngày 1 tháng 1 năm 2025."
 
 lang: "vi"
+sourceContentHash: "6cd84d5baa9c3ad8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

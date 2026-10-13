@@ -28,8 +28,9 @@ faq:
     a: "RFID vẫn cần phương tiện đi qua làn được đánh dấu với barie nâng lên sau khi đọc thành công. ANPR như JustGO PLUS nhận diện phương tiện qua camera đọc biển số, cho phép phương tiện đã đăng ký đi qua bất kỳ làn nào mà không cần bất kỳ tag vật lý nào — một bước nữa hướng đến hệ thống hoàn toàn không barie (MLFF)."
 
 lang: "vi"
+sourceContentHash: "c1392d940afe3b99"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

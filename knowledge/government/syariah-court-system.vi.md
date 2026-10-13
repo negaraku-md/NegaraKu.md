@@ -33,8 +33,9 @@ faq:
     a: "Cách sắp xếp ba cấp — Tòa Sơ thẩm Syariah, Tòa Thượng thẩm Syariah và Tòa Phúc thẩm Syariah — là phổ biến, nhưng mỗi bang thành lập nó thông qua sắc lệnh riêng của bang mình, trong khi các Lãnh thổ Liên bang được điều chỉnh bởi Act 505. Giới hạn thẩm quyền dân sự (mal) về mặt giá trị tiền được quy định bởi sắc lệnh hoặc đạo luật tương ứng và có thể khác nhau giữa các bang."
 
 lang: "vi"
+sourceContentHash: "8fac45bc244e70ad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Chúng được nộp cho Ủy ban Công ty Malaysia (SSM) qua Malaysian Business Reporting System (MBRS), hệ thống này yêu cầu báo cáo tài chính ở định dạng XBRL. MBRS hỗ trợ cả khung MFRS và MPERS và cung cấp cột báo cáo hợp nhất và riêng."
 
 lang: "vi"
+sourceContentHash: "582764d653c4df0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

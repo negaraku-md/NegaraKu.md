@@ -38,10 +38,11 @@ faq:
     a: "في 2024، أسهمت بتروناس بـ RM72.4 مليار في صورة توزيعات أرباح وضرائب ومدفوعات نقدية والتزامات أخرى، بما في ذلك توزيع أرباح قدره RM32.0 مليار. وهذا فوق الضرائب التي يدفعها المتعاقِدون وشركات الخدمات الأخرى في القطاع."
 
 lang: "ar"
+sourceContentHash: "7404112e163ed546"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

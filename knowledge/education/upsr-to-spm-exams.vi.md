@@ -21,8 +21,9 @@ verificationNeeded:
   - "Chi tiết đầy đủ về hình thức và các môn học của Ma trận Học tập Lớp 3 (bắt đầu 2027) chưa được xác nhận chi tiết trên trang chính thức của Hội đồng Khảo thí vào lúc soạn bản nháp này; chỉ lịch Năm 4 2026 (4 môn cốt lõi) được xác nhận. Hãy kiểm tra lại tại lp.moe.gov.my khi bản dành cho Lớp 3 được công bố."
   - "Việc Hội đồng Tư vấn Giáo dục Quốc gia (MPPK) đã công bố báo cáo đầy đủ về rà soát UPSR/PT3 lên Nội các hay chưa không thể xác minh trên nguồn chính thức vào lúc soạn bản nháp này; phát biểu của bộ trưởng vào tháng 1 năm 2026 được lấy làm lập trường mới nhất hiện có."
 lang: "vi"
+sourceContentHash: "4ac5d1a1458b81d6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

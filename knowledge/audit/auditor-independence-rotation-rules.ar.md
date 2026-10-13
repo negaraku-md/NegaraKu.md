@@ -37,10 +37,11 @@ faq:
     a: "لا تنطبق المدة الثابتة البالغة سبع سنوات وفترات الانقطاع الخاصة بكل دور إلا على كيانات المصلحة العامة. أما بالنسبة لكيان ليس من كيانات المصلحة العامة، فما زالت R540.4 تُلزِم الشركة بتدوير الفرد خارج الارتباط حيثما لا يمكن معالجة تهديدات الألفة أو المصلحة الذاتية إلا بذلك، لمدة كافية — لكن لا يُحدَّد عدد سنوات ثابت."
 
 lang: "ar"
+sourceContentHash: "6264fc7fd0a2fe3d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

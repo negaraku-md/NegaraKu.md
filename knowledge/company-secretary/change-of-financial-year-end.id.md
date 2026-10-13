@@ -30,8 +30,9 @@ faq:
     a: "Ya. Jangka 6 bulan untuk pengedaran (perusahaan swasta, s.258) dan 30 hari untuk penyampaian kepada SSM (s.259) dihitung ulang sejak tanggal akhir tahun buku yang baru."
 
 lang: "id"
+sourceContentHash: "518df847514632f2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

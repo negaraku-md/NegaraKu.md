@@ -47,8 +47,9 @@ verificationNeeded:
   - "Statistik pemrosesan atau nilai dagang DFTZ apa pun setelah 2020. Tidak ada yang ada dari sumber resmi, dan setelah delisting MAHB pada 25 Februari 2025 tidak ada yang dapat diperoleh — ini secara struktural tidak dapat diperoleh, bukan sekadar tidak ditemukan."
 
 lang: "id"
+sourceContentHash: "b20fb73bf5494f07"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

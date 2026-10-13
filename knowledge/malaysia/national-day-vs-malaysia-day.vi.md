@@ -29,8 +29,9 @@ faq:
     a: "Ngày Malaysia chỉ trở thành ngày nghỉ lễ liên bang trên toàn quốc vài thập niên sau khi liên bang được hình thành. Trước đó, ngày 16 tháng 9 chỉ là ngày nghỉ ở một số vùng lãnh thổ và không được kỷ niệm đồng nhất ở cấp quốc gia, mặc dù nó đã là ngày hình thành liên bang kể từ năm 1963."
 
 lang: "vi"
+sourceContentHash: "25064de19f113798"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

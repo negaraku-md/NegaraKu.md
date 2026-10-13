@@ -31,8 +31,9 @@ faq:
     a: "Không. Thuế tiêu thụ đặc biệt cho đồ uống có đường nhắm vào đồ uống sẵn-để-uống theo HS 2202 chứa hơn 5 gram đường trên mỗi 100ml, đồ uống làm từ sữa vượt quá 7 gram đường trên mỗi 100ml, và nước ép trái cây hoặc rau theo HS 2009 vượt quá 12 gram đường trên mỗi 100ml. Ngưỡng khác nhau tùy theo loại."
 
 lang: "vi"
+sourceContentHash: "84d4e95aaaa26789"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

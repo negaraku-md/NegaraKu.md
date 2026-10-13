@@ -36,8 +36,9 @@ verificationNeeded:
   - "Cần xác nhận cách các từ không có thẩm quyền hợp pháp trong s.12(1)(f) của Passports Act 1966 được diễn giải khi một người lao động đồng ý để người sử dụng lao động giữ hộ — không tìm thấy án lệ hay hướng dẫn của AGC nào về điểm này"
 
 lang: "vi"
+sourceContentHash: "b59bcb20c9aa24c2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

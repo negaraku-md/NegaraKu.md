@@ -36,12 +36,13 @@ faq:
     a: "كلاهما موجود. فأماكن مثل آناه رايس قرب كوتشينغ هي مجتمعات بيوت طويلة للبيداويه لا تزال مأهولة بأُسَر مقيمة، بينما قرية ساراواك الثقافية (Sarawak Cultural Village) قرب سانتوبونغ متحف حي شُيّد خصيصًا لهذا الغرض. ويُفضَّل ترتيب زيارة بيت طويل مأهول مسبقًا، وغالبًا عبر مرشد يستطيع تفسير الزيارة باحترام."
 
 lang: "ar"
+sourceContentHash: "484f5ee1df5a2a08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

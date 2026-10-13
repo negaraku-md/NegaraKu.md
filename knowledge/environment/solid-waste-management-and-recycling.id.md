@@ -31,8 +31,9 @@ faq:
     a: "Sebagian besar ke tempat pembuangan akhir. Malaysia mengoperasikan 135 tempat pembuangan akhir — 114 tempat pembuangan terbuka dan 22 tempat pembuangan akhir sanitasi — dan tempat pembuangan akhir tetap menjadi metode pembuangan dominan negara."
 
 lang: "id"
+sourceContentHash: "1d664666863d04f5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

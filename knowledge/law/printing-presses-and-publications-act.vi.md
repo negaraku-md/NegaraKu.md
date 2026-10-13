@@ -29,8 +29,9 @@ faq:
     a: "Điều 7 cho phép Bộ trưởng, qua một lệnh trong Công báo, cấm một ấn phẩm bị coi là gây hại hoặc có khả năng gây hại cho trật tự công cộng, an ninh, đạo đức, quan hệ với nước ngoài hoặc lợi ích quốc gia."
 
 lang: "vi"
+sourceContentHash: "614accf2d6e4feba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

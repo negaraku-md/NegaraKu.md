@@ -63,8 +63,9 @@ obligations:
     consequence: "Strike-off under Subdivision 1 of Division 4 of Part IV"
 
 lang: "id"
+sourceContentHash: "d3a6d48bf6f723f4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

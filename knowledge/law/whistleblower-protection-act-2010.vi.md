@@ -32,8 +32,9 @@ faq:
     a: "Điều 2 định nghĩa hành vi sai trái là bất kỳ hành vi nào mà, nếu được chứng minh, cấu thành một vi phạm kỷ luật hoặc một tội hình sự. Một 'vi phạm kỷ luật' được định nghĩa riêng để bao trùm các vi phạm kỷ luật trong một cơ quan công hoặc tư theo một luật, quy tắc ứng xử, quy tắc đạo đức, thông tư hoặc hợp đồng lao động, do đó thuật ngữ này bao quát một phạm vi rộng các hành vi sai trái, từ tham nhũng đến sai phạm tại nơi làm việc."
 
 lang: "vi"
+sourceContentHash: "b93871feeca0ccf6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

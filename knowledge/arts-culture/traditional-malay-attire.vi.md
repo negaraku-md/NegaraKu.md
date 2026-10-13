@@ -35,8 +35,9 @@ faq:
     a: "Không. Baju kurung là áo dài rộng và che dáng người, mặc với kain. Còn kebaya là áo xẻ trước ôm dáng người hơn, cài bằng kerongsang (trâm) hoặc cúc, và mặc kèm sarong. Kebaya thường ôm sát hơn baju kurung."
 
 lang: "vi"
+sourceContentHash: "f68d5254e084ffde"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

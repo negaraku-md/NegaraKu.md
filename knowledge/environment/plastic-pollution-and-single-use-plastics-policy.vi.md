@@ -29,8 +29,9 @@ faq:
     a: "Trong đó có tỷ lệ tái chế bao bì nhựa 25% vào năm 2025, tỷ lệ thu-gom-để-tái-chế (CFR) trung bình 76% vào năm 2030, và hàm lượng tái chế trung bình 15% vào năm 2030. Mục tiêu tỷ lệ tái chế 100% được nhắm đến vào năm 2050."
 
 lang: "vi"
+sourceContentHash: "a24e4c1da4f3ae42"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

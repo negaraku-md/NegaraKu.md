@@ -31,10 +31,11 @@ faq:
     a: "تقدّر وزارة المالية التوفير بنحو RM5 مليار سنويًا منذ بدء ترشيد الديزل في 10 يونيو 2024."
 
 lang: "ar"
+sourceContentHash: "fb230f3e8cc5eada"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

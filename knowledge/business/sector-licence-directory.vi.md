@@ -31,8 +31,9 @@ verificationNeeded:
   - "Các tên tiếng Anh ngắn được JAKIM và Registrar of Societies dùng — cả hai đều không xuất hiện trên trang của chính cơ quan"
 
 lang: "vi"
+sourceContentHash: "de6126fff54d2ff3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,10 +29,11 @@ faq:
     a: "إن لم تقدّم الإدارة الإقرارات المطلوبة في الفقرتين 10 و11، وجب على المدقّق أن يمتنع عن إبداء الرأي في البيانات المالية وفقًا للمعيار ISA 705 (الفقرة 20)."
 
 lang: "ar"
+sourceContentHash: "b4dce9895318e6f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

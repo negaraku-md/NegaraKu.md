@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa pun — wisatawan, pemberi kerja, pelajar, atau pembaca yang tertarik pada federalisme Malaysia — yang menginginkan penjelasan yang mudah dan deskriptif tentang perlindungan konstitusional yang dimiliki oleh Sabah dan Sarawak, dan di mana masing-masing termaktub, tanpa memihak dalam perdebatan tentang cara ia dilaksanakan."
 
 lang: "id"
+sourceContentHash: "468d0412b31978aa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -28,8 +28,9 @@ verificationNeeded:
   - "Tarif adalah plafon perjanjian umum yang diterbitkan oleh LHDN, bukan tarif pasal demi pasal. Beberapa perjanjian mengurangi bunga menjadi nol bagi pembayaran kepada pemerintah, bank sentral atau institusi yang disetujui; periksa pasal yang bersangkutan sebelum menggunakan tarif jadwal"
 
 lang: "id"
+sourceContentHash: "2eae865a4f192515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

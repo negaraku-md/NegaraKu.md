@@ -31,8 +31,9 @@ faq:
     a: "Hãy kiểm tra tình trạng giấy phép của công ty và nhân viên bảo vệ qua cổng tra cứu eSIMS của KDN trước khi ký hợp đồng. Một công ty hợp pháp phải có Giấy phép Công ty Tư nhân còn hiệu lực."
 
 lang: "vi"
+sourceContentHash: "7778a33b10205faf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

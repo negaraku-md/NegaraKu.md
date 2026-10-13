@@ -29,10 +29,11 @@ faq:
     a: "يمكن لشركة محدودة بالضمان جديدة أن تتقدّم عند التأسيس، لكن عليها جمع صندوق نقدي قدره RM1 مليون خلال ستة أشهر. أما القائمة فيجب أن تكون قد تأسّست منذ عامين على الأقل وأن تُظهر RM1 مليون نقدًا في البنك في أحدث بياناتها المالية."
 
 lang: "ar"
+sourceContentHash: "9a66cfe119dbc531"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

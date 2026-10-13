@@ -47,8 +47,9 @@ verificationNeeded:
   - "Tidak ada sewa industri atau kantor median resmi menurut negara bagian yang ada. Verifikasi apakah JPPH menerbitkan seri sewa apa pun yang tidak terlihat dalam Property Stock Report atau Property Market Reports regional"
 
 lang: "id"
+sourceContentHash: "7197254874c986ae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

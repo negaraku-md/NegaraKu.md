@@ -40,8 +40,9 @@ verificationNeeded:
   - "Apakah operator platform diwajibkan menerbitkan e-Invois self-billed bagi pembayaran kepada pekerja gig individu, dan pada fase mana, harus diverifikasi terhadap e-Invoice Specific Guideline terkini"
 
 lang: "id"
+sourceContentHash: "4902766a1bf0ff6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

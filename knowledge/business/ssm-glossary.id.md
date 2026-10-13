@@ -27,8 +27,9 @@ verificationNeeded:
   - "Verifikasi cakupan terkini agensi yang tergabung dalam BLESS dan MalaysiaBiz, yang diperluas secara berkala"
 
 lang: "id"
+sourceContentHash: "d297b49cc580cf19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

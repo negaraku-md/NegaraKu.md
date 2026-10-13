@@ -29,12 +29,13 @@ faq:
     a: "تمنح المادة 38(6) مجلس الحكام سلطة عزل الأغونغ. ووفقًا للشروح القانونية، لم تُستخدم هذه السلطة قط طوال تاريخ البلاد."
 
 lang: "ar"
+sourceContentHash: "f2d2c6ec105b4198"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

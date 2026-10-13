@@ -31,8 +31,9 @@ faq:
     a: "Tidak. Pekebun kecil dikecualikan, dan Perintah 2023 hanya berlaku bagi kepemilikan sawit tidak kurang dari 40.46 hektar (100 ekar); kepemilikan di kawasan permukiman berkelompok juga dikecualikan."
 
 lang: "id"
+sourceContentHash: "90a5c1941df77b25"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

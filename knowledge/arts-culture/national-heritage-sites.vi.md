@@ -31,8 +31,9 @@ faq:
     a: "Chủ sở hữu có thể tiếp tục sở hữu tài sản đó (điều 69), nhưng việc chuyển quyền sở hữu Di sản Quốc gia chỉ có thể diễn ra qua thừa kế hoặc bán với sự chấp thuận trước của Ủy viên, và Ủy viên phải được ưu tiên mua (điều 70)."
 
 lang: "vi"
+sourceContentHash: "ac4e452cf7f76ecc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

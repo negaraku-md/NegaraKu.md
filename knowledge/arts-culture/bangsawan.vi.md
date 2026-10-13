@@ -34,8 +34,9 @@ faq:
     a: "Nó suy tàn vào giữa thế kỷ 20 do sự cạnh tranh từ radio, điện ảnh và truyền hình. Đến cuối những năm 1930 nhiều rạp bangsawan được chuyển thành rạp chiếu bóng, và sau chiến tranh ngành này mất nguồn tài trợ."
 
 lang: "vi"
+sourceContentHash: "9acb0bf06bc5782c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

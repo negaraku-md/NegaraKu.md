@@ -33,8 +33,9 @@ faq:
     a: "Có. Kể từ lần triển khai đầu tiên đến Congo vào năm 1960, Malaysia đã đóng góp hơn 29,000 nhân viên gìn giữ hòa bình trong hơn 38 hoạt động gìn giữ hòa bình theo Liên Hợp Quốc. Tính đến ngày 1 tháng 7 năm 2026, Malaysia đóng góp 516 nhân viên cho UNIFIL ở Lebanon (giảm từ 830 nhân viên vào tháng 8 năm 2025)."
 
 lang: "vi"
+sourceContentHash: "9173bdd2a2224732"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

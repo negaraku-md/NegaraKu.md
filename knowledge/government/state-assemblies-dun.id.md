@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang perlu memahami secara deskriptif bagaimana suatu Dewan Undangan Negeri dibentuk menurut Konstitusi, berapa lama ia bertahan, dan bagaimana suatu rancangan undang-undang negara bagian melaluinya untuk menjadi undang-undang."
 
 lang: "id"
+sourceContentHash: "2a25e82c7f7bc759"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

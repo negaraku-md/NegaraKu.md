@@ -25,8 +25,9 @@ faq:
   - q: "Apa perbedaan antara FSA 2013 dan IFSA 2013?"
     a: "FSA (Act 758) mengatur institusi dan pasar keuangan konvensional, sementara Islamic Financial Services Act 2013 (IFSA) adalah padanannya yang patuh Syariah. Keduanya mulai berlaku pada 30 Juni 2013; undang-undang konvensional (seperti Banking and Financial Institutions Act 1989 dan Insurance Act 1996) dicabut di bawah FSA, sementara Islamic Banking Act 1983 dan Takaful Act 1984 dicabut di bawah IFSA."
 lang: "id"
+sourceContentHash: "fd80ff13fe1dede7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

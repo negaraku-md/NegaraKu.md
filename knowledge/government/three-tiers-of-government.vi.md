@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố xác định cấp chính quyền nào cần tiếp cận cho một vấn đề nhất định tại Malaysia, hoặc muốn hiểu vì sao họ có thể bỏ phiếu cho một Nghị sĩ và một nghị viên bang nhưng không cho một ủy viên hội đồng địa phương."
 
 lang: "vi"
+sourceContentHash: "c6bdf9ccfb5d174a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

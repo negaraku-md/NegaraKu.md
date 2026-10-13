@@ -29,10 +29,11 @@ verificationNeeded:
   - "تأكّد من الحالة الراهنة لخصم استثمار BioNexus وحوافز حالة Malaysia Digital، وكلاهما تتحقّق منه جهة غير MIDA ولا يمكن تتبّعهما بالكامل إلى أداة مُوَرَّدة واحدة"
 
 lang: "ar"
+sourceContentHash: "d22536bf1bfa9c08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

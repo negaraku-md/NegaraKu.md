@@ -36,8 +36,9 @@ faq:
     a: "PVIP do Cục Di trú (Nội vụ) vận hành chứ không phải MOTAC, bổ sung quyền làm việc và học tập rõ ràng, cho phép mua bất động sản thương mại và công nghiệp (không chỉ nhà ở), và không áp đặt lưu trú tối thiểu. Đơn đi qua các đại lý do Cục Di trú chỉ định chứ không phải các đại lý MM2H."
 
 lang: "vi"
+sourceContentHash: "885b7aabccb192f1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

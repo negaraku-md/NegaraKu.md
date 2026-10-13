@@ -25,8 +25,9 @@ faq:
   - q: "Ai phải đăng ký với JPDP?"
     a: "Các bên sử dụng dữ liệu (nay là 'bên kiểm soát dữ liệu') thuộc 13 nhóm được quy định theo Lệnh về Nhóm Bên sử dụng Dữ liệu (Personal Data Protection (Class of Data Users) Order 2013) phải đăng ký theo điều 14 của PDPA và có giấy chứng nhận đăng ký hợp lệ. Việc đăng ký được thực hiện trực tuyến qua cổng SPDP tại daftar.pdp.gov.my."
 lang: "vi"
+sourceContentHash: "a86fa7aea38102ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

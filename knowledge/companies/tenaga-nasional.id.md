@@ -30,8 +30,9 @@ faq:
     a: "TNB memiliki dan menjalankan jaringan grid nasional yang perlu ditingkatkan untuk menyerap energi terbarukan, selaras dengan sasaran Peta Peralihan Tenaga Negara (NETR)."
 
 lang: "id"
+sourceContentHash: "12e743d05ab159ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

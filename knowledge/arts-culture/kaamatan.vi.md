@@ -33,8 +33,9 @@ faq:
     a: "Magavau là một nghi lễ tạ ơn để tôn vinh và 'gọi về nhà' thần lúa, Bambaazon, sau vụ gặt. Nó theo truyền thống do một bobohizan (còn viết là bobolian) chủ trì, một nữ tư tế đọc các bài tụng nghi lễ. Đó là một trong những thành tố nghi lễ lâu đời hơn của Kaamatan."
 
 lang: "vi"
+sourceContentHash: "77931677eb9c36e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -30,8 +30,9 @@ faq:
     a: "FIFA viện dẫn Điều 22 của Bộ Quy tắc Kỷ luật FIFA liên quan đến việc giả mạo giấy tờ về tư cách và nhập tịch của cầu thủ."
 
 lang: "vi"
+sourceContentHash: "1434e805293f8f32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

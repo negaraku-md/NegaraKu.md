@@ -30,8 +30,9 @@ faq:
     a: "Nó có hiệu lực vào ngày 31 tháng 8 năm 1957 với tư cách là Hiến pháp Liên bang Malaya, và sau đó được mở rộng và áp dụng cho Liên bang Malaysia hình thành vào ngày 16 tháng 9 năm 1963."
 
 lang: "vi"
+sourceContentHash: "b3ff63755f278553"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

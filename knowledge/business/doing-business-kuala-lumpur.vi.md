@@ -41,8 +41,9 @@ verificationNeeded:
   - "Tỷ trọng của Kuala Lumpur trong GDP quốc gia dưới dạng một tỷ lệ phần trăm được công bố — DOSM công bố giá trị ringgit và thứ hạng nhưng không phải tỷ trọng của KL một cách trực tiếp"
 
 lang: "vi"
+sourceContentHash: "28302eb055d03d4e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

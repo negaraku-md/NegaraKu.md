@@ -18,8 +18,9 @@ keyTakeaways:
   - "Nó được các cơ quan cố vấn của UNESCO mô tả là ngọn núi cao nhất giữa dãy Himalaya và New Guinea, và là nơi cư trú của ước tính 5,000-6,000 loài thực vật có mạch bao gồm khoảng 1,000 loài lan"
 appliesTo: "Độc giả muốn có độ cao đã được kiểm chứng và tình trạng khu vực được bảo vệ của Núi Kinabalu, cùng một lời giải thích giản dị vì sao một ngọn núi granite ở Sabah lại trẻ đến vậy về mặt địa chất."
 lang: "vi"
+sourceContentHash: "9898433b2f4e9aa1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Orang tua, wali, atau siapa saja yang bertanggung jawab mendaftarkan kelahiran anak yang lahir di Malaysia, termasuk kasus pendaftaran terlambat dan permohonan ulang akta kelahiran."
 
 lang: "id"
+sourceContentHash: "02c6a3d01833544f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

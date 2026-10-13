@@ -39,8 +39,9 @@ verificationNeeded:
   - "Trademarks (Reduction of Fee) Regulations 2025 [P.U. (A) 315/2025] mengurangi biaya pengajuan setiap kelas sebesar RM300 hanya untuk pengajuan di loket oleh pemohon yang memenuhi kriteria dalam arahan praktik Pendaftar, antara 1 September dan 31 Desember 2025 — verifikasi apakah ada instrumen pengganti yang telah diwartakan"
 
 lang: "id"
+sourceContentHash: "2b920571a13b0794"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

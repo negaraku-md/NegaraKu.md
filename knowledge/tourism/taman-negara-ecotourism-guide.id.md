@@ -37,8 +37,9 @@ faq:
     a: "Secara unik, taman ini diatur oleh tiga enakmen negara bagian era kolonial — Enakmen Taman Negara (Pahang) 1939, (Kelantan) 1938 dan (Terengganu) 1939 — dan bukan Akta Taman Negara 1980 federal. Ini karena tanah dan kehutanan adalah urusan negara bagian di bawah Konstitusi Federal Malaysia, jadi Akta federal itu tidak berlaku untuk ketiga negara bagian tersebut."
 
 lang: "id"
+sourceContentHash: "7e8c332e4dfbfd08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

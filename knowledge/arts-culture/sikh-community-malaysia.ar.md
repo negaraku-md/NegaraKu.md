@@ -34,10 +34,11 @@ faq:
     a: "لا تزال البنجابية حيّة لكنها تمرّ بتحوّل لغوي: وجد بحث أكاديمي عن جالية السيخ في كوتا كينابالو أن غالبية الأُسر تستخدم الإنجليزية في المنزل الآن. وللحفاظ على اللغة، تُدير الغوردوارات دروسًا للبنجابية — مثل مركز تعليم البنجابية في غوردوارا صاحب سيرمبان — تُعلّم خطّ الغورموخي للأطفال."
 
 lang: "ar"
+sourceContentHash: "9ed6f6181f75f4d2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

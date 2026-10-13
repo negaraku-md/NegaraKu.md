@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai cần các dữ kiện cơ bản của Malaysia — dân số, diện tích, thủ đô, đồng tiền, ngôn ngữ, GDP — với mỗi con số được quy về bản công bố chính thức cụ thể công bố nó, chứ không phải một bản tóm tắt không nguồn."
 
 lang: "vi"
+sourceContentHash: "dc264630ca2e722e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

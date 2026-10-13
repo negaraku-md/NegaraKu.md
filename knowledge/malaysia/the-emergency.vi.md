@@ -30,8 +30,9 @@ faq:
     a: "Các nguồn ghi hai tiến trình chạy song song chứ không phải cái này gây ra cái kia. Độc lập được thương lượng và đạt được vào ngày 31 tháng 8 năm 1957 khi Tình trạng Khẩn cấp vẫn còn hiệu lực, và Tình trạng Khẩn cấp tiếp tục thêm gần ba năm nữa dưới một chính phủ Malaya độc lập."
 
 lang: "vi"
+sourceContentHash: "05c196a1a00207fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -28,10 +28,11 @@ faq:
     a: "ما زال RFID يتطلب مرور المركبة عبر مسار محدَّد بحاجز يرتفع بعد نجاح القراءة. أما ANPR مثل JustGO PLUS فيتعرف على المركبات عبر كاميرا تقرأ لوحة الأرقام، ما يتيح للمركبات المسجَّلة المرور عبر أي مسار دون أي بطاقة مادية على الإطلاق — خطوة أخرى نحو نظام بلا حاجز بالكامل (MLFF)."
 
 lang: "ar"
+sourceContentHash: "c1392d940afe3b99"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

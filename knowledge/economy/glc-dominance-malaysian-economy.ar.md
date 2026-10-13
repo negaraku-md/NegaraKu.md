@@ -32,10 +32,11 @@ faq:
     a: "نعم. حددت مبادرة PERKUKUH التي أُطلقت في عام 2021 عشرين مبادرة تهدف، من بين أمور أخرى، إلى منح كل شركة استثمار حكومية (GLIC) ولاية أوضح، وزيادة مشاركة القطاع الخاص («الجذب إلى الداخل»)، وتبسيط دور الحكومة في عالم الأعمال، مع توجيه مزيد من الاستثمار نحو المجالات المحفِّزة والتنموية."
 
 lang: "ar"
+sourceContentHash: "72a029d7e3ea589d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

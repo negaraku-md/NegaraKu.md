@@ -29,8 +29,9 @@ faq:
     a: "Không. Thỏa thuận cam kết cả hai bên tiến tới một điều ước về quốc phòng đối ngoại với một hội đồng quốc phòng chung, về hợp tác kinh tế, và về các bảo đảm song phương giữa nhà nước với nhà nước đối với các thỏa thuận về nước ngày 1 tháng 9 năm 1961 và ngày 29 tháng 9 năm 1962 giữa Hội đồng Thành phố Singapore và Chính quyền Bang Johor. Các kháng cáo từ Tòa Thượng thẩm của Singapore cũng tiếp tục được đưa lên Tòa án Liên bang của Malaysia như một dàn xếp tạm thời cho đến khi Singapore ban hành luật khác."
 
 lang: "vi"
+sourceContentHash: "0de005f939d65ebf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

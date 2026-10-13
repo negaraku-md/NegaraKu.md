@@ -34,8 +34,9 @@ faq:
     a: "Ya, sebagiannya, di bawah program Bahasa Ibunda Murid (Pupil's Own Language, POL) Kementerian Pendidikan, biasanya sebagai mata pelajaran pilihan. Kadazandusun telah diajarkan di sekolah pemerintah Sabah sejak proyek percontohan yang dimulai pada 1997, dan Iban diajarkan di sekolah-sekolah Sarawak. Ketersediaannya bergantung pada permintaan dan pemenuhan ukuran kelas minimum yang ditetapkan oleh kebijakan."
 
 lang: "id"
+sourceContentHash: "641d60c83d47ef35"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

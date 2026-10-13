@@ -29,10 +29,11 @@ faq:
     a: "لا. فالمسجّل لا يفرض أي حدّ زمني — فالمالك الشرعي يجوز له المطالبة في أي وقت، ويمكن أن يتم الدفع إما من الحساب الاستئماني الموحّد أو من حساب الإيرادات."
 
 lang: "ar"
+sourceContentHash: "b0fa973557593199"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

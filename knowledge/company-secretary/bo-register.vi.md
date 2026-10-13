@@ -58,8 +58,9 @@ obligations:
     consequence: "Phạt lên tới RM20,000 và RM500 mỗi ngày đối với một vi phạm tiếp diễn"
 
 lang: "vi"
+sourceContentHash: "8e7f7650add64b42"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

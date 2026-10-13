@@ -20,8 +20,9 @@ keyTakeaways:
   - "Tỷ giá cố định USD1=RM3.80 được duy trì trong gần bảy năm và chấm dứt vào ngày 21 tháng 7 năm 2005 khi Bank Negara Malaysia áp dụng cơ chế thả nổi có quản lý"
 appliesTo: "Độc giả muốn có một tường thuật có nguồn, có thể truy vết về phản ứng kinh tế năm 1998 của Malaysia (kiểm soát vốn và tỷ giá cố định của đồng ringgit) và các sự kiện chính trị của năm đó, được trình bày trung lập mà không tán thành bất kỳ cách diễn giải nào."
 lang: "vi"
+sourceContentHash: "3f82c848946b8ea4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

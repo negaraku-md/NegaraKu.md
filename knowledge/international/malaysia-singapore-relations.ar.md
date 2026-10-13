@@ -36,10 +36,11 @@ faq:
     a: "في 23 مايو 2008، قضت محكمة العدل الدولية بأن بولاو باتو بوتيه (بيدرا برانكا) لسنغافورة، وميدل روكس لماليزيا، وساوث ليدج للدولة التي يقع في مياهها الإقليمية."
 
 lang: "ar"
+sourceContentHash: "47c25fa8a007fc27"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

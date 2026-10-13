@@ -32,10 +32,11 @@ faq:
     a: "نعم. البرامج التي يقدّمها أي مزوّد للتعليم العالي يعمل في ماليزيا، بما في ذلك الفروع الأجنبية، تخضع لضمان الجودة بموجب الإطار MQF وتظهر في سجل MQR. وتحمل بعض الجامعات العريقة صفة الاعتماد الذاتي، التي تخوّلها اعتماد برامجها بنفسها وفق الإطار MQF وتسجيل تلك البرامج في سجل MQR."
 
 lang: "ar"
+sourceContentHash: "ce3f16b64b60d59b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

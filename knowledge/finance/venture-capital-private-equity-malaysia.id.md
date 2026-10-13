@@ -33,8 +33,9 @@ faq:
     a: "Ia berbeda-beda menurut tahap. Putaran ventura tahap awal biasanya dalam kisaran beberapa juta ringgit saja; transaksi pertumbuhan dan ekuitas swasta jauh lebih besar. Pada tingkat industri, dana VC dan PE yang dikomitmenkan di bawah pengelolaan di Malaysia berjumlah sekitar RM24.7 miliar pada akhir 2024 — sekitar RM18 miliar dalam ekuitas swasta dan RM6.7 miliar dalam modal ventura."
 
 lang: "id"
+sourceContentHash: "fd613f83fbe57e2f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

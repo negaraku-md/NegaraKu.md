@@ -31,9 +31,10 @@ faq:
     a: "نعم. أضاف قاموس أوكسفورد الإنجليزي (Oxford English Dictionary) عدداً من الكلمات الإنجليزية الماليزية عبر تحديثات متتالية، منها lepak وshiok وteh tarik عام 2016، وعدة مصطلحات مانغليشية وأطعمة ماليزية منها mamak وkopitiam وatas لاحقاً في العام نفسه، وكلمات مثل boleh وagak-agak وwayang في تحديث لاحق — اعترافاً باستخدام ماليزي راسخ لا ابتكاراً لإنجليزية جديدة."
 
 lang: "ar"
+sourceContentHash: "8f82ee70d6e9258e"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

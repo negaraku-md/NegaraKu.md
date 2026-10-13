@@ -45,10 +45,11 @@ obligations:
     consequence: "غرامة تصل إلى ثلاثة أمثال الضريبة بموجب s.29(3)، وزيادة 10% على المُقتني بموجب s.21B(2)"
 
 lang: "ar"
+sourceContentHash: "00945edeadfe77b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

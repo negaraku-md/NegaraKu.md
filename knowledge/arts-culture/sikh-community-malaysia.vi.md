@@ -34,8 +34,9 @@ faq:
     a: "Tiếng Punjabi vẫn còn sống nhưng đang trải qua sự dịch chuyển ngôn ngữ: một nghiên cứu học thuật về cộng đồng Sikh ở Kota Kinabalu cho thấy đa số các gia đình nay dùng tiếng Anh ở nhà. Để gìn giữ ngôn ngữ đó, các gurdwara vận hành các lớp Punjabi — ví dụ Trung tâm Giáo dục Punjabi tại Gurdwara Sahib Seremban — dạy chữ Gurmukhi cho trẻ em."
 
 lang: "vi"
+sourceContentHash: "9ed6f6181f75f4d2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

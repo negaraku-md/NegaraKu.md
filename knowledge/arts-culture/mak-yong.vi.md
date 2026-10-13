@@ -33,8 +33,9 @@ faq:
     a: "Các buổi trình diễn công cộng ở Kelantan bị hạn chế theo sắc lệnh kiểm soát giải trí của bang được thông qua năm 1998. Vào ngày 25 tháng 9 năm 2019, Phó Bộ trưởng Chấp chính (Timbalan Menteri Besar) Kelantan Datuk Mohd Amar Nik Abdullah tuyên bố rằng các buổi trình diễn được phép tùy thuộc vào các điều kiện tuân thủ sharia do chính quyền bang đặt ra, bao gồm không có yếu tố thờ cúng và bắt buộc che aurat, với sự giám sát liên tục của chính quyền bang và cơ quan tôn giáo của bang."
 
 lang: "vi"
+sourceContentHash: "fddcf6b015e88b34"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

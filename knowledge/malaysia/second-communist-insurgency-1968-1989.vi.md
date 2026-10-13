@@ -30,8 +30,9 @@ faq:
     a: "Theo Cục Lưu trữ Quốc gia Malaysia, các hiệp định Hat Yai không đòi hỏi CPM đầu hàng. Đảng đồng ý chấm dứt hoạt động phiến quân, giải tán các đơn vị vũ trang của mình và tiêu hủy vũ khí, và các thành viên của đảng tuyên thệ trung thành với Yang di-Pertuan Agong."
 
 lang: "vi"
+sourceContentHash: "02bbbc636e171599"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

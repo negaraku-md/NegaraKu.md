@@ -38,8 +38,9 @@ faq:
     a: "Energy Exchange Malaysia (ENEGEM), được Bộ Chuyển đổi Năng lượng và Chuyển đổi Nước khởi động vào ngày 15 tháng 4 năm 2024, là nền tảng xuyên biên giới đầu tiên của Malaysia để bán điện tái tạo cho các nước ASEAN láng giềng. Cuộc đấu giá thí điểm của nó chào 100 MW năng lượng tái tạo cho Singapore."
 
 lang: "vi"
+sourceContentHash: "d6cf99b70fef6280"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

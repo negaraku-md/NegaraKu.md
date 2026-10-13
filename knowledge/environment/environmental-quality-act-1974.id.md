@@ -37,8 +37,9 @@ faq:
     a: "Terkadang. Pasal 45 mengizinkan Direktur Jenderal, dengan persetujuan tertulis Jaksa Penuntut, mengompaun pelanggaran yang telah ditetapkan Menteri sebagai dapat dikompaun, untuk jumlah tidak melebihi 50% dari denda maksimum. Tidak setiap pelanggaran dapat dikompaun, dan pelanggaran penjara wajib yang paling serius lazimnya dituntut."
 
 lang: "id"
+sourceContentHash: "c5c03f44b4db2f68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

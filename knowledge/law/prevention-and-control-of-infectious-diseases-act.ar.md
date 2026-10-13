@@ -30,12 +30,13 @@ faq:
     a: "بالنسبة إلى الجرائم التي لا عقوبة محددة لها، تنص المادة 24 على السجن مدة تصل إلى سنتين أو الغرامة أو كلتيهما عن المخالفة الأولى. وتتيح المادة 25 التصالح بما لا يتجاوز RM1,000 بموجب النص الأصلي للقانون. وقد غدت هذه المعدلات موضوع تعديلات أقرّها مجلس النواب (Dewan Rakyat) في 2024."
 
 lang: "ar"
+sourceContentHash: "e9a7651147874f41"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

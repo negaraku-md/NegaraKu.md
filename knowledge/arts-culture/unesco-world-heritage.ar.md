@@ -30,9 +30,10 @@ faq:
     a: "نعم. يسجّل مركز التراث العالمي ثلاثة مواقع على القائمة المؤقتة لماليزيا: الحديقة الوطنية (Taman Negara) لشبه جزيرة ماليزيا، وسلسلة كوارتز غومباك سلانغور (Gombak Selangor Quartz Ridge)، ومُستعمرة سونغاي بولوه للمجذومين (Sungai Buloh Leprosarium). والإدراج المؤقت إعلان نيّة الترشيح، لا إدراج فعلي."
 
 lang: "ar"
+sourceContentHash: "2314ed1b6daf68a8"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -44,10 +44,11 @@ verificationNeeded:
   - "أي سياسة ترخيص مشروبات كحولية منشورة لولايات بعينها مثل كلنتان أو تيرينغانو — لم يُؤكَّد وجود أيٍّ منها، ويبدو أن التباين ينبع من السلطة التقديرية لمجلس الترخيص لا من سياسة منشورة"
 
 lang: "ar"
+sourceContentHash: "8621ae7bf33716e8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

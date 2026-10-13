@@ -32,10 +32,11 @@ faq:
     a: "أحيانًا. يفضّل MMC أن تكون الاستشارات الافتراضية للمتابعة بعد علاقة قائمة بين الطبيب والمريض، لكنه يسمح باستشارة أولى عبر الإنترنت، خاصة في الرعاية الأولية، إذا وثّق الطبيب الأسباب. ويُوجَّه الأطباء إلى توخّي الحذر في وصف الدواء لمرضى لم يفحصوهم شخصيًا، وإلى إحالتك حضوريًا حين لا يكفي الوسيط الإلكتروني لتقييمك بأمان."
 
 lang: "ar"
+sourceContentHash: "abe1f652bf3edc8b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

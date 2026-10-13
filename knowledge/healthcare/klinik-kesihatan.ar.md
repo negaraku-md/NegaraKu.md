@@ -26,10 +26,11 @@ verificationNeeded:
   - "الفروق التفصيلية بين عيادة الصحة (Klinik Kesihatan) وعيادة المجتمع (Klinik Komuniti) وعيادة القرية (Klinik Desa) من حيث الكوادر ونطاق العلاج الدقيق تعذّر التحقق منها بالكامل مقابل مصادر وزارة الصحة (KKM) الرسمية وقت الكتابة؛ وتكتفي هذه المقالة بالقول إن الثلاثة مرافق منفصلة."
 
 lang: "ar"
+sourceContentHash: "a763d53f069e94c3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

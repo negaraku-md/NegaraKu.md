@@ -29,10 +29,11 @@ verificationNeeded:
   - "استُبدل البند 12 (التنازل) بموجب Act 862، ولم تُستنسخ هنا شرائح التأمين على الحياة المنقّحة الخاصة به"
 
 lang: "ar"
+sourceContentHash: "bade86680d1436e5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

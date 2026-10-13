@@ -34,8 +34,9 @@ faq:
     a: "Không. Nó không áp dụng cho công chức, người học nghề (apprentice), người lao động thử việc, lao động nước ngoài, người giúp việc gia đình, lao động bán thời gian, học sinh làm việc tạm thời, và một số lao động theo hợp đồng thời hạn cố định nhất định."
 
 lang: "vi"
+sourceContentHash: "f2f42b17c86c3524"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

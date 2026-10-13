@@ -29,8 +29,9 @@ faq:
     a: "Chăm sóc giảm nhẹ tập trung vào sự thoải mái và kiểm soát triệu chứng cho bệnh nhân mắc bệnh giới hạn tuổi thọ, bất kể tuổi tác, kể cả trẻ em. Còn chăm sóc người cao tuổi là chăm sóc chung cho người già mà có thể không mắc bệnh giai đoạn cuối."
 
 lang: "vi"
+sourceContentHash: "ff994cbda9925abc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

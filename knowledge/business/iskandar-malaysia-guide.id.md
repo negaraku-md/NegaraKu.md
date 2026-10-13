@@ -44,8 +44,9 @@ verificationNeeded:
   - "Semua fakta korporat yang luas diulang mengenai Medini Iskandar Malaysia Sdn Bhd dan pemegang sahamnya berasal dari sumber tidak resmi dan tidak diverifikasi"
 
 lang: "id"
+sourceContentHash: "61c45f9103d24eb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

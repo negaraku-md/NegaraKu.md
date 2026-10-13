@@ -29,10 +29,11 @@ faq:
     a: "من بينهم المنخرطون في أنشطة عالية الخطورة، والمتبرعات الحوامل أو الحائضات أو المرضعات، ومن أقام في المملكة المتحدة (UK) 6 أشهر أو أكثر (تراكمياً) بين 1980 و1996، أو من أقام في دولة أوروبية 5 سنوات أو أكثر (تراكمياً) من 1980 حتى الآن — وكلا الأمرين بسبب خطر مرض كروتزفيلد-ياكوب المتغيّر (vCJD)."
 
 lang: "ar"
+sourceContentHash: "241fb7f03a5cd3d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

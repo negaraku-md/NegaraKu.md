@@ -31,8 +31,9 @@ faq:
     a: "Bởi vì nó là hậu duệ của cùng một bản dự thảo. Bộ luật Hình sự Khu định cư Eo biển được ban hành với tư cách Ordinance No. 4 of 1871 và có hiệu lực vào năm sau như một sự ban hành lại tại địa phương của Bộ luật Hình sự Ấn Độ, bản thân được Ủy ban Luật Ấn Độ đầu tiên dưới quyền Lord Macaulay soạn thảo. Bộ luật Hình sự của Liên bang các Bang Mã Lai năm 1936 theo cùng mô hình, và Act 574 là kẻ kế thừa trực tiếp của nó."
 
 lang: "vi"
+sourceContentHash: "7702e4996ec5b32e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

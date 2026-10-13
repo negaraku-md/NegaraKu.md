@@ -38,8 +38,9 @@ verificationNeeded:
   - "Pastikan perlakuan direktur eksekutif sebagai pekerja di bawah s.20 Industrial Relations Act 1967 — hal ini bergantung pada yurisprudensi, bukan pada teks jelas statuta"
 
 lang: "id"
+sourceContentHash: "aa6dbf128ae02aa9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

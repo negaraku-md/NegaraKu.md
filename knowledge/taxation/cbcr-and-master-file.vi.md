@@ -51,8 +51,9 @@ obligations:
     consequence: "Phạt RM20,000 đến RM100,000 hoặc phạt tù đến sáu tháng, hoặc cả hai, theo s.112A"
 
 lang: "vi"
+sourceContentHash: "003701199a9aca88"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

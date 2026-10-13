@@ -32,8 +32,9 @@ seoTitle: "Tiếng Tamil ở Malaysia: người nói, trường SJKT và địa 
 socialTitle: "Tiếng Tamil được nói, dạy học và bảo vệ ở Malaysia như thế nào"
 
 lang: "vi"
+sourceContentHash: "c45b4b0470d4ef3d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

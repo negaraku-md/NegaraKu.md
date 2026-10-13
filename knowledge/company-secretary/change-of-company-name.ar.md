@@ -30,10 +30,11 @@ faq:
     a: "مخالفة المادة 28 جريمة يُعاقَب عليها بغرامة لا تتجاوز RM50,000 (المادة 28(8)). كما يستتبع التقديم المتأخر بعد 30 يومًا رسم تقديم متأخر."
 
 lang: "ar"
+sourceContentHash: "fe0af342a9f2c24f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -37,10 +37,11 @@ faq:
     a: "تذكر اليونسكو سيلات هاريماو مثالًا على أسلوب يحاكي حركات النمر الجمالية في فن الهجوم والدفاع عن النفس. وهو واحد من أساليب كثيرة مسمّاة على حيوان أو عنصر من الطبيعة."
 
 lang: "ar"
+sourceContentHash: "38ee41b476215220"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

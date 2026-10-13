@@ -46,10 +46,11 @@ verificationNeeded:
   - "ما إذا كان أي حافز ضريبي خاص بالاستراتيجية الوطنية لأشباه الموصلات قد نُشر في الجريدة الرسمية — لم يُعثر على أي منها"
 
 lang: "ar"
+sourceContentHash: "4221d6f415c3fa4d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

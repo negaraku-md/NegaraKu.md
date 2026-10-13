@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Sinh viên, người dịch thuật, nhà báo và bất kỳ ai muốn hiểu sự khác biệt giữa thuật ngữ chính trị-xã hội 'rakyat' và thuật ngữ pháp lý 'warganegara' trong bối cảnh Malaysia."
 
 lang: "vi"
+sourceContentHash: "4db392730fe2ab93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

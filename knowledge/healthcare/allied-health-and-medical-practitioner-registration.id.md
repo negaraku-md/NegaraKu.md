@@ -29,8 +29,9 @@ faq:
     a: "Perawat didaftar oleh Lembaga Jururawat Malaysia di bawah Nurses Act 1950; apoteker oleh Lembaga Farmasi Malaysia di bawah Registration of Pharmacists Act 1951 (Act 371); dan profesi kesehatan bersekutu seperti fisioterapi oleh MAHPC di bawah Allied Health Professions Act 2016 (Act 774)."
 
 lang: "id"
+sourceContentHash: "3615da4185af8269"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

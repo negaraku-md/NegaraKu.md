@@ -53,8 +53,9 @@ obligations:
     consequence: "Denda 10%, naik menjadi 25% dan 40%, serta denda hingga RM50,000 atau tiga tahun penjara"
 
 lang: "id"
+sourceContentHash: "3746823d8f4516ea"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

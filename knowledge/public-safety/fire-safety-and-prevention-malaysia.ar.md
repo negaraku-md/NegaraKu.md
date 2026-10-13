@@ -32,10 +32,11 @@ faq:
     a: "المشكلات المتعلقة بالكهرباء من بين الأعلى في الحرائق السكنية — الأسلاك المعيبة، والمقابس المحمّلة فوق طاقتها، وأسلاك التمديد البالية. كما يُعدّ ترك الطهي دون مراقبة وتسرّب غاز LPG من المساهمين الرئيسيين."
 
 lang: "ar"
+sourceContentHash: "9ccf45c843ab8ebf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -20,8 +20,9 @@ keyTakeaways:
   - "Liên bang 1948 lập nên Hội đồng các Quốc vương, Hội đồng Lập pháp Liên bang và Hội đồng Hành pháp, nhưng quyền hành pháp vẫn ở Cao ủy người Anh"
 appliesTo: "Học sinh, các nhà nghiên cứu và độc giả phổ thông muốn hiểu nguồn gốc hiến pháp của Malaysia — đặc biệt là cách vị thế của các Quốc vương Mã Lai và các điều kiện quyền công dân bắt đầu được diễn đạt thành văn trước Merdeka."
 lang: "vi"
+sourceContentHash: "f8c770a08f5a6831"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

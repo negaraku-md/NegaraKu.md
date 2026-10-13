@@ -33,8 +33,9 @@ faq:
     a: "CCS Kasawari đang nhắm mục tiêu bơm CO2 đầu tiên sớm nhất là 2027 (được đưa lên sớm từ một kế hoạch trước đó là 2029-2030). Các dự án hydro xanh của Sarawak nay nhìn chung được kỳ vọng bắt đầu hoạt động vào khoảng 2029."
 
 lang: "vi"
+sourceContentHash: "cf65984906bccf4e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

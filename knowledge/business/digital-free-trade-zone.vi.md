@@ -47,8 +47,9 @@ verificationNeeded:
   - "Bất kỳ con số thông lượng hay giá trị thương mại nào của DFTZ sau năm 2020. Không có con số nào tồn tại từ một nguồn chính thức, và sau khi MAHB hủy niêm yết vào ngày 25 tháng 2 năm 2025 không thể có được con số nào — đây là điều không thể có được về mặt cấu trúc, không chỉ đơn thuần là chưa tìm thấy."
 
 lang: "vi"
+sourceContentHash: "b20fb73bf5494f07"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "Một nghiên cứu của chính phủ vào tháng 4 năm 1999 cho thấy có sự chồng chéo về chức năng, chồng chéo về thẩm quyền và việc sử dụng nguồn lực không kinh tế giữa các cơ quan. APMM được thành lập để hợp nhất hoạt động thực thi hàng hải dưới một cơ quan duy nhất."
 
 lang: "vi"
+sourceContentHash: "d5fb408e6cb3819a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

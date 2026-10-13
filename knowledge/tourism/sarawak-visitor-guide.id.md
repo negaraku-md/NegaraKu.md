@@ -36,8 +36,9 @@ faq:
     a: "Keduanya ada. Tempat seperti Annah Rais dekat Kuching adalah komunitas rumah panjang Bidayuh yang masih dihuni keluarga, sedangkan Kampung Budaya Sarawak dekat Santubong adalah museum hidup yang dibangun khusus. Mengunjungi rumah panjang yang masih dihuni paling baik diatur terlebih dahulu dan sering melalui pemandu wisata yang bisa menafsirkan kunjungan itu dengan hormat."
 
 lang: "id"
+sourceContentHash: "484f5ee1df5a2a08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

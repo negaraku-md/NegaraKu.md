@@ -28,10 +28,11 @@ verificationNeeded:
   - "تحقّق من التزام التسجيل في HRD Corp مقابل فئات الصناعة في First Schedule ضمن P.U.(A) 84/2021 قبل افتراض سريان الرسم"
 
 lang: "ar"
+sourceContentHash: "09bddb62f9842f1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

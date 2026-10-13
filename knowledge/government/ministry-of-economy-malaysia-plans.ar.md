@@ -35,10 +35,11 @@ faq:
     a: "لا. تُطرح خطة ماليزيا بوصفها اقتراح سياسة للنقاش والموافقة البرلمانية، لا بوصفها مشروع قانون مثل مشروع قانون التزويد الذي تقوم عليه الميزانية السنوية."
 
 lang: "ar"
+sourceContentHash: "6ea99ed513582ab7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

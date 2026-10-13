@@ -34,8 +34,9 @@ faq:
     a: "Có. Cả bốn — TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd (Boost), GPay Network (M) Sdn Bhd (GrabPay) và ShopeePay Malaysia Sdn Bhd — đều được liệt kê là bên phát hành tiền điện tử phi ngân hàng trong danh sách chính thức của BNM."
 
 lang: "vi"
+sourceContentHash: "3baa675be6fcede6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

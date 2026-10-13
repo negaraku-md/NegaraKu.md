@@ -40,10 +40,11 @@ verificationNeeded:
   - "تأكّد من النصّ الحالي وشروط الأهلية في Employment (Termination and Lay-Off Benefits) Regulations 1980 كما تنطبق على انقضاء مدةٍ محدَّدة"
 
 lang: "ar"
+sourceContentHash: "529468bbc9f83e00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -29,8 +29,9 @@ faq:
     a: "Đây là kế hoạch tái cấu trúc LTAT và tập đoàn Boustead được hội đồng quản trị LTAT phê duyệt vào ngày 9 tháng 8 năm 2024 và thông báo cho Nội các vào ngày 13 tháng 12 năm 2024, nhằm giảm mức nắm giữ tài sản chiến lược xuống 35% trong vòng ba năm đồng thời tránh việc bán tháo cưỡng bức."
 
 lang: "vi"
+sourceContentHash: "bc79a003d2567110"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

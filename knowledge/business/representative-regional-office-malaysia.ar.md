@@ -33,10 +33,11 @@ faq:
     a: "تعتمد الهيئة الماليزية لتنمية الاستثمار (MIDA) الطلبات، التي تُقدَّم عبر بوابة Invest Malaysia. أما طلبات الخدمات المصرفية والمالية فيتولاها بنك نيغارا ماليزيا (Bank Negara Malaysia) (البنك المركزي الماليزي)."
 
 lang: "ar"
+sourceContentHash: "9170883af9a3f4af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

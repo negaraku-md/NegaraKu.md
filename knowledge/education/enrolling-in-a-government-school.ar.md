@@ -19,9 +19,10 @@ keyTakeaways:
   - "الالتحاق المبكر (دون السن) وتأجيل السنة الأولى موجودان كلاهما كسياستين رسميتين منفصلتين — وتُقدَّم الطلبات عبر JPN، لا عبر نظام idMe المعتاد، والتأجيل امتياز لا حق تلقائي"
 appliesTo: "أولياء الأمور أو الأوصياء من المواطنين الماليزيين الذين يوشك طفلهم على دخول السنة الأولى من المدرسة الابتدائية الحكومية أو الصف الأول من المدرسة الثانوية الحكومية."
 lang: "ar"
+sourceContentHash: "0c89415b8941ca0c"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

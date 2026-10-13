@@ -29,8 +29,9 @@ faq:
     a: "Kajian pemerintah pada April 1999 menemukan adanya tumpang tindih fungsi, tumpang tindih wewenang, dan penggunaan sumber daya yang tidak ekonomis antara lembaga. APMM didirikan untuk menyatukan penegakan hukum maritim di bawah satu lembaga."
 
 lang: "id"
+sourceContentHash: "d5fb408e6cb3819a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

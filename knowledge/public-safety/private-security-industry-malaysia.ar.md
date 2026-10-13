@@ -31,10 +31,11 @@ faq:
     a: "تحقق من حالة ترخيص الشركة وحراسها عبر بوابة التحقق eSIMS التابعة لـ KDN قبل توقيع أي عقد. يجب أن تحمل الوكالة المشروعة ترخيص وكالة خاصة (Private Agency Licence) سارياً وفعّالاً."
 
 lang: "ar"
+sourceContentHash: "7778a33b10205faf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

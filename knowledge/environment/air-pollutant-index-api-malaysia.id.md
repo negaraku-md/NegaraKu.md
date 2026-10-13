@@ -30,8 +30,9 @@ faq:
     a: "Pada 101–200 (Tidak sehat), kelompok sensitif — warga lanjut usia, wanita hamil, anak-anak dan penderita komplikasi jantung atau paru-paru — sebaiknya membatasi aktivitas luar ruangan. Pada melebihi 300 (Berbahaya), warga lanjut usia dan orang berisiko tinggi dilarang beraktivitas di luar, dan masyarakat dinasihatkan menghindarinya."
 
 lang: "id"
+sourceContentHash: "fc387c28a9eb09b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

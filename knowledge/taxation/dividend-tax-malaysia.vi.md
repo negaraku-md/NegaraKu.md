@@ -33,8 +33,9 @@ faq:
     a: "Nó được tự tính. Bạn báo cáo thu nhập cổ tức trong tờ khai hằng năm của bạn (Form BE cho người cư trú, Form M cho người không cư trú) cho năm tính thuế 2025 trở đi, và trả 2% cùng với thuế cuối cùng của bạn khi được đánh thuế — không có khấu trừ tại nguồn. Từ YA 2025, các công ty cũng phải cấp cho cổ đông một phiếu cổ tức thể hiện cổ tức gộp, hỗ trợ cho việc khai của bạn."
 
 lang: "vi"
+sourceContentHash: "046defae2c8d4bbf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

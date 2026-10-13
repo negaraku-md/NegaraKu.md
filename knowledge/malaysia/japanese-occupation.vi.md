@@ -19,8 +19,9 @@ keyTakeaways:
   - "Sự quản lý của Nhật kết thúc bằng việc đầu hàng năm 1945; văn kiện đầu hàng cho khu vực này được ký tại Tòa nhà Thành phố (Municipal Building), Singapore vào ngày 12 tháng 9 năm 1945"
 appliesTo: "Học sinh, giáo viên, các nhà nghiên cứu và độc giả phổ thông muốn có một niên biểu có nguồn và một hình dung mang tính mô tả về thời kỳ 1941–1945 ở Tanah Melayu và Borneo, không quy đặc điểm hay so sánh mức độ đau khổ."
 lang: "vi"
+sourceContentHash: "8db8504e8559d165"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

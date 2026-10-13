@@ -26,10 +26,11 @@ faq:
     a: "للمخالفة الأولى، غرامة لا تتجاوز RM30,000 أو السجن مدة لا تتجاوز سنتين، أو كليهما. أما المخالفات اللاحقة فتصل إلى RM50,000 أو السجن حتى ثلاث سنوات."
 
 lang: "ar"
+sourceContentHash: "86f8ad16efa02a93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

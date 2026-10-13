@@ -29,8 +29,9 @@ faq:
     a: "Sepuluh tahun dari tanggal pendaftaran, dapat diperbarui untuk periode sepuluh tahun selanjutnya tanpa batas (pasal 18 dan 19)."
 
 lang: "id"
+sourceContentHash: "a1ee81a205bbd043"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Ya. Produsen luar negeri dapat mengajukan sertifikasi JAKIM, atau menggunakan sertifikat dari badan sertifikasi halal asing yang diakui oleh JAKIM. Daftar badan yang diakui ditinjau dan dimutakhirkan oleh JAKIM."
 
 lang: "id"
+sourceContentHash: "86854384949bcaf4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

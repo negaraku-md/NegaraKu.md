@@ -30,12 +30,13 @@ faq:
     a: "مجلس الوقاية من الجريمة (Prevention of Crime Board) — وهو هيئة يرأسها شخص ذو مؤهل قانوني وتعيّنها الحكومة — لا المحاكم. ويتصرف المجلس بناءً على تقرير موظف تحقيق (Inquiry Officer) يعيّنه الوزير."
 
 lang: "ar"
+sourceContentHash: "a6b06f9b9fdb4839"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

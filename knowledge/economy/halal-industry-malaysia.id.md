@@ -29,8 +29,9 @@ faq:
     a: "Ekspor produk halal Malaysia mencapai RM61.79 miliar pada 2024, naik 15% dibandingkan RM53.72 miliar pada 2023 (MITI). Untuk periode Januari–September 2024, ekspor bernilai RM45.04 miliar dibandingkan RM39.36 miliar dalam periode yang sama pada 2023 (MITI/MIDA)."
 
 lang: "id"
+sourceContentHash: "1b16a223e725d8d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

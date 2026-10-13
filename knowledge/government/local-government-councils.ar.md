@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "كل من يرغب في فهم بنية الحكومة المحلية في ماليزيا وإطارها القانوني وعضويتها — الطلاب والباحثون والصحفيون والسكان الذين يتعاملون مع مجلسهم المحلي، والقراء العامون الذين يريدون معرفة الفرق بين مجالس المدن والبلديات والمقاطعات، ولماذا يُعيَّن أعضاء المجلس بدلًا من أن يُنتخبوا."
 
 lang: "ar"
+sourceContentHash: "76abb87d5a3ed499"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

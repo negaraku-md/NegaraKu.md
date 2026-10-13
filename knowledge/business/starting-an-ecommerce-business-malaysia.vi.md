@@ -33,8 +33,9 @@ faq:
     a: "Với tư cách một người bán, không. Bạn thu nhận với một cổng thanh toán, thứ xử lý một bước xác minh doanh nghiệp; chính nhà vận hành cổng thanh toán mới phải được Ngân hàng Trung ương Malaysia (Bank Negara Malaysia) phê duyệt, không phải bạn. Tùy thuộc vào những gì bạn bán, các quy tắc theo ngành cụ thể vẫn có thể áp dụng — ví dụ mỹ phẩm và sản phẩm sức khỏe cần thông báo cho cơ quan quản lý liên quan bất kể kênh bán."
 
 lang: "vi"
+sourceContentHash: "beb54faa40df4583"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

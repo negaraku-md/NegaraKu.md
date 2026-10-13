@@ -33,8 +33,9 @@ faq:
     a: "Đó là một hành vi phạm tội theo Child Care Centre Act 1984 khi vận hành một trung tâm giữ trẻ không được đăng ký với JKM. Khi bị kết án, chế tài là một khoản phạt đến RM10,000 hoặc phạt tù đến hai năm, hoặc cả hai, với các chế tài nặng hơn cho một hành vi phạm tội tái phạm. JKM cũng có thể ra lệnh đóng trung tâm. Hãy đăng ký trước khi bạn nhận bất kỳ đứa trẻ nào."
 
 lang: "vi"
+sourceContentHash: "1ebf1ee2a2053f70"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

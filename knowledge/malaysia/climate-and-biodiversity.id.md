@@ -18,8 +18,9 @@ keyTakeaways:
   - "Semenanjung Malaysia dan Borneo (Sabah dan Sarawak) dipisahkan oleh Laut Tiongkok Selatan dan menjadi tuan rumah bagi kelompok spesies yang berbeda, dengan Borneo memegang mayoritas hutan rawa gambut dan hutan bakau negara."
 appliesTo: "nasional"
 lang: "id"
+sourceContentHash: "9a6c3f25f0c58105"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -31,8 +31,9 @@ faq:
     a: "Periksa status lisensi perusahaan dan petugas keamanan melalui portal pemeriksaan eSIMS KDN sebelum menandatangani kontrak. Agensi yang sah harus memiliki Lesen Agensi Persendirian yang masih aktif."
 
 lang: "id"
+sourceContentHash: "7778a33b10205faf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

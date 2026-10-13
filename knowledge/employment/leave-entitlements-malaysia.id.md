@@ -42,8 +42,9 @@ verificationNeeded:
   - "Pastikan jalur cuti tahunan, cuti sakit dan cuti rawat inap yang setara di bawah Sabah dan Sarawak Labour Ordinances seperti yang diubah pada 2025"
 
 lang: "id"
+sourceContentHash: "4780eb76db51665d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

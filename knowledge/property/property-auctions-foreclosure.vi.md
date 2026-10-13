@@ -30,8 +30,9 @@ faq:
     a: "Điều đó tùy thuộc vào Tuyên bố Bán. Người mua thường thừa hưởng tiền thuê đất, thuế đánh giá (cukai pintu), phí bảo trì và tiện ích còn tồn đọng trừ khi POS nêu rằng ngân hàng sẽ thanh toán chúng từ số tiền thu được. Hãy luôn đọc POS trước khi đấu giá."
 
 lang: "vi"
+sourceContentHash: "2fa3e76f153f5816"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

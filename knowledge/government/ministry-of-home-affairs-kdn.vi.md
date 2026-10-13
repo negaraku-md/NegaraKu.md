@@ -27,8 +27,9 @@ faq:
   - q: "Ai là Bộ trưởng Nội vụ?"
     a: "Tính đến năm 2026, Bộ trưởng Nội vụ là Datuk Seri Panglima Saifuddin Nasution bin Ismail, nhậm chức từ ngày 3 tháng 12 năm 2022. Các danh mục nội các thay đổi theo mỗi lần cải tổ, vì vậy hãy xác nhận người đương nhiệm hiện tại trên moha.gov.my."
 lang: "vi"
+sourceContentHash: "84024caa253d8b49"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

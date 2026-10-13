@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu nghĩa của thuật ngữ 'Syariah' trong luật Malaysia và vì sao thẩm quyền của Tòa án Syariah khác nhau từ bang này sang bang khác."
 
 lang: "vi"
+sourceContentHash: "2bb646d77c8ab722"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

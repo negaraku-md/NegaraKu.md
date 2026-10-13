@@ -37,8 +37,9 @@ faq:
     a: "UNESCO menyebut Silat Harimau sebagai contoh gaya yang meniru gerak estetik harimau dalam seni menyerang dan bertahan. Ia salah satu dari banyak gaya yang dinamai berdasarkan hewan atau unsur alam."
 
 lang: "id"
+sourceContentHash: "38ee41b476215220"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

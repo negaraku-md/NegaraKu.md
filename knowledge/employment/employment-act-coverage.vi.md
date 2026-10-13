@@ -23,8 +23,9 @@ appliesTo: "Người sử dụng lao động quyết định liệu một ngư�
 
 verificationNeeded: []
 lang: "vi"
+sourceContentHash: "e20a9bba2377fd31"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

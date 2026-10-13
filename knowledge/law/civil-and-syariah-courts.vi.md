@@ -40,8 +40,9 @@ faq:
     a: "Không. Mỗi Bang cấu thành các tòa án Syariah riêng của mình theo đạo luật riêng của nó, và các Lãnh thổ Liên bang có tòa án của họ theo Act 505. Jabatan Kehakiman Syariah Malaysia, một cơ quan dưới Văn phòng Thủ tướng, mô tả vai trò của mình là điều phối và chuẩn hóa việc quản lý luật Syariah và ngành tư pháp Syariah trên khắp Malaysia — điều phối, không phải một tòa án quốc gia duy nhất."
 
 lang: "vi"
+sourceContentHash: "871806c1d22f2076"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

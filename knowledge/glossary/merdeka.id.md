@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami arti sebenarnya dan asal usul kata 'merdeka', bukan sekadar tanggal atau upacara 1957."
 
 lang: "id"
+sourceContentHash: "194d82a69dbc1089"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

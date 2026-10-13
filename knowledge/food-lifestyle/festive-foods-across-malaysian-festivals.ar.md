@@ -33,12 +33,13 @@ faq:
     a: "لا. أنبذة الأرز مثل tuak وmontoku وtumpung مشروبات تقليدية لمجتمع الداياك في ساراواك والكادازاندوسون في صباح، وهي محورية في مأدبتَي غاواي وكاماتان بحسب The Star. وهي ليست جزءًا من موائد أعياد المجتمعات التي تلتزم الطعام والشراب الحلال، كما في هاري رايا. وما يقدِّمه بيت مفتوح بعينه يتوقف على الممارسات الغذائية للمضيف وتقاليده."
 
 lang: "ar"
+sourceContentHash: "58bbad87611b5d86"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

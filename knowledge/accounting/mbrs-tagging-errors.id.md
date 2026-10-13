@@ -39,8 +39,9 @@ verificationNeeded:
   - "Verifikasi perilaku validasi bagi titik masuk (entry point) tertentu berdasarkan manual pengguna mTool 2.2 untuk titik masuk tersebut sebelum bergantung pada aturan mana pun yang diterangkan secara umum"
 
 lang: "id"
+sourceContentHash: "4cbf1a047bbd3c22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

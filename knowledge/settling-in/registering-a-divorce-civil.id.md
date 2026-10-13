@@ -35,8 +35,9 @@ faq:
     a: "Pasal 106 memuat pengecualian di mana rujukan kepada badan pendamai tidak diperlukan — misalnya, petisi di bawah Pasal 51 (perpindahan agama) dan 52 (persetujuan bersama), atau apabila tempat tinggal pasangan tidak diketahui, termohon tinggal di luar negeri dan tidak mungkin memasuki yurisdiksi dalam enam bulan, dengan sengaja gagal hadir, dipenjara lima tahun atau lebih, didakwa menderita penyakit mental yang tidak dapat disembuhkan, atau apabila pengadilan puas bahwa keadaan luar biasa menjadikan rujukan tidak praktis."
 
 lang: "id"
+sourceContentHash: "608158d08520f03a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

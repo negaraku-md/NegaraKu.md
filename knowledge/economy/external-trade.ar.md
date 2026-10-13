@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "كل من يقرأ عناوين التجارة الماليزية — المصدّرون والمستوردون والمستثمرون والمحللون."
 
 lang: "ar"
+sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

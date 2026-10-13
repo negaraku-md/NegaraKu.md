@@ -29,10 +29,11 @@ faq:
     a: "إطار أطلقته وزارة الموارد الطبيعية والاستدامة البيئية (NRES) في 21 أبريل 2026 لبناء سوق كربون عالية النزاهة وسجل كربون وطني وأنظمة رصد قبل استحداث أدوات تسعير الامتثال."
 
 lang: "ar"
+sourceContentHash: "da637e665e1a9fd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

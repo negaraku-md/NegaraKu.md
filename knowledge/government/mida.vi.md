@@ -41,8 +41,9 @@ verificationNeeded:
   - "Liệu IMFC-J có phải là chi nhánh khu vực duy nhất của mô hình IMFC, hay đã có thêm các cơ sở IMFC được mở kể từ ý định của chính phủ mở rộng nó vào năm 2026"
 
 lang: "vi"
+sourceContentHash: "e0c5ddbcc6a8b0ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,12 +34,13 @@ faq:
     a: "تُعد رعاية القلب والأورام والخصوبة/أطفال الأنابيب (IVF) وجراحة العظام والفحص الصحي الشامل من أكثر التخصصات المطلوبة لدى المرضى الأجانب — وأولها الأربعة هي مراكز التميز التي حدّدها MHTC."
 
 lang: "ar"
+sourceContentHash: "038cf5af7095fe8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

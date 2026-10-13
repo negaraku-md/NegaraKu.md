@@ -30,8 +30,9 @@ faq:
     a: "Program NEM 3.0 berakhir pada akhir Juni 2025. Program ini digantikan oleh Solar ATAP yang berlaku 1 Januari 2026, tanpa batas kuota keseluruhan dan dikelola melalui portal eATAP SEDA di atap.seda.gov.my."
 
 lang: "id"
+sourceContentHash: "2d635eb062db955f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

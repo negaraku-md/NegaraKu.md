@@ -37,8 +37,9 @@ faq:
     a: "Badan Penilai UNESCO merekomendasikan pencantuman setelah mendapati budaya sarapan Malaysia memenuhi kriteria Konvensi 2003 untuk Perlindungan Warisan Budaya Takbenda, dan Komite Antarpemerintah kemudian membuat keputusan mencantumkannya. Komite menyimpulkan bahwa penyiapan dan penikmatan makanan sarapan — meski asalnya dipraktikkan satu etnis tertentu — akhirnya dinikmati semua tanpa memandang latar etnis, dan ini memperkuat persatuan yang mencerminkan identitas Malaysia sebagai negara multietnis."
 
 lang: "id"
+sourceContentHash: "d9dc5e7ae2dd9a7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

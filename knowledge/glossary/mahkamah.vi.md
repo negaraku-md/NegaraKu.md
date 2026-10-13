@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đọc văn bản pháp lý, tin tức hay thủ tục tòa án tại Malaysia và cần hiểu nghĩa của thuật ngữ 'mahkamah' cùng vị trí tương đối của mỗi cấp của nó."
 
 lang: "vi"
+sourceContentHash: "1a30b6920b746dad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

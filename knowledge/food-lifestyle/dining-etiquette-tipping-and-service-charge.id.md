@@ -29,8 +29,9 @@ faq:
     a: "Hanya usaha F&B dengan omzet kena pajak melebihi RM1,500,000 dalam jangka 12 bulan wajib mendaftar untuk pajak layanan, dan biaya layanan kebanyakannya digunakan oleh hotel dan restoran layanan penuh. Penjaja dan kedai makan kecil biasanya mengenakan harga tercantum saja."
 
 lang: "id"
+sourceContentHash: "0474567c9b571270"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

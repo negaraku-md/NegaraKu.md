@@ -38,8 +38,9 @@ faq:
     a: "Tidak. Hak kekayaan intelektual bersifat teritorial, jadi merek dagang atau paten Malaysia hanya mencakup Malaysia. Untuk perlindungan internasional, Anda perlu mengajukan di luar negeri — bagi merek dagang, keikutsertaan Malaysia dalam Protokol Madrid memungkinkan Anda menetapkan beberapa negara melalui satu permohonan internasional."
 
 lang: "id"
+sourceContentHash: "9b9e8ce352a97c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

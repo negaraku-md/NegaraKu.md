@@ -35,10 +35,11 @@ faq:
     a: "تنص المادة 14 على السجن حتى عامين أو غرامة تصل إلى RM50,000 أو كليهما للمخالفة الأولى، وحتى خمس سنوات سجن أو غرامة RM100,000 للمخالفة الثانية أو ما يليها. كما يجوز معاقبة الأب أو الوصي الذي يسمح عن علم بوقوع المخالفة."
 
 lang: "ar"
+sourceContentHash: "4ad258e80f1299ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

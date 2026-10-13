@@ -34,10 +34,11 @@ faq:
     a: "لا. فهو لا ينطبق على موظفي الخدمة العامة، والمتدرّبين (apprentices)، والموظفين تحت التجربة، والعمال الأجانب، والعاملين في المنازل، والموظفين بدوام جزئي، والطلاب العاملين مؤقتاً، وبعض الموظفين بعقود محددة المدة."
 
 lang: "ar"
+sourceContentHash: "f2f42b17c86c3524"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

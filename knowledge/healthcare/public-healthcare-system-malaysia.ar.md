@@ -27,9 +27,10 @@ faq:
   - q: "ما هو PeKa B40؟"
     a: "PeKa B40 (برنامج الرعاية الصحية لفئة B40، Skim Peduli Kesihatan untuk Kumpulan B40) برنامج تابع لوزارة الصحة تديره شركة ProtectHealth Corporation. وهو يمنح الماليزيين المؤهلين من ذوي الدخل المنخفض ممن تبلغ أعمارهم 40 عاماً فأكثر — المستفيدين من المنحة النقدية رحمة وأزواجهم — فحصاً صحياً مجانياً، ومساعدة في الأجهزة الطبية حتى RM20,000، وحافز علاج سرطان بقيمة RM1,000، ومساعدة في المواصلات. وحتى 31 مارس 2025، كان نحو 1.6 مليون من أصل نحو 6.9 مليون مستفيد مؤهل قد خضعوا للفحص."
 lang: "ar"
+sourceContentHash: "e44d3a318b3a6bbb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -37,8 +37,9 @@ verificationNeeded:
   - "Pastikan rujukan pemberitahuan Warta (Gazette) yang menetapkan MAICSA sebagai badan yang disetujui, dan apakah ada syarat atau ketentuan apa pun yang dikenakan di bawah s.235(3)"
 
 lang: "id"
+sourceContentHash: "b8d7278523a1c564"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

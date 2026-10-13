@@ -36,8 +36,9 @@ faq:
     a: "Pada 23 Mei 2008, Mahkamah Internasional memutuskan Pulau Batu Puteh (Pedra Branca) milik Singapura, Middle Rocks milik Malaysia, dan South Ledge milik negara yang perairannya meliputinya."
 
 lang: "id"
+sourceContentHash: "47c25fa8a007fc27"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

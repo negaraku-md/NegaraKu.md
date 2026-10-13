@@ -34,8 +34,9 @@ faq:
     a: "Theo một câu trả lời tại quốc hội được Bernama đưa tin, Malaysia xuất khẩu sầu riêng trị giá RM6.37 tỷ — khoảng 115,359 tấn — sang China từ năm 2018 đến 2025. Mục tiêu giá trị xuất khẩu vào năm 2030 được ước tính đạt RM1.8 tỷ với tổng khối lượng 69,000 tấn."
 
 lang: "vi"
+sourceContentHash: "c21f23e862b9d969"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "المستهلكون في ماليزيا الذين اشتروا سلعًا أو خدمات ويرغبون في معرفة حقوقهم وكيفية رفع مطالبة منخفضة التكلفة — لا الأعمال التي تدافع عن نفسها في مطالبة، ولا النزاعات التي تستثنيها المحكمة صراحةً."
 
 lang: "ar"
+sourceContentHash: "b22efe69c2b27bab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -34,8 +34,9 @@ faq:
     a: "Không. Các tổ chức tài chính phát triển được quy định được điều chỉnh theo Development Financial Institutions Act 2002 và được Bank Negara Malaysia giám sát, một chế độ riêng biệt so với FSA và IFSA."
 
 lang: "vi"
+sourceContentHash: "a9fc5401e6cabfb3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

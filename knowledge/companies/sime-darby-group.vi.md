@@ -29,8 +29,9 @@ faq:
     a: "Quỹ đầu tư nhà nước Malaysia Permodalan Nasional Berhad (PNB) là một cổ đông lớn trên khắp các công ty Sime Darby, và PNB là bên bán cổ phần UMW mà Sime Darby Berhad đã mua lại. Tỷ lệ sở hữu chính xác thay đổi theo thời gian và cần được kiểm tra so với các hồ sơ nộp Bursa Malaysia mới nhất của mỗi công ty."
 
 lang: "vi"
+sourceContentHash: "b6cfb2928f3fa4fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "Xuất khẩu sản phẩm halal của Malaysia đạt RM61.79 tỷ vào năm 2024, tăng 15% so với RM53.72 tỷ năm 2023 (MITI). Trong giai đoạn tháng 1–9 năm 2024, xuất khẩu trị giá RM45.04 tỷ so với RM39.36 tỷ trong cùng kỳ năm 2023 (MITI/MIDA)."
 
 lang: "vi"
+sourceContentHash: "1b16a223e725d8d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

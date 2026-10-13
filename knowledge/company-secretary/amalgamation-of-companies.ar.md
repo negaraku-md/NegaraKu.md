@@ -33,10 +33,11 @@ faq:
     a: "تفترض المادة 366(1) اجتماعاً للفئة المتأثرة تأمر به المحكمة، ويفترض أمر النقل بموجب المادة 370 خطةً مُقرّة بموجب المادة 366. أما إمكان أن تعفي المحكمة من الاجتماع حيث لا تكون النتيجة محل نزاع حقيقي فمسألة قائمة أثارها الممارسون، وجوابها رهن الوقائع. لا تفترض إمكان تجاوز الاجتماع؛ واطلب مشورة قانونية ماليزية بشأن الهيكل المحدد."
 
 lang: "ar"
+sourceContentHash: "c7201bb6830e2b18"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -40,8 +40,9 @@ verificationNeeded:
   - "Periode sejarah setiap koalisi memerintah dan tahun pendirian (misalnya kapan Barisan Nasional memerintah di tingkat federal, dan kapan Perikatan Nasional didirikan) tidak dinyatakan sebagai tanggal pasti dalam halaman ini karena tidak ada sumber utama yang diperiksa untuknya dalam putaran ini. Tambahkan tanggal bersumber jika perlu."
 
 lang: "id"
+sourceContentHash: "58782ac706653a76"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

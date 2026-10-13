@@ -45,10 +45,11 @@ verificationNeeded:
   - "صفحة حوافز ECERDC نفسها على ecerdc.com.my تُرجِع خطأ 404، فتعذّر الحصول على بيان ECERDC الحالي لمسار حوافزه الخاص."
 
 lang: "ar"
+sourceContentHash: "b4e723b19c6d6a1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

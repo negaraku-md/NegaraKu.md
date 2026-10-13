@@ -29,10 +29,11 @@ faq:
     a: "نعم. لكلتا الولايتين مجلس سياحة خاص بها يسوّق الولاية، إلى جانب الجهود الوطنية لـ Tourism Malaysia."
 
 lang: "ar"
+sourceContentHash: "353b6077a5a0f789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

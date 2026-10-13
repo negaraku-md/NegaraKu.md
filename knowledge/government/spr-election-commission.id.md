@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami kedudukan konstitusional badan yang menyelenggarakan pemilihan di Malaysia — pelajar, peneliti, wartawan, dan pembaca umum — serta ketentuan Konstitusi yang menetapkan mandat, keanggotaan, dan jaminan masa jabatan SPR."
 
 lang: "id"
+sourceContentHash: "6a46ae533ead9e08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

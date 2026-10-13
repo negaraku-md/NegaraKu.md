@@ -29,8 +29,9 @@ faq:
     a: "Hành khách của chuyến bay đến bất kỳ sân bay quốc tế nào ở Malaysia và nối chuyến đến một điểm đến ở nước ngoài trong khoảng thời gian không quá 12 giờ quá cảnh được miễn."
 
 lang: "vi"
+sourceContentHash: "5f586e52647f995b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

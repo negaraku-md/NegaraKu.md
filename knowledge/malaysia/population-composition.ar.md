@@ -30,11 +30,12 @@ faq:
     a: "تقسّم DOSM البوميبوترا الآخرين إلى بوميبوترا صباح (55.3 بالمئة من المجموعة، ويشملون كادازان/دوسون وباجاو وموروت ومجموعات بوميبوترا صباح الأخرى)، وبوميبوترا ساراواك (32.3 بالمئة، ويشملون إيبان وبيدايوه وميلاناو ومجموعات بوميبوترا ساراواك الأخرى)، ومجموعات بوميبوترا شبه الجزيرة الأخرى التي تشكّل البقية."
 
 lang: "ar"
+sourceContentHash: "6a6100396bc06f2b"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

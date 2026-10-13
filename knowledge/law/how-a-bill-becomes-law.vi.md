@@ -36,8 +36,9 @@ faq:
     a: "Điều 55(5) quy định rằng một dự luật chưa được quyết định trong Quốc hội không bị mất hiệu lực do việc hoãn họp Quốc hội. Điều 55(7) thì bảo vệ dự luật đang chờ phê chuẩn khỏi việc mất hiệu lực do hoãn họp hoặc giải thể Quốc hội."
 
 lang: "vi"
+sourceContentHash: "87bf8d58ce7f3cea"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

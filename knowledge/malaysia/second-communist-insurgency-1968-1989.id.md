@@ -30,8 +30,9 @@ faq:
     a: "Menurut Arsip Nasional Malaysia, perjanjian Hat Yai tidak menuntut PKM menyerah kalah. Partai itu sepakat untuk mengakhiri aktivitas militan, membubarkan unit bersenjatanya dan memusnahkan senjatanya, dan anggota-anggotanya berikrar taat setia kepada Yang di-Pertuan Agong."
 
 lang: "id"
+sourceContentHash: "02bbbc636e171599"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

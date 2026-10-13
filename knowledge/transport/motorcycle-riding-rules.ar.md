@@ -29,10 +29,11 @@ faq:
     a: "حتى تاريخ النشر، لا يوجد قيد ساري المفعول على سعة المحرك؛ ولم تتحول بعد إلى قانون المقترحات الرامية إلى تقييد الوصول إلى الطرق السريعة بحسب سعة المحرك."
 
 lang: "ar"
+sourceContentHash: "1c36a26778aafc7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

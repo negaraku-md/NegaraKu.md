@@ -37,10 +37,11 @@ faq:
     a: "آسيان هي حجر الزاوية أو أساس السياسة الخارجية لماليزيا. وماليزيا إحدى الدول المؤسِّسة لآسيان وتعطي الأولوية باستمرار لوحدة آسيان ومركزيتها، مع البقاء نشطة في محافل أخرى مثل الأمم المتحدة (UN) ومنظمة التعاون الإسلامي (OIC) وحركة عدم الانحياز (NAM)."
 
 lang: "ar"
+sourceContentHash: "4cb0c08e4d974a16"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

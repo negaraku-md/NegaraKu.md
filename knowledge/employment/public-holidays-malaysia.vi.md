@@ -38,8 +38,9 @@ verificationNeeded:
   - "Cần xác nhận các ngày được đánh dấu là có thể thay đổi trong biểu của Bahagian Kabinet — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan và ngày thứ hai của Hari Raya Qurban đều được gắn cờ"
 
 lang: "vi"
+sourceContentHash: "c9161f47701aa87c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

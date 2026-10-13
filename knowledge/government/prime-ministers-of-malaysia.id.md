@@ -31,8 +31,9 @@ verificationNeeded:
   - "Tanggal masa jabatan perlu diverifikasi dengan Jabatan Perdana Menteri dan Yayasan Kepimpinan Perdana. Ismail Sabri Yaakob tetap sebagai Perdana Menteri sementara setelah pembubaran Parlemen (10 Okt 2022) hingga Anwar Ibrahim mengangkat sumpah pada 24 November 2022 — tanggal berakhir mencerminkan peralihan jabatan. Sebagai draf, ini memerlukan peninjau manusia sebelum penerbitan."
 
 lang: "id"
+sourceContentHash: "c027ec0df342599c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

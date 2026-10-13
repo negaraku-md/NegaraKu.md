@@ -26,8 +26,9 @@ verificationNeeded:
   - "Các thông tin bắt buộc của một biên nhận quyên góp hợp lệ theo s.44(6) — trang giải thích về cách sử dụng biên nhận của LHDN không thể truy xuất được."
 
 lang: "vi"
+sourceContentHash: "5f0966be244cdbe2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

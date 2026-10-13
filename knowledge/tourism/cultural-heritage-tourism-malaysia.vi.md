@@ -31,8 +31,9 @@ faq:
     a: "Che vai và đầu gối tại mọi địa điểm tôn giáo. Các nhà thờ Hồi giáo còn kỳ vọng phụ nữ che tóc và mọi người cởi giày. Các đền Hindu và đền Trung Hoa cũng yêu cầu cởi giày trước khi vào khu điện thờ bên trong."
 
 lang: "vi"
+sourceContentHash: "93767c9cc05e1d13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

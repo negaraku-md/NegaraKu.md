@@ -29,10 +29,11 @@ verificationNeeded:
   - "التوجيهات العملية المُكوِّنة لأقسام المحكمة العليا المتخصّصة (New Commercial Court و Construction Court و Intellectual Property Court) ومعايير توزيعها — فهذه ترتيبات إدارية للسلطة القضائية، لا محاكم قانونية (statutory)"
 
 lang: "ar"
+sourceContentHash: "7a5b4212b0b3e35b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

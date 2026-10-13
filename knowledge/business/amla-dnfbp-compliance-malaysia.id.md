@@ -30,8 +30,9 @@ faq:
     a: "Tidak. Laporan Ambang Tunai untuk transaksi tunai bernilai RM25,000 ke atas hanya berlaku bagi institusi perbankan, institusi keuangan pembangunan terpilih, Lembaga Tabung Haji, dan kasino berlisensi. DNFBP tetap memiliki kewajiban STR."
 
 lang: "id"
+sourceContentHash: "ed7c9043d8d06f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

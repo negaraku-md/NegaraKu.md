@@ -33,8 +33,9 @@ verificationNeeded:
   - "Xác nhận liệu SSM đã ban hành bất kỳ practice directive hoặc hướng dẫn nào về việc chứng nhận các văn bản bởi các thư ký công ty hay chưa — không tìm thấy cái nào trên ssm.com.my"
 
 lang: "vi"
+sourceContentHash: "9f90e2daf3ffcc00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

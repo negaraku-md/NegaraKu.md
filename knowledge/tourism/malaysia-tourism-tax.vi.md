@@ -35,8 +35,9 @@ faq:
     a: "Họ đăng ký trên cổng MyTTx, nộp một tờ khai hằng quý (Biểu mẫu TTx-03) và nộp thuế cho Cục Hải quan Hoàng gia Malaysia không muộn hơn ngày cuối cùng của tháng sau mỗi kỳ tính thuế."
 
 lang: "vi"
+sourceContentHash: "90bb7645abb0046f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

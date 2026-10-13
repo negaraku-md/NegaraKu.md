@@ -34,8 +34,9 @@ verificationNeeded:
   - "Pastikan panjang/jumlah stasiun terkini Jalur Kajang MRT langsung dengan MRT Corp atau Rapid Rail sebelum penerbitan — Kementerian Pengangkutan dan laman jalur Rapid Rail sendiri memberikan angka yang sedikit berbeda (51km/31 stasiun dibandingkan 46km/29 stasiun), yang mana artikel ini telah menghindari untuk mengulanginya secara verbatim sambil menunggu pendamaian."
 
 lang: "id"
+sourceContentHash: "8f5aa15915a64a18"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

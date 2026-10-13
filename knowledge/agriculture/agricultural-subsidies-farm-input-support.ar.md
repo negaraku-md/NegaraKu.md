@@ -34,10 +34,11 @@ faq:
     a: "وزارة الزراعة والأمن الغذائي (KPKM)، عبر قسم تطوير صناعة الأرز، مع وكالات تنفيذية مثل هيئة منظمات المزارعين (LPP) وMADA وKADA في مناطق أهراء كلٍّ منها."
 
 lang: "ar"
+sourceContentHash: "0db45e7ee2f93134"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

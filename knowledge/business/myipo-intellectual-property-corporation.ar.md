@@ -27,9 +27,10 @@ faq:
   - q: "أي وزارة تتبعها MyIPO؟"
     a: "MyIPO هيئة قانونية اتحادية تتبع وزارة التجارة الداخلية وتكاليف المعيشة (KPDN)، الوزارة المسؤولة عن التجارة الداخلية وشؤون المستهلك في ماليزيا."
 lang: "ar"
+sourceContentHash: "1a13bdbeb8de806f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

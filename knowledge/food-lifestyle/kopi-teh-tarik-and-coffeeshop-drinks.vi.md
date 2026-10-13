@@ -29,8 +29,9 @@ faq:
     a: "Quá trình rót trà qua lại giữa hai bình từ trên cao — 'tarik' — làm nguội đồ uống, hòa quyện trà với sữa, và tạo một lớp bọt ở trên. Nó trở thành một màn trình diễn riêng, đến mức có cả các cuộc thi teh tarik."
 
 lang: "vi"
+sourceContentHash: "9bbd745541ea86db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

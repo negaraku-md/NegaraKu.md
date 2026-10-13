@@ -69,8 +69,9 @@ obligations:
     consequence: "Phạt tiền gấp đôi khoản bồi thường được phán, hoặc lên đến RM10,000 khi không có khoản nào được phán; phạt tù lên đến hai năm; RM1,000 một ngày nếu tiếp diễn"
 
 lang: "vi"
+sourceContentHash: "37ced01eb083b72b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

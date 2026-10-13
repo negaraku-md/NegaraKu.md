@@ -30,10 +30,11 @@ faq:
     a: "سنة تقويمية كاملة، من 1 يناير إلى 31 ديسمبر. وتتسلّم الفلبين من ماليزيا في 1 يناير 2026."
 
 lang: "ar"
+sourceContentHash: "be6127ce5cca4347"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

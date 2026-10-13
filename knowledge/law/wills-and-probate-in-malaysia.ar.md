@@ -35,10 +35,11 @@ faq:
     a: "ليس بالضرورة. يمكن إدارة التركة التي لا تتجاوز قيمتها RM5 مليون عبر وحدة توزيع التركات الصغيرة في مكتب الأراضي بموجب قانون التركات الصغيرة (التوزيع) (Small Estates (Distribution) Act 1955)، عادةً دون محامٍ ودون رسوم إيداع لدى مكتب الأراضي. ومنذ دخول التعديل حيّز التنفيذ في 15 يوليو 2024، لم يعد يلزم أن تحتوي التركة على ممتلكات غير منقولة لتأهّل هذا المسار."
 
 lang: "ar"
+sourceContentHash: "109171c4b389867e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

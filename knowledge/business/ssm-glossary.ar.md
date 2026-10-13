@@ -27,10 +27,11 @@ verificationNeeded:
   - "تحقّق من النطاق الحالي للجهات المشاركة في BLESS وMalaysiaBiz، الذي يُوسَّع دوريًا"
 
 lang: "ar"
+sourceContentHash: "d297b49cc580cf19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

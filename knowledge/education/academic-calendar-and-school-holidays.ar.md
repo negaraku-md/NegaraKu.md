@@ -29,10 +29,11 @@ faq:
     a: "يصدر التقويم الرسمي عبر تعاميم KPM وبوابة moe.gov.my كل عام قبل بدء الجلسة. راجع المصادر الرسمية للحصول على التواريخ الدقيقة، فهي تتغير كل عام."
 
 lang: "ar"
+sourceContentHash: "25b458d1ef0fef1f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

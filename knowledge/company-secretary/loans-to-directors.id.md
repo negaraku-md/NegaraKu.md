@@ -55,8 +55,9 @@ obligations:
     consequence: "Direktur yang mengizinkan bertanggung jawab secara bersama dan sendiri-sendiri untuk mengganti rugi perusahaan atas kerugian apa pun di bawah s.224(6)"
 
 lang: "id"
+sourceContentHash: "69f84a6ade0b88b1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

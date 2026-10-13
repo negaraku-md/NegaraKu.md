@@ -50,8 +50,9 @@ obligations:
     consequence: "Pelanggaran oleh perusahaan dan setiap orang yang melanggar pasal itu"
 
 lang: "id"
+sourceContentHash: "163b4a51c3a94a50"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

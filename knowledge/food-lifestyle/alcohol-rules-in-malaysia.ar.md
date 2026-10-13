@@ -31,12 +31,13 @@ faq:
     a: "جزر مثل لنكاوي (Langkawi) ولابوان (Labuan) مناطق معفاة من الرسوم يُباع فيها الكحول من دون رسم مكوس. ويجوز للمسافرين عموماً إدخال نبيذ أو مشروبات روحية أو جعة شعير لا تتجاوز لتراً واحداً إجمالاً، رهناً بقواعد الحدّ الأدنى لمدة الغياب التي ينبغي تأكيدها مع الجمارك قبل السفر."
 
 lang: "ar"
+sourceContentHash: "56f47508696d66ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

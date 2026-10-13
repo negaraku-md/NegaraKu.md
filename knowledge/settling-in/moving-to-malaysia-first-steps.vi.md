@@ -25,8 +25,9 @@ verificationNeeded:
   - "Các con số thu nhập, tiền gửi và thời hạn cụ thể của MM2H theo từng bậc nên được xác nhận trực tiếp trên cổng MM2H chính thức (mm2h.gov.my) vào thời điểm nộp đơn, vì cổng chặn việc truy cập tự động và các bậc của nó đã được tái cơ cấu hơn một lần trong những năm gần đây."
 
 lang: "vi"
+sourceContentHash: "dd39883661ce9f6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

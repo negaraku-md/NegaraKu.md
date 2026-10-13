@@ -36,10 +36,11 @@ faq:
     a: "تنص المادة 55(5) على أن مشروع القانون الذي لم يُبَتّ فيه بعدُ في البرلمان لا يسقط بسبب فضّ دورة البرلمان. وتحمي المادة 55(7) بدورها مشروع القانون المنتظِر للموافقة من السقوط بسبب فضّ دورة البرلمان أو حلّه."
 
 lang: "ar"
+sourceContentHash: "87bf8d58ce7f3cea"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

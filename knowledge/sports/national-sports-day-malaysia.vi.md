@@ -29,8 +29,9 @@ faq:
     a: "HSN là ngày cao điểm của lễ kỷ niệm. Kể từ năm 2019, KBS mở rộng lễ kỷ niệm suốt tháng 10 với tên gọi Tháng Thể thao Quốc gia (BSN)."
 
 lang: "vi"
+sourceContentHash: "51f2375791aa9f72"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

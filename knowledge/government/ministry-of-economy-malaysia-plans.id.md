@@ -35,8 +35,9 @@ faq:
     a: "Tidak. Rancangan Malaysia diajukan sebagai usul kebijakan untuk perdebatan dan persetujuan Parlimen, bukan sebagai rang undang-undang seperti Rang Undang-Undang Perbekalan yang menjadi dasar Belanjawan tahunan."
 
 lang: "id"
+sourceContentHash: "6ea99ed513582ab7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,10 +31,11 @@ faq:
     a: "لا. صغار المزارعين معفَون، ولا ينطبق أمر 2023 إلا على حيازات نخيل الزيت التي لا تقل عن 40.46 هكتارًا (100 فدان)؛ كما تُستثنى الحيازات الواقعة في مناطق التوطين الجماعي."
 
 lang: "ar"
+sourceContentHash: "90a5c1941df77b25"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

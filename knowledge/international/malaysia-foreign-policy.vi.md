@@ -31,8 +31,9 @@ faq:
   - q: "Tại sao ASEAN lại trung tâm như vậy đối với chính sách đối ngoại của Malaysia?"
     a: "Malaysia là một thành viên sáng lập ASEAN (8 tháng 8 năm 1967). Hành động một cách tập thể thông qua ASEAN mang lại cho một quốc gia cỡ trung, phụ thuộc vào thương mại một tiếng nói mạnh hơn trong việc quản lý quan hệ với các cường quốc so với khi đơn độc — đó là lý do vị trí trung tâm của ASEAN được coi là nền tảng của chính sách."
 lang: "vi"
+sourceContentHash: "0119cb2bc48cc9ad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -41,10 +41,11 @@ faq:
     a: "التاريخ الدقيق محلّ خلاف. فبعض السجلات تضع تأسيس الهيئة الوطنية الحاكمة في 1926، بينما تشير أخرى إلى 1933، حين تولّى الاتحاد الكروي لملايا (Football Association of Malaya) ومقره سنغافورة إدارةَ كأس ملايا. والواضح والقابل للتحقق هو دوره اليوم هيئةً وطنيةً حاكمةً، وعضوًا في AFC، وأحد مؤسّسي AFF عام 1984."
 
 lang: "ar"
+sourceContentHash: "ee9fdc30adb8894c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

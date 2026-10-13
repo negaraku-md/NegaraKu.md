@@ -38,8 +38,9 @@ verificationNeeded:
   - "Verifikasi jumlah presint (20) dan angka luas 4,931 hektar terhadap terbitan resmi Perbadanan Putrajaya yang terkini — laporan tahunan 2017 pernah mencatat angka luas yang berbeda."
 
 lang: "id"
+sourceContentHash: "7ed3eafee80e71c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

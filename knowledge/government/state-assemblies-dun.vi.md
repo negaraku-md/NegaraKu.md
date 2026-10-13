@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai cần hiểu một cách mô tả về cách một Hội đồng Lập pháp Bang được hình thành theo Hiến pháp, nó tồn tại bao lâu, và cách một dự luật bang đi qua nó để trở thành luật."
 
 lang: "vi"
+sourceContentHash: "2a25e82c7f7bc759"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

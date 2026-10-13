@@ -40,10 +40,11 @@ verificationNeeded:
   - "يُتحقق من الصياغة الدقيقة والحالية لتعريف الكيان الخاص الصادر عن MASB بمقابلته بصفحة التطبيق لدى MASB قبل اقتباسه حرفيًّا في أي مستند موجَّه إلى العميل"
 
 lang: "ar"
+sourceContentHash: "fdc2c021a877fc8a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

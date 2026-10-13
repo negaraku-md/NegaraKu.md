@@ -29,12 +29,13 @@ faq:
     a: "هي خطة لإعادة هيكلة LTAT ومجموعة بورستيد أقرّها مجلس LTAT في 9 أغسطس 2024 ورُفعت إلى مجلس الوزراء في 13 ديسمبر 2024، وتهدف إلى خفض حيازات الأصول الاستراتيجية إلى 35% خلال ثلاث سنوات مع تجنب البيع القسري."
 
 lang: "ar"
+sourceContentHash: "bc79a003d2567110"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

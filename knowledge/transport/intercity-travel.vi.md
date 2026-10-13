@@ -34,8 +34,9 @@ verificationNeeded:
   - "Hãy xác nhận số lượng tuyến Dịch vụ Hàng không Nông thôn hiện tại của AirBorneo và danh sách sân bay trực tiếp với AirBorneo hoặc CAAM, vì trang RAS công khai của MAVCOM không mang chi tiết ở cấp tuyến tại thời điểm viết và chương trình gần đây đã đổi đơn vị vận hành."
 
 lang: "vi"
+sourceContentHash: "a8248270057070e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

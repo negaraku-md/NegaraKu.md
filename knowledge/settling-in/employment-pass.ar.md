@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "الأجانب الحاصلون على عرض عمل ماليزي، وكل من يحمل بالفعل تصريح عمل (Employment Pass) في ماليزيا أو يجدّده."
 
 lang: "ar"
+sourceContentHash: "1684527edc9ec752"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

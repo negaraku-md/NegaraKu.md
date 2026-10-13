@@ -33,10 +33,11 @@ faq:
     a: "نعم، منذ دخول قانون التحكيم (التعديل) لسنة 2024 حيز التنفيذ في 1 يناير 2026. تنشئ المواد 46A–46I إطاراً قانونياً، وتلغي المادة 46C قواعد القانون العام ضد الإعالة والمشاركة في الدعوى (maintenance and champerty)، وتوجب المادة 46G الإفصاح عن ترتيب التمويل وهوية الممول."
 
 lang: "ar"
+sourceContentHash: "dbaaa201e69ebe39"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

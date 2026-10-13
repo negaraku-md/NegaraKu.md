@@ -28,8 +28,9 @@ faq:
     a: "Tidak. e-WHT hanya mengubah cara Anda mengirim dan membayar — tarifnya tidak berubah dan masih berasal dari Bahagian V Jadual 1 dibaca bersama seksyen pengenaan (misalnya 10 persen royalti dan 15 persen bunga di bawah seksyen 109, 10 persen bagi kelas khusus di bawah seksyen 109B). Lihat panduan terpisah tentang tarif pajak pemotongan menurut jenis pembayaran untuk jadwal lengkap."
 
 lang: "id"
+sourceContentHash: "d5f0f2295ae24e78"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

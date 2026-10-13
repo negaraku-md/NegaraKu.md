@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai cần một bức tranh ở mức định hướng, có dẫn nguồn về ngành cao su của Malaysia: vụ mùa đồn điền, các dòng thương mại và ngành chế tạo găng tay nay chi phối nó."
 
 lang: "vi"
+sourceContentHash: "0020c8d13fc47636"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

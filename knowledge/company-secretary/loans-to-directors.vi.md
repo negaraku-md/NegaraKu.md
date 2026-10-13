@@ -55,8 +55,9 @@ obligations:
     consequence: "Các giám đốc cho phép chịu trách nhiệm liên đới và riêng rẽ bồi thường cho công ty đối với bất kỳ tổn thất nào theo s.224(6)"
 
 lang: "vi"
+sourceContentHash: "69f84a6ade0b88b1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

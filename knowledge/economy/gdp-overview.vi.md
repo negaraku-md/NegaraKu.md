@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tìm kiếm một hiểu biết chung, ở mức định hướng, về quy mô và hình dạng của nền kinh tế Malaysia."
 
 lang: "vi"
+sourceContentHash: "a15aa3483282907f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

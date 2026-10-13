@@ -32,10 +32,11 @@ faq:
     a: "FGV شركة أعمال زراعية متكاملة تمتد عبر المزارع (نخيل الزيت والمطاط والطاقة المتجددة)، والزيوت والدهون، والسكر، والخدمات اللوجستية والمساندة، والمنتجات الاستهلاكية. ووفق بياناتها الخاصة، تسهم بنحو 3% من الإنتاج العالمي لزيت النخيل الخام."
 
 lang: "ar"
+sourceContentHash: "f7515e7869f5fdd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

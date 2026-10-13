@@ -36,8 +36,9 @@ verificationNeeded:
   - "Các chi tiết thủ tục ngày bầu cử (giờ đề cử ứng viên, thời gian vận động, tiền đặt cọc của ứng viên) được điều chỉnh bởi Luật Bầu cử (Elections Act 1958) và Quy định Bầu cử (Tiến hành Bầu cử) 1981, có thể được sửa đổi theo từng thời điểm. Xác nhận các con số về giờ giấc và tiền đặt cọc mới nhất đối chiếu với văn bản quy định và thông báo chính thức của SPR tại spr.gov.my trước khi dựa vào chúng."
 
 lang: "vi"
+sourceContentHash: "d5825383db9e28fe"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

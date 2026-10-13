@@ -45,8 +45,9 @@ verificationNeeded:
   - "Apakah surat pengesahan ICA 10 mendukung permohonan fasilitas bank — MIDA tidak menyatakan demikian"
 
 lang: "id"
+sourceContentHash: "37caa4da5ba10819"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

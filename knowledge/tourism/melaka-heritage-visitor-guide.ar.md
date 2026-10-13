@@ -40,10 +40,11 @@ faq:
     a: "المتحف، في 48 و50 Jalan Tun Tan Cheng Lock، مغلق أيام الثلاثاء. ويفتح من 10:00 صباحًا حتى 4:15 مساءً في أيام العمل (عدا الثلاثاء) ومن 10:00 صباحًا حتى 4:45 مساءً في عطلة نهاية الأسبوع. ولأن المواعيد والأسعار قد تتغيّر، تأكّد منها في الموقع الرسمي للمتحف قبل الزيارة."
 
 lang: "ar"
+sourceContentHash: "e6af87197b8f50e1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -33,8 +33,9 @@ faq:
     a: "Susunan tiga tingkat — Mahkamah Rendah Syariah, Mahkamah Tinggi Syariah, dan Mahkamah Rayuan Syariah — adalah lazim, tetapi setiap negara bagian mendirikannya melalui enakmen negara bagiannya sendiri, sementara Wilayah Persekutuan diatur oleh Act 505. Batas yurisdiksi mal dari segi nilai uang ditetapkan oleh enakmen atau undang-undang masing-masing dan dapat berbeda antarnegara bagian."
 
 lang: "id"
+sourceContentHash: "8fac45bc244e70ad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ seoTitle: "Bahasa Melayu: Bahasa Kebangsaan di Bawah Perkara 152"
 socialTitle: "Bagaimana bahasa Melayu menjadi bahasa kebangsaan — dan berpindah dari Jawi ke Rumi"
 
 lang: "id"
+sourceContentHash: "1578825625379e44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

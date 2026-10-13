@@ -35,12 +35,13 @@ faq:
     a: "لا. تتّبع ماليزيا سياسة الجنسية الواحدة. وأساسها الدستوري هو المادة 23 (التخلي عن الجنسية) والمادة 24 (سحب الجنسية عند اكتساب الشخص جنسية دولة أخرى طواعيةً)، وتؤكّد بوابة MyGovernment هذه السياسة أيضًا. وقرار التخلي عن الجنسية الماليزية دائم. تحقّق من ظروفك الخاصة لدى دائرة التسجيل الوطني (JPN)."
 
 lang: "ar"
+sourceContentHash: "32332ac0d26401bb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

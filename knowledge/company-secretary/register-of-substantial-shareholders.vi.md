@@ -34,8 +34,9 @@ faq:
     a: "Một tội danh bị trừng phạt khi bị kết án bằng một khoản tiền phạt không quá RM1 triệu, và một khoản tiền phạt thêm lên tới RM1,000 cho mỗi ngày tội danh tiếp diễn sau khi kết án (section 137, với các tội danh song song trong các section 138 và 139)."
 
 lang: "vi"
+sourceContentHash: "608e7ade88de1522"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

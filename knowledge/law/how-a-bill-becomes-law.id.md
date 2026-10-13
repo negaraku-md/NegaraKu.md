@@ -36,8 +36,9 @@ faq:
     a: "Pasal 55(5) mengatur bahwa suatu rancangan undang-undang yang belum diputuskan di dalam Parlemen tidak gugur karena prorogasi Parlemen. Pasal 55(7) pula melindungi rancangan undang-undang yang menunggu perkenan dari kegugurannya karena prorogasi atau pembubaran Parlemen."
 
 lang: "id"
+sourceContentHash: "87bf8d58ce7f3cea"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

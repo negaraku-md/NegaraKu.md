@@ -63,10 +63,11 @@ obligations:
     consequence: "Strike-off under Subdivision 1 of Division 4 of Part IV"
 
 lang: "ar"
+sourceContentHash: "d3a6d48bf6f723f4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

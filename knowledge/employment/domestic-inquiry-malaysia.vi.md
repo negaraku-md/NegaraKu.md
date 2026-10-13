@@ -58,8 +58,9 @@ obligations:
     consequence: "Quá hạn, Tổng Giám đốc không có quyền hủy bỏ quyết định"
 
 lang: "vi"
+sourceContentHash: "8ee48ba95a64ad88"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

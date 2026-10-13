@@ -34,10 +34,11 @@ faq:
     a: "تغطية Act (الطرف الثالث) هي الحد الأدنى القانوني ولا تدفع إلا عن إصابة الطرف الثالث أو وفاته. وتغطية الطرف الثالث والحريق والسرقة تضيف الحماية إذا احترقت سيارتك أو سُرقت. أما التغطية الشاملة فهي الأوسع، وتدفع أيضًا عن الأضرار العرضية التي تلحق بمركبتك."
 
 lang: "ar"
+sourceContentHash: "f3e95ab7db734acf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

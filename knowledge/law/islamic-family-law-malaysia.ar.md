@@ -30,12 +30,13 @@ faq:
     a: "بموجب المادة 81 من Act 303، الأم هي الأحق بحضانة الطفل الصغير. وإذا فقدت الأم الأهلية وفق الشريعة الإسلامية، ينتقل الحق وفق ترتيب الأولوية المقرر، مع اعتبار مصلحة الطفل الاعتبار الأسمى."
 
 lang: "ar"
+sourceContentHash: "4f9d82016cc77fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

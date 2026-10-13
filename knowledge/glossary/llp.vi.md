@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "Người sáng lập, người hành nghề chuyên môn và cố vấn đang lựa chọn giữa một LLP và một Sdn Bhd, hoặc đang đọc một tên PLT trên hợp đồng."
 
 lang: "vi"
+sourceContentHash: "9e60329bba13d6ae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

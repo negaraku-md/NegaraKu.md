@@ -27,8 +27,9 @@ faq:
     a: "Theo mục 593 của Companies Act 2016, một tuyên bố hoặc báo cáo sai gửi Cơ quan Đăng ký (SSM) có thể bị phạt tù tới 10 năm, phạt tới RM3 triệu, hoặc cả hai."
 
 lang: "vi"
+sourceContentHash: "e1c1cbfc3de7c89d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

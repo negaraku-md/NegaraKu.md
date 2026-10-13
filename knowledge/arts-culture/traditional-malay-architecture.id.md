@@ -27,8 +27,9 @@ faq:
     a: "Rumah Melayu lazimnya menampung satu keluarga, sedangkan rumah panjang (rumah panjang) menampung banyak keluarga dalam satu bangunan memanjang — setiap keluarga memiliki bilik (bilek) sendiri, berbagi galeri komunal bernama ruai."
 
 lang: "id"
+sourceContentHash: "6e6d63e898f4ad35"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "كل من في ماليزيا — مواطنًا كان أم مقيمًا أم حامل تصريح عمل أم طالبًا أم سائحًا — ممن يحتاج إلى شراء شريحة هاتف محلية أو تسجيلها."
 
 lang: "ar"
+sourceContentHash: "5f238099826ab02d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

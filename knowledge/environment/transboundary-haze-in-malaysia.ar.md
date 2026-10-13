@@ -32,12 +32,13 @@ faq:
     a: "السبب الرئيسي هو حرائق الأراضي والغابات — بما فيها حرائق أراضي الخثّ وإزالة الغطاء النباتي بالقطع والحرق لأغراض الزراعة — في سومطرة وكاليمانتان، وهي حرائق تصبح أكثر تواتراً وشدّة خلال مواسم الجفاف المتأثرة بظاهرة النينيو."
 
 lang: "ar"
+sourceContentHash: "f6dc09ddaaf77bcf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

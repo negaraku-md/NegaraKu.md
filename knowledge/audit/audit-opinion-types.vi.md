@@ -41,8 +41,9 @@ verificationNeeded:
   - "Xác nhận rằng AAPG 1 và AAPG 2 sửa đổi tháng 6 năm 2021 vẫn là các báo cáo minh họa hiện hành của MIA và chưa bị thay thế bởi một bản sửa đổi sau này"
 
 lang: "vi"
+sourceContentHash: "b166913dca839ae9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -44,10 +44,11 @@ verificationNeeded:
   - "لا تحدّد الإرشادات أي مدة دنيا أو قصوى لسند استثمار P2P؛ ولم يُعثر إلا على حد أدنى قدره 3 أشهر لفترة السداد المتبقية لقبول السوق الثانوي"
 
 lang: "ar"
+sourceContentHash: "000a7355af87eb83"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

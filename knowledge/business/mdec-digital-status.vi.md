@@ -52,8 +52,9 @@ obligations:
     consequence: "Tình trạng MD chỉ vĩnh viễn khi các điều kiện tiếp tục được đáp ứng"
 
 lang: "vi"
+sourceContentHash: "d30f4b105a3a1150"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

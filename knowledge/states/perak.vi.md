@@ -40,8 +40,9 @@ verificationNeeded:
   - "Cập nhật con số dân số và GDP khi ấn phẩm mới hơn của DOSM được công bố."
 
 lang: "vi"
+sourceContentHash: "79feefd0c909668c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

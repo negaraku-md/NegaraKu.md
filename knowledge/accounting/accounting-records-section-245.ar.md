@@ -56,10 +56,11 @@ verificationNeeded:
   - "لا تنشر SSM أي جدول للمصالحة (compound) بشأن مخالفات المادة 245 — والغرامة المذكورة هي الحد الأقصى عند الإدانة بموجب المادة 245(9)، وليست مصالحة إدارية"
 
 lang: "ar"
+sourceContentHash: "45066b2b4838e7ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -18,8 +18,9 @@ keyTakeaways:
   - "Chiếc kebaya, trung tâm của trang phục Nyonya, được ghi vào danh sách di sản phi vật thể của UNESCO năm 2024 trong một hồ sơ đề cử chung của Brunei, Indonesia, Malaysia, Singapore và Thái Lan"
 appliesTo: "Bất kỳ ai muốn có một tổng quan thực tế, tôn trọng về người Peranakan (Baba-Nyonya) là ai, và cách nhận ra ẩm thực, trang phục và di sản vật chất của họ ở Malacca và Penang."
 lang: "vi"
+sourceContentHash: "b8424f95164f1085"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

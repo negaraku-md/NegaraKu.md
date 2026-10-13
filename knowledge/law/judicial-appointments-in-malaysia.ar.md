@@ -30,12 +30,13 @@ faq:
     a: "نعم، لكن فقط عبر إجراء المادة 125. يُرفع طلب إلى يانغ دي-بيرتوان أغونغ، الذي يُنشئ عندئذٍ محكمة تأديبية تتألف من خمسة أشخاص على الأقل ممن يشغلون أو شغلوا منصبًا قضائيًا. والأسباب محصورة في مخالفة مدونة الأخلاقيات أو العجز عن أداء واجبات المنصب."
 
 lang: "ar"
+sourceContentHash: "609ac0242c162e91"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

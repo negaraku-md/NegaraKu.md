@@ -35,8 +35,9 @@ faq:
     a: "Mục 14 quy định tù đến hai năm hoặc phạt tiền đến RM50,000 hoặc cả hai cho vi phạm lần đầu, và đến năm năm tù hoặc phạt tiền RM100,000 cho vi phạm lần thứ hai hoặc tiếp theo. Cha mẹ hoặc người giám hộ cố ý để việc vi phạm đó xảy ra cũng có thể bị áp dụng hình phạt."
 
 lang: "vi"
+sourceContentHash: "4ad258e80f1299ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

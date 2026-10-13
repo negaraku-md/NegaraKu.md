@@ -30,8 +30,9 @@ faq:
     a: "Không phải từ phần thân của đạo luật. Thuế suất nằm trong các Phụ lục của Act 53, chủ yếu là Phụ lục 1, và được các Luật Tài chính thay đổi. Các khoản miễn giảm, khấu trừ và miễn thuế phần lớn được cung cấp bởi văn bản pháp luật thứ cấp — các lệnh và quy tắc P.U.(A) — đó là lý do chỉ riêng đạo luật không bao giờ trả lời được một câu hỏi về thuế suất."
 
 lang: "vi"
+sourceContentHash: "e0dfb2c4642360c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -32,10 +32,11 @@ faq:
     a: "نعم. كلتاهما تتداول في السوق الرئيسية لبورصة ماليزيا (Bursa Malaysia). وTop Glove مدرجة إضافةً إلى ذلك في السوق الرئيسية لبورصة سنغافورة (Singapore Exchange)."
 
 lang: "ar"
+sourceContentHash: "a45b971c54bb5789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

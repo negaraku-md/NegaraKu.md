@@ -33,10 +33,11 @@ faq:
     a: "للمحكمة العليا سلطة تقسيم الأموال المكتسبة أثناء الزواج بموجب المادة 76، مع مراعاة المساهمات المالية وغير المالية، والديون المتكبَّدة لمنفعة الأسرة، واحتياجات الأطفال، ومدة الزواج. والتقسيم ليس بالضرورة 50:50."
 
 lang: "ar"
+sourceContentHash: "9844bf61f2e89ad7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

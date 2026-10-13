@@ -33,8 +33,9 @@ faq:
     a: "Mục 366(1) dự liệu một cuộc họp do tòa án ra lệnh của loại bị ảnh hưởng, và một lệnh xác lập quyền theo mục 370 giả định trước một phương án được phê duyệt theo mục 366. Việc tòa án có thể miễn cuộc họp khi kết quả không có tranh chấp thực sự hay không là một câu hỏi còn bỏ ngỏ mà những người hành nghề đã nêu, và câu trả lời nhạy cảm với sự kiện. Đừng giả định rằng một cuộc họp có thể được bỏ qua; hãy tham khảo tư vấn pháp lý Malaysia về cấu trúc cụ thể."
 
 lang: "vi"
+sourceContentHash: "c7201bb6830e2b18"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

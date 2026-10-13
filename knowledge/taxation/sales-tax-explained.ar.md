@@ -53,10 +53,11 @@ obligations:
     consequence: "غرامة 10% ترتفع إلى 25% و40%، وغرامة مالية تصل إلى RM50,000 أو السجن ثلاث سنوات"
 
 lang: "ar"
+sourceContentHash: "3746823d8f4516ea"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

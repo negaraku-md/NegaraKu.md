@@ -37,10 +37,11 @@ faq:
     a: "استقال زي جيا من BAM في يناير 2022 ليصبح لاعبًا مستقلًا بعد نحو عقد مع الهيئة منذ سن الثالثة عشرة. أراد التركيز على تدريبه الخاص وتحسين تصنيفه، وشدّد على أنه سواء أكان لاعبًا وطنيًا أم لاعبًا مستقلًا، فإنهم ما زالوا يرفعون العلم الماليزي (Jalur Gemilang)."
 
 lang: "ar"
+sourceContentHash: "a0c4b7207a1ac775"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

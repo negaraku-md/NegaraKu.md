@@ -36,10 +36,11 @@ faq:
     a: "التوجيه العملي 10/2024 لا ينطبق تحديداً على الشركة الخاصة التي تكون شركة تابعة لشركة عامة، ولا على الشركات العامة بما فيها الشركات المدرجة، ولا على الشركات الأجنبية، ولا على الشركات الخاصة المعفاة (exempt private company) التي اختارت إيداع شهادة حالة بموجب المادة 260 من CA 2016."
 
 lang: "ar"
+sourceContentHash: "1f9465f320d07544"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -33,8 +33,9 @@ faq:
     a: "Tòa Thượng thẩm có quyền phân chia tài sản được tạo ra trong suốt cuộc hôn nhân theo điều 76, có tính đến các đóng góp tài chính và phi tài chính, nợ vì lợi ích gia đình, nhu cầu của con cái, và thời gian hôn nhân. Việc phân chia không nhất thiết là 50:50."
 
 lang: "vi"
+sourceContentHash: "9844bf61f2e89ad7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

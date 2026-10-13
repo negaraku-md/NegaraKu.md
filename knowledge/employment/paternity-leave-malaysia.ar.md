@@ -28,10 +28,11 @@ verificationNeeded:
   - "تأكيد ما إذا كان شرط الخدمة لمدة اثني عشر شهرًا يحتمل انقطاعًا في الخدمة، وكيف تُحسب الخدمة المتصلة لأغراض المادة 60FA"
 
 lang: "ar"
+sourceContentHash: "97900bf02693ecc5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

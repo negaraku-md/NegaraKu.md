@@ -34,10 +34,11 @@ faq:
     a: "كان آخر فوز لماليزيا بلقب الريغو الجماعي في كأس الملك عام 1988. وبحلول 2024 بلغ هذا الانتظار نحو 36 عامًا حين خسرت ماليزيا 0-2 أمام المستضيفة تايلاند في ناخون راتشاسيما."
 
 lang: "ar"
+sourceContentHash: "a468b0e147901427"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

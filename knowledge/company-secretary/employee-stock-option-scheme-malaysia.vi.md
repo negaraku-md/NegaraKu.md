@@ -33,8 +33,9 @@ faq:
     a: "Trong vòng 30 ngày sau khi thời hạn chấp nhận quyền chọn hết hạn, người sử dụng lao động phải thông báo cho Cục Thuế Nội địa về chương trình (một thông báo theo section 83 của Income Tax Act 1967). Khi một người lao động thực hiện quyền, người sử dụng lao động báo cáo khoản lợi lộc trong mẫu EA của người lao động đó cho năm, gửi các chi tiết thực hiện quyền cho chi nhánh LHDN của mình, và khấu trừ thuế qua khấu trừ thuế hằng tháng (hoặc một chỉ thị CP38) trong tháng thực hiện quyền."
 
 lang: "vi"
+sourceContentHash: "e702999cb1629878"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Menurut jawaban parlemen yang dilaporkan Bernama, Malaysia mengekspor durian bernilai RM6.37 miliar — kira-kira 115,359 ton metrik — ke Tiongkok antara 2018 hingga 2025. Target nilai ekspor pada 2030 diperkirakan mencapai RM1.8 miliar dengan jumlah 69,000 ton metrik."
 
 lang: "id"
+sourceContentHash: "c21f23e862b9d969"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

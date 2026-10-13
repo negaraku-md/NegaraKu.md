@@ -38,8 +38,9 @@ verificationNeeded:
   - "Verifikasi tanggal yang ditandai sebagai tertakluk pada perubahan dalam jadwal Bahagian Kabinet — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan, dan hari kedua Hari Raya Qurban semuanya ditandai"
 
 lang: "id"
+sourceContentHash: "c9161f47701aa87c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

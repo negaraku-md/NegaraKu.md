@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai — lữ khách, người sử dụng lao động, sinh viên, hay người đọc về chế độ liên bang Malaysia — muốn có một trình bày rõ ràng, mô tả về các bảo đảm hiến pháp mà Sabah và Sarawak nắm giữ, và mỗi bảo đảm được ghi ở đâu, mà không đứng về bên nào trong cuộc tranh luận về cách chúng được thực hiện."
 
 lang: "vi"
+sourceContentHash: "468d0412b31978aa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

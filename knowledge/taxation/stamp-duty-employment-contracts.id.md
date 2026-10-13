@@ -46,8 +46,9 @@ obligations:
     consequence: "Penalti RM50 atau 10% dari bea yang kurang dibayar dalam 3 bulan, RM100 atau 20% setelahnya, di bawah Pasal 47A"
 
 lang: "id"
+sourceContentHash: "fb44d17d11dacffd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

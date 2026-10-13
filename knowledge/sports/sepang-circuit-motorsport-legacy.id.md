@@ -37,8 +37,9 @@ faq:
     a: "Insinyur Jerman Hermann Tilke merancangnya — sirkuit Formula 1 pertama yang dirancang khusus olehnya. Tata letak Grand Prix sepanjang 5.543 km dengan 15 tikungan dan lebar lintasan antara 16 hingga 20 meter."
 
 lang: "id"
+sourceContentHash: "a2a0e6bd77b78348"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

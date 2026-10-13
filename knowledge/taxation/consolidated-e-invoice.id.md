@@ -42,8 +42,9 @@ verificationNeeded:
   - "Apakah pengecualian kasino dan mesin permainan dari aturan pembayaran taruhan memiliki tanggal berakhir — LHDN menyatakan sampai pemberitahuan selanjutnya"
 
 lang: "id"
+sourceContentHash: "1b4f5e59594a8f17"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

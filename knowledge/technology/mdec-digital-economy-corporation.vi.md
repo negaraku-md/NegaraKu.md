@@ -27,8 +27,9 @@ faq:
   - q: "MDEC có giống với MSC Malaysia không?"
     a: "Không. MDEC là cơ quan; MSC Malaysia là chương trình trước đó của nó. MSC Malaysia đã được đổi thương hiệu thành Malaysia Digital, và Quy chế MD là kế thừa của Quy chế MSC Malaysia trước đây."
 lang: "vi"
+sourceContentHash: "4aca195eadff6ca3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

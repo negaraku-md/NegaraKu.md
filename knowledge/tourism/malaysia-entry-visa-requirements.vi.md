@@ -37,8 +37,9 @@ faq:
     a: "Du khách từ 63 quốc gia đủ điều kiện có thể dùng các cổng tự động của Malaysia, với điều kiện họ đã nộp MDAC ít nhất ba ngày trước khi đi. Người dùng lần đầu có thể cần đăng ký tại một quầy trước khi dùng cổng."
 
 lang: "vi"
+sourceContentHash: "cdbee74bde6667f6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "Liệu một trang hộ chiếu trống có được yêu cầu chính thức để nhập cảnh hay không (không được nêu trên nguồn MIDA được trích dẫn)."

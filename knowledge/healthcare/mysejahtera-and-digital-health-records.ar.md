@@ -29,10 +29,11 @@ faq:
     a: "كشف تقرير المدقق العام الذي عُرض في البرلمان في فبراير 2023 أن المعلومات الشخصية لـ 3 ملايين متلقٍّ للقاح جرى تنزيلها عبر حساب 'Super Admin' في نظام MyVAS بين 28 و31 أكتوبر 2021."
 
 lang: "ar"
+sourceContentHash: "1889bed64a5f738d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

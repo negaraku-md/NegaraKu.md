@@ -24,8 +24,9 @@ verificationNeeded:
   - "Xác nhận liệu SSM đã ban hành bất kỳ hướng dẫn thực thi nào về khoảng cách được kỳ vọng giữa thông báo s.60C thứ nhất và thứ hai hay chưa"
 
 lang: "vi"
+sourceContentHash: "d0074a8a9e509a8c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

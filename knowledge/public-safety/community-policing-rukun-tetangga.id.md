@@ -31,8 +31,9 @@ faq:
     a: "Rukun Tetangga diawasi oleh Jabatan Perpaduan Negara dan Integrasi Nasional (JPNIN) di bawah Kementerian Perpaduan Negara. Dasar hukumnya adalah Akta Rukun Tetangga 2012 (Akta 751)."
 
 lang: "id"
+sourceContentHash: "79fa6f589efc75aa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

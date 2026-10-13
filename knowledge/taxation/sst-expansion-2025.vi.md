@@ -56,8 +56,9 @@ obligations:
     consequence: "Chế tài nộp trễ leo thang và truy tố"
 
 lang: "vi"
+sourceContentHash: "d706192580f6eecf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

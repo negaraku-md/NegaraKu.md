@@ -41,10 +41,11 @@ verificationNeeded:
   - "الجدول 1 الجزء XVIII يضع سقفًا للمعدل المفروض على غير المواطن المقيم في منصب رئيسي ضمن خطة حوافز معتمدة لا يتجاوز 20% — والمعدل المنطبق مقرَّر خطةً خطةً ولم يُتحقَّق منه"
 
 lang: "ar"
+sourceContentHash: "361de000de2978ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

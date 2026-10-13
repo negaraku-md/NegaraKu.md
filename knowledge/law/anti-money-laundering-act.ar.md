@@ -29,12 +29,13 @@ faq:
     a: "بموجب الجزء السادس، يجوز لجهاز إنفاذ إصدار أمر تجميد، ويجوز لضابط تحقيق ضبط الممتلكات المنقولة أثناء التحقيق، وتملك النيابة العامة صلاحيات إضافية للضبط والمصادرة."
 
 lang: "ar"
+sourceContentHash: "03583a7602b0f6ef"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

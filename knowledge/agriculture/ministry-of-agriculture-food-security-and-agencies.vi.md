@@ -30,8 +30,9 @@ faq:
     a: "Control of Paddy and Rice Act 1994 (Act 522). Gạo là một mặt hàng được kiểm soát; Tổng Giám đốc Quản lý Lúa và Gạo cấp giấy phép và giấy phép cho việc xay xát, bán buôn, bán lẻ, nhập khẩu, xuất khẩu và di chuyển giữa các bang."
 
 lang: "vi"
+sourceContentHash: "88877cb8976d9b28"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

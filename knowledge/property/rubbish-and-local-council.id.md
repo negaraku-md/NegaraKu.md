@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang tinggal di Malaysia dan perlu memahami siapa yang mengumpulkan sampah di kawasan mereka, apakah mereka wajib memilah limbah di sumber, dan apa risikonya jika tidak."
 
 lang: "id"
+sourceContentHash: "0280d12a6ccc5b9e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

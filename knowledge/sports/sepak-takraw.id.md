@@ -34,8 +34,9 @@ faq:
     a: "Kemenangan gelar regu tim Piala Raja terakhir Malaysia adalah pada 1988. Menjelang 2024, penantian itu telah mencapai sekitar 36 tahun ketika Malaysia kalah 0-2 kepada tuan rumah Thailand di Nakhon Ratchasima."
 
 lang: "id"
+sourceContentHash: "a468b0e147901427"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

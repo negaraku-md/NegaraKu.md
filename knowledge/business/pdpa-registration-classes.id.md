@@ -38,8 +38,9 @@ obligations:
     consequence: "Denda hingga RM250,000 atau 2 tahun karena melanjutkan pemrosesan setelah kedaluwarsa"
 
 lang: "id"
+sourceContentHash: "0a5d002129db4742"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

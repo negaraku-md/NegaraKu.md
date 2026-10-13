@@ -30,8 +30,9 @@ faq:
     a: "Sebelum amendemen 2024, jalur kekuatan undang-undang Pasal 14(1)(b) berlaku apabila ayah warga negara; berikutan putusan Mahkamah Rayuan pada 5 Agustus 2023 (kasus Suriani Kempe & Ors lwn Kerajaan Malaysia), permohonan Formulir D oleh ibu warga negara dibekukan, sebagaimana tercatat dalam panduan Family Frontiers. Akta amendemen yang disahkan pada Oktober 2024 menyetarakan hak ibu dan ayah, tetapi hanya untuk anak yang lahir setelah ia berlaku. Bagi anak di bawah 18 tahun yang lahir sebelum itu, jalur Pasal 15(2) (Formulir B) digunakan."
 
 lang: "id"
+sourceContentHash: "2a31c142e3a5bd2c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

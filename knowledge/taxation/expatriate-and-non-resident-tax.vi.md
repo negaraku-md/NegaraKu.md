@@ -41,8 +41,9 @@ verificationNeeded:
   - "Schedule 1 Part XVIII giới hạn thuế suất đối với người không phải công dân nhưng cư trú giữ vị trí then chốt theo một chương trình ưu đãi được phê duyệt ở mức không quá 20% — thuế suất áp dụng được quy định theo từng chương trình và chưa được kiểm chứng"
 
 lang: "vi"
+sourceContentHash: "361de000de2978ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

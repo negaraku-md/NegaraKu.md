@@ -28,8 +28,9 @@ verificationNeeded:
   - "Khi một khoản vay đề xuất vượt quá giới hạn tương đương RM100 triệu, quy trình phê duyệt bằng văn bản và các tiêu chí đánh giá không được công bố đầy đủ; FAQ chỉ lưu ý rằng BNM sẽ cân nhắc các yếu tố đã nêu"
 
 lang: "vi"
+sourceContentHash: "7f6734fed0eab6e8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -56,8 +56,9 @@ obligations:
     consequence: "Penalti di bawah s.26A(3) dan denda hingga RM50,000 atau tiga tahun di bawah s.26A(2)"
 
 lang: "id"
+sourceContentHash: "d0f4a6d7cbea76f7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

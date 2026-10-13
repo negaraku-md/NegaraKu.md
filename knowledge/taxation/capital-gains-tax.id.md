@@ -49,8 +49,9 @@ obligations:
     consequence: "Penetapan oleh Direktur Jenderal, dengan penalti di bawah Income Tax Act 1967"
 
 lang: "id"
+sourceContentHash: "16cead0c42c9de23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

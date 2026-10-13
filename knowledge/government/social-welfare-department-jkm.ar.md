@@ -28,9 +28,10 @@ faq:
   - q: "كيف أُسجّل بصفتي من ذوي الإعاقة (OKU)؟"
     a: "يُقدّم المواطنون الماليزيون المُصدَّق عليهم من قِبَل خبير طبي حكومي استمارة تسجيل BPPOKU (التعديل 2/2019) مع تقرير تحقّق طبي ونسخة من MyKad (أو شهادة ميلاد للمتقدمين دون سن 12)، إما عند منصة JKM أو عبر الإنترنت عبر بوابة MyDaftar OKU. ويتلقّى المتقدّم الناجح بطاقة OKU تُبيّن فئة إعاقته."
 lang: "ar"
+sourceContentHash: "f9a688b158d9b46c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memperoleh pemahaman tingkat orientasi tentang industri minyak kelapa sawit Malaysia dan peran ekonominya."
 
 lang: "id"
+sourceContentHash: "15826b7bb2b208ce"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

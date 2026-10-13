@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "السكان والمخططون وكل من يقارن قابلية المشي وبنية ركوب الدراجات في المدن الماليزية بالدول الأخرى."
 
 lang: "ar"
+sourceContentHash: "3d0d276aec4c1fe4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

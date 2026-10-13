@@ -37,8 +37,9 @@ faq:
     a: "Pelancong dari 63 negara yang memenuhi syarat bisa menggunakan gerbang otomatis Malaysia, dengan syarat mereka mengajukan MDAC sekurang-kurangnya tiga hari sebelum perjalanan. Pengguna pertama kali mungkin perlu mendaftar di loket sebelum menggunakan gerbang tersebut."
 
 lang: "id"
+sourceContentHash: "cdbee74bde6667f6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "Apakah halaman paspor kosong secara formal diperlukan untuk masuk (tidak dinyatakan pada sumber MIDA yang dikutip)."

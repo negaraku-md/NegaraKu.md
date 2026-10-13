@@ -33,8 +33,9 @@ faq:
     a: "Không. RCEP và CPTPP là các hiệp định riêng biệt với thành viên và quy tắc khác nhau. Malaysia là một bên của RCEP; hai hiệp định trùng nhau ở một số thành viên nhưng được đàm phán độc lập."
 
 lang: "vi"
+sourceContentHash: "f7e0957c6988f3a8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

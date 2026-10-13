@@ -37,12 +37,13 @@ verificationNeeded:
   - "تحقّق من الحجم الراهن لمجلس الوزراء وقائمة الوزارات الراهنة بالرجوع إلى المنشورات الرسمية لدائرة رئيس الوزراء (Prime Minister's Department) — فالدستور لا يحدّد عدد الوزراء."
 
 lang: "ar"
+sourceContentHash: "0f9a6fea7774269c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

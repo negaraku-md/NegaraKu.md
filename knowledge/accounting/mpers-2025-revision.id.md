@@ -38,8 +38,9 @@ faq:
     a: "Kurang dari apa yang ditunjukkan oleh tanggal 2027. Penerapan secara retrospektif berarti periode perbandingan perlu disusun atas dasar baru, jadi sebuah perusahaan dengan tahun berakhir Desember sedang menangkap data MPERS (2025) sejak 1 Januari 2026 dan seterusnya. Jika kontrak pendapatan memerlukan analisis ulang, pekerjaan dimulai sebelum tahun transisi, bukan di dalamnya."
 
 lang: "id"
+sourceContentHash: "016de66c249cb162"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

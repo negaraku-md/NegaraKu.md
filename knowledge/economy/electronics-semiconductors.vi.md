@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đánh giá mức phơi nhiễm kinh tế của Malaysia — nhà đầu tư, người tìm việc, nhà hoạch định chính sách và người nghiên cứu thương mại."
 
 lang: "vi"
+sourceContentHash: "f587a0bc65cbc1af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

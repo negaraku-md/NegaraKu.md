@@ -40,8 +40,9 @@ verificationNeeded:
   - "Pastikan teks dan status terkini pengumuman LHDN mengenai Pasal 77A ayat (4) langsung dengan LHDN — halaman pengumuman tersebut tidak dapat diakses saat penulisan dan dikutip di sini melalui FAQ pengecualian audit SSM"
   - "Pastikan tanggal fase wajib MBRS 2.0 terkini dan titik masuk pada halaman MBRS SSM"
 lang: "id"
+sourceContentHash: "10c01141306ea188"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

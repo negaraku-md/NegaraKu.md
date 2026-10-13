@@ -33,8 +33,9 @@ faq:
     a: "Không. Giáo dục đại học nằm dưới một luật riêng. Section 71 của Education Act 1996 tách các cơ sở giáo dục đại học tư ra, và chúng được điều chỉnh bởi Private Higher Educational Institutions Act 1996 (Act 555), được Bộ Giáo dục Đại học (MOHE) quản lý. Bạn cần một Letter of Authorization để thành lập, rồi đăng ký với Registrar General of PHEIs và một Certificate of Registration, cộng với phê duyệt chương trình học và công nhận MQA cho các chương trình của bạn — một chế độ nặng hơn một trung tâm dạy thêm hoặc trường học."
 
 lang: "vi"
+sourceContentHash: "d390cb119ff8a023"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

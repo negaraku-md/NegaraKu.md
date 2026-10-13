@@ -35,8 +35,9 @@ seoTitle: "Orang Asli: Tiga Kelompok Utama, 18 Suku, dan JAKOA"
 socialTitle: "Siapa Orang Asli — tiga kelompok, 18 suku, dan lembaga yang menjaganya"
 
 lang: "id"
+sourceContentHash: "22c8505f8289ae57"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

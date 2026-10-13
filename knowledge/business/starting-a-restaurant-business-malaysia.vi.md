@@ -33,8 +33,9 @@ faq:
     a: "Mức lương tối thiểu quốc gia là RM1,700 một tháng, được đặt bởi Minimum Wages Order 2024. Nó áp dụng cho các người sử dụng lao động có năm người lao động trở lên từ ngày 1 tháng 2 năm 2025, và cho tất cả các người sử dụng lao động còn lại từ ngày 1 tháng 8 năm 2025 — nên từ tháng 8 năm 2025 nó bao trùm về cơ bản mọi nhà hàng bất kể quy mô."
 
 lang: "vi"
+sourceContentHash: "8140436515390d62"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

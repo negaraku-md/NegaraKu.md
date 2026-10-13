@@ -25,8 +25,9 @@ verificationNeeded:
   - "Angka titik impas ilustratif dalam artikel ini adalah aritmetika pada tabel jalur yang diterbitkan, bukan ambang yang diterbitkan LHDN; ia berubah menurut keringanan yang sebenarnya diklaim oleh setiap pasangan"
 
 lang: "id"
+sourceContentHash: "9439aef0bb0b111f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

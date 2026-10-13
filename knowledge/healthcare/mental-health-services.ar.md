@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "كل من في ماليزيا — مواطناً كان أو مقيماً أو زائراً — ممن يقلق على صحته النفسية أو صحة شخص آخر، ويريد أن يعرف بشكل ملموس من أين يبدأ: عيادة، أو مستشفى، أو ممارس خاص، أو منظمة غير حكومية، أو خط مساعدة."
 
 lang: "ar"
+sourceContentHash: "4ecc5497514e228e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

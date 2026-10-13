@@ -30,8 +30,9 @@ faq:
     a: "Đối với các tội danh không có hình phạt cụ thể, Điều 24 quy định phạt tù đến hai năm hoặc phạt tiền hoặc cả hai đối với tội danh lần đầu. Điều 25 thì cho phép nộp phạt thay thế truy tố đến RM1,000 theo văn bản gốc của đạo luật. Các mức này là chủ đề của một sửa đổi được Dewan Rakyat thông qua năm 2024."
 
 lang: "vi"
+sourceContentHash: "e9a7651147874f41"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -27,10 +27,11 @@ faq:
     a: "لجنة المنافسة الماليزية (MyCC)، وهي هيئة قانونية مستقلة، تحقّق في المخالفات المشتبه بها ويمكنها فرض عقوبات مالية وإصدار توجيهات."
 
 lang: "ar"
+sourceContentHash: "6a2eea7b75db3f8c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

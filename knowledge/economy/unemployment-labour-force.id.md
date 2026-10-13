@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang menafsirkan data pasar tenaga kerja Malaysia — pencari kerja, pemberi kerja, pembuat kebijakan, dan analis."
 
 lang: "id"
+sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

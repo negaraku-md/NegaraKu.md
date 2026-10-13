@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai sống ở Malaysia và cần hiểu ai thu gom rác ở khu vực của họ, liệu họ có bắt buộc phải phân loại rác tại nguồn hay không, và rủi ro là gì nếu không làm."
 
 lang: "vi"
+sourceContentHash: "0280d12a6ccc5b9e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

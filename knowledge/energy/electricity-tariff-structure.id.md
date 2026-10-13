@@ -27,8 +27,9 @@ faq:
     a: "Tidak. Biaya Ritel RM10 sebulan dikecualikan bagi rumah tangga yang menggunakan 600 kWh atau kurang sebulan."
 
 lang: "id"
+sourceContentHash: "6f49b99389da2c61"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

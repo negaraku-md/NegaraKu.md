@@ -31,10 +31,11 @@ faq:
     a: "سيفاسانغاري سوبرامانيام، التي بلغت أعلى مرتبة في مسيرتها وهي السادسة عالميًا في أكتوبر 2025، ونغ إين يو، الذي فاز بكأس ماليزيا للإسكواش ACE لعام 2024 على أرضه."
 
 lang: "ar"
+sourceContentHash: "47a1ae4a8ea8c4dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -34,8 +34,9 @@ seoTitle: "Bahasa Melayu: Ngôn ngữ Quốc gia theo Điều 152"
 socialTitle: "Tiếng Mã Lai trở thành ngôn ngữ quốc gia ra sao — và chuyển từ Jawi sang Rumi"
 
 lang: "vi"
+sourceContentHash: "1578825625379e44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

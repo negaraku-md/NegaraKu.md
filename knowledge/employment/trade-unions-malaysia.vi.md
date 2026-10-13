@@ -34,8 +34,9 @@ faq:
     a: "Quyền thương lượng tập thể duy nhất được xác định theo Industrial Relations Act 1967. Nếu người lao động không đạt được đồng thuận, có thể nộp đơn cho Tổng Giám đốc Quan hệ Công nghiệp, người có thể tổ chức một cuộc bỏ phiếu kín để chọn đại diện thương lượng."
 
 lang: "vi"
+sourceContentHash: "3512cd3f05dbac9a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

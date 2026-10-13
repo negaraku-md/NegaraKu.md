@@ -30,8 +30,9 @@ faq:
     a: "Menurut JKKN, DKK 1971 menjadi landasan bagi Dasar Kebudayaan Negara (DAKEN) 2021 yang berlandaskan tujuh pilar dengan masa pelaksanaan 2021-2025. JKKN turut menyatakan DKK 1971 tidak pernah disahkan secara resmi di tingkat Kabinet, meskipun ia memandu administrasi selama kira-kira 50 tahun."
 
 lang: "id"
+sourceContentHash: "8ad5677b6225effa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

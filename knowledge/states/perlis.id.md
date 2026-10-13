@@ -35,8 +35,9 @@ verificationNeeded:
   - "Verifikasi ulang alokasi Perlis Inland Port (RM318.0 juta infrastruktur, RM1.2 miliar investasi swasta) dan enam kawasan administratif terhadap MKN setelah mkn.gov.my dapat diakses; situs tersebut tidak aktif selama proses verifikasi ulang terakhir, sehingga angka-angka ini bersandar pada pemeriksaan asli 2026-07-24."
 
 lang: "id"
+sourceContentHash: "f8950ccf72fcaab1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "Kelompok MISC melaporkan pendapatan TK2024 sebesar RM13,237.5 juta, penurunan 7.2% dari RM14,271.7 juta pada TK2023, dengan laba setelah pajak RM1,233.2 juta."
 
 lang: "id"
+sourceContentHash: "29aaf63ab9013b28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

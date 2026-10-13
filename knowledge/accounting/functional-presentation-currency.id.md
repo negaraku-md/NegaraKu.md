@@ -34,8 +34,9 @@ faq:
     a: "Tidak. Mata uang fungsional mencerminkan transaksi dan keadaan yang mendasari, jadi ia berubah hanya apabila fakta tersebut berubah — misalnya, peralihan nyata dalam mata uang yang mendorong harga jual dan biaya. Ia bukan kebijakan akuntansi yang Anda pilih dari periode ke periode."
 
 lang: "id"
+sourceContentHash: "f9e8ad1f0c1fc778"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

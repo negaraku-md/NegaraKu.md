@@ -31,8 +31,9 @@ faq:
     a: "Nói chung là không. Khi quỹ được miễn theo section 61A, thu nhập chưa bị đánh thuế, nên khoản phân phối không mang một khoản tín dụng thuế section 110 mà một người nắm giữ chứng chỉ có thể cấn trừ. Một khoản tín dụng chỉ phát sinh khi chính quỹ bị đánh thuế (ví dụ, khi nó phân phối dưới 90%)."
 
 lang: "vi"
+sourceContentHash: "74ef95198966c611"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

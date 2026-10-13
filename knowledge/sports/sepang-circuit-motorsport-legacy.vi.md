@@ -37,8 +37,9 @@ faq:
     a: "Kỹ sư người Đức Hermann Tilke thiết kế nó — trường đua Formula 1 chuyên biệt đầu tiên của ông. Bố cục Grand Prix dài 5.543 km với 15 khúc cua và chiều rộng đường đua dao động từ 16 đến 20 mét."
 
 lang: "vi"
+sourceContentHash: "a2a0e6bd77b78348"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

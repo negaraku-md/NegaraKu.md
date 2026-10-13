@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tìm kiếm một hiểu biết ở mức định hướng về ngành công nghiệp dầu cọ của Malaysia và vai trò kinh tế của nó."
 
 lang: "vi"
+sourceContentHash: "15826b7bb2b208ce"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

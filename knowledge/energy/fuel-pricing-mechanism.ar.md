@@ -27,10 +27,11 @@ faq:
     a: "يُثبَّت سعر البنزين RON95 المدعوم عند RM1.99 لكل لتر للمواطنين المؤهلين في إطار برنامج BUDI95، لكن سعر السوق العام غير المدعوم يتقلب تماشياً مع آلية APM."
 
 lang: "ar"
+sourceContentHash: "77fbc98bce7fd506"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "كل من يرغب في فهم البنية الدستورية لماليزيا — الطلاب والباحثون والصحفيون والقراء العامون — وكذلك كل من يحتاج إلى معرفة الأحكام التي تتطلب موافقة مجلس الحكام أو مشاورته."
 
 lang: "ar"
+sourceContentHash: "b582d091b8a771db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -34,8 +34,9 @@ faq:
     a: "Số tiền khác nhau theo nước nguồn — RM250 (Indonesia, Thái Lan, Campuchia), RM750 (Philippines, Sri Lanka, Ấn Độ) và RM1,500 (Việt Nam, Lào) theo Cục Di trú. Bảo lãnh có thể được hoàn lại khi người giúp việc trở về theo các điều kiện."
 
 lang: "vi"
+sourceContentHash: "80b7fb78bc8f91cd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

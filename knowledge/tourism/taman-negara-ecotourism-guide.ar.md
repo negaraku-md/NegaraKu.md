@@ -37,10 +37,11 @@ faq:
     a: "على نحو فريد، تحكم الحديقة ثلاثة تشريعات ولائية من الحقبة الاستعمارية — تشريع تامان نيغارا (باهانغ) 1939، و(كلنتان) 1938، و(ترينغانو) 1939 — لا قانون الحدائق الوطنية الاتحادي لسنة 1980 (National Parks Act 1980). وسبب ذلك أن الأراضي والحراجة شأن ولائي بموجب الدستور الاتحادي الماليزي، فلا ينطبق القانون الاتحادي على الولايات الثلاث."
 
 lang: "ar"
+sourceContentHash: "7e8c332e4dfbfd08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -32,8 +32,9 @@ verificationNeeded:
   - "Tanggal dan angka yang tepat (masa jabatan perdana menteri, tarif GST, angka kasus, hukuman) perlu disahkan dengan Kantor Perdana Menteri, pengadilan, dan Suruhanjaya Pilihan Raya."
 
 lang: "id"
+sourceContentHash: "b57664a883ee2959"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

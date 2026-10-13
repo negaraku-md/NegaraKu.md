@@ -32,8 +32,9 @@ faq:
     a: "Yang di-Pertuan Agong bổ nhiệm Tổng Chưởng lý theo lời khuyên của Thủ tướng. Ứng viên phải là người đủ điều kiện làm Thẩm phán Tòa án Liên bang."
 
 lang: "vi"
+sourceContentHash: "8a9cf47766823c46"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

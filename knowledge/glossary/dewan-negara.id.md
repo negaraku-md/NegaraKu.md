@@ -26,8 +26,9 @@ verificationNeeded:
   - "Teks Bahasa Melayu Konstitusi Federal adalah terjemahan oleh Jabatan Peguam Negara. Kecuali jika dan sampai ditetapkan sahih di bawah Pasal 160b, teks Bahasa Inggris adalah teks yang sahih."
 
 lang: "id"
+sourceContentHash: "bf114efc3f1d5751"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

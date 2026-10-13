@@ -32,8 +32,9 @@ faq:
     a: "Mục 8(1) của Act 808 quy định tất cả những người có mặt phải đứng nghiêm. Mục 8(3) quy định rằng bất kỳ ai cố ý tỏ thái độ bất kính đối với Quốc ca ở nơi công cộng có thể, khi bị kết tội, bị phạt tiền không quá RM100 hoặc bị phạt tù trong thời hạn không quá một tháng."
 
 lang: "vi"
+sourceContentHash: "c84bd6935adf2871"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

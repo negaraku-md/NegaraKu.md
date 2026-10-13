@@ -29,8 +29,9 @@ faq:
     a: "Permohonan dilakukan secara daring melalui portal KPM dan pelajar disaring melalui Pentaksiran Kemasukan Sekolah Khusus (PKSK), beserta pencapaian akademik dan kokurikuler."
 
 lang: "id"
+sourceContentHash: "8256668a3fad86ff"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,12 +29,13 @@ faq:
     a: "تتيح بعض خطط التكافل اقتسام الفائض القابل للتوزيع من صندوق المخاطر مع المشاركين المؤهَّلين، وفقاً لشروط الوثيقة. وليس لخاصية اقتسام الفائض هذه نظير مباشر في معظم الوثائق التقليدية."
 
 lang: "ar"
+sourceContentHash: "94509152b2b8fc7d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

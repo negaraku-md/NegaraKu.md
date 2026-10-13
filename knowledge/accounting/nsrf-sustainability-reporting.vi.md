@@ -41,8 +41,9 @@ verificationNeeded:
   - "Hãy xác nhận liệu các sửa đổi lập pháp được liệt kê trong phần IX của NSRF đã được ban hành hay chưa trước khi coi NSRF là một nghĩa vụ luật định đối với một công ty không niêm yết"
 
 lang: "vi"
+sourceContentHash: "580bb89b56c953ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Nhà sáng lập, cố vấn thuế và đội ngũ tài chính đang đánh giá một cơ cấu Labuan, và người đọc muốn hiểu vì sao Labuan được đối xử khác với phần còn lại của Malaysia."
 
 lang: "vi"
+sourceContentHash: "398103a0292eae47"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

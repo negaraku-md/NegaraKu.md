@@ -37,10 +37,11 @@ verificationNeeded:
   - "تحقّق مما إذا كانت طبقة الأرباح الموزعة بنسبة 2% بموجب Schedule 1 Part XXII تنطبق على الأفراد غير المقيمين كما على المقيمين؛ فجدول النسب نفسه لا يذكر ذلك"
 
 lang: "ar"
+sourceContentHash: "8166bbfff56fa0fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

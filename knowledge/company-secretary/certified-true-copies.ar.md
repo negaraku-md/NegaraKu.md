@@ -33,10 +33,11 @@ verificationNeeded:
   - "تأكيد ما إذا كانت لجنة الشركات الماليزية (SSM) قد أصدرت أي توجيه ممارسة أو دليل بشأن تصديق المستندات من قِبل أمناء سر الشركات — لم يُعثر على شيء من ذلك على ssm.com.my"
 
 lang: "ar"
+sourceContentHash: "9f90e2daf3ffcc00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

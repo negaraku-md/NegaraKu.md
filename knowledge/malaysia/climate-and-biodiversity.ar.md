@@ -18,9 +18,10 @@ keyTakeaways:
   - "تفصل بحرُ الصين الجنوبي شبهَ جزيرة ماليزيا عن بورنيو (صباح وساراواك)، ويحتضن كلٌّ منهما تجمّعات متمايزة من الأنواع، إذ تحوز بورنيو الحصّة الأكبر من غابات المستنقعات الخثّية وغابات المانغروف في البلاد."
 appliesTo: "وطني"
 lang: "ar"
+sourceContentHash: "9a6c3f25f0c58105"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

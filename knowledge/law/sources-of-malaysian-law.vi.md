@@ -23,8 +23,9 @@ keyTakeaways:
 appliesTo: "Sinh viên luật và nhà nghiên cứu lần đầu lập bản đồ hệ thống pháp luật Malaysia, bất kỳ ai cố xác định khối pháp luật nào điều chỉnh một vấn đề nhất định, và độc giả thường xuyên thấy các cụm 'quốc gia thông luật', 'luật Hồi giáo' và 'adat' được dùng cạnh nhau mà không được giải thích chúng thực sự liên hệ với nhau ra sao."
 
 lang: "vi"
+sourceContentHash: "f4b71230618caa4c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

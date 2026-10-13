@@ -31,10 +31,11 @@ faq:
     a: "RM20 في السنة للمركبات الكهربائية المصنّفة بقدرة 50 kW فما دون، بحسب إرشادات رسم رخصة المركبة (LKM) للمركبات الكهربائية الصادرة عن JPJ. وترتفع الأسعار تصاعديًا للقدرات الأعلى."
 
 lang: "ar"
+sourceContentHash: "926c690f458094f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

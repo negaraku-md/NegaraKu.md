@@ -32,10 +32,11 @@ faq:
     a: "Iskandar Malaysia ممر تنمية ماليزي أُطلق في العقد الأول من الألفية الثالثة ويقع داخل نطاق JS-SEZ. أما JS-SEZ فأوسع وثنائية: فهي تضيف سنغافورة طرفاً موقِّعاً، وتمدّ المنطقة إلى Pengerang، وتضع فوق ذلك طبقة من إطار حوافز وتيسير مشترك."
 
 lang: "ar"
+sourceContentHash: "91765fa012dff218"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

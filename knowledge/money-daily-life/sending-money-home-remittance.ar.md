@@ -26,10 +26,11 @@ verificationNeeded:
   - "لا يُذكر أي رقم عن الرسوم أو سعر الصرف أو حجم التحويل في أي موضع من هذا المقال، وفقاً لتوجيهات التكليف — وينبغي الحصول على جميع هذه الأرقام مباشرةً من البنك أو شركة خدمات الأموال المرخّصة وقت التحويل."
 
 lang: "ar"
+sourceContentHash: "7ef5c9d18c446cfa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

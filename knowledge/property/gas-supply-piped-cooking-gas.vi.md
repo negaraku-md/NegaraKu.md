@@ -31,8 +31,9 @@ faq:
     a: "Trợ giá LPG hướng đến mục đích gia dụng, không phải thương mại. Các cơ sở kinh doanh lớn hơn phải dùng bình thương mại (bình màu tím) không được trợ giá và đắt hơn. KPDN cho biết các tiểu thương và người buôn bán nhỏ vẫn có thể dùng LPG được trợ giá trong một số giới hạn nhất định."
 
 lang: "vi"
+sourceContentHash: "7fc238e7f93ed817"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

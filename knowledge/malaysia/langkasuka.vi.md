@@ -18,8 +18,9 @@ keyTakeaways:
   - "Biến mất khỏi ghi chép vào khoảng thế kỷ thứ 15, bị hấp thụ vào các nhà nước kế tục như phạm vi ảnh hưởng của Ayutthaya"
 appliesTo: "Độc giả muốn biết điều gì đã tồn tại ở Bán đảo Tanah Melayu trước Melaka, và lịch sử sơ khai đó thực sự dứt khoát đến đâu so với những gì vẫn còn được tranh luận."
 lang: "vi"
+sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

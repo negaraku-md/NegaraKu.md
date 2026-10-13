@@ -30,10 +30,11 @@ faq:
     a: "محطة باكون الكهرومائية، بسعة متاحة تبلغ 2,520 ميغاواط، هي أكبر منشأة توليد في ساراواك."
 
 lang: "ar"
+sourceContentHash: "585f9d0a1ccc7faf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

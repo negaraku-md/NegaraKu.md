@@ -19,9 +19,10 @@ keyTakeaways:
   - "انتهت الإدارة اليابانية بالاستسلام في 1945؛ ووُقّعت وثيقة الاستسلام لهذه المنطقة في مبنى البلدية بسنغافورة في 12 سبتمبر 1945"
 appliesTo: "الطلاب والمعلمون والباحثون والقرّاء عمومًا ممّن يريدون تسلسلًا زمنيًا موثّقًا وسردًا وصفيًا لحقبة 1941–1945 في الملايو وبورنيو، دون توصيفٍ للمعاناة أو مقارنتها."
 lang: "ar"
+sourceContentHash: "8db8504e8559d165"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

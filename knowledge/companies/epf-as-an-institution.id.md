@@ -29,8 +29,9 @@ faq:
     a: "Simpanan Konvensional dijamin sekurang-kurangnya 2.50% setahun di bawah Akta KWSP 1991. Simpanan Syariah bergantung sepenuhnya pada kinerja aktual portofolio tanpa jaminan minimum."
 
 lang: "id"
+sourceContentHash: "e680578dd6d6768e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -43,10 +43,11 @@ verificationNeeded:
   - "أكّد ما إذا كانت سايبرجايا تحمل، أو تقدّمت بطلب، اعترافًا كـ MD Hub أو MD Nexus أو MD Tech Zone، وكيف تُربَط تصنيفات MD Cybercity وCybercentre القائمة بـ MD Location Recognition. وحتى 2026-08-14 لا يُسمّي أي مصدر أولي من MDEC سايبرجايا تحت أي فئة، وMD Location Recognition الوحيد الممنوح حتى الآن هو برج Menara Merdeka 118، الذي أُطلق كأول MD Nexus في ماليزيا في 5 فبراير 2026."
 
 lang: "ar"
+sourceContentHash: "3159e752d7a7d37a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

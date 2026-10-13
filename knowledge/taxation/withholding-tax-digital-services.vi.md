@@ -56,8 +56,9 @@ obligations:
     consequence: "Khoản phạt theo s.26A(3) và một khoản tiền phạt tới RM50,000 hoặc ba năm theo s.26A(2)"
 
 lang: "vi"
+sourceContentHash: "d0f4a6d7cbea76f7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

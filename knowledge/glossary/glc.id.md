@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Investor, pencari kerja, pemasok yang mengikuti tender pekerjaan, dan siapa saja yang membaca liputan bisnis Malaysia."
 
 lang: "id"
+sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

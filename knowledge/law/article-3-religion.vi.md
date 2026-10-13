@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn có văn bản hiến định chính xác về tôn giáo — sinh viên, nhà nghiên cứu và độc giả liên tục gặp các bản diễn giải của Điều 3 và Điều 11 và muốn có chính các quy định đó, được trích dẫn từ bản in lại chính thức."
 
 lang: "vi"
+sourceContentHash: "e8ee51ffbb017879"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "U Mobile ditunjuk untuk membangun jaringan 5G kedua, jadi ia melepas kepemilikan sahamnya dalam DNB dan keluar dari jaringan DNB untuk berfokus pada peluncurannya sendiri."
 
 lang: "id"
+sourceContentHash: "c1f7f6a84e1fec97"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

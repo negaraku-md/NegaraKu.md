@@ -35,8 +35,9 @@ obligations:
     consequence: "Hành động thu hồi theo s.106(1) và tiếp tục không cho phép chi phí theo s.39"
 
 lang: "vi"
+sourceContentHash: "c4d7fc178919f95f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "HSN adalah hari puncak perayaan. Sejak 2019, KBS memperluas perayaan sepanjang bulan Oktober sebagai Bulan Sukan Negara (BSN)."
 
 lang: "id"
+sourceContentHash: "51f2375791aa9f72"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

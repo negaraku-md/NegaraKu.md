@@ -40,8 +40,9 @@ verificationNeeded:
   - "Perbarui angka penduduk dan PDB ketika rilis DOSM yang lebih baru diterbitkan."
 
 lang: "id"
+sourceContentHash: "79feefd0c909668c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

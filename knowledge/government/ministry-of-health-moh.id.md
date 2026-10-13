@@ -27,8 +27,9 @@ faq:
   - q: "Apakah KKM mengelola rumah sakit swasta?"
     a: "Tidak. KKM mengelola rumah sakit dan klinik publik serta mengatur pelayanan kesehatan swasta secara terpisah di bawah Private Healthcare Facilities and Services Act 1998 (Act 586), yang menetapkan standar kualitas dan keselamatan minimum serta membatasi biaya yang dapat dikenakan oleh dokter untuk suatu prosedur."
 lang: "id"
+sourceContentHash: "3996608aeba4590f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

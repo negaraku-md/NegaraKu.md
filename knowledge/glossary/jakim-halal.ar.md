@@ -34,12 +34,13 @@ faq:
     a: "نعم. يمكن للمصنّعين في الخارج التقدّم لاعتماد JAKIM، أو استعمال شهادة من جهة اعتماد حلال أجنبية معترَف بها لدى JAKIM. وتراجع JAKIM قائمة الجهات المعترَف بها وتحدّثها."
 
 lang: "ar"
+sourceContentHash: "86854384949bcaf4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

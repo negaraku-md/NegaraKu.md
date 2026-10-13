@@ -69,8 +69,9 @@ obligations:
     consequence: "Denda dua kali lipat kompensasi yang diperintahkan, atau hingga RM10,000 jika tidak ada yang diperintahkan; hingga dua tahun penjara; RM1,000 sehari jika berlanjut"
 
 lang: "id"
+sourceContentHash: "37ced01eb083b72b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

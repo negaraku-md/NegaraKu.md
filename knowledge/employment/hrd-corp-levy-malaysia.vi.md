@@ -61,8 +61,9 @@ obligations:
     consequence: "Mất số dư chưa sử dụng vượt ngưỡng RM10,000"
 
 lang: "vi"
+sourceContentHash: "3f1eefbdad5a65a1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

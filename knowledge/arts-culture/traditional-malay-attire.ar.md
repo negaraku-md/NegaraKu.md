@@ -35,10 +35,11 @@ faq:
     a: "لا. باجو كورونغ (baju kurung) ثوب طويل فضفاض يُخفي تقاطيع الجسد، ويُرتدى مع قطعة قماش ملفوفة. أما الكِبايا (kebaya)، على النقيض، فبلوزة مفتوحة من الأمام تتبع تقاطيع الجسد على نحو أوثق، تُثبَّت بكيرونغسانغ (kerongsang) (بروش) أو بأزرار، وتُقرن بسارونغ. والكِبايا عادةً أكثر التصاقًا بالجسد من باجو كورونغ."
 
 lang: "ar"
+sourceContentHash: "f68d5254e084ffde"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

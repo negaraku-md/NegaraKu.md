@@ -23,10 +23,11 @@ keyTakeaways:
 appliesTo: "كل من يحاول فهم سبب استشهاد المحاكم الماليزية باجتهاد القضاء الإنجليزي، وطلاب القانون الدارسين للنظام القانوني الماليزي، وكل من يبحث في سبب وقوع مجالات معينة (الأراضي، الأسرة، القانون الإسلامي) خارج إرث القانون العام."
 
 lang: "ar"
+sourceContentHash: "0e25f8448644480c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

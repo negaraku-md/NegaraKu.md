@@ -35,8 +35,9 @@ faq:
     a: "Chúng là những lễ hội riêng biệt có chung một chủ đề. Gawai Dayak là lễ hội mùa gặt của người Dayak ở Sarawak, tổ chức vào ngày 1 và 2 tháng 6. Kaamatan là lễ hội mùa gặt của người Kadazandusun ở Sabah, tổ chức vào ngày 30 và 31 tháng 5. Cả hai đều tạ ơn cho vụ lúa, nhưng các cộng đồng, nghi lễ và ngày tháng khác nhau."
 
 lang: "vi"
+sourceContentHash: "5a38a61ecb8e6e5a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

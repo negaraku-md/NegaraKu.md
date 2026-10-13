@@ -41,10 +41,11 @@ verificationNeeded:
   - "تأكيد ما إذا كان أي إعفاء وزاري بموجب المادة 44(5D) قد مُنح في حالات فردية بما يتجاوز التخفيف العام لـ YA2006؛ فالمنشور هو الوضع العام فقط"
 
 lang: "ar"
+sourceContentHash: "5db600f69d4d89ad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

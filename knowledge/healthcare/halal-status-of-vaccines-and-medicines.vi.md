@@ -29,8 +29,9 @@ faq:
     a: "Muzakarah Đặc biệt vào ngày 3 tháng 12 năm 2020 phán quyết việc sử dụng vắc-xin COVID-19 là harus và bắt buộc đối với các nhóm do chính phủ ấn định, với điều kiện vắc-xin được sử dụng mang tính halal và tayyiban."
 
 lang: "vi"
+sourceContentHash: "a63cd25d7840519b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

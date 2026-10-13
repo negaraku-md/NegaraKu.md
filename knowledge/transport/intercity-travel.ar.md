@@ -34,10 +34,11 @@ verificationNeeded:
   - "التأكد من عدد مسارات خدمة الطيران الريفي (Rural Air Service) الحالية لـ AirBorneo وقائمة مطاراتها مباشرةً مع AirBorneo أو هيئة الطيران المدني الماليزية (CAAM)، إذ لم تحمل الصفحة العامة لـ RAS لدى لجنة الطيران الماليزية (MAVCOM) تفاصيل على مستوى المسار وقت الكتابة، وقد غيّر البرنامج مشغّله مؤخرًا."
 
 lang: "ar"
+sourceContentHash: "a8248270057070e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -38,8 +38,9 @@ faq:
     a: "Wajib pajak. Paragraf 13 Schedule 5 Income Tax Act 1967 meletakkan beban untuk membuktikan bahwa suatu ketetapan berlebihan atau keliru pada pihak pemohon banding. Dalam praktik, ini berarti faktur, perjanjian, voucer pembayaran, dan bukti bahwa jasa itu benar-benar disampaikan — beberapa banding yang dilaporkan gagal semata-mata karena cakupan dan tujuan pengeluaran tidak dapat didokumentasikan."
 
 lang: "id"
+sourceContentHash: "669796e4c8074cfe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Tiga biaya dikenakan pada baik pembelian maupun penjualan: komisi broker (ditetapkan oleh broker Anda), biaya kliring 0.03% dari nilai transaksi dibatasi pada RM1,000, dan bea meterai RM1 untuk setiap RM1,000 (atau sebagian darinya) nilai, dibatasi pada RM1,000. Brokerase saham yang tercatat di Bursa Malaysia saat ini dikecualikan dari pajak layanan."
 
 lang: "id"
+sourceContentHash: "2aa2d9243406a229"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

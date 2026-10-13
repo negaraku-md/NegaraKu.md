@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang menginginkan teks konstitusi yang tepat di balik kebijakan bahasa nasional Malaysia, dan bukan hanya parafrasanya."
 
 lang: "id"
+sourceContentHash: "b994c8be544c8680"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

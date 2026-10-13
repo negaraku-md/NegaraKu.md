@@ -56,8 +56,9 @@ verificationNeeded:
   - "SSM không công bố biểu phạt hợp thức nào cho các vi phạm s.245 — khoản phạt nêu ra là mức tối đa khi bị kết án theo s.245(9), không phải một khoản phạt hành chính hợp thức"
 
 lang: "vi"
+sourceContentHash: "45066b2b4838e7ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

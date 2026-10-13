@@ -32,8 +32,9 @@ faq:
     a: "Iskandar Malaysia là một hành lang phát triển của Malaysia được khởi động vào những năm 2000 và nằm bên trong phạm vi JS-SEZ. JS-SEZ rộng hơn và mang tính song phương: nó thêm Singapore làm bên đồng ký kết, mở rộng khu vực đến Pengerang, và phủ thêm một khung ưu đãi và hỗ trợ chung lên trên."
 
 lang: "vi"
+sourceContentHash: "91765fa012dff218"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

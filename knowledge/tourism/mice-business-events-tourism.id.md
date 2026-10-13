@@ -31,8 +31,9 @@ faq:
     a: "MITEC, yaitu Pusat Perdagangan & Pameran Internasional Malaysia, yang dibuka pada 2016 dengan 11 aula pameran mega dan 52,000 m² ruang pameran. CIDB mencatat ruang tanpa tiang seluas 12,530 m² di dalam bangunan tersebut."
 
 lang: "id"
+sourceContentHash: "25f7bdfa80a0bc8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

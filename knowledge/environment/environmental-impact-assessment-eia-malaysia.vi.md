@@ -34,8 +34,9 @@ faq:
     a: "Theo Section 34A(4) Tổng Giám đốc phải đưa ra lý do, nhưng việc từ chối không ngăn bạn sửa đổi và nộp lại báo cáo để phê duyệt."
 
 lang: "vi"
+sourceContentHash: "7002da8fcfa27b67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

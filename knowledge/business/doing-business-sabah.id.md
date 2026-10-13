@@ -44,8 +44,9 @@ verificationNeeded:
   - "Hitungan penyewa terkini dan investasi yang dikomitmenkan di POIC Lahad Datu dan SOGIP Sipitang — halaman operator membawa angka bertanggal 2020 hingga 2022 dan jumlah aspirasi"
 
 lang: "id"
+sourceContentHash: "91f5a7840f804778"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

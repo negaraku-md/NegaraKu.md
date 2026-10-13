@@ -36,8 +36,9 @@ faq:
     a: "Dalam Indeks Keamanan Siber Global ITU 2020 (GCIv4), Malaysia memperoleh skor 98.06 dan menduduki peringkat kelima bersama di dunia. Dalam edisi 2024, yang menggunakan model lima tingkat, Malaysia ditempatkan dalam kelompok teratas 'menjadi teladan' (role-modelling)."
 
 lang: "id"
+sourceContentHash: "7722bdc160f9e488"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

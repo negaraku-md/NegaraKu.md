@@ -33,10 +33,11 @@ faq:
     a: "الدوافع الرئيسية هي الصيد الجائر والاتجار غير المشروع بأجزاء النمور، وتدهور الغابات وفقدان الموائل، والدهس على الطرق والصراع بين الإنسان والنمر، وتراجع الفرائس."
 
 lang: "ar"
+sourceContentHash: "4cb728294e2f0482"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Pastikan bahwa AAPG 1 dan AAPG 2 yang ditinjau Juni 2021 masih tetap menjadi laporan ilustratif MIA saat ini dan belum digantikan oleh revisi yang lebih baru"
 
 lang: "id"
+sourceContentHash: "b166913dca839ae9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -40,10 +40,11 @@ verificationNeeded:
   - "تذكر صفحة الإخطار بحق المؤلف لدى MyIPO أن شرحها للإخطار الطوعي «قيد التحديث حاليًّا» — تحقَّق من أي تفصيل إجرائي مباشرةً لدى مراقب حق المؤلف"
 
 lang: "ar"
+sourceContentHash: "a995d61bd790a6cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

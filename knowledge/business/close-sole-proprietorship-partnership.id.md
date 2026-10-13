@@ -35,8 +35,9 @@ faq:
     a: "Tidak. Usaha kepemilikan tunggal atau kemitraan adalah pendaftaran usaha di bawah Akta Pendaftaran Perniagaan 1956, bukan badan hukum yang terpisah, jadi 'menutup'nya hanyalah memberi tahu SSM bahwa pendaftaran telah berakhir — tidak ada likuidator, tidak ada permohonan penghapusan nama, tidak ada biaya. Sdn Bhd adalah perusahaan di bawah Akta Syarikat 2016 dan wajib dikeluarkan melalui penghapusan nama atau pembubaran. Lihat panduan terpisah tentang menutup perusahaan."
 
 lang: "id"
+sourceContentHash: "b7ee74767d9d900f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

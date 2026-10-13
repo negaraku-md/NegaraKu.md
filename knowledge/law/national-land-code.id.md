@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang perlu menempatkan National Land Code pada kedudukan yang benar — apa yang diaturnya, siapa yang terikat olehnya, dan mengapa persoalan tanah Sabah atau Sarawak tidak dapat dijawab darinya — sebelum meneliti suatu prosedur atau sengketa yang khusus."
 
 lang: "id"
+sourceContentHash: "ea87aadccc95af5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

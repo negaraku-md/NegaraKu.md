@@ -37,8 +37,9 @@ faq:
     a: "Zii Jia mengundurkan diri dari BAM pada Januari 2022 untuk menjadi pemain independen setelah hampir satu dekade bersama badan itu sejak berusia 13 tahun. Ia ingin fokus pada latihan dan meningkatkan peringkatnya sendiri, dan menegaskan bahwa entah pemain nasional atau pemain independen, mereka tetap mengibarkan Jalur Gemilang."
 
 lang: "id"
+sourceContentHash: "a0c4b7207a1ac775"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

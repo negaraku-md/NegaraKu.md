@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đọc hoặc trích dẫn luật Malaysia — luật sư, sinh viên, chủ doanh nghiệp và nhà nghiên cứu."
 
 lang: "vi"
+sourceContentHash: "fcd52a1ed198449a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

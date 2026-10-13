@@ -30,8 +30,9 @@ faq:
     a: "Có. Nó nằm trong số 10 món ăn được Ủy viên Di sản công báo là các đối tượng Di sản Quốc gia vào ngày 23 tháng 2 năm 2024."
 
 lang: "vi"
+sourceContentHash: "99f9a99ac9dc7cef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -49,8 +49,9 @@ obligations:
     consequence: "Liabilitas di bawah Pasal 132(5) berupa penjara sampai lima tahun atau denda sampai RM3 juta atau keduanya, serta liabilitas pribadi di bawah Pasal 133(2)"
 
 lang: "id"
+sourceContentHash: "0f48f4bee9e4e684"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

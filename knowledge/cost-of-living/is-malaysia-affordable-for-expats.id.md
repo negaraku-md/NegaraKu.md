@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Ekspatriat, pekerja jarak jauh dan pendatang baru yang mempertimbangkan biaya hidup Malaysia dibandingkan tolok ukur gaji dan pengeluaran Barat sebelum pindah."
 
 lang: "id"
+sourceContentHash: "4843205b62ed2e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

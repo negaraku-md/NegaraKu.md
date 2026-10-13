@@ -33,10 +33,11 @@ faq:
     a: "تشغيل عيادة طبية أو عيادة أسنان خاصة غير مسجَّلة بموجب Act 586 جريمة. وقد ذكرت وزارة الصحة أن تقديم خدمات الرعاية الصحية في مقار غير مسجَّلة أو غير مرخَّصة قد يستتبع غرامة ثقيلة واحتمال السجن، وأن إجراء الإنفاذ قد يُغلِق المقر. فالتسجيل ليس إجراءً شكليًا يمكن اللحاق به لاحقًا — بل يجب أن يكون جاهزًا قبل أن تستقبل المرضى."
 
 lang: "ar"
+sourceContentHash: "950bc0096186009c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

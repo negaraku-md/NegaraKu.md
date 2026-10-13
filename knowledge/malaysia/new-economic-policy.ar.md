@@ -20,11 +20,12 @@ keyTakeaways:
   - "صيغت السياسة الاقتصادية الجديدة بعد أحداث 13 مايو 1969، وخلفتها سياسة التنمية الوطنية (National Development Policy) في 1991"
 appliesTo: "القراء الذين يريدون الأهداف والغايات والإطار الزمني الموثَّقة للسياسة الاقتصادية الجديدة كما وردت في نصوص الخطط الرسمية الماليزية، لا عرضاً متحيزاً لها."
 lang: "ar"
+sourceContentHash: "6f9599be22d1ac5f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

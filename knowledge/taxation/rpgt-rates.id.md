@@ -45,8 +45,9 @@ obligations:
     consequence: "Denda hingga tiga kali lipat pajak di bawah s.29(3), dan kenaikan 10% pada pemeroleh di bawah s.21B(2)"
 
 lang: "id"
+sourceContentHash: "00945edeadfe77b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

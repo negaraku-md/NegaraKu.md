@@ -29,8 +29,9 @@ faq:
     a: "Azizulhasni Awang, người giành hai huy chương Olympic (đồng 2016, bạc 2020) và nhà vô địch thế giới keirin 2017."
 
 lang: "vi"
+sourceContentHash: "490abb68b2e39c44"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

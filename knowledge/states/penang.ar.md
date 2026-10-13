@@ -33,10 +33,11 @@ verificationNeeded:
   - "تأكّد من العدد الحالي لسكان بينانغ مقابل أحدث إصدار لدائرة الإحصاء الماليزية (DOSM) بشأن سكان الولايات قبل النشر."
 
 lang: "ar"
+sourceContentHash: "a7862eb1a54ab895"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

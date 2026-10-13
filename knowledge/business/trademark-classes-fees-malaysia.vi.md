@@ -39,8 +39,9 @@ verificationNeeded:
   - "Trademarks (Reduction of Fee) Regulations 2025 [P.U. (A) 315/2025] đã giảm phí nộp đơn mỗi hạng đi RM300 chỉ đối với các đơn nộp trực tiếp tại quầy bởi người nộp đơn đáp ứng các tiêu chí trong hướng dẫn thực hành của Cơ quan Đăng ký, trong khoảng thời gian từ 1 tháng 9 đến 31 tháng 12 năm 2025 — hãy xác nhận xem có văn bản kế nhiệm nào đã được đăng công báo hay chưa"
 
 lang: "vi"
+sourceContentHash: "2b920571a13b0794"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

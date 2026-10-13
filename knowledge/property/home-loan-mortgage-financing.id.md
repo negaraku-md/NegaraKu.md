@@ -35,8 +35,9 @@ faq:
     a: "Bea meterai adalah 0.5% dari jumlah pinjaman di bawah Stamp Act 1949. Misalnya, pinjaman RM450,000 dikenakan bea RM2,250. Pembayaran perlu dilakukan dalam 30 hari dari tanggal perjanjian ditandatangani."
 
 lang: "id"
+sourceContentHash: "9739f168cee000e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

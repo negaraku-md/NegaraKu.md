@@ -32,8 +32,9 @@ faq:
     a: "Không. Chi phí lo hậu sự, nợ và di chúc được giải quyết trước từ khối di sản trước khi phần còn lại được phân chia theo faraid."
 
 lang: "vi"
+sourceContentHash: "8922f0a1759aa852"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

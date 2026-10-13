@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "الطلاب، ومحللو السياسات، والصحفيون، وموظفو الحكومة، وكل من يحتاج إلى فهم كيفية إعداد الميزانية الاتحادية ومناقشتها وإقرارها."
 
 lang: "ar"
+sourceContentHash: "8b64cd44c511fc05"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -41,10 +41,11 @@ verificationNeeded:
   - "التأكد من أن AAPG 1 وAAPG 2 المراجَعَين في يونيو 2021 ما زالا يمثّلان تقارير MIA التوضيحية الحالية ولم تحلّ محلّهما مراجعة أحدث"
 
 lang: "ar"
+sourceContentHash: "b166913dca839ae9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

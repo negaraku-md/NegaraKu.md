@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "كل من يحتاج إلى فهم الآليات لا التسويق — الطلاب والصحفيون وأمناء الخزانة والمؤسسون الذين يقارنون خيارات التمويل، والباحثون الذين يرسمون خريطة النظام المالي الماليزي."
 
 lang: "ar"
+sourceContentHash: "baeef20a51fe9ad2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -42,8 +42,9 @@ verificationNeeded:
   - "Việc liệu ngoại lệ dành cho sòng bạc và máy trò chơi khỏi quy tắc chi trả tiền cá cược có thời hạn kết thúc hay không — LHDN cho biết cho đến khi có thông báo mới"
 
 lang: "vi"
+sourceContentHash: "1b4f5e59594a8f17"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

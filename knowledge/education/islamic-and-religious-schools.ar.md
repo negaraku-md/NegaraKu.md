@@ -29,12 +29,13 @@ faq:
     a: "يقع الاختصاص الأساسي على عاتق دوائر/مجالس الشؤون الدينية الإسلامية في الولايات، لأن الشؤون الدينية الإسلامية من اختصاص الولايات بموجب الدستور. تتولى دائرة JAKIM التنسيق على المستوى الاتحادي، في حين تشمل متطلبات سلامة المباني السلطات المحلية ودائرة الإطفاء (Bomba)."
 
 lang: "ar"
+sourceContentHash: "e8c71a5517740e23"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

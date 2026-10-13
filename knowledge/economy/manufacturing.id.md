@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Investor, pencari kerja, analis kebijakan, dan pelajar yang mencoba membaca statistik industri Malaysia dengan tepat."
 
 lang: "id"
+sourceContentHash: "21e59589f33cf91e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

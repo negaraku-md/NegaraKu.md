@@ -34,10 +34,11 @@ faq:
     a: "بالنسبة إلى CCRIS، تلتزم المؤسسة المالية المُبلِّغة بتصحيح المعلومات غير الدقيقة خلال مدة معقولة. أما بالنسبة إلى CTOS، فيمكنك تقديم نزاع مباشرة لدى الوكالة، التي يُنظّمها مكتب مُسجِّل وكالات الإبلاغ الائتماني التابع لوزارة المالية (Ministry of Finance)."
 
 lang: "ar"
+sourceContentHash: "d56078b999db6074"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

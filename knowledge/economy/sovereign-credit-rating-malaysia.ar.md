@@ -32,10 +32,11 @@ faq:
     a: "التصنيف الأعلى يخفض الفائدة التي تدفعها الحكومة على سنداتها، مما يُفسح حيزًا في الميزانية ويثبّت تكلفة الاقتراض الأوسع. كما تشكّل التصنيفات طلب المستثمرين الأجانب على الأصول المقوَّمة بالرينغيت، فتؤثر في العملة على نحو غير مباشر."
 
 lang: "ar"
+sourceContentHash: "2be52c4fe36e74d8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

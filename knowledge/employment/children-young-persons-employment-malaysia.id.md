@@ -35,8 +35,9 @@ faq:
     a: "Pasal 14 mengatur penjara hingga dua tahun atau denda hingga RM50,000 atau keduanya bagi pelanggaran pertama, dan hingga lima tahun penjara atau denda RM100,000 bagi pelanggaran kedua atau berikutnya. Orang tua atau wali yang membiarkan pelanggaran itu terjadi secara sadar juga dapat dikenakan hukuman."
 
 lang: "id"
+sourceContentHash: "4ad258e80f1299ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

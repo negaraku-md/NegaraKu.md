@@ -33,8 +33,9 @@ verificationNeeded:
   - "Pastikan instrumen mulai berlaku yang tepat bagi Act A1651 terhadap Warta Persekutuan; daftar sumber proyek mencatat P.U.(B) 394/2022 untuk tanggal 1 Januari 2023."
 
 lang: "id"
+sourceContentHash: "ab52798a8bfb6a2f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

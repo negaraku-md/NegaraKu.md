@@ -28,8 +28,9 @@ faq:
   - q: "Bagaimana cara saya mendaftar sebagai OKU (penyandang disabilitas)?"
     a: "Warga negara Malaysia yang disahkan oleh dokter spesialis pemerintah mengajukan formulir pendaftaran BPPOKU (Pindaan 2/2019) bersama laporan pengesahan medis dan salinan MyKad (atau akta kelahiran bagi pemohon di bawah 12 tahun), baik di loket JKM maupun secara daring melalui portal MyDaftar OKU. Pemohon yang berhasil menerima Kad OKU yang menunjukkan kategori disabilitas mereka."
 lang: "id"
+sourceContentHash: "f9a688b158d9b46c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

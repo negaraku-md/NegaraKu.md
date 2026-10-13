@@ -30,8 +30,9 @@ faq:
     a: "Theo JKKN, DKK 1971 trở thành nền tảng cho Chính sách Văn hóa Quốc gia (DAKEN) 2021 dựa trên bảy trụ cột với thời kỳ thực hiện 2021-2025. JKKN cũng nêu rằng DKK 1971 chưa từng được phê chuẩn chính thức ở cấp Nội các, dù nó đã dẫn dắt việc quản lý trong khoảng 50 năm."
 
 lang: "vi"
+sourceContentHash: "8ad5677b6225effa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

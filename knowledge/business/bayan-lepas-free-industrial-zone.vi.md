@@ -45,8 +45,9 @@ verificationNeeded:
   - "Con số được lưu truyền rộng rãi là RM435 tỷ xuất khẩu của Penang, hay 31 phần trăm của quốc gia, không thể gắn với bất kỳ trang chính thức nào."
 
 lang: "vi"
+sourceContentHash: "6475dc27ed25022d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Người giữ Employment Pass đưa gia đình đến Malaysia, và vợ/chồng, con cái, cha mẹ hoặc cha mẹ vợ/chồng được bảo lãnh."
 
 lang: "vi"
+sourceContentHash: "965187483a912200"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

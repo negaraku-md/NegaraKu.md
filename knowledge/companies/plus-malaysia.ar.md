@@ -28,10 +28,11 @@ faq:
     a: "بموجب قرار 2020، خُفِّضت معدلات الرسوم بنسبة 18% اعتبارًا من 1 فبراير 2020، ولا توجد زيادات في الرسوم مجدولة طوال مدة الامتياز الممدَّدة حتى 2058."
 
 lang: "ar"
+sourceContentHash: "6a089759a8d1ba8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

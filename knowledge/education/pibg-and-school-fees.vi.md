@@ -29,8 +29,9 @@ faq:
     a: "Không. Giáo dục tại các trường tiểu học và trung học công lập không thu học phí. Phí đặc biệt thì đã bị bãi bỏ từ năm 2008 qua SPI Bil. 13/2007."
 
 lang: "vi"
+sourceContentHash: "ae00ce2b2c55df71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

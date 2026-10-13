@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Người sử dụng lao động, các bộ phận nhân sự và người lao động muốn hiểu khuôn khổ tiết kiệm hưu trí của Malaysia."
 
 lang: "vi"
+sourceContentHash: "c90387d901bf5d08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

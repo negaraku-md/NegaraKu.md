@@ -30,8 +30,9 @@ faq:
     a: "TNB sở hữu và vận hành mạng lưới lưới điện quốc gia cần được nâng cấp để hấp thụ năng lượng tái tạo, phù hợp với các mục tiêu của Lộ trình Chuyển đổi Năng lượng Quốc gia (NETR)."
 
 lang: "vi"
+sourceContentHash: "12e743d05ab159ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

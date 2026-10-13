@@ -40,8 +40,9 @@ verificationNeeded:
   - "Laman Notifying Copyright MyIPO menyatakan penjelasannya mengenai notifikasi sukarela 'sedang diperbarui' — verifikasi rincian prosedur apa pun langsung dengan Pengawal Hak Cipta"
 
 lang: "id"
+sourceContentHash: "a995d61bd790a6cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

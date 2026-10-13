@@ -41,8 +41,9 @@ verificationNeeded:
   - "Pastikan persyaratan permohonan Sertifikat Domisili (Certificate of Residence) terkini dan jangka pemrosesan pada layanan e-Residence LHDN; uji status domisili itu sendiri telah didukung sumber tetapi mekanisme permohonan tidak dicakup oleh Public Ruling No. 9/2019"
 
 lang: "id"
+sourceContentHash: "2a0ef17e2859fe87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

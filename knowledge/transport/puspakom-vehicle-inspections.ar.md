@@ -34,10 +34,11 @@ faq:
     a: "لن تجدّد JPJ ضريبة الطريق لمركبة تجارية بدون تقرير فحص صالح، وقد تُصدر JPJ غرامة تصالحية (compound) أو استدعاءً (summons) بحق مركبة تعمل دون فحص."
 
 lang: "ar"
+sourceContentHash: "6dfb76a4e260e0c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

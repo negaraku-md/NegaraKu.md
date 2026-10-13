@@ -60,8 +60,9 @@ obligations:
     consequence: "Quyền triệu tập cuộc họp theo s.313 hết hiệu lực"
 
 lang: "vi"
+sourceContentHash: "7de2bc211affba0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

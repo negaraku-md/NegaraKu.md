@@ -34,8 +34,9 @@ faq:
     a: "Theo quy định chuyển tiếp mục 619(3), M&A của các công ty hiện có đang có hiệu lực vào lúc Act bắt đầu tiếp tục có hiệu lực như thể được lập theo Act này, trừ khi công ty quyết định khác. M&A đó nay trở thành điều lệ của công ty liên quan."
 
 lang: "vi"
+sourceContentHash: "99c3208a68daac93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

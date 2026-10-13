@@ -34,10 +34,11 @@ faq:
     a: "DOSM دائرة حكومية اتحادية مدرَجة تحت وزارة الاقتصاد (Ministry of Economy) في دليل الجهات الرسمي للوزارة. وتُعاد هيكلة الحقائب الوزارية في ماليزيا دورياً، فتأكّد من الترتيب الحالي على ekonomi.gov.my أو dosm.gov.my قبل الاعتماد عليه في وثيقة رسمية."
 
 lang: "ar"
+sourceContentHash: "c71507e53dcd1423"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

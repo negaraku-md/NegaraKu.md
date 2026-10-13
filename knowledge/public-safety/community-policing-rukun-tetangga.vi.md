@@ -31,8 +31,9 @@ faq:
     a: "Rukun Tetangga được Cục Đoàn kết Quốc gia và Hội nhập Quốc gia (JPNIN) thuộc Bộ Đoàn kết Quốc gia giám sát. Cơ sở pháp lý của nó là Rukun Tetangga Act 2012 (Act 751)."
 
 lang: "vi"
+sourceContentHash: "79fa6f589efc75aa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

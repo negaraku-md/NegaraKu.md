@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang membuat anggaran untuk pindah ke Kuala Lumpur atau Lembah Klang, membandingkan tawaran kerja antarkota, atau mencoba memahami mengapa ibu kota selalu memimpin peringkat biaya hidup Malaysia."
 
 lang: "id"
+sourceContentHash: "5a6f8510ce30c077"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

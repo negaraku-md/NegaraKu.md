@@ -31,8 +31,9 @@ faq:
     a: "JBPM được liệt kê là một cục thuộc Bộ Nhà ở và Chính quyền Địa phương (KPKT). Danh mục các bộ ở Malaysia được sắp xếp lại theo thời gian, nên hãy xác nhận cơ cấu hiện tại tại kpkt.gov.my hoặc bomba.gov.my trước khi dựa vào nó trong các tài liệu chính thức."
 
 lang: "vi"
+sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

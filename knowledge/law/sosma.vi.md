@@ -24,8 +24,9 @@ keyTakeaways:
 appliesTo: "Độc giả cần một trình bày trung lập, theo văn bản về SOSMA là gì và những thủ tục đặc biệt nào nó quy định — sinh viên, nhà nghiên cứu và bất kỳ ai lập bản đồ khung luật an ninh của Malaysia. Đây là một hồ sơ đạo luật mang tính mô tả, không phải tư vấn pháp lý, và không bình luận về bất kỳ vụ án, vụ truy tố hay cuộc tranh luận chính sách nào."
 
 lang: "vi"
+sourceContentHash: "23e4a7f81f4e58a1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

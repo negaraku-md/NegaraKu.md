@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Người nộp thuế cá nhân chuẩn bị việc nộp Form BE/B hằng năm của họ và kiểm tra những khoản giảm trừ nào họ có thể yêu cầu."
 
 lang: "vi"
+sourceContentHash: "3aaef5bbc4ffdb87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

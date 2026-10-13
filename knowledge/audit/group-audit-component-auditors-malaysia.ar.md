@@ -30,10 +30,11 @@ faq:
     a: "إذا كان الوصول إلى معلومات المكوّن أو مراجعيه مقيَّدًا والمكوّن مهمًّا، فقد يتعذّر على مراجع المجموعة الحصول على أدلة كافية وملائمة، وهو ما قد يؤدي إلى رأي متحفَّظ أو امتناع عن إبداء رأي على البيانات المالية للمجموعة."
 
 lang: "ar"
+sourceContentHash: "871221203173410a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

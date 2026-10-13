@@ -33,10 +33,11 @@ faq:
     a: "الحد الأدنى الوطني للأجور هو RM1,700 شهرياً، محدداً بموجب أمر الحد الأدنى للأجور لسنة 2024 (Minimum Wages Order 2024). وقد سرى على أصحاب العمل الذين لديهم خمسة عمال أو أكثر اعتباراً من 1 فبراير 2025، وعلى جميع أصحاب العمل الباقين اعتباراً من 1 أغسطس 2025 — فمنذ أغسطس 2025 يشمل عملياً كل مطعم بصرف النظر عن حجمه."
 
 lang: "ar"
+sourceContentHash: "8140436515390d62"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

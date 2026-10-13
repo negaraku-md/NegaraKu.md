@@ -33,8 +33,9 @@ faq:
     a: "Vì doanh nghiệp không phải là một pháp nhân riêng biệt, lợi nhuận của nó là thu nhập cá nhân của bạn. Bạn khai báo nó trên Mẫu B và nộp thuế theo thuế suất cá nhân (lũy tiến), khai qua cổng e-Filing của MyTax. Ngày đến hạn theo luật định là 30 tháng 6; vì Mẫu B đối với cá nhân có thu nhập kinh doanh phải được khai điện tử kể từ Năm Đánh thuế 2024, hạn chót thực tế là ngày ân hạn e-Filing 15 tháng 7."
 
 lang: "vi"
+sourceContentHash: "1a9f38c341cebf45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

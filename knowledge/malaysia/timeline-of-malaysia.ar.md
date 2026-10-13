@@ -35,12 +35,13 @@ verificationNeeded:
   - "تُحيل كل لحظة مفصلية إلى مقال كامل وموثَّق بالمصادر حيثما وُجد؛ وتلك الصفحات تحمل المراجع. أمّا التسلسل السياسي الحديث (رؤساء الوزراء، والانتخابات العامة، وقضية 1MDB، و«حركة شيراتون» في عام 2020) فهو سجلّ عامّ وقائعي، مستمدّ من مكتب رئيس الوزراء ولجنة الانتخابات، ومعروض بحياد. أمّا الإدخالات التي تمسّ 3R (العِرق / الدين / الملَكية) أو موضوعات حسّاسة أخرى — حادثة 13 مايو 1969، وعملية لالانج، وأزمة القضاء عام 1988 — فتنتظر مراجعة بشرية قبل الإنتاج."
 
 lang: "ar"
+sourceContentHash: "e58ff5504e70aafc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-18
 reviewed: 2026-08-18
 reviewDue: 2027-08-18

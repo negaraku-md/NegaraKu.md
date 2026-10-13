@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Siapa pun di Malaysia — warga negara, penduduk atau pengunjung — yang khawatir tentang kesehatan mental diri sendiri atau orang lain, dan ingin tahu secara konkret di mana harus mulai: klinik, rumah sakit, praktisi swasta, NGO, atau saluran bantuan."
 
 lang: "id"
+sourceContentHash: "4ecc5497514e228e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

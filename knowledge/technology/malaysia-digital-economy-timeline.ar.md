@@ -39,10 +39,11 @@ faq:
     a: "المكتب الوطني للذكاء الاصطناعي (National AI Office، NAIO) وكالة تابعة لوزارة الرقمنة أقرّها مجلس الوزراء في 28 أغسطس 2024 وأُطلقت في 12 ديسمبر 2024. وهي مسؤولة عن صياغة مبادرات الذكاء الاصطناعي في البلاد وتخطيطها والبحث فيها وتنسيقها وتنفيذها. ووفقًا لمعهد Tech For Good Institute، تشمل مسؤولياتها قيادة الاستراتيجية الوطنية للذكاء الاصطناعي المتوقّع أن تغطّي 2026-2030، استمرارًا لخارطة طريق الذكاء الاصطناعي 2021-2025؛ وينتظر الاسم الرسمي للاستراتيجية ونطاقها تأكيدًا من الوثائق الرسمية."
 
 lang: "ar"
+sourceContentHash: "4d479bafdf246fa8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

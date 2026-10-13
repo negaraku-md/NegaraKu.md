@@ -34,8 +34,9 @@ seoTitle: "Tulisan Jawi: Sejarah, Sistem, dan Kedudukannya Kini"
 socialTitle: "Aksara Arab yang menulis bahasa Melayu selama tujuh abad — kisah tulisan Jawi"
 
 lang: "id"
+sourceContentHash: "227837ea67cec8a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

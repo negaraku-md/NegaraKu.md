@@ -27,8 +27,9 @@ faq:
     a: "Harga RON95 bersubsidi dipertahankan RM1.99 per liter untuk warga yang layak di bawah BUDI95, tetapi harga pasar umum yang tidak bersubsidi berfluktuasi mengikuti APM."
 
 lang: "id"
+sourceContentHash: "77fbc98bce7fd506"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

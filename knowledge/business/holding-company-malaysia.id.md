@@ -33,8 +33,9 @@ faq:
     a: "Dua pungutan dapat dikenakan. Memindahkan saham dikenai bea meterai ad valorem sebesar 0.3% (RM3 untuk setiap RM1,000) atas nilai yang lebih tinggi antara imbalan atau nilai pasar saham. Dan sejak pajak keuntungan modal berlaku bagi perusahaan pada 2024, pelepasan saham perusahaan Malaysia yang tidak tercatat dapat memicu CGT — umumnya 10% dari keuntungan bersih. Keringanan dari bea meterai mungkin tersedia bagi pemindahan antara perusahaan berasosiasi, jadi pastikan syarat terkini sebelum merestrukturisasi."
 
 lang: "id"
+sourceContentHash: "f500684433842383"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

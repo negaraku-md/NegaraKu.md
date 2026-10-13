@@ -37,10 +37,11 @@ faq:
     a: "لا. 997 مخصّص تحديدًا لعمليات الاحتيال المالي حيث نُقل المال بالخداع. أما فقدان الوثائق أو الحالات غير الاحتيالية، فقدّم بلاغًا في مركز شرطة أو عبر بوابة التبليغ الإلكتروني (e-Reporting) للشرطة الملكية الماليزية."
 
 lang: "ar"
+sourceContentHash: "ae9a54e76a608697"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

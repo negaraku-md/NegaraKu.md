@@ -29,10 +29,11 @@ faq:
     a: "سوكما هي منصة الولايات التي يُظهِر فيها الرياضيون الشباب مواهبهم. ويمكن ترقية الرياضيين ذوي الإمكانات إلى برامج تطوير المواهب والاحتياط التابعة لـ MSN، ومنها إلى برنامج المنصة (Podium Programme) التابع لـ ISN، الذي يُعِدّ الرياضيين النخبة للألعاب الدولية."
 
 lang: "ar"
+sourceContentHash: "82263beab0c4a71a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

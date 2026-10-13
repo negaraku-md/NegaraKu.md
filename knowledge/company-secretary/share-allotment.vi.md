@@ -78,8 +78,9 @@ obligations:
     consequence: "Ngoại lệ s.75(2)(d) không có sẵn, nên sự cấp phát yêu cầu sự phê duyệt trước của thành viên hoặc vô hiệu theo s.75(4)"
 
 lang: "vi"
+sourceContentHash: "8cbd2aa6c4bb698a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

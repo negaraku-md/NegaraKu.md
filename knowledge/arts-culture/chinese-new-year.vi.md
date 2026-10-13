@@ -31,8 +31,9 @@ faq:
     a: "«Lou sang» (gỏi cá, lou yu sang) là phong tục Tết phổ biến ở vùng Nam Dương như Malaysia, Singapore, phần lớn được thực hiện trong bữa cơm đoàn viên hoặc các buổi họp mặt đầu năm: mọi người quây quần quanh bàn, dùng đũa hất thật cao rau củ thái sợi, cá sống thái lát và các loại nguyên liệu kèm theo, vừa hất vừa hô các lời chúc như «phong sinh thủy khởi», «càng hất càng phát». Nó rất được ưa chuộng ở địa phương, nhưng nhìn chung được xem là cách làm do cộng đồng người Hoa Nam Dương phát triển ra, chứ không bắt nguồn từ truyền thống Trung Quốc cổ xưa."
 
 lang: "vi"
+sourceContentHash: "d2c30470773fa9b0"
 masterLanguage: "zh"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

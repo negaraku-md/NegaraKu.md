@@ -31,8 +31,9 @@ faq:
     a: "ePermit, một dịch vụ web được vận hành bởi Dagang Net Technologies theo Cửa sổ Một cửa Quốc gia (National Single Window), cho phép bạn nộp đơn tới nhiều Cơ quan Cấp phép trực tuyến. Các giấy phép được duyệt được truyền điện tử đến Hải quan để xác nhận đối chiếu với tờ khai của bạn."
 
 lang: "vi"
+sourceContentHash: "f453f5001ae25d26"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

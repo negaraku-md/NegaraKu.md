@@ -41,8 +41,9 @@ verificationNeeded:
   - "Xác nhận cách NIF tương tác với Khấu trừ Tái đầu tư (Reinvestment Allowance) theo Schedule 7A và với các phê duyệt PIA hiện hữu đang được gia hạn hoặc thay đổi"
 
 lang: "vi"
+sourceContentHash: "aa93955df38668cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

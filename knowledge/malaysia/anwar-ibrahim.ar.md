@@ -31,12 +31,13 @@ verificationNeeded:
   - "التواريخ الدقيقة (المناصب الوزارية، الإقالة، الإفراج، التعيين رئيسًا للوزراء) يلزم تأكيدها مقابل ديوان رئيس الوزراء وسجلات المحاكم."
 
 lang: "ar"
+sourceContentHash: "ff741a6378247554"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-27
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

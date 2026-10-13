@@ -77,8 +77,9 @@ obligations:
     consequence: "Phạt tiền lên tới RM25,000 cộng với RM1,000 cho mỗi ngày tội danh tiếp diễn theo s.219(7)"
 
 lang: "vi"
+sourceContentHash: "52c12d78538cdf80"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

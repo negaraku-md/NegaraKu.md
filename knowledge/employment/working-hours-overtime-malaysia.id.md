@@ -51,8 +51,9 @@ obligations:
     consequence: "Pelanggaran di bawah s.59(4)"
 
 lang: "id"
+sourceContentHash: "46ae2aa3c5adc6b5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

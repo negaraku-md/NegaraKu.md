@@ -36,10 +36,11 @@ faq:
     a: "من هدف 15–30 MtCO₂eq، يكون ما يصل إلى 20 MtCO₂eq غير مشروط — إذ تلتزم به ماليزيا بصرف النظر عن أي ظرف. وتبقى 10 MtCO₂eq إضافية مشروطة، أي لن تتحقق إلا إذا تَوفَّر التمويل المناخي الدولي ونقل التكنولوجيا ودعم بناء القدرات."
 
 lang: "ar"
+sourceContentHash: "7ad2136668e2982a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

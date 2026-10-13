@@ -36,8 +36,9 @@ faq:
     a: "Che vai và đầu gối của bạn. Xà rông thường có sẵn để mượn hoặc thuê tại lối vào nếu trang phục của bạn quá hở hang. Giày thoải mái giúp ích cho cầu thang dài lên đền hang chính."
 
 lang: "vi"
+sourceContentHash: "2716ca2d76a67d28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

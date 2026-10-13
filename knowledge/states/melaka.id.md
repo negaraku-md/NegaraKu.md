@@ -37,8 +37,9 @@ verificationNeeded:
   - "Pastikan luas zona inti dan zona penyangga khusus bagian Melaka (dibandingkan keseluruhan properti serial) terhadap dokumen pencalonan 1223bis."
 
 lang: "id"
+sourceContentHash: "68b18aa6f45a809f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

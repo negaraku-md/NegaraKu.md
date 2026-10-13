@@ -33,10 +33,11 @@ faq:
     a: "يجب على الشركة الأجنبية المسجَّلة أن تُودِع عائداً سنوياً خلال 30 يوماً من ذكرى تسجيلها السنوية (المادة 576) وأن تُودِع قوائم مالية لدى SSM (المادة 575)، إضافةً إلى إبقاء تفاصيل مكتبها المسجَّل ووكيلها محدَّثة."
 
 lang: "ar"
+sourceContentHash: "76459d3892f48c61"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -38,10 +38,11 @@ obligations:
     consequence: "غرامة حتى RM250,000 أو عامان لمواصلة المعالجة بعد الانتهاء"
 
 lang: "ar"
+sourceContentHash: "0a5d002129db4742"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

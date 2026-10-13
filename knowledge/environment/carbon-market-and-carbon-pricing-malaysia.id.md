@@ -29,8 +29,9 @@ faq:
     a: "Sebuah kerangka yang diluncurkan oleh NRES pada 21 April 2026 untuk membangun pasar karbon berintegritas tinggi, daftar karbon nasional dan sistem pemantauan sebelum instrumen penetapan harga kepatuhan diperkenalkan."
 
 lang: "id"
+sourceContentHash: "da637e665e1a9fd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

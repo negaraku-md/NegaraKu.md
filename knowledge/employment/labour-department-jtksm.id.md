@@ -25,8 +25,9 @@ faq:
   - q: "Apakah JTKSM meliputi seluruh Malaysia?"
     a: "Tidak. JTKSM meliputi Semenanjung Malaysia. Sabah dan Sarawak memiliki dinas tenaga kerja mereka sendiri yang terpisah."
 lang: "id"
+sourceContentHash: "1575ce3d33c667d0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -36,8 +36,9 @@ faq:
     a: "Indonesia là một trong những đối tác thương mại quan trọng của Malaysia trong ASEAN. Vào năm 2024, xuất khẩu của Malaysia sang Indonesia đạt giá trị RM54.40 tỷ, tăng 6.9% (khoảng RM3.5 tỷ) so với năm trước và chiếm 12.4% xuất khẩu của Malaysia sang ASEAN. Điều này khiến Indonesia trở thành điểm đến xuất khẩu lớn thứ 3 của Malaysia trong ASEAN, sau Singapore và Thailand."
 
 lang: "vi"
+sourceContentHash: "42425bd622f27615"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

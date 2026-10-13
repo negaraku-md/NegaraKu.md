@@ -30,8 +30,9 @@ faq:
     a: "YTL Power đang xây dựng một công viên trung tâm dữ liệu lớn tại Kulai, Johor, và hoàn thành một cơ sở AI chạy bằng Nvidia đầu tiên được công bố đi vào hoạt động vào cuối tháng 10 năm 2025."
 
 lang: "vi"
+sourceContentHash: "430ec56c95aad0ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

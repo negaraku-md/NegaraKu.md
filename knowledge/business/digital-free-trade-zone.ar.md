@@ -47,10 +47,11 @@ verificationNeeded:
   - "أي إحصاء لحجم مناولة DFTZ أو قيمة تجارتها بعد 2020. فلا يوجد أي إحصاء من مصدر رسمي، وبعد شطب MAHB من الإدراج في 25 فبراير 2025 لا يمكن الحصول على أي منها — وهذا متعذِّر هيكليًا، لا مجرد غير موجود."
 
 lang: "ar"
+sourceContentHash: "b20fb73bf5494f07"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

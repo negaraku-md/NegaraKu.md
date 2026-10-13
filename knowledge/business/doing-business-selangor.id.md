@@ -43,8 +43,9 @@ verificationNeeded:
   - "Tarif lisensi premis tahunan MBPJ — PDF undang-undang kecil yang diterbitkan oleh MBPJ adalah gambar pindaian tanpa lapisan teks, jadi tidak ada tarif ringgit yang dapat dibaca mesin"
 
 lang: "id"
+sourceContentHash: "45a4dcba0cb44c75"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

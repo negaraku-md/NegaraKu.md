@@ -31,8 +31,9 @@ faq:
     a: "Hội đồng Fatwa Quốc gia phán quyết hiến tạng là harus (được phép) trong phiên họp ngày 23-24 tháng 6 năm 1970, với các điều kiện như tình thế cấp thiết để cứu mạng, không có yếu tố mua bán, và có được sự đồng ý của người hiến hoặc người thừa kế của họ. Fatwa này sau đó được mở rộng sang các tạng và mô khác."
 
 lang: "vi"
+sourceContentHash: "55867275b6260a32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

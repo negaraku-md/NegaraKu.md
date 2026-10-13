@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "الطلبة والمعلّمون وموظّفو الخدمة العامة والصحفيون وكل من يرى جاتا نيغارا على جواز سفر أو عملة معدنية أو رسالة حكومية أو مبنى رسمي ويرغب في معرفة معنى كل عنصر فيه."
 
 lang: "ar"
+sourceContentHash: "d089f6e067d44f67"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

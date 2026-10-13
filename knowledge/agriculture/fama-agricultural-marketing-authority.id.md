@@ -31,8 +31,9 @@ faq:
     a: "Produsen bisa memasarkan langsung kepada konsumen melalui saluran FAMA seperti Pasar Tani Kekal, Agrobazaar, My Farm Outlet dan Gerai Buah-buahan Segar, atau ikut program seperti Ladang Kontrak dan RANTAI. Rincian keikutsertaan dikonfirmasi di fama.gov.my."
 
 lang: "id"
+sourceContentHash: "f18be1d4180f5dbb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

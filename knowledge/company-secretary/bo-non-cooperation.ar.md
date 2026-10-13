@@ -24,10 +24,11 @@ verificationNeeded:
   - "التأكّد مما إن كانت لجنة الشركات الماليزية (SSM) قد أصدرت أي إرشاد إنفاذي بشأن الفترة الفاصلة المتوقَّعة بين إشعاري المادة 60C الأول والثاني"
 
 lang: "ar"
+sourceContentHash: "d0074a8a9e509a8c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

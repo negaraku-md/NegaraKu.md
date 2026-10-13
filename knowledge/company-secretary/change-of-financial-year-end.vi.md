@@ -30,8 +30,9 @@ faq:
     a: "Có. Giai đoạn 6 tháng để phân phát (công ty tư nhân, s.258) và 30 ngày để nộp cho SSM (s.259) được tính lại từ ngày kết thúc năm tài chính mới."
 
 lang: "vi"
+sourceContentHash: "518df847514632f2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

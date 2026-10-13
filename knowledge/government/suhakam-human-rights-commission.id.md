@@ -34,8 +34,9 @@ faq:
     a: "Ya. Pasal 4(2)(d) memberi SUHAKAM kekuasaan mengunjungi tempat penahanan, institusi, dan tempat lain mana pun, dan membuat rekomendasi yang perlu. Pasal 4(3), yang dimasukkan oleh amendemen 2024, menyatakan kunjungan itu tidak boleh ditolak oleh orang yang bertanggung jawab atas tempat tersebut selama prosedur yang ditetapkan dipatuhi."
 
 lang: "id"
+sourceContentHash: "41da53bbfb03e372"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -18,8 +18,9 @@ keyTakeaways:
   - "Sebuah Jawatankuasa Kerja yang terdiri dari wakil Raja-Raja dan Parti Perikatan bersama pejabat British meninjau draf itu, yang berlaku sebagai Konstitusi Federal pada 31 Agustus 1957"
 appliesTo: "Pelajar, peneliti, dan pembaca umum yang ingin memahami siapa sebenarnya yang menulis konstitusi pendirian Malaysia, atas arahan apa, dan bagaimana sebuah laporan komisi berubah menjadi hukum sebuah negara merdeka."
 lang: "id"
+sourceContentHash: "274cb6f4918d991f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

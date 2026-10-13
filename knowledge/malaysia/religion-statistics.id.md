@@ -28,8 +28,9 @@ faq:
     a: "Menurut rilis peluncuran Key Findings DOSM, Selangor mencatat jumlah tertinggi penganut Islam, Buddha, dan Hindu di antara negeri-negeri Malaysia, sementara Sarawak mencatat jumlah tertinggi penganut Kristen. Rilis tersebut hanya memberikan posisi peringkat, bukan rincian di tingkat negeri bagi setiap agama."
 
 lang: "id"
+sourceContentHash: "9209ca0d039c5f34"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

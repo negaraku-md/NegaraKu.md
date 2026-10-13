@@ -29,8 +29,9 @@ verificationNeeded:
   - "Trang Gazette Order của chính BNM về các hệ thống thanh toán không liệt kê P.U.(A) 468/2024, vốn sửa đổi các yêu cầu về doanh nghiệp được đăng ký — hãy coi chỉ mục đó là chưa đầy đủ và kiểm tra cổng công báo của AGC"
 
 lang: "vi"
+sourceContentHash: "312edd8d349c774c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

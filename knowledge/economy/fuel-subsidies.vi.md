@@ -33,8 +33,9 @@ faq:
     a: "Nó thay đổi theo giá thị trường. Gánh nặng trợ giá RON95 và diesel vào khoảng RM0.7 tỷ vào tháng 1 năm 2026 và đạt đỉnh RM7.5 tỷ vào tháng 4 năm 2026, trước khi được dự phóng khoảng RM3.5 tỷ mỗi tháng vào tháng 6 năm 2026."
 
 lang: "vi"
+sourceContentHash: "4d77f16bdf432b0a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Đăng cai Đại hội 1998 ở Kuala Lumpur, nơi nó ghi nhận thành tích tốt nhất của mình là 10 huy chương vàng và về hạng tư toàn đoàn. Đó cũng là Đại hội Thể thao Khối Thịnh vượng chung đầu tiên từng được tổ chức ở châu Á."
 
 lang: "vi"
+sourceContentHash: "d25df756ce38577d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

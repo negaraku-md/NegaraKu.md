@@ -36,8 +36,9 @@ verificationNeeded:
   - "Pastikan bagaimana frasa without lawful authority dalam s.12(1)(f) Passports Act 1966 ditafsirkan ketika seorang pekerja menyetujui penyimpanan aman oleh pemberi kerja — tidak ada preseden kasus atau panduan AGC mengenai hal itu yang dapat ditemukan"
 
 lang: "id"
+sourceContentHash: "b59bcb20c9aa24c2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

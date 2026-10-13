@@ -37,8 +37,9 @@ faq:
     a: "DE Rantau adalah program katalis Malaysia Digital untuk menjadikan Malaysia sebuah hub pengembara digital (digital nomad) di ASEAN. Program ini mengeluarkan Malaysia Digital Nomad Pass, berlaku hingga 12 bulan dan dapat diperpanjang."
 
 lang: "id"
+sourceContentHash: "bfede7bb53cd6174"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

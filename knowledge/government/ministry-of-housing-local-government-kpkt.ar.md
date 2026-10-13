@@ -27,9 +27,10 @@ faq:
   - q: "ماذا كان اسم KPKT من قبل، ومتى تغيّر الاسم؟"
     a: "كانت وزارة تطوير الحكومة المحلية؛ وقرّر مجلس الوزراء إعادة تسميتها وزارة الإسكان والحكومة المحلية في 13 ديسمبر 2023، وأُعلن ذلك في 26 ديسمبر 2023."
 lang: "ar"
+sourceContentHash: "44a0632c979d6de6"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

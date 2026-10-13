@@ -36,8 +36,9 @@ verificationNeeded:
   - "Xác nhận liệu bất kỳ thông lệ về điều khoản ràng buộc ngân hàng của Malaysia hoặc yêu cầu niêm yết của Bursa Malaysia có gắn một hệ quả cụ thể vào một phần Bất định Trọng yếu Liên quan đến Hoạt động Liên tục hay không — các tác động thương mại được mô tả ở đây là quan sát của nhà hành nghề, không phải một quy tắc được công bố"
 
 lang: "vi"
+sourceContentHash: "272fa8b449a7b590"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

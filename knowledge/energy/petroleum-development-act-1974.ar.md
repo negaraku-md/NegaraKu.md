@@ -34,12 +34,13 @@ faq:
     a: "تضع المادة 3 بيتروناس تحت سيطرة رئيس الوزراء وتوجيهه، وتوجيهاته مُلزِمة للشركة. وتشترط المادة 6 إذن رئيس الوزراء قبل أن يُجري أحد سوى بيتروناس معالجةً أو تكريرًا أو صناعة منتجات بتروكيماوية، وتمنح المادة 7 رئيس الوزراء صلاحية وضع اللوائح."
 
 lang: "ar"
+sourceContentHash: "7e742ec88e8babf9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

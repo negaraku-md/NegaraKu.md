@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Peminjam dengan pinjaman suku bunga mengambang, penabung, dan siapa saja yang mencoba memahami berita suku bunga Malaysia."
 
 lang: "id"
+sourceContentHash: "54922b7bc9867b3f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

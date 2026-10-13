@@ -37,10 +37,11 @@ faq:
     a: "يوجد إعفاء B2B محدد. مثلًا، حين يكون كل من مقدّم الخدمة والمتلقي مسجَّلين ويقدّمان الخدمة الخاضعة للضريبة نفسها، قد ينطبق إعفاء B2B، ويتوفر إعفاء المجموعة للإيجار أو التأجير بين الشركات في المجموعة المؤسسية نفسها. والإعفاءات محددة — تأكّد من الأهلية وفق إرشادات RMCD الخاصة بمجموعة خدمتك."
 
 lang: "ar"
+sourceContentHash: "4d9e9ab785dd88ab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

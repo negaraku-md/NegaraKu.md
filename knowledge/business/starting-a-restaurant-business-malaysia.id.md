@@ -33,8 +33,9 @@ faq:
     a: "Upah minimum nasional adalah RM1,700 per bulan, ditetapkan oleh Perintah Gaji Minimum 2024. Ia berlaku bagi pemberi kerja dengan lima atau lebih pekerja mulai 1 Februari 2025, dan bagi semua pemberi kerja selebihnya mulai 1 Agustus 2025 — jadi mulai Agustus 2025 ia mencakup hampir setiap restoran tanpa memandang ukuran."
 
 lang: "id"
+sourceContentHash: "8140436515390d62"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

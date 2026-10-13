@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Nhà đầu tư, người tìm việc, nhà phân tích chính sách và học sinh sinh viên đang cố đọc chính xác các số liệu thống kê công nghiệp của Malaysia."
 
 lang: "vi"
+sourceContentHash: "21e59589f33cf91e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

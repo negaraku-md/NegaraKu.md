@@ -31,8 +31,9 @@ verificationNeeded:
   - "Tanggal tepat dan jumlah Anggota Parlemen (pembelot, perundingan Yang di-Pertuan Agong) perlu disahkan dengan catatan resmi dan laporan sezaman; sumber berbeda sedikit tentang tanggal tepat pertemuan hotel itu (21–23 Februari)."
 
 lang: "id"
+sourceContentHash: "d475393c9a7ff6eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

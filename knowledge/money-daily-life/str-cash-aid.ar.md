@@ -23,10 +23,11 @@ appliesTo: "الأفراد والأسر ذوو الدخل المنخفض وال�
 verificationNeeded:
   - "تحتوي الأسئلة الشائعة الرسمية لـ STR لعام 2026 (ملف PDF على bantuantunai.hasil.gov.my/FAQ/) على تفاصيل إضافية عن شروط الأهلية ومبالغ الدفع، لكن الخط المضمّن في ذلك الملف منع الاستخراج الآلي للنص وقت الكتابة — ويُشجَّع القراء على تنزيل الملف والتحقق منه بأنفسهم، أو تسجيل الدخول إلى MySTR لمعرفة التفاصيل الشخصية الدقيقة."
 lang: "ar"
+sourceContentHash: "353147e69093acce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

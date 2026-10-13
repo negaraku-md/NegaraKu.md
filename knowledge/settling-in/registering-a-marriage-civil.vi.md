@@ -25,8 +25,9 @@ verificationNeeded:
   - "Nếu một trong hai bên đã từng kết hôn, hoặc là người nước ngoài, hãy xác nhận các giấy tờ hỗ trợ cụ thể (bản án ly hôn, giấy chứng tử, thư xác nhận tình trạng độc thân từ đại sứ quán của bạn) cần thiết cho trường hợp của bạn tại quầy JPN, vì những giấy tờ này thay đổi theo hoàn cảnh"
 
 lang: "vi"
+sourceContentHash: "6a489eafa5d0a4e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

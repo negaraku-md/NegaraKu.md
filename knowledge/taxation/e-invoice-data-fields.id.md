@@ -28,8 +28,9 @@ verificationNeeded:
   - "Batas laju API setiap titik akhir — SDK merujuk pada Integration Practices tanpa menyatakan batas numerik pada laman FAQ"
 
 lang: "id"
+sourceContentHash: "7457966f1e6638bb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

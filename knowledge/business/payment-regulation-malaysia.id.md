@@ -29,8 +29,9 @@ verificationNeeded:
   - "Halaman Gazette Order BNM sendiri untuk sistem pembayaran tidak mencantumkan P.U.(A) 468/2024, yang mengubah persyaratan bisnis terdaftar — anggap indeks itu sebagai tidak lengkap dan periksa portal warta AGC"
 
 lang: "id"
+sourceContentHash: "312edd8d349c774c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

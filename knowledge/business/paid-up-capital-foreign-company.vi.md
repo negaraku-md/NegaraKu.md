@@ -43,8 +43,9 @@ verificationNeeded:
   - "Mức lương tối thiểu RM5,000 cho chuyên gia nước ngoài nêu trong MIDA Booklet 8 đối với thương mại phân phối có trước chính sách lương Employment Pass được sửa đổi có hiệu lực từ ngày 1 tháng 6 năm 2026 và nên được đọc đối chiếu với các bậc hiện hành"
 
 lang: "vi"
+sourceContentHash: "7e020b10096556f2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -248,6 +248,27 @@ const redirects = {
   '/id/technology/mcmc-malaysia': '/id/government/mcmc-communications-multimedia-commission',
   '/id/government/ma63-sabah-sarawak-autonomy': '/id/malaysia/ma63',
   '/id/glossary/dasar-ekonomi-baru': '/id/malaysia/new-economic-policy',
+  '/ar/government/national-registration-department-jpn': '/ar/government/jpn',
+  '/ar/government/ministry-of-investment-trade-industry-miti': '/ar/government/miti',
+  '/ar/glossary/bank-negara-malaysia': '/ar/economy/bank-negara-malaysia',
+  '/ar/government/bank-negara-malaysia': '/ar/economy/bank-negara-malaysia',
+  '/ar/energy/petronas': '/ar/companies/petronas',
+  '/ar/industries/petronas-industry-profile': '/ar/companies/petronas',
+  '/ar/law/personal-data-protection-act-2010': '/ar/law/pdpa-2010',
+  '/ar/business/cyber-security-act-malaysia': '/ar/technology/cyber-security-act-2024',
+  '/ar/companies/pnb-and-asnb': '/ar/economy/pnb',
+  '/ar/glossary/felda': '/ar/agriculture/felda-land-settlement-scheme',
+  '/ar/glossary/orang-asli': '/ar/arts-culture/orang-asli',
+  '/ar/energy/tnb-tenaga-nasional': '/ar/companies/tenaga-nasional',
+  '/ar/companies/khazanah-nasional': '/ar/economy/khazanah',
+  '/ar/glossary/khazanah-nasional': '/ar/economy/khazanah',
+  '/ar/economy/deposit-insurance-pidm': '/ar/finance/pidm-deposit-and-takaful-insurance-protection',
+  '/ar/glossary/polis-diraja-malaysia': '/ar/government/pdrm',
+  '/ar/public-safety/royal-malaysia-police-pdrm': '/ar/government/pdrm',
+  '/ar/glossary/suruhanjaya-pilihan-raya': '/ar/government/spr-election-commission',
+  '/ar/technology/mcmc-malaysia': '/ar/government/mcmc-communications-multimedia-commission',
+  '/ar/government/ma63-sabah-sarawak-autonomy': '/ar/malaysia/ma63',
+  '/ar/glossary/dasar-ekonomi-baru': '/ar/malaysia/new-economic-policy',
 };
 
 export default defineConfig({
@@ -315,19 +336,17 @@ export default defineConfig({
       // ms/en/zh/ta/ja/ko/th/vi/id are all fully launched (in LOCALES, indexed, in this
       // sitemap). Indonesian (`id`) opened 2026-10-04 (Phase 3): the soft-launch filter that
       // held /id out of the sitemap was removed and id added to LOCALES + the locales map.
-      // Arabic (`ar`) is SOFT-LAUNCHED (2026-10-12, first RTL): its routes build but it is
-      // held OUT of this locales map + filtered out below, and out of LOCALES (so /ar pages
-      // are noindex via BaseLayout). At open launch, add ar here + drop the /ar filter.
+      // Arabic (`ar`) OPEN-LAUNCHED 2026-10-13 (first RTL): in LOCALES, indexed, and in this
+      // sitemap (the soft-launch /ar filter below was removed and ar added to the locales map).
       i18n: {
         defaultLocale: 'ms',
-        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id' },
+        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar' },
       },
       // Keep noindex-by-design pages OUT of the sitemap. The per-locale
       // /maintenance pages are chrome-less + `noindex` (BaseLayout), so listing
       // them in the sitemap made Google report "Excluded by 'noindex' tag" for
-      // sitemap URLs. The soft-launched `/ar` locale is likewise held out until open launch.
-      // (Every other route is index,follow, so nothing else needs filtering.)
-      filter: (page) => !/\/maintenance\/?$/.test(page) && !/\/ar(\/|$)/.test(page),
+      // sitemap URLs. (Every other route is index,follow, so nothing else needs filtering.)
+      filter: (page) => !/\/maintenance\/?$/.test(page),
       serialize(item) {
         const lastmod = lastmodFor(item.url);
         if (lastmod) item.lastmod = lastmod;

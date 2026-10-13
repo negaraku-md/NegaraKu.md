@@ -34,10 +34,11 @@ faq:
     a: "كلاهما، لكن مركز ثقل نشاطها هو الخدمات. فـMRO وتصنيع المكوّنات يهيمنان؛ وتبني ماليزيا الهياكل والمواد المركّبة وأجزاء المحركات وتصون الطائرات، لكن قدرتها في التصميم والتطوير على مستوى الطائرة الكاملة أضعف."
 
 lang: "ar"
+sourceContentHash: "5b97e205090548e0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -46,8 +46,9 @@ verificationNeeded:
   - "Apakah insentif pajak khusus apa pun untuk National Semiconductor Strategy telah diundangkan dalam Warta — tidak ada yang ditemukan"
 
 lang: "id"
+sourceContentHash: "4221d6f415c3fa4d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

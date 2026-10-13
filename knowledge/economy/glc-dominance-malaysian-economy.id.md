@@ -32,8 +32,9 @@ faq:
     a: "Ya. Inisiatif PERKUKUH yang diluncurkan pada 2021 menggariskan 20 inisiatif yang bertujuan, antara lain, memberikan setiap GLIC mandat yang lebih jelas, meningkatkan partisipasi sektor swasta ('crowding in'), dan menyelaraskan peran pemerintah dalam bisnis, sambil mengarahkan lebih banyak investasi ke arah bidang katalis dan pembangunan."
 
 lang: "id"
+sourceContentHash: "72a029d7e3ea589d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

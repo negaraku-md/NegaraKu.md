@@ -36,8 +36,9 @@ verificationNeeded:
   - "Pembagian 6 dana harga tetap / 12 dana harga berubah diperoleh dari konferensi pers PNB bertanggal 19 Desember 2025 (18 dana secara keseluruhan, 12 di antaranya harga berubah) — verifikasi ulang berdasarkan daftar dana ASNB pada peninjauan berikutnya"
 
 lang: "id"
+sourceContentHash: "1c4aaf1e059aa22b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

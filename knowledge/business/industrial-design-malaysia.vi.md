@@ -48,8 +48,9 @@ obligations:
     consequence: "Đăng ký hết hiệu lực; một thời gian ân hạn có sẵn với một khoản phụ phí RM200 mỗi tháng cho tối đa sáu tháng"
 
 lang: "vi"
+sourceContentHash: "56878f9800c2837e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

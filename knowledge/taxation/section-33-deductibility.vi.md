@@ -38,8 +38,9 @@ faq:
     a: "Người nộp thuế. Paragraph 13 của Schedule 5 của Income Tax Act 1967 đặt nghĩa vụ chứng minh rằng một đánh giá là quá mức hoặc sai sót lên người kháng cáo. Trên thực tế điều này có nghĩa là các hóa đơn, thỏa thuận, phiếu chi và bằng chứng rằng dịch vụ đã thực sự được cung cấp — một số kháng cáo được báo cáo đã thất bại thuần túy vì phạm vi và mục đích của chi phí không thể được chứng minh bằng chứng từ."
 
 lang: "vi"
+sourceContentHash: "669796e4c8074cfe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

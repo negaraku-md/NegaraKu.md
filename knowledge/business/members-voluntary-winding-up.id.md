@@ -64,8 +64,9 @@ obligations:
     consequence: "Pembubaran di bawah s.459(5) tidak mulai berjalan hingga laporan pengembalian diajukan"
 
 lang: "id"
+sourceContentHash: "4a39d9570c5bc4d4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

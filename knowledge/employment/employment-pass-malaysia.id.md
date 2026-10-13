@@ -61,8 +61,9 @@ obligations:
     consequence: "Fasilitas banding ditutup dan banding tidak dapat diajukan"
 
 lang: "id"
+sourceContentHash: "10fdb6251948c8f0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

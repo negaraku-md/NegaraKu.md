@@ -40,10 +40,11 @@ verificationNeeded:
   - "التحقق من السبب المذكور لسحب RPG 7، أي قانون المنافسة لسنة 2010، مقابل تعميم من MIA أو قرار من المجلس — إذ لم يُتَحَقَّق إلا من تاريخ السحب من وثيقة رسمية"
 
 lang: "ar"
+sourceContentHash: "ecdf13a6ded6622d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

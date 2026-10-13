@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Chủ và người lái phương tiện cơ giới ở Malaysia — ô tô, xe máy và phương tiện thương mại — muốn hiểu các loại bảo vệ bảo hiểm và yêu cầu pháp lý của chúng."
 
 lang: "vi"
+sourceContentHash: "d879ba5dcb3bf1ff"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

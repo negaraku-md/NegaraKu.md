@@ -17,8 +17,9 @@ keyTakeaways:
   - "Parameswara, pendiri Kesultanan Melaka sekitar tahun 1400, digambarkan dalam tradisi Melayu dan oleh pemerintah negeri Melaka sendiri sebagai seorang putra dari Palembang — bekas pusat pemerintahan Sriwijaya"
 appliesTo: "Pembaca yang ingin memahami apa yang menguasai Selat Melaka sebelum Melaka melakukannya, dan bagaimana sebuah kekuatan lautan yang berpusat di Sumatera akhirnya menyumbang secara langsung kepada sejarah diraja Semenanjung Tanah Melayu sendiri."
 lang: "id"
+sourceContentHash: "9c0d3b0b3dd803ef"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

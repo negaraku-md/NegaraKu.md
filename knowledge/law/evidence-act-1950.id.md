@@ -30,8 +30,9 @@ faq:
     a: "Pasal 25 menyatakan pengakuan bersalah kepada petugas polisi berpangkat lebih rendah dari Inspektur tidak dapat dibuktikan terhadap terdakwa, tunduk pada ketentuan tertulis yang tegas. Pasal 24 menjadikan pengakuan tidak relevan jika ia disebabkan bujukan, ancaman atau janji dari orang yang berkuasa."
 
 lang: "id"
+sourceContentHash: "8f64848838376657"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

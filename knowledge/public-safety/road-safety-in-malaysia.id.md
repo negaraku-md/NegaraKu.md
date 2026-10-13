@@ -35,8 +35,9 @@ faq:
     a: "Institut Penyelidikan Keselamatan Jalan Raya Malaysia (MIROS), yang didirikan pada 2007, menangani penelitian berbasis bukti, sementara Bahagian Keselamatan Jalan Raya JPJ (dahulu JKJR) memimpin advokasi dan kesadaran. Keduanya di bawah Kementerian Pengangkutan."
 
 lang: "id"
+sourceContentHash: "681af11f157961d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

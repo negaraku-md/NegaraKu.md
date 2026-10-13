@@ -57,8 +57,9 @@ obligations:
     consequence: "The Registrar may refuse to proceed with the application or registration"
 
 lang: "id"
+sourceContentHash: "a70b312603adf60f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

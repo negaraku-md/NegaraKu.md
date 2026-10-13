@@ -18,9 +18,10 @@ keyTakeaways:
   - "تصفه الهيئات الاستشارية لليونسكو بأنه أعلى جبل بين الهيمالايا وغينيا الجديدة، ويحتضن ما يُقدَّر بـ 5,000-6,000 نوع من النباتات الوعائية بما في ذلك نحو 1,000 نوع من الأوركيد"
 appliesTo: "القرّاء الراغبون في الارتفاع المُتحقَّق منه ووضع الحماية لجبل كينابالو، وفي شرح بسيط لسبب حداثة جبل غرانيتي في صباح جيولوجياً إلى هذا الحدّ."
 lang: "ar"
+sourceContentHash: "9898433b2f4e9aa1"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

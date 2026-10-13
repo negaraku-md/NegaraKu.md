@@ -38,8 +38,9 @@ faq:
     a: "Có. Người thi hành di chúc phải thông báo cho LHDN về việc tử vong, nộp tờ khai cuối cùng của người quá cố và các tờ khai của di sản, và giải quyết bất kỳ thuế và chế tài còn nợ nào trước khi phân chia di sản. LHDN có ba năm kể từ khi kết thúc năm nó được thông báo về việc tử vong để đưa ra các đánh giá."
 
 lang: "vi"
+sourceContentHash: "68ad2357941779d2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

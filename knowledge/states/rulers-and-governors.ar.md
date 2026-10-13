@@ -36,12 +36,13 @@ verificationNeeded:
   - "التحقق من أرقام المواد والأقسام مقابل النص الكامل للدستور الاتحادي (إعادة طبع 2020، AGC) إذا لزم اقتباس حرفي دقيق."
 
 lang: "ar"
+sourceContentHash: "0441017d6712ffd2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

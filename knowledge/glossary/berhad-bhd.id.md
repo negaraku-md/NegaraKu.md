@@ -32,8 +32,9 @@ faq:
     a: "Ya. Sebuah perusahaan privat boleh dikonversi menjadi perusahaan publik di bawah Akta Syarikat 2016 — lazimnya dengan mengesahkan resolusi khusus anggota, mengubah namanya agar berakhir dengan 'Berhad', dan mengajukan dokumen yang diperlukan ke Suruhanjaya Syarikat Malaysia (SSM)."
 
 lang: "id"
+sourceContentHash: "8327877494bab4c8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

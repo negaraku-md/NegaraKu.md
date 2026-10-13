@@ -27,8 +27,9 @@ faq:
   - q: "Apa dasar hukum yang memperbolehkan suatu majelis mengenakan pajak taksiran?"
     a: "Bagian XV (Pengadaran dan Penilaian). Pasal 127 memberi kuasa kepada pihak berkuasa tempatan untuk mengenakan kadar atas pegangan (holdings) dalam kawasannya, dengan dasar taksiran ditetapkan dalam Pasal 130."
 lang: "id"
+sourceContentHash: "ef5c1db3291f9813"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

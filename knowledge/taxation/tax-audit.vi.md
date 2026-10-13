@@ -57,8 +57,9 @@ obligations:
     consequence: "Một mức tăng 10% trên khoản thuế chưa trả theo s.103(5)"
 
 lang: "vi"
+sourceContentHash: "ec56f6d5e38c8e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

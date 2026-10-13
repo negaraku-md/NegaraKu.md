@@ -32,10 +32,11 @@ faq:
     a: "تحتفل الأُسر المسيحية باليوم دينياً عبر القدّاسات الكنسية. وإلى جانب ذلك، يُحتفى بعيد الميلاد على نطاق أوسع في الحياة العامة — إذ تضع المجمّعات التجارية والفنادق الزينة وتقيم تخفيضات موسمية، ويشيع تقليد البيت المفتوح في استضافة ضيوف من أي خلفية لتناول وجبة مشتركة. والمشاركة في الجانب الاجتماعي الأوسع من الموسم لا تقتصر على المسيحيين."
 
 lang: "ar"
+sourceContentHash: "4331ba5a016fc700"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

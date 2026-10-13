@@ -31,8 +31,9 @@ faq:
     a: "Đối với công ty, zakat kinh doanh được xử lý như một khoản khấu trừ (deduction) theo Section 44(11A) và bị giới hạn ở một phần bốn mươi (2.5%) của tổng thu nhập, chứ không phải một khoản giảm trừ một-ringgit-đổi-một-ringgit như cá nhân."
 
 lang: "vi"
+sourceContentHash: "850b3fce0e9aa149"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

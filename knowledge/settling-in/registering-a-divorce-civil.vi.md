@@ -35,8 +35,9 @@ faq:
     a: "Section 106 liệt kê các ngoại lệ trong đó không bắt buộc phải chuyển đến cơ quan hòa giải — ví dụ, đơn theo Section 51 (cải đạo) và Section 52 (đồng thuận của cả hai), hoặc khi không rõ nơi ở của vợ/chồng, khi người bị đơn sống ở nước ngoài và khó có khả năng vào phạm vi tài phán trong vòng sáu tháng, đã cố ý không tham dự, đang bị giam từ năm năm trở lên, bị cho là mắc bệnh tâm thần không thể chữa khỏi, hoặc khi tòa án thấy rằng hoàn cảnh đặc biệt khiến việc chuyển đến là không khả thi."
 
 lang: "vi"
+sourceContentHash: "608158d08520f03a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

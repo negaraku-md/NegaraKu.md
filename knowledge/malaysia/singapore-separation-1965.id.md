@@ -29,8 +29,9 @@ faq:
     a: "Tidak. Perjanjian itu mewajibkan kedua pihak kepada sebuah perjanjian pertahanan luar pada masa depan dengan sebuah majelis pertahanan bersama, kepada kerja sama ekonomi, dan kepada jaminan bersama antarnegara mengenai perjanjian air bertanggal 1 September 1961 dan 29 September 1962 antara Majlis Perbandaran Singapura dan Pemerintah Negeri Johor. Banding dari Mahkamah Tinggi Singapura juga terus diajukan kepada Mahkamah Persekutuan Malaysia sebagai suatu pengaturan sementara hingga Singapura menyusun undang-undang sebaliknya."
 
 lang: "id"
+sourceContentHash: "0de005f939d65ebf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

@@ -18,8 +18,9 @@ keyTakeaways:
   - "Một Nhóm Công tác gồm các đại diện của Quân vương và của Liên minh cùng các quan chức Anh đã chỉnh sửa bản dự thảo, văn bản này có hiệu lực với tư cách Hiến pháp Liên bang vào ngày 31 tháng 8 năm 1957"
 appliesTo: "Học sinh sinh viên, nhà nghiên cứu và độc giả phổ thông muốn hiểu ai thực sự đã viết bản hiến pháp lập quốc của Malaysia, theo những chỉ dẫn nào, và một bản báo cáo của ủy ban đã trở thành luật của một quốc gia độc lập như thế nào."
 lang: "vi"
+sourceContentHash: "274cb6f4918d991f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

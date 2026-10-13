@@ -31,12 +31,13 @@ faq:
     a: "خمسة معالم: Swallow Reef (ترومبو لايانغ-لايانغ)، وArdasier Reef (ترومبو أوبي)، وErica Reef (ترومبو سيبوت)، وInvestigator Shoal (ترومبو بنينجاو)، وMariveles Reef (ترومبو مونتاناني)، وكلها في الجزء الجنوبي من الأرخبيل قرب صباح."
 
 lang: "ar"
+sourceContentHash: "c7460cc1783b36b6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

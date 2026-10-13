@@ -29,8 +29,9 @@ faq:
     a: "Ya. DuitNow QR interoperabel, sehingga satu kode QR pedagang dapat dipindai oleh bank dan e-dompet yang berbeda seperti Touch 'n Go eWallet, GrabPay, dan Boost, selama mereka berpartisipasi."
 
 lang: "id"
+sourceContentHash: "d327e61449ac93b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -36,10 +36,11 @@ faq:
     a: "سياسة أطلقتها وزارة الرقمنة في 2025 لجعل ماليزيا مركزًا سحابيًا عالمي الطراز بحلول 2030، مرتكزة على السيادة على البيانات — مبدأ أن البيانات المولَّدة في ماليزيا يحكمها القانون الماليزي — إلى جانب سحابة ذكاء اصطناعي سيادية مزمعة."
 
 lang: "ar"
+sourceContentHash: "16256b5ee4d19f22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

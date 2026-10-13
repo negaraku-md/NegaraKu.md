@@ -32,10 +32,11 @@ faq:
     a: "تعرّف المادة 2 السلوك غير السليم بأنه أي سلوك يشكّل، إن ثبت، مخالفة تأديبية أو جريمة جنائية. وتُعرَّف «المخالفة التأديبية» على حدة لتشمل مخالفات الانضباط في هيئة عامة أو خاصة بموجب قانون أو مدونة سلوك أو مدونة أخلاقيات أو تعميم أو عقد عمل، بحيث يبلغ المصطلح طائفة واسعة من المخالفات، من الفساد إلى سوء السلوك في مكان العمل."
 
 lang: "ar"
+sourceContentHash: "b93871feeca0ccf6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

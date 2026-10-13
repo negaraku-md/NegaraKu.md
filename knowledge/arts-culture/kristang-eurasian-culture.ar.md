@@ -32,10 +32,11 @@ faq:
     a: "الإنترودو (Intrudu) مهرجان مائي سنوي لمجتمع البرتغاليين في ملقا يُقام يوم الأحد الذي يسبق أربعاء الرماد (بداية موسم الصوم الكبير). ويرشّ السكان والزوار الماء بعضهم على بعض في أنحاء المستوطنة البرتغالية، ويصاحب الاحتفالَ رقصةُ البرانيو."
 
 lang: "ar"
+sourceContentHash: "6be0336bb559138c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

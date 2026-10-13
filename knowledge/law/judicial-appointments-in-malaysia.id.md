@@ -30,8 +30,9 @@ faq:
     a: "Dapat, tetapi hanya melalui proses Pasal 125. Perwakilan diajukan kepada Yang di-Pertuan Agong, yang kemudian membentuk tribunal terdiri dari tidak kurang dari lima orang yang memegang atau pernah memegang jabatan hakim. Alasan terbatas pada pelanggaran kode etik atau ketidakmampuan menjalankan tugas."
 
 lang: "id"
+sourceContentHash: "609ac0242c162e91"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "RM20 setahun untuk EV berdaya 50 kW ke bawah, mengikuti panduan LKM kendaraan listrik JPJ. Tarif meningkat secara progresif untuk daya yang lebih tinggi."
 
 lang: "id"
+sourceContentHash: "926c690f458094f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ faq:
     a: "Di bawah Cyber Security Act 2024 [Act 854], permohonan untuk menyediakan layanan keamanan siber diajukan kepada Ketua Eksekutif NACSA. Kategori yang diregulasi adalah layanan pemantauan pusat operasi keamanan (SOC) terkelola dan layanan pengujian penetrasi."
 
 lang: "id"
+sourceContentHash: "a5256768a1d06815"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

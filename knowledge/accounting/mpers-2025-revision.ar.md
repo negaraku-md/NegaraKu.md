@@ -38,10 +38,11 @@ faq:
     a: "أقل مما يوحي به تاريخ 2027. فالتطبيق بأثر رجعي يعني أن فترة المقارنة يجب أن تُعدّ على الأساس الجديد، ولذلك فإن الشركة التي تنتهي سنتها في ديسمبر تلتقط بيانات MPERS (2025) اعتبارًا من 1 يناير 2026 فصاعدًا. وإذا كانت عقود الإيراد تحتاج إلى إعادة تحليل، فإن العمل يبدأ قبل سنة الانتقال، لا في أثنائها."
 
 lang: "ar"
+sourceContentHash: "016de66c249cb162"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

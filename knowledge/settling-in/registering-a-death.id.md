@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Ahli waris, anggota keluarga terdekat, atau pelapor yang bertanggung jawab mendaftarkan kematian seseorang di Malaysia dan mendapatkan akta kematian untuk urusan administrasi setelahnya."
 
 lang: "id"
+sourceContentHash: "729859064dd35894"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,10 +31,11 @@ faq:
     a: "تلزم المادة 29(3) أصحاب العمل بتعزيز التوظيف المستقر عبر تقييم قدرات ذوي الإعاقة تقييمًا معقولًا، وتوفير مكان عمل مناسب وإدارة سليمة للعمل. كما تؤهِّل تكلفة تعديل المباني للموظفين ذوي الإعاقة لخصم ضريبي بموجب الفقرة 34(6)(e) من Income Tax Act 1967."
 
 lang: "ar"
+sourceContentHash: "66843e99ec6b43d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

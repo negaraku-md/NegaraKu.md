@@ -26,8 +26,9 @@ verificationNeeded:
   - "Toàn văn của P.U.(A) 125/2026 chưa được trích xuất; tiêu đề của nó và hiệu lực ngày 1 tháng 1 năm 2026 được xác nhận từ cổng pháp luật AGC và khoản miễn 2% tương ứng trong Service Tax Policy No. 2/2025 (Amendment No. 3)"
 
 lang: "vi"
+sourceContentHash: "a8607ba4409fa9bf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

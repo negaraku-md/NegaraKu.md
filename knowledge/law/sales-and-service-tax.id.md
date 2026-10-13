@@ -37,8 +37,9 @@ faq:
     a: "Ada pembebasan B2B tertentu. Misalnya, ketika penyedia dan penerima sama-sama terdaftar dan menyediakan jasa kena pajak yang sama, pengecualian B2B dapat berlaku, dan pembebasan grup disediakan untuk penyewaan atau leasing antara perusahaan dalam grup korporat yang sama. Pengecualian bersifat spesifik — pastikan kelayakan berdasarkan panduan RMCD bagi grup jasa Anda."
 
 lang: "id"
+sourceContentHash: "4d9e9ab785dd88ab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

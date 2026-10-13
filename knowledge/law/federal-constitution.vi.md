@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn có hiểu biết mang tính cấu trúc, mô tả về khung hiến pháp của Malaysia."
 
 lang: "vi"
+sourceContentHash: "3635bd9fdb569d2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

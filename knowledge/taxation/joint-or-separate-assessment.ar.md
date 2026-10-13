@@ -25,10 +25,11 @@ verificationNeeded:
   - "أرقام نقطة التعادل التوضيحية في هذه المقالة هي عمليات حسابية على جدول الشرائح المنشور، وليست عتبة منشورة من LHDN؛ وهي تتغير بحسب الإعفاءات التي يطالب بها كل زوجين فعلياً"
 
 lang: "ar"
+sourceContentHash: "9439aef0bb0b111f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

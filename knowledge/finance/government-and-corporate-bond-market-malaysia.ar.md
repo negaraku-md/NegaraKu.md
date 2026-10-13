@@ -32,10 +32,11 @@ faq:
     a: "RENTAS (التحويل الإلكتروني الفوري للأموال والأوراق المالية) هو نظام التسوية الإجمالية الآنية لدى بنك نيغارا ماليزيا. وتُسوّى الأوراق المالية الحكومية عبره على أساس التسليم مقابل الدفع، فتنتقل النقود والأوراق المالية بين الأيدي في آنٍ واحد."
 
 lang: "ar"
+sourceContentHash: "9da4da3090cd0bd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

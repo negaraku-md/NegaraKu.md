@@ -26,8 +26,9 @@ verificationNeeded:
   - "Rincian yang diperlukan bagi struk donasi s.44(6) yang sah — halaman penjelasan penggunaan struk LHDN tidak dapat diperoleh."
 
 lang: "id"
+sourceContentHash: "5f0966be244cdbe2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

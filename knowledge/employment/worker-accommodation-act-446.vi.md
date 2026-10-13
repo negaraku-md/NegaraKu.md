@@ -62,8 +62,9 @@ obligations:
     consequence: "Hình phạt chung theo s.33 — phạt tiền lên đến RM50,000 cộng lên đến RM1,000 cho mỗi ngày tội danh tiếp diễn"
 
 lang: "vi"
+sourceContentHash: "8cdaa2fd9d045eb3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

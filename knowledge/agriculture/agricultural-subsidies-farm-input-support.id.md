@@ -34,8 +34,9 @@ faq:
     a: "Kementerian Pertanian dan Ketahanan Pangan (KPKM) melalui Bagian Pembangunan Industri Padi, dengan lembaga pelaksana seperti Lembaga Organisasi Petani (LPP), MADA dan KADA di kawasan lumbung padi masing-masing."
 
 lang: "id"
+sourceContentHash: "0db45e7ee2f93134"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

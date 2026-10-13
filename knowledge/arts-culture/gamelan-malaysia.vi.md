@@ -33,8 +33,9 @@ faq:
     a: "Bộ gamelan gốc được trả về Pahang năm 1973 và trưng bày tại Bảo tàng Pahang ở Pekan."
 
 lang: "vi"
+sourceContentHash: "c60f9bc5987b416f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

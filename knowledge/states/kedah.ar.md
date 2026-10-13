@@ -42,12 +42,13 @@ verificationNeeded:
   - "التحقّق من تاريخ مراسم تنصيب سلطان قدح الـ29 مقابل السجلات الرسمية لقصر Istana Anak Bukit؛ فالصفحة الرسمية لحكومة الولاية تذكر تاريخ الإعلان فقط."
 
 lang: "ar"
+sourceContentHash: "0d6884ea1dade121"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

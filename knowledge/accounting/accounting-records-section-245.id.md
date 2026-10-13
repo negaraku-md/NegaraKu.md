@@ -56,8 +56,9 @@ verificationNeeded:
   - "SSM tidak menerbitkan jadwal kompaun apa pun untuk pelanggaran Pasal 245 — denda yang disebutkan adalah maksimum apabila dinyatakan bersalah berdasarkan Pasal 245(9), bukan kompaun administratif"
 
 lang: "id"
+sourceContentHash: "45066b2b4838e7ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

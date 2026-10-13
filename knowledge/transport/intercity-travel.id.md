@@ -34,8 +34,9 @@ verificationNeeded:
   - "Pastikan jumlah jalur Rural Air Service terkini AirBorneo dan daftar bandaranya langsung dengan AirBorneo atau CAAM, mengingat laman RAS publik MAVCOM tidak memuat rincian tingkat jalur pada saat penulisan ini dan program itu baru saja berganti operator."
 
 lang: "id"
+sourceContentHash: "a8248270057070e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

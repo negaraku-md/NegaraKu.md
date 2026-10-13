@@ -32,8 +32,9 @@ faq:
     a: "Peraturan Deforestasi Uni Eropa mendefinisikan produk sebagai 'bebas-deforestasi' hanya jika ditanam di atas tanah yang tidak dideforestasi setelah 31 Desember 2020 (Peraturan (EU) 2023/1115, Pasal 2). Ia memerlukan geolokasi tingkat lot (pemetaan poligon), yang secara teknis sulit dihasilkan sendiri oleh petani kecil, yang sering lanjut usia dan terpencil."
 
 lang: "id"
+sourceContentHash: "88d679107671675c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

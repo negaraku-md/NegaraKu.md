@@ -33,9 +33,10 @@ faq:
     a: "مبدأ التصميم الكلاسيكي لأوان لارات يتجنّب فعلاً تصوير البشر أو الحيوان عنصراً أساسياً في النمط. غير أن للنحت على الخشب الملايوي كذلك فئة زخرفية حيوانية خاصة به — كأشكال الدجاج ووحيد القرن والبطّ — تُستخدم منفصلةً عن نمط أوان لارات المتكرّر."
 
 lang: "ar"
+sourceContentHash: "9f06d94e839f077d"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

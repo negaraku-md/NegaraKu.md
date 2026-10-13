@@ -32,8 +32,9 @@ faq:
     a: "Các vấn đề liên quan đến điện thuộc số cao nhất đối với cháy nhà ở — dây điện hỏng, ổ cắm quá tải và dây nối bị mòn. Hoạt động nấu ăn bị bỏ mặc không giám sát và rò rỉ khí LPG cũng là những tác nhân chính."
 
 lang: "vi"
+sourceContentHash: "9ccf45c843ab8ebf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -28,8 +28,9 @@ verificationNeeded:
   - "Verifikasi liabilitas pendaftaran HRD Corp berdasarkan kelas industri First Schedule dalam P.U.(A) 84/2021 sebelum menganggap levi tersebut berlaku"
 
 lang: "id"
+sourceContentHash: "09bddb62f9842f1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

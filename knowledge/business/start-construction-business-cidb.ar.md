@@ -33,10 +33,11 @@ faq:
     a: "إنها جريمة جنائية. فبموجب المادة 29 من القانون Act 520، يُعاقَب على مخالفة المادة 25(1) عند الإدانة بغرامة لا تقل عن RM10,000 ولا تتجاوز RM100,000. وبشكل منفصل، يجوز لـ CIDB بموجب المادة 30 أن يسلِّم إشعارًا كتابيًا يأمرك بإيقاف الأعمال؛ وتجاهل ذلك الإشعار جريمة في ذاتها تحمل غرامة تصل إلى RM5,000، إضافةً إلى ما يصل إلى RM1,000 عن كل يوم تستمر فيه الجريمة."
 
 lang: "ar"
+sourceContentHash: "d4cd90059b767133"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

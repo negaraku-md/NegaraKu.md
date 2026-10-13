@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "كل من يسعى إلى فهم على مستوى التوجيه العام لصناعة زيت النخيل في ماليزيا ودورها الاقتصادي."
 
 lang: "ar"
+sourceContentHash: "15826b7bb2b208ce"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

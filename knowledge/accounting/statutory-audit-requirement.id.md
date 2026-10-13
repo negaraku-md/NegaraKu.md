@@ -37,8 +37,9 @@ faq:
     a: "Auditor dapat mengundurkan diri melalui pemberitahuan tertulis kepada kantor terdaftar perusahaan (seksyen 281); jabatan berakhir 21 hari setelah pemberitahuan diberikan atau pada tanggal yang disebutkan, mana yang lebih lambat. Anggota dapat memberhentikan auditor kapan saja melalui resolusi biasa dalam rapat umum (seksyen 276), tetapi pemberitahuan khusus diperlukan (seksyen 277)."
 
 lang: "id"
+sourceContentHash: "005bacdce3786440"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

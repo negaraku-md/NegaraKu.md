@@ -56,8 +56,9 @@ obligations:
     consequence: "Klaim tidak didukung saat audit"
 
 lang: "id"
+sourceContentHash: "4e8917612cf718a7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

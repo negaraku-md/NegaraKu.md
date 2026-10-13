@@ -32,8 +32,9 @@ faq:
     a: "Không phải tất cả. SPR nêu rằng những người có địa chỉ không đầy đủ hoặc chung chung tại JPN không được đăng ký tự động vì không thể xác định đơn vị bầu cử, cũng như những người mất tư cách cử tri theo luật. SPR đối chiếu chéo với JPN, Cục Trại giam Malaysia, Bộ Y tế và Bộ Ngoại giao."
 
 lang: "vi"
+sourceContentHash: "091a7bd83f753abd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

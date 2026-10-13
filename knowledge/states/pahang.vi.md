@@ -41,8 +41,9 @@ verificationNeeded:
   - "Cổng du lịch của bang nêu diện tích 35,960 km vuông trong khi cổng chính quyền bang nêu 35,965 km vuông; xác nhận một con số chính thức duy nhất với Văn phòng Thư ký Chính quyền Pahang."
 
 lang: "vi"
+sourceContentHash: "da77a92f707cbcd4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

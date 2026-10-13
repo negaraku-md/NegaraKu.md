@@ -41,8 +41,9 @@ verificationNeeded:
   - "Tingkat produktivitas preskripsi yang membuka pengecualian 100% dalam proviso paragraf 3 Schedule 7A ditetapkan oleh Menteri dan dihitung pada formulir klaim RA; ambang preskripsi terkini tidak dipastikan dari sumber utama."
 
 lang: "id"
+sourceContentHash: "8240b93cc8d8dcd0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

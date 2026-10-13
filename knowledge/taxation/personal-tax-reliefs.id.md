@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Wajib pajak individu yang menyiapkan penyampaian Borang BE/B tahunan mereka dan memeriksa keringanan yang dapat mereka klaim."
 
 lang: "id"
+sourceContentHash: "3aaef5bbc4ffdb87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

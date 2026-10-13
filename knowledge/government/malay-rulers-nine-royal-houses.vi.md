@@ -31,8 +31,9 @@ faq:
     a: "Tố tụng đối với một Quốc vương với tư cách cá nhân chỉ có thể được đưa ra tại Tòa án Đặc biệt được lập ra theo Điều 182, và tùy thuộc vào sự chuẩn thuận của Tổng Chưởng lý."
 
 lang: "vi"
+sourceContentHash: "3f9c93463dcbf28a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

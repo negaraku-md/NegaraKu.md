@@ -31,8 +31,9 @@ faq:
     a: "RM20 một năm cho EV công suất 50 kW trở xuống, theo hướng dẫn LKM xe điện của JPJ. Mức tăng lũy tiến cho công suất cao hơn."
 
 lang: "vi"
+sourceContentHash: "926c690f458094f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

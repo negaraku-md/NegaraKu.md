@@ -29,8 +29,9 @@ faq:
     a: "Ya, jika ingin menggunakan fitur isi ulang NFC. Proses pendaftaran melibatkan verifikasi identitas (KYC) sehingga saldo kartu itu disandarkan ke akun eWallet Anda — ini turut memberi lapisan perlindungan tambahan jika kartu hilang, dibandingkan kartu tanpa daftar yang saldonya dapat digunakan siapa saja yang menemukannya."
 
 lang: "id"
+sourceContentHash: "a15af3c5fd918fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

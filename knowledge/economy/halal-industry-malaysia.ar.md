@@ -29,12 +29,13 @@ faq:
     a: "بلغت صادرات المنتجات الحلال في ماليزيا RM61.79 مليار في عام 2024، بارتفاع 15% عن RM53.72 مليار في عام 2023 (MITI). وبالنسبة للفترة من يناير إلى سبتمبر 2024، بلغت قيمة الصادرات RM45.04 مليار مقارنة بـRM39.36 مليار في الفترة نفسها من عام 2023 (MITI/MIDA)."
 
 lang: "ar"
+sourceContentHash: "1b16a223e725d8d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -29,8 +29,9 @@ faq:
     a: "Áo batik là trang phục chính thức được chấp nhận cho nam giới, mặc tại các sự kiện trang trọng, đám cưới và các sự kiện ngoại giao thay cho vest và cà vạt. Các văn phòng chính phủ quy định ngày mặc batik, giữ nó trong lưu hành thường xuyên và không giới hạn ở việc dùng nghi lễ đơn thuần."
 
 lang: "vi"
+sourceContentHash: "239aa5ec5e035842"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

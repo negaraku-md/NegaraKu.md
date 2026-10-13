@@ -42,8 +42,9 @@ verificationNeeded:
   - "Hãy xác nhận thời hạn lưu giữ sổ sách của Sales Tax Act 2018 và Service Tax Act 2018 một cách riêng biệt trước khi mở rộng phân tích này sang các tài liệu SST"
 
 lang: "vi"
+sourceContentHash: "8f59afbef6de896e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

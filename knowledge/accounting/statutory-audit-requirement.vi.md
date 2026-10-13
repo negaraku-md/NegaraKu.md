@@ -37,8 +37,9 @@ faq:
     a: "Kiểm toán viên có thể từ chức qua một thông báo văn bản gửi đến trụ sở đăng ký của công ty (section 281); chức vụ chấm dứt 21 ngày sau khi thông báo được đưa ra hoặc vào ngày được nêu, tùy ngày nào muộn hơn. Thành viên có thể bãi nhiệm kiểm toán viên bất cứ lúc nào qua một nghị quyết thông thường tại đại hội đồng (section 276), nhưng cần một thông báo đặc biệt (section 277)."
 
 lang: "vi"
+sourceContentHash: "005bacdce3786440"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

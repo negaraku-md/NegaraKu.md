@@ -32,12 +32,13 @@ faq:
     a: "لا. تنصّ المادة 114(3) على أنه لا يجوز عزل عضو في SPR من منصبه إلا للأسباب ذاتها وبالطريقة ذاتها المقرَّرة لقاضٍ في المحكمة الاتحادية، وهو ضمان يهدف إلى دعم استقلال اللجنة."
 
 lang: "ar"
+sourceContentHash: "4ee6643ef314a576"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

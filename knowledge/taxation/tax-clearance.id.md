@@ -65,8 +65,9 @@ obligations:
     consequence: "Liabilitas di bawah Pasal 107(4) atas jumlah penuh pajak yang harus dibayar pekerja, sebagai utang kepada Pemerintah"
 
 lang: "id"
+sourceContentHash: "59c7042463497f7b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

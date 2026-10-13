@@ -31,8 +31,9 @@ faq:
     a: "GSH sử dụng các điều kiện dựa trên kết quả thay vì một ngưỡng cố định duy nhất. Một công ty phải được thành lập tại Malaysia, tiến hành các dịch vụ đủ điều kiện, và cam kết đạt các chỉ tiêu về chi phí vận hành hằng năm, số lượng nhân viên toàn thời gian giá trị cao, việc tuyển dụng cấp cao C-suite, sử dụng các dịch vụ phụ trợ địa phương, hợp tác với các cơ sở giáo dục địa phương, đào tạo người Malaysia, và các yếu tố môi trường, xã hội và quản trị. Hiệu suất được xem xét, và ưu đãi có thể bị thu hồi nếu các điều kiện không được đáp ứng."
 
 lang: "vi"
+sourceContentHash: "1d7afd9b7e62d44a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

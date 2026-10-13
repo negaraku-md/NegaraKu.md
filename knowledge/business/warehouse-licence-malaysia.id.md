@@ -33,8 +33,9 @@ faq:
     a: "Di atas izin tempat usaha, CCC, dan sertifikat kebakaran BOMBA, menyimpan barang berbahaya atau membahayakan melibatkan Jabatan Keselamatan dan Kesihatan Pekerjaan (DOSH) — misalnya rezim kontrol bahaya kecelakaan besar industri untuk bahan berbahaya curah — dan Jabatan Alam Sekitar (DOE) jika terdapat limbah terjadwal atau bahan kimia terkendali. Jika barang itu juga kena bea dan disimpan di bawah ikatan, syarat izin Bea Cukai turut berlaku. Cakup persetujuan ini sejak awal, karena ia dapat menentukan bangunan dan lokasi sebelum Anda menandatangani sewa."
 
 lang: "id"
+sourceContentHash: "25fea0864e2d1d42"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -36,10 +36,11 @@ faq:
     a: "لا. تستثني المادة 2 صراحةً الحياة البرية الواقعة ضمن القائمة الثانية من الجدول التاسع للدستور الاتحادي وضمن قانون مصايد الأسماك لسنة 1985 (Fisheries Act 1985)، ومن ثمّ تُنظَّم الأنواع البحرية ومعظم أنواع المصايد في موضع آخر."
 
 lang: "ar"
+sourceContentHash: "657883a3e9a64208"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

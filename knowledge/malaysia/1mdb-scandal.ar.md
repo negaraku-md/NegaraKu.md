@@ -31,12 +31,13 @@ verificationNeeded:
   - "حساسة / تتطلب موافقة بشرية + قانونية قبل النشر (إجراءات قانونية). جرى التحقّق من الوقائع الرئيسية مقابل مصادر موثوقة: إدانة محاكمة 1MDB الرئيسية في 26 ديسمبر 2025 وحكم السجن 15 سنة/الغرامة RM11.4 مليار (CNN، Al Jazeera، PBS، Malay Mail)، والطعن بالاستئناف في 30 ديسمبر 2025 (Malay Mail)، وتخفيض حكم SRC إلى النصف في فبراير 2024 (CNN)، وأرقام وزارة العدل الأمريكية US$4.5 مليار/US$1.1 مليار (DOJ)، ووضع Jho Low الفارّ من العدالة. وجميع الإدانات قيد الاستئناف وهي موصوفة كذلك. ومع ذلك ينبغي أن يؤكّد مراجِع بشري مؤهَّل الوضع الراهن قبل النشر، لأنها مسألة قائمة."
 
 lang: "ar"
+sourceContentHash: "ccd0acf0bc2157a5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-27
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

@@ -34,8 +34,9 @@ faq:
     a: "Chiến thắng chức vô địch regu đồng đội King's Cup cuối cùng của Malaysia là vào năm 1988. Đến năm 2024, cuộc chờ đợi đó đã đạt khoảng 36 năm khi Malaysia thua 0-2 trước chủ nhà Thái Lan tại Nakhon Ratchasima."
 
 lang: "vi"
+sourceContentHash: "a468b0e147901427"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -40,8 +40,9 @@ verificationNeeded:
   - "Cần xác nhận văn bản hiện hành và các điều kiện đủ điều kiện của Employment (Termination and Lay-Off Benefits) Regulations 1980 khi chúng áp dụng cho việc hết hạn của một thời hạn cố định"
 
 lang: "vi"
+sourceContentHash: "529468bbc9f83e00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

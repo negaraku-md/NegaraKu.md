@@ -34,8 +34,9 @@ faq:
     a: "Vận hành mà không đăng ký là một tội. Theo Mục 39, một pháp nhân chịu mức phạt từ RM10,000 đến RM50,000 cho lần vi phạm đầu tiên và RM20,000 đến RM100,000 cho lần tiếp theo; một cá nhân chịu mức phạt từ RM5,000 đến RM25,000 hoặc phạt tù tới sáu tháng cho lần vi phạm đầu tiên."
 
 lang: "vi"
+sourceContentHash: "86582fd00a53a2cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

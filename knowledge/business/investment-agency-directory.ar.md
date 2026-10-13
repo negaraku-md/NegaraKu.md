@@ -43,10 +43,11 @@ verificationNeeded:
   - "تأكّد مما إذا كانت SEDIA وNCER وECERDC تملك سلطة اعتماد تصاريح المغتربين بما يعادل سلطة IRDA، وهو ما لم يَثبُت"
 
 lang: "ar"
+sourceContentHash: "dbc6e7a307297e3a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

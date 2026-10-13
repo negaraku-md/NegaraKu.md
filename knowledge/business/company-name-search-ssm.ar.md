@@ -38,10 +38,11 @@ verificationNeeded:
   - "قائمة جهات الإحالة والكلمات الخاضعة للرقابة في الملحق 1 (Lampiran 1) من إرشادات أسماء الشركات مُعلَنة صراحةً بأنها غير حصرية — تحقَّق من القائمة الحالية لدى SSM قبل الاعتماد عليها"
 
 lang: "ar"
+sourceContentHash: "7ac1590970b850fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

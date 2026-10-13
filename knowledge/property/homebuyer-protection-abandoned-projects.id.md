@@ -33,8 +33,9 @@ faq:
     a: "Putusan Tribunal adalah final dan mengikat serta dapat ditegakkan seperti perintah pengadilan. Kegagalan mematuhi putusan adalah satu pelanggaran yang dapat dikenakan denda RM10,000 hingga RM50,000 atau penjara hingga dua tahun, atau keduanya."
 
 lang: "id"
+sourceContentHash: "f08885d66ba27130"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

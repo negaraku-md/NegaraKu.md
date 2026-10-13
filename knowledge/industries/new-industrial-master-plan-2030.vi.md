@@ -36,8 +36,9 @@ faq:
     a: "Một cấu trúc ba tầng: một Hội đồng Quốc gia do Thủ tướng làm chủ tịch, một Ủy ban Điều hành do Bộ trưởng MITI dẫn dắt, và một Đơn vị Quản lý Triển khai do Tổng Thư ký (KSU) của MITI dẫn dắt."
 
 lang: "vi"
+sourceContentHash: "edde30241ce67971"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -38,10 +38,11 @@ verificationNeeded:
   - "تأكيد معاملة المديرين التنفيذيين بوصفهم عمالًا (workmen) بموجب s.20 من قانون العلاقات الصناعية لسنة 1967 (Industrial Relations Act 1967) — فهذا يتوقف على السوابق القضائية، لا على ظاهر النص التشريعي"
 
 lang: "ar"
+sourceContentHash: "aa6dbf128ae02aa9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

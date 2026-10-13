@@ -31,12 +31,13 @@ verificationNeeded:
   - "جميع الأرقام يلزم تأكيدها مع لجنة الانتخابات الماليزية (Suruhanjaya Pilihan Raya)؛ ويُلاحَظ أن المجاميع النهائية تختلف قليلًا عن أرقام ليلة الانتخابات بسبب مقعد مؤجَّل."
 
 lang: "ar"
+sourceContentHash: "acdebe065daafc2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

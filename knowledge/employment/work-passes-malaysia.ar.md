@@ -38,10 +38,11 @@ verificationNeeded:
   - "تحقّق مما إذا كان متغيّر DE Rantau Sarawak يحمل حدودًا دنيا للدخل أو مدةً مختلفة عن تصريح البُدّو الرقميين DE Rantau الاتحادي"
 
 lang: "ar"
+sourceContentHash: "1cf0d4000ca23029"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

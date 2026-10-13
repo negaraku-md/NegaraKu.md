@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Warga negara Malaysia yang tidak yakin kartu mana yang wajib dimiliki pada tahap usia berbeda, pemukim tetap yang baru disetujui Permit Masuk, dan warga asing yang ingin tahu apakah mereka akan memegang kartu JPN apa pun."
 
 lang: "id"
+sourceContentHash: "873639e4a7149ab4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
   - q: "Keputusan mana yang memerlukan resolusi khusus?"
     a: "Mengubah, mengadopsi atau membatalkan konstitusi (pasal 36), mengubah nama perusahaan (pasal 28), mengurangi modal saham melalui jalur pengadilan (pasal 116) atau jalur pernyataan solvensi (pasal 117), dan memulai pembubaran sukarela oleh anggota (pasal 439) semuanya memerlukan resolusi khusus."
 lang: "id"
+sourceContentHash: "b65d4a86d107f772"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

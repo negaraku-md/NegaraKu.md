@@ -36,8 +36,9 @@ verificationNeeded:
   - "Danh mục cổng thông tin ngoài MySST và ezHS (MyTTx, MyDLV, hệ thống tem thuế, MNTR) không được xác nhận với một trang RMCD được dẫn; ấn bản hiện tại của Lệnh Thuế Hải quan và số lượng biểu ưu đãi FTA trong ezHS cũng không được xác nhận và được mô tả một cách định tính"
 
 lang: "vi"
+sourceContentHash: "e8cda8bbe6ecdbc9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

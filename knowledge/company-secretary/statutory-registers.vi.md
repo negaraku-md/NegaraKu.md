@@ -23,8 +23,9 @@ verificationNeeded:
   - "Xác nhận biểu phí nộp trễ hiện hành của SSM đối với các thông báo liên quan đến sổ đăng ký so với chỉ thị thực hành hiện hành của SSM về chế tài nộp trễ"
 
 lang: "vi"
+sourceContentHash: "ff4434b4487bfa3d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

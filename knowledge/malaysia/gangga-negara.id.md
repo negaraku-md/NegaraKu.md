@@ -17,8 +17,9 @@ keyTakeaways:
   - "Sejarawan seperti James Low (1849) dan H.G. Quaritch Wales mencoba melacak lokasinya tetapi tidak berhasil memastikannya"
 appliesTo: "Pembaca yang pernah mendengar nama Gangga Negara dalam pelajaran sejarah atau media sosial dan ingin tahu apa sebenarnya yang dapat dibuktikan, dibandingkan apa yang hanya legenda."
 lang: "id"
+sourceContentHash: "4947488c0b12f663"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

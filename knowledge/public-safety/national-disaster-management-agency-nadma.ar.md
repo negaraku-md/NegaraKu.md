@@ -29,10 +29,11 @@ faq:
     a: "حلّ محله توجيه NADMA رقم 1، الذي أُقرّ في اجتماع مجلس الأمن الوطني (MKN) برئاسة رئيس الوزراء في 1 أغسطس 2024."
 
 lang: "ar"
+sourceContentHash: "cb54d0894eec9ad2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -21,9 +21,10 @@ keyTakeaways:
 appliesTo: "كل من يحتاج إلى الوقائع الأساسية عن ماليزيا — عدد السكان، والمساحة، والعاصمة، والعملة، واللغة، والناتج المحلي الإجمالي — مع إسناد كل رقم إلى الإصدار الرسمي المُحدَّد الذي ينشره، بدلاً من ملخص بلا مصدر."
 
 lang: "ar"
+sourceContentHash: "dc264630ca2e722e"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

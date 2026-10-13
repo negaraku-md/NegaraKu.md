@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Phụ huynh và học sinh tại Malaysia đang lựa chọn giữa trường quốc gia, trường tư thục theo chương trình quốc gia và trường Trung học Hoa Độc lập, và bất kỳ ai đang cố hiểu một trường SMJK, một trường tư thục, hay một chứng chỉ UEC thực sự đại diện cho điều gì."
 
 lang: "vi"
+sourceContentHash: "ea334d9ab0b14453"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

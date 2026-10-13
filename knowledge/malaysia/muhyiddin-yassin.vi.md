@@ -32,8 +32,9 @@ verificationNeeded:
   - "Các ngày chính xác (nhiệm kỳ thủ tướng, việc từ chức, thời kỳ khẩn cấp) cần được xác nhận so với Văn phòng Thủ tướng (Prime Minister's Office) và hồ sơ chính thức."
 
 lang: "vi"
+sourceContentHash: "b981e60c4f8e26f9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

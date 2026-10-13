@@ -32,8 +32,9 @@ faq:
     a: "Đó là cách diễn đạt mà cả hai chính phủ áp dụng để mô tả giai đoạn tiếp theo của quan hệ, dựa trên quan hệ đối tác chiến lược toàn diện được thiết lập vào năm 2013. Khái niệm này được nêu ra từ năm 2023 và được chính thức hóa trong một tuyên bố chung trong chuyến thăm cấp nhà nước của Chủ tịch Tập Cận Bình vào ngày 17 tháng 4 năm 2025. Nó đề ra sự hợp tác trên các lĩnh vực thương mại, công nghệ, cơ sở hạ tầng và các mối liên kết giữa người dân với người dân."
 
 lang: "vi"
+sourceContentHash: "72782c6871b15658"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

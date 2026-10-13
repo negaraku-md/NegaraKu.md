@@ -31,8 +31,9 @@ faq:
     a: "Các lô hàng có giá trị RM500 trở xuống nói chung được miễn thuế nhập khẩu và thuế bán hàng ở biên giới. Tuy nhiên, kể từ ngày 1 tháng 1 năm 2024, một thuế bán hàng riêng 10% trên Hàng hóa Giá trị Thấp áp dụng cho các mặt hàng như vậy được bán trực tuyến và vận chuyển vào Malaysia, do người bán hoặc sàn thương mại đã đăng ký thu."
 
 lang: "vi"
+sourceContentHash: "49578a6ca3069696"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

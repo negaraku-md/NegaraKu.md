@@ -34,8 +34,9 @@ faq:
     a: "Ya. Selama fase dasar (tiga hingga lima tahun pertama), kerangka kerja BNM membatasi jumlah aset setiap bank digital menjadi tidak lebih RM3 miliar. Ini memungkinkan BNM mengamati kinerja dan risiko sebelum bank berkembang lebih besar."
 
 lang: "id"
+sourceContentHash: "586acae3d2012d4e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

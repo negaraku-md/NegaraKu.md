@@ -64,8 +64,9 @@ obligations:
     consequence: "Việc giải thể theo s.459(5) không bắt đầu chạy cho đến khi báo cáo được nộp"
 
 lang: "vi"
+sourceContentHash: "4a39d9570c5bc4d4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -33,8 +33,9 @@ faq:
     a: "Tidak. Pendidikan tinggi termasuk di bawah undang-undang yang terpisah. Seksyen 71 Akta Pendidikan 1996 mengecualikan institusi pendidikan tinggi swasta, dan ia diatur oleh Akta Institusi Pendidikan Tinggi Swasta 1996 (Akta 555), diatur oleh Kementerian Pendidikan Tinggi (KPT). Anda memerlukan Surat Izin untuk mendirikan, kemudian pendaftaran dengan Ketua Pendaftar IPTS dan Sertifikat Pendaftaran, di samping persetujuan kursus dan akreditasi MQA bagi program Anda — satu rezim yang lebih berat daripada pusat les atau sekolah."
 
 lang: "id"
+sourceContentHash: "d390cb119ff8a023"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,10 +29,11 @@ faq:
     a: "يُسجَّل البنك أو شركة التمويل بوصفه المالك القانوني للمركبة بموجب قانون الإيجار الشراء لسنة 1967 (Hire-Purchase Act 1967) طوال مدة القرض. والمشتري هو الحائز المسجَّل الذي يستعمل المركبة يومياً، ولا يصبح المالك المسجَّل إلا حين يُسدَّد القرض بالكامل ويصدر الممّول إفراجاً."
 
 lang: "ar"
+sourceContentHash: "fbeedb8341d7b377"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

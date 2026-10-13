@@ -34,8 +34,9 @@ faq:
     a: "Sejauh ini Konstitusi tidak membatasi masa jabatan. Pada 2026, satu rancangan undang-undang perubahan Konstitusi diusulkan untuk membatasi masa jabatan Perdana Menteri menjadi agregat sepuluh tahun; status akhir perubahan itu perlu diperiksa pada sumber resmi."
 
 lang: "id"
+sourceContentHash: "a4359d9c03eadb4d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

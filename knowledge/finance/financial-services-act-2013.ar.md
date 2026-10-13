@@ -25,9 +25,10 @@ faq:
   - q: "ما الفرق بين FSA 2013 وIFSA 2013؟"
     a: "ينظّم FSA (Act 758) المؤسسات والأسواق المالية التقليدية، بينما قانون الخدمات المالية الإسلامية لسنة 2013 (IFSA) هو نظيره المتوافق مع الشريعة. وقد دخل كلاهما حيز التنفيذ في 30 يونيو 2013؛ وأُلغيت القوانين التقليدية (مثل قانون البنوك والمؤسسات المالية لسنة 1989 وقانون التأمين لسنة 1996) بموجب FSA، بينما أُلغي قانون المصارف الإسلامية لسنة 1983 (Islamic Banking Act 1983) وقانون التكافل لسنة 1984 (Takaful Act 1984) بموجب IFSA."
 lang: "ar"
+sourceContentHash: "fd80ff13fe1dede7"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

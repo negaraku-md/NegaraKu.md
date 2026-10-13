@@ -46,10 +46,11 @@ verificationNeeded:
   - "تأكد مما إذا كان قد صدر أي تشريع فرعي في الجريدة الرسمية منذ ذلك الحين يحدد معدلات JS-SEZ أو National Global Services Hub أو New Investment Incentive Framework بموجب المادة 65B من قانون ضريبة الدخل لسنة 1967"
 
 lang: "ar"
+sourceContentHash: "667fe9c1898504ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

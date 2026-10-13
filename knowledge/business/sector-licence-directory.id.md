@@ -31,8 +31,9 @@ verificationNeeded:
   - "Judul singkat Bahasa Inggris yang digunakan oleh JAKIM dan Pendaftar Pertubuhan — keduanya tidak terdapat pada situs web instansi masing-masing"
 
 lang: "id"
+sourceContentHash: "de6126fff54d2ff3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

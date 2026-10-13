@@ -29,8 +29,9 @@ faq:
   - q: "Những quyết định nào yêu cầu một nghị quyết đặc biệt?"
     a: "Thay đổi, thông qua hoặc thu hồi điều lệ (section 36), thay đổi tên công ty (section 28), giảm vốn cổ phần bằng con đường tòa án (section 116) hoặc con đường tuyên bố khả năng thanh toán (section 117), và bắt đầu một sự giải thể tự nguyện của các thành viên (section 439) đều yêu cầu một nghị quyết đặc biệt."
 lang: "vi"
+sourceContentHash: "b65d4a86d107f772"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

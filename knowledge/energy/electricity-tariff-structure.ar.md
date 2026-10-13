@@ -27,10 +27,11 @@ faq:
     a: "لا. يُعفى من رسم التجزئة الشهري البالغ RM10 كل أسرة تستهلك 600 kWh أو أقل شهريًا."
 
 lang: "ar"
+sourceContentHash: "6f49b99389da2c61"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

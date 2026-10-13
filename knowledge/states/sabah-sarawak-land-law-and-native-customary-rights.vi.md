@@ -32,8 +32,9 @@ faq:
     a: "Chưa hoàn toàn. Tòa Liên bang xác nhận sự công nhận theo thông luật đối với NCR trong vụ Madeli bin Salleh (2007), nhưng trong vụ TR Sandah (2016) một tòa án bị chia rẽ giới hạn các quyền có thể thực thi ở đất được canh tác và bác bỏ các yêu sách đối với rừng cộng đồng xung quanh. Phạm vi của NCR vẫn còn được tranh luận."
 
 lang: "vi"
+sourceContentHash: "f1772b5d15bbbf86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Xác nhận các yêu cầu nộp đơn xin Giấy chứng nhận cư trú hiện hành và thời gian xử lý trên dịch vụ e-Residence của LHDN; bản thân tiêu chí cư trú đã có nguồn nhưng cơ chế nộp đơn không được đề cập trong Public Ruling No. 9/2019"
 
 lang: "vi"
+sourceContentHash: "2a0ef17e2859fe87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

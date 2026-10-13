@@ -36,8 +36,9 @@ verificationNeeded:
   - "Sự phân chia 6 giá cố định / 12 giá biến đổi được rút ra từ thông cáo báo chí ngày 19 tháng 12 năm 2025 của PNB (18 quỹ tổng cộng, 12 trong số đó giá biến đổi) — xác nhận lại với danh sách quỹ của ASNB tại lần rà soát tiếp theo"
 
 lang: "vi"
+sourceContentHash: "1c4aaf1e059aa22b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -23,10 +23,11 @@ appliesTo: "أصحاب العمل الذين يقرّرون ما إذا كان �
 
 verificationNeeded: []
 lang: "ar"
+sourceContentHash: "e20a9bba2377fd31"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

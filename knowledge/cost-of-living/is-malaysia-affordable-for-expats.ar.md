@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "الوافدون، والعاملون عن بُعد، والقادمون الجدد الذين يوازنون تكلفة المعيشة في ماليزيا مقابل مرجع غربي للرواتب والإنفاق قبل الانتقال."
 
 lang: "ar"
+sourceContentHash: "4843205b62ed2e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

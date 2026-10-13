@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "الأسر في ماليزيا التي تدرس توظيف مساعِدة منزلية أجنبية مقيمة، أو مساعدة محلية بدوام جزئي، أو رعاية نفاس (مربية أو مركز) بعد الولادة."
 
 lang: "ar"
+sourceContentHash: "1482c677a5d90d95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

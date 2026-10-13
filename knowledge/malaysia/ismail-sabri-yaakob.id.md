@@ -32,8 +32,9 @@ verificationNeeded:
   - "Tanggal tepat (awal/akhir masa jabatan perdana menteri, pengangkatan TPM) perlu diverifikasi dengan Jabatan Perdana Menteri dan catatan resmi."
 
 lang: "id"
+sourceContentHash: "01485efbacf83246"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

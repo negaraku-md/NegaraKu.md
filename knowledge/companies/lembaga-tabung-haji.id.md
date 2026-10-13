@@ -30,8 +30,9 @@ faq:
     a: "TH secara historis dikaitkan dengan sektor keuangan Islam, termasuk Bank Islam Malaysia dan Syarikat Takaful Malaysia Keluarga, di samping kepemilikan dalam berbagai kelas aset lain sebagai investor institusi. Rincian kepemilikan terkini dan persentase kepentingan perlu dirujuk pada laporan keuangan resmi TH dan perusahaan terkait, karena struktur kepemilikan (misalnya restrukturisasi kelompok BIMB pada 2023) dapat berubah."
 
 lang: "id"
+sourceContentHash: "440a6d426804d717"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

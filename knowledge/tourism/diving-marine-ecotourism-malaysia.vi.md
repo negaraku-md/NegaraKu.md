@@ -31,8 +31,9 @@ faq:
     a: "Nó phụ thuộc vào vị trí. Các công viên biển ở bán đảo Malaysia và Labuan thuộc liên bang, do Cục Nghề cá Malaysia quản lý theo Luật Nghề cá (Fisheries Act 1985). Các công viên ở Sabah, bao gồm Sipadan, do cơ quan cấp bang Sabah Parks quản lý theo luật cấp bang riêng."
 
 lang: "vi"
+sourceContentHash: "4a736d507026f7b4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

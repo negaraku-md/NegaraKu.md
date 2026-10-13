@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tại Malaysia sắp đối mặt với một lần tư vấn chuyên khoa hoặc nhập viện tại một cơ sở tư nhân — bệnh nhân, người chăm sóc, và người lao động dựa vào thẻ y tế hoặc bảo hiểm do người sử dụng lao động cung cấp."
 
 lang: "vi"
+sourceContentHash: "ae428a676e96d0c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

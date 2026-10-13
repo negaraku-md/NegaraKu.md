@@ -28,8 +28,9 @@ faq:
     a: "Nó đã được biết đến khắp cả nước, có màu sắc và hình dáng hấp dẫn, có tên gọi đồng nhất, dễ tìm, và chưa trở thành quốc hoa của bất kỳ quốc gia nào khác vào thời điểm đó."
 
 lang: "vi"
+sourceContentHash: "a06373b8a03d8ae0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,10 +34,11 @@ faq:
     a: "يتفاوت المبلغ بحسب دولة المصدر — RM250 (إندونيسيا، تايلند، كمبوديا)، وRM750 (الفلبين، سريلانكا، الهند)، وRM1,500 (فيتنام، لاوس) وفقاً لدائرة الهجرة. ويمكن استرداد السند عند عودة العاملة، رهناً بالشروط."
 
 lang: "ar"
+sourceContentHash: "80b7fb78bc8f91cd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

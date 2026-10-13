@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "أصحاب العمل وفرق الموارد البشرية والموظفون الذين يسعون إلى فهم إطار الادخار التقاعدي في ماليزيا."
 
 lang: "ar"
+sourceContentHash: "c90387d901bf5d08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

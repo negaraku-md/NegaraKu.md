@@ -33,8 +33,9 @@ faq:
     a: "Điều 153(4), (7) và (8) nêu rằng Điều này không thể tước đi của một người vị trí công vụ, học bổng, quyền, đặc quyền, giấy phép mà họ đã được hưởng hoặc đang nắm giữ."
 
 lang: "vi"
+sourceContentHash: "90a331e05e64e807"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

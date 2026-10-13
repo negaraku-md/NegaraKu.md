@@ -31,8 +31,9 @@ faq:
     a: "Ya. Sistem pendidikan nasional Malaysia mencakup sekolah jenis kebangsaan (Sekolah Jenis Kebangsaan) yang menggunakan Mandarin (SJKC) atau Tamil (SJKT) sebagai bahasa pengantar, di samping sekolah kebangsaan (SK) yang menggunakan Bahasa Melayu. Ketiganya berada di bawah Kementerian Pendidikan dan kurikulum nasional yang sama."
 
 lang: "id"
+sourceContentHash: "ab65f68bd17c67a2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

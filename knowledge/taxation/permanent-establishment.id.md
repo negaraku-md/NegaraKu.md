@@ -39,8 +39,9 @@ verificationNeeded:
   - "Daftar penuh reservasi dan notifikasi MLI Malaysia bagi Artikel 12 dan 13 tidak diperoleh dari sumber pemerintah Malaysia. Teks sintesis (synthesised text) Malaysia-Jepang memastikan kedua artikel berlaku bagi pasangan perjanjian itu; jangan menggeneralisasi kepada perjanjian lain tanpa membaca teks sintesisnya sendiri"
 
 lang: "id"
+sourceContentHash: "7dd6ea1d4a097c43"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

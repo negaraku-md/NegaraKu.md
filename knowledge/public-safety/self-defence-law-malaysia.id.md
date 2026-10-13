@@ -28,8 +28,9 @@ faq:
     a: "Tidak. Menurut Pasal 102, hak membela tubuh hanya berlanjut selama kekhawatiran bahaya yang wajar berlanjut. Tindakan yang berlanjut setelah ancaman berakhir dapat dianggap sebagai serangan balasan, bukan pembelaan."
 
 lang: "id"
+sourceContentHash: "7668765b92f13005"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

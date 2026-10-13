@@ -19,8 +19,9 @@ keyTakeaways:
   - "Pendaftaran kendaraan diajukan secara elektronik melalui salah satu dari tiga Gateway Provider yang ditunjuk oleh JPJ, dengan biaya layanan JPJ sebesar RM50 setiap pengajuan"
 appliesTo: "Siapa saja yang pindah ke Malaysia — warga Malaysia yang pulang, pekerja ekspatriat baru, peserta MM2H — yang sedang memutuskan apa yang perlu dikirim, dan apakah mengirim mobil milik pribadi itu realistis."
 lang: "id"
+sourceContentHash: "322f701876a3d3fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -32,12 +32,13 @@ faq:
     a: "لا يتضمّن القانون دفعًا بـ«المصلحة العامة» ولا حمايةً خاصة لكاشفي المخالفات (whistleblowers). فالمادة 17A تُتيح دفعًا فقط لمن يُثبت أنه تصرّف في أداء واجب رسمي أو بتفويض سليم. وغياب الدفع بالمصلحة العامة من المسائل التي يُثيرها منتقدو القانون."
 
 lang: "ar"
+sourceContentHash: "b2289aaf85dc5684"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

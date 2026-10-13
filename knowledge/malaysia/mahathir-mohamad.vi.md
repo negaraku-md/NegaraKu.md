@@ -31,8 +31,9 @@ verificationNeeded:
   - "Các ngày chính xác (nhiệm kỳ thủ tướng, việc từ chức) cần được xác nhận so với Văn phòng Thủ tướng (Prime Minister's Office) và Perdana Leadership Foundation."
 
 lang: "vi"
+sourceContentHash: "2b8cc04016656090"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

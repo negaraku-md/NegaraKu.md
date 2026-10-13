@@ -34,8 +34,9 @@ faq:
     a: "Theo Section 67(1), một tài liệu được hoàn tất hợp lệ như một deed nếu nó được công ty hoàn tất một cách hợp lệ VÀ được giao (delivered) như một deed. Section 67(2) coi việc giao đã diễn ra ngay khi deed được hoàn tất một cách hợp lệ, trừ khi một ý định ngược lại được chứng minh."
 
 lang: "vi"
+sourceContentHash: "11a3057b821bdc34"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

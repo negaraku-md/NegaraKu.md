@@ -31,10 +31,11 @@ faq:
     a: "في معظمها إلى المطامر. تشغّل ماليزيا 135 مطمراً — 114 مكبّاً مفتوحاً و22 مطمراً صحياً — ويبقى الطمر الأسلوب السائد للتخلص من النفايات في البلاد."
 
 lang: "ar"
+sourceContentHash: "1d664666863d04f5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

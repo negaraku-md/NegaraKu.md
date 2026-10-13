@@ -44,8 +44,9 @@ verificationNeeded:
   - "Pedoman tidak menetapkan jangka minimum atau maksimum apa pun bagi nota investasi P2P; hanya jangka sisa pembayaran kembali minimum 3 bulan bagi masuknya pasar sekunder yang ditemukan"
 
 lang: "id"
+sourceContentHash: "000a7355af87eb83"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

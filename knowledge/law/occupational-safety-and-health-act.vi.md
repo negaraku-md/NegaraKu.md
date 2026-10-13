@@ -30,8 +30,9 @@ faq:
     a: "Tai nạn tử vong, thương tích nghiêm trọng hoặc sự cố nguy hiểm phải được thông báo cho văn phòng DOSH gần nhất bằng cách nhanh nhất, và Biểu mẫu JKKP 6 được gửi trong vòng 7 ngày theo NADOPOD 2004."
 
 lang: "vi"
+sourceContentHash: "e58617c97047711f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

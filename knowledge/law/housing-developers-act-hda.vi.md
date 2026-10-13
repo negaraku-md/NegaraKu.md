@@ -38,8 +38,9 @@ faq:
     a: "Không. Sau sửa đổi Quy định 2015, không ai — kể cả luật sư trung gian — được thu bất kỳ khoản phí nào (phí đặt chỗ, tiền cọc và tương tự) trước khi hợp đồng mua bán được ký, trừ khi được hợp đồng bán hàng quy định (quy định 11(2))."
 
 lang: "vi"
+sourceContentHash: "b9b4698e2a0c2539"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -45,10 +45,11 @@ verificationNeeded:
   - "DE Rantau تصريح زيارة مهنية ويُفهَم عمومًا أن التوظيف المحلي مستبعَد، لكن لم يُعثَر على حظر صريح في الأسئلة الشائعة الرسمية — فلا تؤكّد وجوده"
 
 lang: "ar"
+sourceContentHash: "73a4ba4e2aea155b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

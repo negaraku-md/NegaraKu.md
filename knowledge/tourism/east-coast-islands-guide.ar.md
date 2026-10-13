@@ -31,10 +31,11 @@ faq:
     a: "لا. فصيد الأسماك محظور داخل حدود الحديقة البحرية، ولا يجوز للزوار جمع أي جزء من كائن بحري — حيًّا كان أم ميّتًا — بما في ذلك قطع المرجان والأصداف، ولا لمس المرجان أو الوقوف عليه أو إتلافه بأي شكل."
 
 lang: "ar"
+sourceContentHash: "99085634b2f91e6e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

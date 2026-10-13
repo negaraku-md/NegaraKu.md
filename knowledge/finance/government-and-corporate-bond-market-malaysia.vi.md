@@ -32,8 +32,9 @@ faq:
     a: "RENTAS (Real-Time Electronic Transfer of Funds and Securities) là hệ thống thanh toán tổng tức thời của Bank Negara Malaysia. Chứng khoán chính phủ được thanh toán qua nó trên cơ sở giao chứng khoán đổi tiền, nên tiền mặt và chứng khoán đổi chủ đồng thời."
 
 lang: "vi"
+sourceContentHash: "9da4da3090cd0bd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,8 +29,9 @@ faq:
     a: "Không. RTS Link là một tuyến đưa đón xuyên biên giới ngắn giữa Johor Bahru và Woodlands, nhắm mở vào năm 2026. HSR là một tuyến cao tốc riêng biệt dài khoảng 350 km được quy hoạch giữa Kuala Lumpur và Singapore."
 
 lang: "vi"
+sourceContentHash: "b505d87f2fe5cea1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

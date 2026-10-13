@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Pemilik usaha, tim keuangan, dan konsumen yang ingin memahami sistem pajak tidak langsung Malaysia."
 
 lang: "id"
+sourceContentHash: "7438db08db3298e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

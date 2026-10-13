@@ -31,8 +31,9 @@ faq:
     a: "Năm thực thể: Terumbu Layang-Layang (Swallow Reef), Terumbu Ubi (Ardasier Reef), Terumbu Siput (Erica Reef), Terumbu Peninjau (Investigator Shoal) và Terumbu Montanani (Mariveles Reef), tất cả đều ở phần phía nam của quần đảo gần Sabah."
 
 lang: "vi"
+sourceContentHash: "c7460cc1783b36b6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

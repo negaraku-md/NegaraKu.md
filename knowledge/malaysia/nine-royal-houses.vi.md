@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Độc giả muốn nhận diện chín bang có Quân vương của Malaysia và hiểu vị thế hiến định của các Quân vương một cách mô tả — học sinh sinh viên, nhà nghiên cứu, nhà báo, công chức và độc giả phổ thông."
 
 lang: "vi"
+sourceContentHash: "2e19d7c57053d5f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

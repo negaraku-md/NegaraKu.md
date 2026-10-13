@@ -31,8 +31,9 @@ faq:
     a: "Tutup bahu dan lutut Anda di semua situs keagamaan. Masjid juga mengharapkan perempuan menutup rambut dan semua orang melepas alas kaki. Kuil Hindu dan Tionghoa juga mengharuskan alas kaki dilepas sebelum memasuki ruang dalam yang suci."
 
 lang: "id"
+sourceContentHash: "93767c9cc05e1d13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

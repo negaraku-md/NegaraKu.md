@@ -18,10 +18,11 @@ keyTakeaways:
 appliesTo: "كل من في ماليزيا — بوذياً كان أو غير بوذي — يريد عرضاً واضحاً ودقيقاً لما هو يوم ويساك، ومتى يقع، وكيف يُحتفل به، بما في ذلك أصحاب العمل والعاملون الذين يتحقّقون من تاريخ العطلة الرسمية."
 
 lang: "ar"
+sourceContentHash: "87814a02e5e75f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

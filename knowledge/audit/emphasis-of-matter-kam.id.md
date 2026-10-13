@@ -37,8 +37,9 @@ verificationNeeded:
   - "Pastikan cara entitas tercatat didefinisikan untuk tujuan Malaysia di seluruh Bursa Malaysia Main Market, ACE Market, dan LEAP Market, dan apakah emiten LEAP Market termasuk dalam persyaratan ISA 701"
 
 lang: "id"
+sourceContentHash: "573f87ce15adf16f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

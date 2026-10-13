@@ -34,8 +34,9 @@ faq:
     a: "Tidak. Institusi keuangan pembangunan yang ditetapkan diatur di bawah Development Financial Institutions Act 2002 dan diawasi oleh Bank Negara Malaysia, sebuah rezim yang terpisah dari FSA dan IFSA."
 
 lang: "id"
+sourceContentHash: "a9fc5401e6cabfb3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

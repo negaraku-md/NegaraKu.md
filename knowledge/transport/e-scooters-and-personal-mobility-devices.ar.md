@@ -27,10 +27,11 @@ faq:
     a: "تُعفى الدراجة الكهربائية فقط إذا كانت من نوع المساعدة على الدفع بالدوّاسة (pedal-assist) المتوافق مع المعيار الماليزي MS2514، وليس لها مقبض تسارع (throttle)، ولها دوّاسات تظل مثبّتة دائمًا. أما الدراجة الكهربائية المزوّدة بمقبض تسارع غير المعتمدة فتُصنَّف جهاز تنقل شخصي (PMD) أو دراجة نارية خفيفة (moped) وتكون محظورة."
 
 lang: "ar"
+sourceContentHash: "c96ca2ea918ba45a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

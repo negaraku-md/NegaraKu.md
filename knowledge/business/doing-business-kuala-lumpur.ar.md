@@ -41,10 +41,11 @@ verificationNeeded:
   - "حصة كوالالمبور من الناتج المحلي الإجمالي الوطني كنسبة مئوية منشورة — تنشر DOSM القيمة بالرينغيت والترتيب لكن لا تنشر حصة كوالالمبور مباشرةً"
 
 lang: "ar"
+sourceContentHash: "28302eb055d03d4e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

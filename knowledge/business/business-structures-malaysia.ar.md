@@ -29,10 +29,11 @@ verificationNeeded:
   - "التحقق من وضع التسجيل للأعمال في صباح وساراواك، اللتين تعملان بموجب مراسيم ولائية بدلاً من قانون تسجيل الأعمال لسنة 1956 (Registration of Businesses Act 1956)"
 
 lang: "ar"
+sourceContentHash: "aecfbddfa9393cec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

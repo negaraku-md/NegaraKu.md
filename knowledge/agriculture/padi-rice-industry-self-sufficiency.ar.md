@@ -34,10 +34,11 @@ faq:
     a: "تحتفظ Padiberas Nasional Berhad (BERNAS) بدور المستورد الوحيد للأرز في البلاد، وهو دور ورثته عن مجلس الأرز غير المقشور والأرز الوطني (LPN)، الذي تولّى استيراد الأرز وأصبح المستورد الوحيد في 1974 بعد أزمة الغذاء العالمية 1973. كما تدير BERNAS المخزون الاحتياطي الوطني من الأرز وتدعم المطاحن البوميبوترا. وقد خُصخصت في 12 يناير 1996."
 
 lang: "ar"
+sourceContentHash: "fb620a1ce6fe2341"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

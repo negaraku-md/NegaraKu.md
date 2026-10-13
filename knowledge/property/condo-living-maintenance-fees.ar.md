@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "كل من يملك، أو يشتري، أو يستأجر وحدة في شقة (condo) أو عمارة أو عقار آخر متعدد الطوابق (مُسجَّل بملكية طوابق) في شبه جزيرة ماليزيا أو إقليم لابوان الاتحادي."
 
 lang: "ar"
+sourceContentHash: "cb88d8015d2b5a82"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

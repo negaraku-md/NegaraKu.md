@@ -31,8 +31,9 @@ faq:
     a: "Không. ISA 1960 bị bãi bỏ năm 2012 và được thay thế bằng Đạo luật Tội phạm An ninh (Biện pháp Đặc biệt) (Security Offences (Special Measures) Act 2012, SOSMA), đạo luật mà các nhóm nhân quyền và chính phủ vẫn tiếp tục tranh luận."
 
 lang: "vi"
+sourceContentHash: "b64842ee4e12b6c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

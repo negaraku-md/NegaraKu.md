@@ -40,8 +40,9 @@ faq:
 verificationNeeded:
   - "Việc liệu có bất kỳ lệnh công báo nào hiện đang quy định một phân số khác với ba phần trăm cho khấu trừ hằng năm theo paragraph 16 hay không"
 lang: "vi"
+sourceContentHash: "4788a314694d11fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

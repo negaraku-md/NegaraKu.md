@@ -29,10 +29,11 @@ faq:
     a: "نعم، إذا أردت استخدام ميزة الشحن عبر NFC. ويتضمن التسجيل التحقق من الهوية (KYC) بحيث يرتبط رصيد البطاقة بحساب eWallet الخاص بك — وهذا يضيف أيضًا طبقة حماية إذا فُقدت البطاقة، مقارنةً ببطاقة غير مسجَّلة يمكن لمن يعثر عليها استخدام رصيدها."
 
 lang: "ar"
+sourceContentHash: "a15af3c5fd918fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

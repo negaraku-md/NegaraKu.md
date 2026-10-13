@@ -36,12 +36,13 @@ verificationNeeded:
   - "تقسيم 6 صناديق ثابتة السعر / 12 صندوقًا متغيّر السعر مستمدٌّ من بيان PNB الصحفي بتاريخ 19 ديسمبر 2025 (18 صندوقًا إجمالًا، منها 12 متغيّر السعر) — أعِد التأكيد منه مقابل قائمة صناديق ASNB عند المراجعة القادمة"
 
 lang: "ar"
+sourceContentHash: "1c4aaf1e059aa22b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

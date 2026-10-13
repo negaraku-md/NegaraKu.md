@@ -41,10 +41,11 @@ verificationNeeded:
   - "مستوى الإنتاجية المقرَّر الذي يفتح الإعفاء بنسبة 100% في الشرط الوارد بالفقرة 3 من الجدول 7A يحدّده الوزير ويُحتسب على استمارة مطالبة بدل إعادة الاستثمار (RA)؛ ولم يُؤكَّد الحدّ المقرَّر الحالي من مصدر أولي."
 
 lang: "ar"
+sourceContentHash: "8240b93cc8d8dcd0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

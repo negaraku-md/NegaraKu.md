@@ -60,8 +60,9 @@ obligations:
     consequence: "Form E được coi là chưa được cung cấp cho đến khi CP8D đến; tội theo s.120(1) ITA 1967"
 
 lang: "vi"
+sourceContentHash: "d4c8b31804f425e6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

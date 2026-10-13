@@ -24,8 +24,9 @@ verificationNeeded:
   - "Verifikasi apakah SSM telah menerbitkan panduan penegakan apa pun mengenai jeda waktu yang diperkirakan antara pemberitahuan s.60C pertama dan kedua"
 
 lang: "id"
+sourceContentHash: "d0074a8a9e509a8c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

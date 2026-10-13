@@ -35,12 +35,13 @@ seoTitle: "أورانغ أسلي: المجموعات الرئيسية الثلا
 socialTitle: "من هم أورانغ أسلي — ثلاث مجموعات، و18 مجموعة فرعية، والجهة التي ترعاهم"
 
 lang: "ar"
+sourceContentHash: "22c8505f8289ae57"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

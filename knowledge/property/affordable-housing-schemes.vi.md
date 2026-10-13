@@ -31,8 +31,9 @@ faq:
     a: "Moratorium là khoảng thời gian bạn bị cấm bán lại nhà mà không có sự cho phép. Residensi Wilayah áp đặt moratorium 10 năm và Rumah Selangorku 5 năm, để tránh đầu cơ và bảo đảm nhà vẫn dành cho nhóm mục tiêu."
 
 lang: "vi"
+sourceContentHash: "c2d113c9f6018d12"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

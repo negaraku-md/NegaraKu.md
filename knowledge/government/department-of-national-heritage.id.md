@@ -27,8 +27,9 @@ faq:
   - q: "Dapatkah orang yang masih hidup dideklarasikan sebagai Warisan Kebangsaan?"
     a: "Ya. Pasal 67 membolehkan Menteri mendeklarasikan orang yang masih hidup sebagai Warisan Kebangsaan, dan Perintah Warisan Kebangsaan (Perisytiharan Orang Hidup Sebagai Warisan Kebangsaan) 2012 menyediakan instrumen resmi untuk kategori 'Warisan Orang Hidup'."
 lang: "id"
+sourceContentHash: "965829d0863e2f00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

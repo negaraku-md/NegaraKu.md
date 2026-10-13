@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Công dân Malaysia muốn gia hạn hộ chiếu quốc tế hiện có, hoặc thay thế hộ chiếu bị mất/hư hỏng, dù trực tuyến hay tại quầy của Cục Nhập cư Malaysia (Jabatan Imigresen Malaysia, JIM) / UTC."
 
 lang: "vi"
+sourceContentHash: "bf73b9b94f1050d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

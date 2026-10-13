@@ -30,8 +30,9 @@ faq:
     a: "Salinan laporan keuangan perusahaan itu sendiri harus disampaikan, tetapi Section 575(5) juga mewajibkan satu laporan yang diaudit dengan semestinya mencakup aset yang digunakan dalam dan liabilitas yang timbul dari operasi Malaysianya, yang memberikan gambaran yang benar dan wajar di bawah standar akuntansi yang disetujui."
 
 lang: "id"
+sourceContentHash: "857f2052ec7f627d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

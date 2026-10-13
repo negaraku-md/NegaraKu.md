@@ -38,8 +38,9 @@ faq:
     a: "Không phải ở cấp sơ thẩm. Các yêu cầu về lao động bắt đầu tại các diễn đàn được lập theo đạo luật riêng của chúng thay vì tại Tòa Phiên hay Tòa Sơ thẩm, và Tòa án Khiếu nại Người tiêu dùng (Tribunal for Consumer Claims) được thành lập theo điều 85 của Luật Bảo vệ Người tiêu dùng (Consumer Protection Act 1999). Những quyết định đó sau này có thể đến Tòa Thượng thẩm qua kháng cáo hoặc giám đốc thẩm tư pháp, nhưng điểm khởi đầu không phải là một tòa án trong hệ thống này."
 
 lang: "vi"
+sourceContentHash: "0ff02d452124fe9d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

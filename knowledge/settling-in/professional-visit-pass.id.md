@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Perusahaan Malaysia yang menjadi tuan rumah bagi pakar asing, peneliti, peserta pelatihan, sukarelawan, atau peserta pameran untuk tugas tetap, serta tim HR atau mobilitas sponsor yang mengajukan permohonan bagi mereka."
 
 lang: "id"
+sourceContentHash: "8d251b7426f433be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

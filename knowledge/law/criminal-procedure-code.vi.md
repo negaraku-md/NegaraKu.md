@@ -31,8 +31,9 @@ faq:
     a: "Nó có nghĩa là bên công tố đã đưa ra chứng cứ mà, nếu không bị bác bỏ hoặc không được giải thích, sẽ đủ để biện minh cho việc kết tội. Nếu chứng minh được vụ án hiển nhiên, bị cáo được yêu cầu tự bào chữa; nếu không, bị cáo được tuyên vô tội."
 
 lang: "vi"
+sourceContentHash: "5c000067f01e0ea2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

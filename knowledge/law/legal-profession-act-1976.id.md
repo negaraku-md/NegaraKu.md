@@ -34,8 +34,9 @@ faq:
     a: "Ya. Pengaduan tertulis dapat dirujuk kepada Lembaga Tatatertib di bawah Pasal 99. Jika Lembaga mendapati ada merit, ia akan membentuk Tribunal Penyiasatan di bawah Pasal 100 untuk menyelidiki pengaduan tersebut."
 
 lang: "id"
+sourceContentHash: "b2af26646e05de04"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

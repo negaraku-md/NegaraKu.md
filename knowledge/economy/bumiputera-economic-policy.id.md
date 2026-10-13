@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Pelajar, analis kebijakan, wartawan, dan siapa saja yang ingin memahami kesinambungan tujuan kebijakan ekonomi Bumiputera dari DEB hingga rencana saat ini."
 
 lang: "id"
+sourceContentHash: "0cfaf6ebc14f819b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

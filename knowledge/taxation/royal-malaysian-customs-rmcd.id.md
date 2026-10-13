@@ -28,8 +28,9 @@ faq:
   - q: "Tarif pajak jasa apa yang berlaku sekarang?"
     a: "8% sejak 1 Maret 2024, naik dari 6%, kecuali untuk jasa makanan dan minuman, tempat parkir, logistik, dan telekomunikasi, yang tetap pada 6%."
 lang: "id"
+sourceContentHash: "e4e06f1218191c40"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -33,10 +33,11 @@ faq:
     a: "نعم. تحظر المادة 29A الحرق المكشوف في أي موقع ويُعاقَب عليه بغرامة تصل إلى RM500,000 أو السجن حتى 5 سنوات أو كليهما. ويُعَدّ مالك الموقع أو شاغله مسؤولاً ما لم يَثبُت خلاف ذلك (المادة 29B)."
 
 lang: "ar"
+sourceContentHash: "cd3834c25795a67e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

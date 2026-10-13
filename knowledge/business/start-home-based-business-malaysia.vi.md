@@ -33,8 +33,9 @@ faq:
     a: "Thực phẩm mang các yêu cầu về sức khỏe bổ sung trên đăng ký SSM và hội đồng. Danh mục kiểm tra loại thực phẩm của hướng dẫn yêu cầu cơ sở phải có một bẫy mỡ, được liệt kê dưới loại thực phẩm tại nhà trong Food Safety Information System of Malaysia (FoSIM), và người vận hành phải có một giấy chứng nhận đào tạo người xử lý thực phẩm từ một trường được KKM công nhận cộng với bằng chứng về một lần tiêm phòng thương hàn. Một số thực phẩm hoàn toàn không thể được làm tại nhà, như sữa công thức cho trẻ sơ sinh và nước uống/đá đóng gói vốn cần giấy phép riêng của chúng."
 
 lang: "vi"
+sourceContentHash: "c4c8831642a77988"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

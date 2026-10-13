@@ -43,10 +43,11 @@ verificationNeeded:
   - "تحقَّق مما إذا كان ثمة تعديل بعد 2006 على القانون 136؛ فالنص المُحدَّث لدى AGC مذكور بصيغته حتى 1 يناير 2006 وقائمة المواد المعدَّلة تتوقف عند 1974"
 
 lang: "ar"
+sourceContentHash: "e471e60c661a356c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

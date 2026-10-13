@@ -74,8 +74,9 @@ obligations:
     consequence: "Pelanggaran di bawah reg 11(2)"
 
 lang: "id"
+sourceContentHash: "2ae8b97b33a16a4f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

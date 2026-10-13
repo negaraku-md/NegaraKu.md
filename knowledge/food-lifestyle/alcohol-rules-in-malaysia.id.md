@@ -31,8 +31,9 @@ faq:
     a: "Pulau seperti Langkawi dan Labuan adalah zona bebas pajak tempat alkohol dijual tanpa cukai eksais. Pelancong umumnya boleh membawa masuk anggur, spirit, atau minuman malt tidak melebihi satu liter seluruhnya, tunduk pada aturan jangka waktu minimum berada di luar negeri yang perlu dikonfirmasi dengan pihak kepabeanan sebelum bepergian."
 
 lang: "id"
+sourceContentHash: "56f47508696d66ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

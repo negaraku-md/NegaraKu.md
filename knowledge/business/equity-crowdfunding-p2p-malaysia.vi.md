@@ -44,8 +44,9 @@ verificationNeeded:
   - "Các Hướng dẫn không quy định thời hạn tối thiểu hay tối đa cho một chứng chỉ đầu tư P2P; chỉ tìm thấy quy định về thời gian trả nợ còn lại tối thiểu 3 tháng để được chấp nhận trên thị trường thứ cấp"
 
 lang: "vi"
+sourceContentHash: "000a7355af87eb83"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

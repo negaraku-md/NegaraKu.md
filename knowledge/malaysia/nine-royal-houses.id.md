@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Pembaca yang ingin mengidentifikasi kesembilan negeri beraja Malaysia dan memahami kedudukan konstitusional Raja-Raja secara deskriptif — pelajar, peneliti, wartawan, pegawai negeri, dan pembaca umum."
 
 lang: "id"
+sourceContentHash: "2e19d7c57053d5f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

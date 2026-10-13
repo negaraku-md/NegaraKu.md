@@ -31,8 +31,9 @@ faq:
     a: "Lợi nhuận kinh doanh của một hộ kinh doanh cá thể bị đánh thuế trong tay chủ ở các mức lũy tiến cá nhân, nộp trên Form B trước ngày 30 tháng 6. Một Sdn Bhd SME thường trú (vốn góp lên đến RM2.5 triệu và thu nhập kinh doanh gộp lên đến RM50 triệu) bị đánh thuế ở 15% trên RM150,000 thu nhập chịu thuế đầu tiên, 17% từ RM150,001 đến RM600,000, và 24% trên mức đó. Mức ưu đãi SME bị mất nếu hơn 20% công ty do nước ngoài sở hữu."
 
 lang: "vi"
+sourceContentHash: "740dc0a630c55557"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

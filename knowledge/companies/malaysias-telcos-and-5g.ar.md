@@ -32,10 +32,11 @@ faq:
     a: "عُيِّنت U Mobile لبناء شبكة 5G الثانية، فتخلّت عن حصتها في DNB وانسحبت من شبكتها للتركيز على نشر شبكتها الخاصة."
 
 lang: "ar"
+sourceContentHash: "c1f7f6a84e1fec97"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

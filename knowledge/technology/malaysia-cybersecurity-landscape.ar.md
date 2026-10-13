@@ -36,12 +36,13 @@ faq:
     a: "في مؤشر الأمن السيبراني العالمي الصادر عن ITU لسنة 2020 (GCIv4) حصلت ماليزيا على 98.06 نقطة واحتلّت المرتبة الخامسة مناصفةً في العالم. وفي إصدار 2024، الذي يستخدم نموذجًا من خمس فئات، وُضعت ماليزيا في الفئة العليا «المثال يُحتذى» (role-modelling)."
 
 lang: "ar"
+sourceContentHash: "7722bdc160f9e488"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

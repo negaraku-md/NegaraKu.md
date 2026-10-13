@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "كل من يستأجر أو يشتري أو ينتقل إلى منزل في ماليزيا ويحتاج إلى توصيل نطاق عريض ثابت."
 
 lang: "ar"
+sourceContentHash: "651bab79a176221b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

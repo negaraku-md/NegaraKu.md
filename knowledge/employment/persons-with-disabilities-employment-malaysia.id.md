@@ -31,8 +31,9 @@ faq:
     a: "Pasal 29(3) mewajibkan pemberi kerja berupaya mempromosikan pekerjaan stabil dengan menilai kemampuan OKU secara wajar, menyediakan tempat kerja yang sesuai dan pengelolaan pekerjaan yang benar. Biaya renovasi premis untuk pekerja OKU juga berhak atas potongan pajak di bawah paragraf 34(6)(e) Income Tax Act 1967."
 
 lang: "id"
+sourceContentHash: "66843e99ec6b43d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

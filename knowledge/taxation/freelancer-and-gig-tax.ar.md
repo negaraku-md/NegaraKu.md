@@ -40,10 +40,11 @@ verificationNeeded:
   - "ما إذا كان مشغّلو المنصّات مُلزَمين بإصدار فواتير إلكترونية ذاتية الإصدار (self-billed e-Invoice) عن المدفوعات لعمّال المنصّات الأفراد، وفي أي مرحلة، ينبغي التحقق منه مقابل الدليل الخاص الحالي للفوترة الإلكترونية (e-Invoice Specific Guideline)"
 
 lang: "ar"
+sourceContentHash: "4902766a1bf0ff6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

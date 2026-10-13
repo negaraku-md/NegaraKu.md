@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang membaca atau mengutip hukum Malaysia — pengacara, pelajar, pemilik usaha, dan peneliti."
 
 lang: "id"
+sourceContentHash: "fcd52a1ed198449a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

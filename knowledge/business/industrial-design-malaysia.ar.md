@@ -48,10 +48,11 @@ obligations:
     consequence: "The registration lapses; a grace period is available at a surcharge of RM200 per month for a maximum of six months"
 
 lang: "ar"
+sourceContentHash: "56878f9800c2837e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

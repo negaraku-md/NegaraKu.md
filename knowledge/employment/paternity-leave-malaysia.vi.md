@@ -28,8 +28,9 @@ verificationNeeded:
   - "Cần xác nhận liệu điều kiện mười hai tháng phục vụ có chấp nhận một sự gián đoạn trong phục vụ hay không, và phục vụ liên tục được tính ra sao cho s.60FA"
 
 lang: "vi"
+sourceContentHash: "97900bf02693ecc5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

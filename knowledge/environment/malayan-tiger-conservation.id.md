@@ -33,8 +33,9 @@ faq:
     a: "Penyebab utama adalah perburuan liar dan perdagangan satwa liar ilegal untuk bagian tubuh harimau, degradasi hutan dan kehilangan habitat, kematian di jalan raya dan konflik manusia–harimau, serta kekurangan mangsa buruan."
 
 lang: "id"
+sourceContentHash: "4cb728294e2f0482"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

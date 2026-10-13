@@ -39,8 +39,9 @@ verificationNeeded:
   - "Danh sách hiện hành các hoạt động được Bộ trưởng phê duyệt — Public Ruling 12/2020 đưa ra chín lĩnh vực tăng trưởng cao và công nghệ cao tính đến năm 2020 và mô tả chúng là tình trạng tại thời điểm đó"
 
 lang: "vi"
+sourceContentHash: "490843a597d5164f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

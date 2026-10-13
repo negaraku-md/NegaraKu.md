@@ -44,10 +44,11 @@ verificationNeeded:
   - "عدد مكاتب العائلة المعتمَدة فعلاً مُبلَّغ عنه في التغطية الصحفية لكنه لم يتحقّق منه مقابل منشور للجنة الأوراق المالية (Securities Commission)."
 
 lang: "ar"
+sourceContentHash: "437ac0257773795a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"

@@ -26,8 +26,9 @@ verificationNeeded:
   - "Liệu RMCD đã ban hành một hướng dẫn chuyên biệt dung hòa bản thể hiện trực quan của hóa đơn điện tử với các thông tin bắt buộc của hóa đơn SST hay chưa — không tìm thấy hướng dẫn nào trên mysst.customs.gov.my"
 
 lang: "vi"
+sourceContentHash: "cf809540c51ed69e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

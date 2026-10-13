@@ -36,8 +36,9 @@ faq:
     a: "Menyusul amandemen 2015, pendaftaran tidak lagi memerlukan pembaruan, tetapi auditor terdaftar menyampaikan pernyataan tahunan pada 30 Juni setiap tahun dan membayar biaya sebesar RM5,000 untuk setiap auditor individu menjelang ulang tahun tanggal pendaftaran mereka."
 
 lang: "id"
+sourceContentHash: "046d2016ae30e969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

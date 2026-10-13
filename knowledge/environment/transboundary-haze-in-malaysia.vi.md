@@ -32,8 +32,9 @@ faq:
     a: "Nguyên nhân chính là các đám cháy đất và rừng — bao gồm cháy đất than bùn và việc phát quang đất bằng cách đốt cho nông nghiệp — ở Sumatra và Kalimantan, trở nên thường xuyên và tồi tệ hơn trong mùa khô chịu ảnh hưởng của hiện tượng El Nino."
 
 lang: "vi"
+sourceContentHash: "f6dc09ddaaf77bcf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

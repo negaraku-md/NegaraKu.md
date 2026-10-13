@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang mencoba membaca statistik populasi, tenaga kerja, atau properti Malaysia dengan benar — peneliti, perencana, dan bisnis yang menilai di mana sebenarnya penduduk dan tenaga kerja berada."
 
 lang: "id"
+sourceContentHash: "0362cd9a8f8b4f6a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

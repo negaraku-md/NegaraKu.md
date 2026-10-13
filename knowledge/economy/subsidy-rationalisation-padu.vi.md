@@ -31,8 +31,9 @@ faq:
     a: "Bộ Tài chính ước tính tiết kiệm khoảng RM5 tỷ mỗi năm kể từ khi việc hợp lý hóa diesel bắt đầu vào ngày 10 tháng 6 năm 2024."
 
 lang: "vi"
+sourceContentHash: "fb230f3e8cc5eada"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

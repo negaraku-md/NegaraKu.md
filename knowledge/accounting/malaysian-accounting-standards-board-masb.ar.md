@@ -27,9 +27,10 @@ faq:
   - q: "ما الفرق بين MASB ومؤسسة الإبلاغ المالي؟"
     a: "يكتب MASB المعايير ويصدرها. وتشرف مؤسسة الإبلاغ المالي (FRF) على MASB، وتراجع أداءه، وتتولّى تمويله، بما في ذلك إقرار الميزانية — لكنها لا تتحمّل مسؤولية مباشرة عن وضع المعايير، وهي مسؤولية تقع كليًا على MASB."
 lang: "ar"
+sourceContentHash: "69128de74b5a73f9"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

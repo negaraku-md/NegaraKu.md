@@ -43,8 +43,9 @@ verificationNeeded:
   - "Xác nhận liệu SEDIA, NCER và ECERDC có thẩm quyền phê duyệt giấy phép chuyên gia nước ngoài (expatriate-pass) tương đương với IRDA hay không, điều chưa được xác lập"
 
 lang: "vi"
+sourceContentHash: "dbc6e7a307297e3a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

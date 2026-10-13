@@ -38,8 +38,9 @@ faq:
     a: "Mempekerjakan warga asing tanpa pas yang sah adalah pelanggaran di bawah Pasal 55B, yang membawa denda RM10,000 hingga RM50,000 atau penjara hingga 12 bulan bagi setiap pekerja. Merekrut lima atau lebih pekerja tanpa dokumen meningkatkan risiko penjara enam bulan hingga lima tahun dan kemungkinan cambukan."
 
 lang: "id"
+sourceContentHash: "0a352a7bd7d5e1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

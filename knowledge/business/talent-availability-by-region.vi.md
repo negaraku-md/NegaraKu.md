@@ -47,8 +47,9 @@ verificationNeeded:
   - "Xác nhận số lượng lao động nước ngoài hợp pháp có PLKS, cả trên toàn quốc và theo bang — DOSM công bố dân số không phải công dân, bao gồm người phụ thuộc, sinh viên, thường trú nhân và người không giấy tờ"
 
 lang: "vi"
+sourceContentHash: "266dea497fff19a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Apakah pengecualian taruhan dan perjudian bagi kasino dan mesin permainan telah ditarik kembali — LHDN menyatakan ia berlaku sampai pemberitahuan lebih lanjut tanpa tanggal berakhir yang diterbitkan"
 
 lang: "id"
+sourceContentHash: "881bae66be5fb011"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -38,8 +38,9 @@ verificationNeeded:
   - "Verifikasi apakah varian DE Rantau Sarawak membawa lantai penghasilan atau periode yang berbeda dari DE Rantau Nomad Pass federal"
 
 lang: "id"
+sourceContentHash: "1cf0d4000ca23029"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

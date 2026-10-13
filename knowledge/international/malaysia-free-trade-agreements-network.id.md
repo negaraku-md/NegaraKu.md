@@ -30,8 +30,9 @@ faq:
     a: "Tidak. MITI menyatakan MEEPA telah ditandatangani pada 23 Juni 2025 tetapi belum berlaku, jadi eksportir dan importir tidak dapat menggunakan preferensinya hingga kedua pihak menyelesaikan ratifikasi."
 
 lang: "id"
+sourceContentHash: "2907ad666c9762d0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

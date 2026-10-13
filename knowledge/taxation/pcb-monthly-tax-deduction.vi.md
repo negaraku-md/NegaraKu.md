@@ -39,8 +39,9 @@ verificationNeeded:
   - "Xác nhận rằng thuế suất khấu trừ PCB áp cho một người lao động không cư trú là thuế suất phẳng Schedule 1 Part I para 1A theo MTD Rules, không chỉ của khoản đánh thuế nền"
 
 lang: "vi"
+sourceContentHash: "8996f0535326898f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

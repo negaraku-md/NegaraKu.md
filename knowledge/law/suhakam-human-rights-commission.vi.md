@@ -34,8 +34,9 @@ faq:
     a: "Điều 2 định nghĩa nhân quyền là các quyền tự do cơ bản như quy định trong Phần II của Hiến pháp Liên bang. Điều 4(4) bổ sung rằng Tuyên ngôn Nhân quyền Quốc tế 1948 cần được lưu ý trong chừng mực không trái với Hiến pháp Liên bang."
 
 lang: "vi"
+sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

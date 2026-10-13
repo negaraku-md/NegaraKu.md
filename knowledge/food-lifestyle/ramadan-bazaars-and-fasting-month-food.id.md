@@ -31,8 +31,9 @@ faq:
     a: "Kementerian Kesihatan (KKM) menjalankan pemantauan dan pemeriksaan di gerai bazar, dan dapat mengeluarkan kompaun di bawah Peraturan-Peraturan Kebersihan Makanan 2009. Otoritas setempat, KKM, dan KPDN turut menjalankan pemeriksaan harian sepanjang Ramadan untuk kualitas makanan, kebersihan, dan pengendalian harga."
 
 lang: "id"
+sourceContentHash: "571a086b9bbbfa81"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

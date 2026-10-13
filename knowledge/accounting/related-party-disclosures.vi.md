@@ -32,8 +32,9 @@ faq:
     a: "Bản chất của quan hệ, số tiền của các giao dịch, số dư tồn đọng và các điều khoản của nó, bất kỳ thế chấp hoặc bảo lãnh nào được nhận hoặc cấp, và khoản dự phòng cho nợ khó đòi liên quan đến số dư đó."
 
 lang: "vi"
+sourceContentHash: "ae54f875cbc22c20"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

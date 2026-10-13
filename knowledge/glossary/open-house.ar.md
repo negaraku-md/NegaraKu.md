@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "كل من دُعي إلى بيت مفتوح لأول مرة، ومنظّمي البيوت المفتوحة على مستوى المجتمع المحلي أو الشركات، وكل من يسعى إلى فهم هذه الممارسة بوصفها ظاهرة اجتماعية عابرة للأعراق في ماليزيا."
 
 lang: "ar"
+sourceContentHash: "3bc3f6abab7fea70"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

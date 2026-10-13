@@ -31,8 +31,9 @@ faq:
     a: "Hướng dẫn năm 2012 của Bộ Y tế định nghĩa việc chấm dứt thai kỳ là một thủ thuật ở tuổi thai dưới 22 tuần, hoặc khi tuổi thai không được biết, thai nhi ước tính dưới 500 gram."
 
 lang: "vi"
+sourceContentHash: "58e08ea86f967964"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

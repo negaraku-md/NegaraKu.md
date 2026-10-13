@@ -23,8 +23,9 @@ verificationNeeded:
   - "Pastikan skala biaya penyampaian terlambat SSM terkini untuk pemberitahuan terkait daftar terhadap arahan praktik SSM terkini mengenai penalti penyampaian terlambat"
 
 lang: "id"
+sourceContentHash: "ff4434b4487bfa3d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

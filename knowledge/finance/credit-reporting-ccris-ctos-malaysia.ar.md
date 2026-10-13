@@ -30,10 +30,11 @@ faq:
     a: "احصل على خطاب تسوية من المُقرض وقدّمه إلى الوكالة لتحديث قرض مسدَّد. وبموجب القانون، لا يجوز للوكالة الإفصاح عن حالة إفلاسك بعد أكثر من سنتين من تاريخ إبراء ذمتك."
 
 lang: "ar"
+sourceContentHash: "0d23a5db0b086fe6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

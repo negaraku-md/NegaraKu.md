@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "أولياء الأمور والطلاب في ماليزيا الذين يختارون بين المدارس الوطنية والمدارس الخاصة ذات المنهج الوطني والمدارس الثانوية الصينية المستقلة، وكل من يحاول فهم ما يمثّله حقاً مفهوم SMJK أو المدرسة الخاصة أو شهادة UEC."
 
 lang: "ar"
+sourceContentHash: "ea334d9ab0b14453"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

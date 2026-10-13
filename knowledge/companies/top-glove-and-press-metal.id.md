@@ -32,8 +32,9 @@ faq:
     a: "Ya. Keduanya diperdagangkan di Pasar Utama Bursa Malaysia. Top Glove juga tercatat di Papan Utama Bursa Singapura (Singapore Exchange)."
 
 lang: "id"
+sourceContentHash: "a45b971c54bb5789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -27,8 +27,9 @@ verificationNeeded:
   - "Xác nhận vị thế đăng ký ROB hiện hành đối với các công ty hợp danh tại Sabah và Sarawak, vốn đăng ký theo các pháp lệnh của bang thay vì Registration of Businesses Act 1956"
 
 lang: "vi"
+sourceContentHash: "14836fcc799b68f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

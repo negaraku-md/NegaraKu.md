@@ -42,8 +42,9 @@ verificationNeeded:
   - "Hãy xác nhận liệu Bursa Malaysia có ban hành hướng dẫn chuyển tiếp cho báo cáo hằng quý trong năm MFRS 18 đầu tiên hay không"
 
 lang: "vi"
+sourceContentHash: "542671cd3c464e38"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

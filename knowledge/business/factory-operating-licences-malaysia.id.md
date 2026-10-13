@@ -33,8 +33,9 @@ faq:
     a: "Ia bergantung pada aktivitas. Di bawah Environmental Quality Act 1974, proyek perindustrian berat atau besar yang tercantum dalam Environmental Quality (Prescribed Activities) (Environmental Impact Assessment) Order 2015 harus memiliki EIA yang disetujui sebelum proyek diteruskan. Industri tertentu — minyak sawit mentah, karet alam mentah, fasilitas buangan terjadwal — adalah 'premis yang ditetapkan' yang memerlukan izin tertulis DOE untuk membangun dan lisensi untuk beroperasi. Sebuah pabrik biasa yang membuang efluen atau memancarkan bahan pencemar udara masih harus mematuhi peraturan efluen dan udara bersih DOE. Pastikan status aktivitas Anda dengan DOE sebelum membangun."
 
 lang: "id"
+sourceContentHash: "b9703e6c709c9e9a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

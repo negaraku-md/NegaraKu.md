@@ -30,8 +30,9 @@ faq:
     a: "DOSM chia Bumiputera khác thành Bumiputera Sabah (55.3 phần trăm của nhóm, gồm Kadazan/Dusun, Bajau, Murut và các nhóm Bumiputera Sabah khác), Bumiputera Sarawak (32.3 phần trăm, gồm Iban, Bidayuh, Melanau và các nhóm Bumiputera Sarawak khác), và các nhóm Bumiputera Bán đảo khác chiếm phần còn lại."
 
 lang: "vi"
+sourceContentHash: "6a6100396bc06f2b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

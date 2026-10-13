@@ -32,10 +32,11 @@ faq:
     a: "بدأت Rapid Bus تحويل 19 مساراً منخفض الإقبال — 16 مسار تغذية لـ MRT و3 مسارات عادية، أي نحو 7% من الشبكة — إلى خدمة حافلات صغيرة قابلة للحجز باسم Rapid KL On-Demand."
 
 lang: "ar"
+sourceContentHash: "ef9c4ac09cb054b2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

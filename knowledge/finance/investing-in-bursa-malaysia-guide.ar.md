@@ -34,10 +34,11 @@ faq:
     a: "تُطبَّق ثلاث رسوم عند الشراء والبيع كليهما: عمولة الوسيط (يحدّدها وسيطك)، ورسم مقاصة قدره 0.03% من قيمة الصفقة بحد أقصى RM1,000، وضريبة دمغة قدرها RM1 لكل RM1,000 (أو جزء منها) من القيمة، بحد أقصى RM1,000. وعمولة الوساطة على الأسهم المدرجة في بورصة ماليزيا معفاة حاليًا من ضريبة الخدمات."
 
 lang: "ar"
+sourceContentHash: "2aa2d9243406a229"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

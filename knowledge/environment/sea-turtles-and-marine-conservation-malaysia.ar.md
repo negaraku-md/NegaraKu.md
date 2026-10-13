@@ -31,10 +31,11 @@ faq:
     a: "الحدائق البحرية في شبه الجزيرة مُعلنة في الجريدة الرسمية بموجب قانون مصايد الأسماك لسنة 1985 (Fisheries Act 1985). وهو ينشئ منطقة حماية عرضها ميلان بحريان من الجزيرة تُحظر فيها أنشطة مثل إزعاج السلاحف المعشّشة وجمع الصغار حديثة الفقس."
 
 lang: "ar"
+sourceContentHash: "3ba84882f4818881"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

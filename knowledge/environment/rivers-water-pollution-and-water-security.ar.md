@@ -34,10 +34,11 @@ faq:
     a: "وفقاً لتقرير من Macaranga، فإن تعديلات 2023 على قانون جودة البيئة لسنة 1974 (Environmental Quality Act 1974) حددت غرامة دنيا قدرها RM5,000 وقصوى تصل إلى RM10 مليون، إلى جانب عقوبة سجن إلزامية لا تتجاوز خمس سنوات لمخالفات التلوث. أما المخالفات في إطار نظام محميات الأنهار في سيلانغور (المادة 48(1) من مرسوم LUAS لسنة 1999) فعقوبتها غرامة لا تتجاوز RM50,000 أو سجن لا يتجاوز سنتين أو كلاهما. وأرقام تعديلات قانون 1974 مستمدة من تقرير ثانوي وينبغي التحقق منها مقابل نص الجريدة الرسمية."
 
 lang: "ar"
+sourceContentHash: "1a7e38792ecc17c4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

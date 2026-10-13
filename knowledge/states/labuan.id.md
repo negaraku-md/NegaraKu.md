@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Pendiri, penasihat pajak dan tim keuangan yang menilai struktur Labuan, serta pembaca yang ingin memahami mengapa Labuan diperlakukan secara berbeda dari Malaysia lainnya."
 
 lang: "id"
+sourceContentHash: "398103a0292eae47"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

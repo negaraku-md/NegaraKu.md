@@ -35,10 +35,11 @@ faq:
     a: "لا توجد قائمة تحقّق ثابتة، لكن إرشادات GIACC بشأن الإجراءات الكافية تحدّد خمسة مبادئ معروفة باختصار T.R.U.S.T. يُرجَّح أن تزنها المحكمة عند تقرير ما إذا كانت الإجراءات كافية."
 
 lang: "ar"
+sourceContentHash: "6d976fa3bddc473d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

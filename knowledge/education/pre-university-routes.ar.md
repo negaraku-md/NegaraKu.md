@@ -22,11 +22,12 @@ verificationNeeded:
   - "الطاقة الاستيعابية السنوية الحالية (عدد المقاعد) لدفعات STPM والتهيئة الجامعية وA-Level غير مذكورة هنا — فهذه تتغيّر كل دورة قبول؛ تأكّد من أرقام الدورة الحالية مباشرةً مع MPM أو قسم التهيئة الجامعية أو الكلية المعنية قبل الاعتماد على رقم بعينه."
   - "لم يتسنَّ استخراج الخطوط الإرشادية الكاملة لـ MQA بشأن بنية برنامج السنة التأسيسية (Garis Panduan Kurikulum Asasi) لهذا المقال — فقاعدة الحد الأدنى من الساعات المعتمدة أو المدة التي يحدّدها MQA لبرامج السنة التأسيسية موصوفة هنا بعبارات عامة فحسب؛ تأكّد من الأرقام الدقيقة مع MQA أو المؤسسة المقدِّمة قبل الاستشهاد بها."
 lang: "ar"
+sourceContentHash: "d0b49a1aee8b9177"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

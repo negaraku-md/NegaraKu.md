@@ -24,8 +24,9 @@ appliesTo: "Pemberi kerja, staf HR dan administrator penggajian yang mencari pan
 verificationNeeded: []
 
 lang: "id"
+sourceContentHash: "93eabace2772ea86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

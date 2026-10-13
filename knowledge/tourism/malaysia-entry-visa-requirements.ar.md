@@ -37,13 +37,14 @@ faq:
     a: "يمكن للمسافرين من 63 دولة مؤهلة استخدام البوابات الذاتية في ماليزيا، شريطة أن يكونوا قد قدّموا MDAC قبل السفر بثلاثة أيام على الأقل. وقد يحتاج المستخدمون لأول مرة إلى التسجيل عند مكتب قبل استخدام البوابة."
 
 lang: "ar"
+sourceContentHash: "cdbee74bde6667f6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "ما إذا كانت صفحة جواز سفر فارغة مطلوبة رسمياً للدخول (غير مذكور في مصدر MIDA المستشهَد به)."
 
-status: "draft"
+status: "published"
 publishedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null

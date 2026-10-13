@@ -18,8 +18,9 @@ keyTakeaways:
   - "Cao đẳng Cộng đồng tập trung vào chứng chỉ bậc thấp hơn với việc nhập học linh hoạt hơn, trong khi Trường Bách khoa tập trung vào diploma — cả hai đều được quản lý bởi JPPKK thuộc Bộ Giáo dục Đại học"
 appliesTo: "Học sinh sau Lớp 3 hoặc SPM, phụ huynh đang lập kế hoạch nghề nghiệp cho con, và người lao động trưởng thành muốn chứng nhận kỹ năng sẵn có qua SKM."
 lang: "vi"
+sourceContentHash: "75531562551211f2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

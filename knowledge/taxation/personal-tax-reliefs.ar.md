@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "المكلَّفون الأفراد الذين يُعدّون تقديم استمارة Borang BE/B السنوية ويتحقّقون من الإعفاءات التي يمكنهم المطالبة بها."
 
 lang: "ar"
+sourceContentHash: "3aaef5bbc4ffdb87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

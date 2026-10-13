@@ -34,8 +34,9 @@ seoTitle: "Bumiputera: Nghĩa của Thuật ngữ và Cơ sở Hiến pháp củ
 socialTitle: "Bumiputera — thuật ngữ không có trong Hiến pháp, nhưng bắt rễ ở Điều 153, 160 và 161A"
 
 lang: "vi"
+sourceContentHash: "924aa904a876b274"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

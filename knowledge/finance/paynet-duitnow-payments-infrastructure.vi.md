@@ -29,8 +29,9 @@ faq:
     a: "Có. DuitNow QR có thể tương tác, nên một mã QR duy nhất của người bán có thể được quét bởi các ngân hàng và ví điện tử khác nhau như Touch 'n Go eWallet, GrabPay và Boost, miễn là chúng tham gia."
 
 lang: "vi"
+sourceContentHash: "d327e61449ac93b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

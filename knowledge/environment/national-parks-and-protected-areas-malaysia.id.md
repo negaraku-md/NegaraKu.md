@@ -34,8 +34,9 @@ faq:
     a: "Pasal 10 National Parks Act 1980 melarang pertambangan dan penggalian dalam taman negara, kecuali jika Pihak Berwenang Negeri, setelah berunding dengan Menteri, menemukan adanya deposit mineral yang sangat kaya."
 
 lang: "id"
+sourceContentHash: "1f3622365daf3410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "Jika LKM tidak diperbarui lebih dari tiga tahun, JPJ mensyaratkan kendaraan dibawa untuk pemeriksaan di Puspakom guna mendapatkan laporan B2 (atau pemeriksaan PG10 khusus bagi sepeda motor milik individu) sebelum permohonan pembaruan dapat diproses di kantor JPJ."
 
 lang: "id"
+sourceContentHash: "20fe200c2e49f4f8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

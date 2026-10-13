@@ -30,8 +30,9 @@ faq:
     a: "Suruhanjaya Sekuriti Malaysia. Inovasi pasar modal — pembiayaan alternatif, sekuritas bertoken, platform pasar sekunder — ditangani oleh sandbox SC, bukan BNM."
 
 lang: "id"
+sourceContentHash: "923d24c78b24d1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

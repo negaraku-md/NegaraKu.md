@@ -41,8 +41,9 @@ verificationNeeded:
   - "Liệu các tuyên bố khu công nghiệp tự do Bayan Lepas và Perai theo Free Zones Act 1990 đã được sửa đổi hay chưa, và các ranh giới khu đã đăng công báo hiện hành"
 
 lang: "vi"
+sourceContentHash: "764567a2c684af68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

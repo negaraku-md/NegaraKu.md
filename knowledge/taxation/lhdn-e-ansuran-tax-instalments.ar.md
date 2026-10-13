@@ -33,10 +33,11 @@ faq:
     a: "لا. تذكر LHDN أن إلغاء طلب e-Ansuran لا يمكن إلا حضورياً في مكتب LHDN (HASiL) — ولا يمكن عبر البوابة. فالطلب نفسه إلكتروني والموافقة تلقائية، لكن تعديله أو إلغاءه أمرٌ يُنجَز في الفرع."
 
 lang: "ar"
+sourceContentHash: "f73e04ba5e0d7818"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

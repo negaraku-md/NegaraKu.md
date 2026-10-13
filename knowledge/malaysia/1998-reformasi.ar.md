@@ -20,11 +20,12 @@ keyTakeaways:
   - "حُوفِظ على تثبيت USD1=RM3.80 نحو سبع سنوات وانتهى في 21 يوليو 2005 حين اعتمد بنك نيغارا ماليزيا التعويم المُدار"
 appliesTo: "القرّاء الراغبون في سرد موثَّق قابل للتتبّع إلى مصدره عن استجابة ماليزيا الاقتصادية في 1998 (ضوابط رأس المال وتثبيت الرينغيت) والأحداث السياسية لذلك العام، معروضًا بحياد دون تأييد أي تفسير."
 lang: "ar"
+sourceContentHash: "3f82c848946b8ea4"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

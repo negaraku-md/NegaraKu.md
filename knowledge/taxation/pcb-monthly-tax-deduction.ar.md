@@ -39,10 +39,11 @@ verificationNeeded:
   - "تحقّق من أن نسبة خصم الـPCB المطبّقة على الموظف غير المقيم هي النسبة الثابتة الواردة في Schedule 1 Part I para 1A بوصفها مسألة ضمن MTD Rules، لا ضمن أصل الفرض وحده"
 
 lang: "ar"
+sourceContentHash: "8996f0535326898f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

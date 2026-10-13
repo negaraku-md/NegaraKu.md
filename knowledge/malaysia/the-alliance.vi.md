@@ -29,8 +29,9 @@ faq:
     a: "Một bản kiến nghị chung mà Liên minh nộp cho Ủy ban Reid năm 1956, đề ra các lập trường đã thống nhất của liên minh về các Quân vương Mã Lai, Hồi giáo là tôn giáo của Liên bang, ngôn ngữ Mã Lai, vị thế đặc biệt của người Mã Lai, và quốc tịch. Báo cáo năm 1957 của Ủy ban đã dựa vào nó trong số các bản kiến nghị mà nó nhận được."
 
 lang: "vi"
+sourceContentHash: "8468b6263efa9db8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

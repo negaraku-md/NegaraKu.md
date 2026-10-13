@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Siapa pun yang membandingkan biaya hidup Pulau Pinang dengan Lembah Klang, atau yang membuat keputusan antara Pulau Pinang dan Seberang Perai sebelum pindah, menyewa, atau membuka usaha."
 
 lang: "id"
+sourceContentHash: "060d0c1609863cd7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

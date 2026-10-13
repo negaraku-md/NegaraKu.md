@@ -36,8 +36,9 @@ verificationNeeded:
   - "Xác nhận số Điều và mục so với văn bản đầy đủ của Hiến pháp Liên bang (Bản in lại 2020, AGC) nếu cần trích dẫn chính xác."
 
 lang: "vi"
+sourceContentHash: "0441017d6712ffd2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

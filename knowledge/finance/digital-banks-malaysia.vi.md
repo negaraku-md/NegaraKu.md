@@ -30,8 +30,9 @@ faq:
     a: "GXBank là ngân hàng đầu tiên bắt đầu hoạt động, vào năm 2023. AEON Bank là ngân hàng số Hồi giáo đầu tiên mở cho công chúng, vào ngày 26 tháng 5 năm 2024."
 
 lang: "vi"
+sourceContentHash: "e7e1910cb72bc76a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

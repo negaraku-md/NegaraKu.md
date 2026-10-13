@@ -67,10 +67,11 @@ obligations:
     consequence: "لا يكون الاجتماع منعقدًا على نحو صحيح بموجب المادة s.309"
 
 lang: "ar"
+sourceContentHash: "1da247e6653d6ad4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

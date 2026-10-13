@@ -28,8 +28,9 @@ verificationNeeded:
   - "Apakah P.U.(A) 164/2019 telah diperpanjang lagi melampaui YA2025 oleh instrumen yang diwartakan setelah halaman ini ditulis."
 
 lang: "id"
+sourceContentHash: "94db45958fc37cd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

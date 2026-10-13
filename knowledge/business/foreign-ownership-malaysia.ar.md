@@ -48,12 +48,13 @@ verificationNeeded:
   - "عتبات الحدّ الأدنى لسعر الشراء بحسب الولاية لحيازة الأجانب للعقارات لم يتحقّق منها مقابل مصادر مكاتب الأراضي بالولايات. فرقم RM1,000,000 هو الحدّ الأدنى الاتحادي؛ وتضع الولايات حدودها الخاصة، وهي غالباً أعلى."
 
 lang: "ar"
+sourceContentHash: "9eb59bf5dfe47262"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-22"
 reviewDue: "2027-07-22"
 revision: 0

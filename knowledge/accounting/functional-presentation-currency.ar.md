@@ -34,10 +34,11 @@ faq:
     a: "لا. تعكس العملة الوظيفية المعاملات والظروف الأساسية، لذا لا تتغيّر إلا عندما تتغيّر تلك الوقائع — مثل تحوّل حقيقي في العملة التي تحرّك أسعار البيع والتكاليف. وهي ليست سياسة محاسبية تختارها من فترة إلى أخرى."
 
 lang: "ar"
+sourceContentHash: "f9e8ad1f0c1fc778"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

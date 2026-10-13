@@ -42,10 +42,11 @@ verificationNeeded:
   - "التأكد مما إذا كان وزير المالية قد فوّض رسميًا وظيفة الموافقة بموجب المادة 263، وإلى أي جهة، بما أن المادة 263(5) تجيز التفويض ولا توجبه"
 
 lang: "ar"
+sourceContentHash: "171d2f5e74d8eb19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

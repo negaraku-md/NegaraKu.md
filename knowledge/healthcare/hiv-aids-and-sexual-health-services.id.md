@@ -34,8 +34,9 @@ faq:
     a: "Tidak ada undang-undang khusus HIV. Ketentuan umum Kanun Keseksaan seperti Pasal 269 dan 270 dapat berlaku pada penyebaran penyakit berbahaya, namun tidak ada penuntutan HIV yang diketahui sejauh ini."
 
 lang: "id"
+sourceContentHash: "c335daac63ec7a97"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

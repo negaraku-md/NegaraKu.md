@@ -29,10 +29,11 @@ faq:
     a: "يجب أن يُموَّل الشراء بالكامل من الأرباح المحتجزة للشركة على أساس الشركة (لا المجموعة) — القاعدة 12.10 من الفصل 12 من متطلبات الإدراج في Bursa. ويمكن استخدام القروض مصدراً للأموال شريطة أن يكون الشراء مدعوماً بمبلغ مكافئ من الأرباح المحتجزة (القاعدة 12.11)."
 
 lang: "ar"
+sourceContentHash: "6bd8a430b49db96b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

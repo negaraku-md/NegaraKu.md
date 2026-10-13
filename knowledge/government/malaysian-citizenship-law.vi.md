@@ -35,8 +35,9 @@ faq:
     a: "Không. Malaysia áp dụng chính sách một quốc tịch. Cơ sở hiến định của nó là Điều 23 (thôi quốc tịch) và Điều 24 (tước quốc tịch khi một người tự nguyện có được quốc tịch của nước khác), và cổng MyGovernment cũng xác nhận chính sách này. Quyết định thôi quốc tịch Malaysia mang tính vĩnh viễn. Hãy kiểm tra tình huống cụ thể của bạn với Cục Đăng ký Quốc gia (JPN)."
 
 lang: "vi"
+sourceContentHash: "32332ac0d26401bb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

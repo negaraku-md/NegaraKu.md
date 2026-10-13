@@ -38,10 +38,11 @@ verificationNeeded:
   - "تصنيف المخاطر المصرفي حسب MSIC خاص بكل مؤسسة وغير منشور — فعامِل الأثر الموصوف هنا على أنه نمط، لا قاعدة"
 
 lang: "ar"
+sourceContentHash: "353529e7e9ebf84a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

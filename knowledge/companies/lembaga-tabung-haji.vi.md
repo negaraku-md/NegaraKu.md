@@ -30,8 +30,9 @@ faq:
     a: "TH trong lịch sử được gắn với khu vực tài chính Hồi giáo, bao gồm Bank Islam Malaysia và Syarikat Takaful Malaysia Keluarga, bên cạnh các nắm giữ trong nhiều lớp tài sản khác với tư cách là nhà đầu tư định chế. Chi tiết các nắm giữ hiện tại và tỷ lệ lợi ích cần được tham chiếu với báo cáo tài chính chính thức của TH và các công ty liên quan, vì cơ cấu sở hữu (ví dụ việc tái cấu trúc tập đoàn BIMB năm 2023) có thể thay đổi."
 
 lang: "vi"
+sourceContentHash: "440a6d426804d717"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

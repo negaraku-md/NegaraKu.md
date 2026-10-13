@@ -30,12 +30,13 @@ faq:
     a: "على المستوى الاتحادي، لا يوجد قانون نافذ لحرية المعلومات حتى تاريخ صياغة هذا النص. ولا تملك تشريعًا لحرية المعلومات سوى ولايتَي سلاغور (نُشر في الجريدة الرسمية 2011، ونفذ 2013) وبينانغ (تشريع 2010)، وهو محصور في المعلومات الداخلة في اختصاص حكومتَي الولايتين المعنيتين. وقد عُرض مشروع قانون اتحادي في يوليو 2026."
 
 lang: "ar"
+sourceContentHash: "55b6d981106fab77"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

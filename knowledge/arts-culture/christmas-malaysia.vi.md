@@ -32,8 +32,9 @@ faq:
     a: "Các gia đình Kitô giáo cử hành ngày này theo nghi lễ tôn giáo qua các buổi lễ nhà thờ. Ngoài ra, Giáng sinh được đánh dấu rộng rãi hơn trong đời sống công cộng — các trung tâm thương mại và khách sạn trang trí và mở đợt giảm giá theo mùa, còn tục mở cửa nhà đón khách thuộc mọi xuất thân đến dùng chung một bữa ăn là điều phổ biến. Việc tham gia vào khía cạnh xã hội, rộng hơn của mùa lễ không chỉ giới hạn ở Kitô hữu."
 
 lang: "vi"
+sourceContentHash: "4331ba5a016fc700"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Pemilik usaha, akuntan, dan tim keuangan yang bersiap untuk atau mengelola kepatuhan e-Invoice."
 
 lang: "id"
+sourceContentHash: "12ea69b29867be13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

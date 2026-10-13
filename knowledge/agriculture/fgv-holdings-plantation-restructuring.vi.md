@@ -32,8 +32,9 @@ faq:
     a: "FGV là một doanh nghiệp kinh doanh nông nghiệp tích hợp trải rộng đồn điền (cọ dầu, cao su và năng lượng tái tạo), dầu và mỡ, đường, hậu cần và dịch vụ hỗ trợ, cùng các sản phẩm tiêu dùng. Theo tường trình của chính mình, nó đóng góp khoảng 3% sản lượng dầu cọ thô toàn cầu."
 
 lang: "vi"
+sourceContentHash: "f7515e7869f5fdd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

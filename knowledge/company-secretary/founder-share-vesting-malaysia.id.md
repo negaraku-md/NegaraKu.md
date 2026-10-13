@@ -33,8 +33,9 @@ faq:
     a: "Ya — tuntutan kembali adalah pemindahan saham, jadi bendera pemindahan saham biasa berlaku. Instrumen pemindahan menarik bea meterai ad valorem atas yang lebih tinggi antara harga atau nilai saham, dan pelepasan saham tidak tercatat dapat termasuk dalam rezim pajak keuntungan modal yang berlaku bagi perusahaan pada 2024, walaupun harga beli kembali nominal, karena kedua pungutan itu melihat kepada nilai pasar dan bukan imbalan yang dinyatakan. Panduan ini tidak menyatakan ulang tarif; lihat panduan pemindahan saham dan keuntungan modal terkait untuk angka, dasar penilaian dan batas waktu, dan dapatkan nasihat sebelum melaksanakan tuntutan kembali."
 
 lang: "id"
+sourceContentHash: "405e988fb0b4ca4a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

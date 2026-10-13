@@ -37,10 +37,11 @@ faq:
     a: "يجب أن يكون المكتب المسجّل في ماليزيا وأن يكون مكانًا يمكن فيه تبليغ المستندات وتفتيش السجلات (المادة 46). وكثير من الشركات تستخدم بدلًا من ذلك مكتب أمين سرّ الشركة."
 
 lang: "ar"
+sourceContentHash: "0220f937a06b83b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

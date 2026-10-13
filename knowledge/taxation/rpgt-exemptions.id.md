@@ -34,8 +34,9 @@ verificationNeeded:
   - "Status terkini Formulir CKHT 502 sebagai jalur pembayaran pemeroleh belum dipastikan berdasarkan halaman prosedur pembayaran LHDN dan mungkin telah digantikan oleh slip pengesahan e-CKHT"
 
 lang: "id"
+sourceContentHash: "6666571281397324"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

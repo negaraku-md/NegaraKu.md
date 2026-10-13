@@ -44,8 +44,9 @@ verificationNeeded:
   - "Bất kỳ chính sách cấp phép rượu được công bố nào cho từng bang như Kelantan hay Terengganu — không có chính sách nào được xác nhận, và sự khác biệt dường như xuất phát từ quyền quyết định của Licensing Board hơn là từ chính sách được công bố"
 
 lang: "vi"
+sourceContentHash: "8621ae7bf33716e8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

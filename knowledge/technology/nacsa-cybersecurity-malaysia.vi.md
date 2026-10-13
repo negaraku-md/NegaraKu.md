@@ -31,8 +31,9 @@ faq:
     a: "Theo Cyber Security Act 2024 [Act 854], một đơn xin cung cấp dịch vụ an ninh mạng được nộp cho Giám đốc Điều hành của NACSA. Các hạng mục được quản lý là dịch vụ giám sát trung tâm điều hành an ninh (SOC) được quản lý và dịch vụ kiểm thử xâm nhập."
 
 lang: "vi"
+sourceContentHash: "a5256768a1d06815"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

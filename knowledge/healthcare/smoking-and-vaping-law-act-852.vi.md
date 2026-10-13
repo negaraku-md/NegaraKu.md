@@ -30,8 +30,9 @@ faq:
     a: "Không. Act 852 cấm bán tất cả các sản phẩm thuốc lá và vape qua các nền tảng trực tuyến và máy bán hàng tự động."
 
 lang: "vi"
+sourceContentHash: "41eadbd4f391ff30"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

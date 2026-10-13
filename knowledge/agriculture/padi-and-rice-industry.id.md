@@ -27,8 +27,9 @@ faq:
   - q: "Dari mana datangnya beras impor Malaysia?"
     a: "Sebagian besar impor diperoleh dari Vietnam, Thailand, Pakistan, India dan Myanmar, menurut BERNAS."
 lang: "id"
+sourceContentHash: "8a715f161404c46b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

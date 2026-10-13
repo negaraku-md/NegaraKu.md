@@ -29,8 +29,9 @@ faq:
     a: "Pembelian harus dibiayai sepenuhnya dari laba ditahan perusahaan pada basis perusahaan (bukan grup) — Kaidah 12.10 Bab 12 Persyaratan Pencatatan Bursa. Pinjaman dapat digunakan sebagai sumber dana asalkan pembelian didukung oleh jumlah laba ditahan yang setara (Kaidah 12.11)."
 
 lang: "id"
+sourceContentHash: "6bd8a430b49db96b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

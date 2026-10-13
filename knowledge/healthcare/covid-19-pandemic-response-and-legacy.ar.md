@@ -32,12 +32,13 @@ faq:
     a: "هي وثيقة سياساتية أقرّها البرلمان في 15 يونيو 2023، تحدّد إصلاحاً تدريجياً للنظام الصحي الماليزي مدته 15 عاماً."
 
 lang: "ar"
+sourceContentHash: "635c9f97868b06be"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -35,10 +35,11 @@ faq:
     a: "اعتبارًا من سنة 2026، وزير الخارجية هو داتو سري أوتاما محمد حسن (Dato' Seri Utama Mohamad Hasan). وتتغير الحقائب الوزارية مع التعديلات الحكومية، لذا تحقّق من شاغل المنصب الحالي على kln.gov.my."
 
 lang: "ar"
+sourceContentHash: "e91cf1913840a424"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -27,8 +27,9 @@ faq:
   - q: "Apa yang berubah dengan amandemen 2020?"
     a: "Akta Pengangkutan Jalan (Pindaan) 2020 mulai berlaku pada 23 Oktober 2020. Ia menaikkan penalti dan masa pencabutan kelayakan bagi mengemudi secara ugal-ugalan dan berbahaya serta mengemudi dalam keadaan mabuk (Pasal 41-45A), menurunkan batas alkohol yang ditetapkan ke standar WHO, dan menambah definisi 'kendaraan mikromobilitas'."
 lang: "id"
+sourceContentHash: "e438c79ab71a1dba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

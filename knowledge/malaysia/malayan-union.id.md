@@ -20,8 +20,9 @@ keyTakeaways:
   - "Persekutuan 1948 mewujudkan Majlis Raja-Raja, Majlis Perundangan Persekutuan, dan Majlis Mesyuarat Kerja, tetapi kuasa eksekutif masih pada Komisioner Tinggi British"
 appliesTo: "Pelajar, peneliti, dan pembaca umum yang ingin memahami asal usul konstitusional Malaysia — khususnya bagaimana kedudukan Raja-Raja Melayu dan syarat kewarganegaraan mulai dirumuskan secara tertulis sebelum Merdeka."
 lang: "id"
+sourceContentHash: "f8c770a08f5a6831"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

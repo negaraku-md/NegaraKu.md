@@ -28,8 +28,9 @@ verificationNeeded:
   - "SSM không công bố một tiêu chuẩn dịch vụ về thời gian xử lý chung cho việc thành lập công ty; các con số đưa ra ở đây đến từ các hướng dẫn riêng lẻ với các ngày khác nhau"
 
 lang: "vi"
+sourceContentHash: "30930e352d6a91ec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

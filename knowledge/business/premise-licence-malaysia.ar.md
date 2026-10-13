@@ -42,10 +42,11 @@ verificationNeeded:
   - "ما إذا كان تسجيل SSM مطلوبًا رسميًا للمالكين الفرديين في صباح — فـ DBKK لا تُدرجه ضمن المستندات المطلوبة"
 
 lang: "ar"
+sourceContentHash: "0a22774d2a85e872"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

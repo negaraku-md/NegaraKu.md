@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Penduduk, perencana kota, dan siapa saja yang membandingkan kelayakan berjalan kaki serta infrastruktur bersepeda di kota-kota Malaysia dengan negara-negara lain."
 
 lang: "id"
+sourceContentHash: "3d0d276aec4c1fe4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

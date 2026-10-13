@@ -36,8 +36,9 @@ faq:
     a: "Anda mengajukan notis tunjuk sebab (Borang 208). Setelah itu pengadilan dapat mengeluarkan writ penyitaan dan penjualan (Borang 84) terhadap harta debitur putusan, mengizinkan pembayaran angsuran, atau memerintahkan debitur dimasukkan ke penjara."
 
 lang: "id"
+sourceContentHash: "7f497323fdf0e52a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

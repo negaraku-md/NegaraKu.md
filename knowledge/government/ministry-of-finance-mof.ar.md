@@ -27,9 +27,10 @@ faq:
   - q: "من يقود وزارة المالية؟"
     a: "اعتبارًا من أغسطس 2026، وزير المالية هو Dato' Seri Anwar bin Ibrahim، مع Datuk Seri Amir Hamzah bin Azizan وزيرًا للمالية الثاني، وDatuk Johan Mahmood bin Merican أمينًا عامًّا للخزانة. ويتغير شاغلو المناصب مع التعديلات الوزارية، لذا تأكد من الأسماء الحالية على mof.gov.my."
 lang: "ar"
+sourceContentHash: "d725c73359a7391e"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

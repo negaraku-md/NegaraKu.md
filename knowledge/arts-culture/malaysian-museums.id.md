@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Pengunjung yang merencanakan itinerari kunjungan museum, pelajar dan peneliti yang menginginkan sejarah institusi di balik koleksi-koleksi utama Malaysia, dan siapa saja yang menganggap Muzium Negara adalah museum tertua negara."
 
 lang: "id"
+sourceContentHash: "8802106dd859b55e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

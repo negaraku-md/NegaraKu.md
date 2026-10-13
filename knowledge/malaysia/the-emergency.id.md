@@ -30,8 +30,9 @@ faq:
     a: "Sumber-sumber mencatat kedua proses ini berjalan sejajar, bukan satu menyebabkan yang lain. Kemerdekaan dirundingkan dan dicapai pada 31 Agustus 1957 ketika Darurat masih berlaku, dan Darurat berlanjut hampir tiga tahun lagi di bawah pemerintah Tanah Melayu yang merdeka."
 
 lang: "id"
+sourceContentHash: "05c196a1a00207fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

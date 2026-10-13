@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "الموظفون الذين يوازنون بين تغطية رب العمل الطبية والبطاقة الطبية الشخصية، وكل من يحاول فهم معنى «الدفع المشترك» قبل شراء وثيقة أو تجديدها."
 
 lang: "ar"
+sourceContentHash: "5d9b4b2567c4315f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

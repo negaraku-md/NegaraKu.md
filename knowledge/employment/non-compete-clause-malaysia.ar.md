@@ -27,10 +27,11 @@ verificationNeeded:
   - "تأكيد ما إذا كانت أي محكمة ماليزية قد أيّدت بندًا لعدم استمالة العملاء لاحقًا لإنهاء العمل باعتباره واقعًا خارج نطاق المادة 28"
 
 lang: "ar"
+sourceContentHash: "d5d94ae67835a159"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

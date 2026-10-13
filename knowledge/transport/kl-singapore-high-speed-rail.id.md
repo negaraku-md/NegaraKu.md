@@ -29,8 +29,9 @@ faq:
     a: "Tidak. RTS Link adalah layanan ulang-alik lintas batas yang pendek antara Johor Bahru dan Woodlands, ditargetkan dibuka pada 2026. HSR adalah jalur berkecepatan tinggi yang terpisah sepanjang kira-kira 350 km yang direncanakan antara Kuala Lumpur dan Singapura."
 
 lang: "id"
+sourceContentHash: "b505d87f2fe5cea1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

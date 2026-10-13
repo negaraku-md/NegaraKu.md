@@ -26,8 +26,9 @@ verificationNeeded:
   - "Liệu đơn xin CDL hiện có thể được nộp hoàn toàn trực tuyến qua ứng dụng MyJPJ hay không — trang dịch vụ JPJ được rà soát nêu rằng đơn được nộp chỉ tại quầy JPJ của bang, nhưng điều này có thể đã thay đổi sau ngày rà soát"
 
 lang: "vi"
+sourceContentHash: "994f31cbd16cea0e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

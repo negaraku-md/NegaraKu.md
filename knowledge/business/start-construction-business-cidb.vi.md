@@ -33,8 +33,9 @@ faq:
     a: "Đó là một hành vi phạm tội. Theo section 29 của Act 520, vi phạm section 25(1) bị trừng phạt khi bị kết án với một khoản phạt không dưới RM10,000 và không quá RM100,000. Riêng biệt, theo section 30 CIDB có thể tống đạt một thông báo bằng văn bản ra lệnh bạn dừng công việc; bỏ qua thông báo đó tự bản thân là một hành vi phạm tội mang một khoản phạt đến RM5,000, cộng đến RM1,000 cho mỗi ngày hành vi phạm tội tiếp diễn."
 
 lang: "vi"
+sourceContentHash: "d4cd90059b767133"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

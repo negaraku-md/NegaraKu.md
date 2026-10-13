@@ -34,8 +34,9 @@ faq:
     a: "Có. ASF được tuyên bố ở trạng thái đặc hữu ở Malaysia vào tháng 8 năm 2025. Các đợt bùng phát lớn xảy ra ở Selangor (76,000 con heo tại 57 trang trại) và Penang, với vật nuôi bị nhiễm bị tiêu hủy để ngăn chặn lây lan (CodeBlue)."
 
 lang: "vi"
+sourceContentHash: "28ee8ace3a3090da"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

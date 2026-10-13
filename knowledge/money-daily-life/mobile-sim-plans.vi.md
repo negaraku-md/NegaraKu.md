@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tại Malaysia — công dân, cư dân, người giữ thị thực lao động, sinh viên hay du khách — cần mua hoặc đăng ký một thẻ SIM di động nội địa."
 
 lang: "vi"
+sourceContentHash: "5f238099826ab02d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

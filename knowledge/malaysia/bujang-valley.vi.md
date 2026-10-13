@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu nguồn gốc của nền văn minh sơ khai trên đất Mã Lai trước khi các vương triều Mã Lai (kesultanan) tồn tại, hoặc đang lên kế hoạch viếng thăm các di chỉ và bảo tàng khảo cổ ở Kedah."
 
 lang: "vi"
+sourceContentHash: "e95214b94dacf363"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

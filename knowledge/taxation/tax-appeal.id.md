@@ -57,8 +57,9 @@ obligations:
     consequence: "Perintah putusan tetap berlaku, hanya tunduk pada perpanjangan yang diberikan oleh Mahkamah Tinggi di bawah paragraf 34(7)"
 
 lang: "id"
+sourceContentHash: "d2e991c87917fcac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,10 +29,11 @@ faq:
     a: "تتولى JBG القضايا المدنية والأسرية والشرعية وبعض القضايا الجنائية، بينما تركّز YBGK على المساعدة القانونية المجانية للقضايا الجنائية، بما في ذلك في مرحلتي القبض والحبس الاحتياطي."
 
 lang: "ar"
+sourceContentHash: "91d7cfe993126653"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

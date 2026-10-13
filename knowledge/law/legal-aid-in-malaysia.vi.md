@@ -29,8 +29,9 @@ faq:
     a: "JBG xử lý các vụ dân sự, gia đình, syariah và một số vụ hình sự nhất định, trong khi YBGK tập trung vào trợ giúp pháp lý miễn phí cho các vụ hình sự, bao gồm ở giai đoạn bắt giữ và tạm giam."
 
 lang: "vi"
+sourceContentHash: "91d7cfe993126653"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

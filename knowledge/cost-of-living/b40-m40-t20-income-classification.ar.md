@@ -29,10 +29,11 @@ faq:
     a: "تُحدَّث حدود الرينغيت كل جولة مسح (نحو كل سنتين) وترتفع مع نمو الدخل. وكثير من أرقام «حتى RMx,xxx» المتداولة على الإنترنت هي في الحقيقة من جولات أقدم."
 
 lang: "ar"
+sourceContentHash: "26ffee570df18e65"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai được mời đến một buổi rumah terbuka lần đầu, người tổ chức rumah terbuka ở cấp cộng đồng hoặc công ty, và bất kỳ ai muốn hiểu tập tục này như một hiện tượng xã hội liên sắc tộc ở Malaysia."
 
 lang: "vi"
+sourceContentHash: "3bc3f6abab7fea70"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

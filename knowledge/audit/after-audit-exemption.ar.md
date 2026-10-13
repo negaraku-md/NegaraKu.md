@@ -40,10 +40,11 @@ verificationNeeded:
   - "التأكد من النص والحالة الحاليين لإعلان LHDN بشأن الفقرة الفرعية 77A(4) مباشرةً مع LHDN — إذ لم تكن صفحة الإعلان قابلة للوصول وقت الكتابة وتُستشهَد هنا عبر الأسئلة الشائعة للإعفاء من التدقيق لدى SSM"
   - "التأكد من تواريخ المرحلة الإلزامية الحالية لـ MBRS 2.0 ونقاط الدخول على صفحة MBRS لدى SSM"
 lang: "ar"
+sourceContentHash: "10c01141306ea188"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -33,8 +33,9 @@ faq:
     a: "Vận hành một phòng khám y khoa hoặc nha khoa tư nhân không được đăng ký theo Act 586 là một hành vi phạm tội. Bộ Y tế đã nêu rằng cung cấp các dịch vụ chăm sóc sức khỏe tại các cơ sở chưa đăng ký hoặc chưa được cấp phép có thể mang một khoản phạt nặng và có thể phạt tù, và hành động thực thi có thể đóng cửa cơ sở. Đăng ký không phải là một thủ tục để bù đắp về sau — nó phải có sẵn trước khi bạn khám bệnh nhân."
 
 lang: "vi"
+sourceContentHash: "950bc0096186009c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

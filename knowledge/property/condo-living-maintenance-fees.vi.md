@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai sở hữu, đang mua, hoặc đang thuê một căn trong một chung cư, căn hộ, hoặc bất động sản phân tầng (có quyền sở hữu strata) khác của Malaysia ở Bán đảo Malaysia hoặc Lãnh thổ Liên bang Labuan."
 
 lang: "vi"
+sourceContentHash: "cb88d8015d2b5a82"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -37,8 +37,9 @@ verificationNeeded:
   - "Pastikan jumlah keanggotaan Jemaah Menteri dan daftar kementerian terkini terhadap penerbitan resmi Jabatan Perdana Menteri — Konstitusi tidak menetapkan jumlah Menteri."
 
 lang: "id"
+sourceContentHash: "0f9a6fea7774269c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

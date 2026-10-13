@@ -25,8 +25,9 @@ verificationNeeded:
   - "Angka RM188 miliar / 9% kapitalisasi pasar ekuitas domestik adalah per akhir 2024 menurut The Edge Malaysia; periksa ulang terhadap pengungkapan EPF sendiri jika tersedia."
 
 lang: "id"
+sourceContentHash: "a2dbf62e9ce69abb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

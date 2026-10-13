@@ -27,8 +27,9 @@ faq:
   - q: "Apa perbedaan antara bea ad valorem dan bea tetap?"
     a: "Bea ad valorem berbeda menurut sifat instrumen dan imbalan atau nilai pasar yang terlibat — misalnya pengalihan hak atas properti atau pinjaman. Bea tetap dikenakan tanpa kaitan dengan jumlah yang dinyatakan, umumnya dimulai pada nilai nominal RM10 bagi setiap instrumen."
 lang: "id"
+sourceContentHash: "e9d01dfeb365b31f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

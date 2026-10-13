@@ -40,10 +40,11 @@ verificationNeeded:
   - "تأكّد من جداول رسوم AIAC الحالية ومتطلّبات الإيداع مباشرةً من AIAC قبل تقديم أي مشورة بشأن التكلفة"
 
 lang: "ar"
+sourceContentHash: "8f87d032cb16f4b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -34,8 +34,9 @@ faq:
     a: "Luật Kích động (Sửa đổi) 2015 (Act A1485) đã được Quốc hội thông qua và lẽ ra đã sửa đổi các điều 2, 3 và 4 — trong số khác là bổ sung việc xuất bản điện tử, viết lại một phần định nghĩa, và tăng hình phạt. Trên cổng Laws of Malaysia của Attorney General's Chambers, văn bản có hiệu lực của Act 15 vẫn chỉ kết hợp các sửa đổi đến ngày 1 January 2006, và Act A1485 không mang dòng thời gian có hiệu lực nào. Văn bản có hiệu lực được mô tả ở đây là bản sửa đổi năm 1969."
 
 lang: "vi"
+sourceContentHash: "8c2644ad71910b60"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

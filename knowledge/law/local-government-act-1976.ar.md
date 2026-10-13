@@ -27,9 +27,10 @@ faq:
   - q: "ما الأساس القانوني الذي يتيح للمجلس فرض ضريبة التقييم؟"
     a: "الجزء الخامس عشر (Part XV) بشأن التقييم والتثمين (Rating and Valuation). فالمادة 127 تمنح السلطة المحلية صلاحية فرض معدلات على الحيازات العقارية في منطقتها، مع تحديد أساس التقييم في المادة 130."
 lang: "ar"
+sourceContentHash: "ef5c1db3291f9813"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

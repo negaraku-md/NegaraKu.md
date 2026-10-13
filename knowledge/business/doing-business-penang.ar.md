@@ -41,10 +41,11 @@ verificationNeeded:
   - "ما إذا كانت إعلانات المنطقة الصناعية الحرة في بايان ليباس وبيراي بموجب قانون المناطق الحرة لسنة 1990 (Free Zones Act 1990) قد عُدِّلت، وحدود المناطق المنشورة الحالية"
 
 lang: "ar"
+sourceContentHash: "764567a2c684af68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

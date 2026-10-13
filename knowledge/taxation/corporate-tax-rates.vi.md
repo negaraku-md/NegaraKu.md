@@ -53,8 +53,9 @@ obligations:
     consequence: "Hình phạt lên tới gấp ba số thuế theo s.112(3); các mức được LHDN công bố chạy từ 15% đến 45% theo mức độ muộn"
 
 lang: "vi"
+sourceContentHash: "00342b1e35f45f25"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

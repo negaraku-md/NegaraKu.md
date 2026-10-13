@@ -34,10 +34,11 @@ faq:
     a: "تعرّف المادة 2 حقوق الإنسان بأنها الحريات الأساسية المكرَّسة في الجزء الثاني من الدستور الفيدرالي. وتضيف المادة 4(4) أنه يجب مراعاة الإعلان العالمي لحقوق الإنسان لسنة 1948 بالقدر الذي لا يتعارض فيه مع الدستور الفيدرالي."
 
 lang: "ar"
+sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

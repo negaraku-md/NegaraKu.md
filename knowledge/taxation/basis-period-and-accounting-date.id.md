@@ -35,8 +35,9 @@ obligations:
     consequence: "Penalti dan kenaikan angsuran berdasarkan periode akuntansi lama tetap dapat ditagih di bawah s.112(3A) dan s.107C(11B)"
 
 lang: "id"
+sourceContentHash: "23049b8c7ea8c98a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

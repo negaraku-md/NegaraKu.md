@@ -42,10 +42,11 @@ verificationNeeded:
   - "تحقّق من مُدد الاحتفاظ بالسجلات بموجب قانون ضريبة المبيعات لسنة 2018 (Sales Tax Act 2018) وقانون ضريبة الخدمات لسنة 2018 (Service Tax Act 2018) على حدة قبل توسيع هذا التحليل ليشمل مستندات SST"
 
 lang: "ar"
+sourceContentHash: "8f59afbef6de896e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

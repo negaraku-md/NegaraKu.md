@@ -29,8 +29,9 @@ faq:
     a: "Dana investasi negara Malaysia, Permodalan Nasional Berhad (PNB), merupakan pemegang saham utama di seluruh perusahaan Sime Darby, dan PNB adalah penjual kepemilikan UMW yang diakuisisi Sime Darby Berhad. Persentase kepemilikan saham yang tepat berubah dari waktu ke waktu dan perlu diperiksa terhadap pengajuan Bursa Malaysia terkini setiap perusahaan."
 
 lang: "id"
+sourceContentHash: "b6cfb2928f3fa4fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

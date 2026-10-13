@@ -29,8 +29,9 @@ faq:
     a: "Tidak kurang dari tujuh tahun dari akhir tahun buku yang berkaitan dengan transaksi tersebut (Section 69(2))."
 
 lang: "id"
+sourceContentHash: "6c21f7bda1b829f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

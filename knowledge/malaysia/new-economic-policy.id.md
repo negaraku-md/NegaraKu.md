@@ -20,8 +20,9 @@ keyTakeaways:
   - "DEB disusun menyusul peristiwa 13 Mei 1969 dan digantikan oleh Dasar Pembangunan Nasional pada 1991"
 appliesTo: "Pembaca yang menginginkan tujuan, sasaran, dan kerangka waktu Dasar Ekonomi Baru yang terdokumentasi sebagaimana dinyatakan dalam teks rancangan resmi Malaysia, dan bukan catatan yang berat sebelah mengenainya."
 lang: "id"
+sourceContentHash: "6f9599be22d1ac5f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

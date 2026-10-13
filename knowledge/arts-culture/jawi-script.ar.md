@@ -34,9 +34,10 @@ seoTitle: "الخط الجاوي: التاريخ والنظام ومكانته �
 socialTitle: "الأبجدية العربية التي كتبت الملايوية طوال سبعة قرون — قصة الخط الجاوي"
 
 lang: "ar"
+sourceContentHash: "227837ea67cec8a8"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -30,10 +30,11 @@ faq:
     a: "تتبع SSM وزارة التجارة الداخلية وتكاليف المعيشة (Ministry of Domestic Trade and Cost of Living). وتُعاد هيكلة الحقائب الوزارية في ماليزيا دوريًا، لذا تحقَّق من الوزارة الأم الحالية على ssm.com.my قبل الاعتماد عليها في وثيقة رسمية."
 
 lang: "ar"
+sourceContentHash: "f9b7af93b7253c9c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

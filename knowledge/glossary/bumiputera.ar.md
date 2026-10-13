@@ -34,11 +34,12 @@ seoTitle: "بوميبوترا (Bumiputera): معنى المصطلح وأساسه
 socialTitle: "بوميبوترا — مصطلح لا يرد في الدستور، لكنه متجذّر في المواد 153 و160 و161A"
 
 lang: "ar"
+sourceContentHash: "924aa904a876b274"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

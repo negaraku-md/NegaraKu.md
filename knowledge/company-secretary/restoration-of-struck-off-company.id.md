@@ -28,8 +28,9 @@ faq:
     a: "Tidak. Pemulihan memerlukan perintah Mahkamah Tinggi. Pendaftar (SSM) dinamai sebagai tergugat dan memeriksa permohonan sebelum persidangan."
 
 lang: "id"
+sourceContentHash: "abcd7eea51de63b1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -41,8 +41,9 @@ verificationNeeded:
   - "Konfirmasikan apakah MASB telah mengeluarkan panduan khusus mengenai penggunaan kembali MPERS oleh suatu entitas yang sebelumnya beralih ke MFRS"
 
 lang: "id"
+sourceContentHash: "621bf2dc64ee78c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

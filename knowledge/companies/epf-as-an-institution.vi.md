@@ -29,8 +29,9 @@ faq:
     a: "Tiết kiệm Thông thường được bảo đảm tối thiểu 2,50% mỗi năm theo Luật KWSP 1991 (EPF Act 1991). Còn Tiết kiệm Shariah phụ thuộc hoàn toàn vào hiệu quả thực tế của danh mục đầu tư mà không có bảo đảm tối thiểu."
 
 lang: "vi"
+sourceContentHash: "e680578dd6d6768e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

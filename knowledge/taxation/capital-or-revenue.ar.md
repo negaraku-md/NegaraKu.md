@@ -41,10 +41,11 @@ verificationNeeded:
   - "لم يُعثَر على سابقة قضائية ماليزية حول علامات التجارة مُستشهَداً بها في أي وثيقة رسمية لـLHDN، فلا تُذكر سوابق قضائية في هذه الصفحة"
 
 lang: "ar"
+sourceContentHash: "916f828ed466fba0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

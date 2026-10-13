@@ -33,8 +33,9 @@ faq:
     a: "Mengelola perusahaan pariwisata tanpa lisensi yang sah adalah suatu pelanggaran di bawah Akta Industri Pelancongan 1992, yang ditegakkan secara aktif oleh MOTAC melalui pemeriksaan. Ketika dinyatakan bersalah, penaltinya adalah denda hingga RM500,000 atau penjara hingga 10 tahun, atau keduanya. MOTAC juga boleh menuntut, menangguhkan, atau membatalkan lisensi bagi pelanggaran lain terhadap Akta dan peraturan tersebut."
 
 lang: "id"
+sourceContentHash: "267a25e0a7a19ed2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

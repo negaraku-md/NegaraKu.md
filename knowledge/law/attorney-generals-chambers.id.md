@@ -32,8 +32,9 @@ faq:
     a: "Yang di-Pertuan Agong menunjuk Peguam Negara atas nasihat Perdana Menteri. Calon haruslah seseorang yang memenuhi syarat menjadi Hakim Mahkamah Persekutuan."
 
 lang: "id"
+sourceContentHash: "8a9cf47766823c46"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

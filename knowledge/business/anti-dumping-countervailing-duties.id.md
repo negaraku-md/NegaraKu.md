@@ -43,8 +43,9 @@ verificationNeeded:
   - "Jangka waktu untuk menanggapi kuesioner tambahan ditetapkan berdasarkan kasus per kasus dalam kuesioner itu sendiri dan tidak ditetapkan oleh Peraturan tersebut"
 
 lang: "id"
+sourceContentHash: "362da92334d2fc8d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

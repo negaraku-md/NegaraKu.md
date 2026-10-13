@@ -41,8 +41,9 @@ verificationNeeded:
   - "Pastikan apakah terdapat padanan Sales Tax Act bagi Service Tax Act s.26A untuk barang yang diimpor — cetak ulang 2018 tidak memuat ketentuan semacam itu"
 
 lang: "id"
+sourceContentHash: "13790ae63f7d4cb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

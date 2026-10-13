@@ -24,10 +24,11 @@ verificationNeeded:
   - "حجب موقع kwsp.gov.my الرسمي الوصول الآلي (403) وقت كتابة هذه المقالة. ومعدلات اشتراك KWSP المذكورة (11 بالمئة للموظف؛ و13/12 بالمئة لصاحب العمل بحسب شريحة الأجر) تأكّدت عبر بحث أعاد مقتطفات مباشرة من نصّ kwsp.gov.my نفسه، وهي متسقة مع مقالة epf-employer-guide على هذا الموقع التي تستشهد أيضًا بـkwsp.gov.my. يُرجى إعادة التحقق مباشرة من kwsp.gov.my/en/epf-act-1991-third-schedule عند إتاحة الموقع."
 
 lang: "ar"
+sourceContentHash: "91cbd7d0dece19b9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

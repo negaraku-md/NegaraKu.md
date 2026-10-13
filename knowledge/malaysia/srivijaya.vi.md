@@ -17,8 +17,9 @@ keyTakeaways:
   - "Parameswara, người sáng lập Vương triều Melaka vào khoảng năm 1400, được mô tả trong truyền thống Mã Lai và bởi chính chính quyền bang Melaka như một hoàng tử từ Palembang — kinh đô cũ của Srivijaya"
 appliesTo: "Độc giả muốn hiểu điều gì đã cai trị Eo biển Melaka trước khi Melaka làm điều đó, và cách một thế lực biển đặt cơ sở ở Sumatra rốt cuộc lại nuôi dưỡng trực tiếp lịch sử hoàng gia của chính Bán đảo Mã Lai."
 lang: "vi"
+sourceContentHash: "9c0d3b0b3dd803ef"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -57,8 +57,9 @@ obligations:
     consequence: "Denda tidak melebihi RM20,000 dan denda selanjutnya tidak melebihi RM500 per hari bagi kesalahan berkelanjutan"
 
 lang: "id"
+sourceContentHash: "bd60a59f70660bf4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,10 +30,11 @@ faq:
     a: "نعم. تُعاد فترة الأشهر الستة للتعميم (الشركات الخاصة، المادة 258) وفترة الثلاثين يومًا للإيداع لدى لجنة الشركات الماليزية (SSM) (المادة 259) من نهاية السنة المالية الجديدة."
 
 lang: "ar"
+sourceContentHash: "518df847514632f2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

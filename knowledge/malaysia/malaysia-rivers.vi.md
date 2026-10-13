@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Học sinh học địa lý và lịch sử Malaysia, cùng bất kỳ ai muốn hiểu vì sao các thành phố chính ở Sarawak, Sabah và Pahang tọa lạc ở những vị trí sông nhất định."
 
 lang: "vi"
+sourceContentHash: "c0dca023c22caa3e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

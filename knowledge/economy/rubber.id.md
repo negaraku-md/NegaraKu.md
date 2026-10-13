@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang memerlukan gambaran tingkat orientasi, bersumber, tentang sektor karet Malaysia: tanaman perkebunan, arus perdagangan, dan industri pembuatan sarung tangan yang kini mendominasinya."
 
 lang: "id"
+sourceContentHash: "0020c8d13fc47636"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

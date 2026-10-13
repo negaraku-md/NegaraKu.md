@@ -31,8 +31,9 @@ faq:
     a: "NETR nhắm tới 70% công suất năng lượng tái tạo và phát thải khí nhà kính ròng bằng không vào năm 2050, được hỗ trợ bởi 10 dự án chủ lực dự kiến thu hút đầu tư vượt RM25 tỷ."
 
 lang: "vi"
+sourceContentHash: "19a2c50c83298410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -25,8 +25,9 @@ verificationNeeded:
   - "Các con số hòa vốn minh họa trong bài viết này là phép số học trên bảng dải đã công bố, không phải một ngưỡng do LHDN công bố; chúng thay đổi theo các khoản giảm trừ mà mỗi cặp vợ chồng thực sự yêu cầu"
 
 lang: "vi"
+sourceContentHash: "9439aef0bb0b111f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

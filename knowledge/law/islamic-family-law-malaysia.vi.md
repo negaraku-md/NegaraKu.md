@@ -30,8 +30,9 @@ faq:
     a: "Theo điều 81 Act 303, người mẹ là người có quyền nhất đối với hadhanah của con nhỏ. Nếu người mẹ mất tư cách theo Luật Hồi giáo (Syarak), quyền đó chuyển theo thứ tự ưu tiên được quy định, với phúc lợi của đứa trẻ là cân nhắc chính."
 
 lang: "vi"
+sourceContentHash: "4f9d82016cc77fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

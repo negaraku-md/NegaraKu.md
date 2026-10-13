@@ -32,8 +32,9 @@ faq:
     a: "Pasal 8(1) Akta 808 menetapkan semua yang hadir harus berdiri siap. Pasal 8(3) mengatur bahwa siapa pun yang dengan sengaja menunjukkan sikap tidak hormat terhadap Lagu Kebangsaan di tempat umum dapat, apabila divonis, didenda tidak melebihi RM100 atau dipenjara selama periode tidak melebihi satu bulan."
 
 lang: "id"
+sourceContentHash: "c84bd6935adf2871"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

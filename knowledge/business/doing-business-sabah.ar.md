@@ -44,10 +44,11 @@ verificationNeeded:
   - "أعداد المستأجرين الحالية والاستثمار الملتزَم به في POIC Lahad Datu وSOGIP Sipitang — فمواقع المشغّل تحمل أرقامًا مؤرّخة بين 2020 و2022 وإجماليات طموحة"
 
 lang: "ar"
+sourceContentHash: "91f5a7840f804778"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

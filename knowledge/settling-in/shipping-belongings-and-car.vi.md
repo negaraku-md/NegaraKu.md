@@ -19,8 +19,9 @@ keyTakeaways:
   - "Việc đăng ký xe được nộp điện tử thông qua một trong ba Gateway Provider được JPJ chỉ định, với một khoản phí dịch vụ JPJ là RM50 cho mỗi lần nộp"
 appliesTo: "Bất kỳ ai tái định cư đến Malaysia — người Malaysia hồi hương, nhân sự nước ngoài mới được tuyển, người tham gia MM2H — đang quyết định nên chuyển những gì, và liệu việc vận chuyển một chiếc xe hơi sở hữu cá nhân có thực tế hay không."
 lang: "vi"
+sourceContentHash: "322f701876a3d3fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

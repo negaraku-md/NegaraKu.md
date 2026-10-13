@@ -35,10 +35,11 @@ faq:
     a: "ترتبط الأهداف بدورة الألعاب الكبرى — الأولمبياد والألعاب الآسيوية وألعاب الكومنولث — ويُمنَح التركيز للرياضات المحددة بأن لها فرصة نجاح عالية، تماشياً مع الهدف 8 من السياسة الرياضية الوطنية. ويُوجَّه التمويل على أساس دوري (مثلاً RM60 مليون سنوياً لأربع سنوات)، بتنسيق من مجلس الرياضة الوطني وبدعم من علوم الرياضة لدى المعهد الوطني للرياضة."
 
 lang: "ar"
+sourceContentHash: "7132b0584a8f785b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -34,8 +34,9 @@ faq:
     a: "Pasal 126(2) menetapkan bahwa siapa saja yang memiliki atau menyediakan fasilitas jaringan, layanan jaringan atau layanan aplikasi tanpa lisensi sah melakukan kesalahan dan dapat, apabila dinyatakan bersalah, dikenakan denda tidak melebihi RM500,000 atau penjara tidak melebihi lima tahun atau keduanya, serta denda lanjutan RM1,000 bagi setiap hari kesalahan itu diteruskan setelah vonis."
 
 lang: "id"
+sourceContentHash: "f7de1e94c09f1ce3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

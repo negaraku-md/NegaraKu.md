@@ -25,8 +25,9 @@ verificationNeeded:
   - "Trang chính sách tiếp nhận số / e-KYC của BNM trả về lỗi 403 khi tải tự động tại thời điểm viết bài; sự tồn tại và tiêu đề của nó được xác nhận trực tiếp từ kết quả tìm kiếm bnm.gov.my, nhưng chi tiết điều kiện chi tiết nên được kiểm tra lại trực tiếp trên bnm.gov.my khi có thể truy cập."
 
 lang: "vi"
+sourceContentHash: "52307f4fb8c11cd2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

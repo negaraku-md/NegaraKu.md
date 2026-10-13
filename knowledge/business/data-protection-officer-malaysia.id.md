@@ -52,8 +52,9 @@ obligations:
     consequence: "Ketidakpatuhan terhadap suatu kewajiban di bawah Act 709"
 
 lang: "id"
+sourceContentHash: "d78778f117bf2197"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -31,8 +31,9 @@ verificationNeeded:
   - "Các ngày chính xác (các chức vụ nội các, việc cách chức, việc được trả tự do, việc bổ nhiệm làm Thủ tướng) cần được xác nhận so với Văn phòng Thủ tướng (Prime Minister's Office) và hồ sơ tòa án."
 
 lang: "vi"
+sourceContentHash: "ff741a6378247554"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

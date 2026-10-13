@@ -36,8 +36,9 @@ faq:
     a: "Manual Prosedur menetapkan otoritas berwenang hendaklah berurusan langsung dengan perusahaan atau pemohon tanpa melalui pihak ketiga atau perantara seperti konsultan. Konsultan dapat membantu menyiapkan dokumen, tetapi permohonan dan komunikasi resmi tetap antara pemohon dengan JAKIM/MAIN/JAIN."
 
 lang: "id"
+sourceContentHash: "7bb5b6fb5326f994"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

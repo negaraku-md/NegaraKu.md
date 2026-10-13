@@ -29,8 +29,9 @@ faq:
     a: "Mức tối thiểu là RM1,000 mỗi giao dịch. Số tiền đủ điều kiện của bạn có hiệu lực ba tháng một lần, nên trên thực tế bạn có thể thực hiện một khoản chuyển mới sau khi thời gian đó trôi qua."
 
 lang: "vi"
+sourceContentHash: "d3f550dd37241cac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

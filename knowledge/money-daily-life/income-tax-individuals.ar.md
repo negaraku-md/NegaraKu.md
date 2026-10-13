@@ -27,10 +27,11 @@ verificationNeeded:
   - "الموعد النهائي السنوي للتقديم (30 أبريل يدويًّا / 15 مايو عبر e-Filing) مؤكَّد لسنة التقدير 2025 عبر بيان LHDN الإعلامي المؤرَّخ؛ وتُصدِر LHDN برنامج تقديم جديدًا كل عام، لذا تحقّق مجددًا من تواريخ العام الجاري قبل الاعتماد عليها لسنة تقدير مختلفة."
 
 lang: "ar"
+sourceContentHash: "027e674e99f0cfb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

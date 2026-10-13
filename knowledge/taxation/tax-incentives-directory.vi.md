@@ -29,8 +29,9 @@ verificationNeeded:
   - "Xác nhận trạng thái hiện hành của khoản khấu trừ đầu tư BioNexus và của các ưu đãi trạng thái Malaysia Digital, cả hai đều được xác minh bởi một cơ quan khác ngoài MIDA và không thể truy dấu đầy đủ đến một văn bản công báo đơn lẻ"
 
 lang: "vi"
+sourceContentHash: "d22536bf1bfa9c08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

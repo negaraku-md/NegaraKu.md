@@ -23,8 +23,9 @@ verificationNeeded:
   - "Bài viết này không nêu phí chính xác cho khóa học Hạng D của một trường dạy lái tư nhân, hay biểu phí JPJ chính xác cho lộ trình LDL/PDL/CDL, vì không tìm thấy một bảng phí JPJ chính thức duy nhất nào khi xác minh — hãy xác nhận phí hiện hành trực tiếp tại quầy JPJ hoặc trường dạy lái có giấy phép trước khi lập ngân sách."
   - "Câu chữ chính xác của mục 28 Luật Giao thông Đường bộ 1987 được xác nhận qua các tóm tắt thứ cấp của Luật thay vì đọc trực tiếp từng dòng của PDF do JPJ đăng (được tránh ở đây để kiểm soát việc sử dụng ngữ cảnh) — số mục và hiệu lực thực chất được nhiều nguồn độc lập chứng thực, nhưng hãy xác nhận câu chữ chính xác với PDF Luật 333 do JPJ đăng nếu soạn thảo bất cứ điều gì dựa vào nó về mặt pháp lý."
 lang: "vi"
+sourceContentHash: "04842acf21e405cb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -29,8 +29,9 @@ faq:
     a: "Ya. Kedua negara bagian memiliki lembaga pariwisata tersendiri yang memasarkan negara bagian bersangkutan, seiring dengan upaya nasional Tourism Malaysia."
 
 lang: "id"
+sourceContentHash: "353b6077a5a0f789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -27,8 +27,9 @@ faq:
   - q: "Kementerian mana yang menaungi MyIPO?"
     a: "MyIPO adalah agensi statutori persekutuan di bawah Kementerian Perdagangan Dalam Negeri dan Biaya Hidup (KPDN), kementerian yang bertanggung jawab atas perdagangan dalam negeri dan urusan konsumen di Malaysia."
 lang: "id"
+sourceContentHash: "1a13bdbeb8de806f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

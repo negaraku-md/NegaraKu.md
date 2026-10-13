@@ -37,10 +37,11 @@ faq:
     a: "صمّمها المهندس الألماني هيرمان تيلكه — وهي أول حلبة فورمولا 1 يبنيها خصيصًا. وتخطيط سباق الجائزة الكبرى بطول 5.543 كم بـ 15 منعطفًا وعرض مضمار يتراوح بين 16 و20 مترًا."
 
 lang: "ar"
+sourceContentHash: "a2a0e6bd77b78348"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

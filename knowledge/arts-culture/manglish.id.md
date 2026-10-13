@@ -31,8 +31,9 @@ faq:
     a: "Ya. Oxford English Dictionary telah menambahkan beberapa kata Bahasa Inggris Malaysia dalam pembaruan berturut-turut, termasuk lepak, shiok, dan teh tarik pada 2016, beberapa istilah Manglish dan makanan Malaysia termasuk mamak, kopitiam, dan atas kemudian pada tahun yang sama, serta kata seperti boleh, agak-agak, dan wayang dalam pembaruan berikutnya — mengakui penggunaan Malaysia yang telah lama mapan dan bukannya menciptakan bahasa Inggris baru."
 
 lang: "id"
+sourceContentHash: "8f82ee70d6e9258e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

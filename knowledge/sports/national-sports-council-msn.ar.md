@@ -27,9 +27,10 @@ faq:
   - q: "أين يقع مقر MSN؟"
     a: "في المجمّع الرياضي الوطني (Kompleks Sukan Negara)، بوكيت جليل، 57000 سري بتالينغ، كوالالمبور. كما يشغّل مجمّعات تدريبية في عدة ولايات أخرى."
 lang: "ar"
+sourceContentHash: "d519f370c717d10a"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

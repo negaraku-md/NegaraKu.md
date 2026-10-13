@@ -32,8 +32,9 @@ faq:
     a: "Sifat hubungan, jumlah transaksi, saldo tertunggak dan syaratnya, setiap agunan atau jaminan yang diterima atau diberikan, dan penyisihan untuk piutang ragu-ragu terkait saldo tersebut."
 
 lang: "id"
+sourceContentHash: "ae54f875cbc22c20"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

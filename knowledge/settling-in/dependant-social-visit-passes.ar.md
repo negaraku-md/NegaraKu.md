@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "حاملو تصريح العمل (Employment Pass) الذين يجلبون عائلاتهم إلى ماليزيا، والأزواج والأبناء والوالدان أو والدا الزوج الذين تجري كفالتهم."
 
 lang: "ar"
+sourceContentHash: "965187483a912200"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

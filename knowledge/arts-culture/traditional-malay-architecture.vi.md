@@ -27,8 +27,9 @@ faq:
     a: "Nhà Mã Lai thường chứa một gia đình, còn nhà dài (rumah panjang) chứa nhiều gia đình trong một công trình kéo dài — mỗi gia đình có phòng (bilek) riêng, chia sẻ với một hành lang chung gọi là ruai."
 
 lang: "vi"
+sourceContentHash: "6e6d63e898f4ad35"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

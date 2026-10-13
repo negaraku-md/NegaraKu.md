@@ -44,8 +44,9 @@ verificationNeeded:
   - "Pastikan dasar statutori yang digunakan MIDA bagi ITA JS-SEZ Smart Logistics Complex — garis panduan menyebut P.U.(A) 113/2006, satu instrumen pra-2011 di luar cakupan AGC yang dapat dipercaya, dan teks operatifnya tidak diperoleh"
 
 lang: "id"
+sourceContentHash: "2c106e0d7c225687"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

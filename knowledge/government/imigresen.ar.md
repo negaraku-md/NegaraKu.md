@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "كل من يحتاج إلى تحديد الجهة التي تصدر وثيقة هجرة ماليزية معينة — جواز سفر أو تأشيرة أو تصريح أو إذن — وأي مقال يشرح كل عملية."
 
 lang: "ar"
+sourceContentHash: "baf28f912e1a7295"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

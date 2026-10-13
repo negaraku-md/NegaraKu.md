@@ -21,8 +21,9 @@ keyTakeaways:
 appliesTo: "Người thừa kế, thân nhân gần nhất hoặc người khai báo có trách nhiệm đăng ký khai tử cho một người tại Malaysia và lấy giấy chứng tử để thực hiện các thủ tục hành chính sau đó."
 
 lang: "vi"
+sourceContentHash: "729859064dd35894"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,8 +30,9 @@ faq:
     a: "Theo JPJ, thông báo AwAS không được thanh toán trong vòng 60 ngày kể từ ngày nó được cấp có thể dẫn đến hành động của tòa án, với mức phạt từ RM300 đến RM2,000 nếu bị kết tội."
 
 lang: "vi"
+sourceContentHash: "b08ee8ca24ef947b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

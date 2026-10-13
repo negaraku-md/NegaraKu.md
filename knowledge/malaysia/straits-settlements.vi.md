@@ -29,8 +29,9 @@ faq:
   - q: "Cuối cùng điều gì đã xảy ra với các bang Eo biển?"
     a: "Nó được giải thể vào ngày 1 tháng 4 năm 1946. Penang và Melaka được nhập vào Malayan Union cùng với các Bang Mã Lai Liên bang và Không Liên bang, còn Singapore được tách ra thành một thuộc địa vương thất riêng của nó."
 lang: "vi"
+sourceContentHash: "9cb8a0574c93b0cb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

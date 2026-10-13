@@ -34,10 +34,11 @@ faq:
     a: "البيت المفتوح ممارسة تقوم على دعوة الأقارب والجيران والأصدقاء — بمن فيهم من أعراق وأديان أخرى — للزيارة والاستمتاع بالطعام طوال فترة شوّال. وقد صار سمةً اجتماعية واسعة في ماليزيا، وكثيراً ما تقيمه أيضاً الجهات الحكومية والشركات، لا البيوت الخاصة وحدها."
 
 lang: "ar"
+sourceContentHash: "93ccc705ae0a9141"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

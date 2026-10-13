@@ -31,8 +31,9 @@ faq:
     a: "Tidak. ISA 1960 dihapuskan pada tahun 2012 dan digantikan dengan Akta Kesalahan Keselamatan (Langkah-langkah Khas) 2012 (SOSMA), yang masih diperdebatkan oleh kelompok hak asasi dan pemerintah."
 
 lang: "id"
+sourceContentHash: "b64842ee4e12b6c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

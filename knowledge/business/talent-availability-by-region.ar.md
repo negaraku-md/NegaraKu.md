@@ -47,10 +47,11 @@ verificationNeeded:
   - "تأكد من عدد العمال الأجانب الموثّقين الحاملين لتصريح العامل الأجنبي المؤقت (PLKS)، وطنياً وبحسب الولاية — فـ DOSM تنشر عدد غير المواطنين الذي يشمل المعالين والطلاب والمقيمين الدائمين وغير الموثّقين"
 
 lang: "ar"
+sourceContentHash: "266dea497fff19a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

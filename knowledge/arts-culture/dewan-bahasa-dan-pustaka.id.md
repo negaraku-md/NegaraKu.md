@@ -32,8 +32,9 @@ faq:
     a: "Kamus Dewan Perdana adalah kamus rujukan digital resmi DBP, bagian dari agenda transformasi digital untuk menyediakan platform rujukan bahasa Melayu yang komprehensif dan dapat diakses gratis di kamus.dbp.gov.my."
 
 lang: "id"
+sourceContentHash: "ad048e11c6564d32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

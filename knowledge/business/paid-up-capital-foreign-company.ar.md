@@ -43,10 +43,11 @@ verificationNeeded:
   - "الحد الأدنى لراتب الوافد البالغ RM5,000 المذكور في كتيّب MIDA رقم 8 لتجارة التوزيع سابق لسياسة رواتب تصريح العمل (Employment Pass) المنقَّحة السارية اعتباراً من 1 يونيو 2026 وينبغي قراءته في ضوء الشرائح الحالية"
 
 lang: "ar"
+sourceContentHash: "7e020b10096556f2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

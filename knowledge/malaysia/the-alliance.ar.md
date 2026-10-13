@@ -29,11 +29,12 @@ faq:
     a: "مذكرة مشتركة قدّمها التحالف إلى لجنة ريد في عام 1956، تحدِّد مواقف الائتلاف المتَّفق عليها بشأن الحكام الملايويين، والإسلام بوصفه دين الاتحاد، واللغة الملايوية، والمكانة الخاصة للملايويين، والمواطنة. وقد استندت لجنة ريد في تقريرها لعام 1957 إليها ضمن المذكرات التي تلقّتها."
 
 lang: "ar"
+sourceContentHash: "8468b6263efa9db8"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

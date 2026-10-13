@@ -40,12 +40,13 @@ verificationNeeded:
   - "الفترات التاريخية التي حكم فيها كل ائتلاف وسنوات تأسيسها (مثلًا متى حكم باريسان ناسيونال على المستوى الاتحادي، ومتى أُسّس بريكاتان ناسيونال) غير مذكورة بوصفها تواريخ قاطعة في هذه الصفحة لأنه لم يُراجَع لها مصدر أولي في هذه الجولة. تُضاف تواريخ مسندة إلى مصادر عند الحاجة."
 
 lang: "ar"
+sourceContentHash: "58782ac706653a76"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -34,10 +34,11 @@ faq:
     a: "جريمة يُعاقَب عليها عند الإدانة بغرامة لا تتجاوز RM1 مليون، وغرامة إضافية تصل إلى RM1,000 عن كل يوم تستمر فيه الجريمة بعد الإدانة (المادة 137، مع جرائم موازية في المادتين 138 و139)."
 
 lang: "ar"
+sourceContentHash: "608e7ade88de1522"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

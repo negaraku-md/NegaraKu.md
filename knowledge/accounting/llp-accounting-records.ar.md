@@ -37,10 +37,11 @@ faq:
     a: "في موعد لا يتجاوز 18 شهرًا من تاريخ تسجيل LLP، بموجب المادة 68(3). وبعد ذلك الإقرار الأول، يجب إيداع كل إقرار سنوي لاحق خلال 90 يومًا من نهاية السنة المالية لـ LLP (المادة 68(2)). وللمُسجِّل أن يمنح تمديدًا للوقت إن قُدِّم طلب ورُئي مناسبًا (المادة 68(4))."
 
 lang: "ar"
+sourceContentHash: "87f70dd57604213f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -27,8 +27,9 @@ faq:
   - q: "Bagaimana sebuah perusahaan dapat membeli energi terbarukan tanpa memasang panelnya sendiri?"
     a: "Program Listrik Hijau Korporat (CGPP) memungkinkan pengguna korporat menandatangani perjanjian pembelian listrik virtual dengan produsen listrik surya untuk energi terbarukan dan atribut hijaunya, dengan pasokan tetap didukung oleh utilitas. Kuota 800 MW-nya telah dilanggan penuh pada November 2023. Korporat yang terlewat dapat menggunakan Skema Pasokan Energi Terbarukan Korporat (CRESS), diluncurkan pada September 2024, yang menyalurkan listrik hijau melalui grid TNB dengan Biaya Akses Sistem."
 lang: "id"
+sourceContentHash: "739ef0391be9be93"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

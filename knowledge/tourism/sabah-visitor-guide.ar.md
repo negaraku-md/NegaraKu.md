@@ -35,12 +35,13 @@ faq:
     a: "يُغلق سيبادان كل نوفمبر لتعافي الشعاب، فخطّط لرحلات الغوص بين ديسمبر وأكتوبر. وفي أماكن أخرى، تجلب أشهر الرياح الموسمية الشمالية الشرقية الأكثر رطوبةً (نحو نوفمبر إلى مارس) مزيدًا من المطر إلى بورنيو."
 
 lang: "ar"
+sourceContentHash: "c9653441143f9da8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -33,12 +33,13 @@ faq:
     a: "الترتيب الثلاثي الدرجات — المحكمة الشرعية الأدنى، والمحكمة الشرعية العليا، ومحكمة الاستئناف الشرعية — شائع، لكن كل ولاية تنشئه عبر إنكمن الولاية (enakmen) الخاص بها، في حين تخضع الأقاليم الاتحادية للقانون 505 (Act 505). أما حدود الاختصاص المدني من حيث القيمة المالية فيحددها الإنكمن أو القانون المعني، وقد تختلف بين الولايات."
 
 lang: "ar"
+sourceContentHash: "8fac45bc244e70ad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

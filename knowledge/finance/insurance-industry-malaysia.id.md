@@ -34,8 +34,9 @@ faq:
     a: "Perlindungan Act (pihak ketiga) adalah minimum menurut hukum dan hanya membayar cedera atau kematian pihak ketiga. Pihak ketiga, kebakaran, dan pencurian menambah perlindungan jika mobil Anda sendiri terbakar atau dicuri. Komprehensif adalah yang paling luas, turut membayar kerusakan kecelakaan pada kendaraan Anda sendiri."
 
 lang: "id"
+sourceContentHash: "f3e95ab7db734acf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

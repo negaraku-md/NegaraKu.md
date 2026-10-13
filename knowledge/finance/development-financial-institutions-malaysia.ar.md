@@ -30,10 +30,11 @@ faq:
     a: "يُنظّم بنك نيغارا ماليزيا المؤسساتِ الإنمائية الست المقرَّرة ويشرف عليها بموجب قانون المؤسسات المالية الإنمائية لسنة 2002، ضامنًا سلامتها المالية واضطلاعها بأدوارها المكلَّفة بحصافة."
 
 lang: "ar"
+sourceContentHash: "2cd551f54c730d34"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

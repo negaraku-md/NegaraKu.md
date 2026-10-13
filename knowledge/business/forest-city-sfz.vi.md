@@ -44,8 +44,9 @@ verificationNeeded:
   - "Số lượng family office thực sự được chứng nhận được đưa tin trên báo chí nhưng chưa được xác minh với một ấn phẩm của Securities Commission"
 
 lang: "vi"
+sourceContentHash: "437ac0257773795a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

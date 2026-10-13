@@ -33,8 +33,9 @@ verificationNeeded:
   - "TEKUN không công bố một cờ mở hoặc đóng cho mỗi chương trình, và các con số Ar Rahnu 4u của nó bị lỗi định dạng chữ trên trang trực tuyến"
 
 lang: "vi"
+sourceContentHash: "3e2ae8690cffc294"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -34,8 +34,9 @@ faq:
     a: "Jumlahnya berbeda menurut negara sumber — RM250 (Indonesia, Thailand, Kamboja), RM750 (Filipina, Sri Lanka, India) dan RM1,500 (Vietnam, Laos) menurut Jabatan Imigresen. Bon dapat dituntut kembali ketika pekerja pulang sesuai syarat."
 
 lang: "id"
+sourceContentHash: "80b7fb78bc8f91cd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

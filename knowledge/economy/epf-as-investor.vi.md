@@ -25,8 +25,9 @@ verificationNeeded:
   - "Con số RM188 tỷ / 9% vốn hóa thị trường cổ phiếu trong nước là tính đến cuối năm 2024 theo The Edge Malaysia; kiểm tra lại với công bố của chính EPF nếu có"
 
 lang: "vi"
+sourceContentHash: "a2dbf62e9ce69abb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

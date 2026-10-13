@@ -29,10 +29,11 @@ faq:
     a: "HSN هو اليوم المحوري للاحتفال. ومنذ 2019، وسّعت KBS الاحتفال طوال شهر أكتوبر بوصفه الشهر الوطني للرياضة (BSN)."
 
 lang: "ar"
+sourceContentHash: "51f2375791aa9f72"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

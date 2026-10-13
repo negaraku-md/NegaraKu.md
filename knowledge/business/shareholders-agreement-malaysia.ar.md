@@ -42,10 +42,11 @@ verificationNeeded:
   - "تحقّق من رسم الإيداع الحالي لدى SSM المنطبق على اعتماد النظام الأساسي أول مرة مقابل تعديله"
 
 lang: "ar"
+sourceContentHash: "feb9a1bc3f5debaf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

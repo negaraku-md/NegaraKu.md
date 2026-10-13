@@ -28,8 +28,9 @@ verificationNeeded:
   - "Hãy xác nhận nghĩa vụ đăng ký HRD Corp đối chiếu với các nhóm ngành của Phụ lục thứ Nhất trong P.U.(A) 84/2021 trước khi cho rằng khoản thu áp dụng"
 
 lang: "vi"
+sourceContentHash: "09bddb62f9842f1a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

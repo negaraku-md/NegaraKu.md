@@ -37,8 +37,9 @@ faq:
     a: "ASEAN là trụ cột hay nền tảng của chính sách đối ngoại Malaysia. Malaysia là một trong những quốc gia sáng lập ASEAN và luôn ưu tiên sự bền vững cũng như vị trí trung tâm (centrality) của ASEAN, đồng thời tích cực trong các diễn đàn khác như Liên Hợp Quốc (UN), Tổ chức Hợp tác Hồi giáo (OIC) và Phong trào Không Liên kết (NAM)."
 
 lang: "vi"
+sourceContentHash: "4cb0c08e4d974a16"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

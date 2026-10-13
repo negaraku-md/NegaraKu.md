@@ -57,8 +57,9 @@ obligations:
     consequence: "Không tuân thủ một nghĩa vụ theo Act 709"
 
 lang: "vi"
+sourceContentHash: "25fcd95c5e3db0ce"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

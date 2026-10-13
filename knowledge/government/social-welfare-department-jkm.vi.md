@@ -28,8 +28,9 @@ faq:
   - q: "Tôi đăng ký là OKU (người khuyết tật) như thế nào?"
     a: "Công dân Malaysia được một chuyên gia y tế của chính phủ chứng nhận nộp mẫu đăng ký BPPOKU (Sửa đổi 2/2019) cùng báo cáo xác minh y tế và bản sao MyKad (hoặc giấy khai sinh đối với người nộp đơn dưới 12 tuổi), hoặc tại quầy JKM hoặc trực tuyến qua cổng MyDaftar OKU. Người nộp đơn thành công nhận được Thẻ OKU ghi rõ nhóm khuyết tật của họ."
 lang: "vi"
+sourceContentHash: "f9a688b158d9b46c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

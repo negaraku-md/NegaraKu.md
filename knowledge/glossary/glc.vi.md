@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Nhà đầu tư, người tìm việc, nhà cung cấp đấu thầu công việc, và bất kỳ ai đọc tin tức kinh doanh Malaysia."
 
 lang: "vi"
+sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

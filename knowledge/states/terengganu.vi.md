@@ -37,8 +37,9 @@ faq:
     a: "Khoản thanh toán từ Chính phủ Liên bang cho Terengganu và Kelantan liên quan đến nguồn thu dầu mỏ. Tuyên bố của Bộ Tài chính nhấn mạnh rằng Wang Ihsan không phải là một khoản trao tặng của Chính phủ Liên bang được quy định trong luật, tức nó không phải là một quyền được luật định trao cho."
 
 lang: "vi"
+sourceContentHash: "44eeeac1d9bc0d54"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

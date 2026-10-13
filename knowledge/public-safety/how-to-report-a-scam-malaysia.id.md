@@ -37,8 +37,9 @@ faq:
     a: "Tidak. 997 khusus untuk penipuan keuangan di mana uang telah dipindahkan melalui penipuan. Untuk kehilangan dokumen atau kasus bukan penipuan, buat laporan di kantor polisi atau melalui portal e-Reporting PDRM."
 
 lang: "id"
+sourceContentHash: "ae9a54e76a608697"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

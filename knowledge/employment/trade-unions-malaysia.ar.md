@@ -34,10 +34,11 @@ faq:
     a: "تُحدَّد حقوق المفاوضة الجماعية الحصرية بموجب قانون العلاقات الصناعية لسنة 1967 (Industrial Relations Act 1967). وإذا لم يتوصّل العمال إلى اتفاق، جاز تقديم طلب إلى المدير العام للعلاقات الصناعية، الذي يجوز له إجراء اقتراع سري لاختيار وكيل التفاوض."
 
 lang: "ar"
+sourceContentHash: "3512cd3f05dbac9a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

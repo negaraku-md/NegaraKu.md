@@ -47,8 +47,9 @@ obligations:
     consequence: "Phạt RM50 hoặc 10% số thuế thiếu trong vòng 3 tháng, RM100 hoặc 20% sau đó, theo s.47A"
 
 lang: "vi"
+sourceContentHash: "81ec8ebe81da9d1c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

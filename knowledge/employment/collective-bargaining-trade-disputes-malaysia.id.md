@@ -34,8 +34,9 @@ faq:
     a: "Ya. Di bawah Akta Kesatuan Sekerja 1959 (Pasal 25A), pemungutan suara rahasia diperlukan. Setelah amandemen, ambang yang diperlukan diturunkan menjadi lebih dari separuh suara dengan sekurang-kurangnya 60 persen anggota yang berhak memberikan suara turut memberikan suara, dibandingkan mayoritas dua pertiga sebelumnya."
 
 lang: "id"
+sourceContentHash: "d0b1ce6e61182113"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

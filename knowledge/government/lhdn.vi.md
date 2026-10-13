@@ -30,8 +30,9 @@ faq:
     a: "Hãy coi chúng là một bản dịch, không phải một nguồn. Các trang tiếng Anh của LHDN được dịch bằng máy và chứa các lỗi đã được xác nhận làm đảo ngược nghĩa. Với bất kỳ điều gì mang tính then chốt, hãy đọc trang gốc tiếng Mã Lai và trích dẫn từ đó."
 
 lang: "vi"
+sourceContentHash: "558a5f369fe484be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

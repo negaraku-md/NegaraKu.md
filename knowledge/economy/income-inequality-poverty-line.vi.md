@@ -34,8 +34,9 @@ faq:
     a: "Vì nhóm này là tương đối. Nếu thu nhập của người khác tăng nhanh hơn của bạn, ngưỡng B40 cũng tăng, nên bạn có thể vẫn ở trong cùng một nhóm mặc dù thu nhập của bạn tăng lên."
 
 lang: "vi"
+sourceContentHash: "83d77f4a9e3c0e88"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

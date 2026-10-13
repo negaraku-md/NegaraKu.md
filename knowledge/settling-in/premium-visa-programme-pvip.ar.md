@@ -36,10 +36,11 @@ faq:
     a: "يديره دائرة الهجرة (وزارة الداخلية) بدلًا من MOTAC، ويضيف حقوق العمل والدراسة صراحةً، ويتيح شراء العقارات التجارية والصناعية (لا السكنية وحدها)، ولا يفرض حدًّا أدنى لمدة الإقامة. وتُقدَّم الطلبات عبر وكلاء تعيّنهم دائرة الهجرة بدلًا من وكلاء MM2H."
 
 lang: "ar"
+sourceContentHash: "885b7aabccb192f1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

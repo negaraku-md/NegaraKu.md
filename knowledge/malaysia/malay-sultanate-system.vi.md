@@ -18,8 +18,9 @@ keyTakeaways:
   - "Thiết chế vương triều được tiếp diễn trong Hiến pháp qua chín Quốc vương Mã Lai, Hội đồng các Quốc vương, và Yang di-Pertuan Agong"
 appliesTo: "Bất kỳ ai muốn hiểu cấu trúc và vai trò của thiết chế vương triều Mã Lai truyền thống và cách nó nối liền với hệ thống quân chủ lập hiến ngày nay."
 lang: "vi"
+sourceContentHash: "95bf275cb438d0b7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

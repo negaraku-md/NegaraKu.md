@@ -33,8 +33,9 @@ faq:
     a: "Nguyên tắc thiết kế awan larat cổ điển quả thực tránh khắc họa hình người hay động vật làm yếu tố chính của họa tiết. Tuy nhiên điêu khắc gỗ Mã Lai cũng có một loại họa tiết động vật riêng — như hình gà, tê giác và vịt — được dùng tách biệt khỏi họa tiết awan larat lặp lại."
 
 lang: "vi"
+sourceContentHash: "9f06d94e839f077d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

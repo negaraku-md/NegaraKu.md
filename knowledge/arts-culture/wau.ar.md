@@ -35,9 +35,10 @@ verificationNeeded:
   - "قائمة «الواو الوطني» التي كثيراً ما تُنسب إلى مجلس بيلايانغ ماليزيا (Majlis Pelayang Malaysia) (واو بولان، واو كوتشينغ، واو جالا بودي) — لم يُعثر على منشور رسمي بشأنها."
 
 lang: "ar"
+sourceContentHash: "dca70ac2ef9b33e2"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -30,8 +30,9 @@ faq:
     a: "Kebangkrutan adalah proses pengadilan di bawah Insolvency Act 1967. DMP AKPK adalah program di bawah agensi Bank Negara Malaysia yang diikuti secara pilihan (bukan perintah pengadilan) untuk menyusun ulang utang; menurut BNM, layanan AKPK diberikan secara gratis. DMP tidak terbuka bagi individu yang sudah dinyatakan bangkrut."
 
 lang: "id"
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -29,12 +29,13 @@ faq:
     a: "تتيح المادة 7 للوزير، عبر أمر في الجريدة الرسمية، حظر أي مطبوعة تُعدّ ضارة أو يُرجَّح أن تكون ضارة بالنظام العام أو الأمن أو الأخلاق أو العلاقات مع دولة أجنبية أو المصلحة الوطنية."
 
 lang: "ar"
+sourceContentHash: "614accf2d6e4feba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

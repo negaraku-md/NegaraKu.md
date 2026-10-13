@@ -34,10 +34,11 @@ faq:
     a: "تنشر دائرة الإحصاء الماليزية (DOSM) إحصاءات التصنيع الشهرية والسنوية وبيانات الناتج المحلي الإجمالي. وتروّج الهيئة الماليزية لتنمية الاستثمار (MIDA) للاستثمار التصنيعي وتعتمده، فيما تملك وزارة الاستثمار والتجارة والصناعة (MITI) الخطة NIMP 2030."
 
 lang: "ar"
+sourceContentHash: "688fcd61cdea1a88"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

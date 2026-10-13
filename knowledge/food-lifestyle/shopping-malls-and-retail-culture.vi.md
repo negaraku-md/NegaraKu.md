@@ -30,8 +30,9 @@ faq:
     a: "Pasar malam là chợ đêm — một chợ đường phố ngoài trời luân phiên dựng lên tại một khu phố vào một tối nhất định trong tuần, bán thức ăn nấu sẵn, nông sản tươi và hàng hóa giá rẻ. Nó nằm bên cạnh pasar ban ngày (chợ tươi sống) và pasar tani (chợ nông sản) như một phần của văn hóa bán lẻ ngoài trung tâm thương mại của Malaysia."
 
 lang: "vi"
+sourceContentHash: "a2bc8ea503179f64"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

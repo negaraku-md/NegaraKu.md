@@ -33,8 +33,9 @@ verificationNeeded:
   - "Xác nhận dân số hiện tại của Penang so với ấn phẩm dân số bang mới nhất của DOSM trước khi công bố."
 
 lang: "vi"
+sourceContentHash: "a7862eb1a54ab895"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

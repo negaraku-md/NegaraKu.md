@@ -41,10 +41,11 @@ verificationNeeded:
   - "ما إذا كان IMFC-J الامتداد الإقليمي الوحيد لنموذج IMFC، أم أن مواقع IMFC إضافية قد افتُتحت منذ إعلان الحكومة عزمها توسيعه في 2026"
 
 lang: "ar"
+sourceContentHash: "e0c5ddbcc6a8b0ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -32,8 +32,9 @@ faq:
     a: "Amendemen itu mewajibkan penyelidikan publik sebelum suatu HSK dibatalkan warta, dan menaikkan denda menjadi antara RM20,000 hingga RM5 juta serta penjara antara 7 hingga 20 tahun. Ia berlaku di Wilayah Persekutuan mulai 1 Februari 2025."
 
 lang: "id"
+sourceContentHash: "068dc65beefd2227"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

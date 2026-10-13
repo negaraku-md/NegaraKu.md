@@ -36,12 +36,13 @@ verificationNeeded:
   - "التفاصيل الإجرائية ليوم الاقتراع (ساعات ترشيح المرشحين، ومدة الحملة، وتأمين المرشح) يحكمها قانون الانتخابات لسنة 1958 (Akta Pilihan Raya 1958) ولوائح الانتخابات (سير الانتخابات) لسنة 1981 (Peraturan-Peraturan Pilihan Raya (Perjalanan Pilihan Raya) 1981)، وقد تُعدَّل من وقت لآخر. تحقّق من الساعات ومبالغ التأمين الحالية مقابل نص اللوائح والإعلانات الرسمية للجنة الانتخابات على spr.gov.my قبل الاعتماد عليها."
 
 lang: "ar"
+sourceContentHash: "d5825383db9e28fe"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

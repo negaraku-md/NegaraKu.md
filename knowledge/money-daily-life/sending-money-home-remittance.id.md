@@ -26,8 +26,9 @@ verificationNeeded:
   - "Tidak ada angka biaya, nilai tukar, atau jumlah kiriman uang yang dinyatakan di mana pun dalam artikel ini, menurut taklimat tugas — semua angka demikian perlu diperoleh langsung dari bank atau MSB berlisensi saat transfer dilakukan."
 
 lang: "id"
+sourceContentHash: "7ef5c9d18c446cfa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

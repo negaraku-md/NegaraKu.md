@@ -34,8 +34,9 @@ obligations:
     consequence: "Chế tài nộp trễ theo Practice Directive 1/2017; phạt tiền lên đến RM50,000 cộng với lên đến RM1,000 mỗi ngày đối với mỗi cán bộ theo s.259(3)"
 
 lang: "vi"
+sourceContentHash: "96853a8ceb91936b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

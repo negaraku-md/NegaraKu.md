@@ -33,8 +33,9 @@ faq:
     a: "Không. Các loại rượu men gạo như tuak, montoku và tumpung là thức uống truyền thống của cộng đồng Dayak ở Sarawak và Kadazandusun ở Sabah, và là trung tâm của các bữa tiệc Gawai cùng Kaamatan theo The Star. Chúng không phải là một phần của bàn tiệc lễ hội của các cộng đồng tuân theo thực phẩm và thức uống halal, như vào Hari Raya. Nội dung món ăn của một nhà mở phụ thuộc vào kiêng cữ ăn uống và truyền thống của chủ nhà."
 
 lang: "vi"
+sourceContentHash: "58bbad87611b5d86"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

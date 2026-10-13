@@ -34,10 +34,11 @@ faq:
     a: "دخلت EUDR حيز النفاذ في 29 يونيو 2023. وبعد تأجيلات، تسري الالتزامات اعتبارًا من 30 ديسمبر 2026 بالنسبة إلى المشغّلين والتجار الكبار ومن 30 يونيو 2027 بالنسبة إلى المنشآت المتناهية الصغر والصغيرة."
 
 lang: "ar"
+sourceContentHash: "f8c253517f15928f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -29,10 +29,11 @@ faq:
     a: "في الغالب لا. فكثير من منتجعات الساحل الشرقي ومشغّلي القوارب يعلّقون خدماتهم طوعًا من نحو أكتوبر إلى فبراير بسبب البحار المضطربة الناجمة عن الرياح الموسمية الشمالية الشرقية."
 
 lang: "ar"
+sourceContentHash: "baf74efaaf475bb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -39,10 +39,11 @@ verificationNeeded:
   - "مدة سريان موافقة WRT — فلا يُنشَر سوى مهلة التجديد البالغة ثلاثة أشهر"
 
 lang: "ar"
+sourceContentHash: "01bb0853bba1972c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

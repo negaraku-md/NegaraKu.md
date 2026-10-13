@@ -55,8 +55,9 @@ obligations:
     consequence: "Không có khoản phạt cụ thể nào gắn với đoạn này"
 
 lang: "vi"
+sourceContentHash: "a750870631fb7040"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

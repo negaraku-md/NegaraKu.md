@@ -39,8 +39,9 @@ faq:
     a: "Rang Undang-Undang Perbekalan adalah uji kepercayaan keuangan terhadap pemerintah. Karena ia rang undang-undang wang, ia harus bermula di Dewan Rakyat dan hanya dapat dibawa oleh seorang Menteri. Jika Dewan Rakyat menolak peruntukan pemerintah, itu lazimnya ditafsirkan sebagai kehilangan kepercayaan mayoritas — lihat kuasa keuangan Dewan Rakyat di bawah Pasal 67 dan 68 Konstitusi Federal."
 
 lang: "id"
+sourceContentHash: "40747e3f92b37352"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

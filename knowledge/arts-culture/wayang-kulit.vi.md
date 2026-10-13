@@ -30,8 +30,9 @@ faq:
     a: "Chủ yếu tại các lễ hội văn hóa, các chương trình của bảo tàng và di sản, và các buổi diễn phục vụ du lịch chứ không phải như một hình thức giải trí của làng quê. Cục Văn hóa và Nghệ thuật Quốc gia cùng các cơ quan văn hóa của bang là điểm khởi đầu thực tế để tìm các buổi diễn đã lên lịch."
 
 lang: "vi"
+sourceContentHash: "d4cb6805f330e418"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

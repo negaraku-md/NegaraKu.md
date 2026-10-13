@@ -33,10 +33,11 @@ verificationNeeded:
   - "تحقّق من أداة بدء النفاذ الدقيقة لـ Act A1651 مقابل الجريدة الرسمية الاتحادية؛ يسجّل سجلّ المصادر الخاص بالمشروع P.U.(B) 394/2022 لتاريخ 1 يناير 2023."
 
 lang: "ar"
+sourceContentHash: "ab52798a8bfb6a2f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

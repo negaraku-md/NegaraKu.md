@@ -48,8 +48,9 @@ obligations:
     consequence: "Jumlah yang tidak dibayar dinaikkan 10 persen dan pengeluaran ditolak di bawah s.39(1)(f), (i) atau (j)"
 
 lang: "id"
+sourceContentHash: "091d81b974b404be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

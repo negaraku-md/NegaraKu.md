@@ -30,12 +30,13 @@ faq:
     a: "تنقسم الأنشطة المرخَّصة إلى أربع فئات. ومن خلال توجيه صدر عام 2024، يُطلب من مزوّدي وسائل التواصل الاجتماعي والمراسلة عبر الإنترنت الذين لديهم ما لا يقل عن ثمانية ملايين مستخدم في ماليزيا التقدّم بطلب للحصول على ترخيص فئوي من MCMC، اعتبارًا من 1 يناير 2025."
 
 lang: "ar"
+sourceContentHash: "6cd84d5baa9c3ad8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

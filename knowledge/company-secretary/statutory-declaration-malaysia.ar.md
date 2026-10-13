@@ -31,10 +31,11 @@ faq:
     a: "لا — وهذا اعتقاد خاطئ شائع موروث من قانون الشركات القديم لسنة 1965. فبموجب قانون الشركات لسنة 2016 (Companies Act 2016)، يتم التأسيس عبر طلب يقدّم فيه كل مدير أو مؤسِّس بياناً (المادة 14) بأنه يوافق على التصرف وأنه غير محروم من الأهلية. وذلك بيان، لا إقرار قانوني."
 
 lang: "ar"
+sourceContentHash: "ca496f3d42e9b712"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

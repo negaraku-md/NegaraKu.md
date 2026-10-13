@@ -41,8 +41,9 @@ verificationNeeded:
   - "Tidak ada otoritas kasus Malaysia mengenai badges of trade yang ditemukan dikutip dalam dokumen resmi LHDN mana pun, jadi tidak ada yurisprudensi yang dinyatakan pada halaman ini"
 
 lang: "id"
+sourceContentHash: "916f828ed466fba0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

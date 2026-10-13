@@ -41,8 +41,9 @@ faq:
     a: "Ngày chính xác còn gây tranh cãi. Một số ghi chép đặt việc thành lập cơ quan chủ quản quốc gia vào năm 1926, trong khi các ghi chép khác nhắc đến năm 1933, khi Football Association of Malaya có trụ sở tại Singapore tiếp quản việc điều hành Cúp Malaya. Điều rõ ràng và có thể xác nhận là vai trò của nó ngày nay với tư cách cơ quan chủ quản quốc gia, thành viên AFC, và sáng lập viên AFF vào năm 1984."
 
 lang: "vi"
+sourceContentHash: "ee9fdc30adb8894c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

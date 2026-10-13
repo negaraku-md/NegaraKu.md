@@ -30,8 +30,9 @@ faq:
     a: "SSM melapor kepada Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup. Portofolio kementerian di Malaysia disusun ulang dari waktu ke waktu, jadi verifikasi kementerian induk terkini di ssm.com.my sebelum bergantung padanya dalam dokumen resmi."
 
 lang: "id"
+sourceContentHash: "f9b7af93b7253c9c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -30,10 +30,11 @@ faq:
     a: "لا. تذكر MITI أن MEEPA وُقّعت في 23 يونيو 2025 لكنها لم تدخل حيز التنفيذ بعد، لذا لا يمكن للمصدّرين والمستوردين استخدام تفضيلاتها حتى يستكمل الطرفان التصديق."
 
 lang: "ar"
+sourceContentHash: "2907ad666c9762d0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

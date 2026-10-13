@@ -22,8 +22,9 @@ keyTakeaways:
 appliesTo: "Người nước ngoài, người làm việc từ xa và người mới đến đang cân nhắc chi phí sinh hoạt của Malaysia so với một mức lương và cơ sở chi tiêu phương Tây trước khi chuyển đến."
 
 lang: "vi"
+sourceContentHash: "4843205b62ed2e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

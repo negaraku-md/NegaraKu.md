@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu cách chơi trò gasing, sự khác biệt giữa gasing pangkah và gasing uri, cùng mối liên hệ của nó với di sản Bờ Đông."
 
 lang: "vi"
+sourceContentHash: "fc40c99c7c7666a6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: null

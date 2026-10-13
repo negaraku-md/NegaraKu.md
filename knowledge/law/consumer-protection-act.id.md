@@ -30,8 +30,9 @@ faq:
     a: "Suatu putusan adalah final dan mengikat para pihak dan dapat ditegakkan melalui Mahkamah Majistret. Tidak ada hak banding biasa; upaya hukum bagi pihak yang tidak puas adalah mengajukan peninjauan yudisial di Mahkamah Tinggi."
 
 lang: "id"
+sourceContentHash: "7e827e839a62b8bc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

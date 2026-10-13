@@ -19,8 +19,9 @@ keyTakeaways:
 appliesTo: "Siapa saja yang mencoba memahami pembagian administrasi Malaysia dan mengapa Kuala Lumpur bukan sebuah negeri."
 
 lang: "id"
+sourceContentHash: "451b4e1d1dcd4be4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

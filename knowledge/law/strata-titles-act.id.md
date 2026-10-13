@@ -29,8 +29,9 @@ faq:
     a: "Ke Tribunal Pengurusan Strata, yang menangani tuntutan hingga RM250,000 dengan lebih cepat dan murah dibandingkan pengadilan. Pesuruhjaya Bangunan (COB) di pemerintah daerah menegakkan kepatuhan terhadap undang-undang ini."
 
 lang: "id"
+sourceContentHash: "788e401fa0ccd9ab"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

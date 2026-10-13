@@ -20,8 +20,9 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai phơi nhiễm với tỷ giá hối đoái — nhà nhập khẩu, nhà xuất khẩu, người đi du lịch, du học sinh và nhà đầu tư."
 
 lang: "vi"
+sourceContentHash: "5c03f2bbac4e0dca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

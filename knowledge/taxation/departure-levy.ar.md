@@ -29,10 +29,11 @@ faq:
     a: "يُعفى ركّاب الرحلات الجوية الذين يصلون إلى أي مطار دولي في ماليزيا ويواصلون إلى وجهة خارجية خلال فترة عبور لا تتجاوز 12 ساعة."
 
 lang: "ar"
+sourceContentHash: "5f586e52647f995b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

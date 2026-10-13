@@ -38,8 +38,9 @@ faq:
     a: "Sekretariat ASEAN berpusat di Jakarta, Indonesia. Ia dipimpin oleh Sekretaris Jenderal ASEAN, kini Dr. Kao Kim Hourn dari Kamboja."
 
 lang: "id"
+sourceContentHash: "a6367ba8ba6baac1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

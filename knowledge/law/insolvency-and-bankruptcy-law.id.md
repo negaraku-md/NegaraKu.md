@@ -34,8 +34,9 @@ faq:
     a: "Ya. Companies Act 2016 memperkenalkan mekanisme penyelamatan: pengurusan kehakiman (Pasal 403-430), di mana pengurus kehakiman yang ditunjuk pengadilan menjalankan perusahaan di bawah satu moratorium, dan aturan sukarela korporat (Pasal 395). Skema penataan di bawah Pasal 366 juga memungkinkan suatu perusahaan mengikat kreditor pada satu kompromi dengan persetujuan 75% menurut nilai dan pengesahan pengadilan."
 
 lang: "id"
+sourceContentHash: "a85ad7d5133bf9fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

@@ -32,8 +32,9 @@ faq:
     a: "Rapid Bus bắt đầu chuyển 19 tuyến có lượng khách thấp — 16 tuyến trung chuyển MRT và 3 tuyến tiêu chuẩn, khoảng 7% mạng lưới — thành một dịch vụ xe van Rapid KL On-Demand đặt trước."
 
 lang: "vi"
+sourceContentHash: "ef9c4ac09cb054b2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

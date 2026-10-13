@@ -34,8 +34,9 @@ faq:
     a: "Menjadi tuan rumah Games 1998 di Kuala Lumpur, di mana ia mencatat koleksi terbaiknya sebanyak 10 medali emas dan finis di tempat keempat secara keseluruhan. Ia juga merupakan Commonwealth Games pertama yang pernah diadakan di Asia."
 
 lang: "id"
+sourceContentHash: "d25df756ce38577d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

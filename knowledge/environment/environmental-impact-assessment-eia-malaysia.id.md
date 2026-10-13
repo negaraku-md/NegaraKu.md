@@ -34,8 +34,9 @@ faq:
     a: "Di bawah Pasal 34A(4) Direktur Jenderal wajib memberikan alasan, tetapi penolakan tidak menghalangi Anda meninjau ulang dan mengajukan ulang laporan untuk persetujuan."
 
 lang: "id"
+sourceContentHash: "7002da8fcfa27b67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

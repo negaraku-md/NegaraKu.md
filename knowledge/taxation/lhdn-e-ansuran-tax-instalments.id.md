@@ -33,8 +33,9 @@ faq:
     a: "Tidak. LHDN menyatakan bahwa pembatalan permohonan e-Ansuran hanya dapat dilakukan secara tatap muka di kantor LHDN (HASiL) — ia tidak dapat dilakukan melalui portal. Permohonan itu sendiri daring dan persetujuan otomatis, tetapi mengubah atau membatalkannya adalah urusan cabang."
 
 lang: "id"
+sourceContentHash: "f73e04ba5e0d7818"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

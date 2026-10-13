@@ -30,8 +30,9 @@ faq:
     a: "FIFA merujuk Pasal 22 Kode Disiplin FIFA terkait pemalsuan dokumen kelayakan dan naturalisasi pemain."
 
 lang: "id"
+sourceContentHash: "1434e805293f8f32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

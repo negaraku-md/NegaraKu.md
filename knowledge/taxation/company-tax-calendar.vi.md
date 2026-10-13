@@ -131,8 +131,9 @@ obligations:
     consequence: "Hành động theo s.23A(1) hoặc một hình phạt theo s.23A(4) của LBATA"
 
 lang: "vi"
+sourceContentHash: "5c5878a339ae1335"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

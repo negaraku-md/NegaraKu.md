@@ -31,12 +31,13 @@ faq:
     a: "بموجب قانون الأمن السيبراني لسنة 2024 [Act 854]، يُقدَّم طلب تقديم خدمات الأمن السيبراني إلى الرئيس التنفيذي لـ NACSA. والفئتان المنظَّمتان هما خدمة مراقبة مركز العمليات الأمنية (SOC) المُدارة وخدمة اختبار الاختراق."
 
 lang: "ar"
+sourceContentHash: "a5256768a1d06815"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -46,8 +46,9 @@ verificationNeeded:
   - "Liệu có bất kỳ ưu đãi thuế nào riêng cho National Semiconductor Strategy đã được đăng công báo hay không — không tìm thấy ưu đãi nào"
 
 lang: "vi"
+sourceContentHash: "4221d6f415c3fa4d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

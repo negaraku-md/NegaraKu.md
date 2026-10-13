@@ -33,8 +33,9 @@ verificationNeeded:
   - "Xác nhận con số dân số Kuala Lumpur và Greater Kuala Lumpur, cùng thứ hạng GDP trên đầu người, so với các ấn phẩm mới nhất của DOSM trước khi công bố."
 
 lang: "vi"
+sourceContentHash: "92f9b90511421d9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

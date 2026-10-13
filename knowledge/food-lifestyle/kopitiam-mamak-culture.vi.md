@@ -37,8 +37,9 @@ faq:
     a: "Cơ quan Đánh giá của UNESCO khuyến nghị ghi danh sau khi nhận thấy văn hóa bữa sáng của Malaysia đáp ứng các tiêu chí của Công ước 2003 về Bảo vệ Di sản Văn hóa Phi vật thể, và Ủy ban Liên Chính phủ sau đó ra quyết định ghi danh nó. Ủy ban kết luận rằng việc chuẩn bị và thưởng thức các món ăn bữa sáng — dù ban đầu được một sắc tộc nhất định thực hành — cuối cùng được tất cả thưởng thức bất kể xuất thân sắc tộc, và điều này củng cố sự đoàn kết phản ánh bản sắc của Malaysia như một quốc gia đa sắc tộc."
 
 lang: "vi"
+sourceContentHash: "d9dc5e7ae2dd9a7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

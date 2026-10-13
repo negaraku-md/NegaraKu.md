@@ -38,8 +38,9 @@ faq:
     a: "Sử dụng một người nước ngoài không có giấy phép lưu trú hợp lệ là một tội danh theo Điều 55B, mang mức phạt RM10,000 đến RM50,000 hoặc phạt tù đến 12 tháng cho mỗi lao động. Thuê năm lao động không giấy tờ trở lên nâng mức nguy cơ lên phạt tù từ sáu tháng đến năm năm và có thể bị đánh roi."
 
 lang: "vi"
+sourceContentHash: "0a352a7bd7d5e1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

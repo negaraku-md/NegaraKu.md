@@ -41,8 +41,9 @@ verificationNeeded:
   - "Phí nộp hồ sơ tòa án và thù lao của chuyên gia về mất khả năng thanh toán cho mỗi cơ chế không được công bố tập trung và không có khoảng chi phí nào được nêu ở đây"
 
 lang: "vi"
+sourceContentHash: "38faab1c30546d02"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

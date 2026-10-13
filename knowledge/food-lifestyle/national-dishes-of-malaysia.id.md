@@ -34,8 +34,9 @@ faq:
     a: "Pesuruhjaya Warisan di Jabatan Warisan Negara mewartakan makanan sebagai objek warisan di bawah subseksi 49(1) Akta Warisan Kebangsaan 2005 [Akta 645], melalui Deklarasi Objek Warisan tahunan."
 
 lang: "id"
+sourceContentHash: "bdf1c88a62d4c6ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

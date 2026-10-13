@@ -31,10 +31,11 @@ faq:
     a: "هو MITEC، أي مركز ماليزيا الدولي للتجارة والمعارض، الذي افتُتح في 2016 بـ11 قاعة معارض ضخمة و52,000 متر مربع من مساحة العرض. ويسجّل مجلس تطوير صناعة البناء (CIDB) مساحة خالية من الأعمدة قدرها 12,530 مترًا مربعًا داخل المبنى."
 
 lang: "ar"
+sourceContentHash: "25f7bdfa80a0bc8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

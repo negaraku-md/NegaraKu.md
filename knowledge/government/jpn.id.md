@@ -31,8 +31,9 @@ faq:
     a: "Tidak sepenuhnya. Portal JPN mencantumkan layanan kelahiran dan kematian secara terpisah bagi Semenanjung, Sabah dan Sarawak, dengan kategori permohonan dan rujukan undang-undang yang berlainan. Akta Pendaftaran Negara 1959 sendiri mulai berlaku pada tanggal berbeda di setiap wilayah. Pastikan formulir menurut wilayah tempat peristiwa itu didaftarkan."
 
 lang: "id"
+sourceContentHash: "c1ba766163b08209"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true

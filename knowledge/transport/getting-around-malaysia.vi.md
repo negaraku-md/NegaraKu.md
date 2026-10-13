@@ -32,8 +32,9 @@ verificationNeeded:
   - "Ngày mục tiêu cuối năm 2026 của RTS Link là mục tiêu do chính các đơn vị vận hành nêu tính đến thời điểm viết bài này và nên được xác nhận lại gần thời điểm xuất bản hơn, vì việc khai trương hạ tầng xuyên biên giới thường bị chậm."
 
 lang: "vi"
+sourceContentHash: "cd13a733d0e3f471"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
