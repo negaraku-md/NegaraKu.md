@@ -119,6 +119,23 @@ jobs:
           npm run sync
           python3 scripts/health/scan.py --strict
 
+      # Add swap so the astro static build survives its peak RSS. At 11 languages
+      # the build is squeezed between two walls on the 16 GB runner: an 8 GB V8
+      # heap fits the live working set but peak RSS crosses 16 GB (OS OOM-kill,
+      # "The operation was canceled"), while a 6 GB heap stays under RAM but is
+      # too small for the live set (V8 "heap out of memory"). A big swapfile on
+      # the roomy /mnt disk gives the OS headroom to absorb the peak instead of
+      # killing the build; the heap stays at 8 GB (NODE_OPTIONS in the Build step).
+      # Slower under pressure, but it completes — and it scales to es/fr without
+      # re-tuning the heap each time.
+      - name: Add swap space
+        run: |
+          sudo fallocate -l 16G /mnt/swapfile
+          sudo chmod 600 /mnt/swapfile
+          sudo mkswap /mnt/swapfile
+          sudo swapon /mnt/swapfile
+          echo "== memory + swap ==" && free -h
+
       - name: Build (sync + graph + astro + pagefind)
         env:
           # Raise Node's heap: astro build renders every locale's pages (8k+ with
