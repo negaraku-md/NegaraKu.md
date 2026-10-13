@@ -37,13 +37,15 @@ on the CI runner; this took a production deploy down during the Arabic launch).
 | File | Family (fontconfig) | Script | Added |
 |------|--------------------|--------|-------|
 | `NotoNaskhArabic-Regular.ttf`   | Noto Naskh Arabic    | Arabic (ar, RTL)     | 2026-10-13 |
-| `NotoSansDevanagari-Regular.ttf`| Noto Sans Devanagari | Devanagari (hi, LTR) | 2026-10-13 |
-| `NotoSansDevanagari-Bold.ttf`   | Noto Sans Devanagari | Devanagari (hi, LTR) | 2026-10-13 |
 
-**Provenance (Devanagari):** Google Fonts static TTF (`fonts.gstatic.com`,
-Noto Sans Devanagari v30, weights 400/700), fetched via the legacy-UA TTF endpoint.
-**License:** SIL Open Font License 1.1 — Noto fonts © The Noto Project Authors
-(github.com/notofonts). No Reserved Font Name. Full text in `OFL.txt`.
+**Provenance (Arabic):** Noto Naskh Arabic, SIL OFL 1.1 © The Noto Project Authors.
 
-CJK glyphs (zh cards) are **not** covered here — those come from the system
-`fonts-noto-cjk` package the workflow installs (and caches) separately.
+CJK glyphs (zh cards) and the **Indic scripts (Tamil `ta`, Thai `th`, Devanagari
+`hi`)** are **not** vendored here — they resolve from the system `fonts-noto-cjk`
++ `fonts-noto-core` packages the workflow installs (and caches). Devanagari was
+briefly vendored from a Google static TTF during the Hindi launch, but that
+specific file crashed CI's freetype (`svgload_buffer: SVG rendering failed` /
+`FreetypeError`) during OG rendering; the system `fonts-noto-core` Noto Sans
+Devanagari (the same package that provides the working Tamil/Thai faces) renders
+it correctly instead. So: only vendor a face here when it is NOT already in the
+Noto apt packages (as with Naskh Arabic); otherwise rely on the system font.

@@ -100,7 +100,7 @@ jobs:
           fi
           fc-cache -f >/dev/null 2>&1 || true
           echo "== OG fonts visible to fontconfig =="
-          fc-list | grep -iE "montserrat|lato|noto sans cjk|noto sans tamil|liberation" | sort | head -30 || true
+          fc-list | grep -iE "montserrat|lato|noto sans cjk|noto sans tamil|noto sans devanagari|noto naskh arabic|liberation" | sort | head -30 || true
 
       # Restore the per-article Open Graph PNGs so build-og only regenerates the
       # cards whose content actually changed (see scripts/build-og.mjs). The key
