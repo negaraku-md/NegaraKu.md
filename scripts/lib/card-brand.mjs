@@ -24,8 +24,8 @@ export const MUTE = '#9A9AB8';        // secondary / summary text
 export const FAINT = '#C0C0D0';       // tagline / tertiary
 
 // --- fonts -------------------------------------------------------------------
-export const TITLE_FONT = "Montserrat, 'Noto Sans Tamil', 'Noto Sans Thai', 'Noto Naskh Arabic', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
-export const BODY_FONT = "Lato, 'Noto Sans Tamil', 'Noto Sans Thai', 'Noto Naskh Arabic', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
+export const TITLE_FONT = "Montserrat, 'Noto Sans Tamil', 'Noto Sans Thai', 'Noto Naskh Arabic', 'Noto Sans Devanagari', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
+export const BODY_FONT = "Lato, 'Noto Sans Tamil', 'Noto Sans Thai', 'Noto Naskh Arabic', 'Noto Sans Devanagari', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
 
 // Embedded Latin fonts (vendored) so Montserrat/Lato render identically on any host
 // (local Windows, CI Linux) without relying on an installed system font. CJK/Tamil/

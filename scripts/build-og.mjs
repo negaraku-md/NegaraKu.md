@@ -125,7 +125,7 @@ const SUBCATS = (() => {                          // subcategory id → localize
 // Pick a localized value with fallback: target → en → ms.
 const loc = (obj, lang) => (obj ? (obj[lang] || obj.en || obj.ms) : undefined);
 // UI-string helper for labels baked into the card (mirrors the site's L()).
-const L = (lang, ms, en, zh, ta, ja, ko, th, vi, id, ar) => ({ ms, en, zh, ta, ja, ko, th, vi, id, ar }[lang] ?? en ?? ms);
+const L = (lang, ms, en, zh, ta, ja, ko, th, vi, id, ar, hi) => ({ ms, en, zh, ta, ja, ko, th, vi, id, ar, hi }[lang] ?? en ?? ms);
 const fmtDate = (iso, lang) => {
   if (!iso) return null;
   try {
@@ -177,16 +177,16 @@ function articleSvg(a) {
   const overdue = a.reviewDue && new Date(a.reviewDue) < NOW;
   const chipDefs = [];
   chipDefs.push(a.mode === 'narrative'
-    ? [L(lang, 'Naratif', 'Narrative', '叙事', 'கதையாடல்', '物語', '서사', 'เชิงบรรยาย', 'Tường thuật', 'Naratif', 'سردي'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']
-    : [L(lang, 'Praktikal', 'Practical', '实用', 'நடைமுறை', '実用', '실용', 'เชิงปฏิบัติ', 'Thực tiễn', 'Praktis', 'عملي'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']);
+    ? [L(lang, 'Naratif', 'Narrative', '叙事', 'கதையாடல்', '物語', '서사', 'เชิงบรรยาย', 'Tường thuật', 'Naratif', 'سردي', 'वर्णनात्मक'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']
+    : [L(lang, 'Praktikal', 'Practical', '实用', 'நடைமுறை', '実用', '실용', 'เชิงปฏิบัติ', 'Thực tiễn', 'Praktis', 'عملي', 'व्यावहारिक'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']);
   if (a.sensitivity && a.sensitivity !== 'none' && SENS[a.sensitivity])
     chipDefs.push([loc(SENS[a.sensitivity], lang), '#f87171', 'rgba(248,113,113,.45)', 'rgba(248,113,113,.12)']);
   if (pubDate)
-    chipDefs.push([`${L(lang, 'Diterbitkan', 'Published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '공개됨', 'เผยแพร่แล้ว', 'Đã xuất bản', 'Diterbitkan', 'منشور')}: ${pubDate}`, '#4ade80', 'rgba(74,222,128,.4)', 'rgba(74,222,128,.12)']);
+    chipDefs.push([`${L(lang, 'Diterbitkan', 'Published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '공개됨', 'เผยแพร่แล้ว', 'Đã xuất bản', 'Diterbitkan', 'منشور', 'प्रकाशित')}: ${pubDate}`, '#4ade80', 'rgba(74,222,128,.4)', 'rgba(74,222,128,.12)']);
   if (a.reviewDue) {
     const label = overdue
-      ? L(lang, 'Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமாகிவிட்டது', 'レビュー期限超過', '검토 기한 초과', 'เกินกำหนดตรวจทาน', 'Quá hạn duyệt', 'Tinjauan terlambat', 'مراجعة متأخرة')
-      : L(lang, 'Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு', '次回レビュー', '다음 검토', 'การตรวจทานครั้งถัดไป', 'Lần duyệt tiếp theo', 'Tinjauan berikutnya', 'المراجعة التالية');
+      ? L(lang, 'Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமாகிவிட்டது', 'レビュー期限超過', '검토 기한 초과', 'เกินกำหนดตรวจทาน', 'Quá hạn duyệt', 'Tinjauan terlambat', 'مراجعة متأخرة', 'समीक्षा बकाया')
+      : L(lang, 'Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு', '次回レビュー', '다음 검토', 'การตรวจทานครั้งถัดไป', 'Lần duyệt tiếp theo', 'Tinjauan berikutnya', 'المراجعة التالية', 'अगली समीक्षा');
     chipDefs.push([`${label}: ${fmtDate(a.reviewDue, lang)}`,
       overdue ? '#f87171' : '#9A9AB8', overdue ? 'rgba(248,113,113,.5)' : 'rgba(99,99,108,.9)', overdue ? 'rgba(248,113,113,.12)' : '#141419']);
   }
@@ -226,7 +226,7 @@ function articleSvg(a) {
   <text x="${EDGE}" y="${sStart}" text-anchor="${ANCHOR}" font-family="${BODY_FONT}" font-size="25" fill="#9A9AB8">${sSpans}</text>
   ${badge(RX, 70, 78)}
   <text x="${RX}" y="150" text-anchor="middle" font-family="${TITLE_FONT}" font-size="27" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
-  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚', 'AI-நட்பு மலேசியா', 'AIフレンドリーなマレーシア', 'AI 친화적인 말레이시아', 'มาเลเซียที่เป็นมิตรกับ AI', 'Malaysia thân thiện với AI', 'Malaysia ramah-AI', 'ماليزيا صديقة لـ AI')}</text>
+  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚', 'AI-நட்பு மலேசியா', 'AIフレンドリーなマレーシア', 'AI 친화적인 말레이시아', 'มาเลเซียที่เป็นมิตรกับ AI', 'Malaysia thân thiện với AI', 'Malaysia ramah-AI', 'ماليزيا صديقة لـ AI', 'AI-अनुकूल मलेशिया')}</text>
 </svg>`;
 }
 
