@@ -18,7 +18,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string) => (locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const stats = await siteStats(locale);
 const items = await articlesForLocale(locale);
@@ -31,7 +31,7 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'मुखपृष्ठ'), href: localePath('/', locale) },
     { label: t('nav.categories', locale) },
   ]}
   title={t('nav.categories', locale)}
@@ -46,6 +46,7 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
     'Duyệt mọi danh mục theo trụ cột — chọn một để khám phá các chủ đề và bài viết của nó.',
     'Telusuri setiap kategori berdasarkan pilar — pilih satu untuk menjelajahi topik dan artikelnya.',
     'تصفَّح كل فئة حسب الركيزة — اختر واحدة لاستكشاف مواضيعها ومقالاتها.',
+    'हर श्रेणी को स्तंभ के अनुसार देखें — इसके विषयों और लेखों का अन्वेषण करने के लिए एक चुनें।',
   )}
   stats={[stat.pillars(stats.sections, locale), stat.categories(stats.categories, locale), stat.subcategories(stats.topics, locale), stat.topics(stats.articles, locale)]}
 />
@@ -57,13 +58,13 @@ const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
       id="cat-filter"
       type="text"
       autocomplete="off"
-      placeholder={L('Tapis kategori…', 'Filter categories…', '筛选分类…', 'வகைகளை வடிகட்டு…', 'カテゴリーを絞り込む…', '카테고리 필터링…', 'กรองหมวดหมู่…', 'Lọc danh mục…', 'Saring kategori…', 'تصفية الفئات…')}
-      aria-label={L('Tapis kategori', 'Filter categories', '筛选分类', 'வகைகளை வடிகட்டு', 'カテゴリーを絞り込む', '카테고리 필터링', 'กรองหมวดหมู่', 'Lọc danh mục', 'Saring kategori', 'تصفية الفئات')}
+      placeholder={L('Tapis kategori…', 'Filter categories…', '筛选分类…', 'வகைகளை வடிகட்டு…', 'カテゴリーを絞り込む…', '카테고리 필터링…', 'กรองหมวดหมู่…', 'Lọc danh mục…', 'Saring kategori…', 'تصفية الفئات…', 'श्रेणियाँ छानें…')}
+      aria-label={L('Tapis kategori', 'Filter categories', '筛选分类', 'வகைகளை வடிகட்டு', 'カテゴリーを絞り込む', '카테고리 필터링', 'กรองหมวดหมู่', 'Lọc danh mục', 'Saring kategori', 'تصفية الفئات', 'श्रेणियाँ छानें')}
     />
   </div>
 
   <p id="cat-empty" class="empty" hidden>
-    {L('Tiada kategori sepadan.', 'No categories match your search.', '没有符合的分类。', 'உங்கள் தேடலுக்குப் பொருந்தும் வகைகள் இல்லை.', '検索に一致するカテゴリーはありません。', '검색과 일치하는 카테고리가 없습니다.', 'ไม่มีหมวดหมู่ที่ตรงกับการค้นหาของคุณ', 'Không có danh mục nào khớp với tìm kiếm của bạn.', 'Tidak ada kategori yang cocok.', 'لا توجد فئات تطابق بحثك.')}
+    {L('Tiada kategori sepadan.', 'No categories match your search.', '没有符合的分类。', 'உங்கள் தேடலுக்குப் பொருந்தும் வகைகள் இல்லை.', '検索に一致するカテゴリーはありません。', '검색과 일치하는 카테고리가 없습니다.', 'ไม่มีหมวดหมู่ที่ตรงกับการค้นหาของคุณ', 'Không có danh mục nào khớp với tìm kiếm của bạn.', 'Tidak ada kategori yang cocok.', 'لا توجد فئات تطابق بحثك.', 'आपकी खोज से मेल खाने वाली कोई श्रेणी नहीं है।')}
   </p>
 
   {

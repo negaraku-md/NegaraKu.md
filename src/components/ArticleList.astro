@@ -57,7 +57,7 @@ const {
 } = Astro.props;
 const has = (f: FilterKey) => filters.includes(f);
 const dateLocale = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ja' ? 'ja-JP' : locale === 'ko' ? 'ko-KR' : 'en-GB';
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string) => (locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Which languages each topic exists in (publishable files only).
 const langsByKey = new Map<string, Set<string>>();
@@ -67,20 +67,20 @@ for (const a of await allArticles()) {
 }
 
 const SENS_LABEL: Record<string, string> = {
-  race: L('Kaum', 'Race', '种族', 'இனம்', '人種', '인종', 'เชื้อชาติ', 'Chủng tộc', 'Ras', 'العرق'),
-  religion: L('Agama', 'Religion', '宗教', 'மதம்', '宗教', '종교', 'ศาสนา', 'Tôn giáo', 'Agama', 'الدين'),
-  royalty: L('Institusi diraja', 'Royalty', '王室', 'அரச நிறுவனம்', '王室', '왕실', 'สถาบันพระมหากษัตริย์', 'Hoàng gia', 'Institusi kerajaan', 'المؤسسة الملكية'),
-  constitution: L('Perlembagaan', 'Constitution', '宪法', 'அரசியலமைப்பு', '憲法', '헌법', 'รัฐธรรมนูญ', 'Hiến pháp', 'Konstitusi', 'الدستور'),
-  elections: L('Pilihan raya', 'Elections', '选举', 'தேர்தல்', '選挙', '선거', 'การเลือกตั้ง', 'Bầu cử', 'Pemilihan umum', 'الانتخابات'),
-  security: L('Keselamatan', 'Security', '安全', 'பாதுகாப்பு', '安全保障', '안보', 'ความมั่นคง', 'An ninh', 'Keamanan', 'الأمن'),
-  health: L('Kesihatan', 'Health', '健康', 'சுகாதாரம்', '健康', '보건', 'สุขภาพ', 'Sức khỏe', 'Kesehatan', 'الصحة'),
-  'legal-proceedings': L('Perundangan', 'Legal', '法律程序', 'சட்டம்', '法律', '법률', 'กฎหมาย', 'Pháp lý', 'Hukum', 'الشؤون القانونية'),
+  race: L('Kaum', 'Race', '种族', 'இனம்', '人種', '인종', 'เชื้อชาติ', 'Chủng tộc', 'Ras', 'العرق', 'नस्ल'),
+  religion: L('Agama', 'Religion', '宗教', 'மதம்', '宗教', '종교', 'ศาสนา', 'Tôn giáo', 'Agama', 'الدين', 'धर्म'),
+  royalty: L('Institusi diraja', 'Royalty', '王室', 'அரச நிறுவனம்', '王室', '왕실', 'สถาบันพระมหากษัตริย์', 'Hoàng gia', 'Institusi kerajaan', 'المؤسسة الملكية', 'राजसत्ता'),
+  constitution: L('Perlembagaan', 'Constitution', '宪法', 'அரசியலமைப்பு', '憲法', '헌법', 'รัฐธรรมนูญ', 'Hiến pháp', 'Konstitusi', 'الدستور', 'संविधान'),
+  elections: L('Pilihan raya', 'Elections', '选举', 'தேர்தல்', '選挙', '선거', 'การเลือกตั้ง', 'Bầu cử', 'Pemilihan umum', 'الانتخابات', 'चुनाव'),
+  security: L('Keselamatan', 'Security', '安全', 'பாதுகாப்பு', '安全保障', '안보', 'ความมั่นคง', 'An ninh', 'Keamanan', 'الأمن', 'सुरक्षा'),
+  health: L('Kesihatan', 'Health', '健康', 'சுகாதாரம்', '健康', '보건', 'สุขภาพ', 'Sức khỏe', 'Kesehatan', 'الصحة', 'स्वास्थ्य'),
+  'legal-proceedings': L('Perundangan', 'Legal', '法律程序', 'சட்டம்', '法律', '법률', 'กฎหมาย', 'Pháp lý', 'Hukum', 'الشؤون القانونية', 'कानूनी'),
 };
 
 const iso = (v: unknown) => (v ? new Date(v as string).toISOString().slice(0, 10) : '');
 // Published actor: general articles are honestly "AI-published"; sensitive ones
 // keep the named human (matches ArticleView's chain of custody).
-const AI_PUBLISHED = L('Diterbitkan AI', 'AI-published', 'AI 发布', 'AI வெளியிட்டது', 'AI が公開', 'AI 공개', 'เผยแพร่โดย AI', 'Được AI xuất bản', 'Diterbitkan AI', 'نُشر بواسطة الذكاء الاصطناعي');
+const AI_PUBLISHED = L('Diterbitkan AI', 'AI-published', 'AI 发布', 'AI வெளியிட்டது', 'AI が公開', 'AI 공개', 'เผยแพร่โดย AI', 'Được AI xuất bản', 'Diterbitkan AI', 'نُشر بواسطة الذكاء الاصطناعي', 'AI द्वारा प्रकाशित');
 
 const rows = articles.map((a, i) => {
   const d = a.data;
@@ -114,7 +114,7 @@ const rows = articles.map((a, i) => {
     topId: topic ?? '',
     ml: (d.masterLanguage ?? d.lang ?? 'ms').toUpperCase(),
     st,
-    cls: sens ? SENS_LABEL[sens] ?? L('Sensitif', 'Sensitive', '敏感', 'கூருணர்வான', '要配慮', '민감', 'ละเอียดอ่อน', 'Nhạy cảm', 'Sensitif', 'حساس') : L('Umum', 'General', '一般', 'பொது', '一般', '일반', 'ทั่วไป', 'Chung', 'Umum', 'عام'),
+    cls: sens ? SENS_LABEL[sens] ?? L('Sensitif', 'Sensitive', '敏感', 'கூருணர்வான', '要配慮', '민감', 'ละเอียดอ่อน', 'Nhạy cảm', 'Sensitif', 'حساس', 'संवेदनशील') : L('Umum', 'General', '一般', 'பொது', '一般', '일반', 'ทั่วไป', 'Chung', 'Umum', 'عام', 'सामान्य'),
     sens: !!sens,
     rev: d.reviewDue ? new Date(d.reviewDue).toISOString().slice(0, 10) : '',
     revOverdue: !!d.reviewDue && new Date(d.reviewDue).getTime() < Date.now(),
@@ -159,80 +159,80 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 <section class="container block art-list">
   <div class="art-toolbar" data-pagefind-ignore>
     <button class="tb-more" type="button" data-tb-toggle aria-expanded="false">
-      {L('Tapis & isih', 'Filters & sort', '筛选与排序', 'வடிகட்டி & வரிசை', 'フィルターと並び替え', '필터 및 정렬', 'ตัวกรองและการจัดเรียง', 'Bộ lọc & sắp xếp', 'Filter & urutkan', 'التصفية والترتيب')} <span class="tbm-caret" aria-hidden="true">▾</span>
+      {L('Tapis & isih', 'Filters & sort', '筛选与排序', 'வடிகட்டி & வரிசை', 'フィルターと並び替え', '필터 및 정렬', 'ตัวกรองและการจัดเรียง', 'Bộ lọc & sắp xếp', 'Filter & urutkan', 'التصفية والترتيب', 'फ़िल्टर और क्रमबद्ध करें')} <span class="tbm-caret" aria-hidden="true">▾</span>
     </button>
     <div class="tb-adv">
     {
       (secs.length > 1 || cats.length > 1 || tops.length > 1 || presentStatuses.length > 1) && (
         <div class="tb-line">
-          <span class="tb-label">{L('Tapis', 'Filter', '筛选', 'வடிகட்டு', 'フィルター', '필터', 'กรอง', 'Lọc', 'Filter', 'التصفية')}</span>
+          <span class="tb-label">{L('Tapis', 'Filter', '筛选', 'வடிகட்டு', 'フィルター', '필터', 'กรอง', 'Lọc', 'Filter', 'التصفية', 'फ़िल्टर')}</span>
           <div class="controls">
             {has('sec') && secs.length > 1 && (
               <select id="f-sec">
-                <option value="">{L('Semua tonggak', 'All pillars', '所有支柱', 'அனைத்து தூண்கள்', 'すべての柱', '모든 핵심축', 'เสาหลักทั้งหมด', 'Tất cả trụ cột', 'Semua pilar', 'جميع الركائز')}</option>
+                <option value="">{L('Semua tonggak', 'All pillars', '所有支柱', 'அனைத்து தூண்கள்', 'すべての柱', '모든 핵심축', 'เสาหลักทั้งหมด', 'Tất cả trụ cột', 'Semua pilar', 'جميع الركائز', 'सभी स्तंभ')}</option>
                 {secs.map(([id, name]) => <option value={id}>{name}</option>)}
               </select>
             )}
             {has('cat') && cats.length > 1 && (
               <select id="f-cat">
-                <option value="">{L('Semua kategori', 'All categories', '所有分类', 'அனைத்து வகைகள்', 'すべてのカテゴリー', '모든 카테고리', 'หมวดหมู่ทั้งหมด', 'Tất cả danh mục', 'Semua kategori', 'جميع الفئات')}</option>
+                <option value="">{L('Semua kategori', 'All categories', '所有分类', 'அனைத்து வகைகள்', 'すべてのカテゴリー', '모든 카테고리', 'หมวดหมู่ทั้งหมด', 'Tất cả danh mục', 'Semua kategori', 'جميع الفئات', 'सभी श्रेणियाँ')}</option>
                 {cats.map(([id, name]) => <option value={id}>{name}</option>)}
               </select>
             )}
             {has('top') && tops.length > 1 && (
               <select id="f-top">
-                <option value="">{L('Semua topik', 'All topics', '所有主题', 'அனைத்து தலைப்புகள்', 'すべてのトピック', '모든 주제', 'หัวข้อทั้งหมด', 'Tất cả chủ đề', 'Semua topik', 'جميع المواضيع')}</option>
+                <option value="">{L('Semua topik', 'All topics', '所有主题', 'அனைத்து தலைப்புகள்', 'すべてのトピック', '모든 주제', 'หัวข้อทั้งหมด', 'Tất cả chủ đề', 'Semua topik', 'جميع المواضيع', 'सभी विषय')}</option>
                 {tops.map(([id, name]) => <option value={id}>{name}</option>)}
               </select>
             )}
             {has('status') && presentStatuses.length > 1 && (
               <select id="f-status">
-                <option value="">{L('Semua status', 'All statuses', '所有状态', 'அனைத்து நிலைகள்', 'すべてのステータス', '모든 상태', 'สถานะทั้งหมด', 'Tất cả trạng thái', 'Semua status', 'جميع الحالات')}</option>
+                <option value="">{L('Semua status', 'All statuses', '所有状态', 'அனைத்து நிலைகள்', 'すべてのステータス', '모든 상태', 'สถานะทั้งหมด', 'Tất cả trạng thái', 'Semua status', 'جميع الحالات', 'सभी स्थितियाँ')}</option>
                 {presentStatuses.map((s) => (
                   <option value={s}>{t(`status.${s}`, locale)} ({statusCounts[s]})</option>
                 ))}
               </select>
             )}
-            <button id="f-reset" type="button" hidden>{L('Set semula', 'Reset', '重置', 'மீட்டமை', 'リセット', '초기화', 'รีเซ็ต', 'Đặt lại', 'Atur ulang', 'إعادة تعيين')}</button>
+            <button id="f-reset" type="button" hidden>{L('Set semula', 'Reset', '重置', 'மீட்டமை', 'リセット', '초기화', 'รีเซ็ต', 'Đặt lại', 'Atur ulang', 'إعادة تعيين', 'रीसेट करें')}</button>
           </div>
         </div>
       )
     }
     {!hideSort && (
       <div class="tb-line">
-        <span class="tb-label">{L('Isih', 'Sort', '排序', 'வரிசை', '並び替え', '정렬', 'จัดเรียง', 'Sắp xếp', 'Urutkan', 'الترتيب')}</span>
+        <span class="tb-label">{L('Isih', 'Sort', '排序', 'வரிசை', '並び替え', '정렬', 'จัดเรียง', 'Sắp xếp', 'Urutkan', 'الترتيب', 'क्रमबद्ध करें')}</span>
         <div class="tabs" role="tablist">
-          <button class="tab on" data-sort="upd" data-dir="desc">{L('Terkini', 'Latest', '最新', 'புதியவை', '最新', '최신', 'ล่าสุด', 'Mới nhất', 'Terbaru', 'الأحدث')}</button>
-          <button class="tab" data-sort="reads" data-dir="desc">{L('Paling banyak dibaca', 'Most read', '最多阅读', 'அதிகம் படிக்கப்பட்டவை', '最も読まれた', '가장 많이 읽은', 'อ่านมากที่สุด', 'Được đọc nhiều nhất', 'Paling banyak dibaca', 'الأكثر قراءة')}</button>
+          <button class="tab on" data-sort="upd" data-dir="desc">{L('Terkini', 'Latest', '最新', 'புதியவை', '最新', '최신', 'ล่าสุด', 'Mới nhất', 'Terbaru', 'الأحدث', 'नवीनतम')}</button>
+          <button class="tab" data-sort="reads" data-dir="desc">{L('Paling banyak dibaca', 'Most read', '最多阅读', 'அதிகம் படிக்கப்பட்டவை', '最も読まれた', '가장 많이 읽은', 'อ่านมากที่สุด', 'Được đọc nhiều nhất', 'Paling banyak dibaca', 'الأكثر قراءة', 'सर्वाधिक पढ़े गए')}</button>
           <button class="tab" data-sort="t" data-dir="asc">{L('A–Z', 'A–Z', 'A–Z', 'A–Z', 'A–Z', 'A–Z', 'A–Z', 'A–Z', 'A–Z')}</button>
-          <button class="tab" data-sort="src" data-dir="desc">{L('Paling banyak sumber', 'Most sourced', '来源最多', 'அதிக ஆதாரம் கொண்டவை', '出典が多い順', '출처 많은 순', 'มีแหล่งข้อมูลมากที่สุด', 'Nhiều nguồn nhất', 'Paling banyak sumber', 'الأكثر مصادر')}</button>
-          <button class="tab" data-sort="conn" data-dir="desc">{L('Paling terhubung', 'Most linked', '关联最多', 'அதிகம் இணைக்கப்பட்டவை', 'リンクが多い順', '링크 많은 순', 'มีการเชื่อมโยงมากที่สุด', 'Được liên kết nhiều nhất', 'Paling terhubung', 'الأكثر ترابطًا')}</button>
+          <button class="tab" data-sort="src" data-dir="desc">{L('Paling banyak sumber', 'Most sourced', '来源最多', 'அதிக ஆதாரம் கொண்டவை', '出典が多い順', '출처 많은 순', 'มีแหล่งข้อมูลมากที่สุด', 'Nhiều nguồn nhất', 'Paling banyak sumber', 'الأكثر مصادر', 'सर्वाधिक स्रोत वाले')}</button>
+          <button class="tab" data-sort="conn" data-dir="desc">{L('Paling terhubung', 'Most linked', '关联最多', 'அதிகம் இணைக்கப்பட்டவை', 'リンクが多い順', '링크 많은 순', 'มีการเชื่อมโยงมากที่สุด', 'Được liên kết nhiều nhất', 'Paling terhubung', 'الأكثر ترابطًا', 'सर्वाधिक जुड़े हुए')}</button>
         </div>
       </div>
     )}
     <div class="tb-line">
-      <span class="tb-label">{L('Papar', 'Display', '显示', 'காட்சி', '表示', '표시', 'แสดงผล', 'Hiển thị', 'Tampilan', 'العرض')}</span>
+      <span class="tb-label">{L('Papar', 'Display', '显示', 'காட்சி', '表示', '표시', 'แสดงผล', 'Hiển thị', 'Tampilan', 'العرض', 'प्रदर्शन')}</span>
       <div class="tabs">
-        <span class="tgl-hint">{L('Papar lebih pada setiap kad:', 'Show more on each card:', '在每张卡片显示更多：', 'ஒவ்வொரு அட்டையிலும் மேலும் காட்டு:', '各カードにさらに表示：', '각 카드에 더 표시:', 'แสดงเพิ่มเติมในแต่ละการ์ด:', 'Hiển thị thêm trên mỗi thẻ:', 'Tampilkan lebih banyak di setiap kartu:', 'إظهار المزيد في كل بطاقة:')}</span>
-        <button class="tgl" type="button" data-row="path" title={L('Tonggak › kategori › topik', 'Pillar › category › topic', '支柱 › 分类 › 主题', 'தூண் › வகை › தலைப்பு', '柱 › カテゴリー › トピック', '핵심축 › 카테고리 › 주제', 'เสาหลัก › หมวดหมู่ › หัวข้อ', 'Trụ cột › danh mục › chủ đề', 'Pilar › kategori › topik', 'الركيزة › الفئة › الموضوع')}>{L('Laluan', 'Path', '路径', 'பாதை', 'パス', '경로', 'เส้นทาง', 'Đường dẫn', 'Jalur', 'المسار')}</button>
-        <button class="tgl" type="button" data-row="details" title={L('Status, bahasa, sumber, pautan, masa baca', 'Status, languages, sources, links, reading time', '状态、语言、来源、关联、阅读时间', 'நிலை, மொழிகள், ஆதாரங்கள், இணைப்புகள், படிக்கும் நேரம்', 'ステータス、言語、出典、リンク、読了時間', '상태, 언어, 출처, 링크, 읽는 시간', 'สถานะ ภาษา แหล่งข้อมูล ลิงก์ เวลาอ่าน', 'Trạng thái, ngôn ngữ, nguồn, liên kết, thời gian đọc', 'Status, bahasa, sumber, tautan, waktu baca', 'الحالة واللغات والمصادر والروابط ووقت القراءة')}>{L('Butiran', 'Details', '详情', 'விவரங்கள்', '詳細', '세부 정보', 'รายละเอียด', 'Chi tiết', 'Rincian', 'التفاصيل')}</button>
-        <button class="tgl" type="button" data-row="custody" title={L('Rantaian jagaan (draf → disemak → diterbitkan)', 'Chain of custody (drafted → reviewed → published)', '保管链（起草 → 审阅 → 发布）', 'காப்புச் சங்கிலி (வரையப்பட்டது → மதிப்பாய்வு செய்யப்பட்டது → வெளியிடப்பட்டது)', '管理履歴（起草 → レビュー → 公開）', '관리 이력 (초안 → 검토 → 공개)', 'ห่วงโซ่การควบคุม (ร่าง → ตรวจทาน → เผยแพร่)', 'Chuỗi lưu ký (bản thảo → đã duyệt → đã xuất bản)', 'Rantai penjagaan (draf → ditinjau → diterbitkan)', 'سلسلة العهدة (الصياغة → المراجعة → النشر)')}>{L('Status', 'Status', '状态', 'நிலை', 'ステータス', '상태', 'สถานะ', 'Trạng thái', 'Status', 'الحالة')}</button>
-        <button class="tgl" type="button" data-row="visitors" title={L('Lawatan pembaca / enjin carian / AI', 'Reader / search / AI visits', '读者／搜索引擎／AI 访问', 'வாசகர் / தேடுபொறி / AI வருகைகள்', '読者／検索エンジン／AI のアクセス', '독자 / 검색 / AI 방문', 'การเข้าชมของผู้อ่าน / เครื่องมือค้นหา / AI', 'Lượt truy cập của độc giả / công cụ tìm kiếm / AI', 'Kunjungan pembaca / mesin pencari / AI', 'زيارات القرّاء / محرك البحث / الذكاء الاصطناعي')}>{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者', '방문자', 'ผู้เข้าชม', 'Khách truy cập', 'Pengunjung', 'الزوّار')}</button>
+        <span class="tgl-hint">{L('Papar lebih pada setiap kad:', 'Show more on each card:', '在每张卡片显示更多：', 'ஒவ்வொரு அட்டையிலும் மேலும் காட்டு:', '各カードにさらに表示：', '각 카드에 더 표시:', 'แสดงเพิ่มเติมในแต่ละการ์ด:', 'Hiển thị thêm trên mỗi thẻ:', 'Tampilkan lebih banyak di setiap kartu:', 'إظهار المزيد في كل بطاقة:', 'प्रत्येक कार्ड पर अधिक दिखाएँ:')}</span>
+        <button class="tgl" type="button" data-row="path" title={L('Tonggak › kategori › topik', 'Pillar › category › topic', '支柱 › 分类 › 主题', 'தூண் › வகை › தலைப்பு', '柱 › カテゴリー › トピック', '핵심축 › 카테고리 › 주제', 'เสาหลัก › หมวดหมู่ › หัวข้อ', 'Trụ cột › danh mục › chủ đề', 'Pilar › kategori › topik', 'الركيزة › الفئة › الموضوع', 'स्तंभ › श्रेणी › विषय')}>{L('Laluan', 'Path', '路径', 'பாதை', 'パス', '경로', 'เส้นทาง', 'Đường dẫn', 'Jalur', 'المسار', 'पथ')}</button>
+        <button class="tgl" type="button" data-row="details" title={L('Status, bahasa, sumber, pautan, masa baca', 'Status, languages, sources, links, reading time', '状态、语言、来源、关联、阅读时间', 'நிலை, மொழிகள், ஆதாரங்கள், இணைப்புகள், படிக்கும் நேரம்', 'ステータス、言語、出典、リンク、読了時間', '상태, 언어, 출처, 링크, 읽는 시간', 'สถานะ ภาษา แหล่งข้อมูล ลิงก์ เวลาอ่าน', 'Trạng thái, ngôn ngữ, nguồn, liên kết, thời gian đọc', 'Status, bahasa, sumber, tautan, waktu baca', 'الحالة واللغات والمصادر والروابط ووقت القراءة', 'स्थिति, भाषाएँ, स्रोत, लिंक, पढ़ने का समय')}>{L('Butiran', 'Details', '详情', 'விவரங்கள்', '詳細', '세부 정보', 'รายละเอียด', 'Chi tiết', 'Rincian', 'التفاصيل', 'विवरण')}</button>
+        <button class="tgl" type="button" data-row="custody" title={L('Rantaian jagaan (draf → disemak → diterbitkan)', 'Chain of custody (drafted → reviewed → published)', '保管链（起草 → 审阅 → 发布）', 'காப்புச் சங்கிலி (வரையப்பட்டது → மதிப்பாய்வு செய்யப்பட்டது → வெளியிடப்பட்டது)', '管理履歴（起草 → レビュー → 公開）', '관리 이력 (초안 → 검토 → 공개)', 'ห่วงโซ่การควบคุม (ร่าง → ตรวจทาน → เผยแพร่)', 'Chuỗi lưu ký (bản thảo → đã duyệt → đã xuất bản)', 'Rantai penjagaan (draf → ditinjau → diterbitkan)', 'سلسلة العهدة (الصياغة → المراجعة → النشر)', 'अभिरक्षा शृंखला (प्रारूपित → समीक्षित → प्रकाशित)')}>{L('Status', 'Status', '状态', 'நிலை', 'ステータス', '상태', 'สถานะ', 'Trạng thái', 'Status', 'الحالة', 'स्थिति')}</button>
+        <button class="tgl" type="button" data-row="visitors" title={L('Lawatan pembaca / enjin carian / AI', 'Reader / search / AI visits', '读者／搜索引擎／AI 访问', 'வாசகர் / தேடுபொறி / AI வருகைகள்', '読者／検索エンジン／AI のアクセス', '독자 / 검색 / AI 방문', 'การเข้าชมของผู้อ่าน / เครื่องมือค้นหา / AI', 'Lượt truy cập của độc giả / công cụ tìm kiếm / AI', 'Kunjungan pembaca / mesin pencari / AI', 'زيارات القرّاء / محرك البحث / الذكاء الاصطناعي', 'पाठक / खोज / AI विज़िट')}>{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者', '방문자', 'ผู้เข้าชม', 'Khách truy cập', 'Pengunjung', 'الزوّار', 'आगंतुक')}</button>
         <span class="tgl-sep" aria-hidden="true"></span>
-        <button class="tgl-all" type="button" data-rows="on">{L('Semua buka', 'All on', '全部开', 'அனைத்தும் இயக்கு', 'すべて表示', '모두 켜기', 'เปิดทั้งหมด', 'Bật tất cả', 'Semua nyala', 'تشغيل الكل')}</button>
-        <button class="tgl-all" type="button" data-rows="off">{L('Semua tutup', 'All off', '全部关', 'அனைத்தும் அணை', 'すべて非表示', '모두 끄기', 'ปิดทั้งหมด', 'Tắt tất cả', 'Semua mati', 'إيقاف الكل')}</button>
+        <button class="tgl-all" type="button" data-rows="on">{L('Semua buka', 'All on', '全部开', 'அனைத்தும் இயக்கு', 'すべて表示', '모두 켜기', 'เปิดทั้งหมด', 'Bật tất cả', 'Semua nyala', 'تشغيل الكل', 'सभी चालू')}</button>
+        <button class="tgl-all" type="button" data-rows="off">{L('Semua tutup', 'All off', '全部关', 'அனைத்தும் அணை', 'すべて非表示', '모두 끄기', 'ปิดทั้งหมด', 'Tắt tất cả', 'Semua mati', 'إيقاف الكل', 'सभी बंद')}</button>
       </div>
     </div>
     </div>
     <div class="tb-line search-line">
-      <span class="tb-label">{L('Cari', 'Search', '搜索', 'தேடு', '検索', '검색', 'ค้นหา', 'Tìm kiếm', 'Cari', 'البحث')}</span>
-      <input id="f-q" type="search" placeholder={L('Cari tajuk…', 'Search titles…', '搜索标题…', 'தலைப்புகளைத் தேடு…', 'タイトルを検索…', '제목 검색…', 'ค้นหาชื่อเรื่อง…', 'Tìm kiếm tiêu đề…', 'Cari judul…', 'ابحث في العناوين…')} />
+      <span class="tb-label">{L('Cari', 'Search', '搜索', 'தேடு', '検索', '검색', 'ค้นหา', 'Tìm kiếm', 'Cari', 'البحث', 'खोजें')}</span>
+      <input id="f-q" type="search" placeholder={L('Cari tajuk…', 'Search titles…', '搜索标题…', 'தலைப்புகளைத் தேடு…', 'タイトルを検索…', '제목 검색…', 'ค้นหาชื่อเรื่อง…', 'Tìm kiếm tiêu đề…', 'Cari judul…', 'ابحث في العناوين…', 'शीर्षक खोजें…')} />
     </div>
   </div>
 
   <div class="pager pager-top" data-pagefind-ignore>
     <div class="pg-size">
-      <label>{L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف')}
+      <label>{L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف', 'पंक्तियाँ')}
         <select class="pg-size-sel">
           <option>25</option>
           <option>50</option>
@@ -242,15 +242,15 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       <span class="pg-count"></span>
     </div>
     <div class="pg-nav">
-      <button class="pg-first" title={L('Pertama', 'First', '首页', 'முதல்', '最初', '처음', 'หน้าแรก', 'Đầu tiên', 'Pertama', 'الأول')}>«</button>
-      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页', 'முந்தைய', '前へ', '이전', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق')}>‹</button>
+      <button class="pg-first" title={L('Pertama', 'First', '首页', 'முதல்', '最初', '처음', 'หน้าแรก', 'Đầu tiên', 'Pertama', 'الأول', 'पहला')}>«</button>
+      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页', 'முந்தைய', '前へ', '이전', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق', 'पिछला')}>‹</button>
       <span class="pg-of">
-        {L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'الصفحة')}
+        {L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'الصفحة', 'पृष्ठ')}
         <input class="pg-no" type="number" min="1" value="1" />
         / <span class="pg-total">1</span>
       </span>
-      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页', 'அடுத்து', '次へ', '다음', 'ถัดไป', 'Tiếp', 'Berikutnya', 'التالي')}>›</button>
-      <button class="pg-last" title={L('Akhir', 'Last', '末页', 'கடைசி', '最後', '마지막', 'หน้าสุดท้าย', 'Cuối cùng', 'Terakhir', 'الأخير')}>»</button>
+      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页', 'அடுத்து', '次へ', '다음', 'ถัดไป', 'Tiếp', 'Berikutnya', 'التالي', 'अगला')}>›</button>
+      <button class="pg-last" title={L('Akhir', 'Last', '末页', 'கடைசி', '最後', '마지막', 'หน้าสุดท้าย', 'Cuối cùng', 'Terakhir', 'الأخير', 'अंतिम')}>»</button>
     </div>
   </div>
 
@@ -258,7 +258,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
   <div class="pager" data-pagefind-ignore>
     <div class="pg-size">
-      <label>{L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف')}
+      <label>{L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف', 'पंक्तियाँ')}
         <select class="pg-size-sel">
           <option>25</option>
           <option>50</option>
@@ -268,15 +268,15 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       <span class="pg-count"></span>
     </div>
     <div class="pg-nav">
-      <button class="pg-first" title={L('Pertama', 'First', '首页', 'முதல்', '最初', '처음', 'หน้าแรก', 'Đầu tiên', 'Pertama', 'الأول')}>«</button>
-      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页', 'முந்தைய', '前へ', '이전', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق')}>‹</button>
+      <button class="pg-first" title={L('Pertama', 'First', '首页', 'முதல்', '最初', '처음', 'หน้าแรก', 'Đầu tiên', 'Pertama', 'الأول', 'पहला')}>«</button>
+      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页', 'முந்தைய', '前へ', '이전', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق', 'पिछला')}>‹</button>
       <span class="pg-of">
-        {L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'الصفحة')}
+        {L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'الصفحة', 'पृष्ठ')}
         <input class="pg-no" type="number" min="1" value="1" />
         / <span class="pg-total">1</span>
       </span>
-      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页', 'அடுத்து', '次へ', '다음', 'ถัดไป', 'Tiếp', 'Berikutnya', 'التالي')}>›</button>
-      <button class="pg-last" title={L('Akhir', 'Last', '末页', 'கடைசி', '最後', '마지막', 'หน้าสุดท้าย', 'Cuối cùng', 'Terakhir', 'الأخير')}>»</button>
+      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页', 'அடுத்து', '次へ', '다음', 'ถัดไป', 'Tiếp', 'Berikutnya', 'التالي', 'अगला')}>›</button>
+      <button class="pg-last" title={L('Akhir', 'Last', '末页', 'கடைசி', '最後', '마지막', 'หน้าสุดท้าย', 'Cuối cùng', 'Terakhir', 'الأخير', 'अंतिम')}>»</button>
     </div>
   </div>
 </section>
@@ -287,31 +287,31 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   id="articles-i18n"
   set:html={JSON.stringify({
     status: Object.fromEntries(LIFECYCLE.map((s) => [s, t(`status.${s}`, locale)])),
-    showing: L('{a}–{b} drpd {n}', '{a}–{b} of {n}', '第 {a}–{b} 项，共 {n}', 'மொத்தம் {n} இல் {a}–{b}', '{n} 件中 {a}–{b}', '{n}개 중 {a}–{b}', '{a}–{b} จาก {n}', '{a}–{b} trong số {n}', '{a}–{b} dari {n}', '{a}–{b} من {n}'),
-    empty: L('Tiada artikel sepadan.', 'No matching articles.', '没有匹配的文章。', 'பொருந்தும் கட்டுரைகள் எதுவும் இல்லை.', '該当する記事はありません。', '일치하는 기사가 없습니다.', 'ไม่มีบทความที่ตรงกัน.', 'Không có bài viết phù hợp.', 'Tidak ada artikel yang cocok.', 'لا توجد مقالات مطابقة.'),
-    min: L('min baca', 'min read', '分钟', 'நிமிட வாசிப்பு', '分', '분', 'นาทีในการอ่าน', 'phút đọc', 'mnt baca', 'دقيقة قراءة'),
-    master: L('Induk', 'Master', '主语言', 'முதன்மை', 'マスター', '마스터', 'ต้นฉบับ', 'Bản gốc', 'Induk', 'الأصل'),
-    sources: L('sumber', 'sources', '来源', 'ஆதாரங்கள்', '出典', '출처', 'แหล่งข้อมูล', 'nguồn', 'sumber', 'مصادر'),
-    linked: L('pautan', 'links', '关联', 'இணைப்புகள்', 'リンク', '링크', 'ลิงก์', 'liên kết', 'tautan', 'روابط'),
-    updated: L('Dikemas kini', 'Updated', '更新', 'புதுப்பிக்கப்பட்டது', '更新日', '업데이트', 'อัปเดตแล้ว', 'Đã cập nhật', 'Diperbarui', 'محدّث'),
-    pathLabel: L('Laluan', 'Path', '路径', 'பாதை', 'パス', '경로', 'เส้นทาง', 'Đường dẫn', 'Jalur', 'المسار'),
-    detailsLabel: L('Butiran', 'Details', '详情', 'விவரங்கள்', '詳細', '세부 정보', 'รายละเอียด', 'Chi tiết', 'Rincian', 'التفاصيل'),
-    custodyLabel: L('Status', 'Status', '状态', 'நிலை', 'ステータス', '상태', 'สถานะ', 'Trạng thái', 'Status', 'الحالة'),
-    visitorsLabel: L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者', '방문자', 'ผู้เข้าชม', 'Khách truy cập', 'Pengunjung', 'الزوّار'),
-    vReaders: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน', 'Độc giả', 'Pembaca', 'القرّاء'),
-    vSearch: L('Enjin carian', 'Search', '搜索引擎', 'தேடுபொறி', '検索エンジン', '검색 엔진', 'เครื่องมือค้นหา', 'Công cụ tìm kiếm', 'Mesin pencari', 'محرك البحث'),
+    showing: L('{a}–{b} drpd {n}', '{a}–{b} of {n}', '第 {a}–{b} 项，共 {n}', 'மொத்தம் {n} இல் {a}–{b}', '{n} 件中 {a}–{b}', '{n}개 중 {a}–{b}', '{a}–{b} จาก {n}', '{a}–{b} trong số {n}', '{a}–{b} dari {n}', '{a}–{b} من {n}', '{n} में से {a}–{b}'),
+    empty: L('Tiada artikel sepadan.', 'No matching articles.', '没有匹配的文章。', 'பொருந்தும் கட்டுரைகள் எதுவும் இல்லை.', '該当する記事はありません。', '일치하는 기사가 없습니다.', 'ไม่มีบทความที่ตรงกัน.', 'Không có bài viết phù hợp.', 'Tidak ada artikel yang cocok.', 'لا توجد مقالات مطابقة.', 'कोई मेल खाने वाला लेख नहीं।'),
+    min: L('min baca', 'min read', '分钟', 'நிமிட வாசிப்பு', '分', '분', 'นาทีในการอ่าน', 'phút đọc', 'mnt baca', 'دقيقة قراءة', 'मिनट का पठन'),
+    master: L('Induk', 'Master', '主语言', 'முதன்மை', 'マスター', '마스터', 'ต้นฉบับ', 'Bản gốc', 'Induk', 'الأصل', 'मूल'),
+    sources: L('sumber', 'sources', '来源', 'ஆதாரங்கள்', '出典', '출처', 'แหล่งข้อมูล', 'nguồn', 'sumber', 'مصادر', 'स्रोत'),
+    linked: L('pautan', 'links', '关联', 'இணைப்புகள்', 'リンク', '링크', 'ลิงก์', 'liên kết', 'tautan', 'روابط', 'लिंक'),
+    updated: L('Dikemas kini', 'Updated', '更新', 'புதுப்பிக்கப்பட்டது', '更新日', '업데이트', 'อัปเดตแล้ว', 'Đã cập nhật', 'Diperbarui', 'محدّث', 'अद्यतन'),
+    pathLabel: L('Laluan', 'Path', '路径', 'பாதை', 'パス', '경로', 'เส้นทาง', 'Đường dẫn', 'Jalur', 'المسار', 'पथ'),
+    detailsLabel: L('Butiran', 'Details', '详情', 'விவரங்கள்', '詳細', '세부 정보', 'รายละเอียด', 'Chi tiết', 'Rincian', 'التفاصيل', 'विवरण'),
+    custodyLabel: L('Status', 'Status', '状态', 'நிலை', 'ステータス', '상태', 'สถานะ', 'Trạng thái', 'Status', 'الحالة', 'स्थिति'),
+    visitorsLabel: L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者', '방문자', 'ผู้เข้าชม', 'Khách truy cập', 'Pengunjung', 'الزوّار', 'आगंतुक'),
+    vReaders: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน', 'Độc giả', 'Pembaca', 'القرّاء', 'पाठक'),
+    vSearch: L('Enjin carian', 'Search', '搜索引擎', 'தேடுபொறி', '検索エンジン', '검색 엔진', 'เครื่องมือค้นหา', 'Công cụ tìm kiếm', 'Mesin pencari', 'محرك البحث', 'खोजें'),
     vAI: L('AI', 'AI', 'AI', 'AI', 'AI', 'AI', 'AI', 'AI', 'AI'),
-    notTracked: L('belum dijejak', 'not tracked yet', '尚未追踪', 'இன்னும் கண்காணிக்கப்படவில்லை', '未計測', '아직 집계되지 않음', 'ยังไม่ได้ติดตาม', 'chưa được theo dõi', 'belum dilacak', 'لم يُتتبّع بعد'),
-    aiDraft: L('Dibantu AI', 'AI-assisted', 'AI 辅助', 'AI உதவியுடன்', 'AI 支援', 'AI 지원', 'ช่วยเหลือโดย AI', 'Có hỗ trợ của AI', 'Dibantu AI', 'بمساعدة الذكاء الاصطناعي'),
-    pending: L('belum', 'pending', '待处理', 'நிலுவையில்', '保留中', '대기 중', 'รอดำเนินการ', 'đang chờ', 'belum', 'قيد الانتظار'),
-    stageDrafted: L('Dirangka', 'Drafted', '起草', 'வரையப்பட்டது', '起草', '초안 작성', 'ร่างแล้ว', 'Đã soạn thảo', 'Dirancang', 'تمت الصياغة'),
-    stageReviewed: L('Disemak', 'Reviewed', '审阅', 'மதிப்பாய்வு செய்யப்பட்டது', 'レビュー済み', '검토 완료', 'ตรวจทานแล้ว', 'Đã duyệt', 'Ditinjau', 'تمت المراجعة'),
-    stagePublished: L('Diterbitkan', 'Published', '发布', 'வெளியிடப்பட்டது', '公開済み', '공개 완료', 'เผยแพร่แล้ว', 'Đã xuất bản', 'Diterbitkan', 'تم النشر'),
-    nextReview: L('Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு', '次回レビュー', '다음 검토', 'การตรวจทานครั้งถัดไป', 'Lần duyệt tiếp theo', 'Tinjauan berikutnya', 'المراجعة التالية'),
-    overdue: L('Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமாகிவிட்டது', 'レビュー期限超過', '검토 기한 초과', 'เกินกำหนดตรวจทาน', 'Quá hạn duyệt', 'Tinjauan terlambat', 'المراجعة متأخرة'),
-    contributor: L('Penyumbang', 'Contributor', '贡献者', 'பங்களிப்பாளர்', '貢献者', '기여자', 'ผู้มีส่วนร่วม', 'Người đóng góp', 'Kontributor', 'مساهم'),
-    classification: L('Klasifikasi', 'Classification', '分类', 'வகைப்பாடு', '分類', '분류', 'การจัดประเภท', 'Phân loại', 'Klasifikasi', 'التصنيف'),
-    noDate: L('Tiada tarikh', 'No date', '无日期', 'தேதி இல்லை', '日付なし', '날짜 없음', 'ไม่มีวันที่', 'Không có ngày', 'Tidak ada tanggal', 'لا يوجد تاريخ'),
+    notTracked: L('belum dijejak', 'not tracked yet', '尚未追踪', 'இன்னும் கண்காணிக்கப்படவில்லை', '未計測', '아직 집계되지 않음', 'ยังไม่ได้ติดตาม', 'chưa được theo dõi', 'belum dilacak', 'لم يُتتبّع بعد', 'अभी ट्रैक नहीं किया गया'),
+    aiDraft: L('Dibantu AI', 'AI-assisted', 'AI 辅助', 'AI உதவியுடன்', 'AI 支援', 'AI 지원', 'ช่วยเหลือโดย AI', 'Có hỗ trợ của AI', 'Dibantu AI', 'بمساعدة الذكاء الاصطناعي', 'AI-सहायता प्राप्त'),
+    pending: L('belum', 'pending', '待处理', 'நிலுவையில்', '保留中', '대기 중', 'รอดำเนินการ', 'đang chờ', 'belum', 'قيد الانتظار', 'लंबित'),
+    stageDrafted: L('Dirangka', 'Drafted', '起草', 'வரையப்பட்டது', '起草', '초안 작성', 'ร่างแล้ว', 'Đã soạn thảo', 'Dirancang', 'تمت الصياغة', 'प्रारूपित'),
+    stageReviewed: L('Disemak', 'Reviewed', '审阅', 'மதிப்பாய்வு செய்யப்பட்டது', 'レビュー済み', '검토 완료', 'ตรวจทานแล้ว', 'Đã duyệt', 'Ditinjau', 'تمت المراجعة', 'समीक्षित'),
+    stagePublished: L('Diterbitkan', 'Published', '发布', 'வெளியிடப்பட்டது', '公開済み', '공개 완료', 'เผยแพร่แล้ว', 'Đã xuất bản', 'Diterbitkan', 'تم النشر', 'प्रकाशित'),
+    nextReview: L('Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு', '次回レビュー', '다음 검토', 'การตรวจทานครั้งถัดไป', 'Lần duyệt tiếp theo', 'Tinjauan berikutnya', 'المراجعة التالية', 'अगली समीक्षा'),
+    overdue: L('Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமாகிவிட்டது', 'レビュー期限超過', '검토 기한 초과', 'เกินกำหนดตรวจทาน', 'Quá hạn duyệt', 'Tinjauan terlambat', 'المراجعة متأخرة', 'समीक्षा विलंबित'),
+    contributor: L('Penyumbang', 'Contributor', '贡献者', 'பங்களிப்பாளர்', '貢献者', '기여자', 'ผู้มีส่วนร่วม', 'Người đóng góp', 'Kontributor', 'مساهم', 'योगदानकर्ता'),
+    classification: L('Klasifikasi', 'Classification', '分类', 'வகைப்பாடு', '分類', '분류', 'การจัดประเภท', 'Phân loại', 'Klasifikasi', 'التصنيف', 'वर्गीकरण'),
+    noDate: L('Tiada tarikh', 'No date', '无日期', 'தேதி இல்லை', '日付なし', '날짜 없음', 'ไม่มีวันที่', 'Không có ngày', 'Tidak ada tanggal', 'لا يوجد تاريخ', 'कोई तिथि नहीं'),
   })}
 ></script>
 <script type="application/json" id="articles-config" set:html={JSON.stringify({ groupByDate, dateLocale, fixedOrder, showRank })}></script>

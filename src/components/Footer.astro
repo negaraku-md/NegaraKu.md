@@ -7,12 +7,12 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string) => (locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const year = 2026;
 
 const cols = [
   {
-    title: L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探索', '탐색', 'สำรวจ', 'Khám phá', 'Jelajahi', 'استكشف'),
+    title: L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探索', '탐색', 'สำรวจ', 'Khám phá', 'Jelajahi', 'استكشف', 'अन्वेषण करें'),
     links: [
       { label: t('nav.understand', locale), href: localePath('/understand', locale) },
       { label: t('nav.living', locale), href: localePath('/living', locale) },
@@ -21,17 +21,17 @@ const cols = [
     ],
   },
   {
-    title: L('Projek', 'Project', '项目', 'திட்டம்', 'プロジェクト', '프로젝트', 'โครงการ', 'Dự án', 'Proyek', 'المشروع'),
+    title: L('Projek', 'Project', '项目', 'திட்டம்', 'プロジェクト', '프로젝트', 'โครงการ', 'Dự án', 'Proyek', 'المشروع', 'परियोजना'),
     links: [
       { label: t('nav.aboutPage', locale), href: localePath('/about', locale) },
       { label: t('nav.dashboard', locale), href: localePath('/dashboard', locale) },
       { label: t('nav.changelog', locale), href: localePath('/changelog', locale) },
       { label: t('nav.contribute', locale), href: localePath('/contribute', locale) },
-      { label: L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定', '설정', 'การตั้งค่า', 'Cài đặt', 'Pengaturan', 'الإعدادات'), href: localePath('/settings', locale) },
+      { label: L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定', '설정', 'การตั้งค่า', 'Cài đặt', 'Pengaturan', 'الإعدادات', 'सेटिंग्स'), href: localePath('/settings', locale) },
     ],
   },
   {
-    title: L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI', 'لـ AI'),
+    title: L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI', 'لـ AI', 'AI के लिए'),
     links: [
       { label: 'llms.txt', href: localePath('/llms', locale) },
       { label: 'GitHub', href: REPO, ext: true },
@@ -66,10 +66,10 @@ const cols = [
 
   <div class="container legal">
     <p>© {year} <span class="wm">NegaraKu<span class="dot">.md</span></span> · {t('footer.license', locale)}</p>
-    <nav class="legal-links" aria-label={L('Undang-undang', 'Legal', '法律', 'சட்டம்', '法務', '법률', 'กฎหมาย', 'Pháp lý', 'Hukum', 'قانوني')}>
-      <a href={localePath('/terms', locale)}>{L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்', '利用規約', '이용약관', 'ข้อกำหนดการใช้งาน', 'Điều khoản Sử dụng', 'Ketentuan Penggunaan', 'شروط الاستخدام')}</a>
-      <a href={localePath('/privacy', locale)}>{L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை', 'プライバシーポリシー', '개인정보 처리방침', 'นโยบายความเป็นส่วนตัว', 'Chính sách Bảo mật', 'Kebijakan Privasi', 'سياسة الخصوصية')}</a>
-      <a href={localePath('/cookies', locale)}>{L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை', 'クッキーポリシー', '쿠키 정책', 'นโยบายคุกกี้', 'Chính sách Cookie', 'Kebijakan Cookie', 'سياسة ملفات تعريف الارتباط')}</a>
+    <nav class="legal-links" aria-label={L('Undang-undang', 'Legal', '法律', 'சட்டம்', '法務', '법률', 'กฎหมาย', 'Pháp lý', 'Hukum', 'قانوني', 'कानूनी')}>
+      <a href={localePath('/terms', locale)}>{L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்', '利用規約', '이용약관', 'ข้อกำหนดการใช้งาน', 'Điều khoản Sử dụng', 'Ketentuan Penggunaan', 'شروط الاستخدام', 'उपयोग की शर्तें')}</a>
+      <a href={localePath('/privacy', locale)}>{L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை', 'プライバシーポリシー', '개인정보 처리방침', 'นโยบายความเป็นส่วนตัว', 'Chính sách Bảo mật', 'Kebijakan Privasi', 'سياسة الخصوصية', 'गोपनीयता नीति')}</a>
+      <a href={localePath('/cookies', locale)}>{L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை', 'クッキーポリシー', '쿠키 정책', 'นโยบายคุกกี้', 'Chính sách Cookie', 'Kebijakan Cookie', 'سياسة ملفات تعريف الارتباط', 'कुकी नीति')}</a>
     </nav>
   </div>
 </footer>

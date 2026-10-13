@@ -16,7 +16,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string) => (locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const analytics = getAnalytics();
 const readsOf = (cat: string, slug: string): number => {
@@ -45,7 +45,7 @@ const stats = await siteStats(locale);
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम'), href: localePath('/', locale) },
     { label: t('nav.trending', locale) },
   ]}
   title={t('nav.trending', locale)}
@@ -60,6 +60,7 @@ const stats = await siteStats(locale);
     'Các bài viết được đọc nhiều nhất — xếp hạng theo lượt truy cập của độc giả, ưu tiên bài mới nhất trong khi dữ liệu phân tích vẫn đang tích lũy.',
     'Artikel yang paling banyak dibaca — diurutkan berdasarkan kunjungan pembaca, dengan yang terbaru diutamakan selama data masih terkumpul.',
     'المقالات الأكثر قراءة — مرتبة حسب زيارات القراء، مع عرض الأحدث أولاً بينما لا تزال بيانات التحليلات قيد التجميع.',
+    'सबसे अधिक पढ़े गए लेख — पाठकों की विज़िट के आधार पर क्रमबद्ध, और जब तक विश्लेषण डेटा जमा हो रहा है तब तक सबसे नए पहले।',
   )}
   stats={[stat.pillars(stats.sections, locale), stat.categories(stats.categories, locale), stat.subcategories(stats.topics, locale), stat.topics(stats.articles, locale)]}
 />
@@ -79,6 +80,7 @@ const stats = await siteStats(locale);
           'Dữ liệu phân tích độc giả vẫn đang tích lũy, nên hiện tại danh sách này hiển thị các bài viết được cập nhật gần đây nhất — chưa phải bảng xếp hạng mức độ phổ biến.',
           'Analitik pembaca masih terkumpul, jadi untuk saat ini daftar ini menampilkan artikel yang paling baru diperbarui — bukan peringkat popularitas.',
           'لا تزال بيانات تحليلات القراء قيد التجميع، لذا تعرض هذه القائمة حالياً المقالات الأحدث تحديثاً — وليست ترتيباً حسب الشعبية بعد.',
+          'पाठक विश्लेषण अभी भी जमा हो रहा है, इसलिए अभी यह सबसे हाल ही में अपडेट किए गए लेख दिखाता है — अभी तक लोकप्रियता की रैंकिंग नहीं।',
         )
       : L(
           'Disusun mengikut lawatan pembaca dan dikemas kini setiap hari. Artikel yang belum dijejak disusun mengikut kemas kini terbaharu, jadi senarai ini terus terisi apabila data bertambah.',
@@ -91,6 +93,7 @@ const stats = await siteStats(locale);
           'Xếp hạng theo lượt truy cập của độc giả và được làm mới hằng ngày. Các bài viết chưa được theo dõi sẽ sắp xếp theo lần cập nhật gần nhất, nên danh sách sẽ đầy dần khi dữ liệu phân tích tăng lên.',
           'Diurutkan berdasarkan kunjungan pembaca dan diperbarui setiap hari. Artikel yang belum dilacak diurutkan berdasarkan pembaruan terbaru, jadi daftar ini terus terisi seiring bertambahnya data.',
           'مرتبة حسب زيارات القراء ومحدَّثة يومياً. المقالات التي لم تُتتبَّع بعد مرتبة حسب أحدث تحديث، فتمتلئ القائمة مع نمو بيانات التحليلات.',
+          'पाठकों की विज़िट के आधार पर क्रमबद्ध और प्रतिदिन ताज़ा किया जाता है। जिन लेखों को अभी तक ट्रैक नहीं किया गया है उन्हें सबसे हाल के अपडेट के अनुसार क्रमबद्ध किया गया है, इसलिए विश्लेषण डेटा बढ़ने के साथ यह सूची भरती जाती है।',
         )}
   </p>
 </section>

@@ -6,14 +6,14 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string) => (locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 ---
 
-<section class="cv-welcome container" data-pagefind-ignore aria-label={L('Orientasi penyumbang', 'Contributor orientation', '贡献者引导', 'பங்களிப்பாளர் அறிமுகம்', '貢献者オリエンテーション', '기여자 오리엔테이션', 'การแนะนำผู้มีส่วนร่วม', 'Định hướng người đóng góp', 'Orientasi kontributor', 'توجيه المساهمين')}>
+<section class="cv-welcome container" data-pagefind-ignore aria-label={L('Orientasi penyumbang', 'Contributor orientation', '贡献者引导', 'பங்களிப்பாளர் அறிமுகம்', '貢献者オリエンテーション', '기여자 오리엔테이션', 'การแนะนำผู้มีส่วนร่วม', 'Định hướng người đóng góp', 'Orientasi kontributor', 'توجيه المساهمين', 'योगदानकर्ता परिचय')}>
   <div class="cv-card">
     <span class="cv-ico" aria-hidden="true">🚀</span>
     <div class="cv-text">
-      <b>{L('Baharu sebagai penyumbang?', 'New as a contributor?', '初次成为贡献者？', 'பங்களிப்பாளராக புதியவரா?', '貢献者は初めてですか？', '기여자가 처음이신가요?', 'เพิ่งเริ่มเป็นผู้มีส่วนร่วม?', 'Mới làm người đóng góp?', 'Baru sebagai kontributor?', 'جديد كمساهم؟')}</b>
+      <b>{L('Baharu sebagai penyumbang?', 'New as a contributor?', '初次成为贡献者？', 'பங்களிப்பாளராக புதியவரா?', '貢献者は初めてですか？', '기여자가 처음이신가요?', 'เพิ่งเริ่มเป็นผู้มีส่วนร่วม?', 'Mới làm người đóng góp?', 'Baru sebagai kontributor?', 'جديد كمساهم؟', 'योगदानकर्ता के रूप में नए हैं?')}</b>
       <p>{L(
         'Ini pelancar anda — barisan semakan, draf, senarai kerja, papan pemuka dan deploy, kebanyakannya terus ke GitHub.',
         'This is your launchpad — review queue, drafts, worklist, dashboard and deploy, mostly straight into GitHub.',
@@ -25,10 +25,11 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
         'Đây là bệ phóng của bạn — hàng đợi đánh giá, bản nháp, danh sách công việc, bảng điều khiển và triển khai, chủ yếu đi thẳng đến GitHub.',
         'Ini landasan peluncur Anda — antrean tinjauan, draf, daftar kerja, dasbor, dan deploy, sebagian besar langsung ke GitHub.',
         'هذه منصة انطلاقك — قائمة انتظار المراجعة، المسودّات، قائمة المهام، لوحة المعلومات والنشر، معظمها مباشرة إلى GitHub.',
+        'यह आपका लॉन्चपैड है — समीक्षा कतार, मसौदे, कार्यसूची, डैशबोर्ड और डिप्लॉय, ज़्यादातर सीधे GitHub तक।',
       )}</p>
     </div>
-    <a class="btn btn-primary cv-go" href={localePath('/contributor-guide', locale)}>{L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி', '貢献者ガイド', '기여자 가이드', 'คู่มือผู้มีส่วนร่วม', 'Hướng dẫn người đóng góp', 'Panduan kontributor', 'دليل المساهم')} <span class="dirx">→</span></a>
-    <button type="button" class="cv-x" data-cv-dismiss aria-label={L('Tutup', 'Dismiss', '关闭', 'மூடு', '閉じる', '닫기', 'ปิด', 'Đóng', 'Tutup', 'إغلاق')}>✕</button>
+    <a class="btn btn-primary cv-go" href={localePath('/contributor-guide', locale)}>{L('Panduan penyumbang', 'Contributor guide', '贡献者指南', 'பங்களிப்பாளர் வழிகாட்டி', '貢献者ガイド', '기여자 가이드', 'คู่มือผู้มีส่วนร่วม', 'Hướng dẫn người đóng góp', 'Panduan kontributor', 'دليل المساهم', 'योगदानकर्ता मार्गदर्शिका')} <span class="dirx">→</span></a>
+    <button type="button" class="cv-x" data-cv-dismiss aria-label={L('Tutup', 'Dismiss', '关闭', 'மூடு', '閉じる', '닫기', 'ปิด', 'Đóng', 'Tutup', 'إغلاق', 'बंद करें')}>✕</button>
   </div>
 </section>
 

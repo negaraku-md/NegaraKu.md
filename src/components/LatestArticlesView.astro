@@ -15,7 +15,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string) => (locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Newest-first, and only articles that actually exist in this locale (not master
 // fallbacks) — same rule as All Articles. Prefer the last 30 days, but if the
@@ -40,7 +40,7 @@ const stats = await siteStats(locale);
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम'), href: localePath('/', locale) },
     { label: t('nav.latest', locale) },
   ]}
   title={t('nav.latest', locale)}
@@ -54,6 +54,7 @@ const stats = await siteStats(locale);
     'บทความที่ปรับปรุงล่าสุด (สูงสุด 100 บทความ) จัดกลุ่มตามวันที่.', 'Các bài viết được cập nhật gần đây nhất (tối đa 100), nhóm theo ngày.',
     'Pembaruan terbaru — artikel yang paling baru diperbarui (hingga 100), dikelompokkan menurut tanggal.',
     'أحدث المقالات تحديثاً (حتى 100)، مجمَّعة حسب التاريخ.',
+    'सबसे हाल ही में अपडेट किए गए लेख (100 तक), तिथि के अनुसार समूहीकृत।',
   )}
   stats={[stat.pillars(stats.sections, locale), stat.categories(stats.categories, locale), stat.subcategories(stats.topics, locale), stat.topics(stats.articles, locale)]}
 />

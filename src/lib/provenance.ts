@@ -44,6 +44,7 @@ export const DATASETS: Record<string, Provenance> = {
       vi: 'Các công ty niêm yết trên Bursa Malaysia',
       id: 'Perusahaan tercatat di Bursa Malaysia',
       ar: 'الشركات المُدرَجة في بورصة ماليزيا (Bursa Malaysia)',
+      hi: 'Bursa Malaysia में सूचीबद्ध कंपनियाँ',
     },
     verification: 'unverified',
     reviewer: null,
@@ -58,6 +59,7 @@ export const DATASETS: Record<string, Provenance> = {
       vi: 'Số liệu vốn hóa thị trường và doanh thu là các giá trị khởi tạo gần đúng chỉ nhằm mục đích minh họa — chưa được đối chiếu với Bursa Malaysia. Không dựa vào chúng cho bất kỳ quyết định nào.',
       id: 'Angka kapitalisasi pasar dan pendapatan adalah nilai awal perkiraan untuk tujuan ilustrasi saja — belum diverifikasi terhadap Bursa Malaysia. Jangan jadikan dasar keputusan.',
       ar: 'أرقام القيمة السوقية والإيرادات هي قيم أولية تقريبية لأغراض التوضيح فقط — ولم يتم التحقق منها بعد مقابل بورصة ماليزيا (Bursa Malaysia). لا تعتمد عليها في اتخاذ أي قرار.',
+      hi: 'बाज़ार-पूँजीकरण और राजस्व के आँकड़े केवल उदाहरण के लिए अनुमानित आरंभिक मान हैं — इन्हें अभी तक Bursa Malaysia के विरुद्ध सत्यापित नहीं किया गया है। किसी भी निर्णय के लिए इन पर निर्भर न रहें।',
     },
   },
 };
