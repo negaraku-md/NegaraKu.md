@@ -9,10 +9,13 @@ import { existsSync, readFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { esc, textWidth, bloom, badge, chip, CHIP_FONT, TITLE_FONT, BODY_FONT, FONT_FACES } from './lib/card-brand.mjs';
-// Arabic (RTL) cards embed the vendored fonts (incl. Noto Naskh Arabic) so they render
-// identically on any host; LTR cards keep the fast fontconfig path (no per-card base64).
-const AR_FONTS = `<style>${FONT_FACES}</style>`;
+import { esc, textWidth, bloom, badge, chip, CHIP_FONT, TITLE_FONT, BODY_FONT } from './lib/card-brand.mjs';
+// Arabic (RTL) cards resolve 'Noto Naskh Arabic' via fontconfig — exactly like the
+// CJK/Tamil/Thai cards — NOT via a per-card base64 @font-face. CI registers the vendored
+// TTF (cp assets/og-fonts/*.ttf ~/.fonts/ + fc-cache -f in deploy.yml). An embedded
+// data-URI @font-face with a variable weight range segfaults librsvg (inside sharp) on
+// CI Linux; HarfBuzz shapes the RTL glyphs the same whether the font is embedded or not.
+const AR_FONTS = '';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_DIR = path.join(ROOT, 'public', 'og');
