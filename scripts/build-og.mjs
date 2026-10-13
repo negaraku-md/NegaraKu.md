@@ -9,7 +9,10 @@ import { existsSync, readFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { FLOWER_D, FLOWER_VB, FLOWER_CX, FLOWER_CY } from './logo-flower.mjs';
+import { esc, textWidth, bloom, badge, chip, CHIP_FONT, TITLE_FONT, BODY_FONT, FONT_FACES } from './lib/card-brand.mjs';
+// Arabic (RTL) cards embed the vendored fonts (incl. Noto Naskh Arabic) so they render
+// identically on any host; LTR cards keep the fast fontconfig path (no per-card base64).
+const AR_FONTS = `<style>${FONT_FACES}</style>`;
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_DIR = path.join(ROOT, 'public', 'og');
@@ -45,11 +48,9 @@ async function collectCards(dir) {
   return out;
 }
 
-const esc = (s) =>
-  String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+// esc, textWidth, bloom, badge, chip, CHIP_FONT, TITLE_FONT, BODY_FONT now come
+// from the shared brand standard (scripts/lib/card-brand.mjs).
 const titleCase = (id) => id.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-const TITLE_FONT = "Montserrat, 'Noto Sans Tamil', 'Noto Sans Thai', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
-const BODY_FONT = "Lato, 'Noto Sans Tamil', 'Noto Sans Thai', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
 
 // --- taxonomy (mirrors src/lib/categories.ts) — pillar + localized category
 // names, so the breadcrumb reads exactly like the article page. --------------
@@ -121,7 +122,7 @@ const SUBCATS = (() => {                          // subcategory id → localize
 // Pick a localized value with fallback: target → en → ms.
 const loc = (obj, lang) => (obj ? (obj[lang] || obj.en || obj.ms) : undefined);
 // UI-string helper for labels baked into the card (mirrors the site's L()).
-const L = (lang, ms, en, zh, ta, ja, ko, th, vi) => ({ ms, en, zh, ta, ja, ko, th, vi }[lang] ?? en ?? ms);
+const L = (lang, ms, en, zh, ta, ja, ko, th, vi, id, ar) => ({ ms, en, zh, ta, ja, ko, th, vi, id, ar }[lang] ?? en ?? ms);
 const fmtDate = (iso, lang) => {
   if (!iso) return null;
   try {
@@ -130,47 +131,6 @@ const fmtDate = (iso, lang) => {
       { day: 'numeric', month: 'short', year: 'numeric' });
   } catch { return iso; }
 };
-// Approx text width: CJK glyphs are ~1.85× a Latin glyph at the same size.
-const textWidth = (s, size) => {
-  let u = 0;
-  for (const ch of String(s)) u += /[㐀-鿿一-龥가-힣]/.test(ch) ? 1.0 : 0.54; // 가-힣 = Hangul syllables (wide like CJK)
-  return u * size;
-};
-
-// A standalone Bunga Raya bloom — the SAME v2 traced flower as the badge/avatar
-// (logo-flower.mjs), gold fill, no hexagon — centred at (cx,cy) with pixel width
-// `size`. Used for the faint background watermark so every card carries the one
-// real logo (never the old abstract blossom).
-const bloom = (cx, cy, size, opacity = 1) => {
-  const sc = size / FLOWER_VB;
-  const tx = cx - FLOWER_CX * sc, ty = cy - FLOWER_CY * sc;
-  return `<g opacity="${opacity}" transform="translate(${tx.toFixed(2)} ${ty.toFixed(2)}) scale(${sc.toFixed(5)})"><path fill="#FFC000" fill-rule="evenodd" d="${FLOWER_D}"/></g>`;
-};
-
-// The hexagon BADGE — black hexagon + white border + gold Bunga Raya, centred at
-// (cx,cy), width `size` (matches public/brand/negaraku-icon.svg via logo-flower).
-const FLOWER_SC = 300 / FLOWER_VB;                 // flower spans 300 of the 512 badge
-const FLOWER_TX = 256 - FLOWER_CX * FLOWER_SC;     // centre the flower CENTROID at (256,256)
-const FLOWER_TY = 256 - FLOWER_CY * FLOWER_SC;
-const badge = (cx, cy, size) => {
-  const S = size / 512, tx = cx - 256 * S, ty = cy - 256 * S;
-  return `<g transform="translate(${tx} ${ty}) scale(${S})">
-    <polygon points="256,23.5 54.65,139.75 54.65,372.25 256,488.5 457.35,372.25 457.35,139.75" fill="#0A0A0A" stroke="#0A0A0A" stroke-width="34" stroke-linejoin="round"/>
-    <polygon points="256,6.5 39.93,131.25 39.93,380.75 256,505.5 472.07,380.75 472.07,131.25" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
-    <g transform="translate(${FLOWER_TX.toFixed(2)} ${FLOWER_TY.toFixed(2)}) scale(${FLOWER_SC.toFixed(5)})"><path fill="#FFC000" fill-rule="evenodd" d="${FLOWER_D}"/></g></g>`;
-};
-
-// A rounded status chip; returns { w, svg } so callers can lay them out in a row.
-const CHIP_FONT = 19;
-function chip(x, y, text, fg, stroke, bg) {
-  const w = 22 + textWidth(text, CHIP_FONT), h = 38;
-  return {
-    w,
-    svg: `<rect x="${x}" y="${y}" width="${w.toFixed(1)}" height="${h}" rx="19" fill="${bg}" stroke="${stroke}"/>
-    <text x="${(x + w / 2).toFixed(1)}" y="${y + 25}" text-anchor="middle" font-family="${BODY_FONT}" font-size="${CHIP_FONT}" font-weight="700" fill="${fg}">${esc(text)}</text>`,
-  };
-}
-
 // Wrap a title/summary into lines. Latin wraps by words; CJK by character.
 function wrapText(text, { maxLatin, maxCjk, maxLines }) {
   const cjk = /[㐀-鿿一-龥]/.test(text);
@@ -214,45 +174,56 @@ function articleSvg(a) {
   const overdue = a.reviewDue && new Date(a.reviewDue) < NOW;
   const chipDefs = [];
   chipDefs.push(a.mode === 'narrative'
-    ? [L(lang, 'Naratif', 'Narrative', '叙事', 'கதையாடல்', '物語', '서사', 'เชิงบรรยาย', 'Tường thuật'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']
-    : [L(lang, 'Praktikal', 'Practical', '实用', 'நடைமுறை', '実用', '실용', 'เชิงปฏิบัติ', 'Thực tiễn'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']);
+    ? [L(lang, 'Naratif', 'Narrative', '叙事', 'கதையாடல்', '物語', '서사', 'เชิงบรรยาย', 'Tường thuật', 'Naratif', 'سردي'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']
+    : [L(lang, 'Praktikal', 'Practical', '实用', 'நடைமுறை', '実用', '실용', 'เชิงปฏิบัติ', 'Thực tiễn', 'Praktis', 'عملي'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']);
   if (a.sensitivity && a.sensitivity !== 'none' && SENS[a.sensitivity])
     chipDefs.push([loc(SENS[a.sensitivity], lang), '#f87171', 'rgba(248,113,113,.45)', 'rgba(248,113,113,.12)']);
   if (pubDate)
-    chipDefs.push([`${L(lang, 'Diterbitkan', 'Published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '공개됨', 'เผยแพร่แล้ว', 'Đã xuất bản')}: ${pubDate}`, '#4ade80', 'rgba(74,222,128,.4)', 'rgba(74,222,128,.12)']);
+    chipDefs.push([`${L(lang, 'Diterbitkan', 'Published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '공개됨', 'เผยแพร่แล้ว', 'Đã xuất bản', 'Diterbitkan', 'منشور')}: ${pubDate}`, '#4ade80', 'rgba(74,222,128,.4)', 'rgba(74,222,128,.12)']);
   if (a.reviewDue) {
     const label = overdue
-      ? L(lang, 'Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமாகிவிட்டது', 'レビュー期限超過', '검토 기한 초과', 'เกินกำหนดตรวจทาน', 'Quá hạn duyệt')
-      : L(lang, 'Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு', '次回レビュー', '다음 검토', 'การตรวจทานครั้งถัดไป', 'Lần duyệt tiếp theo');
+      ? L(lang, 'Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமாகிவிட்டது', 'レビュー期限超過', '검토 기한 초과', 'เกินกำหนดตรวจทาน', 'Quá hạn duyệt', 'Tinjauan terlambat', 'مراجعة متأخرة')
+      : L(lang, 'Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு', '次回レビュー', '다음 검토', 'การตรวจทานครั้งถัดไป', 'Lần duyệt tiếp theo', 'Tinjauan berikutnya', 'المراجعة التالية');
     chipDefs.push([`${label}: ${fmtDate(a.reviewDue, lang)}`,
       overdue ? '#f87171' : '#9A9AB8', overdue ? 'rgba(248,113,113,.5)' : 'rgba(99,99,108,.9)', overdue ? 'rgba(248,113,113,.12)' : '#141419']);
   }
-  const chips = []; let cx = 76;
-  for (const d of chipDefs) { const k = chip(cx, 151, ...d); chips.push(k.svg); cx += k.w + 11; }
+  // RTL (Arabic): mirror the card — text right-anchored, chips laid out from the
+  // right, badge + watermark on the left.
+  const RTL = lang === 'ar';
+  const EDGE = RTL ? 1124 : 76;         // inline-start text edge
+  const ANCHOR = RTL ? 'end' : 'start';
+  const chips = [];
+  if (RTL) {
+    let cx = 1124;
+    for (const d of chipDefs) { const w = 22 + textWidth(d[0], CHIP_FONT); cx -= w; chips.push(chip(cx, 151, ...d).svg); cx -= 11; }
+  } else {
+    let cx = 76;
+    for (const d of chipDefs) { const k = chip(cx, 151, ...d); chips.push(k.svg); cx += k.w + 11; }
+  }
 
   // Title + summary.
   const tLines = wrapText(a.title || '', { maxLatin: 34, maxCjk: 18, maxLines: 3 });
   const tLh = 58, tStart = 266;
-  const tSpans = tLines.map((l, i) => `<tspan x="76" dy="${i === 0 ? 0 : tLh}">${esc(l)}</tspan>`).join('');
+  const tSpans = tLines.map((l, i) => `<tspan x="${EDGE}" dy="${i === 0 ? 0 : tLh}">${esc(l)}</tspan>`).join('');
   const sStart = tStart + (tLines.length - 1) * tLh + 54;
   const sLines = wrapText(a.summary || '', { maxLatin: 70, maxCjk: 34, maxLines: 3 });
-  const sSpans = sLines.map((l, i) => `<tspan x="76" dy="${i === 0 ? 0 : 34}">${esc(l)}</tspan>`).join('');
-  const RX = 1080;
+  const sSpans = sLines.map((l, i) => `<tspan x="${EDGE}" dy="${i === 0 ? 0 : 34}">${esc(l)}</tspan>`).join('');
+  const RX = RTL ? 120 : 1080;         // badge + wordmark lockup side
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <defs><radialGradient id="glow" cx="12%" cy="0%" r="70%">
+  <defs>${RTL ? AR_FONTS : ""}<radialGradient id="glow" cx="12%" cy="0%" r="70%">
     <stop offset="0%" stop-color="#FFC000" stop-opacity="0.10"/><stop offset="100%" stop-color="#FFC000" stop-opacity="0"/>
   </radialGradient></defs>
   <rect width="1200" height="630" fill="#07070A"/>
   <rect width="1200" height="630" fill="url(#glow)"/>
   <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
-  ${bloom(1015, 430, 360, 0.06)}
-  <text x="76" y="108" font-family="${BODY_FONT}" font-size="24" font-weight="600" fill="#FFC000">${esc(crumb)}</text>
+  ${bloom(RTL ? 185 : 1015, 430, 360, 0.06)}
+  <text x="${EDGE}" y="108" text-anchor="${ANCHOR}" font-family="${BODY_FONT}" font-size="24" font-weight="600" fill="#FFC000">${esc(crumb)}</text>
   ${chips.join('\n  ')}
-  <text x="76" y="${tStart}" font-family="${TITLE_FONT}" font-size="${cjkTitle ? 52 : 50}" font-weight="800" fill="#F4F4F8">${tSpans}</text>
-  <text x="76" y="${sStart}" font-family="${BODY_FONT}" font-size="25" fill="#9A9AB8">${sSpans}</text>
+  <text x="${EDGE}" y="${tStart}" text-anchor="${ANCHOR}" font-family="${TITLE_FONT}" font-size="${cjkTitle ? 52 : 50}" font-weight="800" fill="#F4F4F8">${tSpans}</text>
+  <text x="${EDGE}" y="${sStart}" text-anchor="${ANCHOR}" font-family="${BODY_FONT}" font-size="25" fill="#9A9AB8">${sSpans}</text>
   ${badge(RX, 70, 78)}
   <text x="${RX}" y="150" text-anchor="middle" font-family="${TITLE_FONT}" font-size="27" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
-  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚', 'AI-நட்பு மலேசியா', 'AIフレンドリーなマレーシア', 'AI 친화적인 말레이시아', 'มาเลเซียที่เป็นมิตรกับ AI', 'Malaysia thân thiện với AI')}</text>
+  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚', 'AI-நட்பு மலேசியா', 'AIフレンドリーなマレーシア', 'AI 친화적인 말레이시아', 'มาเลเซียที่เป็นมิตรกับ AI', 'Malaysia thân thiện với AI', 'Malaysia ramah-AI', 'ماليزيا صديقة لـ AI')}</text>
 </svg>`;
 }
 
@@ -273,7 +244,7 @@ function defaultCard(lang) {
   const gold = '<tspan fill="#FFC000" font-weight="700">1company.com</tspan>';
   const sponsored = L(lang, `Ditaja oleh ${gold}`, `Sponsored by ${gold}`, `由 ${gold} 赞助`);
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
-  <defs><radialGradient id="glow" cx="50%" cy="40%" r="65%">
+  <defs>${lang === "ar" ? AR_FONTS : ""}<radialGradient id="glow" cx="50%" cy="40%" r="65%">
     <stop offset="0%" stop-color="#FFC000" stop-opacity="0.10"/><stop offset="100%" stop-color="#FFC000" stop-opacity="0"/>
   </radialGradient></defs>
   <rect width="${W}" height="${H}" fill="#07070A"/>

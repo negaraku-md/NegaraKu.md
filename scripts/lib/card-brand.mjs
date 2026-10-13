@@ -24,8 +24,8 @@ export const MUTE = '#9A9AB8';        // secondary / summary text
 export const FAINT = '#C0C0D0';       // tagline / tertiary
 
 // --- fonts -------------------------------------------------------------------
-export const TITLE_FONT = "Montserrat, 'Noto Sans Tamil', 'Noto Sans Thai', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
-export const BODY_FONT = "Lato, 'Noto Sans Tamil', 'Noto Sans Thai', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
+export const TITLE_FONT = "Montserrat, 'Noto Sans Tamil', 'Noto Sans Thai', 'Noto Naskh Arabic', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
+export const BODY_FONT = "Lato, 'Noto Sans Tamil', 'Noto Sans Thai', 'Noto Naskh Arabic', 'Noto Sans', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif";
 
 // Embedded Latin fonts (vendored) so Montserrat/Lato render identically on any host
 // (local Windows, CI Linux) without relying on an installed system font. CJK/Tamil/
@@ -35,7 +35,8 @@ export const FONT_FACES = `
   @font-face{font-family:'Montserrat';font-weight:800;src:url(data:font/ttf;base64,${_b64('Montserrat-ExtraBold.ttf')}) format('truetype');}
   @font-face{font-family:'Montserrat';font-weight:700;src:url(data:font/ttf;base64,${_b64('Montserrat-Bold.ttf')}) format('truetype');}
   @font-face{font-family:'Lato';font-weight:700;src:url(data:font/ttf;base64,${_b64('Lato-Bold.ttf')}) format('truetype');}
-  @font-face{font-family:'Lato';font-weight:400;src:url(data:font/ttf;base64,${_b64('Lato-Regular.ttf')}) format('truetype');}`;
+  @font-face{font-family:'Lato';font-weight:400;src:url(data:font/ttf;base64,${_b64('Lato-Regular.ttf')}) format('truetype');}
+  @font-face{font-family:'Noto Naskh Arabic';font-weight:400 700;src:url(data:font/ttf;base64,${_b64('NotoNaskhArabic-Regular.ttf')}) format('truetype');}`;
 
 // Gold corner glow, as the OG cards. Returns { def, rect } — `def` goes in <defs>,
 // `rect` paints it over the BG fill.
