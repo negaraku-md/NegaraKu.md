@@ -73,7 +73,10 @@ jobs:
           # The window the Cloudflare Worker fired for (morning/lunch/evening) — trusted
           # over wall-clock so a slightly-late GitHub run still posts in the right window.
           FB_WINDOW: ${{ github.event.client_payload.window }}
-          FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+          # Dry run from a manual dispatch input OR a repository_dispatch payload
+          # (client_payload.dry_run) — lets the CF-trigger path be verified end-to-end
+          # without posting to Facebook.
+          FB_DRY_RUN: ${{ (github.event.inputs.dry_run == 'true' || github.event.client_payload.dry_run) && '1' || '' }}
           FB_ONLY_LANGS: ${{ github.event.inputs.only_langs }}
         run: node scripts/post-backlog-to-facebook.mjs ${{ github.event.inputs.files }}
 
