@@ -161,9 +161,16 @@ function targetsForBases(bases, manifest) {
   return out;
 }
 
-// Which Malaysia engagement window we are in now (MYT = UTC+8), matched to the
-// cron ticks (08:17 / 13:17 / 20:17 MYT). Languages post in their preferred windows.
+// Which Malaysia engagement window this run is for. The reliable trigger — the
+// Cloudflare Worker cron (worker-fb-cron/) — fires repository_dispatch AT the window
+// time and passes the window in FB_WINDOW, so a GitHub run that starts a little late
+// still posts in the RIGHT window. We trust FB_WINDOW when present; otherwise fall
+// back to wall-clock MYT (manual dispatch, or the disabled GitHub cron). This matters
+// because GitHub's own scheduler drops the morning tick and delays the evening tick
+// 5-9h — a run firing at 1am MYT would otherwise be mis-read as "morning".
 function currentWindow(now = Date.now()) {
+  const forced = process.env.FB_WINDOW;
+  if (forced === 'morning' || forced === 'lunch' || forced === 'evening') return forced;
   const mytHour = new Date(now + 8 * 3600000).getUTCHours();
   if (mytHour < 11) return 'morning';
   if (mytHour < 17) return 'lunch';

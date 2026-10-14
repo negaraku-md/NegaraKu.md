@@ -1,0 +1,35 @@
+# Cloudflare Worker — reliable cron trigger for NegaraKu.md Facebook posting.
+#
+# WHY: GitHub Actions scheduled crons are unreliable for our Malaysia engagement
+# windows — GitHub drops the 08:17 MYT tick and delays the 20:17 MYT tick 5-9h, so
+# posts were landing at 1-5am MYT (dead of night). CF cron triggers fire ON TIME,
+# so this Worker fires a repository_dispatch to the backlog workflow at the EXACT
+# window times and tells it which window it is. See worker-fb-cron/README.md.
+#
+# Deploy from this directory:  npx wrangler deploy
+name = "negaraku-fb-cron"
+main = "src/index.js"
+compatibility_date = "2026-10-14"
+workers_dev = false
+
+# The three Malaysia engagement windows, in UTC (MYT = UTC+8):
+#   00:17 UTC = 08:17 MYT (morning) · 05:17 UTC = 13:17 MYT (lunch) · 12:17 UTC = 20:17 MYT (evening)
+[triggers]
+crons = ["17 0 * * *", "17 5 * * *", "17 12 * * *"]
+
+[vars]
+GITHUB_OWNER = "negaraku-md"
+GITHUB_REPO = "NegaraKu.md"
+DISPATCH_EVENT = "fb-backlog"
+
+# Workers Logs + Traces (see the dispatch result in the dashboard / `wrangler tail`).
+[observability]
+enabled = true
+[observability.traces]
+enabled = true
+
+# SECRET — set once, never commit:
+#   npx wrangler secret put GITHUB_DISPATCH_TOKEN
+# A fine-grained GitHub PAT scoped to the negaraku-md/NegaraKu.md repo with
+# permission:  Contents → Read and write  (the "Create a repository dispatch
+# event" REST API requires repo Contents write). See README.md for the full steps.

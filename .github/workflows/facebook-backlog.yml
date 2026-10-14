@@ -12,18 +12,22 @@ name: Post backlog to Facebook
 # Committing analytics/posted.json does NOT trigger a deploy (deploy.yml ignores
 # analytics/**).
 on:
-    # Fires 3× a day at Malaysia's engagement PEAKS — morning / lunch / evening
-    # (~08:17 / 13:17 / 20:17 MYT). Each language posts in its preferred window(s)
-    # (LANG_POLICY.windows in scripts/lib/facebook.mjs) and DRIPS its daily target
-    # across them; the evening tick is a catch-up so a GitHub-skipped tick never
-    # makes a language miss the day. Manual dispatch (no FB_SCHEDULED) ignores
-    # windows and posts each language's full daily target at once.
+    # TIMING COMES FROM CLOUDFLARE, NOT GITHUB. Each run posts at one of Malaysia's
+    # engagement PEAKS — morning / lunch / evening (08:17 / 13:17 / 20:17 MYT). Each
+    # language posts in its preferred window(s) (LANG_POLICY.windows) and DRIPS its
+    # daily target across them. The window is passed in as client_payload.window and
+    # read by the script as FB_WINDOW — so a run that starts a little late still posts
+    # in the RIGHT window.
     #
-    # Minute is :17, NOT :00 — GitHub delays or DROPS scheduled runs queued at the
-    # top of the hour (its most congested slot), which is why the :00 schedule
-    # never fired. An off-peak minute is GitHub's own recommendation for cron.
-  schedule:
-    - cron: '17 0,5,12 * * *' # 08:17, 13:17, 20:17 MYT (UTC+8) — morning/lunch/evening
+    # The reliable trigger is the Cloudflare Worker cron (worker-fb-cron/), which fires
+    # this repository_dispatch ON TIME. GitHub's OWN scheduled cron is UNRELIABLE for
+    # our windows — it drops the 08:17 MYT tick and delays the 20:17 MYT tick 5-9h, so
+    # posts were landing at 1-5am MYT. It is therefore DISABLED below; re-enable the
+    # `schedule:` block only if the Worker trigger is ever unavailable (and expect drift).
+  repository_dispatch:
+    types: [fb-backlog]
+  # schedule:
+  #   - cron: '17 0,5,12 * * *' # DISABLED — unreliable; see worker-fb-cron/. Was 08:17/13:17/20:17 MYT.
   workflow_dispatch:
     inputs:
       files:
@@ -63,9 +67,12 @@ jobs:
           SITE_URL: https://negaraku.md
           # Empty "files" input → queue mode (post the next ranked batch).
           FB_BACKLOG_QUEUE: '1'
-          # Set only on cron runs → the once-per-MYT-day guard applies to the
-          # scheduled ticks, but a manual dispatch always posts.
-          FB_SCHEDULED: ${{ github.event_name == 'schedule' && '1' || '' }}
+          # Windowed (scheduled) behaviour on the Cloudflare-triggered repository_dispatch
+          # (and the disabled GitHub schedule); a manual workflow_dispatch always posts.
+          FB_SCHEDULED: ${{ (github.event_name == 'repository_dispatch' || github.event_name == 'schedule') && '1' || '' }}
+          # The window the Cloudflare Worker fired for (morning/lunch/evening) — trusted
+          # over wall-clock so a slightly-late GitHub run still posts in the right window.
+          FB_WINDOW: ${{ github.event.client_payload.window }}
           FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
           FB_ONLY_LANGS: ${{ github.event.inputs.only_langs }}
         run: node scripts/post-backlog-to-facebook.mjs ${{ github.event.inputs.files }}
