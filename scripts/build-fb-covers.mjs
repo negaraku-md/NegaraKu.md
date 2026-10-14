@@ -68,6 +68,12 @@ const LANGS = [
   { code: 'hi', label: 'हिन्दी', file: 'NegaraKu.md.hi.Facebook-Cover-Photo.png',
     tagline: 'दुनिया को मलेशिया के बारे में बताएँ',
     subtitle: 'मलेशिया के बारे में ओपन-सोर्स, AI-अनुकूल ज्ञान आधार' },
+  { code: 'es', label: 'Español', file: 'NegaraKu.md.es.Facebook-Cover-Photo.png',
+    tagline: 'Que el mundo conozca Malasia',
+    subtitle: 'Base de conocimiento de código abierto y compatible con la IA sobre Malasia' },
+  { code: 'fr', label: 'Français', file: 'NegaraKu.md.fr.Facebook-Cover-Photo.png',
+    tagline: 'Faire connaître la Malaisie au monde',
+    subtitle: "Base de connaissances open source et adaptée à l'IA sur la Malaisie" },
 ];
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -100,19 +106,56 @@ async function ensureBlank(W, H) {
   console.log('· wrote clean plate (from-scratch, en-matched: 11px gold line)', BLANK);
 }
 
-function langRow(W, y, active) {
-  // Explicit dx offsets around each separator — SVG renderers collapse whitespace, so
-  // nbsp/em-space don't widen; dx does. 18px before + 18px after each middot.
-  const GAP = 18;
+// ---- language-selector row, auto-fitting so it stays clean as languages grow ----
+// Approx glyph advance (in em) per script — for fit math only, not exact metrics.
+function glyphEm(ch) {
+  const c = ch.codePointAt(0);
+  if ((c >= 0x1100 && c <= 0x11ff) || (c >= 0x2e80 && c <= 0x9fff) ||
+      (c >= 0xac00 && c <= 0xd7a3) || (c >= 0xf900 && c <= 0xfaff) ||
+      (c >= 0xff00 && c <= 0xffef)) return 1.0;                                  // CJK / Hangul / kana (full-width)
+  if ((c >= 0x0590 && c <= 0x06ff) || (c >= 0x0900 && c <= 0x097f) ||
+      (c >= 0x0b80 && c <= 0x0bff) || (c >= 0x0e00 && c <= 0x0e7f)) return 0.62; // Arabic / Devanagari / Tamil / Thai
+  return 0.54;                                                                   // Latin & default
+}
+const labelEm = (s) => [...s].reduce((w, ch) => w + glyphEm(ch), 0);
+const SEP_EM = glyphEm('·');
+// Row width scales linearly with font size: each separator adds the middot glyph + a
+// gap of 0.7·fs on each side. So rowWidth(l, fs) === fs · rowWidth(l, 1).
+function rowWidth(langs, fs) {
+  let em = 0;
+  langs.forEach((l, i) => { if (i) em += SEP_EM; em += labelEm(l.label); });
+  return em * fs + (langs.length - 1) * 2 * (0.7 * fs);
+}
+// One centred line of labels; the active one is gold + underlined.
+function langRowLine(langs, W, y, active, fs) {
+  const gap = Math.round(0.7 * fs);
   let spans = '';
-  LANGS.forEach((l, i) => {
-    if (i) spans += `<tspan dx="${GAP}" fill="#6f6f6f">·</tspan>`;
-    const dx = i ? ` dx="${GAP}"` : '';
+  langs.forEach((l, i) => {
+    if (i) spans += `<tspan dx="${gap}" fill="#6f6f6f">·</tspan>`;
+    const dx = i ? ` dx="${gap}"` : '';
     spans += l.code === active
       ? `<tspan${dx} fill="${GOLD}" font-weight="600" text-decoration="underline">${esc(l.label)}</tspan>`
       : `<tspan${dx} fill="#8a8a8a">${esc(l.label)}</tspan>`;
   });
-  return `<text x="${W / 2}" y="${y}" text-anchor="middle" font-family="${FONT}" font-size="25">${spans}</text>`;
+  return `<text x="${W / 2}" y="${y}" text-anchor="middle" font-family="${FONT}" font-size="${fs}">${spans}</text>`;
+}
+// Fit the full set on ONE line, shrinking the font down to MIN; if it still won't fit,
+// wrap to TWO centred lines. yc is the row's vertical centre. Scales to many languages.
+function langRow(W, yc, active) {
+  const BASE = 25, MIN = 18, MARGIN = 80;
+  const availW = W - 2 * MARGIN;
+  const unit = rowWidth(LANGS, 1);           // width at fs=1 → fs that exactly fills = availW/unit
+  const oneLineFs = availW / unit;
+  if (oneLineFs >= MIN) return langRowLine(LANGS, W, yc, active, Math.min(BASE, oneLineFs));
+  // wrap into two near-equal halves (split by cumulative label width)
+  const totalEm = LANGS.reduce((s, l) => s + labelEm(l.label), 0);
+  let acc = 0, cut = LANGS.length;
+  for (let i = 0; i < LANGS.length; i++) { acc += labelEm(LANGS[i].label); if (acc >= totalEm / 2) { cut = i + 1; break; } }
+  const a = LANGS.slice(0, cut), b = LANGS.slice(cut);
+  const fs = Math.max(MIN, Math.min(BASE, availW / rowWidth(a, 1), availW / rowWidth(b, 1)));
+  const lh = Math.round(fs + 14);
+  return langRowLine(a, W, yc - Math.round(lh / 2), active, fs) +
+         langRowLine(b, W, yc + Math.round(lh / 2), active, fs);
 }
 
 async function main() {
