@@ -10,7 +10,7 @@ export const LOCALES: Locale[] = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi'
 export const DEFAULT_LOCALE: Locale = 'ms';
 
 export const LOCALE_NAMES: Record<Locale, string> = {
-  ms: 'Bahasa Malaysia',
+  ms: 'Bahasa Melayu',
   en: 'English',
   zh: '中文',
   ta: 'தமிழ்',

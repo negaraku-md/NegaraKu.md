@@ -59,6 +59,15 @@ const LANGS = [
   { code: 'id', label: 'Bahasa Indonesia', file: 'NegaraKu.md.id.Facebook-Cover-Photo.png',
     tagline: 'Biarkan dunia mengenal Malaysia',
     subtitle: 'Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia' },
+  // ar subtitle uses the pure-Arabic AI term (الذكاء الاصطناعي) rather than the Latin
+  // "AI": an embedded LTR run inside RTL text makes the SVG bidi reorder the line
+  // (the preposition dangles), which looks broken on the cover.
+  { code: 'ar', label: 'العربية', file: 'NegaraKu.md.ar.Facebook-Cover-Photo.png',
+    tagline: 'دع العالم يعرف ماليزيا',
+    subtitle: 'قاعدة معرفة مفتوحة المصدر وصديقة للذكاء الاصطناعي عن ماليزيا' },
+  { code: 'hi', label: 'हिन्दी', file: 'NegaraKu.md.hi.Facebook-Cover-Photo.png',
+    tagline: 'दुनिया को मलेशिया के बारे में बताएँ',
+    subtitle: 'मलेशिया के बारे में ओपन-सोर्स, AI-अनुकूल ज्ञान आधार' },
 ];
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
