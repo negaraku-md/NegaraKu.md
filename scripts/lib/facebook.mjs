@@ -11,7 +11,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 
 export const GRAPH = 'https://graph.facebook.com/v21.0';
-export const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id']; // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi, id /id
+export const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi']; // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi, id /id, ar /ar, hi /hi
 
 // Posting WINDOWS = Malaysia's daily engagement peaks. The cron fires one tick per
 // window (see .github/workflows/facebook-backlog.yml: 08:17 / 13:17 / 20:17 MYT).
@@ -57,6 +57,11 @@ export const LANG_POLICY = {
   // articles at /id); its Page (facebook.com/negaraku.md.id) is assigned to the
   // "NegaraKu Poster" system user with Full access, so it's in LANGS above.
   id: { enabled: true, perDay: 5, since: '2026-10-04', windows: ALL_WINDOWS },
+  // ar + hi ACTIVATED 2026-10-14 — both full public languages (1,074 published articles
+  // each at /ar and /hi); their Pages are assigned to the "NegaraKu Poster" system user,
+  // so they drip like the rest and ramp daily volume by how new the Page is (`since`).
+  ar: { enabled: true, perDay: 5, since: '2026-10-13', windows: ALL_WINDOWS },
+  hi: { enabled: true, perDay: 5, since: '2026-10-14', windows: ALL_WINDOWS },
 };
 
 // One Facebook Page PER language. Page IDs are PUBLIC (they appear in each Page's
@@ -92,6 +97,11 @@ export const PAGES = {
   // yet — Indonesian is soft-launch (no published /id corpus). Activate at Phase 4 (also
   // assign the Page to the "NegaraKu Poster" system user, currently only Ashton/Yvonne).
   id: process.env.FB_PAGE_ID_ID || '1344600845403169',
+  // ar + hi Pages created 2026-10-14 (facebook.com/negaraku.md.ar and .hi), assigned to
+  // the "NegaraKu Poster" system user with Full access. Both are full public languages
+  // (1,074 published articles each), so they're in LANGS + LANG_POLICY above and post.
+  ar: process.env.FB_PAGE_ID_AR || '1414178765105306',
+  hi: process.env.FB_PAGE_ID_HI || '1328393130363663',
 };
 
 // The URL locale prefix for a language: ms lives at "/", en at "/en", zh at "/zh".
@@ -209,7 +219,7 @@ export function keywordTag(kw) {
   return t.length <= 25 ? t : '';
 }
 
-const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா', ja: '#マレーシア', ko: '#말레이시아', th: '#มาเลเซีย', vi: '#Malaysia', id: '#Malaysia' };
+const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா', ja: '#マレーシア', ko: '#말레이시아', th: '#มาเลเซีย', vi: '#Malaysia', id: '#Malaysia', ar: '#ماليزيا', hi: '#मलेशिया' };
 // Tamil block U+0B80–U+0BFF — used so ta posts keep only Tamil-script (or numeric) tags.
 const hasTamil = (s) => /[஀-௿]/.test(String(s));
 const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));
@@ -224,13 +234,17 @@ const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));
 export function hashtags(data, lang = 'en') {
   const hasHangul = (t) => /[가-힣]/.test(String(t)); // Korean syllables
   const hasThai = (t) => /[฀-๿]/.test(String(t)); // Thai script
+  const hasArabic = (t) => /[؀-ۿ]/.test(String(t)); // Arabic script
+  const hasDevanagari = (t) => /[ऀ-ॿ]/.test(String(t)); // Devanagari (Hindi)
   const okForLang = (t) =>
     /\d/.test(t) || // a numeric reference (e.g. "#Act777") is language-neutral
     (lang === 'zh' || lang === 'ja' ? hasCJK(t) // zh/ja posts: CJK/kana tags only
       : lang === 'ta' ? hasTamil(t) // ta posts: Tamil-script tags only
         : lang === 'ko' ? hasHangul(t) // ko posts: Hangul tags only
           : lang === 'th' ? hasThai(t) // th posts: Thai-script tags only
-            : !hasCJK(t) && !hasTamil(t) && !hasHangul(t) && !hasThai(t)); // ms/en: Latin only (no CJK/Tamil/Hangul/Thai leak)
+            : lang === 'ar' ? hasArabic(t) // ar posts: Arabic-script tags only
+              : lang === 'hi' ? hasDevanagari(t) // hi posts: Devanagari tags only
+                : !hasCJK(t) && !hasTamil(t) && !hasHangul(t) && !hasThai(t) && !hasArabic(t) && !hasDevanagari(t)); // ms/en/vi/id: Latin only (no non-Latin leak)
   const out = [COUNTRY_TAG[lang] || '#Malaysia', '#NegaraKu'];
   const catName = categoryName(data.category, lang);
   if (catName) { const t = hashtag(catName); if (t && !out.includes(t)) out.push(t); }
