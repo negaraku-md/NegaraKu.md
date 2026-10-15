@@ -10,18 +10,17 @@ on:
     branches: [main]
     paths:
       - 'knowledge/**'
-  # Weekly bulk re-submit of EVERY published URL (mode=all). The push trigger only
-  # pings CHANGED articles, so stable pages that never get edited were never
-  # submitted via IndexNow — which Bing Webmaster Tools flags ("important pages
-  # weren't submitted via IndexNow"). This weekly --all keeps every page fresh in
-  # IndexNow and prompts Bing to re-read the sitemap. Timing is not critical, so
-  # GitHub's (unreliable) scheduler is fine here.
-  schedule:
-    - cron: '23 2 * * 1' # Mondays ~02:23 UTC
+  # STREAMING, not batch: the push trigger pings only the URLs whose knowledge/**
+  # files changed in that push (small groups as changes occur) — which is the mode
+  # Bing recommends (it flags "IndexNow is in batch mode" for large bulk submits).
+  # There is intentionally NO recurring bulk `--all` schedule: a periodic full
+  # re-submit would re-trigger the batch-mode warning. Newly published pages are a
+  # knowledge/** change, so they stream automatically; use the manual `--all`
+  # dispatch below ONLY for a one-off backlog catch-up.
   workflow_dispatch:
     inputs:
       mode:
-        description: 'changed (default) or all (bulk-submit every published URL)'
+        description: 'changed (default) or all (one-off bulk catch-up — avoid routine use; Bing prefers streaming)'
         default: changed
 
 permissions:
@@ -54,4 +53,4 @@ jobs:
         env:
           SITE_URL: https://negaraku.md
           INDEXNOW_BEFORE: ${{ github.event.before }}
-        run: node scripts/ping-indexnow.mjs ${{ (github.event_name == 'schedule' || github.event.inputs.mode == 'all') && '--all' || '--changed' }}
+        run: node scripts/ping-indexnow.mjs ${{ github.event.inputs.mode == 'all' && '--all' || '--changed' }}
