@@ -10,6 +10,14 @@ on:
     branches: [main]
     paths:
       - 'knowledge/**'
+  # Weekly bulk re-submit of EVERY published URL (mode=all). The push trigger only
+  # pings CHANGED articles, so stable pages that never get edited were never
+  # submitted via IndexNow — which Bing Webmaster Tools flags ("important pages
+  # weren't submitted via IndexNow"). This weekly --all keeps every page fresh in
+  # IndexNow and prompts Bing to re-read the sitemap. Timing is not critical, so
+  # GitHub's (unreliable) scheduler is fine here.
+  schedule:
+    - cron: '23 2 * * 1' # Mondays ~02:23 UTC
   workflow_dispatch:
     inputs:
       mode:
@@ -46,4 +54,4 @@ jobs:
         env:
           SITE_URL: https://negaraku.md
           INDEXNOW_BEFORE: ${{ github.event.before }}
-        run: node scripts/ping-indexnow.mjs ${{ github.event.inputs.mode == 'all' && '--all' || '--changed' }}
+        run: node scripts/ping-indexnow.mjs ${{ (github.event_name == 'schedule' || github.event.inputs.mode == 'all') && '--all' || '--changed' }}
