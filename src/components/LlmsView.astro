@@ -9,7 +9,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // The machine index (llmstxt.org convention). We render it in-page for humans with
 // copy/download actions; /llms.txt stays the raw endpoint crawlers fetch.
@@ -31,16 +31,17 @@ const aiPrompt = L(
   `Gunakan ${absTxt} sebagai indeks pengetahuan terkurasi dan bersumber tentang Malaysia. Tambahkan \`.md\` ke URL artikel mana pun untuk Markdown mentah. Konten di bawah CC BY-SA 4.0.`,
   `استخدم ${absTxt} كفهرس معرفي منسَّق وموثَّق المصادر عن ماليزيا. أضِف \`.md\` إلى أي عنوان URL لمقالة للحصول على Markdown الخام. المحتوى مرخَّص بموجب CC BY-SA 4.0.`,
   `${absTxt} का उपयोग मलेशिया के बारे में एक क्यूरेटेड, स्रोत-सहित ज्ञान सूचकांक के रूप में करें। कच्चे Markdown के लिए किसी भी लेख के URL के अंत में \`.md\` जोड़ें। सामग्री CC BY-SA 4.0 के अंतर्गत है।`,
+  `Usa ${absTxt} como un índice de conocimiento sobre Malasia, curado y con fuentes citadas. Añade \`.md\` a cualquier URL de artículo para obtener el Markdown en bruto. El contenido está bajo licencia CC BY-SA 4.0.`,
 );
 
 const ui = {
-  copyIndex: L('Salin indeks', 'Copy index', '复制索引', 'சுட்டியை நகலெடு', 'インデックスをコピー', '색인 복사', 'คัดลอกดัชนี', 'Sao chép chỉ mục', 'Salin indeks', 'نسخ الفهرس', 'सूचकांक कॉपी करें'),
-  copyPrompt: L('Salin arahan AI', 'Copy AI prompt', '复制 AI 指令', 'AI அறிவுறுத்தலை நகலெடு', 'AI プロンプトをコピー', 'AI 프롬프트 복사', 'คัดลอกคำสั่ง AI', 'Sao chép lời nhắc AI', 'Salin perintah AI', 'نسخ موجّه AI', 'AI प्रॉम्प्ट कॉपी करें'),
-  download: L('Muat turun .txt', 'Download .txt', '下载 .txt', '.txt பதிவிறக்கு', '.txt をダウンロード', '.txt 다운로드', 'ดาวน์โหลด .txt', 'Tải .txt', 'Unduh .txt', 'تنزيل .txt', '.txt डाउनलोड करें'),
-  openRaw: L('Buka mentah', 'Open raw', '打开原文', 'மூலத்தைத் திற', '生データを開く', '원본 열기', 'เปิดต้นฉบับ', 'Mở bản thô', 'Buka mentah', 'فتح الخام', 'कच्चा खोलें'),
-  copied: L('Disalin!', 'Copied!', '已复制！', 'நகலெடுக்கப்பட்டது!', 'コピーしました！', '복사됨!', 'คัดลอกแล้ว!', 'Đã sao chép!', 'Tersalin!', 'تم النسخ!', 'कॉपी हो गया!'),
-  previewTitle: L('Indeks (llms.txt)', 'Index (llms.txt)', '索引 (llms.txt)', 'சுட்டி (llms.txt)', 'インデックス (llms.txt)', '색인 (llms.txt)', 'ดัชนี (llms.txt)', 'Chỉ mục (llms.txt)', 'Indeks (llms.txt)', 'الفهرس (llms.txt)', 'सूचकांक (llms.txt)'),
-  fullTitle: L('Korpus penuh (llms-full.txt)', 'Full corpus (llms-full.txt)', '完整语料 (llms-full.txt)', 'முழு கார்பஸ் (llms-full.txt)', '全文コーパス (llms-full.txt)', '전체 코퍼스 (llms-full.txt)', 'คลังข้อความเต็ม (llms-full.txt)', 'Toàn bộ kho văn bản (llms-full.txt)', 'Korpus lengkap (llms-full.txt)', 'المتن الكامل (llms-full.txt)', 'पूर्ण कॉर्पस (llms-full.txt)'),
+  copyIndex: L('Salin indeks', 'Copy index', '复制索引', 'சுட்டியை நகலெடு', 'インデックスをコピー', '색인 복사', 'คัดลอกดัชนี', 'Sao chép chỉ mục', 'Salin indeks', 'نسخ الفهرس', 'सूचकांक कॉपी करें', 'Copiar índice'),
+  copyPrompt: L('Salin arahan AI', 'Copy AI prompt', '复制 AI 指令', 'AI அறிவுறுத்தலை நகலெடு', 'AI プロンプトをコピー', 'AI 프롬프트 복사', 'คัดลอกคำสั่ง AI', 'Sao chép lời nhắc AI', 'Salin perintah AI', 'نسخ موجّه AI', 'AI प्रॉम्प्ट कॉपी करें', 'Copiar prompt de IA'),
+  download: L('Muat turun .txt', 'Download .txt', '下载 .txt', '.txt பதிவிறக்கு', '.txt をダウンロード', '.txt 다운로드', 'ดาวน์โหลด .txt', 'Tải .txt', 'Unduh .txt', 'تنزيل .txt', '.txt डाउनलोड करें', 'Descargar .txt'),
+  openRaw: L('Buka mentah', 'Open raw', '打开原文', 'மூலத்தைத் திற', '生データを開く', '원본 열기', 'เปิดต้นฉบับ', 'Mở bản thô', 'Buka mentah', 'فتح الخام', 'कच्चा खोलें', 'Abrir en bruto'),
+  copied: L('Disalin!', 'Copied!', '已复制！', 'நகலெடுக்கப்பட்டது!', 'コピーしました！', '복사됨!', 'คัดลอกแล้ว!', 'Đã sao chép!', 'Tersalin!', 'تم النسخ!', 'कॉपी हो गया!', '¡Copiado!'),
+  previewTitle: L('Indeks (llms.txt)', 'Index (llms.txt)', '索引 (llms.txt)', 'சுட்டி (llms.txt)', 'インデックス (llms.txt)', '색인 (llms.txt)', 'ดัชนี (llms.txt)', 'Chỉ mục (llms.txt)', 'Indeks (llms.txt)', 'الفهرس (llms.txt)', 'सूचकांक (llms.txt)', 'Índice (llms.txt)'),
+  fullTitle: L('Korpus penuh (llms-full.txt)', 'Full corpus (llms-full.txt)', '完整语料 (llms-full.txt)', 'முழு கார்பஸ் (llms-full.txt)', '全文コーパス (llms-full.txt)', '전체 코퍼스 (llms-full.txt)', 'คลังข้อความเต็ม (llms-full.txt)', 'Toàn bộ kho văn bản (llms-full.txt)', 'Korpus lengkap (llms-full.txt)', 'المتن الكامل (llms-full.txt)', 'पूर्ण कॉर्पस (llms-full.txt)', 'Corpus completo (llms-full.txt)'),
   fullNote: L(
     'Setiap artikel digabungkan sebagai satu fail Markdown — terlalu besar untuk pratonton di sini.',
     'Every article concatenated into one Markdown file — too large to preview here.',
@@ -53,6 +54,7 @@ const ui = {
     'Setiap artikel digabungkan menjadi satu berkas Markdown — terlalu besar untuk pratinjau di sini.',
     'كل المقالات مدمجة في ملف Markdown واحد — أكبر من أن يُعرَض هنا.',
     'सभी लेख एक ही Markdown फ़ाइल में जोड़े गए — यहाँ पूर्वावलोकन के लिए बहुत बड़े।',
+    'Todos los artículos concatenados en un solo archivo Markdown — demasiado grande para previsualizar aquí.',
   ),
 };
 ---
@@ -60,10 +62,10 @@ const ui = {
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الرئيسية', 'होम'), href: localePath('/', locale) },
-    { label: L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI', 'من أجل AI', 'AI के लिए') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الرئيسية', 'होम', 'Inicio'), href: localePath('/', locale) },
+    { label: L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI', 'من أجل AI', 'AI के लिए', 'Para IA') },
   ]}
-  title={L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI', 'من أجل AI', 'AI के लिए')}
+  title={L('Untuk AI', 'For AI', '面向 AI', 'AI-க்கு', 'AI 向け', 'AI를 위해', 'สำหรับ AI', 'Dành cho AI', 'Untuk AI', 'من أجل AI', 'AI के लिए', 'Para IA')}
   desc={L(
     'Indeks mesra-AI untuk NegaraKu.md — mengikut konvensyen llms.txt. Berikannya kepada mana-mana pembantu AI, atau tambah `.md` pada mana-mana URL artikel untuk Markdown mentah.',
     'An AI-friendly index for NegaraKu.md — following the llms.txt convention. Hand it to any AI assistant, or append `.md` to any article URL for raw Markdown.',
@@ -76,6 +78,7 @@ const ui = {
     'Indeks ramah-AI untuk NegaraKu.md — mengikuti konvensi llms.txt. Berikan ke asisten AI mana pun, atau tambahkan `.md` ke URL artikel mana pun untuk Markdown mentah.',
     'فهرس ملائم للـ AI لموقع NegaraKu.md — يتبع اصطلاح llms.txt. قدّمه إلى أي مساعد AI، أو أضِف `.md` إلى أي عنوان URL لمقالة للحصول على Markdown الخام.',
     'NegaraKu.md के लिए एक AI-अनुकूल सूचकांक — llms.txt परंपरा का पालन करता है। इसे किसी भी AI असिस्टेंट को दें, या कच्चे Markdown के लिए किसी भी लेख के URL के अंत में `.md` जोड़ें।',
+    'Un índice compatible con la IA para NegaraKu.md — siguiendo la convención llms.txt. Entrégalo a cualquier asistente de IA, o añade `.md` a cualquier URL de artículo para obtener el Markdown en bruto.',
   )}
 />
 

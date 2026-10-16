@@ -8,12 +8,12 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const steps = [
   {
     n: 1,
-    title: L('Dapatkan kunci API Claude anda', 'Get your Claude API key', '获取你的 Claude API 密钥', 'உங்கள் Claude API சாவியைப் பெறுங்கள்', 'Claude の API キーを取得する', 'Claude API 키 발급받기', 'รับคีย์ API ของ Claude', 'Nhận khóa API Claude của bạn', 'Dapatkan kunci API Claude Anda', 'احصل على مفتاح API الخاص بـ Claude', 'अपनी Claude API कुंजी प्राप्त करें'),
+    title: L('Dapatkan kunci API Claude anda', 'Get your Claude API key', '获取你的 Claude API 密钥', 'உங்கள் Claude API சாவியைப் பெறுங்கள்', 'Claude の API キーを取得する', 'Claude API 키 발급받기', 'รับคีย์ API ของ Claude', 'Nhận khóa API Claude của bạn', 'Dapatkan kunci API Claude Anda', 'احصل على مفتاح API الخاص بـ Claude', 'अपनी Claude API कुंजी प्राप्त करें', 'Obtén tu clave API de Claude'),
     body: L(
       'Buat kunci di Anthropic Console. Anda membayar penggunaan token anda sendiri — projek tidak menanggung kos API.',
       'Create a key at the Anthropic Console. You pay for your own token usage — the project bears no API cost.',
@@ -26,19 +26,20 @@ const steps = [
       'Buat kunci di Anthropic Console. Anda membayar penggunaan token Anda sendiri — proyek tidak menanggung biaya API.',
       'أنشئ مفتاحًا في Anthropic Console. أنت تدفع مقابل استخدامك الخاص للتوكنات — المشروع لا يتحمّل أي تكلفة API.',
       'Anthropic Console पर एक कुंजी बनाएं। आप अपने स्वयं के टोकन उपयोग का भुगतान करते हैं — परियोजना कोई API लागत वहन नहीं करती।',
+      'Crea una clave en la Anthropic Console. Tú pagas tu propio uso de tokens — el proyecto no asume ningún costo de API.',
     ),
     code: null,
-    link: { href: 'https://console.anthropic.com/', label: L('Buka Anthropic Console', 'Open the Anthropic Console', '打开 Anthropic Console', 'Anthropic Console-ஐத் திறக்கவும்', 'Anthropic Console を開く', 'Anthropic Console 열기', 'เปิด Anthropic Console', 'Mở Anthropic Console', 'Buka Anthropic Console', 'افتح Anthropic Console', 'Anthropic Console खोलें') },
+    link: { href: 'https://console.anthropic.com/', label: L('Buka Anthropic Console', 'Open the Anthropic Console', '打开 Anthropic Console', 'Anthropic Console-ஐத் திறக்கவும்', 'Anthropic Console を開く', 'Anthropic Console 열기', 'เปิด Anthropic Console', 'Mở Anthropic Console', 'Buka Anthropic Console', 'افتح Anthropic Console', 'Anthropic Console खोलें', 'Abre la Anthropic Console') },
   },
   {
     n: 2,
-    title: L('Tetapkan kunci dalam terminal anda', 'Set the key in your terminal', '在终端中设置密钥', 'உங்கள் terminal-இல் சாவியை அமைக்கவும்', 'ターミナルでキーを設定する', '터미널에서 키 설정하기', 'ตั้งค่าคีย์ใน terminal ของคุณ', 'Đặt khóa trong terminal của bạn', 'Atur kunci di terminal Anda', 'عيّن المفتاح في الطرفية', 'अपने टर्मिनल में कुंजी सेट करें'),
-    body: L('Ia dibaca daripada persekitaran; tidak pernah disimpan dalam repo.', "It's read from the environment; never stored in the repo.", '它从环境变量读取；绝不存入仓库。', 'இது சூழலில் இருந்து படிக்கப்படுகிறது; repo-வில் ஒருபோதும் சேமிக்கப்படுவதில்லை.', '環境変数から読み込まれ、リポジトリには一切保存されません。', '환경 변수에서 읽어오며, 저장소에는 절대 저장되지 않습니다.', 'ระบบจะอ่านจากสภาพแวดล้อม ไม่มีการจัดเก็บใน repo แต่อย่างใด', 'Nó được đọc từ môi trường; không bao giờ được lưu trong repo.', 'Ia dibaca dari lingkungan; tidak pernah disimpan dalam repo.', 'يُقرأ من بيئة التشغيل؛ ولا يُخزَّن مطلقًا في المستودع.', 'यह पर्यावरण से पढ़ा जाता है; रिपॉजिटरी में कभी संग्रहीत नहीं किया जाता।'),
+    title: L('Tetapkan kunci dalam terminal anda', 'Set the key in your terminal', '在终端中设置密钥', 'உங்கள் terminal-இல் சாவியை அமைக்கவும்', 'ターミナルでキーを設定する', '터미널에서 키 설정하기', 'ตั้งค่าคีย์ใน terminal ของคุณ', 'Đặt khóa trong terminal của bạn', 'Atur kunci di terminal Anda', 'عيّن المفتاح في الطرفية', 'अपने टर्मिनल में कुंजी सेट करें', 'Configura la clave en tu terminal'),
+    body: L('Ia dibaca daripada persekitaran; tidak pernah disimpan dalam repo.', "It's read from the environment; never stored in the repo.", '它从环境变量读取；绝不存入仓库。', 'இது சூழலில் இருந்து படிக்கப்படுகிறது; repo-வில் ஒருபோதும் சேமிக்கப்படுவதில்லை.', '環境変数から読み込まれ、リポジトリには一切保存されません。', '환경 변수에서 읽어오며, 저장소에는 절대 저장되지 않습니다.', 'ระบบจะอ่านจากสภาพแวดล้อม ไม่มีการจัดเก็บใน repo แต่อย่างใด', 'Nó được đọc từ môi trường; không bao giờ được lưu trong repo.', 'Ia dibaca dari lingkungan; tidak pernah disimpan dalam repo.', 'يُقرأ من بيئة التشغيل؛ ولا يُخزَّن مطلقًا في المستودع.', 'यह पर्यावरण से पढ़ा जाता है; रिपॉजिटरी में कभी संग्रहीत नहीं किया जाता।', 'Se lee del entorno; nunca se almacena en el repositorio.'),
     code: 'export ANTHROPIC_API_KEY=sk-ant-…',
   },
   {
     n: 3,
-    title: L('Draf terjemahan', 'Draft the translation', '起草翻译', 'மொழிபெயர்ப்பை வரைவாக்குங்கள்', '翻訳の下書きを作成する', '번역 초안 작성하기', 'ร่างคำแปล', 'Soạn bản dịch nháp', 'Buat draf terjemahan', 'صِغ مسوّدة الترجمة', 'अनुवाद का मसौदा तैयार करें'),
+    title: L('Draf terjemahan', 'Draft the translation', '起草翻译', 'மொழிபெயர்ப்பை வரைவாக்குங்கள்', '翻訳の下書きを作成する', '번역 초안 작성하기', 'ร่างคำแปล', 'Soạn bản dịch nháp', 'Buat draf terjemahan', 'صِغ مسوّدة الترجمة', 'अनुवाद का मसौदा तैयार करें', 'Redacta la traducción'),
     body: L(
       'Alat membaca artikel induk dan menulis draf mesin untuk dua bahasa yang lain, mengikut docs/TRANSLATION-SPEC.md dan glosari.',
       'The tool reads the master article and writes a machine draft for the other two languages, following docs/TRANSLATION-SPEC.md and the glossary.',
@@ -51,12 +52,13 @@ const steps = [
       'Alat membaca artikel induk dan menulis draf mesin untuk dua bahasa lainnya, mengikuti docs/TRANSLATION-SPEC.md dan glosarium.',
       'تقرأ الأداة المقال الأصلي وتكتب مسوّدة آلية للغتين الأخريين، وفقًا لـ docs/TRANSLATION-SPEC.md ومسرد المصطلحات.',
       'यह उपकरण मूल लेख को पढ़ता है और docs/TRANSLATION-SPEC.md तथा शब्दावली का अनुसरण करते हुए अन्य दो भाषाओं के लिए एक मशीनी मसौदा लिखता है।',
+      'La herramienta lee el artículo maestro y escribe un borrador automático para los otros dos idiomas, siguiendo docs/TRANSLATION-SPEC.md y el glosario.',
     ),
     code: 'node scripts/translate.mjs --file knowledge/<category>/<slug>.md',
   },
   {
     n: 4,
-    title: L('Semak draf — anda penterjemah rekod', 'Review the draft — you are the translator of record', '审阅草稿——你是署名译者', 'வரைவை மறுஆய்வு செய்யுங்கள் — பதிவின் மொழிபெயர்ப்பாளர் நீங்களே', '下書きを確認する — あなたが記録上の翻訳者です', '초안 검토하기 — 귀하가 기록상의 번역자입니다', 'ตรวจทานร่าง — คุณคือผู้แปลอย่างเป็นทางการ', 'Rà soát bản nháp — bạn là dịch giả chính thức', 'Tinjau draf — Anda penerjemah yang tercatat', 'راجِع المسوّدة — أنت المترجم المعتمد', 'मसौदे की समीक्षा करें — आप अभिलेखगत अनुवादक हैं'),
+    title: L('Semak draf — anda penterjemah rekod', 'Review the draft — you are the translator of record', '审阅草稿——你是署名译者', 'வரைவை மறுஆய்வு செய்யுங்கள் — பதிவின் மொழிபெயர்ப்பாளர் நீங்களே', '下書きを確認する — あなたが記録上の翻訳者です', '초안 검토하기 — 귀하가 기록상의 번역자입니다', 'ตรวจทานร่าง — คุณคือผู้แปลอย่างเป็นทางการ', 'Rà soát bản nháp — bạn là dịch giả chính thức', 'Tinjau draf — Anda penerjemah yang tercatat', 'راجِع المسوّدة — أنت المترجم المعتمد', 'मसौदे की समीक्षा करें — आप अभिलेखगत अनुवादक हैं', 'Revisa el borrador — eres el traductor responsable'),
     body: L(
       'Jangan sekali-kali terbit secara membuta. Draf mendarat sebagai status: draft, translationStatus: pending, reviewer: null. Semak setiap angka, tarikh dan petikan terhadap induk. Anda menterjemah, bukan mengarang — jangan betulkan fakta secara senyap; laporkannya.',
       'Never blind-publish. The draft lands as status: draft, translationStatus: pending, reviewer: null. Check every figure, date and citation against the master. You are translating, not authoring — don’t silently fix facts; report them.',
@@ -69,12 +71,13 @@ const steps = [
       'Jangan sekali-kali menerbitkan tanpa memeriksa. Draf dibuat dengan status: draft, translationStatus: pending, reviewer: null. Periksa setiap angka, tanggal dan kutipan terhadap induk. Anda menerjemahkan, bukan mengarang — jangan memperbaiki fakta secara diam-diam; laporkan saja.',
       'لا تنشر مطلقًا دون مراجعة. تَرِد المسوّدة بالحالة status: draft، translationStatus: pending، reviewer: null. تحقّق من كل رقم وتاريخ واستشهاد مقابل النسخة الأصلية. أنت تترجم ولا تؤلّف — لا تصحّح الحقائق في صمت؛ بل أبلِغ عنها.',
       'कभी भी बिना जाँचे प्रकाशित न करें। मसौदा status: draft, translationStatus: pending, reviewer: null के रूप में आता है। हर आँकड़े, तारीख और उद्धरण का मूल से मिलान करें। आप अनुवाद कर रहे हैं, रचना नहीं — तथ्यों को चुपचाप न सुधारें; उनकी रिपोर्ट करें।',
+      'Nunca publiques a ciegas. El borrador llega como status: draft, translationStatus: pending, reviewer: null. Comprueba cada cifra, fecha y cita contra el maestro. Estás traduciendo, no redactando — no corrijas hechos en silencio; repórtalos.',
     ),
     code: null,
   },
   {
     n: 5,
-    title: L('Cap & buka pull request', 'Stamp & open a pull request', '标记并发起 pull request', 'முத்திரையிட்டு pull request-ஐத் திறக்கவும்', 'スタンプして pull request を作成する', '스탬프 후 pull request 열기', 'ประทับตราและเปิด pull request', 'Đóng dấu & mở một pull request', 'Cap & buka pull request', 'اختِم وافتح pull request', 'स्टैंप करें और एक pull request खोलें'),
+    title: L('Cap & buka pull request', 'Stamp & open a pull request', '标记并发起 pull request', 'முத்திரையிட்டு pull request-ஐத் திறக்கவும்', 'スタンプして pull request を作成する', '스탬프 후 pull request 열기', 'ประทับตราและเปิด pull request', 'Đóng dấu & mở một pull request', 'Cap & buka pull request', 'اختِم وافتح pull request', 'स्टैंप करें और एक pull request खोलें', 'Sella y abre un pull request'),
     body: L(
       'Rakam versi induk yang anda terjemah, kemudian buka PR untuk semakan.',
       'Record which master version you translated, then open a PR for review.',
@@ -87,26 +90,27 @@ const steps = [
       'Catat versi induk yang Anda terjemahkan, lalu buka PR untuk ditinjau.',
       'سجّل نسخة النص الأصلي التي ترجمتها، ثم افتح PR للمراجعة.',
       'रिकॉर्ड करें कि आपने मूल का कौन-सा संस्करण अनुवादित किया, फिर समीक्षा के लिए एक PR खोलें।',
+      'Registra qué versión del maestro tradujiste, luego abre un PR para su revisión.',
     ),
     code: 'node scripts/sync.mjs && npm run translate:stamp',
   },
 ];
 
 const links = [
-  { href: `${REPO}/blob/main/docs/TRANSLATION-SPEC.md`, label: L('Spesifikasi terjemahan', 'Translation spec', '翻译规范', 'மொழிபெயர்ப்பு விவரக்குறிப்பு', '翻訳仕様書', '번역 사양서', 'ข้อกำหนดการแปล', 'Đặc tả bản dịch', 'Spesifikasi terjemahan', 'مواصفات الترجمة', 'अनुवाद विनिर्देश') },
-  { href: `${REPO}/blob/main/docs/plans/GLOSSARY-ZH.md`, label: L('Glosari Cina', 'Chinese glossary', '中文词汇表', 'சீன சொற்களஞ்சியம்', '中国語の用語集', '중국어 용어집', 'อภิธานศัพท์ภาษาจีน', 'Bảng thuật ngữ tiếng Trung', 'Glosarium Mandarin', 'مسرد المصطلحات الصيني', 'चीनी शब्दावली') },
-  { href: `${REPO}/blob/main/docs/plans/GLOSSARY-MS.md`, label: L('Glosari Melayu', 'Malay glossary', '马来文词汇表', 'மலாய் சொற்களஞ்சியம்', 'マレー語の用語集', '말레이어 용어집', 'อภิธานศัพท์ภาษามลายู', 'Bảng thuật ngữ tiếng Mã Lai', 'Glosarium Melayu', 'مسرد المصطلحات الملايوي', 'मलय शब्दावली') },
+  { href: `${REPO}/blob/main/docs/TRANSLATION-SPEC.md`, label: L('Spesifikasi terjemahan', 'Translation spec', '翻译规范', 'மொழிபெயர்ப்பு விவரக்குறிப்பு', '翻訳仕様書', '번역 사양서', 'ข้อกำหนดการแปล', 'Đặc tả bản dịch', 'Spesifikasi terjemahan', 'مواصفات الترجمة', 'अनुवाद विनिर्देश', 'Especificación de traducción') },
+  { href: `${REPO}/blob/main/docs/plans/GLOSSARY-ZH.md`, label: L('Glosari Cina', 'Chinese glossary', '中文词汇表', 'சீன சொற்களஞ்சியம்', '中国語の用語集', '중국어 용어집', 'อภิธานศัพท์ภาษาจีน', 'Bảng thuật ngữ tiếng Trung', 'Glosarium Mandarin', 'مسرد المصطلحات الصيني', 'चीनी शब्दावली', 'Glosario chino') },
+  { href: `${REPO}/blob/main/docs/plans/GLOSSARY-MS.md`, label: L('Glosari Melayu', 'Malay glossary', '马来文词汇表', 'மலாய் சொற்களஞ்சியம்', 'マレー語の用語集', '말레이어 용어집', 'อภิธานศัพท์ภาษามลายู', 'Bảng thuật ngữ tiếng Mã Lai', 'Glosarium Melayu', 'مسرد المصطلحات الملايوي', 'मलय शब्दावली', 'Glosario malayo') },
 ];
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'मुख्य पृष्ठ'), href: localePath('/', locale) },
-    { label: L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献する', '기여하기', 'มีส่วนร่วม', 'Đóng góp', 'Berkontribusi', 'المساهمة', 'योगदान करें'), href: localePath('/contribute', locale) },
-    { label: L('Derma Token AI', 'Donate AI Tokens', '捐赠 AI Token', 'AI Token-களை நன்கொடையளியுங்கள்', 'AI トークンを寄付する', 'AI 토큰 후원', 'บริจาค AI Token', 'Quyên góp Token AI', 'Donasi Token AI', 'التبرع بتوكنات AI', 'AI टोकन दान करें') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'मुख्य पृष्ठ', 'Inicio'), href: localePath('/', locale) },
+    { label: L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献する', '기여하기', 'มีส่วนร่วม', 'Đóng góp', 'Berkontribusi', 'المساهمة', 'योगदान करें', 'Contribuir'), href: localePath('/contribute', locale) },
+    { label: L('Derma Token AI', 'Donate AI Tokens', '捐赠 AI Token', 'AI Token-களை நன்கொடையளியுங்கள்', 'AI トークンを寄付する', 'AI 토큰 후원', 'บริจาค AI Token', 'Quyên góp Token AI', 'Donasi Token AI', 'التبرع بتوكنات AI', 'AI टोकन दान करें', 'Donar tokens de IA') },
   ]}
-  title={L('Derma Token AI Anda', 'Donate Your AI Token', '捐赠你的 AI Token', 'உங்கள் AI Token-ஐ நன்கொடையளியுங்கள்', 'あなたの AI トークンを寄付する', 'AI 토큰 후원하기', 'บริจาค AI Token ของคุณ', 'Quyên góp Token AI của bạn', 'Donasi Token AI Anda', 'تبرّع بتوكن AI الخاص بك', 'अपने AI टोकन दान करें')}
+  title={L('Derma Token AI Anda', 'Donate Your AI Token', '捐赠你的 AI Token', 'உங்கள் AI Token-ஐ நன்கொடையளியுங்கள்', 'あなたの AI トークンを寄付する', 'AI 토큰 후원하기', 'บริจาค AI Token ของคุณ', 'Quyên góp Token AI của bạn', 'Donasi Token AI Anda', 'تبرّع بتوكن AI الخاص بك', 'अपने AI टोकन दान करें', 'Dona tu token de IA')}
   desc={L(
     'Bantu menterjemah pangkalan pengetahuan Malaysia menggunakan kunci Claude anda sendiri. Anda membelanjakan token anda; projek membelanjakan sifar. Terjemahan ialah keperluan terbuka terbesar kami.',
     'Help translate Malaysia’s knowledge base using your own Claude key. You spend your tokens; the project spends none. Translation is our single largest open need.',
@@ -119,6 +123,7 @@ const links = [
     'Bantu menerjemahkan basis pengetahuan Malaysia menggunakan kunci Claude Anda sendiri. Anda membelanjakan token Anda; proyek tidak mengeluarkan apa pun. Terjemahan adalah kebutuhan terbuka terbesar kami.',
     'ساعِد في ترجمة قاعدة المعارف الماليزية باستخدام مفتاح Claude الخاص بك. أنت تنفق توكناتك؛ والمشروع لا ينفق شيئًا. الترجمة هي أكبر احتياج مفتوح لدينا.',
     'अपनी स्वयं की Claude कुंजी का उपयोग करके मलेशिया की ज्ञान-संपदा का अनुवाद करने में मदद करें। आप अपने टोकन खर्च करते हैं; परियोजना शून्य खर्च करती है। अनुवाद हमारी सबसे बड़ी खुली आवश्यकता है।',
+    'Ayuda a traducir la base de conocimiento de Malasia usando tu propia clave de Claude. Tú gastas tus tokens; el proyecto no gasta nada. La traducción es nuestra mayor necesidad abierta.',
   )}
 />
 
@@ -138,6 +143,7 @@ const links = [
       'Setiap artikel perlu hidup dalam sepuluh bahasa. Menerjemahkan dengan token Anda sendiri menskalakan upaya ini tanpa biaya API terpusat — dan setiap draf ditinjau manusia sebelum diterbitkan.',
       'يجب أن يتوفّر كل مقال بعشر لغات. تُتيح الترجمة باستخدام توكناتك الخاصة توسيع هذا الجهد دون تكلفة API مركزية — وتُراجَع كل مسوّدة يدويًا على يد إنسان قبل نشرها.',
       'हर लेख को दस भाषाओं में उपलब्ध होना चाहिए। अपने स्वयं के टोकन से अनुवाद करने पर यह प्रयास केंद्रीय API लागत के बिना बड़े पैमाने पर बढ़ता है — और हर मसौदे की प्रकाशन से पहले मानव द्वारा समीक्षा की जाती है।',
+      'Cada artículo debe existir en diez idiomas. Traducir con tus propios tokens escala el esfuerzo sin costo central de API — y cada borrador es revisado por humanos antes de publicarse.',
     )}</p>
   </div>
 </section>
@@ -145,7 +151,7 @@ const links = [
 <!-- Steps -->
 <section class="container block">
   <div class="psec">
-    <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式', 'இது எவ்வாறு செயல்படுகிறது', '仕組み', '작동 방식', 'วิธีการทำงาน', 'Cách thức hoạt động', 'Cara kerjanya', 'كيف تعمل', 'यह कैसे काम करता है')}</span></header>
+    <header><span>{L('Cara ia berfungsi', 'How it works', '运作方式', 'இது எவ்வாறு செயல்படுகிறது', '仕組み', '작동 방식', 'วิธีการทำงาน', 'Cách thức hoạt động', 'Cara kerjanya', 'كيف تعمل', 'यह कैसे काम करता है', 'Cómo funciona')}</span></header>
     <div class="psec-body">
       <ol class="steps">
         {steps.map((s) => (
@@ -157,7 +163,7 @@ const links = [
               {s.code && (
                 <div class="cmd">
                   <code>{s.code}</code>
-                  <button type="button" class="copy" data-copy={s.code} aria-label={L('Salin', 'Copy', '复制', 'நகலெடு', 'コピー', '복사', 'คัดลอก', 'Sao chép', 'Salin', 'نسخ', 'कॉपी करें')}>⧉</button>
+                  <button type="button" class="copy" data-copy={s.code} aria-label={L('Salin', 'Copy', '复制', 'நகலெடு', 'コピー', '복사', 'คัดลอก', 'Sao chép', 'Salin', 'نسخ', 'कॉपी करें', 'Copiar')}>⧉</button>
                 </div>
               )}
               {s.link && <a class="steplink" href={s.link.href} rel="noopener">{s.link.label} <span class="dirx">↗</span></a>}
@@ -172,7 +178,7 @@ const links = [
 <!-- The one rule + references -->
 <section class="container block two">
   <div class="psec">
-    <header><span>{L('Satu peraturan yang penting', 'The one rule that matters', '唯一重要的规则', 'முக்கியமான ஒரே விதி', '守るべき唯一のルール', '가장 중요한 한 가지 규칙', 'กฎข้อเดียวที่สำคัญ', 'Quy tắc duy nhất quan trọng', 'Satu aturan yang penting', 'القاعدة الوحيدة المهمة', 'एकमात्र नियम जो मायने रखता है')}</span></header>
+    <header><span>{L('Satu peraturan yang penting', 'The one rule that matters', '唯一重要的规则', 'முக்கியமான ஒரே விதி', '守るべき唯一のルール', '가장 중요한 한 가지 규칙', 'กฎข้อเดียวที่สำคัญ', 'Quy tắc duy nhất quan trọng', 'Satu aturan yang penting', 'القاعدة الوحيدة المهمة', 'एकमात्र नियम जो मायने रखता है', 'La única regla que importa')}</span></header>
     <div class="psec-body">
       <p class="lead">{L(
         'Anda menterjemah, bukan mengarang. Setiap angka, tarikh dan petikan dalam induk telah disahkan terhadap sumber utama. Jika sesuatu kelihatan salah, terjemah dengan setia dan laporkannya — jangan betulkan secara senyap.',
@@ -186,6 +192,7 @@ const links = [
         'Anda menerjemahkan, bukan mengarang. Setiap angka, tanggal dan kutipan dalam induk telah diverifikasi terhadap sumber primer. Jika ada yang tampak salah, terjemahkan dengan setia dan laporkan — jangan memperbaikinya secara diam-diam.',
         'أنت تترجم ولا تؤلّف. كل رقم وتاريخ واستشهاد في النص الأصلي جرى التحقق منه مقابل مصدر أولي. إذا بدا شيء خاطئًا، فترجمه بأمانة وأبلِغ عنه — لا تصحّحه في صمت.',
         'आप अनुवाद कर रहे हैं, रचना नहीं। मूल में हर आँकड़ा, तारीख और उद्धरण किसी प्राथमिक स्रोत से सत्यापित किया गया है। यदि कुछ गलत लगे, तो उसका निष्ठापूर्वक अनुवाद करें और रिपोर्ट करें — उसे चुपचाप न सुधारें।',
+        'Estás traduciendo, no redactando. Cada cifra, fecha y cita del maestro fue verificada contra una fuente primaria. Si algo parece incorrecto, tradúcelo con fidelidad y repórtalo — no lo corrijas en silencio.',
       )}</p>
       <p class="muted">{L(
         'Draf mesin tidak pernah diterbitkan secara automatik. Ia menunggu semakan manusia dan kelulusan penyemak, sama seperti mana-mana sumbangan.',
@@ -199,15 +206,16 @@ const links = [
         'Draf mesin tidak pernah diterbitkan secara otomatis. Ia menunggu tinjauan manusia dan persetujuan peninjau, sama seperti kontribusi apa pun.',
         'لا تُنشَر المسوّدات الآلية تلقائيًا أبدًا. فهي تنتظر مراجعة بشرية وموافقة مُراجِع، شأنها شأن أي مساهمة.',
         'मशीनी मसौदे कभी स्वतः प्रकाशित नहीं होते। किसी भी योगदान की तरह, वे मानव समीक्षा और समीक्षक की स्वीकृति की प्रतीक्षा करते हैं।',
+        'Los borradores automáticos nunca se publican de forma automática. Esperan la revisión humana y la aprobación de un revisor, como cualquier contribución.',
       )}</p>
     </div>
   </div>
   <div class="psec">
-    <header><span>{L('Rujukan', 'References', '参考', 'குறிப்புகள்', '参考資料', '참고 자료', 'เอกสารอ้างอิง', 'Tài liệu tham khảo', 'Referensi', 'المراجع', 'संदर्भ')}</span></header>
+    <header><span>{L('Rujukan', 'References', '参考', 'குறிப்புகள்', '参考資料', '참고 자료', 'เอกสารอ้างอิง', 'Tài liệu tham khảo', 'Referensi', 'المراجع', 'संदर्भ', 'Referencias')}</span></header>
     <div class="psec-body links">
       {links.map((l) => <a href={l.href} rel="noopener">{l.label} <span class="dirx">↗</span></a>)}
-      <a href={localePath('/roles', locale)}>{L('Peranan & cara ia berfungsi', 'Roles & how it works', '角色与运作方式', 'பங்குகள் & அவை எவ்வாறு செயல்படுகின்றன', '役割と仕組み', '역할과 작동 방식', 'บทบาทและวิธีการทำงาน', 'Vai trò & cách thức hoạt động', 'Peran & cara kerjanya', 'الأدوار وكيفية عملها', 'भूमिकाएँ और यह कैसे काम करता है')} <span class="dirx">→</span></a>
-      <a href={localePath('/contribute', locale)}>{L('Semua cara untuk menyumbang', 'All the ways to contribute', '所有贡献方式', 'பங்களிக்க அனைத்து வழிகளும்', '貢献するすべての方法', '기여하는 모든 방법', 'ทุกวิธีในการมีส่วนร่วม', 'Mọi cách để đóng góp', 'Semua cara untuk berkontribusi', 'جميع طرق المساهمة', 'योगदान करने के सभी तरीके')} <span class="dirx">→</span></a>
+      <a href={localePath('/roles', locale)}>{L('Peranan & cara ia berfungsi', 'Roles & how it works', '角色与运作方式', 'பங்குகள் & அவை எவ்வாறு செயல்படுகின்றன', '役割と仕組み', '역할과 작동 방식', 'บทบาทและวิธีการทำงาน', 'Vai trò & cách thức hoạt động', 'Peran & cara kerjanya', 'الأدوار وكيفية عملها', 'भूमिकाएँ और यह कैसे काम करता है', 'Roles y cómo funciona')} <span class="dirx">→</span></a>
+      <a href={localePath('/contribute', locale)}>{L('Semua cara untuk menyumbang', 'All the ways to contribute', '所有贡献方式', 'பங்களிக்க அனைத்து வழிகளும்', '貢献するすべての方法', '기여하는 모든 방법', 'ทุกวิธีในการมีส่วนร่วม', 'Mọi cách để đóng góp', 'Semua cara untuk berkontribusi', 'جميع طرق المساهمة', 'योगदान करने के सभी तरीके', 'Todas las formas de contribuir')} <span class="dirx">→</span></a>
     </div>
   </div>
 </section>

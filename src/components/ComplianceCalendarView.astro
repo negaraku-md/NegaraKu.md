@@ -17,7 +17,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const articles = await articlesForLocale(locale);
 
@@ -110,31 +110,31 @@ unique.sort((a, b) => {
 });
 
 const triggerLabel: Record<string, string> = {
-  incorporation: L('Selepas penubuhan', 'After incorporation', '公司成立后', 'நிறுவனப் பதிவுக்குப் பிறகு', '設立後', '설립 후', 'หลังการจดทะเบียนจัดตั้ง', 'Sau khi thành lập', 'Setelah pendirian', 'بعد التأسيس', 'निगमन के बाद'),
-  monthly: L('Setiap bulan', 'Every month', '每月', 'ஒவ்வொரு மாதமும்', '毎月', '매월', 'ทุกเดือน', 'Hằng tháng', 'Setiap bulan', 'كل شهر', 'हर महीने'),
-  event: L('Selepas sesuatu peristiwa', 'After an event', '事件发生后', 'ஒரு நிகழ்வுக்குப் பிறகு', 'イベント後', '이벤트 발생 후', 'หลังเกิดเหตุการณ์', 'Sau một sự kiện', 'Setelah suatu peristiwa', 'بعد وقوع حدث', 'किसी घटना के बाद'),
-  anniversary: L('Setiap ulang tahun', 'Every anniversary', '每年周年', 'ஒவ்வொரு ஆண்டு நிறைவிலும்', '設立記念日ごと', '매년 기념일', 'ทุกปีครบรอบ', 'Mỗi dịp kỷ niệm', 'Setiap ulang tahun', 'في كل ذكرى سنوية', 'हर वर्षगाँठ पर'),
-  change: L('Apabila berlaku perubahan', 'When something changes', '发生变动时', 'ஏதேனும் மாறும்போது', '変更が生じたとき', '변경이 있을 때', 'เมื่อมีการเปลี่ยนแปลง', 'Khi có thay đổi', 'Ketika terjadi perubahan', 'عند حدوث تغيير', 'जब कोई बदलाव हो'),
-  'financial-year-end': L('Akhir tahun kewangan', 'Financial year end', '财政年结', 'நிதியாண்டு இறுதி', '会計年度末', '회계연도 말', 'สิ้นปีบัญชี', 'Cuối năm tài chính', 'Akhir tahun keuangan', 'نهاية السنة المالية', 'वित्तीय वर्ष की समाप्ति'),
-  ongoing: L('Berterusan', 'Ongoing', '持续义务', 'தொடர்ச்சியான', '継続的', '상시', 'ต่อเนื่อง', 'Liên tục', 'Berkelanjutan', 'مستمر', 'निरंतर'),
+  incorporation: L('Selepas penubuhan', 'After incorporation', '公司成立后', 'நிறுவனப் பதிவுக்குப் பிறகு', '設立後', '설립 후', 'หลังการจดทะเบียนจัดตั้ง', 'Sau khi thành lập', 'Setelah pendirian', 'بعد التأسيس', 'निगमन के बाद', 'Tras la constitución'),
+  monthly: L('Setiap bulan', 'Every month', '每月', 'ஒவ்வொரு மாதமும்', '毎月', '매월', 'ทุกเดือน', 'Hằng tháng', 'Setiap bulan', 'كل شهر', 'हर महीने', 'Cada mes'),
+  event: L('Selepas sesuatu peristiwa', 'After an event', '事件发生后', 'ஒரு நிகழ்வுக்குப் பிறகு', 'イベント後', '이벤트 발생 후', 'หลังเกิดเหตุการณ์', 'Sau một sự kiện', 'Setelah suatu peristiwa', 'بعد وقوع حدث', 'किसी घटना के बाद', 'Tras un evento'),
+  anniversary: L('Setiap ulang tahun', 'Every anniversary', '每年周年', 'ஒவ்வொரு ஆண்டு நிறைவிலும்', '設立記念日ごと', '매년 기념일', 'ทุกปีครบรอบ', 'Mỗi dịp kỷ niệm', 'Setiap ulang tahun', 'في كل ذكرى سنوية', 'हर वर्षगाँठ पर', 'Cada aniversario'),
+  change: L('Apabila berlaku perubahan', 'When something changes', '发生变动时', 'ஏதேனும் மாறும்போது', '変更が生じたとき', '변경이 있을 때', 'เมื่อมีการเปลี่ยนแปลง', 'Khi có thay đổi', 'Ketika terjadi perubahan', 'عند حدوث تغيير', 'जब कोई बदलाव हो', 'Cuando algo cambia'),
+  'financial-year-end': L('Akhir tahun kewangan', 'Financial year end', '财政年结', 'நிதியாண்டு இறுதி', '会計年度末', '회계연도 말', 'สิ้นปีบัญชี', 'Cuối năm tài chính', 'Akhir tahun keuangan', 'نهاية السنة المالية', 'वित्तीय वर्ष की समाप्ति', 'Cierre del año fiscal'),
+  ongoing: L('Berterusan', 'Ongoing', '持续义务', 'தொடர்ச்சியான', '継続的', '상시', 'ต่อเนื่อง', 'Liên tục', 'Berkelanjutan', 'مستمر', 'निरंतर', 'Continuo'),
 };
 
 // Localized strings the client script needs for threshold applicability results
 // (the script is plain JS, so it can't call L() — it reads this serialized dict).
 const ccMsg = {
-  applies: L('Berkenaan dengan anda', 'Applies to you', '对你适用', 'உங்களுக்குப் பொருந்தும்', 'あなたに該当', '귀하에게 해당됨', 'ใช้กับคุณ', 'Áp dụng cho bạn', 'Berlaku untuk Anda', 'ينطبق عليك', 'आप पर लागू होता है'),
-  below: L('Bawah ambang — tidak berkenaan', 'Below threshold — does not apply', '未达门槛 — 不适用', 'வரம்புக்குக் கீழ் — பொருந்தாது', '基準未満 — 該当なし', '기준 미만 — 해당 없음', 'ต่ำกว่าเกณฑ์ — ไม่เกี่ยวข้อง', 'Dưới ngưỡng — không áp dụng', 'Di bawah ambang — tidak berlaku', 'دون الحد الأدنى — لا ينطبق', 'सीमा से नीचे — लागू नहीं'),
-  exempt: L('Dikecualikan — anda layak', 'Exempt — you qualify', '可豁免 — 你符合资格', 'விலக்கு — நீங்கள் தகுதி', '免除 — 条件を満たす', '면제 — 자격 충족', 'ได้รับการยกเว้น — คุณมีคุณสมบัติ', 'Được miễn — bạn đủ điều kiện', 'Dikecualikan — Anda memenuhi syarat', 'معفى — أنت مؤهل', 'छूट प्राप्त — आप पात्र हैं'),
-  notExempt: L('Tidak dikecualikan — diperlukan', 'Not exempt — required', '不豁免 — 需履行', 'விலக்கு இல்லை — தேவை', '免除対象外 — 必要', '면제 아님 — 필요함', 'ไม่ได้รับการยกเว้น — จำเป็นต้องปฏิบัติ', 'Không được miễn — bắt buộc', 'Tidak dikecualikan — diwajibkan', 'غير معفى — مطلوب', 'छूट नहीं — आवश्यक'),
-  needSize: L('Isi saiz syarikat di atas', 'Enter your company size above', '请在上方填写公司规模', 'மேலே நிறுவன அளவை உள்ளிடுங்கள்', '上に会社規模を入力してください', '위에 회사 규모를 입력하세요', 'กรอกขนาดบริษัทของคุณด้านบน', 'Nhập quy mô công ty của bạn ở trên', 'Isi ukuran perusahaan di atas', 'أدخل حجم شركتك أعلاه', 'ऊपर अपनी कंपनी का आकार दर्ज करें'),
+  applies: L('Berkenaan dengan anda', 'Applies to you', '对你适用', 'உங்களுக்குப் பொருந்தும்', 'あなたに該当', '귀하에게 해당됨', 'ใช้กับคุณ', 'Áp dụng cho bạn', 'Berlaku untuk Anda', 'ينطبق عليك', 'आप पर लागू होता है', 'Te aplica'),
+  below: L('Bawah ambang — tidak berkenaan', 'Below threshold — does not apply', '未达门槛 — 不适用', 'வரம்புக்குக் கீழ் — பொருந்தாது', '基準未満 — 該当なし', '기준 미만 — 해당 없음', 'ต่ำกว่าเกณฑ์ — ไม่เกี่ยวข้อง', 'Dưới ngưỡng — không áp dụng', 'Di bawah ambang — tidak berlaku', 'دون الحد الأدنى — لا ينطبق', 'सीमा से नीचे — लागू नहीं', 'Por debajo del umbral — no aplica'),
+  exempt: L('Dikecualikan — anda layak', 'Exempt — you qualify', '可豁免 — 你符合资格', 'விலக்கு — நீங்கள் தகுதி', '免除 — 条件を満たす', '면제 — 자격 충족', 'ได้รับการยกเว้น — คุณมีคุณสมบัติ', 'Được miễn — bạn đủ điều kiện', 'Dikecualikan — Anda memenuhi syarat', 'معفى — أنت مؤهل', 'छूट प्राप्त — आप पात्र हैं', 'Exento — cumples los requisitos'),
+  notExempt: L('Tidak dikecualikan — diperlukan', 'Not exempt — required', '不豁免 — 需履行', 'விலக்கு இல்லை — தேவை', '免除対象外 — 必要', '면제 아님 — 필요함', 'ไม่ได้รับการยกเว้น — จำเป็นต้องปฏิบัติ', 'Không được miễn — bắt buộc', 'Tidak dikecualikan — diwajibkan', 'غير معفى — مطلوب', 'छूट नहीं — आवश्यक', 'No exento — obligatorio'),
+  needSize: L('Isi saiz syarikat di atas', 'Enter your company size above', '请在上方填写公司规模', 'மேலே நிறுவன அளவை உள்ளிடுங்கள்', '上に会社規模を入力してください', '위에 회사 규모를 입력하세요', 'กรอกขนาดบริษัทของคุณด้านบน', 'Nhập quy mô công ty của bạn ở trên', 'Isi ukuran perusahaan di atas', 'أدخل حجم شركتك أعلاه', 'ऊपर अपनी कंपनी का आकार दर्ज करें', 'Introduce el tamaño de tu empresa arriba'),
 };
 
 const groups = [...new Set(unique.map((r) => r.trigger))];
 ---
 
 <section class="container block">
-  <p class="eyebrow">{L('Alat', 'Tool', '工具', 'கருவி', 'ツール', '도구', 'เครื่องมือ', 'Công cụ', 'Alat', 'أداة', 'उपकरण')}</p>
-  <h1>{L('Kalendar Pematuhan', 'Compliance Calendar', '合规日历', 'இணக்க நாட்காட்டி', 'コンプライアンスカレンダー', '규정 준수 달력', 'ปฏิทินการปฏิบัติตามกฎ', 'Lịch tuân thủ', 'Kalender Kepatuhan', 'تقويم الامتثال', 'अनुपालन कैलेंडर')}</h1>
+  <p class="eyebrow">{L('Alat', 'Tool', '工具', 'கருவி', 'ツール', '도구', 'เครื่องมือ', 'Công cụ', 'Alat', 'أداة', 'उपकरण', 'Herramienta')}</p>
+  <h1>{L('Kalendar Pematuhan', 'Compliance Calendar', '合规日历', 'இணக்க நாட்காட்டி', 'コンプライアンスカレンダー', '규정 준수 달력', 'ปฏิทินการปฏิบัติตามกฎ', 'Lịch tuân thủ', 'Kalender Kepatuhan', 'تقويم الامتثال', 'अनुपालन कैलेंडर', 'Calendario de cumplimiento')}</h1>
   <p class="lede">
     {L(
       'Kewajipan berkanun bermula pada hari syarikat anda ditubuhkan — dan tiada siapa akan mengingatkan anda. Isi tarikh penubuhan, akhir tahun kewangan atau tarikh peristiwa untuk melihat tarikh akhir sebenar anda. Kewajipan bulanan (cth. KWSP) sentiasa menunjukkan tarikh seterusnya.',
@@ -148,40 +148,41 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
       'Kewajiban hukum dimulai pada hari perusahaan Anda didirikan — dan tidak ada yang akan mengingatkan Anda. Isi tanggal pendirian, akhir tahun keuangan atau tanggal peristiwa untuk melihat tenggat waktu Anda yang sebenarnya. Kewajiban bulanan (mis. KWSP) selalu menampilkan tanggal berikutnya.',
       'تبدأ الواجبات القانونية في اليوم الذي تُؤسَّس فيه شركتك — ولا أحد يرسل تذكيرًا. أدخِل تاريخ التأسيس أو نهاية السنة المالية أو تاريخ حدث لرؤية المواعيد النهائية الفعلية الخاصة بك. تُظهِر الواجبات الشهرية (مثل EPF) دائمًا التاريخ التالي.',
       'वैधानिक कर्तव्य उसी दिन से शुरू हो जाते हैं जिस दिन आपकी कंपनी का निगमन होता है — और कोई अनुस्मारक नहीं भेजता। अपनी वास्तविक समय-सीमाएँ देखने के लिए निगमन तिथि, वित्तीय वर्ष की समाप्ति या किसी घटना की तिथि दर्ज करें। मासिक कर्तव्य (जैसे EPF) हमेशा अगली तिथि दिखाते हैं।',
+      'Los deberes legales comienzan el día en que se constituye tu empresa — y nadie te envía un recordatorio. Introduce la fecha de constitución, el cierre del año fiscal o una fecha de evento para ver tus plazos reales. Los deberes mensuales (p. ej. EPF) siempre muestran la próxima fecha.',
     )}
   </p>
 
   <div class="datebar">
     <div class="field">
-      <label for="inc">{L('Tarikh penubuhan', 'Incorporation date', '公司成立日期', 'நிறுவனப் பதிவு தேதி', '設立日', '설립일', 'วันจดทะเบียนจัดตั้ง', 'Ngày thành lập', 'Tanggal pendirian', 'تاريخ التأسيس', 'निगमन तिथि')}</label>
+      <label for="inc">{L('Tarikh penubuhan', 'Incorporation date', '公司成立日期', 'நிறுவனப் பதிவு தேதி', '設立日', '설립일', 'วันจดทะเบียนจัดตั้ง', 'Ngày thành lập', 'Tanggal pendirian', 'تاريخ التأسيس', 'निगमन तिथि', 'Fecha de constitución')}</label>
       <input type="date" id="inc" />
     </div>
     <div class="field">
-      <label for="fye">{L('Akhir tahun kewangan', 'Financial year end', '财政年结日', 'நிதியாண்டு இறுதி', '会計年度末', '회계연도 말', 'สิ้นปีบัญชี', 'Cuối năm tài chính', 'Akhir tahun keuangan', 'نهاية السنة المالية', 'वित्तीय वर्ष की समाप्ति')}</label>
+      <label for="fye">{L('Akhir tahun kewangan', 'Financial year end', '财政年结日', 'நிதியாண்டு இறுதி', '会計年度末', '회계연도 말', 'สิ้นปีบัญชี', 'Cuối năm tài chính', 'Akhir tahun keuangan', 'نهاية السنة المالية', 'वित्तीय वर्ष की समाप्ति', 'Cierre del año fiscal')}</label>
       <input type="date" id="fye" />
     </div>
     <div class="field">
-      <label for="evt">{L('Tarikh peristiwa', 'Event date', '事件日期', 'நிகழ்வு தேதி', 'イベント日', '이벤트 날짜', 'วันที่เกิดเหตุการณ์', 'Ngày sự kiện', 'Tanggal peristiwa', 'تاريخ الحدث', 'घटना की तिथि')}</label>
+      <label for="evt">{L('Tarikh peristiwa', 'Event date', '事件日期', 'நிகழ்வு தேதி', 'イベント日', '이벤트 날짜', 'วันที่เกิดเหตุการณ์', 'Ngày sự kiện', 'Tanggal peristiwa', 'تاريخ الحدث', 'घटना की तिथि', 'Fecha del evento')}</label>
       <input type="date" id="evt" />
-      <small class="hint">{L('cth. tarikh bayaran / AGM', 'e.g. payment / AGM date', '如付款 / 股东大会日期', 'எ.கா. கட்டணம் / AGM தேதி', '例：支払い / 株主総会の日付', '예: 지급 / 주주총회(AGM) 날짜', 'เช่น วันที่ชำระเงิน / AGM', 'ví dụ: ngày thanh toán / AGM', 'mis. tanggal pembayaran / AGM', 'مثل تاريخ الدفع / AGM', 'जैसे भुगतान / AGM की तिथि')}</small>
+      <small class="hint">{L('cth. tarikh bayaran / AGM', 'e.g. payment / AGM date', '如付款 / 股东大会日期', 'எ.கா. கட்டணம் / AGM தேதி', '例：支払い / 株主総会の日付', '예: 지급 / 주주총회(AGM) 날짜', 'เช่น วันที่ชำระเงิน / AGM', 'ví dụ: ngày thanh toán / AGM', 'mis. tanggal pembayaran / AGM', 'مثل تاريخ الدفع / AGM', 'जैसे भुगतान / AGM की तिथि', 'p. ej. fecha de pago / AGM')}</small>
     </div>
-    <button id="clear" type="button">{L('Kosongkan', 'Clear', '清除', 'அழி', 'クリア', '지우기', 'ล้าง', 'Xóa', 'Kosongkan', 'مسح', 'साफ़ करें')}</button>
+    <button id="clear" type="button">{L('Kosongkan', 'Clear', '清除', 'அழி', 'クリア', '지우기', 'ล้าง', 'Xóa', 'Kosongkan', 'مسح', 'साफ़ करें', 'Borrar')}</button>
   </div>
 
   <div class="datebar sizebar">
     <div class="field">
-      <label for="turnover">{L('Pusing ganti / hasil tahunan (RM)', 'Annual turnover / revenue (RM)', '年营业额 / 收入 (RM)', 'ஆண்டு விற்றுமுதல் / வருவாய் (RM)', '年間売上高 / 収入 (RM)', '연간 매출액 / 수익 (RM)', 'ยอดขาย / รายได้ต่อปี (RM)', 'Doanh thu / thu nhập hằng năm (RM)', 'Omzet / pendapatan tahunan (RM)', 'رقم الأعمال / الإيرادات السنوية (RM)', 'वार्षिक कारोबार / राजस्व (RM)')}</label>
+      <label for="turnover">{L('Pusing ganti / hasil tahunan (RM)', 'Annual turnover / revenue (RM)', '年营业额 / 收入 (RM)', 'ஆண்டு விற்றுமுதல் / வருவாய் (RM)', '年間売上高 / 収入 (RM)', '연간 매출액 / 수익 (RM)', 'ยอดขาย / รายได้ต่อปี (RM)', 'Doanh thu / thu nhập hằng năm (RM)', 'Omzet / pendapatan tahunan (RM)', 'رقم الأعمال / الإيرادات السنوية (RM)', 'वार्षिक कारोबार / राजस्व (RM)', 'Facturación / ingresos anuales (RM)')}</label>
       <input type="number" id="turnover" min="0" step="1000" inputmode="numeric" />
     </div>
     <div class="field">
-      <label for="assets">{L('Jumlah aset (RM)', 'Total assets (RM)', '总资产 (RM)', 'மொத்த சொத்துகள் (RM)', '総資産 (RM)', '총자산 (RM)', 'สินทรัพย์รวม (RM)', 'Tổng tài sản (RM)', 'Total aset (RM)', 'إجمالي الأصول (RM)', 'कुल संपत्ति (RM)')}</label>
+      <label for="assets">{L('Jumlah aset (RM)', 'Total assets (RM)', '总资产 (RM)', 'மொத்த சொத்துகள் (RM)', '総資産 (RM)', '총자산 (RM)', 'สินทรัพย์รวม (RM)', 'Tổng tài sản (RM)', 'Total aset (RM)', 'إجمالي الأصول (RM)', 'कुल संपत्ति (RM)', 'Activos totales (RM)')}</label>
       <input type="number" id="assets" min="0" step="1000" inputmode="numeric" />
     </div>
     <div class="field">
-      <label for="employees">{L('Bilangan pekerja', 'Employees', '员工人数', 'பணியாளர்கள்', '従業員数', '직원 수', 'จำนวนพนักงาน', 'Số nhân viên', 'Jumlah karyawan', 'عدد الموظفين', 'कर्मचारियों की संख्या')}</label>
+      <label for="employees">{L('Bilangan pekerja', 'Employees', '员工人数', 'பணியாளர்கள்', '従業員数', '직원 수', 'จำนวนพนักงาน', 'Số nhân viên', 'Jumlah karyawan', 'عدد الموظفين', 'कर्मचारियों की संख्या', 'Empleados')}</label>
       <input type="number" id="employees" min="0" step="1" inputmode="numeric" />
     </div>
-    <small class="hint">{L('Untuk ambang cukai/audit (SST, e-Invois, pengecualian audit)', 'For tax/audit thresholds (SST, e-Invoice, audit exemption)', '用于税务/审计门槛（SST、电子发票、审计豁免）', 'வரி/தணிக்கை வரம்புகளுக்கு (SST, மின்-விலைப்பட்டியல், தணிக்கை விலக்கு)', '税務／監査の基準用（SST、電子インボイス、監査免除）', '세무/감사 기준용 (SST, 전자 인보이스, 감사 면제)', 'สำหรับเกณฑ์ภาษี/การตรวจสอบบัญชี (SST, e-Invoice, การยกเว้นการตรวจสอบบัญชี)', 'Cho các ngưỡng thuế/kiểm toán (SST, e-Invoice, miễn kiểm toán)', 'Untuk ambang pajak/audit (SST, e-Invois, pengecualian audit)', 'لحدود الضرائب/التدقيق (SST، e-Invoice، إعفاء التدقيق)', 'कर/ऑडिट सीमाओं के लिए (SST, e-Invoice, ऑडिट छूट)')}</small>
+    <small class="hint">{L('Untuk ambang cukai/audit (SST, e-Invois, pengecualian audit)', 'For tax/audit thresholds (SST, e-Invoice, audit exemption)', '用于税务/审计门槛（SST、电子发票、审计豁免）', 'வரி/தணிக்கை வரம்புகளுக்கு (SST, மின்-விலைப்பட்டியல், தணிக்கை விலக்கு)', '税務／監査の基準用（SST、電子インボイス、監査免除）', '세무/감사 기준용 (SST, 전자 인보이스, 감사 면제)', 'สำหรับเกณฑ์ภาษี/การตรวจสอบบัญชี (SST, e-Invoice, การยกเว้นการตรวจสอบบัญชี)', 'Cho các ngưỡng thuế/kiểm toán (SST, e-Invoice, miễn kiểm toán)', 'Untuk ambang pajak/audit (SST, e-Invois, pengecualian audit)', 'لحدود الضرائب/التدقيق (SST، e-Invoice، إعفاء التدقيق)', 'कर/ऑडिट सीमाओं के लिए (SST, e-Invoice, ऑडिट छूट)', 'Para umbrales fiscales/de auditoría (SST, e-Invoice, exención de auditoría)')}</small>
   </div>
 
   {
@@ -195,10 +196,10 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
             </colgroup>
             <thead>
               <tr>
-                <th>{L('Kewajipan', 'Obligation', '义务', 'கடமை', '義務', '의무', 'ภาระผูกพัน', 'Nghĩa vụ', 'Kewajiban', 'الالتزام', 'दायित्व')}</th>
-                <th>{L('Tarikh akhir', 'Deadline', '截止', 'இறுதி தேதி', '期限', '기한', 'กำหนดเส้นตาย', 'Hạn chót', 'Tenggat waktu', 'الموعد النهائي', 'समय-सीमा')}</th>
-                <th class="due-col">{L('Untuk anda', 'For you', '对你而言', 'உங்களுக்கு', 'あなたの場合', '귀하의 경우', 'สำหรับคุณ', 'Đối với bạn', 'Untuk Anda', 'بالنسبة إليك', 'आपके लिए')}</th>
-                <th>{L('Kepada', 'Owed to', '主管机构', 'யாருக்கு', '提出先', '제출 대상', 'ต่อหน่วยงาน', 'Nộp cho', 'Kepada', 'يُقدَّم إلى', 'किसे देय')}</th>
+                <th>{L('Kewajipan', 'Obligation', '义务', 'கடமை', '義務', '의무', 'ภาระผูกพัน', 'Nghĩa vụ', 'Kewajiban', 'الالتزام', 'दायित्व', 'Obligación')}</th>
+                <th>{L('Tarikh akhir', 'Deadline', '截止', 'இறுதி தேதி', '期限', '기한', 'กำหนดเส้นตาย', 'Hạn chót', 'Tenggat waktu', 'الموعد النهائي', 'समय-सीमा', 'Fecha límite')}</th>
+                <th class="due-col">{L('Untuk anda', 'For you', '对你而言', 'உங்களுக்கு', 'あなたの場合', '귀하의 경우', 'สำหรับคุณ', 'Đối với bạn', 'Untuk Anda', 'بالنسبة إليك', 'आपके लिए', 'Para ti')}</th>
+                <th>{L('Kepada', 'Owed to', '主管机构', 'யாருக்கு', '提出先', '제출 대상', 'ต่อหน่วยงาน', 'Nộp cho', 'Kepada', 'يُقدَّم إلى', 'किसे देय', 'Ante quién')}</th>
               </tr>
             </thead>
             <tbody>
@@ -244,6 +245,7 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
       'Setiap kewajiban di sini diambil langsung dari artikel yang menjelaskannya — klik untuk rincian lengkap. Ini panduan umum, bukan nasihat profesional.',
       'كل التزام هنا مأخوذ مباشرةً من المقال الذي يشرحه — انقر للاطلاع على التفاصيل الكاملة. هذا إرشاد عام وليس استشارة مهنية.',
       'यहाँ प्रत्येक दायित्व सीधे उस लेख से लिया गया है जो उसे समझाता है — पूर्ण विवरण के लिए क्लिक करें। यह सामान्य मार्गदर्शन है, पेशेवर सलाह नहीं।',
+      'Cada obligación aquí se toma directamente del artículo que la explica — haz clic para ver el detalle completo. Esto es orientación general, no asesoramiento profesional.',
     )}
   </p>
 </section>

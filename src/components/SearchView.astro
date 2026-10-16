@@ -9,24 +9,24 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const stats = await siteStats(locale);
 
 const I18N = {
   placeholder: t('search.placeholder', locale),
-  resultsFor: L('hasil untuk', 'results for', '条结果', 'முடிவுகள்', '件の検索結果', '개 검색 결과', 'ผลลัพธ์สำหรับ', 'kết quả cho', 'hasil untuk', 'نتيجة لـ', 'के लिए परिणाम'),
-  noResults: L('Tiada hasil untuk', 'No results for', '未找到结果', 'முடிவுகள் எதுவும் இல்லை', '結果が見つかりません:', '검색 결과 없음:', 'ไม่พบผลลัพธ์สำหรับ', 'Không có kết quả cho', 'Tidak ada hasil untuk', 'لا نتائج لـ', 'कोई परिणाम नहीं'),
-  start: L('Taip untuk mencari seluruh korpus.', 'Type to search the whole corpus.', '输入以搜索整个语料库。', 'முழு தொகுப்பையும் தேட தட்டச்சு செய்யுங்கள்.', 'コーパス全体を検索するには入力してください。', '전체 코퍼스를 검색하려면 입력하세요.', 'พิมพ์เพื่อค้นหาทั่วทั้งคลังข้อมูล', 'Nhập để tìm kiếm toàn bộ kho nội dung.', 'Ketik untuk mencari seluruh korpus.', 'اكتب للبحث في المجموعة بأكملها.', 'पूरे कॉर्पस में खोजने के लिए टाइप करें।'),
-  building: L('Carian tidak tersedia buat masa ini. Sila cuba muat semula halaman.', 'Search is temporarily unavailable. Please try reloading the page.', '搜索暂时不可用。请尝试重新加载页面。', 'தேடல் தற்காலிகமாகக் கிடைக்கவில்லை. பக்கத்தை மீண்டும் ஏற்ற முயற்சிக்கவும்.', '検索は一時的に利用できません。ページを再読み込みしてください。', '검색을 일시적으로 사용할 수 없습니다. 페이지를 새로 고침해 주세요.', 'การค้นหาไม่พร้อมใช้งานชั่วคราว กรุณาลองโหลดหน้าใหม่', 'Tìm kiếm tạm thời không khả dụng. Vui lòng thử tải lại trang.', 'Pencarian tidak tersedia untuk saat ini. Silakan coba muat ulang halaman.', 'البحث غير متاح مؤقتًا. يُرجى محاولة إعادة تحميل الصفحة.', 'खोज अस्थायी रूप से अनुपलब्ध है। कृपया पृष्ठ को फिर से लोड करने का प्रयास करें।'),
-  rows: L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف', 'पंक्तियाँ'),
-  page: L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'صفحة', 'पृष्ठ'),
+  resultsFor: L('hasil untuk', 'results for', '条结果', 'முடிவுகள்', '件の検索結果', '개 검색 결과', 'ผลลัพธ์สำหรับ', 'kết quả cho', 'hasil untuk', 'نتيجة لـ', 'के लिए परिणाम', 'resultados para'),
+  noResults: L('Tiada hasil untuk', 'No results for', '未找到结果', 'முடிவுகள் எதுவும் இல்லை', '結果が見つかりません:', '검색 결과 없음:', 'ไม่พบผลลัพธ์สำหรับ', 'Không có kết quả cho', 'Tidak ada hasil untuk', 'لا نتائج لـ', 'कोई परिणाम नहीं', 'No hay resultados para'),
+  start: L('Taip untuk mencari seluruh korpus.', 'Type to search the whole corpus.', '输入以搜索整个语料库。', 'முழு தொகுப்பையும் தேட தட்டச்சு செய்யுங்கள்.', 'コーパス全体を検索するには入力してください。', '전체 코퍼스를 검색하려면 입력하세요.', 'พิมพ์เพื่อค้นหาทั่วทั้งคลังข้อมูล', 'Nhập để tìm kiếm toàn bộ kho nội dung.', 'Ketik untuk mencari seluruh korpus.', 'اكتب للبحث في المجموعة بأكملها.', 'पूरे कॉर्पस में खोजने के लिए टाइप करें।', 'Escribe para buscar en todo el corpus.'),
+  building: L('Carian tidak tersedia buat masa ini. Sila cuba muat semula halaman.', 'Search is temporarily unavailable. Please try reloading the page.', '搜索暂时不可用。请尝试重新加载页面。', 'தேடல் தற்காலிகமாகக் கிடைக்கவில்லை. பக்கத்தை மீண்டும் ஏற்ற முயற்சிக்கவும்.', '検索は一時的に利用できません。ページを再読み込みしてください。', '검색을 일시적으로 사용할 수 없습니다. 페이지를 새로 고침해 주세요.', 'การค้นหาไม่พร้อมใช้งานชั่วคราว กรุณาลองโหลดหน้าใหม่', 'Tìm kiếm tạm thời không khả dụng. Vui lòng thử tải lại trang.', 'Pencarian tidak tersedia untuk saat ini. Silakan coba muat ulang halaman.', 'البحث غير متاح مؤقتًا. يُرجى محاولة إعادة تحميل الصفحة.', 'खोज अस्थायी रूप से अनुपलब्ध है। कृपया पृष्ठ को फिर से लोड करने का प्रयास करें।', 'La búsqueda no está disponible por el momento. Intenta volver a cargar la página.'),
+  rows: L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف', 'पंक्तियाँ', 'Filas'),
+  page: L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'صفحة', 'पृष्ठ', 'Página'),
 };
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio'), href: localePath('/', locale) },
     { label: t('nav.search', locale) },
   ]}
   title={t('nav.search', locale)}
@@ -42,6 +42,7 @@ const I18N = {
     `Cari ${stats.articles} artikel tentang Malaysia — dalam sepuluh bahasa.`,
     `ابحث في ${stats.articles} مقالة عن ماليزيا — بعشر لغات.`,
     `मलेशिया के बारे में ${stats.articles} लेख खोजें — दस भाषाओं में।`,
+    `Busca ${stats.articles} artículos sobre Malasia — en diez idiomas.`,
   )}
   stats={[stat.pillars(stats.sections, locale), stat.categories(stats.categories, locale), stat.subcategories(stats.topics, locale), stat.topics(stats.articles, locale)]}
 />
@@ -94,7 +95,7 @@ const I18N = {
     </div>
   </div>
 
-  <noscript><p class="s-status">{L('Carian memerlukan JavaScript.', 'Search requires JavaScript.', '搜索需要 JavaScript。', 'தேடலுக்கு JavaScript தேவை.', '検索には JavaScript が必要です。', '검색에는 JavaScript가 필요합니다.', 'การค้นหาต้องใช้ JavaScript', 'Tìm kiếm yêu cầu JavaScript.', 'Pencarian memerlukan JavaScript.', 'يتطلّب البحث JavaScript.', 'खोज के लिए JavaScript आवश्यक है।')}</p></noscript>
+  <noscript><p class="s-status">{L('Carian memerlukan JavaScript.', 'Search requires JavaScript.', '搜索需要 JavaScript。', 'தேடலுக்கு JavaScript தேவை.', '検索には JavaScript が必要です。', '검색에는 JavaScript가 필요합니다.', 'การค้นหาต้องใช้ JavaScript', 'Tìm kiếm yêu cầu JavaScript.', 'Pencarian memerlukan JavaScript.', 'يتطلّب البحث JavaScript.', 'खोज के लिए JavaScript आवश्यक है।', 'La búsqueda requiere JavaScript.')}</p></noscript>
 </section>
 
 <script is:inline>

@@ -14,7 +14,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Show only articles that ACTUALLY EXIST in this locale, not master fallbacks.
 // articlesForLocale() returns one entry per topic and falls back to the master
@@ -30,10 +30,10 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio'), href: localePath('/', locale) },
     { label: L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด', 'Tất cả bài viết', 'Semua artikel', 'جميع المقالات', 'सभी लेख') },
   ]}
-  title={L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด', 'Tất cả bài viết', 'Semua artikel', 'جميع المقالات', 'सभी लेख')}
+  title={L('Semua artikel', 'All articles', '所有文章', 'அனைத்து கட்டுரைகள்', 'すべての記事', '모든 기사', 'บทความทั้งหมด', 'Tất cả bài viết', 'Semua artikel', 'جميع المقالات', 'सभी लेख', 'Todos los artículos')}
   desc={L(
     'Semak imbas keseluruhan pangkalan pengetahuan — isih, tapis dan cari.',
     'Browse the whole knowledge base — sort, filter and search.',
@@ -45,6 +45,7 @@ const topCount = new Set(canonical.flatMap((a) => (a.data.subcategory ?? []).map
     'Jelajahi seluruh basis pengetahuan — urutkan, filter, dan cari.',
     'تصفَّح قاعدة المعرفة بالكامل — رتِّب وصفِّ وابحث.',
     'संपूर्ण ज्ञान आधार ब्राउज़ करें — क्रमबद्ध करें, छानें और खोजें।',
+    'Explora toda la base de conocimiento — ordena, filtra y busca.',
   )}
   stats={[stat.pillars(secCount, locale), stat.categories(catCount, locale), stat.subcategories(topCount, locale), stat.topics(canonical.length, locale)]}
 />

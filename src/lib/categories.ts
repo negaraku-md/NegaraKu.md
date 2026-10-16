@@ -54,7 +54,7 @@ export const ARCHETYPES: ArchetypeDef[] = [
   {
     id: 'service',
     icon: '🧭',
-    name: { ms: 'Perkhidmatan / Prosedur', en: 'Service / Procedural', zh: '服务 / 流程', ta: 'சேவை / நடைமுறை', ja: 'サービス・手続き', ko: '서비스·절차', th: 'บริการ / ขั้นตอน', vi: 'Dịch vụ / Thủ tục', id: 'Layanan / Prosedur', ar: 'خدمة / إجراء', hi: 'सेवा / प्रक्रिया' },
+    name: { ms: 'Perkhidmatan / Prosedur', en: 'Service / Procedural', zh: '服务 / 流程', ta: 'சேவை / நடைமுறை', ja: 'サービス・手続き', ko: '서비스·절차', th: 'บริการ / ขั้นตอน', vi: 'Dịch vụ / Thủ tục', id: 'Layanan / Prosedur', ar: 'خدمة / إجراء', hi: 'सेवा / प्रक्रिया', es: 'Servicio / Procedimiento' },
     pattern: {
       ms: 'Tugasan dahulu → kelompok topik → langkah, senarai semak, kalkulator',
       en: 'Task-first → topic clusters → steps, checklists, calculators',
@@ -67,12 +67,13 @@ export const ARCHETYPES: ArchetypeDef[] = [
       id: 'Tugas dahulu → kelompok topik → langkah, daftar periksa, kalkulator',
       ar: 'المهمة أولاً → مجموعات المواضيع → خطوات، قوائم تحقق، حاسبات',
       hi: 'पहले कार्य → विषय समूह → चरण, जाँच-सूचियाँ, कैलकुलेटर',
+      es: 'Primero la tarea → grupos de temas → pasos, listas de verificación, calculadoras',
     },
   },
   {
     id: 'narrative',
     icon: '📜',
-    name: { ms: 'Naratif / Garis Masa', en: 'Narrative / Timeline', zh: '叙事 / 时间线', ta: 'கதையாடல் / காலவரிசை', ja: '物語・年表', ko: '서사·연표', th: 'เรื่องเล่า / เส้นเวลา', vi: 'Tường thuật / Dòng thời gian', id: 'Naratif / Garis Waktu', ar: 'سرد / خط زمني', hi: 'कथात्मक / कालक्रम' },
+    name: { ms: 'Naratif / Garis Masa', en: 'Narrative / Timeline', zh: '叙事 / 时间线', ta: 'கதையாடல் / காலவரிசை', ja: '物語・年表', ko: '서사·연표', th: 'เรื่องเล่า / เส้นเวลา', vi: 'Tường thuật / Dòng thời gian', id: 'Naratif / Garis Waktu', ar: 'سرد / خط زمني', hi: 'कथात्मक / कालक्रम', es: 'Narrativa / Cronología' },
     pattern: {
       ms: 'Tulang belakang era → kad cerita → bacaan panjang pilihan',
       en: 'Era spine → story cards → featured long-read',
@@ -85,12 +86,13 @@ export const ARCHETYPES: ArchetypeDef[] = [
       id: 'Tulang punggung era → kartu cerita → bacaan panjang pilihan',
       ar: 'محور العصور → بطاقات قصصية → قراءة مطوّلة مختارة',
       hi: 'युग-आधार → कहानी कार्ड → चुनिंदा दीर्घ-पाठ',
+      es: 'Eje de épocas → tarjetas de historias → lectura larga destacada',
     },
   },
   {
     id: 'place',
     icon: '📍',
-    name: { ms: 'Tempat / Entiti', en: 'Place / Entity', zh: '地方 / 实体', ta: 'இடம் / அமைப்பு', ja: '場所・組織', ko: '장소·기관', th: 'สถานที่ / องค์กร', vi: 'Địa điểm / Tổ chức', id: 'Tempat / Entitas', ar: 'مكان / كيان', hi: 'स्थान / इकाई' },
+    name: { ms: 'Tempat / Entiti', en: 'Place / Entity', zh: '地方 / 实体', ta: 'இடம் / அமைப்பு', ja: '場所・組織', ko: '장소·기관', th: 'สถานที่ / องค์กร', vi: 'Địa điểm / Tổ chức', id: 'Tempat / Entitas', ar: 'مكان / كيان', hi: 'स्थान / इकाई', es: 'Lugar / Entidad' },
     pattern: {
       ms: 'Peta → penapis wilayah → kad tempat berstruktur',
       en: 'Map → region filter → structured place cards',
@@ -103,12 +105,13 @@ export const ARCHETYPES: ArchetypeDef[] = [
       id: 'Peta → filter wilayah → kartu tempat terstruktur',
       ar: 'خريطة → مرشّح المناطق → بطاقات أماكن منظَّمة',
       hi: 'नक्शा → क्षेत्र फ़िल्टर → संरचित स्थान कार्ड',
+      es: 'Mapa → filtro por región → tarjetas de lugares estructuradas',
     },
   },
   {
     id: 'reference',
     icon: '🏛',
-    name: { ms: 'Rujukan / Direktori', en: 'Reference / Directory', zh: '参考 / 名录', ta: 'மேற்கோள் / அடைவு', ja: 'リファレンス・名簿', ko: '참고·명부', th: 'ข้อมูลอ้างอิง / ทำเนียบ', vi: 'Tra cứu / Danh bạ', id: 'Rujukan / Direktori', ar: 'مرجع / دليل', hi: 'संदर्भ / निर्देशिका' },
+    name: { ms: 'Rujukan / Direktori', en: 'Reference / Directory', zh: '参考 / 名录', ta: 'மேற்கோள் / அடைவு', ja: 'リファレンス・名簿', ko: '참고·명부', th: 'ข้อมูลอ้างอิง / ทำเนียบ', vi: 'Tra cứu / Danh bạ', id: 'Rujukan / Direktori', ar: 'مرجع / دليل', hi: 'संदर्भ / निर्देशिका', es: 'Referencia / Directorio' },
     pattern: {
       ms: 'Jadual rekod berstruktur yang boleh ditapis',
       en: 'Filterable table of structured records',
@@ -121,12 +124,13 @@ export const ARCHETYPES: ArchetypeDef[] = [
       id: 'Tabel rekaman terstruktur yang dapat difilter',
       ar: 'جدول قابل للترشيح من السجلات المنظَّمة',
       hi: 'संरचित रिकॉर्डों की फ़िल्टर-योग्य तालिका',
+      es: 'Tabla filtrable de registros estructurados',
     },
   },
   {
     id: 'lookup',
     icon: '📖',
-    name: { ms: 'Carian Istilah', en: 'Lookup', zh: '术语查询', ta: 'சொல் தேடல்', ja: '用語検索', ko: '용어 검색', th: 'ค้นหาคำศัพท์', vi: 'Tra cứu thuật ngữ', id: 'Pencarian Istilah', ar: 'بحث المصطلحات', hi: 'शब्द खोज' },
+    name: { ms: 'Carian Istilah', en: 'Lookup', zh: '术语查询', ta: 'சொல் தேடல்', ja: '用語検索', ko: '용어 검색', th: 'ค้นหาคำศัพท์', vi: 'Tra cứu thuật ngữ', id: 'Pencarian Istilah', ar: 'بحث المصطلحات', hi: 'शब्द खोज', es: 'Búsqueda de términos' },
     pattern: {
       ms: 'Carian dahulu → indeks A–Z → kad definisi',
       en: 'Search-first → A–Z index → definition cards',
@@ -139,12 +143,13 @@ export const ARCHETYPES: ArchetypeDef[] = [
       id: 'Pencarian dahulu → indeks A–Z → kartu definisi',
       ar: 'البحث أولاً → فهرس A–Z → بطاقات تعريفية',
       hi: 'पहले खोज → A–Z सूची → परिभाषा कार्ड',
+      es: 'Primero la búsqueda → índice A–Z → tarjetas de definiciones',
     },
   },
   {
     id: 'data',
     icon: '📊',
-    name: { ms: 'Data / Petunjuk', en: 'Data / Indicators', zh: '数据 / 指标', ta: 'தரவு / குறிகாட்டிகள்', ja: 'データ・指標', ko: '데이터·지표', th: 'ข้อมูล / ตัวชี้วัด', vi: 'Dữ liệu / Chỉ số', id: 'Data / Indikator', ar: 'بيانات / مؤشرات', hi: 'डेटा / संकेतक' },
+    name: { ms: 'Data / Petunjuk', en: 'Data / Indicators', zh: '数据 / 指标', ta: 'தரவு / குறிகாட்டிகள்', ja: 'データ・指標', ko: '데이터·지표', th: 'ข้อมูล / ตัวชี้วัด', vi: 'Dữ liệu / Chỉ số', id: 'Data / Indikator', ar: 'بيانات / مؤشرات', hi: 'डेटा / संकेतक', es: 'Datos / Indicadores' },
     pattern: {
       ms: 'Kad petunjuk → carta → perbandingan',
       en: 'Indicator cards → charts → comparisons',
@@ -157,6 +162,7 @@ export const ARCHETYPES: ArchetypeDef[] = [
       id: 'Kartu indikator → bagan → perbandingan',
       ar: 'بطاقات المؤشرات → رسوم بيانية → مقارنات',
       hi: 'संकेतक कार्ड → चार्ट → तुलनाएँ',
+      es: 'Tarjetas de indicadores → gráficos → comparaciones',
     },
   },
 ];
@@ -195,7 +201,7 @@ export const PILLARS: PillarDef[] = [
   {
     id: 'understand',
     icon: '📖',
-    name: { ms: 'Kenali Malaysia', en: 'Understand Malaysia', zh: '认识马来西亚', ta: 'மலேசியாவை அறிக', ja: 'マレーシアを知る', ko: '말레이시아 이해하기', th: 'ทำความรู้จักมาเลเซีย', vi: 'Tìm hiểu Malaysia', id: 'Kenali Malaysia', ar: 'فهم ماليزيا', hi: 'मलेशिया को समझें' },
+    name: { ms: 'Kenali Malaysia', en: 'Understand Malaysia', zh: '认识马来西亚', ta: 'மலேசியாவை அறிக', ja: 'マレーシアを知る', ko: '말레이시아 이해하기', th: 'ทำความรู้จักมาเลเซีย', vi: 'Tìm hiểu Malaysia', id: 'Kenali Malaysia', ar: 'فهم ماليزيا', hi: 'मलेशिया को समझें', es: 'Comprender Malasia' },
     tagline: {
       ms: 'Bagaimana Malaysia terbentuk, bagaimana ia ditadbir, dan apa yang menyatukan sebuah negara majmuk.',
       en: 'How Malaysia came to be, how it is governed, and what holds a plural nation together.',
@@ -208,12 +214,13 @@ export const PILLARS: PillarDef[] = [
       id: 'Bagaimana Malaysia terbentuk, bagaimana negara ini diperintah, dan apa yang menyatukan sebuah negara majemuk.',
       ar: 'كيف نشأت ماليزيا، وكيف تُحكم، وما الذي يوحّد أمة تعددية.',
       hi: 'मलेशिया कैसे अस्तित्व में आया, इसका शासन कैसे चलता है, और एक बहुलतावादी राष्ट्र को क्या एकजुट रखता है।',
+      es: 'Cómo surgió Malasia, cómo se gobierna y qué mantiene unida a una nación plural.',
     },
   },
   {
     id: 'living',
     icon: '🏠',
-    name: { ms: 'Hidup di Malaysia', en: 'Living in Malaysia', zh: '在马来西亚生活', ta: 'மலேசியாவில் வாழ்க்கை', ja: 'マレーシアで暮らす', ko: '말레이시아에서 생활하기', th: 'การใช้ชีวิตในมาเลเซีย', vi: 'Sống ở Malaysia', id: 'Hidup di Malaysia', ar: 'العيش في ماليزيا', hi: 'मलेशिया में जीवन' },
+    name: { ms: 'Hidup di Malaysia', en: 'Living in Malaysia', zh: '在马来西亚生活', ta: 'மலேசியாவில் வாழ்க்கை', ja: 'マレーシアで暮らす', ko: '말레이시아에서 생활하기', th: 'การใช้ชีวิตในมาเลเซีย', vi: 'Sống ở Malaysia', id: 'Hidup di Malaysia', ar: 'العيش في ماليزيا', hi: 'मलेशिया में जीवन', es: 'Vivir en Malasia' },
     tagline: {
       ms: 'Panduan praktikal untuk kehidupan harian — perkhidmatan awam, kesihatan, pendidikan, pengangkutan dan tempat tinggal.',
       en: 'Practical guidance for daily life — public services, healthcare, schooling, getting around and finding a home.',
@@ -226,12 +233,13 @@ export const PILLARS: PillarDef[] = [
       id: 'Panduan praktis untuk kehidupan sehari-hari — layanan publik, kesehatan, pendidikan, transportasi, dan tempat tinggal.',
       ar: 'إرشادات عملية للحياة اليومية — الخدمات العامة، والرعاية الصحية، والتعليم المدرسي، والتنقّل، وإيجاد سكن.',
       hi: 'रोज़मर्रा के जीवन के लिए व्यावहारिक मार्गदर्शन — सार्वजनिक सेवाएँ, स्वास्थ्य सेवा, स्कूली शिक्षा, आवागमन और घर ढूँढना।',
+      es: 'Orientación práctica para la vida diaria: servicios públicos, atención sanitaria, educación, desplazamientos y búsqueda de vivienda.',
     },
   },
   {
     id: 'doing-business',
     icon: '💼',
-    name: { ms: 'Berniaga di Malaysia', en: 'Doing Business in Malaysia', zh: '在马来西亚经商', ta: 'மலேசியாவில் வணிகம்', ja: 'マレーシアでビジネス', ko: '말레이시아에서 사업하기', th: 'การทำธุรกิจในมาเลเซีย', vi: 'Kinh doanh ở Malaysia', id: 'Berbisnis di Malaysia', ar: 'ممارسة الأعمال في ماليزيا', hi: 'मलेशिया में व्यवसाय करना' },
+    name: { ms: 'Berniaga di Malaysia', en: 'Doing Business in Malaysia', zh: '在马来西亚经商', ta: 'மலேசியாவில் வணிகம்', ja: 'マレーシアでビジネス', ko: '말레이시아에서 사업하기', th: 'การทำธุรกิจในมาเลเซีย', vi: 'Kinh doanh ở Malaysia', id: 'Berbisnis di Malaysia', ar: 'ممارسة الأعمال في ماليزيا', hi: 'मलेशिया में व्यवसाय करना', es: 'Hacer negocios en Malasia' },
     tagline: {
       ms: 'Apa yang diperlukan untuk memulakan, mengendali dan mematuhi peraturan perniagaan — daripada pemerbadanan hingga cukai.',
       en: 'What it takes to start, run and stay compliant as a business — from incorporation to tax.',
@@ -244,6 +252,7 @@ export const PILLARS: PillarDef[] = [
       id: 'Apa yang diperlukan untuk memulai, menjalankan, dan mematuhi peraturan bisnis — dari pendirian perusahaan hingga pajak.',
       ar: 'ما يلزم لبدء عمل تجاري وإدارته والالتزام بالأنظمة — من التأسيس إلى الضرائب.',
       hi: 'एक व्यवसाय के रूप में शुरुआत करने, संचालन करने और अनुपालन बनाए रखने के लिए क्या ज़रूरी है — निगमन से लेकर कर तक।',
+      es: 'Lo que se necesita para crear una empresa, gestionarla y cumplir la normativa: desde la constitución hasta los impuestos.',
     },
   },
 ];
@@ -269,7 +278,7 @@ export const CATEGORIES: Category[] = [
     // 🌺 Bunga Raya (hibiscus), Malaysia's national flower — a Windows-safe icon.
     // (The 🇲🇾 flag emoji renders as the bare letters "MY" on Windows.)
     icon: '🌺',
-    name: { ms: 'Malaysia', en: 'Malaysia', zh: '马来西亚', ta: 'மலேசியா', ja: 'マレーシア', ko: '말레이시아', th: 'มาเลเซีย', vi: 'Malaysia', id: 'Malaysia', ar: 'ماليزيا', hi: 'मलेशिया' },
+    name: { ms: 'Malaysia', en: 'Malaysia', zh: '马来西亚', ta: 'மலேசியா', ja: 'マレーシア', ko: '말레이시아', th: 'มาเลเซีย', vi: 'Malaysia', id: 'Malaysia', ar: 'ماليزيا', hi: 'मलेशिया', es: 'Malasia' },
     blurb: {
       ms: 'Gambaran negara, sejarah, geografi, identiti nasional dan statistik.',
       en: 'Country overview, history, geography, national identity and statistics.',
@@ -282,6 +291,7 @@ export const CATEGORIES: Category[] = [
       id: 'Gambaran umum negara, sejarah, geografi, identitas nasional, dan statistik.',
       ar: 'نظرة عامة على البلد، والتاريخ، والجغرافيا، والهوية الوطنية، والإحصاءات.',
       hi: 'देश का अवलोकन, इतिहास, भूगोल, राष्ट्रीय पहचान और सांख्यिकी।',
+      es: 'Panorama del país, historia, geografía, identidad nacional y estadísticas.',
     },
     archetype: 'service',
     pillar: 'understand',
@@ -290,7 +300,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'states',
     icon: '📍',
-    name: { ms: 'Negeri & Wilayah', en: 'States & Territories', zh: '州与联邦直辖区', ta: 'மாநிலங்கள் & பிரதேசங்கள்', ja: '州・連邦直轄領', ko: '주 및 연방 직할구', th: 'รัฐและดินแดน', vi: 'Bang & Lãnh thổ', id: 'Negeri & Wilayah', ar: 'الولايات والأقاليم', hi: 'राज्य और क्षेत्र' },
+    name: { ms: 'Negeri & Wilayah', en: 'States & Territories', zh: '州与联邦直辖区', ta: 'மாநிலங்கள் & பிரதேசங்கள்', ja: '州・連邦直轄領', ko: '주 및 연방 직할구', th: 'รัฐและดินแดน', vi: 'Bang & Lãnh thổ', id: 'Negeri & Wilayah', ar: 'الولايات والأقاليم', hi: 'राज्य और क्षेत्र', es: 'Estados y territorios' },
     blurb: {
       ms: '13 negeri dan 3 wilayah persekutuan — geografi, ekonomi dan pentadbiran.',
       en: 'Thirteen states and three federal territories — geography, economy, government.',
@@ -303,6 +313,7 @@ export const CATEGORIES: Category[] = [
       id: '13 negeri dan 3 wilayah persekutuan — geografi, ekonomi, dan pemerintahan.',
       ar: 'ثلاث عشرة ولاية وثلاثة أقاليم اتحادية — الجغرافيا والاقتصاد والحكومة.',
       hi: 'तेरह राज्य और तीन संघीय क्षेत्र — भूगोल, अर्थव्यवस्था, सरकार।',
+      es: 'Trece estados y tres territorios federales: geografía, economía y gobierno.',
     },
     archetype: 'service',
     pillar: 'understand',
@@ -311,7 +322,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'government',
     icon: '🏛',
-    name: { ms: 'Kerajaan', en: 'Government', zh: '政府', ta: 'அரசாங்கம்', ja: '政府', ko: '정부', th: 'รัฐบาล', vi: 'Chính phủ', id: 'Pemerintahan', ar: 'الحكومة', hi: 'सरकार' },
+    name: { ms: 'Kerajaan', en: 'Government', zh: '政府', ta: 'அரசாங்கம்', ja: '政府', ko: '정부', th: 'รัฐบาล', vi: 'Chính phủ', id: 'Pemerintahan', ar: 'الحكومة', hi: 'सरकार', es: 'Gobierno' },
     blurb: {
       ms: 'Kerajaan persekutuan, negeri dan tempatan, kementerian dan agensi.',
       en: 'Federal, state and local government, ministries and agencies.',
@@ -324,6 +335,7 @@ export const CATEGORIES: Category[] = [
       id: 'Pemerintah persekutuan, negeri, dan daerah, kementerian, dan lembaga.',
       ar: 'الحكومة الاتحادية والولائية والمحلية، والوزارات والهيئات.',
       hi: 'संघीय, राज्य और स्थानीय सरकार, मंत्रालय और एजेंसियाँ।',
+      es: 'Gobierno federal, estatal y local, ministerios y organismos.',
     },
     archetype: 'service',
     pillar: 'understand',
@@ -332,7 +344,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'law',
     icon: '⚖',
-    name: { ms: 'Undang-Undang', en: 'Law & Regulations', zh: '法律与法规', ta: 'சட்டம் & விதிமுறைகள்', ja: '法律・規制', ko: '법률 및 규정', th: 'กฎหมายและระเบียบ', vi: 'Luật pháp & Quy định', id: 'Undang-Undang', ar: 'القانون واللوائح', hi: 'कानून और विनियम' },
+    name: { ms: 'Undang-Undang', en: 'Law & Regulations', zh: '法律与法规', ta: 'சட்டம் & விதிமுறைகள்', ja: '法律・規制', ko: '법률 및 규정', th: 'กฎหมายและระเบียบ', vi: 'Luật pháp & Quy định', id: 'Undang-Undang', ar: 'القانون واللوائح', hi: 'कानून और विनियम', es: 'Leyes y regulaciones' },
     blurb: {
       ms: 'Akta, peraturan, garis panduan dan prosedur perundangan.',
       en: 'Acts, regulations, guidelines and legal procedures.',
@@ -345,6 +357,7 @@ export const CATEGORIES: Category[] = [
       id: 'Undang-undang, peraturan, pedoman, dan prosedur hukum.',
       ar: 'القوانين واللوائح والإرشادات والإجراءات القانونية.',
       hi: 'अधिनियम, विनियम, दिशानिर्देश और कानूनी प्रक्रियाएँ।',
+      es: 'Leyes, reglamentos, directrices y procedimientos legales.',
     },
     archetype: 'service',
     pillar: 'understand',
@@ -353,7 +366,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'economy',
     icon: '📈',
-    name: { ms: 'Ekonomi', en: 'Economy', zh: '经济', ta: 'பொருளாதாரம்', ja: '経済', ko: '경제', th: 'เศรษฐกิจ', vi: 'Kinh tế', id: 'Ekonomi', ar: 'الاقتصاد', hi: 'अर्थव्यवस्था' },
+    name: { ms: 'Ekonomi', en: 'Economy', zh: '经济', ta: 'பொருளாதாரம்', ja: '経済', ko: '경제', th: 'เศรษฐกิจ', vi: 'Kinh tế', id: 'Ekonomi', ar: 'الاقتصاد', hi: 'अर्थव्यवस्था', es: 'Economía' },
     blurb: {
       ms: 'KDNK, inflasi, perdagangan dan petunjuk ekonomi.',
       en: 'GDP, inflation, trade and economic indicators.',
@@ -366,6 +379,7 @@ export const CATEGORIES: Category[] = [
       id: 'PDB, inflasi, perdagangan, dan indikator ekonomi.',
       ar: 'GDP، والتضخم، والتجارة، والمؤشرات الاقتصادية.',
       hi: 'GDP, मुद्रास्फीति, व्यापार और आर्थिक संकेतक।',
+      es: 'PIB, inflación, comercio e indicadores económicos.',
     },
     archetype: 'service',
     pillar: 'understand',
@@ -374,7 +388,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'arts-culture',
     icon: '🎭',
-    name: { ms: 'Seni & Budaya', en: 'Arts & Culture', zh: '艺术与文化', ta: 'கலை & பண்பாடு', ja: '芸術・文化', ko: '예술 및 문화', th: 'ศิลปะและวัฒนธรรม', vi: 'Nghệ thuật & Văn hóa', id: 'Seni & Budaya', ar: 'الفنون والثقافة', hi: 'कला और संस्कृति' },
+    name: { ms: 'Seni & Budaya', en: 'Arts & Culture', zh: '艺术与文化', ta: 'கலை & பண்பாடு', ja: '芸術・文化', ko: '예술 및 문화', th: 'ศิลปะและวัฒนธรรม', vi: 'Nghệ thuật & Văn hóa', id: 'Seni & Budaya', ar: 'الفنون والثقافة', hi: 'कला और संस्कृति', es: 'Arte y cultura' },
     blurb: {
       ms: 'Bahasa, perayaan, muzium, warisan dan tradisi.',
       en: 'Languages, festivals, museums, heritage and traditions.',
@@ -387,6 +401,7 @@ export const CATEGORIES: Category[] = [
       id: 'Bahasa, perayaan, museum, warisan, dan tradisi.',
       ar: 'اللغات والمهرجانات والمتاحف والتراث والتقاليد.',
       hi: 'भाषाएँ, त्योहार, संग्रहालय, विरासत और परंपराएँ।',
+      es: 'Idiomas, festividades, museos, patrimonio y tradiciones.',
     },
     archetype: 'service',
     pillar: 'understand',
@@ -395,7 +410,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'glossary',
     icon: '📖',
-    name: { ms: 'Glosari', en: 'Glossary', zh: '术语库', ta: 'சொற்களஞ்சியம்', ja: '用語集', ko: '용어집', th: 'อภิธานศัพท์', vi: 'Thuật ngữ', id: 'Glosarium', ar: 'مسرد المصطلحات', hi: 'शब्दावली' },
+    name: { ms: 'Glosari', en: 'Glossary', zh: '术语库', ta: 'சொற்களஞ்சியம்', ja: '用語集', ko: '용어집', th: 'อภิธานศัพท์', vi: 'Thuật ngữ', id: 'Glosarium', ar: 'مسرد المصطلحات', hi: 'शब्दावली', es: 'Glosario' },
     blurb: {
       ms: 'Istilah Malaysia dijelaskan merentas semua bahasa laman.',
       en: 'Malaysian terms defined across every site language.',
@@ -408,6 +423,7 @@ export const CATEGORIES: Category[] = [
       id: 'Istilah Malaysia yang dijelaskan di semua bahasa situs.',
       ar: 'مصطلحات ماليزية معرَّفة بكل لغات الموقع.',
       hi: 'मलेशियाई शब्द साइट की हर भाषा में परिभाषित।',
+      es: 'Términos malasios definidos en todos los idiomas del sitio.',
     },
     archetype: 'service',
     pillar: 'understand',
@@ -416,7 +432,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'international',
     icon: '🌏',
-    name: { ms: 'Antarabangsa', en: 'International', zh: '国际', ta: 'சர்வதேசம்', ja: '国際', ko: '국제', th: 'ระหว่างประเทศ', vi: 'Quốc tế', id: 'Internasional', ar: 'الشؤون الدولية', hi: 'अंतरराष्ट्रीय' },
+    name: { ms: 'Antarabangsa', en: 'International', zh: '国际', ta: 'சர்வதேசம்', ja: '国際', ko: '국제', th: 'ระหว่างประเทศ', vi: 'Quốc tế', id: 'Internasional', ar: 'الشؤون الدولية', hi: 'अंतरराष्ट्रीय', es: 'Internacional' },
     blurb: {
       ms: 'ASEAN, perjanjian dan hubungan perdagangan.',
       en: 'ASEAN, treaties and trade agreements.',
@@ -429,6 +445,7 @@ export const CATEGORIES: Category[] = [
       id: 'ASEAN, perjanjian, dan hubungan perdagangan.',
       ar: 'ASEAN، والمعاهدات، واتفاقيات التجارة.',
       hi: 'ASEAN, संधियाँ और व्यापार समझौते।',
+      es: 'ASEAN, tratados y acuerdos comerciales.',
     },
     archetype: 'service',
     pillar: 'understand',
@@ -439,7 +456,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'business',
     icon: '💼',
-    name: { ms: 'Perniagaan', en: 'Business', zh: '商业', ta: 'வணிகம்', ja: 'ビジネス', ko: '비즈니스', th: 'ธุรกิจ', vi: 'Kinh doanh', id: 'Bisnis', ar: 'الأعمال', hi: 'व्यवसाय' },
+    name: { ms: 'Perniagaan', en: 'Business', zh: '商业', ta: 'வணிகம்', ja: 'ビジネス', ko: '비즈니스', th: 'ธุรกิจ', vi: 'Kinh doanh', id: 'Bisnis', ar: 'الأعمال', hi: 'व्यवसाय', es: 'Negocios' },
     blurb: {
       ms: 'Memulakan, mengendali, mengembang dan menutup perniagaan.',
       en: 'Starting, operating, growing and closing a business.',
@@ -452,6 +469,7 @@ export const CATEGORIES: Category[] = [
       id: 'Memulai, menjalankan, mengembangkan, dan menutup bisnis.',
       ar: 'بدء عمل تجاري وتشغيله وتنميته وإغلاقه.',
       hi: 'व्यवसाय शुरू करना, संचालन करना, बढ़ाना और बंद करना।',
+      es: 'Crear, operar, hacer crecer y cerrar un negocio.',
     },
     archetype: 'service',
     pillar: 'doing-business',
@@ -460,7 +478,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'taxation',
     icon: '🧾',
-    name: { ms: 'Percukaian', en: 'Taxation', zh: '税务', ta: 'வரிவிதிப்பு', ja: '税務', ko: '세무', th: 'ภาษีอากร', vi: 'Thuế', id: 'Perpajakan', ar: 'الضرائب', hi: 'कराधान' },
+    name: { ms: 'Percukaian', en: 'Taxation', zh: '税务', ta: 'வரிவிதிப்பு', ja: '税務', ko: '세무', th: 'ภาษีอากร', vi: 'Thuế', id: 'Perpajakan', ar: 'الضرائب', hi: 'कराधान', es: 'Tributación' },
     blurb: {
       ms: 'Cukai individu, cukai korporat, SST, duti setem dan insentif.',
       en: 'Personal tax, corporate tax, SST, stamp duty and incentives.',
@@ -473,6 +491,7 @@ export const CATEGORIES: Category[] = [
       id: 'Pajak individu, pajak korporat, SST, bea meterai, dan insentif.',
       ar: 'الضريبة الشخصية، وضريبة الشركات، وSST، ورسوم الدمغة، والحوافز.',
       hi: 'व्यक्तिगत कर, कॉर्पोरेट कर, SST, स्टाम्प शुल्क और प्रोत्साहन।',
+      es: 'Impuesto personal, impuesto de sociedades, SST, impuesto de timbre e incentivos.',
     },
     archetype: 'service',
     pillar: 'doing-business',
@@ -481,7 +500,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'company-secretary',
     icon: '📑',
-    name: { ms: 'Setiausaha Syarikat', en: 'Company Secretary', zh: '公司秘书', ta: 'நிறுவனச் செயலாளர்', ja: '会社秘書役', ko: '회사 비서', th: 'เลขานุการบริษัท', vi: 'Thư ký công ty', id: 'Sekretaris Perusahaan', ar: 'أمين سر الشركة', hi: 'कंपनी सचिव' },
+    name: { ms: 'Setiausaha Syarikat', en: 'Company Secretary', zh: '公司秘书', ta: 'நிறுவனச் செயலாளர்', ja: '会社秘書役', ko: '회사 비서', th: 'เลขานุการบริษัท', vi: 'Thư ký công ty', id: 'Sekretaris Perusahaan', ar: 'أمين سر الشركة', hi: 'कंपनी सचिव', es: 'Secretaría de la empresa' },
     blurb: {
       ms: 'Akta Syarikat, pematuhan, tadbir urus dan pemfailan.',
       en: 'Companies Act, compliance, governance and filings.',
@@ -494,6 +513,7 @@ export const CATEGORIES: Category[] = [
       id: 'Companies Act, kepatuhan, tata kelola, dan pengajuan dokumen.',
       ar: 'قانون الشركات (Companies Act)، والامتثال، والحوكمة، والإيداعات.',
       hi: 'कंपनी अधिनियम (Companies Act), अनुपालन, अभिशासन और दाखिल करना।',
+      es: 'Ley de Sociedades (Companies Act), cumplimiento, gobernanza y presentaciones.',
     },
     archetype: 'service',
     pillar: 'doing-business',
@@ -502,7 +522,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'accounting',
     icon: '📊',
-    name: { ms: 'Perakaunan', en: 'Accounting', zh: '会计', ta: 'கணக்கியல்', ja: '会計', ko: '회계', th: 'การบัญชี', vi: 'Kế toán', id: 'Akuntansi', ar: 'المحاسبة', hi: 'लेखांकन' },
+    name: { ms: 'Perakaunan', en: 'Accounting', zh: '会计', ta: 'கணக்கியல்', ja: '会計', ko: '회계', th: 'การบัญชี', vi: 'Kế toán', id: 'Akuntansi', ar: 'المحاسبة', hi: 'लेखांकन', es: 'Contabilidad' },
     blurb: {
       ms: 'Piawaian, simpan kira, pelaporan dan e-Invois.',
       en: 'Standards, bookkeeping, reporting and e-Invoicing.',
@@ -515,6 +535,7 @@ export const CATEGORIES: Category[] = [
       id: 'Standar, pembukuan, pelaporan, dan e-Invois.',
       ar: 'المعايير، ومسك الدفاتر، وإعداد التقارير، والفوترة الإلكترونية (e-Invoice).',
       hi: 'मानक, बहीखाता, रिपोर्टिंग और e-Invoicing।',
+      es: 'Normas, teneduría de libros, informes y facturación electrónica (e-Invoice).',
     },
     archetype: 'service',
     pillar: 'doing-business',
@@ -523,7 +544,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'audit',
     icon: '🔍',
-    name: { ms: 'Audit & Jaminan', en: 'Audit & Assurance', zh: '审计与鉴证', ta: 'தணிக்கை & உறுதிப்படுத்தல்', ja: '監査・保証', ko: '감사 및 인증', th: 'การตรวจสอบและการให้ความเชื่อมั่น', vi: 'Kiểm toán & Đảm bảo', id: 'Audit & Asurans', ar: 'التدقيق والتأكيد', hi: 'अंकेक्षण और आश्वासन' },
+    name: { ms: 'Audit & Jaminan', en: 'Audit & Assurance', zh: '审计与鉴证', ta: 'தணிக்கை & உறுதிப்படுத்தல்', ja: '監査・保証', ko: '감사 및 인증', th: 'การตรวจสอบและการให้ความเชื่อมั่น', vi: 'Kiểm toán & Đảm bảo', id: 'Audit & Asurans', ar: 'التدقيق والتأكيد', hi: 'अंकेक्षण और आश्वासन', es: 'Auditoría y aseguramiento' },
     blurb: {
       ms: 'Keperluan audit, piawaian dan perkhidmatan jaminan.',
       en: 'Audit requirements, standards and assurance services.',
@@ -536,6 +557,7 @@ export const CATEGORIES: Category[] = [
       id: 'Persyaratan audit, standar, dan jasa asurans.',
       ar: 'متطلبات التدقيق، والمعايير، وخدمات التأكيد.',
       hi: 'अंकेक्षण आवश्यकताएँ, मानक और आश्वासन सेवाएँ।',
+      es: 'Requisitos de auditoría, normas y servicios de aseguramiento.',
     },
     archetype: 'service',
     pillar: 'doing-business',
@@ -544,7 +566,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'employment',
     icon: '👥',
-    name: { ms: 'Pekerjaan & HR', en: 'Employment & HR', zh: '就业与人力资源', ta: 'வேலைவாய்ப்பு & மனிதவளம்', ja: '雇用・人事', ko: '고용 및 인사', th: 'การจ้างงานและทรัพยากรบุคคล', vi: 'Việc làm & Nhân sự', id: 'Ketenagakerjaan & SDM', ar: 'التوظيف والموارد البشرية', hi: 'रोज़गार और मानव संसाधन' },
+    name: { ms: 'Pekerjaan & HR', en: 'Employment & HR', zh: '就业与人力资源', ta: 'வேலைவாய்ப்பு & மனிதவளம்', ja: '雇用・人事', ko: '고용 및 인사', th: 'การจ้างงานและทรัพยากรบุคคล', vi: 'Việc làm & Nhân sự', id: 'Ketenagakerjaan & SDM', ar: 'التوظيف والموارد البشرية', hi: 'रोज़गार और मानव संसाधन', es: 'Empleo y RR. HH.' },
     blurb: {
       ms: 'Undang-undang buruh, KWSP, PERKESO, payroll dan pengambilan.',
       en: 'Labour law, EPF, SOCSO, payroll and hiring.',
@@ -557,6 +579,7 @@ export const CATEGORIES: Category[] = [
       id: 'Undang-undang ketenagakerjaan, KWSP, PERKESO, penggajian, dan perekrutan.',
       ar: 'قانون العمل، وEPF، وSOCSO، وكشوف الرواتب، والتوظيف.',
       hi: 'श्रम कानून, EPF, SOCSO, वेतन-भुगतान और भर्ती।',
+      es: 'Derecho laboral, EPF, SOCSO, nóminas y contratación.',
     },
     archetype: 'service',
     pillar: 'doing-business',
@@ -565,7 +588,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'finance',
     icon: '💰',
-    name: { ms: 'Kewangan & Perbankan', en: 'Finance & Banking', zh: '金融与银行', ta: 'நிதி & வங்கியியல்', ja: '金融・銀行', ko: '금융 및 은행', th: 'การเงินและการธนาคาร', vi: 'Tài chính & Ngân hàng', id: 'Keuangan & Perbankan', ar: 'التمويل والأعمال المصرفية', hi: 'वित्त और बैंकिंग' },
+    name: { ms: 'Kewangan & Perbankan', en: 'Finance & Banking', zh: '金融与银行', ta: 'நிதி & வங்கியியல்', ja: '金融・銀行', ko: '금융 및 은행', th: 'การเงินและการธนาคาร', vi: 'Tài chính & Ngân hàng', id: 'Keuangan & Perbankan', ar: 'التمويل والأعمال المصرفية', hi: 'वित्त और बैंकिंग', es: 'Finanzas y banca' },
     blurb: {
       ms: 'Perbankan, pembayaran, insurans, pelaburan dan pembiayaan.',
       en: 'Banking, payments, insurance, investments and financing.',
@@ -578,6 +601,7 @@ export const CATEGORIES: Category[] = [
       id: 'Perbankan, pembayaran, asuransi, investasi, dan pembiayaan.',
       ar: 'الأعمال المصرفية، والمدفوعات، والتأمين، والاستثمارات، والتمويل.',
       hi: 'बैंकिंग, भुगतान, बीमा, निवेश और वित्तपोषण।',
+      es: 'Banca, pagos, seguros, inversiones y financiación.',
     },
     archetype: 'service',
     pillar: 'doing-business',
@@ -586,7 +610,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'industries',
     icon: '🏭',
-    name: { ms: 'Industri', en: 'Industries', zh: '行业', ta: 'தொழில்துறைகள்', ja: '産業', ko: '산업', th: 'อุตสาหกรรม', vi: 'Các ngành công nghiệp', id: 'Industri', ar: 'الصناعات', hi: 'उद्योग' },
+    name: { ms: 'Industri', en: 'Industries', zh: '行业', ta: 'தொழில்துறைகள்', ja: '産業', ko: '산업', th: 'อุตสาหกรรม', vi: 'Các ngành công nghiệp', id: 'Industri', ar: 'الصناعات', hi: 'उद्योग', es: 'Industrias' },
     blurb: {
       ms: 'Pembuatan, F&B, pembinaan, teknologi dan lain-lain.',
       en: 'Manufacturing, F&B, construction, technology and more.',
@@ -599,6 +623,7 @@ export const CATEGORIES: Category[] = [
       id: 'Manufaktur, F&B, konstruksi, teknologi, dan lainnya.',
       ar: 'التصنيع، والأغذية والمشروبات (F&B)، والبناء، والتكنولوجيا، وغيرها.',
       hi: 'विनिर्माण, F&B, निर्माण, प्रौद्योगिकी और अन्य।',
+      es: 'Manufactura, alimentos y bebidas (F&B), construcción, tecnología y más.',
     },
     archetype: 'service',
     pillar: 'doing-business',
@@ -607,7 +632,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'companies',
     icon: '🏢',
-    name: { ms: 'Syarikat', en: 'Companies', zh: '公司', ta: 'நிறுவனங்கள்', ja: '企業', ko: '기업', th: 'บริษัท', vi: 'Công ty', id: 'Perusahaan', ar: 'الشركات', hi: 'कंपनियाँ' },
+    name: { ms: 'Syarikat', en: 'Companies', zh: '公司', ta: 'நிறுவனங்கள்', ja: '企業', ko: '기업', th: 'บริษัท', vi: 'Công ty', id: 'Perusahaan', ar: 'الشركات', hi: 'कंपनियाँ', es: 'Empresas' },
     blurb: {
       ms: 'Profil syarikat, syarikat tersenarai dan PKS.',
       en: 'Company profiles, listed companies and SMEs.',
@@ -620,6 +645,7 @@ export const CATEGORIES: Category[] = [
       id: 'Profil perusahaan, perusahaan tercatat, dan UKM.',
       ar: 'نبذات عن الشركات، والشركات المدرجة، والشركات الصغيرة والمتوسطة (SMEs).',
       hi: 'कंपनी प्रोफ़ाइल, सूचीबद्ध कंपनियाँ और SME।',
+      es: 'Perfiles de empresas, empresas cotizadas y pymes.',
     },
     archetype: 'service',
     pillar: 'doing-business',
@@ -628,7 +654,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'technology',
     icon: '💻',
-    name: { ms: 'Teknologi & AI', en: 'Technology & AI', zh: '科技与人工智能', ta: 'தொழில்நுட்பம் & செயற்கை நுண்ணறிவு', ja: 'テクノロジー・AI', ko: '기술 및 AI', th: 'เทคโนโลยีและ AI', vi: 'Công nghệ & AI', id: 'Teknologi & AI', ar: 'التكنولوجيا والذكاء الاصطناعي', hi: 'प्रौद्योगिकी और AI' },
+    name: { ms: 'Teknologi & AI', en: 'Technology & AI', zh: '科技与人工智能', ta: 'தொழில்நுட்பம் & செயற்கை நுண்ணறிவு', ja: 'テクノロジー・AI', ko: '기술 및 AI', th: 'เทคโนโลยีและ AI', vi: 'Công nghệ & AI', id: 'Teknologi & AI', ar: 'التكنولوجيا والذكاء الاصطناعي', hi: 'प्रौद्योगिकी और AI', es: 'Tecnología e IA' },
     blurb: {
       ms: 'Transformasi digital, AI, keselamatan siber dan perisian.',
       en: 'Digital transformation, AI, cybersecurity and software.',
@@ -641,6 +667,7 @@ export const CATEGORIES: Category[] = [
       id: 'Transformasi digital, AI, keamanan siber, dan perangkat lunak.',
       ar: 'التحول الرقمي، والذكاء الاصطناعي (AI)، والأمن السيبراني، والبرمجيات.',
       hi: 'डिजिटल परिवर्तन, AI, साइबर सुरक्षा और सॉफ़्टवेयर।',
+      es: 'Transformación digital, IA, ciberseguridad y software.',
     },
     archetype: 'service',
     pillar: 'doing-business',
@@ -651,7 +678,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'education',
     icon: '🎓',
-    name: { ms: 'Pendidikan', en: 'Education', zh: '教育', ta: 'கல்வி', ja: '教育', ko: '교육', th: 'การศึกษา', vi: 'Giáo dục', id: 'Pendidikan', ar: 'التعليم', hi: 'शिक्षा' },
+    name: { ms: 'Pendidikan', en: 'Education', zh: '教育', ta: 'கல்வி', ja: '教育', ko: '교육', th: 'การศึกษา', vi: 'Giáo dục', id: 'Pendidikan', ar: 'التعليم', hi: 'शिक्षा', es: 'Educación' },
     blurb: {
       ms: 'Sekolah, universiti, TVET dan biasiswa.',
       en: 'Schools, universities, TVET and scholarships.',
@@ -664,6 +691,7 @@ export const CATEGORIES: Category[] = [
       id: 'Sekolah, universitas, TVET, dan beasiswa.',
       ar: 'المدارس، والجامعات، والتعليم والتدريب التقني والمهني (TVET)، والمنح الدراسية.',
       hi: 'स्कूल, विश्वविद्यालय, TVET और छात्रवृत्तियाँ।',
+      es: 'Escuelas, universidades, TVET y becas.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -672,7 +700,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'healthcare',
     icon: '🩺',
-    name: { ms: 'Kesihatan', en: 'Healthcare', zh: '医疗保健', ta: 'சுகாதாரம்', ja: '医療', ko: '의료', th: 'การแพทย์และสาธารณสุข', vi: 'Y tế', id: 'Kesehatan', ar: 'الرعاية الصحية', hi: 'स्वास्थ्य सेवा' },
+    name: { ms: 'Kesihatan', en: 'Healthcare', zh: '医疗保健', ta: 'சுகாதாரம்', ja: '医療', ko: '의료', th: 'การแพทย์และสาธารณสุข', vi: 'Y tế', id: 'Kesehatan', ar: 'الرعاية الصحية', hi: 'स्वास्थ्य सेवा', es: 'Atención sanitaria' },
     blurb: {
       ms: 'Kesihatan awam, hospital swasta dan insurans.',
       en: 'Public healthcare, private hospitals and insurance.',
@@ -685,6 +713,7 @@ export const CATEGORIES: Category[] = [
       id: 'Kesehatan publik, rumah sakit swasta, dan asuransi.',
       ar: 'الرعاية الصحية العامة، والمستشفيات الخاصة، والتأمين.',
       hi: 'सार्वजनिक स्वास्थ्य सेवा, निजी अस्पताल और बीमा।',
+      es: 'Sanidad pública, hospitales privados y seguros.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -693,7 +722,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'property',
     icon: '🏠',
-    name: { ms: 'Hartanah', en: 'Property', zh: '房地产', ta: 'சொத்து', ja: '不動産', ko: '부동산', th: 'อสังหาริมทรัพย์', vi: 'Bất động sản', id: 'Properti', ar: 'العقارات', hi: 'अचल संपत्ति' },
+    name: { ms: 'Hartanah', en: 'Property', zh: '房地产', ta: 'சொத்து', ja: '不動産', ko: '부동산', th: 'อสังหาริมทรัพย์', vi: 'Bất động sản', id: 'Properti', ar: 'العقارات', hi: 'अचल संपत्ति', es: 'Propiedad inmobiliaria' },
     blurb: {
       ms: 'Membeli, menyewa, tanah, strata dan pembiayaan.',
       en: 'Buying, renting, land, strata and financing.',
@@ -706,6 +735,7 @@ export const CATEGORIES: Category[] = [
       id: 'Membeli, menyewa, tanah, strata, dan pembiayaan.',
       ar: 'الشراء، والإيجار، والأراضي، والملكية الطبقية (strata)، والتمويل.',
       hi: 'खरीद, किराया, भूमि, स्ट्रेटा और वित्तपोषण।',
+      es: 'Compra, alquiler, terrenos, propiedad horizontal (strata) y financiación.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -714,7 +744,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'transport',
     icon: '🚗',
-    name: { ms: 'Pengangkutan', en: 'Transport', zh: '交通', ta: 'போக்குவரத்து', ja: '交通', ko: '교통', th: 'การขนส่ง', vi: 'Giao thông vận tải', id: 'Transportasi', ar: 'النقل', hi: 'परिवहन' },
+    name: { ms: 'Pengangkutan', en: 'Transport', zh: '交通', ta: 'போக்குவரத்து', ja: '交通', ko: '교통', th: 'การขนส่ง', vi: 'Giao thông vận tải', id: 'Transportasi', ar: 'النقل', hi: 'परिवहन', es: 'Transporte' },
     blurb: {
       ms: 'Jalan raya, kereta api, penerbangan, maritim dan pengangkutan awam.',
       en: 'Roads, rail, aviation, maritime and public transport.',
@@ -727,6 +757,7 @@ export const CATEGORIES: Category[] = [
       id: 'Jalan raya, kereta api, penerbangan, maritim, dan transportasi publik.',
       ar: 'الطرق، والسكك الحديدية، والطيران، والنقل البحري، والنقل العام.',
       hi: 'सड़कें, रेल, विमानन, समुद्री और सार्वजनिक परिवहन।',
+      es: 'Carreteras, ferrocarril, aviación, transporte marítimo y transporte público.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -735,7 +766,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'tourism',
     icon: '🌍',
-    name: { ms: 'Pelancongan', en: 'Tourism', zh: '旅游', ta: 'சுற்றுலா', ja: '観光', ko: '관광', th: 'การท่องเที่ยว', vi: 'Du lịch', id: 'Pariwisata', ar: 'السياحة', hi: 'पर्यटन' },
+    name: { ms: 'Pelancongan', en: 'Tourism', zh: '旅游', ta: 'சுற்றுலா', ja: '観光', ko: '관광', th: 'การท่องเที่ยว', vi: 'Du lịch', id: 'Pariwisata', ar: 'السياحة', hi: 'पर्यटन', es: 'Turismo' },
     blurb: {
       ms: 'Destinasi, perjalanan, budaya dan warisan.',
       en: 'Destinations, travel, culture and heritage.',
@@ -748,6 +779,7 @@ export const CATEGORIES: Category[] = [
       id: 'Destinasi, perjalanan, budaya, dan warisan.',
       ar: 'الوجهات، والسفر، والثقافة، والتراث.',
       hi: 'गंतव्य, यात्रा, संस्कृति और विरासत।',
+      es: 'Destinos, viajes, cultura y patrimonio.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -756,7 +788,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'food-lifestyle',
     icon: '🍜',
-    name: { ms: 'Makanan & Gaya Hidup', en: 'Food & Lifestyle', zh: '美食与生活', ta: 'உணவு & வாழ்க்கை முறை', ja: '食・ライフスタイル', ko: '음식 및 라이프스타일', th: 'อาหารและไลฟ์สไตล์', vi: 'Ẩm thực & Lối sống', id: 'Makanan & Gaya Hidup', ar: 'الطعام ونمط الحياة', hi: 'भोजन और जीवनशैली' },
+    name: { ms: 'Makanan & Gaya Hidup', en: 'Food & Lifestyle', zh: '美食与生活', ta: 'உணவு & வாழ்க்கை முறை', ja: '食・ライフスタイル', ko: '음식 및 라이프스타일', th: 'อาหารและไลฟ์สไตล์', vi: 'Ẩm thực & Lối sống', id: 'Makanan & Gaya Hidup', ar: 'الطعام ونمط الحياة', hi: 'भोजन और जीवनशैली', es: 'Gastronomía y estilo de vida' },
     blurb: {
       ms: 'Masakan Malaysia, gaya hidup dan membeli-belah.',
       en: 'Malaysian cuisine, lifestyle and shopping.',
@@ -769,6 +801,7 @@ export const CATEGORIES: Category[] = [
       id: 'Masakan Malaysia, gaya hidup, dan berbelanja.',
       ar: 'المطبخ الماليزي، ونمط الحياة، والتسوق.',
       hi: 'मलेशियाई व्यंजन, जीवनशैली और खरीदारी।',
+      es: 'Cocina malasia, estilo de vida y compras.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -777,7 +810,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'public-safety',
     icon: '🛡',
-    name: { ms: 'Keselamatan Awam', en: 'Public Safety', zh: '公共安全', ta: 'பொதுப் பாதுகாப்பு', ja: '公共安全', ko: '공공 안전', th: 'ความปลอดภัยสาธารณะ', vi: 'An toàn công cộng', id: 'Keselamatan Publik', ar: 'السلامة العامة', hi: 'सार्वजनिक सुरक्षा' },
+    name: { ms: 'Keselamatan Awam', en: 'Public Safety', zh: '公共安全', ta: 'பொதுப் பாதுகாப்பு', ja: '公共安全', ko: '공공 안전', th: 'ความปลอดภัยสาธารณะ', vi: 'An toàn công cộng', id: 'Keselamatan Publik', ar: 'السلامة العامة', hi: 'सार्वजनिक सुरक्षा', es: 'Seguridad pública' },
     blurb: {
       ms: 'Polis, bomba dan perkhidmatan kecemasan.',
       en: 'Police, fire and emergency services.',
@@ -790,6 +823,7 @@ export const CATEGORIES: Category[] = [
       id: 'Polisi, pemadam kebakaran, dan layanan darurat.',
       ar: 'الشرطة، والإطفاء، وخدمات الطوارئ.',
       hi: 'पुलिस, अग्निशमन और आपातकालीन सेवाएँ।',
+      es: 'Policía, bomberos y servicios de emergencia.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -798,7 +832,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'agriculture',
     icon: '🌱',
-    name: { ms: 'Pertanian', en: 'Agriculture', zh: '农业', ta: 'விவசாயம்', ja: '農業', ko: '농업', th: 'เกษตรกรรม', vi: 'Nông nghiệp', id: 'Pertanian', ar: 'الزراعة', hi: 'कृषि' },
+    name: { ms: 'Pertanian', en: 'Agriculture', zh: '农业', ta: 'விவசாயம்', ja: '農業', ko: '농업', th: 'เกษตรกรรม', vi: 'Nông nghiệp', id: 'Pertanian', ar: 'الزراعة', hi: 'कृषि', es: 'Agricultura' },
     blurb: {
       ms: 'Pertanian, perikanan dan perladangan.',
       en: 'Farming, fisheries and plantations.',
@@ -811,6 +845,7 @@ export const CATEGORIES: Category[] = [
       id: 'Pertanian, perikanan, dan perkebunan.',
       ar: 'الزراعة، ومصايد الأسماك، والمزارع الكبرى.',
       hi: 'खेती, मत्स्य पालन और बागान।',
+      es: 'Agricultura, pesca y plantaciones.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -819,7 +854,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'energy',
     icon: '⚡',
-    name: { ms: 'Tenaga & Utiliti', en: 'Energy & Utilities', zh: '能源与公用事业', ta: 'ஆற்றல் & பயன்பாட்டுச் சேவைகள்', ja: 'エネルギー・公益事業', ko: '에너지 및 공익사업', th: 'พลังงานและสาธารณูปโภค', vi: 'Năng lượng & Tiện ích', id: 'Energi & Utilitas', ar: 'الطاقة والمرافق', hi: 'ऊर्जा और उपयोगिताएँ' },
+    name: { ms: 'Tenaga & Utiliti', en: 'Energy & Utilities', zh: '能源与公用事业', ta: 'ஆற்றல் & பயன்பாட்டுச் சேவைகள்', ja: 'エネルギー・公益事業', ko: '에너지 및 공익사업', th: 'พลังงานและสาธารณูปโภค', vi: 'Năng lượng & Tiện ích', id: 'Energi & Utilitas', ar: 'الطاقة والمرافق', hi: 'ऊर्जा और उपयोगिताएँ', es: 'Energía y servicios públicos' },
     blurb: {
       ms: 'Elektrik, air dan tenaga boleh baharu.',
       en: 'Electricity, water and renewable energy.',
@@ -832,6 +867,7 @@ export const CATEGORIES: Category[] = [
       id: 'Listrik, air, dan energi terbarukan.',
       ar: 'الكهرباء، والمياه، والطاقة المتجددة.',
       hi: 'बिजली, पानी और नवीकरणीय ऊर्जा।',
+      es: 'Electricidad, agua y energía renovable.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -840,7 +876,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'environment',
     icon: '🌳',
-    name: { ms: 'Alam Sekitar', en: 'Environment', zh: '环境', ta: 'சுற்றுச்சூழல்', ja: '環境', ko: '환경', th: 'สิ่งแวดล้อม', vi: 'Môi trường', id: 'Lingkungan Hidup', ar: 'البيئة', hi: 'पर्यावरण' },
+    name: { ms: 'Alam Sekitar', en: 'Environment', zh: '环境', ta: 'சுற்றுச்சூழல்', ja: '環境', ko: '환경', th: 'สิ่งแวดล้อม', vi: 'Môi trường', id: 'Lingkungan Hidup', ar: 'البيئة', hi: 'पर्यावरण', es: 'Medio ambiente' },
     blurb: {
       ms: 'Kelestarian, iklim dan pengurusan sisa.',
       en: 'Sustainability, climate and waste management.',
@@ -853,6 +889,7 @@ export const CATEGORIES: Category[] = [
       id: 'Keberlanjutan, iklim, dan pengelolaan limbah.',
       ar: 'الاستدامة، والمناخ، وإدارة النفايات.',
       hi: 'स्थिरता, जलवायु और अपशिष्ट प्रबंधन।',
+      es: 'Sostenibilidad, clima y gestión de residuos.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -861,7 +898,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'sports',
     icon: '⚽',
-    name: { ms: 'Sukan', en: 'Sports', zh: '体育', ta: 'விளையாட்டு', ja: 'スポーツ', ko: '스포츠', th: 'กีฬา', vi: 'Thể thao', id: 'Olahraga', ar: 'الرياضة', hi: 'खेल' },
+    name: { ms: 'Sukan', en: 'Sports', zh: '体育', ta: 'விளையாட்டு', ja: 'スポーツ', ko: '스포츠', th: 'กีฬา', vi: 'Thể thao', id: 'Olahraga', ar: 'الرياضة', hi: 'खेल', es: 'Deportes' },
     blurb: {
       ms: 'Sukan negara, persatuan dan kemudahan.',
       en: 'National sports, associations and facilities.',
@@ -874,6 +911,7 @@ export const CATEGORIES: Category[] = [
       id: 'Olahraga nasional, asosiasi, dan fasilitas.',
       ar: 'الرياضة الوطنية، والاتحادات، والمرافق.',
       hi: 'राष्ट्रीय खेल, संघ और सुविधाएँ।',
+      es: 'Deporte nacional, asociaciones e instalaciones.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -882,7 +920,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'settling-in',
     icon: '🛬',
-    name: { ms: 'Menetap di Malaysia', en: 'Settling In', zh: '落地安顿', ta: 'குடியேறுதல்', ja: '定住手続き', ko: '정착하기', th: 'การตั้งถิ่นฐาน', vi: 'Ổn định cuộc sống', id: 'Menetap di Malaysia', ar: 'الاستقرار في ماليزيا', hi: 'बसना' },
+    name: { ms: 'Menetap di Malaysia', en: 'Settling In', zh: '落地安顿', ta: 'குடியேறுதல்', ja: '定住手続き', ko: '정착하기', th: 'การตั้งถิ่นฐาน', vi: 'Ổn định cuộc sống', id: 'Menetap di Malaysia', ar: 'الاستقرار في ماليزيا', hi: 'बसना', es: 'Instalarse' },
     blurb: {
       ms: 'Visa, pas, dan dokumen yang perlu diuruskan apabila tiba atau menetap.',
       en: 'Visas, passes and the documents to sort out on arrival and as a resident.',
@@ -895,6 +933,7 @@ export const CATEGORIES: Category[] = [
       id: 'Visa, pas, dan dokumen yang perlu diurus saat tiba atau menetap.',
       ar: 'التأشيرات، والتصاريح، والمستندات التي يجب ترتيبها عند الوصول وبصفتك مقيمًا.',
       hi: 'वीज़ा, पास और आगमन पर तथा निवासी के रूप में निपटाने वाले दस्तावेज़।',
+      es: 'Visados, permisos y los documentos que hay que gestionar a la llegada y como residente.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -903,7 +942,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'money-daily-life',
     icon: '💳',
-    name: { ms: 'Wang & Kehidupan Harian', en: 'Money & Daily Life', zh: '金钱与日常', ta: 'பணம் & அன்றாட வாழ்க்கை', ja: 'お金・日常生活', ko: '돈과 일상생활', th: 'เงินและชีวิตประจำวัน', vi: 'Tiền bạc & Cuộc sống hằng ngày', id: 'Uang & Kehidupan Sehari-hari', ar: 'المال والحياة اليومية', hi: 'पैसा और दैनिक जीवन' },
+    name: { ms: 'Wang & Kehidupan Harian', en: 'Money & Daily Life', zh: '金钱与日常', ta: 'பணம் & அன்றாட வாழ்க்கை', ja: 'お金・日常生活', ko: '돈과 일상생활', th: 'เงินและชีวิตประจำวัน', vi: 'Tiền bạc & Cuộc sống hằng ngày', id: 'Uang & Kehidupan Sehari-hari', ar: 'المال والحياة اليومية', hi: 'पैसा और दैनिक जीवन', es: 'Dinero y vida cotidiana' },
     blurb: {
       ms: 'Perbankan, bil, cukai peribadi dan urusan harian.',
       en: 'Banking, bills, personal tax and everyday admin.',
@@ -916,6 +955,7 @@ export const CATEGORIES: Category[] = [
       id: 'Perbankan, tagihan, pajak pribadi, dan urusan sehari-hari.',
       ar: 'الأعمال المصرفية، والفواتير، والضريبة الشخصية، والمعاملات اليومية.',
       hi: 'बैंकिंग, बिल, व्यक्तिगत कर और रोज़मर्रा का प्रशासन।',
+      es: 'Banca, facturas, impuesto personal y trámites cotidianos.',
     },
     archetype: 'service',
     pillar: 'living',
@@ -924,7 +964,7 @@ export const CATEGORIES: Category[] = [
   {
     id: 'cost-of-living',
     icon: '🧾',
-    name: { ms: 'Kos Sara Hidup', en: 'Cost of Living', zh: '生活成本', ta: 'வாழ்க்கைச் செலவு', ja: '生活費', ko: '생활비', th: 'ค่าครองชีพ', vi: 'Chi phí sinh hoạt', id: 'Biaya Hidup', ar: 'تكلفة المعيشة', hi: 'जीवनयापन की लागत' },
+    name: { ms: 'Kos Sara Hidup', en: 'Cost of Living', zh: '生活成本', ta: 'வாழ்க்கைச் செலவு', ja: '生活費', ko: '생활비', th: 'ค่าครองชีพ', vi: 'Chi phí sinh hoạt', id: 'Biaya Hidup', ar: 'تكلفة المعيشة', hi: 'जीवनयापन की लागत', es: 'Costo de vida' },
     blurb: {
       ms: 'Bajet, sewa, gaji dan perbelanjaan sebenar mengikut bandar.',
       en: 'Budgets, rent, salaries and real expenses by city.',
@@ -937,6 +977,7 @@ export const CATEGORIES: Category[] = [
       id: 'Anggaran, sewa, gaji, dan pengeluaran nyata berdasarkan kota.',
       ar: 'الميزانيات، والإيجار، والرواتب، والنفقات الفعلية حسب المدينة.',
       hi: 'बजट, किराया, वेतन और शहर-वार वास्तविक खर्च।',
+      es: 'Presupuestos, alquiler, salarios y gastos reales por ciudad.',
     },
     archetype: 'service',
     pillar: 'living',

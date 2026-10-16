@@ -9,8 +9,8 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) =>
-  (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) =>
+  (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Newest first.
 const items = [...MILESTONES].sort((a, b) => (a.date < b.date ? 1 : -1));
@@ -25,10 +25,10 @@ const dateFmt = (d: string) =>
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الرئيسية', 'होम'), href: localePath('/', locale) },
-    { label: L('Pencapaian Penting', 'Milestones', '里程碑', 'மைல்கற்கள்', 'マイルストーン', '주요 이정표', 'เหตุการณ์สำคัญ', 'Cột mốc quan trọng', 'Tonggak Pencapaian', 'المعالم البارزة', 'मील के पत्थर') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الرئيسية', 'होम', 'Inicio'), href: localePath('/', locale) },
+    { label: L('Pencapaian Penting', 'Milestones', '里程碑', 'மைல்கற்கள்', 'マイルストーン', '주요 이정표', 'เหตุการณ์สำคัญ', 'Cột mốc quan trọng', 'Tonggak Pencapaian', 'المعالم البارزة', 'मील के पत्थर', 'Hitos') },
   ]}
-  title={L('Pencapaian Penting', 'Milestones', '里程碑', 'மைல்கற்கள்', 'マイルストーン', '주요 이정표', 'เหตุการณ์สำคัญ', 'Cột mốc quan trọng', 'Tonggak Pencapaian', 'المعالم البارزة', 'मील के पत्थर')}
+  title={L('Pencapaian Penting', 'Milestones', '里程碑', 'மைல்கற்கள்', 'マイルストーン', '주요 이정표', 'เหตุการณ์สำคัญ', 'Cột mốc quan trọng', 'Tonggak Pencapaian', 'المعالم البارزة', 'मील के पत्थर', 'Hitos')}
   desc={L(
     'Perjalanan NegaraKu.md setakat ini — detik-detik penting yang menandakan sejauh mana pangkalan pengetahuan ini telah berkembang.',
     'The journey of NegaraKu.md so far — the moments that mark how far this knowledge base has come.',
@@ -41,6 +41,7 @@ const dateFmt = (d: string) =>
     'Perjalanan NegaraKu.md sejauh ini — momen-momen penting yang menandai sejauh mana basis pengetahuan ini telah berkembang.',
     'رحلة NegaraKu.md حتى الآن — اللحظات التي تؤشّر إلى المدى الذي بلغته قاعدة المعرفة هذه.',
     'NegaraKu.md की अब तक की यात्रा — वे पल जो दर्शाते हैं कि यह ज्ञान आधार कितनी दूर आ गया है।',
+    'El recorrido de NegaraKu.md hasta ahora — los momentos que marcan hasta dónde ha llegado esta base de conocimiento.',
   )}
 />
 
@@ -73,6 +74,7 @@ const dateFmt = (d: string) =>
       'Untuk sejarah lengkap setiap perubahan, lihat Log Perubahan.',
       'للاطلاع على التاريخ الكامل لكل تغيير، راجع سجل التغييرات.',
       'हर बदलाव के पूरे इतिहास के लिए, चेंजलॉग देखें।',
+      'Para ver el historial completo de cada cambio, consulta el Registro de cambios.',
     )}
   </p>
 </section>

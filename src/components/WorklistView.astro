@@ -17,7 +17,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const CONTRIB_ONLY = import.meta.env.DEV || process.env.PREVIEW_ALL === '1';
 
@@ -39,26 +39,26 @@ const drafts = topics.filter((a) => a.data.status === 'draft');
 // Assignee tally for the In-progress board (so no one double-claims).
 const byAssignee: Record<string, number> = {};
 for (const a of inProgress) {
-  const k = a.data.assignee || L('belum dituntut', 'unclaimed', '未认领', 'உரிமை கொள்ளப்படவில்லை', '未割り当て', '미배정', 'ยังไม่มีผู้รับ', 'chưa nhận', 'belum diklaim', 'غير مُطالَب به', 'दावा न किया गया');
+  const k = a.data.assignee || L('belum dituntut', 'unclaimed', '未认领', 'உரிமை கொள்ளப்படவில்லை', '未割り当て', '미배정', 'ยังไม่มีผู้รับ', 'chưa nhận', 'belum diklaim', 'غير مُطالَب به', 'दावा न किया गया', 'sin reclamar');
   byAssignee[k] = (byAssignee[k] || 0) + 1;
 }
 const assigneeSummary = Object.entries(byAssignee).map(([k, n]) => `${k}: ${n}`).join('  ·  ');
 
 const stats = [
-  { icon: '🔧', value: needsUpdate.length, label: L('perlu kemas kini', 'needs update', '需更新', 'புதுப்பிக்க வேண்டியவை', '要更新', '업데이트 필요', 'ต้องอัปเดต', 'cần cập nhật', 'perlu diperbarui', 'بحاجة إلى تحديث', 'अपडेट की आवश्यकता') },
-  { icon: '📨', value: reqRedraft.length + reqArchive.length, label: L('permintaan', 'requests', '请求', 'கோரிக்கைகள்', 'リクエスト', '요청', 'คำร้องขอ', 'yêu cầu', 'permintaan', 'طلبات', 'अनुरोध') },
-  { icon: '⏳', value: inProgress.length, label: L('dalam proses', 'in progress', '进行中', 'நடைபெறுகிறது', '進行中', '진행 중', 'กำลังดำเนินการ', 'đang tiến hành', 'dalam proses', 'قيد التنفيذ', 'प्रगति पर') },
-  { icon: '⏰', value: awaiting.length, label: L('menunggu kelulusan', 'awaiting', '待批准', 'ஒப்புதலுக்குக் காத்திருக்கிறது', '承認待ち', '대기 중', 'รอดำเนินการ', 'chờ phê duyệt', 'menunggu persetujuan', 'في الانتظار', 'प्रतीक्षारत') },
+  { icon: '🔧', value: needsUpdate.length, label: L('perlu kemas kini', 'needs update', '需更新', 'புதுப்பிக்க வேண்டியவை', '要更新', '업데이트 필요', 'ต้องอัปเดต', 'cần cập nhật', 'perlu diperbarui', 'بحاجة إلى تحديث', 'अपडेट की आवश्यकता', 'requiere actualización') },
+  { icon: '📨', value: reqRedraft.length + reqArchive.length, label: L('permintaan', 'requests', '请求', 'கோரிக்கைகள்', 'リクエスト', '요청', 'คำร้องขอ', 'yêu cầu', 'permintaan', 'طلبات', 'अनुरोध', 'solicitudes') },
+  { icon: '⏳', value: inProgress.length, label: L('dalam proses', 'in progress', '进行中', 'நடைபெறுகிறது', '進行中', '진행 중', 'กำลังดำเนินการ', 'đang tiến hành', 'dalam proses', 'قيد التنفيذ', 'प्रगति पर', 'en curso') },
+  { icon: '⏰', value: awaiting.length, label: L('menunggu kelulusan', 'awaiting', '待批准', 'ஒப்புதலுக்குக் காத்திருக்கிறது', '承認待ち', '대기 중', 'รอดำเนินการ', 'chờ phê duyệt', 'menunggu persetujuan', 'في الانتظار', 'प्रतीक्षारत', 'en espera') },
 ];
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الرئيسية', 'मुख्य पृष्ठ'), href: localePath('/', locale) },
-    { label: L('Senarai Kerja', 'Worklist', '工作清单', 'வேலைப்பட்டியல்', '作業リスト', '작업 목록', 'รายการงาน', 'Danh sách công việc', 'Daftar Kerja', 'قائمة العمل', 'कार्यसूची') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الرئيسية', 'मुख्य पृष्ठ', 'Inicio'), href: localePath('/', locale) },
+    { label: L('Senarai Kerja', 'Worklist', '工作清单', 'வேலைப்பட்டியல்', '作業リスト', '작업 목록', 'รายการงาน', 'Danh sách công việc', 'Daftar Kerja', 'قائمة العمل', 'कार्यसूची', 'Lista de trabajo') },
   ]}
-  title={L('Senarai Kerja Editorial', 'Editorial Worklist', '编辑工作清单', 'ஆசிரியர் வேலைப்பட்டியல்', '編集作業リスト', '편집 작업 목록', 'รายการงานบรรณาธิการ', 'Danh sách công việc biên tập', 'Daftar Kerja Editorial', 'قائمة العمل التحريرية', 'संपादकीय कार्यसूची')}
+  title={L('Senarai Kerja Editorial', 'Editorial Worklist', '编辑工作清单', 'ஆசிரியர் வேலைப்பட்டியல்', '編集作業リスト', '편집 작업 목록', 'รายการงานบรรณาธิการ', 'Danh sách công việc biên tập', 'Daftar Kerja Editorial', 'قائمة العمل التحريرية', 'संपादकीय कार्यसूची', 'Lista de trabajo editorial')}
   desc={L(
     'Barisan kerja penyumbang — apa yang perlu dikemas kini, ditulis semula, diarkibkan atau diluluskan.',
     "The contributor queue — what needs updating, redrafting, archiving or approving.",
@@ -71,6 +71,7 @@ const stats = [
     'Antrean kerja kontributor — apa yang perlu diperbarui, ditulis ulang, diarsipkan, atau disetujui.',
     'قائمة عمل المساهمين — ما يحتاج إلى تحديث أو إعادة صياغة أو أرشفة أو موافقة.',
     'योगदानकर्ता कतार — जिसे अपडेट, पुनर्लेखन, संग्रह या अनुमोदन की आवश्यकता है।',
+    'La cola de los colaboradores: lo que necesita actualización, reescritura, archivado o aprobación.',
   )}
   stats={CONTRIB_ONLY ? stats : []}
 />
@@ -80,7 +81,7 @@ const stats = [
     <section class="container block">
       <div class="notice">
         <p>
-          <b>{L('Alat penyumbang', 'Contributor tool', '贡献者工具', 'பங்களிப்பாளர் கருவி', '貢献者ツール', '기여자 도구', 'เครื่องมือผู้มีส่วนร่วม', 'Công cụ dành cho người đóng góp', 'Alat kontributor', 'أداة المساهم', 'योगदानकर्ता उपकरण')}.</b>{' '}
+          <b>{L('Alat penyumbang', 'Contributor tool', '贡献者工具', 'பங்களிப்பாளர் கருவி', '貢献者ツール', '기여자 도구', 'เครื่องมือผู้มีส่วนร่วม', 'Công cụ dành cho người đóng góp', 'Alat kontributor', 'أداة المساهم', 'योगदानकर्ता उपकरण', 'Herramienta para colaboradores')}.</b>{' '}
           {L(
             'Senarai kerja hanya dipaparkan dalam persekitaran pembangunan / pratonton, kerana ia menyenaraikan tajuk draf yang belum diterbitkan.',
             'The worklist only renders in the dev / preview environment, because it lists unpublished draft titles.',
@@ -93,11 +94,12 @@ const stats = [
             'Daftar kerja hanya ditampilkan di lingkungan pengembangan / pratinjau, karena mencantumkan judul draf yang belum diterbitkan.',
             'لا تظهر قائمة العمل إلا في بيئة التطوير / المعاينة، لأنها تسرد عناوين المسودات غير المنشورة.',
             'कार्यसूची केवल dev / पूर्वावलोकन परिवेश में प्रदर्शित होती है, क्योंकि यह अप्रकाशित ड्राफ्ट शीर्षक सूचीबद्ध करती है।',
+            'La lista de trabajo solo se muestra en el entorno de desarrollo / vista previa, porque enumera títulos de borradores sin publicar.',
           )}
         </p>
         <p class="muted">
-          {L('Jalankan', 'Run', '运行', 'இயக்குங்கள்', '実行', '실행', 'รัน', 'Chạy', 'Jalankan', 'شغّل', 'चलाएँ')} <code>npm run dev</code>{' '}
-          {L('untuk membukanya.', 'to open it.', '以打开它。', 'அதைத் திறக்க.', 'を実行して開きます。', '을 실행하여 엽니다.', 'เพื่อเปิด', 'để mở nó.', 'untuk membukanya.', 'لفتحها.', 'इसे खोलने के लिए।')}
+          {L('Jalankan', 'Run', '运行', 'இயக்குங்கள்', '実行', '실행', 'รัน', 'Chạy', 'Jalankan', 'شغّل', 'चलाएँ', 'Ejecute')} <code>npm run dev</code>{' '}
+          {L('untuk membukanya.', 'to open it.', '以打开它。', 'அதைத் திறக்க.', 'を実行して開きます。', '을 실행하여 엽니다.', 'เพื่อเปิด', 'để mở nó.', 'untuk membukanya.', 'لفتحها.', 'इसे खोलने के लिए।', 'para abrirla.')}
         </p>
       </div>
     </section>
@@ -108,9 +110,9 @@ const stats = [
   CONTRIB_ONLY && (
     <section class="container block wl">
       {[
-        { key: 'nu', label: L('Perlu Kemas Kini', 'Needs update', '需更新', 'புதுப்பிக்க வேண்டும்', '要更新', '업데이트 필요', 'ต้องอัปเดต', 'Cần cập nhật', 'Perlu Diperbarui', 'بحاجة إلى تحديث', 'अपडेट की आवश्यकता'), hint: L('auto: semakan tertunggak · atau dilaporkan pembaca', 'auto: review overdue · or reader-flagged', '自动：审阅逾期 · 或读者标记', 'தானியங்கி: மதிப்பாய்வு தாமதம் · அல்லது வாசகரால் குறிக்கப்பட்டது', '自動: レビュー期限超過 · または読者からの指摘', '자동: 검토 기한 초과 · 또는 독자 신고', 'อัตโนมัติ: การตรวจทานเกินกำหนด · หรือผู้อ่านแจ้ง', 'tự động: đánh giá quá hạn · hoặc do người đọc gắn cờ', 'otomatis: tinjauan terlambat · atau dilaporkan pembaca', 'تلقائي: المراجعة متأخرة · أو مُبلّغ عنها من قارئ', 'स्वतः: समीक्षा अतिदेय · या पाठक-चिह्नित'), items: needsUpdate, action: L('Tuntut & sunting', 'Claim & edit', '认领并编辑', 'உரிமை கொண்டு திருத்து', '担当して編集', '담당 후 편집', 'รับงานและแก้ไข', 'Nhận & chỉnh sửa', 'Klaim & sunting', 'المطالبة والتحرير', 'दावा करें और संपादित करें') },
-        { key: 'rr', label: L('Permintaan Tulis Semula', 'Redraft requested', '重写请求', 'மறுவரைவுக் கோரிக்கை', '書き直し依頼', '재작성 요청됨', 'มีคำขอเขียนใหม่', 'Yêu cầu viết lại', 'Permintaan Tulis Ulang', 'طُلبت إعادة الصياغة', 'पुनर्लेखन अनुरोधित'), hint: L('diminta manusia', 'human-requested', '人工请求', 'மனிதரால் கோரப்பட்டது', '人による依頼', '사람이 요청', 'ร้องขอโดยมนุษย์', 'do con người yêu cầu', 'diminta manusia', 'بطلب بشري', 'मानव-अनुरोधित'), items: reqRedraft, action: L('Tuntut', 'Claim', '认领', 'உரிமை கொள்', '担当する', '담당', 'รับงาน', 'Nhận', 'Klaim', 'المطالبة', 'दावा करें') },
-        { key: 'ra', label: L('Permintaan Arkib', 'Archive requested', '归档请求', 'காப்பகக் கோரிக்கை', 'アーカイブ依頼', '보관 요청됨', 'มีคำขอจัดเก็บถาวร', 'Yêu cầu lưu trữ', 'Permintaan Arsip', 'طُلبت الأرشفة', 'संग्रह अनुरोधित'), hint: L('untuk pengesahan pentadbir', 'maintainer to confirm', '维护者确认', 'பராமரிப்பாளர் உறுதிப்படுத்த வேண்டும்', 'メンテナーが確認', '관리자 확인 필요', 'ผู้ดูแลต้องยืนยัน', 'người bảo trì xác nhận', 'untuk konfirmasi pengelola', 'بانتظار تأكيد المشرف', 'अनुरक्षक को पुष्टि करनी है'), items: reqArchive, action: L('Tuntut', 'Claim', '认领', 'உரிமை கொள்', '担当する', '담당', 'รับงาน', 'Nhận', 'Klaim', 'المطالبة', 'दावा करें') },
+        { key: 'nu', label: L('Perlu Kemas Kini', 'Needs update', '需更新', 'புதுப்பிக்க வேண்டும்', '要更新', '업데이트 필요', 'ต้องอัปเดต', 'Cần cập nhật', 'Perlu Diperbarui', 'بحاجة إلى تحديث', 'अपडेट की आवश्यकता', 'Requiere actualización'), hint: L('auto: semakan tertunggak · atau dilaporkan pembaca', 'auto: review overdue · or reader-flagged', '自动：审阅逾期 · 或读者标记', 'தானியங்கி: மதிப்பாய்வு தாமதம் · அல்லது வாசகரால் குறிக்கப்பட்டது', '自動: レビュー期限超過 · または読者からの指摘', '자동: 검토 기한 초과 · 또는 독자 신고', 'อัตโนมัติ: การตรวจทานเกินกำหนด · หรือผู้อ่านแจ้ง', 'tự động: đánh giá quá hạn · hoặc do người đọc gắn cờ', 'otomatis: tinjauan terlambat · atau dilaporkan pembaca', 'تلقائي: المراجعة متأخرة · أو مُبلّغ عنها من قارئ', 'स्वतः: समीक्षा अतिदेय · या पाठक-चिह्नित', 'auto: revisión vencida · o señalado por lectores'), items: needsUpdate, action: L('Tuntut & sunting', 'Claim & edit', '认领并编辑', 'உரிமை கொண்டு திருத்து', '担当して編集', '담당 후 편집', 'รับงานและแก้ไข', 'Nhận & chỉnh sửa', 'Klaim & sunting', 'المطالبة والتحرير', 'दावा करें और संपादित करें', 'Reclamar y editar') },
+        { key: 'rr', label: L('Permintaan Tulis Semula', 'Redraft requested', '重写请求', 'மறுவரைவுக் கோரிக்கை', '書き直し依頼', '재작성 요청됨', 'มีคำขอเขียนใหม่', 'Yêu cầu viết lại', 'Permintaan Tulis Ulang', 'طُلبت إعادة الصياغة', 'पुनर्लेखन अनुरोधित', 'Reescritura solicitada'), hint: L('diminta manusia', 'human-requested', '人工请求', 'மனிதரால் கோரப்பட்டது', '人による依頼', '사람이 요청', 'ร้องขอโดยมนุษย์', 'do con người yêu cầu', 'diminta manusia', 'بطلب بشري', 'मानव-अनुरोधित', 'solicitado por un humano'), items: reqRedraft, action: L('Tuntut', 'Claim', '认领', 'உரிமை கொள்', '担当する', '담당', 'รับงาน', 'Nhận', 'Klaim', 'المطالبة', 'दावा करें', 'Reclamar') },
+        { key: 'ra', label: L('Permintaan Arkib', 'Archive requested', '归档请求', 'காப்பகக் கோரிக்கை', 'アーカイブ依頼', '보관 요청됨', 'มีคำขอจัดเก็บถาวร', 'Yêu cầu lưu trữ', 'Permintaan Arsip', 'طُلبت الأرشفة', 'संग्रह अनुरोधित', 'Archivado solicitado'), hint: L('untuk pengesahan pentadbir', 'maintainer to confirm', '维护者确认', 'பராமரிப்பாளர் உறுதிப்படுத்த வேண்டும்', 'メンテナーが確認', '관리자 확인 필요', 'ผู้ดูแลต้องยืนยัน', 'người bảo trì xác nhận', 'untuk konfirmasi pengelola', 'بانتظار تأكيد المشرف', 'अनुरक्षक को पुष्टि करनी है', 'el responsable debe confirmar'), items: reqArchive, action: L('Tuntut', 'Claim', '认领', 'உரிமை கொள்', '担当する', '담당', 'รับงาน', 'Nhận', 'Klaim', 'المطالبة', 'दावा करें', 'Reclamar') },
       ].map((sec) => (
         <div class="wl-sec">
           <header>
@@ -118,7 +120,7 @@ const stats = [
             <span class="wl-hint">{sec.hint}</span>
           </header>
           {sec.items.length === 0 ? (
-            <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.', 'ありません。', '없습니다.', 'ไม่มีรายการ', 'Không có gì ở đây.', 'Tidak ada.', 'لا شيء هنا.', 'यहाँ कुछ नहीं।')}</p>
+            <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.', 'ありません。', '없습니다.', 'ไม่มีรายการ', 'Không có gì ở đây.', 'Tidak ada.', 'لا شيء هنا.', 'यहाँ कुछ नहीं।', 'Nada aquí.')}</p>
           ) : (
             <ul>
               {sec.items.map((a) => (
@@ -128,7 +130,7 @@ const stats = [
                     {catName(a)}
                     {a.data.requestReason && <> · “{a.data.requestReason}”</>}
                     {a.data.requestedBy && <> · {a.data.requestedBy}</>}
-                    {sec.key === 'nu' && a.data.reviewDue && <> · {L('semakan', 'review due', '应审阅', 'மதிப்பாய்வு நிலுவை', '要レビュー', '검토 예정', 'ครบกำหนดตรวจทาน', 'đến hạn đánh giá', 'tinjauan', 'مراجعة مستحقة', 'समीक्षा देय')} {new Date(a.data.reviewDue).toISOString().slice(0, 10)}</>}
+                    {sec.key === 'nu' && a.data.reviewDue && <> · {L('semakan', 'review due', '应审阅', 'மதிப்பாய்வு நிலுவை', '要レビュー', '검토 예정', 'ครบกำหนดตรวจทาน', 'đến hạn đánh giá', 'tinjauan', 'مراجعة مستحقة', 'समीक्षा देय', 'revisión pendiente')} {new Date(a.data.reviewDue).toISOString().slice(0, 10)}</>}
                   </span>
                   <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{sec.action} <span class="dirx">↗</span></a>
                 </li>
@@ -140,11 +142,11 @@ const stats = [
 
       <div class="wl-sec">
         <header>
-          <span>{L('Dalam Proses', 'In progress', '进行中', 'நடைபெறுகிறது', '進行中', '진행 중', 'กำลังดำเนินการ', 'Đang tiến hành', 'Dalam Proses', 'قيد التنفيذ', 'प्रगति पर')} <b>{inProgress.length}</b></span>
+          <span>{L('Dalam Proses', 'In progress', '进行中', 'நடைபெறுகிறது', '進行中', '진행 중', 'กำลังดำเนินการ', 'Đang tiến hành', 'Dalam Proses', 'قيد التنفيذ', 'प्रगति पर', 'En curso')} <b>{inProgress.length}</b></span>
           {assigneeSummary && <span class="wl-hint">{assigneeSummary}</span>}
         </header>
         {inProgress.length === 0 ? (
-          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.', 'ありません。', '없습니다.', 'ไม่มีรายการ', 'Không có gì ở đây.', 'Tidak ada.', 'لا شيء هنا.', 'यहाँ कुछ नहीं।')}</p>
+          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.', 'ありません。', '없습니다.', 'ไม่มีรายการ', 'Không có gì ở đây.', 'Tidak ada.', 'لا شيء هنا.', 'यहाँ कुछ नहीं।', 'Nada aquí.')}</p>
         ) : (
           <ul>
             {inProgress.map((a) => (
@@ -152,9 +154,9 @@ const stats = [
                 <span class="wl-title">{a.data.title}</span>
                 <span class="wl-meta">
                   <span class="wl-status">{a.data.status}</span> · {worker(a)}
-                  {ageDays(a.data.claimedAt) != null && <> · {ageDays(a.data.claimedAt)}{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ng', 'h', 'ي', 'दि')}</>}
+                  {ageDays(a.data.claimedAt) != null && <> · {ageDays(a.data.claimedAt)}{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ng', 'h', 'ي', 'दि', 'd')}</>}
                 </span>
-                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து', '編集', '편집', 'แก้ไข', 'Chỉnh sửa', 'Sunting', 'تحرير', 'संपादित करें')} <span class="dirx">↗</span></a>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து', '編集', '편집', 'แก้ไข', 'Chỉnh sửa', 'Sunting', 'تحرير', 'संपादित करें', 'Editar')} <span class="dirx">↗</span></a>
               </li>
             ))}
           </ul>
@@ -163,18 +165,18 @@ const stats = [
 
       <div class="wl-sec">
         <header>
-          <span>{L('Menunggu Kelulusan', 'Awaiting approval', '待批准', 'ஒப்புதலுக்குக் காத்திருக்கிறது', '承認待ち', '승인 대기', 'รอการอนุมัติ', 'Chờ phê duyệt', 'Menunggu Persetujuan', 'بانتظار الموافقة', 'अनुमोदन की प्रतीक्षा')} <b>{awaiting.length}</b></span>
-          <span class="wl-hint">{L('kelulusan mesti ≠ pelaksana', 'approver must ≠ the person who did the work', '批准者须≠执行者', 'அங்கீகரிப்பவர் ≠ வேலையைச் செய்தவர் ஆக இருக்க வேண்டும்', '承認者は作業者と異なる必要があります', '승인자는 작업 수행자와 달라야 합니다', 'ผู้อนุมัติต้อง ≠ ผู้ที่ทำงานนั้น', 'người phê duyệt phải ≠ người đã thực hiện công việc', 'persetujuan harus ≠ pelaksana', 'يجب أن يكون المُوافِق ≠ من أنجز العمل', 'अनुमोदक ≠ कार्य करने वाला व्यक्ति होना चाहिए')}</span>
+          <span>{L('Menunggu Kelulusan', 'Awaiting approval', '待批准', 'ஒப்புதலுக்குக் காத்திருக்கிறது', '承認待ち', '승인 대기', 'รอการอนุมัติ', 'Chờ phê duyệt', 'Menunggu Persetujuan', 'بانتظار الموافقة', 'अनुमोदन की प्रतीक्षा', 'En espera de aprobación')} <b>{awaiting.length}</b></span>
+          <span class="wl-hint">{L('kelulusan mesti ≠ pelaksana', 'approver must ≠ the person who did the work', '批准者须≠执行者', 'அங்கீகரிப்பவர் ≠ வேலையைச் செய்தவர் ஆக இருக்க வேண்டும்', '承認者は作業者と異なる必要があります', '승인자는 작업 수행자와 달라야 합니다', 'ผู้อนุมัติต้อง ≠ ผู้ที่ทำงานนั้น', 'người phê duyệt phải ≠ người đã thực hiện công việc', 'persetujuan harus ≠ pelaksana', 'يجب أن يكون المُوافِق ≠ من أنجز العمل', 'अनुमोदक ≠ कार्य करने वाला व्यक्ति होना चाहिए', 'el aprobador debe ≠ quien hizo el trabajo')}</span>
         </header>
         {awaiting.length === 0 ? (
-          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.', 'ありません。', '없습니다.', 'ไม่มีรายการ', 'Không có gì ở đây.', 'Tidak ada.', 'لا شيء هنا.', 'यहाँ कुछ नहीं।')}</p>
+          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.', 'ありません。', '없습니다.', 'ไม่มีรายการ', 'Không có gì ở đây.', 'Tidak ada.', 'لا شيء هنا.', 'यहाँ कुछ नहीं।', 'Nada aquí.')}</p>
         ) : (
           <ul>
             {awaiting.map((a) => (
               <li>
                 <span class="wl-title">{a.data.title}</span>
-                <span class="wl-meta">{catName(a)} · {L('dibuat oleh', 'did', '完成者', 'செய்தவர்', '作業者', '작업자', 'ทำโดย', 'thực hiện bởi', 'dibuat oleh', 'أنجزها', 'किया')}: {worker(a)} · {L('perlu pelulus ≠', 'needs approver ≠', '需批准者≠', 'அங்கீகரிப்பவர் தேவை ≠', '承認者が必要 ≠', '승인자 필요 ≠', 'ต้องมีผู้อนุมัติ ≠', 'cần người phê duyệt ≠', 'perlu penyetuju ≠', 'يلزم مُوافِق ≠', 'अनुमोदक चाहिए ≠')} {worker(a)}</span>
-                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Luluskan', 'Approve', '批准', 'ஒப்புதலளி', '承認', '승인', 'อนุมัติ', 'Phê duyệt', 'Setujui', 'الموافقة', 'अनुमोदित करें')} <span class="dirx">↗</span></a>
+                <span class="wl-meta">{catName(a)} · {L('dibuat oleh', 'did', '完成者', 'செய்தவர்', '作業者', '작업자', 'ทำโดย', 'thực hiện bởi', 'dibuat oleh', 'أنجزها', 'किया', 'realizado por')}: {worker(a)} · {L('perlu pelulus ≠', 'needs approver ≠', '需批准者≠', 'அங்கீகரிப்பவர் தேவை ≠', '承認者が必要 ≠', '승인자 필요 ≠', 'ต้องมีผู้อนุมัติ ≠', 'cần người phê duyệt ≠', 'perlu penyetuju ≠', 'يلزم مُوافِق ≠', 'अनुमोदक चाहिए ≠', 'requiere aprobador ≠')} {worker(a)}</span>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Luluskan', 'Approve', '批准', 'ஒப்புதலளி', '承認', '승인', 'อนุมัติ', 'Phê duyệt', 'Setujui', 'الموافقة', 'अनुमोदित करें', 'Aprobar')} <span class="dirx">↗</span></a>
               </li>
             ))}
           </ul>
@@ -183,11 +185,11 @@ const stats = [
 
       <div class="wl-sec">
         <header>
-          <span>{L('Draf', 'Drafts', '草稿', 'வரைவுகள்', '下書き', '초안', 'ฉบับร่าง', 'Bản nháp', 'Draf', 'المسودات', 'ड्राफ्ट')} <b>{drafts.length}</b></span>
-          <span class="wl-hint">{L('artikel baharu sedang ditulis', 'new articles being written', '正在撰写的新文章', 'எழுதப்பட்டு வரும் புதிய கட்டுரைகள்', '執筆中の新しい記事', '작성 중인 새 기사', 'บทความใหม่ที่กำลังเขียน', 'các bài viết mới đang được viết', 'artikel baru sedang ditulis', 'مقالات جديدة قيد الكتابة', 'लिखे जा रहे नए लेख')}</span>
+          <span>{L('Draf', 'Drafts', '草稿', 'வரைவுகள்', '下書き', '초안', 'ฉบับร่าง', 'Bản nháp', 'Draf', 'المسودات', 'ड्राफ्ट', 'Borradores')} <b>{drafts.length}</b></span>
+          <span class="wl-hint">{L('artikel baharu sedang ditulis', 'new articles being written', '正在撰写的新文章', 'எழுதப்பட்டு வரும் புதிய கட்டுரைகள்', '執筆中の新しい記事', '작성 중인 새 기사', 'บทความใหม่ที่กำลังเขียน', 'các bài viết mới đang được viết', 'artikel baru sedang ditulis', 'مقالات جديدة قيد الكتابة', 'लिखे जा रहे नए लेख', 'nuevos artículos en redacción')}</span>
         </header>
         {drafts.length === 0 ? (
-          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.', 'ありません。', '없습니다.', 'ไม่มีรายการ', 'Không có gì ở đây.', 'Tidak ada.', 'لا شيء هنا.', 'यहाँ कुछ नहीं।')}</p>
+          <p class="wl-empty">{L('Tiada.', 'Nothing here.', '暂无。', 'எதுவும் இல்லை.', 'ありません。', '없습니다.', 'ไม่มีรายการ', 'Không có gì ở đây.', 'Tidak ada.', 'لا شيء هنا.', 'यहाँ कुछ नहीं।', 'Nada aquí.')}</p>
         ) : (
           <ul>
             {drafts.map((a) => (
@@ -196,9 +198,9 @@ const stats = [
                 <span class="wl-meta">
                   {catName(a)}
                   {a.data.sensitivity !== 'none' && <> · <span class="wl-sens">🔒 {a.data.sensitivity}</span></>}
-                  {ageDays(a.data.created) != null && <> · {ageDays(a.data.created)}{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ng', 'h', 'ي', 'दि')}</>}
+                  {ageDays(a.data.created) != null && <> · {ageDays(a.data.created)}{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ng', 'h', 'ي', 'दि', 'd')}</>}
                 </span>
-                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து', '編集', '편집', 'แก้ไข', 'Chỉnh sửa', 'Sunting', 'تحرير', 'संपादित करें')} <span class="dirx">↗</span></a>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து', '編集', '편집', 'แก้ไข', 'Chỉnh sửa', 'Sunting', 'تحرير', 'संपादित करें', 'Editar')} <span class="dirx">↗</span></a>
               </li>
             ))}
           </ul>

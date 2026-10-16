@@ -10,7 +10,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string) => (locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const g = getGraph();
 
@@ -35,8 +35,8 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
 
 <PageHero
   locale={locale}
-  crumb={[{ label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम'), href: localePath('/', locale) }, { label: L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱', 'அறிவு வரைபடம்', 'ナレッジグラフ', '지식 그래프', 'กราฟความรู้', 'Đồ thị Tri thức', 'Graf Pengetahuan', 'الرسم البياني المعرفي', 'ज्ञान ग्राफ़') }]}
-  title={L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱', 'அறிவு வரைபடம்', 'ナレッジグラフ', '지식 그래프', 'กราฟความรู้', 'Đồ thị Tri thức', 'Graf Pengetahuan', 'الرسم البياني المعرفي', 'ज्ञान ग्राफ़')}
+  crumb={[{ label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio'), href: localePath('/', locale) }, { label: L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱', 'அறிவு வரைபடம்', 'ナレッジグラフ', '지식 그래프', 'กราฟความรู้', 'Đồ thị Tri thức', 'Graf Pengetahuan', 'الرسم البياني المعرفي', 'ज्ञान ग्राफ़', 'Grafo de conocimiento') }]}
+  title={L('Graf Pengetahuan', 'Knowledge Graph', '知识图谱', 'அறிவு வரைபடம்', 'ナレッジグラフ', '지식 그래프', 'กราฟความรู้', 'Đồ thị Tri thức', 'Graf Pengetahuan', 'الرسم البياني المعرفي', 'ज्ञान ग्राफ़', 'Grafo de conocimiento')}
   desc={L(
     'Setiap topik dan cara ia berkait — dijana daripada rujukan silang sebenar dalam korpus.',
     'Every topic and how it connects — generated from the real cross-references in the corpus.',
@@ -49,6 +49,7 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
     'Setiap topik dan bagaimana kaitannya — dihasilkan dari referensi silang nyata dalam korpus.',
     'كل موضوع وكيفية ارتباطه — مُولَّد من الإحالات المرجعية الفعلية في المتن.',
     'हर विषय और उसके आपसी संबंध — कॉर्पस में मौजूद वास्तविक पारस्परिक संदर्भों से उत्पन्न।',
+    'Cada tema y cómo se conecta — generado a partir de las referencias cruzadas reales del corpus.',
   )}
   stats={[stat.nodes(g.nodeCount, locale), stat.links(g.linkCount, locale)]}
 />
@@ -56,14 +57,14 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
 <section class="container gwrap">
   {
     nodes.length === 0 ? (
-      <p class="gempty">{L('Graf belum dijana lagi.', 'The graph has not been generated yet.', '图谱尚未生成。', 'வரைபடம் இன்னும் உருவாக்கப்படவில்லை.', 'グラフはまだ生成されていません。', '그래프가 아직 생성되지 않았습니다.', 'ยังไม่ได้สร้างกราฟ', 'Đồ thị chưa được tạo.', 'Graf belum dihasilkan.', 'لم يتم إنشاء الرسم البياني بعد.', 'ग्राफ़ अभी तक उत्पन्न नहीं हुआ है।')}</p>
+      <p class="gempty">{L('Graf belum dijana lagi.', 'The graph has not been generated yet.', '图谱尚未生成。', 'வரைபடம் இன்னும் உருவாக்கப்படவில்லை.', 'グラフはまだ生成されていません。', '그래프가 아직 생성되지 않았습니다.', 'ยังไม่ได้สร้างกราฟ', 'Đồ thị chưa được tạo.', 'Graf belum dihasilkan.', 'لم يتم إنشاء الرسم البياني بعد.', 'ग्राफ़ अभी तक उत्पन्न नहीं हुआ है।', 'El grafo aún no se ha generado.')}</p>
     ) : (
       <>
         <div class="gbar">
           <p class="ghint">
-            {L('Tatal/dua jari untuk zum · seret untuk gerak · tuding atau ketik untuk sorot · klik/ketik dua kali untuk buka.', 'Scroll or two fingers to zoom · drag to pan · hover or tap to highlight · click / double-tap to open.', '滚动或双指缩放 · 拖动平移 · 悬停或轻点高亮 · 点击/双击打开。', 'பெரிதாக்க ஸ்க்ரோல் செய்யவும் அல்லது இரண்டு விரல்களைப் பயன்படுத்தவும் · நகர்த்த இழுக்கவும் · சிறப்பிக்க மேலே கொண்டு செல்லவும் அல்லது தட்டவும் · திறக்க கிளிக் / இருமுறை தட்டவும்.', 'スクロールまたは2本指でズーム · ドラッグで移動 · ホバーまたはタップでハイライト · クリック／ダブルタップで開く。', '확대하려면 스크롤하거나 두 손가락을 사용하세요 · 이동하려면 드래그하세요 · 강조하려면 마우스를 올리거나 탭하세요 · 열려면 클릭 / 더블 탭하세요.', 'เลื่อนหรือใช้สองนิ้วเพื่อซูม · ลากเพื่อเลื่อนภาพ · วางเมาส์หรือแตะเพื่อไฮไลต์ · คลิก / แตะสองครั้งเพื่อเปิด', 'Cuộn/hai ngón tay để thu phóng · kéo để di chuyển · di chuột hoặc chạm để làm nổi bật · nhấp / chạm hai lần để mở.', 'Gulir/dua jari untuk memperbesar · seret untuk menggeser · arahkan atau ketuk untuk menyorot · klik / ketuk dua kali untuk membuka.', 'مرّر أو استخدم إصبعين للتكبير · اسحب للتحريك · مرّر المؤشّر أو انقر للإبراز · انقر / انقر نقرًا مزدوجًا للفتح.', 'ज़ूम के लिए स्क्रॉल करें या दो उँगलियाँ · घुमाने के लिए खींचें · हाइलाइट के लिए कर्सर ले जाएँ या टैप करें · खोलने के लिए क्लिक / डबल-टैप करें।')}
+            {L('Tatal/dua jari untuk zum · seret untuk gerak · tuding atau ketik untuk sorot · klik/ketik dua kali untuk buka.', 'Scroll or two fingers to zoom · drag to pan · hover or tap to highlight · click / double-tap to open.', '滚动或双指缩放 · 拖动平移 · 悬停或轻点高亮 · 点击/双击打开。', 'பெரிதாக்க ஸ்க்ரோல் செய்யவும் அல்லது இரண்டு விரல்களைப் பயன்படுத்தவும் · நகர்த்த இழுக்கவும் · சிறப்பிக்க மேலே கொண்டு செல்லவும் அல்லது தட்டவும் · திறக்க கிளிக் / இருமுறை தட்டவும்.', 'スクロールまたは2本指でズーム · ドラッグで移動 · ホバーまたはタップでハイライト · クリック／ダブルタップで開く。', '확대하려면 스크롤하거나 두 손가락을 사용하세요 · 이동하려면 드래그하세요 · 강조하려면 마우스를 올리거나 탭하세요 · 열려면 클릭 / 더블 탭하세요.', 'เลื่อนหรือใช้สองนิ้วเพื่อซูม · ลากเพื่อเลื่อนภาพ · วางเมาส์หรือแตะเพื่อไฮไลต์ · คลิก / แตะสองครั้งเพื่อเปิด', 'Cuộn/hai ngón tay để thu phóng · kéo để di chuyển · di chuột hoặc chạm để làm nổi bật · nhấp / chạm hai lần để mở.', 'Gulir/dua jari untuk memperbesar · seret untuk menggeser · arahkan atau ketuk untuk menyorot · klik / ketuk dua kali untuk membuka.', 'مرّر أو استخدم إصبعين للتكبير · اسحب للتحريك · مرّر المؤشّر أو انقر للإبراز · انقر / انقر نقرًا مزدوجًا للفتح.', 'ज़ूम के लिए स्क्रॉल करें या दो उँगलियाँ · घुमाने के लिए खींचें · हाइलाइट के लिए कर्सर ले जाएँ या टैप करें · खोलने के लिए क्लिक / डबल-टैप करें।', 'Desplázate o usa dos dedos para hacer zoom · arrastra para desplazar · pasa el cursor o toca para resaltar · haz clic / doble toque para abrir.')}
           </p>
-          <button id="greset" type="button" class="greset">{L('Set semula', 'Reset view', '重置视图', 'காட்சியை மீட்டமை', 'ビューをリセット', '보기 초기화', 'รีเซ็ตมุมมอง', 'Đặt lại chế độ xem', 'Setel ulang', 'إعادة ضبط العرض', 'दृश्य रीसेट करें')}</button>
+          <button id="greset" type="button" class="greset">{L('Set semula', 'Reset view', '重置视图', 'காட்சியை மீட்டமை', 'ビューをリセット', '보기 초기화', 'รีเซ็ตมุมมอง', 'Đặt lại chế độ xem', 'Setel ulang', 'إعادة ضبط العرض', 'दृश्य रीसेट करें', 'Restablecer vista')}</button>
         </div>
         <div class="gsearch">
           <span class="gs-ico" aria-hidden="true">
@@ -73,14 +74,14 @@ const payload = JSON.stringify({ nodes, links, colors: CATEGORY_COLORS });
             id="gsearch"
             type="search"
             autocomplete="off"
-            placeholder={L('Tapis topik…', 'Filter topics…', '筛选主题…', 'தலைப்புகளை வடிகட்டு…', 'トピックを絞り込む…', '주제 필터링…', 'กรองหัวข้อ…', 'Lọc chủ đề…', 'Saring topik…', 'تصفية المواضيع…', 'विषय छानें…')}
-            aria-label={L('Tapis topik dalam graf', 'Filter topics in the graph', '在图谱中筛选主题', 'வரைபடத்தில் தலைப்புகளை வடிகட்டு', 'グラフ内のトピックを絞り込む', '그래프에서 주제 필터링', 'กรองหัวข้อในกราฟ', 'Lọc chủ đề trong đồ thị', 'Saring topik dalam graf', 'تصفية المواضيع في الرسم البياني', 'ग्राफ़ में विषय छानें')}
-            data-lbl-matches={L('padanan', 'matches', '个匹配', 'பொருத்தங்கள்', '件一致', '개 일치', 'รายการที่ตรงกัน', 'kết quả khớp', 'kecocokan', 'تطابقات', 'मिलान')}
-            data-lbl-none={L('tiada padanan', 'no matches', '无匹配', 'பொருத்தம் இல்லை', '一致なし', '일치 없음', 'ไม่มีรายการที่ตรงกัน', 'không có kết quả khớp', 'tidak ada kecocokan', 'لا توجد تطابقات', 'कोई मिलान नहीं')}
+            placeholder={L('Tapis topik…', 'Filter topics…', '筛选主题…', 'தலைப்புகளை வடிகட்டு…', 'トピックを絞り込む…', '주제 필터링…', 'กรองหัวข้อ…', 'Lọc chủ đề…', 'Saring topik…', 'تصفية المواضيع…', 'विषय छानें…', 'Filtrar temas…')}
+            aria-label={L('Tapis topik dalam graf', 'Filter topics in the graph', '在图谱中筛选主题', 'வரைபடத்தில் தலைப்புகளை வடிகட்டு', 'グラフ内のトピックを絞り込む', '그래프에서 주제 필터링', 'กรองหัวข้อในกราฟ', 'Lọc chủ đề trong đồ thị', 'Saring topik dalam graf', 'تصفية المواضيع في الرسم البياني', 'ग्राफ़ में विषय छानें', 'Filtrar temas en el grafo')}
+            data-lbl-matches={L('padanan', 'matches', '个匹配', 'பொருத்தங்கள்', '件一致', '개 일치', 'รายการที่ตรงกัน', 'kết quả khớp', 'kecocokan', 'تطابقات', 'मिलान', 'coincidencias')}
+            data-lbl-none={L('tiada padanan', 'no matches', '无匹配', 'பொருத்தம் இல்லை', '一致なし', '일치 없음', 'ไม่มีรายการที่ตรงกัน', 'không có kết quả khớp', 'tidak ada kecocokan', 'لا توجد تطابقات', 'कोई मिलान नहीं', 'sin coincidencias')}
           />
           <span id="gsearch-count" class="gs-count" aria-live="polite" />
         </div>
-        <div class="legend" aria-label={L('Tapis mengikut kategori', 'Filter by category', '按分类筛选', 'வகைப்படி வடிகட்டு', 'カテゴリーで絞り込む', '카테고리별 필터링', 'กรองตามหมวดหมู่', 'Lọc theo danh mục', 'Saring berdasarkan kategori', 'التصفية حسب الفئة', 'श्रेणी के अनुसार छानें')}>
+        <div class="legend" aria-label={L('Tapis mengikut kategori', 'Filter by category', '按分类筛选', 'வகைப்படி வடிகட்டு', 'カテゴリーで絞り込む', '카테고리별 필터링', 'กรองตามหมวดหมู่', 'Lọc theo danh mục', 'Saring berdasarkan kategori', 'التصفية حسب الفئة', 'श्रेणी के अनुसार छानें', 'Filtrar por categoría')}>
           {legend.map((c) => (
             <button class="lg" type="button" data-cat={c.id} aria-pressed="true">
               <i style={`background:${c.color}`} />
