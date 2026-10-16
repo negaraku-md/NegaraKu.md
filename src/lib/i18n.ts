@@ -21,6 +21,7 @@ export const LOCALE_NAMES: Record<Locale, string> = {
   id: 'Bahasa Indonesia',
   ar: 'العربية',
   hi: 'हिन्दी',
+  es: 'Español',
 };
 
 /** UI string table. Keep keys stable; fall back to `ms` if a value is missing. */
@@ -360,6 +361,6 @@ export function withTrailingSlash(pathname: string): string {
 /** Extract the active locale from an Astro URL pathname. */
 export function localeFromPath(pathname: string): Locale {
   const seg = pathname.split('/').filter(Boolean)[0];
-  if (seg === 'en' || seg === 'zh' || seg === 'ta' || seg === 'ja' || seg === 'ko' || seg === 'th' || seg === 'vi' || seg === 'id' || seg === 'ar' || seg === 'hi') return seg;
+  if (seg === 'en' || seg === 'zh' || seg === 'ta' || seg === 'ja' || seg === 'ko' || seg === 'th' || seg === 'vi' || seg === 'id' || seg === 'ar' || seg === 'hi' || seg === 'es') return seg;
   return DEFAULT_LOCALE;
 }

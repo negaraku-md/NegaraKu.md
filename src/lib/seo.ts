@@ -6,7 +6,7 @@ import { SITE } from './site';
 import { localePath, withTrailingSlash, LOCALES } from './i18n';
 
 // BCP-47 language tags for every launched locale (for schema.org inLanguage).
-const BCP47: Record<Locale, string> = { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar', hi: 'hi' };
+const BCP47: Record<Locale, string> = { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar', hi: 'hi', es: 'es' };
 
 /** Stable @id for the site's Organization entity — linked from publisher/sponsor. */
 export const ORG_ID = `${SITE}/#organization`;
@@ -36,6 +36,7 @@ export function organizationJsonLd(locale: Locale = 'en'): Record<string, unknow
     id: `Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia — dalam ${n} bahasa.`,
     ar: `قاعدة معرفة مفتوحة المصدر وصديقة للذكاء الاصطناعي عن ماليزيا — بـ ${n} لغات.`,
     hi: `मलेशिया के बारे में एक ओपन-सोर्स, AI-अनुकूल ज्ञान आधार — ${n} भाषाओं में।`,
+    es: `Una base de conocimiento sobre Malasia, de código abierto y compatible con la IA — en ${n} idiomas.`,
   }[locale] ?? '';
   return {
     '@context': 'https://schema.org',
@@ -146,7 +147,7 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
     // liftable answer AI assistants and answer engines quote — previously it
     // only existed as on-page text, invisible to structured-data consumers.
     ...(d.answer ? { abstract: d.answer } : {}),
-    inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : locale === 'ko' ? 'ko' : locale === 'id' ? 'id' : locale === 'ar' ? 'ar' : locale === 'hi' ? 'hi' : 'en',
+    inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : locale === 'ko' ? 'ko' : locale === 'id' ? 'id' : locale === 'ar' ? 'ar' : locale === 'hi' ? 'hi' : locale === 'es' ? 'es' : 'en',
     datePublished: (d.created ?? d.updated).toISOString(),
     dateModified: d.updated.toISOString(),
     mainEntityOfPage: url,
@@ -280,6 +281,7 @@ export function websiteJsonLd(locale: Locale = 'en'): Record<string, unknown> {
     id: 'Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia.',
     ar: 'قاعدة معرفة مفتوحة المصدر وصديقة للذكاء الاصطناعي عن ماليزيا.',
     hi: 'मलेशिया के बारे में एक ओपन-सोर्स, AI-अनुकूल ज्ञान आधार।',
+    es: 'Una base de conocimiento sobre Malasia, de código abierto y compatible con la IA.',
   }[locale] ?? '';
   return {
     '@context': 'https://schema.org',

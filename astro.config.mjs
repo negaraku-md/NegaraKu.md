@@ -34,7 +34,7 @@ function lastmodFor(url) {
   let p = url.replace(SITE, '').replace(/^\/+|\/+$/g, ''); // e.g. "en/malaysia/slug"
   if (!p) return undefined; // homepage
   const seg = p.split('/');
-  const lang = seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ta' || seg[0] === 'ja' || seg[0] === 'ar' || seg[0] === 'hi' ? seg.shift() : 'ms';
+  const lang = seg[0] === 'en' || seg[0] === 'zh' || seg[0] === 'ta' || seg[0] === 'ja' || seg[0] === 'ar' || seg[0] === 'hi' || seg[0] === 'es' ? seg.shift() : 'ms';
   if (seg.length < 2) return undefined; // category/list page, not an article
   return lastmodByPath.get(`${lang}/${seg.join('/')}`);
 }
@@ -348,7 +348,7 @@ export default defineConfig({
   },
   i18n: {
     defaultLocale: 'ms',
-    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi'],
+    locales: ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es'],
     routing: {
       prefixDefaultLocale: false, // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi, id /id, ar /ar, hi /hi
     },
@@ -371,7 +371,10 @@ export default defineConfig({
       // /maintenance pages are chrome-less + `noindex` (BaseLayout), so listing
       // them in the sitemap made Google report "Excluded by 'noindex' tag" for
       // sitemap URLs. (Every other route is index,follow, so nothing else needs filtering.)
-      filter: (page) => !/\/maintenance\/?$/.test(page),
+      // Soft-launched /es is held OUT (noindex) until its Phase 3 open launch, like the
+      // per-locale /maintenance pages. Remove the /es clause when es open-launches.
+      filter: (page) =>
+        !/\/maintenance\/?$/.test(page) && !/\/es(?:\/|$)/.test(new URL(page).pathname),
       serialize(item) {
         const lastmod = lastmodFor(item.url);
         if (lastmod) item.lastmod = lastmod;
