@@ -29,10 +29,11 @@ faq:
     a: "Una CLBG nueva puede solicitarlo en el momento de la constitución, pero debe reunir un fondo en efectivo de RM1 millón dentro de los seis meses. Una CLBG existente debe haber estado constituida durante al menos dos años y mostrar RM1 millón en efectivo en el banco en sus últimos estados financieros."
 
 lang: "es"
+sourceContentHash: "9a66cfe119dbc531"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -30,10 +30,11 @@ faq:
     a: "La Securities Commission Malaysia. Las innovaciones del mercado de capitales — financiación alternativa, valores tokenizados, plataformas de mercado secundario — van al sandbox de la SC, no al del BNM."
 
 lang: "es"
+sourceContentHash: "923d24c78b24d1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

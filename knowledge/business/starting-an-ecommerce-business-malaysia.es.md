@@ -33,10 +33,11 @@ faq:
     a: "Como vendedor, no. Te das de alta con una pasarela de pago, que gestiona un paso de verificación del negocio; es el operador de la pasarela de pago quien debe estar autorizado por el Bank Negara Malaysia, no tú. Según lo que vendas, aún pueden aplicarse reglas sectoriales específicas — por ejemplo, los cosméticos y los productos de salud requieren notificación al regulador correspondiente independientemente del canal de venta."
 
 lang: "es"
+sourceContentHash: "beb54faa40df4583"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

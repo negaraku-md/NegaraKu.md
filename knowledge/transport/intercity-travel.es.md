@@ -34,10 +34,11 @@ verificationNeeded:
   - "Confirm AirBorneo's current Rural Air Service route count and airport list directly with AirBorneo or CAAM, since MAVCOM's public RAS page did not carry route-level detail at the time of writing and the programme has recently changed operator."
 
 lang: "es"
+sourceContentHash: "a8248270057070e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -37,10 +37,11 @@ faq:
     a: "Un auditor puede renunciar mediante notificación por escrito al domicilio social de la empresa (sección 281); el cargo termina 21 días después de dada la notificación o en una fecha posterior indicada, lo que sea posterior. Los miembros pueden destituir a un auditor en cualquier momento mediante resolución ordinaria en una junta general (sección 276), pero se requiere notificación especial (sección 277)."
 
 lang: "es"
+sourceContentHash: "005bacdce3786440"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

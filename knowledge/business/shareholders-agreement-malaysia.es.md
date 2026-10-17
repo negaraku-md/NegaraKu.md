@@ -42,10 +42,11 @@ verificationNeeded:
   - "Confirm the current SSM lodgement fee applicable to first adoption of a constitution as against amendment"
 
 lang: "es"
+sourceContentHash: "feb9a1bc3f5debaf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

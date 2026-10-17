@@ -28,9 +28,10 @@ faq:
   - q: "¿Cómo se calcula el gravamen HRD y cuándo vence?"
     a: "Es (salario total o salarios básicos + asignaciones fijas) × 1% (o 0,5% para los registrados voluntarios), pagadero antes del día 15 de cada mes para evitar sanciones."
 lang: "es"
+sourceContentHash: "ff5d89d25eee1ca7"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -27,9 +27,10 @@ faq:
   - q: "¿Qué ley administra el DOF?"
     a: "Su estatuto principal es la Ley de Pesca de 1985 (Act 317), que abarca la conservación, gestión y desarrollo de la pesca y las pesquerías en aguas malasias, incluidas las licencias, la acuicultura, los mamíferos acuáticos y las tortugas."
 lang: "es"
+sourceContentHash: "28c9963369f18b79"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

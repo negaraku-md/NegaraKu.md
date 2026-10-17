@@ -34,12 +34,13 @@ faq:
     a: "No existe una ley específica sobre el VIH. Pueden aplicarse disposiciones generales del Código Penal como las Secciones 269 y 270 a la propagación de enfermedades peligrosas, pero hasta la fecha no ha habido enjuiciamientos conocidos relacionados con el VIH."
 
 lang: "es"
+sourceContentHash: "c335daac63ec7a97"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

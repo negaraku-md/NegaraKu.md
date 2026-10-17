@@ -29,10 +29,11 @@ faq:
     a: "Conforme al artículo 24(8), el total de todas las deducciones no puede exceder el 50% del salario devengado en ese mes. El artículo 24(9) exime la indemnización del artículo 13(1), los pagos finales adeudados al terminar el empleo, y los préstamos de vivienda (un monto adicional de hasta el 25% con el permiso del Director General)."
 
 lang: "es"
+sourceContentHash: "3388bf641e0109a3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

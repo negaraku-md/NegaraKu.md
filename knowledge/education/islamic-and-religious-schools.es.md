@@ -29,12 +29,13 @@ faq:
     a: "La jurisdicción principal recae en los departamentos/consejos religiosos islámicos estatales, porque los asuntos religiosos islámicos son una materia estatal según la Constitución. JAKIM coordina a nivel federal, mientras que los requisitos de seguridad de los edificios involucran a las Autoridades Locales y al Departamento de Bomberos."
 
 lang: "es"
+sourceContentHash: "e8c71a5517740e23"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

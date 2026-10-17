@@ -34,10 +34,11 @@ faq:
     a: "Sí. Los gastos que aumenten o preserven el valor de la propiedad, como los costos de renovación y mejora, pueden deducirse siempre que estén respaldados por recibos y documentos válidos."
 
 lang: "es"
+sourceContentHash: "86d17a7e3d5558a5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

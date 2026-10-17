@@ -33,10 +33,11 @@ faq:
     a: "Depende de la actividad. Conforme a la Ley de Calidad Ambiental de 1974, los proyectos industriales pesados o grandes enumerados en la Orden de Calidad Ambiental (Actividades Prescritas) (Evaluación de Impacto Ambiental) de 2015 deben tener una EIA aprobada antes de que el proyecto avance. Ciertas industrias —aceite de palma crudo, caucho natural en bruto, instalaciones de residuos regulados— son «instalaciones prescritas» que necesitan el permiso escrito de DOE para construir y una licencia para operar. Una fábrica ordinaria que vierte efluentes o emite contaminantes atmosféricos debe aún así cumplir con los reglamentos de efluentes y de aire limpio de DOE. Confirma el estatus de tu actividad con DOE antes de construir."
 
 lang: "es"
+sourceContentHash: "b9703e6c709c9e9a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

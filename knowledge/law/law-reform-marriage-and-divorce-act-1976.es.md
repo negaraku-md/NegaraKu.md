@@ -33,10 +33,11 @@ faq:
     a: "El Tribunal Superior tiene la facultad de dividir los bienes adquiridos durante el matrimonio conforme a la sección 76, teniendo en cuenta las contribuciones financieras y no financieras, las deudas contraídas en beneficio de la familia, las necesidades de los hijos y la duración del matrimonio. La división no es necesariamente 50:50."
 
 lang: "es"
+sourceContentHash: "9844bf61f2e89ad7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

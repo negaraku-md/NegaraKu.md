@@ -28,10 +28,11 @@ verificationNeeded:
   - "SSM no publica ningún estándar general de servicio de tiempo de tramitación para la constitución de sociedades; las cifras dadas aquí provienen de directrices individuales de fechas diversas"
 
 lang: "es"
+sourceContentHash: "30930e352d6a91ec"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

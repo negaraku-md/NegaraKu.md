@@ -18,11 +18,12 @@ keyTakeaways:
   - "El poder legislativo se divide entre la federación y los estados mediante las Listas Federal, Estatal y Concurrente de la Novena Lista"
 appliesTo: "Cualquiera que sea nuevo en Malasia y quiera entender qué tipo de país es constitucionalmente, antes de adentrarse en cualquier institución concreta."
 lang: "es"
+sourceContentHash: "8088b5defbdcad1c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -31,10 +31,11 @@ faq:
     a: "Bajo la Ley de Compra a Plazos de 1967, un financiador generalmente solo puede recuperar el bien después de que el arrendatario haya incumplido dos cuotas sucesivas y tras seguir un proceso de preaviso de 21 días. Una vez que ha pagado al menos el 75% del precio al contado, el financiador necesita una orden judicial para recuperar el bien."
 
 lang: "es"
+sourceContentHash: "6a3487bee5c6466c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Usuarios de autopistas durante las temporadas festivas, planificadores de viajes y permisos, empresas de comercio minorista y transporte, y cualquier persona que intente comprender los patrones de desplazamiento de la población de Malasia."
 
 lang: "es"
+sourceContentHash: "351c6944deba025a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

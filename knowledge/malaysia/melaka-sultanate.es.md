@@ -29,11 +29,12 @@ faq:
     a: "La corte. El Sultán Mahmud Shah y sus descendientes restablecieron el gobierno malayo hacia el sur, de manera más trascendente en el Sultanato de Johor, llevando adelante la estructura cortesana, el código legal y la lengua de Melaka. Esas instituciones sobrevivieron a la independencia de la ciudad durante siglos."
 
 lang: "es"
+sourceContentHash: "cf412842ff34bf8f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

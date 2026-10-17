@@ -36,12 +36,13 @@ faq:
     a: "Tras la enmienda de 2019 a la Ley de Pesca de 1985 (Ley A1601), la multa máxima para el propietario o patrón de una embarcación extranjera intrusa se elevó de RM1 millón a RM6 millones, y para cada tripulante de RM100,000 a RM600,000."
 
 lang: "es"
+sourceContentHash: "f5794964e422efce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

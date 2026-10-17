@@ -40,14 +40,15 @@ faq:
     a: "Una denuncia que ya se ha registrado no puede eliminarse de los registros policiales. Si hay información nueva, un error de hecho o una novedad en el caso, lo correcto es presentar una denuncia adicional que haga referencia al número de denuncia original, no pedir que se elimine la denuncia original."
 
 lang: "es"
+sourceContentHash: "0ae54502024bdaab"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "The e-Reporting eligibility requirements (Malaysian citizen, aged 18 and above) and the full list of items that can be reported — the official portal ereporting.rmp.gov.my could not be reached for direct verification; confirm against the official portal."
   - "Sama ada bukan warganegara benar-benar dikecualikan sepenuhnya daripada e-Reporting (draf tidak lagi menyatakan pengecualian ini secara eksplisit)."
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

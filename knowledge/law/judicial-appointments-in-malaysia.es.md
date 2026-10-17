@@ -30,12 +30,13 @@ faq:
     a: "Sí, pero solo mediante el proceso del Artículo 125. Se presenta una representación ante el Yang di-Pertuan Agong, quien entonces establece un tribunal compuesto por no menos de cinco personas que ocupan o han ocupado un cargo judicial. Los motivos se limitan a una infracción del código de ética o a la incapacidad de desempeñar las funciones del cargo."
 
 lang: "es"
+sourceContentHash: "609ac0242c162e91"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Cualquiera que intente entender la base jurídica del sector de petróleo y gas de Malasia, la dependencia fiscal federal del petróleo, o el debate sobre los recursos entre la Federación y los Estados: estudiantes, analistas, inversores y periodistas."
 
 lang: "es"
+sourceContentHash: "e00cfef3a5a059c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

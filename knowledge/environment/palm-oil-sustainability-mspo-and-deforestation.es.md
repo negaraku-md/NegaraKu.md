@@ -34,10 +34,11 @@ faq:
     a: "El EUDR entró en vigor el 29 de junio de 2023. Tras aplazamientos, las obligaciones se aplican desde el 30 de diciembre de 2026 para los grandes operadores y comerciantes, y el 30 de junio de 2027 para las microempresas y pequeñas empresas."
 
 lang: "es"
+sourceContentHash: "f8c253517f15928f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

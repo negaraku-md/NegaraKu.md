@@ -34,10 +34,11 @@ faq:
     a: "Un delito sancionable, en caso de condena, con una multa no superior a RM1 millón, y una multa adicional de hasta RM1,000 por cada día que el delito continúe tras la condena (section 137, con delitos paralelos en sections 138 y 139)."
 
 lang: "es"
+sourceContentHash: "608e7ade88de1522"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

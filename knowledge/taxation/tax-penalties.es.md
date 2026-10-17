@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirm whether any Sales Tax Act equivalent of Service Tax Act s.26A exists for imported goods — the 2018 reprint contains none"
 
 lang: "es"
+sourceContentHash: "13790ae63f7d4cb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -32,10 +32,11 @@ faq:
     a: "Sí. Ambas cotizan en el Mercado Principal de Bursa Malaysia. Top Glove cotiza además en el Mainboard de la Bolsa de Singapur (Singapore Exchange)."
 
 lang: "es"
+sourceContentHash: "a45b971c54bb5789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

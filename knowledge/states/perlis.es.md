@@ -35,12 +35,13 @@ verificationNeeded:
   - "Re-verify the Perlis Inland Port allocations (RM318.0 juta infrastructure, RM1.2 bilion private investment) and the six administrative areas against MKN once mkn.gov.my is reachable; the site was down during the latest re-verification pass, so these figures rest on the original 2026-07-24 check."
 
 lang: "es"
+sourceContentHash: "f8950ccf72fcaab1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

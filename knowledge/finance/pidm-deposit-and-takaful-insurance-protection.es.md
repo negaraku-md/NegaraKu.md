@@ -37,10 +37,11 @@ faq:
     a: "Si un banco miembro quiebra, PIDM reembolsa a los depositantes elegibles hasta el límite de RM250,000. Si una aseguradora miembro quiebra, PIDM o bien gestiona la continuidad de su cobertura, o bien paga los beneficios protegidos hasta el límite aplicable."
 
 lang: "es"
+sourceContentHash: "6dadc68b3f5258f8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

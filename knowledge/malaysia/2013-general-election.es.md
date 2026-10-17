@@ -31,12 +31,13 @@ verificationNeeded:
   - "All figures to be confirmed against the Election Commission of Malaysia (Suruhanjaya Pilihan Raya)."
 
 lang: "es"
+sourceContentHash: "60045df88eb348ab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

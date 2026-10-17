@@ -33,9 +33,10 @@ faq:
     a: "El principio de diseño clásico del awan larat sí evita representar a seres humanos o animales como elemento primario del patrón. Sin embargo, el tallado en madera malayo también tiene su propia categoría distinta de motivos de fauna — como figuras de gallina, rinoceronte y pato — usada por separado del patrón repetitivo awan larat."
 
 lang: "es"
+sourceContentHash: "9f06d94e839f077d"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

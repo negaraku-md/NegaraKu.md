@@ -29,11 +29,12 @@ faq:
     a: "No. El acuerdo comprometió a ambas partes a un futuro tratado sobre defensa externa con un consejo de defensa conjunto, a la cooperación económica, y a garantías mutuas entre Estados de los acuerdos sobre el agua del 1 de septiembre de 1961 y del 29 de septiembre de 1962 entre el Ayuntamiento de Singapur y el Gobierno del Estado de Johor. Las apelaciones del Tribunal Superior de Singapur también siguieron sometiéndose al Tribunal Federal de Malasia como arreglo temporal hasta que Singapur legislara de otro modo."
 
 lang: "es"
+sourceContentHash: "0de005f939d65ebf"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

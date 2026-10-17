@@ -38,10 +38,11 @@ faq:
     a: "No. Los derechos de propiedad intelectual son territoriales, de modo que una marca o patente malasia solo cubre Malasia. Para la protección internacional se presenta en el extranjero: para las marcas, la adhesión de Malasia al Protocolo de Madrid le permite designar varios países mediante una sola solicitud internacional."
 
 lang: "es"
+sourceContentHash: "9b9e8ce352a97c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

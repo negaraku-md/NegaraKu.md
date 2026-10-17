@@ -34,10 +34,11 @@ faq:
     a: "La NCP 2030 es una política lanzada en la ICW 2021, tras la conclusión del Programa de Transformación de la Industria de la Construcción (CITP) 2016–2020. Establece seis ejes estratégicos para transformar el sector de la construcción hacia la era digital para 2030, incluida una meta de digitalizar el 50% del ciclo de la industria."
 
 lang: "es"
+sourceContentHash: "77fa6bf333c3fa74"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

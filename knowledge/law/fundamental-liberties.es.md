@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "Cualquier persona que quiera saber, artículo por artículo, qué garantiza realmente la Parte II de la Constitución Federal y qué restricciones permite expresamente."
 
 lang: "es"
+sourceContentHash: "268ae1dcdac3c251"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -27,10 +27,11 @@ faq:
     a: "Bajo la sección 593 de la Companies Act 2016, una declaración o informe falso al Registrador (SSM) es castigable con prisión de hasta 10 años, una multa de hasta RM3 millones, o ambas."
 
 lang: "es"
+sourceContentHash: "e1c1cbfc3de7c89d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

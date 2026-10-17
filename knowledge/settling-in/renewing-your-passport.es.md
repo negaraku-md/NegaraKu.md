@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Ciudadanos malasios que deseen renovar un pasaporte internacional existente, o sustituir uno perdido/dañado, ya sea en línea o en un mostrador del Departamento de Inmigración de Malasia (JIM) / UTC."
 
 lang: "es"
+sourceContentHash: "bf73b9b94f1050d3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

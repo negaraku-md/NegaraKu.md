@@ -26,9 +26,10 @@ faq:
   - q: "¿Deben los trabajadores extranjeros contribuir al EPF?"
     a: "Sí. Con efecto desde el 1 de octubre de 2025, las contribuciones al EPF pasaron a ser obligatorias para los empleados no ciudadanos malasios, aportando el empleador y el empleado el 2 % del salario mensual cada uno. Los no ciudadanos mayores de 75 años no están obligados a registrarse ni a contribuir."
 lang: "es"
+sourceContentHash: "ef3ed3901e1145d3"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

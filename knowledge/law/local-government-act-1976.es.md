@@ -27,9 +27,10 @@ faq:
   - q: "¿Qué base jurídica permite a un consejo cobrar el impuesto de valoración?"
     a: "La Parte XV (Tasación y Valoración). La sección 127 faculta a una autoridad local a imponer tasas sobre los inmuebles de su zona, con la base de valoración establecida en la sección 130."
 lang: "es"
+sourceContentHash: "ef5c1db3291f9813"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -32,12 +32,13 @@ faq:
     a: "Es un documento de política aprobado por el Parlamento el 15 de junio de 2023, que traza una reforma por fases del sistema de salud de Malasia a 15 años."
 
 lang: "es"
+sourceContentHash: "635c9f97868b06be"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

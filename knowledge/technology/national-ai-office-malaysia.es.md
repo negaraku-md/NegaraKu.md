@@ -32,10 +32,11 @@ faq:
     a: "El plan aspira a que la IA contribuya con más de RM60 mil millones al PIB y a situar a Malasia entre los 20 primeros países del mundo en preparación para la IA para 2030, mediante 28 iniciativas."
 
 lang: "es"
+sourceContentHash: "74e6c6495db49c10"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

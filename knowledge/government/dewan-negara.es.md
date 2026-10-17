@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera entender, de forma descriptiva, cómo se eligen y nombran los senadores malasios, y hasta qué punto el Dewan Negara puede influir en la aprobación de un proyecto de ley."
 
 lang: "es"
+sourceContentHash: "795be8860e769da6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

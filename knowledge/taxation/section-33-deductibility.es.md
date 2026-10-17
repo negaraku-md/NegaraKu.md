@@ -38,10 +38,11 @@ faq:
     a: "El contribuyente. El párrafo 13 del Schedule 5 de la Income Tax Act 1967 coloca sobre el apelante la carga de probar que una liquidación es excesiva o errónea. En la práctica, esto significa facturas, acuerdos, comprobantes de pago y evidencia de que el servicio se prestó efectivamente — varias apelaciones reportadas han fracasado puramente porque el alcance y el fin del gasto no pudieron documentarse."
 
 lang: "es"
+sourceContentHash: "669796e4c8074cfe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

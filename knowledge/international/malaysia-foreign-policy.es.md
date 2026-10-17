@@ -31,9 +31,10 @@ faq:
   - q: "¿Por qué es la ASEAN tan central para la política exterior de Malasia?"
     a: "Malasia es miembro fundador de la ASEAN (8 de agosto de 1967). Actuar colectivamente a través de la ASEAN da a un país de tamaño mediano y dependiente del comercio una voz más fuerte para gestionar las relaciones con las grandes potencias de la que tendría en solitario — por eso la centralidad de la ASEAN se considera la piedra angular de la política."
 lang: "es"
+sourceContentHash: "0119cb2bc48cc9ad"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

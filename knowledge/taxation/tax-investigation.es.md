@@ -32,10 +32,11 @@ faq:
     a: "Para los casos que impliquen fraude, evasión deliberada o negligencia, no hay plazo de prescripción. Para los procesos penales de ciertas infracciones como la Sección 113, se aplica un período de 12 años."
 
 lang: "es"
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

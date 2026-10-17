@@ -35,12 +35,13 @@ seoTitle: "Orang Asli: tres grupos principales, 18 subgrupos y el JAKOA"
 socialTitle: "Quiénes son los Orang Asli: tres grupos, 18 subgrupos y la agencia que vela por ellos"
 
 lang: "es"
+sourceContentHash: "22c8505f8289ae57"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

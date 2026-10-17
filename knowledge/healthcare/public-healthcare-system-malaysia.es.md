@@ -27,9 +27,10 @@ faq:
   - q: "¿Qué es PeKa B40?"
     a: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) es un programa del MOH gestionado por ProtectHealth Corporation. Ofrece a los malasios de rentas bajas elegibles de 40 años o más — beneficiarios del Sumbangan Tunai Rahmah y sus cónyuges — cribado de salud gratuito, ayuda para dispositivos médicos de hasta RM20,000, un incentivo de RM1,000 para tratamiento del cáncer y asistencia para el transporte. A 31 de marzo de 2025, cerca de 1,6 millones de unos 6,9 millones de beneficiarios elegibles habían sido cribados."
 lang: "es"
+sourceContentHash: "e44d3a318b3a6bbb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

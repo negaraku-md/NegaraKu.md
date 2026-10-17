@@ -135,10 +135,11 @@ obligations:
     consequence: "Multa de hasta RM10,000 más hasta RM500 por día a cada directivo conforme a la s.341(3)"
 
 lang: "es"
+sourceContentHash: "795508e7636dbf96"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

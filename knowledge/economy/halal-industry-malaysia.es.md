@@ -29,12 +29,13 @@ faq:
     a: "Las exportaciones de productos halal de Malasia alcanzaron RM61.79 mil millones en 2024, un 15% más que los RM53.72 mil millones de 2023 (MITI). Para el período de enero a septiembre de 2024, las exportaciones se valoraron en RM45.04 mil millones frente a los RM39.36 mil millones del mismo período de 2023 (MITI/MIDA)."
 
 lang: "es"
+sourceContentHash: "1b16a223e725d8d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

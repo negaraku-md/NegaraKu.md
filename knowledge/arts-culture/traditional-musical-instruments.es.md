@@ -29,10 +29,11 @@ faq:
     a: "El serunai se toca con la técnica de la respiración circular, que permite que su sonido continúe sin interrupción, lo que lo convierte en el principal portador de la melodía en el Nobat."
 
 lang: "es"
+sourceContentHash: "ede0d9c6ebbbceef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

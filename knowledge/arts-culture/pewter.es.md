@@ -16,9 +16,10 @@ keyTakeaways:
   - "La empresa adoptó su nombre actual solo en 1992, tras una cédula real del Sultán de Selangor en 1979."
 appliesTo: "Cualquier persona interesada en las tradiciones artesanales malasias, la historia de la minería del estaño o Royal Selangor"
 lang: "es"
+sourceContentHash: "ab235dfd3f4f5c67"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

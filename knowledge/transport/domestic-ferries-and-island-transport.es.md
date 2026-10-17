@@ -29,10 +29,11 @@ faq:
     a: "A menudo no. Muchos resorts y operadores de barco de la costa este suspenden voluntariamente los servicios desde alrededor de octubre a febrero debido a los mares agitados del monzón del noreste."
 
 lang: "es"
+sourceContentHash: "baf74efaaf475bb1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

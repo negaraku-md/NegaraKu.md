@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que alquile o arriende una propiedad residencial en Malasia: inquilinos que firman su primer contrato de arrendamiento, y arrendadores que lo redactan, en Malasia Peninsular, Sabah o Sarawak."
 
 lang: "es"
+sourceContentHash: "82f3b97b7c53aec7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

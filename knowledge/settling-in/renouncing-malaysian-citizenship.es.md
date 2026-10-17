@@ -32,12 +32,13 @@ faq:
     a: "El portal MyGovernment indica que la decisión es permanente e irrevocable; quien renuncia a su ciudadanía pierde de forma permanente todos los derechos y privilegios como ciudadano malasio."
 
 lang: "es"
+sourceContentHash: "350dd3e83765a9b5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

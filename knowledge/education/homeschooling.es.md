@@ -19,9 +19,10 @@ keyTakeaways:
   - "La enmienda de educación secundaria de 2025 había sido aprobada por el Parlamento pero aún no había entrado en vigor mediante notificación en el Boletín Oficial al momento de escribir este artículo — el Ministro fija esa fecha de entrada en vigor por separado"
 appliesTo: "Padres malasios que consideran educar en casa a un niño en edad de primaria o secundaria, y familias (incluidos los hogares de expatriados MM2H o de estancia prolongada) que sopesan la exención formal frente a no matricular informalmente a un niño en la escuela."
 lang: "es"
+sourceContentHash: "f9978c9d61a0e0de"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

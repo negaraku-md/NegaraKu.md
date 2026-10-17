@@ -29,11 +29,12 @@ faq:
     a: "Un memorando conjunto que la Alianza presentó a la Comisión Reid en 1956, que exponía las posiciones acordadas de la coalición sobre los gobernantes malayos, el islam como religión de la Federación, la lengua malaya, la posición especial de los malayos y la ciudadanía. El informe de 1957 de la Comisión se apoyó en él, entre los memorandos que recibió."
 
 lang: "es"
+sourceContentHash: "8468b6263efa9db8"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

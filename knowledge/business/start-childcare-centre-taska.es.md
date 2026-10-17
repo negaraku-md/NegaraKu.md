@@ -33,10 +33,11 @@ faq:
     a: "Operar un centro de cuidado infantil que no esté registrado ante el JKM es un delito penal conforme a la Ley de Centros de Cuidado Infantil de 1984. En caso de condena, la sanción es una multa de hasta RM10,000 o prisión de hasta dos años, o ambas, con penas más severas por reincidencia. El JKM también puede ordenar el cierre del centro. Regístrese antes de admitir a ningún niño."
 
 lang: "es"
+sourceContentHash: "1ebf1ee2a2053f70"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

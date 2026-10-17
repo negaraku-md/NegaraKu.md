@@ -52,10 +52,11 @@ obligations:
     consequence: "El estatus MD solo es perpetuo mientras se sigan cumpliendo las condiciones"
 
 lang: "es"
+sourceContentHash: "d30f4b105a3a1150"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

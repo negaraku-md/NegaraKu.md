@@ -36,10 +36,11 @@ faq:
     a: "Presenta una notificación para mostrar causa (Form 208). El tribunal puede entonces emitir un mandamiento de embargo y venta (Form 84) contra los bienes del deudor judicial, permitir el pago a plazos u ordenar que el deudor sea encarcelado."
 
 lang: "es"
+sourceContentHash: "7f497323fdf0e52a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -20,11 +20,12 @@ keyTakeaways:
   - "La reunión de distribución del 2 de septiembre de 1970 decidió que el texto en Bahasa Malaysia es el texto original; las versiones en otros idiomas son traducciones"
 appliesTo: "Estudiantes, docentes, funcionarios y cualquier persona que necesite remitirse al texto oficial del Rukun Negara y a la cronología de su redacción con base en los registros de archivo."
 lang: "es"
+sourceContentHash: "b7cede975bcf8a6f"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

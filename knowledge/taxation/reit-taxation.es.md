@@ -31,10 +31,11 @@ faq:
     a: "Generalmente no. Cuando el fondo está exento conforme a la sección 61A, la renta no ha sido gravada, por lo que la distribución no lleva un crédito fiscal de la sección 110 que un partícipe pudiera compensar. Un crédito solo surge cuando el propio fondo fue gravado (por ejemplo, cuando distribuyó menos del 90%)."
 
 lang: "es"
+sourceContentHash: "74ef95198966c611"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

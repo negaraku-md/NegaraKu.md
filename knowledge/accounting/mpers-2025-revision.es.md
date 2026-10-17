@@ -38,10 +38,11 @@ faq:
     a: "Menos del que sugiere la fecha de 2027. La aplicación retrospectiva significa que el periodo comparativo tiene que prepararse sobre la nueva base, de modo que una empresa con cierre en diciembre está capturando datos de la MPERS (2025) desde el 1 de enero de 2026 en adelante. Si los contratos de ingresos necesitan reanálisis, el trabajo empieza antes del año de transición, no dentro de él."
 
 lang: "es"
+sourceContentHash: "016de66c249cb162"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

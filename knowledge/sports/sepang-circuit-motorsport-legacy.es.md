@@ -37,10 +37,11 @@ faq:
     a: "El ingeniero alemán Hermann Tilke lo diseñó — su primer circuito de Fórmula 1 construido a medida. El trazado de Gran Premio mide 5.543 km de longitud con 15 curvas y una anchura de pista que varía de 16 a 20 metros."
 
 lang: "es"
+sourceContentHash: "a2a0e6bd77b78348"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

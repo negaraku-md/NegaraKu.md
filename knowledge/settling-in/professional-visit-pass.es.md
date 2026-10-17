@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Empresas malasias que acogen a expertos, investigadores, aprendices, voluntarios o expositores extranjeros para un encargo determinado, y los equipos patrocinadores de RR. HH. o de movilidad que presentan la solicitud por ellos."
 
 lang: "es"
+sourceContentHash: "8d251b7426f433be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

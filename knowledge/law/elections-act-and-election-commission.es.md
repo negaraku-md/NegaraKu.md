@@ -32,12 +32,13 @@ faq:
     a: "No. El Artículo 114(3) dispone que un miembro de la SPR no puede ser destituido de su cargo salvo por los mismos motivos y del mismo modo que un juez del Tribunal Federal (Federal Court), una salvaguarda destinada a respaldar la independencia de la comisión."
 
 lang: "es"
+sourceContentHash: "4ee6643ef314a576"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

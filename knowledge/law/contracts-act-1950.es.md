@@ -32,10 +32,11 @@ faq:
     a: "Por lo general, no. El artículo 26 establece que un acuerdo celebrado sin causa es nulo, con sujeción a tres excepciones: una promesa escrita y registrada hecha por amor y afecto natural entre partes que guardan un parentesco cercano, una promesa de compensar algo ya realizado voluntariamente y una promesa de pagar una deuda prescrita por la ley de prescripción."
 
 lang: "es"
+sourceContentHash: "a078693f5e3c25a0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

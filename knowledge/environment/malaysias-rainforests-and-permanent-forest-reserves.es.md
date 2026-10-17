@@ -32,10 +32,11 @@ faq:
     a: "La modificación hace obligatoria una investigación pública antes de que pueda revocarse la declaración de una PFR, y eleva las multas a entre RM20,000 y RM5 millones junto con prisión de entre 7 y 20 años. Entró en vigor en los Territorios Federales el 1 de febrero de 2025."
 
 lang: "es"
+sourceContentHash: "068dc65beefd2227"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

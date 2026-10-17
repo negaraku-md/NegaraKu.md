@@ -17,9 +17,10 @@ keyTakeaways:
   - "El Monzón del Noreste (nov–mar) empapa la costa este de la Península, el oeste de Sarawak y el norte de Sabah; el Monzón del Suroeste (may–sep) es comparativamente más seco — un ritmo que todavía hoy determina la temporada de inundaciones y los calendarios agrícolas (Departamento Meteorológico de Malasia)"
 appliesTo: "Cualquiera que intente entender por qué la población, las ciudades y el riesgo de inundaciones de Malasia se agrupan donde lo hacen — estudiantes, recién llegados, planificadores o cualquiera desconcertado por qué «temporada de monzones» significa cosas distintas en costas distintas."
 lang: "es"
+sourceContentHash: "1aadf1352cd31f55"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

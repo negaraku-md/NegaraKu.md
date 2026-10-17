@@ -30,10 +30,11 @@ faq:
     a: "Si la LKM lleva sin renovarse más de tres años, el JPJ exige que el vehículo se lleve a inspección en Puspakom para obtener un informe B2 (o una inspección PG10 específicamente para las motocicletas de propiedad individual) antes de que la solicitud de renovación pueda tramitarse en una oficina del JPJ."
 
 lang: "es"
+sourceContentHash: "20fe200c2e49f4f8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

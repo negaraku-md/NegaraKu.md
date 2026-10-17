@@ -31,10 +31,11 @@ faq:
     a: "Los productores pueden comercializar directamente a los consumidores a través de los canales de FAMA, como los Mercados Permanentes de Agricultores, Agrobazaar, My Farm Outlet y los Puestos de Fruta Fresca, o participar en programas como la Agricultura por Contrato y RANTAI. Los detalles de participación se confirman en fama.gov.my."
 
 lang: "es"
+sourceContentHash: "f18be1d4180f5dbb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

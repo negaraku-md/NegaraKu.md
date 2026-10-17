@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona en Malasia que afronte una consulta con un especialista o un ingreso hospitalario en un establecimiento privado — pacientes, cuidadores y empleados que dependen de tarjetas médicas o seguros proporcionados por el empleador."
 
 lang: "es"
+sourceContentHash: "ae428a676e96d0c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

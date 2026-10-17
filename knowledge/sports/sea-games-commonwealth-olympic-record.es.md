@@ -34,10 +34,11 @@ faq:
     a: "Organizar los Juegos de 1998 en Kuala Lumpur, donde registró su mejor botín de 10 medallas de oro y terminó cuarta en la clasificación general. También fueron los primeros Juegos de la Commonwealth celebrados en Asia."
 
 lang: "es"
+sourceContentHash: "d25df756ce38577d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

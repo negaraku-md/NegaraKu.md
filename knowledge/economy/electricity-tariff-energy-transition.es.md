@@ -31,10 +31,11 @@ faq:
     a: "La NETR fija como meta un 70% de capacidad de energía renovable y cero emisiones netas de gases de efecto invernadero para 2050, con el apoyo de 10 proyectos emblemáticos que se espera atraigan más de RM25 mil millones en inversión."
 
 lang: "es"
+sourceContentHash: "19a2c50c83298410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

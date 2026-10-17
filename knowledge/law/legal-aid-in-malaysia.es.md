@@ -29,10 +29,11 @@ faq:
     a: "El JBG tramita casos civiles, de familia, de la syariah y ciertos casos penales, mientras que la YBGK se centra en la asistencia jurídica gratuita para casos penales, incluidas las etapas de detención y prisión preventiva."
 
 lang: "es"
+sourceContentHash: "91d7cfe993126653"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

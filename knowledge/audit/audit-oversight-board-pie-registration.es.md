@@ -36,10 +36,11 @@ faq:
     a: "Tras las modificaciones de 2015, el registro ya no necesita renovación, pero los auditores registrados presentan una declaración anual a fecha 30 de junio de cada año y pagan una tarifa de RM5,000 por auditor individual para la fecha de aniversario de su registro."
 
 lang: "es"
+sourceContentHash: "046d2016ae30e969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

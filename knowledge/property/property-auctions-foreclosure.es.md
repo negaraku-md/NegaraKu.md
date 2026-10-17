@@ -30,10 +30,11 @@ faq:
     a: "Depende de la Proclamación de Venta. Los compradores suelen heredar los atrasos de quit rent, impuesto de evaluación (cukai pintu), cargos de mantenimiento y servicios, salvo que la POS indique que el banco los liquidará con el producto de la venta. Lea siempre la POS antes de pujar."
 
 lang: "es"
+sourceContentHash: "2fa3e76f153f5816"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

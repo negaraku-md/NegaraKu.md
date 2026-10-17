@@ -30,10 +30,11 @@ faq:
     a: "Se anunció para su introducción antes de 2026, aunque las autoridades han señalado que el calendario podría revisarse."
 
 lang: "es"
+sourceContentHash: "1b480b649a14d8fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

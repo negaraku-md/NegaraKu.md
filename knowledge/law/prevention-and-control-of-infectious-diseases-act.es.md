@@ -30,12 +30,13 @@ faq:
     a: "Para los delitos sin una pena específica, la sección 24 establece prisión de hasta dos años o una multa o ambas para un primer delito. La sección 25 permite transigir hasta RM1,000 bajo el texto original de la Ley. Estas tasas fueron objeto de enmiendas aprobadas por la Dewan Rakyat en 2024."
 
 lang: "es"
+sourceContentHash: "e9a7651147874f41"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

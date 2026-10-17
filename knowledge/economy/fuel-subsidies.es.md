@@ -33,10 +33,11 @@ faq:
     a: "Varía con los precios de mercado. La carga de subvención del RON95 y el diésel fue de alrededor de RM0.7 mil millones en enero de 2026 y alcanzó un máximo de RM7.5 mil millones en abril de 2026, antes de proyectarse en torno a RM3.5 mil millones al mes en junio de 2026."
 
 lang: "es"
+sourceContentHash: "4d77f16bdf432b0a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

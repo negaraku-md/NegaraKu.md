@@ -30,12 +30,13 @@ faq:
     a: "El artículo 25 establece que una confesión hecha a un agente de policía de rango inferior a Inspector no puede probarse contra el acusado, con sujeción a disposiciones escritas expresas. El artículo 24, a su vez, hace irrelevante una confesión si fue provocada por inducción, amenaza o promesa de una persona con autoridad."
 
 lang: "es"
+sourceContentHash: "8f64848838376657"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

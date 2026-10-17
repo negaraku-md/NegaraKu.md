@@ -32,10 +32,11 @@ faq:
     a: "Una calificación más alta reduce el interés que el gobierno paga por sus bonos, lo que libera margen presupuestario y ancla el costo más amplio del endeudamiento. Las calificaciones también moldean la demanda de los inversores extranjeros por activos en ringgit, afectando indirectamente a la moneda."
 
 lang: "es"
+sourceContentHash: "2be52c4fe36e74d8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

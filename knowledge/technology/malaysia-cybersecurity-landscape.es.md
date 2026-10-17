@@ -36,12 +36,13 @@ faq:
     a: "En el Índice Global de Ciberseguridad 2020 (GCIv4) de la UIT, Malasia obtuvo 98.06 y quedó en quinto lugar conjunto del mundo. En la edición de 2024, que usa un modelo de cinco niveles, Malasia se sitúa en el nivel superior de «modelo a seguir»."
 
 lang: "es"
+sourceContentHash: "7722bdc160f9e488"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

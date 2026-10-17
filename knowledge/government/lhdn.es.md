@@ -30,10 +30,11 @@ faq:
     a: "Trátalas como una traducción, no como una fuente. Las páginas en inglés de LHDN están traducidas por máquina y contienen errores confirmados que invierten el significado. Para cualquier cosa de peso, lee la página original en malayo y cita de ella."
 
 lang: "es"
+sourceContentHash: "558a5f369fe484be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

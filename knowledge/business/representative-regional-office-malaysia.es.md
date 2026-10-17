@@ -33,10 +33,11 @@ faq:
     a: "La Autoridad de Desarrollo de las Inversiones de Malasia (MIDA) aprueba las solicitudes, presentadas a través del portal Invest Malaysia. Las solicitudes de banca y servicios financieros las gestiona Bank Negara Malaysia (el Banco Central de Malasia)."
 
 lang: "es"
+sourceContentHash: "9170883af9a3f4af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

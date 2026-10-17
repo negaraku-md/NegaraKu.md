@@ -23,10 +23,11 @@ verificationNeeded:
   - "MOTAC's own site returns a 403 to some automated fetchers; the figures here were retrieved by direct browser-style request to mm2h.gov.my's category and guidelines pages and cross-checked against the site's own Category Overview comparison table, but the programme has changed substantially since 2024 and terms can be revised again — always confirm current figures on mm2h.gov.my before relying on them for an application."
 
 lang: "es"
+sourceContentHash: "9a440d3b932f1d8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

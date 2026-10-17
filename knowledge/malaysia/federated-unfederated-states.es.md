@@ -33,9 +33,10 @@ faq:
   - q: "¿Qué ocurrió al final con los dos grupos?"
     a: "Tanto los Estados Malayos Federados como los No Federados fueron disueltos en la Unión Malaya el 1 de abril de 1946, que a su vez fue reemplazada en pocos años por la Federación Malaya."
 lang: "es"
+sourceContentHash: "3bcc3b32fd59d463"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

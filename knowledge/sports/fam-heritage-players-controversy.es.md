@@ -30,12 +30,13 @@ faq:
     a: "La FIFA se refirió al Artículo 22 del Código Disciplinario de la FIFA, relativo a la falsificación de los documentos de elegibilidad y naturalización de los jugadores."
 
 lang: "es"
+sourceContentHash: "1434e805293f8f32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

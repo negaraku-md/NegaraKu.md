@@ -38,10 +38,11 @@ faq:
     a: "Sí. El albacea debe informar del fallecimiento a la LHDN, presentar la declaración final del fallecido y las declaraciones de la sucesión, y liquidar cualquier impuesto y sanción pendientes antes de distribuir la sucesión. La LHDN tiene tres años, desde el final del año en que se le notifica el fallecimiento, para emitir liquidaciones."
 
 lang: "es"
+sourceContentHash: "68ad2357941779d2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

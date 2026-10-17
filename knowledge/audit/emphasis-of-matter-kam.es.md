@@ -37,10 +37,11 @@ verificationNeeded:
   - "Confirm how listed entity is defined for Malaysian purposes across the Bursa Malaysia Main Market, ACE Market and LEAP Market, and whether LEAP Market issuers fall within the ISA 701 requirement"
 
 lang: "es"
+sourceContentHash: "573f87ce15adf16f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -34,10 +34,11 @@ faq:
     a: "Según un informe de Macaranga, las enmiendas de 2023 a la Ley de Calidad Ambiental de 1974 fijaron una multa mínima de RM5,000 y una máxima de hasta RM10 millones, junto con una pena de prisión obligatoria de no más de cinco años por delitos de contaminación. Para los delitos bajo el régimen de reservas fluviales de Selangor (artículo 48(1) de la Promulgación LUAS de 1999), la sanción es una multa no superior a RM50,000 o prisión no superior a dos años, o ambas. Las cifras de las enmiendas de la Ley de 1974 provienen de un informe secundario y deben verificarse frente al texto oficial de la Gaceta."
 
 lang: "es"
+sourceContentHash: "1a7e38792ecc17c4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

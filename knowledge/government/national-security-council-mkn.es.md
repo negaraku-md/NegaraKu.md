@@ -29,12 +29,13 @@ faq:
     a: "En virtud del artículo 6, los miembros son el primer ministro (presidente), el viceprimer ministro, el ministro de Defensa, el ministro del Interior, el ministro de Comunicaciones y Multimedia, el secretario jefe del Gobierno, el jefe de las Fuerzas de Defensa y el inspector general de la Policía."
 
 lang: "es"
+sourceContentHash: "c3999252b2bdc0d7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

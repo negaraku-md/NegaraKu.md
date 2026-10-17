@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirm whether MASB has issued any specific guidance on re-adoption of MPERS by an entity that previously moved to MFRS"
 
 lang: "es"
+sourceContentHash: "621bf2dc64ee78c4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

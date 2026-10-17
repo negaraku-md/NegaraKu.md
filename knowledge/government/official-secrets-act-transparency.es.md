@@ -30,12 +30,13 @@ faq:
     a: "A nivel federal, no hay ninguna ley de libertad de información en vigor al momento de redactar este texto. Solo los estados de Selangor (publicada en el boletín oficial en 2011, en vigor en 2013) y Penang (Ley de 2010) tienen leyes de libertad de información, limitadas a la información dentro de la jurisdicción de los respectivos gobiernos estatales. Un proyecto de ley federal se presentó en julio de 2026."
 
 lang: "es"
+sourceContentHash: "55b6d981106fab77"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

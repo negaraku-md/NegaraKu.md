@@ -34,10 +34,11 @@ faq:
     a: "A menudo se le denomina la «nueva ola malasia» (Malaysian New Wave), una ola de cineastas independientes de principios de la década de 2000. Da Huang Pictures, fundada en 2004 por Tan Chui Mui, Amir Muhammad, James Lee y Liew Seng Tat, se convirtió en uno de sus centros; la película de Tan, Love Conquers All, ganó los premios New Currents y FIPRESCI en el Festival Internacional de Cine de Busan de 2006 y el Tiger Award en Róterdam."
 
 lang: "es"
+sourceContentHash: "defc3df96dc13355"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

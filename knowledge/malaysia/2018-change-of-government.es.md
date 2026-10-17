@@ -19,11 +19,12 @@ keyTakeaways:
   - "Tun Dr. Mahathir Mohamad juró el cargo como séptimo primer ministro de Malasia el 10 de mayo de 2018; la Dra. Wan Azizah Wan Ismail se convirtió en la primera mujer en ejercer como viceprimera ministra"
 appliesTo: "Lectores que desean los hechos documentados del primer cambio de gobierno federal de Malasia en las 14.ª elecciones generales — el resultado, las cifras de escaños y el mecanismo constitucional — expuestos de forma neutral y con fuentes, sin interpretación partidista."
 lang: "es"
+sourceContentHash: "354e5f3719c345fc"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -35,10 +35,11 @@ faq:
     a: "La section 14 prevé una pena de prisión de hasta dos años o una multa de hasta RM50,000 o ambas por un primer delito, y hasta cinco años de prisión o una multa de RM100,000 por un segundo delito o uno posterior. Un padre o tutor que a sabiendas permita que se produzca la infracción también puede ser sancionado."
 
 lang: "es"
+sourceContentHash: "4ad258e80f1299ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -37,10 +37,11 @@ faq:
     a: "No. El 997 es específicamente para estafas financieras en las que se ha transferido dinero mediante engaño. Para documentos perdidos o casos que no sean estafas, presente una denuncia en una comisaría o a través del portal e-Reporting de la PDRM."
 
 lang: "es"
+sourceContentHash: "ae9a54e76a608697"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

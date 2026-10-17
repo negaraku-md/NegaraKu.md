@@ -38,12 +38,13 @@ faq:
     a: "No. La Ley de Seguridad Cibernética rige la seguridad y la resiliencia de la infraestructura crítica. La privacidad de los datos personales se rige por separado mediante la Ley de Protección de Datos Personales de 2010. Una organización puede estar sujeta a ambas."
 
 lang: "es"
+sourceContentHash: "3cca544d70c1185a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
 revision: 0

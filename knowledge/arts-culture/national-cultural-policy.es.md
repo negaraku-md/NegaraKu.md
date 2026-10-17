@@ -30,12 +30,13 @@ faq:
     a: "Según el JKKN, la DKK de 1971 constituye la base de la Política de Cultura Nacional (DAKEN) de 2021, que se sustenta en siete pilares con un periodo de ejecución de 2021-2025. El JKKN también afirma que la DKK de 1971 nunca fue respaldada formalmente a nivel de gabinete, aunque orientó la administración durante unos 50 años."
 
 lang: "es"
+sourceContentHash: "8ad5677b6225effa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

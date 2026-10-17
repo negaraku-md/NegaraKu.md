@@ -28,10 +28,11 @@ faq:
     a: "El CCC confirma que la vivienda se construyó conforme a los planos aprobados y es segura para habitar. Sin el CCC, el edificio oficialmente no es apto para habitar y el suministro de servicios puede verse afectado."
 
 lang: "es"
+sourceContentHash: "47b5179ed98be754"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

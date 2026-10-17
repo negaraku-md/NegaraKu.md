@@ -30,10 +30,11 @@ faq:
     a: "Según JPJ, un aviso AwAS no liquidado en un plazo de 60 días desde la fecha de emisión puede llevar a una acción judicial, con una multa de entre RM300 y RM2,000 en caso de condena."
 
 lang: "es"
+sourceContentHash: "b08ee8ca24ef947b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

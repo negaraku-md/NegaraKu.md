@@ -30,12 +30,13 @@ faq:
     a: "Según Arkib Negara Malaysia, los acuerdos de Hat Yai no exigieron al CPM rendirse. El partido aceptó poner fin a la actividad militante, disolver sus unidades armadas y destruir sus armas, y sus miembros juraron lealtad al Yang di-Pertuan Agong."
 
 lang: "es"
+sourceContentHash: "02bbbc636e171599"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -33,10 +33,11 @@ faq:
     a: "El nombre se proclamó el 31 de agosto de 1997 en Dataran Merdeka, para conmemorar el 40.º aniversario de la independencia."
 
 lang: "es"
+sourceContentHash: "f09e1191ce6cd425"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

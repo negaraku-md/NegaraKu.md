@@ -33,12 +33,13 @@ faq:
     a: "La disposición de tres niveles — el Tribunal Subordinado de la Syariah, el Tribunal Superior de la Syariah y el Tribunal de Apelación de la Syariah — es común, pero cada estado la establece mediante su propio decreto estatal (enactment), mientras que los Territorios Federales se rigen por la Act 505. Los límites monetarios de la jurisdicción civil los fija el respectivo decreto o ley y pueden diferir entre estados."
 
 lang: "es"
+sourceContentHash: "8fac45bc244e70ad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

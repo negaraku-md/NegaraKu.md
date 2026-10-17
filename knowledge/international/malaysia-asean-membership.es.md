@@ -38,10 +38,11 @@ faq:
     a: "La Secretaría de la ASEAN tiene su sede en Yakarta, Indonesia. Está encabezada por el Secretario General de la ASEAN, actualmente el Dr. Kao Kim Hourn, de Camboya."
 
 lang: "es"
+sourceContentHash: "a6367ba8ba6baac1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

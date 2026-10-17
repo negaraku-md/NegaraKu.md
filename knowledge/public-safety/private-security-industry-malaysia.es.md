@@ -31,10 +31,11 @@ faq:
     a: "Compruebe el estado de la licencia de la empresa y de sus guardias a través del portal de verificación eSIMS del KDN antes de firmar un contrato. Una agencia legítima debe poseer una Licencia de Agencia Privada actualmente en vigor."
 
 lang: "es"
+sourceContentHash: "7778a33b10205faf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

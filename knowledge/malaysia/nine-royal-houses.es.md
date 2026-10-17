@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Lectores que quieran identificar los nueve estados reales de Malasia y comprender la posición constitucional de los Gobernantes en términos descriptivos — estudiantes, investigadores, periodistas, funcionarios públicos y lectores en general."
 
 lang: "es"
+sourceContentHash: "2e19d7c57053d5f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

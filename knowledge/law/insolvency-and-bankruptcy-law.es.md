@@ -34,10 +34,11 @@ faq:
     a: "Sí. La Companies Act 2016 introdujo mecanismos de rescate: la administración judicial (Sections 403-430), en virtud de la cual un administrador judicial designado por el tribunal dirige la empresa bajo una moratoria, y el convenio voluntario corporativo (Section 395). Un convenio de arreglo en virtud de la Section 366 también permite a una empresa vincular a los acreedores a un acuerdo con la aprobación del 75% por valor y la sanción del tribunal."
 
 lang: "es"
+sourceContentHash: "a85ad7d5133bf9fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

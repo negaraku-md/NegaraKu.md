@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Malasios y expatriados que salen de Malasia definitivamente, o por más de tres meses, y los equipos de RR. HH. o nóminas que deben presentar los trámites en su nombre."
 
 lang: "es"
+sourceContentHash: "00b0d352c02ac806"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

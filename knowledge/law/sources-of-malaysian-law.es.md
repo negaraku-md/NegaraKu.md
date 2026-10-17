@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "Estudiantes de derecho e investigadores que trazan el sistema jurídico malasio por primera vez, cualquiera que intente determinar qué cuerpo de derecho rige una cuestión dada, y los lectores que ven una y otra vez «país de common law», «derecho islámico» y «adat» usados uno al lado del otro sin que se les explique cómo se relacionan realmente."
 
 lang: "es"
+sourceContentHash: "f4b71230618caa4c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -42,10 +42,11 @@ verificationNeeded:
   - "Confirm whether Bursa Malaysia will issue transitional guidance for quarterly reporting in the first MFRS 18 year"
 
 lang: "es"
+sourceContentHash: "542671cd3c464e38"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

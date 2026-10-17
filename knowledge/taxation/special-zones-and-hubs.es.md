@@ -44,10 +44,11 @@ verificationNeeded:
   - "Confirm the statutory basis MIDA relies on for the JS-SEZ Smart Logistics Complex ITA — the guideline cites P.U.(A) 113/2006, a pre-2011 instrument outside reliable AGC coverage, and its operative text was not retrieved"
 
 lang: "es"
+sourceContentHash: "2c106e0d7c225687"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

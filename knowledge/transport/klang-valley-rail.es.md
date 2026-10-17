@@ -34,10 +34,11 @@ verificationNeeded:
   - "Confirm current MRT Kajang Line length/station count directly with MRT Corp or Rapid Rail before publication — Ministry of Transport and Rapid Rail's own line page give slightly different figures (51km/31 stations vs 46km/29 stations), which this article has avoided repeating verbatim pending reconciliation."
 
 lang: "es"
+sourceContentHash: "8f5aa15915a64a18"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

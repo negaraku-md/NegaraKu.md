@@ -33,10 +33,11 @@ faq:
     a: "El artículo 366(1) contempla una reunión de la clase afectada ordenada por el tribunal, y una orden de atribución del artículo 370 presupone un plan aprobado conforme al artículo 366. Si el tribunal puede prescindir de la reunión cuando el resultado no es objeto de una disputa genuina es una cuestión abierta que los profesionales han planteado, y la respuesta depende de los hechos. No dé por sentado que puede omitirse la reunión; obtenga asesoramiento jurídico malasio sobre la estructura concreta."
 
 lang: "es"
+sourceContentHash: "c7201bb6830e2b18"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

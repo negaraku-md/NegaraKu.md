@@ -27,10 +27,11 @@ faq:
     a: "Según las directrices de la SSM, la notificación de conversión a empresa pública se emite en el plazo de un día hábil tras presentarse los documentos completos y cumplirse las condiciones. Las directrices no indican un plazo específico para convertir una empresa pública en una privada."
 
 lang: "es"
+sourceContentHash: "63145595a33eef52"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

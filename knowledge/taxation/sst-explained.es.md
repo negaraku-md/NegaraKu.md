@@ -24,10 +24,11 @@ appliesTo: "Propietarios de negocios y personal financiero que intentan averigua
 verificationNeeded: []
 
 lang: "es"
+sourceContentHash: "0ee2d291cdce3d2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

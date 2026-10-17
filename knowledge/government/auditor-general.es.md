@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Estudiantes, investigadores, periodistas y cualquiera que desee entender la base constitucional y las funciones del Departamento Nacional de Auditoría y del Informe del Auditor General."
 
 lang: "es"
+sourceContentHash: "a99d9463d1497fd3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

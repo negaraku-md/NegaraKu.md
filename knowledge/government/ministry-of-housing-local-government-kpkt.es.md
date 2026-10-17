@@ -27,9 +27,10 @@ faq:
   - q: "¿Cómo se llamaba antes el KPKT y cuándo cambió el nombre?"
     a: "Era el Ministerio de Desarrollo del Gobierno Local; el gabinete decidió renombrarlo como Ministerio de Vivienda y Gobierno Local el 13 de diciembre de 2023, lo que se anunció el 26 de diciembre de 2023."
 lang: "es"
+sourceContentHash: "44a0632c979d6de6"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -24,10 +24,11 @@ appliesTo: "Cualquiera que elija una estructura empresarial, o que intente enten
 verificationNeeded: []
 
 lang: "es"
+sourceContentHash: "152f7dfdb9b1a474"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

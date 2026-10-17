@@ -28,9 +28,10 @@ faq:
   - q: "¿Cuán grande es el presupuesto del Ministerio de Educación?"
     a: "En el Presupuesto 2026, el KPM recibió RM66.2 mil millones — la mayor asignación de todos los ministerios federales — frente a los RM64.2 mil millones de 2025. La asignación incluye casi RM2 mil millones para rehabilitar más de 520 escuelas en mal estado y construir 38 nuevas."
 lang: "es"
+sourceContentHash: "4f75b1390b41bfeb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

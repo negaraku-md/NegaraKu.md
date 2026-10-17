@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Inversores, personas que buscan empleo, proveedores que licitan por contratos y cualquier persona que lea la cobertura empresarial de Malasia."
 
 lang: "es"
+sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

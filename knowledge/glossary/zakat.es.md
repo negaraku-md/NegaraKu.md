@@ -32,12 +32,13 @@ faq:
     a: "A una autoridad religiosa establecida conforme a una ley escrita — es decir, la junta o el centro de zakat de tu estado — y conserva el recibo. Los pagos a particulares o a fondos privados no dan derecho a la rebaja."
 
 lang: "es"
+sourceContentHash: "0477b9f160c18e84"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

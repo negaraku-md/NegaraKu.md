@@ -36,12 +36,13 @@ faq:
     a: "El Manual de Procedimiento estipula que la autoridad competente tratará directamente con la empresa o el solicitante, sin pasar por un tercero o intermediario como un consultor. Los consultores pueden ayudar a preparar documentos, pero la solicitud y las comunicaciones oficiales siguen siendo entre el solicitante y JAKIM/MAIN/JAIN."
 
 lang: "es"
+sourceContentHash: "7bb5b6fb5326f994"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

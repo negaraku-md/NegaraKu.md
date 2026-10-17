@@ -33,10 +33,11 @@ faq:
     a: "El empleador declara el pago, dividido en sus partes exenta y gravable, en el Formulario EA (C.P.8A) del empleado correspondiente al año, y la parte gravable se incluye en la renta del empleado de ese año. Por separado, un empleador del sector privado debe notificar a LHDN que el empleado está a punto de cesar en el empleo, por lo general usando el Formulario CP22A al menos 30 días antes del cese, y debe retener fondos a la espera de la liquidación fiscal (la carta de liquidación fiscal / Surat Penyelesaian Cukai) antes de liberar el pago final."
 
 lang: "es"
+sourceContentHash: "8493c353cbce9515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

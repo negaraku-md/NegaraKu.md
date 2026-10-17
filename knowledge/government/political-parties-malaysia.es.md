@@ -40,12 +40,13 @@ verificationNeeded:
   - "The historical periods each coalition governed and their years of establishment (for example, when Barisan Nasional governed at the federal level, and when Perikatan Nasional was established) are not stated as hard dates in this page because no primary source was checked for them in this round. Add sourced dates if needed."
 
 lang: "es"
+sourceContentHash: "58782ac706653a76"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

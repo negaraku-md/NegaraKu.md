@@ -31,12 +31,13 @@ verificationNeeded:
   - "Exact dates and MP counts (defectors, the King's consultations) to be confirmed against official records and contemporaneous reporting; sources vary slightly on the precise day of the hotel meeting (21–23 February)."
 
 lang: "es"
+sourceContentHash: "d475393c9a7ff6eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

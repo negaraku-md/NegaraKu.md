@@ -6,7 +6,7 @@ import type { Locale } from './categories';
 // pages stay noindex and out of the sitemap, and the switcher never points at a page
 // that isn't ready). Japanese (`ja`) open-launched 2026-09-20: full 1,094-article corpus
 // translated + chrome localized.
-export const LOCALES: Locale[] = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi'];
+export const LOCALES: Locale[] = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es'];
 export const DEFAULT_LOCALE: Locale = 'ms';
 
 export const LOCALE_NAMES: Record<Locale, string> = {
@@ -57,18 +57,18 @@ const STRINGS = {
   // Homepage meta description — a full ~150-char sentence (the short tagline
   // above is too brief for search snippets; Bing flagged it). Not shown on-page.
   'site.homeDescription': {
-    ms: 'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — kerajaan, undang-undang, perniagaan, cukai, budaya dan kehidupan harian, berpetikan sumber, dalam sebelas bahasa.',
-    en: 'A free, open-source, AI-friendly knowledge base about Malaysia — its government, laws, business, tax, culture and daily life, cited and available in eleven languages.',
-    zh: 'NegaraKu.md 是一个关于马来西亚的开源、对 AI 友好的知识库，涵盖政府、法律、商业、税务、文化与日常生活，内容附引用来源，并提供十一种语言版本。',
-    ta: 'மலேசியா பற்றிய இலவச, திறந்த மூல, AI-நட்பு அறிவுத் தளம் — அரசாங்கம், சட்டம், வணிகம், வரி, பண்பாடு மற்றும் அன்றாட வாழ்க்கை, மேற்கோள்களுடன், பதினொரு மொழிகளில்.',
-    ja: 'マレーシアに関する無料・オープンソース・AIフレンドリーな知識ベース。政府・法律・ビジネス・税務・文化・日常生活を、出典付きで、11言語で提供します。',
-    ko: '말레이시아에 관한 무료 오픈소스 AI 친화적 지식 베이스 — 정부, 법률, 비즈니스, 세무, 문화, 일상생활을 출처와 함께 11개 언어로 제공합니다.',
-    th: 'ฐานความรู้เกี่ยวกับมาเลเซียที่เปิดให้ใช้ฟรี เป็นโอเพนซอร์ส และเป็นมิตรกับ AI — ครอบคลุมรัฐบาล กฎหมาย ธุรกิจ ภาษี วัฒนธรรม และชีวิตประจำวัน พร้อมการอ้างอิงแหล่งที่มา และให้บริการใน 11 ภาษา',
-    vi: 'Cơ sở tri thức miễn phí, nguồn mở và thân thiện với AI về Malaysia — chính phủ, luật pháp, kinh doanh, thuế, văn hóa và đời sống hằng ngày, có trích dẫn nguồn và cung cấp bằng mười một ngôn ngữ.',
-    id: 'Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia — pemerintahan, hukum, bisnis, pajak, budaya, dan kehidupan sehari-hari, disertai kutipan sumber, dalam sebelas bahasa.',
-    ar: 'قاعدة معرفية مجانية ومفتوحة المصدر وصديقة لـ AI عن ماليزيا — حكومتها وقوانينها وأعمالها وضرائبها وثقافتها وحياتها اليومية، موثّقة بالمصادر ومتاحة بإحدى عشرة لغة.',
-    hi: 'मलेशिया के बारे में एक निःशुल्क, ओपन-सोर्स, AI-अनुकूल ज्ञान कोश — इसकी सरकार, कानून, व्यापार, कर, संस्कृति और दैनिक जीवन, स्रोतों सहित और ग्यारह भाषाओं में उपलब्ध।',
-    es: 'Una base de conocimiento gratuita, de código abierto y compatible con la IA sobre Malasia — su gobierno, leyes, negocios, impuestos, cultura y vida cotidiana, con fuentes citadas y disponible en once idiomas.',
+    ms: 'Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia — kerajaan, undang-undang, perniagaan, cukai, budaya dan kehidupan harian, berpetikan sumber, dalam dua belas bahasa.',
+    en: 'A free, open-source, AI-friendly knowledge base about Malaysia — its government, laws, business, tax, culture and daily life, cited and available in twelve languages.',
+    zh: 'NegaraKu.md 是一个关于马来西亚的开源、对 AI 友好的知识库，涵盖政府、法律、商业、税务、文化与日常生活，内容附引用来源，并提供十二种语言版本。',
+    ta: 'மலேசியா பற்றிய இலவச, திறந்த மூல, AI-நட்பு அறிவுத் தளம் — அரசாங்கம், சட்டம், வணிகம், வரி, பண்பாடு மற்றும் அன்றாட வாழ்க்கை, மேற்கோள்களுடன், பன்னிரண்டு மொழிகளில்.',
+    ja: 'マレーシアに関する無料・オープンソース・AIフレンドリーな知識ベース。政府・法律・ビジネス・税務・文化・日常生活を、出典付きで、12言語で提供します。',
+    ko: '말레이시아에 관한 무료 오픈소스 AI 친화적 지식 베이스 — 정부, 법률, 비즈니스, 세무, 문화, 일상생활을 출처와 함께 12개 언어로 제공합니다.',
+    th: 'ฐานความรู้เกี่ยวกับมาเลเซียที่เปิดให้ใช้ฟรี เป็นโอเพนซอร์ส และเป็นมิตรกับ AI — ครอบคลุมรัฐบาล กฎหมาย ธุรกิจ ภาษี วัฒนธรรม และชีวิตประจำวัน พร้อมการอ้างอิงแหล่งที่มา และให้บริการใน 12 ภาษา',
+    vi: 'Cơ sở tri thức miễn phí, nguồn mở và thân thiện với AI về Malaysia — chính phủ, luật pháp, kinh doanh, thuế, văn hóa và đời sống hằng ngày, có trích dẫn nguồn và cung cấp bằng mười hai ngôn ngữ.',
+    id: 'Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia — pemerintahan, hukum, bisnis, pajak, budaya, dan kehidupan sehari-hari, disertai kutipan sumber, dalam dua belas bahasa.',
+    ar: 'قاعدة معرفية مجانية ومفتوحة المصدر وصديقة لـ AI عن ماليزيا — حكومتها وقوانينها وأعمالها وضرائبها وثقافتها وحياتها اليومية، موثّقة بالمصادر ومتاحة باثنتي عشرة لغة.',
+    hi: 'मलेशिया के बारे में एक निःशुल्क, ओपन-सोर्स, AI-अनुकूल ज्ञान कोश — इसकी सरकार, कानून, व्यापार, कर, संस्कृति और दैनिक जीवन, स्रोतों सहित और बारह भाषाओं में उपलब्ध।',
+    es: 'Una base de conocimiento gratuita, de código abierto y compatible con la IA sobre Malasia — su gobierno, leyes, negocios, impuestos, cultura y vida cotidiana, con fuentes citadas y disponible en doce idiomas.',
   },
   // Short brand tagline shown under the wordmark in the header lockup — the "what".
   'brand.tagline': {

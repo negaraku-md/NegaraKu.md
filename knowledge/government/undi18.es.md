@@ -32,12 +32,13 @@ faq:
     a: "No todos. La Comisión Electoral señala que quienes tienen una dirección incompleta o genérica en el JPN no se registran automáticamente porque no se puede determinar la circunscripción electoral, y tampoco quienes están inhabilitados como electores por ley. La Comisión Electoral coteja los datos con el JPN, el Departamento de Prisiones de Malasia, el Ministerio de Salud y el Ministerio de Asuntos Exteriores."
 
 lang: "es"
+sourceContentHash: "091a7bd83f753abd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

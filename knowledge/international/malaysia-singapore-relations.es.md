@@ -36,10 +36,11 @@ faq:
     a: "El 23 de mayo de 2008, la Corte Internacional de Justicia dictaminó que Pulau Batu Puteh (Pedra Branca) pertenece a Singapur, Middle Rocks a Malasia y South Ledge al Estado en cuyas aguas territoriales se encuentre."
 
 lang: "es"
+sourceContentHash: "47c25fa8a007fc27"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

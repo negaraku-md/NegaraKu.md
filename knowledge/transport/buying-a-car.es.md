@@ -29,10 +29,11 @@ faq:
     a: "El banco o la financiera queda registrado como el propietario legal del vehículo bajo la Hire-Purchase Act 1967 durante la vigencia del préstamo. El comprador es el poseedor registrado con el uso diario del vehículo, y solo se convierte en propietario registrado una vez que el préstamo está totalmente liquidado y la financiera emite una liberación."
 
 lang: "es"
+sourceContentHash: "fbeedb8341d7b377"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

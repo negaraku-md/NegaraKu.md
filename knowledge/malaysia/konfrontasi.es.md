@@ -27,11 +27,12 @@ faq:
   - q: "¿Fue la Konfrontasi una guerra declarada?"
     a: "No. Fue una hostilidad armada que nunca se declaró formalmente como guerra. Se llevó a cabo principalmente mediante incursiones transfronterizas, infiltración y ataques limitados, en lugar de una declaración formal de guerra entre ambos países."
 lang: "es"
+sourceContentHash: "08c14e8e17f8ad68"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

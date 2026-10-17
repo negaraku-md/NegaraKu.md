@@ -34,10 +34,11 @@ faq:
     a: "El VLN por unidad es el valor total de mercado de los activos de un fondo menos sus pasivos, dividido entre el número de unidades en circulación. Es el precio al que compra y vende unidades, y se mueve a diario con el valor de las posiciones del fondo. Un VLN por unidad en alza significa que las inversiones del fondo han ganado valor."
 
 lang: "es"
+sourceContentHash: "a2f63906e556e7a6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

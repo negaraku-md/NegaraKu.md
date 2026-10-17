@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Cualquiera que lea documentos legales, noticias o actuaciones judiciales en Malasia y necesite entender qué significa el término «mahkamah» y la posición relativa de cada nivel."
 
 lang: "es"
+sourceContentHash: "1a30b6920b746dad"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

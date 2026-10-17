@@ -36,10 +36,11 @@ faq:
     a: "La NSS tiene como meta formar y recualificar a 60,000 ingenieros malasios altamente cualificados — unos 30,000 cultivados a través del Ministerio de Educación y unos 30,000 talentos técnicos y vocacionales (TVET) de otros ministerios."
 
 lang: "es"
+sourceContentHash: "1463f5cc1d397718"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

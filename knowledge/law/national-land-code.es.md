@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Cualquiera que necesite situar correctamente el National Land Code — qué hace, a quién obliga, y por qué una cuestión de tierras de Sabah o Sarawak no puede resolverse con él — antes de abordar un procedimiento o una disputa específica."
 
 lang: "es"
+sourceContentHash: "ea87aadccc95af5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

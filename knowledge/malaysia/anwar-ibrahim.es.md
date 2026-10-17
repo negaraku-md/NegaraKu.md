@@ -31,12 +31,13 @@ verificationNeeded:
   - "Exact dates (cabinet posts, dismissal, release, appointment as PM) to be confirmed against the Prime Minister's Office and court records."
 
 lang: "es"
+sourceContentHash: "ff741a6378247554"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-27
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

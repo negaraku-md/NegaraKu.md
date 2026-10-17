@@ -30,10 +30,11 @@ faq:
     a: "Obtenga una carta de liquidación del prestamista y llévela a la agencia para actualizar un préstamo saldado. Por ley, una agencia no puede divulgar su estado de quiebra más de dos años después de la fecha en que fue rehabilitado."
 
 lang: "es"
+sourceContentHash: "0d23a5db0b086fe6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

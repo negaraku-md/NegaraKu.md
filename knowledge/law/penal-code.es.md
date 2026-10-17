@@ -31,10 +31,11 @@ faq:
     a: "Porque es descendiente del mismo borrador. El Código Penal de los Straits Settlements se promulgó como Ordinance No. 4 of 1871 y entró en funcionamiento al año siguiente como una nueva promulgación local del Código Penal de la India (Indian Penal Code), redactado a su vez por la primera Comisión de Derecho de la India bajo Lord Macaulay. El Código Penal de los Estados Malayos Federados de 1936 siguió el mismo modelo, y la Act 574 es su sucesor directo."
 
 lang: "es"
+sourceContentHash: "7702e4996ec5b32e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

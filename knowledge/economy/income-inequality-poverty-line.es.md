@@ -34,10 +34,11 @@ faq:
     a: "Porque el grupo es relativo. Si los ingresos de otras personas suben más rápido que los tuyos, el umbral del B40 también sube, de modo que puedes seguir dentro del mismo grupo aunque tu propio ingreso haya aumentado."
 
 lang: "es"
+sourceContentHash: "83d77f4a9e3c0e88"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

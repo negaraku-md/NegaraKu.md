@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "Cualquier persona que quiera entender el significado del término «Syariah» en el derecho malasio y por qué la jurisdicción de los Tribunales Syariah difiere de un Estado a otro."
 
 lang: "es"
+sourceContentHash: "2bb646d77c8ab722"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

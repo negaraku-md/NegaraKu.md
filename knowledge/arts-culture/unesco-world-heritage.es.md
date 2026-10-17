@@ -30,9 +30,10 @@ faq:
     a: "Sí. El Centro del Patrimonio Mundial registra tres bienes en la Lista Indicativa de Malasia: el Parque Nacional (Taman Negara) de Malasia peninsular, la Cresta de Cuarzo de Gombak en Selangor y el Leprosario de Sungai Buloh. Una inscripción indicativa es una declaración de intención de presentar una candidatura, no una inscripción."
 
 lang: "es"
+sourceContentHash: "2314ed1b6daf68a8"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

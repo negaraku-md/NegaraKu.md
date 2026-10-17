@@ -32,12 +32,13 @@ faq:
     a: "Es el marco que ambos gobiernos adoptaron para describir la siguiente fase de los lazos, sobre la base de la asociación estratégica integral establecida en 2013. El concepto se planteó a partir de 2023 y se formalizó en una declaración conjunta durante la visita de Estado del presidente Xi Jinping el 17 de abril de 2025. Establece la cooperación en comercio, tecnología, infraestructura y vínculos de persona a persona."
 
 lang: "es"
+sourceContentHash: "72782c6871b15658"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

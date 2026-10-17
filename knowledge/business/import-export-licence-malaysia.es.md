@@ -31,10 +31,11 @@ faq:
     a: "ePermit, un servicio web operado por Dagang Net Technologies bajo la Ventanilla Única Nacional, le permite solicitar en línea a múltiples Agencias Emisoras de Permisos. Los permisos aprobados se transmiten electrónicamente a Aduanas para su validación frente a su declaración."
 
 lang: "es"
+sourceContentHash: "f453f5001ae25d26"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

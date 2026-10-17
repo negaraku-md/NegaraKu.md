@@ -35,12 +35,13 @@ verificationNeeded:
   - "Each key moment links to a full, sourced article where one exists; those pages carry the citations. The modern political chronology (prime ministers, general elections, the 1MDB affair, the 2020 Sheraton Move) is factual public record, drawn from the Prime Minister's Office and Election Commission, and is presented neutrally. Entries that touch 3R (race / religion / royalty) or otherwise sensitive themes — the 13 May 1969 incident, Operation Lalang, the 1988 judiciary crisis — await human review before production."
 
 lang: "es"
+sourceContentHash: "e58ff5504e70aafc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-18
 reviewed: 2026-08-18
 reviewDue: 2027-08-18

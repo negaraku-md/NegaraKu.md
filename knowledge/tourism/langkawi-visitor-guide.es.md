@@ -36,10 +36,11 @@ faq:
     a: "El periodo más seco y tranquilo va aproximadamente de noviembre a marzo, que es el mejor para el salto entre islas, el teleférico y el tiempo de playa. Septiembre y octubre suelen ser los meses más lluviosos, aunque la lluvia suele ser en forma de chaparrones tropicales breves más que días enteros pasados por agua."
 
 lang: "es"
+sourceContentHash: "a1ed788de3d96eee"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

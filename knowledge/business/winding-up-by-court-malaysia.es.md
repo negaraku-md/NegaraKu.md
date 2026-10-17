@@ -30,10 +30,11 @@ faq:
     a: "Sí. Cuando la deuda se disputa genuinamente (bona fide) sobre fundamentos sustanciales, la empresa puede solicitar una Fortuna injunction para impedir que el acreedor presente la petición, ya que la liquidación no debe usarse para ejecutar una reclamación disputada."
 
 lang: "es"
+sourceContentHash: "b91e135cb6354783"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

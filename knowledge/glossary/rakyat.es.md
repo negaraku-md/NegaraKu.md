@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Estudiantes, traductores, periodistas y cualquier persona que desee comprender la diferencia entre el término sociopolítico «rakyat» y el término jurídico «warganegara» en el contexto malasio."
 
 lang: "es"
+sourceContentHash: "4db392730fe2ab93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

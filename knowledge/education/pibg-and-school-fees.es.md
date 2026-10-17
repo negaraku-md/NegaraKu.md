@@ -29,10 +29,11 @@ faq:
     a: "No. La educación en las escuelas públicas de primaria y secundaria no conlleva tasas de matrícula. Las tasas especiales, por su parte, están suprimidas desde 2008 mediante la SPI n.º 13/2007."
 
 lang: "es"
+sourceContentHash: "ae00ce2b2c55df71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

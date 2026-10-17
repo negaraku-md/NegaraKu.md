@@ -18,11 +18,12 @@ keyTakeaways:
   - "Un Grupo de Trabajo de representantes de los Gobernantes y de la Alliance, junto con funcionarios británicos, revisó el borrador, que entró en vigor como la Constitución Federal el 31 de agosto de 1957"
 appliesTo: "Estudiantes, investigadores y lectores en general que quieren entender quién escribió realmente la constitución fundacional de Malasia, bajo qué instrucciones, y cómo el informe de una comisión se convirtió en la ley de un país independiente."
 lang: "es"
+sourceContentHash: "274cb6f4918d991f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

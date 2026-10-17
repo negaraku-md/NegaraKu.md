@@ -30,12 +30,13 @@ faq:
     a: "Ambos estados reciben subvenciones especiales en virtud del Artículo 112C y fuentes de ingresos adicionales en virtud de la Parte V del Décimo Anexo, que incluyen derechos sobre productos derivados del petróleo, derechos de exportación sobre madera y productos forestales, regalías minerales e impuestos estatales sobre las ventas."
 
 lang: "es"
+sourceContentHash: "f7789909fc78f01b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

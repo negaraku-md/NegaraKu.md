@@ -30,10 +30,11 @@ faq:
     a: "Sí. Figura entre los 10 platos publicados en la Gaceta como objetos de Patrimonio Nacional por el Comisionado del Patrimonio el 23 de febrero de 2024."
 
 lang: "es"
+sourceContentHash: "99f9a99ac9dc7cef"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

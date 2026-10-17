@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "Cualquiera — viajero, empleador, estudiante o lector del federalismo malasio — que desee un relato claro y descriptivo de las salvaguardias constitucionales que tienen Sabah y Sarawak, y de dónde está escrita cada una, sin tomar partido en el debate sobre cómo se implementan."
 
 lang: "es"
+sourceContentHash: "468d0412b31978aa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -26,10 +26,11 @@ verificationNeeded:
   - "The 47-overseas-office figure is corroborated by two independently dated 2026 news reports citing MATRADE's own chairman and chief executive, but was not cross-checked against a MATRADE-hosted office directory page, which this article's fetch attempts could not retrieve in full"
 
 lang: "es"
+sourceContentHash: "53582e357950bce0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

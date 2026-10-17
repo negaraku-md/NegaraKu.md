@@ -33,10 +33,11 @@ faq:
     a: "No de forma automática. Dado que ambos estados controlan su propia inmigración, los ciudadanos extranjeros se vuelven a controlar en el punto de entrada de Sabah/Sarawak y reciben una autorización o pase estatal por separado."
 
 lang: "es"
+sourceContentHash: "61e0e60b5ca388ec"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

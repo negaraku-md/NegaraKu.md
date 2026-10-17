@@ -30,10 +30,11 @@ faq:
     a: "Tras la enajenación de las aerolíneas, Capital A es un grupo de servicios de aviación y digital construido en torno a cinco negocios: Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next y Santan."
 
 lang: "es"
+sourceContentHash: "649108ce940fc47e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

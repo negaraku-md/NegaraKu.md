@@ -24,10 +24,11 @@ verificationNeeded:
   - "Whether a specific driver requirement (such as a minimum age) applies should be confirmed with JPJ or the individual e-hailing operator, since it was not stated in confirmable form on the official pages consulted"
 
 lang: "es"
+sourceContentHash: "10f57c7f87a7c675"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

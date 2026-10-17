@@ -32,12 +32,13 @@ faq:
 verificationNeeded: []
 
 lang: "es"
+sourceContentHash: "fe6d42d875ef660f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

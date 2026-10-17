@@ -29,10 +29,11 @@ faq:
     a: "El Ahorro Convencional tiene garantizado un mínimo del 2.50% anual según la EPF Act 1991. El Ahorro Shariah, por su parte, depende enteramente del rendimiento real de la cartera, sin ninguna garantía mínima."
 
 lang: "es"
+sourceContentHash: "e680578dd6d6768e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

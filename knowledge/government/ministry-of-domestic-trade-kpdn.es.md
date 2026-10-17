@@ -27,9 +27,10 @@ faq:
   - q: "¿Qué leyes usa KPDN para controlar los precios?"
     a: "Se apoya principalmente en la Ley de Control de Suministros de 1961 (Control of Supplies Act 1961) y la Ley de Control de Precios y Antiespeculación de 2011 (Price Control and Anti-Profiteering Act 2011), que le permiten fijar topes de precios, exigir la exhibición de precios y actuar contra beneficios irrazonablemente altos."
 lang: "es"
+sourceContentHash: "bc54d858f6180b54"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

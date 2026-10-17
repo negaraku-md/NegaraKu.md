@@ -36,12 +36,13 @@ faq:
     a: "Existen ambas. Lugares como Annah Rais, cerca de Kuching, son comunidades bidayuh vivas de longhouse donde las familias todavía residen, mientras que el Sarawak Cultural Village, cerca de Santubong, es un museo vivo construido a tal fin. Visitar una longhouse en funcionamiento se organiza mejor con antelación y a menudo a través de un guía que pueda interpretar la visita con respeto."
 
 lang: "es"
+sourceContentHash: "484f5ee1df5a2a08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -32,10 +32,11 @@ faq:
     a: "El NSRC (Centro Nacional de Respuesta a Estafas) es un esfuerzo conjunto del Centro Nacional de Prevención de Delitos Financieros (NFCC), la RMP, Bank Negara Malaysia, la MCMC y las instituciones financieras y el sector de las telecomunicaciones. Fue anunciado por el Departamento del Primer Ministro el 14 de octubre de 2022 como un centro de respuesta rápida contra el fraude financiero en línea a través de la línea directa 997. El CCID es una de las unidades de la RMP implicadas en esta operación."
 
 lang: "es"
+sourceContentHash: "9fa83d15365c9fba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

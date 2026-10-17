@@ -39,10 +39,11 @@ verificationNeeded:
   - "Confirm the validation behaviour of the specific entry point against the mTool 2.2 user manual for that entry point before relying on any rule described generically"
 
 lang: "es"
+sourceContentHash: "4cbf1a047bbd3c22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

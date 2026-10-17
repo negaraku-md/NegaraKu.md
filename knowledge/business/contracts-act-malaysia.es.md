@@ -43,10 +43,11 @@ verificationNeeded:
   - "Confirm whether any post-2006 amendment to Act 136 exists; the AGC updated text is stated as at 1 January 2006 and its list of sections amended stops at 1974"
 
 lang: "es"
+sourceContentHash: "e471e60c661a356c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

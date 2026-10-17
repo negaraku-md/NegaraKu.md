@@ -29,12 +29,13 @@ faq:
     a: "Genting abarca ocio y hostelería, plantaciones de palma aceitera, generación de energía, petróleo y gas, desarrollo inmobiliario y ciencias de la vida. Genting Plantations gestiona unas 243,000 hectáreas de reserva de tierras en Malasia e Indonesia."
 
 lang: "es"
+sourceContentHash: "1b5f1753141cba5e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

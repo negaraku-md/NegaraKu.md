@@ -20,11 +20,12 @@ keyTakeaways:
   - "La NEP se formuló tras los sucesos del 13 de mayo de 1969 y fue sucedida por la Política Nacional de Desarrollo en 1991"
 appliesTo: "Lectores que quieran los objetivos, metas y marco temporal documentados de la Nueva Política Económica tal como se declaran en los textos oficiales de los planes de Malasia, y no un relato partidista de la misma."
 lang: "es"
+sourceContentHash: "6f9599be22d1ac5f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -39,12 +39,13 @@ verificationNeeded:
   - "Confirm that the judge-number ceilings set by P.U. (A) 163/2009, P.U. (A) 164/2009 and P.U. (A) 384/2006 have not been superseded by a later order of the Yang di-Pertuan Agong."
 
 lang: "es"
+sourceContentHash: "4d0744d3b1bfbe91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

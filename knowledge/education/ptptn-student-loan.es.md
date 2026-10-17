@@ -25,10 +25,11 @@ verificationNeeded:
   - "Las referencias a las facultades de ejecución (por ejemplo, las restricciones de viaje al extranjero para los prestatarios morosos) se mencionan solo en términos generales basándose en la existencia de tales facultades conforme a la Act 566; el número de sección específico y sus condiciones de activación (como el periodo de mora) no se han verificado directamente del texto de la Ley ni del portal oficial y necesitan volver a comprobarse."
 
 lang: "es"
+sourceContentHash: "36c7c223a86b45ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

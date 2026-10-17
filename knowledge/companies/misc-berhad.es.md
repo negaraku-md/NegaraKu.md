@@ -29,10 +29,11 @@ faq:
     a: "El Grupo MISC reportó unos ingresos de RM13.237,5 millones en el EF2024, un descenso del 7,2% respecto a los RM14.271,7 millones del EF2023, con un beneficio después de impuestos de RM1.233,2 millones."
 
 lang: "es"
+sourceContentHash: "29aaf63ab9013b28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -29,12 +29,13 @@ faq:
     a: "Asistir y asesorar al Soberano en los asuntos islámicos, y administrar el zakat, el waqf, las mezquitas y las materias conexas de conformidad con la ordenanza estatal. El MAIN es además el fideicomisario único de los bienes de waqf del estado."
 
 lang: "es"
+sourceContentHash: "d6d15ba266fb5f4b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

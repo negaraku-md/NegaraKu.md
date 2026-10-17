@@ -55,10 +55,11 @@ obligations:
     consequence: "Unless approval is obtained by resolution, the payment constitutes a debt due by the director to the company under s.230(5)"
 
 lang: "es"
+sourceContentHash: "b55d6be73a88fe6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

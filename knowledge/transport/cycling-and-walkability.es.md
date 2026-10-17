@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Residentes, planificadores y cualquiera que compare la caminabilidad y la infraestructura ciclista de las ciudades malasias con las de otros países."
 
 lang: "es"
+sourceContentHash: "3d0d276aec4c1fe4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

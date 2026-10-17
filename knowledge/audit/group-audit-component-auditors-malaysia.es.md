@@ -30,10 +30,11 @@ faq:
     a: "Si el acceso a la información del componente o a sus auditores está restringido y el componente es significativo, el auditor del grupo puede verse imposibilitado de obtener evidencia suficiente y adecuada, lo que puede llevar a una opinión con salvedades o a una denegación de opinión sobre los estados financieros del grupo."
 
 lang: "es"
+sourceContentHash: "871221203173410a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

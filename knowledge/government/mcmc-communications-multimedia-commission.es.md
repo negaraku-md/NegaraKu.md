@@ -34,10 +34,11 @@ faq:
     a: "La Sección 126(2) dispone que toda persona que posea o preste una instalación de red, un servicio de red o un servicio de aplicaciones sin una licencia válida comete un delito y puede, en caso de condena, ser pasible de una multa no superior a RM500,000 o prisión no superior a cinco años o ambas, junto con una multa adicional de RM1,000 por cada día que el delito continúe tras la condena."
 
 lang: "es"
+sourceContentHash: "f7de1e94c09f1ce3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

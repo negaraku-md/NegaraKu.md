@@ -35,10 +35,11 @@ faq:
     a: "Los objetivos están vinculados al ciclo de los grandes juegos —los Juegos Olímpicos, los Juegos Asiáticos y los Juegos de la Commonwealth— y se da prioridad a los deportes identificados como de alta probabilidad de éxito, en consonancia con el Objetivo 8 de la Política Nacional del Deporte. La financiación se canaliza de forma cíclica (por ejemplo, RM60 millones al año durante cuatro años), coordinada por el Consejo Nacional del Deporte y respaldada por la ciencia deportiva del Instituto Nacional del Deporte."
 
 lang: "es"
+sourceContentHash: "7132b0584a8f785b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

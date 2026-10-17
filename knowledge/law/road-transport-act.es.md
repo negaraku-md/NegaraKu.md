@@ -31,10 +31,11 @@ faq:
     a: "Crea las infracciones y las sanciones máximas que el Parlamento fijó para cada una, pero las cifras exactas se ajustan con frecuencia mediante legislación subsidiaria y avisos administrativos (por ejemplo, el sistema de composición AWAS). Por esa razón, esta página no reproduce importes de multas específicos; consulta las tablas publicadas por la propia JPJ para las cifras vigentes."
 
 lang: "es"
+sourceContentHash: "082c1821680b3184"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -37,12 +37,13 @@ faq:
     a: "Un pago del Gobierno Federal a Terengganu y Kelantan vinculado a los ingresos petroleros. Un comunicado del Ministerio de Finanzas afirma que el Wang Ihsan no es una subvención del Gobierno Federal consagrada en la ley — es decir, no es un derecho conferido por estatuto."
 
 lang: "es"
+sourceContentHash: "44eeeac1d9bc0d54"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

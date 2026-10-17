@@ -28,10 +28,11 @@ faq:
     a: "Ya era reconocido en todo el país, tenía un color y una forma atractivos, un nombre uniforme, estaba fácilmente disponible y no era todavía la flor nacional de ningún otro país en aquel momento."
 
 lang: "es"
+sourceContentHash: "a06373b8a03d8ae0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

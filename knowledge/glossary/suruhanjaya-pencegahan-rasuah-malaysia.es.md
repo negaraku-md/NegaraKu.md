@@ -31,12 +31,13 @@ faq:
     a: "Una organización puede defenderse si prueba que tenía implantados procedimientos adecuados para prevenir la corrupción. La orientación la ofrecen los cinco principios T.R.U.S.T. de las Guidelines on Adequate Procedures emitidas por el Departamento del Primer Ministro, con fecha de 4 de diciembre de 2018."
 
 lang: "es"
+sourceContentHash: "bba5e6b3f79a29ee"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

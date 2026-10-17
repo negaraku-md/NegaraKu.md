@@ -34,10 +34,11 @@ faq:
     a: "Tal como está, la Constitución no limita el mandato. En 2026 se propuso un proyecto de enmienda constitucional para limitar el ejercicio del Primer Ministro a un total agregado de diez años; el estado final de esa enmienda debe verificarse con las fuentes oficiales."
 
 lang: "es"
+sourceContentHash: "a4359d9c03eadb4d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

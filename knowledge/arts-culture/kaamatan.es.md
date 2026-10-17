@@ -33,9 +33,10 @@ faq:
     a: "El Magavau es un ritual de agradecimiento para honrar y «llamar de vuelta a casa» al espíritu del arroz, Bambaazon, tras la cosecha. Lo dirige tradicionalmente una bobohizan (también escrito bobolian), una sacerdotisa que recita cánticos rituales. Es uno de los elementos ceremoniales más antiguos del Kaamatan."
 
 lang: "es"
+sourceContentHash: "77931677eb9c36e1"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

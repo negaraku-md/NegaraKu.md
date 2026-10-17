@@ -32,10 +32,11 @@ faq:
     a: "No. Bajo el artículo 554(1)(a), la responsabilidad de todo director, cargo o miembro de la empresa continúa y puede exigirse como si la empresa no hubiera sido disuelta. Los directores también deben conservar los registros de la empresa durante siete años tras la baja."
 
 lang: "es"
+sourceContentHash: "bd012809619da49e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

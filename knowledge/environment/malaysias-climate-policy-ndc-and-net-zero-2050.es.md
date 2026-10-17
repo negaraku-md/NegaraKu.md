@@ -36,10 +36,11 @@ faq:
     a: "Del objetivo de 15–30 MtCO₂eq, hasta 20 MtCO₂eq son incondicionales — Malasia se compromete a ello pase lo que pase. Otros 10 MtCO₂eq son condicionales, lo que significa que solo se lograrán si se proporcionan financiación climática internacional, transferencia de tecnología y apoyo a la creación de capacidades."
 
 lang: "es"
+sourceContentHash: "7ad2136668e2982a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

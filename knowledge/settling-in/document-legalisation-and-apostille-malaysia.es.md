@@ -32,10 +32,11 @@ faq:
     a: "No. Según la propia División Consular de Wisma Putra, la atestación solo verifica la autenticidad del sello y la firma del funcionario autorizado, no la veracidad del contenido del documento."
 
 lang: "es"
+sourceContentHash: "1c942b9ac8cdb96c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

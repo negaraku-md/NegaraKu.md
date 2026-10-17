@@ -28,10 +28,11 @@ verificationNeeded:
   - "Si el P.U.(A) 164/2019 fue prorrogado más allá del YA2025 por un instrumento publicado en el boletín oficial después de escribirse esta página."
 
 lang: "es"
+sourceContentHash: "94db45958fc37cd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -20,11 +20,12 @@ keyTakeaways:
   - "La Federación de 1948 estableció la Conferencia de Gobernantes, el Consejo Legislativo Federal y el Consejo Ejecutivo Federal, pero el poder ejecutivo seguía recayendo en el Alto Comisionado británico"
 appliesTo: "Estudiantes, investigadores y lectores en general que quieran comprender los orígenes de la estructura constitucional de Malasia — en particular, cómo se establecieron por primera vez por escrito, antes de la Merdeka, la posición de los Gobernantes malayos y los términos de la ciudadanía."
 lang: "es"
+sourceContentHash: "f8c770a08f5a6831"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -37,10 +37,11 @@ faq:
     a: "Una tarjeta Touch 'n Go. Funciona en el LRT, MRT, monorraíl, BRT y autobuses de Rapid KL. Los autobuses de Rapid KL no aceptan efectivo, por lo que una tarjeta (o la app) es prácticamente obligatoria para los autobuses."
 
 lang: "es"
+sourceContentHash: "df3f033b8e40fec3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

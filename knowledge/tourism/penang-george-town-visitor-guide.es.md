@@ -36,10 +36,11 @@ faq:
     a: "Penang es un destino de todo el año con un clima tropical cálido y húmedo. Puede llover en cualquier mes, pero las lluvias tienden a ser más intensas en torno a los periodos intermonzónicos (aproximadamente abril–mayo y septiembre–noviembre); la ventana más seca y fresca en torno a diciembre–febrero es popular. Las mañanas y el final de la tarde son los momentos más cómodos para caminar."
 
 lang: "es"
+sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

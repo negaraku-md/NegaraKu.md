@@ -31,11 +31,12 @@ faq:
     a: "Sí. El sistema educativo nacional de Malasia incluye escuelas de tipo nacional (Sekolah Jenis Kebangsaan) que usan el mandarín (SJKC) o el tamil (SJKT) como lengua de instrucción, junto a las escuelas nacionales (SK) que usan el bahasa melayu. Las tres dependen del Ministerio de Educación y del mismo currículo nacional."
 
 lang: "es"
+sourceContentHash: "ab65f68bd17c67a2"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

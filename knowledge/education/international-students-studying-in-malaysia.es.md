@@ -32,10 +32,11 @@ faq:
     a: "Ambos tipos pueden estar aprobados para aceptar estudiantes internacionales, pero se sitúan bajo partes distintas del marco del Pase de Estudiante y típicamente difieren en qué programas y capacidad de admisión están abiertos a solicitantes extranjeros frente a los nacionales. Confirme directamente con la oficina internacional de la institución cuál de sus programas de interés está abierto a la matrícula de no ciudadanos antes de solicitar."
 
 lang: "es"
+sourceContentHash: "b1b055e68d2a5111"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

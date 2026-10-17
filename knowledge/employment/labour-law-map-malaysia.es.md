@@ -28,10 +28,11 @@ verificationNeeded:
   - "Confirm Act numbers 612, 732, 789, 800, 840 and 872 against lom.agc.gov.my once those PDFs are served — they are currently confirmed from agency sites rather than the LOM repository"
 
 lang: "es"
+sourceContentHash: "debce12c53f16ed5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

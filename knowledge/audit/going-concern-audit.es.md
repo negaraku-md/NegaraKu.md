@@ -36,10 +36,11 @@ verificationNeeded:
   - "Confirm whether any Malaysian banking covenant practice or Bursa Malaysia listing requirement attaches a specific consequence to a Material Uncertainty Related to Going Concern section — the commercial effects described here are practitioner observation, not a published rule"
 
 lang: "es"
+sourceContentHash: "272fa8b449a7b590"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

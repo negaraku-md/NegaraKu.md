@@ -36,12 +36,13 @@ verificationNeeded:
   - "The 6 fixed-price / 12 variable-price split is derived from PNB's 19 December 2025 press release (18 funds in total, 12 of them variable-price) — reconfirm against ASNB's fund list at the next review"
 
 lang: "es"
+sourceContentHash: "1c4aaf1e059aa22b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

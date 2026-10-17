@@ -30,10 +30,11 @@ faq:
     a: "No del cuerpo de la ley. Los tipos residen en las Schedules de la Act 53, principalmente la Schedule 1, y se cambian mediante Finance Acts. Las desgravaciones, deducciones y exenciones se articulan en gran medida mediante legislación subsidiaria —órdenes y reglas P.U.(A)—, razón por la cual la norma por sí sola nunca responde a una pregunta sobre tipos."
 
 lang: "es"
+sourceContentHash: "e0dfb2c4642360c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

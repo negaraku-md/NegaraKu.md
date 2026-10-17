@@ -28,9 +28,10 @@ faq:
   - q: "¿Cómo me registro como OKU (persona con discapacidad)?"
     a: "Los ciudadanos malasios certificados por un experto médico del gobierno presentan el formulario de registro BPPOKU (Enmienda 2/2019) con un informe de verificación médica y una copia del MyKad (o la partida de nacimiento para solicitantes menores de 12 años), ya sea en un mostrador del JKM o en línea a través del portal MyDaftar OKU. El solicitante aprobado recibe una Tarjeta OKU que muestra su categoría de discapacidad."
 lang: "es"
+sourceContentHash: "f9a688b158d9b46c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

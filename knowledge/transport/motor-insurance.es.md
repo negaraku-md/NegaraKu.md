@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Propietarios y conductores de vehículos de motor en Malasia — coches, motocicletas y vehículos comerciales — que quieran entender los tipos de cobertura de seguro y los requisitos legales."
 
 lang: "es"
+sourceContentHash: "d879ba5dcb3bf1ff"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

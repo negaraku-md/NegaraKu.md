@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Ciudadanos malasios, residentes permanentes, compradores de primera vivienda y compradores extranjeros (sujetos a restricciones y tasas de impuesto adicionales)"
 
 lang: "es"
+sourceContentHash: "819188850c359d23"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

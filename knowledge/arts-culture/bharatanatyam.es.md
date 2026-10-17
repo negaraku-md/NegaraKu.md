@@ -32,9 +32,10 @@ seoTitle: "Bharatanatyam en Malasia: la danza clásica explicada"
 socialTitle: "Cómo la danza clásica del sur de la India arraigó en Malasia"
 
 lang: "es"
+sourceContentHash: "f61cd4f8304d521c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

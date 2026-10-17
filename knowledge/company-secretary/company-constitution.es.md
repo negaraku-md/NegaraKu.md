@@ -34,10 +34,11 @@ faq:
     a: "Bajo la disposición transitoria de la sección 619(3), el M&A de una empresa existente vigente al entrar en vigor la ley continúa vigente como si se hubiera hecho bajo esta ley, salvo que la empresa resuelva lo contrario. Ese M&A pasa ahora a ser el estatuto de la empresa."
 
 lang: "es"
+sourceContentHash: "99c3208a68daac93"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

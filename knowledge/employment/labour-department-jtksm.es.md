@@ -25,9 +25,10 @@ faq:
   - q: "¿Cubre JTKSM toda Malasia?"
     a: "No. JTKSM cubre la Malasia Peninsular. Sabah y Sarawak tienen sus propios departamentos de trabajo independientes."
 lang: "es"
+sourceContentHash: "1575ce3d33c667d0"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

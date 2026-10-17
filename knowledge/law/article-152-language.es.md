@@ -21,11 +21,12 @@ keyTakeaways:
 appliesTo: "Cualquiera que desee el texto constitucional exacto que sustenta la política de lengua nacional de Malasia, y no una paráfrasis de él."
 
 lang: "es"
+sourceContentHash: "b994c8be544c8680"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

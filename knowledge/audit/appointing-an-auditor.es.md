@@ -42,10 +42,11 @@ verificationNeeded:
   - "Confirmar si el Ministro de Finanzas ha delegado formalmente la función de aprobación de la s.263, y a qué organismo, ya que la s.263(5) permite pero no obliga a la delegación"
 
 lang: "es"
+sourceContentHash: "171d2f5e74d8eb19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

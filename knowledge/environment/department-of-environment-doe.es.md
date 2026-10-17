@@ -34,10 +34,11 @@ faq:
     a: "El DOE publica una línea de quejas (03-8889 1972) y una línea gratuita (1-800-88-2727) para quejas ambientales. Verifique los números vigentes en doe.gov.my antes de confiar en ellos."
 
 lang: "es"
+sourceContentHash: "03cee8394623a8f3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

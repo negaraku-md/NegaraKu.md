@@ -29,10 +29,11 @@ faq:
     a: "JAKIM fija como objetivo de 15 a 30 días hábiles una vez recibida una solicitud completa. En la práctica, teniendo en cuenta la preparación de documentos, la auditoría in situ y cualquier corrección, las empresas deberían presupuestar de tres a seis meses desde el inicio hasta el certificado."
 
 lang: "es"
+sourceContentHash: "5688169feeb631ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

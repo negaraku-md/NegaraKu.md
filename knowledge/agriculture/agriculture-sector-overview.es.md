@@ -35,10 +35,11 @@ faq:
     a: "Porque ambos se gestionan como negocios distintos. El aceite de palma es una materia prima de exportación rentable y a gran escala en tierras adecuadas, mientras que el arroz es un cultivo alimentario de bajo margen dependiente de subsidios y de riego. La tierra, el capital y la mano de obra tienden a fluir hacia los cultivos de materias primas más rentables."
 
 lang: "es"
+sourceContentHash: "c5cc2c29dde16362"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

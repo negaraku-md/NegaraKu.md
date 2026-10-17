@@ -33,10 +33,11 @@ faq:
     a: "No. e-WHT solo cambia cómo presentas y pagas — los tipos no cambian y siguen procediendo de la Parte V del Schedule 1 leída junto con la sección de imposición (por ejemplo 10 por ciento de regalías y 15 por ciento de intereses según la sección 109, 10 por ciento para clases especiales según la sección 109B). Consulta la guía aparte sobre los tipos de retención en la fuente por tipo de pago para la tabla completa."
 
 lang: "es"
+sourceContentHash: "d5f0f2295ae24e78"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

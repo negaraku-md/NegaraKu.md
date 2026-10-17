@@ -31,12 +31,13 @@ faq:
     a: "El Ministerio de Salud (KKM) realiza vigilancia e inspecciones en los puestos del bazar, y puede imponer transacciones (compounds) en virtud del Reglamento de Higiene Alimentaria de 2009 (Food Hygiene Regulations 2009). Las autoridades locales, el KKM y el KPDN también realizan inspecciones diarias durante todo el Ramadán para la calidad de los alimentos, la higiene y el control de precios."
 
 lang: "es"
+sourceContentHash: "571a086b9bbbfa81"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

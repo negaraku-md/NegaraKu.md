@@ -41,10 +41,11 @@ verificationNeeded:
   - "Perak approved investment for full-year 2024 and 2025 and its rank — MIDA names only the top five states"
 
 lang: "es"
+sourceContentHash: "b417e9b08cc2755f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

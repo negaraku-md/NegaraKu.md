@@ -19,9 +19,10 @@ keyTakeaways:
   - "La matriculación del vehículo se presenta electrónicamente a través de uno de los tres Gateway Providers designados por el JPJ, con una tarifa de servicio del JPJ de RM50 por presentación"
 appliesTo: "Cualquiera que se reubique en Malasia —malasios que regresan, nuevos contratados expatriados, participantes del MM2H— que esté decidiendo qué enviar, y si enviar un coche de propiedad personal es realista."
 lang: "es"
+sourceContentHash: "322f701876a3d3fe"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

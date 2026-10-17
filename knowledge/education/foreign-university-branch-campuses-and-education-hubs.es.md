@@ -34,10 +34,11 @@ faq:
     a: "No. Aunque Monash, Nottingham, Xiamen y Heriot-Watt se agrupan en torno al Valle de Klang y Putrajaya, EduCity Iskandar concentra varias sedes en Johor, cerca de Singapur, y Curtin y Swinburne operan en Sarawak."
 
 lang: "es"
+sourceContentHash: "eb5708a4ddb8ff8d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

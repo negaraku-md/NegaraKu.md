@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona en Malasia —ciudadano, residente, titular de un permiso de trabajo, estudiante o turista— que necesite comprar o registrar una SIM de móvil local."
 
 lang: "es"
+sourceContentHash: "5f238099826ab02d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

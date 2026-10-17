@@ -31,12 +31,13 @@ faq:
     a: "Islas como Langkawi y Labuan son zonas libres de impuestos donde el alcohol se vende sin impuestos especiales. Los viajeros pueden, en general, traer vino, licores o cerveza de malta que no superen un litro en total, sujeto a las reglas de ausencia mínima que conviene confirmar con aduanas antes de viajar."
 
 lang: "es"
+sourceContentHash: "56f47508696d66ca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

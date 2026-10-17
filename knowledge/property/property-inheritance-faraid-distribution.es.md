@@ -30,12 +30,13 @@ faq:
     a: "Un patrimonio pequeño que contiene bienes inmuebles y está valorado en menos de RM5 millones lo gestiona el Administrador de Tierras a través de la Oficina de Tierras de Distrito (District Land Office), que emite una Orden de Distribución (Distribution Order)."
 
 lang: "es"
+sourceContentHash: "569aa98893242689"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

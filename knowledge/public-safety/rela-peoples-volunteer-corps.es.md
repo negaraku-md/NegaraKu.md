@@ -30,12 +30,13 @@ faq:
     a: "El periodo de registro de cada miembro es de cinco años a partir de la fecha de registro, y puede ser prorrogado por el Director General o un funcionario autorizado (sección 9)."
 
 lang: "es"
+sourceContentHash: "a347a3b7cad0cfbb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

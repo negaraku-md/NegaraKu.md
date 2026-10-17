@@ -21,9 +21,10 @@ verificationNeeded:
   - "The exact names of the state water companies for Pahang, Negeri Sembilan and Kedah are listed on the span.gov.my website but could not be fully extracted while this draft was prepared; this needs to be checked again directly at span.gov.my."
   - "The specific legislative frameworks of Sabah and Sarawak (the names of the relevant state enactments/ordinances) were not directly verified against an official source while this draft was prepared; PAAB confirms the general exclusion of both states from the PAAB model, but the full legislative details need to be re-checked."
 lang: "es"
+sourceContentHash: "fb8c6f5861721815"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

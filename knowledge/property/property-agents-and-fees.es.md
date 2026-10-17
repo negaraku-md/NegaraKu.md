@@ -28,10 +28,11 @@ faq:
     a: "El honorario de alquiler según la escala oficial es de 1.25 a 1.75 meses del alquiler bruto (con un honorario mínimo de 1 mes de alquiler) según el período del arrendamiento; quién lo asume es una cuestión de acuerdo entre las partes."
 
 lang: "es"
+sourceContentHash: "d09e304bd5589019"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

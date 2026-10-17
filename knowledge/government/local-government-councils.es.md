@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera entender la estructura, el marco legal y la composición del gobierno local en Malasia — estudiantes, investigadores, periodistas, residentes que tratan con su consejo local, y lectores en general que quieren conocer la diferencia entre consejos de ciudad, municipales y de distrito, y por qué los concejales son designados en lugar de elegidos."
 
 lang: "es"
+sourceContentHash: "76abb87d5a3ed499"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

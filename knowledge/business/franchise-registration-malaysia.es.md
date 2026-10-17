@@ -34,10 +34,11 @@ faq:
     a: "Operar sin registro es un delito. Conforme al Artículo 39, una persona jurídica se enfrenta a una multa de RM10,000 a RM50,000 por una primera infracción y de RM20,000 a RM100,000 por una infracción posterior; una persona física se enfrenta a RM5,000 a RM25,000 o hasta seis meses de prisión por una primera infracción."
 
 lang: "es"
+sourceContentHash: "86582fd00a53a2cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

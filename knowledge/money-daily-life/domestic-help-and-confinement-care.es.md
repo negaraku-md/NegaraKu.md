@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Hogares en Malasia que consideran una empleada doméstica extranjera interna, ayuda local a tiempo parcial o cuidados posparto (cuidadora o centro) tras el parto."
 
 lang: "es"
+sourceContentHash: "1482c677a5d90d95"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -18,10 +18,11 @@ verificationNeeded:
   - "Confirm SSM's treatment of bank charges and interest credited on a dormant company account — the directive excludes only obligations the company is legally required to pay"
 
 lang: "es"
+sourceContentHash: "71652677302d5a7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

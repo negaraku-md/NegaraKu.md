@@ -33,10 +33,11 @@ verificationNeeded:
   - "TEKUN no publica una marca de abierto o cerrado por esquema, y sus cifras de Ar Rahnu 4u están tipográficamente deformadas en la página en vivo"
 
 lang: "es"
+sourceContentHash: "3e2ae8690cffc294"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

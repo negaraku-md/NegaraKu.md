@@ -31,12 +31,13 @@ faq:
     a: "Las actuaciones contra un Gobernante a título personal solo pueden interponerse ante el Tribunal Especial establecido en virtud del Artículo 182, y están sujetas al consentimiento del Fiscal General."
 
 lang: "es"
+sourceContentHash: "3f9c93463dcbf28a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

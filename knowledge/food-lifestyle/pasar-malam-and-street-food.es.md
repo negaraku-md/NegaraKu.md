@@ -31,10 +31,11 @@ faq:
     a: "Los establecimientos de comida están regulados por el Reglamento de Higiene Alimentaria de 2009 (Food Hygiene Regulations 2009). Se anima a los consumidores a elegir puestos calificados con A o B, que sirven comida caliente y fresca, y a comprobar la etiqueta de calificación que suele mostrarse."
 
 lang: "es"
+sourceContentHash: "1f2264f16a54722d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

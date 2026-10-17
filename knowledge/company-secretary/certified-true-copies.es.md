@@ -33,10 +33,11 @@ verificationNeeded:
   - "Confirm whether SSM has issued any practice directive or guideline on certification of documents by company secretaries — none was located on ssm.com.my"
 
 lang: "es"
+sourceContentHash: "9f90e2daf3ffcc00"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

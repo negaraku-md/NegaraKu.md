@@ -21,9 +21,10 @@ keyTakeaways:
 appliesTo: "Cualquiera que necesite los datos básicos de Malasia — población, superficie, capital, moneda, lengua, PIB — con cada cifra atribuida a la publicación oficial concreta que la publica, en lugar de a un resumen sin fuente."
 
 lang: "es"
+sourceContentHash: "dc264630ca2e722e"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

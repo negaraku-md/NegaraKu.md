@@ -29,12 +29,13 @@ faq:
     a: "Un árbitro privado emitió un laudo de unos 14.92 mil millones de USD el 28 de febrero de 2022, pero Malasia lo impugnó en varias jurisdicciones y el Tribunal de Apelación de París anuló el laudo el 9 de diciembre de 2025."
 
 lang: "es"
+sourceContentHash: "a5cefe938e99cef3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

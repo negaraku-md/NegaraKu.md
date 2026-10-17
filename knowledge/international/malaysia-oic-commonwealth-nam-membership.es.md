@@ -31,12 +31,13 @@ faq:
     a: "La OCI es un órgano político y de solidaridad para todo el mundo musulmán, con 57 miembros; el D-8, en cambio, es una agrupación de cooperación económica más reducida, formada por ocho (ahora nueve) países en desarrollo de mayoría musulmana, más centrada en el comercio y el desarrollo."
 
 lang: "es"
+sourceContentHash: "0bd4e9cbc79316f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

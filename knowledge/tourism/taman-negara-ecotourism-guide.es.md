@@ -37,10 +37,11 @@ faq:
     a: "De forma singular, el parque se rige por tres ordenanzas estatales de la época colonial — la Taman Negara Enactment (Pahang) 1939, (Kelantan) 1938 y (Terengganu) 1939 — en lugar de la National Parks Act 1980 federal. Esto se debe a que la tierra y la silvicultura son competencias estatales según la Constitución Federal de Malasia, por lo que la ley federal no se aplica a los tres estados."
 
 lang: "es"
+sourceContentHash: "7e8c332e4dfbfd08"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

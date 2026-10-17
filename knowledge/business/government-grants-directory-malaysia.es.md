@@ -33,10 +33,11 @@ faq:
     a: "Vaya al propio sitio web de la agencia administradora — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — en lugar de a listados de terceros, que con frecuencia mantienen programas cerrados figurando como disponibles. El gobierno también mantiene un directorio agregado en el portal nacional de financiación MyStartup. Las ventanas de subvención cambian con el Presupuesto anual, así que confirme el estado actual antes de invertir tiempo en una solicitud."
 
 lang: "es"
+sourceContentHash: "7466f2a7eef60107"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-09-07"

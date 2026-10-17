@@ -29,10 +29,11 @@ faq:
     a: "RM185.6 mil millones a 31 de diciembre de 2024, frente a RM169.8 mil millones (2023) y RM158.1 mil millones (2022)."
 
 lang: "es"
+sourceContentHash: "4489ae23d6537356"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

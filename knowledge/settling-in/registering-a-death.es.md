@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Herederos, familiares directos o declarantes responsables de registrar la defunción de una persona en Malasia y de obtener un certificado de defunción para los trámites administrativos que siguen."
 
 lang: "es"
+sourceContentHash: "729859064dd35894"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -27,10 +27,11 @@ verificationNeeded:
   - "Confirme el alcance actual de las agencias que participan en BLESS y MalaysiaBiz, que se amplía periódicamente"
 
 lang: "es"
+sourceContentHash: "d297b49cc580cf19"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

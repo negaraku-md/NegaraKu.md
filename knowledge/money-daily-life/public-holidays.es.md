@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que planifique viajes, negocios o asuntos cotidianos entre estados y quiera entender por qué la lista de días festivos no es uniforme en toda Malasia."
 
 lang: "es"
+sourceContentHash: "3aa4c891e7b6b223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

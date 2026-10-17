@@ -29,10 +29,11 @@ faq:
     a: "Los pasajeros de vuelos que llegan a cualquier aeropuerto internacional de Malasia y conectan hacia un destino en el extranjero dentro de un período de tránsito que no exceda las 12 horas están exentos."
 
 lang: "es"
+sourceContentHash: "5f586e52647f995b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

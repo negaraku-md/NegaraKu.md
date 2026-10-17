@@ -31,10 +31,11 @@ faq:
     a: "La subvención del GLP está dirigida al uso doméstico, no al comercio. Los negocios más grandes deben usar bombonas comerciales no subvencionadas y más caras (bombonas moradas). El KPDN ha declarado que los microcomerciantes y pequeños comerciantes aún pueden usar GLP subvencionado dentro de ciertos límites."
 
 lang: "es"
+sourceContentHash: "7fc238e7f93ed817"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

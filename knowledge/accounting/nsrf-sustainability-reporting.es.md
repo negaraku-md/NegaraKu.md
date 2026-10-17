@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirm whether the legislative amendments listed in section IX of the NSRF have been enacted before treating the NSRF as a statutory obligation for a non-listed company"
 
 lang: "es"
+sourceContentHash: "580bb89b56c953ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

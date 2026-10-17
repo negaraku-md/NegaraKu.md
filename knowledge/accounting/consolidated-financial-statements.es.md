@@ -31,10 +31,11 @@ faq:
     a: "Se presentan ante la Comisión de Sociedades de Malasia (SSM) a través del Malaysian Business Reporting System (MBRS), que exige los estados financieros en formato XBRL. MBRS admite tanto el marco MFRS como el MPERS y proporciona columnas de información consolidada y separada."
 
 lang: "es"
+sourceContentHash: "582764d653c4df0a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

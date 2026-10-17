@@ -33,10 +33,11 @@ faq:
     a: "Sí, desde que la Ley (de Enmienda) de Arbitraje de 2024 entró en vigor el 1 de enero de 2026. Las secciones 46A–46I crean un marco legal, la sección 46C deroga las reglas de derecho común contra el mantenimiento (maintenance) y la champerty, y la sección 46G exige revelar el acuerdo de financiación y la identidad del financiador."
 
 lang: "es"
+sourceContentHash: "dbaaa201e69ebe39"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

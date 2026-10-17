@@ -29,9 +29,10 @@ faq:
   - q: "¿Qué decisiones requieren una resolución especial?"
     a: "Modificar, adoptar o revocar la constitución (artículo 36), cambiar el nombre de la empresa (artículo 28), reducir el capital social por la vía judicial (artículo 116) o por la vía de la declaración de solvencia (artículo 117), e iniciar una liquidación voluntaria por los miembros (artículo 439) exigen todas una resolución especial."
 lang: "es"
+sourceContentHash: "b65d4a86d107f772"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

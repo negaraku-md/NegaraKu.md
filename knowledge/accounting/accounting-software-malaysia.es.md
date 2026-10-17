@@ -29,10 +29,11 @@ verificationNeeded:
   - "The e-Invoice Guideline and Specific Guideline are revised frequently — confirm the current version before treating any integration requirement as settled"
 
 lang: "es"
+sourceContentHash: "2723b917b69eeed3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

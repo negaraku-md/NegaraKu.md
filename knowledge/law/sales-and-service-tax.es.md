@@ -37,10 +37,11 @@ faq:
     a: "Existe cierto alivio B2B. Por ejemplo, cuando tanto el prestador como el receptor están registrados y prestan el mismo servicio gravable, puede aplicarse una exención B2B, y existe un alivio de grupo para el alquiler o arrendamiento entre empresas del mismo grupo corporativo. Las exenciones son específicas: confirma la elegibilidad frente a la orientación de la RMCD para tu grupo de servicios."
 
 lang: "es"
+sourceContentHash: "4d9e9ab785dd88ab"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

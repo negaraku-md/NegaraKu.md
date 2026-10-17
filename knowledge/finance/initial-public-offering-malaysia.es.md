@@ -33,10 +33,11 @@ faq:
     a: "En general, los costes totales de cotización oscilan entre aproximadamente RM3 millones y RM7 millones para el Mercado ACE y por encima de RM5 millones para el Mercado Principal, según el tamaño y la complejidad. Esto incluye honorarios de aseguramiento, colocación y corretaje (generalmente del 1% al 3% del valor de las acciones), honorarios profesionales y tasas regulatorias pagaderas a la Securities Commission (Mercado Principal) o a Bursa Malaysia (Mercado ACE)."
 
 lang: "es"
+sourceContentHash: "4baad2385800a2d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

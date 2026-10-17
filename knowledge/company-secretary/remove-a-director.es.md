@@ -47,10 +47,11 @@ obligations:
     consequence: "Multa de hasta RM50,000 y una multa adicional de hasta RM500 por día por infracción continuada conforme a la s.58(4)"
 
 lang: "es"
+sourceContentHash: "8a80c4606fe7ff91"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

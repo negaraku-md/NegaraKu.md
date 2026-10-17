@@ -30,10 +30,11 @@ faq:
     a: "No. El Informe de Umbral de Efectivo para transacciones en efectivo de RM25,000 o más se aplica solo a las instituciones bancarias, determinadas instituciones financieras de desarrollo, Lembaga Tabung Haji y el casino autorizado. Los DNFBP siguen debiendo la obligación del STR."
 
 lang: "es"
+sourceContentHash: "ed7c9043d8d06f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

@@ -32,12 +32,13 @@ verificationNeeded:
   - "Exact dates (premiership start/end, DPM appointment) to be confirmed against the Prime Minister's Office and official records."
 
 lang: "es"
+sourceContentHash: "01485efbacf83246"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

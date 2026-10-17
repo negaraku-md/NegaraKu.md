@@ -34,10 +34,11 @@ faq:
     a: "Un pase de visita social de corta duración generalmente no puede prorrogarse; para quedarte más tiempo debes salir y volver a entrar. Tampoco puede convertirse en un pase de trabajo o de estudiante — estos deben gestionarse por el canal de visado correcto antes de que empieces a trabajar o estudiar."
 
 lang: "es"
+sourceContentHash: "cc706715a5a043c3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

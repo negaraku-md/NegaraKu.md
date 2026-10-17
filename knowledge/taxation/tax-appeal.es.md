@@ -57,10 +57,11 @@ obligations:
     consequence: "La orden decisoria se mantiene, sujeta únicamente a una prórroga concedida por el Tribunal Superior conforme al párr. 34(7)"
 
 lang: "es"
+sourceContentHash: "d2e991c87917fcac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

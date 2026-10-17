@@ -25,10 +25,11 @@ verificationNeeded:
   - "This page states no fees, rates or processing times of its own; every figure lives on the linked route pages and is sourced there"
 
 lang: "es"
+sourceContentHash: "40a5acd6c21bafa9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -28,10 +28,11 @@ faq:
     a: "El RFID todavía requiere que un vehículo pase por un carril señalizado con una barrera que sube tras una lectura correcta. El ANPR como JustGO PLUS identifica los vehículos mediante una cámara que lee la matrícula, lo que permite a los vehículos registrados pasar por cualquier carril sin ningún distintivo físico, un paso más hacia un sistema totalmente sin barrera (MLFF)."
 
 lang: "es"
+sourceContentHash: "c1392d940afe3b99"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

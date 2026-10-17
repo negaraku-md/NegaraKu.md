@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Contribuyentes individuales que preparan su declaración anual en el Formulario BE/B y comprueban qué desgravaciones pueden reclamar."
 
 lang: "es"
+sourceContentHash: "3aaef5bbc4ffdb87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

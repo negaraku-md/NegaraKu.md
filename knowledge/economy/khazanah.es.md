@@ -26,10 +26,11 @@ verificationNeeded:
   - "EPF's total investment assets and total membership figures could not be independently confirmed via direct fetch of kwsp.gov.my (the site returns HTTP 403 to automated fetching); this article deliberately omits any precise EPF AUM or member-count number rather than publish an unverified one — add both, with a kwsp.gov.my source, at first human review"
 
 lang: "es"
+sourceContentHash: "bde519fccc17693d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

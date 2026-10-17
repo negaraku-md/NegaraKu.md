@@ -27,10 +27,11 @@ verificationNeeded:
   - "El plazo anual de presentación (30 de abril manual / 15 de mayo e-Filing) está confirmado para el Año de Evaluación 2025 mediante el propio comunicado de prensa fechado de LHDN; LHDN publica un nuevo programa de presentación cada año, así que verifique las fechas del año en curso antes de basarse en ellas para un año de evaluación distinto."
 
 lang: "es"
+sourceContentHash: "027e674e99f0cfb0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

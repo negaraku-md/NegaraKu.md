@@ -29,12 +29,13 @@ faq:
     a: "La Conferencia de Gobernantes está consagrada en el Artículo 38 de la Constitución Federal, con sus funciones y procedimientos detallados en el Quinto Anexo."
 
 lang: "es"
+sourceContentHash: "145a64a2a5caf8b7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

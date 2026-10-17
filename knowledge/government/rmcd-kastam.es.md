@@ -36,10 +36,11 @@ verificationNeeded:
   - "The portal inventory beyond MySST and ezHS (MyTTx, MyDLV, the tax stamp system, MNTR) was not confirmed against a cited RMCD page; the current edition of the Customs Duties Order and the number of preferential FTA schedules in ezHS are likewise unconfirmed and are described qualitatively"
 
 lang: "es"
+sourceContentHash: "e8cda8bbe6ecdbc9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

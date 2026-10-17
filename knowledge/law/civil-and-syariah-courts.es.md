@@ -40,12 +40,13 @@ faq:
     a: "No. Cada Estado constituye sus propios tribunales de la Syariah en virtud de su propio decreto, y los Territorios Federales tienen los suyos en virtud del Act 505. El Jabatan Kehakiman Syariah Malaysia, un organismo dependiente del Departamento del Primer Ministro, describe su función como la de coordinar y uniformar la administración del derecho y la judicatura de la Syariah en toda Malasia — coordinación, no un único tribunal nacional."
 
 lang: "es"
+sourceContentHash: "871806c1d22f2076"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

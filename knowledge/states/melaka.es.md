@@ -37,10 +37,11 @@ verificationNeeded:
   - "Confirm the core zone and buffer zone area specific to the Melaka component (as opposed to the whole serial property) against the 1223bis nomination document."
 
 lang: "es"
+sourceContentHash: "68b18aa6f45a809f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

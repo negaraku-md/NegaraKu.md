@@ -34,10 +34,11 @@ faq:
     a: "Declinó a mediados del siglo XX debido a la competencia de la radio, el cine y la televisión. A finales de la década de 1930, muchas salas de bangsawan se convirtieron en cines, y tras la guerra la industria perdió su fuente de financiación."
 
 lang: "es"
+sourceContentHash: "9acb0bf06bc5782c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

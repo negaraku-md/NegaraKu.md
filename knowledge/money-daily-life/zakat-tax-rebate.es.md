@@ -31,12 +31,13 @@ faq:
     a: "Para las empresas, el zakat empresarial se trata como una deducción en virtud de la Sección 44(11A) y tiene un tope de una cuarentava parte (2.5%) de la renta agregada, no una deducción de cuota ringgit por ringgit como ocurre con los individuos."
 
 lang: "es"
+sourceContentHash: "850b3fce0e9aa149"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

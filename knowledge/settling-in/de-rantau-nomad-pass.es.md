@@ -31,10 +31,11 @@ faq:
     a: "Sí. Un cónyuge o pareja de hecho, los hijos menores de 18 años, un hijo con discapacidad y los padres del titular principal pueden solicitarlo como dependientes, pero un cónyuge no puede trabajar bajo el pase."
 
 lang: "es"
+sourceContentHash: "f5c5f5f455206b06"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

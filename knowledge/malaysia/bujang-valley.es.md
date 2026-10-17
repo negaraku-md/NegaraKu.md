@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "Cualquiera que desee comprender los orígenes de la civilización temprana en las tierras malayas antes de que existieran los sultanatos malayos, o que esté planeando una visita a los yacimientos arqueológicos y al museo de Kedah."
 
 lang: "es"
+sourceContentHash: "e95214b94dacf363"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

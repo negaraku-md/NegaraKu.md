@@ -29,10 +29,11 @@ faq:
     a: "No menos de siete años desde el cierre del ejercicio financiero al que se refieren las transacciones (artículo 69(2))."
 
 lang: "es"
+sourceContentHash: "6c21f7bda1b829f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

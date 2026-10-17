@@ -29,11 +29,12 @@ faq:
     a: "El Día de Malasia se convirtió en día festivo federal en todo el país solo décadas después de que se formara la federación. Antes de eso, el 16 de septiembre era festivo únicamente en ciertos territorios y no se observaba de manera uniforme a nivel nacional, aunque había sido la fecha de formación de la federación desde 1963."
 
 lang: "es"
+sourceContentHash: "25064de19f113798"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

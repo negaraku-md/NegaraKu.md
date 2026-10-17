@@ -30,12 +30,13 @@ faq:
     a: "En 101–200 (Insalubre), los grupos sensibles — personas mayores, mujeres embarazadas, niños y personas con complicaciones cardíacas o pulmonares — deben limitar la actividad al aire libre. Por encima de 300 (Peligrosa), a las personas mayores y de alto riesgo se les prohíbe la actividad al aire libre, y se aconseja al público general evitarla."
 
 lang: "es"
+sourceContentHash: "fc387c28a9eb09b2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

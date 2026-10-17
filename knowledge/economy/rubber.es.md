@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Cualquiera que necesite una imagen de orientación, con fuentes, del sector del caucho de Malasia: el cultivo de plantación, los flujos comerciales y la industria manufacturera de guantes que ahora lo domina."
 
 lang: "es"
+sourceContentHash: "0020c8d13fc47636"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

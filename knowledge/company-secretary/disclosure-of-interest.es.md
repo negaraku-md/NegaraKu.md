@@ -61,10 +61,11 @@ obligations:
     consequence: "Offence — imprisonment up to 5 years or fine up to RM3 million or both under s.221(12)"
 
 lang: "es"
+sourceContentHash: "9b85796eadc48e3c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

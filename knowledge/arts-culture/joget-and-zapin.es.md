@@ -20,9 +20,10 @@ keyTakeaways:
 appliesTo: "Cualquiera que desee entender las diferencias de origen, música y movimiento entre el Joget y el Zapin como dos danzas folclóricas malayas distintas."
 
 lang: "es"
+sourceContentHash: "f85648fc29f5d316"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

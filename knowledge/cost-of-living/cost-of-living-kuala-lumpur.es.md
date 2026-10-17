@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que esté presupuestando una mudanza a Kuala Lumpur o al Valle de Klang, comparando ofertas de empleo entre ciudades, o intentando entender por qué la capital encabeza sistemáticamente las clasificaciones de costo de vida de Malasia."
 
 lang: "es"
+sourceContentHash: "5a6f8510ce30c077"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

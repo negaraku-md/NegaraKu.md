@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirm whether any Ministerial exemption under s.44(5D) has been granted in individual cases beyond the general YA2006 relaxation; only the general position is published"
 
 lang: "es"
+sourceContentHash: "5db600f69d4d89ad"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

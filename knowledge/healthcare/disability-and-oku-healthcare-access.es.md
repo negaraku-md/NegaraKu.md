@@ -31,10 +31,11 @@ faq:
     a: "La Ayuda para Dispositivos de Apoyo/Prótesis (BAT) del JKM cubre sillas de ruedas manuales o eléctricas, piernas y brazos protésicos, audífonos, bastones blancos y máquinas de braille, según el precio real fijado del dispositivo."
 
 lang: "es"
+sourceContentHash: "eb1c377cbf19305d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

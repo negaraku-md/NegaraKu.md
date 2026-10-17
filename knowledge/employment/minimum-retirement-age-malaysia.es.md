@@ -34,10 +34,11 @@ faq:
     a: "No. No se aplica a los funcionarios públicos, aprendices, empleados en periodo de prueba, empleados extranjeros, empleados domésticos, empleados a tiempo parcial, estudiantes temporales y ciertos empleados con contrato de duración determinada."
 
 lang: "es"
+sourceContentHash: "f2f42b17c86c3524"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -40,10 +40,11 @@ verificationNeeded:
   - "Confirm the exact current wording of the MASB private entity definition against the MASB implementation page before quoting it verbatim in any client-facing document"
 
 lang: "es"
+sourceContentHash: "fdc2c021a877fc8a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Propietarios de empresas, equipos de finanzas y consumidores que desean entender el sistema de impuestos indirectos de Malasia."
 
 lang: "es"
+sourceContentHash: "7438db08db3298e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

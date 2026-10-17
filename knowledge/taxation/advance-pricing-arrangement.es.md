@@ -64,10 +64,11 @@ obligations:
     consequence: "Cancelación del acuerdo con arreglo a la regla 18(1)(c)"
 
 lang: "es"
+sourceContentHash: "bb70ed44534a20cd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

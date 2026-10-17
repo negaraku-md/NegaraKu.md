@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Cualquier persona en Malasia — ciudadana, residente o visitante — que esté preocupada por su propia salud mental o la de otra persona y quiera saber concretamente por dónde empezar: una clínica, un hospital, un profesional privado, una ONG o una línea de ayuda."
 
 lang: "es"
+sourceContentHash: "4ecc5497514e228e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

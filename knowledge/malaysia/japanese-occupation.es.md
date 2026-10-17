@@ -19,9 +19,10 @@ keyTakeaways:
   - "La administración japonesa terminó con la rendición de 1945; el documento de rendición para esta región se firmó en el Edificio Municipal de Singapur el 12 de septiembre de 1945"
 appliesTo: "Estudiantes, docentes, investigadores y lectores generales que quieran una cronología con fuentes y un relato descriptivo del periodo 1941–1945 en Malaya y Borneo, sin caracterización ni comparación del sufrimiento."
 lang: "es"
+sourceContentHash: "8db8504e8559d165"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -35,10 +35,11 @@ faq:
     a: "No. Un negocio unipersonal o una sociedad de personas es un registro de negocio bajo la Ley de Registro de Negocios de 1956, no una entidad jurídica separada, así que «cerrarlo» es simplemente notificar a SSM que el registro ha terminado: sin liquidador, sin solicitud de baja registral, sin tasa. Una Sdn Bhd es una sociedad bajo la Ley de Sociedades de 2016 (Companies Act 2016) y solo puede abandonarse mediante una baja registral o una liquidación. Vea la guía aparte sobre cómo cerrar una sociedad."
 
 lang: "es"
+sourceContentHash: "b7ee74767d9d900f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

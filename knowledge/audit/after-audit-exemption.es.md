@@ -40,10 +40,11 @@ verificationNeeded:
   - "Confirmar el texto y el estado actuales del anuncio de LHDN sobre la subsección 77A(4) directamente con LHDN — la página del anuncio no estaba accesible en el momento de redactar esto y se cita aquí a través de las FAQ sobre exención de auditoría de SSM"
   - "Confirmar las fechas de la fase obligatoria y los puntos de entrada actuales de MBRS 2.0 en la página de MBRS de SSM"
 lang: "es"
+sourceContentHash: "10c01141306ea188"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

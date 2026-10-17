@@ -31,12 +31,13 @@ faq:
     a: "Las directrices de 2012 del Ministerio de Salud definen la interrupción del embarazo como un procedimiento con una edad gestacional inferior a 22 semanas o, cuando se desconoce la edad, cuando se estima que el feto pesa menos de 500 gramos."
 
 lang: "es"
+sourceContentHash: "58e08ea86f967964"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

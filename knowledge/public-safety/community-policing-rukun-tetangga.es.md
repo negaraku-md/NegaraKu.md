@@ -31,10 +31,11 @@ faq:
     a: "Rukun Tetangga está supervisado por el Departamento de Unidad Nacional e Integración (JPNIN), dependiente del Ministerio de Unidad Nacional. Su base jurídica es la Ley Rukun Tetangga de 2012 (Ley 751)."
 
 lang: "es"
+sourceContentHash: "79fa6f589efc75aa"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

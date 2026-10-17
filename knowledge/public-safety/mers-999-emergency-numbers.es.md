@@ -29,10 +29,11 @@ faq:
     a: "Sí. La aplicación SaveME 999 permite enviar alertas de emergencia basadas en vídeo, texto y multimedia, no solo llamadas de voz, de modo que las personas con discapacidad también pueden comunicarse con un operador del 999."
 
 lang: "es"
+sourceContentHash: "a2e869579c3095a1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

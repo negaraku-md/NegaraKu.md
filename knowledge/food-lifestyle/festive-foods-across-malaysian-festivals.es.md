@@ -33,12 +33,13 @@ faq:
     a: "No. Los vinos de arroz como el tuak, el montoku y el tumpung son bebidas tradicionales de la comunidad dayak en Sarawak y de la kadazandusun en Sabah, y son centrales en los festines de Gawai y Kaamatan según The Star. No forman parte de las mesas festivas de las comunidades que se atienen a la comida y la bebida halal, como en Hari Raya. Lo que sirve una casa abierta concreta depende de las observancias dietéticas y las tradiciones del anfitrión."
 
 lang: "es"
+sourceContentHash: "58bbad87611b5d86"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

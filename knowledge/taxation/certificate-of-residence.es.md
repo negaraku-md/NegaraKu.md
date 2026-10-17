@@ -37,10 +37,11 @@ verificationNeeded:
   - "Whether a Certificate of Residence can be issued for a year in which the residence test is only met after the application date was not addressed on the LHDN page"
 
 lang: "es"
+sourceContentHash: "11fa9fda7774dfda"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

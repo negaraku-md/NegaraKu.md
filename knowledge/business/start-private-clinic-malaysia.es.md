@@ -33,10 +33,11 @@ faq:
     a: "Operar una clínica médica o dental privada que no esté registrada bajo la Act 586 es un delito. El Ministerio de Salud ha señalado que prestar servicios de salud en locales no registrados o sin licencia puede conllevar una multa cuantiosa y posible prisión, y la acción de vigilancia puede clausurar el local. El registro no es un trámite que se pueda completar más tarde — debe estar en orden antes de atender a pacientes."
 
 lang: "es"
+sourceContentHash: "950bc0096186009c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

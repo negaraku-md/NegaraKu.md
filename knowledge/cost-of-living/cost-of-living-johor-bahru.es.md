@@ -26,10 +26,11 @@ verificationNeeded:
   - "No official rent index specific to Johor Bahru could be located; statements about rental pressure from Singapore-linked demand are qualitative, not backed by a published figure."
 
 lang: "es"
+sourceContentHash: "8dc6ca7c0ae8183c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

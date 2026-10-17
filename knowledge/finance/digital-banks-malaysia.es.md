@@ -30,10 +30,11 @@ faq:
     a: "GXBank fue el primero en iniciar operaciones, en 2023. AEON Bank fue el primer banco digital islámico en abrirse al público, el 26 de mayo de 2024."
 
 lang: "es"
+sourceContentHash: "e7e1910cb72bc76a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

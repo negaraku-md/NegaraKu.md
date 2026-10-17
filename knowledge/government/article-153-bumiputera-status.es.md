@@ -33,12 +33,13 @@ faq:
     a: "El Artículo 153(4), (7) y (8) establecen que el Artículo no puede privar a una persona de un cargo público, beca, derecho, privilegio, permiso o licencia del que ya disfruta o que ya posee."
 
 lang: "es"
+sourceContentHash: "90a331e05e64e807"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -31,10 +31,11 @@ verificationNeeded:
   - "The English short titles used by JAKIM and the Registrar of Societies — neither appears on the agency's own site"
 
 lang: "es"
+sourceContentHash: "de6126fff54d2ff3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

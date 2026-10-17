@@ -33,10 +33,11 @@ faq:
     a: "Como el negocio no es una entidad jurídica separada, su beneficio es su renta personal. Usted lo declara en el Formulario B y paga el impuesto a tasas individuales (progresivas), presentándolo a través del portal de e-Filing MyTax. La fecha límite legal es el 30 de junio; dado que el Formulario B de las personas físicas con ingresos de actividad económica debe presentarse electrónicamente desde el Año de Evaluación 2024, el plazo operativo es la fecha de gracia del e-Filing, el 15 de julio."
 
 lang: "es"
+sourceContentHash: "1a9f38c341cebf45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

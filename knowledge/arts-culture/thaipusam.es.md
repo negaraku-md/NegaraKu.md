@@ -35,10 +35,11 @@ faq:
     a: "Solo en los estados y territorios federales que lo publican en gaceta. Se observa como festivo en lugares como Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor y Kedah, y no está publicado en gaceta como festivo federal de ámbito nacional. Como se fija jurisdicción por jurisdicción, la lista exacta puede variar de un año a otro; consulta siempre el aviso oficial de festivos del estado correspondiente."
 
 lang: "es"
+sourceContentHash: "0b3f0235d5a676f2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

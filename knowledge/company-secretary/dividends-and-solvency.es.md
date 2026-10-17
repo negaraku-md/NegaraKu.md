@@ -49,10 +49,11 @@ obligations:
     consequence: "Responsabilidad conforme al art. 132(5) de hasta cinco años de prisión o una multa de hasta RM3 millones, o ambas, y responsabilidad personal conforme al art. 133(2)"
 
 lang: "es"
+sourceContentHash: "0f48f4bee9e4e684"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -33,10 +33,11 @@ faq:
     a: "La Confederación Malasia de Hockey (MHC) es el órgano rector nacional del hockey sobre césped y en sala, tanto masculino como femenino. Está afiliada a la Federación Asiática de Hockey (AHF) y a la FIH, y opera desde el Estadio Nacional de Hockey de Bukit Jalil, Kuala Lumpur."
 
 lang: "es"
+sourceContentHash: "e3b29244d5e5d634"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

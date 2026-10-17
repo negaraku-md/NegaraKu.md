@@ -31,10 +31,11 @@ faq:
     a: "No. La pesca está prohibida dentro de los límites del parque marino, y los visitantes no pueden recoger ninguna parte de un organismo marino —vivo o muerto— incluidos fragmentos de coral y conchas, ni tocar, pisar o dañar de otro modo el coral."
 
 lang: "es"
+sourceContentHash: "99085634b2f91e6e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

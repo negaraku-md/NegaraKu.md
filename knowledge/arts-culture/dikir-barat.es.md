@@ -18,9 +18,10 @@ keyTakeaways:
   - "La forma artística está vinculada a una tradición de dikir del sur de Tailandia que fue adaptada en Kelantan con la incorporación del pantun y el dialecto de Kelantan"
 appliesTo: "Cualquiera que quiera entender la forma escénica del Dikir Barat, los papeles del Tukang Karut y del Tok Juara, y la estructura de una compañía."
 lang: "es"
+sourceContentHash: "8d1b65f59cb7dafe"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

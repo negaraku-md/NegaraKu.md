@@ -32,10 +32,11 @@ faq:
     a: "El Artículo 2 define la conducta indebida como cualquier conducta que, de probarse, constituya una infracción disciplinaria o un delito penal. Una «infracción disciplinaria» se define por separado para abarcar las faltas de disciplina en un organismo público o privado conforme a una ley, un código de conducta, un código de ética, una circular o un contrato de trabajo, de modo que el término alcanza una amplia gama de irregularidades, desde la corrupción hasta la mala conducta en el lugar de trabajo."
 
 lang: "es"
+sourceContentHash: "b93871feeca0ccf6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

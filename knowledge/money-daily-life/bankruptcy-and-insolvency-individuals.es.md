@@ -30,12 +30,13 @@ faq:
     a: "La quiebra es un proceso judicial en virtud de la Ley de Insolvencia de 1967. El DMP de AKPK, en cambio, es un programa bajo una agencia de Bank Negara Malaysia al que se adhiere de forma opcional (no por orden judicial) para reestructurar deudas; según el BNM, los servicios de AKPK se prestan de forma gratuita. El DMP no está abierto a personas que ya han sido declaradas en quiebra."
 
 lang: "es"
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

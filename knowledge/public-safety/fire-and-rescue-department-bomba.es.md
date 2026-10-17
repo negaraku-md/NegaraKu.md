@@ -31,10 +31,11 @@ faq:
     a: "El JBPM figura como un departamento dependiente del Ministerio de Vivienda y Gobierno Local (KPKT). Las carteras ministeriales en Malasia se reorganizan de vez en cuando, así que confirme la disposición vigente en kpkt.gov.my o bomba.gov.my antes de basarse en ella en documentos oficiales."
 
 lang: "es"
+sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

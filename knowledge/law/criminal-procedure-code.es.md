@@ -31,12 +31,13 @@ faq:
     a: "Significa que la fiscalía ha presentado pruebas que, de no ser refutadas o explicadas, justificarían una condena. Si se establece un caso prima facie, se llama al acusado a presentar su defensa; si no, el acusado es absuelto."
 
 lang: "es"
+sourceContentHash: "5c000067f01e0ea2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

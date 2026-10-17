@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "Cualquiera que busque una exposición descriptiva, cláusula por cláusula, de lo que dispone el Artículo 153 y de lo que excluye, sin dirimir el debate político que lo rodea."
 
 lang: "es"
+sourceContentHash: "db5076f747cd8ba7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

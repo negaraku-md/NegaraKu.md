@@ -33,10 +33,11 @@ faq:
     a: "Se autoliquida. Usted declara las rentas de dividendos en su declaración anual (Formulario BE para un residente, Formulario M para un no residente) a partir del año de evaluación 2025, y paga el 2% junto con su impuesto final en la liquidación — no hay retención en origen. Desde el YA 2025, las empresas también deben emitir a los accionistas un comprobante de dividendos (dividend voucher) que muestre el dividendo bruto, lo cual respalda su declaración."
 
 lang: "es"
+sourceContentHash: "046defae2c8d4bbf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

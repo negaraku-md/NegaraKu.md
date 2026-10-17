@@ -30,12 +30,13 @@ faq:
     a: "Antes de la enmienda de 2024, la vía por ministerio de la ley bajo el Artículo 14(1)(b) se aplicaba cuando el padre era ciudadano; tras la decisión del Tribunal de Apelación del 5 de agosto de 2023 (el caso de Suriani Kempe & Ors contra el Gobierno de Malasia), las solicitudes del Formulario D por parte de madres ciudadanas quedaron congeladas, según consta en la guía de Family Frontiers. La Ley de enmienda aprobada en octubre de 2024 iguala los derechos de madres y padres, pero solo para los hijos nacidos después de su entrada en vigor. Para los hijos menores de 18 años nacidos antes de esa fecha, se usa la vía del Artículo 15(2) (Formulario B)."
 
 lang: "es"
+sourceContentHash: "2a31c142e3a5bd2c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

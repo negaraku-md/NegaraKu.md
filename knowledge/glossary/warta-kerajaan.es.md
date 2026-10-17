@@ -27,10 +27,11 @@ verificationNeeded:
   - "The quoted text of Article 66(5) is the Malay-language translation by the Attorney General's Chambers; verify it against the authoritative English text."
 
 lang: "es"
+sourceContentHash: "f029a1ff1ebfdbf1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

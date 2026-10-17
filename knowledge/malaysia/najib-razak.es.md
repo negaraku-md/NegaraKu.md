@@ -32,12 +32,13 @@ verificationNeeded:
   - "Exact dates and figures (premiership, GST rate, case figures, sentence) to be confirmed against the Prime Minister's Office, the courts and the Election Commission."
 
 lang: "es"
+sourceContentHash: "b57664a883ee2959"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

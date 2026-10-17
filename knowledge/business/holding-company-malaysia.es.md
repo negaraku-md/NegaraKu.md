@@ -33,10 +33,11 @@ faq:
     a: "Pueden aplicarse dos cargos. El traspaso de acciones conlleva un impuesto de timbre ad valorem del 0,3% (RM3 por cada RM1,000) sobre el mayor entre la contraprestación o el valor de mercado de las acciones. Y desde que el impuesto sobre ganancias de capital entró en vigor para las empresas en 2024, enajenar acciones no cotizadas de empresas malasias puede desencadenar el CGT — a grandes rasgos, un 10% de la ganancia neta. Puede existir una exención del impuesto de timbre para los traspasos entre empresas asociadas, así que confirme las condiciones vigentes antes de reestructurar."
 
 lang: "es"
+sourceContentHash: "f500684433842383"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

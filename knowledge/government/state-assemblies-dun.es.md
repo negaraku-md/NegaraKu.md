@@ -24,12 +24,13 @@ keyTakeaways:
 appliesTo: "Cualquier persona que necesite entender de forma descriptiva cómo se forma una Asamblea Legislativa Estatal en virtud de la Constitución, cuánto dura y cómo un proyecto de ley estatal la atraviesa para convertirse en ley."
 
 lang: "es"
+sourceContentHash: "2a25e82c7f7bc759"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

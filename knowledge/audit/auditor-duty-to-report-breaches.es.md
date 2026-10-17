@@ -30,10 +30,11 @@ faq:
     a: "Para un informe de un delito grave conforme al artículo 266(9), no. El artículo 266(10) establece que, siempre que un informe sobre un asunto al que se refiere el apartado (9) se haga de buena fe al Registrador, no se considerará contravenido ningún deber del auditor por el mero hecho de ese informe. Esta protección legal expresa se refiere específicamente a los informes conforme al apartado (9)."
 
 lang: "es"
+sourceContentHash: "9561fa4bff249209"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

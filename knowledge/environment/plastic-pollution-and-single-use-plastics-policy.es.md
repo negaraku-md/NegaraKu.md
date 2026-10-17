@@ -29,10 +29,11 @@ faq:
     a: "Entre ellas se encuentran una tasa de reciclaje del 25% para los envases de plástico en 2025, una tasa media de recogida para reciclaje (CFR) del 76% en 2030, y un contenido reciclado medio del 15% en 2030. Se fija como meta una tasa de reciclaje del 100% en 2050."
 
 lang: "es"
+sourceContentHash: "a24e4c1da4f3ae42"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

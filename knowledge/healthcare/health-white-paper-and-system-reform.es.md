@@ -32,10 +32,11 @@ faq:
     a: "El gobierno insiste en que no. Iniciativas como Rakan KKM se presentan como un modelo para retener a los especialistas en el sector público, no como una privatización, aunque algunos observadores siguen siendo cautelosos sobre sus efectos a largo plazo."
 
 lang: "es"
+sourceContentHash: "f5aff2ea91b18549"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -32,10 +32,11 @@ faq:
     a: "La naturaleza de la relación, el importe de las transacciones, el saldo pendiente y sus términos, cualquier garantía real o garantía recibida o dada, y la provisión para deudas de dudoso cobro relativa a ese saldo."
 
 lang: "es"
+sourceContentHash: "ae54f875cbc22c20"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

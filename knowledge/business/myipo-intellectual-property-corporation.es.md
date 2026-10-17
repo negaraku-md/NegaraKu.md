@@ -27,9 +27,10 @@ faq:
   - q: "¿De qué ministerio depende MyIPO?"
     a: "MyIPO es una agencia estatutaria federal que depende del Ministerio de Comercio Interno y Costo de Vida (KPDN), el ministerio responsable del comercio interno y los asuntos del consumidor en Malasia."
 lang: "es"
+sourceContentHash: "1a13bdbeb8de806f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

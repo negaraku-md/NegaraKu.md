@@ -58,10 +58,11 @@ obligations:
     consequence: "Out of time, the Director General has no power to set the decision aside"
 
 lang: "es"
+sourceContentHash: "8ee48ba95a64ad88"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

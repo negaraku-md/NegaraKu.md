@@ -30,11 +30,12 @@ faq:
     a: "Las fuentes registran que los dos procesos corrieron en paralelo, más que uno causando el otro. La independencia se negoció y se logró el 31 de agosto de 1957 mientras la Emergencia seguía vigente, y la Emergencia continuó durante casi tres años más bajo un gobierno malayo independiente."
 
 lang: "es"
+sourceContentHash: "05c196a1a00207fa"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

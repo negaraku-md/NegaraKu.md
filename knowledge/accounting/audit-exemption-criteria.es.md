@@ -36,10 +36,11 @@ faq:
     a: "La Directiva de Práctica 10/2024 específicamente no se aplica a una empresa privada que sea filial de una empresa pública, a las empresas públicas incluidas las cotizadas, a las empresas extranjeras, ni a las empresas privadas exentas que hayan optado por presentar un certificado de estatus en virtud de la sección 260 de la CA 2016."
 
 lang: "es"
+sourceContentHash: "1f9465f320d07544"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

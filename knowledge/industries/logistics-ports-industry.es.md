@@ -34,10 +34,11 @@ faq:
     a: "Malasia ocupó el 26.º puesto en el Índice de Desempeño Logístico 2023 del Banco Mundial, frente al 41.º de 2018 y segundo entre las naciones de la ASEAN después de Singapur."
 
 lang: "es"
+sourceContentHash: "5308f8757b834449"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

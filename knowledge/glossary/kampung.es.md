@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Cualquiera que intente comprender qué significa «kampung» más allá de su sentido literal, incluidos investigadores, escritores, funcionarios y recién llegados que tratan con la administración rural."
 
 lang: "es"
+sourceContentHash: "179d1d79aa799fca"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -26,10 +26,11 @@ verificationNeeded:
   - "The specific charge exemption/discount for citizens aged 60 and above — widely reported as an exemption from the RM5 specialist clinic registration charge and a 50% reduction on the Class 3 charge — could not be confirmed directly on the official moh.gov.my website (403 Forbidden when access was attempted), so those figures are deliberately not stated as confirmed fact; only the mechanism is described in general terms."
   - "Waiting-time statistics (for example, the average number of days/hours for a specialist appointment or elective surgery) are not stated, because no confirmable official KKM figures could be found at the time of writing; the reality of waiting times is described qualitatively only."
 lang: "es"
+sourceContentHash: "e787862480b6ac9a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

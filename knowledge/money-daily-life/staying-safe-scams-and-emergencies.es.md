@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que viva en Malasia o la visite y quiera saber a qué número llamar ante una emergencia genuina frente a una estafa financiera, y cómo reconocer los patrones de estafa más comunes antes de que el dinero cambie de manos."
 
 lang: "es"
+sourceContentHash: "9fc1856c9ea17a12"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

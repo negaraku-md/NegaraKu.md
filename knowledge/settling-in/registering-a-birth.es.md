@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Padres, tutores o cualquier persona responsable de registrar el nacimiento de un niño nacido en Malasia, incluidos los casos de registro tardío y de nueva solicitud de un certificado de nacimiento."
 
 lang: "es"
+sourceContentHash: "02c6a3d01833544f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

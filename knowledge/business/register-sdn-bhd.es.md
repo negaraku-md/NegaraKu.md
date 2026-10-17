@@ -37,10 +37,11 @@ faq:
     a: "El domicilio social debe estar en Malasia y ser un lugar donde se puedan notificar documentos e inspeccionar los registros (art. 46). Muchas empresas usan en su lugar la oficina de su secretario de sociedad."
 
 lang: "es"
+sourceContentHash: "0220f937a06b83b7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

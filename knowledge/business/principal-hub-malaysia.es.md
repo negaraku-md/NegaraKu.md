@@ -31,10 +31,11 @@ faq:
     a: "El GSH usa condiciones basadas en resultados en lugar de un único umbral fijo. Una empresa debe estar constituida en Malasia, realizar servicios calificados, y comprometerse con objetivos sobre el gasto operativo anual, el número de empleados a tiempo completo de alto valor, las contrataciones de alta dirección (C-suite), el uso de servicios auxiliares locales, la colaboración con instituciones educativas locales, la formación de malasios, y elementos ambientales, sociales y de gobernanza. El desempeño se revisa, y el incentivo puede recuperarse si no se cumplen las condiciones."
 
 lang: "es"
+sourceContentHash: "1d7afd9b7e62d44a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

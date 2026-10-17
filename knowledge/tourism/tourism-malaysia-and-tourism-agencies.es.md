@@ -29,10 +29,11 @@ faq:
     a: "Sí. Ambos estados tienen sus propias juntas de turismo que comercializan el estado, junto a los esfuerzos nacionales de Tourism Malaysia."
 
 lang: "es"
+sourceContentHash: "353b6077a5a0f789"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-03"

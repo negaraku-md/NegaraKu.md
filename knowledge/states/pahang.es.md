@@ -41,12 +41,13 @@ verificationNeeded:
   - "The state tourism portal states an area of 35,960 km² while the state government portal states 35,965 km²; confirm the single official figure with the Office of the State Secretary of Pahang."
 
 lang: "es"
+sourceContentHash: "da77a92f707cbcd4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -20,12 +20,13 @@ keyTakeaways:
 appliesTo: "Cualquier persona que busque una comprensión estructural y descriptiva del marco constitucional de Malasia."
 
 lang: "es"
+sourceContentHash: "3635bd9fdb569d2e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

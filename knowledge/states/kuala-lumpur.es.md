@@ -33,10 +33,11 @@ verificationNeeded:
   - "Confirm the Kuala Lumpur and Greater Kuala Lumpur population figures, and the GDP per capita ranking, against the latest DOSM releases before publication."
 
 lang: "es"
+sourceContentHash: "92f9b90511421d9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

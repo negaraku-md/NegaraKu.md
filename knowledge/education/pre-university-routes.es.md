@@ -22,11 +22,12 @@ verificationNeeded:
   - "La capacidad de admisión anual actual (número de plazas) para las cohortes de STPM, Matriculación y A-Level no se indica aquí — estas cambian en cada ciclo de admisión; confirme las cifras de la sesión actual directamente con el MPM, la División de Matriculación o el colegio concreto antes de basarse en una cifra específica."
   - "Las directrices de la MQA sobre la estructura de los programas Foundation (Garis Panduan Kurikulum Asasi) no pudieron extraerse por completo para este artículo — la regla específica de horas crédito mínimas o duración fijada por la MQA para los programas Foundation se describe aquí solo en términos generales; confirme las cifras exactas con la MQA o la institución oferente antes de citarlas."
 lang: "es"
+sourceContentHash: "d0b49a1aee8b9177"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

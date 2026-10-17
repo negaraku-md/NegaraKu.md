@@ -29,10 +29,11 @@ faq:
     a: "No. Las multas de composición por aparcamiento las emiten las autoridades locales (PBT) en virtud de órdenes de tráfico vial relativas al aparcamiento, mientras que las citaciones de tráfico por infracciones de conducción las emiten la PDRM o el JPJ."
 
 lang: "es"
+sourceContentHash: "cec9d7c50b142e19"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

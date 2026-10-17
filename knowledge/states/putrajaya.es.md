@@ -38,10 +38,11 @@ verificationNeeded:
   - "Confirm the number of precincts (20) and the area figure of 4,931 hectares against the latest official publication by Perbadanan Putrajaya — the 2017 annual report once recorded a different area figure."
 
 lang: "es"
+sourceContentHash: "7ed3eafee80e71c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

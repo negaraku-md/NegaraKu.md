@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Contribuyentes individuales, empleados, trabajadores gig, pymes y empleadores, y cualquiera que planifique en torno a los cambios de impuestos, salarios y ayudas en efectivo del Presupuesto 2027 de Malasia."
 
 lang: "es"
+sourceContentHash: "9667ec689364dcd2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 revision: 0
 reviewed: "2026-10-10"
 published: "2026-10-10"

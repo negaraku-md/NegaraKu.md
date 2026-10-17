@@ -34,10 +34,11 @@ faq:
     a: "El importe varía según el país de origen — RM250 (Indonesia, Tailandia, Camboya), RM750 (Filipinas, Sri Lanka, India) y RM1,500 (Vietnam, Laos) según el Departamento de Inmigración. La fianza puede recuperarse cuando la trabajadora regresa, sujeto a condiciones."
 
 lang: "es"
+sourceContentHash: "80b7fb78bc8f91cd"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

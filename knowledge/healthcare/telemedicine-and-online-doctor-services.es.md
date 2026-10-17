@@ -32,10 +32,11 @@ faq:
     a: "A veces. El MMC prefiere que las consultas virtuales sean de seguimiento tras una relación médico-paciente ya existente, pero permite una primera consulta en línea, sobre todo en atención primaria, si el médico documenta las razones. Se indica a los médicos que actúen con cautela al recetar a pacientes que no han examinado personalmente y que le deriven en persona cuando el medio en línea no baste para evaluarle con seguridad."
 
 lang: "es"
+sourceContentHash: "abe1f652bf3edc8b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

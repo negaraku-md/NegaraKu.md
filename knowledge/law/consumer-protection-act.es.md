@@ -30,10 +30,11 @@ faq:
     a: "El laudo es definitivo y vinculante para las partes y es ejecutable a través del Tribunal de Magistrados (Magistrate's Court). No existe un derecho ordinario de apelación; el recurso de una parte insatisfecha es solicitar al Tribunal Superior (High Court) una revisión judicial."
 
 lang: "es"
+sourceContentHash: "7e827e839a62b8bc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -34,12 +34,13 @@ faq:
     a: "La Ley de Sedición (Reforma) de 2015 (Act A1485) fue aprobada por el Parlamento y habría revisado las secciones 2, 3 y 4 —entre otras cosas, añadiendo la publicación electrónica, reformulando partes de la definición y aumentando las sanciones. En el portal Laws of Malaysia de la Cámara del Fiscal General, el texto vigente de la Act 15 todavía incorpora reformas solo hasta el 1 de enero de 2006, y la Act A1485 no lleva un calendario de entrada en vigor. El texto operativo descrito aquí es la revisión de 1969."
 
 lang: "es"
+sourceContentHash: "8c2644ad71910b60"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

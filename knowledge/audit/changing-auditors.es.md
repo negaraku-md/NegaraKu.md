@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirm whether SSM prescribes a specific form for the s.278 notice of removal and the s.282 notice of resignation, and the applicable lodgement fee, against the current ROC Table of Fees"
 
 lang: "es"
+sourceContentHash: "c932d3246ad62000"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

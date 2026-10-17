@@ -31,10 +31,11 @@ faq:
     a: "El Ministerio de Finanzas estima ahorros de alrededor de RM5 mil millones al año desde que comenzó la racionalización del diésel el 10 de junio de 2024."
 
 lang: "es"
+sourceContentHash: "fb230f3e8cc5eada"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

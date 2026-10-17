@@ -30,10 +30,11 @@ faq:
     a: "Sí. El plazo de 6 meses para la distribución (empresas privadas, s.258) y el plazo de 30 días para la presentación ante la SSM (s.259) se recalculan a partir del nuevo cierre del ejercicio financiero."
 
 lang: "es"
+sourceContentHash: "518df847514632f2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

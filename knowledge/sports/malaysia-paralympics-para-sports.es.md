@@ -32,10 +32,11 @@ faq:
     a: "Entre los más destacados están Cheah Liek Hou (bádminton SU5, oro en Tokio 2020 y París 2024), Bonnie Bunyau Gustin (halterofilia, oro en Tokio 2020 y París 2024) y Abdul Latif Romly (salto de longitud T20, oro en Río 2016 y Tokio 2020)."
 
 lang: "es"
+sourceContentHash: "1cf985c7e961d813"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

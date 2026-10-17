@@ -30,10 +30,11 @@ faq:
     a: "La APM opera en virtud de la Ley de Defensa Civil de 1951 (Ley 221), que establece sus funciones en tiempos de paz y de guerra para proteger la vida y los bienes."
 
 lang: "es"
+sourceContentHash: "1cc8bccf4a7c831a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

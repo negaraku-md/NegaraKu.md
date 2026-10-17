@@ -30,10 +30,11 @@ faq:
     a: "Sí. El Instituto de Contadores de Malasia adopta los pronunciamientos del IAASB como las Normas Malasias Aprobadas de Auditoría sin modificación, así que la ISA 320, la 450 y la 530 aplican a las auditorías estatutarias malasias."
 
 lang: "es"
+sourceContentHash: "caf6b9d895d2d9ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

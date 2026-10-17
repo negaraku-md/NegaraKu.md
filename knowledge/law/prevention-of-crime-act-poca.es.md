@@ -30,12 +30,13 @@ faq:
     a: "La Junta de Prevención del Crimen — un órgano presidido por una persona con cualificación jurídica y designado por el gobierno — y no los tribunales. La Junta actúa sobre el informe de un Oficial de Instrucción (Inquiry Officer) nombrado por el Ministro."
 
 lang: "es"
+sourceContentHash: "a6b06f9b9fdb4839"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

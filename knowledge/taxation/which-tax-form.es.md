@@ -36,10 +36,11 @@ verificationNeeded:
   - "Dates here are taken from the filing programme issued 30 December 2025 and updated 1 April 2026, which governs returns for year of assessment 2025. LHDN issues a new programme each year — re-read it before relying on a later cycle"
 
 lang: "es"
+sourceContentHash: "1c422a60f1ab90e9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

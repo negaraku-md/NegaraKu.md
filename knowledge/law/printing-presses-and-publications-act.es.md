@@ -29,12 +29,13 @@ faq:
     a: "La sección 7 permite al Ministro, mediante una orden publicada en el Boletín Oficial (Gazette), prohibir cualquier publicación considerada perjudicial o susceptible de ser perjudicial para el orden público, la seguridad, la moral, las relaciones con un país extranjero o el interés nacional."
 
 lang: "es"
+sourceContentHash: "614accf2d6e4feba"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

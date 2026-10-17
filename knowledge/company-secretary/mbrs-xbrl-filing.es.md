@@ -25,9 +25,10 @@ faq:
   - q: "¿La exención de la tasa por presentación tardía de 2025 retrasó mi plazo?"
     a: "No. La exención estuvo vigente del 1 de junio al 30 de septiembre de 2025 y eliminó únicamente las tasas por presentación tardía. No amplió ningún plazo legal de presentación bajo la Ley de Sociedades de 2016."
 lang: "es"
+sourceContentHash: "6cce56bdb89cd914"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

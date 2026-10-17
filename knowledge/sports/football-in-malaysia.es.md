@@ -41,10 +41,11 @@ faq:
     a: "La fecha exacta es discutida. Algunos registros sitúan la fundación del órgano rector nacional en 1926, mientras que otros se refieren a 1933, cuando la Football Association of Malaya, con sede en Singapur, asumió la gestión de la Malaya Cup. Lo que es claro y verificable es su papel actual como órgano rector nacional, miembro de la AFC y fundador de la AFF en 1984."
 
 lang: "es"
+sourceContentHash: "ee9fdc30adb8894c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

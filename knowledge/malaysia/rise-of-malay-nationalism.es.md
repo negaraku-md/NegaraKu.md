@@ -29,12 +29,13 @@ faq:
     a: "La ola de protestas contra la Unión Malaya unió a decenas de asociaciones malayas y condujo a la fundación de la UMNO el 11 de mayo de 1946 en Johor Bahru."
 
 lang: "es"
+sourceContentHash: "d1accab37207bc8e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

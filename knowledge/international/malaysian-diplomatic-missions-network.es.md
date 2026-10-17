@@ -32,10 +32,11 @@ faq:
     a: "La mayoría de las embajadas y altas comisiones extranjeras residentes están en Kuala Lumpur y Putrajaya, y algunos países también operan consulados en ciudades como Penang, Johor Bahru, Kota Kinabalu y Kuching."
 
 lang: "es"
+sourceContentHash: "7bb552ee1b28a75c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

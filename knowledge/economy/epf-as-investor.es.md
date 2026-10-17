@@ -25,10 +25,11 @@ verificationNeeded:
   - "The RM188 billion / 9% domestic equity market-cap figure is as at end-2024 per The Edge Malaysia; re-check against EPF's own disclosure if one becomes available"
 
 lang: "es"
+sourceContentHash: "a2dbf62e9ce69abb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

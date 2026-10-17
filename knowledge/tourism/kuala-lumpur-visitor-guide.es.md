@@ -36,10 +36,11 @@ faq:
     a: "Cúbrase los hombros y las rodillas. En la entrada suele haber sarongs disponibles para pedir prestados o alquilar si su ropa es demasiado reveladora. Un calzado cómodo ayuda con la larga escalinata hasta la cueva-templo principal."
 
 lang: "es"
+sourceContentHash: "2716ca2d76a67d28"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

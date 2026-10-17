@@ -30,10 +30,11 @@ faq:
     a: "La SSM depende del Ministerio de Comercio Interior y Coste de la Vida. Las carteras ministeriales en Malasia se reorganizan periódicamente, así que confirme el ministerio del que depende actualmente en ssm.com.my antes de basarse en ello en un documento formal."
 
 lang: "es"
+sourceContentHash: "f9b7af93b7253c9c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -19,9 +19,10 @@ keyTakeaways:
   - "El linaje del Sultanato de Melaka reanudó el gobierno en Johor Lama en 1528, y esa dinastía duró hasta 1699"
 appliesTo: "Lectores que quieren comprender las razones técnicas y políticas detrás de la caída de Melaka en 1511, y qué sucedió con las instituciones y el linaje real de Melaka tras la pérdida de la ciudad."
 lang: "es"
+sourceContentHash: "b8ff8e81366e5986"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

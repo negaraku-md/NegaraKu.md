@@ -30,10 +30,11 @@ faq:
     a: "El Bank Negara Malaysia regula y supervisa a las seis DFI prescritas en virtud de la Ley de Instituciones Financieras de Desarrollo de 2002, velando por que sean financieramente sólidas y desempeñen sus funciones mandatadas con prudencia."
 
 lang: "es"
+sourceContentHash: "2cd551f54c730d34"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

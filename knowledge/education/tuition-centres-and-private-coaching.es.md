@@ -30,10 +30,11 @@ faq:
     a: "Según el MOE, operar una institución educativa privada no registrada puede acarrear una sanción de RM30,000 o 2 años de prisión, o ambas."
 
 lang: "es"
+sourceContentHash: "2879304f7041420a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

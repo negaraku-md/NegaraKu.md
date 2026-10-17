@@ -34,10 +34,11 @@ faq:
     a: "Sí. Conforme a la Trade Unions Act 1959 (section 25A), se requiere una votación secreta. Tras las modificaciones, el umbral exigido se rebajó a más de la mitad de los votos, con al menos el 60 por ciento de los miembros con derecho a voto efectivamente votando, frente a la anterior mayoría de dos tercios."
 
 lang: "es"
+sourceContentHash: "d0b1ce6e61182113"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

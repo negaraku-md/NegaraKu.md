@@ -77,10 +77,11 @@ verificationNeeded:
   - "Confirm the current particulars prescribed for the s.61 register against the Employment Regulations in force"
 
 lang: "es"
+sourceContentHash: "84b81bd01d8b6ae2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

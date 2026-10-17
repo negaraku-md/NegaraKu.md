@@ -33,10 +33,11 @@ faq:
     a: "Sí. Conforme a la sección 14, toda sociedad registrada debe, dentro de los sesenta días siguientes a su asamblea general anual (o dentro de los sesenta días siguientes al fin del año natural si no se celebra asamblea), enviar al Registro una lista actualizada de cargos directivos y del número de miembros, cualquier modificación de sus reglas, su domicilio, y sus cuentas y balance del último ejercicio. El incumplimiento de la presentación puede conllevar la cancelación del registro."
 
 lang: "es"
+sourceContentHash: "b426932dcfc299b3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

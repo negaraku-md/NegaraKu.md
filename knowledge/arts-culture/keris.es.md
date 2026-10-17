@@ -39,10 +39,11 @@ faq:
     a: "Sí, pero el número de empu cualificados está disminuyendo drásticamente, lo que dificulta la transmisión del conocimiento. La UNESCO enumera este declive como un reto clave para la sostenibilidad del keris."
 
 lang: "es"
+sourceContentHash: "f542d42d76523ab4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

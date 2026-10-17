@@ -34,10 +34,11 @@ faq:
     a: "PETRA (el Ministerio de Transición Energética y Transformación del Agua) es el ministerio que formula la política nacional de energía y agua e impulsa la transición hacia las emisiones netas cero para 2050. La Comisión de Energía es el organismo regulador legal, dependiente de PETRA, que concede licencias, fija tarifas y hace cumplir las leyes que rigen el suministro de electricidad y gas."
 
 lang: "es"
+sourceContentHash: "fc167e2fbc6949c3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

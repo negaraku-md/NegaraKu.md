@@ -27,9 +27,10 @@ faq:
   - q: "¿Dónde tiene su sede el MSN?"
     a: "En el Complejo Deportivo Nacional (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. También opera complejos de entrenamiento en varios otros estados."
 lang: "es"
+sourceContentHash: "d519f370c717d10a"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

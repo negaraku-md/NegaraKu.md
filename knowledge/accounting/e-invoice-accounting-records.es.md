@@ -42,10 +42,11 @@ verificationNeeded:
   - "Confirm the Sales Tax Act 2018 and Service Tax Act 2018 record retention periods separately before extending this analysis to SST documents"
 
 lang: "es"
+sourceContentHash: "8f59afbef6de896e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

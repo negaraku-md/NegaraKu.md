@@ -34,10 +34,11 @@ faq:
     a: "Conforme a la Section 67(1), un documento se ejecuta válidamente como deed si es debidamente ejecutado por la empresa Y entregado como deed. La Section 67(2) presume que la entrega ha ocurrido tan pronto como el deed se ejecuta válidamente, salvo que se pruebe una intención contraria."
 
 lang: "es"
+sourceContentHash: "11a3057b821bdc34"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

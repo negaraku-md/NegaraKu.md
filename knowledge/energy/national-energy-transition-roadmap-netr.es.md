@@ -38,10 +38,11 @@ faq:
     a: "La Energy Exchange Malaysia (ENEGEM), lanzada el 15 de abril de 2024 por el Ministerio de Transición Energética y Transformación del Agua, es la primera plataforma transfronteriza de Malasia para vender electricidad renovable a los países vecinos de la ASEAN. Su subasta piloto ofreció 100 MW de energía renovable a Singapur."
 
 lang: "es"
+sourceContentHash: "d6cf99b70fef6280"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -40,10 +40,11 @@ verificationNeeded:
   - "La tarifa anual de rótulos por superficie de MBSA: solo están publicadas la tasa de tramitación del anuncio y las tarifas fijas de pancartas y banderolas"
 
 lang: "es"
+sourceContentHash: "e95a20cac513aa22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -23,10 +23,11 @@ keyTakeaways:
 appliesTo: "Cualquiera que trate de entender por qué los tribunales malasios citan jurisprudencia inglesa, los estudiantes de derecho que estudian el sistema jurídico malasio, y cualquiera que investigue por qué ciertos campos (tierra, familia, derecho islámico) quedan fuera de la herencia del common law."
 
 lang: "es"
+sourceContentHash: "0e25f8448644480c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

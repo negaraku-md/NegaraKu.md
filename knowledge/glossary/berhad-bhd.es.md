@@ -32,10 +32,11 @@ faq:
     a: "Sí. Una empresa privada puede convertirse en empresa pública bajo la Companies Act 2016 — normalmente aprobando una resolución especial de los socios, cambiando su nombre para que termine en «Berhad» y presentando los documentos exigidos ante la Companies Commission of Malaysia (SSM)."
 
 lang: "es"
+sourceContentHash: "8327877494bab4c8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

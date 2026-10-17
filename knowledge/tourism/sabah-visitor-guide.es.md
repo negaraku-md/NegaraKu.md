@@ -35,12 +35,13 @@ faq:
     a: "Sipadan cierra cada noviembre para la recuperación del arrecife, así que planifica los viajes de buceo entre diciembre y octubre. En otros lugares, los meses más lluviosos del Monzón del Noreste (aproximadamente de noviembre a marzo) traen más lluvia a Borneo."
 
 lang: "es"
+sourceContentHash: "c9653441143f9da8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

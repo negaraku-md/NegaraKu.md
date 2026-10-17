@@ -29,10 +29,11 @@ faq:
     a: "El fondo de inversión estatal malasio Permodalan Nasional Berhad (PNB) es un accionista importante en las empresas de Sime Darby, y PNB fue el vendedor de la participación en UMW que adquirió Sime Darby Berhad. Los porcentajes exactos de participación cambian con el tiempo y deben verificarse con las últimas presentaciones de cada empresa ante Bursa Malaysia."
 
 lang: "es"
+sourceContentHash: "b6cfb2928f3fa4fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

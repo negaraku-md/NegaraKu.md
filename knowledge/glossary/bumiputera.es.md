@@ -34,11 +34,12 @@ seoTitle: "Bumiputera: qué significa el término y su base constitucional"
 socialTitle: "Bumiputera — un término que no se encuentra en la Constitución, pero arraigado en los artículos 153, 160 y 161A"
 
 lang: "es"
+sourceContentHash: "924aa904a876b274"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

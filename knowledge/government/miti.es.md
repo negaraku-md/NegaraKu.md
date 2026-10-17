@@ -37,10 +37,11 @@ verificationNeeded:
   - "MIDA's own history page states its 1967 incorporation under Act 397, but the point at which the authority's English name changed from 'Malaysian Industrial Development Authority' to 'Malaysian Investment Development Authority' was not confirmed at an official source and is not stated in this article"
 
 lang: "es"
+sourceContentHash: "384564550c625009"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

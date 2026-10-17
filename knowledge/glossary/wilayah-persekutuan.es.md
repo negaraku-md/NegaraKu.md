@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que intente comprender las divisiones administrativas de Malasia y por qué Kuala Lumpur no es un estado."
 
 lang: "es"
+sourceContentHash: "451b4e1d1dcd4be4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

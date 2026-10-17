@@ -20,12 +20,13 @@ keyTakeaways:
 appliesTo: "Viajeros, empresas y todo aquel que intente entender por qué «Malasia» a veces se comporta como dos administraciones que comparten un solo pasaporte y una sola bandera."
 
 lang: "es"
+sourceContentHash: "da887efa0f358f15"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

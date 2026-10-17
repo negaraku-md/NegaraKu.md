@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "Estudiantes de geografía e historia de Malasia, y cualquiera que quiera entender por qué las principales ciudades de Sarawak, Sabah y Pahang se sitúan en puntos concretos a lo largo de sus ríos."
 
 lang: "es"
+sourceContentHash: "c0dca023c22caa3e"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

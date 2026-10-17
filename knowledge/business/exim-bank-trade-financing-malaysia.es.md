@@ -29,10 +29,11 @@ faq:
     a: "Bank Negara Malaysia lo regula como Institución Financiera de Desarrollo prescrita conforme a la Ley de Instituciones Financieras de Desarrollo de 2002 (Development Financial Institutions Act 2002)."
 
 lang: "es"
+sourceContentHash: "05f6bb75d143a12e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

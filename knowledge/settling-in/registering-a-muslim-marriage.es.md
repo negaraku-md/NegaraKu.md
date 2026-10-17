@@ -32,12 +32,13 @@ faq:
     a: "El portal de servicios del Gobierno de Malasia indica que la celebración se lleva a cabo sobre la base de una carta de permiso de matrimonio válida durante 90 días."
 
 lang: "es"
+sourceContentHash: "ddd87b097dd5f44c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

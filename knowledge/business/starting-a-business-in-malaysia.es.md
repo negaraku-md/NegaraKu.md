@@ -29,9 +29,10 @@ faq:
   - q: "¿Cuándo tiene que registrarse una nueva empresa para el impuesto sobre la renta y el SST?"
     a: "Una Sdn Bhd recién constituida debe registrar un expediente de impuesto sobre la renta aparte ante la LHDN a través de e-Daftar, que emite su propio Número de Identificación Fiscal — esto no lo hace automáticamente la SSM. También debe presentar su primera estimación fiscal (CP204) dentro de los tres meses siguientes al inicio de operaciones si su primer período base es de al menos seis meses. El registro para el Impuesto sobre Ventas y Servicios (SST) pasa a ser obligatorio una vez que la facturación anual gravable supera el umbral de RM500,000."
 lang: "es"
+sourceContentHash: "187b776d2f8aa2b3"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

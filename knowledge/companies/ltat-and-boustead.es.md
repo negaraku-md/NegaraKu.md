@@ -29,12 +29,13 @@ faq:
     a: "Es un plan de reestructuración de LTAT y del grupo Boustead que fue aprobado por la junta de LTAT el 9 de agosto de 2024 y comunicado al Consejo de Ministros el 13 de diciembre de 2024, orientado a reducir las participaciones en activos estratégicos al 35% en un plazo de tres años, evitando ventas forzosas."
 
 lang: "es"
+sourceContentHash: "bc79a003d2567110"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

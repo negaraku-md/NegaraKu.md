@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera entender los tipos de ópera china tradicional de Malasia y el papel que la «ópera de agradecimiento a los dioses» (酬神戏) desempeña en las ferias de templo y las fiestas."
 
 lang: "es"
+sourceContentHash: "13b9c7f4fc9cc94d"
 masterLanguage: "zh"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

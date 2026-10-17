@@ -25,10 +25,11 @@ verificationNeeded:
   - "Details of additional/optional vaccines (for example, non-mandatory vaccines provided for a fee) could not be verified against KKM's official sources at the time of writing, and are therefore not specifically stated in this article."
 
 lang: "es"
+sourceContentHash: "e3c51524a621f167"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

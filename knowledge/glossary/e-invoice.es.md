@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Empresarios, contables y equipos financieros que se preparan para el cumplimiento del e-Invoice o lo gestionan."
 
 lang: "es"
+sourceContentHash: "12ea69b29867be13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

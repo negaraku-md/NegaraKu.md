@@ -32,10 +32,11 @@ faq:
     a: "Sí. La SC introdujo un marco de financiación participativa de capital (vigente desde el 10 de febrero de 2015) y un marco de financiación entre pares (abril de 2016), ambos operando como mercados reconocidos bajo sus normas."
 
 lang: "es"
+sourceContentHash: "e26f048f1170e63c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

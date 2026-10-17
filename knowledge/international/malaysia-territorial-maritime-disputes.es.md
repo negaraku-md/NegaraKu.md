@@ -31,12 +31,13 @@ faq:
     a: "Cinco formaciones: Swallow Reef (Terumbu Layang-Layang), Ardasier Reef (Terumbu Ubi), Erica Reef (Terumbu Siput), Investigator Shoal (Terumbu Peninjau) y Mariveles Reef (Terumbu Montanani), todas en la parte meridional del archipiélago, cerca de Sabah."
 
 lang: "es"
+sourceContentHash: "c7460cc1783b36b6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

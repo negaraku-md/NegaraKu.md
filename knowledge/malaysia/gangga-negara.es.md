@@ -17,9 +17,10 @@ keyTakeaways:
   - "Historiadores como James Low (1849) y H.G. Quaritch Wales intentaron rastrear su ubicación, pero no pudieron confirmarla"
 appliesTo: "Lectores que han oído el nombre Gangga Negara en clases de historia o en las redes sociales y quieren saber qué puede probarse realmente, frente a lo que no es más que leyenda."
 lang: "es"
+sourceContentHash: "4947488c0b12f663"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

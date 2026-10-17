@@ -24,10 +24,11 @@ appliesTo: "Propietarios de empresas, equipos de finanzas y administradores de s
 verificationNeeded: []
 
 lang: "es"
+sourceContentHash: "46533f76e2996181"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

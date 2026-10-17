@@ -34,10 +34,11 @@ faq:
     a: "No. La moneda funcional refleja las transacciones y condiciones subyacentes, por lo que solo cambia cuando esos hechos cambian — por ejemplo, un cambio genuino en la moneda que impulsa los precios de venta y los costos. No es una política contable que se elija periodo a periodo."
 
 lang: "es"
+sourceContentHash: "f9e8ad1f0c1fc778"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -34,10 +34,11 @@ faq:
     a: "El Comisionado del Patrimonio del Departamento de Patrimonio Nacional publica alimentos en la Gaceta como objetos patrimoniales en virtud del apartado 49(1) de la Ley de Patrimonio Nacional de 2005 (National Heritage Act 2005) [Act 645], mediante una Declaración anual de Objetos Patrimoniales."
 
 lang: "es"
+sourceContentHash: "bdf1c88a62d4c6ac"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

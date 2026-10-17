@@ -27,9 +27,10 @@ faq:
   - q: "¿Puede declararse Patrimonio Nacional a una persona viva?"
     a: "Sí. El artículo 67 permite al Ministro declarar Patrimonio Nacional a una persona viva, y la Orden del Patrimonio Nacional (Declaración de Persona Viva como Patrimonio Nacional) de 2012 proporciona el instrumento formal para la categoría «Warisan Orang Hidup»."
 lang: "es"
+sourceContentHash: "965829d0863e2f00"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

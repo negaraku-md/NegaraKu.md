@@ -30,12 +30,13 @@ faq:
     a: "Las actividades sujetas a licencia se dividen en cuatro categorías. Mediante una directiva de 2024, los proveedores de redes sociales y de mensajería por Internet con al menos ocho millones de usuarios en Malasia deben solicitar una licencia de clase (class licence) a la MCMC, con efecto desde el 1 de enero de 2025."
 
 lang: "es"
+sourceContentHash: "6cd84d5baa9c3ad8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -29,12 +29,13 @@ faq:
     a: "El artículo 38(6) otorga a la Conferencia de Gobernantes la facultad de destituir al Agong. Según los comentarios jurídicos, esta facultad nunca se ha utilizado a lo largo de la historia del país."
 
 lang: "es"
+sourceContentHash: "f2d2c6ec105b4198"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

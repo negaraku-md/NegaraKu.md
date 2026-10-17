@@ -35,10 +35,11 @@ faq:
     a: "El Instituto Malasio de Investigación en Seguridad Vial (MIROS), creado en 2007, se encarga de la investigación basada en la evidencia, mientras que la División de Seguridad Vial de la JPJ (antes JKJR) lidera la promoción y la concienciación. Ambos dependen del Ministerio de Transporte."
 
 lang: "es"
+sourceContentHash: "681af11f157961d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

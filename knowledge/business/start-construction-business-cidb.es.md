@@ -33,10 +33,11 @@ faq:
     a: "Es un delito penal. Conforme a la sección 29 de la Act 520, contravenir la sección 25(1) se castiga, en caso de condena, con una multa no inferior a RM10,000 y no superior a RM100,000. Por separado, conforme a la sección 30, la CIDB puede notificarle por escrito ordenándole paralizar las obras; desatender esa notificación es en sí mismo un delito que conlleva una multa de hasta RM5,000, más hasta RM1,000 por cada día que continúe el delito."
 
 lang: "es"
+sourceContentHash: "d4cd90059b767133"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

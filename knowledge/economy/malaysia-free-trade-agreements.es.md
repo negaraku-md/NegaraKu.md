@@ -32,10 +32,11 @@ faq:
     a: "Sí. Malasia y la UE reanudaron las negociaciones del TLC en enero de 2025, y Malasia concluyó un acuerdo de asociación económica con los Estados de la EFTA (Islandia, Liechtenstein, Noruega, Suiza) el 11 de abril de 2025."
 
 lang: "es"
+sourceContentHash: "7239744fcdcf2f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -29,12 +29,13 @@ faq:
     a: "La Muzakarah Especial del 3 de diciembre de 2020 dictaminó que el uso de las vacunas contra la COVID-19 es permisible y obligatorio para los grupos designados por el gobierno, a condición de que las vacunas utilizadas sean halal y puras (tayyiban)."
 
 lang: "es"
+sourceContentHash: "a63cd25d7840519b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -39,10 +39,11 @@ verificationNeeded:
   - "The length of a WRT approval's validity period — only the three-month renewal lead time is published"
 
 lang: "es"
+sourceContentHash: "01bb0853bba1972c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

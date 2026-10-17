@@ -31,10 +31,11 @@ faq:
     a: "No. El impuesto especial sobre las bebidas azucaradas se dirige a las bebidas listas para beber de la partida HS 2202 que contienen más de 5 gramos de azúcar por 100 ml, a las bebidas a base de leche que superen los 7 gramos de azúcar por 100 ml, y a los zumos de frutas o verduras de la partida HS 2009 que superen los 12 gramos de azúcar por 100 ml. El umbral difiere según la categoría."
 
 lang: "es"
+sourceContentHash: "84d4e95aaaa26789"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

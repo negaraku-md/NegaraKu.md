@@ -34,10 +34,11 @@ faq:
     a: "Sí. La Sección 4(2)(d) otorga a SUHAKAM la facultad de visitar cualquier lugar de detención, institución u otro lugar, y de formular las recomendaciones necesarias. La Sección 4(3), introducida por la enmienda de 2024, establece que tal visita no puede ser denegada por la persona responsable del lugar de que se trate, siempre que se cumplan los procedimientos prescritos."
 
 lang: "es"
+sourceContentHash: "41da53bbfb03e372"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -18,10 +18,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona en Malasia —budista o no— que quiera un relato sencillo y preciso de qué es el Día de Wesak, cuándo cae y cómo se celebra, incluidos los empleadores y trabajadores que consulten la fecha del día festivo."
 
 lang: "es"
+sourceContentHash: "87814a02e5e75f73"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

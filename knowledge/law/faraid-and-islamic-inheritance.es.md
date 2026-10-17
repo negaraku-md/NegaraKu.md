@@ -32,12 +32,13 @@ faq:
     a: "No. Los gastos de gestión funeraria, las deudas y los legados se saldan primero con cargo al patrimonio antes de distribuir el remanente conforme al faraid."
 
 lang: "es"
+sourceContentHash: "8922f0a1759aa852"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

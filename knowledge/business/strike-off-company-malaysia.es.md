@@ -57,10 +57,11 @@ obligations:
     consequence: "The striking off proceeds and the company is dissolved on Gazette publication"
 
 lang: "es"
+sourceContentHash: "503507980af8cdbc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

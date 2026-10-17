@@ -36,10 +36,11 @@ faq:
     a: "EPF garantiza un dividendo mínimo del 2.5% anual conforme a la EPF Act 1991. El dividendo real suele ser mayor — se declaró un 6.30% para 2024 y un 6.15% para 2025 (Simpanan Konvensional)."
 
 lang: "es"
+sourceContentHash: "002bda1ea2b2e8d9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

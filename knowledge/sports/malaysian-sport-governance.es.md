@@ -38,10 +38,11 @@ faq:
     a: "El Instituto Nacional de Deportes (ISN). Queda sobre una base estatutaria por la National Sports Institute Act 2011 [Act 729] y funciona para prestar servicios, asesoramiento y consultoría en ciencias del deporte y medicina deportiva, realizar investigación y asesorar al Ministro sobre los aspectos científicos del rendimiento de los atletas."
 
 lang: "es"
+sourceContentHash: "6410f4b09d840cf0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

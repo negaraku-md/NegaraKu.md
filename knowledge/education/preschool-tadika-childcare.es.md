@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Padres o tutores en Malasia que intentan entender las opciones de cuidado infantil y educación temprana para niños antes del Año 1, así como cualquiera que quiera abrir una taska o tadika y necesite conocer las autoridades pertinentes."
 
 lang: "es"
+sourceContentHash: "5be629c8e1fa0846"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

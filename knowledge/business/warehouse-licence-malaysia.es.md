@@ -33,10 +33,11 @@ faq:
     a: "Además de la licencia de local, el CCC y el certificado de incendios de BOMBA, almacenar sustancias peligrosas o de riesgo involucra al Department of Occupational Safety and Health (DOSH) —por ejemplo, el régimen de control de riesgos de accidentes industriales mayores para sustancias peligrosas a granel— y al Department of Environment (DOE) cuando intervienen residuos programados o productos químicos controlados. Si las mercancías también están sujetas a aranceles y se almacenan afianzadas, se aplican además las condiciones de la licencia de Aduanas. Delimite estas aprobaciones pronto, porque pueden determinar el edificio y la ubicación antes de que firme un contrato de arrendamiento."
 
 lang: "es"
+sourceContentHash: "25fea0864e2d1d42"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

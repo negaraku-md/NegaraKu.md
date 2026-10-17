@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que lea o cite el derecho malasio — abogados, estudiantes, empresarios e investigadores."
 
 lang: "es"
+sourceContentHash: "fcd52a1ed198449a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

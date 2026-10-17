@@ -18,9 +18,10 @@ keyTakeaways:
   - "El terreno de gran altitud de la cordillera queda bajo el nivel más estricto de las protecciones de Área Ambientalmente Sensible de Malasia, que resguardan los ecosistemas de tierras altas y de montaña frente al desarrollo"
 appliesTo: "Lectores que quieran una explicación clara y verificada de qué es la cordillera de Titiwangsa, por dónde discurre y por qué divide los ríos, el clima y el patrón de asentamiento de la Malasia peninsular en un lado de costa oeste y otro de costa este."
 lang: "es"
+sourceContentHash: "c92a68e675abc2cc"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

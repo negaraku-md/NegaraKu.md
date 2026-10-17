@@ -34,10 +34,11 @@ faq:
     a: "La pérdida de cobertura arbórea cuenta cualquier eliminación del dosel arbóreo — incluidas la cosecha de plantaciones y los daños por incendios y tormentas —, por lo que incluye pérdidas que luego vuelven a crecer. La pérdida de bosque primario cuenta solo la tala de bosque natural maduro, con biodiversidad y carbono irremplazables, y es el mejor indicador de la pérdida ecológica permanente."
 
 lang: "es"
+sourceContentHash: "0965237e8942626f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

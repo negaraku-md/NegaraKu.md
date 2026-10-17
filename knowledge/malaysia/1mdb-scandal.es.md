@@ -31,12 +31,13 @@ verificationNeeded:
   - "SENSITIVE / needs human + legal sign-off before publication (legal-proceedings). Key facts have been checked against reputable sources: the 26 Dec 2025 main-1MDB conviction and 15-year/RM11.4b sentence (CNN, Al Jazeera, PBS, Malay Mail), the 30 Dec 2025 appeal (Malay Mail), the Feb 2024 halving of the SRC sentence (CNN), the DOJ US$4.5b/US$1.1b figures (DOJ), and Jho Low's fugitive status. All convictions are under appeal and are described as such. A qualified human reviewer should still confirm current status before publishing, as it is a live matter."
 
 lang: "es"
+sourceContentHash: "ccd0acf0bc2157a5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-27
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

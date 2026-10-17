@@ -33,10 +33,11 @@ faq:
     a: "Dentro de los 30 días posteriores a la expiración del período de aceptación de la opción, el empleador debe notificar el plan al Consejo de Hacienda Interna (LHDN) (una notificación bajo la Section 83 de la Income Tax Act 1967). Cuando un empleado ejerce, el empleador reporta la retribución en especie en el formulario EA de ese empleado del año, presenta los detalles del ejercicio a su sucursal de la LHDN, y deduce el impuesto a través de la deducción mensual del impuesto (o una directiva CP38) en el mes del ejercicio."
 
 lang: "es"
+sourceContentHash: "e702999cb1629878"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

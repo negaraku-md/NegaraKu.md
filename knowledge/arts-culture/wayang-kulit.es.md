@@ -30,9 +30,10 @@ faq:
     a: "Sobre todo en festivales culturales, en programas de museos y de patrimonio, y en representaciones turísticas, más que como entretenimiento de pueblo. El Departamento Nacional de Cultura y Artes y los organismos culturales estatales son el punto de partida práctico para encontrar representaciones programadas."
 
 lang: "es"
+sourceContentHash: "d4cb6805f330e418"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -38,10 +38,11 @@ verificationNeeded:
   - "Confirm the treatment of executive directors as workmen under s.20 of the Industrial Relations Act 1967 — this turns on case law, not on the face of the statute"
 
 lang: "es"
+sourceContentHash: "aa6dbf128ae02aa9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

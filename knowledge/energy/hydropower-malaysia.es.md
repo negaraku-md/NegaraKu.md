@@ -32,10 +32,11 @@ faq:
     a: "No. La presa de Baram, que se esperaba que inundara 412 km² y desplazara a ~20,000 personas, se suspendió mediante una moratoria en 2015 y se canceló oficialmente en 2016 tras sostenidas protestas indígenas."
 
 lang: "es"
+sourceContentHash: "3900760aacdbc30f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

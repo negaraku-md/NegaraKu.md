@@ -28,9 +28,10 @@ faq:
   - q: "¿Qué tipo del impuesto sobre servicios se aplica ahora?"
     a: "El 8% desde el 1 March 2024, frente al 6% anterior, salvo para los servicios de alimentos y bebidas, aparcamiento, logística y telecomunicaciones, que se mantienen en el 6%."
 lang: "es"
+sourceContentHash: "e4e06f1218191c40"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

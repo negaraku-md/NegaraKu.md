@@ -25,10 +25,11 @@ verificationNeeded:
   - "SPIKPA's exact premium and annual coverage cap were not confirmed at an official primary source (only academic and insurance-broker secondary sources were found); this article describes the scheme's function — mandatory insurance tied to work-permit renewal, confirmed on the Immigration Department's own site — without stating an unverified premium or coverage amount."
 
 lang: "es"
+sourceContentHash: "6d48887f5e7bc5dd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

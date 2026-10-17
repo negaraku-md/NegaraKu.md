@@ -33,10 +33,11 @@ faq:
     a: "Conforme a la Act 872, el proveedor de la plataforma es responsable de inscribirte en el esquema de Autoempleo (Lindung Kendiri) y de deducir las aportaciones de tus ingresos. Sin embargo, aun así debes asegurarte de que la inscripción esté completa y pagar la diferencia si la deducción no alcanza la tasa mínima de tu plan elegido."
 
 lang: "es"
+sourceContentHash: "759ef843044df58d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

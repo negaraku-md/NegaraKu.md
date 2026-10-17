@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Cualquiera que elabore un presupuesto frente a un salario malasio, compare remuneraciones o intente situar una cifra de renta concreta en el contexto nacional."
 
 lang: "es"
+sourceContentHash: "b4e7cfa473ebf879"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

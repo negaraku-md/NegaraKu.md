@@ -34,10 +34,11 @@ faq:
     a: "Se usa en los ritos de paso de la vida, del nacimiento a la muerte, en ceremonias sagradas y rituales de sanación, y está tradicionalmente ligado a la tradición guerrera iban. Sus motivos también se tejen en los sarongs de las mujeres, los taparrabos de los hombres y las túnicas de los chamanes."
 
 lang: "es"
+sourceContentHash: "1d30a78fcc6cce68"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

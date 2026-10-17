@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirm how the NIF interacts with Reinvestment Allowance under Schedule 7A and with existing PIA approvals being extended or varied"
 
 lang: "es"
+sourceContentHash: "aa93955df38668cf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

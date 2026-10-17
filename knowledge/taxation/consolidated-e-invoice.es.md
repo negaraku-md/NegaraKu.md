@@ -42,10 +42,11 @@ verificationNeeded:
   - "Whether the casino and gaming-machine carve-out from the betting pay-out rule has an end date — LHDN states until further notice"
 
 lang: "es"
+sourceContentHash: "1b4f5e59594a8f17"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

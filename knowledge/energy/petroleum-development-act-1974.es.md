@@ -34,12 +34,13 @@ faq:
     a: "La Sección 3 coloca a Petronas bajo el control y la dirección del primer ministro, cuyas instrucciones vinculan a la corporación. La Sección 6 exige el permiso del primer ministro antes de que cualquier persona distinta de Petronas realice el procesamiento, el refinado o la fabricación de productos petroquímicos, y la Sección 7 otorga al primer ministro la facultad de dictar reglamentos."
 
 lang: "es"
+sourceContentHash: "7e742ec88e8babf9"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

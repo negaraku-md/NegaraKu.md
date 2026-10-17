@@ -32,10 +32,11 @@ verificationNeeded:
   - "Confirm how the words without lawful authority in s.12(1)(f) of the Passports Act 1966 are construed where a worker consents to employer safekeeping — no case law or AGC guidance on the point could be located"
 
 lang: "es"
+sourceContentHash: "b59bcb20c9aa24c2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

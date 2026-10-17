@@ -31,12 +31,13 @@ faq:
     a: "El Consejo Nacional de la Fatwa dictaminó la donación de órganos como harus (permisible) en su conferencia del 23-24 de junio de 1970, bajo condiciones como una emergencia que amenace la vida, la ausencia de todo elemento de compraventa y la obtención del consentimiento del donante o de sus herederos. Esta fatwa se amplió después a otros órganos y tejidos."
 
 lang: "es"
+sourceContentHash: "55867275b6260a32"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

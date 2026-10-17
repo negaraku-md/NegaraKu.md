@@ -31,10 +31,11 @@ faq:
     a: "Sivasangari Subramaniam, que alcanzó un máximo histórico de número 6 del mundo en octubre de 2025, y Ng Eain Yow, que ganó la ACE Malaysia Squash Cup de 2024 en casa."
 
 lang: "es"
+sourceContentHash: "47a1ae4a8ea8c4dc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

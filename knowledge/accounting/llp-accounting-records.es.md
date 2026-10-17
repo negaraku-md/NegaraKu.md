@@ -37,10 +37,11 @@ faq:
     a: "A más tardar 18 meses desde la fecha de registro de la LLP, conforme a la sección 68(3). Tras esa primera declaración, cada declaración anual posterior debe registrarse dentro de los 90 días desde el final del ejercicio de la LLP (sección 68(2)). El Registrador puede conceder una prórroga de plazo si se solicita y se considera apropiada (sección 68(4))."
 
 lang: "es"
+sourceContentHash: "87f70dd57604213f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

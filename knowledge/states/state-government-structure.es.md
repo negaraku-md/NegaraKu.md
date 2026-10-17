@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "Lectores que deseen comprender, en términos descriptivos, cómo se organiza el gobierno de un estado malasio — estudiantes, funcionarios públicos, periodistas y cualquiera que intente entender por qué algunos estados tienen un Menteri Besar y un Istana Negeri mientras que otros tienen un Chief Minister y un gobernador."
 
 lang: "es"
+sourceContentHash: "0eb897c5d29d626d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

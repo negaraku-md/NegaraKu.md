@@ -36,10 +36,11 @@ faq:
     a: "Indonesia es uno de los socios comerciales importantes de Malasia dentro de la ASEAN. En 2024, las exportaciones de Malasia a Indonesia se valoraron en RM54.40 mil millones, un 6.9% más (unos RM3.5 mil millones) que el año anterior, lo que representó el 12.4% de las exportaciones de Malasia a la ASEAN. Esto convierte a Indonesia en el 3.er mayor destino de exportación de Malasia dentro de la ASEAN, después de Singapur y Tailandia."
 
 lang: "es"
+sourceContentHash: "42425bd622f27615"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

@@ -28,10 +28,11 @@ faq:
     a: "Una exención de una parte de la renta imponible reduce el tipo efectivo del impuesto sobre la renta del petróleo en los campos marginales que cumplen los requisitos del 38% a alrededor del 25%."
 
 lang: "es"
+sourceContentHash: "e3d164ca38c307ff"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

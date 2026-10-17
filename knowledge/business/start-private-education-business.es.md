@@ -33,10 +33,11 @@ faq:
     a: "No. La educación superior se rige por una ley aparte. La sección 71 de la Ley de Educación de 1996 excluye a las instituciones de educación superior privadas, y estas se rigen por la Ley de Instituciones de Educación Superior Privadas de 1996 (Act 555), regulada por el Ministerio de Educación Superior (MOHE). Necesitas una Carta de Autorización para establecer, luego el registro ante el Registrador General de PHEI y un Certificado de Registro, además de la aprobación de los cursos y la acreditación de la MQA para tus programas — un régimen más pesado que un centro de refuerzo o una escuela."
 
 lang: "es"
+sourceContentHash: "d390cb119ff8a023"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

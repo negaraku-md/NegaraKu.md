@@ -34,10 +34,11 @@ faq:
     a: "Los derechos exclusivos de negociación colectiva se determinan conforme a la Ley de Relaciones Laborales de 1967. Si los trabajadores no logran llegar a un acuerdo, puede presentarse una solicitud al Director General de Relaciones Laborales, quien puede llevar a cabo una votación secreta para elegir al agente negociador."
 
 lang: "es"
+sourceContentHash: "3512cd3f05dbac9a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

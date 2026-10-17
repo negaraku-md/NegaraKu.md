@@ -30,12 +30,13 @@ faq:
     a: "En virtud de la section 81 de la Act 303, la madre es la persona con mayor derecho al hadhanah de un hijo de corta edad. Si la madre está descalificada bajo la ley islámica, el derecho pasa según el orden de prioridad prescrito, con el bienestar del niño como consideración primordial."
 
 lang: "es"
+sourceContentHash: "4f9d82016cc77fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

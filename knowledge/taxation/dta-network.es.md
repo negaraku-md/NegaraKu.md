@@ -28,10 +28,11 @@ verificationNeeded:
   - "Las tarifas son los techos generales del convenio publicados por LHDN, no tarifas artículo por artículo. Varios convenios reducen el interés a cero para pagos a un gobierno, banco central o institución aprobada; compruebe el artículo pertinente antes de aplicar la tarifa de la tabla"
 
 lang: "es"
+sourceContentHash: "2eae865a4f192515"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

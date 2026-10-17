@@ -29,10 +29,11 @@ faq:
     a: "La Capital Markets and Services Act 2007 (Act 671), que entró en vigor el 28 de septiembre de 2007, rige las actividades del mercado de capitales, los mercados y los intermediarios con licencia."
 
 lang: "es"
+sourceContentHash: "d90c41e40d0daaa1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

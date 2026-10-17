@@ -30,10 +30,11 @@ faq:
     a: "La concesión actual está en vigor para el periodo de 2021 a 2031. En julio de 2026 el gobierno confirmó que revisaría el papel de BERNAS como único importador antes de que expire la concesión."
 
 lang: "es"
+sourceContentHash: "887cca88638d8c9f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

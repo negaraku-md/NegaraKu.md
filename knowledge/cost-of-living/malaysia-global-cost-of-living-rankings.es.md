@@ -30,10 +30,11 @@ faq:
     a: "Los índices mundiales valoran una cesta de expatriado o de movilidad — bienes importados, vivienda para expatriados, escolarización internacional — y a menudo expresan los costes en dólares estadounidenses. Los propios datos de precios al consumidor de Malasia siguen una cesta de hogar doméstico, por lo que ambas medidas se mueven de forma distinta."
 
 lang: "es"
+sourceContentHash: "a05c3ce9b85bce7e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

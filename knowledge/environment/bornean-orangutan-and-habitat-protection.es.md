@@ -34,10 +34,11 @@ faq:
     a: "No necesariamente. El estudio halló que las poblaciones en bosques bien gestionados y explotados de forma sostenible como Deramakot y Segama se mantuvieron estables durante 15 años, lo que demuestra que los orangutanes pueden persistir en bosques de producción cuando se gestionan con cuidado y se mantienen conectados."
 
 lang: "es"
+sourceContentHash: "3e08558cd6bea030"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

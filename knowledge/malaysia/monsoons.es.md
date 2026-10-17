@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Cualquiera que intente entender por qué el clima y el riesgo de inundación de Malasia cambian con las estaciones — residentes de zonas costeras, viajeros, planificadores de emergencias, estudiantes de geografía y quien consulta las alertas meteorológicas de MetMalaysia."
 
 lang: "es"
+sourceContentHash: "d977d1d40dd0956b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

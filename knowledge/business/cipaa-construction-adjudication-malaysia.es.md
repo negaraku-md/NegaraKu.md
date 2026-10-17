@@ -31,10 +31,11 @@ faq:
     a: "Sí: es más que un cambio de nombre. La Act A1738 y el Reglamento de Enmienda de 2025, en vigor desde el 1 de enero de 2026, sustituyen «KLRCA» por «AIAC», endurecen el calendario de la adjudicación de modo que las prórrogas ahora requieren el consentimiento de ambas partes y del adjudicador, introducen requisitos reforzados de notificación de pago y formularios prescritos, amplían definiciones clave para reducir las disputas de competencia, y refuerzan la vía de ejecución. El marco esencial de la decisión en 45 días hábiles se mantiene, pero el procedimiento que lo rodea ha cambiado, así que utilice los formularios actuales del AIAC."
 
 lang: "es"
+sourceContentHash: "e21cf5dfaabc98af"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

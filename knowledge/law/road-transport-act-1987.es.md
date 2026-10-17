@@ -27,9 +27,10 @@ faq:
   - q: "¿Qué cambió con la reforma de 2020?"
     a: "La Ley de Transporte por Carretera (Reforma) de 2020 entró en vigor el 23 de octubre de 2020. Aumentó las sanciones y los periodos de inhabilitación para la conducción temeraria y peligrosa y la conducción bajo los efectos del alcohol (secciones 41-45A), redujo los límites de alcohol prescritos a las normas de la OMS y añadió una definición de «vehículo de micromovilidad»."
 lang: "es"
+sourceContentHash: "e438c79ab71a1dba"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

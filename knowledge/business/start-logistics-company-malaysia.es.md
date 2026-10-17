@@ -34,10 +34,11 @@ faq:
     a: "No sin más. Una Licencia de Transportista A (por cuenta ajena) exige participación mayoritariamente malasia con un componente bumiputera y un capital desembolsado mínimo, de modo que un transportista que presta servicio a terceros está efectivamente reservado a empresas mayoritariamente locales. Los grupos vinculados a capital extranjero suelen entrar mediante el estatus IILS y una licencia de aduanas/agencia de carga, o transportando sus propias mercancías con una Licencia de Transportista C. Confirme el reparto exacto de participación y el suelo de capital con la APAD y el MIDA antes de estructurar el accionariado."
 
 lang: "es"
+sourceContentHash: "20e231750b299d33"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Empleadores, equipos de RR. HH. y nóminas, y empleados del sector privado en Malasia que quieran comprender las deducciones salariales estatutarias."
 
 lang: "es"
+sourceContentHash: "9085a7b0c1f610fb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

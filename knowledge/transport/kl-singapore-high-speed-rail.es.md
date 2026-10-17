@@ -29,10 +29,11 @@ faq:
     a: "No. El RTS Link es una corta lanzadera transfronteriza entre Johor Bahru y Woodlands, con objetivo de abrir en 2026. El HSR es una línea de alta velocidad aparte, de unos 350 km, prevista entre Kuala Lumpur y Singapur."
 
 lang: "es"
+sourceContentHash: "b505d87f2fe5cea1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

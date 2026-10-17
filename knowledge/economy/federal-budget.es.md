@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Estudiantes, analistas de políticas, periodistas, funcionarios públicos y cualquier persona que necesite entender cómo se prepara, debate y aprueba el presupuesto federal."
 
 lang: "es"
+sourceContentHash: "8b64cd44c511fc05"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

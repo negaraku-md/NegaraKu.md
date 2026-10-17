@@ -33,10 +33,11 @@ faq:
     a: "El juego de gamelán original fue devuelto a Pahang en 1973 y se exhibe en el Museo de Pahang, en Pekan."
 
 lang: "es"
+sourceContentHash: "c60f9bc5987b416f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

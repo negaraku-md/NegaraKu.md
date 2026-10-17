@@ -27,10 +27,11 @@ verificationNeeded:
   - "Compound rates for specific Companies Act 2016 offences are set by SSM's compound schedule under s.588 and are not published in Practice Directive 1/2017 — no compound figure is stated on this page because none could be confirmed against an official source"
 
 lang: "es"
+sourceContentHash: "352f3b9226a227c6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

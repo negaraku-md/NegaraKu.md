@@ -29,10 +29,11 @@ faq:
     a: "Al Tribunal de Gestión de Estratos, que resuelve reclamos de hasta RM250,000 de forma más rápida y económica que los tribunales. El Comisionado de Edificios (COB) de la autoridad local hace cumplir la Ley."
 
 lang: "es"
+sourceContentHash: "788e401fa0ccd9ab"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

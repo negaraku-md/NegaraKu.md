@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que necesite identificar qué autoridad expide un determinado documento de inmigración malasio — pasaporte, visado, pase o permiso — y qué artículo explica cada proceso."
 
 lang: "es"
+sourceContentHash: "baf28f912e1a7295"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

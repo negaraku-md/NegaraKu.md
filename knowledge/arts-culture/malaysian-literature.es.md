@@ -31,10 +31,11 @@ faq:
     a: "Los galardonados reciben una Carta Nacional de Honor, RM60,000 en efectivo, una asignación editorial de hasta RM500,000 (hasta 50,000 ejemplares), tratamiento médico gratuito en sala de primera clase en los hospitales públicos y una asignación mensual de RM5,000."
 
 lang: "es"
+sourceContentHash: "c27d87b5dbf2077e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

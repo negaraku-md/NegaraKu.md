@@ -45,10 +45,11 @@ verificationNeeded:
   - "DE Rantau is a Professional Visit Pass and local employment is generally understood to be excluded, but no explicit prohibition was found in the official FAQ — do not assert one"
 
 lang: "es"
+sourceContentHash: "73a4ba4e2aea155b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

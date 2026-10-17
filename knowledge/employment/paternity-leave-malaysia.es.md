@@ -28,10 +28,11 @@ verificationNeeded:
   - "Confirm whether the twelve-month service condition tolerates a break in service, and how continuous service is computed for s.60FA"
 
 lang: "es"
+sourceContentHash: "97900bf02693ecc5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

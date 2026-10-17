@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Fundadores y directores financieros que sopesan una OPV, asesores y patrocinadores, e inversores que intentan leer lo que realmente señala una cotización en un tablero."
 
 lang: "es"
+sourceContentHash: "8a42caae2331fbbd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

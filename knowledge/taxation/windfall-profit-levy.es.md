@@ -31,10 +31,11 @@ faq:
     a: "No. Los pequeños agricultores están exentos, y la Orden de 2023 se aplica únicamente a las explotaciones de palma aceitera de no menos de 40.46 hectáreas (100 acres); las explotaciones en zonas de asentamiento colectivo también quedan excluidas."
 
 lang: "es"
+sourceContentHash: "90a5c1941df77b25"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

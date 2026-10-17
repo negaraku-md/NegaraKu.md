@@ -32,10 +32,11 @@ faq:
     a: "FGV es un agronegocio integrado que abarca plantación (palma aceitera, caucho y energía renovable), aceites y grasas, azúcar, logística y servicios de apoyo, y productos de consumo. Según sus propias cifras, aporta alrededor del 3% de la producción mundial de aceite de palma crudo."
 
 lang: "es"
+sourceContentHash: "f7515e7869f5fdd6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

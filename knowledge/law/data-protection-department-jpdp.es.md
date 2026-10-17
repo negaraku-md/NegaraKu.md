@@ -25,9 +25,10 @@ faq:
   - q: "¿Quién debe registrarse en JPDP?"
     a: "Los usuarios de datos (ahora «controladores de datos») que se encuentren dentro de las 13 clases especificadas en la Personal Data Protection (Class of Data Users) Order 2013 deben registrarse conforme a la sección 14 de la PDPA y obtener un certificado de registro válido. El registro se realiza en línea a través del portal SPDP en daftar.pdp.gov.my."
 lang: "es"
+sourceContentHash: "a86fa7aea38102ca"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

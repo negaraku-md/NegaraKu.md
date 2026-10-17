@@ -29,10 +29,11 @@ faq:
     a: "Sí, si quiere usar la función de recarga por NFC. El registro implica una verificación de identidad (KYC) para que el saldo de la tarjeta quede vinculado a su cuenta eWallet; esto también añade una capa de protección si se pierde la tarjeta, en comparación con una tarjeta no registrada cuyo saldo puede ser utilizado por quien la encuentre."
 
 lang: "es"
+sourceContentHash: "a15af3c5fd918fa5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

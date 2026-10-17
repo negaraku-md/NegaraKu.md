@@ -29,10 +29,11 @@ faq:
     a: "Un marco lanzado por el NRES el 21 de abril de 2026 para construir un mercado de carbono de alta integridad, un registro nacional de carbono y sistemas de monitoreo antes de introducir instrumentos de fijación de precios de cumplimiento."
 
 lang: "es"
+sourceContentHash: "da637e665e1a9fd4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

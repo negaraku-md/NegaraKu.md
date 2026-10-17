@@ -32,12 +32,13 @@ faq:
     a: "No del todo. El Tribunal Federal confirmó el reconocimiento por el common law del NCR en Madeli bin Salleh (2007), pero en TR Sandah (2016) un tribunal dividido limitó los derechos ejecutables a la tierra cultivada y rechazó las reclamaciones sobre el bosque comunal circundante. El alcance del NCR sigue siendo objeto de debate."
 
 lang: "es"
+sourceContentHash: "f1772b5d15bbbf86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -29,12 +29,13 @@ faq:
     a: "Según los resúmenes jurídicos, un delito de soborno se castiga con una pena de prisión de hasta 20 años y una multa no inferior a cinco veces el valor de la gratificación o RM10,000, lo que sea mayor. Estos detalles deben volver a comprobarse con el texto completo de la Ley."
 
 lang: "es"
+sourceContentHash: "602c70742033a7cb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

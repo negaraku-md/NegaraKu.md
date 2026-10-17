@@ -35,12 +35,13 @@ faq:
     a: "No. Malasia practica una política de ciudadanía única. Su fundamento constitucional está en el Artículo 23 (renuncia a la ciudadanía) y el Artículo 24 (privación de la ciudadanía cuando una persona adquiere voluntariamente la ciudadanía de otro país), y el portal MyGovernment también confirma esta política. La decisión de renunciar a la ciudadanía malasia es permanente. Consulte sus circunstancias concretas con el Departamento de Registro Nacional (JPN)."
 
 lang: "es"
+sourceContentHash: "32332ac0d26401bb"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

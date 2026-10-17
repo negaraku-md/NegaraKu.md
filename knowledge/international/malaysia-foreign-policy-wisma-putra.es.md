@@ -37,10 +37,11 @@ faq:
     a: "La ASEAN es la piedra angular o el cimiento de la política exterior de Malasia. Malasia es uno de los países fundadores de la ASEAN y da prioridad de manera sistemática a la integridad y la centralidad de la ASEAN, al tiempo que permanece activa en otros foros como las Naciones Unidas (ONU), la Organización de Cooperación Islámica (OCI) y el Movimiento de Países No Alineados (MNOAL)."
 
 lang: "es"
+sourceContentHash: "4cb0c08e4d974a16"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

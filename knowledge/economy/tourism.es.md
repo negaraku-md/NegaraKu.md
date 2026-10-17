@@ -23,10 +23,11 @@ appliesTo: "Analistas, periodistas, estudiantes, inversores y operadores que nec
 seoTitle: "Estadísticas de turismo de Malasia: llegadas frente a ingresos"
 
 lang: "es"
+sourceContentHash: "396de79b31be6ee8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

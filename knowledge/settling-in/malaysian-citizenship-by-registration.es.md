@@ -29,12 +29,13 @@ faq:
     a: "Puede, en determinadas circunstancias. El Artículo 26(2) permite al Gobierno Federal privar de su ciudadanía a una mujer registrada conforme al Artículo 15(1) si el matrimonio en el que se basó el registro se disuelve (de forma distinta a la muerte) dentro de los dos años siguientes a la fecha del matrimonio."
 
 lang: "es"
+sourceContentHash: "28365cf20f843051"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -31,9 +31,10 @@ faq:
     a: "El «lo hei» (yee sang, o 捞鱼生) es una costumbre de Año Nuevo popular en Malasia, Singapur y la región del Nanyang en general, que suele realizarse durante la cena de reunión o una reunión de Año Nuevo: todos se juntan en torno a la mesa y usan los palillos para remover al aire, bien alto y juntos, verduras y frutas en juliana, lonchas de pescado crudo e ingredientes variados, mientras pronuncian frases propicias como «que tu fortuna se eleve como el viento y el agua» y «cuanto más alto lo remuevas, más próspero serás». Goza de gran popularidad a nivel local, pero por lo general se considera una práctica desarrollada por la comunidad china de la región del Nanyang, y no una costumbre originaria de la antigua China."
 
 lang: "es"
+sourceContentHash: "d2c30470773fa9b0"
 masterLanguage: "zh"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

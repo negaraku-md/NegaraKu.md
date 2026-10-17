@@ -38,10 +38,11 @@ faq:
     a: "No. Tras la enmienda del Reglamento de 2015, nadie —incluido el abogado depositario— puede cobrar pago alguno (cuota de reserva, señal y similares) antes de que se firme el contrato de compraventa, salvo según lo prescrito por el contrato de venta (regulation 11(2))."
 
 lang: "es"
+sourceContentHash: "b9b4698e2a0c2539"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

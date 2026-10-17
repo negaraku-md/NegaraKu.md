@@ -21,11 +21,12 @@ keyTakeaways:
 appliesTo: "Cualquier persona que quiera saber, disposición por disposición, qué se necesita realmente en el Parlamento para cambiar una parte concreta de la Constitución Federal."
 
 lang: "es"
+sourceContentHash: "34255dffcbbb4b20"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -34,10 +34,11 @@ faq:
     a: "La última victoria de Malasia en el título de regu por equipos de la Copa del Rey fue en 1988. Para 2024 esa espera había alcanzado unos 36 años, cuando Malasia perdió 0-2 ante la anfitriona Tailandia en Nakhon Ratchasima."
 
 lang: "es"
+sourceContentHash: "a468b0e147901427"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -29,10 +29,11 @@ faq:
     a: "No. El Registrador no impone ningún plazo límite — el propietario legítimo puede reclamar en cualquier momento, y el pago puede hacerse desde la Cuenta Consolidada de Fideicomiso (Consolidated Trust Account) o desde la Cuenta de Ingresos (Revenue Account)."
 
 lang: "es"
+sourceContentHash: "b0fa973557593199"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

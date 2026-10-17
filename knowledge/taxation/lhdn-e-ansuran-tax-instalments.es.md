@@ -33,10 +33,11 @@ faq:
     a: "No. LHDN indica que la cancelación de una solicitud de e-Ansuran solo puede hacerse presencialmente en una oficina de LHDN (HASiL) — no puede hacerse a través del portal. La solicitud en sí es en línea y la aprobación es automática, pero modificarla o cancelarla es un asunto de sucursal."
 
 lang: "es"
+sourceContentHash: "f73e04ba5e0d7818"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

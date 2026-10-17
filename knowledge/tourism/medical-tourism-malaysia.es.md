@@ -34,12 +34,13 @@ faq:
     a: "La atención cardíaca, la oncología, la fertilidad/FIV, la ortopedia y los chequeos médicos integrales están entre las especialidades más solicitadas por los pacientes extranjeros; las cuatro primeras son los centros de excelencia designados por el MHTC."
 
 lang: "es"
+sourceContentHash: "038cf5af7095fe8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

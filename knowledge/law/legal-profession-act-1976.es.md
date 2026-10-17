@@ -34,10 +34,11 @@ faq:
     a: "Sí. Una denuncia por escrito puede remitirse a la Junta Disciplinaria conforme a la sección 99. Si la Junta considera que hay fundamento, constituirá un Tribunal de Investigación conforme a la sección 100 para investigar la denuncia."
 
 lang: "es"
+sourceContentHash: "b2af26646e05de04"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -34,10 +34,11 @@ faq:
     a: "El sindicato presenta una solicitud de reconocimiento al empleador. El empleador debe, dentro de los 21 días que fija la section 9(3), bien reconocer al sindicato, bien notificarle por escrito los motivos de la negativa. Si se niega, el asunto se remite al DGIR, que puede celebrar una votación secreta y verificar la competencia del sindicato a través del Director General de Sindicatos."
 
 lang: "es"
+sourceContentHash: "3e83f3a36eb3fa8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

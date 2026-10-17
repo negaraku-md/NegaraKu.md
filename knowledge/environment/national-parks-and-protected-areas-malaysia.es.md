@@ -34,10 +34,11 @@ faq:
     a: "El artículo 10 de la Ley de Parques Nacionales de 1980 prohíbe la minería y la prospección dentro de un parque nacional, a menos que la Autoridad Estatal, tras consultar al Ministro, determine que existe un yacimiento mineral tan excepcionalmente rico."
 
 lang: "es"
+sourceContentHash: "1f3622365daf3410"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

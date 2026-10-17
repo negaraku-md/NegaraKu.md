@@ -47,10 +47,11 @@ verificationNeeded:
   - "Any DFTZ throughput or trade-value statistic after 2020. None exists from an official source, and after MAHB's delisting on 25 February 2025 none can be obtained — this is structurally unobtainable, not merely unfound."
 
 lang: "es"
+sourceContentHash: "b20fb73bf5494f07"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

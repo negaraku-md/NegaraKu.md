@@ -32,10 +32,11 @@ faq:
     a: "El Yang di-Pertuan Agong nombra al Fiscal General por consejo del Primer Ministro. El candidato debe ser una persona cualificada para ser Juez del Tribunal Federal."
 
 lang: "es"
+sourceContentHash: "8a9cf47766823c46"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

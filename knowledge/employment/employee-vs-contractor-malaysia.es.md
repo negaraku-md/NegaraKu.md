@@ -42,10 +42,11 @@ verificationNeeded:
   - "Confirm the leading Malaysian appellate authority on the control and integration tests against reported judgments"
 
 lang: "es"
+sourceContentHash: "8132a0298fe4934d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

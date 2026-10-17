@@ -40,10 +40,11 @@ verificationNeeded:
   - "Confirm the format and expiry convention of the Minister of Finance auditor approval number printed beside the partner signature — the illustrative placeholder shows a structure but MIA does not explain it"
 
 lang: "es"
+sourceContentHash: "46458a8295799022"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

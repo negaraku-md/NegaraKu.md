@@ -31,10 +31,11 @@ faq:
     a: "El propietario puede seguir siendo dueño del bien (Section 69), pero el cambio de titularidad de un Patrimonio Nacional solo puede producirse por herencia o por venta con la aprobación previa del Comisionado, y debe darse al Comisionado la primera prioridad para adquirirlo (Section 70)."
 
 lang: "es"
+sourceContentHash: "ac4e452cf7f76ecc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

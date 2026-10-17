@@ -131,10 +131,11 @@ obligations:
     consequence: "Action under s.23A(1) or a penalty under s.23A(4) of the LBATA"
 
 lang: "es"
+sourceContentHash: "5c5878a339ae1335"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

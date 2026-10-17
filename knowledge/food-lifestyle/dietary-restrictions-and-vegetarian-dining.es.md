@@ -29,12 +29,13 @@ faq:
     a: "Sí. Muchos malasios hindúes evitan la carne de vacuno, por lo que los menús sin vacuno son comunes, y la mayoría de los restaurantes vegetarianos indios no sirven carne en absoluto. Los menús chinos y malayos sí usan carne de vacuno, así que revise el plato si la evita."
 
 lang: "es"
+sourceContentHash: "b8a6bb42bf674ded"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

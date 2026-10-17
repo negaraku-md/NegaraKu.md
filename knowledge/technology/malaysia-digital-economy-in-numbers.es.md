@@ -33,10 +33,11 @@ faq:
     a: "El Departamento de Estadística de Malasia (DOSM) publica anualmente la Cuenta Satélite de las TIC (la publicación Malaysia Digital Economy), que establece la contribución de las TIC y el comercio electrónico al PIB. El DOSM también realiza el Informe de Uso y Acceso a las TIC para las cifras de penetración de hogares e individuos. Las tasas de penetración de banda ancha las publica por separado la Comisión de Comunicaciones y Multimedia de Malasia (MCMC)."
 
 lang: "es"
+sourceContentHash: "9a3a89f709e2b7ae"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

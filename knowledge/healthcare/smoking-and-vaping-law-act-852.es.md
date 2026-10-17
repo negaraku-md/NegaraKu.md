@@ -30,10 +30,11 @@ faq:
     a: "No. La Act 852 prohíbe la venta de todos los productos de tabaco y vapeo a través de plataformas en línea y máquinas expendedoras."
 
 lang: "es"
+sourceContentHash: "41eadbd4f391ff30"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

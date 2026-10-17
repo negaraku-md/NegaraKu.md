@@ -33,10 +33,11 @@ faq:
     a: "Una empresa extranjera registrada debe presentar una declaración anual dentro de los 30 días del aniversario de su registro (artículo 576) y presentar estados financieros ante la SSM (artículo 575), además de mantener actualizados los datos de su oficina registrada y de su agente."
 
 lang: "es"
+sourceContentHash: "76459d3892f48c61"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

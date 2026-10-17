@@ -28,10 +28,11 @@ faq:
     a: "No. Sepang acogió el Gran Premio de Fórmula 1 hasta 2017; el circuito ahora se centra en el MotoGP y otros eventos de deportes de motor."
 
 lang: "es"
+sourceContentHash: "e8c2bc7d28bb0f71"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

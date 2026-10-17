@@ -29,11 +29,12 @@ faq:
     a: "Ambos momentos son reales. El traspaso legal de la soberanía entró en vigor a medianoche del 31 de agosto de 1957, marcado por la ceremonia de la bandera en el padang de Kuala Lumpur. La ceremonia pública de proclamación, con el séptuple grito de «Merdeka», tuvo lugar esa misma mañana, más tarde, en el Stadium Merdeka."
 
 lang: "es"
+sourceContentHash: "9d15ea63aee3b87b"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-07-22
 revision: 0
 revisions:

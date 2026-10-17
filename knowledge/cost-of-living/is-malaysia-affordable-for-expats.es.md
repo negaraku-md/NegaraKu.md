@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Expatriados, trabajadores remotos y recién llegados que sopesan el coste de vida de Malasia frente a un salario y una referencia de gasto occidentales antes de trasladarse."
 
 lang: "es"
+sourceContentHash: "4843205b62ed2e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

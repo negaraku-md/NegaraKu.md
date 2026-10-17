@@ -31,12 +31,13 @@ faq:
     a: "El texto se organiza en quince Partes (Partes I a XV, con la Parte XIIA para Sabah y Sarawak) y trece Anexos, algunos de los cuales han sido derogados según el índice de la reimpresión oficial."
 
 lang: "es"
+sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

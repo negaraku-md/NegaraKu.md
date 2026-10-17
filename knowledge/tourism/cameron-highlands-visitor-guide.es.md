@@ -31,10 +31,11 @@ faq:
     a: "Se trata de visitas culturales guiadas a aldeas Semai, normalmente con una demostración de cerbatana y charlas sobre los modos de vida del bosque. Ve con un guía local de confianza, pide permiso antes de fotografiar a las personas y trátalo como un intercambio cultural respetuoso y no como un espectáculo."
 
 lang: "es"
+sourceContentHash: "3402603241935266"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

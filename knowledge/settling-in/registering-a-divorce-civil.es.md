@@ -35,12 +35,13 @@ faq:
     a: "La Section 106 enumera las excepciones en las que no se requiere la remisión a un órgano conciliador — por ejemplo, las peticiones bajo las Sections 51 (conversión) y 52 (consentimiento mutuo), o cuando se desconoce el paradero del cónyuge, el demandado vive en el extranjero y es improbable que entre en la jurisdicción en seis meses, ha dejado de comparecer deliberadamente, está preso por cinco años o más, se alega que padece una enfermedad mental incurable, o cuando el tribunal está convencido de que circunstancias excepcionales hacen impracticable la remisión."
 
 lang: "es"
+sourceContentHash: "608158d08520f03a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

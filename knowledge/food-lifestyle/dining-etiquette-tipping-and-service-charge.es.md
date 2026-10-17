@@ -29,10 +29,11 @@ faq:
     a: "Solo los negocios de comidas y bebidas con una facturación imponible superior a RM1,500,000 en un periodo de 12 meses deben registrarse para el impuesto sobre servicios, y los cargos por servicio los usan sobre todo los hoteles y los restaurantes de servicio completo. Los puestos ambulantes y los pequeños establecimientos suelen cobrar únicamente el precio indicado."
 
 lang: "es"
+sourceContentHash: "0474567c9b571270"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

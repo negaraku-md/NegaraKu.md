@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Estudiantes, analistas de políticas, periodistas y cualquier persona que desee comprender la continuidad de los objetivos de la política económica Bumiputera, desde la NEP hasta el plan actual."
 
 lang: "es"
+sourceContentHash: "0cfaf6ebc14f819b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

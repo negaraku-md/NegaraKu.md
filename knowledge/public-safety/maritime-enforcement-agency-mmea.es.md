@@ -29,12 +29,13 @@ faq:
     a: "Un estudio gubernamental de abril de 1999 encontró funciones solapadas, jurisdicciones solapadas y un uso poco económico de los recursos entre las agencias. La MMEA se creó para unificar la vigilancia marítima bajo una única agencia."
 
 lang: "es"
+sourceContentHash: "d5fb408e6cb3819a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -31,10 +31,11 @@ faq:
     a: "Los envíos valorados en RM500 o menos están generalmente exentos del derecho de importación y del impuesto sobre ventas en la frontera. Sin embargo, desde el 1 de enero de 2024 se aplica un impuesto sobre ventas separado del 10% sobre las Mercancías de Bajo Valor (Low Value Goods) a tales artículos vendidos en línea y enviados a Malasia, recaudado por el vendedor o el mercado (marketplace) registrado."
 
 lang: "es"
+sourceContentHash: "49578a6ca3069696"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

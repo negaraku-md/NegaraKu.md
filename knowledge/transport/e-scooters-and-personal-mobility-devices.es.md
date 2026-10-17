@@ -27,10 +27,11 @@ faq:
     a: "Una bicicleta eléctrica está exenta solo si es de tipo pedaleo asistido que cumple la Norma Malasia MS2514, no tiene acelerador, y tiene pedales que permanecen fijados de forma permanente. Una bicicleta eléctrica no aprobada equipada con acelerador se clasifica como un PMD o ciclomotor y está prohibida."
 
 lang: "es"
+sourceContentHash: "c96ca2ea918ba45a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -32,11 +32,12 @@ seoTitle: "El tamil en Malasia: hablantes, escuelas SJKT y estatus constituciona
 socialTitle: "Cómo se habla, se escolariza y se protege el tamil en Malasia"
 
 lang: "es"
+sourceContentHash: "c45b4b0470d4ef3d"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

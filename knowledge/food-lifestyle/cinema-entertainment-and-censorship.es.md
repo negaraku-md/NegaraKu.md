@@ -33,12 +33,13 @@ faq:
     a: "Poseer, distribuir o proyectar una película sin licencia o aprobación es un delito bajo la Film Censorship Act 2002, con una multa de entre RM5,000 y RM30,000 y/o prisión por un máximo de 3 años."
 
 lang: "es"
+sourceContentHash: "f25f07b35f2179e4"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

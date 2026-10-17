@@ -30,10 +30,11 @@ faq:
     a: "YTL Power está construyendo un gran parque de centros de datos en Kulai, Johor, y completó una primera instalación de IA impulsada por Nvidia cuya entrada en operación se anunció a finales de octubre de 2025."
 
 lang: "es"
+sourceContentHash: "430ec56c95aad0ac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

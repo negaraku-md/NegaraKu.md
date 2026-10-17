@@ -32,10 +32,11 @@ faq:
     a: "Solo los operadores que alquilan cinco o más habitaciones deben registrarse y recaudar el TTx. Un operador con cuatro habitaciones o menos no está obligado a registrarse."
 
 lang: "es"
+sourceContentHash: "f102342b25c63a8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

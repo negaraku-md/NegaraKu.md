@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "Cualquier persona que planee casarse en Malasia —ciudadanos malasios y nacionales extranjeros, ya sea que ambas partes sean no musulmanas, ambas musulmanas, o una de las partes se esté convirtiendo al islam para casarse con una pareja musulmana— que necesite saber bajo qué sistema legal y qué autoridad recae su matrimonio."
 
 lang: "es"
+sourceContentHash: "12e75b9b51367c03"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

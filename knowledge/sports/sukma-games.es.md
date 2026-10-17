@@ -29,10 +29,11 @@ faq:
     a: "SUKMA es la etapa estatal donde los jóvenes atletas muestran su talento. Los atletas con potencial pueden ser promovidos a los programas de desarrollo de talento y de reserva del MSN y, de ahí, al Programa Podio del ISN, que prepara a atletas de élite para los juegos internacionales."
 
 lang: "es"
+sourceContentHash: "82263beab0c4a71a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

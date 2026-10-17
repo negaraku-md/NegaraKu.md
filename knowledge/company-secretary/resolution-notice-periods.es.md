@@ -67,10 +67,11 @@ obligations:
     consequence: "La junta no queda válidamente convocada conforme a la s.309"
 
 lang: "es"
+sourceContentHash: "1da247e6653d6ad4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

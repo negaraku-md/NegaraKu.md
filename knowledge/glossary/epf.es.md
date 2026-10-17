@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Empleadores, equipos de RR. HH. y empleados que buscan comprender el marco de ahorro para la jubilación de Malasia."
 
 lang: "es"
+sourceContentHash: "c90387d901bf5d08"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

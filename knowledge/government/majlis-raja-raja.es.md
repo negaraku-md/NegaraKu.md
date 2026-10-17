@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera entender la estructura constitucional de Malasia — estudiantes, investigadores, periodistas y lectores en general — así como cualquiera que necesite saber qué disposiciones requieren el consentimiento o la consulta de la Conferencia de Gobernantes."
 
 lang: "es"
+sourceContentHash: "b582d091b8a771db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

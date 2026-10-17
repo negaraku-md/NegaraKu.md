@@ -31,10 +31,11 @@ faq:
     a: "El MITEC, el Malaysia International Trade & Exhibition Centre, que abrió en 2016 con 11 megapabellones de exposición y 52.000 m² de espacio expositivo. El CIDB registra un área de 12.530 m² sin columnas dentro del edificio."
 
 lang: "es"
+sourceContentHash: "25f7bdfa80a0bc8e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

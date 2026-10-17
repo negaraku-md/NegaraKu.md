@@ -31,10 +31,11 @@ faq:
     a: "No. El DMP no es una quiebra ni un registro judicial. Es un plan de pago negociado voluntariamente entre tú, AKPK y tus bancos acreedores."
 
 lang: "es"
+sourceContentHash: "4311ea106e7a34dc"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

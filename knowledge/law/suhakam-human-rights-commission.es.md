@@ -34,10 +34,11 @@ faq:
     a: "El artículo 2 define los derechos humanos como las libertades fundamentales consagradas en la Parte II de la Constitución Federal. El artículo 4(4) añade que se tendrá en cuenta la Declaración Universal de Derechos Humanos de 1948 en la medida en que no sea incompatible con la Constitución Federal."
 
 lang: "es"
+sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -18,9 +18,10 @@ keyTakeaways:
   - "Los Colegios Comunitarios se centran en certificados de nivel inferior con un ingreso más flexible, mientras que los Politécnicos se centran en diplomas; ambos están supervisados por el JPPKK bajo el Ministerio de Educación Superior"
 appliesTo: "Estudiantes tras el Form 3 o el SPM, padres que planifican la carrera de su hijo y trabajadores adultos que desean certificar competencias existentes a través del SKM."
 lang: "es"
+sourceContentHash: "75531562551211f2"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

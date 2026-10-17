@@ -25,10 +25,11 @@ verificationNeeded:
   - "The illustrative break-even figures in this article are arithmetic on the published band table, not an LHDN-published threshold; they move with the reliefs each couple actually claims"
 
 lang: "es"
+sourceContentHash: "9439aef0bb0b111f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -39,10 +39,11 @@ faq:
     a: "El Supply Bill es una prueba de confianza financiera en el gobierno. Como es un proyecto de ley de carácter financiero, debe originarse en el Dewan Rakyat y solo puede presentarlo un Ministro. Si el Dewan Rakyat rechaza la asignación del gobierno, eso se interpreta convencionalmente como una pérdida de la confianza mayoritaria — véanse las facultades financieras del Dewan Rakyat en virtud de los Artículos 67 y 68 de la Constitución Federal."
 
 lang: "es"
+sourceContentHash: "40747e3f92b37352"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

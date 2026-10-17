@@ -30,10 +30,11 @@ faq:
     a: "Entre los tipos registrados por el JKKN están el Ngajat Lesong (interpretado por los hombres mientras sostienen un mortero de madera con los dientes), el Ngajat Indu (interpretado por las mujeres con movimientos que imitan el tejido del pua kumbu), el Ngajat Pua Kumbu (que usa la tela pua kumbu) y el Ngajat Ngiling Tikai, que marca el final de la celebración del Gawai Dayak."
 
 lang: "es"
+sourceContentHash: "bc3c9b377ae4eddf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

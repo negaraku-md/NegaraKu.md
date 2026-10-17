@@ -29,11 +29,12 @@ faq:
     a: "Los alumnos de SJKC y SJKT pueden continuar a una escuela secundaria nacional (SMK, con el bahasa malayo como medio de instrucción) o, para algunos alumnos de SJKC, a una escuela secundaria de tipo nacional (SMJK), que también es una escuela pública/subvencionada por el Estado. La transición en el medio de instrucción de la primaria a la secundaria nacional se apoya mediante clases de transición para los alumnos que las necesitan."
 
 lang: "es"
+sourceContentHash: "2c9607178a97bd26"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

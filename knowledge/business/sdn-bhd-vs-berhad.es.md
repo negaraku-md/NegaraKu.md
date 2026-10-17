@@ -25,10 +25,11 @@ appliesTo: "Fundadores que se acercan a los cincuenta accionistas, empresas que 
 
 verificationNeeded: []
 lang: "es"
+sourceContentHash: "8917207c150f9f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

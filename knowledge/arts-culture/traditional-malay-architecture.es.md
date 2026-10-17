@@ -27,10 +27,11 @@ faq:
     a: "Una casa malaya alberga por lo general a una sola familia, mientras que una casa larga (rumah panjang) alberga a muchas familias dentro de una única estructura alargada: cada familia posee su propia habitación (bilek), compartida con una galería comunal llamada ruai."
 
 lang: "es"
+sourceContentHash: "6e6d63e898f4ad35"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -34,10 +34,11 @@ faq:
     a: "El Acceso de Terceros (TPA) permite que los transportistas cualificados, no solo PETRONAS, reserven capacidad en terminales de regasificación, gasoductos de transmisión y gasoductos de distribución en las mismas condiciones. Comenzó el 16 de enero de 2017 bajo la Ley de Suministro de Gas (Enmienda) de 2016 y está regulado por la Comisión de Energía."
 
 lang: "es"
+sourceContentHash: "20fa31d4431394c5"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

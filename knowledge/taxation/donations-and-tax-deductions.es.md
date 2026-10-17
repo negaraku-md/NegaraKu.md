@@ -26,10 +26,11 @@ verificationNeeded:
   - "Los datos exigidos de un recibo de donativo válido bajo la s.44(6) — no se pudo recuperar la página explicativa de LHDN sobre el uso de recibos."
 
 lang: "es"
+sourceContentHash: "5f0966be244cdbe2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

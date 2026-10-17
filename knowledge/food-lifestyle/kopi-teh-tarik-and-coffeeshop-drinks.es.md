@@ -29,10 +29,11 @@ faq:
     a: "El proceso de verter el té repetidamente entre dos recipientes desde cierta altura — 'tarik' — enfría la bebida, mezcla el té con la leche y produce una capa de espuma encima. Se ha convertido en un espectáculo por derecho propio, hasta el punto de que existen competiciones de teh tarik."
 
 lang: "es"
+sourceContentHash: "9bbd745541ea86db"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

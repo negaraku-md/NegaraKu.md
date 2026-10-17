@@ -30,10 +30,11 @@ faq:
     a: "Los accidentes mortales, las lesiones graves o los sucesos peligrosos deben notificarse a la oficina de DOSH más cercana por el medio más rápido, presentando el Formulario JKKP 6 dentro de los 7 días bajo NADOPOD 2004."
 
 lang: "es"
+sourceContentHash: "e58617c97047711f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -20,11 +20,12 @@ keyTakeaways:
   - "La paridad USD1=RM3.80 se mantuvo durante casi siete años y terminó el 21 de julio de 2005, cuando Bank Negara Malaysia adoptó una flotación administrada"
 appliesTo: "Lectores que desean un relato documentado y rastreable hasta sus fuentes sobre la respuesta económica de Malasia en 1998 (los controles de capital y la paridad del ringgit) y los acontecimientos políticos de ese año, presentado de manera neutral y sin avalar ninguna interpretación."
 lang: "es"
+sourceContentHash: "3f82c848946b8ea4"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

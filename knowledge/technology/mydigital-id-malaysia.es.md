@@ -36,12 +36,13 @@ faq:
     a: "La cuestión central es la protección de datos cuando el gobierno custodia los datos de los ciudadanos. El expresidente del Colegio de Abogados (Bar Council), Salim Bashir, subrayó que cualquier esfuerzo por hacer obligatorio el registro debe ser promulgado por el Parlamento mediante una ley federal y alinearse con la Ley de Protección de Datos Personales (PDPA) de 2010, y describió las violaciones de la privacidad y de la seguridad de los datos como un desafío significativo. El exdiputado de Klang, Charles Santiago, y el expresidente del Colegio de Abogados han instado al gobierno a generar primero confianza pública, en lugar de hacer el registro obligatorio por ley."
 
 lang: "es"
+sourceContentHash: "45c9a9d998caed78"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

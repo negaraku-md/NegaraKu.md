@@ -29,10 +29,11 @@ faq:
     a: "Solicite en línea a través de la plataforma MyHeart de TalentCorp mientras aún está en el extranjero, idealmente entre uno y dos meses antes de su retorno previsto. Una solicitud completa se tramita en un plazo de hasta 45 días hábiles."
 
 lang: "es"
+sourceContentHash: "f730c6823dee3d1e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

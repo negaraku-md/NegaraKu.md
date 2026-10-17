@@ -34,10 +34,11 @@ faq:
     a: "Se aplican tres cargos tanto en la compra como en la venta: la comisión del bróker (fijada por su bróker), una comisión de compensación del 0.03% del valor de la transacción con un tope de RM1,000, y un impuesto de timbre de RM1 por cada RM1,000 (o fracción) de valor, con un tope de RM1,000. El corretaje de las acciones cotizadas en Bursa Malaysia está actualmente exento del impuesto sobre servicios."
 
 lang: "es"
+sourceContentHash: "2aa2d9243406a229"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

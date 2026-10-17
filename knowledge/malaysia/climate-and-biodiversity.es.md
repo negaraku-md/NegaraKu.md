@@ -18,9 +18,10 @@ keyTakeaways:
   - "La Malasia Peninsular y Borneo (Sabah y Sarawak) están separadas por el Mar de China Meridional y albergan conjuntos de especies distintos, con Borneo conteniendo la mayor parte de los bosques pantanosos de turba y de manglar del país."
 appliesTo: "nacional"
 lang: "es"
+sourceContentHash: "9a6c3f25f0c58105"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

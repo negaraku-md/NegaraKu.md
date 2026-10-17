@@ -35,9 +35,10 @@ faq:
     a: "Son festivales distintos con un tema compartido. El Gawai Dayak es el festival dayak de la cosecha de Sarawak, celebrado el 1 y 2 de junio. El Kaamatan es el festival de la cosecha kadazandusun de Sabah, celebrado el 30 y 31 de mayo. Ambos dan gracias por la cosecha de arroz, pero las comunidades, los rituales y las fechas difieren."
 
 lang: "es"
+sourceContentHash: "5a38a61ecb8e6e5a"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

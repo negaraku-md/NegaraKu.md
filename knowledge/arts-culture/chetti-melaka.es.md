@@ -30,10 +30,11 @@ faq:
     a: "El número de la comunidad ha caído drásticamente —de unas 400 familias en los años ochenta a menos de 50 familias hoy, según el Consejo Nacional del Patrimonio de Singapur (Roots)—, mientras que un reportaje de Free Malaysia Today estima que solo quedan unas 20 a 30 familias viviendo en Kampung Chetti. Los investigadores vinculan este declive a los matrimonios mixtos, la emigración y el hecho de que las generaciones más jóvenes pierden cada vez más contacto con sus raíces chetti."
 
 lang: "es"
+sourceContentHash: "f11ad6d038f7a742"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

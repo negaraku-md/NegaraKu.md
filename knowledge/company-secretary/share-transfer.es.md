@@ -78,10 +78,11 @@ obligations:
     consequence: "Multa no superior a RM10,000 para la empresa y cada directivo infractor"
 
 lang: "es"
+sourceContentHash: "2eb4fd7f219b7fed"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

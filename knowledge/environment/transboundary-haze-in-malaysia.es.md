@@ -32,12 +32,13 @@ faq:
     a: "La causa principal son los incendios de tierras y bosques — incluidos los incendios de turberas y la roza y quema para la agricultura — en Sumatra y Kalimantan, que se vuelven más frecuentes y graves durante las estaciones secas influidas por el fenómeno de El Niño."
 
 lang: "es"
+sourceContentHash: "f6dc09ddaaf77bcf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

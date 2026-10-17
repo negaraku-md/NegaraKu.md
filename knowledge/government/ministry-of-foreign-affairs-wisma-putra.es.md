@@ -35,10 +35,11 @@ faq:
     a: "A 2026, el Ministro de Asuntos Exteriores es Dato' Seri Utama Mohamad Hasan. Las carteras del gabinete cambian con las remodelaciones, así que confirma el titular actual en kln.gov.my."
 
 lang: "es"
+sourceContentHash: "e91cf1913840a424"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -29,10 +29,11 @@ faq:
     a: "La compra debe financiarse íntegramente con cargo a los beneficios no distribuidos de la empresa, sobre una base de empresa (no de grupo) — Regla 12.10 del Capítulo 12 de los Requisitos de Cotización de Bursa. Pueden usarse préstamos como fuente de fondos siempre que la compra esté respaldada por un importe equivalente de beneficios no distribuidos (Regla 12.11)."
 
 lang: "es"
+sourceContentHash: "6bd8a430b49db96b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

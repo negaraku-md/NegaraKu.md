@@ -34,10 +34,11 @@ faq:
     a: "El incumplimiento de un laudo es un delito penal conforme al Artículo 123 — una multa que no supere los RM250,000 o pena de prisión no superior a 3 años, o ambas, con una multa adicional de hasta RM5,000 al día por delito continuado. La denuncia se presenta ante el Comisionado de Edificios (COB)."
 
 lang: "es"
+sourceContentHash: "f0b9ecff267db2f3"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

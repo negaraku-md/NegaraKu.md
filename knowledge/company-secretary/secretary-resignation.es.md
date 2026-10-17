@@ -64,10 +64,11 @@ obligations:
     consequence: "Multa no superior a RM50,000, y RM500 por día por delito continuado"
 
 lang: "es"
+sourceContentHash: "38c8dd582de83b15"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

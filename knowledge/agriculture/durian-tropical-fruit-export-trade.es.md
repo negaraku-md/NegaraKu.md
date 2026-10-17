@@ -32,10 +32,11 @@ faq:
     a: "Según una respuesta parlamentaria, Malasia exportó 115,359 toneladas de durián por valor de RM6.37 mil millones a China entre 2018 y mediados de 2025. Las exportaciones de durián entero fresco alcanzaron 773 toneladas (casi RM50 millones) solo en el primer semestre de 2025."
 
 lang: "es"
+sourceContentHash: "31afd040d92018fe"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

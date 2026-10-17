@@ -32,10 +32,11 @@ faq:
     a: "Sus principales mercados en el exterior son Australia y Taiwán para la construcción, y Vietnam, el Reino Unido, Singapur y Australia para la propiedad."
 
 lang: "es"
+sourceContentHash: "09f7639abce305e2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

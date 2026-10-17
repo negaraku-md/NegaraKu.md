@@ -32,10 +32,11 @@ faq:
     a: "Rapid Bus empezó a convertir 19 rutas de baja demanda — 16 rutas alimentadoras del MRT y 3 rutas estándar, alrededor del 7 % de la red — en un servicio de furgoneta reservable Rapid KL On-Demand."
 
 lang: "es"
+sourceContentHash: "ef9c4ac09cb054b2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

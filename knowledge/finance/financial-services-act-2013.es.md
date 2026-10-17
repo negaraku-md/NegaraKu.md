@@ -25,9 +25,10 @@ faq:
   - q: "¿Cuál es la diferencia entre la FSA 2013 y la IFSA 2013?"
     a: "La FSA (Act 758) rige las instituciones y los mercados financieros convencionales, mientras que la Ley de Servicios Financieros Islámicos de 2013 (IFSA) es su homóloga conforme a la Sharia. Ambas entraron en vigor el 30 de junio de 2013; las leyes convencionales (como la Ley de Banca e Instituciones Financieras de 1989 y la Ley de Seguros de 1996) fueron derogadas en virtud de la FSA, mientras que la Ley de Banca Islámica de 1983 (Islamic Banking Act 1983) y la Ley de Takaful de 1984 (Takaful Act 1984) fueron derogadas en virtud de la IFSA."
 lang: "es"
+sourceContentHash: "fd80ff13fe1dede7"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

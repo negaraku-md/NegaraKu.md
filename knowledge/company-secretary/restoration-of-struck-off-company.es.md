@@ -28,10 +28,11 @@ faq:
     a: "No. La restauración requiere una orden del Tribunal Superior. El Registrador (SSM) es nombrado demandado y revisa la solicitud antes de la audiencia."
 
 lang: "es"
+sourceContentHash: "abcd7eea51de63b1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

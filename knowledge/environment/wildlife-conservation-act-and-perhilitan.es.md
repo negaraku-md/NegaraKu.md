@@ -36,10 +36,11 @@ faq:
     a: "No. El artículo 2 excluye expresamente la fauna silvestre comprendida en la Lista II del Noveno Anexo de la Constitución Federal y en la Ley de Pesca de 1985 (Fisheries Act 1985), de modo que las especies marinas y la mayoría de las pesqueras se rigen por otra normativa."
 
 lang: "es"
+sourceContentHash: "657883a3e9a64208"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

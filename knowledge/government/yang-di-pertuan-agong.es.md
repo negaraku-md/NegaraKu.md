@@ -37,12 +37,13 @@ verificationNeeded:
   - "Verify the election list currently in force against the official announcement of the Keeper of the Rulers' Seal."
 
 lang: "es"
+sourceContentHash: "acdf97d3f8926008"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

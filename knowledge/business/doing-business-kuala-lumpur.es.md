@@ -41,10 +41,11 @@ verificationNeeded:
   - "Kuala Lumpur share of national GDP as a published percentage — DOSM publishes the ringgit value and the ranking but not the KL share directly"
 
 lang: "es"
+sourceContentHash: "28302eb055d03d4e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

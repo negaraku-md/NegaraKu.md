@@ -41,10 +41,11 @@ verificationNeeded:
   - "The prescribed level of productivity that unlocks the 100% exemption in the proviso to paragraph 3 of Schedule 7A is set by the Minister and computed on the RA claim form; the current prescribed threshold was not confirmed from a primary source."
 
 lang: "es"
+sourceContentHash: "8240b93cc8d8dcd0"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -30,10 +30,11 @@ faq:
     a: "Contravenir la Section 28 es un delito sancionable con una multa no superior a RM50,000 (Section 28(8)). Presentar fuera de plazo tras los 30 días también conlleva una tasa por presentación tardía."
 
 lang: "es"
+sourceContentHash: "fe0af342a9f2c24f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

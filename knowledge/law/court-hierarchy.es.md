@@ -38,10 +38,11 @@ faq:
     a: "No en primera instancia. Las reclamaciones laborales comienzan en foros creados por sus propios estatutos, no en el Tribunal de Sesiones o de Magistrados, y el Tribunal de Reclamaciones de Consumo se establece conforme al artículo 85 de la Consumer Protection Act 1999. Esas decisiones pueden llegar después al Tribunal Superior por apelación o revisión judicial, pero el punto de entrada no es un tribunal de esta jerarquía."
 
 lang: "es"
+sourceContentHash: "0ff02d452124fe9d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

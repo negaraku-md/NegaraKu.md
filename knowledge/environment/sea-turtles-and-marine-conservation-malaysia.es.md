@@ -31,10 +31,11 @@ faq:
     a: "Los parques marinos peninsulares están declarados en la Gaceta bajo la Ley de Pesca de 1985. Esta establece una zona de protección de dos millas náuticas desde la isla donde se prohíben actividades como molestar a las tortugas que anidan y recoger crías."
 
 lang: "es"
+sourceContentHash: "3ba84882f4818881"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

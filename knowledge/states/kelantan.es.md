@@ -41,12 +41,13 @@ verificationNeeded:
   - "The number of State Legislative Assembly and Parliament seats is deliberately not stated because it could not be confirmed against official SPR sources at the time this draft was prepared."
 
 lang: "es"
+sourceContentHash: "869286bde4f6fa80"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

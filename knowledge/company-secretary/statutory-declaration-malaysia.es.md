@@ -31,10 +31,11 @@ faq:
     a: "No, es un error común heredado de la antigua Companies Act 1965. Bajo la Companies Act 2016, la constitución se hace mediante una solicitud en la que cada director o promotor aporta una declaración simple (statement) (artículo 14) de que consiente actuar y no está inhabilitado. Eso es una declaración simple, no una declaración jurada."
 
 lang: "es"
+sourceContentHash: "ca496f3d42e9b712"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

@@ -36,10 +36,11 @@ faq:
     a: "Los cuatro estados sin Soberano — Penang, Malaca, Sabah y Sarawak — ejercen las funciones conferidas al «Soberano» en el Octavo Anexo a través de sus respectivos Yang di-Pertua Negeri, el Jefe de Estado según se define en el artículo 160(2)."
 
 lang: "es"
+sourceContentHash: "8431620b21e8ef56"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

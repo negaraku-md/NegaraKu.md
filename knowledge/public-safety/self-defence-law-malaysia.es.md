@@ -28,10 +28,11 @@ faq:
     a: "No. En virtud de la Sección 102, el derecho a defender el cuerpo continúa solo mientras persista una aprensión razonable de peligro. La acción que continúa después de que la amenaza ha terminado puede considerarse un contraataque, no una defensa."
 
 lang: "es"
+sourceContentHash: "7668765b92f13005"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -27,9 +27,10 @@ faq:
   - q: "¿Cuál es la diferencia entre el impuesto ad valorem y el impuesto fijo?"
     a: "El impuesto ad valorem varía según la naturaleza del instrumento y la contraprestación o el valor de mercado implicado — por ejemplo, una transferencia de propiedad o un préstamo. El impuesto fijo se cobra sin relación con el importe indicado, generalmente empezando en un nominal de RM10 por instrumento."
 lang: "es"
+sourceContentHash: "e9d01dfeb365b31f"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

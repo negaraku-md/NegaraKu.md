@@ -34,10 +34,11 @@ faq:
     a: "Sí. Existe un programa de clemencia para las empresas implicadas en conductas de cártel horizontal. Colaborar pronto puede dar lugar a inmunidad o a una reducción de la sanción de hasta el 100%, aunque es poco probable que una empresa que haya iniciado el cártel o coaccionado a otras a participar reciba la reducción total. Con las reformas de 2026, una vía de transacción (settlement) independiente también puede reducir la sanción hasta en un 40%."
 
 lang: "es"
+sourceContentHash: "f67186d884803b44"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -36,10 +36,11 @@ faq:
     a: "El artículo 55(5) dispone que un proyecto de ley que aún no se haya resuelto en el Parlamento no decae por razón de la suspensión del Parlamento. El artículo 55(7), a su vez, protege de la caducidad a un proyecto a la espera de sanción por razón de la suspensión o la disolución del Parlamento."
 
 lang: "es"
+sourceContentHash: "87bf8d58ce7f3cea"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -23,10 +23,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que intente entender qué es realmente el Departamento del Primer Ministro, por qué tantos organismos federales aparentemente inconexos dependen de él, y en qué se diferencia de un ministerio ordinario."
 
 lang: "es"
+sourceContentHash: "e406cee4d2aa12d6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

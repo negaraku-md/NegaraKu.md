@@ -23,10 +23,11 @@ appliesTo: "Individuos y hogares de ingresos bajos y medios en Malasia que quier
 verificationNeeded:
   - "The official STR 2026 FAQ (PDF at bantuantunai.hasil.gov.my/FAQ/) contains further details on eligibility conditions and payment amounts, but the embedded font in that PDF prevented automatic text extraction at the time of writing — readers are encouraged to download and check the PDF themselves, or log in to MySTR for exact personal details."
 lang: "es"
+sourceContentHash: "353147e69093acce"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

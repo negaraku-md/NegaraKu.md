@@ -33,10 +33,11 @@ faq:
     a: "Varía mucho según la etapa. Las rondas de capital riesgo en fase temprana suelen ser de unos pocos millones de ringgit; las operaciones de crecimiento y de capital privado son mucho mayores. A nivel de industria, los fondos comprometidos de VC y PE bajo gestión en Malasia se situaban en unos RM24.7 mil millones a finales de 2024 — alrededor de RM18 mil millones en capital privado y RM6.7 mil millones en capital riesgo."
 
 lang: "es"
+sourceContentHash: "fd613f83fbe57e2f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

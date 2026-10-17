@@ -34,12 +34,13 @@ faq:
     a: "Las aspiraciones (cinco metas nacionales como la unidad y una sociedad justa) son los fines que se deben alcanzar, mientras que los cinco principios son los fundamentos y guías de vida mediante los cuales se logran esas aspiraciones. Juntos forman el juramento completo del Rukun Negara."
 
 lang: "es"
+sourceContentHash: "d94eca92454b00e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -29,9 +29,10 @@ faq:
     a: "Las camisas de batik son vestimenta formal aceptada para los hombres, usadas en actos oficiales, bodas y ocasiones diplomáticas en lugar de traje y corbata. Las oficinas gubernamentales designan días para vestir batik, lo que lo mantiene en circulación rutinaria en lugar de confinarlo al uso ceremonial."
 
 lang: "es"
+sourceContentHash: "239aa5ec5e035842"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -24,12 +24,13 @@ keyTakeaways:
 appliesTo: "Lectores que necesitan una exposición neutral y textual de qué es SOSMA y qué procedimientos especiales prevé — estudiantes, investigadores y cualquiera que trace el marco de la ley de seguridad de Malasia. Es un registro descriptivo de la ley, no asesoramiento legal, y no comenta ningún caso, proceso ni debate de políticas."
 
 lang: "es"
+sourceContentHash: "23e4a7f81f4e58a1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -29,12 +29,13 @@ faq:
     a: "Las licencias madereras y los arrendamientos de plantaciones emitidos por el estado pueden abarcar áreas que las comunidades reclaman como tierra consuetudinaria. Cuando las partes discrepan sobre si un área es tierra NCR, la disputa suele resolverse en los tribunales."
 
 lang: "es"
+sourceContentHash: "73a645ecf7076b5d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

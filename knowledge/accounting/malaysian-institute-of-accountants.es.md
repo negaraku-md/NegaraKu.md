@@ -33,10 +33,11 @@ faq:
     a: "El MIA opera bajo la jurisdicción del Ministerio de Finanzas. Para la auditoría de entidades de interés público, la Junta de Supervisión de Auditoría (AOB), bajo la Comisión de Valores, ejerce una supervisión adicional."
 
 lang: "es"
+sourceContentHash: "fb67f2b0a6c79587"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

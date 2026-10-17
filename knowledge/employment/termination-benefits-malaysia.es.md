@@ -52,10 +52,11 @@ obligations:
     consequence: "Offence under reg 12(2); employee may demand the statement within 14 days under reg 12(3)"
 
 lang: "es"
+sourceContentHash: "2c74afc56ca4140f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

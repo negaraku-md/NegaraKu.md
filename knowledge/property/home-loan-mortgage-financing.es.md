@@ -35,10 +35,11 @@ faq:
     a: "El impuesto de timbre es del 0.5% del importe del préstamo bajo el Stamp Act 1949. Por ejemplo, un préstamo de RM450,000 genera un impuesto de RM2,250. El pago debe realizarse en un plazo de 30 días desde la fecha de firma del contrato."
 
 lang: "es"
+sourceContentHash: "9739f168cee000e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -30,10 +30,11 @@ faq:
     a: "Un año natural completo, del 1 de enero al 31 de diciembre. Filipinas releva a Malasia el 1 de enero de 2026."
 
 lang: "es"
+sourceContentHash: "be6127ce5cca4347"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

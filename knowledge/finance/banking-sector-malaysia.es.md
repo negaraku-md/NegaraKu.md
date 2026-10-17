@@ -34,10 +34,11 @@ faq:
     a: "No. Las instituciones financieras de desarrollo prescritas se regulan bajo la Ley de Instituciones Financieras de Desarrollo de 2002 y son supervisadas por Bank Negara Malaysia, un régimen distinto del de la FSA y la IFSA."
 
 lang: "es"
+sourceContentHash: "a9fc5401e6cabfb3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

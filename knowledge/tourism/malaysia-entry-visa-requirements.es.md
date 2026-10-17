@@ -37,13 +37,14 @@ faq:
     a: "Los viajeros de 63 países elegibles pueden usar las puertas automáticas de Malasia, siempre que hayan presentado la MDAC al menos tres días antes de viajar. Quienes las usen por primera vez pueden necesitar inscribirse en un mostrador antes de utilizar la puerta."
 
 lang: "es"
+sourceContentHash: "cdbee74bde6667f6"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "Whether a blank passport page is formally required for entry (not stated on the cited MIDA source)."
 
-status: "draft"
+status: "published"
 publishedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null

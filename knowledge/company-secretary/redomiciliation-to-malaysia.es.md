@@ -35,10 +35,11 @@ faq:
     a: "Sí. La sección 133 permite la transferencia desde Labuan con la aprobación de la Autoridad, siempre que las leyes del destino la autoricen, que los titulares de no menos de tres cuartas partes de las acciones de cada clase y de cualesquiera obligaciones de cada clase y todos los directores consientan, que el aviso de intención se publique en un periódico de Labuan al menos 30 días antes, y que se presente la declaración jurada de un director que enumere a los acreedores y declare que es improbable que la transferencia perjudique a los socios, tenedores de obligaciones o acreedores."
 
 lang: "es"
+sourceContentHash: "8ccef2426ade3a45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

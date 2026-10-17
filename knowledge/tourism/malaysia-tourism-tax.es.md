@@ -35,10 +35,11 @@ faq:
     a: "Se registran en el portal MyTTx, presentan una declaración trimestral (Formulario TTx-03) y remiten el impuesto al Departamento Real de Aduanas de Malasia a más tardar el último día del mes siguiente a cada periodo imponible."
 
 lang: "es"
+sourceContentHash: "90bb7645abb0046f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

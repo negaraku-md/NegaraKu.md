@@ -32,10 +32,11 @@ faq:
     a: "Sí. La sección 17A, introducida por la enmienda de 2018 (Act A1567) y en vigor desde el 1 de junio de 2020, hace responsable a una organización comercial cuando una persona asociada a ella da u ofrece corruptamente una gratificación para obtener o retener negocios. Por otra parte, la definición de «organismo público» (public body) de la sección 3 de la Ley alcanza a las empresas y filiales en las que un organismo público tiene poder o participación de control."
 
 lang: "es"
+sourceContentHash: "6d18558cf5584f81"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

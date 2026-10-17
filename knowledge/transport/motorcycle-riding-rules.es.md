@@ -29,10 +29,11 @@ faq:
     a: "A fecha de publicación, no hay ninguna restricción de cilindrada en vigor; las propuestas de limitar el acceso a las autopistas según la cilindrada aún no se han convertido en ley."
 
 lang: "es"
+sourceContentHash: "1c36a26778aafc7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

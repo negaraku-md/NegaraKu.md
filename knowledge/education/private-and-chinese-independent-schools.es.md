@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "Padres y estudiantes en Malasia que eligen entre escuelas nacionales, escuelas privadas de currículo nacional y escuelas chinas independientes de secundaria superior, y cualquiera que intente entender qué representa realmente una SMJK, una escuela privada o un certificado UEC."
 
 lang: "es"
+sourceContentHash: "ea334d9ab0b14453"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

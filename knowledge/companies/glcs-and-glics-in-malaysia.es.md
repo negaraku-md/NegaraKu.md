@@ -33,10 +33,11 @@ faq:
     a: "GEAR-uP (el Programa de Activación y Reforma de las Empresas Vinculadas al Gobierno) es un programa dirigido por el Ministerio de Finanzas lanzado en 2024. Alinea a las seis GLIC para liberar RM120 mil millones de inversión directa nacional en cinco años con el fin de impulsar sectores prioritarios como los semiconductores y la transición energética."
 
 lang: "es"
+sourceContentHash: "46bcda576b948208"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

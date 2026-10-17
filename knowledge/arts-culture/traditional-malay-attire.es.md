@@ -35,10 +35,11 @@ faq:
     a: "No. El baju kurung es una túnica larga y holgada que oculta la forma del cuerpo, llevada con una tela envuelta. La kebaya, en cambio, es una blusa de abertura frontal que sigue más de cerca la forma del cuerpo, abrochada con un kerongsang (broche) o botones, y combinada con un sarong. La kebaya suele ser más ceñida que el baju kurung."
 
 lang: "es"
+sourceContentHash: "f68d5254e084ffde"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

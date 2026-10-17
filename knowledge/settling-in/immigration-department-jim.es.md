@@ -27,9 +27,10 @@ faq:
   - q: "¿Cuánto cuesta el nuevo pasaporte de 10 años?"
     a: "El pasaporte de 10 años cuesta RM350 para los solicitantes de 18 a 59 años, RM175 para los mayores de 60 años y es gratuito para los titulares de tarjeta OKU (discapacidad) de 18 años en adelante, conforme a la Orden de Tasas (Pasaportes y Visados) (Enmienda) de 2026."
 lang: "es"
+sourceContentHash: "050995b2068c647c"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

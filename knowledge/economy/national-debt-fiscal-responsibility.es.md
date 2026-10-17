@@ -31,10 +31,11 @@ faq:
     a: "No directamente. Las garantías financieras son pasivos contingentes; se convierten en deuda solo si se materializan. La Act 850 limita las garantías financieras al 25% del PIB y exige una declaración anual de riesgo fiscal para revelar esta exposición."
 
 lang: "es"
+sourceContentHash: "1dc4f0df2320f2a8"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

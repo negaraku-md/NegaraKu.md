@@ -42,10 +42,11 @@ verificationNeeded:
   - "Confirm whether MIA has adopted the ISA for Less Complex Entities, which the IAASB made effective for periods beginning on or after 15 December 2025 — the Malaysian adoption decision could not be verified"
 
 lang: "es"
+sourceContentHash: "35fbbbda43a0bf04"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

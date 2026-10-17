@@ -34,10 +34,11 @@ faq:
     a: "La cobertura Act (responsabilidad civil) es el mínimo legal y paga solo las lesiones o la muerte de terceros. La de responsabilidad civil, incendio y robo añade cobertura si su propio coche se incendia o es robado. La de cobertura completa (Comprehensive) es la más amplia, y también paga los daños accidentales a su propio vehículo."
 
 lang: "es"
+sourceContentHash: "f3e95ab7db734acf"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

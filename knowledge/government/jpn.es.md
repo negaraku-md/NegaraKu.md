@@ -31,10 +31,11 @@ faq:
     a: "No del todo. El portal de JPN enumera los servicios de nacimiento y defunción por separado para Malasia Peninsular, Sabah y Sarawak, con diferentes categorías de solicitud y referencias legales. La propia Akta Pendaftaran Negara 1959 entró en vigor en una fecha distinta en cada región. Confirma el formulario según la región en la que se registre el evento."
 
 lang: "es"
+sourceContentHash: "c1ba766163b08209"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

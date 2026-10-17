@@ -56,10 +56,11 @@ obligations:
     consequence: "The election is unavailable for that year; once made it can never be reversed"
 
 lang: "es"
+sourceContentHash: "f2863a53f5f454a9"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

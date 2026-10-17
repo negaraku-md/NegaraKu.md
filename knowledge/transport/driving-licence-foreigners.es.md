@@ -23,9 +23,10 @@ verificationNeeded:
   - "This article does not quote the exact fee for a private driving school's Class D course, or the exact JPJ fee schedule for the LDL/PDL/CDL pathway, because no single official JPJ fee table was found during verification — confirm current fees directly at a JPJ counter or licensed driving school before budgeting."
   - "The precise wording of section 28 of the Road Transport Act 1987 was confirmed through secondary summaries of the Act rather than a direct line-by-line read of the JPJ-hosted PDF (avoided here to control context use) — the section number and substantive effect are corroborated across multiple independent sources, but confirm exact wording against the JPJ-hosted Act 333 PDF if drafting anything with legal reliance on it."
 lang: "es"
+sourceContentHash: "04842acf21e405cb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

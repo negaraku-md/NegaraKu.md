@@ -18,9 +18,10 @@ keyTakeaways:
   - "Se desvaneció de los registros hacia el siglo XV, absorbido por entidades sucesoras como la esfera de influencia de Ayutthaya"
 appliesTo: "Lectores curiosos por saber qué existía en la Península Malaya antes de Melaka, y qué parte de esa historia temprana está realmente establecida frente a lo que aún se debate."
 lang: "es"
+sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

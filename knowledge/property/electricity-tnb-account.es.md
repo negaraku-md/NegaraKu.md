@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que se traslade a una casa o local nuevos en Malasia y necesite abrir, transferir o cerrar una cuenta de suministro eléctrico — ya sea en Malasia Peninsular, Sabah o Sarawak."
 
 lang: "es"
+sourceContentHash: "6891503e50f70d6b"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

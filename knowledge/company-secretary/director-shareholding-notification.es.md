@@ -77,10 +77,11 @@ obligations:
     consequence: "Fine up to RM25,000 plus RM1,000 for each day the offence continues under s.219(7)"
 
 lang: "es"
+sourceContentHash: "52c12d78538cdf80"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

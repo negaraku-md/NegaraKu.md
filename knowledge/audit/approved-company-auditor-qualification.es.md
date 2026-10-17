@@ -34,10 +34,11 @@ faq:
     a: "Si la aprobación caduca y no se reactiva dentro de un año, el solicitante debe presentar una solicitud nueva y volver a presentarse a la entrevista."
 
 lang: "es"
+sourceContentHash: "e81ff5426724af5a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

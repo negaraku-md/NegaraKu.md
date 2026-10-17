@@ -33,9 +33,10 @@ faq:
     a: "Tradicionalmente, las mujeres. La UNESCO registra que el tejido del songket siempre ha estado en manos de mujeres, mientras que los hombres participan en la práctica fabricando los útiles de tejido. El saber se transmite dentro de las familias y las aldeas, y algunas instituciones ofrecen también programas de formación."
 
 lang: "es"
+sourceContentHash: "054643f8240fb22d"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

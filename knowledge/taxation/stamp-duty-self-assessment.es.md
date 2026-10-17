@@ -50,10 +50,11 @@ obligations:
     consequence: "Penalty of RM50 or 10% of the deficient duty within 3 months, RM100 or 20% thereafter, under s.47A"
 
 lang: "es"
+sourceContentHash: "5ec47f8a8774a786"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

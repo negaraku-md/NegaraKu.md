@@ -32,10 +32,11 @@ faq:
     a: "Los problemas relacionados con la electricidad están entre los más frecuentes en los incendios residenciales — instalaciones defectuosas, enchufes sobrecargados y alargadores desgastados. Dejar la cocina sin vigilancia y las fugas de gas LPG también son causas importantes."
 
 lang: "es"
+sourceContentHash: "9ccf45c843ab8ebf"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Cualquiera que busque una comprensión de nivel introductorio de la industria del aceite de palma de Malasia y su papel económico."
 
 lang: "es"
+sourceContentHash: "15826b7bb2b208ce"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

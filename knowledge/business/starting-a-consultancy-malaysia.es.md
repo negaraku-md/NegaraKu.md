@@ -31,10 +31,11 @@ faq:
     a: "El beneficio del negocio de un empresario individual tributa en manos del propietario a tipos personales progresivos, presentado en el Form B antes del 30 de junio. Una Sdn Bhd pyme residente (capital desembolsado de hasta RM2.5 millones y renta bruta del negocio de hasta RM50 millones) tributa al 15% sobre los primeros RM150,000 de renta imponible, al 17% de RM150,001 a RM600,000, y al 24% por encima de eso. El tipo preferente para pymes se pierde si más del 20% de la empresa es de propiedad extranjera."
 
 lang: "es"
+sourceContentHash: "740dc0a630c55557"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

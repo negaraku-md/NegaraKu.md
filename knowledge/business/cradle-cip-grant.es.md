@@ -33,10 +33,11 @@ faq:
     a: "No. Las subvenciones CIP son condicionales. Los fondos se liberan contra hitos acordados (mediante pagos anticipados y reembolso), y la subvención puede recuperarse si el beneficiario incumple sus condiciones o el proyecto se termina. CIP Sprint en particular está estructurado como una subvención convertible. Lea el acuerdo de subvención con atención para entender los términos de hitos, de informes y de recuperación antes de aceptar."
 
 lang: "es"
+sourceContentHash: "314f5c2c68cdde6f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

@@ -31,10 +31,11 @@ faq:
     a: "En su mayoría a vertederos. Malasia opera 135 vertederos — 114 basureros a cielo abierto y 22 vertederos sanitarios — y el depósito en vertedero sigue siendo el método de eliminación dominante del país."
 
 lang: "es"
+sourceContentHash: "1d664666863d04f5"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

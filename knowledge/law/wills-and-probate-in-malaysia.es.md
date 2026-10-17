@@ -35,10 +35,11 @@ faq:
     a: "No necesariamente. Una herencia valorada en no más de RM5 millones puede administrarse a través de la Unidad de Distribución de Herencias Pequeñas en la oficina de tierras conforme a la Small Estates (Distribution) Act 1955, por lo general sin abogado y sin tasa de presentación de la oficina de tierras. Desde que la enmienda entró en vigor el 15 de julio de 2024, una herencia ya no necesita contener bienes inmuebles para optar por esta vía."
 
 lang: "es"
+sourceContentHash: "109171c4b389867e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

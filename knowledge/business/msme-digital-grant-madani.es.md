@@ -33,10 +33,11 @@ faq:
     a: "No, no está permanentemente abierta. La subvención se financia con una asignación presupuestaria gubernamental fija y opera en rondas periódicas que se abren y se cierran, así que la disponibilidad depende del ciclo vigente y de los fondos restantes. Bajo las reglas de 2025, un negocio que ya ha recibido una subvención digital de contrapartida generalmente no puede reclamar de nuevo, salvo para soluciones de facturación electrónica. Verifique siempre si una ronda está abierta actualmente, y los términos exactos, en el portal oficial de BSN o MDEC."
 
 lang: "es"
+sourceContentHash: "1194109fce71d94d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

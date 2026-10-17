@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Cualquiera que lea los titulares del comercio malasio — exportadores, importadores, inversores y analistas."
 
 lang: "es"
+sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -26,10 +26,11 @@ verificationNeeded:
   - "Fee and transaction limit figures are taken directly from the official PayNet website as of the time of writing; PayNet states that actual fees may vary by individual bank/e-wallet"
 
 lang: "es"
+sourceContentHash: "1b31c1f5d1b3682f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

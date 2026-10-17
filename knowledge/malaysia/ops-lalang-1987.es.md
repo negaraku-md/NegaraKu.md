@@ -31,12 +31,13 @@ faq:
     a: "No. La ISA de 1960 fue derogada en 2012 y reemplazada por la Ley de Delitos de Seguridad (Medidas Especiales) de 2012 (Security Offences (Special Measures) Act 2012, SOSMA), que los grupos de derechos y el gobierno siguen debatiendo."
 
 lang: "es"
+sourceContentHash: "b64842ee4e12b6c1"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

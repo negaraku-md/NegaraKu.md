@@ -30,10 +30,11 @@ faq:
     a: "Debe presentarse una copia de los propios estados financieros de la empresa, pero el artículo 575(5) exige además un estado debidamente auditado que abarque los activos empleados en sus operaciones en Malasia y los pasivos derivados de ellas, que ofrezca una imagen fiel y veraz conforme a las normas contables aprobadas."
 
 lang: "es"
+sourceContentHash: "857f2052ec7f627d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -34,10 +34,11 @@ faq:
     a: "Sí. Durante la fase fundacional (los primeros tres a cinco años), el marco de BNM limita los activos totales de cada banco digital a no más de RM3 mil millones. Esto permite a BNM observar el desempeño y el riesgo antes de que los bancos crezcan más."
 
 lang: "es"
+sourceContentHash: "586acae3d2012d4e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

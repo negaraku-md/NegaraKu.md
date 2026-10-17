@@ -78,10 +78,11 @@ obligations:
     consequence: "La excepción de la s.75(2)(d) no está disponible, por lo que la adjudicación requiere la aprobación previa de los miembros o es nula conforme a la s.75(4)"
 
 lang: "es"
+sourceContentHash: "8cbd2aa6c4bb698a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -35,10 +35,11 @@ verificationNeeded:
   - "The list of 'national wau' often associated with the Majlis Pelayang Malaysia (wau bulan, wau kucing, wau jala budi) — no official publication found."
 
 lang: "es"
+sourceContentHash: "dca70ac2ef9b33e2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

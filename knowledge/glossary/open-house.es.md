@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Cualquiera invitado a una casa abierta por primera vez, los organizadores de casas abiertas a nivel comunitario o de empresa, y cualquiera que busque entender esta práctica como un fenómeno social interétnico en Malasia."
 
 lang: "es"
+sourceContentHash: "3bc3f6abab7fea70"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

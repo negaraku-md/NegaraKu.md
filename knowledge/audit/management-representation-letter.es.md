@@ -29,10 +29,11 @@ faq:
     a: "Si la dirección no aporta las manifestaciones exigidas por los párrafos 10 y 11, el auditor denegará la opinión sobre los estados financieros conforme a la ISA 705 (párrafo 20)."
 
 lang: "es"
+sourceContentHash: "b4dce9895318e6f0"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

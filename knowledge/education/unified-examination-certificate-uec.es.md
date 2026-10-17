@@ -30,12 +30,13 @@ faq:
     a: "Sí. El malayo es una asignatura obligatoria en el sistema UEC. Muchos alumnos del UEC también se presentan al SPM como candidatos privados; Dong Zong informa que la tasa de aprobados en malayo del SPM entre los alumnos de las Escuelas Secundarias Chinas Independientes superó el 96% en los años 2022–2024 (97.38% en 2022, 97.11% en 2023 y 96.65% en 2024), utilizando el mismo examen del SPM que los demás candidatos."
 
 lang: "es"
+sourceContentHash: "899b0fd9ce10c90d"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

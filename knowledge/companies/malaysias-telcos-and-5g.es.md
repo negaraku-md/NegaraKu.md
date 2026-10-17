@@ -32,10 +32,11 @@ faq:
     a: "U Mobile fue designada para construir la segunda red 5G, por lo que se desprendió de su participación en DNB y se desvinculó de la red de DNB para centrarse en su propio despliegue."
 
 lang: "es"
+sourceContentHash: "c1f7f6a84e1fec97"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

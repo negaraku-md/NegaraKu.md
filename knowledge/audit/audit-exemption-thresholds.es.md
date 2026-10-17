@@ -54,10 +54,11 @@ obligations:
     statute: "Companies Act 2016, s.267(2); SSM Practice Directive 10/2024"
 
 lang: "es"
+sourceContentHash: "f05022cc3a744d57"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

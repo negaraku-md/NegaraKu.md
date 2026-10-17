@@ -33,10 +33,11 @@ faq:
     a: "Una farmacia con licencia posee una Licencia de Venenos Tipo A y, por tanto, puede vender venenos de las listas —medicamentos de prescripción exclusiva y de dispensación exclusiva en farmacia— con la venta bajo la supervisión personal inmediata del farmacéutico. Un minorista general de productos de salud sin licencia de venenos solo puede vender artículos no venenosos, como productos de venta libre (OTC) de venta general, suplementos y artículos de aseo, y no debe presentarse como farmacia ni vender medicamentos de las listas. La Ley de Venenos de 1952 y la Ley de Venta de Medicamentos de 1952 (Sale of Drugs Act 1952) son las que trazan esa línea."
 
 lang: "es"
+sourceContentHash: "7e68872d6cc1c02e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

@@ -34,10 +34,11 @@ faq:
     a: "DOSM es un departamento del gobierno federal que figura bajo el Ministerio de Economía en el directorio oficial de agencias del ministerio. Las carteras ministeriales en Malasia se reorganizan periódicamente, así que confirme la disposición vigente en ekonomi.gov.my o dosm.gov.my antes de apoyarse en ella en un documento formal."
 
 lang: "es"
+sourceContentHash: "c71507e53dcd1423"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

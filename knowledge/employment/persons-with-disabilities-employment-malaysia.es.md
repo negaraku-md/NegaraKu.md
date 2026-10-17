@@ -31,10 +31,11 @@ faq:
     a: "El Section 29(3) exige a los empleadores promover el empleo estable evaluando razonablemente las capacidades de los OKU, proporcionando un lugar de trabajo adecuado y una gestión apropiada del puesto. El coste de modificar las instalaciones para los empleados OKU también es apto para una deducción fiscal bajo el paragraph 34(6)(e) de la Income Tax Act 1967."
 
 lang: "es"
+sourceContentHash: "66843e99ec6b43d1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

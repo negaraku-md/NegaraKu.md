@@ -33,10 +33,11 @@ verificationNeeded:
   - "Confirm Penang's current population against the latest DOSM state population release before publication."
 
 lang: "es"
+sourceContentHash: "a7862eb1a54ab895"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

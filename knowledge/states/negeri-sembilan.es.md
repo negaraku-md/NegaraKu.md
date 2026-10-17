@@ -38,12 +38,13 @@ verificationNeeded:
   - "Verify the date and basis of the ethnic composition percentages on the official state portal (Malay 61.5%, Chinese 22.9%, Indian 15.1%, others 0.5%) — the figure is undated and does not match the breakdown structure of the 2020 Census, which reports non-citizens as a separate category."
 
 lang: "es"
+sourceContentHash: "41ba175b1dc7814a"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

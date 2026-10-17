@@ -24,10 +24,11 @@ appliesTo: "Empleadores, administradores de RR. HH. y de nóminas que buscan la 
 verificationNeeded: []
 
 lang: "es"
+sourceContentHash: "93eabace2772ea86"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

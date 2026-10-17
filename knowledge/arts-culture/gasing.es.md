@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera entender cómo se juega el gasing, la diferencia entre el gasing pangkah y el gasing uri, y su vínculo con el patrimonio de la Costa Este."
 
 lang: "es"
+sourceContentHash: "fc40c99c7c7666a6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

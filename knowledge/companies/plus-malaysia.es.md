@@ -28,10 +28,11 @@ faq:
     a: "En virtud de la decisión de 2020, las tarifas de peaje se redujeron un 18% desde el 1 de febrero de 2020, y no hay previstas subidas de peaje durante todo el periodo de concesión prorrogado hasta 2058."
 
 lang: "es"
+sourceContentHash: "6a089759a8d1ba8f"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

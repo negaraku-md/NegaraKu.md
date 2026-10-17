@@ -30,12 +30,13 @@ faq:
     a: "Se han planteado propuestas para unir a los pequeños productores de las tres agencias (por ejemplo, por el Primer Ministro en 2009 y por FGV en 2023), pero, según indican las fuentes referenciadas, no se ha implementado ninguna fusión completa."
 
 lang: "es"
+sourceContentHash: "a5eeffb434131b29"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

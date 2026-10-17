@@ -28,9 +28,10 @@ faq:
   - q: "¿Qué cambió el 1 de julio de 2025?"
     a: "El alcance del impuesto sobre servicios se amplió para cubrir nuevos servicios, entre ellos el arrendamiento o alquiler, la construcción, los servicios financieros, la atención médica privada y la educación. Los servicios financieros basados en comisiones se gravan al 8%; la construcción, la atención médica privada (solo no ciudadanos) y la educación se gravan al 6%. El alquiler o arrendamiento se gravó al 8% desde el 1 de julio de 2025 pero se redujo al 6% desde el 1 de enero de 2026. La ampliación propuesta a los servicios de belleza fue retirada antes del 1 de julio de 2025. No se aplicó ningún procesamiento ni sanción a los negocios que tomaran medidas para cumplir hasta el 31 de diciembre de 2025."
 lang: "es"
+sourceContentHash: "1a8e884731ffdc96"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

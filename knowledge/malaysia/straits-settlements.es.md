@@ -29,9 +29,10 @@ faq:
   - q: "¿Qué pasó finalmente con los Asentamientos del Estrecho?"
     a: "Se disolvieron el 1 de abril de 1946. Penang y Melaka fueron integrados en la Unión Malaya junto con los Estados Malayos Federados y No Federados, mientras que Singapur fue segregado como colonia de la Corona separada."
 lang: "es"
+sourceContentHash: "9cb8a0574c93b0cb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

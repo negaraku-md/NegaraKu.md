@@ -32,10 +32,11 @@ faq:
     a: "Son capas separadas. La ISA 550 rige la auditoría; la MFRS 124 rige qué debe revelarse en los estados financieros; y el Capítulo 10 de Bursa rige la actuación societaria: cuándo un emisor cotizado debe anunciar una transacción, emitir una circular u obtener la aprobación previa de los accionistas, con la abstención de los directores y accionistas principales interesados."
 
 lang: "es"
+sourceContentHash: "ea0ecab6bfc0f793"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

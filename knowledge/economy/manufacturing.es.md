@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Inversores, buscadores de empleo, analistas de políticas y estudiantes que intentan leer con precisión las estadísticas industriales de Malasia."
 
 lang: "es"
+sourceContentHash: "21e59589f33cf91e"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

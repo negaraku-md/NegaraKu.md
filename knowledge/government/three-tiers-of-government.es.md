@@ -21,9 +21,10 @@ keyTakeaways:
 appliesTo: "Cualquier persona que intente averiguar a qué nivel de gobierno acudir ante un problema determinado en Malasia, o que quiera entender por qué puede votar por un diputado del Parlamento y por un asambleísta estatal, pero no por un concejal local."
 
 lang: "es"
+sourceContentHash: "c6bdf9ccfb5d174a"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

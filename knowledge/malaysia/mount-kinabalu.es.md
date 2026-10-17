@@ -18,9 +18,10 @@ keyTakeaways:
   - "Los órganos consultivos de la UNESCO lo describen como la montaña más alta entre el Himalaya y Nueva Guinea, y alberga unas 5,000-6,000 especies de plantas vasculares, incluidas aproximadamente 1,000 especies de orquídeas"
 appliesTo: "Lectores que quieran la altitud verificada y el estatus de área protegida del Monte Kinabalu, y una explicación sencilla de por qué una montaña de granito en Sabah es geológicamente tan joven."
 lang: "es"
+sourceContentHash: "9898433b2f4e9aa1"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

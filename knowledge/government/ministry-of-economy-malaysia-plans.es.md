@@ -35,10 +35,11 @@ faq:
     a: "No. El Plan de Malasia se presenta como una moción de política para debate y aprobación parlamentaria, no como un proyecto de ley como el Supply Bill que sustenta el Presupuesto anual."
 
 lang: "es"
+sourceContentHash: "6ea99ed513582ab7"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

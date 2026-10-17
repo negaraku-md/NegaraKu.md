@@ -29,10 +29,11 @@ faq:
     a: "Dos departamentos (el Departamento Nacional Digital y el Departamento de Protección de Datos Personales) y cuatro agencias: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad y MYNIC Berhad."
 
 lang: "es"
+sourceContentHash: "8890a54407574604"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

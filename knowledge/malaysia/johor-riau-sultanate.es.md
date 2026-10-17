@@ -18,11 +18,12 @@ keyTakeaways:
   - "El Tratado Anglo-Neerlandés de 1824 y sus consecuencias dividieron este territorio: Riau-Lingga bajo los neerlandeses, Johor dentro de la esfera británica"
 appliesTo: "Cualquiera que quiera entender cómo la institución real malaya de Melaka continuó sin interrupción hasta los estados malayos modernos, en particular Johor."
 lang: "es"
+sourceContentHash: "e2e07f7bcea9fc14"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

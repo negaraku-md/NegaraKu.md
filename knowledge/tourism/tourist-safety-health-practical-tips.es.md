@@ -31,12 +31,13 @@ faq:
     a: "No hay un requisito universal de vacunación para entrar, pero los CDC de EE. UU. aconsejan a los viajeros estar al día con las vacunas rutinarias y considerar la hepatitis A y la fiebre tifoidea; consulta sobre la rabia, la encefalitis japonesa y las pastillas antipalúdicas con una clínica de viajes según tu itinerario."
 
 lang: "es"
+sourceContentHash: "e99fd08a031d5f4f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-08-03"
 reviewDue: 2027-08-03
 revision: 0

@@ -48,12 +48,13 @@ verificationNeeded:
   - "Per-state minimum purchase price thresholds for foreign property acquisition were not verified against state land office sources. The RM1,000,000 figure is the federal floor; states set their own, often higher."
 
 lang: "es"
+sourceContentHash: "9eb59bf5dfe47262"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-22"
 reviewDue: "2027-07-22"
 revision: 0

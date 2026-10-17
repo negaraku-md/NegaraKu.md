@@ -34,10 +34,11 @@ faq:
     a: "Para CCRIS, la institución financiera que reporta está obligada a corregir la información inexacta dentro de un plazo razonable. Para CTOS, puedes presentar una disputa directamente ante la agencia, que está regulada por la Oficina del Registrador de Agencias de Informes de Crédito, dependiente del Ministerio de Hacienda."
 
 lang: "es"
+sourceContentHash: "d56078b999db6074"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

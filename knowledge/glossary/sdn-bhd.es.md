@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Fundadores, inversores y cualquier persona que decida sobre una estructura empresarial en Malasia."
 
 lang: "es"
+sourceContentHash: "ba35930a62b0d001"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -18,11 +18,12 @@ keyTakeaways:
   - "La institución del sultanato continúa en la Constitución a través de los nueve Gobernantes malayos, la Conferencia de Gobernantes y el Yang di-Pertuan Agong"
 appliesTo: "Cualquiera que desee comprender la estructura y el papel de la institución tradicional del sultanato malayo y cómo se conecta con el sistema de monarquía constitucional actual."
 lang: "es"
+sourceContentHash: "95bf275cb438d0b7"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

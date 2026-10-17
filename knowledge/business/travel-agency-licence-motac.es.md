@@ -33,10 +33,11 @@ faq:
     a: "Operar una empresa turística sin una licencia válida es un delito conforme a la Tourism Industry Act 1992, que MOTAC ejecuta activamente mediante inspecciones. En caso de condena, la sanción es una multa de hasta RM500,000 o prisión de hasta 10 años, o ambas. MOTAC también puede procesar, suspender o revocar licencias por otras infracciones de la Ley y los reglamentos."
 
 lang: "es"
+sourceContentHash: "267a25e0a7a19ed2"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

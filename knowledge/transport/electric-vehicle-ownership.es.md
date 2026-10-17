@@ -31,10 +31,11 @@ faq:
     a: "RM20 al año para los EV de 50 kW y menos, según las directrices LKM de vehículos eléctricos de JPJ. Las tarifas aumentan progresivamente para potencias mayores."
 
 lang: "es"
+sourceContentHash: "926c690f458094f6"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

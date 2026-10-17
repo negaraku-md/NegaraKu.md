@@ -35,12 +35,13 @@ faq:
     a: "Ambos sistemas incorporan una etapa de reconciliación. En el lado civil, la Sección 106 de la Act 164 por lo general exige remitir el asunto a un órgano conciliatorio (un tribunal de matrimonio) antes de presentar una petición, con excepciones limitadas. En el lado islámico, se orienta a las parejas hacia el asesoramiento en la Oficina Religiosa Islámica del Estado antes de registrar un divorcio ante el tribunal Syariah."
 
 lang: "es"
+sourceContentHash: "be15966c8bacd8fa"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

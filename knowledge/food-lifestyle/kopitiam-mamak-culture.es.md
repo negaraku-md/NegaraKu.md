@@ -37,10 +37,11 @@ faq:
     a: "El Órgano de Evaluación de la UNESCO recomendó la inscripción tras constatar que la cultura del desayuno de Malasia cumplía los criterios de la Convención de 2003 para la Salvaguardia del Patrimonio Cultural Inmaterial, y el Comité Intergubernamental tomó entonces la decisión de inscribirla. El Comité concluyó que la preparación y el disfrute de los alimentos del desayuno — aunque originalmente practicados por un grupo étnico concreto — terminaron por ser disfrutados por todos, sin importar el origen étnico, y que esto fortalece la unidad que refleja la identidad de Malasia como nación multiétnica."
 
 lang: "es"
+sourceContentHash: "d9dc5e7ae2dd9a7e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

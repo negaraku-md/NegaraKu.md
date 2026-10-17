@@ -31,9 +31,10 @@ faq:
     a: "Sí. El Oxford English Dictionary ha añadido varias palabras del inglés malasio en sucesivas actualizaciones, entre ellas lepak, shiok y teh tarik en 2016, varios términos del manglish y de la comida malasia como mamak, kopitiam y atas más tarde ese mismo año, y palabras como boleh, agak-agak y wayang en una actualización posterior, reconociendo así usos malasios ya establecidos en lugar de inventar un nuevo inglés."
 
 lang: "es"
+sourceContentHash: "8f82ee70d6e9258e"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

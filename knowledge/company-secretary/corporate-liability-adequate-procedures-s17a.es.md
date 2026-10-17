@@ -35,10 +35,11 @@ faq:
     a: "No existe una lista de comprobación fija, pero las Directrices del GIACC sobre Procedimientos Adecuados establecen cinco principios conocidos por el acrónimo T.R.U.S.T. que un tribunal probablemente ponderará al decidir si los procedimientos eran adecuados."
 
 lang: "es"
+sourceContentHash: "6d976fa3bddc473d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -69,10 +69,11 @@ obligations:
     consequence: "Fine of twice the compensation ordered, or up to RM10,000 where none was ordered; up to two years imprisonment; RM1,000 a day continuing"
 
 lang: "es"
+sourceContentHash: "37ced01eb083b72b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -31,12 +31,13 @@ faq:
     a: "Cúbrete los hombros y las rodillas en todos los sitios religiosos. Las mezquitas además esperan que las mujeres se cubran el cabello y que todos se descalcen. Los templos hindúes y chinos también exigen descalzarse antes de entrar en el santuario interior."
 
 lang: "es"
+sourceContentHash: "93767c9cc05e1d13"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

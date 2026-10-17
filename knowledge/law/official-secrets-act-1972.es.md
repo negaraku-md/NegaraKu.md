@@ -32,12 +32,13 @@ faq:
     a: "La Ley no contiene ninguna defensa de «interés público» ni protección específica para los denunciantes. La sección 17A ofrece una defensa solo a quien pruebe que actuó en el cumplimiento de un deber oficial o con la debida autorización. La ausencia de una defensa de interés público figura entre las cuestiones planteadas por los críticos de la Ley."
 
 lang: "es"
+sourceContentHash: "b2289aaf85dc5684"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

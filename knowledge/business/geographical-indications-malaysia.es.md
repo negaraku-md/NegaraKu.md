@@ -29,10 +29,11 @@ faq:
     a: "Diez años desde la fecha de registro, renovables por períodos sucesivos de diez años indefinidamente (artículos 18 y 19)."
 
 lang: "es"
+sourceContentHash: "a1ee81a205bbd043"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

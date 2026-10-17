@@ -34,10 +34,11 @@ faq:
     a: "La educación técnica y profesional se imparte en parte a través de los colegios vocacionales del Ministerio de Educación y en parte a través de una vía de certificación distinta — el Certificado de Competencias de Malasia (SKM) y el Diploma de Competencias de Malasia (DKM/DLKM) — expedidos por el Departamento de Desarrollo de Competencias (Jabatan Pembangunan Kemahiran), dependiente del Ministerio de Recursos Humanos, y no del Ministerio de Educación ni del Ministerio de Educación Superior."
 
 lang: "es"
+sourceContentHash: "936fe1b2918f6934"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

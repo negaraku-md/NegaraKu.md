@@ -32,10 +32,11 @@ faq:
     a: "La USTR situó el comercio bilateral total de bienes en unos US$88,5 mil millones estimados en 2025 (US$28,9 mil millones en exportaciones estadounidenses, US$59,7 mil millones en importaciones). Los datos del Censo de EE. UU. habían situado el comercio bilateral de bienes de 2024 cerca de US$80 mil millones, y el ministerio de Asuntos Exteriores de Malasia citó un comercio total de RM324,91 mil millones (US$71,39 mil millones) para 2024."
 
 lang: "es"
+sourceContentHash: "6acdeba029dc19eb"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

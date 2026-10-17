@@ -36,10 +36,11 @@ faq:
     a: "Una política lanzada por el Ministerio Digital en 2025 para convertir a Malasia en un centro de la nube de clase mundial para 2030, anclada en la soberanía de los datos — el principio de que los datos generados en Malasia se rigen por la ley malasia — junto con una nube de IA soberana planificada."
 
 lang: "es"
+sourceContentHash: "16256b5ee4d19f22"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

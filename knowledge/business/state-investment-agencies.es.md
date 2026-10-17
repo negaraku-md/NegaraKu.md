@@ -45,10 +45,11 @@ verificationNeeded:
   - "Confirm whether any subsidiary legislation has since been gazetted setting the JS-SEZ, National Global Services Hub or New Investment Incentive Framework rates under s.65B of the Income Tax Act 1967"
 
 lang: "es"
+sourceContentHash: "667fe9c1898504ba"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

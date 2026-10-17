@@ -49,10 +49,11 @@ obligations:
     consequence: "Incremento del 10 por ciento conforme a la s.109B(2) y no deducibilidad del gasto conforme a la s.39(1)(j)"
 
 lang: "es"
+sourceContentHash: "096e6362dcef465c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

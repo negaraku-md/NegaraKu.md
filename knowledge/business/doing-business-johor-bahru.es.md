@@ -44,10 +44,11 @@ verificationNeeded:
   - "RTS Link fare structure and confirmed first day of passenger service — MRT Corp publishes an end-2026 infrastructure completion target and a January 2027 service start, while Singapore LTA phrases it as service by December 2026"
 
 lang: "es"
+sourceContentHash: "4905d83a83912c4b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

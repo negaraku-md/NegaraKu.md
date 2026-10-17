@@ -29,10 +29,11 @@ faq:
     a: "El mínimo es de RM1,000 por transacción. Su importe elegible es válido durante tres meses cada vez, de modo que en la práctica puede hacer una nueva transferencia una vez transcurrido ese periodo."
 
 lang: "es"
+sourceContentHash: "d3f550dd37241cac"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

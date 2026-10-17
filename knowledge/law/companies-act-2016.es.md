@@ -30,10 +30,11 @@ faq:
     a: "Se dictan en virtud del Act más que formar parte de él, pero tienen fuerza operativa — los criterios de exención de auditoría, la escala de sanciones por presentación tardía y el procedimiento de prórroga residen todos en las Directivas de Práctica, no en el texto de las secciones. Una pregunta respondida solo a partir del Act a menudo se responderá mal."
 
 lang: "es"
+sourceContentHash: "d0840945570101e4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

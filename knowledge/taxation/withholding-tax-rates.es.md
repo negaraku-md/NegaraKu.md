@@ -48,10 +48,11 @@ obligations:
     consequence: "El importe no pagado se incrementa en un 10 por ciento y el gasto se rechaza conforme a la s.39(1)(f), (i) o (j)"
 
 lang: "es"
+sourceContentHash: "091d81b974b404be"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

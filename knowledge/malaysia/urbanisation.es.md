@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Cualquiera que intente leer correctamente las estadísticas malasias de población, trabajo o propiedad — investigadores, planificadores y empresas que evalúan dónde están realmente la población y la fuerza laboral."
 
 lang: "es"
+sourceContentHash: "0362cd9a8f8b4f6a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

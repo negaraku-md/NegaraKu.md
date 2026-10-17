@@ -34,10 +34,11 @@ faq:
     a: "Conforme a la sección 34A(4), el Director General debe motivar su decisión, pero el rechazo no le impide revisar y volver a presentar el informe para su aprobación."
 
 lang: "es"
+sourceContentHash: "7002da8fcfa27b67"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

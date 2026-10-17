@@ -33,10 +33,11 @@ faq:
     a: "Sí. La sección 29A prohíbe la quema a cielo abierto en cualquier local y se castiga con una multa de hasta RM500,000 o prisión de hasta 5 años o ambas. Se considera responsable al propietario u ocupante del local salvo prueba en contrario (sección 29B)."
 
 lang: "es"
+sourceContentHash: "cd3834c25795a67e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

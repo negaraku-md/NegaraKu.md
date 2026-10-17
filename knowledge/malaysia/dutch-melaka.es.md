@@ -20,9 +20,10 @@ keyTakeaways:
   - "El Tratado Anglo-Neerlandés del 17 de marzo de 1824 cedió Melaka de forma permanente a Gran Bretaña a cambio de Bencoolen; el traspaso efectivo entró en vigor el 1 de marzo de 1825"
 appliesTo: "Lectores que ya saben que Melaka pasó de manos portuguesas a neerlandesas y luego británicas, y quieren entender por qué los 184 años intermedios se vieron tan distintos de los 130 años anteriores y los 121 posteriores — además de cómo ocurrió en realidad el traspaso a Gran Bretaña."
 lang: "es"
+sourceContentHash: "c29f50bb16f23497"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

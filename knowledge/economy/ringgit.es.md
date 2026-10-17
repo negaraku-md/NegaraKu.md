@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona expuesta al tipo de cambio: importadores, exportadores, viajeros, estudiantes en el extranjero e inversores."
 
 lang: "es"
+sourceContentHash: "5c03f2bbac4e0dca"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

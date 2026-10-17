@@ -33,10 +33,11 @@ faq:
     a: "Sí. Conforme a la Ley de Arrendamiento con Opción de Compra de 1967, el depósito mínimo es del 10% del precio al contado, aunque los financiadores pueden fijar un importe mayor."
 
 lang: "es"
+sourceContentHash: "2d6f10d61a0f1ec1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

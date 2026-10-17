@@ -26,10 +26,11 @@ verificationNeeded:
   - "Whether a CDL application can now be made fully online via the MyJPJ app — the JPJ service page checked states that applications are made at the state JPJ counter only, but this may have changed since the date it was checked"
 
 lang: "es"
+sourceContentHash: "994f31cbd16cea0e"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

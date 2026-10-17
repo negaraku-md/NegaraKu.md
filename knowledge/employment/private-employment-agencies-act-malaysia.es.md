@@ -29,10 +29,11 @@ faq:
     a: "Una multa de hasta RM200,000 o prisión de hasta tres años, o ambas."
 
 lang: "es"
+sourceContentHash: "f80441a5c89e8b43"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

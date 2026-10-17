@@ -35,12 +35,13 @@ faq:
     a: "Sí, en términos estructurales. La Ley de Policía de 1967 establece una fuerza única que se emplea en Malasia y en todo su territorio, bajo una única cadena de mando encabezada por el Inspector General de Policía. El portal oficial del Gobierno (malaysia.gov.my) también señala la recopilación de inteligencia de seguridad como una de las funciones de la fuerza conforme al Artículo 3(3)."
 
 lang: "es"
+sourceContentHash: "2fcb4ae755f95546"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

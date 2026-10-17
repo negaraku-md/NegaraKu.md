@@ -37,10 +37,11 @@ faq:
     a: "A veces. La sección 45 permite al Director General, con el consentimiento por escrito del Fiscal, transigir un delito que el Ministro haya prescrito como transigible, por una suma no superior al 50% de la multa máxima. No todos los delitos son transigibles, y los delitos más graves de prisión obligatoria suelen ser objeto de enjuiciamiento."
 
 lang: "es"
+sourceContentHash: "c5c03f44b4db2f68"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

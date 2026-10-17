@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "Visitantes que planifican un itinerario de museos, estudiantes e investigadores que buscan la historia institucional tras las principales colecciones de Malasia, y cualquiera que diera por supuesto que el Muzium Negara era el museo más antiguo del país."
 
 lang: "es"
+sourceContentHash: "8802106dd859b55e"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

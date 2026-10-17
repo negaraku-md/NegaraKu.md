@@ -26,10 +26,11 @@ verificationNeeded:
   - "The exact citation and year of the National Land Code amendment that closed the earlier industrial-land exemption from State Authority consent could not be confirmed against the amending Act's own text; it is described here based on convergent secondary legal commentary rather than a directly read primary clause."
 
 lang: "es"
+sourceContentHash: "2fddfa6e345670a4"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

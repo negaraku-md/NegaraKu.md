@@ -32,11 +32,12 @@ faq:
     a: "El Artículo 8(1) de la Ley 808 exige que todos los presentes se pongan firmes. El Artículo 8(3) dispone que quien a sabiendas falte al respeto al himno nacional en un lugar público podrá, de ser condenado, ser multado con una suma no superior a RM100 o encarcelado por un período no superior a un mes."
 
 lang: "es"
+sourceContentHash: "c84bd6935adf2871"
 masterLanguage: "ms"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

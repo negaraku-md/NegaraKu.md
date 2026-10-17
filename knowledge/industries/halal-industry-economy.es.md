@@ -34,12 +34,13 @@ faq:
     a: "No. La certificación halal señala higiene, trazabilidad y normas de calidad, y el sector se dirige tanto a consumidores musulmanes como no musulmanes y a destinos de exportación de mayoría no musulmana."
 
 lang: "es"
+sourceContentHash: "e86c482e092e1722"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

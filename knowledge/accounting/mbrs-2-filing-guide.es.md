@@ -40,10 +40,11 @@ faq:
 verificationNeeded: []
 
 lang: "es"
+sourceContentHash: "7d7049034803d339"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

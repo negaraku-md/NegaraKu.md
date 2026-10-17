@@ -29,12 +29,13 @@ faq:
     a: "Algunos planes de takaful permiten que el excedente distribuible del fondo de riesgo se reparta entre los participantes elegibles, sujeto a las condiciones del certificado. Esta característica de reparto de excedentes no tiene un equivalente directo en la mayoría de las pólizas convencionales."
 
 lang: "es"
+sourceContentHash: "94509152b2b8fc7d"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

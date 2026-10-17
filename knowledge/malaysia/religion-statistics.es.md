@@ -28,11 +28,12 @@ faq:
     a: "Según la publicación de lanzamiento Key Findings del DOSM, Selangor registró el mayor número de musulmanes, budistas e hindúes entre los estados de Malasia, mientras que Sarawak registró el mayor número de cristianos. La publicación ofrece solo la clasificación, no un desglose a nivel estatal para cada religión."
 
 lang: "es"
+sourceContentHash: "9209ca0d039c5f34"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

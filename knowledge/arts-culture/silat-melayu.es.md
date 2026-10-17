@@ -37,10 +37,11 @@ faq:
     a: "La UNESCO cita el Silat Harimau como ejemplo de un estilo que imita los movimientos estéticos del tigre en el arte del ataque y la defensa personal. Es uno de los muchos estilos nombrados según un animal o un elemento de la naturaleza."
 
 lang: "es"
+sourceContentHash: "38ee41b476215220"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

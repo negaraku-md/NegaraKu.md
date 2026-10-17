@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que intente entender cómo se estructura el presupuesto de un hogar malasio típico, o comparar su propio gasto con el patrón nacional."
 
 lang: "es"
+sourceContentHash: "4c5994da7bcbecd8"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

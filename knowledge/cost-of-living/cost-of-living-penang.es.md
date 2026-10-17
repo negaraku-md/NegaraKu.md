@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que compare el costo de vida de Penang con el del Valle de Klang, o que decida entre la isla de Penang y Seberang Perai antes de mudarse, alquilar o abrir un negocio."
 
 lang: "es"
+sourceContentHash: "060d0c1609863cd7"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

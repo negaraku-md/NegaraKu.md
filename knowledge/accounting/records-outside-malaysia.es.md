@@ -25,10 +25,11 @@ verificationNeeded:
   - "Neither SSM nor LHDN publishes guidance on whether data hosted on a foreign cloud region but accessible from Malaysia satisfies the kept-in-Malaysia requirement — the position stated here follows the statutory wording, and there is no published administrative concession"
 
 lang: "es"
+sourceContentHash: "d4690bd724bedb45"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -29,10 +29,11 @@ faq:
     a: "Ha sido sustituida por la Directiva NADMA N.º 1, aprobada en una reunión del Consejo de Seguridad Nacional (MKN) presidida por el Primer Ministro el 1 de agosto de 2024."
 
 lang: "es"
+sourceContentHash: "cb54d0894eec9ad2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

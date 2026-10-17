@@ -29,12 +29,13 @@ faq:
     a: "En virtud de la Parte VI, un organismo de aplicación puede dictar una orden de congelación, un oficial investigador puede incautar bienes muebles durante una investigación, y el Fiscal del Ministerio Público dispone de poderes adicionales de incautación y decomiso."
 
 lang: "es"
+sourceContentHash: "03583a7602b0f6ef"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

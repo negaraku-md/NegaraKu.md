@@ -29,10 +29,11 @@ faq:
     a: "Sí. Sunway Healthcare Holdings fue admitida a cotización en el Mercado Principal de Bursa Malaysia como SUNMED el 18 de marzo de 2026. El fondo GIC de Singapur había acordado antes, en junio de 2021, invertir RM750 millones por una participación del 16% en el negocio de salud."
 
 lang: "es"
+sourceContentHash: "b41845c9552f7efc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

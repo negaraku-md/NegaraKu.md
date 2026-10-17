@@ -34,10 +34,11 @@ faq:
     a: "El JPJ no renovará el impuesto de circulación de un vehículo comercial sin un informe de inspección válido, y a un vehículo que circule sin inspección el JPJ le puede imponer una multa de composición o una citación."
 
 lang: "es"
+sourceContentHash: "6dfb76a4e260e0c1"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

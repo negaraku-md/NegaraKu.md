@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Cualquier persona que busque una comprensión general, a nivel de orientación, de la escala y la forma de la economía malasia."
 
 lang: "es"
+sourceContentHash: "a15aa3483282907f"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

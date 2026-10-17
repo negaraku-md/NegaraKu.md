@@ -34,10 +34,11 @@ faq:
     a: "Según una respuesta parlamentaria recogida por Bernama, Malasia exportó durián por valor de RM6.37 mil millones — unas 115,359 toneladas métricas — a China entre 2018 y 2025. Se estima que el objetivo de valor de exportación para 2030 alcanzará los RM1.8 mil millones con un total de 69,000 toneladas métricas."
 
 lang: "es"
+sourceContentHash: "c21f23e862b9d969"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

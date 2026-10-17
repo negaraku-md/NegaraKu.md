@@ -65,10 +65,11 @@ obligations:
     consequence: "Responsabilidad conforme al art. 107(4) por el importe total del impuesto debido por el empleado, como una deuda frente al Gobierno"
 
 lang: "es"
+sourceContentHash: "59c7042463497f7b"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -30,12 +30,13 @@ faq:
     a: "En las 14.ª elecciones generales del 9 de mayo de 2018, cuando la oposición Pakatan Harapan ganó 113 de los 222 escaños y BN obtuvo 79, su primera pérdida del gobierno federal."
 
 lang: "es"
+sourceContentHash: "991005bf0f4cffdd"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

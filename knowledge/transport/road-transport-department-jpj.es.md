@@ -25,9 +25,10 @@ faq:
   - q: "¿Qué es el e-LKM?"
     a: "El e-LKM es la Licencia de Vehículo de Motor digital (impuesto de circulación digital) que el JPJ introdujo a partir de 2023, en sustitución de la pegatina física. Es accesible a través de la app MyJPJ o el portal MySIKAP."
 lang: "es"
+sourceContentHash: "5feaacc87ec61a6a"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

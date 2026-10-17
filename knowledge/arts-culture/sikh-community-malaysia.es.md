@@ -34,10 +34,11 @@ faq:
     a: "El punjabí sigue vivo, pero atraviesa un cambio lingüístico: una investigación académica sobre la comunidad sij de Kota Kinabalu halló que la mayoría de las familias usa ahora el inglés en casa. Para preservar la lengua, los gurdwaras imparten clases de punjabí —por ejemplo, el Centro de Educación Punjabí del Gurdwara Sahib Seremban— que enseñan la escritura gurmukhi a los niños."
 
 lang: "es"
+sourceContentHash: "9ed6f6181f75f4d2"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

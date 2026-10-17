@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirm current Certificate of Residence application requirements and processing times on the LHDN e-Residence service; the residence test itself is sourced but the application mechanics are not covered by Public Ruling No. 9/2019"
 
 lang: "es"
+sourceContentHash: "2a0ef17e2859fe87"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

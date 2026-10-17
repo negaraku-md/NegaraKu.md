@@ -57,10 +57,11 @@ obligations:
     consequence: "Un recargo del 10% sobre el impuesto impagado conforme al art. 103(5)"
 
 lang: "es"
+sourceContentHash: "ec56f6d5e38c8e41"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

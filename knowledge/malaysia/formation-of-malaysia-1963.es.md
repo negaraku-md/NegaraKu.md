@@ -29,11 +29,12 @@ faq:
     a: "Singapur se separó el 9 de agosto de 1965 tras una votación en el Parlamento de Malasia. La tensión política entre el Partido de Acción Popular y el gobierno de la Alianza sobre la política económica y las bases de la competencia política precedió a la separación. Ninguna de las partes había previsto ese desenlace en la fusión de 1963."
 
 lang: "es"
+sourceContentHash: "6eb2de3c5c01ceae"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-07-22
 revision: 0
 revisions:

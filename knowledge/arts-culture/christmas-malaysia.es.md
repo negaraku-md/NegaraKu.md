@@ -32,10 +32,11 @@ faq:
     a: "Las familias cristianas observan el día religiosamente a través de los oficios religiosos. Más allá de eso, la Navidad se celebra de manera más amplia en la vida pública: los centros comerciales y los hoteles ponen decoraciones y organizan rebajas de temporada, y es habitual la tradición de la casa abierta de recibir a invitados de cualquier origen para una comida compartida. La participación en la vertiente social, más amplia, de la temporada no se limita a los cristianos."
 
 lang: "es"
+sourceContentHash: "4331ba5a016fc700"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -24,10 +24,11 @@ keyTakeaways:
 appliesTo: "Fundadores, profesionales en ejercicio y asesores que eligen entre una LLP y una Sdn Bhd, o que leen un nombre PLT en un contrato."
 
 lang: "es"
+sourceContentHash: "9e60329bba13d6ae"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -38,10 +38,11 @@ faq:
     a: "Emplear a un extranjero sin un pase válido es un delito en virtud de la Section 55B, que acarrea una multa de RM10,000 a RM50,000 o prisión de hasta 12 meses por cada trabajador. Contratar a cinco o más trabajadores indocumentados eleva la exposición a prisión de seis meses a cinco años y posibles azotes."
 
 lang: "es"
+sourceContentHash: "0a352a7bd7d5e1fc"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

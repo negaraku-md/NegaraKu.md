@@ -30,9 +30,10 @@ faq:
   - q: "¿Por qué el gobierno local es materia estatal y no federal?"
     a: "Porque la Constitución Federal sitúa el gobierno local en la Lista Estatal (ítem 4 de la Lista II, Novena Lista). Para mantener la coherencia de la política, el Artículo 95A establece un Consejo Nacional para el Gobierno Local que formula la política nacional que tanto el gobierno federal como los estatales deben seguir."
 lang: "es"
+sourceContentHash: "78de95ae401b9cbb"
 masterLanguage: "en"
-translationStatus: "pending"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

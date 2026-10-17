@@ -89,10 +89,11 @@ obligations:
     statute: "Income Tax Act 1967"
 
 lang: "es"
+sourceContentHash: "06879d4aea0e97e3"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

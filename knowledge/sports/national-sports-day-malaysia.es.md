@@ -29,10 +29,11 @@ faq:
     a: "El HSN es el día central de la celebración. Desde 2019, el KBS ha ampliado la celebración a todo el mes de octubre como Mes Nacional del Deporte (BSN)."
 
 lang: "es"
+sourceContentHash: "51f2375791aa9f72"
 masterLanguage: "ms"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

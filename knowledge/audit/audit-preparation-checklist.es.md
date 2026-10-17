@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirm the current MFRS 124 disclosure requirements and any amendments effective for the relevant financial year against the MASB published standard"
 
 lang: "es"
+sourceContentHash: "cc898ee41c4b1308"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -34,12 +34,13 @@ faq:
     a: "Los concejos locales electos funcionaban conforme a la Ley de Elecciones de Gobierno Local de 1960 (Local Government Elections Act 1960) y ordenanzas anteriores. Las elecciones fueron suspendidas el 1 de marzo de 1965 mediante reglamentos de emergencia durante la confrontación (Konfrontasi) con Indonesia. Los concejales en funciones permanecieron en el cargo hasta que la Ley de Gobierno Local (Disposiciones Temporales) de 1973 (Local Government (Temporary Provisions) Act 1973 [Act 124]) puso fin a sus mandatos y los sustituyó por juntas de gestión nombradas, y la Ley de Gobierno Local de 1976 (Local Government Act 1976 [Act 171]) estableció después el sistema permanente de nombramiento."
 
 lang: "es"
+sourceContentHash: "d540aa978984383a"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

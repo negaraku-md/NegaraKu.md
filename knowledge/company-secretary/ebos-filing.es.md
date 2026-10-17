@@ -53,10 +53,11 @@ obligations:
     consequence: "Delito conforme a la División 8A"
 
 lang: "es"
+sourceContentHash: "e1b33b50ef55b00c"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

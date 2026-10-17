@@ -33,10 +33,11 @@ faq:
     a: "Los principales factores son la caza furtiva y el comercio ilegal de partes de tigre, la degradación forestal y la pérdida de hábitat, los atropellos y el conflicto entre humanos y tigres, y la disminución de las presas."
 
 lang: "es"
+sourceContentHash: "4cb728294e2f0482"
 masterLanguage: "en"
-translationStatus: "pending"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
