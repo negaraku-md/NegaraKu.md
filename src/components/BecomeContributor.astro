@@ -7,7 +7,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // The lowest-barrier contribution: a prefilled GitHub issue (report / suggest).
 const issueUrl = `${REPO}/issues/new?labels=content&title=${encodeURIComponent('Report an issue / suggest a topic')}&body=${encodeURIComponent('Issue or topic:\n\nArticle URL (if any):\n\nDetails / sources:\n')}`;
@@ -16,7 +16,7 @@ const issueUrl = `${REPO}/issues/new?labels=content&title=${encodeURIComponent('
 <section class="become container block" data-pre-contributor data-pagefind-ignore>
   <div class="become-card">
     <div class="become-text">
-      <b class="become-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md', 'NegaraKu.md-ஐ கட்டியெழுப்ப உதவுங்கள்', 'NegaraKu.md の構築を手伝う', 'NegaraKu.md 구축을 도와주세요', 'ช่วยกันสร้าง NegaraKu.md', 'Giúp xây dựng NegaraKu.md', 'Bantu bangun NegaraKu.md', 'ساعد في بناء NegaraKu.md', 'NegaraKu.md बनाने में मदद करें', 'Ayuda a construir NegaraKu.md')}</b>
+      <b class="become-title">{L('Bantu bina NegaraKu.md', 'Help build NegaraKu.md', '一起建设 NegaraKu.md', 'NegaraKu.md-ஐ கட்டியெழுப்ப உதவுங்கள்', 'NegaraKu.md の構築を手伝う', 'NegaraKu.md 구축을 도와주세요', 'ช่วยกันสร้าง NegaraKu.md', 'Giúp xây dựng NegaraKu.md', 'Bantu bangun NegaraKu.md', 'ساعد في بناء NegaraKu.md', 'NegaraKu.md बनाने में मदद करें', 'Ayuda a construir NegaraKu.md', 'Aidez à construire NegaraKu.md')}</b>
       <p>{L(
         'Sesiapa boleh melaporkan isu, mencadangkan topik, atau menghantar artikel melalui pull request. Penyelenggara meluluskan perubahan sebelum ia disiarkan; akses repositori terus diberikan secara berasingan.',
         'Anyone can report an issue, suggest a topic, or submit an article via a pull request. Maintainers approve changes before they go live; direct repository access is granted separately.',
@@ -30,12 +30,13 @@ const issueUrl = `${REPO}/issues/new?labels=content&title=${encodeURIComponent('
         'يمكن لأي شخص الإبلاغ عن مشكلة، أو اقتراح موضوع، أو إرسال مقال عبر pull request. يعتمد المشرفون التغييرات قبل نشرها؛ ويُمنح الوصول المباشر إلى المستودع بشكل منفصل.',
         'कोई भी किसी समस्या की रिपोर्ट कर सकता है, कोई विषय सुझा सकता है, या pull request के ज़रिए कोई लेख भेज सकता है। प्रकाशन से पहले रखरखावकर्ता बदलावों को मंज़ूरी देते हैं; रिपॉज़िटरी तक सीधी पहुँच अलग से दी जाती है।',
         'Cualquiera puede reportar un problema, sugerir un tema o enviar un artículo mediante un pull request. Los encargados del mantenimiento aprueban los cambios antes de su publicación; el acceso directo al repositorio se concede por separado.',
+        "Chacun peut signaler un problème, suggérer un sujet ou soumettre un article via une pull request. Les mainteneurs approuvent les modifications avant leur mise en ligne ; l'accès direct au dépôt est accordé séparément.",
       )}</p>
     </div>
     <div class="become-actions">
-      <a class="btn btn-primary" href={issueUrl} target="_blank" rel="noopener">{L('Laporkan isu / cadangkan topik', 'Report an issue / suggest a topic', '报告问题 / 建议主题', 'சிக்கலைப் புகாரளி / தலைப்பைப் பரிந்துரை', '問題を報告 / トピックを提案', '문제 신고 / 주제 제안', 'รายงานปัญหา / เสนอหัวข้อ', 'Báo lỗi / đề xuất chủ đề', 'Laporkan masalah / usulkan topik', 'أبلغ عن مشكلة / اقترح موضوعاً', 'समस्या की रिपोर्ट करें / विषय सुझाएँ', 'Reporta un problema / sugiere un tema')} <span class="dirx">↗</span></a>
-      <a class="btn btn-ghost" href={REPO} rel="noopener">★ {L('Bintangkan', 'Star on GitHub', '点星', 'நட்சத்திரமிடு', 'スター', '별표', 'ให้ดาว', 'Gắn sao', 'Beri bintang', 'أضف نجمة على GitHub', 'GitHub पर स्टार करें', 'Marca con estrella en GitHub')}</a>
-      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Cara menyumbang', 'How to contribute', '如何贡献', 'எப்படி பங்களிப்பது', '貢献の方法', '기여하는 방법', 'วิธีการมีส่วนร่วม', 'Cách đóng góp', 'Cara berkontribusi', 'كيفية المساهمة', 'कैसे योगदान करें', 'Cómo contribuir')} <span class="dirx">→</span></a>
+      <a class="btn btn-primary" href={issueUrl} target="_blank" rel="noopener">{L('Laporkan isu / cadangkan topik', 'Report an issue / suggest a topic', '报告问题 / 建议主题', 'சிக்கலைப் புகாரளி / தலைப்பைப் பரிந்துரை', '問題を報告 / トピックを提案', '문제 신고 / 주제 제안', 'รายงานปัญหา / เสนอหัวข้อ', 'Báo lỗi / đề xuất chủ đề', 'Laporkan masalah / usulkan topik', 'أبلغ عن مشكلة / اقترح موضوعاً', 'समस्या की रिपोर्ट करें / विषय सुझाएँ', 'Reporta un problema / sugiere un tema', 'Signaler un problème / suggérer un sujet')} <span class="dirx">↗</span></a>
+      <a class="btn btn-ghost" href={REPO} rel="noopener">★ {L('Bintangkan', 'Star on GitHub', '点星', 'நட்சத்திரமிடு', 'スター', '별표', 'ให้ดาว', 'Gắn sao', 'Beri bintang', 'أضف نجمة على GitHub', 'GitHub पर स्टार करें', 'Marca con estrella en GitHub', 'Mettre une étoile sur GitHub')}</a>
+      <a class="btn btn-ghost" href={localePath('/contribute', locale)}>{L('Cara menyumbang', 'How to contribute', '如何贡献', 'எப்படி பங்களிப்பது', '貢献の方法', '기여하는 방법', 'วิธีการมีส่วนร่วม', 'Cách đóng góp', 'Cara berkontribusi', 'كيفية المساهمة', 'कैसे योगदान करें', 'Cómo contribuir', 'Comment contribuer')} <span class="dirx">→</span></a>
     </div>
   </div>
 </section>

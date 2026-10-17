@@ -7,17 +7,17 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio'), href: localePath('/', locale) },
-    { label: L('Sumbang', 'Contribute', '贡献', 'பங்களி', '貢献', '기여', 'มีส่วนร่วม', 'Đóng góp', 'Berkontribusi', 'المساهمة', 'योगदान करें', 'Contribuir'), href: localePath('/contribute', locale) },
-    { label: L('Sokong', 'Support', '支持', 'ஆதரவு', '支援', '지원', 'สนับสนุน', 'Hỗ trợ', 'Dukung', 'الدعم', 'सहायता', 'Apoyar') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', "Accueil"), href: localePath('/', locale) },
+    { label: L('Sumbang', 'Contribute', '贡献', 'பங்களி', '貢献', '기여', 'มีส่วนร่วม', 'Đóng góp', 'Berkontribusi', 'المساهمة', 'योगदान करें', 'Contribuir', "Contribuer"), href: localePath('/contribute', locale) },
+    { label: L('Sokong', 'Support', '支持', 'ஆதரவு', '支援', '지원', 'สนับสนุน', 'Hỗ trợ', 'Dukung', 'الدعم', 'सहायता', 'Apoyar', "Soutenir") },
   ]}
-  title={L('Sokong NegaraKu.md', 'Support NegaraKu.md', '支持 NegaraKu.md', 'NegaraKu.md ஐ ஆதரியுங்கள்', 'NegaraKu.md を支援する', 'NegaraKu.md 지원하기', 'สนับสนุน NegaraKu.md', 'Hỗ trợ NegaraKu.md', 'Dukung NegaraKu.md', 'ادعم NegaraKu.md', 'NegaraKu.md का समर्थन करें', 'Apoya NegaraKu.md')}
+  title={L('Sokong NegaraKu.md', 'Support NegaraKu.md', '支持 NegaraKu.md', 'NegaraKu.md ஐ ஆதரியுங்கள்', 'NegaraKu.md を支援する', 'NegaraKu.md 지원하기', 'สนับสนุน NegaraKu.md', 'Hỗ trợ NegaraKu.md', 'Dukung NegaraKu.md', 'ادعم NegaraKu.md', 'NegaraKu.md का समर्थन करें', 'Apoya NegaraKu.md', "Soutenez NegaraKu.md")}
   desc={L(
     'Sumbangan wang akan datang. Buat masa ini, cara paling berkesan untuk membantu ialah menyumbang kandungan atau token AI anda.',
     'Money donations are coming. For now, the most effective way to help is to contribute content or your AI tokens.',
@@ -31,12 +31,13 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
     'التبرعات المالية قادمة قريبًا. في الوقت الحالي، أكثر الطرق فعاليةً للمساعدة هي المساهمة بالمحتوى أو بتوكنات AI الخاصة بك.',
     'पैसे से दान जल्द आ रहा है। अभी के लिए, मदद करने का सबसे प्रभावी तरीका सामग्री का योगदान करना या अपने AI टोकन दान करना है।',
     'Las donaciones monetarias llegarán pronto. Por ahora, la forma más eficaz de ayudar es contribuir con contenido o con tus tokens de IA.',
+    "Les dons en argent arrivent bientôt. Pour l'instant, la façon la plus efficace d'aider est de contribuer du contenu ou vos tokens d'IA.",
   )}
 />
 
 <section class="container block">
   <div class="psec">
-    <header><span>💛 {L('Akan datang', 'Coming soon', '即将推出', 'விரைவில் வருகிறது', '近日公開', '곧 공개', 'เร็ว ๆ นี้', 'Sắp ra mắt', 'Segera hadir', 'قريبًا', 'जल्द आ रहा है', 'Próximamente')}</span></header>
+    <header><span>💛 {L('Akan datang', 'Coming soon', '即将推出', 'விரைவில் வருகிறது', '近日公開', '곧 공개', 'เร็ว ๆ นี้', 'Sắp ra mắt', 'Segera hadir', 'قريبًا', 'जल्द आ रहा है', 'Próximamente', "Bientôt disponible")}</span></header>
     <div class="psec-body">
       <p class="lead">{L(
         'Kami sedang menyediakan cara yang selamat dan telus untuk menerima sumbangan wang. Sehingga itu, dua cara ini membantu paling banyak:',
@@ -51,17 +52,18 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
         'نحن نعمل على إتاحة طريقة آمنة وشفافة لتلقّي التبرعات المالية. حتى ذلك الحين، تُعدّ هاتان الطريقتان الأكثر فائدةً:',
         'हम पैसे से दान स्वीकार करने का एक सुरक्षित, पारदर्शी तरीका तैयार कर रहे हैं। तब तक, ये दो तरीके सबसे अधिक मदद करते हैं:',
         'Estamos preparando una forma segura y transparente de aceptar donaciones monetarias. Hasta entonces, estas dos son las que más ayudan:',
+        "Nous mettons en place un moyen sûr et transparent d'accepter les dons en argent. D'ici là, ces deux options sont les plus utiles :",
       )}</p>
       <div class="cards">
         <a class="card" href={localePath('/donate', locale)}>
           <span class="ci" aria-hidden="true">🌐</span>
-          <b>{L('Derma Token AI Anda', 'Donate Your AI Token', '捐赠你的 AI Token', 'உங்கள் AI டோக்கனை நன்கொடையளியுங்கள்', 'あなたの AI トークンを寄付', 'AI 토큰 기부하기', 'บริจาคโทเค็น AI ของคุณ', 'Quyên góp Token AI của bạn', 'Donasikan Token AI Anda', 'تبرّع بتوكن AI الخاص بك', 'अपना AI टोकन दान करें', 'Dona tu token de IA')}</b>
-          <p>{L('Terjemah artikel dengan kunci Claude anda sendiri.', 'Translate articles with your own Claude key.', '用你自己的 Claude 密钥翻译文章。', 'உங்கள் சொந்த Claude கீயுடன் கட்டுரைகளை மொழிபெயருங்கள்.', '自分の Claude キーで記事を翻訳できます。', '자신의 Claude 키로 기사를 번역합니다.', 'แปลบทความด้วยคีย์ Claude ของคุณเอง', 'Dịch bài viết bằng khóa Claude của riêng bạn.', 'Terjemahkan artikel dengan kunci Claude Anda sendiri.', 'ترجم المقالات باستخدام مفتاح Claude الخاص بك.', 'अपनी Claude कुंजी से लेखों का अनुवाद करें।', 'Traduce artículos con tu propia clave de Claude.')}</p>
+          <b>{L('Derma Token AI Anda', 'Donate Your AI Token', '捐赠你的 AI Token', 'உங்கள் AI டோக்கனை நன்கொடையளியுங்கள்', 'あなたの AI トークンを寄付', 'AI 토큰 기부하기', 'บริจาคโทเค็น AI ของคุณ', 'Quyên góp Token AI của bạn', 'Donasikan Token AI Anda', 'تبرّع بتوكن AI الخاص بك', 'अपना AI टोकन दान करें', 'Dona tu token de IA', "Faites don de vos tokens d'IA")}</b>
+          <p>{L('Terjemah artikel dengan kunci Claude anda sendiri.', 'Translate articles with your own Claude key.', '用你自己的 Claude 密钥翻译文章。', 'உங்கள் சொந்த Claude கீயுடன் கட்டுரைகளை மொழிபெயருங்கள்.', '自分の Claude キーで記事を翻訳できます。', '자신의 Claude 키로 기사를 번역합니다.', 'แปลบทความด้วยคีย์ Claude ของคุณเอง', 'Dịch bài viết bằng khóa Claude của riêng bạn.', 'Terjemahkan artikel dengan kunci Claude Anda sendiri.', 'ترجم المقالات باستخدام مفتاح Claude الخاص بك.', 'अपनी Claude कुंजी से लेखों का अनुवाद करें।', 'Traduce artículos con tu propia clave de Claude.', "Traduisez des articles avec votre propre clé Claude.")}</p>
         </a>
         <a class="card" href={localePath('/contribute', locale)}>
           <span class="ci" aria-hidden="true">✍️</span>
-          <b>{L('Sumbang kandungan', 'Contribute content', '贡献内容', 'உள்ளடக்கத்தைப் பங்களியுங்கள்', 'コンテンツを貢献', '콘텐츠 기여', 'มีส่วนร่วมด้านเนื้อหา', 'Đóng góp nội dung', 'Sumbangkan konten', 'المساهمة بالمحتوى', 'सामग्री का योगदान करें', 'Contribuir contenido')}</b>
-          <p>{L('Lapor, cadang atau tulis artikel.', 'Report, suggest, or author articles.', '报告、建议或撰写文章。', 'கட்டுரைகளைப் புகாரளியுங்கள், பரிந்துரையுங்கள் அல்லது எழுதுங்கள்.', '記事の報告・提案・執筆ができます。', '기사를 제보하거나 제안하거나 작성합니다.', 'รายงาน เสนอแนะ หรือเขียนบทความ', 'Báo cáo, đề xuất hoặc viết bài.', 'Laporkan, sarankan, atau tulis artikel.', 'أبلِغ عن المقالات أو اقترحها أو اكتبها.', 'लेखों की रिपोर्ट करें, सुझाव दें या लिखें।', 'Reporta, sugiere o redacta artículos.')}</p>
+          <b>{L('Sumbang kandungan', 'Contribute content', '贡献内容', 'உள்ளடக்கத்தைப் பங்களியுங்கள்', 'コンテンツを貢献', '콘텐츠 기여', 'มีส่วนร่วมด้านเนื้อหา', 'Đóng góp nội dung', 'Sumbangkan konten', 'المساهمة بالمحتوى', 'सामग्री का योगदान करें', 'Contribuir contenido', "Contribuer du contenu")}</b>
+          <p>{L('Lapor, cadang atau tulis artikel.', 'Report, suggest, or author articles.', '报告、建议或撰写文章。', 'கட்டுரைகளைப் புகாரளியுங்கள், பரிந்துரையுங்கள் அல்லது எழுதுங்கள்.', '記事の報告・提案・執筆ができます。', '기사를 제보하거나 제안하거나 작성합니다.', 'รายงาน เสนอแนะ หรือเขียนบทความ', 'Báo cáo, đề xuất hoặc viết bài.', 'Laporkan, sarankan, atau tulis artikel.', 'أبلِغ عن المقالات أو اقترحها أو اكتبها.', 'लेखों की रिपोर्ट करें, सुझाव दें या लिखें।', 'Reporta, sugiere o redacta artículos.', "Signalez, suggérez ou rédigez des articles.")}</p>
         </a>
       </div>
     </div>

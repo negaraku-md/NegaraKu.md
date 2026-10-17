@@ -31,6 +31,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'إطلاق NegaraKu.md',
       hi: 'NegaraKu.md का शुभारंभ',
       es: 'NegaraKu.md se pone en marcha',
+      fr: "NegaraKu.md est lancé",
     },
     body: {
       ms: 'Pangkalan pengetahuan sumber terbuka, mesra-AI tentang Malaysia bermula — dengan model amanah rantaian jagaan (tiada kandungan sensitif diterbitkan tanpa penyemak bernama).',
@@ -44,6 +45,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تنطلق قاعدة المعرفة مفتوحة المصدر والملائمة للذكاء الاصطناعي (AI) حول ماليزيا — مبنية على نموذج ثقة قائم على سلسلة الحيازة (لا يُنشر أي محتوى حساس دون مراجِع مُسمّى).',
       hi: 'मलेशिया के बारे में ओपन-सोर्स, AI-अनुकूल ज्ञान आधार की शुरुआत — अभिरक्षा-शृंखला विश्वास मॉडल पर निर्मित (किसी नामित समीक्षक के बिना कोई संवेदनशील सामग्री प्रकाशित नहीं होती)।',
       es: 'Comienza la base de conocimiento de código abierto y apta para la AI sobre Malasia, construida sobre un modelo de confianza de cadena de custodia (ningún contenido sensible se publica sin un revisor con nombre).',
+      fr: "La base de connaissances open source et adaptée à l'IA sur la Malaisie voit le jour, fondée sur un modèle de confiance à chaîne de traçabilité (aucun contenu sensible n'est publié sans relecteur nommé).",
     },
   },
   {
@@ -61,6 +63,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تكافؤ ثلاثي اللغات كامل',
       hi: 'पूर्ण त्रिभाषी समानता',
       es: 'Paridad trilingüe completa',
+      fr: "Parité complète en trois langues",
     },
     body: {
       ms: 'Setiap topik tersedia dalam Bahasa Melayu, Inggeris dan Cina.',
@@ -74,6 +77,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'كل موضوع متاح بالماليزية والإنجليزية والصينية.',
       hi: 'हर विषय मलय, अंग्रेज़ी और चीनी में उपलब्ध।',
       es: 'Todos los temas disponibles en malayo, inglés y chino.',
+      fr: "Chaque sujet est disponible en malais, en anglais et en chinois.",
     },
   },
   {
@@ -91,6 +95,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'التحليلات ورسم المعرفة البياني',
       hi: 'एनालिटिक्स और नॉलेज ग्राफ',
       es: 'Analítica y grafo de conocimiento',
+      fr: "Analytique et graphe de connaissances",
     },
     body: {
       ms: 'Analitik pelawat langsung dan graf pengetahuan interaktif menghubungkan setiap topik.',
@@ -104,6 +109,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تحليلات مباشرة للزوّار ورسم بياني تفاعلي يربط كل موضوع.',
       hi: 'लाइव विज़िटर एनालिटिक्स और एक इंटरैक्टिव ग्राफ जो हर विषय को जोड़ता है।',
       es: 'Analítica de visitantes en vivo y un grafo interactivo que enlaza todos los temas.',
+      fr: "Analytique des visiteurs en direct et graphe interactif reliant chaque sujet.",
     },
   },
   {
@@ -121,6 +127,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'نظام دورة الحياة والمساهمة',
       hi: 'जीवनचक्र और योगदान प्रणाली',
       es: 'Sistema de ciclo de vida y contribución',
+      fr: "Système de cycle de vie et de contribution",
     },
     body: {
       ms: 'Aliran kerja editorial penuh dan model sumbangan terbuka — paparan Pembaca/Penyumbang dengan log masuk GitHub.',
@@ -134,6 +141,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'سير عمل تحريري كامل ونموذج مساهمة مفتوح — عرضا القارئ/المساهم مع تسجيل الدخول عبر GitHub.',
       hi: 'एक पूर्ण संपादकीय वर्कफ़्लो और खुला योगदान मॉडल — GitHub साइन-इन के साथ पाठक/योगदानकर्ता दृश्य।',
       es: 'Un flujo de trabajo editorial completo y un modelo de contribución abierto: vistas de Lector/Colaborador con inicio de sesión mediante GitHub.',
+      fr: "Un flux éditorial complet et un modèle de contribution ouvert : vues Lecteur/Contributeur avec connexion via GitHub.",
     },
   },
   {
@@ -151,6 +159,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'النشر التلقائي على Facebook',
       hi: 'Facebook स्वतः-पोस्टिंग',
       es: 'Publicación automática en Facebook',
+      fr: "Publication automatique sur Facebook",
     },
     body: {
       ms: 'Setiap artikel baharu sampai kepada pembaca secara automatik, dalam setiap bahasa.',
@@ -164,6 +173,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'كل مقال جديد يصل إلى القرّاء تلقائيًا، بكل لغة.',
       hi: 'हर नया लेख स्वतः ही हर भाषा में पाठकों तक पहुँचता है।',
       es: 'Cada artículo nuevo llega a los lectores automáticamente, en cada idioma.',
+      fr: "Chaque nouvel article parvient automatiquement aux lecteurs, dans chaque langue.",
     },
   },
   {
@@ -181,6 +191,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'إطلاق التاميلية — اللغة الرابعة',
       hi: 'तमिल का शुभारंभ — चौथी भाषा',
       es: 'Lanzamiento del tamil: el 4.º idioma',
+      fr: "Lancement du tamoul : la 4e langue",
     },
     body: {
       ms: '1,073 artikel diterjemahkan ke bahasa Tamil; /ta menjadi bahasa penuh yang diindeks dan boleh ditemui.',
@@ -194,6 +205,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تُرجم 1,073 مقالًا إلى التاميلية؛ وأصبح /ta لغة كاملة ومفهرسة وقابلة للاكتشاف.',
       hi: '1,073 लेख तमिल में अनूदित; /ta एक पूर्ण, अनुक्रमित और खोजे जाने योग्य भाषा बन जाती है।',
       es: '1,073 artículos traducidos al tamil; /ta se convierte en un idioma completo, indexado y descubrible.',
+      fr: "1,073 articles traduits en tamoul ; /ta devient une langue complète, indexée et facile à découvrir.",
     },
   },
   {
@@ -211,6 +223,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'محرك اجتماعي ذكي',
       hi: 'स्मार्ट सोशल इंजन',
       es: 'Motor social inteligente',
+      fr: "Moteur social intelligent",
     },
     body: {
       ms: 'Penyiaran mengikut permintaan setiap bahasa, pada waktu puncak audiens, memanas mengikut usia Halaman.',
@@ -224,6 +237,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'نشر لكل لغة مُرتَّب حسب الطلب في أوقات ذروة كل جمهور، يتصاعد تدريجيًا مع تقدُّم عمر كل صفحة.',
       hi: 'प्रत्येक भाषा के लिए माँग के अनुसार क्रमित पोस्टिंग—हर दर्शक-वर्ग के पीक समय पर, और हर पेज की उम्र के साथ धीरे-धीरे बढ़ती हुई।',
       es: 'Publicación por idioma, ordenada por demanda en las horas pico de cada audiencia, que se intensifica con la antigüedad de cada Página.',
+      fr: "Publication par langue, classée selon la demande, aux heures de pointe de chaque public, avec une montée en charge progressive selon l'ancienneté de chaque Page.",
     },
   },
   {
@@ -242,6 +256,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'إطلاق اليابانية — اللغة الخامسة',
       hi: 'जापानी का शुभारंभ — पाँचवीं भाषा',
       es: 'Lanzamiento del japonés: el 5.º idioma',
+      fr: "Lancement du japonais : la 5e langue",
     },
     body: {
       ms: '1,073 artikel diterjemahkan ke bahasa Jepun; /ja menjadi bahasa penuh yang diindeks dan boleh ditemui.',
@@ -256,6 +271,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تُرجم 1,073 مقالًا إلى اليابانية؛ وأصبح /ja لغة كاملة ومفهرسة وقابلة للاكتشاف.',
       hi: '1,073 लेख जापानी में अनूदित; /ja एक पूर्ण, अनुक्रमित और खोजे जाने योग्य भाषा बन जाती है।',
       es: '1,073 artículos traducidos al japonés; /ja se convierte en un idioma completo, indexado y descubrible.',
+      fr: "1,073 articles traduits en japonais ; /ja devient une langue complète, indexée et facile à découvrir.",
     },
   },
   {
@@ -274,6 +290,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'إطلاق الكورية — اللغة السادسة',
       hi: 'कोरियाई का शुभारंभ — छठी भाषा',
       es: 'Lanzamiento del coreano: el 6.º idioma',
+      fr: "Lancement du coréen : la 6e langue",
     },
     body: {
       ms: '1,073 artikel diterjemahkan ke bahasa Korea; /ko menjadi bahasa penuh yang diindeks dan boleh ditemui.',
@@ -288,6 +305,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تُرجم 1,073 مقالًا إلى الكورية؛ وأصبح /ko لغة كاملة ومفهرسة وقابلة للاكتشاف.',
       hi: '1,073 लेख कोरियाई में अनूदित; /ko एक पूर्ण, अनुक्रमित और खोजे जाने योग्य भाषा बन जाती है।',
       es: '1,073 artículos traducidos al coreano; /ko se convierte en un idioma completo, indexado y descubrible.',
+      fr: "1,073 articles traduits en coréen ; /ko devient une langue complète, indexée et facile à découvrir.",
     },
   },
   {
@@ -306,6 +324,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'إطلاق التايلاندية — اللغة السابعة',
       hi: 'थाई का शुभारंभ — सातवीं भाषा',
       es: 'Lanzamiento del tailandés: el 7.º idioma',
+      fr: "Lancement du thaï : la 7e langue",
     },
     body: {
       ms: '1,073 artikel diterjemahkan ke bahasa Thai; /th menjadi bahasa penuh yang diindeks dan boleh ditemui.',
@@ -320,6 +339,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تُرجم 1,073 مقالًا إلى التايلاندية؛ وأصبح /th لغة كاملة ومفهرسة وقابلة للاكتشاف.',
       hi: '1,073 लेख थाई में अनूदित; /th एक पूर्ण, अनुक्रमित और खोजे जाने योग्य भाषा बन जाती है।',
       es: '1,073 artículos traducidos al tailandés; /th se convierte en un idioma completo, indexado y descubrible.',
+      fr: "1,073 articles traduits en thaï ; /th devient une langue complète, indexée et facile à découvrir.",
     },
   },
   {
@@ -338,6 +358,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'إطلاق الفيتنامية — اللغة الثامنة',
       hi: 'वियतनामी का शुभारंभ — आठवीं भाषा',
       es: 'Lanzamiento del vietnamita: el 8.º idioma',
+      fr: "Lancement du vietnamien : la 8e langue",
     },
     body: {
       ms: '1,073 artikel diterjemahkan ke bahasa Vietnam; /vi menjadi bahasa penuh yang diindeks dan boleh ditemui.',
@@ -352,6 +373,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تُرجم 1,073 مقالًا إلى الفيتنامية؛ وأصبح /vi لغة كاملة ومفهرسة وقابلة للاكتشاف.',
       hi: '1,073 लेख वियतनामी में अनूदित; /vi एक पूर्ण, अनुक्रमित और खोजे जाने योग्य भाषा बन जाती है।',
       es: '1,073 artículos traducidos al vietnamita; /vi se convierte en un idioma completo, indexado y descubrible.',
+      fr: "1,073 articles traduits en vietnamien ; /vi devient une langue complète, indexée et facile à découvrir.",
     },
   },
   {
@@ -370,6 +392,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'إطلاق الإندونيسية — اللغة التاسعة',
       hi: 'इंडोनेशियाई का शुभारंभ — नौवीं भाषा',
       es: 'Lanzamiento del indonesio: el 9.º idioma',
+      fr: "Lancement de l'indonésien : la 9e langue",
     },
     body: {
       ms: '1,073 artikel diterjemahkan ke bahasa Indonesia; /id menjadi bahasa penuh yang diindeks dan boleh ditemui.',
@@ -384,6 +407,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تُرجم 1,073 مقالًا إلى الإندونيسية؛ وأصبح /id لغة كاملة ومفهرسة وقابلة للاكتشاف.',
       hi: '1,073 लेख इंडोनेशियाई में अनूदित; /id एक पूर्ण, अनुक्रमित और खोजे जाने योग्य भाषा बन जाती है।',
       es: '1,073 artículos traducidos al indonesio; /id se convierte en un idioma completo, indexado y descubrible.',
+      fr: "1,073 articles traduits en indonésien ; /id devient une langue complète, indexée et facile à découvrir.",
     },
   },
   {
@@ -402,6 +426,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'إطلاق العربية — اللغة العاشرة (أول لغة من اليمين إلى اليسار)',
       hi: 'अरबी का शुभारंभ — दसवीं भाषा (पहली RTL)',
       es: 'Lanzamiento del árabe: el 10.º idioma (primero RTL)',
+      fr: "Lancement de l'arabe : la 10e langue (la première écrite de droite à gauche)",
     },
     body: {
       ms: '1,074 artikel diterjemahkan ke bahasa Arab; /ar menjadi bahasa penuh yang diindeks — dan bahasa kanan-ke-kiri (RTL) pertama di tapak ini.',
@@ -416,6 +441,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تُرجم 1,074 مقالًا إلى العربية؛ وأصبح /ar لغة كاملة ومفهرسة — وأول لغة تُكتب من اليمين إلى اليسار (RTL) في الموقع.',
       hi: '1,074 लेख अरबी में अनूदित; /ar एक पूर्ण, अनुक्रमित भाषा बन जाती है — और साइट की पहली दाएँ-से-बाएँ (RTL) भाषा।',
       es: '1,074 artículos traducidos al árabe; /ar se convierte en un idioma completo e indexado, y en el primer idioma de derecha a izquierda (RTL) del sitio.',
+      fr: "1,074 articles traduits en arabe ; /ar devient une langue complète et indexée, et la première langue de droite à gauche (RTL) du site.",
     },
   },
   {
@@ -434,6 +460,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'إطلاق الهندية — اللغة الحادية عشرة',
       hi: 'हिन्दी का शुभारंभ — ग्यारहवीं भाषा',
       es: 'Lanzamiento del hindi: el 11.º idioma',
+      fr: "Lancement de l'hindi : la 11e langue",
     },
     body: {
       ms: '1,074 artikel diterjemahkan ke bahasa Hindi; /hi menjadi bahasa penuh yang diindeks (tulisan Devanagari).',
@@ -448,6 +475,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تُرجم 1,074 مقالًا إلى الهندية؛ وأصبح /hi لغة كاملة ومفهرسة (بأبجدية ديفاناغاري).',
       hi: '1,074 लेख हिन्दी में अनूदित; /hi एक पूर्ण, अनुक्रमित भाषा बन जाती है (देवनागरी लिपि)।',
       es: '1,074 artículos traducidos al hindi; /hi se convierte en un idioma completo e indexado (escritura devanagari).',
+      fr: "1,074 articles traduits en hindi ; /hi devient une langue complète et indexée (écriture devanagari).",
     },
   },
   {
@@ -466,6 +494,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'إطلاق الإسبانية — اللغة الثانية عشرة',
       hi: 'स्पेनी का शुभारंभ — बारहवीं भाषा',
       es: 'Lanzamiento del español — el 12.º idioma',
+      fr: "Lancement de l'espagnol : la 12e langue",
     },
     body: {
       ms: '1,074 artikel diterjemahkan ke bahasa Sepanyol; /es menjadi bahasa penuh yang diindeks.',
@@ -480,6 +509,7 @@ export const MILESTONES: Milestone[] = [
       ar: 'تُرجم 1,074 مقالًا إلى الإسبانية؛ وأصبح /es لغة كاملة ومفهرسة.',
       hi: '1,074 लेख स्पेनी में अनूदित; /es एक पूर्ण, अनुक्रमित भाषा बन जाती है।',
       es: '1,074 artículos traducidos al español; /es se convierte en un idioma completo e indexado.',
+      fr: "1,074 articles traduits en espagnol ; /es devient une langue complète et indexée.",
     },
   },
 ];

@@ -46,6 +46,7 @@ export const DATASETS: Record<string, Provenance> = {
       ar: 'الشركات المُدرَجة في بورصة ماليزيا (Bursa Malaysia)',
       hi: 'Bursa Malaysia में सूचीबद्ध कंपनियाँ',
       es: 'Empresas cotizadas en Bursa Malaysia',
+      fr: 'Sociétés cotées à Bursa Malaysia',
     },
     verification: 'unverified',
     reviewer: null,
@@ -62,6 +63,7 @@ export const DATASETS: Record<string, Provenance> = {
       ar: 'أرقام القيمة السوقية والإيرادات هي قيم أولية تقريبية لأغراض التوضيح فقط — ولم يتم التحقق منها بعد مقابل بورصة ماليزيا (Bursa Malaysia). لا تعتمد عليها في اتخاذ أي قرار.',
       hi: 'बाज़ार-पूँजीकरण और राजस्व के आँकड़े केवल उदाहरण के लिए अनुमानित आरंभिक मान हैं — इन्हें अभी तक Bursa Malaysia के विरुद्ध सत्यापित नहीं किया गया है। किसी भी निर्णय के लिए इन पर निर्भर न रहें।',
       es: 'Las cifras de capitalización de mercado e ingresos son valores iniciales aproximados, solo con fines ilustrativos, y aún no se han verificado con Bursa Malaysia. No las utilice como base para ninguna decisión.',
+      fr: "Les chiffres de capitalisation boursière et de chiffre d'affaires sont des valeurs initiales approximatives, fournies à titre purement illustratif et pas encore vérifiées auprès de Bursa Malaysia. Ne vous y fiez pour aucune décision.",
     },
   },
 };

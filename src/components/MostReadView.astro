@@ -16,7 +16,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const analytics = getAnalytics();
 const readsOf = (cat: string, slug: string): number => {
@@ -45,7 +45,7 @@ const stats = await siteStats(locale);
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio'), href: localePath('/', locale) },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', 'Accueil'), href: localePath('/', locale) },
     { label: t('nav.trending', locale) },
   ]}
   title={t('nav.trending', locale)}
@@ -62,6 +62,7 @@ const stats = await siteStats(locale);
     'المقالات الأكثر قراءة — مرتبة حسب زيارات القراء، مع عرض الأحدث أولاً بينما لا تزال بيانات التحليلات قيد التجميع.',
     'सबसे अधिक पढ़े गए लेख — पाठकों की विज़िट के आधार पर क्रमबद्ध, और जब तक विश्लेषण डेटा जमा हो रहा है तब तक सबसे नए पहले।',
     'Los artículos más leídos — clasificados por las visitas de los lectores, con los más recientes primero mientras las analíticas aún se van acumulando.',
+    "Les articles les plus lus : classés selon les visites des lecteurs, les plus récents d'abord tant que les statistiques sont en cours de constitution.",
   )}
   stats={[stat.pillars(stats.sections, locale), stat.categories(stats.categories, locale), stat.subcategories(stats.topics, locale), stat.topics(stats.articles, locale)]}
 />
@@ -83,6 +84,7 @@ const stats = await siteStats(locale);
           'لا تزال بيانات تحليلات القراء قيد التجميع، لذا تعرض هذه القائمة حالياً المقالات الأحدث تحديثاً — وليست ترتيباً حسب الشعبية بعد.',
           'पाठक विश्लेषण अभी भी जमा हो रहा है, इसलिए अभी यह सबसे हाल ही में अपडेट किए गए लेख दिखाता है — अभी तक लोकप्रियता की रैंकिंग नहीं।',
           'Las analíticas de lectores aún se están acumulando, por lo que de momento se muestran los artículos actualizados más recientemente — todavía no es una clasificación por popularidad.',
+          "Les statistiques de lecture sont encore en cours de constitution ; pour l'instant, la liste présente donc les articles mis à jour le plus récemment, et non encore un classement de popularité.",
         )
       : L(
           'Disusun mengikut lawatan pembaca dan dikemas kini setiap hari. Artikel yang belum dijejak disusun mengikut kemas kini terbaharu, jadi senarai ini terus terisi apabila data bertambah.',
@@ -97,6 +99,7 @@ const stats = await siteStats(locale);
           'مرتبة حسب زيارات القراء ومحدَّثة يومياً. المقالات التي لم تُتتبَّع بعد مرتبة حسب أحدث تحديث، فتمتلئ القائمة مع نمو بيانات التحليلات.',
           'पाठकों की विज़िट के आधार पर क्रमबद्ध और प्रतिदिन ताज़ा किया जाता है। जिन लेखों को अभी तक ट्रैक नहीं किया गया है उन्हें सबसे हाल के अपडेट के अनुसार क्रमबद्ध किया गया है, इसलिए विश्लेषण डेटा बढ़ने के साथ यह सूची भरती जाती है।',
           'Clasificados por las visitas de los lectores y actualizados a diario. Los artículos aún no rastreados se ordenan por su actualización más reciente, de modo que la lista se va completando a medida que crecen las analíticas.',
+          "Classés selon les visites des lecteurs et actualisés chaque jour. Les articles pas encore suivis sont triés par date de dernière mise à jour ; la liste se remplit donc à mesure que les statistiques s'étoffent.",
         )}
   </p>
 </section>

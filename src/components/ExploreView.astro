@@ -13,7 +13,7 @@ interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const stats = await siteStats(locale);
 
 const items = await articlesForLocale(locale);
@@ -40,10 +40,10 @@ const ways = exploreFeatures(locale).filter((f) => !STRIP_HREFS.has(f.href));
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'मुखपृष्ठ', 'Inicio'), href: localePath('/', locale) },
-    { label: L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探す', '탐색', 'สำรวจ', 'Khám phá', 'Jelajahi', 'استكشف', 'अन्वेषण करें', 'Explorar') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'मुखपृष्ठ', 'Inicio', 'Accueil'), href: localePath('/', locale) },
+    { label: L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探す', '탐색', 'สำรวจ', 'Khám phá', 'Jelajahi', 'استكشف', 'अन्वेषण करें', 'Explorar', 'Explorer') },
   ]}
-  title={L('Terokai NegaraKu.md', 'Explore NegaraKu.md', '探索 NegaraKu.md', 'NegaraKu.md ஐ ஆராயுங்கள்', 'NegaraKu.md を探す', 'NegaraKu.md 탐색', 'สำรวจ NegaraKu.md', 'Khám phá NegaraKu.md', 'Jelajahi NegaraKu.md', 'استكشف NegaraKu.md', 'NegaraKu.md का अन्वेषण करें', 'Explora NegaraKu.md')}
+  title={L('Terokai NegaraKu.md', 'Explore NegaraKu.md', '探索 NegaraKu.md', 'NegaraKu.md ஐ ஆராயுங்கள்', 'NegaraKu.md を探す', 'NegaraKu.md 탐색', 'สำรวจ NegaraKu.md', 'Khám phá NegaraKu.md', 'Jelajahi NegaraKu.md', 'استكشف NegaraKu.md', 'NegaraKu.md का अन्वेषण करें', 'Explora NegaraKu.md', 'Explorer NegaraKu.md')}
   desc={L(
     'Mula di sini — cari, terokai mengikut tonggak, atau lompat terus ke yang popular.',
     'Start here — search, browse by pillar, or jump straight to what’s popular.',
@@ -57,6 +57,7 @@ const ways = exploreFeatures(locale).filter((f) => !STRIP_HREFS.has(f.href));
     'ابدأ من هنا — ابحث، أو تصفّح حسب الركيزة، أو انتقل مباشرة إلى الأكثر رواجًا.',
     'यहाँ से शुरू करें — खोजें, स्तंभ के अनुसार देखें, या सीधे लोकप्रिय सामग्री पर जाएँ।',
     'Empieza aquí — busca, explora por pilar o salta directamente a lo más popular.',
+    'Commencez ici : recherchez, parcourez par pilier ou accédez directement aux contenus les plus populaires.',
   )}
   stats={[stat.pillars(stats.sections, locale), stat.categories(stats.categories, locale), stat.subcategories(stats.topics, locale), stat.topics(stats.articles, locale)]}
 />
@@ -86,7 +87,7 @@ const ways = exploreFeatures(locale).filter((f) => !STRIP_HREFS.has(f.href));
     <header>
       <span>
         <span class="pi" aria-hidden="true">🗺️</span>
-        {L('Tonggak', 'Pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'Trụ cột', 'Pilar', 'الركائز', 'स्तंभ', 'Pilares')}
+        {L('Tonggak', 'Pillars', '支柱', 'தூண்கள்', '柱', '기둥', 'เสาหลัก', 'Trụ cột', 'Pilar', 'الركائز', 'स्तंभ', 'Pilares', 'Piliers')}
       </span>
       <span>{PILLARS.length}</span>
     </header>
@@ -113,7 +114,7 @@ const ways = exploreFeatures(locale).filter((f) => !STRIP_HREFS.has(f.href));
     <header>
       <span>
         <span class="pi" aria-hidden="true">✨</span>
-        {L('Cara lain untuk meneroka', 'More ways to explore', '更多探索方式', 'ஆராய மேலும் வழிகள்', 'ほかの探し方', '더 많은 탐색 방법', 'วิธีสำรวจเพิ่มเติม', 'Thêm cách khám phá', 'Cara lain untuk menjelajah', 'طرق أخرى للاستكشاف', 'अन्वेषण के और तरीके', 'Más formas de explorar')}
+        {L('Cara lain untuk meneroka', 'More ways to explore', '更多探索方式', 'ஆராய மேலும் வழிகள்', 'ほかの探し方', '더 많은 탐색 방법', 'วิธีสำรวจเพิ่มเติม', 'Thêm cách khám phá', 'Cara lain untuk menjelajah', 'طرق أخرى للاستكشاف', 'अन्वेषण के और तरीके', 'Más formas de explorar', "Autres façons d'explorer")}
       </span>
     </header>
     <div class="psec-body">

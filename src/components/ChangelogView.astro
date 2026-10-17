@@ -12,14 +12,14 @@ interface Props {
 }
 const { locale } = Astro.props;
 const c = getChangelog();
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string) => (locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const typeLabel: Record<string, string> = {
-  feature: L('Ciri', 'Features', '功能', 'அம்சங்கள்', '機能', '기능', 'ฟีเจอร์', 'Tính năng', 'Fitur', 'الميزات', 'सुविधाएँ', 'Funciones'),
-  fix: L('Pembetulan', 'Fixes', '修复', 'திருத்தங்கள்', '修正', '수정', 'การแก้ไข', 'Sửa lỗi', 'Perbaikan', 'الإصلاحات', 'सुधार', 'Correcciones'),
-  content: L('Kandungan', 'Content', '内容', 'உள்ளடக்கம்', 'コンテンツ', '콘텐츠', 'เนื้อหา', 'Nội dung', 'Konten', 'المحتوى', 'सामग्री', 'Contenido'),
-  translate: L('Terjemahan', 'Translation', '翻译', 'மொழிபெயர்ப்பு', '翻訳', '번역', 'การแปล', 'Bản dịch', 'Terjemahan', 'الترجمة', 'अनुवाद', 'Traducción'),
-  chore: L('Penyelenggaraan', 'Maintenance', '维护', 'பராமரிப்பு', 'メンテナンス', '유지보수', 'การบำรุงรักษา', 'Bảo trì', 'Pemeliharaan', 'الصيانة', 'रखरखाव', 'Mantenimiento'),
+  feature: L('Ciri', 'Features', '功能', 'அம்சங்கள்', '機能', '기능', 'ฟีเจอร์', 'Tính năng', 'Fitur', 'الميزات', 'सुविधाएँ', 'Funciones', 'Fonctionnalités'),
+  fix: L('Pembetulan', 'Fixes', '修复', 'திருத்தங்கள்', '修正', '수정', 'การแก้ไข', 'Sửa lỗi', 'Perbaikan', 'الإصلاحات', 'सुधार', 'Correcciones', 'Corrections'),
+  content: L('Kandungan', 'Content', '内容', 'உள்ளடக்கம்', 'コンテンツ', '콘텐츠', 'เนื้อหา', 'Nội dung', 'Konten', 'المحتوى', 'सामग्री', 'Contenido', 'Contenu'),
+  translate: L('Terjemahan', 'Translation', '翻译', 'மொழிபெயர்ப்பு', '翻訳', '번역', 'การแปล', 'Bản dịch', 'Terjemahan', 'الترجمة', 'अनुवाद', 'Traducción', 'Traduction'),
+  chore: L('Penyelenggaraan', 'Maintenance', '维护', 'பராமரிப்பு', 'メンテナンス', '유지보수', 'การบำรุงรักษา', 'Bảo trì', 'Pemeliharaan', 'الصيانة', 'रखरखाव', 'Mantenimiento', 'Maintenance'),
 };
 
 // Flatten day-grouped commits into one row list (newest first), the same shape
@@ -40,17 +40,17 @@ const rows = c.days.flatMap((day) =>
 
 const present = Object.keys(typeLabel).filter((k) => rows.some((r) => r.type === k));
 const filters = [
-  { key: '', label: L('Semua', 'All', '全部', 'அனைத்தும்', 'すべて', '전체', 'ทั้งหมด', 'Tất cả', 'Semua', 'الكل', 'सभी', 'Todos'), count: rows.length },
+  { key: '', label: L('Semua', 'All', '全部', 'அனைத்தும்', 'すべて', '전체', 'ทั้งหมด', 'Tất cả', 'Semua', 'الكل', 'सभी', 'Todos', 'Tous'), count: rows.length },
   ...present.map((k) => ({ key: k, label: typeLabel[k], count: rows.filter((r) => r.type === k).length })),
 ];
 
 const I18N = {
-  type: L('Jenis', 'Type', '类型', 'வகை', '種類', '유형', 'ประเภท', 'Loại', 'Jenis', 'النوع', 'प्रकार', 'Tipo'),
-  category: L('Kategori', 'Category', '分类', 'பிரிவு', 'カテゴリー', '카테고리', 'หมวดหมู่', 'Danh mục', 'Kategori', 'الفئة', 'श्रेणी', 'Categoría'),
-  contributor: L('Penyumbang', 'Contributor', '贡献者', 'பங்களிப்பாளர்', '貢献者', '기여자', 'ผู้มีส่วนร่วม', 'Người đóng góp', 'Kontributor', 'المساهم', 'योगदानकर्ता', 'Colaborador'),
-  date: L('Tarikh', 'Date', '日期', 'தேதி', '日付', '날짜', 'วันที่', 'Ngày', 'Tanggal', 'التاريخ', 'तारीख', 'Fecha'),
-  commit: L('Komit', 'Commit', '提交', 'கமிட்', 'コミット', '커밋', 'คอมมิต', 'Commit', 'Komit', 'Commit', 'कमिट', 'Commit'),
-  none: L('Tiada rekod.', 'No entries.', '没有记录。', 'பதிவுகள் இல்லை.', '記録はありません。', '항목이 없습니다.', 'ไม่มีรายการ', 'Không có mục nào.', 'Tidak ada catatan.', 'لا توجد مدخلات.', 'कोई प्रविष्टि नहीं।', 'Sin entradas.'),
+  type: L('Jenis', 'Type', '类型', 'வகை', '種類', '유형', 'ประเภท', 'Loại', 'Jenis', 'النوع', 'प्रकार', 'Tipo', 'Type'),
+  category: L('Kategori', 'Category', '分类', 'பிரிவு', 'カテゴリー', '카테고리', 'หมวดหมู่', 'Danh mục', 'Kategori', 'الفئة', 'श्रेणी', 'Categoría', 'Catégorie'),
+  contributor: L('Penyumbang', 'Contributor', '贡献者', 'பங்களிப்பாளர்', '貢献者', '기여자', 'ผู้มีส่วนร่วม', 'Người đóng góp', 'Kontributor', 'المساهم', 'योगदानकर्ता', 'Colaborador', 'Contributeur'),
+  date: L('Tarikh', 'Date', '日期', 'தேதி', '日付', '날짜', 'วันที่', 'Ngày', 'Tanggal', 'التاريخ', 'तारीख', 'Fecha', 'Date'),
+  commit: L('Komit', 'Commit', '提交', 'கமிட்', 'コミット', '커밋', 'คอมมิต', 'Commit', 'Komit', 'Commit', 'कमिट', 'Commit', 'Commit'),
+  none: L('Tiada rekod.', 'No entries.', '没有记录。', 'பதிவுகள் இல்லை.', '記録はありません。', '항목이 없습니다.', 'ไม่มีรายการ', 'Không có mục nào.', 'Tidak ada catatan.', 'لا توجد مدخلات.', 'कोई प्रविष्टि नहीं।', 'Sin entradas.', 'Aucune entrée.'),
   contributorsUrl: localePath('/contributors', locale),
 };
 
@@ -69,16 +69,17 @@ const enNote = L(
   'أوصاف التغييرات بالإنجليزية — لغة عمل المشروع؛ أما الواجهة المحيطة بها فمترجمة.',
   'परिवर्तन विवरण अंग्रेज़ी में हैं — परियोजना की कार्य भाषा; उनके आस-पास का इंटरफ़ेस अनूदित है।',
   'Las descripciones de los cambios están en inglés — la lengua de trabajo del proyecto; la interfaz que las rodea está traducida.',
+  "Les descriptions des modifications sont en anglais, langue de travail du projet ; l'interface qui les entoure est traduite.",
 );
 ---
 
 <PageHero
   locale={locale}
   crumb={[
-    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الرئيسية', 'मुख्य पृष्ठ', 'Inicio'), href: localePath('/', locale) },
-    { label: L('Log Perubahan', 'Changelog', '更新日志', 'மாற்றப் பதிவேடு', '変更履歴', '변경 이력', 'บันทึกการเปลี่ยนแปลง', 'Nhật ký thay đổi', 'Log Perubahan', 'سجل التغييرات', 'परिवर्तन लॉग', 'Registro de cambios') },
+    { label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الرئيسية', 'मुख्य पृष्ठ', 'Inicio', 'Accueil'), href: localePath('/', locale) },
+    { label: L('Log Perubahan', 'Changelog', '更新日志', 'மாற்றப் பதிவேடு', '変更履歴', '변경 이력', 'บันทึกการเปลี่ยนแปลง', 'Nhật ký thay đổi', 'Log Perubahan', 'سجل التغييرات', 'परिवर्तन लॉग', 'Registro de cambios', 'Journal des modifications') },
   ]}
-  title={L('Log Perubahan', 'Changelog', '更新日志', 'மாற்றப் பதிவேடு', '変更履歴', '변경 이력', 'บันทึกการเปลี่ยนแปลง', 'Nhật ký thay đổi', 'Log Perubahan', 'سجل التغييرات', 'परिवर्तन लॉग', 'Registro de cambios')}
+  title={L('Log Perubahan', 'Changelog', '更新日志', 'மாற்றப் பதிவேடு', '変更履歴', '변경 이력', 'บันทึกการเปลี่ยนแปลง', 'Nhật ký thay đổi', 'Log Perubahan', 'سجل التغييرات', 'परिवर्तन लॉग', 'Registro de cambios', 'Journal des modifications')}
   desc={L(
     'Setiap perubahan pada NegaraKu.md — kandungan, terjemahan dan penambahbaikan — mengikut tarikh dan penyumbang.',
     'Every change to NegaraKu.md — content, translations and improvements — by date and contributor.',
@@ -92,6 +93,7 @@ const enNote = L(
     'كل تغيير على NegaraKu.md — المحتوى والترجمات والتحسينات — حسب التاريخ والمساهم.',
     'NegaraKu.md में हर परिवर्तन — सामग्री, अनुवाद और सुधार — तारीख और योगदानकर्ता के अनुसार।',
     'Cada cambio en NegaraKu.md — contenido, traducciones y mejoras — por fecha y colaborador.',
+    'Chaque modification de NegaraKu.md — contenu, traductions et améliorations — par date et par contributeur.',
   )}
   stats={[stat.updates(c.total, locale), stat.types(filters.length - 1, locale), stat.content((c.tally.content ?? 0) + (c.tally.translate ?? 0), locale)]}
 />
@@ -100,14 +102,14 @@ const enNote = L(
   <p class="cl-note">{enNote}</p>
   <div class="art-toolbar">
     <div class="tb-line">
-      <span class="tb-label">{L('Isih', 'Sort', '排序', 'வரிசைப்படுத்து', '並び替え', '정렬', 'จัดเรียง', 'Sắp xếp', 'Urutkan', 'الترتيب', 'क्रमबद्ध करें', 'Ordenar')}</span>
+      <span class="tb-label">{L('Isih', 'Sort', '排序', 'வரிசைப்படுத்து', '並び替え', '정렬', 'จัดเรียง', 'Sắp xếp', 'Urutkan', 'الترتيب', 'क्रमबद्ध करें', 'Ordenar', 'Trier')}</span>
       <div class="tabs" role="tablist">
-        <button class="tab on" data-dir="desc">{L('Terkini', 'Latest', '最新', 'சமீபத்தியது', '最新', '최신', 'ล่าสุด', 'Mới nhất', 'Terbaru', 'الأحدث', 'नवीनतम', 'Más reciente')}</button>
-        <button class="tab" data-dir="asc">{L('Terlama', 'Oldest', '最早', 'பழையது', '最古', '오래된순', 'เก่าสุด', 'Cũ nhất', 'Terlama', 'الأقدم', 'सबसे पुराना', 'Más antiguo')}</button>
+        <button class="tab on" data-dir="desc">{L('Terkini', 'Latest', '最新', 'சமீபத்தியது', '最新', '최신', 'ล่าสุด', 'Mới nhất', 'Terbaru', 'الأحدث', 'नवीनतम', 'Más reciente', 'Plus récent')}</button>
+        <button class="tab" data-dir="asc">{L('Terlama', 'Oldest', '最早', 'பழையது', '最古', '오래된순', 'เก่าสุด', 'Cũ nhất', 'Terlama', 'الأقدم', 'सबसे पुराना', 'Más antiguo', 'Plus ancien')}</button>
       </div>
     </div>
     <div class="tb-line">
-      <span class="tb-label">{L('Jenis', 'Type', '类型', 'வகை', '種類', '유형', 'ประเภท', 'Loại', 'Jenis', 'النوع', 'प्रकार', 'Tipo')}</span>
+      <span class="tb-label">{L('Jenis', 'Type', '类型', 'வகை', '種類', '유형', 'ประเภท', 'Loại', 'Jenis', 'النوع', 'प्रकार', 'Tipo', 'Type')}</span>
       <div class="tabs">
         {filters.map((f) => (
           <button class={`tab${f.key === '' ? ' on' : ''}`} data-type={f.key}>
@@ -117,14 +119,14 @@ const enNote = L(
       </div>
     </div>
     <div class="tb-line">
-      <span class="tb-label">{L('Cari', 'Search', '搜索', 'தேடு', '検索', '검색', 'ค้นหา', 'Tìm kiếm', 'Cari', 'بحث', 'खोज', 'Buscar')}</span>
-      <input id="cl-q" type="search" placeholder={L('Cari perubahan…', 'Search changes…', '搜索变更…', 'மாற்றங்களைத் தேடு…', '変更を検索…', '변경 사항 검색…', 'ค้นหาการเปลี่ยนแปลง…', 'Tìm kiếm thay đổi…', 'Cari perubahan…', 'ابحث في التغييرات…', 'परिवर्तन खोजें…', 'Buscar cambios…')} />
+      <span class="tb-label">{L('Cari', 'Search', '搜索', 'தேடு', '検索', '검색', 'ค้นหา', 'Tìm kiếm', 'Cari', 'بحث', 'खोज', 'Buscar', 'Rechercher')}</span>
+      <input id="cl-q" type="search" placeholder={L('Cari perubahan…', 'Search changes…', '搜索变更…', 'மாற்றங்களைத் தேடு…', '変更を検索…', '변경 사항 검색…', 'ค้นหาการเปลี่ยนแปลง…', 'Tìm kiếm thay đổi…', 'Cari perubahan…', 'ابحث في التغييرات…', 'परिवर्तन खोजें…', 'Buscar cambios…', 'Rechercher des modifications…')} />
     </div>
   </div>
 
   <div class="pager pager-top">
     <div class="pg-size">
-      <label>{L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'صفوف', 'पंक्तियाँ', 'Filas')}
+      <label>{L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'صفوف', 'पंक्तियाँ', 'Filas', 'Lignes')}
         <select class="pg-size-sel">
           <option>25</option>
           <option>50</option>
@@ -134,15 +136,15 @@ const enNote = L(
       <span class="pg-count"></span>
     </div>
     <div class="pg-nav">
-      <button class="pg-first" title={L('Pertama', 'First', '首页', 'முதல்', '最初', '처음', 'แรก', 'Đầu tiên', 'Pertama', 'الأول', 'पहला', 'Primera')}>«</button>
-      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页', 'முந்தையது', '前へ', '이전', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق', 'पिछला', 'Anterior')}>‹</button>
+      <button class="pg-first" title={L('Pertama', 'First', '首页', 'முதல்', '最初', '처음', 'แรก', 'Đầu tiên', 'Pertama', 'الأول', 'पहला', 'Primera', 'Première')}>«</button>
+      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页', 'முந்தையது', '前へ', '이전', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق', 'पिछला', 'Anterior', 'Précédente')}>‹</button>
       <span class="pg-of">
-        {L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'صفحة', 'पृष्ठ', 'Página')}
+        {L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'صفحة', 'पृष्ठ', 'Página', 'Page')}
         <input class="pg-no" type="number" min="1" value="1" />
         / <span class="pg-total">1</span>
       </span>
-      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页', 'அடுத்தது', '次へ', '다음', 'ถัดไป', 'Tiếp theo', 'Berikutnya', 'التالي', 'अगला', 'Siguiente')}>›</button>
-      <button class="pg-last" title={L('Akhir', 'Last', '末页', 'கடைசி', '最後', '마지막', 'สุดท้าย', 'Cuối cùng', 'Terakhir', 'الأخير', 'अंतिम', 'Última')}>»</button>
+      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页', 'அடுத்தது', '次へ', '다음', 'ถัดไป', 'Tiếp theo', 'Berikutnya', 'التالي', 'अगला', 'Siguiente', 'Suivante')}>›</button>
+      <button class="pg-last" title={L('Akhir', 'Last', '末页', 'கடைசி', '最後', '마지막', 'สุดท้าย', 'Cuối cùng', 'Terakhir', 'الأخير', 'अंतिम', 'Última', 'Dernière')}>»</button>
     </div>
   </div>
 
@@ -150,7 +152,7 @@ const enNote = L(
 
   <div class="pager">
     <div class="pg-size">
-      <label>{L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'صفوف', 'पंक्तियाँ', 'Filas')}
+      <label>{L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'صفوف', 'पंक्तियाँ', 'Filas', 'Lignes')}
         <select class="pg-size-sel">
           <option>25</option>
           <option>50</option>
@@ -160,15 +162,15 @@ const enNote = L(
       <span class="pg-count"></span>
     </div>
     <div class="pg-nav">
-      <button class="pg-first" title={L('Pertama', 'First', '首页', 'முதல்', '最初', '처음', 'แรก', 'Đầu tiên', 'Pertama', 'الأول', 'पहला', 'Primera')}>«</button>
-      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页', 'முந்தையது', '前へ', '이전', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق', 'पिछला', 'Anterior')}>‹</button>
+      <button class="pg-first" title={L('Pertama', 'First', '首页', 'முதல்', '最初', '처음', 'แรก', 'Đầu tiên', 'Pertama', 'الأول', 'पहला', 'Primera', 'Première')}>«</button>
+      <button class="pg-prev" title={L('Sebelum', 'Prev', '上一页', 'முந்தையது', '前へ', '이전', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق', 'पिछला', 'Anterior', 'Précédente')}>‹</button>
       <span class="pg-of">
-        {L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'صفحة', 'पृष्ठ', 'Página')}
+        {L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'صفحة', 'पृष्ठ', 'Página', 'Page')}
         <input class="pg-no" type="number" min="1" value="1" />
         / <span class="pg-total">1</span>
       </span>
-      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页', 'அடுத்தது', '次へ', '다음', 'ถัดไป', 'Tiếp theo', 'Berikutnya', 'التالي', 'अगला', 'Siguiente')}>›</button>
-      <button class="pg-last" title={L('Akhir', 'Last', '末页', 'கடைசி', '最後', '마지막', 'สุดท้าย', 'Cuối cùng', 'Terakhir', 'الأخير', 'अंतिम', 'Última')}>»</button>
+      <button class="pg-next" title={L('Seterusnya', 'Next', '下一页', 'அடுத்தது', '次へ', '다음', 'ถัดไป', 'Tiếp theo', 'Berikutnya', 'التالي', 'अगला', 'Siguiente', 'Suivante')}>›</button>
+      <button class="pg-last" title={L('Akhir', 'Last', '末页', 'கடைசி', '最後', '마지막', 'สุดท้าย', 'Cuối cùng', 'Terakhir', 'الأخير', 'अंतिम', 'Última', 'Dernière')}>»</button>
     </div>
   </div>
 
