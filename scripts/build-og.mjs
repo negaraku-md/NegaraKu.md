@@ -84,14 +84,14 @@ const CAT = Object.fromEntries(
 );
 // Sensitivity labels in every launched locale (mirrors src/components/TrustBadge.astro).
 const SENS = {
-  race: { ms: 'Sensitif — kaum', en: 'Sensitive — race', zh: '敏感——种族', ta: 'உணர்திறன் மிக்கது — இனம்', ja: 'センシティブ — 人種', ko: '민감 — 인종', th: 'อ่อนไหว — เชื้อชาติ', vi: 'Nhạy cảm — chủng tộc', id: 'Sensitif — ras', ar: 'حساس — العرق', hi: 'संवेदनशील — नस्ल', es: 'Sensible — raza' },
-  religion: { ms: 'Sensitif — agama', en: 'Sensitive — religion', zh: '敏感——宗教', ta: 'உணர்திறன் மிக்கது — மதம்', ja: 'センシティブ — 宗教', ko: '민감 — 종교', th: 'อ่อนไหว — ศาสนา', vi: 'Nhạy cảm — tôn giáo', id: 'Sensitif — agama', ar: 'حساس — الدين', hi: 'संवेदनशील — धर्म', es: 'Sensible — religión' },
-  royalty: { ms: 'Sensitif — institusi diraja', en: 'Sensitive — royalty', zh: '敏感——王室', ta: 'உணர்திறன் மிக்கது — அரச நிறுவனம்', ja: 'センシティブ — 王室', ko: '민감 — 왕실', th: 'อ่อนไหว — สถาบันพระมหากษัตริย์', vi: 'Nhạy cảm — hoàng gia', id: 'Sensitif — institusi kerajaan', ar: 'حساس — المؤسسة الملكية', hi: 'संवेदनशील — राजसत्ता', es: 'Sensible — realeza' },
-  constitution: { ms: 'Sensitif — perlembagaan', en: 'Sensitive — constitution', zh: '敏感——宪法', ta: 'உணர்திறன் மிக்கது — அரசியலமைப்பு', ja: 'センシティブ — 憲法', ko: '민감 — 헌법', th: 'อ่อนไหว — รัฐธรรมนูญ', vi: 'Nhạy cảm — hiến pháp', id: 'Sensitif — konstitusi', ar: 'حساس — الدستور', hi: 'संवेदनशील — संविधान', es: 'Sensible — constitución' },
-  elections: { ms: 'Sensitif — pilihan raya', en: 'Sensitive — elections', zh: '敏感——选举', ta: 'உணர்திறன் மிக்கது — தேர்தல்கள்', ja: 'センシティブ — 選挙', ko: '민감 — 선거', th: 'อ่อนไหว — การเลือกตั้ง', vi: 'Nhạy cảm — bầu cử', id: 'Sensitif — pemilu', ar: 'حساس — الانتخابات', hi: 'संवेदनशील — चुनाव', es: 'Sensible — elecciones' },
-  security: { ms: 'Sensitif — keselamatan', en: 'Sensitive — security', zh: '敏感——安全', ta: 'உணர்திறன் மிக்கது — பாதுகாப்பு', ja: 'センシティブ — 安全保障', ko: '민감 — 안보', th: 'อ่อนไหว — ความมั่นคง', vi: 'Nhạy cảm — an ninh', id: 'Sensitif — keamanan', ar: 'حساس — الأمن', hi: 'संवेदनशील — सुरक्षा', es: 'Sensible — seguridad' },
-  health: { ms: 'Sensitif — kesihatan', en: 'Sensitive — health', zh: '敏感——健康', ta: 'உணர்திறன் மிக்கது — சுகாதாரம்', ja: 'センシティブ — 健康', ko: '민감 — 건강', th: 'อ่อนไหว — สุขภาพ', vi: 'Nhạy cảm — sức khỏe', id: 'Sensitif — kesehatan', ar: 'حساس — الصحة', hi: 'संवेदनशील — स्वास्थ्य', es: 'Sensible — salud' },
-  'legal-proceedings': { ms: 'Sensitif — perundangan', en: 'Sensitive — legal', zh: '敏感——法律程序', ta: 'உணர்திறன் மிக்கது — சட்டம்', ja: 'センシティブ — 法律', ko: '민감 — 법률', th: 'อ่อนไหว — กฎหมาย', vi: 'Nhạy cảm — pháp lý', id: 'Sensitif — hukum', ar: 'حساس — الشؤون القانونية', hi: 'संवेदनशील — कानूनी', es: 'Sensible — legal' },
+  race: { ms: 'Sensitif — kaum', en: 'Sensitive — race', zh: '敏感——种族', ta: 'உணர்திறன் மிக்கது — இனம்', ja: 'センシティブ — 人種', ko: '민감 — 인종', th: 'อ่อนไหว — เชื้อชาติ', vi: 'Nhạy cảm — chủng tộc', id: 'Sensitif — ras', ar: 'حساس — العرق', hi: 'संवेदनशील — नस्ल', es: 'Sensible — raza', fr: 'Sensible — race' },
+  religion: { ms: 'Sensitif — agama', en: 'Sensitive — religion', zh: '敏感——宗教', ta: 'உணர்திறன் மிக்கது — மதம்', ja: 'センシティブ — 宗教', ko: '민감 — 종교', th: 'อ่อนไหว — ศาสนา', vi: 'Nhạy cảm — tôn giáo', id: 'Sensitif — agama', ar: 'حساس — الدين', hi: 'संवेदनशील — धर्म', es: 'Sensible — religión', fr: 'Sensible — religion' },
+  royalty: { ms: 'Sensitif — institusi diraja', en: 'Sensitive — royalty', zh: '敏感——王室', ta: 'உணர்திறன் மிக்கது — அரச நிறுவனம்', ja: 'センシティブ — 王室', ko: '민감 — 왕실', th: 'อ่อนไหว — สถาบันพระมหากษัตริย์', vi: 'Nhạy cảm — hoàng gia', id: 'Sensitif — institusi kerajaan', ar: 'حساس — المؤسسة الملكية', hi: 'संवेदनशील — राजसत्ता', es: 'Sensible — realeza', fr: 'Sensible — royauté' },
+  constitution: { ms: 'Sensitif — perlembagaan', en: 'Sensitive — constitution', zh: '敏感——宪法', ta: 'உணர்திறன் மிக்கது — அரசியலமைப்பு', ja: 'センシティブ — 憲法', ko: '민감 — 헌법', th: 'อ่อนไหว — รัฐธรรมนูญ', vi: 'Nhạy cảm — hiến pháp', id: 'Sensitif — konstitusi', ar: 'حساس — الدستور', hi: 'संवेदनशील — संविधान', es: 'Sensible — constitución', fr: 'Sensible — constitution' },
+  elections: { ms: 'Sensitif — pilihan raya', en: 'Sensitive — elections', zh: '敏感——选举', ta: 'உணர்திறன் மிக்கது — தேர்தல்கள்', ja: 'センシティブ — 選挙', ko: '민감 — 선거', th: 'อ่อนไหว — การเลือกตั้ง', vi: 'Nhạy cảm — bầu cử', id: 'Sensitif — pemilu', ar: 'حساس — الانتخابات', hi: 'संवेदनशील — चुनाव', es: 'Sensible — elecciones', fr: 'Sensible — élections' },
+  security: { ms: 'Sensitif — keselamatan', en: 'Sensitive — security', zh: '敏感——安全', ta: 'உணர்திறன் மிக்கது — பாதுகாப்பு', ja: 'センシティブ — 安全保障', ko: '민감 — 안보', th: 'อ่อนไหว — ความมั่นคง', vi: 'Nhạy cảm — an ninh', id: 'Sensitif — keamanan', ar: 'حساس — الأمن', hi: 'संवेदनशील — सुरक्षा', es: 'Sensible — seguridad', fr: 'Sensible — sécurité' },
+  health: { ms: 'Sensitif — kesihatan', en: 'Sensitive — health', zh: '敏感——健康', ta: 'உணர்திறன் மிக்கது — சுகாதாரம்', ja: 'センシティブ — 健康', ko: '민감 — 건강', th: 'อ่อนไหว — สุขภาพ', vi: 'Nhạy cảm — sức khỏe', id: 'Sensitif — kesehatan', ar: 'حساس — الصحة', hi: 'संवेदनशील — स्वास्थ्य', es: 'Sensible — salud', fr: 'Sensible — santé' },
+  'legal-proceedings': { ms: 'Sensitif — perundangan', en: 'Sensitive — legal', zh: '敏感——法律程序', ta: 'உணர்திறன் மிக்கது — சட்டம்', ja: 'センシティブ — 法律', ko: '민감 — 법률', th: 'อ่อนไหว — กฎหมาย', vi: 'Nhạy cảm — pháp lý', id: 'Sensitif — hukum', ar: 'حساس — الشؤون القانونية', hi: 'संवेदनशील — कानूनी', es: 'Sensible — legal', fr: 'Sensible — juridique' },
 };
 
 // Localized taxonomy PARSED from the real source (src/lib), so the breadcrumb reads
@@ -125,12 +125,12 @@ const SUBCATS = (() => {                          // subcategory id → localize
 // Pick a localized value with fallback: target → en → ms.
 const loc = (obj, lang) => (obj ? (obj[lang] || obj.en || obj.ms) : undefined);
 // UI-string helper for labels baked into the card (mirrors the site's L()).
-const L = (lang, ms, en, zh, ta, ja, ko, th, vi, id, ar, hi, es) => ({ ms, en, zh, ta, ja, ko, th, vi, id, ar, hi, es }[lang] ?? en ?? ms);
+const L = (lang, ms, en, zh, ta, ja, ko, th, vi, id, ar, hi, es, fr) => ({ ms, en, zh, ta, ja, ko, th, vi, id, ar, hi, es, fr }[lang] ?? en ?? ms);
 const fmtDate = (iso, lang) => {
   if (!iso) return null;
   try {
     return new Date(iso).toLocaleDateString(
-      lang === 'zh' ? 'zh-CN' : lang === 'ms' ? 'ms-MY' : lang === 'ta' ? 'ta-MY' : lang === 'ja' ? 'ja-JP' : lang === 'ko' ? 'ko-KR' : lang === 'th' ? 'th-TH' : lang === 'vi' ? 'vi-VN' : lang === 'es' ? 'es-ES' : 'en-GB',
+      lang === 'zh' ? 'zh-CN' : lang === 'ms' ? 'ms-MY' : lang === 'ta' ? 'ta-MY' : lang === 'ja' ? 'ja-JP' : lang === 'ko' ? 'ko-KR' : lang === 'th' ? 'th-TH' : lang === 'vi' ? 'vi-VN' : lang === 'es' ? 'es-ES' : lang === 'fr' ? 'fr-FR' : 'en-GB',
       { day: 'numeric', month: 'short', year: 'numeric' });
   } catch { return iso; }
 };
@@ -177,16 +177,16 @@ function articleSvg(a) {
   const overdue = a.reviewDue && new Date(a.reviewDue) < NOW;
   const chipDefs = [];
   chipDefs.push(a.mode === 'narrative'
-    ? [L(lang, 'Naratif', 'Narrative', '叙事', 'கதையாடல்', '物語', '서사', 'เชิงบรรยาย', 'Tường thuật', 'Naratif', 'سردي', 'वर्णनात्मक', 'Narrativo'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']
-    : [L(lang, 'Praktikal', 'Practical', '实用', 'நடைமுறை', '実用', '실용', 'เชิงปฏิบัติ', 'Thực tiễn', 'Praktis', 'عملي', 'व्यावहारिक', 'Práctico'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']);
+    ? [L(lang, 'Naratif', 'Narrative', '叙事', 'கதையாடல்', '物語', '서사', 'เชิงบรรยาย', 'Tường thuật', 'Naratif', 'سردي', 'वर्णनात्मक', 'Narrativo', 'Narratif'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']
+    : [L(lang, 'Praktikal', 'Practical', '实用', 'நடைமுறை', '実用', '실용', 'เชิงปฏิบัติ', 'Thực tiễn', 'Praktis', 'عملي', 'व्यावहारिक', 'Práctico', 'Pratique'), '#60a5fa', 'rgba(96,165,250,.4)', 'rgba(96,165,250,.12)']);
   if (a.sensitivity && a.sensitivity !== 'none' && SENS[a.sensitivity])
     chipDefs.push([loc(SENS[a.sensitivity], lang), '#f87171', 'rgba(248,113,113,.45)', 'rgba(248,113,113,.12)']);
   if (pubDate)
-    chipDefs.push([`${L(lang, 'Diterbitkan', 'Published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '공개됨', 'เผยแพร่แล้ว', 'Đã xuất bản', 'Diterbitkan', 'منشور', 'प्रकाशित', 'Publicado')}: ${pubDate}`, '#4ade80', 'rgba(74,222,128,.4)', 'rgba(74,222,128,.12)']);
+    chipDefs.push([`${L(lang, 'Diterbitkan', 'Published', '已发布', 'வெளியிடப்பட்டது', '公開済み', '공개됨', 'เผยแพร่แล้ว', 'Đã xuất bản', 'Diterbitkan', 'منشور', 'प्रकाशित', 'Publicado', 'Publié')}: ${pubDate}`, '#4ade80', 'rgba(74,222,128,.4)', 'rgba(74,222,128,.12)']);
   if (a.reviewDue) {
     const label = overdue
-      ? L(lang, 'Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமாகிவிட்டது', 'レビュー期限超過', '검토 기한 초과', 'เกินกำหนดตรวจทาน', 'Quá hạn duyệt', 'Tinjauan terlambat', 'مراجعة متأخرة', 'समीक्षा बकाया', 'Revisión vencida')
-      : L(lang, 'Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு', '次回レビュー', '다음 검토', 'การตรวจทานครั้งถัดไป', 'Lần duyệt tiếp theo', 'Tinjauan berikutnya', 'المراجعة التالية', 'अगली समीक्षा', 'Próxima revisión');
+      ? L(lang, 'Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமாகிவிட்டது', 'レビュー期限超過', '검토 기한 초과', 'เกินกำหนดตรวจทาน', 'Quá hạn duyệt', 'Tinjauan terlambat', 'مراجعة متأخرة', 'समीक्षा बकाया', 'Revisión vencida', 'Révision en retard')
+      : L(lang, 'Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு', '次回レビュー', '다음 검토', 'การตรวจทานครั้งถัดไป', 'Lần duyệt tiếp theo', 'Tinjauan berikutnya', 'المراجعة التالية', 'अगली समीक्षा', 'Próxima revisión', 'Prochaine révision');
     chipDefs.push([`${label}: ${fmtDate(a.reviewDue, lang)}`,
       overdue ? '#f87171' : '#9A9AB8', overdue ? 'rgba(248,113,113,.5)' : 'rgba(99,99,108,.9)', overdue ? 'rgba(248,113,113,.12)' : '#141419']);
   }
@@ -226,7 +226,7 @@ function articleSvg(a) {
   <text x="${EDGE}" y="${sStart}" text-anchor="${ANCHOR}" font-family="${BODY_FONT}" font-size="25" fill="#9A9AB8">${sSpans}</text>
   ${badge(RX, 70, 78)}
   <text x="${RX}" y="150" text-anchor="middle" font-family="${TITLE_FONT}" font-size="27" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
-  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚', 'AI-நட்பு மலேசியா', 'AIフレンドリーなマレーシア', 'AI 친화적인 말레이시아', 'มาเลเซียที่เป็นมิตรกับ AI', 'Malaysia thân thiện với AI', 'Malaysia ramah-AI', 'ماليزيا صديقة لـ AI', 'AI-अनुकूल मलेशिया', 'Malasia amigable con la IA')}</text>
+  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚', 'AI-நட்பு மலேசியா', 'AIフレンドリーなマレーシア', 'AI 친화적인 말레이시아', 'มาเลเซียที่เป็นมิตรกับ AI', 'Malaysia thân thiện với AI', 'Malaysia ramah-AI', 'ماليزيا صديقة لـ AI', 'AI-अनुकूल मलेशिया', 'Malasia amigable con la IA', "Malaisie adaptée à l'IA")}</text>
 </svg>`;
 }
 
