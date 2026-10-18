@@ -48,7 +48,10 @@ function urlFor(lang, category, slug) {
   return `${SITE}${prefix}/${category}/${slug}/`;
 }
 
-const rows = { ms: [], en: [], zh: [], ta: [], ja: [] };
+// One bucket per supported language (derive from LANGS so new languages never
+// get a `rows[lang] is undefined` crash — the old hard-coded 5-key object broke
+// the export as soon as ko/th/… were added).
+const rows = Object.fromEntries(LANGS.map((l) => [l, []]));
 let scanned = 0, skipped = 0;
 
 for (const file of walk(KNOWLEDGE)) {
@@ -109,15 +112,13 @@ const perLangConfigs = LANGS.map(
 ).join('\n');
 
 const counts = LANGS.map((l) => `\`${l}\`: ${rows[l].length}`).join(' · ');
+const langYaml = LANGS.map((l) => `- ${l}`).join('\n');
+const langCodes = LANGS.map((l) => `\`${l}\``).join(' · ');
 
 const card = `---
 license: cc-by-sa-4.0
 language:
-- ms
-- en
-- zh
-- ta
-- ja
+${langYaml}
 multilinguality:
 - multilingual
 pretty_name: NegaraKu.md — Malaysia Knowledge Base
@@ -145,7 +146,7 @@ ${perLangConfigs}
 
 # NegaraKu.md — an open, AI-friendly knowledge base about Malaysia
 
-**${total.toLocaleString()} articles** across five languages (${counts}), covering
+**${total.toLocaleString()} articles** across ${LANGS.length} languages (${counts}), covering
 government, law, taxation, business, companies, culture, geography, history,
 healthcare, education, and daily life in Malaysia. Every article is
 human-reviewable, cited, and released under a permissive licence so it can be
@@ -168,7 +169,7 @@ about Malaysia**, from primary and authoritative sources.
 | \`category\` / \`subcategory\` | taxonomy |
 | \`tier\` | editorial importance tier |
 | \`content_type\` | e.g. guide, place, concept |
-| \`language\` | \`ms\` · \`en\` · \`zh\` · \`ta\` · \`ja\` |
+| \`language\` | ${langCodes} |
 | \`url\` | canonical URL on negaraku.md |
 | \`entity\` | the primary entity the article is about |
 | \`wikidata\` | the entity's Wikidata QID, when known (${withQid} rows) — links each article to the global knowledge graph |
@@ -191,7 +192,7 @@ en = load_dataset("${HF_REPO}", "en", split="train")
 
 ## Languages
 
-\`ms\` Bahasa Melayu (default) · \`en\` English · \`zh\` 中文 · \`ta\` தமிழ் · \`ja\` 日本語.
+${langCodes} — Bahasa Melayu (\`ms\`) is the default and serves at the site root.
 Language versions of the same article share a \`topic_id\`.
 
 ## Licence & attribution
