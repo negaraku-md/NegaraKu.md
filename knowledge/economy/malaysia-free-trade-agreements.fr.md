@@ -32,10 +32,11 @@ faq:
     a: "Oui. La Malaisie et l'UE ont repris les négociations d'ALE en janvier 2025, et la Malaisie a conclu un accord de partenariat économique avec les États de l'AELE (Islande, Liechtenstein, Norvège, Suisse) le 11 avril 2025."
 
 lang: "fr"
+sourceContentHash: "7239744fcdcf2f73"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

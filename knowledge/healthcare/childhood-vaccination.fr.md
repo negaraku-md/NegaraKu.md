@@ -25,10 +25,11 @@ verificationNeeded:
   - "Les détails des vaccins supplémentaires/facultatifs (par exemple, les vaccins non obligatoires fournis moyennant paiement) n'ont pas pu être vérifiés au regard des sources officielles du KKM au moment de la rédaction, et ne sont donc pas spécifiquement indiqués dans cet article."
 
 lang: "fr"
+sourceContentHash: "e3c51524a621f167"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

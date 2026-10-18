@@ -26,10 +26,11 @@ verificationNeeded:
   - "The Court of Appeal decision upholding the subsidiaries point is reported as 27 September 2023; the written grounds were not located on an official judiciary source"
 
 lang: "fr"
+sourceContentHash: "0aa2b1460e10e990"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

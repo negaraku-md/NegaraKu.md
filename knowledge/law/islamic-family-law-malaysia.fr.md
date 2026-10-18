@@ -30,12 +30,13 @@ faq:
     a: "Au titre de la section 81 de l'Act 303, la mère est la personne la plus en droit d'exercer le hadhanah d'un enfant en bas âge. Si la mère est disqualifiée sous la loi islamique, le droit passe selon l'ordre de priorité prescrit, le bien-être de l'enfant étant la considération primordiale."
 
 lang: "fr"
+sourceContentHash: "4f9d82016cc77fa5"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

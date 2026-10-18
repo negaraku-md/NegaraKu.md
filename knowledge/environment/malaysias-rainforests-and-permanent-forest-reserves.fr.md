@@ -32,10 +32,11 @@ faq:
     a: "La modification rend obligatoire une enquête publique avant qu'une RFP puisse être déclassée, et relève les amendes à une fourchette de RM20,000 à RM5 millions ainsi qu'à un emprisonnement de 7 à 20 ans. Elle est entrée en vigueur dans les Territoires fédéraux le 1er février 2025."
 
 lang: "fr"
+sourceContentHash: "068dc65beefd2227"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

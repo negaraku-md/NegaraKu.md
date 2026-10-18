@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant à comprendre la base juridique du secteur pétrolier et gazier de la Malaisie, la dépendance fiscale fédérale au pétrole, ou le débat sur les ressources entre la Fédération et les États — étudiants, analystes, investisseurs et journalistes."
 
 lang: "fr"
+sourceContentHash: "e00cfef3a5a059c4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

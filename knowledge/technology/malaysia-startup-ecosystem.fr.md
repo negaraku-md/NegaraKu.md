@@ -36,10 +36,11 @@ faq:
     a: "KL20 est le plan d'action 2024 du gouvernement, dévoilé lors du KL20 Summit à Kuala Lumpur, visant à renforcer la compétitivité des startups de la Malaisie. Il expose des initiatives dans trois domaines critiques — le capital, le talent et la qualité des startups — et vise à faire de la Malaisie l'un des 20 principaux pôles mondiaux de startups, avec une valorisation des startups de RM400 milliards d'ici 2030. Il est aligné sur la Feuille de route du capital-risque de la Malaisie 2024-2030 et sur l'objectif de faire de la Malaisie un pôle régional de capital-risque de référence d'ici 2030."
 
 lang: "fr"
+sourceContentHash: "0c6b5fee40e498df"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -30,10 +30,11 @@ faq:
     a: "Pour un signalement d'une infraction grave au titre de l'article 266(9), non. L'article 266(10) prévoit que, dès lors qu'un signalement portant sur une question visée au paragraphe (9) est fait de bonne foi au Registraire, aucun devoir de l'auditeur n'est réputé enfreint du seul fait de ce signalement. Cette protection légale expresse vise spécifiquement les signalements au titre du paragraphe (9)."
 
 lang: "fr"
+sourceContentHash: "9561fa4bff249209"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

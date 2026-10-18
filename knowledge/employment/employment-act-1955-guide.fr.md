@@ -66,10 +66,11 @@ obligations:
     consequence: "Offence under s.91"
 
 lang: "fr"
+sourceContentHash: "61d3ae24699dff11"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

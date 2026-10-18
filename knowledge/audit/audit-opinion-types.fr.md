@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirm that AAPG 1 and AAPG 2 revised June 2021 remain the current MIA illustrative reports and have not been superseded by a later revision"
 
 lang: "fr"
+sourceContentHash: "b166913dca839ae9"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

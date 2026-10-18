@@ -38,10 +38,11 @@ faq:
     a: "Pas en première instance. Les réclamations du travail commencent devant des forums créés par leurs propres statuts, et non devant le Tribunal de sessions ou de première instance, et le Tribunal des réclamations de consommation est établi en vertu de l'article 85 de la Consumer Protection Act 1999. Ces décisions peuvent ensuite atteindre la Haute Cour par voie d'appel ou de contrôle juridictionnel, mais le point d'entrée n'est pas un tribunal de cette hiérarchie."
 
 lang: "fr"
+sourceContentHash: "0ff02d452124fe9d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -33,10 +33,11 @@ faq:
     a: "Allez sur le site même de l'agence administratrice — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — plutôt que sur des listes de tiers, qui maintiennent souvent des programmes fermés affichés comme disponibles. Le gouvernement tient aussi un répertoire agrégé sur le portail national de financement MyStartup. Les fenêtres de subvention changent avec le Budget annuel, confirmez donc le statut actuel avant d'investir du temps dans une demande."
 
 lang: "fr"
+sourceContentHash: "7466f2a7eef60107"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-09-07"

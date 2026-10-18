@@ -32,10 +32,11 @@ verificationNeeded:
   - "Confirmer comment les mots « sans autorité légitime » du s.12(1)(f) de la Passports Act 1966 sont interprétés lorsqu'un travailleur consent à la garde par l'employeur — aucune jurisprudence ni directive de l'AGC n'a pu être trouvée sur ce point"
 
 lang: "fr"
+sourceContentHash: "b59bcb20c9aa24c2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

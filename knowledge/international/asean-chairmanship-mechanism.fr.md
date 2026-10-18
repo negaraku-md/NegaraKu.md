@@ -30,10 +30,11 @@ faq:
     a: "Une année civile complète, du 1er janvier au 31 décembre. Les Philippines succèdent à la Malaisie le 1er janvier 2026."
 
 lang: "fr"
+sourceContentHash: "be6127ce5cca4347"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

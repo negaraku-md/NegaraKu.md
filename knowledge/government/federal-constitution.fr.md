@@ -31,12 +31,13 @@ faq:
     a: "Le texte s'organise en quinze Parties (Parties I à XV, avec la Partie XIIA pour le Sabah et le Sarawak) et treize Annexes, dont certaines ont été abrogées selon la table des matières de la réimpression officielle."
 
 lang: "fr"
+sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

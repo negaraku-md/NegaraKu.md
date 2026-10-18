@@ -17,9 +17,10 @@ keyTakeaways:
   - "La mousson du Nord-Est (nov.-mars) détrempe la côte est de la péninsule, l'ouest du Sarawak et le nord du Sabah ; la mousson du Sud-Ouest (mai-sept.) est comparativement plus sèche — un rythme qui détermine encore aujourd'hui la saison des inondations et les calendriers agricoles (Département météorologique de la Malaisie)"
 appliesTo: "Toute personne cherchant à comprendre pourquoi la population, les villes et le risque d'inondation de la Malaisie se regroupent là où ils le font — étudiants, nouveaux arrivants, planificateurs, ou quiconque est déconcerté par le fait que « saison des moussons » signifie des choses différentes sur des côtes différentes."
 lang: "fr"
+sourceContentHash: "1aadf1352cd31f55"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

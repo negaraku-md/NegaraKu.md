@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Contribuables individuels, salariés, travailleurs de plateforme, PME et employeurs, et toute personne qui planifie autour des changements d'impôts, de salaires et d'aides en liquidités du Budget 2027 de la Malaisie."
 
 lang: "fr"
+sourceContentHash: "9667ec689364dcd2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 revision: 0
 reviewed: "2026-10-10"
 published: "2026-10-10"

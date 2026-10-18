@@ -31,10 +31,11 @@ faq:
     a: "Les envois d'une valeur de RM500 ou moins sont généralement exonérés du droit d'importation et de la taxe sur les ventes à la frontière. Toutefois, depuis le 1er janvier 2024, une taxe sur les ventes distincte de 10% sur les Marchandises de Faible Valeur (Low Value Goods) s'applique à ces articles vendus en ligne et expédiés en Malaisie, perçue par le vendeur ou la place de marché enregistré."
 
 lang: "fr"
+sourceContentHash: "49578a6ca3069696"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -29,11 +29,12 @@ faq:
     a: "La cour. Le Sultan Mahmud Shah et ses descendants rétablirent le gouvernement malais plus au sud, de la manière la plus marquante dans le Sultanat de Johor, perpétuant la structure de cour, le code juridique et la langue de Melaka. Ces institutions survécurent à l'indépendance de la ville pendant des siècles."
 
 lang: "fr"
+sourceContentHash: "cf412842ff34bf8f"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

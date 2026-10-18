@@ -41,10 +41,11 @@ verificationNeeded:
   - "Savoir si la dérogation relative aux paris et aux jeux pour les casinos et les machines à sous a été levée — la LHDN indique qu'elle s'applique jusqu'à nouvel ordre, sans date de fin publiée (Whether the betting and gaming carve-out for casinos and gaming machines has been lifted — LHDN states it applies until further notice with no end date published)"
 
 lang: "fr"
+sourceContentHash: "881bae66be5fb011"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

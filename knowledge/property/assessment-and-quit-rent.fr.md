@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Propriétaires de logements, propriétaires fonciers et acheteurs de biens immobiliers en Malaisie péninsulaire qui ont besoin de comprendre leurs factures annuelles de taxes foncières."
 
 lang: "fr"
+sourceContentHash: "466dc843a0553a23"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

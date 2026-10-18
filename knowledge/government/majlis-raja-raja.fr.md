@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant comprendre la structure constitutionnelle de la Malaisie — étudiants, chercheurs, journalistes et lecteurs en général — ainsi que quiconque a besoin de savoir quelles dispositions requièrent le consentement ou la consultation de la Conférence des Souverains."
 
 lang: "fr"
+sourceContentHash: "b582d091b8a771db"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

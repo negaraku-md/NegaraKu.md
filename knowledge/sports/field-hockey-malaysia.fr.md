@@ -33,10 +33,11 @@ faq:
     a: "La Confédération malaisienne de hockey (MHC) est l'organe directeur national du hockey sur gazon et en salle, masculin comme féminin. Elle est affiliée à la Fédération asiatique de hockey (AHF) et à la FIH, et opère depuis le Stade national de hockey de Bukit Jalil, Kuala Lumpur."
 
 lang: "fr"
+sourceContentHash: "e3b29244d5e5d634"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

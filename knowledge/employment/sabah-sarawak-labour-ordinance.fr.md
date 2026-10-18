@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirmer la liste d'exclusions de la First Schedule de remplacement de Sabah article par article face au texte publié au Journal officiel de la loi A1753"
 
 lang: "fr"
+sourceContentHash: "41215d4a374adf7b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

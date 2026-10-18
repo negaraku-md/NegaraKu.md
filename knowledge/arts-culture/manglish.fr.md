@@ -31,9 +31,10 @@ faq:
     a: "Oui. L'Oxford English Dictionary a ajouté plusieurs mots de l'anglais malaisien au fil de mises à jour successives, dont lepak, shiok et teh tarik en 2016, plusieurs termes du manglish et de la cuisine malaisienne comme mamak, kopitiam et atas plus tard la même année, et des mots comme boleh, agak-agak et wayang dans une mise à jour ultérieure — reconnaissant ainsi des usages malaisiens déjà établis plutôt que d'inventer un nouvel anglais."
 
 lang: "fr"
+sourceContentHash: "8f82ee70d6e9258e"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

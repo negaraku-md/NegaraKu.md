@@ -35,10 +35,11 @@ verificationNeeded:
   - "The RM2 Sports Toto ticket breakdown (16 sen, 14.72 sen, RM1.10, 4.39 sen SST) is one example; the actual values may differ by game and draw."
 
 lang: "fr"
+sourceContentHash: "156aadc5edee33a0"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -40,10 +40,11 @@ verificationNeeded:
   - "Confirmer le formulaire prescrit actuel de la SSM et tout frais pour la notification au titre de l'art. 58 d'une nomination de secrétaire au regard des orientations de dépôt en vigueur de la SSM, étant donné que le MBRS 2.0 a modifié la voie de soumission"
 
 lang: "fr"
+sourceContentHash: "87bd6be0702424fa"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

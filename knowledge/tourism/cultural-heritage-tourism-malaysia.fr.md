@@ -31,12 +31,13 @@ faq:
     a: "Couvrez vos épaules et vos genoux sur tous les sites religieux. Les mosquées attendent en outre des femmes qu'elles se couvrent les cheveux et de tous qu'ils se déchaussent. Les temples hindous et chinois exigent également de se déchausser avant d'entrer dans le sanctuaire intérieur."
 
 lang: "fr"
+sourceContentHash: "93767c9cc05e1d13"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

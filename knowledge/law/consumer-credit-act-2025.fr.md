@@ -33,10 +33,11 @@ faq:
     a: "Oui. En vertu de la Loi de 1967 sur la location-vente, l'acompte minimum est de 10% du prix au comptant, bien que les financeurs puissent fixer un montant plus élevé."
 
 lang: "fr"
+sourceContentHash: "2d6f10d61a0f1ec1"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

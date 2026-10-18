@@ -28,10 +28,11 @@ verificationNeeded:
   - "Confirmez l'assujettissement à l'enregistrement HRD Corp par rapport aux classes industrielles de la First Schedule figurant dans P.U.(A) 84/2021 avant de supposer que le prélèvement s'applique"
 
 lang: "fr"
+sourceContentHash: "09bddb62f9842f1a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

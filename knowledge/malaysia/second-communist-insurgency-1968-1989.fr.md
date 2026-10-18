@@ -30,12 +30,13 @@ faq:
     a: "Selon Arkib Negara Malaysia, les accords de Hat Yai n'ont pas exigé que le CPM se rende. Le parti a accepté de mettre fin à l'activité militante, de dissoudre ses unités armées et de détruire ses armes, et ses membres ont prêté allégeance au Yang di-Pertuan Agong."
 
 lang: "fr"
+sourceContentHash: "02bbbc636e171599"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

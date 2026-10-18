@@ -78,10 +78,11 @@ obligations:
     consequence: "L'exception de la s.75(2)(d) n'est pas disponible, de sorte que l'attribution requiert l'approbation préalable des membres ou est nulle en vertu de la s.75(4)"
 
 lang: "fr"
+sourceContentHash: "8cbd2aa6c4bb698a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

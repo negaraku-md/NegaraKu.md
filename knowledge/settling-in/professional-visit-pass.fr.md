@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Entreprises malaisiennes accueillant des experts, chercheurs, stagiaires, bénévoles ou exposants étrangers pour une mission déterminée, et les équipes RH ou de mobilité parraines qui déposent la demande pour eux."
 
 lang: "fr"
+sourceContentHash: "8d251b7426f433be"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

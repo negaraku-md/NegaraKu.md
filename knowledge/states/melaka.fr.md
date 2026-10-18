@@ -37,10 +37,11 @@ verificationNeeded:
   - "Confirmer la zone centrale et la zone tampon propres à la composante de Melaka (par opposition à l'ensemble du bien en série) par rapport au document de proposition d'inscription 1223bis."
 
 lang: "fr"
+sourceContentHash: "68b18aa6f45a809f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -43,10 +43,11 @@ verificationNeeded:
   - "L'affirmation largement répétée selon laquelle le comité doit rencontrer l'auditeur externe deux fois par an sans la présence des administrateurs exécutifs n'a aucun fondement dans le Chapitre 15, qui dit seulement chaque fois que cela est jugé nécessaire — elle peut provenir d'un document d'orientation non récupéré ici"
 
 lang: "fr"
+sourceContentHash: "fc979f0822a6b94f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

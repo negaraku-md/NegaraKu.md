@@ -33,10 +33,11 @@ faq:
     a: "Cela varie fortement selon la phase. Les tours d'amorçage en capital-risque se comptent généralement en quelques millions de ringgit ; les opérations de croissance et de capital-investissement sont bien plus importantes. À l'échelle du secteur, les fonds de VC et de PE engagés sous gestion en Malaisie s'élevaient à environ RM24.7 milliards à la fin de 2024 — environ RM18 milliards en capital-investissement et RM6.7 milliards en capital-risque."
 
 lang: "fr"
+sourceContentHash: "fd613f83fbe57e2f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

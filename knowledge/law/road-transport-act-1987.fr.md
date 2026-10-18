@@ -27,9 +27,10 @@ faq:
   - q: "Qu'est-ce qui a changé avec la réforme de 2020 ?"
     a: "La Loi sur le transport routier (réforme) de 2020 est entrée en vigueur le 23 octobre 2020. Elle a alourdi les sanctions et les durées de suspension pour la conduite téméraire et dangereuse et la conduite sous l'emprise de l'alcool (articles 41 à 45A), abaissé les taux d'alcool prescrits aux normes de l'OMS et ajouté une définition du «véhicule de micromobilité»."
 lang: "fr"
+sourceContentHash: "e438c79ab71a1dba"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

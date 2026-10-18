@@ -29,12 +29,13 @@ faq:
     a: "Elle le peut dans certaines circonstances. L'Article 26(2) permet au Gouvernement fédéral de priver de sa citoyenneté une femme enregistrée au titre de l'Article 15(1) si le mariage sur lequel l'enregistrement était fondé est dissous (autrement que par décès) dans les deux ans suivant la date du mariage."
 
 lang: "fr"
+sourceContentHash: "28365cf20f843051"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -65,10 +65,11 @@ obligations:
     consequence: "Incomplete notification"
 
 lang: "fr"
+sourceContentHash: "69d11280d19d99c8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

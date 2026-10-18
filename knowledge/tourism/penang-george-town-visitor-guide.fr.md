@@ -36,10 +36,11 @@ faq:
     a: "Penang est une destination accessible toute l'année au climat tropical chaud et humide. Il peut pleuvoir n'importe quel mois, mais les pluies tendent à être les plus fortes autour des périodes inter-moussons (environ avril–mai et septembre–novembre) ; la fenêtre plus sèche et plus fraîche autour de décembre–février est populaire. Les matinées et les fins d'après-midi sont les moments les plus agréables pour marcher."
 
 lang: "fr"
+sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

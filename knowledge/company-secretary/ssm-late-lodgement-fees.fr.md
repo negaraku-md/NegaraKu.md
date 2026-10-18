@@ -27,10 +27,11 @@ verificationNeeded:
   - "Les taux de composition (compound) pour des infractions précises à la Companies Act 2016 sont fixés par le barème de compositions de SSM au titre de l'art. 588 et ne sont pas publiés dans la Directive de pratique 1/2017 — aucun montant de composition n'est indiqué sur cette page parce qu'aucun n'a pu être confirmé auprès d'une source officielle"
 
 lang: "fr"
+sourceContentHash: "352f3b9226a227c6"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

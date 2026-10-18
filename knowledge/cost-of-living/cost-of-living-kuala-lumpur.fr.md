@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui établit un budget pour un déménagement à Kuala Lumpur ou dans la vallée de Klang, compare des offres d'emploi entre villes, ou cherche à comprendre pourquoi la capitale domine systématiquement les classements du coût de la vie en Malaisie."
 
 lang: "fr"
+sourceContentHash: "5a6f8510ce30c077"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

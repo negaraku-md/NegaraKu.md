@@ -36,10 +36,11 @@ verificationNeeded:
   - "Les dates indiquées ici proviennent du programme de dépôt publié le 30 décembre 2025 et mis à jour le 1er avril 2026, qui régit les déclarations pour l'année d'imposition 2025. Le LHDN publie un nouveau programme chaque année — relisez-le avant de vous fier à un cycle ultérieur"
 
 lang: "fr"
+sourceContentHash: "1c422a60f1ab90e9"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

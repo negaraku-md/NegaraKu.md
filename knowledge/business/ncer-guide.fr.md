@@ -46,10 +46,11 @@ verificationNeeded:
   - "Si une incitation fiscale propre à la National Semiconductor Strategy a été publiée au journal officiel — aucune n'a été trouvée"
 
 lang: "fr"
+sourceContentHash: "4221d6f415c3fa4d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

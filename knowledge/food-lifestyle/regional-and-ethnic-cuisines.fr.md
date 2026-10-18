@@ -34,12 +34,13 @@ faq:
     a: "Oui, bien qu'elle soit considérée comme de plus en plus menacée. La cuisine kristang est la tradition de la communauté eurasienne portugaise-asiatique de Melaka, avec des plats comme le kari debal (devil's curry) qui emploient le vinaigre, la graine de moutarde et la noix de bancoul. Plusieurs restaurants et cours de cuisine à Melaka s'emploient à préserver cette tradition car les jeunes générations en héritent de moins en moins."
 
 lang: "fr"
+sourceContentHash: "b5facc6867b131b5"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 verificationNeeded:

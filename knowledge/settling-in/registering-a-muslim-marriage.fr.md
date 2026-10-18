@@ -32,12 +32,13 @@ faq:
     a: "Le portail de services du Gouvernement de la Malaisie indique que la célébration est effectuée sur la base d'une lettre d'autorisation de mariage valable pendant 90 jours."
 
 lang: "fr"
+sourceContentHash: "ddd87b097dd5f44c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -77,10 +77,11 @@ verificationNeeded:
   - "Confirmer les renseignements actuellement prescrits pour le registre de la s.61 au regard des Employment Regulations en vigueur"
 
 lang: "fr"
+sourceContentHash: "84b81bd01d8b6ae2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -28,10 +28,11 @@ verificationNeeded:
   - "SSM ne publie aucune norme générale de service de délai de traitement pour la constitution de sociétés ; les chiffres donnés ici proviennent de lignes directrices individuelles de dates diverses"
 
 lang: "fr"
+sourceContentHash: "30930e352d6a91ec"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

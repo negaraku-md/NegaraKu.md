@@ -35,10 +35,11 @@ faq:
     a: "Non. Une entreprise individuelle ou une société de personnes est un enregistrement d'entreprise sous la loi de 1956 sur l'enregistrement des entreprises, et non une entité juridique distincte, de sorte que la « fermer » revient simplement à notifier SSM que l'enregistrement a pris fin : pas de liquidateur, pas de demande de radiation, pas de frais. Une Sdn Bhd est une société sous la loi de 2016 sur les sociétés (Companies Act 2016) et ne peut être quittée que par une radiation ou une liquidation. Voir le guide distinct sur la fermeture d'une société."
 
 lang: "fr"
+sourceContentHash: "b7ee74767d9d900f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

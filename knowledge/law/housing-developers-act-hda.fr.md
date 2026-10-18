@@ -38,10 +38,11 @@ faq:
     a: "Non. Après la modification du Règlement de 2015, personne — y compris l'avocat dépositaire — ne peut percevoir de paiement (frais de réservation, arrhes et autres) avant la signature du contrat de vente, sauf dans la mesure prévue par le contrat de vente (regulation 11(2))."
 
 lang: "fr"
+sourceContentHash: "b9b4698e2a0c2539"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

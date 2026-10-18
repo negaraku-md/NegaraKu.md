@@ -29,12 +29,13 @@ faq:
     a: "Un arbitre privé a rendu une sentence d'environ 14.92 milliards d'USD le 28 février 2022, mais la Malaisie l'a contestée dans plusieurs juridictions et la Cour d'appel de Paris a annulé la sentence le 9 décembre 2025."
 
 lang: "fr"
+sourceContentHash: "a5cefe938e99cef3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

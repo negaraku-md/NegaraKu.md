@@ -27,9 +27,10 @@ faq:
   - q: "Quel fondement juridique permet à un conseil de percevoir la taxe d'évaluation ?"
     a: "La Partie XV (Imposition et évaluation). La section 127 habilite une autorité locale à imposer des taxes sur les biens situés dans sa zone, la base d'évaluation étant fixée à la section 130."
 lang: "fr"
+sourceContentHash: "ef5c1db3291f9813"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

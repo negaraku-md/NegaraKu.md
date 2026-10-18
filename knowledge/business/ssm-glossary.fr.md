@@ -27,10 +27,11 @@ verificationNeeded:
   - "Confirmez la portée actuelle des agences participant à BLESS et MalaysiaBiz, qui est élargie périodiquement"
 
 lang: "fr"
+sourceContentHash: "d297b49cc580cf19"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

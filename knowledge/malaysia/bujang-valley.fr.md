@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant comprendre les origines de la civilisation primitive sur les terres malaises avant l'existence des sultanats malais, ou qui prévoit de visiter les sites archéologiques et le musée du Kedah."
 
 lang: "fr"
+sourceContentHash: "e95214b94dacf363"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

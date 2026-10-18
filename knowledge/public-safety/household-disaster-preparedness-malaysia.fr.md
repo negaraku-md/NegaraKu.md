@@ -34,10 +34,11 @@ faq:
     a: "Oui, en particulier Sabah. Le séisme de Ranau de 2015, de magnitude 6.0, a coûté la vie à 18 personnes sur le mont Kinabalu. Le 23 février 2026, un séisme sous-marin de magnitude 6.8 s'est produit près de Kudat à une profondeur de 678 km, sans menace de tsunami. Le risque d'un séisme majeur dans la Péninsule est faible."
 
 lang: "fr"
+sourceContentHash: "aacc807758e00d83"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

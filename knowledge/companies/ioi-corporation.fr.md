@@ -30,10 +30,11 @@ faq:
     a: "En Malaisie (notamment Johor, Malacca, Negeri Sembilan, Pahang, Sabah et Sarawak) et en Indonésie (Kalimantan occidental et central)."
 
 lang: "fr"
+sourceContentHash: "1a35d39eb3932506"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

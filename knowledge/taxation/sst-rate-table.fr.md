@@ -26,10 +26,11 @@ verificationNeeded:
   - "Le texte intégral de P.U.(A) 125/2026 n'a pas été récupéré ; son intitulé et son effet au 1er janvier 2026 ont été confirmés à partir du portail législatif de l'AGC et de l'exonération correspondante de 2% dans la Service Tax Policy No. 2/2025 (Amendment No. 3)"
 
 lang: "fr"
+sourceContentHash: "a8607ba4409fa9bf"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"

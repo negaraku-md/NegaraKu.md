@@ -29,10 +29,11 @@ faq:
     a: "Le calendrier officiel est émis par des circulaires du MOE et le portail moe.gov.my chaque année avant le début de la session. Consultez les sources officielles pour les dates exactes, car elles changent chaque année."
 
 lang: "fr"
+sourceContentHash: "25b458d1ef0fef1f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

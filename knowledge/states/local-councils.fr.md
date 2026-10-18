@@ -34,12 +34,13 @@ faq:
     a: "Les conseils locaux élus fonctionnaient en vertu de la Loi sur les élections de gouvernement local de 1960 (Local Government Elections Act 1960) et d'ordonnances antérieures. Les élections ont été suspendues le 1er mars 1965 par des règlements d'urgence pendant la confrontation (Konfrontasi) avec l'Indonésie. Les conseillers en fonction sont restés en poste jusqu'à ce que la Loi sur le gouvernement local (dispositions temporaires) de 1973 (Local Government (Temporary Provisions) Act 1973 [Act 124]) mette fin à leurs mandats et les remplace par des conseils de gestion nommés, puis la Loi sur le gouvernement local de 1976 (Local Government Act 1976 [Act 171]) a établi le système permanent de nomination."
 
 lang: "fr"
+sourceContentHash: "d540aa978984383a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

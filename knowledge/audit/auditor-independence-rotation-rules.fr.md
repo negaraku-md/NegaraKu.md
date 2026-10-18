@@ -37,10 +37,11 @@ faq:
     a: "Le délai fixe de sept ans et les périodes de viduité propres à chaque rôle ne s'appliquent qu'aux entités d'intérêt public. Pour une non-EIP, R540.4 exige toujours que le cabinet fasse tourner une personne lorsque les menaces de familiarité ou d'intérêt personnel ne peuvent être traitées que de cette manière, pendant une durée suffisante — mais aucun nombre fixe d'années n'est prescrit."
 
 lang: "fr"
+sourceContentHash: "6264fc7fd0a2fe3d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

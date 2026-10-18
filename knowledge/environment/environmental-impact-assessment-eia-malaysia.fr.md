@@ -34,10 +34,11 @@ faq:
     a: "Au titre de la section 34A(4), le Directeur général doit motiver sa décision, mais le rejet ne vous empêche pas de réviser et de resoumettre le rapport pour approbation."
 
 lang: "fr"
+sourceContentHash: "7002da8fcfa27b67"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

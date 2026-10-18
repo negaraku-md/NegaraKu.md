@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Fondateurs et directeurs financiers qui envisagent une introduction en bourse, conseillers et parrains, et investisseurs cherchant à décoder ce qu'une cotation sur un compartiment signale réellement."
 
 lang: "fr"
+sourceContentHash: "8a42caae2331fbbd"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -56,10 +56,11 @@ verificationNeeded:
   - "SSM ne publie aucun barème de composition (compound) pour les infractions à la s.245 — l'amende indiquée est le maximum en cas de condamnation au titre de la s.245(9), et non une composition administrative"
 
 lang: "fr"
+sourceContentHash: "45066b2b4838e7ba"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

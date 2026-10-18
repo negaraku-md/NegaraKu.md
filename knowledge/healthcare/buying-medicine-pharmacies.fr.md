@@ -18,9 +18,10 @@ keyTakeaways:
   - "Les substances psychotropes relevant de la Jadual Ketiga (troisième annexe) de l'Akta Racun 1952 sont soumises à une réglementation distincte, avec des peines pouvant atteindre RM100,000 ou cinq ans d'emprisonnement pour les infractions non autorisées (Seksyen 30)"
 appliesTo: "Toute personne achetant des médicaments dans une pharmacie publique ou privée en Malaisie et souhaitant comprendre pourquoi certains médicaments exigent une ordonnance alors que d'autres non, et le rôle du pharmacien enregistré dans ce processus."
 lang: "fr"
+sourceContentHash: "4ae828e3e8725114"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

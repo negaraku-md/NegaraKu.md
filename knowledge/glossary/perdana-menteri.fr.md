@@ -34,10 +34,11 @@ faq:
     a: "En l'état, la Constitution ne limite pas le mandat. En 2026, un projet de loi d'amendement constitutionnel a été proposé pour limiter l'exercice du Premier ministre à un total cumulé de dix ans ; le statut final de cet amendement doit être vérifié auprès des sources officielles."
 
 lang: "fr"
+sourceContentHash: "a4359d9c03eadb4d"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

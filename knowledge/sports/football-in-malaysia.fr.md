@@ -41,10 +41,11 @@ faq:
     a: "La date exacte est contestée. Certains documents situent la fondation de l'instance dirigeante nationale en 1926, tandis que d'autres renvoient à 1933, lorsque la Football Association of Malaya, basée à Singapour, a repris la gestion de la Malaya Cup. Ce qui est clair et vérifiable, c'est son rôle actuel d'instance dirigeante nationale, membre de l'AFC, et fondatrice de l'AFF en 1984."
 
 lang: "fr"
+sourceContentHash: "ee9fdc30adb8894c"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

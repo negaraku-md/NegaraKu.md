@@ -38,10 +38,11 @@ verificationNeeded:
   - "Confirmer le nombre de précincts (20) et le chiffre de superficie de 4,931 hectares par rapport à la plus récente publication officielle de Perbadanan Putrajaya — le rapport annuel de 2017 a jadis consigné un chiffre de superficie différent."
 
 lang: "fr"
+sourceContentHash: "7ed3eafee80e71c1"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

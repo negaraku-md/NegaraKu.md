@@ -30,10 +30,11 @@ faq:
     a: "Oui. Lorsque la dette est véritablement (bona fide) contestée sur des fondements substantiels, la société peut solliciter une Fortuna injunction pour empêcher le créancier de présenter la requête, car la liquidation ne doit pas être utilisée pour faire exécuter une créance contestée."
 
 lang: "fr"
+sourceContentHash: "b91e135cb6354783"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

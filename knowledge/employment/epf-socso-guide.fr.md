@@ -24,10 +24,11 @@ appliesTo: "Employeurs, gestionnaires RH et de paie à la recherche du bon guide
 verificationNeeded: []
 
 lang: "fr"
+sourceContentHash: "93eabace2772ea86"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

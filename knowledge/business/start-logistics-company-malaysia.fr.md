@@ -34,10 +34,11 @@ faq:
     a: "Pas simplement. Une Licence de transporteur A (pour compte d'autrui) exige une participation majoritairement malaisienne avec une composante bumiputera et un capital libéré minimal, de sorte qu'un transporteur desservant des tiers est en pratique réservé aux entreprises majoritairement locales. Les groupes liés à des capitaux étrangers entrent généralement via le statut IILS et une licence de douane/commission de transport, ou en transportant leurs propres marchandises sous une Licence de transporteur C. Confirmez la répartition exacte de la participation et le plancher de capital auprès de l'APAD et du MIDA avant de structurer l'actionnariat."
 
 lang: "fr"
+sourceContentHash: "20e231750b299d33"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

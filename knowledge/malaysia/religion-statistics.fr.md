@@ -28,11 +28,12 @@ faq:
     a: "Selon la publication de lancement Key Findings du DOSM, le Selangor a enregistré le plus grand nombre de musulmans, de bouddhistes et d'hindous parmi les États de la Malaisie, tandis que le Sarawak a enregistré le plus grand nombre de chrétiens. La publication ne donne que le classement, et non une ventilation au niveau des États pour chaque religion."
 
 lang: "fr"
+sourceContentHash: "9209ca0d039c5f34"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

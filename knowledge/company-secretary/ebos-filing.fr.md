@@ -53,10 +53,11 @@ obligations:
     consequence: "Infraction au titre de la Division 8A"
 
 lang: "fr"
+sourceContentHash: "e1b33b50ef55b00c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -32,10 +32,11 @@ faq:
     a: "Oui. Une société privée peut se transformer en société publique en vertu de la Companies Act 2016 — généralement en adoptant une résolution spéciale des membres, en modifiant son nom pour qu'il se termine par « Berhad » et en déposant les documents requis auprès de la Companies Commission of Malaysia (SSM)."
 
 lang: "fr"
+sourceContentHash: "8327877494bab4c8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

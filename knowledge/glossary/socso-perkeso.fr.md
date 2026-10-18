@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Employeurs, équipes RH et paie, et salariés du secteur privé en Malaisie souhaitant comprendre les retenues salariales statutaires."
 
 lang: "fr"
+sourceContentHash: "9085a7b0c1f610fb"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

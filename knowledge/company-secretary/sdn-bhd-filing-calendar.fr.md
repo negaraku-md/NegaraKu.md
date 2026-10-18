@@ -135,10 +135,11 @@ obligations:
     consequence: "Amende pouvant atteindre RM10,000 plus jusqu'à RM500 par jour pour chaque dirigeant en vertu de la s.341(3)"
 
 lang: "fr"
+sourceContentHash: "795508e7636dbf96"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

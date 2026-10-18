@@ -16,9 +16,10 @@ keyTakeaways:
   - "L'entreprise n'a adopté son nom actuel qu'en 1992, après une charte royale du Sultan de Selangor en 1979."
 appliesTo: "Toute personne intéressée par les traditions artisanales malaisiennes, l'histoire de l'extraction de l'étain ou Royal Selangor"
 lang: "fr"
+sourceContentHash: "ab235dfd3f4f5c67"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

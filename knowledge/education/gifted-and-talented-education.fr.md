@@ -29,10 +29,11 @@ faq:
     a: "ASASIpintar est le programme préuniversitaire de fondation de l'UKM pour les élèves surdoués et talentueux, proposé en trois filières : Perdana, Commercial et International."
 
 lang: "fr"
+sourceContentHash: "35e2f3422be13be3"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

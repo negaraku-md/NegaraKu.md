@@ -35,9 +35,10 @@ faq:
     a: "Ce sont des fêtes distinctes au thème commun. Le Gawai Dayak est la fête des moissons dayak du Sarawak, tenue les 1er et 2 juin. Le Kaamatan est la fête des moissons kadazandusun de Sabah, tenue les 30 et 31 mai. Toutes deux rendent grâce pour la récolte du riz, mais les communautés, les rituels et les dates diffèrent."
 
 lang: "fr"
+sourceContentHash: "5a38a61ecb8e6e5a"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

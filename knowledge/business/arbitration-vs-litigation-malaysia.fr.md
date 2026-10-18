@@ -40,10 +40,11 @@ verificationNeeded:
   - "Confirmer les barèmes d'honoraires et les exigences de dépôt actuels de l'AIAC directement auprès de l'AIAC avant de conseiller sur le coût (Confirm the current AIAC fee schedules and deposit requirements directly from AIAC before advising on cost)"
 
 lang: "fr"
+sourceContentHash: "8f87d032cb16f4b7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

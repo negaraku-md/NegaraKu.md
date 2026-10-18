@@ -40,10 +40,11 @@ faq:
     a: "Le musée, aux 48 et 50 Jalan Tun Tan Cheng Lock, est fermé le mardi. Il ouvre de 10h00 à 16h15 en semaine (sauf le mardi) et de 10h00 à 16h45 le week-end. Comme les horaires et les tarifs peuvent changer, confirmez-les sur le site officiel du musée avant votre visite."
 
 lang: "fr"
+sourceContentHash: "e6af87197b8f50e1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -38,10 +38,11 @@ verificationNeeded:
   - "Déterminer si une société de fiducie enregistrée au titre de la Trust Companies Act 1949 est nécessairement une société publique soumise à l'intégralité du cadre de propriété effective — affirmé dans certains commentaires mais non rattaché à une disposition de cette loi"
 
 lang: "fr"
+sourceContentHash: "d098cf8ee96defb7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

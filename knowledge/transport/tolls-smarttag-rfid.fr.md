@@ -28,10 +28,11 @@ faq:
     a: "Le RFID exige encore qu'un véhicule passe par une voie signalée dotée d'une barrière qui se lève après une lecture réussie. L'ANPR tel que JustGO PLUS identifie les véhicules au moyen d'une caméra qui lit la plaque d'immatriculation, ce qui permet aux véhicules enregistrés de passer par n'importe quelle voie sans aucun badge physique — un pas de plus vers un système entièrement sans barrière (MLFF)."
 
 lang: "fr"
+sourceContentHash: "c1392d940afe3b99"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

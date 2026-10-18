@@ -29,10 +29,11 @@ faq:
     a: "Devant le Tribunal de gestion des strates, qui tranche les réclamations allant jusqu'à RM250,000 plus rapidement et à moindre coût que les tribunaux. Le Commissaire aux bâtiments (COB) de l'autorité locale veille au respect de la loi."
 
 lang: "fr"
+sourceContentHash: "788e401fa0ccd9ab"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

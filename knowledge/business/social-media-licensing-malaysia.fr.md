@@ -27,10 +27,11 @@ verificationNeeded:
   - "Comment MCMC mesure en pratique le décompte de huit millions d'utilisateurs, et la période de référence utilisée"
 
 lang: "fr"
+sourceContentHash: "4b67b928b9834e6c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -18,9 +18,10 @@ keyTakeaways:
   - "La Malaisie péninsulaire et Bornéo (Sabah et Sarawak) sont séparées par la mer de Chine méridionale et abritent des assemblages d'espèces distincts, Bornéo détenant l'essentiel des forêts marécageuses à tourbe et des mangroves du pays."
 appliesTo: "national"
 lang: "fr"
+sourceContentHash: "9a6c3f25f0c58105"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

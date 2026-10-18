@@ -34,10 +34,11 @@ faq:
     a: "L'article 2 définit les droits de l'homme comme les libertés fondamentales consacrées par la Partie II de la Constitution fédérale. L'article 4(4) ajoute qu'il sera tenu compte de la Déclaration universelle des droits de l'homme de 1948 dans la mesure où elle n'est pas incompatible avec la Constitution fédérale."
 
 lang: "fr"
+sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

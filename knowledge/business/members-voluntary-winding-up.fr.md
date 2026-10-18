@@ -64,10 +64,11 @@ obligations:
     consequence: "La dissolution au titre de la s.459(5) ne commence à courir qu'une fois le rapport déposé"
 
 lang: "fr"
+sourceContentHash: "4a39d9570c5bc4d4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

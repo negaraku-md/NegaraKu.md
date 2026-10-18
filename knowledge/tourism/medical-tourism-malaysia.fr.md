@@ -34,12 +34,13 @@ faq:
     a: "Les soins cardiaques, l'oncologie, la fertilité/FIV, l'orthopédie et les bilans de santé complets figurent parmi les spécialités les plus recherchées par les patients étrangers ; les quatre premières sont les centres d'excellence désignés par le MHTC."
 
 lang: "fr"
+sourceContentHash: "038cf5af7095fe8e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

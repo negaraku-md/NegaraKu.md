@@ -19,9 +19,10 @@ keyTakeaways:
   - "L'immatriculation du véhicule est soumise par voie électronique par l'intermédiaire de l'un des trois Gateway Providers désignés par le JPJ, avec des frais de service du JPJ de RM50 par soumission"
 appliesTo: "Toute personne qui se relocalise en Malaisie — Malaisiens de retour, nouvelles recrues expatriées, participants au MM2H — qui doit décider quoi expédier, et si expédier une voiture possédée à titre personnel est réaliste."
 lang: "fr"
+sourceContentHash: "322f701876a3d3fe"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

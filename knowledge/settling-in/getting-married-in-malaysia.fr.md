@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "Toute personne prévoyant de se marier en Malaisie — citoyens malaisiens et ressortissants étrangers, que les deux parties soient non musulmanes, toutes deux musulmanes, ou que l'une des parties se convertisse à l'islam pour épouser un partenaire musulman — qui a besoin de savoir de quel système juridique et de quelle autorité relève son mariage."
 
 lang: "fr"
+sourceContentHash: "12e75b9b51367c03"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

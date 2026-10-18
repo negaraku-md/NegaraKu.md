@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "Lecteurs qui souhaitent comprendre, en termes descriptifs, comment est organisé un gouvernement d'État malaisien — étudiants, fonctionnaires, journalistes et toute personne cherchant à comprendre pourquoi certains États ont un Menteri Besar et un Istana Negeri tandis que d'autres ont un Chief Minister et un gouverneur."
 
 lang: "fr"
+sourceContentHash: "0eb897c5d29d626d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -18,10 +18,11 @@ keyTakeaways:
 appliesTo: "Toute personne en Malaisie — bouddhiste ou non — qui souhaite un compte rendu simple et exact de ce qu'est le jour de Wesak, de la date à laquelle il tombe et de la manière dont il est célébré, y compris les employeurs et les travailleurs qui vérifient la date du jour férié."
 
 lang: "fr"
+sourceContentHash: "87814a02e5e75f73"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -36,10 +36,11 @@ faq:
     a: "Sur l'objectif de 15–30 MtéqCO₂, jusqu'à 20 MtéqCO₂ sont inconditionnels — la Malaisie s'y engage quoi qu'il arrive. 10 MtéqCO₂ supplémentaires sont conditionnels, ce qui signifie qu'ils ne seront réalisés que si un financement climatique international, un transfert de technologie et un soutien au renforcement des capacités sont fournis."
 
 lang: "fr"
+sourceContentHash: "7ad2136668e2982a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

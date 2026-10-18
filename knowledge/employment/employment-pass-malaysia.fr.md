@@ -61,10 +61,11 @@ obligations:
     consequence: "The appeal facility closes and the appeal cannot be submitted"
 
 lang: "fr"
+sourceContentHash: "10fdb6251948c8f0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

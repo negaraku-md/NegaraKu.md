@@ -27,10 +27,11 @@ verificationNeeded:
   - "Le nombre de sièges par État au titre de l'article 46(2) peut changer par amendement constitutionnel à la suite d'une révision des limites électorales ; à vérifier par rapport à la dernière réimpression."
 
 lang: "fr"
+sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

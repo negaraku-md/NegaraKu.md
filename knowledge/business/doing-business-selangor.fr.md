@@ -43,10 +43,11 @@ verificationNeeded:
   - "MBPJ annual premise licence rates — the by-law PDF published by MBPJ is a scanned image with no text layer, so no ringgit rate is machine-readable"
 
 lang: "fr"
+sourceContentHash: "45a4dcba0cb44c75"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

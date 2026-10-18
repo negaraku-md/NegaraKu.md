@@ -34,12 +34,13 @@ faq:
     a: "La Loi sur la sédition (réforme) de 2015 (Act A1485) a été adoptée par le Parlement et aurait révisé les articles 2, 3 et 4 — entre autres en ajoutant la publication électronique, en reformulant des parties de la définition et en augmentant les sanctions. Sur le portail Laws of Malaysia de la Chambre du Procureur général, le texte en vigueur de l'Act 15 n'incorpore encore les réformes que jusqu'au 1 janvier 2006, et l'Act A1485 ne comporte aucun calendrier d'entrée en vigueur. Le texte opérant décrit ici est la révision de 1969."
 
 lang: "fr"
+sourceContentHash: "8c2644ad71910b60"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

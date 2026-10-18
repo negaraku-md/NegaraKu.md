@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui lit les grands titres du commerce malaisien — exportateurs, importateurs, investisseurs et analystes."
 
 lang: "fr"
+sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

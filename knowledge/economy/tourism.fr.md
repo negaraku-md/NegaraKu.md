@@ -23,10 +23,11 @@ appliesTo: "Analystes, journalistes, étudiants, investisseurs et opérateurs qu
 seoTitle: "Statistiques du tourisme en Malaisie : arrivées vs recettes"
 
 lang: "fr"
+sourceContentHash: "396de79b31be6ee8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

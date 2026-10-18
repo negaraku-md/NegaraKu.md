@@ -41,10 +41,11 @@ verificationNeeded:
   - "Investissements approuvés du Perak pour l'ensemble de 2024 et 2025 et son rang — MIDA ne nomme que les cinq premiers États"
 
 lang: "fr"
+sourceContentHash: "b417e9b08cc2755f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

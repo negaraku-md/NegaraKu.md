@@ -18,11 +18,12 @@ keyTakeaways:
   - "Un Groupe de travail de représentants des Souverains et de l'Alliance, aux côtés de fonctionnaires britanniques, révisa le projet, qui entra en vigueur en tant que Constitution fédérale le 31 août 1957"
 appliesTo: "Étudiants, chercheurs et lecteurs en général qui veulent comprendre qui a réellement écrit la constitution fondatrice de la Malaisie, selon quelles instructions, et comment le rapport d'une commission est devenu la loi d'un pays indépendant."
 lang: "fr"
+sourceContentHash: "274cb6f4918d991f"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

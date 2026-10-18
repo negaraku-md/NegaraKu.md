@@ -34,10 +34,11 @@ faq:
     a: "Le DOSM est un département du gouvernement fédéral qui figure sous le ministère de l'Économie dans le répertoire officiel des agences du ministère. Les portefeuilles ministériels en Malaisie sont périodiquement réorganisés, alors confirmez le dispositif en vigueur sur ekonomi.gov.my ou dosm.gov.my avant de vous y appuyer dans un document formel."
 
 lang: "fr"
+sourceContentHash: "c71507e53dcd1423"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

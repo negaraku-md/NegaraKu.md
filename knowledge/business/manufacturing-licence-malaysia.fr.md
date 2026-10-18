@@ -45,10 +45,11 @@ verificationNeeded:
   - "La question de savoir si la lettre de confirmation ICA 10 appuie les demandes de facilités bancaires — MIDA ne le précise pas"
 
 lang: "fr"
+sourceContentHash: "37caa4da5ba10819"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

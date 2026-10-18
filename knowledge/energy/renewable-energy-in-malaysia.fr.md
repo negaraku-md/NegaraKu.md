@@ -27,9 +27,10 @@ faq:
   - q: "Comment une entreprise peut-elle acheter de l'énergie renouvelable sans installer ses propres panneaux ?"
     a: "Le Corporate Green Power Programme (CGPP) permet à un consommateur d'entreprise de signer un accord virtuel d'achat d'énergie avec un producteur d'énergie solaire pour l'énergie renouvelable et ses attributs verts, avec une fourniture ferme soutenue par le service public. Son quota de 800 MW a été entièrement souscrit en novembre 2023. Les entreprises qui l'ont manqué peuvent recourir au Corporate Renewable Energy Supply Scheme (CRESS), lancé en septembre 2024, qui achemine l'énergie verte à travers le réseau de TNB moyennant une Charge d'accès au système."
 lang: "fr"
+sourceContentHash: "739ef0391be9be93"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -23,10 +23,11 @@ appliesTo: "Les individus et les ménages à revenu faible et moyen en Malaisie 
 verificationNeeded:
   - "La FAQ officielle STR 2026 (PDF sur bantuantunai.hasil.gov.my/FAQ/) contient davantage de détails sur les conditions d'éligibilité et les montants de paiement, mais la police intégrée dans ce PDF a empêché l'extraction automatique du texte au moment de la rédaction — les lecteurs sont invités à télécharger et consulter eux-mêmes le PDF, ou à se connecter à MySTR pour les détails personnels exacts."
 lang: "fr"
+sourceContentHash: "353147e69093acce"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

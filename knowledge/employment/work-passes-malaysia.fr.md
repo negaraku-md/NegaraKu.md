@@ -38,10 +38,11 @@ verificationNeeded:
   - "Confirmer si la variante DE Rantau Sarawak comporte des planchers de revenu ou une durée différents de ceux du DE Rantau Nomad Pass fédéral"
 
 lang: "fr"
+sourceContentHash: "1cf0d4000ca23029"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

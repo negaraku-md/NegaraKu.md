@@ -29,11 +29,12 @@ faq:
     a: "Le Jour de la Malaisie n'est devenu un jour férié fédéral national que des décennies après la formation de la fédération. Avant cela, le 16 septembre n'était férié que dans certains territoires et n'était pas observé uniformément à l'échelle nationale, même s'il était la date de formation de la fédération depuis 1963."
 
 lang: "fr"
+sourceContentHash: "25064de19f113798"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Toute personne qui souhaite comprendre, de façon descriptive, comment les sénateurs malaisiens sont élus et nommés, et dans quelle mesure le Dewan Negara peut influer sur l'adoption d'un projet de loi."
 
 lang: "fr"
+sourceContentHash: "795be8860e769da6"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

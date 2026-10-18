@@ -19,9 +19,10 @@ keyTakeaways:
   - "L'entrée anticipée (avant l'âge requis) et le report de la Year 1 existent comme politiques officielles distinctes : les demandes se font via le JPN, et non par le système idMe habituel, et le report est un privilège, non un droit automatique"
 appliesTo: "Parents ou tuteurs de nationalité malaisienne dont l'enfant est sur le point d'entrer en Year 1 de l'école primaire publique ou en Form 1 de l'école secondaire publique."
 lang: "fr"
+sourceContentHash: "0c89415b8941ca0c"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

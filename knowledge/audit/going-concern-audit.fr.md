@@ -36,10 +36,11 @@ verificationNeeded:
   - "Confirmer si une pratique malaisienne en matière d'engagements bancaires ou une exigence de cotation de Bursa Malaysia attache une conséquence spécifique à une section Incertitude significative liée à la continuité d'exploitation — les effets commerciaux décrits ici relèvent de l'observation de praticien, et non d'une règle publiée"
 
 lang: "fr"
+sourceContentHash: "272fa8b449a7b590"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

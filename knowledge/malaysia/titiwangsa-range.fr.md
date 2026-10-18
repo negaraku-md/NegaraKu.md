@@ -18,9 +18,10 @@ keyTakeaways:
   - "Le terrain de haute altitude de la chaîne relève du niveau le plus strict des protections de Zone écologiquement sensible de la Malaisie, qui préservent les écosystèmes de hautes terres et de montagne face au développement"
 appliesTo: "Lecteurs qui veulent une explication claire et vérifiée de ce qu'est la chaîne de Titiwangsa, par où elle passe et pourquoi elle divise les fleuves, le climat et le schéma de peuplement de la Malaisie péninsulaire en un côté côte ouest et un côté côte est."
 lang: "fr"
+sourceContentHash: "c92a68e675abc2cc"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -36,10 +36,11 @@ faq:
     a: "La Directive de pratique 10/2024 ne s'applique spécifiquement pas à une société privée qui est une filiale d'une société publique, aux sociétés publiques y compris les sociétés cotées, aux sociétés étrangères, ni aux sociétés privées exemptées qui ont choisi de déposer un certificat de statut en vertu de la section 260 de la CA 2016."
 
 lang: "fr"
+sourceContentHash: "1f9465f320d07544"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

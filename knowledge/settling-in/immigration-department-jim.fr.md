@@ -27,9 +27,10 @@ faq:
   - q: "Combien coûte le nouveau passeport de 10 ans ?"
     a: "Le passeport de 10 ans coûte RM350 pour les demandeurs de 18 à 59 ans, RM175 pour les plus de 60 ans et est gratuit pour les titulaires de carte OKU (handicap) de 18 ans et plus, au titre de l'Ordonnance sur les frais (passeports et visas) (modification) de 2026."
 lang: "fr"
+sourceContentHash: "050995b2068c647c"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

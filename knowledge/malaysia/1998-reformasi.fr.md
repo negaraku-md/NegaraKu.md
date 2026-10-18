@@ -20,11 +20,12 @@ keyTakeaways:
   - "L'ancrage USD1=RM3.80 a été maintenu pendant près de sept ans et a pris fin le 21 juillet 2005, lorsque Bank Negara Malaysia a adopté un flottement dirigé"
 appliesTo: "Les lecteurs qui souhaitent un compte rendu documenté et traçable jusqu'aux sources de la réponse économique de la Malaisie en 1998 (les contrôles des capitaux et l'ancrage du ringgit) et des événements politiques de cette année-là, présenté de manière neutre, sans avaliser aucune interprétation."
 lang: "fr"
+sourceContentHash: "3f82c848946b8ea4"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

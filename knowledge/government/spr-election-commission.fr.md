@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant comprendre la position constitutionnelle de l'organe qui conduit les élections en Malaisie — étudiants, chercheurs, journalistes et lecteurs en général — ainsi que les dispositions constitutionnelles qui établissent le mandat, la composition et les protections du mandat de la Commission électorale."
 
 lang: "fr"
+sourceContentHash: "6a46ae533ead9e08"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

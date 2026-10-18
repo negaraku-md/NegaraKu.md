@@ -32,12 +32,13 @@ faq:
     a: "C'est le cadre que les deux gouvernements ont adopté pour décrire la phase suivante des liens, en s'appuyant sur le partenariat stratégique global établi en 2013. Le concept a été soulevé à partir de 2023 et formalisé dans une déclaration conjointe lors de la visite d'État du président Xi Jinping le 17 avril 2025. Il fixe la coopération dans le commerce, la technologie, l'infrastructure et les liens de personne à personne."
 
 lang: "fr"
+sourceContentHash: "72782c6871b15658"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

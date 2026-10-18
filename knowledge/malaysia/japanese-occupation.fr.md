@@ -19,9 +19,10 @@ keyTakeaways:
   - "L'administration japonaise prit fin avec la capitulation de 1945 ; le document de reddition pour cette région fut signé à l'Hôtel de ville de Singapour le 12 septembre 1945"
 appliesTo: "Élèves, enseignants, chercheurs et lecteurs généraux souhaitant une chronologie sourcée et un récit descriptif de la période 1941-1945 à Malaya et à Bornéo, sans caractérisation ni comparaison des souffrances."
 lang: "fr"
+sourceContentHash: "8db8504e8559d165"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

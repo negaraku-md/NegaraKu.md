@@ -29,9 +29,10 @@ faq:
   - q: "Qu'advint-il finalement des Établissements des Détroits ?"
     a: "Ils furent dissous le 1er avril 1946. Penang et Melaka furent intégrés dans l'Union malaise aux côtés des États malais fédérés et non fédérés, tandis que Singapour fut détachée en tant que colonie de la Couronne distincte."
 lang: "fr"
+sourceContentHash: "9cb8a0574c93b0cb"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

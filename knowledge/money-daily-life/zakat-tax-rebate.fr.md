@@ -31,12 +31,13 @@ faq:
     a: "Pour les sociétés, la zakat d'entreprise est traitée comme une déduction en vertu de la Section 44(11A) et est plafonnée à un quarantième (2.5%) du revenu agrégé, et non comme une ristourne ringgit pour ringgit comme pour les particuliers."
 
 lang: "fr"
+sourceContentHash: "850b3fce0e9aa149"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

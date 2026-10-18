@@ -33,10 +33,11 @@ faq:
     a: "Pas automatiquement. Comme les deux États contrôlent leur propre immigration, les ressortissants étrangers sont de nouveau contrôlés au point d'entrée de Sabah/Sarawak et reçoivent une autorisation ou un laissez-passer d'État distinct."
 
 lang: "fr"
+sourceContentHash: "61e0e60b5ca388ec"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

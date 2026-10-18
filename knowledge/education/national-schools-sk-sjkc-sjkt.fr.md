@@ -29,11 +29,12 @@ faq:
     a: "Les élèves des SJKC et des SJKT peuvent poursuivre dans une école secondaire nationale (SMK, avec le malais comme langue d'enseignement) ou, pour certains élèves de SJKC, dans une école secondaire de type national (SMJK), qui est elle aussi une école publique/subventionnée par l'État. La transition de la langue d'enseignement du primaire au secondaire national est accompagnée par des classes de transition pour les élèves qui en ont besoin."
 
 lang: "fr"
+sourceContentHash: "2c9607178a97bd26"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

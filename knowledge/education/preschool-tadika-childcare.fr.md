@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Parents ou tuteurs en Malaisie cherchant à comprendre les options de garde d'enfants et d'éducation de la petite enfance avant la 1re année, ainsi que quiconque souhaite ouvrir une taska ou une tadika et a besoin de connaître les autorités compétentes."
 
 lang: "fr"
+sourceContentHash: "5be629c8e1fa0846"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -18,11 +18,12 @@ keyTakeaways:
   - "L'institution du sultanat se perpétue dans la Constitution à travers les neuf souverains malais, la Conférence des souverains et le Yang di-Pertuan Agong"
 appliesTo: "Toute personne souhaitant comprendre la structure et le rôle de l'institution traditionnelle du sultanat malais et la manière dont elle se rattache au système actuel de monarchie constitutionnelle."
 lang: "fr"
+sourceContentHash: "95bf275cb438d0b7"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

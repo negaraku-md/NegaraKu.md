@@ -29,11 +29,12 @@ faq:
     a: "Les deux moments sont réels. Le transfert légal de la souveraineté prit effet à minuit le 31 août 1957, marqué par la cérémonie du drapeau sur le padang de Kuala Lumpur. La cérémonie publique de proclamation, avec le septuple cri de « Merdeka », eut lieu plus tard le même matin au Stadium Merdeka."
 
 lang: "fr"
+sourceContentHash: "9d15ea63aee3b87b"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-07-22
 revision: 0
 revisions:

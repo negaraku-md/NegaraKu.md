@@ -49,10 +49,11 @@ obligations:
     consequence: "Responsabilité au titre de l'art. 132(5) pouvant aller jusqu'à cinq ans d'emprisonnement ou une amende pouvant atteindre RM3 millions, ou les deux, et responsabilité personnelle au titre de l'art. 133(2)"
 
 lang: "fr"
+sourceContentHash: "0f48f4bee9e4e684"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

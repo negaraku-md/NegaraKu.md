@@ -34,10 +34,11 @@ faq:
     a: "Exploiter sans enregistrement est une infraction. En vertu de l'article 39, une personne morale encourt une amende de RM10,000 à RM50,000 pour une première infraction et de RM20,000 à RM100,000 pour une infraction ultérieure ; une personne physique encourt RM5,000 à RM25,000 ou jusqu'à six mois d'emprisonnement pour une première infraction."
 
 lang: "fr"
+sourceContentHash: "86582fd00a53a2cd"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

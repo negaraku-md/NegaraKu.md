@@ -29,12 +29,13 @@ faq:
     a: "Une étude gouvernementale d'avril 1999 a relevé des fonctions qui se chevauchaient, des compétences qui se chevauchaient et une utilisation peu économique des ressources entre les agences. La MMEA a été créée pour unifier l'application de la loi maritime sous une agence unique."
 
 lang: "fr"
+sourceContentHash: "d5fb408e6cb3819a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -32,10 +32,11 @@ faq:
     a: "Les familles chrétiennes observent ce jour religieusement par les offices religieux. Au-delà, Noël est marqué plus largement dans la vie publique : les centres commerciaux et les hôtels installent des décorations et organisent des soldes de saison, et la tradition de la maison ouverte, qui consiste à recevoir des invités de toute origine pour un repas partagé, est courante. La participation au versant social, plus large, de la saison ne se limite pas aux chrétiens."
 
 lang: "fr"
+sourceContentHash: "4331ba5a016fc700"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

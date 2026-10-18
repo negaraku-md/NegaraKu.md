@@ -27,9 +27,10 @@ faq:
   - q: "Comment le KPKT s'appelait-il auparavant, et quand le nom a-t-il changé ?"
     a: "C'était le ministère du Développement des collectivités locales ; le Cabinet a décidé de le renommer ministère du Logement et des Collectivités locales le 13 décembre 2023, ce qui a été annoncé le 26 décembre 2023."
 lang: "fr"
+sourceContentHash: "44a0632c979d6de6"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

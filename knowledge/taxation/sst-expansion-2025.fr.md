@@ -56,10 +56,11 @@ obligations:
     consequence: "Escalating late-payment penalty and prosecution"
 
 lang: "fr"
+sourceContentHash: "d706192580f6eecf"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

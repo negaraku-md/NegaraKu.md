@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Propriétaires et conducteurs de véhicules à moteur en Malaisie — voitures, motos et véhicules commerciaux — qui veulent comprendre les types de garantie d'assurance et les exigences légales."
 
 lang: "fr"
+sourceContentHash: "d879ba5dcb3bf1ff"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

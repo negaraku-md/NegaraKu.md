@@ -25,9 +25,10 @@ faq:
   - q: "Le JTKSM couvre-t-il toute la Malaisie ?"
     a: "Non. Le JTKSM couvre la Malaisie péninsulaire. Le Sabah et le Sarawak ont leurs propres départements du travail distincts."
 lang: "fr"
+sourceContentHash: "1575ce3d33c667d0"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

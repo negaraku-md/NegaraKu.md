@@ -30,10 +30,11 @@ faq:
     a: "Le programme NEM 3.0 a pris fin à la fin de juin 2025. Il a été remplacé par le Solar ATAP, qui entre en vigueur le 1er janvier 2026, sans plafond global de quota et géré via le portail eATAP de la SEDA à l'adresse atap.seda.gov.my."
 
 lang: "fr"
+sourceContentHash: "2d635eb062db955f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

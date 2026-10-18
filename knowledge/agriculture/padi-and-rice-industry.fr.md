@@ -27,9 +27,10 @@ faq:
   - q: "D'où provient le riz importé par la Malaisie ?"
     a: "L'essentiel des importations provient du Vietnam, de la Thaïlande, du Pakistan, de l'Inde et du Myanmar, selon BERNAS."
 lang: "fr"
+sourceContentHash: "8a715f161404c46b"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

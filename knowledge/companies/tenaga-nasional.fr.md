@@ -30,10 +30,11 @@ faq:
     a: "TNB possède et exploite le réseau électrique national, qui doit être modernisé pour absorber l'énergie renouvelable, conformément aux objectifs de la Feuille de route nationale de transition énergétique (NETR)."
 
 lang: "fr"
+sourceContentHash: "12e743d05ab159ac"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

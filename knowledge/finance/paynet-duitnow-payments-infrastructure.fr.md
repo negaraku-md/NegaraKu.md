@@ -29,10 +29,11 @@ faq:
     a: "Oui. DuitNow QR est interopérable, de sorte que l'unique code QR d'un commerçant peut être scanné par différentes banques et différents portefeuilles électroniques comme Touch 'n Go eWallet, GrabPay et Boost, dès lors qu'ils y participent."
 
 lang: "fr"
+sourceContentHash: "d327e61449ac93b7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

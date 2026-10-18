@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Employeurs, équipes RH et employés cherchant à comprendre le cadre d'épargne-retraite de la Malaisie."
 
 lang: "fr"
+sourceContentHash: "c90387d901bf5d08"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

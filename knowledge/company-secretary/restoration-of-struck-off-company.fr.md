@@ -28,10 +28,11 @@ faq:
     a: "Non. Le rétablissement nécessite une ordonnance de la Haute Cour. Le Registraire (SSM) est désigné comme défendeur et examine la demande avant l'audience."
 
 lang: "fr"
+sourceContentHash: "abcd7eea51de63b1"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

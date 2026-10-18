@@ -31,10 +31,11 @@ faq:
     a: "Pas directement. Les garanties financières sont des passifs éventuels ; elles ne deviennent de la dette que si elles se matérialisent. L'Act 850 limite les garanties financières à 25 % du PIB et exige une déclaration annuelle de risque fiscal pour divulguer cette exposition."
 
 lang: "fr"
+sourceContentHash: "1dc4f0df2320f2a8"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

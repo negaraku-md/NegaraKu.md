@@ -34,10 +34,11 @@ faq:
     a: "Le syndicat soumet une demande de reconnaissance à l'employeur. L'employeur doit, dans les 21 jours fixés par la section 9(3), soit reconnaître le syndicat, soit lui notifier par écrit les motifs du refus. En cas de refus, l'affaire est renvoyée au DGIR, qui peut organiser un vote à bulletin secret et vérifier la compétence du syndicat par l'intermédiaire du Directeur général des syndicats."
 
 lang: "fr"
+sourceContentHash: "3e83f3a36eb3fa8f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

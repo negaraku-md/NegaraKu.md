@@ -33,10 +33,11 @@ faq:
     a: "Non. L'enseignement supérieur relève d'une loi distincte. L'article 71 de la Loi de 1996 sur l'éducation exclut les établissements privés d'enseignement supérieur, qui sont régis par la Loi de 1996 sur les établissements privés d'enseignement supérieur (Act 555), réglementée par le Ministère de l'enseignement supérieur (MOHE). Vous avez besoin d'une Lettre d'autorisation pour établir, puis de l'enregistrement auprès du Registraire général des PHEI et d'un Certificat d'enregistrement, ainsi que de l'approbation des cours et de l'accréditation de la MQA pour vos programmes — un régime plus lourd qu'un centre de soutien scolaire ou une école."
 
 lang: "fr"
+sourceContentHash: "d390cb119ff8a023"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

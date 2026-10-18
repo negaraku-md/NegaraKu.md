@@ -29,9 +29,10 @@ faq:
     a: "Les chemises de batik sont une tenue formelle acceptée pour les hommes, portée lors des cérémonies officielles, des mariages et des occasions diplomatiques à la place du costume et de la cravate. Les administrations publiques désignent des jours où l'on porte le batik, ce qui le maintient en circulation courante plutôt que de le confiner à un usage cérémoniel."
 
 lang: "fr"
+sourceContentHash: "239aa5ec5e035842"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

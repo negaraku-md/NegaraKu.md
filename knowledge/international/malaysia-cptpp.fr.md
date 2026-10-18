@@ -34,10 +34,11 @@ faq:
     a: "Des règles contraignantes sur les entreprises publiques et les monopoles désignés, la propriété intellectuelle, le travail, l'environnement, les marchés publics, le commerce électronique et les flux transfrontaliers de données, ainsi que l'investissement (y compris le règlement des différends investisseur-État). La Malaisie a obtenu des périodes de transition et des lettres annexes — par exemple des protections pour PETRONAS et des flexibilités pour ses entreprises publiques."
 
 lang: "fr"
+sourceContentHash: "9c8e25e6d3236954"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

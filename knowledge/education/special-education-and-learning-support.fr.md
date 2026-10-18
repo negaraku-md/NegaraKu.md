@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Parents et aidants d'un enfant en Malaisie ayant un handicap ou une difficulté d'apprentissage diagnostiqués, qui cherchent à déterminer quel placement scolaire et quelles démarches d'enregistrement s'appliquent."
 
 lang: "fr"
+sourceContentHash: "e0164ad51b29c01a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

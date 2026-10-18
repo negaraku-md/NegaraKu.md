@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant à comprendre ce que signifie « kampung » au-delà de son sens littéral — y compris les chercheurs, les écrivains, les fonctionnaires et les nouveaux venus confrontés à l'administration rurale."
 
 lang: "fr"
+sourceContentHash: "179d1d79aa799fca"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -47,10 +47,11 @@ verificationNeeded:
   - "Toute statistique de débit ou de valeur commerciale de la DFTZ après 2020. Aucune n'existe à partir d'une source officielle, et après la radiation de MAHB le 25 février 2025 aucune ne peut être obtenue — c'est structurellement inaccessible, non simplement introuvable."
 
 lang: "fr"
+sourceContentHash: "b20fb73bf5494f07"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

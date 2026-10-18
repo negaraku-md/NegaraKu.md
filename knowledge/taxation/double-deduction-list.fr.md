@@ -28,10 +28,11 @@ verificationNeeded:
   - "Si le P.U.(A) 164/2019 a été prorogé au-delà de l'AE2025 par un instrument publié au journal officiel après la rédaction de cette page."
 
 lang: "fr"
+sourceContentHash: "94db45958fc37cd4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

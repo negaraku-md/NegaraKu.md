@@ -29,11 +29,12 @@ faq:
     a: "Non. L'accord engagea les deux parties à un futur traité sur la défense extérieure avec un conseil de défense conjoint, à la coopération économique, et à des garanties mutuelles d'État à État des accords sur l'eau du 1er septembre 1961 et du 29 septembre 1962 entre le Conseil municipal de Singapour et le Gouvernement de l'État de Johor. Les appels de la Haute Cour de Singapour continuèrent également d'être portés devant la Cour fédérale de Malaisie à titre d'arrangement temporaire jusqu'à ce que Singapour légifère autrement."
 
 lang: "fr"
+sourceContentHash: "0de005f939d65ebf"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

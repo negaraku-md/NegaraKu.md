@@ -43,10 +43,11 @@ verificationNeeded:
   - "Confirmer si la banque exige la consultation du registre des bénéficiaires effectifs tenu au titre des art. 60B et 60C de la Companies Act 2016 — c'est une pratique courante mais ce n'est pas une exigence énoncée dans le document de politique"
 
 lang: "fr"
+sourceContentHash: "75370094a3730df5"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

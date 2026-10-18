@@ -29,10 +29,11 @@ faq:
     a: "Les SUKMA sont l'étape au niveau des États où les jeunes athlètes font valoir leur talent. Les athlètes à potentiel peuvent être promus vers les programmes de développement des talents et de relève du MSN, puis vers le Programme Podium de l'ISN, qui prépare les athlètes d'élite aux jeux internationaux."
 
 lang: "fr"
+sourceContentHash: "82263beab0c4a71a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

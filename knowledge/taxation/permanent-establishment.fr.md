@@ -39,10 +39,11 @@ verificationNeeded:
   - "Malaysia's full list of MLI reservations and notifications on Articles 12 and 13 was not retrieved from a Malaysian government source. The Malaysia-Japan synthesised text confirms both articles apply to that treaty pair; do not generalise to another treaty without reading its own synthesised text"
 
 lang: "fr"
+sourceContentHash: "7dd6ea1d4a097c43"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -27,9 +27,10 @@ faq:
   - q: "Qui dirige le ministère des Finances ?"
     a: "En août 2026, le ministre des Finances est Dato' Seri Anwar bin Ibrahim, avec Datuk Seri Amir Hamzah bin Azizan comme ministre des Finances II et Datuk Johan Mahmood bin Merican comme secrétaire général du Trésor. Les titulaires changent au gré des remaniements ministériels, alors vérifiez les noms actuels sur mof.gov.my."
 lang: "fr"
+sourceContentHash: "d725c73359a7391e"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

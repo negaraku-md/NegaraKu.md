@@ -29,12 +29,13 @@ faq:
     a: "L'article 38(6) confère à la Conférence des Souverains le pouvoir de destituer l'Agong. Selon les commentaires juridiques, ce pouvoir n'a jamais été utilisé au cours de l'histoire du pays."
 
 lang: "fr"
+sourceContentHash: "f2d2c6ec105b4198"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

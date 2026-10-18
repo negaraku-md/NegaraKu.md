@@ -33,9 +33,10 @@ faq:
   - q: "Qu'advint-il finalement des deux groupes ?"
     a: "Les États malais fédérés comme les États malais non fédérés furent dissous dans l'Union malaise le 1er avril 1946, elle-même remplacée en quelques années par la Fédération de Malaya."
 lang: "fr"
+sourceContentHash: "3bcc3b32fd59d463"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

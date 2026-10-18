@@ -32,10 +32,11 @@ faq:
     a: "La nature de la relation, le montant des transactions, le solde en cours et ses termes, toute sûreté ou garantie reçue ou donnée, et la provision pour créances douteuses relative à ce solde."
 
 lang: "fr"
+sourceContentHash: "ae54f875cbc22c20"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

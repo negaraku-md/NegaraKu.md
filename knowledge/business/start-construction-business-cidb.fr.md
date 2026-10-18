@@ -33,10 +33,11 @@ faq:
     a: "C'est une infraction pénale. En vertu de l'article 29 de l'Act 520, contrevenir à l'article 25(1) est puni, en cas de condamnation, d'une amende non inférieure à RM10,000 et non supérieure à RM100,000. Par ailleurs, en vertu de l'article 30, la CIDB peut vous notifier par écrit l'ordre d'arrêter les travaux ; passer outre cette notification est en soi une infraction entraînant une amende pouvant aller jusqu'à RM5,000, plus jusqu'à RM1,000 par jour de persistance de l'infraction."
 
 lang: "fr"
+sourceContentHash: "d4cd90059b767133"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

@@ -30,10 +30,11 @@ faq:
     a: "Traitez-les comme une traduction, et non comme une source. Les pages en anglais de LHDN sont traduites automatiquement et contiennent des erreurs confirmées qui inversent le sens. Pour tout ce qui compte, lisez la page originale en malais et citez-la."
 
 lang: "fr"
+sourceContentHash: "558a5f369fe484be"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

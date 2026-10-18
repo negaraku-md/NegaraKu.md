@@ -33,12 +33,13 @@ faq:
     a: "L'Article 153(4), (7) et (8) établissent que l'Article ne peut priver une personne d'une charge publique, d'une bourse, d'un droit, d'un privilège, d'un permis ou d'une licence dont elle jouit déjà ou qu'elle détient déjà."
 
 lang: "fr"
+sourceContentHash: "90a331e05e64e807"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

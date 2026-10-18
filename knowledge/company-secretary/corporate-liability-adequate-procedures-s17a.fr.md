@@ -35,10 +35,11 @@ faq:
     a: "Il n'existe pas de liste de contrôle figée, mais les Lignes directrices du GIACC sur les procédures adéquates énoncent cinq principes connus sous l'acronyme T.R.U.S.T. qu'un tribunal est susceptible de peser pour déterminer si les procédures étaient adéquates."
 
 lang: "fr"
+sourceContentHash: "6d976fa3bddc473d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

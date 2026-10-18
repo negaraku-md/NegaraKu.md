@@ -27,10 +27,11 @@ faq:
     a: "En vertu de la section 593 de la Companies Act 2016, une déclaration ou un rapport faux au Registraire (SSM) est passible d'un emprisonnement allant jusqu'à 10 ans, d'une amende allant jusqu'à RM3 millions, ou des deux."
 
 lang: "fr"
+sourceContentHash: "e1c1cbfc3de7c89d"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

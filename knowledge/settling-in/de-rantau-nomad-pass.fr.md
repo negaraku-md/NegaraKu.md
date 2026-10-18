@@ -31,10 +31,11 @@ faq:
     a: "Oui. Un conjoint ou partenaire de fait, les enfants de moins de 18 ans, un enfant en situation de handicap et les parents du titulaire principal peuvent faire une demande en tant que personnes à charge, mais un conjoint ne peut pas travailler au titre du pass."
 
 lang: "fr"
+sourceContentHash: "f5c5f5f455206b06"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

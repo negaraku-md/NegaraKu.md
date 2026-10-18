@@ -64,10 +64,11 @@ obligations:
     consequence: "Amende ne dépassant pas RM50,000, et RM500 par jour pour une infraction continue"
 
 lang: "fr"
+sourceContentHash: "38c8dd582de83b15"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

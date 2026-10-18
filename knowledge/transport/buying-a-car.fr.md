@@ -29,10 +29,11 @@ faq:
     a: "La banque ou la société de financement est enregistrée comme le propriétaire légal du véhicule en vertu de la Hire-Purchase Act 1967 pendant toute la durée du prêt. L'acheteur est le détenteur enregistré qui a l'usage quotidien du véhicule, et ne devient le propriétaire enregistré qu'une fois le prêt intégralement remboursé et une mainlevée émise par l'organisme de financement."
 
 lang: "fr"
+sourceContentHash: "fbeedb8341d7b377"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -50,10 +50,11 @@ obligations:
     consequence: "Late-payment charges and enforcement action"
 
 lang: "fr"
+sourceContentHash: "dfd63c27558be655"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

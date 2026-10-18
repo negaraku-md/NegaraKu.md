@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Fondateurs, conseillers fiscaux et équipes financières évaluant une structure à Labuan, et lecteurs souhaitant comprendre pourquoi Labuan est traitée différemment du reste de la Malaisie."
 
 lang: "fr"
+sourceContentHash: "398103a0292eae47"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

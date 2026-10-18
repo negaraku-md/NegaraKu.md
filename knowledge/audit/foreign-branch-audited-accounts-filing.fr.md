@@ -30,10 +30,11 @@ faq:
     a: "Une copie des propres états financiers de la société doit être déposée, mais l'article 575(5) exige en outre un état dûment audité couvrant les actifs employés dans ses activités malaisiennes et les passifs qui en découlent, donnant une image fidèle et sincère conformément aux normes comptables approuvées."
 
 lang: "fr"
+sourceContentHash: "857f2052ec7f627d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

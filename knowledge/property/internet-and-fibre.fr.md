@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui loue, achète ou emménage dans un logement en Malaisie et qui a besoin de faire raccorder un haut débit fixe."
 
 lang: "fr"
+sourceContentHash: "651bab79a176221b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

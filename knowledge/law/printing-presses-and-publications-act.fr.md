@@ -29,12 +29,13 @@ faq:
     a: "La section 7 permet au ministre, par une ordonnance publiée au Journal officiel (Gazette), d'interdire toute publication jugée préjudiciable ou susceptible d'être préjudiciable à l'ordre public, à la sécurité, à la moralité, aux relations avec un pays étranger ou à l'intérêt national."
 
 lang: "fr"
+sourceContentHash: "614accf2d6e4feba"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

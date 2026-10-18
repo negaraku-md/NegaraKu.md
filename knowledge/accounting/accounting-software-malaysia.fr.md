@@ -29,10 +29,11 @@ verificationNeeded:
   - "La Directive e-Invoice et la Directive spécifique sont révisées fréquemment — confirmez la version actuelle avant de considérer toute exigence d'intégration comme acquise"
 
 lang: "fr"
+sourceContentHash: "2723b917b69eeed3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

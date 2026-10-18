@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Toute personne en Malaisie qui est enceinte, qui planifie une grossesse, ou qui accompagne une partenaire ou un membre de sa famille durant une grossesse, et qui souhaite comprendre comment s'articulent le système prénatal public, les soins privés et l'enregistrement de la naissance."
 
 lang: "fr"
+sourceContentHash: "8182db0933e495e5"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

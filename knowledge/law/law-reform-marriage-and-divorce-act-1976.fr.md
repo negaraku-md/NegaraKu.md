@@ -33,10 +33,11 @@ faq:
     a: "La High Court a le pouvoir de partager les biens acquis pendant le mariage au titre de la section 76, en tenant compte des contributions financières et non financières, des dettes contractées au bénéfice de la famille, des besoins des enfants et de la durée du mariage. Le partage n'est pas nécessairement de 50:50."
 
 lang: "fr"
+sourceContentHash: "9844bf61f2e89ad7"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

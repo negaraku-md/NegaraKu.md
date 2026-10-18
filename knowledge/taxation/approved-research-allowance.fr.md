@@ -56,10 +56,11 @@ obligations:
     consequence: "The claim is unsupported on audit"
 
 lang: "fr"
+sourceContentHash: "4e8917612cf718a7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

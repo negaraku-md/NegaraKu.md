@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Toute personne en Malaisie — citoyen, résident, titulaire d'un permis de travail, étudiant ou touriste — qui a besoin d'acheter ou d'enregistrer une carte SIM mobile locale."
 
 lang: "fr"
+sourceContentHash: "5f238099826ab02d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

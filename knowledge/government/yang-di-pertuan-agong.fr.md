@@ -37,12 +37,13 @@ verificationNeeded:
   - "Vérifier la liste d'élection actuellement en vigueur par rapport à l'annonce officielle du Gardien du Sceau des Souverains."
 
 lang: "fr"
+sourceContentHash: "acdf97d3f8926008"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

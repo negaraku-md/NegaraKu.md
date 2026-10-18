@@ -19,12 +19,13 @@ keyTakeaways:
 appliesTo: "Lecteurs recherchant un profil factuel de Sabah — sa géographie, son économie et son gouvernement — et un compte rendu neutre de sa position constitutionnelle en vertu de l'Accord de la Malaisie de 1963."
 
 lang: "fr"
+sourceContentHash: "d05db2b4db752c79"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

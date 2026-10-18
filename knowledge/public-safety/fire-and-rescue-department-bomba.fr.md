@@ -31,10 +31,11 @@ faq:
     a: "Le JBPM figure comme un département relevant du ministère du Logement et des Collectivités locales (KPKT). Les portefeuilles ministériels en Malaisie sont réorganisés de temps à autre, aussi confirmez la configuration en vigueur sur kpkt.gov.my ou bomba.gov.my avant de vous y fier dans des documents officiels."
 
 lang: "fr"
+sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

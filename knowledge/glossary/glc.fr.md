@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Investisseurs, demandeurs d'emploi, fournisseurs répondant à des appels d'offres, et toute personne lisant la couverture de l'actualité économique malaisienne."
 
 lang: "fr"
+sourceContentHash: "9155b753e9fc9969"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

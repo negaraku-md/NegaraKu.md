@@ -33,10 +33,11 @@ faq:
     a: "Une société étrangère immatriculée doit déposer une déclaration annuelle dans les 30 jours de l'anniversaire de son immatriculation (article 576) et déposer des états financiers auprès de la SSM (article 575), en plus de tenir à jour les coordonnées de son siège social et de son agent."
 
 lang: "fr"
+sourceContentHash: "76459d3892f48c61"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

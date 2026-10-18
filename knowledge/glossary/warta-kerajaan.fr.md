@@ -27,10 +27,11 @@ verificationNeeded:
   - "Le texte cité de l'Article 66(5) est la traduction en langue malaise réalisée par le Département du Procureur général ; le vérifier par rapport au texte anglais faisant foi."
 
 lang: "fr"
+sourceContentHash: "f029a1ff1ebfdbf1"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

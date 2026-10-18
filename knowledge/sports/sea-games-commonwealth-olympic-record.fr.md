@@ -34,10 +34,11 @@ faq:
     a: "L'organisation des Jeux de 1998 à Kuala Lumpur, où elle a enregistré son meilleur butin de 10 médailles d'or et terminé quatrième au classement général. Ce furent aussi les premiers Jeux du Commonwealth jamais tenus en Asie."
 
 lang: "fr"
+sourceContentHash: "d25df756ce38577d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

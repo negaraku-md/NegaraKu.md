@@ -34,10 +34,11 @@ faq:
     a: "La perte de couvert arboré compte toute suppression du couvert arboré — y compris la récolte des plantations et les dommages causés par les incendies et les tempêtes — et inclut donc des pertes qui repoussent ensuite. La perte de forêt primaire ne compte que le défrichement de forêt naturelle mature, à la biodiversité et au carbone irremplaçables, et constitue le meilleur indicateur de la perte écologique permanente."
 
 lang: "fr"
+sourceContentHash: "0965237e8942626f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

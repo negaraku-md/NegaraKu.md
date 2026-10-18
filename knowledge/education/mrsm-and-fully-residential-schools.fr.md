@@ -29,12 +29,13 @@ faq:
     a: "Les demandes se font en ligne via le portail du MOE, et les élèves sont filtrés par l'Évaluation d'admission aux écoles spéciales (PKSK), avec les résultats scolaires et parascolaires."
 
 lang: "fr"
+sourceContentHash: "8256668a3fad86ff"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

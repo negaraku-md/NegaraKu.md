@@ -31,10 +31,11 @@ faq:
     a: "Non. Le droit d'accise sur les boissons sucrées cible les boissons prêtes à boire de la position HS 2202 contenant plus de 5 grammes de sucre pour 100 ml, les boissons à base de lait dépassant 7 grammes de sucre pour 100 ml, et les jus de fruits ou de légumes de la position HS 2009 dépassant 12 grammes de sucre pour 100 ml. Le seuil diffère selon la catégorie."
 
 lang: "fr"
+sourceContentHash: "84d4e95aaaa26789"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

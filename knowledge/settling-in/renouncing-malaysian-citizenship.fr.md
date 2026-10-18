@@ -32,12 +32,13 @@ faq:
     a: "Le portail MyGovernment indique que la décision est permanente et irrévocable ; quiconque renonce à sa citoyenneté perd de façon permanente tous les droits et privilèges de citoyen malaisien."
 
 lang: "fr"
+sourceContentHash: "350dd3e83765a9b5"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

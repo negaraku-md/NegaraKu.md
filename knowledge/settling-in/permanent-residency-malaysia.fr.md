@@ -34,10 +34,11 @@ faq:
     a: "Oui. Le recours doit être présenté au Ministre de l'Intérieur dans les 30 jours suivant la date de la lettre de rejet, accompagné d'une lettre d'appel, de la lettre de rejet et des pièces justificatives."
 
 lang: "fr"
+sourceContentHash: "d074952166cefba5"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

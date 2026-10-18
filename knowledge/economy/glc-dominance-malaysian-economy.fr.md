@@ -32,10 +32,11 @@ faq:
     a: "Oui. L'initiative PERKUKUH, lancée en 2021, a défini 20 initiatives visant, entre autres, à donner à chaque GLIC un mandat plus clair, à accroître la participation du secteur privé (« crowding in ») et à rationaliser le rôle du gouvernement dans les affaires, tout en orientant davantage d'investissements vers des domaines catalyseurs et de développement."
 
 lang: "fr"
+sourceContentHash: "72a029d7e3ea589d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

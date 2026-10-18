@@ -36,10 +36,11 @@ faq:
     a: "MyDIGITAL est conçu pour compléter les politiques nationales de développement telles que le 12e Plan de la Malaisie (RMKe-12) et la Vision de prospérité partagée 2030 (WKB 2030), qui reconnaissent l'économie numérique comme une activité clé de croissance économique."
 
 lang: "fr"
+sourceContentHash: "ac3f23832d2acdba"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Ressortissants étrangers ayant une offre d'emploi en Malaisie, et toute personne détenant déjà ou renouvelant un Employment Pass en Malaisie."
 
 lang: "fr"
+sourceContentHash: "1684527edc9ec752"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

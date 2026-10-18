@@ -35,10 +35,11 @@ faq:
     a: "Pas nécessairement. Une succession évaluée à au plus RM5 millions peut être administrée par l'Unité de distribution des petites successions au bureau foncier au titre de la Small Estates (Distribution) Act 1955, généralement sans avocat et sans frais de dépôt du bureau foncier. Depuis que l'amendement a pris effet le 15 juillet 2024, une succession n'a plus besoin de contenir des biens immobiliers pour emprunter cette voie."
 
 lang: "fr"
+sourceContentHash: "109171c4b389867e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

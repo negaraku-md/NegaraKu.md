@@ -32,10 +32,11 @@ faq:
     a: "Oui. La SC a introduit un cadre de financement participatif en capital (en vigueur à partir du 10 février 2015) et un cadre de financement de pair à pair (avril 2016), tous deux fonctionnant comme des marchés reconnus en vertu de ses règles."
 
 lang: "fr"
+sourceContentHash: "e26f048f1170e63c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

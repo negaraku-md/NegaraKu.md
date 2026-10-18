@@ -26,10 +26,11 @@ verificationNeeded:
   - "Aucun chiffre de frais, de taux de change ou de volume de transfert n'est indiqué où que ce soit dans cet article, conformément au mandat de rédaction — tous ces chiffres doivent être obtenus directement auprès de la banque ou de la MSB agréée au moment du transfert."
 
 lang: "fr"
+sourceContentHash: "7ef5c9d18c446cfa"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

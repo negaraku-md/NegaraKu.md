@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Toute personne interprétant les données du marché du travail malaisien : demandeurs d'emploi, employeurs, décideurs politiques et analystes."
 
 lang: "fr"
+sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

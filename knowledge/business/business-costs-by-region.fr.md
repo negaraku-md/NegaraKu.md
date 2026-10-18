@@ -47,10 +47,11 @@ verificationNeeded:
   - "No official median industrial or office rent by state exists. Confirm whether JPPH publishes any rental series not visible in the Property Stock Report or the regional Property Market Reports"
 
 lang: "fr"
+sourceContentHash: "7197254874c986ae"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

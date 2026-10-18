@@ -48,10 +48,11 @@ obligations:
     consequence: "Le montant non payé est majoré de 10 pour cent et la dépense est écartée en vertu de la s.39(1)(f), (i) ou (j)"
 
 lang: "fr"
+sourceContentHash: "091d81b974b404be"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -4,72 +4,72 @@ import { articleToMarkdown } from '@/lib/raw';
 import { SITE } from '@/lib/site';
 import { localePath, type Locale } from '@/lib/i18n';
 
-// Intro blockquote per language, kept parallel across all twelve locales. Each
+// Intro blockquote per language, kept parallel across all thirteen locales. Each
 // language has its own /<lang>/llms.txt, so the intro is written in that language.
 const INTRO: Record<Locale, string[]> = {
   ms: [
     '> Pangkalan pengetahuan sumber terbuka dan mesra-AI tentang Malaysia. Markdown',
     '> yang dikurasi dan bersumber, boleh disunting komuniti melalui GitHub, dalam',
-    '> dua belas bahasa. Tambah `.md` pada mana-mana URL artikel untuk Markdown mentah.',
+    '> tiga belas bahasa. Tambah `.md` pada mana-mana URL artikel untuk Markdown mentah.',
   ],
   en: [
     '> An open-source, AI-friendly knowledge base about Malaysia. Curated, cited',
-    '> Markdown, community-editable via GitHub, in twelve languages. Append `.md` to any',
+    '> Markdown, community-editable via GitHub, in thirteen languages. Append `.md` to any',
     '> article URL for raw Markdown. Each language has its own /<lang>/llms.txt.',
   ],
   zh: [
     '> 一个开源、对 AI 友好的马来西亚知识库。内容为经过策划并注明来源的 Markdown，',
-    '> 可通过 GitHub 由社区编辑，提供十二种语言。在任意文章 URL 后追加 `.md` 即可',
+    '> 可通过 GitHub 由社区编辑，提供十三种语言。在任意文章 URL 后追加 `.md` 即可',
     '> 获取原始 Markdown。每种语言都有各自的 /<lang>/llms.txt。',
   ],
   ta: [
     '> மலேசியா பற்றிய திறந்த-மூல, AI-நட்பு அறிவுத் தளம். தொகுக்கப்பட்ட, மேற்கோள்',
-    '> காட்டப்பட்ட Markdown, GitHub மூலம் சமூகத்தால் திருத்தக்கூடியது, பன்னிரண்டு மொழிகளில்.',
+    '> காட்டப்பட்ட Markdown, GitHub மூலம் சமூகத்தால் திருத்தக்கூடியது, பதின்மூன்று மொழிகளில்.',
     '> மூல Markdown-க்கு எந்த கட்டுரை URL-லும் `.md` சேர்க்கவும்.',
   ],
   ja: [
     '> マレーシアに関するオープンソースで AI フレンドリーな知識ベース。厳選・出典付きの',
-    '> Markdown で、GitHub を通じてコミュニティが編集でき、12 言語で提供。記事 URL に',
+    '> Markdown で、GitHub を通じてコミュニティが編集でき、13 言語で提供。記事 URL に',
     '> `.md` を追加すると生の Markdown が得られます。各言語に /<lang>/llms.txt があります。',
   ],
   ko: [
     '> 말레이시아에 관한 오픈소스, AI 친화적 지식 베이스. 선별·출처 표기된 Markdown으로,',
-    '> GitHub를 통해 커뮤니티가 편집할 수 있으며 12개 언어로 제공됩니다. 기사 URL에 `.md`를',
+    '> GitHub를 통해 커뮤니티가 편집할 수 있으며 13개 언어로 제공됩니다. 기사 URL에 `.md`를',
     '> 붙이면 원본 Markdown을 얻을 수 있습니다. 각 언어마다 /<lang>/llms.txt가 있습니다.',
   ],
   th: [
     '> ฐานความรู้เกี่ยวกับมาเลเซียแบบโอเพนซอร์สและเป็นมิตรกับ AI เป็น Markdown ที่คัดสรร',
-    '> และอ้างอิงแหล่งที่มา ชุมชนแก้ไขได้ผ่าน GitHub มีให้ใน 12 ภาษา เพิ่ม `.md` ต่อท้าย',
+    '> และอ้างอิงแหล่งที่มา ชุมชนแก้ไขได้ผ่าน GitHub มีให้ใน 13 ภาษา เพิ่ม `.md` ต่อท้าย',
     '> URL บทความใดก็ได้เพื่อรับ Markdown ดิบ แต่ละภาษามี /<lang>/llms.txt ของตนเอง',
   ],
   vi: [
     '> Cơ sở tri thức mã nguồn mở, thân thiện với AI về Malaysia. Markdown được tuyển',
-    '> chọn, trích dẫn nguồn, cộng đồng chỉnh sửa qua GitHub, bằng mười hai ngôn ngữ. Thêm',
+    '> chọn, trích dẫn nguồn, cộng đồng chỉnh sửa qua GitHub, bằng mười ba ngôn ngữ. Thêm',
     '> `.md` vào bất kỳ URL bài viết nào để lấy Markdown thô.',
   ],
   id: [
     '> Basis pengetahuan sumber terbuka dan ramah-AI tentang Malaysia. Markdown yang',
-    '> terkurasi dan bersumber, dapat disunting komunitas melalui GitHub, dalam dua belas',
+    '> terkurasi dan bersumber, dapat disunting komunitas melalui GitHub, dalam tiga belas',
     '> bahasa. Tambahkan `.md` ke URL artikel mana pun untuk Markdown mentah.',
   ],
   ar: [
     '> قاعدة معرفة مفتوحة المصدر وملائمة للذكاء الاصطناعي (AI) حول ماليزيا. Markdown',
-    '> منسّق وموثّق المصادر، قابل للتحرير من المجتمع عبر GitHub، باثنتي عشرة لغة. أضِف `.md` إلى أي',
+    '> منسّق وموثّق المصادر، قابل للتحرير من المجتمع عبر GitHub، بثلاث عشرة لغة. أضِف `.md` إلى أي',
     '> رابط مقال للحصول على Markdown الخام. لكل لغة ملف /<lang>/llms.txt خاص بها.',
   ],
   hi: [
     '> मलेशिया के बारे में एक ओपन-सोर्स, AI-अनुकूल ज्ञान-आधार। क्यूरेटेड, स्रोत-सहित',
-    '> Markdown, GitHub के माध्यम से समुदाय द्वारा संपादन-योग्य, बारह भाषाओं में। कच्चे Markdown के',
+    '> Markdown, GitHub के माध्यम से समुदाय द्वारा संपादन-योग्य, तेरह भाषाओं में। कच्चे Markdown के',
     '> लिए किसी भी लेख URL के अंत में `.md` जोड़ें। प्रत्येक भाषा का अपना /<lang>/llms.txt है।',
   ],
   es: [
     '> Una base de conocimiento de código abierto y apta para la AI sobre Malasia. Markdown',
-    '> curado y con fuentes citadas, editable por la comunidad vía GitHub, en doce idiomas.',
+    '> curado y con fuentes citadas, editable por la comunidad vía GitHub, en trece idiomas.',
     '> Añade `.md` a cualquier URL de artículo para obtener el Markdown en bruto. Cada idioma tiene su propio /<lang>/llms.txt.',
   ],
   fr: [
     "> Une base de connaissances open source et adaptée à l'IA sur la Malaisie. Markdown",
-    "> sélectionné et sourcé, modifiable par la communauté via GitHub, en douze langues.",
+    "> sélectionné et sourcé, modifiable par la communauté via GitHub, en treize langues.",
     "> Ajoutez `.md` à l'URL de n'importe quel article pour obtenir le Markdown brut. Chaque langue a son propre /<lang>/llms.txt.",
   ],
 };

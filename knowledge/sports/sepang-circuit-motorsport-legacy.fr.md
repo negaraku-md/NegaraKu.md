@@ -37,10 +37,11 @@ faq:
     a: "L'ingénieur allemand Hermann Tilke l'a conçu — son premier circuit de Formule 1 construit sur mesure. Le tracé de Grand Prix mesure 5.543 km de long avec 15 virages et une largeur de piste variant de 16 à 20 mètres."
 
 lang: "fr"
+sourceContentHash: "a2a0e6bd77b78348"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

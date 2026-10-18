@@ -34,10 +34,11 @@ faq:
     a: "Pour les personnes physiques, oui : la cession d'actions d'une société immobilière (RPC) reste soumise au RPGT. Toutefois, depuis le 1er mars 2024, la cession de telles actions par des sociétés, des sociétés à responsabilité limitée, des entités fiduciaires et des coopératives relève du régime de l'impôt sur les plus-values de cession en vertu de la Loi de 1967 sur l'impôt sur le revenu (Income Tax Act 1967)."
 
 lang: "fr"
+sourceContentHash: "7363fccb7997191f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

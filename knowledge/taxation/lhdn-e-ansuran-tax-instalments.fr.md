@@ -33,10 +33,11 @@ faq:
     a: "Non. LHDN indique que l'annulation d'une demande e-Ansuran ne peut se faire qu'en personne dans un bureau de LHDN (HASiL) — elle ne peut pas se faire via le portail. La demande elle-même est en ligne et l'approbation est automatique, mais la modifier ou l'annuler est une affaire d'agence."
 
 lang: "fr"
+sourceContentHash: "f73e04ba5e0d7818"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

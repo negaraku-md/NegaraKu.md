@@ -29,10 +29,11 @@ faq:
     a: "Le HSN est la journée phare de la célébration. Depuis 2019, le KBS a étendu la célébration à tout le mois d'octobre sous le nom de Mois national du sport (BSN)."
 
 lang: "fr"
+sourceContentHash: "51f2375791aa9f72"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

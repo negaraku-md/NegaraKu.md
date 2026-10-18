@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant à comprendre les systèmes juridiques malais traditionnels — étudiants en histoire, en droit et en études malaisiennes, journalistes, fonctionnaires et lecteurs en général déconcertés par la différence entre l'Adat Perpatih et l'Adat Temenggung."
 
 lang: "fr"
+sourceContentHash: "d4460bfefd0c039f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

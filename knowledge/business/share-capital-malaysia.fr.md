@@ -66,10 +66,11 @@ obligations:
     statute: "Companies Act 2016, s.85"
 
 lang: "fr"
+sourceContentHash: "ac9c3894e3319f9f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

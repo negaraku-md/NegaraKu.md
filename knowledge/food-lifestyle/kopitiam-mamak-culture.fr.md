@@ -37,10 +37,11 @@ faq:
     a: "L'Organe d'évaluation de l'UNESCO a recommandé l'inscription après avoir constaté que la culture du petit-déjeuner de la Malaisie remplissait les critères de la Convention de 2003 pour la sauvegarde du patrimoine culturel immatériel, et le Comité intergouvernemental a alors pris la décision de l'inscrire. Le Comité a conclu que la préparation et le plaisir des aliments du petit-déjeuner — bien que pratiqués à l'origine par un groupe ethnique particulier — en sont finalement venus à être appréciés de tous, quelle que soit l'origine ethnique, et que cela renforce l'unité qui reflète l'identité de la Malaisie en tant que nation multiethnique."
 
 lang: "fr"
+sourceContentHash: "d9dc5e7ae2dd9a7e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

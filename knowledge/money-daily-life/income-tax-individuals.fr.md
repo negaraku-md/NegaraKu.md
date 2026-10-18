@@ -27,10 +27,11 @@ verificationNeeded:
   - "Le délai annuel de dépôt (30 avril manuel / 15 mai e-Filing) est confirmé pour l'Année d'évaluation 2025 par le communiqué de presse daté de LHDN lui-même ; LHDN publie un nouveau programme de dépôt chaque année, vérifiez donc les dates de l'année en cours avant de vous y fier pour une année d'évaluation différente."
 
 lang: "fr"
+sourceContentHash: "027e674e99f0cfb0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

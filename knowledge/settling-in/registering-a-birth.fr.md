@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Parents, tuteurs ou toute personne chargée d'enregistrer la naissance d'un enfant né en Malaisie, y compris les cas d'enregistrement tardif et de nouvelle demande de certificat de naissance."
 
 lang: "fr"
+sourceContentHash: "02c6a3d01833544f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

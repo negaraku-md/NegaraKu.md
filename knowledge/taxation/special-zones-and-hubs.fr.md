@@ -44,10 +44,11 @@ verificationNeeded:
   - "Confirmer la base légale sur laquelle MIDA s'appuie pour l'ITA du Smart Logistics Complex de JS-SEZ — la directive cite la P.U.(A) 113/2006, un instrument antérieur à 2011 en dehors de la couverture fiable de l'AGC, et son texte opérationnel n'a pas été récupéré"
 
 lang: "fr"
+sourceContentHash: "2c106e0d7c225687"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

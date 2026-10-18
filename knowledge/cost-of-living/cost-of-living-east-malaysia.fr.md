@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui déménage à Sabah ou Sarawak ou en établit le budget, qui compare les prix de la Malaisie orientale à ceux de la Malaisie péninsulaire, ou qui cherche à comprendre pourquoi un même produit peut porter une étiquette de prix différente de part et d'autre de la mer de Chine méridionale."
 
 lang: "fr"
+sourceContentHash: "327dd8ebe6d5d915"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

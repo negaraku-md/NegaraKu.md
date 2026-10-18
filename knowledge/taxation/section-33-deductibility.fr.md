@@ -38,10 +38,11 @@ faq:
     a: "Au contribuable. Le paragraphe 13 de la Schedule 5 de l'Income Tax Act 1967 fait peser sur l'appelant la charge de prouver qu'une liquidation est excessive ou erronée. En pratique, cela suppose des factures, des accords, des justificatifs de paiement et la preuve que le service a effectivement été rendu — plusieurs appels rapportés ont échoué uniquement parce que l'étendue et la fin de la dépense n'ont pas pu être documentées."
 
 lang: "fr"
+sourceContentHash: "669796e4c8074cfe"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

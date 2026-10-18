@@ -35,10 +35,11 @@ faq:
     a: "Le droit de timbre est de 0.5 % du montant du prêt en vertu du Stamp Act 1949. Par exemple, un prêt de RM450,000 génère un droit de RM2,250. Le paiement doit être effectué dans un délai de 30 jours à compter de la date de signature du contrat."
 
 lang: "fr"
+sourceContentHash: "9739f168cee000e2"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

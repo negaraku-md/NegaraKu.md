@@ -40,12 +40,13 @@ verificationNeeded:
   - "Mettre à jour les chiffres de population et de PIB lorsqu'une publication plus récente du DOSM sera publiée."
 
 lang: "fr"
+sourceContentHash: "79feefd0c909668c"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

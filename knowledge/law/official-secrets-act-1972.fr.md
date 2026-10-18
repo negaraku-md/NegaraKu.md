@@ -32,12 +32,13 @@ faq:
     a: "La loi ne contient aucune défense d'« intérêt public » ni de protection spécifique pour les lanceurs d'alerte. La section 17A n'offre une défense qu'à la personne qui prouve avoir agi dans l'exécution d'un devoir officiel ou avec l'autorisation requise. L'absence d'une défense d'intérêt public figure parmi les questions soulevées par les critiques de la loi."
 
 lang: "fr"
+sourceContentHash: "b2289aaf85dc5684"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

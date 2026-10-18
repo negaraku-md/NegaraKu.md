@@ -34,10 +34,11 @@ faq:
     a: "Les Lignes directrices pour le développement durable des centres de données du MITI (30 décembre 2024) exigent des exploitants qu'ils déclarent le PUE, le WUE et le CUE de conception selon les normes ISO/IEC 30134, et qu'ils envisagent des sites de la Malaisie péninsulaire présentant un indice de stress hydrique (WSI) inférieur à 0,8, selon la formulation de la condition d'implantation de la ligne directrice."
 
 lang: "fr"
+sourceContentHash: "58d8713ab3d5317e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

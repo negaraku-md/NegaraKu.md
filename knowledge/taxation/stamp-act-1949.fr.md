@@ -27,9 +27,10 @@ faq:
   - q: "Quelle est la différence entre le droit ad valorem et le droit fixe ?"
     a: "Le droit ad valorem varie selon la nature de l'instrument et la contrepartie ou la valeur de marché en jeu — par exemple un transfert de propriété ou un prêt. Le droit fixe est perçu sans relation avec le montant indiqué, débutant généralement à un montant nominal de RM10 par instrument."
 lang: "fr"
+sourceContentHash: "e9d01dfeb365b31f"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -29,10 +29,11 @@ faq:
     a: "Oui. Sunway Healthcare Holdings a été admise à la cote du Marché principal de Bursa Malaysia sous le nom de SUNMED le 18 mars 2026. Le fonds GIC de Singapour avait auparavant accepté, en juin 2021, d'investir RM750 millions pour une participation de 16 % dans l'activité santé."
 
 lang: "fr"
+sourceContentHash: "b41845c9552f7efc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

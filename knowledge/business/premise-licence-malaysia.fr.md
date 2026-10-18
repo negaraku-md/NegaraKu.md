@@ -42,10 +42,11 @@ verificationNeeded:
   - "Whether SSM registration is formally required for Sabah sole proprietors — DBKK does not list it among the required documents"
 
 lang: "fr"
+sourceContentHash: "0a22774d2a85e872"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

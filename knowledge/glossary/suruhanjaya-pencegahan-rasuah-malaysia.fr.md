@@ -31,12 +31,13 @@ faq:
     a: "Une organisation peut se défendre si elle prouve qu'elle avait mis en place des procédures adéquates pour prévenir la corruption. Les orientations sont fournies par les cinq principes T.R.U.S.T. des Guidelines on Adequate Procedures émises par le Département du Premier ministre, datées du 4 décembre 2018."
 
 lang: "fr"
+sourceContentHash: "bba5e6b3f79a29ee"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

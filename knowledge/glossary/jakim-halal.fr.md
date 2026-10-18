@@ -34,12 +34,13 @@ faq:
     a: "Oui. Les fabricants étrangers peuvent demander la certification de JAKIM, ou utiliser un certificat d'un organisme de certification halal étranger reconnu par JAKIM. La liste des organismes reconnus est revue et mise à jour par JAKIM."
 
 lang: "fr"
+sourceContentHash: "86854384949bcaf4"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

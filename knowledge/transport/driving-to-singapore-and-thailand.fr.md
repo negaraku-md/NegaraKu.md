@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Automobilistes malaisiens prévoyant de conduire leur propre voiture par le Causeway ou le Second Link vers Singapour, ou par la frontière terrestre nord vers la Thaïlande."
 
 lang: "fr"
+sourceContentHash: "4dfab6647457152e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

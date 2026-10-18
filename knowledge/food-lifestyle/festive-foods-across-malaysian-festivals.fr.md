@@ -33,12 +33,13 @@ faq:
     a: "Non. Les vins de riz comme le tuak, le montoku et le tumpung sont des boissons traditionnelles de la communauté dayak au Sarawak et de la communauté kadazandusun au Sabah, et ils sont au cœur des festins de Gawai et de Kaamatan selon The Star. Ils ne font pas partie des tables festives des communautés qui s'en tiennent à la nourriture et à la boisson halal, comme à Hari Raya. Ce qu'une maison ouverte donnée sert dépend des observances alimentaires et des traditions de l'hôte."
 
 lang: "fr"
+sourceContentHash: "58bbad87611b5d86"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

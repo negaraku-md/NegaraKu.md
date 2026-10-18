@@ -31,10 +31,11 @@ faq:
     a: "Le ministère de la Santé agrée les établissements de santé privés et le Malaysian Medical Council enregistre et sanctionne les médecins. De nombreux hôpitaux détiennent aussi une accréditation volontaire de la Malaysian Society for Quality in Health (MSQH) ou de la Joint Commission International (JCI). Le MHTC se situe en dehors de cette chaîne réglementaire."
 
 lang: "fr"
+sourceContentHash: "f3db9e92168dd3e0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

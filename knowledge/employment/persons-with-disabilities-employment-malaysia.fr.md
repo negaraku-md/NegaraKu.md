@@ -31,10 +31,11 @@ faq:
     a: "La Section 29(3) exige des employeurs qu'ils favorisent un emploi stable en évaluant raisonnablement les capacités des OKU, en fournissant un lieu de travail adapté et une gestion appropriée du poste. Le coût de modification des locaux pour les salariés OKU est également éligible à une déduction fiscale au titre du paragraph 34(6)(e) de l'Income Tax Act 1967."
 
 lang: "fr"
+sourceContentHash: "66843e99ec6b43d1"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

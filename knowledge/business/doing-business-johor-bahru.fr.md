@@ -44,10 +44,11 @@ verificationNeeded:
   - "Structure tarifaire du RTS Link et premier jour confirmé du service voyageurs — MRT Corp publie un objectif d'achèvement de l'infrastructure fin 2026 et un démarrage du service en janvier 2027, tandis que la LTA de Singapour le formule comme un service d'ici décembre 2026"
 
 lang: "fr"
+sourceContentHash: "4905d83a83912c4b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

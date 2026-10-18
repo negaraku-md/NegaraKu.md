@@ -77,10 +77,11 @@ obligations:
     statute: "Income Tax Act 1967, s.82C"
 
 lang: "fr"
+sourceContentHash: "fe5d22ede93ea4c0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

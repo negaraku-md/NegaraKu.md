@@ -31,12 +31,13 @@ faq:
     a: "Le Conseil national de la fatwa a statué que le don d'organes était harus (permis) lors de sa conférence des 23-24 juin 1970, sous des conditions telles qu'une urgence mettant la vie en danger, l'absence de tout élément d'achat ou de vente, et l'obtention du consentement du donneur ou de ses héritiers. Cette fatwa a ensuite été étendue à d'autres organes et tissus."
 
 lang: "fr"
+sourceContentHash: "55867275b6260a32"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

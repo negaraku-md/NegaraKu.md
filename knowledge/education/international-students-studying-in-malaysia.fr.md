@@ -32,10 +32,11 @@ faq:
     a: "Les deux types peuvent être autorisés à accueillir des étudiants internationaux, mais ils relèvent de parties distinctes du cadre du Pass d'étudiant et diffèrent généralement quant aux programmes et à la capacité d'admission ouverts aux candidats étrangers par rapport aux nationaux. Confirmez directement auprès du bureau international de l'établissement lesquels de vos programmes visés sont ouverts à l'inscription de non-ressortissants avant de postuler."
 
 lang: "fr"
+sourceContentHash: "b1b055e68d2a5111"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

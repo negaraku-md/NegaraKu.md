@@ -32,12 +32,13 @@ verificationNeeded:
   - "Les dates exactes (mandat de Premier ministre, démission, période d'état d'urgence) doivent être confirmées par rapport au Cabinet du Premier ministre et aux registres officiels."
 
 lang: "fr"
+sourceContentHash: "b981e60c4f8e26f9"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

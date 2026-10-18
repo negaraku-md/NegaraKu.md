@@ -38,10 +38,11 @@ faq:
     a: "Le Secrétariat de l'ASEAN a son siège à Jakarta, en Indonésie. Il est dirigé par le secrétaire général de l'ASEAN, actuellement le Dr Kao Kim Hourn, du Cambodge."
 
 lang: "fr"
+sourceContentHash: "a6367ba8ba6baac1"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

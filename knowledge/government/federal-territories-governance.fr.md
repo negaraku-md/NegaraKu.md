@@ -32,10 +32,11 @@ faq:
     a: "Le Département des territoires fédéraux (JWP), relevant du Département du Premier ministre, coordonne la politique et le développement dans les trois territoires au niveau fédéral, tandis que DBKL, la Corporation de Putrajaya et la Corporation de Labuan sont les autorités locales qui mènent les affaires quotidiennes telles que la délivrance de licences, l'urbanisme et les services municipaux dans leurs territoires respectifs."
 
 lang: "fr"
+sourceContentHash: "5739f9cd1afe168b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

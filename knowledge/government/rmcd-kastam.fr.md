@@ -36,10 +36,11 @@ verificationNeeded:
   - "L'inventaire des portails au-delà de MySST et ezHS (MyTTx, MyDLV, le système de timbres fiscaux, MNTR) n'a pas été confirmé par rapport à une page citée du RMCD ; l'édition actuelle de l'arrêté relatif aux droits de douane et le nombre de listes préférentielles d'ALE dans ezHS sont de même non confirmés et sont décrits de manière qualitative"
 
 lang: "fr"
+sourceContentHash: "e8cda8bbe6ecdbc9"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

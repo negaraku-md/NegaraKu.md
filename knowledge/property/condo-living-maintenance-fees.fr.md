@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui possède, achète ou loue une unité dans un condominium, un appartement ou tout autre bien en copropriété (à titre de copropriété, strata-titled) de Malaisie, en Malaisie péninsulaire ou dans le Territoire fédéral de Labuan."
 
 lang: "fr"
+sourceContentHash: "cb88d8015d2b5a82"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

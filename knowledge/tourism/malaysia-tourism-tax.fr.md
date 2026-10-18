@@ -35,10 +35,11 @@ faq:
     a: "Ils s'enregistrent sur le portail MyTTx, déposent une déclaration trimestrielle (formulaire TTx-03) et reversent la taxe au Département royal des douanes de Malaisie au plus tard le dernier jour du mois suivant chaque période imposable."
 
 lang: "fr"
+sourceContentHash: "90bb7645abb0046f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

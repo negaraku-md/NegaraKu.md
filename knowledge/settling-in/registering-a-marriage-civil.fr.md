@@ -25,10 +25,11 @@ verificationNeeded:
   - "Si l'une des parties a déjà été mariée, ou est un ressortissant étranger, confirmez au guichet du JPN les documents justificatifs spécifiques (jugement de divorce, acte de décès, attestation de célibat de votre ambassade) requis pour votre cas, car ils varient selon les circonstances"
 
 lang: "fr"
+sourceContentHash: "6a489eafa5d0a4e4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant à comprendre pourquoi le climat et le risque d'inondation de la Malaisie changent au fil des saisons — habitants des zones côtières, voyageurs, planificateurs de secours, étudiants en géographie et quiconque consulte les alertes météorologiques de MetMalaysia."
 
 lang: "fr"
+sourceContentHash: "d977d1d40dd0956b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

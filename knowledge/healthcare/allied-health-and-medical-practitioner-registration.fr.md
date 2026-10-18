@@ -29,10 +29,11 @@ faq:
     a: "Les infirmiers sont enregistrés par l'Ordre des infirmiers de Malaisie en vertu de la Loi sur les infirmiers de 1950 ; les pharmaciens par l'Ordre des pharmaciens de Malaisie en vertu de la Loi sur l'enregistrement des pharmaciens de 1951 (Act 371) ; et les professions de santé associées telles que la kinésithérapie par le MAHPC en vertu de la Loi sur les professions de santé associées de 2016 (Act 774)."
 
 lang: "fr"
+sourceContentHash: "3615da4185af8269"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

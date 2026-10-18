@@ -31,12 +31,13 @@ verificationNeeded:
   - "Tous les chiffres doivent être confirmés par rapport à la Commission électorale de Malaisie (Suruhanjaya Pilihan Raya) ; à noter que les décomptes finaux diffèrent légèrement des chiffres de la nuit électorale en raison d'un siège reporté."
 
 lang: "fr"
+sourceContentHash: "acdebe065daafc2e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

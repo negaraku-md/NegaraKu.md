@@ -29,10 +29,11 @@ faq:
     a: "Un cadre lancé par le NRES le 21 avril 2026 pour construire un marché du carbone de haute intégrité, un registre national du carbone et des systèmes de suivi avant l'introduction d'instruments de tarification de conformité."
 
 lang: "fr"
+sourceContentHash: "da637e665e1a9fd4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

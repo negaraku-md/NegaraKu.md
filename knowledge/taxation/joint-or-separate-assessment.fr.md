@@ -25,10 +25,11 @@ verificationNeeded:
   - "Les chiffres illustratifs de seuil de rentabilité dans cet article sont une arithmétique fondée sur la grille des tranches publiée, et non un seuil publié par la LHDN ; ils évoluent avec les abattements que chaque couple demande réellement"
 
 lang: "fr"
+sourceContentHash: "9439aef0bb0b111f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

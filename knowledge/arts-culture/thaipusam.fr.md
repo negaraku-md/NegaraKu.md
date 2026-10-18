@@ -35,10 +35,11 @@ faq:
     a: "Seulement dans les États et territoires fédéraux qui le publient au journal officiel. Il est observé comme jour férié dans des lieux comme Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor et Kedah, et il n'est pas publié au journal officiel comme jour férié fédéral à l'échelle nationale. Comme il est fixé juridiction par juridiction, la liste exacte peut varier d'une année à l'autre ; consultez toujours l'avis officiel des jours fériés de l'État concerné."
 
 lang: "fr"
+sourceContentHash: "0b3f0235d5a676f2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

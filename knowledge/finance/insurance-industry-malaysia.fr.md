@@ -34,10 +34,11 @@ faq:
     a: "La couverture Act (responsabilité civile) est le minimum légal et ne paie que les blessures ou le décès de tiers. La responsabilité civile, incendie et vol ajoute une couverture si votre propre voiture brûle ou est volée. La couverture tous risques (Comprehensive) est la plus large, et paie aussi les dommages accidentels à votre propre véhicule."
 
 lang: "fr"
+sourceContentHash: "f3e95ab7db734acf"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

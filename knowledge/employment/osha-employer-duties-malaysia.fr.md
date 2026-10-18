@@ -75,10 +75,11 @@ obligations:
     consequence: "Prosecution under the Act"
 
 lang: "fr"
+sourceContentHash: "3632c2c27953365f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

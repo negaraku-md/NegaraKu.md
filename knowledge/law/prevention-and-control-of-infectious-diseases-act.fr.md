@@ -30,12 +30,13 @@ faq:
     a: "Pour les infractions sans peine spécifique, la section 24 prévoit un emprisonnement pouvant atteindre deux ans ou une amende ou les deux pour une première infraction. La section 25 permet de transiger jusqu'à RM1,000 au titre du texte original de la Loi. Ces taux ont fait l'objet d'amendements adoptés par la Dewan Rakyat en 2024."
 
 lang: "fr"
+sourceContentHash: "e9a7651147874f41"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

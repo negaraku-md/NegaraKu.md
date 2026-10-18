@@ -32,10 +32,11 @@ faq:
     a: "Une notation plus élevée réduit l'intérêt que l'État paie sur ses obligations, ce qui dégage des marges budgétaires et ancre le coût d'emprunt plus large. Les notations façonnent aussi la demande des investisseurs étrangers pour les actifs en ringgit, affectant indirectement la monnaie."
 
 lang: "fr"
+sourceContentHash: "2be52c4fe36e74d8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

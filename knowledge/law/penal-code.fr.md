@@ -31,10 +31,11 @@ faq:
     a: "Parce qu'il descend du même projet. Le Code pénal des Straits Settlements a été promulgué sous le nom d'Ordinance No. 4 of 1871 et est entré en vigueur l'année suivante comme une nouvelle promulgation locale du Code pénal indien (Indian Penal Code), lui-même rédigé par la première Commission du droit de l'Inde sous Lord Macaulay. Le Code pénal des États malais fédérés de 1936 a suivi le même modèle, et l'Act 574 en est le successeur direct."
 
 lang: "fr"
+sourceContentHash: "7702e4996ec5b32e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

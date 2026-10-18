@@ -49,10 +49,11 @@ verificationNeeded:
   - "Confirmer la date de lancement officielle et le coût du projet de la double voie électrifiée de Gemas à Johor Bahru — ni l'une ni l'autre n'ont été localisés"
 
 lang: "fr"
+sourceContentHash: "300ad373430dce8b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

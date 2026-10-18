@@ -41,12 +41,13 @@ verificationNeeded:
   - "Le nombre de sièges à l'Assemblée législative de l'État et au Parlement n'est délibérément pas indiqué car il n'a pas pu être confirmé par rapport aux sources officielles de la SPR au moment de la préparation de ce brouillon."
 
 lang: "fr"
+sourceContentHash: "869286bde4f6fa80"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

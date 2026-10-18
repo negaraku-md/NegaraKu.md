@@ -31,12 +31,13 @@ verificationNeeded:
   - "Dates et décomptes de députés exacts (transfuges, consultations du Roi) à confirmer au regard des registres officiels et des informations de l'époque ; les sources varient légèrement sur le jour précis de la réunion de l'hôtel (21-23 février)."
 
 lang: "fr"
+sourceContentHash: "d475393c9a7ff6eb"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

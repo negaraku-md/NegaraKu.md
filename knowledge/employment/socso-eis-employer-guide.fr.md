@@ -62,10 +62,11 @@ obligations:
     statute: "Employees Social Security Act 1969 (Act 4)"
 
 lang: "fr"
+sourceContentHash: "4bb7e4b6c1a91f37"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

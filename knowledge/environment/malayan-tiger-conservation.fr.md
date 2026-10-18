@@ -33,10 +33,11 @@ faq:
     a: "Les principaux facteurs sont le braconnage et le commerce illégal de parties de tigre, la dégradation des forêts et la perte d'habitat, les collisions routières et le conflit homme-tigre, et le déclin des proies."
 
 lang: "fr"
+sourceContentHash: "4cb728294e2f0482"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

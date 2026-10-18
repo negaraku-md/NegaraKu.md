@@ -34,10 +34,11 @@ faq:
     a: "Il n'y a pas de simple bouton « supprimer » en ligne. Réglez tout compound en souffrance, confirmez votre situation et son motif directement auprès du Département de l'immigration, et déposez une demande ou un recours par écrit (par l'intermédiaire de votre ambassade ou d'un agent agréé si vous êtes hors de Malaisie), en expliquant les circonstances. Le Département décide à sa discrétion ; les tribunaux sont généralement réticents à annuler les décisions d'immigration."
 
 lang: "fr"
+sourceContentHash: "3656d41a5449e4a0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

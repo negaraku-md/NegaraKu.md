@@ -36,8 +36,9 @@ faq:
     a: "Non. Le 7 mars 2026, CelcomDigi et Maxis ont chacune finalisé l'achat des actions du ministère des Finances dans DNB pour RM327,872,640.28, marquant la sortie du gouvernement de l'activité de gros 5G et faisant de DNB une entité entièrement privée détenue par les opérateurs et YTL."
 
 lang: "fr"
+sourceContentHash: "c56c91a9d7764362"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "La Directive ministérielle du 21 juin 2024 et l'attribution exacte 700MHz (2×20MHz) / 3.5GHz (100MHz) reposent actuellement sur le reportage de SoyaCincau ; à confirmer face au communiqué de presse primaire PDF de la MCMC et à la FAQ."
@@ -46,7 +47,7 @@ verificationNeeded:
   - "L'appel d'offres « JP2 » de la Phase 2 de JENDELA est signalé par The Edge comme émis le « 31 mars » ; confirmer que l'année est 2026 face à une source de la MCMC / du ministère des Communications."
   - "La date d'émission de la Directive ministérielle n° 3 de 2021 (31 mai 2021) est tirée de SoyaCincau ; à confirmer face au journal officiel ou au registre de la MCMC."
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

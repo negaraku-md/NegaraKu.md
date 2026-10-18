@@ -34,10 +34,11 @@ faq:
     a: "Oui. Un programme de clémence est offert aux entreprises impliquées dans des pratiques de cartel horizontal. Coopérer tôt peut valoir une immunité ou une réduction de la sanction pouvant atteindre 100 %, bien qu'une entreprise ayant initié le cartel ou contraint d'autres à y participer ait peu de chances de bénéficier de la réduction totale. Avec les réformes de 2026, une voie de transaction (settlement) distincte peut aussi réduire la sanction jusqu'à 40 %."
 
 lang: "fr"
+sourceContentHash: "f67186d884803b44"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

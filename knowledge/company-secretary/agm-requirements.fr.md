@@ -63,10 +63,11 @@ obligations:
     consequence: "L'assemblée n'est pas valablement convoquée en vertu de l'art. 309"
 
 lang: "fr"
+sourceContentHash: "51eee5534e5ccee0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

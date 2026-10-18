@@ -26,10 +26,11 @@ verificationNeeded:
   - "La possibilité de faire désormais une demande de CDL entièrement en ligne via l'application MyJPJ — la page de services du JPJ consultée indique que les demandes se font uniquement au guichet du JPJ de l'État, mais cela a pu changer depuis la date de consultation"
 
 lang: "fr"
+sourceContentHash: "994f31cbd16cea0e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

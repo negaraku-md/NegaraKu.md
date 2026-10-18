@@ -34,12 +34,13 @@ seoTitle: "Bahasa Melayu : langue nationale selon l'article 152"
 socialTitle: "Comment le bahasa melayu est devenu la langue nationale — et est passé du jawi au rumi"
 
 lang: "fr"
+sourceContentHash: "1578825625379e44"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

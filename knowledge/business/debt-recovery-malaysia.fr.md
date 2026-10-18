@@ -45,10 +45,11 @@ verificationNeeded:
   - "Confirmer les frais de dépôt et de scellement actuels des tribunaux auprès de la Cour fédérale de Malaisie ou du greffe compétent"
 
 lang: "fr"
+sourceContentHash: "572d5b41b321894d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

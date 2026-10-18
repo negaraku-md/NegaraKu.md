@@ -28,10 +28,11 @@ faq:
     a: "Non. Au titre de la Section 102, le droit de défendre le corps ne se poursuit que tant que persiste une crainte raisonnable de danger. Une action qui se poursuit après la fin de la menace peut être considérée comme une contre-attaque, et non comme une défense."
 
 lang: "fr"
+sourceContentHash: "7668765b92f13005"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

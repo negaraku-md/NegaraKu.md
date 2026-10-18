@@ -26,9 +26,10 @@ faq:
   - q: "Les travailleurs étrangers doivent-ils cotiser à l'EPF ?"
     a: "Oui. Avec effet au 1 octobre 2025, les cotisations à l'EPF sont devenues obligatoires pour les employés non citoyens malaisiens, l'employeur et l'employé versant chacun 2 % du salaire mensuel. Les non-citoyens de plus de 75 ans ne sont pas tenus de s'inscrire ni de cotiser."
 lang: "fr"
+sourceContentHash: "ef3ed3901e1145d3"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

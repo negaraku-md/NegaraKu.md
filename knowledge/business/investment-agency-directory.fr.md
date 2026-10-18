@@ -43,10 +43,11 @@ verificationNeeded:
   - "Confirmer si SEDIA, NCER et ECERDC détiennent une autorité d'approbation des permis d'expatrié équivalente à celle d'IRDA, ce qui n'a pas été établi"
 
 lang: "fr"
+sourceContentHash: "dbc6e7a307297e3a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

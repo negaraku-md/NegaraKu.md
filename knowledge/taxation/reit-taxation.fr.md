@@ -31,10 +31,11 @@ faq:
     a: "Généralement non. Lorsque le fonds est exonéré au titre de la section 61A, le revenu n'a pas été imposé, de sorte que la distribution ne comporte aucun crédit d'impôt au titre de la section 110 qu'un porteur de parts pourrait imputer. Un crédit ne naît que lorsque le fonds lui-même a été imposé (par exemple lorsqu'il a distribué moins de 90 %)."
 
 lang: "fr"
+sourceContentHash: "74ef95198966c611"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

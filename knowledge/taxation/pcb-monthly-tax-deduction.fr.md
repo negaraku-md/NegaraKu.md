@@ -39,10 +39,11 @@ verificationNeeded:
   - "Confirmer que le taux de retenue du PCB appliqué à un salarié non-résident est le taux forfaitaire du Schedule 1 Part I para 1A en tant que règle des MTD Rules, et non seulement de la charge sous-jacente"
 
 lang: "fr"
+sourceContentHash: "8996f0535326898f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

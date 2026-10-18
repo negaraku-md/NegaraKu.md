@@ -26,10 +26,11 @@ verificationNeeded:
   - "Les mentions exigées d'un reçu de don valable au titre de la s.44(6) — la page explicative de LHDN sur l'usage des reçus n'a pas pu être récupérée."
 
 lang: "fr"
+sourceContentHash: "5f0966be244cdbe2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

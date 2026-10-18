@@ -47,10 +47,11 @@ obligations:
     consequence: "Amende pouvant atteindre RM50,000 et une amende supplémentaire pouvant atteindre RM500 par jour en cas d'infraction continue au titre de s.58(4)"
 
 lang: "fr"
+sourceContentHash: "8a80c4606fe7ff91"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

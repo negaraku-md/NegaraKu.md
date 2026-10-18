@@ -36,10 +36,11 @@ faq:
     a: "L'Indonésie est l'un des partenaires commerciaux importants de la Malaisie au sein de l'ASEAN. En 2024, les exportations de la Malaisie vers l'Indonésie étaient évaluées à RM54.40 milliards, en hausse de 6,9 % (environ RM3.5 milliards) par rapport à l'année précédente, représentant 12,4 % des exportations de la Malaisie vers l'ASEAN. Cela fait de l'Indonésie la 3e plus grande destination d'exportation de la Malaisie au sein de l'ASEAN, après Singapour et la Thaïlande."
 
 lang: "fr"
+sourceContentHash: "42425bd622f27615"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 publishedBy: "ashton-tan"
 reviewer: null

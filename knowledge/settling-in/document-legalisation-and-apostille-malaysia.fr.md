@@ -32,10 +32,11 @@ faq:
     a: "Non. Selon la propre Division consulaire de Wisma Putra, l'attestation ne vérifie que l'authenticité du sceau et de la signature du fonctionnaire autorisé, et non la véracité du contenu du document."
 
 lang: "fr"
+sourceContentHash: "1c942b9ac8cdb96c"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

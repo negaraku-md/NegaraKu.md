@@ -37,10 +37,11 @@ verificationNeeded:
   - "La question de savoir si un certificat de résidence peut être délivré pour une année où le test de résidence n'est rempli qu'après la date de demande n'a pas été abordée sur la page de la LHDN"
 
 lang: "fr"
+sourceContentHash: "11fa9fda7774dfda"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

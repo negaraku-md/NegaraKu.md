@@ -34,10 +34,11 @@ faq:
     a: "Une infraction passible, en cas de condamnation, d'une amende n'excédant pas RM1 million, et d'une amende supplémentaire pouvant atteindre RM1,000 pour chaque jour où l'infraction se poursuit après la condamnation (section 137, avec des infractions parallèles aux sections 138 et 139)."
 
 lang: "fr"
+sourceContentHash: "608e7ade88de1522"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

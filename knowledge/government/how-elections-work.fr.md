@@ -36,12 +36,13 @@ verificationNeeded:
   - "Procedural details for polling day (candidate nomination hours, campaign period, candidate deposit) are governed by Akta Pilihan Raya 1958 and the Peraturan-Peraturan Pilihan Raya (Perjalanan Pilihan Raya) 1981, which may be amended from time to time. Verify current hours and deposit amounts against the text of the regulations and the Election Commission's official announcements at spr.gov.my before relying on them."
 
 lang: "fr"
+sourceContentHash: "d5825383db9e28fe"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

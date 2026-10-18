@@ -34,10 +34,11 @@ faq:
     a: "L'article 126(2) dispose que toute personne qui possède ou fournit une installation de réseau, un service de réseau ou un service d'applications sans licence valide commet une infraction et peut, en cas de condamnation, être passible d'une amende ne dépassant pas RM500,000 ou d'un emprisonnement ne dépassant pas cinq ans ou des deux, ainsi que d'une amende supplémentaire de RM1,000 pour chaque jour où l'infraction se poursuit après la condamnation."
 
 lang: "fr"
+sourceContentHash: "f7de1e94c09f1ce3"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

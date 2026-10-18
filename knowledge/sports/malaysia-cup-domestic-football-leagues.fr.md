@@ -31,12 +31,13 @@ faq:
     a: "La MFL a déplacé le calendrier pour l'aligner sur le format de l'AFC. La nouvelle saison a commencé en mai 2024 et s'est terminée en avril 2025, en tenant compte de la Coupe d'Asie de l'AFC, des qualifications pour la Coupe du monde 2026 et du mois de Ramadan."
 
 lang: "fr"
+sourceContentHash: "fdb11bb0fa6c116e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

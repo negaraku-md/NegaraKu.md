@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Investisseurs, chercheurs d'emploi, analystes des politiques publiques et étudiants qui cherchent à lire avec précision les statistiques industrielles de la Malaisie."
 
 lang: "fr"
+sourceContentHash: "21e59589f33cf91e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -31,12 +31,13 @@ faq:
     a: "Non. L'ISA de 1960 a été abrogée en 2012 et remplacée par la loi de 2012 sur les infractions à la sécurité (mesures spéciales) (Security Offences (Special Measures) Act 2012, SOSMA), que les groupes de défense des droits et le gouvernement continuent de débattre."
 
 lang: "fr"
+sourceContentHash: "b64842ee4e12b6c1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

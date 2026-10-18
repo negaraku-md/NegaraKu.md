@@ -28,10 +28,11 @@ faq:
     a: "Le CCC confirme que le logement a été construit conformément aux plans approuvés et qu'il est sûr à habiter. Sans le CCC, le bâtiment n'est officiellement pas propre à l'habitation et l'approvisionnement en services peut en être affecté."
 
 lang: "fr"
+sourceContentHash: "47b5179ed98be754"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

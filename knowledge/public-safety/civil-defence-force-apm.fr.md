@@ -30,10 +30,11 @@ faq:
     a: "L'APM opère en vertu de la Loi de 1951 sur la défense civile (Loi 221), qui définit ses missions en temps de paix et en temps de guerre pour protéger les vies et les biens."
 
 lang: "fr"
+sourceContentHash: "1cc8bccf4a7c831a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

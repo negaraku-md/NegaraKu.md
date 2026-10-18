@@ -35,10 +35,11 @@ faq:
     a: "Non. Le Plan de la Malaisie est présenté comme une motion de politique en vue d'un débat et d'une approbation au Parlement, et non comme un projet de loi tel que le Supply Bill qui sous-tend le Budget annuel."
 
 lang: "fr"
+sourceContentHash: "6ea99ed513582ab7"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

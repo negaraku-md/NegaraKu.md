@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Expatriés, travailleurs à distance et nouveaux arrivants qui pèsent le coût de la vie de la Malaisie face à un salaire et une référence de dépense occidentaux avant de s'installer."
 
 lang: "fr"
+sourceContentHash: "4843205b62ed2e41"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -36,12 +36,13 @@ verificationNeeded:
   - "La répartition 6 à prix fixe / 12 à prix variable est dérivée du communiqué de PNB du 19 décembre 2025 (18 fonds au total, dont 12 à prix variable) — reconfirmer auprès de la liste des fonds de l'ASNB à la prochaine révision"
 
 lang: "fr"
+sourceContentHash: "1c4aaf1e059aa22b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

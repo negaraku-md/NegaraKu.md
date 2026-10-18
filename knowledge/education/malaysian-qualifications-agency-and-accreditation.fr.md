@@ -32,10 +32,11 @@ faq:
     a: "Oui. Les programmes proposés par tout prestataire d'enseignement supérieur opérant en Malaisie, y compris les campus délocalisés étrangers, sont soumis à l'assurance qualité au titre du MQF et figurent dans le MQR. Certaines universités établies détiennent le statut d'auto-accréditation, qui les habilite à accréditer leurs propres programmes sur le MQF et à les inscrire au MQR."
 
 lang: "fr"
+sourceContentHash: "ce3f16b64b60d59b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

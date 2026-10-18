@@ -34,10 +34,11 @@ faq:
     a: "Selon une réponse parlementaire rapportée par Bernama, la Malaisie a exporté du durian pour une valeur de RM6.37 milliards — environ 115,359 tonnes métriques — vers la Chine entre 2018 et 2025. L'objectif de valeur d'exportation pour 2030 est estimé à RM1.8 milliard pour un total de 69,000 tonnes métriques."
 
 lang: "fr"
+sourceContentHash: "c21f23e862b9d969"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

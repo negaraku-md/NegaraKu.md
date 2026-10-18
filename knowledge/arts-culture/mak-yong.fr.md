@@ -33,9 +33,10 @@ faq:
     a: "Les représentations publiques au Kelantan sont restreintes en vertu d'une loi d'État sur le contrôle du divertissement adoptée en 1998. Le 25 septembre 2019, le vice-ministre en chef (Menteri Besar) du Kelantan, Datuk Mohd Amar Nik Abdullah, a annoncé que les représentations sont autorisées sous réserve de conditions conformes à la charia fixées par le gouvernement de l'État, notamment l'absence d'éléments de culte et l'obligation de couvrir l'aurat, avec un suivi continu assuré par le gouvernement de l'État et les autorités religieuses de l'État."
 
 lang: "fr"
+sourceContentHash: "fddcf6b015e88b34"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

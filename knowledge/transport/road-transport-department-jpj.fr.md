@@ -25,9 +25,10 @@ faq:
   - q: "Qu'est-ce que l'e-LKM ?"
     a: "L'e-LKM est la licence de véhicule à moteur numérique (taxe de circulation numérique) que le JPJ a introduite à partir de 2023, en remplacement de la vignette physique. Elle est accessible via l'application MyJPJ ou le portail MySIKAP."
 lang: "fr"
+sourceContentHash: "5feaacc87ec61a6a"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

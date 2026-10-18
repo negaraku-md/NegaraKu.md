@@ -34,11 +34,12 @@ seoTitle: "Bumiputera : ce que signifie le terme et son fondement constitutionne
 socialTitle: "Bumiputera — un terme introuvable dans la Constitution, mais enraciné dans les articles 153, 160 et 161A"
 
 lang: "fr"
+sourceContentHash: "924aa904a876b274"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

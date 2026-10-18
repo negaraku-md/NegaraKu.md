@@ -33,10 +33,11 @@ faq:
     a: "Non. Les subventions CIP sont conditionnelles. Les fonds sont débloqués en fonction de jalons convenus (par des avances et des remboursements), et la subvention peut être récupérée si le bénéficiaire enfreint ses conditions ou si le projet est résilié. Le CIP Sprint en particulier est structuré comme une subvention convertible. Lisez attentivement l'accord de subvention afin de comprendre les conditions de jalons, de reporting et de récupération avant d'accepter."
 
 lang: "fr"
+sourceContentHash: "314f5c2c68cdde6f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

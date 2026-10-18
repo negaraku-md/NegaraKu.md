@@ -76,10 +76,11 @@ obligations:
     consequence: "Penalty of up to three times the tax under s.112(3), or prosecution under s.112(1) with a fine of RM200 to RM20,000"
 
 lang: "fr"
+sourceContentHash: "b156623175c87682"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

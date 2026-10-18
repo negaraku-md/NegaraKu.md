@@ -40,10 +40,11 @@ verificationNeeded:
   - "Confirmer le format et la convention d'expiration du numéro d'agrément d'auditeur du ministre des Finances imprimé à côté de la signature de l'associé — l'emplacement illustratif montre une structure mais la MIA ne l'explique pas"
 
 lang: "fr"
+sourceContentHash: "46458a8295799022"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

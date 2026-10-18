@@ -35,10 +35,11 @@ faq:
     a: "Les objectifs sont liés au cycle des grands jeux — les Jeux olympiques, les Jeux asiatiques et les Jeux du Commonwealth — et la priorité est donnée aux sports identifiés comme ayant une forte probabilité de succès, conformément à l'Objectif 8 de la Politique nationale du sport. Le financement est acheminé de façon cyclique (par exemple RM60 millions par an pendant quatre ans), coordonné par le Conseil national du sport et soutenu par la science du sport de l'Institut national du sport."
 
 lang: "fr"
+sourceContentHash: "7132b0584a8f785b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

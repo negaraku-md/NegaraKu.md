@@ -30,12 +30,13 @@ faq:
     a: "Les deux États reçoivent des subventions spéciales en vertu de l'Article 112C et des sources de revenus supplémentaires en vertu de la Partie V de la Dixième annexe, notamment des droits sur les produits pétroliers, des droits d'exportation sur le bois et les produits forestiers, des redevances minières et des taxes de vente de l'État."
 
 lang: "fr"
+sourceContentHash: "f7789909fc78f01b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

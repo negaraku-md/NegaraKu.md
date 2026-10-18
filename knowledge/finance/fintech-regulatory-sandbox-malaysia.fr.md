@@ -30,10 +30,11 @@ faq:
     a: "La Securities Commission Malaysia. Les innovations du marché des capitaux — financement alternatif, titres tokenisés, plateformes de marché secondaire — relèvent du bac à sable de la SC, et non de celui du BNM."
 
 lang: "fr"
+sourceContentHash: "923d24c78b24d1fc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

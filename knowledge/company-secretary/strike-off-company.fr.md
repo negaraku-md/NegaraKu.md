@@ -32,10 +32,11 @@ faq:
     a: "Non. Au titre de l'art. 554(1)(a), la responsabilité de tout directeur, dirigeant ou membre de la société se poursuit et peut être mise en œuvre comme si la société n'avait pas été dissoute. Les directeurs doivent aussi conserver les registres de la société pendant sept ans après la radiation."
 
 lang: "fr"
+sourceContentHash: "bd012809619da49e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

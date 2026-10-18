@@ -29,10 +29,11 @@ faq:
     a: "Si la direction ne fournit pas les affirmations exigées par les paragraphes 10 et 11, l'auditeur formulera une impossibilité d'exprimer une opinion sur les états financiers conformément à l'ISA 705 (paragraphe 20)."
 
 lang: "fr"
+sourceContentHash: "b4dce9895318e6f0"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

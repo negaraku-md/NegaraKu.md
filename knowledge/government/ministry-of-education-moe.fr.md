@@ -28,9 +28,10 @@ faq:
   - q: "Quelle est l'ampleur du budget du ministère de l'Éducation ?"
     a: "Dans le Budget 2026, le KPM a reçu RM66.2 milliards — la plus grande dotation de tous les ministères fédéraux — contre RM64.2 milliards en 2025. La dotation comprend près de RM2 milliards pour réhabiliter plus de 520 écoles délabrées et en construire 38 nouvelles."
 lang: "fr"
+sourceContentHash: "4f75b1390b41bfeb"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

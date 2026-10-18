@@ -33,9 +33,10 @@ faq:
     a: "Traditionnellement, les femmes. L'UNESCO enregistre que le tissage du songket a toujours été entre les mains des femmes, tandis que les hommes participent à la pratique en fabriquant les outils de tissage. Le savoir se transmet au sein des familles et des villages, et certaines institutions proposent également des programmes de formation."
 
 lang: "fr"
+sourceContentHash: "054643f8240fb22d"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

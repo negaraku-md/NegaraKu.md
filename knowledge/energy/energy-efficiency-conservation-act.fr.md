@@ -31,10 +31,11 @@ faq:
     a: "Le nouveau cadre de l'Act 861 et du Règlement sur l'efficacité et la conservation de l'énergie de 2024 élargit le champ de la régulation, qui passe de la seule électricité à toutes les formes d'énergie. Ce cadre est réputé remplacer l'ancien Règlement sur la gestion efficace de l'énergie électrique de 2008 (EMEER), mais les détails de cette abrogation doivent être vérifiés auprès du texte officiel du règlement."
 
 lang: "fr"
+sourceContentHash: "699d30a5f2841e54"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -34,9 +34,10 @@ seoTitle: "L'écriture jawi : histoire, système et situation actuelle"
 socialTitle: "L'alphabet arabe qui écrit le malais depuis sept siècles — l'histoire de l'écriture jawi"
 
 lang: "fr"
+sourceContentHash: "227837ea67cec8a8"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

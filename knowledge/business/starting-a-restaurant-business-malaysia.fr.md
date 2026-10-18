@@ -33,10 +33,11 @@ faq:
     a: "Le salaire minimum national est de RM1,700 par mois, fixé par l'Ordonnance de 2024 sur les salaires minimums. Il s'est appliqué aux employeurs comptant cinq travailleurs ou plus à partir du 1er février 2025, et à tous les employeurs restants à partir du 1er août 2025 — de sorte que depuis août 2025, il couvre pratiquement tous les restaurants, quelle que soit leur taille."
 
 lang: "fr"
+sourceContentHash: "8140436515390d62"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

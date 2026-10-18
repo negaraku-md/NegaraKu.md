@@ -34,10 +34,11 @@ faq:
     a: "Non. Elle ne s'applique pas aux fonctionnaires, apprentis, salariés en période d'essai, salariés étrangers, employés domestiques, salariés à temps partiel, étudiants en emploi temporaire et à certains salariés sous contrat à durée déterminée."
 
 lang: "fr"
+sourceContentHash: "f2f42b17c86c3524"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

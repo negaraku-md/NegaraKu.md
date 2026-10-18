@@ -21,9 +21,10 @@ keyTakeaways:
 appliesTo: "Toute personne essayant de déterminer à quel niveau de gouvernement s'adresser pour un problème donné en Malaisie, ou qui souhaite comprendre pourquoi elle peut voter pour un député au Parlement et pour un député à l'Assemblée de l'État, mais pas pour un conseiller local."
 
 lang: "fr"
+sourceContentHash: "c6bdf9ccfb5d174a"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

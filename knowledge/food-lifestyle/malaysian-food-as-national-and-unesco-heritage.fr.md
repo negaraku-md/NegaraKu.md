@@ -30,10 +30,11 @@ faq:
     a: "Oui. Il figure parmi les 10 plats publiés au Journal officiel comme objets de Patrimoine national par le Commissaire au patrimoine le 23 février 2024."
 
 lang: "fr"
+sourceContentHash: "99f9a99ac9dc7cef"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -32,12 +32,13 @@ faq:
     a: "Il a été présenté au Dewan Rakyat le 2 décembre 2019."
 
 lang: "fr"
+sourceContentHash: "3c6e38b833f827d4"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -34,10 +34,11 @@ faq:
     a: "Selon un rapport de Macaranga, les amendements de 2023 à la Loi sur la qualité de l'environnement de 1974 ont fixé une amende minimale de RM5,000 et un maximum pouvant atteindre RM10 millions, assortis d'une peine d'emprisonnement obligatoire ne dépassant pas cinq ans pour les infractions de pollution. Pour les infractions relevant du régime des réserves fluviales de Selangor (article 48(1) de la Promulgation LUAS de 1999), la sanction est une amende ne dépassant pas RM50,000 ou une peine d'emprisonnement ne dépassant pas deux ans, ou les deux. Les chiffres relatifs aux amendements de la Loi de 1974 proviennent d'un rapport secondaire et doivent être vérifiés par rapport au texte officiel du Journal officiel."
 
 lang: "fr"
+sourceContentHash: "1a7e38792ecc17c4"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -27,10 +27,11 @@ verificationNeeded:
   - "Confirmer si une juridiction malaisienne a jamais validé une clause de non-sollicitation de clients postérieure à la rupture comme échappant à la s.28"
 
 lang: "fr"
+sourceContentHash: "d5d94ae67835a159"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -37,10 +37,11 @@ faq:
     a: "Un certain allègement B2B existe. Par exemple, lorsque le prestataire et le bénéficiaire sont tous deux enregistrés et fournissent le même service taxable, une exonération B2B peut s'appliquer, et un allègement de groupe existe pour la location ou le crédit-bail entre sociétés d'un même groupe. Les exonérations sont spécifiques : vérifiez l'éligibilité au regard des orientations du RMCD pour votre groupe de services."
 
 lang: "fr"
+sourceContentHash: "4d9e9ab785dd88ab"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

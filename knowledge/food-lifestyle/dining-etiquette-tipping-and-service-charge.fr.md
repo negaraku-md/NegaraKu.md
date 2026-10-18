@@ -29,10 +29,11 @@ faq:
     a: "Seules les entreprises de restauration dont le chiffre d'affaires imposable dépasse RM1,500,000 sur une période de 12 mois doivent s'enregistrer à la taxe sur les services, et les frais de service sont surtout utilisés par les hôtels et les restaurants à service complet. Les hawkers et les petits établissements facturent généralement uniquement le prix affiché."
 
 lang: "fr"
+sourceContentHash: "0474567c9b571270"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

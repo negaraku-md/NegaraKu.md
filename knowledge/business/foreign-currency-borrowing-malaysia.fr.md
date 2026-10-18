@@ -28,10 +28,11 @@ verificationNeeded:
   - "Lorsqu'une facilité proposée dépasse la limite de l'équivalent de RM100 millions, le processus d'approbation écrite et ses critères d'évaluation ne sont pas publiés intégralement ; la FAQ note seulement que BNM tiendra compte des facteurs énoncés"
 
 lang: "fr"
+sourceContentHash: "7f6734fed0eab6e8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

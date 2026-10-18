@@ -69,10 +69,11 @@ obligations:
     statute: "Limited Liability Partnerships Act 2012"
 
 lang: "fr"
+sourceContentHash: "27686b67b4875d34"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

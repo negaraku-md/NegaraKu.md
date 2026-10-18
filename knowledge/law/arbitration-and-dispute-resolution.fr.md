@@ -33,10 +33,11 @@ faq:
     a: "Oui, depuis l'entrée en vigueur de la loi (d'amendement) sur l'arbitrage de 2024 le 1 janvier 2026. Les sections 46A–46I créent un cadre légal, la section 46C abolit les règles de common law contre l'entretien de procès (maintenance) et la champarty, et la section 46G exige la divulgation de l'accord de financement et de l'identité du financeur."
 
 lang: "fr"
+sourceContentHash: "dbaaa201e69ebe39"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

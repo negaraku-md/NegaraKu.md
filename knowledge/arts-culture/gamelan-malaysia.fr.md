@@ -33,10 +33,11 @@ faq:
     a: "Le jeu de gamelan d'origine a été rendu au Pahang en 1973 et est exposé au Musée du Pahang, à Pekan."
 
 lang: "fr"
+sourceContentHash: "c60f9bc5987b416f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

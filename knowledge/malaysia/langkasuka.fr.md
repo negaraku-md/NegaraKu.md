@@ -18,9 +18,10 @@ keyTakeaways:
   - "Il s'effaça des archives vers le XVe siècle, absorbé par des entités successeures telles que la sphère d'influence d'Ayutthaya"
 appliesTo: "Lecteurs curieux de savoir ce qui existait sur la Péninsule malaise avant Melaka, et quelle part de cette histoire ancienne est réellement établie par rapport à ce qui est encore débattu."
 lang: "fr"
+sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

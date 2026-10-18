@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Usagers des autoroutes pendant les saisons des fêtes, planificateurs de voyages et de congés, entreprises de commerce de détail et de transport, et toute personne cherchant à comprendre les schémas de déplacement de la population de Malaisie."
 
 lang: "fr"
+sourceContentHash: "351c6944deba025a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

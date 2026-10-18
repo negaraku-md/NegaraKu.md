@@ -20,9 +20,10 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant comprendre les différences d'origine, de musique et de mouvement entre le Joget et le Zapin en tant que deux danses folkloriques malaises distinctes."
 
 lang: "fr"
+sourceContentHash: "f85648fc29f5d316"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

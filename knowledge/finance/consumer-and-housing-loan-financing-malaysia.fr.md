@@ -31,10 +31,11 @@ faq:
     a: "En vertu de la Loi sur la location-vente de 1967, un organisme de financement ne peut généralement reprendre le bien qu'après que le locataire a manqué deux mensualités successives et à l'issue d'un processus de préavis de 21 jours. Une fois que vous avez payé au moins 75% du prix comptant, l'organisme de financement a besoin d'une ordonnance judiciaire pour reprendre le bien."
 
 lang: "fr"
+sourceContentHash: "6a3487bee5c6466c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "Toute personne qui veut savoir, article par article, ce que la Partie II de la Constitution fédérale garantit réellement et quelles restrictions elle permet expressément."
 
 lang: "fr"
+sourceContentHash: "268ae1dcdac3c251"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

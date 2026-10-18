@@ -25,9 +25,10 @@ faq:
   - q: "La dispense des frais de dépôt tardif de 2025 a-t-elle repoussé mon échéance ?"
     a: "Non. La dispense a couru du 1er juin au 30 septembre 2025 et a supprimé uniquement les frais de dépôt tardif. Elle n'a prorogé aucune échéance légale de dépôt au titre du Companies Act 2016."
 lang: "fr"
+sourceContentHash: "6cce56bdb89cd914"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

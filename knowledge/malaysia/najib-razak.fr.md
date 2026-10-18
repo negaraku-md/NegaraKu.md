@@ -32,12 +32,13 @@ verificationNeeded:
   - "Les dates et chiffres exacts (mandat de Premier ministre, taux de la GST, montants de l'affaire, peine) doivent être confirmés par rapport au Cabinet du Premier ministre, aux tribunaux et à la Commission électorale."
 
 lang: "fr"
+sourceContentHash: "b57664a883ee2959"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

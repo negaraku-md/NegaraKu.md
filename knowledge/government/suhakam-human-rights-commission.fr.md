@@ -34,10 +34,11 @@ faq:
     a: "Oui. La section 4(2)(d) confère à SUHAKAM le pouvoir de visiter tout lieu de détention, institution ou autre lieu, et de formuler les recommandations nécessaires. La section 4(3), introduite par l'amendement de 2024, établit qu'une telle visite ne peut pas être refusée par la personne responsable du lieu concerné, pour autant que les procédures prescrites soient respectées."
 
 lang: "fr"
+sourceContentHash: "41da53bbfb03e372"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -31,10 +31,11 @@ faq:
     a: "Le bénéfice d'exploitation d'un entrepreneur individuel est imposé entre les mains du propriétaire aux taux personnels progressifs, déclaré sur le Form B avant le 30 juin. Une Sdn Bhd PME résidente (capital libéré jusqu'à RM2.5 millions et revenu brut d'exploitation jusqu'à RM50 millions) est imposée à 15% sur les premiers RM150,000 de revenu imposable, à 17% de RM150,001 à RM600,000, et à 24% au-delà. Le taux préférentiel pour les PME est perdu si plus de 20% de la société est détenue par des étrangers."
 
 lang: "fr"
+sourceContentHash: "740dc0a630c55557"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

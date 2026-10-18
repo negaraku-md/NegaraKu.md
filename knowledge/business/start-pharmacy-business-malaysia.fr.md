@@ -33,10 +33,11 @@ faq:
     a: "Une pharmacie agréée détient une Licence de poisons Type A et peut donc vendre des poisons inscrits - médicaments de prescription exclusive et de dispensation exclusivement en pharmacie - la vente se faisant sous la supervision personnelle immédiate du pharmacien. Un détaillant général de produits de santé sans licence de poisons ne peut vendre que des articles non toxiques, comme les produits en vente libre (OTC) de vente générale, les compléments et les articles de toilette, et ne doit pas se présenter comme une pharmacie ni vendre de médicaments inscrits. La Loi de 1952 sur les poisons et la Loi de 1952 sur la vente de médicaments (Sale of Drugs Act 1952) sont ce qui trace cette ligne."
 
 lang: "fr"
+sourceContentHash: "7e68872d6cc1c02e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

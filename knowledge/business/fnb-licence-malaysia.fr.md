@@ -44,10 +44,11 @@ verificationNeeded:
   - "Toute politique publiée de délivrance de licences d'alcool pour des États individuels tels que Kelantan ou Terengganu — aucune n'a été confirmée, et la variation semble découler du pouvoir discrétionnaire du Conseil de licences plutôt que d'une politique publiée"
 
 lang: "fr"
+sourceContentHash: "8621ae7bf33716e8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

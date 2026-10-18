@@ -38,10 +38,11 @@ verificationNeeded:
   - "La classification du risque bancaire par MSIC est propre à chaque institution et n'est pas publiée — traitez l'effet décrit ici comme un schéma, non une règle"
 
 lang: "fr"
+sourceContentHash: "353529e7e9ebf84a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

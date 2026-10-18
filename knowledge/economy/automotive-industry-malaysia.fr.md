@@ -33,10 +33,11 @@ faq:
     a: "C'est le cadre du gouvernement pour le secteur automobile, mis à jour le plus récemment sous la forme de la NAP 2020. Elle fixe des objectifs de véhicules de nouvelle génération (NxGV), de mobilité en tant que service et de capacités de l'Industrie 4.0, et fait l'objet d'une revue à mi-parcours ; le MITI a lancé la revue (en constituant un Conseil des personnalités éminentes de l'automobile en 2025), mais son résultat n'a pas été publié à l'échéance de fin 2025 et restait en attente en 2026."
 
 lang: "fr"
+sourceContentHash: "ce89b8f0036180e9"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

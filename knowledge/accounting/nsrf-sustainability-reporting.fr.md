@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirmer si les modifications législatives énumérées à la section IX du NSRF ont été adoptées avant de traiter le NSRF comme une obligation légale pour une société non cotée"
 
 lang: "fr"
+sourceContentHash: "580bb89b56c953ba"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

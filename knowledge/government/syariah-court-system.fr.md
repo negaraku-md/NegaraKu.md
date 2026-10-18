@@ -33,12 +33,13 @@ faq:
     a: "La disposition à trois niveaux — le Tribunal subordonné de la Syariah, le Tribunal supérieur de la Syariah et le Tribunal d'appel de la Syariah — est commune, mais chaque État l'établit par son propre enactment d'État, tandis que les Territoires fédéraux sont régis par l'Act 505. Les limites monétaires de la compétence civile sont fixées par l'enactment ou la loi concernés et peuvent différer entre États."
 
 lang: "fr"
+sourceContentHash: "8fac45bc244e70ad"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

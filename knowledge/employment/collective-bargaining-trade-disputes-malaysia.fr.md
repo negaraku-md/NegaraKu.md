@@ -34,10 +34,11 @@ faq:
     a: "Oui. En vertu de la Trade Unions Act 1959 (section 25A), un scrutin secret est requis. Après les modifications, le seuil requis a été abaissé à plus de la moitié des voix, avec au moins 60 pour cent des membres en droit de voter ayant effectivement voté, contre l'ancienne majorité des deux tiers."
 
 lang: "fr"
+sourceContentHash: "d0b1ce6e61182113"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

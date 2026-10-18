@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Résidents, planificateurs et toute personne comparant la marchabilité et les infrastructures cyclables des villes malaisiennes avec celles d'autres pays."
 
 lang: "fr"
+sourceContentHash: "3d0d276aec4c1fe4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

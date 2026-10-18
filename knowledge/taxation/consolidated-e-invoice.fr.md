@@ -42,10 +42,11 @@ verificationNeeded:
   - "La question de savoir si l'exclusion des versements de casino et de machines de jeu de la règle des gains de paris comporte une date de fin — LHDN indique jusqu'à nouvel ordre"
 
 lang: "fr"
+sourceContentHash: "1b4f5e59594a8f17"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

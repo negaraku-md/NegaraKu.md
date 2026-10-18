@@ -37,10 +37,11 @@ faq:
     a: "Une carte Touch 'n Go. Elle fonctionne sur le LRT, le MRT, le monorail, le BRT et les bus de Rapid KL. Les bus de Rapid KL n'acceptent pas les espèces, si bien qu'une carte (ou l'application) est pratiquement obligatoire pour les bus."
 
 lang: "fr"
+sourceContentHash: "df3f033b8e40fec3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

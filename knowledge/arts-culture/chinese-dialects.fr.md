@@ -32,9 +32,10 @@ seoTitle: "Dialectes chinois de Malaisie : hokkien, cantonais et hakka par régi
 socialTitle: "Mêmes Chinois, pourquoi des langues différentes ? La carte dialectale de la Malaisie"
 
 lang: "fr"
+sourceContentHash: "c773c2be8c4e6544"
 masterLanguage: "zh"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

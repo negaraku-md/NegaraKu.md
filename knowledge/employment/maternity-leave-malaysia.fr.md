@@ -57,10 +57,11 @@ obligations:
     consequence: "Loss of maternity allowance for the period before notification"
 
 lang: "fr"
+sourceContentHash: "db2dc9cc0467b713"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

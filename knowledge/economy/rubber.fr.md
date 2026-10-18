@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Toute personne ayant besoin d'une vue d'ensemble sourcée du secteur malaisien du caoutchouc : la culture de plantation, les flux commerciaux et l'industrie manufacturière de gants qui le domine désormais."
 
 lang: "fr"
+sourceContentHash: "0020c8d13fc47636"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

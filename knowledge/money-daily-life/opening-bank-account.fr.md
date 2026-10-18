@@ -25,10 +25,11 @@ verificationNeeded:
   - "La page de politique d'ouverture numérique / e-KYC de BNM a renvoyé une erreur 403 lors d'une récupération automatisée au moment de la rédaction ; son existence et son titre sont confirmés directement par les résultats de recherche de bnm.gov.my, mais les détails précis d'éligibilité devraient être revérifiés directement sur bnm.gov.my lorsqu'elle est accessible."
 
 lang: "fr"
+sourceContentHash: "52307f4fb8c11cd2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

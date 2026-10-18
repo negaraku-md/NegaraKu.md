@@ -37,10 +37,11 @@ faq:
     a: "Parfois. La section 45 permet au Directeur général, avec le consentement écrit du Procureur, de transiger sur une infraction que le Ministre a prescrite comme transigeable, pour une somme n'excédant pas 50% de l'amende maximale. Toutes les infractions ne sont pas transigeables, et les infractions les plus graves à emprisonnement obligatoire font généralement l'objet de poursuites."
 
 lang: "fr"
+sourceContentHash: "c5c03f44b4db2f68"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

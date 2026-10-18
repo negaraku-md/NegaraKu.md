@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui établit un budget pour la Malaisie, compare des offres salariales au coût réel de la vie, ou recherche les données primaires de DOSM qui étayent une affirmation sur le coût de la vie."
 
 lang: "fr"
+sourceContentHash: "0b3015ed818343fb"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -29,10 +29,11 @@ faq:
     a: "À la date de publication, aucune restriction de cylindrée n'est en vigueur ; les propositions visant à limiter l'accès aux autoroutes selon la cylindrée ne sont pas encore devenues loi."
 
 lang: "fr"
+sourceContentHash: "1c36a26778aafc7e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

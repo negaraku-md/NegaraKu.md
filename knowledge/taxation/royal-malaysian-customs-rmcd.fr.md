@@ -28,9 +28,10 @@ faq:
   - q: "Quel taux de taxe sur les services s'applique désormais ?"
     a: "8 % depuis le 1 March 2024, contre 6 % auparavant, sauf pour les services de restauration, de stationnement, de logistique et de télécommunications, qui restent à 6 %."
 lang: "fr"
+sourceContentHash: "e4e06f1218191c40"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

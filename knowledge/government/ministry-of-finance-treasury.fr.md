@@ -39,10 +39,11 @@ faq:
     a: "Le Supply Bill est un test de confiance financière envers le gouvernement. Comme c'est un projet de loi de finances, il doit prendre naissance au Dewan Rakyat et ne peut être présenté que par un ministre. Si le Dewan Rakyat rejette la dotation du gouvernement, cela est conventionnellement interprété comme une perte de la confiance majoritaire — voir les pouvoirs financiers du Dewan Rakyat en vertu des articles 67 et 68 de la Constitution fédérale."
 
 lang: "fr"
+sourceContentHash: "40747e3f92b37352"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

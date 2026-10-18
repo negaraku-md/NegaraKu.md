@@ -27,10 +27,11 @@ verificationNeeded:
   - "Confirmer si une convention de double imposition applicable modifie la situation d'une personne physique non résidente au titre de l'Annexe 1 Partie XXII — aucune détermination de LHDN sur ce point n'a été trouvée"
 
 lang: "fr"
+sourceContentHash: "efeb2f7c70d05ed0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

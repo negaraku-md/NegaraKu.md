@@ -34,10 +34,11 @@ faq:
     a: "La dernière victoire de la Malaisie au titre de regu par équipes de la King's Cup remonte à 1988. En 2024, cette attente avait atteint environ 36 ans, lorsque la Malaisie a perdu 0-2 contre la Thaïlande, pays hôte, à Nakhon Ratchasima."
 
 lang: "fr"
+sourceContentHash: "a468b0e147901427"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

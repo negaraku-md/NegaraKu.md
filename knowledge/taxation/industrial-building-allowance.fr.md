@@ -40,10 +40,11 @@ faq:
 verificationNeeded:
   - "Si un arrêté publié au journal officiel prescrit actuellement une fraction autre que trois centièmes pour la déduction annuelle au titre du paragraphe 16"
 lang: "fr"
+sourceContentHash: "4788a314694d11fc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"

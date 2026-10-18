@@ -31,10 +31,11 @@ faq:
     a: "Le propriétaire peut continuer à posséder le bien (Section 69), mais le changement de titularité d'un Patrimoine national ne peut avoir lieu que par voie d'héritage ou par vente avec l'accord préalable du Commissaire, et la première priorité d'acquisition doit être accordée au Commissaire (Section 70)."
 
 lang: "fr"
+sourceContentHash: "ac4e452cf7f76ecc"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

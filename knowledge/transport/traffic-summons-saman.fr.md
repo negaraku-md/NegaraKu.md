@@ -30,10 +30,11 @@ faq:
     a: "Selon le JPJ, un avis AwAS non réglé dans un délai de 60 jours à compter de la date d'émission peut conduire à une action en justice, avec une amende comprise entre RM300 et RM2,000 en cas de condamnation."
 
 lang: "fr"
+sourceContentHash: "b08ee8ca24ef947b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

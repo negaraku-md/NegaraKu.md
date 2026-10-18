@@ -40,10 +40,11 @@ verificationNeeded:
   - "Confirmer le texte et le statut actuels de l'annonce de LHDN sur la sous-section 77A(4) directement auprès de LHDN — la page de l'annonce n'était pas accessible au moment de la rédaction et est citée ici via la FAQ sur l'exemption d'audit de SSM"
   - "Confirmer les dates de la phase obligatoire et les points d'entrée actuels de MBRS 2.0 sur la page MBRS de SSM"
 lang: "fr"
+sourceContentHash: "10c01141306ea188"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

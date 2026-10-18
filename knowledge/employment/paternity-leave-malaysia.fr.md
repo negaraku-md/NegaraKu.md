@@ -28,10 +28,11 @@ verificationNeeded:
   - "Confirmer si la condition d'ancienneté de douze mois tolère une interruption de service, et comment le service continu se calcule pour la s.60FA"
 
 lang: "fr"
+sourceContentHash: "97900bf02693ecc5"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

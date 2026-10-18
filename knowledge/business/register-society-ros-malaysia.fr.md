@@ -33,10 +33,11 @@ faq:
     a: "Oui. Au titre de la section 14, toute société enregistrée doit, dans les soixante jours suivant son assemblée générale annuelle (ou dans les soixante jours suivant la fin de l'année civile si aucune assemblée n'est tenue), transmettre au Registre une liste à jour des responsables et du nombre de membres, toute modification de ses règles, son adresse, ainsi que ses comptes et son bilan du dernier exercice. Le défaut de dépôt peut entraîner l'annulation de l'enregistrement."
 
 lang: "fr"
+sourceContentHash: "b426932dcfc299b3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

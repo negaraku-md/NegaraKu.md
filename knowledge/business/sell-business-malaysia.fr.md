@@ -42,10 +42,11 @@ verificationNeeded:
   - "Whether KPDN requires a fresh WRT application or permits variation on a change of the licensee's shareholding was not confirmed against a KPDN guideline"
 
 lang: "fr"
+sourceContentHash: "9a4e03ec03d9397b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

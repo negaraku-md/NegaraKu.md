@@ -30,10 +30,11 @@ faq:
     a: "Si l'accès aux informations du composant ou à ses auditeurs est restreint et que le composant est significatif, l'auditeur du groupe peut se trouver dans l'impossibilité d'obtenir des éléments probants suffisants et appropriés, ce qui peut conduire à une opinion avec réserve ou à une impossibilité d'exprimer une opinion sur les états financiers du groupe."
 
 lang: "fr"
+sourceContentHash: "871221203173410a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

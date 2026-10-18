@@ -37,10 +37,11 @@ faq:
     a: "DE Rantau est un programme catalyseur de Malaysia Digital visant à faire de la Malaisie un pôle de nomades numériques de l'ASEAN. Il délivre le Malaysia Digital Nomad Pass, valable jusqu'à 12 mois et renouvelable."
 
 lang: "fr"
+sourceContentHash: "bfede7bb53cd6174"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

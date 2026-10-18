@@ -32,10 +32,11 @@ faq:
     a: "Iskandar Malaysia est un corridor de développement malaisien lancé dans les années 2000 et se situe à l'intérieur du périmètre de la JS-SEZ. La JS-SEZ est plus large et bilatérale : elle ajoute Singapour comme cosignataire, étend la zone jusqu'à Pengerang et superpose un cadre partagé d'incitations et de facilitation."
 
 lang: "fr"
+sourceContentHash: "91765fa012dff218"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

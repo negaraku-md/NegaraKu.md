@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "Toute personne qui souhaite comprendre les types d'opéra chinois traditionnel de Malaisie et le rôle que l'« opéra de remerciement aux dieux » (酬神戏) joue dans les foires de temple et les fêtes."
 
 lang: "fr"
+sourceContentHash: "13b9c7f4fc9cc94d"
 masterLanguage: "zh"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

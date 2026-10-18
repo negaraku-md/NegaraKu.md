@@ -29,12 +29,13 @@ faq:
     a: "Assister et conseiller le Souverain dans les affaires islamiques, et administrer la zakat, le waqf, les mosquées et les matières connexes conformément à l'Enactment de l'État. Le MAIN est en outre le fiduciaire unique des biens de waqf de l'État."
 
 lang: "fr"
+sourceContentHash: "d6d15ba266fb5f4b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

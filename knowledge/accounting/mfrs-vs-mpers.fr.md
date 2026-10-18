@@ -40,10 +40,11 @@ verificationNeeded:
   - "Confirmer le libellé exact et actuel de la définition de l'entité privée du MASB au regard de la page de mise en œuvre du MASB avant de la citer textuellement dans tout document destiné aux clients"
 
 lang: "fr"
+sourceContentHash: "fdc2c021a877fc8a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

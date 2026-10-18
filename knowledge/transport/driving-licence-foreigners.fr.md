@@ -23,9 +23,10 @@ verificationNeeded:
   - "Cet article ne cite pas le montant exact des frais du cours de catégorie D d'une auto-école privée, ni le barème exact des frais du JPJ pour le parcours LDL/PDL/CDL, car aucune grille tarifaire officielle unique du JPJ n'a été trouvée lors de la vérification — confirmez les frais actuels directement à un guichet du JPJ ou auprès d'une auto-école agréée avant de budgétiser."
   - "La formulation précise de l'article 28 de la loi de 1987 sur les transports routiers (Road Transport Act 1987) a été confirmée au moyen de synthèses secondaires de la loi plutôt que par une lecture directe, ligne par ligne, du PDF hébergé par le JPJ (évitée ici pour maîtriser l'usage du contexte) — le numéro de l'article et son effet de fond sont corroborés par plusieurs sources indépendantes, mais confirmez la formulation exacte sur le PDF de la loi 333 hébergé par le JPJ si vous rédigez un document qui s'appuie juridiquement sur elle."
 lang: "fr"
+sourceContentHash: "04842acf21e405cb"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

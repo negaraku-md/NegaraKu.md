@@ -31,10 +31,11 @@ faq:
     a: "Les parcs marins péninsulaires sont publiés au Journal officiel au titre de la Loi sur la pêche de 1985. Celle-ci établit une zone de protection de deux milles nautiques autour de l'île où des activités telles que déranger les tortues qui nichent et collecter les nouveau-nés sont interdites."
 
 lang: "fr"
+sourceContentHash: "3ba84882f4818881"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

@@ -30,9 +30,10 @@ faq:
     a: "Oui. Le Centre du patrimoine mondial enregistre trois biens sur la Liste indicative de la Malaisie : le parc national (Taman Negara) de la Malaisie péninsulaire, la crête de quartz de Gombak à Selangor et la léproserie de Sungai Buloh. Une inscription indicative est une déclaration d'intention de présenter une candidature, et non une inscription."
 
 lang: "fr"
+sourceContentHash: "2314ed1b6daf68a8"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

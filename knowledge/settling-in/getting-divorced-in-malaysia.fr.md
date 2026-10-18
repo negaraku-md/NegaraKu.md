@@ -35,12 +35,13 @@ faq:
     a: "Les deux systèmes intègrent une étape de réconciliation. Du côté civil, la Section 106 de l'Act 164 exige généralement de renvoyer l'affaire à un organe de conciliation (un tribunal matrimonial) avant qu'une requête ne soit déposée, avec des exceptions limitées. Du côté islamique, les couples sont orientés vers un accompagnement au Bureau religieux islamique de l'État avant qu'un divorce ne soit enregistré auprès du tribunal Syariah."
 
 lang: "fr"
+sourceContentHash: "be15966c8bacd8fa"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

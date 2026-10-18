@@ -34,10 +34,11 @@ faq:
     a: "La VL par unité est la valeur de marché totale des actifs d'un fonds moins ses passifs, divisée par le nombre de parts en circulation. C'est le prix auquel vous achetez et vendez des parts, et elle évolue chaque jour avec la valeur des positions du fonds. Une VL par unité en hausse signifie que les placements du fonds ont pris de la valeur."
 
 lang: "fr"
+sourceContentHash: "a2f63906e556e7a6"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

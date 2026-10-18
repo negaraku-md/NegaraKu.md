@@ -33,10 +33,11 @@ verificationNeeded:
   - "TEKUN ne publie pas de marqueur ouvert ou fermé par dispositif, et ses chiffres d'Ar Rahnu 4u sont typographiquement déformés sur la page en ligne"
 
 lang: "fr"
+sourceContentHash: "3e2ae8690cffc294"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

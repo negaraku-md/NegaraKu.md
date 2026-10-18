@@ -29,12 +29,13 @@ faq:
     a: "Normalement non. Les bourses complètes comme celles du JPA et de MARA exigent généralement que les étudiants renoncent au PTPTN pour le même niveau d'études. Vérifiez les termes de l'accord du parrain concerné."
 
 lang: "fr"
+sourceContentHash: "8c6acea4f3592816"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

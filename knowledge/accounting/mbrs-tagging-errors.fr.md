@@ -39,10 +39,11 @@ verificationNeeded:
   - "Confirmer le comportement de validation du point d'entrée spécifique par rapport au manuel d'utilisation de mTool 2.2 pour ce point d'entrée avant de s'appuyer sur une règle décrite de manière générique"
 
 lang: "fr"
+sourceContentHash: "4cbf1a047bbd3c22"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -24,10 +24,11 @@ appliesTo: "Chefs d'entreprise, équipes financières et administrateurs de syst
 verificationNeeded: []
 
 lang: "fr"
+sourceContentHash: "46533f76e2996181"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

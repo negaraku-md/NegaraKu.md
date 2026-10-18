@@ -45,10 +45,11 @@ verificationNeeded:
   - "Le chiffre largement diffusé de RM435 milliards d'exportations de Penang, soit 31 pour cent du national, n'a pu être rattaché à aucune page officielle. (The widely circulated figure of RM435 billion of Penang exports, or 31 per cent of national, could not be tied to any official page.)"
 
 lang: "fr"
+sourceContentHash: "6475dc27ed25022d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

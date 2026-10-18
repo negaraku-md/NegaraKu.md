@@ -34,10 +34,11 @@ faq:
     a: "Au titre de la Section 67(1), un document est valablement signé comme deed s'il est dûment signé par la société ET remis comme deed. La Section 67(2) présume que la remise a eu lieu dès que le deed est valablement signé, sauf si une intention contraire est prouvée."
 
 lang: "fr"
+sourceContentHash: "11a3057b821bdc34"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

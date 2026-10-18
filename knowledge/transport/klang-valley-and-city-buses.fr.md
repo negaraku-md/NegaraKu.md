@@ -32,10 +32,11 @@ faq:
     a: "Rapid Bus a commencé à convertir 19 lignes à faible fréquentation — 16 lignes de navette du MRT et 3 lignes standard, soit environ 7% du réseau — en un service de fourgonnette réservable Rapid KL On-Demand."
 
 lang: "fr"
+sourceContentHash: "ef9c4ac09cb054b2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

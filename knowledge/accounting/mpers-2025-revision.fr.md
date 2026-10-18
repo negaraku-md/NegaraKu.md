@@ -38,10 +38,11 @@ faq:
     a: "Moins que ne le suggère la date de 2027. L'application rétrospective signifie que la période comparative doit être préparée sur la nouvelle base, de sorte qu'une société clôturant en décembre collecte des données MPERS (2025) à partir du 1er janvier 2026. Si les contrats de produits doivent être réanalysés, le travail commence avant l'année de transition, et non pendant celle-ci."
 
 lang: "fr"
+sourceContentHash: "016de66c249cb162"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

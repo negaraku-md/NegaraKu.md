@@ -31,10 +31,11 @@ faq:
     a: "La NETR vise 70 % de capacité d'énergie renouvelable et la neutralité en gaz à effet de serre d'ici 2050, avec le soutien de 10 projets phares censés attirer plus de RM25 milliards d'investissement."
 
 lang: "fr"
+sourceContentHash: "19a2c50c83298410"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

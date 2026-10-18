@@ -33,10 +33,11 @@ faq:
     a: "L'article 366(1) prévoit une assemblée de la catégorie concernée ordonnée par le tribunal, et une ordonnance de transfert au titre de l'article 370 présuppose un plan approuvé en vertu de l'article 366. La question de savoir si le tribunal peut dispenser de l'assemblée lorsque le résultat ne fait pas l'objet d'une véritable contestation est une question d'actualité soulevée par les praticiens, et la réponse dépend des faits. Ne présumez pas que l'assemblée peut être omise ; sollicitez un avis juridique malaisien sur la structure concrète."
 
 lang: "fr"
+sourceContentHash: "c7201bb6830e2b18"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

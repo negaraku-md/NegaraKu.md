@@ -31,12 +31,13 @@ verificationNeeded:
   - "Dates exactes (mandat de Premier ministre, démission) à confirmer auprès du Cabinet du Premier ministre et de la Perdana Leadership Foundation."
 
 lang: "fr"
+sourceContentHash: "2b8cc04016656090"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-27
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

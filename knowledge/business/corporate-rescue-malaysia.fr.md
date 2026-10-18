@@ -41,10 +41,11 @@ verificationNeeded:
   - "Les frais de dépôt judiciaire et la rémunération des professionnels de l'insolvabilité pour chaque mécanisme ne sont pas publiés de manière centralisée et aucune fourchette de coûts n'est indiquée ici"
 
 lang: "fr"
+sourceContentHash: "38faab1c30546d02"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -30,10 +30,11 @@ faq:
     a: "PETRA (le Ministère de la Transition énergétique et de la Transformation de l'eau) est le ministère qui formule la politique énergétique et de l'eau du pays. La Commission de l'énergie est l'organisme réglementaire statutaire qui met en œuvre et fait appliquer les lois sur la fourniture d'énergie. En vertu de l'article 16 de l'Act 610, la ST rend compte au Ministre et doit donner effet aux directives de caractère général du Ministre."
 
 lang: "fr"
+sourceContentHash: "0a1f3c6792f9255a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

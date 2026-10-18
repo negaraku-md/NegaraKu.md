@@ -36,12 +36,13 @@ faq:
     a: "La question centrale est la protection des données lorsque le gouvernement détient les données des citoyens. L'ancien président du Barreau (Bar Council), Salim Bashir, a souligné que tout effort visant à rendre l'enregistrement obligatoire doit être promulgué par le Parlement au moyen d'une loi fédérale et s'aligner sur la Loi sur la protection des données personnelles (PDPA) de 2010, et a décrit les atteintes à la vie privée et à la sécurité des données comme un défi majeur. L'ancien député de Klang, Charles Santiago, et l'ancien président du Barreau ont exhorté le gouvernement à instaurer d'abord la confiance du public, plutôt que de rendre l'enregistrement obligatoire par la loi."
 
 lang: "fr"
+sourceContentHash: "45c9a9d998caed78"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

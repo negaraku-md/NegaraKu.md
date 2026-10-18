@@ -33,9 +33,10 @@ faq:
     a: "Le principe de conception classique de l'awan larat évite effectivement de représenter des êtres humains ou des animaux comme élément principal du motif. Toutefois, la sculpture sur bois malaise possède aussi sa propre catégorie distincte de motifs de faune — telles que des figures de poule, de rhinocéros et de canard — utilisée séparément du motif répétitif awan larat."
 
 lang: "fr"
+sourceContentHash: "9f06d94e839f077d"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

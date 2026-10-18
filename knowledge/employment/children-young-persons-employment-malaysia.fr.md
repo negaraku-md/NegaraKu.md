@@ -35,10 +35,11 @@ faq:
     a: "La section 14 prévoit un emprisonnement allant jusqu'à deux ans ou une amende pouvant atteindre RM50,000 ou les deux pour une première infraction, et jusqu'à cinq ans d'emprisonnement ou une amende de RM100,000 pour une deuxième infraction ou une infraction ultérieure. Un père, une mère ou un tuteur qui permet sciemment que l'infraction se produise peut aussi être sanctionné."
 
 lang: "fr"
+sourceContentHash: "4ad258e80f1299ae"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

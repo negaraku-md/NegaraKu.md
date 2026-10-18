@@ -40,10 +40,11 @@ verificationNeeded:
   - "Confirm the stated rationale for the RPG 7 withdrawal, namely the Competition Act 2010, against an MIA circular or Council resolution — only the withdrawal date could be confirmed from an official document"
 
 lang: "fr"
+sourceContentHash: "ecdf13a6ded6622d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

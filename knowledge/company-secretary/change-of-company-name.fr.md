@@ -30,10 +30,11 @@ faq:
     a: "Contrevenir à la Section 28 est une infraction passible d'une amende n'excédant pas RM50,000 (Section 28(8)). Déposer en retard après les 30 jours entraîne également des frais de dépôt tardif."
 
 lang: "fr"
+sourceContentHash: "fe0af342a9f2c24f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

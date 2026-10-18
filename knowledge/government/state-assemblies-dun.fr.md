@@ -24,12 +24,13 @@ keyTakeaways:
 appliesTo: "Toute personne ayant besoin de comprendre de manière descriptive comment une Assemblée législative d'État est formée au titre de la Constitution, combien de temps elle dure, et comment un projet de loi d'État la traverse pour devenir loi."
 
 lang: "fr"
+sourceContentHash: "2a25e82c7f7bc759"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -31,10 +31,11 @@ faq:
     a: "RM20 par an pour les VE de 50 kW et moins, selon les directives LKM des véhicules électriques de JPJ. Les tarifs augmentent progressivement pour les puissances supérieures."
 
 lang: "fr"
+sourceContentHash: "926c690f458094f6"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

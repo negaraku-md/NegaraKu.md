@@ -59,10 +59,11 @@ obligations:
     consequence: "Offence under the Employment Act 1955"
 
 lang: "fr"
+sourceContentHash: "6a64b8221b81d34f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -32,10 +32,11 @@ faq:
     a: "Pour les affaires impliquant fraude, évasion délibérée ou négligence, il n'y a aucun délai de prescription. Pour les poursuites pénales de certaines infractions telles que la Section 113, un délai de 12 ans s'applique."
 
 lang: "fr"
+sourceContentHash: "fa0bdbadd54080b2"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -29,9 +29,10 @@ faq:
   - q: "Quand une nouvelle société doit-elle s'enregistrer pour l'impôt sur le revenu et le SST ?"
     a: "Une Sdn Bhd nouvellement constituée doit enregistrer un dossier d'impôt sur le revenu distinct auprès de la LHDN via e-Daftar, qui délivre son propre Numéro d'identification fiscale — ce n'est pas fait automatiquement par la SSM. Elle doit aussi fournir sa première estimation fiscale (CP204) dans les trois mois suivant le début des opérations si sa première période de base est d'au moins six mois. L'enregistrement pour la taxe sur les ventes et les services (SST) devient obligatoire une fois que le chiffre d'affaires annuel imposable dépasse le seuil de RM500,000."
 lang: "fr"
+sourceContentHash: "187b776d2f8aa2b3"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

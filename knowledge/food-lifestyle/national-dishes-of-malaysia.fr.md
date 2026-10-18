@@ -34,10 +34,11 @@ faq:
     a: "Le Commissaire au patrimoine du Département du patrimoine national publie au Journal officiel des mets comme objets patrimoniaux en vertu du paragraphe 49(1) de la Loi sur le patrimoine national de 2005 (National Heritage Act 2005) [Act 645], au moyen d'une Déclaration annuelle d'objets patrimoniaux."
 
 lang: "fr"
+sourceContentHash: "bdf1c88a62d4c6ac"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

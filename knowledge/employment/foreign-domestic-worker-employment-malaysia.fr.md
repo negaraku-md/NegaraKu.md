@@ -34,10 +34,11 @@ faq:
     a: "Le montant varie selon le pays d'origine — RM250 (Indonésie, Thaïlande, Cambodge), RM750 (Philippines, Sri Lanka, Inde) et RM1,500 (Vietnam, Laos) selon l'Immigration Department. Le cautionnement peut être récupéré lorsque la travailleuse retourne dans son pays, sous conditions."
 
 lang: "fr"
+sourceContentHash: "80b7fb78bc8f91cd"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

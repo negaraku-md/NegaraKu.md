@@ -34,10 +34,11 @@ faq:
     a: "Pas nécessairement. L'étude a constaté que les populations dans des forêts bien gérées et exploitées de façon durable comme Deramakot et Segama sont restées stables sur 15 ans, ce qui montre que les orangs-outans peuvent persister dans une forêt de production lorsqu'elle est gérée avec soin et maintenue connectée."
 
 lang: "fr"
+sourceContentHash: "3e08558cd6bea030"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

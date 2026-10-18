@@ -30,10 +30,11 @@ faq:
     a: "Parmi les types recensés par le JKKN figurent le Ngajat Lesong (exécuté par les hommes tout en tenant un mortier en bois avec les dents), le Ngajat Indu (exécuté par les femmes avec des mouvements qui imitent le tissage du pua kumbu), le Ngajat Pua Kumbu (qui utilise l'étoffe pua kumbu) et le Ngajat Ngiling Tikai, qui marque la fin de la célébration du Gawai Dayak."
 
 lang: "fr"
+sourceContentHash: "bc3c9b377ae4eddf"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

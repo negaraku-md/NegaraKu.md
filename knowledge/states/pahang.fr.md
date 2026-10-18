@@ -41,12 +41,13 @@ verificationNeeded:
   - "Le portail touristique de l'État indique une superficie de 35,960 km² tandis que le portail du gouvernement de l'État indique 35,965 km² ; confirmer le chiffre officiel unique auprès du bureau du Secrétaire de l'État de Pahang."
 
 lang: "fr"
+sourceContentHash: "da77a92f707cbcd4"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

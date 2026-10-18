@@ -34,10 +34,11 @@ faq:
     a: "Non. La monnaie fonctionnelle reflète les transactions et conditions sous-jacentes, elle ne change donc que lorsque ces faits changent — par exemple, un véritable changement de la monnaie qui dicte les prix de vente et les coûts. Ce n'est pas une méthode comptable que l'on choisit d'une période à l'autre."
 
 lang: "fr"
+sourceContentHash: "f9e8ad1f0c1fc778"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

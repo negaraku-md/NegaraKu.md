@@ -24,10 +24,11 @@ appliesTo: "Entrepreneurs débutants en Malaisie choisissant entre enregistrer u
 verificationNeeded: []
 
 lang: "fr"
+sourceContentHash: "5417c396f8f77b23"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

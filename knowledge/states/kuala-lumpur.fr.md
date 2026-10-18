@@ -33,10 +33,11 @@ verificationNeeded:
   - "Confirmer les chiffres de population de Kuala Lumpur et du Grand Kuala Lumpur, ainsi que le classement du PIB par habitant, par rapport aux dernières publications du DOSM avant publication."
 
 lang: "fr"
+sourceContentHash: "92f9b90511421d9f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

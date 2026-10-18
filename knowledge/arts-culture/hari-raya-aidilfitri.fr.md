@@ -34,10 +34,11 @@ faq:
     a: "Le rumah terbuka est la pratique consistant à inviter parents, voisins et amis — y compris d'autres communautés et religions — à venir rendre visite et partager un repas tout au long de la période de Syawal. C'est devenu un trait social très répandu en Malaisie, souvent organisé aussi par les agences gouvernementales et les entreprises, et pas seulement dans les foyers privés."
 
 lang: "fr"
+sourceContentHash: "93ccc705ae0a9141"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

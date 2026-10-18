@@ -34,10 +34,11 @@ verificationNeeded:
   - "Confirm whether SSM has issued any amendment or further practice directive after PD 10/2024 that alters the Phase 2 or Phase 3 thresholds"
 
 lang: "fr"
+sourceContentHash: "0adbb423bee3af8f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

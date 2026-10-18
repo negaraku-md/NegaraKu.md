@@ -18,11 +18,12 @@ keyTakeaways:
   - "Le pouvoir législatif est partagé entre la fédération et les États au moyen des Listes fédérale, des États et concurrente de la Neuvième Annexe"
 appliesTo: "Toute personne nouvelle en Malaisie qui souhaite comprendre quel type de pays c'est sur le plan constitutionnel, avant de se plonger dans une institution en particulier."
 lang: "fr"
+sourceContentHash: "8088b5defbdcad1c"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui tente de lire correctement les statistiques malaisiennes de population, d'emploi ou d'immobilier — chercheurs, planificateurs et entreprises évaluant où se trouvent réellement la population et la main-d'œuvre."
 
 lang: "fr"
+sourceContentHash: "0362cd9a8f8b4f6a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

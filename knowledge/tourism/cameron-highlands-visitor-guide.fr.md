@@ -31,10 +31,11 @@ faq:
     a: "Ce sont des visites culturelles guidées dans des villages Semai, généralement avec une démonstration de sarbacane et des échanges sur les modes de vie de la forêt. Allez-y avec un guide local réputé, demandez la permission avant de photographier les personnes, et traitez cela comme un échange culturel respectueux plutôt que comme un spectacle."
 
 lang: "fr"
+sourceContentHash: "3402603241935266"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

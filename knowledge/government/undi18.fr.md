@@ -32,12 +32,13 @@ faq:
     a: "Pas tous. La Commission électorale indique que les personnes ayant une adresse incomplète ou générique auprès du JPN ne sont pas inscrites automatiquement, car la circonscription électorale ne peut pas être déterminée, de même que celles qui sont déchues de leur droit de vote par la loi. La Commission électorale procède à des recoupements avec le JPN, le Département des prisons de Malaisie, le ministère de la Santé et le ministère des Affaires étrangères."
 
 lang: "fr"
+sourceContentHash: "091a7bd83f753abd"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

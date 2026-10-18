@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Malaisiens et expatriés quittant la Malaisie définitivement, ou pour plus de trois mois, et les équipes RH ou paie qui doivent déposer les formalités en leur nom."
 
 lang: "fr"
+sourceContentHash: "00b0d352c02ac806"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

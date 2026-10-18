@@ -27,10 +27,11 @@ faq:
     a: "Le prix subventionné du RON95 est maintenu à RM1.99 par litre pour les citoyens éligibles dans le cadre de BUDI95, mais le prix général de marché non subventionné fluctue en fonction de l'APM."
 
 lang: "fr"
+sourceContentHash: "77fbc98bce7fd506"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

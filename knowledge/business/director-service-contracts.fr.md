@@ -38,10 +38,11 @@ verificationNeeded:
   - "Confirmer le traitement des administrateurs exécutifs comme travailleurs (workmen) au titre de l'art. 20 de l'Industrial Relations Act 1967 — cela dépend de la jurisprudence, non du texte même de la loi"
 
 lang: "fr"
+sourceContentHash: "aa6dbf128ae02aa9"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

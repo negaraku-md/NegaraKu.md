@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui achète, vend ou évalue un bien en Malaisie et qui doit comprendre à quoi l'engagent réellement le type de tenure et de titre d'une annonce."
 
 lang: "fr"
+sourceContentHash: "35465664913b0ad9"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

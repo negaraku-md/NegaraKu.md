@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirmer s'il existe un équivalent dans la Sales Tax Act de la s.26A de la Service Tax Act pour les biens importés — la réimpression de 2018 n'en contient aucun"
 
 lang: "fr"
+sourceContentHash: "13790ae63f7d4cb0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

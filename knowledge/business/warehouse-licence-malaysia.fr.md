@@ -33,10 +33,11 @@ faq:
     a: "Outre la licence de local, le CCC et le certificat incendie de BOMBA, le stockage de substances dangereuses ou à risque fait intervenir le Department of Occupational Safety and Health (DOSH) — par exemple le régime de maîtrise des risques d'accidents industriels majeurs pour les substances dangereuses en vrac — et le Department of Environment (DOE) lorsque des déchets réglementés ou des produits chimiques contrôlés sont en jeu. Si les marchandises sont aussi taxables et stockées sous douane, les conditions de la licence de la douane s'appliquent en plus. Délimitez ces approbations tôt, car elles peuvent déterminer le bâtiment et l'emplacement avant même que vous ne signiez un bail."
 
 lang: "fr"
+sourceContentHash: "25fea0864e2d1d42"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

@@ -32,12 +32,13 @@ faq:
     a: "À une autorité religieuse établie en vertu d'une loi écrite — c'est-à-dire la commission ou le centre de zakat de votre État — et conservez le reçu. Les versements à des particuliers ou à des fonds privés n'ouvrent pas droit à l'abattement."
 
 lang: "fr"
+sourceContentHash: "0477b9f160c18e84"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

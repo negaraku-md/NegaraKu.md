@@ -31,12 +31,13 @@ faq:
     a: "En vertu de la Loi sur la cybersécurité de 2024 [Act 854], la demande pour fournir des services de cybersécurité est adressée au Directeur exécutif de la NACSA. Les catégories réglementées sont le service de surveillance de centre d'opérations de sécurité (SOC) géré et le service de tests d'intrusion."
 
 lang: "fr"
+sourceContentHash: "a5256768a1d06815"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

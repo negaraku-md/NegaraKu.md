@@ -40,10 +40,11 @@ verificationNeeded:
   - "Confirmer le texte actuel et les conditions d'éligibilité des Employment (Termination and Lay-Off Benefits) Regulations 1980 telles qu'elles s'appliquent à l'expiration d'une durée déterminée"
 
 lang: "fr"
+sourceContentHash: "529468bbc9f83e00"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

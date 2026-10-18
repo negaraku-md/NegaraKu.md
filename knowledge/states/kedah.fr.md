@@ -42,12 +42,13 @@ verificationNeeded:
   - "Vérifier la date de la cérémonie d'intronisation du 29e Sultan de Kedah par rapport aux archives officielles de l'Istana Anak Bukit ; la page officielle du gouvernement de l'État n'indique que la date de proclamation."
 
 lang: "fr"
+sourceContentHash: "0d6884ea1dade121"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

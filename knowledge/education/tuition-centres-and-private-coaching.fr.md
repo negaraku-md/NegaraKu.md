@@ -30,10 +30,11 @@ faq:
     a: "Selon le MOE, exploiter un établissement éducatif privé non enregistré peut entraîner une sanction de 30 000 RM ou 2 ans d'emprisonnement, ou les deux."
 
 lang: "fr"
+sourceContentHash: "2879304f7041420a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

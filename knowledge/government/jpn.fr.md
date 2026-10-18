@@ -31,10 +31,11 @@ faq:
     a: "Pas entièrement. Le portail du JPN énumère les services de naissance et de décès séparément pour la Malaisie péninsulaire, Sabah et Sarawak, avec des catégories de demande et des références légales différentes. L'Akta Pendaftaran Negara 1959 elle-même est entrée en vigueur à une date différente dans chaque région. Confirmez le formulaire selon la région où l'événement est enregistré."
 
 lang: "fr"
+sourceContentHash: "c1ba766163b08209"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

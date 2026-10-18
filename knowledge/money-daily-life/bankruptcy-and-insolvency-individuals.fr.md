@@ -30,12 +30,13 @@ faq:
     a: "La faillite est une procédure judiciaire en vertu de l'Insolvency Act 1967. Le DMP d'AKPK, en revanche, est un programme relevant d'une agence de Bank Negara Malaysia auquel on adhère de façon optionnelle (et non par décision de justice) pour restructurer des dettes ; selon la BNM, les services d'AKPK sont fournis gratuitement. Le DMP n'est pas ouvert aux personnes qui ont déjà été déclarées en faillite."
 
 lang: "fr"
+sourceContentHash: "983be781bc1d2223"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

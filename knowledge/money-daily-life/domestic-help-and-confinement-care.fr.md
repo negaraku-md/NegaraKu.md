@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Les ménages en Malaisie qui envisagent une employée de maison étrangère logée, une aide locale à temps partiel ou des soins post-partum (garde ou centre) après l'accouchement."
 
 lang: "fr"
+sourceContentHash: "1482c677a5d90d95"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

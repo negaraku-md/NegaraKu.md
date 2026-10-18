@@ -29,10 +29,11 @@ faq:
     a: "Une amende pouvant atteindre RM200,000 ou un emprisonnement pouvant atteindre trois ans, ou les deux."
 
 lang: "fr"
+sourceContentHash: "f80441a5c89e8b43"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

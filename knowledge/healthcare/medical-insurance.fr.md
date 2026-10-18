@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Les salariés qui mettent en balance la couverture médicale de l'employeur et une carte médicale personnelle, et toute personne qui cherche à comprendre ce que signifie « coassurance » avant d'acheter ou de renouveler une police."
 
 lang: "fr"
+sourceContentHash: "5d9b4b2567c4315f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

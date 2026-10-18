@@ -78,10 +78,11 @@ obligations:
     consequence: "Amende ne dépassant pas RM10,000 pour la société et chaque dirigeant en défaut"
 
 lang: "fr"
+sourceContentHash: "2eb4fd7f219b7fed"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

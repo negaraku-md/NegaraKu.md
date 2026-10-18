@@ -32,10 +32,11 @@ verificationNeeded:
   - "RTS Link's end-2026 target date is the operators' own stated target as of this writing and should be reconfirmed closer to publication, since cross-border infrastructure openings commonly slip."
 
 lang: "fr"
+sourceContentHash: "cd13a733d0e3f471"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -42,10 +42,11 @@ verificationNeeded:
   - "Déterminer si l'exonération de la s.39(1)(r) prévue par la P.U.(A) 425-2021 a été prolongée au-delà du YA2025 — la circulaire 269/2021 de la Labuan FSA indique une période d'effet du YA2019 au YA2025 et aucune ordonnance de prorogation n'a été localisée"
   - "Déterminer si les paragraphes 39(1)(o) et 39(1)(p), qui renvoient à la Goods and Services Tax Act 2014, restent opérants après l'abrogation de cette loi"
 lang: "fr"
+sourceContentHash: "5306816ff4b971c7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

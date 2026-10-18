@@ -36,10 +36,11 @@ faq:
     a: "Oui. Proton a lancé l'e.MAS 7 en décembre 2024, son premier VE, à partir de RM109,800. Perodua a lancé le QV-E — décrit comme le premier VE local de la Malaisie — en décembre 2025 à RM80,000 hors batterie, développé pour un coût de RM800 millions."
 
 lang: "fr"
+sourceContentHash: "67619f9b70d97b83"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

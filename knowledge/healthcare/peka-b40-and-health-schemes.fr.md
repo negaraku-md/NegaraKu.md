@@ -21,9 +21,10 @@ verificationNeeded:
   - "This article does not state the full list of 50 critical illnesses covered under mySalam, because the detailed list could not be verified directly on the official mysalam.com.my website at the time of writing; please check the official mySalam portal for the complete list."
   - "The validity period of the mySalam and PeKa B40 schemes is subject to annual Budget decisions; the figures and conditions in this article were verified against official websites at the time of writing (July 2026) and may be updated in a future Budget."
 lang: "fr"
+sourceContentHash: "46290890ce15acbd"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

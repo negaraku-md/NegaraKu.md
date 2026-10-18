@@ -315,6 +315,29 @@ const redirects = {
   '/es/technology/mcmc-malaysia': '/es/government/mcmc-communications-multimedia-commission',
   '/es/government/ma63-sabah-sarawak-autonomy': '/es/malaysia/ma63',
   '/es/glossary/dasar-ekonomi-baru': '/es/malaysia/new-economic-policy',
+  // /fr mirrors of every retired-dupe redirect above (added 2026-10-18 at French
+  // open launch; the .fr dupes are archived like their ms/en/.../es siblings).
+  '/fr/government/national-registration-department-jpn': '/fr/government/jpn',
+  '/fr/government/ministry-of-investment-trade-industry-miti': '/fr/government/miti',
+  '/fr/glossary/bank-negara-malaysia': '/fr/economy/bank-negara-malaysia',
+  '/fr/government/bank-negara-malaysia': '/fr/economy/bank-negara-malaysia',
+  '/fr/energy/petronas': '/fr/companies/petronas',
+  '/fr/industries/petronas-industry-profile': '/fr/companies/petronas',
+  '/fr/law/personal-data-protection-act-2010': '/fr/law/pdpa-2010',
+  '/fr/business/cyber-security-act-malaysia': '/fr/technology/cyber-security-act-2024',
+  '/fr/companies/pnb-and-asnb': '/fr/economy/pnb',
+  '/fr/glossary/felda': '/fr/agriculture/felda-land-settlement-scheme',
+  '/fr/glossary/orang-asli': '/fr/arts-culture/orang-asli',
+  '/fr/energy/tnb-tenaga-nasional': '/fr/companies/tenaga-nasional',
+  '/fr/companies/khazanah-nasional': '/fr/economy/khazanah',
+  '/fr/glossary/khazanah-nasional': '/fr/economy/khazanah',
+  '/fr/economy/deposit-insurance-pidm': '/fr/finance/pidm-deposit-and-takaful-insurance-protection',
+  '/fr/glossary/polis-diraja-malaysia': '/fr/government/pdrm',
+  '/fr/public-safety/royal-malaysia-police-pdrm': '/fr/government/pdrm',
+  '/fr/glossary/suruhanjaya-pilihan-raya': '/fr/government/spr-election-commission',
+  '/fr/technology/mcmc-malaysia': '/fr/government/mcmc-communications-multimedia-commission',
+  '/fr/government/ma63-sabah-sarawak-autonomy': '/fr/malaysia/ma63',
+  '/fr/glossary/dasar-ekonomi-baru': '/fr/malaysia/new-economic-policy',
 };
 
 export default defineConfig({
@@ -388,16 +411,13 @@ export default defineConfig({
       // sitemap (the soft-launch /hi filter below was removed and hi added to the locales map).
       i18n: {
         defaultLocale: 'ms',
-        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar', hi: 'hi', es: 'es' },
+        locales: { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar', hi: 'hi', es: 'es', fr: 'fr' },
       },
       // Keep noindex-by-design pages OUT of the sitemap. The per-locale
       // /maintenance pages are chrome-less + `noindex` (BaseLayout), so listing
       // them in the sitemap made Google report "Excluded by 'noindex' tag" for
       // sitemap URLs. (Every other route is index,follow, so nothing else needs filtering.)
-      // Soft-launched /fr is held OUT (noindex) until its Phase 3 open launch, like the
-      // per-locale /maintenance pages. Remove the /fr clause when fr open-launches.
-      filter: (page) =>
-        !/\/maintenance\/?$/.test(page) && !/\/fr(?:\/|$)/.test(new URL(page).pathname),
+      filter: (page) => !/\/maintenance\/?$/.test(page),
       serialize(item) {
         const lastmod = lastmodFor(item.url);
         if (lastmod) item.lastmod = lastmod;

@@ -35,12 +35,13 @@ faq:
     a: "Les deux États revendiquent une redevance de 5% fondée sur un accord de 1975. Le Terengganu reçoit des paiements (bien qu'ils aient été un temps convertis en « argent de bonne volonté » vers 2000 puis rétablis en 2009), tandis que l'action en justice du Kelantan de 2010 a été retirée en 2019. La question centrale est de savoir si les puits en cause se trouvent dans les eaux de l'État (la limite des trois milles nautiques) ou sous juridiction fédérale."
 
 lang: "fr"
+sourceContentHash: "fee9c9760c973ad8"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

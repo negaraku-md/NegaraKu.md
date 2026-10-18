@@ -37,10 +37,11 @@ faq:
 
 verificationNeeded: []
 lang: "fr"
+sourceContentHash: "66c5c6d15ecf566b"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"

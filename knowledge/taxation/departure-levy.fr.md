@@ -29,10 +29,11 @@ faq:
     a: "Les passagers de vols qui arrivent dans un aéroport international de Malaisie et poursuivent leur voyage vers une destination à l'étranger dans un délai de transit n'excédant pas 12 heures sont exonérés."
 
 lang: "fr"
+sourceContentHash: "5f586e52647f995b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

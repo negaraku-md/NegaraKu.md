@@ -34,10 +34,11 @@ faq:
     a: "Le JPJ ne renouvellera pas la taxe de circulation d'un véhicule commercial sans un rapport d'inspection valable, et un véhicule circulant sans inspection peut se voir infliger une amende de composition ou une citation par le JPJ."
 
 lang: "fr"
+sourceContentHash: "6dfb76a4e260e0c1"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

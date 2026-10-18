@@ -43,10 +43,11 @@ verificationNeeded:
   - "Les délais de réponse aux questionnaires supplémentaires sont fixés au cas par cas dans le questionnaire lui-même et ne sont pas fixés par le Règlement (Response periods for supplementary questionnaires are set case by case in the questionnaire itself and are not fixed by the Regulations)"
 
 lang: "fr"
+sourceContentHash: "362da92334d2fc8d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

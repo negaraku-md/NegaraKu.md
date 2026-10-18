@@ -24,10 +24,11 @@ verificationNeeded:
   - "Le site officiel kwsp.gov.my a bloqué l'accès automatisé (403) au moment de la rédaction de cet article. Les taux de cotisation de KWSP cités (11 pour cent pour l'employé ; 13/12 pour cent pour l'employeur selon la tranche de salaire) ont été confirmés par une recherche qui a renvoyé des extraits directs du propre texte de kwsp.gov.my, et sont cohérents avec l'article epf-employer-guide de ce site, qui cite également kwsp.gov.my. Veuillez revérifier directement sur kwsp.gov.my/en/epf-act-1991-third-schedule une fois le site accessible."
 
 lang: "fr"
+sourceContentHash: "91cbd7d0dece19b9"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

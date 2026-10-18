@@ -32,10 +32,11 @@ faq:
     a: "Oui. Les deux sont cotées sur le Marché principal de Bursa Malaysia. Top Glove est en outre cotée sur le Mainboard du Singapore Exchange."
 
 lang: "fr"
+sourceContentHash: "a45b971c54bb5789"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

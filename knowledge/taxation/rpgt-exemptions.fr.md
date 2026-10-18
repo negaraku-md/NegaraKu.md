@@ -34,10 +34,11 @@ verificationNeeded:
   - "Le statut actuel du formulaire CKHT 502 comme voie de paiement de l'acquéreur n'a pas été confirmé au regard de la page de procédure de paiement de la LHDN et peut avoir été remplacé par le récépissé de confirmation e-CKHT"
 
 lang: "fr"
+sourceContentHash: "6666571281397324"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

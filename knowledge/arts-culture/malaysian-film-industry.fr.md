@@ -34,10 +34,11 @@ faq:
     a: "On l'appelle souvent la « nouvelle vague malaisienne » (Malaysian New Wave), une vague de cinéastes indépendants du début des années 2000. Da Huang Pictures, fondée en 2004 par Tan Chui Mui, Amir Muhammad, James Lee et Liew Seng Tat, en est devenue l'un des pôles ; le film de Tan, Love Conquers All, a remporté les prix New Currents et FIPRESCI au Festival international du film de Busan de 2006 et le Tiger Award à Rotterdam."
 
 lang: "fr"
+sourceContentHash: "defc3df96dc13355"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

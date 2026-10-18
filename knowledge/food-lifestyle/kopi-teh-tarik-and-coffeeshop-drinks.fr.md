@@ -29,10 +29,11 @@ faq:
     a: "Le processus consistant à verser le thé à plusieurs reprises entre deux récipients depuis une certaine hauteur — «tarik» — refroidit la boisson, mélange le thé au lait et produit une couche de mousse sur le dessus. C'est devenu un spectacle à part entière, au point qu'il existe des concours de teh tarik."
 
 lang: "fr"
+sourceContentHash: "9bbd745541ea86db"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

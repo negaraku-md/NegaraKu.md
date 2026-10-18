@@ -39,10 +39,11 @@ faq:
     a: "L'Office national de l'IA (NAIO) est une agence relevant du ministère du Numérique qui a été approuvée par le Cabinet le 28 août 2024 et lancée le 12 décembre 2024. Elle est chargée de formuler, planifier, rechercher, coordonner et mettre en œuvre les initiatives d'IA du pays. Selon le Tech For Good Institute, ses responsabilités incluent le pilotage de la Stratégie nationale d'IA censée couvrir 2026-2030, en continuité de la Feuille de route de l'IA 2021-2025 ; le nom officiel et la portée de la stratégie attendent confirmation par des documents officiels."
 
 lang: "fr"
+sourceContentHash: "4d479bafdf246fa8"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -29,10 +29,11 @@ faq:
     a: "Oui. Les deux États ont leurs propres offices de tourisme qui commercialisent l'État, aux côtés des efforts nationaux de Tourism Malaysia."
 
 lang: "fr"
+sourceContentHash: "353b6077a5a0f789"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-03"

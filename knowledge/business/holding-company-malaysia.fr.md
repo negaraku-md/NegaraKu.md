@@ -33,10 +33,11 @@ faq:
     a: "Deux prélèvements peuvent s'appliquer. Le transfert d'actions entraîne un droit de timbre ad valorem de 0.3% (RM3 par tranche de RM1,000) sur la plus élevée des deux valeurs entre la contrepartie et la valeur de marché des actions. Et depuis que l'impôt sur les plus-values s'applique aux sociétés en 2024, la cession d'actions non cotées de sociétés malaisiennes peut déclencher le CGT — en gros 10% de la plus-value nette. Un allègement du droit de timbre peut être disponible pour les transferts entre sociétés associées, alors confirmez les conditions en vigueur avant de vous restructurer."
 
 lang: "fr"
+sourceContentHash: "f500684433842383"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

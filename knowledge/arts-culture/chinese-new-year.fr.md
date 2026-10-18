@@ -31,9 +31,10 @@ faq:
     a: "Le « lo hei » (yee sang, ou 捞鱼生) est une coutume du Nouvel An populaire en Malaisie, à Singapour et dans la région du Nanyang en général, généralement pratiquée lors du repas de réunion ou d'un rassemblement du Nouvel An : tous se réunissent autour de la table et utilisent les baguettes pour faire voltiger bien haut et ensemble des légumes et des fruits en julienne, des tranches de poisson cru et des ingrédients variés, en prononçant des formules propices comme « que ta fortune s'élève comme le vent et l'eau » et « plus tu le soulèves haut, plus tu prospères ». C'est très populaire localement, mais c'est généralement considéré comme une pratique développée par la communauté chinoise de la région du Nanyang, et non comme une coutume originaire de la Chine ancienne."
 
 lang: "fr"
+sourceContentHash: "d2c30470773fa9b0"
 masterLanguage: "zh"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

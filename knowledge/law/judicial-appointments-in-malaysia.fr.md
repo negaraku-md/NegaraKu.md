@@ -30,12 +30,13 @@ faq:
     a: "Oui, mais seulement par le processus de l'Article 125. Une représentation est présentée au Yang di-Pertuan Agong, qui établit alors un tribunal composé d'au moins cinq personnes exerçant ou ayant exercé une fonction judiciaire. Les motifs se limitent à un manquement au code de déontologie ou à l'incapacité d'exercer les fonctions de la charge."
 
 lang: "fr"
+sourceContentHash: "609ac0242c162e91"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

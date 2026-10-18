@@ -19,9 +19,10 @@ keyTakeaways:
   - "La lignée du Sultanat de Melaka reprit le pouvoir à Johor Lama en 1528, et cette dynastie dura jusqu'en 1699"
 appliesTo: "Lecteurs qui veulent comprendre les raisons techniques et politiques de la chute de Melaka en 1511, et ce qu'il advint des institutions et de la lignée royale de Melaka après la perte de la ville."
 lang: "fr"
+sourceContentHash: "b8ff8e81366e5986"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

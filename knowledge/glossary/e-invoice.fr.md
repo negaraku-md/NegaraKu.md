@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Chefs d'entreprise, comptables et équipes financières qui se préparent à la conformité e-Invoice ou qui la gèrent."
 
 lang: "fr"
+sourceContentHash: "12ea69b29867be13"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

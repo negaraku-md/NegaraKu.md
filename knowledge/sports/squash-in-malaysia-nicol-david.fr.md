@@ -31,10 +31,11 @@ faq:
     a: "Sivasangari Subramaniam, qui a atteint un sommet de carrière de numéro 6 mondiale en octobre 2025, et Ng Eain Yow, qui a remporté l'ACE Malaysia Squash Cup 2024 à domicile."
 
 lang: "fr"
+sourceContentHash: "47a1ae4a8ea8c4dc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

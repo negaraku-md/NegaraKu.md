@@ -45,10 +45,11 @@ verificationNeeded:
   - "ECERDC's own incentives page at ecerdc.com.my returns 404, so ECERDC's current statement of its own incentive route could not be obtained."
 
 lang: "fr"
+sourceContentHash: "b4e723b19c6d6a1a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

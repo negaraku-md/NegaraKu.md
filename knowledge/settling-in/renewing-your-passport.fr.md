@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Citoyens malaisiens souhaitant renouveler un passeport international existant, ou remplacer un passeport perdu/endommagé, que ce soit en ligne ou à un guichet du Département de l'immigration de Malaisie (JIM) / UTC."
 
 lang: "fr"
+sourceContentHash: "bf73b9b94f1050d3"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

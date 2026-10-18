@@ -33,12 +33,13 @@ faq:
     a: "Posséder, distribuer ou projeter un film sans licence ni approbation est une infraction au titre de la Film Censorship Act 2002, passible d'une amende comprise entre RM5,000 et RM30,000 et/ou d'une peine d'emprisonnement d'une durée maximale de 3 ans."
 
 lang: "fr"
+sourceContentHash: "f25f07b35f2179e4"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -37,10 +37,11 @@ faq:
     a: "Un auditeur peut démissionner par notification écrite au siège social de la société (section 281) ; la fonction prend fin 21 jours après la remise de la notification ou à une date ultérieure indiquée, selon celle qui est postérieure. Les membres peuvent révoquer un auditeur à tout moment par résolution ordinaire en assemblée générale (section 276), mais une notification spéciale est requise (section 277)."
 
 lang: "fr"
+sourceContentHash: "005bacdce3786440"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

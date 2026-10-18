@@ -34,10 +34,11 @@ faq:
     a: "Le ministère de l'Agriculture et de la Sécurité alimentaire (KPKM), par l'intermédiaire de la Division du développement de l'industrie du riz, avec des organismes d'exécution tels que l'Autorité des organisations d'agriculteurs (LPP), MADA et KADA dans leurs zones rizicoles respectives."
 
 lang: "fr"
+sourceContentHash: "0db45e7ee2f93134"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -44,10 +44,11 @@ verificationNeeded:
   - "Les Directives ne prescrivent aucune durée minimale ou maximale pour un billet d'investissement P2P ; seule une période de remboursement restante minimale de 3 mois pour l'admission au marché secondaire a été localisée"
 
 lang: "fr"
+sourceContentHash: "000a7355af87eb83"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

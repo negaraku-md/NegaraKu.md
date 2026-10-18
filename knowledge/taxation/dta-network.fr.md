@@ -28,10 +28,11 @@ verificationNeeded:
   - "Les taux sont les plafonds conventionnels généraux publiés par LHDN, non des taux article par article. Plusieurs conventions réduisent l'intérêt à zéro pour les paiements à un gouvernement, une banque centrale ou une institution agréée ; vérifiez l'article pertinent avant d'appliquer le taux du tableau"
 
 lang: "fr"
+sourceContentHash: "2eae865a4f192515"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

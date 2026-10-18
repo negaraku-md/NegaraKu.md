@@ -23,12 +23,13 @@ keyTakeaways:
 appliesTo: "Les étudiants en droit et les chercheurs qui cartographient le système juridique malaisien pour la première fois, quiconque cherche à déterminer quel corpus de droit régit une question donnée, et les lecteurs qui voient sans cesse « pays de common law », « droit islamique » et « adat » employés côte à côte sans qu'on leur explique comment ils s'articulent réellement."
 
 lang: "fr"
+sourceContentHash: "f4b71230618caa4c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

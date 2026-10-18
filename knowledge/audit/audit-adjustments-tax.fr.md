@@ -35,10 +35,11 @@ faq:
 
 verificationNeeded: []
 lang: "fr"
+sourceContentHash: "caffd1c326f672e5"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

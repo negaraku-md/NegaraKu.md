@@ -24,10 +24,11 @@ verificationNeeded:
   - "Confirmer si la SSM a publié des orientations d'application concernant l'intervalle attendu entre la première et la deuxième notification s.60C"
 
 lang: "fr"
+sourceContentHash: "d0074a8a9e509a8c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

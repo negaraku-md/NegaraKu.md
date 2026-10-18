@@ -29,10 +29,11 @@ faq:
     a: "Le serunai se joue avec la technique de la respiration circulaire, qui permet à son son de se poursuivre sans interruption, ce qui en fait le principal porteur de la mélodie dans le Nobat."
 
 lang: "fr"
+sourceContentHash: "ede0d9c6ebbbceef"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

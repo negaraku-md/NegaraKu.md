@@ -44,10 +44,11 @@ verificationNeeded:
   - "Current tenant counts and committed investment at POIC Lahad Datu and SOGIP Sipitang — the operator sites carry figures dated 2020 to 2022 and aspirational totals"
 
 lang: "fr"
+sourceContentHash: "91f5a7840f804778"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

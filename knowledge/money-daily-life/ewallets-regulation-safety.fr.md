@@ -34,10 +34,11 @@ faq:
     a: "Oui. Les quatre — TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd (Boost), GPay Network (M) Sdn Bhd (GrabPay) et ShopeePay Malaysia Sdn Bhd — figurent comme émetteurs de monnaie électronique non bancaires sur la liste officielle de BNM."
 
 lang: "fr"
+sourceContentHash: "3baa675be6fcede6"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

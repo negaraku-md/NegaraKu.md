@@ -32,12 +32,13 @@ faq:
     a: "Pas entièrement. La Cour fédérale a confirmé la reconnaissance du NCR par la common law dans l'affaire Madeli bin Salleh (2007), mais dans l'affaire TR Sandah (2016) une cour divisée a limité les droits opposables à la terre cultivée et a rejeté les revendications sur la forêt communautaire environnante. La portée du NCR reste débattue."
 
 lang: "fr"
+sourceContentHash: "f1772b5d15bbbf86"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

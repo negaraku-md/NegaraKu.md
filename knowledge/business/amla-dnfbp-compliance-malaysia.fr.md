@@ -30,10 +30,11 @@ faq:
     a: "Non. La Déclaration de seuil de liquidités pour les transactions en espèces de RM25,000 ou plus ne s'applique qu'aux établissements bancaires, à certaines institutions financières de développement, à Lembaga Tabung Haji et au casino autorisé. Les DNFBP restent soumis à l'obligation de STR."
 
 lang: "fr"
+sourceContentHash: "ed7c9043d8d06f81"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

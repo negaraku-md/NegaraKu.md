@@ -34,10 +34,11 @@ faq:
     a: "La Malaisie s'est classée 26e dans l'Indice de performance logistique 2023 de la Banque mondiale, contre 41e en 2018, et deuxième parmi les nations de l'ASEAN après Singapour."
 
 lang: "fr"
+sourceContentHash: "5308f8757b834449"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

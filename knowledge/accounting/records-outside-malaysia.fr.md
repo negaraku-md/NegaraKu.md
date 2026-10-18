@@ -25,10 +25,11 @@ verificationNeeded:
   - "Ni la SSM ni la LHDN ne publient d'orientations sur le point de savoir si des données hébergées dans une région de nuage étrangère mais accessibles depuis la Malaisie satisfont à l'exigence de conservation en Malaisie — la position exposée ici suit le libellé légal, et il n'existe aucune concession administrative publiée"
 
 lang: "fr"
+sourceContentHash: "d4690bd724bedb45"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -38,10 +38,11 @@ faq:
     a: "L'Institut national du sport (ISN). Il est placé sur une base statutaire par la National Sports Institute Act 2011 [Act 729] et fonctionne pour fournir des services, conseils et consultations en sciences du sport et en médecine du sport, mener des recherches et conseiller le Ministre sur les aspects scientifiques de la performance des athlètes."
 
 lang: "fr"
+sourceContentHash: "6410f4b09d840cf0"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

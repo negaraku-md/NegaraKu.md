@@ -35,10 +35,11 @@ faq:
     a: "Oui. La section 133 permet le transfert depuis Labuan avec l'approbation de l'Autorité, à condition que les lois de la destination l'autorisent, que les porteurs d'au moins les trois quarts des actions de chaque classe et de toutes obligations de chaque classe et tous les administrateurs y consentent, que l'avis d'intention soit publié dans un journal de Labuan au moins 30 jours à l'avance, et qu'une déclaration sous serment d'un administrateur énumérant les créanciers et déclarant que le transfert est peu susceptible de nuire aux membres, porteurs d'obligations ou créanciers soit déposée."
 
 lang: "fr"
+sourceContentHash: "8ccef2426ade3a45"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

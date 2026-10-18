@@ -26,10 +26,11 @@ verificationNeeded:
   - "L'origine du teh tarik au sein de la communauté musulmane indienne de Malaya — fréquemment citée, mais aucune date ni aucun lieu précis n'est confirmé dans une source gouvernementale officielle."
 
 lang: "fr"
+sourceContentHash: "445b06c48abc194e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

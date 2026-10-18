@@ -29,12 +29,13 @@ faq:
     a: "Certains plans de takaful permettent que l'excédent distribuable du fonds de risque soit partagé entre les participants éligibles, sous réserve des conditions du certificat. Cette caractéristique de partage de l'excédent n'a pas d'équivalent direct dans la plupart des polices conventionnelles."
 
 lang: "fr"
+sourceContentHash: "94509152b2b8fc7d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

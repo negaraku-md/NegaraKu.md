@@ -29,10 +29,11 @@ faq:
     a: "Souvent non. De nombreux complexes hôteliers et opérateurs de bateau de la côte est suspendent volontairement leurs services d'environ octobre à février en raison des mers agitées de la mousson du nord-est."
 
 lang: "fr"
+sourceContentHash: "baf74efaaf475bb1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

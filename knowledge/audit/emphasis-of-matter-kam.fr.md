@@ -37,10 +37,11 @@ verificationNeeded:
   - "Confirmer comment « entité cotée » se définit aux fins malaisiennes sur le Main Market, l'ACE Market et le LEAP Market de Bursa Malaysia, et si les émetteurs du LEAP Market relèvent de l'exigence de l'ISA 701"
 
 lang: "fr"
+sourceContentHash: "573f87ce15adf16f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

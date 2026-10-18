@@ -29,10 +29,11 @@ faq:
     a: "L'achat doit être financé entièrement par les bénéfices non distribués de la société, sur une base de société (non de groupe) — Règle 12.10 du Chapitre 12 des Exigences de cotation de Bursa. Des emprunts peuvent servir de source de fonds à condition que l'achat soit couvert par un montant équivalent de bénéfices non distribués (Règle 12.11)."
 
 lang: "fr"
+sourceContentHash: "6bd8a430b49db96b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

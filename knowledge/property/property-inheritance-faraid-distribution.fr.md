@@ -30,12 +30,13 @@ faq:
     a: "Une petite succession comprenant des biens immeubles et évaluée à moins de RM5 millions est gérée par l'administrateur foncier via le bureau foncier de district (District Land Office), qui délivre une ordonnance de distribution (Distribution Order)."
 
 lang: "fr"
+sourceContentHash: "569aa98893242689"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

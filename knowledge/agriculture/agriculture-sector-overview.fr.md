@@ -35,10 +35,11 @@ faq:
     a: "Parce que les deux sont gérés comme des activités distinctes. L'huile de palme est une matière première d'exportation rentable et à grande échelle sur des terres adaptées, tandis que le riz est une culture vivrière à faible marge dépendante des subventions et de l'irrigation. La terre, le capital et la main-d'œuvre tendent à affluer vers les cultures de matières premières plus rentables."
 
 lang: "fr"
+sourceContentHash: "c5cc2c29dde16362"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

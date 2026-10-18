@@ -33,10 +33,11 @@ faq:
     a: "L'employeur déclare le versement, ventilé en ses parts exonérée et imposable, dans le Formulaire EA (C.P.8A) du salarié pour l'année, et la part imposable est incluse dans le revenu du salarié de cette année-là. Par ailleurs, un employeur du secteur privé doit notifier à LHDN que le salarié est sur le point de cesser son emploi, généralement au moyen du Formulaire CP22A au moins 30 jours avant la cessation, et doit retenir les fonds dans l'attente du quitus fiscal (la lettre de quitus fiscal / Surat Penyelesaian Cukai) avant de libérer le solde de tout compte."
 
 lang: "fr"
+sourceContentHash: "8493c353cbce9515"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

@@ -29,12 +29,13 @@ faq:
     a: "Oui. De nombreux Malaisiens hindous évitent le bœuf, de sorte que les menus sans bœuf sont courants, et la plupart des restaurants végétariens indiens ne servent aucune viande. Les menus chinois et malais utilisent bien le bœuf, alors vérifiez le plat si vous l'évitez."
 
 lang: "fr"
+sourceContentHash: "b8a6bb42bf674ded"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

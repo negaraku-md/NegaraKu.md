@@ -34,10 +34,11 @@ faq:
     a: "En vertu de la disposition transitoire de la section 619(3), le M&A d'une entreprise existante en vigueur à l'entrée en vigueur de la loi continue de s'appliquer comme s'il avait été fait en vertu de cette loi, sauf décision contraire de l'entreprise. Ce M&A devient désormais le statut de l'entreprise."
 
 lang: "fr"
+sourceContentHash: "99c3208a68daac93"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

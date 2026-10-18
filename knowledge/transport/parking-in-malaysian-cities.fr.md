@@ -29,10 +29,11 @@ faq:
     a: "Non. Les amendes de composition pour stationnement sont délivrées par les autorités locales (PBT) au titre d'arrêtés de circulation routière relatifs au stationnement, tandis que les contraventions de circulation pour infractions de conduite sont délivrées par la PDRM ou le JPJ."
 
 lang: "fr"
+sourceContentHash: "cec9d7c50b142e19"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -30,10 +30,11 @@ faq:
     a: "Obtenez une lettre de solde auprès du prêteur et apportez-la à l'agence pour mettre à jour un prêt remboursé. Par la loi, une agence ne peut pas divulguer votre statut de faillite plus de deux ans après la date de votre réhabilitation."
 
 lang: "fr"
+sourceContentHash: "0d23a5db0b086fe6"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

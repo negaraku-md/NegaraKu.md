@@ -40,12 +40,13 @@ verificationNeeded:
   - "Les périodes historiques pendant lesquelles chaque coalition a gouverné et leurs années de création (par exemple, quand Barisan Nasional a gouverné au niveau fédéral, et quand Perikatan Nasional a été créée) ne sont pas indiquées sous forme de dates fermes dans cette page, car aucune source primaire n'a été vérifiée à leur sujet lors de ce tour. Ajouter des dates sourcées si nécessaire."
 
 lang: "fr"
+sourceContentHash: "58782ac706653a76"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

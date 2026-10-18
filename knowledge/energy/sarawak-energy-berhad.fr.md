@@ -30,10 +30,11 @@ faq:
     a: "La centrale hydroélectrique de Bakun, d'une capacité disponible de 2,520MW, est la plus grande installation de production du Sarawak."
 
 lang: "fr"
+sourceContentHash: "585f9d0a1ccc7faf"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

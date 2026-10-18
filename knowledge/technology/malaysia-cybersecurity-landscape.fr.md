@@ -36,12 +36,13 @@ faq:
     a: "Dans l'Indice mondial de cybersécurité 2020 (GCIv4) de l'UIT, la Malaisie a obtenu 98.06 et s'est classée cinquième ex æquo au monde. Dans l'édition de 2024, qui utilise un modèle à cinq niveaux, la Malaisie se situe dans le niveau supérieur de « modèle à suivre »."
 
 lang: "fr"
+sourceContentHash: "7722bdc160f9e488"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

@@ -27,10 +27,11 @@ faq:
     a: "La Malaysia Competition Commission (MyCC), un organe public indépendant, enquête sur les infractions présumées et peut imposer des sanctions pécuniaires et des injonctions."
 
 lang: "fr"
+sourceContentHash: "6a2eea7b75db3f8c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

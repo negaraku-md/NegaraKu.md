@@ -29,10 +29,11 @@ faq:
     a: "Elle a été remplacée par la Directive NADMA no 1, approuvée lors d'une réunion du Conseil national de sécurité (MKN) présidée par le Premier ministre le 1er août 2024."
 
 lang: "fr"
+sourceContentHash: "cb54d0894eec9ad2"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -32,10 +32,11 @@ faq:
     a: "En général, non. L'article 26 énonce qu'un accord conclu sans cause est nul, sous réserve de trois exceptions : une promesse écrite et enregistrée faite par amour et affection naturels entre parties ayant un lien de parenté proche, une promesse de compenser quelque chose déjà accompli volontairement, et une promesse de payer une dette prescrite par la loi sur la prescription."
 
 lang: "fr"
+sourceContentHash: "a078693f5e3c25a0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

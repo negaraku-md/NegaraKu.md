@@ -31,12 +31,13 @@ faq:
     a: "Les directives de 2012 du ministère de la Santé définissent l'interruption de grossesse comme une procédure réalisée à un âge gestationnel inférieur à 22 semaines ou, lorsque l'âge est inconnu, lorsque le fœtus est estimé peser moins de 500 grammes."
 
 lang: "fr"
+sourceContentHash: "58e08ea86f967964"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

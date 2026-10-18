@@ -32,11 +32,12 @@ faq:
     a: "L'article 8(1) de la loi 808 exige que toutes les personnes présentes se tiennent au garde-à-vous. L'article 8(3) prévoit que quiconque manque sciemment de respect à l'hymne national dans un lieu public peut, en cas de condamnation, être puni d'une amende n'excédant pas RM100 ou d'un emprisonnement d'une durée n'excédant pas un mois."
 
 lang: "fr"
+sourceContentHash: "c84bd6935adf2871"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -32,12 +32,13 @@ faq:
     a: "Non. Les frais de gestion funéraire, les dettes et les legs sont réglés d'abord sur le patrimoine avant que le solde ne soit distribué selon le faraid."
 
 lang: "fr"
+sourceContentHash: "8922f0a1759aa852"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -39,10 +39,11 @@ verificationNeeded:
   - "La durée de la période de validité d'une approbation WRT — seul le délai de préavis de renouvellement de trois mois est publié"
 
 lang: "fr"
+sourceContentHash: "01bb0853bba1972c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

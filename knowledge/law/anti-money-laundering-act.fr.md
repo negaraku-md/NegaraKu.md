@@ -29,12 +29,13 @@ faq:
     a: "Au titre de la partie VI, un organisme d'application peut émettre une ordonnance de gel, un enquêteur peut saisir des biens meubles au cours d'une enquête, et le Procureur général dispose de pouvoirs supplémentaires de saisie et de confiscation."
 
 lang: "fr"
+sourceContentHash: "03583a7602b0f6ef"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

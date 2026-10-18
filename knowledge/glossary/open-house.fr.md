@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Toute personne invitée à une maison ouverte pour la première fois, les organisateurs de maisons ouvertes au niveau communautaire ou d'entreprise, et quiconque cherche à comprendre cette pratique comme un phénomène social interethnique en Malaisie."
 
 lang: "fr"
+sourceContentHash: "3bc3f6abab7fea70"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

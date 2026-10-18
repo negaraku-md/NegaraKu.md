@@ -29,9 +29,10 @@ faq:
   - q: "Quelles décisions exigent une résolution spéciale ?"
     a: "Modifier, adopter ou révoquer la constitution (article 36), changer le nom de la société (article 28), réduire le capital social par la voie judiciaire (article 116) ou par la voie de la déclaration de solvabilité (article 117), et engager une liquidation volontaire par les membres (article 439) exigent toutes une résolution spéciale."
 lang: "fr"
+sourceContentHash: "b65d4a86d107f772"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

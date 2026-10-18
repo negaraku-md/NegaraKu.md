@@ -26,10 +26,11 @@ verificationNeeded:
   - "MFRS 139 reste répertoriée par le MASB ; confirmez son statut d'application actuel pour toute entité encore dans son champ d'application"
 
 lang: "fr"
+sourceContentHash: "e028c2fa0dbb47c1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

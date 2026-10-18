@@ -29,10 +29,11 @@ faq:
     a: "Les soins palliatifs se concentrent sur le confort et le contrôle des symptômes de patients atteints de maladies limitant l'espérance de vie, quel que soit leur âge, y compris les enfants. Les soins gériatriques, en revanche, sont des soins généraux pour les personnes âgées qui n'ont pas nécessairement de maladie en phase terminale."
 
 lang: "fr"
+sourceContentHash: "ff994cbda9925abc"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant une compréhension générale, au niveau de l'orientation, de l'échelle et de la forme de l'économie malaisienne."
 
 lang: "fr"
+sourceContentHash: "a15aa3483282907f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

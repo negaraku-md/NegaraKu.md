@@ -32,12 +32,13 @@ faq:
     a: "La Vision de prospérité partagée 2030 (WKB 2030) fut lancée en octobre 2019 comme vision successeure, centrée sur une prospérité équitable pour la période 2021 à 2030."
 
 lang: "fr"
+sourceContentHash: "d7d57585a7686755"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

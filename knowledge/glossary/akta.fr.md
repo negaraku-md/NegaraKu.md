@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui lit ou cite le droit malaisien — avocats, étudiants, chefs d'entreprise et chercheurs."
 
 lang: "fr"
+sourceContentHash: "fcd52a1ed198449a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

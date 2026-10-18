@@ -31,12 +31,13 @@ faq:
     a: "Des îles comme Langkawi et Labuan sont des zones hors taxes où l'alcool est vendu sans droits d'accise. Les voyageurs peuvent en général introduire du vin, des spiritueux ou de la bière de malt ne dépassant pas un litre au total, sous réserve de règles de durée d'absence minimale qu'il convient de confirmer auprès des douanes avant le voyage."
 
 lang: "fr"
+sourceContentHash: "56f47508696d66ca"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

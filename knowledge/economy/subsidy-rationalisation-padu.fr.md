@@ -31,10 +31,11 @@ faq:
     a: "Le ministère des Finances estime les économies à environ RM5 milliards par an depuis le début de la rationalisation du diesel, le 10 juin 2024."
 
 lang: "fr"
+sourceContentHash: "fb230f3e8cc5eada"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

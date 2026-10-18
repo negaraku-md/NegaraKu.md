@@ -32,10 +32,11 @@ faq:
     a: "Ses principaux marchés à l'étranger sont l'Australie et Taïwan pour la construction, et le Vietnam, le Royaume-Uni, Singapour et l'Australie pour l'immobilier."
 
 lang: "fr"
+sourceContentHash: "09f7639abce305e2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -44,10 +44,11 @@ verificationNeeded:
   - "All widely repeated corporate facts about Medini Iskandar Malaysia Sdn Bhd and its shareholders come from non-official sources and were not verified"
 
 lang: "fr"
+sourceContentHash: "61c45f9103d24eb1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

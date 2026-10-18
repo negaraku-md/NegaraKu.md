@@ -41,10 +41,11 @@ verificationNeeded:
   - "Whether the Bayan Lepas and Perai free industrial zone declarations under the Free Zones Act 1990 have been amended, and the current gazetted zone boundaries"
 
 lang: "fr"
+sourceContentHash: "764567a2c684af68"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

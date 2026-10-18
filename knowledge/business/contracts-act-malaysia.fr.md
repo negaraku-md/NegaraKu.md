@@ -43,10 +43,11 @@ verificationNeeded:
   - "Confirmer s'il existe une modification postérieure à 2006 de l'Act 136 ; le texte mis à jour par l'AGC est indiqué au 1er janvier 2006 et sa liste des articles modifiés s'arrête en 1974"
 
 lang: "fr"
+sourceContentHash: "e471e60c661a356c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

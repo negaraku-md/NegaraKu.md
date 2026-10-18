@@ -43,10 +43,11 @@ verificationNeeded:
   - "Le salaire minimum d'expatrié de RM5,000 indiqué dans le MIDA Booklet 8 pour le commerce de distribution est antérieur à la politique salariale de l'Employment Pass révisée avec effet au 1er juin 2026 et doit être lu au regard des tranches actuelles"
 
 lang: "fr"
+sourceContentHash: "7e020b10096556f2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

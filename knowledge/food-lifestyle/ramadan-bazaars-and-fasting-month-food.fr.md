@@ -31,12 +31,13 @@ faq:
     a: "Le ministère de la Santé (KKM) effectue une surveillance et des inspections aux stands du bazar, et peut imposer des transactions (compounds) en vertu du Food Hygiene Regulations 2009. Les autorités locales, le KKM et le KPDN mènent aussi des inspections quotidiennes tout au long du Ramadan portant sur la qualité des aliments, l'hygiène et le contrôle des prix."
 
 lang: "fr"
+sourceContentHash: "571a086b9bbbfa81"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

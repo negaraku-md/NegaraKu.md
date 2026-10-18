@@ -34,10 +34,11 @@ faq:
     a: "L'Accès des tiers (TPA) permet aux transporteurs qualifiés, et pas seulement à PETRONAS, de réserver de la capacité sur les terminaux de regazéification, les gazoducs de transport et les gazoducs de distribution aux mêmes conditions. Il a débuté le 16 janvier 2017 dans le cadre de la Loi de 2016 modifiant la Loi sur l'approvisionnement en gaz et est réglementé par la Commission de l'énergie."
 
 lang: "fr"
+sourceContentHash: "20fa31d4431394c5"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

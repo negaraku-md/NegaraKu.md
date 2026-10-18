@@ -40,10 +40,11 @@ verificationNeeded:
   - "La page Notifying Copyright de MyIPO indique que son explication de la notification volontaire est « en cours de mise à jour » — confirmer tout détail procédural directement auprès du Contrôleur du droit d'auteur"
 
 lang: "fr"
+sourceContentHash: "a995d61bd790a6cf"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

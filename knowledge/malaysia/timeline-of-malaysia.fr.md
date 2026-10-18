@@ -35,12 +35,13 @@ verificationNeeded:
   - "Chaque moment clé renvoie à un article complet et documenté là où il en existe un ; ces pages portent les citations. La chronologie politique moderne (Premiers ministres, élections générales, l'affaire 1MDB, le Sheraton Move de 2020) relève du registre public factuel, tiré du Cabinet du Premier ministre et de la Commission électorale, et est présentée de manière neutre. Les entrées qui touchent aux 3R (race / religion / royauté) ou à d'autres thèmes sensibles — l'incident du 13 mai 1969, l'Opération Lalang, la crise judiciaire de 1988 — attendent une révision humaine avant la mise en production."
 
 lang: "fr"
+sourceContentHash: "e58ff5504e70aafc"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-18
 reviewed: 2026-08-18
 reviewDue: 2027-08-18

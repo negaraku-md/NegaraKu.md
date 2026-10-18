@@ -31,12 +31,13 @@ faq:
     a: "Il n'existe pas d'exigence universelle de vaccination à l'entrée, mais le CDC américain conseille aux voyageurs d'être à jour de leurs vaccins de routine et d'envisager l'hépatite A et la fièvre typhoïde ; discutez de la rage, de l'encéphalite japonaise et des comprimés antipaludiques avec une clinique de voyage en fonction de votre itinéraire."
 
 lang: "fr"
+sourceContentHash: "e99fd08a031d5f4f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-08-03"
 reviewDue: 2027-08-03
 revision: 0

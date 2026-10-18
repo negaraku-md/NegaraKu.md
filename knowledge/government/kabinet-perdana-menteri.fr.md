@@ -37,12 +37,13 @@ verificationNeeded:
   - "Verify the current size of the Cabinet and the current list of ministries against the official publications of the Prime Minister's Department — the Constitution does not fix the number of Ministers."
 
 lang: "fr"
+sourceContentHash: "0f9a6fea7774269c"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Les élèves, les enseignants, les fonctionnaires, les journalistes et toute personne qui voit le Jata Negara sur un passeport, une pièce de monnaie, une lettre du gouvernement ou un bâtiment officiel et souhaite en connaître la signification de chaque élément."
 
 lang: "fr"
+sourceContentHash: "d089f6e067d44f67"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

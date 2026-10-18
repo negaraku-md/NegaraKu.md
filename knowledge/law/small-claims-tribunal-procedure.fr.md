@@ -36,10 +36,11 @@ faq:
     a: "Vous déposez un avis de montrer la cause (Form 208). Le tribunal peut alors émettre une assignation de saisie et de vente (Form 84) contre les biens du débiteur judiciaire, autoriser le paiement par versements échelonnés, ou ordonner l'incarcération du débiteur."
 
 lang: "fr"
+sourceContentHash: "7f497323fdf0e52a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

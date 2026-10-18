@@ -29,10 +29,11 @@ faq:
     a: "Dix ans à compter de la date d'enregistrement, renouvelables par périodes successives de dix ans indéfiniment (articles 18 et 19)."
 
 lang: "fr"
+sourceContentHash: "a1ee81a205bbd043"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

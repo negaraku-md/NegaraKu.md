@@ -34,10 +34,11 @@ faq:
     a: "Parce que le groupe est relatif. Si les revenus des autres augmentent plus vite que le vôtre, le seuil du B40 augmente aussi, de sorte que vous pouvez rester dans le même groupe même si votre propre revenu a augmenté."
 
 lang: "fr"
+sourceContentHash: "83d77f4a9e3c0e88"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

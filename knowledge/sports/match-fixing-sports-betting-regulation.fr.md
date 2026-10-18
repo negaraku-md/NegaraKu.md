@@ -29,12 +29,13 @@ faq:
     a: "Selon les synthèses juridiques, une infraction de corruption est passible d'une peine d'emprisonnement pouvant aller jusqu'à 20 ans et d'une amende d'au moins cinq fois la valeur de la gratification ou RM10,000, selon le montant le plus élevé. Ces détails doivent être revérifiés face au texte intégral de la Loi."
 
 lang: "fr"
+sourceContentHash: "602c70742033a7cb"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

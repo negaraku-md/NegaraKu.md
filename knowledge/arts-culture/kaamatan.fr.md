@@ -33,9 +33,10 @@ faq:
     a: "Le Magavau est un rituel d'action de grâce visant à honorer et à «rappeler à la maison» l'esprit du riz, Bambaazon, après la récolte. Il est traditionnellement conduit par une bobohizan (aussi orthographié bobolian), une prêtresse qui récite des incantations rituelles. C'est l'un des éléments cérémoniels les plus anciens du Kaamatan."
 
 lang: "fr"
+sourceContentHash: "77931677eb9c36e1"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

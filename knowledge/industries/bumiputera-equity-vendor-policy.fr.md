@@ -29,12 +29,13 @@ faq:
     a: "Les entreprises qui demandent une licence de PETRONAS doivent satisfaire aux exigences de participation bumiputera selon le code SWEC correspondant. Pour le Programme de développement des fournisseurs de PETRONAS, un minimum de 51% de propriété bumiputera est exigé (source : Low & Partners ; PETRONAS)."
 
 lang: "fr"
+sourceContentHash: "8653f4f58e0534c5"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

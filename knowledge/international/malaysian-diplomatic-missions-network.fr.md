@@ -32,10 +32,11 @@ faq:
     a: "La plupart des ambassades et hauts-commissariats étrangers résidents se trouvent à Kuala Lumpur et Putrajaya, et quelques pays exploitent aussi des consulats dans des villes comme Penang, Johor Bahru, Kota Kinabalu et Kuching."
 
 lang: "fr"
+sourceContentHash: "7bb552ee1b28a75c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

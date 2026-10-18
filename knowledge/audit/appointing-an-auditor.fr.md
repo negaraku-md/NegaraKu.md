@@ -42,10 +42,11 @@ verificationNeeded:
   - "Confirmer si le Ministre des Finances a formellement délégué la fonction d'agrément de la s.263, et à quel organisme, dès lors que la s.263(5) permet mais n'impose pas la délégation"
 
 lang: "fr"
+sourceContentHash: "171d2f5e74d8eb19"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

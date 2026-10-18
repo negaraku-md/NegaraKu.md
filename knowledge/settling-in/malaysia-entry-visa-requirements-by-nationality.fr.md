@@ -34,10 +34,11 @@ faq:
     a: "Un pass de visite sociale de courte durée ne peut généralement pas être prolongé ; pour rester plus longtemps, vous devez sortir puis entrer à nouveau. Il ne peut pas non plus être converti en pass de travail ou d'étudiant — ceux-ci doivent être organisés par le bon canal de visa avant que vous ne commenciez à travailler ou à étudier."
 
 lang: "fr"
+sourceContentHash: "cc706715a5a043c3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

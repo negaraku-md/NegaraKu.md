@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Contribuables individuels préparant leur déclaration annuelle sur le Formulaire BE/B et vérifiant quelles réductions ils peuvent réclamer."
 
 lang: "fr"
+sourceContentHash: "3aaef5bbc4ffdb87"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant le texte constitutionnel exact sur la religion — étudiants, chercheurs et lecteurs qui tombent sans cesse sur des paraphrases de l'article 3 et de l'article 11 et veulent les dispositions elles-mêmes, citées à partir de la réimpression officielle."
 
 lang: "fr"
+sourceContentHash: "e8ee51ffbb017879"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

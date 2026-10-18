@@ -52,10 +52,11 @@ obligations:
     consequence: "Le statut MD n'est perpétuel que tant que les conditions continuent d'être respectées"
 
 lang: "fr"
+sourceContentHash: "d30f4b105a3a1150"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

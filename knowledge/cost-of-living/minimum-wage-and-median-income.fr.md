@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Quiconque établit un budget par rapport à un salaire malaisien, compare des rémunérations ou cherche à situer un chiffre de revenu précis dans le contexte national."
 
 lang: "fr"
+sourceContentHash: "b4e7cfa473ebf879"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

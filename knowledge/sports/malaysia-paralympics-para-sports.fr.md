@@ -32,10 +32,11 @@ faq:
     a: "Parmi les plus en vue figurent Cheah Liek Hou (badminton SU5, or à Tokyo 2020 et Paris 2024), Bonnie Bunyau Gustin (haltérophilie, or à Tokyo 2020 et Paris 2024) et Abdul Latif Romly (saut en longueur T20, or à Rio 2016 et Tokyo 2020)."
 
 lang: "fr"
+sourceContentHash: "1cf985c7e961d813"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

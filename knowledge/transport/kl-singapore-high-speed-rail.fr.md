@@ -29,10 +29,11 @@ faq:
     a: "Non. Le RTS Link est une courte navette transfrontalière entre Johor Bahru et Woodlands, dont l'ouverture est visée pour 2026. Le HSR est une ligne à grande vitesse distincte, d'environ 350 km, prévue entre Kuala Lumpur et Singapour."
 
 lang: "fr"
+sourceContentHash: "b505d87f2fe5cea1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

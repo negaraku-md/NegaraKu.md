@@ -29,10 +29,11 @@ faq:
     a: "Azizulhasni Awang, double médaillé olympique (bronze en 2016, argent en 2020) et champion du monde de keirin en 2017."
 
 lang: "fr"
+sourceContentHash: "490abb68b2e39c44"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -30,10 +30,11 @@ faq:
     a: "Oui. Le délai de 6 mois pour la distribution (entreprises privées, s.258) et le délai de 30 jours pour le dépôt auprès de la SSM (s.259) sont recalculés à partir de la nouvelle clôture de l'exercice financier."
 
 lang: "fr"
+sourceContentHash: "518df847514632f2"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

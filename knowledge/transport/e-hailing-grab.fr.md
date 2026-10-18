@@ -24,10 +24,11 @@ verificationNeeded:
   - "La question de savoir si une exigence spécifique pour les conducteurs (comme un âge minimum) s'applique doit être confirmée auprès du JPJ ou de l'opérateur de e-hailing concerné, car elle n'était pas énoncée sous une forme confirmable sur les pages officielles consultées"
 
 lang: "fr"
+sourceContentHash: "10f57c7f87a7c675"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

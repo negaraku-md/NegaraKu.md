@@ -35,12 +35,13 @@ faq:
     a: "Non. La Malaisie pratique une politique de citoyenneté unique. Son fondement constitutionnel se trouve à l'article 23 (renonciation à la citoyenneté) et à l'article 24 (déchéance de la citoyenneté lorsqu'une personne acquiert volontairement la citoyenneté d'un autre pays), et le portail MyGovernment confirme également cette politique. La décision de renoncer à la citoyenneté malaisienne est permanente. Vérifiez votre situation particulière auprès du Département de l'enregistrement national (JPN)."
 
 lang: "fr"
+sourceContentHash: "32332ac0d26401bb"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

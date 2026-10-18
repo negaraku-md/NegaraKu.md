@@ -31,10 +31,11 @@ faq:
     a: "Non. Les petits exploitants sont exonérés, et l'Ordonnance de 2023 ne s'applique qu'aux exploitations de palmier à huile d'au moins 40.46 hectares (100 acres) ; les exploitations situées dans des zones de peuplement collectif sont également exclues."
 
 lang: "fr"
+sourceContentHash: "90a5c1941df77b25"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

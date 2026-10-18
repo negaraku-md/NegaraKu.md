@@ -31,12 +31,13 @@ faq:
     a: "Cela signifie que l'accusation a produit des preuves qui, si elles ne sont ni réfutées ni expliquées, justifieraient une condamnation. Si une preuve prima facie est établie, l'accusé est appelé à présenter sa défense ; dans le cas contraire, l'accusé est acquitté."
 
 lang: "fr"
+sourceContentHash: "5c000067f01e0ea2"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

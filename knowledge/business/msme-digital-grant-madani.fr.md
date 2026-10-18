@@ -33,10 +33,11 @@ faq:
     a: "Non, elle n'est pas en permanence ouverte. La subvention est financée par une dotation budgétaire gouvernementale fixe et fonctionne par tours périodiques qui s'ouvrent et se ferment, de sorte que la disponibilité dépend du cycle en vigueur et des fonds restants. Au titre des règles de 2025, une entreprise qui a déjà reçu une subvention numérique de contrepartie ne peut généralement pas réclamer à nouveau, sauf pour les solutions de facturation électronique. Vérifiez toujours si un tour est actuellement ouvert, ainsi que les conditions exactes, sur le portail officiel de BSN ou de MDEC."
 
 lang: "fr"
+sourceContentHash: "1194109fce71d94d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

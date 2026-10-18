@@ -31,10 +31,11 @@ faq:
     a: "Les établissements de restauration sont réglementés par le Food Hygiene Regulations 2009. Les consommateurs sont encouragés à choisir les stands notés A ou B, qui servent une nourriture chaude et fraîche, et à vérifier l'étiquette de notation qui est généralement affichée."
 
 lang: "fr"
+sourceContentHash: "1f2264f16a54722d"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

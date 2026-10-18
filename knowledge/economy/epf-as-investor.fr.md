@@ -25,10 +25,11 @@ verificationNeeded:
   - "Le chiffre de RM188 milliards / 9 % de la capitalisation boursière des actions nationales est celui de fin 2024 selon The Edge Malaysia ; vérifier par rapport à la divulgation propre de l'EPF si elle devient disponible"
 
 lang: "fr"
+sourceContentHash: "a2dbf62e9ce69abb"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -29,10 +29,11 @@ verificationNeeded:
   - "Confirmer le statut actuel de la déduction d'investissement BioNexus et des incitatifs du statut Malaysia Digital, tous deux vérifiés par une agence autre que la MIDA et non entièrement traçables jusqu'à un seul instrument publié au journal officiel"
 
 lang: "fr"
+sourceContentHash: "d22536bf1bfa9c08"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

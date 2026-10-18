@@ -36,10 +36,11 @@ faq:
     a: "Le PVIP est géré par le Département de l'immigration (Intérieur) plutôt que par le MOTAC, ajoute des droits explicites de travail et d'études, autorise l'achat de biens commerciaux et industriels (pas seulement résidentiels) et n'impose aucun séjour minimum. Les demandes passent par des agents désignés par l'Immigration plutôt que par des agents MM2H."
 
 lang: "fr"
+sourceContentHash: "885b7aabccb192f1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

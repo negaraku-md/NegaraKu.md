@@ -34,10 +34,11 @@ faq:
     a: "Pour CCRIS, l'institution financière déclarante est tenue de corriger l'information inexacte dans un délai raisonnable. Pour CTOS, vous pouvez introduire une contestation directement auprès de l'agence, qui est régie par le Bureau du Registraire des agences de renseignements de crédit relevant du ministère des Finances."
 
 lang: "fr"
+sourceContentHash: "d56078b999db6074"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

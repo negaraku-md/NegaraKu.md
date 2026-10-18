@@ -18,10 +18,11 @@ verificationNeeded:
   - "Confirmer le traitement par la SSM des frais bancaires et des intérêts crédités sur le compte d'une société dormante — la directive n'exclut que les obligations que la société est légalement tenue de payer"
 
 lang: "fr"
+sourceContentHash: "71652677302d5a7e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

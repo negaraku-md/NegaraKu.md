@@ -74,10 +74,11 @@ obligations:
     consequence: "Offence under reg 11(2)"
 
 lang: "fr"
+sourceContentHash: "2ae8b97b33a16a4f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -30,12 +30,13 @@ faq:
     a: "L'article 25 énonce qu'un aveu fait à un agent de police d'un rang inférieur à celui d'Inspecteur ne peut être prouvé contre l'accusé, sous réserve de dispositions écrites expresses. L'article 24, quant à lui, rend un aveu non pertinent s'il a été provoqué par une incitation, une menace ou une promesse d'une personne en situation d'autorité."
 
 lang: "fr"
+sourceContentHash: "8f64848838376657"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

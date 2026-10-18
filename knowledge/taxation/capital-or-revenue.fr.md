@@ -41,10 +41,11 @@ verificationNeeded:
   - "No Malaysian case authority on badges of trade was found cited in any official LHDN document, so no case law is stated on this page"
 
 lang: "fr"
+sourceContentHash: "916f828ed466fba0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -29,10 +29,11 @@ verificationNeeded:
   - "Le point 12 (cession) a été remplacé par l'Act 862 et ses tranches révisées d'assurance-vie ne sont pas reproduites ici"
 
 lang: "fr"
+sourceContentHash: "bade86680d1436e5"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

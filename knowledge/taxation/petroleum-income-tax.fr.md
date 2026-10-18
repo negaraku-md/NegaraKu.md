@@ -28,10 +28,11 @@ faq:
     a: "Une exonération d'une partie du revenu imposable réduit le taux effectif de l'impôt sur le revenu pétrolier des champs marginaux admissibles de 38 % à environ 25 %."
 
 lang: "fr"
+sourceContentHash: "e3d164ca38c307ff"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -34,10 +34,11 @@ faq:
     a: "Trois frais s'appliquent à l'achat comme à la vente : la commission du courtier (fixée par votre courtier), des frais de compensation de 0.03% de la valeur de la transaction plafonnés à RM1,000, et un droit de timbre de RM1 par tranche de RM1,000 (ou fraction) de valeur, plafonné à RM1,000. Le courtage sur les actions cotées sur Bursa Malaysia est actuellement exonéré de la taxe sur les services."
 
 lang: "fr"
+sourceContentHash: "2aa2d9243406a229"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

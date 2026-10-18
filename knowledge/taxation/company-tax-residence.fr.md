@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirmer les exigences actuelles de demande de certificat de résidence et les délais de traitement sur le service e-Residence de la LHDN ; le test de résidence lui-même est sourcé, mais les modalités de la demande ne sont pas couvertes par la décision publique n° 9/2019"
 
 lang: "fr"
+sourceContentHash: "2a0ef17e2859fe87"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

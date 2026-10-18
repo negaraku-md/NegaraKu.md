@@ -37,10 +37,11 @@ faq:
     a: "Zii Jia a démissionné de la BAM en janvier 2022 pour devenir joueur indépendant après près d'une décennie au sein de l'organisme depuis l'âge de 13 ans. Il voulait se concentrer sur son propre entraînement et améliorer son classement, et il a souligné que, qu'il soit joueur national ou indépendant, ils brandissent toujours le Jalur Gemilang."
 
 lang: "fr"
+sourceContentHash: "a0c4b7207a1ac775"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

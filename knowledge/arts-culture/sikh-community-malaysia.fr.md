@@ -34,10 +34,11 @@ faq:
     a: "Le pendjabi reste vivant, mais il connaît un glissement linguistique : une recherche universitaire sur la communauté sikhe de Kota Kinabalu a constaté que la majorité des familles utilisent désormais l'anglais à la maison. Pour préserver la langue, les gurdwaras dispensent des cours de pendjabi — par exemple le Centre d'éducation pendjabie du Gurdwara Sahib Seremban — qui enseignent l'écriture gurmukhi aux enfants."
 
 lang: "fr"
+sourceContentHash: "9ed6f6181f75f4d2"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

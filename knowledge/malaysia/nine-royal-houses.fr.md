@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Les lecteurs qui veulent identifier les neuf États royaux de la Malaisie et comprendre la position constitutionnelle des Souverains en termes descriptifs — étudiants, chercheurs, journalistes, agents publics et lecteurs en général."
 
 lang: "fr"
+sourceContentHash: "2e19d7c57053d5f0"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

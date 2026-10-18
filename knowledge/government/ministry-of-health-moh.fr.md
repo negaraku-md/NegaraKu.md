@@ -27,9 +27,10 @@ faq:
   - q: "Le KKM gère-t-il des hôpitaux privés ?"
     a: "Non. Le KKM exploite les hôpitaux et cliniques publics et réglemente séparément les soins de santé privés en vertu de la loi sur les établissements et services de soins de santé privés de 1998 (Private Healthcare Facilities and Services Act 1998 (Act 586)), qui fixe des normes minimales de qualité et de sécurité et plafonne les tarifs que les médecins peuvent facturer pour les actes."
 lang: "fr"
+sourceContentHash: "3996608aeba4590f"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

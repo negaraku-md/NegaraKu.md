@@ -29,12 +29,13 @@ faq:
     a: "La vague de protestations contre l'Union malaise réunit des dizaines d'associations malaises et mena à la fondation de l'UMNO le 11 mai 1946 à Johor Bahru."
 
 lang: "fr"
+sourceContentHash: "d1accab37207bc8e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

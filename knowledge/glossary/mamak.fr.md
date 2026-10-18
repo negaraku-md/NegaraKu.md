@@ -22,12 +22,13 @@ verificationNeeded:
   - "La date et le lieu précis où le premier établissement mamak a été fondé en Malaya — les sources trouvées renvoient à l'époque coloniale britannique en général, sans date confirmée ni registre officiel."
 
 lang: "fr"
+sourceContentHash: "3046b79972e90a21"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -38,10 +38,11 @@ verificationNeeded:
   - "La liste des autorités de référence et des mots contrôlés figurant à l'Annexe 1 (Lampiran 1) des Guidelines on Company Names est expressément non exhaustive — vérifier la liste actuelle auprès de la SSM avant de s'y fier"
 
 lang: "fr"
+sourceContentHash: "7ac1590970b850fc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -43,10 +43,11 @@ verificationNeeded:
   - "Le nombre maximal de lignes accepté dans la feuille de calcul de téléversement par lots du portail MyInvois — LHDN décrit un certain nombre sans l'indiquer"
 
 lang: "fr"
+sourceContentHash: "12fac171732261f3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -16,10 +16,11 @@ answer: "Quatre catégories sont exclues de l'exemption d'audit en vertu de la D
 verificationNeeded: []
 
 lang: "fr"
+sourceContentHash: "776ac8951ed8d754"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

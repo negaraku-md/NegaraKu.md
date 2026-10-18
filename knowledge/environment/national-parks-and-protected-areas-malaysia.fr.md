@@ -34,10 +34,11 @@ faq:
     a: "L'article 10 de la loi sur les parcs nationaux de 1980 interdit l'exploitation minière et la prospection à l'intérieur d'un parc national, à moins que l'Autorité de l'État, après consultation du Ministre, ne détermine qu'il existe un gisement minéral si exceptionnellement riche."
 
 lang: "fr"
+sourceContentHash: "1f3622365daf3410"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

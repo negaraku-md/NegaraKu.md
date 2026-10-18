@@ -58,10 +58,11 @@ obligations:
     consequence: "All partners are deemed compliance officers if none is appointed"
 
 lang: "fr"
+sourceContentHash: "018f4b09e139ab24"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -30,12 +30,13 @@ faq:
     a: "Avant l'amendement de 2024, la voie par l'effet de la loi sous l'Article 14(1)(b) s'appliquait lorsque le père était citoyen ; à la suite de la décision de la Cour d'appel du 5 août 2023 (l'affaire Suriani Kempe & Ors c. Gouvernement de la Malaisie), les demandes de Formulaire D déposées par des mères citoyennes ont été gelées, comme le consigne le guide de Family Frontiers. La loi d'amendement adoptée en octobre 2024 égalise les droits des mères et des pères, mais seulement pour les enfants nés après son entrée en vigueur. Pour les enfants de moins de 18 ans nés avant cette date, c'est la voie de l'Article 15(2) (Formulaire B) qui s'applique."
 
 lang: "fr"
+sourceContentHash: "2a31c142e3a5bd2c"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

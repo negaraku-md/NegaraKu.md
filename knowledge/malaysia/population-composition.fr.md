@@ -30,11 +30,12 @@ faq:
     a: "Le DOSM divise Autres Bumiputera en Bumiputera de Sabah (55,3 pour cent du groupe, comprenant les Kadazan/Dusun, Bajau, Murut et autres groupes Bumiputera de Sabah), Bumiputera de Sarawak (32,3 pour cent, comprenant les Iban, Bidayuh, Melanau et autres groupes Bumiputera de Sarawak), et autres groupes Bumiputera péninsulaires constituant le reste."
 
 lang: "fr"
+sourceContentHash: "6a6100396bc06f2b"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

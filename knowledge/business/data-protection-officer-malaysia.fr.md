@@ -52,10 +52,11 @@ obligations:
     consequence: "Non-compliance with a duty under Act 709"
 
 lang: "fr"
+sourceContentHash: "d78778f117bf2197"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

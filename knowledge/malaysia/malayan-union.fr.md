@@ -20,11 +20,12 @@ keyTakeaways:
   - "La Fédération de 1948 établit la Conférence des souverains, le Conseil législatif fédéral et le Conseil exécutif fédéral, mais le pouvoir exécutif revenait toujours au Haut-Commissaire britannique"
 appliesTo: "Étudiants, chercheurs et lecteurs en général qui souhaitent comprendre les origines de la structure constitutionnelle de la Malaisie — en particulier la manière dont la position des souverains malais et les conditions de la citoyenneté furent pour la première fois établies par écrit, avant le Merdeka."
 lang: "fr"
+sourceContentHash: "f8c770a08f5a6831"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

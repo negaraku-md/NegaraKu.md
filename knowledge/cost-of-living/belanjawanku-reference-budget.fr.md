@@ -29,10 +29,11 @@ faq:
     a: "Non. Belanjawanku mesure la dépense nécessaire à un niveau de vie « raisonnable » ou confortable, qui est plus élevé que le seuil de pauvreté, lequel ne reflète que les besoins de base pour survivre."
 
 lang: "fr"
+sourceContentHash: "178a5bff85bb62f4"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

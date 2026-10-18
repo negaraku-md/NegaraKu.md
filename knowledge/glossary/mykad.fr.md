@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Citoyens malaisiens, parents gérant l'enregistrement de leurs enfants, et toute personne qui a besoin de vérifier son identité en Malaisie."
 
 lang: "fr"
+sourceContentHash: "7c8af58484cf7ac0"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

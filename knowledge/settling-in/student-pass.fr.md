@@ -46,10 +46,11 @@ obligations:
     authority: "Malaysian Immigration Department"
 
 lang: "fr"
+sourceContentHash: "3119f651e106c8fe"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

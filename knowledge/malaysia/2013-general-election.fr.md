@@ -31,12 +31,13 @@ verificationNeeded:
   - "Tous les chiffres doivent être confirmés par rapport à la Commission électorale de Malaisie (Suruhanjaya Pilihan Raya)."
 
 lang: "fr"
+sourceContentHash: "60045df88eb348ab"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

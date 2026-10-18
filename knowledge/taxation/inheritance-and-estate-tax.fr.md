@@ -38,10 +38,11 @@ faq:
     a: "Oui. L'exécuteur testamentaire doit informer la LHDN du décès, déposer la déclaration finale du défunt et les déclarations de la succession, et régler tout impôt et pénalité en souffrance avant de distribuer la succession. La LHDN dispose de trois ans, à compter de la fin de l'année où elle est informée du décès, pour émettre des avis d'imposition."
 
 lang: "fr"
+sourceContentHash: "68ad2357941779d2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

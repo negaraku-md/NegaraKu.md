@@ -48,10 +48,11 @@ obligations:
     statute: "Companies Act 2016, s.47(3)"
 
 lang: "fr"
+sourceContentHash: "7e06d764f7790869"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

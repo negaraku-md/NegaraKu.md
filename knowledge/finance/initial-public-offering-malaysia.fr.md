@@ -33,10 +33,11 @@ faq:
     a: "De manière générale, les coûts totaux de cotation vont d'environ RM3 millions à RM7 millions pour le Marché ACE et au-delà de RM5 millions pour le Marché principal, selon la taille et la complexité. Cela inclut les frais de prise ferme, de placement et de courtage (généralement de 1 % à 3 % de la valeur des actions), les honoraires professionnels et les frais réglementaires payables à la Securities Commission (Marché principal) ou à Bursa Malaysia (Marché ACE)."
 
 lang: "fr"
+sourceContentHash: "4baad2385800a2d6"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

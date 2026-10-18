@@ -31,11 +31,12 @@ faq:
     a: "Oui. Le système éducatif national de la Malaisie comprend des écoles de type national (Sekolah Jenis Kebangsaan) utilisant le mandarin (SJKC) ou le tamoul (SJKT) comme langue d'enseignement, aux côtés des écoles nationales (SK) qui utilisent le bahasa melayu. Toutes trois relèvent du ministère de l'Éducation et du même programme national."
 
 lang: "fr"
+sourceContentHash: "ab65f68bd17c67a2"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

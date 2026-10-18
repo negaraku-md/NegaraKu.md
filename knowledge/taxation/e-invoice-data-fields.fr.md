@@ -28,10 +28,11 @@ verificationNeeded:
   - "Les limites de débit de l'API par point de terminaison — le SDK renvoie aux Integration Practices sans énoncer de limites numériques sur la page FAQ"
 
 lang: "fr"
+sourceContentHash: "7457966f1e6638bb"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -29,10 +29,11 @@ faq:
     a: "JAKIM vise 15 à 30 jours ouvrables une fois une demande complète reçue. En pratique, en tenant compte de la préparation des documents, de l'audit sur place et des éventuelles corrections, les entreprises devraient prévoir de trois à six mois du début au certificat."
 
 lang: "fr"
+sourceContentHash: "5688169feeb631ac"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

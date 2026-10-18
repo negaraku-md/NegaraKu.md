@@ -38,10 +38,11 @@ faq:
     a: "La SSM administre et fait appliquer ces règles, mais leur origine est dans la loi. La déclaration annuelle est obligatoire en vertu de la Companies Act 2016, et le concept de capital libéré provient de cette même loi. La SSM reçoit les dépôts, émet des Practice Directives sur la procédure et les sanctions, et prend des mesures d'exécution contre les défaillants."
 
 lang: "fr"
+sourceContentHash: "48b70b131a01ea95"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

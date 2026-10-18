@@ -27,10 +27,11 @@ faq:
     a: "Un vélo électrique n'est exempté que s'il s'agit d'un modèle à assistance électrique conforme à la Norme malaisienne MS2514, sans accélérateur, et doté de pédales qui restent fixées en permanence. Un vélo électrique non homologué équipé d'un accélérateur est classé comme PMD ou cyclomoteur et est interdit."
 
 lang: "fr"
+sourceContentHash: "c96ca2ea918ba45a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

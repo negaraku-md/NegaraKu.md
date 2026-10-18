@@ -30,10 +30,11 @@ faq:
     a: "Un pasar malam est un marché nocturne — un marché de rue tournant en plein air qui s'installe dans un quartier un soir de semaine fixe et vend de la nourriture préparée, des produits frais et des articles bon marché. Il coexiste avec le pasar diurne (marché de produits frais) et le pasar tani (marché de producteurs) au sein de la culture du commerce de détail hors centres commerciaux de Malaisie."
 
 lang: "fr"
+sourceContentHash: "a2bc8ea503179f64"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

@@ -29,10 +29,11 @@ faq:
     a: "Parmi eux figurent un taux de recyclage de 25 % pour les emballages plastiques en 2025, un taux moyen de collecte pour recyclage (CFR) de 76 % en 2030, et un contenu recyclé moyen de 15 % en 2030. Un taux de recyclage de 100 % est visé pour 2050."
 
 lang: "fr"
+sourceContentHash: "a24e4c1da4f3ae42"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

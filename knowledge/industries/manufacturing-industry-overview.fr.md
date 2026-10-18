@@ -34,10 +34,11 @@ faq:
     a: "Le Département des statistiques de la Malaisie (DOSM) publie les statistiques manufacturières mensuelles et annuelles et les données du PIB. L'Autorité malaisienne de développement des investissements (MIDA) promeut et approuve l'investissement manufacturier, tandis que le ministère de l'Investissement, du Commerce et de l'Industrie (MITI) est le dépositaire du NIMP 2030."
 
 lang: "fr"
+sourceContentHash: "688fcd61cdea1a88"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

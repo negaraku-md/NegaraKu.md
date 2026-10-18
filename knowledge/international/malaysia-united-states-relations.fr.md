@@ -32,10 +32,11 @@ faq:
     a: "L'USTR a chiffré le commerce bilatéral total de biens à environ US$88.5 milliards estimés en 2025 (US$28.9 milliards d'exportations américaines, US$59.7 milliards d'importations). Les données du Census des États-Unis avaient situé le commerce bilatéral de biens de 2024 près de US$80 milliards, et le ministère des Affaires étrangères de la Malaisie a cité un commerce total de RM324.91 milliards (US$71.39 milliards) pour 2024."
 
 lang: "fr"
+sourceContentHash: "6acdeba029dc19eb"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

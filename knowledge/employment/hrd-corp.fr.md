@@ -28,9 +28,10 @@ faq:
   - q: "Comment le prélèvement HRD est-il calculé et quand est-il dû ?"
     a: "Il est de (salaire total ou salaires de base + indemnités fixes) × 1 % (ou 0,5 % pour les enregistrés volontaires), payable avant le 15 de chaque mois pour éviter les sanctions."
 lang: "fr"
+sourceContentHash: "ff5d89d25eee1ca7"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

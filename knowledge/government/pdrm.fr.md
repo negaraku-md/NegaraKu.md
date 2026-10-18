@@ -35,12 +35,13 @@ faq:
     a: "Oui, sur le plan structurel. La loi sur la police de 1967 établit une force unique qui est employée en Malaisie et sur l'ensemble de son territoire, sous une seule chaîne de commandement dirigée par l'inspecteur général de la Police. Le portail officiel du gouvernement (malaysia.gov.my) signale également la collecte de renseignement de sécurité comme l'une des fonctions de la force au titre de l'article 3(3)."
 
 lang: "fr"
+sourceContentHash: "2fcb4ae755f95546"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

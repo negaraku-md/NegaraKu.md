@@ -37,10 +37,11 @@ faq:
     a: "L'ASEAN est la pierre angulaire ou le socle de la politique étrangère de la Malaisie. La Malaisie est l'un des pays fondateurs de l'ASEAN et donne systématiquement la priorité à l'intégrité et à la centralité de l'ASEAN, tout en restant active dans d'autres forums comme les Nations unies (ONU), l'Organisation de la coopération islamique (OCI) et le Mouvement des pays non alignés (MNA)."
 
 lang: "fr"
+sourceContentHash: "4cb0c08e4d974a16"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

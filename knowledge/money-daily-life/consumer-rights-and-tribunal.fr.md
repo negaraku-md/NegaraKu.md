@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Les consommateurs en Malaisie qui ont acheté des biens ou des services et veulent savoir quels droits ils ont et comment introduire une réclamation peu coûteuse — pas les entreprises qui se défendent contre une réclamation, ni les litiges que le Tribunal exclut expressément."
 
 lang: "fr"
+sourceContentHash: "b22efe69c2b27bab"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

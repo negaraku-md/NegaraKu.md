@@ -36,10 +36,11 @@ faq:
     a: "Couvrez vos épaules et vos genoux. À l'entrée, des sarongs sont généralement disponibles à emprunter ou à louer si votre tenue est trop découverte. Des chaussures confortables aident pour le long escalier qui monte jusqu'à la grotte-temple principale."
 
 lang: "fr"
+sourceContentHash: "2716ca2d76a67d28"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

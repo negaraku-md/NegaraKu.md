@@ -29,10 +29,11 @@ faq:
     a: "En vertu de l'article 24(8), le total de toutes les déductions ne peut pas dépasser 50 % du salaire gagné ce mois-là. L'article 24(9) exempte l'indemnité de l'article 13(1), les paiements finaux dus à la cessation d'emploi, et les prêts au logement (un montant supplémentaire pouvant atteindre 25 % avec la permission du directeur général)."
 
 lang: "fr"
+sourceContentHash: "3388bf641e0109a3"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

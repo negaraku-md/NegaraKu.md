@@ -29,12 +29,13 @@ faq:
     a: "Les licences forestières et les baux de plantation délivrés par l'État peuvent couvrir des zones que les communautés revendiquent comme terre coutumière. Lorsque les parties ne s'accordent pas sur le fait qu'une zone est une terre NCR, le litige est souvent tranché en justice."
 
 lang: "fr"
+sourceContentHash: "73a645ecf7076b5d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

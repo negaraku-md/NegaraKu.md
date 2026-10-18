@@ -33,10 +33,11 @@ faq:
     a: "Le MIA opère sous la juridiction du ministère des Finances. Pour l'audit des entités d'intérêt public, une supervision supplémentaire est exercée par l'Audit Oversight Board (AOB), relevant de la Securities Commission."
 
 lang: "fr"
+sourceContentHash: "fb67f2b0a6c79587"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

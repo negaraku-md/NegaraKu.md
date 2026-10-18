@@ -27,9 +27,10 @@ faq:
   - q: "Quelle est la différence entre le MASB et la Fondation d'information financière ?"
     a: "Le MASB rédige et émet les normes. La Fondation d'information financière (FRF) supervise le MASB, examine sa performance et est responsable de son financement, y compris l'approbation du budget — mais elle n'a aucune responsabilité directe dans l'émission des normes, qui incombe uniquement au MASB."
 lang: "fr"
+sourceContentHash: "69128de74b5a73f9"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

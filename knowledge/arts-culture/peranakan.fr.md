@@ -18,11 +18,12 @@ keyTakeaways:
   - "Le kebaya, central dans le costume nyonya, a été inscrit sur la liste du patrimoine immatériel de l'UNESCO en 2024 dans une candidature conjointe du Brunei, de l'Indonésie, de la Malaisie, de Singapour et de la Thaïlande"
 appliesTo: "Toute personne cherchant un aperçu factuel et respectueux de qui sont les Peranakan (baba-nyonya) et de la manière de reconnaître leur cuisine, leur costume et leur patrimoine matériel à Melaka et à Penang."
 lang: "fr"
+sourceContentHash: "b8424f95164f1085"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

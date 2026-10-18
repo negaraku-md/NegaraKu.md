@@ -33,10 +33,11 @@ faq:
     a: "Cela dépend de l'activité. En vertu de la loi de 1974 sur la qualité de l'environnement, les projets industriels lourds ou de grande taille énumérés dans l'Ordonnance sur la qualité de l'environnement (activités prescrites) (évaluation de l'impact environnemental) de 2015 doivent disposer d'une EIE approuvée avant que le projet n'avance. Certaines industries — huile de palme brute, caoutchouc naturel brut, installations de déchets réglementés — sont des «locaux prescrits» qui nécessitent la permission écrite du DOE pour construire et une licence pour exploiter. Une usine ordinaire qui rejette des effluents ou émet des polluants atmosphériques doit tout de même se conformer aux règlements du DOE sur les effluents et l'air pur. Confirmez le statut de votre activité auprès du DOE avant de construire."
 
 lang: "fr"
+sourceContentHash: "b9703e6c709c9e9a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

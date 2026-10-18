@@ -36,10 +36,11 @@ faq:
     a: "Une politique lancée par le ministère du Numérique en 2025 pour faire de la Malaisie un pôle du nuage de classe mondiale d'ici 2030, ancrée sur la souveraineté des données — le principe selon lequel les données générées en Malaisie sont régies par le droit malaisien — accompagnée d'un nuage d'IA souverain planifié."
 
 lang: "fr"
+sourceContentHash: "16256b5ee4d19f22"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

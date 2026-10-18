@@ -30,12 +30,13 @@ faq:
     a: "Au niveau fédéral, il n'y a aucune loi sur la liberté d'information en vigueur au moment de la rédaction de ce texte. Seuls les États du Selangor (publié au journal officiel en 2011, en vigueur en 2013) et de Penang (texte de 2010) ont des textes sur la liberté d'information, limités à l'information relevant de la compétence des gouvernements d'État respectifs. Un projet de loi fédéral a été présenté en juillet 2026."
 
 lang: "fr"
+sourceContentHash: "55b6d981106fab77"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

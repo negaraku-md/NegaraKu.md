@@ -43,10 +43,11 @@ verificationNeeded:
   - "Confirmer si Cyberjaya détient, ou a demandé, une reconnaissance en tant que MD Hub, MD Nexus ou MD Tech Zone, et comment les désignations MD Cybercity et Cybercentre existantes correspondent au MD Location Recognition. Au 2026-08-14, aucune source primaire de MDEC ne nomme Cyberjaya sous aucune catégorie, et la seule MD Location Recognition accordée à ce jour est Menara Merdeka 118, lancée comme premier MD Nexus de la Malaisie le 5 février 2026."
 
 lang: "fr"
+sourceContentHash: "3159e752d7a7d37a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

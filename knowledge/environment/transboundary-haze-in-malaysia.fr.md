@@ -32,12 +32,13 @@ faq:
     a: "La cause principale est les incendies de terres et de forêts — y compris les feux de tourbières et le défrichement par brûlis à des fins agricoles — à Sumatra et au Kalimantan, qui deviennent plus fréquents et plus graves pendant les saisons sèches influencées par le phénomène El Niño."
 
 lang: "fr"
+sourceContentHash: "f6dc09ddaaf77bcf"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

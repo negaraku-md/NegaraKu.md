@@ -18,9 +18,10 @@ keyTakeaways:
   - "Les organes consultatifs de l'UNESCO le décrivent comme la plus haute montagne entre l'Himalaya et la Nouvelle-Guinée, et il abrite environ 5,000-6,000 espèces de plantes vasculaires, dont approximativement 1,000 espèces d'orchidées"
 appliesTo: "Les lecteurs qui souhaitent l'altitude vérifiée et le statut d'aire protégée du mont Kinabalu, et une explication simple de la raison pour laquelle une montagne de granite du Sabah est géologiquement si jeune."
 lang: "fr"
+sourceContentHash: "9898433b2f4e9aa1"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

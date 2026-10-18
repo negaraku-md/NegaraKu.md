@@ -28,9 +28,10 @@ faq:
   - q: "Comment m'enregistrer comme OKU (personne handicapée) ?"
     a: "Les citoyens malaisiens certifiés par un expert médical du gouvernement déposent le formulaire d'enregistrement BPPOKU (Amendement 2/2019) avec un rapport de vérification médicale et une copie du MyKad (ou l'acte de naissance pour les demandeurs de moins de 12 ans), soit à un guichet du JKM, soit en ligne via le portail MyDaftar OKU. Le demandeur approuvé reçoit une carte OKU indiquant sa catégorie de handicap."
 lang: "fr"
+sourceContentHash: "f9a688b158d9b46c"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

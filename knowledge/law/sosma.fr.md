@@ -24,12 +24,13 @@ keyTakeaways:
 appliesTo: "Lecteurs ayant besoin d'un exposé neutre et textuel de ce qu'est la SOSMA et des procédures spéciales qu'elle prévoit — étudiants, chercheurs et quiconque cartographie le cadre du droit de la sécurité en Malaisie. Il s'agit d'une fiche de loi descriptive, non d'un conseil juridique, et elle ne commente aucun cas, aucune poursuite ni aucun débat de politique."
 
 lang: "fr"
+sourceContentHash: "23e4a7f81f4e58a1"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

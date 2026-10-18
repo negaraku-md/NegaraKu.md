@@ -30,12 +30,13 @@ faq:
     a: "À 101–200 (Malsaine), les groupes sensibles — personnes âgées, femmes enceintes, enfants et personnes présentant des complications cardiaques ou pulmonaires — devraient limiter les activités de plein air. Au-dessus de 300 (Dangereuse), les personnes âgées et à haut risque se voient interdire les activités de plein air, et il est conseillé au grand public de les éviter."
 
 lang: "fr"
+sourceContentHash: "fc387c28a9eb09b2"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

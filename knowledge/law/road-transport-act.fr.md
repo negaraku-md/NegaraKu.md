@@ -31,10 +31,11 @@ faq:
     a: "Elle crée les infractions et les peines plafonds que le Parlement a fixées pour chacune, mais les montants exacts sont fréquemment ajustés par la législation subsidiaire et des avis administratifs (par exemple le système de composition AWAS). C'est pour cette raison que cette page ne reproduit pas de montants d'amendes précis — consultez les barèmes publiés par la JPJ elle-même pour les chiffres en vigueur."
 
 lang: "fr"
+sourceContentHash: "082c1821680b3184"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

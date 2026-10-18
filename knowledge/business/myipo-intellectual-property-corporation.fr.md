@@ -27,9 +27,10 @@ faq:
   - q: "De quel ministère MyIPO relève-t-il ?"
     a: "MyIPO est un organisme statutaire fédéral relevant du ministère du Commerce intérieur et du Coût de la vie (KPDN), le ministère responsable du commerce intérieur et des affaires des consommateurs en Malaisie."
 lang: "fr"
+sourceContentHash: "1a13bdbeb8de806f"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

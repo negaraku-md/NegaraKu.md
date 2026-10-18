@@ -31,12 +31,13 @@ faq:
 
 verificationNeeded: []
 lang: "fr"
+sourceContentHash: "f075aca9f39a2a6a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

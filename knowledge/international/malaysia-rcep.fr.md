@@ -33,10 +33,11 @@ faq:
     a: "Non. Le RCEP et le CPTPP sont des accords distincts, avec des membres et des règles différents. La Malaisie est partie au RCEP ; les deux se recoupent sur plusieurs membres, mais sont négociés de façon indépendante."
 
 lang: "fr"
+sourceContentHash: "f7e0957c6988f3a8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

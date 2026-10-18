@@ -60,10 +60,11 @@ obligations:
     consequence: "Le droit de convoquer l'assemblée au titre de la s.313 devient caduc"
 
 lang: "fr"
+sourceContentHash: "7de2bc211affba0a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

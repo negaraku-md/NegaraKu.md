@@ -27,10 +27,11 @@ faq:
     a: "Selon les lignes directrices de la SSM, l'avis de conversion en entreprise publique est délivré dans un délai d'un jour ouvrable après la soumission des documents complets et le respect des conditions. Les lignes directrices n'indiquent pas de délai précis pour la conversion d'une entreprise publique en entreprise privée."
 
 lang: "fr"
+sourceContentHash: "63145595a33eef52"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

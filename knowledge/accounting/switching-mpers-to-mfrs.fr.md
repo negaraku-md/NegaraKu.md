@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirmer si la MASB a publié des orientations spécifiques sur la ré-adoption des MPERS par une entité passée précédemment aux MFRS"
 
 lang: "fr"
+sourceContentHash: "621bf2dc64ee78c4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -27,9 +27,10 @@ faq:
   - q: "Qui est le ministre de l'Intérieur ?"
     a: "En 2026, le ministre de l'Intérieur est Datuk Seri Panglima Saifuddin Nasution bin Ismail, en poste depuis le 3 décembre 2022. Les portefeuilles ministériels changent au gré des remaniements, alors confirmez le titulaire actuel sur moha.gov.my."
 lang: "fr"
+sourceContentHash: "84024caa253d8b49"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

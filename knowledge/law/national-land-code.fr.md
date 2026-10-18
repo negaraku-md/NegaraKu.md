@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Toute personne ayant besoin de situer correctement le National Land Code — ce qu'il fait, qui il lie, et pourquoi une question foncière de Sabah ou de Sarawak ne peut pas être résolue avec lui — avant d'aborder une procédure ou un litige précis."
 
 lang: "fr"
+sourceContentHash: "ea87aadccc95af5d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

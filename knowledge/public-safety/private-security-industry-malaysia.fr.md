@@ -31,10 +31,11 @@ faq:
     a: "Vérifiez le statut de la licence de l'entreprise et de ses gardes via le portail de vérification eSIMS du KDN avant de signer un contrat. Une agence légitime doit détenir une Licence d'Agence Privée actuellement en vigueur."
 
 lang: "fr"
+sourceContentHash: "7778a33b10205faf"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

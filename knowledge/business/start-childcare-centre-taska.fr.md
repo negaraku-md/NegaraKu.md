@@ -33,10 +33,11 @@ faq:
     a: "Exploiter une garderie non enregistrée auprès du JKM est une infraction pénale en vertu de la Loi de 1984 sur les garderies. En cas de condamnation, la sanction est une amende pouvant aller jusqu'à RM10,000 ou une peine de prison pouvant aller jusqu'à deux ans, ou les deux, avec des peines plus lourdes en cas de récidive. Le JKM peut aussi ordonner la fermeture de la garderie. Enregistrez-vous avant d'accueillir le moindre enfant."
 
 lang: "fr"
+sourceContentHash: "1ebf1ee2a2053f70"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

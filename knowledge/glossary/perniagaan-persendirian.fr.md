@@ -33,10 +33,11 @@ faq:
     a: "Comme l'entreprise n'est pas une entité juridique distincte, son bénéfice est votre revenu personnel. Vous le déclarez sur le Formulaire B et payez l'impôt aux taux individuels (progressifs), en le soumettant via le portail d'e-Filing MyTax. La date limite légale est le 30 juin ; comme le Formulaire B des personnes physiques ayant des revenus d'activité doit être soumis par voie électronique depuis l'Année d'évaluation 2024, le délai opérationnel est la date de grâce de l'e-Filing, le 15 juillet."
 
 lang: "fr"
+sourceContentHash: "1a9f38c341cebf45"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

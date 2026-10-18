@@ -30,10 +30,11 @@ faq:
     a: "Oui. L'Institut des comptables de Malaisie adopte les prononcés de l'IAASB comme les Normes malaisiennes approuvées d'audit sans modification, de sorte que l'ISA 320, la 450 et la 530 s'appliquent aux audits légaux malaisiens."
 
 lang: "fr"
+sourceContentHash: "caf6b9d895d2d9ba"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

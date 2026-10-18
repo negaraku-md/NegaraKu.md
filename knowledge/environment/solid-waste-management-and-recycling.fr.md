@@ -31,10 +31,11 @@ faq:
     a: "Principalement en décharge. La Malaisie exploite 135 décharges — 114 dépotoirs à ciel ouvert et 22 décharges sanitaires — et la mise en décharge reste la méthode d'élimination dominante du pays."
 
 lang: "fr"
+sourceContentHash: "1d664666863d04f5"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

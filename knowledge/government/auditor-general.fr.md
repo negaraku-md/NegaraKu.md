@@ -22,10 +22,11 @@ keyTakeaways:
 appliesTo: "Étudiants, chercheurs, journalistes et toute personne qui souhaite comprendre le fondement constitutionnel et les fonctions du Département national de l'audit et du Rapport de l'Auditeur général."
 
 lang: "fr"
+sourceContentHash: "a99d9463d1497fd3"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

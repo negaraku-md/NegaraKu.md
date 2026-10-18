@@ -25,10 +25,11 @@ verificationNeeded:
   - "Le nombre exact de spécialités dentaires dans les hôpitaux du KKM et l'étendue détaillée des cliniques dentaires spécialisées n'ont pas pu être vérifiés directement, car le site officiel hq.moh.gov.my/ohp était inaccessible (connexion refusée) au moment de la rédaction ; la description dans cet article reste générale et n'indique pas de chiffres précis."
   - "La politique d'exemption de frais pour les personnes âgées, les enfants et certains groupes dans les cliniques dentaires publiques est largement mentionnée dans des sources secondaires, mais n'est pas vérifiée ici parce que cet article n'indique délibérément pas de tarifs — veuillez vous renseigner au guichet d'enregistrement de la clinique concernée pour obtenir les informations à jour."
 lang: "fr"
+sourceContentHash: "4e874b9f524ab414"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

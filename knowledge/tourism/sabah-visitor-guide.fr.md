@@ -35,12 +35,13 @@ faq:
     a: "Sipadan ferme chaque mois de novembre pour la régénération du récif, planifiez donc les voyages de plongée entre décembre et octobre. Ailleurs, les mois plus humides de la mousson du nord-est (environ de novembre à mars) apportent plus de pluie à Bornéo."
 
 lang: "fr"
+sourceContentHash: "c9653441143f9da8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

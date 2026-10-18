@@ -27,10 +27,11 @@ faq:
     a: "Une maison malaise loge généralement une seule famille, tandis qu'une maison longue (rumah panjang) loge de nombreuses familles au sein d'une seule structure allongée : chaque famille possède sa propre pièce (bilek), partagée avec une galerie communautaire appelée ruai."
 
 lang: "fr"
+sourceContentHash: "6e6d63e898f4ad35"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

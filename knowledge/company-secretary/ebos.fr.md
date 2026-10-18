@@ -26,10 +26,11 @@ verificationNeeded:
   - "Confirmer si l'accès en ligne aux informations sur les bénéficiaires effectifs a remplacé le dispositif au guichet uniquement de Menara SSM@Sentral"
 
 lang: "fr"
+sourceContentHash: "a088732b82dc0e99"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

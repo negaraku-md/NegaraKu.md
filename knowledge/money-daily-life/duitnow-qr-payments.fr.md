@@ -26,10 +26,11 @@ verificationNeeded:
   - "Les chiffres relatifs aux frais et aux limites de transaction sont tirés directement du site officiel de PayNet au moment de la rédaction ; PayNet indique que les frais réels peuvent varier selon la banque ou le portefeuille électronique"
 
 lang: "fr"
+sourceContentHash: "1b31c1f5d1b3682f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

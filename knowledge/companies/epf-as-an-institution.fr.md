@@ -29,10 +29,11 @@ faq:
     a: "L'Épargne conventionnelle est garantie d'un minimum de 2.50% par an au titre de l'EPF Act 1991. L'Épargne Shariah, quant à elle, dépend entièrement du rendement réel du portefeuille, sans aucune garantie minimale."
 
 lang: "fr"
+sourceContentHash: "e680578dd6d6768e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

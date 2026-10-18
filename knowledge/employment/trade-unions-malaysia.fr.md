@@ -34,10 +34,11 @@ faq:
     a: "Les droits exclusifs de négociation collective sont déterminés en vertu de la loi sur les relations professionnelles de 1967. Si les travailleurs ne parviennent pas à un accord, une demande peut être adressée au directeur général des relations professionnelles, qui peut organiser un scrutin secret pour désigner l'agent négociateur."
 
 lang: "fr"
+sourceContentHash: "3512cd3f05dbac9a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

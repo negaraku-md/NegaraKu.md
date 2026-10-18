@@ -36,10 +36,11 @@ faq:
     a: "L'article 55(5) dispose qu'un projet de loi qui n'a pas encore été réglé au Parlement ne devient pas caduc du fait de la prorogation du Parlement. L'article 55(7) protège à son tour de la caducité un projet en attente de sanction du fait de la prorogation ou de la dissolution du Parlement."
 
 lang: "fr"
+sourceContentHash: "87bf8d58ce7f3cea"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

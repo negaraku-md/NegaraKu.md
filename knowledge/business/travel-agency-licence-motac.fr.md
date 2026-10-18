@@ -33,10 +33,11 @@ faq:
     a: "Exploiter une entreprise touristique sans licence valide est une infraction au titre de la Tourism Industry Act 1992, que MOTAC applique activement au moyen d'inspections. En cas de condamnation, la sanction est une amende pouvant atteindre RM500,000 ou une peine d'emprisonnement pouvant atteindre 10 ans, ou les deux. MOTAC peut aussi poursuivre, suspendre ou révoquer des licences pour d'autres manquements à la loi et aux règlements."
 
 lang: "fr"
+sourceContentHash: "267a25e0a7a19ed2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

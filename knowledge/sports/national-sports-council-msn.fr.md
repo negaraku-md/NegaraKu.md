@@ -27,9 +27,10 @@ faq:
   - q: "Où se trouve le siège du MSN ?"
     a: "Au Complexe sportif national (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. Il exploite également des complexes d'entraînement dans plusieurs autres États."
 lang: "fr"
+sourceContentHash: "d519f370c717d10a"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

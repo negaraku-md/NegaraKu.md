@@ -19,10 +19,11 @@ keyTakeaways:
 appliesTo: "Administrateurs de société, secrétaires de société et toute personne responsable de la conformité des entreprises."
 
 lang: "fr"
+sourceContentHash: "4458f7c26c528c99"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

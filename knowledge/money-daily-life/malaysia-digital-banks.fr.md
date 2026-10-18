@@ -34,10 +34,11 @@ faq:
     a: "Oui. Pendant la phase fondatrice (les trois à cinq premières années), le cadre de BNM plafonne le total d'actifs de chaque banque numérique à RM3 milliards au maximum. Cela permet à BNM d'observer la performance et le risque avant que les banques ne grandissent davantage."
 
 lang: "fr"
+sourceContentHash: "586acae3d2012d4e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

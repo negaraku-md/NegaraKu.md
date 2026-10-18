@@ -33,10 +33,11 @@ faq:
     a: "Au titre de l'Act 872, le fournisseur de plateforme est responsable de votre inscription au régime d'autoemploi (Lindung Kendiri) et de la déduction des cotisations de vos revenus. Cependant, vous devez tout de même vous assurer que l'inscription est complète et payer la différence si la déduction n'atteint pas le taux minimum de votre plan choisi."
 
 lang: "fr"
+sourceContentHash: "759ef843044df58d"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

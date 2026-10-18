@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Propriétaires, locataires, organes de gestion de copropriété et exploitants d'entreprises en Malaisie péninsulaire qui souhaitent comprendre qui est réellement IWK, pourquoi ils paient, et pourquoi c'est distinct de la facture d'eau."
 
 lang: "fr"
+sourceContentHash: "b457bd9b79e09115"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

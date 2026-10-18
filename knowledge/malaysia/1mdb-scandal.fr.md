@@ -31,12 +31,13 @@ verificationNeeded:
   - "SENSIBLE / nécessite une validation humaine + juridique avant publication (procédures judiciaires). Les faits essentiels ont été vérifiés auprès de sources réputées : la condamnation dans le procès principal de 1MDB du 26 déc. 2025 et la peine de 15 ans / RM11.4 milliards (CNN, Al Jazeera, PBS, Malay Mail), le recours du 30 déc. 2025 (Malay Mail), la réduction de moitié de la peine dans l'affaire SRC en févr. 2024 (CNN), les chiffres du DOJ de US$4.5 milliards / US$1.1 milliard (DOJ), et le statut de fugitif de Jho Low. Toutes les condamnations font l'objet d'un recours et sont décrites comme telles. Un relecteur humain qualifié devrait néanmoins confirmer le statut actuel avant publication, car il s'agit d'une affaire en cours."
 
 lang: "fr"
+sourceContentHash: "ccd0acf0bc2157a5"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: 2026-08-27
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

@@ -23,10 +23,11 @@ appliesTo: "Employeurs décidant si un employé a droit aux heures supplémentai
 
 verificationNeeded: []
 lang: "fr"
+sourceContentHash: "e20a9bba2377fd31"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22

@@ -31,10 +31,11 @@ faq:
     a: "Les lauréats reçoivent une Lettre nationale d'honneur, RM60,000 en espèces, une allocation d'édition pouvant atteindre RM500,000 (jusqu'à 50,000 exemplaires), des soins médicaux gratuits en chambre de première classe dans les hôpitaux publics et une allocation mensuelle de RM5,000."
 
 lang: "fr"
+sourceContentHash: "c27d87b5dbf2077e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

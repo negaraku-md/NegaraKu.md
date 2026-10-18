@@ -30,10 +30,11 @@ faq:
     a: "Cela dépend de la Proclamation de vente. Les acheteurs héritent généralement des arriérés de quit rent, d'impôt d'évaluation (cukai pintu), de charges d'entretien et de services publics, sauf si la POS indique que la banque les réglera sur le produit de la vente. Lisez toujours la POS avant d'enchérir."
 
 lang: "fr"
+sourceContentHash: "2fa3e76f153f5816"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

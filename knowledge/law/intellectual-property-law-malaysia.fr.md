@@ -38,10 +38,11 @@ faq:
     a: "Non. Les droits de propriété intellectuelle sont territoriaux, de sorte qu'une marque ou un brevet malaisien ne couvre que la Malaisie. Pour une protection internationale, vous déposez à l'étranger : pour les marques, l'adhésion de la Malaisie au Protocole de Madrid vous permet de désigner plusieurs pays au moyen d'une seule demande internationale."
 
 lang: "fr"
+sourceContentHash: "9b9e8ce352a97c10"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

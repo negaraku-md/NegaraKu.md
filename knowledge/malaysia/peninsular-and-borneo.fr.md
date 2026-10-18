@@ -20,12 +20,13 @@ keyTakeaways:
 appliesTo: "Voyageurs, entreprises et toute personne cherchant à comprendre pourquoi « la Malaisie » se comporte parfois comme deux administrations partageant un seul passeport et un seul drapeau."
 
 lang: "fr"
+sourceContentHash: "da887efa0f358f15"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

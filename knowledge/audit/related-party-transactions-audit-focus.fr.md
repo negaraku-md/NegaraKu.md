@@ -32,10 +32,11 @@ faq:
     a: "Ce sont des couches distinctes. L'ISA 550 régit l'audit ; la MFRS 124 régit ce qui doit être mentionné dans les états financiers ; et le Chapitre 10 de Bursa régit l'action sociale : quand un émetteur coté doit annoncer une transaction, émettre une circulaire ou obtenir l'approbation préalable des actionnaires, avec l'abstention des administrateurs et actionnaires principaux intéressés."
 
 lang: "fr"
+sourceContentHash: "ea0ecab6bfc0f793"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

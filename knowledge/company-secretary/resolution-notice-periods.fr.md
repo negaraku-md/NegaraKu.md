@@ -67,10 +67,11 @@ obligations:
     consequence: "L'assemblée n'est pas valablement convoquée au titre de s.309"
 
 lang: "fr"
+sourceContentHash: "1da247e6653d6ad4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

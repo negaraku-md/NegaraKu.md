@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Toute personne ayant besoin de comprendre la mécanique plutôt que le marketing : étudiants, journalistes, trésoriers, fondateurs qui comparent des options de financement et chercheurs qui cartographient le système financier de la Malaisie."
 
 lang: "fr"
+sourceContentHash: "baeef20a51fe9ad2"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

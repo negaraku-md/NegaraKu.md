@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirmer si une exonération ministérielle au titre de la s.44(5D) a été accordée dans des cas individuels au-delà de l'assouplissement général du YA2006 ; seule la position générale est publiée"
 
 lang: "fr"
+sourceContentHash: "5db600f69d4d89ad"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

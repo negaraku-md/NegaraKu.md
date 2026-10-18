@@ -31,10 +31,11 @@ faq:
     a: "Le MITEC, le Malaysia International Trade & Exhibition Centre, qui a ouvert en 2016 avec 11 méga-halls d'exposition et 52,000 m² d'espace d'exposition. Le CIDB enregistre une surface de 12,530 m² sans colonnes à l'intérieur du bâtiment."
 
 lang: "fr"
+sourceContentHash: "25f7bdfa80a0bc8e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

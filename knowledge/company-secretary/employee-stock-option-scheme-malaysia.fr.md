@@ -33,10 +33,11 @@ faq:
     a: "Dans les 30 jours suivant l'expiration de la période d'acceptation de l'option, l'employeur doit notifier le plan à la Direction générale des impôts (LHDN) (une notification au titre de la Section 83 de l'Income Tax Act 1967). Lorsqu'un salarié exerce, l'employeur déclare l'avantage en nature sur le formulaire EA de ce salarié de l'année, soumet les détails de l'exercice à son antenne de la LHDN, et prélève l'impôt via la retenue mensuelle (ou une directive CP38) le mois de l'exercice."
 
 lang: "fr"
+sourceContentHash: "e702999cb1629878"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

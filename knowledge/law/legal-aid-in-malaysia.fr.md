@@ -29,10 +29,11 @@ faq:
     a: "Le JBG traite les affaires civiles, familiales, de la syariah et certaines affaires pénales, tandis que la YBGK se concentre sur l'aide juridictionnelle gratuite pour les affaires pénales, y compris aux étapes de l'arrestation et de la détention provisoire."
 
 lang: "fr"
+sourceContentHash: "91d7cfe993126653"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

@@ -34,12 +34,13 @@ faq:
     a: "Le MKI est le Conseil national des affaires religieuses islamiques de Malaisie — le conseil au niveau national qui sert de plateforme pour coordonner et délibérer les affaires islamiques. JAKIM agit comme son secrétariat, ce qui signifie qu'il gère les réunions de comités et les panels d'experts qui discutent des questions de syariah, d'aqidah et de sujets connexes afin de parvenir à des décisions au niveau national."
 
 lang: "fr"
+sourceContentHash: "f6f58358eee27f91"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -26,10 +26,11 @@ verificationNeeded:
   - "Confirm the leading appellate authority on probationer dismissal and on deemed confirmation by conduct against reported judgments"
 
 lang: "fr"
+sourceContentHash: "04bbb0ef0090fa14"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

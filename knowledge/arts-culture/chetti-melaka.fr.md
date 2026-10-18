@@ -30,10 +30,11 @@ faq:
     a: "L'effectif de la communauté a fortement chuté — d'environ 400 familles dans les années 1980 à moins de 50 familles aujourd'hui, selon le Conseil national du patrimoine de Singapour (Roots) —, tandis qu'un reportage de Free Malaysia Today estime qu'il ne reste qu'environ 20 à 30 familles vivant à Kampung Chetti. Les chercheurs relient ce déclin aux mariages mixtes, à l'émigration et au fait que les jeunes générations perdent de plus en plus le contact avec leurs racines chetti."
 
 lang: "fr"
+sourceContentHash: "f11ad6d038f7a742"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

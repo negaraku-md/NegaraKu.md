@@ -30,10 +30,11 @@ faq:
     a: "Les accidents mortels, les blessures graves ou les événements dangereux doivent être signalés au bureau du DOSH le plus proche par le moyen le plus rapide, avec le formulaire JKKP 6 soumis dans un délai de 7 jours en vertu du NADOPOD 2004."
 
 lang: "fr"
+sourceContentHash: "e58617c97047711f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

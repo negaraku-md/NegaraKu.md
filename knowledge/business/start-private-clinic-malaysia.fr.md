@@ -33,10 +33,11 @@ faq:
     a: "Exploiter une clinique médicale ou dentaire privée qui n'est pas enregistrée au titre de l'Act 586 constitue une infraction. Le ministère de la Santé a indiqué que fournir des services de santé dans des locaux non enregistrés ou non licenciés peut entraîner une amende lourde et une possible peine d'emprisonnement, et l'action d'application peut entraîner la fermeture des locaux. L'enregistrement n'est pas une formalité que l'on peut régulariser plus tard — il doit être en ordre avant de recevoir des patients."
 
 lang: "fr"
+sourceContentHash: "950bc0096186009c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

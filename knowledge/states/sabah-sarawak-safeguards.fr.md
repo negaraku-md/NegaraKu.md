@@ -21,12 +21,13 @@ keyTakeaways:
 appliesTo: "Quiconque — voyageur, employeur, étudiant ou lecteur du fédéralisme malaisien — souhaite un compte rendu clair et descriptif des garanties constitutionnelles dont disposent Sabah et Sarawak, et de l'endroit où chacune est inscrite, sans prendre parti dans le débat sur la manière dont elles sont mises en œuvre."
 
 lang: "fr"
+sourceContentHash: "468d0412b31978aa"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

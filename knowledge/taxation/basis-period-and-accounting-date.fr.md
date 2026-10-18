@@ -35,10 +35,11 @@ obligations:
     consequence: "Penalties and instalment increases based on the old accounting period remain recoverable under s.112(3A) and s.107C(11B)"
 
 lang: "fr"
+sourceContentHash: "23049b8c7ea8c98a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

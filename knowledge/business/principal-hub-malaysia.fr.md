@@ -31,10 +31,11 @@ faq:
     a: "Le GSH utilise des conditions axées sur les résultats plutôt qu'un seul seuil fixe. Une société doit être constituée en Malaisie, exercer des services qualifiés, et s'engager sur des objectifs concernant les dépenses d'exploitation annuelles, le nombre d'employés à temps plein à forte valeur ajoutée, les recrutements de haute direction (C-suite), le recours à des services auxiliaires locaux, la collaboration avec des établissements d'enseignement locaux, la formation de Malaisiens, et des éléments environnementaux, sociaux et de gouvernance. La performance est examinée, et l'incitation peut être récupérée si les conditions ne sont pas remplies."
 
 lang: "fr"
+sourceContentHash: "1d7afd9b7e62d44a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

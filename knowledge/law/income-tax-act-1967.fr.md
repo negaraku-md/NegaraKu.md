@@ -30,10 +30,11 @@ faq:
     a: "Pas du corps de la loi. Les taux figurent dans les Schedules de l'Act 53, principalement la Schedule 1, et sont modifiés par des Finance Acts. Les abattements, déductions et exonérations sont en grande partie mis en oeuvre par la législation subsidiaire — ordonnances et règles P.U.(A) — ce qui explique pourquoi la loi à elle seule ne répond jamais à une question de taux."
 
 lang: "fr"
+sourceContentHash: "e0dfb2c4642360c3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Toute personne recherchant une compréhension de niveau introductif de l'industrie de l'huile de palme de la Malaisie et de son rôle économique."
 
 lang: "fr"
+sourceContentHash: "15826b7bb2b208ce"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -34,10 +34,11 @@ faq:
     a: "Si l'agrément expire et n'est pas réactivé dans un délai d'un an, le demandeur doit présenter une nouvelle demande et repasser l'entretien."
 
 lang: "fr"
+sourceContentHash: "e81ff5426724af5a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-08"

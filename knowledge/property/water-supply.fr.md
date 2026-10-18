@@ -21,9 +21,10 @@ verificationNeeded:
   - "Les noms exacts des compagnies des eaux d'État pour Pahang, Negeri Sembilan et Kedah sont répertoriés sur le site span.gov.my mais n'ont pas pu être entièrement extraits lors de la préparation de ce brouillon ; cela doit être revérifié directement sur span.gov.my."
   - "Les cadres législatifs spécifiques de Sabah et de Sarawak (les noms des décrets/ordonnances d'État concernés) n'ont pas été directement vérifiés auprès d'une source officielle lors de la préparation de ce brouillon ; PAAB confirme l'exclusion générale des deux États du modèle PAAB, mais l'ensemble des détails législatifs doit être revérifié."
 lang: "fr"
+sourceContentHash: "fb8c6f5861721815"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

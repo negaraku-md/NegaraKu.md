@@ -31,10 +31,11 @@ faq:
     a: "CIMB se décrit comme un groupe centré sur l'ASEAN opérant sur des marchés tels que la Malaisie, l'Indonésie, Singapour et la Thaïlande. RHB opère sur sept marchés régionaux. Maybank couvre trois marchés d'origine — la Malaisie, Singapour et l'Indonésie — en plus d'activités dans toute l'ASEAN et dans les principaux centres financiers mondiaux."
 
 lang: "fr"
+sourceContentHash: "81a33a10e5b5e6c3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

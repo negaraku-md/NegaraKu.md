@@ -41,10 +41,11 @@ verificationNeeded:
   - "Confirmer si la SSM prescrit un formulaire précis pour l'avis de révocation de l'art. 278 et l'avis de démission de l'art. 282, ainsi que le droit de dépôt applicable, par rapport au barème de droits du ROC en vigueur"
 
 lang: "fr"
+sourceContentHash: "c932d3246ad62000"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

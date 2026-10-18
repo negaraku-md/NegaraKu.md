@@ -34,10 +34,11 @@ faq:
     a: "Oui. Une plainte écrite peut être transmise au Conseil de discipline en vertu de la section 99. Si le Conseil estime la plainte fondée, il constituera un Tribunal d'enquête en vertu de la section 100 pour enquêter sur la plainte."
 
 lang: "fr"
+sourceContentHash: "b2af26646e05de04"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

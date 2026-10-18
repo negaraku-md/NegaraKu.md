@@ -40,14 +40,15 @@ faq:
     a: "Une plainte qui a déjà été enregistrée ne peut pas être supprimée des registres de la police. S'il y a de nouvelles informations, une erreur de fait ou une évolution de l'affaire, la bonne démarche consiste à déposer une plainte complémentaire faisant référence au numéro de la plainte initiale, et non à demander la suppression de la plainte initiale."
 
 lang: "fr"
+sourceContentHash: "0ae54502024bdaab"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "Les critères d'admissibilité à l'e-Reporting (citoyen malaisien, âgé de 18 ans et plus) et la liste complète des objets pouvant être signalés — le portail officiel ereporting.rmp.gov.my n'a pas pu être atteint pour une vérification directe ; confirmer auprès du portail officiel."
   - "Vérifier si les non-citoyens sont réellement exclus en totalité de l'e-Reporting (le brouillon n'énonce plus explicitement cette exclusion)."
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

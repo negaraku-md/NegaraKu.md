@@ -34,10 +34,11 @@ faq:
     a: "Oui. La Companies Act 2016 a introduit des mécanismes de sauvetage : l'administration judiciaire (Sections 403-430), où un administrateur judiciaire désigné par le tribunal dirige l'entreprise sous une moratoire, et l'arrangement volontaire d'entreprise (Section 395). Un concordat au titre de la Section 366 permet également à une entreprise de lier ses créanciers à un compromis avec l'approbation de 75 % en valeur et la sanction du tribunal."
 
 lang: "fr"
+sourceContentHash: "a85ad7d5133bf9fc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

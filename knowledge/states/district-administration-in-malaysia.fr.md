@@ -33,10 +33,11 @@ faq:
     a: "Un mukim est une subdivision en dessous du district, principalement à des fins d'administration foncière. Le penghulu est un fonctionnaire qui exerce une compétence au niveau du mukim au sein de l'administration foncière du district."
 
 lang: "fr"
+sourceContentHash: "a75e04e291488dd9"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

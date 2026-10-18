@@ -28,10 +28,11 @@ faq:
     a: "En vertu de la décision de 2020, les tarifs de péage ont été réduits de 18% à compter du 1er février 2020, et aucune hausse de péage n'est prévue pendant toute la période de concession prolongée jusqu'en 2058."
 
 lang: "fr"
+sourceContentHash: "6a089759a8d1ba8f"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

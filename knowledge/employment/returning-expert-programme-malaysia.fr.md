@@ -29,10 +29,11 @@ faq:
     a: "Présentez votre demande en ligne via la plateforme MyHeart de TalentCorp tant que vous êtes encore à l'étranger, idéalement un à deux mois avant votre retour prévu. Une demande complète est traitée dans un délai maximal de 45 jours ouvrables."
 
 lang: "fr"
+sourceContentHash: "f730c6823dee3d1e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

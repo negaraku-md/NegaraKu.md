@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Toute personne évaluant l'exposition économique de la Malaisie — investisseurs, chercheurs d'emploi, responsables des politiques publiques et étudiants du commerce."
 
 lang: "fr"
+sourceContentHash: "f587a0bc65cbc1af"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

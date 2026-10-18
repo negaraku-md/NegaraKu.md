@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui emménage dans une nouvelle maison ou un nouveau local en Malaisie et qui doit ouvrir, transférer ou clôturer un compte d'alimentation électrique — que ce soit en Malaisie péninsulaire, à Sabah ou au Sarawak."
 
 lang: "fr"
+sourceContentHash: "6891503e50f70d6b"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

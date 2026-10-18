@@ -33,10 +33,11 @@ faq:
     a: "Le MOTAC exploite un dispositif officiel de classement - un classement par étoiles (Star Rating) pour les hôtels (évaluant le luxe, les installations et la qualité du service) et un classement Orchid (Orchid Rating) pour l'hébergement économique (axé sur la propreté, la sécurité et le confort de base). Le classement est noté en pourcentage, 90-100 % donnant cinq étoiles jusqu'aux tranches inférieures ; les hôtels sont aussi catégorisés par concept (urbain, resort, de montagne, boutique, innovant, appartement). Le classement détermine la catégorie que vous pouvez annoncer et est distinct de l'enregistrement de base que tout local doit avoir pour exercer légalement."
 
 lang: "fr"
+sourceContentHash: "65be551a77e4ae21"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

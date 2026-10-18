@@ -32,12 +32,13 @@ faq:
     a: "C'est un document de politique publique adopté par le Parlement le 15 juin 2023, qui trace une réforme par phases du système de santé malaisien sur 15 ans."
 
 lang: "fr"
+sourceContentHash: "635c9f97868b06be"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

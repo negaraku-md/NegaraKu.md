@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Étudiants, analystes de politiques, journalistes, fonctionnaires et toute personne qui doit comprendre comment le budget fédéral est préparé, débattu et adopté."
 
 lang: "fr"
+sourceContentHash: "8b64cd44c511fc05"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

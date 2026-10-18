@@ -38,12 +38,13 @@ faq:
     a: "Non. La loi sur la cybersécurité régit la sécurité et la résilience des infrastructures critiques. La confidentialité des données personnelles est régie séparément par la loi sur la protection des données personnelles de 2010 (Personal Data Protection Act 2010). Une organisation peut être soumise aux deux."
 
 lang: "fr"
+sourceContentHash: "3cca544d70c1185a"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
 revision: 0

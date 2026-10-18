@@ -25,10 +25,11 @@ verificationNeeded:
   - "Les chiffres spécifiques de revenu, de dépôt et de durée de MM2H par niveau devraient être confirmés directement sur le portail officiel MM2H (mm2h.gov.my) au moment de la demande, puisque le portail bloque la récupération automatisée et que ses niveaux ont été restructurés plus d'une fois ces dernières années."
 
 lang: "fr"
+sourceContentHash: "dd39883661ce9f6f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

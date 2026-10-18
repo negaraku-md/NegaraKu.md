@@ -27,9 +27,10 @@ faq:
   - q: "Qu'est-ce que PeKa B40 ?"
     a: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) est un dispositif du MOH géré par ProtectHealth Corporation. Il offre aux Malaisiens à faibles revenus éligibles âgés de 40 ans et plus — bénéficiaires de la Sumbangan Tunai Rahmah et leurs conjoints — un dépistage de santé gratuit, une aide pour les dispositifs médicaux jusqu'à RM20,000, une incitation de RM1,000 pour un traitement contre le cancer et une aide au transport. Au 31 mars 2025, environ 1,6 million sur quelque 6,9 millions de bénéficiaires éligibles avaient été dépistés."
 lang: "fr"
+sourceContentHash: "e44d3a318b3a6bbb"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

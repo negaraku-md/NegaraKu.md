@@ -42,10 +42,11 @@ verificationNeeded:
   - "Confirmer si Bursa Malaysia publiera des orientations transitoires pour le reporting trimestriel lors de la première année d'application de la MFRS 18"
 
 lang: "fr"
+sourceContentHash: "542671cd3c464e38"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

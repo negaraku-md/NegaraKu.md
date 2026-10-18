@@ -23,10 +23,11 @@ verificationNeeded:
   - "Confirmer le barème en vigueur des frais de dépôt tardif de SSM pour les notifications liées aux registres par rapport à la directive de pratique en vigueur de SSM sur les pénalités de dépôt tardif"
 
 lang: "fr"
+sourceContentHash: "ff4434b4487bfa3d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

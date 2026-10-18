@@ -31,10 +31,11 @@ verificationNeeded:
   - "Les dates de mandat devraient être confirmées par rapport au Cabinet du Premier ministre et à la Perdana Leadership Foundation. Ismail Sabri Yaakob est resté Premier ministre par intérim après la dissolution du Parlement (10 oct. 2022) jusqu'à la prestation de serment d'Anwar Ibrahim le 24 novembre 2022 — la date de fin reflète le transfert de la fonction. En tant que brouillon, cela nécessite un relecteur humain avant publication."
 
 lang: "fr"
+sourceContentHash: "c027ec0df342599c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 published: 2026-08-27

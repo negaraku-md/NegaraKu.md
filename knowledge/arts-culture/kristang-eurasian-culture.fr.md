@@ -32,10 +32,11 @@ faq:
     a: "L'Intrudu est une fête annuelle de l'eau de la communauté portugaise de Melaka, célébrée le dimanche précédant le mercredi des Cendres (le début du Carême). Habitants et visiteurs s'aspergent d'eau les uns les autres dans tout l'Établissement portugais, et la célébration s'accompagne de la danse branyo."
 
 lang: "fr"
+sourceContentHash: "6be0336bb559138c"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

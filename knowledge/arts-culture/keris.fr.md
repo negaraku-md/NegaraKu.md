@@ -39,10 +39,11 @@ faq:
     a: "Oui, mais le nombre d'empu qualifiés diminue fortement, ce qui rend la transmission du savoir difficile. L'UNESCO cite ce déclin comme un défi majeur pour la pérennité du keris."
 
 lang: "fr"
+sourceContentHash: "f542d42d76523ab4"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

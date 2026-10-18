@@ -32,12 +32,13 @@ verificationNeeded:
   - "Dates exactes (début/fin du mandat de Premier ministre, nomination au poste de vice-Premier ministre) à confirmer auprès du cabinet du Premier ministre et des archives officielles."
 
 lang: "fr"
+sourceContentHash: "01485efbacf83246"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 published: null
 reviewed: 2026-08-27
 reviewDue: 2027-08-27

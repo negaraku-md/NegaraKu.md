@@ -37,10 +37,11 @@ faq:
     a: "Si une banque membre fait faillite, PIDM rembourse les déposants éligibles jusqu'à la limite de RM250,000. Si un assureur membre fait faillite, PIDM soit organise la continuité de votre couverture, soit verse les prestations protégées jusqu'à la limite applicable."
 
 lang: "fr"
+sourceContentHash: "6dadc68b3f5258f8"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -29,12 +29,13 @@ faq:
     a: "La compétence principale revient aux départements/conseils religieux islamiques des États, car les affaires religieuses islamiques sont une matière étatique au titre de la Constitution. JAKIM assure la coordination au niveau fédéral, tandis que les exigences de sécurité des bâtiments font intervenir les Autorités locales et le Département des pompiers."
 
 lang: "fr"
+sourceContentHash: "e8c71a5517740e23"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

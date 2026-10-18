@@ -32,10 +32,11 @@ faq:
     a: "Le Yang di-Pertuan Agong nomme le Procureur général sur l'avis du Premier ministre. Le candidat doit être une personne qualifiée pour être juge de la Cour fédérale."
 
 lang: "fr"
+sourceContentHash: "8a9cf47766823c46"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

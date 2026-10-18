@@ -21,11 +21,12 @@ keyTakeaways:
 appliesTo: "Toute personne qui veut savoir, disposition par disposition, ce qu'il faut réellement au Parlement pour changer une partie donnée de la Constitution fédérale."
 
 lang: "fr"
+sourceContentHash: "34255dffcbbb4b20"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

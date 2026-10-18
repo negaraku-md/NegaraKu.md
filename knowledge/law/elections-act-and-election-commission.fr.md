@@ -32,12 +32,13 @@ faq:
     a: "Non. L'article 114(3) dispose qu'un membre de la SPR ne peut être révoqué de ses fonctions que pour les mêmes motifs et de la même manière qu'un juge de la Cour fédérale (Federal Court), une garantie destinée à conforter l'indépendance de la commission."
 
 lang: "fr"
+sourceContentHash: "4ee6643ef314a576"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

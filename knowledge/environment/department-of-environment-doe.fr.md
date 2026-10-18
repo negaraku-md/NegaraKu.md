@@ -34,10 +34,11 @@ faq:
     a: "Le DOE publie une ligne de réclamations (03-8889 1972) et une ligne gratuite (1-800-88-2727) pour les plaintes environnementales. Vérifiez les numéros en vigueur sur doe.gov.my avant de vous y fier."
 
 lang: "fr"
+sourceContentHash: "03cee8394623a8f3"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

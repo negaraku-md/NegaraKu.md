@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Emprunteurs ayant des prêts à taux variable, épargnants, et quiconque cherche à comprendre l'actualité des taux d'intérêt en Malaisie."
 
 lang: "fr"
+sourceContentHash: "54922b7bc9867b3f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

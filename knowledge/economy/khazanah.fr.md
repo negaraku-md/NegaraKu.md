@@ -26,10 +26,11 @@ verificationNeeded:
   - "Le total des actifs d'investissement de l'EPF et le nombre total de membres n'ont pas pu être confirmés de façon indépendante par récupération directe sur kwsp.gov.my (le site renvoie un HTTP 403 à la récupération automatisée) ; cet article omet délibérément tout chiffre précis d'encours sous gestion ou de nombre de membres de l'EPF plutôt que d'en publier un non vérifié — à ajouter tous les deux, avec une source kwsp.gov.my, à la première revue humaine"
 
 lang: "fr"
+sourceContentHash: "bde519fccc17693d"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

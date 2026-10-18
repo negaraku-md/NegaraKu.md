@@ -26,10 +26,11 @@ verificationNeeded:
   - "Déterminer si une déduction pour amortissement accélérée ou majorée propre à l'achat (par opposition à la location) de véhicules électriques a été publiée au journal officiel — aucun instrument de ce type n'a été trouvé dans la base de données de la législation subsidiaire de l'AGC."
 
 lang: "fr"
+sourceContentHash: "9f0ef46f2f698cad"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

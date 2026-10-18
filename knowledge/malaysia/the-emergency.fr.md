@@ -30,11 +30,12 @@ faq:
     a: "Les sources rapportent que les deux processus se déroulèrent en parallèle, plutôt que l'un causant l'autre. L'indépendance fut négociée et acquise le 31 août 1957 alors que l'Insurrection était encore en cours, et l'Insurrection se poursuivit pendant près de trois ans encore sous un gouvernement malayen indépendant."
 
 lang: "fr"
+sourceContentHash: "05c196a1a00207fa"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

@@ -34,12 +34,13 @@ faq:
     a: "Oui. La PPA a été déclarée endémique en Malaisie en août 2025. De grandes épidémies se sont produites à Selangor (76 000 porcs dans 57 exploitations) et à Penang, le bétail infecté ayant été abattu pour contenir la propagation (CodeBlue)."
 
 lang: "fr"
+sourceContentHash: "28ee8ace3a3090da"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

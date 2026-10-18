@@ -29,10 +29,11 @@ faq:
     a: "Non. Le Registraire n'impose aucun délai limite — le propriétaire légitime peut réclamer à tout moment, et le paiement peut être effectué depuis le Compte de Fiducie Consolidé (Consolidated Trust Account) ou le Compte de Recettes (Revenue Account)."
 
 lang: "fr"
+sourceContentHash: "b0fa973557593199"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

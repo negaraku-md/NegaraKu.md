@@ -30,10 +30,11 @@ faq:
     a: "Elles sont prises en vertu de l'Act plutôt que d'en faire partie, mais elles ont une force opérationnelle — les critères d'exemption d'audit, le barème des sanctions pour dépôt tardif et la procédure de prorogation résident tous dans les directives de pratique, non dans le texte des sections. Une question répondue à partir du seul Act sera souvent mal répondue."
 
 lang: "fr"
+sourceContentHash: "d0840945570101e4"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

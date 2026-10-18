@@ -32,10 +32,11 @@ faq:
     a: "Les problèmes liés à l'électricité figurent parmi les plus fréquents dans les incendies résidentiels — installations défectueuses, prises surchargées et rallonges usées. Laisser la cuisine sans surveillance et les fuites de gaz GPL sont également des causes importantes."
 
 lang: "fr"
+sourceContentHash: "9ccf45c843ab8ebf"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

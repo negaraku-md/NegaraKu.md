@@ -22,12 +22,13 @@ keyTakeaways:
 appliesTo: "Toute personne en Malaisie — citoyen, résident ou visiteur — qui s'inquiète de sa propre santé mentale ou de celle d'autrui et veut savoir concrètement par où commencer : une clinique, un hôpital, un praticien privé, une ONG ou une ligne d'écoute."
 
 lang: "fr"
+sourceContentHash: "4ecc5497514e228e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

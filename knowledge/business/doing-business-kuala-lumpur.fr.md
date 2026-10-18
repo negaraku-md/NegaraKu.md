@@ -41,10 +41,11 @@ verificationNeeded:
   - "Part de Kuala Lumpur dans le PIB national en pourcentage publié — le DOSM publie la valeur en ringgit et le classement mais pas directement la part de KL"
 
 lang: "fr"
+sourceContentHash: "28302eb055d03d4e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

@@ -33,10 +33,11 @@ faq:
     a: "Oui. L'article 29A interdit le brûlage à l'air libre dans tout local et est passible d'une amende pouvant atteindre RM500,000 ou d'un emprisonnement jusqu'à 5 ans, ou des deux. Le propriétaire ou l'occupant du local est réputé responsable sauf preuve du contraire (article 29B)."
 
 lang: "fr"
+sourceContentHash: "cd3834c25795a67e"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

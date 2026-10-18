@@ -41,10 +41,11 @@ verificationNeeded:
   - "Si une infraction créée par une législation subsidiaire entraîne la sanction générale de la s.145 de la Consumer Protection Act 1999 — la régulation 9 crée l'infraction mais ne prescrit aucune sanction, c'est donc une déduction"
 
 lang: "fr"
+sourceContentHash: "b5ad7450f8460c07"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 publishedBy: "ashton-tan"

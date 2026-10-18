@@ -33,10 +33,11 @@ faq:
     a: "Oui. Depuis son premier déploiement au Congo en 1960, la Malaisie a fourni plus de 29,000 casques bleus dans le cadre de plus de 38 opérations de maintien de la paix, selon l'ONU. Au 1er juillet 2026, la Malaisie fournit 516 soldats à la FINUL (UNIFIL) au Liban (contre 830 soldats en août 2025)."
 
 lang: "fr"
+sourceContentHash: "9173bdd2a2224732"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

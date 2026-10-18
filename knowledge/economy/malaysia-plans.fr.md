@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Étudiants, analystes des politiques publiques, journalistes et toute personne souhaitant comprendre comment le développement national est planifié au-delà d'un seul exercice financier."
 
 lang: "fr"
+sourceContentHash: "e044f4eddcd76b63"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

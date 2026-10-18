@@ -34,12 +34,13 @@ faq:
     a: "Les aspirations (cinq buts nationaux tels que l'unité et une société juste) sont les fins à atteindre, tandis que les cinq principes sont les fondements et les guides de vie grâce auxquels ces aspirations sont réalisées. Ensemble, ils forment le serment complet du Rukun Negara."
 
 lang: "fr"
+sourceContentHash: "d94eca92454b00e2"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

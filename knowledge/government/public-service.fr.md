@@ -38,10 +38,11 @@ verificationNeeded:
   - "La taille actuelle exacte (effectif) de la fonction publique malaisienne — un chiffre précis et à jour n'a pas pu être confirmé sur une page officielle au moment de la rédaction."
 
 lang: "fr"
+sourceContentHash: "89bfb5455655a271"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

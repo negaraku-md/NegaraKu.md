@@ -26,10 +26,11 @@ verificationNeeded:
   - "Si RMCD a publié un guide dédié conciliant la représentation visuelle de l'e-Invoice avec les mentions de la facture SST — aucun n'a été localisé sur mysst.customs.gov.my"
 
 lang: "fr"
+sourceContentHash: "cf809540c51ed69e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

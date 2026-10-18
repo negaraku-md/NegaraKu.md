@@ -30,12 +30,13 @@ faq:
     a: "Lors des 14e élections générales du 9 mai 2018, lorsque l'opposition Pakatan Harapan a remporté 113 des 222 sièges et BN 79 — sa première perte du gouvernement fédéral."
 
 lang: "fr"
+sourceContentHash: "991005bf0f4cffdd"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

@@ -30,10 +30,11 @@ faq:
     a: "Non. Le MITI indique que le MEEPA a été signé le 23 juin 2025 mais n'est pas encore en vigueur, de sorte que les exportateurs et les importateurs ne peuvent pas utiliser ses préférences tant que les deux parties n'ont pas achevé la ratification."
 
 lang: "fr"
+sourceContentHash: "2907ad666c9762d0"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

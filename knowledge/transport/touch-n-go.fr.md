@@ -29,10 +29,11 @@ faq:
     a: "Oui, si vous souhaitez utiliser la fonction de recharge par NFC. L'enregistrement implique une vérification d'identité (KYC) afin que le solde de la carte soit rattaché à votre compte eWallet ; cela ajoute aussi une couche de protection en cas de perte de la carte, par rapport à une carte non enregistrée dont le solde peut être utilisé par quiconque la trouve."
 
 lang: "fr"
+sourceContentHash: "a15af3c5fd918fa5"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

@@ -64,10 +64,11 @@ obligations:
     consequence: "Cancellation of the arrangement under rule 18(1)(c)"
 
 lang: "fr"
+sourceContentHash: "bb70ed44534a20cd"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

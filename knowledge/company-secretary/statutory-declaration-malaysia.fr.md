@@ -31,10 +31,11 @@ faq:
     a: "Non — c'est une idée reçue courante héritée de l'ancienne Companies Act 1965. Au titre de la Companies Act 2016, la constitution se fait au moyen d'une demande dans laquelle chaque directeur ou promoteur fournit une simple déclaration (statement) (article 14) selon laquelle il consent à agir et n'est pas frappé d'incapacité. Il s'agit d'une simple déclaration, non d'une déclaration sous serment."
 
 lang: "fr"
+sourceContentHash: "ca496f3d42e9b712"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

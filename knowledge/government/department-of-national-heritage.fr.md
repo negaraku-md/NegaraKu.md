@@ -27,9 +27,10 @@ faq:
   - q: "Une personne vivante peut-elle être déclarée Patrimoine national ?"
     a: "Oui. L'article 67 permet au ministre de déclarer une personne vivante Patrimoine national, et l'ordonnance de 2012 sur le patrimoine national (déclaration de personne vivante comme patrimoine national) fournit l'instrument formel pour la catégorie « Warisan Orang Hidup »."
 lang: "fr"
+sourceContentHash: "965829d0863e2f00"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

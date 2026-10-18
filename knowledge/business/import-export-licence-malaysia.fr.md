@@ -31,10 +31,11 @@ faq:
     a: "ePermit, un service web exploité par Dagang Net Technologies dans le cadre du Guichet unique national, vous permet de faire une demande auprès de plusieurs Agences émettrices de permis en ligne. Les permis approuvés sont transmis par voie électronique aux douanes pour validation par rapport à votre déclaration."
 
 lang: "fr"
+sourceContentHash: "f453f5001ae25d26"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

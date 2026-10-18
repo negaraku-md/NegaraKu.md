@@ -40,10 +40,11 @@ verificationNeeded:
   - "Le tarif annuel d'enseigne à la surface de MBSA : seuls le frais de traitement de la publicité et les tarifs forfaitaires des banderoles et oriflammes sont publiés"
 
 lang: "fr"
+sourceContentHash: "e95a20cac513aa22"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

@@ -51,10 +51,11 @@ obligations:
     consequence: "Fine of RM20,000 to RM100,000 or imprisonment up to six months, or both, under s.112A"
 
 lang: "fr"
+sourceContentHash: "003701199a9aca88"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

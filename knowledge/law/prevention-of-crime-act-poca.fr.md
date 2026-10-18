@@ -30,12 +30,13 @@ faq:
     a: "Le Conseil de prévention du crime — un organe présidé par une personne juridiquement qualifiée et désigné par le gouvernement — et non les tribunaux. Le Conseil agit sur le rapport d'un Officier d'instruction (Inquiry Officer) nommé par le ministre."
 
 lang: "fr"
+sourceContentHash: "a6b06f9b9fdb4839"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0

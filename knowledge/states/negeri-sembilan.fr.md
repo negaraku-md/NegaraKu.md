@@ -38,12 +38,13 @@ verificationNeeded:
   - "Vérifier la date et la base des pourcentages de composition ethnique figurant sur le portail officiel de l'État (Malais 61.5 %, Chinois 22.9 %, Indiens 15.1 %, autres 0.5 %) — le chiffre n'est pas daté et ne correspond pas à la structure de ventilation du recensement de 2020, qui comptabilise les non-citoyens comme une catégorie distincte."
 
 lang: "fr"
+sourceContentHash: "41ba175b1dc7814a"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

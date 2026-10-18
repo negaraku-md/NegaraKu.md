@@ -33,10 +33,11 @@ faq:
     a: "En tant que vendeur, non. Vous vous inscrivez auprès d'une passerelle de paiement, qui gère une étape de vérification de l'entreprise ; c'est l'opérateur de la passerelle de paiement qui doit être agréé par Bank Negara Malaysia, pas vous. Selon ce que vous vendez, des règles sectorielles spécifiques peuvent tout de même s'appliquer — par exemple, les cosmétiques et les produits de santé nécessitent une notification au régulateur concerné quel que soit le canal de vente."
 
 lang: "fr"
+sourceContentHash: "beb54faa40df4583"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-07

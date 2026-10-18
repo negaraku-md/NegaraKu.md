@@ -30,10 +30,11 @@ faq:
     a: "La SSM relève du ministère du Commerce intérieur et du Coût de la vie. Les portefeuilles ministériels en Malaisie sont périodiquement réorganisés, aussi confirmez le ministère de tutelle actuel sur ssm.com.my avant de vous y fier dans un document formel."
 
 lang: "fr"
+sourceContentHash: "f9b7af93b7253c9c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

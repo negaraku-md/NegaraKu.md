@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui lit des documents juridiques, des actualités ou des actes de procédure en Malaisie et qui a besoin de comprendre ce que signifie le terme « mahkamah » et la position relative de chaque niveau."
 
 lang: "fr"
+sourceContentHash: "1a30b6920b746dad"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

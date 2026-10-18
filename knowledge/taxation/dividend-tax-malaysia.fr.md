@@ -33,10 +33,11 @@ faq:
     a: "Il est auto-liquidé. Vous déclarez les revenus de dividendes dans votre déclaration annuelle (formulaire BE pour un résident, formulaire M pour un non-résident) à partir de l'année d'évaluation 2025, et payez les 2 % avec votre impôt final lors de la liquidation — il n'y a pas de retenue à la source. À partir de l'AE 2025, les sociétés doivent aussi remettre aux actionnaires un bon de dividende (dividend voucher) indiquant le dividende brut, ce qui étaye votre déclaration."
 
 lang: "fr"
+sourceContentHash: "046defae2c8d4bbf"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-09-10

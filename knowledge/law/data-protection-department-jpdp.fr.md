@@ -25,9 +25,10 @@ faq:
   - q: "Qui doit s'enregistrer auprès du JPDP ?"
     a: "Les utilisateurs de données (désormais « contrôleurs de données ») relevant des 13 classes spécifiées dans la Personal Data Protection (Class of Data Users) Order 2013 doivent s'enregistrer au titre de l'article 14 de la PDPA et obtenir un certificat d'enregistrement valide. L'enregistrement se fait en ligne via le portail SPDP à l'adresse daftar.pdp.gov.my."
 lang: "fr"
+sourceContentHash: "a86fa7aea38102ca"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

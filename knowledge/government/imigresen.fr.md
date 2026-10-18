@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui doit identifier quelle autorité délivre un document d'immigration malaisien donné — passeport, visa, pass ou permis — et quel article explique chaque processus."
 
 lang: "fr"
+sourceContentHash: "baf28f912e1a7295"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

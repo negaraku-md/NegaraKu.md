@@ -29,12 +29,13 @@ faq:
     a: "Genting couvre les loisirs et l'hôtellerie, les plantations de palmier à huile, la production d'énergie, le pétrole et le gaz, le développement immobilier et les sciences de la vie. Genting Plantations gère environ 243,000 hectares de réserve foncière en Malaisie et en Indonésie."
 
 lang: "fr"
+sourceContentHash: "1b5f1753141cba5e"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

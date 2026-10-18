@@ -50,10 +50,11 @@ obligations:
     consequence: "Infraction de la société et de toute personne qui enfreint la section"
 
 lang: "fr"
+sourceContentHash: "163b4a51c3a94a50"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

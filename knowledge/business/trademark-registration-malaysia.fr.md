@@ -57,10 +57,11 @@ obligations:
     consequence: "The Registrar may refuse to proceed with the application or registration"
 
 lang: "fr"
+sourceContentHash: "a70b312603adf60f"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

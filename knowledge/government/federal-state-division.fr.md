@@ -22,11 +22,12 @@ keyTakeaways:
 appliesTo: "Toute personne ayant besoin de savoir, matière par matière, si la Fédération ou un État détient le pouvoir de faire une loi donnée en Malaisie."
 
 lang: "fr"
+sourceContentHash: "d234775add600d74"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

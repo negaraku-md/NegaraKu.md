@@ -35,10 +35,11 @@ faq:
     a: "L'Institut malaisien de recherche sur la sécurité routière (MIROS), créé en 2007, se charge de la recherche fondée sur les données, tandis que la Division de la sécurité routière de la JPJ (anciennement JKJR) pilote la sensibilisation et la prévention. Les deux relèvent du Ministère des Transports."
 
 lang: "fr"
+sourceContentHash: "681af11f157961d9"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

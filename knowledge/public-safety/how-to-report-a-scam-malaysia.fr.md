@@ -37,10 +37,11 @@ faq:
     a: "Non. Le 997 est spécifiquement pour les escroqueries financières où de l'argent a été transféré par tromperie. Pour des documents perdus ou des affaires sans escroquerie, déposez une plainte dans un poste de police ou via le portail e-Reporting de la PDRM."
 
 lang: "fr"
+sourceContentHash: "ae9a54e76a608697"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

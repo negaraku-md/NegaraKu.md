@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Héritiers, membres de la famille proche ou déclarants chargés d'enregistrer le décès d'une personne en Malaisie et d'obtenir un certificat de décès pour les démarches administratives qui suivent."
 
 lang: "fr"
+sourceContentHash: "729859064dd35894"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

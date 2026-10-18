@@ -31,9 +31,10 @@ faq:
   - q: "Pourquoi l'ASEAN est-elle si centrale pour la politique étrangère de la Malaisie ?"
     a: "La Malaisie est membre fondateur de l'ASEAN (8 août 1967). Agir collectivement à travers l'ASEAN donne à un pays de taille moyenne et dépendant du commerce une voix plus forte pour gérer les relations avec les grandes puissances que celle qu'il aurait seul — c'est pourquoi la centralité de l'ASEAN est considérée comme la pierre angulaire de la politique."
 lang: "fr"
+sourceContentHash: "0119cb2bc48cc9ad"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"

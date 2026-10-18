@@ -49,10 +49,11 @@ obligations:
     consequence: "10 per cent increase under s.109B(2) and disallowance of the expense under s.39(1)(j)"
 
 lang: "fr"
+sourceContentHash: "096e6362dcef465c"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

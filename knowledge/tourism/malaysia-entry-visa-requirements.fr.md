@@ -37,13 +37,14 @@ faq:
     a: "Les voyageurs de 63 pays éligibles peuvent utiliser les portiques automatiques de la Malaisie, à condition d'avoir soumis la MDAC au moins trois jours avant le voyage. Les primo-utilisateurs peuvent avoir à s'enregistrer à un comptoir avant d'utiliser le portique."
 
 lang: "fr"
+sourceContentHash: "cdbee74bde6667f6"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 verificationNeeded:
   - "Si une page vierge de passeport est formellement exigée pour l'entrée (non précisé sur la source MIDA citée)."
 
-status: "draft"
+status: "published"
 publishedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null

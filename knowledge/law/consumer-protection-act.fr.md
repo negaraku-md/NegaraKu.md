@@ -30,10 +30,11 @@ faq:
     a: "Une sentence est définitive et contraignante pour les parties et est exécutable par le Tribunal de première instance (Magistrate's Court). Il n'existe pas de droit d'appel ordinaire ; le recours d'une partie insatisfaite est de demander à la Haute Cour (High Court) un contrôle juridictionnel."
 
 lang: "fr"
+sourceContentHash: "7e827e839a62b8bc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

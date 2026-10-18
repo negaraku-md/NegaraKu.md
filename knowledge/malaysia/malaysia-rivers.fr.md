@@ -19,9 +19,10 @@ keyTakeaways:
 appliesTo: "Les étudiants en géographie et en histoire de la Malaisie, et toute personne souhaitant comprendre pourquoi les principales villes du Sarawak, du Sabah et du Pahang se situent à des emplacements précis le long de leurs fleuves."
 
 lang: "fr"
+sourceContentHash: "c0dca023c22caa3e"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

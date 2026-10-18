@@ -33,10 +33,11 @@ faq:
     a: "Le Département des statistiques de Malaisie (DOSM) publie le Compte satellite des TIC chaque année (la publication Malaysia Digital Economy), qui établit la contribution des TIC et du commerce électronique au PIB. Le DOSM réalise également le Rapport sur l'utilisation et l'accès aux TIC pour les chiffres de pénétration des ménages et des individus. Les taux de pénétration du haut débit sont publiés séparément par la Commission malaisienne des communications et du multimédia (MCMC)."
 
 lang: "fr"
+sourceContentHash: "9a3a89f709e2b7ae"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03

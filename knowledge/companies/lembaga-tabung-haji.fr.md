@@ -30,12 +30,13 @@ faq:
     a: "TH a historiquement été associée au secteur de la finance islamique, notamment Bank Islam Malaysia et Syarikat Takaful Malaysia Keluarga, aux côtés de participations dans diverses autres classes d'actifs en tant qu'investisseur institutionnel. Les détails des participations actuelles et des pourcentages d'intérêt doivent être consultés dans les états financiers officiels de TH et des sociétés apparentées, car la structure de propriété (par exemple la restructuration du groupe BIMB en 2023) peut changer."
 
 lang: "fr"
+sourceContentHash: "440a6d426804d717"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0

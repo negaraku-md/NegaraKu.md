@@ -29,11 +29,12 @@ faq:
     a: "Un mémorandum conjoint que l'Alliance présenta à la Commission Reid en 1956, exposant les positions convenues de la coalition sur les souverains malais, l'islam comme religion de la Fédération, la langue malaise, la position spéciale des Malais et la citoyenneté. Le rapport de 1957 de la Commission s'appuya sur lui, parmi les mémorandums qu'elle reçut."
 
 lang: "fr"
+sourceContentHash: "8468b6263efa9db8"
 masterLanguage: "en"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 revision: 0

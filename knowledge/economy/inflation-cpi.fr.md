@@ -20,10 +20,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui cherche à lire avec précision l'information sur l'inflation malaisienne : ménages, employeurs qui fixent les salaires et analystes."
 
 lang: "fr"
+sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

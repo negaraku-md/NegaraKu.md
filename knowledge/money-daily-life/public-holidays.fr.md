@@ -21,10 +21,11 @@ keyTakeaways:
 appliesTo: "Toute personne qui planifie des déplacements, des affaires ou des démarches quotidiennes entre les États et souhaite comprendre pourquoi la liste des jours fériés n'est pas uniforme à travers la Malaisie."
 
 lang: "fr"
+sourceContentHash: "3aa4c891e7b6b223"
 masterLanguage: "ms"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

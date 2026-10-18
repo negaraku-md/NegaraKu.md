@@ -21,9 +21,10 @@ verificationNeeded:
   - "Le format complet et les détails des matières de la Matrice d'apprentissage de Form 3 (à partir de 2027) n'étaient pas confirmés en détail sur le site officiel du Syndicat malaisien des examens au moment de la préparation de ce brouillon ; seul le calendrier 2026 de Year 4 (4 matières de base) était confirmé. À revérifier sur lp.moe.gov.my une fois le projet pour la Form 3 publié."
   - "Il n'a pas été possible de confirmer, par rapport aux sources officielles, au moment de la préparation de ce brouillon, si le Conseil consultatif national de l'éducation (MPPK) a publié le rapport complet de réexamen de l'UPSR/PT3 destiné au Cabinet ; la déclaration de la ministre de janvier 2026 est retenue comme la position la plus récente disponible."
 lang: "fr"
+sourceContentHash: "4ac5d1a1458b81d6"
 masterLanguage: "ms"
-translationStatus: "stale"
-status: "draft"
+translationStatus: "in-sync"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

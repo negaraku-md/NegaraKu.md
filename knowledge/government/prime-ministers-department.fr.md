@@ -23,10 +23,11 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant à comprendre ce qu'est réellement le Département du Premier ministre, pourquoi tant d'organismes fédéraux apparemment sans lien en relèvent, et en quoi il diffère d'un ministère ordinaire."
 
 lang: "fr"
+sourceContentHash: "e406cee4d2aa12d6"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"

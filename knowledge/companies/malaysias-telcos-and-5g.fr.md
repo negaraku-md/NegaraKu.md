@@ -32,10 +32,11 @@ faq:
     a: "U Mobile a été désignée pour construire le deuxième réseau 5G, elle a donc cédé sa participation dans DNB et s'est désengagée du réseau de DNB pour se concentrer sur son propre déploiement."
 
 lang: "fr"
+sourceContentHash: "c1f7f6a84e1fec97"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14

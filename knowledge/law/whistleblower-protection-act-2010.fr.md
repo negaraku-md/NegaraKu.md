@@ -32,10 +32,11 @@ faq:
     a: "L'article 2 définit la conduite répréhensible comme toute conduite qui, si elle est prouvée, constitue une infraction disciplinaire ou une infraction pénale. Une « infraction disciplinaire » est définie séparément pour couvrir les manquements à la discipline dans un organisme public ou privé au titre d'une loi, d'un code de conduite, d'un code d'éthique, d'une circulaire ou d'un contrat de travail, de sorte que le terme englobe un large éventail de fautes, de la corruption à l'inconduite sur le lieu de travail."
 
 lang: "fr"
+sourceContentHash: "b93871feeca0ccf6"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08

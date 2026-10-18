@@ -37,10 +37,11 @@ faq:
     a: "Le siège social doit être en Malaisie et être un lieu où les documents peuvent être signifiés et les registres inspectés (art. 46). De nombreuses sociétés utilisent plutôt le bureau de leur secrétaire de société."
 
 lang: "fr"
+sourceContentHash: "0220f937a06b83b7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
