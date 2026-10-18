@@ -1,9 +1,32 @@
+import { readFileSync, existsSync } from 'node:fs';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import type { Locale } from './categories';
 import { PILLARS } from './categories';
 import { DEFAULT_LOCALE } from './i18n';
 
 export type Article = CollectionEntry<'knowledge'>;
+
+/** Per-article word counts from the build manifest (public/api/articles.json,
+ *  written by scripts/sync.mjs), keyed `<category>/<slug>.<lang>`. Used for
+ *  reading time because the raw body is dropped from the content store (see
+ *  content.config.ts retainBody:false). Loaded once at build. */
+let _wordsByKey: Map<string, number> | null = null;
+function wordsByKey(): Map<string, number> {
+  if (_wordsByKey) return _wordsByKey;
+  _wordsByKey = new Map();
+  try {
+    const file = 'public/api/articles.json';
+    if (existsSync(file)) {
+      const manifest = JSON.parse(readFileSync(file, 'utf8')) as {
+        articles?: Array<{ category?: string; slug?: string; lang?: string; words?: number }>;
+      };
+      for (const a of manifest.articles ?? []) {
+        if (a.category && a.slug && a.lang) _wordsByKey.set(`${a.category}/${a.slug}.${a.lang}`, a.words ?? 0);
+      }
+    }
+  } catch { /* fall back to 0 → 1 min */ }
+  return _wordsByKey;
+}
 
 /** Site-wide hero stats — the ONE standard shown across the site:
     Sections · Categories · Topics · Articles. Values are global (whole corpus);
@@ -34,12 +57,13 @@ export function articleKey(a: Article): string {
   return `${a.data.category}/${a.data.slug}`;
 }
 
-/** Estimated reading time in minutes from an article body (Latin words + CJK chars, ~200 wpm). */
+/** Estimated reading time in minutes (~200 wpm). The raw body is no longer in
+ *  the content store (content.config.ts retainBody:false), so the word count
+ *  comes from the build manifest; sync.mjs already counts words script-aware. */
 export function readingTime(article: Article): number {
-  const body = article.body ?? '';
-  const cjk = (body.match(/[㐀-鿿]/g) ?? []).length;
-  const latin = body.split(/\s+/).filter((w) => /[A-Za-z0-9]/.test(w)).length;
-  return Math.max(1, Math.round((cjk + latin) / 200));
+  const d = article.data;
+  const words = wordsByKey().get(`${d.category}/${d.slug}.${d.lang}`) ?? 0;
+  return Math.max(1, Math.round(words / 200));
 }
 
 /** All article entries across every language. */

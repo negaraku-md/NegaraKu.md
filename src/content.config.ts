@@ -50,12 +50,20 @@ const revisionSchema = z.object({
 });
 
 const knowledge = defineCollection({
+  // retainBody: false DROPS the raw markdown `body` from the content store,
+  // keeping only the rendered HTML that render() uses. At 13 languages the store
+  // (raw body + rendered HTML for ~14k entries) crossed V8's ~512MB single-string
+  // limit and broke the build. The raw markdown still lives on disk — raw.ts reads
+  // it from filePath for /llms-full + the raw views — and reading time comes from
+  // the manifest word count (content.ts readingTime), so nothing at render time
+  // needs the stored body.
   loader: glob({
     pattern: '**/*.md',
     base: './knowledge',
     // Preserve the language suffix so "foo.md" and "foo.en.md" get distinct
     // ids; the default generator would collapse them and drop translations.
     generateId: ({ entry }) => entry.replace(/\.md$/i, ''),
+    retainBody: false,
   }),
   schema: z.object({
     // ---- identity ----------------------------------------------------
