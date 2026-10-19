@@ -32,15 +32,14 @@ faq:
     a: மலேசிய வானிலை ஆய்வுத் துறை (MetMalaysia) அதன் அதிகாரபூர்வ வலைத்தளம் மற்றும் myCuaca செயலியின் மூலம், பொதுவாக பல நாட்கள் முன்னறிவிப்புடன், முன்னறிவிப்புகள் மற்றும் தொடர்ச்சியான மழை எச்சரிக்கைகளை வெளியிடுகிறது.
 lang: ta
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - Exact onset/end dates vary each year and are announced by MetMalaysia per season; do not publish fixed dates — confirm the current season against MetMalaysia.
   - Confirm the affected-state breakdown and the typical peak month against the latest MetMalaysia seasonal forecast, as emphasis shifts between seasons.
@@ -70,7 +69,17 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: null
+sourceContentHash: "87793e0da2237cfd"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 ஒவ்வோர் ஆண்டும், உலகின் மற்ற பகுதிகள் குளிர்காலத்தை நோக்கிச் செல்லும் நேரத்தில், மலேசியாவின் கிழக்குக் கடற்கரை தன்னை தயார்படுத்திக்கொள்கிறது. படகுகள் மேலே இழுக்கப்படுகின்றன, தீவு ரிசார்ட்டுகள் தங்கள் கதவுகளை மூடுகின்றன, வெள்ள-நிவாரண மையங்கள் தயார்படுத்தப்படுகின்றன, மேலும் தாழ்வான நகரங்களில் உள்ள குடும்பங்கள் ஆறுகளைக் கவனிக்கின்றன. இதுவே **வடகிழக்குப் பருவமழை** — மலேசியாவின் வானிலையில் தனிப்பெரிய செல்வாக்கு, மேலும் நாட்டிற்கு ஆண்டு முழுவதும் ஒரே சீரான வெப்பமண்டல மழைக்குப் பதிலாக ஒரு தனித்துவமான ஈரமான பருவம் இருப்பதற்குக் காரணம்.

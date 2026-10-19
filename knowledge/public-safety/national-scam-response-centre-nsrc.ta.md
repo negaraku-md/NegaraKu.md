@@ -32,15 +32,14 @@ faq:
     a: 997 அழைப்பு விரைவு முடக்கு-மற்றும்-கண்காணிப்பு செயல்முறையைத் தொடங்குகிறது, ஆனால் நீங்கள் இன்னும் ஒரு முறையான பொலிஸ் புகாரைச் செய்ய வேண்டும். பரந்த மோசடி மற்றும் ஏமாற்று விசாரணைக்கு, இது பொலிஸ் வணிகக் குற்ற விசாரணைத் துறையுடன் (CCID) இணைந்து செயல்படுகிறது.
 lang: ta
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - 'Launch date: sources give both 7 October 2022 and 12 October 2022; confirm the official establishment date against Bank Negara Malaysia / the police.'
   - Operational details (24/7 status, location at MCMC Tower 2, the National Fraud Portal) and any case statistics (e.g. calls handled, accounts frozen, funds recovered) change over time and vary between reports — confirm the latest figures against official NSRC/BNM/PDRM releases before citing numbers.
@@ -75,7 +74,17 @@ keywords:
   - mule account
   - freeze funds
   - online fraud
-sourceContentHash: null
+sourceContentHash: "2c5c608f3779680d"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 ஒரு மோசடியில் மிக மோசமான தருணம், அது ஒரு மோசடி என்று நீங்கள் உணர்ந்த உடனடி தருணம்தான் — பணம் உங்கள் கணக்கிலிருந்து சென்றுவிட்டது, என்ன செய்வது அல்லது யாரை அழைப்பது என்று உங்களுக்குத் தெரியாது. மலேசியாவில், அந்தக் கேள்விக்கு ஒரே ஒரு பதில் உள்ளது: **997 ஐ அழைக்கவும்.** அந்த எண் **தேசிய மோசடி எதிர்வினை மையத்தை (NSRC)** அடைகிறது, மேலும் அதை விரைவாக அழைப்பது, மிக நேரடியாகச் சொன்னால், உங்கள் பணத்தைத் திரும்பப் பெறுவதற்கான உங்கள் சிறந்த வாய்ப்பு.

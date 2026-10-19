@@ -1,73 +1,89 @@
 ---
-topicId: "MY-PS-0030"
-title: "The National Scam Response Centre (NSRC)"
-seoTitle: "National Scam Response Centre (NSRC) 997 Malaysia"
-slug: "national-scam-response-centre-nsrc"
-category: "public-safety"
-subcategory: ["consumer-protection"]
-summary: "The National Scam Response Centre (NSRC) is Malaysia's rapid-response hotline for financial scams, reached by dialling 997, which brings together the police, Bank Negara Malaysia, MCMC, banks and telcos to try to freeze money the moment a victim reports a scam."
-
-tier: "3"
-mode: "practical"
-contentType: "agency"
-sensitivity: "none"
-
-answer: "The National Scam Response Centre (NSRC) is a Malaysian government hotline for reporting financial scams, reached by dialling 997. Launched in October 2022, it brings the police together with Bank Negara Malaysia (BNM), the Malaysian Communications and Multimedia Commission (MCMC), commercial banks and telcos under one roof so that, when a victim calls, officers can move immediately to freeze the account the money was sent to. Speed is everything: victims are urged to call within 24 hours of realising they have been scammed."
+topicId: MY-PS-0030
+title: The National Scam Response Centre (NSRC)
+seoTitle: National Scam Response Centre (NSRC) 997 Malaysia
+slug: national-scam-response-centre-nsrc
+category: public-safety
+subcategory:
+  - consumer-protection
+summary: The National Scam Response Centre (NSRC) is Malaysia's rapid-response hotline for financial scams, reached by dialling 997, which brings together the police, Bank Negara Malaysia, MCMC, banks and telcos to try to freeze money the moment a victim reports a scam.
+tier: '3'
+mode: practical
+contentType: agency
+sensitivity: none
+answer: 'The National Scam Response Centre (NSRC) is a Malaysian government hotline for reporting financial scams, reached by dialling 997. Launched in October 2022, it brings the police together with Bank Negara Malaysia (BNM), the Malaysian Communications and Multimedia Commission (MCMC), commercial banks and telcos under one roof so that, when a victim calls, officers can move immediately to freeze the account the money was sent to. Speed is everything: victims are urged to call within 24 hours of realising they have been scammed.'
 keyTakeaways:
-  - "Dial 997 to report a financial scam in Malaysia — the NSRC hotline."
-  - "The NSRC launched in October 2022 and is run by the police with Bank Negara Malaysia, MCMC, banks and telcos co-located so action is fast."
-  - "Its core job is to freeze the receiving ('mule') account before the money is moved on — so reporting speed is critical."
-  - "Victims are urged to call within 24 hours; late reports sharply reduce the chance of recovering funds."
-  - "The centre has moved to 24/7 operation and is supported by a National Fraud Portal that traces funds and mule accounts."
-appliesTo: "Anyone in Malaysia who has been scammed or suspects a scam, and those helping a victim act quickly."
-
+  - Dial 997 to report a financial scam in Malaysia — the NSRC hotline.
+  - The NSRC launched in October 2022 and is run by the police with Bank Negara Malaysia, MCMC, banks and telcos co-located so action is fast.
+  - Its core job is to freeze the receiving ('mule') account before the money is moved on — so reporting speed is critical.
+  - Victims are urged to call within 24 hours; late reports sharply reduce the chance of recovering funds.
+  - The centre has moved to 24/7 operation and is supported by a National Fraud Portal that traces funds and mule accounts.
+appliesTo: Anyone in Malaysia who has been scammed or suspects a scam, and those helping a victim act quickly.
 faq:
-  - q: "What number do I call if I've been scammed in Malaysia?"
-    a: "Dial 997, the National Scam Response Centre (NSRC) hotline. Call as soon as you realise you have been scammed — ideally within 24 hours — because the centre's best chance of helping is to freeze the receiving account before the money is moved."
-  - q: "What is the NSRC and who runs it?"
-    a: "The National Scam Response Centre is a Malaysian government rapid-response centre for financial scams, launched in October 2022. It is run by the police together with Bank Negara Malaysia (BNM), the Malaysian Communications and Multimedia Commission (MCMC), and representatives from commercial banks and telecommunications companies, so that reporting, bank action and investigation happen in one place."
-  - q: "What happens when I call 997?"
-    a: "A police officer on duty logs a report and collects your details, including the bank account the money went to, then alerts the relevant financial institutions. The first priority is to temporarily freeze the receiving ('mule') account, after which the transaction is investigated and recovered funds are returned to victims where possible."
-  - q: "Why does reporting speed matter so much?"
-    a: "Scammers move stolen money through mule accounts very quickly. Freezing works only if the money is still there, so the sooner you call — officials urge within 24 hours — the better the chance of stopping and recovering it."
-  - q: "Is calling 997 the same as making a police report?"
-    a: "The 997 call starts the rapid freeze-and-trace process, but you should still make a formal police report. For wider scam and fraud investigation, this works alongside the police Commercial Crime Investigation Department (CCID)."
-
-lang: "en"
-masterLanguage: "en"
-translationStatus: "master"
-
-status: "in-review"
+  - q: What number do I call if I've been scammed in Malaysia?
+    a: Dial 997, the National Scam Response Centre (NSRC) hotline. Call as soon as you realise you have been scammed — ideally within 24 hours — because the centre's best chance of helping is to freeze the receiving account before the money is moved.
+  - q: What is the NSRC and who runs it?
+    a: The National Scam Response Centre is a Malaysian government rapid-response centre for financial scams, launched in October 2022. It is run by the police together with Bank Negara Malaysia (BNM), the Malaysian Communications and Multimedia Commission (MCMC), and representatives from commercial banks and telecommunications companies, so that reporting, bank action and investigation happen in one place.
+  - q: What happens when I call 997?
+    a: A police officer on duty logs a report and collects your details, including the bank account the money went to, then alerts the relevant financial institutions. The first priority is to temporarily freeze the receiving ('mule') account, after which the transaction is investigated and recovered funds are returned to victims where possible.
+  - q: Why does reporting speed matter so much?
+    a: Scammers move stolen money through mule accounts very quickly. Freezing works only if the money is still there, so the sooner you call — officials urge within 24 hours — the better the chance of stopping and recovering it.
+  - q: Is calling 997 the same as making a police report?
+    a: The 997 call starts the rapid freeze-and-trace process, but you should still make a formal police report. For wider scam and fraud investigation, this works alongside the police Commercial Crime Investigation Department (CCID).
+lang: en
+masterLanguage: en
+translationStatus: master
+status: published
 aiAssisted: true
 reviewer: null
-assignee: "ashton-tan"
-claimedAt: 2026-10-19
-revision: null
-
-created: 2026-10-19
-updated: 2026-10-19
+assignee: null
+revision: 0
+created: '2026-10-19'
+updated: '2026-10-19'
 verificationNeeded:
-  - "Launch date: sources give both 7 October 2022 and 12 October 2022; confirm the official establishment date against Bank Negara Malaysia / the police."
-  - "Operational details (24/7 status, location at MCMC Tower 2, the National Fraud Portal) and any case statistics (e.g. calls handled, accounts frozen, funds recovered) change over time and vary between reports — confirm the latest figures against official NSRC/BNM/PDRM releases before citing numbers."
-  - "Confirm the current list of partner agencies and the exact intake process against the official NSRC description."
-
+  - 'Launch date: sources give both 7 October 2022 and 12 October 2022; confirm the official establishment date against Bank Negara Malaysia / the police.'
+  - Operational details (24/7 status, location at MCMC Tower 2, the National Fraud Portal) and any case statistics (e.g. calls handled, accounts frozen, funds recovered) change over time and vary between reports — confirm the latest figures against official NSRC/BNM/PDRM releases before citing numbers.
+  - Confirm the current list of partner agencies and the exact intake process against the official NSRC description.
 sources:
-  - title: "National Scam Response Centre — consumer information"
-    url: "https://www.bnm.gov.my/"
-    publisher: "Bank Negara Malaysia (BNM)"
-  - title: "National Scam Response Centre to operate 24/7 in strengthened crackdown on online fraud"
-    url: "https://www.thevibes.com/articles/news/109975/national-scam-response-centre-to-operate-24-7-in-strengthened-crackdown-on-online-fraud"
-    publisher: "The Vibes"
-  - title: "Call 997 right away if you suspect a scam, Fahmi tells Malaysians"
-    url: "https://www.malaymail.com/news/malaysia/2026/03/03/call-997-right-away-if-you-suspect-a-scam-fahmi-tells-malaysians/211156"
-    publisher: "Malay Mail"
-
-entity: "National Scam Response Centre (NSRC)"
+  - title: National Scam Response Centre — consumer information
+    url: https://www.bnm.gov.my/
+    publisher: Bank Negara Malaysia (BNM)
+  - title: National Scam Response Centre to operate 24/7 in strengthened crackdown on online fraud
+    url: https://www.thevibes.com/articles/news/109975/national-scam-response-centre-to-operate-24-7-in-strengthened-crackdown-on-online-fraud
+    publisher: The Vibes
+  - title: Call 997 right away if you suspect a scam, Fahmi tells Malaysians
+    url: https://www.malaymail.com/news/malaysia/2026/03/03/call-997-right-away-if-you-suspect-a-scam-fahmi-tells-malaysians/211156
+    publisher: Malay Mail
+entity: National Scam Response Centre (NSRC)
 relations:
-  - { rel: "related-to", to: "commercial-crime-investigation-department-ccid" }
-  - { rel: "administered-by", to: "bank-negara-malaysia" }
-related: ["commercial-crime-investigation-department-ccid", "staying-safe-scams-and-emergencies"]
-keywords: ["National Scam Response Centre", "NSRC", "997 hotline", "Malaysia scam", "report scam Malaysia", "Bank Negara Malaysia", "MCMC", "mule account", "freeze funds", "online fraud"]
+  - rel: related-to
+    to: commercial-crime-investigation-department-ccid
+  - rel: administered-by
+    to: bank-negara-malaysia
+related:
+  - commercial-crime-investigation-department-ccid
+  - staying-safe-scams-and-emergencies
+keywords:
+  - National Scam Response Centre
+  - NSRC
+  - 997 hotline
+  - Malaysia scam
+  - report scam Malaysia
+  - Bank Negara Malaysia
+  - MCMC
+  - mule account
+  - freeze funds
+  - online fraud
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 The worst moment in a scam is the one just after you realise it was a scam — when the money has left your account and you do not know what to do, or whom to call. In Malaysia, there is a single answer to that question: **dial 997.** That number reaches the **National Scam Response Centre (NSRC)**, and calling it quickly is, quite literally, your best chance of getting your money back.

@@ -32,15 +32,14 @@ faq:
     a: இல்லை. பரந்த மின்சாரம் மற்றும் மின்னணுவியல் (E&E) துறையின் மிகப்பெரிய மற்றும் மிகவும் மதிப்புமிக்க பகுதி குறைக்கடத்திகள்தான், ஆனால் E&E நுகர்வோர் மின்னணுவியல், தொழில்துறை மின்னணுவியல் மற்றும் வீட்டு உபகரணங்கள், விளக்குகள் மற்றும் கேபிள்கள் போன்ற மின்சாரப் பொருட்களையும் உள்ளடக்கியது.
 lang: ta
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - '2024 semiconductor export value: MATRADE reports ~RM388 billion for semiconductor devices (ICs, transistors, valves); some media report ~RM437.5 billion on a broader ''semiconductor products'' definition. Confirm the exact figure and definition against MATRADE before publication.'
   - National Semiconductor Strategy targets vary across sources (e.g. share 7%→14% by 2029; investment figures of RM63 billion approved and an RM500 billion target). Confirm the official headline targets against the MITI/MIDA NSS source.
@@ -85,7 +84,17 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: null
+sourceContentHash: "b7649caa9c01d102"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 நீங்கள் இதை ஒரு தொலைபேசியிலோ மடிக்கணினியிலோ படித்துக்கொண்டிருந்தால், அதன் சிப்களில் ஒன்று தனது வாழ்நாளின் ஒரு பகுதியை மலேசியாவில் கழித்திருக்கும் உண்மையான வாய்ப்பு உள்ளது — கண்டுபிடிக்கப்பட்டோ அச்சிடப்பட்டோ அல்ல, மாறாக ஒரு வெறும் சிலிக்கான் துண்டிலிருந்து, ஒரு சுற்றுப் பலகையில் பற்றவைக்கத் தயாராக உள்ள ஒரு முழுமையான, பொதியிடப்பட்ட கூறாக மாற்றப்பட்டது. அந்த அமைதியான, கவர்ச்சியற்ற படிநிலையில்தான் மலேசியா முழு மின்னணுவியல் உலகிலும் மிக முக்கியமான நிலைகளில் ஒன்றை உருவாக்கியுள்ளது.

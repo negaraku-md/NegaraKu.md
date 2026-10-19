@@ -32,15 +32,14 @@ faq:
     a: 중등 이후 경로에는 Sijil Tinggi Persekolahan Malaysia(STPM)로 이어지는 식스폼, 매트리큘레이션 과정, 디플로마, 파운데이션 과정, 그 밖의 대학 예비 경로가 있으며, 그다음 칼리지나 대학교에서의 고등 교육이 뒤따릅니다.
 lang: ko
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
-reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+reviewer: ashton-tan
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication.
   - Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy.
@@ -74,7 +73,17 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: null
+sourceContentHash: "4002ddcea89a998a"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: ashton-tan
 ---
 
 말레이시아에서 자라는 아이에게 "어느 학교?"라는 질문은 많은 나라보다 더 큰 의미를 지닙니다. 다른 어디서나처럼 거리와 평판에 관한 것이기도 하지만 — 주로 말레이어로 가르치는 국민학교와 중국어나 타밀어로 가르치는 국민형학교 사이의 선택이기도 합니다. 둘 다 같은 공교육 제도의 일부이고, 같은 국가 교육과정을 따르며, 같은 국가 시험으로 이어집니다. 그 제도가 어떻게 맞물리는지 이해하는 것이 그것을 헤쳐 나가는 첫걸음입니다.

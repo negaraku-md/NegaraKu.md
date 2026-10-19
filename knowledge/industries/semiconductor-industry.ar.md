@@ -32,15 +32,14 @@ faq:
     a: لا. أشباه الموصلات هي أكبر وأثمن شريحة من قطاع الكهرباء والإلكترونيات (E&E) الأوسع، لكن قطاع E&E يشمل أيضًا الإلكترونيات الاستهلاكية والإلكترونيات الصناعية والمنتجات الكهربائية مثل الأجهزة المنزلية والإضاءة والكابلات.
 lang: ar
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - '2024 semiconductor export value: MATRADE reports ~RM388 billion for semiconductor devices (ICs, transistors, valves); some media report ~RM437.5 billion on a broader ''semiconductor products'' definition. Confirm the exact figure and definition against MATRADE before publication.'
   - National Semiconductor Strategy targets vary across sources (e.g. share 7%→14% by 2029; investment figures of RM63 billion approved and an RM500 billion target). Confirm the official headline targets against the MITI/MIDA NSS source.
@@ -85,7 +84,17 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: null
+sourceContentHash: "b7649caa9c01d102"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 إذا كنت تقرأ هذا على هاتف أو حاسوب محمول، فهناك احتمال حقيقي بأن إحدى رقائقه قضت جزءًا من حياتها في ماليزيا — لا في اختراعها أو طباعتها، بل في تحويلها من شريحة سيليكون عارية إلى مكوّن مكتمل ومغلّف جاهز للحام على لوحة دوائر. هذه الخطوة الهادئة غير اللامعة هي حيث بنت ماليزيا واحدًا من أهم المواقع في عالم الإلكترونيات بأسره.

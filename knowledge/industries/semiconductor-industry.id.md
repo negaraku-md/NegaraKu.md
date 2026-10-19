@@ -32,15 +32,14 @@ faq:
     a: Tidak. Semikonduktor adalah komponen terbesar dan paling bernilai dari sektor elektrik & elektronik (E&E) yang lebih luas, tetapi E&E juga mencakup elektronik konsumen, elektronik industri, dan produk elektrik seperti peralatan rumah tangga, pencahayaan, dan kabel.
 lang: id
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - '2024 semiconductor export value: MATRADE reports ~RM388 billion for semiconductor devices (ICs, transistors, valves); some media report ~RM437.5 billion on a broader ''semiconductor products'' definition. Confirm the exact figure and definition against MATRADE before publication.'
   - National Semiconductor Strategy targets vary across sources (e.g. share 7%→14% by 2029; investment figures of RM63 billion approved and an RM500 billion target). Confirm the official headline targets against the MITI/MIDA NSS source.
@@ -85,7 +84,17 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: null
+sourceContentHash: "b7649caa9c01d102"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Jika Anda membaca ini di ponsel atau laptop, ada kemungkinan nyata bahwa salah satu chip-nya pernah menghabiskan sebagian masa hidupnya di Malaysia — bukan ditemukan atau dicetak, melainkan diubah dari sekadar irisan silikon menjadi komponen jadi yang terkemas, siap disolder ke papan sirkuit. Langkah yang tenang dan tidak glamor itulah tempat Malaysia membangun salah satu posisi paling berpengaruh di seluruh dunia elektronik.

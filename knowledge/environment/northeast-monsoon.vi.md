@@ -32,15 +32,14 @@ faq:
     a: Cục Khí tượng Malaysia (MetMalaysia) phát đi các dự báo và Cảnh báo Mưa liên tục (Continuous Rain Warnings), thường với vài ngày báo trước, qua trang web chính thức và ứng dụng myCuaca.
 lang: vi
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - Exact onset/end dates vary each year and are announced by MetMalaysia per season; do not publish fixed dates — confirm the current season against MetMalaysia.
   - Confirm the affected-state breakdown and the typical peak month against the latest MetMalaysia seasonal forecast, as emphasis shifts between seasons.
@@ -70,7 +69,17 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: null
+sourceContentHash: "87793e0da2237cfd"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Hằng năm, vào khoảng thời gian phần còn lại của thế giới bước vào mùa đông, bờ đông của Malaysia tự chuẩn bị tinh thần. Thuyền bè được kéo lên bờ, các khu nghỉ dưỡng trên đảo đóng cửa, các trung tâm cứu trợ lũ lụt được sẵn sàng, và các gia đình ở những thị trấn vùng trũng dõi theo các con sông. Đây là **gió mùa Đông Bắc** — ảnh hưởng đơn lẻ lớn nhất đến thời tiết của Malaysia, và là lý do đất nước này về cơ bản có một mùa mưa riêng biệt thay vì mưa nhiệt đới đều đặn quanh năm.

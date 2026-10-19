@@ -32,15 +32,14 @@ faq:
     a: இடைநிலைக்குப் பிந்தைய வழிகளில் Sijil Tinggi Persekolahan Malaysia (STPM) இற்கு இட்டுச் செல்லும் Form Six, முன்தயாரிப்பு (matriculation) திட்டங்கள், டிப்ளமாக்கள், அடித்தளப் பாடநெறிகள் மற்றும் பிற பல்கலைக்கழக முன் வழிகள் அடங்கும், அதைத் தொடர்ந்து ஒரு கல்லூரி அல்லது பல்கலைக்கழகத்தில் மேல்நிலைப் படிப்பு.
 lang: ta
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
-reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+reviewer: ashton-tan
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication.
   - Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy.
@@ -74,7 +73,17 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: null
+sourceContentHash: "4002ddcea89a998a"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: ashton-tan
 ---
 
 மலேசியாவில் வளரும் ஒரு குழந்தைக்கு, "எந்தப் பள்ளி?" என்ற கேள்வி பல நாடுகளைவிட அதிக அர்த்தத்தைச் சுமக்கிறது. இது ஓரளவு தூரம் மற்றும் பெயர் பற்றியது, எல்லா இடங்களிலும் போலவே — ஆனால் இது முக்கியமாக மலாய் மொழியில் கற்பிக்கும் ஒரு தேசியப் பள்ளிக்கும், சீனம் அல்லது தமிழில் கற்பிக்கும் ஒரு தேசிய-வகைப் பள்ளிக்கும் இடையிலான ஒரு தேர்வு ஆகும். இரண்டும் ஒரே பொது முறையின் பகுதி, ஒரே தேசியப் பாடத்திட்டத்தைப் பின்பற்றுகின்றன, ஒரே தேசியத் தேர்வுகளுக்கு இட்டுச் செல்கின்றன. அந்த முறை எவ்வாறு ஒன்றாக இணைகிறது என்பதைப் புரிந்துகொள்வது அதை வழிநடத்துவதற்கான முதல் படி.

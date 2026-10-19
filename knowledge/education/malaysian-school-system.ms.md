@@ -32,15 +32,14 @@ faq:
     a: Laluan pasca-menengah termasuk Tingkatan Enam yang membawa kepada Sijil Tinggi Persekolahan Malaysia (STPM), program matrikulasi, diploma, kursus asasi dan laluan pra-universiti lain, diikuti oleh pengajian tinggi di kolej atau universiti.
 lang: ms
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
-reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+reviewer: ashton-tan
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication.
   - Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy.
@@ -74,7 +73,17 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: null
+sourceContentHash: "4002ddcea89a998a"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: ashton-tan
 ---
 
 Bagi seorang kanak-kanak yang membesar di Malaysia, soalan "sekolah mana?" membawa makna yang lebih mendalam berbanding di banyak negara. Sebahagiannya tentang jarak dan reputasi, seperti di mana-mana sahaja — tetapi ia juga merupakan pilihan antara sekolah kebangsaan yang mengajar terutamanya dalam bahasa Melayu dan sekolah jenis kebangsaan yang mengajar dalam bahasa Cina atau Tamil. Kedua-duanya adalah sebahagian daripada sistem awam yang sama, mengikut kurikulum kebangsaan yang sama, dan membawa kepada peperiksaan kebangsaan yang sama. Memahami bagaimana sistem itu bergabung bersama ialah langkah pertama untuk menavigasinya.

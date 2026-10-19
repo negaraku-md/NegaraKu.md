@@ -32,15 +32,14 @@ faq:
     a: 어업총국장이 수장을 맡는 말레이시아 수산청(Jabatan Perikanan Malaysia)이 해양공원 관리를 포함해 이 법을 집행합니다.
 lang: ko
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative.
   - Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials.
@@ -72,7 +71,17 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: null
+sourceContentHash: "141e6c8974042935"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 티오만이나 르당 앞바다의 산호 위에서 스노클링을 하면, 맑은 물과 보호받는 물고기, 그리고 사전에 안내받은 "낚시 금지, 닻 내림 금지" 규칙은 단순한 예의가 아니라 — 법입니다. 그 뒤의 법령이 **1985년 어업법(Fisheries Act 1985)**, 말레이시아 법령집의 Act 317이며, 관광보다 훨씬 많은 것을 규율합니다. 이는 말레이시아가 수역 전반에서 어업을 관리하고 해양 생물을 보호하는 방식의 중추입니다.

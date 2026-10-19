@@ -32,15 +32,14 @@ faq:
     a: नहीं। दीपावली एक संघीय छुट्टी है जो देश के अधिकांश हिस्सों में मनाई जाती है लेकिन सारावाक में सार्वजनिक छुट्टी नहीं है — इसका एक उदाहरण कि राज्य-स्तरीय पालन कैसे भिन्न होता है।
 lang: hi
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The exact count of federal and state gazetted holidays changes year to year and by state; do not publish a fixed national total without confirming against the Prime Minister's Department / state gazettes.
   - 'Confirm the Employment Act 1955 paid-holiday minimum (commonly stated as 11: 5 compulsory + 6 elective) against the current Act text, as the Act was amended in recent years.'
@@ -70,7 +69,17 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: null
+sourceContentHash: "e97dca9642279cb4"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 मलेशिया भर में एक यात्रा, एक उत्पाद लॉन्च या एक पेरोल चक्र की योजना बनाएँ और आपको जल्द ही कुछ ऐसा पता चलेगा जो बाहरी लोगों को चौंका देता है: जो दिन कुआलालंपुर में सार्वजनिक छुट्टी है वह कुचिंग में एक सामान्य कार्यदिवस हो सकता है, और इसके विपरीत भी। मलेशिया में एक राष्ट्रीय छुट्टी सूची नहीं है बल्कि एक राष्ट्रीय परत और तेरह राज्य परतें एक-दूसरे के ऊपर रखी हुई हैं।

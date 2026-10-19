@@ -32,15 +32,14 @@ faq:
     a: เส้นทางหลังมัธยมได้แก่ ชั้นฟอร์มหกที่นำไปสู่ Sijil Tinggi Persekolahan Malaysia (STPM) โปรแกรมมหาวิทยาลัยเตรียมเข้า (matriculation) อนุปริญญา หลักสูตรปูพื้นฐาน (foundation) และเส้นทางเตรียมเข้ามหาวิทยาลัยอื่น ๆ ตามด้วยการศึกษาระดับอุดมศึกษาที่วิทยาลัยหรือมหาวิทยาลัย
 lang: th
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
-reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+reviewer: ashton-tan
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication.
   - Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy.
@@ -74,7 +73,17 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: null
+sourceContentHash: "4002ddcea89a998a"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: ashton-tan
 ---
 
 สำหรับเด็กที่เติบโตในมาเลเซีย คำถามที่ว่า "โรงเรียนไหน?" มีความหมายมากกว่าในหลายประเทศ ส่วนหนึ่งเป็นเรื่องระยะทางและชื่อเสียงเหมือนที่อื่น ๆ — แต่ก็ยังเป็นการเลือกระหว่างโรงเรียนชาติที่สอนด้วยภาษามาเลย์เป็นหลัก กับโรงเรียนประเภทชาติที่สอนด้วยภาษาจีนหรือทมิฬ ทั้งสองเป็นส่วนหนึ่งของระบบสาธารณะเดียวกัน ใช้หลักสูตรแห่งชาติเดียวกัน และนำไปสู่การสอบระดับชาติชุดเดียวกัน การเข้าใจว่าระบบนั้นประกอบกันอย่างไรคือก้าวแรกของการนำทางในระบบ

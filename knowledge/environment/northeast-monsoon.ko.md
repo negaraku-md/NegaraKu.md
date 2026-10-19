@@ -32,15 +32,14 @@ faq:
     a: 말레이시아 기상청(MetMalaysia)이 공식 웹사이트와 myCuaca 앱을 통해, 보통 며칠 전에 예보와 지속강우경보를 발령합니다.
 lang: ko
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - Exact onset/end dates vary each year and are announced by MetMalaysia per season; do not publish fixed dates — confirm the current season against MetMalaysia.
   - Confirm the affected-state breakdown and the typical peak month against the latest MetMalaysia seasonal forecast, as emphasis shifts between seasons.
@@ -70,7 +69,17 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: null
+sourceContentHash: "87793e0da2237cfd"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 해마다 세계의 나머지가 겨울로 접어드는 무렵, 말레이시아 동해안은 긴장합니다. 배를 뭍으로 끌어올리고, 섬 리조트는 문을 닫고, 수해 구호 센터를 준비하며, 저지대 마을의 가족들은 하천을 지켜봅니다. 이것이 **북동 몬순** — 말레이시아 날씨에 가장 큰 영향을 미치는 단일 요인이자, 이 나라가 연중 균일한 열대 강우가 아니라 사실상 뚜렷한 우기를 갖게 되는 이유입니다.

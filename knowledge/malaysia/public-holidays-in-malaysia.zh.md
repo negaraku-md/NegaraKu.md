@@ -32,15 +32,14 @@ faq:
     a: 不是。屠妖节是全国大部分地区通行的联邦假期，但在砂拉越并非公共假期——这正是州一级的实行方式如何不同的一个例子。
 lang: zh
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The exact count of federal and state gazetted holidays changes year to year and by state; do not publish a fixed national total without confirming against the Prime Minister's Department / state gazettes.
   - 'Confirm the Employment Act 1955 paid-holiday minimum (commonly stated as 11: 5 compulsory + 6 elective) against the current Act text, as the Act was amended in recent years.'
@@ -70,7 +69,17 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: null
+sourceContentHash: "e97dca9642279cb4"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 在马来西亚各地筹划一趟旅程、一场产品发布或一次发薪作业，你很快就会发现一件令外来者措手不及的事：在吉隆坡是公共假期的一天，在古晋可能只是寻常的工作日，反之亦然。与其说马来西亚有一份全国性的假期名单，不如说它是一个全国层级再叠上十三个州层级。

@@ -32,15 +32,14 @@ faq:
     a: يبدأ الاتصال بالرقم 997 عملية التجميد والتعقب السريعة، لكن ينبغي لك مع ذلك تقديم بلاغ رسمي للشرطة. وللتحقيق الأوسع في الاحتيال والغش، يعمل هذا جنبًا إلى جنب مع إدارة التحقيق في الجرائم التجارية (CCID) التابعة للشرطة.
 lang: ar
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - 'Launch date: sources give both 7 October 2022 and 12 October 2022; confirm the official establishment date against Bank Negara Malaysia / the police.'
   - Operational details (24/7 status, location at MCMC Tower 2, the National Fraud Portal) and any case statistics (e.g. calls handled, accounts frozen, funds recovered) change over time and vary between reports — confirm the latest figures against official NSRC/BNM/PDRM releases before citing numbers.
@@ -75,7 +74,17 @@ keywords:
   - mule account
   - freeze funds
   - online fraud
-sourceContentHash: null
+sourceContentHash: "2c5c608f3779680d"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 أسوأ لحظة في عملية احتيال هي تلك التي تلي إدراكك أنها كانت احتيالًا — حين تكون الأموال قد غادرت حسابك ولا تعرف ماذا تفعل، أو بمن تتصل. في ماليزيا، هناك جواب واحد لهذا السؤال: **اطلب الرقم 997.** فهذا الرقم يصل إلى **المركز الوطني للاستجابة للاحتيال (NSRC)**، والاتصال به بسرعة هو، حرفيًا، أفضل فرصة لك لاستعادة أموالك.

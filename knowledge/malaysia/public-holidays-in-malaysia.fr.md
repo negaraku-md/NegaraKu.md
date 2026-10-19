@@ -32,15 +32,14 @@ faq:
     a: Non. Deepavali est un jour férié fédéral observé dans la majeure partie du pays, mais ce n'est pas un jour férié au Sarawak — un exemple de la façon dont l'observance diffère au niveau de l'État.
 lang: fr
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The exact count of federal and state gazetted holidays changes year to year and by state; do not publish a fixed national total without confirming against the Prime Minister's Department / state gazettes.
   - 'Confirm the Employment Act 1955 paid-holiday minimum (commonly stated as 11: 5 compulsory + 6 elective) against the current Act text, as the Act was amended in recent years.'
@@ -70,7 +69,17 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: null
+sourceContentHash: "e97dca9642279cb4"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Planifiez un voyage, un lancement de produit ou une paie à travers la Malaisie et vous découvrez vite une chose qui prend les étrangers au dépourvu : un jour qui est férié à Kuala Lumpur peut être un jour ouvrable ordinaire à Kuching, et inversement. La Malaisie n'a pas tant une liste de jours fériés nationale qu'une couche nationale et treize couches d'État empilées les unes sur les autres.

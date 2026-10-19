@@ -32,15 +32,14 @@ faq:
     a: いいえ。半導体はより広範な電気・電子（E&E）部門の中で最大かつ最も価値の高い部分ですが、E&Eには家電、産業用電子機器、そして電化製品・照明・ケーブルといった電気製品も含まれます。
 lang: ja
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - '2024 semiconductor export value: MATRADE reports ~RM388 billion for semiconductor devices (ICs, transistors, valves); some media report ~RM437.5 billion on a broader ''semiconductor products'' definition. Confirm the exact figure and definition against MATRADE before publication.'
   - National Semiconductor Strategy targets vary across sources (e.g. share 7%→14% by 2029; investment figures of RM63 billion approved and an RM500 billion target). Confirm the official headline targets against the MITI/MIDA NSS source.
@@ -85,7 +84,17 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: null
+sourceContentHash: "b7649caa9c01d102"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 あなたが今これをスマートフォンやノートパソコンで読んでいるなら、そのチップの一つが人生の一部をマレーシアで過ごした可能性は十分にある――発明されたり、刷られたりしたのではなく、むき出しのシリコンの薄片から、回路基板にはんだ付けできる完成したパッケージ済み部品へと変えられたのだ。その静かで、華やかさのない工程こそ、マレーシアがエレクトロニクスの世界全体の中で最も重要な地位の一つを築いてきた場所である。

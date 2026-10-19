@@ -32,15 +32,14 @@ faq:
     a: No. Deepavali es un día festivo federal que se observa en la mayor parte del país, pero no es un día festivo en Sarawak, un ejemplo de cómo difiere la observancia a nivel estatal.
 lang: es
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The exact count of federal and state gazetted holidays changes year to year and by state; do not publish a fixed national total without confirming against the Prime Minister's Department / state gazettes.
   - 'Confirm the Employment Act 1955 paid-holiday minimum (commonly stated as 11: 5 compulsory + 6 elective) against the current Act text, as the Act was amended in recent years.'
@@ -70,7 +69,17 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: null
+sourceContentHash: "e97dca9642279cb4"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Planifica un viaje, el lanzamiento de un producto o una ejecución de nómina en toda Malasia y pronto descubrirás algo que toma por sorpresa a los de fuera: un día que es festivo en Kuala Lumpur puede ser un día laborable normal en Kuching, y viceversa. Malasia no tiene tanto una lista nacional de días festivos como una capa nacional y trece capas estatales apiladas una sobre otra.

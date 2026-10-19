@@ -32,15 +32,14 @@ faq:
     a: マレーシア気象局（MetMalaysia）が、通常は数日前の予告をもって、公式ウェブサイトとmyCuacaアプリを通じて予報と継続降雨警報を発出します。
 lang: ja
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - Exact onset/end dates vary each year and are announced by MetMalaysia per season; do not publish fixed dates — confirm the current season against MetMalaysia.
   - Confirm the affected-state breakdown and the typical peak month against the latest MetMalaysia seasonal forecast, as emphasis shifts between seasons.
@@ -70,7 +69,17 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: null
+sourceContentHash: "87793e0da2237cfd"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 毎年、世界の他の地域が冬へと向かうころ、マレーシアの東海岸は身構える。船は引き揚げられ、島のリゾートは戸を閉め、洪水救援センターが整えられ、低地の町々の家族は川を見守る。これが**北東モンスーン**――マレーシアの天候に対する単一で最大の影響であり、同国が年間を通じて一様な熱帯の雨ではなく、実質的にはっきりした雨季を持つ理由である。

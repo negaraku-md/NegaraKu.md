@@ -32,15 +32,14 @@ faq:
     a: El Departamento de Pesca de Malasia (Jabatan Perikanan Malaysia), encabezado por el Director General de Pesca, administra y hace cumplir la Ley, incluida la gestión de los parques marinos.
 lang: es
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative.
   - Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials.
@@ -72,7 +71,17 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: null
+sourceContentHash: "141e6c8974042935"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Haz esnórquel sobre un arrecife frente a Tioman o Redang, y el agua cristalina, los peces protegidos y las reglas de "prohibido pescar, prohibido anclar" de las que te informaron no son solo buenos modales: son la ley. La norma que las respalda es la **Ley de Pesca de 1985**, Act 317 en el código estatutario de Malasia, y rige mucho más que el turismo: es la columna vertebral de cómo Malasia gestiona la pesca y protege la vida marina en todas sus aguas.

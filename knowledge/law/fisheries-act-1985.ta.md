@@ -32,15 +32,14 @@ faq:
     a: மலேசிய மீன்வளத் துறை (Jabatan Perikanan Malaysia), மீன்வள இயக்குநர்-ஜெனரலால் தலைமை தாங்கப்படுகிறது, இச்சட்டத்தை நிர்வகிக்கிறது மற்றும் அமல்படுத்துகிறது, கடல் பூங்கா மேலாண்மை உட்பட.
 lang: ta
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative.
   - Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials.
@@ -72,7 +71,17 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: null
+sourceContentHash: "141e6c8974042935"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Tioman அல்லது Redang கடற்கரைக்கு அப்பால் ஒரு பவளப் பாறையின் மேல் ஸ்னார்கல் செய்யுங்கள், அந்தத் தெளிவான நீர், பாதுகாக்கப்பட்ட மீன்கள் மற்றும் நீங்கள் விளக்கப்பட்ட "மீன்பிடித்தல் இல்லை, நங்கூரமிடுதல் இல்லை" விதிகள் வெறும் நல்ல நடத்தை மட்டுமல்ல — அவை சட்டம். அவற்றுக்குப் பின்னால் உள்ள சட்டம் **1985 ஆம் ஆண்டு மீன்வளச் சட்டம்** (Fisheries Act 1985), மலேசியாவின் சட்டப் புத்தகத்தில் Act 317, மேலும் இது சுற்றுலாவை விட அதிகமாக ஆளுகிறது: மலேசியா தனது நீர்நிலைகள் முழுவதும் மீன்பிடித்தலை எவ்வாறு நிர்வகிக்கிறது மற்றும் கடல்வாழ் உயிரினங்களைப் பாதுகாக்கிறது என்பதன் முதுகெலும்பு இதுவே.

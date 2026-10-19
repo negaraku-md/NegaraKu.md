@@ -32,15 +32,14 @@ faq:
     a: मत्स्य महानिदेशक की अध्यक्षता वाला Department of Fisheries Malaysia (Jabatan Perikanan Malaysia), समुद्री उद्यान प्रबंधन सहित अधिनियम का प्रशासन करता और उसे लागू करता है।
 lang: hi
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative.
   - Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials.
@@ -72,7 +71,17 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: null
+sourceContentHash: "141e6c8974042935"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 तियोमान या रेडांग के पास किसी भित्ति पर स्नॉर्कल करें, और वह साफ़ पानी, संरक्षित मछलियाँ और "मछली न पकड़ें, लंगर न डालें" के नियम जिनके बारे में आपको बताया गया था — वे केवल अच्छे शिष्टाचार नहीं हैं, बल्कि कानून हैं। उनके पीछे की संविधि है **Fisheries Act 1985**, मलेशिया की संविधि-पुस्तिका में Act 317, और यह पर्यटन से कहीं अधिक को शासित करती है: यह इस बात की रीढ़ है कि मलेशिया अपने जल में मछली पकड़ने का प्रबंधन और समुद्री जीवन की रक्षा कैसे करता है।

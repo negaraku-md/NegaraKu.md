@@ -32,15 +32,14 @@ faq:
     a: تصدر دائرة الأرصاد الجوية الماليزية (MetMalaysia) التوقعات وتحذيرات الأمطار المتواصلة، عادةً قبل عدة أيام، عبر موقعها الرسمي وتطبيق myCuaca.
 lang: ar
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - Exact onset/end dates vary each year and are announced by MetMalaysia per season; do not publish fixed dates — confirm the current season against MetMalaysia.
   - Confirm the affected-state breakdown and the typical peak month against the latest MetMalaysia seasonal forecast, as emphasis shifts between seasons.
@@ -70,7 +69,17 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: null
+sourceContentHash: "87793e0da2237cfd"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 في كل عام، حين يتجه بقية العالم نحو الشتاء، يتأهّب الساحل الشرقي لماليزيا. فتُسحب القوارب إلى اليابسة، وتغلق منتجعات الجزر أبوابها، وتُجهَّز مراكز إغاثة الفيضانات، وتراقب الأسر في البلدات المنخفضة الأنهار. هذه هي **الرياح الموسمية الشمالية الشرقية** — أكبر مؤثّر منفرد في طقس ماليزيا، والسبب في أن للبلد فعليًا موسمًا ماطرًا متميزًا بدلًا من أمطار مدارية موحّدة على مدار السنة.

@@ -32,15 +32,14 @@ faq:
     a: Le Department of Fisheries Malaysia (Jabatan Perikanan Malaysia), dirigé par le Director-General of Fisheries, administre et fait appliquer la loi, y compris la gestion des parcs marins.
 lang: fr
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative.
   - Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials.
@@ -72,7 +71,17 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: null
+sourceContentHash: "141e6c8974042935"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Faites du snorkeling au-dessus d'un récif au large de Tioman ou de Redang, et l'eau claire, les poissons protégés et les règles « pas de pêche, pas de mouillage » qu'on vous a expliquées ne relèvent pas seulement du savoir-vivre — elles sont la loi. La loi qui les sous-tend est le **Fisheries Act 1985**, l'Act 317 du recueil des lois de la Malaisie, et il régit bien plus que le tourisme : il est l'épine dorsale de la façon dont la Malaisie gère la pêche et protège la vie marine à travers ses eaux.

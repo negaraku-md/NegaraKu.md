@@ -32,15 +32,14 @@ faq:
     a: Department of Fisheries Malaysia (Jabatan Perikanan Malaysia), yang dipimpin oleh Director-General of Fisheries, mengelola dan menegakkan undang-undang ini, termasuk pengelolaan taman laut.
 lang: id
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative.
   - Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials.
@@ -72,7 +71,17 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: null
+sourceContentHash: "141e6c8974042935"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Ber-snorkel di atas terumbu karang di lepas pantai Tioman atau Redang, dan air yang jernih, ikan yang terlindungi, serta aturan "dilarang menangkap ikan, dilarang berlabuh" yang telah diinformasikan kepada Anda bukan sekadar tata krama yang baik — itu adalah hukum. Undang-undang di baliknya adalah **Fisheries Act 1985**, Act 317 dalam kitab undang-undang Malaysia, dan ia mengatur jauh lebih banyak daripada sekadar pariwisata: ia adalah tulang punggung cara Malaysia mengelola penangkapan ikan dan melindungi kehidupan laut di seluruh perairannya.

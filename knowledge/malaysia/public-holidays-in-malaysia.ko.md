@@ -32,15 +32,14 @@ faq:
     a: 아닙니다. 디파발리는 나라 대부분에서 지키는 연방 공휴일이지만 사라왁에서는 공휴일이 아닙니다 — 주 단위 준수가 어떻게 다른지를 보여주는 한 예입니다.
 lang: ko
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The exact count of federal and state gazetted holidays changes year to year and by state; do not publish a fixed national total without confirming against the Prime Minister's Department / state gazettes.
   - 'Confirm the Employment Act 1955 paid-holiday minimum (commonly stated as 11: 5 compulsory + 6 elective) against the current Act text, as the Act was amended in recent years.'
@@ -70,7 +69,17 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: null
+sourceContentHash: "e97dca9642279cb4"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 말레이시아 전역에서 여행, 제품 출시, 급여 지급을 계획하다 보면, 외부인을 당황하게 하는 사실을 금방 발견합니다. 쿠알라룸푸르에서 공휴일인 날이 쿠칭에서는 평범한 근무일일 수 있고, 그 반대도 마찬가지입니다. 말레이시아에는 하나의 국가 공휴일 목록이 있다기보다, 하나의 국가 층과 그 위에 쌓인 열세 개의 주 층이 있습니다.

@@ -32,15 +32,14 @@ faq:
     a: Không. Deepavali là một ngày lễ liên bang được tuân theo ở hầu hết đất nước nhưng không phải là ngày lễ công ở Sarawak — một ví dụ về cách việc tuân theo ở cấp tiểu bang khác nhau.
 lang: vi
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The exact count of federal and state gazetted holidays changes year to year and by state; do not publish a fixed national total without confirming against the Prime Minister's Department / state gazettes.
   - 'Confirm the Employment Act 1955 paid-holiday minimum (commonly stated as 11: 5 compulsory + 6 elective) against the current Act text, as the Act was amended in recent years.'
@@ -70,7 +69,17 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: null
+sourceContentHash: "e97dca9642279cb4"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Hãy lên kế hoạch cho một chuyến đi, một đợt ra mắt sản phẩm hoặc một kỳ trả lương trên khắp Malaysia và bạn sẽ nhanh chóng phát hiện ra điều khiến người ngoài bất ngờ: một ngày là ngày lễ công ở Kuala Lumpur có thể là một ngày làm việc bình thường ở Kuching, và ngược lại. Malaysia không có một danh sách ngày lễ quốc gia duy nhất mà đúng hơn là một lớp quốc gia và mười ba lớp tiểu bang chồng lên nhau.

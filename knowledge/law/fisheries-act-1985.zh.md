@@ -32,15 +32,14 @@ faq:
     a: 大马渔业局（Jabatan Perikanan Malaysia）由渔业总监领导，负责管理与执行该法令，包括海洋公园的管理。
 lang: zh
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative.
   - Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials.
@@ -72,7 +71,17 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: null
+sourceContentHash: "141e6c8974042935"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 在刁曼岛或热浪岛外的珊瑚礁上浮潜，那清澈的海水、受保护的鱼群，以及行前被叮嘱的「禁止捕鱼、禁止抛锚」规则，不只是礼貌——它们就是法律。它们背后的法规是 **Fisheries Act 1985（1985 年渔业法令）**，即马来西亚法典中的 Act 317，它所规管的远不止旅游：它是马来西亚在全境水域管理捕鱼、保护海洋生物的骨干。

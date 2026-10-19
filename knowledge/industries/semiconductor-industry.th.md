@@ -32,15 +32,14 @@ faq:
     a: ไม่เหมือน เซมิคอนดักเตอร์เป็นสัดส่วนที่ใหญ่ที่สุดและมีมูลค่ามากที่สุดของภาคไฟฟ้าและอิเล็กทรอนิกส์ (E&E) ที่กว้างกว่า แต่ E&E ยังครอบคลุมอิเล็กทรอนิกส์สำหรับผู้บริโภค อิเล็กทรอนิกส์อุตสาหกรรม และผลิตภัณฑ์ไฟฟ้า เช่น เครื่องใช้ไฟฟ้า อุปกรณ์ให้แสงสว่าง และสายเคเบิล
 lang: th
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - '2024 semiconductor export value: MATRADE reports ~RM388 billion for semiconductor devices (ICs, transistors, valves); some media report ~RM437.5 billion on a broader ''semiconductor products'' definition. Confirm the exact figure and definition against MATRADE before publication.'
   - National Semiconductor Strategy targets vary across sources (e.g. share 7%→14% by 2029; investment figures of RM63 billion approved and an RM500 billion target). Confirm the official headline targets against the MITI/MIDA NSS source.
@@ -85,7 +84,17 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: null
+sourceContentHash: "b7649caa9c01d102"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 หากคุณกำลังอ่านข้อความนี้บนโทรศัพท์หรือแล็ปท็อป มีความเป็นไปได้จริงที่ชิปตัวหนึ่งของมันเคยใช้ช่วงหนึ่งของชีวิตอยู่ในมาเลเซีย — ไม่ใช่การถูกคิดค้นหรือพิมพ์ขึ้น แต่เป็นการแปรรูปจากแผ่นซิลิคอนเปล่าให้กลายเป็นชิ้นส่วนสำเร็จรูปที่บรรจุภัณฑ์เรียบร้อยพร้อมบัดกรีลงบนแผงวงจร ขั้นตอนที่เงียบ ๆ และไม่หวือหวานั้นคือจุดที่มาเลเซียได้สร้างตำแหน่งที่สำคัญที่สุดตำแหน่งหนึ่งในโลกอิเล็กทรอนิกส์ทั้งหมด

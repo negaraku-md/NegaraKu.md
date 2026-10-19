@@ -1,72 +1,86 @@
 ---
-topicId: "MY-LAW-0120"
-title: "The Fisheries Act 1985"
-seoTitle: "Fisheries Act 1985 (Act 317) Malaysia Explained"
-slug: "fisheries-act-1985"
-category: "law"
-subcategory: ["statutes"]
-summary: "The Fisheries Act 1985 (Act 317) is Malaysia's principal law governing fishing, fisheries management and the conservation of marine life, including the power to designate marine parks and reserves and to license fishing vessels."
-
-tier: "3"
-mode: "practical"
-contentType: "law"
-sensitivity: "none"
-
-answer: "The Fisheries Act 1985 (Act 317) is the main federal law for fisheries and marine conservation in Malaysian waters. It requires fishing vessels to be licensed, empowers the Minister to establish marine parks and marine reserves by gazette, and lets the government restrict or prohibit fishing in specified areas. It is administered by the Department of Fisheries Malaysia, headed by the Director-General of Fisheries. Activities that damage coral reefs and marine ecosystems inside marine parks are prohibited under the Act."
+topicId: MY-LAW-0120
+title: The Fisheries Act 1985
+seoTitle: Fisheries Act 1985 (Act 317) Malaysia Explained
+slug: fisheries-act-1985
+category: law
+subcategory:
+  - statutes
+summary: The Fisheries Act 1985 (Act 317) is Malaysia's principal law governing fishing, fisheries management and the conservation of marine life, including the power to designate marine parks and reserves and to license fishing vessels.
+tier: '3'
+mode: practical
+contentType: law
+sensitivity: none
+answer: The Fisheries Act 1985 (Act 317) is the main federal law for fisheries and marine conservation in Malaysian waters. It requires fishing vessels to be licensed, empowers the Minister to establish marine parks and marine reserves by gazette, and lets the government restrict or prohibit fishing in specified areas. It is administered by the Department of Fisheries Malaysia, headed by the Director-General of Fisheries. Activities that damage coral reefs and marine ecosystems inside marine parks are prohibited under the Act.
 keyTakeaways:
-  - "The Fisheries Act 1985 (Act 317) is Malaysia's principal law on fishing, fisheries management and marine conservation."
-  - "Fishing in Malaysian waters requires a licence; the Act sets out how licences for local and foreign fishing vessels are issued, refused, suspended and cancelled."
-  - "The Minister may establish marine parks and marine reserves by gazette order (Part IX); the Director-General of Fisheries supervises them."
-  - "Marine park zones generally extend two nautical miles from the lowest sea level (one nautical mile in some cases), and activities that damage coral reefs are prohibited there."
-  - "The Act is administered by the Department of Fisheries Malaysia (DOF); it has been amended since its original enactment."
-appliesTo: "Fishers, boat operators, divers and snorkellers, tour operators, conservationists and anyone using Malaysia's coastal and marine waters."
-
+  - The Fisheries Act 1985 (Act 317) is Malaysia's principal law on fishing, fisheries management and marine conservation.
+  - Fishing in Malaysian waters requires a licence; the Act sets out how licences for local and foreign fishing vessels are issued, refused, suspended and cancelled.
+  - The Minister may establish marine parks and marine reserves by gazette order (Part IX); the Director-General of Fisheries supervises them.
+  - Marine park zones generally extend two nautical miles from the lowest sea level (one nautical mile in some cases), and activities that damage coral reefs are prohibited there.
+  - The Act is administered by the Department of Fisheries Malaysia (DOF); it has been amended since its original enactment.
+appliesTo: Fishers, boat operators, divers and snorkellers, tour operators, conservationists and anyone using Malaysia's coastal and marine waters.
 faq:
-  - q: "What does the Fisheries Act 1985 cover?"
-    a: "It is Malaysia's principal fisheries law, covering the licensing of fishing vessels, the management and conservation of fisheries, the establishment of marine parks and reserves, and the power to restrict or prohibit fishing in specified areas. It is organised into several Parts, with marine parks and reserves dealt with in Part IX."
-  - q: "Do I need a licence to fish in Malaysia?"
-    a: "Fishing in Malaysian waters requires a licence under the Act, which sets out how licences for local and foreign fishing vessels are granted, refused, suspended, cancelled and renewed. Requirements differ for local versus foreign vessels — check with the Department of Fisheries for your situation."
-  - q: "What are marine parks under the Act?"
-    a: "Marine parks and marine reserves are protected sea areas the Minister may establish by gazette to protect aquatic life, support research and regulate recreation and other activities. Park zones generally extend two nautical miles from the lowest sea level (one nautical mile in some cases) and are supervised by the Director-General of Fisheries."
-  - q: "Is it illegal to damage coral in a Malaysian marine park?"
-    a: "Yes. Activities that damage coral reefs and marine ecosystems within marine parks are prohibited and illegal under the Fisheries Act 1985. Taking or harming protected marine life in these zones can carry penalties under the Act and its regulations."
-  - q: "Which agency enforces the Fisheries Act?"
-    a: "The Department of Fisheries Malaysia (Jabatan Perikanan Malaysia), headed by the Director-General of Fisheries, administers and enforces the Act, including marine park management."
-
-lang: "en"
-masterLanguage: "en"
-translationStatus: "master"
-
-status: "in-review"
+  - q: What does the Fisheries Act 1985 cover?
+    a: It is Malaysia's principal fisheries law, covering the licensing of fishing vessels, the management and conservation of fisheries, the establishment of marine parks and reserves, and the power to restrict or prohibit fishing in specified areas. It is organised into several Parts, with marine parks and reserves dealt with in Part IX.
+  - q: Do I need a licence to fish in Malaysia?
+    a: Fishing in Malaysian waters requires a licence under the Act, which sets out how licences for local and foreign fishing vessels are granted, refused, suspended, cancelled and renewed. Requirements differ for local versus foreign vessels — check with the Department of Fisheries for your situation.
+  - q: What are marine parks under the Act?
+    a: Marine parks and marine reserves are protected sea areas the Minister may establish by gazette to protect aquatic life, support research and regulate recreation and other activities. Park zones generally extend two nautical miles from the lowest sea level (one nautical mile in some cases) and are supervised by the Director-General of Fisheries.
+  - q: Is it illegal to damage coral in a Malaysian marine park?
+    a: Yes. Activities that damage coral reefs and marine ecosystems within marine parks are prohibited and illegal under the Fisheries Act 1985. Taking or harming protected marine life in these zones can carry penalties under the Act and its regulations.
+  - q: Which agency enforces the Fisheries Act?
+    a: The Department of Fisheries Malaysia (Jabatan Perikanan Malaysia), headed by the Director-General of Fisheries, administers and enforces the Act, including marine park management.
+lang: en
+masterLanguage: en
+translationStatus: master
+status: published
 aiAssisted: true
 reviewer: null
-assignee: "ashton-tan"
-claimedAt: 2026-10-19
-revision: null
-
-created: 2026-10-19
-updated: 2026-10-19
+assignee: null
+revision: 0
+created: '2026-10-19'
+updated: '2026-10-19'
 verificationNeeded:
-  - "The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative."
-  - "Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials."
-  - "Confirm current licensing categories and penalty provisions against the Department of Fisheries before relying on specifics."
-
+  - The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative.
+  - Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials.
+  - Confirm current licensing categories and penalty provisions against the Department of Fisheries before relying on specifics.
 sources:
-  - title: "Fisheries Act 1985 (Act 317)"
-    publisher: "Attorney General's Chambers of Malaysia (AGC)"
-  - title: "Marine Parks — locations and information"
-    url: "https://marinepark.dof.gov.my/en/locations/marine-parks/"
-    publisher: "Department of Fisheries Malaysia (DOF)"
-  - title: "Fisheries Act 1985 (No. 317 of 1985) — legislation record"
-    url: "https://leap.unep.org/en/countries/my/national-legislation/fisheries-act-1985-no-317-1985"
-    publisher: "UNEP Law and Environment Assistance Platform (secondary reference)"
-
-entity: "Fisheries Act 1985"
+  - title: Fisheries Act 1985 (Act 317)
+    publisher: Attorney General's Chambers of Malaysia (AGC)
+  - title: Marine Parks — locations and information
+    url: https://marinepark.dof.gov.my/en/locations/marine-parks/
+    publisher: Department of Fisheries Malaysia (DOF)
+  - title: Fisheries Act 1985 (No. 317 of 1985) — legislation record
+    url: https://leap.unep.org/en/countries/my/national-legislation/fisheries-act-1985-no-317-1985
+    publisher: UNEP Law and Environment Assistance Platform (secondary reference)
+entity: Fisheries Act 1985
 relations:
-  - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
-  - { rel: "related-to", to: "east-coast-islands-guide" }
-related: ["east-coast-islands-guide"]
-keywords: ["Fisheries Act 1985", "Act 317", "Malaysia fisheries law", "marine park", "marine reserve", "fishing licence", "Department of Fisheries Malaysia", "coral reef protection", "prohibited fishing areas"]
+  - rel: administered-by
+    to: department-of-fisheries-malaysia
+  - rel: related-to
+    to: east-coast-islands-guide
+related:
+  - east-coast-islands-guide
+keywords:
+  - Fisheries Act 1985
+  - Act 317
+  - Malaysia fisheries law
+  - marine park
+  - marine reserve
+  - fishing licence
+  - Department of Fisheries Malaysia
+  - coral reef protection
+  - prohibited fishing areas
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Snorkel over a reef off Tioman or Redang, and the clear water, the protected fish and the "no fishing, no anchoring" rules you were briefed on are not just good manners — they are the law. The statute behind them is the **Fisheries Act 1985**, Act 317 in Malaysia's statute book, and it governs far more than tourism: it is the backbone of how Malaysia manages fishing and protects marine life across its waters.

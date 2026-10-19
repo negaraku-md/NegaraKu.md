@@ -32,15 +32,14 @@ faq:
     a: Las trayectorias postsecundarias incluyen el Sexto Curso, que conduce al Sijil Tinggi Persekolahan Malaysia (STPM), los programas de matriculación, los diplomas, los cursos de fundamentos y otras vías preuniversitarias, seguidos de estudios terciarios en un colegio universitario o una universidad.
 lang: es
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
-reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+reviewer: ashton-tan
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication.
   - Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy.
@@ -74,7 +73,17 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: null
+sourceContentHash: "4002ddcea89a998a"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: ashton-tan
 ---
 
 Para un niño que crece en Malasia, la pregunta "¿qué escuela?" encierra más significado que en muchos países. En parte tiene que ver con la distancia y la reputación, como en todas partes, pero también es una elección entre una escuela nacional que enseña principalmente en malayo y una escuela de tipo nacional que enseña en chino o tamil. Ambas forman parte del mismo sistema público, siguen el mismo plan de estudios nacional y conducen a los mismos exámenes nacionales. Entender cómo encaja ese sistema es el primer paso para desenvolverse en él.

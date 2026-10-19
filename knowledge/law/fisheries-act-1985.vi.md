@@ -32,15 +32,14 @@ faq:
     a: Cục Nghề cá Malaysia (Jabatan Perikanan Malaysia), đứng đầu là Tổng Giám đốc Nghề cá, quản lý và thực thi Đạo luật, bao gồm cả việc quản lý công viên biển.
 lang: vi
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative.
   - Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials.
@@ -72,7 +71,17 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: null
+sourceContentHash: "141e6c8974042935"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Hãy lặn ống thở trên một rạn san hô ngoài khơi Tioman hoặc Redang, và làn nước trong vắt, những con cá được bảo vệ cùng các quy tắc "không đánh bắt, không thả neo" mà bạn đã được dặn dò không chỉ là phép lịch sự — chúng là luật. Đạo luật đứng sau chúng là **Đạo luật Nghề cá 1985 (Fisheries Act 1985)**, Act 317 trong bộ luật của Malaysia, và nó điều chỉnh nhiều thứ hơn là du lịch: nó là xương sống của cách Malaysia quản lý việc đánh bắt cá và bảo vệ sinh vật biển trên khắp vùng biển của mình.

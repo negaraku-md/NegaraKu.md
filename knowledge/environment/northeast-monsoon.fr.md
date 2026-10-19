@@ -32,15 +32,14 @@ faq:
     a: Le Malaysian Meteorological Department (MetMalaysia) émet des prévisions et des avertissements de pluie continue, généralement avec plusieurs jours de préavis, via son site officiel et l'application myCuaca.
 lang: fr
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - Exact onset/end dates vary each year and are announced by MetMalaysia per season; do not publish fixed dates — confirm the current season against MetMalaysia.
   - Confirm the affected-state breakdown and the typical peak month against the latest MetMalaysia seasonal forecast, as emphasis shifts between seasons.
@@ -70,7 +69,17 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: null
+sourceContentHash: "87793e0da2237cfd"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Chaque année, à peu près au moment où le reste du monde entre dans l'hiver, la côte est de la Malaisie se prépare. On remonte les bateaux, les complexes insulaires ferment leurs portes, les centres de secours contre les inondations sont préparés, et les familles des villes de basse altitude surveillent les rivières. C'est la **mousson du nord-est** — la plus grande influence sur la météo de la Malaisie, et la raison pour laquelle le pays connaît en pratique une saison humide distincte plutôt qu'une pluie tropicale uniforme toute l'année.

@@ -1,70 +1,84 @@
 ---
-topicId: "MY-LIV-0900"
-title: "Public Holidays in Malaysia"
-seoTitle: "Public Holidays in Malaysia: How They Work"
-slug: "public-holidays-in-malaysia"
-category: "malaysia"
-subcategory: ["daily-life"]
-summary: "Malaysia's public holidays come in two layers — national (federal) holidays observed everywhere and state holidays that differ by state — reflecting the country's religions, royalty and regional identities, with employees guaranteed a minimum number of paid holidays by law."
-
-tier: "3"
-mode: "practical"
-contentType: "guide"
-sensitivity: "none"
-
-answer: "Malaysia has two layers of public holidays: federal (national) holidays gazetted for the whole country, and state holidays declared by each state and federal territory. This is why the number of public holidays — and some of the dates — differ depending on where you are. Holidays reflect the country's major religions (Islam, Buddhism, Christianity, Hinduism), its royal calendar (the King's and the state Rulers' birthdays) and national milestones. Separately, the Employment Act 1955 guarantees private-sector employees a minimum number of paid public holidays each year."
+topicId: MY-LIV-0900
+title: Public Holidays in Malaysia
+seoTitle: 'Public Holidays in Malaysia: How They Work'
+slug: public-holidays-in-malaysia
+category: malaysia
+subcategory:
+  - daily-life
+summary: Malaysia's public holidays come in two layers — national (federal) holidays observed everywhere and state holidays that differ by state — reflecting the country's religions, royalty and regional identities, with employees guaranteed a minimum number of paid holidays by law.
+tier: '3'
+mode: practical
+contentType: guide
+sensitivity: none
+answer: 'Malaysia has two layers of public holidays: federal (national) holidays gazetted for the whole country, and state holidays declared by each state and federal territory. This is why the number of public holidays — and some of the dates — differ depending on where you are. Holidays reflect the country''s major religions (Islam, Buddhism, Christianity, Hinduism), its royal calendar (the King''s and the state Rulers'' birthdays) and national milestones. Separately, the Employment Act 1955 guarantees private-sector employees a minimum number of paid public holidays each year.'
 keyTakeaways:
-  - "Holidays exist on two levels: federal (nationwide) and state (which vary by state) — so the total differs by location."
-  - "Public holidays are gazetted under the Holidays Act 1951; private-sector paid-holiday entitlements come from the Employment Act 1955."
-  - "The Employment Act 1955 guarantees private-sector employees at least 11 paid public holidays a year (5 compulsory + 6 chosen by the employer)."
-  - "Holidays reflect multiple religions, the royal calendar (the Yang di-Pertuan Agong's and the state Rulers' birthdays) and national days such as Merdeka (31 August) and Malaysia Day (16 September)."
-  - "Some holidays are state-specific — for example, Deepavali is not a public holiday in Sarawak — and Islamic-calendar dates shift each year with the lunar calendar."
-appliesTo: "Employees, employers, HR teams, travellers and new residents planning around Malaysia's holidays."
-
+  - 'Holidays exist on two levels: federal (nationwide) and state (which vary by state) — so the total differs by location.'
+  - Public holidays are gazetted under the Holidays Act 1951; private-sector paid-holiday entitlements come from the Employment Act 1955.
+  - The Employment Act 1955 guarantees private-sector employees at least 11 paid public holidays a year (5 compulsory + 6 chosen by the employer).
+  - Holidays reflect multiple religions, the royal calendar (the Yang di-Pertuan Agong's and the state Rulers' birthdays) and national days such as Merdeka (31 August) and Malaysia Day (16 September).
+  - Some holidays are state-specific — for example, Deepavali is not a public holiday in Sarawak — and Islamic-calendar dates shift each year with the lunar calendar.
+appliesTo: Employees, employers, HR teams, travellers and new residents planning around Malaysia's holidays.
 faq:
-  - q: "How many public holidays does Malaysia have?"
-    a: "There is no single national number, because state holidays vary. There are federal holidays observed nationwide plus state holidays declared by each state, so the total you experience depends on which state you are in. For employment purposes, the Employment Act 1955 sets a minimum of 11 paid public holidays a year for private-sector employees."
-  - q: "Why are public holidays different in different states?"
-    a: "Malaysia is a federation. The federal government gazettes national holidays, but each state and federal territory also declares its own holidays — including its Ruler's birthday and dates of local religious or cultural significance — so the list differs by state."
-  - q: "How many paid public holidays are employees entitled to?"
-    a: "Under the Employment Act 1955, covered private-sector employees are entitled to at least 11 paid public holidays per year: five compulsory holidays plus six more chosen by the employer from the gazetted list."
-  - q: "Why do the dates of Hari Raya and some other holidays change each year?"
-    a: "Islamic holidays such as Hari Raya Aidilfitri and Aidiladha follow the lunar Islamic calendar and are confirmed by moon sighting, so their Gregorian dates move each year. Some Hindu, Buddhist and Chinese festival dates also shift with their respective calendars."
-  - q: "Is Deepavali a public holiday everywhere in Malaysia?"
-    a: "No. Deepavali is a federal holiday observed in most of the country but is not a public holiday in Sarawak — one example of how state-level observance differs."
-
-lang: "en"
-masterLanguage: "en"
-translationStatus: "master"
-
-status: "in-review"
+  - q: How many public holidays does Malaysia have?
+    a: There is no single national number, because state holidays vary. There are federal holidays observed nationwide plus state holidays declared by each state, so the total you experience depends on which state you are in. For employment purposes, the Employment Act 1955 sets a minimum of 11 paid public holidays a year for private-sector employees.
+  - q: Why are public holidays different in different states?
+    a: Malaysia is a federation. The federal government gazettes national holidays, but each state and federal territory also declares its own holidays — including its Ruler's birthday and dates of local religious or cultural significance — so the list differs by state.
+  - q: How many paid public holidays are employees entitled to?
+    a: 'Under the Employment Act 1955, covered private-sector employees are entitled to at least 11 paid public holidays per year: five compulsory holidays plus six more chosen by the employer from the gazetted list.'
+  - q: Why do the dates of Hari Raya and some other holidays change each year?
+    a: Islamic holidays such as Hari Raya Aidilfitri and Aidiladha follow the lunar Islamic calendar and are confirmed by moon sighting, so their Gregorian dates move each year. Some Hindu, Buddhist and Chinese festival dates also shift with their respective calendars.
+  - q: Is Deepavali a public holiday everywhere in Malaysia?
+    a: No. Deepavali is a federal holiday observed in most of the country but is not a public holiday in Sarawak — one example of how state-level observance differs.
+lang: en
+masterLanguage: en
+translationStatus: master
+status: published
 aiAssisted: true
 reviewer: null
-assignee: "ashton-tan"
-claimedAt: 2026-10-19
-revision: null
-
-created: 2026-10-19
-updated: 2026-10-19
+assignee: null
+revision: 0
+created: '2026-10-19'
+updated: '2026-10-19'
 verificationNeeded:
-  - "The exact count of federal and state gazetted holidays changes year to year and by state; do not publish a fixed national total without confirming against the Prime Minister's Department / state gazettes."
-  - "Confirm the Employment Act 1955 paid-holiday minimum (commonly stated as 11: 5 compulsory + 6 elective) against the current Act text, as the Act was amended in recent years."
-  - "State-specific observances (e.g. Deepavali not gazetted in Sarawak; state Rulers' birthdays) should be checked against the relevant state gazette before relying on any single date."
-
+  - The exact count of federal and state gazetted holidays changes year to year and by state; do not publish a fixed national total without confirming against the Prime Minister's Department / state gazettes.
+  - 'Confirm the Employment Act 1955 paid-holiday minimum (commonly stated as 11: 5 compulsory + 6 elective) against the current Act text, as the Act was amended in recent years.'
+  - State-specific observances (e.g. Deepavali not gazetted in Sarawak; state Rulers' birthdays) should be checked against the relevant state gazette before relying on any single date.
 sources:
-  - title: "Holidays Act 1951 (Act 369)"
-    publisher: "Attorney General's Chambers of Malaysia (AGC)"
-  - title: "Employment Act 1955 (Act 265), section 60D — paid public holidays"
-    publisher: "Attorney General's Chambers of Malaysia (AGC)"
-  - title: "Official public holidays calendar"
-    url: "https://www.malaysia.gov.my/portal/content/30678"
-    publisher: "Government of Malaysia (MyGov)"
-
-entity: "Public holidays in Malaysia"
+  - title: Holidays Act 1951 (Act 369)
+    publisher: Attorney General's Chambers of Malaysia (AGC)
+  - title: Employment Act 1955 (Act 265), section 60D — paid public holidays
+    publisher: Attorney General's Chambers of Malaysia (AGC)
+  - title: Official public holidays calendar
+    url: https://www.malaysia.gov.my/portal/content/30678
+    publisher: Government of Malaysia (MyGov)
+entity: Public holidays in Malaysia
 relations:
-  - { rel: "related-to", to: "academic-calendar-and-school-holidays" }
-related: ["academic-calendar-and-school-holidays"]
-keywords: ["public holidays Malaysia", "Malaysia holidays", "gazetted holidays", "state holidays", "federal holidays", "Employment Act 1955", "Holidays Act 1951", "paid public holidays", "Hari Raya", "Deepavali"]
+  - rel: related-to
+    to: academic-calendar-and-school-holidays
+related:
+  - academic-calendar-and-school-holidays
+keywords:
+  - public holidays Malaysia
+  - Malaysia holidays
+  - gazetted holidays
+  - state holidays
+  - federal holidays
+  - Employment Act 1955
+  - Holidays Act 1951
+  - paid public holidays
+  - Hari Raya
+  - Deepavali
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Plan a trip, a product launch or a payroll run across Malaysia and you quickly discover something that catches outsiders off guard: a day that is a public holiday in Kuala Lumpur may be an ordinary working day in Kuching, and vice versa. Malaysia does not have one national holiday list so much as a national layer and thirteen state layers stacked on top of each other.

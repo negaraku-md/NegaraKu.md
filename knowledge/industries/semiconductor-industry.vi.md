@@ -32,15 +32,14 @@ faq:
     a: Không. Bán dẫn là phần lớn nhất và có giá trị nhất của lĩnh vực điện và điện tử (E&E) rộng hơn, nhưng E&E còn bao gồm điện tử tiêu dùng, điện tử công nghiệp và các sản phẩm điện như đồ gia dụng, chiếu sáng và dây cáp.
 lang: vi
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - '2024 semiconductor export value: MATRADE reports ~RM388 billion for semiconductor devices (ICs, transistors, valves); some media report ~RM437.5 billion on a broader ''semiconductor products'' definition. Confirm the exact figure and definition against MATRADE before publication.'
   - National Semiconductor Strategy targets vary across sources (e.g. share 7%→14% by 2029; investment figures of RM63 billion approved and an RM500 billion target). Confirm the official headline targets against the MITI/MIDA NSS source.
@@ -85,7 +84,17 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: null
+sourceContentHash: "b7649caa9c01d102"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Nếu bạn đang đọc bài này trên điện thoại hoặc máy tính xách tay, có khả năng thật sự rằng một trong những con chip của thiết bị đó đã trải qua một phần vòng đời của nó tại Malaysia — không phải được phát minh hay in ra, mà được biến từ một lát silicon trần thành một linh kiện hoàn chỉnh, đã đóng gói, sẵn sàng để hàn lên bảng mạch. Bước đi lặng lẽ, không hào nhoáng đó chính là nơi Malaysia đã xây dựng một trong những vị thế quan trọng nhất trong toàn bộ thế giới điện tử.

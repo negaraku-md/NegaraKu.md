@@ -32,15 +32,14 @@ faq:
     a: उच्चतर-माध्यमिक मार्गों में Form Six शामिल है जो Sijil Tinggi Persekolahan Malaysia (STPM) की ओर ले जाता है, मैट्रिकुलेशन कार्यक्रम, डिप्लोमा, फाउंडेशन पाठ्यक्रम और अन्य पूर्व-विश्वविद्यालय मार्ग, जिसके बाद कॉलेज या विश्वविद्यालय में तृतीयक पढ़ाई होती है।
 lang: hi
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
-reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+reviewer: ashton-tan
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication.
   - Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy.
@@ -74,7 +73,17 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: null
+sourceContentHash: "4002ddcea89a998a"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: ashton-tan
 ---
 
 मलेशिया में बड़े हो रहे बच्चे के लिए, "कौन-सा स्कूल?" का सवाल कई देशों की तुलना में अधिक अर्थ रखता है। यह आंशिक रूप से दूरी और प्रतिष्ठा के बारे में है, जैसा हर जगह होता है — लेकिन यह एक राष्ट्रीय विद्यालय, जो मुख्यतः मलय में पढ़ाता है, और एक राष्ट्रीय-प्रकार विद्यालय, जो चीनी या तमिल में पढ़ाता है, के बीच एक चुनाव भी है। दोनों एक ही सार्वजनिक प्रणाली का हिस्सा हैं, एक ही राष्ट्रीय पाठ्यक्रम का पालन करते हैं, और एक ही राष्ट्रीय परीक्षाओं की ओर ले जाते हैं। यह प्रणाली किस प्रकार एक साथ जुड़ती है, यह समझना इसे समझने-समझाने की पहली कदम है।

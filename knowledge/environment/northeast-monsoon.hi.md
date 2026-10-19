@@ -32,15 +32,14 @@ faq:
     a: Malaysian Meteorological Department (MetMalaysia) अपनी आधिकारिक वेबसाइट और myCuaca ऐप के माध्यम से पूर्वानुमान और लगातार बारिश की चेतावनियाँ (Continuous Rain Warnings) जारी करता है, आमतौर पर कई दिनों की सूचना के साथ।
 lang: hi
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - Exact onset/end dates vary each year and are announced by MetMalaysia per season; do not publish fixed dates — confirm the current season against MetMalaysia.
   - Confirm the affected-state breakdown and the typical peak month against the latest MetMalaysia seasonal forecast, as emphasis shifts between seasons.
@@ -70,7 +69,17 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: null
+sourceContentHash: "87793e0da2237cfd"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 हर साल, लगभग उसी समय जब बाकी दुनिया सर्दियों की ओर बढ़ रही होती है, मलेशिया का पूर्वी तट खुद को तैयार कर लेता है। नावें ऊपर खींच ली जाती हैं, द्वीप रिज़ॉर्ट अपने दरवाज़े बंद कर देते हैं, बाढ़-राहत केंद्र तैयार किए जाते हैं, और निचले इलाकों के कस्बों के परिवार नदियों पर नज़र रखते हैं। यह है **पूर्वोत्तर मानसून** — मलेशिया के मौसम पर सबसे बड़ा एकल प्रभाव, और वह कारण जिससे देश में साल भर एक समान उष्णकटिबंधीय बारिश के बजाय प्रभावी रूप से एक अलग बरसात का मौसम होता है।

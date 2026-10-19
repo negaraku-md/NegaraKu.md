@@ -1,72 +1,88 @@
 ---
-topicId: "MY-EDU-0001"
-title: "The Malaysian School System"
-seoTitle: "The Malaysian School System Explained"
-slug: "malaysian-school-system"
-category: "education"
-subcategory: ["schooling"]
-summary: "Malaysia's school system runs from preschool through primary and secondary education under the Ministry of Education and the Education Act 1996, offering national (Malay-medium) and national-type (Chinese- or Tamil-medium) primary schools within a shared national curriculum."
-
-tier: "2"
-mode: "practical"
-contentType: "guide"
-sensitivity: "race"
-
-answer: "Malaysian schooling is organised into preschool, six years of primary education (compulsory from age six), and five years of secondary education, all under the Ministry of Education and governed mainly by the Education Act 1996. Public primary schools come in two types: national schools, which teach mainly in Malay, and national-type schools, which teach in Chinese or Tamil while keeping Malay and English as compulsory subjects. Both follow the national curriculum. Secondary school ends with the Sijil Pelajaran Malaysia (SPM) examination, after which students move to post-secondary study such as Form Six, matriculation or pre-university programmes."
+topicId: MY-EDU-0001
+title: The Malaysian School System
+seoTitle: The Malaysian School System Explained
+slug: malaysian-school-system
+category: education
+subcategory:
+  - schooling
+summary: Malaysia's school system runs from preschool through primary and secondary education under the Ministry of Education and the Education Act 1996, offering national (Malay-medium) and national-type (Chinese- or Tamil-medium) primary schools within a shared national curriculum.
+tier: '2'
+mode: practical
+contentType: guide
+sensitivity: race
+answer: 'Malaysian schooling is organised into preschool, six years of primary education (compulsory from age six), and five years of secondary education, all under the Ministry of Education and governed mainly by the Education Act 1996. Public primary schools come in two types: national schools, which teach mainly in Malay, and national-type schools, which teach in Chinese or Tamil while keeping Malay and English as compulsory subjects. Both follow the national curriculum. Secondary school ends with the Sijil Pelajaran Malaysia (SPM) examination, after which students move to post-secondary study such as Form Six, matriculation or pre-university programmes.'
 keyTakeaways:
-  - "The system is run by the Ministry of Education (MOE) and governed mainly by the Education Act 1996; each state also has an education department."
-  - "Schooling has five stages: preschool, primary, secondary, post-secondary and tertiary."
-  - "Primary education is compulsory and lasts six years; a child who turns six by the start of the school year must be enrolled."
-  - "Public primary schools are 'national' (mainly Malay-medium) or 'national-type' (Chinese- or Tamil-medium) — the latter are the vernacular schools — but all follow the national curriculum, with Malay and English compulsory."
-  - "Secondary school runs five years (Forms 1–5) and ends with the SPM examination; post-secondary options include Form Six (STPM) and matriculation."
-appliesTo: "Parents, students, new residents, employers and anyone trying to understand how schooling in Malaysia is structured."
-
+  - The system is run by the Ministry of Education (MOE) and governed mainly by the Education Act 1996; each state also has an education department.
+  - 'Schooling has five stages: preschool, primary, secondary, post-secondary and tertiary.'
+  - Primary education is compulsory and lasts six years; a child who turns six by the start of the school year must be enrolled.
+  - Public primary schools are 'national' (mainly Malay-medium) or 'national-type' (Chinese- or Tamil-medium) — the latter are the vernacular schools — but all follow the national curriculum, with Malay and English compulsory.
+  - Secondary school runs five years (Forms 1–5) and ends with the SPM examination; post-secondary options include Form Six (STPM) and matriculation.
+appliesTo: Parents, students, new residents, employers and anyone trying to understand how schooling in Malaysia is structured.
 faq:
-  - q: "What are the stages of schooling in Malaysia?"
-    a: "Five: preschool (kindergarten), primary education (six years), secondary education (five years, Forms 1–5), post-secondary education (such as Form Six/STPM or matriculation) and tertiary education (colleges and universities)."
-  - q: "What is the difference between national and national-type schools?"
-    a: "Both are government or government-aided primary schools following the national curriculum. National schools teach mainly in Malay; national-type schools teach in Chinese or Tamil, with Malay (the national language) and English as compulsory subjects. National-type schools are commonly called vernacular schools."
-  - q: "Is primary school compulsory in Malaysia?"
-    a: "Yes. Under the Education Act 1996 (as amended in 2002), primary education is compulsory for Malaysian children, who must be enrolled when they reach six years of age by the start of the school year."
-  - q: "What exam do students take at the end of secondary school?"
-    a: "The Sijil Pelajaran Malaysia (SPM), the Malaysian Certificate of Education, taken at the end of Form 5 (upper secondary)."
-  - q: "What comes after SPM?"
-    a: "Post-secondary pathways include Form Six leading to the Sijil Tinggi Persekolahan Malaysia (STPM), matriculation programmes, diplomas, foundation courses and other pre-university routes, followed by tertiary study at a college or university."
-
-lang: "en"
-masterLanguage: "en"
-translationStatus: "master"
-
-status: "in-review"
+  - q: What are the stages of schooling in Malaysia?
+    a: 'Five: preschool (kindergarten), primary education (six years), secondary education (five years, Forms 1–5), post-secondary education (such as Form Six/STPM or matriculation) and tertiary education (colleges and universities).'
+  - q: What is the difference between national and national-type schools?
+    a: Both are government or government-aided primary schools following the national curriculum. National schools teach mainly in Malay; national-type schools teach in Chinese or Tamil, with Malay (the national language) and English as compulsory subjects. National-type schools are commonly called vernacular schools.
+  - q: Is primary school compulsory in Malaysia?
+    a: Yes. Under the Education Act 1996 (as amended in 2002), primary education is compulsory for Malaysian children, who must be enrolled when they reach six years of age by the start of the school year.
+  - q: What exam do students take at the end of secondary school?
+    a: The Sijil Pelajaran Malaysia (SPM), the Malaysian Certificate of Education, taken at the end of Form 5 (upper secondary).
+  - q: What comes after SPM?
+    a: Post-secondary pathways include Form Six leading to the Sijil Tinggi Persekolahan Malaysia (STPM), matriculation programmes, diplomas, foundation courses and other pre-university routes, followed by tertiary study at a college or university.
+lang: en
+masterLanguage: en
+translationStatus: master
+status: published
 aiAssisted: true
-reviewer: null
-assignee: "ashton-tan"
-claimedAt: 2026-10-19
-revision: null
-
-created: 2026-10-19
-updated: 2026-10-19
+reviewer: ashton-tan
+assignee: null
+revision: 0
+created: '2026-10-19'
+updated: '2026-10-19'
 verificationNeeded:
-  - "UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication."
-  - "Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy."
-  - "Confirm current post-secondary structure (Form Six/STPM, matriculation intake) against the MOE, as policy details change between cohorts."
-
+  - UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication.
+  - Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy.
+  - Confirm current post-secondary structure (Form Six/STPM, matriculation intake) against the MOE, as policy details change between cohorts.
 sources:
-  - title: "Education Act 1996 (Act 550)"
-    publisher: "Attorney General's Chambers of Malaysia (AGC)"
-  - title: "Ministry of Education Malaysia — official portal"
-    url: "https://www.moe.gov.my/"
-    publisher: "Ministry of Education Malaysia (MOE)"
-  - title: "TIMSS 2023 — Malaysia country report"
-    url: "https://timss2023.org/wp-content/uploads/2024/10/Malaysia.pdf"
-    publisher: "TIMSS & PIRLS International Study Center / Boston College"
-
-entity: "Education system of Malaysia"
+  - title: Education Act 1996 (Act 550)
+    publisher: Attorney General's Chambers of Malaysia (AGC)
+  - title: Ministry of Education Malaysia — official portal
+    url: https://www.moe.gov.my/
+    publisher: Ministry of Education Malaysia (MOE)
+  - title: TIMSS 2023 — Malaysia country report
+    url: https://timss2023.org/wp-content/uploads/2024/10/Malaysia.pdf
+    publisher: TIMSS & PIRLS International Study Center / Boston College
+entity: Education system of Malaysia
 relations:
-  - { rel: "related-to", to: "academic-calendar-and-school-holidays" }
-  - { rel: "related-to", to: "enrolling-in-a-government-school" }
-related: ["academic-calendar-and-school-holidays", "enrolling-in-a-government-school"]
-keywords: ["Malaysian school system", "Malaysia education", "national schools", "national-type schools", "vernacular schools", "SJKC", "SJKT", "SPM", "Education Act 1996", "Ministry of Education Malaysia"]
+  - rel: related-to
+    to: academic-calendar-and-school-holidays
+  - rel: related-to
+    to: enrolling-in-a-government-school
+related:
+  - academic-calendar-and-school-holidays
+  - enrolling-in-a-government-school
+keywords:
+  - Malaysian school system
+  - Malaysia education
+  - national schools
+  - national-type schools
+  - vernacular schools
+  - SJKC
+  - SJKT
+  - SPM
+  - Education Act 1996
+  - Ministry of Education Malaysia
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: ashton-tan
 ---
 
 For a child growing up in Malaysia, the question "which school?" carries more meaning than in many countries. It is partly about distance and reputation, as everywhere — but it is also a choice between a national school that teaches mainly in Malay and a national-type school that teaches in Chinese or Tamil. Both are part of the same public system, follow the same national curriculum, and lead to the same national examinations. Understanding how that system fits together is the first step to navigating it.

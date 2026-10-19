@@ -32,15 +32,14 @@ faq:
     a: Jalur pascamenengah meliputi Form Six yang mengarah ke Sijil Tinggi Persekolahan Malaysia (STPM), program matrikulasi, diploma, kursus foundation, dan rute prauniversitas lainnya, diikuti oleh studi tinggi di kolese atau universitas.
 lang: id
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
-reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+reviewer: ashton-tan
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication.
   - Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy.
@@ -74,7 +73,17 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: null
+sourceContentHash: "4002ddcea89a998a"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: ashton-tan
 ---
 
 Bagi seorang anak yang tumbuh di Malaysia, pertanyaan "sekolah yang mana?" mengandung makna yang lebih dalam daripada di banyak negara lain. Sebagiannya memang soal jarak dan reputasi, seperti di mana pun — tetapi ia juga merupakan pilihan antara sekolah nasional yang mengajar terutama dalam bahasa Melayu dan sekolah jenis nasional yang mengajar dalam bahasa Tionghoa atau Tamil. Keduanya adalah bagian dari sistem negeri yang sama, mengikuti kurikulum nasional yang sama, dan mengarah ke ujian nasional yang sama. Memahami bagaimana sistem itu terjalin adalah langkah pertama untuk menavigasinya.

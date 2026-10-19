@@ -32,15 +32,14 @@ faq:
     a: இல்லை. தீபாவளி நாட்டின் பெரும்பகுதியில் கடைப்பிடிக்கப்படும் ஒரு கூட்டாட்சி விடுமுறை ஆனால் Sarawak இல் பொது விடுமுறை அல்ல — மாநில அளவிலான கடைப்பிடிப்பு எவ்வாறு வேறுபடுகிறது என்பதற்கு ஒரு எடுத்துக்காட்டு.
 lang: ta
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The exact count of federal and state gazetted holidays changes year to year and by state; do not publish a fixed national total without confirming against the Prime Minister's Department / state gazettes.
   - 'Confirm the Employment Act 1955 paid-holiday minimum (commonly stated as 11: 5 compulsory + 6 elective) against the current Act text, as the Act was amended in recent years.'
@@ -70,7 +69,17 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: null
+sourceContentHash: "e97dca9642279cb4"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 மலேசியா முழுவதும் ஒரு பயணத்தை, ஒரு தயாரிப்பு வெளியீட்டை அல்லது ஒரு சம்பளக் கணக்கீட்டைத் திட்டமிட்டால், வெளியாட்களைத் திகைக்க வைக்கும் ஒன்றை நீங்கள் விரைவில் கண்டுபிடிப்பீர்கள்: Kuala Lumpur இல் பொது விடுமுறையாக உள்ள ஒரு நாள் Kuching இல் ஒரு சாதாரண வேலைநாளாக இருக்கலாம், அல்லது நேர்மாறாகவும் இருக்கலாம். மலேசியாவுக்கு ஒரே தேசிய விடுமுறைப் பட்டியல் இல்லை, மாறாக ஒரு தேசிய அடுக்கும் அதன் மேல் அடுக்கப்பட்ட பதின்மூன்று மாநில அடுக்குகளும் உள்ளன.

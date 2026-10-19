@@ -32,15 +32,14 @@ faq:
     a: Tidak. Semikonduktor ialah bahagian terbesar dan paling bernilai dalam sektor elektrik & elektronik (E&E) yang lebih luas, tetapi E&E juga merangkumi elektronik pengguna, elektronik industri dan produk elektrik seperti perkakas, pencahayaan dan kabel.
 lang: ms
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - '2024 semiconductor export value: MATRADE reports ~RM388 billion for semiconductor devices (ICs, transistors, valves); some media report ~RM437.5 billion on a broader ''semiconductor products'' definition. Confirm the exact figure and definition against MATRADE before publication.'
   - National Semiconductor Strategy targets vary across sources (e.g. share 7%→14% by 2029; investment figures of RM63 billion approved and an RM500 billion target). Confirm the official headline targets against the MITI/MIDA NSS source.
@@ -85,7 +84,17 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: null
+sourceContentHash: "b7649caa9c01d102"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Jika anda sedang membaca ini pada telefon atau komputer riba, ada kemungkinan sebenar bahawa salah satu cipnya pernah menghabiskan sebahagian hayatnya di Malaysia — bukan dicipta atau dicetak, tetapi diubah daripada kepingan silikon kosong menjadi komponen siap yang telah dibungkus dan sedia untuk dipateri pada papan litar. Langkah yang senyap dan tidak menyerlah itulah tempat Malaysia membina salah satu kedudukan paling berpengaruh dalam seluruh dunia elektronik.

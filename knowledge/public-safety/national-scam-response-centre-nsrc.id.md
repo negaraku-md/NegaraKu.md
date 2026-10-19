@@ -32,15 +32,14 @@ faq:
     a: Telepon ke 997 memulai proses pembekuan-dan-pelacakan cepat, tetapi Anda tetap harus membuat laporan polisi resmi. Untuk penyelidikan penipuan dan kecurangan yang lebih luas, ini bekerja bersama Commercial Crime Investigation Department (CCID) polisi.
 lang: id
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - 'Launch date: sources give both 7 October 2022 and 12 October 2022; confirm the official establishment date against Bank Negara Malaysia / the police.'
   - Operational details (24/7 status, location at MCMC Tower 2, the National Fraud Portal) and any case statistics (e.g. calls handled, accounts frozen, funds recovered) change over time and vary between reports — confirm the latest figures against official NSRC/BNM/PDRM releases before citing numbers.
@@ -75,7 +74,17 @@ keywords:
   - mule account
   - freeze funds
   - online fraud
-sourceContentHash: null
+sourceContentHash: "2c5c608f3779680d"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Momen terburuk dalam sebuah penipuan adalah saat tepat setelah Anda menyadari bahwa itu penipuan — ketika uang telah meninggalkan rekening Anda dan Anda tidak tahu harus berbuat apa, atau harus menghubungi siapa. Di Malaysia, ada satu jawaban untuk pertanyaan itu: **hubungi 997.** Nomor itu menjangkau **National Scam Response Centre (NSRC)**, dan meneleponnya dengan cepat adalah, secara harfiah, peluang terbaik Anda untuk mendapatkan kembali uang Anda.

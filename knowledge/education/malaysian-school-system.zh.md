@@ -32,15 +32,14 @@ faq:
     a: 中学后的途径包括通往大马高级学校文凭（STPM）的中六、预科班课程、文凭课程、基础课程及其他大学先修途径，之后在学院或大学修读高等教育。
 lang: zh
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
-reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+reviewer: ashton-tan
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication.
   - Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy.
@@ -74,7 +73,17 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: null
+sourceContentHash: "4002ddcea89a998a"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: ashton-tan
 ---
 
 对一个在马来西亚成长的孩子来说，「上哪所学校？」这个问题所承载的意义，比在许多国家都要深。它一部分关乎距离与声誉，这一点各地皆然——但它同时也是在主要以马来语授课的国民学校，与以华文或淡米尔文授课的国民型学校之间的抉择。两者同属一个公立体制，遵循同一套国家课程，也通向相同的国家考试。理解这个体制如何环环相扣，是驾驭它的第一步。

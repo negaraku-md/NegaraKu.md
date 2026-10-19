@@ -32,15 +32,14 @@ faq:
     a: تشمل المسارات ما بعد الثانوية الصف السادس المؤدي إلى Sijil Tinggi Persekolahan Malaysia (STPM)، وبرامج التأهيلية (matriculation)، والدبلومات، والدورات التمهيدية، وغيرها من المسارات التمهيدية الجامعية، ثم الدراسة العالية في كلية أو جامعة.
 lang: ar
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
-reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+reviewer: ashton-tan
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication.
   - Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy.
@@ -74,7 +73,17 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: null
+sourceContentHash: "4002ddcea89a998a"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: ashton-tan
 ---
 
 بالنسبة لطفل ينشأ في ماليزيا، يحمل سؤال "أي مدرسة؟" معنى أكبر مما في كثير من البلدان. فهو جزئيًا عن المسافة والسمعة، كما في كل مكان — لكنه أيضًا اختيار بين مدرسة وطنية تدرّس أساسًا بلغة الملايو ومدرسة من النوع الوطني تدرّس بالصينية أو التاميلية. وكلتاهما جزء من النظام الحكومي نفسه، وتتبعان المنهج الوطني نفسه، وتؤديان إلى الامتحانات الوطنية نفسها. وفهم كيفية تلاؤم هذا النظام معًا هو الخطوة الأولى للتنقل فيه.

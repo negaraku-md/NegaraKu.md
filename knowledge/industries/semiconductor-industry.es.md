@@ -32,15 +32,14 @@ faq:
     a: No. Los semiconductores son el segmento más grande y valioso del sector eléctrico y electrónico (E&E) más amplio, pero el E&E también abarca electrónica de consumo, electrónica industrial y productos eléctricos como electrodomésticos, iluminación y cables.
 lang: es
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - '2024 semiconductor export value: MATRADE reports ~RM388 billion for semiconductor devices (ICs, transistors, valves); some media report ~RM437.5 billion on a broader ''semiconductor products'' definition. Confirm the exact figure and definition against MATRADE before publication.'
   - National Semiconductor Strategy targets vary across sources (e.g. share 7%→14% by 2029; investment figures of RM63 billion approved and an RM500 billion target). Confirm the official headline targets against the MITI/MIDA NSS source.
@@ -85,7 +84,17 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: null
+sourceContentHash: "b7649caa9c01d102"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Si estás leyendo esto en un teléfono o una computadora portátil, hay una posibilidad real de que uno de sus chips haya pasado parte de su vida en Malasia: no siendo inventado ni impreso, sino transformado de una simple lámina de silicio en un componente terminado y encapsulado, listo para soldar en una placa de circuito. Ese paso silencioso y poco glamoroso es donde Malasia ha construido una de las posiciones más decisivas de todo el mundo de la electrónica.

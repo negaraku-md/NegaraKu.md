@@ -32,15 +32,14 @@ faq:
     a: नहीं। सेमीकंडक्टर व्यापक बिजली एवं इलेक्ट्रॉनिक्स (E&E) क्षेत्र का सबसे बड़ा और सबसे मूल्यवान हिस्सा हैं, लेकिन E&E में उपभोक्ता इलेक्ट्रॉनिक्स, औद्योगिक इलेक्ट्रॉनिक्स और बिजली के उत्पाद जैसे उपकरण, प्रकाश व्यवस्था और केबल भी शामिल हैं।
 lang: hi
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - '2024 semiconductor export value: MATRADE reports ~RM388 billion for semiconductor devices (ICs, transistors, valves); some media report ~RM437.5 billion on a broader ''semiconductor products'' definition. Confirm the exact figure and definition against MATRADE before publication.'
   - National Semiconductor Strategy targets vary across sources (e.g. share 7%→14% by 2029; investment figures of RM63 billion approved and an RM500 billion target). Confirm the official headline targets against the MITI/MIDA NSS source.
@@ -85,7 +84,17 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: null
+sourceContentHash: "b7649caa9c01d102"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 यदि आप इसे किसी फ़ोन या लैपटॉप पर पढ़ रहे हैं, तो इस बात की वास्तविक संभावना है कि इसकी किसी एक चिप ने अपने जीवन का कुछ हिस्सा मलेशिया में बिताया हो — आविष्कार या प्रिंटिंग के रूप में नहीं, बल्कि सिलिकॉन के एक नंगे टुकड़े से एक तैयार, पैकेज की हुई घटक में बदलते हुए, जो किसी सर्किट बोर्ड पर सोल्डर करने के लिए तैयार हो। वह शांत, अनाकर्षक चरण ही वह जगह है जहाँ मलेशिया ने पूरी इलेक्ट्रॉनिक्स दुनिया में सबसे महत्वपूर्ण स्थानों में से एक बनाया है।

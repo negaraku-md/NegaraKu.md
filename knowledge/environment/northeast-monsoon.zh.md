@@ -32,15 +32,14 @@ faq:
     a: 大马气象局（MetMalaysia）会通过其官方网站与 myCuaca 应用程序发布预报与持续降雨警告，通常会提前数天。
 lang: zh
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - Exact onset/end dates vary each year and are announced by MetMalaysia per season; do not publish fixed dates — confirm the current season against MetMalaysia.
   - Confirm the affected-state breakdown and the typical peak month against the latest MetMalaysia seasonal forecast, as emphasis shifts between seasons.
@@ -70,7 +69,17 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: null
+sourceContentHash: "87793e0da2237cfd"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 每一年，大约在世界其他地方步入冬季的时节，马来西亚的东海岸都会严阵以待。船只被拖上岸、海岛度假村闭门谢客、水灾救济中心整装待命，低洼市镇里的家庭则紧盯着河水。这就是**东北季候风**——对马来西亚天气影响最大的单一因素，也是这个国家实际上拥有一个独特雨季、而非全年均一热带降雨的原因。

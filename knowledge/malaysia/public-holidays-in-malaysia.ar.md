@@ -32,15 +32,14 @@ faq:
     a: لا. ديبافالي (Deepavali) عطلة اتحادية تُراعى في معظم أنحاء البلد لكنها ليست عطلة رسمية في ساراواك — وهو مثال على اختلاف المراعاة على مستوى الولايات.
 lang: ar
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The exact count of federal and state gazetted holidays changes year to year and by state; do not publish a fixed national total without confirming against the Prime Minister's Department / state gazettes.
   - 'Confirm the Employment Act 1955 paid-holiday minimum (commonly stated as 11: 5 compulsory + 6 elective) against the current Act text, as the Act was amended in recent years.'
@@ -70,7 +69,17 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: null
+sourceContentHash: "e97dca9642279cb4"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 خطّط لرحلة أو إطلاق منتج أو تشغيل كشوف رواتب عبر ماليزيا وسرعان ما تكتشف أمرًا يفاجئ الغرباء: فاليوم الذي هو عطلة رسمية في كوالالمبور قد يكون يوم عمل عاديًا في كوتشينغ، والعكس صحيح. فماليزيا لا تملك قائمة عطل وطنية واحدة بقدر ما تملك طبقة وطنية وثلاث عشرة طبقة ولائية مكدّسة فوق بعضها.

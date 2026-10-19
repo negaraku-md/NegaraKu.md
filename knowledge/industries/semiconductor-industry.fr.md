@@ -32,15 +32,14 @@ faq:
     a: Non. Les semi-conducteurs sont la part la plus grande et la plus précieuse du secteur plus large de l'électrique et de l'électronique (E&E), mais l'E&E couvre aussi l'électronique grand public, l'électronique industrielle et les produits électriques tels que les appareils électroménagers, l'éclairage et les câbles.
 lang: fr
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - '2024 semiconductor export value: MATRADE reports ~RM388 billion for semiconductor devices (ICs, transistors, valves); some media report ~RM437.5 billion on a broader ''semiconductor products'' definition. Confirm the exact figure and definition against MATRADE before publication.'
   - National Semiconductor Strategy targets vary across sources (e.g. share 7%→14% by 2029; investment figures of RM63 billion approved and an RM500 billion target). Confirm the official headline targets against the MITI/MIDA NSS source.
@@ -85,7 +84,17 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: null
+sourceContentHash: "b7649caa9c01d102"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 Si vous lisez ceci sur un téléphone ou un ordinateur portable, il y a de réelles chances que l'une de ses puces ait passé une partie de sa vie en Malaisie — non pas à être inventée ou imprimée, mais à être transformée, d'une simple tranche de silicium nu en un composant fini et encapsulé, prêt à être soudé sur une carte de circuit imprimé. Cette étape discrète et peu glamour est précisément là où la Malaisie s'est bâti l'une des positions les plus décisives de tout l'univers de l'électronique.

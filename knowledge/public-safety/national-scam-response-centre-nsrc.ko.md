@@ -32,15 +32,14 @@ faq:
     a: 997 전화는 신속한 동결·추적 절차를 시작하지만, 정식 경찰 신고는 따로 해야 합니다. 더 넓은 사기·부정 수사는 경찰 상업범죄수사부(CCID)와 함께 이루어집니다.
 lang: ko
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - 'Launch date: sources give both 7 October 2022 and 12 October 2022; confirm the official establishment date against Bank Negara Malaysia / the police.'
   - Operational details (24/7 status, location at MCMC Tower 2, the National Fraud Portal) and any case statistics (e.g. calls handled, accounts frozen, funds recovered) change over time and vary between reports — confirm the latest figures against official NSRC/BNM/PDRM releases before citing numbers.
@@ -75,7 +74,17 @@ keywords:
   - mule account
   - freeze funds
   - online fraud
-sourceContentHash: null
+sourceContentHash: "2c5c608f3779680d"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 사기에서 가장 끔찍한 순간은 그것이 사기였음을 막 깨달은 직후입니다 — 돈이 계좌를 떠났는데 무엇을 해야 할지, 누구에게 전화해야 할지 모를 때 말입니다. 말레이시아에는 그 질문에 대한 단 하나의 답이 있습니다. **997로 전화하세요.** 그 번호는 **국가사기대응센터(NSRC)**로 연결되며, 빨리 전화하는 것이 말 그대로 돈을 되찾을 가장 좋은 기회입니다.

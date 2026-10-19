@@ -32,15 +32,14 @@ faq:
     a: 漁業局長が率いるマレーシア漁業局（Jabatan Perikanan Malaysia）が、海洋公園の管理を含めて同法を所管し執行しています。
 lang: ja
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative.
   - Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials.
@@ -72,7 +71,17 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: null
+sourceContentHash: "141e6c8974042935"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 ティオマンやレダンの沖のサンゴ礁の上をシュノーケリングすると、澄んだ水、保護された魚、そして事前に説明を受けた「漁業禁止・錨泊禁止」の規則は、単なる良識ではない――それらは法律である。その背後にある制定法が**1985年漁業法**、マレーシアの法令集における Act 317 であり、観光よりもはるかに多くを規律している。それは、マレーシアがその水域全体で漁業をどう管理し、海洋生物をどう保護するかの屋台骨である。

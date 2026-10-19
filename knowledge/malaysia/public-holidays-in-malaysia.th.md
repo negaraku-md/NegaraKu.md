@@ -32,15 +32,14 @@ faq:
     a: ไม่ Deepavali เป็นวันหยุดระดับสหพันธ์ที่ถือปฏิบัติในประเทศส่วนใหญ่ แต่ไม่ใช่วันหยุดนักขัตฤกษ์ในซาราวัก — เป็นตัวอย่างหนึ่งของความแตกต่างในการถือปฏิบัติระดับรัฐ
 lang: th
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The exact count of federal and state gazetted holidays changes year to year and by state; do not publish a fixed national total without confirming against the Prime Minister's Department / state gazettes.
   - 'Confirm the Employment Act 1955 paid-holiday minimum (commonly stated as 11: 5 compulsory + 6 elective) against the current Act text, as the Act was amended in recent years.'
@@ -70,7 +69,17 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: null
+sourceContentHash: "e97dca9642279cb4"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 วางแผนการเดินทาง การเปิดตัวสินค้า หรือการจ่ายเงินเดือนข้ามรัฐในมาเลเซีย แล้วคุณจะพบสิ่งที่ทำให้คนนอกตั้งตัวไม่ทันอย่างรวดเร็ว: วันที่เป็นวันหยุดนักขัตฤกษ์ในกัวลาลัมเปอร์อาจเป็นวันทำงานธรรมดาในกูชิง และในทางกลับกัน มาเลเซียไม่ได้มีรายการวันหยุดระดับชาติเพียงรายการเดียว หากแต่มีชั้นระดับชาติหนึ่งชั้นและชั้นระดับรัฐอีกสิบสามชั้นวางซ้อนกันอยู่

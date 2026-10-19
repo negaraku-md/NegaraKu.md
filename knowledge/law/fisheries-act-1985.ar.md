@@ -32,15 +32,14 @@ faq:
     a: إدارة مصايد الأسماك الماليزية (Jabatan Perikanan Malaysia)، التي يرأسها المدير العام للمصايد، تدير القانون وتنفّذه، بما في ذلك إدارة المتنزهات البحرية.
 lang: ar
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - The English reprint of Act 317 was current as of 1 November 2012 and the Act has been amended since; confirm the current consolidated text, Part numbering and any later amendments against the AGC (lom.agc.gov.my). The Malay text is authoritative.
   - Marine park zoning (two nautical miles, one nautical mile exceptions) and the list of prohibited areas under the Fisheries (Prohibited Areas) Regulations should be confirmed against the current Department of Fisheries materials.
@@ -72,7 +71,17 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: null
+sourceContentHash: "141e6c8974042935"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 مارِس الغطس السطحي فوق شعبة مرجانية قبالة تيومان أو ريدانغ، فإن المياه الصافية والأسماك المحمية وقواعد "ممنوع الصيد، ممنوع الرسو" التي أُحطت علمًا بها ليست مجرد حسن سلوك — بل هي القانون. والتشريع الذي يقف وراءها هو **قانون مصايد الأسماك 1985 (Fisheries Act 1985)**، أي Act 317 في مدوّنة القوانين الماليزية، وهو ينظّم أكثر بكثير من السياحة: فهو العمود الفقري لكيفية إدارة ماليزيا للصيد وحمايتها للحياة البحرية عبر مياهها.

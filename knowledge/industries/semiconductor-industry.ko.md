@@ -32,15 +32,14 @@ faq:
     a: 아닙니다. 반도체는 더 넓은 전기·전자(E&E) 부문에서 가장 크고 값진 조각이지만, E&E는 가전제품, 산업용 전자, 그리고 가전·조명·케이블 같은 전기 제품도 아우릅니다.
 lang: ko
 masterLanguage: en
-translationStatus: pending
-status: in-review
+translationStatus: "in-sync"
+status: published
 aiAssisted: true
 reviewer: null
-assignee: ashton-tan
-claimedAt: 2026-10-19T00:00:00.000Z
-revision: null
-created: 2026-10-19T00:00:00.000Z
-updated: 2026-10-19T00:00:00.000Z
+assignee: null
+revision: 0
+created: '2026-10-19T00:00:00.000Z'
+updated: '2026-10-19T00:00:00.000Z'
 verificationNeeded:
   - '2024 semiconductor export value: MATRADE reports ~RM388 billion for semiconductor devices (ICs, transistors, valves); some media report ~RM437.5 billion on a broader ''semiconductor products'' definition. Confirm the exact figure and definition against MATRADE before publication.'
   - National Semiconductor Strategy targets vary across sources (e.g. share 7%→14% by 2029; investment figures of RM63 billion approved and an RM500 billion target). Confirm the official headline targets against the MITI/MIDA NSS source.
@@ -85,7 +84,17 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: null
+sourceContentHash: "b7649caa9c01d102"
+reviewed: '2026-10-19'
+published: '2026-10-19'
+publishedBy: ashton-tan
+reviewDue: '2027-10-19'
+revisions:
+  - revision: 0
+    date: '2026-10-19'
+    change: Approved and published.
+    contributor: null
+    reviewer: null
 ---
 
 지금 이 글을 휴대폰이나 노트북으로 읽고 있다면, 그 기기의 칩 중 하나가 생애의 일부를 말레이시아에서 보냈을 가능성이 충분히 있습니다 — 발명되거나 인쇄된 것이 아니라, 맨 실리콘 조각에서 회로 기판에 납땜할 수 있는 완성된 패키지 부품으로 바뀐 곳으로서 말입니다. 그 조용하고 화려하지 않은 단계가 바로 말레이시아가 전체 전자 세계에서 가장 중대한 위치 중 하나를 구축한 지점입니다.
