@@ -11,7 +11,7 @@ import { readFileSync, writeFileSync, existsSync, readdirSync, mkdirSync } from 
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
-import { LANGS, LANG_POLICY, pillarOf } from './facebook.mjs';
+import { LANGS, LANG_POLICY, pillarOf, LANG_MD_SUFFIX } from './facebook.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const KNOWLEDGE = path.join(ROOT, 'knowledge');
@@ -34,7 +34,7 @@ export function listPublishedBases() {
   for (const f of files) {
     const rel = `knowledge/${String(f).replace(/\\/g, '/')}`;
     if (!rel.endsWith('.md')) continue;
-    if (/\.(ms|en|zh|ta|ja|ko|th|vi|id)\.md$/.test(rel)) continue; // translation, not a master. KEEP THIS LIST COMPLETE for every launched locale — a missing one (ta, then th/vi) makes .<lang>.md files phantom "bases" that post the wrong-language title to every Page.
+    if (LANG_MD_SUFFIX.test(rel)) continue; // translation, not a master. LANG_MD_SUFFIX is derived from LANGS (facebook.mjs) so this can never go stale — a missing locale used to make .<lang>.md files phantom "bases" that posted the wrong-language title to every Page (ta, then th/vi, then ar/hi/es/fr).
     if (rel.startsWith('knowledge/about/')) continue;
     const base = rel.replace(/\.md$/, '');
     let data;

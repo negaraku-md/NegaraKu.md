@@ -8,12 +8,15 @@
 // Env:
 //   FB_PAGE_ACCESS_TOKEN  — system-user token (mints each Page's token). Required for real deletes.
 //   FB_DRY_RUN=1          — list what would be deleted; no API calls, no token needed.
-import { GRAPH, PAGES, pageTokenFor } from './lib/facebook.mjs';
+import { GRAPH, PAGES, LANGS, pageTokenFor } from './lib/facebook.mjs';
 import { loadManifest, saveManifest } from './lib/fb-queue.mjs';
 
 const DRY_RUN = process.env.FB_DRY_RUN === '1';
 const TOKEN = process.env.FB_PAGE_ACCESS_TOKEN;
-const SUFFIX = /\.(ms|en|zh|ta|ja|ko|th|vi|id)$/;
+// A phantom base ends in a locale suffix (e.g. ".ar"). Derived from LANGS so it
+// catches every launched locale's phantoms (the old hard-coded ms..id list missed
+// .ar/.hi/.es/.fr — the very phantoms this run needs to clean up).
+const SUFFIX = new RegExp('\\.(' + LANGS.join('|') + ')$');
 // Optional: also delete posts made at/after this ISO timestamp (e.g. redo a day's
 // batch after fixing the OG cards). Removing their manifest entries lets the poster
 // re-post them cleanly.

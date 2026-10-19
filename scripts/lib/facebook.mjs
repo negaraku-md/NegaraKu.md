@@ -117,6 +117,13 @@ export const localePrefix = (lang) => (lang === 'ms' ? '' : `/${lang}`);
 
 // --- Article files ---------------------------------------------------------
 
+// Matches a translation file's `.<lang>.md` suffix. DERIVED FROM LANGS so a newly
+// launched language can NEVER become a phantom posting base — the earlier bug
+// (hard-coded ms..id list left .ar/.hi/.es/.fr.md unrecognised, so each
+// translation file was posted to every Page as if it were a new article) can't
+// recur. Used by articleBases here AND listPublishedBases in fb-queue.mjs.
+export const LANG_MD_SUFFIX = new RegExp('\\.(' + LANGS.join('|') + ')\\.md$');
+
 // Reduce a list of changed/queued files to unique article "bases" (path minus
 // any lang suffix and .md), skipping non-knowledge and about/ pages.
 export function articleBases(files) {
@@ -125,7 +132,7 @@ export function articleBases(files) {
     const p = f.replace(/\\/g, '/');
     if (!p.startsWith('knowledge/') || !p.endsWith('.md')) continue;
     if (p.startsWith('knowledge/about/')) continue;
-    bases.add(p.replace(/\.(ms|en|zh|ta|ja|ko|th|vi|id)\.md$/, '').replace(/\.md$/, ''));
+    bases.add(p.replace(LANG_MD_SUFFIX, '').replace(/\.md$/, ''));
   }
   return [...bases];
 }
