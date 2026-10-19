@@ -21,6 +21,7 @@ const color = getCategoryColor(category);
 const pillar = getPillar(category);
 const secDef = pillar ? getPillarDef(pillar) : null;
 const secLabel = secDef ? loc(secDef.name, locale) : null;
+const secIcon = secDef?.icon;
 const topic = article.data.subcategory?.[0];
 const topLabel = topic ? subcatLabel(topic, locale) : null;
 // No per-article photos exist, but every article has an auto-generated OG card
@@ -53,17 +54,13 @@ const minLabel = locale === 'zh' ? '分钟' : locale === 'ta' ? 'நிமிட
     <div class="top">
       <span class="cpath">
         {secLabel && (
-          <>
-            <span class="sec">{secLabel}</span>
-            <span class="sep" aria-hidden="true">›</span>
-          </>
+          <span class="pseg sec"><span class="pico" aria-hidden="true">{secIcon}</span>{secLabel}</span>
         )}
-        <span class="cat">{cat?.icon} {cat ? loc(cat.name, locale) : ''}</span>
+        {cat && (
+          <span class="pseg cat"><span class="pico" aria-hidden="true">{cat.icon}</span>{loc(cat.name, locale)}</span>
+        )}
         {topLabel && (
-          <>
-            <span class="sep" aria-hidden="true">›</span>
-            <span class="top-seg">{topLabel}</span>
-          </>
+          <span class="pseg top-seg"><span class="pico" aria-hidden="true">🏷️</span>{topLabel}</span>
         )}
       </span>
       {/* Every public card is already published, so a "Published" badge is pure
@@ -135,18 +132,22 @@ const minLabel = locale === 'zh' ? '分钟' : locale === 'ta' ? 'நிமிட
     justify-content: space-between;
     gap: 0.5rem;
   }
-  /* section › category › topic breadcrumb — matches ArticleList's browse-first
-     card. Wraps within its share of the row; the status badge never shrinks. */
+  /* section / category / topic — stacked on three lines, each with its own icon
+     (pillar icon, category icon, topic tag) so the card tells you where the
+     article lives at a glance. */
   .cpath {
-    display: inline-flex;
-    flex-wrap: wrap;
-    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
     min-width: 0;
     font-size: 0.75rem;
     color: var(--muted);
-    line-height: 1.4;
+    line-height: 1.3;
   }
-  .cpath .sep { margin: 0 0.35rem; opacity: 0.55; }
+  .cpath .pseg { display: flex; align-items: center; gap: 0.35rem; min-width: 0; }
+  /* Fixed-width icon column so the label text starts at the same x on all three
+     lines regardless of each emoji's intrinsic width. */
+  .cpath .pico { flex-shrink: 0; width: 1.4em; text-align: center; font-size: 0.9rem; line-height: 1; }
   .cpath .sec { color: var(--muted); }
   .cat {
     font-weight: 600;
