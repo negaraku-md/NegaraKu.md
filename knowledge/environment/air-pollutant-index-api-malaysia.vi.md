@@ -17,7 +17,7 @@ keyTakeaways:
   - "IPU được tính từ sáu chất ô nhiễm; chỉ số phụ cao nhất trong giờ đó trở thành chỉ số IPU chính thức."
   - "PM2.5 (bụi mịn) được đưa vào việc tính IPU từ năm 2017; bụi mịn thường là chất ô nhiễm chủ đạo trong đợt khói mù."
   - "Sáu cấp độ: Tốt (0–50), Trung bình (51–100), Không lành mạnh (101–200), Rất không lành mạnh (201–300), Nguy hiểm (>300) và Khẩn cấp (>500)."
-  - "Nồng độ chất ô nhiễm được đo bởi 52 trạm tự động (CAQM) và 14 trạm thủ công trên khắp Malaysia."
+  - "Nồng độ chất ô nhiễm được đo bởi 68 trạm quan trắc chất lượng không khí liên tục (CAQMS) trên khắp Malaysia (mạng lưới được mở rộng từ khoảng 52 trạm trước đây), bên cạnh các trạm lấy mẫu thủ công."
   - "Việc tính IPU dựa trên Pollution Standard Index (PSI) được USEPA áp dụng."
 appliesTo: "Cha mẹ, giáo viên, vận động viên, người cao tuổi, phụ nữ mang thai, trẻ em, người mắc biến chứng tim hoặc phổi, cùng bất kỳ ai lên kế hoạch cho các hoạt động ngoài trời đặc biệt là trong mùa khói mù."
 
@@ -28,18 +28,20 @@ faq:
     a: "Bụi mịn — PM10 và PM2.5 — là chất ô nhiễm chủ đạo trong phần lớn thời gian, đặc biệt là khi xảy ra khói mù ở Malaysia. Khi đó chỉ số IPU thường được dẫn dắt bởi chỉ số phụ của bụi mịn."
   - q: "Ở chỉ số bao nhiêu thì tôi nên tránh các hoạt động ngoài trời?"
     a: "Ở mức 101–200 (Không lành mạnh), các nhóm nhạy cảm — người cao tuổi, phụ nữ mang thai, trẻ em và người mắc biến chứng tim hoặc phổi — nên hạn chế hoạt động ngoài trời. Ở mức trên 300 (Nguy hiểm), người cao tuổi và người có nguy cơ cao bị cấm hoạt động ngoài trời, và công chúng được khuyên nên tránh."
+  - q: "Tại sao các ứng dụng chất lượng không khí hiển thị con số cao hơn API chính thức?"
+    a: "Vì hầu hết các ứng dụng quốc tế hiển thị AQI kiểu Hoa Kỳ, tính PM2.5 dựa trên trung bình của vài giờ gần nhất, trong khi API chính thức của JAS dùng trung bình trượt 24 giờ của PM2.5. Khi khói mù tăng vọt đột ngột, AQI của ứng dụng có thể cao hơn nhiều so với API chính thức cho cùng một nơi vào cùng một giờ — cả hai đều đúng, chỉ khác khoảng thời gian lấy trung bình và thang đo. Để đưa ra quyết định tại Malaysia, hãy tham khảo chỉ số API chính thức của JAS."
 
 lang: "vi"
-sourceContentHash: "fc387c28a9eb09b2"
+sourceContentHash: "d13c6952e19b98dc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-revision: 0
+reviewed: 2026-10-19
+reviewDue: 2027-10-19
+revision: 1
 verificationNeeded:
   - "Hen suyễn không được nêu tên cụ thể trong cả hai tệp PDF của JAS được dẫn (nguồn đề cập người cao tuổi, phụ nữ mang thai, trẻ em và biến chứng tim/phổi). Tham chiếu hen suyễn ở đây là một suy luận biên tập với tư cách là một tình trạng phổi — cần xác nhận với nguồn tư vấn sức khỏe chính thức của JAS."
   - "Dải Khẩn cấp (>500) không được gán màu riêng trên thang đo chính thức của JAS (màu chỉ được định nghĩa đến mức Nguy hiểm). Cần xác nhận liệu có một màu chính thức tồn tại cho dải này trước khi ấn định nó."
@@ -48,8 +50,12 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-19
+    change: "Đã làm mới: cập nhật mạng lưới quan trắc lên 68 CAQMS (từ 52); bổ sung câu hỏi thường gặp về lý do AQI trên ứng dụng khác với API chính thức (trung bình PM2.5 24 giờ); bổ sung các tài liệu tham khảo có nguồn từ DOE."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-28
+updated: 2026-10-19
 sources:
   - title: "Hệ thống Quản lý Chỉ số Chất ô nhiễm Không khí (APIMS) — bộ dữ liệu (Air Pollutant Index Management System (APIMS) — dataset)"
     url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
@@ -63,6 +69,14 @@ sources:
   - title: "Chỉ số Ô nhiễm Không khí — Phải làm gì khi API đạt các mức nhất định (Air Pollution Index — What to do when API reach certain levels)"
     url: "https://www.doe.gov.my/en/air-pollution-index/"
     publisher: "Cục Môi trường (Jabatan Alam Sekitar, Department of Environment)"
+  - title: "DOE theo dõi 68 trạm trên toàn quốc, không khu vực nào có không khí tốt khi khói mù trở nên tồi tệ hơn (DOE tracks 68 stations nationwide, no areas report good air as haze worsens)"
+    url: "https://www.malaymail.com/news/malaysia/2026/08/22/doe-tracks-68-stations-nationwide-no-areas-report-good-air-as-haze-worsens/232331"
+    publisher: "Malay Mail (đưa tin theo số liệu của Cục Môi trường)"
+    date: "2026-08-22"
+  - title: "Toán học của khói mù: DOE giải thích vì sao AQI của bạn là 250 trong khi API chính thức là 175 (Hazy math: DOE explains why your AQI says 250 when the official API is 175)"
+    url: "https://www.malaymail.com/news/malaysia/2026/10/08/hazy-math-doe-explains-why-your-aqi-says-250-when-the-official-api-is-175/238237"
+    publisher: "Malay Mail (đưa tin theo Cục Môi trường)"
+    date: "2026-10-08"
 
 entity: "Indeks Pencemar Udara (IPU)"
 relations:
@@ -106,7 +120,7 @@ IPU được ánh xạ đến sáu cấp độ có màu. Đây là phần quan t
 
 ## Dữ liệu này đến từ đâu?
 
-Các chỉ số không được lấy từ một nơi. JAS vận hành Mạng lưới Quan trắc Chất lượng Không khí Quốc gia bao gồm **52 trạm tự động** — Trạm Quan trắc Chất lượng Không khí Liên tục (*Continuous Air Quality Monitoring*, CAQM) — và **14 trạm thủ công** sử dụng bộ lấy mẫu thể tích cao (HVS). Các trạm này được đặt ở các vị trí chiến lược bao gồm các khu công nghiệp, thành thị, ven đô và nông thôn trên khắp Bán đảo, Sabah và Sarawak, để các chỉ số đại diện cho không khí mà người dân thực sự hít thở.
+Các chỉ số không được lấy từ một nơi. JAS vận hành Mạng lưới Quan trắc Chất lượng Không khí Quốc gia hiện bao gồm **68 trạm quan trắc chất lượng không khí liên tục** (*Continuous Air Quality Monitoring Stations*, CAQMS) — được mở rộng từ khoảng 52 trạm trước đây — bên cạnh các trạm lấy mẫu thủ công sử dụng bộ lấy mẫu thể tích cao (HVS). Các trạm này được đặt ở các vị trí chiến lược bao gồm các khu công nghiệp, thành thị, ven đô và nông thôn trên khắp Bán đảo, Sabah và Sarawak, để các chỉ số đại diện cho không khí mà người dân thực sự hít thở.
 
 ## Tiếp theo
 

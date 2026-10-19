@@ -17,7 +17,7 @@ keyTakeaways:
   - "IPU dihitung dari enam polutan; sub-indeks yang paling tinggi pada jam itu menjadi pembacaan IPU resmi."
   - "PM2.5 (partikel halus) dimasukkan ke dalam penghitungan IPU mulai 2017; partikel halus lazimnya polutan dominan saat kabut asap."
   - "Enam kategori: Baik (0–50), Sedang (51–100), Tidak sehat (101–200), Sangat tidak sehat (201–300), Berbahaya (>300) dan Darurat (>500)."
-  - "Konsentrasi polutan diukur oleh 52 stasiun otomatis (CAQM) dan 14 stasiun manual di seluruh Malaysia."
+  - "Konsentrasi polutan diukur oleh 68 stasiun pemantauan kualitas udara berkelanjutan (CAQMS) di seluruh Malaysia (jaringan diperluas dari sekitar 52 stasiun sebelumnya), selain stasiun pengambilan sampel manual."
   - "Penghitungan IPU berbasis Pollution Standard Index (PSI) yang diadopsi oleh USEPA."
 appliesTo: "Orang tua, guru, atlet, warga lanjut usia, wanita hamil, anak-anak, penderita komplikasi jantung atau paru-paru, serta siapa saja yang merencanakan aktivitas luar ruangan terutama saat musim kabut asap."
 
@@ -28,18 +28,20 @@ faq:
     a: "Partikel halus — PM10 dan PM2.5 — merupakan polutan dominan pada kebanyakan waktu, terutama saat terjadinya kabut asap di Malaysia. Saat itu pembacaan IPU biasanya dipacu oleh sub-indeks partikel halus."
   - q: "Pada pembacaan berapa saya sebaiknya menghindari aktivitas luar ruangan?"
     a: "Pada 101–200 (Tidak sehat), kelompok sensitif — warga lanjut usia, wanita hamil, anak-anak dan penderita komplikasi jantung atau paru-paru — sebaiknya membatasi aktivitas luar ruangan. Pada melebihi 300 (Berbahaya), warga lanjut usia dan orang berisiko tinggi dilarang beraktivitas di luar, dan masyarakat dinasihatkan menghindarinya."
+  - q: "Mengapa aplikasi kualitas udara menampilkan angka yang lebih tinggi daripada API resmi?"
+    a: "Karena sebagian besar aplikasi internasional menampilkan AQI gaya Amerika Serikat yang menghitung PM2.5 berdasarkan rata-rata beberapa jam terakhir, sedangkan API resmi JAS menggunakan rata-rata bergerak 24 jam untuk PM2.5. Saat kabut asap melonjak secara mendadak, AQI aplikasi dapat membaca jauh lebih tinggi daripada API resmi untuk kawasan yang sama pada jam yang sama — keduanya benar, hanya rentang waktu rata-rata dan skalanya berbeda. Untuk keputusan di Malaysia, rujuklah pembacaan API resmi JAS."
 
 lang: "id"
-sourceContentHash: "fc387c28a9eb09b2"
+sourceContentHash: "d13c6952e19b98dc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-revision: 0
+reviewed: 2026-10-19
+reviewDue: 2027-10-19
+revision: 1
 verificationNeeded:
   - "Asma tidak disebut secara khusus dalam kedua PDF JAS yang dirujuk (sumber menyebut warga lanjut usia, wanita hamil, anak-anak dan komplikasi jantung/paru-paru). Rujukan asma di sini adalah inferensi editorial sebagai kondisi paru-paru — verifikasi dengan sumber nasihat kesehatan resmi JAS."
   - "Band Darurat (>500) tidak diberi warna terpisah pada tolok resmi JAS (warna hanya didefinisikan hingga Berbahaya). Verifikasi apakah satu warna resmi ada untuk band ini sebelum menetapkannya."
@@ -48,8 +50,12 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-19
+    change: "Diperbarui: jaringan pemantauan diperbarui menjadi 68 CAQMS (dari 52); ditambahkan FAQ tentang mengapa AQI di aplikasi berbeda dari API resmi (rata-rata PM2.5 24 jam); ditambahkan referensi yang bersumber dari DOE."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-28
+updated: 2026-10-19
 sources:
   - title: "Air Pollutant Index Management System (APIMS) — dataset"
     url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
@@ -63,6 +69,14 @@ sources:
   - title: "Air Pollution Index — What to do when API reach certain levels"
     url: "https://www.doe.gov.my/en/air-pollution-index/"
     publisher: "Jabatan Alam Sekitar (Department of Environment)"
+  - title: "DOE memantau 68 stasiun di seluruh negeri, tidak ada kawasan yang melaporkan udara baik saat kabut asap memburuk (DOE tracks 68 stations nationwide, no areas report good air as haze worsens)"
+    url: "https://www.malaymail.com/news/malaysia/2026/08/22/doe-tracks-68-stations-nationwide-no-areas-report-good-air-as-haze-worsens/232331"
+    publisher: "Malay Mail (melaporkan angka Jabatan Alam Sekitar)"
+    date: "2026-08-22"
+  - title: "Matematika kabut asap: DOE menjelaskan mengapa AQI Anda menunjukkan 250 padahal API resmi 175 (Hazy math: DOE explains why your AQI says 250 when the official API is 175)"
+    url: "https://www.malaymail.com/news/malaysia/2026/10/08/hazy-math-doe-explains-why-your-aqi-says-250-when-the-official-api-is-175/238237"
+    publisher: "Malay Mail (melaporkan Jabatan Alam Sekitar)"
+    date: "2026-10-08"
 
 entity: "Indeks Pencemar Udara (IPU)"
 relations:
@@ -106,7 +120,7 @@ IPU dipetakan ke enam kategori berwarna. Inilah bagian yang paling penting untuk
 
 ## Dari mana datangnya data ini?
 
-Pembacaan tidak diambil dari satu tempat. JAS mengoperasikan Jaringan Pemantauan Kualitas Udara Nasional yang mencakup **52 stasiun otomatis** — Stasiun Pemantauan Kualitas Udara Berkelanjutan (*Continuous Air Quality Monitoring*, CAQM) — dan **14 stasiun manual** yang menggunakan pengambil sampel volume tinggi (HVS). Stasiun ini ditempatkan di lokasi strategis mencakup kawasan industri, kota, pinggiran kota dan pedesaan di seluruh Semenanjung, Sabah dan Sarawak, agar pembacaan mewakili udara yang benar-benar dihirup penduduk.
+Pembacaan tidak diambil dari satu tempat. JAS mengoperasikan Jaringan Pemantauan Kualitas Udara Nasional yang kini mencakup **68 stasiun pemantauan kualitas udara berkelanjutan** (*Continuous Air Quality Monitoring Stations*, CAQMS) — diperluas dari sekitar 52 stasiun sebelumnya — selain stasiun pengambilan sampel manual yang menggunakan pengambil sampel volume tinggi (HVS). Stasiun ini ditempatkan di lokasi strategis mencakup kawasan industri, kota, pinggiran kota dan pedesaan di seluruh Semenanjung, Sabah dan Sarawak, agar pembacaan mewakili udara yang benar-benar dihirup penduduk.
 
 ## Apa selanjutnya
 

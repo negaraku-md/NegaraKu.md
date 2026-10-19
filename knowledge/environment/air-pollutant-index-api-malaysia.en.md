@@ -17,7 +17,7 @@ keyTakeaways:
   - "The API is calculated from six pollutants; the highest sub-index in that hour becomes the official API reading."
   - "PM2.5 (fine particulate matter) was added to the API calculation from 2017; fine particulates are usually the dominant pollutant during haze."
   - "Six categories: Good (0–50), Moderate (51–100), Unhealthy (101–200), Very unhealthy (201–300), Hazardous (>300) and Emergency (>500)."
-  - "Pollutant concentrations are measured by 52 automatic (CAQM) stations and 14 manual stations across Malaysia."
+  - "Pollutant concentrations are measured by 68 continuous air-quality monitoring stations (CAQMS) across Malaysia (the network expanded from about 52 stations previously), in addition to manual sampling stations."
   - "The API calculation is based on the Pollution Standard Index (PSI) adopted by the USEPA."
 appliesTo: "Parents, teachers, athletes, the elderly, pregnant women, children, people with heart or lung complications, and anyone planning outdoor activities, especially during the haze season."
 
@@ -28,18 +28,20 @@ faq:
     a: "Fine particulates — PM10 and PM2.5 — are the dominant pollutant most of the time, especially when haze occurs in Malaysia. During those periods the API reading is usually driven by the fine-particulate sub-index."
   - q: "At what reading should I avoid outdoor activity?"
     a: "At 101–200 (Unhealthy), sensitive groups — the elderly, pregnant women, children, and people with heart or lung complications — should limit outdoor activity. Above 300 (Hazardous), the elderly and high-risk individuals are prohibited from outdoor activity, and the general public is advised to avoid it."
+  - q: "Why do air-quality apps show a higher number than the official API?"
+    a: "Because most international apps display a US-style AQI that computes PM2.5 from recent-hours averages, whereas the DOE's official API uses a 24-hour moving average of PM2.5. During a sudden haze spike, the app AQI can read much higher than the official API for the same place at the same time — both are correct, just with different averaging windows and scales. For decisions in Malaysia, refer to the official DOE API reading."
 
 lang: "en"
-sourceContentHash: "fc387c28a9eb09b2"
+sourceContentHash: "d13c6952e19b98dc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-revision: 0
+reviewed: 2026-10-19
+reviewDue: 2027-10-19
+revision: 1
 verificationNeeded:
   - "Asthma is not specifically named in either of the two JAS PDFs referenced (the sources mention the elderly, pregnant women, children and heart/lung complications). The reference to asthma here is an editorial inference as a lung condition — confirm with an official JAS health advisory source."
   - "The Emergency band (>500) is not given a separate colour on the official JAS gauge (colours are defined only up to Hazardous). Confirm whether an official colour exists for this band before assigning one."
@@ -48,8 +50,12 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-19
+    change: "Refreshed: monitoring network updated to 68 CAQMS (from 52); added FAQ on why app AQI differs from the official API (24-hour PM2.5 average); added DOE-sourced references."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-28
+updated: 2026-10-19
 sources:
   - title: "Air Pollutant Index Management System (APIMS) — dataset"
     url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
@@ -63,6 +69,14 @@ sources:
   - title: "Air Pollution Index — What to do when API reach certain levels"
     url: "https://www.doe.gov.my/en/air-pollution-index/"
     publisher: "Jabatan Alam Sekitar (Department of Environment)"
+  - title: "DOE tracks 68 stations nationwide, no areas report good air as haze worsens"
+    url: "https://www.malaymail.com/news/malaysia/2026/08/22/doe-tracks-68-stations-nationwide-no-areas-report-good-air-as-haze-worsens/232331"
+    publisher: "Malay Mail (reporting Department of Environment figures)"
+    date: "2026-08-22"
+  - title: "Hazy math: DOE explains why your AQI says 250 when the official API is 175"
+    url: "https://www.malaymail.com/news/malaysia/2026/10/08/hazy-math-doe-explains-why-your-aqi-says-250-when-the-official-api-is-175/238237"
+    publisher: "Malay Mail (reporting Department of Environment)"
+    date: "2026-10-08"
 
 entity: "Indeks Pencemar Udara (IPU)"
 relations:
@@ -106,7 +120,7 @@ The API is mapped to six colour-coded categories. This is the part that matters 
 
 ## Where does this data come from?
 
-Readings are not taken from a single place. The DOE operates the National Air Quality Monitoring Network, which comprises **52 automatic stations** — Continuous Air Quality Monitoring (CAQM) stations — and **14 manual stations** that use high-volume samplers (HVS). These stations are placed at strategic locations covering industrial, urban, suburban and rural areas across the Peninsula, Sabah and Sarawak, so that readings represent the air people actually breathe.
+Readings are not taken from a single place. The DOE operates the National Air Quality Monitoring Network, which now comprises **68 continuous air-quality monitoring stations** (*Continuous Air Quality Monitoring Stations*, CAQMS) — expanded from about 52 stations previously — in addition to manual sampling stations that use high-volume samplers (HVS). These stations are placed at strategic locations covering industrial, urban, suburban and rural areas across the Peninsula, Sabah and Sarawak, so that readings represent the air people actually breathe.
 
 ## What's next
 

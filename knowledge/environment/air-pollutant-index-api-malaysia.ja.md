@@ -17,7 +17,7 @@ keyTakeaways:
   - "APIは六種類の汚染物質から計算される。その時間帯で最も高いサブ指数が公式のAPI読み値となる。"
   - "PM2.5（粒子状物質）は2017年からAPIの計算に組み込まれた。粒子状物質はヘイズ（煙霧）発生時の主要な汚染物質であることが多い。"
   - "六つの区分：良好（0–50）、中程度（51–100）、健康に悪い（101–200）、非常に健康に悪い（201–300）、危険（300超）、緊急（500超）。"
-  - "汚染物質の濃度は、マレーシア全土に設置された52カ所の自動観測局（CAQM）と14カ所の手動観測局によって測定される。"
+  - "汚染物質の濃度は、マレーシア全土の68カ所の連続大気質観測局（CAQMS）で測定される（従来の約52カ所から拡充）。これに加えて手動の高容量サンプラー（HVS）観測局がある。"
   - "APIの計算は、米国環境保護庁（USEPA）が採用するPollution Standard Index（PSI、汚染標準指数）を基礎としている。"
 appliesTo: "保護者、教師、アスリート、年長者、妊婦、子ども、心臓または肺の合併症を有する人、そして屋外活動を計画しているすべての人——特にヘイズ（煙霧）の季節において。"
 
@@ -28,18 +28,20 @@ faq:
     a: "粒子状物質——PM10およびPM2.5——は、ほとんどの場合において主要な汚染物質であり、特にマレーシアでヘイズ（煙霧）が発生している間はそうです。その際、API読み値は通常、粒子状物質のサブ指数によって左右されます。"
   - q: "どの読み値で屋外活動を避けるべきか？"
     a: "101–200（健康に悪い）では、敏感な集団——年長者、妊婦、子ども、心臓または肺の合併症を有する人——は屋外活動を制限すべきです。300超（危険）では、年長者と高リスクの人は屋外活動を禁止され、一般の人々にも避けるよう勧告されます。"
+  - q: "大気質アプリが公式APIより高い数値を表示するのはなぜか？"
+    a: "ほとんどの国際的なアプリは、直近数時間のPM2.5から算出する米国式のAQIを表示しますが、DOEの公式APIはPM2.5の24時間移動平均を用います。ヘイズ（煙霧）が急激に悪化する際には、同じ場所・同じ時刻でも、アプリのAQIが公式APIよりはるかに高く表示されることがあります。どちらも正しく、平均化の期間と尺度が異なるだけです。マレーシアでの判断には、DOEの公式APIを参照してください。"
 
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fc387c28a9eb09b2"
+sourceContentHash: "d13c6952e19b98dc"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-revision: 0
+reviewed: 2026-10-19
+reviewDue: 2027-10-19
+revision: 1
 verificationNeeded:
   - "参照した2件のDOE PDFのいずれにも、喘息は具体的に名指しされていない（出典は年長者、妊婦、子ども、心臓・肺の合併症について言及している）。ここでの喘息への言及は、肺の状態として編集上推論したものであり——DOEの公式健康アドバイスの出典で確認すること。"
   - "緊急区分（500超）には、DOEの公式ゲージ上で別個の色が割り当てられていない（色は危険までしか定義されていない）。この区分に色を設定する前に、公式の色が存在するかどうかを確認すること。"
@@ -48,8 +50,12 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-19
+    change: "更新：観測ネットワークを68カ所のCAQMS（従来は52カ所）に改訂。アプリのAQIが公式APIと異なる理由（PM2.5の24時間平均）に関するFAQを追加。DOEに基づく参考文献を追加。"
+    reviewer: "ashton-tan"
 
-updated: 2026-07-28
+updated: 2026-10-19
 sources:
   - title: "大気汚染指数管理システム（APIMS）— データセット (Air Pollutant Index Management System (APIMS) — dataset)"
     url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
@@ -63,6 +69,14 @@ sources:
   - title: "大気汚染指数 — APIが一定水準に達したときの対応 (Air Pollution Index — What to do when API reach certain levels)"
     url: "https://www.doe.gov.my/en/air-pollution-index/"
     publisher: "環境局（Jabatan Alam Sekitar / Department of Environment）"
+  - title: "DOEが全国68観測局を追跡、ヘイズ悪化で「良好」な地域はなし (DOE tracks 68 stations nationwide, no areas report good air as haze worsens)"
+    url: "https://www.malaymail.com/news/malaysia/2026/08/22/doe-tracks-68-stations-nationwide-no-areas-report-good-air-as-haze-worsens/232331"
+    publisher: "Malay Mail（環境局の数値を報道）"
+    date: "2026-08-22"
+  - title: "ヘイズの計算：アプリのAQIが250なのに公式APIが175である理由をDOEが説明 (Hazy math: DOE explains why your AQI says 250 when the official API is 175)"
+    url: "https://www.malaymail.com/news/malaysia/2026/10/08/hazy-math-doe-explains-why-your-aqi-says-250-when-the-official-api-is-175/238237"
+    publisher: "Malay Mail（環境局を報道）"
+    date: "2026-10-08"
 
 entity: "Indeks Pencemar Udara (IPU)"
 relations:
@@ -106,7 +120,7 @@ APIは六つの色分けされた区分に対応づけられます。これは�
 
 ## このデータはどこから来るのか？
 
-読み値は一箇所から取得されているわけではありません。DOEは国家大気質観測ネットワークを運営しており、これには**52カ所の自動観測局**——継続的大気質観測局（*Continuous Air Quality Monitoring*、CAQM）——と、高容量サンプラー（HVS）を使用する**14カ所の手動観測局**が含まれます。これらの観測局は、半島部、サバ、サラワク全域にわたる工業地帯、都市部、郊外、農村部を含む戦略的な地点に設置されており、読み値が住民が実際に吸う空気を代表するようにしています。
+読み値は一箇所から取得されているわけではありません。DOEは国家大気質観測ネットワークを運営しており、現在これには**68カ所の連続大気質観測局**（*Continuous Air Quality Monitoring Stations*、CAQMS）——従来の約52カ所から拡充——に加え、高容量サンプラー（HVS）を使用する手動観測局が含まれます。これらの観測局は、半島部、サバ、サラワク全域にわたる工業地帯、都市部、郊外、農村部を含む戦略的な地点に設置されており、読み値が住民が実際に吸う空気を代表するようにしています。
 
 ## 次にすべきこと
 

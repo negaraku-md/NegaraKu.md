@@ -17,7 +17,7 @@ keyTakeaways:
   - "El API se calcula a partir de seis contaminantes; el subíndice más alto de esa hora se convierte en la lectura oficial del API."
   - "La PM2.5 (partículas finas) se añadió al cálculo del API a partir de 2017; las partículas finas suelen ser el contaminante dominante durante la neblina."
   - "Seis categorías: Buena (0–50), Moderada (51–100), Insalubre (101–200), Muy insalubre (201–300), Peligrosa (>300) y Emergencia (>500)."
-  - "Las concentraciones de contaminantes se miden mediante 52 estaciones automáticas (CAQM) y 14 estaciones manuales en toda Malasia."
+  - "Las concentraciones de contaminantes se miden mediante 68 estaciones de monitoreo continuo de la calidad del aire (CAQMS) en toda Malasia (red ampliada desde unas 52 estaciones anteriormente), además de estaciones manuales de muestreo de alto volumen (HVS)."
   - "El cálculo del API se basa en el Pollution Standard Index (PSI) adoptado por la USEPA."
 appliesTo: "Padres, docentes, deportistas, personas mayores, mujeres embarazadas, niños, personas con complicaciones cardíacas o pulmonares, y cualquiera que planee actividades al aire libre, especialmente durante la temporada de neblina."
 
@@ -28,18 +28,20 @@ faq:
     a: "Las partículas finas — PM10 y PM2.5 — son el contaminante dominante la mayor parte del tiempo, especialmente cuando ocurre neblina en Malasia. Durante esos periodos la lectura del API suele estar impulsada por el subíndice de partículas finas."
   - q: "¿A partir de qué lectura debo evitar la actividad al aire libre?"
     a: "En 101–200 (Insalubre), los grupos sensibles — personas mayores, mujeres embarazadas, niños y personas con complicaciones cardíacas o pulmonares — deben limitar la actividad al aire libre. Por encima de 300 (Peligrosa), a las personas mayores y de alto riesgo se les prohíbe la actividad al aire libre, y se aconseja al público general evitarla."
+  - q: "¿Por qué las aplicaciones de calidad del aire muestran un número más alto que el API oficial?"
+    a: "Porque la mayoría de las aplicaciones internacionales muestran un AQI al estilo estadounidense que calcula la PM2.5 a partir del promedio de las últimas horas, mientras que el API oficial del DOE usa un promedio móvil de 24 horas de PM2.5. Durante un pico repentino de neblina, el AQI de la aplicación puede marcar mucho más que el API oficial para el mismo lugar y la misma hora — ambos son correctos, solo difieren el periodo de promedio y la escala. Para tomar decisiones en Malasia, consulte la lectura oficial del API del DOE."
 
 lang: "es"
-sourceContentHash: "fc387c28a9eb09b2"
+sourceContentHash: "d13c6952e19b98dc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-revision: 0
+reviewed: 2026-10-19
+reviewDue: 2027-10-19
+revision: 1
 verificationNeeded:
   - "Asthma is not specifically named in either of the two JAS PDFs referenced (the sources mention the elderly, pregnant women, children and heart/lung complications). The reference to asthma here is an editorial inference as a lung condition — confirm with an official JAS health advisory source."
   - "The Emergency band (>500) is not given a separate colour on the official JAS gauge (colours are defined only up to Hazardous). Confirm whether an official colour exists for this band before assigning one."
@@ -48,8 +50,12 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-19
+    change: "Actualizado: red de monitoreo actualizada a 68 CAQMS (antes 52); se añadió una pregunta frecuente sobre por qué el AQI de las aplicaciones difiere del API oficial (promedio de 24 horas de PM2.5); se añadieron referencias de fuentes del DOE."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-28
+updated: 2026-10-19
 sources:
   - title: "Sistema de Gestión del Índice de Contaminantes del Aire (APIMS) — conjunto de datos (Air Pollutant Index Management System (APIMS) — dataset)"
     url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
@@ -63,6 +69,14 @@ sources:
   - title: "Índice de Contaminación del Aire — Qué hacer cuando el API alcanza ciertos niveles (Air Pollution Index — What to do when API reach certain levels)"
     url: "https://www.doe.gov.my/en/air-pollution-index/"
     publisher: "Departamento de Medio Ambiente (Jabatan Alam Sekitar)"
+  - title: "El DOE monitorea 68 estaciones en todo el país; ninguna zona registra aire bueno a medida que empeora la neblina (DOE tracks 68 stations nationwide, no areas report good air as haze worsens)"
+    url: "https://www.malaymail.com/news/malaysia/2026/08/22/doe-tracks-68-stations-nationwide-no-areas-report-good-air-as-haze-worsens/232331"
+    publisher: "Malay Mail (informando sobre cifras del Departamento de Medio Ambiente)"
+    date: "2026-08-22"
+  - title: "Matemática neblinosa: el DOE explica por qué su AQI marca 250 cuando el API oficial es 175 (Hazy math: DOE explains why your AQI says 250 when the official API is 175)"
+    url: "https://www.malaymail.com/news/malaysia/2026/10/08/hazy-math-doe-explains-why-your-aqi-says-250-when-the-official-api-is-175/238237"
+    publisher: "Malay Mail (informando sobre el Departamento de Medio Ambiente)"
+    date: "2026-10-08"
 
 entity: "Indeks Pencemar Udara (IPU)"
 relations:
@@ -106,7 +120,7 @@ El API se asigna a seis categorías codificadas por colores. Esta es la parte qu
 
 ## ¿De dónde proceden estos datos?
 
-Las lecturas no se toman de un único lugar. El DOE opera la Red Nacional de Monitoreo de la Calidad del Aire, que comprende **52 estaciones automáticas** — estaciones de Monitoreo Continuo de la Calidad del Aire (Continuous Air Quality Monitoring, CAQM) — y **14 estaciones manuales** que utilizan muestreadores de alto volumen (HVS). Estas estaciones se ubican en lugares estratégicos que cubren zonas industriales, urbanas, suburbanas y rurales en toda la Península, Sabah y Sarawak, de modo que las lecturas representen el aire que la gente respira realmente.
+Las lecturas no se toman de un único lugar. El DOE opera la Red Nacional de Monitoreo de la Calidad del Aire, que comprende ahora **68 estaciones de monitoreo continuo de la calidad del aire** (*Continuous Air Quality Monitoring Stations*, CAQMS) — ampliada desde unas 52 estaciones anteriormente — además de estaciones de muestreo manual que utilizan muestreadores de alto volumen (HVS). Estas estaciones se ubican en lugares estratégicos que cubren zonas industriales, urbanas, suburbanas y rurales en toda la Península, Sabah y Sarawak, de modo que las lecturas representen el aire que la gente respira realmente.
 
 ## Qué sigue
 

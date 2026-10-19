@@ -17,7 +17,7 @@ keyTakeaways:
   - "IPU 由六种污染物计算得出；当时该小时最高的子指数成为官方 IPU 读数。"
   - "PM2.5（细颗粒物）自 2017 年起纳入 IPU 计算；细颗粒物通常是烟霾期间的主导污染物。"
   - "六个类别：良好（0–50）、中等（51–100）、不健康（101–200）、非常不健康（201–300）、危险（>300）和紧急（>500）。"
-  - "污染物浓度由全马 52 座自动监测站（CAQM）和 14 座手动监测站测量。"
+  - "污染物浓度由全马 68 座持续空气质量监测站（CAQMS）测量（监测网络已从此前约 52 座扩大），另有手动采样站。"
   - "IPU 的计算以美国环保署（USEPA）采用的污染标准指数（Pollution Standard Index, PSI）为基础。"
 appliesTo: "父母、教师、运动员、年长者、孕妇、儿童、患有心脏或肺部并发症者，以及任何计划进行户外活动的人——尤其是在烟霾季节期间。"
 
@@ -28,18 +28,20 @@ faq:
     a: "细颗粒物——PM10 和 PM2.5——在大多数时候都是主导污染物，尤其是在马来西亚发生烟霾时。此时 IPU 读数通常由细颗粒物子指数推动。"
   - q: "读数达到多少时我应该避免户外活动？"
     a: "在 101–200（不健康）时，敏感群体——年长者、孕妇、儿童以及患有心脏或肺部并发症者——应限制户外活动。在超过 300（危险）时，年长者和高风险人群被禁止户外活动，一般民众也被建议避免户外活动。"
+  - q: "为什么空气质量应用程序显示的数字比官方 IPU 更高？"
+    a: "因为大多数国际应用程序显示的是美国式 AQI，其 PM2.5 是根据最近数小时的平均值计算的，而 JAS 官方 IPU 使用的是 PM2.5 的 24 小时移动平均值。当烟霾突然飙升时，同一地点、同一时间，应用程序的 AQI 读数可能比官方 IPU 高出许多——两者都是正确的，只是平均时段和刻度不同。在马来西亚做决定时，请以 JAS 官方 IPU 读数为准。"
 
 lang: "zh"
-sourceContentHash: "fc387c28a9eb09b2"
+sourceContentHash: "d13c6952e19b98dc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-revision: 0
+reviewed: 2026-10-19
+reviewDue: 2027-10-19
+revision: 1
 verificationNeeded:
   - "在所引用的两份 JAS PDF 中并未特别点名哮喘（来源提到年长者、孕妇、儿童及心肺并发症）。此处提及哮喘是编辑推断将其归为肺部状况 — 请以 JAS 官方健康建议来源加以确认。"
   - "紧急级别（>500）在JAS官方量表上未被赋予单独的颜色（颜色仅定义到「危险」级别）。在为此级别设定颜色之前，请确认是否存在一个官方颜色。"
@@ -48,8 +50,12 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-19
+    change: "已更新：监测网络更新为 68 座 CAQMS（此前为 52 座）；新增常见问题，说明应用程序 AQI 为何与官方 IPU 不同（PM2.5 24 小时平均值）；新增 JAS 相关来源参考。"
+    reviewer: "ashton-tan"
 
-updated: 2026-07-28
+updated: 2026-10-19
 sources:
   - title: "空气污染指数管理系统（APIMS）— 数据集 (Air Pollutant Index Management System (APIMS) — dataset)"
     url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
@@ -63,6 +69,14 @@ sources:
   - title: "空气污染指数 — 当 API 达到特定水平时的应对措施 (Air Pollution Index — What to do when API reach certain levels)"
     url: "https://www.doe.gov.my/en/air-pollution-index/"
     publisher: "环境局（Jabatan Alam Sekitar / Department of Environment）"
+  - title: "环境局追踪全国 68 个监测站，烟霾恶化下无地区空气良好 (DOE tracks 68 stations nationwide, no areas report good air as haze worsens)"
+    url: "https://www.malaymail.com/news/malaysia/2026/08/22/doe-tracks-68-stations-nationwide-no-areas-report-good-air-as-haze-worsens/232331"
+    publisher: "Malay Mail (reporting Department of Environment figures)"
+    date: "2026-08-22"
+  - title: "烟霾中的数学：环境局解释为何你的 AQI 显示 250，而官方 API 为 175 (Hazy math: DOE explains why your AQI says 250 when the official API is 175)"
+    url: "https://www.malaymail.com/news/malaysia/2026/10/08/hazy-math-doe-explains-why-your-aqi-says-250-when-the-official-api-is-175/238237"
+    publisher: "Malay Mail (reporting Department of Environment)"
+    date: "2026-10-08"
 
 entity: "Indeks Pencemar Udara (IPU)"
 relations:
@@ -106,7 +120,7 @@ IPU 被映射到六个带颜色的类别。这是对日常决策最重要的部�
 
 ## 这些数据从何而来？
 
-读数并非取自单一地点。JAS 运营着全国空气质量监测网络，涵盖 **52 座自动监测站**——持续空气质量监测站（*Continuous Air Quality Monitoring*, CAQM）——以及使用高容量采样器（HVS）的 **14 座手动监测站**。这些监测站被设置在战略地点，涵盖遍布半岛、沙巴和砂拉越的工业区、城市、郊区和乡村地区，使读数能代表居民真正呼吸的空气。
+读数并非取自单一地点。JAS 运营着全国空气质量监测网络，现已涵盖 **68 座持续空气质量监测站**（*Continuous Air Quality Monitoring Stations*, CAQMS）——由此前约 52 座扩大而来——此外还有使用高容量采样器（HVS）的手动采样站。这些监测站被设置在战略地点，涵盖遍布半岛、沙巴和砂拉越的工业区、城市、郊区和乡村地区，使读数能代表居民真正呼吸的空气。
 
 ## 接下来该怎么做
 

@@ -17,7 +17,7 @@ keyTakeaways:
   - "IPU는 여섯 가지 오염물질에서 산출되며, 그 시각에 가장 높은 하위지수가 공식 IPU 수치가 됩니다."
   - "PM2.5(미세먼지)는 2017년부터 IPU 산출에 포함되었으며, 연무 기간에는 통상 미세먼지가 지배적인 오염물질입니다."
   - "여섯 개 등급: 좋음(0–50), 보통(51–100), 나쁨(101–200), 매우 나쁨(201–300), 위험(>300), 비상(>500)."
-  - "오염물질 농도는 말레이시아 전역의 자동 관측소 52개소(CAQM)와 수동 관측소 14개소에서 측정됩니다."
+  - "오염물질 농도는 말레이시아 전역의 연속 대기질 관측소 68개소(CAQMS)에서 측정되며(기존 약 52개소에서 확대), 이와 별도로 수동 대용량 시료채취기(HVS) 관측소가 있습니다."
   - "IPU 산출은 미국 환경보호청(USEPA)이 채택한 오염표준지수(Pollution Standard Index, PSI)에 기반합니다."
 appliesTo: "부모, 교사, 운동선수, 고령자, 임산부, 어린이, 심장 또는 폐 질환이 있는 사람, 그리고 특히 연무철에 야외 활동을 계획하는 모든 사람."
 
@@ -28,18 +28,20 @@ faq:
     a: "미세먼지 — PM10과 PM2.5 — 가 대부분의 경우, 특히 말레이시아에서 연무가 발생할 때 지배적인 오염물질입니다. 그때 IPU 수치는 대개 미세먼지 하위지수에 의해 좌우됩니다."
   - q: "어느 수치에서 야외 활동을 피해야 합니까?"
     a: "101–200(나쁨)에서는 민감군 — 고령자, 임산부, 어린이, 심장 또는 폐 질환이 있는 사람 — 이 야외 활동을 제한해야 합니다. 300을 넘으면(위험) 고령자와 고위험군은 야외 활동이 금지되며, 일반 대중도 이를 피하도록 권고됩니다."
+  - q: "대기질 앱이 공식 API보다 더 높은 수치를 보여 주는 이유는 무엇입니까?"
+    a: "대부분의 국제 앱은 최근 몇 시간의 PM2.5를 기준으로 한 미국식 AQI를 표시하는 반면, JAS의 공식 API는 PM2.5의 24시간 이동평균을 사용합니다. 연무가 갑자기 급증할 때는 같은 장소·같은 시각이라도 앱의 AQI가 공식 API보다 훨씬 높게 나올 수 있습니다. 둘 다 맞으며, 평균 산출 기간과 척도가 다를 뿐입니다. 말레이시아에서의 판단에는 JAS의 공식 API를 참조하십시오."
 
 lang: "ko"
-sourceContentHash: "fc387c28a9eb09b2"
+sourceContentHash: "d13c6952e19b98dc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-revision: 0
+reviewed: 2026-10-19
+reviewDue: 2027-10-19
+revision: 1
 verificationNeeded:
   - "천식은 참조된 두 건의 JAS PDF에서 명시적으로 언급되지 않았습니다(출처는 고령자, 임산부, 어린이, 심장/폐 질환을 언급함). 여기서 천식 언급은 폐 질환의 하나로 본 편집상의 추론이므로 — JAS의 공식 건강 권고 출처로 확인 필요."
   - "비상 구간(>500)은 JAS 공식 게이지에서 별도의 색상이 부여되어 있지 않습니다(색상은 위험까지만 정의됨). 이 구간에 설정하기 전에 공식 색상이 존재하는지 확인 필요."
@@ -48,8 +50,12 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-19
+    change: "갱신: 관측 네트워크를 68개 CAQMS(기존 52개)로 최신화; 앱 AQI가 공식 API와 다른 이유(PM2.5 24시간 평균)에 관한 FAQ 추가; DOE 기반 참고자료 추가."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-28
+updated: 2026-10-19
 sources:
   - title: "대기오염지수 관리시스템(APIMS) — 데이터셋 (Air Pollutant Index Management System (APIMS) — dataset)"
     url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
@@ -63,6 +69,14 @@ sources:
   - title: "대기오염지수 — API가 특정 수준에 도달했을 때 해야 할 일 (Air Pollution Index — What to do when API reach certain levels)"
     url: "https://www.doe.gov.my/en/air-pollution-index/"
     publisher: "환경국(Jabatan Alam Sekitar / Department of Environment)"
+  - title: "DOE, 전국 68개 관측소 추적…연무 악화 속 '좋음' 지역 없어 (DOE tracks 68 stations nationwide, no areas report good air as haze worsens)"
+    url: "https://www.malaymail.com/news/malaysia/2026/08/22/doe-tracks-68-stations-nationwide-no-areas-report-good-air-as-haze-worsens/232331"
+    publisher: "Malay Mail (환경국 수치 보도)"
+    date: "2026-08-22"
+  - title: "연무의 계산법: 앱 AQI는 250인데 공식 API는 175인 이유를 DOE가 설명 (Hazy math: DOE explains why your AQI says 250 when the official API is 175)"
+    url: "https://www.malaymail.com/news/malaysia/2026/10/08/hazy-math-doe-explains-why-your-aqi-says-250-when-the-official-api-is-175/238237"
+    publisher: "Malay Mail (환경국 보도)"
+    date: "2026-10-08"
 
 entity: "Indeks Pencemar Udara (IPU)"
 relations:
@@ -106,7 +120,7 @@ IPU는 여섯 개의 색상 등급으로 대응됩니다. 이것이 일상적 �
 
 ## 이 데이터는 어디에서 옵니까?
 
-수치는 한 곳에서만 취하지 않습니다. JAS는 **자동 관측소 52개소** — 연속 대기질 관측소(*Continuous Air Quality Monitoring*, CAQM) — 와 대용량 시료채취기(HVS)를 사용하는 **수동 관측소 14개소**를 포함하는 국가 대기질 관측 네트워크를 운영합니다. 이 관측소들은 반도 지역(Semenanjung), 사바(Sabah), 사라왁(Sarawak) 전역의 공업 지역, 도시, 준도시, 농촌을 아우르는 전략적 위치에 배치되어, 수치가 주민이 실제로 들이마시는 공기를 대표하도록 합니다.
+수치는 한 곳에서만 취하지 않습니다. JAS는 현재 **연속 대기질 관측소 68개소**(*Continuous Air Quality Monitoring Stations*, CAQMS) — 기존 약 52개소에서 확대 — 와 더불어 대용량 시료채취기(HVS)를 사용하는 수동 관측소를 포함하는 국가 대기질 관측 네트워크를 운영합니다. 이 관측소들은 반도 지역(Semenanjung), 사바(Sabah), 사라왁(Sarawak) 전역의 공업 지역, 도시, 준도시, 농촌을 아우르는 전략적 위치에 배치되어, 수치가 주민이 실제로 들이마시는 공기를 대표하도록 합니다.
 
 ## 다음 단계
 

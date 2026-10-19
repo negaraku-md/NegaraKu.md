@@ -17,7 +17,7 @@ keyTakeaways:
   - "IPU dikira daripada enam pencemar; sub-indeks yang paling tinggi pada jam itu menjadi bacaan IPU rasmi."
   - "PM2.5 (habuk halus) dimasukkan ke dalam pengiraan IPU mulai 2017; habuk halus lazimnya pencemar dominan semasa jerebu."
   - "Enam kategori: Baik (0–50), Sederhana (51–100), Tidak sihat (101–200), Sangat tidak sihat (201–300), Merbahaya (>300) dan Kecemasan (>500)."
-  - "Kepekatan pencemar diukur oleh 52 stesen automatik (CAQM) dan 14 stesen manual di seluruh Malaysia."
+  - "Kepekatan pencemar diukur oleh 68 stesen pemantauan kualiti udara berterusan (CAQMS) di seluruh Malaysia (rangkaian diperluas daripada 52 stesen sebelum ini), selain stesen pensampelan manual."
   - "Pengiraan IPU berasaskan Pollution Standard Index (PSI) yang diterima pakai oleh USEPA."
 appliesTo: "Ibu bapa, guru, atlet, warga tua, wanita hamil, kanak-kanak, penghidap komplikasi jantung atau paru-paru, serta sesiapa yang merancang aktiviti luar terutamanya semasa musim jerebu."
 
@@ -28,6 +28,8 @@ faq:
     a: "Habuk halus — PM10 dan PM2.5 — merupakan pencemar dominan pada kebanyakan masa, terutamanya semasa berlakunya jerebu di Malaysia. Ketika itu bacaan IPU biasanya dipacu oleh sub-indeks habuk halus."
   - q: "Pada bacaan berapa saya patut mengelakkan aktiviti luar?"
     a: "Pada 101–200 (Tidak sihat), kumpulan sensitif — warga tua, wanita hamil, kanak-kanak dan penghidap komplikasi jantung atau paru-paru — patut mengehadkan aktiviti luar. Pada melebihi 300 (Merbahaya), warga tua dan orang berisiko tinggi dilarang beraktiviti di luar, dan orang ramai dinasihatkan mengelakkannya."
+  - q: "Kenapa aplikasi kualiti udara menunjukkan nombor lebih tinggi daripada IPU rasmi?"
+    a: "Kerana kebanyakan aplikasi antarabangsa memaparkan AQI gaya Amerika Syarikat yang mengira PM2.5 berdasarkan purata jam terkini, manakala IPU rasmi JAS menggunakan purata bergerak 24 jam bagi PM2.5. Semasa jerebu memuncak secara mendadak, AQI aplikasi boleh membaca jauh lebih tinggi daripada IPU rasmi untuk kawasan yang sama pada jam yang sama — kedua-duanya betul, cuma tempoh purata dan skalanya berbeza. Untuk keputusan di Malaysia, rujuk bacaan IPU rasmi JAS."
 
 lang: "ms"
 masterLanguage: "ms"
@@ -36,9 +38,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
-revision: 0
+reviewed: 2026-10-19
+reviewDue: 2027-10-19
+revision: 1
 verificationNeeded:
   - "Asma tidak dinamakan secara khusus dalam kedua-dua PDF JAS yang dirujuk (sumber menyebut warga tua, wanita hamil, kanak-kanak dan komplikasi jantung/paru-paru). Rujukan asma di sini ialah inferens editorial sebagai keadaan paru-paru — sahkan dengan sumber nasihat kesihatan rasmi JAS."
   - "Band Kecemasan (>500) tidak diberi warna berasingan pada tolok rasmi JAS (warna hanya ditakrifkan sehingga Merbahaya). Sahkan sama ada satu warna rasmi wujud untuk band ini sebelum menetapkannya."
@@ -47,8 +49,12 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-19
+    change: "Refreshed: monitoring network updated to 68 CAQMS (from 52); added FAQ on why app AQI differs from the official API (24-hour PM2.5 average); added DOE-sourced references."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-28
+updated: 2026-10-19
 sources:
   - title: "Air Pollutant Index Management System (APIMS) — dataset"
     url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
@@ -62,6 +68,14 @@ sources:
   - title: "Air Pollution Index — What to do when API reach certain levels"
     url: "https://www.doe.gov.my/en/air-pollution-index/"
     publisher: "Jabatan Alam Sekitar (Department of Environment)"
+  - title: "DOE tracks 68 stations nationwide, no areas report good air as haze worsens"
+    url: "https://www.malaymail.com/news/malaysia/2026/08/22/doe-tracks-68-stations-nationwide-no-areas-report-good-air-as-haze-worsens/232331"
+    publisher: "Malay Mail (reporting Department of Environment figures)"
+    date: "2026-08-22"
+  - title: "Hazy math: DOE explains why your AQI says 250 when the official API is 175"
+    url: "https://www.malaymail.com/news/malaysia/2026/10/08/hazy-math-doe-explains-why-your-aqi-says-250-when-the-official-api-is-175/238237"
+    publisher: "Malay Mail (reporting Department of Environment)"
+    date: "2026-10-08"
 
 entity: "Indeks Pencemar Udara (IPU)"
 relations:
@@ -105,7 +119,7 @@ IPU dipetakan kepada enam kategori berwarna. Inilah bahagian yang paling penting
 
 ## Dari mana datangnya data ini?
 
-Bacaan tidak diambil daripada satu tempat. JAS mengendalikan Rangkaian Pemantauan Kualiti Udara Kebangsaan yang merangkumi **52 stesen automatik** — Stesen Pemantauan Kualiti Udara Berterusan (*Continuous Air Quality Monitoring*, CAQM) — dan **14 stesen manual** yang menggunakan pensampel isipadu tinggi (HVS). Stesen ini diletakkan di lokasi strategik merangkumi kawasan perindustrian, bandar, pinggir bandar dan luar bandar di seluruh Semenanjung, Sabah dan Sarawak, supaya bacaan mewakili udara yang benar-benar dihidu penduduk.
+Bacaan tidak diambil daripada satu tempat. JAS mengendalikan Rangkaian Pemantauan Kualiti Udara Kebangsaan yang kini merangkumi **68 stesen pemantauan kualiti udara berterusan** (*Continuous Air Quality Monitoring Stations*, CAQMS) — diperluas daripada kira-kira 52 stesen sebelum ini — selain stesen pensampelan manual yang menggunakan pensampel isipadu tinggi (HVS). Stesen ini diletakkan di lokasi strategik merangkumi kawasan perindustrian, bandar, pinggir bandar dan luar bandar di seluruh Semenanjung, Sabah dan Sarawak, supaya bacaan mewakili udara yang benar-benar dihidu penduduk.
 
 ## Apa seterusnya
 
