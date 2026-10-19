@@ -145,10 +145,21 @@ export default {
       if (!isAsset) {
         // HTML/pages/redirects: cache at the EDGE (s-maxage) and keep the browser
         // revalidating, so a deploy + purge is visible at once — never a stale
-        // browser copy. Content-hashed assets keep their far-future origin header.
+        // browser copy.
         // (Set Browser Cache TTL = "Respect Existing Headers" in the CF dashboard
         // so this max-age=0 isn't overridden on cache hits.)
         cached.headers.set('Cache-Control', 'public, max-age=0, s-maxage=600, stale-while-revalidate=60');
+      } else {
+        // Static assets: GitHub Pages only sends max-age=600, so PageSpeed flags
+        // "use efficient cache lifetimes" (~4.4 MB, mostly the homepage /og card
+        // thumbnails + images). Content-hashed /_astro/* is safe forever (immutable);
+        // everything else (images, /og thumbnails, non-hashed fonts) that can change
+        // on deploy gets a week — long enough for the win, refreshed by the deploy
+        // cache-purge. Respected because Browser Cache TTL = "Respect Existing Headers".
+        cached.headers.set(
+          'Cache-Control',
+          immutable ? 'public, max-age=31536000, immutable' : 'public, max-age=604800',
+        );
       }
       ctx.waitUntil(cache.put(request, cached.clone()));
       return cached;
