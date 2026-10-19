@@ -39,6 +39,29 @@ export default {
     try {
       const url = new URL(request.url);
 
+      // Canonical-path redirects. A static host (GitHub Pages) can't express these
+      // as patterns, so the Worker owns them — covering ALL variants, not just the
+      // handful Search Console happened to crawl (those are also enumerated in
+      // astro.config redirects as a static-host fallback):
+      //   /ms/*  → /*    ms is the default locale, served at the root (never /ms),
+      //                  so every /ms/… link 404s.
+      //   /…/.md → /…/   crawlers append ".md" to the trailing-slash URL for raw
+      //                  markdown; the real raw file is /….md (no slash), so the
+      //                  slashed /…/.md 404s — send it to the HTML page.
+      if (request.method === 'GET' || request.method === 'HEAD') {
+        let dest = null;
+        if (url.pathname === '/ms' || url.pathname.startsWith('/ms/')) {
+          dest = url.pathname.replace(/^\/ms(?=\/|$)/, '') || '/';
+          // land on the canonical trailing-slash page in one hop (skip files like
+          // .md/.xml so we don't break the raw-markdown endpoint) rather than
+          // leaving GitHub Pages to add the slash with a second 301.
+          if (dest !== '/' && !dest.endsWith('/') && !/\.[a-z0-9]+$/i.test(dest)) dest += '/';
+        } else if (url.pathname.endsWith('/.md') && url.pathname !== '/.md') {
+          dest = url.pathname.slice(0, -'/.md'.length) + '/';
+        }
+        if (dest) return Response.redirect(url.origin + dest + url.search, 301);
+      }
+
       // Live analytics query (contributor-only): POST /_a/q runs a whitelisted
       // Analytics Engine group-by in real time (see query.js). Short-circuits —
       // never touches the origin or the pageview logger.
