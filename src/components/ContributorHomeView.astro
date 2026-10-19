@@ -145,8 +145,8 @@ const findTask = L('Cari tugas', 'Find a task', '寻找任务', 'ஒரு ப�
   /* Shown ONLY to a recognised contributor who has switched to Contributor View.
      Hidden by default (and for readers / no-JS / bots), so the reader home shows
      normally. HomeView hides its own reader content under the same condition. */
-  .cv-home { display: none; }
-  :global(html[data-contributor='true'][data-view='contributor']) .cv-home { display: block; }
+  /* Rendered as its own page (/workspace) — always visible (no view-gating). */
+  .cv-home { display: block; }
 
   /* Home-style hero (matches HomeView): gold-tinted gradient band, big left
      headline + pitch + one CTA, with the project "at a glance" cards on the right. */

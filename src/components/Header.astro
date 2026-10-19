@@ -26,7 +26,7 @@ const NAV_GROUPS = [
 
 <header class="site-header" data-pagefind-ignore>
   <div class="container bar">
-    <a class="brand" href={localePath('/', locale)} aria-label="NegaraKu.md">
+    <a class="brand" href={localePath('/', locale)} data-home-reader={localePath('/', locale)} data-home-contributor={localePath('/workspace', locale)} aria-label="NegaraKu.md">
       <svg class="brand-mark" aria-hidden="true" width="52" height="52" viewBox="0 0 512 512">
         <polygon points="256.00,23.50 54.65,139.75 54.65,372.25 256.00,488.50 457.35,372.25 457.35,139.75" fill="#0A0A0A" stroke="#0A0A0A" stroke-width="34" stroke-linejoin="round" />
         <polygon points="256.00,6.50 39.93,131.25 39.93,380.75 256.00,505.50 472.07,380.75 472.07,131.25" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linejoin="round" stroke-linecap="round" />
@@ -95,7 +95,7 @@ const NAV_GROUPS = [
           view (highlighted) and the one you can switch to, instead of a single
           flip-label button that was ambiguous. Hidden unless a verified contributor
           is recognised (html[data-contributor]). */}
-      <div class="view-switch" data-view-toggle data-home={localePath('/', locale)} role="group" aria-label={t('cnav.viewSwitch', locale)}>
+      <div class="view-switch" data-view-toggle data-home-reader={localePath('/', locale)} data-home-contributor={localePath('/workspace', locale)} role="group" aria-label={t('cnav.viewSwitch', locale)}>
         <button type="button" class="vs-seg" data-view-seg="reader">
           <span class="vs-ico" aria-hidden="true">📖</span><span class="vs-label">{t('cnav.reader', locale)}</span>
         </button>
@@ -201,9 +201,20 @@ const NAV_GROUPS = [
   const VIEW_KEY = 'nk:view';
   const CONTRIB_KEY = 'nk:contributor';
   const root = document.documentElement;
-  const applyView = (v: string) => {
-    root.dataset.view = v === 'contributor' ? 'contributor' : 'reader';
+  // Point the brand/logo at the active view's home — reader: /, contributor:
+  // /workspace (the Contributor workspace is its own page now, not a swap on /).
+  const syncBrand = (view: string) => {
+    document.querySelectorAll('.brand').forEach((a) => {
+      const h = a.getAttribute('data-home-' + view);
+      if (h) a.setAttribute('href', h);
+    });
   };
+  const applyView = (v: string) => {
+    const view = v === 'contributor' ? 'contributor' : 'reader';
+    root.dataset.view = view;
+    syncBrand(view);
+  };
+  syncBrand(root.dataset.view === 'contributor' ? 'contributor' : 'reader');
   const setContributor = (on: boolean) => {
     if (on) root.dataset.contributor = 'true';
     else delete root.dataset.contributor;
@@ -234,7 +245,7 @@ const NAV_GROUPS = [
       localStorage.setItem(VIEW_KEY, next);
       let dest = '';
       try { dest = localStorage.getItem(URL_KEYS[next]) || ''; } catch {}
-      if (!dest) dest = group.getAttribute('data-home') || '/';
+      if (!dest) dest = group.getAttribute('data-home-' + next) || '/';
       // Navigate to the saved page if it's elsewhere; otherwise flip in place.
       if (dest !== here()) { location.assign(dest); return; }
       applyView(next);

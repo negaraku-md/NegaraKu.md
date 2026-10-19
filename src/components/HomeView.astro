@@ -6,7 +6,6 @@ import { articlesForLocale } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
 import ArticleStrip from './ArticleStrip.astro';
 import WelcomeCard from './WelcomeCard.astro';
-import ContributorHomeView from './ContributorHomeView.astro';
 import { HERO_STATS as stats } from '@/lib/heroStats';
 
 interface Props {
@@ -113,13 +112,9 @@ const mrKeys = mostReadKeys(items, STRIP);
 <ArticleStrip locale={locale} articles={items} moreHref="/most-read" limit={STRIP} />
 </div>
 
-<ContributorHomeView locale={locale} />
-
 <style>
-  /* Home — reader hero + (for contributors) the workspace swap. */
-  /* The reader home is replaced by the Contributor workspace when a recognised
-     contributor switches to Contributor View (same condition as ContributorHomeView). */
-  :global(html[data-contributor='true'][data-view='contributor']) .reader-home { display: none; }
+  /* Home — the reader hero. The Contributor workspace is now its own page
+     (/workspace, rendered by ContributorHomeView), no longer swapped in here. */
 
   /* Microsoft-style structure, 1company brand: eyebrow → headline → pitch →
      search → one CTA on the left; the unique-Malaysia stats are the right-hand
