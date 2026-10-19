@@ -393,20 +393,38 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
             d.verificationNeeded.length > 0 && (
               <div class="verify">
                 <b>
-                  ⚑ {L('Menunggu pengesahan pakar', 'Awaiting expert verification', '待专家核实', 'நிபுணர் சரிபார்ப்புக்காகக் காத்திருக்கிறது', '専門家による検証待ち', '전문가 검증 대기 중', 'รอการตรวจสอบจากผู้เชี่ยวชาญ', 'Đang chờ chuyên gia xác minh', 'Menunggu verifikasi ahli', 'في انتظار تحقّق الخبراء', 'विशेषज्ञ सत्यापन की प्रतीक्षा में', 'A la espera de verificación por expertos', "En attente de vérification par des experts")}
+                  ⚑ {isReviewed
+                    ? L('Perkara untuk disahkan oleh pakar', 'Points to confirm with an expert', '有待专家确认的要点', 'நிபுணரிடம் உறுதிப்படுத்த வேண்டிய புள்ளிகள்', '専門家による確認が必要な点', '전문가 확인이 필요한 사항', 'ประเด็นที่ควรยืนยันกับผู้เชี่ยวชาญ', 'Những điểm cần chuyên gia xác nhận', 'Hal yang perlu dikonfirmasi oleh pakar', 'نقاط بحاجة إلى تأكيد من خبير', 'विशेषज्ञ से पुष्टि करने योग्य बिंदु', 'Puntos por confirmar con un experto', 'Points à confirmer avec un expert')
+                    : L('Menunggu pengesahan pakar', 'Awaiting expert verification', '待专家核实', 'நிபுணர் சரிபார்ப்புக்காகக் காத்திருக்கிறது', '専門家による検証待ち', '전문가 검증 대기 중', 'รอการตรวจสอบจากผู้เชี่ยวชาญ', 'Đang chờ chuyên gia xác minh', 'Menunggu verifikasi ahli', 'في انتظار تحقّق الخبراء', 'विशेषज्ञ सत्यापन की प्रतीक्षा में', 'A la espera de verificación por expertos', "En attente de vérification par des experts")}
                 </b>
                 <p>
-                  {L(
-                    'Perkara berikut sengaja tidak dinyatakan atau diterangkan secara umum sahaja sehingga disahkan oleh pakar bidang:',
-                    'The following are deliberately unstated or described only qualitatively until confirmed by a subject-matter expert:',
-                    '以下内容在专家确认前，刻意未予明示或仅作定性描述：',
-                    'பின்வருபவை, துறை நிபுணரால் உறுதிப்படுத்தப்படும் வரை, வேண்டுமென்றே குறிப்பிடப்படாமல் அல்லது பொதுவாக மட்டுமே விவரிக்கப்பட்டுள்ளன:',
-                    '以下の事項は、分野の専門家によって確認されるまで、意図的に明示せず、または概略的にのみ記述しています：',
-                    '다음 사항은 해당 분야 전문가가 확인하기 전까지 의도적으로 명시하지 않거나 정성적으로만 기술하였습니다:',
-                    'รายการต่อไปนี้จงใจไม่ระบุหรืออธิบายเพียงในเชิงคุณภาพ จนกว่าจะได้รับการยืนยันจากผู้เชี่ยวชาญเฉพาะด้าน:', 'Những mục sau đây được cố ý không nêu rõ hoặc chỉ mô tả một cách định tính cho đến khi được chuyên gia trong lĩnh vực xác nhận:',
-                    'Hal-hal berikut sengaja tidak dinyatakan atau hanya dijelaskan secara umum sampai dikonfirmasi oleh pakar bidang terkait:',
-                    'العناصر التالية غير مذكورة عمدًا أو موصوفة نوعيًا فقط إلى أن يؤكّدها خبير مختص:', 'निम्नलिखित को किसी विषय-विशेषज्ञ द्वारा पुष्टि किए जाने तक जानबूझकर अनकहा छोड़ दिया गया है या केवल गुणात्मक रूप से वर्णित किया गया है:', 'Los siguientes puntos se omiten deliberadamente o se describen solo de forma cualitativa hasta que los confirme un experto en la materia:', "Les éléments suivants sont volontairement omis ou décrits uniquement de manière qualitative jusqu'à confirmation par un expert du domaine :",
-                  )}
+                  {isReviewed
+                    ? L(
+                        'Artikel ini telah disemak dan diterbitkan; perkara berikut masih memerlukan pengesahan pakar bidang:',
+                        'This article has been reviewed and published; the points below still warrant confirmation by a subject-matter expert:',
+                        '本文已审阅并发布；以下要点仍有待领域专家确认：',
+                        'இந்தக் கட்டுரை மதிப்பாய்வு செய்யப்பட்டு வெளியிடப்பட்டது; கீழ்க்கண்ட புள்ளிகள் இன்னும் துறை நிபுணரால் உறுதிப்படுத்தப்பட வேண்டும்:',
+                        '本記事はレビュー・公開済みですが、以下の点は引き続き分野の専門家による確認が必要です：',
+                        '이 문서는 검토 후 게시되었으나, 아래 사항은 여전히 해당 분야 전문가의 확인이 필요합니다:',
+                        'บทความนี้ผ่านการตรวจทานและเผยแพร่แล้ว แต่ประเด็นด้านล่างยังควรได้รับการยืนยันจากผู้เชี่ยวชาญเฉพาะด้าน:',
+                        'Bài viết này đã được duyệt và xuất bản; các điểm dưới đây vẫn cần được chuyên gia trong lĩnh vực xác nhận:',
+                        'Artikel ini telah ditinjau dan diterbitkan; hal-hal berikut masih memerlukan konfirmasi dari pakar bidang terkait:',
+                        'تمت مراجعة هذه المقالة ونشرها، إلا أن النقاط التالية لا تزال بحاجة إلى تأكيد من خبير مختص:',
+                        'यह लेख समीक्षित और प्रकाशित है; फिर भी नीचे दिए गए बिंदुओं की पुष्टि किसी विषय-विशेषज्ञ द्वारा किया जाना बाकी है:',
+                        'Este artículo ha sido revisado y publicado; aun así, los siguientes puntos requieren confirmación de un experto en la materia:',
+                        'Cet article a été relu et publié ; les points ci-dessous nécessitent néanmoins une confirmation par un expert du domaine :',
+                      )
+                    : L(
+                        'Perkara berikut sengaja tidak dinyatakan atau diterangkan secara umum sahaja sehingga disahkan oleh pakar bidang:',
+                        'The following are deliberately unstated or described only qualitatively until confirmed by a subject-matter expert:',
+                        '以下内容在专家确认前，刻意未予明示或仅作定性描述：',
+                        'பின்வருபவை, துறை நிபுணரால் உறுதிப்படுத்தப்படும் வரை, வேண்டுமென்றே குறிப்பிடப்படாமல் அல்லது பொதுவாக மட்டுமே விவரிக்கப்பட்டுள்ளன:',
+                        '以下の事項は、分野の専門家によって確認されるまで、意図的に明示せず、または概略的にのみ記述しています：',
+                        '다음 사항은 해당 분야 전문가가 확인하기 전까지 의도적으로 명시하지 않거나 정성적으로만 기술하였습니다:',
+                        'รายการต่อไปนี้จงใจไม่ระบุหรืออธิบายเพียงในเชิงคุณภาพ จนกว่าจะได้รับการยืนยันจากผู้เชี่ยวชาญเฉพาะด้าน:', 'Những mục sau đây được cố ý không nêu rõ hoặc chỉ mô tả một cách định tính cho đến khi được chuyên gia trong lĩnh vực xác nhận:',
+                        'Hal-hal berikut sengaja tidak dinyatakan atau hanya dijelaskan secara umum sampai dikonfirmasi oleh pakar bidang terkait:',
+                        'العناصر التالية غير مذكورة عمدًا أو موصوفة نوعيًا فقط إلى أن يؤكّدها خبير مختص:', 'निम्नलिखित को किसी विषय-विशेषज्ञ द्वारा पुष्टि किए जाने तक जानबूझकर अनकहा छोड़ दिया गया है या केवल गुणात्मक रूप से वर्णित किया गया है:', 'Los siguientes puntos se omiten deliberadamente o se describen solo de forma cualitativa hasta que los confirme un experto en la materia:', "Les éléments suivants sont volontairement omis ou décrits uniquement de manière qualitative jusqu'à confirmation par un expert du domaine :",
+                      )}
                 </p>
                 <ul>
                   {d.verificationNeeded.map((v) => (
