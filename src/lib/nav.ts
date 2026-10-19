@@ -118,10 +118,10 @@ export const READER_NAV = NAV;
 // contributor switches to this view (Header view-mode script + /api/auth/me gate).
 const GH_Q = (base: string, q: string) => `${base}?q=${encodeURIComponent(q)}`;
 export const CONTRIBUTOR_NAV: NavMenu[] = [
-  // No explicit "Workspace"/Home item — in Contributor View the brand logo links
-  // to '/workspace' (the Contributor workspace page), mirroring Reader View where
-  // the logo is Home and the nav has no Home item. (Header resolves the per-view
-  // logo home via data-home-reader / data-home-contributor.)
+  // Workspace — the Contributor home (/workspace), a plain top-level link, first in
+  // the bar. The brand logo ALSO points here in Contributor View (Header resolves
+  // the per-view logo home via data-home-reader / data-home-contributor).
+  { label: 'cnav.workspace', href: '/workspace' },
   {
     label: 'cnav.myWork',
     items: [
