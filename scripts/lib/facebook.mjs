@@ -11,7 +11,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 
 export const GRAPH = 'https://graph.facebook.com/v21.0';
-export const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi']; // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi, id /id, ar /ar, hi /hi
+export const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr']; // ms at "/", en /en, zh /zh, ta /ta, ja /ja, ko /ko, th /th, vi /vi, id /id, ar /ar, hi /hi, es /es, fr /fr
 
 // Posting WINDOWS = Malaysia's daily engagement peaks. The cron fires one tick per
 // window (see .github/workflows/facebook-backlog.yml: 08:17 / 13:17 / 20:17 MYT).
@@ -62,6 +62,12 @@ export const LANG_POLICY = {
   // so they drip like the rest and ramp daily volume by how new the Page is (`since`).
   ar: { enabled: true, perDay: 5, since: '2026-10-13', windows: ALL_WINDOWS },
   hi: { enabled: true, perDay: 5, since: '2026-10-14', windows: ALL_WINDOWS },
+  // es + fr ACTIVATED 2026-10-19 — both full public languages (1,074 published
+  // articles each at /es and /fr); their Pages (Español 1411931938662385, Français
+  // 1344235862113902) are assigned to the "NegaraKu Poster" system user with Full access,
+  // so they drip like the rest and ramp daily volume by how new the Page is (`since`).
+  es: { enabled: true, perDay: 5, since: '2026-10-19', windows: ALL_WINDOWS },
+  fr: { enabled: true, perDay: 5, since: '2026-10-19', windows: ALL_WINDOWS },
 };
 
 // One Facebook Page PER language. Page IDs are PUBLIC (they appear in each Page's
@@ -102,6 +108,8 @@ export const PAGES = {
   // (1,074 published articles each), so they're in LANGS + LANG_POLICY above and post.
   ar: process.env.FB_PAGE_ID_AR || '1414178765105306',
   hi: process.env.FB_PAGE_ID_HI || '1328393130363663',
+  es: process.env.FB_PAGE_ID_ES || '1411931938662385',
+  fr: process.env.FB_PAGE_ID_FR || '1344235862113902',
 };
 
 // The URL locale prefix for a language: ms lives at "/", en at "/en", zh at "/zh".
@@ -179,9 +187,9 @@ function catNameMap() {
       path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../src/lib/categories.ts'),
       'utf8',
     );
-    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'(?:\s*,\s*ta:\s*'([^']*)')?(?:\s*,\s*ja:\s*'([^']*)')?(?:\s*,\s*ko:\s*'([^']*)')?(?:\s*,\s*th:\s*'([^']*)')?(?:\s*,\s*vi:\s*'([^']*)')?(?:\s*,\s*id:\s*'([^']*)')?/g;
+    const re = /id:\s*'([^']+)'(?:(?!id:\s*')[\s\S])*?name:\s*\{\s*ms:\s*'([^']*)',\s*en:\s*'([^']*)',\s*zh:\s*'([^']*)'(?:\s*,\s*ta:\s*'([^']*)')?(?:\s*,\s*ja:\s*'([^']*)')?(?:\s*,\s*ko:\s*'([^']*)')?(?:\s*,\s*th:\s*'([^']*)')?(?:\s*,\s*vi:\s*'([^']*)')?(?:\s*,\s*id:\s*'([^']*)')?(?:\s*,\s*ar:\s*'([^']*)')?(?:\s*,\s*hi:\s*'([^']*)')?(?:\s*,\s*es:\s*'([^']*)')?(?:\s*,\s*fr:\s*'([^']*)')?/g;
     let m;
-    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4], ta: m[5] || '', ja: m[6] || '', ko: m[7] || '', th: m[8] || '', vi: m[9] || '', id: m[10] || '' };
+    while ((m = re.exec(src))) _catNames[m[1]] = { ms: m[2], en: m[3], zh: m[4], ta: m[5] || '', ja: m[6] || '', ko: m[7] || '', th: m[8] || '', vi: m[9] || '', id: m[10] || '', ar: m[11] || '', hi: m[12] || '', es: m[13] || '', fr: m[14] || '' };
   } catch { /* graceful — no localized names, category tag is skipped */ }
   return _catNames;
 }
@@ -219,7 +227,7 @@ export function keywordTag(kw) {
   return t.length <= 25 ? t : '';
 }
 
-const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா', ja: '#マレーシア', ko: '#말레이시아', th: '#มาเลเซีย', vi: '#Malaysia', id: '#Malaysia', ar: '#ماليزيا', hi: '#मलेशिया' };
+const COUNTRY_TAG = { en: '#Malaysia', ms: '#Malaysia', zh: '#马来西亚', ta: '#மலேசியா', ja: '#マレーシア', ko: '#말레이시아', th: '#มาเลเซีย', vi: '#Malaysia', id: '#Malaysia', ar: '#ماليزيا', hi: '#मलेशिया', es: '#Malasia', fr: '#Malaisie' };
 // Tamil block U+0B80–U+0BFF — used so ta posts keep only Tamil-script (or numeric) tags.
 const hasTamil = (s) => /[஀-௿]/.test(String(s));
 const hasCJK = (s) => /[㐀-鿿豈-﫿぀-ヿ]/.test(String(s));

@@ -78,6 +78,10 @@ const PROMPT = {
     th: 'อยากเข้าใจมาเลเซียให้ลึกซึ้งยิ่งขึ้นไหม?',
     vi: 'Muốn hiểu Malaysia sâu sắc hơn?',
     id: 'Ingin memahami Malaysia lebih dalam?',
+    ar: 'هل تريد فهم ماليزيا بشكل أعمق؟',
+    hi: 'मलेशिया को और गहराई से समझना चाहते हैं?',
+    es: '¿Quieres entender mejor Malasia?',
+    fr: 'Envie de mieux comprendre la Malaisie ?',
   },
   'living': {
     ms: 'Tinggal, bekerja atau belajar di Malaysia?',
@@ -89,6 +93,10 @@ const PROMPT = {
     th: 'อาศัย ทำงาน หรือเรียนอยู่ในมาเลเซียใช่ไหม?',
     vi: 'Đang sống, làm việc hay học tập tại Malaysia?',
     id: 'Tinggal, bekerja, atau belajar di Malaysia?',
+    ar: 'تعيش أو تعمل أو تدرس في ماليزيا؟',
+    hi: 'मलेशिया में रहते, काम करते या पढ़ते हैं?',
+    es: '¿Vives, trabajas o estudias en Malasia?',
+    fr: 'Vous vivez, travaillez ou étudiez en Malaisie ?',
   },
   'doing-business': {
     ms: 'Memulakan atau mengembangkan perniagaan di Malaysia?',
@@ -100,6 +108,10 @@ const PROMPT = {
     th: 'กำลังเริ่มต้นหรือขยายธุรกิจในมาเลเซียใช่ไหม?',
     vi: 'Đang khởi nghiệp hay mở rộng kinh doanh tại Malaysia?',
     id: 'Memulai atau mengembangkan bisnis di Malaysia?',
+    ar: 'هل تبدأ أو تنمّي عملاً تجارياً في ماليزيا؟',
+    hi: 'मलेशिया में व्यवसाय शुरू या विकसित कर रहे हैं?',
+    es: '¿Vas a iniciar o hacer crecer un negocio en Malasia?',
+    fr: 'Vous lancez ou développez une entreprise en Malaisie ?',
   },
 };
 // Caption mode: precedes the tappable link on line 2. Comment mode: points to
@@ -114,6 +126,10 @@ const CTA_CAPTION = {
   th: '🔗 อ่านคู่มือฉบับเต็ม:',
   vi: '🔗 Đọc hướng dẫn đầy đủ:',
   id: '🔗 Baca panduan lengkap:',
+  ar: '🔗 اقرأ الدليل الكامل:',
+  hi: '🔗 पूरी गाइड पढ़ें:',
+  es: '🔗 Lee la guía completa:',
+  fr: '🔗 Lisez le guide complet :',
 };
 const CTA_COMMENT = {
   ms: '🔗 Panduan penuh dalam komen pertama 👇',
@@ -125,6 +141,10 @@ const CTA_COMMENT = {
   th: '🔗 คู่มือฉบับเต็มอยู่ในคอมเมนต์แรก 👇',
   vi: '🔗 Hướng dẫn đầy đủ ở bình luận đầu tiên 👇',
   id: '🔗 Panduan lengkap di komentar pertama 👇',
+  ar: '🔗 الدليل الكامل في أول تعليق 👇',
+  hi: '🔗 पूरी गाइड पहली टिप्पणी में 👇',
+  es: '🔗 Guía completa en el primer comentario 👇',
+  fr: '🔗 Guide complet dans le premier commentaire 👇',
 };
 // Prefixed to the title so it stands out above the caption (FB text can't be
 // bold). Matches the per-publish poster's 📌. Set to '' to drop it.
