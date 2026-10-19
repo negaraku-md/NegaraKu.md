@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T13:57:57.112Z",
+  "updatedAt": "2026-10-19T11:38:55.494Z",
   "site": "https://www.negaraku.md/",
   "byMonth": {
     "2026-09": {
@@ -7,16 +7,46 @@
       "impressions": 1002
     },
     "2026-10": {
-      "clicks": 121,
-      "impressions": 2798
+      "clicks": 318,
+      "impressions": 7753
     }
   },
   "latest": {
     "totals": {
-      "clicks": 166,
-      "impressions": 3800
+      "clicks": 363,
+      "impressions": 8755
     },
     "topQueries": [
+      {
+        "query": "hutan simpanan kekal serasa",
+        "clicks": 16,
+        "impressions": 66,
+        "position": 2
+      },
+      {
+        "query": "hutan simpanan kekal",
+        "clicks": 0,
+        "impressions": 22,
+        "position": 4
+      },
+      {
+        "query": "kadar cukai pendapatan 2026",
+        "clicks": 1,
+        "impressions": 9,
+        "position": 10
+      },
+      {
+        "query": "马来西亚破产人士需要多少时间才能解除",
+        "clicks": 1,
+        "impressions": 8,
+        "position": 2
+      },
+      {
+        "query": "马来西亚国花",
+        "clicks": 0,
+        "impressions": 8,
+        "position": 8
+      },
       {
         "query": "masb malaysia",
         "clicks": 0,
@@ -28,6 +58,18 @@
         "clicks": 0,
         "impressions": 6,
         "position": 8
+      },
+      {
+        "query": "sjkc atau sk?",
+        "clicks": 2,
+        "impressions": 6,
+        "position": 2
+      },
+      {
+        "query": "tnb马来西亚",
+        "clicks": 0,
+        "impressions": 6,
+        "position": 5
       },
       {
         "query": "马来西亚入境登记mdac",
@@ -48,19 +90,7 @@
         "position": 1
       },
       {
-        "query": "muet band 4.0 university admissions indonesia",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 5
-      },
-      {
-        "query": "malaysia vernacular schools sjkc sjkt political reasons",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 2
-      },
-      {
-        "query": "malaysia members of parliament state level comparison state assemblyman adun",
+        "query": "jabatan alam sekitar eia aktiviti pembangunan pantai malaysia",
         "clicks": 0,
         "impressions": 4,
         "position": 4
@@ -72,7 +102,19 @@
         "position": 5
       },
       {
-        "query": "jabatan alam sekitar eia aktiviti pembangunan pantai malaysia",
+        "query": "malaysia vernacular schools sjkc sjkt political reasons",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 2
+      },
+      {
+        "query": "muet band 4.0 university admissions indonesia",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 5
+      },
+      {
+        "query": "malaysia members of parliament state level comparison state assemblyman adun",
         "clicks": 0,
         "impressions": 4,
         "position": 4
@@ -82,18 +124,6 @@
         "clicks": 0,
         "impressions": 4,
         "position": 5
-      },
-      {
-        "query": "马来西亚破产流程",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 2
-      },
-      {
-        "query": "kos daftar cap dagangan malaysia 2025 2026",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 2
       },
       {
         "query": "雪邦赛道为什么退出f1",
@@ -108,6 +138,18 @@
         "position": 6
       },
       {
+        "query": "kos daftar cap dagangan malaysia 2025 2026",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 2
+      },
+      {
+        "query": "马来西亚破产流程",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 2
+      },
+      {
         "query": "马来西亚ipu",
         "clicks": 1,
         "impressions": 4,
@@ -120,52 +162,10 @@
         "position": 7
       },
       {
-        "query": "3e 3r framework chinese explanation education malaysia",
-        "clicks": 0,
-        "impressions": 3,
-        "position": 6
-      },
-      {
-        "query": "and do i need to include my muet? i took it on 2017 for degree entrance and got band 4",
-        "clicks": 0,
-        "impressions": 3,
-        "position": 2
-      },
-      {
-        "query": "sekolah jenis kebangsaan cina sjkc contoh dan ciri-ciri malaysia",
-        "clicks": 0,
-        "impressions": 3,
-        "position": 6
-      },
-      {
-        "query": "what is section 219 ssm",
-        "clicks": 4,
-        "impressions": 3,
+        "query": "马来西亚《1955 年雇佣法令》",
+        "clicks": 2,
+        "impressions": 4,
         "position": 4
-      },
-      {
-        "query": "sjkc curriculum subjects bahasa melayu medium",
-        "clicks": 0,
-        "impressions": 3,
-        "position": 4
-      },
-      {
-        "query": "macc suruhanjaya pencegahan rasuah malaysia function",
-        "clicks": 0,
-        "impressions": 3,
-        "position": 5
-      },
-      {
-        "query": "malaysia cp21 90 day rule salary release after clearance",
-        "clicks": 0,
-        "impressions": 3,
-        "position": 4
-      },
-      {
-        "query": "mpers convert mfrs",
-        "clicks": 1,
-        "impressions": 3,
-        "position": 5
       }
     ]
   }
