@@ -36,11 +36,53 @@ const SEO_SCRAPERS = [
   'PetalBot',
 ];
 
+// Vulnerability-scanner probe paths. This is a static Astro build — no PHP, no
+// .env, no secrets or config on the origin — so these URLs never existed and
+// always 404. Automated scanners request them in bulk, which (a) fed Google a
+// long "Not found (404)" list in Search Console and (b) wastes crawl attempts.
+// Disallowing moves them from the "Not found" report into the intentional
+// "Blocked by robots.txt" state Google stops flagging, and tells crawlers not to
+// bother. SAFE: every pattern below matches only non-existent probe paths — no
+// real page is a .php/.env/.yml/.git/etc. (Real data lives under /api/*.json,
+// /llms.txt, /sitemap-*.xml, /_astro/*, which none of these match.) These are
+// crawl directives, not the Content-Signal block Cloudflare used to inject.
+const PROBE_DISALLOW = [
+  '/_a/',                      // internal analytics beacon (POST-only; GET 404s)
+  '/*.env',                    // .env, .env.local, .env.bak, path/.env, …
+  '/*.php$',                   // wp-login.php, phpinfo.php, config.inc.php, …
+  '/*.yml$',
+  '/*.yaml$',
+  '/*.bak$',
+  '/*.tfstate$',
+  '/*.sql$',
+  '/.git',                     // .git/*, .gitlab-ci.yml, .gitmodules, .github/*
+  '/.env',
+  '/.claude',
+  '/.anthropic',
+  '/.config',
+  '/.sqlite_history',
+  '/.amplifyrc',
+  '/Dockerfile',
+  '/secrets.json',
+  '/auth.json',
+  '/stripe-keys.json',
+  '/credentials.csv',
+  '/config.json',
+  '/config.env',
+  '/appsettings.Staging.json',
+  '/admin-panel/',
+  '/plugins/',
+  '/theme/',
+];
+
 export const GET: APIRoute = () => {
   const lines: string[] = [];
 
-  // Everyone (including AI agents) may read everything.
-  lines.push('User-agent: *', 'Allow: /', '');
+  // Everyone (including AI agents) may read everything, EXCEPT the scanner-probe
+  // paths below (Googlebot reads this `*` group — there is no Googlebot group).
+  lines.push('User-agent: *', 'Allow: /');
+  for (const p of PROBE_DISALLOW) lines.push(`Disallow: ${p}`);
+  lines.push('');
 
   // Named AI agents, explicitly allowed (some operators only honour named rules).
   for (const ua of AI_AGENTS) {
