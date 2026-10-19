@@ -148,7 +148,7 @@ async function main() {
   // the dashboard can read them; absent until the first archive run commits.
   const archiveDir = path.dirname(CUMULATIVE_FILE);
   const apiDir = path.dirname(OUT_FILE);
-  for (const f of ['facebook.json', 'gsc.json', 'bing.json']) {
+  for (const f of ['facebook.json', 'gsc.json', 'bing.json', 'ga4.json']) {
     const src = path.join(archiveDir, f);
     if (existsSync(src)) {
       await copyFile(src, path.join(apiDir, f));

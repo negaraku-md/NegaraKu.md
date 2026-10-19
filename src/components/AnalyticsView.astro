@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { getPillar, getCategory, PILLARS, loc } from '@/lib/categories';
-import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing, getAnalyticsSeries, getCfTraffic, getReaderCube, getClicks } from '@/lib/apidata';
+import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing, getAnalyticsSeries, getCfTraffic, getReaderCube, getClicks, getGA4 } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 
@@ -109,6 +109,30 @@ const gscPillarMax = Math.max(1, ...gscPillars.map((p) => p.impressions));
 const gscQueries = (gsc.latest?.topQueries ?? []).slice(0, 8);
 const gscQueryMax = Math.max(1, ...gscQueries.map((q) => q.impressions));
 const gscMonths = Object.keys(gsc.byMonth ?? {}).length;
+
+// Google Analytics 4 (archive: analytics/ga4.json) — consented-visitor behaviour:
+// trailing-90-day totals + acquisition channels / countries / devices / top pages.
+// A consented subset (banner opt-in + Consent Mode denied-by-default), so smaller
+// than the first-party edge numbers. Empty until the workflow runs and visitors
+// opt in. Bar lists are [label, metric] pairs, biggest first.
+const ga4 = getGA4();
+const ga4Totals = ga4.latest?.totals;
+const ga4Has = !!(ga4Totals && (ga4Totals.users || ga4Totals.sessions || ga4Totals.views));
+const ga4Months = Object.keys(ga4.byMonth ?? {}).length;
+const ga4FmtDur = (sec: number) => (sec >= 60 ? `${Math.floor(sec / 60)}m ${sec % 60}s` : `${sec}s`);
+const DEVICE_LABEL: Record<string, string> = {
+  desktop: L('Desktop', 'Desktop', '桌面', 'டெஸ்க்டாப்', 'デスクトップ', '데스크톱', 'เดสก์ท็อป', 'Máy tính', 'Desktop', 'سطح المكتب', 'डेस्कटॉप', 'Escritorio', 'Ordinateur'),
+  mobile: L('Mudah alih', 'Mobile', '移动', 'மொபைல்', 'モバイル', '모바일', 'มือถือ', 'Di động', 'Seluler', 'الجوال', 'मोबाइल', 'Móvil', 'Mobile'),
+  tablet: L('Tablet', 'Tablet', '平板', 'டேப்லெட்', 'タブレット', '태블릿', 'แท็บเล็ต', 'Máy tính bảng', 'Tablet', 'لوحي', 'टैबलेट', 'Tableta', 'Tablette'),
+};
+const ga4Bar = (rows: [string, number][] | undefined, n: number, label?: (s: string) => string) => {
+  const list = (rows ?? []).slice(0, n).map(([k, v]) => ({ label: label ? label(k) : k, n: v }));
+  return { list, max: Math.max(1, ...list.map((r) => r.n)) };
+};
+const ga4Channels = ga4Bar(ga4.latest?.byChannel, 10);
+const ga4Countries = ga4Bar(ga4.latest?.byCountry, 10);
+const ga4Devices = ga4Bar(ga4.latest?.byDevice, 6, (d) => DEVICE_LABEL[d] ?? d);
+const ga4Pages = ga4Bar(ga4.latest?.topPages, 10);
 
 // Facebook engagement (archive: analytics/facebook.json) — per-language Page numbers.
 const fb = getFacebook();
@@ -466,7 +490,7 @@ const liveL = {
 const liveJSON = JSON.stringify(liveL);
 
 // Anything measured yet? Drives the "trends are accruing" lead note.
-const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || engHas;
+const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || engHas || ga4Has;
 ---
 
 <PageHero
@@ -1327,6 +1351,56 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
 
 <section class="container block">
   <div class="psec">
+    <header><span>{L('Google Analytics', 'Google Analytics', 'Google Analytics', 'Google Analytics', 'Google Analytics', 'Google Analytics', 'Google Analytics', 'Google Analytics', 'Google Analytics', 'Google Analytics', 'Google Analytics', 'Google Analytics', 'Google Analytics')}</span></header>
+    <div class="psec-body">
+      {!ga4Has ? (
+        <p class="hint">{L(
+          'Belum ada data Google Analytics — muncul selepas pelawat menerima kuki dan kerja arkib dijalankan.',
+          'No Google Analytics data yet — appears after visitors accept cookies and the archive workflow runs.',
+          '暂无 Google Analytics 数据——访客接受 cookie 且归档工作流运行后显示。',
+          'இதுவரை Google Analytics தரவு இல்லை — பார்வையாளர்கள் குக்கீகளை ஏற்று, காப்பக பணிப்பாய்வு இயங்கிய பிறகு தோன்றும்.',
+          'まだ Google Analytics のデータはありません — 訪問者がクッキーに同意し、アーカイブのワークフローが実行された後に表示されます。',
+          '아직 Google Analytics 데이터가 없습니다 — 방문자가 쿠키에 동의하고 아카이브 워크플로가 실행된 후 표시됩니다.', 'ยังไม่มีข้อมูล Google Analytics — จะปรากฏหลังจากผู้เข้าชมยอมรับคุกกี้และเวิร์กโฟลว์การเก็บถาวรทำงาน', 'Chưa có dữ liệu Google Analytics — sẽ xuất hiện sau khi khách truy cập chấp nhận cookie và quy trình lưu trữ chạy.', 'Belum ada data Google Analytics — muncul setelah pengunjung menerima cookie dan alur kerja arsip dijalankan.', 'لا توجد بيانات Google Analytics بعد — تظهر بعد قبول الزوّار لملفات تعريف الارتباط وتشغيل سير عمل الأرشفة.', 'अभी तक कोई Google Analytics डेटा नहीं — आगंतुकों द्वारा कुकी स्वीकार करने और आर्काइव वर्कफ़्लो चलने के बाद दिखाई देगा।', 'Aún no hay datos de Google Analytics: aparecen después de que los visitantes aceptan las cookies y se ejecuta el flujo de trabajo de archivo.', "Aucune donnée Google Analytics pour l'instant : elle apparaît après que les visiteurs acceptent les cookies et que le workflow d'archivage s'exécute.",
+        )}</p>
+      ) : (
+        <>
+          <p class="hint">{L(
+            `90 hari lepas: ${ga4Totals.users.toLocaleString()} pengguna · ${ga4Totals.sessions.toLocaleString()} sesi · ${ga4Totals.views.toLocaleString()} paparan · penglibatan purata ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% terlibat. ${ga4Months} bulan diarkibkan. Pelawat yang memberi persetujuan sahaja.`,
+            `Last 90 days: ${ga4Totals.users.toLocaleString()} users · ${ga4Totals.sessions.toLocaleString()} sessions · ${ga4Totals.views.toLocaleString()} views · avg engagement ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% engaged. ${ga4Months} months archived. Consented visitors only.`,
+            `近 90 天：${ga4Totals.users.toLocaleString()} 用户 · ${ga4Totals.sessions.toLocaleString()} 会话 · ${ga4Totals.views.toLocaleString()} 浏览 · 平均互动 ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% 互动率。已归档 ${ga4Months} 个月。仅限已同意的访客。`,
+            `கடந்த 90 நாட்கள்: ${ga4Totals.users.toLocaleString()} பயனர்கள் · ${ga4Totals.sessions.toLocaleString()} அமர்வுகள் · ${ga4Totals.views.toLocaleString()} பார்வைகள் · சராசரி ஈடுபாடு ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% ஈடுபாடு. ${ga4Months} மாதங்கள் காப்பகப்படுத்தப்பட்டன. ஒப்புதல் அளித்த பார்வையாளர்கள் மட்டும்.`,
+            `過去90日: ${ga4Totals.users.toLocaleString()} ユーザー · ${ga4Totals.sessions.toLocaleString()} セッション · ${ga4Totals.views.toLocaleString()} 表示 · 平均エンゲージメント ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% エンゲージ。${ga4Months} か月分をアーカイブ。同意した訪問者のみ。`,
+            `지난 90일: ${ga4Totals.users.toLocaleString()} 사용자 · ${ga4Totals.sessions.toLocaleString()} 세션 · ${ga4Totals.views.toLocaleString()} 조회 · 평균 참여 ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% 참여. ${ga4Months}개월 보관됨. 동의한 방문자만.`, `90 วันล่าสุด: ${ga4Totals.users.toLocaleString()} ผู้ใช้ · ${ga4Totals.sessions.toLocaleString()} เซสชัน · ${ga4Totals.views.toLocaleString()} การดู · การมีส่วนร่วมเฉลี่ย ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% มีส่วนร่วม เก็บถาวร ${ga4Months} เดือน เฉพาะผู้เข้าชมที่ยินยอม`, `90 ngày qua: ${ga4Totals.users.toLocaleString()} người dùng · ${ga4Totals.sessions.toLocaleString()} phiên · ${ga4Totals.views.toLocaleString()} lượt xem · mức tương tác TB ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% tương tác. Đã lưu trữ ${ga4Months} tháng. Chỉ khách đã đồng ý.`, `90 hari terakhir: ${ga4Totals.users.toLocaleString()} pengguna · ${ga4Totals.sessions.toLocaleString()} sesi · ${ga4Totals.views.toLocaleString()} tampilan · keterlibatan rata-rata ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% terlibat. ${ga4Months} bulan diarsipkan. Hanya pengunjung yang menyetujui.`, `آخر 90 يومًا: ${ga4Totals.users.toLocaleString()} مستخدم · ${ga4Totals.sessions.toLocaleString()} جلسة · ${ga4Totals.views.toLocaleString()} مشاهدة · متوسط التفاعل ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% تفاعل. ${ga4Months} أشهر مؤرشفة. الزوّار الموافقون فقط.`, `पिछले 90 दिन: ${ga4Totals.users.toLocaleString()} उपयोगकर्ता · ${ga4Totals.sessions.toLocaleString()} सत्र · ${ga4Totals.views.toLocaleString()} व्यू · औसत सहभागिता ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% संलग्न। ${ga4Months} माह संग्रहित। केवल सहमति देने वाले आगंतुक।`, `Últimos 90 días: ${ga4Totals.users.toLocaleString()} usuarios · ${ga4Totals.sessions.toLocaleString()} sesiones · ${ga4Totals.views.toLocaleString()} vistas · interacción media ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate}% de interacción. ${ga4Months} meses archivados. Solo visitantes que consintieron.`, `90 derniers jours : ${ga4Totals.users.toLocaleString()} utilisateurs · ${ga4Totals.sessions.toLocaleString()} sessions · ${ga4Totals.views.toLocaleString()} vues · engagement moyen ${ga4FmtDur(ga4Totals.avgEngagementSec)} · ${ga4Totals.engagementRate} % engagés. ${ga4Months} mois archivés. Visiteurs consentants uniquement.`,
+          )}</p>
+          <div class="ga4-grid">
+            {[
+              { t: L('Saluran pemerolehan', 'Acquisition channels', '获取渠道', 'பெறுதல் சேனல்கள்', '集客チャネル', '획득 채널', 'ช่องทางการได้มา', 'Kênh thu hút', 'Saluran akuisisi', 'قنوات الاكتساب', 'अधिग्रहण चैनल', 'Canales de adquisición', "Canaux d'acquisition"), b: ga4Channels },
+              { t: L('Negara teratas', 'Top countries', '主要国家/地区', 'முதன்மை நாடுகள்', '上位の国', '상위 국가', 'ประเทศยอดนิยม', 'Quốc gia hàng đầu', 'Negara teratas', 'أبرز البلدان', 'शीर्ष देश', 'Países principales', 'Principaux pays'), b: ga4Countries },
+              { t: L('Peranti', 'Devices', '设备', 'சாதனங்கள்', 'デバイス', '기기', 'อุปกรณ์', 'Thiết bị', 'Perangkat', 'الأجهزة', 'डिवाइस', 'Dispositivos', 'Appareils'), b: ga4Devices },
+              { t: L('Halaman teratas', 'Top pages', '热门页面', 'முதன்மைப் பக்கங்கள்', '上位ページ', '상위 페이지', 'หน้ายอดนิยม', 'Trang hàng đầu', 'Halaman teratas', 'أبرز الصفحات', 'शीर्ष पृष्ठ', 'Páginas principales', 'Pages les plus vues'), b: ga4Pages },
+            ].map((col) => (
+              <div class="ga4-col">
+                <h4 class="ga4-sub">{col.t}</h4>
+                <div class="cov-cats">
+                  {col.b.list.map((r) => (
+                    <div class="cov-row ai-row">
+                      <span class="cov-name" title={r.label}>{r.label}</span>
+                      <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((r.n / col.b.max) * 100))}%`} /></span>
+                      <span class="cov-num">{r.n.toLocaleString()}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
+        </>
+      )}
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
     <header><span>{L('Prestasi carian Google', 'Google Search performance', 'Google 搜索表现', 'Google தேடல் செயல்திறன்', 'Google 検索パフォーマンス', 'Google 검색 성과', 'ประสิทธิภาพการค้นหาของ Google', 'Hiệu suất Tìm kiếm Google', 'Kinerja pencarian Google', 'أداء بحث Google', 'Google खोज प्रदर्शन', 'Rendimiento de Google Search', 'Performance de Google Search')}</span></header>
     <div class="psec-body">
       {!gscHas ? (
@@ -1633,7 +1707,7 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
      Group the sections by VISITOR TYPE (Overview · Readers · Search · AI ·
      Social) using flex `order` — so nothing moves in the DOM and no width-
      measuring chart is ever hidden (which display:none tabs would break).
-     The nth-of-type map follows the DOM order of the 13 top-level sections. */
+     The nth-of-type map follows the DOM order of the 14 top-level sections. */
   .a-flow { display: flex; flex-direction: column; }
   .a-flow > section:nth-of-type(1)  { order: 10; } /* headline tiles        → Overview */
   .a-flow > section:nth-of-type(2)  { order: 12; } /* traffic explorer      → Overview */
@@ -1643,11 +1717,18 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
   .a-flow > section:nth-of-type(6)  { order: 41; } /* AI crawlers           → AI */
   .a-flow > section:nth-of-type(7)  { order: 21; } /* traffic by channel    → Readers */
   .a-flow > section:nth-of-type(8)  { order: 22; } /* most-read articles    → Readers */
-  .a-flow > section:nth-of-type(9)  { order: 31; } /* Google Search         → Search */
-  .a-flow > section:nth-of-type(10) { order: 51; } /* Facebook engagement   → Social */
-  .a-flow > section:nth-of-type(11) { order: 23; } /* on-site engagement    → Readers */
-  .a-flow > section:nth-of-type(12) { order: 24; } /* what readers open next→ Readers */
-  .a-flow > section:nth-of-type(13) { order: 32; } /* Bing & Copilot        → Search */
+  .a-flow > section:nth-of-type(9)  { order: 15; } /* Google Analytics      → Overview */
+  .a-flow > section:nth-of-type(10) { order: 31; } /* Google Search         → Search */
+  .a-flow > section:nth-of-type(11) { order: 51; } /* Facebook engagement   → Social */
+  .a-flow > section:nth-of-type(12) { order: 23; } /* on-site engagement    → Readers */
+  .a-flow > section:nth-of-type(13) { order: 24; } /* what readers open next→ Readers */
+  .a-flow > section:nth-of-type(14) { order: 32; } /* Bing & Copilot        → Search */
+
+  /* Google Analytics panel — four bar-lists (channels/countries/devices/pages). */
+  .ga4-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem 1.5rem; margin-top: 0.6rem; }
+  .ga4-col { min-width: 0; }
+  .ga4-sub { margin: 0 0 0.45rem; font-size: 0.78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+  @media (max-width: 640px) { .ga4-grid { grid-template-columns: 1fr; } }
 
   /* Zone heading banner before each group. */
   .a-zh { scroll-margin-top: calc(var(--nav-height) + 64px); margin-top: 2.2rem; }

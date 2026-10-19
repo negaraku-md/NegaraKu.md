@@ -219,6 +219,30 @@ export function getBing(): Bing {
   return read<Bing>('bing.json', {});
 }
 
+// Google Analytics 4 archive (analytics/ga4.json → served to public/api at build
+// by build-analytics.mjs; produced by the google-analytics.yml workflow via
+// scripts/pull-ga4.mjs). The consented-visitor behavioural view for /analytics.
+// byMonth is merged forward; latest is the trailing-90-day snapshot. Bar lists are
+// compact [label, metric] pairs, biggest first. Empty until the workflow has run
+// AND visitors have opted into the cookie banner — so it's a consented subset,
+// smaller than the first-party edge analytics by design.
+export type GA4 = {
+  updatedAt?: string;
+  property?: string;
+  byMonth?: Record<string, { users: number; sessions: number; views: number }>;
+  latest?: {
+    window?: { start: string; end: string };
+    totals?: { users: number; sessions: number; views: number; avgEngagementSec: number; engagementRate: number };
+    byChannel?: [string, number][]; // [channel, sessions]
+    byCountry?: [string, number][]; // [country, users]
+    byDevice?: [string, number][];  // [device, sessions]
+    topPages?: [string, number][];  // [path, views]
+  };
+};
+export function getGA4(): GA4 {
+  return read<GA4>('ga4.json', {});
+}
+
 // Article keys ("category/slug") ranked by reader analytics with a recency
 // fallback, top N. Lets a pair of strips (Most read + Latest) share one ranking
 // so the Latest strip can exclude what Most read already showed — matches the

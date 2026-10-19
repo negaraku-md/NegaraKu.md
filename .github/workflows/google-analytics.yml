@@ -1,0 +1,51 @@
+name: Archive Google Analytics
+
+# Pulls Google Analytics 4 (trailing-90-day users/sessions/views + acquisition
+# channels / countries / devices / top pages, and per-month users/sessions/views
+# merged forward) into analytics/ga4.json. Weekly + on demand. Commits the
+# snapshot; does NOT trigger a deploy (deploy.yml ignores analytics/**).
+#
+# Requires two repo secrets:
+#   GA_SA_KEY       service-account JSON with the Analytics Data API read scope,
+#                   added as a Viewer on the GA4 property (Admin → Property Access).
+#   GA_PROPERTY_ID  the numeric property id (optional; script defaults to the
+#                   NegaraKu.md property 559513299).
+
+on:
+  schedule:
+    - cron: '30 5 * * 1' # Mondays 05:30 UTC (just after the Search Console pull)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: google-analytics
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Pull Google Analytics
+        env:
+          GA_SA_KEY: ${{ secrets.GA_SA_KEY }}
+          GA_PROPERTY_ID: ${{ secrets.GA_PROPERTY_ID }}
+        run: node scripts/pull-ga4.mjs
+      - name: Commit the snapshot if it changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add analytics/ga4.json 2>/dev/null || true
+          if git diff --cached --quiet -- analytics/ga4.json; then
+            echo "GA4 snapshot unchanged — nothing to commit"
+          else
+            git commit -m "chore(analytics): archive Google Analytics [skip deploy]"
+            git push
+          fi
