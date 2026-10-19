@@ -1,0 +1,151 @@
+---
+// Cookie-consent banner for Google Analytics. Shown only when GA_MEASUREMENT_ID
+// is set AND the reader hasn't chosen yet. Accept → window.__nkGA.enable() (loads
+// GA4, grants analytics_storage); Decline → window.__nkGA.disable() (stays off,
+// clears any _ga cookie). The choice is remembered in localStorage ('nk:consent').
+// A reader can reopen it any time via window.__nkConsentOpen() — wired to the
+// "Cookie settings" link in the Footer. Pairs with GoogleAnalytics.astro.
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { GA_MEASUREMENT_ID } from '@/lib/site';
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) =>
+  locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms;
+
+const msg = L(
+  'Kami ingin menggunakan kuki Google Analytics untuk memahami cara NegaraKu.md digunakan. Ia pilihan — laman ini berfungsi sepenuhnya tanpanya, dan kami tidak menetapkan sebarang kuki sehingga anda menerimanya.',
+  "We'd like to use Google Analytics cookies to understand how NegaraKu.md is used. They're optional — the site works fully without them, and we set none until you accept.",
+  '我们希望使用 Google Analytics cookie 来了解 NegaraKu.md 的使用情况。这是可选的——没有它们网站也能完全正常运行，在您接受之前我们不会设置任何此类 cookie。',
+  'NegaraKu.md எவ்வாறு பயன்படுத்தப்படுகிறது என்பதைப் புரிந்துகொள்ள Google Analytics குக்கீகளைப் பயன்படுத்த விரும்புகிறோம். இவை விருப்பத்திற்குரியவை — அவை இல்லாமலும் தளம் முழுமையாக இயங்கும், நீங்கள் ஏற்கும் வரை நாங்கள் எந்தக் குக்கீயையும் அமைக்க மாட்டோம்.',
+  'NegaraKu.md の利用状況を把握するために Google Analytics の Cookie を使用したいと考えています。これは任意です。Cookie がなくてもサイトは完全に機能し、同意いただくまで一切設定しません。',
+  'NegaraKu.md 이용 방식을 파악하기 위해 Google Analytics 쿠키를 사용하고자 합니다. 선택 사항이며, 쿠키 없이도 사이트는 완전히 작동하고 동의하기 전에는 어떤 쿠키도 설정하지 않습니다.',
+  'เราต้องการใช้คุกกี้ Google Analytics เพื่อทำความเข้าใจวิธีการใช้งาน NegaraKu.md คุกกี้นี้เป็นทางเลือก เว็บไซต์ทำงานได้เต็มรูปแบบแม้ไม่มีคุกกี้ และเราจะไม่ตั้งค่าคุกกี้ใด ๆ จนกว่าคุณจะยอมรับ',
+  'Chúng tôi muốn dùng cookie Google Analytics để hiểu cách NegaraKu.md được sử dụng. Đây là tùy chọn — trang vẫn hoạt động đầy đủ khi không có chúng, và chúng tôi không đặt cookie nào cho đến khi bạn đồng ý.',
+  'Kami ingin menggunakan cookie Google Analytics untuk memahami cara NegaraKu.md digunakan. Ini opsional — situs tetap berfungsi penuh tanpanya, dan kami tidak menetapkan cookie apa pun sampai Anda menerimanya.',
+  'نودّ استخدام ملفات تعريف ارتباط Google Analytics لفهم كيفية استخدام NegaraKu.md. وهي اختيارية — فالموقع يعمل بالكامل من دونها، ولا نضع أي ملف تعريف ارتباط حتى توافق.',
+  'हम यह समझने के लिए Google Analytics कुकी का उपयोग करना चाहते हैं कि NegaraKu.md का उपयोग कैसे होता है। ये वैकल्पिक हैं — इनके बिना भी साइट पूरी तरह काम करती है, और जब तक आप स्वीकार नहीं करते तब तक हम कोई कुकी सेट नहीं करते।',
+  'Nos gustaría usar cookies de Google Analytics para entender cómo se usa NegaraKu.md. Son opcionales: el sitio funciona por completo sin ellas y no establecemos ninguna hasta que las aceptes.',
+  "Nous aimerions utiliser des cookies Google Analytics pour comprendre comment NegaraKu.md est utilisé. Ils sont facultatifs : le site fonctionne entièrement sans eux, et nous n'en déposons aucun avant votre acceptation.",
+);
+const accept = L('Terima', 'Accept', '接受', 'ஏற்கிறேன்', '同意する', '동의', 'ยอมรับ', 'Chấp nhận', 'Terima', 'أوافق', 'स्वीकार करें', 'Aceptar', 'Accepter');
+const decline = L('Tolak', 'Decline', '拒绝', 'நிராகரி', '拒否する', '거부', 'ปฏิเสธ', 'Từ chối', 'Tolak', 'رفض', 'अस्वीकार करें', 'Rechazar', 'Refuser');
+const policy = L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை', 'クッキーポリシー', '쿠키 정책', 'นโยบายคุกกี้', 'Chính sách Cookie', 'Kebijakan Cookie', 'سياسة ملفات تعريف الارتباط', 'कुकी नीति', 'Política de Cookies', 'Politique relative aux cookies');
+const ariaLabel = L('Pilihan kuki', 'Cookie choices', 'Cookie 选择', 'குக்கீ விருப்பங்கள்', 'Cookie の選択', '쿠키 선택', 'ตัวเลือกคุกกี้', 'Lựa chọn cookie', 'Pilihan cookie', 'خيارات ملفات تعريف الارتباط', 'कुकी विकल्प', 'Opciones de cookies', 'Choix des cookies');
+---
+
+{GA_MEASUREMENT_ID && (
+  <div id="nk-consent" class="nk-consent" role="dialog" aria-label={ariaLabel} aria-live="polite" hidden data-pagefind-ignore>
+    <p class="nkc-msg">
+      {msg}{' '}
+      <a href={localePath('/cookies', locale)}>{policy}</a>
+    </p>
+    <div class="nkc-actions">
+      <button type="button" class="nkc-btn nkc-decline" data-consent="deny">{decline}</button>
+      <button type="button" class="nkc-btn nkc-accept" data-consent="grant">{accept}</button>
+    </div>
+  </div>
+
+  <script is:inline>
+    (function () {
+      var KEY = 'nk:consent';
+      var el = document.getElementById('nk-consent');
+      if (!el) return;
+
+      function hide() { el.hidden = true; }
+      function show() { el.hidden = false; }
+
+      el.addEventListener('click', function (ev) {
+        var btn = ev.target && ev.target.closest && ev.target.closest('[data-consent]');
+        if (!btn) return;
+        var choice = btn.getAttribute('data-consent');
+        try {
+          if (choice === 'grant' && window.__nkGA) window.__nkGA.enable();
+          else if (window.__nkGA) window.__nkGA.disable();
+        } catch (e) {}
+        hide();
+      });
+
+      // Let the Footer "Cookie settings" link reopen the banner at any time.
+      window.__nkConsentOpen = show;
+
+      // First-time (no stored choice) → prompt. Returning visitors keep their pick.
+      try {
+        if (!localStorage.getItem(KEY)) show();
+      } catch (e) { show(); }
+    })();
+  </script>
+
+  <style>
+    .nk-consent {
+      position: fixed;
+      inset-inline: clamp(0.75rem, 3vw, 1.5rem);
+      bottom: clamp(0.75rem, 3vw, 1.5rem);
+      z-index: 60;
+      max-width: 52rem;
+      margin-inline: auto;
+      display: flex;
+      align-items: center;
+      gap: 1rem 1.25rem;
+      flex-wrap: wrap;
+      padding: 0.9rem 1.1rem;
+      background: var(--surface-2);
+      border: 1px solid color-mix(in srgb, var(--gold) 45%, var(--line));
+      border-radius: 14px;
+      box-shadow: var(--shadow-soft);
+    }
+    .nkc-msg {
+      margin: 0;
+      flex: 1 1 18rem;
+      min-width: 0;
+      font-size: 0.86rem;
+      line-height: 1.5;
+      color: var(--ink-soft);
+    }
+    .nkc-msg a {
+      color: var(--gold);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+    .nkc-actions {
+      display: flex;
+      gap: 0.6rem;
+      flex-shrink: 0;
+      margin-inline-start: auto;
+    }
+    .nkc-btn {
+      font: inherit;
+      font-weight: 600;
+      font-size: 0.86rem;
+      padding: 0.5rem 1.1rem;
+      border-radius: 999px;
+      cursor: pointer;
+      border: 1px solid var(--line);
+      transition: border-color 0.15s ease, background 0.15s ease, color 0.15s ease;
+    }
+    .nkc-decline {
+      background: transparent;
+      color: var(--ink-soft);
+    }
+    .nkc-decline:hover {
+      border-color: var(--ink-soft);
+      color: var(--ink);
+    }
+    .nkc-accept {
+      background: var(--gold);
+      border-color: var(--gold);
+      color: #07070a;
+    }
+    .nkc-accept:hover {
+      background: color-mix(in srgb, var(--gold) 88%, #fff);
+    }
+    @media (max-width: 520px) {
+      .nkc-actions { width: 100%; }
+      .nkc-btn { flex: 1 1 auto; }
+    }
+  </style>
+)}

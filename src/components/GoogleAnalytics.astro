@@ -1,0 +1,80 @@
+---
+// Google Analytics 4 — loaded ONLY after explicit cookie consent, and ONLY on the
+// production host. This is standard client-side GA4 (gtag.js, _ga cookies), but
+// gated by Consent Mode v2: analytics_storage defaults to 'denied', so no GA
+// cookie is set and nothing is collected until the reader accepts the banner
+// (ConsentBanner.astro calls window.__nkGA.enable()).
+//
+// Honours the project's privacy posture: nothing loads on dev/preview/localhost
+// (host guard), nothing loads for a visitor who hasn't opted in, and Decline is
+// remembered. Keep the Privacy + Cookie policies (LegalView.astro) truthful about
+// this. Rendered from BaseLayout <head> only when GA_MEASUREMENT_ID is set.
+import { GA_MEASUREMENT_ID, GA_HOST } from '@/lib/site';
+---
+
+{GA_MEASUREMENT_ID && (
+  <script is:inline define:vars={{ GA_ID: GA_MEASUREMENT_ID, GA_HOST }}>
+    (function () {
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      window.gtag = gtag;
+
+      // Consent Mode v2 — deny everything until the reader opts in. No cookies,
+      // no measurement storage, no ad signals are used in this state.
+      gtag('consent', 'default', {
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+        analytics_storage: 'denied',
+        wait_for_update: 500,
+      });
+      gtag('js', new Date());
+
+      var CONSENT_KEY = 'nk:consent';
+
+      function onProdHost() {
+        try { return location.hostname === GA_HOST; } catch (e) { return false; }
+      }
+
+      // Inject gtag.js + grant analytics storage. Idempotent, prod-host only.
+      function enable() {
+        try { localStorage.setItem(CONSENT_KEY, 'granted'); } catch (e) {}
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+        if (!onProdHost() || window.__nkGAloaded) return;
+        window.__nkGAloaded = true;
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(GA_ID);
+        document.head.appendChild(s);
+        gtag('config', GA_ID);
+      }
+
+      // Revoke consent: stop future collection and best-effort clear the _ga cookies.
+      function disable() {
+        try { localStorage.setItem(CONSENT_KEY, 'denied'); } catch (e) {}
+        gtag('consent', 'update', { analytics_storage: 'denied' });
+        try {
+          var host = location.hostname;
+          var base = host.replace(/^www\./, '');
+          document.cookie.split(';').forEach(function (c) {
+            var name = c.split('=')[0].trim();
+            if (name === '_ga' || name.indexOf('_ga_') === 0) {
+              ['/', ''].forEach(function (p) {
+                ['', '.' + host, '.' + base].forEach(function (d) {
+                  document.cookie = name + '=; Max-Age=0; path=' + (p || '/') + (d ? '; domain=' + d : '');
+                });
+              });
+            }
+          });
+        } catch (e) {}
+      }
+
+      window.__nkGA = { enable: enable, disable: disable };
+
+      // Returning visitor who already accepted → load immediately.
+      try {
+        if (localStorage.getItem(CONSENT_KEY) === 'granted') enable();
+      } catch (e) {}
+    })();
+  </script>
+)}

@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
-import { REPO } from '@/lib/site';
+import { REPO, GA_MEASUREMENT_ID } from '@/lib/site';
 
 interface Props {
   locale: Locale;
@@ -70,6 +70,9 @@ const cols = [
       <a href={localePath('/terms', locale)}>{L('Terma Penggunaan', 'Terms of Use', '使用条款', 'பயன்பாட்டு விதிமுறைகள்', '利用規約', '이용약관', 'ข้อกำหนดการใช้งาน', 'Điều khoản Sử dụng', 'Ketentuan Penggunaan', 'شروط الاستخدام', 'उपयोग की शर्तें', 'Términos de uso', "Conditions d'utilisation")}</a>
       <a href={localePath('/privacy', locale)}>{L('Dasar Privasi', 'Privacy Policy', '隐私政策', 'தனியுரிமைக் கொள்கை', 'プライバシーポリシー', '개인정보 처리방침', 'นโยบายความเป็นส่วนตัว', 'Chính sách Bảo mật', 'Kebijakan Privasi', 'سياسة الخصوصية', 'गोपनीयता नीति', 'Política de privacidad', 'Politique de confidentialité')}</a>
       <a href={localePath('/cookies', locale)}>{L('Dasar Kuki', 'Cookie Policy', 'Cookie 政策', 'குக்கீக் கொள்கை', 'クッキーポリシー', '쿠키 정책', 'นโยบายคุกกี้', 'Chính sách Cookie', 'Kebijakan Cookie', 'سياسة ملفات تعريف الارتباط', 'कुकी नीति', 'Política de cookies', 'Politique relative aux cookies')}</a>
+      {GA_MEASUREMENT_ID && (
+        <button type="button" class="legal-link-btn" onclick="window.__nkConsentOpen && window.__nkConsentOpen()">{L('Tetapan kuki', 'Cookie settings', 'Cookie 设置', 'குக்கீ அமைப்புகள்', 'Cookie 設定', '쿠키 설정', 'การตั้งค่าคุกกี้', 'Cài đặt cookie', 'Pengaturan cookie', 'إعدادات ملفات تعريف الارتباط', 'कुकी सेटिंग्स', 'Configuración de cookies', 'Paramètres des cookies')}</button>
+      )}
     </nav>
   </div>
 </footer>
@@ -113,6 +116,16 @@ const cols = [
   .legal-links { display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; }
   .legal-links a { color: var(--muted); text-decoration: none; }
   .legal-links a:hover { color: var(--gold); }
+  /* Cookie-settings reopen: a button that reads as one of the legal links. */
+  .legal-link-btn {
+    font: inherit;
+    color: var(--muted);
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+  }
+  .legal-link-btn:hover { color: var(--gold); }
 
   @media (max-width: 720px) {
     .foot-grid { grid-template-columns: 1fr 1fr; }
