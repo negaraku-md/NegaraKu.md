@@ -164,6 +164,6 @@ Kesimpulan yang realistis: pencegahan jauh lebih murah daripada penyembuhan. Sej
 - Periksa tanggal kedaluwarsa pas Anda hari ini dan tandai pengingat perpanjangan tiga bulan lebih awal; jika suatu pas telah kedaluwarsa, bertindak sebelum masa tinggal melebihi memanjang, karena kompaun dan larangan keduanya berskala menurut waktu.
 - Jika Anda sudah tinggal melebihi masa, hubungi kantor Imigresen terdekat atau tim mobilitas pemberi kerja Anda sebelum melakukan perjalanan — ditandai di bandara adalah tempat paling buruk untuk menemukan catatan daftar hitam.
 - Konfirmasikan status Anda sendiri dengan menghubungi Jabatan Imigresen secara langsung alih-alih menganggap Anda bersih — tidak ada pemeriksaan mandiri daring yang dapat dipercaya untuk pemegang paspor asing.
-- Baca panduan terkait [Pas Penggajian](employment-pass), [pas tanggungan dan kunjungan sosial](dependant-social-visit-passes), dan [Pas Pelajar](student-pass) untuk mempertahankan pas dasar yang sah sejak awal.
+- Baca panduan terkait [Pas Penggajian](/id/settling-in/employment-pass/), [pas tanggungan dan kunjungan sosial](/id/settling-in/dependant-social-visit-passes/), dan [Pas Pelajar](/id/settling-in/student-pass/) untuk mempertahankan pas dasar yang sah sejak awal.
 
 *Ini adalah draf berbantuan AI untuk informasi umum, bukan nasihat hukum. Jumlah kompaun, program, dan praktik penegakan hukum berubah; konfirmasikan angka terkini dengan Jabatan Imigresen Malaysia sebelum bertindak.*

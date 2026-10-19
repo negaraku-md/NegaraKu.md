@@ -98,7 +98,7 @@ Laluan kertas mempunyai geseran yang terkenal: borang hilang dalam perjalanan, b
 
 ## Bayaran manakah yang melalui e-WHT?
 
-e-WHT meliputi cukai pegangan ke atas bayaran kepada bukan pemastautin (dan beberapa kes pemastautin), setiap satu terikat kepada seksyen pengecas **Akta Cukai Pendapatan 1967** dan borangnya sendiri. Kadar tidak diulang di sini — lihat panduan iringan tentang [kadar cukai pegangan mengikut jenis bayaran](withholding-tax-rates) — tetapi peta borang-ke-seksyen ialah:
+e-WHT meliputi cukai pegangan ke atas bayaran kepada bukan pemastautin (dan beberapa kes pemastautin), setiap satu terikat kepada seksyen pengecas **Akta Cukai Pendapatan 1967** dan borangnya sendiri. Kadar tidak diulang di sini — lihat panduan iringan tentang [kadar cukai pegangan mengikut jenis bayaran](/taxation/withholding-tax-rates/) — tetapi peta borang-ke-seksyen ialah:
 
 | Borang | Seksyen ACP 1967 | Apa yang diliputinya |
 | --- | --- | --- |
@@ -111,7 +111,7 @@ e-WHT meliputi cukai pegangan ke atas bayaran kepada bukan pemastautin (dan bebe
 | CP37S / CP37DS | s.109 / s.109B | Pengiriman tertangguh bagi bayaran royalti, faedah dan s.4A **bernilai kecil** yang berulang |
 | e-107D | s.107D | Potongan 2 peratus ke atas komisen yang dibayar kepada ejen, peniaga dan pengedar bermastautin |
 
-Saraan penghibur awam di bawah **s.109A** juga merupakan cukai pegangan, dan e-perkhidmatan membawa julat CP37 yang penuh, jadi semak senarai borang semasa di MyTax untuk kod tepat sebelum anda memfailkan. Panduan ini adalah tentang *mekanisme*; untuk borang mana yang sesuai bagi sesuatu bayaran, lihat panduan tentang [memilih borang CP37 yang betul](cp37-forms), dan untuk s.4A secara khusus, [seksyen 109B kelas pendapatan khas](withholding-tax-special-classes).
+Saraan penghibur awam di bawah **s.109A** juga merupakan cukai pegangan, dan e-perkhidmatan membawa julat CP37 yang penuh, jadi semak senarai borang semasa di MyTax untuk kod tepat sebelum anda memfailkan. Panduan ini adalah tentang *mekanisme*; untuk borang mana yang sesuai bagi sesuatu bayaran, lihat panduan tentang [memilih borang CP37 yang betul](/taxation/cp37-forms/), dan untuk s.4A secara khusus, [seksyen 109B kelas pendapatan khas](/taxation/withholding-tax-special-classes/).
 
 ## Bagaimanakah proses e-WHT berfungsi?
 
@@ -133,7 +133,7 @@ Terlepas bulan itu dan dua perkara berlaku, kedua-duanya tidak berubah daripada 
 - **Kenaikan 10 peratus.** Apabila pembayar gagal membayar amaun yang kena dibayar, amaun itu **dinaikkan sebanyak jumlah yang sama dengan 10 peratus** daripada cukai tidak berbayar, dan cukai bersama kenaikan menjadi **hutang kena bayar kepada Kerajaan** — bagi faedah dan royalti ini ialah **s.109(2)**, dengan peruntukan selari dalam seksyen lain. Kenaikan itu dibayar berasingan menggunakan **Borang CP147**.
 - **Perbelanjaan tidak dibenarkan.** Bayaran yang anda gagal membuat pegangan atasnya **tidak boleh ditolak** dalam pengiraan cukai pembayar sendiri di bawah **s.39(1)(f), (i) atau (j)** sehingga cukai pegangan dan kenaikan dibayar sepenuhnya.
 
-Untuk kos penuh melakukan kesilapan ini — termasuk cara potongan tidak dibenarkan itu diangkat sebaik sahaja anda membayar — lihat [apa kosnya jika terlepas potongan cukai pegangan](withholding-tax-non-compliance).
+Untuk kos penuh melakukan kesilapan ini — termasuk cara potongan tidak dibenarkan itu diangkat sebaik sahaja anda membayar — lihat [apa kosnya jika terlepas potongan cukai pegangan](/taxation/withholding-tax-non-compliance/).
 
 ## Bagaimanakah e-WHT berbeza daripada laluan CP37 kertas lama?
 
@@ -149,4 +149,4 @@ Isinya sama; pengendaliannya tidak:
 
 Jika anda membuat bayaran kepada bukan pemastautin, anggaplah e-WHT sebagai lalai: daftarkan pembayar di MyTax sebelum bayaran pertama kena dibayar, supaya anda tidak tergesa-gesa dalam tempoh satu bulan itu. Kira borang dan kadar yang betul *dahulu* — di situlah keputusan sebenar berada — kemudian langkah e-WHT adalah mekanikal. Simpan setiap nombor bil dan resit bersama invois asas, kerana resit itu ialah bukti anda bahawa anda mengirim tepat pada masa dan bahawa perbelanjaan kekal boleh ditolak.
 
-Untuk kepingan di sekeliling yang satu ini: [jadual kadar](withholding-tax-rates) memberitahu anda berapa banyak untuk dipegang, [panduan borang CP37](cp37-forms) memberitahu anda borang mana untuk dipilih, [seksyen 109B](withholding-tax-special-classes) meliputi kes yuran teknikal-dan-perkhidmatan yang biasa, dan [panduan ketidakpatuhan](withholding-tax-non-compliance) menghuraikan penalti dengan penuh. Oleh sebab LHDN menyusun semula portal dan edisi borangnya secara berkala, sahkan kod borang semasa dan sebarang panduan langsung di MyTax sebelum anda memfailkan.
+Untuk kepingan di sekeliling yang satu ini: [jadual kadar](/taxation/withholding-tax-rates/) memberitahu anda berapa banyak untuk dipegang, [panduan borang CP37](/taxation/cp37-forms/) memberitahu anda borang mana untuk dipilih, [seksyen 109B](/taxation/withholding-tax-special-classes/) meliputi kes yuran teknikal-dan-perkhidmatan yang biasa, dan [panduan ketidakpatuhan](/taxation/withholding-tax-non-compliance/) menghuraikan penalti dengan penuh. Oleh sebab LHDN menyusun semula portal dan edisi borangnya secara berkala, sahkan kod borang semasa dan sebarang panduan langsung di MyTax sebelum anda memfailkan.

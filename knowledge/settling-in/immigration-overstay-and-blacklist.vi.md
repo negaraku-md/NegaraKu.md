@@ -164,6 +164,6 @@ Bài học thực tế: phòng ngừa rẻ hơn chữa trị một cách đáng 
 - Hãy kiểm tra ngày hết hạn giấy phép của bạn hôm nay và ghi lịch một lời nhắc gia hạn ba tháng trước; nếu một giấy phép đã hết hạn, hãy hành động trước khi sự ở quá hạn kéo dài, bởi cả compound lẫn lệnh cấm đều tỷ lệ với thời gian.
 - Nếu bạn đã ở quá hạn, hãy liên hệ văn phòng Di trú gần nhất hoặc đội di chuyển nhân sự của người sử dụng lao động của bạn trước khi đi lại — bị đánh dấu tại sân bay là nơi tệ nhất để phát hiện một mục trong danh sách đen.
 - Hãy xác nhận tình trạng của chính bạn bằng cách liên hệ trực tiếp với Cục Di trú thay vì cho rằng bạn đã sạch — không có công cụ tự kiểm tra trực tuyến đáng tin cậy nào cho người giữ hộ chiếu nước ngoài.
-- Hãy đọc các hướng dẫn liên quan [Employment Pass](employment-pass), [giấy phép người phụ thuộc và thăm viếng xã hội](dependant-social-visit-passes), và [Student Pass](student-pass) để giữ cho giấy phép nền tảng hợp lệ ngay từ đầu.
+- Hãy đọc các hướng dẫn liên quan [Employment Pass](/vi/settling-in/employment-pass/), [giấy phép người phụ thuộc và thăm viếng xã hội](/vi/settling-in/dependant-social-visit-passes/), và [Student Pass](/vi/settling-in/student-pass/) để giữ cho giấy phép nền tảng hợp lệ ngay từ đầu.
 
 *Đây là một bản thảo do AI hỗ trợ dành cho thông tin chung, không phải lời khuyên pháp lý. Các số tiền compound, chương trình, và thực tiễn thực thi thay đổi; hãy xác nhận các con số hiện hành với Cục Di trú Malaysia trước khi hành động.*

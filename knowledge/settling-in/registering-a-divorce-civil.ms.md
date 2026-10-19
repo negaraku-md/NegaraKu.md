@@ -77,7 +77,7 @@ keywords: ["civil divorce Malaysia", "Law Reform Marriage and Divorce Act 1976",
 
 Pasangan bukan Islam yang mendaftarkan perkahwinan mereka di JPN sering menganggap bahawa pejabat yang sama boleh menamatkannya. Ia tidak boleh. Di Malaysia, perkahwinan sivil didaftarkan secara pentadbiran, tetapi ia dibubarkan hanya melalui perintah mahkamah — dan laluan daripada perkahwinan yang terpisah kepada dekri yang bercop menempuh sebuah tribunal perdamaian, sebuah petisyen Mahkamah Tinggi, dan jeda tiga bulan terbina dalam sebelum perceraian itu muktamad.
 
-Ini ialah butiran pelengkap kepada gambaran keseluruhan yang lebih luas tentang [mengapa perceraian di Malaysia berpecah mengikut agama](getting-divorced-in-malaysia). Ia hanya menerangkan laluan sivil (bukan Islam) di bawah **Akta Membaharui Undang-Undang (Perkahwinan dan Perceraian) 1976 (Akta 164)** — kerangka yang sama yang diringkaskan oleh sumber literasi undang-undang komuniti seperti Women's Centre for Change (WCC) di Pulau Pinang untuk bukan Islam. Ia bersifat deskriptif, bukan nasihat undang-undang; garis masa, kos dan strategi berbeza mengikut kes.
+Ini ialah butiran pelengkap kepada gambaran keseluruhan yang lebih luas tentang [mengapa perceraian di Malaysia berpecah mengikut agama](/settling-in/getting-divorced-in-malaysia/). Ia hanya menerangkan laluan sivil (bukan Islam) di bawah **Akta Membaharui Undang-Undang (Perkahwinan dan Perceraian) 1976 (Akta 164)** — kerangka yang sama yang diringkaskan oleh sumber literasi undang-undang komuniti seperti Women's Centre for Change (WCC) di Pulau Pinang untuk bukan Islam. Ia bersifat deskriptif, bukan nasihat undang-undang; garis masa, kos dan strategi berbeza mengikut kes.
 
 ## Siapa buat apa — dan mengapa JPN tidak boleh menceraikan anda
 
@@ -151,7 +151,7 @@ Setelah dekri dijadikan mutlak, rekod perkahwinan boleh dikemas kini. Ini dilaku
 
 ## Apa seterusnya
 
-- Baca pelengkap yang lebih luas, [Bercerai di Malaysia: Mengapa Ia Juga Berpecah Mengikut Agama](getting-divorced-in-malaysia), untuk mengetahui bagaimana sistem sivil dan Syariah berbeza dan di mana keduanya bertemu.
-- Jika perkahwinan anda didaftarkan di bawah Akta 164, lihat [Berkahwin di Malaysia](getting-married-in-malaysia) untuk mengetahui bagaimana pendaftaran berfungsi — Akta yang sama mengawal kedua-dua hujung.
+- Baca pelengkap yang lebih luas, [Bercerai di Malaysia: Mengapa Ia Juga Berpecah Mengikut Agama](/settling-in/getting-divorced-in-malaysia/), untuk mengetahui bagaimana sistem sivil dan Syariah berbeza dan di mana keduanya bertemu.
+- Jika perkahwinan anda didaftarkan di bawah Akta 164, lihat [Berkahwin di Malaysia](/settling-in/getting-married-in-malaysia/) untuk mengetahui bagaimana pendaftaran berfungsi — Akta yang sama mengawal kedua-dua hujung.
 - Sahkan borang tribunal, yuran dan dokumen yang diperlukan semasa terus dengan pejabat JPN terdekat anda, dan rujuk pengamal undang-undang keluarga sebelum memfailkan. Perkara yang melibatkan anak, nafkah, harta atau penukaran agama pasangan kepada Islam menimbulkan persoalan yang dipertikaikan yang tidak diselesaikan oleh gambaran keseluruhan ini.
 - Ini ialah draf AI yang belum disemak. Sahkan setiap rujukan seksyen terhadap [cetakan semula rasmi Akta 164](https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf) sebelum bergantung padanya.

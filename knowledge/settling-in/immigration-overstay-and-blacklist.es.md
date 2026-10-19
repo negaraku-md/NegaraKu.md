@@ -164,6 +164,6 @@ La conclusión realista: la prevención es dramáticamente más barata que la cu
 - Comprueba hoy la caducidad de tu pase y anota un recordatorio de renovación con tres meses de antelación; si un pase ya ha caducado, actúa antes de que el overstay se alargue, porque tanto el compound como la prohibición aumentan con el tiempo.
 - Si ya has permanecido de más, contacta con la oficina de Inmigración más cercana o con el equipo de movilidad de tu empleador antes de viajar — ser marcado en el aeropuerto es el peor lugar para descubrir una entrada en la lista negra.
 - Confirma tu propia situación contactando directamente con el Departamento de Inmigración en lugar de dar por hecho que estás libre — no hay una autoconsulta en línea fiable para los titulares de pasaportes extranjeros.
-- Lee las guías relacionadas de [Employment Pass](employment-pass), [pases de dependiente y de visita social](dependant-social-visit-passes), y [Student Pass](student-pass) para mantener válido el pase subyacente desde el principio.
+- Lee las guías relacionadas de [Employment Pass](/es/settling-in/employment-pass/), [pases de dependiente y de visita social](/es/settling-in/dependant-social-visit-passes/), y [Student Pass](/es/settling-in/student-pass/) para mantener válido el pase subyacente desde el principio.
 
 *Este es un borrador asistido por IA con fines de información general, no asesoramiento legal. Los importes de compound, los programas y la práctica de fiscalización cambian; confirma las cifras actuales con el Departamento de Inmigración de Malasia antes de actuar.*

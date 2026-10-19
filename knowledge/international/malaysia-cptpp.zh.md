@@ -196,6 +196,6 @@ CPTPP 是一项高标准的自由贸易协定，由 11 个国家于 2018 年 3 �
 
 如果你正在出口，先从你产品的 HS 编码入手，从目的地国家的 CPTPP 时间表中调出相关税目，然后确认你能满足原产地规则，再通过 MITI 的 ePCO 系统签发原产地证书。如果你是服务业公司或采购竞标者，请留意目标市场中的相互承认协议（MRA）和采购门槛，因为这些会随时间逐步开放。而由于马来西亚身处若干相互重叠的协定之中，在投入文书工作之前，务必将 CPTPP 与 RCEP 以及马来西亚的其他自由贸易协定进行比较。
 
-关于更广泛的贸易图景，请参见马来西亚的[对外贸易](external-trade)概况，以及 [MATRADE](matrade) 在出口推广中的作用。关于与这些承诺相互作用的相关贸易救济和股权政策背景，请参见[反倾销和反补贴税](anti-dumping-countervailing-duties)以及[土著股权要求](bumiputera-equity-requirements)。
+关于更广泛的贸易图景，请参见马来西亚的[对外贸易](/zh/economy/external-trade/)概况，以及 [MATRADE](/zh/government/matrade/) 在出口推广中的作用。关于与这些承诺相互作用的相关贸易救济和股权政策背景，请参见[反倾销和反补贴税](/zh/business/anti-dumping-countervailing-duties/)以及[土著股权要求](/zh/business/bumiputera-equity-requirements/)。
 
 本指南中的数据取自马来西亚政府（MITI、Bernama）和 CPTPP 缔约方（加拿大全球事务部）的来源，以其发布日期为准；关税时间表历经多年逐步推进，因此在依赖某一税率之前，请对照官方附件 2-D 时间表核实具体的税目和年份。

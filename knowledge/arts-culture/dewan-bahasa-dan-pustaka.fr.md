@@ -117,4 +117,4 @@ Dans le domaine de la littérature, la DBP administre le **[Prix national de lit
 
 ## Et ensuite
 
-Pour comprendre le rang constitutionnel de la langue que la DBP préserve, lisez l'article sur [la langue malaise](bahasa-melayu) et l'histoire de [l'écriture jawi](jawi-script). Pour la consultation linguistique quotidienne, visitez le portail Kamus Dewan Perdana sur kamus.dbp.gov.my, et consultez le site officiel de la DBP sur dbp.gov.my pour les informations les plus récentes sur ses prix, programmes et publications.
+Pour comprendre le rang constitutionnel de la langue que la DBP préserve, lisez l'article sur [la langue malaise](/fr/arts-culture/bahasa-melayu/) et l'histoire de [l'écriture jawi](/fr/arts-culture/jawi-script/). Pour la consultation linguistique quotidienne, visitez le portail Kamus Dewan Perdana sur kamus.dbp.gov.my, et consultez le site officiel de la DBP sur dbp.gov.my pour les informations les plus récentes sur ses prix, programmes et publications.

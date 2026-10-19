@@ -141,4 +141,4 @@ Fuente: el portal oficial del CCID (ccid.rmp.gov.my).
 
 El CCID sigue siendo la primera línea de la RMP contra los delitos con motivación económica, y su énfasis se desplaza cada vez más hacia la recuperación de los fondos de las víctimas, más que hacia el mero número de casos cerrados. Si eres víctima, dos acciones importan: llama de inmediato al **997** para tener la oportunidad de congelar el dinero, y presenta una denuncia policial para que sea posible una investigación completa. Antes de tratar con una parte desconocida en línea, verifica primero la cuenta y el número de teléfono en el portal Semak Mule.
 
-Para más contexto, consulta las entradas relacionadas sobre la [Real Policía de Malasia](polis-diraja-malaysia) y el [Centro Nacional de Respuesta a Estafas (NSRC)](national-scam-response-centre-nsrc).
+Para más contexto, consulta las entradas relacionadas sobre la Real Policía de Malasia y el Centro Nacional de Respuesta a Estafas (NSRC).

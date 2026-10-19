@@ -76,7 +76,7 @@ keywords: ["civil divorce Malaysia", "Law Reform Marriage and Divorce Act 1976",
 
 A non-Muslim couple who register their marriage at JPN often assume the same office can end it. It cannot. In Malaysia, a civil marriage is registered administratively, but it is dissolved only by a court order — and the path from an estranged marriage to a stamped decree runs through a reconciliation tribunal, a High Court petition, and a built-in three-month pause before the divorce is final.
 
-This is the companion detail to the broader overview of [why divorce in Malaysia splits by religion](getting-divorced-in-malaysia). It describes only the civil (non-Muslim) route under the **Law Reform (Marriage and Divorce) Act 1976 (Act 164)** — the same framework that community legal-literacy resources such as the Women's Centre for Change (WCC) in Penang summarise for non-Muslims. It is descriptive, not legal advice; timelines, cost and strategy vary case by case.
+This is the companion detail to the broader overview of [why divorce in Malaysia splits by religion](/en/settling-in/getting-divorced-in-malaysia/). It describes only the civil (non-Muslim) route under the **Law Reform (Marriage and Divorce) Act 1976 (Act 164)** — the same framework that community legal-literacy resources such as the Women's Centre for Change (WCC) in Penang summarise for non-Muslims. It is descriptive, not legal advice; timelines, cost and strategy vary case by case.
 
 ## Who does what — and why JPN cannot divorce you
 
@@ -150,7 +150,7 @@ Once the decree is made absolute, the marriage record can be updated. This is do
 
 ## What's next
 
-- Read the wider companion, [Getting Divorced in Malaysia: Why It Splits by Religion Too](getting-divorced-in-malaysia), for how the civil and Syariah systems differ and where they meet.
-- If your marriage was registered under Act 164, see [Getting Married in Malaysia](getting-married-in-malaysia) for how registration works — the same Act governs both ends.
+- Read the wider companion, [Getting Divorced in Malaysia: Why It Splits by Religion Too](/en/settling-in/getting-divorced-in-malaysia/), for how the civil and Syariah systems differ and where they meet.
+- If your marriage was registered under Act 164, see [Getting Married in Malaysia](/en/settling-in/getting-married-in-malaysia/) for how registration works — the same Act governs both ends.
 - Confirm the current tribunal forms, fees and required documents directly with your nearest JPN office, and consult a family-law practitioner before filing. Matters involving children, maintenance, property or a spouse's conversion to Islam raise contested questions that this overview does not resolve.
 - This is an unreviewed AI draft. Verify every section reference against the official [Act 164 reprint](https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf) before relying on it.

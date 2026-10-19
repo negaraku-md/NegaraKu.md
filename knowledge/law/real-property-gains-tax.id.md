@@ -132,7 +132,7 @@ Di sinilah lanskap berubah besar. Sebelum 2024, pelepasan saham perusahaan harta
 
 Menurut EY Malaysia, di bawah CGT tarifnya adalah **10% atas keuntungan bersih**, dengan opsi membayar **2% atas harga jual kotor** bagi saham yang diperoleh sebelum 1 Januari 2024. Namun, individu **tetap di bawah CKHT** ketika melepaskan saham RPC — begitu juga entitas Labuan tertentu.
 
-Ringkasnya: pelepasan **properti fisik** tetap di bawah CKHT untuk semua orang, tetapi pelepasan **saham RPC oleh entitas korporat** kini di bawah CGT. Artikel [Pajak Keuntungan Modal](capital-gains-tax) menjelaskan rezim baru ini lebih lanjut.
+Ringkasnya: pelepasan **properti fisik** tetap di bawah CKHT untuk semua orang, tetapi pelepasan **saham RPC oleh entitas korporat** kini di bawah CGT. Artikel [Pajak Keuntungan Modal](/id/taxation/capital-gains-tax/) menjelaskan rezim baru ini lebih lanjut.
 
 ## Siapa yang perlu melapor, dan kapan?
 
@@ -154,8 +154,8 @@ Mulai 2025, sisa pajak perlu dilunasi dalam **90 hari dari tanggal pelepasan**. 
 ## Apa selanjutnya
 
 - **Sebelum menjual:** hitung perkiraan keuntungan kena pajak Anda dan periksa tahun kepemilikan — menunggu hingga setelah tahun kelima dapat menurunkan tarif CKHT Anda menjadi 0% jika Anda warga negara.
-- **Tentukan rezim yang benar:** jika Anda melepaskan saham dan bukan properti fisik, pastikan apakah CKHT atau [Pajak Keuntungan Modal](capital-gains-tax) yang berlaku berdasarkan status Anda (individu vs entitas korporat).
-- **Perbarui formulir:** periksa keperluan formulir CKHT 1A/1B/2A/3 terkini dan tenggat 60/90 hari langsung di portal e-CKHT [Badan Pendapatan Dalam Negeri](lhdn), karena tarif pemotongan dan prosedur dapat berubah melalui Akta Kewangan tahunan.
+- **Tentukan rezim yang benar:** jika Anda melepaskan saham dan bukan properti fisik, pastikan apakah CKHT atau [Pajak Keuntungan Modal](/id/taxation/capital-gains-tax/) yang berlaku berdasarkan status Anda (individu vs entitas korporat).
+- **Perbarui formulir:** periksa keperluan formulir CKHT 1A/1B/2A/3 terkini dan tenggat 60/90 hari langsung di portal e-CKHT [Badan Pendapatan Dalam Negeri](/id/government/lhdn/), karena tarif pemotongan dan prosedur dapat berubah melalui Akta Kewangan tahunan.
 - **Dapatkan nasihat profesional:** untuk pelepasan bernilai tinggi, pengalihan kepemilikan keluarga, atau klaim pengecualian sekali seumur hidup, rujuk pengacara properti atau agen pajak terdaftar untuk memastikan perhitungan dan dokumen pendukung.
 
 *Catatan: Artikel ini adalah draf hasil-AI untuk tujuan informasi umum dan bukan nasihat pajak atau hukum. Pastikan angka dan prosedur terkini dengan Badan Pendapatan Dalam Negeri sebelum bertindak.*

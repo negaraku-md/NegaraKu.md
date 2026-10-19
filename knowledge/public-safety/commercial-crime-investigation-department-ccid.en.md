@@ -141,4 +141,4 @@ Source: the official CCID portal (ccid.rmp.gov.my).
 
 The CCID remains the RMP's front line against financially motivated crime, and its emphasis is increasingly shifting towards recovering victims' funds rather than merely the number of cases closed. If you become a victim, two actions matter: call **997** immediately for a chance to freeze the money, and lodge a police report to enable a full investigation. Before dealing with an unknown party online, check the account and phone number on the Semak Mule portal first.
 
-For more context, see the related entries on the [Royal Malaysia Police](polis-diraja-malaysia) and the [National Scam Response Centre (NSRC)](national-scam-response-centre-nsrc).
+For more context, see the related entries on the Royal Malaysia Police and the National Scam Response Centre (NSRC).

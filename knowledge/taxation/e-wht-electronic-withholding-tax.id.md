@@ -98,7 +98,7 @@ Jalur kertas memiliki gesekan yang terkenal: formulir hilang dalam perjalanan, p
 
 ## Pembayaran mana yang melalui e-WHT?
 
-e-WHT mencakup pajak pemotongan atas pembayaran kepada bukan domisili (dan beberapa kasus domisili), masing-masing terikat pada seksyen pengenaan **Income Tax Act 1967** dan formulirnya sendiri. Tarif tidak diulang di sini — lihat panduan pendamping tentang [tarif pajak pemotongan menurut jenis pembayaran](withholding-tax-rates) — tetapi peta formulir-ke-seksyen adalah:
+e-WHT mencakup pajak pemotongan atas pembayaran kepada bukan domisili (dan beberapa kasus domisili), masing-masing terikat pada seksyen pengenaan **Income Tax Act 1967** dan formulirnya sendiri. Tarif tidak diulang di sini — lihat panduan pendamping tentang [tarif pajak pemotongan menurut jenis pembayaran](/id/taxation/withholding-tax-rates/) — tetapi peta formulir-ke-seksyen adalah:
 
 | Formulir | Seksyen ACP 1967 | Apa yang dicakupnya |
 | --- | --- | --- |
@@ -111,7 +111,7 @@ e-WHT mencakup pajak pemotongan atas pembayaran kepada bukan domisili (dan beber
 | CP37S / CP37DS | s.109 / s.109B | Penyetoran tertunda bagi pembayaran royalti, bunga dan s.4A **bernilai kecil** yang berulang |
 | e-107D | s.107D | Pemotongan 2 persen atas komisi yang dibayarkan kepada agen, pedagang dan distributor domisili |
 
-Penghasilan penghibur publik di bawah **s.109A** juga merupakan pajak pemotongan, dan e-perkhidmatan membawa rentang CP37 yang lengkap, jadi periksa daftar formulir terkini di MyTax untuk kode tepat sebelum Anda mengajukan. Panduan ini adalah tentang *mekanisme*; untuk formulir mana yang sesuai bagi suatu pembayaran, lihat panduan tentang [memilih formulir CP37 yang benar](cp37-forms), dan untuk s.4A secara khusus, [seksyen 109B kelas pendapatan khusus](withholding-tax-special-classes).
+Penghasilan penghibur publik di bawah **s.109A** juga merupakan pajak pemotongan, dan e-perkhidmatan membawa rentang CP37 yang lengkap, jadi periksa daftar formulir terkini di MyTax untuk kode tepat sebelum Anda mengajukan. Panduan ini adalah tentang *mekanisme*; untuk formulir mana yang sesuai bagi suatu pembayaran, lihat panduan tentang [memilih formulir CP37 yang benar](/id/taxation/cp37-forms/), dan untuk s.4A secara khusus, [seksyen 109B kelas pendapatan khusus](/id/taxation/withholding-tax-special-classes/).
 
 ## Bagaimana proses e-WHT berfungsi?
 
@@ -133,7 +133,7 @@ Melewatkan bulan itu dan dua hal terjadi, keduanya tidak berubah dari era kertas
 - **Kenaikan 10 persen.** Ketika pembayar gagal membayar jumlah yang terutang, jumlah itu **dinaikkan sebesar jumlah yang sama dengan 10 persen** dari pajak yang belum dibayar, dan pajak bersama kenaikan menjadi **utang terutang kepada Pemerintah** — bagi bunga dan royalti ini adalah **s.109(2)**, dengan ketentuan paralel dalam seksyen lain. Kenaikan itu dibayar terpisah menggunakan **Borang CP147**.
 - **Pengeluaran tidak diizinkan.** Pembayaran yang Anda gagal memotong atasnya **tidak bisa dipotong** dalam penghitungan pajak pembayar sendiri di bawah **s.39(1)(f), (i) atau (j)** sampai pajak pemotongan dan kenaikan dibayar sepenuhnya.
 
-Untuk biaya penuh melakukan kesalahan ini — termasuk cara potongan tidak diizinkan itu diangkat begitu Anda membayar — lihat [apa biayanya jika melewatkan pemotongan pajak pemotongan](withholding-tax-non-compliance).
+Untuk biaya penuh melakukan kesalahan ini — termasuk cara potongan tidak diizinkan itu diangkat begitu Anda membayar — lihat [apa biayanya jika melewatkan pemotongan pajak pemotongan](/id/taxation/withholding-tax-non-compliance/).
 
 ## Bagaimana e-WHT berbeda dari jalur CP37 kertas lama?
 
@@ -149,4 +149,4 @@ Isinya sama; penanganannya tidak:
 
 Jika Anda membuat pembayaran kepada bukan domisili, anggaplah e-WHT sebagai default: daftarkan pembayar di MyTax sebelum pembayaran pertama terutang, agar Anda tidak tergesa-gesa dalam jangka satu bulan itu. Hitung formulir dan tarif yang benar *dahulu* — di situlah keputusan sebenarnya berada — kemudian langkah e-WHT bersifat mekanis. Simpan setiap nomor tagihan dan struk bersama faktur dasar, karena struk itu adalah bukti Anda bahwa Anda menyetor tepat waktu dan bahwa pengeluaran tetap bisa dipotong.
 
-Untuk kepingan-kepingan di sekeliling yang satu ini: [jadwal tarif](withholding-tax-rates) memberitahu Anda berapa banyak untuk dipotong, [panduan formulir CP37](cp37-forms) memberitahu Anda formulir mana untuk dipilih, [seksyen 109B](withholding-tax-special-classes) mencakup kasus biaya teknis-dan-layanan yang biasa, dan [panduan ketidakpatuhan](withholding-tax-non-compliance) menguraikan sanksi dengan lengkap. Karena LHDN menata ulang portal dan edisi formulirnya secara berkala, pastikan kode formulir terkini dan panduan langsung apa pun di MyTax sebelum Anda mengajukan.
+Untuk kepingan-kepingan di sekeliling yang satu ini: [jadwal tarif](/id/taxation/withholding-tax-rates/) memberitahu Anda berapa banyak untuk dipotong, [panduan formulir CP37](/id/taxation/cp37-forms/) memberitahu Anda formulir mana untuk dipilih, [seksyen 109B](/id/taxation/withholding-tax-special-classes/) mencakup kasus biaya teknis-dan-layanan yang biasa, dan [panduan ketidakpatuhan](/id/taxation/withholding-tax-non-compliance/) menguraikan sanksi dengan lengkap. Karena LHDN menata ulang portal dan edisi formulirnya secara berkala, pastikan kode formulir terkini dan panduan langsung apa pun di MyTax sebelum Anda mengajukan.

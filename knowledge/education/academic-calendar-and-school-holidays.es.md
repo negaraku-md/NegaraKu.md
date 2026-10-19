@@ -123,4 +123,4 @@ Sabah y Sarawak están en el **Grupo B**, así que siguen el mismo desplazamient
 - Antes de planificar un viaje o los billetes de regreso al pueblo de origen, consulte la última **circular del MOE** en [moe.gov.my](https://www.moe.gov.my) para las fechas oficiales de la sesión correspondiente: las fechas cambian cada año.
 - Asegúrese de estar mirando la **columna de grupo correcta** (A o B) para el estado de su hijo; la columna equivocada implica equivocarse en un día.
 - Haga coincidir las fechas de las pausas de trimestre con los **días festivos** de su estado, porque las festividades islámicas y los festivos de Sabah/Sarawak pueden añadir o desplazar días.
-- Para un contexto más amplio, consulte la página de [días festivos en Malasia](public-holidays-in-malaysia) y la estructura del [sistema escolar malasio](malaysian-school-system).
+- Para un contexto más amplio, consulte la página de días festivos en Malasia y la estructura del sistema escolar malasio.

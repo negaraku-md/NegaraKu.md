@@ -123,4 +123,4 @@ keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", 
 - 여행이나 귀향 항공권을 계획하기 전에 [moe.gov.my](https://www.moe.gov.my)에서 최신 **Surat Siaran KPM**을 확인하여 해당 학년도의 공식 날짜를 파악하십시오. 날짜는 매년 바뀝니다.
 - 자녀가 다니는 주의 **올바른 그룹 열**(A 또는 B)을 확인하십시오. 열을 잘못 보면 하루가 어긋납니다.
 - 학기 방학 날짜를 거주 **주의 공휴일**과 대조하십시오. 이슬람 명절과 사바·사라왁 휴일이 날짜를 추가하거나 이동시킬 수 있기 때문입니다.
-- 더 넓은 맥락은 [말레이시아 공휴일](public-holidays-in-malaysia) 페이지와 [말레이시아 학교 제도](malaysian-school-system) 구조를 참고하십시오.
+- 더 넓은 맥락은 말레이시아 공휴일 페이지와 말레이시아 학교 제도 구조를 참고하십시오.

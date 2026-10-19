@@ -132,7 +132,7 @@ C'est ici que le paysage a changé de manière significative. Avant 2024, la ces
 
 Selon EY Malaysia, dans le cadre du CGT, le taux est de **10% sur la plus-value nette**, avec l'option de payer **2% sur le prix de vente brut** pour les actions acquises avant le 1er janvier 2024. Les personnes physiques, en revanche, **demeurent soumises au RPGT** lors de la cession d'actions de RPC, tout comme certaines entités de Labuan.
 
-En résumé : la cession de **biens immobiliers physiques** reste soumise au RPGT pour tous, mais la cession d'**actions de RPC par des entités corporatives** relève désormais du CGT. L'article sur l'[impôt sur les plus-values de cession](capital-gains-tax) explique ce nouveau régime plus en détail.
+En résumé : la cession de **biens immobiliers physiques** reste soumise au RPGT pour tous, mais la cession d'**actions de RPC par des entités corporatives** relève désormais du CGT. L'article sur l'[impôt sur les plus-values de cession](/fr/taxation/capital-gains-tax/) explique ce nouveau régime plus en détail.
 
 ## Qui doit déposer la déclaration, et quand ?
 
@@ -154,8 +154,8 @@ Depuis 2025, le solde de l'impôt doit être réglé dans les **90 jours suivant
 ## Et ensuite
 
 - **Avant de vendre :** calculez votre plus-value imposable estimée et vérifiez l'année de détention ; attendre après la cinquième année peut ramener votre taux de RPGT à 0% si vous êtes citoyen.
-- **Déterminez le bon régime :** si vous cédez des actions plutôt qu'un bien physique, confirmez si le RPGT ou l'[impôt sur les plus-values de cession](capital-gains-tax) s'applique selon votre situation (personne physique par rapport à entité corporative).
-- **Tenez-vous à jour des formulaires :** consultez les exigences en vigueur des formulaires CKHT 1A/1B/2A/3 et les délais de 60/90 jours directement sur le portail e-CKHT du [Conseil des impôts internes](lhdn), car les taux de retenue et les procédures peuvent changer par la Loi de finances annuelle.
+- **Déterminez le bon régime :** si vous cédez des actions plutôt qu'un bien physique, confirmez si le RPGT ou l'[impôt sur les plus-values de cession](/fr/taxation/capital-gains-tax/) s'applique selon votre situation (personne physique par rapport à entité corporative).
+- **Tenez-vous à jour des formulaires :** consultez les exigences en vigueur des formulaires CKHT 1A/1B/2A/3 et les délais de 60/90 jours directement sur le portail e-CKHT du [Conseil des impôts internes](/fr/government/lhdn/), car les taux de retenue et les procédures peuvent changer par la Loi de finances annuelle.
 - **Sollicitez un conseil professionnel :** pour les cessions de grande valeur, les transmissions familiales ou les demandes d'exonération unique au cours de la vie, consultez un avocat spécialisé en immobilier ou un agent fiscal enregistré pour vérifier le calcul et les documents justificatifs.
 
 *Remarque : cet article est un brouillon généré par IA à des fins d'information générale et ne constitue pas un conseil fiscal ou juridique. Vérifiez les chiffres et les procédures les plus récents auprès du Conseil des impôts internes avant d'agir.*

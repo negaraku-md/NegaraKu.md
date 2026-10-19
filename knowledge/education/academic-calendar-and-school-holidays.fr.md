@@ -123,4 +123,4 @@ Sabah et Sarawak sont dans le **Groupe B**, ils suivent donc le même décalage 
 - Avant de planifier un voyage ou les billets de retour au village d'origine, consultez la dernière **circulaire du MOE** sur [moe.gov.my](https://www.moe.gov.my) pour les dates officielles de la session concernée — les dates changent chaque année.
 - Assurez-vous de regarder la **bonne colonne de groupe** (A ou B) pour l'État de votre enfant ; la mauvaise colonne signifie se tromper d'un jour.
 - Faites correspondre les dates des congés de trimestre avec les **jours fériés** de votre État, car les fêtes islamiques et les jours fériés de Sabah/Sarawak peuvent ajouter ou décaler des jours.
-- Pour un contexte plus large, consultez la page des [jours fériés en Malaisie](public-holidays-in-malaysia) et la structure du [système scolaire malaisien](malaysian-school-system).
+- Pour un contexte plus large, consultez la page des jours fériés en Malaisie et la structure du système scolaire malaisien.

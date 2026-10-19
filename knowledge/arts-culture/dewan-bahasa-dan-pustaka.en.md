@@ -117,4 +117,4 @@ In the field of literature, DBP administers the **[National Literary Award](/art
 
 ## What's next
 
-To understand the constitutional standing of the language that DBP safeguards, read the article on [the Malay language](bahasa-melayu) and the history of [the Jawi script](jawi-script). For everyday language reference, visit the Kamus Dewan Perdana portal at kamus.dbp.gov.my, and check the official DBP website at dbp.gov.my for the latest information on its awards, programmes, and publications.
+To understand the constitutional standing of the language that DBP safeguards, read the article on [the Malay language](/en/arts-culture/bahasa-melayu/) and the history of [the Jawi script](/en/arts-culture/jawi-script/). For everyday language reference, visit the Kamus Dewan Perdana portal at kamus.dbp.gov.my, and check the official DBP website at dbp.gov.my for the latest information on its awards, programmes, and publications.

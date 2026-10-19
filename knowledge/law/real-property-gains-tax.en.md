@@ -132,7 +132,7 @@ This is where the landscape has changed significantly. Before 2024, the disposal
 
 According to EY Malaysia, under CGT the rate is **10% on the net gain**, with the option to pay **2% on the gross sale price** for shares acquired before 1 January 2024. Individuals, however, **remain under RPGT** when disposing of RPC shares — as do certain Labuan entities.
 
-In short: the disposal of **physical real property** remains under RPGT for everyone, but the disposal of **RPC shares by corporate entities** is now under CGT. The [Capital Gains Tax](capital-gains-tax) article explains this new regime in more detail.
+In short: the disposal of **physical real property** remains under RPGT for everyone, but the disposal of **RPC shares by corporate entities** is now under CGT. The [Capital Gains Tax](/en/taxation/capital-gains-tax/) article explains this new regime in more detail.
 
 ## Who must file, and when?
 
@@ -154,8 +154,8 @@ From 2025, the balance of tax must be settled within **90 days of the date of di
 ## What's next
 
 - **Before selling:** calculate your estimated chargeable gain and check the holding year — waiting until after the fifth year can lower your RPGT rate to 0% if you are a citizen.
-- **Determine the correct regime:** if you are disposing of shares rather than physical property, confirm whether RPGT or [Capital Gains Tax](capital-gains-tax) applies based on your status (individual vs corporate entity).
-- **Keep up with the forms:** check the current CKHT 1A/1B/2A/3 form requirements and the 60/90-day deadlines directly on the e-CKHT portal of the [Inland Revenue Board](lhdn), as retention rates and procedures can change through the annual Finance Act.
+- **Determine the correct regime:** if you are disposing of shares rather than physical property, confirm whether RPGT or [Capital Gains Tax](/en/taxation/capital-gains-tax/) applies based on your status (individual vs corporate entity).
+- **Keep up with the forms:** check the current CKHT 1A/1B/2A/3 form requirements and the 60/90-day deadlines directly on the e-CKHT portal of the [Inland Revenue Board](/en/government/lhdn/), as retention rates and procedures can change through the annual Finance Act.
 - **Get professional advice:** for high-value disposals, family transfers, or once-in-a-lifetime exemption claims, consult a property lawyer or registered tax agent to verify the calculation and supporting documents.
 
 *Note: This article is an AI-generated draft for general information purposes and is not tax or legal advice. Verify the latest figures and procedures with the Inland Revenue Board before acting.*

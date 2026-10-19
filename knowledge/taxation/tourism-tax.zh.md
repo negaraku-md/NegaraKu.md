@@ -137,4 +137,4 @@ keywords: ["tourism tax", "TTx", "Tourism Tax Act 2017", "RM10 per room", "MyTTx
 
 如果你是**旅客**，除非你是公民或永久居民，否则在马来西亚入住时请为每间客房每晚预留额外10令吉——并查看你的预订确认信息，看Agoda等平台是否已代收，以免在柜台被重复收取。
 
-如果你是**经营者**，请确认你的客房数量是否超过五间的注册门槛，如超过则在MyTTx上注册，并使你的TTx-03申报与应税期一致。由于旅游税与住宿服务税并存，值得一读我们关于[SST](sst-explained)和[SST注册](sst-registration)的配套指南，以了解酒店所承担的RMCD义务全貌。关于平台收税的现行法律立场，主要参考依据是RMCD在MyTTx上发布的《一般指南》（General Guide）及第01/2025号公开裁定。
+如果你是**经营者**，请确认你的客房数量是否超过五间的注册门槛，如超过则在MyTTx上注册，并使你的TTx-03申报与应税期一致。由于旅游税与住宿服务税并存，值得一读我们关于[SST](/zh/taxation/sst-explained/)和[SST注册](/zh/taxation/sst-registration/)的配套指南，以了解酒店所承担的RMCD义务全貌。关于平台收税的现行法律立场，主要参考依据是RMCD在MyTTx上发布的《一般指南》（General Guide）及第01/2025号公开裁定。

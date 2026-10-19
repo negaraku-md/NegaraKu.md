@@ -122,4 +122,4 @@ Possibly, if you run a crypto business rather than merely hold coins. Malaysia's
 
 ## What's next
 
-Keep dated records of every acquisition, disposal and swap in ringgit at market value — the badges of trade are judged on your whole pattern of behaviour, so evidence matters. If your holdings are substantial or your activity looks trader-like, confirm your position against LHDN's current guidelines or a licensed tax agent before filing. For the underlying capital-versus-revenue test that governs all of this, see [Capital or Revenue?](capital-or-revenue) and [Capital Gains Tax in Malaysia](capital-gains-tax).
+Keep dated records of every acquisition, disposal and swap in ringgit at market value — the badges of trade are judged on your whole pattern of behaviour, so evidence matters. If your holdings are substantial or your activity looks trader-like, confirm your position against LHDN's current guidelines or a licensed tax agent before filing. For the underlying capital-versus-revenue test that governs all of this, see [Capital or Revenue?](/en/taxation/capital-or-revenue/) and [Capital Gains Tax in Malaysia](/en/taxation/capital-gains-tax/).

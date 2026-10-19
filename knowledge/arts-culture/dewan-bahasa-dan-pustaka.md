@@ -116,4 +116,4 @@ Dalam bidang sastera, DBP mengurus **[Anugerah Sastera Negara](/arts-culture/mal
 
 ## What's next
 
-Untuk memahami kedudukan perlembagaan bahasa yang dijaga oleh DBP, baca rencana tentang [bahasa Melayu](bahasa-melayu) dan sejarah [tulisan Jawi](jawi-script). Untuk rujukan bahasa harian, layari portal Kamus Dewan Perdana di kamus.dbp.gov.my, dan semak laman rasmi DBP di dbp.gov.my untuk maklumat terkini tentang anugerah, program, dan penerbitannya.
+Untuk memahami kedudukan perlembagaan bahasa yang dijaga oleh DBP, baca rencana tentang [bahasa Melayu](/arts-culture/bahasa-melayu/) dan sejarah [tulisan Jawi](/arts-culture/jawi-script/). Untuk rujukan bahasa harian, layari portal Kamus Dewan Perdana di kamus.dbp.gov.my, dan semak laman rasmi DBP di dbp.gov.my untuk maklumat terkini tentang anugerah, program, dan penerbitannya.

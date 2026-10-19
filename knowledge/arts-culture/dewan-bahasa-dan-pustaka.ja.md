@@ -117,4 +117,4 @@ DBPの公式デジタル参考辞典は**『Kamus Dewan Perdana』**であり、
 
 ## 次のステップ
 
-DBPが守護する言語の憲法上の地位を理解するには、[マレー語](bahasa-melayu)についての記事、および[ジャウィ文字](jawi-script)の歴史を参照されたい。日常的な言語参照のためには、kamus.dbp.gov.myの『Kamus Dewan Perdana』ポータルを利用し、賞、プログラム、出版物に関する最新情報についてはdbp.gov.myのDBP公式サイトを確認されたい。
+DBPが守護する言語の憲法上の地位を理解するには、[マレー語](/ja/arts-culture/bahasa-melayu/)についての記事、および[ジャウィ文字](/ja/arts-culture/jawi-script/)の歴史を参照されたい。日常的な言語参照のためには、kamus.dbp.gov.myの『Kamus Dewan Perdana』ポータルを利用し、賞、プログラム、出版物に関する最新情報についてはdbp.gov.myのDBP公式サイトを確認されたい。

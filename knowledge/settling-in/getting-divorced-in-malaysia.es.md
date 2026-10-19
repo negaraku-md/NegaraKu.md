@@ -82,7 +82,7 @@ keywords: ["divorcio Malasia", "divorcio civil", "divorcio Syariah", "talak", "f
 
 Dos parejas malasias presentan la solicitud para poner fin a sus matrimonios la misma mañana. Una entra en un registro del Tribunal Superior civil; la otra se presenta en una oficina religiosa islámica estatal. Ninguna puede usar la puerta de la otra. En Malasia, poner fin a un matrimonio —igual que iniciarlo— discurre por dos sistemas legales separados, y la religión de las partes, no su preferencia, decide cuál se aplica.
 
-Este artículo es un mapa neutral y comparativo de esos dos sistemas. No ofrece asesoramiento legal, no se pronuncia sobre cuestiones religiosas y no afirma que el procedimiento de un solo estado sea universal. Para la imagen especular del lado del matrimonio, vea el artículo complementario sobre [casarse en Malasia](getting-married-in-malaysia).
+Este artículo es un mapa neutral y comparativo de esos dos sistemas. No ofrece asesoramiento legal, no se pronuncia sobre cuestiones religiosas y no afirma que el procedimiento de un solo estado sea universal. Para la imagen especular del lado del matrimonio, vea el artículo complementario sobre [casarse en Malasia](/es/settling-in/getting-married-in-malaysia/).
 
 ## ¿Por qué no hay una única ley de divorcio?
 
@@ -128,8 +128,8 @@ Este es también el ámbito en el que las posturas divergen y el debate público
 
 Si está investigando una situación concreta, el siguiente paso práctico es identificar qué sistema se aplica —determinado por la religión de las partes— y luego buscar asesoramiento dentro de ese sistema: un abogado de derecho de familia civil para un divorcio no musulmán conforme a la Act 164, o la Oficina Religiosa Islámica del Estado correspondiente y un profesional de la Syariah para un divorcio islámico.
 
-- Para la contraparte de esta visión general en el lado del matrimonio, lea [casarse en Malasia](getting-married-in-malaysia).
-- Para el proceso de registro civil detrás de un matrimonio no musulmán, vea [registrar un matrimonio (civil)](registering-a-marriage-civil).
+- Para la contraparte de esta visión general en el lado del matrimonio, lea [casarse en Malasia](/es/settling-in/getting-married-in-malaysia/).
+- Para el proceso de registro civil detrás de un matrimonio no musulmán, vea [registrar un matrimonio (civil)](/es/settling-in/registering-a-marriage-civil/).
 - Como el derecho de familia islámico y el procedimiento Syariah varían según el estado, confirme las figuras y los pasos vigentes con el departamento religioso islámico del estado correspondiente antes de actuar.
 
 Este es un borrador no publicado, asistido por IA, preparado para revisión humana. Es información general, no asesoramiento legal.

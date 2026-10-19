@@ -122,4 +122,4 @@ Sabah dan Sarawak berada dalam **Kumpulan B**, jadi mereka mengikut anjakan tari
 - Sebelum merancang percutian atau tiket balik kampung, semak **Surat Siaran KPM** terbaharu di [moe.gov.my](https://www.moe.gov.my) untuk tarikh rasmi sesi berkenaan — tarikh berubah setiap tahun.
 - Pastikan anda melihat lajur **kumpulan yang betul** (A atau B) untuk negeri anak anda; salah lajur bermakna salah sehari.
 - Padankan tarikh cuti penggal dengan **cuti awam negeri** anda, kerana perayaan Islam dan cuti Sabah/Sarawak boleh menambah atau menganjak hari.
-- Untuk konteks lebih luas, rujuk halaman [cuti umum Malaysia](public-holidays-in-malaysia) dan struktur [sistem persekolahan Malaysia](malaysian-school-system).
+- Untuk konteks lebih luas, rujuk halaman cuti umum Malaysia dan struktur sistem persekolahan Malaysia.

@@ -117,4 +117,4 @@ Trong lĩnh vực văn học, DBP quản lý **[Giải thưởng Văn học Qu�
 
 ## Tiếp theo
 
-Để hiểu địa vị Hiến pháp của ngôn ngữ mà DBP gìn giữ, đọc bài viết về [tiếng Mã Lai](bahasa-melayu) và lịch sử [chữ Jawi](jawi-script). Để tra cứu ngôn ngữ hằng ngày, hãy vào cổng Kamus Dewan Perdana tại kamus.dbp.gov.my, và xem trang chính thức của DBP tại dbp.gov.my để biết thông tin mới nhất về các giải thưởng, chương trình và ấn phẩm của cơ quan.
+Để hiểu địa vị Hiến pháp của ngôn ngữ mà DBP gìn giữ, đọc bài viết về [tiếng Mã Lai](/vi/arts-culture/bahasa-melayu/) và lịch sử [chữ Jawi](/vi/arts-culture/jawi-script/). Để tra cứu ngôn ngữ hằng ngày, hãy vào cổng Kamus Dewan Perdana tại kamus.dbp.gov.my, và xem trang chính thức của DBP tại dbp.gov.my để biết thông tin mới nhất về các giải thưởng, chương trình và ấn phẩm của cơ quan.

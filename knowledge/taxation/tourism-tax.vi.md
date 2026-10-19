@@ -196,7 +196,7 @@ Nếu bạn là một **đơn vị vận hành**, hãy xác nhận xem số phò
 vượt qua ranh giới đăng ký năm phòng hay không, hãy đăng ký trên MyTTx nếu có, và
 căn chỉnh việc nộp TTx-03 của bạn với kỳ tính thuế của bạn. Vì TTx nằm cạnh Thuế
 Dịch vụ trên chỗ ở, nên đáng để đọc các hướng dẫn đồng hành của chúng tôi về
-[SST](sst-explained) và [đăng ký SST](sst-registration) để thấy toàn bộ tập hợp các
+[SST](/vi/taxation/sst-explained/) và [đăng ký SST](/vi/taxation/sst-registration/) để thấy toàn bộ tập hợp các
 nghĩa vụ RMCD mà một khách sạn mang. Về vị thế pháp lý hiện hành đối với việc thu
 của nền tảng, tài liệu tham chiếu chính là General Guide của chính RMCD và Public
 Ruling No. 01/2025 trên MyTTx.

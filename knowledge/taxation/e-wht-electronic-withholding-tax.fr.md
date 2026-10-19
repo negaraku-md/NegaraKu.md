@@ -103,7 +103,7 @@ La voie papier avait des frictions bien connues : formulaires perdus en transit,
 
 ## Quels paiements passent par e-WHT ?
 
-e-WHT couvre les retenues à la source sur les paiements à des non-résidents (et quelques cas de résidents), chacune rattachée à une section d'imposition de l'**Income Tax Act 1967** et à son propre formulaire. Les taux ne sont pas repris ici — voir le guide complémentaire sur [les taux de retenue à la source par type de paiement](withholding-tax-rates) — mais la correspondance formulaire-à-section est la suivante :
+e-WHT couvre les retenues à la source sur les paiements à des non-résidents (et quelques cas de résidents), chacune rattachée à une section d'imposition de l'**Income Tax Act 1967** et à son propre formulaire. Les taux ne sont pas repris ici — voir le guide complémentaire sur [les taux de retenue à la source par type de paiement](/fr/taxation/withholding-tax-rates/) — mais la correspondance formulaire-à-section est la suivante :
 
 | Formulaire | Section ITA 1967 | Ce qu'il couvre |
 | --- | --- | --- |
@@ -116,7 +116,7 @@ e-WHT couvre les retenues à la source sur les paiements à des non-résidents (
 | CP37S / CP37DS | s.109 / s.109B | Versement différé pour des paiements récurrents de **faible valeur** de redevances, intérêts et s.4A |
 | e-107D | s.107D | La déduction de 2 pour cent sur les commissions versées aux agents, concessionnaires et distributeurs résidents |
 
-La rémunération des artistes de spectacle au titre de la **s.109A** est aussi une retenue à la source, et les services électroniques couvrent toute la gamme CP37, alors vérifiez la liste des formulaires en vigueur dans MyTax pour le code exact avant de déposer. Ce guide traite du *mécanisme* ; pour savoir quel formulaire correspond à un paiement donné, consultez le guide sur [le choix du bon formulaire CP37](cp37-forms), et spécifiquement pour la s.4A, [la section 109B classes spéciales de revenu](withholding-tax-special-classes).
+La rémunération des artistes de spectacle au titre de la **s.109A** est aussi une retenue à la source, et les services électroniques couvrent toute la gamme CP37, alors vérifiez la liste des formulaires en vigueur dans MyTax pour le code exact avant de déposer. Ce guide traite du *mécanisme* ; pour savoir quel formulaire correspond à un paiement donné, consultez le guide sur [le choix du bon formulaire CP37](/fr/taxation/cp37-forms/), et spécifiquement pour la s.4A, [la section 109B classes spéciales de revenu](/fr/taxation/withholding-tax-special-classes/).
 
 ## Comment fonctionne le processus e-WHT ?
 
@@ -138,7 +138,7 @@ Manquez le mois et deux choses se produisent, toutes deux inchangées par rappor
 - **Une majoration de 10 pour cent.** Lorsque le payeur ne paie pas le montant dû, ce montant est **majoré d'une somme égale à 10 pour cent** de l'impôt impayé, et l'impôt plus la majoration deviennent une **dette envers le Gouvernement** — pour les intérêts et les redevances, c'est la **s.109(2)**, avec des dispositions parallèles dans les autres sections. La majoration se paie séparément au moyen du **formulaire CP147**.
 - **La dépense est refusée.** Le paiement sur lequel vous n'avez pas retenu n'est **pas déductible** dans le propre calcul fiscal du payeur au titre de la **s.39(1)(f), (i) ou (j)** jusqu'à ce que la retenue à la source et la majoration soient payées en totalité.
 
-Pour le coût total d'une erreur à ce sujet — y compris comment le refus est levé une fois que vous avez payé — consultez [ce qu'il en coûte d'omettre une déduction de retenue à la source](withholding-tax-non-compliance).
+Pour le coût total d'une erreur à ce sujet — y compris comment le refus est levé une fois que vous avez payé — consultez [ce qu'il en coûte d'omettre une déduction de retenue à la source](/fr/taxation/withholding-tax-non-compliance/).
 
 ## En quoi e-WHT diffère-t-il de l'ancienne voie du CP37 papier ?
 
@@ -154,4 +154,4 @@ Le fond est identique ; la gestion ne l'est pas :
 
 Si vous effectuez des paiements à des non-résidents, traitez e-WHT comme la valeur par défaut : enregistrez le payeur sur MyTax avant l'échéance du premier paiement, afin de ne pas courir dans la fenêtre d'un mois. Déterminez le bon formulaire et le bon taux *d'abord* — c'est là que se trouvent les véritables décisions — ensuite les étapes d'e-WHT sont mécaniques. Conservez chaque numéro de facture et reçu avec la facture sous-jacente, car ce reçu est votre preuve à la fois que vous avez versé à temps et que la dépense reste déductible.
 
-Pour les pièces qui entourent celle-ci : le [tableau des taux](withholding-tax-rates) vous dit combien retenir, le [guide des formulaires CP37](cp37-forms) vous dit quel formulaire choisir, [la section 109B](withholding-tax-special-classes) couvre le cas courant des honoraires techniques et de services, et le [guide du non-respect](withholding-tax-non-compliance) détaille les sanctions dans leur intégralité. Comme la LHDN réorganise périodiquement son portail et ses éditions de formulaires, confirmez le code de formulaire en vigueur et toute orientation en direct dans MyTax avant de déposer.
+Pour les pièces qui entourent celle-ci : le [tableau des taux](/fr/taxation/withholding-tax-rates/) vous dit combien retenir, le [guide des formulaires CP37](/fr/taxation/cp37-forms/) vous dit quel formulaire choisir, [la section 109B](/fr/taxation/withholding-tax-special-classes/) couvre le cas courant des honoraires techniques et de services, et le [guide du non-respect](/fr/taxation/withholding-tax-non-compliance/) détaille les sanctions dans leur intégralité. Comme la LHDN réorganise périodiquement son portail et ses éditions de formulaires, confirmez le code de formulaire en vigueur et toute orientation en direct dans MyTax avant de déposer.

@@ -114,7 +114,7 @@ Both grants are **gated behind Malaysia Digital (MD) status**. MDEC's guidelines
 That has two consequences worth planning around:
 
 - **Sequence matters.** If you are not already an MD (or MSC Malaysia) company, factor the status application into your timeline — you are really running two approvals, not one.
-- **The status rules carry over.** MD status has its own eligibility (incorporated under the Companies Act 2016, resident in Malaysia, carrying out an approved MD activity) and its own post-award conditions. Our separate guide on [Malaysia Digital status](mdec-digital-status) covers that in detail — read it first if you have not secured status yet.
+- **The status rules carry over.** MD status has its own eligibility (incorporated under the Companies Act 2016, resident in Malaysia, carrying out an approved MD activity) and its own post-award conditions. Our separate guide on [Malaysia Digital status](/en/business/mdec-digital-status/) covers that in detail — read it first if you have not secured status yet.
 
 Beyond status, MDEC applies the usual company-level filters — a minimum period in operation (around one year), a minimum issued/paid-up capital, and ownership thresholds that distinguish majority-Malaysian companies from foreign-owned ones, with the more generous terms reserved for majority-Malaysian companies. Treat the specific thresholds as things to confirm on the current grant page, because they are set per cycle.
 
@@ -136,6 +136,6 @@ So use this article for the *shape* of the thing — two grant types, the MD-sta
 
 ## What's next
 
-If MDEC grants are on your radar, work in this order. First, confirm you hold — or can get — **Malaysia Digital status**, because without it neither grant is open to you; start with our [Malaysia Digital status](mdec-digital-status) guide. Second, decide **which grant fits your stage**: MDCG if you are building and commercialising a solution, MDXG if you are export-ready and going global. Third, check the **current cycle** on the MDCG and MDXG pages at mdec.my — whether a window is open, the live coverage percentages and ceilings, and the exact eligibility thresholds. And budget for the **reimbursement reality**: you fund the project first and claim back a share later, against audited deliverables.
+If MDEC grants are on your radar, work in this order. First, confirm you hold — or can get — **Malaysia Digital status**, because without it neither grant is open to you; start with our [Malaysia Digital status](/en/business/mdec-digital-status/) guide. Second, decide **which grant fits your stage**: MDCG if you are building and commercialising a solution, MDXG if you are export-ready and going global. Third, check the **current cycle** on the MDCG and MDXG pages at mdec.my — whether a window is open, the live coverage percentages and ceilings, and the exact eligibility thresholds. And budget for the **reimbursement reality**: you fund the project first and claim back a share later, against audited deliverables.
 
-For the wider landscape of Malaysian government funding beyond MDEC, see our [government grants directory](government-grants-directory-malaysia).
+For the wider landscape of Malaysian government funding beyond MDEC, see our [government grants directory](/en/business/government-grants-directory-malaysia/).

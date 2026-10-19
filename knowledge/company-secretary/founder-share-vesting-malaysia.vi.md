@@ -106,7 +106,7 @@ Có hai cách để sắp xếp việc trao quyền, và những người sáng 
 
 - **Trao quyền tiến (kiểu quyền chọn).** Một người được hứa cổ phần và *kiếm được quyền mua chúng* theo
   thời gian — họ không nắm giữ gì cho đến khi mỗi đợt được trao quyền và họ nhận nó. Đây là cách một
-  [chương trình quyền chọn cổ phần cho người lao động](employee-stock-option-scheme-malaysia) hoạt động,
+  [chương trình quyền chọn cổ phần cho người lao động](/vi/company-secretary/employee-stock-option-scheme-malaysia/) hoạt động,
   và nó cần sự phê duyệt của cổ đông để cấp phát cổ phần mới theo **section 75** và một sự từ bỏ quyền ưu
   tiên mua theo **section 85** mỗi khi cổ phần được phát hành.
 - **Trao quyền ngược.** Người sáng lập đăng ký mua và được *phát hành tất cả cổ phần của họ từ đầu*, được
@@ -133,7 +133,7 @@ cổ phần đó *được niêm yết trên một sở giao dịch chứng kho�
 Section 127 là một ngoại lệ hẹp đối với lệnh cấm chung trong **section 123** về việc một công ty mua lại
 hoặc giao dịch cổ phần của chính mình. Một Sdn Bhd tư nhân nằm hoàn toàn ngoài nó: nó không thể mua lại
 cổ phần của chính mình và, do đó, không thể nắm giữ **cổ phần quỹ**. (Xem lưu ý liên quan về
-[mua lại cổ phần và cổ phần quỹ](share-buy-back-treasury-shares).)
+[mua lại cổ phần và cổ phần quỹ](/vi/company-secretary/share-buy-back-treasury-shares/).)
 
 Vậy nên trao quyền ngược ở Malaysia không bao giờ là một sự mua lại của công ty. Nó được thực hiện như
 một **sự chuyển nhượng cổ phần bắt buộc**. Khi một người sáng lập rời đi, các cổ phần chưa trao quyền của
@@ -146,7 +146,7 @@ họ được chuyển nhượng — ở mức giá danh nghĩa đã thỏa thu�
 
 Bản thân sự chuyển nhượng dùng bộ máy thông thường: một văn kiện chuyển nhượng được hoàn tất và đóng thuế
 trước bạ hợp lệ theo **section 105(1)**, và việc đăng ký bên nhận chuyển nhượng trong thời hạn theo
-**section 106(1)**. (Xem [chuyển nhượng cổ phần trong một Sdn Bhd](share-transfer) để biết trình tự đầy
+**section 106(1)**. (Xem [chuyển nhượng cổ phần trong một Sdn Bhd](/vi/company-secretary/share-transfer/) để biết trình tự đầy
 đủ.) Các cổ phần của người sáng lập là các cổ phần thực chuyển sang một bên nhận thực — không có tình
 trạng lấp lửng cổ phần quỹ nào cho chúng ngồi trong.
 
@@ -160,7 +160,7 @@ trình trao quyền, mốc vách đá, cái gì được tính là «rời đi»
 hoặc mệnh giá cho các cổ phần chưa trao quyền), và cách xử lý người rời đi tốt / người rời đi xấu. Nó ràng
 buộc những người sáng lập như một hợp đồng. Tuy nhiên, tự nó, một hợp đồng không thể buộc sổ đăng ký thay
 đổi nếu một người sáng lập rời đi từ chối ký một sự chuyển nhượng. (Xem
-[các thỏa thuận cổ đông ở Malaysia](shareholders-agreement-malaysia).)
+[các thỏa thuận cổ đông ở Malaysia](/vi/business/shareholders-agreement-malaysia/).)
 
 **Điều lệ** cung cấp sức răn đe để thực thi. Một điều lệ được soạn thảo tốt chứa một **hạn chế chuyển
 nhượng** và một **điều khoản chuyển nhượng bắt buộc hoặc quyền ưu tiên mua** — một «thông báo chuyển nhượng
@@ -205,7 +205,7 @@ hiệu lực đối với các công ty vào năm 2024, một lần nữa bằng
 thuế được tính trên giá trị thực sự của các cổ phần.
 
 Hướng dẫn này cố ý không nêu lại các mức thuế. Đối với phép tính thuế trước bạ, cơ sở định giá của LHDN
-và các thời hạn nộp, xem [chuyển nhượng cổ phần trong một Sdn Bhd](share-transfer); bài viết đó cũng bao
+và các thời hạn nộp, xem [chuyển nhượng cổ phần trong một Sdn Bhd](/vi/company-secretary/share-transfer/); bài viết đó cũng bao
 gồm khi nào thuế lãi vốn có hiệu lực đối với một sự định đoạt cổ phần không niêm yết.
 
 ## Tiếp theo
@@ -220,7 +220,7 @@ Vì cơ chế là một sự chuyển nhượng bắt buộc chứ không phải
 việc soạn thảo với các quy tắc chuyển nhượng trong đầu: điều lệ phải cho phép các cổ phần dịch chuyển mà
 không cần chữ ký mới của người rời đi, và việc thu hồi cuối cùng vẫn phải chạy qua việc đóng thuế trước
 bạ, việc đăng ký và các kiểm tra thuế. Đối với lớp hợp đồng, xem hướng dẫn về
-[các thỏa thuận cổ đông](shareholders-agreement-malaysia); đối với cách các cổ phần dịch chuyển về mặt vật
-lý, xem [chuyển nhượng cổ phần](share-transfer); và đối với lựa chọn thay thế dựa trên quyền chọn được
+[các thỏa thuận cổ đông](/vi/business/shareholders-agreement-malaysia/); đối với cách các cổ phần dịch chuyển về mặt vật
+lý, xem [chuyển nhượng cổ phần](/vi/company-secretary/share-transfer/); và đối với lựa chọn thay thế dựa trên quyền chọn được
 dùng với người lao động thay vì những người sáng lập, xem hướng dẫn
-[chương trình quyền chọn cổ phần cho người lao động](employee-stock-option-scheme-malaysia).
+[chương trình quyền chọn cổ phần cho người lao động](/vi/company-secretary/employee-stock-option-scheme-malaysia/).

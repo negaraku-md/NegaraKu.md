@@ -123,4 +123,4 @@ Sabah và Sarawak nằm trong **Nhóm B**, nên họ theo cùng sự dịch ngà
 - Trước khi lập kế hoạch du lịch hoặc vé về quê, hãy kiểm tra **Thông tư KPM (Surat Siaran)** mới nhất tại [moe.gov.my](https://www.moe.gov.my) để biết ngày chính thức của năm học liên quan — ngày thay đổi mỗi năm.
 - Bảo đảm bạn xem đúng cột **nhóm** (A hoặc B) cho bang của con bạn; sai cột nghĩa là sai một ngày.
 - Khớp các ngày nghỉ học kỳ với **các ngày nghỉ lễ công của bang** bạn, vì các lễ hội Hồi giáo và các kỳ nghỉ Sabah/Sarawak có thể thêm hoặc dịch ngày.
-- Để có bối cảnh rộng hơn, hãy tham khảo trang [ngày nghỉ lễ công Malaysia](public-holidays-in-malaysia) và cấu trúc [hệ thống trường học Malaysia](malaysian-school-system).
+- Để có bối cảnh rộng hơn, hãy tham khảo trang ngày nghỉ lễ công Malaysia và cấu trúc hệ thống trường học Malaysia.

@@ -164,6 +164,6 @@ keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigr
 - 今天就查看你的准证到期日，并将续签提醒记在三个月前；如果准证已经失效，趁逾期尚未拉长时行动，因为抵偿金与禁令都会随时间递增。
 - 如果你已经逾期逗留，请在出行前联系最近的移民局办事处或你雇主的人员流动团队——在机场被标记，是发现自己被列入黑名单的最糟糕地点。
 - 通过直接联系移民局来确认你自己的状态，而不要想当然地以为自己没事——外国护照持有人没有可靠的在线自助查询。
-- 阅读相关的[就业准证](employment-pass)、[家属与社交访问准证](dependant-social-visit-passes)以及[学生准证](student-pass)指南，从源头上让底层准证保持有效。
+- 阅读相关的[就业准证](/zh/settling-in/employment-pass/)、[家属与社交访问准证](/zh/settling-in/dependant-social-visit-passes/)以及[学生准证](/zh/settling-in/student-pass/)指南，从源头上让底层准证保持有效。
 
 *本文为AI辅助撰写的初稿，仅供一般参考，并非法律意见。抵偿金额、各项计划及执法实务会有变动；采取行动前，请向马来西亚移民局确认当前数字。*

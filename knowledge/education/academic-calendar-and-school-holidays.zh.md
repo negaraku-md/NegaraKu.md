@@ -123,4 +123,4 @@ keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", 
 - 在规划旅行或回乡车票之前，先到 [moe.gov.my](https://www.moe.gov.my) 查阅最新的**教育部通函（Surat Siaran KPM）**以取得相关学年的官方日期——日期每年都会变动。
 - 确保你查看的是孩子所在州属**正确的分组栏**（A 或 B）；看错栏就会相差一天。
 - 将学期假期日期与你所在州属的**公共假期**对照，因为伊斯兰节庆以及沙巴／砂拉越的假期可能会增加或错开天数。
-- 如需更广泛的背景，请参阅[马来西亚公共假期](public-holidays-in-malaysia)页面以及[马来西亚学校制度](malaysian-school-system)的结构。
+- 如需更广泛的背景，请参阅马来西亚公共假期页面以及马来西亚学校制度的结构。

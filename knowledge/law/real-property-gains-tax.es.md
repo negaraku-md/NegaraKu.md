@@ -132,7 +132,7 @@ Aquí es donde el panorama ha cambiado de forma significativa. Antes de 2024, la
 
 Según EY Malaysia, bajo el CGT la tasa es del **10% sobre la ganancia neta**, con la opción de pagar el **2% sobre el precio bruto de venta** para las acciones adquiridas antes del 1 de enero de 2024. Las personas físicas, no obstante, **permanecen bajo el RPGT** al enajenar acciones de RPC, al igual que ciertas entidades de Labuan.
 
-En resumen: la enajenación de **bienes inmuebles físicos** permanece bajo el RPGT para todos, pero la enajenación de **acciones de RPC por parte de entidades corporativas** está ahora bajo el CGT. El artículo sobre el [impuesto sobre las ganancias de capital](capital-gains-tax) explica este nuevo régimen con más detalle.
+En resumen: la enajenación de **bienes inmuebles físicos** permanece bajo el RPGT para todos, pero la enajenación de **acciones de RPC por parte de entidades corporativas** está ahora bajo el CGT. El artículo sobre el [impuesto sobre las ganancias de capital](/es/taxation/capital-gains-tax/) explica este nuevo régimen con más detalle.
 
 ## ¿Quién debe presentar la declaración, y cuándo?
 
@@ -154,8 +154,8 @@ Desde 2025, el saldo del impuesto debe liquidarse dentro de los **90 días sigui
 ## Qué sigue
 
 - **Antes de vender:** calcula tu ganancia gravable estimada y comprueba el año de tenencia; esperar hasta después del quinto año puede reducir tu tasa de RPGT al 0% si eres ciudadano.
-- **Determina el régimen correcto:** si vas a enajenar acciones en lugar de bienes físicos, confirma si se aplica el RPGT o el [impuesto sobre las ganancias de capital](capital-gains-tax) en función de tu situación (persona física frente a entidad corporativa).
-- **Mantente al día con los formularios:** consulta los requisitos vigentes de los formularios CKHT 1A/1B/2A/3 y los plazos de 60/90 días directamente en el portal e-CKHT de la [Junta de Ingresos Internos](lhdn), ya que las tasas de retención y los procedimientos pueden cambiar mediante la Ley de Finanzas anual.
+- **Determina el régimen correcto:** si vas a enajenar acciones en lugar de bienes físicos, confirma si se aplica el RPGT o el [impuesto sobre las ganancias de capital](/es/taxation/capital-gains-tax/) en función de tu situación (persona física frente a entidad corporativa).
+- **Mantente al día con los formularios:** consulta los requisitos vigentes de los formularios CKHT 1A/1B/2A/3 y los plazos de 60/90 días directamente en el portal e-CKHT de la [Junta de Ingresos Internos](/es/government/lhdn/), ya que las tasas de retención y los procedimientos pueden cambiar mediante la Ley de Finanzas anual.
 - **Busca asesoramiento profesional:** para enajenaciones de alto valor, transmisiones familiares o solicitudes de exención única en la vida, consulta a un abogado especializado en propiedad o a un agente fiscal registrado para verificar el cálculo y los documentos de respaldo.
 
 *Nota: este artículo es un borrador generado por IA con fines de información general y no constituye asesoramiento fiscal ni jurídico. Verifica las cifras y los procedimientos más recientes con la Junta de Ingresos Internos antes de actuar.*

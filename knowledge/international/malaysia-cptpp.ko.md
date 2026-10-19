@@ -196,6 +196,6 @@ CPTPP는 2018년 3월 8일 칠레 산티아고에서 11개국이 서명한 고�
 
 수출하는 경우, 제품의 HS 코드에서 시작하여 목적지 국가의 CPTPP 일정에서 해당 관세 항목을 뽑아낸 다음, MITI의 ePCO 시스템을 통해 원산지증명서를 발급하기 전에 원산지 규정을 충족할 수 있는지 확인하십시오. 서비스 기업이나 조달 입찰자라면, 시간이 지나면서 열리는 상호인정협정과 대상 시장의 조달 기준선을 주시하십시오. 그리고 말레이시아가 여러 중첩되는 협정 안에 자리하고 있으므로, 서류 작업에 착수하기 전에 항상 CPTPP를 RCEP 및 말레이시아의 다른 자유무역협정과 비교하십시오.
 
-보다 넓은 무역 전반에 관해서는 말레이시아의 [대외 무역](external-trade) 프로필과 수출 진흥에서 [MATRADE](matrade)의 역할을 참조하십시오. 이 약속들과 상호작용하는 관련 무역 구제 및 지분 정책 맥락에 관해서는 [반덤핑 및 상계관세](anti-dumping-countervailing-duties)와 [부미푸트라 지분 요건](bumiputera-equity-requirements)을 참조하십시오.
+보다 넓은 무역 전반에 관해서는 말레이시아의 [대외 무역](/ko/economy/external-trade/) 프로필과 수출 진흥에서 [MATRADE](/ko/government/matrade/)의 역할을 참조하십시오. 이 약속들과 상호작용하는 관련 무역 구제 및 지분 정책 맥락에 관해서는 [반덤핑 및 상계관세](/ko/business/anti-dumping-countervailing-duties/)와 [부미푸트라 지분 요건](/ko/business/bumiputera-equity-requirements/)을 참조하십시오.
 
 이 안내서의 수치는 말레이시아 정부(MITI, Bernama) 및 CPTPP 당사국(Global Affairs Canada) 출처에서 각 발행일 기준으로 인용한 것입니다. 관세 일정은 여러 해에 걸쳐 단계적으로 진행되므로, 세율에 의존하기 전에 공식 부속서 2-D 일정과 대조하여 구체적 항목과 연도를 확인하십시오.

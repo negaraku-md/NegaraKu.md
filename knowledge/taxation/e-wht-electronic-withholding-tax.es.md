@@ -103,7 +103,7 @@ La vía en papel tenía fricciones bien conocidas: formularios perdidos en trán
 
 ## ¿Qué pagos pasan por e-WHT?
 
-e-WHT cubre las retenciones en la fuente sobre pagos a no residentes (y unos pocos casos de residentes), cada uno ligado a una sección de imposición de la **Income Tax Act 1967** y a su propio formulario. Los tipos no se repiten aquí — consulta la guía complementaria sobre [los tipos de retención en la fuente por tipo de pago](withholding-tax-rates) — pero el mapa formulario-a-sección es:
+e-WHT cubre las retenciones en la fuente sobre pagos a no residentes (y unos pocos casos de residentes), cada uno ligado a una sección de imposición de la **Income Tax Act 1967** y a su propio formulario. Los tipos no se repiten aquí — consulta la guía complementaria sobre [los tipos de retención en la fuente por tipo de pago](/es/taxation/withholding-tax-rates/) — pero el mapa formulario-a-sección es:
 
 | Formulario | Sección ITA 1967 | Qué cubre |
 | --- | --- | --- |
@@ -116,7 +116,7 @@ e-WHT cubre las retenciones en la fuente sobre pagos a no residentes (y unos poc
 | CP37S / CP37DS | s.109 / s.109B | Remisión diferida para pagos recurrentes de **bajo valor** de regalías, intereses y s.4A |
 | e-107D | s.107D | La deducción del 2 por ciento sobre comisiones pagadas a agentes, concesionarios y distribuidores residentes |
 
-La remuneración de artistas públicos según **s.109A** también es una retención en la fuente, y los servicios electrónicos llevan toda la gama CP37, así que comprueba la lista de formularios vigente en MyTax para el código exacto antes de presentar. Esta guía trata del *mecanismo*; para saber qué formulario corresponde a un pago dado, consulta la guía sobre [elegir el formulario CP37 correcto](cp37-forms), y específicamente para s.4A, [sección 109B clases especiales de renta](withholding-tax-special-classes).
+La remuneración de artistas públicos según **s.109A** también es una retención en la fuente, y los servicios electrónicos llevan toda la gama CP37, así que comprueba la lista de formularios vigente en MyTax para el código exacto antes de presentar. Esta guía trata del *mecanismo*; para saber qué formulario corresponde a un pago dado, consulta la guía sobre [elegir el formulario CP37 correcto](/es/taxation/cp37-forms/), y específicamente para s.4A, [sección 109B clases especiales de renta](/es/taxation/withholding-tax-special-classes/).
 
 ## ¿Cómo funciona el proceso de e-WHT?
 
@@ -138,7 +138,7 @@ Incumple el mes y pasan dos cosas, ambas inalteradas respecto de la era del pape
 - **Un incremento del 10 por ciento.** Cuando el pagador no paga el importe debido, ese importe se **incrementa en una suma igual al 10 por ciento** del impuesto impago, y el impuesto más el incremento se convierten en una **deuda con el Gobierno** — para intereses y regalías es **s.109(2)**, con disposiciones paralelas en las demás secciones. El incremento se paga por separado mediante el **Formulario CP147**.
 - **El gasto se deniega.** El pago sobre el que no retuviste **no es deducible** en el propio cómputo tributario del pagador según **s.39(1)(f), (i) o (j)** hasta que se paguen por completo la retención en la fuente y el incremento.
 
-Para el costo total de equivocarse en esto — incluido cómo se levanta la denegación una vez que pagas — consulta [cuánto cuesta omitir una deducción de retención en la fuente](withholding-tax-non-compliance).
+Para el costo total de equivocarse en esto — incluido cómo se levanta la denegación una vez que pagas — consulta [cuánto cuesta omitir una deducción de retención en la fuente](/es/taxation/withholding-tax-non-compliance/).
 
 ## ¿En qué se diferencia e-WHT de la antigua vía del CP37 en papel?
 
@@ -154,4 +154,4 @@ La sustancia es idéntica; la gestión no:
 
 Si realizas pagos a no residentes, trata e-WHT como el valor por defecto: registra al pagador en MyTax antes de que venza el primer pago, para no andar a las apuradas dentro de la ventana de un mes. Determina el formulario y el tipo correctos *primero* — ahí están las decisiones reales — y luego los pasos de e-WHT son mecánicos. Conserva cada número de factura y recibo junto con la factura subyacente, porque ese recibo es tu evidencia tanto de que remitiste a tiempo como de que el gasto sigue siendo deducible.
 
-Para las piezas que rodean esta: la [tabla de tipos](withholding-tax-rates) te dice cuánto retener, la [guía de formularios CP37](cp37-forms) te dice qué formulario elegir, [la sección 109B](withholding-tax-special-classes) cubre el caso común de los honorarios técnicos y de servicios, y la [guía de incumplimiento](withholding-tax-non-compliance) detalla las sanciones en su totalidad. Como LHDN reorganiza su portal y sus ediciones de formularios periódicamente, confirma el código de formulario vigente y cualquier orientación en vivo en MyTax antes de presentar.
+Para las piezas que rodean esta: la [tabla de tipos](/es/taxation/withholding-tax-rates/) te dice cuánto retener, la [guía de formularios CP37](/es/taxation/cp37-forms/) te dice qué formulario elegir, [la sección 109B](/es/taxation/withholding-tax-special-classes/) cubre el caso común de los honorarios técnicos y de servicios, y la [guía de incumplimiento](/es/taxation/withholding-tax-non-compliance/) detalla las sanciones en su totalidad. Como LHDN reorganiza su portal y sus ediciones de formularios periódicamente, confirma el código de formulario vigente y cualquier orientación en vivo en MyTax antes de presentar.

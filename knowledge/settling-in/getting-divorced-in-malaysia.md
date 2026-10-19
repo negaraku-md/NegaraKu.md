@@ -81,7 +81,7 @@ keywords: ["divorce Malaysia", "civil divorce", "Syariah divorce", "talak", "fas
 
 Two Malaysian couples file to end their marriages on the same morning. One walks into a civil High Court registry; the other reports to a state Islamic religious office. Neither can use the other's door. In Malaysia, ending a marriage — like starting one — runs through two separate legal systems, and the religion of the parties, not their preference, decides which one applies.
 
-This article is a neutral, comparative map of those two systems. It does not give legal advice, does not rule on religious questions, and does not claim any single state's procedure is universal. For the mirror-image picture on the marriage side, see the companion article on [getting married in Malaysia](getting-married-in-malaysia).
+This article is a neutral, comparative map of those two systems. It does not give legal advice, does not rule on religious questions, and does not claim any single state's procedure is universal. For the mirror-image picture on the marriage side, see the companion article on [getting married in Malaysia](/en/settling-in/getting-married-in-malaysia/).
 
 ## Why is there no single divorce law?
 
@@ -127,8 +127,8 @@ This is also the area where positions diverge and public debate has been most vi
 
 If you are researching a specific situation, the practical next step is to identify which system applies — determined by the religion of the parties — and then seek advice within that system: a civil family-law practitioner for a non-Muslim divorce under Act 164, or the relevant State Islamic Religious Office and a Syariah practitioner for an Islamic divorce.
 
-- For the marriage-side counterpart to this overview, read [getting married in Malaysia](getting-married-in-malaysia).
-- For the civil registration process behind a non-Muslim marriage, see [registering a marriage (civil)](registering-a-marriage-civil).
+- For the marriage-side counterpart to this overview, read [getting married in Malaysia](/en/settling-in/getting-married-in-malaysia/).
+- For the civil registration process behind a non-Muslim marriage, see [registering a marriage (civil)](/en/settling-in/registering-a-marriage-civil/).
 - Because Islamic family law and Syariah procedure vary by state, confirm the current forms and steps with the Islamic religious department of the relevant state before acting.
 
 This is an unpublished AI-assisted draft prepared for human review. It is general information, not legal advice.

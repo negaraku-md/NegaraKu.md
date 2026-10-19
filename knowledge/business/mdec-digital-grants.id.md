@@ -115,7 +115,7 @@ Kedua hibah **terbatas pada status Malaysia Digital (MD)**. Pedoman MDEC memerlu
 Itu memiliki dua dampak yang patut direncanakan:
 
 - **Urutan penting.** Jika Anda belum menjadi perusahaan MD (atau MSC Malaysia), masukkan permohonan status ke dalam lini masa Anda — Anda sebenarnya menjalankan dua persetujuan, bukan satu.
-- **Aturan status juga berlaku.** Status MD memiliki kelayakannya sendiri (didirikan di bawah Companies Act 2016, berdomisili di Malaysia, menjalankan aktivitas MD yang disetujui) dan syarat pasca-anugerahnya sendiri. Panduan terpisah kami tentang [status Malaysia Digital](mdec-digital-status) membahasnya secara terperinci — baca dulu jika Anda belum memperoleh status.
+- **Aturan status juga berlaku.** Status MD memiliki kelayakannya sendiri (didirikan di bawah Companies Act 2016, berdomisili di Malaysia, menjalankan aktivitas MD yang disetujui) dan syarat pasca-anugerahnya sendiri. Panduan terpisah kami tentang [status Malaysia Digital](/id/business/mdec-digital-status/) membahasnya secara terperinci — baca dulu jika Anda belum memperoleh status.
 
 Selain status, MDEC menggunakan penyaring tingkat perusahaan yang biasa — masa operasi minimum (kira-kira setahun), modal diterbitkan/disetor minimum, dan ambang kepemilikan yang membedakan perusahaan mayoritas milik Malaysia dari milik asing, dengan ketentuan lebih murah hati dikhususkan untuk perusahaan mayoritas milik Malaysia. Anggap ambang khusus sebagai hal untuk dipastikan di halaman hibah terkini, karena ia ditetapkan setiap siklus.
 
@@ -137,6 +137,6 @@ Jadi gunakan artikel ini untuk *bentuk* suatu hal — dua jenis hibah, pintu mas
 
 ## Apa Selanjutnya
 
-Jika hibah MDEC ada dalam radar Anda, kerjakan dalam urutan ini. Pertama, pastikan Anda memegang — atau dapat memperoleh — **status Malaysia Digital**, karena tanpanya kedua hibah tidak terbuka bagi Anda; mulai dengan panduan [status Malaysia Digital](mdec-digital-status) kami. Kedua, putuskan **hibah mana yang cocok dengan tahap Anda**: MDCG jika Anda membangun dan mengomersialkan solusi, MDXG jika Anda siap ekspor dan menuju global. Ketiga, periksa **siklus terkini** di halaman MDCG dan MDXG di mdec.my — apakah periode terbuka, persentase cakupan dan plafon langsung, dan ambang kelayakan yang tepat. Dan anggarkan untuk **realitas penggantian biaya**: Anda membiayai proyek dulu dan menuntut kembali sebagian kemudian, berdasarkan penghasilan yang diaudit.
+Jika hibah MDEC ada dalam radar Anda, kerjakan dalam urutan ini. Pertama, pastikan Anda memegang — atau dapat memperoleh — **status Malaysia Digital**, karena tanpanya kedua hibah tidak terbuka bagi Anda; mulai dengan panduan [status Malaysia Digital](/id/business/mdec-digital-status/) kami. Kedua, putuskan **hibah mana yang cocok dengan tahap Anda**: MDCG jika Anda membangun dan mengomersialkan solusi, MDXG jika Anda siap ekspor dan menuju global. Ketiga, periksa **siklus terkini** di halaman MDCG dan MDXG di mdec.my — apakah periode terbuka, persentase cakupan dan plafon langsung, dan ambang kelayakan yang tepat. Dan anggarkan untuk **realitas penggantian biaya**: Anda membiayai proyek dulu dan menuntut kembali sebagian kemudian, berdasarkan penghasilan yang diaudit.
 
-Untuk lanskap lebih luas pembiayaan pemerintah Malaysia di luar MDEC, lihat [direktori hibah pemerintah](government-grants-directory-malaysia) kami.
+Untuk lanskap lebih luas pembiayaan pemerintah Malaysia di luar MDEC, lihat [direktori hibah pemerintah](/id/business/government-grants-directory-malaysia/) kami.

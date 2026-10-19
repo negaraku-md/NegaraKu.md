@@ -117,4 +117,4 @@ DBP의 공식 디지털 참조 사전은 **캄무스 데완 프르다나(Kamus D
 
 ## 다음으로 볼 것
 
-DBP가 지키는 언어의 헌법적 지위를 이해하려면 [말레이어](bahasa-melayu)에 관한 글과 [자위 문자](jawi-script)의 역사를 읽어 보십시오. 일상의 언어 참조는 kamus.dbp.gov.my의 캄무스 데완 프르다나 포털을 이용하고, 상과 프로그램, 출판물에 관한 최신 정보는 dbp.gov.my의 DBP 공식 웹사이트를 확인하십시오.
+DBP가 지키는 언어의 헌법적 지위를 이해하려면 [말레이어](/ko/arts-culture/bahasa-melayu/)에 관한 글과 [자위 문자](/ko/arts-culture/jawi-script/)의 역사를 읽어 보십시오. 일상의 언어 참조는 kamus.dbp.gov.my의 캄무스 데완 프르다나 포털을 이용하고, 상과 프로그램, 출판물에 관한 최신 정보는 dbp.gov.my의 DBP 공식 웹사이트를 확인하십시오.

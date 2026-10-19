@@ -131,7 +131,7 @@ Di sinilah landskap berubah besar. Sebelum 2024, pelupusan saham syarikat harta 
 
 Menurut EY Malaysia, di bawah CGT kadarnya ialah **10% ke atas keuntungan bersih**, dengan pilihan membayar **2% ke atas harga jualan kasar** bagi saham yang diperoleh sebelum 1 Januari 2024. Individu, bagaimanapun, **kekal di bawah CKHT** apabila melupuskan saham RPC — begitu juga entiti Labuan tertentu.
 
-Ringkasnya: pelupusan **hartanah fizikal** kekal di bawah CKHT untuk semua orang, tetapi pelupusan **saham RPC oleh entiti korporat** kini di bawah CGT. Artikel [Cukai Keuntungan Modal](capital-gains-tax) menjelaskan rejim baharu ini dengan lebih lanjut.
+Ringkasnya: pelupusan **hartanah fizikal** kekal di bawah CKHT untuk semua orang, tetapi pelupusan **saham RPC oleh entiti korporat** kini di bawah CGT. Artikel [Cukai Keuntungan Modal](/taxation/capital-gains-tax/) menjelaskan rejim baharu ini dengan lebih lanjut.
 
 ## Siapa perlu memfailkan, dan bila?
 
@@ -153,8 +153,8 @@ Mulai 2025, baki cukai perlu dijelaskan dalam **90 hari dari tarikh pelupusan**.
 ## What's next
 
 - **Sebelum menjual:** kira anggaran keuntungan boleh cukai anda dan semak tahun pegangan — menunggu sehingga selepas tahun kelima boleh menurunkan kadar CKHT anda kepada 0% jika anda warganegara.
-- **Tentukan rejim yang betul:** jika anda melupuskan saham dan bukan hartanah fizikal, pastikan sama ada CKHT atau [Cukai Keuntungan Modal](capital-gains-tax) yang terpakai berdasarkan status anda (individu vs entiti korporat).
-- **Kemas kini borang:** semak keperluan borang CKHT 1A/1B/2A/3 semasa dan tarikh akhir 60/90 hari terus di portal e-CKHT [Lembaga Hasil Dalam Negeri](lhdn), kerana kadar tahanan dan prosedur boleh berubah melalui Akta Kewangan tahunan.
+- **Tentukan rejim yang betul:** jika anda melupuskan saham dan bukan hartanah fizikal, pastikan sama ada CKHT atau [Cukai Keuntungan Modal](/taxation/capital-gains-tax/) yang terpakai berdasarkan status anda (individu vs entiti korporat).
+- **Kemas kini borang:** semak keperluan borang CKHT 1A/1B/2A/3 semasa dan tarikh akhir 60/90 hari terus di portal e-CKHT [Lembaga Hasil Dalam Negeri](/government/lhdn/), kerana kadar tahanan dan prosedur boleh berubah melalui Akta Kewangan tahunan.
 - **Dapatkan nasihat profesional:** bagi pelupusan bernilai tinggi, pindah milik keluarga, atau tuntutan pengecualian sekali seumur hidup, rujuk peguam hartanah atau ejen cukai berdaftar untuk mengesahkan pengiraan dan dokumen sokongan.
 
 *Nota: Artikel ini ialah draf jana-AI untuk tujuan maklumat umum dan bukan nasihat cukai atau guaman. Sahkan angka dan prosedur terkini dengan Lembaga Hasil Dalam Negeri sebelum bertindak.*

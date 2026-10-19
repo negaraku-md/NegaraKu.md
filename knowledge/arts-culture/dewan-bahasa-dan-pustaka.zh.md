@@ -117,4 +117,4 @@ DBP 的官方数字参考词典是**《语文出版局大词典》（Kamus Dewan
 
 ## 接下来
 
-要了解 DBP 所守护的语言的宪法地位，请阅读关于[马来语](bahasa-melayu)的文章以及[爪夷文](jawi-script)的历史。若需日常语言参考，请访问《语文出版局大词典》门户 kamus.dbp.gov.my，并查阅 DBP 官方网站 dbp.gov.my 以获取有关其奖项、项目和出版物的最新信息。
+要了解 DBP 所守护的语言的宪法地位，请阅读关于[马来语](/zh/arts-culture/bahasa-melayu/)的文章以及[爪夷文](/zh/arts-culture/jawi-script/)的历史。若需日常语言参考，请访问《语文出版局大词典》门户 kamus.dbp.gov.my，并查阅 DBP 官方网站 dbp.gov.my 以获取有关其奖项、项目和出版物的最新信息。

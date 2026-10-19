@@ -20,7 +20,15 @@ GSC flagged **221 "Not found (404)"** + **3 "Redirect error"**. They are NOT all
 
 ## Done this session (held for push)
 
-- **`src/pages/robots.txt.ts`** — added a scanner-probe `Disallow` block to the `User-agent: *` group (Googlebot's group). Moves the ~60 probe 404s into the intentional *Blocked by robots.txt* state and off the crawl queue. Patterns match only non-existent paths (static build: no PHP/.env/secrets).
+- **`src/pages/robots.txt.ts`** — scanner-probe `Disallow` block on the `User-agent: *` group (Googlebot's group). Moves the ~60 probe 404s into the intentional *Blocked by robots.txt* state and off the crawl queue. Patterns match only non-existent paths (static build: no PHP/.env/secrets). + `Disallow: /_a/`.
+- **`astro.config.mjs`** — **73 precise redirects wired in** (not just listed): the enumerated `/ms/*` URLs (ms is served at root; a `[...slug]` spread redirect can't be emitted on a static build, so each is explicit), 22 AI-crawler `/*.md` probes, bare-slug legacy, and removed `/glossary/topic/*` pages. All targets validated against the manifest (0 missing keys, 0 collisions with the 273 existing redirects).
+- **245 content files (744 links)** — the nested relative-link 404s fixed **at source**: 669 bare body links `](slug)` rewritten to absolute locale-aware `/<loc>/<cat>/<slug>/`, 75 dead refs (6 non-existent slugs) unlinked. Also unlinked a stray archived-glossary ref (`polis-diraja-malaysia`) the fix surfaced. `validate-frontmatter` 0 errors; `check-internal-links --strict` 0 broken.
+- **GSC redirect-errors (3)** — already re-validating in GSC (Validation started 10/9); they resolve 301→200, so no action.
+
+### Remaining (not blocking)
+- `/favicon.ico` 404 — add `public/favicon.ico` (only `favicon.svg` exists). Cosmetic.
+- 4 edge URLs with no clean target (e.g. `/ko/company-secretary/company-secretary-duties-and-responsibilities` — slug doesn't exist) — left to decay.
+- The 6 unlinked slugs (`public-holidays-in-malaysia`, `malaysian-school-system`, `fisheries-act-1985`, `northeast-monsoon`, `national-scam-response-centre-nsrc`, `semiconductor-industry`) are **content gaps** — consider creating these as articles.
 
 ## 1. Redirect errors (3) — already fixed, Validate Fix in GSC
 

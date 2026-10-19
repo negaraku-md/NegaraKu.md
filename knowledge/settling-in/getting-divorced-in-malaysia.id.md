@@ -82,7 +82,7 @@ keywords: ["divorce Malaysia", "civil divorce", "Syariah divorce", "talak", "fas
 
 Dua pasangan Malaysia mengajukan untuk mengakhiri pernikahan mereka pada pagi yang sama. Seorang masuk ke kantor pendaftaran Mahkamah Tinggi sipil; seorang lagi melapor ke kantor agama Islam negeri. Tidak seorang pun dapat menggunakan pintu yang satu lagi. Di Malaysia, mengakhiri pernikahan — seperti memulainya — berjalan melalui dua sistem hukum yang terpisah, dan agama pihak-pihak yang terlibat, bukan pilihan mereka, yang menentukan sistem mana yang berlaku.
 
-Artikel ini adalah peta perbandingan yang netral bagi kedua sistem tersebut. Artikel ini tidak memberikan nasihat hukum, tidak memutuskan persoalan agama, dan tidak mengklaim prosedur satu negeri mana pun bersifat universal. Untuk gambaran cerminan di sisi pernikahan, lihat artikel pendamping mengenai [berkahwin di Malaysia](getting-married-in-malaysia).
+Artikel ini adalah peta perbandingan yang netral bagi kedua sistem tersebut. Artikel ini tidak memberikan nasihat hukum, tidak memutuskan persoalan agama, dan tidak mengklaim prosedur satu negeri mana pun bersifat universal. Untuk gambaran cerminan di sisi pernikahan, lihat artikel pendamping mengenai [berkahwin di Malaysia](/id/settling-in/getting-married-in-malaysia/).
 
 ## Mengapa tidak ada satu undang-undang perceraian tunggal?
 
@@ -128,8 +128,8 @@ Ini juga merupakan bidang di mana pandangan berbeda dan perdebatan publik paling
 
 Jika Anda sedang meneliti situasi tertentu, langkah praktis selanjutnya adalah mengidentifikasi sistem mana yang berlaku — ditentukan oleh agama pihak-pihak yang terlibat — dan kemudian mendapatkan nasihat dalam sistem tersebut: seorang praktisi hukum keluarga sipil untuk perceraian non-Muslim di bawah Akta 164, atau Pejabat Agama Islam Negeri yang bersangkutan dan praktisi Syariah untuk perceraian Islam.
 
-- Untuk padanan di sisi pernikahan bagi gambaran ini, baca [berkahwin di Malaysia](getting-married-in-malaysia).
-- Untuk proses pendaftaran sipil di balik pernikahan non-Muslim, lihat [mendaftarkan pernikahan (sipil)](registering-a-marriage-civil).
+- Untuk padanan di sisi pernikahan bagi gambaran ini, baca [berkahwin di Malaysia](/id/settling-in/getting-married-in-malaysia/).
+- Untuk proses pendaftaran sipil di balik pernikahan non-Muslim, lihat [mendaftarkan pernikahan (sipil)](/id/settling-in/registering-a-marriage-civil/).
 - Karena hukum keluarga Islam dan prosedur Syariah berbeda menurut negeri, konfirmasikan bentuk dan langkah terkini dengan jabatan agama Islam negeri yang bersangkutan sebelum bertindak.
 
 Ini adalah draf berbantuan AI yang belum diterbitkan yang disiapkan untuk peninjauan manusia. Ini adalah informasi umum, bukan nasihat hukum.

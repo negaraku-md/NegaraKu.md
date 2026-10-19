@@ -102,7 +102,7 @@ The paper route had well-known friction: forms lost in transit, payments that co
 
 ## Which payments go through e-WHT?
 
-e-WHT covers the withholding taxes on payments to non-residents (and a few resident cases), each tied to a charging section of the **Income Tax Act 1967** and its own form. The rates are not repeated here — see the companion guide on [withholding tax rates by payment type](withholding-tax-rates) — but the form-to-section map is:
+e-WHT covers the withholding taxes on payments to non-residents (and a few resident cases), each tied to a charging section of the **Income Tax Act 1967** and its own form. The rates are not repeated here — see the companion guide on [withholding tax rates by payment type](/en/taxation/withholding-tax-rates/) — but the form-to-section map is:
 
 | Form | ITA 1967 section | What it covers |
 | --- | --- | --- |
@@ -115,7 +115,7 @@ e-WHT covers the withholding taxes on payments to non-residents (and a few resid
 | CP37S / CP37DS | s.109 / s.109B | Deferred remittance for recurring **small-value** royalty, interest and s.4A payments |
 | e-107D | s.107D | The 2 per cent deduction on commissions paid to resident agents, dealers and distributors |
 
-Public entertainer remuneration under **s.109A** is also a withholding tax, and the electronic services carry the full CP37 range, so check the current form list in MyTax for the exact code before you file. This guide is about the *mechanism*; for which form fits a given payment, see the guide on [choosing the right CP37 form](cp37-forms), and for s.4A specifically, [section 109B special classes of income](withholding-tax-special-classes).
+Public entertainer remuneration under **s.109A** is also a withholding tax, and the electronic services carry the full CP37 range, so check the current form list in MyTax for the exact code before you file. This guide is about the *mechanism*; for which form fits a given payment, see the guide on [choosing the right CP37 form](/en/taxation/cp37-forms/), and for s.4A specifically, [section 109B special classes of income](/en/taxation/withholding-tax-special-classes/).
 
 ## How does the e-WHT process work?
 
@@ -137,7 +137,7 @@ Miss the month and two things happen, both unchanged from the paper era:
 - **A 10 per cent increase.** Where the payer fails to pay the amount due, that amount is **increased by a sum equal to 10 per cent** of the unpaid tax, and the tax plus the increase becomes a **debt due to the Government** — for interest and royalty this is **s.109(2)**, with parallel provisions in the other sections. The increase is paid separately using **Form CP147**.
 - **The expense is disallowed.** The payment you failed to withhold on is **not deductible** in the payer's own tax computation under **s.39(1)(f), (i) or (j)** until the withholding tax and the increase are paid in full.
 
-For the full cost of getting this wrong — including how the disallowance is lifted once you pay up — see [what it costs to miss a withholding tax deduction](withholding-tax-non-compliance).
+For the full cost of getting this wrong — including how the disallowance is lifted once you pay up — see [what it costs to miss a withholding tax deduction](/en/taxation/withholding-tax-non-compliance/).
 
 ## How is e-WHT different from the old paper CP37 route?
 
@@ -153,4 +153,4 @@ The substance is identical; the handling is not:
 
 If you make payments to non-residents, treat e-WHT as the default: register the payer on MyTax before the first payment falls due, so you are not scrambling within the one-month window. Work out the correct form and rate *first* — that is where the real decisions are — then the e-WHT steps are mechanical. Keep every bill number and receipt with the underlying invoice, because that receipt is your evidence both that you remitted on time and that the expense stays deductible.
 
-For the pieces around this one: the [rate table](withholding-tax-rates) tells you how much to withhold, the [CP37 form guide](cp37-forms) tells you which form to pick, [section 109B](withholding-tax-special-classes) covers the common technical-and-service-fee case, and the [non-compliance guide](withholding-tax-non-compliance) spells out the penalties in full. Because LHDN reorganises its portal and form editions periodically, confirm the current form code and any live guidance in MyTax before you file.
+For the pieces around this one: the [rate table](/en/taxation/withholding-tax-rates/) tells you how much to withhold, the [CP37 form guide](/en/taxation/cp37-forms/) tells you which form to pick, [section 109B](/en/taxation/withholding-tax-special-classes/) covers the common technical-and-service-fee case, and the [non-compliance guide](/en/taxation/withholding-tax-non-compliance/) spells out the penalties in full. Because LHDN reorganises its portal and form editions periodically, confirm the current form code and any live guidance in MyTax before you file.

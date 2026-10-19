@@ -82,7 +82,7 @@ keywords: ["divorce Malaysia", "civil divorce", "Syariah divorce", "talak", "fas
 
 Hai cặp vợ chồng Malaysia nộp đơn để chấm dứt hôn nhân của mình vào cùng một buổi sáng. Một cặp bước vào phòng đăng ký của một Tòa Thượng thẩm dân sự; cặp kia trình diện tại một văn phòng tôn giáo Hồi giáo cấp bang. Không cặp nào có thể dùng cánh cửa của cặp kia. Tại Malaysia, chấm dứt một cuộc hôn nhân — cũng như bắt đầu một cuộc hôn nhân — đi qua hai hệ thống pháp lý riêng biệt, và tôn giáo của các bên, chứ không phải sở thích của họ, quyết định hệ thống nào áp dụng.
 
-Bài viết này là một bản đồ trung lập, so sánh hai hệ thống đó. Nó không đưa ra lời khuyên pháp lý, không phán quyết về các câu hỏi tôn giáo, và không tuyên bố thủ tục của bất kỳ bang nào là phổ quát. Để xem bức tranh phản chiếu về phía hôn nhân, hãy xem bài đồng hành về [kết hôn tại Malaysia](getting-married-in-malaysia).
+Bài viết này là một bản đồ trung lập, so sánh hai hệ thống đó. Nó không đưa ra lời khuyên pháp lý, không phán quyết về các câu hỏi tôn giáo, và không tuyên bố thủ tục của bất kỳ bang nào là phổ quát. Để xem bức tranh phản chiếu về phía hôn nhân, hãy xem bài đồng hành về [kết hôn tại Malaysia](/vi/settling-in/getting-married-in-malaysia/).
 
 ## Vì sao không có một luật ly hôn duy nhất?
 
@@ -128,8 +128,8 @@ Gần như chẳng ở đâu — theo thiết kế. Nhưng cầu nối duy nhấ
 
 Nếu bạn đang tìm hiểu một tình huống cụ thể, bước tiếp theo thực tế là xác định hệ thống nào áp dụng — được quyết định bởi tôn giáo của các bên — rồi tìm lời khuyên trong hệ thống đó: một người hành nghề luật gia đình dân sự cho một cuộc ly hôn không theo Hồi giáo theo Act 164, hoặc Văn phòng Tôn giáo Hồi giáo Bang liên quan và một người hành nghề Syariah cho một cuộc ly hôn Hồi giáo.
 
-- Để xem phần đối ứng về phía hôn nhân của tổng quan này, hãy đọc [kết hôn tại Malaysia](getting-married-in-malaysia).
-- Để biết quy trình đăng ký dân sự đằng sau một cuộc hôn nhân không theo Hồi giáo, hãy xem [đăng ký kết hôn (dân sự)](registering-a-marriage-civil).
+- Để xem phần đối ứng về phía hôn nhân của tổng quan này, hãy đọc [kết hôn tại Malaysia](/vi/settling-in/getting-married-in-malaysia/).
+- Để biết quy trình đăng ký dân sự đằng sau một cuộc hôn nhân không theo Hồi giáo, hãy xem [đăng ký kết hôn (dân sự)](/vi/settling-in/registering-a-marriage-civil/).
 - Vì luật gia đình Hồi giáo và thủ tục Syariah khác nhau tùy bang, hãy xác nhận các hình thức và bước hiện hành với sở tôn giáo Hồi giáo của bang liên quan trước khi hành động.
 
 Đây là một bản thảo do AI hỗ trợ chưa được công bố, được chuẩn bị để con người rà soát. Nó là thông tin chung, không phải lời khuyên pháp lý.

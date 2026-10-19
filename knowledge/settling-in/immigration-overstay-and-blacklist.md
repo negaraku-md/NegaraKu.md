@@ -163,6 +163,6 @@ The realistic takeaway: prevention is dramatically cheaper than cure. Alongside 
 - Check your pass expiry today and diarise a renewal reminder three months ahead; if a pass has already lapsed, act before the overstay lengthens, because the compound and ban both scale with time.
 - If you have already overstayed, contact the nearest Immigration office or your employer's mobility team before travelling — being flagged at the airport is the worst place to discover a blacklist entry.
 - Confirm your own status by contacting the Immigration Department directly rather than assuming you are clear — there is no reliable online self-check for foreign passport holders.
-- Read the related [Employment Pass](employment-pass), [dependant and social visit passes](dependant-social-visit-passes), and [Student Pass](student-pass) guides to keep the underlying pass valid in the first place.
+- Read the related [Employment Pass](/en/settling-in/employment-pass/), [dependant and social visit passes](/en/settling-in/dependant-social-visit-passes/), and [Student Pass](/en/settling-in/student-pass/) guides to keep the underlying pass valid in the first place.
 
 *This is an AI-assisted draft for general information, not legal advice. Compound amounts, programmes, and enforcement practice change; confirm current figures with the Immigration Department of Malaysia before acting.*

@@ -115,7 +115,7 @@ Kedua-dua geran **terhad kepada status Malaysia Digital (MD)**. Garis panduan MD
 Itu mempunyai dua kesan yang patut dirancang:
 
 - **Urutan penting.** Jika anda belum menjadi syarikat MD (atau MSC Malaysia), masukkan permohonan status ke dalam garis masa anda — anda sebenarnya menjalankan dua kelulusan, bukan satu.
-- **Peraturan status turut terpakai.** Status MD mempunyai kelayakannya sendiri (diperbadankan di bawah Akta Syarikat 2016, bermastautin di Malaysia, menjalankan aktiviti MD yang diluluskan) dan syarat pasca-anugerahnya sendiri. Panduan berasingan kami tentang [status Malaysia Digital](mdec-digital-status) meliputi itu secara terperinci — baca dahulu jika anda belum memperoleh status.
+- **Peraturan status turut terpakai.** Status MD mempunyai kelayakannya sendiri (diperbadankan di bawah Akta Syarikat 2016, bermastautin di Malaysia, menjalankan aktiviti MD yang diluluskan) dan syarat pasca-anugerahnya sendiri. Panduan berasingan kami tentang [status Malaysia Digital](/business/mdec-digital-status/) meliputi itu secara terperinci — baca dahulu jika anda belum memperoleh status.
 
 Selain status, MDEC menggunakan penapis peringkat syarikat yang biasa — tempoh operasi minimum (kira-kira setahun), modal terbitan/berbayar minimum, dan ambang pemilikan yang membezakan syarikat majoriti milik Malaysia daripada milik asing, dengan terma lebih murah hati dikhaskan untuk syarikat majoriti milik Malaysia. Anggap ambang khusus sebagai perkara untuk disahkan di halaman geran semasa, kerana ia ditetapkan setiap kitaran.
 
@@ -137,6 +137,6 @@ Jadi gunakan artikel ini untuk *bentuk* sesuatu perkara — dua jenis geran, pin
 
 ## Apa Seterusnya
 
-Jika geran MDEC ada dalam radar anda, kerjakan dalam urutan ini. Pertama, sahkan anda memegang — atau boleh memperoleh — **status Malaysia Digital**, kerana tanpanya kedua-dua geran tidak terbuka kepada anda; mulakan dengan panduan [status Malaysia Digital](mdec-digital-status) kami. Kedua, putuskan **geran mana yang sesuai dengan peringkat anda**: MDCG jika anda membina dan mengkomersialkan penyelesaian, MDXG jika anda bersedia eksport dan menuju global. Ketiga, semak **kitaran semasa** di halaman MDCG dan MDXG di mdec.my — sama ada tempoh terbuka, peratusan liputan dan siling langsung, dan ambang kelayakan yang tepat. Dan belanjawankan untuk **realiti bayaran balik**: anda membiayai projek dahulu dan menuntut balik sebahagian kemudian, berdasarkan penghasilan yang diaudit.
+Jika geran MDEC ada dalam radar anda, kerjakan dalam urutan ini. Pertama, sahkan anda memegang — atau boleh memperoleh — **status Malaysia Digital**, kerana tanpanya kedua-dua geran tidak terbuka kepada anda; mulakan dengan panduan [status Malaysia Digital](/business/mdec-digital-status/) kami. Kedua, putuskan **geran mana yang sesuai dengan peringkat anda**: MDCG jika anda membina dan mengkomersialkan penyelesaian, MDXG jika anda bersedia eksport dan menuju global. Ketiga, semak **kitaran semasa** di halaman MDCG dan MDXG di mdec.my — sama ada tempoh terbuka, peratusan liputan dan siling langsung, dan ambang kelayakan yang tepat. Dan belanjawankan untuk **realiti bayaran balik**: anda membiayai projek dahulu dan menuntut balik sebahagian kemudian, berdasarkan penghasilan yang diaudit.
 
-Untuk landskap lebih luas pembiayaan kerajaan Malaysia di luar MDEC, lihat [direktori geran kerajaan](government-grants-directory-malaysia) kami.
+Untuk landskap lebih luas pembiayaan kerajaan Malaysia di luar MDEC, lihat [direktori geran kerajaan](/business/government-grants-directory-malaysia/) kami.

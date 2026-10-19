@@ -117,4 +117,4 @@ En el campo de la literatura, la DBP administra el **[Premio Nacional de Literat
 
 ## Qué sigue
 
-Para entender el rango constitucional de la lengua que la DBP salvaguarda, lea el artículo sobre [la lengua malaya](bahasa-melayu) y la historia de [la escritura jawi](jawi-script). Para la consulta lingüística cotidiana, visite el portal Kamus Dewan Perdana en kamus.dbp.gov.my, y consulte el sitio web oficial de la DBP en dbp.gov.my para la información más reciente sobre sus premios, programas y publicaciones.
+Para entender el rango constitucional de la lengua que la DBP salvaguarda, lea el artículo sobre [la lengua malaya](/es/arts-culture/bahasa-melayu/) y la historia de [la escritura jawi](/es/arts-culture/jawi-script/). Para la consulta lingüística cotidiana, visite el portal Kamus Dewan Perdana en kamus.dbp.gov.my, y consulte el sitio web oficial de la DBP en dbp.gov.my para la información más reciente sobre sus premios, programas y publicaciones.

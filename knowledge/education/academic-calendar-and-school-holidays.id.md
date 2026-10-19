@@ -123,4 +123,4 @@ Sabah dan Sarawak berada dalam **Kelompok B**, jadi mereka mengikuti pergeseran 
 - Sebelum merencanakan liburan atau tiket balik kampung, periksa **Surat Siaran KPM** terbaru di [moe.gov.my](https://www.moe.gov.my) untuk tanggal resmi sesi bersangkutan — tanggal berubah setiap tahun.
 - Pastikan Anda melihat kolom **kelompok yang benar** (A atau B) untuk negara bagian anak Anda; salah kolom berarti salah satu hari.
 - Cocokkan tanggal libur semester dengan **libur umum negara bagian** Anda, karena perayaan Islam dan libur Sabah/Sarawak dapat menambah atau menggeser hari.
-- Untuk konteks lebih luas, rujuk halaman [libur umum Malaysia](public-holidays-in-malaysia) dan struktur [sistem persekolahan Malaysia](malaysian-school-system).
+- Untuk konteks lebih luas, rujuk halaman libur umum Malaysia dan struktur sistem persekolahan Malaysia.

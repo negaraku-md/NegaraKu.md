@@ -164,6 +164,6 @@ Kesimpulan yang realistik: pencegahan jauh lebih murah daripada penawar. Selari 
 - Semak tarikh luput pas anda hari ini dan diarikan peringatan pembaharuan tiga bulan lebih awal; jika sesuatu pas telah luput, bertindak sebelum tempoh tinggal lebih masa memanjang, kerana kompaun dan larangan kedua-duanya berskala mengikut masa.
 - Jika anda telah pun tinggal lebih masa, hubungi pejabat Imigresen terdekat atau pasukan mobiliti majikan anda sebelum melakukan perjalanan — dibendera di lapangan terbang ialah tempat paling teruk untuk menemui catatan senarai hitam.
 - Sahkan status anda sendiri dengan menghubungi Jabatan Imigresen secara terus dan bukannya menganggap anda bersih — tiada semakan kendiri dalam talian yang boleh dipercayai untuk pemegang pasport asing.
-- Baca panduan berkaitan [Pas Penggajian](employment-pass), [pas tanggungan dan lawatan sosial](dependant-social-visit-passes), dan [Pas Pelajar](student-pass) untuk mengekalkan pas asas sah dari mula.
+- Baca panduan berkaitan [Pas Penggajian](/settling-in/employment-pass/), [pas tanggungan dan lawatan sosial](/settling-in/dependant-social-visit-passes/), dan [Pas Pelajar](/settling-in/student-pass/) untuk mengekalkan pas asas sah dari mula.
 
 *Ini ialah draf berbantukan AI untuk maklumat am, bukan nasihat undang-undang. Amaun kompaun, program, dan amalan penguatkuasaan berubah; sahkan angka semasa dengan Jabatan Imigresen Malaysia sebelum bertindak.*

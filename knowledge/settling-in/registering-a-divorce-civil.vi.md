@@ -77,7 +77,7 @@ keywords: ["civil divorce Malaysia", "Law Reform Marriage and Divorce Act 1976",
 
 Một cặp vợ chồng không theo Hồi giáo đăng ký hôn nhân tại JPN thường cho rằng cùng văn phòng đó có thể chấm dứt hôn nhân. Không phải vậy. Tại Malaysia, hôn nhân dân sự được đăng ký về mặt hành chính, nhưng chỉ được giải trừ bằng một bản án của tòa — và lộ trình từ một cuộc hôn nhân rạn nứt đến một bản án đóng dấu đi qua một hội đồng hòa giải, một đơn nộp Tòa án Cấp cao, và một khoảng dừng ba tháng cài sẵn trước khi ly hôn có hiệu lực cuối cùng.
 
-Đây là phần chi tiết đi kèm với tổng quan rộng hơn về [lý do ly hôn ở Malaysia phân tách theo tôn giáo](getting-divorced-in-malaysia). Nó chỉ mô tả tuyến dân sự (không theo Hồi giáo) theo **Law Reform (Marriage and Divorce) Act 1976 (Act 164)** — chính khung pháp lý mà các nguồn phổ biến kiến thức pháp luật cộng đồng như Women's Centre for Change (WCC) ở Penang tóm lược cho người không theo Hồi giáo. Nó mang tính mô tả, không phải tư vấn pháp lý; thời hạn, chi phí và chiến lược thay đổi theo từng vụ việc.
+Đây là phần chi tiết đi kèm với tổng quan rộng hơn về [lý do ly hôn ở Malaysia phân tách theo tôn giáo](/vi/settling-in/getting-divorced-in-malaysia/). Nó chỉ mô tả tuyến dân sự (không theo Hồi giáo) theo **Law Reform (Marriage and Divorce) Act 1976 (Act 164)** — chính khung pháp lý mà các nguồn phổ biến kiến thức pháp luật cộng đồng như Women's Centre for Change (WCC) ở Penang tóm lược cho người không theo Hồi giáo. Nó mang tính mô tả, không phải tư vấn pháp lý; thời hạn, chi phí và chiến lược thay đổi theo từng vụ việc.
 
 ## Ai làm gì — và vì sao JPN không thể ly hôn cho bạn
 
@@ -151,7 +151,7 @@ Khi bản án được làm cho tuyệt đối, hồ sơ hôn nhân có thể đ
 
 ## Tiếp theo
 
-- Đọc bài đi kèm rộng hơn, [Ly hôn ở Malaysia: Vì sao nó cũng phân tách theo tôn giáo](getting-divorced-in-malaysia), để biết hệ thống dân sự và Syariah khác nhau ra sao và giao nhau ở đâu.
-- Nếu hôn nhân của bạn được đăng ký theo Act 164, hãy xem [Kết hôn tại Malaysia](getting-married-in-malaysia) để biết việc đăng ký vận hành ra sao — cùng một Đạo luật điều chỉnh cả hai đầu.
+- Đọc bài đi kèm rộng hơn, [Ly hôn ở Malaysia: Vì sao nó cũng phân tách theo tôn giáo](/vi/settling-in/getting-divorced-in-malaysia/), để biết hệ thống dân sự và Syariah khác nhau ra sao và giao nhau ở đâu.
+- Nếu hôn nhân của bạn được đăng ký theo Act 164, hãy xem [Kết hôn tại Malaysia](/vi/settling-in/getting-married-in-malaysia/) để biết việc đăng ký vận hành ra sao — cùng một Đạo luật điều chỉnh cả hai đầu.
 - Xác nhận các mẫu, phí và giấy tờ cần thiết hiện hành của hội đồng hòa giải trực tiếp với văn phòng JPN gần nhất, và tham vấn một luật sư luật gia đình trước khi nộp đơn. Các vấn đề liên quan đến con cái, cấp dưỡng, tài sản hoặc việc một bên vợ/chồng cải sang đạo Hồi đặt ra những câu hỏi tranh chấp mà tổng quan này không giải quyết.
 - Đây là bản nháp do AI soạn chưa được rà soát. Hãy đối chiếu mọi dẫn chiếu điều khoản với [bản in chính thức của Act 164](https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf) trước khi dựa vào nó.

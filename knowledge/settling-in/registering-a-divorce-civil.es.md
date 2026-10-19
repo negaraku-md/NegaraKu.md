@@ -77,7 +77,7 @@ keywords: ["divorcio civil Malasia", "Law Reform Marriage and Divorce Act 1976",
 
 Una pareja no musulmana que registra su matrimonio en el JPN a menudo supone que la misma oficina puede ponerle fin. No puede. En Malasia, un matrimonio civil se registra administrativamente, pero solo se disuelve mediante una orden judicial — y el camino desde un matrimonio distanciado hasta un decreto sellado pasa por un tribunal de reconciliación, una petición ante el Tribunal Superior y una pausa integrada de tres meses antes de que el divorcio sea definitivo.
 
-Este es el detalle complementario a la visión más amplia de [por qué el divorcio en Malasia se divide también por religión](getting-divorced-in-malaysia). Describe únicamente la vía civil (no musulmana) bajo la **Ley de Reforma del Derecho (Matrimonio y Divorcio) de 1976 (Law Reform (Marriage and Divorce) Act 1976, Act 164)** — el mismo marco que recursos comunitarios de alfabetización jurídica como el Women's Centre for Change (WCC) en Penang resumen para los no musulmanes. Es descriptivo, no asesoramiento legal; los plazos, el coste y la estrategia varían caso por caso.
+Este es el detalle complementario a la visión más amplia de [por qué el divorcio en Malasia se divide también por religión](/es/settling-in/getting-divorced-in-malaysia/). Describe únicamente la vía civil (no musulmana) bajo la **Ley de Reforma del Derecho (Matrimonio y Divorcio) de 1976 (Law Reform (Marriage and Divorce) Act 1976, Act 164)** — el mismo marco que recursos comunitarios de alfabetización jurídica como el Women's Centre for Change (WCC) en Penang resumen para los no musulmanes. Es descriptivo, no asesoramiento legal; los plazos, el coste y la estrategia varían caso por caso.
 
 ## Quién hace qué — y por qué el JPN no puede divorciarle
 
@@ -151,7 +151,7 @@ Una vez que el decreto se hace absoluto, el registro del matrimonio puede actual
 
 ## Qué sigue
 
-- Lea el complemento más amplio, [Divorciarse en Malasia: por qué también se divide por religión](getting-divorced-in-malaysia), para ver cómo difieren los sistemas civil y de la Syariah y dónde se encuentran.
-- Si su matrimonio se registró bajo el Act 164, consulte [Casarse en Malasia](getting-married-in-malaysia) para ver cómo funciona el registro — la misma Ley rige ambos extremos.
+- Lea el complemento más amplio, [Divorciarse en Malasia: por qué también se divide por religión](/es/settling-in/getting-divorced-in-malaysia/), para ver cómo difieren los sistemas civil y de la Syariah y dónde se encuentran.
+- Si su matrimonio se registró bajo el Act 164, consulte [Casarse en Malasia](/es/settling-in/getting-married-in-malaysia/) para ver cómo funciona el registro — la misma Ley rige ambos extremos.
 - Confirme los formularios, las tasas y los documentos requeridos del tribunal actuales directamente con su oficina del JPN más cercana, y consulte a un profesional del derecho de familia antes de presentar la petición. Los asuntos que implican a hijos, pensión alimenticia, bienes o la conversión de un cónyuge al islam plantean cuestiones controvertidas que esta visión general no resuelve.
 - Este es un borrador de IA no revisado. Verifique cada referencia de sección contra la [reimpresión oficial del Act 164](https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20164.pdf) antes de basarse en él.

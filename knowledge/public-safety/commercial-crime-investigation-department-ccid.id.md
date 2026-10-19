@@ -141,4 +141,4 @@ Sumber: portal resmi CCID (ccid.rmp.gov.my).
 
 CCID tetap menjadi garis depan PDRM melawan kejahatan bermotif uang, dan penekanannya kian beralih ke pemulihan dana korban, bukan sekadar jumlah kasus yang ditutup. Jika Anda menjadi korban, ada dua tindakan penting: hubungi **997** dengan segera demi peluang membekukan uang, dan buat laporan polisi untuk memungkinkan investigasi penuh. Sebelum berurusan dengan pihak asing secara daring, periksa rekening dan nomor telepon di portal Semak Mule terlebih dahulu.
 
-Untuk konteks lebih lanjut, lihat entri terkait tentang [Polis Diraja Malaysia](polis-diraja-malaysia) dan [Pusat Respons Penipuan Kebangsaan (NSRC)](national-scam-response-centre-nsrc).
+Untuk konteks lebih lanjut, lihat entri terkait tentang Polis Diraja Malaysia dan Pusat Respons Penipuan Kebangsaan (NSRC).

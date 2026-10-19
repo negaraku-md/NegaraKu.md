@@ -141,4 +141,4 @@ Nguồn: cổng chính thức của CCID (ccid.rmp.gov.my).
 
 CCID vẫn là tuyến đầu của PDRM chống lại tội phạm có động cơ tiền bạc, và trọng tâm của nó ngày càng chuyển sang việc thu hồi tiền cho nạn nhân, chứ không chỉ là số vụ được khép lại. Nếu bạn trở thành nạn nhân, có hai hành động quan trọng: gọi **997** ngay lập tức để có cơ hội đóng băng tiền, và báo cáo cảnh sát để cho phép điều tra đầy đủ. Trước khi giao dịch với bên xa lạ trực tuyến, hãy kiểm tra tài khoản và số điện thoại trên cổng Semak Mule trước.
 
-Để có bối cảnh thêm, hãy xem các mục liên quan về [Cảnh sát Hoàng gia Malaysia](polis-diraja-malaysia) và [Trung tâm Ứng phó Lừa đảo Quốc gia (NSRC)](national-scam-response-centre-nsrc).
+Để có bối cảnh thêm, hãy xem các mục liên quan về Cảnh sát Hoàng gia Malaysia và Trung tâm Ứng phó Lừa đảo Quốc gia (NSRC).

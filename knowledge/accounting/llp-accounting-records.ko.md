@@ -185,5 +185,5 @@ PLT법만의 관점에서는 제69조가 MFRS도 MPERS도 언급하지 않습니
 제3항), 그리고 두 조합원이 방어 가능한 수치에 근거하여 채무 상환능력 확인서에 서명할 준비가
 되어 있는지. 귀사의 PLT 계약도 확인하십시오: 그것이 감사를 요구한다면, 제69조 제5항은 더
 이상 그 의무로부터 귀하를 보호하지 않습니다. 두 구조의 전면 비교는 [PLT 대
-Sdn Bhd](llp-vs-sdn-bhd)를, 그리고 상응하는 회사 기록 기준은 [제245조에 따른 회계
-기록](accounting-records-section-245)을 참조하십시오.
+Sdn Bhd](/ko/business/llp-vs-sdn-bhd/)를, 그리고 상응하는 회사 기록 기준은 [제245조에 따른 회계
+기록](/ko/accounting/accounting-records-section-245/)을 참조하십시오.

@@ -132,7 +132,7 @@ Ví dụ đơn giản: một công dân mua một căn hộ với giá RM400,000
 
 Theo EY Malaysia, theo CGT thuế suất là **10% trên lãi ròng**, với lựa chọn trả **2% trên giá bán gộp** đối với cổ phần được thủ đắc trước 1 Januari 2024. Cá nhân, tuy nhiên, **vẫn thuộc CKHT** khi chuyển nhượng cổ phần RPC — các thực thể Labuan nhất định cũng vậy.
 
-Tóm lại: việc chuyển nhượng **bất động sản vật lý** vẫn thuộc CKHT cho mọi người, nhưng việc chuyển nhượng **cổ phần RPC bởi các thực thể doanh nghiệp** nay thuộc CGT. Bài viết [Thuế Lãi vốn](capital-gains-tax) giải thích chế độ mới này chi tiết hơn.
+Tóm lại: việc chuyển nhượng **bất động sản vật lý** vẫn thuộc CKHT cho mọi người, nhưng việc chuyển nhượng **cổ phần RPC bởi các thực thể doanh nghiệp** nay thuộc CGT. Bài viết [Thuế Lãi vốn](/vi/taxation/capital-gains-tax/) giải thích chế độ mới này chi tiết hơn.
 
 ## Ai phải khai thuế, và khi nào?
 
@@ -154,8 +154,8 @@ Kể từ 2025, số thuế còn lại phải được thanh toán trong **90 ng
 ## Tiếp theo
 
 - **Trước khi bán:** hãy tính ước lượng khoản lãi chịu thuế của bạn và kiểm tra năm nắm giữ — chờ đến sau năm thứ năm có thể giảm thuế suất CKHT của bạn xuống 0% nếu bạn là công dân.
-- **Xác định đúng chế độ:** nếu bạn chuyển nhượng cổ phần chứ không phải bất động sản vật lý, hãy bảo đảm liệu CKHT hay [Thuế Lãi vốn](capital-gains-tax) áp dụng dựa trên tình trạng của bạn (cá nhân so với thực thể doanh nghiệp).
-- **Cập nhật biểu mẫu:** hãy kiểm tra yêu cầu biểu mẫu CKHT 1A/1B/2A/3 hiện hành và thời hạn 60/90 ngày trực tiếp trên cổng e-CKHT của [Cục Thuế Nội địa](lhdn), vì thuế suất giữ lại và thủ tục có thể thay đổi qua Luật Tài chính hằng năm.
+- **Xác định đúng chế độ:** nếu bạn chuyển nhượng cổ phần chứ không phải bất động sản vật lý, hãy bảo đảm liệu CKHT hay [Thuế Lãi vốn](/vi/taxation/capital-gains-tax/) áp dụng dựa trên tình trạng của bạn (cá nhân so với thực thể doanh nghiệp).
+- **Cập nhật biểu mẫu:** hãy kiểm tra yêu cầu biểu mẫu CKHT 1A/1B/2A/3 hiện hành và thời hạn 60/90 ngày trực tiếp trên cổng e-CKHT của [Cục Thuế Nội địa](/vi/government/lhdn/), vì thuế suất giữ lại và thủ tục có thể thay đổi qua Luật Tài chính hằng năm.
 - **Xin tư vấn chuyên môn:** đối với các vụ chuyển nhượng giá trị cao, chuyển nhượng gia đình, hoặc yêu cầu miễn một lần trong đời, hãy tham khảo luật sư bất động sản hoặc đại lý thuế đã đăng ký để xác nhận cách tính và tài liệu hỗ trợ.
 
 *Ghi chú: Bài viết này là bản thảo do AI tạo ra cho mục đích thông tin chung và không phải tư vấn thuế hay pháp lý. Hãy xác nhận các con số và thủ tục hiện hành với Cục Thuế Nội địa trước khi hành động.*

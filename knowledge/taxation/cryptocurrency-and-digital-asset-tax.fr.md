@@ -167,5 +167,5 @@ schéma de conduite, de sorte que les preuves comptent. Si vos avoirs sont
 substantiels ou si votre activité ressemble à celle d'un négociant, confirmez votre
 position face aux directives en vigueur de LHDN ou à un agent fiscal agréé avant de
 déclarer. Pour le test sous-jacent capital contre revenu qui régit tout cela, voyez
-[Capital ou revenu ?](capital-or-revenue) et
-[Impôt sur les plus-values en Malaisie](capital-gains-tax).
+[Capital ou revenu ?](/fr/taxation/capital-or-revenue/) et
+[Impôt sur les plus-values en Malaisie](/fr/taxation/capital-gains-tax/).

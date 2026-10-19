@@ -103,7 +103,7 @@ Con đường giấy có sự ma sát nổi tiếng: các mẫu bị thất lạ
 
 ## Những khoản thanh toán nào đi qua e-WHT?
 
-e-WHT bao gồm các thuế khấu trừ tại nguồn trên các khoản thanh toán cho người không cư trú (và một vài trường hợp cư trú), mỗi cái gắn với một điều thu thuế của **Luật Thuế thu nhập (Income Tax Act 1967)** và mẫu riêng của nó. Các mức không được lặp lại ở đây — xem hướng dẫn đi kèm về [các mức thuế khấu trừ tại nguồn theo loại thanh toán](withholding-tax-rates) — nhưng bản đồ mẫu-đến-điều-luật là:
+e-WHT bao gồm các thuế khấu trừ tại nguồn trên các khoản thanh toán cho người không cư trú (và một vài trường hợp cư trú), mỗi cái gắn với một điều thu thuế của **Luật Thuế thu nhập (Income Tax Act 1967)** và mẫu riêng của nó. Các mức không được lặp lại ở đây — xem hướng dẫn đi kèm về [các mức thuế khấu trừ tại nguồn theo loại thanh toán](/vi/taxation/withholding-tax-rates/) — nhưng bản đồ mẫu-đến-điều-luật là:
 
 | Mẫu | Điều luật ITA 1967 | Nó bao gồm gì |
 | --- | --- | --- |
@@ -116,7 +116,7 @@ e-WHT bao gồm các thuế khấu trừ tại nguồn trên các khoản thanh 
 | CP37S / CP37DS | s.109 / s.109B | Nộp hoãn cho các khoản thanh toán tiền bản quyền, lãi và theo s.4A **giá trị nhỏ** định kỳ |
 | e-107D | s.107D | Khoản khấu trừ 2 phần trăm trên hoa hồng trả cho các đại lý, đại diện bán hàng và nhà phân phối cư trú |
 
-Thù lao của nghệ sĩ biểu diễn công cộng theo **s.109A** cũng là một thuế khấu trừ tại nguồn, và các dịch vụ điện tử mang toàn bộ dải CP37, vì vậy hãy kiểm tra danh sách mẫu hiện hành trong MyTax để có mã chính xác trước khi bạn nộp. Hướng dẫn này là về *cơ chế*; về việc mẫu nào phù hợp với một khoản thanh toán nhất định, hãy xem hướng dẫn về [chọn mẫu CP37 đúng](cp37-forms), và về s.4A cụ thể, [điều 109B các loại thu nhập đặc biệt](withholding-tax-special-classes).
+Thù lao của nghệ sĩ biểu diễn công cộng theo **s.109A** cũng là một thuế khấu trừ tại nguồn, và các dịch vụ điện tử mang toàn bộ dải CP37, vì vậy hãy kiểm tra danh sách mẫu hiện hành trong MyTax để có mã chính xác trước khi bạn nộp. Hướng dẫn này là về *cơ chế*; về việc mẫu nào phù hợp với một khoản thanh toán nhất định, hãy xem hướng dẫn về [chọn mẫu CP37 đúng](/vi/taxation/cp37-forms/), và về s.4A cụ thể, [điều 109B các loại thu nhập đặc biệt](/vi/taxation/withholding-tax-special-classes/).
 
 ## Quy trình e-WHT hoạt động như thế nào?
 
@@ -138,7 +138,7 @@ Bỏ lỡ tháng và hai điều xảy ra, cả hai đều không đổi so vớ
 - **Một khoản tăng 10 phần trăm.** Khi người trả không trả số tiền phải trả, số tiền đó được **tăng thêm một khoản bằng 10 phần trăm** thuế chưa trả, và thuế cộng khoản tăng trở thành một **khoản nợ đối với Chính phủ** — đối với lãi và tiền bản quyền, đây là **s.109(2)**, với các điều khoản song song trong các điều luật khác. Khoản tăng được trả riêng bằng **Mẫu CP147**.
 - **Chi phí bị không cho phép khấu trừ.** Khoản thanh toán mà bạn không khấu trừ được **không được khấu trừ** trong bản tính thuế của chính người trả theo **s.39(1)(f), (i) hoặc (j)** cho đến khi thuế khấu trừ tại nguồn và khoản tăng được trả đầy đủ.
 
-Về toàn bộ cái giá của việc làm sai điều này — bao gồm cách việc không cho phép khấu trừ được gỡ bỏ một khi bạn trả — hãy xem [cái giá của việc bỏ lỡ một khoản khấu trừ thuế khấu trừ tại nguồn](withholding-tax-non-compliance).
+Về toàn bộ cái giá của việc làm sai điều này — bao gồm cách việc không cho phép khấu trừ được gỡ bỏ một khi bạn trả — hãy xem [cái giá của việc bỏ lỡ một khoản khấu trừ thuế khấu trừ tại nguồn](/vi/taxation/withholding-tax-non-compliance/).
 
 ## e-WHT khác với con đường CP37 giấy cũ như thế nào?
 
@@ -154,4 +154,4 @@ Bản chất là giống hệt; cách xử lý thì không:
 
 Nếu bạn thực hiện các khoản thanh toán cho người không cư trú, hãy coi e-WHT là mặc định: đăng ký người trả trên MyTax trước khi khoản thanh toán đầu tiên đến hạn, để bạn không phải cuống cuồng trong khoảng thời gian một tháng. Hãy tính ra mẫu và mức thuế đúng *trước* — đó là nơi có các quyết định thực sự — rồi các bước e-WHT là mang tính máy móc. Hãy giữ mọi số hóa đơn và biên lai cùng với hóa đơn cơ sở, bởi vì biên lai đó là bằng chứng của bạn cả về việc bạn đã nộp đúng hạn và về việc chi phí vẫn được khấu trừ.
 
-Về các phần xung quanh phần này: [bảng mức thuế](withholding-tax-rates) cho bạn biết khấu trừ bao nhiêu, [hướng dẫn mẫu CP37](cp37-forms) cho bạn biết chọn mẫu nào, [điều 109B](withholding-tax-special-classes) bao gồm trường hợp phí kỹ thuật-và-dịch-vụ thường gặp, và [hướng dẫn về không tuân thủ](withholding-tax-non-compliance) nêu rõ các hình phạt một cách đầy đủ. Bởi vì LHDN tổ chức lại cổng và các ấn bản mẫu của mình định kỳ, hãy xác nhận mã mẫu hiện hành và bất kỳ hướng dẫn còn hiệu lực nào trong MyTax trước khi bạn nộp.
+Về các phần xung quanh phần này: [bảng mức thuế](/vi/taxation/withholding-tax-rates/) cho bạn biết khấu trừ bao nhiêu, [hướng dẫn mẫu CP37](/vi/taxation/cp37-forms/) cho bạn biết chọn mẫu nào, [điều 109B](/vi/taxation/withholding-tax-special-classes/) bao gồm trường hợp phí kỹ thuật-và-dịch-vụ thường gặp, và [hướng dẫn về không tuân thủ](/vi/taxation/withholding-tax-non-compliance/) nêu rõ các hình phạt một cách đầy đủ. Bởi vì LHDN tổ chức lại cổng và các ấn bản mẫu của mình định kỳ, hãy xác nhận mã mẫu hiện hành và bất kỳ hướng dẫn còn hiệu lực nào trong MyTax trước khi bạn nộp.
