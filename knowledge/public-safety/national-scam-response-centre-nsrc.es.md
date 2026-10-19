@@ -13,7 +13,7 @@ contentType: agency
 sensitivity: none
 answer: 'El Centro Nacional de Respuesta a Estafas (NSRC) es una línea directa del gobierno de Malasia para denunciar estafas financieras, a la que se accede marcando el 997. Lanzado en octubre de 2022, reúne bajo un mismo techo a la policía con Bank Negara Malaysia (BNM), la Comisión de Comunicaciones y Multimedia de Malasia (MCMC), los bancos comerciales y las telcos, de modo que, cuando una víctima llama, los agentes pueden actuar de inmediato para congelar la cuenta a la que se envió el dinero. La velocidad lo es todo: se insta a las víctimas a llamar dentro de las 24 horas de darse cuenta de que han sido estafadas.'
 keyTakeaways:
-  - Marca el 997 para denunciar una estafa financiera en Malasia: la línea directa del NSRC.
+  - "Marca el 997 para denunciar una estafa financiera en Malasia: la línea directa del NSRC."
   - El NSRC se lanzó en octubre de 2022 y lo gestiona la policía con Bank Negara Malaysia, la MCMC, los bancos y las telcos coubicados para que la acción sea rápida.
   - Su función principal es congelar la cuenta receptora (la cuenta 'mula') antes de que el dinero se traslade, por lo que la velocidad de denuncia es crítica.
   - Se insta a las víctimas a llamar dentro de las 24 horas; las denuncias tardías reducen drásticamente la posibilidad de recuperar los fondos.
