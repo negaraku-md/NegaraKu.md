@@ -25,7 +25,7 @@
     "verify:analytics": "node scripts/verify-analytics.mjs",
     "build:graph": "node scripts/build-graph.mjs",
     "prebuild": "cross-env-shell NODE_OPTIONS=--max-old-space-size=6144 \"node scripts/clean-cache.mjs && node scripts/validate-frontmatter.mjs && node scripts/translation-sync.mjs && node scripts/sync.mjs && node scripts/build-og-safe.mjs && node scripts/build-git-info.mjs && node scripts/build-changelog.mjs && node scripts/build-dashboard.mjs && node scripts/build-graph.mjs && node scripts/build-analytics.mjs && node scripts/pull-cf-traffic.mjs && node scripts/build-credits.mjs && node scripts/check-internal-links.mjs --strict\"",
-    "build": "cross-env NODE_OPTIONS=--max-old-space-size=12288 astro build && pagefind --site dist",
+    "build": "cross-env NODE_OPTIONS=--max-old-space-size=12288 astro build && node scripts/inline-critical-css.mjs && pagefind --site dist",
     "preview": "cross-env NODE_OPTIONS=--max-old-space-size=6144 astro preview",
     "astro": "astro",
     "translate": "node scripts/translate.mjs",
@@ -47,6 +47,7 @@
   "devDependencies": {
     "@fontsource/lato": "^5.3.0",
     "@fontsource/montserrat": "^5.3.0",
+    "beasties": "^0.5.5",
     "concurrently": "^9.2.4",
     "cross-env": "^10.1.0",
     "fontaine": "^0.8.1",
