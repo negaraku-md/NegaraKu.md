@@ -33,7 +33,7 @@ faq:
     a: "Ya — tuntutan balik ialah pemindahan saham, jadi bendera pemindahan saham biasa terpakai. Suratcara pemindahan menarik duti setem ad valorem ke atas yang lebih tinggi antara harga atau nilai saham, dan pelupusan saham tidak tersenarai boleh termasuk dalam rejim cukai keuntungan modal yang berkuat kuasa bagi syarikat pada 2024, walaupun harga beli balik nominal, kerana kedua-dua caj melihat kepada nilai pasaran dan bukan balasan yang dinyatakan. Panduan ini tidak menyatakan semula kadar; lihat panduan pemindahan saham dan keuntungan modal berkaitan untuk angka, asas penilaian dan tarikh akhir, dan dapatkan nasihat sebelum melaksanakan tuntutan balik."
 
 lang: "ms"
-sourceContentHash: "405e988fb0b4ca4a"
+sourceContentHash: "7cd3a63d7a1b3912"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -35,7 +35,7 @@ faq:
     a: "Seksyen 106 menyenaraikan pengecualian di mana rujukan kepada badan pendamai tidak diperlukan — contohnya, petisyen di bawah Seksyen 51 (penukaran agama) dan 52 (persetujuan bersama), atau apabila tempat tinggal pasangan tidak diketahui, responden tinggal di luar negara dan tidak mungkin memasuki bidang kuasa dalam tempoh enam bulan, dengan sengaja gagal hadir, dipenjarakan lima tahun atau lebih, didakwa menghidap penyakit mental yang tidak boleh diubati, atau apabila mahkamah berpuas hati bahawa keadaan luar biasa menjadikan rujukan tidak praktikal."
 
 lang: "ms"
-sourceContentHash: "608158d08520f03a"
+sourceContentHash: "91b0566bdfd26d44"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

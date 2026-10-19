@@ -33,7 +33,7 @@ faq:
     a: "Sí. Desde su primer despliegue en el Congo en 1960, Malasia ha aportado más de 29,000 cascos azules en más de 38 operaciones de mantenimiento de la paz, según la ONU. Al 1 de julio de 2026, Malasia aporta 516 efectivos a la FPNUL (UNIFIL) en el Líbano (frente a los 830 efectivos de agosto de 2025)."
 
 lang: "es"
-sourceContentHash: "9173bdd2a2224732"
+sourceContentHash: "59923c012357af26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

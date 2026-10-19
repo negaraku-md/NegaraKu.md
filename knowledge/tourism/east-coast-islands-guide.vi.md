@@ -31,7 +31,7 @@ faq:
     a: "Không. Đánh cá bị cấm trong ranh giới công viên biển, và du khách không được thu thập bất kỳ phần nào của một sinh vật biển — sống hay chết — bao gồm các mảnh san hô và vỏ sò, cũng không được chạm, đứng lên hoặc gây hư hại san hô theo cách khác."
 
 lang: "vi"
-sourceContentHash: "99085634b2f91e6e"
+sourceContentHash: "89c8e01029327a23"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

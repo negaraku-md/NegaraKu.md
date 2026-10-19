@@ -29,7 +29,7 @@ faq:
     a: "Lịch chính thức được ban hành qua Thông tư (Surat Siaran) của KPM và cổng moe.gov.my mỗi năm trước khi năm học bắt đầu. Hãy tham khảo nguồn chính thức để có ngày chính xác vì nó thay đổi mỗi năm."
 
 lang: "vi"
-sourceContentHash: "25b458d1ef0fef1f"
+sourceContentHash: "57e2351ff40e3792"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

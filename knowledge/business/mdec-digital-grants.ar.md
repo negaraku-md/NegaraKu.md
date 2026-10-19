@@ -33,7 +33,7 @@ faq:
     a: "مؤسسة الاقتصاد الرقمي الماليزية (MDEC)، الوكالة الحكومية التي تروّج للاقتصاد الرقمي الماليزي وتُدير حالة Malaysia Digital. وتتبع MDEC وزارة الرقمنة (Ministry of Digital). وتُقدَّم الطلبات عبر منصّة Malaysia Digital التابعة لـ MDEC، وتقيّم MDEC الأهلية، وتُجري جلسة عرض (pitching)، وتعتمد المنح. وتُوجَّه الاستفسارات عبر قناة التواصل مع العملاء لدى MDEC (clic@mdec.com.my)."
 
 lang: "ar"
-sourceContentHash: "ea511039e4e4cbe4"
+sourceContentHash: "5428789a15a23f7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

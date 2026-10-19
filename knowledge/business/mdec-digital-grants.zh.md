@@ -33,7 +33,7 @@ faq:
     a: "Malaysia Digital Economy Corporation（MDEC），即推广马来西亚数字经济并管理 Malaysia Digital 身份的政府机构。MDEC 隶属于数字部（Ministry of Digital）。申请通过 MDEC 的 Malaysia Digital 平台提交，MDEC 评估资格、举行路演，并批准授予。查询通过 MDEC 的客户联络渠道（clic@mdec.com.my）进行。"
 
 lang: "zh"
-sourceContentHash: "ea511039e4e4cbe4"
+sourceContentHash: "5428789a15a23f7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -32,7 +32,7 @@ faq:
     a: "The NSRC (National Scam Response Centre) is a joint effort between the National Financial Crime Prevention Centre (NFCC), the RMP, Bank Negara Malaysia, the MCMC and financial institutions and the telecommunications industry. It was announced by the Prime Minister's Department on 14 October 2022 as a rapid-response centre against online financial fraud via the 997 hotline. The CCID is one of the RMP units involved in this operation."
 
 lang: "en"
-sourceContentHash: "9fa83d15365c9fba"
+sourceContentHash: "f171b62956bd59ac"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

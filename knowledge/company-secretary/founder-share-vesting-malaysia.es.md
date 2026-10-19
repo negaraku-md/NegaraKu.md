@@ -33,7 +33,7 @@ faq:
     a: "Sí — una recuperación es una transferencia de acciones, por lo que se aplican las señales normales de una transferencia de acciones. El instrumento de transferencia atrae impuesto de timbre ad valorem sobre el mayor del precio o el valor de las acciones, y la enajenación de acciones no cotizadas puede caer dentro del régimen del impuesto sobre ganancias de capital que entró en vigor para las empresas en 2024, aunque el precio de recompra sea nominal, porque ambos gravámenes atienden al valor de mercado y no a la contraprestación declarada. Esta guía no reitera las tasas; véanse las guías relacionadas de transferencia de acciones y de ganancias de capital para las cifras, la base de valoración y los plazos, y obtenga asesoría antes de ejecutar una recuperación."
 
 lang: "es"
-sourceContentHash: "405e988fb0b4ca4a"
+sourceContentHash: "7cd3a63d7a1b3912"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

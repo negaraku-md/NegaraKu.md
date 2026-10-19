@@ -34,7 +34,7 @@ faq:
     a: "개인의 경우 예 — 부동산회사(RPC) 주식의 처분은 CKHT 아래에 유지됩니다. 그러나 2024년 3월 1일부터, 회사, 유한책임조합, 신탁체 및 협동조합에 의한 그러한 주식의 처분은 소득세법 1967에 따른 자본이득세 제도로 이전됩니다."
 
 lang: "ko"
-sourceContentHash: "7363fccb7997191f"
+sourceContentHash: "d2bddb3b32ef2960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

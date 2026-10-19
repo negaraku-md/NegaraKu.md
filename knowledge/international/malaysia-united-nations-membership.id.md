@@ -33,7 +33,7 @@ faq:
     a: "Ya. Sejak pengiriman pertama ke Kongo pada 1960, Malaysia telah menyumbang lebih dari 29,000 personel penjaga perdamaian dalam lebih dari 38 operasi perdamaian menurut PBB. Per 1 Juli 2026, Malaysia menyumbang 516 personel kepada UNIFIL di Lebanon (menurun dari 830 personel pada Agustus 2025)."
 
 lang: "id"
-sourceContentHash: "9173bdd2a2224732"
+sourceContentHash: "59923c012357af26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

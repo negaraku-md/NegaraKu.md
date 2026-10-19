@@ -33,7 +33,7 @@ faq:
     a: "Oui — une reprise est un transfert d'actions, de sorte que les signaux normaux d'un transfert d'actions s'appliquent. L'instrument de transfert attire des droits de timbre ad valorem sur le plus élevé du prix ou de la valeur des actions, et la cession d'actions non cotées peut relever du régime de l'impôt sur les plus-values entré en vigueur pour les sociétés en 2024, même si le prix de rachat est nominal, car les deux prélèvements se réfèrent à la valeur de marché et non à la contrepartie déclarée. Ce guide ne reprend pas les taux ; voir les guides connexes sur le transfert d'actions et les plus-values pour les chiffres, la base d'évaluation et les délais, et prenez conseil avant d'exécuter une reprise."
 
 lang: "fr"
-sourceContentHash: "405e988fb0b4ca4a"
+sourceContentHash: "7cd3a63d7a1b3912"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

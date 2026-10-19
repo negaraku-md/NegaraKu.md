@@ -36,7 +36,7 @@ faq:
     a: "À la suite des modifications de 2015, l'enregistrement n'a plus besoin de renouvellement, mais les auditeurs enregistrés déposent une déclaration annuelle à la date du 30 juin de chaque année et paient une redevance de RM5,000 par auditeur individuel à la date anniversaire de leur enregistrement."
 
 lang: "fr"
-sourceContentHash: "046d2016ae30e969"
+sourceContentHash: "08ea21361c570740"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

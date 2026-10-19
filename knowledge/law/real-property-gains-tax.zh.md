@@ -34,7 +34,7 @@ faq:
     a: "对个人而言，是的——处置房地产公司（RPC）股份仍属于 CKHT。但自 2024 年 3 月 1 日起，公司、有限责任合伙、信托机构及合作社处置该等股份改为在《1967 年所得税法令》（Akta Cukai Pendapatan 1967）下适用资本利得税制度。"
 
 lang: "zh"
-sourceContentHash: "7363fccb7997191f"
+sourceContentHash: "d2bddb3b32ef2960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

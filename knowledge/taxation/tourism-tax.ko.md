@@ -32,7 +32,7 @@ faq:
     a: "객실 5개 이상을 임대하는 사업자만 등록하고 관광세(TTx)를 징수해야 합니다. 객실이 4개 이하인 사업자는 등록할 의무가 없습니다."
 
 lang: "ko"
-sourceContentHash: "f102342b25c63a8e"
+sourceContentHash: "9e31f49b826b0a54"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

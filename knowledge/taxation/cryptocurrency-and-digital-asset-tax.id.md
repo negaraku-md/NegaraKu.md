@@ -30,7 +30,7 @@ faq:
     a: "Sebagai pendapatan usaha biasa. Anda mencatat nilai barang atau layanan dalam ringgit menggunakan nilai pasar koin pada saat transaksi, dan ia menjadi bagian dari penjualan kena pajak Anda."
 
 lang: "id"
-sourceContentHash: "fd506f4661f4b91a"
+sourceContentHash: "baa014641d49bcdc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

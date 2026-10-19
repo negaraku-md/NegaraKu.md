@@ -32,7 +32,7 @@ faq:
     a: "Kamus Dewan Perdana, DBP का आधिकारिक डिजिटल संदर्भ शब्दकोश है, जो एक व्यापक मलय-भाषा संदर्भ मंच प्रदान करने की डिजिटल रूपांतरण योजना का भाग है और kamus.dbp.gov.my पर निःशुल्क सुलभ है।"
 
 lang: "hi"
-sourceContentHash: "ad048e11c6564d32"
+sourceContentHash: "b793e5ab54f919b0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

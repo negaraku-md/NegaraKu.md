@@ -34,7 +34,7 @@ faq:
     a: "Không. Đồng tiền chức năng phản ánh các giao dịch và điều kiện cơ sở, nên nó chỉ thay đổi khi các dữ kiện đó thay đổi — ví dụ, một sự dịch chuyển thực sự trong đồng tiền thúc đẩy giá bán và chi phí. Nó không phải là một chính sách kế toán mà bạn chọn theo từng kỳ."
 
 lang: "vi"
-sourceContentHash: "f9e8ad1f0c1fc778"
+sourceContentHash: "59464f357d823df8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

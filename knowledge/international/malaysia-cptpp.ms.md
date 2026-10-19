@@ -34,7 +34,7 @@ faq:
     a: "Peraturan mengikat ke atas perusahaan milik kerajaan dan monopoli yang ditetapkan, harta intelek, buruh, alam sekitar, perolehan kerajaan, e-dagang dan aliran data merentas sempadan, serta pelaburan (termasuk penyelesaian pertikaian pelabur-negara). Malaysia memperoleh tempoh peralihan dan surat sampingan — contohnya perlindungan bagi PETRONAS dan fleksibiliti bagi PMKnya."
 
 lang: "ms"
-sourceContentHash: "9c8e25e6d3236954"
+sourceContentHash: "9db9a0c566e26f27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

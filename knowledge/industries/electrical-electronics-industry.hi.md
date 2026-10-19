@@ -34,7 +34,7 @@ faq:
     a: "Intel, AMD, Broadcom, Bosch और OSRAM जैसे वैश्विक नाम यहाँ संचालित होते हैं, साथ ही Jabil, Flex, Plexus, Sanmina और Benchmark जैसे अनुबंध निर्माता (EMS), और Inari Amertron समेत स्वदेशी फर्में।"
 
 lang: "hi"
-sourceContentHash: "0fec58671ce8ac21"
+sourceContentHash: "9eabbab560b9bf00"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

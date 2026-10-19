@@ -36,7 +36,7 @@ faq:
     a: "Sau các sửa đổi năm 2015, đăng ký không còn cần gia hạn nữa, nhưng kiểm toán viên đã đăng ký nộp một bản khai hằng năm tính đến ngày 30 tháng 6 mỗi năm và trả một khoản phí RM5,000 mỗi kiểm toán viên cá nhân trước ngày kỷ niệm ngày đăng ký của họ."
 
 lang: "vi"
-sourceContentHash: "046d2016ae30e969"
+sourceContentHash: "08ea21361c570740"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

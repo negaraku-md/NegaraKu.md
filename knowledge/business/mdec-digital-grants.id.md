@@ -33,7 +33,7 @@ faq:
     a: "Malaysia Digital Economy Corporation (MDEC), agensi pemerintah yang mempromosikan ekonomi digital Malaysia dan mengelola status Malaysia Digital. MDEC berada di bawah Kementerian Digital. Permohonan dibuat melalui platform Malaysia Digital MDEC, dan MDEC menilai kelayakan, menjalankan sesi presentasi, dan menyetujui anugerah. Pertanyaan dibuat melalui saluran hubungan pelanggan MDEC (clic@mdec.com.my)."
 
 lang: "id"
-sourceContentHash: "ea511039e4e4cbe4"
+sourceContentHash: "5428789a15a23f7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

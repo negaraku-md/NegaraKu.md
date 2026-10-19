@@ -35,7 +35,7 @@ faq:
     a: "第106条列出了无须转介调解机构的例外情形——例如根据第51条（皈依）和第52条（双方同意）提出的呈请，或配偶下落不明、答辩人身在国外且在六个月内不太可能进入司法管辖范围、蓄意不出席、被判处五年或以上监禁、被指患有不可治愈的精神疾病，或法院认定存在特殊情况使转介不切实际时。"
 
 lang: "zh"
-sourceContentHash: "608158d08520f03a"
+sourceContentHash: "91b0566bdfd26d44"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

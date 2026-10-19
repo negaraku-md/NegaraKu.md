@@ -34,7 +34,7 @@ faq:
     a: "Đối với cá nhân, có — việc chuyển nhượng cổ phần công ty bất động sản (RPC) vẫn thuộc CKHT. Tuy nhiên kể từ 1 Mac 2024, việc chuyển nhượng cổ phần đó bởi công ty, hợp danh trách nhiệm hữu hạn, quỹ tín thác và hợp tác xã chuyển sang chế độ Thuế Lãi vốn theo Luật Thuế thu nhập 1967."
 
 lang: "vi"
-sourceContentHash: "7363fccb7997191f"
+sourceContentHash: "d2bddb3b32ef2960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

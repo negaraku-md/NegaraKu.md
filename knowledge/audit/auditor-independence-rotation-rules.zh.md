@@ -37,7 +37,7 @@ faq:
     a: "固定的七年时限和按角色划分的冷却期仅适用于公众利益实体。对于非 PIE，R540.4 仍要求事务所在只能通过轮换来应对熟识或自身利益威胁时，让相关个人轮换离任并持续足够的期间——但并未规定固定的年数。"
 
 lang: "zh"
-sourceContentHash: "6264fc7fd0a2fe3d"
+sourceContentHash: "b540f017750bd2a5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

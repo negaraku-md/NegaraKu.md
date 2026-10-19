@@ -28,7 +28,7 @@ faq:
     a: "Tidak. e-WHT hanya mengubah cara anda menghantar dan membayar — kadarnya tidak berubah dan masih datang daripada Bahagian V Jadual 1 dibaca bersama seksyen pengecas (contohnya 10 peratus royalti dan 15 peratus faedah di bawah seksyen 109, 10 peratus bagi kelas khas di bawah seksyen 109B). Lihat panduan berasingan tentang kadar cukai pegangan mengikut jenis bayaran untuk jadual penuh."
 
 lang: "ms"
-sourceContentHash: "d5f0f2295ae24e78"
+sourceContentHash: "0f342547a37d4851"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

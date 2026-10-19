@@ -28,7 +28,7 @@ faq:
     a: "不会。e-WHT只改变您提交与缴付的方式——税率不变，仍来自与征税条文一并解读的附表一第V部分（例如第109条下royalty 10%、利息15%，第109B条下特殊类别10%）。完整表格请参阅另一份关于按款项类型划分的预扣税税率指南。"
 
 lang: "zh"
-sourceContentHash: "d5f0f2295ae24e78"
+sourceContentHash: "0f342547a37d4851"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

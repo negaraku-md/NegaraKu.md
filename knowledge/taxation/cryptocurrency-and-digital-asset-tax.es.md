@@ -30,7 +30,7 @@ faq:
     a: "Como renta ordinaria del negocio. Registras el valor de los bienes o servicios en ringgit usando el valor de mercado de las monedas en el momento de la transacción, y forma parte de tus ventas gravables."
 
 lang: "es"
-sourceContentHash: "fd506f4661f4b91a"
+sourceContentHash: "baa014641d49bcdc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

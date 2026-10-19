@@ -32,7 +32,7 @@ faq:
     a: "NSRC (Pusat Respons Penipuan Kebangsaan) adalah kerja sama antara Pusat Nasional untuk Kejahatan Keuangan (NFCC), PDRM, Bank Negara Malaysia, MCMC serta institusi keuangan dan industri telekomunikasi. NSRC diumumkan oleh Jabatan Perdana Menteri pada 14 Oktober 2022 sebagai pusat respons cepat terhadap penipuan keuangan daring melalui saluran 997. CCID adalah salah satu unit PDRM yang terlibat dalam operasi ini."
 
 lang: "id"
-sourceContentHash: "9fa83d15365c9fba"
+sourceContentHash: "f171b62956bd59ac"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -36,7 +36,7 @@ faq:
     a: "Berikutan pindaan 2015, pendaftaran tidak lagi memerlukan pembaharuan, tetapi juruaudit berdaftar mengemukakan perakuan tahunan pada 30 Jun setiap tahun dan membayar yuran sebanyak RM5,000 bagi setiap juruaudit individu menjelang ulang tahun tarikh pendaftaran mereka."
 
 lang: "ms"
-sourceContentHash: "046d2016ae30e969"
+sourceContentHash: "08ea21361c570740"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

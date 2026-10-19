@@ -34,7 +34,7 @@ faq:
     a: "Aturan mengikat atas perusahaan milik negara dan monopoli yang ditetapkan, kekayaan intelektual, perburuhan, lingkungan, pengadaan pemerintah, e-dagang dan aliran data lintas perbatasan, serta investasi (termasuk penyelesaian sengketa investor-negara). Malaysia memperoleh masa transisi dan surat sampingan — contohnya perlindungan bagi PETRONAS dan fleksibilitas bagi perusahaan milik negaranya."
 
 lang: "id"
-sourceContentHash: "9c8e25e6d3236954"
+sourceContentHash: "9db9a0c566e26f27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

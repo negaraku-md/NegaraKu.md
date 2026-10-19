@@ -32,7 +32,7 @@ faq:
     a: "Kamus Dewan Perdana là từ điển tham chiếu số chính thức của DBP, một phần trong chương trình chuyển đổi số nhằm cung cấp một nền tảng tham chiếu tiếng Mã Lai toàn diện và có thể truy cập miễn phí tại kamus.dbp.gov.my."
 
 lang: "vi"
-sourceContentHash: "ad048e11c6564d32"
+sourceContentHash: "b793e5ab54f919b0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

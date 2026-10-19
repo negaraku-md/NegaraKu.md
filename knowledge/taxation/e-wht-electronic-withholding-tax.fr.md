@@ -33,7 +33,7 @@ faq:
     a: "Non. e-WHT ne change que la manière de déposer et de payer — les taux sont inchangés et proviennent toujours de la Partie V du Schedule 1 lue conjointement avec la section d'imposition (par exemple 10 pour cent sur les redevances et 15 pour cent sur les intérêts au titre de la section 109, 10 pour cent pour les classes spéciales au titre de la section 109B). Consultez le guide distinct sur les taux de retenue à la source par type de paiement pour le tableau complet."
 
 lang: "fr"
-sourceContentHash: "d5f0f2295ae24e78"
+sourceContentHash: "0f342547a37d4851"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

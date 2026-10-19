@@ -29,7 +29,7 @@ faq:
     a: "அதிகாரப்பூர்வ நாட்காட்டி ஒவ்வோர் ஆண்டும் கல்வி ஆண்டு தொடங்குவதற்கு முன் Surat Siaran KPM மற்றும் moe.gov.my வலைவாயில் மூலம் வெளியிடப்படுகிறது. தேதிகள் ஒவ்வோர் ஆண்டும் மாறுவதால், துல்லியமான தேதிகளுக்கு அதிகாரப்பூர்வ ஆதாரங்களைப் பாருங்கள்."
 
 lang: "ta"
-sourceContentHash: "25b458d1ef0fef1f"
+sourceContentHash: "57e2351ff40e3792"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

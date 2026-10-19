@@ -34,7 +34,7 @@ faq:
     a: "Tidak. Mata wang fungsian mencerminkan urus niaga dan keadaan asas, jadi ia berubah hanya apabila fakta tersebut berubah — contohnya, peralihan sebenar dalam mata wang yang mendorong harga jualan dan kos. Ia bukan dasar perakaunan yang anda pilih dari tempoh ke tempoh."
 
 lang: "ms"
-sourceContentHash: "f9e8ad1f0c1fc778"
+sourceContentHash: "59464f357d823df8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

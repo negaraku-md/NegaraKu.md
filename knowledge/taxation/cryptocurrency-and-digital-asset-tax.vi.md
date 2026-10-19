@@ -30,7 +30,7 @@ faq:
     a: "Như thu nhập kinh doanh thông thường. Bạn ghi nhận giá trị của hàng hóa hoặc dịch vụ bằng ringgit sử dụng giá trị thị trường của các đồng coin tại thời điểm giao dịch, và nó là một phần của doanh số chịu thuế của bạn."
 
 lang: "vi"
-sourceContentHash: "fd506f4661f4b91a"
+sourceContentHash: "baa014641d49bcdc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

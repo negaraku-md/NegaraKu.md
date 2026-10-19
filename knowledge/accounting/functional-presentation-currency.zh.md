@@ -34,7 +34,7 @@ faq:
     a: "不可以。功能货币反映的是基础交易与条件，因此只有在这些事实发生变化时才会改变——例如驱动销售价格与成本的货币发生了实质性转变。它不是一项可以逐期选择的会计政策。"
 
 lang: "zh"
-sourceContentHash: "f9e8ad1f0c1fc778"
+sourceContentHash: "59464f357d823df8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

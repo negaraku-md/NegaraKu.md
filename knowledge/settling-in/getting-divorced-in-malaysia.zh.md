@@ -35,7 +35,7 @@ faq:
     a: "两套制度都设有和解环节。在民事方面，第164号法令第106条一般要求在提出请愿前先将事项转介至调解机构（婚姻仲裁庭），仅有有限的例外。在伊斯兰方面，夫妇会被安排到州伊斯兰宗教局接受辅导，之后离婚才会在伊斯兰法庭登记。"
 
 lang: "zh"
-sourceContentHash: "be15966c8bacd8fa"
+sourceContentHash: "035f1c792e86dd7f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

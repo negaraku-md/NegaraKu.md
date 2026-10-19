@@ -37,7 +37,7 @@ faq:
     a: "Không muộn hơn 18 tháng kể từ ngày đăng ký PLT, theo section 68(3). Sau bản khai đầu tiên đó, mỗi bản khai hằng năm tiếp theo phải được nộp lưu trong vòng 90 ngày kể từ cuối năm tài chính của PLT (section 68(2)). Cơ quan Đăng ký có thể cho gia hạn thời gian nếu được xin và thấy hợp lý (section 68(4))."
 
 lang: "vi"
-sourceContentHash: "87f70dd57604213f"
+sourceContentHash: "38fa180b432e314b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -32,7 +32,7 @@ faq:
     a: "El Kamus Dewan Perdana es el diccionario de referencia digital oficial de la DBP, parte de la agenda de transformación digital para ofrecer una plataforma integral de referencia de la lengua malaya de acceso libre en kamus.dbp.gov.my."
 
 lang: "es"
-sourceContentHash: "ad048e11c6564d32"
+sourceContentHash: "b793e5ab54f919b0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

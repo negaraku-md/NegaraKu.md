@@ -32,7 +32,7 @@ faq:
     a: "Seuls les exploitants qui louent cinq chambres ou plus doivent s'enregistrer et percevoir la TTx. Un exploitant disposant de quatre chambres ou moins n'est pas tenu de s'enregistrer."
 
 lang: "fr"
-sourceContentHash: "f102342b25c63a8e"
+sourceContentHash: "9e31f49b826b0a54"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

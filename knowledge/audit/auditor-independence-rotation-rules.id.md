@@ -37,7 +37,7 @@ faq:
     a: "Jam tetap tujuh tahun dan masa jeda khusus menurut peran hanya berlaku bagi entitas kepentingan publik. Bagi entitas non-PIE, R540.4 masih mewajibkan firma merotasi seorang individu keluar apabila ancaman keakraban atau kepentingan pribadi hanya dapat ditangani dengan cara itu, untuk periode yang memadai — tetapi tidak ada jumlah tahun tetap yang ditetapkan."
 
 lang: "id"
-sourceContentHash: "6264fc7fd0a2fe3d"
+sourceContentHash: "b540f017750bd2a5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

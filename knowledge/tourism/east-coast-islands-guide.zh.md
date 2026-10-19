@@ -31,7 +31,7 @@ faq:
     a: "不可以。海洋公园范围内禁止钓鱼，游客不得采集海洋生物的任何部分——无论死活——包括珊瑚碎片和贝壳，也不得触摸、踩踏或以其他方式破坏珊瑚。"
 
 lang: "zh"
-sourceContentHash: "99085634b2f91e6e"
+sourceContentHash: "89c8e01029327a23"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

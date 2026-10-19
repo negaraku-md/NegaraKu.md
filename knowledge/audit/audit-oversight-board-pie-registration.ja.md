@@ -36,7 +36,7 @@ faq:
     a: "2015年の改正以降、登録は更新を必要としなくなったが、登録監査人は毎年6月30日現在の年次申告書を提出し、その登録日の記念日までに個人監査人1名につきRM5,000の手数料を支払う。"
 
 lang: "ja"
-sourceContentHash: "046d2016ae30e969"
+sourceContentHash: "08ea21361c570740"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

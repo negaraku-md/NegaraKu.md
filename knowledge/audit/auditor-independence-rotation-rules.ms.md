@@ -37,7 +37,7 @@ faq:
     a: "Jam tetap tujuh tahun dan tempoh menyejuk khusus mengikut peranan hanya terpakai kepada entiti kepentingan awam. Bagi entiti bukan EKA, R540.4 masih menghendaki firma merotasikan seseorang individu keluar apabila ancaman kebiasaan atau kepentingan-kendiri hanya boleh ditangani dengan cara itu, untuk tempoh yang mencukupi — tetapi tiada bilangan tahun tetap ditetapkan."
 
 lang: "ms"
-sourceContentHash: "6264fc7fd0a2fe3d"
+sourceContentHash: "b540f017750bd2a5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

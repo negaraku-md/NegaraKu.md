@@ -30,7 +30,7 @@ faq:
     a: "作为一般营业收入课税。你以交易时点该等币的市场价值，将商品或服务的价值以令吉记录，并将其计入你的应税销售额。"
 
 lang: "zh"
-sourceContentHash: "fd506f4661f4b91a"
+sourceContentHash: "baa014641d49bcdc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

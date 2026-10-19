@@ -37,7 +37,7 @@ faq:
     a: "第68(3)条により、LLPの登録日から18か月以内である。最初の宣言の後は、その後の各年次宣言をLLPの会計年度末から90日以内に提出しなければならない（第68(2)条）。登録官は、申請があり適当と認めた場合、期間の延長を認めることができる（第68(4)条）。"
 
 lang: "ja"
-sourceContentHash: "87f70dd57604213f"
+sourceContentHash: "38fa180b432e314b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

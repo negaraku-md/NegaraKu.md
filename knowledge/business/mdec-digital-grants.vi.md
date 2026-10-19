@@ -33,7 +33,7 @@ faq:
     a: "Malaysia Digital Economy Corporation (MDEC), cơ quan chính phủ thúc đẩy nền kinh tế số của Malaysia và quản lý tình trạng Malaysia Digital. MDEC thuộc Bộ Kỹ thuật số. Các đơn được nộp thông qua nền tảng Malaysia Digital của MDEC, và MDEC đánh giá điều kiện, tổ chức một buổi thuyết trình (pitching session), và phê duyệt các khoản trao. Các thắc mắc đi qua kênh liên hệ khách hàng của MDEC (clic@mdec.com.my)."
 
 lang: "vi"
-sourceContentHash: "ea511039e4e4cbe4"
+sourceContentHash: "5428789a15a23f7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

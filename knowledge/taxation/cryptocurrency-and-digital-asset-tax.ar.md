@@ -30,7 +30,7 @@ faq:
     a: "بوصفها دخلًا تجاريًا عاديًا. فأنت تسجّل قيمة السلع أو الخدمات بالرينغيت وفق القيمة السوقية للعملات عند نقطة المعاملة، وتصبح جزءًا من مبيعاتك الخاضعة للضريبة."
 
 lang: "ar"
-sourceContentHash: "fd506f4661f4b91a"
+sourceContentHash: "baa014641d49bcdc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

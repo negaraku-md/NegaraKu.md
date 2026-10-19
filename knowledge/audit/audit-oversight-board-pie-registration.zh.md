@@ -36,7 +36,7 @@ faq:
     a: "在 2015 年修订之后，注册不再需要续期，但注册审计师须每年提交截至 6 月 30 日的年度声明，并在其注册日期周年日按每名个人审计师 RM5,000 缴付费用。"
 
 lang: "zh"
-sourceContentHash: "046d2016ae30e969"
+sourceContentHash: "08ea21361c570740"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

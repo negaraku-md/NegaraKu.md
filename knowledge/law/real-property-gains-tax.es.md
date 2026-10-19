@@ -34,7 +34,7 @@ faq:
     a: "Para las personas físicas, sí: la enajenación de acciones de una sociedad inmobiliaria (RPC) sigue bajo el RPGT. Sin embargo, desde el 1 de marzo de 2024, la enajenación de dichas acciones por parte de sociedades, sociedades de responsabilidad limitada, entidades fiduciarias y cooperativas pasa al régimen del impuesto sobre las ganancias de capital en virtud de la Ley del Impuesto sobre la Renta de 1967 (Income Tax Act 1967)."
 
 lang: "es"
-sourceContentHash: "7363fccb7997191f"
+sourceContentHash: "d2bddb3b32ef2960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

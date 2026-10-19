@@ -34,7 +34,7 @@ faq:
     a: "Intel, AMD, Broadcom, Bosch மற்றும் OSRAM போன்ற உலகப் பெயர்கள் இங்கு இயங்குகின்றன; அத்துடன் Jabil, Flex, Plexus, Sanmina மற்றும் Benchmark போன்ற ஒப்பந்த உற்பத்தியாளர்களும் (EMS), Inari Amertron உட்பட உள்நாட்டு நிறுவனங்களும் உள்ளன."
 
 lang: "ta"
-sourceContentHash: "0fec58671ce8ac21"
+sourceContentHash: "9eabbab560b9bf00"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

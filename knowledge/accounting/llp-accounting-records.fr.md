@@ -37,7 +37,7 @@ faq:
     a: "Au plus tard 18 mois après la date d'enregistrement de la LLP, en vertu de la section 68(3). Après cette première déclaration, chaque déclaration annuelle ultérieure doit être enregistrée dans les 90 jours suivant la fin de l'exercice de la LLP (section 68(2)). Le Registraire peut accorder une prorogation de délai si elle est demandée et jugée appropriée (section 68(4))."
 
 lang: "fr"
-sourceContentHash: "87f70dd57604213f"
+sourceContentHash: "38fa180b432e314b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

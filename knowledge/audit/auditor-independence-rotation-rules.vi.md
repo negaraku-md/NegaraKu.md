@@ -37,7 +37,7 @@ faq:
     a: "Đồng hồ bảy năm cố định và các thời gian nghỉ ngơi theo từng vai trò chỉ áp dụng cho các đơn vị có lợi ích công chúng. Đối với một đơn vị không phải PIE, R540.4 vẫn yêu cầu hãng luân chuyển một cá nhân ra khỏi khi các mối đe dọa về sự quen thuộc hoặc lợi ích bản thân chỉ có thể được xử lý theo cách đó, trong một thời gian đủ dài — nhưng không có con số năm cố định nào được quy định."
 
 lang: "vi"
-sourceContentHash: "6264fc7fd0a2fe3d"
+sourceContentHash: "b540f017750bd2a5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

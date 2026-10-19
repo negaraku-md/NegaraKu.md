@@ -30,7 +30,7 @@ faq:
     a: "통상의 사업소득으로 과세됩니다. 거래 시점의 코인 시장 가치를 사용하여 재화 또는 용역의 가치를 링깃으로 기록하며, 이는 과세 대상 매출의 일부를 구성합니다."
 
 lang: "ko"
-sourceContentHash: "fd506f4661f4b91a"
+sourceContentHash: "baa014641d49bcdc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

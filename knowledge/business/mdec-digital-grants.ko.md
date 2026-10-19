@@ -33,7 +33,7 @@ faq:
     a: "말레이시아의 디지털 경제를 촉진하고 Malaysia Digital 지위를 운영하는 정부기관인 말레이시아 디지털경제공사(MDEC)입니다. MDEC는 디지털부(Ministry of Digital) 소관입니다. 신청은 MDEC의 Malaysia Digital 플랫폼을 통해 이루어지며, MDEC가 자격을 심사하고 발표 심사(pitching session)를 진행한 뒤 지원을 승인합니다. 문의는 MDEC의 고객 연락 채널(clic@mdec.com.my)을 통합니다."
 
 lang: "ko"
-sourceContentHash: "ea511039e4e4cbe4"
+sourceContentHash: "5428789a15a23f7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

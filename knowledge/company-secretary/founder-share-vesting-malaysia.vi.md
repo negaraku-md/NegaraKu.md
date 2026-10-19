@@ -33,7 +33,7 @@ faq:
     a: "Có — một sự thu hồi là một sự chuyển nhượng cổ phần, nên các dấu hiệu chuyển nhượng cổ phần thông thường áp dụng. Văn kiện chuyển nhượng thu hút thuế trước bạ theo giá trị (ad valorem) trên giá trị cao hơn giữa giá hoặc giá trị của cổ phần, và một sự định đoạt cổ phần không niêm yết có thể rơi vào chế độ thuế lãi vốn có hiệu lực đối với các công ty vào năm 2024, ngay cả khi giá mua lại là danh nghĩa, vì cả hai khoản đều nhìn vào giá trị thị trường chứ không phải khoản đối giá được nêu. Hướng dẫn này không nêu lại các mức thuế; xem các hướng dẫn liên quan về chuyển nhượng cổ phần và lãi vốn để biết các con số, cơ sở định giá và các thời hạn, và hãy lấy lời khuyên trước khi thực hiện một sự thu hồi."
 
 lang: "vi"
-sourceContentHash: "405e988fb0b4ca4a"
+sourceContentHash: "7cd3a63d7a1b3912"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

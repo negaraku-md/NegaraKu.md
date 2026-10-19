@@ -37,7 +37,7 @@ faq:
     a: "依第 68(3) 条，须在 PLT 注册之日起不迟于 18 个月内呈报。在首份声明之后，其后每份年度声明须在 PLT 财政年度结束起 90 天内呈报（第 68(2) 条）。若提出申请且注册官认为适当，可给予延期（第 68(4) 条）。"
 
 lang: "zh"
-sourceContentHash: "87f70dd57604213f"
+sourceContentHash: "38fa180b432e314b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

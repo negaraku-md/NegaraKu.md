@@ -37,7 +37,7 @@ faq:
     a: "No later than 18 months from the date of registration of the LLP, under section 68(3). After that first declaration, each subsequent annual declaration must be lodged within 90 days from the end of the LLP's financial year (section 68(2)). The Registrar may grant an extension of time if applied for and considered appropriate (section 68(4))."
 
 lang: "en"
-sourceContentHash: "87f70dd57604213f"
+sourceContentHash: "38fa180b432e314b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

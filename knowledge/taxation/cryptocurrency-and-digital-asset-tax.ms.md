@@ -30,7 +30,7 @@ faq:
     a: "Sebagai pendapatan perniagaan biasa. Anda merekodkan nilai barangan atau perkhidmatan dalam ringgit menggunakan nilai pasaran syiling pada masa transaksi, dan ia menjadi sebahagian daripada jualan boleh cukai anda."
 
 lang: "ms"
-sourceContentHash: "fd506f4661f4b91a"
+sourceContentHash: "baa014641d49bcdc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

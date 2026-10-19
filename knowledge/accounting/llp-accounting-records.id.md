@@ -37,7 +37,7 @@ faq:
     a: "Tidak lewat dari 18 bulan sejak tanggal pendaftaran PLT, sesuai Pasal 68(3). Setelah deklarasi pertama itu, setiap deklarasi tahunan selanjutnya perlu disampaikan dalam waktu 90 hari sejak berakhirnya tahun buku PLT (Pasal 68(2)). Pendaftar dapat memberi perpanjangan waktu jika diajukan dan dipandang wajar (Pasal 68(4))."
 
 lang: "id"
-sourceContentHash: "87f70dd57604213f"
+sourceContentHash: "38fa180b432e314b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

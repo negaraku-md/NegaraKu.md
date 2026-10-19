@@ -35,7 +35,7 @@ faq:
     a: "Cả hai hệ thống đều tích hợp một giai đoạn hòa giải. Về phía dân sự, Mục 106 của Act 164 nói chung yêu cầu vụ việc được chuyển đến một cơ quan hòa giải (một hội đồng hôn nhân) trước khi một đơn được nộp, với các ngoại lệ hạn chế. Về phía Hồi giáo, các cặp được hướng đến tư vấn tại Văn phòng Tôn giáo Hồi giáo Bang trước khi một cuộc ly hôn được đăng ký tại tòa Syariah."
 
 lang: "vi"
-sourceContentHash: "be15966c8bacd8fa"
+sourceContentHash: "035f1c792e86dd7f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

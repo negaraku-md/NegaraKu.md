@@ -32,7 +32,7 @@ faq:
     a: "Kamus Dewan Perdana คือพจนานุกรมอ้างอิงดิจิทัลทางการของ DBP ซึ่งเป็นส่วนหนึ่งของวาระการเปลี่ยนผ่านสู่ดิจิทัลเพื่อจัดเตรียมแพลตฟอร์มอ้างอิงภาษามลายูที่ครอบคลุมและเข้าถึงได้ฟรีที่ kamus.dbp.gov.my"
 
 lang: "th"
-sourceContentHash: "ad048e11c6564d32"
+sourceContentHash: "b793e5ab54f919b0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -33,7 +33,7 @@ faq:
     a: "Không. e-WHT chỉ thay đổi cách bạn nộp và trả — các mức không đổi và vẫn đến từ Part V của Schedule 1 đọc cùng với điều thu thuế (ví dụ 10 phần trăm tiền bản quyền và 15 phần trăm lãi theo điều 109, 10 phần trăm cho các loại đặc biệt theo điều 109B). Xem hướng dẫn riêng về các mức thuế khấu trừ tại nguồn theo loại thanh toán để có bảng đầy đủ."
 
 lang: "vi"
-sourceContentHash: "d5f0f2295ae24e78"
+sourceContentHash: "0f342547a37d4851"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

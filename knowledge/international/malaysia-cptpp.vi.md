@@ -34,7 +34,7 @@ faq:
     a: "Các quy tắc ràng buộc về doanh nghiệp nhà nước và độc quyền được chỉ định, sở hữu trí tuệ, lao động, môi trường, mua sắm chính phủ, thương mại điện tử và luồng dữ liệu xuyên biên giới, và đầu tư (bao gồm giải quyết tranh chấp nhà nước-nhà đầu tư). Malaysia đã bảo đảm được các giai đoạn chuyển tiếp và thư bên lề — ví dụ các biện pháp bảo vệ PETRONAS và sự linh hoạt cho các doanh nghiệp nhà nước của mình."
 
 lang: "vi"
-sourceContentHash: "9c8e25e6d3236954"
+sourceContentHash: "9db9a0c566e26f27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

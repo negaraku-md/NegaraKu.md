@@ -35,7 +35,7 @@ faq:
     a: "Kedua sistem memiliki tahap pendamaian. Di sisi sipil, Pasal 106 Akta 164 pada umumnya mengharuskan perkara itu dirujuk kepada badan pendamai (tribunal pernikahan) sebelum petisi diajukan, dengan pengecualian terbatas. Di sisi Islam, pasangan diarahkan ke konseling di Pejabat Agama Islam Negeri sebelum perceraian didaftarkan di mahkamah Syariah."
 
 lang: "id"
-sourceContentHash: "be15966c8bacd8fa"
+sourceContentHash: "035f1c792e86dd7f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

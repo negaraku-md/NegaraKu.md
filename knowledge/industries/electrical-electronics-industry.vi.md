@@ -34,7 +34,7 @@ faq:
     a: "Các tên toàn cầu như Intel, AMD, Broadcom, Bosch và OSRAM hoạt động ở đây, cùng với các nhà sản xuất theo hợp đồng (EMS) như Jabil, Flex, Plexus, Sanmina và Benchmark, và các hãng nội địa bao gồm Inari Amertron."
 
 lang: "vi"
-sourceContentHash: "0fec58671ce8ac21"
+sourceContentHash: "9eabbab560b9bf00"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -37,7 +37,7 @@ faq:
     a: "El plazo fijo de siete años y los periodos de enfriamiento específicos según el rol solo se aplican a las entidades de interés público. Para una no-EIP, R540.4 sigue exigiendo que la firma rote a una persona cuando las amenazas de familiaridad o de interés propio solo puedan abordarse de esa manera, durante un periodo de duración suficiente — pero no se prescribe ningún número fijo de años."
 
 lang: "es"
-sourceContentHash: "6264fc7fd0a2fe3d"
+sourceContentHash: "b540f017750bd2a5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

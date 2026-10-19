@@ -30,7 +30,7 @@ faq:
     a: "เป็นเงินได้จากธุรกิจตามปกติ คุณบันทึกมูลค่าของสินค้าหรือบริการเป็นริงกิตโดยใช้มูลค่าตลาดของเหรียญ ณ จุดที่ทำธุรกรรม และมันเป็นส่วนหนึ่งของยอดขายที่ต้องเสียภาษีของคุณ"
 
 lang: "th"
-sourceContentHash: "fd506f4661f4b91a"
+sourceContentHash: "baa014641d49bcdc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

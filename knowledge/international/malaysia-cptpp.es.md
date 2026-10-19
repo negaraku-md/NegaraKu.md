@@ -34,7 +34,7 @@ faq:
     a: "Normas vinculantes sobre empresas estatales y monopolios designados, propiedad intelectual, trabajo, medio ambiente, contratación pública, comercio electrónico y flujos transfronterizos de datos, e inversión (incluida la solución de controversias inversor-Estado). Malasia obtuvo periodos de transición y cartas adjuntas —por ejemplo, protecciones para PETRONAS y flexibilidades para sus empresas estatales."
 
 lang: "es"
-sourceContentHash: "9c8e25e6d3236954"
+sourceContentHash: "9db9a0c566e26f27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

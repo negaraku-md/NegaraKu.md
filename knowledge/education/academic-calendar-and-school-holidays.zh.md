@@ -29,7 +29,7 @@ faq:
     a: "官方校历每年在学年开始前通过教育部通函（Surat Siaran KPM）及门户网站 moe.gov.my 发布。由于日期每年都会变动，请以官方来源为准以取得准确日期。"
 
 lang: "zh"
-sourceContentHash: "25b458d1ef0fef1f"
+sourceContentHash: "57e2351ff40e3792"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

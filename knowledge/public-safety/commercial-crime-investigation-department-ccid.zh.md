@@ -32,7 +32,7 @@ faq:
     a: "NSRC（国家诈骗应对中心）是国家金融犯罪中心（NFCC）、皇家警察、马来西亚国家银行、MCMC 以及金融机构与电信业者之间的联合项目。它由首相署于 2022 年 10 月 14 日宣布成立，通过热线 997 作为对线上金融诈骗的快速应对中心。CCID 是参与这项行动的皇家警察单位之一。"
 
 lang: "zh"
-sourceContentHash: "9fa83d15365c9fba"
+sourceContentHash: "f171b62956bd59ac"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

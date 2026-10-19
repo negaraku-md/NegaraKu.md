@@ -34,7 +34,7 @@ faq:
     a: "For individuals, yes — the disposal of shares in a real property company (RPC) remains under RPGT. However, from 1 March 2024, the disposal of such shares by companies, limited liability partnerships, trust bodies and co-operatives shifts to the Capital Gains Tax regime under the Income Tax Act 1967."
 
 lang: "en"
-sourceContentHash: "7363fccb7997191f"
+sourceContentHash: "d2bddb3b32ef2960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

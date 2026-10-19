@@ -32,7 +32,7 @@ faq:
     a: "وحدهم المشغّلون الذين يؤجّرون خمس غرف أو أكثر يجب عليهم التسجيل وجمع TTx. أما المشغّل الذي لديه أربع غرف أو أقل فغير مُلزَم بالتسجيل."
 
 lang: "ar"
-sourceContentHash: "f102342b25c63a8e"
+sourceContentHash: "9e31f49b826b0a54"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

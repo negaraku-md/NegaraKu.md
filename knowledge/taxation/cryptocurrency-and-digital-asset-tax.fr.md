@@ -30,7 +30,7 @@ faq:
     a: "Comme un revenu d'activité ordinaire. Vous enregistrez la valeur des biens ou des services en ringgit en utilisant la valeur de marché des monnaies au moment de la transaction, et elle fait partie de vos ventes imposables."
 
 lang: "fr"
-sourceContentHash: "fd506f4661f4b91a"
+sourceContentHash: "baa014641d49bcdc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -35,7 +35,7 @@ faq:
     a: "La Section 106 énumère les exceptions dans lesquelles le renvoi devant un organe de conciliation n'est pas requis — par exemple, les requêtes sous les Sections 51 (conversion) et 52 (consentement mutuel), ou lorsque le lieu où se trouve le conjoint est inconnu, que le défendeur vit à l'étranger et est peu susceptible d'entrer dans la juridiction dans un délai de six mois, qu'il a délibérément omis de comparaître, qu'il est emprisonné pour cinq ans ou plus, qu'il est allégué qu'il souffre d'une maladie mentale incurable, ou lorsque la cour est convaincue que des circonstances exceptionnelles rendent le renvoi impraticable."
 
 lang: "fr"
-sourceContentHash: "608158d08520f03a"
+sourceContentHash: "91b0566bdfd26d44"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

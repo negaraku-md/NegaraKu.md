@@ -33,7 +33,7 @@ faq:
     a: "아닙니다. e-WHT는 제출과 납부 방식만 바꿉니다 — 세율은 변하지 않았으며 여전히 부칙 1(Schedule 1) 제V부를 부과 조문과 함께 읽은 데서 나옵니다(예를 들어 제109조에 따라 로열티 10퍼센트, 이자 15퍼센트, 제109B조에 따라 특수 종류 10퍼센트). 전체 표는 지급 유형별 원천징수세율에 관한 별도 안내서를 참조하십시오."
 
 lang: "ko"
-sourceContentHash: "d5f0f2295ae24e78"
+sourceContentHash: "0f342547a37d4851"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

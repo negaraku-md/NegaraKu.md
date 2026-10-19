@@ -32,7 +32,7 @@ faq:
     a: "केवल पाँच या अधिक कक्ष किराये पर देने वाले प्रचालकों को पंजीकरण कराना और TTx वसूलना होगा। चार या उससे कम कक्षों वाला प्रचालक पंजीकरण के लिए उत्तरदायी नहीं है।"
 
 lang: "hi"
-sourceContentHash: "f102342b25c63a8e"
+sourceContentHash: "9e31f49b826b0a54"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

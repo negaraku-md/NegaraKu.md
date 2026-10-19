@@ -32,7 +32,7 @@ faq:
     a: "캄무스 데완 프르다나(Kamus Dewan Perdana)는 DBP의 공식 디지털 참조 사전으로, 종합적인 말레이어 참조 플랫폼을 마련하려는 디지털 전환 의제의 일부이며 kamus.dbp.gov.my에서 무료로 이용할 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "ad048e11c6564d32"
+sourceContentHash: "b793e5ab54f919b0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

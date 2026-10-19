@@ -31,7 +31,7 @@ faq:
     a: "Tidak. Memancing dilarang di dalam sempadan taman laut, dan pengunjung tidak boleh mengutip mana-mana bahagian organisma marin — hidup atau mati — termasuk kepingan batu karang dan cangkerang, serta tidak boleh menyentuh, memijak atau merosakkan batu karang."
 
 lang: "ms"
-sourceContentHash: "99085634b2f91e6e"
+sourceContentHash: "89c8e01029327a23"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

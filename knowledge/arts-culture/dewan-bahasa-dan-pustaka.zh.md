@@ -32,7 +32,7 @@ faq:
     a: "《语文出版局大词典》（Kamus Dewan Perdana）是 DBP 的官方数字参考词典，是数字转型议程的一部分，旨在提供一个全面且可免费查阅的马来语参考平台，网址为 kamus.dbp.gov.my。"
 
 lang: "zh"
-sourceContentHash: "ad048e11c6564d32"
+sourceContentHash: "b793e5ab54f919b0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

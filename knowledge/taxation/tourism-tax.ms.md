@@ -32,7 +32,7 @@ faq:
     a: "Hanya pengendali yang menyewakan lima bilik atau lebih perlu mendaftar dan memungut TTx. Pengendali dengan empat bilik atau kurang tidak bertanggungjawab untuk mendaftar."
 
 lang: "ms"
-sourceContentHash: "f102342b25c63a8e"
+sourceContentHash: "9e31f49b826b0a54"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

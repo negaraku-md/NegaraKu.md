@@ -36,7 +36,7 @@ faq:
     a: "بعد تعديلات 2015، لم يعد التسجيل يتطلّب تجديداً، لكن المدقّق المسجَّل يقدّم إقراراً سنوياً في 30 يونيو من كل عام ويدفع رسماً قدره RM5,000 عن كل مدقّق فرد قبيل ذكرى تاريخ تسجيله."
 
 lang: "ar"
-sourceContentHash: "046d2016ae30e969"
+sourceContentHash: "08ea21361c570740"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

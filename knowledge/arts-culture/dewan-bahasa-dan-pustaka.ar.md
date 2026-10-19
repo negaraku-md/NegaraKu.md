@@ -32,7 +32,7 @@ faq:
     a: "Kamus Dewan Perdana هو قاموس DBP المرجعي الرقمي الرسمي، وهو جزء من أجندة التحوّل الرقمي لتوفير منصّة مرجعية شاملة للغة الملايوية متاحة مجاناً على kamus.dbp.gov.my."
 
 lang: "ar"
-sourceContentHash: "ad048e11c6564d32"
+sourceContentHash: "b793e5ab54f919b0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

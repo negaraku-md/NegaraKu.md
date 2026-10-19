@@ -34,7 +34,7 @@ faq:
     a: "关于国有企业和指定垄断企业、知识产权、劳工、环境、政府采购、电子商务和跨境数据流动，以及投资（包括投资者与国家争端解决）的约束性规则。马来西亚争取到了过渡期和附函——例如对 PETRONAS 的保护以及对其国有企业的灵活安排。"
 
 lang: "zh"
-sourceContentHash: "9c8e25e6d3236954"
+sourceContentHash: "9db9a0c566e26f27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

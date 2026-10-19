@@ -35,7 +35,7 @@ faq:
     a: "Kedua-dua sistem mempunyai peringkat pendamaian. Di sisi sivil, Seksyen 106 Akta 164 secara amnya menghendaki perkara itu dirujuk kepada badan pendamai (tribunal perkahwinan) sebelum petisyen difailkan, dengan pengecualian terhad. Di sisi Islam, pasangan diarahkan ke kaunseling di Pejabat Agama Islam Negeri sebelum perceraian didaftarkan di mahkamah Syariah."
 
 lang: "ms"
-sourceContentHash: "be15966c8bacd8fa"
+sourceContentHash: "035f1c792e86dd7f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
