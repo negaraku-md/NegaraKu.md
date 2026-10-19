@@ -226,6 +226,28 @@ const NAV_GROUPS = [
   // for the active view, and again at the moment of switching.
   const URL_KEYS: Record<string, string> = { reader: 'nk:reader-url', contributor: 'nk:contributor-url' };
   const here = () => location.pathname + location.search + location.hash;
+  // A view switch must keep the CURRENT language: the target view's remembered URL
+  // may carry the OTHER language's prefix, so re-point it to the locale we're in
+  // now. (ms is served at the root; every other locale lives under /<locale>/.)
+  const LOCALES = ['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'];
+  const curLocale = () => {
+    const s = location.pathname.split('/').filter(Boolean);
+    return LOCALES.includes(s[0]) ? s[0] : 'ms';
+  };
+  const reLocale = (url: string, loc: string) => {
+    try {
+      const u = new URL(url, location.origin);
+      const hadSlash = u.pathname.endsWith('/');
+      const s = u.pathname.split('/').filter(Boolean);
+      if (LOCALES.includes(s[0])) s.shift(); // strip the stored locale prefix
+      const rest = s.join('/');
+      const prefix = loc === 'ms' ? '' : '/' + loc;
+      let p = (prefix + '/' + rest).replace(/\/{2,}/g, '/');
+      if (hadSlash && !p.endsWith('/')) p += '/';
+      u.pathname = p || '/';
+      return u.pathname + u.search + u.hash;
+    } catch { return url; }
+  };
   const recordUrl = () => {
     const v = root.dataset.view === 'contributor' ? 'contributor' : 'reader';
     try { localStorage.setItem(URL_KEYS[v], here()); } catch {}
@@ -246,6 +268,7 @@ const NAV_GROUPS = [
       let dest = '';
       try { dest = localStorage.getItem(URL_KEYS[next]) || ''; } catch {}
       if (!dest) dest = group.getAttribute('data-home-' + next) || '/';
+      dest = reLocale(dest, curLocale()); // keep the current language across the switch
       // Navigate to the saved page if it's elsewhere; otherwise flip in place.
       if (dest !== here()) { location.assign(dest); return; }
       applyView(next);
