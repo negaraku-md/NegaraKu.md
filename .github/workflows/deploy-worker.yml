@@ -1,0 +1,49 @@
+name: Deploy Worker (analytics edge)
+
+# Deploys the Cloudflare Worker in worker/ (negaraku-analytics) — the edge logger +
+# cache/robots layer that fronts the whole site. There was NO deploy automation, so
+# worker code changes (e.g. the asset Cache-Control fix) only went live when someone
+# ran `npx wrangler deploy` by hand. This fills that gap.
+#
+# ONE-TIME SETUP: add a repo secret CLOUDFLARE_API_TOKEN with an API token scoped
+#   Account › Workers Scripts › Edit  +  Account › Account Settings › Read
+#   (and Zone › Workers Routes › Edit for negaraku.md, since wrangler.toml declares a
+#   route). The existing CF_API_TOKEN is analytics/cache-purge-only and will NOT work.
+#   The account id (7137401369008b9b25b788ff1dbc14a2) is not secret — it's below.
+# Existing Worker secrets (AE_API_TOKEN) are preserved across a redeploy — wrangler
+# deploy never clears them.
+#
+# Trigger: manual (workflow_dispatch) OR a push that changes worker/** on main.
+# The worker fronts ALL traffic, so a bad deploy affects the live site — review
+# worker changes before dispatching.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'worker/**'
+      - '.github/workflows/deploy-worker.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-worker
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+      - name: Deploy negaraku-analytics
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: 7137401369008b9b25b788ff1dbc14a2
+          workingDirectory: worker
+          command: deploy

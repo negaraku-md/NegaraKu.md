@@ -49,5 +49,8 @@ jobs:
             echo "manifest unchanged — nothing to commit"
           else
             git commit -m "chore(fb): delete phantom wrong-language posts + clean manifest [skip deploy]"
+            # Rebase onto any commits pushed during the (slow) delete run, or the
+            # push is rejected non-fast-forward and the cleaned manifest is lost.
+            git pull --rebase origin main || true
             git push
           fi
