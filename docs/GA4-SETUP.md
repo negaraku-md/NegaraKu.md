@@ -32,14 +32,27 @@ Mirrors the Search Console archiver (offline/fast at build):
 
 ## One-time setup (required to feed real data)
 
-The pull needs a Google service account. **The repo owner does this** — Claude does
-not create service accounts or handle private keys.
+**Recommended — reuse the existing Search Console service account** (no new key or
+secret). The puller falls back to `GSC_SA_KEY`, so you only need two in-console
+clicks. (Claude does not create service accounts or handle private keys; these two
+steps are account changes, not key handling.)
 
-1. **Google Cloud Console** → pick/create a project → **enable the "Google Analytics Data API"**.
-2. **Create a service account** → its **Keys** tab → *Add key → Create new key → JSON* → download.
-3. **GA Admin → Property Access Management** (the NegaraKu.md property) → add the service account's email (`…@….iam.gserviceaccount.com`) as **Viewer**.
-4. **GitHub → repo Settings → Secrets and variables → Actions** → add secret **`GA_SA_KEY`** = the full JSON contents (verbatim or base64). `GA_PROPERTY_ID` is optional — the script defaults to `559513299`.
-5. **Actions → "Archive Google Analytics" → Run workflow** (or wait for the Monday schedule). It commits `analytics/ga4.json`; the panel shows real numbers on the next deploy.
+1. **Google Cloud Console** (`console.cloud.google.com`) → select the project that
+   owns the `gsc-reader` service account → **APIs & Services → Library → enable the
+   "Google Analytics Data API"**.
+2. **Google Analytics → Admin → Property Access Management** (the NegaraKu.md
+   property) → **+** → add the service account's email
+   (`…@….iam.gserviceaccount.com`, the `client_email` in the GSC key / visible in
+   GCP → IAM) as **Viewer**.
+3. Done. Run **Actions → "Archive Google Analytics" → Run workflow** (or wait for
+   the Monday schedule). It commits `analytics/ga4.json`; the panel shows real
+   numbers on the next deploy.
+
+Trade-off: GA4 then shares the GSC key's lifecycle — rotating/revoking that key
+breaks both. To keep them independent, use a **dedicated** service account instead:
+create it, download a JSON key, add it as Viewer on the property (step 2), and set
+the repo secret **`GA_SA_KEY`** to that JSON (it takes precedence over `GSC_SA_KEY`).
+`GA_PROPERTY_ID` is optional either way — the script defaults to `559513299`.
 
 **Timing:** GA only collects after the site is live **and** visitors accept the
 banner, so the first archive has data ~24–48h after go-live.

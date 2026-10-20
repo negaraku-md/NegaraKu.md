@@ -5,11 +5,11 @@ name: Archive Google Analytics
 # merged forward) into analytics/ga4.json. Weekly + on demand. Commits the
 # snapshot; does NOT trigger a deploy (deploy.yml ignores analytics/**).
 #
-# Requires two repo secrets:
-#   GA_SA_KEY       service-account JSON with the Analytics Data API read scope,
-#                   added as a Viewer on the GA4 property (Admin → Property Access).
-#   GA_PROPERTY_ID  the numeric property id (optional; script defaults to the
-#                   NegaraKu.md property 559513299).
+# Secrets: by default reuses the existing GSC_SA_KEY (the Search Console service
+# account) — just enable the Analytics Data API on its project and add it as a
+# Viewer on the GA4 property; no new key/secret needed. Optional overrides:
+#   GA_SA_KEY       a dedicated service-account JSON (takes precedence over GSC_SA_KEY)
+#   GA_PROPERTY_ID  the numeric property id (optional; script defaults to 559513299)
 
 on:
   schedule:
@@ -35,7 +35,11 @@ jobs:
       - run: npm ci
       - name: Pull Google Analytics
         env:
+          # GA_SA_KEY is optional — the puller falls back to GSC_SA_KEY so the
+          # existing Search Console service account can read GA4 too (just enable
+          # the Data API on its project + add it as a Viewer on the property).
           GA_SA_KEY: ${{ secrets.GA_SA_KEY }}
+          GSC_SA_KEY: ${{ secrets.GSC_SA_KEY }}
           GA_PROPERTY_ID: ${{ secrets.GA_PROPERTY_ID }}
         run: node scripts/pull-ga4.mjs
       - name: Commit the snapshot if it changed

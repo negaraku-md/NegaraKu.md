@@ -13,9 +13,12 @@
 // for an access token — identical to pull-search-console.mjs, only the scope and
 // API differ.
 //
-// Env: GA_SA_KEY (service-account JSON, verbatim or base64). GA_PROPERTY_ID
-// (numeric; defaults to the NegaraKu.md property). Fail-safe: missing creds or any
-// API error → the committed snapshot is kept, exit 0. Never breaks a build.
+// Env: GA_SA_KEY (service-account JSON, verbatim or base64) — falls back to
+// GSC_SA_KEY so the SAME service account that reads Search Console can read GA4
+// (just enable the Analytics Data API on its project + add it as a Viewer on the
+// property; no new key or secret needed). GA_PROPERTY_ID (numeric; defaults to the
+// NegaraKu.md property). Fail-safe: missing creds or any API error → the committed
+// snapshot is kept, exit 0. Never breaks a build.
 //
 // GA4 only receives data from visitors who ACCEPT the cookie banner (Consent
 // Mode v2 defaults to denied), so these numbers are a consented subset — smaller
@@ -100,8 +103,8 @@ function parseKey(raw) {
 }
 
 async function main() {
-  const raw = process.env.GA_SA_KEY;
-  if (!raw) { console.log('[ga4] no GA_SA_KEY — nothing to pull.'); return; }
+  const raw = process.env.GA_SA_KEY || process.env.GSC_SA_KEY;
+  if (!raw) { console.log('[ga4] no GA_SA_KEY / GSC_SA_KEY — nothing to pull.'); return; }
   const sa = parseKey(raw);
   if (!sa) { console.warn('[ga4] GA_SA_KEY is not a valid service-account JSON (raw or base64) — skipping.'); return; }
 
